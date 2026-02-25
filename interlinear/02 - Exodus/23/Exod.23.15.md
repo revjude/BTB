@@ -1,8 +1,78 @@
+---
+title: Exodus 23:15
+type: Verse
+kjv: "Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)"
+bsb: "You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before Me empty-handed."
+hebrew: "אֶת־ חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי־ ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא־ יֵרָא֥וּ פָנַ֖י רֵיקָֽם׃"
+pericope: "[[Exod.23.14 The Three Feasts of Pilgrimage|The Three Feasts of Pilgrimage]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABIB|ABIB]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2282]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H8104G]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H0398]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H4150G]]"
+- "[[H2320G]]"
+- "[[H0024]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:15**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)
 <small><sub>**BSB:**</sub></small>
 You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before Me empty-handed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֣ג]] [[H9009\|הַ]][[H4682\|מַּצּוֹת֮]] [[H8104G\|תִּשְׁמֹר֒]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִים֩]] [[H0398\|תֹּאכַ֨ל]] [[H4682\|מַצּ֜וֹת]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֗]][[H9031\|ךָ]] [[H9005\|לְ]][[H4150G\|מוֹעֵד֙]] [[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָֽ]][[H0024\|אָבִ֔יב]] [[H3588A\|כִּי]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H3318G\|יָצָ֣אתָ]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7200G\|יֵרָא֥וּ]] [[H6440G\|פָנַ֖]][[H9020\|י]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIB|ABIB]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.14|<< Exodus 23:14]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.16|Exodus 23:16 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 12:19
+type: Verse
+kjv: "And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads."
+bsb: "Some from Manasseh defected to David when he went with the Philistines to fight against Saul. (They did not help the Philistines because the Philistine rulers consulted and sent David away, saying, “It will cost us our heads if he defects to his master Saul.”)"
+hebrew: "וּמִֽמְּנַשֶּׁ֞ה נָפְל֣וּ עַל־ דָּוִ֗יד בְּבֹא֨וֹ עִם־ פְּלִשְׁתִּ֧ים עַל־ שָׁא֛וּל לַמִּלְחָמָ֖ה וְלֹ֣א עֲזָרֻ֑ם כִּ֣י בְעֵצָ֗ה שִׁלְּחֻ֜הוּ סַרְנֵ֤י פְלִשְׁתִּים֙ לֵאמֹ֔ר בְּרָאשֵׁ֕ינוּ יִפּ֖וֹל אֶל־ אֲדֹנָ֥יו שָׁאֽוּל׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4519G]]"
+- "[[H5307H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H6430G]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3808]]"
+- "[[H5826]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H6098]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H5633A]]"
+- "[[H0559]]"
+- "[[H7218A]]"
+- "[[H9025]]"
+- "[[H0413]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:19**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there fell [some] of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to [the jeopardy of] our heads.
 <small><sub>**BSB:**</sub></small>
 Some from Manasseh defected to David when he went with the Philistines to fight against Saul. (They did not help the Philistines because the Philistine rulers consulted and sent David away, saying, “It will cost us our heads if he defects to his master Saul.”)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִֽ]][[H4519G\|מְּנַשֶּׁ֞ה]] [[H5307H\|נָפְל֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1732\|דָּוִ֗יד]] [[H9003\|בְּ]][[H0935G\|בֹא֨]][[H9043\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֧ים]] [[H5921A\|עַל]][[H9014\|־]] [[H7586G\|שָׁא֛וּל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5826\|עֲזָרֻ֑]][[H9038\|ם]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H6098\|עֵצָ֗ה]] [[H7971G\|שִׁלְּחֻ֜]][[H9033\|הוּ]] [[H5633A\|סַרְנֵ֤י]] [[H6430G\|פְלִשְׁתִּים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9003\|בְּ]][[H7218A\|רָאשֵׁ֕י]][[H9025\|נוּ]] [[H5307H\|יִפּ֖וֹל]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנָ֥י]][[H9023\|ו]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.18|<< 1 Chronicles 12:18]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.20|1 Chronicles 12:20 >>]]</td></tr></table>
 

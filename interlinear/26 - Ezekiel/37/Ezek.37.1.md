@@ -1,8 +1,68 @@
+---
+title: Ezekiel 37:1
+type: Verse
+kjv: "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,"
+bsb: "The hand of the LORD was upon me, and He brought me out by His Spirit and set me down in the middle of the valley, and it was full of bones."
+hebrew: "הָיְתָ֣ה עָלַי֮ יַד־ יְהוָה֒ וַיּוֹצִאֵ֤נִי בְר֙וּחַ֙ יְהוָ֔ה וַיְנִיחֵ֖נִי בְּת֣וֹךְ הַבִּקְעָ֑ה וְהִ֖יא מְלֵאָ֥ה עֲצָמֽוֹת׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9003]]"
+- "[[H7307G]]"
+- "[[H5117]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H1237K]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4392]]"
+- "[[H6106G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:1**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones,
 <small><sub>**BSB:**</sub></small>
 The hand of the LORD was upon me, and He brought me out by His Spirit and set me down in the middle of the valley, and it was full of bones.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיְתָ֣ה]] [[H5921A\|עָלַ]][[H9030\|י֮]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָה֒]] [[H9001\|וַ]][[H3318H\|יּוֹצִאֵ֤]][[H9030\|נִי]] [[H9003\|בְ]][[H7307G\|ר֙וּחַ֙]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5117\|יְנִיחֵ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H1237K\|בִּקְעָ֑ה]] [[H9002\|וְ]][[H1931\|הִ֖יא]] [[H4392\|מְלֵאָ֥ה]] [[H6106G\|עֲצָמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic EZEKIEL|EZEKIEL]] • [[topic PROPHETS|PROPHETS]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.38|<< Ezekiel 36:38]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.2|Ezekiel 37:2 >>]]</td></tr></table>
 

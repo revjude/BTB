@@ -1,8 +1,71 @@
+---
+title: Ezekiel 33:25
+type: Verse
+kjv: "Wherefore say unto them, Thus saith the Lord GOD; Ye eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall ye possess the land?"
+bsb: "Therefore tell them that this is what the Lord GOD says: ‘You eat meat with the blood in it, lift up your eyes to your idols, and shed blood. Should you then possess the land?"
+hebrew: "לָכֵן֩ אֱמֹ֨ר אֲלֵיהֶ֜ם כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה עַל־ הַדָּ֧ם׀ תֹּאכֵ֛לוּ וְעֵינֵכֶ֛ם תִּשְׂא֥וּ אֶל־ גִּלּוּלֵיכֶ֖ם וְדָ֣ם תִּשְׁפֹּ֑כוּ וְהָאָ֖רֶץ תִּירָֽשׁוּ׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H5375M]]"
+- "[[H1544]]"
+- "[[H8210H]]"
+- "[[H9008]]"
+- "[[H0776G]]"
+- "[[H3423G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:25**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore say unto them, Thus saith the Lord GOD; Ye eat with the blood, and lift up your eyes toward your idols, and shed blood: and shall ye possess the land?
 <small><sub>**BSB:**</sub></small>
 Therefore tell them that this is what the Lord GOD says: ‘You eat meat with the blood in it, lift up your eyes to your idols, and shed blood. Should you then possess the land?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H0559\|אֱמֹ֨ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֧ם]][[H9015\|׀]] [[H0398\|תֹּאכֵ֛לוּ]] [[H9002\|וְ]][[H5869A\|עֵינֵ]][[H9026\|כֶ֛ם]] [[H5375M\|תִּשְׂא֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1544\|גִּלּוּלֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H1818\|דָ֣ם]] [[H8210H\|תִּשְׁפֹּ֑כוּ]] [[H9002\|וְ]][[H9008\|הָ]][[H0776G\|אָ֖רֶץ]] [[H3423G\|תִּירָֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.24|<< Ezekiel 33:24]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.26|Ezekiel 33:26 >>]]</td></tr></table>
 

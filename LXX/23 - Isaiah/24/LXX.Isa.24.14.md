@@ -1,6 +1,57 @@
+---
+title: LXX Isaiah 24:14
+type: Verse
+lxx: "And these in a voice shall yell out; but the ones being left behind upon the earth shall be glad together in the glory of the lord; the water of the sea shall be disturbed."
+greek: "και ούτοι φωνή βοήσονται οι δε καταλειφθέντες επί της γης ευφρανθήσονται άμα τη δόξη κυρίου ταραχθήσεται το ύδωρ της θαλάσσης"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G5456]]"
+- "[[G0994]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2641]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2165]]"
+- "[[G0260]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G2962]]"
+- "[[G5015]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G3588]]"
+- "[[G2281]]"
+---
+
 **LXX Isaiah 24:14** 
 <small><sub>**LXX:**</sub></small>
 And these in a voice shall yell out; but the ones being left behind upon the earth shall be glad together in the glory of \[the\] <span class="smallcaps">lord</span>; the water of the sea shall be disturbed. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3778\|ούτοι]] [[G5456\|φωνή]] [[G0994\|βοήσονται]] [[G3588\|οι]] [[G1161\|δε]] [[G2641\|καταλειφθέντες]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G2165\|ευφρανθήσονται]] [[G0260\|άμα]] [[G3588\|τη]] [[G1391\|δόξη]] [[G2962\|κυρίου]] [[G5015\|ταραχθήσεται]] [[G3588\|το]] [[G5204\|ύδωρ]] [[G3588\|της]] [[G2281\|θαλάσσης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
@@ -25,6 +76,6 @@ And these in a voice shall yell out; but the ones being left behind upon the ear
 | water | **<big>[[G5204\|ύδωρ]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | sea | **<big>[[G2281\|θαλάσσης]]</big>** |
-[[Isa.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
 

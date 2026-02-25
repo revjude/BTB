@@ -1,8 +1,55 @@
+---
+title: Proverbs 29:20
+type: Verse
+kjv: "Seest thou a man that is hasty in his words? there is more hope of a fool than of him."
+bsb: "Do you see a man who speaks in haste? There is more hope for a fool than for him."
+hebrew: "חָזִ֗יתָ אִ֭ישׁ אָ֣ץ בִּדְבָרָ֑יו תִּקְוָ֖ה לִכְסִ֣יל מִמֶּֽנּוּ׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H2372]]"
+- "[[H0376I]]"
+- "[[H0213]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H8615B]]"
+- "[[H9005]]"
+- "[[H3684]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:20**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou a man [that is] hasty in his words? [there is] more hope of a fool than of him.
 <small><sub>**BSB:**</sub></small>
 Do you see a man who speaks in haste? There is more hope for a fool than for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2372\|חָזִ֗יתָ]] [[H0376I\|אִ֭ישׁ]] [[H0213\|אָ֣ץ]] [[H9003\|בִּ]][[H1697G\|דְבָרָ֑י]][[H9023\|ו]] [[H8615B\|תִּקְוָ֖ה]] [[H9005\|לִ]][[H3684\|כְסִ֣יל]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RASHNESS|RASHNESS]] • [[topic SPEAKING|SPEAKING]] • [[topic TONGUE|TONGUE]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 

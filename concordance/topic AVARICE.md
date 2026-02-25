@@ -11,5 +11,5 @@
 
 → INSTANCES OF
 
-- The descendants of Joseph [[Josh.17.14|Jos 17:14]]-[[Josh.17.18|18]]
+- The descendants of Joseph [[Josh.17.14|Jos 17:14-18]]
 

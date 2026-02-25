@@ -1,8 +1,73 @@
+---
+title: Exodus 10:2
+type: Verse
+kjv: "And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD."
+bsb: "and that you may tell your children and grandchildren how severely I dealt with the Egyptians when I performed miraculous signs among them, so that all of you may know that I am the LORD.”"
+hebrew: "וּלְמַ֡עַן תְּסַפֵּר֩ בְּאָזְנֵ֨י בִנְךָ֜ וּבֶן־ בִּנְךָ֗ אֵ֣ת אֲשֶׁ֤ר הִתְעַלַּ֙לְתִּי֙ בְּמִצְרַ֔יִם וְאֶת־ אֹתֹתַ֖י אֲשֶׁר־ שַׂ֣מְתִּי בָ֑ם וִֽידַעְתֶּ֖ם כִּי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4616]]"
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H5953A]]"
+- "[[H4714G]]"
+- "[[H0226G]]"
+- "[[H9020]]"
+- "[[H7760A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:2**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 and that you may tell your children and grandchildren how severely I dealt with the Egyptians when I performed miraculous signs among them, so that all of you may know that I am the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4616\|לְמַ֡עַן]] [[H5608A\|תְּסַפֵּר֩]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֨י]] [[H1121A\|בִנְ]][[H9021\|ךָ֜]] [[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H1121G\|בִּנְ]][[H9021\|ךָ֗]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁ֤ר]] [[H5953A\|הִתְעַלַּ֙לְתִּי֙]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0226G\|אֹתֹתַ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760A\|שַׂ֣מְתִּי]] [[H9003\|בָ֑]][[H9038\|ם]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PARENTS|PARENTS]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.1|<< Exodus 10:1]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.3|Exodus 10:3 >>]]</td></tr></table>
 

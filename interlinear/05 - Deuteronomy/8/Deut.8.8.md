@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 8:8
+type: Verse
+kjv: "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;"
+bsb: "a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil and honey;"
+hebrew: "אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ־ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic FIG|FIG]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic OLIVE|OLIVE]]"
+strongs:
+- "[[H0776G]]"
+- "[[H2406]]"
+- "[[H9002]]"
+- "[[H8184]]"
+- "[[H1612]]"
+- "[[H8384]]"
+- "[[H7416]]"
+- "[[H9014]]"
+- "[[H2132H]]"
+- "[[H8081]]"
+- "[[H1706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:8**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;
 <small><sub>**BSB:**</sub></small>
 a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil and honey;
+<small><sub>**Hebrew:**</sub></small>
+[[H0776G\|אֶ֤רֶץ]] [[H2406\|חִטָּה֙]] [[H9002\|וּ]][[H8184\|שְׂעֹרָ֔ה]] [[H9002\|וְ]][[H1612\|גֶ֥פֶן]] [[H9002\|וּ]][[H8384\|תְאֵנָ֖ה]] [[H9002\|וְ]][[H7416\|רִמּ֑וֹן]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H2132H\|זֵ֥ית]] [[H8081\|שֶׁ֖מֶן]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARLEY|BARLEY]] • [[topic BLESSING|BLESSING]] • [[topic CANAAN|CANAAN]] • [[topic FIG|FIG]] • [[topic HONEY|HONEY]] • [[topic OLIVE|OLIVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.7|<< Deuteronomy 8:7]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.9|Deuteronomy 8:9 >>]]</td></tr></table>
 

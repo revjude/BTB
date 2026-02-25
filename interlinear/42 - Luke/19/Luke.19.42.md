@@ -1,10 +1,66 @@
+---
+title: Luke 19:42
+type: Verse
+kjv: "Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes."
+bsb: "and said, “If only you had known on this day what would bring you peace! But now it is hidden from your eyes."
+jesus_said: "If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes."
+greek: "λέγων ὅτι εἰ ἔγνως καί γε ἐν τῇ ἡμέρᾳ σου ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην σου· νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου."
+pericope: "[[Luke.19.41 Jesus Weeps over Jerusalem|Jesus Weeps over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1487J]]"
+- "[[G1097]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G4314]]"
+- "[[G1515]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2928]]"
+- "[[G0575]]"
+- "[[G3788]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **Luke 19:42**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, If thou hadst known, even thou, at least in this thy day, the things [which belong] unto thy peace! but now they are hid from thine eyes.
 <small><sub>**BSB:**</sub></small>
 and said, “If only you had known on this day what would bring you peace! But now it is hidden from your eyes.
-<small><sub>**Literal:**</sub></small>
-saying that If you had known and indeed in the day of you this even you yourself the [things] for peace of you; Now however they are hidden from eyes of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.41|<< Luke 19:41]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.43|Luke 19:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G1487J\|εἰ]]  [[G1097\|ἔγνως]]  [[G2532\|καί]]  [[G1065\|γε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G4771\|σου]]  [[G3778\|ταύτῃ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G1515\|εἰρήνην]]  [[G4771\|σου·]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2928\|ἐκρύβη]]  [[G0575\|ἀπὸ]]  [[G3788\|ὀφθαλμῶν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.41|<< Luke 19:41]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.43|Luke 19:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

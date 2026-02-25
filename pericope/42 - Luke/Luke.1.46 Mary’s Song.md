@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mary’s Song
+type: Pericope
 pericope: "[[Luke.1.46 Mary’s Song|Mary’s Song]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 11
 verses:
 - "[[Luke.1.46]]"
 - "[[Luke.1.47]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Luke.1.56]]"
 ---
 
-[[Luke.1|Luke 1:46 - Luke 1:56]]
+<small>[[Luke.1|Luke 1:46-56]]</small>
 *Mary’s Song*
 
 [[Luke.1.46|46]] And Mary said, My soul doth magnify the Lord,

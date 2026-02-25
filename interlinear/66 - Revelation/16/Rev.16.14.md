@@ -1,10 +1,70 @@
+---
+title: Revelation 16:14
+type: Verse
+kjv: "For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty."
+bsb: "These are demonic spirits that perform signs and go out to all the kings of the earth, to assemble them for battle on the great day of God the Almighty."
+greek: "εἰσὶν γὰρ πνεύματα δαιμονίων ποιοῦντα σημεῖα ἃ ἐκπορεύεται ἐπὶ τοὺς βασιλεῖς τῆς γῆς καὶ τῆς οἰκουμένης ὅλης συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον τῆς ἡμέρας ἐκείνης τῆς μεγάλης τοῦ θεοῦ τοῦ παντοκράτορος."
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4151G]]"
+- "[[G1140]]"
+- "[[G4160G]]"
+- "[[G4592]]"
+- "[[G3739]]"
+- "[[G1607]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G2532]]"
+- "[[G3625]]"
+- "[[G3650]]"
+- "[[G4863]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4171]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3173]]"
+- "[[G2316]]"
+- "[[G3841]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Revelation 16:14**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they are the spirits of devils, working miracles, [which] go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 <small><sub>**BSB:**</sub></small>
 These are demonic spirits that perform signs and go out to all the kings of the earth, to assemble them for battle on the great day of God the Almighty.
-<small><sub>**Literal:**</sub></small>
-they are for spirits of demons performing signs which go forth to the kings of the earth and of the inhabited [world] whole to gather together them unto the battle of the day that [one] the great [day] <the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|εἰσὶν]]  [[G1063\|γὰρ]]  [[G4151G\|πνεύματα]]  [[G1140\|δαιμονίων]]  [[G4160G\|ποιοῦντα]]  [[G4592\|σημεῖα]]  [[G3739\|ἃ]]  [[G1607\|ἐκπορεύεται]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0935\|βασιλεῖς]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3625\|οἰκουμένης]]  [[G3650\|ὅλης]]  [[G4863\|συναγαγεῖν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G4171\|πόλεμον]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1565\|ἐκείνης]]  [[G3588\|τῆς]]  [[G3173\|μεγάλης]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G3841\|παντοκράτορος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.13|<< Revelation 16:13]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.15|Revelation 16:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:14** is...
 > $\quad$ possibly alluding to: [[LXX.Joel.3.2|Joel 3:2]] ☩ [[LXX.Zeph.3.8|Zeph 3:8]] ☩ [[LXX.Zech.14.2|Zech 14:2]]

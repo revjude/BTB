@@ -1,10 +1,71 @@
+---
+title: Matthew 25:10
+type: Verse
+kjv: "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+bsb: "But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut."
+jesus_said: "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+greek: "ἀπερχομένων δὲ αὐτῶν ἀγοράσαι ἦλθεν ὁ νυμφίος, καὶ αἱ ἕτοιμοι εἰσῆλθον μετ᾽ αὐτοῦ εἰς τοὺς γάμους, καὶ ἐκλείσθη ἡ θύρα."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic DOOR|DOOR]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0565]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0059]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3566]]"
+- "[[G2532]]"
+- "[[G2092]]"
+- "[[G1525]]"
+- "[[G3326]]"
+- "[[G1519]]"
+- "[[G1062]]"
+- "[[G2808]]"
+- "[[G2374]]"
+texts:
+- NKO
+---
+
 **Matthew 25:10**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
 <small><sub>**BSB:**</sub></small>
 But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut.
-<small><sub>**Literal:**</sub></small>
-[While] are going away then they to buy came the bridegroom, and those ready went in with him to the wedding feast, and was shut the door.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.9|<< Matthew 25:9]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.11|Matthew 25:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0565\|ἀπερχομένων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G0059\|ἀγοράσαι]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος,]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G2092\|ἕτοιμοι]]  [[G1525\|εἰσῆλθον]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G1062\|γάμους,]]  [[G2532\|καὶ]]  [[G2808\|ἐκλείσθη]]  [[G3588\|ἡ]]  [[G2374\|θύρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic DOOR|DOOR]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REPROBACY|REPROBACY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.9|<< Matthew 25:9]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.11|Matthew 25:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

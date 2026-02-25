@@ -1,8 +1,66 @@
+---
+title: Nehemiah 4:13
+type: Verse
+kjv: "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows."
+bsb: "So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows."
+hebrew: "וָֽאַעֲמִ֞יד מִֽתַּחְתִּיּ֧וֹת לַמָּק֛וֹם מֵאַחֲרֵ֥י לַחוֹמָ֖ה בַּצְּחִיחִ֑ים וָֽאַעֲמִ֤יד אֶת־ הָעָם֙ לְמִשְׁפָּח֔וֹת עִם־ חַרְבֹתֵיהֶ֛ם רָמְחֵיהֶ֖ם וְקַשְּׁתֹתֵיהֶֽם׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975J]]"
+- "[[H9006]]"
+- "[[H8482]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H0310A]]"
+- "[[H2346G]]"
+- "[[H9003]]"
+- "[[H6708]]"
+- "[[H6706]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4940]]"
+- "[[H5973A]]"
+- "[[H2719]]"
+- "[[H9028]]"
+- "[[H7420]]"
+- "[[H9002]]"
+- "[[H7198]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nehemiah 4:13**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore set I in the lower places behind the wall, [and] on the higher places, I even set the people after their families with their swords, their spears, and their bows.
 <small><sub>**BSB:**</sub></small>
 So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H5975J\|אַעֲמִ֞יד]] [[H9006\|מִֽ]][[H8482\|תַּחְתִּיּ֧וֹת]] [[H9005\|לַ]][[H4725\|מָּק֛וֹם]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֥י]] [[H9005\|לַ]][[H2346G\|חוֹמָ֖ה]] [[H9003\|בַּ]][[H6706\|צְּחִיחִ֑ים]] [[H9001\|וָֽ]][[H5975J\|אַעֲמִ֤יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9005\|לְ]][[H4940\|מִשְׁפָּח֔וֹת]] [[H5973A\|עִם]][[H9014\|־]] [[H2719\|חַרְבֹתֵי]][[H9028\|הֶ֛ם]] [[H7420\|רָמְחֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H7198\|קַשְּׁתֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
@@ -24,7 +82,7 @@ So I stationed men behind the lowest sections of the wall, at the vulnerable are
 | and bows their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7198\|קַשְּׁתֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.she.to.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
-[^1]: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
-[^2]: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
+[^1]: in the open places  | **<big>[[H9003|בַּ]]</big><big>[[H6708|צְּחִחִיִּים]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: in the open places  | **<big>[[H9003|בַּ]]</big><big>[[H6708|צְּחִחִיִּים]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בַּצְּחִחִ֑יים</big></span>**
 

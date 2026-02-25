@@ -1,8 +1,59 @@
+---
+title: Obadiah 1:7
+type: Verse
+kjv: "All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him."
+bsb: "All the men allied with you will drive you to the border; the men at peace with you will deceive and overpower you. Those who eat your bread will set a trap for you without your awareness of it."
+hebrew: "עַֽד־ הַגְּב֣וּל שִׁלְּח֗וּךָ כֹּ֚ל אַנְשֵׁ֣י בְרִיתֶ֔ךָ הִשִּׁיא֛וּךָ יָכְל֥וּ לְךָ֖ אַנְשֵׁ֣י שְׁלֹמֶ֑ךָ לַחְמְךָ֗ יָשִׂ֤ימוּ מָזוֹר֙ תַּחְתֶּ֔יךָ אֵ֥ין תְּבוּנָ֖ה בּֽוֹ׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H1285]]"
+- "[[H9021]]"
+- "[[H5377]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7965G]]"
+- "[[H3899H]]"
+- "[[H7760A]]"
+- "[[H4204]]"
+- "[[H8478G]]"
+- "[[H0369]]"
+- "[[H8394]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:7**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the men of thy confederacy have brought thee [even] to the border: the men that were at peace with thee have deceived thee, [and] prevailed against thee; [they that eat] thy bread have laid a wound under thee: [there is] none understanding in him.
 <small><sub>**BSB:**</sub></small>
 All the men allied with you will drive you to the border; the men at peace with you will deceive and overpower you. Those who eat your bread will set a trap for you without your awareness of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַֽד]][[H9014\|־]] [[H9009\|הַ]][[H1366G\|גְּב֣וּל]] [[H7971G\|שִׁלְּח֗וּ]][[H9031\|ךָ]] [[H3605\|כֹּ֚ל]] [[H0582\|אַנְשֵׁ֣י]] [[H1285\|בְרִיתֶ֔]][[H9021\|ךָ]] [[H5377\|הִשִּׁיא֛וּ]][[H9031\|ךָ]] [[H3201\|יָכְל֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0582\|אַנְשֵׁ֣י]] [[H7965G\|שְׁלֹמֶ֑]][[H9021\|ךָ]] [[H3899H\|לַחְמְ]][[H9021\|ךָ֗]] [[H7760A\|יָשִׂ֤ימוּ]] [[H4204\|מָזוֹר֙]] [[H8478G\|תַּחְתֶּ֔י]][[H9031\|ךָ]] [[H0369\|אֵ֥ין]] [[H8394\|תְּבוּנָ֖ה]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.6|<< Obadiah 1:6]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.8|Obadiah 1:8 >>]]</td></tr></table>
 

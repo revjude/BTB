@@ -1,8 +1,64 @@
+---
+title: Exodus 30:25
+type: Verse
+kjv: "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil."
+bsb: "Prepare from these a sacred anointing oil, a fragrant blend, the work of a perfumer; it will be a sacred anointing oil."
+hebrew: "וְעָשִׂ֣יתָ אֹת֗וֹ שֶׁ֚מֶן מִשְׁחַת־ קֹ֔דֶשׁ רֹ֥קַח מִרְקַ֖חַת מַעֲשֵׂ֣ה רֹקֵ֑חַ שֶׁ֥מֶן מִשְׁחַת־ קֹ֖דֶשׁ יִהְיֶֽה׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING OIL|ANOINTING OIL]]"
+- "[[topic APOTHECARY|APOTHECARY]]"
+- "[[topic ART|ART]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H8081]]"
+- "[[H4888A]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H7545]]"
+- "[[H4842]]"
+- "[[H4639G]]"
+- "[[H7543]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:25**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.
 <small><sub>**BSB:**</sub></small>
 Prepare from these a sacred anointing oil, a fragrant blend, the work of a perfumer; it will be a sacred anointing oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֣יתָ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H8081\|שֶׁ֚מֶן]] [[H4888A\|מִשְׁחַת]][[H9014\|־]] [[H6944G\|קֹ֔דֶשׁ]] [[H7545\|רֹ֥קַח]] [[H4842\|מִרְקַ֖חַת]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H7543\|רֹקֵ֑חַ]] [[H8081\|שֶׁ֥מֶן]] [[H4888A\|מִשְׁחַת]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING OIL|ANOINTING OIL]] • [[topic APOTHECARY|APOTHECARY]] • [[topic ART|ART]] • [[topic OIL|OIL]] • [[topic OINTMENT|OINTMENT]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.24|<< Exodus 30:24]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.26|Exodus 30:26 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 89:46
+type: Verse
+kjv: "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?"
+bsb: "How long, O LORD? Will You hide Yourself forever? Will Your wrath keep burning like fire?"
+hebrew: "עַד־ מָ֣ה יְ֭הוָה תִּסָּתֵ֣ר לָנֶ֑צַח תִּבְעַ֖ר כְּמוֹ־ אֵ֣שׁ חֲמָתֶֽךָ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H5641]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H1197A]]"
+- "[[H3644G]]"
+- "[[H0784]]"
+- "[[H2534]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:46**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?
 <small><sub>**BSB:**</sub></small>
 How long, O LORD? Will You hide Yourself forever? Will Your wrath keep burning like fire?
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4100\|מָ֣ה]] [[H3068G\|יְ֭הוָה]] [[H5641\|תִּסָּתֵ֣ר]] [[H9005\|לָ]][[H5331\|נֶ֑צַח]] [[H1197A\|תִּבְעַ֖ר]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H0784\|אֵ֣שׁ]] [[H2534\|חֲמָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.45|<< Psalms 89:45]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.47|Psalms 89:47 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 17:13
+type: Verse
+kjv: "Whoso rewardeth evil for good, evil shall not depart from his house."
+bsb: "If anyone returns evil for good, evil will never leave his house."
+hebrew: "מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא־ תָמ֥וּשׁ רָ֝עָ֗ה מִבֵּיתֽוֹ׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H7451I]]"
+- "[[H8478H]]"
+- "[[H2896C]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Proverbs 17:13**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso rewardeth evil for good, evil shall not depart from his house.
 <small><sub>**BSB:**</sub></small>
 If anyone returns evil for good, evil will never leave his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|מֵשִׁ֣יב]] [[H7451I\|רָ֭עָה]] [[H8478H\|תַּ֣חַת]] [[H2896C\|טוֹבָ֑ה]] [[H3808\|לֹא]][[H9014\|־]] [[H4185\|תָמ֥וּשׁ]] [[H7451I\|רָ֝עָ֗ה]] [[H9006\|מִ]][[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INGRATITUDE|INGRATITUDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.12|<< Proverbs 17:12]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.14|Proverbs 17:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

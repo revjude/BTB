@@ -1,8 +1,54 @@
+---
+title: Psalm 132:10
+type: Verse
+kjv: "For thy servant David’s sake turn not away the face of thine anointed."
+bsb: "For the sake of Your servant David, do not reject Your anointed one."
+hebrew: "בַּ֭עֲבוּר דָּוִ֣ד עַבְדֶּ֑ךָ אַל־ תָּ֝שֵׁ֗ב פְּנֵ֣י מְשִׁיחֶֽךָ׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H6440H]]"
+- "[[H4899]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:10**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant David’s sake turn not away the face of thine anointed.
 <small><sub>**BSB:**</sub></small>
 For the sake of Your servant David, do not reject Your anointed one.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H5668\|עֲבוּר]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H7725I\|תָּ֝שֵׁ֗ב]] [[H6440H\|פְּנֵ֣י]] [[H4899\|מְשִׁיחֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.9|<< Psalms 132:9]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.11|Psalms 132:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

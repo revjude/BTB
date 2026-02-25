@@ -1,10 +1,67 @@
+---
+title: Luke 15:15
+type: Verse
+kjv: "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+bsb: "So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs."
+jesus_said: "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+greek: "καὶ πορευθεὶς ἐκολλήθη ἑνὶ τῶν πολιτῶν τῆς χώρας ἐκείνης, καὶ ἔπεμψεν αὐτὸν εἰς τοὺς ἀγροὺς αὐτοῦ βόσκειν χοίρους."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SWINE|SWINE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2853]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G4177]]"
+- "[[G5561]]"
+- "[[G1565]]"
+- "[[G3992]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0068G]]"
+- "[[G1006]]"
+- "[[G5519]]"
+texts:
+- NKO
+---
+
 **Luke 15:15**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
 <small><sub>**BSB:**</sub></small>
 So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs.
-<small><sub>**Literal:**</sub></small>
-And having gone he joined himself to one of the citizens the country of that, and he sent him into the fields of him to feed pigs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.14|<< Luke 15:14]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.16|Luke 15:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4198\|πορευθεὶς]]  [[G2853\|ἐκολλήθη]]  [[G1520\|ἑνὶ]]  [[G3588\|τῶν]]  [[G4177\|πολιτῶν]]  [[G3588\|τῆς]]  [[G5561\|χώρας]]  [[G1565\|ἐκείνης,]]  [[G2532\|καὶ]]  [[G3992\|ἔπεμψεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0068G\|ἀγροὺς]]  [[G0846\|αὐτοῦ]]  [[G1006\|βόσκειν]]  [[G5519\|χοίρους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic SWINE|SWINE]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.14|<< Luke 15:14]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.16|Luke 15:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

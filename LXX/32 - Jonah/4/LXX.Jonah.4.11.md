@@ -1,6 +1,69 @@
+---
+title: LXX Jonah 4:11
+type: Verse
+lxx: "But I, shall I not spare for Nineveh the great city, in which dwells in it more than twelve myriads of men, who do not know their right hand or their left, and much cattle?"
+greek: "εγώ δε ου φείσομαι υπέρ Νινευϊ της πόλεως της μεγάλης εν η κατοικούσι εν αυτή πλείους η δώδεκα μυριάδες ανθρώπων οίτινες ουκ έγνωσαν δεξιάν αυτών η αριστεράν αυτών και κτήνη πολλά"
+original_language: Greek
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G5339]]"
+- "[[G5228]]"
+- "[[G3535]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G4183]]"
+- "[[G2228]]"
+- "[[G1427]]"
+- "[[G3461]]"
+- "[[G0444]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G1188]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G0710]]"
+- "[[G2532]]"
+- "[[G2934]]"
+- "[[G4183]]"
+---
+
 **LXX Jonah 4:11** 
 <small><sub>**LXX:**</sub></small>
 But I, shall I not spare for Nineveh the great city, in which dwells in it more than twelve myriads of men, who do not know their right \[hand\] or their left, and much cattle? 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|εγώ]] [[G1161\|δε]] [[G3756\|ου]] [[G5339\|φείσομαι]] [[G5228\|υπέρ]] [[G3535\|Νινευϊ]] [[G3588\|της]] [[G4172\|πόλεως]] [[G3588\|της]] [[G3173\|μεγάλης]] [[G1722\|εν]] [[G3739\|η]] [[G2730\|κατοικούσι]] [[G1722\|εν]] [[G1473\|αυτή]] [[G4183\|πλείους]] [[G2228\|η]] [[G1427\|δώδεκα]] [[G3461\|μυριάδες]] [[G0444\|ανθρώπων]] [[G3748\|οίτινες]] [[G3756\|ουκ]] [[G1097\|έγνωσαν]] [[G1188\|δεξιάν]] [[G1473\|αυτών]] [[G2228\|η]] [[G0710\|αριστεράν αυτών]] [[G2532\|και]] [[G2934\|κτήνη]] [[G4183\|πολλά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]] • [[topic NINEVEH|NINEVEH]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jonah.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.1|Micah 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +101,6 @@ But I, shall I not spare for Nineveh the great city, in which dwells in it more 
 | and | **<big>[[G2532\|και]]</big>** |
 | cattle | **<big>[[G2934\|κτήνη]]</big>** |
 | much | **<big>[[G4183\|πολλά]]</big>** |
-[[Jonah.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.1|Micah 1:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.1|Micah 1:1 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah’s Rebellion
+type: Pericope
 pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 1
 book/chapter: "[[Isa.1|Isaiah 1]]"
-genre:
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.1.1]]"
 - "[[Isa.1.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.1.9]]"
 ---
 
-[[Isa.1|Isaiah 1:1 - Isaiah 1:9]]
+<small>[[Isa.1|Isaiah 1:1-9]]</small>
 *Judah’s Rebellion*
 
 [[Isa.1.1|1]] The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, \[and\] Hezekiah, kings of Judah.

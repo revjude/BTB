@@ -1,6 +1,76 @@
+---
+title: LXX Genesis 16:5
+type: Verse
+lxx: "And Sarai said to Abram, I am being wronged because of you. I gave  my maidservant to  your bosom. And seeing that she had a child in the womb I was dishonored before her. May God judge between me and you."
+greek: "είπε δε Σάρα προς Άβραμ αδικούμαι εκ σου εγώ δέδωκα την παιδίσκην μου εις τον κόλπον σου ιδούσα δε ότι εν γαστρί έχει ητιμάσθην εναντίον αυτής κρίναι ο θεός αναμέσον εμού και σου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[H6881]]"
+- "[[G4314]]"
+- "[[H0087]]"
+- "[[G0091]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G3814]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2859]]"
+- "[[G1473]]"
+- "[[G1492]]"
+- "[[G1161]]"
+- "[[G3754]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G0818]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G6271]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 16:5** 
 <small><sub>**LXX:**</sub></small>
 And Sarai said to Abram, I am being wronged because of you. I gave  my maidservant to  your bosom. And seeing that she had \[a child\] in \[the\] womb I was dishonored before her. May God judge between me and you. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[H6881\|Σάρα]] [[G4314\|προς]] [[H0087\|Άβραμ]] [[G0091\|αδικούμαι]] [[G1537\|εκ]] [[G1473\|σου]] [[G1473\|εγώ]] [[G1325\|δέδωκα]] [[G3588\|την]] [[G3814\|παιδίσκην]] [[G1473\|μου]] [[G1519\|εις]] [[G3588\|τον]] [[G2859\|κόλπον]] [[G1473\|σου]] [[G1492\|ιδούσα]] [[G1161\|δε]] [[G3754\|ότι]] [[G1722\|εν]] [[G1064\|γαστρί]] [[G2192\|έχει]] [[G0818\|ητιμάσθην]] [[G1726\|εναντίον]] [[G1473\|αυτής]] [[G2919\|κρίναι]] [[G3588\|ο]] [[G2316\|θεός]] [[G6271\|αναμέσον]] [[G1473\|εμού]] [[G2532\|και]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.4|<< Genesis 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.6|Genesis 16:6 >>]]</td></tr></table>
 
@@ -34,6 +104,6 @@ And Sarai said to Abram, I am being wronged because of you. I gave  my maidserva
 | me | **<big>[[G1473\|εμού]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | you. | **<big>[[G1473\|σου]]</big>** |
-[[Gen.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.4|<< Genesis 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.6|Genesis 16:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.4|<< Genesis 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.6|Genesis 16:6 >>]]</td></tr></table>
 
 

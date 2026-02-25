@@ -1,10 +1,68 @@
+---
+title: Luke 2:34
+type: Verse
+kjv: "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+bsb: "Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against,"
+greek: "καὶ εὐλόγησεν αὐτοὺς Συμεὼν καὶ εἶπεν πρὸς Μαριὰμ τὴν μητέρα αὐτοῦ· ἰδοὺ οὗτος κεῖται εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν ἐν τῷ Ἰσραὴλ καὶ εἰς σημεῖον ἀντιλεγόμενον."
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2127]]"
+- "[[G0846]]"
+- "[[G4826G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3137G]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G2400]]"
+- "[[G3778]]"
+- "[[G2749]]"
+- "[[G1519]]"
+- "[[G4431]]"
+- "[[G0386]]"
+- "[[G4183]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G4592]]"
+- "[[G0483]]"
+texts:
+- NKO
+---
+
 **Luke 2:34**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Simeon blessed them, and said unto Mary his mother, Behold, this [child] is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
 <small><sub>**BSB:**</sub></small>
 Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against,
-<small><sub>**Literal:**</sub></small>
-And blessed them Simeon and said to Mary the mother of Him: Behold this [Child] is appointed for [the] falling and rising up of many in <the> Israel and for a sign spoken against —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.33|<< Luke 2:33]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.35|Luke 2:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2127\|εὐλόγησεν]]  [[G0846\|αὐτοὺς]]  [[G4826G\|Συμεὼν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3137G\|Μαριὰμ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G0846\|αὐτοῦ·]]  [[G2400\|ἰδοὺ]]  [[G3778\|οὗτος]]  [[G2749\|κεῖται]]  [[G1519\|εἰς]]  [[G4431\|πτῶσιν]]  [[G2532\|καὶ]]  [[G0386\|ἀνάστασιν]]  [[G4183\|πολλῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4592\|σημεῖον]]  [[G0483\|ἀντιλεγόμενον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.33|<< Luke 2:33]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.35|Luke 2:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 2:34** is...
 > $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14-15]]

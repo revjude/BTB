@@ -1,8 +1,69 @@
+---
+title: Numbers 3:12
+type: Verse
+kjv: "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;"
+bsb: "“Behold, I have taken the Levites from among the children of Israel in place of every firstborn Israelite from the womb. The Levites belong to Me,"
+hebrew: "וַאֲנִ֞י הִנֵּ֧ה לָקַ֣חְתִּי אֶת־ הַלְוִיִּ֗ם מִתּוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל תַּ֧חַת כָּל־ בְּכ֛וֹר פֶּ֥טֶר רֶ֖חֶם מִבְּנֵ֣י יִשְׂרָאֵ֑ל וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃"
+pericope: "[[Num.3.5 The Duties of the Levites|The Duties of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H8478H]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H6363A]]"
+- "[[H7358]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:12**<big><big>[[Num.3.5 The Duties of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;
 <small><sub>**BSB:**</sub></small>
 “Behold, I have taken the Levites from among the children of Israel in place of every firstborn Israelite from the womb. The Levites belong to Me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H2009\|הִנֵּ֧ה]] [[H3947G\|לָקַ֣חְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H9006\|מִ]][[H8432\|תּוֹךְ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8478H\|תַּ֧חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכ֛וֹר]] [[H6363A\|פֶּ֥טֶר]] [[H7358\|רֶ֖חֶם]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H1961\|הָ֥יוּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.11|<< Numbers 3:11]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.13|Numbers 3:13 >>]]</td></tr></table>
 

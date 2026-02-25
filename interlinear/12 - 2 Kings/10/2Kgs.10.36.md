@@ -1,8 +1,52 @@
+---
+title: 2 Kings 10:36
+type: Verse
+kjv: "And the time that Jehu reigned over Israel in Samaria was twenty and eight years."
+bsb: "So the duration of Jehu’s reign over Israel in Samaria was twenty-eight years."
+hebrew: "וְהַיָּמִ֗ים אֲשֶׁ֨ר מָלַ֤ךְ יֵהוּא֙ עַל־ יִשְׂרָאֵ֔ל עֶשְׂרִ֥ים וּשְׁמֹנֶֽה־ שָׁנָ֖ה בְּשֹׁמְרֽוֹן׃ פ"
+pericope: "[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|Jehoahaz Succeeds Jehu in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H3058H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6242]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 10:36**<big><big>[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that Jehu reigned over Israel in Samaria [was] twenty and eight years.
 <small><sub>**BSB:**</sub></small>
 So the duration of Jehu’s reign over Israel in Samaria was twenty-eight years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H4427A\|מָלַ֤ךְ]] [[H3058H\|יֵהוּא֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶֽה]][[H9014\|־]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בְּ]][[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.35|<< 2 Kings 10:35]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.1|2 Kings 11:1 >>]]</td></tr></table>
 
@@ -17,7 +61,7 @@ So the duration of Jehu’s reign over Israel in Samaria was twenty-eight years.
 | [were] twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and eight  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8083\|שְׁמֹנֶֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.neh-<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֖ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Samaria  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Samaria  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.35|<< 2 Kings 10:35]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.1|2 Kings 11:1 >>]]</td></tr></table>
 
 

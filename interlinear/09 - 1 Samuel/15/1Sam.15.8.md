@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 15:8
+type: Verse
+kjv: "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword."
+bsb: "He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword."
+hebrew: "וַיִּתְפֹּ֛שׂ אֶת־ אֲגַ֥ג מֶֽלֶךְ־ עֲמָלֵ֖ק חָ֑י וְאֶת־ כָּל־ הָעָ֖ם הֶחֱרִ֥ים לְפִי־ חָֽרֶב׃"
+pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGAG|AGAG]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0090H]]"
+- "[[H4428G]]"
+- "[[H6002G]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2763A]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:8**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
 He captured Agag king of Amalek alive, but devoted all the others to destruction with the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8610\|יִּתְפֹּ֛שׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H0090H\|אֲגַ֥ג]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6002G\|עֲמָלֵ֖ק]] [[H2416A\|חָ֑י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H2763A\|הֶחֱרִ֥ים]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGAG|AGAG]] • [[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic RETALIATION|RETALIATION]] • [[topic RULERS|RULERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.7|<< 1 Samuel 15:7]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.9|1 Samuel 15:9 >>]]</td></tr></table>
 

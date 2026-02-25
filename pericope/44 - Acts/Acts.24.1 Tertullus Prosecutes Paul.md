@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Tertullus Prosecutes Paul
+type: Pericope
 pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 24
 book/chapter: "[[Acts.24|Acts 24]]"
-genre:
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.24.1]]"
 - "[[Acts.24.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.24.9]]"
 ---
 
-[[Acts.24|Acts 24:1 - Acts 24:9]]
+<small>[[Acts.24|Acts 24:1-9]]</small>
 *Tertullus Prosecutes Paul*
 
 [[Acts.24.1|1]] And after five days Ananias the high priest descended with the elders, and \[with\] a certain orator \[named\] Tertullus, who informed the governor against Paul.

@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 10:16
+type: Verse
+kjv: "And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to thine own house. So all Israel went to their tents."
+bsb: "When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So all the Israelites went home,"
+hebrew: "וְכָל־ יִשְׂרָאֵ֗ל כִּ֠י לֹא־ שָׁמַ֣ע הַמֶּלֶךְ֮ לָהֶם֒ וַיָּשִׁ֣יבוּ הָעָ֣ם אֶת־ הַמֶּ֣לֶךְ׀ לֵאמֹ֡ר מַה־ לָּנוּ֩ חֵ֨לֶק בְּדָוִ֜יד וְלֹֽא־ נַחֲלָ֣ה בְּבֶן־ יִשַׁ֗י אִ֤ישׁ לְאֹהָלֶ֙יךָ֙ יִשְׂרָאֵ֔ל עַתָּ֕ה רְאֵ֥ה בֵיתְךָ֖ דָּוִ֑יד וַיֵּ֥לֶךְ כָּל־ יִשְׂרָאֵ֖ל לְאֹהָלָֽיו׃ ס"
+pericope: "[[2Chr.10.16 The Kingdom Divided|The Kingdom Divided]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H7725M]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9035]]"
+- "[[H2506A]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H5159]]"
+- "[[H1121A]]"
+- "[[H3448]]"
+- "[[H0376I]]"
+- "[[H0168G]]"
+- "[[H9021]]"
+- "[[H6258]]"
+- "[[H7200G]]"
+- "[[H1004M]]"
+- "[[H1980G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:16**<big><big>[[2Chr.10.16 The Kingdom Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all Israel [saw] that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and [we have] none inheritance in the son of Jesse: every man to your tents, O Israel: [and] now, David, see to thine own house. So all Israel went to their tents.
 <small><sub>**BSB:**</sub></small>
 When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So all the Israelites went home,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3588A\|כִּ֠י]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֣ע]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֮]] [[H9005\|לָ]][[H9038\|הֶם֒]] [[H9001\|וַ]][[H7725M\|יָּשִׁ֣יבוּ]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֡ר]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ]][[H9035\|נוּ֩]] [[H2506A\|חֵ֨לֶק]] [[H9003\|בְּ]][[H1732\|דָוִ֜יד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5159\|נַחֲלָ֣ה]] [[H9003\|בְּ]][[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשַׁ֗י]] [[H0376I\|אִ֤ישׁ]] [[H9005\|לְ]][[H0168G\|אֹהָלֶ֙י]][[H9021\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6258\|עַתָּ֕ה]] [[H7200G\|רְאֵ֥ה]] [[H1004M\|בֵיתְ]][[H9021\|ךָ֖]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H0168G\|אֹהָלָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.15|<< 2 Chronicles 10:15]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.17|2 Chronicles 10:17 >>]]</td></tr></table>
 
@@ -38,7 +108,7 @@ When all Israel saw that the king had refused to listen to them, they answered t
 | and it went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to tents its  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0168G\|אֹהָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.ha.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to tents its  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0168G\|אֹהָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.ha.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.15|<< 2 Chronicles 10:15]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.17|2 Chronicles 10:17 >>]]</td></tr></table>
 
 

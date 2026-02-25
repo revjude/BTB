@@ -1,6 +1,80 @@
+---
+title: LXX 1 Samuel 14:12
+type: Verse
+lxx: "And the men of the support camp responded to Jonathan and to the one carrying  his weapons, and they say, Ascend to us! and we will make known to you a thing. And Jonathan said to the one carrying  his weapons, You ascend after me! for the lord has delivered them into the hands of Israel."
+greek: "και απεκρίθησαν οι άνδρες της υποστάσεως προς Ιωναθάν και προς τον αίροντα τα σκεύη αυτού και λέγουσιν ανάβητε προς ημάς και γνωριούμεν υμίν ρήμα και είπεν Ιωναθάν προς τον αίροντα τα σκεύη αυτού ανάβηθι οπίσω μου ότι παρέδωκεν αυτούς κύριος εις χείρας Ισραήλ"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G5287]]"
+- "[[G4314]]"
+- "[[H3129]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3004]]"
+- "[[G0305]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1107]]"
+- "[[G1473]]"
+- "[[G4487]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H3129]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+- "[[G0305]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G3860]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G2474]]"
+---
+
 **LXX 1 Samuel 14:12** 
 <small><sub>**LXX:**</sub></small>
 And the men of the support \[camp\] responded to Jonathan and to the one carrying  his weapons, and they say, Ascend to us! and we will make known to you a thing. And Jonathan said to the one carrying  his weapons, You ascend after me! for \[the\] <span class="smallcaps">lord</span> has delivered them into \[the\] hands of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0611\|απεκρίθησαν]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G3588\|της]] [[G5287\|υποστάσεως]] [[G4314\|προς]] [[H3129\|Ιωναθάν]] [[G2532\|και]] [[G4314\|προς]] [[G3588\|τον]] [[G0142\|αίροντα]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|αυτού]] [[G2532\|και]] [[G3004\|λέγουσιν]] [[G0305\|ανάβητε]] [[G4314\|προς]] [[G1473\|ημάς]] [[G2532\|και]] [[G1107\|γνωριούμεν]] [[G1473\|υμίν]] [[G4487\|ρήμα]] [[G2532\|και]] [[G2036\|είπεν]] [[H3129\|Ιωναθάν]] [[G4314\|προς]] [[G3588\|τον]] [[G0142\|αίροντα]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|αυτού]] [[G0305\|ανάβηθι]] [[G3694\|οπίσω]] [[G1473\|μου]] [[G3754\|ότι]] [[G3860\|παρέδωκεν]] [[G1473\|αυτούς]] [[G2962\|κύριος]] [[G1519\|εις]] [[G5495\|χείρας]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic JONATHAN|JONATHAN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.11|<< 1 Samuel 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.13|1 Samuel 14:13 >>]]</td></tr></table>
 
@@ -46,6 +120,6 @@ And the men of the support \[camp\] responded to Jonathan and to the one carryin
 | into | **<big>[[G1519\|εις]]</big>** |
 | \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[1Sam.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.11|<< 1 Samuel 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.13|1 Samuel 14:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.11|<< 1 Samuel 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.13|1 Samuel 14:13 >>]]</td></tr></table>
 
 

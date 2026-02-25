@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 4:12
+type: Verse
+kjv: "And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron."
+bsb: "So David commanded his young men, and they killed Rechab and Baanah. They cut off their hands and feet and hung their bodies by the pool in Hebron, but they took the head of Ish-bosheth and buried it in Abner’s tomb in Hebron."
+hebrew: "וַיְצַו֩ דָּוִ֨ד אֶת־ הַנְּעָרִ֜ים וַיַּהַרְג֗וּם וַֽיְקַצְּצ֤וּ אֶת־ יְדֵיהֶם֙ וְאֶת־ רַגְלֵיהֶ֔ם וַיִּתְל֥וּ עַל־ הַבְּרֵכָ֖ה בְּחֶבְר֑וֹן וְאֵ֨ת רֹ֤אשׁ אִֽישׁ־ בֹּ֙שֶׁת֙ לָקָ֔חוּ וַיִּקְבְּר֥וּ בְקֶֽבֶר־ אַבְנֵ֖ר בְּחֶבְרֽוֹן׃ פ"
+pericope: "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HANGING|HANGING]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H7112]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7272]]"
+- "[[H8518]]"
+- "[[H5921A]]"
+- "[[H1295H]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H7218A]]"
+- "[[H0378]]"
+- "[[H3947G]]"
+- "[[H6912]]"
+- "[[H6913]]"
+- "[[H0074]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 4:12**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged [them] up over the pool in Hebron. But they took the head of Ishbosheth, and buried [it] in the sepulchre of Abner in Hebron.
 <small><sub>**BSB:**</sub></small>
 So David commanded his young men, and they killed Rechab and Baanah. They cut off their hands and feet and hung their bodies by the pool in Hebron, but they took the head of Ish-bosheth and buried it in Abner’s tomb in Hebron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַו֩]] [[H1732\|דָּוִ֨ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נְּעָרִ֜ים]] [[H9001\|וַ]][[H2026\|יַּהַרְג֗וּ]][[H9038\|ם]] [[H9001\|וַֽ]][[H7112\|יְקַצְּצ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H8518\|יִּתְל֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1295H\|בְּרֵכָ֖ה]] [[H9003\|בְּ]][[H2275A\|חֶבְר֑וֹן]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H7218A\|רֹ֤אשׁ]] [[H0378\|אִֽישׁ]][[H9014\|־]] [[H0378\|בֹּ֙שֶׁת֙]] [[H3947G\|לָקָ֔חוּ]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֥וּ]] [[H9003\|בְ]][[H6913\|קֶֽבֶר]][[H9014\|־]] [[H0074\|אַבְנֵ֖ר]] [[H9003\|בְּ]][[H2275A\|חֶבְרֽוֹן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HANGING|HANGING]] • [[topic HEBRON|HEBRON]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic RECHAB|RECHAB]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.11|<< 2 Samuel 4:11]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.1|2 Samuel 5:1 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ So David commanded his young men, and they killed Rechab and Baanah. They cut of
 | and they buried [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבְּר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] tomb of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6913\|קֶֽבֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ke.ver-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֖ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Hebron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2275A\|חֶבְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Hebron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2275A\|חֶבְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.11|<< 2 Samuel 4:11]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.1|2 Samuel 5:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 14:20
+type: Verse
+kjv: "To fetch about this form of speech hath thy servant Joab done this thing: and my lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth."
+bsb: "Joab your servant has done this to bring about this change of affairs, but my lord has wisdom like the wisdom of the angel of God, to know everything that happens in the land.”"
+hebrew: "לְבַעֲב֤וּר סַבֵּב֙ אֶת־ פְּנֵ֣י הַדָּבָ֔ר עָשָׂ֛ה עַבְדְּךָ֥ יוֹאָ֖ב אֶת־ הַדָּבָ֣ר הַזֶּ֑ה וַאדֹנִ֣י חָכָ֗ם כְּחָכְמַת֙ מַלְאַ֣ךְ הָאֱלֹהִ֔ים לָדַ֖עַת אֶֽת־ כָּל־ אֲשֶׁ֥ר בָּאָֽרֶץ׃ ס"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H5437K]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440L]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H6213A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3097G]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H2450]]"
+- "[[H9004]]"
+- "[[H2451]]"
+- "[[H4397H]]"
+- "[[H0430G]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 14:20**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To fetch about this form of speech hath thy servant Joab done this thing: and my lord [is] wise, according to the wisdom of an angel of God, to know all [things] that [are] in the earth.
 <small><sub>**BSB:**</sub></small>
 Joab your servant has done this to bring about this change of affairs, but my lord has wisdom like the wisdom of the angel of God, to know everything that happens in the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9003\|בַ]][[H5668\|עֲב֤וּר]] [[H5437K\|סַבֵּב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֣י]] [[H9009\|הַ]][[H1697I\|דָּבָ֔ר]] [[H6213A\|עָשָׂ֛ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H3097G\|יוֹאָ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וַ]][[H0113\|אדֹנִ֣]][[H9020\|י]] [[H2450\|חָכָ֗ם]] [[H9004\|כְּ]][[H2451\|חָכְמַת֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לָ]][[H3045\|דַ֖עַת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FLATTERY|FLATTERY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
@@ -28,7 +99,7 @@ Joab your servant has done this to bring about this change of affairs, but my lo
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
 

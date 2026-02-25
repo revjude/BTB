@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 2:50
+type: Verse
+kjv: "These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,"
+bsb: "These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,"
+hebrew: "אֵ֤לֶּה הָיוּ֙ בְּנֵ֣י כָלֵ֔ב בֶּן־ ח֖וּר בְּכ֣וֹר אֶפְרָ֑תָה שׁוֹבָ֕ל אֲבִ֖י קִרְיַ֥ת יְעָרִֽים׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EPHRATAH|EPHRATAH]]"
+- "[[topic HUR|HUR]]"
+- "[[topic SHOBAL|SHOBAL]]"
+strongs:
+- "[[H0428]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H3612H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2354G]]"
+- "[[H1060]]"
+- "[[H0672G]]"
+- "[[H7732H]]"
+- "[[H0001G]]"
+- "[[H7157]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:50**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֤לֶּה]] [[H1961\|הָיוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3612H\|כָלֵ֔ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2354G\|ח֖וּר]] [[H1060\|בְּכ֣וֹר]] [[H0672G\|אֶפְרָ֑תָה]] [[H7732H\|שׁוֹבָ֕ל]] [[H0001G\|אֲבִ֖י]] [[H7157\|קִרְיַ֥ת]] [[H7157\|יְעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRATAH|EPHRATAH]] • [[topic HUR|HUR]] • [[topic SHOBAL|SHOBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.49|<< 1 Chronicles 2:49]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.51|1 Chronicles 2:51 >>]]</td></tr></table>
 

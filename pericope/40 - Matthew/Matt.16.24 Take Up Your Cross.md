@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Take Up Your Cross
+type: Pericope
 pericope: "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 16
 book/chapter: "[[Matt.16|Matthew 16]]"
-genre:
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.16.24]]"
 - "[[Matt.16.25]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.16.28]]"
 ---
 
-[[Matt.16|Matthew 16:24 - Matthew 16:28]]
+<small>[[Matt.16|Matthew 16:24-28]]</small>
 *Take Up Your Cross*
 
 [[Matt.16.24|24]] Then said Jesus unto his disciples, If any \[man\] will come after me, let him deny himself, and take up his cross, and follow me.

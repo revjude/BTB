@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calms the Storm
+type: Pericope
 pericope: "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.4.35]]"
 - "[[Mark.4.36]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.4.41]]"
 ---
 
-[[Mark.4|Mark 4:35 - Mark 4:41]]
+<small>[[Mark.4|Mark 4:35-41]]</small>
 *Jesus Calms the Storm*
 
 [[Mark.4.35|35]] And the same day, when the even was come, he saith unto them, Let us pass over unto the other side.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Way, the Truth, and the Life
+type: Pericope
 pericope: "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: John
 chapter: 14
 book/chapter: "[[John.14|John 14]]"
-genre:
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 10
 verses:
 - "[[John.14.5]]"
 - "[[John.14.6]]"
@@ -28,7 +35,7 @@ verses:
 - "[[John.14.14]]"
 ---
 
-[[John.14|John 14:5 - John 14:14]]
+<small>[[John.14|John 14:5-14]]</small>
 *The Way, the Truth, and the Life*
 
 [[John.14.5|5]] Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?

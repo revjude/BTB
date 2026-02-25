@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 20:9
+type: Verse
+kjv: "If, when evil cometh upon us, as the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name is in this house,) and cry unto thee in our affliction, then thou wilt hear and help."
+bsb: "‘If disaster comes upon us—whether sword or judgment, plague or famine—we will stand before this temple and before You, for Your Name is in this temple. We will cry out to You in our distress, and You will hear us and save us.’"
+hebrew: "אִם־ תָּב֨וֹא עָלֵ֜ינוּ רָעָ֗ה חֶרֶב֮ שְׁפוֹט֮ וְדֶ֣בֶר וְרָעָב֒ נַֽעַמְדָ֞ה לִפְנֵ֨י הַבַּ֤יִת הַזֶּה֙ וּלְפָנֶ֔יךָ כִּ֥י שִׁמְךָ֖ בַּבַּ֣יִת הַזֶּ֑ה וְנִזְעַ֥ק אֵלֶ֛יךָ מִצָּרָתֵ֖נוּ וְתִשְׁמַ֥ע וְתוֹשִֽׁיעַ׃"
+pericope: "[[2Chr.20.5 Jehoshaphat’s Prayer|Jehoshaphat’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BATTLE|BATTLE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H7451C]]"
+- "[[H2719]]"
+- "[[H8196]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H7458]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H8034]]"
+- "[[H9003]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H6869B]]"
+- "[[H9025]]"
+- "[[H8085G]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:9**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If, [when] evil cometh upon us, [as] the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name [is] in this house,) and cry unto thee in our affliction, then thou wilt hear and help.
 <small><sub>**BSB:**</sub></small>
 ‘If disaster comes upon us—whether sword or judgment, plague or famine—we will stand before this temple and before You, for Your Name is in this temple. We will cry out to You in our distress, and You will hear us and save us.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H0935G\|תָּב֨וֹא]] [[H5921A\|עָלֵ֜י]][[H9035\|נוּ]] [[H7451C\|רָעָ֗ה]] [[H2719\|חֶרֶב֮]] [[H8196\|שְׁפוֹט֮]] [[H9002\|וְ]][[H1698\|דֶ֣בֶר]] [[H9002\|וְ]][[H7458\|רָעָב֒]] [[H5975G\|נַֽעַמְדָ֞ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9002\|וּ]][[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H9003\|בַּ]][[H1004B\|בַּ֣יִת]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H2199\|נִזְעַ֥ק]] [[H0413\|אֵלֶ֛י]][[H9031\|ךָ]] [[H9006\|מִ]][[H6869B\|צָּרָתֵ֖]][[H9025\|נוּ]] [[H9002\|וְ]][[H8085G\|תִשְׁמַ֥ע]] [[H9002\|וְ]][[H3467\|תוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BATTLE|BATTLE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.8|<< 2 Chronicles 20:8]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.10|2 Chronicles 20:10 >>]]</td></tr></table>
 

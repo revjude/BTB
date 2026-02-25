@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Journey to Jerusalem
+type: Pericope
 pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 21
 book/chapter: "[[Acts.21|Acts 21]]"
-genre:
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.21.1]]"
 - "[[Acts.21.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.21.7]]"
 ---
 
-[[Acts.21|Acts 21:1 - Acts 21:7]]
+<small>[[Acts.21|Acts 21:1-7]]</small>
 *Paul’s Journey to Jerusalem*
 
 [[Acts.21.1|1]] And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the \[day\] following unto Rhodes, and from thence unto Patara:

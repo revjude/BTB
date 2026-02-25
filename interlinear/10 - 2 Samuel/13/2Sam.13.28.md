@@ -1,8 +1,84 @@
+---
+title: 2 Samuel 13:28
+type: Verse
+kjv: "Now Absalom had commanded his servants, saying, Mark ye now when Amnon’s heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant."
+bsb: "Now Absalom had ordered his young men, “Watch Amnon until his heart is merry with wine, and when I order you to strike Amnon down, you are to kill him. Do not be afraid. Have I not commanded you? Be courageous and valiant!”"
+hebrew: "וַיְצַו֩ אַבְשָׁל֨וֹם אֶת־ נְעָרָ֜יו לֵאמֹ֗ר רְא֣וּ נָ֠א כְּט֨וֹב לֵב־ אַמְנ֤וֹן בַּיַּ֙יִן֙ וְאָמַרְתִּ֣י אֲלֵיכֶ֔ם הַכּ֧וּ אֶת־ אַמְנ֛וֹן וַהֲמִתֶּ֥ם אֹת֖וֹ אַל־ תִּירָ֑אוּ הֲל֗וֹא כִּ֤י אָֽנֹכִי֙ צִוִּ֣יתִי אֶתְכֶ֔ם חִזְק֖וּ וִהְי֥וּ לִבְנֵי־ חָֽיִל׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FRATRICIDE|FRATRICIDE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0053]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7200J]]"
+- "[[H4994]]"
+- "[[H9004]]"
+- "[[H2895]]"
+- "[[H3820A]]"
+- "[[H0550G]]"
+- "[[H9003]]"
+- "[[H3196]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H5221]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H1121K]]"
+- "[[H2428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:28**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Absalom had commanded his servants, saying, Mark ye now when Amnon’s heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.
 <small><sub>**BSB:**</sub></small>
 Now Absalom had ordered his young men, “Watch Amnon until his heart is merry with wine, and when I order you to strike Amnon down, you are to kill him. Do not be afraid. Have I not commanded you? Be courageous and valiant!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַו֩]] [[H0053\|אַבְשָׁל֨וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H5288\|נְעָרָ֜י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7200J\|רְא֣וּ]] [[H4994\|נָ֠א]] [[H9004\|כְּ]][[H2895\|ט֨וֹב]] [[H3820A\|לֵב]][[H9014\|־]] [[H0550G\|אַמְנ֤וֹן]] [[H9003\|בַּ]][[H3196\|יַּ֙יִן֙]] [[H9001\|וְ]][[H0559\|אָמַרְתִּ֣י]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H5221\|הַכּ֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0550G\|אַמְנ֛וֹן]] [[H9001\|וַ]][[H4191\|הֲמִתֶּ֥ם]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֑אוּ]] [[H9008\|הֲ]][[H3808\|ל֗וֹא]] [[H3588A\|כִּ֤י]] [[H0595\|אָֽנֹכִי֙]] [[H6680\|צִוִּ֣יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H2388G\|חִזְק֖וּ]] [[H9002\|וִ]][[H1961\|הְי֥וּ]] [[H9005\|לִ]][[H1121K\|בְנֵי]][[H9014\|־]] [[H2428G\|חָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic ASSASSINATION|ASSASSINATION]] • [[topic DECEPTION|DECEPTION]] • [[topic FRATRICIDE|FRATRICIDE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]] • [[topic REVENGE|REVENGE]] • [[topic SERVANT|SERVANT]] • [[topic TAMAR|TAMAR]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.27|<< 2 Samuel 13:27]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.29|2 Samuel 13:29 >>]]</td></tr></table>
 

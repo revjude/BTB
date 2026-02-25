@@ -1,10 +1,58 @@
+---
+title: 1 Thessalonians 5:13
+type: Verse
+kjv: "And to esteem them very highly in love for their work’s sake. And be at peace among yourselves."
+bsb: "In love, hold them in highest regard because of their work. Live in peace with one another."
+greek: "καὶ ἡγεῖσθαι αὐτοὺς ὑπερεκπερισσοῦ ὑπερεκπερισσοῦ ὑπερεκπερισσοῦ ἐν ἀγάπῃ διὰ τὸ ἔργον αὐτῶν. εἰρηνεύετε ἐν ἑαυτοῖς.¶"
+pericope: "[[1Thess.5.12 Christian Living|Christian Living]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2233]]"
+- "[[G0846]]"
+- "[[G5228]]"
+- "[[G1537]]"
+- "[[G4057]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G1514]]"
+- "[[G1438]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Thessalonians 5:13**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to esteem them very highly in love for their work’s sake. [And] be at peace among yourselves.
 <small><sub>**BSB:**</sub></small>
 In love, hold them in highest regard because of their work. Live in peace with one another.
-<small><sub>**Literal:**</sub></small>
-and to esteem them super overexcessively in love because of the work of them. do be at peace among yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.12|<< 1 Thessalonians 5:12]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.14|1 Thessalonians 5:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2233\|ἡγεῖσθαι]]  [[G0846\|αὐτοὺς]]  [[G5228\|ὑπερεκπερισσοῦ]]  <sup><small>[[G1537\| [ • ] ]]</small></sup>  <sup><small>[[G4057\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2041\|ἔργον]]  [[G0846\|αὐτῶν.]]  [[G1514\|εἰρηνεύετε]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PEACE|PEACE]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.12|<< 1 Thessalonians 5:12]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.14|1 Thessalonians 5:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

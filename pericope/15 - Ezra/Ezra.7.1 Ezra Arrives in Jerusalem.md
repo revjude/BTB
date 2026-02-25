@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezra Arrives in Jerusalem
+type: Pericope
 pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 7
 book/chapter: "[[Ezra.7|Ezra 7]]"
-genre:
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 10
 verses:
 - "[[Ezra.7.1]]"
 - "[[Ezra.7.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezra.7.10]]"
 ---
 
-[[Ezra.7|Ezra 7:1 - Ezra 7:10]]
+<small>[[Ezra.7|Ezra 7:1-10]]</small>
 *Ezra Arrives in Jerusalem*
 
 [[Ezra.7.1|1]] Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,

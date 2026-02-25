@@ -1,6 +1,66 @@
+---
+title: LXX Joshua 11:10
+type: Verse
+lxx: "And Joshua returned in  that time, and overtook  Hazor; and  her king he killed by the broadsword. And Hazor was  formerly ruling all  these kingdoms."
+greek: "και απέστρεψεν Ιησούς εν τω καιρώ εκείνω και κατελάβετο την Ασώρ και τον βασιλέα αυτής απέκτεινεν εν ρομφαία ην δε Ασώρ το πρότερον άρχουσα πασών των βασιλειών τούτων"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JABIN|JABIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0654]]"
+- "[[H3091]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G2638]]"
+- "[[G3588]]"
+- "[[H2674]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1473]]"
+- "[[G0615]]"
+- "[[G1722]]"
+- "[[G4501]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[H2674]]"
+- "[[G3588]]"
+- "[[G4387]]"
+- "[[G0756]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3778]]"
+---
+
 **LXX Joshua 11:10** 
 <small><sub>**LXX:**</sub></small>
 And Joshua returned in  that time, and overtook  Hazor; and  her king he killed by \[the\] broadsword. And Hazor was  formerly ruling all  these kingdoms. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0654\|απέστρεψεν]] [[H3091\|Ιησούς]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G2532\|και]] [[G2638\|κατελάβετο]] [[G3588\|την]] [[H2674\|Ασώρ]] [[G2532\|και]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G1473\|αυτής]] [[G0615\|απέκτεινεν]] [[G1722\|εν]] [[G4501\|ρομφαία]] [[G1510\|ην]] [[G1161\|δε]] [[H2674\|Ασώρ]] [[G3588\|το]] [[G4387\|πρότερον]] [[G0756\|άρχουσα]] [[G3956\|πασών]] [[G3588\|των]] [[G0932\|βασιλειών]] [[G3778\|τούτων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAZOR|HAZOR]] • [[topic JABIN|JABIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
 
@@ -30,6 +90,6 @@ And Joshua returned in  that time, and overtook  Hazor; and  her king he killed 
 | all | **<big>[[G3956\|πασών]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | these kingdoms. | **<big>[[G0932\|βασιλειών]]</big>** **<big>[[G3778\|τούτων]]</big>** |
-[[Josh.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
 
 

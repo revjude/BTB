@@ -1,8 +1,62 @@
+---
+title: Isaiah 38:16
+type: Verse
+kjv: "O Lord, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live."
+bsb: "O Lord, by such things men live, and in all of them my spirit finds life. You have restored me to health and have let me live."
+hebrew: "אֲדֹנָ֖י עֲלֵיהֶ֣ם יִֽחְי֑וּ וּלְכָל־ בָּהֶן֙ חַיֵּ֣י רוּחִ֔י וְתַחֲלִימֵ֖נִי וְהַחֲיֵֽנִי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0136]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2421]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H2416E]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H2492A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:16**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, by these [things men] live, and in all these [things is] the life of my spirit: so wilt thou recover me, and make me to live.
 <small><sub>**BSB:**</sub></small>
 O Lord, by such things men live, and in all of them my spirit finds life. You have restored me to health and have let me live.
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֖י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H2421\|יִֽחְי֑וּ]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9003\|בָּ]][[H9039\|הֶן֙]] [[H2416E\|חַיֵּ֣י]] [[H7307G\|רוּחִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2492A\|תַחֲלִימֵ֖]][[H9030\|נִי]] [[H9002\|וְ]][[H2421\|הַחֲיֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.15|<< Isaiah 38:15]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.17|Isaiah 38:17 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 9:37
+type: Verse
+kjv: "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+bsb: "“Whoever welcomes one of these little children in My name welcomes Me, and whoever welcomes Me welcomes not only Me, but the One who sent Me.”"
+jesus_said: "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+greek: "ὃς ἂν ἓν τῶν τοιούτων παιδίων δέξηται ἐπὶ τῷ ὀνόματί μου, ἐμὲ δέχεται· καὶ ὃς ἂν ἐμὲ δέχηται, οὐκ ἐμὲ δέχεται ἀλλὰ τὸν ἀποστείλαντά με.¶"
+pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G3813]]"
+- "[[G1209]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0235]]"
+- "[[G0649]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:37**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.
 <small><sub>**BSB:**</sub></small>
 “Whoever welcomes one of these little children in My name welcomes Me, and whoever welcomes Me welcomes not only Me, but the One who sent Me.”
-<small><sub>**Literal:**</sub></small>
-Who[ever] maybe one <the> of such little children shall receive in the name of Me, Me myself receives; and who[ever] maybe Me myself shall receive, not Me myself receives but the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.36|<< Mark 9:36]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.38|Mark 9:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G1520\|ἓν]]  [[G3588\|τῶν]]  [[G5108\|τοιούτων]]  [[G3813\|παιδίων]]  [[G1209\|δέξηται]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου,]]  [[G1473\|ἐμὲ]]  [[G1209\|δέχεται·]]  [[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G1473\|ἐμὲ]]  [[G1209\|δέχηται,]]  [[G3756\|οὐκ]]  [[G1473\|ἐμὲ]]  [[G1209\|δέχεται]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸν]]  [[G0649\|ἀποστείλαντά]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CHILDREN|CHILDREN]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.36|<< Mark 9:36]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.38|Mark 9:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

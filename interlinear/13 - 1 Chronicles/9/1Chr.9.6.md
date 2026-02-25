@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 9:6
+type: Verse
+kjv: "And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety."
+bsb: "From the Zerahites: Jeuel and 690 relatives."
+hebrew: "וּמִן־ בְּנֵי־ זֶ֖רַח יְעוּאֵ֑ל וַאֲחֵיהֶ֖ם שֵׁשׁ־ מֵא֥וֹת וְתִשְׁעִֽים׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEUEL|JEUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H2226I]]"
+- "[[H3262]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H8673]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:6**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.
 <small><sub>**BSB:**</sub></small>
 From the Zerahites: Jeuel and 690 relatives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H2226I\|זֶ֖רַח]] [[H3262\|יְעוּאֵ֑ל]] [[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H9002\|וְ]][[H8673\|תִשְׁעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEUEL|JEUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.5|<< 1 Chronicles 9:5]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.7|1 Chronicles 9:7 >>]]</td></tr></table>
 

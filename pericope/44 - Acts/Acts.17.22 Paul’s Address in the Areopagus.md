@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Address in the Areopagus
+type: Pericope
 pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Acts
 chapter: 17
 book/chapter: "[[Acts.17|Acts 17]]"
-genre:
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 13
 verses:
 - "[[Acts.17.22]]"
 - "[[Acts.17.23]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Acts.17.34]]"
 ---
 
-[[Acts.17|Acts 17:22 - Acts 17:34]]
+<small>[[Acts.17|Acts 17:22-34]]</small>
 *Paul’s Address in the Areopagus*
 
 [[Acts.17.22|22]] Then Paul stood in the midst of Mars’ hill, and said, \[Ye\] men of Athens, I perceive that in all things ye are too superstitious.

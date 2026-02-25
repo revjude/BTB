@@ -1,10 +1,61 @@
+---
+title: Mark 14:71
+type: Verse
+kjv: "But he began to curse and to swear, saying, I know not this man of whom ye speak."
+bsb: "But he began to curse and swear, “I do not know this man of whom you speak!”"
+greek: "ὁ δὲ ἤρξατο ἀναθεματίζειν καὶ ὀμνύναι ὅτι οὐκ οἶδα τὸν ἄνθρωπον τοῦτον ὃν λέγετε."
+pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0757]]"
+- "[[G0332]]"
+- "[[G2532]]"
+- "[[G3660]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Mark 14:71**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he began to curse and to swear, [saying], I know not this man of whom ye speak.
 <small><sub>**BSB:**</sub></small>
 But he began to curse and swear, “I do not know this man of whom you speak!”
-<small><sub>**Literal:**</sub></small>
-<the> But he began to curse and to swear that Not I know <the> man this whom you speak of!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.70|<< Mark 14:70]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.72|Mark 14:72 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0757\|ἤρξατο]]  [[G0332\|ἀναθεματίζειν]]  [[G2532\|καὶ]]  [[G3660\|ὀμνύναι]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G3778\|τοῦτον]]  [[G3739\|ὃν]]  [[G3004G\|λέγετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OATH|OATH]] • [[topic PERJURY|PERJURY]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.70|<< Mark 14:70]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.72|Mark 14:72 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

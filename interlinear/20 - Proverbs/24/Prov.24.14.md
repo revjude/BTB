@@ -1,8 +1,61 @@
+---
+title: Proverbs 24:14
+type: Verse
+kjv: "So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off."
+bsb: "Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off."
+hebrew: "כֵּ֤ן׀ דְּעֶ֥ה חָכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם־ מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת׃ פ"
+pericope: "[[Prov.24.13 Saying 26|Saying 26]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HOPE|HOPE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H3045]]"
+- "[[H9012]]"
+- "[[H2451]]"
+- "[[H9005]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H0319]]"
+- "[[H8615B]]"
+- "[[H3808]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 24:14**<big><big>[[Prov.24.13 Saying 26|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So [shall] the knowledge of wisdom [be] unto thy soul: when thou hast found [it], then there shall be a reward, and thy expectation shall not be cut off.
 <small><sub>**BSB:**</sub></small>
 Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֤ן]][[H9015\|׀]] [[H3045\|דְּעֶ֥]][[H9012\|ה]] [[H2451\|חָכְמָ֗ה]] [[H9005\|לְ]][[H5315G\|נַ֫פְשֶׁ֥]][[H9021\|ךָ]] [[H0518A\|אִם]][[H9014\|־]] [[H4672\|מָ֭צָאתָ]] [[H9002\|וְ]][[H3426\|יֵ֣שׁ]] [[H0319\|אַחֲרִ֑ית]] [[H9002\|וְ֝]][[H8615B\|תִקְוָתְ]][[H9021\|ךָ֗]] [[H3808\|לֹ֣א]] [[H3772I\|תִכָּרֵֽת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOPE|HOPE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.13|<< Proverbs 24:13]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.15|Proverbs 24:15 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ Know therefore that wisdom is sweet to your soul. If you find it, there is a fut
 | [is] a future  |**<big>&#8207;[[H0319\|אַחֲרִ֑ית]]&#8207; </big>**| 'a.cha.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and hope your  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8615B\|תִקְוָתְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tik.va.te.<small><sup>[[HNcfsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be cut off  |**<big>&#8207;[[H3772I\|תִכָּרֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.ka.Ret<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be cut off  |**<big>&#8207;[[H3772I\|תִכָּרֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.ka.Ret<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.13|<< Proverbs 24:13]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.15|Proverbs 24:15 >>]]</td></tr></table>
 
 

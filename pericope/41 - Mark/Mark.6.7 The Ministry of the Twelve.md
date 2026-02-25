@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ministry of the Twelve
+type: Pericope
 pericope: "[[Mark.6.7 The Ministry of the Twelve|The Ministry of the Twelve]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.6.7]]"
 - "[[Mark.6.8]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.6.13]]"
 ---
 
-[[Mark.6|Mark 6:7 - Mark 6:13]]
+<small>[[Mark.6|Mark 6:7-13]]</small>
 *The Ministry of the Twelve*
 
 [[Mark.6.7|7]] And he called \[unto him\] the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;

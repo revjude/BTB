@@ -1,8 +1,70 @@
+---
+title: Genesis 43:23
+type: Verse
+kjv: "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them."
+bsb: "“It is fine,” said the steward. “Do not be afraid. Your God, the God of your father, gave you the treasure that was in your sacks. I received your silver.” Then he brought Simeon out to them."
+hebrew: "וַיֹּאמֶר֩ שָׁל֨וֹם לָכֶ֜ם אַל־ תִּירָ֗אוּ אֱלֹ֨הֵיכֶ֜ם וֵֽאלֹהֵ֤י אֲבִיכֶם֙ נָתַ֨ן לָכֶ֤ם מַטְמוֹן֙ בְּאַמְתְּחֹ֣תֵיכֶ֔ם כַּסְפְּכֶ֖ם בָּ֣א אֵלָ֑י וַיּוֹצֵ֥א אֲלֵהֶ֖ם אֶת־ שִׁמְעֽוֹן׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TREASURE|TREASURE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7965G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H5414H]]"
+- "[[H4301]]"
+- "[[H9003]]"
+- "[[H0572]]"
+- "[[H3701G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H8095G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:23**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Peace [be] to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.
 <small><sub>**BSB:**</sub></small>
 “It is fine,” said the steward. “Do not be afraid. Your God, the God of your father, gave you the treasure that was in your sacks. I received your silver.” Then he brought Simeon out to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H7965G\|שָׁל֨וֹם]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֗אוּ]] [[H0430G\|אֱלֹ֨הֵי]][[H9026\|כֶ֜ם]] [[H9002\|וֵֽ]][[H0430G\|אלֹהֵ֤י]] [[H0001G\|אֲבִי]][[H9026\|כֶם֙]] [[H5414H\|נָתַ֨ן]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H4301\|מַטְמוֹן֙]] [[H9003\|בְּ]][[H0572\|אַמְתְּחֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H3701G\|כַּסְפְּ]][[H9026\|כֶ֖ם]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9001\|וַ]][[H3318H\|יּוֹצֵ֥א]] [[H0413\|אֲלֵ]][[H9038\|הֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8095G\|שִׁמְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic SIMEON|SIMEON]] • [[topic TREASURE|TREASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.22|<< Genesis 43:22]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.24|Genesis 43:24 >>]]</td></tr></table>
 

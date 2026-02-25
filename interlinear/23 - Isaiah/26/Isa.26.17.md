@@ -1,8 +1,59 @@
+---
+title: Isaiah 26:17
+type: Verse
+kjv: "Like as a woman with child, that draweth near the time of her delivery, is in pain, and crieth out in her pangs; so have we been in thy sight, O LORD."
+bsb: "As a woman with child about to give birth writhes and cries out in pain, so were we in Your presence, O LORD."
+hebrew: "כְּמ֤וֹ הָרָה֙ תַּקְרִ֣יב לָלֶ֔דֶת תָּחִ֥יל תִּזְעַ֖ק בַּחֲבָלֶ֑יהָ כֵּ֛ן הָיִ֥ינוּ מִפָּנֶ֖יךָ יְהוָֽה׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3644G]]"
+- "[[H2030A]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H2342I]]"
+- "[[H2199]]"
+- "[[H9003]]"
+- "[[H2256B]]"
+- "[[H9024]]"
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:17**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like as a woman with child, [that] draweth near the time of her delivery, is in pain, [and] crieth out in her pangs; so have we been in thy sight, O LORD.
 <small><sub>**BSB:**</sub></small>
 As a woman with child about to give birth writhes and cries out in pain, so were we in Your presence, O LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3644G\|כְּמ֤וֹ]] [[H2030A\|הָרָה֙]] [[H7126G\|תַּקְרִ֣יב]] [[H9005\|לָ]][[H3205\|לֶ֔דֶת]] [[H2342I\|תָּחִ֥יל]] [[H2199\|תִּזְעַ֖ק]] [[H9003\|בַּ]][[H2256B\|חֲבָלֶ֑י]][[H9024\|הָ]] [[H3651C\|כֵּ֛ן]] [[H1961\|הָיִ֥ינוּ]] [[H9006\|מִ]][[H6440I\|פָּנֶ֖י]][[H9021\|ךָ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.16|<< Isaiah 26:16]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.18|Isaiah 26:18 >>]]</td></tr></table>
 

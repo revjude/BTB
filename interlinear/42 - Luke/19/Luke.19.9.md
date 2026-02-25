@@ -1,10 +1,64 @@
+---
+title: Luke 19:9
+type: Verse
+kjv: "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+bsb: "Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham."
+jesus_said: "This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+greek: "Εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς ὅτι σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο, καθότι καὶ αὐτὸς υἱὸς Ἀβραάμ ἐστιν·"
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G4594]]"
+- "[[G4991]]"
+- "[[G3624G]]"
+- "[[G3778]]"
+- "[[G1096]]"
+- "[[G2530]]"
+- "[[G2532]]"
+- "[[G5207]]"
+- "[[G0011]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Luke 19:9**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.
-<small><sub>**Literal:**</sub></small>
-Said then to him <the> Jesus that Today salvation to the house this has come, because also he himself a son of Abraham is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.8|<< Luke 19:8]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.10|Luke 19:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G4594\|σήμερον]]  [[G4991\|σωτηρία]]  [[G3588\|τῷ]]  [[G3624G\|οἴκῳ]]  [[G3778\|τούτῳ]]  [[G1096\|ἐγένετο,]]  [[G2530\|καθότι]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G5207\|υἱὸς]]  [[G0011\|Ἀβραάμ]]  [[G1510\|ἐστιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.8|<< Luke 19:8]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.10|Luke 19:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sheep among Wolves
+type: Pericope
 pericope: "[[Matt.10.16 Sheep among Wolves|Sheep among Wolves]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Matt.10.16]]"
 - "[[Matt.10.17]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Matt.10.25]]"
 ---
 
-[[Matt.10|Matthew 10:16 - Matthew 10:25]]
+<small>[[Matt.10|Matthew 10:16-25]]</small>
 *Sheep among Wolves*
 
 [[Matt.10.16|16]] Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.

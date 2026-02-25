@@ -1,10 +1,57 @@
+---
+title: Acts 5:22
+type: Verse
+kjv: "But when the officers came, and found them not in the prison, they returned, and told,"
+bsb: "But on arriving at the jail, the officers did not find them there. So they returned with the report:"
+greek: "οἱ δὲ παραγενόμενοι ὑπηρέται οὐχ εὗρον αὐτοὺς ἐν τῇ φυλακῇ. ἀναστρέψαντες δὲ ἀπήγγειλαν"
+pericope: "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3854]]"
+- "[[G5257]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G0390]]"
+- "[[G0518]]"
+texts:
+- NKO
+---
+
 **Acts 5:22**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the officers came, and found them not in the prison, they returned, and told,
 <small><sub>**BSB:**</sub></small>
 But on arriving at the jail, the officers did not find them there. So they returned with the report:
-<small><sub>**Literal:**</sub></small>
-<the> And having come [the] officers not did find them in the prison. having returned then they reported back<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.21|<< Acts 5:21]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.23|Acts 5:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3854\|παραγενόμενοι]]  [[G5257\|ὑπηρέται]]  [[G3756\|οὐχ]]  [[G2147\|εὗρον]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5438G\|φυλακῇ.]]  [[G0390\|ἀναστρέψαντες]]  [[G1161\|δὲ]]  [[G0518\|ἀπήγγειλαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.21|<< Acts 5:21]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.23|Acts 5:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

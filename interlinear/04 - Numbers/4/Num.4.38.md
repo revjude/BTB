@@ -1,8 +1,55 @@
+---
+title: Numbers 4:38
+type: Verse
+kjv: "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,"
+bsb: "Then the Gershonites were numbered by their clans and families,"
+hebrew: "וּפְקוּדֵ֖י בְּנֵ֣י גֵרְשׁ֑וֹן לְמִשְׁפְּחוֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6485A]]"
+- "[[H1121G]]"
+- "[[H1648]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:38**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,
 <small><sub>**BSB:**</sub></small>
 Then the Gershonites were numbered by their clans and families,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6485A\|פְקוּדֵ֖י]] [[H1121G\|בְּנֵ֣י]] [[H1648\|גֵרְשׁ֑וֹן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחוֹתָ֖]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.37|<< Numbers 4:37]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.39|Numbers 4:39 >>]]</td></tr></table>
 

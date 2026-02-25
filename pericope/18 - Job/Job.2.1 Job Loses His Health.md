@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Loses His Health
+type: Pericope
 pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 2
 book/chapter: "[[Job.2|Job 2]]"
-genre:
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 10
 verses:
 - "[[Job.2.1]]"
 - "[[Job.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Job.2.10]]"
 ---
 
-[[Job.2|Job 2:1 - Job 2:10]]
+<small>[[Job.2|Job 2:1-10]]</small>
 *Job Loses His Health*
 
 [[Job.2.1|1]] Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.

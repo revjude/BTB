@@ -1,8 +1,57 @@
+---
+title: Job 3:13
+type: Verse
+kjv: "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+bsb: "For now I would be lying down in peace; I would be asleep and at rest"
+hebrew: "כִּֽי־ עַ֭תָּה שָׁכַ֣בְתִּי וְאֶשְׁק֑וֹט יָ֝שַׁ֗נְתִּי אָ֤ז׀ יָנ֬וּחַֽ לִֽי׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H7901G]]"
+- "[[H9002]]"
+- "[[H8252]]"
+- "[[H3462]]"
+- "[[H0227A]]"
+- "[[H9015]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:13**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now should I have lain still and been quiet, I should have slept: then had I been at rest,
 <small><sub>**BSB:**</sub></small>
 For now I would be lying down in peace; I would be asleep and at rest
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H7901G\|שָׁכַ֣בְתִּי]] [[H9002\|וְ]][[H8252\|אֶשְׁק֑וֹט]] [[H3462\|יָ֝שַׁ֗נְתִּי]] [[H0227A\|אָ֤ז]][[H9015\|׀]] [[H5117\|יָנ֬וּחַֽ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.12|<< Job 3:12]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.14|Job 3:14 >>]]</td></tr></table>
 

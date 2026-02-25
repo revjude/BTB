@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 7:21
+type: Verse
+kjv: "And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in that land slew, because they came down to take away their cattle."
+bsb: "Zabad his son, and Shuthelah his son. Ezer and Elead were killed by the natives of Gath, because they went down to steal their livestock."
+hebrew: "וְזָבָ֥ד בְּנ֛וֹ וְשׁוּתֶ֥לַח בְּנ֖וֹ וְעֵ֣זֶר וְאֶלְעָ֑ד וַהֲרָג֗וּם אַנְשֵׁי־ גַת֙ הַנּוֹלָדִ֣ים בָּאָ֔רֶץ כִּ֣י יָרְד֔וּ לָקַ֖חַת אֶת־ מִקְנֵיהֶֽם׃"
+pericope: "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BERIAH|BERIAH]]"
+- "[[topic ELEAD|ELEAD]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic EZER|EZER]]"
+- "[[topic SHUTHELAH|SHUTHELAH]]"
+- "[[topic ZABAD|ZABAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H2066H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7803H]]"
+- "[[H5829K]]"
+- "[[H0496]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H0582]]"
+- "[[H9014]]"
+- "[[H1661]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:21**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath [that were] born in [that] land slew, because they came down to take away their cattle.
 <small><sub>**BSB:**</sub></small>
 Zabad his son, and Shuthelah his son. Ezer and Elead were killed by the natives of Gath, because they went down to steal their livestock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2066H\|זָבָ֥ד]] [[H1121A\|בְּנ֛]][[H9023\|וֹ]] [[H9002\|וְ]][[H7803H\|שׁוּתֶ֥לַח]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H5829K\|עֵ֣זֶר]] [[H9002\|וְ]][[H0496\|אֶלְעָ֑ד]] [[H9001\|וַ]][[H2026\|הֲרָג֗וּ]][[H9038\|ם]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H1661\|גַת֙]] [[H9009\|הַ]][[H3205\|נּוֹלָדִ֣ים]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּ֣י]] [[H3381\|יָרְד֔וּ]] [[H9005\|לָ]][[H3947J\|קַ֖חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H4735\|מִקְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERIAH|BERIAH]] • [[topic ELEAD|ELEAD]] • [[topic EPHRAIM|EPHRAIM]] • [[topic EZER|EZER]] • [[topic SHUTHELAH|SHUTHELAH]] • [[topic ZABAD|ZABAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.20|<< 1 Chronicles 7:20]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.22|1 Chronicles 7:22 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 49:10
+type: Verse
+kjv: "For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others."
+bsb: "For it is clear that wise men die, and the foolish and the senseless both perish and leave their wealth to others."
+hebrew: "כִּ֤י יִרְאֶ֨ה׀ חֲכָ֘מִ֤ים יָמ֗וּתוּ יַ֤חַד כְּסִ֣יל וָבַ֣עַר יֹאבֵ֑דוּ וְעָזְב֖וּ לַאֲחֵרִ֣ים חֵילָֽם׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H9015]]"
+- "[[H2450]]"
+- "[[H4191]]"
+- "[[H3162A]]"
+- "[[H3684]]"
+- "[[H9002]]"
+- "[[H1198]]"
+- "[[H0006]]"
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H9005]]"
+- "[[H0312]]"
+- "[[H2428H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:10**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he seeth [that] wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.
 <small><sub>**BSB:**</sub></small>
 For it is clear that wise men die, and the foolish and the senseless both perish and leave their wealth to others.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7200G\|יִרְאֶ֨ה]][[H9015\|׀]] [[H2450\|חֲכָ֘מִ֤ים]] [[H4191\|יָמ֗וּתוּ]] [[H3162A\|יַ֤חַד]] [[H3684\|כְּסִ֣יל]] [[H9002\|וָ]][[H1198\|בַ֣עַר]] [[H0006\|יֹאבֵ֑דוּ]] [[H9001\|וְ]][[H5800A\|עָזְב֖וּ]] [[H9005\|לַ]][[H0312\|אֲחֵרִ֣ים]] [[H2428H\|חֵילָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.9|<< Psalms 49:9]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.11|Psalms 49:11 >>]]</td></tr></table>
 

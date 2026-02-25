@@ -1,8 +1,60 @@
+---
+title: Ezekiel 14:15
+type: Verse
+kjv: "If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:"
+bsb: "Or if I send wild beasts through the land to leave it childless and desolate, with no man passing through it for fear of the beasts,"
+hebrew: "לֽוּ־ חַיָּ֥ה רָעָ֛ה אַעֲבִ֥יר בָּאָ֖רֶץ וְשִׁכְּלָ֑תָּה וְהָיְתָ֤ה שְׁמָמָה֙ מִבְּלִ֣י עוֹבֵ֔ר מִפְּנֵ֖י הַחַיָּֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[H3863]]"
+- "[[H9014]]"
+- "[[H2416C]]"
+- "[[H7451A]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H7921A]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H8077A]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H6440I]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:15**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:
 <small><sub>**BSB:**</sub></small>
 Or if I send wild beasts through the land to leave it childless and desolate, with no man passing through it for fear of the beasts,
+<small><sub>**Hebrew:**</sub></small>
+[[H3863\|לֽוּ]][[H9014\|־]] [[H2416C\|חַיָּ֥ה]] [[H7451A\|רָעָ֛ה]] [[H5674A\|אַעֲבִ֥יר]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H9001\|וְ]][[H7921A\|שִׁכְּלָ֑תָּ]][[H9034\|ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H8077A\|שְׁמָמָה֙]] [[H9006\|מִ]][[H1097\|בְּלִ֣י]] [[H5674A\|עוֹבֵ֔ר]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H9009\|הַ]][[H2416C\|חַיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.14|<< Ezekiel 14:14]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.16|Ezekiel 14:16 >>]]</td></tr></table>
 

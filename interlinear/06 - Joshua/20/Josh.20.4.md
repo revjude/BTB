@@ -1,8 +1,78 @@
+---
+title: Joshua 20:4
+type: Verse
+kjv: "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them."
+bsb: "When someone flees to one of these cities, stands at the entrance of the city gate, and states his case before its elders, they are to bring him into the city and give him a place to live among them."
+hebrew: "וְנָ֞ס אֶל־ אַחַ֣ת׀ מֵהֶעָרִ֣ים הָאֵ֗לֶּה וְעָמַד֙ פֶּ֚תַח שַׁ֣עַר הָעִ֔יר וְדִבֶּ֛ר בְּאָזְנֵ֛י זִקְנֵ֥י־ הָעִֽיר הַהִ֖יא אֶת־ דְּבָרָ֑יו וְאָסְפ֨וּ אֹת֤וֹ הָעִ֙ירָה֙ אֲלֵיהֶ֔ם וְנָתְנוּ־ ל֥וֹ מָק֖וֹם וְיָשַׁ֥ב עִמָּֽם׃"
+pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5127]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H2205G]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H1697L]]"
+- "[[H9023]]"
+- "[[H0622]]"
+- "[[H9033]]"
+- "[[H9011]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H3427]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Joshua 20:4**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.
 <small><sub>**BSB:**</sub></small>
 When someone flees to one of these cities, stands at the entrance of the city gate, and states his case before its elders, they are to bring him into the city and give him a place to live among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5127\|נָ֞ס]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אַחַ֣ת]][[H9015\|׀]] [[H9006\|מֵ]][[H9009\|הֶ]][[H5892B\|עָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9001\|וְ]][[H5975G\|עָמַד֙]] [[H6607\|פֶּ֚תַח]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וְ]][[H1696G\|דִבֶּ֛ר]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֛י]] [[H2205G\|זִקְנֵ֥י]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]] [[H9009\|הַ]][[H1931\|הִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H1697L\|דְּבָרָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H0622\|אָסְפ֨וּ]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H9009\|הָ]][[H5892B\|עִ֙ירָ]][[H9011\|ה֙]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H5414G\|נָתְנוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H4725\|מָק֖וֹם]] [[H9001\|וְ]][[H3427\|יָשַׁ֥ב]] [[H5973A\|עִמָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COMMUNION|COMMUNION]] • [[topic COURT|COURT]] • [[topic GATES|GATES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.3|<< Joshua 20:3]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.5|Joshua 20:5 >>]]</td></tr></table>
 

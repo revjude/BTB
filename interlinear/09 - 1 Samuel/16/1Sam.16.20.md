@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 16:20
+type: Verse
+kjv: "And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul."
+bsb: "And Jesse took a donkey loaded with bread, a skin of wine, and one young goat and sent them to Saul with his son David."
+hebrew: "וַיִּקַּ֨ח יִשַׁ֜י חֲמ֥וֹר לֶ֙חֶם֙ וְנֹ֣אד יַ֔יִן וּגְדִ֥י עִזִּ֖ים אֶחָ֑ד וַיִּשְׁלַ֛ח בְּיַד־ דָּוִ֥ד בְּנ֖וֹ אֶל־ שָׁאֽוּל׃"
+pericope: "[[1Sam.16.14 David Serves Saul|David Serves Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic KING|KING]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3448]]"
+- "[[H2543]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H4997]]"
+- "[[H3196]]"
+- "[[H1423]]"
+- "[[H5795]]"
+- "[[H0259]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H7586G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:20**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jesse took an ass [laden] with bread, and a bottle of wine, and a kid, and sent [them] by David his son unto Saul.
 <small><sub>**BSB:**</sub></small>
 And Jesse took a donkey loaded with bread, a skin of wine, and one young goat and sent them to Saul with his son David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H3448\|יִשַׁ֜י]] [[H2543\|חֲמ֥וֹר]] [[H3899H\|לֶ֙חֶם֙]] [[H9002\|וְ]][[H4997\|נֹ֣אד]] [[H3196\|יַ֔יִן]] [[H9002\|וּ]][[H1423\|גְדִ֥י]] [[H5795\|עִזִּ֖ים]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֛ח]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H1732\|דָּוִ֥ד]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GOAT|GOAT]] • [[topic JESSE|JESSE]] • [[topic KING|KING]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.19|<< 1 Samuel 16:19]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.21|1 Samuel 16:21 >>]]</td></tr></table>
 

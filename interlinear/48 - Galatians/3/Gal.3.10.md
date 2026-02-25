@@ -1,10 +1,69 @@
+---
+title: Galatians 3:10
+type: Verse
+kjv: "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them."
+bsb: "All who rely on works of the law are under a curse. For it is written: “Cursed is everyone who does not continue to do everything written in the Book of the Law.”"
+greek: "ὅσοι γὰρ ἐξ ἔργων νόμου εἰσίν, ὑπὸ κατάραν εἰσίν· γέγραπται γὰρ ὅτι ἐπικατάρατος πᾶς ὃς οὐκ ἐμμένει ἐν πᾶσιν τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά."
+pericope: "[[Gal.3.10 Christ Has Redeemed Us|Christ Has Redeemed Us]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3745]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G3551]]"
+- "[[G1510]]"
+- "[[G5259H]]"
+- "[[G2671]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G1944]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1696]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Galatians 3:10**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as many as are of the works of the law are under the curse: for it is written, Cursed [is] every one that continueth not in all things which are written in the book of the law to do them.
 <small><sub>**BSB:**</sub></small>
 All who rely on works of the law are under a curse. For it is written: “Cursed is everyone who does not continue to do everything written in the Book of the Law.”
-<small><sub>**Literal:**</sub></small>
-As many as for of works of [the] Law are, under a curse are; it has been written for that Cursed [is] everyone who not does continue in all things which written in the book of the Law <the> to do them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.9|<< Galatians 3:9]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.11|Galatians 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3745\|ὅσοι]]  [[G1063\|γὰρ]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G3551\|νόμου]]  [[G1510\|εἰσίν,]]  [[G5259H\|ὑπὸ]]  [[G2671\|κατάραν]]  [[G1510\|εἰσίν·]]  [[G1125\|γέγραπται]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1944\|ἐπικατάρατος]]  [[G3956\|πᾶς]]  [[G3739\|ὃς]]  [[G3756\|οὐκ]]  [[G1696\|ἐμμένει]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1125\|γεγραμμένοις]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0975\|βιβλίῳ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3588\|τοῦ]]  [[G4160G\|ποιῆσαι]]  [[G0846\|αὐτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.9|<< Galatians 3:9]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.11|Galatians 3:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 3:10** is...
 > $\quad$ referencing: [[LXX.Deut.27.26|Deut 27:26]]

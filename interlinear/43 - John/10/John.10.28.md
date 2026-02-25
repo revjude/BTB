@@ -1,10 +1,65 @@
+---
+title: John 10:28
+type: Verse
+kjv: "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+bsb: "I give them eternal life, and they will never perish. No one can snatch them out of My hand."
+jesus_said: "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."
+greek: "κἀγὼ κἀγὼ δίδωμι αὐτοῖς ζωὴν αἰώνιον, καὶ οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα, καὶ οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου."
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165H]]"
+- "[[G0726]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **John 10:28**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I give unto them eternal life; and they shall never perish, neither shall any [man] pluck them out of my hand.
 <small><sub>**BSB:**</sub></small>
 I give them eternal life, and they will never perish. No one can snatch them out of My hand.
-<small><sub>**Literal:**</sub></small>
-and I myself give to them life eternal, and certainly not shall they perish to the age, and never will seize anyone them out of the hand of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.27|<< John 10:27]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.29|John 10:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1325\|δίδωμι]]  [[G0846\|αὐτοῖς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0622\|ἀπόλωνται]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα,]]  [[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G0726\|ἁρπάσει]]  [[G5100\|τις]]  [[G0846\|αὐτὰ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5495\|χειρός]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic POWER|POWER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.27|<< John 10:27]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.29|John 10:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

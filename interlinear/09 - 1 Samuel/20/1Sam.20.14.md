@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 20:14
+type: Verse
+kjv: "And thou shalt not only while yet I live shew me the kindness of the LORD, that I die not:"
+bsb: "And as long as I live, treat me with the LORD’s loving devotion, that I may not die,"
+hebrew: "וְלֹ֖א אִם־ עוֹדֶ֣נִּי חָ֑י וְלֹֽא־ תַעֲשֶׂ֧ה עִמָּדִ֛י חֶ֥סֶד יְהוָ֖ה וְלֹ֥א אָמֽוּת׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H9040]]"
+- "[[H2416A]]"
+- "[[H6213A]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H2617A]]"
+- "[[H3068G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:14**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not only while yet I live shew me the kindness of the LORD, that I die not:
 <small><sub>**BSB:**</sub></small>
 And as long as I live, treat me with the LORD’s loving devotion, that I may not die,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֖א]] [[H0518A\|אִם]][[H9014\|־]] [[H5750\|עוֹדֶ֣]][[H9040\|נִּי]] [[H2416A\|חָ֑י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6213A\|תַעֲשֶׂ֧ה]] [[H5978\|עִמָּדִ֛]][[H9030\|י]] [[H2617A\|חֶ֥סֶד]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4191\|אָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.13|<< 1 Samuel 20:13]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.15|1 Samuel 20:15 >>]]</td></tr></table>
 

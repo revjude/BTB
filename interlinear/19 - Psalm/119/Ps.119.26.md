@@ -1,8 +1,56 @@
+---
+title: Psalm 119:26
+type: Verse
+kjv: "I have declared my ways, and thou heardest me: teach me thy statutes."
+bsb: "I recounted my ways, and You answered me; teach me Your statutes."
+hebrew: "דְּרָכַ֣י סִ֭פַּרְתִּי וַֽתַּעֲנֵ֗נִי לַמְּדֵ֥נִי חֻקֶּֽיךָ׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H5608A]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H3925G]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:26**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have declared my ways, and thou heardest me: teach me thy statutes.
 <small><sub>**BSB:**</sub></small>
 I recounted my ways, and You answered me; teach me Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דְּרָכַ֣]][[H9020\|י]] [[H5608A\|סִ֭פַּרְתִּי]] [[H9001\|וַֽ]][[H6030B\|תַּעֲנֵ֗]][[H9030\|נִי]] [[H3925G\|לַמְּדֵ֥]][[H9030\|נִי]] [[H2706G\|חֻקֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.25|<< Psalms 119:25]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.27|Psalms 119:27 >>]]</td></tr></table>
 

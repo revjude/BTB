@@ -71,21 +71,21 @@
 
 → People shall give account for [[Matt.12.36|Mt 12:36]]
 
-→ Punishment for [[Deut.19.16|De 19:16]]-[[Deut.19.21|21]]
+→ Punishment for [[Deut.19.16|De 19:16-21]]
 
-→ UNCLASSIFIED SCRIPTURES RELATING TO [[Exod.23.1|Ex 23:1]]; [[Deut.22.13|De 22:13]]-[[Deut.22.19|19]];  [[Job.5.21|Job 5:21]]; [[Ps.41.6|Ps 41:6]]-[[Ps.41.9|9]]; [[Ps.50.20|50:20]]; [[Ps.101.5|101:5]]; [[Prov.10.18|Pr 10:18]]; [[Prov.25.23|25:23]]; [[Jer.6.28|Jer 6:28]]; [[Jer.9.4|9:4]]; [[Rom.1.29|Ro 1:29]],[[Rom.1.30|30]]; [[1Cor.4.13|1Co  4:13]]; [[1Cor.6.10|6:10]]; [[2Cor.12.20|2Co 12:20]]; [[Jas.4.11|Jas 4:11]]; [[1Pet.2.1|1Pe 2:1]]; [[2Pet.2.10|2Pe 2:10]]
+→ UNCLASSIFIED SCRIPTURES RELATING TO [[Exod.23.1|Ex 23:1]]; [[Deut.22.13|De 22:13-19]];  [[Job.5.21|Job 5:21]]; [[Ps.41.6|Ps 41:6-9]]; [[Ps.50.20|50:20]]; [[Ps.101.5|101:5]]; [[Prov.10.18|Pr 10:18]]; [[Prov.25.23|25:23]]; [[Jer.6.28|Jer 6:28]]; [[Jer.9.4|9:4]]; [[Rom.1.29|Ro 1:29]],[[Rom.1.30|30]]; [[1Cor.4.13|1Co  4:13]]; [[1Cor.6.10|6:10]]; [[2Cor.12.20|2Co 12:20]]; [[Jas.4.11|Jas 4:11]]; [[1Pet.2.1|1Pe 2:1]]; [[2Pet.2.10|2Pe 2:10]]
 
 → INSTANCES OF
 
-- Joseph by Potiphar' s wife [[Gen.39.14|Ge 39:14]]-[[Gen.39.18|18]]
+- Joseph by Potiphar' s wife [[Gen.39.14|Ge 39:14-18]]
 
 - The land of Canaan misrepresented by the spies [[Num.14.36|Nu 14:36]]
 
-- Of Mephiboseth, by Ziba [[2Sam.16.3|2Sa 16:3]]; [[2Sam.19.24|19:24]]-[[2Sam.19.30|30]]
+- Of Mephiboseth, by Ziba [[2Sam.16.3|2Sa 16:3]]; [[2Sam.19.24|19:24-30]]
 
 - Of David, by his enemies [[Ps.31.13|Ps 31:13]]; [[Ps.35.21|35:21]]; [[Ps.41.5|41:5]]; [[Ps.64.3|64:3]];  [[Ps.140.3|140:3]]
 
-- Of Naboth, by Jezebel  [[1Kgs.21.9|1Ki 21:9]]-[[1Kgs.21.14|14]]
+- Of Naboth, by Jezebel  [[1Kgs.21.9|1Ki 21:9-14]]
 
 - Of Jeremiah, by the Jews [[Jer.18.18|Jer 18:18]]
 

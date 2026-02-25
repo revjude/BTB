@@ -1,8 +1,58 @@
+---
+title: Zechariah 5:6
+type: Verse
+kjv: "And I said, What is it? And he said, This is an ephah that goeth forth. He said moreover, This is their resemblance through all the earth."
+bsb: "“What is it?” I asked. And he replied, “A measuring basket is going forth.” Then he continued, “This is their iniquity in all the land.”"
+hebrew: "וָאֹמַ֖ר מַה־ הִ֑יא וַיֹּ֗אמֶר זֹ֤את הָֽאֵיפָה֙ הַיּוֹצֵ֔את וַיֹּ֕אמֶר זֹ֥את עֵינָ֖ם בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0374]]"
+- "[[H3318G]]"
+- "[[H5869K]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:6**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said, What [is] it? And he said, This [is] an ephah that goeth forth. He said moreover, This [is] their resemblance through all the earth.
 <small><sub>**BSB:**</sub></small>
 “What is it?” I asked. And he replied, “A measuring basket is going forth.” Then he continued, “This is their iniquity in all the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H4100\|מַה]][[H9014\|־]] [[H1931\|הִ֑יא]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2063\|זֹ֤את]] [[H9009\|הָֽ]][[H0374\|אֵיפָה֙]] [[H9009\|הַ]][[H3318G\|יּוֹצֵ֔את]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2063\|זֹ֥את]] [[H5869K\|עֵינָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.5|<< Zechariah 5:5]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.7|Zechariah 5:7 >>]]</td></tr></table>
 

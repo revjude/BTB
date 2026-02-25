@@ -1,10 +1,60 @@
+---
+title: John 16:27
+type: Verse
+kjv: "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+bsb: "For the Father Himself loves you, because you have loved Me and have believed that I came from God."
+jesus_said: "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+greek: "αὐτὸς γὰρ ὁ πατὴρ φιλεῖ ὑμᾶς, ὅτι ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε ὅτι ἐγὼ παρὰ τοῦ θεοῦ ἐξῆλθον."
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G5368]]"
+- "[[G4771]]"
+- "[[G3754H]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G1831]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **John 16:27**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
 <small><sub>**BSB:**</sub></small>
 For the Father Himself loves you, because you have loved Me and have believed that I came from God.
-<small><sub>**Literal:**</sub></small>
-Himself for the Father loves you, because you yourselves Me myself have loved and have believed that I myself from <the> God came forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.26|<< John 16:26]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.28|John 16:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G5368\|φιλεῖ]]  [[G4771\|ὑμᾶς,]]  [[G3754H\|ὅτι]]  [[G4771\|ὑμεῖς]]  [[G1473\|ἐμὲ]]  [[G5368\|πεφιλήκατε]]  [[G2532\|καὶ]]  [[G4100\|πεπιστεύκατε]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1831\|ἐξῆλθον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.26|<< John 16:26]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.28|John 16:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

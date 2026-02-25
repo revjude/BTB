@@ -1,8 +1,65 @@
+---
+title: Habakkuk 3:19
+type: Verse
+kjv: "The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments."
+bsb: "GOD the Lord is my strength; He makes my feet like those of a deer; He makes me walk upon the heights! For the choirmaster. With stringed instruments."
+hebrew: "יְהוִ֤הּ אֲדֹנָי֙ חֵילִ֔י וַיָּ֤שֶׂם רַגְלַי֙ כָּֽאַיָּל֔וֹת וְעַ֥ל בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃"
+pericope: "[[Hab.3.17 Habakkuk Rejoices|Habakkuk Rejoices]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H3069]]"
+- "[[H0136]]"
+- "[[H2428G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H7272]]"
+- "[[H9004]]"
+- "[[H0355]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H1116]]"
+- "[[H1869]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9003]]"
+- "[[H5058]]"
+- "[[H9016]]"
+texts:
+- L(abh)
+- L
+---
+
 **Habakkuk 3:19**<big><big>[[Hab.3.17 Habakkuk Rejoices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD God [is] my strength, and he will make my feet like hinds’ [feet], and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 <small><sub>**BSB:**</sub></small>
 GOD the Lord is my strength; He makes my feet like those of a deer; He makes me walk upon the heights! For the choirmaster. With stringed instruments.
+<small><sub>**Hebrew:**</sub></small>
+[[H3069\|יְהוִ֤הּ]] [[H0136\|אֲדֹנָי֙]] [[H2428G\|חֵילִ֔]][[H9020\|י]] [[H9001\|וַ]][[H7760A\|יָּ֤שֶׂם]] [[H7272\|רַגְלַ]][[H9020\|י֙]] [[H9004\|כָּֽ]][[H0355\|אַיָּל֔וֹת]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H1116\|בָּמוֹתַ֖]][[H9020\|י]] [[H1869\|יַדְרִכֵ֑]][[H9030\|נִי]] [[H9005\|לַ]][[H5329\|מְנַצֵּ֖חַ]] [[H9003\|בִּ]][[H5058\|נְגִינוֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
 

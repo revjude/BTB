@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 20:8
+type: Verse
+kjv: "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart."
+bsb: "Then the officers shall speak further to the army, saying, “Is any man afraid or fainthearted? Let him return home, so that the hearts of his brothers will not melt like his own.”"
+hebrew: "וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל־ הָעָם֒ וְאָמְר֗וּ מִי־ הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת־ לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H9009]]"
+- "[[H7860]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0376G]]"
+- "[[H3373]]"
+- "[[H9002]]"
+- "[[H7390]]"
+- "[[H3824]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H4549]]"
+- "[[H0853]]"
+- "[[H0251I]]"
+- "[[H9004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:8**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers shall speak further unto the people, and they shall say, What man [is there that is] fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
 <small><sub>**BSB:**</sub></small>
 Then the officers shall speak further to the army, saying, “Is any man afraid or fainthearted? Let him return home, so that the hearts of his brothers will not melt like his own.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3254G\|יָסְפ֣וּ]] [[H9009\|הַ]][[H7860\|שֹּׁטְרִים֮]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֒]] [[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H4310\|מִי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H3373\|יָּרֵא֙]] [[H9002\|וְ]][[H7390\|רַ֣ךְ]] [[H9009\|הַ]][[H3824\|לֵּבָ֔ב]] [[H1980G\|יֵלֵ֖ךְ]] [[H9002\|וְ]][[H7725G\|יָשֹׁ֣ב]] [[H9005\|לְ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4549\|יִמַּ֛ס]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַ֥ב]] [[H0251I\|אֶחָ֖י]][[H9023\|ו]] [[H9004\|כִּ]][[H3824\|לְבָבֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COWARDICE|COWARDICE]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.7|<< Deuteronomy 20:7]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.9|Deuteronomy 20:9 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Luke 1:6
+type: Verse
+kjv: "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless."
+bsb: "Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord."
+greek: "ἦσαν δὲ δίκαιοι ἀμφότεροι ἐναντίον τοῦ θεοῦ πορευόμενοι ἐν πάσαις ταῖς ἐντολαῖς καὶ δικαιώμασιν τοῦ κυρίου ἄμεμπτοι."
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1342]]"
+- "[[G0297]]"
+- "[[G1726]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4198]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G1785]]"
+- "[[G2532]]"
+- "[[G1345]]"
+- "[[G2962G]]"
+- "[[G0273]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:6**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 <small><sub>**BSB:**</sub></small>
 Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord.
-<small><sub>**Literal:**</sub></small>
-They were now righteous both in front of <the> God walking in all the commandments and ordinances of the Lord blameless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.5|<< Luke 1:5]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.7|Luke 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G1342\|δίκαιοι]]  [[G0297\|ἀμφότεροι]]  [[G1726\|ἐναντίον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4198\|πορευόμενοι]]  [[G1722\|ἐν]]  [[G3956\|πάσαις]]  [[G3588\|ταῖς]]  [[G1785\|ἐντολαῖς]]  [[G2532\|καὶ]]  [[G1345\|δικαιώμασιν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G0273\|ἄμεμπτοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]] • [[topic TEMPLE|TEMPLE]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.5|<< Luke 1:5]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.7|Luke 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

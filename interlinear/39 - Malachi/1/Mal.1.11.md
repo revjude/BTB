@@ -1,8 +1,70 @@
+---
+title: Malachi 1:11
+type: Verse
+kjv: "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the LORD of hosts."
+bsb: "For My name will be great among the nations, from where the sun rises to where it sets. In every place, incense and pure offerings will be presented in My name, because My name will be great among the nations,” says the LORD of Hosts."
+hebrew: "כִּ֣י מִמִּזְרַח־ שֶׁ֜מֶשׁ וְעַד־ מְבוֹא֗וֹ גָּד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם וּבְכָל־ מָק֗וֹם מֻקְטָ֥ר מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה כִּֽי־ גָד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H9014]]"
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H3996]]"
+- "[[H9023]]"
+- "[[H1419A]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H3605]]"
+- "[[H4725]]"
+- "[[H6999B]]"
+- "[[H5066H]]"
+- "[[H9005]]"
+- "[[H4503G]]"
+- "[[H2889]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:11**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For from the rising of the sun even unto the going down of the same my name [shall be] great among the Gentiles; and in every place incense [shall be] offered unto my name, and a pure offering: for my name [shall be] great among the heathen, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 For My name will be great among the nations, from where the sun rises to where it sets. In every place, incense and pure offerings will be presented in My name, because My name will be great among the nations,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֜מֶשׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3996\|מְבוֹא֗]][[H9023\|וֹ]] [[H1419A\|גָּד֤וֹל]] [[H8034\|שְׁמִ]][[H9020\|י֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4725\|מָק֗וֹם]] [[H6999B\|מֻקְטָ֥ר]] [[H5066H\|מֻגָּ֛שׁ]] [[H9005\|לִ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9002\|וּ]][[H4503G\|מִנְחָ֣ה]] [[H2889\|טְהוֹרָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גָד֤וֹל]] [[H8034\|שְׁמִ]][[H9020\|י֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INCENSE|INCENSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.10|<< Malachi 1:10]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.12|Malachi 1:12 >>]]</td></tr></table>
 

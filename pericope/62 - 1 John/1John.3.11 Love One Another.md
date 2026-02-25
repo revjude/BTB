@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love One Another
+type: Pericope
 pericope: "[[1John.3.11 Love One Another|Love One Another]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 3
 book/chapter: "[[1John.3|1 John 3]]"
-genre:
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 14
 verses:
 - "[[1John.3.11]]"
 - "[[1John.3.12]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1John.3.24]]"
 ---
 
-[[1John.3|1 John 3:11 - 1 John 3:24]]
+<small>[[1John.3|1 John 3:11-24]]</small>
 *Love One Another*
 
 [[1John.3.11|11]] For this is the message that ye heard from the beginning, that we should love one another.

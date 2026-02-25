@@ -1,10 +1,63 @@
+---
+title: Luke 2:21
+type: Verse
+kjv: "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb."
+bsb: "When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived."
+greek: "Καὶ ὅτε ἐπλήσθησαν ἡμέραι ὀκτὼ τοῦ περιτεμεῖν αὐτὸν τὸ παιδίον, καὶ ἐκλήθη τὸ ὄνομα αὐτοῦ Ἰησοῦς, τὸ κληθὲν ὑπὸ τοῦ ἀγγέλου πρὸ τοῦ συλλημφθῆναι αὐτὸν ἐν τῇ κοιλίᾳ."
+pericope: "[[Luke.2.21 Jesus Presented at the Temple|Jesus Presented at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G4130]]"
+- "[[G2250]]"
+- "[[G3638]]"
+- "[[G3588]]"
+- "[[G4059]]"
+- "[[G0846]]"
+- "[[G3813]]"
+- "[[G2564H]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5259G]]"
+- "[[G0032G]]"
+- "[[G4253]]"
+- "[[G4815]]"
+- "[[G1722]]"
+- "[[G2836]]"
+texts:
+- NKO
+- no
+- K
+---
+
 **Luke 2:21**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
 <small><sub>**BSB:**</sub></small>
 When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived.
-<small><sub>**Literal:**</sub></small>
-And when were fulfilled days eight <the> to circumcise Him the child then was called the name of Him Jesus, which He had been called by the angel before <the> conceiving He in the womb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.20|<< Luke 2:20]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.22|Luke 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G4130\|ἐπλήσθησαν]]  [[G2250\|ἡμέραι]]  [[G3638\|ὀκτὼ]]  [[G3588\|τοῦ]]  [[G4059\|περιτεμεῖν]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον,]]  [[G2532\|καὶ]]  [[G2564H\|ἐκλήθη]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦς,]]  [[G3588\|τὸ]]  [[G2564H\|κληθὲν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G4815\|συλλημφθῆναι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2836\|κοιλίᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.20|<< Luke 2:20]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.22|Luke 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 2:21** is...
 > $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]

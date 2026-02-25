@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 26:29
+type: Verse
+kjv: "Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges."
+bsb: "From the Izharites, Chenaniah and his sons had the outside duties as officers and judges over Israel."
+hebrew: "לַיִּצְהָרִ֞י כְּנַנְיָ֣הוּ וּבָנָ֗יו לַמְּלָאכָ֤ה הַחִֽיצוֹנָה֙ עַל־ יִשְׂרָאֵ֔ל לְשֹׁטְרִ֖ים וּלְשֹׁפְטִֽים׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHENANIAH|CHENANIAH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9005]]"
+- "[[H3325]]"
+- "[[H3663]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4399]]"
+- "[[H9009]]"
+- "[[H2435]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H7860]]"
+- "[[H8199]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:29**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the Izharites, Chenaniah and his sons [were] for the outward business over Israel, for officers and judges.
 <small><sub>**BSB:**</sub></small>
 From the Izharites, Chenaniah and his sons had the outside duties as officers and judges over Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H3325\|יִּצְהָרִ֞י]] [[H3663\|כְּנַנְיָ֣הוּ]] [[H9002\|וּ]][[H1121A\|בָנָ֗י]][[H9023\|ו]] [[H9005\|לַ]][[H4399\|מְּלָאכָ֤ה]] [[H9009\|הַ]][[H2435\|חִֽיצוֹנָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H7860\|שֹׁטְרִ֖ים]] [[H9002\|וּ]][[H9005\|לְ]][[H8199\|שֹׁפְטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHENANIAH|CHENANIAH]] • [[topic COURT|COURT]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.28|<< 1 Chronicles 26:28]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.30|1 Chronicles 26:30 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: 1 John 2:14
+type: Verse
+kjv: "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one."
+bsb: "I have written to you, fathers, because you know Him who is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one."
+greek: "Ἔγραψα ὑμῖν, παιδία, ὅτι ἐγνώκατε τὸν πατέρα. ἔγραψα ὑμῖν, πατέρες, ὅτι ἐγνώκατε τὸν ἀπ᾽ ἀρχῆς. ἔγραψα ὑμῖν, νεανίσκοι, ὅτι ἰσχυροί ἐστε καὶ ὁ λόγος τοῦ θεοῦ ἐν ὑμῖν μένει καὶ νενικήκατε τὸν πονηρόν.¶"
+pericope: "[[1John.2.7 A New Commandment|A New Commandment]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G3813]]"
+- "[[G3754H]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G3495]]"
+- "[[G2478]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G3306]]"
+- "[[G3528]]"
+- "[[G4190]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **1 John 2:14**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have written unto you, fathers, because ye have known him [that is] from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
 <small><sub>**BSB:**</sub></small>
 I have written to you, fathers, because you know Him who is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one.
-<small><sub>**Literal:**</sub></small>
-I have written to you, little children, because you have known the Father. [14] I have written to you, fathers, because you have known Him who [is] from [the] beginning. I have written to you, young men, because strong you are and the word <the> of God in you abides and you have overcome the evil [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.13|<< 1 John 2:13]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.15|1 John 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|Ἔγραψα]]  [[G4771\|ὑμῖν,]]  [[G3813\|παιδία,]]  [[G3754H\|ὅτι]]  [[G1097\|ἐγνώκατε]]  [[G3588\|τὸν]]  [[G3962\|πατέρα.]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν,]]  [[G3962\|πατέρες,]]  [[G3754H\|ὅτι]]  [[G1097\|ἐγνώκατε]]  [[G3588\|τὸν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς.]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν,]]  [[G3495\|νεανίσκοι,]]  [[G3754H\|ὅτι]]  [[G2478\|ἰσχυροί]]  [[G1510\|ἐστε]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3306\|μένει]]  [[G2532\|καὶ]]  [[G3528\|νενικήκατε]]  [[G3588\|τὸν]]  [[G4190\|πονηρόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.13|<< 1 John 2:13]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.15|1 John 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

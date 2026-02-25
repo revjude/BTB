@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 9:6
+type: Verse
+kjv: "Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou art a stiffnecked people."
+bsb: "Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people."
+hebrew: "וְיָדַעְתָּ֗ כִּ֠י לֹ֤א בְצִדְקָֽתְךָ֙ יְהוָ֣ה אֱ֠לֹהֶיךָ נֹתֵ֨ן לְךָ֜ אֶת־ הָאָ֧רֶץ הַטּוֹבָ֛ה הַזֹּ֖את לְרִשְׁתָּ֑הּ כִּ֥י עַם־ קְשֵׁה־ עֹ֖רֶף אָֽתָּה׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H2063]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H5971A]]"
+- "[[H7186]]"
+- "[[H6203]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:6**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou [art] a stiffnecked people.
 <small><sub>**BSB:**</sub></small>
 Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדַעְתָּ֗]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֤א]] [[H9003\|בְ]][[H6666\|צִדְקָֽתְ]][[H9021\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱ֠לֹהֶי]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֨ן]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֛ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֑]][[H9034\|הּ]] [[H3588A\|כִּ֥י]] [[H5971A\|עַם]][[H9014\|־]] [[H7186\|קְשֵׁה]][[H9014\|־]] [[H6203\|עֹ֖רֶף]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.5|<< Deuteronomy 9:5]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.7|Deuteronomy 9:7 >>]]</td></tr></table>
 

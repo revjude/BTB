@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 20:6
+type: Verse
+kjv: "If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family."
+bsb: "If your father misses me at all, tell him, ‘David urgently requested my permission to hurry to Bethlehem, his hometown, because there is an annual sacrifice for his whole clan.’"
+hebrew: "אִם־ פָּקֹ֥ד יִפְקְדֵ֖נִי אָבִ֑יךָ וְאָמַרְתָּ֗ נִשְׁאֹל֩ נִשְׁאַ֨ל מִמֶּ֤נִּי דָוִד֙ לָרוּץ֙ בֵּֽית־ לֶ֣חֶם עִיר֔וֹ כִּ֣י זֶ֧בַח הַיָּמִ֛ים שָׁ֖ם לְכָל־ הַמִּשְׁפָּחָֽה׃"
+pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6485K]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7592]]"
+- "[[H4480A]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H7323G]]"
+- "[[H1035G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H3117I]]"
+- "[[H8033G]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:6**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy father at all miss me, then say, David earnestly asked [leave] of me that he might run to Bethlehem his city: for [there is] a yearly sacrifice there for all the family.
 <small><sub>**BSB:**</sub></small>
 If your father misses me at all, tell him, ‘David urgently requested my permission to hurry to Bethlehem, his hometown, because there is an annual sacrifice for his whole clan.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6485K\|פָּקֹ֥ד]] [[H6485K\|יִפְקְדֵ֖]][[H9030\|נִי]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H7592\|נִשְׁאֹל֩]] [[H7592\|נִשְׁאַ֨ל]] [[H4480A\|מִמֶּ֤]][[H9030\|נִּי]] [[H1732\|דָוִד֙]] [[H9005\|לָ]][[H7323G\|רוּץ֙]] [[H1035G\|בֵּֽית]][[H9014\|־]] [[H1035G\|לֶ֣חֶם]] [[H5892B\|עִיר֔]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H2077\|זֶ֧בַח]] [[H9009\|הַ]][[H3117I\|יָּמִ֛ים]] [[H8033G\|שָׁ֖ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4940\|מִּשְׁפָּחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.5|<< 1 Samuel 20:5]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.7|1 Samuel 20:7 >>]]</td></tr></table>
 

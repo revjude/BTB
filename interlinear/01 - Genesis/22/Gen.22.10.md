@@ -1,8 +1,65 @@
+---
+title: Genesis 22:10
+type: Verse
+kjv: "And Abraham stretched forth his hand, and took the knife to slay his son."
+bsb: "Then Abraham reached out his hand and took the knife to slaughter his son."
+hebrew: "וַיִּשְׁלַ֤ח אַבְרָהָם֙ אֶת־ יָד֔וֹ וַיִּקַּ֖ח אֶת־ הַֽמַּאֲכֶ֑לֶת לִשְׁחֹ֖ט אֶת־ בְּנֽוֹ׃"
+pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971K]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3979]]"
+- "[[H9005]]"
+- "[[H7819A]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:10**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham stretched forth his hand, and took the knife to slay his son.
 <small><sub>**BSB:**</sub></small>
 Then Abraham reached out his hand and took the knife to slaughter his son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971K\|יִּשְׁלַ֤ח]] [[H0085\|אַבְרָהָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3979\|מַּאֲכֶ֑לֶת]] [[H9005\|לִ]][[H7819A\|שְׁחֹ֖ט]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.9|<< Genesis 22:9]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.11|Genesis 22:11 >>]]</td></tr></table>
 

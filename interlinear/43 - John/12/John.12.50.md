@@ -1,10 +1,63 @@
+---
+title: John 12:50
+type: Verse
+kjv: "And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak."
+bsb: "And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”"
+jesus_said: "And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak."
+greek: "καὶ οἶδα ὅτι ἡ ἐντολὴ αὐτοῦ ζωὴ αἰώνιός ἐστιν. ἃ οὖν ἐγὼ λαλῶ, καθὼς εἴρηκέν μοι ὁ πατήρ, οὕτως λαλῶ.¶"
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G0846]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3767]]"
+- "[[G1473]]"
+- "[[G2980]]"
+- "[[G2531]]"
+- "[[G2046]]"
+- "[[G3165]]"
+- "[[G3962]]"
+- "[[G3779]]"
+texts:
+- NKO
+---
+
 **John 12:50**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
 <small><sub>**BSB:**</sub></small>
 And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”
-<small><sub>**Literal:**</sub></small>
-And I know that the commandment of Him life eternal is. What therefore I myself speak even as has said to Me the Father, so I speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.49|<< John 12:49]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.1|John 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G1785\|ἐντολὴ]]  [[G0846\|αὐτοῦ]]  [[G2222\|ζωὴ]]  [[G0166\|αἰώνιός]]  [[G1510\|ἐστιν.]]  [[G3739\|ἃ]]  [[G3767\|οὖν]]  [[G1473\|ἐγὼ]]  [[G2980\|λαλῶ,]]  [[G2531\|καθὼς]]  [[G2046\|εἴρηκέν]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3779\|οὕτως]]  [[G2980\|λαλῶ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.49|<< John 12:49]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.1|John 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

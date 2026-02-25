@@ -1,8 +1,61 @@
+---
+title: Joshua 11:16
+type: Verse
+kjv: "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"
+bsb: "So Joshua took this entire region: the hill country, all the Negev, all the land of Goshen, the western foothills, the Arabah, and the mountains of Israel and their foothills,"
+hebrew: "וַיִּקַּ֨ח יְהוֹשֻׁ֜עַ אֶת־ כָּל־ הָאָ֣רֶץ הַזֹּ֗את הָהָ֤ר וְאֶת־ כָּל־ הַנֶּ֙גֶב֙ וְאֵת֙ כָּל־ אֶ֣רֶץ הַגֹּ֔שֶׁן וְאֶת־ הַשְּׁפֵלָ֖ה וְאֶת־ הָעֲרָבָ֑ה וְאֶת־ הַ֥ר יִשְׂרָאֵ֖ל וּשְׁפֵלָתֹֽה׃"
+pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOSHEN|GOSHEN]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H2022H]]"
+- "[[H9002]]"
+- "[[H5045G]]"
+- "[[H1657H]]"
+- "[[H8219]]"
+- "[[H6160G]]"
+- "[[H3478]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:16**<big><big>[[Josh.11.16 Joshua Takes the Whole Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;
 <small><sub>**BSB:**</sub></small>
 So Joshua took this entire region: the hill country, all the Negev, all the land of Goshen, the western foothills, the Arabah, and the mountains of Israel and their foothills,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H9009\|הָ]][[H2022H\|הָ֤ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5045G\|נֶּ֙גֶב֙]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H1657H\|גֹּ֔שֶׁן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8219\|שְּׁפֵלָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6160G\|עֲרָבָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2022H\|הַ֥ר]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וּ]][[H8219\|שְׁפֵלָתֹֽ]][[H9023\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic GOSHEN|GOSHEN]] • [[topic SEIR|SEIR]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.15|<< Joshua 11:15]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.17|Joshua 11:17 >>]]</td></tr></table>
 

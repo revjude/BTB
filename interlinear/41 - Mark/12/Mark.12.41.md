@@ -1,10 +1,61 @@
+---
+title: Mark 12:41
+type: Verse
+kjv: "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much."
+bsb: "As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts."
+greek: "Καὶ καθίσας ὁ Ἰησοῦς κατέναντι τοῦ γαζοφυλακίου ἐθεώρει πῶς ὁ ὄχλος βάλλει χαλκὸν εἰς τὸ γαζοφυλάκιον. καὶ πολλοὶ πλούσιοι ἔβαλλον πολλά·"
+pericope: "[[Mark.12.41 The Widow’s Offering|The Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2713]]"
+- "[[G1049]]"
+- "[[G2334]]"
+- "[[G4459]]"
+- "[[G3793]]"
+- "[[G0906H]]"
+- "[[G5475]]"
+- "[[G1519]]"
+- "[[G4183]]"
+- "[[G4145]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Mark 12:41**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.
 <small><sub>**BSB:**</sub></small>
 As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts.
-<small><sub>**Literal:**</sub></small>
-And having sat down <the> Jesus opposite the treasury He was watching how the crowd cast money into the treasury. and many rich were casting [in] much;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.40|<< Mark 12:40]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.42|Mark 12:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2523\|καθίσας]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2713\|κατέναντι]]  [[G3588\|τοῦ]]  [[G1049\|γαζοφυλακίου]]  [[G2334\|ἐθεώρει]]  [[G4459\|πῶς]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G0906H\|βάλλει]]  [[G5475\|χαλκὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1049\|γαζοφυλάκιον.]]  [[G2532\|καὶ]]  [[G4183\|πολλοὶ]]  [[G4145\|πλούσιοι]]  [[G0906H\|ἔβαλλον]]  [[G4183\|πολλά·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic MONEY|MONEY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.40|<< Mark 12:40]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.42|Mark 12:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

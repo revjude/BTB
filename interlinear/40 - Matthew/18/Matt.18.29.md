@@ -1,10 +1,65 @@
+---
+title: Matthew 18:29
+type: Verse
+kjv: "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
+bsb: "So his fellow servant fell down and begged him, ‘Have patience with me, and I will pay you back.’"
+jesus_said: "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
+greek: "πεσὼν οὖν ὁ σύνδουλος αὐτοῦ εἰς τοὺς πόδας αὐτοῦ παρεκάλει αὐτὸν λέγων· μακροθύμησον ἐπ᾽ ἐμοί, καὶ πάντα ἀποδώσω σοι."
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[G4098]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4889]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4228]]"
+- "[[G3870]]"
+- "[[G3004G]]"
+- "[[G3114]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0591]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **Matthew 18:29**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.
 <small><sub>**BSB:**</sub></small>
 So his fellow servant fell down and begged him, ‘Have patience with me, and I will pay you back.’
-<small><sub>**Literal:**</sub></small>
-Having fallen down therefore the fellow servant of him into the feet of him was begging him saying; do have patience with me myself, and all things I will pay you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.28|<< Matthew 18:28]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.30|Matthew 18:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4098\|πεσὼν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G4889\|σύνδουλος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγων·]]  [[G3114\|μακροθύμησον]]  [[G1909\|ἐπ᾽]]  [[G1473\|ἐμοί,]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G0591\|ἀποδώσω]]  [[G4771\|σοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MALICE|MALICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.28|<< Matthew 18:28]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.30|Matthew 18:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

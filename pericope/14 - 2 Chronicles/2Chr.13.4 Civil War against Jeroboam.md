@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Civil War against Jeroboam
+type: Pericope
 pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 13
 book/chapter: "[[2Chr.13|2 Chronicles 13]]"
-genre:
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 19
 verses:
 - "[[2Chr.13.4]]"
 - "[[2Chr.13.5]]"
@@ -37,7 +44,7 @@ verses:
 - "[[2Chr.13.22]]"
 ---
 
-[[2Chr.13|2 Chronicles 13:4 - 2 Chronicles 13:22]]
+<small>[[2Chr.13|2 Chronicles 13:4-22]]</small>
 *Civil War against Jeroboam*
 
 [[2Chr.13.4|4]] And Abijah stood up upon mount Zemaraim, which \[is\] in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;

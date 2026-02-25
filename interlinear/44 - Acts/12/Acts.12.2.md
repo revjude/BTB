@@ -1,10 +1,55 @@
+---
+title: Acts 12:2
+type: Verse
+kjv: "And he killed James the brother of John with the sword."
+bsb: "He had James, the brother of John, put to death with the sword."
+greek: "ἀνεῖλεν δὲ Ἰάκωβον τὸν ἀδελφὸν Ἰωάννου μαχαίρῃ."
+pericope: "[[Acts.12.1 James Killed, Peter Imprisoned|James Killed, Peter Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEHEADING|BEHEADING]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic KING|KING]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G0337]]"
+- "[[G1161]]"
+- "[[G2385G]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2491H]]"
+- "[[G3162]]"
+texts:
+- NKO
+---
+
 **Acts 12:2**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he killed James the brother of John with the sword.
 <small><sub>**BSB:**</sub></small>
 He had James, the brother of John, put to death with the sword.
-<small><sub>**Literal:**</sub></small>
-He executed then James the brother of John with the sword.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.1|<< Acts 12:1]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.3|Acts 12:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0337\|ἀνεῖλεν]]  [[G1161\|δὲ]]  [[G2385G\|Ἰάκωβον]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G2491H\|Ἰωάννου]]  [[G3162\|μαχαίρῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEHEADING|BEHEADING]] • [[topic HEROD|HEROD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JAMES|JAMES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic KING|KING]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.1|<< Acts 12:1]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.3|Acts 12:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

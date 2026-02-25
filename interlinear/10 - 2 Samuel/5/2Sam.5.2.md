@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 5:2
+type: Verse
+kjv: "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
+bsb: "Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’”"
+hebrew: "גַּם־ אֶתְמ֣וֹל גַּם־ שִׁלְשׁ֗וֹם בִּהְי֨וֹת שָׁא֥וּל מֶ֙לֶךְ֙ עָלֵ֔ינוּ אַתָּ֗ה הָיִ֛יתָ הַמּוֹצִ֥יא וְהַמֵּבִ֖יא אֶת־ יִשְׂרָאֵ֑ל וַיֹּ֨אמֶר יְהוָ֜ה לְךָ֗ אַתָּ֨ה תִרְעֶ֤ה אֶת־ עַמִּי֙ אֶת־ יִשְׂרָאֵ֔ל וְאַתָּ֛ה תִּהְיֶ֥ה לְנָגִ֖יד עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.5.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0865]]"
+- "[[H8032]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H7586G]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H0859A]]"
+- "[[H3318H]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7462B]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5057]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Samuel 5:2**<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
 <small><sub>**BSB:**</sub></small>
 Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0865\|אֶתְמ֣וֹל]] [[H1571\|גַּם]][[H9014\|־]] [[H8032\|שִׁלְשׁ֗וֹם]] [[H9003\|בִּ]][[H1961\|הְי֨וֹת]] [[H7586G\|שָׁא֥וּל]] [[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H0859A\|אַתָּ֗ה]] [[H1961\|הָיִ֛יתָ]] [[H9009\|הַ]][[H3318H\|מּוֹצִ֥יא]] [[H9002\|וְ]][[H9009\|הַ]][[H0935P\|מֵּבִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H0859A\|אַתָּ֨ה]] [[H7462B\|תִרְעֶ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H1961\|תִּהְיֶ֥ה]] [[H9005\|לְ]][[H5057\|נָגִ֖יד]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HEBRON|HEBRON]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.1|<< 2 Samuel 5:1]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.3|2 Samuel 5:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

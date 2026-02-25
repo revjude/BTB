@@ -1,6 +1,66 @@
+---
+title: LXX 1 Samuel 3:6
+type: Verse
+lxx: "And the lord added again to call Samuel. And he went to Eli the second time, and said, Behold, it is I, for you called me. And he said, I have not called you child, return and sleep!"
+greek: "και προσέθετο κύριος έτι καλέσαι Σαμουήλ και επορεύθη προς Ηλί το δεύτερον και είπεν ιδού εγώ ότι κέκληκάς με και είπεν ου κέκληκά σε τέκνον ανάστρεφε και κάθευδε"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G2962]]"
+- "[[G2089]]"
+- "[[G2564]]"
+- "[[G4545]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G4314]]"
+- "[[G2242]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G2564]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G2564]]"
+- "[[G1473]]"
+- "[[G5043]]"
+- "[[G0390]]"
+- "[[G2532]]"
+- "[[G2518]]"
+---
+
 **LXX 1 Samuel 3:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> added again to call Samuel. And he went to Eli the second \[time\], and said, Behold, \[it is\] I, for you called me. And he said, I have not called you child, return and sleep! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4369\|προσέθετο]] [[G2962\|κύριος]] [[G2089\|έτι]] [[G2564\|καλέσαι]] [[G4545\|Σαμουήλ]] [[G2532\|και]] [[G4198\|επορεύθη]] [[G4314\|προς]] [[G2242\|Ηλί]] [[G3588\|το]] [[G1208\|δεύτερον]] [[G2532\|και]] [[G2036\|είπεν]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G3754\|ότι]] [[G2564\|κέκληκάς]] [[G1473\|με]] [[G2532\|και]] [[G2036\|είπεν]] [[G3756\|ου]] [[G2564\|κέκληκά]] [[G1473\|σε]] [[G5043\|τέκνον]] [[G0390\|ανάστρεφε]] [[G2532\|και]] [[G2518\|κάθευδε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.5|<< 1 Samuel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.7|1 Samuel 3:7 >>]]</td></tr></table>
 
@@ -33,6 +93,6 @@ And \[the\] <span class="smallcaps">lord</span> added again to call Samuel. And 
 | return | **<big>[[G0390\|ανάστρεφε]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | sleep! | **<big>[[G2518\|κάθευδε]]</big>** |
-[[1Sam.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.5|<< 1 Samuel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.7|1 Samuel 3:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.5|<< 1 Samuel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.7|1 Samuel 3:7 >>]]</td></tr></table>
 
 

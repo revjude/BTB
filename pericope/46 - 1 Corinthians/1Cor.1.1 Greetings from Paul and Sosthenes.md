@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Greetings from Paul and Sosthenes
+type: Pericope
 pericope: "[[1Cor.1.1 Greetings from Paul and Sosthenes|Greetings from Paul and Sosthenes]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 1
 book/chapter: "[[1Cor.1|1 Corinthians 1]]"
-genre:
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 3
 verses:
 - "[[1Cor.1.1]]"
 - "[[1Cor.1.2]]"
 - "[[1Cor.1.3]]"
 ---
 
-[[1Cor.1|1 Corinthians 1:1 - 1 Corinthians 1:3]]
+<small>[[1Cor.1|1 Corinthians 1:1-3]]</small>
 *Greetings from Paul and Sosthenes*
 
 [[1Cor.1.1|1]] Paul, called \[to be\] an apostle of Jesus Christ through the will of God, and Sosthenes \[our\] brother,

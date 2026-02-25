@@ -1,8 +1,67 @@
+---
+title: Leviticus 4:27
+type: Verse
+kjv: "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;"
+bsb: "And if one of the common people sins unintentionally and does what is prohibited by any of the LORD’s commandments, he incurs guilt."
+hebrew: "וְאִם־ נֶ֧פֶשׁ אַחַ֛ת תֶּחֱטָ֥א בִשְׁגָגָ֖ה מֵעַ֣ם הָאָ֑רֶץ בַּ֠עֲשֹׂתָהּ אַחַ֨ת מִמִּצְוֹ֧ת יְהוָ֛ה אֲשֶׁ֥ר לֹא־ תֵעָשֶׂ֖ינָה וְאָשֵֽׁם׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H0259]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H7684]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H6213A]]"
+- "[[H9044]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9001]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:27**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if any one of the common people sin through ignorance, while he doeth [somewhat against] any of the commandments of the LORD [concerning things] which ought not to be done, and be guilty;
 <small><sub>**BSB:**</sub></small>
 And if one of the common people sins unintentionally and does what is prohibited by any of the LORD’s commandments, he incurs guilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5315J\|נֶ֧פֶשׁ]] [[H0259\|אַחַ֛ת]] [[H2398\|תֶּחֱטָ֥א]] [[H9003\|בִ]][[H7684\|שְׁגָגָ֖ה]] [[H9006\|מֵ]][[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H9003\|בַּ֠]][[H6213A\|עֲשֹׂתָ]][[H9044\|הּ]] [[H0259\|אַחַ֨ת]] [[H9006\|מִ]][[H4687\|מִּצְוֹ֧ת]] [[H3068G\|יְהוָ֛ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|תֵעָשֶׂ֖ינָה]] [[H9001\|וְ]][[H0816\|אָשֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.26|<< Leviticus 4:26]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.28|Leviticus 4:28 >>]]</td></tr></table>
 

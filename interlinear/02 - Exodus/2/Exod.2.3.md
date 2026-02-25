@@ -1,8 +1,81 @@
+---
+title: Exodus 2:3
+type: Verse
+kjv: "And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink."
+bsb: "But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile."
+hebrew: "וְלֹא־ יָכְלָ֣ה עוֹד֮ הַצְּפִינוֹ֒ וַתִּֽקַּֽח־ לוֹ֙ תֵּ֣בַת גֹּ֔מֶא וַתַּחְמְרָ֥ה בַחֵמָ֖ר וּבַזָּ֑פֶת וַתָּ֤שֶׂם בָּהּ֙ אֶת־ הַיֶּ֔לֶד וַתָּ֥שֶׂם בַּסּ֖וּף עַל־ שְׂפַ֥ת הַיְאֹֽר׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BITUMEN|BITUMEN]]"
+- "[[topic BULRUSH|BULRUSH]]"
+- "[[topic FLAG|FLAG]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PAPYRUS|PAPYRUS]]"
+- "[[topic PITCH|PITCH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SLIME|SLIME]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H5750]]"
+- "[[H6845]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H8392]]"
+- "[[H1573]]"
+- "[[H2560B]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H2564]]"
+- "[[H2203]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H5488H]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H2975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:3**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid [it] in the flags by the river’s brink.
 <small><sub>**BSB:**</sub></small>
 But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יָכְלָ֣ה]] [[H5750\|עוֹד֮]] [[H6845\|הַצְּפִינ]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H3947G\|תִּֽקַּֽח]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H8392\|תֵּ֣בַת]] [[H1573\|גֹּ֔מֶא]] [[H9001\|וַ]][[H2560B\|תַּחְמְרָ֥]][[H9034\|ה]] [[H9003\|בַ]][[H2564\|חֵמָ֖ר]] [[H9002\|וּ]][[H9003\|בַ]][[H2203\|זָּ֑פֶת]] [[H9001\|וַ]][[H7760H\|תָּ֤שֶׂם]] [[H9003\|בָּ]][[H9034\|הּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֔לֶד]] [[H9001\|וַ]][[H7760H\|תָּ֥שֶׂם]] [[H9003\|בַּ]][[H5488H\|סּ֖וּף]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַ֥ת]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BITUMEN|BITUMEN]] • [[topic BULRUSH|BULRUSH]] • [[topic FLAG|FLAG]] • [[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic MOSES|MOSES]] • [[topic PAPYRUS|PAPYRUS]] • [[topic PITCH|PITCH]] • [[topic SERVANT|SERVANT]] • [[topic SLIME|SLIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.2|<< Exodus 2:2]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.4|Exodus 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

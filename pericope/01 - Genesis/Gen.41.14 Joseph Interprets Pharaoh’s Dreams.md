@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Interprets Pharaoh’s Dreams
+type: Pericope
 pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 41
 book/chapter: "[[Gen.41|Genesis 41]]"
-genre:
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 23
 verses:
 - "[[Gen.41.14]]"
 - "[[Gen.41.15]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Gen.41.36]]"
 ---
 
-[[Gen.41|Genesis 41:14 - Genesis 41:36]]
+<small>[[Gen.41|Genesis 41:14-36]]</small>
 *Joseph Interprets Pharaoh’s Dreams*
 
 [[Gen.41.14|14]] Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved \[himself\], and changed his raiment, and came in unto Pharaoh.

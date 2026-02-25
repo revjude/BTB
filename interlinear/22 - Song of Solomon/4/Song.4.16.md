@@ -1,8 +1,57 @@
+---
+title: Song of Solomon 4:16
+type: Verse
+kjv: "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits."
+bsb: "Awake, O north wind, and come, O south wind. Breathe on my garden and spread the fragrance of its spices. Let my beloved come into his garden and taste its choicest fruits."
+hebrew: "ע֤וּרִי צָפוֹן֙ וּב֣וֹאִי תֵימָ֔ן הָפִ֥יחִי גַנִּ֖י יִזְּל֣וּ בְשָׂמָ֑יו יָבֹ֤א דוֹדִי֙ לְגַנּ֔וֹ וְיֹאכַ֖ל פְּרִ֥י מְגָדָֽיו׃"
+pericope: "[[Song.4.16 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H5782]]"
+- "[[H6828G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H8486]]"
+- "[[H6315]]"
+- "[[H1588M]]"
+- "[[H9020]]"
+- "[[H5140]]"
+- "[[H1314]]"
+- "[[H9023]]"
+- "[[H1730G]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H4022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:16**<big><big>[[Song.4.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, O north wind; and come, thou south; blow upon my garden, [that] the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
 <small><sub>**BSB:**</sub></small>
 Awake, O north wind, and come, O south wind. Breathe on my garden and spread the fragrance of its spices. Let my beloved come into his garden and taste its choicest fruits.
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|ע֤וּרִי]] [[H6828G\|צָפוֹן֙]] [[H9002\|וּ]][[H0935G\|ב֣וֹאִי]] [[H8486\|תֵימָ֔ן]] [[H6315\|הָפִ֥יחִי]] [[H1588M\|גַנִּ֖]][[H9020\|י]] [[H5140\|יִזְּל֣וּ]] [[H1314\|בְשָׂמָ֑י]][[H9023\|ו]] [[H0935G\|יָבֹ֤א]] [[H1730G\|דוֹדִ]][[H9020\|י֙]] [[H9005\|לְ]][[H1588M\|גַנּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0398\|יֹאכַ֖ל]] [[H6529\|פְּרִ֥י]] [[H4022\|מְגָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.15|<< Song of Solomon 4:15]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.1|Song of Solomon 5:1 >>]]</td></tr></table>
 

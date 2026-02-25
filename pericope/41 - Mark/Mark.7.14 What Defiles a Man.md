@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: What Defiles a Man
+type: Pericope
 pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Mark
 chapter: 7
 book/chapter: "[[Mark.7|Mark 7]]"
-genre:
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Mark.7.14]]"
 - "[[Mark.7.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mark.7.23]]"
 ---
 
-[[Mark.7|Mark 7:14 - Mark 7:23]]
+<small>[[Mark.7|Mark 7:14-23]]</small>
 *What Defiles a Man*
 
 [[Mark.7.14|14]] And when he had called all the people \[unto him\], he said unto them, Hearken unto me every one \[of you\], and understand:

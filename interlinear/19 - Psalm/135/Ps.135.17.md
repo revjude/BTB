@@ -1,8 +1,59 @@
+---
+title: Psalm 135:17
+type: Verse
+kjv: "They have ears, but they hear not; neither is there any breath in their mouths."
+bsb: "they have ears, but cannot hear; nor is there breath in their mouths."
+hebrew: "אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין־ יֶשׁ־ ר֥וּחַ בְּפִיהֶֽם׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H0241G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0238]]"
+- "[[H0637]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H7307H]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:17**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have ears, but they hear not; neither is there [any] breath in their mouths.
 <small><sub>**BSB:**</sub></small>
 they have ears, but cannot hear; nor is there breath in their mouths.
+<small><sub>**Hebrew:**</sub></small>
+[[H0241G\|אָזְנַ֣יִם]] [[H9005\|לָ֭]][[H9038\|הֶם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0238\|יַאֲזִ֑ינוּ]] [[H0637\|אַ֝֗ף]] [[H0369\|אֵין]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H7307H\|ר֥וּחַ]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.16|<< Psalms 135:16]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.18|Psalms 135:18 >>]]</td></tr></table>
 

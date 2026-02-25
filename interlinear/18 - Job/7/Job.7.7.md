@@ -1,8 +1,54 @@
+---
+title: Job 7:7
+type: Verse
+kjv: "O remember that my life is wind: mine eye shall no more see good."
+bsb: "Remember that my life is but a breath. My eyes will never again see happiness."
+hebrew: "זְ֭כֹר כִּי־ ר֣וּחַ חַיָּ֑י לֹא־ תָשׁ֥וּב עֵ֝ינִ֗י לִרְא֥וֹת טֽוֹב׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H2142]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7725J]]"
+- "[[H5869A]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:7**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O remember that my life [is] wind: mine eye shall no more see good.
 <small><sub>**BSB:**</sub></small>
 Remember that my life is but a breath. My eyes will never again see happiness.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְ֭כֹר]] [[H3588A\|כִּי]][[H9014\|־]] [[H7307H\|ר֣וּחַ]] [[H2416E\|חַיָּ֑]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H7725J\|תָשׁ֥וּב]] [[H5869A\|עֵ֝ינִ֗]][[H9020\|י]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.6|<< Job 7:6]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.8|Job 7:8 >>]]</td></tr></table>
 

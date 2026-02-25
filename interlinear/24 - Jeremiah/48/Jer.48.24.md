@@ -1,8 +1,56 @@
+---
+title: Jeremiah 48:24
+type: Verse
+kjv: "And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near."
+bsb: "upon Kerioth, Bozrah, and all the towns of Moab, those far and near."
+hebrew: "וְעַל־ קְרִיּ֖וֹת וְעַל־ בָּצְרָ֑ה וְעַ֗ל כָּל־ עָרֵי֙ אֶ֣רֶץ מוֹאָ֔ב הָרְחֹק֖וֹת וְהַקְּרֹבֽוֹת׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOZRAH|BOZRAH]]"
+- "[[topic KERIOTH|KERIOTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7152H]]"
+- "[[H1224H]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H0776G]]"
+- "[[H4124G]]"
+- "[[H9009]]"
+- "[[H7350]]"
+- "[[H7138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:24**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.
 <small><sub>**BSB:**</sub></small>
 upon Kerioth, Bozrah, and all the towns of Moab, those far and near.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7152H\|קְרִיּ֖וֹת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1224H\|בָּצְרָ֑ה]] [[H9002\|וְ]][[H5921A\|עַ֗ל]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵי֙]] [[H0776G\|אֶ֣רֶץ]] [[H4124G\|מוֹאָ֔ב]] [[H9009\|הָ]][[H7350\|רְחֹק֖וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H7138\|קְּרֹבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOZRAH|BOZRAH]] • [[topic KERIOTH|KERIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.23|<< Jeremiah 48:23]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.25|Jeremiah 48:25 >>]]</td></tr></table>
 

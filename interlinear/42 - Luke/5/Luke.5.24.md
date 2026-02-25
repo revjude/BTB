@@ -1,10 +1,69 @@
+---
+title: Luke 5:24
+type: Verse
+kjv: "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
+bsb: "But so that you may know that the Son of Man has authority on the earth to forgive sins…” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”"
+jesus_said: "But that ye may know that the Son of man hath power upon earth to forgive sins, I say unto thee, Arise, and take up thy couch, and go into thine house."
+greek: "ἵνα δὲ εἰδῆτε ὅτι ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας, εἶπεν τῷ παραλελυμένῳ· σοὶ λέγω, ἔγειρε καὶ ἄρας τὸ κλινίδιόν σου, πορεύου εἰς τὸν οἶκόν σου."
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2443]]"
+- "[[G1161]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1849]]"
+- "[[G2192]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G0863H]]"
+- "[[G0266]]"
+- "[[G2036]]"
+- "[[G3886]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G2826]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:24**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.
 <small><sub>**BSB:**</sub></small>
 But so that you may know that the Son of Man has authority on the earth to forgive sins…” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”
-<small><sub>**Literal:**</sub></small>
-That however you may know that the Son <the> of Man authority has on the earth to forgive sins.., He said to the [one] paralyzed; To you I say, do arise and having taken up the mat of you, do go to the house of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.23|<< Luke 5:23]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.25|Luke 5:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1161\|δὲ]]  [[G6063\|εἰδῆτε]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχει]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G0863H\|ἀφιέναι]]  [[G0266\|ἁμαρτίας,]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G3886\|παραλελυμένῳ·]]  [[G4771\|σοὶ]]  [[G3004G\|λέγω,]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G0142\|ἄρας]]  [[G3588\|τὸ]]  [[G2826\|κλινίδιόν]]  [[G4771\|σου,]]  [[G4198\|πορεύου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκόν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.23|<< Luke 5:23]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.25|Luke 5:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 26:4
+type: Verse
+kjv: "David therefore sent out spies, and understood that Saul was come in very deed."
+bsb: "David sent out spies to verify that Saul had arrived."
+hebrew: "וַיִּשְׁלַ֥ח דָּוִ֖ד מְרַגְּלִ֑ים וַיֵּ֕דַע כִּֽי־ בָ֥א שָׁא֖וּל אֶל־ נָכֽוֹן׃"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+- "[[topic SPIES|SPIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H7270]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H3559K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:4**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 David therefore sent out spies, and understood that Saul was come in very deed.
 <small><sub>**BSB:**</sub></small>
 David sent out spies to verify that Saul had arrived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H1732\|דָּוִ֖ד]] [[H7270\|מְרַגְּלִ֑ים]] [[H9001\|וַ]][[H3045\|יֵּ֕דַע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|בָ֥א]] [[H7586G\|שָׁא֖וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H3559K\|נָכֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-CONTROL|SELF-CONTROL]] • [[topic SPIES|SPIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.3|<< 1 Samuel 26:3]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.5|1 Samuel 26:5 >>]]</td></tr></table>
 

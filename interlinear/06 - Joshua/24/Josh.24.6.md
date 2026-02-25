@@ -1,8 +1,62 @@
+---
+title: Joshua 24:6
+type: Verse
+kjv: "And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea."
+bsb: "When I brought your fathers out of Egypt and you reached the Red Sea, the Egyptians pursued them with chariots and horsemen as far as the Red Sea."
+hebrew: "וָֽאוֹצִ֤יא אֶת־ אֲבֽוֹתֵיכֶם֙ מִמִּצְרַ֔יִם וַתָּבֹ֖אוּ הַיָּ֑מָּה וַיִּרְדְּפ֨וּ מִצְרַ֜יִם אַחֲרֵ֧י אֲבוֹתֵיכֶ֛ם בְּרֶ֥כֶב וּבְפָרָשִׁ֖ים יַם־ סֽוּף׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H7291]]"
+- "[[H4713]]"
+- "[[H0310A]]"
+- "[[H9003]]"
+- "[[H7393G]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H5488G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:6**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea.
 <small><sub>**BSB:**</sub></small>
 When I brought your fathers out of Egypt and you reached the Red Sea, the Egyptians pursued them with chariots and horsemen as far as the Red Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H3318H\|אוֹצִ֤יא]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9001\|וַ]][[H0935G\|תָּבֹ֖אוּ]] [[H9009\|הַ]][[H3220G\|יָּ֑מָּ]][[H9011\|ה]] [[H9001\|וַ]][[H7291\|יִּרְדְּפ֨וּ]] [[H4713\|מִצְרַ֜יִם]] [[H0310A\|אַחֲרֵ֧י]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֛ם]] [[H9003\|בְּ]][[H7393G\|רֶ֥כֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H6571B\|פָרָשִׁ֖ים]] [[H3220G\|יַם]][[H9014\|־]] [[H5488G\|סֽוּף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RED SEA|RED SEA]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.5|<< Joshua 24:5]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.7|Joshua 24:7 >>]]</td></tr></table>
 

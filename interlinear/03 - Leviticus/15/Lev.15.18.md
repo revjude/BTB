@@ -1,8 +1,65 @@
+---
+title: Leviticus 15:18
+type: Verse
+kjv: "The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even."
+bsb: "If a man lies with a woman and there is an emission of semen, both must bathe with water, and they will remain unclean until evening."
+hebrew: "וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת־ זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ עַד־ הָעָֽרֶב׃"
+pericope: "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H7901I]]"
+- "[[H0376G]]"
+- "[[H0854]]"
+- "[[H9034]]"
+- "[[H7902]]"
+- "[[H9014]]"
+- "[[H2233I]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:18**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The woman also with whom man shall lie [with] seed of copulation, they shall [both] bathe [themselves] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 If a man lies with a woman and there is an emission of semen, both must bathe with water, and they will remain unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0802G\|אִשָּׁ֕ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7901I\|יִשְׁכַּ֥ב]] [[H0376G\|אִ֛ישׁ]] [[H0854\|אֹתָ֖]][[H9034\|הּ]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זָ֑רַע]] [[H9001\|וְ]][[H7364\|רָחֲצ֣וּ]] [[H9003\|בַ]][[H4325G\|מַּ֔יִם]] [[H9001\|וְ]][[H2930A\|טָמְא֖וּ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.17|<< Leviticus 15:17]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.19|Leviticus 15:19 >>]]</td></tr></table>
 

@@ -1,8 +1,48 @@
+---
+title: Job 29:22
+type: Verse
+kjv: "After my words they spake not again; and my speech dropped upon them."
+bsb: "After my words, they spoke no more; my speech settled on them like dew."
+hebrew: "אַחֲרֵ֣י דְ֭בָרִי לֹ֣א יִשְׁנ֑וּ וְ֝עָלֵ֗ימוֹ תִּטֹּ֥ף מִלָּתִֽי׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0310A]]"
+- "[[H1697H]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H8138B]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5197]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:22**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After my words they spake not again; and my speech dropped upon them.
 <small><sub>**BSB:**</sub></small>
 After my words, they spoke no more; my speech settled on them like dew.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרֵ֣י]] [[H1697H\|דְ֭בָרִ]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H8138B\|יִשְׁנ֑וּ]] [[H9002\|וְ֝]][[H5921A\|עָלֵ֗י]][[H9038\|מוֹ]] [[H5197\|תִּטֹּ֥ף]] [[H4405\|מִלָּתִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.21|<< Job 29:21]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.23|Job 29:23 >>]]</td></tr></table>
 

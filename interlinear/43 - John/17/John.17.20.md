@@ -1,10 +1,61 @@
+---
+title: John 17:20
+type: Verse
+kjv: "Neither pray I for these alone, but for them also which shall believe on me through their word;"
+bsb: "I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message,"
+jesus_said: "Neither pray I for these alone, but for them also which shall believe on me through their word;"
+greek: "οὐ περὶ τούτων δὲ ἐρωτῶ μόνον ἀλλὰ καὶ περὶ τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ·"
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3756]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G2065]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1473]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 17:20**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither pray I for these alone, but for them also which shall believe on me through their word;
 <small><sub>**BSB:**</sub></small>
 I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message,
-<small><sub>**Literal:**</sub></small>
-Not for these however do I ask only but also for those are believing through the word of them in Me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.19|<< John 17:19]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.21|John 17:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G4012\|περὶ]]  [[G3778\|τούτων]]  [[G1161\|δὲ]]  [[G2065\|ἐρωτῶ]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G4100\|πιστευόντων]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.19|<< John 17:19]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.21|John 17:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

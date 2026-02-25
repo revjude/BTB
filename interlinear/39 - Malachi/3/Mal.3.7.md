@@ -1,8 +1,67 @@
+---
+title: Malachi 3:7
+type: Verse
+kjv: "Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?"
+bsb: "Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you,” says the LORD of Hosts. “But you ask, ‘How can we return?’"
+hebrew: "לְמִימֵ֨י אֲבֹתֵיכֶ֜ם סַרְתֶּ֤ם מֵֽחֻקַּי֙ וְלֹ֣א שְׁמַרְתֶּ֔ם שׁ֤וּבוּ אֵלַי֙ וְאָשׁ֣וּבָה אֲלֵיכֶ֔ם אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וַאֲמַרְתֶּ֖ם בַּמֶּ֥ה נָשֽׁוּב׃"
+pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5493I]]"
+- "[[H2706G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9036]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:7**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even from the days of your fathers ye are gone away from mine ordinances, and have not kept [them]. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
 <small><sub>**BSB:**</sub></small>
 Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you,” says the LORD of Hosts. “But you ask, ‘How can we return?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9006\|מִ]][[H3117G\|ימֵ֨י]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֜ם]] [[H5493I\|סַרְתֶּ֤ם]] [[H9006\|מֵֽ]][[H2706G\|חֻקַּ]][[H9020\|י֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8104G\|שְׁמַרְתֶּ֔ם]] [[H7725G\|שׁ֤וּבוּ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9002\|וְ]][[H7725G\|אָשׁ֣וּבָה]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H9003\|בַּ]][[H4100\|מֶּ֥ה]] [[H7725G\|נָשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic MALACHI|MALACHI]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.6|<< Malachi 3:6]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.8|Malachi 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

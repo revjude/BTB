@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 17:55
+type: Verse
+kjv: "And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son is this youth? And Abner said, As thy soul liveth, O king, I cannot tell."
+bsb: "As Saul had watched David going out to confront the Philistine, he said to Abner the commander of the army, “Abner, whose son is this young man?” “As surely as you live, O king,” Abner replied, “I do not know.”"
+hebrew: "וְכִרְא֨וֹת שָׁא֜וּל אֶת־ דָּוִ֗ד יֹצֵא֙ לִקְרַ֣את הַפְּלִשְׁתִּ֔י אָמַ֗ר אֶל־ אַבְנֵר֙ שַׂ֣ר הַצָּבָ֔א בֶּן־ מִי־ זֶ֥ה הַנַּ֖עַר אַבְנֵ֑ר וַיֹּ֣אמֶר אַבְנֵ֔ר חֵֽי־ נַפְשְׁךָ֥ הַמֶּ֖לֶךְ אִם־ יָדָֽעְתִּי׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H0074]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H1121A]]"
+- "[[H4310]]"
+- "[[H2088]]"
+- "[[H5288]]"
+- "[[H9001]]"
+- "[[H2416A]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H4428G]]"
+- "[[H0518H]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:55**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son [is] this youth? And Abner said, [As] thy soul liveth, O king, I cannot tell.
 <small><sub>**BSB:**</sub></small>
 As Saul had watched David going out to confront the Philistine, he said to Abner the commander of the army, “Abner, whose son is this young man?” “As surely as you live, O king,” Abner replied, “I do not know.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9004\|כִ]][[H7200G\|רְא֨וֹת]] [[H7586G\|שָׁא֜וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H3318G\|יֹצֵא֙]] [[H9005\|לִ]][[H7122H\|קְרַ֣את]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֔י]] [[H0559\|אָמַ֗ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0074\|אַבְנֵר֙]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H6635A\|צָּבָ֔א]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4310\|מִי]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H0074\|אַבְנֵ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0074\|אַבְנֵ֔ר]] [[H2416A\|חֵֽי]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9021\|ךָ֥]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0518H\|אִם]][[H9014\|־]] [[H3045\|יָדָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.54|<< 1 Samuel 17:54]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.56|1 Samuel 17:56 >>]]</td></tr></table>
 

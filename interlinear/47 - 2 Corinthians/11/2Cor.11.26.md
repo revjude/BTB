@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 11:26
+type: Verse
+kjv: "In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;"
+bsb: "In my frequent journeys, I have been in danger from rivers and from bandits, in danger from my countrymen and from the Gentiles, in danger in the city and in the country, in danger on the sea and among false brothers,"
+greek: "ὁδοιπορίαις πολλάκις, κινδύνοις ποταμῶν, κινδύνοις λῃστῶν, κινδύνοις ἐκ γένους, κινδύνοις ἐξ ἐθνῶν, κινδύνοις ἐν πόλει, κινδύνοις ἐν ἐρημίᾳ, κινδύνοις ἐν θαλάσσῃ, κινδύνοις ἐν ψευδαδέλφοις,"
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3597]]"
+- "[[G4178]]"
+- "[[G2794]]"
+- "[[G4215]]"
+- "[[G3027]]"
+- "[[G1537]]"
+- "[[G1085G]]"
+- "[[G1484]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G2047]]"
+- "[[G2281]]"
+- "[[G5569]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:26**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [In] journeyings often, [in] perils of waters, [in] perils of robbers, [in] perils by [mine own] countrymen, [in] perils by the heathen, [in] perils in the city, [in] perils in the wilderness, [in] perils in the sea, [in] perils among false brethren;
 <small><sub>**BSB:**</sub></small>
 In my frequent journeys, I have been in danger from rivers and from bandits, in danger from my countrymen and from the Gentiles, in danger in the city and in the country, in danger on the sea and among false brothers,
-<small><sub>**Literal:**</sub></small>
-in journeyings often, in perils of rivers, in perils of robbers, in perils from [my own] race, in perils from [the] Gentiles, in perils in [the] city, in perils in [the] wilderness, in perils on [the] sea, in perils among false brothers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.25|<< 2 Corinthians 11:25]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.27|2 Corinthians 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3597\|ὁδοιπορίαις]]  [[G4178\|πολλάκις,]]  [[G2794\|κινδύνοις]]  [[G4215\|ποταμῶν,]]  [[G2794\|κινδύνοις]]  [[G3027\|λῃστῶν,]]  [[G2794\|κινδύνοις]]  [[G1537\|ἐκ]]  [[G1085G\|γένους,]]  [[G2794\|κινδύνοις]]  [[G1537\|ἐξ]]  [[G1484\|ἐθνῶν,]]  [[G2794\|κινδύνοις]]  [[G1722\|ἐν]]  [[G4172\|πόλει,]]  [[G2794\|κινδύνοις]]  [[G1722\|ἐν]]  [[G2047\|ἐρημίᾳ,]]  [[G2794\|κινδύνοις]]  [[G1722\|ἐν]]  [[G2281\|θαλάσσῃ,]]  [[G2794\|κινδύνοις]]  [[G1722\|ἐν]]  [[G5569\|ψευδαδέλφοις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.25|<< 2 Corinthians 11:25]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.27|2 Corinthians 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

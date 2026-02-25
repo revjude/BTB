@@ -1,8 +1,58 @@
+---
+title: Psalm 103:20
+type: Verse
+kjv: "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
+bsb: "Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command."
+hebrew: "בָּרֲכ֥וּ יְהוָ֗ה מַלְאָ֫כָ֥יו גִּבֹּ֣רֵי כֹ֭חַ עֹשֵׂ֣י דְבָר֑וֹ לִ֝שְׁמֹ֗עַ בְּק֣וֹל דְּבָרֽוֹ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H4397H]]"
+- "[[H9023]]"
+- "[[H1368]]"
+- "[[H3581B]]"
+- "[[H6213A]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:20**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
 <small><sub>**BSB:**</sub></small>
 Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּרֲכ֥וּ]] [[H3068G\|יְהוָ֗ה]] [[H4397H\|מַלְאָ֫כָ֥י]][[H9023\|ו]] [[H1368\|גִּבֹּ֣רֵי]] [[H3581B\|כֹ֭חַ]] [[H6213A\|עֹשֵׂ֣י]] [[H1697G\|דְבָר֑]][[H9023\|וֹ]] [[H9005\|לִ֝]][[H8085H\|שְׁמֹ֗עַ]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H1697G\|דְּבָרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.19|<< Psalms 103:19]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.21|Psalms 103:21 >>]]</td></tr></table>
 

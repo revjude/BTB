@@ -1,8 +1,58 @@
+---
+title: Psalm 58:2
+type: Verse
+kjv: "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth."
+bsb: "No, in your hearts you devise injustice; with your hands you mete out violence on the earth."
+hebrew: "אַף־ בְּלֵב֮ עוֹלֹ֪ת תִּפְעָ֫ל֥וּן בָּאָ֡רֶץ חֲמַ֥ס יְ֝דֵיכֶ֗ם תְּפַלֵּֽסֽוּן׃"
+pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H5766B]]"
+- "[[H6466]]"
+- "[[H9013]]"
+- "[[H0776G]]"
+- "[[H2555]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H6424]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 58:2**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.
 <small><sub>**BSB:**</sub></small>
 No, in your hearts you devise injustice; with your hands you mete out violence on the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H9003\|בְּ]][[H3820A\|לֵב֮]] [[H5766B\|עוֹלֹ֪ת]] [[H6466\|תִּפְעָ֫ל֥וּ]][[H9013\|ן]] [[H9003\|בָּ]][[H0776G\|אָ֡רֶץ]] [[H2555\|חֲמַ֥ס]] [[H3027G\|יְ֝דֵי]][[H9026\|כֶ֗ם]] [[H6424\|תְּפַלֵּֽסֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.1|<< Psalms 58:1]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.3|Psalms 58:3 >>]]</td></tr></table>
 

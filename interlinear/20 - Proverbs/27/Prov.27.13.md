@@ -1,8 +1,53 @@
+---
+title: Proverbs 27:13
+type: Verse
+kjv: "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+bsb: "Take the garment of him who posts security for a stranger; get collateral if it is for a foreigner."
+hebrew: "קַח־ בִּ֭גְדוֹ כִּי־ עָ֣רַב זָ֑ר וּבְעַ֖ד נָכְרִיָּ֣ה חַבְלֵֽהוּ׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+strongs:
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H6148]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H1157]]"
+- "[[H5237]]"
+- "[[H2254A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:13**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.
 <small><sub>**BSB:**</sub></small>
 Take the garment of him who posts security for a stranger; get collateral if it is for a foreigner.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קַח]][[H9014\|־]] [[H0899B\|בִּ֭גְד]][[H9023\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H6148\|עָ֣רַב]] [[H2114A\|זָ֑ר]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H5237\|נָכְרִיָּ֣ה]] [[H2254A\|חַבְלֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.12|<< Proverbs 27:12]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.14|Proverbs 27:14 >>]]</td></tr></table>
 

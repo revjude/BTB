@@ -27,7 +27,7 @@
 
 → A thousand, with the Lord is like one day [[Ps.90.4|Ps 90:4]];  [[2Pet.3.8|2Pe 3:8]]
 
-→ Satan to be bound for a thousand [[Rev.20.2|Re 20:2]]-[[Rev.20.4|4]],[[Rev.20.7|7]]
+→ Satan to be bound for a thousand [[Rev.20.2|Re 20:2-4]],[[Rev.20.7|7]]
 
 → See [[topic JUBILEE|JUBILEE, YEAR OF]]
 

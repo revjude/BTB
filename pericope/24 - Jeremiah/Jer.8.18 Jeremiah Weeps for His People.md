@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Weeps for His People
+type: Pericope
 pericope: "[[Jer.8.18 Jeremiah Weeps for His People|Jeremiah Weeps for His People]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 8
 book/chapter: "[[Jer.8|Jeremiah 8]]"
-genre:
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.8.18]]"
 - "[[Jer.8.19]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.8.22]]"
 ---
 
-[[Jer.8|Jeremiah 8:18 - Jeremiah 8:22]]
+<small>[[Jer.8|Jeremiah 8:18-22]]</small>
 *Jeremiah Weeps for His People*
 
 [[Jer.8.18|18]] \[When\] I would comfort myself against sorrow, my heart \[is\] faint in me.

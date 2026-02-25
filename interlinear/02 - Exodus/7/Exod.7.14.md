@@ -1,8 +1,61 @@
+---
+title: Exodus 7:14
+type: Verse
+kjv: "And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the people go."
+bsb: "Then the LORD said to Moses, “Pharaoh’s heart is unyielding; he refuses to let the people go."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה כָּבֵ֖ד לֵ֣ב פַּרְעֹ֑ה מֵאֵ֖ן לְשַׁלַּ֥ח הָעָֽם׃"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3515]]"
+- "[[H3820A]]"
+- "[[H6547J]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:14**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Pharaoh’s heart [is] hardened, he refuseth to let the people go.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Pharaoh’s heart is unyielding; he refuses to let the people go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3515\|כָּבֵ֖ד]] [[H3820A\|לֵ֣ב]] [[H6547J\|פַּרְעֹ֑ה]] [[H3985\|מֵאֵ֖ן]] [[H9005\|לְ]][[H7971H\|שַׁלַּ֥ח]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.13|<< Exodus 7:13]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.15|Exodus 7:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

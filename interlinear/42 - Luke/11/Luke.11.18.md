@@ -1,10 +1,64 @@
+---
+title: Luke 11:18
+type: Verse
+kjv: "If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub."
+bsb: "If Satan is divided against himself, how can his kingdom stand? After all, you say that I drive out demons by Beelzebul."
+jesus_said: "If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub."
+greek: "εἰ δὲ καὶ ὁ σατανᾶς ἐφ᾽ ἑαυτὸν διεμερίσθη, πῶς σταθήσεται ἡ βασιλεία αὐτοῦ; ὅτι λέγετε ἐν Βεελζεβοὺλ ἐκβάλλειν με τὰ δαιμόνια."
+pericope: "[[Luke.11.14 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BEELZEBUB|BEELZEBUB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G1909]]"
+- "[[G1438]]"
+- "[[G1266]]"
+- "[[G4459]]"
+- "[[G2476]]"
+- "[[G0932]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G0954]]"
+- "[[G1544]]"
+- "[[G3165]]"
+- "[[G1140]]"
+texts:
+- NKO
+---
+
 **Luke 11:18**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
 <small><sub>**BSB:**</sub></small>
 If Satan is divided against himself, how can his kingdom stand? After all, you say that I drive out demons by Beelzebul.
-<small><sub>**Literal:**</sub></small>
-If now even <the> Satan against himself is divided, how will stand the kingdom of him? For you say by Beelzebul [am] casting out I the demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.17|<< Luke 11:17]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.19|Luke 11:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G1909\|ἐφ᾽]]  [[G1438\|ἑαυτὸν]]  [[G1266\|διεμερίσθη,]]  [[G4459\|πῶς]]  [[G2476\|σταθήσεται]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G0846\|αὐτοῦ;]]  [[G3754H\|ὅτι]]  [[G3004G\|λέγετε]]  [[G1722\|ἐν]]  [[G0954\|Βεελζεβοὺλ]]  [[G1544\|ἐκβάλλειν]]  [[G3165\|με]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEELZEBUB|BEELZEBUB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.17|<< Luke 11:17]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.19|Luke 11:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,62 @@
+---
+title: Ephesians 2:19
+type: Verse
+kjv: "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;"
+bsb: "Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household,"
+greek: "Ἄρα οὖν οὐκέτι οὐκέτι ἐστὲ ξένοι καὶ πάροικοι, ἀλλ᾽ ἐστὲ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ θεοῦ"
+pericope: "[[Eph.2.19 Christ Our Cornerstone|Christ Our Cornerstone]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FOREIGNER|FOREIGNER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATURALIZATION|NATURALIZATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0686]]"
+- "[[G3767]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G3581]]"
+- "[[G2532]]"
+- "[[G3941]]"
+- "[[G0235]]"
+- "[[G4847]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G3609]]"
+- "[[G2316]]"
+texts:
+- NKO
+- no
+---
+
 **Ephesians 2:19**<big><big>[[Eph.2.19 Christ Our Cornerstone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
 <small><sub>**BSB:**</sub></small>
 Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household,
-<small><sub>**Literal:**</sub></small>
-So then no longer are you strangers and aliens, but are fellow citizens of the saints and of the household <the> of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.18|<< Ephesians 2:18]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.20|Ephesians 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|Ἄρα]]  [[G3767\|οὖν]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1510\|ἐστὲ]]  [[G3581\|ξένοι]]  [[G2532\|καὶ]]  [[G3941\|πάροικοι,]]  [[G0235\|ἀλλ᾽]]  [[G1510\|ἐστὲ]]  [[G4847\|συμπολῖται]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G2532\|καὶ]]  [[G3609\|οἰκεῖοι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHURCH|CHURCH]] • [[topic CITIZENS|CITIZENS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FOREIGNER|FOREIGNER]] • [[topic GOD|GOD]] • [[topic NATURALIZATION|NATURALIZATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.18|<< Ephesians 2:18]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.20|Ephesians 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

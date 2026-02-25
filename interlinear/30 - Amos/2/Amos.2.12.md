@@ -1,8 +1,64 @@
+---
+title: Amos 2:12
+type: Verse
+kjv: "But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not."
+bsb: "“But you made the Nazirites drink wine and commanded the prophets not to prophesy."
+hebrew: "וַתַּשְׁק֥וּ אֶת־ הַנְּזִרִ֖ים יָ֑יִן וְעַל־ הַנְּבִיאִים֙ צִוִּיתֶ֣ם לֵאמֹ֔ר לֹ֖א תִּנָּבְאֽוּ׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H8248H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5139]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H5030]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:12**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.
 <small><sub>**BSB:**</sub></small>
 “But you made the Nazirites drink wine and commanded the prophets not to prophesy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8248H\|תַּשְׁק֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5139\|נְּזִרִ֖ים]] [[H3196\|יָ֑יִן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִים֙]] [[H6680\|צִוִּיתֶ֣ם]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹ֖א]] [[H5012\|תִּנָּבְאֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FRATERNITY|FRATERNITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NAZARITE|NAZARITE]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.11|<< Amos 2:11]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.13|Amos 2:13 >>]]</td></tr></table>
 

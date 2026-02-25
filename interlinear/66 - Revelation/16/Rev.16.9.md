@@ -1,10 +1,69 @@
+---
+title: Revelation 16:9
+type: Verse
+kjv: "And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory."
+bsb: "And the people were scorched by intense heat, and they cursed the name of God, who had authority over these plagues. Yet they did not repent and give Him glory."
+greek: "καὶ ἐκαυματίσθησαν οἱ ἄνθρωποι καῦμα μέγα καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸ ὄνομα τοῦ θεοῦ τοῦ ἔχοντος τὴν ἐξουσίαν ἐπὶ τὰς πληγὰς ταύτας καὶ οὐ μετενόησαν δοῦναι αὐτῷ δόξαν.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2739]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2738]]"
+- "[[G3173]]"
+- "[[G0987]]"
+- "[[G3686]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G1849]]"
+- "[[G1909]]"
+- "[[G4127]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G3340]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1391]]"
+texts:
+- NKO
+- O
+- no
+---
+
 **Revelation 16:9**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
 <small><sub>**BSB:**</sub></small>
 And the people were scorched by intense heat, and they cursed the name of God, who had authority over these plagues. Yet they did not repent and give Him glory.
-<small><sub>**Literal:**</sub></small>
-And were scorched the men with heat great and they denigrated the  people the name <the> of God who is having <the> authority over <the> plagues these and not did they repent to give Him glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.8|<< Revelation 16:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.10|Revelation 16:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2739\|ἐκαυματίσθησαν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G2738\|καῦμα]]  [[G3173\|μέγα]]  [[G2532\|καὶ]]  [[G0987\|ἐβλασφήμησαν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2192\|ἔχοντος]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G4127\|πληγὰς]]  [[G3778\|ταύτας]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3340\|μετενόησαν]]  [[G1325\|δοῦναι]]  [[G0846\|αὐτῷ]]  [[G1391\|δόξαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASTRONOMY|ASTRONOMY]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.8|<< Revelation 16:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.10|Revelation 16:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

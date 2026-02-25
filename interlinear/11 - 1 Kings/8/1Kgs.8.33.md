@@ -1,8 +1,71 @@
+---
+title: 1 Kings 8:33
+type: Verse
+kjv: "When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:"
+bsb: "When Your people Israel are defeated before an enemy because they have sinned against You, and they return to You and confess Your name, praying and pleading with You in this temple,"
+hebrew: "בְּֽהִנָּגֵ֞ף עַמְּךָ֧ יִשְׂרָאֵ֛ל לִפְנֵ֥י אוֹיֵ֖ב אֲשֶׁ֣ר יֶחֶטְאוּ־ לָ֑ךְ וְשָׁ֤בוּ אֵלֶ֙יךָ֙ וְהוֹד֣וּ אֶת־ שְׁמֶ֔ךָ וְהִֽתְפַּֽלְל֧וּ וְהִֽתְחַנְּנ֛וּ אֵלֶ֖יךָ בַּבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H5062]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3034]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H6419]]"
+- "[[H2603A]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:33**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:
 <small><sub>**BSB:**</sub></small>
 When Your people Israel are defeated before an enemy because they have sinned against You, and they return to You and confess Your name, praying and pleading with You in this temple,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ]][[H5062\|הִנָּגֵ֞ף]] [[H5971A\|עַמְּ]][[H9021\|ךָ֧]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0341\|אוֹיֵ֖ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|יֶחֶטְאוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H7725J\|שָׁ֤בוּ]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H9001\|וְ]][[H3034\|הוֹד֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H6419\|הִֽתְפַּֽלְל֧וּ]] [[H9001\|וְ]][[H2603A\|הִֽתְחַנְּנ֛וּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.32|<< 1 Kings 8:32]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.34|1 Kings 8:34 >>]]</td></tr></table>
 

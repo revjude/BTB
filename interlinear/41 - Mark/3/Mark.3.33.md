@@ -1,10 +1,53 @@
+---
+title: Mark 3:33
+type: Verse
+kjv: "And he answered them, saying, Who is my mother, or my brethren?"
+bsb: "But Jesus replied, “Who are My mother and My brothers?”"
+jesus_said: "Who is my mother, or my brethren?"
+greek: "Καὶ ἀποκριθεὶς αὐτοῖς λέγει· τίς ἐστιν ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου;"
+pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G3165]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 3:33**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered them, saying, Who is my mother, or my brethren?
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Who are My mother and My brothers?”
-<small><sub>**Literal:**</sub></small>
-And answering them He says; Who are the mother of Mine and the brothers of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.32|<< Mark 3:32]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.34|Mark 3:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγει·]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.32|<< Mark 3:32]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.34|Mark 3:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 3:33** is...
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]

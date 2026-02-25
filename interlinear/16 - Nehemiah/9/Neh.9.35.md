@@ -1,8 +1,74 @@
+---
+title: Nehemiah 9:35
+type: Verse
+kjv: "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works."
+bsb: "For even while they were in their kingdom, with the abundant goodness that You had given them, and in the spacious and fertile land that You had set before them, they would not serve You or turn from their wicked ways."
+hebrew: "וְהֵ֣ם בְּמַלְכוּתָם֩ וּבְטוּבְךָ֨ הָרָ֜ב אֲשֶׁר־ נָתַ֣תָּ לָהֶ֗ם וּבְאֶ֨רֶץ הָרְחָבָ֧ה וְהַשְּׁמֵנָ֛ה אֲשֶׁר־ נָתַ֥תָּ לִפְנֵיהֶ֖ם לֹ֣א עֲבָד֑וּךָ וְֽלֹא־ שָׁ֔בוּ מִמַּֽעַלְלֵיהֶ֖ם הָרָעִֽים׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9003]]"
+- "[[H4438]]"
+- "[[H9028]]"
+- "[[H2898]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H7227A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H7342H]]"
+- "[[H8082]]"
+- "[[H5414H]]"
+- "[[H6440G]]"
+- "[[H3808]]"
+- "[[H5647H]]"
+- "[[H9031]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H4611]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:35**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.
 <small><sub>**BSB:**</sub></small>
 For even while they were in their kingdom, with the abundant goodness that You had given them, and in the spacious and fertile land that You had set before them, they would not serve You or turn from their wicked ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֣ם]] [[H9003\|בְּ]][[H4438\|מַלְכוּתָ]][[H9028\|ם֩]] [[H9002\|וּ]][[H9003\|בְ]][[H2898\|טוּבְ]][[H9021\|ךָ֨]] [[H9009\|הָ]][[H7227A\|רָ֜ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֣תָּ]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H9002\|וּ]][[H9003\|בְ]][[H0776G\|אֶ֨רֶץ]] [[H9009\|הָ]][[H7342H\|רְחָבָ֧ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8082\|שְּׁמֵנָ֛ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥תָּ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֖ם]] [[H3808\|לֹ֣א]] [[H5647H\|עֲבָד֑וּ]][[H9031\|ךָ]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H7725O\|שָׁ֔בוּ]] [[H9006\|מִ]][[H4611\|מַּֽעַלְלֵי]][[H9028\|הֶ֖ם]] [[H9009\|הָ]][[H7451H\|רָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.34|<< Nehemiah 9:34]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.36|Nehemiah 9:36 >>]]</td></tr></table>
 

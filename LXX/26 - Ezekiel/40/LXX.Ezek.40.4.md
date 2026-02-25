@@ -1,6 +1,86 @@
+---
+title: LXX Ezekiel 40:4
+type: Verse
+lxx: "And the man said to me, You see, O son of man! With  your eyes behold, and with  your ears hear, and arrange in  your heart all as much as I show to you! For on account of  showing to you you entered here. And I will show all things, as much as you see in the house  of Israel."
+greek: "και είπε προς με ο ανήρ εώρακας υιέ ανθρώπου εν τοις οφθαλμοίς σου ίδε και εν τοις ωσί σου άκουε και τάξον εις την καρδίαν σου πάντα όσα εγώ δεικνύω σοι διότι ένεκα του δείξαί σοι εισελήλυθας ώδε και δείξεις πάντα όσα συ οράς τω οίκω του Ισραήλ"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3708]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G1492]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G1473]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G5021]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G1473]]"
+- "[[G1166]]"
+- "[[G1473]]"
+- "[[G1360]]"
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G1166]]"
+- "[[G1473]]"
+- "[[G1525]]"
+- "[[G5602]]"
+- "[[G2532]]"
+- "[[G1166]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G1473]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G2474]]"
+---
+
 **LXX Ezekiel 40:4** 
 <small><sub>**LXX:**</sub></small>
 And the man said to me, You see, O son of man! With  your eyes behold, and with  your ears hear, and arrange in  your heart all as much as I show to you! For on account of  showing to you you entered here. And I will show all \[things\], as much as you see in the house  of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|με]] [[G3588\|ο]] [[G0435\|ανήρ]] [[G3708\|εώρακας]] [[G5207\|υιέ]] [[G0444\|ανθρώπου]] [[G1722\|εν]] [[G3588\|τοις]] [[G3788\|οφθαλμοίς]] [[G1473\|σου]] [[G1492\|ίδε]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τοις]] [[G3775\|ωσί]] [[G1473\|σου]] [[G0191\|άκουε]] [[G2532\|και]] [[G5021\|τάξον]] [[G1519\|εις]] [[G3588\|την]] [[G2588\|καρδίαν]] [[G1473\|σου]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G1473\|εγώ]] [[G1166\|δεικνύω]] [[G1473\|σοι]] [[G1360\|διότι]] [[G1752\|ένεκα]] [[G3588\|του]] [[G1166\|δείξαί]] [[G1473\|σοι]] [[G1525\|εισελήλυθας]] [[G5602\|ώδε]] [[G2532\|και]] [[G1166\|δείξεις]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G1473\|συ]] [[G3708\|οράς]] [[G3588\|τω]] [[G3624\|οίκω]] [[G3588\|του]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
@@ -51,6 +131,6 @@ And the man said to me, You see, O son of man! With  your eyes behold, and with 
 | house | **<big>[[G3624\|οίκω]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Ezek.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
 

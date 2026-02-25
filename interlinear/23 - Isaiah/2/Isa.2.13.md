@@ -1,8 +1,59 @@
+---
+title: Isaiah 2:13
+type: Verse
+kjv: "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,"
+bsb: "against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,"
+hebrew: "וְעַל֙ כָּל־ אַרְזֵ֣י הַלְּבָנ֔וֹן הָרָמִ֖ים וְהַנִּשָּׂאִ֑ים וְעַ֖ל כָּל־ אַלּוֹנֵ֥י הַבָּשָֽׁן׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0730]]"
+- "[[H9009]]"
+- "[[H3844G]]"
+- "[[H7311A]]"
+- "[[H5375G]]"
+- "[[H0437]]"
+- "[[H1316]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:13**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon all the cedars of Lebanon, [that are] high and lifted up, and upon all the oaks of Bashan,
 <small><sub>**BSB:**</sub></small>
 against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0730\|אַרְזֵ֣י]] [[H9009\|הַ]][[H3844G\|לְּבָנ֔וֹן]] [[H9009\|הָ]][[H7311A\|רָמִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5375G\|נִּשָּׂאִ֑ים]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0437\|אַלּוֹנֵ֥י]] [[H9009\|הַ]][[H1316\|בָּשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic CEDAR|CEDAR]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEBANON|LEBANON]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.12|<< Isaiah 2:12]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.14|Isaiah 2:14 >>]]</td></tr></table>
 

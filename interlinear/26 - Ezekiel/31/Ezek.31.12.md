@@ -1,8 +1,71 @@
+---
+title: Ezekiel 31:12
+type: Verse
+kjv: "And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him."
+bsb: "Foreigners, the most ruthless of the nations, cut it down and left it. Its branches have fallen on the mountains and in every valley; its boughs lay broken in all the earth’s ravines. And all the peoples of the earth left its shade and abandoned it."
+hebrew: "וַיִּכְרְתֻ֧הוּ זָרִ֛ים עָרִיצֵ֥י גוֹיִ֖ם וַֽיִּטְּשֻׁ֑הוּ אֶל־ הֶ֠הָרִים וּבְכָל־ גֵּ֨אָי֜וֹת נָפְל֣וּ דָלִיּוֹתָ֗יו וַתִּשָּׁבַ֤רְנָה פֹֽארֹתָיו֙ בְּכֹל֙ אֲפִיקֵ֣י הָאָ֔רֶץ וַיֵּרְד֧וּ מִצִּלּ֛וֹ כָּל־ עַמֵּ֥י הָאָ֖רֶץ וַֽיִּטְּשֻֽׁהוּ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772G]]"
+- "[[H9033]]"
+- "[[H2114A]]"
+- "[[H6184]]"
+- "[[H1471A]]"
+- "[[H5203]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1516R]]"
+- "[[H5307M]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H7665]]"
+- "[[H6288A]]"
+- "[[H0650]]"
+- "[[H0776G]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H6738]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:12**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
 <small><sub>**BSB:**</sub></small>
 Foreigners, the most ruthless of the nations, cut it down and left it. Its branches have fallen on the mountains and in every valley; its boughs lay broken in all the earth’s ravines. And all the peoples of the earth left its shade and abandoned it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3772G\|יִּכְרְתֻ֧]][[H9033\|הוּ]] [[H2114A\|זָרִ֛ים]] [[H6184\|עָרִיצֵ֥י]] [[H1471A\|גוֹיִ֖ם]] [[H9001\|וַֽ]][[H5203\|יִּטְּשֻׁ֑]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ֠]][[H2022G\|הָרִים]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1516R\|גֵּ֨אָי֜וֹת]] [[H5307M\|נָפְל֣וּ]] [[H1808\|דָלִיּוֹתָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7665\|תִּשָּׁבַ֤רְנָה]] [[H6288A\|פֹֽארֹתָי]][[H9023\|ו֙]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H0650\|אֲפִיקֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H3381\|יֵּרְד֧וּ]] [[H9006\|מִ]][[H6738\|צִּלּ֛]][[H9023\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמֵּ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9001\|וַֽ]][[H5203\|יִּטְּשֻֽׁ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.11|<< Ezekiel 31:11]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.13|Ezekiel 31:13 >>]]</td></tr></table>
 

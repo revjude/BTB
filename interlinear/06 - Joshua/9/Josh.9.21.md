@@ -1,8 +1,67 @@
+---
+title: Joshua 9:21
+type: Verse
+kjv: "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them."
+bsb: "They continued, “Let them live, but let them be woodcutters and water carriers for the whole congregation.” So the leaders kept their promise."
+hebrew: "וַיֹּאמְר֧וּ אֲלֵיהֶ֛ם הַנְּשִׂיאִ֖ים יִֽחְי֑וּ וַ֠יִּֽהְיוּ חֹטְבֵ֨י עֵצִ֤ים וְשֹֽׁאֲבֵי־ מַ֙יִם֙ לְכָל־ הָ֣עֵדָ֔ה כַּאֲשֶׁ֛ר דִּבְּר֥וּ לָהֶ֖ם הַנְּשִׂיאִֽים׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H2421]]"
+- "[[H1961]]"
+- "[[H2404]]"
+- "[[H6086G]]"
+- "[[H9002]]"
+- "[[H7579]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:21**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them.
 <small><sub>**BSB:**</sub></small>
 They continued, “Let them live, but let them be woodcutters and water carriers for the whole congregation.” So the leaders kept their promise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֧וּ]] [[H0413\|אֲלֵי]][[H9038\|הֶ֛ם]] [[H9009\|הַ]][[H5387A\|נְּשִׂיאִ֖ים]] [[H2421\|יִֽחְי֑וּ]] [[H9001\|וַ֠]][[H1961\|יִּֽהְיוּ]] [[H2404\|חֹטְבֵ֨י]] [[H6086G\|עֵצִ֤ים]] [[H9002\|וְ]][[H7579\|שֹֽׁאֲבֵי]][[H9014\|־]] [[H4325G\|מַ֙יִם֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H5712\|עֵדָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1696G\|דִּבְּר֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H5387A\|נְּשִׂיאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.20|<< Joshua 9:20]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.22|Joshua 9:22 >>]]</td></tr></table>
 

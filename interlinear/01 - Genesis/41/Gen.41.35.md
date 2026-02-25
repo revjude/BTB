@@ -1,8 +1,72 @@
+---
+title: Genesis 41:35
+type: Verse
+kjv: "And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities."
+bsb: "Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities."
+hebrew: "וְיִקְבְּצ֗וּ אֶת־ כָּל־ אֹ֙כֶל֙ הַשָּׁנִ֣ים הַטֹּבֹ֔ת הַבָּאֹ֖ת הָאֵ֑לֶּה וְיִצְבְּרוּ־ בָ֞ר תַּ֧חַת יַד־ פַּרְעֹ֛ה אֹ֥כֶל בֶּעָרִ֖ים וְשָׁמָֽרוּ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0400]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H2896A]]"
+- "[[H0935G]]"
+- "[[H0428]]"
+- "[[H6651]]"
+- "[[H1250A]]"
+- "[[H8478I]]"
+- "[[H3027H]]"
+- "[[H6547H]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:35**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
 <small><sub>**BSB:**</sub></small>
 Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6908\|יִקְבְּצ֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0400\|אֹ֙כֶל֙]] [[H9009\|הַ]][[H8141\|שָּׁנִ֣ים]] [[H9009\|הַ]][[H2896A\|טֹּבֹ֔ת]] [[H9009\|הַ]][[H0935G\|בָּאֹ֖ת]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H6651\|יִצְבְּרוּ]][[H9014\|־]] [[H1250A\|בָ֞ר]] [[H8478I\|תַּ֧חַת]] [[H3027H\|יַד]][[H9014\|־]] [[H6547H\|פַּרְעֹ֛ה]] [[H0400\|אֹ֥כֶל]] [[H9003\|בֶּ]][[H5892B\|עָרִ֖ים]] [[H9001\|וְ]][[H8104H\|שָׁמָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SERVANT|SERVANT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.34|<< Genesis 41:34]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.36|Genesis 41:36 >>]]</td></tr></table>
 

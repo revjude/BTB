@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 36:21
+type: Verse
+kjv: "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
+bsb: "So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah."
+hebrew: "לְמַלֹּ֤אות דְּבַר־ יְהוָה֙ בְּפִ֣י יִרְמְיָ֔הוּ עַד־ רָצְתָ֥ה הָאָ֖רֶץ אֶת־ שַׁבְּתוֹתֶ֑יהָ כָּל־ יְמֵ֤י הָשַּׁמָּה֙ שָׁבָ֔תָה לְמַלֹּ֖אות שִׁבְעִ֥ים שָׁנָֽה׃ פ"
+pericope: "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H4390]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H3414L]]"
+- "[[H5704]]"
+- "[[H7521]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H7676]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H8074G]]"
+- "[[H7673A]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:21**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: [for] as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 <small><sub>**BSB:**</sub></small>
 So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4390\|מַלֹּ֤אות]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H6310G\|פִ֣י]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H5704\|עַד]][[H9014\|־]] [[H7521\|רָצְתָ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתֶ֑י]][[H9024\|הָ]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֤י]] [[H9009\|הָ]][[H8074G\|שַּׁמָּ]][[H9024\|ה֙]] [[H7673A\|שָׁבָ֔תָה]] [[H9005\|לְ]][[H4390\|מַלֹּ֖אות]] [[H7657\|שִׁבְעִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic PROPHECY|PROPHECY]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
@@ -24,7 +87,7 @@ So the land enjoyed its Sabbath rest all the days of the desolation, until seven
 | it rested  |**<big>&#8207;[[H7673A\|שָׁבָ֔תָה]]&#8207; </big>**| sha.Va.tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to complete  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4390\|מַלֹּ֖אות]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seventy  |**<big>&#8207;[[H7657\|שִׁבְעִ֥ים]]&#8207; </big>**| shiv.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
 

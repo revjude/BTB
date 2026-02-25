@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to Oppressors
+type: Pericope
 pericope: "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 2
 book/chapter: "[[Mic.2|Micah 2]]"
-genre:
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 5
 verses:
 - "[[Mic.2.1]]"
 - "[[Mic.2.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mic.2.5]]"
 ---
 
-[[Mic.2|Micah 2:1 - Micah 2:5]]
+<small>[[Mic.2|Micah 2:1-5]]</small>
 *Woe to Oppressors*
 
 [[Mic.2.1|1]] Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.

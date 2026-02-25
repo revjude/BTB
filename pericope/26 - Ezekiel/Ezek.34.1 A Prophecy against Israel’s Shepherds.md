@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Israel’s Shepherds
+type: Pericope
 pericope: "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 34
 book/chapter: "[[Ezek.34|Ezekiel 34]]"
-genre:
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.34.1]]"
 - "[[Ezek.34.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.34.10]]"
 ---
 
-[[Ezek.34|Ezekiel 34:1 - Ezekiel 34:10]]
+<small>[[Ezek.34|Ezekiel 34:1-10]]</small>
 *A Prophecy against Israel’s Shepherds*
 
 [[Ezek.34.1|1]] And the word of the LORD came unto me, saying,

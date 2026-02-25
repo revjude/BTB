@@ -1,8 +1,63 @@
+---
+title: Amos 9:14
+type: Verse
+kjv: "And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit them; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them."
+bsb: "I will restore My people Israel from captivity; they will rebuild and inhabit the ruined cities. They will plant vineyards and drink their wine; they will make gardens and eat their fruit."
+hebrew: "וְשַׁבְתִּי֮ אֶת־ שְׁב֣וּת עַמִּ֣י יִשְׂרָאֵל֒ וּבָנ֞וּ עָרִ֤ים נְשַׁמּוֹת֙ וְיָשָׁ֔בוּ וְנָטְע֣וּ כְרָמִ֔ים וְשָׁת֖וּ אֶת־ יֵינָ֑ם וְעָשׂ֣וּ גַנּ֔וֹת וְאָכְל֖וּ אֶת־ פְּרִיהֶֽם׃"
+pericope: "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H8074G]]"
+- "[[H3427]]"
+- "[[H5193]]"
+- "[[H3754]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H9028]]"
+- "[[H6213H]]"
+- "[[H1593]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:14**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit [them]; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.
 <small><sub>**BSB:**</sub></small>
 I will restore My people Israel from captivity; they will rebuild and inhabit the ruined cities. They will plant vineyards and drink their wine; they will make gardens and eat their fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725H\|שַׁבְתִּי֮]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֣וּת]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וּ]][[H1129\|בָנ֞וּ]] [[H5892B\|עָרִ֤ים]] [[H8074G\|נְשַׁמּוֹת֙]] [[H9001\|וְ]][[H3427\|יָשָׁ֔בוּ]] [[H9001\|וְ]][[H5193\|נָטְע֣וּ]] [[H3754\|כְרָמִ֔ים]] [[H9001\|וְ]][[H8354\|שָׁת֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3196\|יֵינָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H6213H\|עָשׂ֣וּ]] [[H1593\|גַנּ֔וֹת]] [[H9001\|וְ]][[H0398\|אָכְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פְּרִי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.13|<< Amos 9:13]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.15|Amos 9:15 >>]]</td></tr></table>
 

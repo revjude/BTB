@@ -1,8 +1,74 @@
+---
+title: 1 Kings 15:27
+type: Verse
+kjv: "And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which belonged to the Philistines; for Nadab and all Israel laid siege to Gibbethon."
+bsb: "Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city."
+hebrew: "וַיִּקְשֹׁ֨ר עָלָ֜יו בַּעְשָׁ֤א בֶן־ אֲחִיָּה֙ לְבֵ֣ית יִשָּׂשכָ֔ר וַיַּכֵּ֣הוּ בַעְשָׁ֔א בְּגִבְּת֖וֹן אֲשֶׁ֣ר לַפְּלִשְׁתִּ֑ים וְנָדָב֙ וְכָל־ יִשְׂרָאֵ֔ל צָרִ֖ים עַֽל־ גִּבְּתֽוֹן׃"
+pericope: "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GIBBETHON|GIBBETHON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1201]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0281I]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3485G]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H1405]]"
+- "[[H0834A]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H5070H]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H6696A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:27**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which [belonged] to the Philistines; for Nadab and all Israel laid siege to Gibbethon.
 <small><sub>**BSB:**</sub></small>
 Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7194\|יִּקְשֹׁ֨ר]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H1201\|בַּעְשָׁ֤א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0281I\|אֲחִיָּה֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3485G\|יִשָּׂשכָ֔ר]] [[H9001\|וַ]][[H5221\|יַּכֵּ֣]][[H9033\|הוּ]] [[H1201\|בַעְשָׁ֔א]] [[H9003\|בְּ]][[H1405\|גִבְּת֖וֹן]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9002\|וְ]][[H5070H\|נָדָב֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6696A\|צָרִ֖ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H1405\|גִּבְּתֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BAASHA|BAASHA]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GIBBETHON|GIBBETHON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic NADAB|NADAB]] • [[topic REGICIDE|REGICIDE]] • [[topic SIEGE|SIEGE]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.26|<< 1 Kings 15:26]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.28|1 Kings 15:28 >>]]</td></tr></table>
 

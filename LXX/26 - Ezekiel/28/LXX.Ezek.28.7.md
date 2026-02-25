@@ -1,6 +1,70 @@
+---
+title: LXX Ezekiel 28:7
+type: Verse
+lxx: "for this, behold, I bring upon you strange pestilent ones from the nations. And they shall empty out  their swords against you; against the beauty  of your higher knowledge; and they shall spread  your beauty unto destruction."
+greek: "αντί τούτου ιδού εγώ επάγω επί σε αλλοτρίους λοιμούς από εθνών και εκκενώσουσι τας μαχαίρας αυτών επί σε επί το κάλλος της επιστήμης σου και στρώσουσι το κάλλος σου εις απώλειαν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G0473]]"
+- "[[G3778]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1863]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G0245]]"
+- "[[G3061]]"
+- "[[G0575]]"
+- "[[G1484]]"
+- "[[G2532]]"
+- "[[G7100]]"
+- "[[G3588]]"
+- "[[G3162]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G7782]]"
+- "[[G3588]]"
+- "[[G7454]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4766]]"
+- "[[G3588]]"
+- "[[G7782]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0684]]"
+---
+
 **LXX Ezekiel 28:7** 
 <small><sub>**LXX:**</sub></small>
 for this, behold, I bring upon you strange pestilent ones from \[the\] nations. And they shall empty out  their swords against you; against the beauty  of your higher knowledge; and they shall spread  your beauty unto destruction. 
+<small><sub>**Greek:**</sub></small>
+[[G0473\|αντί]] [[G3778\|τούτου]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G1863\|επάγω]] [[G1909\|επί]] [[G1473\|σε]] [[G0245\|αλλοτρίους]] [[G3061\|λοιμούς]] [[G0575\|από]] [[G1484\|εθνών]] [[G2532\|και]] [[G7100\|εκκενώσουσι]] [[G3588\|τας]] [[G3162\|μαχαίρας]] [[G1473\|αυτών]] [[G1909\|επί]] [[G1473\|σε]] [[G1909\|επί]] [[G3588\|το]] [[G7782\|κάλλος]] [[G3588\|της]] [[G7454\|επιστήμης]] [[G1473\|σου]] [[G2532\|και]] [[G4766\|στρώσουσι]] [[G3588\|το]] [[G7782\|κάλλος]] [[G1473\|σου]] [[G1519\|εις]] [[G0684\|απώλειαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.6|<< Ezekiel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.8|Ezekiel 28:8 >>]]</td></tr></table>
 
@@ -34,6 +98,6 @@ for this, behold, I bring upon you strange pestilent ones from \[the\] nations. 
 | your beauty | **<big>[[G7782\|κάλλος]]</big>** **<big>[[G1473\|σου]]</big>** |
 | unto | **<big>[[G1519\|εις]]</big>** |
 | destruction. | **<big>[[G0684\|απώλειαν]]</big>** |
-[[Ezek.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.6|<< Ezekiel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.8|Ezekiel 28:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.6|<< Ezekiel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.8|Ezekiel 28:8 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boy with an Evil Spirit
+type: Pericope
 pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Mark
 chapter: 9
 book/chapter: "[[Mark.9|Mark 9]]"
-genre:
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 16
 verses:
 - "[[Mark.9.14]]"
 - "[[Mark.9.15]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Mark.9.29]]"
 ---
 
-[[Mark.9|Mark 9:14 - Mark 9:29]]
+<small>[[Mark.9|Mark 9:14-29]]</small>
 *The Boy with an Evil Spirit*
 
 [[Mark.9.14|14]] And when he came to \[his\] disciples, he saw a great multitude about them, and the scribes questioning with them.

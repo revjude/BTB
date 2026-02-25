@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lights in the World
+type: Pericope
 pericope: "[[Phil.2.12 Lights in the World|Lights in the World]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 2
 book/chapter: "[[Phil.2|Philippians 2]]"
-genre:
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 7
 verses:
 - "[[Phil.2.12]]"
 - "[[Phil.2.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Phil.2.18]]"
 ---
 
-[[Phil.2|Philippians 2:12 - Philippians 2:18]]
+<small>[[Phil.2|Philippians 2:12-18]]</small>
 *Lights in the World*
 
 [[Phil.2.12|12]] Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.

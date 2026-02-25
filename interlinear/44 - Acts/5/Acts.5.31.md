@@ -1,10 +1,67 @@
+---
+title: Acts 5:31
+type: Verse
+kjv: "Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins."
+bsb: "God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel."
+greek: "τοῦτον ὁ θεὸς ἀρχηγὸν καὶ σωτῆρα ὕψωσεν τῇ δεξιᾷ αὐτοῦ τοῦ δοῦναι μετάνοιαν τῷ Ἰσραὴλ καὶ ἄφεσιν ἁμαρτιῶν."
+pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0747]]"
+- "[[G2532]]"
+- "[[G4990]]"
+- "[[G5312]]"
+- "[[G1188]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G3341]]"
+- "[[G2474]]"
+- "[[G0859]]"
+- "[[G0266]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 5:31**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Him hath God exalted with his right hand [to be] a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 <small><sub>**BSB:**</sub></small>
 God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel.
-<small><sub>**Literal:**</sub></small>
-Him <the> God [as] Prince and Savior exalted by the right hand of Him <the> to give repentance <the> to Israel and forgiveness of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.30|<< Acts 5:30]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.32|Acts 5:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0747\|ἀρχηγὸν]]  [[G2532\|καὶ]]  [[G4990\|σωτῆρα]]  [[G5312\|ὕψωσεν]]  [[G3588\|τῇ]]  [[G1188\|δεξιᾷ]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G1325\|δοῦναι]]  [[G3341\|μετάνοιαν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic POWER|POWER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SADDUCEES|SADDUCEES]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.30|<< Acts 5:30]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.32|Acts 5:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

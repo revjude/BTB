@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jephthah’s Tragic Vow
+type: Pericope
 pericope: "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 11
 book/chapter: "[[Judg.11|Judges 11]]"
-genre:
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 12
 verses:
 - "[[Judg.11.29]]"
 - "[[Judg.11.30]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Judg.11.40]]"
 ---
 
-[[Judg.11|Judges 11:29 - Judges 11:40]]
+<small>[[Judg.11|Judges 11:29-40]]</small>
 *Jephthah’s Tragic Vow*
 
 [[Judg.11.29|29]] Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over \[unto\] the children of Ammon.

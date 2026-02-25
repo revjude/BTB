@@ -1,8 +1,52 @@
+---
+title: Proverbs 14:30
+type: Verse
+kjv: "A sound heart is the life of the flesh: but envy the rottenness of the bones."
+bsb: "A tranquil heart is life to the body, but envy rots the bones."
+hebrew: "חַיֵּ֣י בְ֭שָׂרִים לֵ֣ב מַרְפֵּ֑א וּרְקַ֖ב עֲצָמ֣וֹת קִנְאָֽה׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PHYSIOLOGY|PHYSIOLOGY]]"
+strongs:
+- "[[H2416E]]"
+- "[[H1320]]"
+- "[[H3820A]]"
+- "[[H4832]]"
+- "[[H9002]]"
+- "[[H7538]]"
+- "[[H6106G]]"
+- "[[H7068]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:30**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sound heart [is] the life of the flesh: but envy the rottenness of the bones.
 <small><sub>**BSB:**</sub></small>
 A tranquil heart is life to the body, but envy rots the bones.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416E\|חַיֵּ֣י]] [[H1320\|בְ֭שָׂרִים]] [[H3820A\|לֵ֣ב]] [[H4832\|מַרְפֵּ֑א]] [[H9002\|וּ]][[H7538\|רְקַ֖ב]] [[H6106G\|עֲצָמ֣וֹת]] [[H7068\|קִנְאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic HEART|HEART]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PHYSIOLOGY|PHYSIOLOGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.29|<< Proverbs 14:29]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.31|Proverbs 14:31 >>]]</td></tr></table>
 

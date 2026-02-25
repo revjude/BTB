@@ -1,8 +1,54 @@
+---
+title: Hosea 8:9
+type: Verse
+kjv: "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers."
+bsb: "For they have gone up to Assyria like a wild donkey on its own. Ephraim has hired lovers."
+hebrew: "כִּֽי־ הֵ֙מָּה֙ עָל֣וּ אַשּׁ֔וּר פֶּ֖רֶא בּוֹדֵ֣ד ל֑וֹ אֶפְרַ֖יִם הִתְנ֥וּ אֲהָבִֽים"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H5927G]]"
+- "[[H0804G]]"
+- "[[H6501]]"
+- "[[H0909]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0669G]]"
+- "[[H8566]]"
+- "[[H0158]]"
+texts:
+- L
+- L(abh)
+---
+
 **Hosea 8:9**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.
 <small><sub>**BSB:**</sub></small>
 For they have gone up to Assyria like a wild donkey on its own. Ephraim has hired lovers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1992\|הֵ֙מָּה֙]] [[H5927G\|עָל֣וּ]] [[H0804G\|אַשּׁ֔וּר]] [[H6501\|פֶּ֖רֶא]] [[H0909\|בּוֹדֵ֣ד]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0669G\|אֶפְרַ֖יִם]] [[H8566\|הִתְנ֥וּ]] [[H0158\|אֲהָבִֽים]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.8|<< Hosea 8:8]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.10|Hosea 8:10 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Daniel 9:21
+type: Verse
+kjv: "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation."
+bsb: "while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice."
+hebrew: "וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן בַּתְּחִלָּה֙ מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת־ עָֽרֶב׃"
+pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H8605]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1403]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H2377]]"
+- "[[H8462]]"
+- "[[H3286]]"
+- "[[H3288]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H4503G]]"
+- "[[H9014]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:21**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, whiles I [was] speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.
 <small><sub>**BSB:**</sub></small>
 while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5750\|ע֛וֹד]] [[H0589\|אֲנִ֥י]] [[H1696G\|מְדַבֵּ֖ר]] [[H9003\|בַּ]][[H8605\|תְּפִלָּ֑ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H1403\|גַּבְרִיאֵ֡ל]] [[H0834A\|אֲשֶׁר֩]] [[H7200G\|רָאִ֨יתִי]] [[H9003\|בֶ]][[H2377\|חָז֤וֹן]] [[H9003\|בַּ]][[H8462\|תְּחִלָּה֙]] [[H3286\|מֻעָ֣ף]] [[H9003\|בִּ]][[H3288\|יעָ֔ף]] [[H5060\|נֹגֵ֣עַ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9004\|כְּ]][[H6256\|עֵ֖ת]] [[H4503G\|מִנְחַת]][[H9014\|־]] [[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic GABRIEL|GABRIEL]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.20|<< Daniel 9:20]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.22|Daniel 9:22 >>]]</td></tr></table>
 

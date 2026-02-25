@@ -1,8 +1,65 @@
+---
+title: Jonah 2:2
+type: Verse
+kjv: "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice."
+bsb: "saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice."
+hebrew: "וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל־ יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קוֹלִֽי׃"
+pericope: "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 2
+book/chapter: "[[Jonah.2|Jonah 2]]"
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7121G]]"
+- "[[H9006]]"
+- "[[H6869B]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6030B]]"
+- "[[H0990G]]"
+- "[[H7585]]"
+- "[[H7768]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 2:2**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, [and] thou heardest my voice.
 <small><sub>**BSB:**</sub></small>
 saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7121G\|קָ֠רָאתִי]] [[H9006\|מִ]][[H6869B\|צָּ֥רָה]] [[H9005\|לִ֛]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַֽ]][[H6030B\|יַּעֲנֵ֑]][[H9030\|נִי]] [[H9006\|מִ]][[H0990G\|בֶּ֧טֶן]] [[H7585\|שְׁא֛וֹל]] [[H7768\|שִׁוַּ֖עְתִּי]] [[H8085G\|שָׁמַ֥עְתָּ]] [[H6963A\|קוֹלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic FAITH|FAITH]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.1|<< Jonah 2:1]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.3|Jonah 2:3 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Jeremiah 46:5
+type: Verse
+kjv: "Wherefore have I seen them dismayed and turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: for fear was round about, saith the LORD."
+bsb: "Why am I seeing this? They are terrified, they are retreating; their warriors are defeated, they flee in haste without looking back; terror is on every side!” declares the LORD."
+hebrew: "מַדּ֣וּעַ רָאִ֗יתִי הֵ֣מָּה חַתִּים֮ נְסֹגִ֣ים אָחוֹר֒ וְגִבּוֹרֵיהֶ֣ם יֻכַּ֔תּוּ וּמָנ֥וֹס נָ֖סוּ וְלֹ֣א הִפְנ֑וּ מָג֥וֹר מִסָּבִ֖יב נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4069]]"
+- "[[H7200G]]"
+- "[[H1992]]"
+- "[[H2844B]]"
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H9002]]"
+- "[[H1368]]"
+- "[[H9028]]"
+- "[[H3807]]"
+- "[[H4498]]"
+- "[[H5127]]"
+- "[[H3808]]"
+- "[[H6437G]]"
+- "[[H4032]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:5**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore have I seen them dismayed [and] turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: [for] fear [was] round about, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Why am I seeing this? They are terrified, they are retreating; their warriors are defeated, they flee in haste without looking back; terror is on every side!” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H4069\|מַדּ֣וּעַ]] [[H7200G\|רָאִ֗יתִי]] [[H1992\|הֵ֣מָּה]] [[H2844B\|חַתִּים֮]] [[H5472\|נְסֹגִ֣ים]] [[H0268\|אָחוֹר֒]] [[H9002\|וְ]][[H1368\|גִבּוֹרֵי]][[H9028\|הֶ֣ם]] [[H3807\|יֻכַּ֔תּוּ]] [[H9002\|וּ]][[H4498\|מָנ֥וֹס]] [[H5127\|נָ֖סוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6437G\|הִפְנ֑וּ]] [[H4032\|מָג֥וֹר]] [[H9006\|מִ]][[H5439H\|סָּבִ֖יב]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.4|<< Jeremiah 46:4]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.6|Jeremiah 46:6 >>]]</td></tr></table>
 

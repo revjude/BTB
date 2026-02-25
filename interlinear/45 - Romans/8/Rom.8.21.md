@@ -1,10 +1,58 @@
+---
+title: Romans 8:21
+type: Verse
+kjv: "Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God."
+bsb: "that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God."
+greek: "ὅτι καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ."
+pericope: "[[Rom.8.18 Future Glory|Future Glory]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2937]]"
+- "[[G1659]]"
+- "[[G0575]]"
+- "[[G1397]]"
+- "[[G5356]]"
+- "[[G1519]]"
+- "[[G1657]]"
+- "[[G1391]]"
+- "[[G5043]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 8:21**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.
 <small><sub>**BSB:**</sub></small>
 that the creation itself will be set free from its bondage to decay and brought into the glorious freedom of the children of God.
-<small><sub>**Literal:**</sub></small>
-for also itself the creation will be set free from the bondage <the> of decay into the freedom of the glory of the children <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.20|<< Romans 8:20]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.22|Romans 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G3588\|ἡ]]  [[G2937\|κτίσις]]  [[G1659\|ἐλευθερωθήσεται]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1397\|δουλείας]]  [[G3588\|τῆς]]  [[G5356\|φθορᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1657\|ἐλευθερίαν]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CORRUPTION|CORRUPTION]] • [[topic EARTH|EARTH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.20|<< Romans 8:20]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.22|Romans 8:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

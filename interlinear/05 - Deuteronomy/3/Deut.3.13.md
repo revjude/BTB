@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 3:13
+type: Verse
+kjv: "And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants."
+bsb: "To the half-tribe of Manasseh I gave the rest of Gilead and all of Bashan, the kingdom of Og. (The entire region of Argob, the whole territory of Bashan, used to be called the land of the Rephaim.)"
+hebrew: "וְיֶ֨תֶר הַגִּלְעָ֤ד וְכָל־ הַבָּשָׁן֙ מַמְלֶ֣כֶת ע֔וֹג נָתַ֕תִּי לַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה כֹּ֣ל חֶ֤בֶל הָֽאַרְגֹּב֙ לְכָל־ הַבָּשָׁ֔ן הַה֥וּא יִקָּרֵ֖א אֶ֥רֶץ רְפָאִֽים׃"
+pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARGOB|ARGOB]]"
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1316]]"
+- "[[H4467]]"
+- "[[H5747]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H4519G]]"
+- "[[H2256M]]"
+- "[[H0709G]]"
+- "[[H1931]]"
+- "[[H7121H]]"
+- "[[H0776G]]"
+- "[[H7497B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:13**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of Gilead, and all Bashan, [being] the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
 <small><sub>**BSB:**</sub></small>
 To the half-tribe of Manasseh I gave the rest of Gilead and all of Bashan, the kingdom of Og. (The entire region of Argob, the whole territory of Bashan, used to be called the land of the Rephaim.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֨תֶר]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֤ד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁן֙]] [[H4467\|מַמְלֶ֣כֶת]] [[H5747\|ע֔וֹג]] [[H5414G\|נָתַ֕תִּי]] [[H9005\|לַ]][[H2677\|חֲצִ֖י]] [[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֑ה]] [[H3605\|כֹּ֣ל]] [[H2256M\|חֶ֤בֶל]] [[H9009\|הָֽ]][[H0709G\|אַרְגֹּב֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H9009\|הַ]][[H1931\|ה֥וּא]] [[H7121H\|יִקָּרֵ֖א]] [[H0776G\|אֶ֥רֶץ]] [[H7497B\|רְפָאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARGOB|ARGOB]] • [[topic BASHAN|BASHAN]] • [[topic GILEAD|GILEAD]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REPHAIM|REPHAIM]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.12|<< Deuteronomy 3:12]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.14|Deuteronomy 3:14 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 3:15
+type: Verse
+kjv: "That which hath been is now; and that which is to be hath already been; and God requireth that which is past."
+bsb: "What exists has already been, and what will be has already been, for God will call to account what has passed."
+hebrew: "מַה־ שֶּֽׁהָיָה֙ כְּבָ֣ר ה֔וּא וַאֲשֶׁ֥ר לִהְי֖וֹת כְּבָ֣ר הָיָ֑ה וְהָאֱלֹהִ֖ים יְבַקֵּ֥שׁ אֶת־ נִרְדָּֽף׃"
+pericope: "[[Eccl.3.9 God’s Works Remain Forever|God’s Works Remain Forever]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H3528]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H7291]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:15**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
 <small><sub>**BSB:**</sub></small>
 What exists has already been, and what will be has already been, for God will call to account what has passed.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶּֽׁ]][[H1961\|הָיָה֙]] [[H3528\|כְּבָ֣ר]] [[H1931\|ה֔וּא]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לִ]][[H1961\|הְי֖וֹת]] [[H3528\|כְּבָ֣ר]] [[H1961\|הָיָ֑ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H1245\|יְבַקֵּ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7291\|נִרְדָּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.14|<< Ecclesiastes 3:14]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.16|Ecclesiastes 3:16 >>]]</td></tr></table>
 

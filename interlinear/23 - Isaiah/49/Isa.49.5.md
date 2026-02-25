@@ -1,8 +1,70 @@
+---
+title: Isaiah 49:5
+type: Verse
+kjv: "And now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength."
+bsb: "And now says the LORD, who formed Me from the womb to be His Servant, to bring Jacob back to Him, that Israel might be gathered to Him—for I am honored in the sight of the LORD, and My God is My strength—"
+hebrew: "וְעַתָּ֣ה׀ אָמַ֣ר יְהוָ֗ה יֹצְרִ֤י מִבֶּ֙טֶן֙ לְעֶ֣בֶד ל֔וֹ לְשׁוֹבֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל ל֣וֹ יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3335G]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9033]]"
+- "[[H7725G]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H0622]]"
+- "[[H3513G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H5797]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 49:5**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, saith the LORD that formed me from the womb [to be] his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.
 <small><sub>**BSB:**</sub></small>
 And now says the LORD, who formed Me from the womb to be His Servant, to bring Jacob back to Him, that Israel might be gathered to Him—for I am honored in the sight of the LORD, and My God is My strength—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H3335G\|יֹצְרִ֤]][[H9030\|י]] [[H9006\|מִ]][[H0990H\|בֶּ֙טֶן֙]] [[H9005\|לְ]][[H5650\|עֶ֣בֶד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H7725G\|שׁוֹבֵ֤ב]] [[H3290\|יַֽעֲקֹב֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0622\|יֵאָסֵ֑ף]] [[H9002\|וְ]][[H3513G\|אֶכָּבֵד֙]] [[H9003\|בְּ]][[H5869A\|עֵינֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וֵ]][[H0430G\|אלֹהַ֖]][[H9020\|י]] [[H1961\|הָיָ֥ה]] [[H5797\|עֻזִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.4|<< Isaiah 49:4]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.6|Isaiah 49:6 >>]]</td></tr></table>
 

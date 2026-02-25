@@ -1,8 +1,71 @@
+---
+title: 1 Kings 1:35
+type: Verse
+kjv: "Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah."
+bsb: "Then you shall go up with him, and he is to come and sit on my throne and reign in my place. For I have appointed him ruler over Israel and Judah.”"
+hebrew: "וַעֲלִיתֶ֣ם אַחֲרָ֗יו וּבָא֙ וְיָשַׁ֣ב עַל־ כִּסְאִ֔י וְה֥וּא יִמְלֹ֖ךְ תַּחְתָּ֑י וְאֹת֤וֹ צִוִּ֙יתִי֙ לִֽהְי֣וֹת נָגִ֔יד עַל־ יִשְׂרָאֵ֖ל וְעַל־ יְהוּדָֽה׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9030]]"
+- "[[H0854]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H5057]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:35**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
 <small><sub>**BSB:**</sub></small>
 Then you shall go up with him, and he is to come and sit on my throne and reign in my place. For I have appointed him ruler over Israel and Judah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|עֲלִיתֶ֣ם]] [[H0310A\|אַחֲרָ֗י]][[H9033\|ו]] [[H9001\|וּ]][[H0935G\|בָא֙]] [[H9001\|וְ]][[H3427\|יָשַׁ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְאִ֔]][[H9020\|י]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H4427A\|יִמְלֹ֖ךְ]] [[H8478H\|תַּחְתָּ֑]][[H9030\|י]] [[H9002\|וְ]][[H0854\|אֹת֤]][[H9033\|וֹ]] [[H6680\|צִוִּ֙יתִי֙]] [[H9005\|לִֽ]][[H1961\|הְי֣וֹת]] [[H5057\|נָגִ֔יד]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ISRAEL|ISRAEL]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.34|<< 1 Kings 1:34]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.36|1 Kings 1:36 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Full Armor of God
+type: Pericope
 pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 6
 book/chapter: "[[Eph.6|Ephesians 6]]"
-genre:
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 11
 verses:
 - "[[Eph.6.10]]"
 - "[[Eph.6.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Eph.6.20]]"
 ---
 
-[[Eph.6|Ephesians 6:10 - Ephesians 6:20]]
+<small>[[Eph.6|Ephesians 6:10-20]]</small>
 *The Full Armor of God*
 
 [[Eph.6.10|10]] Finally, my brethren, be strong in the Lord, and in the power of his might.

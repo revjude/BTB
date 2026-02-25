@@ -1,8 +1,66 @@
+---
+title: Jeremiah 20:1
+type: Verse
+kjv: "Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things."
+bsb: "When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things,"
+hebrew: "וַיִּשְׁמַ֤ע פַּשְׁחוּר֙ בֶּן־ אִמֵּ֣ר הַכֹּהֵ֔ן וְהֽוּא־ פָקִ֥יד נָגִ֖יד בְּבֵ֣ית יְהוָ֑ה אֶֽת־ יִרְמְיָ֔הוּ נִבָּ֖א אֶת־ הַדְּבָרִ֥ים הָאֵֽלֶּה׃"
+pericope: "[[Jer.20.1 Pashhur Persecutes Jeremiah|Pashhur Persecutes Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMMER|IMMER]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PASHUR|PASHUR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H6583I]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0564H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6496]]"
+- "[[H5057]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3414L]]"
+- "[[H5012]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:1**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Pashur the son of Immer the priest, who [was] also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
 <small><sub>**BSB:**</sub></small>
 When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H6583I\|פַּשְׁחוּר֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0564H\|אִמֵּ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H6496\|פָקִ֥יד]] [[H5057\|נָגִ֖יד]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H5012\|נִבָּ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IMMER|IMMER]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PASHUR|PASHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.15|<< Jeremiah 19:15]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.2|Jeremiah 20:2 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Judges 9:19
+type: Verse
+kjv: "If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:"
+bsb: "if you have acted faithfully and honestly toward Jerubbaal and his house this day, then may you rejoice in Abimelech, and he in you."
+hebrew: "וְאִם־ בֶּאֱמֶ֨ת וּבְתָמִ֧ים עֲשִׂיתֶ֛ם עִם־ יְרֻבַּ֥עַל וְעִם־ בֵּית֖וֹ הַיּ֣וֹם הַזֶּ֑ה שִׂמְחוּ֙ בַּאֲבִימֶ֔לֶךְ וְיִשְׂמַ֥ח גַּם־ ה֖וּא בָּכֶֽם׃"
+pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H8549H]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H3378]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H8055]]"
+- "[[H0040H]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:19**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, [then] rejoice ye in Abimelech, and let him also rejoice in you:
 <small><sub>**BSB:**</sub></small>
 if you have acted faithfully and honestly toward Jerubbaal and his house this day, then may you rejoice in Abimelech, and he in you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9003\|בֶּ]][[H0571G\|אֱמֶ֨ת]] [[H9002\|וּ]][[H9003\|בְ]][[H8549H\|תָמִ֧ים]] [[H6213A\|עֲשִׂיתֶ֛ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3378\|יְרֻבַּ֥עַל]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H8055\|שִׂמְחוּ֙]] [[H9003\|בַּ]][[H0040H\|אֲבִימֶ֔לֶךְ]] [[H9002\|וְ]][[H8055\|יִשְׂמַ֥ח]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H9003\|בָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic ORPHAN|ORPHAN]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.20|Judges 9:20 >>]]</td></tr></table>
 

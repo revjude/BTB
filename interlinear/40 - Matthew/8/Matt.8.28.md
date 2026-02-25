@@ -1,10 +1,71 @@
+---
+title: Matthew 8:28
+type: Verse
+kjv: "And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way."
+bsb: "When Jesus arrived on the other side in the region of the Gadarenes, He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way."
+greek: "Καὶ ἐλθόντος αὐτοῦ εἰς τὸ πέραν εἰς τὴν χώραν τῶν Γαδαρηνῶν ὑπήντησαν αὐτῷ δύο δαιμονιζόμενοι ἐκ τῶν μνημείων ἐξερχόμενοι, χαλεποὶ λίαν, ὥστε μὴ ἰσχύειν τινὰ παρελθεῖν διὰ τῆς ὁδοῦ ἐκείνης."
+pericope: "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4008]]"
+- "[[G5561]]"
+- "[[G1046]]"
+- "[[G5221]]"
+- "[[G1417]]"
+- "[[G1139]]"
+- "[[G1537]]"
+- "[[G3419]]"
+- "[[G1831]]"
+- "[[G5467]]"
+- "[[G3029]]"
+- "[[G5620]]"
+- "[[G3361]]"
+- "[[G2480]]"
+- "[[G5100]]"
+- "[[G3928]]"
+- "[[G1223]]"
+- "[[G3598]]"
+- "[[G1565]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 8:28**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 <small><sub>**BSB:**</sub></small>
 When Jesus arrived on the other side in the region of the Gadarenes, He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way.
-<small><sub>**Literal:**</sub></small>
-And when was coming He to the other side to the region of the Gadarenes met Him two being demonised out of the tombs coming forth, violent extremely, so that not to be able anyone to pass through the way that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.27|<< Matthew 8:27]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.29|Matthew 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἐλθόντος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4008\|πέραν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G3588\|τῶν]]  [[G1046\|Γαδαρηνῶν]]  [[G5221\|ὑπήντησαν]]  [[G0846\|αὐτῷ]]  [[G1417\|δύο]]  [[G1139\|δαιμονιζόμενοι]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3419\|μνημείων]]  [[G1831\|ἐξερχόμενοι,]]  [[G5467\|χαλεποὶ]]  [[G3029\|λίαν,]]  [[G5620\|ὥστε]]  [[G3361\|μὴ]]  [[G2480\|ἰσχύειν]]  [[G5100\|τινὰ]]  [[G3928\|παρελθεῖν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3598\|ὁδοῦ]]  [[G1565\|ἐκείνης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.27|<< Matthew 8:27]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.29|Matthew 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

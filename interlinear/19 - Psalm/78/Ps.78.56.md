@@ -1,8 +1,58 @@
+---
+title: Psalm 78:56
+type: Verse
+kjv: "Yet they tempted and provoked the most high God, and kept not his testimonies:"
+bsb: "But they tested and disobeyed God Most High, for they did not keep His decrees."
+hebrew: "וַיְנַסּ֣וּ וַ֭יַּמְרוּ אֶת־ אֱלֹהִ֣ים עֶלְי֑וֹן וְ֝עֵדוֹתָ֗יו לֹ֣א שָׁמָֽרוּ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5254G]]"
+- "[[H4784]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H5945B]]"
+- "[[H9002]]"
+- "[[H5713B]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:56**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they tempted and provoked the most high God, and kept not his testimonies:
 <small><sub>**BSB:**</sub></small>
 But they tested and disobeyed God Most High, for they did not keep His decrees.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5254G\|יְנַסּ֣וּ]] [[H9001\|וַ֭]][[H4784\|יַּמְרוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהִ֣ים]] [[H5945B\|עֶלְי֑וֹן]] [[H9002\|וְ֝]][[H5713B\|עֵדוֹתָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.55|<< Psalms 78:55]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.57|Psalms 78:57 >>]]</td></tr></table>
 

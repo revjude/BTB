@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Servant Exalted
+type: Pericope
 pericope: "[[Isa.52.13 The Servant Exalted|The Servant Exalted]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 52
 book/chapter: "[[Isa.52|Isaiah 52]]"
-genre:
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 3
 verses:
 - "[[Isa.52.13]]"
 - "[[Isa.52.14]]"
 - "[[Isa.52.15]]"
 ---
 
-[[Isa.52|Isaiah 52:13 - Isaiah 52:15]]
+<small>[[Isa.52|Isaiah 52:13-15]]</small>
 *The Servant Exalted*
 
 [[Isa.52.13|13]] Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.

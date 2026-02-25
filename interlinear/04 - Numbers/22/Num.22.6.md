@@ -1,8 +1,76 @@
+---
+title: Numbers 22:6
+type: Verse
+kjv: "Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed."
+bsb: "So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”"
+hebrew: "וְעַתָּה֩ לְכָה־ נָּ֨א אָֽרָה־ לִּ֜י אֶת־ הָעָ֣ם הַזֶּ֗ה כִּֽי־ עָצ֥וּם הוּא֙ מִמֶּ֔נִּי אוּלַ֤י אוּכַל֙ נַכֶּה־ בּ֔וֹ וַאֲגָרְשֶׁ֖נּוּ מִן־ הָאָ֑רֶץ כִּ֣י יָדַ֗עְתִּי אֵ֤ת אֲשֶׁר־ תְּבָרֵךְ֙ מְבֹרָ֔ךְ וַאֲשֶׁ֥ר תָּאֹ֖ר יוּאָֽר׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic BALAK|BALAK]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0779]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H6099]]"
+- "[[H1931]]"
+- "[[H4480A]]"
+- "[[H0194]]"
+- "[[H3201]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H1644G]]"
+- "[[H0776G]]"
+- "[[H3045]]"
+- "[[H0834A]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:6**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come now therefore, I pray thee, curse me this people; for they [are] too mighty for me: peradventure I shall prevail, [that] we may smite them, and [that] I may drive them out of the land: for I wot that he whom thou blessest [is] blessed, and he whom thou cursest is cursed.
 <small><sub>**BSB:**</sub></small>
 So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֩]] [[H1980K\|לְכָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֨א]] [[H0779\|אָֽרָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֜]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6099\|עָצ֥וּם]] [[H1931\|הוּא֙]] [[H4480A\|מִמֶּ֔]][[H9030\|נִּי]] [[H0194\|אוּלַ֤י]] [[H3201\|אוּכַל֙]] [[H5221\|נַכֶּה]][[H9014\|־]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וַ]][[H1644G\|אֲגָרְשֶׁ֖]][[H9033\|נּוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּ֣י]] [[H3045\|יָדַ֗עְתִּי]] [[H0853\|אֵ֤ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1288\|תְּבָרֵךְ֙]] [[H1288\|מְבֹרָ֔ךְ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H0779\|תָּאֹ֖ר]] [[H0779\|יוּאָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic BALAK|BALAK]] • [[topic CURSE|CURSE]] • [[topic PRAYER|PRAYER]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.5|<< Numbers 22:5]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.7|Numbers 22:7 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 2 Kings 6:2
+type: Verse
+kjv: "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye."
+bsb: "Please let us go to the Jordan, where each of us can get a log so we can build ourselves a place to live there.” “Go,” said Elisha."
+hebrew: "נֵֽלְכָה־ נָּ֣א עַד־ הַיַּרְדֵּ֗ן וְנִקְחָ֤ה מִשָּׁם֙ אִ֚ישׁ קוֹרָ֣ה אֶחָ֔ת וְנַעֲשֶׂה־ לָּ֥נוּ שָׁ֛ם מָק֖וֹם לָשֶׁ֣בֶת שָׁ֑ם וַיֹּ֖אמֶר לֵֽכוּ׃"
+pericope: "[[2Kgs.6.1 The Axe Head Floats|The Axe Head Floats]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0376I]]"
+- "[[H6982]]"
+- "[[H0259]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4725]]"
+- "[[H3427]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:2**<big><big>[[2Kgs.6.1 The Axe Head Floats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.
 <small><sub>**BSB:**</sub></small>
 Please let us go to the Jordan, where each of us can get a log so we can build ourselves a place to live there.” “Go,” said Elisha.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|נֵֽלְכָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֗ן]] [[H9002\|וְ]][[H3947G\|נִקְחָ֤ה]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H0376I\|אִ֚ישׁ]] [[H6982\|קוֹרָ֣ה]] [[H0259\|אֶחָ֔ת]] [[H9002\|וְ]][[H6213H\|נַעֲשֶׂה]][[H9014\|־]] [[H9005\|לָּ֥]][[H9035\|נוּ]] [[H8033G\|שָׁ֛ם]] [[H4725\|מָק֖וֹם]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H8033G\|שָׁ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H1980G\|לֵֽכוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.1|<< 2 Kings 6:1]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.3|2 Kings 6:3 >>]]</td></tr></table>
 

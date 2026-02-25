@@ -1,10 +1,63 @@
+---
+title: Acts 7:52
+type: Verse
+kjv: "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:"
+bsb: "Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—"
+greek: "τίνα τῶν προφητῶν οὐκ ἐδίωξαν οἱ πατέρες ὑμῶν; καὶ ἀπέκτειναν τοὺς προκαταγγείλαντας περὶ τῆς ἐλεύσεως τοῦ δικαίου, οὗ νῦν ὑμεῖς προδόται καὶ φονεῖς ἐγένεσθε·"
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3756]]"
+- "[[G1377]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0615]]"
+- "[[G4293]]"
+- "[[G4012]]"
+- "[[G1660]]"
+- "[[G1342]]"
+- "[[G3739]]"
+- "[[G3568]]"
+- "[[G4273]]"
+- "[[G5406]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 7:52**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
 <small><sub>**BSB:**</sub></small>
 Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—
-<small><sub>**Literal:**</sub></small>
-Which of the prophets not did persecute the fathers of you? And they killed those having foretold about the coming of the Righteous One, of whom now you yourselves betrayers and murderers have become;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.51|<< Acts 7:51]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.53|Acts 7:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίνα]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G3756\|οὐκ]]  [[G1377\|ἐδίωξαν]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G4771\|ὑμῶν;]]  [[G2532\|καὶ]]  [[G0615\|ἀπέκτειναν]]  [[G3588\|τοὺς]]  [[G4293\|προκαταγγείλαντας]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G1660\|ἐλεύσεως]]  [[G3588\|τοῦ]]  [[G1342\|δικαίου,]]  [[G3739\|οὗ]]  [[G3568\|νῦν]]  [[G4771\|ὑμεῖς]]  [[G4273\|προδόται]]  [[G2532\|καὶ]]  [[G5406\|φονεῖς]]  [[G1096\|ἐγένεσθε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.51|<< Acts 7:51]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.53|Acts 7:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

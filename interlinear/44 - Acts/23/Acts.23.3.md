@@ -1,10 +1,66 @@
+---
+title: Acts 23:3
+type: Verse
+kjv: "Then said Paul unto him, God shall smite thee, thou whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?"
+bsb: "Then Paul said to him, “God will strike you, you whitewashed wall! You sit here to judge me according to the law, yet you yourself violate the law by commanding that I be struck.”"
+greek: "τότε ὁ Παῦλος πρὸς αὐτὸν εἶπεν· τύπτειν σε μέλλει ὁ θεός, τοῖχε κεκονιαμένε· καὶ σὺ κάθῃ κρίνων με κατὰ τὸν νόμον, καὶ παρανομῶν κελεύεις με τύπτεσθαι;"
+pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G5180]]"
+- "[[G4771]]"
+- "[[G3195]]"
+- "[[G2316]]"
+- "[[G5109]]"
+- "[[G2867]]"
+- "[[G2532]]"
+- "[[G2521]]"
+- "[[G2919]]"
+- "[[G3165]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G3891]]"
+- "[[G2753]]"
+texts:
+- NKO
+---
+
 **Acts 23:3**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Paul unto him, God shall smite thee, [thou] whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?
 <small><sub>**BSB:**</sub></small>
 Then Paul said to him, “God will strike you, you whitewashed wall! You sit here to judge me according to the law, yet you yourself violate the law by commanding that I be struck.”
-<small><sub>**Literal:**</sub></small>
-Then <the> Paul to him said; To strike you is about <the> God, wall whitewashed! And you yourself do you sit judging me according to the law, and violating law you command me to be struck?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.2|<< Acts 23:2]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.4|Acts 23:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2036\|εἶπεν·]]  [[G5180\|τύπτειν]]  [[G4771\|σε]]  [[G3195\|μέλλει]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G5109\|τοῖχε]]  [[G2867\|κεκονιαμένε·]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G2521\|κάθῃ]]  [[G2919\|κρίνων]]  [[G3165\|με]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον,]]  [[G2532\|καὶ]]  [[G3891\|παρανομῶν]]  [[G2753\|κελεύεις]]  [[G3165\|με]]  [[G5180\|τύπτεσθαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic ANGER|ANGER]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic PAUL|PAUL]] • [[topic PRIEST|PRIEST]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.2|<< Acts 23:2]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.4|Acts 23:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

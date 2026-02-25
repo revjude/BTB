@@ -1,8 +1,63 @@
+---
+title: Jeremiah 2:17
+type: Verse
+kjv: "Hast thou not procured this unto thyself, in that thou hast forsaken the LORD thy God, when he led thee by the way?"
+bsb: "Have you not brought this on yourself by forsaking the LORD your God when He led you in the way?"
+hebrew: "הֲלוֹא־ זֹ֖את תַּעֲשֶׂה־ לָּ֑ךְ עָזְבֵךְ֙ אֶת־ יְהוָ֣ה אֱלֹהַ֔יִךְ בְּעֵ֖ת מוֹלִיכֵ֥ךְ בַּדָּֽרֶךְ׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5800A]]"
+- "[[H9042]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1980J]]"
+- "[[H1870L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:17**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou not procured this unto thyself, in that thou hast forsaken the LORD thy God, when he led thee by the way?
 <small><sub>**BSB:**</sub></small>
 Have you not brought this on yourself by forsaking the LORD your God when He led you in the way?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H2063\|זֹ֖את]] [[H6213A\|תַּעֲשֶׂה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H5800A\|עָזְבֵ]][[H9042\|ךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהַ֔יִ]][[H9022\|ךְ]] [[H9003\|בְּ]][[H6256\|עֵ֖ת]] [[H1980J\|מוֹלִיכֵ֥]][[H9032\|ךְ]] [[H9003\|בַּ]][[H1870L\|דָּֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.16|<< Jeremiah 2:16]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.18|Jeremiah 2:18 >>]]</td></tr></table>
 

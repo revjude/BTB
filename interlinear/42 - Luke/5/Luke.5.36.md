@@ -1,10 +1,66 @@
+---
+title: Luke 5:36
+type: Verse
+kjv: "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+bsb: "He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old."
+jesus_said: "No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+greek: "ἔλεγεν δὲ καὶ παραβολὴν πρὸς αὐτοὺς ὅτι οὐδεὶς ἐπίβλημα ἀπὸ ἱματίου καινοῦ σχίσας ἐπιβάλλει ἐπὶ ἱμάτιον παλαιόν· εἰ δὲ μή γε, καὶ τὸ καινὸν σχίσει, καὶ τῷ παλαιῷ οὐ συμφωνήσει τὸ ἐπίβλημα τὸ ἀπὸ τοῦ καινοῦ."
+pericope: "[[Luke.5.36 The Patches and the Wineskins|The Patches and the Wineskins]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3850]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G1915]]"
+- "[[G0575]]"
+- "[[G2440]]"
+- "[[G2537]]"
+- "[[G4977]]"
+- "[[G1911]]"
+- "[[G1909]]"
+- "[[G3820]]"
+- "[[G1487G]]"
+- "[[G3361]]"
+- "[[G1065]]"
+- "[[G3588]]"
+- "[[G3756]]"
+- "[[G4856]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 5:36**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was [taken] out of the new agreeth not with the old.
 <small><sub>**BSB:**</sub></small>
 He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old.
-<small><sub>**Literal:**</sub></small>
-He was speaking now also a parable to them that No [one] a piece of a garment new having torn puts [it] on a garment old; lest then except indeed also the new will tear, and to the old not it will match the piece <the> of the new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.35|<< Luke 5:35]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.37|Luke 5:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3850\|παραβολὴν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδεὶς]]  [[G1915\|ἐπίβλημα]]  [[G0575\|ἀπὸ]]  [[G2440\|ἱματίου]]  [[G2537\|καινοῦ]]  [[G4977\|σχίσας]]  [[G1911\|ἐπιβάλλει]]  [[G1909\|ἐπὶ]]  [[G2440\|ἱμάτιον]]  [[G3820\|παλαιόν·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G1065\|γε,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2537\|καινὸν]]  [[G4977\|σχίσει,]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G3820\|παλαιῷ]]  [[G3756\|οὐ]]  [[G4856\|συμφωνήσει]]  [[G3588\|τὸ]]  [[G1915\|ἐπίβλημα]]  [[G3588\|τὸ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2537\|καινοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.35|<< Luke 5:35]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.37|Luke 5:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

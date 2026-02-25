@@ -1,10 +1,66 @@
+---
+title: Hebrews 2:3
+type: Verse
+kjv: "How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;"
+bsb: "how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him,"
+greek: "πῶς ἡμεῖς ἐκφευξόμεθα τηλικαύτης ἀμελήσαντες σωτηρίας; ἥτις ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου ὑπὸ τῶν ἀκουσάντων εἰς ἡμᾶς ἐβεβαιώθη"
+pericope: "[[Heb.2.1 Salvation Confirmed|Salvation Confirmed]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G4459]]"
+- "[[G3165]]"
+- "[[G1628]]"
+- "[[G5082]]"
+- "[[G0272]]"
+- "[[G4991]]"
+- "[[G3748]]"
+- "[[G0746]]"
+- "[[G2983]]"
+- "[[G2980]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G5259G]]"
+- "[[G0191]]"
+- "[[G1519]]"
+- "[[G0950]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:3**<big><big>[[Heb.2.1 Salvation Confirmed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard [him];
 <small><sub>**BSB:**</sub></small>
 how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him,
-<small><sub>**Literal:**</sub></small>
-how we ourselves will escape such a great having neglected a salvation? which a commencement having received declaring through the Lord by those having heard to us it was confirmed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.2|<< Hebrews 2:2]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.4|Hebrews 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G3165\|ἡμεῖς]]  [[G1628\|ἐκφευξόμεθα]]  [[G5082\|τηλικαύτης]]  [[G0272\|ἀμελήσαντες]]  [[G4991\|σωτηρίας;]]  [[G3748\|ἥτις]]  [[G0746\|ἀρχὴν]]  [[G2983\|λαβοῦσα]]  [[G2980\|λαλεῖσθαι]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0191\|ἀκουσάντων]]  [[G1519\|εἰς]]  [[G3165\|ἡμᾶς]]  [[G0950\|ἐβεβαιώθη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESCAPE|ESCAPE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.2|<< Hebrews 2:2]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.4|Hebrews 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

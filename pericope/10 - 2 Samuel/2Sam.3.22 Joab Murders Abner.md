@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joab Murders Abner
+type: Pericope
 pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 3
 book/chapter: "[[2Sam.3|2 Samuel 3]]"
-genre:
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 9
 verses:
 - "[[2Sam.3.22]]"
 - "[[2Sam.3.23]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Sam.3.30]]"
 ---
 
-[[2Sam.3|2 Samuel 3:22 - 2 Samuel 3:30]]
+<small>[[2Sam.3|2 Samuel 3:22-30]]</small>
 *Joab Murders Abner*
 
 [[2Sam.3.22|22]] And, behold, the servants of David and Joab came from \[pursuing\] a troop, and brought in a great spoil with them: but Abner \[was\] not with David in Hebron; for he had sent him away, and he was gone in peace.

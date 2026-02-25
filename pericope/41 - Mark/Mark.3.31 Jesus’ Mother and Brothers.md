@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Mother and Brothers
+type: Pericope
 pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 3
 book/chapter: "[[Mark.3|Mark 3]]"
-genre:
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.3.31]]"
 - "[[Mark.3.32]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.3.35]]"
 ---
 
-[[Mark.3|Mark 3:31 - Mark 3:35]]
+<small>[[Mark.3|Mark 3:31-35]]</small>
 *Jesus’ Mother and Brothers*
 
 [[Mark.3.31|31]] There came then his brethren and his mother, and, standing without, sent unto him, calling him.

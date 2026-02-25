@@ -1,8 +1,64 @@
+---
+title: Exodus 29:3
+type: Verse
+kjv: "And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams."
+bsb: "put them in a basket, and present them in the basket, along with the bull and the two rams."
+hebrew: "וְנָתַתָּ֤ אוֹתָם֙ עַל־ סַ֣ל אֶחָ֔ד וְהִקְרַבְתָּ֥ אֹתָ֖ם בַּסָּ֑ל וְאֶ֨ת־ הַפָּ֔ר וְאֵ֖ת שְׁנֵ֥י הָאֵילִֽם׃"
+pericope: "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5536]]"
+- "[[H0259]]"
+- "[[H7126H]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H6499]]"
+- "[[H8147]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:3**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.
 <small><sub>**BSB:**</sub></small>
 put them in a basket, and present them in the basket, along with the bull and the two rams.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֤]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5536\|סַ֣ל]] [[H0259\|אֶחָ֔ד]] [[H9001\|וְ]][[H7126H\|הִקְרַבְתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H5536\|סָּ֑ל]] [[H9002\|וְ]][[H0854\|אֶ֨ת]][[H9014\|־]] [[H9009\|הַ]][[H6499\|פָּ֔ר]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H8147\|שְׁנֵ֥י]] [[H9009\|הָ]][[H0352A\|אֵילִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic BULLOCK|BULLOCK]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.2|<< Exodus 29:2]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.4|Exodus 29:4 >>]]</td></tr></table>
 

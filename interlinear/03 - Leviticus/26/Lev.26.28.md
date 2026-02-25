@@ -1,8 +1,74 @@
+---
+title: Leviticus 26:28
+type: Verse
+kjv: "Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins."
+bsb: "then I will walk in fury against you, and I, even I, will punish you sevenfold for your sins."
+hebrew: "וְהָלַכְתִּ֥י עִמָּכֶ֖ם בַּחֲמַת־ קֶ֑רִי וְיִסַּרְתִּ֤י אֶתְכֶם֙ אַף־ אָ֔נִי שֶׁ֖בַע עַל־ חַטֹּאתֵיכֶם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9014]]"
+- "[[H7147]]"
+- "[[H3256]]"
+- "[[H0853]]"
+- "[[H0637]]"
+- "[[H0589]]"
+- "[[H7651]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:28**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.
 <small><sub>**BSB:**</sub></small>
 then I will walk in fury against you, and I, even I, will punish you sevenfold for your sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980I\|הָלַכְתִּ֥י]] [[H5973A\|עִמָּ]][[H9036\|כֶ֖ם]] [[H9003\|בַּ]][[H2534\|חֲמַת]][[H9014\|־]] [[H7147\|קֶ֑רִי]] [[H9001\|וְ]][[H3256\|יִסַּרְתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H0637\|אַף]][[H9014\|־]] [[H0589\|אָ֔נִי]] [[H7651\|שֶׁ֖בַע]] [[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטֹּאתֵי]][[H9026\|כֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.27|<< Leviticus 26:27]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.29|Leviticus 26:29 >>]]</td></tr></table>
 

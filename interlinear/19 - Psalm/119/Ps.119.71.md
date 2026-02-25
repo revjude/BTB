@@ -1,8 +1,56 @@
+---
+title: Psalm 119:71
+type: Verse
+kjv: "It is good for me that I have been afflicted; that I might learn thy statutes."
+bsb: "It was good for me to be afflicted, that I might learn Your statutes."
+hebrew: "טֽוֹב־ לִ֥י כִֽי־ עֻנֵּ֑יתִי לְ֝מַ֗עַן אֶלְמַ֥ד חֻקֶּֽיךָ׃"
+pericope: "[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|Your Word Is a Lamp to My Feet - TETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H2895]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6031B]]"
+- "[[H4616]]"
+- "[[H3925H]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:71**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] good for me that I have been afflicted; that I might learn thy statutes.
 <small><sub>**BSB:**</sub></small>
 It was good for me to be afflicted, that I might learn Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H2895\|טֽוֹב]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H3588A\|כִֽי]][[H9014\|־]] [[H6031B\|עֻנֵּ֑יתִי]] [[H4616\|לְ֝מַ֗עַן]] [[H3925H\|אֶלְמַ֥ד]] [[H2706G\|חֻקֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.70|<< Psalms 119:70]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.72|Psalms 119:72 >>]]</td></tr></table>
 

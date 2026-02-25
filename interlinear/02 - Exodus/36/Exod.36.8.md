@@ -1,8 +1,77 @@
+---
+title: Exodus 36:8
+type: Verse
+kjv: "And every wise hearted man among them that wrought the work of the tabernacle made ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work made he them."
+bsb: "All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them."
+hebrew: "וַיַּעֲשׂ֨וּ כָל־ חֲכַם־ לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־ הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מָשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃"
+pericope: "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H3820A]]"
+- "[[H9003]]"
+- "[[H6213J]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H0853]]"
+- "[[H4908]]"
+- "[[H6235]]"
+- "[[H3407]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H9002]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H3742]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:8**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every wise hearted man among them that wrought the work of the tabernacle made ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work made he them.
 <small><sub>**BSB:**</sub></small>
 All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעֲשׂ֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H2450\|חֲכַם]][[H9014\|־]] [[H3820A\|לֵ֜ב]] [[H9003\|בְּ]][[H6213J\|עֹשֵׂ֧י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H6235\|עֶ֣שֶׂר]] [[H3407\|יְרִיעֹ֑ת]] [[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֗ר]] [[H9002\|וּ]][[H8504\|תְכֵ֤לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָן֙]] [[H9002\|וְ]][[H8438B\|תוֹלַ֣עַת]] [[H8144\|שָׁנִ֔י]] [[H3742\|כְּרֻבִ֛ים]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵׁ֖ב]] [[H6213A\|עָשָׂ֥ה]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COLORS|COLORS]] • [[topic CURTAINS|CURTAINS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.7|<< Exodus 36:7]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.9|Exodus 36:9 >>]]</td></tr></table>
 

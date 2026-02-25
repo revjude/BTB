@@ -1,8 +1,53 @@
+---
+title: Numbers 31:5
+type: Verse
+kjv: "So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war."
+bsb: "So a thousand men were recruited from each tribe of Israel—twelve thousand armed for war."
+hebrew: "וַיִּמָּֽסְרוּ֙ מֵאַלְפֵ֣י יִשְׂרָאֵ֔ל אֶ֖לֶף לַמַּטֶּ֑ה שְׁנֵים־ עָשָׂ֥ר אֶ֖לֶף חֲלוּצֵ֥י צָבָֽא׃"
+pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H4560]]"
+- "[[H9006]]"
+- "[[H0505G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2502B]]"
+- "[[H6635H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:5**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So there were delivered out of the thousands of Israel, a thousand of [every] tribe, twelve thousand armed for war.
 <small><sub>**BSB:**</sub></small>
 So a thousand men were recruited from each tribe of Israel—twelve thousand armed for war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4560\|יִּמָּֽסְרוּ֙]] [[H9006\|מֵ]][[H0505G\|אַלְפֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0505G\|אֶ֖לֶף]] [[H9005\|לַ]][[H4294H\|מַּטֶּ֑ה]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֖לֶף]] [[H2502B\|חֲלוּצֵ֥י]] [[H6635H\|צָבָֽא]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.4|<< Numbers 31:4]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.6|Numbers 31:6 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Numbers 27:12
+type: Verse
+kjv: "And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel."
+bsb: "Then the LORD said to Moses, “Go up this mountain of the Abarim range and see the land that I have given the Israelites."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה עֲלֵ֛ה אֶל־ הַ֥ר הָעֲבָרִ֖ים הַזֶּ֑ה וּרְאֵה֙ אֶת־ הָאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.27.12 Moses Requests a Successor|Moses Requests a Successor]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5927G]]"
+- "[[H2022G]]"
+- "[[H9009]]"
+- "[[H5682]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:12**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Go up this mountain of the Abarim range and see the land that I have given the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H5927G\|עֲלֵ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H5682\|עֲבָרִ֖ים]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וּ]][[H7200G\|רְאֵה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.11|<< Numbers 27:11]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.13|Numbers 27:13 >>]]</td></tr></table>
 

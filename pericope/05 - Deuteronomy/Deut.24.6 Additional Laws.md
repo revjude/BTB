@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Additional Laws
+type: Pericope
 pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 24
 book/chapter: "[[Deut.24|Deuteronomy 24]]"
-genre:
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 17
 verses:
 - "[[Deut.24.6]]"
 - "[[Deut.24.7]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Deut.24.22]]"
 ---
 
-[[Deut.24|Deuteronomy 24:6 - Deuteronomy 24:22]]
+<small>[[Deut.24|Deuteronomy 24:6-22]]</small>
 *Additional Laws*
 
 [[Deut.24.6|6]] No man shall take the nether or the upper millstone to pledge: for he taketh \[a man’s\] life to pledge.

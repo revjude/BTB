@@ -1,10 +1,57 @@
+---
+title: Acts 2:32
+type: Verse
+kjv: "This Jesus hath God raised up, whereof we all are witnesses."
+bsb: "God has raised this Jesus to life, to which we are all witnesses."
+greek: "τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ θεός, οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0450]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3144]]"
+texts:
+- NKO
+---
+
 **Acts 2:32**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This Jesus hath God raised up, whereof we all are witnesses.
 <small><sub>**BSB:**</sub></small>
 God has raised this Jesus to life, to which we are all witnesses.
-<small><sub>**Literal:**</sub></small>
-This <the> Jesus has raised up <the> God, of which all we ourselves are witnesses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.31|<< Acts 2:31]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.33|Acts 2:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G0450\|ἀνέστησεν]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3739\|οὗ]]  [[G3956\|πάντες]]  [[G3165\|ἡμεῖς]]  [[G1510\|ἐσμεν]]  [[G3144\|μάρτυρες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.31|<< Acts 2:31]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.33|Acts 2:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

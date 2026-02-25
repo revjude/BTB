@@ -1,10 +1,63 @@
+---
+title: Luke 7:28
+type: Verse
+kjv: "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+bsb: "I tell you, among those born of women there is no one greater than John, yet even the least in the kingdom of God is greater than he.”"
+jesus_said: "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+greek: "Λέγω γὰρ ὑμῖν· μείζων ἐν γεννητοῖς γυναικῶν προφήτης τοῦ Ἰωάννου οὐδείς ἐστιν. ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τοῦ θεοῦ μείζων αὐτοῦ ἐστιν."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G1084]]"
+- "[[G1135G]]"
+- "[[G4396]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3398]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- KO
+- N(K)O
+---
+
 **Luke 7:28**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.
 <small><sub>**BSB:**</sub></small>
 I tell you, among those born of women there is no one greater than John, yet even the least in the kingdom of God is greater than he.”
-<small><sub>**Literal:**</sub></small>
-I say for to you; a greater among [those] born of women prophet <the> than John no [one] is. <the> yet the least in the kingdom <the> of God greater than he is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.27|<< Luke 7:27]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.29|Luke 7:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν·]]  [[G3173\|μείζων]]  [[G1722\|ἐν]]  [[G1084\|γεννητοῖς]]  [[G1135G\|γυναικῶν]]  [[G4396\|προφήτης]]  [[G3588\|τοῦ]]  [[G2491G\|Ἰωάννου]]  [[G3762\|οὐδείς]]  [[G1510\|ἐστιν.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3398\|μικρότερος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3173\|μείζων]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.27|<< Luke 7:27]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.29|Luke 7:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

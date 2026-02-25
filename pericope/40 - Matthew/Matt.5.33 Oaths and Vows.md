@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Oaths and Vows
+type: Pericope
 pericope: "[[Matt.5.33 Oaths and Vows|Oaths and Vows]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 5
 book/chapter: "[[Matt.5|Matthew 5]]"
-genre:
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.5.33]]"
 - "[[Matt.5.34]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.5.37]]"
 ---
 
-[[Matt.5|Matthew 5:33 - Matthew 5:37]]
+<small>[[Matt.5|Matthew 5:33-37]]</small>
 *Oaths and Vows*
 
 [[Matt.5.33|33]] Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:

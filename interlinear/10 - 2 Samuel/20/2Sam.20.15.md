@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 20:15
+type: Verse
+kjv: "And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that were with Joab battered the wall, to throw it down."
+bsb: "And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city. As all the troops with Joab were battering the wall to topple it,"
+hebrew: "וַיָּבֹ֜אוּ וַיָּצֻ֣רוּ עָלָ֗יו בְּאָבֵ֙לָה֙ בֵּ֣ית הַֽמַּעֲכָ֔ה וַיִּשְׁפְּכ֤וּ סֹֽלְלָה֙ אֶל־ הָעִ֔יר וַֽתַּעֲמֹ֖ד בַּחֵ֑ל וְכָל־ הָעָם֙ אֲשֶׁ֣ר אֶת־ יוֹאָ֔ב מַשְׁחִיתִ֖ם לְהַפִּ֥יל הַחוֹמָֽה׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic BATTERING-RAM|BATTERING-RAM]]"
+- "[[topic BETH-MAACHAH|BETH-MAACHAH]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H6696A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0062]]"
+- "[[H9011]]"
+- "[[H9009]]"
+- "[[H8210I]]"
+- "[[H5550]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H5975G]]"
+- "[[H2426]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H3097G]]"
+- "[[H7843]]"
+- "[[H9005]]"
+- "[[H5307G]]"
+- "[[H2346G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:15**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that [were] with Joab battered the wall, to throw it down.
 <small><sub>**BSB:**</sub></small>
 And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city. As all the troops with Joab were battering the wall to topple it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H9001\|וַ]][[H6696A\|יָּצֻ֣רוּ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9003\|בְּ]][[H0062\|אָבֵ֙לָ]][[H9011\|ה֙]] [[H0062\|בֵּ֣ית]] [[H9009\|הַֽ]][[H0062\|מַּעֲכָ֔ה]] [[H9001\|וַ]][[H8210I\|יִּשְׁפְּכ֤וּ]] [[H5550\|סֹֽלְלָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֖ד]] [[H9003\|בַּ]][[H2426\|חֵ֑ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אֶת]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H7843\|מַשְׁחִיתִ֖ם]] [[H9005\|לְ]][[H5307G\|הַפִּ֥יל]] [[H9009\|הַ]][[H2346G\|חוֹמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic BATTERING-RAM|BATTERING-RAM]] • [[topic BETH-MAACHAH|BETH-MAACHAH]] • [[topic SIEGE|SIEGE]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.14|<< 2 Samuel 20:14]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.16|2 Samuel 20:16 >>]]</td></tr></table>
 

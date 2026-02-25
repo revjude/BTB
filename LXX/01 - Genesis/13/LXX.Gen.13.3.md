@@ -1,6 +1,65 @@
+---
+title: LXX Genesis 13:3
+type: Verse
+lxx: "And he went from where he came into the wilderness, unto Beth-el, unto the place where his tent formerly was, between Beth-el and between Hai;"
+greek: "και επορεύθη όθεν ήλθεν εις την έρημον έως Βαιθήλ έως του τόπου ου ην η σκηνή αυτού το πρότερον αναμέσον Βαιθήλ και αναμέσον Αγγε"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HAI|HAI]]"
+- "[[topic LOT|LOT]]"
+strongs:
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G3606]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G2193]]"
+- "[[H1008]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4387]]"
+- "[[G6271]]"
+- "[[H1008]]"
+- "[[G2532]]"
+- "[[G6271]]"
+- "[[H5857]]"
+---
+
 **LXX Genesis 13:3** 
 <small><sub>**LXX:**</sub></small>
 And he went from where he came into the wilderness, unto Beth-el, unto the place where his tent formerly was, between Beth-el and between Hai; 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4198\|επορεύθη]] [[G3606\|όθεν]] [[G2064\|ήλθεν]] [[G1519\|εις]] [[G3588\|την]] [[G2048\|έρημον]] [[G2193\|έως]] [[H1008\|Βαιθήλ]] [[G2193\|έως]] [[G3588\|του]] [[G5117\|τόπου]] [[G3739\|ου]] [[G1510\|ην]] [[G3588\|η]] [[G4633\|σκηνή]] [[G1473\|αυτού]] [[G3588\|το]] [[G4387\|πρότερον]] [[G6271\|αναμέσον]] [[H1008\|Βαιθήλ]] [[G2532\|και]] [[G6271\|αναμέσον]] [[H5857\|Αγγε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic FAMILY|FAMILY]] • [[topic HAI|HAI]] • [[topic LOT|LOT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
@@ -29,6 +88,6 @@ And he went from where he came into the wilderness, unto Beth-el, unto the place
 | and | **<big>[[G2532\|και]]</big>** |
 | between | **<big>[[G6271\|αναμέσον]]</big>** |
 | Hai; | **<big>[[H5857\|Αγγε]]</big>** |
-[[Gen.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
 

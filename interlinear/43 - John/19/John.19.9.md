@@ -1,10 +1,61 @@
+---
+title: John 19:9
+type: Verse
+kjv: "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer."
+bsb: "and he went back into the Praetorium. “Where are You from?” he asked. But Jesus gave no answer."
+greek: "καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRETORIUM|PRETORIUM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4232]]"
+- "[[G3825]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0612]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 19:9**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
 <small><sub>**BSB:**</sub></small>
 and he went back into the Praetorium. “Where are You from?” he asked. But Jesus gave no answer.
-<small><sub>**Literal:**</sub></small>
-And he went into the Praetorium again and he says <the> to Jesus; From where are You yourself? <the> But Jesus an answer not did give to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.8|<< John 19:8]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.10|John 19:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4232\|πραιτώριον]]  [[G3825\|πάλιν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ·]]  [[G4159\|πόθεν]]  [[G1510\|εἶ]]  [[G4771\|σύ;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0612\|ἀπόκρισιν]]  [[G3756\|οὐκ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRETORIUM|PRETORIUM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.8|<< John 19:8]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.10|John 19:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,56 @@
+---
+title: Luke 20:38
+type: Verse
+kjv: "For he is not a God of the dead, but of the living: for all live unto him."
+bsb: "He is not the God of the dead, but of the living, for to Him all are alive.”"
+jesus_said: "For he is not a God of the dead, but of the living: for all live unto him."
+greek: "θεὸς δὲ οὐκ ἔστιν νεκρῶν ἀλλὰ ζώντων· πάντες γὰρ αὐτῷ ζῶσιν.¶"
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G2316]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3498]]"
+- "[[G0235]]"
+- "[[G2198]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 20:38**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he is not a God of the dead, but of the living: for all live unto him.
 <small><sub>**BSB:**</sub></small>
 He is not the God of the dead, but of the living, for to Him all are alive.”
-<small><sub>**Literal:**</sub></small>
-God now not He is of [the] dead but of [the] living; all for to Him live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.37|<< Luke 20:37]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.39|Luke 20:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2316\|θεὸς]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3498\|νεκρῶν]]  [[G0235\|ἀλλὰ]]  [[G2198\|ζώντων·]]  [[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῷ]]  [[G2198\|ζῶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.37|<< Luke 20:37]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.39|Luke 20:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

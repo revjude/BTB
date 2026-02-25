@@ -1,8 +1,68 @@
+---
+title: Genesis 49:11
+type: Verse
+kjv: "Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:"
+bsb: "He ties his donkey to the vine, his colt to the choicest branch. He washes his garments in wine, his robes in the blood of grapes."
+hebrew: "אֹסְרִ֤י לַגֶּ֙פֶן֙ עִיר֔וֹ וְלַשֹּׂרֵקָ֖ה בְּנִ֣י אֲתֹנ֑וֹ כִּבֵּ֤ס בַּיַּ֙יִן֙ לְבֻשׁ֔וֹ וּבְדַם־ עֲנָבִ֖ים סוּתֽוֹ׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H0631]]"
+- "[[H9005]]"
+- "[[H1612]]"
+- "[[H5895]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8321B]]"
+- "[[H1121H]]"
+- "[[H0860]]"
+- "[[H3526H]]"
+- "[[H9003]]"
+- "[[H3196]]"
+- "[[H3830]]"
+- "[[H1818]]"
+- "[[H9014]]"
+- "[[H6025]]"
+- "[[H5497]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 49:11**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Binding his foal unto the vine, and his ass’s colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
 <small><sub>**BSB:**</sub></small>
 He ties his donkey to the vine, his colt to the choicest branch. He washes his garments in wine, his robes in the blood of grapes.
+<small><sub>**Hebrew:**</sub></small>
+[[H0631\|אֹסְרִ֤י]] [[H9005\|לַ]][[H1612\|גֶּ֙פֶן֙]] [[H5895\|עִיר֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|לַ]][[H8321B\|שֹּׂרֵקָ֖ה]] [[H1121H\|בְּנִ֣י]] [[H0860\|אֲתֹנ֑]][[H9023\|וֹ]] [[H3526H\|כִּבֵּ֤ס]] [[H9003\|בַּ]][[H3196\|יַּ֙יִן֙]] [[H3830\|לְבֻשׁ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H1818\|דַם]][[H9014\|־]] [[H6025\|עֲנָבִ֖ים]] [[H5497\|סוּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]] • [[topic PARENTS|PARENTS]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.10|<< Genesis 49:10]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.12|Genesis 49:12 >>]]</td></tr></table>
 
@@ -22,10 +82,10 @@ He ties his donkey to the vine, his colt to the choicest branch. He washes his g
 | robe his  [^5]|**<big>&#8207;[[H5497\|סוּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | su.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.10|<< Genesis 49:10]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.12|Genesis 49:12 >>]]</td></tr></table>
 
-[^1]: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: donkey his  | **<big>[[H5895|עִירֹ]]</big><big>[[H9023|ה]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: donkey his  | **<big>[[H5895|עִירֹ]]</big><big>[[H9023|ה]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עִירֹ֔ה</big></span>**
-[^4]: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^5]: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: robe his  | **<big>[[H5497|סוּתֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: robe his  | **<big>[[H5497|סוּתֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>סוּתֹֽה\׃</big></span>**
 

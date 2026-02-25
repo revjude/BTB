@@ -1,10 +1,51 @@
+---
+title: Mark 15:28
+type: Verse
+kjv: "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+bsb: ""
+greek: "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα, καὶ μετὰ ἀνόμων ἐλογίσθη."
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3004G]]"
+- "[[G3326]]"
+- "[[G0459]]"
+- "[[G3049]]"
+texts:
+- K
+---
+
 **Mark 15:28**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-and was fulfilled <the> scripture which is saying And with [the] lawless was credited.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.27|<< Mark 15:27]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.29|Mark 15:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4137\|ἐπληρώθη]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G3588\|ἡ]]  [[G3004G\|λέγουσα,]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G0459\|ἀνόμων]]  [[G3049\|ἐλογίσθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.27|<< Mark 15:27]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.29|Mark 15:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 15:28** is...
 > $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]

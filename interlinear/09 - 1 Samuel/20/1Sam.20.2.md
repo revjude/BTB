@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 20:2
+type: Verse
+kjv: "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so."
+bsb: "“Far from it!” Jonathan replied. “You will not die. Indeed, my father does nothing, great or small, without telling me. So why would he hide this matter from me? This cannot be true!”"
+hebrew: "וַיֹּ֨אמֶר ל֣וֹ חָלִילָה֮ לֹ֣א תָמוּת֒ הִנֵּ֡ה לֹֽא־ יַעֲשֶׂ֨ה אָבִ֜י דָּבָ֣ר גָּד֗וֹל א֚וֹ דָּבָ֣ר קָטֹ֔ן וְלֹ֥א יִגְלֶ֖ה אֶת־ אָזְנִ֑י וּמַדּוּעַ֩ יַסְתִּ֨יר אָבִ֥י מִמֶּ֛נִּי אֶת־ הַדָּבָ֥ר הַזֶּ֖ה אֵ֥ין זֹֽאת׃"
+pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2486]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H1697I]]"
+- "[[H1419A]]"
+- "[[H0176A]]"
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H1540H]]"
+- "[[H0853]]"
+- "[[H0241I]]"
+- "[[H4069]]"
+- "[[H5641]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0369]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 20:2**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it [is] not [so].
 <small><sub>**BSB:**</sub></small>
 “Far from it!” Jonathan replied. “You will not die. Indeed, my father does nothing, great or small, without telling me. So why would he hide this matter from me? This cannot be true!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H2486\|חָלִילָה֮]] [[H3808\|לֹ֣א]] [[H4191\|תָמוּת֒]] [[H2009\|הִנֵּ֡ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֨ה]] [[H0001G\|אָבִ֜]][[H9020\|י]] [[H1697I\|דָּבָ֣ר]] [[H1419A\|גָּד֗וֹל]] [[H0176A\|א֚וֹ]] [[H1697I\|דָּבָ֣ר]] [[H6996B\|קָטֹ֔ן]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1540H\|יִגְלֶ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0241I\|אָזְנִ֑]][[H9020\|י]] [[H9002\|וּ]][[H4069\|מַדּוּעַ֩]] [[H5641\|יַסְתִּ֨יר]] [[H0001G\|אָבִ֥]][[H9020\|י]] [[H4480A\|מִמֶּ֛]][[H9030\|נִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0369\|אֵ֥ין]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.1|<< 1 Samuel 20:1]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.3|1 Samuel 20:3 >>]]</td></tr></table>
 
@@ -37,7 +99,7 @@ And he said unto him, God forbid; thou shalt not die: behold, my father will do 
 | [is] this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.1|<< 1 Samuel 20:1]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.3|1 Samuel 20:3 >>]]</td></tr></table>
 
-[^1]: to him  | **<big>[[H9014|־]]</big><big>[[H9033|וֹ]]</big><big>[[H9005|ל]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: to him  | **<big>[[H9005|ל]]</big><big>[[H9033|וֹ]]</big><big>[[H9014|־]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>לֽוֹ\־</big></span>**
 [^3]: he has done  | **<big>[[H6213A|עָשָׂה]]</big> ** | 'a.sah<small><sup>[[HVqp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>ַעֲשֶׂ֨ה</big></span>**

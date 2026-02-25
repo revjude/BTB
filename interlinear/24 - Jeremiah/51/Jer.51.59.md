@@ -1,8 +1,78 @@
+---
+title: Jeremiah 51:59
+type: Verse
+kjv: "The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And this Seraiah was a quiet prince."
+bsb: "This is the message that Jeremiah the prophet gave to the quartermaster Seraiah son of Neriah, the son of Mahseiah, when he went to Babylon with King Zedekiah of Judah in the fourth year of Zedekiah’s reign."
+hebrew: "הַדָּבָ֞ר אֲשֶׁר־ צִוָּ֣ה׀ יִרְמְיָ֣הוּ הַנָּבִ֗יא אֶת־ שְׂרָיָ֣ה בֶן־ נֵרִיָּה֮ בֶּן־ מַחְסֵיָה֒ בְּלֶכְתּ֞וֹ אֶת־ צִדְקִיָּ֤הוּ מֶֽלֶךְ־ יְהוּדָה֙ בָּבֶ֔ל בִּשְׁנַ֥ת הָרְבִעִ֖ית לְמָלְכ֑וֹ וּשְׂרָיָ֖ה שַׂ֥ר מְנוּחָֽה׃"
+pericope: "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H9015]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H0853]]"
+- "[[H8304N]]"
+- "[[H1121A]]"
+- "[[H5374]]"
+- "[[H4271]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9043]]"
+- "[[H0854]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0894]]"
+- "[[H8141]]"
+- "[[H7243]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H4496H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:59**<big><big>[[Jer.51.59 Jeremiah’s Message to Seraiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And [this] Seraiah [was] a quiet prince.
 <small><sub>**BSB:**</sub></small>
 This is the message that Jeremiah the prophet gave to the quartermaster Seraiah son of Neriah, the son of Mahseiah, when he went to Babylon with King Zedekiah of Judah in the fourth year of Zedekiah’s reign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֞ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֣ה]][[H9015\|׀]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H0853\|אֶת]][[H9014\|־]] [[H8304N\|שְׂרָיָ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H5374\|נֵרִיָּה֮]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4271\|מַחְסֵיָה֒]] [[H9003\|בְּ]][[H1980G\|לֶכְתּ֞]][[H9043\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֤הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H0894\|בָּבֶ֔ל]] [[H9003\|בִּ]][[H8141\|שְׁנַ֥ת]] [[H9009\|הָ]][[H7243\|רְבִעִ֖ית]] [[H9005\|לְ]][[H4427A\|מָלְכ֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H8304N\|שְׂרָיָ֖ה]] [[H8269\|שַׂ֥ר]] [[H4496H\|מְנוּחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic PERSIA|PERSIA]] • [[topic SERAIAH|SERAIAH]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.58|<< Jeremiah 51:58]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.60|Jeremiah 51:60 >>]]</td></tr></table>
 

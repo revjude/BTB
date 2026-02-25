@@ -1,8 +1,74 @@
+---
+title: Exodus 12:4
+type: Verse
+kjv: "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb."
+bsb: "If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly."
+hebrew: "וְאִם־ יִמְעַ֣ט הַבַּיִת֮ מִהְיֹ֣ת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־ בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אָכְל֔וֹ תָּכֹ֖סּוּ עַל־ הַשֶּֽׂה׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4591]]"
+- "[[H9009]]"
+- "[[H1004M]]"
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H7716]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1931]]"
+- "[[H7934]]"
+- "[[H9023]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9003]]"
+- "[[H4373]]"
+- "[[H5315J]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H0400]]"
+- "[[H3699]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:4**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the household be too little for the lamb, let him and his neighbour next unto his house take [it] according to the number of the souls; every man according to his eating shall make your count for the lamb.
 <small><sub>**BSB:**</sub></small>
 If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4591\|יִמְעַ֣ט]] [[H9009\|הַ]][[H1004M\|בַּיִת֮]] [[H9006\|מִ]][[H1961\|הְיֹ֣ת]] [[H9006\|מִ]][[H7716\|שֶּׂה֒]] [[H9001\|וְ]][[H3947G\|לָקַ֣ח]] [[H1931\|ה֗וּא]] [[H9002\|וּ]][[H7934\|שְׁכֵנ֛]][[H9023\|וֹ]] [[H9009\|הַ]][[H7138\|קָּרֹ֥ב]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H4373\|מִכְסַ֣ת]] [[H5315J\|נְפָשֹׁ֑ת]] [[H0376I\|אִ֚ישׁ]] [[H9005\|לְ]][[H6310K\|פִ֣י]] [[H0400\|אָכְל֔]][[H9023\|וֹ]] [[H3699\|תָּכֹ֖סּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7716\|שֶּֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.3|<< Exodus 12:3]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.5|Exodus 12:5 >>]]</td></tr></table>
 

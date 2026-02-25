@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 32:22
+type: Verse
+kjv: "Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side."
+bsb: "So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Sennacherib of Assyria and all others, and He gave them rest on every side."
+hebrew: "וַיּוֹשַׁע֩ יְהוָ֨ה אֶת־ יְחִזְקִיָּ֜הוּ וְאֵ֣ת׀ יֹשְׁבֵ֣י יְרוּשָׁלִַ֗ם מִיַּ֛ד סַנְחֵרִ֥יב מֶֽלֶךְ־ אַשּׁ֖וּר וּמִיַּד־ כֹּ֑ל וַֽיְנַהֲלֵ֖ם מִסָּבִֽיב׃"
+pericope: "[[2Chr.32.20 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H5576]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H3605]]"
+- "[[H5095]]"
+- "[[H9038]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:22**<big><big>[[2Chr.32.20 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all [other], and guided them on every side.
 <small><sub>**BSB:**</sub></small>
 So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Sennacherib of Assyria and all others, and He gave them rest on every side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3467\|יּוֹשַׁע֩]] [[H3068G\|יְהוָ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2396G\|יְחִזְקִיָּ֜הוּ]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9006\|מִ]][[H3027H\|יַּ֛ד]] [[H5576\|סַנְחֵרִ֥יב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֖וּר]] [[H9002\|וּ]][[H9006\|מִ]][[H3027H\|יַּד]][[H9014\|־]] [[H3605\|כֹּ֑ל]] [[H9001\|וַֽ]][[H5095\|יְנַהֲלֵ֖]][[H9038\|ם]] [[H9006\|מִ]][[H5439H\|סָּבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.21|<< 2 Chronicles 32:21]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.23|2 Chronicles 32:23 >>]]</td></tr></table>
 

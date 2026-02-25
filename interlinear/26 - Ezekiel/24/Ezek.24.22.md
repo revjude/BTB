@@ -1,8 +1,59 @@
+---
+title: Ezekiel 24:22
+type: Verse
+kjv: "And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men."
+bsb: "Then you will do as I have done: You will not cover your lips or eat the bread of mourners."
+hebrew: "וַעֲשִׂיתֶ֖ם כַּאֲשֶׁ֣ר עָשִׂ֑יתִי עַל־ שָׂפָם֙ לֹ֣א תַעְט֔וּ וְלֶ֥חֶם אֲנָשִׁ֖ים לֹ֥א תֹאכֵֽלוּ׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8222]]"
+- "[[H3808]]"
+- "[[H5844A]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H0582]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:22**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall do as I have done: ye shall not cover [your] lips, nor eat the bread of men.
 <small><sub>**BSB:**</sub></small>
 Then you will do as I have done: You will not cover your lips or eat the bread of mourners.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֖ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֑יתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H8222\|שָׂפָם֙]] [[H3808\|לֹ֣א]] [[H5844A\|תַעְט֔וּ]] [[H9002\|וְ]][[H3899H\|לֶ֥חֶם]] [[H0582\|אֲנָשִׁ֖ים]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.21|<< Ezekiel 24:21]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.23|Ezekiel 24:23 >>]]</td></tr></table>
 

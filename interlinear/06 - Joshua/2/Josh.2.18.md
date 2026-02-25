@@ -1,8 +1,72 @@
+---
+title: Joshua 2:18
+type: Verse
+kjv: "Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee."
+bsb: "unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your family into your house."
+hebrew: "הִנֵּ֛ה אֲנַ֥חְנוּ בָאִ֖ים בָּאָ֑רֶץ אֶת־ תִּקְוַ֡ת חוּט֩ הַשָּׁנִ֨י הַזֶּ֜ה תִּקְשְׁרִ֗י בַּֽחַלּוֹן֙ אֲשֶׁ֣ר הוֹרַדְתֵּ֣נוּ ב֔וֹ וְאֶת־ אָבִ֨יךְ וְאֶת־ אִמֵּ֜ךְ וְאֶת־ אַחַ֗יִךְ וְאֵת֙ כָּל־ בֵּ֣ית אָבִ֔יךְ תַּאַסְפִ֥י אֵלַ֖יִךְ הַבָּֽיְתָה׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H2009]]"
+- "[[H0587]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8615A]]"
+- "[[H2339]]"
+- "[[H9009]]"
+- "[[H8144]]"
+- "[[H2088]]"
+- "[[H7194]]"
+- "[[H2474]]"
+- "[[H0834A]]"
+- "[[H3381]]"
+- "[[H9035]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9022]]"
+- "[[H0517]]"
+- "[[H0251G]]"
+- "[[H3605]]"
+- "[[H1004B]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:18**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [when] we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
 <small><sub>**BSB:**</sub></small>
 unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your family into your house.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H0587\|אֲנַ֥חְנוּ]] [[H0935G\|בָאִ֖ים]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H8615A\|תִּקְוַ֡ת]] [[H2339\|חוּט֩]] [[H9009\|הַ]][[H8144\|שָּׁנִ֨י]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H7194\|תִּקְשְׁרִ֗י]] [[H9003\|בַּֽ]][[H2474\|חַלּוֹן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3381\|הוֹרַדְתֵּ֣]][[H9035\|נוּ]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֨י]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמֵּ֜]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אַחַ֗יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9022\|ךְ]] [[H0622\|תַּאַסְפִ֥י]] [[H0413\|אֵלַ֖יִ]][[H9032\|ךְ]] [[H9009\|הַ]][[H1004B\|בָּֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.17|<< Joshua 2:17]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.19|Joshua 2:19 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 29:5
+type: Verse
+kjv: "And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot."
+bsb: "For forty years I led you in the wilderness, yet your clothes and sandals did not wear out."
+hebrew: "וָאוֹלֵ֥ךְ אֶתְכֶ֛ם אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לֹֽא־ בָל֤וּ שַׂלְמֹֽתֵיכֶם֙ מֵעֲלֵיכֶ֔ם וְנַֽעַלְךָ֥ לֹֽא־ בָלְתָ֖ה מֵעַ֥ל רַגְלֶֽךָ׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CLOTHING|CLOTHING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHOE|SHOE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1086]]"
+- "[[H8008]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H5275]]"
+- "[[H9021]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:5**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot.
 <small><sub>**BSB:**</sub></small>
 For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1980J\|אוֹלֵ֥ךְ]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H0705\|אַרְבָּעִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1086\|בָל֤וּ]] [[H8008\|שַׂלְמֹֽתֵי]][[H9026\|כֶם֙]] [[H9006\|מֵ]][[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H5275\|נַֽעַלְ]][[H9021\|ךָ֥]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1086\|בָלְתָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H7272\|רַגְלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CLOTHING|CLOTHING]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic SHOE|SHOE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.4|<< Deuteronomy 29:4]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.6|Deuteronomy 29:6 >>]]</td></tr></table>
 

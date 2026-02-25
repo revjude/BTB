@@ -1,8 +1,56 @@
+---
+title: Genesis 37:15
+type: Verse
+kjv: "And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?"
+bsb: "a man found him wandering in the field and asked, “What are you looking for?”"
+hebrew: "וַיִּמְצָאֵ֣הוּ אִ֔ישׁ וְהִנֵּ֥ה תֹעֶ֖ה בַּשָּׂדֶ֑ה וַיִּשְׁאָלֵ֧הוּ הָאִ֛ישׁ לֵאמֹ֖ר מַה־ תְּבַקֵּֽשׁ׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8582]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H7592]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:15**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a certain man found him, and, behold, [he was] wandering in the field: and the man asked him, saying, What seekest thou?
 <small><sub>**BSB:**</sub></small>
 a man found him wandering in the field and asked, “What are you looking for?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|יִּמְצָאֵ֣]][[H9033\|הוּ]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H8582\|תֹעֶ֖ה]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֑ה]] [[H9001\|וַ]][[H7592\|יִּשְׁאָלֵ֧]][[H9033\|הוּ]] [[H9009\|הָ]][[H0376G\|אִ֛ישׁ]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H4100\|מַה]][[H9014\|־]] [[H1245\|תְּבַקֵּֽשׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.14|<< Genesis 37:14]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.16|Genesis 37:16 >>]]</td></tr></table>
 

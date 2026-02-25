@@ -1,10 +1,71 @@
+---
+title: Luke 8:43
+type: Verse
+kjv: "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,"
+bsb: "including a woman who had suffered from bleeding for twelve years. She had spent all her money on physicians, but no one was able to heal her."
+greek: "Καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα, ἥτις εἰς ἰατροῖς προσαναλώσασα ὅλον τὸν βίον αὐτῆς οὐκ ἴσχυσεν ἀπ᾽ οὐδενὸς θεραπευθῆναι,"
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEMORRHAGE|HEMORRHAGE]]"
+- "[[topic ISSUE OF BLOOD|ISSUE OF BLOOD]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4511]]"
+- "[[G0129G]]"
+- "[[G0575]]"
+- "[[G2094]]"
+- "[[G1427]]"
+- "[[G3748]]"
+- "[[G1519]]"
+- "[[G2395]]"
+- "[[G4321]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G0979]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G3762]]"
+- "[[G2323]]"
+texts:
+- NKO
+- k
+- N(k)O
+- ko
+---
+
 **Luke 8:43**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,
 <small><sub>**BSB:**</sub></small>
 including a woman who had suffered from bleeding for twelve years. She had spent all her money on physicians, but no one was able to heal her.
-<small><sub>**Literal:**</sub></small>
-And a woman being with a flux of blood for years twelve, who into on physicians having spent all the living of her neither was able by no [one] to be healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.42|<< Luke 8:42]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.44|Luke 8:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1135G\|γυνὴ]]  [[G1510\|οὖσα]]  [[G1722\|ἐν]]  [[G4511\|ῥύσει]]  [[G0129G\|αἵματος]]  [[G0575\|ἀπὸ]]  [[G2094\|ἐτῶν]]  [[G1427\|δώδεκα,]]  [[G3748\|ἥτις]]  [[G1519\|εἰς]]  [[G2395\|ἰατροῖς]]  [[G4321\|προσαναλώσασα]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G0979\|βίον]]  [[G0846\|αὐτῆς]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυσεν]]  [[G0575\|ἀπ᾽]]  [[G3762\|οὐδενὸς]]  [[G2323\|θεραπευθῆναι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HEMORRHAGE|HEMORRHAGE]] • [[topic ISSUE OF BLOOD|ISSUE OF BLOOD]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PHYSICIAN|PHYSICIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.42|<< Luke 8:42]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.44|Luke 8:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

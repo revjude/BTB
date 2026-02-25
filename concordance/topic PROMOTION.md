@@ -9,7 +9,7 @@
 
 - Abraham  [[Gen.12.2|Ge 12:2]]
 
-- Joseph, from imprisoned slave to prince [[Gen.41.1|Ge 41:1]]-[[Gen.41.45|45]]
+- Joseph, from imprisoned slave to prince [[Gen.41.1|Ge 41:1-45]]
 
 - Moses, from exile to lawgiver
 
@@ -27,7 +27,7 @@
 
 - See [[topic DAVID|DAVID]]
 
-- Jeroboam, from a slave to the throne [[1Kgs.11.26|1Ki 11:26]]-[[1Kgs.11.35|35]]
+- Jeroboam, from a slave to the throne [[1Kgs.11.26|1Ki 11:26-35]]
 
 - Baasha, &#8220;out of the dust&#8221; to the throne [[1Kgs.16.1|1Ki 16:1]],[[1Kgs.16.2|2]]
 

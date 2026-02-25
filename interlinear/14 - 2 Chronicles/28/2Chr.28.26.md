@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 28:26
+type: Verse
+kjv: "Now the rest of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel."
+bsb: "As for the rest of the acts of Ahaz and all his ways, from beginning to end, they are indeed written in the Book of the Kings of Judah and Israel."
+hebrew: "וְיֶ֤תֶר דְּבָרָיו֙ וְכָל־ דְּרָכָ֔יו הָרִאשֹׁנִ֖ים וְהָאַחֲרוֹנִ֑ים הִנָּ֣ם כְּתוּבִ֔ים עַל־ סֵ֥פֶר מַלְכֵֽי־ יְהוּדָ֖ה וְיִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0314]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:26**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of his acts and of all his ways, first and last, behold, they [are] written in the book of the kings of Judah and Israel.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Ahaz and all his ways, from beginning to end, they are indeed written in the Book of the Kings of Judah and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֤תֶר]] [[H1697K\|דְּבָרָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָ֔י]][[H9023\|ו]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אַחֲרוֹנִ֑ים]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H4428G\|מַלְכֵֽי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.25|<< 2 Chronicles 28:25]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.27|2 Chronicles 28:27 >>]]</td></tr></table>
 

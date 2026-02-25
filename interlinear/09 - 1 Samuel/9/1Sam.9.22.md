@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 9:22
+type: Verse
+kjv: "And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which were about thirty persons."
+bsb: "Then Samuel took Saul and his servant, brought them into the hall, and seated them in the place of honor among those who were invited—about thirty in all."
+hebrew: "וַיִּקַּ֤ח שְׁמוּאֵל֙ אֶת־ שָׁא֣וּל וְאֶֽת־ נַעֲר֔וֹ וַיְבִיאֵ֖ם לִשְׁכָּ֑תָה וַיִּתֵּ֨ן לָהֶ֤ם מָקוֹם֙ בְּרֹ֣אשׁ הַקְּרוּאִ֔ים וְהֵ֖מָּה כִּשְׁלֹשִׁ֥ים אִֽישׁ׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PARLOR|PARLOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H3957]]"
+- "[[H9011]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9009]]"
+- "[[H7121G]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H7970]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:22**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which [were] about thirty persons.
 <small><sub>**BSB:**</sub></small>
 Then Samuel took Saul and his servant, brought them into the hall, and seated them in the place of honor among those who were invited—about thirty in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H8050G\|שְׁמוּאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֣וּל]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H5288\|נַעֲר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9038\|ם]] [[H3957\|לִשְׁכָּ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H4725\|מָקוֹם֙]] [[H9003\|בְּ]][[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H7121G\|קְּרוּאִ֔ים]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H9004\|כִּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic PARLOR|PARLOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.21|<< 1 Samuel 9:21]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.23|1 Samuel 9:23 >>]]</td></tr></table>
 

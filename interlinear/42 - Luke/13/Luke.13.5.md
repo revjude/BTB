@@ -1,10 +1,56 @@
+---
+title: Luke 13:5
+type: Verse
+kjv: "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+bsb: "No, I tell you. But unless you repent, you too will all perish.”"
+jesus_said: "I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+greek: "οὐχί, λέγω ὑμῖν, ἀλλ᾽ ἐὰν μὴ μετανοῆτε, πάντες ὡσαύτως ἀπολεῖσθε.¶"
+pericope: "[[Luke.13.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3780]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G3340]]"
+- "[[G3956]]"
+- "[[G5615]]"
+- "[[G0622]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Luke 13:5**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I tell you, Nay: but, except ye repent, ye shall all likewise perish.
 <small><sub>**BSB:**</sub></small>
 No, I tell you. But unless you repent, you too will all perish.”
-<small><sub>**Literal:**</sub></small>
-No, I say to you, but only unless you shall repent, all likewise you will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.4|<< Luke 13:4]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.6|Luke 13:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχί,]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν,]]  [[G0235\|ἀλλ᾽]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3340\|μετανοῆτε,]]  [[G3956\|πάντες]]  [[G5615\|ὡσαύτως]]  [[G0622\|ἀπολεῖσθε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.4|<< Luke 13:4]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.6|Luke 13:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

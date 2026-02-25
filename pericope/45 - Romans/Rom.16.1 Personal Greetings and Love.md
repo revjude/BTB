@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Personal Greetings and Love
+type: Pericope
 pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Romans
 chapter: 16
 book/chapter: "[[Rom.16|Romans 16]]"
-genre:
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 16
 verses:
 - "[[Rom.16.1]]"
 - "[[Rom.16.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Rom.16.16]]"
 ---
 
-[[Rom.16|Romans 16:1 - Romans 16:16]]
+<small>[[Rom.16|Romans 16:1-16]]</small>
 *Personal Greetings and Love*
 
 [[Rom.16.1|1]] I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:

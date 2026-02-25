@@ -1,8 +1,75 @@
+---
+title: Exodus 30:12
+type: Verse
+kjv: "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when thou numberest them."
+bsb: "“When you take a census of the Israelites to number them, each man must pay the LORD a ransom for his life when he is counted. Then no plague will come upon them when they are numbered."
+hebrew: "כִּ֣י תִשָּׂ֞א אֶת־ רֹ֥אשׁ בְּנֵֽי־ יִשְׂרָאֵ֘ל לִפְקֻדֵיהֶם֒ וְנָ֨תְנ֜וּ אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַיהוָ֖ה בִּפְקֹ֣ד אֹתָ֑ם וְלֹא־ יִהְיֶ֥ה בָהֶ֛ם נֶ֖גֶף בִּפְקֹ֥ד אֹתָֽם׃"
+pericope: "[[Exod.30.11 The Census Offering|The Census Offering]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5375V]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218L]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H5414N]]"
+- "[[H0376I]]"
+- "[[H3724A]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:12**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when [thou] numberest them.
 <small><sub>**BSB:**</sub></small>
 “When you take a census of the Israelites to number them, each man must pay the LORD a ransom for his life when he is counted. Then no plague will come upon them when they are numbered.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5375V\|תִשָּׂ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H7218L\|רֹ֥אשׁ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9005\|לִ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶם֒]] [[H9001\|וְ]][[H5414N\|נָ֨תְנ֜וּ]] [[H0376I\|אִ֣ישׁ]] [[H3724A\|כֹּ֧פֶר]] [[H5315H\|נַפְשׁ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9003\|בִּ]][[H6485A\|פְקֹ֣ד]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|בָ]][[H9038\|הֶ֛ם]] [[H5063\|נֶ֖גֶף]] [[H9003\|בִּ]][[H6485A\|פְקֹ֥ד]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CENSUS|CENSUS]] • [[topic MONEY|MONEY]] • [[topic RANSOM|RANSOM]] • [[topic RELIGION|RELIGION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.11|<< Exodus 30:11]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.13|Exodus 30:13 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 2 Kings 18:28
+type: Verse
+kjv: "Then Rabshakeh stood and cried with a loud voice in the Jews’ language, and spake, saying, Hear the word of the great king, the king of Assyria:"
+bsb: "Then the Rabshakeh stood and called out loudly in Hebrew: “Hear the word of the great king, the king of Assyria!"
+hebrew: "וַֽיַּעֲמֹד֙ רַב־ שָׁקֵ֔ה וַיִּקְרָ֥א בְקוֹל־ גָּד֖וֹל יְהוּדִ֑ית וַיְדַבֵּ֣ר וַיֹּ֔אמֶר שִׁמְע֛וּ דְּבַר־ הַמֶּ֥לֶךְ הַגָּד֖וֹל מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H7262]]"
+- "[[H9014]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H3066]]"
+- "[[H1696G]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:28**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Rabshakeh stood and cried with a loud voice in the Jews’ language, and spake, saying, Hear the word of the great king, the king of Assyria:
 <small><sub>**BSB:**</sub></small>
 Then the Rabshakeh stood and called out loudly in Hebrew: “Hear the word of the great king, the king of Assyria!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5975G\|יַּעֲמֹד֙]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֔ה]] [[H9001\|וַ]][[H7121I\|יִּקְרָ֥א]] [[H9003\|בְ]][[H6963A\|קוֹל]][[H9014\|־]] [[H1419A\|גָּד֖וֹל]] [[H3066\|יְהוּדִ֑ית]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H8085G\|שִׁמְע֛וּ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.27|<< 2 Kings 18:27]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.29|2 Kings 18:29 >>]]</td></tr></table>
 

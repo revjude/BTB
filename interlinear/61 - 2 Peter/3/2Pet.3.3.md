@@ -1,10 +1,64 @@
+---
+title: 2 Peter 3:3
+type: Verse
+kjv: "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,"
+bsb: "Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires."
+greek: "τοῦτο πρῶτον γινώσκοντες ὅτι ἐλεύσονται ἐπ᾽ ἐσχάτων τῶν ἡμερῶν ἐν ἐμπαιγμονῇ ἐμπαῖκται κατὰ τὰς ἰδίας ἐπιθυμίας αὐτῶν πορευόμενοι"
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LUST|LUST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[G3778]]"
+- "[[G4413G]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G2078]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G6032]]"
+- "[[G1703]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1939]]"
+- "[[G0846]]"
+- "[[G4198]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **2 Peter 3:3**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
 <small><sub>**BSB:**</sub></small>
 Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.
-<small><sub>**Literal:**</sub></small>
-this first knowing that they will come in [these] last of the days with scoffing scoffers according to <the> [their] own evil desires of them following<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.2|<< 2 Peter 3:2]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.4|2 Peter 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G4413G\|πρῶτον]]  [[G1097\|γινώσκοντες]]  [[G3754G\|ὅτι]]  [[G2064\|ἐλεύσονται]]  [[G1909\|ἐπ᾽]]  [[G2078\|ἐσχάτων]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G1722\|ἐν]]  [[G6032\|ἐμπαιγμονῇ]]  [[G1703\|ἐμπαῖκται]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G2398\|ἰδίας]]  [[G1939\|ἐπιθυμίας]]  [[G0846\|αὐτῶν]]  [[G4198\|πορευόμενοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LUST|LUST]] • [[topic MOCKING|MOCKING]] • [[topic SCOFFING|SCOFFING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.2|<< 2 Peter 3:2]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.4|2 Peter 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

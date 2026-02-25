@@ -1,8 +1,60 @@
+---
+title: Psalm 89:20
+type: Verse
+kjv: "I have found David my servant; with my holy oil have I anointed him:"
+bsb: "I have found My servant David; with My sacred oil I have anointed him."
+hebrew: "מָ֭צָאתִי דָּוִ֣ד עַבְדִּ֑י בְּשֶׁ֖מֶן קָדְשִׁ֣י מְשַׁחְתִּֽיו׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H4672]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H6944G]]"
+- "[[H4886]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:20**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have found David my servant; with my holy oil have I anointed him:
 <small><sub>**BSB:**</sub></small>
 I have found My servant David; with My sacred oil I have anointed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H4672\|מָ֭צָאתִי]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדִּ֑]][[H9020\|י]] [[H9003\|בְּ]][[H8081\|שֶׁ֖מֶן]] [[H6944G\|קָדְשִׁ֣]][[H9020\|י]] [[H4886\|מְשַׁחְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.19|<< Psalms 89:19]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.21|Psalms 89:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

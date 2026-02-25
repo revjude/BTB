@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparing the Ark
+type: Pericope
 pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 6
 book/chapter: "[[Gen.6|Genesis 6]]"
-genre:
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 10
 verses:
 - "[[Gen.6.13]]"
 - "[[Gen.6.14]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Gen.6.22]]"
 ---
 
-[[Gen.6|Genesis 6:13 - Genesis 6:22]]
+<small>[[Gen.6|Genesis 6:13-22]]</small>
 *Preparing the Ark*
 
 [[Gen.6.13|13]] And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.

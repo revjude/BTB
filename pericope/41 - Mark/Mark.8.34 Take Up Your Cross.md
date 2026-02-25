@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Take Up Your Cross
+type: Pericope
 pericope: "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 8
 book/chapter: "[[Mark.8|Mark 8]]"
-genre:
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.8.34]]"
 - "[[Mark.8.35]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.8.38]]"
 ---
 
-[[Mark.8|Mark 8:34 - Mark 8:38]]
+<small>[[Mark.8|Mark 8:34-38]]</small>
 *Take Up Your Cross*
 
 [[Mark.8.34|34]] And when he had called the people \[unto him\] with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.

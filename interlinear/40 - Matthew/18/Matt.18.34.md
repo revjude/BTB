@@ -1,10 +1,61 @@
+---
+title: Matthew 18:34
+type: Verse
+kjv: "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+bsb: "In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed."
+jesus_said: "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+greek: "Καὶ ὀργισθεὶς ὁ κύριος αὐτοῦ παρέδωκεν αὐτὸν τοῖς βασανισταῖς ἕως οὗ ἀποδῷ πᾶν τὸ ὀφειλόμενον αὐτῷ."
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3710]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G3860]]"
+- "[[G0930]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0591]]"
+- "[[G3956]]"
+- "[[G3784]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 18:34**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
 <small><sub>**BSB:**</sub></small>
 In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed.
-<small><sub>**Literal:**</sub></small>
-And having been angry the master of him delivered him to the jailers until that he may pay all which is being owed to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.33|<< Matthew 18:33]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.35|Matthew 18:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3710\|ὀργισθεὶς]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G3860\|παρέδωκεν]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῖς]]  [[G0930\|βασανισταῖς]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0591\|ἀποδῷ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G3784\|ὀφειλόμενον]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MALICE|MALICE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.33|<< Matthew 18:33]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.35|Matthew 18:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

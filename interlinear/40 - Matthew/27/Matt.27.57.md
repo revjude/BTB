@@ -1,10 +1,63 @@
+---
+title: Matthew 27:57
+type: Verse
+kjv: "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus’ disciple:"
+bsb: "When it was evening, there came a rich man from Arimathea named Joseph, who himself was a disciple of Jesus."
+greek: "Ὀψίας δὲ γενομένης ἦλθεν ἄνθρωπος πλούσιος ἀπὸ Ἁριμαθαίας, τοὔνομα Ἰωσήφ, ὃς καὶ αὐτὸς ἐμαθητεύθη τῷ Ἰησοῦ."
+pericope: "[[Matt.27.57 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARIMATHEA|ARIMATHEA]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G2064]]"
+- "[[G0444]]"
+- "[[G4145]]"
+- "[[G0575]]"
+- "[[G0707]]"
+- "[[G5122]]"
+- "[[G2501I]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3100]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 27:57**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus’ disciple:
 <small><sub>**BSB:**</sub></small>
 When it was evening, there came a rich man from Arimathea named Joseph, who himself was a disciple of Jesus.
-<small><sub>**Literal:**</sub></small>
-When evening now having arrived came a man rich from Arimathea, named Joseph, who also himself was discipled <the> to Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.56|<< Matthew 27:56]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.58|Matthew 27:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G2064\|ἦλθεν]]  [[G0444\|ἄνθρωπος]]  [[G4145\|πλούσιος]]  [[G0575\|ἀπὸ]]  [[G0707\|Ἁριμαθαίας,]]  [[G5122\|τοὔνομα]]  [[G2501I\|Ἰωσήφ,]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3100\|ἐμαθητεύθη]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIMATHEA|ARIMATHEA]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic RICH, THE|RICH, THE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.56|<< Matthew 27:56]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.58|Matthew 27:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

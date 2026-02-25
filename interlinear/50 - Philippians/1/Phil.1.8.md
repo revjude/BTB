@@ -1,10 +1,57 @@
+---
+title: Philippians 1:8
+type: Verse
+kjv: "For God is my record, how greatly I long after you all in the bowels of Jesus Christ."
+bsb: "God is my witness how I long for all of you with the affection of Christ Jesus."
+greek: "Μάρτυς γάρ μου ἐστιν ὁ θεός, ὡς ἐπιποθῶ πάντας ὑμᾶς ἐν σπλάγχνοις Χριστοῦ Ἰησοῦ."
+pericope: "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3144]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5613]]"
+- "[[G1971]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4698]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+---
+
 **Philippians 1:8**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 God is my witness how I long for all of you with the affection of Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-Witness for of mine is <the> God how I long after all you in [the] affection of Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.7|<< Philippians 1:7]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.9|Philippians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3144\|Μάρτυς]]  [[G1063\|γάρ]]  [[G3165\|μου]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G5613\|ὡς]]  [[G1971\|ἐπιποθῶ]]  [[G3956\|πάντας]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G4698\|σπλάγχνοις]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOWELS|BOWELS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.7|<< Philippians 1:7]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.9|Philippians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

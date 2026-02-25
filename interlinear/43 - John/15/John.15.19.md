@@ -1,10 +1,64 @@
+---
+title: John 15:19
+type: Verse
+kjv: "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+bsb: "If you were of the world, it would love you as its own. Instead, the world hates you, because you are not of the world, but I have chosen you out of the world."
+jesus_said: "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+greek: "εἰ ἐκ τοῦ κόσμου ἦτε, ὁ κόσμος ἂν τὸ ἴδιον ἐφίλει· ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλ᾽ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος.¶"
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HATRED|HATRED]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1510]]"
+- "[[G0302]]"
+- "[[G2398]]"
+- "[[G5368]]"
+- "[[G3754H]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G0235]]"
+- "[[G1473]]"
+- "[[G1586]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3404]]"
+texts:
+- NKO
+---
+
 **John 15:19**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 <small><sub>**BSB:**</sub></small>
 If you were of the world, it would love you as its own. Instead, the world hates you, because you are not of the world, but I have chosen you out of the world.
-<small><sub>**Literal:**</sub></small>
-If of the world you were, the world then would <the> [as its] own was loving [you]; because however of the world not you are, but I myself chose you out of the world, on account of this hates you the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.18|<< John 15:18]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.20|John 15:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G1510\|ἦτε,]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G0302\|ἂν]]  [[G3588\|τὸ]]  [[G2398\|ἴδιον]]  [[G5368\|ἐφίλει·]]  [[G3754H\|ὅτι]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3756\|οὐκ]]  [[G1510\|ἐστέ,]]  [[G0235\|ἀλλ᾽]]  [[G1473\|ἐγὼ]]  [[G1586\|ἐξελεξάμην]]  [[G4771\|ὑμᾶς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου,]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3404\|μισεῖ]]  [[G4771\|ὑμᾶς]]  [[G3588\|ὁ]]  [[G2889\|κόσμος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HATRED|HATRED]] • [[topic HOLINESS|HOLINESS]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.18|<< John 15:18]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.20|John 15:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

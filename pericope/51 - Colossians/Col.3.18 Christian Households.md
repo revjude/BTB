@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christian Households
+type: Pericope
 pericope: "[[Col.3.18 Christian Households|Christian Households]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 3
 book/chapter: "[[Col.3|Colossians 3]]"
-genre:
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 4
 verses:
 - "[[Col.3.18]]"
 - "[[Col.3.19]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Col.3.21]]"
 ---
 
-[[Col.3|Colossians 3:18 - Colossians 3:21]]
+<small>[[Col.3|Colossians 3:18-21]]</small>
 *Christian Households*
 
 [[Col.3.18|18]] Wives, submit yourselves unto your own husbands, as it is fit in the Lord.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plot to Kill Jesus
+type: Pericope
 pericope: "[[Matt.26.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.26.1]]"
 - "[[Matt.26.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.26.5]]"
 ---
 
-[[Matt.26|Matthew 26:1 - Matthew 26:5]]
+<small>[[Matt.26|Matthew 26:1-5]]</small>
 *The Plot to Kill Jesus*
 
 [[Matt.26.1|1]] And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,

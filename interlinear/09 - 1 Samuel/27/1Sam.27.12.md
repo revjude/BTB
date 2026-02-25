@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 27:12
+type: Verse
+kjv: "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever."
+bsb: "So Achish trusted David, thinking, “Since he has made himself an utter stench to his people Israel, he will be my servant forever.”"
+hebrew: "וַיַּאֲמֵ֥ן אָכִ֖ישׁ בְּדָוִ֣ד לֵאמֹ֑ר הַבְאֵ֤שׁ הִבְאִישׁ֙ בְּעַמּ֣וֹ בְיִשְׂרָאֵ֔ל וְהָ֥יָה לִ֖י לְעֶ֥בֶד עוֹלָֽם׃ פ"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0539]]"
+- "[[H0397]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0887]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H5650]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 27:12**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
 <small><sub>**BSB:**</sub></small>
 So Achish trusted David, thinking, “Since he has made himself an utter stench to his people Israel, he will be my servant forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0539\|יַּאֲמֵ֥ן]] [[H0397\|אָכִ֖ישׁ]] [[H9003\|בְּ]][[H1732\|דָוִ֣ד]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0887\|הַבְאֵ֤שׁ]] [[H0887\|הִבְאִישׁ֙]] [[H9003\|בְּ]][[H5971A\|עַמּ֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H1961\|הָ֥יָה]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H5650\|עֶ֥בֶד]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.11|<< 1 Samuel 27:11]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.1|1 Samuel 28:1 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ So Achish trusted David, thinking, “Since he has made himself an utter stench 
 | and he will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָ֥יָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H9005\|לִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a servant of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5650\|עֶ֥בֶד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'E.ved<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.11|<< 1 Samuel 27:11]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.1|1 Samuel 28:1 >>]]</td></tr></table>
 
 

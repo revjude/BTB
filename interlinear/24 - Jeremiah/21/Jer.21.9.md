@@ -1,8 +1,69 @@
+---
+title: Jeremiah 21:9
+type: Verse
+kjv: "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey."
+bsb: "Whoever stays in this city will die by sword and famine and plague, but whoever goes out and surrenders to the Chaldeans who besiege you will live; he will retain his life like a spoil of war."
+hebrew: "הַיֹּשֵׁב֙ בָּעִ֣יר הַזֹּ֔את יָמ֕וּת בַּחֶ֖רֶב וּבָרָעָ֣ב וּבַדָּ֑בֶר וְהַיּוֹצֵא֩ וְנָפַ֨ל עַל־ הַכַּשְׂדִּ֜ים הַצָּרִ֤ים עֲלֵיכֶם֙ וְחָיָ֔ה וְהָֽיְתָה־ לּ֥וֹ נַפְשׁ֖וֹ לְשָׁלָֽל׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H4191]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H3318G]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3778]]"
+- "[[H6696A]]"
+- "[[H9036]]"
+- "[[H2421]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H7998]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 21:9**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.
 <small><sub>**BSB:**</sub></small>
 Whoever stays in this city will die by sword and famine and plague, but whoever goes out and surrenders to the Chaldeans who besiege you will live; he will retain his life like a spoil of war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3427\|יֹּשֵׁב֙]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H4191\|יָמ֕וּת]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּ֑בֶר]] [[H9002\|וְ]][[H9009\|הַ]][[H3318G\|יּוֹצֵא֩]] [[H9001\|וְ]][[H5307G\|נָפַ֨ל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֜ים]] [[H9009\|הַ]][[H6696A\|צָּרִ֤ים]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H9001\|וְ]][[H2421\|חָיָ֔ה]] [[H9001\|וְ]][[H1961\|הָֽיְתָה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H5315H\|נַפְשׁ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H7998\|שָׁלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.8|<< Jeremiah 21:8]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.10|Jeremiah 21:10 >>]]</td></tr></table>
 

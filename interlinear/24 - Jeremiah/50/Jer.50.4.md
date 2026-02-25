@@ -1,8 +1,68 @@
+---
+title: Jeremiah 50:4
+type: Verse
+kjv: "In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God."
+bsb: "“In those days and at that time, declares the LORD, the children of Israel and the children of Judah will come together, weeping as they come, and will seek the LORD their God."
+hebrew: "בַּיָּמִ֨ים הָהֵ֜מָּה וּבָעֵ֤ת הַהִיא֙ נְאֻם־ יְהוָ֔ה יָבֹ֧אוּ בְנֵֽי־ יִשְׂרָאֵ֛ל הֵ֥מָּה וּבְנֵֽי־ יְהוּדָ֖ה יַחְדָּ֑ו הָל֤וֹךְ וּבָכוֹ֙ יֵלֵ֔כוּ וְאֶת־ יְהוָ֥ה אֱלֹהֵיהֶ֖ם יְבַקֵּֽשׁוּ׃"
+pericope: "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0935G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H3162B]]"
+- "[[H1980H]]"
+- "[[H1058]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:4**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God.
 <small><sub>**BSB:**</sub></small>
 “In those days and at that time, declares the LORD, the children of Israel and the children of Judah will come together, weeping as they come, and will seek the LORD their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֨ים]] [[H9009\|הָ]][[H1992\|הֵ֜מָּה]] [[H9002\|וּ]][[H9003\|בָ]][[H6256\|עֵ֤ת]] [[H9009\|הַ]][[H1931\|הִיא֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0935G\|יָבֹ֧אוּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H1992\|הֵ֥מָּה]] [[H9002\|וּ]][[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H3162B\|יַחְדָּ֑ו]] [[H1980H\|הָל֤וֹךְ]] [[H9002\|וּ]][[H1058\|בָכוֹ֙]] [[H1980H\|יֵלֵ֔כוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H1245\|יְבַקֵּֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.3|<< Jeremiah 50:3]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.5|Jeremiah 50:5 >>]]</td></tr></table>
 

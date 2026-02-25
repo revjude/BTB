@@ -1,8 +1,54 @@
+---
+title: Numbers 33:12
+type: Verse
+kjv: "And they took their journey out of the wilderness of Sin, and encamped in Dophkah."
+bsb: "They set out from the Desert of Sin and camped at Dophkah."
+hebrew: "וַיִּסְע֖וּ מִמִּדְבַּר־ סִ֑ין וַֽיַּחֲנ֖וּ בְּדָפְקָֽה׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DOPHKAH|DOPHKAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H9014]]"
+- "[[H5512B]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H1850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:12**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
 <small><sub>**BSB:**</sub></small>
 They set out from the Desert of Sin and camped at Dophkah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מִ]][[H4057B\|מִּדְבַּר]][[H9014\|־]] [[H5512B\|סִ֑ין]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9003\|בְּ]][[H1850\|דָפְקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOPHKAH|DOPHKAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.11|<< Numbers 33:11]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.13|Numbers 33:13 >>]]</td></tr></table>
 

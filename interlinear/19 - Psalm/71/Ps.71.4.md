@@ -1,8 +1,55 @@
+---
+title: Psalm 71:4
+type: Verse
+kjv: "Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man."
+bsb: "Deliver me, O my God, from the hand of the wicked, from the grasp of the unjust and ruthless."
+hebrew: "אֱֽלֹהַ֗י פַּ֭לְּטֵנִי מִיַּ֣ד רָשָׁ֑ע מִכַּ֖ף מְעַוֵּ֣ל וְחוֹמֵץ׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H6403]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7563]]"
+- "[[H3709G]]"
+- "[[H5765]]"
+- "[[H9002]]"
+- "[[H2556C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:4**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.
 <small><sub>**BSB:**</sub></small>
 Deliver me, O my God, from the hand of the wicked, from the grasp of the unjust and ruthless.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהַ֗]][[H9020\|י]] [[H6403\|פַּ֭לְּטֵ]][[H9030\|נִי]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H7563\|רָשָׁ֑ע]] [[H9006\|מִ]][[H3709G\|כַּ֖ף]] [[H5765\|מְעַוֵּ֣ל]] [[H9002\|וְ]][[H2556C\|חוֹמֵץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.3|<< Psalms 71:3]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.5|Psalms 71:5 >>]]</td></tr></table>
 

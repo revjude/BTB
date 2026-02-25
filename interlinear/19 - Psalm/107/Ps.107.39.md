@@ -1,8 +1,53 @@
+---
+title: Psalm 107:39
+type: Verse
+kjv: "Again, they are minished and brought low through oppression, affliction, and sorrow."
+bsb: "When they are decreased and humbled by oppression, evil, and sorrow,"
+hebrew: "וַיִּמְעֲט֥וּ וַיָּשֹׁ֑חוּ מֵעֹ֖צֶר רָעָ֣ה וְיָגֽוֹן׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H4591]]"
+- "[[H7817]]"
+- "[[H9006]]"
+- "[[H6115]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H3015]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Psalms 107:39**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, they are minished and brought low through oppression, affliction, and sorrow.
 <small><sub>**BSB:**</sub></small>
 When they are decreased and humbled by oppression, evil, and sorrow,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4591\|יִּמְעֲט֥וּ]] [[H9001\|וַ]][[H7817\|יָּשֹׁ֑חוּ]] [[H9006\|מֵ]][[H6115\|עֹ֖צֶר]] [[H7451I\|רָעָ֣ה]] [[H9002\|וְ]][[H3015\|יָגֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.38|<< Psalms 107:38]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.40|Psalms 107:40 >>]]</td></tr></table>
 

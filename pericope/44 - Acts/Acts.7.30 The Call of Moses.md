@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Call of Moses
+type: Pericope
 pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.7.30]]"
 - "[[Acts.7.31]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.7.38]]"
 ---
 
-[[Acts.7|Acts 7:30 - Acts 7:38]]
+<small>[[Acts.7|Acts 7:30-38]]</small>
 *The Call of Moses*
 
 [[Acts.7.30|30]] And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.

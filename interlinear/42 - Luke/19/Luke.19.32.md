@@ -1,10 +1,49 @@
+---
+title: Luke 19:32
+type: Verse
+kjv: "And they that were sent went their way, and found even as he had said unto them."
+bsb: "So those who were sent went out and found it just as Jesus had told them."
+greek: "Ἀπελθόντες δὲ οἱ ἀπεσταλμένοι εὗρον καθὼς εἶπεν αὐτοῖς."
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0565]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0649]]"
+- "[[G2147]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 19:32**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that were sent went their way, and found even as he had said unto them.
 <small><sub>**BSB:**</sub></small>
 So those who were sent went out and found it just as Jesus had told them.
-<small><sub>**Literal:**</sub></small>
-Having departed then those sent found [it] even as He had said to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.31|<< Luke 19:31]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.33|Luke 19:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0565\|Ἀπελθόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G0649\|ἀπεσταλμένοι]]  [[G2147\|εὗρον]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.31|<< Luke 19:31]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.33|Luke 19:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

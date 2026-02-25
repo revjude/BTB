@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 22:18
+type: Verse
+kjv: "Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people."
+bsb: "“Is not the LORD your God with you, and has He not granted you rest on every side? For He has given the inhabitants of the land into my hand, and the land has been subdued before the LORD and His people."
+hebrew: "הֲלֹ֨א יְהוָ֤ה אֱלֹֽהֵיכֶם֙ עִמָּכֶ֔ם וְהֵנִ֥יחַ לָכֶ֖ם מִסָּבִ֑יב כִּ֣י׀ נָתַ֣ן בְּיָדִ֗י אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ וְנִכְבְּשָׁ֥ה הָאָ֛רֶץ לִפְנֵ֥י יְהוָ֖ה וְלִפְנֵ֥י עַמּֽוֹ׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3533]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:18**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not the LORD your God with you? and hath he [not] given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people.
 <small><sub>**BSB:**</sub></small>
 “Is not the LORD your God with you, and has He not granted you rest on every side? For He has given the inhabitants of the land into my hand, and the land has been subdued before the LORD and His people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֨א]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5117\|הֵנִ֥יחַ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H5439H\|סָּבִ֑יב]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H5414G\|נָתַ֣ן]] [[H9003\|בְּ]][[H3027H\|יָדִ֗]][[H9020\|י]] [[H0853\|אֵ֚ת]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H3533\|נִכְבְּשָׁ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.17|<< 1 Chronicles 22:17]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.19|1 Chronicles 22:19 >>]]</td></tr></table>
 

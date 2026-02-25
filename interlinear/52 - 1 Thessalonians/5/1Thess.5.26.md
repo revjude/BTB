@@ -1,10 +1,47 @@
+---
+title: 1 Thessalonians 5:26
+type: Verse
+kjv: "Greet all the brethren with an holy kiss."
+bsb: "Greet all the brothers with a holy kiss."
+greek: "Ἀσπάσασθε τοὺς ἀδελφοὺς πάντας ἐν φιλήματι ἁγίῳ."
+pericope: "[[1Thess.5.23 Final Blessings and Instructions|Final Blessings and Instructions]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic KISS|KISS]]"
+strongs:
+- "[[G0782]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G5370]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:26**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greet all the brethren with an holy kiss.
 <small><sub>**BSB:**</sub></small>
 Greet all the brothers with a holy kiss.
-<small><sub>**Literal:**</sub></small>
-do greet the brothers all with a kiss holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.25|<< 1 Thessalonians 5:25]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.27|1 Thessalonians 5:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G3956\|πάντας]]  [[G1722\|ἐν]]  [[G5370\|φιλήματι]]  [[G0040G\|ἁγίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KISS|KISS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.25|<< 1 Thessalonians 5:25]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.27|1 Thessalonians 5:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

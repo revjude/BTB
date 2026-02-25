@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Defense to the Crowd
+type: Pericope
 pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: Acts
 chapter: 22
 book/chapter: "[[Acts.22|Acts 22]]"
-genre:
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 21
 verses:
 - "[[Acts.22.1]]"
 - "[[Acts.22.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Acts.22.21]]"
 ---
 
-[[Acts.22|Acts 22:1 - Acts 22:21]]
+<small>[[Acts.22|Acts 22:1-21]]</small>
 *Paul’s Defense to the Crowd*
 
 [[Acts.22.1|1]] Men, brethren, and fathers, hear ye my defence \[which I make\] now unto you.

@@ -1,8 +1,59 @@
+---
+title: Micah 1:15
+type: Verse
+kjv: "Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel."
+bsb: "I will again bring a conqueror against you, O dweller of Mareshah. The glory of Israel will come to Adullam."
+hebrew: "עֹ֗ד הַיֹּרֵשׁ֙ אָ֣בִי לָ֔ךְ יוֹשֶׁ֖בֶת מָֽרֵשָׁ֑ה עַד־ עֲדֻּלָּ֥ם יָב֖וֹא כְּב֥וֹד יִשְׂרָאֵֽל׃"
+pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic MARESHAH|MARESHAH]]"
+- "[[topic MICAH|MICAH]]"
+strongs:
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H3423H]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3427]]"
+- "[[H4762G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5725]]"
+- "[[H0935G]]"
+- "[[H3519]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Micah 1:15**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.
 <small><sub>**BSB:**</sub></small>
 I will again bring a conqueror against you, O dweller of Mareshah. The glory of Israel will come to Adullam.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עֹ֗ד]] [[H9009\|הַ]][[H3423H\|יֹּרֵשׁ֙]] [[H0935P\|אָ֣בִי]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3427\|יוֹשֶׁ֖בֶת]] [[H4762G\|מָֽרֵשָׁ֑ה]] [[H5704\|עַד]][[H9014\|־]] [[H5725\|עֲדֻּלָּ֥ם]] [[H0935G\|יָב֖וֹא]] [[H3519\|כְּב֥וֹד]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic MARESHAH|MARESHAH]] • [[topic MICAH|MICAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.14|<< Micah 1:14]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.16|Micah 1:16 >>]]</td></tr></table>
 

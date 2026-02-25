@@ -1,8 +1,64 @@
+---
+title: Isaiah 17:9
+type: Verse
+kjv: "In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation."
+bsb: "In that day their strong cities will be like forsaken thickets and summits, abandoned to the Israelites and to utter desolation."
+hebrew: "בַּיּ֨וֹם הַה֜וּא יִהְי֣וּ׀ עָרֵ֣י מָעֻזּ֗וֹ כַּעֲזוּבַ֤ת הַחֹ֙רֶשׁ֙ וְהָ֣אָמִ֔יר אֲשֶׁ֣ר עָזְב֔וּ מִפְּנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָיְתָ֖ה שְׁמָמָֽה׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H5892B]]"
+- "[[H4581]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H5800A]]"
+- "[[H2793H]]"
+- "[[H9002]]"
+- "[[H0534]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H8077A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:9**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.
 <small><sub>**BSB:**</sub></small>
 In that day their strong cities will be like forsaken thickets and summits, abandoned to the Israelites and to utter desolation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H1961\|יִהְי֣וּ]][[H9015\|׀]] [[H5892B\|עָרֵ֣י]] [[H4581\|מָעֻזּ֗]][[H9023\|וֹ]] [[H9004\|כַּ]][[H5800A\|עֲזוּבַ֤ת]] [[H9009\|הַ]][[H2793H\|חֹ֙רֶשׁ֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0534\|אָמִ֔יר]] [[H0834A\|אֲשֶׁ֣ר]] [[H5800A\|עָזְב֔וּ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H1961\|הָיְתָ֖ה]] [[H8077A\|שְׁמָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.8|<< Isaiah 17:8]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.10|Isaiah 17:10 >>]]</td></tr></table>
 

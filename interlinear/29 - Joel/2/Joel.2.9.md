@@ -1,8 +1,58 @@
+---
+title: Joel 2:9
+type: Verse
+kjv: "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief."
+bsb: "They storm the city; they run along the wall; they climb into houses, entering through windows like thieves."
+hebrew: "בָּעִ֣יר יָשֹׁ֗קּוּ בַּֽחוֹמָה֙ יְרֻצ֔וּן בַּבָּתִּ֖ים יַעֲל֑וּ בְּעַ֧ד הַחַלּוֹנִ֛ים יָבֹ֖אוּ כַּגַּנָּֽב׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H8264]]"
+- "[[H2346G]]"
+- "[[H7323G]]"
+- "[[H9013]]"
+- "[[H1004B]]"
+- "[[H5927G]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H0935G]]"
+- "[[H9004]]"
+- "[[H1590]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:9**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.
 <small><sub>**BSB:**</sub></small>
 They storm the city; they run along the wall; they climb into houses, entering through windows like thieves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H8264\|יָשֹׁ֗קּוּ]] [[H9003\|בַּֽ]][[H2346G\|חוֹמָה֙]] [[H7323G\|יְרֻצ֔וּ]][[H9013\|ן]] [[H9003\|בַּ]][[H1004B\|בָּתִּ֖ים]] [[H5927G\|יַעֲל֑וּ]] [[H1157\|בְּעַ֧ד]] [[H9009\|הַ]][[H2474\|חַלּוֹנִ֛ים]] [[H0935G\|יָבֹ֖אוּ]] [[H9004\|כַּ]][[H1590\|גַּנָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.8|<< Joel 2:8]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.10|Joel 2:10 >>]]</td></tr></table>
 

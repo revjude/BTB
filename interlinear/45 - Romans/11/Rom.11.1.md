@@ -1,10 +1,61 @@
+---
+title: Romans 11:1
+type: Verse
+kjv: "I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin."
+bsb: "I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin."
+greek: "Λέγω οὖν· μὴ ἀπώσατο ὁ θεὸς τὸν λαὸν αὐτοῦ; μὴ γένοιτο. καὶ γὰρ ἐγὼ Ἰσραηλίτης εἰμί, ἐκ σπέρματος Ἀβραάμ, φυλῆς Βενιαμίν."
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3361]]"
+- "[[G0683]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2992]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G2475]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+- "[[G5443]]"
+- "[[G0958]]"
+texts:
+- NKO
+---
+
 **Romans 11:1**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, [of] the tribe of Benjamin.
 <small><sub>**BSB:**</sub></small>
 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.
-<small><sub>**Literal:**</sub></small>
-I ask then; not did reject <the> God the people of Him? Never would it be! Also for I myself an Israelite am, of [the] seed of Abraham, of [the] tribe of Benjamin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.21|<< Romans 10:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.2|Romans 11:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G3767\|οὖν·]]  [[G3361\|μὴ]]  [[G0683\|ἀπώσατο]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G0846\|αὐτοῦ;]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο.]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1473\|ἐγὼ]]  [[G2475\|Ἰσραηλίτης]]  [[G1510\|εἰμί,]]  [[G1537\|ἐκ]]  [[G4690G\|σπέρματος]]  [[G0011\|Ἀβραάμ,]]  [[G5443\|φυλῆς]]  [[G0958\|Βενιαμίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic GOD|GOD]] • [[topic PAUL|PAUL]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.21|<< Romans 10:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.2|Romans 11:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:1** is...
 > $\quad$ referencing: [[LXX.Ps.94.14|Ps 94:14]]

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Horns and the Craftsmen
+type: Pericope
 pericope: "[[Zech.1.18 The Vision of the Horns and the Craftsmen|The Vision of the Horns and the Craftsmen]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 1
 book/chapter: "[[Zech.1|Zechariah 1]]"
-genre:
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 4
 verses:
 - "[[Zech.1.18]]"
 - "[[Zech.1.19]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Zech.1.21]]"
 ---
 
-[[Zech.1|Zechariah 1:18 - Zechariah 1:21]]
+<small>[[Zech.1|Zechariah 1:18-21]]</small>
 *The Vision of the Horns and the Craftsmen*
 
 [[Zech.1.18|18]] Then lifted I up mine eyes, and saw, and behold four horns.

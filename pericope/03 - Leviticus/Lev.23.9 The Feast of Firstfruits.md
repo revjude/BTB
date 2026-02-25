@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Firstfruits
+type: Pericope
 pericope: "[[Lev.23.9 The Feast of Firstfruits|The Feast of Firstfruits]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 23
 book/chapter: "[[Lev.23|Leviticus 23]]"
-genre:
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.23.9]]"
 - "[[Lev.23.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.23.14]]"
 ---
 
-[[Lev.23|Leviticus 23:9 - Leviticus 23:14]]
+<small>[[Lev.23|Leviticus 23:9-14]]</small>
 *The Feast of Firstfruits*
 
 [[Lev.23.9|9]] And the LORD spake unto Moses, saying,

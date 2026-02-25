@@ -1,10 +1,58 @@
+---
+title: Mark 14:45
+type: Verse
+kjv: "And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him."
+bsb: "Going directly to Jesus, he said, “Rabbi!” and kissed Him."
+greek: "καὶ ἐλθὼν εὐθὺς προσελθὼν αὐτῷ λέγει αὐτῷ· ῥαββί ῥαββί, καὶ κατεφίλησεν αὐτόν."
+pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RABBI|RABBI]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2112]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4461]]"
+- "[[G2705]]"
+texts:
+- NKO
+- o
+- K
+---
+
 **Mark 14:45**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.
 <small><sub>**BSB:**</sub></small>
 Going directly to Jesus, he said, “Rabbi!” and kissed Him.
-<small><sub>**Literal:**</sub></small>
-And having arrived immediately having come up to Him he says to him: Rabbi Rabbi! And he kissed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.44|<< Mark 14:44]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.46|Mark 14:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G2112\|εὐθὺς]]  [[G4334\|προσελθὼν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G4461\|ῥαββί]]  [[G4461\|ῥαββί,]]  [[G2532\|καὶ]]  [[G2705\|κατεφίλησεν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MASTER|MASTER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic RABBI|RABBI]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.44|<< Mark 14:44]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.46|Mark 14:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

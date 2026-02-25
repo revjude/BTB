@@ -1,10 +1,54 @@
+---
+title: Ephesians 5:9
+type: Verse
+kjv: "(For the fruit of the Spirit is in all goodness and righteousness and truth;)"
+bsb: "for the fruit of the light consists in all goodness, righteousness, and truth."
+greek: "ὁ γὰρ καρπὸς τοῦ φωτὸς ἐν πάσῃ ἀγαθωσύνῃ καὶ δικαιοσύνῃ καὶ ἀληθείᾳ,"
+pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2590]]"
+- "[[G5457]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0019]]"
+- "[[G2532]]"
+- "[[G1343]]"
+- "[[G0225]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Ephesians 5:9**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For the fruit of the Spirit [is] in all goodness and righteousness and truth;)
 <small><sub>**BSB:**</sub></small>
 for the fruit of the light consists in all goodness, righteousness, and truth.
-<small><sub>**Literal:**</sub></small>
-<the> for the fruit of the light [is] in all goodness and in righteousness and in truth —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.8|<< Ephesians 5:8]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.10|Ephesians 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G2590\|καρπὸς]]  [[G3588\|τοῦ]]  [[G5457\|φωτὸς]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G0019\|ἀγαθωσύνῃ]]  [[G2532\|καὶ]]  [[G1343\|δικαιοσύνῃ]]  [[G2532\|καὶ]]  [[G0225\|ἀληθείᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.8|<< Ephesians 5:8]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.10|Ephesians 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

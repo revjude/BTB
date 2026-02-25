@@ -1,10 +1,58 @@
+---
+title: Mark 9:23
+type: Verse
+kjv: "Jesus said unto him, If thou canst believe, all things are possible to him that believeth."
+bsb: "“If You can?” echoed Jesus. “All things are possible to him who believes!”"
+jesus_said: "If thou canst believe, all things are possible to him that believeth."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· τὸ εἰ δύνῃ πιστεῦσαι, πάντα δυνατὰ τῷ πιστεύοντι."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G1410]]"
+- "[[G4100]]"
+- "[[G3956]]"
+- "[[G1415]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 9:23**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto him, If thou canst believe, all things [are] possible to him that believeth.
 <small><sub>**BSB:**</sub></small>
 “If You can?” echoed Jesus. “All things are possible to him who believes!”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to him; <the> If You are able to believe All things are possible to the [one] believing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.22|<< Mark 9:22]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.24|Mark 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3588\|τὸ]]  [[G1487G\|εἰ]]  [[G1410\|δύνῃ]]  [[G4100\|πιστεῦσαι,]]  [[G3956\|πάντα]]  [[G1415\|δυνατὰ]]  [[G3588\|τῷ]]  [[G4100\|πιστεύοντι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.22|<< Mark 9:22]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.24|Mark 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

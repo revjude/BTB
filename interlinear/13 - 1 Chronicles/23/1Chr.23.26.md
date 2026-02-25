@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 23:26
+type: Verse
+kjv: "And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof."
+bsb: "So now the Levites no longer need to carry the tabernacle or any of the articles for its service.”"
+hebrew: "וְגַ֖ם לַלְוִיִּ֑ם אֵין־ לָשֵׂ֧את אֶת־ הַמִּשְׁכָּ֛ן וְאֶת־ כָּל־ כֵּלָ֖יו לַעֲבֹדָתֽוֹ׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H5656H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:26**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also unto the Levites; they shall no [more] carry the tabernacle, nor any vessels of it for the service thereof.
 <small><sub>**BSB:**</sub></small>
 So now the Levites no longer need to carry the tabernacle or any of the articles for its service.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֖ם]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H5375H\|שֵׂ֧את]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֖י]][[H9023\|ו]] [[H9005\|לַ]][[H5656H\|עֲבֹדָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.25|<< 1 Chronicles 23:25]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.27|1 Chronicles 23:27 >>]]</td></tr></table>
 

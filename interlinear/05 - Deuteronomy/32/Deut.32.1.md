@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 32:1
+type: Verse
+kjv: "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth."
+bsb: "Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth."
+hebrew: "הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי־ פִֽי׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0238]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H8085G]]"
+- "[[H0776G]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:1**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 <small><sub>**BSB:**</sub></small>
 Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0238\|הַאֲזִ֥ינוּ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וַ]][[H1696G\|אֲדַבֵּ֑רָה]] [[H9002\|וְ]][[H8085G\|תִשְׁמַ֥ע]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.30|<< Deuteronomy 31:30]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.2|Deuteronomy 32:2 >>]]</td></tr></table>
 

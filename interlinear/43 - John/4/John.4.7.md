@@ -1,10 +1,57 @@
+---
+title: John 4:7
+type: Verse
+kjv: "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink."
+bsb: "When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.”"
+jesus_said: "Give me to drink."
+greek: "Ἔρχεται γυνὴ ἐκ τῆς Σαμαρείας ἀντλῆσαι ὕδωρ. λέγει αὐτῇ ὁ Ἰησοῦς· δός μοι πεῖν."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G2064]]"
+- "[[G1135G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4540]]"
+- "[[G0501]]"
+- "[[G5204]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G4095]]"
+texts:
+- NKO
+---
+
 **John 4:7**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 <small><sub>**BSB:**</sub></small>
 When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.”
-<small><sub>**Literal:**</sub></small>
-Comes a woman out of <the> Samaria to draw water. Says to her <the> Jesus; do give Me to drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.6|<< John 4:6]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.8|John 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἔρχεται]]  [[G1135G\|γυνὴ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4540\|Σαμαρείας]]  [[G0501\|ἀντλῆσαι]]  [[G5204\|ὕδωρ.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1325\|δός]]  [[G3165\|μοι]]  [[G4095\|πεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.6|<< John 4:6]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.8|John 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,61 @@
+---
+title: LXX Job 19:4
+type: Verse
+lxx: "Yes indeed, in truth I was misled, and delusion lodges in me, to speak a word which must not be said;  but my words mislead, and are not in time."
+greek: "ναι δη επ΄ αληθείας εγώ επλανήθην παρ΄ εμοί δε αυλίζεται πλάνος λαλήσαι ρήμα α ουκ έδει τα δε ρήματά μου πλανάται και ουκ επί καιρού"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G3483]]"
+- "[[G1211]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G1473]]"
+- "[[G4105]]"
+- "[[G3844]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G0835]]"
+- "[[G4108]]"
+- "[[G2980]]"
+- "[[G4487]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1163]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4487]]"
+- "[[G1473]]"
+- "[[G4105]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1909]]"
+- "[[G2540]]"
+---
+
 **LXX Job 19:4** 
 <small><sub>**LXX:**</sub></small>
 Yes indeed, in truth I was misled, and delusion lodges in me, to speak a word which must not \[be said\];  but my words mislead, and are not in time. 
+<small><sub>**Greek:**</sub></small>
+[[G3483\|ναι]] [[G1211\|δη]] [[G1909\|επ΄]] [[G0225\|αληθείας]] [[G1473\|εγώ]] [[G4105\|επλανήθην]] [[G3844\|παρ΄]] [[G1473\|εμοί]] [[G1161\|δε]] [[G0835\|αυλίζεται]] [[G4108\|πλάνος]] [[G2980\|λαλήσαι]] [[G4487\|ρήμα]] [[G3739\|α]] [[G3756\|ουκ]] [[G1163\|έδει]] [[G3588\|τα]] [[G1161\|δε]] [[G4487\|ρήματά]] [[G1473\|μου]] [[G4105\|πλανάται]] [[G2532\|και]] [[G3756\|ουκ]] [[G1909\|επί]] [[G2540\|καιρού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.3|<< Job 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.5|Job 19:5 >>]]</td></tr></table>
 
@@ -29,6 +84,6 @@ Yes indeed, in truth I was misled, and delusion lodges in me, to speak a word wh
 | are not | **<big>[[G3756\|ουκ]]</big>** |
 | in | **<big>[[G1909\|επί]]</big>** |
 | time. | **<big>[[G2540\|καιρού]]</big>** |
-[[Job.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.3|<< Job 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.5|Job 19:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.3|<< Job 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.5|Job 19:5 >>]]</td></tr></table>
 
 

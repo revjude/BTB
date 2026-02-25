@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 11:10
+type: Verse
+kjv: "For this cause ought the woman to have power on her head because of the angels."
+bsb: "For this reason a woman ought to have a sign of authority on her head, because of the angels."
+greek: "διὰ τοῦτο ὀφείλει ἡ γυνὴ ἐξουσίαν ἔχειν ἐπὶ τῆς κεφαλῆς διὰ τοὺς ἀγγέλους."
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3784]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G1849]]"
+- "[[G2192]]"
+- "[[G1909]]"
+- "[[G2776]]"
+- "[[G0032G]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:10**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause ought the woman to have power on [her] head because of the angels.
 <small><sub>**BSB:**</sub></small>
 For this reason a woman ought to have a sign of authority on her head, because of the angels.
-<small><sub>**Literal:**</sub></small>
-Because of this ought the woman authority to have on the head on account of the angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.9|<< 1 Corinthians 11:9]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.11|1 Corinthians 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3784\|ὀφείλει]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχειν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.9|<< 1 Corinthians 11:9]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.11|1 Corinthians 11:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

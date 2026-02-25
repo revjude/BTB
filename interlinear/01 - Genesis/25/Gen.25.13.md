@@ -1,8 +1,64 @@
+---
+title: Genesis 25:13
+type: Verse
+kjv: "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
+bsb: "These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,"
+hebrew: "וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׁמָעֵ֔אל בִּשְׁמֹתָ֖ם לְתוֹלְדֹתָ֑ם בְּכֹ֤ר יִשְׁמָעֵאל֙ נְבָיֹ֔ת וְקֵדָ֥ר וְאַדְבְּאֵ֖ל וּמִבְשָֽׂם׃"
+pericope: "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADBEEL|ADBEEL]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic KEDAR|KEDAR]]"
+- "[[topic MIBSAM|MIBSAM]]"
+- "[[topic NEBAIOTH|NEBAIOTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3458G]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H1060]]"
+- "[[H5032]]"
+- "[[H6938]]"
+- "[[H0110]]"
+- "[[H4017G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:13**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,
 <small><sub>**BSB:**</sub></small>
 These are the names of the sons of Ishmael in the order of their birth: Nebaioth the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H8034\|שְׁמוֹת֙]] [[H1121A\|בְּנֵ֣י]] [[H3458G\|יִשְׁמָעֵ֔אל]] [[H9003\|בִּ]][[H8034\|שְׁמֹתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H8435\|תוֹלְדֹתָ֑]][[H9028\|ם]] [[H1060\|בְּכֹ֤ר]] [[H3458G\|יִשְׁמָעֵאל֙]] [[H5032\|נְבָיֹ֔ת]] [[H9002\|וְ]][[H6938\|קֵדָ֥ר]] [[H9002\|וְ]][[H0110\|אַדְבְּאֵ֖ל]] [[H9002\|וּ]][[H4017G\|מִבְשָֽׂם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADBEEL|ADBEEL]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HAGAR|HAGAR]] • [[topic ISHMAEL|ISHMAEL]] • [[topic KEDAR|KEDAR]] • [[topic MIBSAM|MIBSAM]] • [[topic NEBAIOTH|NEBAIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.12|<< Genesis 25:12]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.14|Genesis 25:14 >>]]</td></tr></table>
 

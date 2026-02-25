@@ -1,10 +1,57 @@
+---
+title: Acts 22:12
+type: Verse
+kjv: "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,"
+bsb: "There a man named Ananias, a devout observer of the law who was highly regarded by all the Jews living there,"
+greek: "Ἁνανίας δέ τις, ἀνὴρ εὐλαβὴς κατὰ τὸν νόμον, μαρτυρούμενος ὑπὸ πάντων τῶν κατοικούντων Ἰουδαίων,"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0367H]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0435G]]"
+- "[[G2126]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3140]]"
+- "[[G5259G]]"
+- "[[G3956]]"
+- "[[G2730]]"
+- "[[G2453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 22:12**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt [there],
 <small><sub>**BSB:**</sub></small>
 There a man named Ananias, a devout observer of the law who was highly regarded by all the Jews living there,
-<small><sub>**Literal:**</sub></small>
-Ananias then certain, a man devout according to the law, borne witness to by all the dwelling [there] Jews,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.11|<< Acts 22:11]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.13|Acts 22:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0367H\|Ἁνανίας]]  [[G1161\|δέ]]  [[G5100\|τις,]]  [[G0435G\|ἀνὴρ]]  [[G2126\|εὐλαβὴς]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον,]]  [[G3140\|μαρτυρούμενος]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G2730\|κατοικούντων]]  [[G2453\|Ἰουδαίων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CHARACTER|CHARACTER]] • [[topic DAMASCUS|DAMASCUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.11|<< Acts 22:11]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.13|Acts 22:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

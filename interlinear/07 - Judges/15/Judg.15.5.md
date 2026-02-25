@@ -1,8 +1,59 @@
+---
+title: Judges 15:5
+type: Verse
+kjv: "And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards and olives."
+bsb: "Then he lit the torches and released the foxes into the standing grain of the Philistines, burning up the piles of grain and the standing grain, as well as the vineyards and olive groves."
+hebrew: "וַיַּבְעֶר־ אֵשׁ֙ בַּלַּפִּידִ֔ים וַיְשַׁלַּ֖ח בְּקָמ֣וֹת פְּלִשְׁתִּ֑ים וַיַּבְעֵ֛ר מִגָּדִ֥ישׁ וְעַד־ קָמָ֖ה וְעַד־ כֶּ֥רֶם זָֽיִת׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARSON|ARSON]]"
+- "[[topic CORN|CORN]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H3940]]"
+- "[[H7971H]]"
+- "[[H7054]]"
+- "[[H6430G]]"
+- "[[H9006]]"
+- "[[H1430A]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H3754]]"
+- "[[H2132H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:5**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had set the brands on fire, he let [them] go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards [and] olives.
 <small><sub>**BSB:**</sub></small>
 Then he lit the torches and released the foxes into the standing grain of the Philistines, burning up the piles of grain and the standing grain, as well as the vineyards and olive groves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1197A\|יַּבְעֶר]][[H9014\|־]] [[H0784\|אֵשׁ֙]] [[H9003\|בַּ]][[H3940\|לַּפִּידִ֔ים]] [[H9001\|וַ]][[H7971H\|יְשַׁלַּ֖ח]] [[H9003\|בְּ]][[H7054\|קָמ֣וֹת]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H1197A\|יַּבְעֵ֛ר]] [[H9006\|מִ]][[H1430A\|גָּדִ֥ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7054\|קָמָ֖ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3754\|כֶּ֥רֶם]] [[H2132H\|זָֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARSON|ARSON]] • [[topic CORN|CORN]] • [[topic GRAPE|GRAPE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.4|<< Judges 15:4]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.6|Judges 15:6 >>]]</td></tr></table>
 

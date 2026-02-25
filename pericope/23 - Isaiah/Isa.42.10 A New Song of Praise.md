@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A New Song of Praise
+type: Pericope
 pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 42
 book/chapter: "[[Isa.42|Isaiah 42]]"
-genre:
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.42.10]]"
 - "[[Isa.42.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.42.17]]"
 ---
 
-[[Isa.42|Isaiah 42:10 - Isaiah 42:17]]
+<small>[[Isa.42|Isaiah 42:10-17]]</small>
 *A New Song of Praise*
 
 [[Isa.42.10|10]] Sing unto the LORD a new song, \[and\] his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.

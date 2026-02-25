@@ -1,8 +1,61 @@
+---
+title: Numbers 3:30
+type: Verse
+kjv: "And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel."
+bsb: "and the leader of the families of the Kohathites was Elizaphan son of Uzziel."
+hebrew: "וּנְשִׂ֥יא בֵֽית־ אָ֖ב לְמִשְׁפְּחֹ֣ת הַקְּהָתִ֑י אֶלִיצָפָ֖ן בֶּן־ עֻזִּיאֵֽל׃"
+pericope: "[[Num.3.27 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ELIZAPHAN|ELIZAPHAN]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H6956]]"
+- "[[H0469G]]"
+- "[[H1121A]]"
+- "[[H5816G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:30**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of the house of the father of the families of the Kohathites [shall be] Elizaphan the son of Uzziel.
 <small><sub>**BSB:**</sub></small>
 and the leader of the families of the Kohathites was Elizaphan son of Uzziel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H5387A\|נְשִׂ֥יא]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H0001G\|אָ֖ב]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹ֣ת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֑י]] [[H0469G\|אֶלִיצָפָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5816G\|עֻזִּיאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARK|ARK]] • [[topic CENSUS|CENSUS]] • [[topic ELIZAPHAN|ELIZAPHAN]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.29|<< Numbers 3:29]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.31|Numbers 3:31 >>]]</td></tr></table>
 

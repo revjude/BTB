@@ -1,8 +1,54 @@
+---
+title: Judges 16:22
+type: Verse
+kjv: "Howbeit the hair of his head began to grow again after he was shaven."
+bsb: "However, the hair of his head began to grow back after it had been shaved."
+hebrew: "וַיָּ֧חֶל שְׂעַר־ רֹאשׁ֛וֹ לְצַמֵּ֖חַ כַּאֲשֶׁ֥ר גֻּלָּֽח׃ פ"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H8181]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6779]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1548]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 16:22**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the hair of his head began to grow again after he was shaven.
 <small><sub>**BSB:**</sub></small>
 However, the hair of his head began to grow back after it had been shaved.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2490C\|יָּ֧חֶל]] [[H8181\|שְׂעַר]][[H9014\|־]] [[H7218A\|רֹאשׁ֛]][[H9023\|וֹ]] [[H9005\|לְ]][[H6779\|צַמֵּ֖חַ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1548\|גֻּלָּֽח]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.21|<< Judges 16:21]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.23|Judges 16:23 >>]]</td></tr></table>
 
@@ -13,7 +59,7 @@ However, the hair of his head began to grow back after it had been shaved.
 | head his  |**<big>&#8207;[[H7218A\|רֹאשׁ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to grow back  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6779\|צַמֵּ֖חַ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tza.Me.ach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<just> when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֥ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had been shaved  |**<big>&#8207;[[H1548\|גֻּלָּֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gu.Lach<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been shaved  |**<big>&#8207;[[H1548\|גֻּלָּֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gu.Lach<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.21|<< Judges 16:21]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.23|Judges 16:23 >>]]</td></tr></table>
 
 

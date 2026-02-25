@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 2:4
+type: Verse
+kjv: "And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:"
+bsb: "My message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit’s power,"
+greek: "καὶ ὁ λόγος μου καὶ τὸ κήρυγμά μου οὐκ ἐν πειθοῖς ἀνθρωπίνης σοφίας λόγοις ἀλλ᾽ ἐν ἀποδείξει πνεύματος καὶ δυνάμεως,"
+pericope: "[[1Cor.2.1 Paul’s Message by the Spirit’s Power|Paul’s Message by the Spirit’s Power]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G2782]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3981]]"
+- "[[G0442]]"
+- "[[G4678]]"
+- "[[G0235]]"
+- "[[G0585]]"
+- "[[G4151G]]"
+- "[[G1411]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 2:4**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And my speech and my preaching [was] not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
 <small><sub>**BSB:**</sub></small>
 My message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit’s power,
-<small><sub>**Literal:**</sub></small>
-And the message of mine and the preaching of mine [were] not in persuasive of human of wisdom words but in demonstration of [the] Spirit and of power,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.3|<< 1 Corinthians 2:3]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.5|1 Corinthians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2782\|κήρυγμά]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3981\|πειθοῖς]]  [[G0442\|ἀνθρωπίνης]]  [[G4678\|σοφίας]]  [[G3056\|λόγοις]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G0585\|ἀποδείξει]]  [[G4151G\|πνεύματος]]  [[G2532\|καὶ]]  [[G1411\|δυνάμεως,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic POWER|POWER]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.3|<< 1 Corinthians 2:3]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.5|1 Corinthians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

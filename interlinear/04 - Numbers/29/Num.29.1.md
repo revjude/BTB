@@ -1,8 +1,67 @@
+---
+title: Numbers 29:1
+type: Verse
+kjv: "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you."
+bsb: "“On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets."
+hebrew: "וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־ קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ י֥וֹם תְּרוּעָ֖ה יִהְיֶ֥ה לָכֶֽם׃"
+pericope: "[[Num.29.1 The Feast of Trumpets|The Feast of Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2320H]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3117G]]"
+- "[[H8643]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:1**<big><big>[[Num.29.1 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the seventh month, on the first [day] of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
 <small><sub>**BSB:**</sub></small>
 “On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2320H\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֜י]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֗דֶשׁ]] [[H4744\|מִֽקְרָא]][[H9014\|־]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֑וּ]] [[H3117G\|י֥וֹם]] [[H8643\|תְּרוּעָ֖ה]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REST|REST]] • [[topic SANITATION|SANITATION]] • [[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.31|<< Numbers 28:31]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.2|Numbers 29:2 >>]]</td></tr></table>
 

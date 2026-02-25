@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 6:39
+type: Verse
+kjv: "And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea,"
+bsb: "Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea,"
+hebrew: "וְאָחִ֣יו אָסָ֔ף הָעֹמֵ֖ד עַל־ יְמִינ֑וֹ אָסָ֥ף בֶּן־ בֶּרֶכְיָ֖הוּ בֶּן־ שִׁמְעָֽא׃"
+pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BERECHIAH|BERECHIAH]]"
+- "[[topic SHIMEA|SHIMEA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0623H]]"
+- "[[H9009]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3225G]]"
+- "[[H1121A]]"
+- "[[H1296H]]"
+- "[[H8092H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:39**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brother Asaph, who stood on his right hand, [even] Asaph the son of Berachiah, the son of Shimea,
 <small><sub>**BSB:**</sub></small>
 Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0251G\|אָחִ֣י]][[H9023\|ו]] [[H0623H\|אָסָ֔ף]] [[H9009\|הָ]][[H5975G\|עֹמֵ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יְמִינ֑]][[H9023\|וֹ]] [[H0623H\|אָסָ֥ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1296H\|בֶּרֶכְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8092H\|שִׁמְעָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERECHIAH|BERECHIAH]] • [[topic SHIMEA|SHIMEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.38|<< 1 Chronicles 6:38]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.40|1 Chronicles 6:40 >>]]</td></tr></table>
 

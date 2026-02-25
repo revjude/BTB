@@ -1,10 +1,50 @@
+---
+title: Luke 19:36
+type: Verse
+kjv: "And as he went, they spread their clothes in the way."
+bsb: "As He rode along, the people spread their cloaks on the road."
+greek: "πορευομένου δὲ αὐτοῦ ὑπεστρώννυον τὰ ἱμάτια αὐτῶν ἐν τῇ ὁδῷ.¶"
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4198]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G5291]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G1722]]"
+- "[[G3598]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 19:36**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he went, they spread their clothes in the way.
 <small><sub>**BSB:**</sub></small>
 As He rode along, the people spread their cloaks on the road.
-<small><sub>**Literal:**</sub></small>
-When is going then He they were spreading the garments of them on the road.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.35|<< Luke 19:35]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.37|Luke 19:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορευομένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G5291\|ὑπεστρώννυον]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.35|<< Luke 19:35]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.37|Luke 19:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

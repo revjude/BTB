@@ -1,9 +1,60 @@
+---
+title: LXX 2 Chronicles 24:1
+type: Verse
+lxx: "Joash was seven years old in  his taking reign, and forty years he reigned in Jerusalem. And the name  of his mother was Zibeah from Beer-sheba."
+greek: "ον ετών επτά Ιωάς εν τω βασιλεύειν αυτόν και τεσσαράκοντα έτη εβασίλευσεν εν Ιερουσαλήμ και όνομα τη μητρί αυτού Σαβία εκ Βηρσαβεαί"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ZIBIAH|ZIBIAH]]"
+strongs:
+- "[[G1510]]"
+- "[[G2094]]"
+- "[[G2033]]"
+- "[[H3135]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0936]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5062]]"
+- "[[G2094]]"
+- "[[G0936]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[H6645]]"
+- "[[G1537]]"
+- "[[H0884]]"
+---
+
 **LXX 2 Chronicles 24:1** 
 
 ***Joash Repairs the House of The LORD***
 
 <small><sub>**LXX:**</sub></small>
 Joash \[was\] seven years \[old\] in  his taking reign, and forty years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Zibeah from Beer-sheba. 
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ον]] [[G2094\|ετών]] [[G2033\|επτά]] [[H3135\|Ιωάς]] [[G1722\|εν]] [[G3588\|τω]] [[G0936\|βασιλεύειν]] [[G1473\|αυτόν]] [[G2532\|και]] [[G5062\|τεσσαράκοντα]] [[G2094\|έτη]] [[G0936\|εβασίλευσεν]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G3686\|όνομα]] [[G3588\|τη]] [[G3384\|μητρί]] [[G1473\|αυτού]] [[H6645\|Σαβία]] [[G1537\|εκ]] [[H0884\|Βηρσαβεαί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZIBIAH|ZIBIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.21|<< 2 Chronicles 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.2|2 Chronicles 24:2 >>]]</td></tr></table>
 
@@ -29,6 +80,6 @@ Joash \[was\] seven years \[old\] in  his taking reign, and forty years he reign
 | \[was\] Zibeah | **<big>[[H6645\|Σαβία]]</big>** |
 | from | **<big>[[G1537\|εκ]]</big>** |
 | Beer-sheba. | **<big>[[H0884\|Βηρσαβεαί]]</big>** |
-[[2Chr.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.21|<< 2 Chronicles 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.2|2 Chronicles 24:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.21|<< 2 Chronicles 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.2|2 Chronicles 24:2 >>]]</td></tr></table>
 
 

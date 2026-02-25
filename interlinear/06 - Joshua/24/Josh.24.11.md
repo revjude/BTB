@@ -1,8 +1,72 @@
+---
+title: Joshua 24:11
+type: Verse
+kjv: "And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand."
+bsb: "After this, you crossed the Jordan and came to Jericho. The people of Jericho fought against you, as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, and I delivered them into your hand."
+hebrew: "וַתַּעַבְר֣וּ אֶת־ הַיַּרְדֵּן֮ וַתָּבֹ֣אוּ אֶל־ יְרִיחוֹ֒ וַיִּלָּחֲמ֣וּ בָכֶ֣ם בַּעֲלֵֽי־ יְ֠רִיחוֹ הָֽאֱמֹרִ֨י וְהַפְּרִזִּ֜י וְהַֽכְּנַעֲנִ֗י וְהַֽחִתִּי֙ וְהַגִּרְגָּשִׁ֔י הַֽחִוִּ֖י וְהַיְבוּסִ֑י וָאֶתֵּ֥ן אוֹתָ֖ם בְּיֶדְכֶֽם׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GIRGASHITES|GIRGASHITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H3405G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H1167G]]"
+- "[[H0567]]"
+- "[[H9002]]"
+- "[[H6522]]"
+- "[[H3669A]]"
+- "[[H2850]]"
+- "[[H1622]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:11**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.
 <small><sub>**BSB:**</sub></small>
 After this, you crossed the Jordan and came to Jericho. The people of Jericho fought against you, as did the Amorites, Perizzites, Canaanites, Hittites, Girgashites, Hivites, and Jebusites, and I delivered them into your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|תַּעַבְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֮]] [[H9001\|וַ]][[H0935G\|תָּבֹ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3405G\|יְרִיחוֹ֒]] [[H9001\|וַ]][[H3898A\|יִּלָּחֲמ֣וּ]] [[H9003\|בָ]][[H9036\|כֶ֣ם]] [[H1167G\|בַּעֲלֵֽי]][[H9014\|־]] [[H3405G\|יְ֠רִיחוֹ]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֨י]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֜י]] [[H9002\|וְ]][[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֗י]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2850\|חִתִּי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1622\|גִּרְגָּשִׁ֔י]] [[H9009\|הַֽ]][[H2340\|חִוִּ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִ֑י]] [[H9001\|וָ]][[H5414G\|אֶתֵּ֥ן]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIRGASHITES|GIRGASHITES]] • [[topic GOD|GOD]] • [[topic HITTITES|HITTITES]] • [[topic HIVITES|HIVITES]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JERICHO|JERICHO]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.10|<< Joshua 24:10]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.12|Joshua 24:12 >>]]</td></tr></table>
 

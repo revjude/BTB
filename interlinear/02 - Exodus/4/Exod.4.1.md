@@ -1,8 +1,75 @@
+---
+title: Exodus 4:1
+type: Verse
+kjv: "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee."
+bsb: "Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’”"
+hebrew: "וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא־ יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י יֹֽאמְר֔וּ לֹֽא־ נִרְאָ֥ה אֵלֶ֖יךָ יְהוָֽה׃"
+pericope: "[[Exod.4.1 Moses’ Staff|Moses’ Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic TOKEN|TOKEN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:1**<big><big>[[Exod.4.1 Moses’ Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.
 <small><sub>**BSB:**</sub></small>
 Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H4872\|מֹשֶׁה֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H9002\|וְ]][[H2005\|הֵן֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0539\|יַאֲמִ֣ינוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|יִשְׁמְע֖וּ]] [[H9003\|בְּ]][[H6963A\|קֹלִ֑]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H0559\|יֹֽאמְר֔וּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|נִרְאָ֥ה]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic DOUBTING|DOUBTING]] • [[topic EXCUSES|EXCUSES]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic SIGN|SIGN]] • [[topic TOKEN|TOKEN]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.22|<< Exodus 3:22]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.2|Exodus 4:2 >>]]</td></tr></table>
 

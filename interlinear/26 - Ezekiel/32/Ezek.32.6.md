@@ -1,8 +1,57 @@
+---
+title: Ezekiel 32:6
+type: Verse
+kjv: "I will also water with thy blood the land wherein thou swimmest, even to the mountains; and the rivers shall be full of thee."
+bsb: "I will drench the land with the flow of your blood, all the way to the mountains—the ravines will be filled."
+hebrew: "וְהִשְׁקֵיתִ֨י אֶ֧רֶץ צָפָתְךָ֛ מִדָּמְךָ֖ אֶל־ הֶֽהָרִ֑ים וַאֲפִקִ֖ים יִמָּלְא֥וּן מִמֶּֽךָּ׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H8248G]]"
+- "[[H0776G]]"
+- "[[H6824]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H0650]]"
+- "[[H4390]]"
+- "[[H9013]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:6**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also water with thy blood the land wherein thou swimmest, [even] to the mountains; and the rivers shall be full of thee.
 <small><sub>**BSB:**</sub></small>
 I will drench the land with the flow of your blood, all the way to the mountains—the ravines will be filled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8248G\|הִשְׁקֵיתִ֨י]] [[H0776G\|אֶ֧רֶץ]] [[H6824\|צָפָתְ]][[H9021\|ךָ֛]] [[H9006\|מִ]][[H1818\|דָּמְ]][[H9021\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֑ים]] [[H9002\|וַ]][[H0650\|אֲפִקִ֖ים]] [[H4390\|יִמָּלְא֥וּ]][[H9013\|ן]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.5|<< Ezekiel 32:5]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.7|Ezekiel 32:7 >>]]</td></tr></table>
 

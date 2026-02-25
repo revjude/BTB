@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fall of Shechem
+type: Pericope
 pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 9
 book/chapter: "[[Judg.9|Judges 9]]"
-genre:
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 20
 verses:
 - "[[Judg.9.30]]"
 - "[[Judg.9.31]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Judg.9.49]]"
 ---
 
-[[Judg.9|Judges 9:30 - Judges 9:49]]
+<small>[[Judg.9|Judges 9:30-49]]</small>
 *The Fall of Shechem*
 
 [[Judg.9.30|30]] And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.

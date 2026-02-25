@@ -1,8 +1,83 @@
+---
+title: Nehemiah 5:7
+type: Verse
+kjv: "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them."
+bsb: "and after serious thought I rebuked the nobles and officials, saying, “You are exacting usury from your own brothers!” So I called a large assembly against them"
+hebrew: "וַיִּמָּלֵ֨ךְ לִבִּ֜י עָלַ֗י וָאָרִ֙יבָה֙ אֶת־ הַחֹרִ֣ים וְאֶת־ הַסְּגָנִ֔ים וָאֹמְרָ֣ה לָהֶ֔ם מַשָּׁ֥א אִישׁ־ בְּאָחִ֖יו אַתֶּ֣ם נֹשְׂאִים וָאֶתֵּ֥ן עֲלֵיהֶ֖ם קְהִלָּ֥ה גְדוֹלָֽה׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427B]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7378]]"
+- "[[H9012]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2715]]"
+- "[[H9002]]"
+- "[[H5461]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4855]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H0859D]]"
+- "[[H5378]]"
+- "[[H5375K]]"
+- "[[H5414I]]"
+- "[[H6952]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nehemiah 5:7**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.
 <small><sub>**BSB:**</sub></small>
 and after serious thought I rebuked the nobles and officials, saying, “You are exacting usury from your own brothers!” So I called a large assembly against them
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427B\|יִּמָּלֵ֨ךְ]] [[H3820A\|לִבִּ֜]][[H9020\|י]] [[H5921A\|עָלַ֗]][[H9030\|י]] [[H9001\|וָ]][[H7378\|אָרִ֙יבָ]][[H9012\|ה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2715\|חֹרִ֣ים]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5461\|סְּגָנִ֔ים]] [[H9001\|וָ]][[H0559\|אֹמְרָ֣]][[H9012\|ה]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H4855\|מַשָּׁ֥א]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9003\|בְּ]][[H0251I\|אָחִ֖י]][[H9023\|ו]] [[H0859D\|אַתֶּ֣ם]] [[H5375K\|נֹשְׂאִים]] [[H9001\|וָ]][[H5414I\|אֶתֵּ֥ן]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H6952\|קְהִלָּ֥ה]] [[H1419A\|גְדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic BROTHER|BROTHER]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RICH, THE|RICH, THE]] • [[topic RULERS|RULERS]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.6|<< Nehemiah 5:6]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.8|Nehemiah 5:8 >>]]</td></tr></table>
 

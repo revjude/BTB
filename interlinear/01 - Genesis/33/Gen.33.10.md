@@ -1,8 +1,73 @@
+---
+title: Genesis 33:10
+type: Verse
+kjv: "And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me."
+bsb: "But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably."
+hebrew: "וַיֹּ֣אמֶר יַעֲקֹ֗ב אַל־ נָא֙ אִם־ נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ וְלָקַחְתָּ֥ מִנְחָתִ֖י מִיָּדִ֑י כִּ֣י עַל־ כֵּ֞ן רָאִ֣יתִי פָנֶ֗יךָ כִּרְאֹ֛ת פְּנֵ֥י אֱלֹהִ֖ים וַתִּרְצֵֽנִי׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0518A]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H3947H]]"
+- "[[H4503H]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H3588C]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9004]]"
+- "[[H0430G]]"
+- "[[H7521]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:10**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.
 <small><sub>**BSB:**</sub></small>
 But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3290\|יַעֲקֹ֗ב]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָא֙]] [[H0518A\|אִם]][[H9014\|־]] [[H4994\|נָ֨א]] [[H4672\|מָצָ֤אתִי]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H3947H\|לָקַחְתָּ֥]] [[H4503H\|מִנְחָתִ֖]][[H9020\|י]] [[H9006\|מִ]][[H3027G\|יָּדִ֑]][[H9020\|י]] [[H3588C\|כִּ֣י]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֞ן]] [[H7200G\|רָאִ֣יתִי]] [[H6440H\|פָנֶ֗י]][[H9021\|ךָ]] [[H9004\|כִּ]][[H7200G\|רְאֹ֛ת]] [[H6440H\|פְּנֵ֥י]] [[H0430G\|אֱלֹהִ֖ים]] [[H9001\|וַ]][[H7521\|תִּרְצֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic FLATTERY|FLATTERY]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.9|<< Genesis 33:9]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.11|Genesis 33:11 >>]]</td></tr></table>
 

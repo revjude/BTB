@@ -1,8 +1,66 @@
+---
+title: Joshua 21:44
+type: Verse
+kjv: "And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand."
+bsb: "And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand."
+hebrew: "וַיָּ֨נַח יְהוָ֤ה לָהֶם֙ מִסָּבִ֔יב כְּכֹ֥ל אֲשֶׁר־ נִשְׁבַּ֖ע לַאֲבוֹתָ֑ם וְלֹא־ עָ֨מַד אִ֤ישׁ בִּפְנֵיהֶם֙ מִכָּל־ אֹ֣יְבֵיהֶ֔ם אֵ֚ת כָּל־ אֹ֣יְבֵיהֶ֔ם נָתַ֥ן יְהוָ֖ה בְּיָדָֽם׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H6440H]]"
+- "[[H0341]]"
+- "[[H0853]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:44**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.
 <small><sub>**BSB:**</sub></small>
 And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5117\|יָּ֨נַח]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9006\|מִ]][[H5439H\|סָּבִ֔יב]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5975G\|עָ֨מַד]] [[H0376I\|אִ֤ישׁ]] [[H9003\|בִּ]][[H6440H\|פְנֵי]][[H9028\|הֶם֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹ֣יְבֵי]][[H9028\|הֶ֔ם]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹ֣יְבֵי]][[H9028\|הֶ֔ם]] [[H5414G\|נָתַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.43|<< Joshua 21:43]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.45|Joshua 21:45 >>]]</td></tr></table>
 

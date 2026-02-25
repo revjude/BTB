@@ -1,10 +1,62 @@
+---
+title: Romans 11:21
+type: Verse
+kjv: "For if God spared not the natural branches, take heed lest he also spare not thee."
+bsb: "For if God did not spare the natural branches, He will certainly not spare you either."
+greek: "εἰ γὰρ ὁ θεὸς τῶν κατὰ φύσιν κλάδων οὐκ ἐφείσατο, μή πως οὐδὲ σοῦ φείσεται.¶"
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GRAFTING|GRAFTING]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2596]]"
+- "[[G5449]]"
+- "[[G2798]]"
+- "[[G3756]]"
+- "[[G5339]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G3761]]"
+- "[[G4771]]"
+texts:
+- NKO
+- NK
+- N(k)O
+---
+
 **Romans 11:21**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if God spared not the natural branches, [take heed] lest he also spare not thee.
 <small><sub>**BSB:**</sub></small>
 For if God did not spare the natural branches, He will certainly not spare you either.
-<small><sub>**Literal:**</sub></small>
-If for <the> God the according to nature branches not spared, surely perhaps neither you will He spare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.20|<< Romans 11:20]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.22|Romans 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῶν]]  [[G2596\|κατὰ]]  [[G5449\|φύσιν]]  [[G2798\|κλάδων]]  [[G3756\|οὐκ]]  [[G5339\|ἐφείσατο,]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G3761\|οὐδὲ]]  [[G4771\|σοῦ]]  [[G5339\|φείσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic BRANCH|BRANCH]] • [[topic GENTILES|GENTILES]] • [[topic GRAFTING|GRAFTING]] • [[topic OLIVE|OLIVE]] • [[topic PRIDE|PRIDE]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.20|<< Romans 11:20]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.22|Romans 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

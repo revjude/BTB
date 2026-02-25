@@ -1,8 +1,54 @@
+---
+title: Daniel 8:20
+type: Verse
+kjv: "The ram which thou sawest having two horns are the kings of Media and Persia."
+bsb: "The two-horned ram that you saw represents the kings of Media and Persia."
+hebrew: "הָאַ֥יִל אֲשֶׁר־ רָאִ֖יתָ בַּ֣עַל הַקְּרָנָ֑יִם מַלְכֵ֖י מָדַ֥י וּפָרָֽס׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic RAM|RAM]]"
+strongs:
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H1167J]]"
+- "[[H7161A]]"
+- "[[H4428G]]"
+- "[[H4074H]]"
+- "[[H9002]]"
+- "[[H6539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:20**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ram which thou sawest having [two] horns [are] the kings of Media and Persia.
 <small><sub>**BSB:**</sub></small>
 The two-horned ram that you saw represents the kings of Media and Persia.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0352A\|אַ֥יִל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|רָאִ֖יתָ]] [[H1167J\|בַּ֣עַל]] [[H9009\|הַ]][[H7161A\|קְּרָנָ֑יִם]] [[H4428G\|מַלְכֵ֖י]] [[H4074H\|מָדַ֥י]] [[H9002\|וּ]][[H6539\|פָרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic RAM|RAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.19|<< Daniel 8:19]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.21|Daniel 8:21 >>]]</td></tr></table>
 

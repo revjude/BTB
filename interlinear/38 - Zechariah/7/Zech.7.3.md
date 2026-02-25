@@ -1,8 +1,68 @@
+---
+title: Zechariah 7:3
+type: Verse
+kjv: "And to speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?"
+bsb: "by asking the priests of the house of the LORD of Hosts, as well as the prophets, “Should I weep and fast in the fifth month, as I have done these many years?”"
+hebrew: "לֵאמֹ֗ר אֶל־ הַכֹּֽהֲנִים֙ אֲשֶׁר֙ לְבֵית־ יְהוָ֣ה צְבָא֔וֹת וְאֶל־ הַנְּבִיאִ֖ים לֵאמֹ֑ר הַֽאֶבְכֶּה֙ בַּחֹ֣דֶשׁ הַחֲמִשִׁ֔י הִנָּזֵ֕ר כַּאֲשֶׁ֣ר עָשִׂ֔יתִי זֶ֖ה כַּמֶּ֥ה שָׁנִֽים׃ פ"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H5030]]"
+- "[[H9008]]"
+- "[[H1058]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H2549]]"
+- "[[H5144A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H2088]]"
+- "[[H4100]]"
+- "[[H8141]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Zechariah 7:3**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] to speak unto the priests which [were] in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
 <small><sub>**BSB:**</sub></small>
 by asking the priests of the house of the LORD of Hosts, as well as the prophets, “Should I weep and fast in the fifth month, as I have done these many years?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H0834A\|אֲשֶׁר֙]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9008\|הַֽ]][[H1058\|אֶבְכֶּה֙]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִשִׁ֔י]] [[H5144A\|הִנָּזֵ֕ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֔יתִי]] [[H2088\|זֶ֖ה]] [[H9004\|כַּ]][[H4100\|מֶּ֥ה]] [[H8141\|שָׁנִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.2|<< Zechariah 7:2]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.4|Zechariah 7:4 >>]]</td></tr></table>
 
@@ -26,7 +86,7 @@ by asking the priests of the house of the LORD of Hosts, as well as the prophets
 | I have done  |**<big>&#8207;[[H6213A\|עָשִׂ֔יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֖ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how many?  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4100\|מֶּ֥ה]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.2|<< Zechariah 7:2]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.4|Zechariah 7:4 >>]]</td></tr></table>
 
 

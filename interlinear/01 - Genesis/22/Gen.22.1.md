@@ -1,8 +1,68 @@
+---
+title: Genesis 22:1
+type: Verse
+kjv: "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am."
+bsb: "Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered."
+hebrew: "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת־ אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי׃"
+pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H5254G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:1**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am].
 <small><sub>**BSB:**</sub></small>
 Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחַר֙]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0430G\|אֱלֹהִ֔ים]] [[H5254G\|נִסָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0085\|אַבְרָהָ֖ם]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H2009\|הִנֵּֽנִ]][[H9040\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.34|<< Genesis 21:34]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.2|Genesis 22:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

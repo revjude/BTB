@@ -1,8 +1,66 @@
+---
+title: Zechariah 3:1
+type: Verse
+kjv: "And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him."
+bsb: "Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him."
+hebrew: "וַיַּרְאֵ֗נִי אֶת־ יְהוֹשֻׁ֙עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־ יְמִינ֖וֹ לְשִׂטְנֽוֹ׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091J]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H7854]]"
+- "[[H5921A]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H7853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:1**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.
 <small><sub>**BSB:**</sub></small>
 Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְאֵ֗]][[H9030\|נִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3091J\|יְהוֹשֻׁ֙עַ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H5975G\|עֹמֵ֕ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H7854\|שָּׂטָ֛ן]] [[H5975G\|עֹמֵ֥ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יְמִינ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H7853\|שִׂטְנֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.13|<< Zechariah 2:13]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.2|Zechariah 3:2 >>]]</td></tr></table>
 

@@ -1,8 +1,48 @@
+---
+title: Psalm 75:9
+type: Verse
+kjv: "But I will declare for ever; I will sing praises to the God of Jacob."
+bsb: "But I will proclaim Him forever; I will sing praise to the God of Jacob."
+hebrew: "וַ֭אֲנִי אַגִּ֣יד לְעֹלָ֑ם אֲ֝זַמְּרָ֗ה לֵאלֹהֵ֥י יַעֲקֹֽב׃"
+pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 75
+book/chapter: "[[Ps.75|Psalm 75]]"
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2167]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 75:9**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will declare for ever; I will sing praises to the God of Jacob.
 <small><sub>**BSB:**</sub></small>
 But I will proclaim Him forever; I will sing praise to the God of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ֭]][[H0589\|אֲנִי]] [[H5046\|אַגִּ֣יד]] [[H9005\|לְ]][[H5769G\|עֹלָ֑ם]] [[H2167\|אֲ֝זַמְּרָ֗ה]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֥י]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.8|<< Psalms 75:8]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.10|Psalms 75:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,68 @@
+---
+title: Luke 15:27
+type: Verse
+kjv: "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+bsb: "‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’"
+jesus_said: "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+greek: "Ὁ δὲ εἶπεν αὐτῷ ὅτι ὁ ἀδελφός σου ἥκει, καὶ ἔθυσεν ὁ πατήρ σου τὸν μόσχον τὸν σιτευτόν, ὅτι ὑγιαίνοντα αὐτὸν ἀπέλαβεν."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G2240]]"
+- "[[G2532]]"
+- "[[G2380]]"
+- "[[G3962]]"
+- "[[G3448]]"
+- "[[G4618]]"
+- "[[G3754H]]"
+- "[[G5198]]"
+- "[[G0618]]"
+texts:
+- NKO
+---
+
 **Luke 15:27**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.
 <small><sub>**BSB:**</sub></small>
 ‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’
-<small><sub>**Literal:**</sub></small>
-<the> And he said to him that The brother of you is come, and has killed the father of you the calf <the> fattened, because in good health him he has received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.26|<< Luke 15:26]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.28|Luke 15:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου]]  [[G2240\|ἥκει,]]  [[G2532\|καὶ]]  [[G2380\|ἔθυσεν]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G4771\|σου]]  [[G3588\|τὸν]]  [[G3448\|μόσχον]]  [[G3588\|τὸν]]  [[G4618\|σιτευτόν,]]  [[G3754H\|ὅτι]]  [[G5198\|ὑγιαίνοντα]]  [[G0846\|αὐτὸν]]  [[G0618\|ἀπέλαβεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.26|<< Luke 15:26]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.28|Luke 15:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,84 @@
+---
+title: 2 Kings 11:4
+type: Verse
+kjv: "And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son."
+bsb: "Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son"
+hebrew: "וּבַשָּׁנָ֣ה הַ֠שְּׁבִיעִית שָׁלַ֨ח יְהוֹיָדָ֜ע וַיִּקַּ֣ח׀ אֶת־ שָׂרֵ֣י הַמֵּא֗וֹת לַכָּרִי֙ וְלָ֣רָצִ֔ים וַיָּבֵ֥א אֹתָ֛ם אֵלָ֖יו בֵּ֣ית יְהוָ֑ה וַיִּכְרֹת֩ לָהֶ֨ם בְּרִ֜ית וַיַּשְׁבַּ֤ע אֹתָם֙ בְּבֵ֣ית יְהוָ֔ה וַיַּ֥רְא אֹתָ֖ם אֶת־ בֶּן־ הַמֶּֽלֶךְ׃"
+pericope: "[[2Kgs.11.4 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KING|KING]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7971G]]"
+- "[[H3077H]]"
+- "[[H9001]]"
+- "[[H3947J]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H3746]]"
+- "[[H7323H]]"
+- "[[H0935G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H7650]]"
+- "[[H0854]]"
+- "[[H7200G]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 11:4**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.
 <small><sub>**BSB:**</sub></small>
 Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Carites, and the guards, and had them brought into the house of the LORD. There he made a covenant with them and put them under oath. He showed them the king’s son
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ֠]][[H7637\|שְּׁבִיעִית]] [[H7971G\|שָׁלַ֨ח]] [[H3077H\|יְהוֹיָדָ֜ע]] [[H9001\|וַ]][[H3947J\|יִּקַּ֣ח]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H3967\|מֵּא֗וֹת]] [[H9005\|לַ]][[H3746\|כָּרִי֙]] [[H9002\|וְ]][[H9005\|לָ֣]][[H7323H\|רָצִ֔ים]] [[H9001\|וַ]][[H0935G\|יָּבֵ֥א]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3772H\|יִּכְרֹת֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H1285\|בְּרִ֜ית]] [[H9001\|וַ]][[H7650\|יַּשְׁבַּ֤ע]] [[H0854\|אֹתָ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHURCH|CHURCH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KING|KING]] • [[topic LOYALTY|LOYALTY]] • [[topic OATH|OATH]] • [[topic ORPHAN|ORPHAN]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.3|<< 2 Kings 11:3]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.5|2 Kings 11:5 >>]]</td></tr></table>
 

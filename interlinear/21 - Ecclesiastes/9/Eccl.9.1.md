@@ -1,8 +1,69 @@
+---
+title: Ecclesiastes 9:1
+type: Verse
+kjv: "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them."
+bsb: "So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate."
+hebrew: "כִּ֣י אֶת־ כָּל־ זֶ֞ה נָתַ֤תִּי אֶל־ לִבִּי֙ וְלָב֣וּר אֶת־ כָּל־ זֶ֔ה אֲשֶׁ֨ר הַצַּדִּיקִ֧ים וְהַחֲכָמִ֛ים וַעֲבָדֵיהֶ֖ם בְּיַ֣ד הָאֱלֹהִ֑ים גַּֽם־ אַהֲבָ֣ה גַם־ שִׂנְאָ֗ה אֵ֤ין יוֹדֵ֙עַ֙ הָֽאָדָ֔ם הַכֹּ֖ל לִפְנֵיהֶֽם׃"
+pericope: "[[Eccl.9.1 Death Comes to Good and Bad|Death Comes to Good and Bad]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2088]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0952]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H6662]]"
+- "[[H2450]]"
+- "[[H5652]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0430G]]"
+- "[[H1571]]"
+- "[[H0160]]"
+- "[[H8135]]"
+- "[[H0369]]"
+- "[[H3045]]"
+- "[[H0120G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:1**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, [are] in the hand of God: no man knoweth either love or hatred [by] all [that is] before them.
 <small><sub>**BSB:**</sub></small>
 So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2088\|זֶ֞ה]] [[H5414H\|נָתַ֤תִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9002\|וְ]][[H9005\|לָ]][[H0952\|ב֣וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2088\|זֶ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H9009\|הַ]][[H6662\|צַּדִּיקִ֧ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2450\|חֲכָמִ֛ים]] [[H9002\|וַ]][[H5652\|עֲבָדֵי]][[H9028\|הֶ֖ם]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H1571\|גַּֽם]][[H9014\|־]] [[H0160\|אַהֲבָ֣ה]] [[H1571\|גַם]][[H9014\|־]] [[H8135\|שִׂנְאָ֗ה]] [[H0369\|אֵ֤ין]] [[H3045\|יוֹדֵ֙עַ֙]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9009\|הַ]][[H3605\|כֹּ֖ל]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.17|<< Ecclesiastes 8:17]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.2|Ecclesiastes 9:2 >>]]</td></tr></table>
 

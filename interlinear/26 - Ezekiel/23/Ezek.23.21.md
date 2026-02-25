@@ -1,8 +1,58 @@
+---
+title: Ezekiel 23:21
+type: Verse
+kjv: "Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth."
+bsb: "So you revisited the indecency of your youth, when the Egyptians caressed your bosom and pressed your young breasts."
+hebrew: "וַֽתִּפְקְדִ֔י אֵ֖ת זִמַּ֣ת נְעוּרָ֑יִךְ בַּעְשׂ֤וֹת מִמִּצְרַ֙יִם֙ דַּדַּ֔יִךְ לְמַ֖עַן שְׁדֵ֥י נְעוּרָֽיִךְ׃ ס"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485I]]"
+- "[[H0853]]"
+- "[[H2154]]"
+- "[[H5271A]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H6213B]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H1717]]"
+- "[[H4616]]"
+- "[[H7699A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 23:21**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth.
 <small><sub>**BSB:**</sub></small>
 So you revisited the indecency of your youth, when the Egyptians caressed your bosom and pressed your young breasts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6485I\|תִּפְקְדִ֔י]] [[H0853\|אֵ֖ת]] [[H2154\|זִמַּ֣ת]] [[H5271A\|נְעוּרָ֑יִ]][[H9022\|ךְ]] [[H9003\|בַּ]][[H6213B\|עְשׂ֤וֹת]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H1717\|דַּדַּ֔יִ]][[H9022\|ךְ]] [[H4616\|לְמַ֖עַן]] [[H7699A\|שְׁדֵ֥י]] [[H5271A\|נְעוּרָֽיִ]][[H9022\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.20|<< Ezekiel 23:20]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.22|Ezekiel 23:22 >>]]</td></tr></table>
 
@@ -17,7 +67,7 @@ So you revisited the indecency of your youth, when the Egyptians caressed your b
 | nipples your  |**<big>&#8207;[[H1717\|דַּדַּ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| da.Da.yi<small><sup>[[HNcmdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on account of  |**<big>&#8207;[[H4616\|לְמַ֖עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] breasts of  |**<big>&#8207;[[H7699A\|שְׁדֵ֥י]]&#8207; </big>**| she.Dei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| youth\<s> your  |**<big>&#8207;[[H5271A\|נְעוּרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.'u.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| youth\<s> your  |**<big>&#8207;[[H5271A\|נְעוּרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.'u.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.20|<< Ezekiel 23:20]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.22|Ezekiel 23:22 >>]]</td></tr></table>
 
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant with David
+type: Pericope
 pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 33
 book/chapter: "[[Jer.33|Jeremiah 33]]"
-genre:
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.33.14]]"
 - "[[Jer.33.15]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.33.26]]"
 ---
 
-[[Jer.33|Jeremiah 33:14 - Jeremiah 33:26]]
+<small>[[Jer.33|Jeremiah 33:14-26]]</small>
 *The Covenant with David*
 
 [[Jer.33.14|14]] Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah.

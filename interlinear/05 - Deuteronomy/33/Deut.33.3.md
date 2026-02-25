@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 33:3
+type: Verse
+kjv: "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words."
+bsb: "Surely You love the people; all the holy ones are in Your hand, and they sit down at Your feet; each receives Your words—"
+hebrew: "אַ֚ף חֹבֵ֣ב עַמִּ֔ים כָּל־ קְדֹשָׁ֖יו בְּיָדֶ֑ךָ וְהֵם֙ תֻּכּ֣וּ לְרַגְלֶ֔ךָ יִשָּׂ֖א מִדַּבְּרֹתֶֽיךָ׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FEET|FEET]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H0637]]"
+- "[[H2245]]"
+- "[[H5971A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6918H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H8497]]"
+- "[[H9005]]"
+- "[[H7272]]"
+- "[[H5375T]]"
+- "[[H9006]]"
+- "[[H1703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:3**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he loved the people; all his saints [are] in thy hand: and they sat down at thy feet; [every one] shall receive of thy words.
 <small><sub>**BSB:**</sub></small>
 Surely You love the people; all the holy ones are in Your hand, and they sit down at Your feet; each receives Your words—
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֚ף]] [[H2245\|חֹבֵ֣ב]] [[H5971A\|עַמִּ֔ים]] [[H3605\|כָּל]][[H9014\|־]] [[H6918H\|קְדֹשָׁ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H3027H\|יָדֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H1992\|הֵם֙]] [[H8497\|תֻּכּ֣וּ]] [[H9005\|לְ]][[H7272\|רַגְלֶ֔]][[H9021\|ךָ]] [[H5375T\|יִשָּׂ֖א]] [[H9006\|מִ]][[H1703\|דַּבְּרֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FEET|FEET]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.2|<< Deuteronomy 33:2]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.4|Deuteronomy 33:4 >>]]</td></tr></table>
 

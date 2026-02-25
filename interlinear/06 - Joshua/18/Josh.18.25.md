@@ -1,8 +1,49 @@
+---
+title: Joshua 18:25
+type: Verse
+kjv: "Gibeon, and Ramah, and Beeroth,"
+bsb: "Gibeon, Ramah, Beeroth,"
+hebrew: "גִּבְע֥וֹן וְהָֽרָמָ֖ה וּבְאֵרֽוֹת׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BEEROTH|BEEROTH]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H1391]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H0881G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:25**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gibeon, and Ramah, and Beeroth,
 <small><sub>**BSB:**</sub></small>
 Gibeon, Ramah, Beeroth,
+<small><sub>**Hebrew:**</sub></small>
+[[H1391\|גִּבְע֥וֹן]] [[H9002\|וְ]][[H9009\|הָֽ]][[H7414G\|רָמָ֖ה]] [[H9002\|וּ]][[H0881G\|בְאֵרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEEROTH|BEEROTH]] • [[topic BENJAMIN|BENJAMIN]] • [[topic GIBEON|GIBEON]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.24|<< Joshua 18:24]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.26|Joshua 18:26 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Kings 13:28
+type: Verse
+kjv: "And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass."
+bsb: "and he went and found the body lying in the road, with the donkey and the lion standing beside it. The lion had not eaten the body or mauled the donkey."
+hebrew: "וַיֵּ֗לֶךְ וַיִּמְצָ֤א אֶת־ נִבְלָתוֹ֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וַֽחֲמוֹר֙ וְהָ֣אַרְיֵ֔ה עֹמְדִ֖ים אֵ֣צֶל הַנְּבֵלָ֑ה לֹֽא־ אָכַ֤ל הָֽאַרְיֵה֙ אֶת־ הַנְּבֵלָ֔ה וְלֹ֥א שָׁבַ֖ר אֶֽת־ הַחֲמֽוֹר׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5038]]"
+- "[[H9023]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H2543]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H5975G]]"
+- "[[H0681]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:28**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.
 <small><sub>**BSB:**</sub></small>
 and he went and found the body lying in the road, with the donkey and the lion standing beside it. The lion had not eaten the body or mauled the donkey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H9001\|וַ]][[H4672\|יִּמְצָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלָת]][[H9023\|וֹ֙]] [[H7993\|מֻשְׁלֶ֣כֶת]] [[H9003\|בַּ]][[H1870K\|דֶּ֔רֶךְ]] [[H9002\|וַֽ]][[H2543\|חֲמוֹר֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0738B\|אַרְיֵ֔ה]] [[H5975G\|עֹמְדִ֖ים]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H5038\|נְּבֵלָ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|אָכַ֤ל]] [[H9009\|הָֽ]][[H0738B\|אַרְיֵה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5038\|נְּבֵלָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7665\|שָׁבַ֖ר]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.27|<< 1 Kings 13:27]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.29|1 Kings 13:29 >>]]</td></tr></table>
 

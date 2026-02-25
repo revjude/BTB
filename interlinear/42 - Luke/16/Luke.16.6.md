@@ -1,10 +1,68 @@
+---
+title: Luke 16:6
+type: Verse
+kjv: "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty."
+bsb: "‘A hundred measures of olive oil,’ he answered. ‘Take your bill,’ said the manager, ‘sit down quickly, and write fifty.’"
+jesus_said: "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty."
+greek: "ὁ δὲ εἶπεν· ἑκατὸν βάτους ἐλαίου. ὁ δὲ εἶπεν αὐτῷ· δέξαι σου τὰ γράμματα καὶ καθίσας ταχέως γράψον πεντήκοντα."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G1540]]"
+- "[[G0943]]"
+- "[[G1637]]"
+- "[[G0846]]"
+- "[[G1209]]"
+- "[[G4771]]"
+- "[[G1121]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G5030]]"
+- "[[G1125]]"
+- "[[G4004]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Luke 16:6**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.
 <small><sub>**BSB:**</sub></small>
 ‘A hundred measures of olive oil,’ he answered. ‘Take your bill,’ said the manager, ‘sit down quickly, and write fifty.’
-<small><sub>**Literal:**</sub></small>
-<the> then he said; A hundred baths of oil. <the> then he said to him; do take your the bills and having sat down soon do write fifty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.5|<< Luke 16:5]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.7|Luke 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G1540\|ἑκατὸν]]  [[G0943\|βάτους]]  [[G1637\|ἐλαίου.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1209\|δέξαι]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G1121\|γράμματα]]  [[G2532\|καὶ]]  [[G2523\|καθίσας]]  [[G5030\|ταχέως]]  [[G1125\|γράψον]]  [[G4004\|πεντήκοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic MEASURE|MEASURE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.5|<< Luke 16:5]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.7|Luke 16:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

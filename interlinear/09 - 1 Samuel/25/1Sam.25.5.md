@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 25:5
+type: Verse
+kjv: "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:"
+bsb: "So David sent ten young men and instructed them, “Go up to Nabal at Carmel. Greet him in my name"
+hebrew: "וַיִּשְׁלַ֥ח דָּוִ֖ד עֲשָׂרָ֣ה נְעָרִ֑ים וַיֹּ֨אמֶר דָּוִ֜ד לַנְּעָרִ֗ים עֲל֤וּ כַרְמֶ֙לָה֙ וּבָאתֶ֣ם אֶל־ נָבָ֔ל וּשְׁאֶלְתֶּם־ ל֥וֹ בִשְׁמִ֖י לְשָׁלֽוֹם׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H6235]]"
+- "[[H5288]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H3760G]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5037]]"
+- "[[H7592]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H7965K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:5**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:
 <small><sub>**BSB:**</sub></small>
 So David sent ten young men and instructed them, “Go up to Nabal at Carmel. Greet him in my name
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H1732\|דָּוִ֖ד]] [[H6235\|עֲשָׂרָ֣ה]] [[H5288\|נְעָרִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H9005\|לַ]][[H5288\|נְּעָרִ֗ים]] [[H5927G\|עֲל֤וּ]] [[H3760G\|כַרְמֶ֙לָ]][[H9011\|ה֙]] [[H9001\|וּ]][[H0935G\|בָאתֶ֣ם]] [[H0413\|אֶל]][[H9014\|־]] [[H5037\|נָבָ֔ל]] [[H9001\|וּ]][[H7592\|שְׁאֶלְתֶּם]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9003\|בִ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9005\|לְ]][[H7965K\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.4|<< 1 Samuel 25:4]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.6|1 Samuel 25:6 >>]]</td></tr></table>
 

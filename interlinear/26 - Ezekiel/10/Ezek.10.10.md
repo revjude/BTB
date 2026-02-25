@@ -1,8 +1,58 @@
+---
+title: Ezekiel 10:10
+type: Verse
+kjv: "And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel."
+bsb: "As for their appearance, all four had the same form, like a wheel within a wheel."
+hebrew: "וּמַ֨רְאֵיהֶ֔ם דְּמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H4758]]"
+- "[[H9028]]"
+- "[[H1823]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0212]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:10**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
 <small><sub>**BSB:**</sub></small>
 As for their appearance, all four had the same form, like a wheel within a wheel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4758\|מַ֨רְאֵי]][[H9028\|הֶ֔ם]] [[H1823\|דְּמ֥וּת]] [[H0259\|אֶחָ֖ד]] [[H9005\|לְ]][[H0702\|אַרְבַּעְתָּ֑]][[H9028\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1961\|יִהְיֶ֥ה]] [[H9009\|הָ]][[H0212\|אוֹפַ֖ן]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הָ]][[H0212\|אוֹפָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.9|<< Ezekiel 10:9]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.11|Ezekiel 10:11 >>]]</td></tr></table>
 

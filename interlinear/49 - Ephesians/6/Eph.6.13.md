@@ -1,10 +1,63 @@
+---
+title: Ephesians 6:13
+type: Verse
+kjv: "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand."
+bsb: "Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand."
+greek: "διὰ τοῦτο ἀναλάβετε τὴν πανοπλίαν τοῦ θεοῦ, ἵνα δυνηθῆτε ἀντιστῆναι ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ καὶ ἅπαντα κατεργασάμενοι στῆναι.¶"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G0353]]"
+- "[[G3588]]"
+- "[[G3833]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G1410]]"
+- "[[G0436]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G0537]]"
+- "[[G2716]]"
+- "[[G2476]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:13**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
 <small><sub>**BSB:**</sub></small>
 Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand.
-<small><sub>**Literal:**</sub></small>
-Because of this do take up the complete armor <the> of God, so that you may be able to withstand in the day <the> evil and all things having done to stand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.12|<< Ephesians 6:12]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.14|Ephesians 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G0353\|ἀναλάβετε]]  [[G3588\|τὴν]]  [[G3833\|πανοπλίαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G1410\|δυνηθῆτε]]  [[G0436\|ἀντιστῆναι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῇ]]  [[G4190\|πονηρᾷ]]  [[G2532\|καὶ]]  [[G0537\|ἅπαντα]]  [[G2716\|κατεργασάμενοι]]  [[G2476\|στῆναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SATAN|SATAN]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.12|<< Ephesians 6:12]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.14|Ephesians 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

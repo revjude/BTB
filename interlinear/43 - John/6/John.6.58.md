@@ -1,10 +1,67 @@
+---
+title: John 6:58
+type: Verse
+kjv: "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever."
+bsb: "This is the bread that came down from heaven. Unlike your fathers, who ate the manna and died, the one who eats this bread will live forever.”"
+jesus_said: "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever."
+greek: "οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ τοῦ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ πατέρες ὑμῶν τὸ μάννα καὶ ἀπέθανον· ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα.¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FLESH|FLESH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0740]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2597]]"
+- "[[G3756]]"
+- "[[G2531]]"
+- "[[G5315]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G3131]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G5176]]"
+- "[[G2198]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 6:58**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.
 <small><sub>**BSB:**</sub></small>
 This is the bread that came down from heaven. Unlike your fathers, who ate the manna and died, the one who eats this bread will live forever.”
-<small><sub>**Literal:**</sub></small>
-This is the bread <the> from <the> heaven having come down, not even as ate the fathers of you <the> manna and died; The [one] eating this <the> bread will live to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.57|<< John 6:57]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.59|John 6:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0740\|ἄρτος]]  [[G3588\|ὁ]]  [[G1537\|ἐξ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2597\|καταβάς,]]  [[G3756\|οὐ]]  [[G2531\|καθὼς]]  [[G5315\|ἔφαγον]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸ]]  [[G3131\|μάννα]]  [[G2532\|καὶ]]  [[G0599\|ἀπέθανον·]]  [[G3588\|ὁ]]  [[G5176\|τρώγων]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G2198\|ζήσει]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLESH|FLESH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MANNA|MANNA]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.57|<< John 6:57]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.59|John 6:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

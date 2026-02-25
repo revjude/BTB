@@ -1,8 +1,64 @@
+---
+title: Joshua 12:5
+type: Verse
+kjv: "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+bsb: "He ruled over Mount Hermon, Salecah, all of Bashan up to the border of the Geshurites and Maacathites, and half of Gilead to the border of Sihon king of Heshbon."
+hebrew: "וּ֠מֹשֵׁל בְּהַ֨ר חֶרְמ֤וֹן וּבְסַלְכָה֙ וּבְכָל־ הַבָּשָׁ֔ן עַד־ גְּב֥וּל הַגְּשׁוּרִ֖י וְהַמַּעֲכָתִ֑י וַחֲצִי֙ הַגִּלְעָ֔ד גְּב֖וּל סִיח֥וֹן מֶֽלֶךְ־ חֶשְׁבּֽוֹן׃"
+pericope: "[[Josh.12.1 The Kings Defeated East of the Jordan|The Kings Defeated East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic OG|OG]]"
+- "[[topic SALCAH|SALCAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H2768]]"
+- "[[H5548]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H5704]]"
+- "[[H1366G]]"
+- "[[H1651]]"
+- "[[H4602]]"
+- "[[H2677]]"
+- "[[H1568G]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H2809]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:5**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.
 <small><sub>**BSB:**</sub></small>
 He ruled over Mount Hermon, Salecah, all of Bashan up to the border of the Geshurites and Maacathites, and half of Gilead to the border of Sihon king of Heshbon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֠]][[H4910\|מֹשֵׁל]] [[H9003\|בְּ]][[H2022G\|הַ֨ר]] [[H2768\|חֶרְמ֤וֹן]] [[H9002\|וּ]][[H9003\|בְ]][[H5548\|סַלְכָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H5704\|עַד]][[H9014\|־]] [[H1366G\|גְּב֥וּל]] [[H9009\|הַ]][[H1651\|גְּשׁוּרִ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H4602\|מַּעֲכָתִ֑י]] [[H9002\|וַ]][[H2677\|חֲצִי֙]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H1366G\|גְּב֖וּל]] [[H5511\|סִיח֥וֹן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2809\|חֶשְׁבּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic CANAAN|CANAAN]] • [[topic MAACHAH|MAACHAH]] • [[topic OG|OG]] • [[topic SALCAH|SALCAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.4|<< Joshua 12:4]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.6|Joshua 12:6 >>]]</td></tr></table>
 

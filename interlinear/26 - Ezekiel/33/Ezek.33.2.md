@@ -1,8 +1,75 @@
+---
+title: Ezekiel 33:2
+type: Verse
+kjv: "Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:"
+bsb: "“Son of man, speak to your people and tell them: ‘Suppose I bring the sword against a land, and the people of that land choose a man from among them, appointing him as their watchman,"
+hebrew: "בֶּן־ אָדָ֗ם דַּבֵּ֤ר אֶל־ בְּנֵֽי־ עַמְּךָ֙ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם אֶ֕רֶץ כִּֽי־ אָבִ֥יא עָלֶ֖יהָ חָ֑רֶב וְלָקְח֨וּ עַם־ הָאָ֜רֶץ אִ֤ישׁ אֶחָד֙ מִקְצֵיהֶ֔ם וְנָתְנ֥וּ אֹת֛וֹ לָהֶ֖ם לְצֹפֶֽה׃"
+pericope: "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H2719]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H9028]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:2**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman:
 <small><sub>**BSB:**</sub></small>
 “Son of man, speak to your people and tell them: ‘Suppose I bring the sword against a land, and the people of that land choose a man from among them, appointing him as their watchman,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H1696G\|דַּבֵּ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H0776G\|אֶ֕רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935P\|אָבִ֥יא]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H2719\|חָ֑רֶב]] [[H9001\|וְ]][[H3947G\|לָקְח֨וּ]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H0376G\|אִ֤ישׁ]] [[H0259\|אֶחָד֙]] [[H9006\|מִ]][[H7097A\|קְצֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H5414I\|נָתְנ֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H6822\|צֹפֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.1|<< Ezekiel 33:1]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.3|Ezekiel 33:3 >>]]</td></tr></table>
 

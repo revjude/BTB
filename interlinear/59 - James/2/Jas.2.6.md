@@ -1,10 +1,59 @@
+---
+title: James 2:6
+type: Verse
+kjv: "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+bsb: "But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?"
+greek: "ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν. οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια;"
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0818]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G3756]]"
+- "[[G4145]]"
+- "[[G2616]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1670]]"
+- "[[G1519]]"
+- "[[G2922]]"
+texts:
+- NKO
+---
+
 **James 2:6**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?
 <small><sub>**BSB:**</sub></small>
 But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?
-<small><sub>**Literal:**</sub></small>
-You yourselves however dishonored the poor. Surely the rich are oppressing you and they themselves dragging you into court?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.5|<< James 2:5]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.7|James 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G0818\|ἠτιμάσατε]]  [[G3588\|τὸν]]  [[G4434\|πτωχόν.]]  [[G3756\|οὐχ]]  [[G3588\|οἱ]]  [[G4145\|πλούσιοι]]  [[G2616\|καταδυναστεύουσιν]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1670\|ἕλκουσιν]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G2922\|κριτήρια;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POOR|POOR]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RICHES|RICHES]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.5|<< James 2:5]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.7|James 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

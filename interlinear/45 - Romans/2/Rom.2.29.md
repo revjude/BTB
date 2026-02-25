@@ -1,10 +1,62 @@
+---
+title: Romans 2:29
+type: Verse
+kjv: "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God."
+bsb: "No, a man is a Jew because he is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the written code. Such a man’s praise does not come from men, but from God."
+greek: "ἀλλ᾽ ὁ ἐν τῷ κρυπτῷ Ἰουδαῖος, καὶ περιτομὴ καρδίας ἐν πνεύματι οὐ γράμματι, οὗ ὁ ἔπαινος οὐκ ἐξ ἀνθρώπων ἀλλ᾽ ἐκ τοῦ θεοῦ.¶"
+pericope: "[[Rom.2.17 The Jews and the Law|The Jews and the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2927]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G4061]]"
+- "[[G2588]]"
+- "[[G4151G]]"
+- "[[G3756]]"
+- "[[G1121]]"
+- "[[G3739]]"
+- "[[G1868]]"
+- "[[G1537]]"
+- "[[G0444]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 2:29**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he [is] a Jew, which is one inwardly; and circumcision [is that] of the heart, in the spirit, [and] not in the letter; whose praise [is] not of men, but of God.
 <small><sub>**BSB:**</sub></small>
 No, a man is a Jew because he is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the written code. Such a man’s praise does not come from men, but from God.
-<small><sub>**Literal:**</sub></small>
-but he who [is] on the inward a Jew [is one], and circumcision [is] of heart in spirit not in letter, of whom the praise [is] not of men but of <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.28|<< Romans 2:28]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.1|Romans 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2927\|κρυπτῷ]]  [[G2453\|Ἰουδαῖος,]]  [[G2532\|καὶ]]  [[G4061\|περιτομὴ]]  [[G2588\|καρδίας]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G3756\|οὐ]]  [[G1121\|γράμματι,]]  [[G3739\|οὗ]]  [[G3588\|ὁ]]  [[G1868\|ἔπαινος]]  [[G3756\|οὐκ]]  [[G1537\|ἐξ]]  [[G0444\|ἀνθρώπων]]  [[G0235\|ἀλλ᾽]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic FORMALISM|FORMALISM]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MAN|MAN]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.28|<< Romans 2:28]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.1|Romans 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

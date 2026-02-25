@@ -1,8 +1,64 @@
+---
+title: Zephaniah 3:5
+type: Verse
+kjv: "The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame."
+bsb: "The LORD within her is righteous; He does no wrong. He applies His justice morning by morning; He does not fail at dawn, yet the unjust know no shame."
+hebrew: "יְהוָ֤ה צַדִּיק֙ בְּקִרְבָּ֔הּ לֹ֥א יַעֲשֶׂ֖ה עַוְלָ֑ה בַּבֹּ֨קֶר בַּבֹּ֜קֶר מִשְׁפָּט֨וֹ יִתֵּ֤ן לָאוֹר֙ לֹ֣א נֶעְדָּ֔ר וְלֹֽא־ יוֹדֵ֥עַ עַוָּ֖ל בֹּֽשֶׁת׃"
+pericope: "[[Zeph.3.1 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic SHAME|SHAME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3068G]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H5766B]]"
+- "[[H1242]]"
+- "[[H4941H]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H5737C]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H5767]]"
+- "[[H1322]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:5**<big><big>[[Zeph.3.1 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The just LORD [is] in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.
 <small><sub>**BSB:**</sub></small>
 The LORD within her is righteous; He does no wrong. He applies His justice morning by morning; He does not fail at dawn, yet the unjust know no shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]] [[H6662\|צַדִּיק֙]] [[H9003\|בְּ]][[H7130G\|קִרְבָּ֔]][[H9024\|הּ]] [[H3808\|לֹ֥א]] [[H6213A\|יַעֲשֶׂ֖ה]] [[H5766B\|עַוְלָ֑ה]] [[H9003\|בַּ]][[H1242\|בֹּ֨קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֜קֶר]] [[H4941H\|מִשְׁפָּט֨]][[H9023\|וֹ]] [[H5414G\|יִתֵּ֤ן]] [[H9005\|לָ]][[H0216\|אוֹר֙]] [[H3808\|לֹ֣א]] [[H5737C\|נֶעְדָּ֔ר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יוֹדֵ֥עַ]] [[H5767\|עַוָּ֖ל]] [[H1322\|בֹּֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic SHAME|SHAME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.4|<< Zephaniah 3:4]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.6|Zephaniah 3:6 >>]]</td></tr></table>
 

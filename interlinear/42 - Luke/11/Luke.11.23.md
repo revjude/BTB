@@ -1,10 +1,54 @@
+---
+title: Luke 11:23
+type: Verse
+kjv: "He that is not with me is against me: and he that gathereth not with me scattereth."
+bsb: "He who is not with Me is against Me, and he who does not gather with Me scatters."
+jesus_said: "He that is not with me is against me: and he that gathereth not with me scattereth."
+greek: "ὁ μὴ ὢν μετ᾽ ἐμοῦ κατ᾽ ἐμοῦ ἐστιν, καὶ ὁ μὴ συνάγων μετ᾽ ἐμοῦ σκορπίζει.¶"
+pericope: "[[Luke.11.14 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G4650]]"
+texts:
+- NKO
+---
+
 **Luke 11:23**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that is not with me is against me: and he that gathereth not with me scattereth.
 <small><sub>**BSB:**</sub></small>
 He who is not with Me is against Me, and he who does not gather with Me scatters.
-<small><sub>**Literal:**</sub></small>
-The [one] not being with Me against Me is, and the [one] not gathering with Me scatters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.22|<< Luke 11:22]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.24|Luke 11:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G1510\|ὢν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμοῦ]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G4863\|συνάγων]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G4650\|σκορπίζει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECISION|DECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.22|<< Luke 11:22]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.24|Luke 11:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

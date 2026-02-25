@@ -1,10 +1,55 @@
+---
+title: Romans 9:1
+type: Verse
+kjv: "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+bsb: "I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit."
+greek: "Ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, συμμαρτυρούσης μοι τῆς συνειδήσεώς μου ἐν πνεύματι ἁγίῳ,"
+pericope: "[[Rom.9.1 Paul’s Concern for the Jews|Paul’s Concern for the Jews]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0225]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G5574]]"
+- "[[G4828]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G4893]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Romans 9:1**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-[The] truth I speak in Christ, Not I am lying, while is bearing witness  with me the conscience of mine in [the] Spirit Holy,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.39|<< Romans 8:39]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.2|Romans 9:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0225\|Ἀλήθειαν]]  [[G3004G\|λέγω]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ,]]  [[G3756\|οὐ]]  [[G5574\|ψεύδομαι,]]  [[G4828\|συμμαρτυρούσης]]  [[G3165\|μοι]]  [[G3588\|τῆς]]  [[G4893\|συνειδήσεώς]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.39|<< Romans 8:39]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.2|Romans 9:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

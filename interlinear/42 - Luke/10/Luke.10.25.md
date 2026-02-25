@@ -1,10 +1,66 @@
+---
+title: Luke 10:25
+type: Verse
+kjv: "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?"
+bsb: "One day an expert in the law stood up to test Him. “Teacher,” he asked, “what must I do to inherit eternal life?”"
+greek: "Καὶ ἰδοὺ νομικός τις ἀνέστη ἐκπειράζων αὐτὸν καὶ λέγων· διδάσκαλε, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;"
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3544]]"
+- "[[G5100]]"
+- "[[G0450]]"
+- "[[G1598]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2816]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 10:25**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
 <small><sub>**BSB:**</sub></small>
 One day an expert in the law stood up to test Him. “Teacher,” he asked, “what must I do to inherit eternal life?”
-<small><sub>**Literal:**</sub></small>
-And behold a lawyer certain stood up testing Him and saying; Teacher, what having done life eternal will I inherit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.24|<< Luke 10:24]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.26|Luke 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G3544\|νομικός]]  [[G5100\|τις]]  [[G0450\|ἀνέστη]]  [[G1598\|ἐκπειράζων]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγων·]]  [[G1320\|διδάσκαλε,]]  [[G5101\|τί]]  [[G4160G\|ποιήσας]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2816\|κληρονομήσω;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic DECEPTION|DECEPTION]] • [[topic DUTY|DUTY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.24|<< Luke 10:24]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.26|Luke 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

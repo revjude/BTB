@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eliphaz：The Innocent Prosper
+type: Pericope
 pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 4
 book/chapter: "[[Job.4|Job 4]]"
-genre:
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 21
 verses:
 - "[[Job.4.1]]"
 - "[[Job.4.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Job.4.21]]"
 ---
 
-[[Job.4|Job 4:1 - Job 4:21]]
+<small>[[Job.4|Job 4:1-21]]</small>
 *Eliphaz：The Innocent Prosper*
 
 [[Job.4.1|1]] Then Eliphaz the Temanite answered and said,

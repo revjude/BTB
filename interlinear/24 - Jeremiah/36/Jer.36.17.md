@@ -1,8 +1,63 @@
+---
+title: Jeremiah 36:17
+type: Verse
+kjv: "And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?"
+bsb: "“Tell us now,” they asked Baruch, “how did you write all these words? Was it at Jeremiah’s dictation?”"
+hebrew: "וְאֶ֨ת־ בָּר֔וּךְ שָׁאֲל֖וּ לֵאמֹ֑ר הַגֶּד־ נָ֣א לָ֔נוּ אֵ֗יךְ כָּתַ֛בְתָּ אֶת־ כָּל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה מִפִּֽיו׃"
+pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1263J]]"
+- "[[H7592]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5046]]"
+- "[[H4994]]"
+- "[[H9035]]"
+- "[[H0349A]]"
+- "[[H3789]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H6310I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:17**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?
 <small><sub>**BSB:**</sub></small>
 “Tell us now,” they asked Baruch, “how did you write all these words? Was it at Jeremiah’s dictation?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H1263J\|בָּר֔וּךְ]] [[H7592\|שָׁאֲל֖וּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5046\|הַגֶּד]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H0349A\|אֵ֗יךְ]] [[H3789\|כָּתַ֛בְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9006\|מִ]][[H6310I\|פִּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.16|<< Jeremiah 36:16]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.18|Jeremiah 36:18 >>]]</td></tr></table>
 

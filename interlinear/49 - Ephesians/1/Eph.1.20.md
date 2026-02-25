@@ -1,10 +1,61 @@
+---
+title: Ephesians 1:20
+type: Verse
+kjv: "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,"
+bsb: "which He exerted in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly realms,"
+greek: "ἣν ἐνήργησεν ἐν τῷ Χριστῷ ἐγείρας αὐτὸν ἐκ τῶν νεκρῶν καὶ καθίσας αὐτὸν ἐν δεξιᾷ αὐτοῦ ἐν τοῖς ἐπουρανίοις"
+pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3739]]"
+- "[[G1754]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G1453]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G1188]]"
+- "[[G2032]]"
+texts:
+- NKO
+- NK(o)
+- o
+- N(k)O
+---
+
 **Ephesians 1:20**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which he wrought in Christ, when he raised him from the dead, and set [him] at his own right hand in the heavenly [places],
 <small><sub>**BSB:**</sub></small>
 which He exerted in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly realms,
-<small><sub>**Literal:**</sub></small>
-which He worked in <the> Christ having raised Him out from the dead and having sat him at [the] right hand of Him in the heavenly realms<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.19|<< Ephesians 1:19]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.21|Ephesians 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἣν]]  [[G1754\|ἐνήργησεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5547\|Χριστῷ]]  [[G1453\|ἐγείρας]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν]]  [[G2532\|καὶ]]  [[G2523\|καθίσας]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G1188\|δεξιᾷ]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2032\|ἐπουρανίοις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.19|<< Ephesians 1:19]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.21|Ephesians 1:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 1:20** is...
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]

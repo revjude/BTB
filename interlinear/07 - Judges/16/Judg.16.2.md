@@ -1,8 +1,66 @@
+---
+title: Judges 16:2
+type: Verse
+kjv: "And it was told the Gazites, saying, Samson is come hither. And they compassed him in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him."
+bsb: "When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, “Let us wait until dawn; then we will kill him.”"
+hebrew: "לַֽעַזָּתִ֣ים׀ לֵאמֹ֗ר בָּ֤א שִׁמְשׁוֹן֙ הֵ֔נָּה וַיָּסֹ֛בּוּ וַיֶּאֶרְבוּ־ ל֥וֹ כָל־ הַלַּ֖יְלָה בְּשַׁ֣עַר הָעִ֑יר וַיִּתְחָרְשׁ֤וּ כָל־ הַלַּ֙יְלָה֙ לֵאמֹ֔ר עַד־ א֥וֹר הַבֹּ֖קֶר וַהֲרְגְנֻֽהוּ׃"
+pericope: "[[Judg.16.1 Samson Escapes Gaza|Samson Escapes Gaza]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic GAZATHITES|GAZATHITES]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9005]]"
+- "[[H5841]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H8123]]"
+- "[[H2008]]"
+- "[[H9001]]"
+- "[[H5437H]]"
+- "[[H0693]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H5892B]]"
+- "[[H2790B]]"
+- "[[H5704]]"
+- "[[H0216]]"
+- "[[H1242]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:2**<big><big>[[Judg.16.1 Samson Escapes Gaza|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And it was told] the Gazites, saying, Samson is come hither. And they compassed [him] in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.
 <small><sub>**BSB:**</sub></small>
 When the Gazites heard that Samson was there, they surrounded that place and lay in wait for him all night at the city gate. They were quiet throughout the night, saying, “Let us wait until dawn; then we will kill him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H5841\|עַזָּתִ֣ים]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0935G\|בָּ֤א]] [[H8123\|שִׁמְשׁוֹן֙]] [[H2008\|הֵ֔נָּה]] [[H9001\|וַ]][[H5437H\|יָּסֹ֛בּוּ]] [[H9001\|וַ]][[H0693\|יֶּאֶרְבוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֖יְלָה]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H2790B\|יִּתְחָרְשׁ֤וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֙יְלָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5704\|עַד]][[H9014\|־]] [[H0216\|א֥וֹר]] [[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H9001\|וַ]][[H2026\|הֲרְגְנֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDS|FRIENDS]] • [[topic GAZATHITES|GAZATHITES]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.1|<< Judges 16:1]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.3|Judges 16:3 >>]]</td></tr></table>
 

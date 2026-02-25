@@ -1,8 +1,61 @@
+---
+title: Isaiah 49:1
+type: Verse
+kjv: "Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name."
+bsb: "Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me."
+hebrew: "שִׁמְע֤וּ אִיִּים֙ אֵלַ֔י וְהַקְשִׁ֥יבוּ לְאֻמִּ֖ים מֵרָח֑וֹק יְהוָה֙ מִבֶּ֣טֶן קְרָאָ֔נִי מִמְּעֵ֥י אִמִּ֖י הִזְכִּ֥יר שְׁמִֽי׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISLAND|ISLAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0339]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7181]]"
+- "[[H3816]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H3068G]]"
+- "[[H0990H]]"
+- "[[H7121G]]"
+- "[[H4578]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H2142]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:1**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 <small><sub>**BSB:**</sub></small>
 Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֤וּ]] [[H0339\|אִיִּים֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H7181\|הַקְשִׁ֥יבוּ]] [[H3816\|לְאֻמִּ֖ים]] [[H9006\|מֵ]][[H7350\|רָח֑וֹק]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H0990H\|בֶּ֣טֶן]] [[H7121G\|קְרָאָ֔]][[H9030\|נִי]] [[H9006\|מִ]][[H4578\|מְּעֵ֥י]] [[H0517\|אִמִּ֖]][[H9020\|י]] [[H2142\|הִזְכִּ֥יר]] [[H8034\|שְׁמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic ISLAND|ISLAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.22|<< Isaiah 48:22]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.2|Isaiah 49:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

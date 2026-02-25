@@ -1,8 +1,77 @@
+---
+title: Numbers 11:26
+type: Verse
+kjv: "But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out unto the tabernacle: and they prophesied in the camp."
+bsb: "Two men, however, had remained in the camp—one named Eldad and the other Medad—and the Spirit rested on them. They were among those listed, but they had not gone out to the tent, and they prophesied in the camp."
+hebrew: "וַיִּשָּׁאֲר֣וּ שְׁנֵֽי־ אֲנָשִׁ֣ים׀ בַּֽמַּחֲנֶ֡ה שֵׁ֣ם הָאֶחָ֣ד׀ אֶלְדָּ֡ד וְשֵׁם֩ הַשֵּׁנִ֨י מֵידָ֜ד וַתָּ֧נַח עֲלֵיהֶ֣ם הָר֗וּחַ וְהֵ֙מָּה֙ בַּכְּתֻבִ֔ים וְלֹ֥א יָצְא֖וּ הָאֹ֑הֱלָה וַיִּֽתְנַבְּא֖וּ בַּֽמַּחֲנֶֽה׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ELDAD|ELDAD]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MEDAD|MEDAD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7604]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H0419]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H4312]]"
+- "[[H5117]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7307G]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H0168G]]"
+- "[[H9011]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:26**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there remained two [of the] men in the camp, the name of the one [was] Eldad, and the name of the other Medad: and the spirit rested upon them; and they [were] of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
 <small><sub>**BSB:**</sub></small>
 Two men, however, had remained in the camp—one named Eldad and the other Medad—and the Spirit rested on them. They were among those listed, but they had not gone out to the tent, and they prophesied in the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7604\|יִּשָּׁאֲר֣וּ]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H0582\|אֲנָשִׁ֣ים]][[H9015\|׀]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֡ה]] [[H8034\|שֵׁ֣ם]] [[H9009\|הָ]][[H0259\|אֶחָ֣ד]][[H9015\|׀]] [[H0419\|אֶלְדָּ֡ד]] [[H9002\|וְ]][[H8034\|שֵׁם֩]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֨י]] [[H4312\|מֵידָ֜ד]] [[H9001\|וַ]][[H5117\|תָּ֧נַח]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H9009\|הָ]][[H7307G\|ר֗וּחַ]] [[H9002\|וְ]][[H1992\|הֵ֙מָּה֙]] [[H9003\|בַּ]][[H3789\|כְּתֻבִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3318G\|יָצְא֖וּ]] [[H9009\|הָ]][[H0168G\|אֹ֑הֱלָ]][[H9011\|ה]] [[H9001\|וַ]][[H5012\|יִּֽתְנַבְּא֖וּ]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDAD|ELDAD]] • [[topic INSPIRATION|INSPIRATION]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MEDAD|MEDAD]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.25|<< Numbers 11:25]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.27|Numbers 11:27 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Light of the Gospel
+type: Pericope
 pericope: "[[2Cor.4.1 The Light of the Gospel|The Light of the Gospel]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 4
 book/chapter: "[[2Cor.4|2 Corinthians 4]]"
-genre:
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 6
 verses:
 - "[[2Cor.4.1]]"
 - "[[2Cor.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Cor.4.6]]"
 ---
 
-[[2Cor.4|2 Corinthians 4:1 - 2 Corinthians 4:6]]
+<small>[[2Cor.4|2 Corinthians 4:1-6]]</small>
 *The Light of the Gospel*
 
 [[2Cor.4.1|1]] Therefore seeing we have this ministry, as we have received mercy, we faint not;

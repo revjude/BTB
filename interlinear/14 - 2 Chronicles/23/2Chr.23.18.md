@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 23:18
+type: Verse
+kjv: "Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David."
+bsb: "Moreover, Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David."
+hebrew: "וַיָּשֶׂם֩ יְהוֹיָדָ֨ע פְּקֻדֹּ֜ת בֵּ֣ית יְהוָ֗ה בְּיַ֨ד הַכֹּהֲנִ֣ים הַלְוִיִּם֮ אֲשֶׁ֣ר חָלַ֣ק דָּוִיד֮ עַל־ בֵּ֣ית יְהוָה֒ לְֽהַעֲל֞וֹת עֹל֣וֹת יְהוָ֗ה כַּכָּת֛וּב בְּתוֹרַ֥ת מֹשֶׁ֖ה בְּשִׂמְחָ֣ה וּבְשִׁ֑יר עַ֖ל יְדֵ֥י דָוִֽיד׃"
+pericope: "[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H3077H]]"
+- "[[H6486]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0834A]]"
+- "[[H2505A]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H7892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:18**<big><big>[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as [it is] written in the law of Moses, with rejoicing and with singing, [as it was ordained] by David.
 <small><sub>**BSB:**</sub></small>
 Moreover, Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760H\|יָּשֶׂם֩]] [[H3077H\|יְהוֹיָדָ֨ע]] [[H6486\|פְּקֻדֹּ֜ת]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בְּ]][[H3027H\|יַ֨ד]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9009\|הַ]][[H3881\|לְוִיִּם֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H2505A\|חָלַ֣ק]] [[H1732\|דָּוִיד֮]] [[H5921A\|עַל]][[H9014\|־]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָה֒]] [[H9005\|לְֽ]][[H5927I\|הַעֲל֞וֹת]] [[H5930A\|עֹל֣וֹת]] [[H3068G\|יְהוָ֗ה]] [[H9004\|כַּ]][[H3789\|כָּת֛וּב]] [[H9003\|בְּ]][[H8451\|תוֹרַ֥ת]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H8057\|שִׂמְחָ֣ה]] [[H9002\|וּ]][[H9003\|בְ]][[H7892A\|שִׁ֑יר]] [[H5921A\|עַ֖ל]] [[H3027H\|יְדֵ֥י]] [[H1732\|דָוִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.17|<< 2 Chronicles 23:17]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.19|2 Chronicles 23:19 >>]]</td></tr></table>
 

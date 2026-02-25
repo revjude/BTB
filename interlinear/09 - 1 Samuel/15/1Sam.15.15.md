@@ -1,8 +1,78 @@
+---
+title: 1 Samuel 15:15
+type: Verse
+kjv: "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed."
+bsb: "Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”"
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל מֵעֲמָלֵקִ֣י הֱבִיא֗וּם אֲשֶׁ֨ר חָמַ֤ל הָעָם֙ עַל־ מֵיטַ֤ב הַצֹּאן֙ וְהַבָּקָ֔ר לְמַ֥עַן זְבֹ֖חַ לַיהוָ֣ה אֱלֹהֶ֑יךָ וְאֶת־ הַיּוֹתֵ֖ר הֶחֱרַֽמְנוּ׃ ס"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H6003]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H2550]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4315]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H4616]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H3148]]"
+- "[[H2763A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 15:15**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed.
 <small><sub>**BSB:**</sub></small>
 Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H9006\|מֵ]][[H6003\|עֲמָלֵקִ֣י]] [[H0935P\|הֱבִיא֗וּ]][[H9038\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H2550\|חָמַ֤ל]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4315\|מֵיטַ֤ב]] [[H9009\|הַ]][[H6629G\|צֹּאן֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1241\|בָּקָ֔ר]] [[H4616\|לְמַ֥עַן]] [[H2076\|זְבֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3148\|יּוֹתֵ֖ר]] [[H2763A\|הֶחֱרַֽמְנוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.14|<< 1 Samuel 15:14]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.16|1 Samuel 15:16 >>]]</td></tr></table>
 
@@ -25,7 +95,7 @@ Saul answered, “The troops brought them from the Amalekites; they spared the b
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3148\|יּוֹתֵ֖ר]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we totally destroyed  |**<big>&#8207;[[H2763A\|הֶחֱרַֽמְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| he.che.Ram.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we totally destroyed  |**<big>&#8207;[[H2763A\|הֶחֱרַֽמְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| he.che.Ram.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.14|<< 1 Samuel 15:14]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.16|1 Samuel 15:16 >>]]</td></tr></table>
 
 

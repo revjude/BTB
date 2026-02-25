@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Weeps at the Mount of Olives
+type: Pericope
 pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 15
 book/chapter: "[[2Sam.15|2 Samuel 15]]"
-genre:
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.15.30]]"
 - "[[2Sam.15.31]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.15.37]]"
 ---
 
-[[2Sam.15|2 Samuel 15:30 - 2 Samuel 15:37]]
+<small>[[2Sam.15|2 Samuel 15:30-37]]</small>
 *David Weeps at the Mount of Olives*
 
 [[2Sam.15.30|30]] And David went up by the ascent of \[mount\] Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that \[was\] with him covered every man his head, and they went up, weeping as they went up.

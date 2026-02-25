@@ -1,8 +1,52 @@
+---
+title: 1 Kings 6:28
+type: Verse
+kjv: "And he overlaid the cherubims with gold."
+bsb: "He also overlaid the cherubim with gold."
+hebrew: "וַיְצַ֥ף אֶת־ הַכְּרוּבִ֖ים זָהָֽב׃"
+pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:28**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he overlaid the cherubims with gold.
 <small><sub>**BSB:**</sub></small>
 He also overlaid the cherubim with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6823\|יְצַ֥ף]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֖ים]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic GOLD|GOLD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.27|<< 1 Kings 6:27]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.29|1 Kings 6:29 >>]]</td></tr></table>
 

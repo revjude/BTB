@@ -1,10 +1,69 @@
+---
+title: Luke 3:14
+type: Verse
+kjv: "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages."
+bsb: "Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”"
+greek: "ἐπηρώτων δὲ αὐτὸν καὶ στρατευόμενοι λέγοντες· τί ποιήσωμεν καὶ ἡμεῖς; καὶ εἶπεν πρὸς αὐτοῖς· μηδένα διασείσητε μηδὲ συκοφαντήσητε καὶ ἀρκεῖσθε τοῖς ὀψωνίοις ὑμῶν.¶"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G1905]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4754]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3367]]"
+- "[[G1286]]"
+- "[[G3366]]"
+- "[[G4811]]"
+- "[[G0714]]"
+- "[[G3588]]"
+- "[[G3800]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 3:14**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse [any] falsely; and be content with your wages.
 <small><sub>**BSB:**</sub></small>
 Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”
-<small><sub>**Literal:**</sub></small>
-Were asking then him also those being soldiers saying; What may do also we ourselves And he said to to them; No one may extort nor may accuse falsely and do be content with the wages of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.13|<< Luke 3:13]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.15|Luke 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1905\|ἐπηρώτων]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G4754\|στρατευόμενοι]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G4160G\|ποιήσωμεν]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς;]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοῖς·]]  [[G3367\|μηδένα]]  [[G1286\|διασείσητε]]  [[G3366\|μηδὲ]]  [[G4811\|συκοφαντήσητε]]  [[G2532\|καὶ]]  [[G0714\|ἀρκεῖσθε]]  [[G3588\|τοῖς]]  [[G3800\|ὀψωνίοις]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic INJUSTICE|INJUSTICE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.13|<< Luke 3:13]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.15|Luke 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 124:4
+type: Verse
+kjv: "Then the waters had overwhelmed us, the stream had gone over our soul:"
+bsb: "then the floods would have engulfed us, then the torrent would have overwhelmed us,"
+hebrew: "אֲ֭זַי הַמַּ֣יִם שְׁטָפ֑וּנוּ נַ֗֜חְלָה עָבַ֥ר עַל־ נַפְשֵֽׁנוּ׃"
+pericope: "[[Ps.124.1 Our Help Is in the Name of the LORD|Our Help Is in the Name of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 124
+book/chapter: "[[Ps.124|Psalm 124]]"
+chronological_order: 886
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0233]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H7857]]"
+- "[[H9035]]"
+- "[[H5158A]]"
+- "[[H9011]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315I]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 124:4**<big><big>[[Ps.124.1 Our Help Is in the Name of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the waters had overwhelmed us, the stream had gone over our soul:
 <small><sub>**BSB:**</sub></small>
 then the floods would have engulfed us, then the torrent would have overwhelmed us,
+<small><sub>**Hebrew:**</sub></small>
+[[H0233\|אֲ֭זַי]] [[H9009\|הַ]][[H4325G\|מַּ֣יִם]] [[H7857\|שְׁטָפ֑וּ]][[H9035\|נוּ]] [[H5158A\|נַ֗֜חְלָ]][[H9011\|ה]] [[H5674A\|עָבַ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשֵֽׁ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.124.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.3|<< Psalms 124:3]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124.5|Psalms 124:5 >>]]</td></tr></table>
 

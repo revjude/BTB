@@ -1,8 +1,65 @@
+---
+title: 1 Kings 3:3
+type: Verse
+kjv: "And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places."
+bsb: "And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places."
+hebrew: "וַיֶּאֱהַ֤ב שְׁלֹמֹה֙ אֶת־ יְהוָ֔ה לָלֶ֕כֶת בְּחֻקּ֖וֹת דָּוִ֣ד אָבִ֑יו רַ֚ק בַּבָּמ֔וֹת ה֥וּא מְזַבֵּ֖חַ וּמַקְטִֽיר׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H7535]]"
+- "[[H1116]]"
+- "[[H1931]]"
+- "[[H2076]]"
+- "[[H9002]]"
+- "[[H6999H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:3**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.
 <small><sub>**BSB:**</sub></small>
 And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0157G\|יֶּאֱהַ֤ב]] [[H8010\|שְׁלֹמֹה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לָ]][[H1980I\|לֶ֕כֶת]] [[H9003\|בְּ]][[H2708\|חֻקּ֖וֹת]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H7535\|רַ֚ק]] [[H9003\|בַּ]][[H1116\|בָּמ֔וֹת]] [[H1931\|ה֥וּא]] [[H2076\|מְזַבֵּ֖חַ]] [[H9002\|וּ]][[H6999H\|מַקְטִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DREAM|DREAM]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.2|<< 1 Kings 3:2]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.4|1 Kings 3:4 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Psalm 31:22
+type: Verse
+kjv: "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee."
+bsb: "In my alarm I said, “I am cut off from Your sight!” But You heard my plea for mercy when I called to You for help."
+hebrew: "וַאֲנִ֤י׀ אָ֘מַ֤רְתִּי בְחָפְזִ֗י נִגְרַזְתִּי֮ מִנֶּ֪גֶד עֵ֫ינֶ֥יךָ אָכֵ֗ן שָׁ֭מַעְתָּ ק֥וֹל תַּחֲנוּנַ֗י בְּשַׁוְּעִ֥י אֵלֶֽיךָ׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H2648]]"
+- "[[H9040]]"
+- "[[H1629]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H0403]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H8469]]"
+- "[[H9020]]"
+- "[[H7768]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:22**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.
 <small><sub>**BSB:**</sub></small>
 In my alarm I said, “I am cut off from Your sight!” But You heard my plea for mercy when I called to You for help.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֤י]][[H9015\|׀]] [[H0559\|אָ֘מַ֤רְתִּי]] [[H9003\|בְ]][[H2648\|חָפְזִ֗]][[H9040\|י]] [[H1629\|נִגְרַזְתִּי֮]] [[H9006\|מִ]][[H5048\|נֶּ֪גֶד]] [[H5869H\|עֵ֫ינֶ֥י]][[H9021\|ךָ]] [[H0403\|אָכֵ֗ן]] [[H8085G\|שָׁ֭מַעְתָּ]] [[H6963A\|ק֥וֹל]] [[H8469\|תַּחֲנוּנַ֗]][[H9020\|י]] [[H9003\|בְּ]][[H7768\|שַׁוְּעִ֥]][[H9040\|י]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic DOUBTING|DOUBTING]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.21|<< Psalms 31:21]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.23|Psalms 31:23 >>]]</td></tr></table>
 

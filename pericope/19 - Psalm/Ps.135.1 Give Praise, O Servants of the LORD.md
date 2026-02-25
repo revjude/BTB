@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Give Praise, O Servants of the LORD
+type: Pericope
 pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 135
 book/chapter: "[[Ps.135|Psalm 135]]"
-genre:
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.135.1]]"
 - "[[Ps.135.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.135.21]]"
 ---
 
-[[Ps.135|Psalm 135:1 - Psalm 135:21]]
+<small>[[Ps.135|Psalm 135:1-21]]</small>
 *Give Praise, O Servants of the LORD*
 
 [[Ps.135.1|1]] Praise ye the LORD. Praise ye the name of the LORD; praise \[him\], O ye servants of the LORD.

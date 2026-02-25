@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Taste and See That the LORD Is Good
+type: Pericope
 pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 34
 book/chapter: "[[Ps.34|Psalm 34]]"
-genre:
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 23
 verses:
 - "[[Ps.34.0]]"
 - "[[Ps.34.1]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ps.34.22]]"
 ---
 
-[[Ps.34|Psalm 34:1 - Psalm 34:22]]
+<small>[[Ps.34|Psalm 34:1-22]]</small>
 *Taste and See That the LORD Is Good*
 
 [[Ps.34.0|0]] \[A Psalm\] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.

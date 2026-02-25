@@ -1,10 +1,59 @@
+---
+title: John 5:28
+type: Verse
+kjv: "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+bsb: "Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice"
+jesus_said: "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+greek: "Μὴ θαυμάζετε τοῦτο, ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ἀκούσουσιν τῆς φωνῆς αὐτοῦ"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G3361]]"
+- "[[G2296]]"
+- "[[G3778]]"
+- "[[G3754H]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 5:28**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
 <small><sub>**BSB:**</sub></small>
 Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice
-<small><sub>**Literal:**</sub></small>
-Not do marvel at this, for is coming an hour in which all those in the tombs will hear the voice of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.27|<< John 5:27]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.29|John 5:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G2296\|θαυμάζετε]]  [[G3778\|τοῦτο,]]  [[G3754H\|ὅτι]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3419\|μνημείοις]]  [[G0191\|ἀκούσουσιν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.27|<< John 5:27]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.29|John 5:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

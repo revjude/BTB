@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 30:11
+type: Verse
+kjv: "And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;"
+bsb: "Now his men found an Egyptian in the field and brought him to David. They gave the man water to drink and food to eat—"
+hebrew: "וַֽיִּמְצְא֤וּ אִישׁ־ מִצְרִי֙ בַּשָּׂדֶ֔ה וַיִּקְח֥וּ אֹת֖וֹ אֶל־ דָּוִ֑ד וַיִּתְּנוּ־ ל֥וֹ לֶ֙חֶם֙ וַיֹּ֔אכַל וַיַּשְׁקֻ֖הוּ מָֽיִם׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H4713]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H0398]]"
+- "[[H8248H]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:11**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;
 <small><sub>**BSB:**</sub></small>
 Now his men found an Egyptian in the field and brought him to David. They gave the man water to drink and food to eat—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H4672\|יִּמְצְא֤וּ]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H4713\|מִצְרִי֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H9001\|וַ]][[H3947J\|יִּקְח֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H5414G\|יִּתְּנוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3899H\|לֶ֙חֶם֙]] [[H9001\|וַ]][[H0398\|יֹּ֔אכַל]] [[H9001\|וַ]][[H8248H\|יַּשְׁקֻ֖]][[H9033\|הוּ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.10|<< 1 Samuel 30:10]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.12|1 Samuel 30:12 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Acts 4:15
+type: Verse
+kjv: "But when they had commanded them to go aside out of the council, they conferred among themselves,"
+bsb: "So they ordered them to leave the Sanhedrin and then conferred together."
+greek: "Κελεύσαντες δὲ αὐτοὺς ἔξω τοῦ συνεδρίου ἀπελθεῖν, συνέβαλλον πρὸς ἀλλήλους"
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2753]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1854]]"
+- "[[G3588]]"
+- "[[G4892]]"
+- "[[G0565]]"
+- "[[G4820]]"
+- "[[G4314]]"
+- "[[G0240]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:15**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they had commanded them to go aside out of the council, they conferred among themselves,
 <small><sub>**BSB:**</sub></small>
 So they ordered them to leave the Sanhedrin and then conferred together.
-<small><sub>**Literal:**</sub></small>
-Having commanded however them outside the Council to go, they were confering with one another<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.14|<< Acts 4:14]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.16|Acts 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2753\|Κελεύσαντες]]  [[G1161\|δὲ]]  [[G0846\|αὐτοὺς]]  [[G1854\|ἔξω]]  [[G3588\|τοῦ]]  [[G4892\|συνεδρίου]]  [[G0565\|ἀπελθεῖν,]]  [[G4820\|συνέβαλλον]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.14|<< Acts 4:14]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.16|Acts 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

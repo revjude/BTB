@@ -1,10 +1,63 @@
+---
+title: Philippians 2:27
+type: Verse
+kjv: "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
+bsb: "He was sick indeed, nearly unto death. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow."
+greek: "καὶ γὰρ ἠσθένησεν παραπλήσιον θανάτῳ· ἀλλ᾽ ὁ θεὸς ἠλέησεν αὐτόν, οὐκ αὐτὸν δὲ μόνον ἀλλὰ καὶ ἐμέ, ἵνα μὴ λύπην ἐπὶ λύπην σχῶ."
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic EPAPHRODITUS|EPAPHRODITUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G0770H]]"
+- "[[G3897]]"
+- "[[G2288]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1653]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1161]]"
+- "[[G3441]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3077]]"
+- "[[G1909]]"
+- "[[G2192]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Philippians 2:27**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.
 <small><sub>**BSB:**</sub></small>
 He was sick indeed, nearly unto death. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow.
-<small><sub>**Literal:**</sub></small>
-And indeed he was sick nearly unto death; but <the> God had mercy on him not on him now alone but also on me myself, that not sorrow upon sorrow I may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.26|<< Philippians 2:26]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.28|Philippians 2:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G0770H\|ἠσθένησεν]]  [[G3897\|παραπλήσιον]]  [[G2288\|θανάτῳ·]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1653\|ἠλέησεν]]  [[G0846\|αὐτόν,]]  [[G3756\|οὐκ]]  [[G0846\|αὐτὸν]]  [[G1161\|δὲ]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1473\|ἐμέ,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3077\|λύπην]]  [[G1909\|ἐπὶ]]  [[G3077\|λύπην]]  [[G2192\|σχῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPAPHRODITUS|EPAPHRODITUS]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.26|<< Philippians 2:26]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.28|Philippians 2:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

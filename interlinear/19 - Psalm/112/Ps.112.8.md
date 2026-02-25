@@ -1,8 +1,58 @@
+---
+title: Psalm 112:8
+type: Verse
+kjv: "His heart is established, he shall not be afraid, until he see his desire upon his enemies."
+bsb: "His heart is assured; he does not fear, until he looks in triumph on his foes."
+hebrew: "סָמ֣וּךְ לִ֭בּוֹ לֹ֣א יִירָ֑א עַ֖ד אֲשֶׁר־ יִרְאֶ֣ה בְצָרָֽיו׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H5564]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H6862C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:8**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His heart [is] established, he shall not be afraid, until he see [his desire] upon his enemies.
 <small><sub>**BSB:**</sub></small>
 His heart is assured; he does not fear, until he looks in triumph on his foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H5564\|סָמ֣וּךְ]] [[H3820A\|לִ֭בּ]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H3372G\|יִירָ֑א]] [[H5704\|עַ֖ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|יִרְאֶ֣ה]] [[H9003\|בְ]][[H6862C\|צָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HEART|HEART]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.7|<< Psalms 112:7]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.9|Psalms 112:9 >>]]</td></tr></table>
 

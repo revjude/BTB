@@ -1,10 +1,60 @@
+---
+title: John 18:39
+type: Verse
+kjv: "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?"
+bsb: "But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?”"
+greek: "ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ἀπολύσω ὑμῖν ἐν τῷ πάσχα· βούλεσθε οὖν ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων;"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G4914]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1520]]"
+- "[[G0630G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3957]]"
+- "[[G1014]]"
+- "[[G3767]]"
+- "[[G0935]]"
+- "[[G2453]]"
+texts:
+- NKO
+---
+
 **John 18:39**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
 <small><sub>**BSB:**</sub></small>
 But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?”
-<small><sub>**Literal:**</sub></small>
-It is however a custom with you that one I may release to you at the Passover; wish you therefore I may release to you the King of the Jews?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.38|<< John 18:38]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.40|John 18:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔστιν]]  [[G1161\|δὲ]]  [[G4914\|συνήθεια]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G1520\|ἕνα]]  [[G0630G\|ἀπολύσω]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3957\|πάσχα·]]  [[G1014\|βούλεσθε]]  [[G3767\|οὖν]]  [[G0630G\|ἀπολύσω]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸν]]  [[G0935\|βασιλέα]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PASSOVER|PASSOVER]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.38|<< John 18:38]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.40|John 18:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

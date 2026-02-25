@@ -1,8 +1,57 @@
+---
+title: Jeremiah 50:13
+type: Verse
+kjv: "Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues."
+bsb: "Because of the wrath of the LORD, she will not be inhabited; she will become completely desolate. All who pass through Babylon will be horrified and will hiss at all her wounds."
+hebrew: "מִקֶּ֤צֶף יְהוָה֙ לֹ֣א תֵשֵׁ֔ב וְהָיְתָ֥ה שְׁמָמָ֖ה כֻּלָּ֑הּ כֹּ֚ל עֹבֵ֣ר עַל־ בָּבֶ֔ל יִשֹּׁ֥ם וְיִשְׁרֹ֖ק עַל־ כָּל־ מַכּוֹתֶֽיהָ׃"
+pericope: "[[Jer.50.11 Babylon’s Fall Is Certain|Babylon’s Fall Is Certain]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9006]]"
+- "[[H7110A]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8077A]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H8074H]]"
+- "[[H9002]]"
+- "[[H8319]]"
+- "[[H4347]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:13**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.
 <small><sub>**BSB:**</sub></small>
 Because of the wrath of the LORD, she will not be inhabited; she will become completely desolate. All who pass through Babylon will be horrified and will hiss at all her wounds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H7110A\|קֶּ֤צֶף]] [[H3068G\|יְהוָה֙]] [[H3808\|לֹ֣א]] [[H3427\|תֵשֵׁ֔ב]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H8077A\|שְׁמָמָ֖ה]] [[H3605\|כֻּלָּ֑]][[H9024\|הּ]] [[H3605\|כֹּ֚ל]] [[H5674A\|עֹבֵ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H8074H\|יִשֹּׁ֥ם]] [[H9002\|וְ]][[H8319\|יִשְׁרֹ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4347\|מַכּוֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.12|<< Jeremiah 50:12]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.14|Jeremiah 50:14 >>]]</td></tr></table>
 

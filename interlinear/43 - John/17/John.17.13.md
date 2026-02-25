@@ -1,10 +1,61 @@
+---
+title: John 17:13
+type: Verse
+kjv: "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves."
+bsb: "But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them."
+jesus_said: "And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves."
+greek: "νῦν δὲ πρὸς σὲ ἔρχομαι καὶ ταῦτα λαλῶ ἐν τῷ κόσμῳ, ἵνα ἔχωσιν τὴν χαρὰν τὴν ἐμὴν πεπληρωμένην ἐν ἑαυτοῖς."
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G2443]]"
+- "[[G2192]]"
+- "[[G5479]]"
+- "[[G1473]]"
+- "[[G4137]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 17:13**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
 <small><sub>**BSB:**</sub></small>
 But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them.
-<small><sub>**Literal:**</sub></small>
-Now however to You I am coming and these things I speak in the world, so that they may have <the> joy <the> of Mine fulfilled within themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.12|<< John 17:12]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.14|John 17:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2064\|ἔρχομαι]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G2980\|λαλῶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ,]]  [[G2443\|ἵνα]]  [[G2192\|ἔχωσιν]]  [[G3588\|τὴν]]  [[G5479\|χαρὰν]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G4137\|πεπληρωμένην]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.12|<< John 17:12]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.14|John 17:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,69 @@
+---
+title: Luke 9:49
+type: Verse
+kjv: "And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us."
+bsb: "“Master,” said John, “we saw someone driving out demons in Your name, and we tried to stop him, because he does not accompany us.”"
+greek: "ἀποκριθεὶς δὲ ὁ Ἰωάννης εἶπεν· ἐπιστάτα, εἴδομέν τινα ἐν τῷ ὀνόματί σου ἐκβάλλοντα δαιμόνια καὶ ἐκωλύομεν αὐτὸν ὅτι οὐκ ἀκολουθεῖ μεθ᾽ ἡμῶν.¶"
+pericope: "[[Luke.9.46 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic TOLERATION|TOLERATION]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2491H]]"
+- "[[G2036]]"
+- "[[G1988]]"
+- "[[G1492H]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G1544]]"
+- "[[G1140]]"
+- "[[G2532]]"
+- "[[G2967]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G0190]]"
+- "[[G3326]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 9:49**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
 <small><sub>**BSB:**</sub></small>
 “Master,” said John, “we saw someone driving out demons in Your name, and we tried to stop him, because he does not accompany us.”
-<small><sub>**Literal:**</sub></small>
-Answering now <the> John said; Master, we saw someone in the name of You casting out demons and we were forbidding him because not he follows with us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.48|<< Luke 9:48]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.50|Luke 9:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2491H\|Ἰωάννης]]  [[G2036\|εἶπεν·]]  [[G1988\|ἐπιστάτα,]]  [[G1492H\|εἴδομέν]]  [[G5100\|τινα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G4771\|σου]]  [[G1544\|ἐκβάλλοντα]]  [[G1140\|δαιμόνια]]  [[G2532\|καὶ]]  [[G2967\|ἐκωλύομεν]]  [[G0846\|αὐτὸν]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G0190\|ἀκολουθεῖ]]  [[G3326\|μεθ᾽]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic TOLERATION|TOLERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.48|<< Luke 9:48]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.50|Luke 9:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

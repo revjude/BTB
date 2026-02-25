@@ -1,8 +1,73 @@
+---
+title: 1 Kings 7:24
+type: Verse
+kjv: "And under the brim of it round about there were knops compassing it, ten in a cubit, compassing the sea round about: the knops were cast in two rows, when it was cast."
+bsb: "Below the rim, ornamental buds encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea."
+hebrew: "וּפְקָעִים֩ מִתַּ֨חַת לִשְׂפָת֤וֹ׀ סָבִיב֙ סֹבְבִ֣ים אֹת֔וֹ עֶ֚שֶׂר בָּֽאַמָּ֔ה מַקִּפִ֥ים אֶת־ הַיָּ֖ם סָבִ֑יב שְׁנֵ֤י טוּרִים֙ הַפְּקָעִ֔ים יְצֻקִ֖ים בִּיצֻקָתֽוֹ׃"
+pericope: "[[1Kgs.7.23 The Molten Sea|The Molten Sea]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6497]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9005]]"
+- "[[H8193I]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H5439G]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6235]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H5362B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H8147]]"
+- "[[H2905]]"
+- "[[H3332H]]"
+- "[[H3333]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:24**<big><big>[[1Kgs.7.23 The Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under the brim of it round about [there were] knops compassing it, ten in a cubit, compassing the sea round about: the knops [were] cast in two rows, when it was cast.
 <small><sub>**BSB:**</sub></small>
 Below the rim, ornamental buds encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6497\|פְקָעִים֩]] [[H9006\|מִ]][[H8478G\|תַּ֨חַת]] [[H9005\|לִ]][[H8193I\|שְׂפָת֤]][[H9023\|וֹ]][[H9015\|׀]] [[H5439G\|סָבִיב֙]] [[H5437H\|סֹבְבִ֣ים]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H6235\|עֶ֚שֶׂר]] [[H9003\|בָּֽ]][[H0520A\|אַמָּ֔ה]] [[H5362B\|מַקִּפִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H5439G\|סָבִ֑יב]] [[H8147\|שְׁנֵ֤י]] [[H2905\|טוּרִים֙]] [[H9009\|הַ]][[H6497\|פְּקָעִ֔ים]] [[H3332H\|יְצֻקִ֖ים]] [[H9003\|בִּ]][[H3333\|יצֻקָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.23|<< 1 Kings 7:23]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.25|1 Kings 7:25 >>]]</td></tr></table>
 

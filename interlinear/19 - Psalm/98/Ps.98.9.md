@@ -1,8 +1,61 @@
+---
+title: Psalm 98:9
+type: Verse
+kjv: "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
+bsb: "before the LORD, for He comes to judge the earth. He will judge the world with righteousness and the peoples with equity."
+hebrew: "לִֽפְֽנֵי־ יְהוָ֗ה כִּ֥י בָא֮ לִשְׁפֹּ֪ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־ תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בְּמֵישָׁרִֽים׃"
+pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H8199]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8398]]"
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H4339]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 98:9**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.
 <small><sub>**BSB:**</sub></small>
 before the LORD, for He comes to judge the earth. He will judge the world with righteousness and the peoples with equity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִֽ]][[H6440G\|פְֽנֵי]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H3588A\|כִּ֥י]] [[H0935G\|בָא֮]] [[H9005\|לִ]][[H8199\|שְׁפֹּ֪ט]] [[H9009\|הָ֫]][[H0776G\|אָ֥רֶץ]] [[H8199\|יִשְׁפֹּֽט]][[H9014\|־]] [[H8398\|תֵּבֵ֥ל]] [[H9003\|בְּ]][[H6664G\|צֶ֑דֶק]] [[H9002\|וְ֝]][[H5971A\|עַמִּ֗ים]] [[H9003\|בְּ]][[H4339\|מֵישָׁרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.8|<< Psalms 98:8]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.1|Psalms 99:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

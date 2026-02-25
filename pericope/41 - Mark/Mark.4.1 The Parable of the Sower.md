@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Sower
+type: Pericope
 pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Mark.4.1]]"
 - "[[Mark.4.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mark.4.9]]"
 ---
 
-[[Mark.4|Mark 4:1 - Mark 4:9]]
+<small>[[Mark.4|Mark 4:1-9]]</small>
 *The Parable of the Sower*
 
 [[Mark.4.1|1]] And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.

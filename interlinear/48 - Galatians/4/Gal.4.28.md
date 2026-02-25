@@ -1,10 +1,51 @@
+---
+title: Galatians 4:28
+type: Verse
+kjv: "Now we, brethren, as Isaac was, are the children of promise."
+bsb: "Now you, brothers, like Isaac, are children of promise."
+greek: "ὑμεῖς δέ, ἀδελφοί, κατὰ Ἰσαὰκ ἐπαγγελίας τέκνα ἐστέ."
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G2596]]"
+- "[[G2464]]"
+- "[[G1860]]"
+- "[[G5043]]"
+- "[[G1510]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Galatians 4:28**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we, brethren, as Isaac was, are the children of promise.
 <small><sub>**BSB:**</sub></small>
 Now you, brothers, like Isaac, are children of promise.
-<small><sub>**Literal:**</sub></small>
-you yourselves now, brothers, like Isaac of promise children you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.27|<< Galatians 4:27]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.29|Galatians 4:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G2596\|κατὰ]]  [[G2464\|Ἰσαὰκ]]  [[G1860\|ἐπαγγελίας]]  [[G5043\|τέκνα]]  [[G1510\|ἐστέ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ISAAC|ISAAC]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PARABLES|PARABLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.27|<< Galatians 4:27]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.29|Galatians 4:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

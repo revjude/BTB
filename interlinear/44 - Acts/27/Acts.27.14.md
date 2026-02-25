@@ -1,10 +1,54 @@
+---
+title: Acts 27:14
+type: Verse
+kjv: "But not long after there arose against it a tempestuous wind, called Euroclydon."
+bsb: "But it was not long before a cyclone called the Northeaster swept down across the island."
+greek: "μετ᾽ οὐ πολὺ δὲ ἔβαλεν κατ᾽ αὐτῆς ἄνεμος τυφωνικὸς ὁ καλούμενος εὐρακύλων."
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EUROCLYDON|EUROCLYDON]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G3326]]"
+- "[[G3756]]"
+- "[[G4183]]"
+- "[[G1161]]"
+- "[[G0906G]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G0417]]"
+- "[[G5189]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G2148]]"
+texts:
+- NKO
+---
+
 **Acts 27:14**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But not long after there arose against it a tempestuous wind, called Euroclydon.
 <small><sub>**BSB:**</sub></small>
 But it was not long before a cyclone called the Northeaster swept down across the island.
-<small><sub>**Literal:**</sub></small>
-After not long however it threw down from it a wind tempestuous which is being called [the] Northeaster.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.13|<< Acts 27:13]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.15|Acts 27:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετ᾽]]  [[G3756\|οὐ]]  [[G4183\|πολὺ]]  [[G1161\|δὲ]]  [[G0906G\|ἔβαλεν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτῆς]]  [[G0417\|ἄνεμος]]  [[G5189\|τυφωνικὸς]]  [[G3588\|ὁ]]  [[G2564G\|καλούμενος]]  [[G2148\|εὐρακύλων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUROCLYDON|EUROCLYDON]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PAUL|PAUL]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.13|<< Acts 27:13]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.15|Acts 27:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

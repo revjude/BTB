@@ -1,10 +1,62 @@
+---
+title: Acts 1:19
+type: Verse
+kjv: "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood."
+bsb: "This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)"
+greek: "καὶ γνωστὸν ἐγένετο πᾶσιν τοῖς κατοικοῦσιν Ἰερουσαλήμ, ὥστε κληθῆναι τὸ χωρίον ἐκεῖνο τῇ ἰδίᾳ διαλέκτῳ αὐτῶν Ἁκελδαμάχ τοῦτ᾽ ἔστιν χωρίον αἵματος."
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACELDAMA|ACELDAMA]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1110]]"
+- "[[G1096]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G2419]]"
+- "[[G5620]]"
+- "[[G2564G]]"
+- "[[G5564G]]"
+- "[[G1565]]"
+- "[[G2398]]"
+- "[[G1258]]"
+- "[[G0846]]"
+- "[[G0184]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5564H]]"
+- "[[G0129H]]"
+texts:
+- NKO
+---
+
 **Acts 1:19**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
 <small><sub>**BSB:**</sub></small>
 This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)
-<small><sub>**Literal:**</sub></small>
-And known it became to all those dwelling in Jerusalem, so that to call the field that [one] <the> in [their] own language of them Akeldama That is Field of Blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.18|<< Acts 1:18]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.20|Acts 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1110\|γνωστὸν]]  [[G1096\|ἐγένετο]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G2730\|κατοικοῦσιν]]  [[G2419\|Ἰερουσαλήμ,]]  [[G5620\|ὥστε]]  [[G2564G\|κληθῆναι]]  [[G3588\|τὸ]]  [[G5564G\|χωρίον]]  [[G1565\|ἐκεῖνο]]  [[G3588\|τῇ]]  [[G2398\|ἰδίᾳ]]  [[G1258\|διαλέκτῳ]]  [[G0846\|αὐτῶν]]  [[G0184\|Ἁκελδαμάχ]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G5564H\|χωρίον]]  [[G0129H\|αἵματος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACELDAMA|ACELDAMA]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MATTHIAS|MATTHIAS]] • [[topic PETER|PETER]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.18|<< Acts 1:18]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.20|Acts 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

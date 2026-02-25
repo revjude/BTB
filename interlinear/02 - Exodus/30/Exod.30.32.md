@@ -1,8 +1,66 @@
+---
+title: Exodus 30:32
+type: Verse
+kjv: "Upon man’s flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you."
+bsb: "It must not be used to anoint an ordinary man, and you must not make anything like it with the same formula. It is holy, and it must be holy to you."
+hebrew: "עַל־ בְּשַׂ֤ר אָדָם֙ לֹ֣א יִיסָ֔ךְ וּבְמַ֨תְכֻּנְתּ֔וֹ לֹ֥א תַעֲשׂ֖וּ כָּמֹ֑הוּ קֹ֣דֶשׁ ה֔וּא קֹ֖דֶשׁ יִהְיֶ֥ה לָכֶֽם׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING OIL|ANOINTING OIL]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H3251]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4971]]"
+- "[[H9023]]"
+- "[[H6213H]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:32**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon man’s flesh shall it not be poured, neither shall ye make [any other] like it, after the composition of it: it [is] holy, [and] it shall be holy unto you.
 <small><sub>**BSB:**</sub></small>
 It must not be used to anoint an ordinary man, and you must not make anything like it with the same formula. It is holy, and it must be holy to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H1320\|בְּשַׂ֤ר]] [[H0120G\|אָדָם֙]] [[H3808\|לֹ֣א]] [[H3251\|יִיסָ֔ךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H4971\|מַ֨תְכֻּנְתּ֔]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H6213H\|תַעֲשׂ֖וּ]] [[H3644G\|כָּמֹ֑]][[H9033\|הוּ]] [[H6944G\|קֹ֣דֶשׁ]] [[H1931\|ה֔וּא]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING OIL|ANOINTING OIL]] • [[topic OIL|OIL]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.31|<< Exodus 30:31]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.33|Exodus 30:33 >>]]</td></tr></table>
 

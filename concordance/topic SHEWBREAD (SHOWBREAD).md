@@ -5,7 +5,7 @@
 
 → Called HALLOWED BREAD [[1Sam.21.6|1Sa 21:6]]
 
-→ Ordinance concerning  [[Lev.24.5|Le 24:5]]-[[Lev.24.9|9]]
+→ Ordinance concerning  [[Lev.24.5|Le 24:5-9]]
 
 → Required to be kept before the Lord continually [[Exod.25.30|Ex  25:30]]; [[2Chr.2.4|2Ch 2:4]]
 
@@ -19,7 +19,7 @@
 
 → TABLE OF  [[Heb.9.2|Heb 9:2]]
 
-→ Ordinances concerning [[Exod.25.23|Ex 25:23]]-[[Exod.25.28|28]]; [[Exod.37.10|37:10]]-[[Exod.37.15|15]]
+→ Ordinances concerning [[Exod.25.23|Ex 25:23-28]]; [[Exod.37.10|37:10-15]]
 
 → Its position in the tabernacle  [[Exod.26.35|Ex 26:35]]; [[Exod.40.22|40:22]]
 

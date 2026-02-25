@@ -1,8 +1,70 @@
+---
+title: Numbers 29:12
+type: Verse
+kjv: "And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:"
+bsb: "On the fifteenth day of the seventh month, you are to hold a sacred assembly; you must not do any regular work, and you shall observe a feast to the LORD for seven days."
+hebrew: "וּבַחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י מִֽקְרָא־ קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ וְחַגֹּתֶ֥ם חַ֛ג לַיהוָ֖ה שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic REST|REST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H2287]]"
+- "[[H2282]]"
+- "[[H3068G]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:12**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of the seventh month, you are to hold a sacred assembly; you must not do any regular work, and you shall observe a feast to the LORD for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2568\|חֲמִשָּׁה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֜וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H4744\|מִֽקְרָא]][[H9014\|־]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֑וּ]] [[H9001\|וְ]][[H2287\|חַגֹּתֶ֥ם]] [[H2282\|חַ֛ג]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic REST|REST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.11|<< Numbers 29:11]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.13|Numbers 29:13 >>]]</td></tr></table>
 

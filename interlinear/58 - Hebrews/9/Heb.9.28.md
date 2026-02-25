@@ -1,10 +1,65 @@
+---
+title: Hebrews 9:28
+type: Verse
+kjv: "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation."
+bsb: "so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him."
+greek: "οὕτως καὶ ὁ Χριστὸς ἅπαξ προσενεχθεὶς εἰς τὸ πολλῶν ἀνενεγκεῖν ἁμαρτίας ἐκ δευτέρου χωρὶς ἁμαρτίας ὀφθήσεται τοῖς αὐτὸν ἀπεκδεχομένοις εἰς σωτηρίαν.¶"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0530]]"
+- "[[G4374]]"
+- "[[G1519]]"
+- "[[G4183]]"
+- "[[G0399]]"
+- "[[G0266]]"
+- "[[G1537]]"
+- "[[G1208]]"
+- "[[G5565]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G0553]]"
+- "[[G4991]]"
+texts:
+- NKO
+- no
+---
+
 **Hebrews 9:28**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
 <small><sub>**BSB:**</sub></small>
 so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him.
-<small><sub>**Literal:**</sub></small>
-so also <the> Christ once having been offered in order <the> of many to bear [the] sins for a second time apart from sin will appear to those Him awaiting for salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.27|<< Hebrews 9:27]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.1|Hebrews 10:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G0530\|ἅπαξ]]  [[G4374\|προσενεχθεὶς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4183\|πολλῶν]]  [[G0399\|ἀνενεγκεῖν]]  [[G0266\|ἁμαρτίας]]  [[G1537\|ἐκ]]  [[G1208\|δευτέρου]]  [[G5565\|χωρὶς]]  [[G0266\|ἁμαρτίας]]  [[G3700\|ὀφθήσεται]]  [[G3588\|τοῖς]]  [[G0846\|αὐτὸν]]  [[G0553\|ἀπεκδεχομένοις]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]] • [[topic SUFFERING|SUFFERING]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.27|<< Hebrews 9:27]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.1|Hebrews 10:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 9:28** is...
 > $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]

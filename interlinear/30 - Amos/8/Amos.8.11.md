@@ -1,8 +1,70 @@
+---
+title: Amos 8:11
+type: Verse
+kjv: "Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:"
+bsb: "Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land—not a famine of bread or a thirst for water, but a famine of hearing the words of the LORD."
+hebrew: "הִנֵּ֣ה׀ יָמִ֣ים בָּאִ֗ים נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְהִשְׁלַחְתִּ֥י רָעָ֖ב בָּאָ֑רֶץ לֹֽא־ רָעָ֤ב לַלֶּ֙חֶם֙ וְלֹֽא־ צָמָ֣א לַמַּ֔יִם כִּ֣י אִם־ לִשְׁמֹ֔עַ אֵ֖ת דִּבְרֵ֥י יְהוָֽה׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H6772]]"
+- "[[H4325G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:11**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:
 <small><sub>**BSB:**</sub></small>
 Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land—not a famine of bread or a thirst for water, but a famine of hearing the words of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H3117G\|יָמִ֣ים]] [[H0935G\|בָּאִ֗ים]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וְ]][[H7971G\|הִשְׁלַחְתִּ֥י]] [[H7458\|רָעָ֖ב]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7458\|רָעָ֤ב]] [[H9005\|לַ]][[H3899H\|לֶּ֙חֶם֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6772\|צָמָ֣א]] [[H9005\|לַ]][[H4325G\|מַּ֔יִם]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֔עַ]] [[H0853\|אֵ֖ת]] [[H1697G\|דִּבְרֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic HUNGER|HUNGER]] • [[topic THIRST|THIRST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.10|<< Amos 8:10]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.12|Amos 8:12 >>]]</td></tr></table>
 

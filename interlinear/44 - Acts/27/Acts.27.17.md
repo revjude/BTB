@@ -1,10 +1,58 @@
+---
+title: Acts 27:17
+type: Verse
+kjv: "Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven."
+bsb: "After hoisting it up, the crew used ropes to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along."
+greek: "ἣν ἄραντες βοηθείαις ἐχρῶντο ὑποζωννύντες τὸ πλοῖον· φοβούμενοί τε μὴ εἰς τὴν Σύρτιν ἐκπέσωσιν χαλάσαντες τὸ σκεῦος, οὕτως ἐφέροντο."
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G3739]]"
+- "[[G0142]]"
+- "[[G0996]]"
+- "[[G5530]]"
+- "[[G5269]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G5399]]"
+- "[[G5037]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G4950]]"
+- "[[G1601]]"
+- "[[G5465]]"
+- "[[G4632]]"
+- "[[G3779]]"
+- "[[G5342]]"
+texts:
+- NKO
+---
+
 **Acts 27:17**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
 <small><sub>**BSB:**</sub></small>
 After hoisting it up, the crew used ropes to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along.
-<small><sub>**Literal:**</sub></small>
-which having taken up supports they were using undergirding the ship; Fearing then lest into the sandbars of Syrtis they may fall having lowered the gear, thus they were driven along.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.16|<< Acts 27:16]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.18|Acts 27:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἣν]]  [[G0142\|ἄραντες]]  [[G0996\|βοηθείαις]]  [[G5530\|ἐχρῶντο]]  [[G5269\|ὑποζωννύντες]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον·]]  [[G5399\|φοβούμενοί]]  [[G5037\|τε]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4950\|Σύρτιν]]  [[G1601\|ἐκπέσωσιν]]  [[G5465\|χαλάσαντες]]  [[G3588\|τὸ]]  [[G4632\|σκεῦος,]]  [[G3779\|οὕτως]]  [[G5342\|ἐφέροντο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.16|<< Acts 27:16]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.18|Acts 27:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

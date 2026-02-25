@@ -1,10 +1,66 @@
+---
+title: Acts 22:5
+type: Verse
+kjv: "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished."
+bsb: "as the high priest and the whole Council can testify about me. I even obtained letters from them to their brothers in Damascus, and I was on my way to apprehend these people and bring them to Jerusalem to be punished."
+greek: "ὡς καὶ ὁ ἀρχιερεὺς μαρτυρεῖ μοι καὶ πᾶν τὸ πρεσβυτέριον, παρ᾽ ὧν καὶ ἐπιστολὰς δεξάμενος πρὸς τοὺς ἀδελφοὺς εἰς Δαμασκὸν ἐπορευόμην, ἄξων καὶ τοὺς ἐκεῖσε ὄντας δεδεμένους εἰς Ἰερουσαλὴμ ἵνα τιμωρηθῶσιν."
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G3140]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G4244]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G1992]]"
+- "[[G1209]]"
+- "[[G4314]]"
+- "[[G0080]]"
+- "[[G1519]]"
+- "[[G1154]]"
+- "[[G4198]]"
+- "[[G0071]]"
+- "[[G1566]]"
+- "[[G1510]]"
+- "[[G1210]]"
+- "[[G2419]]"
+- "[[G2443]]"
+- "[[G5097]]"
+texts:
+- NKO
+---
+
 **Acts 22:5**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.
 <small><sub>**BSB:**</sub></small>
 as the high priest and the whole Council can testify about me. I even obtained letters from them to their brothers in Damascus, and I was on my way to apprehend these people and bring them to Jerusalem to be punished.
-<small><sub>**Literal:**</sub></small>
-as also the high priest bears witness to me and all the elderhood, from whom also letters having received to the brothers to Damascus I was on my way going to bring also those there being bound to Jerusalem in order that they may be punished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.4|<< Acts 22:4]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.6|Acts 22:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G3140\|μαρτυρεῖ]]  [[G3165\|μοι]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4244\|πρεσβυτέριον,]]  [[G3844\|παρ᾽]]  [[G3739\|ὧν]]  [[G2532\|καὶ]]  [[G1992\|ἐπιστολὰς]]  [[G1209\|δεξάμενος]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G1519\|εἰς]]  [[G1154\|Δαμασκὸν]]  [[G4198\|ἐπορευόμην,]]  [[G0071\|ἄξων]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1566\|ἐκεῖσε]]  [[G1510\|ὄντας]]  [[G1210\|δεδεμένους]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2443\|ἵνα]]  [[G5097\|τιμωρηθῶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic EXTRADITION|EXTRADITION]] • [[topic PAUL|PAUL]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.4|<< Acts 22:4]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.6|Acts 22:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

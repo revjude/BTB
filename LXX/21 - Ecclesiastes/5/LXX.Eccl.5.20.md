@@ -1,6 +1,55 @@
+---
+title: LXX Ecclesiastes 5:20
+type: Verse
+lxx: "For he will not much remember the days  of his life, for  God distracts him in the gladness of his heart."
+greek: "ότι ου πολλά μνησθήσεται τας ημέρας της ζωής αυτού ότι ο θεός περισπά αυτόν εν ευφροσύνη καρδίας αυτού"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[G3754]]"
+- "[[G3756]]"
+- "[[G4183]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4049]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2167]]"
+- "[[G2588]]"
+- "[[G1473]]"
+---
+
 **LXX Ecclesiastes 5:20** 
 <small><sub>**LXX:**</sub></small>
 For he will not much remember the days  of his life, for  God distracts him in \[the\] gladness of his heart. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G3756\|ου]] [[G4183\|πολλά]] [[G3403\|μνησθήσεται]] [[G3588\|τας]] [[G2250\|ημέρας]] [[G3588\|της]] [[G2222\|ζωής]] [[G1473\|αυτού]] [[G3754\|ότι]] [[G3588\|ο]] [[G2316\|θεός]] [[G4049\|περισπά]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G2167\|ευφροσύνη]] [[G2588\|καρδίας]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.19|<< Ecclesiastes 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.1|Ecclesiastes 6:1 >>]]</td></tr></table>
 
@@ -22,6 +71,6 @@ For he will not much remember the days  of his life, for  God distracts him in \
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] gladness | **<big>[[G2167\|ευφροσύνη]]</big>** |
 | of his heart. | **<big>[[G2588\|καρδίας]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Eccl.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.19|<< Ecclesiastes 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.1|Ecclesiastes 6:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.19|<< Ecclesiastes 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.1|Ecclesiastes 6:1 >>]]</td></tr></table>
 
 

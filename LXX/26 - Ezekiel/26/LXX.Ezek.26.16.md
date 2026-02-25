@@ -1,6 +1,75 @@
+---
+title: LXX Ezekiel 26:16
+type: Verse
+lxx: "And all the rulers of the sea shall go down from their thrones, and they shall remove  their mitres, and  they shall take off their colored clothes. They shall be startled by a change of state upon the earth. They shall be seated and shall fear  their destruction, and they shall moan over you."
+greek: "και καταβήσονται από των θρόνων αυτών πάντες οι άρχοντες της θαλάσσης και αφελούνται τας μίτρας αυτών και τον ιματισμόν αυτών τον ποικίλον εκδύσονται εκστάσει εκστήσονται επί γην καθεδούνται και φοβηθήσονται την απώλειάν αυτων και στενάξουσιν επί σε"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[G0851]]"
+- "[[G3588]]"
+- "[[G8333]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2441]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4164]]"
+- "[[G1562]]"
+- "[[G1611]]"
+- "[[G1839]]"
+- "[[G1909]]"
+- "[[G1093]]"
+- "[[G2516]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G0684]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4727]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 26:16** 
 <small><sub>**LXX:**</sub></small>
 And all the rulers of the sea shall go down from their thrones, and they shall remove  their mitres, and  they shall take off their colored clothes. They shall be startled by a change of state upon \[the\] earth. They shall be seated and shall fear  their destruction, and they shall moan over you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2597\|καταβήσονται]] [[G0575\|από]] [[G3588\|των]] [[G2362\|θρόνων]] [[G1473\|αυτών]] [[G3956\|πάντες]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G3588\|της]] [[G2281\|θαλάσσης]] [[G2532\|και]] [[G0851\|αφελούνται]] [[G3588\|τας]] [[G8333\|μίτρας]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|τον]] [[G2441\|ιματισμόν]] [[G1473\|αυτών]] [[G3588\|τον]] [[G4164\|ποικίλον]] [[G1562\|εκδύσονται]] [[G1611\|εκστάσει]] [[G1839\|εκστήσονται]] [[G1909\|επί]] [[G1093\|γην]] [[G2516\|καθεδούνται]] [[G2532\|και]] [[G5399\|φοβηθήσονται]] [[G3588\|την]] [[G0684\|απώλειάν]] [[G1473\|αυτων]] [[G2532\|και]] [[G4727\|στενάξουσιν]] [[G1909\|επί]] [[G1473\|σε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMBROIDERY|EMBROIDERY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
 
@@ -40,6 +109,6 @@ And all the rulers of the sea shall go down from their thrones, and they shall r
 | they shall moan | **<big>[[G4727\|στενάξουσιν]]</big>** |
 | over | **<big>[[G1909\|επί]]</big>** |
 | you. | **<big>[[G1473\|σε]]</big>** |
-[[Ezek.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
 
 

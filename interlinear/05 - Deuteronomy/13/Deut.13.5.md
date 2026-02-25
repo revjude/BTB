@@ -1,8 +1,90 @@
+---
+title: Deuteronomy 13:5
+type: Verse
+kjv: "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee."
+bsb: "Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you."
+hebrew: "וְהַנָּבִ֣יא הַה֡וּא א֣וֹ חֹלֵם֩ הַחֲל֨וֹם הַה֜וּא יוּמָ֗ת כִּ֣י דִבֶּר־ סָ֠רָה עַל־ יְהוָ֨ה אֱלֹֽהֵיכֶ֜ם הַמּוֹצִ֥יא אֶתְכֶ֣ם׀ מֵאֶ֣רֶץ מִצְרַ֗יִם וְהַפֹּֽדְךָ֙ מִבֵּ֣ית עֲבָדִ֔ים לְהַדִּֽיחֲךָ֙ מִן־ הַדֶּ֔רֶךְ אֲשֶׁ֧ר צִוְּךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ לָלֶ֣כֶת בָּ֑הּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1931]]"
+- "[[H0176A]]"
+- "[[H2492B]]"
+- "[[H2472]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H5627]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6299]]"
+- "[[H9031]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H5080]]"
+- "[[H4480A]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H1197I]]"
+- "[[H7451B]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:5**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn [you] away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee.
 <small><sub>**BSB:**</sub></small>
 Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5030\|נָּבִ֣יא]] [[H9009\|הַ]][[H1931\|ה֡וּא]] [[H0176A\|א֣וֹ]] [[H2492B\|חֹלֵם֩]] [[H9009\|הַ]][[H2472\|חֲל֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H4191\|יוּמָ֗ת]] [[H3588A\|כִּ֣י]] [[H1696G\|דִבֶּר]][[H9014\|־]] [[H5627\|סָ֠רָה]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֜ם]] [[H9009\|הַ]][[H3318H\|מּוֹצִ֥יא]] [[H0853\|אֶתְ]][[H9036\|כֶ֣ם]][[H9015\|׀]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֗יִם]] [[H9002\|וְ]][[H9009\|הַ]][[H6299\|פֹּֽדְ]][[H9031\|ךָ֙]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H5650\|עֲבָדִ֔ים]] [[H9005\|לְ]][[H5080\|הַדִּֽיחֲ]][[H9031\|ךָ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֔רֶךְ]] [[H0834A\|אֲשֶׁ֧ר]] [[H6680\|צִוְּ]][[H9031\|ךָ֛]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9001\|וּ]][[H1197I\|בִֽעַרְתָּ֥]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9006\|מִ]][[H7130G\|קִּרְבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.4|<< Deuteronomy 13:4]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.6|Deuteronomy 13:6 >>]]</td></tr></table>
 

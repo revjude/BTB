@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Outside the Temple
+type: Pericope
 pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 41
 book/chapter: "[[Ezek.41|Ezekiel 41]]"
-genre:
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.41.5]]"
 - "[[Ezek.41.6]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.41.14]]"
 ---
 
-[[Ezek.41|Ezekiel 41:5 - Ezekiel 41:14]]
+<small>[[Ezek.41|Ezekiel 41:5-14]]</small>
 *Outside the Temple*
 
 [[Ezek.41.5|5]] After he measured the wall of the house, six cubits; and the breadth of \[every\] side chamber, four cubits, round about the house on every side.

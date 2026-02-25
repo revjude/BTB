@@ -1,8 +1,66 @@
+---
+title: Ruth 1:1
+type: Verse
+kjv: "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons."
+bsb: "In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab."
+hebrew: "וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃"
+pericope: "[[Ruth.1.1 Naomi Becomes a Widow|Naomi Becomes a Widow]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8199]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H0776G]]"
+- "[[H1980G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H7704G]]"
+- "[[H4124G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:1**<big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 <small><sub>**BSB:**</sub></small>
 In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H3117G\|ימֵי֙]] [[H8199\|שְׁפֹ֣ט]] [[H9009\|הַ]][[H8199\|שֹּׁפְטִ֔ים]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H7458\|רָעָ֖ב]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מִ]][[H1035G\|בֵּ֧ית]] [[H1035G\|לֶ֣חֶם]] [[H3063G\|יְהוּדָ֗ה]] [[H9005\|לָ]][[H1481A\|גוּר֙]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֣י]] [[H4124G\|מוֹאָ֔ב]] [[H1931\|ה֥וּא]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H8147\|שְׁנֵ֥י]] [[H1121A\|בָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic CANAAN|CANAAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.25|<< Judges 21:25]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.2|Ruth 1:2 >>]]</td></tr></table>
 

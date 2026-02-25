@@ -1,10 +1,75 @@
+---
+title: Acts 20:28
+type: Verse
+kjv: "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood."
+bsb: "Keep watch over yourselves and the entire flock of which the Holy Spirit has made you overseers. Be shepherds of the church of God, which He purchased with His own blood."
+greek: "προσέχετε οὖν ἑαυτοῖς καὶ παντὶ τῷ ποιμνίῳ, ἐν ᾧ ὑμᾶς τὸ πνεῦμα τὸ ἅγιον ἔθετο ἐπισκόπους, ποιμαίνειν τὴν ἐκκλησίαν τοῦ κυρίου καὶ θεοῦ, ἣν περιεποιήσατο διὰ τοῦ αἵματος τοῦ ἰδίου.¶"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G4337]]"
+- "[[G3767]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4168]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G5087]]"
+- "[[G1985]]"
+- "[[G4165]]"
+- "[[G1577]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G4046]]"
+- "[[G1223]]"
+- "[[G0129G]]"
+- "[[G2398]]"
+texts:
+- NKO
+- K
+- O
+---
+
 **Acts 20:28**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.
 <small><sub>**BSB:**</sub></small>
 Keep watch over yourselves and the entire flock of which the Holy Spirit has made you overseers. Be shepherds of the church of God, which He purchased with His own blood.
-<small><sub>**Literal:**</sub></small>
-do take heed therefore to yourselves and to all the flock among which you the Spirit <the> Holy has set overseers, to shepherd the church of the Lord and God, which He purchased with <the> blood the own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.27|<< Acts 20:27]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.29|Acts 20:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4337\|προσέχετε]]  [[G3767\|οὖν]]  [[G1438\|ἑαυτοῖς]]  [[G2532\|καὶ]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G4168\|ποιμνίῳ,]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G4771\|ὑμᾶς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G5087\|ἔθετο]]  [[G1985\|ἐπισκόπους,]]  [[G4165\|ποιμαίνειν]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2532\|καὶ]]  [[G2316\|θεοῦ,]]  [[G3739\|ἣν]]  [[G4046\|περιεποιήσατο]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G0129G\|αἵματος]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BISHOP|BISHOP]] • [[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic EPHESUS|EPHESUS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic REDEMPTION|REDEMPTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.27|<< Acts 20:27]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.29|Acts 20:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

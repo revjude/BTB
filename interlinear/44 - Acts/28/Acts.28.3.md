@@ -1,10 +1,63 @@
+---
+title: Acts 28:3
+type: Verse
+kjv: "And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand."
+bsb: "Paul gathered a bundle of sticks, and as he laid them on the fire, a viper, driven out by the heat, fastened itself to his hand."
+greek: "συστρέψαντος δὲ τοῦ Παύλου φρυγάνων τι πλῆθος καὶ ἐπιθέντος ἐπὶ τὴν πυρὰν ἔχιδνα ἀπὸ τῆς θέρμης ἐξελθοῦσα καθῆψεν τῆς χειρὸς αὐτοῦ.¶"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARBARIAN|BARBARIAN]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VIPER|VIPER]]"
+strongs:
+- "[[G4962]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G5434]]"
+- "[[G5100]]"
+- "[[G4128]]"
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G4443]]"
+- "[[G2191]]"
+- "[[G0575]]"
+- "[[G2329]]"
+- "[[G1831]]"
+- "[[G2510]]"
+- "[[G5495]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 28:3**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Paul had gathered a bundle of sticks, and laid [them] on the fire, there came a viper out of the heat, and fastened on his hand.
 <small><sub>**BSB:**</sub></small>
 Paul gathered a bundle of sticks, and as he laid them on the fire, a viper, driven out by the heat, fastened itself to his hand.
-<small><sub>**Literal:**</sub></small>
-When having gathered now <the> Paul of sticks some quantity and having laid [them] on the fire a viper out from the heat having come fastened on the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.2|<< Acts 28:2]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.4|Acts 28:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4962\|συστρέψαντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G5434\|φρυγάνων]]  [[G5100\|τι]]  [[G4128\|πλῆθος]]  [[G2532\|καὶ]]  [[G2007\|ἐπιθέντος]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4443\|πυρὰν]]  [[G2191\|ἔχιδνα]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2329\|θέρμης]]  [[G1831\|ἐξελθοῦσα]]  [[G2510\|καθῆψεν]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARBARIAN|BARBARIAN]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic VIPER|VIPER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.2|<< Acts 28:2]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.4|Acts 28:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,74 @@
+---
+title: Matthew 4:6
+type: Verse
+kjv: "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone."
+bsb: "“If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”"
+greek: "καὶ λέγει αὐτῷ· εἰ υἱὸς εἶ τοῦ θεοῦ, βάλε σεαυτὸν κάτω· γέγραπται γὰρ ὅτι τοῖς ἀγγέλοις αὐτοῦ ἐντελεῖται περὶ σοῦ, καὶ ἐπὶ χειρῶν ἀροῦσίν σε μήποτε μήποτε προσκόψῃς πρὸς λίθον τὸν πόδα σου."
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0906G]]"
+- "[[G4771]]"
+- "[[G2736]]"
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G0032G]]"
+- "[[G1781]]"
+- "[[G4012]]"
+- "[[G1909]]"
+- "[[G5495]]"
+- "[[G0142]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G4350]]"
+- "[[G4314]]"
+- "[[G3037]]"
+- "[[G4228]]"
+texts:
+- NKO
+---
+
 **Matthew 4:6**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in [their] hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
 <small><sub>**BSB:**</sub></small>
 “If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”
-<small><sub>**Literal:**</sub></small>
-and says to him; If Son You are <the> of God, do throw Yourself down; it has been written for that To the angels of Him He will give orders concerning You, and in [their] hands will they bear up You otherwise You may strike against a stone the foot of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.5|<< Matthew 4:5]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.7|Matthew 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G1487G\|εἰ]]  [[G5207\|υἱὸς]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0906G\|βάλε]]  [[G4771\|σεαυτὸν]]  [[G2736\|κάτω·]]  [[G1125\|γέγραπται]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3588\|τοῖς]]  [[G0032G\|ἀγγέλοις]]  [[G0846\|αὐτοῦ]]  [[G1781\|ἐντελεῖται]]  [[G4012\|περὶ]]  [[G4771\|σοῦ,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G5495\|χειρῶν]]  [[G0142\|ἀροῦσίν]]  [[G4771\|σε]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G4350\|προσκόψῃς]]  [[G4314\|πρὸς]]  [[G3037\|λίθον]]  [[G3588\|τὸν]]  [[G4228\|πόδα]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATAN|SATAN]] • [[topic SUICIDE|SUICIDE]] • [[topic TEMPLE|TEMPLE]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.5|<< Matthew 4:5]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.7|Matthew 4:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 4:6** is...
 > $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]

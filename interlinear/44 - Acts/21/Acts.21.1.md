@@ -1,10 +1,61 @@
+---
+title: Acts 21:1
+type: Verse
+kjv: "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara:"
+bsb: "After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara."
+greek: "Ὡς δὲ ἐγένετο ἀναχθῆναι ἡμᾶς ἀποσπασθέντας ἀπ᾽ αὐτῶν, εὐθυδρομήσαντες ἤλθομεν εἰς τὴν Κῶ, τῇ δὲ ἑξῆς εἰς τὴν Ῥόδον, κἀκεῖθεν κἀκεῖθεν εἰς Πάταρα."
+pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COOS|COOS]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic PATARA|PATARA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RHODES|RHODES]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G0321]]"
+- "[[G3165]]"
+- "[[G0645]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G2113]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2972]]"
+- "[[G1836]]"
+- "[[G4499]]"
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G3959]]"
+texts:
+- NKO
+---
+
 **Acts 21:1**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the [day] following unto Rhodes, and from thence unto Patara:
 <small><sub>**BSB:**</sub></small>
 After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.
-<small><sub>**Literal:**</sub></small>
-After then it happened sailing our having drawn away from them, having run directly we came to <the> Cos, <the> and the next [day] to <the> Rhodes, and from there to Patara.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.38|<< Acts 20:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.2|Acts 21:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G0321\|ἀναχθῆναι]]  [[G3165\|ἡμᾶς]]  [[G0645\|ἀποσπασθέντας]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν,]]  [[G2113\|εὐθυδρομήσαντες]]  [[G2064\|ἤλθομεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2972\|Κῶ,]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G1836\|ἑξῆς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4499\|Ῥόδον,]]  [[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G1519\|εἰς]]  [[G3959\|Πάταρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COOS|COOS]] • [[topic LUKE|LUKE]] • [[topic PATARA|PATARA]] • [[topic PAUL|PAUL]] • [[topic RHODES|RHODES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.38|<< Acts 20:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.2|Acts 21:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

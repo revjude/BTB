@@ -1,8 +1,74 @@
+---
+title: Jeremiah 32:17
+type: Verse
+kjv: "Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee:"
+bsb: "“Oh, Lord GOD! You have made the heavens and the earth by Your great power and outstretched arm. Nothing is too difficult for You!"
+hebrew: "אֲהָהּ֮ אֲדֹנָ֣י יְהוִה֒ הִנֵּ֣ה׀ אַתָּ֣ה עָשִׂ֗יתָ אֶת־ הַשָּׁמַ֙יִם֙ וְאֶת־ הָאָ֔רֶץ בְּכֹֽחֲךָ֙ הַגָּד֔וֹל וּבִֽזְרֹעֲךָ֖ הַנְּטוּיָ֑ה לֹֽא־ יִפָּלֵ֥א מִמְּךָ֖ כָּל־ דָּבָֽר׃"
+pericope: "[[Jer.32.16 Jeremiah Prays for Understanding|Jeremiah Prays for Understanding]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARM|ARM]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0162]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9021]]"
+- "[[H1419A]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H3808]]"
+- "[[H6381]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:17**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, [and] there is nothing too hard for thee:
 <small><sub>**BSB:**</sub></small>
 “Oh, Lord GOD! You have made the heavens and the earth by Your great power and outstretched arm. Nothing is too difficult for You!
+<small><sub>**Hebrew:**</sub></small>
+[[H0162\|אֲהָהּ֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]] [[H6213H\|עָשִׂ֗יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9003\|בְּ]][[H3581B\|כֹֽחֲ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H9002\|וּ]][[H9003\|בִֽ]][[H2220\|זְרֹעֲ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H5186\|נְּטוּיָ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6381\|יִפָּלֵ֥א]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H3605\|כָּל]][[H9014\|־]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARM|ARM]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.16|<< Jeremiah 32:16]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.18|Jeremiah 32:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

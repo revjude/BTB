@@ -1,6 +1,65 @@
+---
+title: LXX Exodus 1:12
+type: Verse
+lxx: "And in so far as they humbled them by so much, they became many more. And they were strong exceedingly, exceedingly. And the Egyptians were abhorred of the sons of Israel."
+greek: "καθότι δε αυτους εταπείνουν τοσούτω πλείους εγίνοντο και ίσχυον σφόδρα σφόδρα και εβδελύσσοντο οι Αιγύπτιοι από των υιών Ισραήλ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[G2530]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G5013]]"
+- "[[G5118]]"
+- "[[G4183]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G2480]]"
+- "[[G4970]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G0948]]"
+- "[[G3588]]"
+- "[[G0125]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+---
+
 **LXX Exodus 1:12** 
 <small><sub>**LXX:**</sub></small>
 And in so far as they humbled them by so much, they became many \[more\]. And they were strong exceedingly, exceedingly. And the Egyptians were abhorred of the sons of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2530\|καθότι]] [[G1161\|δε]] [[G1473\|αυτους]] [[G5013\|εταπείνουν]] [[G5118\|τοσούτω]] [[G4183\|πλείους]] [[G1096\|εγίνοντο]] [[G2532\|και]] [[G2480\|ίσχυον]] [[G4970\|σφόδρα]] [[G4970\|σφόδρα]] [[G2532\|και]] [[G0948\|εβδελύσσοντο]] [[G3588\|οι]] [[G0125\|Αιγύπτιοι]] [[G0575\|από]] [[G3588\|των]] [[G5207\|υιών]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HOUSE|HOUSE]] • [[topic ISRAEL|ISRAEL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.11|<< Exodus 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.13|Exodus 1:13 >>]]</td></tr></table>
 
@@ -23,6 +82,6 @@ And in so far as they humbled them by so much, they became many \[more\]. And th
 | the | **<big>[[G3588\|των]]</big>** |
 | sons | **<big>[[G5207\|υιών]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Exod.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.11|<< Exodus 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.13|Exodus 1:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.11|<< Exodus 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.13|Exodus 1:13 >>]]</td></tr></table>
 
 

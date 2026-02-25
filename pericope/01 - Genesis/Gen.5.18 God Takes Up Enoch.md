@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Takes Up Enoch
+type: Pericope
 pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 5
 book/chapter: "[[Gen.5|Genesis 5]]"
-genre:
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.5.18]]"
 - "[[Gen.5.19]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.5.24]]"
 ---
 
-[[Gen.5|Genesis 5:18 - Genesis 5:24]]
+<small>[[Gen.5|Genesis 5:18-24]]</small>
 *God Takes Up Enoch*
 
 [[Gen.5.18|18]] And Jared lived an hundred sixty and two years, and he begat Enoch:

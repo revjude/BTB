@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 7:3
+type: Verse
+kjv: "And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men."
+bsb: "The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah. All five of them were chiefs."
+hebrew: "וּבְנֵ֥י עֻזִּ֖י יִֽזְרַֽחְיָ֑ה וּבְנֵ֣י יִֽזְרַֽחְיָ֗ה מִֽיכָאֵ֡ל וְ֠עֹבַדְיָה וְיוֹאֵ֧ל יִשִּׁיָּ֛ה חֲמִשָּׁ֖ה רָאשִׁ֥ים כֻּלָּֽם׃"
+pericope: "[[1Chr.7.1 The Descendants of Issachar|The Descendants of Issachar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISHIAH|ISHIAH]]"
+- "[[topic IZRAHIAH|IZRAHIAH]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic MICHAEL|MICHAEL]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic UZZI|UZZI]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H5813H]]"
+- "[[H3156G]]"
+- "[[H4317K]]"
+- "[[H5662I]]"
+- "[[H3100L]]"
+- "[[H3449G]]"
+- "[[H2568]]"
+- "[[H7218H]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:3**<big><big>[[1Chr.7.1 The Descendants of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men.
 <small><sub>**BSB:**</sub></small>
 The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah. All five of them were chiefs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H5813H\|עֻזִּ֖י]] [[H3156G\|יִֽזְרַֽחְיָ֑ה]] [[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H3156G\|יִֽזְרַֽחְיָ֗ה]] [[H4317K\|מִֽיכָאֵ֡ל]] [[H9002\|וְ֠]][[H5662I\|עֹבַדְיָה]] [[H9002\|וְ]][[H3100L\|יוֹאֵ֧ל]] [[H3449G\|יִשִּׁיָּ֛ה]] [[H2568\|חֲמִשָּׁ֖ה]] [[H7218H\|רָאשִׁ֥ים]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISHIAH|ISHIAH]] • [[topic IZRAHIAH|IZRAHIAH]] • [[topic JOEL|JOEL]] • [[topic MICHAEL|MICHAEL]] • [[topic OBADIAH|OBADIAH]] • [[topic UZZI|UZZI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.2|<< 1 Chronicles 7:2]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.4|1 Chronicles 7:4 >>]]</td></tr></table>
 

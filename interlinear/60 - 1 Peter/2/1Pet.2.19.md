@@ -1,10 +1,57 @@
+---
+title: 1 Peter 2:19
+type: Verse
+kjv: "For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully."
+bsb: "For if anyone endures the pain of unjust suffering because he is conscious of God, this is to be commended."
+greek: "τοῦτο γὰρ χάρις, εἰ διὰ συνείδησιν θεοῦ ὑποφέρει τις λύπας πάσχων ἀδίκως."
+pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G5485]]"
+- "[[G1487G]]"
+- "[[G1223]]"
+- "[[G4893]]"
+- "[[G2316]]"
+- "[[G5297]]"
+- "[[G5100]]"
+- "[[G3077]]"
+- "[[G3958]]"
+- "[[G0095]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:19**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this [is] thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.
 <small><sub>**BSB:**</sub></small>
 For if anyone endures the pain of unjust suffering because he is conscious of God, this is to be commended.
-<small><sub>**Literal:**</sub></small>
-This for [is] acceptable, if for sake of conscience toward God endures anyone griefs suffering unjustly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.18|<< 1 Peter 2:18]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.20|1 Peter 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G5485\|χάρις,]]  [[G1487G\|εἰ]]  [[G1223\|διὰ]]  [[G4893\|συνείδησιν]]  [[G2316\|θεοῦ]]  [[G5297\|ὑποφέρει]]  [[G5100\|τις]]  [[G3077\|λύπας]]  [[G3958\|πάσχων]]  [[G0095\|ἀδίκως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EXAMPLE|EXAMPLE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.18|<< 1 Peter 2:18]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.20|1 Peter 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

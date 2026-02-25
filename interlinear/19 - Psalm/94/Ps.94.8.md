@@ -1,8 +1,55 @@
+---
+title: Psalm 94:8
+type: Verse
+kjv: "Understand, ye brutish among the people: and ye fools, when will ye be wise?"
+bsb: "Take notice, O senseless among the people! O fools, when will you be wise?"
+hebrew: "בִּ֭ינוּ בֹּעֲרִ֣ים בָּעָ֑ם וּ֝כְסִילִ֗ים מָתַ֥י תַּשְׂכִּֽילוּ׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0995]]"
+- "[[H1197B]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3684]]"
+- "[[H4970]]"
+- "[[H7919A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:8**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Understand, ye brutish among the people: and [ye] fools, when will ye be wise?
 <small><sub>**BSB:**</sub></small>
 Take notice, O senseless among the people! O fools, when will you be wise?
+<small><sub>**Hebrew:**</sub></small>
+[[H0995\|בִּ֭ינוּ]] [[H1197B\|בֹּעֲרִ֣ים]] [[H9003\|בָּ]][[H5971A\|עָ֑ם]] [[H9002\|וּ֝]][[H3684\|כְסִילִ֗ים]] [[H4970\|מָתַ֥י]] [[H7919A\|תַּשְׂכִּֽילוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.7|<< Psalms 94:7]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.9|Psalms 94:9 >>]]</td></tr></table>
 

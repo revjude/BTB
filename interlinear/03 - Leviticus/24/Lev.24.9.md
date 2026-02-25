@@ -1,8 +1,69 @@
+---
+title: Leviticus 24:9
+type: Verse
+kjv: "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute."
+bsb: "It belongs to Aaron and his sons, who are to eat it in a holy place; for it is to him a most holy part of the food offerings to the LORD—his portion forever.”"
+hebrew: "וְהָֽיְתָה֙ לְאַהֲרֹ֣ן וּלְבָנָ֔יו וַאֲכָלֻ֖הוּ בְּמָק֣וֹם קָדֹ֑שׁ כִּ֡י קֹדֶשׁ֩ קָֽדָשִׁ֨ים ה֥וּא ל֛וֹ מֵאִשֵּׁ֥י יְהוָ֖ה חָק־ עוֹלָֽם׃ ס"
+pericope: "[[Lev.24.5 The Showbread|The Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H6918G]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H2706H]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 24:9**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it [is] most holy unto him of the offerings of the LORD made by fire by a perpetual statute.
 <small><sub>**BSB:**</sub></small>
 It belongs to Aaron and his sons, who are to eat it in a holy place; for it is to him a most holy part of the food offerings to the LORD—his portion forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָֽיְתָה֙]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0398\|אֲכָלֻ֖]][[H9033\|הוּ]] [[H9003\|בְּ]][[H4725\|מָק֣וֹם]] [[H6918G\|קָדֹ֑שׁ]] [[H3588A\|כִּ֡י]] [[H6944G\|קֹדֶשׁ֩]] [[H6944G\|קָֽדָשִׁ֨ים]] [[H1931\|ה֥וּא]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9006\|מֵ]][[H0801\|אִשֵּׁ֥י]] [[H3068G\|יְהוָ֖ה]] [[H2706H\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.8|<< Leviticus 24:8]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.10|Leviticus 24:10 >>]]</td></tr></table>
 
@@ -22,7 +83,7 @@ It belongs to Aaron and his sons, who are to eat it in a holy place; for it is t
 | from [the] fire offerings of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0801\|אִשֵּׁ֥י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a prescribed portion of  |**<big>&#8207;[[H2706H\|חָק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chok-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.8|<< Leviticus 24:8]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.10|Leviticus 24:10 >>]]</td></tr></table>
 
 

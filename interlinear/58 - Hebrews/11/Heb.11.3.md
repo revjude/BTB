@@ -1,10 +1,56 @@
+---
+title: Hebrews 11:3
+type: Verse
+kjv: "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."
+bsb: "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+greek: "Πίστει νοοῦμεν κατηρτίσθαι τοὺς αἰῶνας ῥήματι θεοῦ εἰς τὸ μὴ ἐκ φαινομένων τὸ βλεπόμενον γεγονέναι.¶"
+pericope: "[[Heb.11.1 Faith and Assurance|Faith and Assurance]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G4102G]]"
+- "[[G3539]]"
+- "[[G2675]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G4487]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3361]]"
+- "[[G1537]]"
+- "[[G5316]]"
+- "[[G0991]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 11:3**<big><big>[[Heb.11.1 Faith and Assurance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 <small><sub>**BSB:**</sub></small>
 By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.
-<small><sub>**Literal:**</sub></small>
-By faith we understand to have been formed the ages by declaration of God so that which not out of [things] being visible the [thing] being seen becoming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.2|<< Hebrews 11:2]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.4|Hebrews 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G3539\|νοοῦμεν]]  [[G2675\|κατηρτίσθαι]]  [[G3588\|τοὺς]]  [[G0165G\|αἰῶνας]]  [[G4487\|ῥήματι]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G1537\|ἐκ]]  [[G5316\|φαινομένων]]  [[G3588\|τὸ]]  [[G0991\|βλεπόμενον]]  [[G1096\|γεγονέναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.2|<< Hebrews 11:2]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.4|Hebrews 11:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:3** is...
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1]]

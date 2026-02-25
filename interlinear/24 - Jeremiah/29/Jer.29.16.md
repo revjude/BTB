@@ -1,8 +1,65 @@
+---
+title: Jeremiah 29:16
+type: Verse
+kjv: "Know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;"
+bsb: "this is what the LORD says about the king who sits on David’s throne and all the people who remain in this city, your brothers who did not go with you into exile—"
+hebrew: "כִּי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה אֶל־ הַמֶּ֙לֶךְ֙ הַיּוֹשֵׁב֙ אֶל־ כִּסֵּ֣א דָוִ֔ד וְאֶל־ כָּל־ הָעָ֔ם הַיּוֹשֵׁ֖ב בָּעִ֣יר הַזֹּ֑את אֲחֵיכֶ֕ם אֲשֶׁ֛ר לֹֽא־ יָצְא֥וּ אִתְּכֶ֖ם בַּגּוֹלָֽה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3427]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H0251H]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H1473]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:16**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Know] that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, [and] of your brethren that are not gone forth with you into captivity;
 <small><sub>**BSB:**</sub></small>
 this is what the LORD says about the king who sits on David’s throne and all the people who remain in this city, your brothers who did not go with you into exile—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H1732\|דָוִ֔ד]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁ֖ב]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H0251H\|אֲחֵי]][[H9026\|כֶ֕ם]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3318G\|יָצְא֥וּ]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H9003\|בַּ]][[H1473\|גּוֹלָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.15|<< Jeremiah 29:15]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.17|Jeremiah 29:17 >>]]</td></tr></table>
 

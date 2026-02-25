@@ -1,8 +1,53 @@
+---
+title: Proverbs 11:15
+type: Verse
+kjv: "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure."
+bsb: "He who puts up security for a stranger will surely suffer, but the one who hates indebtedness is secure."
+hebrew: "רַע־ יֵ֭רוֹעַ כִּי־ עָ֣רַב זָ֑ר וְשֹׂנֵ֖א תֹקְעִ֣ים בּוֹטֵֽחַ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DEBT|DEBT]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+strongs:
+- "[[H7451B]]"
+- "[[H9014]]"
+- "[[H7489A]]"
+- "[[H3588A]]"
+- "[[H6148]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H8628]]"
+- "[[H0982]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:15**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is surety for a stranger shall smart [for it]: and he that hateth suretiship is sure.
 <small><sub>**BSB:**</sub></small>
 He who puts up security for a stranger will surely suffer, but the one who hates indebtedness is secure.
+<small><sub>**Hebrew:**</sub></small>
+[[H7451B\|רַע]][[H9014\|־]] [[H7489A\|יֵ֭רוֹעַ]] [[H3588A\|כִּי]][[H9014\|־]] [[H6148\|עָ֣רַב]] [[H2114A\|זָ֑ר]] [[H9002\|וְ]][[H8130\|שֹׂנֵ֖א]] [[H8628\|תֹקְעִ֣ים]] [[H0982\|בּוֹטֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBT|DEBT]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.14|<< Proverbs 11:14]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.16|Proverbs 11:16 >>]]</td></tr></table>
 

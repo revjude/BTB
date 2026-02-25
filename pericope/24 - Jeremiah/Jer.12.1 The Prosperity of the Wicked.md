@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prosperity of the Wicked
+type: Pericope
 pericope: "[[Jer.12.1 The Prosperity of the Wicked|The Prosperity of the Wicked]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 12
 book/chapter: "[[Jer.12|Jeremiah 12]]"
-genre:
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.12.1]]"
 - "[[Jer.12.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.12.4]]"
 ---
 
-[[Jer.12|Jeremiah 12:1 - Jeremiah 12:4]]
+<small>[[Jer.12|Jeremiah 12:1-4]]</small>
 *The Prosperity of the Wicked*
 
 [[Jer.12.1|1]] Righteous \[art\] thou, O LORD, when I plead with thee: yet let me talk with thee of \[thy\] judgments: Wherefore doth the way of the wicked prosper? \[wherefore\] are all they happy that deal very treacherously?

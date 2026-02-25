@@ -1,8 +1,57 @@
+---
+title: Psalm 141:6
+type: Verse
+kjv: "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+bsb: "When their rulers are thrown down from the cliffs, the people will listen to my words, for they are pleasant."
+hebrew: "נִשְׁמְט֣וּ בִֽידֵי־ סֶ֭לַע שֹׁפְטֵיהֶ֑ם וְשָׁמְע֥וּ אֲ֝מָרַ֗י כִּ֣י נָעֵֽמוּ׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H8058]]"
+- "[[H9003]]"
+- "[[H3027P]]"
+- "[[H9014]]"
+- "[[H5553H]]"
+- "[[H8199]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0561]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H5276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 141:6**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When their judges are overthrown in stony places, they shall hear my words; for they are sweet.
 <small><sub>**BSB:**</sub></small>
 When their rulers are thrown down from the cliffs, the people will listen to my words, for they are pleasant.
+<small><sub>**Hebrew:**</sub></small>
+[[H8058\|נִשְׁמְט֣וּ]] [[H9003\|בִֽ]][[H3027P\|ידֵי]][[H9014\|־]] [[H5553H\|סֶ֭לַע]] [[H8199\|שֹׁפְטֵי]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H8085G\|שָׁמְע֥וּ]] [[H0561\|אֲ֝מָרַ֗]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H5276\|נָעֵֽמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.5|<< Psalms 141:5]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.7|Psalms 141:7 >>]]</td></tr></table>
 

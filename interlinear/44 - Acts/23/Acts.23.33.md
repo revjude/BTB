@@ -1,10 +1,58 @@
+---
+title: Acts 23:33
+type: Verse
+kjv: "Who, when they came to Caesarea, and delivered the epistle to the governor, presented Paul also before him."
+bsb: "When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him."
+greek: "οἵτινες εἰσελθόντες εἰς τὴν Καισάρειαν καὶ ἀναδόντες τὴν ἐπιστολὴν τῷ ἡγεμόνι παρέστησαν καὶ τὸν Παῦλον αὐτῷ."
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3748]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2542H]]"
+- "[[G2532]]"
+- "[[G0325]]"
+- "[[G1992]]"
+- "[[G2232]]"
+- "[[G3936]]"
+- "[[G3972G]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 23:33**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who, when they came to Caesarea, and delivered the epistle to the governor, presented Paul also before him.
 <small><sub>**BSB:**</sub></small>
 When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him.
-<small><sub>**Literal:**</sub></small>
-who having entered into <the> Caesarea and having delivered the letter to the governor presented also <the> Paul to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.32|<< Acts 23:32]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.34|Acts 23:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G1525\|εἰσελθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2542H\|Καισάρειαν]]  [[G2532\|καὶ]]  [[G0325\|ἀναδόντες]]  [[G3588\|τὴν]]  [[G1992\|ἐπιστολὴν]]  [[G3588\|τῷ]]  [[G2232\|ἡγεμόνι]]  [[G3936\|παρέστησαν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.32|<< Acts 23:32]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.34|Acts 23:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

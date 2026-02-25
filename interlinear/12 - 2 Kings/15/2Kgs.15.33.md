@@ -1,8 +1,63 @@
+---
+title: 2 Kings 15:33
+type: Verse
+kjv: "Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name was Jerusha, the daughter of Zadok."
+bsb: "He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ הָיָ֣ה בְמָלְכ֔וֹ וְשֵׁשׁ־ עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְרוּשָׁ֖א בַּת־ צָדֽוֹק׃"
+pericope: "[[2Kgs.15.32 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSHA|JERUSHA]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3388]]"
+- "[[H1323G]]"
+- "[[H6659H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:33**<big><big>[[2Kgs.15.32 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name [was] Jerusha, the daughter of Zadok.
 <small><sub>**BSB:**</sub></small>
 He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H1961\|הָיָ֣ה]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3388\|יְרוּשָׁ֖א]] [[H1323G\|בַּת]][[H9014\|־]] [[H6659H\|צָדֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSHA|JERUSHA]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.32|<< 2 Kings 15:32]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.34|2 Kings 15:34 >>]]</td></tr></table>
 

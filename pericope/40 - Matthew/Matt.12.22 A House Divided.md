@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A House Divided
+type: Pericope
 pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.12.22]]"
 - "[[Matt.12.23]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.12.30]]"
 ---
 
-[[Matt.12|Matthew 12:22 - Matthew 12:30]]
+<small>[[Matt.12|Matthew 12:22-30]]</small>
 *A House Divided*
 
 [[Matt.12.22|22]] Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.

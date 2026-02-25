@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Prayer of Thanksgiving
+type: Pericope
 pericope: "[[Luke.10.21 Jesus’ Prayer of Thanksgiving|Jesus’ Prayer of Thanksgiving]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.10.21]]"
 - "[[Luke.10.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.10.24]]"
 ---
 
-[[Luke.10|Luke 10:21 - Luke 10:24]]
+<small>[[Luke.10|Luke 10:21-24]]</small>
 *Jesus’ Prayer of Thanksgiving*
 
 [[Luke.10.21|21]] In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.

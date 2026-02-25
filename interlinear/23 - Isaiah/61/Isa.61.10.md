@@ -1,8 +1,76 @@
+---
+title: Isaiah 61:10
+type: Verse
+kjv: "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels."
+bsb: "I will rejoice greatly in the LORD, my soul will exult in my God; for He has clothed me with garments of salvation and wrapped me in a robe of righteousness, as a bridegroom wears a priestly headdress, as a bride adorns herself with her jewels."
+hebrew: "שׂ֧וֹשׂ אָשִׂ֣ישׂ בַּֽיהוָ֗ה תָּגֵ֤ל נַפְשִׁי֙ בֵּֽאלֹהַ֔י כִּ֤י הִלְבִּישַׁ֙נִי֙ בִּגְדֵי־ יֶ֔שַׁע מְעִ֥יל צְדָקָ֖ה יְעָטָ֑נִי כֶּֽחָתָן֙ יְכַהֵ֣ן פְּאֵ֔ר וְכַכַּלָּ֖ה תַּעְדֶּ֥ה כֵלֶֽיהָ׃"
+pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GARMENT|GARMENT]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic ROBE|ROBE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H7797]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H1523]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H3847]]"
+- "[[H9030]]"
+- "[[H0899B]]"
+- "[[H9014]]"
+- "[[H3468]]"
+- "[[H4598]]"
+- "[[H6666]]"
+- "[[H3271]]"
+- "[[H9004]]"
+- "[[H2860]]"
+- "[[H3547]]"
+- "[[H6287]]"
+- "[[H9002]]"
+- "[[H3618G]]"
+- "[[H5710B]]"
+- "[[H3627]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 61:10**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh [himself] with ornaments, and as a bride adorneth [herself] with her jewels.
 <small><sub>**BSB:**</sub></small>
 I will rejoice greatly in the LORD, my soul will exult in my God; for He has clothed me with garments of salvation and wrapped me in a robe of righteousness, as a bridegroom wears a priestly headdress, as a bride adorns herself with her jewels.
+<small><sub>**Hebrew:**</sub></small>
+[[H7797\|שׂ֧וֹשׂ]] [[H7797\|אָשִׂ֣ישׂ]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֗ה]] [[H1523\|תָּגֵ֤ל]] [[H5315G\|נַפְשִׁ]][[H9020\|י֙]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהַ֔]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H3847\|הִלְבִּישַׁ֙]][[H9030\|נִי֙]] [[H0899B\|בִּגְדֵי]][[H9014\|־]] [[H3468\|יֶ֔שַׁע]] [[H4598\|מְעִ֥יל]] [[H6666\|צְדָקָ֖ה]] [[H3271\|יְעָטָ֑]][[H9030\|נִי]] [[H9004\|כֶּֽ]][[H2860\|חָתָן֙]] [[H3547\|יְכַהֵ֣ן]] [[H6287\|פְּאֵ֔ר]] [[H9002\|וְ]][[H9004\|כַ]][[H3618G\|כַּלָּ֖ה]] [[H5710B\|תַּעְדֶּ֥ה]] [[H3627\|כֵלֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic CHURCH|CHURCH]] • [[topic GARMENT|GARMENT]] • [[topic HOLINESS|HOLINESS]] • [[topic JOY|JOY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MARRIAGE|MARRIAGE]] • [[topic ROBE|ROBE]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.9|<< Isaiah 61:9]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.11|Isaiah 61:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

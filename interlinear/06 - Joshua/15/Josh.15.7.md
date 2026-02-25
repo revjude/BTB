@@ -1,8 +1,76 @@
+---
+title: Joshua 15:7
+type: Verse
+kjv: "And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:"
+bsb: "Then the border went up to Debir from the Valley of Achor, turning north to Gilgal, which faces the Ascent of Adummim south of the ravine. It continued along the waters of En-shemesh and came out at En-rogel."
+hebrew: "וְעָלָ֨ה הַגְּב֥וּל׀ דְּבִרָה֮ מֵעֵ֣מֶק עָכוֹר֒ וְצָפ֜וֹנָה פֹּנֶ֣ה אֶל־ הַגִּלְגָּ֗ל אֲשֶׁר־ נֹ֙כַח֙ לְמַעֲלֵ֣ה אֲדֻמִּ֔ים אֲשֶׁ֥ר מִנֶּ֖גֶב לַנָּ֑חַל וְעָבַ֤ר הַגְּבוּל֙ אֶל־ מֵי־ עֵ֣ין שֶׁ֔מֶשׁ וְהָי֥וּ תֹצְאֹתָ֖יו אֶל־ עֵ֥ין רֹגֵֽל׃"
+pericope: "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHOR|ACHOR]]"
+- "[[topic ADUMMIM|ADUMMIM]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic EN-ROGEL|EN-ROGEL]]"
+- "[[topic EN-SHEMESH|EN-SHEMESH]]"
+- "[[topic GELILOTH|GELILOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H9015]]"
+- "[[H1688G]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H6010G]]"
+- "[[H5911]]"
+- "[[H9002]]"
+- "[[H6828G]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1537G]]"
+- "[[H0834A]]"
+- "[[H5227]]"
+- "[[H9005]]"
+- "[[H4608]]"
+- "[[H0131]]"
+- "[[H5045H]]"
+- "[[H5158N]]"
+- "[[H5674A]]"
+- "[[H4325G]]"
+- "[[H5885]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H5883]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:7**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that [is] before the going up to Adummim, which [is] on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:
 <small><sub>**BSB:**</sub></small>
 Then the border went up to Debir from the Valley of Achor, turning north to Gilgal, which faces the Ascent of Adummim south of the ravine. It continued along the waters of En-shemesh and came out at En-rogel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָלָ֨ה]] [[H9009\|הַ]][[H1366G\|גְּב֥וּל]][[H9015\|׀]] [[H1688G\|דְּבִרָ]][[H9011\|ה֮]] [[H9006\|מֵ]][[H6010G\|עֵ֣מֶק]] [[H5911\|עָכוֹר֒]] [[H9002\|וְ]][[H6828G\|צָפ֜וֹנָ]][[H9011\|ה]] [[H6437G\|פֹּנֶ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֗ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5227\|נֹ֙כַח֙]] [[H9005\|לְ]][[H4608\|מַעֲלֵ֣ה]] [[H0131\|אֲדֻמִּ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H9005\|לַ]][[H5158N\|נָּ֑חַל]] [[H9001\|וְ]][[H5674A\|עָבַ֤ר]] [[H9009\|הַ]][[H1366G\|גְּבוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מֵי]][[H9014\|־]] [[H5885\|עֵ֣ין]] [[H5885\|שֶׁ֔מֶשׁ]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H8444\|תֹצְאֹתָ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H5883\|עֵ֥ין]] [[H5883\|רֹגֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHOR|ACHOR]] • [[topic ADUMMIM|ADUMMIM]] • [[topic DEBIR|DEBIR]] • [[topic EN-ROGEL|EN-ROGEL]] • [[topic EN-SHEMESH|EN-SHEMESH]] • [[topic GELILOTH|GELILOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.6|<< Joshua 15:6]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.8|Joshua 15:8 >>]]</td></tr></table>
 

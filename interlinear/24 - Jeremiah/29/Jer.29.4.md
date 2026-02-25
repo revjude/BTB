@@ -1,8 +1,60 @@
+---
+title: Jeremiah 29:4
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;"
+bsb: "This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon:"
+hebrew: "כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל לְכָל־ הַ֨גּוֹלָ֔ה אֲשֶׁר־ הִגְלֵ֥יתִי מִירוּשָׁלִַ֖ם בָּבֶֽלָה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:4**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ֨]][[H1473\|גּוֹלָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1540K\|הִגְלֵ֥יתִי]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.3|<< Jeremiah 29:3]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.5|Jeremiah 29:5 >>]]</td></tr></table>
 

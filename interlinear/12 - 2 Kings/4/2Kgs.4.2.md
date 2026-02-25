@@ -1,8 +1,72 @@
+---
+title: 2 Kings 4:2
+type: Verse
+kjv: "And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil."
+bsb: "“How can I help you?” asked Elisha. “Tell me, what do you have in the house?” She answered, “Your servant has nothing in the house but a jar of oil.”"
+hebrew: "וַיֹּ֨אמֶר אֵלֶ֤יהָ אֱלִישָׁע֙ מָ֣ה אֶֽעֱשֶׂה־ לָּ֔ךְ הַגִּ֣ידִי לִ֔י מַה־ יֶּשׁ־ לָ֖ךְ בַּבָּ֑יִת וַתֹּ֗אמֶר אֵ֣ין לְשִׁפְחָתְךָ֥ כֹל֙ בַּבַּ֔יִת כִּ֖י אִם־ אָס֥וּךְ שָֽׁמֶן׃"
+pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0477]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0369]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0610]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 4:2**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil.
 <small><sub>**BSB:**</sub></small>
 “How can I help you?” asked Elisha. “Tell me, what do you have in the house?” She answered, “Your servant has nothing in the house but a jar of oil.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלֶ֤י]][[H9034\|הָ]] [[H0477\|אֱלִישָׁע֙]] [[H4100\|מָ֣ה]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H9005\|לָּ֔]][[H9032\|ךְ]] [[H5046\|הַגִּ֣ידִי]] [[H9005\|לִ֔]][[H9030\|י]] [[H4100\|מַה]][[H9014\|־]] [[H3426\|יֶּשׁ]][[H9014\|־]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H9003\|בַּ]][[H1004B\|בָּ֑יִת]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H0369\|אֵ֣ין]] [[H9005\|לְ]][[H8198\|שִׁפְחָתְ]][[H9021\|ךָ֥]] [[H3605\|כֹל֙]] [[H9003\|בַּ]][[H1004B\|בַּ֔יִת]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H0610\|אָס֥וּךְ]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic OIL|OIL]] • [[topic POOR|POOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.1|<< 2 Kings 4:1]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.3|2 Kings 4:3 >>]]</td></tr></table>
 

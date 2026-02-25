@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Illness and Recovery
+type: Pericope
 pericope: "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 38
 book/chapter: "[[Isa.38|Isaiah 38]]"
-genre:
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.38.1]]"
 - "[[Isa.38.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.38.8]]"
 ---
 
-[[Isa.38|Isaiah 38:1 - Isaiah 38:8]]
+<small>[[Isa.38|Isaiah 38:1-8]]</small>
 *Hezekiah’s Illness and Recovery*
 
 [[Isa.38.1|1]] In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.

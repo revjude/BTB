@@ -1,10 +1,61 @@
+---
+title: Luke 17:3
+type: Verse
+kjv: "Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him."
+bsb: "Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him."
+jesus_said: "Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him."
+greek: "προσέχετε ἑαυτοῖς. ἐὰν δὲ ἁμάρτῃ εἰς σὲ ὁ ἀδελφός σου, ἐπιτίμησον αὐτῷ· καὶ ἐὰν μετανοήσῃ, ἄφες αὐτῷ."
+pericope: "[[Luke.17.1 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[G4337]]"
+- "[[G1438]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3340]]"
+- "[[G0863H]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 17:3**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
 <small><sub>**BSB:**</sub></small>
 Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.
-<small><sub>**Literal:**</sub></small>
-do take heed to yourselves. If now shall sin against you the brother of you, do rebuke him; and if he shall repent, do forgive him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.2|<< Luke 17:2]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.4|Luke 17:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4337\|προσέχετε]]  [[G1438\|ἑαυτοῖς.]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G0264\|ἁμάρτῃ]]  [[G1519\|εἰς]]  [[G4771\|σὲ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου,]]  [[G2008\|ἐπιτίμησον]]  [[G0846\|αὐτῷ·]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G3340\|μετανοήσῃ,]]  [[G0863H\|ἄφες]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROOF|REPROOF]] • [[topic TRESPASS|TRESPASS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.2|<< Luke 17:2]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.4|Luke 17:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 17:3** is...
 > $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]

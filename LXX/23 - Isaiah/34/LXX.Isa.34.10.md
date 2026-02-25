@@ -1,6 +1,63 @@
+---
+title: LXX Isaiah 34:10
+type: Verse
+lxx: "night and day; and it shall not be extinguished into the eon of time. And her smoke shall ascend upward; unto her generations she shall be made desolate, and for a long time she shall be made desolate."
+greek: "νυκτός και ημέρας και ου σβεσθήσεται εις τον αιώνα χρόνον και αναβήσεται ο καπνός αυτής άνω εις γενεάς αυτής ερημωθήσεται και εις χρόνον πολύν ερημωθήσεται"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4570]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G5550]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G2586]]"
+- "[[G1473]]"
+- "[[G0507]]"
+- "[[G1519]]"
+- "[[G1074]]"
+- "[[G1473]]"
+- "[[G2049]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G5550]]"
+- "[[G4183]]"
+- "[[G2049]]"
+---
+
 **LXX Isaiah 34:10** 
 <small><sub>**LXX:**</sub></small>
 night and day; and it shall not be extinguished into the eon of time. And her smoke shall ascend upward; unto her generations she shall be made desolate, and for a long time she shall be made desolate. 
+<small><sub>**Greek:**</sub></small>
+[[G3571\|νυκτός]] [[G2532\|και]] [[G2250\|ημέρας]] [[G2532\|και]] [[G3756\|ου]] [[G4570\|σβεσθήσεται]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]] [[G5550\|χρόνον]] [[G2532\|και]] [[G0305\|αναβήσεται]] [[G3588\|ο]] [[G2586\|καπνός]] [[G1473\|αυτής]] [[G0507\|άνω]] [[G1519\|εις]] [[G1074\|γενεάς]] [[G1473\|αυτής]] [[G2049\|ερημωθήσεται]] [[G2532\|και]] [[G1519\|εις]] [[G5550\|χρόνον]] [[G4183\|πολύν]] [[G2049\|ερημωθήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PUNISHMENT|PUNISHMENT]] • [[topic VOLCANOES|VOLCANOES]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -33,6 +90,6 @@ night and day; and it shall not be extinguished into the eon of time. And her sm
 | time | **<big>[[G5550\|χρόνον]]</big>** |
 | a long | **<big>[[G4183\|πολύν]]</big>** |
 | she shall be made desolate. | **<big>[[G2049\|ερημωθήσεται]]</big>** |
-[[Isa.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
 
 

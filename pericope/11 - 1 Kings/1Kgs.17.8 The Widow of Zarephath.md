@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Widow of Zarephath
+type: Pericope
 pericope: "[[1Kgs.17.8 The Widow of Zarephath|The Widow of Zarephath]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 17
 book/chapter: "[[1Kgs.17|1 Kings 17]]"
-genre:
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.17.8]]"
 - "[[1Kgs.17.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.17.16]]"
 ---
 
-[[1Kgs.17|1 Kings 17:8 - 1 Kings 17:16]]
+<small>[[1Kgs.17|1 Kings 17:8-16]]</small>
 *The Widow of Zarephath*
 
 [[1Kgs.17.8|8]] And the word of the LORD came unto him, saying,

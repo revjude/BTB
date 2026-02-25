@@ -1,8 +1,55 @@
+---
+title: Amos 2:13
+type: Verse
+kjv: "Behold, I am pressed under you, as a cart is pressed that is full of sheaves."
+bsb: "Behold, I am about to crush you in your place as with a cart full of grain."
+hebrew: "הִנֵּ֛ה אָנֹכִ֥י מֵעִ֖יק תַּחְתֵּיכֶ֑ם כַּאֲשֶׁ֤ר תָּעִיק֙ הָעֲגָלָ֔ה הַֽמְלֵאָ֥ה לָ֖הּ עָמִֽיר׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H5781]]"
+- "[[H8478I]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9009]]"
+- "[[H5699]]"
+- "[[H4392]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:13**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I am pressed under you, as a cart is pressed [that is] full of sheaves.
 <small><sub>**BSB:**</sub></small>
 Behold, I am about to crush you in your place as with a cart full of grain.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H0595\|אָנֹכִ֥י]] [[H5781\|מֵעִ֖יק]] [[H8478I\|תַּחְתֵּי]][[H9036\|כֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H5781\|תָּעִיק֙]] [[H9009\|הָ]][[H5699\|עֲגָלָ֔ה]] [[H9009\|הַֽ]][[H4392\|מְלֵאָ֥ה]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H5995\|עָמִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.12|<< Amos 2:12]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.14|Amos 2:14 >>]]</td></tr></table>
 

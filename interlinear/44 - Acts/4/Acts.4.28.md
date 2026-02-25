@@ -1,10 +1,48 @@
+---
+title: Acts 4:28
+type: Verse
+kjv: "For to do whatsoever thy hand and thy counsel determined before to be done."
+bsb: "They carried out what Your hand and will had decided beforehand would happen."
+greek: "ποιῆσαι ὅσα ἡ χείρ σου καὶ ἡ βουλή σου προώρισεν γενέσθαι."
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G4160G]]"
+- "[[G3745]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1012]]"
+- "[[G4309]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Acts 4:28**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For to do whatsoever thy hand and thy counsel determined before to be done.
 <small><sub>**BSB:**</sub></small>
 They carried out what Your hand and will had decided beforehand would happen.
-<small><sub>**Literal:**</sub></small>
-to do as much as the hand of You and the purpose of You determined beforehand to happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.27|<< Acts 4:27]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.29|Acts 4:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4160G\|ποιῆσαι]]  [[G3745\|ὅσα]]  [[G3588\|ἡ]]  [[G5495\|χείρ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1012\|βουλή]]  [[G4771\|σου]]  [[G4309\|προώρισεν]]  [[G1096\|γενέσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.27|<< Acts 4:27]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.29|Acts 4:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

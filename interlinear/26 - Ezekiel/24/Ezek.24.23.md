@@ -1,8 +1,66 @@
+---
+title: Ezekiel 24:23
+type: Verse
+kjv: "And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another."
+bsb: "Your turbans will remain on your heads and your sandals on your feet. You will not mourn or weep, but you will waste away because of your sins, and you will groan among yourselves."
+hebrew: "וּפְאֵרֵכֶ֣ם עַל־ רָאשֵׁיכֶ֗ם וְנַֽעֲלֵיכֶם֙ בְּרַגְלֵיכֶ֔ם לֹ֥א תִסְפְּד֖וּ וְלֹ֣א תִבְכּ֑וּ וּנְמַקֹּתֶם֙ בַּעֲוֹנֹ֣תֵיכֶ֔ם וּנְהַמְתֶּ֖ם אִ֥ישׁ אֶל־ אָחִֽיו׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6287]]"
+- "[[H9026]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H5275]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H3808]]"
+- "[[H5594]]"
+- "[[H1058]]"
+- "[[H9001]]"
+- "[[H4743]]"
+- "[[H5771G]]"
+- "[[H5098]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:23**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your tires [shall be] upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 <small><sub>**BSB:**</sub></small>
 Your turbans will remain on your heads and your sandals on your feet. You will not mourn or weep, but you will waste away because of your sins, and you will groan among yourselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6287\|פְאֵרֵ]][[H9026\|כֶ֣ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רָאשֵׁי]][[H9026\|כֶ֗ם]] [[H9002\|וְ]][[H5275\|נַֽעֲלֵי]][[H9026\|כֶם֙]] [[H9003\|בְּ]][[H7272\|רַגְלֵי]][[H9026\|כֶ֔ם]] [[H3808\|לֹ֥א]] [[H5594\|תִסְפְּד֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1058\|תִבְכּ֑וּ]] [[H9001\|וּ]][[H4743\|נְמַקֹּתֶם֙]] [[H9003\|בַּ]][[H5771G\|עֲוֹנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וּ]][[H5098\|נְהַמְתֶּ֖ם]] [[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.22|<< Ezekiel 24:22]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.24|Ezekiel 24:24 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 5:20
+type: Verse
+kjv: "And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim."
+bsb: "So David went to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, the LORD has burst out against my enemies before me.” So he called that place Baal-perazim."
+hebrew: "וַיָּבֹ֨א דָוִ֥ד בְּבַֽעַל־ פְּרָצִים֮ וַיַּכֵּ֣ם שָׁ֣ם דָּוִד֒ וַיֹּ֕אמֶר פָּרַ֨ץ יְהוָ֧ה אֶת־ אֹיְבַ֛י לְפָנַ֖י כְּפֶ֣רֶץ מָ֑יִם עַל־ כֵּ֗ן קָרָ֛א שֵֽׁם־ הַמָּק֥וֹם הַה֖וּא בַּ֥עַל פְּרָצִֽים׃"
+pericope: "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BAAL-PERAZIM|BAAL-PERAZIM]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H1188]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H0559]]"
+- "[[H6555]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9004]]"
+- "[[H6556]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:20**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
 <small><sub>**BSB:**</sub></small>
 So David went to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, the LORD has burst out against my enemies before me.” So he called that place Baal-perazim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H1732\|דָוִ֥ד]] [[H9003\|בְּ]][[H1188\|בַֽעַל]][[H9014\|־]] [[H1188\|פְּרָצִים֮]] [[H9001\|וַ]][[H5221\|יַּכֵּ֣]][[H9038\|ם]] [[H8033G\|שָׁ֣ם]] [[H1732\|דָּוִד֒]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H6555\|פָּרַ֨ץ]] [[H3068G\|יְהוָ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבַ֛]][[H9020\|י]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H9004\|כְּ]][[H6556\|פֶ֣רֶץ]] [[H4325G\|מָ֑יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H7121H\|קָרָ֛א]] [[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H1188\|בַּ֥עַל]] [[H1188\|פְּרָצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-PERAZIM|BAAL-PERAZIM]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.19|<< 2 Samuel 5:19]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.21|2 Samuel 5:21 >>]]</td></tr></table>
 

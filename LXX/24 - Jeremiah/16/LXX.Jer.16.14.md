@@ -1,9 +1,57 @@
+---
+title: LXX Jeremiah 16:14
+type: Verse
+lxx: "On account of this, behold, days come, says the lord, and say not still, As the lord lives, the one leading up the sons of Israel from out of the land of Egypt."
+greek: "διά τούτο ιδού ημέραι έρχονται λέγει κύριος και ουκ ερούσιν έτι ζη κύριος ο αναγαγών τους υιούς Ισραήλ εκ γης Αιγύπτου"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2400]]"
+- "[[G2250]]"
+- "[[G2064]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2046]]"
+- "[[G2089]]"
+- "[[G2198]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+---
+
 **LXX Jeremiah 16:14** 
 
 ***Future Restoration***
 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, days come, says \[the\] <span class="smallcaps">lord</span>, and say not still, As \[the\] <span class="smallcaps">lord</span> lives, the one leading up the sons of Israel from out of \[the\] land of Egypt. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G2400\|ιδού]] [[G2250\|ημέραι]] [[G2064\|έρχονται]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2532\|και]] [[G3756\|ουκ]] [[G2046\|ερούσιν]] [[G2089\|έτι]] [[G2198\|ζη]] [[G2962\|κύριος]] [[G3588\|ο]] [[G0321\|αναγαγών]] [[G3588\|τους]] [[G5207\|υιούς]] [[G2474\|Ισραήλ]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]]
 <small><sub>**MT:**</sub></small>
 [[Jer.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.13|<< Jeremiah 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.15|Jeremiah 16:15 >>]]</td></tr></table>
 
@@ -29,6 +77,6 @@ On account of this, behold, days come, says \[the\] <span class="smallcaps">lord
 | from out of | **<big>[[G1537\|εκ]]</big>** |
 | \[the\] land | **<big>[[G1093\|γης]]</big>** |
 | of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
-[[Jer.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.13|<< Jeremiah 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.15|Jeremiah 16:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.13|<< Jeremiah 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.15|Jeremiah 16:15 >>]]</td></tr></table>
 
 

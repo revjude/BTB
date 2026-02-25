@@ -1,10 +1,69 @@
+---
+title: Luke 4:9
+type: Verse
+kjv: "And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:"
+bsb: "Then the devil led Him to Jerusalem and set Him on the pinnacle of the temple. “If You are the Son of God,” he said, “throw Yourself down from here."
+greek: "Καὶ Ἤγαγεν δὲ αὐτὸν εἰς Ἰερουσαλὴμ καὶ ἔστησεν αὐτὸν ἐπὶ τὸ πτερύγιον τοῦ ἱεροῦ καὶ εἶπεν αὐτῷ· εἰ ὁ υἱὸς εἶ τοῦ θεοῦ, βάλε σεαυτὸν ἐντεῦθεν κάτω·"
+pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4419]]"
+- "[[G2411]]"
+- "[[G2036]]"
+- "[[G1487G]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G0906G]]"
+- "[[G4771]]"
+- "[[G1782]]"
+- "[[G2736]]"
+texts:
+- k
+- NKO
+- no
+- ko
+---
+
 **Luke 4:9**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:
 <small><sub>**BSB:**</sub></small>
 Then the devil led Him to Jerusalem and set Him on the pinnacle of the temple. “If You are the Son of God,” he said, “throw Yourself down from here.
-<small><sub>**Literal:**</sub></small>
-and He led also Him to Jerusalem and set him upon the pinnacle of the temple and said to Him; If the Son You are <the> of God, do cast Yourself from here down;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.8|<< Luke 4:8]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.10|Luke 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0071\|Ἤγαγεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G2476\|ἔστησεν]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4419\|πτερύγιον]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0906G\|βάλε]]  [[G4771\|σεαυτὸν]]  [[G1782\|ἐντεῦθεν]]  [[G2736\|κάτω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SATAN|SATAN]] • [[topic SUICIDE|SUICIDE]] • [[topic TEMPLE|TEMPLE]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.8|<< Luke 4:8]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.10|Luke 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

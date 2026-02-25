@@ -1,10 +1,58 @@
+---
+title: Acts 13:40
+type: Verse
+kjv: "Beware therefore, lest that come upon you, which is spoken of in the prophets;"
+bsb: "Watch out, then, that what was spoken by the prophets does not happen to you:"
+greek: "βλέπετε οὖν μὴ ἐπέλθῃ ἐφ᾽ ὑμᾶς τὸ εἰρημένον ἐν τοῖς προφήταις·"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0991]]"
+- "[[G3767]]"
+- "[[G3361]]"
+- "[[G1904]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1722]]"
+- "[[G4396]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 13:40**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beware therefore, lest that come upon you, which is spoken of in the prophets;
 <small><sub>**BSB:**</sub></small>
 Watch out, then, that what was spoken by the prophets does not happen to you:
-<small><sub>**Literal:**</sub></small>
-do take heed therefore lest may come about upon you that said in the prophets:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.39|<< Acts 13:39]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.41|Acts 13:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπετε]]  [[G3767\|οὖν]]  [[G3361\|μὴ]]  [[G1904\|ἐπέλθῃ]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G3588\|τὸ]]  [[G2046\|εἰρημένον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4396\|προφήταις·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic UNBELIEF|UNBELIEF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.39|<< Acts 13:39]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.41|Acts 13:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

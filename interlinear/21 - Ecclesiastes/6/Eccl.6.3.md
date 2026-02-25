@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 6:3
+type: Verse
+kjv: "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he."
+bsb: "A man may father a hundred children and live for many years; yet no matter how long he lives, if he is unsatisfied with his prosperity and does not even receive a proper burial, I say that a stillborn child is better off than he."
+hebrew: "אִם־ יוֹלִ֣יד אִ֣ישׁ מֵאָ֡ה וְשָׁנִים֩ רַבּ֨וֹת יִֽחְיֶ֜ה וְרַ֣ב׀ שֶׁיִּהְי֣וּ יְמֵֽי־ שָׁנָ֗יו וְנַפְשׁוֹ֙ לֹא־ תִשְׂבַּ֣ע מִן־ הַטּוֹבָ֔ה וְגַם־ קְבוּרָ֖ה לֹא־ הָ֣יְתָה לּ֑וֹ אָמַ֕רְתִּי ט֥וֹב מִמֶּ֖נּוּ הַנָּֽפֶל׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3205]]"
+- "[[H0376I]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H8141]]"
+- "[[H7227A]]"
+- "[[H2421]]"
+- "[[H9015]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H5315L]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2896C]]"
+- "[[H1571]]"
+- "[[H6900]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H5309]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:3**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man beget an hundred [children], and live many years, so that the days of his years be many, and his soul be not filled with good, and also [that] he have no burial; I say, [that] an untimely birth [is] better than he.
 <small><sub>**BSB:**</sub></small>
 A man may father a hundred children and live for many years; yet no matter how long he lives, if he is unsatisfied with his prosperity and does not even receive a proper burial, I say that a stillborn child is better off than he.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3205\|יוֹלִ֣יד]] [[H0376I\|אִ֣ישׁ]] [[H3967\|מֵאָ֡ה]] [[H9002\|וְ]][[H8141\|שָׁנִים֩]] [[H7227A\|רַבּ֨וֹת]] [[H2421\|יִֽחְיֶ֜ה]] [[H9002\|וְ]][[H7227A\|רַ֣ב]][[H9015\|׀]] [[H9007\|שֶׁ]][[H1961\|יִּהְי֣וּ]] [[H3117G\|יְמֵֽי]][[H9014\|־]] [[H8141\|שָׁנָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H5315L\|נַפְשׁ]][[H9023\|וֹ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H7646\|תִשְׂבַּ֣ע]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H6900\|קְבוּרָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֣יְתָה]] [[H9005\|לּ֑]][[H9033\|וֹ]] [[H0559\|אָמַ֕רְתִּי]] [[H2896A\|ט֥וֹב]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H9009\|הַ]][[H5309\|נָּֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.2|<< Ecclesiastes 6:2]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.4|Ecclesiastes 6:4 >>]]</td></tr></table>
 

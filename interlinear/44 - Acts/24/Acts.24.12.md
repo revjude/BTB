@@ -1,10 +1,59 @@
+---
+title: Acts 24:12
+type: Verse
+kjv: "And they neither found me in the temple disputing with any man, neither raising up the people, neither in the synagogues, nor in the city:"
+bsb: "Yet my accusers did not find me debating with anyone in the temple or riling up a crowd in the synagogues or in the city."
+greek: "καὶ οὔτε ἐν τῷ ἱερῷ εὗρόν με πρός τινα διαλεγόμενον ἢ ἐπίστασιν ποιοῦντα ὄχλου οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν·"
+pericope: "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3777]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G2147]]"
+- "[[G3165]]"
+- "[[G4314]]"
+- "[[G5100]]"
+- "[[G1256]]"
+- "[[G2228]]"
+- "[[G20447]]"
+- "[[G4160G]]"
+- "[[G3793]]"
+- "[[G4864]]"
+- "[[G2596]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 24:12**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they neither found me in the temple disputing with any man, neither raising up the people, neither in the synagogues, nor in the city:
 <small><sub>**BSB:**</sub></small>
 Yet my accusers did not find me debating with anyone in the temple or riling up a crowd in the synagogues or in the city.
-<small><sub>**Literal:**</sub></small>
-And neither in the temple did they find me with anyone reasoning or obstruction making of a crowd nor in the synagogues nor in the city;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.11|<< Acts 24:11]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.13|Acts 24:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2147\|εὗρόν]]  [[G3165\|με]]  [[G4314\|πρός]]  [[G5100\|τινα]]  [[G1256\|διαλεγόμενον]]  [[G2228\|ἢ]]  [[G20447\|ἐπίστασιν]]  [[G4160G\|ποιοῦντα]]  [[G3793\|ὄχλου]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G3777\|οὔτε]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G4172\|πόλιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFENSE|DEFENSE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.11|<< Acts 24:11]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.13|Acts 24:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

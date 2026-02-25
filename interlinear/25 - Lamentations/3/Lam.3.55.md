@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:55
+type: Verse
+kjv: "I called upon thy name, O LORD, out of the low dungeon."
+bsb: "I called on Your name, O LORD, out of the depths of the Pit."
+hebrew: "קָרָ֤אתִי שִׁמְךָ֙ יְהוָ֔ה מִבּ֖וֹר תַּחְתִּיּֽוֹת׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H7121G]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0953A]]"
+- "[[H8482]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:55**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I called upon thy name, O LORD, out of the low dungeon.
 <small><sub>**BSB:**</sub></small>
 I called on Your name, O LORD, out of the depths of the Pit.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121G\|קָרָ֤אתִי]] [[H8034\|שִׁמְ]][[H9021\|ךָ֙]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מִ]][[H0953A\|בּ֖וֹר]] [[H8482\|תַּחְתִּיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.54|<< Lamentations 3:54]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.56|Lamentations 3:56 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Anointed at Bethany
+type: Pericope
 pericope: "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.14.3]]"
 - "[[Mark.14.4]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.14.9]]"
 ---
 
-[[Mark.14|Mark 14:3 - Mark 14:9]]
+<small>[[Mark.14|Mark 14:3-9]]</small>
 *Jesus Anointed at Bethany*
 
 [[Mark.14.3|3]] And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured \[it\] on his head.

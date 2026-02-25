@@ -1,10 +1,57 @@
+---
+title: Acts 19:22
+type: Verse
+kjv: "So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season."
+bsb: "He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed for a time in the province of Asia."
+greek: "ἀποστείλας δὲ εἰς τὴν Μακεδονίαν δύο τῶν διακονούντων αὐτῷ, Τιμόθεον καὶ Ἔραστον, αὐτὸς ἐπέσχεν χρόνον εἰς τὴν Ἀσίαν.¶"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ERASTUS|ERASTUS]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G0649]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3109]]"
+- "[[G1417]]"
+- "[[G1247]]"
+- "[[G0846]]"
+- "[[G5095]]"
+- "[[G2532]]"
+- "[[G2037]]"
+- "[[G1907]]"
+- "[[G5550]]"
+- "[[G0773]]"
+texts:
+- NKO
+---
+
 **Acts 19:22**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.
 <small><sub>**BSB:**</sub></small>
 He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed for a time in the province of Asia.
-<small><sub>**Literal:**</sub></small>
-Having sent then into <the> Macedonia two of those ministering to him, Timothy and Erastus, he himself remained for a time in <the> Asia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.21|<< Acts 19:21]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.23|Acts 19:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0649\|ἀποστείλας]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3109\|Μακεδονίαν]]  [[G1417\|δύο]]  [[G3588\|τῶν]]  [[G1247\|διακονούντων]]  [[G0846\|αὐτῷ,]]  [[G5095\|Τιμόθεον]]  [[G2532\|καὶ]]  [[G2037\|Ἔραστον,]]  [[G0846\|αὐτὸς]]  [[G1907\|ἐπέσχεν]]  [[G5550\|χρόνον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0773\|Ἀσίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ERASTUS|ERASTUS]] • [[topic MACEDONIA|MACEDONIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.21|<< Acts 19:21]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.23|Acts 19:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: 1 Peter 4:19
+type: Verse
+kjv: "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."
+bsb: "So then, those who suffer according to God’s will should entrust their souls to their faithful Creator and continue to do good."
+greek: "ὥστε καὶ οἱ πάσχοντες κατὰ τὸ θέλημα τοῦ θεοῦ ὡς, πιστῷ κτίστῃ παρατιθέσθωσαν τὰς ψυχὰς αὐτῶν ἐν ἀγαθοποιΐᾳ.¶"
+pericope: "[[1Pet.4.12 Suffering as Christians|Suffering as Christians]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G5620]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3958]]"
+- "[[G2596]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G5613]]"
+- "[[G4103]]"
+- "[[G2939]]"
+- "[[G3908]]"
+- "[[G5590G]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G0016]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **1 Peter 4:19**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore let them that suffer according to the will of God commit the keeping of their souls [to him] in well doing, as unto a faithful Creator.
 <small><sub>**BSB:**</sub></small>
 So then, those who suffer according to God’s will should entrust their souls to their faithful Creator and continue to do good.
-<small><sub>**Literal:**</sub></small>
-Therefore also those suffering according to the will <the> of God as to [the] faithful Creator they should commit the souls of them in well doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.18|<< 1 Peter 4:18]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.1|1 Peter 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3958\|πάσχοντες]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5613\|ὡς,]]  [[G4103\|πιστῷ]]  [[G2939\|κτίστῃ]]  [[G3908\|παρατιθέσθωσαν]]  [[G3588\|τὰς]]  [[G5590G\|ψυχὰς]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G0016\|ἀγαθοποιΐᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.18|<< 1 Peter 4:18]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.1|1 Peter 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

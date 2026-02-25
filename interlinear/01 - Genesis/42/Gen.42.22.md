@@ -1,8 +1,71 @@
+---
+title: Genesis 42:22
+type: Verse
+kjv: "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required."
+bsb: "And Reuben responded, “Didn’t I tell you not to sin against the boy? But you would not listen. Now we must account for his blood!”"
+hebrew: "וַיַּעַן֩ רְאוּבֵ֨ן אֹתָ֜ם לֵאמֹ֗ר הֲלוֹא֩ אָמַ֨רְתִּי אֲלֵיכֶ֧ם׀ לֵאמֹ֛ר אַל־ תֶּחֶטְא֥וּ בַיֶּ֖לֶד וְלֹ֣א שְׁמַעְתֶּ֑ם וְגַם־ דָּמ֖וֹ הִנֵּ֥ה נִדְרָֽשׁ׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H7205]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9015]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H3206]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H1571]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H1875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:22**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.
 <small><sub>**BSB:**</sub></small>
 And Reuben responded, “Didn’t I tell you not to sin against the boy? But you would not listen. Now we must account for his blood!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעַן֩]] [[H7205\|רְאוּבֵ֨ן]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9008\|הֲ]][[H3808\|לוֹא֩]] [[H0559\|אָמַ֨רְתִּי]] [[H0413\|אֲלֵי]][[H9036\|כֶ֧ם]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֛ר]] [[H0408\|אַל]][[H9014\|־]] [[H2398\|תֶּחֶטְא֥וּ]] [[H9003\|בַ]][[H3206\|יֶּ֖לֶד]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|שְׁמַעְתֶּ֑ם]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1818\|דָּמ֖]][[H9023\|וֹ]] [[H2009\|הִנֵּ֥ה]] [[H1875\|נִדְרָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic COMMERCE|COMMERCE]] • [[topic CONVICTION|CONVICTION]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.21|<< Genesis 42:21]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.23|Genesis 42:23 >>]]</td></tr></table>
 

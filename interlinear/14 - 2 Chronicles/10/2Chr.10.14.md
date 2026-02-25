@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 10:14
+type: Verse
+kjv: "And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I will chastise you with scorpions."
+bsb: "and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”"
+hebrew: "וַיְדַבֵּ֣ר אֲלֵהֶ֗ם כַּעֲצַ֤ת הַיְלָדִים֙ לֵאמֹ֔ר אַכְבִּיד֙ אֶֽת־ עֻלְּכֶ֔ם וַאֲנִ֖י אֹסִ֣יף עָלָ֑יו אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֖י בָּעֲקְרַבִּֽים׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6098]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3513H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5923]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3256]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H7752]]"
+- "[[H6137]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:14**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I [will chastise you] with scorpions.
 <small><sub>**BSB:**</sub></small>
 and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H9004\|כַּ]][[H6098\|עֲצַ֤ת]] [[H9009\|הַ]][[H3206\|יְלָדִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3513H\|אַכְבִּיד֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5923\|עֻלְּ]][[H9026\|כֶ֔ם]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H3254H\|אֹסִ֣יף]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H3256\|יִסַּ֤ר]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בַּ]][[H7752\|שּׁוֹטִ֔ים]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H9003\|בָּ]][[H6137\|עֲקְרַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.13|<< 2 Chronicles 10:13]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.15|2 Chronicles 10:15 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 41:8
+type: Verse
+kjv: "Lay thine hand upon him, remember the battle, do no more."
+bsb: "If you lay a hand on him, you will remember the battle and never repeat it!"
+hebrew: "שִׂים־ עָלָ֥יו כַּפֶּ֑ךָ זְכֹ֥ר מִ֝לְחָמָ֗ה אַל־ תּוֹסַֽף׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7760H]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3709G]]"
+- "[[H9021]]"
+- "[[H2142]]"
+- "[[H4421]]"
+- "[[H0408]]"
+- "[[H3254G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:8**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lay thine hand upon him, remember the battle, do no more.
 <small><sub>**BSB:**</sub></small>
 If you lay a hand on him, you will remember the battle and never repeat it!
+<small><sub>**Hebrew:**</sub></small>
+[[H7760H\|שִׂים]][[H9014\|־]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H3709G\|כַּפֶּ֑]][[H9021\|ךָ]] [[H2142\|זְכֹ֥ר]] [[H4421\|מִ֝לְחָמָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H3254G\|תּוֹסַֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.7|<< Job 41:7]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.9|Job 41:9 >>]]</td></tr></table>
 

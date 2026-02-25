@@ -1,8 +1,66 @@
+---
+title: Jeremiah 23:5
+type: Verse
+kjv: "Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth."
+bsb: "Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and He will reign wisely as King and will administer justice and righteousness in the land."
+hebrew: "הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וַהֲקִמֹתִ֥י לְדָוִ֖ד צֶ֣מַח צַדִּ֑יק וּמָ֤לַךְ מֶ֙לֶךְ֙ וְהִשְׂכִּ֔יל וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָֽרֶץ׃"
+pericope: "[[Jer.23.1 David’s Righteous Branch|David’s Righteous Branch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H6780]]"
+- "[[H6662]]"
+- "[[H4427A]]"
+- "[[H4428G]]"
+- "[[H7919A]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:5**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
 <small><sub>**BSB:**</sub></small>
 Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and He will reign wisely as King and will administer justice and righteousness in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֥י]] [[H9005\|לְ]][[H1732\|דָוִ֖ד]] [[H6780\|צֶ֣מַח]] [[H6662\|צַדִּ֑יק]] [[H9001\|וּ]][[H4427A\|מָ֤לַךְ]] [[H4428G\|מֶ֙לֶךְ֙]] [[H9001\|וְ]][[H7919A\|הִשְׂכִּ֔יל]] [[H9001\|וְ]][[H6213A\|עָשָׂ֛ה]] [[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.4|<< Jeremiah 23:4]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.6|Jeremiah 23:6 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Exodus 36:35
+type: Verse
+kjv: "And he made a vail of blue, and purple, and scarlet, and fine twined linen: with cherubims made he it of cunning work."
+bsb: "Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it."
+hebrew: "וַיַּ֙עַשׂ֙ אֶת־ הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃"
+pericope: "[[Exod.36.35 The Veil|The Veil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6532]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H9034]]"
+- "[[H3742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:35**<big><big>[[Exod.36.35 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made a vail [of] blue, and purple, and scarlet, and fine twined linen: [with] cherubims made he it of cunning work.
 <small><sub>**BSB:**</sub></small>
 Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֙עַשׂ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6532\|פָּרֹ֔כֶת]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֑ר]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵׁ֛ב]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H3742\|כְּרֻבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COLORS|COLORS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.34|<< Exodus 36:34]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.36|Exodus 36:36 >>]]</td></tr></table>
 

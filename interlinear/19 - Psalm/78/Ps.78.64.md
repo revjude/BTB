@@ -1,8 +1,56 @@
+---
+title: Psalm 78:64
+type: Verse
+kjv: "Their priests fell by the sword; and their widows made no lamentation."
+bsb: "His priests fell by the sword, but their widows could not lament."
+hebrew: "כֹּ֭הֲנָיו בַּחֶ֣רֶב נָפָ֑לוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3548]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H3808]]"
+- "[[H1058]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:64**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their priests fell by the sword; and their widows made no lamentation.
 <small><sub>**BSB:**</sub></small>
 His priests fell by the sword, but their widows could not lament.
+<small><sub>**Hebrew:**</sub></small>
+[[H3548\|כֹּ֭הֲנָי]][[H9023\|ו]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|נָפָ֑לוּ]] [[H9002\|וְ֝]][[H0490\|אַלְמְנֹתָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H1058\|תִבְכֶּֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.63|<< Psalms 78:63]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.65|Psalms 78:65 >>]]</td></tr></table>
 

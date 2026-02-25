@@ -1,8 +1,63 @@
+---
+title: Numbers 30:6
+type: Verse
+kjv: "And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;"
+bsb: "If a woman marries while under a vow or rash promise by which she has bound herself,"
+hebrew: "וְאִם־ הָי֤וֹ תִֽהְיֶה֙ לְאִ֔ישׁ וּנְדָרֶ֖יהָ עָלֶ֑יהָ א֚וֹ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל־ נַפְשָֽׁהּ׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376H]]"
+- "[[H5088]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0176A]]"
+- "[[H4008]]"
+- "[[H8193G]]"
+- "[[H0834A]]"
+- "[[H0631]]"
+- "[[H5315I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:6**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;
 <small><sub>**BSB:**</sub></small>
 If a woman marries while under a vow or rash promise by which she has bound herself,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1961\|הָי֤וֹ]] [[H1961\|תִֽהְיֶה֙]] [[H9005\|לְ]][[H0376H\|אִ֔ישׁ]] [[H9002\|וּ]][[H5088\|נְדָרֶ֖י]][[H9024\|הָ]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H0176A\|א֚וֹ]] [[H4008\|מִבְטָ֣א]] [[H8193G\|שְׂפָתֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0631\|אָסְרָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשָֽׁ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.5|<< Numbers 30:5]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.7|Numbers 30:7 >>]]</td></tr></table>
 

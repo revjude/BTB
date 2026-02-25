@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 6:38
+type: Verse
+kjv: "If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and toward the city which thou hast chosen, and toward the house which I have built for thy name:"
+bsb: "and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,"
+hebrew: "וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל־ לִבָּם֙ וּבְכָל־ נַפְשָׁ֔ם בְּאֶ֥רֶץ שִׁבְיָ֖ם אֲשֶׁר־ שָׁב֣וּ אֹתָ֑ם וְהִֽתְפַּֽלְל֗וּ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם וְהָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ וְלַבַּ֖יִת אֲשֶׁר־ בָּנִ֥יתִי לִשְׁמֶֽךָ׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H0776G]]"
+- "[[H7628A]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6419]]"
+- "[[H1870J]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0977]]"
+- "[[H1004B]]"
+- "[[H1129]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:38**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and [toward] the city which thou hast chosen, and toward the house which I have built for thy name:
 <small><sub>**BSB:**</sub></small>
 and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725O\|שָׁ֣בוּ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לִבָּ]][[H9028\|ם֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשָׁ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H7628A\|שִׁבְיָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7617\|שָׁב֣וּ]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H6419\|הִֽתְפַּֽלְל֗וּ]] [[H1870J\|דֶּ֤רֶךְ]] [[H0776G\|אַרְצָ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תָּה]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֔רְתָּ]] [[H9002\|וְ]][[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1129\|בָּנִ֥יתִי]] [[H9005\|לִ]][[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.37|<< 2 Chronicles 6:37]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.39|2 Chronicles 6:39 >>]]</td></tr></table>
 

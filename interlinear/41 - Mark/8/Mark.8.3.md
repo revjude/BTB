@@ -1,10 +1,60 @@
+---
+title: Mark 8:3
+type: Verse
+kjv: "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far."
+bsb: "If I send them home hungry, they will faint along the way. For some of them have come a great distance.”"
+jesus_said: "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far."
+greek: "καὶ ἐὰν ἀπολύσω αὐτοὺς νήστεις εἰς οἶκον αὐτῶν, ἐκλυθήσονται ἐν τῇ ὁδῷ· καί τινες αὐτῶν ἀπὸ μακρόθεν ἥκασιν.¶"
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+- "[[G3523]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G1590]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G5100]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2240]]"
+texts:
+- NKO
+- N(K)O
+- no
+- NK(o)
+---
+
 **Mark 8:3**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.
 <small><sub>**BSB:**</sub></small>
 If I send them home hungry, they will faint along the way. For some of them have come a great distance.”
-<small><sub>**Literal:**</sub></small>
-And if I shall send away them hungry to [the] homes of them, they will faint on the way; And some of them from afar have come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.2|<< Mark 8:2]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.4|Mark 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G0630G\|ἀπολύσω]]  [[G0846\|αὐτοὺς]]  [[G3523\|νήστεις]]  [[G1519\|εἰς]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτῶν,]]  [[G1590\|ἐκλυθήσονται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ·]]  [[G2532\|καί]]  [[G5100\|τινες]]  [[G0846\|αὐτῶν]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2240\|ἥκασιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.2|<< Mark 8:2]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.4|Mark 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

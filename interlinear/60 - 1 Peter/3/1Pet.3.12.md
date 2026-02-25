@@ -1,10 +1,63 @@
+---
+title: 1 Peter 3:12
+type: Verse
+kjv: "For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil."
+bsb: "For the eyes of the Lord are on the righteous, and His ears are inclined to their prayer. But the face of the Lord is against those who do evil.”"
+greek: "ὅτι οἵ ὀφθαλμοὶ κυρίου ἐπὶ δικαίους, καὶ ὦτα αὐτοῦ εἰς δέησιν αὐτῶν, πρόσωπον δὲ κυρίου ἐπὶ ποιοῦντας κακά.¶"
+pericope: "[[1Pet.3.8 Turning from Evil|Turning from Evil]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EYE|EYE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G2962G]]"
+- "[[G1909]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1162]]"
+- "[[G4383]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G2556G]]"
+texts:
+- NKO
+- k
+---
+
 **1 Peter 3:12**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the eyes of the Lord [are] over the righteous, and his ears [are open] unto their prayers: but the face of the Lord [is] against them that do evil.
 <small><sub>**BSB:**</sub></small>
 For the eyes of the Lord are on the righteous, and His ears are inclined to their prayer. But the face of the Lord is against those who do evil.”
-<small><sub>**Literal:**</sub></small>
-Because the eyes of [the] Lord [are] on [the] righteous, and [the] ears of Him toward prayer of them, [The] face however of [the] Lord [is] against those doing evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.11|<< 1 Peter 3:11]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.13|1 Peter 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|οἵ]]  [[G3788\|ὀφθαλμοὶ]]  [[G2962G\|κυρίου]]  [[G1909\|ἐπὶ]]  [[G1342\|δικαίους,]]  [[G2532\|καὶ]]  [[G3775\|ὦτα]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G1162\|δέησιν]]  [[G0846\|αὐτῶν,]]  [[G4383\|πρόσωπον]]  [[G1161\|δὲ]]  [[G2962G\|κυρίου]]  [[G1909\|ἐπὶ]]  [[G4160G\|ποιοῦντας]]  [[G2556G\|κακά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EYE|EYE]] • [[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.11|<< 1 Peter 3:11]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.13|1 Peter 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 3:12** is...
 > $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]

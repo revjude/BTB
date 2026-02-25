@@ -1,8 +1,65 @@
+---
+title: Isaiah 30:25
+type: Verse
+kjv: "And there shall be upon every high mountain, and upon every high hill, rivers and streams of waters in the day of the great slaughter, when the towers fall."
+bsb: "And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall."
+hebrew: "וְהָיָ֣ה׀ עַל־ כָּל־ הַ֣ר גָּבֹ֗הַ וְעַל֙ כָּל־ גִּבְעָ֣ה נִשָּׂאָ֔ה פְּלָגִ֖ים יִבְלֵי־ מָ֑יִם בְּיוֹם֙ הֶ֣רֶג רָ֔ב בִּנְפֹ֖ל מִגְדָּלִֽים׃"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2022G]]"
+- "[[H1364]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H5375G]]"
+- "[[H6388]]"
+- "[[H2988]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2027]]"
+- "[[H7227A]]"
+- "[[H5307G]]"
+- "[[H4026M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:25**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be upon every high mountain, and upon every high hill, rivers [and] streams of waters in the day of the great slaughter, when the towers fall.
 <small><sub>**BSB:**</sub></small>
 And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H1364\|גָּבֹ֗הַ]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1389I\|גִּבְעָ֣ה]] [[H5375G\|נִשָּׂאָ֔ה]] [[H6388\|פְּלָגִ֖ים]] [[H2988\|יִבְלֵי]][[H9014\|־]] [[H4325G\|מָ֑יִם]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H2027\|הֶ֣רֶג]] [[H7227A\|רָ֔ב]] [[H9003\|בִּ]][[H5307G\|נְפֹ֖ל]] [[H4026M\|מִגְדָּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 

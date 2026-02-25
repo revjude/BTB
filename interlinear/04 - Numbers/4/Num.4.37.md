@@ -1,8 +1,65 @@
+---
+title: Numbers 4:37
+type: Verse
+kjv: "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses."
+bsb: "These were counted from the Kohathite clans, everyone who could serve at the Tent of Meeting. Moses and Aaron numbered them according to the command of the LORD through Moses."
+hebrew: "אֵ֤לֶּה פְקוּדֵי֙ מִשְׁפְּחֹ֣ת הַקְּהָתִ֔י כָּל־ הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־ פִּ֥י יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃ ס"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H6956]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5647H]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0834A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H3068G]]"
+- "[[H3027J]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 4:37**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 These were counted from the Kohathite clans, everyone who could serve at the Tent of Meeting. Moses and Aaron numbered them according to the command of the LORD through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֤לֶּה]] [[H6485A\|פְקוּדֵי֙]] [[H4940\|מִשְׁפְּחֹ֣ת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֔י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5647H\|עֹבֵ֖ד]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H0834A\|אֲשֶׁ֨ר]] [[H6485A\|פָּקַ֤ד]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310G\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.36|<< Numbers 4:36]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.38|Numbers 4:38 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ These were counted from the Kohathite clans, everyone who could serve at the Ten
 | [the] mouth of  |**<big>&#8207;[[H6310G\|פִּ֥י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.36|<< Numbers 4:36]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.38|Numbers 4:38 >>]]</td></tr></table>
 
 

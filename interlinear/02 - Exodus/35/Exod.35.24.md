@@ -1,8 +1,68 @@
+---
+title: Exodus 35:24
+type: Verse
+kjv: "Every one that did offer an offering of silver and brass brought the LORD’S offering: and every man, with whom was found shittim wood for any work of the service, brought it."
+bsb: "And all who could present an offering of silver or bronze brought it as a contribution to the LORD. Also, everyone who had acacia wood for any part of the service brought it."
+hebrew: "כָּל־ מֵרִ֗ים תְּר֤וּמַת כֶּ֙סֶף֙ וּנְחֹ֔שֶׁת הֵבִ֕יאוּ אֵ֖ת תְּרוּמַ֣ת יְהוָ֑ה וְכֹ֡ל אֲשֶׁר֩ נִמְצָ֨א אִתּ֜וֹ עֲצֵ֥י שִׁטִּ֛ים לְכָל־ מְלֶ֥אכֶת הָעֲבֹדָ֖ה הֵבִֽיאוּ׃"
+pericope: "[[Exod.35.20 The People Offer Gifts|The People Offer Gifts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7311A]]"
+- "[[H8641]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H5178A]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H9005]]"
+- "[[H4399]]"
+- "[[H9009]]"
+- "[[H5656I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:24**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that did offer an offering of silver and brass brought the LORD’S offering: and every man, with whom was found shittim wood for any work of the service, brought [it].
 <small><sub>**BSB:**</sub></small>
 And all who could present an offering of silver or bronze brought it as a contribution to the LORD. Also, everyone who had acacia wood for any part of the service brought it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H7311A\|מֵרִ֗ים]] [[H8641\|תְּר֤וּמַת]] [[H3701G\|כֶּ֙סֶף֙]] [[H9002\|וּ]][[H5178A\|נְחֹ֔שֶׁת]] [[H0935P\|הֵבִ֕יאוּ]] [[H0853\|אֵ֖ת]] [[H8641\|תְּרוּמַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3605\|כֹ֡ל]] [[H0834A\|אֲשֶׁר֩]] [[H4672\|נִמְצָ֨א]] [[H0854\|אִתּ֜]][[H9033\|וֹ]] [[H6086G\|עֲצֵ֥י]] [[H7848\|שִׁטִּ֛ים]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H9009\|הָ]][[H5656I\|עֲבֹדָ֖ה]] [[H0935P\|הֵבִֽיאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic SILVER|SILVER]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.23|<< Exodus 35:23]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.25|Exodus 35:25 >>]]</td></tr></table>
 

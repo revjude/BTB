@@ -1,8 +1,65 @@
+---
+title: Numbers 16:45
+type: Verse
+kjv: "Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces."
+bsb: "“Get away from this congregation so that I may consume them in an instant.” And Moses and Aaron fell facedown."
+hebrew: "הֵרֹ֗מּוּ מִתּוֹךְ֙ הָעֵדָ֣ה הַזֹּ֔את וַאֲכַלֶּ֥ה אֹתָ֖ם כְּרָ֑גַע וַֽיִּפְּל֖וּ עַל־ פְּנֵיהֶֽם׃"
+pericope: "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H7426]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H3615H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H7281]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:45**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.
 <small><sub>**BSB:**</sub></small>
 “Get away from this congregation so that I may consume them in an instant.” And Moses and Aaron fell facedown.
+<small><sub>**Hebrew:**</sub></small>
+[[H7426\|הֵרֹ֗מּוּ]] [[H9006\|מִ]][[H8432\|תּוֹךְ֙]] [[H9009\|הָ]][[H5712\|עֵדָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וַ]][[H3615H\|אֲכַלֶּ֥ה]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9004\|כְּ]][[H7281\|רָ֑גַע]] [[H9001\|וַֽ]][[H5307G\|יִּפְּל֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ISRAEL|ISRAEL]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.44|<< Numbers 16:44]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.46|Numbers 16:46 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Isaiah 19:1
+type: Verse
+kjv: "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it."
+bsb: "This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them."
+hebrew: "מַשָּׂ֖א מִצְרָ֑יִם הִנֵּ֨ה יְהוָ֜ה רֹכֵ֨ב עַל־ עָ֥ב קַל֙ וּבָ֣א מִצְרַ֔יִם וְנָע֞וּ אֱלִילֵ֤י מִצְרַ֙יִם֙ מִפָּנָ֔יו וּלְבַ֥ב מִצְרַ֖יִם יִמַּ֥ס בְּקִרְבּֽוֹ׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H4853B]]"
+- "[[H4714G]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5645]]"
+- "[[H7031]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5128]]"
+- "[[H0457]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H4549]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:1**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
 <small><sub>**BSB:**</sub></small>
 This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them.
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H4714G\|מִצְרָ֑יִם]] [[H2009\|הִנֵּ֨ה]] [[H3068G\|יְהוָ֜ה]] [[H7392\|רֹכֵ֨ב]] [[H5921A\|עַל]][[H9014\|־]] [[H5645\|עָ֥ב]] [[H7031\|קַל֙]] [[H9001\|וּ]][[H0935G\|בָ֣א]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H5128\|נָע֞וּ]] [[H0457\|אֱלִילֵ֤י]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9006\|מִ]][[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H3824\|לְבַ֥ב]] [[H4714G\|מִצְרַ֖יִם]] [[H4549\|יִמַּ֥ס]] [[H9003\|בְּ]][[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURDEN|BURDEN]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

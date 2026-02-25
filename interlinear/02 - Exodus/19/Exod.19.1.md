@@ -1,8 +1,64 @@
+---
+title: Exodus 19:1
+type: Verse
+kjv: "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai."
+bsb: "In the third month, on the same day of the month that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai."
+hebrew: "בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־ יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9003]]"
+- "[[H2320H]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:1**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they [into] the wilderness of Sinai.
 <small><sub>**BSB:**</sub></small>
 In the third month, on the same day of the month that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2320H\|חֹ֙דֶשׁ֙]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H9005\|לְ]][[H3318G\|צֵ֥את]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0935G\|בָּ֖אוּ]] [[H4057B\|מִדְבַּ֥ר]] [[H5514H\|סִינָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.27|<< Exodus 18:27]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.2|Exodus 19:2 >>]]</td></tr></table>
 

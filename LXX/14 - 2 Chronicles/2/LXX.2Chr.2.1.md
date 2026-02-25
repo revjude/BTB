@@ -1,9 +1,52 @@
+---
+title: LXX 2 Chronicles 2:1
+type: Verse
+lxx: "And Solomon spoke  to build the house to the name of the lord, and a house  for his kingdom."
+greek: "και είπε Σολομών του οικοδομήσαι οίκον τω ονόματι κυρίου και οίκον τη βασιλεία αυτού"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G3618]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Chronicles 2:1** 
 
 ***Solomon Prepares the House of The LORD***
 
 <small><sub>**LXX:**</sub></small>
 And Solomon spoke  to build \[the\] house to the name of \[the\] <span class="smallcaps">lord</span>, and a house  \[for\] his kingdom. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4672\|Σολομών]] [[G3588\|του]] [[G3618\|οικοδομήσαι]] [[G3624\|οίκον]] [[G3588\|τω]] [[G3686\|ονόματι]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3624\|οίκον]] [[G3588\|τη]] [[G0932\|βασιλεία]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.17|<< 2 Chronicles 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.2|2 Chronicles 2:2 >>]]</td></tr></table>
 
@@ -21,6 +64,6 @@ And Solomon spoke  to build \[the\] house to the name of \[the\] <span class="sm
 | a house | **<big>[[G3624\|οίκον]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | \[for\] his kingdom. | **<big>[[G0932\|βασιλεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[2Chr.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.17|<< 2 Chronicles 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.2|2 Chronicles 2:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.17|<< 2 Chronicles 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.2|2 Chronicles 2:2 >>]]</td></tr></table>
 
 

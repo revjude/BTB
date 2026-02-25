@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 23:5
+type: Verse
+kjv: "Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee."
+bsb: "Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you."
+hebrew: "וְלֹֽא־ אָבָ֞ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ לִשְׁמֹ֣עַ אֶל־ בִּלְעָ֔ם וַיַּהֲפֹךְ֩ יְהוָ֨ה אֱלֹהֶ֧יךָ לְּךָ֛ אֶת־ הַקְּלָלָ֖ה לִבְרָכָ֑ה כִּ֥י אֲהֵֽבְךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.23.1 Exclusion from the Congregation|Exclusion from the Congregation]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H1109A]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7045]]"
+- "[[H1293]]"
+- "[[H3588A]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:5**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.
 <small><sub>**BSB:**</sub></small>
 Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָבָ֞ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H9001\|וַ]][[H2015\|יַּהֲפֹךְ֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֧י]][[H9021\|ךָ]] [[H9005\|לְּ]][[H9031\|ךָ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7045\|קְּלָלָ֖ה]] [[H9005\|לִ]][[H1293\|בְרָכָ֑ה]] [[H3588A\|כִּ֥י]] [[H0157G\|אֲהֵֽבְ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic GOD|GOD]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.4|<< Deuteronomy 23:4]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.6|Deuteronomy 23:6 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Athaliah
+type: Pericope
 pericope: "[[2Kgs.11.13 The Death of Athaliah|The Death of Athaliah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 11
 book/chapter: "[[2Kgs.11|2 Kings 11]]"
-genre:
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.11.13]]"
 - "[[2Kgs.11.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.11.16]]"
 ---
 
-[[2Kgs.11|2 Kings 11:13 - 2 Kings 11:16]]
+<small>[[2Kgs.11|2 Kings 11:13-16]]</small>
 *The Death of Athaliah*
 
 [[2Kgs.11.13|13]] And when Athaliah heard the noise of the guard \[and\] of the people, she came to the people into the temple of the LORD.

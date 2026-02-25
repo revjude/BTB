@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 2:15
+type: Verse
+kjv: "Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:"
+bsb: "Now let my lord send to his servants the wheat, barley, olive oil, and wine he promised."
+hebrew: "וְ֠עַתָּה הַחִטִּ֨ים וְהַשְּׂעֹרִ֜ים הַשֶּׁ֤מֶן וְהַיַּ֙יִן֙ אֲשֶׁ֣ר אָמַ֣ר אֲדֹנִ֔י יִשְׁלַ֖ח לַעֲבָדָֽיו׃"
+pericope: "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9009]]"
+- "[[H2406]]"
+- "[[H8184]]"
+- "[[H8081]]"
+- "[[H3196]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:15**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:
 <small><sub>**BSB:**</sub></small>
 Now let my lord send to his servants the wheat, barley, olive oil, and wine he promised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H6258\|עַתָּה]] [[H9009\|הַ]][[H2406\|חִטִּ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H8184\|שְּׂעֹרִ֜ים]] [[H9009\|הַ]][[H8081\|שֶּׁ֤מֶן]] [[H9002\|וְ]][[H9009\|הַ]][[H3196\|יַּ֙יִן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֣ר]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H7971G\|יִשְׁלַ֖ח]] [[H9005\|לַ]][[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic HIRAM|HIRAM]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.14|<< 2 Chronicles 2:14]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.16|2 Chronicles 2:16 >>]]</td></tr></table>
 

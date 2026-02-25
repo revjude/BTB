@@ -1,8 +1,87 @@
+---
+title: 1 Kings 2:4
+type: Verse
+kjv: "That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel."
+bsb: "and so that the LORD may fulfill His promise to me: ‘If your descendants take heed to walk faithfully before Me with all their heart and soul, you will never fail to have a man on the throne of Israel.’"
+hebrew: "לְמַעַן֩ יָקִ֨ים יְהוָ֜ה אֶת־ דְּבָר֗וֹ אֲשֶׁ֨ר דִּבֶּ֣ר עָלַי֮ לֵאמֹר֒ אִם־ יִשְׁמְר֨וּ בָנֶ֜יךָ אֶת־ דַּרְכָּ֗ם לָלֶ֤כֶת לְפָנַי֙ בֶּאֱמֶ֔ת בְּכָל־ לְבָבָ֖ם וּבְכָל־ נַפְשָׁ֑ם לֵאמֹ֕ר לֹֽא־ יִכָּרֵ֤ת לְךָ֙ אִ֔ישׁ מֵעַ֖ל כִּסֵּ֥א יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.2.1 David Instructs Solomon|David Instructs Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H4616]]"
+- "[[H6965I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H8104I]]"
+- "[[H1121G]]"
+- "[[H9021]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H3808]]"
+- "[[H3772J]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H3678G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:4**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel.
 <small><sub>**BSB:**</sub></small>
 and so that the LORD may fulfill His promise to me: ‘If your descendants take heed to walk faithfully before Me with all their heart and soul, you will never fail to have a man on the throne of Israel.’
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַעַן֩]] [[H6965I\|יָקִ֨ים]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָר֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֣ר]] [[H5921A\|עָלַ]][[H9030\|י֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0518A\|אִם]][[H9014\|־]] [[H8104I\|יִשְׁמְר֨וּ]] [[H1121G\|בָנֶ֜י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּ֗]][[H9028\|ם]] [[H9005\|לָ]][[H1980I\|לֶ֤כֶת]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9003\|בֶּ]][[H0571G\|אֱמֶ֔ת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבָ֖]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשָׁ֑]][[H9028\|ם]] [[H9005\|לֵ]][[H0559\|אמֹ֕ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772J\|יִכָּרֵ֤ת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0376G\|אִ֔ישׁ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H3678G\|כִּסֵּ֥א]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic TRUTH|TRUTH]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.3|<< 1 Kings 2:3]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.5|1 Kings 2:5 >>]]</td></tr></table>
 

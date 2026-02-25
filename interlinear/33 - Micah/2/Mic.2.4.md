@@ -1,8 +1,68 @@
+---
+title: Micah 2:4
+type: Verse
+kjv: "In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields."
+bsb: "In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’”"
+hebrew: "בַּיּ֨וֹם הַה֜וּא יִשָּׂ֧א עֲלֵיכֶ֣ם מָשָׁ֗ל וְנָהָ֨ה נְהִ֤י נִֽהְיָה֙ אָמַר֙ שָׁד֣וֹד נְשַׁדֻּ֔נוּ חֵ֥לֶק עַמִּ֖י יָמִ֑יר אֵ֚יךְ יָמִ֣ישׁ לִ֔י לְשׁוֹבֵ֥ב שָׂדֵ֖ינוּ יְחַלֵּֽק׃"
+pericope: "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic MICAH|MICAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5375N]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H4912]]"
+- "[[H9001]]"
+- "[[H5091]]"
+- "[[H5092]]"
+- "[[H1961]]"
+- "[[H0559]]"
+- "[[H7703]]"
+- "[[H2506A]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H4171]]"
+- "[[H0349A]]"
+- "[[H4185]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H7728]]"
+- "[[H7704G]]"
+- "[[H9025]]"
+- "[[H2505A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:4**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall [one] take up a parable against you, and lament with a doleful lamentation, [and] say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed [it] from me! turning away he hath divided our fields.
 <small><sub>**BSB:**</sub></small>
 In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5375N\|יִשָּׂ֧א]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֣ם]] [[H4912\|מָשָׁ֗ל]] [[H9001\|וְ]][[H5091\|נָהָ֨ה]] [[H5092\|נְהִ֤י]] [[H1961\|נִֽהְיָה֙]] [[H0559\|אָמַר֙]] [[H7703\|שָׁד֣וֹד]] [[H7703\|נְשַׁדֻּ֔נוּ]] [[H2506A\|חֵ֥לֶק]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H4171\|יָמִ֑יר]] [[H0349A\|אֵ֚יךְ]] [[H4185\|יָמִ֣ישׁ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9005\|לְ]][[H7728\|שׁוֹבֵ֥ב]] [[H7704G\|שָׂדֵ֖י]][[H9025\|נוּ]] [[H2505A\|יְחַלֵּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAH|MICAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.3|<< Micah 2:3]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.5|Micah 2:5 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Numbers 36:4
+type: Verse
+kjv: "And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers."
+bsb: "And when the Jubilee for the Israelites comes, their inheritance will be added to the tribe into which they marry and taken away from the tribe of our fathers.”"
+hebrew: "וְאִם־ יִהְיֶ֣ה הַיֹּבֵל֮ לִבְנֵ֣י יִשְׂרָאֵל֒ וְנֽוֹסְפָה֙ נַחֲלָתָ֔ן עַ֚ל נַחֲלַ֣ת הַמַּטֶּ֔ה אֲשֶׁ֥ר תִּהְיֶ֖ינָה לָהֶ֑ם וּמִֽנַּחֲלַת֙ מַטֵּ֣ה אֲבֹתֵ֔ינוּ יִגָּרַ֖ע נַחֲלָתָֽן׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H5159]]"
+- "[[H9029]]"
+- "[[H5921A]]"
+- "[[H4294H]]"
+- "[[H0834A]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H1639]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:4**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
 <small><sub>**BSB:**</sub></small>
 And when the Jubilee for the Israelites comes, their inheritance will be added to the tribe into which they marry and taken away from the tribe of our fathers.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H9009\|הַ]][[H3104\|יֹּבֵל֮]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וְ]][[H3254H\|נֽוֹסְפָה֙]] [[H5159\|נַחֲלָתָ֔]][[H9029\|ן]] [[H5921A\|עַ֚ל]] [[H5159\|נַחֲלַ֣ת]] [[H9009\|הַ]][[H4294H\|מַּטֶּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|תִּהְיֶ֖ינָה]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וּ]][[H9006\|מִֽ]][[H5159\|נַּחֲלַת֙]] [[H4294H\|מַטֵּ֣ה]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H1639\|יִגָּרַ֖ע]] [[H5159\|נַחֲלָתָֽ]][[H9029\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.3|<< Numbers 36:3]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.5|Numbers 36:5 >>]]</td></tr></table>
 

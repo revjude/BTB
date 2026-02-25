@@ -1,8 +1,69 @@
+---
+title: Isaiah 62:6
+type: Verse
+kjv: "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,"
+bsb: "On your walls, O Jerusalem, I have posted watchmen; they will never be silent day or night. You who call on the LORD shall take no rest for yourselves,"
+hebrew: "עַל־ חוֹמֹתַ֣יִךְ יְרוּשָׁלִַ֗ם הִפְקַ֙דְתִּי֙ שֹֽׁמְרִ֔ים כָּל־ הַיּ֧וֹם וְכָל־ הַלַּ֛יְלָה תָּמִ֖יד לֹ֣א יֶחֱשׁ֑וּ הַמַּזְכִּרִים֙ אֶת־ יְהוָ֔ה אַל־ דֳּמִ֖י לָכֶֽם׃"
+pericope: "[[Isa.62.1 Zion’s Salvation and New Name|Zion’s Salvation and New Name]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 62
+book/chapter: "[[Isa.62|Isaiah 62]]"
+chronological_order: 701
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H9022]]"
+- "[[H3389]]"
+- "[[H6485J]]"
+- "[[H8104H]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H8548]]"
+- "[[H3808]]"
+- "[[H2814]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H1824]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 62:6**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set watchmen upon thy walls, O Jerusalem, [which] shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,
 <small><sub>**BSB:**</sub></small>
 On your walls, O Jerusalem, I have posted watchmen; they will never be silent day or night. You who call on the LORD shall take no rest for yourselves,
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2346G\|חוֹמֹתַ֣יִ]][[H9022\|ךְ]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H6485J\|הִפְקַ֙דְתִּי֙]] [[H8104H\|שֹֽׁמְרִ֔ים]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֧וֹם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֛יְלָה]] [[H8548\|תָּמִ֖יד]] [[H3808\|לֹ֣א]] [[H2814\|יֶחֱשׁ֑וּ]] [[H9009\|הַ]][[H2142\|מַּזְכִּרִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0408\|אַל]][[H9014\|־]] [[H1824\|דֳּמִ֖י]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WATCHMAN|WATCHMAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.5|<< Isaiah 62:5]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.7|Isaiah 62:7 >>]]</td></tr></table>
 

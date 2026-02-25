@@ -1,8 +1,65 @@
+---
+title: Isaiah 44:15
+type: Verse
+kjv: "Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto."
+bsb: "It serves as fuel for man. He takes some of it to warm himself, and he kindles a fire and bakes his bread. He also fashions it into a god and worships it; he makes an idol and bows down to it."
+hebrew: "וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף־ יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף־ יִפְעַל־ אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד־ לָֽמוֹ׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H1197A]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H2552]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H5400]]"
+- "[[H0644]]"
+- "[[H3899H]]"
+- "[[H6466]]"
+- "[[H0410K]]"
+- "[[H7812]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H6459]]"
+- "[[H5456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:15**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth [it], and baketh bread; yea, he maketh a god, and worshippeth [it]; he maketh it a graven image, and falleth down thereto.
 <small><sub>**BSB:**</sub></small>
 It serves as fuel for man. He takes some of it to warm himself, and he kindles a fire and bakes his bread. He also fashions it into a god and worships it; he makes an idol and bows down to it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9005\|לְ]][[H0120G\|אָדָם֙]] [[H9005\|לְ]][[H1197A\|בָעֵ֔ר]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H9001\|וַ]][[H2552\|יָּ֔חָם]] [[H0637\|אַף]][[H9014\|־]] [[H5400\|יַשִּׂ֖יק]] [[H9001\|וְ]][[H0644\|אָ֣פָה]] [[H3899H\|לָ֑חֶם]] [[H0637\|אַף]][[H9014\|־]] [[H6466\|יִפְעַל]][[H9014\|־]] [[H0410K\|אֵל֙]] [[H9001\|וַ]][[H7812\|יִּשְׁתָּ֔חוּ]] [[H6213H\|עָשָׂ֥]][[H9033\|הוּ]] [[H6459\|פֶ֖סֶל]] [[H9001\|וַ]][[H5456\|יִּסְגָּד]][[H9014\|־]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.14|<< Isaiah 44:14]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.16|Isaiah 44:16 >>]]</td></tr></table>
 

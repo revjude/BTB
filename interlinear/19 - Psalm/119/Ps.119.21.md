@@ -1,8 +1,54 @@
+---
+title: Psalm 119:21
+type: Verse
+kjv: "Thou hast rebuked the proud that are cursed, which do err from thy commandments."
+bsb: "You rebuke the arrogant—the cursed who stray from Your commandments."
+hebrew: "גָּ֭עַרְתָּ זֵדִ֣ים אֲרוּרִ֑ים הַ֝שֹּׁגִים מִמִּצְוֹתֶֽיךָ׃"
+pericope: "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1605]]"
+- "[[H2086]]"
+- "[[H0779]]"
+- "[[H9009]]"
+- "[[H7686]]"
+- "[[H9006]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:21**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast rebuked the proud [that are] cursed, which do err from thy commandments.
 <small><sub>**BSB:**</sub></small>
 You rebuke the arrogant—the cursed who stray from Your commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H1605\|גָּ֭עַרְתָּ]] [[H2086\|זֵדִ֣ים]] [[H0779\|אֲרוּרִ֑ים]] [[H9009\|הַ֝]][[H7686\|שֹּׁגִים]] [[H9006\|מִ]][[H4687\|מִּצְוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRIDE|PRIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.20|<< Psalms 119:20]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.22|Psalms 119:22 >>]]</td></tr></table>
 

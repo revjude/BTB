@@ -1,8 +1,63 @@
+---
+title: Joshua 19:50
+type: Verse
+kjv: "According to the word of the LORD they gave him the city which he asked, even Timnathserah in mount Ephraim: and he built the city, and dwelt therein."
+bsb: "as the LORD had commanded. They gave him the city of Timnath-serah in the hill country of Ephraim, as he requested. He rebuilt the city and settled in it."
+hebrew: "עַל־ פִּ֨י יְהוָ֜ה נָ֣תְנוּ ל֗וֹ אֶת־ הָעִיר֙ אֲשֶׁ֣ר שָׁאָ֔ל אֶת־ תִּמְנַת־ סֶ֖רַח בְּהַ֣ר אֶפְרָ֑יִם וַיִּבְנֶ֥ה אֶת־ הָעִ֖יר וַיֵּ֥שֶׁב בָּֽהּ׃"
+pericope: "[[Josh.19.49 Joshua’s Inheritance|Joshua’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TIMNATH-SERAH|TIMNATH-SERAH]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H8556B]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H3427]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:50**<big><big>[[Josh.19.49 Joshua’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the word of the LORD they gave him the city which he asked, [even] Timnathserah in mount Ephraim: and he built the city, and dwelt therein.
 <small><sub>**BSB:**</sub></small>
 as the LORD had commanded. They gave him the city of Timnath-serah in the hill country of Ephraim, as he requested. He rebuilt the city and settled in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֨י]] [[H3068G\|יְהוָ֜ה]] [[H5414G\|נָ֣תְנוּ]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7592\|שָׁאָ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H8556B\|תִּמְנַת]][[H9014\|־]] [[H8556B\|סֶ֖רַח]] [[H9003\|בְּ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H1129\|יִּבְנֶ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TIMNATH-SERAH|TIMNATH-SERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.49|<< Joshua 19:49]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.51|Joshua 19:51 >>]]</td></tr></table>
 

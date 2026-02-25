@@ -1,8 +1,83 @@
+---
+title: Jeremiah 25:9
+type: Verse
+kjv: "Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations."
+bsb: "behold, I will summon all the families of the north, declares the LORD, and I will send for My servant Nebuchadnezzar king of Babylon, whom I will bring against this land, against its residents, and against all the surrounding nations. So I will devote them to destruction and make them an object of horror and contempt, an everlasting desolation."
+hebrew: "הִנְנִ֣י שֹׁלֵ֡חַ וְלָקַחְתִּי֩ אֶת־ כָּל־ מִשְׁפְּח֨וֹת צָפ֜וֹן נְאֻם־ יְהוָ֗ה וְאֶל־ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶל֮ עַבְדִּי֒ וַהֲבִ֨אֹתִ֜ים עַל־ הָאָ֤רֶץ הַזֹּאת֙ וְעַל־ יֹ֣שְׁבֶ֔יהָ וְעַ֛ל כָּל־ הַגּוֹיִ֥ם הָאֵ֖לֶּה סָבִ֑יב וְהַ֣חֲרַמְתִּ֔ים וְשַׂמְתִּים֙ לְשַׁמָּ֣ה וְלִשְׁרֵקָ֔ה וּלְחָרְב֖וֹת עוֹלָֽם׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H9001]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H6828G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3427]]"
+- "[[H9024]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H5439G]]"
+- "[[H2763A]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H8322]]"
+- "[[H2723]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:9**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations.
 <small><sub>**BSB:**</sub></small>
 behold, I will summon all the families of the north, declares the LORD, and I will send for My servant Nebuchadnezzar king of Babylon, whom I will bring against this land, against its residents, and against all the surrounding nations. So I will devote them to destruction and make them an object of horror and contempt, an everlasting desolation.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H7971G\|שֹׁלֵ֡חַ]] [[H9001\|וְ]][[H3947J\|לָקַחְתִּי֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4940\|מִשְׁפְּח֨וֹת]] [[H6828G\|צָפ֜וֹן]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5019\|נְבֽוּכַדְרֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֮]] [[H5650\|עַבְדִּ]][[H9020\|י֒]] [[H9001\|וַ]][[H0935P\|הֲבִ֨אֹתִ֜י]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹ֣שְׁבֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H5921A\|עַ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H5439G\|סָבִ֑יב]] [[H9001\|וְ]][[H2763A\|הַ֣חֲרַמְתִּ֔י]][[H9038\|ם]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּי]][[H9038\|ם֙]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֣ה]] [[H9002\|וְ]][[H9005\|לִ]][[H8322\|שְׁרֵקָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2723\|חָרְב֖וֹת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.8|<< Jeremiah 25:8]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.10|Jeremiah 25:10 >>]]</td></tr></table>
 

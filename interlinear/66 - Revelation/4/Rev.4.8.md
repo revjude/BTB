@@ -1,10 +1,76 @@
+---
+title: Revelation 4:8
+type: Verse
+kjv: "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
+bsb: "And each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying: “Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!”"
+greek: "καὶ τὰ τέσσαρα ζῷα, ἓν καθ᾽ ἓν αὐτῶν ἔχων ἀνὰ πτέρυγας ἕξ κυκλόθεν καὶ ἔσωθεν γέμουσιν ὀφθαλμῶν καὶ ἀνάπαυσιν οὐκ ἔχουσιν ἡμέρας καὶ νυκτὸς λέγοντες· ἅγιος ἅγιος ἅγιος κύριος ὁ θεὸς ὁ παντοκράτωρ, ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος."
+pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G1520]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G0303]]"
+- "[[G4420]]"
+- "[[G1803]]"
+- "[[G2943]]"
+- "[[G2081]]"
+- "[[G1073]]"
+- "[[G3788]]"
+- "[[G0372]]"
+- "[[G3756]]"
+- "[[G2250]]"
+- "[[G3571]]"
+- "[[G3004G]]"
+- "[[G0040G]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3841]]"
+- "[[G1510]]"
+- "[[G2064]]"
+texts:
+- NKO
+- n(o)
+- N(k)O
+- N(k)(o)
+---
+
 **Revelation 4:8**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the four beasts had each of them six wings about [him]; and [they were] full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 <small><sub>**BSB:**</sub></small>
 And each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying: “Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!”
-<small><sub>**Literal:**</sub></small>
-And the four living creatures, one for one of them he having respectively wings six around and within full of eyes and rest not they have by day and night saying: Holy Holy Holy Lord <the> God <the> Almighty, who was being and who is being and who is coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.7|<< Revelation 4:7]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.9|Revelation 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5064\|τέσσαρα]]  [[G2226\|ζῷα,]]  [[G1520\|ἓν]]  [[G2596\|καθ᾽]]  [[G1520\|ἓν]]  [[G0846\|αὐτῶν]]  [[G2192\|ἔχων]]  [[G0303\|ἀνὰ]]  [[G4420\|πτέρυγας]]  [[G1803\|ἕξ]]  [[G2943\|κυκλόθεν]]  [[G2532\|καὶ]]  [[G2081\|ἔσωθεν]]  [[G1073\|γέμουσιν]]  [[G3788\|ὀφθαλμῶν]]  [[G2532\|καὶ]]  [[G0372\|ἀνάπαυσιν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3571\|νυκτὸς]]  [[G3004G\|λέγοντες·]]  [[G0040G\|ἅγιος]]  [[G0040G\|ἅγιος]]  [[G0040G\|ἅγιος]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3841\|παντοκράτωρ,]]  [[G3588\|ὁ]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic THRONE|THRONE]] • [[topic TRINITY|TRINITY]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.7|<< Revelation 4:7]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.9|Revelation 4:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 4:8** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.6.2|Isa 6:2-3]]

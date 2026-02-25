@@ -1,8 +1,70 @@
+---
+title: Isaiah 10:6
+type: Verse
+kjv: "I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets."
+bsb: "I will send him against a godless nation; I will dispatch him against a people destined for My rage, to take spoils and seize plunder, and to trample them down like clay in the streets."
+hebrew: "בְּג֤וֹי חָנֵף֙ אֲשַׁלְּחֶ֔נּוּ וְעַל־ עַ֥ם עֶבְרָתִ֖י אֲצַוֶּ֑נּוּ לִשְׁלֹ֤ל שָׁלָל֙ וְלָבֹ֣ז בַּ֔ז וּלְשׂוּמ֥וֹ מִרְמָ֖ס כְּחֹ֥מֶר חוּצֽוֹת׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H2611]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H5678]]"
+- "[[H9020]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H7997B]]"
+- "[[H7998]]"
+- "[[H0962]]"
+- "[[H0957]]"
+- "[[H7760A]]"
+- "[[H4823]]"
+- "[[H9004]]"
+- "[[H2563A]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Isaiah 10:6**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
 <small><sub>**BSB:**</sub></small>
 I will send him against a godless nation; I will dispatch him against a people destined for My rage, to take spoils and seize plunder, and to trample them down like clay in the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1471A\|ג֤וֹי]] [[H2611\|חָנֵף֙]] [[H7971G\|אֲשַׁלְּחֶ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H5678\|עֶבְרָתִ֖]][[H9020\|י]] [[H6680\|אֲצַוֶּ֑]][[H9033\|נּוּ]] [[H9005\|לִ]][[H7997B\|שְׁלֹ֤ל]] [[H7998\|שָׁלָל֙]] [[H9002\|וְ]][[H9005\|לָ]][[H0962\|בֹ֣ז]] [[H0957\|בַּ֔ז]] [[H9002\|וּ]][[H9005\|לְ]][[H7760A\|שׂוּמ֥]][[H9033\|וֹ]] [[H4823\|מִרְמָ֖ס]] [[H9004\|כְּ]][[H2563A\|חֹ֥מֶר]] [[H2351\|חוּצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.5|<< Isaiah 10:5]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.7|Isaiah 10:7 >>]]</td></tr></table>
 

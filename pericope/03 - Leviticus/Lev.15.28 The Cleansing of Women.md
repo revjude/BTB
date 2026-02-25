@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cleansing of Women
+type: Pericope
 pericope: "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 15
 book/chapter: "[[Lev.15|Leviticus 15]]"
-genre:
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.15.28]]"
 - "[[Lev.15.29]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.15.33]]"
 ---
 
-[[Lev.15|Leviticus 15:28 - Leviticus 15:33]]
+<small>[[Lev.15|Leviticus 15:28-33]]</small>
 *The Cleansing of Women*
 
 [[Lev.15.28|28]] But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.

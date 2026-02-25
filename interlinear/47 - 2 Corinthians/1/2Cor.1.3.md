@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 1:3
+type: Verse
+kjv: "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;"
+bsb: "Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort,"
+greek: "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ πατὴρ τῶν οἰκτιρμῶν καὶ θεὸς πάσης παρακλήσεως,"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2128]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3628]]"
+- "[[G3956]]"
+- "[[G3874]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 1:3**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [be] God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort,
-<small><sub>**Literal:**</sub></small>
-Blessed [be] the God and Father of the Lord of us Jesus Christ, the Father <the> of compassions and God of all comfort,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.2|<< 2 Corinthians 1:2]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.4|2 Corinthians 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2128\|Εὐλογητὸς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3588\|τῶν]]  [[G3628\|οἰκτιρμῶν]]  [[G2532\|καὶ]]  [[G2316\|θεὸς]]  [[G3956\|πάσης]]  [[G3874\|παρακλήσεως,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.2|<< 2 Corinthians 1:2]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.4|2 Corinthians 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

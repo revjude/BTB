@@ -1,10 +1,51 @@
+---
+title: Matthew 21:6
+type: Verse
+kjv: "And the disciples went, and did as Jesus commanded them,"
+bsb: "So the disciples went and did as Jesus had directed them."
+greek: "Πορευθέντες δὲ οἱ μαθηταὶ καὶ ποιήσαντες καθὼς συνέταξεν αὐτοῖς ὁ Ἰησοῦς,"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4198]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G2531]]"
+- "[[G4929]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 21:6**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the disciples went, and did as Jesus commanded them,
 <small><sub>**BSB:**</sub></small>
 So the disciples went and did as Jesus had directed them.
-<small><sub>**Literal:**</sub></small>
-Having gone then the disciples and having done even as directed to them <the> Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.5|<< Matthew 21:5]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.7|Matthew 21:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4198\|Πορευθέντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2532\|καὶ]]  [[G4160G\|ποιήσαντες]]  [[G2531\|καθὼς]]  [[G4929\|συνέταξεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.5|<< Matthew 21:5]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.7|Matthew 21:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

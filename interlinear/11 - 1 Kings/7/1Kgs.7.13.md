@@ -1,8 +1,60 @@
+---
+title: 1 Kings 7:13
+type: Verse
+kjv: "And king Solomon sent and fetched Hiram out of Tyre."
+bsb: "Now King Solomon sent to bring Huram from Tyre."
+hebrew: "וַיִּשְׁלַח֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיִּקַּ֥ח אֶת־ חִירָ֖ם מִצֹּֽר׃"
+pericope: "[[1Kgs.7.13 The Pillars and Capitals|The Pillars and Capitals]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2438H]]"
+- "[[H9006]]"
+- "[[H6865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:13**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon sent and fetched Hiram out of Tyre.
 <small><sub>**BSB:**</sub></small>
 Now King Solomon sent to bring Huram from Tyre.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וַ]][[H3947J\|יִּקַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H2438H\|חִירָ֖ם]] [[H9006\|מִ]][[H6865\|צֹּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CARVING|CARVING]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic PILLAR|PILLAR]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.12|<< 1 Kings 7:12]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.14|1 Kings 7:14 >>]]</td></tr></table>
 

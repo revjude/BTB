@@ -1,8 +1,60 @@
+---
+title: Daniel 2:42
+type: Verse
+kjv: "And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken."
+bsb: "And as the toes of the feet were partly iron and partly clay, so this kingdom will be partly strong and partly brittle."
+aramaic: "וְאֶצְבְּעָת֙ רַגְלַיָּ֔א מִנְּהֵ֥ין פַּרְזֶ֖ל וּמִנְּהֵ֣ין חֲסַ֑ף מִן־ קְצָ֤ת מַלְכוּתָא֙ תֶּהֱוֵ֣ה תַקִּיפָ֔ה וּמִנַּ֖הּ תֶּהֱוֵ֥ה תְבִירָֽה׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0677]]"
+- "[[H7271]]"
+- "[[H9010]]"
+- "[[H4481]]"
+- "[[H9038]]"
+- "[[H9039]]"
+- "[[H6523]]"
+- "[[H2635]]"
+- "[[H9014]]"
+- "[[H7118]]"
+- "[[H4437]]"
+- "[[H1934]]"
+- "[[H8624]]"
+- "[[H9034]]"
+- "[[H8406]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 2:42**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as] the toes of the feet [were] part of iron, and part of clay, [so] the kingdom shall be partly strong, and partly broken.
 <small><sub>**BSB:**</sub></small>
 And as the toes of the feet were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H0677\|אֶצְבְּעָת֙]] [[H7271\|רַגְלַיָּ֔]][[H9010\|א]] [[H4481\|מִנְּ]][[H9039\|הֵ֥ין]] [[H6523\|פַּרְזֶ֖ל]] [[H9002\|וּ]][[H4481\|מִנְּ]][[H9039\|הֵ֣ין]] [[H2635\|חֲסַ֑ף]] [[H4481\|מִן]][[H9014\|־]] [[H7118\|קְצָ֤ת]] [[H4437\|מַלְכוּתָ]][[H9010\|א֙]] [[H1934\|תֶּהֱוֵ֣ה]] [[H8624\|תַקִּיפָ֔ה]] [[H9002\|וּ]][[H4481\|מִנַּ֖]][[H9034\|הּ]] [[H1934\|תֶּהֱוֵ֥ה]] [[H8406\|תְבִירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.41|<< Daniel 2:41]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.43|Daniel 2:43 >>]]</td></tr></table>
 
@@ -24,11 +76,11 @@ And as the toes of the feet were partly iron and partly clay, so this kingdom wi
 | breakable  |**<big>&#8207;[[H8406\|תְבִירָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vi.Rah<small><sup>[[AVQrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.41|<< Daniel 2:41]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.43|Daniel 2:43 >>]]</td></tr></table>
 
-[^1]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^2]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^1]: some of them  | **<big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: some of them  | **<big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>מִנְּהֵ֥ון</big></span>**
-[^4]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^5]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^6]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^4]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^5]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^6]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
 [^7]: L spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֣ון</big></span>**
 

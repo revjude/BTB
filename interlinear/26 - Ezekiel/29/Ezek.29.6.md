@@ -1,8 +1,63 @@
+---
+title: Ezekiel 29:6
+type: Verse
+kjv: "And all the inhabitants of Egypt shall know that I am the LORD, because they have been a staff of reed to the house of Israel."
+bsb: "Then all the people of Egypt will know that I am the LORD. For you were only a staff of reeds to the house of Israel."
+hebrew: "וְיָֽדְעוּ֙ כָּל־ יֹשְׁבֵ֣י מִצְרַ֔יִם כִּ֖י אֲנִ֣י יְהוָ֑ה יַ֧עַן הֱיוֹתָ֛ם מִשְׁעֶ֥נֶת קָנֶ֖ה לְבֵ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.29.1 A Prophecy against Pharaoh|A Prophecy against Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H1961]]"
+- "[[H9048]]"
+- "[[H4938B]]"
+- "[[H7070H]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:6**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the inhabitants of Egypt shall know that I [am] the LORD, because they have been a staff of reed to the house of Israel.
 <small><sub>**BSB:**</sub></small>
 Then all the people of Egypt will know that I am the LORD. For you were only a staff of reeds to the house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָֽדְעוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H4714G\|מִצְרַ֔יִם]] [[H3588A\|כִּ֖י]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3282\|יַ֧עַן]] [[H1961\|הֱיוֹתָ֛]][[H9048\|ם]] [[H4938B\|מִשְׁעֶ֥נֶת]] [[H7070H\|קָנֶ֖ה]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 

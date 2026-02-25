@@ -1,10 +1,59 @@
+---
+title: Hebrews 4:11
+type: Verse
+kjv: "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief."
+bsb: "Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience."
+greek: "Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας."
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4704]]"
+- "[[G3767]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2663]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G5100]]"
+- "[[G5262]]"
+- "[[G4098]]"
+- "[[G0543]]"
+texts:
+- NKO
+---
+
 **Hebrews 4:11**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 <small><sub>**BSB:**</sub></small>
 Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience.
-<small><sub>**Literal:**</sub></small>
-We may be diligent therefore to enter into that [very] <the> rest, so that not by the same anyone example may fall <the> of disobedience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.10|<< Hebrews 4:10]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.12|Hebrews 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4704\|Σπουδάσωμεν]]  [[G3767\|οὖν]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G1565\|ἐκείνην]]  [[G3588\|τὴν]]  [[G2663\|κατάπαυσιν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G5100\|τις]]  [[G5262\|ὑποδείγματι]]  [[G4098\|πέσῃ]]  [[G3588\|τῆς]]  [[G0543\|ἀπειθείας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.10|<< Hebrews 4:10]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.12|Hebrews 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

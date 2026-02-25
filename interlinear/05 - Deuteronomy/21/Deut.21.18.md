@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 21:18
+type: Verse
+kjv: "If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:"
+bsb: "If a man has a stubborn and rebellious son who does not obey his father and mother and does not listen to them when disciplined,"
+hebrew: "כִּֽי־ יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל אִמּ֑וֹ וְיסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם׃"
+pericope: "[[Deut.21.18 A Rebellious Son|A Rebellious Son]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376I]]"
+- "[[H1121A]]"
+- "[[H5637]]"
+- "[[H9002]]"
+- "[[H4784]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0517]]"
+- "[[H9001]]"
+- "[[H3256]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Deuteronomy 21:18**<big><big>[[Deut.21.18 A Rebellious Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and [that], when they have chastened him, will not hearken unto them:
 <small><sub>**BSB:**</sub></small>
 If a man has a stubborn and rebellious son who does not obey his father and mother and does not listen to them when disciplined,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לְ]][[H0376I\|אִ֗ישׁ]] [[H1121A\|בֵּ֚ן]] [[H5637\|סוֹרֵ֣ר]] [[H9002\|וּ]][[H4784\|מוֹרֶ֔ה]] [[H0369\|אֵינֶ֣]][[H9043\|נּוּ]] [[H8085H\|שֹׁמֵ֔עַ]] [[H9003\|בְּ]][[H6963A\|ק֥וֹל]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H6963A\|ק֣וֹל]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3256\|יסְּר֣וּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|יִשְׁמַ֖ע]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.17|<< Deuteronomy 21:17]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.19|Deuteronomy 21:19 >>]]</td></tr></table>
 

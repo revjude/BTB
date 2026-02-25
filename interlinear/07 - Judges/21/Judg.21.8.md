@@ -1,8 +1,67 @@
+---
+title: Judges 21:8
+type: Verse
+kjv: "And they said, What one is there of the tribes of Israel that came not up to Mizpeh to the LORD? And, behold, there came none to the camp from Jabeshgilead to the assembly."
+bsb: "So they asked, “Which one of the tribes of Israel failed to come up before the LORD at Mizpah?” And, in fact, no one from Jabesh-gilead had come to the camp for the assembly."
+hebrew: "וַיֹּ֣אמְר֔וּ מִ֗י אֶחָד֙ מִשִּׁבְטֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֛ר לֹֽא־ עָלָ֥ה אֶל־ יְהוָ֖ה הַמִּצְפָּ֑ה וְ֠הִנֵּה לֹ֣א בָא־ אִ֧ישׁ אֶל־ הַֽמַּחֲנֶ֛ה מִיָּבֵ֥ישׁ גִּלְעָ֖ד אֶל־ הַקָּהָֽל׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H0376I]]"
+- "[[H4264]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H6951]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:8**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, What one [is there] of the tribes of Israel that came not up to Mizpeh to the LORD? And, behold, there came none to the camp from Jabeshgilead to the assembly.
 <small><sub>**BSB:**</sub></small>
 So they asked, “Which one of the tribes of Israel failed to come up before the LORD at Mizpah?” And, in fact, no one from Jabesh-gilead had come to the camp for the assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H4310\|מִ֗י]] [[H0259\|אֶחָד֙]] [[H9006\|מִ]][[H7626H\|שִּׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|עָלָ֥ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֑ה]] [[H9002\|וְ֠]][[H2009\|הִנֵּה]] [[H3808\|לֹ֣א]] [[H0935G\|בָא]][[H9014\|־]] [[H0376I\|אִ֧ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֛ה]] [[H9006\|מִ]][[H3003I\|יָּבֵ֥ישׁ]] [[H1568L\|גִּלְעָ֖ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.7|<< Judges 21:7]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.9|Judges 21:9 >>]]</td></tr></table>
 

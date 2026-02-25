@@ -1,10 +1,52 @@
+---
+title: 2 Corinthians 8:20
+type: Verse
+kjv: "Avoiding this, that no man should blame us in this abundance which is administered by us:"
+bsb: "We want to avoid any criticism of the way we administer this generous gift."
+greek: "στελλόμενοι τοῦτο, μή τις ἡμᾶς μωμήσηται ἐν τῇ ἁδρότητι ταύτῃ τῇ διακονουμένῃ ὑφ᾽ ἡμῶν·"
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G4724]]"
+- "[[G3778]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G3165]]"
+- "[[G3469]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0100]]"
+- "[[G1247]]"
+- "[[G5259G]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:20**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Avoiding this, that no man should blame us in this abundance which is administered by us:
 <small><sub>**BSB:**</sub></small>
 We want to avoid any criticism of the way we administer this generous gift.
-<small><sub>**Literal:**</sub></small>
-avoiding this, lest anyone us may blame in <the> abundance this which is being administered by us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.19|<< 2 Corinthians 8:19]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.21|2 Corinthians 8:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4724\|στελλόμενοι]]  [[G3778\|τοῦτο,]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G3165\|ἡμᾶς]]  [[G3469\|μωμήσηται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0100\|ἁδρότητι]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G1247\|διακονουμένῃ]]  [[G5259G\|ὑφ᾽]]  [[G3165\|ἡμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.19|<< 2 Corinthians 8:19]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.21|2 Corinthians 8:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

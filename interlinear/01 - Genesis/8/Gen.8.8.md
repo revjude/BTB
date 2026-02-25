@@ -1,8 +1,61 @@
+---
+title: Genesis 8:8
+type: Verse
+kjv: "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+bsb: "Then Noah sent out a dove to see if the waters had receded from the surface of the ground."
+hebrew: "וַיְשַׁלַּ֥ח אֶת־ הַיּוֹנָ֖ה מֵאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה׃"
+pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3123]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9008]]"
+- "[[H7043]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:8**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
 <small><sub>**BSB:**</sub></small>
 Then Noah sent out a dove to see if the waters had receded from the surface of the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יְשַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3123\|יּוֹנָ֖ה]] [[H9006\|מֵ]][[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9005\|לִ]][[H7200G\|רְאוֹת֙]] [[H9008\|הֲ]][[H7043\|קַ֣לּוּ]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.7|<< Genesis 8:7]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.9|Genesis 8:9 >>]]</td></tr></table>
 

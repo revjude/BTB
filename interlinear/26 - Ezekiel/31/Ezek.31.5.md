@@ -1,8 +1,62 @@
+---
+title: Ezekiel 31:5
+type: Verse
+kjv: "Therefore his height was exalted above all the trees of the field, and his boughs were multiplied, and his branches became long because of the multitude of waters, when he shot forth."
+bsb: "Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters."
+hebrew: "עַל־ כֵּן֙ גָּבְהָ֣א קֹמָת֔וֹ מִכֹּ֖ל עֲצֵ֣י הַשָּׂדֶ֑ה וַתִּרְבֶּ֨ינָה סַֽרְעַפֹּתָ֜יו וַתֶּאֱרַ֧כְנָה פֹארֹתָ֛יו מִמַּ֥יִם רַבִּ֖ים בְּשַׁלְּחֽוֹ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1361]]"
+- "[[H6967]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H5634]]"
+- "[[H0748]]"
+- "[[H6288A]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 31:5**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore his height was exalted above all the trees of the field, and his boughs were multiplied, and his branches became long because of the multitude of waters, when he shot forth.
 <small><sub>**BSB:**</sub></small>
 Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H1361\|גָּבְהָ֣א]] [[H6967\|קֹמָת֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H6086H\|עֲצֵ֣י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H9001\|וַ]][[H7235A\|תִּרְבֶּ֨ינָה]] [[H5634\|סַֽרְעַפֹּתָ֜י]][[H9023\|ו]] [[H9001\|וַ]][[H0748\|תֶּאֱרַ֧כְנָה]] [[H6288A\|פֹארֹתָ֛י]][[H9023\|ו]] [[H9006\|מִ]][[H4325G\|מַּ֥יִם]] [[H7227A\|רַבִּ֖ים]] [[H9003\|בְּ]][[H7971G\|שַׁלְּחֽ]][[H9043\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.4|<< Ezekiel 31:4]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.6|Ezekiel 31:6 >>]]</td></tr></table>
 
@@ -24,7 +78,7 @@ Therefore it towered higher than all the trees of the field. Its branches multip
 | when sent out it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7971G\|שַׁלְּחֽ]]&#8207;&#8207;[[H9043\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.le.Ch<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.4|<< Ezekiel 31:4]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.6|Ezekiel 31:6 >>]]</td></tr></table>
 
-[^1]: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: branch its  | **<big>[[H6288A|פֹארָת]]</big><big>[[H9023|וֹ]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: branch its  | **<big>[[H6288A|פֹארָת]]</big><big>[[H9023|וֹ]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>פֹארֹתָ֛ו</big></span>**
 

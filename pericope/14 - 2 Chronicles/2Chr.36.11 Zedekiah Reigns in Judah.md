@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zedekiah Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.36.11 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 36
 book/chapter: "[[2Chr.36|2 Chronicles 36]]"
-genre:
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.36.11]]"
 - "[[2Chr.36.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.36.14]]"
 ---
 
-[[2Chr.36|2 Chronicles 36:11 - 2 Chronicles 36:14]]
+<small>[[2Chr.36|2 Chronicles 36:11-14]]</small>
 *Zedekiah Reigns in Judah*
 
 [[2Chr.36.11|11]] Zedekiah \[was\] one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.

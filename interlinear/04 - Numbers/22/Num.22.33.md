@@ -1,8 +1,71 @@
+---
+title: Numbers 22:33
+type: Verse
+kjv: "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive."
+bsb: "The donkey saw me and turned away from me these three times. If she had not turned away, then by now I would surely have killed you and let her live.”"
+hebrew: "וַתִּרְאַ֙נִי֙ הָֽאָת֔וֹן וַתֵּ֣ט לְפָנַ֔י זֶ֖ה שָׁלֹ֣שׁ רְגָלִ֑ים אוּלַי֙ נָטְתָ֣ה מִפָּנַ֔י כִּ֥י עַתָּ֛ה גַּם־ אֹתְכָ֥ה הָרַ֖גְתִּי וְאוֹתָ֥הּ הֶחֱיֵֽיתִי׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H0860]]"
+- "[[H5186]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H2088]]"
+- "[[H7969]]"
+- "[[H7272]]"
+- "[[H0194]]"
+- "[[H9006]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H2026]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:33**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.
 <small><sub>**BSB:**</sub></small>
 The donkey saw me and turned away from me these three times. If she had not turned away, then by now I would surely have killed you and let her live.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תִּרְאַ֙]][[H9030\|נִי֙]] [[H9009\|הָֽ]][[H0860\|אָת֔וֹן]] [[H9001\|וַ]][[H5186\|תֵּ֣ט]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H2088\|זֶ֖ה]] [[H7969\|שָׁלֹ֣שׁ]] [[H7272\|רְגָלִ֑ים]] [[H0194\|אוּלַי֙]] [[H5186\|נָטְתָ֣ה]] [[H9006\|מִ]][[H6440G\|פָּנַ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H6258\|עַתָּ֛ה]] [[H1571\|גַּם]][[H9014\|־]] [[H0853\|אֹתְ]][[H9031\|כָ֥ה]] [[H2026\|הָרַ֖גְתִּי]] [[H9002\|וְ]][[H0853\|אוֹתָ֥]][[H9034\|הּ]] [[H2421\|הֶחֱיֵֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.32|<< Numbers 22:32]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.34|Numbers 22:34 >>]]</td></tr></table>
 

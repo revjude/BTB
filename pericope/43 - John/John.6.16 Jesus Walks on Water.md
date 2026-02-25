@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Walks on Water
+type: Pericope
 pericope: "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: John
 chapter: 6
 book/chapter: "[[John.6|John 6]]"
-genre:
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 6
 verses:
 - "[[John.6.16]]"
 - "[[John.6.17]]"
@@ -24,7 +31,7 @@ verses:
 - "[[John.6.21]]"
 ---
 
-[[John.6|John 6:16 - John 6:21]]
+<small>[[John.6|John 6:16-21]]</small>
 *Jesus Walks on Water*
 
 [[John.6.16|16]] And when even was \[now\] come, his disciples went down unto the sea,

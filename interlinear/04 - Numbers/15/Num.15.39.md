@@ -1,8 +1,74 @@
+---
+title: Numbers 15:39
+type: Verse
+kjv: "And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:"
+bsb: "These will serve as tassels for you to look at, so that you may remember all the commandments of the LORD, that you may obey them and not prostitute yourselves by following your own heart and your own eyes."
+hebrew: "וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־ כָּל־ מִצְוֹ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־ תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־ אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃"
+pericope: "[[Num.15.37 The Law of Tassels|The Law of Tassels]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic FRINGES|FRINGES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6734]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8446]]"
+- "[[H0310A]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H5869A]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H2181]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:39**<big><big>[[Num.15.37 The Law of Tassels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:
 <small><sub>**BSB:**</sub></small>
 These will serve as tassels for you to look at, so that you may remember all the commandments of the LORD, that you may obey them and not prostitute yourselves by following your own heart and your own eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9005\|לָ]][[H9036\|כֶם֮]] [[H9005\|לְ]][[H6734\|צִיצִת֒]] [[H9001\|וּ]][[H7200G\|רְאִיתֶ֣ם]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9001\|וּ]][[H2142\|זְכַרְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6213H\|עֲשִׂיתֶ֖ם]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8446\|תָתֻ֜רוּ]] [[H0310A\|אַחֲרֵ֤י]] [[H3824\|לְבַבְ]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֣י]] [[H5869A\|עֵֽינֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H2181\|זֹנִ֖ים]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic FRINGES|FRINGES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.38|<< Numbers 15:38]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.40|Numbers 15:40 >>]]</td></tr></table>
 

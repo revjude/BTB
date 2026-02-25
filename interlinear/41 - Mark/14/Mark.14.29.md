@@ -1,10 +1,55 @@
+---
+title: Mark 14:29
+type: Verse
+kjv: "But Peter said unto him, Although all shall be offended, yet will not I."
+bsb: "Peter declared, “Even if all fall away, I never will.”"
+greek: "ὁ δὲ Πέτρος ἔφη αὐτῷ· εἰ καὶ πάντες σκανδαλισθήσονται ἀλλ᾽ οὐκ ἐγώ.¶"
+pericope: "[[Mark.14.27 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G1487M]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G4624]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Mark 14:29**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter said unto him, Although all shall be offended, yet [will] not I.
 <small><sub>**BSB:**</sub></small>
 Peter declared, “Even if all fall away, I never will.”
-<small><sub>**Literal:**</sub></small>
-<the> And Peter was saying to Him; If even all will fall away yet not I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.28|<< Mark 14:28]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.30|Mark 14:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G5346\|ἔφη]]  [[G0846\|αὐτῷ·]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G4624\|σκανδαλισθήσονται]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1473\|ἐγώ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.28|<< Mark 14:28]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.30|Mark 14:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

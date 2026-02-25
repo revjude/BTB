@@ -1,10 +1,72 @@
+---
+title: Matthew 20:8
+type: Verse
+kjv: "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them their hire, beginning from the last unto the first."
+bsb: "When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, starting with the last ones hired and moving on to the first.’"
+jesus_said: "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them their hire, beginning from the last unto the first."
+greek: "Ὀψίας δὲ γενομένης λέγει ὁ κύριος τοῦ ἀμπελῶνος τῷ ἐπιτρόπῳ αὐτοῦ· κάλεσον τοὺς ἐργάτας καὶ ἀπόδος αὐτοῖς τὸν μισθὸν ἀρξάμενος ἀπὸ τῶν ἐσχάτων ἕως τῶν πρώτων."
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0290]]"
+- "[[G2012]]"
+- "[[G0846]]"
+- "[[G2564G]]"
+- "[[G2040]]"
+- "[[G2532]]"
+- "[[G0591]]"
+- "[[G3408]]"
+- "[[G0757]]"
+- "[[G0575]]"
+- "[[G2078]]"
+- "[[G2193]]"
+- "[[G4413G]]"
+texts:
+- NKO
+---
+
 **Matthew 20:8**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them [their] hire, beginning from the last unto the first.
 <small><sub>**BSB:**</sub></small>
 When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, starting with the last ones hired and moving on to the first.’
-<small><sub>**Literal:**</sub></small>
-Evening then having arrived says the master of the vineyard to the foreman of him; do call the workmen and do pay to them the wages having begun from the last until the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.7|<< Matthew 20:7]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.9|Matthew 20:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G3588\|τοῦ]]  [[G0290\|ἀμπελῶνος]]  [[G3588\|τῷ]]  [[G2012\|ἐπιτρόπῳ]]  [[G0846\|αὐτοῦ·]]  [[G2564G\|κάλεσον]]  [[G3588\|τοὺς]]  [[G2040\|ἐργάτας]]  [[G2532\|καὶ]]  [[G0591\|ἀπόδος]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G3408\|μισθὸν]]  [[G0757\|ἀρξάμενος]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2078\|ἐσχάτων]]  [[G2193\|ἕως]]  [[G3588\|τῶν]]  [[G4413G\|πρώτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOSPEL|GOSPEL]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.7|<< Matthew 20:7]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.9|Matthew 20:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

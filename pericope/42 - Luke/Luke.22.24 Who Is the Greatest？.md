@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Who Is the Greatest？
+type: Pericope
 pericope: "[[Luke.22.24 Who Is the Greatest？|Who Is the Greatest？]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.22.24]]"
 - "[[Luke.22.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.22.30]]"
 ---
 
-[[Luke.22|Luke 22:24 - Luke 22:30]]
+<small>[[Luke.22|Luke 22:24-30]]</small>
 *Who Is the Greatest？*
 
 [[Luke.22.24|24]] And there was also a strife among them, which of them should be accounted the greatest.

@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 11:32
+type: Verse
+kjv: "And ye shall observe to do all the statutes and judgments which I set before you this day."
+bsb: "be careful to follow all the statutes and ordinances that I am setting before you today."
+hebrew: "וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת אֵ֥ת כָּל־ הַֽחֻקִּ֖ים וְאֶת־ הַמִּשְׁפָּטִ֑ים אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּֽוֹם׃"
+pericope: "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H5414H]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:32**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall observe to do all the statutes and judgments which I set before you this day.
 <small><sub>**BSB:**</sub></small>
 be careful to follow all the statutes and ordinances that I am setting before you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8104J\|שְׁמַרְתֶּ֣ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H2706G\|חֻקִּ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֑ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H5414H\|נֹתֵ֥ן]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.31|<< Deuteronomy 11:31]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.1|Deuteronomy 12:1 >>]]</td></tr></table>
 

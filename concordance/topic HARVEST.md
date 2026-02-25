@@ -3,9 +3,9 @@
 
 → Sabbath to be observed in [[Exod.34.21|Ex 34:21]]
 
-→ Sabbath desecrated in [[Neh.13.15|Ne 13:15]]-[[Neh.13.22|22]]
+→ Sabbath desecrated in [[Neh.13.15|Ne 13:15-22]]
 
-→ Of wheat at Pentecost, in Palestine [[Exod.34.22|Ex 34:22]]; [[Lev.23.15|Le 23:15]]-[[Lev.23.17|17]]
+→ Of wheat at Pentecost, in Palestine [[Exod.34.22|Ex 34:22]]; [[Lev.23.15|Le 23:15-17]]
 
 → And of wheat before harvest time [[Lev.26.5|Le 26:5]]
 

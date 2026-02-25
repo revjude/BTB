@@ -1,10 +1,57 @@
+---
+title: Revelation 9:14
+type: Verse
+kjv: "Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates."
+bsb: "saying to the sixth angel with the trumpet, “Release the four angels who are bound at the great river Euphrates.”"
+greek: "λέγοντα τῷ ἕκτῳ ἀγγέλῳ ὁ ἔχων τὴν σάλπιγγα· λῦσον τοὺς τέσσαρας ἀγγέλους τοὺς δεδεμένους ἐπὶ τῷ ποταμῷ τῷ μεγάλῳ Εὐφράτῃ."
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G1623]]"
+- "[[G0032G]]"
+- "[[G2192]]"
+- "[[G4536]]"
+- "[[G3089]]"
+- "[[G5064]]"
+- "[[G1210]]"
+- "[[G1909]]"
+- "[[G4215]]"
+- "[[G3173]]"
+- "[[G2166]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Revelation 9:14**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
 <small><sub>**BSB:**</sub></small>
 saying to the sixth angel with the trumpet, “Release the four angels who are bound at the great river Euphrates.”
-<small><sub>**Literal:**</sub></small>
-saying to the sixth angel the [one] having the trumpet; do release the four angels those bound at the river <the> great Euphrates.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.13|<< Revelation 9:13]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.15|Revelation 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντα]]  [[G3588\|τῷ]]  [[G1623\|ἕκτῳ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τὴν]]  [[G4536\|σάλπιγγα·]]  [[G3089\|λῦσον]]  [[G3588\|τοὺς]]  [[G5064\|τέσσαρας]]  [[G0032G\|ἀγγέλους]]  [[G3588\|τοὺς]]  [[G1210\|δεδεμένους]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G4215\|ποταμῷ]]  [[G3588\|τῷ]]  [[G3173\|μεγάλῳ]]  [[G2166\|Εὐφράτῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.13|<< Revelation 9:13]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.15|Revelation 9:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

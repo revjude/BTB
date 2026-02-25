@@ -1,8 +1,58 @@
+---
+title: Genesis 1:1
+type: Verse
+kjv: "In the beginning God created the heaven and the earth."
+bsb: "In the beginning God created the heavens and the earth."
+hebrew: "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃"
+pericope: "[[Gen.1.1 The Creation|The Creation]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CREATION|CREATION]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9003]]"
+- "[[H7225G]]"
+- "[[H1254A]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:1**<big><big>[[Gen.1.1 The Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the beginning God created the heaven and the earth.
 <small><sub>**BSB:**</sub></small>
 In the beginning God created the heavens and the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7225G\|רֵאשִׁ֖ית]] [[H1254A\|בָּרָ֣א]] [[H0430G\|אֱלֹהִ֑ים]] [[H0853\|אֵ֥ת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וְ]][[H0853\|אֵ֥ת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREATION|CREATION]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">&nbsp;</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.2|Genesis 1:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

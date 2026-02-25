@@ -11,7 +11,7 @@
 
 → The ark of the covenant remains for twenty years at [[1Sam.7.1|1Sa 7:1]],[[1Sam.7.2|2]]; [[1Chr.13.5|1Ch 13:5]],[[1Chr.13.6|6]]
 
-→ David brings the ark of the covenant from [[2Sam.6.1|2Sa 6:1]]-[[2Sam.6.11|11]]; [[1Chr.13.5|1Ch 13:5]]-[[1Chr.13.8|8]]; [[2Chr.1.4|2Ch 1:4]]
+→ David brings the ark of the covenant from [[2Sam.6.1|2Sa 6:1-11]]; [[1Chr.13.5|1Ch 13:5-8]]; [[2Chr.1.4|2Ch 1:4]]
 
 → Inhabitants of, who were taken into captivity to Babylon, returned [[Ezra.2.25|Ezr 2:25]]; [[Neh.7.29|Ne 7:29]]
 

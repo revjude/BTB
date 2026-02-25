@@ -1,8 +1,59 @@
+---
+title: Genesis 40:10
+type: Verse
+kjv: "And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:"
+bsb: "and on the vine were three branches. As it budded, its blossoms opened and its clusters ripened into grapes."
+hebrew: "וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤יא כְפֹרַ֙חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1612]]"
+- "[[H7969]]"
+- "[[H8299]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H6524A]]"
+- "[[H5927G]]"
+- "[[H5322A]]"
+- "[[H9024]]"
+- "[[H1310]]"
+- "[[H0811]]"
+- "[[H6025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:10**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the vine [were] three branches: and it [was] as though it budded, [and] her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
 <small><sub>**BSB:**</sub></small>
 and on the vine were three branches. As it budded, its blossoms opened and its clusters ripened into grapes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H1612\|גֶּ֖פֶן]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H8299\|שָׂרִיגִ֑ם]] [[H9002\|וְ]][[H1931\|הִ֤יא]] [[H9004\|כְ]][[H6524A\|פֹרַ֙חַת֙]] [[H5927G\|עָלְתָ֣ה]] [[H5322A\|נִצָּ֔]][[H9024\|הּ]] [[H1310\|הִבְשִׁ֥ילוּ]] [[H0811\|אַשְׁכְּלֹתֶ֖י]][[H9024\|הָ]] [[H6025\|עֲנָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.9|<< Genesis 40:9]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.11|Genesis 40:11 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Acts 11:22
+type: Verse
+kjv: "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
+bsb: "When news of this reached the ears of the church in Jerusalem, they sent Barnabas to Antioch."
+greek: "ἠκούσθη δὲ ὁ λόγος εἰς τὰ ὦτα τῆς ἐκκλησίας τῆς οὔσης ἐν Ἰερουσαλὴμ περὶ αὐτῶν καὶ ἐξαπέστειλαν Βαρναβᾶν διελθεῖν ἕως Ἀντιοχείας·"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1519]]"
+- "[[G3775]]"
+- "[[G1577]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1821]]"
+- "[[G0921G]]"
+- "[[G1330]]"
+- "[[G2193]]"
+- "[[G0490G]]"
+texts:
+- NKO
+- no
+- N(k)O
+- NK
+---
+
 **Acts 11:22**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
 <small><sub>**BSB:**</sub></small>
 When news of this reached the ears of the church in Jerusalem, they sent Barnabas to Antioch.
-<small><sub>**Literal:**</sub></small>
-Was heard now the report in the ears of the church which is being in Jerusalem concerning them and they sent forth Barnabas to go as far as Antioch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.21|<< Acts 11:21]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.23|Acts 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἠκούσθη]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3775\|ὦτα]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G3588\|τῆς]]  [[G1510\|οὔσης]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G4012\|περὶ]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1821\|ἐξαπέστειλαν]]  [[G0921G\|Βαρναβᾶν]]  [[G1330\|διελθεῖν]]  [[G2193\|ἕως]]  [[G0490G\|Ἀντιοχείας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.21|<< Acts 11:21]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.23|Acts 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

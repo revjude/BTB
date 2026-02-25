@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Disciples
+type: Pericope
 pericope: "[[John.1.35 The First Disciples|The First Disciples]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.1.35]]"
 - "[[John.1.36]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.1.42]]"
 ---
 
-[[John.1|John 1:35 - John 1:42]]
+<small>[[John.1|John 1:35-42]]</small>
 *The First Disciples*
 
 [[John.1.35|35]] Again the next day after John stood, and two of his disciples;

@@ -1,8 +1,56 @@
+---
+title: Genesis 38:3
+type: Verse
+kjv: "And she conceived, and bare a son; and he called his name Er."
+bsb: "So she conceived and gave birth to a son, and Judah named him Er."
+hebrew: "וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־ שְׁמ֖וֹ עֵֽר׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ER|ER]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H6147G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:3**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived, and bare a son; and he called his name Er.
 <small><sub>**BSB:**</sub></small>
 So she conceived and gave birth to a son, and Judah named him Er.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2029\|תַּ֖הַר]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֑ן]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H6147G\|עֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic ER|ER]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.2|<< Genesis 38:2]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.4|Genesis 38:4 >>]]</td></tr></table>
 

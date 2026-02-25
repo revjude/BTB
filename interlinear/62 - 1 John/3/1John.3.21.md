@@ -1,10 +1,56 @@
+---
+title: 1 John 3:21
+type: Verse
+kjv: "Beloved, if our heart condemn us not, then have we confidence toward God."
+bsb: "Beloved, if our hearts do not condemn us, we have confidence before God,"
+greek: "Ἀγαπητοί, ἐὰν ἡ καρδία ἡμῶν μὴ καταγινώσκῃ ἡμῶν, παρρησίαν ἔχομεν πρὸς τὸν θεόν,"
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0027]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G2607]]"
+- "[[G3954]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G2316]]"
+texts:
+- NKO
+- ko
+---
+
 **1 John 3:21**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, if our heart condemn us not, [then] have we confidence toward God.
 <small><sub>**BSB:**</sub></small>
 Beloved, if our hearts do not condemn us, we have confidence before God,
-<small><sub>**Literal:**</sub></small>
-Beloved, if the heart of us not shall condemn us confidence we have toward <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.20|<< 1 John 3:20]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.22|1 John 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G1437\|ἐὰν]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G3165\|ἡμῶν]]  [[G3361\|μὴ]]  [[G2607\|καταγινώσκῃ]]  [[G3165\|ἡμῶν,]]  [[G3954\|παρρησίαν]]  [[G2192\|ἔχομεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.20|<< 1 John 3:20]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.22|1 John 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

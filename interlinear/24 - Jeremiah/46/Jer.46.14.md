@@ -1,8 +1,66 @@
+---
+title: Jeremiah 46:14
+type: Verse
+kjv: "Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee."
+bsb: "“Announce it in Egypt, and proclaim it in Migdol; proclaim it in Memphis and Tahpanhes: ‘Take your positions and prepare yourself, for the sword devours those around you.’"
+hebrew: "הַגִּ֤ידוּ בְמִצְרַ֙יִם֙ וְהַשְׁמִ֣יעוּ בְמִגְדּ֔וֹל וְהַשְׁמִ֥יעוּ בְנֹ֖ף וּבְתַחְפַּנְחֵ֑ס אִמְר֗וּ הִתְיַצֵּב֙ וְהָכֵ֣ן לָ֔ךְ כִּֽי־ אָכְלָ֥ה חֶ֖רֶב סְבִיבֶֽיךָ׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic MEMPHIS|MEMPHIS]]"
+- "[[topic MIGDOL|MIGDOL]]"
+- "[[topic NOPH|NOPH]]"
+- "[[topic TAHPANHES|TAHPANHES]]"
+strongs:
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H8085I]]"
+- "[[H4024B]]"
+- "[[H5297]]"
+- "[[H8471]]"
+- "[[H0559]]"
+- "[[H3320]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H2719]]"
+- "[[H5439G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:14**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee.
 <small><sub>**BSB:**</sub></small>
 “Announce it in Egypt, and proclaim it in Migdol; proclaim it in Memphis and Tahpanhes: ‘Take your positions and prepare yourself, for the sword devours those around you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|הַגִּ֤ידוּ]] [[H9003\|בְ]][[H4714G\|מִצְרַ֙יִם֙]] [[H9002\|וְ]][[H8085I\|הַשְׁמִ֣יעוּ]] [[H9003\|בְ]][[H4024B\|מִגְדּ֔וֹל]] [[H9002\|וְ]][[H8085I\|הַשְׁמִ֥יעוּ]] [[H9003\|בְ]][[H5297\|נֹ֖ף]] [[H9002\|וּ]][[H9003\|בְ]][[H8471\|תַחְפַּנְחֵ֑ס]] [[H0559\|אִמְר֗וּ]] [[H3320\|הִתְיַצֵּב֙]] [[H9002\|וְ]][[H3559A\|הָכֵ֣ן]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0398\|אָכְלָ֥ה]] [[H2719\|חֶ֖רֶב]] [[H5439G\|סְבִיבֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic MEMPHIS|MEMPHIS]] • [[topic MIGDOL|MIGDOL]] • [[topic NOPH|NOPH]] • [[topic TAHPANHES|TAHPANHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.13|<< Jeremiah 46:13]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.15|Jeremiah 46:15 >>]]</td></tr></table>
 

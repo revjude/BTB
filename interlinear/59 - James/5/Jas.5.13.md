@@ -1,10 +1,51 @@
+---
+title: James 5:13
+type: Verse
+kjv: "Is any among you afflicted? let him pray. Is any merry? let him sing psalms."
+bsb: "Is any one of you suffering? He should pray. Is anyone cheerful? He should sing praises."
+greek: "Κακοπαθεῖ τις ἐν ὑμῖν; προσευχέσθω· εὐθυμεῖ τις; ψαλλέτω."
+pericope: "[[Jas.5.13 The Prayer of Faith|The Prayer of Faith]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G2553]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4336]]"
+- "[[G2114]]"
+- "[[G5567]]"
+texts:
+- NKO
+---
+
 **James 5:13**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Is any among you afflicted? let him pray. Is any merry? let him sing psalms.
 <small><sub>**BSB:**</sub></small>
 Is any one of you suffering? He should pray. Is anyone cheerful? He should sing praises.
-<small><sub>**Literal:**</sub></small>
-Is suffering hardships anyone among you? he should pray; Is cheerful anyone? he should sing praises.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.12|<< James 5:12]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.14|James 5:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2553\|Κακοπαθεῖ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν;]]  [[G4336\|προσευχέσθω·]]  [[G2114\|εὐθυμεῖ]]  [[G5100\|τις;]]  [[G5567\|ψαλλέτω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.12|<< James 5:12]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.14|James 5:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

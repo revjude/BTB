@@ -1,8 +1,57 @@
+---
+title: Isaiah 27:4
+type: Verse
+kjv: "Fury is not in me: who would set the briers and thorns against me in battle? I would go through them, I would burn them together."
+bsb: "I am not angry. If only thorns and briers confronted Me, I would march and trample them, I would burn them to the ground."
+hebrew: "חֵמָ֖ה אֵ֣ין לִ֑י מִֽי־ יִתְּנֵ֜נִי שָׁמִ֥יר שַׁ֙יִת֙ בַּמִּלְחָמָ֔ה אֶפְשְׂעָ֥ה בָ֖הּ אֲצִיתֶ֥נָּה יָּֽחַד׃"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2534]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H8068]]"
+- "[[H7898]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H6585]]"
+- "[[H9034]]"
+- "[[H6702]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 27:4**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fury [is] not in me: who would set the briers [and] thorns against me in battle? I would go through them, I would burn them together.
 <small><sub>**BSB:**</sub></small>
 I am not angry. If only thorns and briers confronted Me, I would march and trample them, I would burn them to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H2534\|חֵמָ֖ה]] [[H0369\|אֵ֣ין]] [[H9005\|לִ֑]][[H9030\|י]] [[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתְּנֵ֜]][[H9030\|נִי]] [[H8068\|שָׁמִ֥יר]] [[H7898\|שַׁ֙יִת֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H6585\|אֶפְשְׂעָ֥ה]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H6702\|אֲצִיתֶ֥]][[H9034\|נָּה]] [[H3162A\|יָּֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.3|<< Isaiah 27:3]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.5|Isaiah 27:5 >>]]</td></tr></table>
 

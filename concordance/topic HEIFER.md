@@ -3,7 +3,7 @@
 
 → When used as sacrifice, must be without blemish and must not  have come under the yoke [[Num.19.2|Nu 19:2]]; [[Deut.21.3|De 21:3]]
 
-→ An atonement for murder [[Deut.21.1|De 21:1]]-[[Deut.21.9|9]]
+→ An atonement for murder [[Deut.21.1|De 21:1-9]]
 
 → The red heifer used for the water of separation [[Num.19|Nu 19]]; [[Heb.9.13|Heb 9:13]]
 

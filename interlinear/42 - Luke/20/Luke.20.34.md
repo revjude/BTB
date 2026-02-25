@@ -1,10 +1,59 @@
+---
+title: Luke 20:34
+type: Verse
+kjv: "And Jesus answering said unto them, The children of this world marry, and are given in marriage:"
+bsb: "Jesus answered, “The sons of this age marry and are given in marriage."
+jesus_said: "The children of this world marry, and are given in marriage:"
+greek: "Καὶ ἀποκριθεὶς εἶπεν αὐτοῖς ὁ Ἰησοῦς· οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται,"
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5207]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G1060]]"
+- "[[G1061]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 20:34**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, The children of this world marry, and are given in marriage:
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “The sons of this age marry and are given in marriage.
-<small><sub>**Literal:**</sub></small>
-And answering said to them <the> Jesus; The sons of the age this marry and are given in marriage,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.33|<< Luke 20:33]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.35|Luke 20:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3588\|οἱ]]  [[G5207\|υἱοὶ]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3778\|τούτου]]  [[G1060\|γαμοῦσιν]]  [[G2532\|καὶ]]  [[G1061\|γαμίσκονται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.33|<< Luke 20:33]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.35|Luke 20:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

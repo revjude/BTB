@@ -1,8 +1,63 @@
+---
+title: Numbers 19:3
+type: Verse
+kjv: "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:"
+bsb: "Give it to Eleazar the priest, and he will have it brought outside the camp and slaughtered in his presence."
+hebrew: "וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל־ אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל־ מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט אֹתָ֖הּ לְפָנָֽיו׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TYPES|TYPES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H7819A]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:3**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and [one] shall slay her before his face:
 <small><sub>**BSB:**</sub></small>
 Give it to Eleazar the priest, and he will have it brought outside the camp and slaughtered in his presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414G\|נְתַתֶּ֣ם]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וְ]][[H3318H\|הוֹצִ֤יא]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וְ]][[H7819A\|שָׁחַ֥ט]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TYPES|TYPES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.2|<< Numbers 19:2]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.4|Numbers 19:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

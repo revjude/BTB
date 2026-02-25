@@ -1,8 +1,51 @@
+---
+title: Proverbs 18:3
+type: Verse
+kjv: "When the wicked cometh, then cometh also contempt, and with ignominy reproach."
+bsb: "With a wicked man comes contempt as well, and shame is accompanied by disgrace."
+hebrew: "בְּֽבוֹא־ רָ֭שָׁע בָּ֣א גַם־ בּ֑וּז וְֽעִם־ קָל֥וֹן חֶרְפָּֽה׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H1571]]"
+- "[[H0937]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H7036]]"
+- "[[H2781]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:3**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the wicked cometh, [then] cometh also contempt, and with ignominy reproach.
 <small><sub>**BSB:**</sub></small>
 With a wicked man comes contempt as well, and shame is accompanied by disgrace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ]][[H0935G\|בוֹא]][[H9014\|־]] [[H7563\|רָ֭שָׁע]] [[H0935G\|בָּ֣א]] [[H1571\|גַם]][[H9014\|־]] [[H0937\|בּ֑וּז]] [[H9002\|וְֽ]][[H5973A\|עִם]][[H9014\|־]] [[H7036\|קָל֥וֹן]] [[H2781\|חֶרְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.2|<< Proverbs 18:2]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.4|Proverbs 18:4 >>]]</td></tr></table>
 

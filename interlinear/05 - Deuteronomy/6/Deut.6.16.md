@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 6:16
+type: Verse
+kjv: "Ye shall not tempt the LORD your God, as ye tempted him in Massah."
+bsb: "Do not test the LORD your God as you tested Him at Massah."
+hebrew: "לֹ֣א תְנַסּ֔וּ אֶת־ יְהוָ֖ה אֱלֹהֵיכֶ֑ם כַּאֲשֶׁ֥ר נִסִּיתֶ֖ם בַּמַּסָּֽה׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3808]]"
+- "[[H5254G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H4532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:16**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not tempt the LORD your God, as ye tempted [him] in Massah.
 <small><sub>**BSB:**</sub></small>
 Do not test the LORD your God as you tested Him at Massah.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H5254G\|תְנַסּ֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H5254G\|נִסִּיתֶ֖ם]] [[H9003\|בַּ]][[H4532\|מַּסָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.15|<< Deuteronomy 6:15]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.17|Deuteronomy 6:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

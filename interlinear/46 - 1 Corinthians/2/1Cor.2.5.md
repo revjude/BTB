@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 2:5
+type: Verse
+kjv: "That your faith should not stand in the wisdom of men, but in the power of God."
+bsb: "so that your faith would not rest on men’s wisdom, but on God’s power."
+greek: "ἵνα ἡ πίστις ὑμῶν μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων ἀλλ᾽ ἐν δυνάμει θεοῦ.¶"
+pericope: "[[1Cor.2.1 Paul’s Message by the Spirit’s Power|Paul’s Message by the Spirit’s Power]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4678]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G1411]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 2:5**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That your faith should not stand in the wisdom of men, but in the power of God.
 <small><sub>**BSB:**</sub></small>
 so that your faith would not rest on men’s wisdom, but on God’s power.
-<small><sub>**Literal:**</sub></small>
-so that the faith of you not may be in wisdom of men but in power of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.4|<< 1 Corinthians 2:4]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.6|1 Corinthians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|ὑμῶν]]  [[G3361\|μὴ]]  [[G1510\|ᾖ]]  [[G1722\|ἐν]]  [[G4678\|σοφίᾳ]]  [[G0444\|ἀνθρώπων]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic POWER|POWER]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.4|<< 1 Corinthians 2:4]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.6|1 Corinthians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

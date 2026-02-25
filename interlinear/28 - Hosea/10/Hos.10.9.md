@@ -1,8 +1,58 @@
+---
+title: Hosea 10:9
+type: Verse
+kjv: "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them."
+bsb: "Since the days of Gibeah you have sinned, O Israel, and there you have remained. Did not the battle in Gibeah overtake the sons of iniquity?"
+hebrew: "מִימֵי֙ הַגִּבְעָ֔ה חָטָ֖אתָ יִשְׂרָאֵ֑ל שָׁ֣ם עָמָ֔דוּ לֹֽא־ תַשִּׂיגֵ֧ם בַּגִּבְעָ֛ה מִלְחָמָ֖ה עַל־ בְּנֵ֥י עַֽלְוָֽה׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H2398]]"
+- "[[H3478]]"
+- "[[H8033G]]"
+- "[[H5975G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5381]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H1121I]]"
+- "[[H5932]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:9**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 <small><sub>**BSB:**</sub></small>
 Since the days of Gibeah you have sinned, O Israel, and there you have remained. Did not the battle in Gibeah overtake the sons of iniquity?
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3117G\|ימֵי֙]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֔ה]] [[H2398\|חָטָ֖אתָ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H8033G\|שָׁ֣ם]] [[H5975G\|עָמָ֔דוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5381\|תַשִּׂיגֵ֧]][[H9038\|ם]] [[H9003\|בַּ]][[H1390H\|גִּבְעָ֛ה]] [[H4421\|מִלְחָמָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1121I\|בְּנֵ֥י]] [[H5932\|עַֽלְוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.8|<< Hosea 10:8]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.10|Hosea 10:10 >>]]</td></tr></table>
 

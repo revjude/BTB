@@ -1,10 +1,74 @@
+---
+title: Luke 19:13
+type: Verse
+kjv: "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
+bsb: "Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said."
+jesus_said: "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
+greek: "καλέσας δὲ δέκα δούλους ἑαυτοῦ ἔδωκεν αὐτοῖς δέκα μνᾶς καὶ εἶπεν πρὸς αὐτούς· πραγματεύσασθε ἐν ᾧ ἕως ἔρχομαι."
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POUND|POUND]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2564G]]"
+- "[[G1161]]"
+- "[[G1176]]"
+- "[[G1401]]"
+- "[[G1438]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G3414]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G4231]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2193]]"
+- "[[G2064]]"
+texts:
+- NKO
+- NK(o)
+- NO
+- k
+---
+
 **Luke 19:13**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
 <small><sub>**BSB:**</sub></small>
 Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said.
-<small><sub>**Literal:**</sub></small>
-Having called then ten servants his own he gave to them ten minas and said to them; Do trade in that until I come back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.12|<< Luke 19:12]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.14|Luke 19:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2564G\|καλέσας]]  [[G1161\|δὲ]]  [[G1176\|δέκα]]  [[G1401\|δούλους]]  [[G1438\|ἑαυτοῦ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G1176\|δέκα]]  [[G3414\|μνᾶς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G4231\|πραγματεύσασθε]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2193\|ἕως]]  [[G2064\|ἔρχομαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POUND|POUND]] • [[topic PROBATION|PROBATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.12|<< Luke 19:12]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.14|Luke 19:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

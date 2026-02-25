@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 1:11
+type: Verse
+kjv: "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
+bsb: "My brothers, some from Chloe’s household have informed me that there are quarrels among you."
+greek: "Ἐδηλώθη γάρ μοι περὶ ὑμῶν, ἀδελφοί μου, ὑπὸ τῶν Χλόης ὅτι ἔριδες ἐν ὑμῖν εἰσιν."
+pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHLOE|CHLOE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DISSENSION|DISSENSION]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1213]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G5514G]]"
+- "[[G3754G]]"
+- "[[G2054]]"
+- "[[G1722]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:11**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it hath been declared unto me of you, my brethren, by them [which are of the house] of Chloe, that there are contentions among you.
 <small><sub>**BSB:**</sub></small>
 My brothers, some from Chloe’s household have informed me that there are quarrels among you.
-<small><sub>**Literal:**</sub></small>
-It was shown for to me concerning you, brothers of mine, by those of Chloe that quarrels among you there are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.10|<< 1 Corinthians 1:10]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.12|1 Corinthians 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1213\|Ἐδηλώθη]]  [[G1063\|γάρ]]  [[G3165\|μοι]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G5514G\|Χλόης]]  [[G3754G\|ὅτι]]  [[G2054\|ἔριδες]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|εἰσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHLOE|CHLOE]] • [[topic CHURCH|CHURCH]] • [[topic DISSENSION|DISSENSION]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.10|<< 1 Corinthians 1:10]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.12|1 Corinthians 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

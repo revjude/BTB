@@ -1,8 +1,54 @@
+---
+title: Psalm 26:12
+type: Verse
+kjv: "My foot standeth in an even place: in the congregations will I bless the LORD."
+bsb: "My feet stand on level ground; in the congregations I will bless the LORD."
+hebrew: "רַ֭גְלִי עָֽמְדָ֣ה בְמִישׁ֑וֹר בְּ֝מַקְהֵלִ֗ים אֲבָרֵ֥ךְ יְהוָֽה׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H4334]]"
+- "[[H4721]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:12**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My foot standeth in an even place: in the congregations will I bless the LORD.
 <small><sub>**BSB:**</sub></small>
 My feet stand on level ground; in the congregations I will bless the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7272\|רַ֭גְלִ]][[H9020\|י]] [[H5975G\|עָֽמְדָ֣ה]] [[H9003\|בְ]][[H4334\|מִישׁ֑וֹר]] [[H9003\|בְּ֝]][[H4721\|מַקְהֵלִ֗ים]] [[H1288\|אֲבָרֵ֥ךְ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.11|<< Psalms 26:11]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.0|Psalms 27:0 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 1 Kings 22:39
+type: Verse
+kjv: "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Ahab, along with all his accomplishments and the ivory palace and all the cities he built, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶתֶר֩ דִּבְרֵ֨י אַחְאָ֜ב וְכָל־ אֲשֶׁ֣ר עָשָׂ֗ה וּבֵ֤ית הַשֵּׁן֙ אֲשֶׁ֣ר בָּנָ֔ה וְכָל־ הֶעָרִ֖ים אֲשֶׁ֣ר בָּנָ֑ה הֲלֽוֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic IVORY|IVORY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H0256G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H8127H]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:39**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Ahab, along with all his accomplishments and the ivory palace and all the cities he built, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶתֶר֩]] [[H1697K\|דִּבְרֵ֨י]] [[H0256G\|אַחְאָ֜ב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֗ה]] [[H9002\|וּ]][[H1004B\|בֵ֤ית]] [[H9009\|הַ]][[H8127H\|שֵּׁן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּנָ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּנָ֑ה]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IVORY|IVORY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.38|<< 1 Kings 22:38]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.40|1 Kings 22:40 >>]]</td></tr></table>
 

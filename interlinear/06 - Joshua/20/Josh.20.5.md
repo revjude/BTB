@@ -1,8 +1,70 @@
+---
+title: Joshua 20:5
+type: Verse
+kjv: "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime."
+bsb: "Now if the avenger of blood pursues him, they must not surrender the manslayer into his hand, because that man killed his neighbor accidentally without prior malice."
+hebrew: "וְכִ֨י יִרְדֹּ֜ף גֹּאֵ֤ל הַדָּם֙ אַֽחֲרָ֔יו וְלֹֽא־ יַסְגִּ֥רוּ אֶת־ הָרֹצֵ֖חַ בְּיָד֑וֹ כִּ֤י בִבְלִי־ דַ֙עַת֙ הִכָּ֣ה אֶת־ רֵעֵ֔הוּ וְלֹֽא־ שֹׂנֵ֥א ה֛וּא ל֖וֹ מִתְּמ֥וֹל שִׁלְשֽׁוֹם׃"
+pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H7291]]"
+- "[[H1350H]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5462]]"
+- "[[H0853]]"
+- "[[H7523]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H5221]]"
+- "[[H7453]]"
+- "[[H8130]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 20:5**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.
 <small><sub>**BSB:**</sub></small>
 Now if the avenger of blood pursues him, they must not surrender the manslayer into his hand, because that man killed his neighbor accidentally without prior malice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֨י]] [[H7291\|יִרְדֹּ֜ף]] [[H1350H\|גֹּאֵ֤ל]] [[H9009\|הַ]][[H1818\|דָּם֙]] [[H0310A\|אַֽחֲרָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5462\|יַסְגִּ֥רוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7523\|רֹצֵ֖חַ]] [[H9003\|בְּ]][[H3027H\|יָד֑]][[H9023\|וֹ]] [[H3588A\|כִּ֤י]] [[H9003\|בִ]][[H1097\|בְלִי]][[H9014\|־]] [[H1847\|דַ֙עַת֙]] [[H5221\|הִכָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8130\|שֹׂנֵ֥א]] [[H1931\|ה֛וּא]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H8543\|תְּמ֥וֹל]] [[H8032\|שִׁלְשֽׁוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COMMUNION|COMMUNION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.4|<< Joshua 20:4]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.6|Joshua 20:6 >>]]</td></tr></table>
 

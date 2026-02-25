@@ -1,8 +1,59 @@
+---
+title: Isaiah 42:13
+type: Verse
+kjv: "The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies."
+bsb: "The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He shouts; yes, He roars in triumph over His enemies:"
+hebrew: "יְהוָה֙ כַּגִּבּ֣וֹר יֵצֵ֔א כְּאִ֥ישׁ מִלְחָמ֖וֹת יָעִ֣יר קִנְאָ֑ה יָרִ֙יעַ֙ אַף־ יַצְרִ֔יחַ עַל־ אֹיְבָ֖יו יִתְגַּבָּֽר׃ ס"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H1368]]"
+- "[[H3318G]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H5782]]"
+- "[[H7068]]"
+- "[[H7321]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H6873]]"
+- "[[H5921A]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H1396]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 42:13**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
 <small><sub>**BSB:**</sub></small>
 The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He shouts; yes, He roars in triumph over His enemies:
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֙]] [[H9004\|כַּ]][[H1368\|גִּבּ֣וֹר]] [[H3318G\|יֵצֵ֔א]] [[H9004\|כְּ]][[H0376G\|אִ֥ישׁ]] [[H4421\|מִלְחָמ֖וֹת]] [[H5782\|יָעִ֣יר]] [[H7068\|קִנְאָ֑ה]] [[H7321\|יָרִ֙יעַ֙]] [[H0637\|אַף]][[H9014\|־]] [[H6873\|יַצְרִ֔יחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|אֹיְבָ֖י]][[H9023\|ו]] [[H1396\|יִתְגַּבָּֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.12|<< Isaiah 42:12]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.14|Isaiah 42:14 >>]]</td></tr></table>
 
@@ -20,7 +71,7 @@ The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He s
 | he will raise a battle-shout  |**<big>&#8207;[[H6873\|יַצְרִ֔יחַ]]&#8207; </big>**| yatz.Ri.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies his  |**<big>&#8207;[[H0341\|אֹיְבָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will prevail  |**<big>&#8207;[[H1396\|יִתְגַּבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yit.ga.Bar<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will prevail  |**<big>&#8207;[[H1396\|יִתְגַּבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yit.ga.Bar<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.12|<< Isaiah 42:12]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.14|Isaiah 42:14 >>]]</td></tr></table>
 
 

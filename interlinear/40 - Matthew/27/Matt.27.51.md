@@ -1,10 +1,60 @@
+---
+title: Matthew 27:51
+type: Verse
+kjv: "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+bsb: "At that moment the veil of the temple was torn in two from top to bottom. The earth quaked, and the rocks were split."
+greek: "Καὶ ἰδοὺ τὸ καταπέτασμα τοῦ ναοῦ ἐσχίσθη ἀπ᾽ ἄνωθεν ἕως κάτω εἰς δύο, καὶ ἡ γῆ ἐσείσθη, καὶ αἱ πέτραι ἐσχίσθησαν,"
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G2665]]"
+- "[[G3485]]"
+- "[[G4977]]"
+- "[[G0575]]"
+- "[[G0509]]"
+- "[[G2193]]"
+- "[[G2736]]"
+- "[[G1519]]"
+- "[[G1417]]"
+- "[[G1093G]]"
+- "[[G4579]]"
+- "[[G4073]]"
+texts:
+- NKO
+---
+
 **Matthew 27:51**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;
 <small><sub>**BSB:**</sub></small>
 At that moment the veil of the temple was torn in two from top to bottom. The earth quaked, and the rocks were split.
-<small><sub>**Literal:**</sub></small>
-And behold the veil of the temple was torn from top until bottom into two, and the earth was shaken, and the rocks were split,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.50|<< Matthew 27:50]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.52|Matthew 27:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G3588\|τὸ]]  [[G2665\|καταπέτασμα]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G4977\|ἐσχίσθη]]  [[G0575\|ἀπ᾽]]  [[G0509\|ἄνωθεν]]  [[G2193\|ἕως]]  [[G2736\|κάτω]]  [[G1519\|εἰς]]  [[G1417\|δύο,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G4579\|ἐσείσθη,]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4073\|πέτραι]]  [[G4977\|ἐσχίσθησαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic VAIL|VAIL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.50|<< Matthew 27:50]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.52|Matthew 27:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

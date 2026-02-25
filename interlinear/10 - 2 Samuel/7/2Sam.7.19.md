@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 7:19
+type: Verse
+kjv: "And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And is this the manner of man, O Lord GOD?"
+bsb: "And as if this was a small thing in Your eyes, O Lord GOD, You have also spoken about the future of the house of Your servant. Is this Your custom with man, O Lord GOD?"
+hebrew: "וַתִּקְטַן֩ ע֨וֹד זֹ֤את בְּעֵינֶ֙יךָ֙ אֲדֹנָ֣י יְהוִ֔ה וַתְּדַבֵּ֛ר גַּ֥ם אֶל־ בֵּֽית־ עַבְדְּךָ֖ לְמֵֽרָח֑וֹק וְזֹ֛את תּוֹרַ֥ת הָאָדָ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6994]]"
+- "[[H5750]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H1696G]]"
+- "[[H1571]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9002]]"
+- "[[H8452]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:19**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And [is] this the manner of man, O Lord GOD?
 <small><sub>**BSB:**</sub></small>
 And as if this was a small thing in Your eyes, O Lord GOD, You have also spoken about the future of the house of Your servant. Is this Your custom with man, O Lord GOD?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6994\|תִּקְטַן֩]] [[H5750\|ע֨וֹד]] [[H2063\|זֹ֤את]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֛ר]] [[H1571\|גַּ֥ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H9006\|מֵֽ]][[H7350\|רָח֑וֹק]] [[H9002\|וְ]][[H2063\|זֹ֛את]] [[H8452\|תּוֹרַ֥ת]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.18|<< 2 Samuel 7:18]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.20|2 Samuel 7:20 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Exodus 36:31
+type: Verse
+kjv: "And he made bars of shittim wood; five for the boards of the one side of the tabernacle,"
+bsb: "He also made five crossbars of acacia wood for the frames on one side of the tabernacle,"
+hebrew: "וַיַּ֥עַשׂ בְּרִיחֵ֖י עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הָאֶחָֽת׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H1280]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H7175]]"
+- "[[H6763]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:31**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made bars of shittim wood; five for the boards of the one side of the tabernacle,
 <small><sub>**BSB:**</sub></small>
 He also made five crossbars of acacia wood for the frames on one side of the tabernacle,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H1280\|בְּרִיחֵ֖י]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H2568\|חֲמִשָּׁ֕ה]] [[H9005\|לְ]][[H7175\|קַרְשֵׁ֥י]] [[H6763\|צֶֽלַע]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H9009\|הָ]][[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.30|<< Exodus 36:30]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.32|Exodus 36:32 >>]]</td></tr></table>
 

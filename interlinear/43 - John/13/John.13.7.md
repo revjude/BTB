@@ -1,10 +1,62 @@
+---
+title: John 13:7
+type: Verse
+kjv: "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter."
+bsb: "Jesus replied, “You do not realize now what I am doing, but later you will understand.”"
+jesus_said: "What I do thou knowest not now; but thou shalt know hereafter."
+greek: "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ὃ ἐγὼ ποιῶ, σὺ οὐκ οἶδας ἄρτι, γνώσῃ δὲ μετὰ ταῦτα."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FEET|FEET]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G0737]]"
+- "[[G1097]]"
+- "[[G1161]]"
+- "[[G3326]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **John 13:7**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “You do not realize now what I am doing, but later you will understand.”
-<small><sub>**Literal:**</sub></small>
-Answered Jesus and said to him; What I myself do you yourself not know presently, you will know however after these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.6|<< John 13:6]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.8|John 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G4160G\|ποιῶ,]]  [[G4771\|σὺ]]  [[G3756\|οὐκ]]  [[G6063\|οἶδας]]  [[G0737\|ἄρτι,]]  [[G1097\|γνώσῃ]]  [[G1161\|δὲ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FAITH|FAITH]] • [[topic FEET|FEET]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.6|<< John 13:6]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.8|John 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

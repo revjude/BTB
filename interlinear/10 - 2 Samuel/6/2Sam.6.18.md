@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 6:18
+type: Verse
+kjv: "And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts."
+bsb: "When David had finished sacrificing the burnt offerings and peace offerings, he blessed the people in the name of the LORD of Hosts."
+hebrew: "וַיְכַ֣ל דָּוִ֔ד מֵהַעֲל֥וֹת הָעוֹלָ֖ה וְהַשְּׁלָמִ֑ים וַיְבָ֣רֶךְ אֶת־ הָעָ֔ם בְּשֵׁ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:18**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 When David had finished sacrificing the burnt offerings and peace offerings, he blessed the people in the name of the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַ֣ל]] [[H1732\|דָּוִ֔ד]] [[H9006\|מֵ]][[H5927I\|הַעֲל֥וֹת]] [[H9009\|הָ]][[H5930A\|עוֹלָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8002\|שְּׁלָמִ֑ים]] [[H9001\|וַ]][[H1288\|יְבָ֣רֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9003\|בְּ]][[H8034\|שֵׁ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.17|<< 2 Samuel 6:17]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.19|2 Samuel 6:19 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Ezekiel 13:22
+type: Verse
+kjv: "Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:"
+bsb: "Because you have disheartened the righteous with your lies, even though I have caused them no grief, and because you have encouraged the wicked not to turn from their evil ways to save their lives,"
+hebrew: "יַ֣עַן הַכְא֤וֹת לֵב־ צַדִּיק֙ שֶׁ֔קֶר וַאֲנִ֖י לֹ֣א הִכְאַבְתִּ֑יו וּלְחַזֵּק֙ יְדֵ֣י רָשָׁ֔ע לְבִלְתִּי־ שׁ֛וּב מִדַּרְכּ֥וֹ הָרָ֖ע לְהַחֲיֹתֽוֹ׃"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3282]]"
+- "[[H3512A]]"
+- "[[H3820A]]"
+- "[[H9014]]"
+- "[[H6662]]"
+- "[[H8267]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H3510]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H2388G]]"
+- "[[H3027I]]"
+- "[[H7563]]"
+- "[[H1115]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7451B]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:22**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:
 <small><sub>**BSB:**</sub></small>
 Because you have disheartened the righteous with your lies, even though I have caused them no grief, and because you have encouraged the wicked not to turn from their evil ways to save their lives,
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]] [[H3512A\|הַכְא֤וֹת]] [[H3820A\|לֵב]][[H9014\|־]] [[H6662\|צַדִּיק֙]] [[H8267\|שֶׁ֔קֶר]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H3808\|לֹ֣א]] [[H3510\|הִכְאַבְתִּ֑י]][[H9033\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H2388G\|חַזֵּק֙]] [[H3027I\|יְדֵ֣י]] [[H7563\|רָשָׁ֔ע]] [[H9005\|לְ]][[H1115\|בִלְתִּי]][[H9014\|־]] [[H7725O\|שׁ֛וּב]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֥]][[H9023\|וֹ]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9005\|לְ]][[H2421\|הַחֲיֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.21|<< Ezekiel 13:21]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.23|Ezekiel 13:23 >>]]</td></tr></table>
 

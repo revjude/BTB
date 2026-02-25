@@ -1,8 +1,53 @@
+---
+title: Jeremiah 46:3
+type: Verse
+kjv: "Order ye the buckler and shield, and draw near to battle."
+bsb: "“Deploy your shields, small and large; advance for battle!"
+hebrew: "עִרְכ֤וּ מָגֵן֙ וְצִנָּ֔ה וּגְשׁ֖וּ לַמִּלְחָמָֽה׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6186A]]"
+- "[[H4043]]"
+- "[[H9002]]"
+- "[[H6793C]]"
+- "[[H5066G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:3**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Order ye the buckler and shield, and draw near to battle.
 <small><sub>**BSB:**</sub></small>
 “Deploy your shields, small and large; advance for battle!
+<small><sub>**Hebrew:**</sub></small>
+[[H6186A\|עִרְכ֤וּ]] [[H4043\|מָגֵן֙]] [[H9002\|וְ]][[H6793C\|צִנָּ֔ה]] [[H9002\|וּ]][[H5066G\|גְשׁ֖וּ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic EUPHRATES|EUPHRATES]] • [[topic SHIELD|SHIELD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.2|<< Jeremiah 46:2]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.4|Jeremiah 46:4 >>]]</td></tr></table>
 

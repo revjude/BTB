@@ -1,6 +1,73 @@
+---
+title: LXX Daniel 8:13
+type: Verse
+lxx: "And I heard one holy one speaking. And one holy one said to the Phelmouni, to the one speaking, For how long shall the vision stand, the taking away the sacrifice, and the granting the sin of desolation, and the holy place and the force shall be trampled upon?"
+greek: "και ήκουσα ενός αγίου λαλούντος και είπεν εις άγιος τω φελμουνί τω λαλούντι έως πότε η όρασις στήσεται η θυσία η αρθείσα και η αμαρτία ερημώσεως η δοθείσα και το άγιον και η δύναμις συμπατηθήσεται"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G1520]]"
+- "[[G0039]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1520]]"
+- "[[G0039]]"
+- "[[G3588]]"
+- "[[H6422]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G3588]]"
+- "[[G3706]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2378]]"
+- "[[G3588]]"
+- "[[G0142]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2050]]"
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G9271]]"
+---
+
 **LXX Daniel 8:13** 
 <small><sub>**LXX:**</sub></small>
 And I heard one holy one speaking. And one holy one said to the Phelmouni, to the one speaking, For how long shall the vision stand, the taking away the sacrifice, and the granting the sin of desolation, and the holy place and the force shall be trampled upon? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0191\|ήκουσα]] [[G1520\|ενός]] [[G0039\|αγίου]] [[G2980\|λαλούντος]] [[G2532\|και]] [[G2036\|είπεν]] [[G1520\|εις]] [[G0039\|άγιος]] [[G3588\|τω]] [[H6422\|φελμουνί]] [[G3588\|τω]] [[G2980\|λαλούντι]] [[G2193\|έως]] [[G4219\|πότε]] [[G3588\|η]] [[G3706\|όρασις]] [[G2476\|στήσεται]] [[G3588\|η]] [[G2378\|θυσία]] [[G3588\|η]] [[G0142\|αρθείσα]] [[G2532\|και]] [[G3588\|η]] [[G0266\|αμαρτία]] [[G2050\|ερημώσεως]] [[G3588\|η]] [[G1325\|δοθείσα]] [[G2532\|και]] [[G3588\|το]] [[G0039\|άγιον]] [[G2532\|και]] [[G3588\|η]] [[G1411\|δύναμις]] [[G9271\|συμπατηθήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.12|<< Daniel 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.14|Daniel 8:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -44,6 +111,6 @@ And I heard one holy one speaking. And one holy one said to the Phelmouni, to th
 | the | **<big>[[G3588\|η]]</big>** |
 | force | **<big>[[G1411\|δύναμις]]</big>** |
 | shall be trampled upon? | **<big>[[G9271\|συμπατηθήσεται]]</big>** |
-[[Dan.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.12|<< Daniel 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.14|Daniel 8:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.12|<< Daniel 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.14|Daniel 8:14 >>]]</td></tr></table>
 
 

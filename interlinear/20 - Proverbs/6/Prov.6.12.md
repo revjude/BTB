@@ -1,8 +1,51 @@
+---
+title: Proverbs 6:12
+type: Verse
+kjv: "A naughty person, a wicked man, walketh with a froward mouth."
+bsb: "A worthless person, a wicked man, walks with a perverse mouth,"
+hebrew: "אָדָ֣ם בְּ֭לִיַּעַל אִ֣ישׁ אָ֑וֶן ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת פֶּֽה׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0120G]]"
+- "[[H1100I]]"
+- "[[H0376G]]"
+- "[[H0205G]]"
+- "[[H1980I]]"
+- "[[H6143]]"
+- "[[H6310I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:12**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A naughty person, a wicked man, walketh with a froward mouth.
 <small><sub>**BSB:**</sub></small>
 A worthless person, a wicked man, walks with a perverse mouth,
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָדָ֣ם]] [[H1100I\|בְּ֭לִיַּעַל]] [[H0376G\|אִ֣ישׁ]] [[H0205G\|אָ֑וֶן]] [[H1980I\|ה֝וֹלֵ֗ךְ]] [[H6143\|עִקְּשׁ֥וּת]] [[H6310I\|פֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic STRIFE|STRIFE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 

@@ -1,10 +1,75 @@
+---
+title: Matthew 11:19
+type: Verse
+kjv: "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children."
+bsb: "The Son of Man came eating and drinking, and they say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ But wisdom is vindicated by her actions.”"
+jesus_said: "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children."
+greek: "ἦλθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγουσιν· ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, τελωνῶν φίλος καὶ ἁμαρτωλῶν. καὶ ἐδικαιώθη ἡ σοφία ἀπὸ τῶν ἔργων αὐτῆς.¶"
+pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic ASCETICISM|ASCETICISM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic TAX|TAX]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WINEBIBBER (A WINO)|WINEBIBBER (A WINO)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G3004G]]"
+- "[[G2400]]"
+- "[[G5314]]"
+- "[[G3630]]"
+- "[[G5057]]"
+- "[[G5384]]"
+- "[[G0268]]"
+- "[[G1344]]"
+- "[[G4678]]"
+- "[[G0575]]"
+- "[[G2041]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 11:19**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.
 <small><sub>**BSB:**</sub></small>
 The Son of Man came eating and drinking, and they say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’ But wisdom is vindicated by her actions.”
-<small><sub>**Literal:**</sub></small>
-Came the Son <the> of Man eating and drinking, and they say; Behold a man a glutton and a drunkard, of tax collectors a friend and of sinners! But is justified <the> wisdom by the deeds of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.18|<< Matthew 11:18]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.20|Matthew 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2068\|ἐσθίων]]  [[G2532\|καὶ]]  [[G4095\|πίνων,]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν·]]  [[G2400\|ἰδοὺ]]  [[G0444\|ἄνθρωπος]]  [[G5314\|φάγος]]  [[G2532\|καὶ]]  [[G3630\|οἰνοπότης,]]  [[G5057\|τελωνῶν]]  [[G5384\|φίλος]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῶν.]]  [[G2532\|καὶ]]  [[G1344\|ἐδικαιώθη]]  [[G3588\|ἡ]]  [[G4678\|σοφία]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic ASCETICISM|ASCETICISM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PUBLICANS|PUBLICANS]] • [[topic SLANDER|SLANDER]] • [[topic TAX|TAX]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WINEBIBBER (A WINO)|WINEBIBBER (A WINO)]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.18|<< Matthew 11:18]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.20|Matthew 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

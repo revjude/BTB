@@ -1,8 +1,74 @@
+---
+title: Genesis 22:6
+type: Verse
+kjv: "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."
+bsb: "Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together."
+hebrew: "וַיִּקַּ֨ח אַבְרָהָ֜ם אֶת־ עֲצֵ֣י הָעֹלָ֗ה וַיָּ֙שֶׂם֙ עַל־ יִצְחָ֣ק בְּנ֔וֹ וַיִּקַּ֣ח בְּיָד֔וֹ אֶת־ הָאֵ֖שׁ וְאֶת־ הַֽמַּאֲכֶ֑לֶת וַיֵּלְכ֥וּ שְׁנֵיהֶ֖ם יַחְדָּֽו׃"
+pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic KNIFE|KNIFE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6086G]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H3327]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H3979]]"
+- "[[H1980G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:6**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.
 <small><sub>**BSB:**</sub></small>
 Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H0085\|אַבְרָהָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֲצֵ֣י]] [[H9009\|הָ]][[H5930A\|עֹלָ֗ה]] [[H9001\|וַ]][[H7760H\|יָּ֙שֶׂם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3327\|יִצְחָ֣ק]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H9003\|בְּ]][[H3027G\|יָד֔]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֖שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3979\|מַּאֲכֶ֑לֶת]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֥וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֖ם]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic KNIFE|KNIFE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.5|<< Genesis 22:5]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.7|Genesis 22:7 >>]]</td></tr></table>
 

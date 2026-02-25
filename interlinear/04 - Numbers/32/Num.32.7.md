@@ -1,8 +1,69 @@
+---
+title: Numbers 32:7
+type: Verse
+kjv: "And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?"
+bsb: "Why are you discouraging the Israelites from crossing into the land that the LORD has given them?"
+hebrew: "וְלָ֣מָּה תְנִיא֔וּן אֶת־ לֵ֖ב בְּנֵ֣י יִשְׂרָאֵ֑ל מֵֽעֲבֹר֙ אֶל־ הָאָ֔רֶץ אֲשֶׁר־ נָתַ֥ן לָהֶ֖ם יְהוָֽה׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5106]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5674A]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Numbers 32:7**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?
 <small><sub>**BSB:**</sub></small>
 Why are you discouraging the Israelites from crossing into the land that the LORD has given them?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ֣]][[H4100\|מָּה]] [[H5106\|תְנִיא֔וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֖ב]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9006\|מֵֽ]][[H5674A\|עֲבֹר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
 
@@ -23,7 +84,7 @@ Why are you discouraging the Israelites from crossing into the land that the LOR
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
 
-[^1]: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
-[^2]: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^1]: do you hinder !  | **<big>[[H5106|תְנוּאוּ]]</big><big>[[H9013|ן]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^2]: do you hinder !  | **<big>[[H5106|תְנוּאוּ]]</big><big>[[H9013|ן]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>תְנִוא֔וּן</big></span>**
 

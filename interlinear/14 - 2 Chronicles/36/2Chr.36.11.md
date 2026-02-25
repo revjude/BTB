@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 36:11
+type: Verse
+kjv: "Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem."
+bsb: "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years."
+hebrew: "בֶּן־ עֶשְׂרִ֧ים וְאַחַ֛ת שָׁנָ֖ה צִדְקִיָּ֣הוּ בְמָלְכ֑וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.36.11 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H8141]]"
+- "[[H6667H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:11**<big><big>[[2Chr.36.11 Zedekiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zedekiah [was] one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֧ים]] [[H9002\|וְ]][[H0259\|אַחַ֛ת]] [[H8141\|שָׁנָ֖ה]] [[H6667H\|צִדְקִיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.10|<< 2 Chronicles 36:10]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.12|2 Chronicles 36:12 >>]]</td></tr></table>
 

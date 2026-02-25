@@ -1,8 +1,73 @@
+---
+title: Genesis 32:20
+type: Verse
+kjv: "And say ye moreover, Behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me."
+bsb: "You are also to say, ‘Look, your servant Jacob is right behind us.’” For he thought, “I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”"
+hebrew: "וַאֲמַרְתֶּ֕ם גַּ֗ם הִנֵּ֛ה עַבְדְּךָ֥ יַעֲקֹ֖ב אַחֲרֵ֑ינוּ כִּֽי־ אָמַ֞ר אֲכַפְּרָ֣ה פָנָ֗יו בַּמִּנְחָה֙ הַהֹלֶ֣כֶת לְפָנָ֔י וְאַחֲרֵי־ כֵן֙ אֶרְאֶ֣ה פָנָ֔יו אוּלַ֖י יִשָּׂ֥א פָנָֽי׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H2009]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3290]]"
+- "[[H0310A]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3722A]]"
+- "[[H6440L]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4503H]]"
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H0194]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:20**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say ye moreover, Behold, thy servant Jacob [is] behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
 <small><sub>**BSB:**</sub></small>
 You are also to say, ‘Look, your servant Jacob is right behind us.’” For he thought, “I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֕ם]] [[H1571\|גַּ֗ם]] [[H2009\|הִנֵּ֛ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H3290\|יַעֲקֹ֖ב]] [[H0310A\|אַחֲרֵ֑י]][[H9035\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3722A\|אֲכַפְּרָ֣ה]] [[H6440L\|פָנָ֗י]][[H9023\|ו]] [[H9003\|בַּ]][[H4503H\|מִּנְחָה֙]] [[H9009\|הַ]][[H1980G\|הֹלֶ֣כֶת]] [[H9005\|לְ]][[H6440G\|פָנָ֔]][[H9020\|י]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵן֙]] [[H7200G\|אֶרְאֶ֣ה]] [[H6440H\|פָנָ֔י]][[H9023\|ו]] [[H0194\|אוּלַ֖י]] [[H5375Q\|יִשָּׂ֥א]] [[H6440N\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.19|<< Genesis 32:19]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.21|Genesis 32:21 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Joshua 2:20
+type: Verse
+kjv: "And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear."
+bsb: "And if you report our mission, we will be released from the oath you made us swear.”"
+hebrew: "וְאִם־ תַּגִּ֖ידִי אֶת־ דְּבָרֵ֣נוּ זֶ֑ה וְהָיִ֣ינוּ נְקִיִּ֔ם מִשְּׁבֻעָתֵ֖ךְ אֲשֶׁ֥ר הִשְׁבַּעְתָּֽנוּ׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H9025]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5355A]]"
+- "[[H9006]]"
+- "[[H7621]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:20**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
 <small><sub>**BSB:**</sub></small>
 And if you report our mission, we will be released from the oath you made us swear.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5046\|תַּגִּ֖ידִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1697I\|דְּבָרֵ֣]][[H9025\|נוּ]] [[H2088\|זֶ֑ה]] [[H9001\|וְ]][[H1961\|הָיִ֣ינוּ]] [[H5355A\|נְקִיִּ֔ם]] [[H9006\|מִ]][[H7621\|שְּׁבֻעָתֵ֖]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|הִשְׁבַּעְתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.19|<< Joshua 2:19]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.21|Joshua 2:21 >>]]</td></tr></table>
 

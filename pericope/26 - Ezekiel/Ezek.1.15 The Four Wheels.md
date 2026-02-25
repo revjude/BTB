@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Four Wheels
+type: Pericope
 pericope: "[[Ezek.1.15 The Four Wheels|The Four Wheels]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 1
 book/chapter: "[[Ezek.1|Ezekiel 1]]"
-genre:
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.1.15]]"
 - "[[Ezek.1.16]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.1.21]]"
 ---
 
-[[Ezek.1|Ezekiel 1:15 - Ezekiel 1:21]]
+<small>[[Ezek.1|Ezekiel 1:15-21]]</small>
 *The Four Wheels*
 
 [[Ezek.1.15|15]] Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.

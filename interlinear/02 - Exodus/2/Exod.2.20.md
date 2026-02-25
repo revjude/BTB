@@ -1,8 +1,69 @@
+---
+title: Exodus 2:20
+type: Verse
+kjv: "And he said unto his daughters, And where is he? why is it that ye have left the man? call him, that he may eat bread."
+bsb: "“So where is he?” their father asked. “Why did you leave the man behind? Invite him to have something to eat.”"
+hebrew: "וַיֹּ֥אמֶר אֶל־ בְּנֹתָ֖יו וְאַיּ֑וֹ לָ֤מָּה זֶּה֙ עֲזַבְתֶּ֣ן אֶת־ הָאִ֔ישׁ קִרְאֶ֥ן ל֖וֹ וְיֹ֥אכַל לָֽחֶם׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0335]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H7121G]]"
+- "[[H9033]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:20**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his daughters, And where [is] he? why [is] it [that] ye have left the man? call him, that he may eat bread.
 <small><sub>**BSB:**</sub></small>
 “So where is he?” their father asked. “Why did you leave the man behind? Invite him to have something to eat.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H1323G\|בְּנֹתָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0335\|אַיּ֑]][[H9043\|וֹ]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H2088\|זֶּה֙]] [[H5800A\|עֲזַבְתֶּ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H7121G\|קִרְאֶ֥ן]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H0398\|יֹ֥אכַל]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.19|<< Exodus 2:19]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.21|Exodus 2:21 >>]]</td></tr></table>
 

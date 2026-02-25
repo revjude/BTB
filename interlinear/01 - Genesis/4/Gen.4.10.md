@@ -1,8 +1,65 @@
+---
+title: Genesis 4:10
+type: Verse
+kjv: "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground."
+bsb: "“What have you done?” replied the LORD. “The voice of your brother’s blood cries out to Me from the ground."
+hebrew: "וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן־ הָֽאֲדָמָֽה׃"
+pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H6963A]]"
+- "[[H1818]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:10**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.
 <small><sub>**BSB:**</sub></small>
 “What have you done?” replied the LORD. “The voice of your brother’s blood cries out to Me from the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֑יתָ]] [[H6963A\|ק֚וֹל]] [[H1818\|דְּמֵ֣י]] [[H0251G\|אָחִ֔י]][[H9021\|ךָ]] [[H6817\|צֹעֲקִ֥ים]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic CAIN|CAIN]] • [[topic ESCAPE|ESCAPE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SIN|SIN]] • [[topic TYPES|TYPES]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.9|<< Genesis 4:9]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.11|Genesis 4:11 >>]]</td></tr></table>
 

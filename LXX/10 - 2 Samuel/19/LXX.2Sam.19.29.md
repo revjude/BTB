@@ -1,6 +1,57 @@
+---
+title: LXX 2 Samuel 19:29
+type: Verse
+lxx: "And the king said to him, Why do you still speak  your words? I said, You and Ziba divide the field!"
+greek: "και είπεν αυτώ ο βασιλεύς ινατί λαλείς έτι τους λόγους σου είπον συ και Σιβά διελείσθε τον αγρόν"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2444]]"
+- "[[G2980]]"
+- "[[G2089]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[H6717]]"
+- "[[G1244]]"
+- "[[G3588]]"
+- "[[G0068]]"
+---
+
 **LXX 2 Samuel 19:29** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, Why do you still speak  your words? I said, You and Ziba divide the field! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2444\|ινατί]] [[G2980\|λαλείς]] [[G2089\|έτι]] [[G3588\|τους]] [[G3056\|λόγους]] [[G1473\|σου]] [[G2036\|είπον]] [[G1473\|συ]] [[G2532\|και]] [[H6717\|Σιβά]] [[G1244\|διελείσθε]] [[G3588\|τον]] [[G0068\|αγρόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SLANDER|SLANDER]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.28|<< 2 Samuel 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.30|2 Samuel 19:30 >>]]</td></tr></table>
 
@@ -22,6 +73,6 @@ And the king said to him, Why do you still speak  your words? I said, You and Zi
 | divide | **<big>[[G1244\|διελείσθε]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | field! | **<big>[[G0068\|αγρόν]]</big>** |
-[[2Sam.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.28|<< 2 Samuel 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.30|2 Samuel 19:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.28|<< 2 Samuel 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.30|2 Samuel 19:30 >>]]</td></tr></table>
 
 

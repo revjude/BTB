@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 29:19
+type: Verse
+kjv: "And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:"
+bsb: "because when such a person hears the words of this oath, he invokes a blessing on himself, saying, ‘I will have peace, even though I walk in the stubbornness of my own heart.’ This will bring disaster on the watered land as well as the dry."
+hebrew: "וְהָיָ֡ה בְּשָׁמְעוֹ֩ אֶת־ דִּבְרֵ֨י הָֽאָלָ֜ה הַזֹּ֗את וְהִתְבָּרֵ֨ךְ בִּלְבָב֤וֹ לֵאמֹר֙ שָׁל֣וֹם יִֽהְיֶה־ לִּ֔י כִּ֛י בִּשְׁרִר֥וּת לִבִּ֖י אֵלֵ֑ךְ לְמַ֛עַן סְפ֥וֹת הָרָוָ֖ה אֶת־ הַצְּמֵאָֽה׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H0423]]"
+- "[[H2063]]"
+- "[[H1288]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7965I]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H8307]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H1980I]]"
+- "[[H4616]]"
+- "[[H5595]]"
+- "[[H7302]]"
+- "[[H0854]]"
+- "[[H6771]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:19**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:
 <small><sub>**BSB:**</sub></small>
 because when such a person hears the words of this oath, he invokes a blessing on himself, saying, ‘I will have peace, even though I walk in the stubbornness of my own heart.’ This will bring disaster on the watered land as well as the dry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H9003\|בְּ]][[H8085G\|שָׁמְע]][[H9043\|וֹ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֨י]] [[H9009\|הָֽ]][[H0423\|אָלָ֜ה]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H9001\|וְ]][[H1288\|הִתְבָּרֵ֨ךְ]] [[H9003\|בִּ]][[H3824\|לְבָב֤]][[H9023\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H7965I\|שָׁל֣וֹם]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לִּ֔]][[H9030\|י]] [[H3588A\|כִּ֛י]] [[H9003\|בִּ]][[H8307\|שְׁרִר֥וּת]] [[H3820A\|לִבִּ֖]][[H9020\|י]] [[H1980I\|אֵלֵ֑ךְ]] [[H4616\|לְמַ֛עַן]] [[H5595\|סְפ֥וֹת]] [[H9009\|הָ]][[H7302\|רָוָ֖ה]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6771\|צְּמֵאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic IMAGINATION|IMAGINATION]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.18|<< Deuteronomy 29:18]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.20|Deuteronomy 29:20 >>]]</td></tr></table>
 

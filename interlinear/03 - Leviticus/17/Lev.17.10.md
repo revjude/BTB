@@ -1,8 +1,76 @@
+---
+title: Leviticus 17:10
+type: Verse
+kjv: "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people."
+bsb: "If anyone from the house of Israel or a foreigner living among them eats any blood, I will set My face against that person and cut him off from among his people."
+hebrew: "וְאִ֨ישׁ אִ֜ישׁ מִבֵּ֣ית יִשְׂרָאֵ֗ל וּמִן־ הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֥ר יֹאכַ֖ל כָּל־ דָּ֑ם וְנָתַתִּ֣י פָנַ֗י בַּנֶּ֙פֶשׁ֙ הָאֹכֶ֣לֶת אֶת־ הַדָּ֔ם וְהִכְרַתִּ֥י אֹתָ֖הּ מִקֶּ֥רֶב עַמָּֽהּ׃"
+pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H3605]]"
+- "[[H1818]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H5315J]]"
+- "[[H0853]]"
+- "[[H3772I]]"
+- "[[H9034]]"
+- "[[H7130G]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:10**<big><big>[[Lev.17.10 Laws against Eating Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever man [there be] of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
 <small><sub>**BSB:**</sub></small>
 If anyone from the house of Israel or a foreigner living among them eats any blood, I will set My face against that person and cut him off from among his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1616\|גֵּר֙]] [[H9009\|הַ]][[H1481A\|גָּ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹכָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0398\|יֹאכַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1818\|דָּ֑ם]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֣י]] [[H6440H\|פָנַ֗]][[H9020\|י]] [[H9003\|בַּ]][[H5315J\|נֶּ֙פֶשׁ֙]] [[H9009\|הָ]][[H0398\|אֹכֶ֣לֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֔ם]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971B\|עַמָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic SANITATION|SANITATION]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.9|<< Leviticus 17:9]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.11|Leviticus 17:11 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pilgrimage of the Magi
+type: Pericope
 pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 2
 book/chapter: "[[Matt.2|Matthew 2]]"
-genre:
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.2.1]]"
 - "[[Matt.2.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.2.12]]"
 ---
 
-[[Matt.2|Matthew 2:1 - Matthew 2:12]]
+<small>[[Matt.2|Matthew 2:1-12]]</small>
 *The Pilgrimage of the Magi*
 
 [[Matt.2.1|1]] Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,

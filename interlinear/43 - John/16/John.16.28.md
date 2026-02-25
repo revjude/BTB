@@ -1,10 +1,55 @@
+---
+title: John 16:28
+type: Verse
+kjv: "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father."
+bsb: "I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”"
+jesus_said: "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father."
+greek: "ἐξῆλθον παρὰ τοῦ πατρὸς καὶ ἐλήλυθα εἰς τὸν κόσμον· πάλιν ἀφίημι τὸν κόσμον καὶ πορεύομαι πρὸς τὸν πατέρα.¶"
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1831]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G3825]]"
+- "[[G0863G]]"
+- "[[G4198]]"
+- "[[G4314]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 16:28**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
 <small><sub>**BSB:**</sub></small>
 I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”
-<small><sub>**Literal:**</sub></small>
-I came forth from with the Father and have come into the world; again I leave the world and go to the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.27|<< John 16:27]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.29|John 16:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξῆλθον]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G2064\|ἐλήλυθα]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον·]]  [[G3825\|πάλιν]]  [[G0863G\|ἀφίημι]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2532\|καὶ]]  [[G4198\|πορεύομαι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.27|<< John 16:27]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.29|John 16:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

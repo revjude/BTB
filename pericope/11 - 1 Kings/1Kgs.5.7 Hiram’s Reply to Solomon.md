@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hiram’s Reply to Solomon
+type: Pericope
 pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 5
 book/chapter: "[[1Kgs.5|1 Kings 5]]"
-genre:
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.5.7]]"
 - "[[1Kgs.5.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.5.12]]"
 ---
 
-[[1Kgs.5|1 Kings 5:7 - 1 Kings 5:12]]
+<small>[[1Kgs.5|1 Kings 5:7-12]]</small>
 *Hiram’s Reply to Solomon*
 
 [[1Kgs.5.7|7]] And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed \[be\] the LORD this day, which hath given unto David a wise son over this great people.

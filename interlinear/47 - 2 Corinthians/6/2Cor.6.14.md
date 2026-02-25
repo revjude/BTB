@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 6:14
+type: Verse
+kjv: "Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?"
+bsb: "Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?"
+greek: "Μὴ γίνεσθε ἑτεροζυγοῦντες ἀπίστοις· τίς γὰρ μετοχὴ δικαιοσύνῃ καὶ ἀνομίᾳ; ἢ τίς κοινωνία φωτὶ πρὸς σκότος;"
+pericope: "[[2Cor.6.14 Do Not Be Unequally Yoked|Do Not Be Unequally Yoked]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 6
+book/chapter: "[[2Cor.6|2 Corinthians 6]]"
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G2086]]"
+- "[[G0571]]"
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G3352]]"
+- "[[G1343]]"
+- "[[G2532]]"
+- "[[G0458]]"
+- "[[G2228]]"
+- "[[G2842]]"
+- "[[G5457]]"
+- "[[G4314]]"
+- "[[G4655]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 6:14**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
 <small><sub>**BSB:**</sub></small>
 Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?
-<small><sub>**Literal:**</sub></small>
-Not do become unequally yoked together with unbelievers; what for partnership [have] righteousness and lawlessness? Or what fellowship light with darkness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.13|<< 2 Corinthians 6:13]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.15|2 Corinthians 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G1096\|γίνεσθε]]  [[G2086\|ἑτεροζυγοῦντες]]  [[G0571\|ἀπίστοις·]]  [[G5101\|τίς]]  [[G1063\|γὰρ]]  [[G3352\|μετοχὴ]]  [[G1343\|δικαιοσύνῃ]]  [[G2532\|καὶ]]  [[G0458\|ἀνομίᾳ;]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G2842\|κοινωνία]]  [[G5457\|φωτὶ]]  [[G4314\|πρὸς]]  [[G4655\|σκότος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic COMPANY|COMPANY]] • [[topic DARKNESS|DARKNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic MARRIAGE|MARRIAGE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.13|<< 2 Corinthians 6:13]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.15|2 Corinthians 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,72 @@
+---
+title: Genesis 37:4
+type: Verse
+kjv: "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him."
+bsb: "When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him."
+hebrew: "וַיִּרְא֣וּ אֶחָ֗יו כִּֽי־ אֹת֞וֹ אָהַ֤ב אֲבִיהֶם֙ מִכָּל־ אֶחָ֔יו וַֽיִּשְׂנְא֖וּ אֹת֑וֹ וְלֹ֥א יָכְל֖וּ דַּבְּר֥וֹ לְשָׁלֹֽם׃"
+pericope: "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PARTIALITY|PARTIALITY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0157G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H8130]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:4**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
 <small><sub>**BSB:**</sub></small>
 When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֣וּ]] [[H0251G\|אֶחָ֗י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֹת֞]][[H9033\|וֹ]] [[H0157G\|אָהַ֤ב]] [[H0001G\|אֲבִי]][[H9028\|הֶם֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וַֽ]][[H8130\|יִּשְׂנְא֖וּ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכְל֖וּ]] [[H1696G\|דַּבְּר֥]][[H9033\|וֹ]] [[H9005\|לְ]][[H7965G\|שָׁלֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ENVY|ENVY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic PARENTS|PARENTS]] • [[topic PARTIALITY|PARTIALITY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.3|<< Genesis 37:3]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.5|Genesis 37:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

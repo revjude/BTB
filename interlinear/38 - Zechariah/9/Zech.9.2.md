@@ -1,8 +1,55 @@
+---
+title: Zechariah 9:2
+type: Verse
+kjv: "And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise."
+bsb: "and also against Hamath, which borders it, as well as Tyre and Sidon, though they are very shrewd."
+hebrew: "וְגַם־ חֲמָ֖ת תִּגְבָּל־ בָּ֑הּ צֹ֣ר וְצִיד֔וֹן כִּ֥י חָֽכְמָ֖ה מְאֹֽד׃"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2574G]]"
+- "[[H1379]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H6865]]"
+- "[[H6721H]]"
+- "[[H3588A]]"
+- "[[H2449]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:2**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.
 <small><sub>**BSB:**</sub></small>
 and also against Hamath, which borders it, as well as Tyre and Sidon, though they are very shrewd.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H2574G\|חֲמָ֖ת]] [[H1379\|תִּגְבָּל]][[H9014\|־]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H6865\|צֹ֣ר]] [[H9002\|וְ]][[H6721H\|צִיד֔וֹן]] [[H3588A\|כִּ֥י]] [[H2449\|חָֽכְמָ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.1|<< Zechariah 9:1]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.3|Zechariah 9:3 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 1:7
+type: Verse
+kjv: "And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation."
+bsb: "And our hope for you is sure, because we know that just as you share in our sufferings, so also you will share in our comfort."
+greek: "καὶ ἡ ἐλπὶς ἡμῶν βεβαία ὑπὲρ ὑμῶν· εἰδότες ὅτι ὡς κοινωνοί ἐστε τῶν παθημάτων, οὕτως καὶ τῆς παρακλήσεως.¶"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1680]]"
+- "[[G3165]]"
+- "[[G0949]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G5613]]"
+- "[[G2844]]"
+- "[[G1510]]"
+- "[[G3804]]"
+- "[[G3779]]"
+- "[[G3874]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 1:7**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And our hope of you [is] stedfast, knowing, that as ye are partakers of the sufferings, so [shall ye be] also of the consolation.
 <small><sub>**BSB:**</sub></small>
 And our hope for you is sure, because we know that just as you share in our sufferings, so also you will share in our comfort.
-<small><sub>**Literal:**</sub></small>
-And the hope of us [is] steadfast for of you; {7} knowing that as partners you are of the sufferings, so also of the comfort.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.6|<< 2 Corinthians 1:6]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.8|2 Corinthians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1680\|ἐλπὶς]]  [[G3165\|ἡμῶν]]  [[G0949\|βεβαία]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν·]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G5613\|ὡς]]  [[G2844\|κοινωνοί]]  [[G1510\|ἐστε]]  [[G3588\|τῶν]]  [[G3804\|παθημάτων,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3874\|παρακλήσεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.6|<< 2 Corinthians 1:6]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.8|2 Corinthians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

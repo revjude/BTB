@@ -1,8 +1,69 @@
+---
+title: Jeremiah 49:36
+type: Verse
+kjv: "And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come."
+bsb: "I will bring the four winds against Elam from the four corners of the heavens, and I will scatter them to all these winds. There will not be a nation to which Elam’s exiles will not go."
+hebrew: "וְהֵבֵאתִ֨י אֶל־ עֵילָ֜ם אַרְבַּ֣ע רוּח֗וֹת מֵֽאַרְבַּע֙ קְצ֣וֹת הַשָּׁמַ֔יִם וְזֵ֣רִתִ֔ים לְכֹ֖ל הָרֻח֣וֹת הָאֵ֑לֶּה וְלֹֽא־ יִהְיֶ֣ה הַגּ֔וֹי אֲשֶׁ֛ר לֹֽא־ יָב֥וֹא שָׁ֖ם נִדְּחֵ֥י עֵילָֽם׃"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5867A]]"
+- "[[H0702]]"
+- "[[H7307H]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H5080]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 49:36**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.
 <small><sub>**BSB:**</sub></small>
 I will bring the four winds against Elam from the four corners of the heavens, and I will scatter them to all these winds. There will not be a nation to which Elam’s exiles will not go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבֵאתִ֨י]] [[H0413\|אֶל]][[H9014\|־]] [[H5867A\|עֵילָ֜ם]] [[H0702\|אַרְבַּ֣ע]] [[H7307H\|רוּח֗וֹת]] [[H9006\|מֵֽ]][[H0702\|אַרְבַּע֙]] [[H7098\|קְצ֣וֹת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וְ]][[H2219\|זֵ֣רִתִ֔י]][[H9038\|ם]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H9009\|הָ]][[H7307H\|רֻח֣וֹת]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H9009\|הַ]][[H1471A\|גּ֔וֹי]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|יָב֥וֹא]] [[H8033G\|שָׁ֖ם]] [[H5080\|נִדְּחֵ֥י]] [[H5867A\|עֵילָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
@@ -31,6 +92,6 @@ I will bring the four winds against Elam from the four corners of the heavens, a
 | Elam  [^1]|**<big>&#8207;[[H5867A\|עֵילָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | o.lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
-[^1]: perpetuity  | **<big>[[H9016|׃]]</big><big>[[H5769G|עוֹלָם]]</big> ** | o.lam<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: perpetuity  | **<big>[[H5769G|עוֹלָם]]</big><big>[[H9016|׃]]</big> ** | o.lam<small><sup>[[HNcbsa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>עֵולָֽם\׃</big></span>**
 

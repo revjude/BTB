@@ -1,8 +1,52 @@
+---
+title: Job 30:19
+type: Verse
+kjv: "He hath cast me into the mire, and I am become like dust and ashes."
+bsb: "He throws me into the mud, and I have become like dust and ashes."
+hebrew: "הֹרָ֥נִי לַחֹ֑מֶר וָ֝אֶתְמַשֵּׁ֗ל כֶּעָפָ֥ר וָאֵֽפֶר׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3384A]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H2563A]]"
+- "[[H9001]]"
+- "[[H4911A]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H9002]]"
+- "[[H0665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:19**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath cast me into the mire, and I am become like dust and ashes.
 <small><sub>**BSB:**</sub></small>
 He throws me into the mud, and I have become like dust and ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3384A\|הֹרָ֥]][[H9030\|נִי]] [[H9005\|לַ]][[H2563A\|חֹ֑מֶר]] [[H9001\|וָ֝]][[H4911A\|אֶתְמַשֵּׁ֗ל]] [[H9004\|כֶּ]][[H6083\|עָפָ֥ר]] [[H9002\|וָ]][[H0665\|אֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.18|<< Job 30:18]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.20|Job 30:20 >>]]</td></tr></table>
 

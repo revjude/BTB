@@ -1,8 +1,58 @@
+---
+title: Proverbs 4:4
+type: Verse
+kjv: "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+bsb: "he taught me and said, “Let your heart lay hold of my words; keep my commands and you will live."
+hebrew: "וַיֹּרֵ֗נִי וַיֹּ֥אמֶר לִ֗י יִֽתְמָךְ־ דְּבָרַ֥י לִבֶּ֑ךָ שְׁמֹ֖ר מִצְוֹתַ֣י וֶֽחְיֵֽה׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3384B]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H8551]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:4**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.
 <small><sub>**BSB:**</sub></small>
 he taught me and said, “Let your heart lay hold of my words; keep my commands and you will live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3384B\|יֹּרֵ֗]][[H9030\|נִי]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|לִ֗]][[H9030\|י]] [[H8551\|יִֽתְמָךְ]][[H9014\|־]] [[H1697G\|דְּבָרַ֥]][[H9020\|י]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H8104G\|שְׁמֹ֖ר]] [[H4687\|מִצְוֹתַ֣]][[H9020\|י]] [[H9002\|וֶֽ]][[H2421\|חְיֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.3|<< Proverbs 4:3]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.5|Proverbs 4:5 >>]]</td></tr></table>
 

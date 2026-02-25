@@ -1,8 +1,62 @@
+---
+title: Ezekiel 10:5
+type: Verse
+kjv: "And the sound of the cherubims’ wings was heard even to the outer court, as the voice of the Almighty God when he speaketh."
+bsb: "The sound of the wings of the cherubim could be heard as far as the outer court, like the voice of God Almighty when He speaks."
+hebrew: "וְקוֹל֙ כַּנְפֵ֣י הַכְּרוּבִ֔ים נִשְׁמַ֕ע עַד־ הֶחָצֵ֖ר הַחִיצֹנָ֑ה כְּק֥וֹל אֵל־ שַׁדַּ֖י בְּדַבְּרֽוֹ׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic VISION|VISION]]"
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6963H]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H8085G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H9004]]"
+- "[[H6963A]]"
+- "[[H0410G]]"
+- "[[H7706]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:5**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sound of the cherubims’ wings was heard [even] to the outer court, as the voice of the Almighty God when he speaketh.
 <small><sub>**BSB:**</sub></small>
 The sound of the wings of the cherubim could be heard as far as the outer court, like the voice of God Almighty when He speaks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6963H\|קוֹל֙]] [[H3671\|כַּנְפֵ֣י]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֔ים]] [[H8085G\|נִשְׁמַ֕ע]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֖ר]] [[H9009\|הַ]][[H2435\|חִיצֹנָ֑ה]] [[H9004\|כְּ]][[H6963A\|ק֥וֹל]] [[H0410G\|אֵל]][[H9014\|־]] [[H7706\|שַׁדַּ֖י]] [[H9003\|בְּ]][[H1696G\|דַבְּרֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]] • [[topic VOICE|VOICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.4|<< Ezekiel 10:4]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.6|Ezekiel 10:6 >>]]</td></tr></table>
 

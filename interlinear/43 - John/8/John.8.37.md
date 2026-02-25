@@ -1,10 +1,61 @@
+---
+title: John 8:37
+type: Verse
+kjv: "I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you."
+bsb: "I know you are Abraham’s descendants, but you are trying to kill Me because My word has no place within you."
+jesus_said: "I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you."
+greek: "οἶδα ὅτι σπέρμα Ἀβραάμ ἐστε· ἀλλὰ ζητεῖτέ με ἀποκτεῖναι, ὅτι ὁ λόγος ὁ ἐμὸς οὐ χωρεῖ ἐν ὑμῖν."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G0615]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G5562]]"
+- "[[G1722]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **John 8:37**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.
 <small><sub>**BSB:**</sub></small>
 I know you are Abraham’s descendants, but you are trying to kill Me because My word has no place within you.
-<small><sub>**Literal:**</sub></small>
-I know that seed of Abraham you are; but you seek Me to kill, because the word <the> of Mine not receives a place in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.36|<< John 8:36]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.38|John 8:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G4690G\|σπέρμα]]  [[G0011\|Ἀβραάμ]]  [[G1510\|ἐστε·]]  [[G0235\|ἀλλὰ]]  [[G2212\|ζητεῖτέ]]  [[G3165\|με]]  [[G0615\|ἀποκτεῖναι,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|ὁ]]  [[G1473\|ἐμὸς]]  [[G3756\|οὐ]]  [[G5562\|χωρεῖ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.36|<< John 8:36]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.38|John 8:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

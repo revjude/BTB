@@ -1,9 +1,72 @@
+---
+title: LXX Exodus 37:1
+type: Verse
+lxx: "And Bezaleel made the ark from incorruptible wood; two cubits and a half was the length, and a cubit and a half was the width, and a cubit and a half was the height."
+greek: "και εποίησε Βεσελεήλ την κιβωτόν εκ ξύλων ασήπτων δύο πηχέων και ημίσους το μήκος και πήχεος και ημίσους το πλάτος και πήχεος και ημίσους το ύψος"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[H1212]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G1537]]"
+- "[[G3586]]"
+- "[[G6568]]"
+- "[[G1417]]"
+- "[[G4083]]"
+- "[[G2532]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G3372]]"
+- "[[G2532]]"
+- "[[G4083]]"
+- "[[G2532]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G4114]]"
+- "[[G2532]]"
+- "[[G4083]]"
+- "[[G2532]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G5311]]"
+---
+
 **LXX Exodus 37:1** 
 
 ***The Ark***
 
 <small><sub>**LXX:**</sub></small>
 And Bezaleel made the ark from incorruptible wood; two cubits and a half \[was\] the length, and a cubit and a half \[was\] the width, and a cubit and a half \[was\] the height. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|εποίησε]] [[H1212\|Βεσελεήλ]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G1537\|εκ]] [[G3586\|ξύλων]] [[G6568\|ασήπτων]] [[G1417\|δύο]] [[G4083\|πηχέων]] [[G2532\|και]] [[G2255\|ημίσους]] [[G3588\|το]] [[G3372\|μήκος]] [[G2532\|και]] [[G4083\|πήχεος]] [[G2532\|και]] [[G2255\|ημίσους]] [[G3588\|το]] [[G4114\|πλάτος]] [[G2532\|και]] [[G4083\|πήχεος]] [[G2532\|και]] [[G2255\|ημίσους]] [[G3588\|το]] [[G5311\|ύψος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BEZALEL|BEZALEL]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.38|<< Exodus 36:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.2|Exodus 37:2 >>]]</td></tr></table>
 
@@ -34,6 +97,6 @@ And Bezaleel made the ark from incorruptible wood; two cubits and a half \[was\]
 | a half | **<big>[[G2255\|ημίσους]]</big>** |
 | \[was\] the | **<big>[[G3588\|το]]</big>** |
 | height. | **<big>[[G5311\|ύψος]]</big>** |
-[[Exod.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.38|<< Exodus 36:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.2|Exodus 37:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.38|<< Exodus 36:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.2|Exodus 37:2 >>]]</td></tr></table>
 
 

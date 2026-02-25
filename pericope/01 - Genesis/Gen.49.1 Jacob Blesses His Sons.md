@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Blesses His Sons
+type: Pericope
 pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 49
 book/chapter: "[[Gen.49|Genesis 49]]"
-genre:
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 28
 verses:
 - "[[Gen.49.1]]"
 - "[[Gen.49.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Gen.49.28]]"
 ---
 
-[[Gen.49|Genesis 49:1 - Genesis 49:28]]
+<small>[[Gen.49|Genesis 49:1-28]]</small>
 *Jacob Blesses His Sons*
 
 [[Gen.49.1|1]] And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you \[that\] which shall befall you in the last days.

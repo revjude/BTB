@@ -1,10 +1,63 @@
+---
+title: Revelation 13:3
+type: Verse
+kjv: "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast."
+bsb: "One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast."
+greek: "καὶ εἶδον μίαν ἐκ τῶν κεφαλῶν αὐτοῦ ὡς ἐσφαγμένην εἰς θάνατον, καὶ ἡ πληγὴ τοῦ θανάτου αὐτοῦ ἐθεραπεύθη, καὶ ἐθαυμάσθη ἐν ὅλη ἡ γῆ ὀπίσω τοῦ θηρίου."
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G4969]]"
+- "[[G1519]]"
+- "[[G2288]]"
+- "[[G4127]]"
+- "[[G2323]]"
+- "[[G2296]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G1093G]]"
+- "[[G3694]]"
+- "[[G2342]]"
+texts:
+- NKO
+- K
+- NK(o)
+- ko
+---
+
 **Revelation 13:3**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
 <small><sub>**BSB:**</sub></small>
 One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.
-<small><sub>**Literal:**</sub></small>
-And I saw one of the heads of it [was] as slain to death, And the wound the of death of it was healed, and marveled in all [on] the earth after the beast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.2|<< Revelation 13:2]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.4|Revelation 13:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G1520\|μίαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2776\|κεφαλῶν]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G4969\|ἐσφαγμένην]]  [[G1519\|εἰς]]  [[G2288\|θάνατον,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4127\|πληγὴ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G0846\|αὐτοῦ]]  [[G2323\|ἐθεραπεύθη,]]  [[G2532\|καὶ]]  [[G2296\|ἐθαυμάσθη]]  [[G1722\|ἐν]]  [[G3650\|ὅλη]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3694\|ὀπίσω]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.2|<< Revelation 13:2]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.4|Revelation 13:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Lamentations 5:5
+type: Verse
+kjv: "Our necks are under persecution: we labour, and have no rest."
+bsb: "We are closely pursued; we are weary and find no rest."
+hebrew: "עַ֤ל צַוָּארֵ֙נוּ֙ נִרְדָּ֔פְנוּ יָגַ֖עְנוּ וְלֹ֥א הֽוּנַֽח לָֽנוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H9025]]"
+- "[[H7291]]"
+- "[[H3021]]"
+- "[[H3808]]"
+- "[[H9002]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 5:5**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our necks [are] under persecution: we labour, [and] have no rest.
 <small><sub>**BSB:**</sub></small>
 We are closely pursued; we are weary and find no rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֤ל]] [[H6677A\|צַוָּארֵ֙]][[H9025\|נוּ֙]] [[H7291\|נִרְדָּ֔פְנוּ]] [[H3021\|יָגַ֖עְנוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5117\|הֽוּנַֽח]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.4|<< Lamentations 5:4]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.6|Lamentations 5:6 >>]]</td></tr></table>
 

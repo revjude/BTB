@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 7:9
+type: Verse
+kjv: "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak."
+bsb: "and your mouth like the finest wine. May it flow smoothly to my beloved, gliding gently over lips and teeth."
+hebrew: "וְחִכֵּ֕ךְ כְּיֵ֥ין הַטּ֛וֹב הוֹלֵ֥ךְ לְדוֹדִ֖י לְמֵישָׁרִ֑ים דּוֹבֵ֖ב שִׂפְתֵ֥י יְשֵׁנִֽים׃"
+pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H9002]]"
+- "[[H2441]]"
+- "[[H9022]]"
+- "[[H9004]]"
+- "[[H3196]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H4339]]"
+- "[[H1680]]"
+- "[[H8193G]]"
+- "[[H3463]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 7:9**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the roof of thy mouth like the best wine for my beloved, that goeth [down] sweetly, causing the lips of those that are asleep to speak.
 <small><sub>**BSB:**</sub></small>
 and your mouth like the finest wine. May it flow smoothly to my beloved, gliding gently over lips and teeth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2441\|חִכֵּ֕]][[H9022\|ךְ]] [[H9004\|כְּ]][[H3196\|יֵ֥ין]] [[H9009\|הַ]][[H2896A\|טּ֛וֹב]] [[H1980G\|הוֹלֵ֥ךְ]] [[H9005\|לְ]][[H1730G\|דוֹדִ֖]][[H9020\|י]] [[H9005\|לְ]][[H4339\|מֵישָׁרִ֑ים]] [[H1680\|דּוֹבֵ֖ב]] [[H8193G\|שִׂפְתֵ֥י]] [[H3463\|יְשֵׁנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.8|<< Song of Solomon 7:8]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.10|Song of Solomon 7:10 >>]]</td></tr></table>
 

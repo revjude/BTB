@@ -1,8 +1,66 @@
+---
+title: Jeremiah 21:13
+type: Verse
+kjv: "Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?"
+bsb: "Behold, I am against you who dwell above the valley, atop the rocky plateau—declares the LORD—you who say, “Who can come against us? Who can enter our dwellings?”"
+hebrew: "הִנְנִ֨י אֵלַ֜יִךְ יֹשֶׁ֧בֶת הָעֵ֛מֶק צ֥וּר הַמִּישֹׁ֖ר נְאֻם־ יְהוָ֑ה הָאֹֽמְרִים֙ מִֽי־ יֵחַ֣ת עָלֵ֔ינוּ וּמִ֥י יָב֖וֹא בִּמְעוֹנוֹתֵֽינוּ׃"
+pericope: "[[Jer.21.11 A Message to the House of David|A Message to the House of David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H6010R]]"
+- "[[H6697H]]"
+- "[[H4334]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H5181]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H4585]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:13**<big><big>[[Jer.21.11 A Message to the House of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, O inhabitant of the valley, [and] rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?
 <small><sub>**BSB:**</sub></small>
 Behold, I am against you who dwell above the valley, atop the rocky plateau—declares the LORD—you who say, “Who can come against us? Who can enter our dwellings?”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0413\|אֵלַ֜יִ]][[H9032\|ךְ]] [[H3427\|יֹשֶׁ֧בֶת]] [[H9009\|הָ]][[H6010R\|עֵ֛מֶק]] [[H6697H\|צ֥וּר]] [[H9009\|הַ]][[H4334\|מִּישֹׁ֖ר]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9009\|הָ]][[H0559\|אֹֽמְרִים֙]] [[H4310\|מִֽי]][[H9014\|־]] [[H5181\|יֵחַ֣ת]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H0935G\|יָב֖וֹא]] [[H9003\|בִּ]][[H4585\|מְעוֹנוֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic SECURITY|SECURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.12|<< Jeremiah 21:12]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.14|Jeremiah 21:14 >>]]</td></tr></table>
 

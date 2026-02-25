@@ -1,8 +1,69 @@
+---
+title: Genesis 46:20
+type: Verse
+kjv: "And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him."
+bsb: "Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On."
+hebrew: "וַיִּוָּלֵ֣ד לְיוֹסֵף֮ בְּאֶ֣רֶץ מִצְרַיִם֒ אֲשֶׁ֤ר יָֽלְדָה־ לּוֹ֙ אָֽסְנַ֔ת בַּת־ פּ֥וֹטִי פֶ֖רַע כֹּהֵ֣ן אֹ֑ן אֶת־ מְנַשֶּׁ֖ה וְאֶת־ אֶפְרָֽיִם׃"
+pericope: "[[Gen.46.19 The Children of Rachel|The Children of Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASENATH|ASENATH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic ON|ON]]"
+- "[[topic POTI-PHERAH|POTI-PHERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H0621]]"
+- "[[H1323G]]"
+- "[[H6319]]"
+- "[[H3548]]"
+- "[[H0204]]"
+- "[[H0853]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:20**<big><big>[[Gen.46.19 The Children of Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
 <small><sub>**BSB:**</sub></small>
 Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|יִּוָּלֵ֣ד]] [[H9005\|לְ]][[H3130G\|יוֹסֵף֮]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H0834A\|אֲשֶׁ֤ר]] [[H3205\|יָֽלְדָה]][[H9014\|־]] [[H9005\|לּ]][[H9033\|וֹ֙]] [[H0621\|אָֽסְנַ֔ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H6319\|פּ֥וֹטִי]] [[H6319\|פֶ֖רַע]] [[H3548\|כֹּהֵ֣ן]] [[H0204\|אֹ֑ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASENATH|ASENATH]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic MANASSEH|MANASSEH]] • [[topic ON|ON]] • [[topic POTI-PHERAH|POTI-PHERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.19|<< Genesis 46:19]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.21|Genesis 46:21 >>]]</td></tr></table>
 

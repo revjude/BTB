@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Destroys Idolatry
+type: Pericope
 pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 23
 book/chapter: "[[2Kgs.23|2 Kings 23]]"
-genre:
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 17
 verses:
 - "[[2Kgs.23.4]]"
 - "[[2Kgs.23.5]]"
@@ -35,7 +42,7 @@ verses:
 - "[[2Kgs.23.20]]"
 ---
 
-[[2Kgs.23|2 Kings 23:4 - 2 Kings 23:20]]
+<small>[[2Kgs.23|2 Kings 23:4-20]]</small>
 *Josiah Destroys Idolatry*
 
 [[2Kgs.23.4|4]] And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.

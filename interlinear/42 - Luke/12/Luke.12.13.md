@@ -1,10 +1,56 @@
+---
+title: Luke 12:13
+type: Verse
+kjv: "And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me."
+bsb: "Someone in the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.”"
+greek: "Εἶπεν δέ τις ἐκ τοῦ ὄχλου αὐτῷ· διδάσκαλε, εἰπὲ τῷ ἀδελφῷ μου μερίσασθαι μετ᾽ ἐμοῦ τὴν κληρονομίαν."
+pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G3307]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2817]]"
+texts:
+- NKO
+---
+
 **Luke 12:13**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
 <small><sub>**BSB:**</sub></small>
 Someone in the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.”
-<small><sub>**Literal:**</sub></small>
-Said then one from the crowd to Him: Teacher, do say to the brother of mine to divide with me the inheritance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.12|<< Luke 12:12]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.14|Luke 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G2036\|εἰπὲ]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G3165\|μου]]  [[G3307\|μερίσασθαι]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G3588\|τὴν]]  [[G2817\|κληρονομίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.12|<< Luke 12:12]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.14|Luke 12:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

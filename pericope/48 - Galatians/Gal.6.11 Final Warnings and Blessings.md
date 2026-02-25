@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Warnings and Blessings
+type: Pericope
 pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 6
 book/chapter: "[[Gal.6|Galatians 6]]"
-genre:
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 8
 verses:
 - "[[Gal.6.11]]"
 - "[[Gal.6.12]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gal.6.18]]"
 ---
 
-[[Gal.6|Galatians 6:11 - Galatians 6:18]]
+<small>[[Gal.6|Galatians 6:11-18]]</small>
 *Final Warnings and Blessings*
 
 [[Gal.6.11|11]] Ye see how large a letter I have written unto you with mine own hand.

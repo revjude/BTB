@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Suffering and Service
+type: Pericope
 pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 11
 book/chapter: "[[2Cor.11|2 Corinthians 11]]"
-genre:
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 18
 verses:
 - "[[2Cor.11.16]]"
 - "[[2Cor.11.17]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Cor.11.33]]"
 ---
 
-[[2Cor.11|2 Corinthians 11:16 - 2 Corinthians 11:33]]
+<small>[[2Cor.11|2 Corinthians 11:16-33]]</small>
 *Paul’s Suffering and Service*
 
 [[2Cor.11.16|16]] I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.

@@ -1,8 +1,77 @@
+---
+title: 1 Kings 21:10
+type: Verse
+kjv: "And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die."
+bsb: "But seat two scoundrels opposite him and have them testify, ‘You have cursed both God and the king!’ Then take him out and stone him to death.”"
+hebrew: "וְ֠הוֹשִׁיבוּ שְׁנַ֨יִם אֲנָשִׁ֥ים בְּנֵֽי־ בְלִיַּעַל֮ נֶגְדּוֹ֒ וִיעִדֻ֣הוּ לֵאמֹ֔ר בֵּרַ֥כְתָּ אֱלֹהִ֖ים וָמֶ֑לֶךְ וְהוֹצִיאֻ֥הוּ וְסִקְלֻ֖הוּ וְיָמֹֽת׃"
+pericope: "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H8147]]"
+- "[[H0582]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1100G]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H5749B]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H4428G]]"
+- "[[H3318H]]"
+- "[[H5619]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:10**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And [then] carry him out, and stone him, that he may die.
 <small><sub>**BSB:**</sub></small>
 But seat two scoundrels opposite him and have them testify, ‘You have cursed both God and the king!’ Then take him out and stone him to death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H3427\|הוֹשִׁיבוּ]] [[H8147\|שְׁנַ֨יִם]] [[H0582\|אֲנָשִׁ֥ים]] [[H1121H\|בְּנֵֽי]][[H9014\|־]] [[H1100G\|בְלִיַּעַל֮]] [[H5048\|נֶגְדּ]][[H9033\|וֹ֒]] [[H9002\|וִ]][[H5749B\|יעִדֻ֣]][[H9033\|הוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1288\|בֵּרַ֥כְתָּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וָ]][[H4428G\|מֶ֑לֶךְ]] [[H9002\|וְ]][[H3318H\|הוֹצִיאֻ֥]][[H9033\|הוּ]] [[H9002\|וְ]][[H5619\|סִקְלֻ֖]][[H9033\|הוּ]] [[H9002\|וְ]][[H4191\|יָמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CONFISCATION|CONFISCATION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic PERJURY|PERJURY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SLANDER|SLANDER]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.9|<< 1 Kings 21:9]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.11|1 Kings 21:11 >>]]</td></tr></table>
 

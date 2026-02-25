@@ -1,8 +1,72 @@
+---
+title: Habakkuk 1:13
+type: Verse
+kjv: "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?"
+bsb: "Your eyes are too pure to look upon evil, and You cannot tolerate wrongdoing. So why do You tolerate the faithless? Why are You silent while the wicked swallow up those more righteous than themselves?"
+hebrew: "טְה֤וֹר עֵינַ֙יִם֙ מֵרְא֣וֹת רָ֔ע וְהַבִּ֥יט אֶל־ עָמָ֖ל לֹ֣א תוּכָ֑ל לָ֤מָּה תַבִּיט֙ בּֽוֹגְדִ֔ים תַּחֲרִ֕ישׁ בְּבַלַּ֥ע רָשָׁ֖ע צַדִּ֥יק מִמֶּֽנּוּ׃"
+pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic EYE|EYE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2890]]"
+- "[[H5869A]]"
+- "[[H9006]]"
+- "[[H7200G]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5999]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0898]]"
+- "[[H2790B]]"
+- "[[H9003]]"
+- "[[H1104]]"
+- "[[H7563]]"
+- "[[H6662]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:13**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thou art] of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, [and] holdest thy tongue when the wicked devoureth [the man that is] more righteous than he?
 <small><sub>**BSB:**</sub></small>
 Your eyes are too pure to look upon evil, and You cannot tolerate wrongdoing. So why do You tolerate the faithless? Why are You silent while the wicked swallow up those more righteous than themselves?
+<small><sub>**Hebrew:**</sub></small>
+[[H2890\|טְה֤וֹר]] [[H5869A\|עֵינַ֙יִם֙]] [[H9006\|מֵ]][[H7200G\|רְא֣וֹת]] [[H7451H\|רָ֔ע]] [[H9002\|וְ]][[H5027\|הַבִּ֥יט]] [[H0413\|אֶל]][[H9014\|־]] [[H5999\|עָמָ֖ל]] [[H3808\|לֹ֣א]] [[H3201\|תוּכָ֑ל]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H5027\|תַבִּיט֙]] [[H0898\|בּֽוֹגְדִ֔ים]] [[H2790B\|תַּחֲרִ֕ישׁ]] [[H9003\|בְּ]][[H1104\|בַלַּ֥ע]] [[H7563\|רָשָׁ֖ע]] [[H6662\|צַדִּ֥יק]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic EYE|EYE]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.12|<< Habakkuk 1:12]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.14|Habakkuk 1:14 >>]]</td></tr></table>
 

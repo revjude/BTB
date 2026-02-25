@@ -1,10 +1,62 @@
+---
+title: Luke 2:51
+type: Verse
+kjv: "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart."
+bsb: "Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart."
+greek: "καὶ κατέβη μετ᾽ αὐτῶν καὶ ἦλθεν εἰς Ναζαρὲθ καὶ ἦν ὑποτασσόμενος αὐτοῖς. καὶ ἡ μήτηρ αὐτοῦ διετήρει πάντα τὰ ῥήματα ταῦτα ἐν τῇ καρδίᾳ αὐτῆς.¶"
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARY|MARY]]"
+- "[[topic NAZARETH|NAZARETH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3478]]"
+- "[[G1510]]"
+- "[[G5293]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1301]]"
+- "[[G3956]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G2588]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 2:51**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
 <small><sub>**BSB:**</sub></small>
 Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart.
-<small><sub>**Literal:**</sub></small>
-And He went down with them and He came to Nazareth and He was subject to them. And the mother of Him was treasuring up all <the> declaration these in the heart of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.50|<< Luke 2:50]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.52|Luke 2:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2597\|κατέβη]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3478\|Ναζαρὲθ]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G5293\|ὑποτασσόμενος]]  [[G0846\|αὐτοῖς.]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ]]  [[G1301\|διετήρει]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3778\|ταῦτα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARY|MARY]] • [[topic NAZARETH|NAZARETH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.50|<< Luke 2:50]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.52|Luke 2:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

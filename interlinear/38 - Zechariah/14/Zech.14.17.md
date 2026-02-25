@@ -1,8 +1,72 @@
+---
+title: Zechariah 14:17
+type: Verse
+kjv: "And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain."
+bsb: "And should any of the families of the earth not go up to Jerusalem to worship the King, the LORD of Hosts, then the rain will not fall on them."
+hebrew: "וְ֠הָיָה אֲשֶׁ֨ר לֹֽא־ יַעֲלֶ֜ה מֵאֵ֨ת מִשְׁפְּח֤וֹת הָאָ֙רֶץ֙ אֶל־ יְר֣וּשָׁלִַ֔ם לְהִֽשְׁתַּחֲוֹ֔ת לְמֶ֖לֶךְ יְהוָ֣ה צְבָא֑וֹת וְלֹ֥א עֲלֵיהֶ֖ם יִהְיֶ֥ה הַגָּֽשֶׁם׃"
+pericope: "[[Zech.14.16 All Nations Will Worship the King|All Nations Will Worship the King]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0413]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H7812]]"
+- "[[H4428G]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:17**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] whoso will not come up of [all] the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.
 <small><sub>**BSB:**</sub></small>
 And should any of the families of the earth not go up to Jerusalem to worship the King, the LORD of Hosts, then the rain will not fall on them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H1961\|הָיָה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֜ה]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H4940\|מִשְׁפְּח֤וֹת]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9005\|לְ]][[H7812\|הִֽשְׁתַּחֲוֹ֔ת]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H1961\|יִהְיֶ֥ה]] [[H9009\|הַ]][[H1653\|גָּֽשֶׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RAIN|RAIN]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.16|<< Zechariah 14:16]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.18|Zechariah 14:18 >>]]</td></tr></table>
 

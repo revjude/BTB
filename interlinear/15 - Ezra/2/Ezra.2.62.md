@@ -1,8 +1,56 @@
+---
+title: Ezra 2:62
+type: Verse
+kjv: "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+bsb: "These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean."
+hebrew: "אֵ֗לֶּה בִּקְשׁ֧וּ כְתָבָ֛ם הַמִּתְיַחְשִׂ֖ים וְלֹ֣א נִמְצָ֑אוּ וַֽיְגֹאֲל֖וּ מִן־ הַכְּהֻנָּֽה׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0428]]"
+- "[[H1245]]"
+- "[[H3791]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H3187]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9001]]"
+- "[[H1351]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3550]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:62**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These sought their register [among] those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood.
 <small><sub>**BSB:**</sub></small>
 These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֗לֶּה]] [[H1245\|בִּקְשׁ֧וּ]] [[H3791\|כְתָבָ֛]][[H9028\|ם]] [[H9009\|הַ]][[H3187\|מִּתְיַחְשִׂ֖ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|נִמְצָ֑אוּ]] [[H9001\|וַֽ]][[H1351\|יְגֹאֲל֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3550\|כְּהֻנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.61|<< Ezra 2:61]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.63|Ezra 2:63 >>]]</td></tr></table>
 

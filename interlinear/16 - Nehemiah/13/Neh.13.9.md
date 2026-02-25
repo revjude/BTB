@@ -1,8 +1,64 @@
+---
+title: Nehemiah 13:9
+type: Verse
+kjv: "Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense."
+bsb: "Then I ordered that the rooms be purified, and I had the articles of the house of God restored to them, along with the grain offerings and frankincense."
+hebrew: "וָאֹ֣מְרָ֔ה וַֽיְטַהֲר֖וּ הַלְּשָׁכ֑וֹת וָאָשִׁ֣יבָה שָּׁ֗ם כְּלֵי֙ בֵּ֣ית הָאֱלֹהִ֔ים אֶת־ הַמִּנְחָ֖ה וְהַלְּבוֹנָֽה׃ פ"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H2891]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H7725G]]"
+- "[[H8033G]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H3828]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 13:9**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.
 <small><sub>**BSB:**</sub></small>
 Then I ordered that the rooms be purified, and I had the articles of the house of God restored to them, along with the grain offerings and frankincense.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹ֣מְרָ֔]][[H9012\|ה]] [[H9001\|וַֽ]][[H2891\|יְטַהֲר֖וּ]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֑וֹת]] [[H9001\|וָ]][[H7725G\|אָשִׁ֣יבָ]][[H9012\|ה]] [[H8033G\|שָּׁ֗ם]] [[H3627\|כְּלֵי֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3828\|לְּבוֹנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.8|<< Nehemiah 13:8]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.10|Nehemiah 13:10 >>]]</td></tr></table>
 
@@ -18,7 +74,7 @@ Then I ordered that the rooms be purified, and I had the articles of the house o
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the grain offering  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4503G\|מִּנְחָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the frankincense  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3828\|לְּבוֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.vo.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the frankincense  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3828\|לְּבוֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.vo.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.8|<< Nehemiah 13:8]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.10|Nehemiah 13:10 >>]]</td></tr></table>
 
 

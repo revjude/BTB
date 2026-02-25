@@ -1,10 +1,56 @@
+---
+title: 2 Timothy 1:1
+type: Verse
+kjv: "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"
+bsb: "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,"
+greek: "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ κατ᾽ ἐπαγγελίαν ζωῆς τῆς ἐν Χριστῷ Ἰησοῦ"
+pericope: "[[2Tim.1.1 Paul’s Greeting to Timothy|Paul’s Greeting to Timothy]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G3972G]]"
+- "[[G0652]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G2596]]"
+- "[[G1860]]"
+- "[[G2222]]"
+- "[[G3588]]"
+- "[[G1722]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:1**<big><big>[[2Tim.1.1 Paul’s Greeting to Timothy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,
-<small><sub>**Literal:**</sub></small>
-Paul an apostle of Christ Jesus through [the] will of God according to [the] promise of life <the> in Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.21|<< 1 Timothy 6:21]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.2|2 Timothy 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G0652\|ἀπόστολος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]  [[G2596\|κατ᾽]]  [[G1860\|ἐπαγγελίαν]]  [[G2222\|ζωῆς]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.21|<< 1 Timothy 6:21]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.2|2 Timothy 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

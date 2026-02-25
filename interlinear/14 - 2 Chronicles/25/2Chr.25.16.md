@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 25:16
+type: Verse
+kjv: "And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel."
+bsb: "While he was still speaking, the king asked, “Have we made you the counselor to the king? Stop! Why be struck down?” So the prophet stopped, but he said, “I know that God has determined to destroy you, because you have done this and have not heeded my advice.”"
+hebrew: "וַיְהִ֣י׀ בְּדַבְּר֣וֹ אֵלָ֗יו וַיֹּ֤אמֶר לוֹ֙ הַלְיוֹעֵ֤ץ לַמֶּ֙לֶךְ֙ נְתַנּ֔וּךָ חֲדַל־ לְךָ֖ לָ֣מָּה יַכּ֑וּךָ וַיֶּחְדַּ֣ל הַנָּבִ֗יא וַיֹּ֙אמֶר֙ יָדַ֗עְתִּי כִּֽי־ יָעַ֤ץ אֱלֹהִים֙ לְהַשְׁחִיתֶ֔ךָ כִּֽי־ עָשִׂ֣יתָ זֹּ֔את וְלֹ֥א שָׁמַ֖עְתָּ לַעֲצָתִֽי׃ פ"
+pericope: "[[2Chr.25.14 Amaziah Rebuked for Idolatry|Amaziah Rebuked for Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9008]]"
+- "[[H3289]]"
+- "[[H4428G]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H2308]]"
+- "[[H9014]]"
+- "[[H4100]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H7843]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H6098]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:16**<big><big>[[2Chr.25.14 Amaziah Rebuked for Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he talked with him, that [the king] said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
 <small><sub>**BSB:**</sub></small>
 While he was still speaking, the king asked, “Have we made you the counselor to the king? Stop! Why be struck down?” So the prophet stopped, but he said, “I know that God has determined to destroy you, because you have done this and have not heeded my advice.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בְּ]][[H1696G\|דַבְּר֣]][[H9043\|וֹ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9008\|הַ]][[H9005\|לְ]][[H3289\|יוֹעֵ֤ץ]] [[H9005\|לַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H5414I\|נְתַנּ֔וּ]][[H9031\|ךָ]] [[H2308\|חֲדַל]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H5221\|יַכּ֑וּ]][[H9031\|ךָ]] [[H9001\|וַ]][[H2308\|יֶּחְדַּ֣ל]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3045\|יָדַ֗עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3289\|יָעַ֤ץ]] [[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H7843\|הַשְׁחִיתֶ֔]][[H9031\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|עָשִׂ֣יתָ]] [[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֖עְתָּ]] [[H9005\|לַ]][[H6098\|עֲצָתִֽ]][[H9020\|י]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.15|<< 2 Chronicles 25:15]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.17|2 Chronicles 25:17 >>]]</td></tr></table>
 
@@ -33,7 +99,7 @@ While he was still speaking, the king asked, “Have we made you the counselor t
 | this  |**<big>&#8207;[[H2063\|זֹּ֔את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have listened  |**<big>&#8207;[[H8085G\|שָׁמַ֖עְתָּ]]&#8207; </big>**| sha.Ma'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to counsel my  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6098\|עֲצָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.tza.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to counsel my  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6098\|עֲצָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.tza.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.15|<< 2 Chronicles 25:15]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.17|2 Chronicles 25:17 >>]]</td></tr></table>
 
 

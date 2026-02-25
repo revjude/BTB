@@ -1,10 +1,69 @@
+---
+title: Luke 12:15
+type: Verse
+kjv: "And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth."
+bsb: "And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”"
+jesus_said: "Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth."
+greek: "Εἶπεν δὲ πρὸς αὐτούς· ὁρᾶτε καὶ φυλάσσεσθε ἀπὸ πάσης πλεονεξίας, ὅτι οὐκ ἐν τῷ περισσεύειν τινὶ ἡ ζωὴ αὐτοῦ ἐστιν ἐκ τῶν ὑπαρχόντων αὐτῷ.¶"
+pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3708]]"
+- "[[G2532]]"
+- "[[G5442I]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G4124]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4052]]"
+- "[[G5100]]"
+- "[[G2222]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G5225]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 12:15**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.
 <small><sub>**BSB:**</sub></small>
 And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”
-<small><sub>**Literal:**</sub></small>
-He said then to them; do watch and do keep yourselves from all covetousness, for not in the abounding to anyone the life to him is of the possessions of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.14|<< Luke 12:14]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.16|Luke 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3708\|ὁρᾶτε]]  [[G2532\|καὶ]]  [[G5442I\|φυλάσσεσθε]]  [[G0575\|ἀπὸ]]  [[G3956\|πάσης]]  [[G4124\|πλεονεξίας,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4052\|περισσεύειν]]  [[G5100\|τινὶ]]  [[G3588\|ἡ]]  [[G2222\|ζωὴ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5225\|ὑπαρχόντων]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.14|<< Luke 12:14]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.16|Luke 12:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

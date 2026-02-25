@@ -1,8 +1,64 @@
+---
+title: Ruth 4:8
+type: Verse
+kjv: "Therefore the kinsman said unto Boaz, Buy it for thee. So he drew off his shoe."
+bsb: "So the kinsman-redeemer removed his sandal and said to Boaz, “Buy it for yourself.”"
+hebrew: "וַיֹּ֧אמֶר הַגֹּאֵ֛ל לְבֹ֖עַז קְנֵה־ לָ֑ךְ וַיִּשְׁלֹ֖ף נַעֲלֽוֹ׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1350A]]"
+- "[[H9005]]"
+- "[[H1162G]]"
+- "[[H7069]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H8025]]"
+- "[[H5275]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:8**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the kinsman said unto Boaz, Buy [it] for thee. So he drew off his shoe.
 <small><sub>**BSB:**</sub></small>
 So the kinsman-redeemer removed his sandal and said to Boaz, “Buy it for yourself.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9009\|הַ]][[H1350A\|גֹּאֵ֛ל]] [[H9005\|לְ]][[H1162G\|בֹ֖עַז]] [[H7069\|קְנֵה]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9001\|וַ]][[H8025\|יִּשְׁלֹ֖ף]] [[H5275\|נַעֲלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic DOWRY|DOWRY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SHOE|SHOE]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.7|<< Ruth 4:7]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.9|Ruth 4:9 >>]]</td></tr></table>
 

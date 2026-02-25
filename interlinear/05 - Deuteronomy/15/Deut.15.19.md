@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 15:19
+type: Verse
+kjv: "All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep."
+bsb: "You must set apart to the LORD your God every firstborn male produced by your herds and flocks. You are not to put the firstborn of your oxen to work, nor are you to shear the firstborn of your flock."
+hebrew: "כָּֽל־ הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃"
+pericope: "[[Deut.15.19 Firstborn Animals|Firstborn Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9003]]"
+- "[[H1241]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H2145]]"
+- "[[H6942H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H5647I]]"
+- "[[H7794]]"
+- "[[H1494]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:19**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.
 <small><sub>**BSB:**</sub></small>
 You must set apart to the LORD your God every firstborn male produced by your herds and flocks. You are not to put the firstborn of your oxen to work, nor are you to shear the firstborn of your flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H1060\|בְּכ֡וֹר]] [[H0834A\|אֲשֶׁר֩]] [[H3205\|יִוָּלֵ֨ד]] [[H9003\|בִּ]][[H1241\|בְקָרְ]][[H9021\|ךָ֤]] [[H9002\|וּ]][[H9003\|בְ]][[H6629G\|צֹֽאנְ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H2145\|זָּכָ֔ר]] [[H6942H\|תַּקְדִּ֖ישׁ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H3808\|לֹ֤א]] [[H5647I\|תַעֲבֹד֙]] [[H9003\|בִּ]][[H1060\|בְכֹ֣ר]] [[H7794\|שׁוֹרֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1494\|תָגֹ֖ז]] [[H1060\|בְּכ֥וֹר]] [[H6629G\|צֹאנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.18|<< Deuteronomy 15:18]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.20|Deuteronomy 15:20 >>]]</td></tr></table>
 

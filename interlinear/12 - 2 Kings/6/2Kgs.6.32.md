@@ -1,8 +1,89 @@
+---
+title: 2 Kings 6:32
+type: Verse
+kjv: "But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master’s feet behind him?"
+bsb: "Now Elisha was sitting in his house, and the elders were sitting with him. The king sent a messenger ahead, but before he arrived, Elisha said to the elders, “Do you see how this murderer has sent someone to cut off my head? Look, when the messenger comes, shut the door to keep him out. Is not the sound of his master’s footsteps behind him?”"
+hebrew: "וֶאֱלִישָׁע֙ יֹשֵׁ֣ב בְּבֵית֔וֹ וְהַזְּקֵנִ֖ים יֹשְׁבִ֣ים אִתּ֑וֹ וַיִּשְׁלַ֨ח אִ֜ישׁ מִלְּפָנָ֗יו בְּטֶ֣רֶם יָבֹא֩ הַמַּלְאָ֨ךְ אֵלָ֜יו וְה֣וּא׀ אָמַ֣ר אֶל־ הַזְּקֵנִ֗ים הַרְּאִיתֶם֙ כִּֽי־ שָׁלַ֞ח בֶּן־ הַֽמְרַצֵּ֤חַ הַזֶּה֙ לְהָסִ֣יר אֶת־ רֹאשִׁ֔י רְא֣וּ׀ כְּבֹ֣א הַמַּלְאָ֗ךְ סִגְר֤וּ הַדֶּ֙לֶת֙ וּלְחַצְתֶּ֤ם אֹתוֹ֙ בַּדֶּ֔לֶת הֲל֗וֹא ק֛וֹל רַגְלֵ֥י אֲדֹנָ֖יו אַחֲרָֽיו׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0477]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2962]]"
+- "[[H0935G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9008]]"
+- "[[H7200I]]"
+- "[[H3588A]]"
+- "[[H1121K]]"
+- "[[H7523]]"
+- "[[H2088]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H3905]]"
+- "[[H3808]]"
+- "[[H6963H]]"
+- "[[H7272]]"
+- "[[H0113]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:32**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Elisha sat in his house, and the elders sat with him; and [the king] sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: [is] not the sound of his master’s feet behind him?
 <small><sub>**BSB:**</sub></small>
 Now Elisha was sitting in his house, and the elders were sitting with him. The king sent a messenger ahead, but before he arrived, Elisha said to the elders, “Do you see how this murderer has sent someone to cut off my head? Look, when the messenger comes, shut the door to keep him out. Is not the sound of his master’s footsteps behind him?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶ]][[H0477\|אֱלִישָׁע֙]] [[H3427\|יֹשֵׁ֣ב]] [[H9003\|בְּ]][[H1004B\|בֵית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H2205G\|זְּקֵנִ֖ים]] [[H3427\|יֹשְׁבִ֣ים]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָ֗י]][[H9023\|ו]] [[H9003\|בְּ]][[H2962\|טֶ֣רֶם]] [[H0935G\|יָבֹא֩]] [[H9009\|הַ]][[H4397G\|מַּלְאָ֨ךְ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9002\|וְ]][[H1931\|ה֣וּא]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֗ים]] [[H9008\|הַ]][[H7200I\|רְּאִיתֶם֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7971G\|שָׁלַ֞ח]] [[H1121K\|בֶּן]][[H9014\|־]] [[H9009\|הַֽ]][[H7523\|מְרַצֵּ֤חַ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9005\|לְ]][[H5493G\|הָסִ֣יר]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשִׁ֔]][[H9020\|י]] [[H7200I\|רְא֣וּ]][[H9015\|׀]] [[H9004\|כְּ]][[H0935G\|בֹ֣א]] [[H9009\|הַ]][[H4397G\|מַּלְאָ֗ךְ]] [[H5462\|סִגְר֤וּ]] [[H9009\|הַ]][[H1817C\|דֶּ֙לֶת֙]] [[H9001\|וּ]][[H3905\|לְחַצְתֶּ֤ם]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9003\|בַּ]][[H1817C\|דֶּ֔לֶת]] [[H9008\|הֲ]][[H3808\|ל֗וֹא]] [[H6963H\|ק֛וֹל]] [[H7272\|רַגְלֵ֥י]] [[H0113\|אֲדֹנָ֖י]][[H9023\|ו]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELISHA|ELISHA]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic PROPHETS|PROPHETS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.31|<< 2 Kings 6:31]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.33|2 Kings 6:33 >>]]</td></tr></table>
 

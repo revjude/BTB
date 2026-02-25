@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cup of God’s Wrath
+type: Pericope
 pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 25
 book/chapter: "[[Jer.25|Jeremiah 25]]"
-genre:
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 19
 verses:
 - "[[Jer.25.15]]"
 - "[[Jer.25.16]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Jer.25.33]]"
 ---
 
-[[Jer.25|Jeremiah 25:15 - Jeremiah 25:33]]
+<small>[[Jer.25|Jeremiah 25:15-33]]</small>
 *The Cup of God’s Wrath*
 
 [[Jer.25.15|15]] For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.

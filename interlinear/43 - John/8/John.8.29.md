@@ -1,10 +1,58 @@
+---
+title: John 8:29
+type: Verse
+kjv: "And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him."
+bsb: "He who sent Me is with Me. He has not left Me alone, because I always do what pleases Him.”"
+jesus_said: "And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him."
+greek: "καὶ ὁ πέμψας με μετ᾽ ἐμοῦ ἐστιν· οὐκ ἀφῆκέν με μόνον ὁ πατήρ, ὅτι ἐγὼ τὰ ἀρεστὰ αὐτῷ ποιῶ πάντοτε."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G0863G]]"
+- "[[G3441]]"
+- "[[G3962]]"
+- "[[G3754H]]"
+- "[[G0701]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G3842]]"
+texts:
+- NKO
+- K
+---
+
 **John 8:29**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
 <small><sub>**BSB:**</sub></small>
 He who sent Me is with Me. He has not left Me alone, because I always do what pleases Him.”
-<small><sub>**Literal:**</sub></small>
-And the [One] having sent Me with Me is; not He has left Me alone <the> Father because I myself the [things] pleasing to Him do always.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.28|<< John 8:28]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.30|John 8:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3992\|πέμψας]]  [[G3165\|με]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G1510\|ἐστιν·]]  [[G3756\|οὐκ]]  [[G0863G\|ἀφῆκέν]]  [[G3165\|με]]  [[G3441\|μόνον]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G3588\|τὰ]]  [[G0701\|ἀρεστὰ]]  [[G0846\|αὐτῷ]]  [[G4160G\|ποιῶ]]  [[G3842\|πάντοτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.28|<< John 8:28]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.30|John 8:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

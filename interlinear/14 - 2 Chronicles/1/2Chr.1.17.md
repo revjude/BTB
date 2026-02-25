@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 1:17
+type: Verse
+kjv: "And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means."
+bsb: "A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram."
+hebrew: "וַֽ֠יַּעֲלוּ וַיּוֹצִ֨יאוּ מִמִּצְרַ֤יִם מֶרְכָּבָה֙ בְּשֵׁ֣שׁ מֵא֣וֹת כֶּ֔סֶף וְס֖וּס בַּחֲמִשִּׁ֣ים וּמֵאָ֑ה וְ֠כֵן לְכָל־ מַלְכֵ֧י הַֽחִתִּ֛ים וּמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם יוֹצִֽיאוּ׃"
+pericope: "[[2Chr.1.14 Solomon’s Riches|Solomon’s Riches]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H4818]]"
+- "[[H9003]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H2572]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H0758I]]"
+- "[[H3027J]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:17**<big><big>[[2Chr.1.14 Solomon’s Riches|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they fetched up, and brought forth out of Egypt a chariot for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so brought they out [horses] for all the kings of the Hittites, and for the kings of Syria, by their means.
 <small><sub>**BSB:**</sub></small>
 A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H5927H\|יַּעֲלוּ]] [[H9001\|וַ]][[H3318H\|יּוֹצִ֨יאוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֤יִם]] [[H4818\|מֶרְכָּבָה֙]] [[H9003\|בְּ]][[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֣וֹת]] [[H3701G\|כֶּ֔סֶף]] [[H9002\|וְ]][[H5483M\|ס֖וּס]] [[H9003\|בַּ]][[H2572\|חֲמִשִּׁ֣ים]] [[H9002\|וּ]][[H3967\|מֵאָ֑ה]] [[H9002\|וְ֠]][[H3651C\|כֵן]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4428G\|מַלְכֵ֧י]] [[H9009\|הַֽ]][[H2850\|חִתִּ֛ים]] [[H9002\|וּ]][[H4428G\|מַלְכֵ֥י]] [[H0758I\|אֲרָ֖ם]] [[H9003\|בְּ]][[H3027J\|יָדָ֥]][[H9028\|ם]] [[H3318H\|יוֹצִֽיאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXPORTS|EXPORTS]] • [[topic HITTITES|HITTITES]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.16|<< 2 Chronicles 1:16]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.1|2 Chronicles 2:1 >>]]</td></tr></table>
 

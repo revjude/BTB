@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 27:5
+type: Verse
+kjv: "And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?"
+bsb: "Then David said to Achish, “If I have found favor in your eyes, let me be assigned a place in one of the outlying towns, so I can live there. For why should your servant live in the royal city with you?”"
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜ד אֶל־ אָכִ֗ישׁ אִם־ נָא֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֙יךָ֙ יִתְּנוּ־ לִ֣י מָק֗וֹם בְּאַחַ֛ת עָרֵ֥י הַשָּׂדֶ֖ה וְאֵ֣שְׁבָה שָּׁ֑ם וְלָ֨מָּה יֵשֵׁ֧ב עַבְדְּךָ֛ בְּעִ֥יר הַמַּמְלָכָ֖ה עִמָּֽךְ׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic ZIKLAG|ZIKLAG]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0397]]"
+- "[[H0518A]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4725]]"
+- "[[H0259]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H4100]]"
+- "[[H5650]]"
+- "[[H4467]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:5**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?
 <small><sub>**BSB:**</sub></small>
 Then David said to Achish, “If I have found favor in your eyes, let me be assigned a place in one of the outlying towns, so I can live there. For why should your servant live in the royal city with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִ֗ישׁ]] [[H0518A\|אִם]][[H9014\|־]] [[H4994\|נָא֩]] [[H4672\|מָצָ֨אתִי]] [[H2580\|חֵ֤ן]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H5414G\|יִתְּנוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H4725\|מָק֗וֹם]] [[H9003\|בְּ]][[H0259\|אַחַ֛ת]] [[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9002\|וְ]][[H3427\|אֵ֣שְׁבָה]] [[H8033G\|שָּׁ֑ם]] [[H9002\|וְ]][[H9005\|לָ֨]][[H4100\|מָּה]] [[H3427\|יֵשֵׁ֧ב]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H9003\|בְּ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]] • [[topic ZIKLAG|ZIKLAG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
 

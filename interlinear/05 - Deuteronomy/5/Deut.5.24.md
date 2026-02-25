@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 5:24
+type: Verse
+kjv: "And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth."
+bsb: "and you said, “Behold, the LORD our God has shown us His glory and greatness, and we have heard His voice out of the fire. Today we have seen that a man can live even if God speaks with him."
+hebrew: "וַתֹּאמְר֗וּ הֵ֣ן הֶרְאָ֜נוּ יְהוָ֤ה אֱלֹהֵ֙ינוּ֙ אֶת־ כְּבֹד֣וֹ וְאֶת־ גָּדְל֔וֹ וְאֶת־ קֹל֥וֹ שָׁמַ֖עְנוּ מִתּ֣וֹךְ הָאֵ֑שׁ הַיּ֤וֹם הַזֶּה֙ רָאִ֔ינוּ כִּֽי־ יְדַבֵּ֧ר אֱלֹהִ֛ים אֶת־ הָֽאָדָ֖ם וָחָֽי׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H7200G]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1433]]"
+- "[[H6963A]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H0120G]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:24**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.
 <small><sub>**BSB:**</sub></small>
 and you said, “Behold, the LORD our God has shown us His glory and greatness, and we have heard His voice out of the fire. Today we have seen that a man can live even if God speaks with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמְר֗וּ]] [[H2005\|הֵ֣ן]] [[H7200G\|הֶרְאָ֜]][[H9035\|נוּ]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּבֹד֣]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1433\|גָּדְל֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6963A\|קֹל֥]][[H9023\|וֹ]] [[H8085G\|שָׁמַ֖עְנוּ]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הָ]][[H0784\|אֵ֑שׁ]] [[H9009\|הַ]][[H3117L\|יּ֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H7200G\|רָאִ֔ינוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1696G\|יְדַבֵּ֧ר]] [[H0430G\|אֱלֹהִ֛ים]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0120G\|אָדָ֖ם]] [[H9001\|וָ]][[H2421\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.23|<< Deuteronomy 5:23]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.25|Deuteronomy 5:25 >>]]</td></tr></table>
 

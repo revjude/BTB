@@ -1,8 +1,61 @@
+---
+title: Genesis 9:21
+type: Verse
+kjv: "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+bsb: "But when he drank some of its wine, he became drunk and uncovered himself inside his tent."
+hebrew: "וַיֵּ֥שְׁתְּ מִן־ הַיַּ֖יִן וַיִּשְׁכָּ֑ר וַיִּתְגַּ֖ל בְּת֥וֹךְ אָהֳלֽוֹ׃"
+pericope: "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HAM|HAM]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic TENT|TENT]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8354]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H7937]]"
+- "[[H1540I]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 9:21**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he drank of the wine, and was drunken; and he was uncovered within his tent.
 <small><sub>**BSB:**</sub></small>
 But when he drank some of its wine, he became drunk and uncovered himself inside his tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8354\|יֵּ֥שְׁתְּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3196\|יַּ֖יִן]] [[H9001\|וַ]][[H7937\|יִּשְׁכָּ֑ר]] [[H9001\|וַ]][[H1540I\|יִּתְגַּ֖ל]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H0168G\|אָהֳלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HAM|HAM]] • [[topic NOAH|NOAH]] • [[topic TENT|TENT]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.20|<< Genesis 9:20]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.22|Genesis 9:22 >>]]</td></tr></table>
 
@@ -17,7 +70,7 @@ But when he drank some of its wine, he became drunk and uncovered himself inside
 | tent his  [^2]|**<big>&#8207;[[H0168G\|אָהֳלֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | 'o.ho.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.20|<< Genesis 9:20]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.22|Genesis 9:22 >>]]</td></tr></table>
 
-[^1]: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: tent his  | **<big>[[H0168G|אָהֳלֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: tent his  | **<big>[[H0168G|אָהֳלֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אָהֳלֹֽה\׃</big></span>**
 

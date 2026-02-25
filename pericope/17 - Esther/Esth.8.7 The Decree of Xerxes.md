@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Decree of Xerxes
+type: Pericope
 pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 8
 book/chapter: "[[Esth.8|Esther 8]]"
-genre:
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 11
 verses:
 - "[[Esth.8.7]]"
 - "[[Esth.8.8]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Esth.8.17]]"
 ---
 
-[[Esth.8|Esther 8:7 - Esther 8:17]]
+<small>[[Esth.8|Esther 8:7-17]]</small>
 *The Decree of Xerxes*
 
 [[Esth.8.7|7]] Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews.

@@ -1,10 +1,55 @@
+---
+title: John 6:43
+type: Verse
+kjv: "Jesus therefore answered and said unto them, Murmur not among yourselves."
+bsb: "“Stop grumbling among yourselves,” Jesus replied."
+jesus_said: "Murmur not among yourselves."
+greek: "Ἀπεκρίθη οὖν ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς· μὴ γογγύζετε μετ᾽ ἀλλήλων."
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G1111]]"
+- "[[G3326]]"
+- "[[G0240]]"
+texts:
+- NKO
+- K
+---
+
 **John 6:43**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus therefore answered and said unto them, Murmur not among yourselves.
 <small><sub>**BSB:**</sub></small>
 “Stop grumbling among yourselves,” Jesus replied.
-<small><sub>**Literal:**</sub></small>
-Answered therefore <the> Jesus and said to them; Not do grumble with one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.42|<< John 6:42]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.44|John 6:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3361\|μὴ]]  [[G1111\|γογγύζετε]]  [[G3326\|μετ᾽]]  [[G0240\|ἀλλήλων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MURMURING|MURMURING]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.42|<< John 6:42]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.44|John 6:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

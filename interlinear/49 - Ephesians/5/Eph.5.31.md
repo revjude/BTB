@@ -1,10 +1,63 @@
+---
+title: Ephesians 5:31
+type: Verse
+kjv: "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
+bsb: "“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”"
+greek: "ἀντὶ τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ, καὶ ἔσονται οἱ δύο εἰς σάρκα μίαν."
+pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G0473]]"
+- "[[G3778]]"
+- "[[G2641]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G4347]]"
+- "[[G4314]]"
+- "[[G1135H]]"
+- "[[G1510]]"
+- "[[G1417]]"
+- "[[G1519]]"
+- "[[G4561]]"
+- "[[G1520]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Ephesians 5:31**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 <small><sub>**BSB:**</sub></small>
 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”
-<small><sub>**Literal:**</sub></small>
-Because of this will leave a man the father of him and <the> mother and will be joined to the wife of him, and will be the two into flesh one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.30|<< Ephesians 5:30]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.32|Ephesians 5:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0473\|ἀντὶ]]  [[G3778\|τούτου]]  [[G2641\|καταλείψει]]  [[G0444\|ἄνθρωπος]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G2532\|καὶ]]  [[G4347\|προσκολληθήσεται]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G1510\|ἔσονται]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G1519\|εἰς]]  [[G4561\|σάρκα]]  [[G1520\|μίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.30|<< Ephesians 5:30]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.32|Ephesians 5:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 5:31** is...
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]

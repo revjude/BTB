@@ -1,8 +1,63 @@
+---
+title: Leviticus 22:7
+type: Verse
+kjv: "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food."
+bsb: "When the sun has set, he will become clean, and then he may eat from the sacred offerings, for they are his food."
+hebrew: "וּבָ֥א הַשֶּׁ֖מֶשׁ וְטָהֵ֑ר וְאַחַר֙ יֹאכַ֣ל מִן־ הַקֳּדָשִׁ֔ים כִּ֥י לַחְמ֖וֹ הֽוּא׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H2891]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H3588A]]"
+- "[[H3899G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:7**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it [is] his food.
 <small><sub>**BSB:**</sub></small>
 When the sun has set, he will become clean, and then he may eat from the sacred offerings, for they are his food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֥א]] [[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H9001\|וְ]][[H2891\|טָהֵ֑ר]] [[H9002\|וְ]][[H0310A\|אַחַר֙]] [[H0398\|יֹאכַ֣ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֔ים]] [[H3588A\|כִּ֥י]] [[H3899G\|לַחְמ֖]][[H9023\|וֹ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.6|<< Leviticus 22:6]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.8|Leviticus 22:8 >>]]</td></tr></table>
 

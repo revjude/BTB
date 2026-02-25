@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 1:22
+type: Verse
+kjv: "From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty."
+bsb: "From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not retreat, and the sword of Saul did not return empty."
+hebrew: "מִדַּ֣ם חֲלָלִ֗ים מֵחֵ֙לֶב֙ גִּבּוֹרִ֔ים קֶ֚שֶׁת יְה֣וֹנָתָ֔ן לֹ֥א נָשׂ֖וֹג אָח֑וֹר וְחֶ֣רֶב שָׁא֔וּל לֹ֥א תָשׁ֖וּב רֵיקָֽם׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H2491A]]"
+- "[[H2459]]"
+- "[[H1368]]"
+- "[[H7198]]"
+- "[[H3083H]]"
+- "[[H3808]]"
+- "[[H7734]]"
+- "[[H0268]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H7586G]]"
+- "[[H7725G]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:22**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty.
 <small><sub>**BSB:**</sub></small>
 From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not retreat, and the sword of Saul did not return empty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1818\|דַּ֣ם]] [[H2491A\|חֲלָלִ֗ים]] [[H9006\|מֵ]][[H2459\|חֵ֙לֶב֙]] [[H1368\|גִּבּוֹרִ֔ים]] [[H7198\|קֶ֚שֶׁת]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H3808\|לֹ֥א]] [[H7734\|נָשׂ֖וֹג]] [[H0268\|אָח֑וֹר]] [[H9002\|וְ]][[H2719\|חֶ֣רֶב]] [[H7586G\|שָׁא֔וּל]] [[H3808\|לֹ֥א]] [[H7725G\|תָשׁ֖וּב]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.21|<< 2 Samuel 1:21]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.23|2 Samuel 1:23 >>]]</td></tr></table>
 

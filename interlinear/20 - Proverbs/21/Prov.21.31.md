@@ -1,8 +1,51 @@
+---
+title: Proverbs 21:31
+type: Verse
+kjv: "The horse is prepared against the day of battle: but safety is of the LORD."
+bsb: "A horse is prepared for the day of battle, but victory is of the LORD."
+hebrew: "ס֗וּס מ֭וּכָן לְי֣וֹם מִלְחָמָ֑ה וְ֝לַֽיהוָ֗ה הַתְּשׁוּעָֽה׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HORSE|HORSE]]"
+strongs:
+- "[[H5483M]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H8668H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:31**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The horse [is] prepared against the day of battle: but safety [is] of the LORD.
 <small><sub>**BSB:**</sub></small>
 A horse is prepared for the day of battle, but victory is of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5483M\|ס֗וּס]] [[H3559A\|מ֭וּכָן]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H4421\|מִלְחָמָ֑ה]] [[H9002\|וְ֝]][[H9005\|לַֽ]][[H3068G\|יהוָ֗ה]] [[H9009\|הַ]][[H8668H\|תְּשׁוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HORSE|HORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.30|<< Proverbs 21:30]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.1|Proverbs 22:1 >>]]</td></tr></table>
 

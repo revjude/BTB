@@ -1,8 +1,60 @@
+---
+title: Genesis 25:8
+type: Verse
+kjv: "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+bsb: "And at a ripe old age he breathed his last and died, old and contented, and was gathered to his people."
+hebrew: "וַיִּגְוַ֨ע וַיָּ֧מָת אַבְרָהָ֛ם בְּשֵׂיבָ֥ה טוֹבָ֖ה זָקֵ֣ן וְשָׂבֵ֑עַ וַיֵּאָ֖סֶף אֶל־ עַמָּֽיו׃"
+pericope: "[[Gen.25.7 The Death of Abraham|The Death of Abraham]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1478]]"
+- "[[H4191]]"
+- "[[H0085]]"
+- "[[H9003]]"
+- "[[H7872]]"
+- "[[H2896A]]"
+- "[[H2205H]]"
+- "[[H9002]]"
+- "[[H7649]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:8**<big><big>[[Gen.25.7 The Death of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abraham gave up the ghost, and died in a good old age, an old man, and full [of years]; and was gathered to his people.
 <small><sub>**BSB:**</sub></small>
 And at a ripe old age he breathed his last and died, old and contented, and was gathered to his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1478\|יִּגְוַ֨ע]] [[H9001\|וַ]][[H4191\|יָּ֧מָת]] [[H0085\|אַבְרָהָ֛ם]] [[H9003\|בְּ]][[H7872\|שֵׂיבָ֥ה]] [[H2896A\|טוֹבָ֖ה]] [[H2205H\|זָקֵ֣ן]] [[H9002\|וְ]][[H7649\|שָׂבֵ֑עַ]] [[H9001\|וַ]][[H0622\|יֵּאָ֖סֶף]] [[H0413\|אֶל]][[H9014\|־]] [[H5971B\|עַמָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.7|<< Genesis 25:7]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.9|Genesis 25:9 >>]]</td></tr></table>
 

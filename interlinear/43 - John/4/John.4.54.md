@@ -1,10 +1,57 @@
+---
+title: John 4:54
+type: Verse
+kjv: "This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee."
+bsb: "This was now the second sign that Jesus performed after coming from Judea into Galilee."
+greek: "Τοῦτο δὲ πάλιν δεύτερον σημεῖον ἐποίησεν ὁ Ἰησοῦς ἐλθὼν ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν.¶"
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3825]]"
+- "[[G1208]]"
+- "[[G4592]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[G2449]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- no
+---
+
 **John 4:54**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [is] again the second miracle [that] Jesus did, when he was come out of Judaea into Galilee.
 <small><sub>**BSB:**</sub></small>
 This was now the second sign that Jesus performed after coming from Judea into Galilee.
-<small><sub>**Literal:**</sub></small>
-This [is] now again [the] second sign did <the> Jesus having come out of <the> Judea into <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.53|<< John 4:53]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.1|John 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1161\|δὲ]]  [[G3825\|πάλιν]]  [[G1208\|δεύτερον]]  [[G4592\|σημεῖον]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2064\|ἐλθὼν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDEA|JUDEA]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.53|<< John 4:53]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.1|John 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

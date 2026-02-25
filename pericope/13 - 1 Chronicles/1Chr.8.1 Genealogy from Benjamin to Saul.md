@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Genealogy from Benjamin to Saul
+type: Pericope
 pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 8
 book/chapter: "[[1Chr.8|1 Chronicles 8]]"
-genre:
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 32
 verses:
 - "[[1Chr.8.1]]"
 - "[[1Chr.8.2]]"
@@ -50,7 +57,7 @@ verses:
 - "[[1Chr.8.32]]"
 ---
 
-[[1Chr.8|1 Chronicles 8:1 - 1 Chronicles 8:32]]
+<small>[[1Chr.8|1 Chronicles 8:1-32]]</small>
 *Genealogy from Benjamin to Saul*
 
 [[1Chr.8.1|1]] Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,

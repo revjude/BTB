@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Cornerstone in Zion
+type: Pericope
 pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 28
 book/chapter: "[[Isa.28|Isaiah 28]]"
-genre:
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.28.14]]"
 - "[[Isa.28.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.28.22]]"
 ---
 
-[[Isa.28|Isaiah 28:14 - Isaiah 28:22]]
+<small>[[Isa.28|Isaiah 28:14-22]]</small>
 *A Cornerstone in Zion*
 
 [[Isa.28.14|14]] Wherefore hear the word of the LORD, ye scornful men, that rule this people which \[is\] in Jerusalem.

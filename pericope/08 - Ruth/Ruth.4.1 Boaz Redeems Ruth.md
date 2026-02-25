@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Boaz Redeems Ruth
+type: Pericope
 pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 4
 book/chapter: "[[Ruth.4|Ruth 4]]"
-genre:
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 12
 verses:
 - "[[Ruth.4.1]]"
 - "[[Ruth.4.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ruth.4.12]]"
 ---
 
-[[Ruth.4|Ruth 4:1 - Ruth 4:12]]
+<small>[[Ruth.4|Ruth 4:1-12]]</small>
 *Boaz Redeems Ruth*
 
 [[Ruth.4.1|1]] Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.

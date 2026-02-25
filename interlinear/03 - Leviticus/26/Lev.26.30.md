@@ -1,8 +1,72 @@
+---
+title: Leviticus 26:30
+type: Verse
+kjv: "And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you."
+bsb: "I will destroy your high places, cut down your incense altars, and heap your lifeless bodies on the lifeless remains of your idols; and My soul will despise you."
+hebrew: "וְהִשְׁמַדְתִּ֞י אֶת־ בָּמֹֽתֵיכֶ֗ם וְהִכְרַתִּי֙ אֶת־ חַמָּ֣נֵיכֶ֔ם וְנָֽתַתִּי֙ אֶת־ פִּגְרֵיכֶ֔ם עַל־ פִּגְרֵ֖י גִּלּוּלֵיכֶ֑ם וְגָעֲלָ֥ה נַפְשִׁ֖י אֶתְכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H9026]]"
+- "[[H3772G]]"
+- "[[H2553]]"
+- "[[H5414L]]"
+- "[[H6297]]"
+- "[[H5921A]]"
+- "[[H1544]]"
+- "[[H1602]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:30**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.
 <small><sub>**BSB:**</sub></small>
 I will destroy your high places, cut down your incense altars, and heap your lifeless bodies on the lifeless remains of your idols; and My soul will despise you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8045\|הִשְׁמַדְתִּ֞י]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמֹֽתֵי]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H3772G\|הִכְרַתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2553\|חַמָּ֣נֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5414L\|נָֽתַתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6297\|פִּגְרֵי]][[H9026\|כֶ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6297\|פִּגְרֵ֖י]] [[H1544\|גִּלּוּלֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H1602\|גָעֲלָ֥ה]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.29|<< Leviticus 26:29]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.31|Leviticus 26:31 >>]]</td></tr></table>
 

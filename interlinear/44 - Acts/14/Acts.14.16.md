@@ -1,10 +1,58 @@
+---
+title: Acts 14:16
+type: Verse
+kjv: "Who in times past suffered all nations to walk in their own ways."
+bsb: "In past generations, He let all nations go their own way."
+greek: "ὃς ἐν ταῖς παρῳχημέναις γενεαῖς εἴασεν πάντα τὰ ἔθνη πορεύεσθαι ταῖς ὁδοῖς αὐτῶν·"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3944]]"
+- "[[G1074]]"
+- "[[G1439]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G4198]]"
+- "[[G3598]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 14:16**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who in times past suffered all nations to walk in their own ways.
 <small><sub>**BSB:**</sub></small>
 In past generations, He let all nations go their own way.
-<small><sub>**Literal:**</sub></small>
-who in the having past generations allowed all the nations to go in the ways of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.15|<< Acts 14:15]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.17|Acts 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G3944\|παρῳχημέναις]]  [[G1074\|γενεαῖς]]  [[G1439\|εἴασεν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G4198\|πορεύεσθαι]]  [[G3588\|ταῖς]]  [[G3598\|ὁδοῖς]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HOMAGE|HOMAGE]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.15|<< Acts 14:15]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.17|Acts 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

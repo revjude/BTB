@@ -1,8 +1,71 @@
+---
+title: 1 Kings 1:5
+type: Verse
+kjv: "Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him."
+bsb: "At that time Adonijah, David’s son by Haggith, began to exalt himself, saying, “I will be king!” And he acquired chariots and horsemen and fifty men to run ahead of him."
+hebrew: "וַאֲדֹנִיָּ֧ה בֶן־ חַגִּ֛ית מִתְנַשֵּׂ֥א לֵאמֹ֖ר אֲנִ֣י אֶמְלֹ֑ךְ וַיַּ֣עַשׂ ל֗וֹ רֶ֚כֶב וּפָ֣רָשִׁ֔ים וַחֲמִשִּׁ֥ים אִ֖ישׁ רָצִ֥ים לְפָנָֽיו׃"
+pericope: "[[1Kgs.1.5 Adonijah Usurps the Kingdom|Adonijah Usurps the Kingdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FOOTMAN|FOOTMAN]]"
+- "[[topic HAGGITH|HAGGITH]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0138G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2294]]"
+- "[[H5375L]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H4427A]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H7323G]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:5**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
 <small><sub>**BSB:**</sub></small>
 At that time Adonijah, David’s son by Haggith, began to exalt himself, saying, “I will be king!” And he acquired chariots and horsemen and fifty men to run ahead of him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0138G\|אֲדֹנִיָּ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H2294\|חַגִּ֛ית]] [[H5375L\|מִתְנַשֵּׂ֥א]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H0589\|אֲנִ֣י]] [[H4427A\|אֶמְלֹ֑ךְ]] [[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H7393G\|רֶ֚כֶב]] [[H9002\|וּ]][[H6571B\|פָ֣רָשִׁ֔ים]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֥ים]] [[H0376G\|אִ֖ישׁ]] [[H7323G\|רָצִ֥ים]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONIJAH|ADONIJAH]] • [[topic AMBITION|AMBITION]] • [[topic CHILDREN|CHILDREN]] • [[topic CITIZENS|CITIZENS]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FOOTMAN|FOOTMAN]] • [[topic HAGGITH|HAGGITH]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.4|<< 1 Kings 1:4]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.6|1 Kings 1:6 >>]]</td></tr></table>
 

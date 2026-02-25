@@ -1,10 +1,72 @@
+---
+title: Matthew 20:12
+type: Verse
+kjv: "Saying, These last have wrought but one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day."
+bsb: "‘These men who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden and the scorching heat of the day.’"
+jesus_said: "Saying, These last have wrought but one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day."
+greek: "λέγοντες ὅτι· οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν, καὶ ἴσους ἡμῖν αὐτοὺς ἐποίησας, τοῖς βαστάσασιν τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα."
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G2470]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G0941]]"
+- "[[G0922]]"
+- "[[G2250]]"
+- "[[G2742]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 20:12**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, These last have wrought [but] one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.
 <small><sub>**BSB:**</sub></small>
 ‘These men who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden and the scorching heat of the day.’
-<small><sub>**Literal:**</sub></small>
-saying that: These the last one hour worked, and equal to us them you have made, to [we] who having borne the burden of the day and the scorching heat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.11|<< Matthew 20:11]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.13|Matthew 20:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες]]  [[G3754G\|ὅτι·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G2078\|ἔσχατοι]]  [[G1520\|μίαν]]  [[G5610\|ὥραν]]  [[G4160G\|ἐποίησαν,]]  [[G2532\|καὶ]]  [[G2470\|ἴσους]]  [[G3165\|ἡμῖν]]  [[G0846\|αὐτοὺς]]  [[G4160G\|ἐποίησας,]]  [[G3588\|τοῖς]]  [[G0941\|βαστάσασιν]]  [[G3588\|τὸ]]  [[G0922\|βάρος]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2742\|καύσωνα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GOSPEL|GOSPEL]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.11|<< Matthew 20:11]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.13|Matthew 20:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

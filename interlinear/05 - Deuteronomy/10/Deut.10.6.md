@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 10:6
+type: Verse
+kjv: "And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead."
+bsb: "The Israelites traveled from Beeroth Bene-jaakan to Moserah, where Aaron died and was buried, and Eleazar his son succeeded him as priest."
+hebrew: "וּבְנֵ֣י יִשְׂרָאֵ֗ל נָֽסְע֛וּ מִבְּאֵרֹ֥ת בְּנֵי־ יַעֲקָ֖ן מוֹסֵרָ֑ה שָׁ֣ם מֵ֤ת אַהֲרֹן֙ וַיִּקָּבֵ֣ר שָׁ֔ם וַיְכַהֵ֛ן אֶלְעָזָ֥ר בְּנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AKAN|AKAN]]"
+- "[[topic BEEROTH|BEEROTH]]"
+- "[[topic BENE-JAAKAN|BENE-JAAKAN]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ITINERARY|ITINERARY]]"
+- "[[topic JAAKAN|JAAKAN]]"
+- "[[topic MOSERA|MOSERA]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0881H]]"
+- "[[H1142H]]"
+- "[[H9014]]"
+- "[[H4149A]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H0175]]"
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H3547]]"
+- "[[H0499G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:6**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest’s office in his stead.
 <small><sub>**BSB:**</sub></small>
 The Israelites traveled from Beeroth Bene-jaakan to Moserah, where Aaron died and was buried, and Eleazar his son succeeded him as priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5265\|נָֽסְע֛וּ]] [[H9006\|מִ]][[H0881H\|בְּאֵרֹ֥ת]] [[H1142H\|בְּנֵי]][[H9014\|־]] [[H1142H\|יַעֲקָ֖ן]] [[H4149A\|מוֹסֵרָ֑ה]] [[H8033G\|שָׁ֣ם]] [[H4191\|מֵ֤ת]] [[H0175\|אַהֲרֹן֙]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֣ר]] [[H8033G\|שָׁ֔ם]] [[H9001\|וַ]][[H3547\|יְכַהֵ֛ן]] [[H0499G\|אֶלְעָזָ֥ר]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AKAN|AKAN]] • [[topic BEEROTH|BEEROTH]] • [[topic BENE-JAAKAN|BENE-JAAKAN]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ISRAEL|ISRAEL]] • [[topic ITINERARY|ITINERARY]] • [[topic JAAKAN|JAAKAN]] • [[topic MOSERA|MOSERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.5|<< Deuteronomy 10:5]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.7|Deuteronomy 10:7 >>]]</td></tr></table>
 

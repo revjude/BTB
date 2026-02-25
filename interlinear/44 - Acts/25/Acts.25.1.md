@@ -1,10 +1,52 @@
+---
+title: Acts 25:1
+type: Verse
+kjv: "Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem."
+bsb: "Three days after his arrival in the province, Festus went up from Caesarea to Jerusalem,"
+greek: "Φῆστος οὖν ἐπιβὰς τῇ ἐπαρχείᾳ μετὰ τρεῖς ἡμέρας ἀνέβη εἰς Ἱεροσόλυμα ἀπὸ Καισαρείας,"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G5347]]"
+- "[[G3767]]"
+- "[[G1910]]"
+- "[[G3588]]"
+- "[[G1885]]"
+- "[[G3326]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G0575]]"
+- "[[G2542H]]"
+texts:
+- NKO
+---
+
 **Acts 25:1**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Three days after his arrival in the province, Festus went up from Caesarea to Jerusalem,
-<small><sub>**Literal:**</sub></small>
-Festus therefore having arrived in the province after three days he went up to Jerusalem from Caesarea,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.27|<< Acts 24:27]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.2|Acts 25:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5347\|Φῆστος]]  [[G3767\|οὖν]]  [[G1910\|ἐπιβὰς]]  [[G3588\|τῇ]]  [[G1885\|ἐπαρχείᾳ]]  [[G3326\|μετὰ]]  [[G5140\|τρεῖς]]  [[G2250\|ἡμέρας]]  [[G0305\|ἀνέβη]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G0575\|ἀπὸ]]  [[G2542H\|Καισαρείας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.27|<< Acts 24:27]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.2|Acts 25:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

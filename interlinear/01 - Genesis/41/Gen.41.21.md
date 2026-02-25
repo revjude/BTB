@@ -1,8 +1,67 @@
+---
+title: Genesis 41:21
+type: Verse
+kjv: "And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favoured, as at the beginning. So I awoke."
+bsb: "When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke."
+hebrew: "וַתָּבֹ֣אנָה אֶל־ קִרְבֶּ֗נָה וְלֹ֤א נוֹדַע֙ כִּי־ בָ֣אוּ אֶל־ קִרְבֶּ֔נָה וּמַרְאֵיהֶ֣ן רַ֔ע כַּאֲשֶׁ֖ר בַּתְּחִלָּ֑ה וָאִיקָֽץ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7130G]]"
+- "[[H9029]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H4758]]"
+- "[[H7451H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H8462]]"
+- "[[H3364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:21**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had eaten them up, it could not be known that they had eaten them; but they [were] still ill favoured, as at the beginning. So I awoke.
 <small><sub>**BSB:**</sub></small>
 When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹ֣אנָה]] [[H0413\|אֶל]][[H9014\|־]] [[H7130G\|קִרְבֶּ֗]][[H9029\|נָה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3045\|נוֹדַע֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7130G\|קִרְבֶּ֔]][[H9029\|נָה]] [[H9002\|וּ]][[H4758\|מַרְאֵי]][[H9029\|הֶ֣ן]] [[H7451H\|רַ֔ע]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H9003\|בַּ]][[H8462\|תְּחִלָּ֑ה]] [[H9001\|וָ]][[H3364\|אִיקָֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.20|<< Genesis 41:20]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.22|Genesis 41:22 >>]]</td></tr></table>
 

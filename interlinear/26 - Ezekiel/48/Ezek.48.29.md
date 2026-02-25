@@ -1,8 +1,64 @@
+---
+title: Ezekiel 48:29
+type: Verse
+kjv: "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord GOD."
+bsb: "This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Lord GOD."
+hebrew: "זֹ֥את הָאָ֛רֶץ אֲשֶׁר־ תַּפִּ֥ילוּ מִֽנַּחֲלָ֖ה לְשִׁבְטֵ֣י יִשְׂרָאֵ֑ל וְאֵ֙לֶּה֙ מַחְלְקוֹתָ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.48.23 The Portions for the Remaining Tribes|The Portions for the Remaining Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic LOT, THE|LOT, THE]]"
+strongs:
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5307I]]"
+- "[[H9006]]"
+- "[[H5159]]"
+- "[[H9005]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H4256]]"
+- "[[H9028]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 48:29**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these [are] their portions, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5307I\|תַּפִּ֥ילוּ]] [[H9006\|מִֽ]][[H5159\|נַּחֲלָ֖ה]] [[H9005\|לְ]][[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H4256\|מַחְלְקוֹתָ֔]][[H9028\|ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic LOT, THE|LOT, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.28|<< Ezekiel 48:28]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.30|Ezekiel 48:30 >>]]</td></tr></table>
 
@@ -19,7 +75,7 @@ This is the land you are to allot as an inheritance to the tribes of Israel, and
 | [are] portions their  |**<big>&#8207;[[H4256\|מַחְלְקוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mach.le.ko.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.28|<< Ezekiel 48:28]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.30|Ezekiel 48:30 >>]]</td></tr></table>
 
 

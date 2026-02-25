@@ -11,7 +11,7 @@
 
 - Joram's residence in [[2Kgs.8.29|2Ki 8:29]]
 
-- Jehu kills King Ahab, his wife, and friends at [[2Kgs.9.15|2Ki  9:15]]-[[2Kgs.9.37|37]]; [[2Kgs.10.11|10:11]]
+- Jehu kills King Ahab, his wife, and friends at [[2Kgs.9.15|2Ki  9:15-37]]; [[2Kgs.10.11|10:11]]
 
 - Prophecies concerning [[Hos.1.4|Ho 1:4]],[[Hos.1.5|5]],[[Hos.1.11|11]]
 
@@ -19,7 +19,7 @@
 
 - Place of Gideon's battle with the Midianites [[Judg.6.33|Jud 6:33]]
 
-- Place of the defeat of the Israelites under Saul and Jonathan [[1Sam.29.1|1Sa 29:1]],[[1Sam.29.11|11]]; [[1Sam.31.1|31:1]]-[[1Sam.31.6|6]]; [[2Sam.4.4|2Sa 4:4]]
+- Place of the defeat of the Israelites under Saul and Jonathan [[1Sam.29.1|1Sa 29:1]],[[1Sam.29.11|11]]; [[1Sam.31.1|31:1-6]]; [[2Sam.4.4|2Sa 4:4]]
 
 4. A descendant of Etam [[1Chr.4.3|1Ch 4:3]]
 

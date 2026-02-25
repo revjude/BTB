@@ -1,8 +1,64 @@
+---
+title: Judges 12:9
+type: Verse
+kjv: "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years."
+bsb: "He had thirty sons, as well as thirty daughters whom he gave in marriage to men outside his clan; and for his sons he brought back thirty wives from elsewhere. Ibzan judged Israel seven years."
+hebrew: "וַיְהִי־ ל֞וֹ שְׁלֹשִׁ֣ים בָּנִ֗ים וּשְׁלֹשִׁ֤ים בָּנוֹת֙ שִׁלַּ֣ח הַח֔וּצָה וּשְׁלֹשִׁ֣ים בָּנ֔וֹת הֵבִ֥יא לְבָנָ֖יו מִן־ הַח֑וּץ וַיִּשְׁפֹּ֥ט אֶת־ יִשְׂרָאֵ֖ל שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[Judg.12.8 Ibzan, Elon, and Abdon|Ibzan, Elon, and Abdon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic IBZAN|IBZAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7970]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H7971J]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H0935P]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:9**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had thirty sons, and thirty daughters, [whom] he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
 <small><sub>**BSB:**</sub></small>
 He had thirty sons, as well as thirty daughters whom he gave in marriage to men outside his clan; and for his sons he brought back thirty wives from elsewhere. Ibzan judged Israel seven years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֞]][[H9033\|וֹ]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H1121A\|בָּנִ֗ים]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֤ים]] [[H1323G\|בָּנוֹת֙]] [[H7971J\|שִׁלַּ֣ח]] [[H9009\|הַ]][[H2351\|ח֔וּצָ]][[H9011\|ה]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֣ים]] [[H1323G\|בָּנ֔וֹת]] [[H0935P\|הֵבִ֥יא]] [[H9005\|לְ]][[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2351\|ח֑וּץ]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IBZAN|IBZAN]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.8|<< Judges 12:8]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.10|Judges 12:10 >>]]</td></tr></table>
 

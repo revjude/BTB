@@ -1,10 +1,58 @@
+---
+title: Romans 14:18
+type: Verse
+kjv: "For he that in these things serveth Christ is acceptable to God, and approved of men."
+bsb: "For whoever serves Christ in this way is pleasing to God and approved by men."
+greek: "ὁ γὰρ ἐν τούτῳ δουλεύων τῷ Χριστῷ εὐάρεστος τῷ θεῷ καὶ δόκιμος τοῖς ἀνθρώποις.¶"
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1398]]"
+- "[[G5547]]"
+- "[[G2101]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1384]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 14:18**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he that in these things serveth Christ [is] acceptable to God, and approved of men.
 <small><sub>**BSB:**</sub></small>
 For whoever serves Christ in this way is pleasing to God and approved by men.
-<small><sub>**Literal:**</sub></small>
-The [one] for in this thing serving <the> Christ [is] well-pleasing <the> to God and approved <the> by men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.17|<< Romans 14:17]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.19|Romans 14:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1398\|δουλεύων]]  [[G3588\|τῷ]]  [[G5547\|Χριστῷ]]  [[G2101\|εὐάρεστος]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G1384\|δόκιμος]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.17|<< Romans 14:17]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.19|Romans 14:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

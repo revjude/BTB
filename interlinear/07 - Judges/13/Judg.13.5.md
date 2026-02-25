@@ -1,8 +1,77 @@
+---
+title: Judges 13:5
+type: Verse
+kjv: "For, lo, thou shalt conceive, and bear a son; and no rasor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines."
+bsb: "For behold, you will conceive and give birth to a son. And no razor shall touch his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.”"
+hebrew: "כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא־ יַעֲלֶ֣ה עַל־ רֹאשׁ֔וֹ כִּֽי־ נְזִ֧יר אֱלֹהִ֛ים יִהְיֶ֥ה הַנַּ֖עַר מִן־ הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת־ יִשְׂרָאֵ֖ל מִיַּ֥ד פְּלִשְׁתִּֽים׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic SHAVING|SHAVING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H9042]]"
+- "[[H2030A]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H4177]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5139]]"
+- "[[H0430G]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H4480A]]"
+- "[[H0990H]]"
+- "[[H1931]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:5**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, thou shalt conceive, and bear a son; and no rasor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
 For behold, you will conceive and give birth to a son. And no razor shall touch his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H2009\|הִנָּ֨]][[H9042\|ךְ]] [[H2030A\|הָרָ֜ה]] [[H9002\|וְ]][[H3205\|יֹלַ֣דְתְּ]] [[H1121A\|בֵּ֗ן]] [[H9002\|וּ]][[H4177\|מוֹרָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5139\|נְזִ֧יר]] [[H0430G\|אֱלֹהִ֛ים]] [[H1961\|יִהְיֶ֥ה]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0990H\|בָּ֑טֶן]] [[H9002\|וְ]][[H1931\|ה֗וּא]] [[H2490C\|יָחֵ֛ל]] [[H9005\|לְ]][[H3467\|הוֹשִׁ֥יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic NAZARITE|NAZARITE]] • [[topic SAMSON|SAMSON]] • [[topic SHAVING|SHAVING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.4|<< Judges 13:4]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.6|Judges 13:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

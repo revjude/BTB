@@ -1,10 +1,55 @@
+---
+title: John 11:12
+type: Verse
+kjv: "Then said his disciples, Lord, if he sleep, he shall do well."
+bsb: "His disciples replied, “Lord, if he is sleeping, he will get better.”"
+greek: "εἶπαν οὖν οἱ μαθηταὶ αὐτῷ· κύριε, εἰ κεκοίμηται, σωθήσεται."
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SLEEP|SLEEP]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G1487G]]"
+- "[[G2837]]"
+- "[[G4982]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 11:12**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said his disciples, Lord, if he sleep, he shall do well.
 <small><sub>**BSB:**</sub></small>
 His disciples replied, “Lord, if he is sleeping, he will get better.”
-<small><sub>**Literal:**</sub></small>
-Said therefore the disciples to Him; Lord, if he has fallen asleep, he will get well.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.11|<< John 11:11]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.13|John 11:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G1487G\|εἰ]]  [[G2837\|κεκοίμηται,]]  [[G4982\|σωθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]] • [[topic SLEEP|SLEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.11|<< John 11:11]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.13|John 11:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

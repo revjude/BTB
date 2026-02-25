@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: In My Distress I Cried to the LORD
+type: Pericope
 pericope: "[[Ps.120.1 In My Distress I Cried to the LORD|In My Distress I Cried to the LORD]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 120
 book/chapter: "[[Ps.120|Psalm 120]]"
-genre:
+chronological_order: 882
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.120.0]]"
 - "[[Ps.120.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.120.7]]"
 ---
 
-[[Ps.120|Psalm 120:1 - Psalm 120:7]]
+<small>[[Ps.120|Psalm 120:1-7]]</small>
 *In My Distress I Cried to the LORD*
 
 [[Ps.120.0|0]] A Song of degrees.

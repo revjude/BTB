@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 16:15
+type: Verse
+kjv: "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)"
+bsb: "You know that Stephanas and his household were the first converts in Achaia, and they have devoted themselves to the service of the saints. Now I urge you, brothers,"
+greek: "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί· οἴδατε τὴν οἰκίαν Στεφανᾶ ὅτι ἐστὶν ἀπαρχὴ τῆς Ἀχαΐας καὶ εἰς διακονίαν τοῖς ἁγίοις ἔταξαν ἑαυτούς·"
+pericope: "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STEPHANAS|STEPHANAS]]"
+strongs:
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G3614H]]"
+- "[[G4734]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G0536]]"
+- "[[G0882]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G1248]]"
+- "[[G0040H]]"
+- "[[G5021]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:15**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and [that] they have addicted themselves to the ministry of the saints,)
 <small><sub>**BSB:**</sub></small>
 You know that Stephanas and his household were the first converts in Achaia, and they have devoted themselves to the service of the saints. Now I urge you, brothers,
-<small><sub>**Literal:**</sub></small>
-I exhort now you, brothers; you know the house of Stephanas that it is firstfruit <the> of Achaia and to service to the saints they have devoted themselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.14|<< 1 Corinthians 16:14]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.16|1 Corinthians 16:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί·]]  [[G6063\|οἴδατε]]  [[G3588\|τὴν]]  [[G3614H\|οἰκίαν]]  [[G4734\|Στεφανᾶ]]  [[G3754G\|ὅτι]]  [[G1510\|ἐστὶν]]  [[G0536\|ἀπαρχὴ]]  [[G3588\|τῆς]]  [[G0882\|Ἀχαΐας]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G1248\|διακονίαν]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G5021\|ἔταξαν]]  [[G1438\|ἑαυτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STEPHANAS|STEPHANAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.14|<< 1 Corinthians 16:14]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.16|1 Corinthians 16:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

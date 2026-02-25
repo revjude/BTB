@@ -1,8 +1,51 @@
+---
+title: Isaiah 3:2
+type: Verse
+kjv: "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,"
+bsb: "the mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,"
+hebrew: "גִּבּ֖וֹר וְאִ֣ישׁ מִלְחָמָ֑ה שׁוֹפֵ֥ט וְנָבִ֖יא וְקֹסֵ֥ם וְזָקֵֽן׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H1368]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H8199]]"
+- "[[H5030]]"
+- "[[H7080]]"
+- "[[H2205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:2**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
 <small><sub>**BSB:**</sub></small>
 the mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,
+<small><sub>**Hebrew:**</sub></small>
+[[H1368\|גִּבּ֖וֹר]] [[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H4421\|מִלְחָמָ֑ה]] [[H8199\|שׁוֹפֵ֥ט]] [[H9002\|וְ]][[H5030\|נָבִ֖יא]] [[H9002\|וְ]][[H7080\|קֹסֵ֥ם]] [[H9002\|וְ]][[H2205G\|זָקֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.1|<< Isaiah 3:1]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.3|Isaiah 3:3 >>]]</td></tr></table>
 

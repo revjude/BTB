@@ -1,8 +1,54 @@
+---
+title: Psalm 17:11
+type: Verse
+kjv: "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"
+bsb: "They have tracked us down, and now surround us; their eyes are set to cast us to the ground,"
+hebrew: "אַ֭שֻּׁרֵינוּ עַתָּ֣ה סְבָב֑וּנוּ עֵינֵיהֶ֥ם יָ֝שִׁ֗יתוּ לִנְט֥וֹת בָּאָֽרֶץ׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H0838B]]"
+- "[[H9025]]"
+- "[[H6258]]"
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H9035]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H7896G]]"
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 17:11**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have now compassed us in our steps: they have set their eyes bowing down to the earth;
 <small><sub>**BSB:**</sub></small>
 They have tracked us down, and now surround us; their eyes are set to cast us to the ground,
+<small><sub>**Hebrew:**</sub></small>
+[[H0838B\|אַ֭שֻּׁרֵי]][[H9025\|נוּ]] [[H6258\|עַתָּ֣ה]] [[H5437H\|סְבָב֑וּ]][[H9035\|נוּ]] [[H5869A\|עֵינֵי]][[H9028\|הֶ֥ם]] [[H7896G\|יָ֝שִׁ֗יתוּ]] [[H9005\|לִ]][[H5186\|נְט֥וֹת]] [[H9003\|בָּ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.10|<< Psalms 17:10]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.12|Psalms 17:12 >>]]</td></tr></table>
 
@@ -17,7 +63,7 @@ They have tracked us down, and now surround us; their eyes are set to cast us to
 | on the ground  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776H\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.10|<< Psalms 17:10]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.12|Psalms 17:12 >>]]</td></tr></table>
 
-[^1]: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
-[^2]: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^1]: they have surrounded me  | **<big>[[H5437H|סְבָבוּ]]</big><big>[[H9030|נִי]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: they have surrounded me  | **<big>[[H5437H|סְבָבוּ]]</big><big>[[H9030|נִי]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>סְבָב֑וּניּ</big></span>**
 

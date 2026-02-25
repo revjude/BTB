@@ -1,10 +1,66 @@
+---
+title: Hebrews 11:32
+type: Verse
+kjv: "And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:"
+bsb: "And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,"
+greek: "Καὶ τί ἔτι λέγω; ἐπιλείψει με γὰρ διηγούμενον ὁ χρόνος περὶ Γεδεών, Βαράκ, τε καὶ Σαμψών, καὶ Ἰεφθάε, Δαυίδ τε καὶ Σαμουὴλ καὶ τῶν προφητῶν·"
+pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BARAK|BARAK]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G3004G]]"
+- "[[G1952]]"
+- "[[G3165]]"
+- "[[G1063]]"
+- "[[G1334]]"
+- "[[G3588]]"
+- "[[G5550]]"
+- "[[G4012]]"
+- "[[G1066]]"
+- "[[G0913]]"
+- "[[G5037]]"
+- "[[G4546]]"
+- "[[G2422]]"
+- "[[G1138]]"
+- "[[G4545]]"
+- "[[G4396]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 11:32**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And what shall I more say? for the time would fail me to tell of Gedeon, and [of] Barak, and [of] Samson, and [of] Jephthae; [of] David also, and Samuel, and [of] the prophets:
 <small><sub>**BSB:**</sub></small>
 And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,
-<small><sub>**Literal:**</sub></small>
-And what more shall I say? Will fail me for telling the time of Gideon, Barak, both and Samson, and Jephthah, David also and Samuel and the prophets;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.31|<< Hebrews 11:31]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.33|Hebrews 11:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5101\|τί]]  [[G2089\|ἔτι]]  [[G3004G\|λέγω;]]  [[G1952\|ἐπιλείψει]]  [[G3165\|με]]  [[G1063\|γὰρ]]  [[G1334\|διηγούμενον]]  [[G3588\|ὁ]]  [[G5550\|χρόνος]]  [[G4012\|περὶ]]  [[G1066\|Γεδεών,]]  [[G0913\|Βαράκ,]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4546\|Σαμψών,]]  [[G2532\|καὶ]]  [[G2422\|Ἰεφθάε,]]  [[G1138\|Δαυίδ]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4545\|Σαμουὴλ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARAK|BARAK]] • [[topic FAITH|FAITH]] • [[topic GIDEON|GIDEON]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic SAMSON|SAMSON]] • [[topic SAMUEL|SAMUEL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.31|<< Hebrews 11:31]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.33|Hebrews 11:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:32** is...
 > $\quad$ alluding to: [[LXX.Judg.6.4|Judg 6:4]] ☩ [[LXX.Judg.6.11|Judg 6:11]] ☩ [[LXX.Judg.6.15|Judg 6:15]]

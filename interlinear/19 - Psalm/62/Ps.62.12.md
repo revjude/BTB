@@ -1,8 +1,60 @@
+---
+title: Psalm 62:12
+type: Verse
+kjv: "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work."
+bsb: "and loving devotion to You, O Lord. For You will repay each man according to his deeds."
+hebrew: "וּלְךָֽ־ אֲדֹנָ֥י חָ֑סֶד כִּֽי־ אַתָּ֨ה תְשַׁלֵּ֖ם לְאִ֣ישׁ כְּֽמַעֲשֵֽׂהוּ׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H2617A]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H7999A]]"
+- "[[H0376G]]"
+- "[[H9004]]"
+- "[[H4639K]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:12**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also unto thee, O Lord, [belongeth] mercy: for thou renderest to every man according to his work.
 <small><sub>**BSB:**</sub></small>
 and loving devotion to You, O Lord. For You will repay each man according to his deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H9031\|ךָֽ]][[H9014\|־]] [[H0136\|אֲדֹנָ֥י]] [[H2617A\|חָ֑סֶד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֨ה]] [[H7999A\|תְשַׁלֵּ֖ם]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H9004\|כְּֽ]][[H4639K\|מַעֲשֵֽׂ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.11|<< Psalms 62:11]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.0|Psalms 63:0 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

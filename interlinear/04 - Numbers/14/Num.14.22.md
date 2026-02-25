@@ -1,8 +1,75 @@
+---
+title: Numbers 14:22
+type: Verse
+kjv: "Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;"
+bsb: "not one of the men who have seen My glory and the signs I performed in Egypt and in the wilderness—yet have tested Me and disobeyed Me these ten times—"
+hebrew: "כִּ֣י כָל־ הָאֲנָשִׁ֗ים הָרֹאִ֤ים אֶת־ כְּבֹדִי֙ וְאֶת־ אֹ֣תֹתַ֔י אֲשֶׁר־ עָשִׂ֥יתִי בְמִצְרַ֖יִם וּבַמִּדְבָּ֑ר וַיְנַסּ֣וּ אֹתִ֗י זֶ֚ה עֶ֣שֶׂר פְּעָמִ֔ים וְלֹ֥א שָׁמְע֖וּ בְּקוֹלִֽי׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic TEN|TEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3519]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0226G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H4057B]]"
+- "[[H9001]]"
+- "[[H5254G]]"
+- "[[H9030]]"
+- "[[H2088]]"
+- "[[H6235]]"
+- "[[H6471]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:22**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
 <small><sub>**BSB:**</sub></small>
 not one of the men who have seen My glory and the signs I performed in Egypt and in the wilderness—yet have tested Me and disobeyed Me these ten times—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9009\|הָ]][[H7200G\|רֹאִ֤ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּבֹדִ]][[H9020\|י֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0226G\|אֹ֣תֹתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֥יתִי]] [[H9003\|בְ]][[H4714G\|מִצְרַ֖יִם]] [[H9002\|וּ]][[H9003\|בַ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַ]][[H5254G\|יְנַסּ֣וּ]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H2088\|זֶ֚ה]] [[H6235\|עֶ֣שֶׂר]] [[H6471\|פְּעָמִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שָׁמְע֖וּ]] [[H9003\|בְּ]][[H6963A\|קוֹלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic TEN|TEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.21|<< Numbers 14:21]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.23|Numbers 14:23 >>]]</td></tr></table>
 

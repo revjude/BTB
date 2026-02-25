@@ -1,10 +1,62 @@
+---
+title: Luke 8:50
+type: Verse
+kjv: "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole."
+bsb: "But Jesus overheard them and said to Jairus, “Do not be afraid; just believe, and she will be healed.”"
+jesus_said: "Fear not: believe only, and she shall be made whole."
+greek: "ὁ δὲ Ἰησοῦς ἀκούσας ἀπεκρίθη αὐτῷ λέγων· μὴ φοβοῦ· μόνον πίστευσον, καὶ σωθήσεται."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G0191]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3441]]"
+- "[[G4100]]"
+- "[[G2532]]"
+- "[[G4982]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 8:50**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Jesus heard [it], he answered him, saying, Fear not: believe only, and she shall be made whole.
 <small><sub>**BSB:**</sub></small>
 But Jesus overheard them and said to Jairus, “Do not be afraid; just believe, and she will be healed.”
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus having heard He answered to him saying; Not do fear; only do believe, and she will be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.49|<< Luke 8:49]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.51|Luke 8:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0191\|ἀκούσας]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγων·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ·]]  [[G3441\|μόνον]]  [[G4100\|πίστευσον,]]  [[G2532\|καὶ]]  [[G4982\|σωθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.49|<< Luke 8:49]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.51|Luke 8:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,70 @@
+---
+title: Matthew 25:36
+type: Verse
+kjv: "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+bsb: "I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’"
+jesus_said: "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+greek: "γυμνὸς καὶ περιεβάλετέ με, ἠσθένησα καὶ ἐπεσκέψασθέ με, ἐν φυλακῇ ἤμην καὶ ἤλθατε πρός με.¶"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SICK, THE|SICK, THE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1131]]"
+- "[[G2532]]"
+- "[[G4016]]"
+- "[[G3165]]"
+- "[[G0770H]]"
+- "[[G1980]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G4314]]"
+texts:
+- NKO
+---
+
 **Matthew 25:36**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.
 <small><sub>**BSB:**</sub></small>
 I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’
-<small><sub>**Literal:**</sub></small>
-naked and you clothed Me, I was sick and you visited Me, in prison I was and you came to Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.35|<< Matthew 25:35]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.37|Matthew 25:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1131\|γυμνὸς]]  [[G2532\|καὶ]]  [[G4016\|περιεβάλετέ]]  [[G3165\|με,]]  [[G0770H\|ἠσθένησα]]  [[G2532\|καὶ]]  [[G1980\|ἐπεσκέψασθέ]]  [[G3165\|με,]]  [[G1722\|ἐν]]  [[G5438G\|φυλακῇ]]  [[G1510\|ἤμην]]  [[G2532\|καὶ]]  [[G2064\|ἤλθατε]]  [[G4314\|πρός]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINDNESS|KINDNESS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POOR|POOR]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic SICK, THE|SICK, THE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.35|<< Matthew 25:35]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.37|Matthew 25:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

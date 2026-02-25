@@ -1,8 +1,70 @@
+---
+title: Genesis 27:34
+type: Verse
+kjv: "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father."
+bsb: "When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”"
+hebrew: "כִּשְׁמֹ֤עַ עֵשָׂו֙ אֶת־ דִּבְרֵ֣י אָבִ֔יו וַיִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּמָרָ֖ה עַד־ מְאֹ֑ד וַיֹּ֣אמֶר לְאָבִ֔יו בָּרֲכֵ֥נִי גַם־ אָ֖נִי אָבִֽי׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H6215G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H6818]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H4751]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:34**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, [even] me also, O my father.
 <small><sub>**BSB:**</sub></small>
 When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H8085G\|שְׁמֹ֤עַ]] [[H6215G\|עֵשָׂו֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H6817\|יִּצְעַ֣ק]] [[H6818\|צְעָקָ֔ה]] [[H1419A\|גְּדֹלָ֥ה]] [[H9002\|וּ]][[H4751\|מָרָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H1288\|בָּרֲכֵ֥]][[H9030\|נִי]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָ֖נִי]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.33|<< Genesis 27:33]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.35|Genesis 27:35 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 21:7
+type: Verse
+kjv: "Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever."
+bsb: "Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever."
+hebrew: "וְלֹא־ אָבָ֣ה יְהוָ֗ה לְהַשְׁחִית֙ אֶת־ בֵּ֣ית דָּוִ֔יד לְמַ֣עַן הַבְּרִ֔ית אֲשֶׁ֥ר כָּרַ֖ת לְדָוִ֑יד וְכַאֲשֶׁ֣ר אָמַ֗ר לָתֵ֨ת ל֥וֹ נִ֛יר וּלְבָנָ֖יו כָּל־ הַיָּמִֽים׃"
+pericope: "[[2Chr.21.1 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H4616]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H0834A]]"
+- "[[H3772H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H5216B]]"
+- "[[H1121G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:7**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.
 <small><sub>**BSB:**</sub></small>
 Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0014\|אָבָ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לְ]][[H7843\|הַשְׁחִית֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֔יד]] [[H4616\|לְמַ֣עַן]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772H\|כָּרַ֖ת]] [[H9005\|לְ]][[H1732\|דָוִ֑יד]] [[H9002\|וְ]][[H9004\|כַ]][[H0834D\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֗ר]] [[H9005\|לָ]][[H5414G\|תֵ֨ת]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H5216B\|נִ֛יר]] [[H9002\|וּ]][[H9005\|לְ]][[H1121G\|בָנָ֖י]][[H9023\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.6|<< 2 Chronicles 21:6]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.8|2 Chronicles 21:8 >>]]</td></tr></table>
 

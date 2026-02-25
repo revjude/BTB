@@ -1,8 +1,75 @@
+---
+title: Judges 15:19
+type: Verse
+kjv: "But God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which is in Lehi unto this day."
+bsb: "So God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned, and he was revived. That is why he named it En-hakkore, and it remains in Lehi to this day."
+hebrew: "וַיִּבְקַ֨ע אֱלֹהִ֜ים אֶת־ הַמַּכְתֵּ֣שׁ אֲשֶׁר־ בַּלֶּ֗חִי וַיֵּצְא֨וּ מִמֶּ֤נּוּ מַ֙יִם֙ וַיֵּ֔שְׁתְּ וַתָּ֥שָׁב רוּח֖וֹ וַיֶּ֑חִי עַל־ כֵּ֣ן׀ קָרָ֣א שְׁמָ֗הּ עֵ֤ין הַקּוֹרֵא֙ אֲשֶׁ֣ר בַּלֶּ֔חִי עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic EN-HAKKORE|EN-HAKKORE]]"
+- "[[topic LEHI|LEHI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1234]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4388]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3895G]]"
+- "[[H3318L]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H7725G]]"
+- "[[H7307G]]"
+- "[[H9023]]"
+- "[[H2421]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H5875]]"
+- "[[H3896]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:19**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God clave an hollow place that [was] in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which [is] in Lehi unto this day.
 <small><sub>**BSB:**</sub></small>
 So God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned, and he was revived. That is why he named it En-hakkore, and it remains in Lehi to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1234\|יִּבְקַ֨ע]] [[H0430G\|אֱלֹהִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4388\|מַּכְתֵּ֣שׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H3895G\|לֶּ֗חִי]] [[H9001\|וַ]][[H3318L\|יֵּצְא֨וּ]] [[H4480A\|מִמֶּ֤]][[H9033\|נּוּ]] [[H4325G\|מַ֙יִם֙]] [[H9001\|וַ]][[H8354\|יֵּ֔שְׁתְּ]] [[H9001\|וַ]][[H7725G\|תָּ֥שָׁב]] [[H7307G\|רוּח֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H2421\|יֶּ֑חִי]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֣ן]][[H9015\|׀]] [[H7121H\|קָרָ֣א]] [[H8034\|שְׁמָ֗]][[H9024\|הּ]] [[H5875\|עֵ֤ין]] [[H5875\|הַקּוֹרֵא֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H3896\|לֶּ֔חִי]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-HAKKORE|EN-HAKKORE]] • [[topic LEHI|LEHI]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMSON|SAMSON]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.18|<< Judges 15:18]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.20|Judges 15:20 >>]]</td></tr></table>
 

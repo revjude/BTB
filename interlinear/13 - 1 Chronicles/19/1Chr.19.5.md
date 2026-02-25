@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 19:5
+type: Verse
+kjv: "Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and then return."
+bsb: "When someone came and told David about his men, he sent messengers to meet them, since the men had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”"
+hebrew: "וַיֵּלְכוּ֩ וַיַּגִּ֨ידוּ לְדָוִ֤יד עַל־ הָֽאֲנָשִׁים֙ וַיִּשְׁלַ֣ח לִקְרָאתָ֔ם כִּי־ הָי֥וּ הָאֲנָשִׁ֖ים נִכְלָמִ֣ים מְאֹ֑ד וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ שְׁב֣וּ בִֽירֵח֔וֹ עַ֛ד אֲשֶׁר־ יְצַמַּ֥ח זְקַנְכֶ֖ם וְשַׁבְתֶּֽם׃"
+pericope: "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H7971G]]"
+- "[[H7122G]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H3637]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3405G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H6779]]"
+- "[[H2206]]"
+- "[[H9026]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:5**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there went [certain], and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and [then] return.
 <small><sub>**BSB:**</sub></small>
 When someone came and told David about his men, he sent messengers to meet them, since the men had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכוּ֩]] [[H9001\|וַ]][[H5046\|יַּגִּ֨ידוּ]] [[H9005\|לְ]][[H1732\|דָוִ֤יד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H9005\|לִ]][[H7122G\|קְרָאתָ֔]][[H9038\|ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H1961\|הָי֥וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H3637\|נִכְלָמִ֣ים]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H3427\|שְׁב֣וּ]] [[H9003\|בִֽ]][[H3405G\|ירֵח֔וֹ]] [[H5704\|עַ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6779\|יְצַמַּ֥ח]] [[H2206\|זְקַנְ]][[H9026\|כֶ֖ם]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.4|<< 1 Chronicles 19:4]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.6|1 Chronicles 19:6 >>]]</td></tr></table>
 

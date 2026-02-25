@@ -1,10 +1,52 @@
+---
+title: Luke 23:16
+type: Verse
+kjv: "I will therefore chastise him, and release him."
+bsb: "Therefore I will punish Him and release Him.”"
+greek: "παιδεύσας οὖν αὐτὸν ἀπολύσω."
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[G3811]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G0630G]]"
+texts:
+- NKO
+---
+
 **Luke 23:16**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I will therefore chastise him, and release [him].
 <small><sub>**BSB:**</sub></small>
 Therefore I will punish Him and release Him.”
-<small><sub>**Literal:**</sub></small>
-Having chastised therefore Him I will release [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.15|<< Luke 23:15]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.17|Luke 23:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3811\|παιδεύσας]]  [[G3767\|οὖν]]  [[G0846\|αὐτὸν]]  [[G0630G\|ἀπολύσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PASSOVER|PASSOVER]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]] • [[topic PUNISHMENT|PUNISHMENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.15|<< Luke 23:15]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.17|Luke 23:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Jeremiah 48:20
+type: Verse
+kjv: "Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,"
+bsb: "Moab is put to shame, for it has been shattered. Wail and cry out! Declare by the Arnon that Moab is destroyed."
+hebrew: "הֹבִ֥ישׁ מוֹאָ֛ב כִּֽי־ חַ֖תָּה הֵילִ֣ילוּ וּֽזְעָ֑קוּ הַגִּ֣ידוּ בְאַרְנ֔וֹן כִּ֥י שֻׁדַּ֖ד מוֹאָֽב׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H0954]]"
+- "[[H4124G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2865]]"
+- "[[H3213]]"
+- "[[H9002]]"
+- "[[H2199]]"
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H0769]]"
+- "[[H7703]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 48:20**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,
 <small><sub>**BSB:**</sub></small>
 Moab is put to shame, for it has been shattered. Wail and cry out! Declare by the Arnon that Moab is destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|הֹבִ֥ישׁ]] [[H4124G\|מוֹאָ֛ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2865\|חַ֖תָּה]] [[H3213\|הֵילִ֣ילוּ]] [[H9002\|וּֽ]][[H2199\|זְעָ֑קוּ]] [[H5046\|הַגִּ֣ידוּ]] [[H9003\|בְ]][[H0769\|אַרְנ֔וֹן]] [[H3588A\|כִּ֥י]] [[H7703\|שֻׁדַּ֖ד]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.19|<< Jeremiah 48:19]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.21|Jeremiah 48:21 >>]]</td></tr></table>
 
@@ -23,7 +67,7 @@ Moab is put to shame, for it has been shattered. Wail and cry out! Declare by th
 
 [^1]: wail  | **<big>[[H3213|הֵילִילִי]]</big> ** | hei.li.li<small><sup>[[HVhv2fs]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>הֵילִ֣יליּ\׀</big></span>**
-[^3]: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
-[^4]: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
+[^3]: and cry out  | **<big>[[H9002|וּ]]</big><big>[[H2199|זְעָקִי]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
+[^4]: and cry out  | **<big>[[H9002|וּ]]</big><big>[[H2199|זְעָקִי]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>וּֽזְעָ֑קיּ</big></span>**
 

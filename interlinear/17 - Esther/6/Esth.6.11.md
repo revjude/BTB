@@ -1,8 +1,70 @@
+---
+title: Esther 6:11
+type: Verse
+kjv: "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour."
+bsb: "So Haman took the robe and the horse, arrayed Mordecai, and paraded him through the city square, crying out before him, “This is what is done for the man whom the king is delighted to honor!”"
+hebrew: "וַיִּקַּ֤ח הָמָן֙ אֶת־ הַלְּב֣וּשׁ וְאֶת־ הַסּ֔וּס וַיַּלְבֵּ֖שׁ אֶֽת־ מָרְדֳּכָ֑י וַיַּרְכִּיבֵ֙הוּ֙ בִּרְח֣וֹב הָעִ֔יר וַיִּקְרָ֣א לְפָנָ֔יו כָּ֚כָה יֵעָשֶׂ֣ה לָאִ֔ישׁ אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֽוֹ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H2001]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3830]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H3847]]"
+- "[[H4782H]]"
+- "[[H7392]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H5892B]]"
+- "[[H7121I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H4428G]]"
+- "[[H2654A]]"
+- "[[H3366]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:11**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.
 <small><sub>**BSB:**</sub></small>
 So Haman took the robe and the horse, arrayed Mordecai, and paraded him through the city square, crying out before him, “This is what is done for the man whom the king is delighted to honor!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H2001\|הָמָן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3830\|לְּב֣וּשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּ֔וּס]] [[H9001\|וַ]][[H3847\|יַּלְבֵּ֖שׁ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4782H\|מָרְדֳּכָ֑י]] [[H9001\|וַ]][[H7392\|יַּרְכִּיבֵ֙]][[H9033\|הוּ֙]] [[H9003\|בִּ]][[H7339\|רְח֣וֹב]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H7121I\|יִּקְרָ֣א]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H3602\|כָּ֚כָה]] [[H6213A\|יֵעָשֶׂ֣ה]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2654A\|חָפֵ֥ץ]] [[H9003\|בִּ]][[H3366\|יקָרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.10|<< Esther 6:10]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.12|Esther 6:12 >>]]</td></tr></table>
 

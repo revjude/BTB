@@ -1,10 +1,68 @@
+---
+title: Acts 15:1
+type: Verse
+kjv: "And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved."
+bsb: "Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”"
+greek: "Καί τινες κατελθόντες ἀπὸ τῆς Ἰουδαίας ἐδίδασκον τοὺς ἀδελφοὺς ὅτι ἐὰν μὴ περιτμηθῆτε τῷ ἔθει τῷ Μωϋσέως, οὐ δύνασθε σωθῆναι."
+pericope: "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G2718]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2449]]"
+- "[[G1321]]"
+- "[[G0080]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4059]]"
+- "[[G1485]]"
+- "[[G3475]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G4982]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Acts 15:1**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And certain men which came down from Judaea taught the brethren, [and said], Except ye be circumcised after the manner of Moses, ye cannot be saved.
 <small><sub>**BSB:**</sub></small>
 Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”
-<small><sub>**Literal:**</sub></small>
-And certain ones having come down from <the> Judea were teaching the brothers that Only unless you shall become circumcised according to the custom <the> of Moses, [then] not you are able to be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.28|<< Acts 14:28]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.2|Acts 15:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καί]]  [[G5100\|τινες]]  [[G2718\|κατελθόντες]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G1321\|ἐδίδασκον]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4059\|περιτμηθῆτε]]  [[G3588\|τῷ]]  [[G1485\|ἔθει]]  [[G3588\|τῷ]]  [[G3475\|Μωϋσέως,]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G4982\|σωθῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic ELDER|ELDER]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.28|<< Acts 14:28]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.2|Acts 15:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

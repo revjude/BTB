@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absalom’s Return to Jerusalem
+type: Pericope
 pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 14
 book/chapter: "[[2Sam.14|2 Samuel 14]]"
-genre:
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 27
 verses:
 - "[[2Sam.14.1]]"
 - "[[2Sam.14.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[2Sam.14.27]]"
 ---
 
-[[2Sam.14|2 Samuel 14:1 - 2 Samuel 14:27]]
+<small>[[2Sam.14|2 Samuel 14:1-27]]</small>
 *Absalom’s Return to Jerusalem*
 
 [[2Sam.14.1|1]] Now Joab the son of Zeruiah perceived that the king’s heart \[was\] toward Absalom.

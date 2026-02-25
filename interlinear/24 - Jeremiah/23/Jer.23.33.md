@@ -1,8 +1,66 @@
+---
+title: Jeremiah 23:33
+type: Verse
+kjv: "And when this people, or the prophet, or a priest, shall ask thee, saying, What is the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD."
+bsb: "“Now when this people or a prophet or priest asks you, ‘What is the burden of the LORD?’ you are to say to them, ‘What burden? I will forsake you, declares the LORD.’"
+hebrew: "וְכִי־ יִשְׁאָלְךָ֩ הָעָ֨ם הַזֶּ֜ה אֽוֹ־ הַנָּבִ֤יא אֽוֹ־ כֹהֵן֙ לֵאמֹ֔ר מַה־ מַשָּׂ֖א יְהוָ֑ה וְאָמַרְתָּ֤ אֲלֵיהֶם֙ אֶת־ מַה־ מַשָּׂ֔א וְנָטַשְׁתִּ֥י אֶתְכֶ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.33 False Prophecies|False Prophecies]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7592]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0176A]]"
+- "[[H5030]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H4853B]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H5203]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:33**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when this people, or the prophet, or a priest, shall ask thee, saying, What [is] the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Now when this people or a prophet or priest asks you, ‘What is the burden of the LORD?’ you are to say to them, ‘What burden? I will forsake you, declares the LORD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִי]][[H9014\|־]] [[H7592\|יִשְׁאָלְ]][[H9031\|ךָ֩]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נָּבִ֤יא]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H3548\|כֹהֵן֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מַה]][[H9014\|־]] [[H4853B\|מַשָּׂ֖א]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֤]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4100\|מַה]][[H9014\|־]] [[H4853B\|מַשָּׂ֔א]] [[H9001\|וְ]][[H5203\|נָטַשְׁתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.32|<< Jeremiah 23:32]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.34|Jeremiah 23:34 >>]]</td></tr></table>
 

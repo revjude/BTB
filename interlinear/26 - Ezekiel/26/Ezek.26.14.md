@@ -1,8 +1,64 @@
+---
+title: Ezekiel 26:14
+type: Verse
+kjv: "And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the LORD have spoken it, saith the Lord GOD."
+bsb: "I will make you a bare rock, and you will become a place to spread the fishing nets. You will never be rebuilt, for I, the LORD, have spoken, declares the Lord GOD.’"
+hebrew: "וּנְתַתִּ֞יךְ לִצְחִ֣יחַ סֶ֗לַע מִשְׁטַ֤ח חֲרָמִים֙ תִּֽהְיֶ֔ה לֹ֥א תִבָּנֶ֖ה ע֑וֹד כִּ֣י אֲנִ֤י יְהוָה֙ דִּבַּ֔רְתִּי נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ ס"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic NET|NET]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9032]]"
+- "[[H9005]]"
+- "[[H6706]]"
+- "[[H5553H]]"
+- "[[H4894A]]"
+- "[[H2764B]]"
+- "[[H1961]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H5750]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 26:14**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thee like the top of a rock: thou shalt be [a place] to spread nets upon; thou shalt be built no more: for I the LORD have spoken [it], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 I will make you a bare rock, and you will become a place to spread the fishing nets. You will never be rebuilt, for I, the LORD, have spoken, declares the Lord GOD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414I\|נְתַתִּ֞י]][[H9032\|ךְ]] [[H9005\|לִ]][[H6706\|צְחִ֣יחַ]] [[H5553H\|סֶ֗לַע]] [[H4894A\|מִשְׁטַ֤ח]] [[H2764B\|חֲרָמִים֙]] [[H1961\|תִּֽהְיֶ֔ה]] [[H3808\|לֹ֥א]] [[H1129\|תִבָּנֶ֖ה]] [[H5750\|ע֑וֹד]] [[H3588A\|כִּ֣י]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H1696G\|דִּבַּ֔רְתִּי]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.13|<< Ezekiel 26:13]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.15|Ezekiel 26:15 >>]]</td></tr></table>
 
@@ -23,7 +79,7 @@ I will make you a bare rock, and you will become a place to spread the fishing n
 | I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּ֔רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.13|<< Ezekiel 26:13]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.15|Ezekiel 26:15 >>]]</td></tr></table>
 
 

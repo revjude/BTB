@@ -1,8 +1,81 @@
+---
+title: 1 Kings 20:28
+type: Verse
+kjv: "And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD, Because the Syrians have said, The LORD is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD."
+bsb: "Then the man of God approached the king of Israel and said, “This is what the LORD says: ‘Because the Arameans have said that the LORD is a god of the hills and not of the valleys, I will deliver all this great army into your hand. Then you will know that I am the LORD.’”"
+hebrew: "וַיִּגַּ֞שׁ אִ֣ישׁ הָאֱלֹהִ֗ים וַיֹּאמֶר֮ אֶל־ מֶ֣לֶךְ יִשְׂרָאֵל֒ וַיֹּ֜אמֶר כֹּֽה־ אָמַ֣ר יְהוָ֗ה יַ֠עַן אֲשֶׁ֨ר אָמְר֤וּ אֲרָם֙ אֱלֹהֵ֤י הָרִים֙ יְהוָ֔ה וְלֹֽא־ אֱלֹהֵ֥י עֲמָקִ֖ים ה֑וּא וְ֠נָתַתִּי אֶת־ כָּל־ הֶהָמ֨וֹן הַגָּ֤דוֹל הַזֶּה֙ בְּיָדֶ֔ךָ וִֽידַעְתֶּ֖ם כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[1Kgs.20.26 Another War with Ben-hadad|Another War with Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H0758I]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6010R]]"
+- "[[H1931]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:28**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a man of God, and spake unto the king of Israel, and said, Thus saith the LORD, Because the Syrians have said, The LORD [is] God of the hills, but he [is] not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 Then the man of God approached the king of Israel and said, “This is what the LORD says: ‘Because the Arameans have said that the LORD is a god of the hills and not of the valleys, I will deliver all this great army into your hand. Then you will know that I am the LORD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּ֞שׁ]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H3282\|יַ֠עַן]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|אָמְר֤וּ]] [[H0758I\|אֲרָם֙]] [[H0430G\|אֱלֹהֵ֤י]] [[H2022G\|הָרִים֙]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֥י]] [[H6010R\|עֲמָקִ֖ים]] [[H1931\|ה֑וּא]] [[H9001\|וְ֠]][[H5414G\|נָתַתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ]][[H1995A\|הָמ֨וֹן]] [[H9009\|הַ]][[H1419A\|גָּ֤דוֹל]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9003\|בְּ]][[H3027H\|יָדֶ֔]][[H9021\|ךָ]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHECY|PROPHECY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.27|<< 1 Kings 20:27]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.29|1 Kings 20:29 >>]]</td></tr></table>
 

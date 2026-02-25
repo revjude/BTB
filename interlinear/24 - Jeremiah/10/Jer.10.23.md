@@ -1,8 +1,60 @@
+---
+title: Jeremiah 10:23
+type: Verse
+kjv: "O LORD, I know that the way of man is not in himself: it is not in man that walketh to direct his steps."
+bsb: "I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps."
+hebrew: "יָדַ֣עְתִּי יְהוָ֔ה כִּ֛י לֹ֥א לָאָדָ֖ם דַּרְכּ֑וֹ לֹֽא־ לְאִ֣ישׁ הֹלֵ֔ךְ וְהָכִ֖ין אֶֽת־ צַעֲדֽוֹ׃"
+pericope: "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H3559A]]"
+- "[[H0853]]"
+- "[[H6806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:23**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, I know that the way of man [is] not in himself: [it is] not in man that walketh to direct his steps.
 <small><sub>**BSB:**</sub></small>
 I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֣עְתִּי]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H9005\|לָ]][[H0120G\|אָדָ֖ם]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H1980I\|הֹלֵ֔ךְ]] [[H9002\|וְ]][[H3559A\|הָכִ֖ין]] [[H0853\|אֶֽת]][[H9014\|־]] [[H6806\|צַעֲדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HUMILITY|HUMILITY]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.22|<< Jeremiah 10:22]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.24|Jeremiah 10:24 >>]]</td></tr></table>
 

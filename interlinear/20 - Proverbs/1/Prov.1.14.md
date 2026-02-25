@@ -1,8 +1,57 @@
+---
+title: Proverbs 1:14
+type: Verse
+kjv: "Cast in thy lot among us; let us all have one purse:"
+bsb: "Throw in your lot with us; let us all share one purse”—"
+hebrew: "גּ֭וֹרָ֣לְךָ תַּפִּ֣יל בְּתוֹכֵ֑נוּ כִּ֥יס אֶ֝חָ֗ד יִהְיֶ֥ה לְכֻלָּֽנוּ׃"
+pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic ROBBERS|ROBBERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1486]]"
+- "[[H9021]]"
+- "[[H5307H]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9025]]"
+- "[[H3599]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:14**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast in thy lot among us; let us all have one purse:
 <small><sub>**BSB:**</sub></small>
 Throw in your lot with us; let us all share one purse”—
+<small><sub>**Hebrew:**</sub></small>
+[[H1486\|גּ֭וֹרָ֣לְ]][[H9021\|ךָ]] [[H5307H\|תַּפִּ֣יל]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֑]][[H9025\|נוּ]] [[H3599\|כִּ֥יס]] [[H0259\|אֶ֝חָ֗ד]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H3605\|כֻלָּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic ROBBERS|ROBBERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.13|<< Proverbs 1:13]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.15|Proverbs 1:15 >>]]</td></tr></table>
 

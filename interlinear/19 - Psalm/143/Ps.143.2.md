@@ -1,8 +1,62 @@
+---
+title: Psalm 143:2
+type: Verse
+kjv: "And enter not into judgment with thy servant: for in thy sight shall no man living be justified."
+bsb: "Do not bring Your servant into judgment, for no one alive is righteous before You."
+hebrew: "וְאַל־ תָּב֣וֹא בְ֭מִשְׁפָּט אֶת־ עַבְדֶּ֑ךָ כִּ֤י לֹֽא־ יִצְדַּ֖ק לְפָנֶ֣יךָ כָל־ חָֽי׃"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H0854]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6663]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3605]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 143:2**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And enter not into judgment with thy servant: for in thy sight shall no man living be justified.
 <small><sub>**BSB:**</sub></small>
 Do not bring Your servant into judgment, for no one alive is righteous before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּב֣וֹא]] [[H9003\|בְ֭]][[H4941G\|מִשְׁפָּט]] [[H0854\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֤י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6663\|יִצְדַּ֖ק]] [[H9005\|לְ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H3605\|כָל]][[H9014\|־]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.1|<< Psalms 143:1]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.3|Psalms 143:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

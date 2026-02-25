@@ -1,10 +1,69 @@
+---
+title: Acts 23:23
+type: Verse
+kjv: "And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;"
+bsb: "Then he called two of his centurions and said, “Prepare two hundred soldiers, seventy horsemen, and two hundred spearmen to go to Caesarea in the third hour of the night."
+greek: "Καὶ προσκαλεσάμενος δύο τινὰς τῶν ἑκατονταρχῶν εἶπεν· ἑτοιμάσατε στρατιώτας διακοσίους ὅπως πορευθῶσιν ἕως Καισαρείας καὶ ἱππεῖς ἑβδομήκοντα καὶ δεξιολάβους διακοσίους ἀπὸ τρίτης ὥρας τῆς νυκτός,"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G1417]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1543]]"
+- "[[G2036]]"
+- "[[G2090]]"
+- "[[G4757]]"
+- "[[G1250]]"
+- "[[G3704]]"
+- "[[G4198]]"
+- "[[G2193]]"
+- "[[G2542H]]"
+- "[[G2460]]"
+- "[[G1440]]"
+- "[[G1187]]"
+- "[[G0575]]"
+- "[[G5154]]"
+- "[[G5610]]"
+- "[[G3571]]"
+texts:
+- NKO
+---
+
 **Acts 23:23**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called unto [him] two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;
 <small><sub>**BSB:**</sub></small>
 Then he called two of his centurions and said, “Prepare two hundred soldiers, seventy horsemen, and two hundred spearmen to go to Caesarea in the third hour of the night.
-<small><sub>**Literal:**</sub></small>
-And having called to [him] two certain of the centurions he said; do prepare soldiers two hundred so that they may go as far as Caesarea and horsemen seventy and spearmen two hundred for [the] third hour of the night,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.22|<< Acts 23:22]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.24|Acts 23:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G1417\|δύο]]  [[G5100\|τινὰς]]  [[G3588\|τῶν]]  [[G1543\|ἑκατονταρχῶν]]  [[G2036\|εἶπεν·]]  [[G2090\|ἑτοιμάσατε]]  [[G4757\|στρατιώτας]]  [[G1250\|διακοσίους]]  [[G3704\|ὅπως]]  [[G4198\|πορευθῶσιν]]  [[G2193\|ἕως]]  [[G2542H\|Καισαρείας]]  [[G2532\|καὶ]]  [[G2460\|ἱππεῖς]]  [[G1440\|ἑβδομήκοντα]]  [[G2532\|καὶ]]  [[G1187\|δεξιολάβους]]  [[G1250\|διακοσίους]]  [[G0575\|ἀπὸ]]  [[G5154\|τρίτης]]  [[G5610\|ὥρας]]  [[G3588\|τῆς]]  [[G3571\|νυκτός,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAESAREA|CAESAREA]] • [[topic CENTURION|CENTURION]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic HOURS|HOURS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NIGHT|NIGHT]] • [[topic PAUL|PAUL]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.22|<< Acts 23:22]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.24|Acts 23:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

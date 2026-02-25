@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple’s Interior
+type: Pericope
 pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 6
 book/chapter: "[[1Kgs.6|1 Kings 6]]"
-genre:
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.6.14]]"
 - "[[1Kgs.6.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.6.22]]"
 ---
 
-[[1Kgs.6|1 Kings 6:14 - 1 Kings 6:22]]
+<small>[[1Kgs.6|1 Kings 6:14-22]]</small>
 *The Temple’s Interior*
 
 [[1Kgs.6.14|14]] So Solomon built the house, and finished it.

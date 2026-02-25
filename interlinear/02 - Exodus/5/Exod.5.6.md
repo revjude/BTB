@@ -1,8 +1,62 @@
+---
+title: Exodus 5:6
+type: Verse
+kjv: "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+bsb: "That same day Pharaoh commanded the taskmasters of the people and their foremen:"
+hebrew: "וַיְצַ֥ו פַּרְעֹ֖ה בַּיּ֣וֹם הַה֑וּא אֶת־ הַנֹּגְשִׂ֣ים בָּעָ֔ם וְאֶת־ שֹׁטְרָ֖יו לֵאמֹֽר׃"
+pericope: "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CRUELTY|CRUELTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H6547J]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5065]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H7860]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:6**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,
 <small><sub>**BSB:**</sub></small>
 That same day Pharaoh commanded the taskmasters of the people and their foremen:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֥ו]] [[H6547J\|פַּרְעֹ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5065\|נֹּגְשִׂ֣ים]] [[H9003\|בָּ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7860\|שֹׁטְרָ֖י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUELTY|CRUELTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.5|<< Exodus 5:5]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.7|Exodus 5:7 >>]]</td></tr></table>
 

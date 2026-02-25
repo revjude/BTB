@@ -1,8 +1,54 @@
+---
+title: Job 16:11
+type: Verse
+kjv: "God hath delivered me to the ungodly, and turned me over into the hands of the wicked."
+bsb: "God has delivered me to unjust men; He has thrown me to the clutches of the wicked."
+hebrew: "יַסְגִּירֵ֣נִי אֵ֭ל אֶ֣ל עֲוִ֑יל וְעַל־ יְדֵ֖י רְשָׁעִ֣ים יִרְטֵֽנִי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H5462]]"
+- "[[H9030]]"
+- "[[H0410G]]"
+- "[[H0413]]"
+- "[[H5760]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H7563]]"
+- "[[H3399B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:11**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
 <small><sub>**BSB:**</sub></small>
 God has delivered me to unjust men; He has thrown me to the clutches of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H5462\|יַסְגִּירֵ֣]][[H9030\|נִי]] [[H0410G\|אֵ֭ל]] [[H0413\|אֶ֣ל]] [[H5760\|עֲוִ֑יל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵ֖י]] [[H7563\|רְשָׁעִ֣ים]] [[H3399B\|יִרְטֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.10|<< Job 16:10]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.12|Job 16:12 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Judges 15:7
+type: Verse
+kjv: "And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease."
+bsb: "And Samson told them, “Because you have done this, I will not rest until I have taken vengeance upon you.”"
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ שִׁמְשׁ֔וֹן אִֽם־ תַּעֲשׂ֖וּן כָּזֹ֑את כִּ֛י אִם־ נִקַּ֥מְתִּי בָכֶ֖ם וְאַחַ֥ר אֶחְדָּֽל׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8123]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H5358]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H2308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:7**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease.
 <small><sub>**BSB:**</sub></small>
 And Samson told them, “Because you have done this, I will not rest until I have taken vengeance upon you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H8123\|שִׁמְשׁ֔וֹן]] [[H0518A\|אִֽם]][[H9014\|־]] [[H6213A\|תַּעֲשׂ֖וּ]][[H9013\|ן]] [[H9004\|כָּ]][[H2063\|זֹ֑את]] [[H3588B\|כִּ֛י]] [[H0518B\|אִם]][[H9014\|־]] [[H5358\|נִקַּ֥מְתִּי]] [[H9003\|בָ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H0310A\|אַחַ֥ר]] [[H2308\|אֶחְדָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVENGE|REVENGE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.6|<< Judges 15:6]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.8|Judges 15:8 >>]]</td></tr></table>
 

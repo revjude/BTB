@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 9:6
+type: Verse
+kjv: "But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully."
+bsb: "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously."
+greek: "τοῦτο δέ, ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει, καὶ ὁ σπείρων ἐπ᾽ εὐλογίαις ἐπ᾽ εὐλογίαις καὶ θερίσει."
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SEED|SEED]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4687]]"
+- "[[G5340]]"
+- "[[G2532]]"
+- "[[G2325]]"
+- "[[G1909]]"
+- "[[G2129]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 9:6**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But this [I say], He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.
 <small><sub>**BSB:**</sub></small>
 Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.
-<small><sub>**Literal:**</sub></small>
-This now: The [one] sowing sparingly sparingly also will reap, and the [one] sowing upon blessings upon blessings also will reap.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.5|<< 2 Corinthians 9:5]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.7|2 Corinthians 9:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δέ,]]  [[G3588\|ὁ]]  [[G4687\|σπείρων]]  [[G5340\|φειδομένως]]  [[G5340\|φειδομένως]]  [[G2532\|καὶ]]  [[G2325\|θερίσει,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4687\|σπείρων]]  [[G1909\|ἐπ᾽]]  [[G2129\|εὐλογίαις]]  [[G1909\|ἐπ᾽]]  [[G2129\|εὐλογίαις]]  [[G2532\|καὶ]]  [[G2325\|θερίσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic BOTANY|BOTANY]] • [[topic GIVING|GIVING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic SEED|SEED]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.5|<< 2 Corinthians 9:5]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.7|2 Corinthians 9:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

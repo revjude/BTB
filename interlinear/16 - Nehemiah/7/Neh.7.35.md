@@ -1,8 +1,50 @@
+---
+title: Nehemiah 7:35
+type: Verse
+kjv: "The children of Harim, three hundred and twenty."
+bsb: "the descendants of Harim, 320;"
+hebrew: "בְּנֵ֣י חָרִ֔ם שְׁלֹ֥שׁ מֵא֖וֹת וְעֶשְׂרִֽים׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HARIM|HARIM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121G]]"
+- "[[H2766H]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:35**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Harim, three hundred and twenty.
 <small><sub>**BSB:**</sub></small>
 the descendants of Harim, 320;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H2766H\|חָרִ֔ם]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H6242\|עֶשְׂרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARIM|HARIM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.34|<< Nehemiah 7:34]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.36|Nehemiah 7:36 >>]]</td></tr></table>
 
@@ -12,7 +54,7 @@ the descendants of Harim, 320;
 | Harim  |**<big>&#8207;[[H2766H\|חָרִ֔ם]]&#8207; </big>**| cha.Rim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.34|<< Nehemiah 7:34]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.36|Nehemiah 7:36 >>]]</td></tr></table>
 
 

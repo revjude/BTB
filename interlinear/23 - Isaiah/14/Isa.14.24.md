@@ -1,8 +1,63 @@
+---
+title: Isaiah 14:24
+type: Verse
+kjv: "The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:"
+bsb: "The LORD of Hosts has sworn: “Surely, as I have planned, so will it be; as I have purposed, so will it stand."
+hebrew: "נִשְׁבַּ֛ע יְהוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר אִם־ לֹ֞א כַּאֲשֶׁ֤ר דִּמִּ֙יתִי֙ כֵּ֣ן הָיָ֔תָה וְכַאֲשֶׁ֥ר יָעַ֖צְתִּי הִ֥יא תָקֽוּם׃"
+pericope: "[[Isa.14.24 God’s Purpose against Assyria|God’s Purpose against Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1819]]"
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H3289]]"
+- "[[H1931]]"
+- "[[H6965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:24**<big><big>[[Isa.14.24 God’s Purpose against Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, [so] shall it stand:
 <small><sub>**BSB:**</sub></small>
 The LORD of Hosts has sworn: “Surely, as I have planned, so will it be; as I have purposed, so will it stand.
+<small><sub>**Hebrew:**</sub></small>
+[[H7650\|נִשְׁבַּ֛ע]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֞א]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H1819\|דִּמִּ֙יתִי֙]] [[H3651C\|כֵּ֣ן]] [[H1961\|הָיָ֔תָה]] [[H9002\|וְ]][[H9004\|כַ]][[H0834D\|אֲשֶׁ֥ר]] [[H3289\|יָעַ֖צְתִּי]] [[H1931\|הִ֥יא]] [[H6965I\|תָקֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.23|<< Isaiah 14:23]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.25|Isaiah 14:25 >>]]</td></tr></table>
 

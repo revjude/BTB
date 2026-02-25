@@ -1,8 +1,58 @@
+---
+title: Genesis 16:15
+type: Verse
+kjv: "And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael."
+bsb: "And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne."
+hebrew: "וַתֵּ֧לֶד הָגָ֛ר לְאַבְרָ֖ם בֵּ֑ן וַיִּקְרָ֨א אַבְרָ֧ם שֶׁם־ בְּנ֛וֹ אֲשֶׁר־ יָלְדָ֥ה הָגָ֖ר יִשְׁמָעֵֽאל׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BASTARD|BASTARD]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H1904]]"
+- "[[H9005]]"
+- "[[H0087]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H3458G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:15**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael.
 <small><sub>**BSB:**</sub></small>
 And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֧לֶד]] [[H1904\|הָגָ֛ר]] [[H9005\|לְ]][[H0087\|אַבְרָ֖ם]] [[H1121A\|בֵּ֑ן]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֨א]] [[H0087\|אַבְרָ֧ם]] [[H8034\|שֶׁם]][[H9014\|־]] [[H1121A\|בְּנ֛]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3205\|יָלְדָ֥ה]] [[H1904\|הָגָ֖ר]] [[H3458G\|יִשְׁמָעֵֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BASTARD|BASTARD]] • [[topic ISHMAEL|ISHMAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.14|<< Genesis 16:14]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.16|Genesis 16:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

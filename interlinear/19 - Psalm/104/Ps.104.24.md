@@ -1,8 +1,62 @@
+---
+title: Psalm 104:24
+type: Verse
+kjv: "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."
+bsb: "How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures."
+hebrew: "מָֽה־ רַבּ֬וּ מַעֲשֶׂ֨יךָ׀ יְֽהוָ֗ה כֻּ֭לָּם בְּחָכְמָ֣ה עָשִׂ֑יתָ מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7231]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H6213H]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:24**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
 <small><sub>**BSB:**</sub></small>
 How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מָֽה]][[H9014\|־]] [[H7231\|רַבּ֬וּ]] [[H4639G\|מַעֲשֶׂ֨י]][[H9021\|ךָ]][[H9015\|׀]] [[H3068G\|יְֽהוָ֗ה]] [[H3605\|כֻּ֭לָּ]][[H9028\|ם]] [[H9003\|בְּ]][[H2451\|חָכְמָ֣ה]] [[H6213H\|עָשִׂ֑יתָ]] [[H4390\|מָלְאָ֥ה]] [[H9009\|הָ֝]][[H0776G\|אָ֗רֶץ]] [[H7075\|קִנְיָנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.23|<< Psalms 104:23]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.25|Psalms 104:25 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Genesis 39:7
+type: Verse
+kjv: "And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me."
+bsb: "and after some time his master’s wife cast her eyes upon Joseph and said, “Sleep with me.”"
+hebrew: "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־ אֲדֹנָ֛יו אֶת־ עֵינֶ֖יהָ אֶל־ יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H5375H]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H7901I]]"
+- "[[H9012]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:7**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me.
 <small><sub>**BSB:**</sub></small>
 and after some time his master’s wife cast her eyes upon Joseph and said, “Sleep with me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחַר֙]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וַ]][[H5375H\|תִּשָּׂ֧א]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H0113\|אֲדֹנָ֛י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֶ֖י]][[H9024\|הָ]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H7901I\|שִׁכְבָ֥]][[H9012\|ה]] [[H5973A\|עִמִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.6|<< Genesis 39:6]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.8|Genesis 39:8 >>]]</td></tr></table>
 

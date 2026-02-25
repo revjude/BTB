@@ -1,8 +1,77 @@
+---
+title: 1 Kings 1:38
+type: Verse
+kjv: "So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David’s mule, and brought him to Gihon."
+bsb: "Then Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, went down and set Solomon on King David’s mule, and they escorted him to Gihon."
+hebrew: "וַיֵּ֣רֶד צָד֣וֹק הַ֠כֹּהֵן וְנָתָ֨ן הַנָּבִ֜יא וּבְנָיָ֣הוּ בֶן־ יְהוֹיָדָ֗ע וְהַכְּרֵתִי֙ וְהַפְּלֵתִ֔י וַיַּרְכִּ֙בוּ֙ אֶת־ שְׁלֹמֹ֔ה עַל־ פִּרְדַּ֖ת הַמֶּ֣לֶךְ דָּוִ֑ד וַיֹּלִ֥כוּ אֹת֖וֹ עַל־ גִּחֽוֹן׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PELETHITES|PELETHITES]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H6659G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H3774H]]"
+- "[[H6432]]"
+- "[[H7392]]"
+- "[[H0853]]"
+- "[[H8010]]"
+- "[[H5921A]]"
+- "[[H6506]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H1980J]]"
+- "[[H9033]]"
+- "[[H1521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:38**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David’s mule, and brought him to Gihon.
 <small><sub>**BSB:**</sub></small>
 Then Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, went down and set Solomon on King David’s mule, and they escorted him to Gihon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֣רֶד]] [[H6659G\|צָד֣וֹק]] [[H9009\|הַ֠]][[H3548\|כֹּהֵן]] [[H9002\|וְ]][[H5416H\|נָתָ֨ן]] [[H9009\|הַ]][[H5030\|נָּבִ֜יא]] [[H9002\|וּ]][[H1141G\|בְנָיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֗ע]] [[H9002\|וְ]][[H9009\|הַ]][[H3774H\|כְּרֵתִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6432\|פְּלֵתִ֔י]] [[H9001\|וַ]][[H7392\|יַּרְכִּ֙בוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6506\|פִּרְדַּ֖ת]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H1980J\|יֹּלִ֥כוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H1521\|גִּחֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENAIAH|BENAIAH]] • [[topic CHERETHITES|CHERETHITES]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIHON|GIHON]] • [[topic ISRAEL|ISRAEL]] • [[topic NATHAN|NATHAN]] • [[topic PELETHITES|PELETHITES]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.37|<< 1 Kings 1:37]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.39|1 Kings 1:39 >>]]</td></tr></table>
 

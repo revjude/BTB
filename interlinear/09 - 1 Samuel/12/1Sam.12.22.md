@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 12:22
+type: Verse
+kjv: "For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people."
+bsb: "Indeed, for the sake of His great name, the LORD will not abandon His people, because He was pleased to make you His own."
+hebrew: "כִּ֠י לֹֽא־ יִטֹּ֤שׁ יְהוָה֙ אֶת־ עַמּ֔וֹ בַּעֲב֖וּר שְׁמ֣וֹ הַגָּד֑וֹל כִּ֚י הוֹאִ֣יל יְהוָ֔ה לַעֲשׂ֥וֹת אֶתְכֶ֛ם ל֖וֹ לְעָֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5203]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H2974]]"
+- "[[H9005]]"
+- "[[H6213H]]"
+- "[[H9036]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:22**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people.
 <small><sub>**BSB:**</sub></small>
 Indeed, for the sake of His great name, the LORD will not abandon His people, because He was pleased to make you His own.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5203\|יִטֹּ֤שׁ]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H9009\|הַ]][[H1419A\|גָּד֑וֹל]] [[H3588A\|כִּ֚י]] [[H2974\|הוֹאִ֣יל]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H6213H\|עֲשׂ֥וֹת]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.21|<< 1 Samuel 12:21]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.23|1 Samuel 12:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

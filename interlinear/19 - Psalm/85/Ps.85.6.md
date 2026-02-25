@@ -1,8 +1,61 @@
+---
+title: Psalm 85:6
+type: Verse
+kjv: "Wilt thou not revive us again: that thy people may rejoice in thee?"
+bsb: "Will You not revive us again, that Your people may rejoice in You?"
+hebrew: "הֲֽלֹא־ אַ֭תָּה תָּשׁ֣וּב תְּחַיֵּ֑נוּ וְ֝עַמְּךָ֗ יִשְׂמְחוּ־ בָֽךְ׃"
+pericope: "[[Ps.85.1 You Showed Favor to Your Land|You Showed Favor to Your Land]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 85
+book/chapter: "[[Ps.85|Psalm 85]]"
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H7725J]]"
+- "[[H2421]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 85:6**<big><big>[[Ps.85.1 You Showed Favor to Your Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou not revive us again: that thy people may rejoice in thee?
 <small><sub>**BSB:**</sub></small>
 Will You not revive us again, that Your people may rejoice in You?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H3808\|לֹא]][[H9014\|־]] [[H0859A\|אַ֭תָּה]] [[H7725J\|תָּשׁ֣וּב]] [[H2421\|תְּחַיֵּ֑]][[H9035\|נוּ]] [[H9002\|וְ֝]][[H5971A\|עַמְּ]][[H9021\|ךָ֗]] [[H8055\|יִשְׂמְחוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOY|JOY]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.5|<< Psalms 85:5]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.7|Psalms 85:7 >>]]</td></tr></table>
 

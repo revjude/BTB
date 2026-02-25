@@ -1,10 +1,78 @@
+---
+title: Matthew 25:24
+type: Verse
+kjv: "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+bsb: "Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed."
+jesus_said: "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+greek: "προσελθὼν δὲ καὶ ὁ τὸ ἓν τάλαντον εἰληφὼς εἶπεν· κύριε, ἔγνων σε ὅτι σκληρὸς εἶ ἄνθρωπος θερίζων ὅπου οὐκ ἔσπειρας καὶ συνάγων ὅθεν οὐ διεσκόρπισας·"
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G5007]]"
+- "[[G2983]]"
+- "[[G2036]]"
+- "[[G2962H]]"
+- "[[G1097]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4642]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G2325]]"
+- "[[G3699]]"
+- "[[G3756]]"
+- "[[G4687]]"
+- "[[G4863]]"
+- "[[G3606]]"
+- "[[G1287]]"
+texts:
+- NKO
+---
+
 **Matthew 25:24**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
 <small><sub>**BSB:**</sub></small>
 Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed.
-<small><sub>**Literal:**</sub></small>
-Having come then also <the> the one talent having received he said; Master, I knew you that hard you are a man reaping where not you did sow and gathering from where not you did scatter;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.23|<< Matthew 25:23]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.25|Matthew 25:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσελθὼν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3588\|τὸ]]  [[G1520\|ἓν]]  [[G5007\|τάλαντον]]  [[G2983\|εἰληφὼς]]  [[G2036\|εἶπεν·]]  [[G2962H\|κύριε,]]  [[G1097\|ἔγνων]]  [[G4771\|σε]]  [[G3754G\|ὅτι]]  [[G4642\|σκληρὸς]]  [[G1510\|εἶ]]  [[G0444\|ἄνθρωπος]]  [[G2325\|θερίζων]]  [[G3699\|ὅπου]]  [[G3756\|οὐκ]]  [[G4687\|ἔσπειρας]]  [[G2532\|καὶ]]  [[G4863\|συνάγων]]  [[G3606\|ὅθεν]]  [[G3756\|οὐ]]  [[G1287\|διεσκόρπισας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.23|<< Matthew 25:23]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.25|Matthew 25:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

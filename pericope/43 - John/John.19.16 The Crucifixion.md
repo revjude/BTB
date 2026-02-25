@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crucifixion
+type: Pericope
 pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 19
 book/chapter: "[[John.19|John 19]]"
-genre:
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.19.16]]"
 - "[[John.19.17]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.19.27]]"
 ---
 
-[[John.19|John 19:16 - John 19:27]]
+<small>[[John.19|John 19:16-27]]</small>
 *The Crucifixion*
 
 [[John.19.16|16]] Then delivered he him therefore unto them to be crucified. And they took Jesus, and led \[him\] away.

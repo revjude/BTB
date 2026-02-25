@@ -5,7 +5,7 @@
 
 → In friendship [[Prov.27.10|Pr 27:10]]
 
-→ Under suffering [[Matt.5.12|Mt 5:12]]; [[Heb.12.5|Heb 12:5]]; [[1Pet.4.12|1Pe 4:12]]-[[1Pet.4.16|16]]
+→ Under suffering [[Matt.5.12|Mt 5:12]]; [[Heb.12.5|Heb 12:5]]; [[1Pet.4.12|1Pe 4:12-16]]
 
 → In prayer [[Luke.18.1|Lu 18:1]]; [[Rom.12.12|Ro 12:12]]; [[Eph.6.18|Eph 6:18]]; [[Col.4.2|Col 4:2]]; [[1Thess.5.17|1Th  5:17]]
 

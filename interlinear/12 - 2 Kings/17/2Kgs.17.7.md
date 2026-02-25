@@ -1,8 +1,69 @@
+---
+title: 2 Kings 17:7
+type: Verse
+kjv: "For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,"
+bsb: "All this happened because the people of Israel had sinned against the LORD their God, who had brought them out of the land of Egypt from under the hand of Pharaoh king of Egypt. They had worshiped other gods"
+hebrew: "וַיְהִ֗י כִּֽי־ חָטְא֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ לַיהוָ֣ה אֱלֹהֵיהֶ֔ם הַמַּעֲלֶ֤ה אֹתָם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִתַּ֕חַת יַ֖ד פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרָ֑יִם וַיִּֽירְא֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H6547J]]"
+- "[[H4428G]]"
+- "[[H3372H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:7**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [so] it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
 <small><sub>**BSB:**</sub></small>
 All this happened because the people of Israel had sinned against the LORD their God, who had brought them out of the land of Egypt from under the hand of Pharaoh king of Egypt. They had worshiped other gods
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2398\|חָטְא֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֔ם]] [[H9009\|הַ]][[H5927H\|מַּעֲלֶ֤ה]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9006\|מִ]][[H8478K\|תַּ֕חַת]] [[H3027W\|יַ֖ד]] [[H6547J\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3372H\|יִּֽירְא֖וּ]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.6|<< 2 Kings 17:6]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.8|2 Kings 17:8 >>]]</td></tr></table>
 

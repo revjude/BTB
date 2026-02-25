@@ -1,8 +1,68 @@
+---
+title: Numbers 26:2
+type: Verse
+kjv: "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel."
+bsb: "“Take a census of the whole congregation of Israel by the houses of their fathers—all those twenty years of age or older who can serve in the army of Israel.”"
+hebrew: "שְׂא֞וּ אֶת־ רֹ֣אשׁ׀ כָּל־ עֲדַ֣ת בְּנֵי־ יִשְׂרָאֵ֗ל מִבֶּ֨ן עֶשְׂרִ֥ים שָׁנָ֛ה וָמַ֖עְלָה לְבֵ֣ית אֲבֹתָ֑ם כָּל־ יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Num.26.1 The Second Census of Israel|The Second Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H5375V]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218L]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3318N]]"
+- "[[H6635H]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:2**<big><big>[[Num.26.1 The Second Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel.
 <small><sub>**BSB:**</sub></small>
 “Take a census of the whole congregation of Israel by the houses of their fathers—all those twenty years of age or older who can serve in the army of Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5375V\|שְׂא֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218L\|רֹ֣אשׁ]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֣ת]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֛ה]] [[H9002\|וָ]][[H4605\|מַ֖עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H3318N\|יֹצֵ֥א]] [[H6635H\|צָבָ֖א]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.1|<< Numbers 26:1]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.3|Numbers 26:3 >>]]</td></tr></table>
 

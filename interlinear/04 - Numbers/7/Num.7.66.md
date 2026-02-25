@@ -1,8 +1,58 @@
+---
+title: Numbers 7:66
+type: Verse
+kjv: "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:"
+bsb: "On the tenth day Ahiezer son of Ammishaddai, the leader of the Danites, drew near."
+hebrew: "בַּיּוֹם֙ הָעֲשִׂירִ֔י נָשִׂ֖יא לִבְנֵ֣י דָ֑ן אֲחִיעֶ֖זֶר בֶּן־ עַמִּישַׁדָּֽי׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIEZER|AHIEZER]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H6224]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H1835G]]"
+- "[[H0295G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5996]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:66**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, [offered]:
 <small><sub>**BSB:**</sub></small>
 On the tenth day Ahiezer son of Ammishaddai, the leader of the Danites, drew near.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הָ]][[H6224\|עֲשִׂירִ֔י]] [[H5387A\|נָשִׂ֖יא]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H1835G\|דָ֑ן]] [[H0295G\|אֲחִיעֶ֖זֶר]] [[H1121G\|בֶּן]][[H9014\|־]] [[H5996\|עַמִּישַׁדָּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIEZER|AHIEZER]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.65|<< Numbers 7:65]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.67|Numbers 7:67 >>]]</td></tr></table>
 

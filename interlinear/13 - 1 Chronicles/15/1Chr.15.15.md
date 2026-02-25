@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 15:15
+type: Verse
+kjv: "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD."
+bsb: "And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded in accordance with the word of the LORD."
+hebrew: "וַיִּשְׂא֣וּ בְנֵֽי־ הַלְוִיִּ֗ם אֵ֚ת אֲר֣וֹן הָֽאֱלֹהִ֔ים כַּאֲשֶׁ֛ר צִוָּ֥ה מֹשֶׁ֖ה כִּדְבַ֣ר יְהוָ֑ה בִּכְתֵפָ֥ם בַּמֹּט֖וֹת עֲלֵיהֶֽם׃ פ"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3802]]"
+- "[[H9028]]"
+- "[[H4133]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:15**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD.
 <small><sub>**BSB:**</sub></small>
 And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded in accordance with the word of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375H\|יִּשְׂא֣וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H0853\|אֵ֚ת]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H4872\|מֹשֶׁ֖ה]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בִּ]][[H3802\|כְתֵפָ֥]][[H9028\|ם]] [[H9003\|בַּ]][[H4133\|מֹּט֖וֹת]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.14|<< 1 Chronicles 15:14]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.16|1 Chronicles 15:16 >>]]</td></tr></table>
 
@@ -21,7 +76,7 @@ And the Levites carried the ark of God on their shoulders with the poles, as Mos
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on shoulders their  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3802\|כְתֵפָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> kh.te.Fa<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> poles  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4133\|מֹּט֖וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mo.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.14|<< 1 Chronicles 15:14]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.16|1 Chronicles 15:16 >>]]</td></tr></table>
 
 

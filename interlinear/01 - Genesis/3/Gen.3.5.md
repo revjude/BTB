@@ -1,8 +1,74 @@
+---
+title: Genesis 3:5
+type: Verse
+kjv: "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+bsb: "“For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”"
+hebrew: "כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכָלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹדְעֵ֖י ט֥וֹב וָרָֽע׃"
+pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TREE|TREE]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0398]]"
+- "[[H9046]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H6491]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:5**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 <small><sub>**BSB:**</sub></small>
 “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3045\|יֹדֵ֣עַ]] [[H0430G\|אֱלֹהִ֔ים]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H0398\|אֲכָלְ]][[H9046\|כֶ֣ם]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9001\|וְ]][[H6491\|נִפְקְח֖וּ]] [[H5869A\|עֵֽינֵי]][[H9026\|כֶ֑ם]] [[H9001\|וִ]][[H1961\|הְיִיתֶם֙]] [[H9004\|כֵּֽ]][[H0430G\|אלֹהִ֔ים]] [[H3045\|יֹדְעֵ֖י]] [[H2896A\|ט֥וֹב]] [[H9002\|וָ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SATAN|SATAN]] • [[topic SERPENT|SERPENT]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TREE|TREE]] • [[topic TRUTH|TRUTH]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.4|<< Genesis 3:4]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.6|Genesis 3:6 >>]]</td></tr></table>
 

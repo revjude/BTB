@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 4:45
+type: Verse
+kjv: "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,"
+bsb: "These are the testimonies, statutes, and ordinances that Moses proclaimed to them after they had come out of Egypt,"
+hebrew: "אֵ֚לֶּה הָֽעֵדֹ֔ת וְהַֽחֻקִּ֖ים וְהַמִּשְׁפָּטִ֑ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מִמִּצְרָֽיִם׃"
+pericope: "[[Deut.4.44 Introduction to the Law|Introduction to the Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H5713B]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9048]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:45**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,
 <small><sub>**BSB:**</sub></small>
 These are the testimonies, statutes, and ordinances that Moses proclaimed to them after they had come out of Egypt,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H9009\|הָֽ]][[H5713B\|עֵדֹ֔ת]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2706G\|חֻקִּ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֑ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֤ר]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H3318G\|צֵאתָ֖]][[H9048\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.44|<< Deuteronomy 4:44]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.46|Deuteronomy 4:46 >>]]</td></tr></table>
 

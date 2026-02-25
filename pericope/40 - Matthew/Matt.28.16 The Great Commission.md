@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Great Commission
+type: Pericope
 pericope: "[[Matt.28.16 The Great Commission|The Great Commission]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 28
 book/chapter: "[[Matt.28|Matthew 28]]"
-genre:
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.28.16]]"
 - "[[Matt.28.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.28.20]]"
 ---
 
-[[Matt.28|Matthew 28:16 - Matthew 28:20]]
+<small>[[Matt.28|Matthew 28:16-20]]</small>
 *The Great Commission*
 
 [[Matt.28.16|16]] Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.

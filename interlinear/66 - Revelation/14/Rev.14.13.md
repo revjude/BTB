@@ -1,10 +1,75 @@
+---
+title: Revelation 14:13
+type: Verse
+kjv: "And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them."
+bsb: "And I heard a voice from heaven telling me to write, “Blessed are the dead—those who die in the Lord from this moment on.” “Yes,” says the Spirit, “they will rest from their labors, for their deeds will follow them.”"
+greek: "Καὶ ἤκουσα φωνῆς ἐκ τοῦ οὐρανοῦ λεγούσης μοι· γράψον· μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπ᾽ ἄρτι. ναί, λέγει τὸ πνεῦμα, ἵνα ἀναπαήσονται ἐκ τῶν κόπων αὐτῶν, τὰ γὰρ ἔργα αὐτῶν ἀκολουθεῖ μετ᾽ αὐτῶν.¶"
+pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G1125]]"
+- "[[G3107]]"
+- "[[G3498]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G0599]]"
+- "[[G0575]]"
+- "[[G0737]]"
+- "[[G3483]]"
+- "[[G4151G]]"
+- "[[G2443]]"
+- "[[G0373]]"
+- "[[G2873]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G2041]]"
+- "[[G0190]]"
+- "[[G3326]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Revelation 14:13**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a voice from heaven saying unto me, Write, Blessed [are] the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
 <small><sub>**BSB:**</sub></small>
 And I heard a voice from heaven telling me to write, “Blessed are the dead—those who die in the Lord from this moment on.” “Yes,” says the Spirit, “they will rest from their labors, for their deeds will follow them.”
-<small><sub>**Literal:**</sub></small>
-And I heard a voice out of <the> heaven saying to me: do write; Blessed [are] the dead <the> in the Lord dying from now. Yes, says the Spirit, so that they will rest from the labors of them, <the> for the works of them follow with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.12|<< Revelation 14:12]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.14|Revelation 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνῆς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3004G\|λεγούσης]]  [[G3165\|μοι·]]  [[G1125\|γράψον·]]  [[G3107\|μακάριοι]]  [[G3588\|οἱ]]  [[G3498\|νεκροὶ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G0599\|ἀποθνῄσκοντες]]  [[G0575\|ἀπ᾽]]  [[G0737\|ἄρτι.]]  [[G3483\|ναί,]]  [[G3004G\|λέγει]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα,]]  [[G2443\|ἵνα]]  [[G0373\|ἀναπαήσονται]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2873\|κόπων]]  [[G0846\|αὐτῶν,]]  [[G3588\|τὰ]]  [[G1063\|γὰρ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῶν]]  [[G0190\|ἀκολουθεῖ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHETS|PROPHETS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.12|<< Revelation 14:12]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.14|Revelation 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

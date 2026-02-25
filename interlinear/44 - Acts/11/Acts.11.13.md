@@ -1,10 +1,63 @@
+---
+title: Acts 11:13
+type: Verse
+kjv: "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
+bsb: "He told us how he had seen an angel standing in his house and saying, ‘Send to Joppa for Simon who is called Peter."
+greek: "ἀπήγγειλεν δὲ ἡμῖν πῶς εἶδεν τὸν ἄγγελον ἐν τῷ οἴκῳ αὐτοῦ σταθέντα καὶ εἰπόντα αὐτῷ· ἀπόστειλον εἰς Ἰόππην ἄνδρας καὶ μετάπεμψαι Σίμωνα τὸν ἐπικαλούμενον Πέτρον,"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0518]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G4459]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G2476]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G2445]]"
+- "[[G0435G]]"
+- "[[G3343]]"
+- "[[G4613O]]"
+- "[[G1941]]"
+- "[[G4074G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 11:13**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;
 <small><sub>**BSB:**</sub></small>
 He told us how he had seen an angel standing in his house and saying, ‘Send to Joppa for Simon who is called Peter.
-<small><sub>**Literal:**</sub></small>
-He related then to us how he had seen the angel in the house of him having stood and having said to him: do send forth to Joppa men and do yourself send for Simon who is called Peter,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.12|<< Acts 11:12]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.14|Acts 11:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0518\|ἀπήγγειλεν]]  [[G1161\|δὲ]]  [[G3165\|ἡμῖν]]  [[G4459\|πῶς]]  [[G1492H\|εἶδεν]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3624G\|οἴκῳ]]  [[G0846\|αὐτοῦ]]  [[G2476\|σταθέντα]]  [[G2532\|καὶ]]  [[G2036\|εἰπόντα]]  [[G0846\|αὐτῷ·]]  [[G0649\|ἀπόστειλον]]  [[G1519\|εἰς]]  [[G2445\|Ἰόππην]]  [[G0435G\|ἄνδρας]]  [[G2532\|καὶ]]  [[G3343\|μετάπεμψαι]]  [[G4613O\|Σίμωνα]]  [[G3588\|τὸν]]  [[G1941\|ἐπικαλούμενον]]  [[G4074G\|Πέτρον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.12|<< Acts 11:12]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.14|Acts 11:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

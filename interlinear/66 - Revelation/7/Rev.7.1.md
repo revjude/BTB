@@ -1,10 +1,68 @@
+---
+title: Revelation 7:1
+type: Verse
+kjv: "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree."
+bsb: "After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree."
+greek: "Καὶ μετὰ τοῦτο εἶδον τέσσαρας ἀγγέλους ἑστῶτας ἐπὶ τὰς τέσσαρας γωνίας τῆς γῆς κρατοῦντας τοὺς τέσσαρας ἀνέμους τῆς γῆς ἵνα μὴ πνέῃ ἄνεμος ἐπὶ τῆς γῆς μήτε ἐπὶ τῆς θαλάσσης μήτε ἐπὶ πᾶν δένδρον.¶"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G5064]]"
+- "[[G0032G]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1137]]"
+- "[[G1093G]]"
+- "[[G2902]]"
+- "[[G0417]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4154]]"
+- "[[G3383]]"
+- "[[G2281]]"
+- "[[G3956]]"
+- "[[G1186]]"
+texts:
+- ko
+- NKO
+- N(K)O
+- NK(o)
+---
+
 **Revelation 7:1**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 <small><sub>**BSB:**</sub></small>
 After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree.
-<small><sub>**Literal:**</sub></small>
-and After this thing I saw four angels standing upon the four corners of the earth holding the four winds of the earth so that no may blow wind on the earth nor on the sea nor on all tree.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.17|<< Revelation 6:17]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.2|Revelation 7:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G3778\|τοῦτο]]  [[G1492H\|εἶδον]]  [[G5064\|τέσσαρας]]  [[G0032G\|ἀγγέλους]]  [[G2476\|ἑστῶτας]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G5064\|τέσσαρας]]  [[G1137\|γωνίας]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2902\|κρατοῦντας]]  [[G3588\|τοὺς]]  [[G5064\|τέσσαρας]]  [[G0417\|ἀνέμους]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4154\|πνέῃ]]  [[G0417\|ἄνεμος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3383\|μήτε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G3383\|μήτε]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶν]]  [[G1186\|δένδρον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic EARTH|EARTH]] • [[topic ISRAEL|ISRAEL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.17|<< Revelation 6:17]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.2|Revelation 7:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

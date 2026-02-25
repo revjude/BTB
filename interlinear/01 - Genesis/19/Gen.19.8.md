@@ -1,8 +1,85 @@
+---
+title: Genesis 19:8
+type: Verse
+kjv: "Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof."
+bsb: "Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”"
+hebrew: "הִנֵּה־ נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא־ יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה־ נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל־ תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי־ עַל־ כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H8147]]"
+- "[[H1323G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0376G]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9039]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H7535]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H0411]]"
+- "[[H0408]]"
+- "[[H1697I]]"
+- "[[H3588C]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H0935G]]"
+- "[[H6738]]"
+- "[[H6982]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:8**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as [is] good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
 <small><sub>**BSB:**</sub></small>
 Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֨א]] [[H9005\|לִ֜]][[H9030\|י]] [[H8147\|שְׁתֵּ֣י]] [[H1323G\|בָנ֗וֹת]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדְעוּ֙]] [[H0376G\|אִ֔ישׁ]] [[H3318H\|אוֹצִֽיאָה]][[H9014\|־]] [[H4994\|נָּ֤א]] [[H0853\|אֶתְ]][[H9039\|הֶן֙]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H9002\|וַ]][[H6213A\|עֲשׂ֣וּ]] [[H9005\|לָ]][[H9039\|הֶ֔ן]] [[H9004\|כַּ]][[H2896A\|טּ֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶ֑ם]] [[H7535\|רַ֠ק]] [[H9005\|לָֽ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הָ]][[H0411\|אֵל֙]] [[H0408\|אַל]][[H9014\|־]] [[H6213A\|תַּעֲשׂ֣וּ]] [[H1697I\|דָבָ֔ר]] [[H3588C\|כִּֽי]][[H9014\|־]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֥ן]] [[H0935G\|בָּ֖אוּ]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H6982\|קֹרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 

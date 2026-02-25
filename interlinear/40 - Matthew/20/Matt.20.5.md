@@ -1,10 +1,67 @@
+---
+title: Matthew 20:5
+type: Verse
+kjv: "Again he went out about the sixth and ninth hour, and did likewise."
+bsb: "So they went. He went out again about the sixth hour and the ninth hour and did the same thing."
+jesus_said: "Again he went out about the sixth and ninth hour, and did likewise."
+greek: "οἱ δὲ ἀπῆλθον. πάλιν δὲ ἐξελθὼν περὶ ἕκτην καὶ ἐνάτην ὥραν ἐποίησεν ὡσαύτως."
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGED|AGED]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0565]]"
+- "[[G3825]]"
+- "[[G1831]]"
+- "[[G4012]]"
+- "[[G1623]]"
+- "[[G2532]]"
+- "[[G1766]]"
+- "[[G5610]]"
+- "[[G4160G]]"
+- "[[G5615]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 20:5**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again he went out about the sixth and ninth hour, and did likewise.
 <small><sub>**BSB:**</sub></small>
 So they went. He went out again about the sixth hour and the ninth hour and did the same thing.
-<small><sub>**Literal:**</sub></small>
-<the> And they went. [5] Again then having gone out about [the] sixth and ninth hour he did likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.4|<< Matthew 20:4]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.6|Matthew 20:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0565\|ἀπῆλθον.]]  [[G3825\|πάλιν]]  [[G1161\|δὲ]]  [[G1831\|ἐξελθὼν]]  [[G4012\|περὶ]]  [[G1623\|ἕκτην]]  [[G2532\|καὶ]]  [[G1766\|ἐνάτην]]  [[G5610\|ὥραν]]  [[G4160G\|ἐποίησεν]]  [[G5615\|ὡσαύτως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGED|AGED]] • [[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOSPEL|GOSPEL]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.4|<< Matthew 20:4]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.6|Matthew 20:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

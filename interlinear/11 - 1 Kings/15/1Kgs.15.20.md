@@ -1,8 +1,80 @@
+---
+title: 1 Kings 15:20
+type: Verse
+kjv: "So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali."
+bsb: "And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-beth-maacah, and the whole land of Naphtali, including the region of Chinnereth."
+hebrew: "וַיִּשְׁמַ֨ע בֶּן־ הֲדַ֜ד אֶל־ הַמֶּ֣לֶךְ אָסָ֗א וַ֠יִּשְׁלַח אֶת־ שָׂרֵ֨י הַחֲיָלִ֤ים אֲשֶׁר־ לוֹ֙ עַל־ עָרֵ֣י יִשְׂרָאֵ֔ל וַיַּךְ֙ אֶת־ עִיּ֣וֹן וְאֶת־ דָּ֔ן וְאֵ֖ת אָבֵ֣ל בֵּֽית־ מַעֲכָ֑ה וְאֵת֙ כָּל־ כִּנְר֔וֹת עַ֖ל כָּל־ אֶ֥רֶץ נַפְתָּלִֽי׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic CHINNERETH|CHINNERETH]]"
+- "[[topic DAN|DAN]]"
+- "[[topic IJON|IJON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H1130G]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0609G]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H8269]]"
+- "[[H2428A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H3478]]"
+- "[[H5221]]"
+- "[[H5859]]"
+- "[[H9002]]"
+- "[[H1835G]]"
+- "[[H0062]]"
+- "[[H3605]]"
+- "[[H3672H]]"
+- "[[H0776G]]"
+- "[[H5321G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:20**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali.
 <small><sub>**BSB:**</sub></small>
 And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-beth-maacah, and the whole land of Naphtali, including the region of Chinnereth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֨ע]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַ֜ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0609G\|אָסָ֗א]] [[H9001\|וַ֠]][[H7971G\|יִּשְׁלַח]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֤ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5859\|עִיּ֣וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1835G\|דָּ֔ן]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H0062\|אָבֵ֣ל]] [[H0062\|בֵּֽית]][[H9014\|־]] [[H0062\|מַעֲכָ֑ה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3672H\|כִּנְר֔וֹת]] [[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H5321G\|נַפְתָּלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ARMIES|ARMIES]] • [[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic BEN-HADAD|BEN-HADAD]] • [[topic CHINNERETH|CHINNERETH]] • [[topic DAN|DAN]] • [[topic IJON|IJON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NAPHTALI|NAPHTALI]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.19|<< 1 Kings 15:19]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.21|1 Kings 15:21 >>]]</td></tr></table>
 

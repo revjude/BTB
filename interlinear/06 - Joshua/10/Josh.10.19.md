@@ -1,8 +1,75 @@
+---
+title: Joshua 10:19
+type: Verse
+kjv: "And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand."
+bsb: "But you, do not stop there. Pursue your enemies and attack them from behind. Do not let them reach their cities, for the LORD your God has delivered them into your hand.”"
+hebrew: "וְאַתֶּם֙ אַֽל־ תַּעֲמֹ֔דוּ רִדְפוּ֙ אַחֲרֵ֣י אֹֽיְבֵיכֶ֔ם וְזִנַּבְתֶּ֖ם אוֹתָ֑ם אַֽל־ תִּתְּנ֗וּם לָבוֹא֙ אֶל־ עָ֣רֵיהֶ֔ם כִּ֧י נְתָנָ֛ם יְהוָ֥ה אֱלֹהֵיכֶ֖ם בְּיֶדְכֶֽם׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H2179]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H5414K]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:19**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And stay ye not, [but] pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand.
 <small><sub>**BSB:**</sub></small>
 But you, do not stop there. Pursue your enemies and attack them from behind. Do not let them reach their cities, for the LORD your God has delivered them into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹ֔דוּ]] [[H7291\|רִדְפוּ֙]] [[H0310A\|אַחֲרֵ֣י]] [[H0341\|אֹֽיְבֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H2179\|זִנַּבְתֶּ֖ם]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H0408\|אַֽל]][[H9014\|־]] [[H5414K\|תִּתְּנ֗וּ]][[H9038\|ם]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עָ֣רֵי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּ֧י]] [[H5414G\|נְתָנָ֛]][[H9038\|ם]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.18|<< Joshua 10:18]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.20|Joshua 10:20 >>]]</td></tr></table>
 

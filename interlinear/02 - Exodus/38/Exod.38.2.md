@@ -1,8 +1,61 @@
+---
+title: Exodus 38:2
+type: Verse
+kjv: "And he made the horns thereof on the four corners of it; the horns thereof were of the same: and he overlaid it with brass."
+bsb: "He made a horn at each of its four corners, so that the horns and altar were of one piece, and he overlaid the altar with bronze."
+hebrew: "וַיַּ֣עַשׂ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ הָי֣וּ קַרְנֹתָ֑יו וַיְצַ֥ף אֹת֖וֹ נְחֹֽשֶׁת׃"
+pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H7161A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H0702]]"
+- "[[H6438H]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:2**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the horns thereof on the four corners of it; the horns thereof were of the same: and he overlaid it with brass.
 <small><sub>**BSB:**</sub></small>
 He made a horn at each of its four corners, so that the horns and altar were of one piece, and he overlaid the altar with bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H7161A\|קַרְנֹתָ֗י]][[H9023\|ו]] [[H5921A\|עַ֚ל]] [[H0702\|אַרְבַּ֣ע]] [[H6438H\|פִּנֹּתָ֔י]][[H9023\|ו]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H1961\|הָי֣וּ]] [[H7161A\|קַרְנֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6823\|יְצַ֥ף]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BEZALEL|BEZALEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.1|<< Exodus 38:1]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.3|Exodus 38:3 >>]]</td></tr></table>
 

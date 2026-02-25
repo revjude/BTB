@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 25:35
+type: Verse
+kjv: "So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person."
+bsb: "Then David accepted from her hand what she had brought him, and he said to her, “Go home in peace. See, I have heeded your voice and granted your request.”"
+hebrew: "וַיִּקַּ֤ח דָּוִד֙ מִיָּדָ֔הּ אֵ֥ת אֲשֶׁר־ הֵבִ֖יאָה ל֑וֹ וְלָ֣הּ אָמַ֗ר עֲלִ֤י לְשָׁלוֹם֙ לְבֵיתֵ֔ךְ רְאִי֙ שָׁמַ֣עְתִּי בְקוֹלֵ֔ךְ וָאֶשָּׂ֖א פָּנָֽיִךְ׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947H]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9024]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H7965G]]"
+- "[[H1004B]]"
+- "[[H9022]]"
+- "[[H7200I]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:35**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David received of her hand [that] which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.
 <small><sub>**BSB:**</sub></small>
 Then David accepted from her hand what she had brought him, and he said to her, “Go home in peace. See, I have heeded your voice and granted your request.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947H\|יִּקַּ֤ח]] [[H1732\|דָּוִד֙]] [[H9006\|מִ]][[H3027H\|יָּדָ֔]][[H9024\|הּ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935P\|הֵבִ֖יאָה]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H9005\|לָ֣]][[H9034\|הּ]] [[H0559\|אָמַ֗ר]] [[H5927G\|עֲלִ֤י]] [[H9005\|לְ]][[H7965G\|שָׁלוֹם֙]] [[H9005\|לְ]][[H1004B\|בֵיתֵ֔]][[H9022\|ךְ]] [[H7200I\|רְאִי֙]] [[H8085H\|שָׁמַ֣עְתִּי]] [[H9003\|בְ]][[H6963A\|קוֹלֵ֔]][[H9022\|ךְ]] [[H9001\|וָ]][[H5375Q\|אֶשָּׂ֖א]] [[H6440N\|פָּנָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.34|<< 1 Samuel 25:34]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.36|1 Samuel 25:36 >>]]</td></tr></table>
 

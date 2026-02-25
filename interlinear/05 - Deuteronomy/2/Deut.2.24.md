@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 2:24
+type: Verse
+kjv: "Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle."
+bsb: "“Arise, set out, and cross the Arnon Valley. See, I have delivered into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to take possession of it and engage him in battle."
+hebrew: "ק֣וּמוּ סְּע֗וּ וְעִבְרוּ֮ אֶת־ נַ֣חַל אַרְנֹן֒ רְאֵ֣ה נָתַ֣תִּי בְ֠יָדְךָ אֶת־ סִיחֹ֨ן מֶֽלֶךְ־ חֶשְׁבּ֧וֹן הָֽאֱמֹרִ֛י וְאֶת־ אַרְצ֖וֹ הָחֵ֣ל רָ֑שׁ וְהִתְגָּ֥ר בּ֖וֹ מִלְחָמָֽה׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AR|AR]]"
+- "[[topic ARNON|ARNON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H6965B]]"
+- "[[H5265]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H7200I]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H2809]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H2490C]]"
+- "[[H3423H]]"
+- "[[H1624]]"
+- "[[H9033]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:24**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess [it], and contend with him in battle.
 <small><sub>**BSB:**</sub></small>
 “Arise, set out, and cross the Arnon Valley. See, I have delivered into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to take possession of it and engage him in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֣וּמוּ]] [[H5265\|סְּע֗וּ]] [[H9002\|וְ]][[H5674A\|עִבְרוּ֮]] [[H0853\|אֶת]][[H9014\|־]] [[H5158N\|נַ֣חַל]] [[H0769\|אַרְנֹן֒]] [[H7200I\|רְאֵ֣ה]] [[H5414G\|נָתַ֣תִּי]] [[H9003\|בְ֠]][[H3027H\|יָדְ]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H5511\|סִיחֹ֨ן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2809\|חֶשְׁבּ֧וֹן]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֛י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצ֖]][[H9023\|וֹ]] [[H2490C\|הָחֵ֣ל]] [[H3423H\|רָ֑שׁ]] [[H9002\|וְ]][[H1624\|הִתְגָּ֥ר]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AR|AR]] • [[topic ARNON|ARNON]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.23|<< Deuteronomy 2:23]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.25|Deuteronomy 2:25 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 14:8
+type: Verse
+kjv: "And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them."
+bsb: "When the Philistines heard that David had been anointed king over all Israel, they all went in search of him; but David learned of this and went out to face them."
+hebrew: "וַיִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּי־ נִמְשַׁ֨ח דָּוִ֤יד לְמֶ֙לֶךְ֙ עַל־ כָּל־ יִשְׂרָאֵ֔ל וַיַּעֲל֥וּ כָל־ פְּלִשְׁתִּ֖ים לְבַקֵּ֣שׁ אֶת־ דָּוִ֑יד וַיִּשְׁמַ֣ע דָּוִ֔יד וַיֵּצֵ֖א לִפְנֵיהֶֽם׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H6430G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4886]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5927G]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H3318G]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:8**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard [of it], and went out against them.
 <small><sub>**BSB:**</sub></small>
 When the Philistines heard that David had been anointed king over all Israel, they all went in search of him; but David learned of this and went out to face them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְע֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H4886\|נִמְשַׁ֨ח]] [[H1732\|דָּוִ֤יד]] [[H9005\|לְ]][[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H5927G\|יַּעֲל֥וּ]] [[H3605\|כָל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֖ים]] [[H9005\|לְ]][[H1245\|בַקֵּ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H1732\|דָּוִ֔יד]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֖א]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.7|<< 1 Chronicles 14:7]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.9|1 Chronicles 14:9 >>]]</td></tr></table>
 

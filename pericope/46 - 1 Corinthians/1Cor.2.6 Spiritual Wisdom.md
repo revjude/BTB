@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Spiritual Wisdom
+type: Pericope
 pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 2
 book/chapter: "[[1Cor.2|1 Corinthians 2]]"
-genre:
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[1Cor.2.6]]"
 - "[[1Cor.2.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Cor.2.16]]"
 ---
 
-[[1Cor.2|1 Corinthians 2:6 - 1 Corinthians 2:16]]
+<small>[[1Cor.2|1 Corinthians 2:6-16]]</small>
 *Spiritual Wisdom*
 
 [[1Cor.2.6|6]] Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:

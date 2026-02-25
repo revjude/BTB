@@ -1,8 +1,62 @@
+---
+title: Numbers 3:42
+type: Verse
+kjv: "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel."
+bsb: "So Moses numbered all the firstborn of the Israelites, as the LORD had commanded him."
+hebrew: "וַיִּפְקֹ֣ד מֹשֶׁ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֹת֑וֹ אֶֽת־ כָּל־ בְּכֹ֖ר בִּבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:42**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.
 <small><sub>**BSB:**</sub></small>
 So Moses numbered all the firstborn of the Israelites, as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּפְקֹ֣ד]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכֹ֖ר]] [[H9003\|בִּ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.41|<< Numbers 3:41]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.43|Numbers 3:43 >>]]</td></tr></table>
 

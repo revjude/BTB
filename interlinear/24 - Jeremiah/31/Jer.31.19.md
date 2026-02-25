@@ -1,8 +1,64 @@
+---
+title: Jeremiah 31:19
+type: Verse
+kjv: "Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth."
+bsb: "After I returned, I repented; and after I was instructed, I struck my thigh in grief. I was ashamed and humiliated because I bore the disgrace of my youth.’"
+hebrew: "כִּֽי־ אַחֲרֵ֤י שׁוּבִי֙ נִחַ֔מְתִּי וְאַֽחֲרֵי֙ הִוָּ֣דְעִ֔י סָפַ֖קְתִּי עַל־ יָרֵ֑ךְ בֹּ֚שְׁתִּי וְגַם־ נִכְלַ֔מְתִּי כִּ֥י נָשָׂ֖אתִי חֶרְפַּ֥ת נְעוּרָֽי׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0310A]]"
+- "[[H7725O]]"
+- "[[H9040]]"
+- "[[H5162H]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H5606A]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H0954]]"
+- "[[H1571]]"
+- "[[H3637]]"
+- "[[H5375H]]"
+- "[[H2781]]"
+- "[[H5271A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:19**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely after that I was turned, I repented; and after that I was instructed, I smote upon [my] thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.
 <small><sub>**BSB:**</sub></small>
 After I returned, I repented; and after I was instructed, I struck my thigh in grief. I was ashamed and humiliated because I bore the disgrace of my youth.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0310A\|אַחֲרֵ֤י]] [[H7725O\|שׁוּבִ]][[H9040\|י֙]] [[H5162H\|נִחַ֔מְתִּי]] [[H9002\|וְ]][[H0310A\|אַֽחֲרֵי֙]] [[H3045\|הִוָּ֣דְעִ֔]][[H9040\|י]] [[H5606A\|סָפַ֖קְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H3409\|יָרֵ֑ךְ]] [[H0954\|בֹּ֚שְׁתִּי]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3637\|נִכְלַ֔מְתִּי]] [[H3588A\|כִּ֥י]] [[H5375H\|נָשָׂ֖אתִי]] [[H2781\|חֶרְפַּ֥ת]] [[H5271A\|נְעוּרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.18|<< Jeremiah 31:18]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.20|Jeremiah 31:20 >>]]</td></tr></table>
 

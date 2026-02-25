@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temptation of Jesus
+type: Pericope
 pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 4
 book/chapter: "[[Matt.4|Matthew 4]]"
-genre:
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.4.1]]"
 - "[[Matt.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.4.11]]"
 ---
 
-[[Matt.4|Matthew 4:1 - Matthew 4:11]]
+<small>[[Matt.4|Matthew 4:1-11]]</small>
 *The Temptation of Jesus*
 
 [[Matt.4.1|1]] Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.

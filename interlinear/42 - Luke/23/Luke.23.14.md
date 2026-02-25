@@ -1,10 +1,71 @@
+---
+title: Luke 23:14
+type: Verse
+kjv: "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:"
+bsb: "and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined Him here in your presence and found Him not guilty of your charges against Him."
+greek: "εἶπεν πρὸς αὐτούς· προσηνέγκατέ μοι τὸν ἄνθρωπον τοῦτον ὡς ἀποστρέφοντα τὸν λαόν· καὶ ἰδοὺ ἐγὼ ἐνώπιον ὑμῶν ἀνακρίνας οὐθὲν εὗρον ἐν τῷ ἀνθρώπῳ τούτῳ αἴτιον ὧν κατηγορεῖτε κατ᾽ αὐτοῦ·"
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4374]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G5613]]"
+- "[[G0654]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1799]]"
+- "[[G4771]]"
+- "[[G0350]]"
+- "[[G3762]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G0159]]"
+- "[[G3739]]"
+- "[[G2723]]"
+- "[[G2596]]"
+texts:
+- NKO
+---
+
 **Luke 23:14**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined [him] before you, have found no fault in this man touching those things whereof ye accuse him:
 <small><sub>**BSB:**</sub></small>
 and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined Him here in your presence and found Him not guilty of your charges against Him.
-<small><sub>**Literal:**</sub></small>
-said to them; You brought to me <the> man this as misleading the people; and behold I myself before you having examined [Him] no [thing] found in <the> man this guilty of that accusation you are bringing against Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.13|<< Luke 23:13]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.15|Luke 23:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G4374\|προσηνέγκατέ]]  [[G3165\|μοι]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G3778\|τοῦτον]]  [[G5613\|ὡς]]  [[G0654\|ἀποστρέφοντα]]  [[G3588\|τὸν]]  [[G2992\|λαόν·]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G1799\|ἐνώπιον]]  [[G4771\|ὑμῶν]]  [[G0350\|ἀνακρίνας]]  [[G3762\|οὐθὲν]]  [[G2147\|εὗρον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0444\|ἀνθρώπῳ]]  [[G3778\|τούτῳ]]  [[G0159\|αἴτιον]]  [[G3739\|ὧν]]  [[G2723\|κατηγορεῖτε]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.13|<< Luke 23:13]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.15|Luke 23:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

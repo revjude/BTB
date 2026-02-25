@@ -1,10 +1,59 @@
+---
+title: 1 John 1:10
+type: Verse
+kjv: "If we say that we have not sinned, we make him a liar, and his word is not in us."
+bsb: "If we say we have not sinned, we make Him out to be a liar, and His word is not in us."
+greek: "ἐὰν εἴπωμεν ὅτι οὐχ ἡμαρτήκαμεν, ψεύστην ποιοῦμεν αὐτὸν καὶ ὁ λόγος αὐτοῦ οὐκ ἔστιν ἐν ἡμῖν.¶"
+pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G0264]]"
+- "[[G5583]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 John 1:10**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we say that we have not sinned, we make him a liar, and his word is not in us.
 <small><sub>**BSB:**</sub></small>
 If we say we have not sinned, we make Him out to be a liar, and His word is not in us.
-<small><sub>**Literal:**</sub></small>
-If we shall say that not we have sinned, a liar we make Him and the word of Him not is in us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.9|<< 1 John 1:9]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.1|1 John 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G2036\|εἴπωμεν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐχ]]  [[G0264\|ἡμαρτήκαμεν,]]  [[G5583\|ψεύστην]]  [[G4160G\|ποιοῦμεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G0846\|αὐτοῦ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SIN|SIN]] • [[topic SINLESSNESS|SINLESSNESS]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.9|<< 1 John 1:9]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.1|1 John 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: Matthew 2:3
+type: Verse
+kjv: "When Herod the king had heard these things, he was troubled, and all Jerusalem with him."
+bsb: "When King Herod heard this, he was disturbed, and all Jerusalem with him."
+greek: "Ἀκούσας δὲ ὁ βασιλεὺς Ἡρῴδης ἐταράχθη καὶ πᾶσα Ἱεροσόλυμα μετ᾽ αὐτοῦ,"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2264G]]"
+- "[[G5015]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2414]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 2:3**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Herod the king had heard [these things], he was troubled, and all Jerusalem with him.
 <small><sub>**BSB:**</sub></small>
 When King Herod heard this, he was disturbed, and all Jerusalem with him.
-<small><sub>**Literal:**</sub></small>
-Having heard then <the> King Herod he was troubled and all Jerusalem with him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.2|<< Matthew 2:2]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.4|Matthew 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G2264G\|Ἡρῴδης]]  [[G5015\|ἐταράχθη]]  [[G2532\|καὶ]]  [[G3956\|πᾶσα]]  [[G2414\|Ἱεροσόλυμα]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEATHEN|HEATHEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.2|<< Matthew 2:2]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.4|Matthew 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

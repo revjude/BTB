@@ -1,8 +1,59 @@
+---
+title: Genesis 17:24
+type: Verse
+kjv: "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin."
+bsb: "So Abraham was ninety-nine years old when he was circumcised,"
+hebrew: "וְאַ֨בְרָהָ֔ם בֶּן־ תִּשְׁעִ֥ים וָתֵ֖שַׁע שָׁנָ֑ה בְּהִמֹּל֖וֹ בְּשַׂ֥ר עָרְלָתֽוֹ׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0085]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8673]]"
+- "[[H8672]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4135A]]"
+- "[[H9043]]"
+- "[[H1320]]"
+- "[[H6190H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:24**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham [was] ninety years old and nine, when he was circumcised in the flesh of his foreskin.
 <small><sub>**BSB:**</sub></small>
 So Abraham was ninety-nine years old when he was circumcised,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0085\|אַ֨בְרָהָ֔ם]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8673\|תִּשְׁעִ֥ים]] [[H9002\|וָ]][[H8672\|תֵ֖שַׁע]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H4135A\|הִמֹּל֖]][[H9043\|וֹ]] [[H1320\|בְּשַׂ֥ר]] [[H6190H\|עָרְלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic ISHMAEL|ISHMAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.23|<< Genesis 17:23]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.25|Genesis 17:25 >>]]</td></tr></table>
 

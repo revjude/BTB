@@ -1,8 +1,50 @@
+---
+title: Isaiah 26:7
+type: Verse
+kjv: "The way of the just is uprightness: thou, most upright, dost weigh the path of the just."
+bsb: "The path of the righteous is level; You clear a straight path for the upright."
+hebrew: "אֹ֥רַח לַצַּדִּ֖יק מֵֽישָׁרִ֑ים יָשָׁ֕ר מַעְגַּ֥ל צַדִּ֖יק תְּפַלֵּֽס׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H0734]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H4339]]"
+- "[[H3477G]]"
+- "[[H4570]]"
+- "[[H6424]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:7**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the just [is] uprightness: thou, most upright, dost weigh the path of the just.
 <small><sub>**BSB:**</sub></small>
 The path of the righteous is level; You clear a straight path for the upright.
+<small><sub>**Hebrew:**</sub></small>
+[[H0734\|אֹ֥רַח]] [[H9005\|לַ]][[H6662\|צַּדִּ֖יק]] [[H4339\|מֵֽישָׁרִ֑ים]] [[H3477G\|יָשָׁ֕ר]] [[H4570\|מַעְגַּ֥ל]] [[H6662\|צַדִּ֖יק]] [[H6424\|תְּפַלֵּֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.6|<< Isaiah 26:6]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.8|Isaiah 26:8 >>]]</td></tr></table>
 

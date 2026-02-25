@@ -1,10 +1,62 @@
+---
+title: John 12:16
+type: Verse
+kjv: "These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him."
+bsb: "At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him."
+greek: "ταῦτα δὲ οὐκ ἔγνωσαν αὐτοῦ οἱ μαθηταὶ τὸ πρῶτον, ἀλλ᾽ ὅτε ἐδοξάσθη ὁ Ἰησοῦς, τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπ᾽ αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ.¶"
+pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4413G]]"
+- "[[G0235]]"
+- "[[G3753]]"
+- "[[G1392]]"
+- "[[G2424G]]"
+- "[[G5119]]"
+- "[[G3403]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G1125]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+---
+
 **John 12:16**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and [that] they had done these things unto him.
 <small><sub>**BSB:**</sub></small>
 At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.
-<small><sub>**Literal:**</sub></small>
-These things now not knew of Him the disciples from the first, but when was glorified <the> Jesus, then they remembered that these things were about Him written and these things they had done to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.15|<< John 12:15]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.17|John 12:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τὸ]]  [[G4413G\|πρῶτον,]]  [[G0235\|ἀλλ᾽]]  [[G3753\|ὅτε]]  [[G1392\|ἐδοξάσθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G5119\|τότε]]  [[G3403\|ἐμνήσθησαν]]  [[G3754G\|ὅτι]]  [[G3778\|ταῦτα]]  [[G1510\|ἦν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G1125\|γεγραμμένα]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G4160G\|ἐποίησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.15|<< John 12:15]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.17|John 12:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

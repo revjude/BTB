@@ -1,8 +1,63 @@
+---
+title: Numbers 20:18
+type: Verse
+kjv: "And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword."
+bsb: "But Edom answered, “You may not travel through our land, or we will come out and confront you with the sword.”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ אֱד֔וֹם לֹ֥א תַעֲבֹ֖ר בִּ֑י פֶּן־ בַּחֶ֖רֶב אֵצֵ֥א לִקְרָאתֶֽךָ׃"
+pericope: "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0123G]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:18**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.
 <small><sub>**BSB:**</sub></small>
 But Edom answered, “You may not travel through our land, or we will come out and confront you with the sword.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H0123G\|אֱד֔וֹם]] [[H3808\|לֹ֥א]] [[H5674A\|תַעֲבֹ֖ר]] [[H9003\|בִּ֑]][[H9030\|י]] [[H6435\|פֶּן]][[H9014\|־]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H3318G\|אֵצֵ֥א]] [[H9005\|לִ]][[H7122H\|קְרָאתֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.17|<< Numbers 20:17]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.19|Numbers 20:19 >>]]</td></tr></table>
 

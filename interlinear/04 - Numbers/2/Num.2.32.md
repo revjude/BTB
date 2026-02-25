@@ -1,8 +1,61 @@
+---
+title: Numbers 2:32
+type: Verse
+kjv: "These are those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts were six hundred thousand and three thousand and five hundred and fifty."
+bsb: "These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550."
+hebrew: "אֵ֛לֶּה פְּקוּדֵ֥י בְנֵֽי־ יִשְׂרָאֵ֖ל לְבֵ֣ית אֲבֹתָ֑ם כָּל־ פְּקוּדֵ֤י הַֽמַּחֲנֹת֙ לְצִבְאֹתָ֔ם שֵׁשׁ־ מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H6635A]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H2568]]"
+- "[[H2572]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:32**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts [were] six hundred thousand and three thousand and five hundred and fifty.
 <small><sub>**BSB:**</sub></small>
 These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H6485A\|פְּקוּדֵ֥י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H6485A\|פְּקוּדֵ֤י]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֹת֙]] [[H9005\|לְ]][[H6635A\|צִבְאֹתָ֔]][[H9028\|ם]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֙לֶף֙]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּֽׁים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.31|<< Numbers 2:31]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.33|Numbers 2:33 >>]]</td></tr></table>
 

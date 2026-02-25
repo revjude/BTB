@@ -1,10 +1,59 @@
+---
+title: Romans 10:18
+type: Verse
+kjv: "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
+bsb: "But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.”"
+greek: "ἀλλὰ λέγω· μὴ οὐκ ἤκουσαν; μενοῦνγε εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς οἰκουμένης τὰ ῥήματα αὐτῶν."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G0235]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G3756]]"
+- "[[G0191]]"
+- "[[G3304]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G1831]]"
+- "[[G5353]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4009]]"
+- "[[G3625]]"
+- "[[G4487]]"
+texts:
+- NKO
+---
+
 **Romans 10:18**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
 <small><sub>**BSB:**</sub></small>
 But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.”
-<small><sub>**Literal:**</sub></small>
-But I ask; certainly surely did they hear? Indeed Into all the earth has gone out the voice of them and to the ends of the world the declarations of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.17|<< Romans 10:17]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.19|Romans 10:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3004G\|λέγω·]]  [[G3361\|μὴ]]  [[G3756\|οὐκ]]  [[G0191\|ἤκουσαν;]]  [[G3304\|μενοῦνγε]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G1831\|ἐξῆλθεν]]  [[G3588\|ὁ]]  [[G5353\|φθόγγος]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G4009\|πέρατα]]  [[G3588\|τῆς]]  [[G3625\|οἰκουμένης]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.17|<< Romans 10:17]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.19|Romans 10:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:18** is...
 > $\quad$ referencing: [[LXX.Ps.19.4|Ps 19:4]]

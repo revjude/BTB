@@ -1,10 +1,61 @@
+---
+title: Acts 1:20
+type: Verse
+kjv: "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take."
+bsb: "“For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’"
+greek: "γέγραπται γὰρ ἐν βίβλῳ ψαλμῶν· γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος καὶ μὴ ἔστω ὁ κατοικῶν ἐν αὐτῇ, καὶ τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος."
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G0976]]"
+- "[[G5568]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1886]]"
+- "[[G0846]]"
+- "[[G2048]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G2730]]"
+- "[[G1984]]"
+- "[[G2983]]"
+- "[[G2087]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 1:20**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.
 <small><sub>**BSB:**</sub></small>
 “For it is written in the book of Psalms: ‘May his place be deserted; let there be no one to dwell in it,’ and, ‘May another take his position.’
-<small><sub>**Literal:**</sub></small>
-It has been written for in [the] book of Psalms: should become the homestead of him desolate and not should there be [one] who is dwelling in it,’ and The position of him take another.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.19|<< Acts 1:19]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.21|Acts 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|γέγραπται]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G0976\|βίβλῳ]]  [[G5568\|ψαλμῶν·]]  [[G1096\|γενηθήτω]]  [[G3588\|ἡ]]  [[G1886\|ἔπαυλις]]  [[G0846\|αὐτοῦ]]  [[G2048\|ἔρημος]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1510\|ἔστω]]  [[G3588\|ὁ]]  [[G2730\|κατοικῶν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1984\|ἐπισκοπὴν]]  [[G0846\|αὐτοῦ]]  [[G2983\|λαβέτω]]  [[G2087\|ἕτερος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MATTHIAS|MATTHIAS]] • [[topic PETER|PETER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.19|<< Acts 1:19]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.21|Acts 1:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 1:20** is...
 > $\quad$ referencing: [[LXX.Ps.69.25|Ps 69:25]] ☩ [[LXX.Ps.109.8|Ps 109:8]]

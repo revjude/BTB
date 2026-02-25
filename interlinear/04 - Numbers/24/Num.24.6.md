@@ -1,8 +1,59 @@
+---
+title: Numbers 24:6
+type: Verse
+kjv: "As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters."
+bsb: "They spread out like palm groves, like gardens beside a stream, like aloes the LORD has planted, like cedars beside the waters."
+hebrew: "כִּנְחָלִ֣ים נִטָּ֔יוּ כְּגַנֹּ֖ת עֲלֵ֣י נָהָ֑ר כַּאֲהָלִים֙ נָטַ֣ע יְהוָ֔ה כַּאֲרָזִ֖ים עֲלֵי־ מָֽיִם׃"
+pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic LIGN-ALOE|LIGN-ALOE]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H9004]]"
+- "[[H5158B]]"
+- "[[H5186]]"
+- "[[H1593]]"
+- "[[H5921A]]"
+- "[[H5104H]]"
+- "[[H0174]]"
+- "[[H5193]]"
+- "[[H3068G]]"
+- "[[H0730]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:6**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, [and] as cedar trees beside the waters.
 <small><sub>**BSB:**</sub></small>
 They spread out like palm groves, like gardens beside a stream, like aloes the LORD has planted, like cedars beside the waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H5158B\|נְחָלִ֣ים]] [[H5186\|נִטָּ֔יוּ]] [[H9004\|כְּ]][[H1593\|גַנֹּ֖ת]] [[H5921A\|עֲלֵ֣י]] [[H5104H\|נָהָ֑ר]] [[H9004\|כַּ]][[H0174\|אֲהָלִים֙]] [[H5193\|נָטַ֣ע]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כַּ]][[H0730\|אֲרָזִ֖ים]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic LIGN-ALOE|LIGN-ALOE]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.5|<< Numbers 24:5]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.7|Numbers 24:7 >>]]</td></tr></table>
 

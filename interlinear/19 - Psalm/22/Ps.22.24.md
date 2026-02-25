@@ -1,8 +1,63 @@
+---
+title: Psalm 22:24
+type: Verse
+kjv: "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard."
+bsb: "For He has not despised or detested the torment of the afflicted. He has not hidden His face from him, but has attended to his cry for help."
+hebrew: "כִּ֤י לֹֽא־ בָזָ֨ה וְלֹ֪א שִׁקַּ֡ץ עֱנ֬וּת עָנִ֗י וְלֹא־ הִסְתִּ֣יר פָּנָ֣יו מִמֶּ֑נּוּ וּֽבְשַׁוְּע֖וֹ אֵלָ֣יו שָׁמֵֽעַ׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0959]]"
+- "[[H9002]]"
+- "[[H8262]]"
+- "[[H6039]]"
+- "[[H6041]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7768]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:24**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
 <small><sub>**BSB:**</sub></small>
 For He has not despised or detested the torment of the afflicted. He has not hidden His face from him, but has attended to his cry for help.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0959\|בָזָ֨ה]] [[H9002\|וְ]][[H3808\|לֹ֪א]] [[H8262\|שִׁקַּ֡ץ]] [[H6039\|עֱנ֬וּת]] [[H6041\|עָנִ֗י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5641\|הִסְתִּ֣יר]] [[H6440H\|פָּנָ֣י]][[H9023\|ו]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9002\|וּֽ]][[H9003\|בְ]][[H7768\|שַׁוְּע֖]][[H9043\|וֹ]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H8085G\|שָׁמֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.23|<< Psalms 22:23]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.25|Psalms 22:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

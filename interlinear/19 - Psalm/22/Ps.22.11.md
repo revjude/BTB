@@ -1,8 +1,56 @@
+---
+title: Psalm 22:11
+type: Verse
+kjv: "Be not far from me; for trouble is near; for there is none to help."
+bsb: "Be not far from me, for trouble is near and there is no one to help."
+hebrew: "אַל־ תִּרְחַ֣ק מִ֭מֶּנִּי כִּי־ צָרָ֣ה קְרוֹבָ֑ה כִּי־ אֵ֥ין עוֹזֵֽר׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6869B]]"
+- "[[H7138]]"
+- "[[H0369]]"
+- "[[H5826]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:11**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not far from me; for trouble [is] near; for [there is] none to help.
 <small><sub>**BSB:**</sub></small>
 Be not far from me, for trouble is near and there is no one to help.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7368\|תִּרְחַ֣ק]] [[H4480A\|מִ֭מֶּ]][[H9030\|נִּי]] [[H3588A\|כִּי]][[H9014\|־]] [[H6869B\|צָרָ֣ה]] [[H7138\|קְרוֹבָ֑ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H5826\|עוֹזֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.10|<< Psalms 22:10]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.12|Psalms 22:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

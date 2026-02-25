@@ -1,8 +1,62 @@
+---
+title: Nehemiah 13:4
+type: Verse
+kjv: "And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied unto Tobiah:"
+bsb: "Now before this, Eliashib the priest, a relative of Tobiah, had been put in charge of the storerooms of the house of our God"
+hebrew: "וְלִפְנֵ֣י מִזֶּ֔ה אֶלְיָשִׁיב֙ הַכֹּהֵ֔ן נָת֖וּן בְּלִשְׁכַּ֣ת בֵּית־ אֱלֹהֵ֑ינוּ קָר֖וֹב לְטוֹבִיָּֽה׃"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0475O]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H3957]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H7138]]"
+- "[[H2900I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:4**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, [was] allied unto Tobiah:
 <small><sub>**BSB:**</sub></small>
 Now before this, Eliashib the priest, a relative of Tobiah, had been put in charge of the storerooms of the house of our God
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H0475O\|אֶלְיָשִׁיב֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H5414H\|נָת֖וּן]] [[H9003\|בְּ]][[H3957\|לִשְׁכַּ֣ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H7138\|קָר֖וֹב]] [[H9005\|לְ]][[H2900I\|טוֹבִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 

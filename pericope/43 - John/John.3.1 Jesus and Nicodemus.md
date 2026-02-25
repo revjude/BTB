@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus and Nicodemus
+type: Pericope
 pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: John
 chapter: 3
 book/chapter: "[[John.3|John 3]]"
-genre:
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 21
 verses:
 - "[[John.3.1]]"
 - "[[John.3.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[John.3.21]]"
 ---
 
-[[John.3|John 3:1 - John 3:21]]
+<small>[[John.3|John 3:1-21]]</small>
 *Jesus and Nicodemus*
 
 [[John.3.1|1]] There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:

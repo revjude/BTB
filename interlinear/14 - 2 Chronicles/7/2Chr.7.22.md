@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 7:22
+type: Verse
+kjv: "And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them."
+bsb: "And others will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.’”"
+hebrew: "וְאָמְר֗וּ עַל֩ אֲשֶׁ֨ר עָֽזְב֜וּ אֶת־ יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבֹתֵיהֶ֗ם אֲשֶׁ֣ר הוֹצִיאָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַֽיַּחֲזִ֙יקוּ֙ בֵּאלֹהִ֣ים אֲחֵרִ֔ים וַיִּשְׁתַּחֲו֥וּ לָהֶ֖ם וַיַּֽעַבְד֑וּם עַל־ כֵּן֙ הֵבִ֣יא עֲלֵיהֶ֔ם אֵ֥ת כָּל־ הָרָעָ֖ה הַזֹּֽאת׃ פ"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H3651C]]"
+- "[[H0935P]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H2063]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:22**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.
 <small><sub>**BSB:**</sub></small>
 And others will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H5800A\|עָֽזְב֜וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H3318H\|הוֹצִיאָ]][[H9038\|ם֮]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H9001\|וַֽ]][[H2388H\|יַּחֲזִ֙יקוּ֙]] [[H9003\|בֵּ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּחֲו֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H5647H\|יַּֽעַבְד֑וּ]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H0935P\|הֵבִ֣יא]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.21|<< 2 Chronicles 7:21]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.1|2 Chronicles 8:1 >>]]</td></tr></table>
 
@@ -33,7 +100,7 @@ And others will answer, ‘Because they have forsaken the LORD, the God of their
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the calamity  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451C\|רָעָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.21|<< 2 Chronicles 7:21]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.1|2 Chronicles 8:1 >>]]</td></tr></table>
 
 

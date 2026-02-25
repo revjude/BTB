@@ -1,8 +1,84 @@
+---
+title: Judges 16:13
+type: Verse
+kjv: "And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web."
+bsb: "Then Delilah said to Samson, “You have mocked me and lied to me all along! Tell me how you can be tied up.” He told her, “If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man.”"
+hebrew: "וַתֹּ֨אמֶר דְּלִילָ֜ה אֶל־ שִׁמְשׁ֗וֹן עַד־ הֵ֜נָּה הֵתַ֤לְתָּ בִּי֙ וַתְּדַבֵּ֤ר אֵלַי֙ כְּזָבִ֔ים הַגִּ֣ידָה לִּ֔י בַּמֶּ֖ה תֵּאָסֵ֑ר וַיֹּ֣אמֶר אֵלֶ֔יהָ אִם־ תַּאַרְגִ֗י אֶת־ שֶׁ֛בַע מַחְלְפ֥וֹת רֹאשִׁ֖י עִם־ הַמַּסָּֽכֶת׃ וְתָקַעַתְּ בְּיָתֵד אֶל־ הַקִּיר וְחָלִיתִי וְהָיִיתִי כְּאַחַד הָאָדָם׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1807]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8123]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H2048B]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H1696G]]"
+- "[[H3577]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0631]]"
+- "[[H9034]]"
+- "[[H0518A]]"
+- "[[H0707]]"
+- "[[H0853]]"
+- "[[H7651]]"
+- "[[H4253]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H4545]]"
+- "[[H9016]]"
+- "[[H8628]]"
+- "[[H3489]]"
+- "[[H7023]]"
+- "[[H2470A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H0120G]]"
+texts:
+- L
+- X
+---
+
 **Judges 16:13**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web.
 <small><sub>**BSB:**</sub></small>
 Then Delilah said to Samson, “You have mocked me and lied to me all along! Tell me how you can be tied up.” He told her, “If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H1807\|דְּלִילָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8123\|שִׁמְשׁ֗וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֜נָּה]] [[H2048B\|הֵתַ֤לְתָּ]] [[H9003\|בִּ]][[H9030\|י֙]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֤ר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H3577\|כְּזָבִ֔ים]] [[H5046\|הַגִּ֣ידָ]][[H9012\|ה]] [[H9005\|לִּ֔]][[H9030\|י]] [[H9003\|בַּ]][[H4100\|מֶּ֖ה]] [[H0631\|תֵּאָסֵ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H0518A\|אִם]][[H9014\|־]] [[H0707\|תַּאַרְגִ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H7651\|שֶׁ֛בַע]] [[H4253\|מַחְלְפ֥וֹת]] [[H7218A\|רֹאשִׁ֖]][[H9020\|י]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H4545\|מַּסָּֽכֶת]][[H9016\|׃]] [[H9001\|וְ]][[H8628\|תָקַעַתְּ]] [[H9003\|בְּ]][[H3489\|יָתֵד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7023\|קִּיר]] [[H9001\|וְ]][[H2470A\|חָלִיתִי]] [[H9001\|וְ]][[H1961\|הָיִיתִי]] [[H9004\|כְּ]][[H0259\|אַחַד]] [[H9009\|הָ]][[H0120G\|אָדָם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.12|<< Judges 16:12]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.14|Judges 16:14 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 34:13
+type: Verse
+kjv: "Who hath given him a charge over the earth? or who hath disposed the whole world?"
+bsb: "Who gave Him charge over the earth? Who appointed Him over the whole world?"
+hebrew: "מִֽי־ פָקַ֣ד עָלָ֣יו אָ֑רְצָה וּמִ֥י שָׂ֝֗ם תֵּבֵ֥ל כֻּלָּֽהּ׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H7760H]]"
+- "[[H8398]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:13**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath given him a charge over the earth? or who hath disposed the whole world?
 <small><sub>**BSB:**</sub></small>
 Who gave Him charge over the earth? Who appointed Him over the whole world?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H6485J\|פָקַ֣ד]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H0776G\|אָ֑רְצָ]][[H9011\|ה]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H7760H\|שָׂ֝֗ם]] [[H8398\|תֵּבֵ֥ל]] [[H3605\|כֻּלָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.12|<< Job 34:12]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.14|Job 34:14 >>]]</td></tr></table>
 

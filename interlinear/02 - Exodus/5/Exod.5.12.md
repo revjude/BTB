@@ -1,8 +1,61 @@
+---
+title: Exodus 5:12
+type: Verse
+kjv: "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
+bsb: "So the people scattered all over the land of Egypt to gather stubble for straw."
+hebrew: "וַיָּ֥פֶץ הָעָ֖ם בְּכָל־ אֶ֣רֶץ מִצְרָ֑יִם לְקֹשֵׁ֥שׁ קַ֖שׁ לַתֶּֽבֶן׃"
+pericope: "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRICK|BRICK]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6327A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H7197A]]"
+- "[[H7179]]"
+- "[[H8401]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:12**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.
 <small><sub>**BSB:**</sub></small>
 So the people scattered all over the land of Egypt to gather stubble for straw.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6327A\|יָּ֥פֶץ]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9005\|לְ]][[H7197A\|קֹשֵׁ֥שׁ]] [[H7179\|קַ֖שׁ]] [[H9005\|לַ]][[H8401\|תֶּֽבֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]] • [[topic CRUELTY|CRUELTY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.11|<< Exodus 5:11]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.13|Exodus 5:13 >>]]</td></tr></table>
 

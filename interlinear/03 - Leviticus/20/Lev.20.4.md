@@ -1,8 +1,75 @@
+---
+title: Leviticus 20:4
+type: Verse
+kjv: "And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:"
+bsb: "And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech,"
+hebrew: "וְאִ֡ם הַעְלֵ֣ם יַעְלִימֽוּ֩ עַ֨ם הָאָ֜רֶץ אֶת־ עֵֽינֵיהֶם֙ מִן־ הָאִ֣ישׁ הַה֔וּא בְּתִתּ֥וֹ מִזַּרְע֖וֹ לַמֹּ֑לֶךְ לְבִלְתִּ֖י הָמִ֥ית אֹתֽוֹ׃"
+pericope: "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic COLLUSION|COLLUSION]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H5956]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H4480A]]"
+- "[[H0376G]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H5414G]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4432]]"
+- "[[H1115]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:4**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:
 <small><sub>**BSB:**</sub></small>
 And if the people of the land ever hide their eyes and fail to put to death the man who gives one of his children to Molech,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֡ם]] [[H5956\|הַעְלֵ֣ם]] [[H5956\|יַעְלִימֽוּ֩]] [[H5971A\|עַ֨ם]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵֽינֵי]][[H9028\|הֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9003\|בְּ]][[H5414G\|תִתּ֥]][[H9043\|וֹ]] [[H9006\|מִ]][[H2233H\|זַּרְע֖]][[H9023\|וֹ]] [[H9005\|לַ]][[H4432\|מֹּ֑לֶךְ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H4191\|הָמִ֥ית]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLLUSION|COLLUSION]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.3|<< Leviticus 20:3]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.5|Leviticus 20:5 >>]]</td></tr></table>
 

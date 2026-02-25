@@ -1,3 +1,48 @@
+---
+title: LXX Lamentations 4:1
+type: Verse
+lxx: "ΑΛΕΦ
+
+O how the gold shall be darkened, and the good silver changed; holy stones were discharged at the top of all the streets,"
+greek: "πως αμαυρωθήσεται το χρυσίον αλλοιωθήσεται το αργύριον το αγαθόν εξεχύθησαν λίθοι άγιοι επ΄ αρχής πασών εξόδων"
+original_language: Greek
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- septuagint
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G4459]]"
+- "[[G6253]]"
+- "[[G3588]]"
+- "[[G5553]]"
+- "[[G6230]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G1632]]"
+- "[[G3037]]"
+- "[[G0039]]"
+- "[[G1909]]"
+- "[[G0746]]"
+- "[[G3956]]"
+- "[[G1841]]"
+---
+
 **LXX Lamentations 4:1** 
 
 ***The Rage of The LORD Completed***
@@ -6,6 +51,10 @@
 <p style="text-align:center;font-weight:600;">ΑΛΕΦ</p>
 
 O how the gold shall be darkened, \[and\] the good silver changed; holy stones were discharged at \[the\] top of all \[the\] streets, 
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πως]] [[G6253\|αμαυρωθήσεται]] [[G3588\|το]] [[G5553\|χρυσίον]] [[G6230\|αλλοιωθήσεται]] [[G3588\|το]] [[G0694\|αργύριον]] [[G3588\|το]] [[G0018\|αγαθόν]] [[G1632\|εξεχύθησαν]] [[G3037\|λίθοι]] [[G0039\|άγιοι]] [[G1909\|επ΄]] [[G0746\|αρχής]] [[G3956\|πασών]] [[G1841\|εξόδων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOLD|GOLD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
@@ -28,6 +77,6 @@ O how the gold shall be darkened, \[and\] the good silver changed; holy stones w
 | \[the\] top | **<big>[[G0746\|αρχής]]</big>** |
 | of all | **<big>[[G3956\|πασών]]</big>** |
 | \[the\] streets, | **<big>[[G1841\|εξόδων]]</big>** |
-[[Lam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.66|<< Lamentations 3:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.2|Lamentations 4:2 >>]]</td></tr></table>
 
 

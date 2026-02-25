@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Alive with Christ
+type: Pericope
 pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 2
 book/chapter: "[[Col.2|Colossians 2]]"
-genre:
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 18
 verses:
 - "[[Col.2.6]]"
 - "[[Col.2.7]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Col.2.23]]"
 ---
 
-[[Col.2|Colossians 2:6 - Colossians 2:23]]
+<small>[[Col.2|Colossians 2:6-23]]</small>
 *Alive with Christ*
 
 [[Col.2.6|6]] As ye have therefore received Christ Jesus the Lord, \[so\] walk ye in him:

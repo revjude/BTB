@@ -1,8 +1,68 @@
+---
+title: Daniel 7:25
+type: Verse
+kjv: "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."
+bsb: "He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time."
+aramaic: "וּמִלִּ֗ין לְצַ֤ד עִלָּאָה֙ יְמַלִּ֔ל וּלְקַדִּישֵׁ֥י עֶלְיוֹנִ֖ין יְבַלֵּ֑א וְיִסְבַּ֗ר לְהַשְׁנָיָה֙ זִמְנִ֣ין וְדָ֔ת וְיִתְיַהֲב֣וּן בִּידֵ֔הּ עַד־ עִדָּ֥ן וְעִדָּנִ֖ין וּפְלַ֥ג עִדָּֽן׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic TIME|TIME]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H4406]]"
+- "[[H9005]]"
+- "[[H6655]]"
+- "[[H5943]]"
+- "[[H9010]]"
+- "[[H4449]]"
+- "[[H6922]]"
+- "[[H5946]]"
+- "[[H1080]]"
+- "[[H5452]]"
+- "[[H8133]]"
+- "[[H2166]]"
+- "[[H1882]]"
+- "[[H3052]]"
+- "[[H9003]]"
+- "[[H3028]]"
+- "[[H9023]]"
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H5732]]"
+- "[[H6387]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 7:25**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall speak [great] words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 <small><sub>**BSB:**</sub></small>
 He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4406\|מִלִּ֗ין]] [[H9005\|לְ]][[H6655\|צַ֤ד]] [[H5943\|עִלָּאָ]][[H9010\|ה֙]] [[H4449\|יְמַלִּ֔ל]] [[H9002\|וּ]][[H9005\|לְ]][[H6922\|קַדִּישֵׁ֥י]] [[H5946\|עֶלְיוֹנִ֖ין]] [[H1080\|יְבַלֵּ֑א]] [[H9002\|וְ]][[H5452\|יִסְבַּ֗ר]] [[H9005\|לְ]][[H8133\|הַשְׁנָיָה֙]] [[H2166\|זִמְנִ֣ין]] [[H9002\|וְ]][[H1882\|דָ֔ת]] [[H9002\|וְ]][[H3052\|יִתְיַהֲב֣וּן]] [[H9003\|בִּ]][[H3028\|ידֵ֔]][[H9023\|הּ]] [[H5705\|עַד]][[H9014\|־]] [[H5732\|עִדָּ֥ן]] [[H9002\|וְ]][[H5732\|עִדָּנִ֖ין]] [[H9002\|וּ]][[H6387\|פְלַ֥ג]] [[H5732\|עִדָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic TIME|TIME]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.24|<< Daniel 7:24]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.26|Daniel 7:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

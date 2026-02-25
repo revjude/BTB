@@ -1,8 +1,54 @@
+---
+title: Psalm 146:8
+type: Verse
+kjv: "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:"
+bsb: "the LORD opens the eyes of the blind, the LORD lifts those who are weighed down, the LORD loves the righteous."
+hebrew: "יְהוָ֤ה׀ פֹּ֘קֵ֤חַ עִוְרִ֗ים יְ֭הוָה זֹקֵ֣ף כְּפוּפִ֑ים יְ֝הוָ֗ה אֹהֵ֥ב צַדִּיקִֽים׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H6491]]"
+- "[[H5787]]"
+- "[[H2210]]"
+- "[[H3721]]"
+- "[[H0157G]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:8**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD openeth [the eyes of] the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:
 <small><sub>**BSB:**</sub></small>
 the LORD opens the eyes of the blind, the LORD lifts those who are weighed down, the LORD loves the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H6491\|פֹּ֘קֵ֤חַ]] [[H5787\|עִוְרִ֗ים]] [[H3068G\|יְ֭הוָה]] [[H2210\|זֹקֵ֣ף]] [[H3721\|כְּפוּפִ֑ים]] [[H3068G\|יְ֝הוָ֗ה]] [[H0157G\|אֹהֵ֥ב]] [[H6662\|צַדִּיקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.7|<< Psalms 146:7]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.9|Psalms 146:9 >>]]</td></tr></table>
 

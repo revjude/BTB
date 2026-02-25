@@ -1,8 +1,59 @@
+---
+title: Psalm 104:5
+type: Verse
+kjv: "Who laid the foundations of the earth, that it should not be removed for ever."
+bsb: "He set the earth on its foundations, never to be moved."
+hebrew: "יָֽסַד־ אֶ֭רֶץ עַל־ מְכוֹנֶ֑יהָ בַּל־ תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3245]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5921A]]"
+- "[[H4349]]"
+- "[[H9024]]"
+- "[[H1077]]"
+- "[[H4131]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:5**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Who] laid the foundations of the earth, [that] it should not be removed for ever.
 <small><sub>**BSB:**</sub></small>
 He set the earth on its foundations, never to be moved.
+<small><sub>**Hebrew:**</sub></small>
+[[H3245\|יָֽסַד]][[H9014\|־]] [[H0776G\|אֶ֭רֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H4349\|מְכוֹנֶ֑י]][[H9024\|הָ]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|תִּ֝מּ֗וֹט]] [[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic EARTH|EARTH]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.4|<< Psalms 104:4]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.6|Psalms 104:6 >>]]</td></tr></table>
 

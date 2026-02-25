@@ -1,6 +1,59 @@
+---
+title: LXX Deuteronomy 17:6
+type: Verse
+lxx: "By two witnesses or three witnesses one shall die. The one dying shall not die by one witness."
+greek: "επί δυσί μάρτυσιν η τρισί μάρτυσιν αποθανείται ο αποθνήσκων ουκ αποθανείται εφ΄ ενί μάρτυρι"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G1909]]"
+- "[[G1417]]"
+- "[[G3144]]"
+- "[[G2228]]"
+- "[[G5140]]"
+- "[[G3144]]"
+- "[[G0599]]"
+- "[[G3588]]"
+- "[[G0599]]"
+- "[[G3756]]"
+- "[[G0599]]"
+- "[[G1909]]"
+- "[[G1520]]"
+- "[[G3144]]"
+---
+
 **LXX Deuteronomy 17:6** 
 <small><sub>**LXX:**</sub></small>
 By two witnesses or three witnesses one shall die. The one dying shall not die by one witness. 
+<small><sub>**Greek:**</sub></small>
+[[G1909\|επί]] [[G1417\|δυσί]] [[G3144\|μάρτυσιν]] [[G2228\|η]] [[G5140\|τρισί]] [[G3144\|μάρτυσιν]] [[G0599\|αποθανείται]] [[G3588\|ο]] [[G0599\|αποθνήσκων]] [[G3756\|ουκ]] [[G0599\|αποθανείται]] [[G1909\|εφ΄]] [[G1520\|ενί]] [[G3144\|μάρτυρι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EVIDENCE|EVIDENCE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -24,6 +77,6 @@ By two witnesses or three witnesses one shall die. The one dying shall not die b
 | by | **<big>[[G1909\|εφ΄]]</big>** |
 | one | **<big>[[G1520\|ενί]]</big>** |
 | witness. | **<big>[[G3144\|μάρτυρι]]</big>** |
-[[Deut.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.5|<< Deuteronomy 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.7|Deuteronomy 17:7 >>]]</td></tr></table>
 
 

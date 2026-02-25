@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Good and Perfect Gifts
+type: Pericope
 pericope: "[[Jas.1.13 Good and Perfect Gifts|Good and Perfect Gifts]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 1
 book/chapter: "[[Jas.1|James 1]]"
-genre:
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.1.13]]"
 - "[[Jas.1.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.1.18]]"
 ---
 
-[[Jas.1|James 1:13 - James 1:18]]
+<small>[[Jas.1|James 1:13-18]]</small>
 *Good and Perfect Gifts*
 
 [[Jas.1.13|13]] Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:

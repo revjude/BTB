@@ -1,10 +1,53 @@
+---
+title: Hebrews 10:33
+type: Verse
+kjv: "Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used."
+bsb: "Sometimes you were publicly exposed to ridicule and persecution; at other times you were partners with those who were so treated."
+greek: "τοῦτο μὲν ὀνειδισμοῖς τε καὶ θλίψεσιν θεατριζόμενοι, τοῦτο δὲ κοινωνοὶ τῶν οὕτως ἀναστρεφομένων γενηθέντες·"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G3778]]"
+- "[[G3303]]"
+- "[[G3680]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2347]]"
+- "[[G2301]]"
+- "[[G1161]]"
+- "[[G2844]]"
+- "[[G3588]]"
+- "[[G3779]]"
+- "[[G0390]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:33**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.
 <small><sub>**BSB:**</sub></small>
 Sometimes you were publicly exposed to ridicule and persecution; at other times you were partners with those who were so treated.
-<small><sub>**Literal:**</sub></small>
-this indeed by revilings both and by tribulations being made a spectacle, this however partners of those thus passing through [them] having become;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.32|<< Hebrews 10:32]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.34|Hebrews 10:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G3303\|μὲν]]  [[G3680\|ὀνειδισμοῖς]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2347\|θλίψεσιν]]  [[G2301\|θεατριζόμενοι,]]  [[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G2844\|κοινωνοὶ]]  [[G3588\|τῶν]]  [[G3779\|οὕτως]]  [[G0390\|ἀναστρεφομένων]]  [[G1096\|γενηθέντες·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.32|<< Hebrews 10:32]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.34|Hebrews 10:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

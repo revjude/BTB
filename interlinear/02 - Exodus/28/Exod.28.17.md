@@ -1,8 +1,65 @@
+---
+title: Exodus 28:17
+type: Verse
+kjv: "And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row."
+bsb: "And mount on it a setting of gemstones, four rows of stones: In the first row there shall be a ruby, a topaz, and an emerald;"
+hebrew: "וּמִלֵּאתָ֥ בוֹ֙ מִלֻּ֣אַת אֶ֔בֶן אַרְבָּעָ֖ה טוּרִ֣ים אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic CARBUNCLE|CARBUNCLE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SARDIUS|SARDIUS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOPAZ|TOPAZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4396]]"
+- "[[H0068G]]"
+- "[[H0702]]"
+- "[[H2905]]"
+- "[[H0124]]"
+- "[[H6357]]"
+- "[[H9002]]"
+- "[[H1304A]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:17**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set in it settings of stones, [even] four rows of stones: [the first] row [shall be] a sardius, a topaz, and a carbuncle: [this shall be] the first row.
 <small><sub>**BSB:**</sub></small>
 And mount on it a setting of gemstones, four rows of stones: In the first row there shall be a ruby, a topaz, and an emerald;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4390\|מִלֵּאתָ֥]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H4396\|מִלֻּ֣אַת]] [[H0068G\|אֶ֔בֶן]] [[H0702\|אַרְבָּעָ֖ה]] [[H2905\|טוּרִ֣ים]] [[H0068G\|אָ֑בֶן]] [[H2905\|ט֗וּר]] [[H0124\|אֹ֤דֶם]] [[H6357\|פִּטְדָה֙]] [[H9002\|וּ]][[H1304A\|בָרֶ֔קֶת]] [[H9009\|הַ]][[H2905\|טּ֖וּר]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic CARBUNCLE|CARBUNCLE]] • [[topic PRIEST|PRIEST]] • [[topic SARDIUS|SARDIUS]] • [[topic STONES|STONES]] • [[topic TOPAZ|TOPAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.16|<< Exodus 28:16]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.18|Exodus 28:18 >>]]</td></tr></table>
 

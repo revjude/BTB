@@ -7,7 +7,7 @@
 
 → Forgiveness of enemies must be sincere [[Matt.18.35|Mt 18:35]]
 
-→ Servants must render honest service [[Eph.6.5|Eph 6:5]]-[[Eph.6.7|7]]
+→ Servants must render honest service [[Eph.6.5|Eph 6:5-7]]
 
 → Whatever is done must be done with [[1Cor.10.31|1Co 10:31]]
 
@@ -31,7 +31,7 @@
 
 - Our whole conduct [[2Cor.1.12|2Co 1:12]]
 
-- The preaching of the gospel [[2Cor.2.17|2Co 2:17]]; [[1Thess.2.3|1Th 2:3]]-[[1Thess.2.5|5]]
+- The preaching of the gospel [[2Cor.2.17|2Co 2:17]]; [[1Thess.2.3|1Th 2:3-5]]
 
 → A characteristic of the doctrines of the gospel [[1Pet.2.2|1Pe  2:2]]
 

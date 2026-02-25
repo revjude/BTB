@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shem’s Blessing and Noah’s Death
+type: Pericope
 pericope: "[[Gen.9.26 Shem’s Blessing and Noah’s Death|Shem’s Blessing and Noah’s Death]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 9
 book/chapter: "[[Gen.9|Genesis 9]]"
-genre:
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.9.26]]"
 - "[[Gen.9.27]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.9.29]]"
 ---
 
-[[Gen.9|Genesis 9:26 - Genesis 9:29]]
+<small>[[Gen.9|Genesis 9:26-29]]</small>
 *Shem’s Blessing and Noah’s Death*
 
 [[Gen.9.26|26]] And he said, Blessed \[be\] the LORD God of Shem; and Canaan shall be his servant.

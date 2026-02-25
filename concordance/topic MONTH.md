@@ -3,13 +3,13 @@
 
 → Ancient use of [[Gen.7.11|Ge 7:11]]; [[Gen.8.4|8:4]]
 
-→ Twelve months reckoned to a year [[1Chr.27.1|1Ch 27:1]]-[[1Chr.27.15|15]]
+→ Twelve months reckoned to a year [[1Chr.27.1|1Ch 27:1-15]]
 
 1. Abib (April)
 
 - The Jewish calendar began with [[Exod.12.2|Ex 12:2]]; [[Exod.13.4|13:4]]; [[Deut.16.1|De 16:1]]
 
-- Passover instituted and celebrated in [[Exod.12.1|Ex 12:1]]-[[Exod.12.28|28]]; [[Exod.23.15|23:15]]
+- Passover instituted and celebrated in [[Exod.12.1|Ex 12:1-28]]; [[Exod.23.15|23:15]]
 
 - Israelites left Egypt in [[Exod.13.4|Ex 13:4]]
 
@@ -37,7 +37,7 @@
 
 - Temple begun in [[1Kgs.6.1|1Ki 6:1]]; [[2Chr.3.2|2Ch 3:2]]
 
-- An celebrated in [[2Chr.30.1|2Ch 30:1]]-[[2Chr.30.27|27]]
+- An celebrated in [[2Chr.30.1|2Ch 30:1-27]]
 
 - Rebuilding of the temple begun in [[Ezra.3.8|Ezr 3:8]]
 
@@ -55,7 +55,7 @@
 
 - Aaron died on the first day of [[Num.33.38|Nu 33:38]]
 
-- Temple destroyed in [[2Kgs.25.8|2Ki 25:8]]-[[2Kgs.25.10|10]]; [[Jer.1.3|Jer 1:3]]; [[Jer.52.12|52:12]]-[[Jer.52.30|30]]
+- Temple destroyed in [[2Kgs.25.8|2Ki 25:8-10]]; [[Jer.1.3|Jer 1:3]]; [[Jer.52.12|52:12-30]]
 
 - Ezra arrived at Jerusalem in [[Ezra.7.8|Ezr 7:8]],[[Ezra.7.9|9]]
 
@@ -67,7 +67,7 @@
 
 7. Ethanim (October) [[1Kgs.8.2|1Ki 8:2]]
 
-- Feasts held in [[Lev.23.24|Le 23:24]],[[Lev.23.27|27]]; [[Neh.8.13|Ne 8:13]]-[[Neh.8.15|15]]
+- Feasts held in [[Lev.23.24|Le 23:24]],[[Lev.23.27|27]]; [[Neh.8.13|Ne 8:13-15]]
 
 - Jubilee proclaimed in [[Lev.25.9|Le 25:9]]
 
@@ -95,7 +95,7 @@
 
 - Second temple finished in [[Ezra.6.15|Ezr 6:15]]
 
-- Feast of Purim in [[Esth.9.1|Es 9:1]]-[[Esth.9.26|26]]
+- Feast of Purim in [[Esth.9.1|Es 9:1-26]]
 
 - Months in prophecy [[Rev.11.2|Re 11:2]]
 

@@ -1,10 +1,64 @@
+---
+title: John 7:31
+type: Verse
+kjv: "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?"
+bsb: "Many in the crowd, however, believed in Him and said, “When the Christ comes, will He perform more signs than this man?”"
+greek: "ἐκ τοῦ ὄχλου δὲ πολλοὶ ἐπίστευσαν εἰς αὐτὸν καὶ ἔλεγον ὅτι· ὁ χριστὸς ὅταν ἔλθῃ, μὴ πλείονα σημεῖα τούτων ποιήσει ὧν οὗτος ἐποίησεν;"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G5547]]"
+- "[[G3752]]"
+- "[[G2064]]"
+- "[[G3361]]"
+- "[[G4119]]"
+- "[[G4592]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 7:31**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this [man] hath done?
 <small><sub>**BSB:**</sub></small>
 Many in the crowd, however, believed in Him and said, “When the Christ comes, will He perform more signs than this man?”
-<small><sub>**Literal:**</sub></small>
-Out of the crowd now many believed in Him and were saying that: The Christ When He may come, Surely not more signs than these things will He do than  this [man] has done?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.30|<< John 7:30]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.32|John 7:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G1161\|δὲ]]  [[G4183\|πολλοὶ]]  [[G4100\|ἐπίστευσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι·]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθῃ,]]  [[G3361\|μὴ]]  [[G4119\|πλείονα]]  [[G4592\|σημεῖα]]  [[G3778\|τούτων]]  [[G4160G\|ποιήσει]]  [[G3739\|ὧν]]  [[G3778\|οὗτος]]  [[G4160G\|ἐποίησεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.30|<< John 7:30]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.32|John 7:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redemption through His Blood
+type: Pericope
 pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 9
 book/chapter: "[[Heb.9|Hebrews 9]]"
-genre:
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 18
 verses:
 - "[[Heb.9.11]]"
 - "[[Heb.9.12]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Heb.9.28]]"
 ---
 
-[[Heb.9|Hebrews 9:11 - Hebrews 9:28]]
+<small>[[Heb.9|Hebrews 9:11-28]]</small>
 *Redemption through His Blood*
 
 [[Heb.9.11|11]] But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;

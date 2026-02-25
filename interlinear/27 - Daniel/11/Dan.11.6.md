@@ -1,8 +1,66 @@
+---
+title: Daniel 11:6
+type: Verse
+kjv: "And in the end of years they shall join themselves together; for the king’s daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in these times."
+bsb: "After some years they will form an alliance, and the daughter of the king of the South will go to the king of the North to seal the agreement. But his daughter will not retain her position of power, nor will his strength endure. At that time she will be given up, along with her royal escort and her father and the one who supported her."
+hebrew: "וּלְקֵ֤ץ שָׁנִים֙ יִתְחַבָּ֔רוּ וּבַ֣ת מֶֽלֶךְ־ הַנֶּ֗גֶב תָּבוֹא֙ אֶל־ מֶ֣לֶךְ הַצָּפ֔וֹן לַעֲשׂ֖וֹת מֵישָׁרִ֑ים וְלֹֽא־ תַעְצֹ֞ר כּ֣וֹחַ הַזְּר֗וֹעַ וְלֹ֤א יַעֲמֹד֙ וּזְרֹע֔וֹ וְתִנָּתֵ֨ן הִ֤יא וּמְבִיאֶ֙יהָ֙ וְהַיֹּ֣לְדָ֔הּ וּמַחֲזִקָ֖הּ בָּעִתִּֽים׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H7093]]"
+- "[[H8141]]"
+- "[[H2266]]"
+- "[[H1323G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5045H]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H6828G]]"
+- "[[H6213H]]"
+- "[[H4339]]"
+- "[[H3808]]"
+- "[[H6113]]"
+- "[[H3581B]]"
+- "[[H2220]]"
+- "[[H5975G]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H1931]]"
+- "[[H9034]]"
+- "[[H3205]]"
+- "[[H2388G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:6**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the end of years they shall join themselves together; for the king’s daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in [these] times.
 <small><sub>**BSB:**</sub></small>
 After some years they will form an alliance, and the daughter of the king of the South will go to the king of the North to seal the agreement. But his daughter will not retain her position of power, nor will his strength endure. At that time she will be given up, along with her royal escort and her father and the one who supported her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H7093\|קֵ֤ץ]] [[H8141\|שָׁנִים֙]] [[H2266\|יִתְחַבָּ֔רוּ]] [[H9002\|וּ]][[H1323G\|בַ֣ת]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הַ]][[H5045H\|נֶּ֗גֶב]] [[H0935G\|תָּבוֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֔וֹן]] [[H9005\|לַ]][[H6213H\|עֲשׂ֖וֹת]] [[H4339\|מֵישָׁרִ֑ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6113\|תַעְצֹ֞ר]] [[H3581B\|כּ֣וֹחַ]] [[H9009\|הַ]][[H2220\|זְּר֗וֹעַ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5975G\|יַעֲמֹד֙]] [[H9002\|וּ]][[H2220\|זְרֹע֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5414G\|תִנָּתֵ֨ן]] [[H1931\|הִ֤יא]] [[H9002\|וּ]][[H0935G\|מְבִיאֶ֙י]][[H9034\|הָ֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3205\|יֹּ֣לְדָ֔]][[H9034\|הּ]] [[H9002\|וּ]][[H2388G\|מַחֲזִקָ֖]][[H9034\|הּ]] [[H9003\|בָּ]][[H6256\|עִתִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.5|<< Daniel 11:5]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.7|Daniel 11:7 >>]]</td></tr></table>
 

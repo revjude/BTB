@@ -1,8 +1,76 @@
+---
+title: Genesis 29:34
+type: Verse
+kjv: "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi."
+bsb: "Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi."
+hebrew: "וַתַּ֣הַר עוֹד֮ וַתֵּ֣לֶד בֵּן֒ וַתֹּ֗אמֶר עַתָּ֤ה הַפַּ֙עַם֙ יִלָּוֶ֤ה אִישִׁי֙ אֵלַ֔י כִּֽי־ יָלַ֥דְתִּי ל֖וֹ שְׁלֹשָׁ֣ה בָנִ֑ים עַל־ כֵּ֥ן קָרָֽא־ שְׁמ֖וֹ לֵוִֽי׃"
+pericope: "[[Gen.29.31 Reuben, Simeon, Levi, and Judah|Reuben, Simeon, Levi, and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic LEVI|LEVI]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H5750]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H0559]]"
+- "[[H6258]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H3867A]]"
+- "[[H0376H]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7969]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:34**<big><big>[[Gen.29.31 Reuben, Simeon, Levi, and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.
 <small><sub>**BSB:**</sub></small>
 Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2029\|תַּ֣הַר]] [[H5750\|עוֹד֮]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּן֒]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H6258\|עַתָּ֤ה]] [[H9009\|הַ]][[H6471\|פַּ֙עַם֙]] [[H3867A\|יִלָּוֶ֤ה]] [[H0376H\|אִישִׁ]][[H9020\|י֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3205\|יָלַ֥דְתִּי]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H1121A\|בָנִ֑ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H7121H\|קָרָֽא]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic LEAH|LEAH]] • [[topic LEVI|LEVI]] • [[topic POLYGAMY|POLYGAMY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.33|<< Genesis 29:33]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.35|Genesis 29:35 >>]]</td></tr></table>
 

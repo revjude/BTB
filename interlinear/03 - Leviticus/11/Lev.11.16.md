@@ -1,8 +1,65 @@
+---
+title: Leviticus 11:16
+type: Verse
+kjv: "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+bsb: "the ostrich, the screech owl, the gull, any kind of hawk,"
+hebrew: "וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־ הַתַּחְמָ֖ס וְאֶת־ הַשָּׁ֑חַף וְאֶת־ הַנֵּ֖ץ לְמִינֵֽהוּ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CUCKOO|CUCKOO]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic HAWK|HAWK]]"
+- "[[topic NIGHT HAWK|NIGHT HAWK]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H9009]]"
+- "[[H3284]]"
+- "[[H9014]]"
+- "[[H8464]]"
+- "[[H7828]]"
+- "[[H5322B]]"
+- "[[H9005]]"
+- "[[H4327]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:16**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the owl, and the night hawk, and the cuckow, and the hawk after his kind,
 <small><sub>**BSB:**</sub></small>
 the ostrich, the screech owl, the gull, any kind of hawk,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H1323G\|בַּ֣ת]] [[H9009\|הַֽ]][[H3284\|יַּעֲנָ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8464\|תַּחְמָ֖ס]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7828\|שָּׁ֑חַף]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5322B\|נֵּ֖ץ]] [[H9005\|לְ]][[H4327\|מִינֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic CUCKOO|CUCKOO]] • [[topic FOOD|FOOD]] • [[topic HAWK|HAWK]] • [[topic NIGHT HAWK|NIGHT HAWK]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.15|<< Leviticus 11:15]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.17|Leviticus 11:17 >>]]</td></tr></table>
 

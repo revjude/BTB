@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 11:29
+type: Verse
+kjv: "And it shall come to pass, when the LORD thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal."
+bsb: "When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal."
+hebrew: "וְהָיָ֗ה כִּ֤י יְבִֽיאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶל־ הָאָ֕רֶץ אֲשֶׁר־ אַתָּ֥ה בָא־ שָׁ֖מָּה לְרִשְׁתָּ֑הּ וְנָתַתָּ֤ה אֶת־ הַבְּרָכָה֙ עַל־ הַ֣ר גְּרִזִ֔ים וְאֶת־ הַקְּלָלָ֖ה עַל־ הַ֥ר עֵיבָֽל׃"
+pericope: "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic EBAL|EBAL]]"
+- "[[topic GERIZIM|GERIZIM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H1293]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H1630]]"
+- "[[H9002]]"
+- "[[H7045]]"
+- "[[H5858C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:29**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when the LORD thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.
 <small><sub>**BSB:**</sub></small>
 When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3588A\|כִּ֤י]] [[H0935P\|יְבִֽיאֲ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H0935G\|בָא]][[H9014\|־]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1293\|בְּרָכָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H1630\|גְּרִזִ֔ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7045\|קְּלָלָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H5858C\|עֵיבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic EBAL|EBAL]] • [[topic GERIZIM|GERIZIM]] • [[topic PRAYER|PRAYER]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.28|<< Deuteronomy 11:28]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.30|Deuteronomy 11:30 >>]]</td></tr></table>
 

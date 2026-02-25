@@ -1,8 +1,66 @@
+---
+title: Exodus 36:19
+type: Verse
+kjv: "And he made a covering for the tent of rams’ skins dyed red, and a covering of badgers’ skins above that."
+bsb: "Additionally, he made for the tent a covering of ram skins dyed red, and over that a covering of fine leather."
+hebrew: "וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵלִ֖ים מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃ ס"
+pericope: "[[Exod.36.14 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BADGER|BADGER]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PORPOISE|PORPOISE]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H4372]]"
+- "[[H9005]]"
+- "[[H0168G]]"
+- "[[H5785]]"
+- "[[H0352A]]"
+- "[[H0119]]"
+- "[[H9002]]"
+- "[[H8476]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 36:19**<big><big>[[Exod.36.14 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made a covering for the tent [of] rams’ skins dyed red, and a covering [of] badgers’ skins above [that].
 <small><sub>**BSB:**</sub></small>
 Additionally, he made for the tent a covering of ram skins dyed red, and over that a covering of fine leather.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H4372\|מִכְסֶה֙]] [[H9005\|לָ]][[H0168G\|אֹ֔הֶל]] [[H5785\|עֹרֹ֥ת]] [[H0352A\|אֵלִ֖ים]] [[H0119\|מְאָדָּמִ֑ים]] [[H9002\|וּ]][[H4372\|מִכְסֵ֛ה]] [[H5785\|עֹרֹ֥ת]] [[H8476\|תְּחָשִׁ֖ים]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BADGER|BADGER]] • [[topic COLORS|COLORS]] • [[topic ISRAEL|ISRAEL]] • [[topic PORPOISE|PORPOISE]] • [[topic SEAL|SEAL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.18|<< Exodus 36:18]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.20|Exodus 36:20 >>]]</td></tr></table>
 
@@ -17,7 +75,7 @@ Additionally, he made for the tent a covering of ram skins dyed red, and over th
 | and a covering of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4372\|מִכְסֵ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mikh.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | skins of  |**<big>&#8207;[[H5785\|עֹרֹ֥ת]]&#8207; </big>**| 'o.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dolphins  |**<big>&#8207;[[H8476\|תְּחָשִׁ֖ים]]&#8207; </big>**| te.cha.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from to above \<towards>  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4605\|מָֽעְלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> l.<small><sup>[[HR]]</sup></small> Ma.'e.la<small><sup>[[HAcbsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to above \<towards>  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4605\|מָֽעְלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> l.<small><sup>[[HR]]</sup></small> Ma.'e.la<small><sup>[[HAcbsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.18|<< Exodus 36:18]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.20|Exodus 36:20 >>]]</td></tr></table>
 
 

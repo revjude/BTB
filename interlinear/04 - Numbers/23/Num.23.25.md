@@ -1,8 +1,56 @@
+---
+title: Numbers 23:25
+type: Verse
+kjv: "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
+bsb: "Now Balak said to Balaam, “Then neither curse them at all nor bless them at all!”"
+hebrew: "וַיֹּ֤אמֶר בָּלָק֙ אֶל־ בִּלְעָ֔ם גַּם־ קֹ֖ב לֹ֣א תִקֳּבֶ֑נּוּ גַּם־ בָּרֵ֖ךְ לֹ֥א תְבָרֲכֶֽנּוּ׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1111]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H1571]]"
+- "[[H6895]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:25**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak said unto Balaam, Neither curse them at all, nor bless them at all.
 <small><sub>**BSB:**</sub></small>
 Now Balak said to Balaam, “Then neither curse them at all nor bless them at all!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1111\|בָּלָק֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H1571\|גַּם]][[H9014\|־]] [[H6895\|קֹ֖ב]] [[H3808\|לֹ֣א]] [[H6895\|תִקֳּבֶ֑]][[H9033\|נּוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1288\|בָּרֵ֖ךְ]] [[H3808\|לֹ֥א]] [[H1288\|תְבָרֲכֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.24|<< Numbers 23:24]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.26|Numbers 23:26 >>]]</td></tr></table>
 

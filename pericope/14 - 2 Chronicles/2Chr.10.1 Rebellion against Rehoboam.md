@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rebellion against Rehoboam
+type: Pericope
 pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 10
 book/chapter: "[[2Chr.10|2 Chronicles 10]]"
-genre:
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 15
 verses:
 - "[[2Chr.10.1]]"
 - "[[2Chr.10.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Chr.10.15]]"
 ---
 
-[[2Chr.10|2 Chronicles 10:1 - 2 Chronicles 10:15]]
+<small>[[2Chr.10|2 Chronicles 10:1-15]]</small>
 *Rebellion against Rehoboam*
 
 [[2Chr.10.1|1]] And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.

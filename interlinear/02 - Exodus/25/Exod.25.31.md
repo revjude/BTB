@@ -1,8 +1,65 @@
+---
+title: Exodus 25:31
+type: Verse
+kjv: "And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same."
+bsb: "Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals."
+hebrew: "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃"
+pericope: "[[Exod.25.31 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H4501]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H4749]]"
+- "[[H9009]]"
+- "[[H3409]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7070H]]"
+- "[[H1375]]"
+- "[[H3730]]"
+- "[[H6525]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:31**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make a candlestick [of] pure gold: [of] beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.
 <small><sub>**BSB:**</sub></small>
 Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H4501\|מְנֹרַ֖ת]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֑וֹר]] [[H4749\|מִקְשָׁ֞ה]] [[H6213H\|תֵּעָשֶׂ֤ה]] [[H9009\|הַ]][[H4501\|מְּנוֹרָה֙]] [[H3409\|יְרֵכָ֣]][[H9024\|הּ]] [[H9002\|וְ]][[H7070H\|קָנָ֔]][[H9024\|הּ]] [[H1375\|גְּבִיעֶ֛י]][[H9024\|הָ]] [[H3730\|כַּפְתֹּרֶ֥י]][[H9024\|הָ]] [[H9002\|וּ]][[H6525\|פְרָחֶ֖י]][[H9024\|הָ]] [[H4480A\|מִמֶּ֥]][[H9034\|נָּה]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.30|<< Exodus 25:30]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.32|Exodus 25:32 >>]]</td></tr></table>
 

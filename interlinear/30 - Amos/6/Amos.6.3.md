@@ -1,8 +1,57 @@
+---
+title: Amos 6:3
+type: Verse
+kjv: "Ye that put far away the evil day, and cause the seat of violence to come near;"
+bsb: "You dismiss the day of calamity and bring near a reign of violence."
+hebrew: "הַֽמְנַדִּ֖ים לְי֣וֹם רָ֑ע וַתַּגִּישׁ֖וּן שֶׁ֥בֶת חָמָֽס׃"
+pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SECURITY|SECURITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9009]]"
+- "[[H5077B]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H7451B]]"
+- "[[H9001]]"
+- "[[H5066H]]"
+- "[[H9013]]"
+- "[[H7675]]"
+- "[[H2555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:3**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that put far away the evil day, and cause the seat of violence to come near;
 <small><sub>**BSB:**</sub></small>
 You dismiss the day of calamity and bring near a reign of violence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H5077B\|מְנַדִּ֖ים]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H7451B\|רָ֑ע]] [[H9001\|וַ]][[H5066H\|תַּגִּישׁ֖וּ]][[H9013\|ן]] [[H7675\|שֶׁ֥בֶת]] [[H2555\|חָמָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic RICH, THE|RICH, THE]] • [[topic SECURITY|SECURITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.2|<< Amos 6:2]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.4|Amos 6:4 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparing the Passover
+type: Pericope
 pericope: "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.14.12]]"
 - "[[Mark.14.13]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.14.16]]"
 ---
 
-[[Mark.14|Mark 14:12 - Mark 14:16]]
+<small>[[Mark.14|Mark 14:12-16]]</small>
 *Preparing the Passover*
 
 [[Mark.14.12|12]] And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?

@@ -1,8 +1,74 @@
+---
+title: Joshua 14:10
+type: Verse
+kjv: "And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old."
+bsb: "Now behold, as the LORD promised, He has kept me alive these forty-five years since He spoke this word to Moses, while Israel wandered in the wilderness. So here I am today, eighty-five years old,"
+hebrew: "וְעַתָּ֗ה הִנֵּה֩ הֶחֱיָ֨ה יְהוָ֣ה׀ אוֹתִי֮ כַּאֲשֶׁ֣ר דִּבֵּר֒ זֶה֩ אַרְבָּעִ֨ים וְחָמֵ֜שׁ שָׁנָ֗ה מֵ֠אָז דִּבֶּ֨ר יְהוָ֜ה אֶת־ הַדָּבָ֤ר הַזֶּה֙ אֶל־ מֹשֶׁ֔ה אֲשֶׁר־ הָלַ֥ךְ יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וְעַתָּה֙ הִנֵּ֣ה אָנֹכִ֣י הַיּ֔וֹם בֶּן־ חָמֵ֥שׁ וּשְׁמוֹנִ֖ים שָׁנָֽה׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H2421]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H2088]]"
+- "[[H0705]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H0834A]]"
+- "[[H1980I]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0595]]"
+- "[[H3117L]]"
+- "[[H1121L]]"
+- "[[H8084]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:10**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while [the children of] Israel wandered in the wilderness: and now, lo, I [am] this day fourscore and five years old.
 <small><sub>**BSB:**</sub></small>
 Now behold, as the LORD promised, He has kept me alive these forty-five years since He spoke this word to Moses, while Israel wandered in the wilderness. So here I am today, eighty-five years old,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2009\|הִנֵּה֩]] [[H2421\|הֶחֱיָ֨ה]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0853\|אוֹתִ]][[H9030\|י֮]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֵּר֒]] [[H2088\|זֶה֩]] [[H0705\|אַרְבָּעִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֜שׁ]] [[H8141\|שָׁנָ֗ה]] [[H9006\|מֵ֠]][[H0227B\|אָז]] [[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֤ר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980I\|הָלַ֥ךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H2009\|הִנֵּ֣ה]] [[H0595\|אָנֹכִ֣י]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H1121L\|בֶּן]][[H9014\|־]] [[H2568\|חָמֵ֥שׁ]] [[H9002\|וּ]][[H8084\|שְׁמוֹנִ֖ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic HEBRON|HEBRON]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.9|<< Joshua 14:9]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.11|Joshua 14:11 >>]]</td></tr></table>
 

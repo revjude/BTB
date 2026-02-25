@@ -1,8 +1,60 @@
+---
+title: Habakkuk 1:5
+type: Verse
+kjv: "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you."
+bsb: "“Look at the nations and observe—be utterly astounded! For I am doing a work in your days that you would never believe even if someone told you."
+hebrew: "רְא֤וּ בַגּוֹיִם֙ וְֽהַבִּ֔יטוּ וְהִֽתַּמְּה֖וּ תְּמָ֑הוּ כִּי־ פֹ֙עַל֙ פֹּעֵ֣ל בִּֽימֵיכֶ֔ם לֹ֥א תַאֲמִ֖ינוּ כִּ֥י יְסֻפָּֽר׃"
+pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H5027]]"
+- "[[H8539]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6467]]"
+- "[[H6466]]"
+- "[[H3117G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H5608A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:5**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold ye among the heathen, and regard, and wonder marvellously: for [I] will work a work in your days, [which] ye will not believe, though it be told [you].
 <small><sub>**BSB:**</sub></small>
 “Look at the nations and observe—be utterly astounded! For I am doing a work in your days that you would never believe even if someone told you.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רְא֤וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִם֙]] [[H9002\|וְֽ]][[H5027\|הַבִּ֔יטוּ]] [[H9002\|וְ]][[H8539\|הִֽתַּמְּה֖וּ]] [[H8539\|תְּמָ֑הוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H6467\|פֹ֙עַל֙]] [[H6466\|פֹּעֵ֣ל]] [[H9003\|בִּֽ]][[H3117G\|ימֵי]][[H9026\|כֶ֔ם]] [[H3808\|לֹ֥א]] [[H0539\|תַאֲמִ֖ינוּ]] [[H3588A\|כִּ֥י]] [[H5608A\|יְסֻפָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.4|<< Habakkuk 1:4]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.6|Habakkuk 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

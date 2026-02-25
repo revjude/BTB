@@ -1,8 +1,55 @@
+---
+title: Micah 1:9
+type: Verse
+kjv: "For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem."
+bsb: "For her wound is incurable; it has reached even Judah; it has approached the gate of my people, as far as Jerusalem itself."
+hebrew: "כִּ֥י אֲנוּשָׁ֖ה מַכּוֹתֶ֑יהָ כִּי־ בָ֙אָה֙ עַד־ יְהוּדָ֔ה נָגַ֛ע עַד־ שַׁ֥עַר עַמִּ֖י עַד־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0605]]"
+- "[[H4347]]"
+- "[[H9024]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H3063G]]"
+- "[[H5060]]"
+- "[[H8179G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:9**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For her wound [is] incurable; for it is come unto Judah; he is come unto the gate of my people, [even] to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 For her wound is incurable; it has reached even Judah; it has approached the gate of my people, as far as Jerusalem itself.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H0605\|אֲנוּשָׁ֖ה]] [[H4347\|מַכּוֹתֶ֑י]][[H9024\|הָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֙אָה֙]] [[H5704\|עַד]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H5060\|נָגַ֛ע]] [[H5704\|עַד]][[H9014\|־]] [[H8179G\|שַׁ֥עַר]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.8|<< Micah 1:8]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.10|Micah 1:10 >>]]</td></tr></table>
 

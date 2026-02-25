@@ -1,8 +1,66 @@
+---
+title: Exodus 18:26
+type: Verse
+kjv: "And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves."
+bsb: "And they judged the people at all times; they would bring the difficult cases to Moses, but any minor issue they would judge themselves."
+hebrew: "וְשָׁפְט֥וּ אֶת־ הָעָ֖ם בְּכָל־ עֵ֑ת אֶת־ הַדָּבָ֤ר הַקָּשֶׁה֙ יְבִיא֣וּן אֶל־ מֹשֶׁ֔ה וְכָל־ הַדָּבָ֥ר הַקָּטֹ֖ן יִשְׁפּוּט֥וּ הֵֽם׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6256]]"
+- "[[H1697L]]"
+- "[[H7186]]"
+- "[[H0935P]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H6996B]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:26**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.
 <small><sub>**BSB:**</sub></small>
 And they judged the people at all times; they would bring the difficult cases to Moses, but any minor issue they would judge themselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8199\|שָׁפְט֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֑ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697L\|דָּבָ֤ר]] [[H9009\|הַ]][[H7186\|קָּשֶׁה֙]] [[H0935P\|יְבִיא֣וּ]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697L\|דָּבָ֥ר]] [[H9009\|הַ]][[H6996B\|קָּטֹ֖ן]] [[H8199\|יִשְׁפּוּט֥וּ]] [[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.25|<< Exodus 18:25]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.27|Exodus 18:27 >>]]</td></tr></table>
 

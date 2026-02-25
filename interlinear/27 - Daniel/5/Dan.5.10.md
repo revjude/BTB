@@ -1,8 +1,71 @@
+---
+title: Daniel 5:10
+type: Verse
+kjv: "Now the queen, by reason of the words of the king and his lords, came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:"
+bsb: "Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale."
+aramaic: "מַלְכְּתָ֕א לָקֳבֵ֨ל מִלֵּ֤י מַלְכָּא֙ וְרַבְרְבָנ֔וֹהִי לְבֵ֥ית מִשְׁתְּיָ֖א עַלַּ֑ת עֲנָ֨ת מַלְכְּתָ֜א וַאֲמֶ֗רֶת מַלְכָּא֙ לְעָלְמִ֣ין חֱיִ֔י אַֽל־ יְבַהֲלוּךְ֙ רַעְיוֹנָ֔ךְ וְזִיוָ֖יךְ אַל־ יִשְׁתַּנּֽוֹ׃"
+pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H4433]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H6903G]]"
+- "[[H4406]]"
+- "[[H4430]]"
+- "[[H9002]]"
+- "[[H7261]]"
+- "[[H9023]]"
+- "[[H1005]]"
+- "[[H4961]]"
+- "[[H5954]]"
+- "[[H6032]]"
+- "[[H0560]]"
+- "[[H5957]]"
+- "[[H2418]]"
+- "[[H0409]]"
+- "[[H9014]]"
+- "[[H0927]]"
+- "[[H9031]]"
+- "[[H7476]]"
+- "[[H9021]]"
+- "[[H2122]]"
+- "[[H8133]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 5:10**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] the queen, by reason of the words of the king and his lords, came into the banquet house: [and] the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:
 <small><sub>**BSB:**</sub></small>
 Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale.
+<small><sub>**Aramaic:**</sub></small>
+[[H4433\|מַלְכְּתָ֕]][[H9010\|א]] [[H9005\|לָ]][[H6903G\|קֳבֵ֨ל]] [[H4406\|מִלֵּ֤י]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H7261\|רַבְרְבָנ֔וֹ]][[H9023\|הִי]] [[H9005\|לְ]][[H1005\|בֵ֥ית]] [[H4961\|מִשְׁתְּיָ֖]][[H9010\|א]] [[H5954\|עַלַּ֑ת]] [[H6032\|עֲנָ֨ת]] [[H4433\|מַלְכְּתָ֜]][[H9010\|א]] [[H9002\|וַ]][[H0560\|אֲמֶ֗רֶת]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9005\|לְ]][[H5957\|עָלְמִ֣ין]] [[H2418\|חֱיִ֔י]] [[H0409\|אַֽל]][[H9014\|־]] [[H0927\|יְבַהֲלוּ]][[H9031\|ךְ֙]] [[H7476\|רַעְיוֹנָ֔]][[H9021\|ךְ]] [[H9002\|וְ]][[H2122\|זִיוָ֖י]][[H9021\|ךְ]] [[H0409\|אַל]][[H9014\|־]] [[H8133\|יִשְׁתַּנּֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic INFLUENCE|INFLUENCE]] • [[topic QUEEN|QUEEN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.9|<< Daniel 5:9]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.11|Daniel 5:11 >>]]</td></tr></table>
 

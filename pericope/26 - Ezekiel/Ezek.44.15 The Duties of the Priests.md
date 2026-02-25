@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Duties of the Priests
+type: Pericope
 pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 44
 book/chapter: "[[Ezek.44|Ezekiel 44]]"
-genre:
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 17
 verses:
 - "[[Ezek.44.15]]"
 - "[[Ezek.44.16]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Ezek.44.31]]"
 ---
 
-[[Ezek.44|Ezekiel 44:15 - Ezekiel 44:31]]
+<small>[[Ezek.44|Ezekiel 44:15-31]]</small>
 *The Duties of the Priests*
 
 [[Ezek.44.15|15]] But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD:

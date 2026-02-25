@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 8:3
+type: Verse
+kjv: "For to their power, I bear record, yea, and beyond their power they were willing of themselves;"
+bsb: "For I testify that they gave according to their ability and even beyond it. Of their own accord,"
+greek: "ὅτι κατὰ δύναμιν, μαρτυρῶ, καὶ παρὰ δύναμιν αὐθαίρετοι,"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2596]]"
+- "[[G1411]]"
+- "[[G3140]]"
+- "[[G2532]]"
+- "[[G3844]]"
+- "[[G0830]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 8:3**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For to [their] power, I bear record, yea, and beyond [their] power [they were] willing of themselves;
 <small><sub>**BSB:**</sub></small>
 For I testify that they gave according to their ability and even beyond it. Of their own accord,
-<small><sub>**Literal:**</sub></small>
-For according to [their] ability, I testify [that], and beside [their] ability [they were] willing of themselves,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.2|<< 2 Corinthians 8:2]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.4|2 Corinthians 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2596\|κατὰ]]  [[G1411\|δύναμιν,]]  [[G3140\|μαρτυρῶ,]]  [[G2532\|καὶ]]  [[G3844\|παρὰ]]  [[G1411\|δύναμιν]]  [[G0830\|αὐθαίρετοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic MACEDONIA|MACEDONIA]] • [[topic POOR|POOR]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.2|<< 2 Corinthians 8:2]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.4|2 Corinthians 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

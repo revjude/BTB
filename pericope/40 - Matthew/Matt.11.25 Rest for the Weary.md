@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rest for the Weary
+type: Pericope
 pericope: "[[Matt.11.25 Rest for the Weary|Rest for the Weary]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 11
 book/chapter: "[[Matt.11|Matthew 11]]"
-genre:
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.11.25]]"
 - "[[Matt.11.26]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.11.30]]"
 ---
 
-[[Matt.11|Matthew 11:25 - Matthew 11:30]]
+<small>[[Matt.11|Matthew 11:25-30]]</small>
 *Rest for the Weary*
 
 [[Matt.11.25|25]] At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.

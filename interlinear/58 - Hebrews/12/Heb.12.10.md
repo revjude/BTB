@@ -1,10 +1,62 @@
+---
+title: Hebrews 12:10
+type: Verse
+kjv: "For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness."
+bsb: "Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness."
+greek: "οἱ μὲν γὰρ πρὸς ὀλίγας ἡμέρας κατὰ τὸ δοκοῦν αὐτοῖς ἐπαίδευον, ὁ δὲ ἐπὶ τὸ συμφέρον εἰς τὸ μεταλαβεῖν τῆς ἁγιότητος αὐτοῦ."
+pericope: "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G4314]]"
+- "[[G3641]]"
+- "[[G2250]]"
+- "[[G2596]]"
+- "[[G1380]]"
+- "[[G0846]]"
+- "[[G3811]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G4851]]"
+- "[[G1519]]"
+- "[[G3335]]"
+- "[[G0041]]"
+texts:
+- NKO
+---
+
 **Hebrews 12:10**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they verily for a few days chastened [us] after their own pleasure; but he for [our] profit, that [we] might be partakers of his holiness.
 <small><sub>**BSB:**</sub></small>
 Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness.
-<small><sub>**Literal:**</sub></small>
-<the> Indeed for during a few days according to which is seeming good to them they were disciplining [us], [He] however for which is [our] benefitting in order <the> to share of the holiness of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.9|<< Hebrews 12:9]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.11|Hebrews 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G4314\|πρὸς]]  [[G3641\|ὀλίγας]]  [[G2250\|ἡμέρας]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G1380\|δοκοῦν]]  [[G0846\|αὐτοῖς]]  [[G3811\|ἐπαίδευον,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4851\|συμφέρον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3335\|μεταλαβεῖν]]  [[G3588\|τῆς]]  [[G0041\|ἁγιότητος]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic HOLINESS|HOLINESS]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.9|<< Hebrews 12:9]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.11|Hebrews 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

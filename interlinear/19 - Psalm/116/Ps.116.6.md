@@ -1,8 +1,53 @@
+---
+title: Psalm 116:6
+type: Verse
+kjv: "The LORD preserveth the simple: I was brought low, and he helped me."
+bsb: "The LORD preserves the simplehearted; I was helpless, and He saved me."
+hebrew: "שֹׁמֵ֣ר פְּתָאיִ֣ם יְהֹוָ֑ה דַּ֝לּוֹתִ֗י וְלִ֣י יְהוֹשִֽׁיעַ׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H8104H]]"
+- "[[H6612A]]"
+- "[[H3068G]]"
+- "[[H1809]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:6**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD preserveth the simple: I was brought low, and he helped me.
 <small><sub>**BSB:**</sub></small>
 The LORD preserves the simplehearted; I was helpless, and He saved me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104H\|שֹׁמֵ֣ר]] [[H6612A\|פְּתָאיִ֣ם]] [[H3068G\|יְהֹוָ֑ה]] [[H1809\|דַּ֝לּוֹתִ֗י]] [[H9002\|וְ]][[H9005\|לִ֣]][[H9030\|י]] [[H3467\|יְהוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.5|<< Psalms 116:5]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.7|Psalms 116:7 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 46:21
+type: Verse
+kjv: "Also her hired men are in the midst of her like fatted bullocks; for they also are turned back, and are fled away together: they did not stand, because the day of their calamity was come upon them, and the time of their visitation."
+bsb: "Even the mercenaries among her are like fattened calves. They too will turn back; together they will flee, they will not stand their ground, for the day of calamity is coming upon them—the time of their punishment."
+hebrew: "גַּם־ שְׂכִרֶ֤יהָ בְקִרְבָּהּ֙ כְּעֶגְלֵ֣י מַרְבֵּ֔ק כִּֽי־ גַם־ הֵ֧מָּה הִפְנ֛וּ נָ֥סוּ יַחְדָּ֖יו לֹ֣א עָמָ֑דוּ כִּ֣י י֥וֹם אֵידָ֛ם בָּ֥א עֲלֵיהֶ֖ם עֵ֥ת פְּקֻדָּתָֽם׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H7916]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9004]]"
+- "[[H5695]]"
+- "[[H4770]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H6437G]]"
+- "[[H5127]]"
+- "[[H3162B]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H3117G]]"
+- "[[H0343]]"
+- "[[H9028]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H6256]]"
+- "[[H6486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:21**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also her hired men [are] in the midst of her like fatted bullocks; for they also are turned back, [and] are fled away together: they did not stand, because the day of their calamity was come upon them, [and] the time of their visitation.
 <small><sub>**BSB:**</sub></small>
 Even the mercenaries among her are like fattened calves. They too will turn back; together they will flee, they will not stand their ground, for the day of calamity is coming upon them—the time of their punishment.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H7916\|שְׂכִרֶ֤י]][[H9024\|הָ]] [[H9003\|בְ]][[H7130G\|קִרְבָּ]][[H9024\|הּ֙]] [[H9004\|כְּ]][[H5695\|עֶגְלֵ֣י]] [[H4770\|מַרְבֵּ֔ק]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֧מָּה]] [[H6437G\|הִפְנ֛וּ]] [[H5127\|נָ֥סוּ]] [[H3162B\|יַחְדָּ֖יו]] [[H3808\|לֹ֣א]] [[H5975G\|עָמָ֑דוּ]] [[H3588A\|כִּ֣י]] [[H3117G\|י֥וֹם]] [[H0343\|אֵידָ֛]][[H9028\|ם]] [[H0935G\|בָּ֥א]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H6256\|עֵ֥ת]] [[H6486\|פְּקֻדָּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
 

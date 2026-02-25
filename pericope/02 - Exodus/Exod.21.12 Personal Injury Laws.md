@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Personal Injury Laws
+type: Pericope
 pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 21
 book/chapter: "[[Exod.21|Exodus 21]]"
-genre:
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 25
 verses:
 - "[[Exod.21.12]]"
 - "[[Exod.21.13]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Exod.21.36]]"
 ---
 
-[[Exod.21|Exodus 21:12 - Exodus 21:36]]
+<small>[[Exod.21|Exodus 21:12-36]]</small>
 *Personal Injury Laws*
 
 [[Exod.21.12|12]] He that smiteth a man, so that he die, shall be surely put to death.

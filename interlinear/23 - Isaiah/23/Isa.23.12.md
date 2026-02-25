@@ -1,8 +1,66 @@
+---
+title: Isaiah 23:12
+type: Verse
+kjv: "And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zidon: arise, pass over to Chittim; there also shalt thou have no rest."
+bsb: "He said, “You shall rejoice no more, O oppressed Virgin Daughter of Sidon. Get up and cross over to Cyprus—even there you will find no rest.”"
+hebrew: "וַיֹּ֕אמֶר לֹֽא־ תוֹסִ֥יפִי ע֖וֹד לַעְל֑וֹז הַֽמְעֻשָּׁקָ֞ה בְּתוּלַ֣ת בַּת־ צִיד֗וֹן כִּתִּים֙ ק֣וּמִי עֲבֹ֔רִי גַּם־ שָׁ֖ם לֹא־ יָנ֥וּחַֽ לָֽךְ׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHITTIM|CHITTIM]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5937]]"
+- "[[H9009]]"
+- "[[H6231]]"
+- "[[H1330]]"
+- "[[H1323G]]"
+- "[[H6721H]]"
+- "[[H3794H]]"
+- "[[H6965B]]"
+- "[[H5674A]]"
+- "[[H1571]]"
+- "[[H8033G]]"
+- "[[H5117]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Isaiah 23:12**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zidon: arise, pass over to Chittim; there also shalt thou have no rest.
 <small><sub>**BSB:**</sub></small>
 He said, “You shall rejoice no more, O oppressed Virgin Daughter of Sidon. Get up and cross over to Cyprus—even there you will find no rest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|תוֹסִ֥יפִי]] [[H5750\|ע֖וֹד]] [[H9005\|לַ]][[H5937\|עְל֑וֹז]] [[H9009\|הַֽ]][[H6231\|מְעֻשָּׁקָ֞ה]] [[H1330\|בְּתוּלַ֣ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H6721H\|צִיד֗וֹן]] [[H3794H\|כִּתִּים֙]] [[H6965B\|ק֣וּמִי]] [[H5674A\|עֲבֹ֔רִי]] [[H1571\|גַּם]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5117\|יָנ֥וּחַֽ]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHITTIM|CHITTIM]] • [[topic SIDON|SIDON]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.11|<< Isaiah 23:11]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.13|Isaiah 23:13 >>]]</td></tr></table>
 

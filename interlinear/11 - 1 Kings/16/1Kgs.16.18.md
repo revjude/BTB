@@ -1,8 +1,69 @@
+---
+title: 1 Kings 16:18
+type: Verse
+kjv: "And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died,"
+bsb: "When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died"
+hebrew: "וַיְהִ֞י כִּרְא֤וֹת זִמְרִי֙ כִּֽי־ נִלְכְּדָ֣ה הָעִ֔יר וַיָּבֹ֖א אֶל־ אַרְמ֣וֹן בֵּית־ הַמֶּ֑לֶךְ וַיִּשְׂרֹ֨ף עָלָ֧יו אֶת־ בֵּֽית־ מֶ֛לֶךְ בָּאֵ֖שׁ וַיָּמֹֽת׃"
+pericope: "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARSON|ARSON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OMRI|OMRI]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H2174A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3920]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0759G]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H8313]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:18**<big><big>[[1Kgs.16.15 Zimri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died,
 <small><sub>**BSB:**</sub></small>
 When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כִּ]][[H7200G\|רְא֤וֹת]] [[H2174A\|זִמְרִי֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3920\|נִלְכְּדָ֣ה]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H0759G\|אַרְמ֣וֹן]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֨ף]] [[H5921A\|עָלָ֧י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H4428G\|מֶ֛לֶךְ]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARSON|ARSON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OMRI|OMRI]] • [[topic SUICIDE|SUICIDE]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.17|<< 1 Kings 16:17]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.19|1 Kings 16:19 >>]]</td></tr></table>
 

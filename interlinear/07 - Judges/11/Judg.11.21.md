@@ -1,8 +1,66 @@
+---
+title: Judges 11:21
+type: Verse
+kjv: "And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country."
+bsb: "Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, who defeated them. So Israel took possession of all the land of the Amorites who inhabited that country,"
+hebrew: "וַ֠יִּתֵּן יְהוָ֨ה אֱלֹהֵֽי־ יִשְׂרָאֵ֜ל אֶת־ סִיח֧וֹן וְאֶת־ כָּל־ עַמּ֛וֹ בְּיַ֥ד יִשְׂרָאֵ֖ל וַיַּכּ֑וּם וַיִּירַשׁ֙ יִשְׂרָאֵ֔ל אֵ֚ת כָּל־ אֶ֣רֶץ הָאֱמֹרִ֔י יוֹשֵׁ֖ב הָאָ֥רֶץ הַהִֽיא׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H5511]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971K]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H3427]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:21**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.
 <small><sub>**BSB:**</sub></small>
 Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, who defeated them. So Israel took possession of all the land of the Amorites who inhabited that country,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H5414G\|יִּתֵּן]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5511\|סִיח֧וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971K\|עַמּ֛]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וַ]][[H5221\|יַּכּ֑וּ]][[H9038\|ם]] [[H9001\|וַ]][[H3423H\|יִּירַשׁ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H3427\|יוֹשֵׁ֖ב]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.20|<< Judges 11:20]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.22|Judges 11:22 >>]]</td></tr></table>
 

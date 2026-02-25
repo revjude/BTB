@@ -1,8 +1,61 @@
+---
+title: Psalm 20:5
+type: Verse
+kjv: "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions."
+bsb: "May we shout for joy at your victory and raise a banner in the name of our God. May the LORD grant all your petitions."
+hebrew: "נְרַנְּנָ֤ה׀ בִּ֘ישׁ֤וּעָתֶ֗ךָ וּבְשֵֽׁם־ אֱלֹהֵ֥ינוּ נִדְגֹּ֑ל יְמַלֵּ֥א יְ֝הוָ֗ה כָּל־ מִשְׁאֲלוֹתֶֽיךָ׃"
+pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 20
+book/chapter: "[[Ps.20|Psalm 20]]"
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic STANDARD|STANDARD]]"
+strongs:
+- "[[H7442B]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3444]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1713B]]"
+- "[[H4390]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H4862]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 20:5**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will rejoice in thy salvation, and in the name of our God we will set up [our] banners: the LORD fulfil all thy petitions.
 <small><sub>**BSB:**</sub></small>
 May we shout for joy at your victory and raise a banner in the name of our God. May the LORD grant all your petitions.
+<small><sub>**Hebrew:**</sub></small>
+[[H7442B\|נְרַנְּנָ֤ה]][[H9015\|׀]] [[H9003\|בִּ֘]][[H3444\|ישׁ֤וּעָתֶ֗]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H8034\|שֵֽׁם]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֥י]][[H9025\|נוּ]] [[H1713B\|נִדְגֹּ֑ל]] [[H4390\|יְמַלֵּ֥א]] [[H3068G\|יְ֝הוָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H4862\|מִשְׁאֲלוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic STANDARD|STANDARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.4|<< Psalms 20:4]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.6|Psalms 20:6 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Daniel 4:3
+type: Verse
+kjv: "How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation."
+bsb: "How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation."
+aramaic: "אָת֙וֹהִי֙ כְּמָ֣ה רַבְרְבִ֔ין וְתִמְה֖וֹהִי כְּמָ֣ה תַקִּיפִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְשָׁלְטָנֵ֖הּ עִם־ דָּ֥ר וְדָֽר׃"
+pericope: "[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|Nebuchadnezzar Confesses God’s Kingdom]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H0852]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H4101]]"
+- "[[H7260]]"
+- "[[H9002]]"
+- "[[H8540]]"
+- "[[H8624]]"
+- "[[H4437]]"
+- "[[H5957]]"
+- "[[H7985]]"
+- "[[H5974]]"
+- "[[H9014]]"
+- "[[H1859]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:3**<big><big>[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How great [are] his signs! and how mighty [are] his wonders! his kingdom [is] an everlasting kingdom, and his dominion [is] from generation to generation.
 <small><sub>**BSB:**</sub></small>
 How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation.
+<small><sub>**Aramaic:**</sub></small>
+[[H0852\|אָת֙וֹ]][[H9023\|הִי֙]] [[H9004\|כְּ]][[H4101\|מָ֣ה]] [[H7260\|רַבְרְבִ֔ין]] [[H9002\|וְ]][[H8540\|תִמְה֖וֹ]][[H9023\|הִי]] [[H9004\|כְּ]][[H4101\|מָ֣ה]] [[H8624\|תַקִּיפִ֑ין]] [[H4437\|מַלְכוּתֵ]][[H9023\|הּ֙]] [[H4437\|מַלְכ֣וּת]] [[H5957\|עָלַ֔ם]] [[H9002\|וְ]][[H7985\|שָׁלְטָנֵ֖]][[H9023\|הּ]] [[H5974\|עִם]][[H9014\|־]] [[H1859\|דָּ֥ר]] [[H9002\|וְ]][[H1859\|דָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic MIRACLES|MIRACLES]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.2|<< Daniel 4:2]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.4|Daniel 4:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,60 @@
+---
+title: Revelation 18:1
+type: Verse
+kjv: "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory."
+bsb: "After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory."
+greek: "Καὶ μετὰ ταῦτα εἶδον ἄλλον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, ἔχοντα ἐξουσίαν μεγάλην, καὶ ἡ γῆ ἐφωτίσθη ἐκ τῆς δόξης αὐτοῦ."
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G0032G]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2192]]"
+- "[[G1849]]"
+- "[[G3173]]"
+- "[[G1093G]]"
+- "[[G5461]]"
+- "[[G1391]]"
+- "[[G0846]]"
+texts:
+- k
+- NKO
+---
+
 **Revelation 18:1**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 <small><sub>**BSB:**</sub></small>
 After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory.
-<small><sub>**Literal:**</sub></small>
-and After these things I saw another angel descending out of <the> heaven, having authority great, and the earth was illuminated from the glory of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.18|<< Revelation 17:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.2|Revelation 18:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G1492H\|εἶδον]]  [[G0243\|ἄλλον]]  [[G0032G\|ἄγγελον]]  [[G2597\|καταβαίνοντα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G2192\|ἔχοντα]]  [[G1849\|ἐξουσίαν]]  [[G3173\|μεγάλην,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G5461\|ἐφωτίσθη]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FELLOWSHIP|FELLOWSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.18|<< Revelation 17:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.2|Revelation 18:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem’s New Settlers
+type: Pericope
 pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 11
 book/chapter: "[[Neh.11|Nehemiah 11]]"
-genre:
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 19
 verses:
 - "[[Neh.11.1]]"
 - "[[Neh.11.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Neh.11.19]]"
 ---
 
-[[Neh.11|Nehemiah 11:1 - Nehemiah 11:19]]
+<small>[[Neh.11|Nehemiah 11:1-19]]</small>
 *Jerusalem’s New Settlers*
 
 [[Neh.11.1|1]] And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts \[to dwell\] in \[other\] cities.

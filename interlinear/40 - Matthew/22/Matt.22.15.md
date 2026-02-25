@@ -1,10 +1,55 @@
+---
+title: Matthew 22:15
+type: Verse
+kjv: "Then went the Pharisees, and took counsel how they might entangle him in his talk."
+bsb: "Then the Pharisees went out and conspired to trap Jesus in His words."
+greek: "Τότε πορευθέντες οἱ Φαρισαῖοι συμβούλιον ἔλαβον ὅπως αὐτὸν παγιδεύσωσιν ἐν λόγῳ."
+pericope: "[[Matt.22.15 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G5119]]"
+- "[[G4198]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G4824]]"
+- "[[G2983]]"
+- "[[G3704]]"
+- "[[G0846]]"
+- "[[G3802]]"
+- "[[G1722]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **Matthew 22:15**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then went the Pharisees, and took counsel how they might entangle him in [his] talk.
 <small><sub>**BSB:**</sub></small>
 Then the Pharisees went out and conspired to trap Jesus in His words.
-<small><sub>**Literal:**</sub></small>
-Then having gone out the Pharisees counsel took how Him they may trap in His words.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.14|<< Matthew 22:14]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.16|Matthew 22:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4198\|πορευθέντες]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G4824\|συμβούλιον]]  [[G2983\|ἔλαβον]]  [[G3704\|ὅπως]]  [[G0846\|αὐτὸν]]  [[G3802\|παγιδεύσωσιν]]  [[G1722\|ἐν]]  [[G3056\|λόγῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PHARISEES|PHARISEES]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.14|<< Matthew 22:14]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.16|Matthew 22:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

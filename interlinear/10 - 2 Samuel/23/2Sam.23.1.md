@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 23:1
+type: Verse
+kjv: "Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,"
+bsb: "These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:"
+hebrew: "וְאֵ֛לֶּה דִּבְרֵ֥י דָוִ֖ד הָאַֽחֲרֹנִ֑ים נְאֻ֧ם דָּוִ֣ד בֶּן־ יִשַׁ֗י וּנְאֻ֤ם הַגֶּ֙בֶר֙ הֻ֣קַם עָ֔ל מְשִׁ֙יחַ֙ אֱלֹהֵ֣י יַֽעֲקֹ֔ב וּנְעִ֖ים זְמִר֥וֹת יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.23.1 David’s Last Song|David’s Last Song]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1697G]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H0314]]"
+- "[[H5002]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3448]]"
+- "[[H1397]]"
+- "[[H6965H]]"
+- "[[H5920H]]"
+- "[[H4899]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H5273B]]"
+- "[[H2158]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 23:1**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [be] the last words of David. David the son of Jesse said, and the man [who was] raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 <small><sub>**BSB:**</sub></small>
 These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H1697G\|דִּבְרֵ֥י]] [[H1732\|דָוִ֖ד]] [[H9009\|הָ]][[H0314\|אַֽחֲרֹנִ֑ים]] [[H5002\|נְאֻ֧ם]] [[H1732\|דָּוִ֣ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3448\|יִשַׁ֗י]] [[H9002\|וּ]][[H5002\|נְאֻ֤ם]] [[H9009\|הַ]][[H1397\|גֶּ֙בֶר֙]] [[H6965H\|הֻ֣קַם]] [[H5920H\|עָ֔ל]] [[H4899\|מְשִׁ֙יחַ֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9002\|וּ]][[H5273B\|נְעִ֖ים]] [[H2158\|זְמִר֥וֹת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.51|<< 2 Samuel 22:51]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.2|2 Samuel 23:2 >>]]</td></tr></table>
 

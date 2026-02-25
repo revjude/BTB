@@ -1,8 +1,73 @@
+---
+title: Jeremiah 23:15
+type: Verse
+kjv: "Therefore thus saith the LORD of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land."
+bsb: "Therefore this is what the LORD of Hosts says concerning the prophets: “I will feed them wormwood and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has spread throughout the land.”"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֨ר יְהוָ֤ה צְבָאוֹת֙ עַל־ הַנְּבִאִ֔ים הִנְנִ֨י מַאֲכִ֤יל אוֹתָם֙ לַֽעֲנָ֔ה וְהִשְׁקִתִ֖ים מֵי־ רֹ֑אשׁ כִּ֗י מֵאֵת֙ נְבִיאֵ֣י יְרוּשָׁלִַ֔ם יָצְאָ֥ה חֲנֻפָּ֖ה לְכָל־ הָאָֽרֶץ׃ פ"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORMWOOD|WORMWOOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3939]]"
+- "[[H9001]]"
+- "[[H8248H]]"
+- "[[H4325G]]"
+- "[[H7219]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3389]]"
+- "[[H3318G]]"
+- "[[H2613]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 23:15**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD of Hosts says concerning the prophets: “I will feed them wormwood and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has spread throughout the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִאִ֔ים]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0398\|מַאֲכִ֤יל]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H3939\|לַֽעֲנָ֔ה]] [[H9001\|וְ]][[H8248H\|הִשְׁקִתִ֖י]][[H9038\|ם]] [[H4325G\|מֵי]][[H9014\|־]] [[H7219\|רֹ֑אשׁ]] [[H3588A\|כִּ֗י]] [[H9006\|מֵ]][[H0854\|אֵת֙]] [[H5030\|נְבִיאֵ֣י]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H3318G\|יָצְאָ֥ה]] [[H2613\|חֲנֻפָּ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORMWOOD|WORMWOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.14|<< Jeremiah 23:14]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.16|Jeremiah 23:16 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ Therefore this is what the LORD of Hosts says concerning the prophets: “I will
 | it has gone out  |**<big>&#8207;[[H3318G\|יָצְאָ֥ה]]&#8207; </big>**| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked behavior  |**<big>&#8207;[[H2613\|חֲנֻפָּ֖ה]]&#8207; </big>**| cha.nu.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.14|<< Jeremiah 23:14]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.16|Jeremiah 23:16 >>]]</td></tr></table>
 
 

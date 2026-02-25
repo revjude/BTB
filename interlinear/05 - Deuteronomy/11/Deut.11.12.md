@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 11:12
+type: Verse
+kjv: "A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year."
+bsb: "It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year."
+hebrew: "אֶ֕רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ דֹּרֵ֣שׁ אֹתָ֑הּ תָּמִ֗יד עֵינֵ֨י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ בָּ֔הּ מֵֽרֵשִׁית֙ הַשָּׁנָ֔ה וְעַ֖ד אַחֲרִ֥ית שָׁנָֽה׃ ס"
+pericope: "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H8548]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H9006]]"
+- "[[H7225G]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0319]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:12**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land which the LORD thy God careth for: the eyes of the LORD thy God [are] always upon it, from the beginning of the year even unto the end of the year.
 <small><sub>**BSB:**</sub></small>
 It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year.
+<small><sub>**Hebrew:**</sub></small>
+[[H0776G\|אֶ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H1875\|דֹּרֵ֣שׁ]] [[H0853\|אֹתָ֑]][[H9034\|הּ]] [[H8548\|תָּמִ֗יד]] [[H5869A\|עֵינֵ֨י]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9006\|מֵֽ]][[H7225G\|רֵשִׁית֙]] [[H9009\|הַ]][[H8141\|שָּׁנָ֔ה]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H0319\|אַחֲרִ֥ית]] [[H8141\|שָׁנָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CANAAN|CANAAN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.11|<< Deuteronomy 11:11]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.13|Deuteronomy 11:13 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ It is a land for which the LORD your God cares; the eyes of the LORD your God ar
 | the year  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8141\|שָּׁנָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] end of  |**<big>&#8207;[[H0319\|אַחֲרִ֥ית]]&#8207; </big>**| 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a year  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a year  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.11|<< Deuteronomy 11:11]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.13|Deuteronomy 11:13 >>]]</td></tr></table>
 
 

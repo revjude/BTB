@@ -1,8 +1,63 @@
+---
+title: Leviticus 16:5
+type: Verse
+kjv: "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering."
+bsb: "And he shall take from the congregation of Israel two male goats for a sin offering and one ram for a burnt offering."
+hebrew: "וּמֵאֵ֗ת עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל יִקַּ֛ח שְׁנֵֽי־ שְׂעִירֵ֥י עִזִּ֖ים לְחַטָּ֑את וְאַ֥יִל אֶחָ֖ד לְעֹלָֽה׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H8163B]]"
+- "[[H5795]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H0352A]]"
+- "[[H0259]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:5**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
 <small><sub>**BSB:**</sub></small>
 And he shall take from the congregation of Israel two male goats for a sin offering and one ram for a burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H0854\|אֵ֗ת]] [[H5712\|עֲדַת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3947G\|יִקַּ֛ח]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H8163B\|שְׂעִירֵ֥י]] [[H5795\|עִזִּ֖ים]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H9002\|וְ]][[H0352A\|אַ֥יִל]] [[H0259\|אֶחָ֖ד]] [[H9005\|לְ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.4|<< Leviticus 16:4]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.6|Leviticus 16:6 >>]]</td></tr></table>
 

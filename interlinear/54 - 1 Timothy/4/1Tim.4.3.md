@@ -1,10 +1,67 @@
+---
+title: 1 Timothy 4:3
+type: Verse
+kjv: "Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth."
+bsb: "They will prohibit marriage and require abstinence from certain foods that God has created to be received with thanksgiving by those who believe and know the truth."
+greek: "κωλυόντων γαμεῖν, ἀπέχεσθαι βρωμάτων ἃ ὁ θεὸς ἔκτισεν εἰς μετάλημψιν μετὰ εὐχαριστίας τοῖς πιστοῖς καὶ ἐπεγνωκόσιν τὴν ἀλήθειαν."
+pericope: "[[1Tim.4.1 A Warning against Apostasy|A Warning against Apostasy]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 4
+book/chapter: "[[1Tim.4|1 Timothy 4]]"
+chronological_order: 1129
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic ASCETICISM|ASCETICISM]]"
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G2967]]"
+- "[[G1060]]"
+- "[[G0568]]"
+- "[[G1033]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2936]]"
+- "[[G1519]]"
+- "[[G3336]]"
+- "[[G3326]]"
+- "[[G2169]]"
+- "[[G4103]]"
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G0225]]"
+texts:
+- NKO
+---
+
 **1 Timothy 4:3**<big><big>[[1Tim.4.1 A Warning against Apostasy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forbidding to marry, [and commanding] to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
 <small><sub>**BSB:**</sub></small>
 They will prohibit marriage and require abstinence from certain foods that God has created to be received with thanksgiving by those who believe and know the truth.
-<small><sub>**Literal:**</sub></small>
-forbidding to marry, [commanding] to abstain from foods that <the> God created for reception with thanksgiving by the faithful and by [those] already knowing the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.2|<< 1 Timothy 4:2]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.4|1 Timothy 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2967\|κωλυόντων]]  [[G1060\|γαμεῖν,]]  [[G0568\|ἀπέχεσθαι]]  [[G1033\|βρωμάτων]]  [[G3739\|ἃ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2936\|ἔκτισεν]]  [[G1519\|εἰς]]  [[G3336\|μετάλημψιν]]  [[G3326\|μετὰ]]  [[G2169\|εὐχαριστίας]]  [[G3588\|τοῖς]]  [[G4103\|πιστοῖς]]  [[G2532\|καὶ]]  [[G1921\|ἐπεγνωκόσιν]]  [[G3588\|τὴν]]  [[G0225\|ἀλήθειαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic APOSTASY|APOSTASY]] • [[topic ASCETICISM|ASCETICISM]] • [[topic CELIBACY|CELIBACY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic FOOD|FOOD]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.2|<< 1 Timothy 4:2]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.4|1 Timothy 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

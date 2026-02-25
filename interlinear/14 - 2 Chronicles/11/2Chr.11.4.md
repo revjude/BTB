@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 11:4
+type: Verse
+kjv: "Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam."
+bsb: "that this is what the LORD says: ‘You are not to go up and fight against your brothers. Each of you must return home, for this is My doing.’” So they listened to the words of the LORD and turned back from going against Jeroboam."
+hebrew: "כֹּ֣ה אָמַ֣ר יְהוָ֡ה לֹא־ תַעֲלוּ֩ וְלֹא־ תִלָּ֨חֲמ֜וּ עִם־ אֲחֵיכֶ֗ם שׁ֚וּבוּ אִ֣ישׁ לְבֵית֔וֹ כִּ֧י מֵֽאִתִּ֛י נִהְיָ֖ה הַדָּבָ֣ר הַזֶּ֑ה וַֽיִּשְׁמְעוּ֙ אֶת־ דִּבְרֵ֣י יְהוָ֔ה וַיָּשֻׁ֖בוּ מִלֶּ֥כֶת אֶל־ יָרָבְעָֽם׃ פ"
+pericope: "[[2Chr.11.1 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H0251H]]"
+- "[[H9026]]"
+- "[[H7725G]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H7725O]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H3379G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:4**<big><big>[[2Chr.11.1 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam.
 <small><sub>**BSB:**</sub></small>
 that this is what the LORD says: ‘You are not to go up and fight against your brothers. Each of you must return home, for this is My doing.’” So they listened to the words of the LORD and turned back from going against Jeroboam.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֡ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5927G\|תַעֲלוּ֩]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3898A\|תִלָּ֨חֲמ֜וּ]] [[H5973A\|עִם]][[H9014\|־]] [[H0251H\|אֲחֵי]][[H9026\|כֶ֗ם]] [[H7725G\|שׁ֚וּבוּ]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H1004B\|בֵית֔]][[H9023\|וֹ]] [[H3588A\|כִּ֧י]] [[H9006\|מֵֽ]][[H0854\|אִתִּ֛]][[H9030\|י]] [[H1961\|נִהְיָ֖ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַֽ]][[H8085G\|יִּשְׁמְעוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7725O\|יָּשֻׁ֖בוּ]] [[H9006\|מִ]][[H1980G\|לֶּ֥כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H3379G\|יָרָבְעָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.3|<< 2 Chronicles 11:3]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.5|2 Chronicles 11:5 >>]]</td></tr></table>
 
@@ -32,7 +102,7 @@ that this is what the LORD says: ‘You are not to go up and fight against your 
 | and they turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725O\|יָּשֻׁ֖בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from going  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1980G\|לֶּ֥כֶת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.3|<< 2 Chronicles 11:3]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.5|2 Chronicles 11:5 >>]]</td></tr></table>
 
 

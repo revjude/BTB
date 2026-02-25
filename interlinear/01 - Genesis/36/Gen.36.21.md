@@ -1,8 +1,63 @@
+---
+title: Genesis 36:21
+type: Verse
+kjv: "And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom."
+bsb: "Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of Seir in the land of Edom."
+hebrew: "וְדִשׁ֥וֹן וְאֵ֖צֶר וְדִישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י בְּנֵ֥י שֵׂעִ֖יר בְּאֶ֥רֶץ אֱדֽוֹם׃"
+pericope: "[[Gen.36.20 The Descendants of Seir|The Descendants of Seir]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DISHAN|DISHAN]]"
+- "[[topic DISHON|DISHON]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EZER|EZER]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1787G]]"
+- "[[H0687]]"
+- "[[H1789G]]"
+- "[[H0428]]"
+- "[[H0441B]]"
+- "[[H9009]]"
+- "[[H2752]]"
+- "[[H1121A]]"
+- "[[H8165B]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0123H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:21**<big><big>[[Gen.36.20 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the children of Seir in the land of Edom.
 <small><sub>**BSB:**</sub></small>
 Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of Seir in the land of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1787G\|דִשׁ֥וֹן]] [[H9002\|וְ]][[H0687\|אֵ֖צֶר]] [[H9002\|וְ]][[H1789G\|דִישָׁ֑ן]] [[H0428\|אֵ֣לֶּה]] [[H0441B\|אַלּוּפֵ֧י]] [[H9009\|הַ]][[H2752\|חֹרִ֛י]] [[H1121A\|בְּנֵ֥י]] [[H8165B\|שֵׂעִ֖יר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H0123H\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHAN|DISHAN]] • [[topic DISHON|DISHON]] • [[topic DUKE|DUKE]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic EZER|EZER]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.20|<< Genesis 36:20]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.22|Genesis 36:22 >>]]</td></tr></table>
 

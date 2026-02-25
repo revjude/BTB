@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Soldiers Mock Jesus
+type: Pericope
 pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: John
 chapter: 19
 book/chapter: "[[John.19|John 19]]"
-genre:
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 15
 verses:
 - "[[John.19.1]]"
 - "[[John.19.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[John.19.15]]"
 ---
 
-[[John.19|John 19:1 - John 19:15]]
+<small>[[John.19|John 19:1-15]]</small>
 *The Soldiers Mock Jesus*
 
 [[John.19.1|1]] Then Pilate therefore took Jesus, and scourged \[him\].

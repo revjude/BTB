@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses on the Mountain
+type: Pericope
 pericope: "[[Exod.24.12 Moses on the Mountain|Moses on the Mountain]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 24
 book/chapter: "[[Exod.24|Exodus 24]]"
-genre:
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.24.12]]"
 - "[[Exod.24.13]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.24.18]]"
 ---
 
-[[Exod.24|Exodus 24:12 - Exodus 24:18]]
+<small>[[Exod.24|Exodus 24:12-18]]</small>
 *Moses on the Mountain*
 
 [[Exod.24.12|12]] And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.

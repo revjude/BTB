@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balaam’s Third Oracle
+type: Pericope
 pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 24
 book/chapter: "[[Num.24|Numbers 24]]"
-genre:
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 9
 verses:
 - "[[Num.24.1]]"
 - "[[Num.24.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Num.24.9]]"
 ---
 
-[[Num.24|Numbers 24:1 - Numbers 24:9]]
+<small>[[Num.24|Numbers 24:1-9]]</small>
 *Balaam’s Third Oracle*
 
 [[Num.24.1|1]] And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.

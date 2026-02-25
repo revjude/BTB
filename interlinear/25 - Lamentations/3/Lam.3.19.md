@@ -1,8 +1,51 @@
+---
+title: Lamentations 3:19
+type: Verse
+kjv: "Remembering mine affliction and my misery, the wormwood and the gall."
+bsb: "Remember my affliction and wandering, the wormwood and the gall."
+hebrew: "זְכָר־ עָנְיִ֥י וּמְרוּדִ֖י לַעֲנָ֥ה וָרֹֽאשׁ׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic WORMWOOD|WORMWOOD]]"
+strongs:
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H6040]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4788]]"
+- "[[H3939]]"
+- "[[H7219]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:19**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remembering mine affliction and my misery, the wormwood and the gall.
 <small><sub>**BSB:**</sub></small>
 Remember my affliction and wandering, the wormwood and the gall.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכָר]][[H9014\|־]] [[H6040\|עָנְיִ֥]][[H9020\|י]] [[H9002\|וּ]][[H4788\|מְרוּדִ֖]][[H9020\|י]] [[H3939\|לַעֲנָ֥ה]] [[H9002\|וָ]][[H7219\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic WORMWOOD|WORMWOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.18|<< Lamentations 3:18]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.20|Lamentations 3:20 >>]]</td></tr></table>
 

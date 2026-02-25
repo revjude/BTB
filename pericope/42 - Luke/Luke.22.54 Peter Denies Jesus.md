@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Denies Jesus
+type: Pericope
 pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.22.54]]"
 - "[[Luke.22.55]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.22.62]]"
 ---
 
-[[Luke.22|Luke 22:54 - Luke 22:62]]
+<small>[[Luke.22|Luke 22:54-62]]</small>
 *Peter Denies Jesus*
 
 [[Luke.22.54|54]] Then took they him, and led \[him\], and brought him into the high priest’s house. And Peter followed afar off.

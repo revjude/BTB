@@ -1,8 +1,62 @@
+---
+title: Isaiah 49:20
+type: Verse
+kjv: "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell."
+bsb: "Yet the children of your bereavement will say in your hearing, ‘This place is too small for us; make room for us to live here.’"
+hebrew: "ע֚וֹד יֹאמְר֣וּ בְאָזְנַ֔יִךְ בְּנֵ֖י שִׁכֻּלָ֑יִךְ צַר־ לִ֥י הַמָּק֖וֹם גְּשָׁה־ לִּ֥י וְאֵשֵֽׁבָה׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H5750]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9022]]"
+- "[[H1121A]]"
+- "[[H7923]]"
+- "[[H6862A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H5066G]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:20**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place [is] too strait for me: give place to me that I may dwell.
 <small><sub>**BSB:**</sub></small>
 Yet the children of your bereavement will say in your hearing, ‘This place is too small for us; make room for us to live here.’
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֚וֹד]] [[H0559\|יֹאמְר֣וּ]] [[H9003\|בְ]][[H0241G\|אָזְנַ֔יִ]][[H9022\|ךְ]] [[H1121A\|בְּנֵ֖י]] [[H7923\|שִׁכֻּלָ֑יִ]][[H9022\|ךְ]] [[H6862A\|צַר]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H5066G\|גְּשָׁ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H9002\|וְ]][[H3427\|אֵשֵֽׁבָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.19|<< Isaiah 49:19]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.21|Isaiah 49:21 >>]]</td></tr></table>
 

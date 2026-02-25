@@ -1,8 +1,63 @@
+---
+title: Ecclesiastes 8:10
+type: Verse
+kjv: "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity."
+bsb: "Then too, I saw the burial of the wicked who used to go in and out of the holy place, and they were praised in the city where they had done so. This too is futile."
+hebrew: "וּבְכֵ֡ן רָאִיתִי֩ רְשָׁעִ֨ים קְבֻרִ֜ים וָבָ֗אוּ וּמִמְּק֤וֹם קָדוֹשׁ֙ יְהַלֵּ֔כוּ וְיִֽשְׁתַּכְּח֥וּ בָעִ֖יר אֲשֶׁ֣ר כֵּן־ עָשׂ֑וּ גַּם־ זֶ֖ה הָֽבֶל׃"
+pericope: "[[Eccl.8.10 Fear God|Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3651C]]"
+- "[[H7200G]]"
+- "[[H7563]]"
+- "[[H6912]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H6918G]]"
+- "[[H1980G]]"
+- "[[H7911]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H3651A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H1571]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:10**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this [is] also vanity.
 <small><sub>**BSB:**</sub></small>
 Then too, I saw the burial of the wicked who used to go in and out of the holy place, and they were praised in the city where they had done so. This too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3651C\|כֵ֡ן]] [[H7200G\|רָאִיתִי֩]] [[H7563\|רְשָׁעִ֨ים]] [[H6912\|קְבֻרִ֜ים]] [[H9001\|וָ]][[H0935G\|בָ֗אוּ]] [[H9002\|וּ]][[H9006\|מִ]][[H4725\|מְּק֤וֹם]] [[H6918G\|קָדוֹשׁ֙]] [[H1980G\|יְהַלֵּ֔כוּ]] [[H9002\|וְ]][[H7911\|יִֽשְׁתַּכְּח֥וּ]] [[H9003\|בָ]][[H5892B\|עִ֖יר]] [[H0834A\|אֲשֶׁ֣ר]] [[H3651A\|כֵּן]][[H9014\|־]] [[H6213A\|עָשׂ֑וּ]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.9|<< Ecclesiastes 8:9]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.11|Ecclesiastes 8:11 >>]]</td></tr></table>
 

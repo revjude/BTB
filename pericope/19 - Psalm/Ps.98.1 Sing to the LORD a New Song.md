@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sing to the LORD a New Song
+type: Pericope
 pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 98
 book/chapter: "[[Ps.98|Psalm 98]]"
-genre:
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.98.0]]"
 - "[[Ps.98.1]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.98.9]]"
 ---
 
-[[Ps.98|Psalm 98:1 - Psalm 98:9]]
+<small>[[Ps.98|Psalm 98:1-9]]</small>
 *Sing to the LORD a New Song*
 
 [[Ps.98.0|0]] A Psalm.

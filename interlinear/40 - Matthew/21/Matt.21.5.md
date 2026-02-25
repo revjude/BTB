@@ -1,10 +1,62 @@
+---
+title: Matthew 21:5
+type: Verse
+kjv: "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
+bsb: "“Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”"
+greek: "εἴπατε τῇ θυγατρὶ Σιών· ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι, πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου.¶"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic COLT|COLT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G4622]]"
+- "[[G2400]]"
+- "[[G0935]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G4235]]"
+- "[[G2532]]"
+- "[[G1910]]"
+- "[[G1909]]"
+- "[[G3688]]"
+- "[[G4454]]"
+- "[[G5207]]"
+- "[[G5268]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 21:5**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.
 <small><sub>**BSB:**</sub></small>
 “Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”
-<small><sub>**Literal:**</sub></small>
-do say to the daughter of Zion; Behold the King of you comes to you, gentle and already riding on a donkey even upon a colt [the] foal of a beast of burden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.4|<< Matthew 21:4]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.6|Matthew 21:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἴπατε]]  [[G3588\|τῇ]]  [[G2364\|θυγατρὶ]]  [[G4622\|Σιών·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεύς]]  [[G4771\|σου]]  [[G2064\|ἔρχεταί]]  [[G4771\|σοι,]]  [[G4235\|πραῢς]]  [[G2532\|καὶ]]  [[G1910\|ἐπιβεβηκὼς]]  [[G1909\|ἐπὶ]]  [[G3688\|ὄνον]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G4454\|πῶλον]]  [[G5207\|υἱὸν]]  [[G5268\|ὑποζυγίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic COLT|COLT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.4|<< Matthew 21:4]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.6|Matthew 21:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 21:5** is...
 > $\quad$ referencing: [[LXX.Isa.62.11|Isa 62:11]] ☩ [[LXX.Zech.9.9|Zech 9:9]]

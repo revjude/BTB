@@ -1,8 +1,74 @@
+---
+title: Leviticus 23:30
+type: Verse
+kjv: "And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people."
+bsb: "I will destroy from among his people anyone who does any work on this day."
+hebrew: "וְכָל־ הַנֶּ֗פֶשׁ אֲשֶׁ֤ר תַּעֲשֶׂה֙ כָּל־ מְלָאכָ֔ה בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה וְהַֽאֲבַדְתִּ֛י אֶת־ הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמָּֽהּ׃"
+pericope: "[[Lev.23.26 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REST|REST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5315I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:30**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever soul [it be] that doeth any work in that same day, the same soul will I destroy from among his people.
 <small><sub>**BSB:**</sub></small>
 I will destroy from among his people anyone who does any work on this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H5315I\|נֶּ֗פֶשׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|תַּעֲשֶׂה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָ֔ה]] [[H9003\|בְּ]][[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וְ]][[H0006\|הַֽאֲבַדְתִּ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971A\|עַמָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic ETHANIM|ETHANIM]] • [[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REST|REST]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.29|<< Leviticus 23:29]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.31|Leviticus 23:31 >>]]</td></tr></table>
 

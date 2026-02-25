@@ -1,8 +1,58 @@
+---
+title: Psalm 89:49
+type: Verse
+kjv: "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?"
+bsb: "Where, O Lord, is Your loving devotion of old, which You faithfully swore to David?"
+hebrew: "אַיֵּ֤ה׀ חֲסָדֶ֖יךָ הָרִאשֹׁנִ֥ים׀ אֲדֹנָ֑י נִשְׁבַּ֥עְתָּ לְ֝דָוִ֗ד בֶּאֱמוּנָתֶֽךָ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H0346]]"
+- "[[H9015]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H0136]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:49**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lord, where [are] thy former lovingkindnesses, [which] thou swarest unto David in thy truth?
 <small><sub>**BSB:**</sub></small>
 Where, O Lord, is Your loving devotion of old, which You faithfully swore to David?
+<small><sub>**Hebrew:**</sub></small>
+[[H0346\|אַיֵּ֤ה]][[H9015\|׀]] [[H2617A\|חֲסָדֶ֖י]][[H9021\|ךָ]] [[H9009\|הָ]][[H7223H\|רִאשֹׁנִ֥ים]][[H9015\|׀]] [[H0136\|אֲדֹנָ֑י]] [[H7650\|נִשְׁבַּ֥עְתָּ]] [[H9005\|לְ֝]][[H1732\|דָוִ֗ד]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.48|<< Psalms 89:48]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.50|Psalms 89:50 >>]]</td></tr></table>
 

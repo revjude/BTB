@@ -3,7 +3,7 @@
 
 1. King of Moab
 
-- Assassinated by Ehud [[Judg.3.12|Jud 3:12]]-[[Judg.3.30|30]]
+- Assassinated by Ehud [[Judg.3.12|Jud 3:12-30]]
 
 2. An ancient city of Canaan
 

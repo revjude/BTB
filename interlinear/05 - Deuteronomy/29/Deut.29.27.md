@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 29:27
+type: Verse
+kjv: "And the anger of the LORD was kindled against this land, to bring upon it all the curses that are written in this book:"
+bsb: "Therefore the anger of the LORD burned against this land, and He brought upon it every curse written in this book."
+hebrew: "וַיִּֽחַר־ אַ֥ף יְהוָ֖ה בָּאָ֣רֶץ הַהִ֑וא לְהָבִ֤יא עָלֶ֙יהָ֙ אֶת־ כָּל־ הַקְּלָלָ֔ה הַכְּתוּבָ֖ה בַּסֵּ֥פֶר הַזֶּֽה׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H7045]]"
+- "[[H3789]]"
+- "[[H5612H]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:27**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against this land, to bring upon it all the curses that are written in this book:
 <small><sub>**BSB:**</sub></small>
 Therefore the anger of the LORD burned against this land, and He brought upon it every curse written in this book.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֥ף]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H1931\|הִ֑וא]] [[H9005\|לְ]][[H0935P\|הָבִ֤יא]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7045\|קְּלָלָ֔ה]] [[H9009\|הַ]][[H3789\|כְּתוּבָ֖ה]] [[H9003\|בַּ]][[H5612H\|סֵּ֥פֶר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.26|<< Deuteronomy 29:26]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.28|Deuteronomy 29:28 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Ezra 4:10
+type: Verse
+kjv: "And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time."
+bsb: "and the rest of the peoples whom the great and honorable Ashurbanipal deported and settled in the cities of Samaria and elsewhere west of the Euphrates."
+aramaic: "וּשְׁאָ֣ר אֻמַּיָּ֗א דִּ֤י הַגְלִי֙ אָסְנַפַּר֙ רַבָּ֣א וְיַקִּירָ֔א וְהוֹתֵ֣ב הִמּ֔וֹ בְּקִרְיָ֖ה דִּ֣י שָׁמְרָ֑יִן וּשְׁאָ֥ר עֲבַֽר־ נַהֲרָ֖ה וּכְעֶֽנֶת׃"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic ASNAPPER|ASNAPPER]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BISHLAM|BISHLAM]]"
+- "[[topic COLONIZATION|COLONIZATION]]"
+- "[[topic CUTH|CUTH]]"
+- "[[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SUSANCHITES|SUSANCHITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H7606]]"
+- "[[H0524]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H1541]]"
+- "[[H0620]]"
+- "[[H7229]]"
+- "[[H3358]]"
+- "[[H3488]]"
+- "[[H1994]]"
+- "[[H9003]]"
+- "[[H7149]]"
+- "[[H8115]]"
+- "[[H5675]]"
+- "[[H9014]]"
+- "[[H5103G]]"
+- "[[H3706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:10**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest [that are] on this side the river, and at such a time.
 <small><sub>**BSB:**</sub></small>
 and the rest of the peoples whom the great and honorable Ashurbanipal deported and settled in the cities of Samaria and elsewhere west of the Euphrates.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H7606\|שְׁאָ֣ר]] [[H0524\|אֻמַּיָּ֗]][[H9010\|א]] [[H1768\|דִּ֤י]] [[H1541\|הַגְלִי֙]] [[H0620\|אָסְנַפַּר֙]] [[H7229\|רַבָּ֣]][[H9010\|א]] [[H9002\|וְ]][[H3358\|יַקִּירָ֔]][[H9010\|א]] [[H9002\|וְ]][[H3488\|הוֹתֵ֣ב]] [[H1994\|הִמּ֔וֹ]] [[H9003\|בְּ]][[H7149\|קִרְיָ֖ה]] [[H1768\|דִּ֣י]] [[H8115\|שָׁמְרָ֑יִן]] [[H9002\|וּ]][[H7606\|שְׁאָ֥ר]] [[H5675\|עֲבַֽר]][[H9014\|־]] [[H5103G\|נַהֲרָ֖]][[H9010\|ה]] [[H9002\|וּ]][[H3706\|כְעֶֽנֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic ASNAPPER|ASNAPPER]] • [[topic BABYLON|BABYLON]] • [[topic BISHLAM|BISHLAM]] • [[topic COLONIZATION|COLONIZATION]] • [[topic CUTH|CUTH]] • [[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]] • [[topic SAMARIA|SAMARIA]] • [[topic SUSANCHITES|SUSANCHITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.9|<< Ezra 4:9]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.11|Ezra 4:11 >>]]</td></tr></table>
 

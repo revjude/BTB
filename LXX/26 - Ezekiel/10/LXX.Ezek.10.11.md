@@ -1,6 +1,73 @@
+---
+title: LXX Ezekiel 10:11
+type: Verse
+lxx: "In  their going they went in their four parts; they did not turn in  their going. For unto which ever place the one head looked behind it they went, and they did not turn in  their going."
+greek: "εν τω πορεύεσθαι αυτά εις τα τέσσαρα μέρη αυτών επορεύοντο ουκ επέστρεφον εν τω πορεύεσθαι αυτά ότι εις ον αν τόπον επέβλεψεν η αρχή η μία οπίσω αυτού επορεύοντο και ουκ επέστρεφον εν τω πορεύεσθαι αυτούς"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G3313]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G3756]]"
+- "[[G1994]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G5117]]"
+- "[[G1914]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1994]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4198]]"
+---
+
 **LXX Ezekiel 10:11** 
 <small><sub>**LXX:**</sub></small>
 In  their going they went in their four parts; they did not turn in  their going. For unto which ever place the one head looked behind it they went, and they did not turn in  their going. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τω]] [[G4198\|πορεύεσθαι]] [[G1473\|αυτά]] [[G1519\|εις]] [[G3588\|τα]] [[G5064\|τέσσαρα]] [[G3313\|μέρη]] [[G1473\|αυτών]] [[G4198\|επορεύοντο]] [[G3756\|ουκ]] [[G1994\|επέστρεφον]] [[G1722\|εν]] [[G3588\|τω]] [[G4198\|πορεύεσθαι]] [[G1473\|αυτά]] [[G3754\|ότι]] [[G1519\|εις]] [[G3739\|ον]] [[G0302\|αν]] [[G5117\|τόπον]] [[G1914\|επέβλεψεν]] [[G3588\|η]] [[G0746\|αρχή]] [[G3588\|η]] [[G1520\|μία]] [[G3694\|οπίσω]] [[G1473\|αυτού]] [[G4198\|επορεύοντο]] [[G2532\|και]] [[G3756\|ουκ]] [[G1994\|επέστρεφον]] [[G1722\|εν]] [[G3588\|τω]] [[G4198\|πορεύεσθαι αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHEEL|WHEEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.10|<< Ezekiel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.12|Ezekiel 10:12 >>]]</td></tr></table>
 
@@ -38,6 +105,6 @@ In  their going they went in their four parts; they did not turn in  their going
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | their going. | **<big>[[G4198\|πορεύεσθαι αυτούς]]</big>** |
-[[Ezek.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.10|<< Ezekiel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.12|Ezekiel 10:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.10|<< Ezekiel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.12|Ezekiel 10:12 >>]]</td></tr></table>
 
 

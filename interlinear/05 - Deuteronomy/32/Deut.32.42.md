@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 32:42
+type: Verse
+kjv: "I will make mine arrows drunk with blood, and my sword shall devour flesh; and that with the blood of the slain and of the captives, from the beginning of revenges upon the enemy."
+bsb: "I will make My arrows drunk with blood, while My sword devours flesh—the blood of the slain and captives, the heads of the enemy leaders.”"
+hebrew: "אַשְׁכִּ֤יר חִצַּי֙ מִדָּ֔ם וְחַרְבִּ֖י תֹּאכַ֣ל בָּשָׂ֑ר מִדַּ֤ם חָלָל֙ וְשִׁבְיָ֔ה מֵרֹ֖אשׁ פַּרְע֥וֹת אוֹיֵֽב׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H7937]]"
+- "[[H2671]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H2491A]]"
+- "[[H7633]]"
+- "[[H7218A]]"
+- "[[H6546]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:42**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make mine arrows drunk with blood, and my sword shall devour flesh; [and that] with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.
 <small><sub>**BSB:**</sub></small>
 I will make My arrows drunk with blood, while My sword devours flesh—the blood of the slain and captives, the heads of the enemy leaders.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7937\|אַשְׁכִּ֤יר]] [[H2671\|חִצַּ]][[H9020\|י֙]] [[H9006\|מִ]][[H1818\|דָּ֔ם]] [[H9002\|וְ]][[H2719\|חַרְבִּ֖]][[H9020\|י]] [[H0398\|תֹּאכַ֣ל]] [[H1320\|בָּשָׂ֑ר]] [[H9006\|מִ]][[H1818\|דַּ֤ם]] [[H2491A\|חָלָל֙]] [[H9002\|וְ]][[H7633\|שִׁבְיָ֔ה]] [[H9006\|מֵ]][[H7218A\|רֹ֖אשׁ]] [[H6546\|פַּרְע֥וֹת]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.41|<< Deuteronomy 32:41]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.43|Deuteronomy 32:43 >>]]</td></tr></table>
 

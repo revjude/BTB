@@ -1,10 +1,65 @@
+---
+title: Hebrews 11:16
+type: Verse
+kjv: "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city."
+bsb: "Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them."
+greek: "νῦν δὲ κρείττονος ὀρέγονται, τοῦτ᾽ ἔστιν ἐπουρανίου· διὸ οὐκ ἐπαισχύνεται αὐτοὺς ὁ θεὸς θεὸς ἐπικαλεῖσθαι αὐτῶν· ἡτοίμασεν γὰρ αὐτοῖς πόλιν.¶"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2908]]"
+- "[[G3713]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2032]]"
+- "[[G1352]]"
+- "[[G3756]]"
+- "[[G1870]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1941]]"
+- "[[G2090]]"
+- "[[G1063]]"
+- "[[G4172]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Hebrews 11:16**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now they desire a better [country], that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.
 <small><sub>**BSB:**</sub></small>
 Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them.
-<small><sub>**Literal:**</sub></small>
-now however to a better [one] they stretch forward to, That is to a heavenly [one]; Therefore not is ashamed of them <the> God God to be called of them; He has prepared indeed for them a city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.15|<< Hebrews 11:15]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.17|Hebrews 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2908\|κρείττονος]]  [[G3713\|ὀρέγονται,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G2032\|ἐπουρανίου·]]  [[G1352\|διὸ]]  [[G3756\|οὐκ]]  [[G1870\|ἐπαισχύνεται]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2316\|θεὸς]]  [[G1941\|ἐπικαλεῖσθαι]]  [[G0846\|αὐτῶν·]]  [[G2090\|ἡτοίμασεν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοῖς]]  [[G4172\|πόλιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.15|<< Hebrews 11:15]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.17|Hebrews 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

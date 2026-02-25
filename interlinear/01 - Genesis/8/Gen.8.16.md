@@ -1,8 +1,58 @@
+---
+title: Genesis 8:16
+type: Verse
+kjv: "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee."
+bsb: "“Come out of the ark, you and your wife, along with your sons and their wives."
+hebrew: "צֵ֖א מִן־ הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־ בָנֶ֖יךָ אִתָּֽךְ׃"
+pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8392]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:16**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.
 <small><sub>**BSB:**</sub></small>
 “Come out of the ark, you and your wife, along with your sons and their wives.
+<small><sub>**Hebrew:**</sub></small>
+[[H3318G\|צֵ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָ֑ה]] [[H0859A\|אַתָּ֕ה]] [[H9002\|וְ]][[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֛]] [[H9002\|וּ]][[H1121A\|בָנֶ֥י]][[H9021\|ךָ]] [[H9002\|וּ]][[H0802H\|נְשֵֽׁי]][[H9014\|־]] [[H1121A\|בָנֶ֖י]][[H9021\|ךָ]] [[H0854\|אִתָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.15|<< Genesis 8:15]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.17|Genesis 8:17 >>]]</td></tr></table>
 

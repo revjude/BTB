@@ -1,10 +1,73 @@
+---
+title: John 18:28
+type: Verse
+kjv: "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+bsb: "Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover."
+greek: "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον· ἦν δὲ πρωΐ. καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον, ἵνα μὴ μιανθῶσιν ἀλλὰ ἵνα φάγωσιν τὸ πάσχα."
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRETORIUM|PRETORIUM]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0071]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G2533G]]"
+- "[[G1519]]"
+- "[[G4232]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G4404]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3392]]"
+- "[[G0235]]"
+- "[[G5315]]"
+- "[[G3957]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 18:28**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.
 <small><sub>**BSB:**</sub></small>
 Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover.
-<small><sub>**Literal:**</sub></small>
-They are leading then <the> Jesus from <the> Caiaphas into the Praetorium; It was now early. and they themselves not entered into the Praetorium so that not they may be defiled but so that may eat the Passover.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.27|<< John 18:27]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.29|John 18:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0071\|Ἄγουσιν]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2533G\|Καϊάφα]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4232\|πραιτώριον·]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G4404\|πρωΐ.]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G3756\|οὐκ]]  [[G1525\|εἰσῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4232\|πραιτώριον,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3392\|μιανθῶσιν]]  [[G0235\|ἀλλὰ]]  [[G2443\|ἵνα]]  [[G5315\|φάγωσιν]]  [[G3588\|τὸ]]  [[G3957\|πάσχα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRETORIUM|PRETORIUM]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.27|<< John 18:27]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.29|John 18:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

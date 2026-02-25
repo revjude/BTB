@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 18:5
+type: Verse
+kjv: "And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom."
+bsb: "Now the king had commanded Joab, Abishai, and Ittai, “Treat the young man Absalom gently for my sake.” And all the people heard the king’s orders to each of the commanders regarding Absalom."
+hebrew: "וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־ י֠וֹאָב וְאֶת־ אֲבִישַׁ֤י וְאֶת־ אִתַּי֙ לֵאמֹ֔ר לְאַט־ לִ֖י לַנַּ֣עַר לְאַבְשָׁל֑וֹם וְכָל־ הָעָ֣ם שָׁמְע֗וּ בְּצַוֹּ֥ת הַמֶּ֛לֶךְ אֶת־ כָּל־ הַשָּׂרִ֖ים עַל־ דְּבַ֥ר אַבְשָׁלֽוֹם׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ITTAI|ITTAI]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H0052]]"
+- "[[H0863G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0328B]]"
+- "[[H9030]]"
+- "[[H5288]]"
+- "[[H0053]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H8269]]"
+- "[[H5921A]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:5**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded Joab and Abishai and Ittai, saying, [Deal] gently for my sake with the young man, [even] with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.
 <small><sub>**BSB:**</sub></small>
 Now the king had commanded Joab, Abishai, and Ittai, “Treat the young man Absalom gently for my sake.” And all the people heard the king’s orders to each of the commanders regarding Absalom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H9009\|הַ]][[H4428G\|מֶּ֡לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3097G\|י֠וֹאָב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0052\|אֲבִישַׁ֤י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0863G\|אִתַּי֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H0328B\|אַט]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לַ]][[H5288\|נַּ֣עַר]] [[H9005\|לְ]][[H0053\|אַבְשָׁל֑וֹם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H8085G\|שָׁמְע֗וּ]] [[H9003\|בְּ]][[H6680\|צַוֹּ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H1697I\|דְּבַ֥ר]] [[H0053\|אַבְשָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ITTAI|ITTAI]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.4|<< 2 Samuel 18:4]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.6|2 Samuel 18:6 >>]]</td></tr></table>
 

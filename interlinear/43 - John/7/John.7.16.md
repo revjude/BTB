@@ -1,10 +1,58 @@
+---
+title: John 7:16
+type: Verse
+kjv: "Jesus answered them, and said, My doctrine is not mine, but his that sent me."
+bsb: "“My teaching is not My own,” Jesus replied. “It comes from Him who sent Me."
+jesus_said: "My doctrine is not mine, but his that sent me."
+greek: "Ἀπεκρίθη οὖν αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν· ἡ ἐμὴ διδαχὴ οὐκ ἔστιν ἐμὴ ἀλλὰ τοῦ πέμψαντός με·"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1322]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G3992]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NO
+---
+
 **John 7:16**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, and said, My doctrine is not mine, but his that sent me.
 <small><sub>**BSB:**</sub></small>
 “My teaching is not My own,” Jesus replied. “It comes from Him who sent Me.
-<small><sub>**Literal:**</sub></small>
-Answered therefore them <the> Jesus and said: <the> My teaching not is of Myself but of the [One who] having sent Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.15|<< John 7:15]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.17|John 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G1322\|διδαχὴ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1473\|ἐμὴ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τοῦ]]  [[G3992\|πέμψαντός]]  [[G3165\|με·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.15|<< John 7:15]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.17|John 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

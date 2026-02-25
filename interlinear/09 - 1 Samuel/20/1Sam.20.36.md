@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 20:36
+type: Verse
+kjv: "And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him."
+bsb: "He said to the boy, “Run and find the arrows I shoot.” And as the boy ran, Jonathan shot an arrow beyond him."
+hebrew: "וַיֹּ֣אמֶר לְנַעֲר֔וֹ רֻ֗ץ מְצָ֥א נָא֙ אֶת־ הַ֣חִצִּ֔ים אֲשֶׁ֥ר אָנֹכִ֖י מוֹרֶ֑ה הַנַּ֣עַר רָ֔ץ וְהֽוּא־ יָרָ֥ה הַחֵ֖צִי לְהַעֲבִרֽוֹ׃"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H7323G]]"
+- "[[H4672]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2671]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H3384A]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2678]]"
+- "[[H5674A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:36**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his lad, Run, find out now the arrows which I shoot. [And] as the lad ran, he shot an arrow beyond him.
 <small><sub>**BSB:**</sub></small>
 He said to the boy, “Run and find the arrows I shoot.” And as the boy ran, Jonathan shot an arrow beyond him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H5288\|נַעֲר֔]][[H9023\|וֹ]] [[H7323G\|רֻ֗ץ]] [[H4672\|מְצָ֥א]] [[H4994\|נָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H2671\|חִצִּ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H3384A\|מוֹרֶ֑ה]] [[H9009\|הַ]][[H5288\|נַּ֣עַר]] [[H7323G\|רָ֔ץ]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H3384A\|יָרָ֥ה]] [[H9009\|הַ]][[H2678\|חֵ֖צִי]] [[H9005\|לְ]][[H5674A\|הַעֲבִרֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic ARROW|ARROW]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.35|<< 1 Samuel 20:35]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.37|1 Samuel 20:37 >>]]</td></tr></table>
 

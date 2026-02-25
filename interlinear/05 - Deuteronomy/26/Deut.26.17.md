@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 26:17
+type: Verse
+kjv: "Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:"
+bsb: "Today you have proclaimed that the LORD is your God and that you will walk in His ways, keep His statutes and commandments and ordinances, and listen to His voice."
+hebrew: "אֶת־ יְהוָ֥ה הֶאֱמַ֖רְתָּ הַיּ֑וֹם לִהְיוֹת֩ לְךָ֨ לֵֽאלֹהִ֜ים וְלָלֶ֣כֶת בִּדְרָכָ֗יו וְלִשְׁמֹ֨ר חֻקָּ֧יו וּמִצְוֹתָ֛יו וּמִשְׁפָּטָ֖יו וְלִשְׁמֹ֥עַ בְּקֹלֽוֹ׃"
+pericope: "[[Deut.26.16 Obey the LORD’s Commands|Obey the LORD’s Commands]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H8104G]]"
+- "[[H2706G]]"
+- "[[H4687]]"
+- "[[H4941G]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:17**<big><big>[[Deut.26.16 Obey the LORD’s Commands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:
 <small><sub>**BSB:**</sub></small>
 Today you have proclaimed that the LORD is your God and that you will walk in His ways, keep His statutes and commandments and ordinances, and listen to His voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0559\|הֶאֱמַ֖רְתָּ]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9005\|לִ]][[H1961\|הְיוֹת֩]] [[H9005\|לְ]][[H9031\|ךָ֨]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֜ים]] [[H9002\|וְ]][[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בִּ]][[H1870G\|דְרָכָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֨ר]] [[H2706G\|חֻקָּ֧י]][[H9023\|ו]] [[H9002\|וּ]][[H4687\|מִצְוֹתָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H8085H\|שְׁמֹ֥עַ]] [[H9003\|בְּ]][[H6963A\|קֹלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.16|<< Deuteronomy 26:16]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.18|Deuteronomy 26:18 >>]]</td></tr></table>
 

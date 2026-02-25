@@ -1,8 +1,62 @@
+---
+title: Jeremiah 16:7
+type: Verse
+kjv: "Neither shall men tear themselves for them in mourning, to comfort them for the dead; neither shall men give them the cup of consolation to drink for their father or for their mother."
+bsb: "No food will be offered to comfort those who mourn the dead; not even a cup of consolation will be given for the loss of a father or mother."
+hebrew: "וְלֹֽא־ יִפְרְס֥וּ לָהֶ֛ם עַל־ אֵ֖בֶל לְנַחֲמ֣וֹ עַל־ מֵ֑ת וְלֹֽא־ יַשְׁק֤וּ אוֹתָם֙ כּ֣וֹס תַּנְחוּמִ֔ים עַל־ אָבִ֖יו וְעַל־ אִמּֽוֹ׃"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6536]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H0060]]"
+- "[[H5162G]]"
+- "[[H9033]]"
+- "[[H4191]]"
+- "[[H8248H]]"
+- "[[H0853]]"
+- "[[H3563A]]"
+- "[[H8575]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:7**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall [men] tear [themselves] for them in mourning, to comfort them for the dead; neither shall [men] give them the cup of consolation to drink for their father or for their mother.
 <small><sub>**BSB:**</sub></small>
 No food will be offered to comfort those who mourn the dead; not even a cup of consolation will be given for the loss of a father or mother.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6536\|יִפְרְס֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0060\|אֵ֖בֶל]] [[H9005\|לְ]][[H5162G\|נַחֲמ֣]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H4191\|מֵ֑ת]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8248H\|יַשְׁק֤וּ]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H3563A\|כּ֣וֹס]] [[H8575\|תַּנְחוּמִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.6|<< Jeremiah 16:6]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.8|Jeremiah 16:8 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Spares Saul
+type: Pericope
 pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 24
 book/chapter: "[[1Sam.24|1 Samuel 24]]"
-genre:
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 15
 verses:
 - "[[1Sam.24.1]]"
 - "[[1Sam.24.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Sam.24.15]]"
 ---
 
-[[1Sam.24|1 Samuel 24:1 - 1 Samuel 24:15]]
+<small>[[1Sam.24|1 Samuel 24:1-15]]</small>
 *David Spares Saul*
 
 [[1Sam.24.1|1]] And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David \[is\] in the wilderness of Engedi.

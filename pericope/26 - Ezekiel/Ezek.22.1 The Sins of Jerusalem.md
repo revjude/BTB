@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sins of Jerusalem
+type: Pericope
 pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 22
 book/chapter: "[[Ezek.22|Ezekiel 22]]"
-genre:
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 16
 verses:
 - "[[Ezek.22.1]]"
 - "[[Ezek.22.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ezek.22.16]]"
 ---
 
-[[Ezek.22|Ezekiel 22:1 - Ezekiel 22:16]]
+<small>[[Ezek.22|Ezekiel 22:1-16]]</small>
 *The Sins of Jerusalem*
 
 [[Ezek.22.1|1]] Moreover the word of the LORD came unto me, saying,

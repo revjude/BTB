@@ -1,10 +1,63 @@
+---
+title: Hebrews 9:22
+type: Verse
+kjv: "And almost all things are by the law purged with blood; and without shedding of blood is no remission."
+bsb: "According to the law, in fact, nearly everything must be purified with blood, and without the shedding of blood there is no forgiveness."
+greek: "καὶ σχεδὸν ἐν αἵματι πάντα καθαρίζεται κατὰ τὸν νόμον καὶ χωρὶς αἱματεκχυσίας οὐ γίνεται ἄφεσις.¶"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4975]]"
+- "[[G1722]]"
+- "[[G0129G]]"
+- "[[G3956]]"
+- "[[G2511]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G5565]]"
+- "[[G0130]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G0859]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:22**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And almost all things are by the law purged with blood; and without shedding of blood is no remission.
 <small><sub>**BSB:**</sub></small>
 According to the law, in fact, nearly everything must be purified with blood, and without the shedding of blood there is no forgiveness.
-<small><sub>**Literal:**</sub></small>
-And almost with blood all things are purified according to the law and apart from blood-shedding not there is forgiveness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.21|<< Hebrews 9:21]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.23|Hebrews 9:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4975\|σχεδὸν]]  [[G1722\|ἐν]]  [[G0129G\|αἵματι]]  [[G3956\|πάντα]]  [[G2511\|καθαρίζεται]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G2532\|καὶ]]  [[G5565\|χωρὶς]]  [[G0130\|αἱματεκχυσίας]]  [[G3756\|οὐ]]  [[G1096\|γίνεται]]  [[G0859\|ἄφεσις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic COLORS|COLORS]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SIN|SIN]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.21|<< Hebrews 9:21]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.23|Hebrews 9:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

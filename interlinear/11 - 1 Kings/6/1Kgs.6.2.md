@@ -1,8 +1,57 @@
+---
+title: 1 Kings 6:2
+type: Verse
+kjv: "And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits."
+bsb: "The house that King Solomon built for the LORD was sixty cubits long, twenty cubits wide, and thirty cubits high."
+hebrew: "וְהַבַּ֗יִת אֲשֶׁ֨ר בָּנָ֜ה הַמֶּ֤לֶךְ שְׁלֹמֹה֙ לַֽיהוָ֔ה שִׁשִּֽׁים־ אַמָּ֥ה אָרְכּ֖וֹ וְעֶשְׂרִ֤ים רָחְבּ֑וֹ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתֽוֹ׃"
+pericope: "[[1Kgs.6.1 Temple Construction Begins|Temple Construction Begins]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H8346]]"
+- "[[H9014]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H7341]]"
+- "[[H7970]]"
+- "[[H6967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:2**<big><big>[[1Kgs.6.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house which king Solomon built for the LORD, the length thereof [was] threescore cubits, and the breadth thereof twenty [cubits], and the height thereof thirty cubits.
 <small><sub>**BSB:**</sub></small>
 The house that King Solomon built for the LORD was sixty cubits long, twenty cubits wide, and thirty cubits high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֗יִת]] [[H0834A\|אֲשֶׁ֨ר]] [[H1129\|בָּנָ֜ה]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H8346\|שִׁשִּֽׁים]][[H9014\|־]] [[H0520A\|אַמָּ֥ה]] [[H0753\|אָרְכּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H7341\|רָחְבּ֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H0520A\|אַמָּ֖ה]] [[H6967\|קוֹמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.1|<< 1 Kings 6:1]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.3|1 Kings 6:3 >>]]</td></tr></table>
 

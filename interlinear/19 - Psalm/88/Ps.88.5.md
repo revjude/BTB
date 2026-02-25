@@ -1,8 +1,63 @@
+---
+title: Psalm 88:5
+type: Verse
+kjv: "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand."
+bsb: "I am forsaken among the dead, like the slain who lie in the grave, whom You remember no more, who are cut off from Your care."
+hebrew: "בַּמֵּתִ֗ים חָ֫פְשִׁ֥י כְּמ֤וֹ חֲלָלִ֨ים׀ שֹׁ֥כְבֵי קֶ֗בֶר אֲשֶׁ֤ר לֹ֣א זְכַרְתָּ֣ם ע֑וֹד וְ֝הֵ֗מָּה מִיָּדְךָ֥ נִגְזָֽרוּ׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9003]]"
+- "[[H4191]]"
+- "[[H2670]]"
+- "[[H3644G]]"
+- "[[H2491A]]"
+- "[[H9015]]"
+- "[[H7901J]]"
+- "[[H6913]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9038]]"
+- "[[H5750]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:5**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.
 <small><sub>**BSB:**</sub></small>
 I am forsaken among the dead, like the slain who lie in the grave, whom You remember no more, who are cut off from Your care.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4191\|מֵּתִ֗ים]] [[H2670\|חָ֫פְשִׁ֥י]] [[H3644G\|כְּמ֤וֹ]] [[H2491A\|חֲלָלִ֨ים]][[H9015\|׀]] [[H7901J\|שֹׁ֥כְבֵי]] [[H6913\|קֶ֗בֶר]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹ֣א]] [[H2142\|זְכַרְתָּ֣]][[H9038\|ם]] [[H5750\|ע֑וֹד]] [[H9002\|וְ֝]][[H1992\|הֵ֗מָּה]] [[H9006\|מִ]][[H3027G\|יָּדְ]][[H9021\|ךָ֥]] [[H1504\|נִגְזָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.4|<< Psalms 88:4]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.6|Psalms 88:6 >>]]</td></tr></table>
 

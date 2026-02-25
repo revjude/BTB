@@ -1,8 +1,74 @@
+---
+title: Leviticus 20:24
+type: Verse
+kjv: "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the LORD your God, which have separated you from other people."
+bsb: "But I have told you that you will inherit their land, since I will give it to you as an inheritance—a land flowing with milk and honey. I am the LORD your God, who has set you apart from the peoples."
+hebrew: "וָאֹמַ֣ר לָכֶ֗ם אַתֶּם֮ תִּֽירְשׁ֣וּ אֶת־ אַדְמָתָם֒ וַאֲנִ֞י אֶתְּנֶ֤נָּה לָכֶם֙ לָרֶ֣שֶׁת אֹתָ֔הּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־ הִבְדַּ֥לְתִּי אֶתְכֶ֖ם מִן־ הָֽעַמִּֽים׃"
+pericope: "[[Lev.20.22 Distinguish between Clean and Unclean|Distinguish between Clean and Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0859D]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H0914]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:24**<big><big>[[Lev.20.22 Distinguish between Clean and Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I [am] the LORD your God, which have separated you from [other] people.
 <small><sub>**BSB:**</sub></small>
 But I have told you that you will inherit their land, since I will give it to you as an inheritance—a land flowing with milk and honey. I am the LORD your God, who has set you apart from the peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H0859D\|אַתֶּם֮]] [[H3423H\|תִּֽירְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0127G\|אַדְמָתָ]][[H9028\|ם֒]] [[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H5414G\|אֶתְּנֶ֤]][[H9034\|נָּה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָ֑שׁ]] [[H0589\|אֲנִי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0914\|הִבְדַּ֥לְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HONEY|HONEY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.23|<< Leviticus 20:23]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.25|Leviticus 20:25 >>]]</td></tr></table>
 

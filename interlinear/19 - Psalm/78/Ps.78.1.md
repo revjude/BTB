@@ -1,8 +1,60 @@
+---
+title: Psalm 78:1
+type: Verse
+kjv: "Give ear, O my people, to my law: incline your ears to the words of my mouth."
+bsb: "A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth."
+hebrew: "הַאֲזִ֣ינָה עַ֭מִּי תּוֹרָתִ֑י הַטּ֥וּ אָ֝זְנְכֶ֗ם לְאִמְרֵי־ פִֽי׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0238]]"
+- "[[H9012]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H8451]]"
+- "[[H5186]]"
+- "[[H0241G]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:1**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
 <small><sub>**BSB:**</sub></small>
 A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0238\|הַאֲזִ֣ינָ]][[H9012\|ה]] [[H5971A\|עַ֭מִּ]][[H9020\|י]] [[H8451\|תּוֹרָתִ֑]][[H9020\|י]] [[H5186\|הַטּ֥וּ]] [[H0241G\|אָ֝זְנְ]][[H9026\|כֶ֗ם]] [[H9005\|לְ]][[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MUSIC|MUSIC]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.0|<< Psalms 78:0]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.2|Psalms 78:2 >>]]</td></tr></table>
 

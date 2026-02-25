@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 32:14
+type: Verse
+kjv: "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape."
+bsb: "with curds from the herd and milk from the flock, with the fat of lambs, with rams from Bashan, and goats, with the choicest grains of wheat. From the juice of the finest grapes you drank the wine."
+hebrew: "חֶמְאַ֨ת בָּקָ֜ר וַחֲלֵ֣ב צֹ֗אן עִם־ חֵ֨לֶב כָּרִ֜ים וְאֵילִ֤ים בְּנֵֽי־ בָשָׁן֙ וְעַתּוּדִ֔ים עִם־ חֵ֖לֶב כִּלְי֣וֹת חִטָּ֑ה וְדַם־ עֵנָ֖ב תִּשְׁתֶּה־ חָֽמֶר׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic KIDNEY|KIDNEY]]"
+- "[[topic MILK|MILK]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H2529A]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H2461]]"
+- "[[H6629G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H3733C]]"
+- "[[H0352A]]"
+- "[[H1121H]]"
+- "[[H1316]]"
+- "[[H6260]]"
+- "[[H3629]]"
+- "[[H2406]]"
+- "[[H1818]]"
+- "[[H6025]]"
+- "[[H8354]]"
+- "[[H2561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:14**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.
 <small><sub>**BSB:**</sub></small>
 with curds from the herd and milk from the flock, with the fat of lambs, with rams from Bashan, and goats, with the choicest grains of wheat. From the juice of the finest grapes you drank the wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H2529A\|חֶמְאַ֨ת]] [[H1241\|בָּקָ֜ר]] [[H9002\|וַ]][[H2461\|חֲלֵ֣ב]] [[H6629G\|צֹ֗אן]] [[H5973A\|עִם]][[H9014\|־]] [[H2459\|חֵ֨לֶב]] [[H3733C\|כָּרִ֜ים]] [[H9002\|וְ]][[H0352A\|אֵילִ֤ים]] [[H1121H\|בְּנֵֽי]][[H9014\|־]] [[H1316\|בָשָׁן֙]] [[H9002\|וְ]][[H6260\|עַתּוּדִ֔ים]] [[H5973A\|עִם]][[H9014\|־]] [[H2459\|חֵ֖לֶב]] [[H3629\|כִּלְי֣וֹת]] [[H2406\|חִטָּ֑ה]] [[H9002\|וְ]][[H1818\|דַם]][[H9014\|־]] [[H6025\|עֵנָ֖ב]] [[H8354\|תִּשְׁתֶּה]][[H9014\|־]] [[H2561\|חָֽמֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic BLESSING|BLESSING]] • [[topic BUTTER|BUTTER]] • [[topic DEATH|DEATH]] • [[topic FOOD|FOOD]] • [[topic GOAT|GOAT]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic KIDNEY|KIDNEY]] • [[topic MILK|MILK]] • [[topic PSALMS|PSALMS]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.13|<< Deuteronomy 32:13]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.15|Deuteronomy 32:15 >>]]</td></tr></table>
 

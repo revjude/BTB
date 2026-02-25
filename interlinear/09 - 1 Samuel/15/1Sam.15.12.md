@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 15:12
+type: Verse
+kjv: "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal."
+bsb: "Early in the morning Samuel got up to confront Saul, but he was told, “Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal.”"
+hebrew: "וַיַּשְׁכֵּ֧ם שְׁמוּאֵ֛ל לִקְרַ֥את שָׁא֖וּל בַּבֹּ֑קֶר וַיֻּגַּ֨ד לִשְׁמוּאֵ֜ל לֵאמֹ֗ר בָּֽא־ שָׁא֤וּל הַכַּרְמֶ֙לָה֙ וְהִנֵּ֨ה מַצִּ֥יב לוֹ֙ יָ֔ד וַיִּסֹּב֙ וַֽיַּעֲבֹ֔ר וַיֵּ֖רֶד הַגִּלְגָּֽל׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RISING|RISING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H8050G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5046]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3760G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5324]]"
+- "[[H9033]]"
+- "[[H3027I]]"
+- "[[H5437G]]"
+- "[[H5674A]]"
+- "[[H3381]]"
+- "[[H1537G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:12**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal.
 <small><sub>**BSB:**</sub></small>
 Early in the morning Samuel got up to confront Saul, but he was told, “Saul has gone to Carmel, and behold, he has set up a monument for himself and has turned and gone down to Gilgal.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֧ם]] [[H8050G\|שְׁמוּאֵ֛ל]] [[H9005\|לִ]][[H7122G\|קְרַ֥את]] [[H7586G\|שָׁא֖וּל]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וַ]][[H5046\|יֻּגַּ֨ד]] [[H9005\|לִ]][[H8050G\|שְׁמוּאֵ֜ל]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0935G\|בָּֽא]][[H9014\|־]] [[H7586G\|שָׁא֤וּל]] [[H9009\|הַ]][[H3760G\|כַּרְמֶ֙לָ]][[H9011\|ה֙]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H5324\|מַצִּ֥יב]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3027I\|יָ֔ד]] [[H9001\|וַ]][[H5437G\|יִּסֹּב֙]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֹ֔ר]] [[H9001\|וַ]][[H3381\|יֵּ֖רֶד]] [[H9009\|הַ]][[H1537G\|גִּלְגָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CARMEL|CARMEL]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RISING|RISING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.11|<< 1 Samuel 15:11]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.13|1 Samuel 15:13 >>]]</td></tr></table>
 

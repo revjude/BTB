@@ -1,8 +1,63 @@
+---
+title: Joel 2:12
+type: Verse
+kjv: "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:"
+bsb: "“Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.”"
+hebrew: "וְגַם־ עַתָּה֙ נְאֻם־ יְהוָ֔ה שֻׁ֥בוּ עָדַ֖י בְּכָל־ לְבַבְכֶ֑ם וּבְצ֥וֹם וּבְבְכִ֖י וּבְמִסְפֵּֽד׃"
+pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H6685]]"
+- "[[H1065]]"
+- "[[H4553]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:12**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore also now, saith the LORD, turn ye [even] to me with all your heart, and with fasting, and with weeping, and with mourning:
 <small><sub>**BSB:**</sub></small>
 “Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H6258\|עַתָּה֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H7725G\|שֻׁ֥בוּ]] [[H5704\|עָדַ֖]][[H9030\|י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֑ם]] [[H9002\|וּ]][[H9003\|בְ]][[H6685\|צ֥וֹם]] [[H9002\|וּ]][[H9003\|בְ]][[H1065\|בְכִ֖י]] [[H9002\|וּ]][[H9003\|בְ]][[H4553\|מִסְפֵּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.11|<< Joel 2:11]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.13|Joel 2:13 >>]]</td></tr></table>
 

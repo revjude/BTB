@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 6:9
+type: Verse
+kjv: "And see, if it goeth up by the way of his own coast to Bethshemesh, then he hath done us this great evil: but if not, then we shall know that it is not his hand that smote us; it was a chance that happened to us."
+bsb: "but keep watching it. If it goes up the road to its homeland, toward Beth-shemesh, it is the LORD who has brought on us this great disaster. But if it does not, then we will know that it was not His hand that punished us and that it happened by chance.”"
+hebrew: "וּרְאִיתֶ֗ם אִם־ דֶּ֨רֶךְ גְּבוּל֤וֹ יַֽעֲלֶה֙ בֵּ֣ית שֶׁ֔מֶשׁ ה֚וּא עָ֣שָׂה לָ֔נוּ אֶת־ הָרָעָ֥ה הַגְּדוֹלָ֖ה הַזֹּ֑את וְאִם־ לֹ֗א וְיָדַ֙עְנוּ֙ כִּ֣י לֹ֤א יָדוֹ֙ נָ֣גְעָה בָּ֔נוּ מִקְרֶ֥ה ה֖וּא הָ֥יָה לָֽנוּ׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic CART|CART]]"
+- "[[topic COW|COW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1870K]]"
+- "[[H1366H]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H1053G]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3027H]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H4745]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:9**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And see, if it goeth up by the way of his own coast to Bethshemesh, [then] he hath done us this great evil: but if not, then we shall know that [it is] not his hand [that] smote us; it [was] a chance [that] happened to us.
 <small><sub>**BSB:**</sub></small>
 but keep watching it. If it goes up the road to its homeland, toward Beth-shemesh, it is the LORD who has brought on us this great disaster. But if it does not, then we will know that it was not His hand that punished us and that it happened by chance.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7200G\|רְאִיתֶ֗ם]] [[H0518A\|אִם]][[H9014\|־]] [[H1870K\|דֶּ֨רֶךְ]] [[H1366H\|גְּבוּל֤]][[H9023\|וֹ]] [[H5927G\|יַֽעֲלֶה֙]] [[H1053G\|בֵּ֣ית]] [[H1053G\|שֶׁ֔מֶשׁ]] [[H1931\|ה֚וּא]] [[H6213A\|עָ֣שָׂה]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֥ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֗א]] [[H9001\|וְ]][[H3045\|יָדַ֙עְנוּ֙]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3027H\|יָד]][[H9023\|וֹ֙]] [[H5060\|נָ֣גְעָה]] [[H9003\|בָּ֔]][[H9035\|נוּ]] [[H4745\|מִקְרֶ֥ה]] [[H1931\|ה֖וּא]] [[H1961\|הָ֥יָה]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic CART|CART]] • [[topic COW|COW]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.8|<< 1 Samuel 6:8]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.10|1 Samuel 6:10 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Jeremiah 33:13
+type: Verse
+kjv: "In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth them, saith the LORD."
+bsb: "In the cities of the hill country, the foothills, and the Negev, in the land of Benjamin and the cities surrounding Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the one who counts them, says the LORD."
+hebrew: "בְּעָרֵ֨י הָהָ֜ר בְּעָרֵ֤י הַשְּׁפֵלָה֙ וּבְעָרֵ֣י הַנֶּ֔גֶב וּבְאֶ֧רֶץ בִּנְיָמִ֛ן וּבִסְבִיבֵ֥י יְרוּשָׁלִַ֖ם וּבְעָרֵ֣י יְהוּדָ֑ה עֹ֣ד תַּעֲבֹ֧רְנָה הַצֹּ֛אן עַל־ יְדֵ֥י מוֹנֶ֖ה אָמַ֥ר יְהוָֽה׃ ס"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H8219]]"
+- "[[H9002]]"
+- "[[H5045G]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H5439G]]"
+- "[[H3389]]"
+- "[[H3063G]]"
+- "[[H5750]]"
+- "[[H5674A]]"
+- "[[H6629G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H4487]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 33:13**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth [them], saith the LORD.
 <small><sub>**BSB:**</sub></small>
 In the cities of the hill country, the foothills, and the Negev, in the land of Benjamin and the cities surrounding Jerusalem, and in the cities of Judah, the flocks will again pass under the hands of the one who counts them, says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5892B\|עָרֵ֨י]] [[H9009\|הָ]][[H2022H\|הָ֜ר]] [[H9003\|בְּ]][[H5892B\|עָרֵ֤י]] [[H9009\|הַ]][[H8219\|שְּׁפֵלָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H5045G\|נֶּ֔גֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H0776G\|אֶ֧רֶץ]] [[H1144G\|בִּנְיָמִ֛ן]] [[H9002\|וּ]][[H9003\|בִ]][[H5439G\|סְבִיבֵ֥י]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H5750\|עֹ֣ד]] [[H5674A\|תַּעֲבֹ֧רְנָה]] [[H9009\|הַ]][[H6629G\|צֹּ֛אן]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵ֥י]] [[H4487\|מוֹנֶ֖ה]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.12|<< Jeremiah 33:12]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.14|Jeremiah 33:14 >>]]</td></tr></table>
 
@@ -27,7 +84,7 @@ In the cities of the hill country, the foothills, and the Negev, in the land of 
 | [the] hands of  |**<big>&#8207;[[H3027G\|יְדֵ֥י]]&#8207; </big>**| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] counts  |**<big>&#8207;[[H4487\|מוֹנֶ֖ה]]&#8207; </big>**| mo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.12|<< Jeremiah 33:12]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.14|Jeremiah 33:14 >>]]</td></tr></table>
 
 

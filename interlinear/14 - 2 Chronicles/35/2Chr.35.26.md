@@ -1,8 +1,48 @@
+---
+title: 2 Chronicles 35:26
+type: Verse
+kjv: "Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD,"
+bsb: "As for the rest of the acts of Josiah and his deeds of loving devotion according to what is written in the Law of the LORD—"
+hebrew: "וְיֶ֛תֶר דִּבְרֵ֥י יֹאשִׁיָּ֖הוּ וַחֲסָדָ֑יו כַּכָּת֖וּב בְּתוֹרַ֥ת יְהוָֽה׃"
+pericope: "[[2Chr.35.25 Laments over Josiah|Laments over Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H2977G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:26**<big><big>[[2Chr.35.25 Laments over Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Josiah, and his goodness, according to [that which was] written in the law of the LORD,
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Josiah and his deeds of loving devotion according to what is written in the Law of the LORD—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֛תֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H2977G\|יֹאשִׁיָּ֖הוּ]] [[H9002\|וַ]][[H2617A\|חֲסָדָ֑י]][[H9023\|ו]] [[H9004\|כַּ]][[H3789\|כָּת֖וּב]] [[H9003\|בְּ]][[H8451\|תוֹרַ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.25|<< 2 Chronicles 35:25]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.27|2 Chronicles 35:27 >>]]</td></tr></table>
 

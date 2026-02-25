@@ -1,8 +1,75 @@
+---
+title: Jeremiah 45:1
+type: Verse
+kjv: "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+bsb: "This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah:"
+hebrew: "הַדָּבָ֗ר אֲשֶׁ֤ר דִּבֶּר֙ יִרְמְיָ֣הוּ הַנָּבִ֔יא אֶל־ בָּר֖וּךְ בֶּֽן־ נֵֽרִיָּ֑ה בְּכָתְבוֹ֩ אֶת־ הַדְּבָרִ֨ים הָאֵ֤לֶּה עַל־ סֵ֙פֶר֙ מִפִּ֣י יִרְמְיָ֔הוּ בַּשָּׁנָה֙ הָֽרְבִעִ֔ית לִיהוֹיָקִ֧ים בֶּן־ יֹאשִׁיָּ֛הוּ מֶ֥לֶךְ יְהוּדָ֖ה לֵאמֹֽר׃ ס"
+pericope: "[[Jer.45.1 Jeremiah’s Message to Baruch|Jeremiah’s Message to Baruch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 45
+book/chapter: "[[Jer.45|Jeremiah 45]]"
+chronological_order: 768
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMANUENSIS|AMANUENSIS]]"
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1263J]]"
+- "[[H1121A]]"
+- "[[H5374]]"
+- "[[H9003]]"
+- "[[H3789]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H0428]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H8141]]"
+- "[[H7243]]"
+- "[[H9005]]"
+- "[[H3079]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 45:1**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
 <small><sub>**BSB:**</sub></small>
 This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֤ר]] [[H1696G\|דִּבֶּר֙]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H0413\|אֶל]][[H9014\|־]] [[H1263J\|בָּר֖וּךְ]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H5374\|נֵֽרִיָּ֑ה]] [[H9003\|בְּ]][[H3789\|כָתְב]][[H9043\|וֹ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֤לֶּה]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֙פֶר֙]] [[H9006\|מִ]][[H6310G\|פִּ֣י]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H9003\|בַּ]][[H8141\|שָּׁנָה֙]] [[H9009\|הָֽ]][[H7243\|רְבִעִ֔ית]] [[H9005\|לִ]][[H3079\|יהוֹיָקִ֧ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֛הוּ]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMANUENSIS|AMANUENSIS]] • [[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.30|<< Jeremiah 44:30]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.2|Jeremiah 45:2 >>]]</td></tr></table>
 
@@ -32,7 +99,7 @@ This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he
 | Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּ֛הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֖ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.30|<< Jeremiah 44:30]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.2|Jeremiah 45:2 >>]]</td></tr></table>
 
 

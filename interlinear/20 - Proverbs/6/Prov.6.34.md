@@ -1,8 +1,55 @@
+---
+title: Proverbs 6:34
+type: Verse
+kjv: "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
+bsb: "For jealousy enrages a husband, and he will show no mercy in the day of vengeance."
+hebrew: "כִּֽי־ קִנְאָ֥ה חֲמַת־ גָּ֑בֶר וְלֹֽא־ יַ֝חְמ֗וֹל בְּי֣וֹם נָקָֽם׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7068]]"
+- "[[H2534]]"
+- "[[H1397]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H5359]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:34**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For jealousy [is] the rage of a man: therefore he will not spare in the day of vengeance.
 <small><sub>**BSB:**</sub></small>
 For jealousy enrages a husband, and he will show no mercy in the day of vengeance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7068\|קִנְאָ֥ה]] [[H2534\|חֲמַת]][[H9014\|־]] [[H1397\|גָּ֑בֶר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2550\|יַ֝חְמ֗וֹל]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H5359\|נָקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic JEALOUSY|JEALOUSY]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.33|<< Proverbs 6:33]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.35|Proverbs 6:35 >>]]</td></tr></table>
 

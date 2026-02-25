@@ -1,8 +1,57 @@
+---
+title: Habakkuk 1:17
+type: Verse
+kjv: "Shall they therefore empty their net, and not spare continually to slay the nations?"
+bsb: "Will he, therefore, empty his net and continue to slay nations without mercy?"
+hebrew: "הַ֥עַל כֵּ֖ן יָרִ֣יק חֶרְמ֑וֹ וְתָמִ֛יד לַהֲרֹ֥ג גּוֹיִ֖ם לֹ֥א יַחְמֽוֹל׃ ס"
+pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7324]]"
+- "[[H2764B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8548]]"
+- "[[H9005]]"
+- "[[H2026]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Habakkuk 1:17**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall they therefore empty their net, and not spare continually to slay the nations?
 <small><sub>**BSB:**</sub></small>
 Will he, therefore, empty his net and continue to slay nations without mercy?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ֥]][[H5921A\|עַל]] [[H3651C\|כֵּ֖ן]] [[H7324\|יָרִ֣יק]] [[H2764B\|חֶרְמ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H8548\|תָמִ֛יד]] [[H9005\|לַ]][[H2026\|הֲרֹ֥ג]] [[H1471A\|גּוֹיִ֖ם]] [[H3808\|לֹ֥א]] [[H2550\|יַחְמֽוֹל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.16|<< Habakkuk 1:16]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.1|Habakkuk 2:1 >>]]</td></tr></table>
 
@@ -16,7 +65,7 @@ Will he, therefore, empty his net and continue to slay nations without mercy?
 | to kill  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2026\|הֲרֹ֥ג]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.Rog<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֖ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he spare?  |**<big>&#8207;[[H2550\|יַחְמֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Mol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he spare?  |**<big>&#8207;[[H2550\|יַחְמֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Mol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.16|<< Habakkuk 1:16]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.1|Habakkuk 2:1 >>]]</td></tr></table>
 
 

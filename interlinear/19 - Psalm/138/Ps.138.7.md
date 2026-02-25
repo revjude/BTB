@@ -1,8 +1,64 @@
+---
+title: Psalm 138:7
+type: Verse
+kjv: "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me."
+bsb: "If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me."
+hebrew: "אִם־ אֵלֵ֤ךְ׀ בְּקֶ֥רֶב צָרָ֗ה תְּחַ֫יֵּ֥נִי עַ֤ל אַ֣ף אֹ֭יְבַי תִּשְׁלַ֣ח יָדֶ֑ךָ וְת֖וֹשִׁיעֵ֣נִי יְמִינֶֽךָ׃"
+pericope: "[[Ps.138.1 A Thankful Heart|A Thankful Heart]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 138
+book/chapter: "[[Ps.138|Psalm 138]]"
+chronological_order: 385
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H6869B]]"
+- "[[H2421]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H0639G]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 138:7**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.
 <small><sub>**BSB:**</sub></small>
 If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1980I\|אֵלֵ֤ךְ]][[H9015\|׀]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H6869B\|צָרָ֗ה]] [[H2421\|תְּחַ֫יֵּ֥]][[H9030\|נִי]] [[H5921A\|עַ֤ל]] [[H0639G\|אַ֣ף]] [[H0341\|אֹ֭יְבַ]][[H9020\|י]] [[H7971K\|תִּשְׁלַ֣ח]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3467\|ת֖וֹשִׁיעֵ֣]][[H9030\|נִי]] [[H3225G\|יְמִינֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.6|<< Psalms 138:6]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.8|Psalms 138:8 >>]]</td></tr></table>
 

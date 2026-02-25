@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Timothy’s Visit
+type: Pericope
 pericope: "[[1Thess.3.1 Timothy’s Visit|Timothy’s Visit]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 3
 book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
-genre:
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 5
 verses:
 - "[[1Thess.3.1]]"
 - "[[1Thess.3.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Thess.3.5]]"
 ---
 
-[[1Thess.3|1 Thessalonians 3:1 - 1 Thessalonians 3:5]]
+<small>[[1Thess.3|1 Thessalonians 3:1-5]]</small>
 *Timothy’s Visit*
 
 [[1Thess.3.1|1]] Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;

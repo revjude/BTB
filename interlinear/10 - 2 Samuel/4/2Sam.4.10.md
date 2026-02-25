@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 4:10
+type: Verse
+kjv: "When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:"
+bsb: "when someone told me, ‘Look, Saul is dead,’ and thought he was a bearer of good news, I seized him and put him to death at Ziklag. That was his reward for his news!"
+hebrew: "כִּ֣י הַמַּגִּיד֩ לִ֨י לֵאמֹ֜ר הִנֵּה־ מֵ֣ת שָׁא֗וּל וְהֽוּא־ הָיָ֤ה כִמְבַשֵּׂר֙ בְּעֵינָ֔יו וָאֹחֲזָ֣ה ב֔וֹ וָאֶהְרְגֵ֖הוּ בְּצִֽקְלָ֑ג אֲשֶׁ֥ר לְתִתִּי־ ל֖וֹ בְּשֹׂרָֽה׃"
+pericope: "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1319]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0270]]"
+- "[[H9012]]"
+- "[[H9033]]"
+- "[[H2026]]"
+- "[[H6860]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H1309]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 4:10**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who [thought] that I would have given him a reward for his tidings:
 <small><sub>**BSB:**</sub></small>
 when someone told me, ‘Look, Saul is dead,’ and thought he was a bearer of good news, I seized him and put him to death at Ziklag. That was his reward for his news!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H5046\|מַּגִּיד֩]] [[H9005\|לִ֨]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֜ר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4191\|מֵ֣ת]] [[H7586G\|שָׁא֗וּל]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H1961\|הָיָ֤ה]] [[H9004\|כִ]][[H1319\|מְבַשֵּׂר֙]] [[H9003\|בְּ]][[H5869I\|עֵינָ֔י]][[H9023\|ו]] [[H9001\|וָ]][[H0270\|אֹחֲזָ֣]][[H9012\|ה]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H9001\|וָ]][[H2026\|אֶהְרְגֵ֖]][[H9033\|הוּ]] [[H9003\|בְּ]][[H6860\|צִֽקְלָ֑ג]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לְ]][[H5414G\|תִתִּ]][[H9030\|י]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1309\|בְּשֹׂרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic RECHAB|RECHAB]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.9|<< 2 Samuel 4:9]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.11|2 Samuel 4:11 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Matthew 6:34
+type: Verse
+kjv: "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof."
+bsb: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own."
+jesus_said: "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof."
+greek: "μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον· ἡ γὰρ αὔριον μεριμνήσει τὰ ἑαυτῆς. ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς.¶"
+pericope: "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G3309]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0839]]"
+- "[[G1063]]"
+- "[[G1438]]"
+- "[[G0713]]"
+- "[[G2250]]"
+- "[[G2549]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 6:34**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day [is] the evil thereof.
 <small><sub>**BSB:**</sub></small>
 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.
-<small><sub>**Literal:**</sub></small>
-Not therefore shall you be anxious about the [things] tomorrow; <the> for tomorrow will be anxious about <the> itself. Sufficient to the day [is] the trouble of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.33|<< Matthew 6:33]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.1|Matthew 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3767\|οὖν]]  [[G3309\|μεριμνήσητε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0839\|αὔριον·]]  [[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G0839\|αὔριον]]  [[G3309\|μεριμνήσει]]  [[G3588\|τὰ]]  [[G1438\|ἑαυτῆς.]]  [[G0713\|ἀρκετὸν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|ἡ]]  [[G2549\|κακία]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic TROUBLE|TROUBLE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.33|<< Matthew 6:33]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.1|Matthew 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

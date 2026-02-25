@@ -1,8 +1,73 @@
+---
+title: Judges 14:15
+type: Verse
+kjv: "And it came to pass on the seventh day, that they said unto Samson’s wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father’s house with fire: have ye called us to take that we have? is it not so?"
+bsb: "So on the fourth day they said to Samson’s wife, “Entice your husband to explain the riddle to us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”"
+hebrew: "וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁבִיעִ֗י וַיֹּאמְר֤וּ לְאֵֽשֶׁת־ שִׁמְשׁוֹן֙ פַּתִּ֣י אֶת־ אִישֵׁ֗ךְ וְיַגֶּד־ לָ֙נוּ֙ אֶת־ הַ֣חִידָ֔ה פֶּן־ נִשְׂרֹ֥ף אוֹתָ֛ךְ וְאֶת־ בֵּ֥ית אָבִ֖יךְ בָּאֵ֑שׁ הַלְיָרְשֵׁ֕נוּ קְרָאתֶ֥ם לָ֖נוּ הֲלֹֽא׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETTING|BETTING]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H8123]]"
+- "[[H6601B]]"
+- "[[H0853]]"
+- "[[H0376H]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9035]]"
+- "[[H2420]]"
+- "[[H6435]]"
+- "[[H8313]]"
+- "[[H9032]]"
+- "[[H1004B]]"
+- "[[H0001G]]"
+- "[[H0784]]"
+- "[[H9008]]"
+- "[[H3423I]]"
+- "[[H7121G]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:15**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the seventh day, that they said unto Samson’s wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father’s house with fire: have ye called us to take that we have? [is it] not [so]?
 <small><sub>**BSB:**</sub></small>
 So on the fourth day they said to Samson’s wife, “Entice your husband to explain the riddle to us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H9005\|לְ]][[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H8123\|שִׁמְשׁוֹן֙]] [[H6601B\|פַּתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H0376H\|אִישֵׁ֗]][[H9022\|ךְ]] [[H9002\|וְ]][[H5046\|יַגֶּד]][[H9014\|־]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H2420\|חִידָ֔ה]] [[H6435\|פֶּן]][[H9014\|־]] [[H8313\|נִשְׂרֹ֥ף]] [[H0853\|אוֹתָ֛]][[H9032\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H0001G\|אָבִ֖י]][[H9022\|ךְ]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9008\|הַ]][[H9005\|לְ]][[H3423I\|יָרְשֵׁ֕]][[H9035\|נוּ]] [[H7121G\|קְרָאתֶ֥ם]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9008\|הֲ]][[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETTING|BETTING]] • [[topic RIDDLE|RIDDLE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 

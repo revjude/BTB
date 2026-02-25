@@ -1,10 +1,58 @@
+---
+title: John 20:4
+type: Verse
+kjv: "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+bsb: "The two were running together, but the other disciple outran Peter and reached the tomb first."
+greek: "ἔτρεχον δὲ οἱ δύο ὁμοῦ· καὶ ὁ ἄλλος μαθητὴς προέδραμεν τάχιον τοῦ Πέτρου καὶ ἦλθεν πρῶτος εἰς τὸ μνημεῖον,"
+pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G5143]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G3674]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G3101]]"
+- "[[G4390]]"
+- "[[G5032]]"
+- "[[G4074G]]"
+- "[[G2064]]"
+- "[[G4413G]]"
+- "[[G1519]]"
+- "[[G3419]]"
+texts:
+- NKO
+---
+
 **John 20:4**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.
 <small><sub>**BSB:**</sub></small>
 The two were running together, but the other disciple outran Peter and reached the tomb first.
-<small><sub>**Literal:**</sub></small>
-Were running now the two together; and the other disciple ran ahead quicker <the> than Peter and came first to the tomb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.3|<< John 20:3]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.5|John 20:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5143\|ἔτρεχον]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G3674\|ὁμοῦ·]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0243\|ἄλλος]]  [[G3101\|μαθητὴς]]  [[G4390\|προέδραμεν]]  [[G5032\|τάχιον]]  [[G3588\|τοῦ]]  [[G4074G\|Πέτρου]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G4413G\|πρῶτος]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LOVE|LOVE]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.3|<< John 20:3]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.5|John 20:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

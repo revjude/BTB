@@ -1,8 +1,57 @@
+---
+title: Psalm 37:18
+type: Verse
+kjv: "The LORD knoweth the days of the upright: and their inheritance shall be for ever."
+bsb: "The LORD knows the days of the blameless, and their inheritance will last forever."
+hebrew: "יוֹדֵ֣עַ יְ֭הוָה יְמֵ֣י תְמִימִ֑ם וְ֝נַחֲלָתָ֗ם לְעוֹלָ֥ם תִּהְיֶֽה׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H3117G]]"
+- "[[H8549H]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:18**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD knoweth the days of the upright: and their inheritance shall be for ever.
 <small><sub>**BSB:**</sub></small>
 The LORD knows the days of the blameless, and their inheritance will last forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יוֹדֵ֣עַ]] [[H3068G\|יְ֭הוָה]] [[H3117G\|יְמֵ֣י]] [[H8549H\|תְמִימִ֑ם]] [[H9002\|וְ֝]][[H5159\|נַחֲלָתָ֗]][[H9028\|ם]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H1961\|תִּהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.17|<< Psalms 37:17]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.19|Psalms 37:19 >>]]</td></tr></table>
 

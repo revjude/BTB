@@ -1,10 +1,65 @@
+---
+title: John 7:38
+type: Verse
+kjv: "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
+bsb: "Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”"
+jesus_said: "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
+greek: "ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος."
+pericope: "[[John.7.37 Living Water|Living Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G1124]]"
+- "[[G4215]]"
+- "[[G1537]]"
+- "[[G2836]]"
+- "[[G0846]]"
+- "[[G4482]]"
+- "[[G5204]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **John 7:38**<big><big>[[John.7.37 Living Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”
-<small><sub>**Literal:**</sub></small>
-The [one] believing in Me myself, even as has said the Scripture: Rivers out of the belly of him will flow of water living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.37|<< John 7:37]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.39|John 7:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ,]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν]]  [[G3588\|ἡ]]  [[G1124\|γραφή,]]  [[G4215\|ποταμοὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2836\|κοιλίας]]  [[G0846\|αὐτοῦ]]  [[G4482\|ῥεύσουσιν]]  [[G5204\|ὕδατος]]  [[G2198\|ζῶντος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic POWER|POWER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.37|<< John 7:37]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.39|John 7:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 7:38** is...
 > $\quad$ alluding to: [[LXX.Prov.18.4|Prov 18:4]] ☩ [[LXX.Isa.12.3|Isa 12:3]] ☩ [[LXX.Isa.44.3|Isa 44:3]] ☩ [[LXX.Isa.55.1|Isa 55:1]] ☩ [[LXX.Isa.58.11|Isa 58:11]] ☩ [[LXX.Zech.13.1|Zech 13:1]] ☩ [[LXX.Zech.14.8|Zech 14:8]]

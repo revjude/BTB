@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 17:7
+type: Verse
+kjv: "Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah."
+bsb: "In the third year of his reign, Jehoshaphat sent his officials Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah to teach in the cities of Judah,"
+hebrew: "וּבִשְׁנַ֨ת שָׁל֜וֹשׁ לְמָלְכ֗וֹ שָׁלַ֤ח לְשָׂרָיו֙ לְבֶן־ חַ֙יִל֙ וּלְעֹבַדְיָ֣ה וְלִזְכַרְיָ֔ה וְלִנְתַנְאֵ֖ל וּלְמִיכָיָ֑הוּ לְלַמֵּ֖ד בְּעָרֵ֥י יְהוּדָֽה׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BEN-HAIL|BEN-HAIL]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MICHAIAH|MICHAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H7971G]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H1134]]"
+- "[[H9014]]"
+- "[[H5662N]]"
+- "[[H2148H]]"
+- "[[H5417L]]"
+- "[[H4322G]]"
+- "[[H3925G]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:7**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the third year of his reign he sent to his princes, [even] to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
 <small><sub>**BSB:**</sub></small>
 In the third year of his reign, Jehoshaphat sent his officials Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah to teach in the cities of Judah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8141\|שְׁנַ֨ת]] [[H7969\|שָׁל֜וֹשׁ]] [[H9005\|לְ]][[H4427A\|מָלְכ֗]][[H9033\|וֹ]] [[H7971G\|שָׁלַ֤ח]] [[H9005\|לְ]][[H8269\|שָׂרָי]][[H9023\|ו֙]] [[H9005\|לְ]][[H1134\|בֶן]][[H9014\|־]] [[H1134\|חַ֙יִל֙]] [[H9002\|וּ]][[H9005\|לְ]][[H5662N\|עֹבַדְיָ֣ה]] [[H9002\|וְ]][[H9005\|לִ]][[H2148H\|זְכַרְיָ֔ה]] [[H9002\|וְ]][[H9005\|לִ]][[H5417L\|נְתַנְאֵ֖ל]] [[H9002\|וּ]][[H9005\|לְ]][[H4322G\|מִיכָיָ֑הוּ]] [[H9005\|לְ]][[H3925G\|לַמֵּ֖ד]] [[H9003\|בְּ]][[H5892B\|עָרֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HAIL|BEN-HAIL]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic LAW|LAW]] • [[topic MICHAIAH|MICHAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NETHANEEL|NETHANEEL]] • [[topic OBADIAH|OBADIAH]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic SCHOOL|SCHOOL]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.6|<< 2 Chronicles 17:6]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.8|2 Chronicles 17:8 >>]]</td></tr></table>
 

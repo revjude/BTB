@@ -1,10 +1,58 @@
+---
+title: Hebrews 9:20
+type: Verse
+kjv: "Saying, This is the blood of the testament which God hath enjoined unto you."
+bsb: "saying, “This is the blood of the covenant, which God has commanded you to keep.”"
+greek: "λέγων· τοῦτο τὸ αἷμα τῆς διαθήκης ἧς ἐνετείλατο πρὸς ὑμᾶς ὁ θεός·"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G1242]]"
+- "[[G3739]]"
+- "[[G1781]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:20**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, This [is] the blood of the testament which God hath enjoined unto you.
 <small><sub>**BSB:**</sub></small>
 saying, “This is the blood of the covenant, which God has commanded you to keep.”
-<small><sub>**Literal:**</sub></small>
-saying; This [is] the blood of the covenant which commanded unto you <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.19|<< Hebrews 9:19]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.21|Hebrews 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τῆς]]  [[G1242\|διαθήκης]]  [[G3739\|ἧς]]  [[G1781\|ἐνετείλατο]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic COLORS|COLORS]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.19|<< Hebrews 9:19]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.21|Hebrews 9:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 9:20** is...
 > $\quad$ referencing: [[LXX.Exod.24.8|Exod 24:8]]

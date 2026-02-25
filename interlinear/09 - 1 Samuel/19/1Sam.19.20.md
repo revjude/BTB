@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 19:20
+type: Verse
+kjv: "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied."
+bsb: "he sent messengers to seize him. But when they saw the group of prophets prophesying, with Samuel leading them, the Spirit of God came upon them, and Saul’s messengers also began to prophesy."
+hebrew: "וַיִּשְׁלַ֨ח שָׁא֣וּל מַלְאָכִים֮ לָקַ֣חַת אֶת־ דָּוִד֒ וַיַּ֗רְא אֶֽת־ לַהֲקַ֤ת הַנְּבִיאִים֙ נִבְּאִ֔ים וּשְׁמוּאֵ֕ל עֹמֵ֥ד נִצָּ֖ב עֲלֵיהֶ֑ם וַתְּהִ֞י עַֽל־ מַלְאֲכֵ֤י שָׁאוּל֙ ר֣וּחַ אֱלֹהִ֔ים וַיִּֽתְנַבְּא֖וּ גַּם־ הֵֽמָּה׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic STUDENTS|STUDENTS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7586G]]"
+- "[[H4397G]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H7200G]]"
+- "[[H3862]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H9002]]"
+- "[[H8050G]]"
+- "[[H5975G]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:20**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing [as] appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
 <small><sub>**BSB:**</sub></small>
 he sent messengers to seize him. But when they saw the group of prophets prophesying, with Samuel leading them, the Spirit of God came upon them, and Saul’s messengers also began to prophesy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H7586G\|שָׁא֣וּל]] [[H4397G\|מַלְאָכִים֮]] [[H9005\|לָ]][[H3947G\|קַ֣חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִד֒]] [[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3862\|לַהֲקַ֤ת]] [[H9009\|הַ]][[H5030\|נְּבִיאִים֙]] [[H5012\|נִבְּאִ֔ים]] [[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֕ל]] [[H5975G\|עֹמֵ֥ד]] [[H5324\|נִצָּ֖ב]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H1961\|תְּהִ֞י]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4397G\|מַלְאֲכֵ֤י]] [[H7586G\|שָׁאוּל֙]] [[H7307G\|ר֣וּחַ]] [[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H5012\|יִּֽתְנַבְּא֖וּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SCHOOL|SCHOOL]] • [[topic STUDENTS|STUDENTS]] • [[topic TEACHERS|TEACHERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.19|<< 1 Samuel 19:19]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.21|1 Samuel 19:21 >>]]</td></tr></table>
 

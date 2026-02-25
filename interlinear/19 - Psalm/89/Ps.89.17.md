@@ -1,8 +1,62 @@
+---
+title: Psalm 89:17
+type: Verse
+kjv: "For thou art the glory of their strength: and in thy favour our horn shall be exalted."
+bsb: "For You are the glory of their strength, and by Your favor our horn is exalted."
+hebrew: "כִּֽי־ תִפְאֶ֣רֶת עֻזָּ֣מוֹ אָ֑תָּה וּ֝בִרְצֹנְךָ֗ תָּר֥וּם קַרְנֵֽנוּ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8597]]"
+- "[[H5797]]"
+- "[[H9028]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7522]]"
+- "[[H9021]]"
+- "[[H7311A]]"
+- "[[H7161A]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 89:17**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] the glory of their strength: and in thy favour our horn shall be exalted.
 <small><sub>**BSB:**</sub></small>
 For You are the glory of their strength, and by Your favor our horn is exalted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8597\|תִפְאֶ֣רֶת]] [[H5797\|עֻזָּ֣]][[H9028\|מוֹ]] [[H0859A\|אָ֑תָּה]] [[H9002\|וּ֝]][[H9003\|בִ]][[H7522\|רְצֹנְ]][[H9021\|ךָ֗]] [[H7311A\|תָּר֥וּם]] [[H7161A\|קַרְנֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.16|<< Psalms 89:16]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.18|Psalms 89:18 >>]]</td></tr></table>
 

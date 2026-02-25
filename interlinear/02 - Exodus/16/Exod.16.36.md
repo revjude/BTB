@@ -1,8 +1,56 @@
+---
+title: Exodus 16:36
+type: Verse
+kjv: "Now an omer is the tenth part of an ephah."
+bsb: "(Now an omer is a tenth of an ephah.)"
+hebrew: "וְהָעֹ֕מֶר עֲשִׂרִ֥ית הָאֵיפָ֖ה הֽוּא׃ פ"
+pericope: "[[Exod.16.31 The Jar of Manna|The Jar of Manna]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OMER|OMER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6016B]]"
+- "[[H6224]]"
+- "[[H0374]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 16:36**<big><big>[[Exod.16.31 The Jar of Manna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now an omer [is] the tenth [part] of an ephah.
 <small><sub>**BSB:**</sub></small>
 (Now an omer is a tenth of an ephah.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H6016B\|עֹ֕מֶר]] [[H6224\|עֲשִׂרִ֥ית]] [[H9009\|הָ]][[H0374\|אֵיפָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MEASURE|MEASURE]] • [[topic OMER|OMER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.35|<< Exodus 16:35]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.1|Exodus 17:1 >>]]</td></tr></table>
 
@@ -11,7 +59,7 @@ Now an omer [is] the tenth [part] of an ephah.
 | and the omer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6016B\|עֹ֕מֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'O.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] tenth [part] of  |**<big>&#8207;[[H6224\|עֲשִׂרִ֥ית]]&#8207; </big>**| 'a.si.Rit<small><sup>[[HAofsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ephah  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0374\|אֵיפָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.35|<< Exodus 16:35]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.1|Exodus 17:1 >>]]</td></tr></table>
 
 

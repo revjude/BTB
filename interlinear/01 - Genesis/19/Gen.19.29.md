@@ -1,8 +1,66 @@
+---
+title: Genesis 19:29
+type: Verse
+kjv: "And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt."
+bsb: "So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived."
+hebrew: "וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת־ עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת־ אַבְרָהָ֑ם וַיְשַׁלַּ֤ח אֶת־ לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת־ הֶ֣עָרִ֔ים אֲשֶׁר־ יָשַׁ֥ב בָּהֵ֖ן לֽוֹט׃"
+pericope: "[[Gen.19.24 The Destruction of Sodom and Gomorrah|The Destruction of Sodom and Gomorrah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7843]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H3603H]]"
+- "[[H2142]]"
+- "[[H0085]]"
+- "[[H7971G]]"
+- "[[H3876]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H2018]]"
+- "[[H2015]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:29**<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 <small><sub>**BSB:**</sub></small>
 So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H7843\|שַׁחֵ֤ת]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H3603H\|כִּכָּ֔ר]] [[H9001\|וַ]][[H2142\|יִּזְכֹּ֥ר]] [[H0430G\|אֱלֹהִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָ֑ם]] [[H9001\|וַ]][[H7971G\|יְשַׁלַּ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3876\|לוֹט֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H2018\|הֲפֵכָ֔ה]] [[H9003\|בַּ]][[H2015\|הֲפֹךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יָשַׁ֥ב]] [[H9003\|בָּ]][[H9039\|הֵ֖ן]] [[H3876\|לֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.28|<< Genesis 19:28]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.30|Genesis 19:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

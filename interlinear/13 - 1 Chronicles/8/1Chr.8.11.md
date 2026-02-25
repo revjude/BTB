@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 8:11
+type: Verse
+kjv: "And of Hushim he begat Abitub, and Elpaal."
+bsb: "He also had sons by Hushim: Abitub and Elpaal."
+hebrew: "וּמֵחֻשִׁ֛ים הוֹלִ֥יד אֶת־ אֲבִיט֖וּב וְאֶת־ אֶלְפָּֽעַל׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABITUB|ABITUB]]"
+- "[[topic ELPAAL|ELPAAL]]"
+- "[[topic HUSHIM|HUSHIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2366A]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0036]]"
+- "[[H0508]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:11**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Hushim he begat Abitub, and Elpaal.
 <small><sub>**BSB:**</sub></small>
 He also had sons by Hushim: Abitub and Elpaal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H2366A\|חֻשִׁ֛ים]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H0036\|אֲבִיט֖וּב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0508\|אֶלְפָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABITUB|ABITUB]] • [[topic ELPAAL|ELPAAL]] • [[topic HUSHIM|HUSHIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.10|<< 1 Chronicles 8:10]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.12|1 Chronicles 8:12 >>]]</td></tr></table>
 

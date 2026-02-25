@@ -1,8 +1,63 @@
+---
+title: 1 Kings 6:7
+type: Verse
+kjv: "And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building."
+bsb: "The temple was constructed using finished stones cut at the quarry, so that no hammer or chisel or any other iron tool was heard in the temple while it was being built."
+hebrew: "וְהַבַּ֙יִת֙ בְּהִבָּ֣נֹת֔וֹ אֶֽבֶן־ שְׁלֵמָ֥ה מַסָּ֖ע נִבְנָ֑ה וּמַקָּב֤וֹת וְהַגַּרְזֶן֙ כָּל־ כְּלִ֣י בַרְזֶ֔ל לֹֽא־ נִשְׁמַ֥ע בַּבַּ֖יִת בְּהִבָּנֹתֽוֹ׃"
+pericope: "[[1Kgs.6.5 The Chambers|The Chambers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic HAMMER|HAMMER]]"
+- "[[topic IRON|IRON]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H1129]]"
+- "[[H9043]]"
+- "[[H0068G]]"
+- "[[H9014]]"
+- "[[H8003]]"
+- "[[H4551A]]"
+- "[[H4717]]"
+- "[[H1631]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H1270]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:7**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house, when it was in building, was built of stone made ready before it was brought thither: so that there was neither hammer nor axe [nor] any tool of iron heard in the house, while it was in building.
 <small><sub>**BSB:**</sub></small>
 The temple was constructed using finished stones cut at the quarry, so that no hammer or chisel or any other iron tool was heard in the temple while it was being built.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H9003\|בְּ]][[H1129\|הִבָּ֣נֹת֔]][[H9043\|וֹ]] [[H0068G\|אֶֽבֶן]][[H9014\|־]] [[H8003\|שְׁלֵמָ֥ה]] [[H4551A\|מַסָּ֖ע]] [[H1129\|נִבְנָ֑ה]] [[H9002\|וּ]][[H4717\|מַקָּב֤וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H1631\|גַּרְזֶן֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֣י]] [[H1270\|בַרְזֶ֔ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|נִשְׁמַ֥ע]] [[H9003\|בַּ]][[H1004B\|בַּ֖יִת]] [[H9003\|בְּ]][[H1129\|הִבָּנֹתֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMMER|HAMMER]] • [[topic IRON|IRON]] • [[topic STONES|STONES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.6|<< 1 Kings 6:6]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.8|1 Kings 6:8 >>]]</td></tr></table>
 

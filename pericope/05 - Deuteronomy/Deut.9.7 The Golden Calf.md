@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Golden Calf
+type: Pericope
 pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 9
 book/chapter: "[[Deut.9|Deuteronomy 9]]"
-genre:
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 23
 verses:
 - "[[Deut.9.7]]"
 - "[[Deut.9.8]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Deut.9.29]]"
 ---
 
-[[Deut.9|Deuteronomy 9:7 - Deuteronomy 9:29]]
+<small>[[Deut.9|Deuteronomy 9:7-29]]</small>
 *The Golden Calf*
 
 [[Deut.9.7|7]] Remember, \[and\] forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD.

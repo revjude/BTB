@@ -1,8 +1,50 @@
+---
+title: Judges 20:9
+type: Verse
+kjv: "But now this shall be the thing which we will do to Gibeah; we will go up by lot against it;"
+bsb: "Now this is what we will do to Gibeah: We will go against it as the lot dictates."
+hebrew: "וְעַתָּ֕ה זֶ֣ה הַדָּבָ֔ר אֲשֶׁ֥ר נַעֲשֶׂ֖ה לַגִּבְעָ֑ה עָלֶ֖יהָ בְּגוֹרָֽל׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H1390H]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:9**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now this [shall be] the thing which we will do to Gibeah; [we will go up] by lot against it;
 <small><sub>**BSB:**</sub></small>
 Now this is what we will do to Gibeah: We will go against it as the lot dictates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|נַעֲשֶׂ֖ה]] [[H9005\|לַ]][[H1390H\|גִּבְעָ֑ה]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H9003\|בְּ]][[H1486\|גוֹרָֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.8|<< Judges 20:8]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.10|Judges 20:10 >>]]</td></tr></table>
 

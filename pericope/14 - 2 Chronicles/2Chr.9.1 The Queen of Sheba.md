@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Queen of Sheba
+type: Pericope
 pericope: "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 9
 book/chapter: "[[2Chr.9|2 Chronicles 9]]"
-genre:
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 12
 verses:
 - "[[2Chr.9.1]]"
 - "[[2Chr.9.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Chr.9.12]]"
 ---
 
-[[2Chr.9|2 Chronicles 9:1 - 2 Chronicles 9:12]]
+<small>[[2Chr.9|2 Chronicles 9:1-12]]</small>
 *The Queen of Sheba*
 
 [[2Chr.9.1|1]] And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.

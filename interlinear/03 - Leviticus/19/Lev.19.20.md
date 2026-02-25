@@ -1,8 +1,73 @@
+---
+title: Leviticus 19:20
+type: Verse
+kjv: "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free."
+bsb: "If a man lies carnally with a slave girl promised to another man but who has not been redeemed or given her freedom, there must be due punishment. But they are not to be put to death, because she had not been freed."
+hebrew: "וְ֠אִישׁ כִּֽי־ יִשְׁכַּ֨ב אֶת־ אִשָּׁ֜ה שִׁכְבַת־ זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהָפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖ה לֹ֣א נִתַּן־ לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־ לֹ֥א חֻפָּֽשָׁה׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7901I]]"
+- "[[H0853]]"
+- "[[H0802G]]"
+- "[[H7902]]"
+- "[[H2233I]]"
+- "[[H1931]]"
+- "[[H8198]]"
+- "[[H2778C]]"
+- "[[H9005]]"
+- "[[H6299]]"
+- "[[H3808]]"
+- "[[H0176A]]"
+- "[[H2668]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H1244]]"
+- "[[H1961]]"
+- "[[H4191]]"
+- "[[H2666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:20**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whosoever lieth carnally with a woman, that [is] a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
 <small><sub>**BSB:**</sub></small>
 If a man lies carnally with a slave girl promised to another man but who has not been redeemed or given her freedom, there must be due punishment. But they are not to be put to death, because she had not been freed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0376G\|אִישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7901I\|יִשְׁכַּ֨ב]] [[H0853\|אֶת]][[H9014\|־]] [[H0802G\|אִשָּׁ֜ה]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זֶ֗רַע]] [[H9002\|וְ]][[H1931\|הִ֤וא]] [[H8198\|שִׁפְחָה֙]] [[H2778C\|נֶחֱרֶ֣פֶת]] [[H9005\|לְ]][[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H6299\|הָפְדֵּה֙]] [[H3808\|לֹ֣א]] [[H6299\|נִפְדָּ֔תָה]] [[H0176A\|א֥וֹ]] [[H2668\|חֻפְשָׁ֖ה]] [[H3808\|לֹ֣א]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H1244\|בִּקֹּ֧רֶת]] [[H1961\|תִּהְיֶ֛ה]] [[H3808\|לֹ֥א]] [[H4191\|יוּמְת֖וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H2666\|חֻפָּֽשָׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SCOURGING|SCOURGING]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.19|<< Leviticus 19:19]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.21|Leviticus 19:21 >>]]</td></tr></table>
 

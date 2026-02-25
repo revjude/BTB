@@ -1,8 +1,56 @@
+---
+title: Joshua 3:11
+type: Verse
+kjv: "Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan."
+bsb: "Behold, the ark of the covenant of the Lord of all the earth will go ahead of you into the Jordan."
+hebrew: "הִנֵּה֙ אֲר֣וֹן הַבְּרִ֔ית אֲד֖וֹן כָּל־ הָאָ֑רֶץ עֹבֵ֥ר לִפְנֵיכֶ֖ם בַּיַּרְדֵּֽן׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H2009]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H0136]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:11**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan.
 <small><sub>**BSB:**</sub></small>
 Behold, the ark of the covenant of the Lord of all the earth will go ahead of you into the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֙]] [[H0727\|אֲר֣וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H0136\|אֲד֖וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H5674A\|עֹבֵ֥ר]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H9003\|בַּ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.10|<< Joshua 3:10]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.12|Joshua 3:12 >>]]</td></tr></table>
 

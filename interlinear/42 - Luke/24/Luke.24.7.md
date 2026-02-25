@@ -1,10 +1,60 @@
+---
+title: Luke 24:7
+type: Verse
+kjv: "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
+bsb: "‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’”"
+greek: "λέγων τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι."
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3754G]]"
+- "[[G1163]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G0268]]"
+- "[[G2532]]"
+- "[[G4717]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G0450]]"
+texts:
+- NKO
+---
+
 **Luke 24:7**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.
 <small><sub>**BSB:**</sub></small>
 ‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’”
-<small><sub>**Literal:**</sub></small>
-saying The Son <the> of Man that it behooves to be delivered into hands of men sinful and to be crucified and on the third day to arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.6|<< Luke 24:6]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.8|Luke 24:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G3860\|παραδοθῆναι]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G0444\|ἀνθρώπων]]  [[G0268\|ἁμαρτωλῶν]]  [[G2532\|καὶ]]  [[G4717\|σταυρωθῆναι]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G2250\|ἡμέρᾳ]]  [[G0450\|ἀναστῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.6|<< Luke 24:6]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.8|Luke 24:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

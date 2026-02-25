@@ -1,10 +1,63 @@
+---
+title: Mark 5:14
+type: Verse
+kjv: "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done."
+bsb: "Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened."
+greek: "καὶ οἱ δὲ βόσκοντες αὐτοὺς χοίρους ἔφυγον καὶ ἀπήγγειλαν εἰς τὴν πόλιν καὶ εἰς τοὺς ἀγρούς. καὶ ἦλθον ἰδεῖν τί ἐστιν τὸ γεγονός.¶"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1006]]"
+- "[[G0846]]"
+- "[[G5519]]"
+- "[[G5343]]"
+- "[[G0518]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G0068G]]"
+- "[[G2064]]"
+- "[[G1492H]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1096]]"
+texts:
+- no
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 5:14**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that fed the swine fled, and told [it] in the city, and in the country. And they went out to see what it was that was done.
 <small><sub>**BSB:**</sub></small>
 Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.
-<small><sub>**Literal:**</sub></small>
-And those now feeding them pigs fled and proclaimed [it] to the city and to the country. And they went out to see what it is that having happened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.13|<< Mark 5:13]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.15|Mark 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1006\|βόσκοντες]]  [[G0846\|αὐτοὺς]]  [[G5519\|χοίρους]]  [[G5343\|ἔφυγον]]  [[G2532\|καὶ]]  [[G0518\|ἀπήγγειλαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0068G\|ἀγρούς.]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G1492H\|ἰδεῖν]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G1096\|γεγονός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.13|<< Mark 5:13]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.15|Mark 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

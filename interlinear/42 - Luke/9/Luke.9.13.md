@@ -1,10 +1,71 @@
+---
+title: Luke 9:13
+type: Verse
+kjv: "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+bsb: "But Jesus told them, “You give them something to eat.” “We have only five loaves of bread and two fish,” they answered, “unless we go and buy food for all these people.”"
+jesus_said: "Give ye them to eat."
+greek: "Εἶπεν δὲ πρὸς αὐτούς· δότε αὐτοῖς ὑμεῖς φαγεῖν. οἱ δὲ εἶπαν· οὐκ εἰσὶν ἡμῖν πλεῖον ἢ ἄρτοι πέντε καὶ ἰχθύες δύο, εἰ μήτι πορευθέντες ἡμεῖς ἀγοράσωμεν εἰς πάντα τὸν λαὸν τοῦτον βρώματα."
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G5315]]"
+- "[[G3588]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G4119]]"
+- "[[G2228]]"
+- "[[G0740]]"
+- "[[G4002]]"
+- "[[G2532]]"
+- "[[G2486]]"
+- "[[G1417]]"
+- "[[G1487H]]"
+- "[[G3385]]"
+- "[[G4198]]"
+- "[[G0059]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G1033]]"
+texts:
+- NKO
+---
+
 **Luke 9:13**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “You give them something to eat.” “We have only five loaves of bread and two fish,” they answered, “unless we go and buy food for all these people.”
-<small><sub>**Literal:**</sub></small>
-He said now to them; do give to them you yourselves to eat. <the> But they said; Not there are to us more than loaves five and fish two, except surely even having gone we ourselves shall buy for all <the> people this food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.12|<< Luke 9:12]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.14|Luke 9:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1325\|δότε]]  [[G0846\|αὐτοῖς]]  [[G4771\|ὑμεῖς]]  [[G5315\|φαγεῖν.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G3756\|οὐκ]]  [[G1510\|εἰσὶν]]  [[G3165\|ἡμῖν]]  [[G4119\|πλεῖον]]  [[G2228\|ἢ]]  [[G0740\|ἄρτοι]]  [[G4002\|πέντε]]  [[G2532\|καὶ]]  [[G2486\|ἰχθύες]]  [[G1417\|δύο,]]  [[G1487H\|εἰ]]  [[G3385\|μήτι]]  [[G4198\|πορευθέντες]]  [[G3165\|ἡμεῖς]]  [[G0059\|ἀγοράσωμεν]]  [[G1519\|εἰς]]  [[G3956\|πάντα]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G3778\|τοῦτον]]  [[G1033\|βρώματα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.12|<< Luke 9:12]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.14|Luke 9:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

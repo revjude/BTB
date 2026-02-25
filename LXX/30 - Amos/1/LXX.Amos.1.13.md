@@ -1,9 +1,73 @@
+---
+title: LXX Amos 1:13
+type: Verse
+lxx: "Thus says the lord, For the three impious deeds of the sons of Ammon, even for the four, I will not turn away from them. Because they ripped open the ones having one in the womb of the ones of Gilead, so that they should widen  their borders."
+greek: "τάδε λέγει κύριος επί ταις τρισίν ασεβείαις των υιών Αμμών και επί ταις τέσσαρσιν ουκ αποστραφήσομαι αυτούς ανθ΄ ων ανέσχιζον τας εν γαστρί εχούσας των Γαλααδιτών όπως εμπλατύνωσι τα όρια αυτών"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5140]]"
+- "[[G0763]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[H5983]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G3756]]"
+- "[[G0654]]"
+- "[[G1473]]"
+- "[[G6339]]"
+- "[[G6313]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[H1568]]"
+- "[[G3704]]"
+- "[[G7198]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1473]]"
+---
+
 **LXX Amos 1:13** 
 
 ***The Word against Ammon***
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of the sons of Ammon, even for the four, I will not turn away from them. Because they ripped open the ones having one in \[the\] womb of the ones of Gilead, so that they should widen  their borders. 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G1909\|επί]] [[G3588\|ταις]] [[G5140\|τρισίν]] [[G0763\|ασεβείαις]] [[G3588\|των]] [[G5207\|υιών]] [[H5983\|Αμμών]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|ταις]] [[G5064\|τέσσαρσιν]] [[G3756\|ουκ]] [[G0654\|αποστραφήσομαι]] [[G1473\|αυτούς]] [[G6339\|ανθ΄ ων]] [[G6313\|ανέσχιζον]] [[G3588\|τας]] [[G1722\|εν]] [[G1064\|γαστρί]] [[G2192\|εχούσας]] [[G3588\|των]] [[H1568\|Γαλααδιτών]] [[G3704\|όπως]] [[G7198\|εμπλατύνωσι]] [[G3588\|τα]] [[G3725\|όρια]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
 
@@ -38,6 +102,6 @@ Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious dee
 | they should widen | **<big>[[G7198\|εμπλατύνωσι]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | their borders. | **<big>[[G3725\|όρια]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Amos.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
 
 

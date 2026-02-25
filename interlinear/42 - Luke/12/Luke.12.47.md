@@ -1,10 +1,65 @@
+---
+title: Luke 12:47
+type: Verse
+kjv: "And that servant, which knew his lord’s will, and prepared not himself, neither did according to his will, shall be beaten with many stripes."
+bsb: "That servant who knows his master’s will but does not get ready or follow his instructions will be beaten with many blows."
+jesus_said: "And that servant, which knew his lord’s will, and prepared not himself, neither did according to his will, shall be beaten with many stripes."
+greek: "Ἐκεῖνος δὲ ὁ δοῦλος ὁ γνοὺς τὸ θέλημα τοῦ κυρίου αὐτοῦ καὶ μὴ ἑτοιμάσας ἢ ποιήσας πρὸς τὸ θέλημα αὐτοῦ δαρήσεται πολλάς."
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1097]]"
+- "[[G2307]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2090]]"
+- "[[G2228]]"
+- "[[G4160G]]"
+- "[[G4314]]"
+- "[[G1194]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 12:47**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that servant, which knew his lord’s will, and prepared not [himself], neither did according to his will, shall be beaten with many [stripes].
 <small><sub>**BSB:**</sub></small>
 That servant who knows his master’s will but does not get ready or follow his instructions will be beaten with many blows.
-<small><sub>**Literal:**</sub></small>
-That [very] now <the> servant the [one] having known the will of the master of him and not having prepared or having done according to the will of him will be beaten with many [blows].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.46|<< Luke 12:46]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.48|Luke 12:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|Ἐκεῖνος]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G1401\|δοῦλος]]  [[G3588\|ὁ]]  [[G1097\|γνοὺς]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2962H\|κυρίου]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2090\|ἑτοιμάσας]]  [[G2228\|ἢ]]  [[G4160G\|ποιήσας]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G1194\|δαρήσεται]]  [[G4183\|πολλάς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.46|<< Luke 12:46]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.48|Luke 12:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

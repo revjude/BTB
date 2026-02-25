@@ -1,8 +1,59 @@
+---
+title: Hosea 9:8
+type: Verse
+kjv: "The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God."
+bsb: "The prophet is Ephraim’s watchman, along with my God, yet the snare of the fowler lies on all his paths. Hostility is in the house of his God!"
+hebrew: "צֹפֶ֥ה אֶפְרַ֖יִם עִם־ אֱלֹהָ֑י נָבִ֞יא פַּ֤ח יָקוֹשׁ֙ עַל־ כָּל־ דְּרָכָ֔יו מַשְׂטֵמָ֖ה בְּבֵ֥ית אֱלֹהָֽיו׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H6822]]"
+- "[[H0669G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H5030]]"
+- "[[H6341A]]"
+- "[[H3352]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H4895]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:8**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The watchman of Ephraim [was] with my God: [but] the prophet [is] a snare of a fowler in all his ways, [and] hatred in the house of his God.
 <small><sub>**BSB:**</sub></small>
 The prophet is Ephraim’s watchman, along with my God, yet the snare of the fowler lies on all his paths. Hostility is in the house of his God!
+<small><sub>**Hebrew:**</sub></small>
+[[H6822\|צֹפֶ֥ה]] [[H0669G\|אֶפְרַ֖יִם]] [[H5973A\|עִם]][[H9014\|־]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H5030\|נָבִ֞יא]] [[H6341A\|פַּ֤ח]] [[H3352\|יָקוֹשׁ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1870L\|דְּרָכָ֔י]][[H9023\|ו]] [[H4895\|מַשְׂטֵמָ֖ה]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.7|<< Hosea 9:7]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.9|Hosea 9:9 >>]]</td></tr></table>
 

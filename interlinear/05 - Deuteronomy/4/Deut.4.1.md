@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 4:1
+type: Verse
+kjv: "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you."
+bsb: "Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you."
+hebrew: "וְעַתָּ֣ה יִשְׂרָאֵ֗ל שְׁמַ֤ע אֶל־ הַֽחֻקִּים֙ וְאֶל־ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֧ר אָֽנֹכִ֛י מְלַמֵּ֥ד אֶתְכֶ֖ם לַעֲשׂ֑וֹת לְמַ֣עַן תִּֽחְי֗וּ וּבָאתֶם֙ וִֽירִשְׁתֶּ֣ם אֶת־ הָאָ֔רֶץ אֲשֶׁ֧ר יְהוָ֛ה אֱלֹהֵ֥י אֲבֹתֵיכֶ֖ם נֹתֵ֥ן לָכֶֽם׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3478]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:1**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do [them], that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.
 <small><sub>**BSB:**</sub></small>
 Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H8085G\|שְׁמַ֤ע]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H2706G\|חֻקִּים֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָֽנֹכִ֛י]] [[H3925G\|מְלַמֵּ֥ד]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֑וֹת]] [[H4616\|לְמַ֣עַן]] [[H2421\|תִּֽחְי֗וּ]] [[H9001\|וּ]][[H0935G\|בָאתֶם֙]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֖ם]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.29|<< Deuteronomy 3:29]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.2|Deuteronomy 4:2 >>]]</td></tr></table>
 

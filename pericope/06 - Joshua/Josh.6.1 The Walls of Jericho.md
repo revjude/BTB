@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Walls of Jericho
+type: Pericope
 pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 6
 book/chapter: "[[Josh.6|Joshua 6]]"
-genre:
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 27
 verses:
 - "[[Josh.6.1]]"
 - "[[Josh.6.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Josh.6.27]]"
 ---
 
-[[Josh.6|Joshua 6:1 - Joshua 6:27]]
+<small>[[Josh.6|Joshua 6:1-27]]</small>
 *The Walls of Jericho*
 
 [[Josh.6.1|1]] Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.

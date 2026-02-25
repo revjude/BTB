@@ -9,31 +9,31 @@
 
 - Isaac, in stating that his wife was his sister [[Gen.26.7|Ge 26:7]]
 
-- Jacob and Rebekah, in imposing Jacob on his father, and Jacob's  impersonating Esau [[Gen.27.6|Ge 27:6]]-[[Gen.27.23|23]]
+- Jacob and Rebekah, in imposing Jacob on his father, and Jacob's  impersonating Esau [[Gen.27.6|Ge 27:6-23]]
 
-- Jacob's sons, in entrapping the Shechemites [[Gen.34.13|Ge 34:13]]-[[Gen.34.31|31]]
+- Jacob's sons, in entrapping the Shechemites [[Gen.34.13|Ge 34:13-31]]
 
-- In representing to their father that Joseph had been destroyed  by wild beasts [[Gen.37.29|Ge 37:29]]-[[Gen.37.35|35]]
+- In representing to their father that Joseph had been destroyed  by wild beasts [[Gen.37.29|Ge 37:29-35]]
 
 - Joseph, in his ruse with his brothers [[Gen.42|Ge 42]]; [[Gen.43|43]]; [[Gen.44|44]]
 
-- The Gibeonites, in misrepresenting their habitat [[Josh.9.3|Jos  9:3]]-[[Josh.9.15|15]]
+- The Gibeonites, in misrepresenting their habitat [[Josh.9.3|Jos  9:3-15]]
 
-- Ehud deceives Eglon, and kills him [[Judg.3.15|Jud 3:15]]-[[Judg.3.30|30]]
+- Ehud deceives Eglon, and kills him [[Judg.3.15|Jud 3:15-30]]
 
-- Delilah deceives Samson [[Judg.16.4|Jud 16:4]]-[[Judg.16.20|20]]
+- Delilah deceives Samson [[Judg.16.4|Jud 16:4-20]]
 
-- David feigns madness [[1Sam.21.10|1Sa 21:10]]-[[1Sam.21.15|15]]
+- David feigns madness [[1Sam.21.10|1Sa 21:10-15]]
 
-- Amnon deceives Tamar by feigning sickness [[2Sam.13.6|2Sa 13:6]]-[[2Sam.13.14|14]]
+- Amnon deceives Tamar by feigning sickness [[2Sam.13.6|2Sa 13:6-14]]
 
-- Hushai deceives Absalom [[2Sam.16.15|2Sa 16:15]]-[[2Sam.16.19|19]]
+- Hushai deceives Absalom [[2Sam.16.15|2Sa 16:15-19]]
 
 - Sanballat tries to deceive Nehemiah [[Neh.6|Ne 6]]
 
 - By Absalom
 
-When he avenged his sister [[2Sam.13.24|2Sa 13:24]]-[[2Sam.13.28|28]]
+When he avenged his sister [[2Sam.13.24|2Sa 13:24-28]]
 
 When he began his conspiracy [[2Sam.15.7|2Sa 15:7]]
 

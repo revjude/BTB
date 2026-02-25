@@ -19,9 +19,9 @@ See [[topic PLAGUE|PLAGUES]];
 
 - Jeroboam [[2Chr.13.20|2Ch 13:20]]
 
-- Jehoram [[2Chr.21.12|2Ch 21:12]]-[[2Chr.21.19|19]]
+- Jehoram [[2Chr.21.12|2Ch 21:12-19]]
 
-- Uzziah [[2Chr.26.17|2Ch 26:17]]-[[2Chr.26.20|20]]
+- Uzziah [[2Chr.26.17|2Ch 26:17-20]]
 
 - Threatened as judgments [[Lev.26.16|Le 26:16]]; [[Deut.7.15|De 7:15]]; [[Deut.28.22|28:22]],[[Deut.28.27|27]],[[Deut.28.28|28]],[[Deut.28.35|35]];  [[Deut.29.22|29:22]]
 
@@ -29,7 +29,7 @@ See [[topic PLAGUE|PLAGUES]];
 
 - In answer to prayer
 
-Of Hezekiah [[2Kgs.20.1|2Ki 20:1]]-[[2Kgs.20.11|11]]; [[Isa.38.1|Isa 38:1]]-[[Isa.38.8|8]]
+Of Hezekiah [[2Kgs.20.1|2Ki 20:1-11]]; [[Isa.38.1|Isa 38:1-8]]
 
 Of David [[Ps.21.4|Ps 21:4]]; [[Ps.116.8|116:8]]
 

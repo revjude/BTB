@@ -1,8 +1,54 @@
+---
+title: Job 16:8
+type: Verse
+kjv: "And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face."
+bsb: "You have bound me, and it has become a witness; my frailty rises up and testifies against me."
+hebrew: "וַֽ֭תִּקְמְטֵנִי לְעֵ֣ד הָיָ֑ה וַיָּ֥קָם בִּ֥י כַ֝חֲשִׁ֗י בְּפָנַ֥י יַעֲנֶֽה׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7059]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H5707]]"
+- "[[H1961]]"
+- "[[H6965J]]"
+- "[[H9003]]"
+- "[[H3585]]"
+- "[[H9020]]"
+- "[[H6440H]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:8**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou hast filled me with wrinkles, [which] is a witness [against me]: and my leanness rising up in me beareth witness to my face.
 <small><sub>**BSB:**</sub></small>
 You have bound me, and it has become a witness; my frailty rises up and testifies against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H7059\|תִּקְמְטֵ]][[H9030\|נִי]] [[H9005\|לְ]][[H5707\|עֵ֣ד]] [[H1961\|הָיָ֑ה]] [[H9001\|וַ]][[H6965J\|יָּ֥קָם]] [[H9003\|בִּ֥]][[H9030\|י]] [[H3585\|כַ֝חֲשִׁ֗]][[H9020\|י]] [[H9003\|בְּ]][[H6440H\|פָנַ֥]][[H9020\|י]] [[H6030B\|יַעֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.7|<< Job 16:7]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.9|Job 16:9 >>]]</td></tr></table>
 

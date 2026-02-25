@@ -1,6 +1,62 @@
+---
+title: LXX Exodus 38:19
+type: Verse
+lxx: "And  their posts -- four; and  their bases -- four, were of brass; and  their hooks were of silver, and  their tips being silver plated in silver."
+greek: "και οι στύλοι αυτών τέσσαρες και αι βάσεις αυτών τέσσαρες χαλκαί και αι αγκύλαι αυτών αργυραί και αι κεφαλίδες αυτών περιηργυρωμέναι αργυρίω"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOOKS|HOOKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4769]]"
+- "[[G1473]]"
+- "[[G5064]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0939]]"
+- "[[G1473]]"
+- "[[G5064]]"
+- "[[G5470]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G6117]]"
+- "[[G1473]]"
+- "[[G0693]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2777]]"
+- "[[G1473]]"
+- "[[G8716]]"
+- "[[G0694]]"
+---
+
 **LXX Exodus 38:19** 
 <small><sub>**LXX:**</sub></small>
 And  their posts -- four; and  their bases -- four, \[were of\] brass; and  their hooks \[were of\] silver, and  their tips being silver plated in silver. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|οι]] [[G4769\|στύλοι]] [[G1473\|αυτών]] [[G5064\|τέσσαρες]] [[G2532\|και]] [[G3588\|αι]] [[G0939\|βάσεις]] [[G1473\|αυτών]] [[G5064\|τέσσαρες]] [[G5470\|χαλκαί]] [[G2532\|και]] [[G3588\|αι]] [[G6117\|αγκύλαι]] [[G1473\|αυτών]] [[G0693\|αργυραί]] [[G2532\|και]] [[G3588\|αι]] [[G2777\|κεφαλίδες]] [[G1473\|αυτών]] [[G8716\|περιηργυρωμέναι]] [[G0694\|αργυρίω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOOKS|HOOKS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
@@ -24,6 +80,6 @@ And  their posts -- four; and  their bases -- four, \[were of\] brass; and  thei
 | their tips | **<big>[[G2777\|κεφαλίδες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | being silver plated | **<big>[[G8716\|περιηργυρωμέναι]]</big>** |
 | in silver. | **<big>[[G0694\|αργυρίω]]</big>** |
-[[Exod.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
 

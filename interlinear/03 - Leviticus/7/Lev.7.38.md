@@ -1,8 +1,65 @@
+---
+title: Leviticus 7:38
+type: Verse
+kjv: "Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai."
+bsb: "which the LORD gave Moses on Mount Sinai on the day He commanded the Israelites to present their offerings to the LORD in the Wilderness of Sinai."
+hebrew: "אֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֶת־ מֹשֶׁ֖ה בְּהַ֣ר סִינָ֑י בְּי֨וֹם צַוֹּת֜וֹ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֗ל לְהַקְרִ֧יב אֶת־ קָרְבְּנֵיהֶ֛ם לַיהוָ֖ה בְּמִדְבַּ֥ר סִינָֽי׃ פ"
+pericope: "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H3117G]]"
+- "[[H9043]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H7126H]]"
+- "[[H7133A]]"
+- "[[H9028]]"
+- "[[H4057G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 7:38**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai.
 <small><sub>**BSB:**</sub></small>
 which the LORD gave Moses on Mount Sinai on the day He commanded the Israelites to present their offerings to the LORD in the Wilderness of Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H5514G\|סִינָ֑י]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H6680\|צַוֹּת֜]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לְ]][[H7126H\|הַקְרִ֧יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבְּנֵי]][[H9028\|הֶ֛ם]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9003\|בְּ]][[H4057G\|מִדְבַּ֥ר]] [[H5514G\|סִינָֽי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.37|<< Leviticus 7:37]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.1|Leviticus 8:1 >>]]</td></tr></table>
 
@@ -25,7 +82,7 @@ which the LORD gave Moses on Mount Sinai on the day He commanded the Israelites 
 | presents their  |**<big>&#8207;[[H7133A\|קָרְבְּנֵי]]&#8207;&#8207;[[H9028\|הֶ֛ם]]&#8207; </big>**| ka.re.be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] wilderness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4057G\|מִדְבַּ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sinai  |**<big>&#8207;[[H5514G\|סִינָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  |**<big>&#8207;[[H5514G\|סִינָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.37|<< Leviticus 7:37]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.1|Leviticus 8:1 >>]]</td></tr></table>
 
 

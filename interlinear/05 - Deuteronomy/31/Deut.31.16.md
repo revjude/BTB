@@ -1,8 +1,91 @@
+---
+title: Deuteronomy 31:16
+type: Verse
+kjv: "And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go to be among them, and will forsake me, and break my covenant which I have made with them."
+bsb: "And the LORD said to Moses, “You will soon rest with your fathers, and these people will rise up and prostitute themselves with the foreign gods of the land they are entering. They will forsake Me and break the covenant I have made with them."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה הִנְּךָ֥ שֹׁכֵ֖ב עִם־ אֲבֹתֶ֑יךָ וְקָם֩ הָעָ֨ם הַזֶּ֜ה וְזָנָ֣ה׀ אַחֲרֵ֣י׀ אֱלֹהֵ֣י נֵֽכַר־ הָאָ֗רֶץ אֲשֶׁ֨ר ה֤וּא בָא־ שָׁ֙מָּה֙ בְּקִרְבּ֔וֹ וַעֲזָבַ֕נִי וְהֵפֵר֙ אֶת־ בְּרִיתִ֔י אֲשֶׁ֥ר כָּרַ֖תִּי אִתּֽוֹ׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WHOREDOM|WHOREDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H2009]]"
+- "[[H9041]]"
+- "[[H7901G]]"
+- "[[H5973A]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H2181]]"
+- "[[H9015]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H5236]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H6565A]]"
+- "[[H0853]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:16**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go [to be] among them, and will forsake me, and break my covenant which I have made with them.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “You will soon rest with your fathers, and these people will rise up and prostitute themselves with the foreign gods of the land they are entering. They will forsake Me and break the covenant I have made with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H2009\|הִנְּ]][[H9041\|ךָ֥]] [[H7901G\|שֹׁכֵ֖ב]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H6965B\|קָם֩]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H9001\|וְ]][[H2181\|זָנָ֣ה]][[H9015\|׀]] [[H0310A\|אַחֲרֵ֣י]][[H9015\|׀]] [[H0430\|אֱלֹהֵ֣י]] [[H5236\|נֵֽכַר]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1931\|ה֤וּא]] [[H0935G\|בָא]][[H9014\|־]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5800A\|עֲזָבַ֕]][[H9030\|נִי]] [[H9001\|וְ]][[H6565A\|הֵפֵר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772H\|כָּרַ֖תִּי]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WHOREDOM|WHOREDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.15|<< Deuteronomy 31:15]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.17|Deuteronomy 31:17 >>]]</td></tr></table>
 

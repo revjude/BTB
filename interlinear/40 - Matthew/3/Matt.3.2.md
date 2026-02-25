@@ -1,10 +1,54 @@
+---
+title: Matthew 3:2
+type: Verse
+kjv: "And saying, Repent ye: for the kingdom of heaven is at hand."
+bsb: "and saying, “Repent, for the kingdom of heaven is near.”"
+greek: "καὶ λέγων· μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν."
+pericope: "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3340]]"
+- "[[G1448]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 3:2**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, Repent ye: for the kingdom of heaven is at hand.
 <small><sub>**BSB:**</sub></small>
 and saying, “Repent, for the kingdom of heaven is near.”
-<small><sub>**Literal:**</sub></small>
-and saying; do repent; has drawn near for the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.1|<< Matthew 3:1]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.3|Matthew 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγων·]]  [[G3340\|μετανοεῖτε·]]  [[G1448\|ἤγγικεν]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.1|<< Matthew 3:1]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.3|Matthew 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

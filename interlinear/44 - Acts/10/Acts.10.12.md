@@ -1,10 +1,59 @@
+---
+title: Acts 10:12
+type: Verse
+kjv: "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+bsb: "It contained all kinds of four-footed animals and reptiles of the earth, as well as birds of the air."
+greek: "ἐν ᾧ ὑπῆρχεν πάντα τὰ τετράποδα καὶ τὰ θηρία καὶ τὰ ἑρπετὰ τῆς γῆς καὶ τὰ πετεινὰ τοῦ οὐρανοῦ."
+pericope: "[[Acts.10.9 Peter’s Vision|Peter’s Vision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G5225]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5074]]"
+- "[[G2532]]"
+- "[[G2342]]"
+- "[[G2062]]"
+- "[[G1093H]]"
+- "[[G4071]]"
+- "[[G3772]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 10:12**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
 <small><sub>**BSB:**</sub></small>
 It contained all kinds of four-footed animals and reptiles of the earth, as well as birds of the air.
-<small><sub>**Literal:**</sub></small>
-in which were all the quadrupeds and the beasts and the creeping things of the earth and <the> birds <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.11|<< Acts 10:11]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.13|Acts 10:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G5225\|ὑπῆρχεν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G5074\|τετράποδα]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2342\|θηρία]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2062\|ἑρπετὰ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4071\|πετεινὰ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic DREAM|DREAM]] • [[topic JOPPA|JOPPA]] • [[topic MISSIONS|MISSIONS]] • [[topic PARABLES|PARABLES]] • [[topic PETER|PETER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.11|<< Acts 10:11]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.13|Acts 10:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

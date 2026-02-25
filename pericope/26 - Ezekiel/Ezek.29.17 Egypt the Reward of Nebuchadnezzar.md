@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Egypt the Reward of Nebuchadnezzar
+type: Pericope
 pericope: "[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|Egypt the Reward of Nebuchadnezzar]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 29
 book/chapter: "[[Ezek.29|Ezekiel 29]]"
-genre:
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 5
 verses:
 - "[[Ezek.29.17]]"
 - "[[Ezek.29.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezek.29.21]]"
 ---
 
-[[Ezek.29|Ezekiel 29:17 - Ezekiel 29:21]]
+<small>[[Ezek.29|Ezekiel 29:17-21]]</small>
 *Egypt the Reward of Nebuchadnezzar*
 
 [[Ezek.29.17|17]] And it came to pass in the seven and twentieth year, in the first \[month\], in the first \[day\] of the month, the word of the LORD came unto me, saying,

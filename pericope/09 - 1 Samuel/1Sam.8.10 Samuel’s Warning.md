@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel’s Warning
+type: Pericope
 pericope: "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 8
 book/chapter: "[[1Sam.8|1 Samuel 8]]"
-genre:
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[1Sam.8.10]]"
 - "[[1Sam.8.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Sam.8.18]]"
 ---
 
-[[1Sam.8|1 Samuel 8:10 - 1 Samuel 8:18]]
+<small>[[1Sam.8|1 Samuel 8:10-18]]</small>
 *Samuel’s Warning*
 
 [[1Sam.8.10|10]] And Samuel told all the words of the LORD unto the people that asked of him a king.

@@ -1,8 +1,61 @@
+---
+title: Numbers 34:29
+type: Verse
+kjv: "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan."
+bsb: "These are the ones whom the LORD commanded to apportion the inheritance to the Israelites in the land of Canaan."
+hebrew: "אֵ֕לֶּה אֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה לְנַחֵ֥ל אֶת־ בְּנֵֽי־ יִשְׂרָאֵ֖ל בְּאֶ֥רֶץ כְּנָֽעַן׃ פ"
+pericope: "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 34:29**<big><big>[[Num.34.16 Leaders to Divide the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are they] whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
 These are the ones whom the LORD commanded to apportion the inheritance to the Israelites in the land of Canaan.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֕לֶּה]] [[H0834A\|אֲשֶׁ֖ר]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לְ]][[H5157\|נַחֵ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.28|<< Numbers 34:28]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.1|Numbers 35:1 >>]]</td></tr></table>
 
@@ -17,7 +70,7 @@ These are the ones whom the LORD commanded to apportion the inheritance to the I
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Canaan  |**<big>&#8207;[[H3667A\|כְּנָֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנָֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.28|<< Numbers 34:28]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.1|Numbers 35:1 >>]]</td></tr></table>
 
 

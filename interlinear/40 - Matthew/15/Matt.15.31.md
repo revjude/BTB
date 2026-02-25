@@ -1,10 +1,62 @@
+---
+title: Matthew 15:31
+type: Verse
+kjv: "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel."
+bsb: "The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel."
+greek: "ὥστε τὸν ὄχλον θαυμάσαι βλέποντας κωφοὺς λαλοῦντας, κυλλοὺς ὑγιεῖς, καὶ χωλοὺς περιπατοῦντας, καὶ τυφλοὺς βλέποντας. καὶ ἐδόξασαν τὸν θεὸν Ἰσραήλ.¶"
+pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMENESS|LAMENESS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G2296]]"
+- "[[G0991]]"
+- "[[G2974]]"
+- "[[G2980]]"
+- "[[G2948]]"
+- "[[G5199]]"
+- "[[G2532]]"
+- "[[G5560]]"
+- "[[G4043]]"
+- "[[G5185]]"
+- "[[G1392]]"
+- "[[G2316]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Matthew 15:31**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.
 <small><sub>**BSB:**</sub></small>
 The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing. And they glorified the God of Israel.
-<small><sub>**Literal:**</sub></small>
-so that the crowd to marvel seeing mute speaking, crippled restored, and lame walking, and blind seeing. and they glorified the God of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.30|<< Matthew 15:30]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.32|Matthew 15:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2296\|θαυμάσαι]]  [[G0991\|βλέποντας]]  [[G2974\|κωφοὺς]]  [[G2980\|λαλοῦντας,]]  [[G2948\|κυλλοὺς]]  [[G5199\|ὑγιεῖς,]]  [[G2532\|καὶ]]  [[G5560\|χωλοὺς]]  [[G4043\|περιπατοῦντας,]]  [[G2532\|καὶ]]  [[G5185\|τυφλοὺς]]  [[G0991\|βλέποντας.]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξασαν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic GALILEE|GALILEE]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMENESS|LAMENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.30|<< Matthew 15:30]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.32|Matthew 15:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

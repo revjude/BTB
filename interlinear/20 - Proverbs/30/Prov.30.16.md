@@ -1,8 +1,54 @@
+---
+title: Proverbs 30:16
+type: Verse
+kjv: "The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough."
+bsb: "Sheol, the barren womb, land never satisfied with water, and fire that never says, ‘Enough!’"
+hebrew: "שְׁאוֹל֮ וְעֹ֪צֶ֫ר רָ֥חַם אֶ֭רֶץ לֹא־ שָׂ֣בְעָה מַּ֑יִם וְ֝אֵ֗שׁ לֹא־ אָ֥מְרָה הֽוֹן׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HELL|HELL]]"
+- "[[topic RIDDLE|RIDDLE]]"
+strongs:
+- "[[H7585]]"
+- "[[H9002]]"
+- "[[H6115]]"
+- "[[H7356A]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7646]]"
+- "[[H4325G]]"
+- "[[H0784]]"
+- "[[H0559]]"
+- "[[H1952]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:16**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The grave; and the barren womb; the earth [that] is not filled with water; and the fire [that] saith not, [It is] enough.
 <small><sub>**BSB:**</sub></small>
 Sheol, the barren womb, land never satisfied with water, and fire that never says, ‘Enough!’
+<small><sub>**Hebrew:**</sub></small>
+[[H7585\|שְׁאוֹל֮]] [[H9002\|וְ]][[H6115\|עֹ֪צֶ֫ר]] [[H7356A\|רָ֥חַם]] [[H0776G\|אֶ֭רֶץ]] [[H3808\|לֹא]][[H9014\|־]] [[H7646\|שָׂ֣בְעָה]] [[H4325G\|מַּ֑יִם]] [[H9002\|וְ֝]][[H0784\|אֵ֗שׁ]] [[H3808\|לֹא]][[H9014\|־]] [[H0559\|אָ֥מְרָה]] [[H1952\|הֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELL|HELL]] • [[topic RIDDLE|RIDDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.15|<< Proverbs 30:15]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.17|Proverbs 30:17 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Ezekiel 40:18
+type: Verse
+kjv: "And the pavement by the side of the gates over against the length of the gates was the lower pavement."
+bsb: "which flanked the gateways and corresponded to the length of the gates; this was the lower pavement."
+hebrew: "וְהָרִֽצְפָה֙ אֶל־ כֶּ֣תֶף הַשְּׁעָרִ֔ים לְעֻמַּ֖ת אֹ֣רֶךְ הַשְּׁעָרִ֑ים הָרִֽצְפָ֖ה הַתַּחְתּוֹנָֽה׃"
+pericope: "[[Ezek.40.17 The Outer Court|The Outer Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7531A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H8179G]]"
+- "[[H9005]]"
+- "[[H5980]]"
+- "[[H0753]]"
+- "[[H8481H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:18**<big><big>[[Ezek.40.17 The Outer Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pavement by the side of the gates over against the length of the gates [was] the lower pavement.
 <small><sub>**BSB:**</sub></small>
 which flanked the gateways and corresponded to the length of the gates; this was the lower pavement.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H7531A\|רִֽצְפָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כֶּ֣תֶף]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֔ים]] [[H9005\|לְ]][[H5980\|עֻמַּ֖ת]] [[H0753\|אֹ֣רֶךְ]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֑ים]] [[H9009\|הָ]][[H7531A\|רִֽצְפָ֖ה]] [[H9009\|הַ]][[H8481H\|תַּחְתּוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.17|<< Ezekiel 40:17]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.19|Ezekiel 40:19 >>]]</td></tr></table>
 

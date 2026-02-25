@@ -1,8 +1,74 @@
+---
+title: Jeremiah 34:22
+type: Verse
+kjv: "Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant."
+bsb: "Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”"
+hebrew: "הִנְנִ֨י מְצַוֶּ֜ה נְאֻם־ יְהוָ֗ה וַהֲשִׁ֨בֹתִ֜ים אֶל־ הָעִ֤יר הַזֹּאת֙ וְנִלְחֲמ֣וּ עָלֶ֔יהָ וּלְכָד֖וּהָ וּשְׂרָפֻ֣הָ בָאֵ֑שׁ וְאֶת־ עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן שְׁמָמָ֖ה מֵאֵ֥ין יֹשֵֽׁב׃ פ"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6680]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3920]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H5414I]]"
+- "[[H8077A]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 34:22**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant.
 <small><sub>**BSB:**</sub></small>
 Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H6680\|מְצַוֶּ֜ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H7725G\|הֲשִׁ֨בֹתִ֜י]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֤יר]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9001\|וְ]][[H3898A\|נִלְחֲמ֣וּ]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וּ]][[H3920\|לְכָד֖וּ]][[H9034\|הָ]] [[H9001\|וּ]][[H8313\|שְׂרָפֻ֣]][[H9034\|הָ]] [[H9003\|בָ]][[H0784\|אֵ֑שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵ֧י]] [[H3063G\|יְהוּדָ֛ה]] [[H5414I\|אֶתֵּ֥ן]] [[H8077A\|שְׁמָמָ֖ה]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יֹשֵֽׁב]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
@@ -27,7 +93,7 @@ Behold, I am going to give the command, declares the LORD, and I will bring them
 | I will make  |**<big>&#8207;[[H5414I\|אֶתֵּ֥ן]]&#8207; </big>**| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a waste  |**<big>&#8207;[[H8077A\|שְׁמָמָ֖ה]]&#8207; </big>**| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from not  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inhabitant  |**<big>&#8207;[[H3427\|יֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inhabitant  |**<big>&#8207;[[H3427\|יֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
 

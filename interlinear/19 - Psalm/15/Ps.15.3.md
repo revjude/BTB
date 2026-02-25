@@ -1,8 +1,67 @@
+---
+title: Psalm 15:3
+type: Verse
+kjv: "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+bsb: "who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,"
+hebrew: "לֹֽא־ רָגַ֨ל׀ עַל־ לְשֹׁנ֗וֹ לֹא־ עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא־ נָשָׂ֥א עַל־ קְרֹֽבוֹ׃"
+pericope: "[[Ps.15.1 Who May Dwell on Your Holy Mountain？|Who May Dwell on Your Holy Mountain？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 15
+book/chapter: "[[Ps.15|Psalm 15]]"
+chronological_order: 349
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKBITING|BACKBITING]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TALEBEARER|TALEBEARER]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7270]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H3956G]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H2781]]"
+- "[[H5375N]]"
+- "[[H7138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 15:3**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that] backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.
 <small><sub>**BSB:**</sub></small>
 who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7270\|רָגַ֨ל]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H3956G\|לְשֹׁנ֗]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H9005\|לְ]][[H7453\|רֵעֵ֣]][[H9023\|הוּ]] [[H7451I\|רָעָ֑ה]] [[H9002\|וְ֝]][[H2781\|חֶרְפָּ֗ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5375N\|נָשָׂ֥א]] [[H5921A\|עַל]][[H9014\|־]] [[H7138\|קְרֹֽב]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKBITING|BACKBITING]] • [[topic HOLINESS|HOLINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic TALEBEARER|TALEBEARER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.2|<< Psalms 15:2]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.4|Psalms 15:4 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Romans 8:10
+type: Verse
+kjv: "And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness."
+bsb: "But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness."
+greek: "εἰ δὲ Χριστὸς ἐν ὑμῖν, τὸ μὲν σῶμα νεκρὸν διὰ ἁμαρτίαν τὸ δὲ πνεῦμα ζωὴ διὰ δικαιοσύνην."
+pericope: "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G4983]]"
+- "[[G3498]]"
+- "[[G1223]]"
+- "[[G0266]]"
+- "[[G4151G]]"
+- "[[G2222]]"
+- "[[G1343]]"
+texts:
+- NKO
+---
+
 **Romans 8:10**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if Christ [be] in you, the body [is] dead because of sin; but the Spirit [is] life because of righteousness.
 <small><sub>**BSB:**</sub></small>
 But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.
-<small><sub>**Literal:**</sub></small>
-If now Christ [is] in you, the indeed body [is] dead on account of sin the however Spirit [is] life on account of righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.9|<< Romans 8:9]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.11|Romans 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G5547\|Χριστὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3588\|τὸ]]  [[G3303\|μὲν]]  [[G4983\|σῶμα]]  [[G3498\|νεκρὸν]]  [[G1223\|διὰ]]  [[G0266\|ἁμαρτίαν]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G4151G\|πνεῦμα]]  [[G2222\|ζωὴ]]  [[G1223\|διὰ]]  [[G1343\|δικαιοσύνην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LIFE|LIFE]] • [[topic RELIGION|RELIGION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.9|<< Romans 8:9]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.11|Romans 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

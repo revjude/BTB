@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gideon Destroys Baal’s Altar
+type: Pericope
 pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 6
 book/chapter: "[[Judg.6|Judges 6]]"
-genre:
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.6.25]]"
 - "[[Judg.6.26]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.6.32]]"
 ---
 
-[[Judg.6|Judges 6:25 - Judges 6:32]]
+<small>[[Judg.6|Judges 6:25-32]]</small>
 *Gideon Destroys Baal’s Altar*
 
 [[Judg.6.25|25]] And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that \[is\] by it:

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amnon and Tamar
+type: Pericope
 pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 13
 book/chapter: "[[2Sam.13|2 Samuel 13]]"
-genre:
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 22
 verses:
 - "[[2Sam.13.1]]"
 - "[[2Sam.13.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[2Sam.13.22]]"
 ---
 
-[[2Sam.13|2 Samuel 13:1 - 2 Samuel 13:22]]
+<small>[[2Sam.13|2 Samuel 13:1-22]]</small>
 *Amnon and Tamar*
 
 [[2Sam.13.1|1]] And it came to pass after this, that Absalom the son of David had a fair sister, whose name \[was\] Tamar; and Amnon the son of David loved her.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sing to the LORD, All the Earth
+type: Pericope
 pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 16
 book/chapter: "[[1Chr.16|1 Chronicles 16]]"
-genre:
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 14
 verses:
 - "[[1Chr.16.23]]"
 - "[[1Chr.16.24]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Chr.16.36]]"
 ---
 
-[[1Chr.16|1 Chronicles 16:23 - 1 Chronicles 16:36]]
+<small>[[1Chr.16|1 Chronicles 16:23-36]]</small>
 *Sing to the LORD, All the Earth*
 
 [[1Chr.16.23|23]] Sing unto the LORD, all the earth; shew forth from day to day his salvation.

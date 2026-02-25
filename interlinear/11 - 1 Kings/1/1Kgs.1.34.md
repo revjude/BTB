@@ -1,8 +1,73 @@
+---
+title: 1 Kings 1:34
+type: Verse
+kjv: "And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon."
+bsb: "There Zadok the priest and Nathan the prophet are to anoint him king over Israel. You are to blow the ram’s horn and declare, ‘Long live King Solomon!’"
+hebrew: "וּמָשַׁ֣ח אֹת֣וֹ שָׁ֠ם צָד֨וֹק הַכֹּהֵ֜ן וְנָתָ֧ן הַנָּבִ֛יא לְמֶ֖לֶךְ עַל־ יִשְׂרָאֵ֑ל וּתְקַעְתֶּם֙ בַּשּׁוֹפָ֔ר וַאֲמַרְתֶּ֕ם יְחִ֖י הַמֶּ֥לֶךְ שְׁלֹמֹֽה׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H6659G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H2421]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:34**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon.
 <small><sub>**BSB:**</sub></small>
 There Zadok the priest and Nathan the prophet are to anoint him king over Israel. You are to blow the ram’s horn and declare, ‘Long live King Solomon!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4886\|מָשַׁ֣ח]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H8033G\|שָׁ֠ם]] [[H6659G\|צָד֨וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9002\|וְ]][[H5416H\|נָתָ֧ן]] [[H9009\|הַ]][[H5030\|נָּבִ֛יא]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וּ]][[H8628\|תְקַעְתֶּם֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֔ר]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֕ם]] [[H2421\|יְחִ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ISRAEL|ISRAEL]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic TRUMPET|TRUMPET]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.33|<< 1 Kings 1:33]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.35|1 Kings 1:35 >>]]</td></tr></table>
 

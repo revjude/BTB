@@ -1,8 +1,70 @@
+---
+title: Ezekiel 20:27
+type: Verse
+kjv: "Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me."
+bsb: "Therefore, son of man, speak to the house of Israel, and tell them that this is what the Lord GOD says: In this way also your fathers blasphemed Me by their unfaithfulness against Me."
+hebrew: "לָכֵ֞ן דַּבֵּ֨ר אֶל־ בֵּ֤ית יִשְׂרָאֵל֙ בֶּן־ אָדָ֔ם וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה ע֗וֹד זֹ֚את גִּדְּפ֤וּ אוֹתִי֙ אֲב֣וֹתֵיכֶ֔ם בְּמַעֲלָ֥ם בִּ֖י מָֽעַל׃"
+pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5750]]"
+- "[[H2063]]"
+- "[[H1442]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H4603]]"
+- "[[H9048]]"
+- "[[H4604]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:27**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.
 <small><sub>**BSB:**</sub></small>
 Therefore, son of man, speak to the house of Israel, and tell them that this is what the Lord GOD says: In this way also your fathers blasphemed Me by their unfaithfulness against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H1696G\|דַּבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֤ית]] [[H3478\|יִשְׂרָאֵל֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H5750\|ע֗וֹד]] [[H2063\|זֹ֚את]] [[H1442\|גִּדְּפ֤וּ]] [[H0853\|אוֹתִ]][[H9030\|י֙]] [[H0001G\|אֲב֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H4603\|מַעֲלָ֥]][[H9048\|ם]] [[H9003\|בִּ֖]][[H9030\|י]] [[H4604\|מָֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.26|<< Ezekiel 20:26]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.28|Ezekiel 20:28 >>]]</td></tr></table>
 

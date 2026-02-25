@@ -1,8 +1,67 @@
+---
+title: Ezekiel 10:6
+type: Verse
+kjv: "And it came to pass, that when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubims; then he went in, and stood beside the wheels."
+bsb: "When the LORD commanded the man clothed in linen, saying, “Take fire from within the wheelwork, from among the cherubim,” the man went in and stood beside a wheel."
+hebrew: "וַיְהִ֗י בְּצַוֹּתוֹ֙ אֶת־ הָאִ֤ישׁ לְבֻֽשׁ־ הַבַּדִּים֙ לֵאמֹ֔ר קַ֥ח אֵשׁ֙ מִבֵּינ֣וֹת לַגַּלְגַּ֔ל מִבֵּינ֖וֹת לַכְּרוּבִ֑ים וַיָּבֹא֙ וַֽיַּעֲמֹ֔ד אֵ֖צֶל הָאוֹפָֽן׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6680]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H3847]]"
+- "[[H0906]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3947G]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H0996G]]"
+- "[[H1534]]"
+- "[[H3742]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H0681]]"
+- "[[H0212]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:6**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubims; then he went in, and stood beside the wheels.
 <small><sub>**BSB:**</sub></small>
 When the LORD commanded the man clothed in linen, saying, “Take fire from within the wheelwork, from among the cherubim,” the man went in and stood beside a wheel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H6680\|צַוֹּת]][[H9043\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H3847\|לְבֻֽשׁ]][[H9014\|־]] [[H9009\|הַ]][[H0906\|בַּדִּים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3947G\|קַ֥ח]] [[H0784\|אֵשׁ֙]] [[H9006\|מִ]][[H0996G\|בֵּינ֣וֹת]] [[H9005\|לַ]][[H1534\|גַּלְגַּ֔ל]] [[H9006\|מִ]][[H0996G\|בֵּינ֖וֹת]] [[H9005\|לַ]][[H3742\|כְּרוּבִ֑ים]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֔ד]] [[H0681\|אֵ֖צֶל]] [[H9009\|הָ]][[H0212\|אוֹפָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.5|<< Ezekiel 10:5]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.7|Ezekiel 10:7 >>]]</td></tr></table>
 

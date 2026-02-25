@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Confirms His Promise
+type: Pericope
 pericope: "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 15
 book/chapter: "[[Gen.15|Genesis 15]]"
-genre:
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.15.8]]"
 - "[[Gen.15.9]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.15.21]]"
 ---
 
-[[Gen.15|Genesis 15:8 - Genesis 15:21]]
+<small>[[Gen.15|Genesis 15:8-21]]</small>
 *God Confirms His Promise*
 
 [[Gen.15.8|8]] And he said, Lord GOD, whereby shall I know that I shall inherit it?

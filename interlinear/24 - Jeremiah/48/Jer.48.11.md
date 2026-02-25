@@ -1,8 +1,70 @@
+---
+title: Jeremiah 48:11
+type: Verse
+kjv: "Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed."
+bsb: "Moab has been at ease from youth, settled like wine on its dregs; he has not been poured from vessel to vessel or gone into exile. So his flavor has remained the same, and his aroma is unchanged."
+hebrew: "שַׁאֲנַ֨ן מוֹאָ֜ב מִנְּעוּרָ֗יו וְשֹׁקֵ֥ט הוּא֙ אֶל־ שְׁמָרָ֔יו וְלֹֽא־ הוּרַ֤ק מִכְּלִי֙ אֶל־ כֶּ֔לִי וּבַגּוֹלָ֖ה לֹ֣א הָלָ֑ךְ עַל־ כֵּ֗ן עָמַ֤ד טַעְמוֹ֙ בּ֔וֹ וְרֵיח֖וֹ לֹ֥א נָמָֽר׃ ס"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic LEES|LEES]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H7599]]"
+- "[[H4124G]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8252]]"
+- "[[H1931]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8105]]"
+- "[[H3808]]"
+- "[[H7324]]"
+- "[[H3627]]"
+- "[[H9003]]"
+- "[[H1473]]"
+- "[[H1980G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H5975G]]"
+- "[[H2940]]"
+- "[[H9033]]"
+- "[[H7381]]"
+- "[[H4171]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 48:11**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.
 <small><sub>**BSB:**</sub></small>
 Moab has been at ease from youth, settled like wine on its dregs; he has not been poured from vessel to vessel or gone into exile. So his flavor has remained the same, and his aroma is unchanged.
+<small><sub>**Hebrew:**</sub></small>
+[[H7599\|שַׁאֲנַ֨ן]] [[H4124G\|מוֹאָ֜ב]] [[H9006\|מִ]][[H5271A\|נְּעוּרָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H8252\|שֹׁקֵ֥ט]] [[H1931\|הוּא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8105\|שְׁמָרָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7324\|הוּרַ֤ק]] [[H9006\|מִ]][[H3627\|כְּלִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3627\|כֶּ֔לִי]] [[H9002\|וּ]][[H9003\|בַ]][[H1473\|גּוֹלָ֖ה]] [[H3808\|לֹ֣א]] [[H1980G\|הָלָ֑ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H5975G\|עָמַ֤ד]] [[H2940\|טַעְמ]][[H9023\|וֹ֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H7381\|רֵיח֖]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H4171\|נָמָֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic LEES|LEES]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
@@ -30,7 +92,7 @@ Moab has been at ease from youth, settled like wine on its dregs; he has not bee
 | in \<the> it  |**<big>&#8207;[[H9003\|בּ֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and aroma its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7381\|רֵיח֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> rei.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has been changed  |**<big>&#8207;[[H4171\|נָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| na.Mar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has been changed  |**<big>&#8207;[[H4171\|נָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| na.Mar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
 

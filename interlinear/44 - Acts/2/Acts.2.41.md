@@ -1,10 +1,65 @@
+---
+title: Acts 2:41
+type: Verse
+kjv: "Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls."
+bsb: "Those who embraced his message were baptized, and about three thousand were added to the believers that day."
+greek: "οἱ μὲν οὖν ἀσμένως ἀποδεξάμενοι τὸν λόγον αὐτοῦ ἐβαπτίσθησαν καὶ προσετέθησαν ἐν τῇ ἡμέρᾳ ἐκείνῃ ψυχαὶ ὡσεὶ τρισχίλιαι.¶"
+pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G0780]]"
+- "[[G0588]]"
+- "[[G3056]]"
+- "[[G0846]]"
+- "[[G0907]]"
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G5590J]]"
+- "[[G5616]]"
+- "[[G5153]]"
+texts:
+- NKO
+- K
+- no
+---
+
 **Acts 2:41**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they that gladly received his word were baptized: and the same day there were added [unto them] about three thousand souls.
 <small><sub>**BSB:**</sub></small>
 Those who embraced his message were baptized, and about three thousand were added to the believers that day.
-<small><sub>**Literal:**</sub></small>
-Those indeed therefore gladly having received the word of him were baptized and were added on the day that souls about three thousand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.40|<< Acts 2:40]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.42|Acts 2:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G0780\|ἀσμένως]]  [[G0588\|ἀποδεξάμενοι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0846\|αὐτοῦ]]  [[G0907\|ἐβαπτίσθησαν]]  [[G2532\|καὶ]]  [[G4369\|προσετέθησαν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1565\|ἐκείνῃ]]  [[G5590J\|ψυχαὶ]]  [[G5616\|ὡσεὶ]]  [[G5153\|τρισχίλιαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CHURCH|CHURCH]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ORATOR|ORATOR]] • [[topic PREACHING|PREACHING]] • [[topic REVIVALS|REVIVALS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.40|<< Acts 2:40]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.42|Acts 2:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

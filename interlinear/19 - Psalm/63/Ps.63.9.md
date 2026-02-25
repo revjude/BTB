@@ -1,8 +1,52 @@
+---
+title: Psalm 63:9
+type: Verse
+kjv: "But those that seek my soul, to destroy it, shall go into the lower parts of the earth."
+bsb: "But those who seek my life to destroy it will go into the depths of the earth."
+hebrew: "וְהֵ֗מָּה לְ֭שׁוֹאָה יְבַקְשׁ֣וּ נַפְשִׁ֑י יָ֝בֹ֗אוּ בְּֽתַחְתִּיּ֥וֹת הָאָֽרֶץ׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H7722B]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8482]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:9**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But those [that] seek my soul, to destroy [it], shall go into the lower parts of the earth.
 <small><sub>**BSB:**</sub></small>
 But those who seek my life to destroy it will go into the depths of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֗מָּה]] [[H9005\|לְ֭]][[H7722B\|שׁוֹאָה]] [[H1245\|יְבַקְשׁ֣וּ]] [[H5315H\|נַפְשִׁ֑]][[H9020\|י]] [[H0935G\|יָ֝בֹ֗אוּ]] [[H9003\|בְּֽ]][[H8482\|תַחְתִּיּ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.8|<< Psalms 63:8]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.10|Psalms 63:10 >>]]</td></tr></table>
 

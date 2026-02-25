@@ -1,8 +1,68 @@
+---
+title: Exodus 10:8
+type: Verse
+kjv: "And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: but who are they that shall go?"
+bsb: "So Moses and Aaron were brought back to Pharaoh. “Go, worship the LORD your God,” he said. “But who exactly will be going?”"
+hebrew: "וַיּוּשַׁ֞ב אֶת־ מֹשֶׁ֤ה וְאֶֽת־ אַהֲרֹן֙ אֶל־ פַּרְעֹ֔ה וַיֹּ֣אמֶר אֲלֵהֶ֔ם לְכ֥וּ עִבְד֖וּ אֶת־ יְהוָ֣ה אֱלֹהֵיכֶ֑ם מִ֥י וָמִ֖י הַהֹלְכִֽים׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H6547J]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H5647H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H4310]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:8**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: [but] who [are] they that shall go?
 <small><sub>**BSB:**</sub></small>
 So Moses and Aaron were brought back to Pharaoh. “Go, worship the LORD your God,” he said. “But who exactly will be going?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יּוּשַׁ֞ב]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H1980G\|לְכ֥וּ]] [[H5647H\|עִבְד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H4310\|מִ֥י]] [[H9002\|וָ]][[H4310\|מִ֖י]] [[H9009\|הַ]][[H1980G\|הֹלְכִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.7|<< Exodus 10:7]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.9|Exodus 10:9 >>]]</td></tr></table>
 

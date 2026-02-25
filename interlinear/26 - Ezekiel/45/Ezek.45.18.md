@@ -1,8 +1,64 @@
+---
+title: Ezekiel 45:18
+type: Verse
+kjv: "Thus saith the Lord GOD; In the first month, in the first day of the month, thou shalt take a young bullock without blemish, and cleanse the sanctuary:"
+bsb: "This is what the Lord GOD says: ‘On the first day of the first month you are to take a young bull without blemish and purify the sanctuary."
+hebrew: "כֹּה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ תִּקַּ֥ח פַּר־ בֶּן־ בָּקָ֖ר תָּמִ֑ים וְחִטֵּאתָ֖ אֶת־ הַמִּקְדָּֽשׁ׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H3947G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H8549G]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4720]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:18**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; In the first [month], in the first [day] of the month, thou shalt take a young bullock without blemish, and cleanse the sanctuary:
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘On the first day of the first month you are to take a young bull without blemish and purify the sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H9003\|בָּֽ]][[H7223G\|רִאשׁוֹן֙]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H3947G\|תִּקַּ֥ח]] [[H6499\|פַּר]][[H9014\|־]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֖ר]] [[H8549G\|תָּמִ֑ים]] [[H9001\|וְ]][[H2398\|חִטֵּאתָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4720\|מִּקְדָּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.17|<< Ezekiel 45:17]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.19|Ezekiel 45:19 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Numbers 11:19
+type: Verse
+kjv: "Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;"
+bsb: "You will eat it not for one or two days, nor for five or ten or twenty days,"
+hebrew: "לֹ֣א י֥וֹם אֶחָ֛ד תֹּאכְל֖וּן וְלֹ֣א יוֹמָ֑יִם וְלֹ֣א׀ חֲמִשָּׁ֣ה יָמִ֗ים וְלֹא֙ עֲשָׂרָ֣ה יָמִ֔ים וְלֹ֖א עֶשְׂרִ֥ים יֽוֹם׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H3808]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H0398]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H2568]]"
+- "[[H6235]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:19**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;
 <small><sub>**BSB:**</sub></small>
 You will eat it not for one or two days, nor for five or ten or twenty days,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H3117G\|י֥וֹם]] [[H0259\|אֶחָ֛ד]] [[H0398\|תֹּאכְל֖וּ]][[H9013\|ן]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3117G\|יוֹמָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹ֣א]][[H9015\|׀]] [[H2568\|חֲמִשָּׁ֣ה]] [[H3117G\|יָמִ֗ים]] [[H9002\|וְ]][[H3808\|לֹא֙]] [[H6235\|עֲשָׂרָ֣ה]] [[H3117G\|יָמִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H6242\|עֶשְׂרִ֥ים]] [[H3117G\|יֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSPIRATION|INSPIRATION]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SANITATION|SANITATION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.18|<< Numbers 11:18]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.20|Numbers 11:20 >>]]</td></tr></table>
 

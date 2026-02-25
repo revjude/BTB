@@ -1,10 +1,53 @@
+---
+title: John 7:44
+type: Verse
+kjv: "And some of them would have taken him; but no man laid hands on him."
+bsb: "Some of them wanted to seize Him, but no one laid a hand on Him."
+greek: "τινὲς δὲ ἤθελον ἐξ αὐτῶν πιάσαι αὐτόν, ἀλλ᾽ οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὰς χεῖρας.¶"
+pericope: "[[John.7.40 Division over Jesus|Division over Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G2309]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G4084]]"
+- "[[G0235]]"
+- "[[G3762]]"
+- "[[G1911]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5495]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 7:44**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some of them would have taken him; but no man laid hands on him.
 <small><sub>**BSB:**</sub></small>
 Some of them wanted to seize Him, but no one laid a hand on Him.
-<small><sub>**Literal:**</sub></small>
-Some now were desiring of them to seize Him, but no [one] laid on Him the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.43|<< John 7:43]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.45|John 7:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G2309\|ἤθελον]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G4084\|πιάσαι]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλ᾽]]  [[G3762\|οὐδεὶς]]  [[G1911\|ἐπέβαλεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.43|<< John 7:43]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.45|John 7:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

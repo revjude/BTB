@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Promise to Rahab
+type: Pericope
 pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 2
 book/chapter: "[[Josh.2|Joshua 2]]"
-genre:
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 17
 verses:
 - "[[Josh.2.8]]"
 - "[[Josh.2.9]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Josh.2.24]]"
 ---
 
-[[Josh.2|Joshua 2:8 - Joshua 2:24]]
+<small>[[Josh.2|Joshua 2:8-24]]</small>
 *The Promise to Rahab*
 
 [[Josh.2.8|8]] And before they were laid down, she came up unto them upon the roof;

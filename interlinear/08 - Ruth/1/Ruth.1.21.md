@@ -1,8 +1,60 @@
+---
+title: Ruth 1:21
+type: Verse
+kjv: "I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?"
+bsb: "I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”"
+hebrew: "אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נָעֳמִ֔י וַֽיהוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃"
+pericope: "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0589]]"
+- "[[H4392]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H7387]]"
+- "[[H7725G]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7121H]]"
+- "[[H5281]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H7706]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:21**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went out full, and the LORD hath brought me home again empty: why [then] call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?
 <small><sub>**BSB:**</sub></small>
 I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִי֙]] [[H4392\|מְלֵאָ֣ה]] [[H1980G\|הָלַ֔כְתִּי]] [[H9002\|וְ]][[H7387\|רֵיקָ֖ם]] [[H7725G\|הֱשִׁיבַ֣]][[H9030\|נִי]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H7121H\|תִקְרֶ֤אנָה]] [[H9005\|לִ]][[H9030\|י֙]] [[H5281\|נָעֳמִ֔י]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H6030B\|עָ֣נָה]] [[H9003\|בִ֔]][[H9030\|י]] [[H9002\|וְ]][[H7706\|שַׁדַּ֖י]] [[H7489A\|הֵ֥רַֽע]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.20|<< Ruth 1:20]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.22|Ruth 1:22 >>]]</td></tr></table>
 

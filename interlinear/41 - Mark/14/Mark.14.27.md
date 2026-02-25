@@ -1,10 +1,66 @@
+---
+title: Mark 14:27
+type: Verse
+kjv: "And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered."
+bsb: "Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’"
+jesus_said: "All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered."
+greek: "Καὶ λέγει αὐτοῖς ὁ Ἰησοῦς ὅτι πάντες σκανδαλισθήσεσθε ἐν ἐμοὶ ἐν τῇ νυκτὶ ταύτῃ, ὅτι γέγραπται· πατάξω τὸν ποιμένα, καὶ τὰ πρόβατα διασκορπισθήσονται."
+pericope: "[[Mark.14.27 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G4624]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3571]]"
+- "[[G3778]]"
+- "[[G3754H]]"
+- "[[G1125]]"
+- "[[G3960]]"
+- "[[G4166]]"
+- "[[G4263]]"
+- "[[G1287]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Mark 14:27**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’
-<small><sub>**Literal:**</sub></small>
-And says to them <the> Jesus that All you will fall away in to me myself in <the> night this for it has been written: I will strike the shepherd, and the sheep will be scattered.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.26|<< Mark 14:26]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.28|Mark 14:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G3956\|πάντες]]  [[G4624\|σκανδαλισθήσεσθε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G3778\|ταύτῃ,]]  [[G3754H\|ὅτι]]  [[G1125\|γέγραπται·]]  [[G3960\|πατάξω]]  [[G3588\|τὸν]]  [[G4166\|ποιμένα,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα]]  [[G1287\|διασκορπισθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.26|<< Mark 14:26]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.28|Mark 14:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 14:27** is...
 > $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]

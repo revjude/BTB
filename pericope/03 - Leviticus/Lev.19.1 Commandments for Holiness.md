@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Commandments for Holiness
+type: Pericope
 pericope: "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 19
 book/chapter: "[[Lev.19|Leviticus 19]]"
-genre:
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 8
 verses:
 - "[[Lev.19.1]]"
 - "[[Lev.19.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Lev.19.8]]"
 ---
 
-[[Lev.19|Leviticus 19:1 - Leviticus 19:8]]
+<small>[[Lev.19|Leviticus 19:1-8]]</small>
 *Commandments for Holiness*
 
 [[Lev.19.1|1]] And the LORD spake unto Moses, saying,

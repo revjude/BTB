@@ -1,10 +1,64 @@
+---
+title: 2 Corinthians 8:19
+type: Verse
+kjv: "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:"
+bsb: "More than that, this brother was chosen by the churches to accompany us with the gracious offering we administer to honor the Lord Himself and to show our eagerness to help."
+greek: "οὐ μόνον δέ, ἀλλὰ καὶ χειροτονηθεὶς ὑπὸ τῶν ἐκκλησιῶν συνέκδημος ἡμῶν σὺν τῇ χάριτι ταύτῃ τῇ διακονουμένῃ ὑφ᾽ ἡμῶν πρὸς τὴν αὐτοῦ τοῦ κυρίου δόξαν καὶ προθυμίαν ἡμῶν."
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G5500]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G4898]]"
+- "[[G3165]]"
+- "[[G4862]]"
+- "[[G5485]]"
+- "[[G3778]]"
+- "[[G1247]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G1391]]"
+- "[[G4288]]"
+texts:
+- NKO
+- NK(o)
+- N(K)O
+---
+
 **2 Corinthians 8:19**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not [that] only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and [declaration of] your ready mind:
 <small><sub>**BSB:**</sub></small>
 More than that, this brother was chosen by the churches to accompany us with the gracious offering we administer to honor the Lord Himself and to show our eagerness to help.
-<small><sub>**Literal:**</sub></small>
-not only now, but also having been chosen by the churches fellow traveler of us with <the> grace this that [is] being administered by us toward the himself of the Lord glory and readiness of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.18|<< 2 Corinthians 8:18]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.20|2 Corinthians 8:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δέ,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G5500\|χειροτονηθεὶς]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G1577\|ἐκκλησιῶν]]  [[G4898\|συνέκδημος]]  [[G3165\|ἡμῶν]]  [[G4862\|σὺν]]  [[G3588\|τῇ]]  [[G5485\|χάριτι]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G1247\|διακονουμένῃ]]  [[G5259G\|ὑφ᾽]]  [[G3165\|ἡμῶν]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G4288\|προθυμίαν]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.18|<< 2 Corinthians 8:18]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.20|2 Corinthians 8:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: 1 John 4:20
+type: Verse
+kjv: "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?"
+bsb: "If anyone says, “I love God,” but hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen."
+greek: "ἐάν τις εἴπῃ ὅτι ἀγαπῶ τὸν θεὸν καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν· ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν·"
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HATRED|HATRED]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G3404]]"
+- "[[G5583]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3361]]"
+- "[[G3739]]"
+- "[[G3708]]"
+- "[[G3756]]"
+- "[[G1410]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 John 4:20**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?
 <small><sub>**BSB:**</sub></small>
 If anyone says, “I love God,” but hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen.
-<small><sub>**Literal:**</sub></small>
-If anyone shall say that I love <the> God and the brother of him may hate, a liar he is; The [one] for not loving the brother of him whom he has seen, <the> God whom not he has seen not is he able to love;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.19|<< 1 John 4:19]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.21|1 John 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐάν]]  [[G5100\|τις]]  [[G2036\|εἴπῃ]]  [[G3754G\|ὅτι]]  [[G0025\|ἀγαπῶ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G3404\|μισῇ,]]  [[G5583\|ψεύστης]]  [[G1510\|ἐστίν·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3361\|μὴ]]  [[G0025\|ἀγαπῶν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G3739\|ὃν]]  [[G3708\|ἑώρακεν,]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3739\|ὃν]]  [[G3756\|οὐχ]]  [[G3708\|ἑώρακεν]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G0025\|ἀγαπᾶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HATRED|HATRED]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LOVE|LOVE]] • [[topic MALICE|MALICE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.19|<< 1 John 4:19]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.21|1 John 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: 2 Kings 3:24
+type: Verse
+kjv: "And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country."
+bsb: "But when the Moabites came to the camp of Israel, the Israelites rose up and attacked them, and they fled before them. So the Israelites invaded their land and struck down the Moabites."
+hebrew: "וַיָּבֹאוּ֮ אֶל־ מַחֲנֵ֣ה יִשְׂרָאֵל֒ וַיָּקֻ֤מוּ יִשְׂרָאֵל֙ וַיַּכּ֣וּ אֶת־ מוֹאָ֔ב וַיָּנֻ֖סוּ מִפְּנֵיהֶ֑ם וַיַּכּוּ בָ֔הּ וְהַכּ֖וֹת אֶת־ מוֹאָֽב׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H3478]]"
+- "[[H6965B]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H4124G]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 3:24**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in [their] country.
 <small><sub>**BSB:**</sub></small>
 But when the Moabites came to the camp of Israel, the Israelites rose up and attacked them, and they fled before them. So the Israelites invaded their land and struck down the Moabites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹאוּ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַ]][[H6965B\|יָּקֻ֤מוּ]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H5221\|יַּכּ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַ]][[H5127\|יָּנֻ֖סוּ]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H5221\|יַּכּוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H5221\|הַכּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.23|<< 2 Kings 3:23]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.25|2 Kings 3:25 >>]]</td></tr></table>
 
@@ -26,7 +77,7 @@ But when the Moabites came to the camp of Israel, the Israelites rose up and att
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.23|<< 2 Kings 3:23]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.25|2 Kings 3:25 >>]]</td></tr></table>
 
-[^1]: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they went  | **<big>[[H9001|וַ]]</big><big>[[H0935G|יָּבוֹ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they went  | **<big>[[H9001|וַ]]</big><big>[[H0935G|יָּבוֹ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיַּבּוּ\־</big></span>**
 

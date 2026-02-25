@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.49 Joshua’s Inheritance|Joshua’s Inheritance]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 3
 verses:
 - "[[Josh.19.49]]"
 - "[[Josh.19.50]]"
 - "[[Josh.19.51]]"
 ---
 
-[[Josh.19|Joshua 19:49 - Joshua 19:51]]
+<small>[[Josh.19|Joshua 19:49-51]]</small>
 *Joshua’s Inheritance*
 
 [[Josh.19.49|49]] When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:

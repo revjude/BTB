@@ -1,8 +1,61 @@
+---
+title: 1 Kings 6:5
+type: Verse
+kjv: "And against the wall of the house he built chambers round about, against the walls of the house round about, both of the temple and of the oracle: and he made chambers round about:"
+bsb: "Against the walls of the temple and the inner sanctuary, Solomon built a chambered structure around the temple, in which he constructed the side rooms."
+hebrew: "וַיִּבֶן֩ עַל־ קִ֨יר הַבַּ֤יִת יָצִ֙יעַ֙ סָבִ֔יב אֶת־ קִיר֤וֹת הַבַּ֙יִת֙ סָבִ֔יב לַֽהֵיכָ֖ל וְלַדְּבִ֑יר וַיַּ֥עַשׂ צְלָע֖וֹת סָבִֽיב׃"
+pericope: "[[1Kgs.6.5 The Chambers|The Chambers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ORACLE|ORACLE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7023]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H3326B]]"
+- "[[H5439G]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H1964I]]"
+- "[[H9002]]"
+- "[[H1687]]"
+- "[[H6213H]]"
+- "[[H6763]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 6:5**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And against the wall of the house he built chambers round about, [against] the walls of the house round about, [both] of the temple and of the oracle: and he made chambers round about:
 <small><sub>**BSB:**</sub></small>
 Against the walls of the temple and the inner sanctuary, Solomon built a chambered structure around the temple, in which he constructed the side rooms.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H5921A\|עַל]][[H9014\|־]] [[H7023\|קִ֨יר]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H3326B\|יָצִ֙יעַ֙]] [[H5439G\|סָבִ֔יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7023\|קִיר֤וֹת]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H5439G\|סָבִ֔יב]] [[H9005\|לַֽ]][[H1964I\|הֵיכָ֖ל]] [[H9002\|וְ]][[H9005\|לַ]][[H1687\|דְּבִ֑יר]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H6763\|צְלָע֖וֹת]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORACLE|ORACLE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.4|<< 1 Kings 6:4]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.6|1 Kings 6:6 >>]]</td></tr></table>
 

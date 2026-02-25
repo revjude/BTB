@@ -1,8 +1,60 @@
+---
+title: Jeremiah 3:23
+type: Verse
+kjv: "Truly in vain is salvation hoped for from the hills, and from the multitude of mountains: truly in the LORD our God is the salvation of Israel."
+bsb: "Surely deception comes from the hills, and commotion from the mountains. Surely the salvation of Israel is in the LORD our God."
+hebrew: "אָכֵ֥ן לַשֶּׁ֛קֶר מִגְּבָע֖וֹת הָמ֣וֹן הָרִ֑ים אָכֵן֙ בַּיהֹוָ֣ה אֱלֹהֵ֔ינוּ תְּשׁוּעַ֖ת יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H0403]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H9006]]"
+- "[[H1389I]]"
+- "[[H1995A]]"
+- "[[H2022G]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H8668G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:23**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Truly in vain [is salvation hoped for] from the hills, [and from] the multitude of mountains: truly in the LORD our God [is] the salvation of Israel.
 <small><sub>**BSB:**</sub></small>
 Surely deception comes from the hills, and commotion from the mountains. Surely the salvation of Israel is in the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0403\|אָכֵ֥ן]] [[H9005\|לַ]][[H8267\|שֶּׁ֛קֶר]] [[H9006\|מִ]][[H1389I\|גְּבָע֖וֹת]] [[H1995A\|הָמ֣וֹן]] [[H2022G\|הָרִ֑ים]] [[H0403\|אָכֵן֙]] [[H9003\|בַּ]][[H3068G\|יהֹוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H8668G\|תְּשׁוּעַ֖ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GOD|GOD]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.22|<< Jeremiah 3:22]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.24|Jeremiah 3:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoahaz Succeeds Josiah
+type: Pericope
 pericope: "[[2Kgs.23.31 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 23
 book/chapter: "[[2Kgs.23|2 Kings 23]]"
-genre:
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.23.31]]"
 - "[[2Kgs.23.32]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.23.35]]"
 ---
 
-[[2Kgs.23|2 Kings 23:31 - 2 Kings 23:35]]
+<small>[[2Kgs.23|2 Kings 23:31-35]]</small>
 *Jehoahaz Succeeds Josiah*
 
 [[2Kgs.23.31|31]] Jehoahaz \[was\] twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name \[was\] Hamutal, the daughter of Jeremiah of Libnah.

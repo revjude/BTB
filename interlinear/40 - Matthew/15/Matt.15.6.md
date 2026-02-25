@@ -1,10 +1,67 @@
+---
+title: Matthew 15:6
+type: Verse
+kjv: "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition."
+bsb: "he need not honor his father or mother with it. Thus you nullify the word of God for the sake of your tradition."
+jesus_said: "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition."
+greek: "καὶ οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ ἢ τὴν μητέρα αὐτοῦ, καὶ ἠκυρώσατε τὸν λόγον τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν.¶"
+pericope: "[[Matt.15.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2228]]"
+- "[[G3384]]"
+- "[[G0208]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G3862]]"
+- "[[G4771]]"
+texts:
+- k
+- NKO
+- N(k)O
+- KO
+---
+
 **Matthew 15:6**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And honour not his father or his mother, [he shall be free]. Thus have ye made the commandment of God of none effect by your tradition.
 <small><sub>**BSB:**</sub></small>
 he need not honor his father or mother with it. Thus you nullify the word of God for the sake of your tradition.
-<small><sub>**Literal:**</sub></small>
-and certainly not he will honor the father of himself or the mother of him {6} And you made void the word <the> of God on account of the tradition of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.5|<< Matthew 15:5]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.7|Matthew 15:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G5091\|τιμήσει]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῦ]]  [[G2228\|ἢ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G0208\|ἠκυρώσατε]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOTHER|MOTHER]] • [[topic PHARISEES|PHARISEES]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.5|<< Matthew 15:5]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.7|Matthew 15:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

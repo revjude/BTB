@@ -1,10 +1,70 @@
+---
+title: 1 Corinthians 4:5
+type: Verse
+kjv: "Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God."
+bsb: "Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of men’s hearts. At that time each will receive his praise from God."
+greek: "ὥστε μὴ πρὸ καιροῦ τι κρίνετε ἕως ἂν ἔλθῃ ὁ κύριος, ὃς καὶ φωτίσει τὰ κρυπτὰ τοῦ σκότους καὶ φανερώσει τὰς βουλὰς τῶν καρδιῶν· καὶ τότε ὁ ἔπαινος γενήσεται ἑκάστῳ ἀπὸ τοῦ θεοῦ.¶"
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3361]]"
+- "[[G4253]]"
+- "[[G2540]]"
+- "[[G5100]]"
+- "[[G2919]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G5461]]"
+- "[[G2927]]"
+- "[[G4655]]"
+- "[[G5319]]"
+- "[[G1012]]"
+- "[[G2588]]"
+- "[[G5119]]"
+- "[[G1868]]"
+- "[[G1096]]"
+- "[[G1538]]"
+- "[[G0575]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:5**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.
 <small><sub>**BSB:**</sub></small>
 Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of men’s hearts. At that time each will receive his praise from God.
-<small><sub>**Literal:**</sub></small>
-So then not before [the] time anything do judge until when may have come the Lord, who both will bring to light the hidden things <the> of darkness and will make manifest the motives of the hearts; and then the praise will come to each from <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.4|<< 1 Corinthians 4:4]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.6|1 Corinthians 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3361\|μὴ]]  [[G4253\|πρὸ]]  [[G2540\|καιροῦ]]  [[G5100\|τι]]  [[G2919\|κρίνετε]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G2064\|ἔλθῃ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος,]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G5461\|φωτίσει]]  [[G3588\|τὰ]]  [[G2927\|κρυπτὰ]]  [[G3588\|τοῦ]]  [[G4655\|σκότους]]  [[G2532\|καὶ]]  [[G5319\|φανερώσει]]  [[G3588\|τὰς]]  [[G1012\|βουλὰς]]  [[G3588\|τῶν]]  [[G2588\|καρδιῶν·]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G3588\|ὁ]]  [[G1868\|ἔπαινος]]  [[G1096\|γενήσεται]]  [[G1538\|ἑκάστῳ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic DARKNESS|DARKNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SECRET|SECRET]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.4|<< 1 Corinthians 4:4]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.6|1 Corinthians 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 9:9
+type: Verse
+kjv: "And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers."
+bsb: "and 956 of their relatives according to their genealogy. All these men were heads of their families."
+hebrew: "וַאֲחֵיהֶם֙ לְתֹ֣לְדוֹתָ֔ם תְּשַׁ֥ע מֵא֖וֹת וַחֲמִשִּׁ֣ים וְשִׁשָּׁ֑ה כָּל־ אֵ֣לֶּה אֲנָשִׁ֔ים רָאשֵׁ֥י אָב֖וֹת לְבֵ֥ית אֲבֹתֵיהֶֽם׃ ס"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H8672]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H8337]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H0582]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:9**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren, according to their generations, nine hundred and fifty and six. All these men [were] chief of the fathers in the house of their fathers.
 <small><sub>**BSB:**</sub></small>
 and 956 of their relatives according to their genealogy. All these men were heads of their families.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶם֙]] [[H9005\|לְ]][[H8435\|תֹ֣לְדוֹתָ֔]][[H9028\|ם]] [[H8672\|תְּשַׁ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֣ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H0582\|אֲנָשִׁ֔ים]] [[H7218H\|רָאשֵׁ֥י]] [[H0001G\|אָב֖וֹת]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.8|<< 1 Chronicles 9:8]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.10|1 Chronicles 9:10 >>]]</td></tr></table>
 
@@ -20,7 +66,7 @@ and 956 of their relatives according to their genealogy. All these men were head
 | [were] chiefs of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֥י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fathers  |**<big>&#8207;[[H0001G\|אָב֖וֹת]]&#8207; </big>**| 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵ֥ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors their  |**<big>&#8207;[[H0001G\|אֲבֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  |**<big>&#8207;[[H0001G\|אֲבֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.8|<< 1 Chronicles 9:8]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.10|1 Chronicles 9:10 >>]]</td></tr></table>
 
 

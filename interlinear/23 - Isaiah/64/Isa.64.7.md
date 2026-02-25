@@ -1,8 +1,66 @@
+---
+title: Isaiah 64:7
+type: Verse
+kjv: "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities."
+bsb: "No one calls on Your name or strives to take hold of You. For You have hidden Your face from us and delivered us into the hand of our iniquity."
+hebrew: "וְאֵין־ קוֹרֵ֣א בְשִׁמְךָ֔ מִתְעוֹרֵ֖ר לְהַחֲזִ֣יק בָּ֑ךְ כִּֽי־ הִסְתַּ֤רְתָּ פָנֶ֙יךָ֙ מִמֶּ֔נּוּ וַתְּמוּגֵ֖נוּ בְּיַד־ עֲוֹנֵֽנוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5782]]"
+- "[[H9005]]"
+- "[[H2388H]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9001]]"
+- "[[H4127]]"
+- "[[H3027I]]"
+- "[[H5771G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:7**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there is] none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.
 <small><sub>**BSB:**</sub></small>
 No one calls on Your name or strives to take hold of You. For You have hidden Your face from us and delivered us into the hand of our iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H7121G\|קוֹרֵ֣א]] [[H9003\|בְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֔]] [[H5782\|מִתְעוֹרֵ֖ר]] [[H9005\|לְ]][[H2388H\|הַחֲזִ֣יק]] [[H9003\|בָּ֑]][[H9031\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5641\|הִסְתַּ֤רְתָּ]] [[H6440H\|פָנֶ֙י]][[H9021\|ךָ֙]] [[H4480A\|מִמֶּ֔]][[H9035\|נּוּ]] [[H9001\|וַ]][[H4127\|תְּמוּגֵ֖]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3027I\|יַד]][[H9014\|־]] [[H5771G\|עֲוֹנֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.6|<< Isaiah 64:6]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.8|Isaiah 64:8 >>]]</td></tr></table>
 

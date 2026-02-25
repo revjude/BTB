@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 11:22
+type: Verse
+kjv: "And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king."
+bsb: "Rehoboam appointed Abijah son of Maacah as chief prince among his brothers, intending to make him king."
+hebrew: "וַיַּֽעֲמֵ֨ד לָרֹ֧אשׁ רְחַבְעָ֛ם אֶת־ אֲבִיָּ֥ה בֶֽן־ מַעֲכָ֖ה לְנָגִ֣יד בְּאֶחָ֑יו כִּ֖י לְהַמְלִיכֽוֹ׃"
+pericope: "[[2Chr.11.18 Rehoboam’s Family|Rehoboam’s Family]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ABIJAM|ABIJAM]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H7346]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0029I]]"
+- "[[H1121A]]"
+- "[[H4601K]]"
+- "[[H5057]]"
+- "[[H9003]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:22**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam made Abijah the son of Maachah the chief, [to be] ruler among his brethren: for [he thought] to make him king.
 <small><sub>**BSB:**</sub></small>
 Rehoboam appointed Abijah son of Maacah as chief prince among his brothers, intending to make him king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975H\|יַּֽעֲמֵ֨ד]] [[H9005\|לָ]][[H7218H\|רֹ֧אשׁ]] [[H7346\|רְחַבְעָ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0029I\|אֲבִיָּ֥ה]] [[H1121A\|בֶֽן]][[H9014\|־]] [[H4601K\|מַעֲכָ֖ה]] [[H9005\|לְ]][[H5057\|נָגִ֣יד]] [[H9003\|בְּ]][[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H4427A\|הַמְלִיכֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAM|ABIJAM]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MAACHAH|MAACHAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.21|<< 2 Chronicles 11:21]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.23|2 Chronicles 11:23 >>]]</td></tr></table>
 

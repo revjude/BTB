@@ -1,8 +1,65 @@
+---
+title: Zephaniah 1:1
+type: Verse
+kjv: "The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah."
+bsb: "This is the word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah son of Amon king of Judah:"
+hebrew: "דְּבַר־ יְהוָ֣ה׀ אֲשֶׁ֣ר הָיָ֗ה אֶל־ צְפַנְיָה֙ בֶּן־ כּוּשִׁ֣י בֶן־ גְּדַלְיָ֔ה בֶּן־ אֲמַרְיָ֖ה בֶּן־ חִזְקִיָּ֑ה בִּימֵ֛י יֹאשִׁיָּ֥הוּ בֶן־ אָמ֖וֹן מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|Zephaniah Prophesies Judgment on Judah]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic AMON|AMON]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HIZKIAH|HIZKIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H6846H]]"
+- "[[H1121A]]"
+- "[[H3569H]]"
+- "[[H1436H]]"
+- "[[H0568O]]"
+- "[[H2396K]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2977G]]"
+- "[[H0526H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:1**<big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah son of Amon king of Judah:
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6846H\|צְפַנְיָה֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3569H\|כּוּשִׁ֣י]] [[H1121A\|בֶן]][[H9014\|־]] [[H1436H\|גְּדַלְיָ֔ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0568O\|אֲמַרְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2396K\|חִזְקִיָּ֑ה]] [[H9003\|בִּ]][[H3117G\|ימֵ֛י]] [[H2977G\|יֹאשִׁיָּ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0526H\|אָמ֖וֹן]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic AMON|AMON]] • [[topic CUSHI|CUSHI]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HIZKIAH|HIZKIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.19|<< Habakkuk 3:19]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.2|Zephaniah 1:2 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 14:19
+type: Verse
+kjv: "The evil bow before the good; and the wicked at the gates of the righteous."
+bsb: "The evil bow before the good, and the wicked at the gates of the righteous."
+hebrew: "שַׁח֣וּ רָ֭עִים לִפְנֵ֣י טוֹבִ֑ים וּ֝רְשָׁעִ֗ים עַֽל־ שַׁעֲרֵ֥י צַדִּֽיק׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7817]]"
+- "[[H7451H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:19**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The evil bow before the good; and the wicked at the gates of the righteous.
 <small><sub>**BSB:**</sub></small>
 The evil bow before the good, and the wicked at the gates of the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H7817\|שַׁח֣וּ]] [[H7451H\|רָ֭עִים]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H2896A\|טוֹבִ֑ים]] [[H9002\|וּ֝]][[H7563\|רְשָׁעִ֗ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H8179G\|שַׁעֲרֵ֥י]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.18|<< Proverbs 14:18]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.20|Proverbs 14:20 >>]]</td></tr></table>
 

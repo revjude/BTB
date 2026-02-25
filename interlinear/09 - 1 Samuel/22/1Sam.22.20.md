@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 22:20
+type: Verse
+kjv: "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David."
+bsb: "But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David."
+hebrew: "וַיִּמָּלֵ֣ט בֵּן־ אֶחָ֗ד לַאֲחִימֶ֙לֶךְ֙ בֶּן־ אֲחִט֔וּב וּשְׁמ֖וֹ אֶבְיָתָ֑ר וַיִּבְרַ֖ח אַחֲרֵ֥י דָוִֽד׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic AHITUB|AHITUB]]"
+strongs:
+- "[[H9001]]"
+- "[[H4422]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H0288G]]"
+- "[[H0285G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0054]]"
+- "[[H1272]]"
+- "[[H0310A]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:20**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
 <small><sub>**BSB:**</sub></small>
 But one of the sons of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4422\|יִּמָּלֵ֣ט]] [[H1121A\|בֵּן]][[H9014\|־]] [[H0259\|אֶחָ֗ד]] [[H9005\|לַ]][[H0288G\|אֲחִימֶ֙לֶךְ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0285G\|אֲחִט֔וּב]] [[H9002\|וּ]][[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H0054\|אֶבְיָתָ֑ר]] [[H9001\|וַ]][[H1272\|יִּבְרַ֖ח]] [[H0310A\|אַחֲרֵ֥י]] [[H1732\|דָוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMELECH|AHIMELECH]] • [[topic AHITUB|AHITUB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.19|<< 1 Samuel 22:19]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.21|1 Samuel 22:21 >>]]</td></tr></table>
 

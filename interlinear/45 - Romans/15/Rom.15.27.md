@@ -1,10 +1,59 @@
+---
+title: Romans 15:27
+type: Verse
+kjv: "It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things."
+bsb: "They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in their spiritual blessings, they are obligated to minister to them with material blessings."
+greek: "εὐδόκησαν γάρ, καὶ ὀφειλέται εἰσὶν αὐτῶν· εἰ γὰρ τοῖς πνευματικοῖς αὐτῶν ἐκοινώνησαν τὰ ἔθνη, ὀφείλουσιν καὶ ἐν τοῖς σαρκικοῖς λειτουργῆσαι αὐτοῖς."
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RECIPROCITY|RECIPROCITY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2106]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G3781]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G4152]]"
+- "[[G2841]]"
+- "[[G1484]]"
+- "[[G3784]]"
+- "[[G1722]]"
+- "[[G4559]]"
+- "[[G3008]]"
+texts:
+- NKO
+---
+
 **Romans 15:27**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.
 <small><sub>**BSB:**</sub></small>
 They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in their spiritual blessings, they are obligated to minister to them with material blessings.
-<small><sub>**Literal:**</sub></small>
-They were pleased for, and debtors they are of them; If for in the [things] spiritual of them shared the Gentiles, they ought also in the material things to minister to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.26|<< Romans 15:26]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.28|Romans 15:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2106\|εὐδόκησαν]]  [[G1063\|γάρ,]]  [[G2532\|καὶ]]  [[G3781\|ὀφειλέται]]  [[G1510\|εἰσὶν]]  [[G0846\|αὐτῶν·]]  [[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G3588\|τοῖς]]  [[G4152\|πνευματικοῖς]]  [[G0846\|αὐτῶν]]  [[G2841\|ἐκοινώνησαν]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη,]]  [[G3784\|ὀφείλουσιν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4559\|σαρκικοῖς]]  [[G3008\|λειτουργῆσαι]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RECIPROCITY|RECIPROCITY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.26|<< Romans 15:26]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.28|Romans 15:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

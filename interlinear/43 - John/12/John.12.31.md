@@ -1,10 +1,51 @@
+---
+title: John 12:31
+type: Verse
+kjv: "Now is the judgment of this world: now shall the prince of this world be cast out."
+bsb: "Now judgment is upon this world; now the prince of this world will be cast out."
+jesus_said: "Now is the judgment of this world: now shall the prince of this world be cast out."
+greek: "νῦν κρίσις ἐστὶν τοῦ κόσμου τούτου· νῦν ὁ ἄρχων τοῦ κόσμου τούτου ἐκβληθήσεται ἔξω,"
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G3568]]"
+- "[[G2920]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G0758]]"
+- "[[G1544]]"
+- "[[G1854]]"
+texts:
+- NKO
+---
+
 **John 12:31**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now is the judgment of this world: now shall the prince of this world be cast out.
 <small><sub>**BSB:**</sub></small>
 Now judgment is upon this world; now the prince of this world will be cast out.
-<small><sub>**Literal:**</sub></small>
-Now [the] judgment is of the world of this; now the prince of the world this will be cast out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.30|<< John 12:30]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.32|John 12:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G2920\|κρίσις]]  [[G1510\|ἐστὶν]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου·]]  [[G3568\|νῦν]]  [[G3588\|ὁ]]  [[G0758\|ἄρχων]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου]]  [[G1544\|ἐκβληθήσεται]]  [[G1854\|ἔξω,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.30|<< John 12:30]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.32|John 12:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

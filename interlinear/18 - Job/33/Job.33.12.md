@@ -1,8 +1,56 @@
+---
+title: Job 33:12
+type: Verse
+kjv: "Behold, in this thou art not just: I will answer thee, that God is greater than man."
+bsb: "Behold, you are not right in this matter. I will answer you, for God is greater than man."
+hebrew: "הֶן־ זֹ֣את לֹא־ צָדַ֣קְתָּ אֶעֱנֶ֑ךָּ כִּֽי־ יִרְבֶּ֥ה אֱ֝ל֗וֹהַ מֵאֱנֽוֹשׁ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H6663]]"
+- "[[H6030B]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H7235A]]"
+- "[[H0433]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:12**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [in] this thou art not just: I will answer thee, that God is greater than man.
 <small><sub>**BSB:**</sub></small>
 Behold, you are not right in this matter. I will answer you, for God is greater than man.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H2063\|זֹ֣את]] [[H3808\|לֹא]][[H9014\|־]] [[H6663\|צָדַ֣קְתָּ]] [[H6030B\|אֶעֱנֶ֑]][[H9031\|ךָּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7235A\|יִרְבֶּ֥ה]] [[H0433\|אֱ֝ל֗וֹהַ]] [[H9006\|מֵ]][[H0582\|אֱנֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MURMURING|MURMURING]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.11|<< Job 33:11]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.13|Job 33:13 >>]]</td></tr></table>
 

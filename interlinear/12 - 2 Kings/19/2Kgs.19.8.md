@@ -1,8 +1,61 @@
+---
+title: 2 Kings 19:8
+type: Verse
+kjv: "So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish."
+bsb: "When the Rabshakeh heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah."
+hebrew: "וַיָּ֙שָׁב֙ רַב־ שָׁקֵ֔ה וַיִּמְצָא֙ אֶת־ מֶ֣לֶךְ אַשּׁ֔וּר נִלְחָ֖ם עַל־ לִבְנָ֑ה כִּ֣י שָׁמַ֔ע כִּ֥י נָסַ֖ע מִלָּכִֽישׁ׃"
+pericope: "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic LACHISH|LACHISH]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H7262]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H3841H]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H3923]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:8**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 <small><sub>**BSB:**</sub></small>
 When the Rabshakeh heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֙שָׁב֙]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֔ה]] [[H9001\|וַ]][[H4672\|יִּמְצָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H3898A\|נִלְחָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3841H\|לִבְנָ֑ה]] [[H3588A\|כִּ֣י]] [[H8085G\|שָׁמַ֔ע]] [[H3588A\|כִּ֥י]] [[H5265\|נָסַ֖ע]] [[H9006\|מִ]][[H3923\|לָּכִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic LACHISH|LACHISH]] • [[topic LIBNAH|LIBNAH]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.7|<< 2 Kings 19:7]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.9|2 Kings 19:9 >>]]</td></tr></table>
 

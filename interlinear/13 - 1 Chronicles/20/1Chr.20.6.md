@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 20:6
+type: Verse
+kjv: "And yet again there was war at Gath, where was a man of great stature, whose fingers and toes were four and twenty, six on each hand, and six on each foot: and he also was the son of the giant."
+bsb: "And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,"
+hebrew: "וַתְּהִי־ ע֥וֹד מִלְחָמָ֖ה בְּגַ֑ת וַיְהִ֣י׀ אִ֣ישׁ מִדָּ֗ה וְאֶצְבְּעֹתָ֤יו שֵׁשׁ־ וָשֵׁשׁ֙ עֶשְׂרִ֣ים וְאַרְבַּ֔ע וְגַם־ ה֖וּא נוֹלַ֥ד לְהָרָפָֽא׃"
+pericope: "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic RAPHA|RAPHA]]"
+- "[[topic TOE|TOE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H1661]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H4060G]]"
+- "[[H9002]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H8337]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H7497A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 20:6**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And yet again there was war at Gath, where was a man of [great] stature, whose fingers and toes [were] four and twenty, six [on each hand], and six [on each foot]: and he also was the son of the giant.
 <small><sub>**BSB:**</sub></small>
 And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H5750\|ע֥וֹד]] [[H4421\|מִלְחָמָ֖ה]] [[H9003\|בְּ]][[H1661\|גַ֑ת]] [[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H4060G\|מִדָּ֗ה]] [[H9002\|וְ]][[H0676\|אֶצְבְּעֹתָ֤י]][[H9023\|ו]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H9002\|וָ]][[H8337\|שֵׁשׁ֙]] [[H6242\|עֶשְׂרִ֣ים]] [[H9002\|וְ]][[H0702\|אַרְבַּ֔ע]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H3205\|נוֹלַ֥ד]] [[H9005\|לְ]][[H9009\|הָ]][[H7497A\|רָפָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic GOLIATH|GOLIATH]] • [[topic RAPHA|RAPHA]] • [[topic TOE|TOE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.5|<< 1 Chronicles 20:5]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.7|1 Chronicles 20:7 >>]]</td></tr></table>
 

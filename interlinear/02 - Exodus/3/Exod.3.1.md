@@ -1,8 +1,73 @@
+---
+title: Exodus 3:1
+type: Verse
+kjv: "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb."
+bsb: "Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God."
+hebrew: "וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת־ צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת־ הַצֹּאן֙ אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל־ הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOREB|HOREB]]"
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9002]]"
+- "[[H4872]]"
+- "[[H1961]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H3503]]"
+- "[[H2859A]]"
+- "[[H9023]]"
+- "[[H3548]]"
+- "[[H4080H]]"
+- "[[H9001]]"
+- "[[H5090A]]"
+- "[[H9009]]"
+- "[[H0310A]]"
+- "[[H4057B]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H0430G]]"
+- "[[H2722]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:1**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, [even] to Horeb.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4872\|מֹשֶׁ֗ה]] [[H1961\|הָיָ֥ה]] [[H7462B\|רֹעֶ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֛אן]] [[H3503\|יִתְר֥וֹ]] [[H2859A\|חֹתְנ֖]][[H9023\|וֹ]] [[H3548\|כֹּהֵ֣ן]] [[H4080H\|מִדְיָ֑ן]] [[H9001\|וַ]][[H5090A\|יִּנְהַ֤ג]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּאן֙]] [[H0310A\|אַחַ֣ר]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֔ר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֛א]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H2722\|חֹרֵֽבָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOREB|HOREB]] • [[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic REVELATION|REVELATION]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.25|<< Exodus 2:25]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.2|Exodus 3:2 >>]]</td></tr></table>
 

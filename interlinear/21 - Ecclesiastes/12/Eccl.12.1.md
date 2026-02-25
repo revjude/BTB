@@ -1,8 +1,69 @@
+---
+title: Ecclesiastes 12:1
+type: Verse
+kjv: "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;"
+bsb: "Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,”"
+hebrew: "וּזְכֹר֙ אֶת־ בּ֣וֹרְאֶ֔יךָ בִּימֵ֖י בְּחוּרֹתֶ֑יךָ עַ֣ד אֲשֶׁ֤ר לֹא־ יָבֹ֙אוּ֙ יְמֵ֣י הָֽרָעָ֔ה וְהִגִּ֣יעוּ שָׁנִ֔ים אֲשֶׁ֣ר תֹּאמַ֔ר אֵֽין־ לִ֥י בָהֶ֖ם חֵֽפֶץ׃"
+pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1254A]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0979]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H9001]]"
+- "[[H5060]]"
+- "[[H8141]]"
+- "[[H0559]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9038]]"
+- "[[H2656]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 12:1**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 <small><sub>**BSB:**</sub></small>
 Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H2142\|זְכֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1254A\|בּ֣וֹרְאֶ֔י]][[H9031\|ךָ]] [[H9003\|בִּ]][[H3117G\|ימֵ֖י]] [[H0979\|בְּחוּרֹתֶ֑י]][[H9021\|ךָ]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|יָבֹ֙אוּ֙]] [[H3117G\|יְמֵ֣י]] [[H9009\|הָֽ]][[H7451I\|רָעָ֔ה]] [[H9001\|וְ]][[H5060\|הִגִּ֣יעוּ]] [[H8141\|שָׁנִ֔ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|תֹּאמַ֔ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H2656\|חֵֽפֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic OLD AGE|OLD AGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.10|<< Ecclesiastes 11:10]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.2|Ecclesiastes 12:2 >>]]</td></tr></table>
 

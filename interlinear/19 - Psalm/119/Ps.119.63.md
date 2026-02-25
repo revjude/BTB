@@ -1,8 +1,59 @@
+---
+title: Psalm 119:63
+type: Verse
+kjv: "I am a companion of all them that fear thee, and of them that keep thy precepts."
+bsb: "I am a friend to all who fear You, and to those who keep Your precepts."
+hebrew: "חָבֵ֣ר אָ֭נִי לְכָל־ אֲשֶׁ֣ר יְרֵא֑וּךָ וּ֝לְשֹׁמְרֵ֗י פִּקּוּדֶֽיךָ׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H2270]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H3372H]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:63**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a companion of all [them] that fear thee, and of them that keep thy precepts.
 <small><sub>**BSB:**</sub></small>
 I am a friend to all who fear You, and to those who keep Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H2270\|חָבֵ֣ר]] [[H0589\|אָ֭נִי]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H3372H\|יְרֵא֑וּ]][[H9031\|ךָ]] [[H9002\|וּ֝]][[H9005\|לְ]][[H8104G\|שֹׁמְרֵ֗י]] [[H6490\|פִּקּוּדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.62|<< Psalms 119:62]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.64|Psalms 119:64 >>]]</td></tr></table>
 

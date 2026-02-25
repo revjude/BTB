@@ -1,8 +1,67 @@
+---
+title: Joshua 21:2
+type: Verse
+kjv: "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+bsb: "at Shiloh in the land of Canaan and said to them, “The LORD commanded through Moses that we be given cities in which to live, together with pasturelands for our livestock.”"
+hebrew: "וַיְדַבְּר֨וּ אֲלֵיהֶ֜ם בְּשִׁלֹ֗ה בְּאֶ֤רֶץ כְּנַ֙עַן֙ לֵאמֹ֔ר יְהוָה֙ צִוָּ֣ה בְיַד־ מֹשֶׁ֔ה לָֽתֶת־ לָ֥נוּ עָרִ֖ים לָשָׁ֑בֶת וּמִגְרְשֵׁיהֶ֖ן לִבְהֶמְתֵּֽנוּ׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic PETITION|PETITION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6680]]"
+- "[[H3027J]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9029]]"
+- "[[H0929]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:2**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.
 <small><sub>**BSB:**</sub></small>
 at Shiloh in the land of Canaan and said to them, “The LORD commanded through Moses that we be given cities in which to live, together with pasturelands for our livestock.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבְּר֨וּ]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H9003\|בְּ]][[H7887\|שִׁלֹ֗ה]] [[H9003\|בְּ]][[H0776G\|אֶ֤רֶץ]] [[H3667A\|כְּנַ֙עַן֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָה֙]] [[H6680\|צִוָּ֣ה]] [[H9003\|בְ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H5892B\|עָרִ֖ים]] [[H9005\|לָ]][[H3427\|שָׁ֑בֶת]] [[H9002\|וּ]][[H4054\|מִגְרְשֵׁי]][[H9029\|הֶ֖ן]] [[H9005\|לִ]][[H0929\|בְהֶמְתֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PETITION|PETITION]] • [[topic PRIEST|PRIEST]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.1|<< Joshua 21:1]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.3|Joshua 21:3 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Mount Seir
+type: Pericope
 pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 35
 book/chapter: "[[Ezek.35|Ezekiel 35]]"
-genre:
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 15
 verses:
 - "[[Ezek.35.1]]"
 - "[[Ezek.35.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ezek.35.15]]"
 ---
 
-[[Ezek.35|Ezekiel 35:1 - Ezekiel 35:15]]
+<small>[[Ezek.35|Ezekiel 35:1-15]]</small>
 *A Prophecy against Mount Seir*
 
 [[Ezek.35.1|1]] Moreover the word of the LORD came unto me, saying,

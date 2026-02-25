@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: By the Rivers of Babylon
+type: Pericope
 pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 137
 book/chapter: "[[Ps.137|Psalm 137]]"
-genre:
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.137.1]]"
 - "[[Ps.137.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.137.9]]"
 ---
 
-[[Ps.137|Psalm 137:1 - Psalm 137:9]]
+<small>[[Ps.137|Psalm 137:1-9]]</small>
 *By the Rivers of Babylon*
 
 [[Ps.137.1|1]] By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.

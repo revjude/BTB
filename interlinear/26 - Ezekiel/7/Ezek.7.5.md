@@ -1,8 +1,52 @@
+---
+title: Ezekiel 7:5
+type: Verse
+kjv: "Thus saith the Lord GOD; An evil, an only evil, behold, is come."
+bsb: "This is what the Lord GOD says: ‘Disaster! An unprecedented disaster—behold, it is coming!"
+hebrew: "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה רָעָ֛ה אַחַ֥ת רָעָ֖ה הִנֵּ֥ה בָאָֽה׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7451C]]"
+- "[[H0259]]"
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:5**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; An evil, an only evil, behold, is come.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘Disaster! An unprecedented disaster—behold, it is coming!
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H7451C\|רָעָ֛ה]] [[H0259\|אַחַ֥ת]] [[H7451C\|רָעָ֖ה]] [[H2009\|הִנֵּ֥ה]] [[H0935G\|בָאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.4|<< Ezekiel 7:4]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.6|Ezekiel 7:6 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 92:1
+type: Verse
+kjv: "It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:"
+bsb: "A Psalm. A song for the Sabbath day. It is good to praise the LORD, and to sing praises to Your name, O Most High,"
+hebrew: "ט֗וֹב לְהֹד֥וֹת לַיהוָ֑ה וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2895]]"
+- "[[H9005]]"
+- "[[H3034]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2167]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5945B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:1**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is a] good [thing] to give thanks unto the LORD, and to sing praises unto thy name, O most High:
 <small><sub>**BSB:**</sub></small>
 A Psalm. A song for the Sabbath day. It is good to praise the LORD, and to sing praises to Your name, O Most High,
+<small><sub>**Hebrew:**</sub></small>
+[[H2895\|ט֗וֹב]] [[H9005\|לְ]][[H3034\|הֹד֥וֹת]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2167\|זַמֵּ֖ר]] [[H9005\|לְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H5945B\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic SABBATH|SABBATH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.0|<< Psalms 92:0]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.2|Psalms 92:2 >>]]</td></tr></table>
 

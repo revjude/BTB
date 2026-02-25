@@ -1,6 +1,43 @@
+---
+title: Psalm 4:0
+type: Verse
+kjv: "To the chief Musician on Neginoth, A Psalm of David."
+hebrew: "לַמְנַצֵּ֥חַ בִּנְגִינ֗וֹת מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 4
+book/chapter: "[[Ps.4|Psalm 4]]"
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9003]]"
+- "[[H5058]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 4:0**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician on Neginoth, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H9003\|בִּ]][[H5058\|נְגִינ֗וֹת]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.8|<< Psalms 3:8]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.1|Psalms 4:1 >>]]</td></tr></table>
 

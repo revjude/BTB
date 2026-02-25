@@ -1,8 +1,72 @@
+---
+title: Numbers 28:26
+type: Verse
+kjv: "Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work:"
+bsb: "On the day of firstfruits, when you present an offering of new grain to the LORD during the Feast of Weeks, you are to hold a sacred assembly; you must not do any regular work."
+hebrew: "וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־ קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Num.28.26 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1061]]"
+- "[[H7126H]]"
+- "[[H9046]]"
+- "[[H4503G]]"
+- "[[H2319H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7620G]]"
+- "[[H9026]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:26**<big><big>[[Num.28.26 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks [be out], ye shall have an holy convocation; ye shall do no servile work:
 <small><sub>**BSB:**</sub></small>
 On the day of firstfruits, when you present an offering of new grain to the LORD during the Feast of Weeks, you are to hold a sacred assembly; you must not do any regular work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H1061\|בִּכּוּרִ֗ים]] [[H9003\|בְּ]][[H7126H\|הַקְרִ֨יבְ]][[H9046\|כֶ֜ם]] [[H4503G\|מִנְחָ֤ה]] [[H2319H\|חֲדָשָׁה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9003\|בְּ]][[H7620G\|שָׁבֻעֹ֖תֵי]][[H9026\|כֶ֑ם]] [[H4744\|מִֽקְרָא]][[H9014\|־]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PENTECOST|PENTECOST]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.25|<< Numbers 28:25]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.27|Numbers 28:27 >>]]</td></tr></table>
 

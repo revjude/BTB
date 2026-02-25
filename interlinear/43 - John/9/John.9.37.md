@@ -1,10 +1,58 @@
+---
+title: John 9:37
+type: Verse
+kjv: "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee."
+bsb: "“You have already seen Him,” Jesus answered. “He is the One speaking with you.”"
+jesus_said: "Thou hast both seen him, and it is he that talketh with thee."
+greek: "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· καὶ ἑώρακας αὐτόν, καὶ ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν."
+pericope: "[[John.9.35 Spiritual Blindness|Spiritual Blindness]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G2980]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1565]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **John 9:37**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
 <small><sub>**BSB:**</sub></small>
 “You have already seen Him,” Jesus answered. “He is the One speaking with you.”
-<small><sub>**Literal:**</sub></small>
-Said now to him <the> Jesus; Both You have seen Him, and the [One] speaking with you He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.36|<< John 9:36]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.38|John 9:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2532\|καὶ]]  [[G3708\|ἑώρακας]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G3326\|μετὰ]]  [[G4771\|σοῦ]]  [[G1565\|ἐκεῖνός]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.36|<< John 9:36]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.38|John 9:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

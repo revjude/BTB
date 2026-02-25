@@ -1,9 +1,9 @@
 
 **TAX**
 
-→ Poll [[Exod.30.11|Ex 30:11]]-[[Exod.30.16|16]]; [[Exod.38.26|38:26]]; [[Neh.10.32|Ne 10:32]]; [[Luke.2.1|Lu 2:1]]
+→ Poll [[Exod.30.11|Ex 30:11-16]]; [[Exod.38.26|38:26]]; [[Neh.10.32|Ne 10:32]]; [[Luke.2.1|Lu 2:1]]
 
-→ Jesus pays [[Matt.17.24|Mt 17:24]]-[[Matt.17.27|27]]
+→ Jesus pays [[Matt.17.24|Mt 17:24-27]]
 
 → Land  [[Gen.41.34|Ge 41:34]],[[Gen.41.48|48]]; [[2Kgs.23.35|2Ki 23:35]]
 
@@ -13,7 +13,7 @@
 
 → Paid in grain [[Amos.5.11|Am 5:11]]; [[Amos.7.1|7:1]]
 
-→ Paid in provisions [[1Kgs.4.7|1Ki 4:7]]-[[1Kgs.4.28|28]]
+→ Paid in provisions [[1Kgs.4.7|1Ki 4:7-28]]
 
 → Personal [[1Kgs.9.15|1Ki 9:15]]; [[2Kgs.15.19|2Ki 15:19]],[[2Kgs.15.20|20]]; [[2Kgs.23.35|23:35]]
 
@@ -21,7 +21,7 @@
 
 → World-wide, levied by Caesar
 
-→ The R. V. changes the reading to enrolled instead of taxed [[Luke.2.1|Lu 2:1]]-[[Luke.2.3|3]]
+→ The R. V. changes the reading to enrolled instead of taxed [[Luke.2.1|Lu 2:1-3]]
 
 → Collectors of [[2Sam.20.24|2Sa 20:24]]; [[1Kgs.4.6|1Ki 4:6]]; [[Isa.33.18|Isa 33:18]]; [[Dan.11.20|Da 11:20]];  [[Mark.2.14|Mr 2:14]]; [[Luke.3.13|Lu 3:13]]; [[Luke.5.27|5:27]]
 

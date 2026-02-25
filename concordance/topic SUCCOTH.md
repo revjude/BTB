@@ -7,7 +7,7 @@
 
 - Allotted to the tribe of Gad [[Josh.13.27|Jos 13:27]]
 
-- People of, punished by Gideon [[Judg.8.5|Jud 8:5]]-[[Judg.8.8|8]],[[Judg.8.14|14]]-[[Judg.8.16|16]]
+- People of, punished by Gideon [[Judg.8.5|Jud 8:5-8]],[[Judg.8.14|14-16]]
 
 - Located near the Jordan River [[1Kgs.7.46|1Ki 7:46]]; [[2Chr.4.17|2Ch 4:17]]; [[Ps.60.6|Ps 60:6]]; [[Ps.108.7|108:7]]
 

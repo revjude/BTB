@@ -1,10 +1,56 @@
+---
+title: Colossians 3:4
+type: Verse
+kjv: "When Christ, who is our life, shall appear, then shall ye also appear with him in glory."
+bsb: "When Christ, who is your life, appears, then you also will appear with Him in glory."
+greek: "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ.¶"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3752]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G5319]]"
+- "[[G2222]]"
+- "[[G4771]]"
+- "[[G5119]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1391]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Colossians 3:4**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Christ, [who is] our life, shall appear, then shall ye also appear with him in glory.
 <small><sub>**BSB:**</sub></small>
 When Christ, who is your life, appears, then you also will appear with Him in glory.
-<small><sub>**Literal:**</sub></small>
-When <the> Christ may be revealed, the life of you, then also you yourselves with Him will appear in glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.3|<< Colossians 3:3]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.5|Colossians 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G5319\|φανερωθῇ,]]  [[G3588\|ἡ]]  [[G2222\|ζωὴ]]  [[G4771\|ὑμῶν,]]  [[G5119\|τότε]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G5319\|φανερωθήσεσθε]]  [[G1722\|ἐν]]  [[G1391\|δόξῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.3|<< Colossians 3:3]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.5|Colossians 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

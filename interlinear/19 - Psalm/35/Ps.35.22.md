@@ -1,8 +1,55 @@
+---
+title: Psalm 35:22
+type: Verse
+kjv: "This thou hast seen, O LORD: keep not silence: O Lord, be not far from me."
+bsb: "O LORD, You have seen it; be not silent. O Lord, be not far from me."
+hebrew: "רָאִ֣יתָה יְ֭הוָה אַֽל־ תֶּחֱרַ֑שׁ אֲ֝דֹנָ֗י אֲל־ תִּרְחַ֥ק מִמֶּֽנִּי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2790B]]"
+- "[[H0136]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:22**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This] thou hast seen, O LORD: keep not silence: O Lord, be not far from me.
 <small><sub>**BSB:**</sub></small>
 O LORD, You have seen it; be not silent. O Lord, be not far from me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֣יתָה]] [[H3068G\|יְ֭הוָה]] [[H0408\|אַֽל]][[H9014\|־]] [[H2790B\|תֶּחֱרַ֑שׁ]] [[H0136\|אֲ֝דֹנָ֗י]] [[H0408\|אֲל]][[H9014\|־]] [[H7368\|תִּרְחַ֥ק]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ENEMY|ENEMY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.21|<< Psalms 35:21]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.23|Psalms 35:23 >>]]</td></tr></table>
 

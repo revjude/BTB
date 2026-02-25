@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amaziah’s Victories
+type: Pericope
 pericope: "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 25
 book/chapter: "[[2Chr.25|2 Chronicles 25]]"
-genre:
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 9
 verses:
 - "[[2Chr.25.5]]"
 - "[[2Chr.25.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Chr.25.13]]"
 ---
 
-[[2Chr.25|2 Chronicles 25:5 - 2 Chronicles 25:13]]
+<small>[[2Chr.25|2 Chronicles 25:5-13]]</small>
 *Amaziah’s Victories*
 
 [[2Chr.25.5|5]] Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of \[their\] fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice \[men, able\] to go forth to war, that could handle spear and shield.

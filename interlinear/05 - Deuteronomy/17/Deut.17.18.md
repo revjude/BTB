@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 17:18
+type: Verse
+kjv: "And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:"
+bsb: "When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests."
+hebrew: "וְהָיָ֣ה כְשִׁבְתּ֔וֹ עַ֖ל כִּסֵּ֣א מַמְלַכְתּ֑וֹ וְכָ֨תַב ל֜וֹ אֶת־ מִשְׁנֵ֨ה הַתּוֹרָ֤ה הַזֹּאת֙ עַל־ סֵ֔פֶר מִלִּפְנֵ֥י הַכֹּהֲנִ֖ים הַלְוִיִּֽם׃"
+pericope: "[[Deut.17.14 Guidelines for a King|Guidelines for a King]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic KING|KING]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3427]]"
+- "[[H9043]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H4467]]"
+- "[[H9023]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4932H]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H5612H]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:18**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of [that which is] before the priests the Levites:
 <small><sub>**BSB:**</sub></small>
 When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9004\|כְ]][[H3427\|שִׁבְתּ֔]][[H9043\|וֹ]] [[H5921A\|עַ֖ל]] [[H3678G\|כִּסֵּ֣א]] [[H4467\|מַמְלַכְתּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3789\|כָ֨תַב]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H4932H\|מִשְׁנֵ֨ה]] [[H9009\|הַ]][[H8451\|תּוֹרָ֤ה]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֔פֶר]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic KING|KING]] • [[topic LAW|LAW]] • [[topic RULERS|RULERS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.17|<< Deuteronomy 17:17]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.19|Deuteronomy 17:19 >>]]</td></tr></table>
 

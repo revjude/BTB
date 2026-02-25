@@ -1,8 +1,59 @@
+---
+title: Isaiah 13:5
+type: Verse
+kjv: "They come from a far country, from the end of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land."
+bsb: "They are coming from faraway lands, from the ends of the heavens—the LORD and the weapons of His wrath—to destroy the whole country."
+hebrew: "בָּאִ֛ים מֵאֶ֥רֶץ מֶרְחָ֖ק מִקְצֵ֣ה הַשָּׁמָ֑יִם יְהוָה֙ וּכְלֵ֣י זַעְמ֔וֹ לְחַבֵּ֖ל כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4801]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H2195]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2254B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:5**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They come from a far country, from the end of heaven, [even] the LORD, and the weapons of his indignation, to destroy the whole land.
 <small><sub>**BSB:**</sub></small>
 They are coming from faraway lands, from the ends of the heavens—the LORD and the weapons of His wrath—to destroy the whole country.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בָּאִ֛ים]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4801\|מֶרְחָ֖ק]] [[H9006\|מִ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H3068G\|יְהוָה֙]] [[H9002\|וּ]][[H3627\|כְלֵ֣י]] [[H2195\|זַעְמ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H2254B\|חַבֵּ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.4|<< Isaiah 13:4]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.6|Isaiah 13:6 >>]]</td></tr></table>
 

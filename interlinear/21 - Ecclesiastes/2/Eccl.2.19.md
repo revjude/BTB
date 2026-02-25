@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 2:19
+type: Verse
+kjv: "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity."
+bsb: "And who knows whether that man will be wise or foolish? Yet he will take over all the labor at which I have worked skillfully under the sun. This too is futile."
+hebrew: "וּמִ֣י יוֹדֵ֗עַ הֶֽחָכָ֤ם יִהְיֶה֙ א֣וֹ סָכָ֔ל וְיִשְׁלַט֙ בְּכָל־ עֲמָלִ֔י שֶֽׁעָמַ֥לְתִּי וְשֶׁחָכַ֖מְתִּי תַּ֣חַת הַשָּׁ֑מֶשׁ גַּם־ זֶ֖ה הָֽבֶל׃"
+pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H3045]]"
+- "[[H9008]]"
+- "[[H2450]]"
+- "[[H1961]]"
+- "[[H0176A]]"
+- "[[H5530]]"
+- "[[H7980]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5999]]"
+- "[[H9020]]"
+- "[[H9007]]"
+- "[[H5998]]"
+- "[[H2449]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H1571]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:19**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And who knoweth whether he shall be a wise [man] or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This [is] also vanity.
 <small><sub>**BSB:**</sub></small>
 And who knows whether that man will be wise or foolish? Yet he will take over all the labor at which I have worked skillfully under the sun. This too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִ֣י]] [[H3045\|יוֹדֵ֗עַ]] [[H9008\|הֶֽ]][[H2450\|חָכָ֤ם]] [[H1961\|יִהְיֶה֙]] [[H0176A\|א֣וֹ]] [[H5530\|סָכָ֔ל]] [[H9002\|וְ]][[H7980\|יִשְׁלַט֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5999\|עֲמָלִ֔]][[H9020\|י]] [[H9007\|שֶֽׁ]][[H5998\|עָמַ֥לְתִּי]] [[H9002\|וְ]][[H9007\|שֶׁ]][[H2449\|חָכַ֖מְתִּי]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic INDUSTRY|INDUSTRY]] • [[topic INHERITANCE|INHERITANCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.18|<< Ecclesiastes 2:18]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.20|Ecclesiastes 2:20 >>]]</td></tr></table>
 

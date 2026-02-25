@@ -1,10 +1,67 @@
+---
+title: Mark 9:39
+type: Verse
+kjv: "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me."
+bsb: "“Do not stop him,” Jesus replied. “For no one who performs a miracle in My name can turn around and speak evil of Me."
+jesus_said: "Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν· μὴ κωλύετε αὐτόν· οὐδεὶς γάρ ἐστιν ὃς ποιήσει δύναμιν ἐπὶ τῷ ὀνόματί μου καὶ δυνήσεται ταχὺ κακολογῆσαί με."
+pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TOLERATION|TOLERATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3361]]"
+- "[[G2967]]"
+- "[[G0846]]"
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G1411]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1410]]"
+- "[[G5035]]"
+- "[[G2551]]"
+texts:
+- NKO
+---
+
 **Mark 9:39**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.
 <small><sub>**BSB:**</sub></small>
 “Do not stop him,” Jesus replied. “For no one who performs a miracle in My name can turn around and speak evil of Me.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said; Not do forbid him; No [one] for there is who will do a work of power in the name of Mine and will be able readily to speak evil of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.38|<< Mark 9:38]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.40|Mark 9:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G3361\|μὴ]]  [[G2967\|κωλύετε]]  [[G0846\|αὐτόν·]]  [[G3762\|οὐδεὶς]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3739\|ὃς]]  [[G4160G\|ποιήσει]]  [[G1411\|δύναμιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1410\|δυνήσεται]]  [[G5035\|ταχὺ]]  [[G2551\|κακολογῆσαί]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic TOLERATION|TOLERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.38|<< Mark 9:38]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.40|Mark 9:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

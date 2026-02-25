@@ -1,8 +1,62 @@
+---
+title: Genesis 4:16
+type: Verse
+kjv: "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+bsb: "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden."
+hebrew: "וַיֵּ֥צֵא קַ֖יִן מִלִּפְנֵ֣י יְהוָ֑ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ־ נ֖וֹד קִדְמַת־ עֵֽדֶן׃"
+pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAIN|CAIN]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic NOD|NOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H7014B]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H3068G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H5113]]"
+- "[[H6926]]"
+- "[[H5731B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:16**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.
 <small><sub>**BSB:**</sub></small>
 So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּ֥צֵא]] [[H7014B\|קַ֖יִן]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440H\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H5113\|נ֖וֹד]] [[H6926\|קִדְמַת]][[H9014\|־]] [[H5731B\|עֵֽדֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIN|CAIN]] • [[topic CURSE|CURSE]] • [[topic EDEN|EDEN]] • [[topic GENEALOGY|GENEALOGY]] • [[topic NOD|NOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.15|<< Genesis 4:15]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.17|Genesis 4:17 >>]]</td></tr></table>
 

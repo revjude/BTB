@@ -1,8 +1,61 @@
+---
+title: Leviticus 15:4
+type: Verse
+kjv: "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean."
+bsb: "Any bed on which the man with the discharge lies will be unclean, and any furniture on which he sits will be unclean."
+hebrew: "כָּל־ הַמִּשְׁכָּ֗ב אֲשֶׁ֨ר יִשְׁכַּ֥ב עָלָ֛יו הַזָּ֖ב יִטְמָ֑א וְכָֽל־ הַכְּלִ֛י אֲשֶׁר־ יֵשֵׁ֥ב עָלָ֖יו יִטְמָֽא׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4904]]"
+- "[[H0834A]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2100H]]"
+- "[[H2930A]]"
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:4**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.
 <small><sub>**BSB:**</sub></small>
 Any bed on which the man with the discharge lies will be unclean, and any furniture on which he sits will be unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4904\|מִּשְׁכָּ֗ב]] [[H0834A\|אֲשֶׁ֨ר]] [[H7901G\|יִשְׁכַּ֥ב]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9009\|הַ]][[H2100H\|זָּ֖ב]] [[H2930A\|יִטְמָ֑א]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כְּלִ֛י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יֵשֵׁ֥ב]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H2930A\|יִטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.3|<< Leviticus 15:3]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.5|Leviticus 15:5 >>]]</td></tr></table>
 

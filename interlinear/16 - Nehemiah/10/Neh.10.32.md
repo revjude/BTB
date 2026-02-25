@@ -1,8 +1,63 @@
+---
+title: Nehemiah 10:32
+type: Verse
+kjv: "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;"
+bsb: "We also place ourselves under the obligation to contribute a third of a shekel yearly for the service of the house of our God:"
+hebrew: "וְהֶעֱמַ֤דְנוּ עָלֵ֙ינוּ֙ מִצְוֹ֔ת לָתֵ֥ת עָלֵ֛ינוּ שְׁלִשִׁ֥ית הַשֶּׁ֖קֶל בַּשָּׁנָ֑ה לַעֲבֹדַ֖ת בֵּ֥ית אֱלֹהֵֽינוּ׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H4687]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H7992]]"
+- "[[H9009]]"
+- "[[H8255]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:32**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;
 <small><sub>**BSB:**</sub></small>
 We also place ourselves under the obligation to contribute a third of a shekel yearly for the service of the house of our God:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975H\|הֶעֱמַ֤דְנוּ]] [[H5921A\|עָלֵ֙י]][[H9035\|נוּ֙]] [[H4687\|מִצְוֹ֔ת]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H5921A\|עָלֵ֛י]][[H9035\|נוּ]] [[H7992\|שְׁלִשִׁ֥ית]] [[H9009\|הַ]][[H8255\|שֶּׁ֖קֶל]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֑ה]] [[H9005\|לַ]][[H5656H\|עֲבֹדַ֖ת]] [[H1004Q\|בֵּ֥ית]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SHEKEL|SHEKEL]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.31|<< Nehemiah 10:31]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.33|Nehemiah 10:33 >>]]</td></tr></table>
 

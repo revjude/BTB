@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 10:11
+type: Verse
+kjv: "And the LORD said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them."
+bsb: "Then the LORD said to me, “Get up. Continue your journey ahead of the people, that they may enter and possess the land that I swore to their fathers to give them.”"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י ק֛וּם לֵ֥ךְ לְמַסַּ֖ע לִפְנֵ֣י הָעָ֑ם וְיָבֹ֙אוּ֙ וְיִֽרְשׁ֣וּ אֶת־ הָאָ֔רֶץ אֲשֶׁר־ נִשְׁבַּ֥עְתִּי לַאֲבֹתָ֖ם לָתֵ֥ת לָהֶֽם׃ פ"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H4550]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:11**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, Arise, take [thy] journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to me, “Get up. Continue your journey ahead of the people, that they may enter and possess the land that I swore to their fathers to give them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H6965B\|ק֛וּם]] [[H1980G\|לֵ֥ךְ]] [[H9005\|לְ]][[H4550\|מַסַּ֖ע]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9002\|וְ]][[H0935G\|יָבֹ֙אוּ֙]] [[H9002\|וְ]][[H3423H\|יִֽרְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥עְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבֹתָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.10|<< Deuteronomy 10:10]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.12|Deuteronomy 10:12 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ Then the LORD said to me, “Get up. Continue your journey ahead of the people, 
 | I swore  |**<big>&#8207;[[H7650\|נִשְׁבַּ֥עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to ancestors their  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0001G\|אֲבֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to give  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5414G\|תֵ֥ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.10|<< Deuteronomy 10:10]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.12|Deuteronomy 10:12 >>]]</td></tr></table>
 
 

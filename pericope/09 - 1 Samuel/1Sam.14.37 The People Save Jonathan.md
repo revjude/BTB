@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Save Jonathan
+type: Pericope
 pericope: "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 14
 book/chapter: "[[1Sam.14|1 Samuel 14]]"
-genre:
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[1Sam.14.37]]"
 - "[[1Sam.14.38]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Sam.14.46]]"
 ---
 
-[[1Sam.14|1 Samuel 14:37 - 1 Samuel 14:46]]
+<small>[[1Sam.14|1 Samuel 14:37-46]]</small>
 *The People Save Jonathan*
 
 [[1Sam.14.37|37]] And Saul asked counsel of God, Shall I go down after the Philistines? wilt thou deliver them into the hand of Israel? But he answered him not that day.

@@ -1,10 +1,60 @@
+---
+title: 2 Timothy 2:3
+type: Verse
+kjv: "Thou therefore endure hardness, as a good soldier of Jesus Christ."
+bsb: "Join me in suffering, like a good soldier of Christ Jesus."
+greek: "σὺ οὖν συγκακοπάθησον ὡς καλὸς στρατιώτης Χριστοῦ Ἰησοῦ."
+pericope: "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G4777]]"
+- "[[G5613]]"
+- "[[G2570G]]"
+- "[[G4757]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- k
+- N(k)O
+- NKO
+---
+
 **2 Timothy 2:3**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou therefore endure hardness, as a good soldier of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Join me in suffering, like a good soldier of Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-you yourself therefore do share in suffering as [a] good soldier of Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.2|<< 2 Timothy 2:2]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.4|2 Timothy 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G3767\|οὖν]]  [[G4777\|συγκακοπάθησον]]  [[G5613\|ὡς]]  [[G2570G\|καλὸς]]  [[G4757\|στρατιώτης]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARABLES|PARABLES]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.2|<< 2 Timothy 2:2]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.4|2 Timothy 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

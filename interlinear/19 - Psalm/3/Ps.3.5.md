@@ -1,8 +1,54 @@
+---
+title: Psalm 3:5
+type: Verse
+kjv: "I laid me down and slept; I awaked; for the LORD sustained me."
+bsb: "I lie down and sleep; I wake again, for the LORD sustains me."
+hebrew: "אֲנִ֥י שָׁכַ֗בְתִּי וָֽאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי כִּ֖י יְהוָ֣ה יִסְמְכֵֽנִי׃"
+pericope: "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0589]]"
+- "[[H7901G]]"
+- "[[H9001]]"
+- "[[H3462]]"
+- "[[H9012]]"
+- "[[H6974]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H5564]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 3:5**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I laid me down and slept; I awaked; for the LORD sustained me.
 <small><sub>**BSB:**</sub></small>
 I lie down and sleep; I wake again, for the LORD sustains me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֥י]] [[H7901G\|שָׁכַ֗בְתִּי]] [[H9001\|וָֽ]][[H3462\|אִ֫ישָׁ֥נָ]][[H9012\|ה]] [[H6974\|הֱקִיצ֑וֹתִי]] [[H3588A\|כִּ֖י]] [[H3068G\|יְהוָ֣ה]] [[H5564\|יִסְמְכֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.4|<< Psalms 3:4]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.6|Psalms 3:6 >>]]</td></tr></table>
 

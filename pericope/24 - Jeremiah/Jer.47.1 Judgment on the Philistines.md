@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on the Philistines
+type: Pericope
 pericope: "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 47
 book/chapter: "[[Jer.47|Jeremiah 47]]"
-genre:
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.47.1]]"
 - "[[Jer.47.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.47.7]]"
 ---
 
-[[Jer.47|Jeremiah 47:1 - Jeremiah 47:7]]
+<small>[[Jer.47|Jeremiah 47:1-7]]</small>
 *Judgment on the Philistines*
 
 [[Jer.47.1|1]] The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.

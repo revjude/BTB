@@ -1,10 +1,60 @@
+---
+title: Luke 16:27
+type: Verse
+kjv: "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:"
+bsb: "‘Then I beg you, father,’ he said, ‘send Lazarus to my father’s house,"
+jesus_said: "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:"
+greek: "Εἶπεν δέ· ἐρωτῶ σε οὖν, πάτερ, ἵνα πέμψῃς αὐτὸν εἰς τὸν οἶκον τοῦ πατρός μου·"
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G3962]]"
+- "[[G2443]]"
+- "[[G3992]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Luke 16:27**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:
 <small><sub>**BSB:**</sub></small>
 ‘Then I beg you, father,’ he said, ‘send Lazarus to my father’s house,
-<small><sub>**Literal:**</sub></small>
-He said then; I implore you then father, that you may send him to the house of the father of mine —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.26|<< Luke 16:26]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.28|Luke 16:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δέ·]]  [[G2065\|ἐρωτῶ]]  [[G4771\|σε]]  [[G3767\|οὖν,]]  [[G3962\|πάτερ,]]  [[G2443\|ἵνα]]  [[G3992\|πέμψῃς]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TORMENTS|TORMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.26|<< Luke 16:26]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.28|Luke 16:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

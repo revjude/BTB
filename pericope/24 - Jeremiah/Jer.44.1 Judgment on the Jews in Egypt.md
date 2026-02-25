@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on the Jews in Egypt
+type: Pericope
 pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 44
 book/chapter: "[[Jer.44|Jeremiah 44]]"
-genre:
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 14
 verses:
 - "[[Jer.44.1]]"
 - "[[Jer.44.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Jer.44.14]]"
 ---
 
-[[Jer.44|Jeremiah 44:1 - Jeremiah 44:14]]
+<small>[[Jer.44|Jeremiah 44:1-14]]</small>
 *Judgment on the Jews in Egypt*
 
 [[Jer.44.1|1]] The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,

@@ -1,6 +1,69 @@
+---
+title: LXX Jeremiah 46:27
+type: Verse
+lxx: "But you should not be fearful, my servant Jacob, nor should you be terrified Israel. For behold, I deliver you from far off, and  your seed from  their captivity. And Jacob shall return, and shall be tranquil, and shall sleep, and there will not be one troubling him."
+greek: "συ δε μη φοβηθής δούλός μου Ιακώβ μηδέ πτοηθής Ισραήλ ότι ιδού σώζω σε μακρόθεν και το σπέρμα σου εκ της αιχμαλωσίας αυτών και αναστρέψει Ιακώβ και ησυχάσει και υπνώσει και ουκ έσται ο παρενοχλών αυτόν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2384]]"
+- "[[G3366]]"
+- "[[G4422]]"
+- "[[G2474]]"
+- "[[G3754]]"
+- "[[G2400]]"
+- "[[G4982]]"
+- "[[G1473]]"
+- "[[G3113]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4690]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0161]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0390]]"
+- "[[G2384]]"
+- "[[G2532]]"
+- "[[G2270]]"
+- "[[G2532]]"
+- "[[G9567]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3926]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 46:27** 
 <small><sub>**LXX:**</sub></small>
 But you should not be fearful, my servant Jacob, nor should you be terrified Israel. For behold, I deliver you from far off, and  your seed from  their captivity. And Jacob shall return, and shall be tranquil, and shall sleep, and there will not be one troubling him. 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|συ]] [[G1161\|δε]] [[G3361\|μη]] [[G5399\|φοβηθής]] [[G1401\|δούλός]] [[G1473\|μου]] [[G2384\|Ιακώβ]] [[G3366\|μηδέ]] [[G4422\|πτοηθής]] [[G2474\|Ισραήλ]] [[G3754\|ότι]] [[G2400\|ιδού]] [[G4982\|σώζω]] [[G1473\|σε]] [[G3113\|μακρόθεν]] [[G2532\|και]] [[G3588\|το]] [[G4690\|σπέρμα]] [[G1473\|σου]] [[G1537\|εκ]] [[G3588\|της]] [[G0161\|αιχμαλωσίας]] [[G1473\|αυτών]] [[G2532\|και]] [[G0390\|αναστρέψει]] [[G2384\|Ιακώβ]] [[G2532\|και]] [[G2270\|ησυχάσει]] [[G2532\|και]] [[G9567\|υπνώσει]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G3588\|ο]] [[G3926\|παρενοχλών]] [[G1473\|αυτόν]]
 <small><sub>**MT:**</sub></small>
 [[Jer.46.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.26|<< Jeremiah 46:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.28|Jeremiah 46:28 >>]]</td></tr></table>
 
@@ -36,6 +99,6 @@ But you should not be fearful, my servant Jacob, nor should you be terrified Isr
 | one | **<big>[[G3588\|ο]]</big>** |
 | troubling | **<big>[[G3926\|παρενοχλών]]</big>** |
 | him. | **<big>[[G1473\|αυτόν]]</big>** |
-[[Jer.46.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.26|<< Jeremiah 46:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.28|Jeremiah 46:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.26|<< Jeremiah 46:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.28|Jeremiah 46:28 >>]]</td></tr></table>
 
 

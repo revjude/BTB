@@ -7,7 +7,7 @@
 
 → Jesus from [[Matt.21.11|Mt 21:11]]; [[Mark.1.24|Mr 1:24]]; [[Mark.10.47|10:47]]; [[Luke.4.34|Lu 4:34]]; [[Luke.18.37|18:37]]; [[Luke.24.19|24:19]]
 
-→ People of, reject Jesus [[Luke.4.16|Lu 4:16]]-[[Luke.4.30|30]]
+→ People of, reject Jesus [[Luke.4.16|Lu 4:16-30]]
 
 → Its reputation [[John.1.46|Joh 1:46]]
 

@@ -1,8 +1,76 @@
+---
+title: Genesis 16:5
+type: Verse
+kjv: "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee."
+bsb: "Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.”"
+hebrew: "וַתֹּ֨אמֶר שָׂרַ֣י אֶל־ אַבְרָם֮ חֲמָסִ֣י עָלֶיךָ֒ אָנֹכִ֗י נָתַ֤תִּי שִׁפְחָתִי֙ בְּחֵיקֶ֔ךָ וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וָאֵקַ֖ל בְּעֵינֶ֑יהָ יִשְׁפֹּ֥ט יְהוָ֖ה בֵּינִ֥י וּבֵינֶֽיׄךָ׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8297]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0087]]"
+- "[[H2555]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H8198]]"
+- "[[H9003]]"
+- "[[H2436G]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H2029]]"
+- "[[H7043]]"
+- "[[H5869H]]"
+- "[[H9024]]"
+- "[[H8199]]"
+- "[[H3068G]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:5**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sarai said unto Abram, My wrong [be] upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee.
 <small><sub>**BSB:**</sub></small>
 Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H8297\|שָׂרַ֣י]] [[H0413\|אֶל]][[H9014\|־]] [[H0087\|אַבְרָם֮]] [[H2555\|חֲמָסִ֣]][[H9020\|י]] [[H5921A\|עָלֶי]][[H9031\|ךָ֒]] [[H0595\|אָנֹכִ֗י]] [[H5414G\|נָתַ֤תִּי]] [[H8198\|שִׁפְחָתִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H2436G\|חֵיקֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H7200G\|תֵּ֙רֶא֙]] [[H3588A\|כִּ֣י]] [[H2029\|הָרָ֔תָה]] [[H9001\|וָ]][[H7043\|אֵקַ֖ל]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֑י]][[H9024\|הָ]] [[H8199\|יִשְׁפֹּ֥ט]] [[H3068G\|יְהוָ֖ה]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶֽיׄ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.4|<< Genesis 16:4]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.6|Genesis 16:6 >>]]</td></tr></table>
 

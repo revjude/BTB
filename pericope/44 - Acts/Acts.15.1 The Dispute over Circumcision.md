@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Dispute over Circumcision
+type: Pericope
 pericope: "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Acts
 chapter: 15
 book/chapter: "[[Acts.15|Acts 15]]"
-genre:
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 4
 verses:
 - "[[Acts.15.1]]"
 - "[[Acts.15.2]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Acts.15.4]]"
 ---
 
-[[Acts.15|Acts 15:1 - Acts 15:4]]
+<small>[[Acts.15|Acts 15:1-4]]</small>
 *The Dispute over Circumcision*
 
 [[Acts.15.1|1]] And certain men which came down from Judaea taught the brethren, \[and said\], Except ye be circumcised after the manner of Moses, ye cannot be saved.

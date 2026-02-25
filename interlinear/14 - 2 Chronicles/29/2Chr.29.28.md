@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 29:28
+type: Verse
+kjv: "And all the congregation worshipped, and the singers sang, and the trumpeters sounded: and all this continued until the burnt offering was finished."
+bsb: "The whole assembly was worshiping, the singers were singing, and the trumpeters were playing. All this continued until the burnt offering was completed."
+hebrew: "וְכָל־ הַקָּהָל֙ מִֽשְׁתַּחֲוִ֔ים וְהַשִּׁ֣יר מְשׁוֹרֵ֔ר וְהַחֲצֹצְר֖וֹת מַחְצְרִ֑ים הַכֹּ֕ל עַ֖ד לִכְל֥וֹת הָעֹלָֽה׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H7812]]"
+- "[[H7892A]]"
+- "[[H7891]]"
+- "[[H2689]]"
+- "[[H2690]]"
+- "[[H5704]]"
+- "[[H9005]]"
+- "[[H3615G]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 29:28**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the congregation worshipped, and the singers sang, and the trumpeters sounded: [and] all [this continued] until the burnt offering was finished.
 <small><sub>**BSB:**</sub></small>
 The whole assembly was worshiping, the singers were singing, and the trumpeters were playing. All this continued until the burnt offering was completed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָל֙]] [[H7812\|מִֽשְׁתַּחֲוִ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H7892A\|שִּׁ֣יר]] [[H7891\|מְשׁוֹרֵ֔ר]] [[H9002\|וְ]][[H9009\|הַ]][[H2689\|חֲצֹצְר֖וֹת]] [[H2690\|מַחְצְרִ֑ים]] [[H9009\|הַ]][[H3605\|כֹּ֕ל]] [[H5704\|עַ֖ד]] [[H9005\|לִ]][[H3615G\|כְל֥וֹת]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.27|<< 2 Chronicles 29:27]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.29|2 Chronicles 29:29 >>]]</td></tr></table>
 

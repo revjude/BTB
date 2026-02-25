@@ -1,8 +1,55 @@
+---
+title: Proverbs 29:26
+type: Verse
+kjv: "Many seek the ruler’s favour; but every man’s judgment cometh from the LORD."
+bsb: "Many seek the ruler’s favor, but a man receives justice from the LORD."
+hebrew: "רַ֭בִּים מְבַקְשִׁ֣ים פְּנֵי־ מוֹשֵׁ֑ל וּ֝מֵיְהוָ֗ה מִשְׁפַּט־ אִֽישׁ׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+strongs:
+- "[[H7227A]]"
+- "[[H1245]]"
+- "[[H6440H]]"
+- "[[H9014]]"
+- "[[H4910]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H4941H]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:26**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many seek the ruler’s favour; but [every] man’s judgment [cometh] from the LORD.
 <small><sub>**BSB:**</sub></small>
 Many seek the ruler’s favor, but a man receives justice from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בִּים]] [[H1245\|מְבַקְשִׁ֣ים]] [[H6440H\|פְּנֵי]][[H9014\|־]] [[H4910\|מוֹשֵׁ֑ל]] [[H9002\|וּ֝]][[H9006\|מֵ]][[H3068G\|יְהוָ֗ה]] [[H4941H\|מִשְׁפַּט]][[H9014\|־]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JUSTICE|JUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.25|<< Proverbs 29:25]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.27|Proverbs 29:27 >>]]</td></tr></table>
 

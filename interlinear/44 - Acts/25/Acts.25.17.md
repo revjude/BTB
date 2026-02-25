@@ -1,10 +1,50 @@
+---
+title: Acts 25:17
+type: Verse
+kjv: "Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth."
+bsb: "So when they came here with me, I did not delay. The next day I sat on the judgment seat and ordered that the man be brought in."
+greek: "συνελθόντων οὖν αὐτῶν ἐνθάδε ἀναβολὴν μηδεμίαν ποιησάμενος, τῇ ἑξῆς καθίσας ἐπὶ τοῦ βήματος ἐκέλευσα ἀχθῆναι τὸν ἄνδρα·"
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+strongs:
+- "[[G4905]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G1759]]"
+- "[[G0311]]"
+- "[[G3367]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G1836]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G0968]]"
+- "[[G2753]]"
+- "[[G0071]]"
+- "[[G0435G]]"
+texts:
+- NKO
+---
+
 **Acts 25:17**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
 <small><sub>**BSB:**</sub></small>
 So when they came here with me, I did not delay. The next day I sat on the judgment seat and ordered that the man be brought in.
-<small><sub>**Literal:**</sub></small>
-When were assembling therefore they here delay no having made, on the next [day] having sat on the judgment seat I commanded to be brought the man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.16|<< Acts 25:16]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.18|Acts 25:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4905\|συνελθόντων]]  [[G3767\|οὖν]]  [[G0846\|αὐτῶν]]  [[G1759\|ἐνθάδε]]  [[G0311\|ἀναβολὴν]]  [[G3367\|μηδεμίαν]]  [[G4160G\|ποιησάμενος,]]  [[G3588\|τῇ]]  [[G1836\|ἑξῆς]]  [[G2523\|καθίσας]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G2753\|ἐκέλευσα]]  [[G0071\|ἀχθῆναι]]  [[G3588\|τὸν]]  [[G0435G\|ἄνδρα·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.16|<< Acts 25:16]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.18|Acts 25:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

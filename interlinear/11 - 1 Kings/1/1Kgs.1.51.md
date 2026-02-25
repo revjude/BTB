@@ -1,8 +1,65 @@
+---
+title: 1 Kings 1:51
+type: Verse
+kjv: "And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath caught hold on the horns of the altar, saying, Let king Solomon swear unto me to day that he will not slay his servant with the sword."
+bsb: "It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’”"
+hebrew: "וַיֻּגַּ֤ד לִשְׁלֹמֹה֙ לֵאמֹ֔ר הִנֵּה֙ אֲדֹ֣נִיָּ֔הוּ יָרֵ֖א אֶת־ הַמֶּ֣לֶךְ שְׁלֹמֹ֑ה וְ֠הִנֵּה אָחַ֞ז בְּקַרְנ֤וֹת הַמִּזְבֵּ֙חַ֙ לֵאמֹ֔ר יִשָּֽׁבַֽע־ לִ֤י כַיּוֹם֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה אִם־ יָמִ֥ית אֶת־ עַבְדּ֖וֹ בֶּחָֽרֶב׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H0138G]]"
+- "[[H3372G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H7161A]]"
+- "[[H4196]]"
+- "[[H7650]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H0518H]]"
+- "[[H4191]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:51**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath caught hold on the horns of the altar, saying, Let king Solomon swear unto me to day that he will not slay his servant with the sword.
 <small><sub>**BSB:**</sub></small>
 It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֤ד]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּה֙]] [[H0138G\|אֲדֹ֣נִיָּ֔הוּ]] [[H3372G\|יָרֵ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9002\|וְ֠]][[H2009\|הִנֵּה]] [[H0270\|אָחַ֞ז]] [[H9003\|בְּ]][[H7161A\|קַרְנ֤וֹת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7650\|יִשָּֽׁבַֽע]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H9004\|כַ]][[H3117L\|יּוֹם֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H4191\|יָמִ֥ית]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדּ֖]][[H9023\|וֹ]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.50|<< 1 Kings 1:50]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.52|1 Kings 1:52 >>]]</td></tr></table>
 

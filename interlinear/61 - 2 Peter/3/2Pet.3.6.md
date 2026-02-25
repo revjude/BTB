@@ -1,10 +1,49 @@
+---
+title: 2 Peter 3:6
+type: Verse
+kjv: "Whereby the world that then was, being overflowed with water, perished:"
+bsb: "through which the world of that time perished in the flood."
+greek: "δι᾽ ὧν ὁ τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο."
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic GEOLOGY|GEOLOGY]]"
+strongs:
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G5119]]"
+- "[[G2889]]"
+- "[[G5204]]"
+- "[[G2626]]"
+- "[[G0622]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **2 Peter 3:6**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereby the world that then was, being overflowed with water, perished:
 <small><sub>**BSB:**</sub></small>
 through which the world of that time perished in the flood.
-<small><sub>**Literal:**</sub></small>
-through [means of] those [waters] the at that time world with water having been deluged perished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.5|<< 2 Peter 3:5]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.7|2 Peter 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι᾽]]  [[G3739\|ὧν]]  [[G3588\|ὁ]]  [[G5119\|τότε]]  [[G2889\|κόσμος]]  [[G5204\|ὕδατι]]  [[G2626\|κατακλυσθεὶς]]  [[G0622\|ἀπώλετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEOLOGY|GEOLOGY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.5|<< 2 Peter 3:5]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.7|2 Peter 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 3:6** is...
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Issachar
+type: Pericope
 pericope: "[[Num.26.23 The Tribe of Issachar|The Tribe of Issachar]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,13 +25,14 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 3
 verses:
 - "[[Num.26.23]]"
 - "[[Num.26.24]]"
 - "[[Num.26.25]]"
 ---
 
-[[Num.26|Numbers 26:23 - Numbers 26:25]]
+<small>[[Num.26|Numbers 26:23-25]]</small>
 *The Tribe of Issachar*
 
 [[Num.26.23|23]] \[Of\] the sons of Issachar after their families: \[of\] Tola, the family of the Tolaites: of Pua, the family of the Punites:

@@ -1,10 +1,63 @@
+---
+title: Romans 6:23
+type: Verse
+kjv: "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+bsb: "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+greek: "τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.¶"
+pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3800]]"
+- "[[G0266]]"
+- "[[G2288]]"
+- "[[G1161]]"
+- "[[G5486]]"
+- "[[G2316]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 6:23**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the wages of sin [is] death; but the gift of God [is] eternal life through Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
-<small><sub>**Literal:**</sub></small>
-The for wages <the> of sin [is] death, <the> but the gift <the> of God life eternal in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.22|<< Romans 6:22]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.1|Romans 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1063\|γὰρ]]  [[G3800\|ὀψώνια]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας]]  [[G2288\|θάνατος,]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G5486\|χάρισμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2222\|ζωὴ]]  [[G0166\|αἰώνιος]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.22|<< Romans 6:22]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.1|Romans 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

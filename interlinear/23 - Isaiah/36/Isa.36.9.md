@@ -1,8 +1,59 @@
+---
+title: Isaiah 36:9
+type: Verse
+kjv: "How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?"
+bsb: "For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?"
+hebrew: "וְאֵ֣יךְ תָּשִׁ֗יב אֵ֠ת פְּנֵ֨י פַחַ֥ת אַחַ֛ד עַבְדֵ֥י אֲדֹנִ֖י הַקְטַנִּ֑ים וַתִּבְטַ֤ח לְךָ֙ עַל־ מִצְרַ֔יִם לְרֶ֖כֶב וּלְפָרָשִֽׁים׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H7725I]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H6346]]"
+- "[[H0259]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H6996A]]"
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:9**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
 <small><sub>**BSB:**</sub></small>
 For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0349A\|אֵ֣יךְ]] [[H7725I\|תָּשִׁ֗יב]] [[H0853\|אֵ֠ת]] [[H6440H\|פְּנֵ֨י]] [[H6346\|פַחַ֥ת]] [[H0259\|אַחַ֛ד]] [[H5650\|עַבְדֵ֥י]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9009\|הַ]][[H6996A\|קְטַנִּ֑ים]] [[H9001\|וַ]][[H0982\|תִּבְטַ֤ח]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לְ]][[H7393G\|רֶ֖כֶב]] [[H9002\|וּ]][[H9005\|לְ]][[H6571B\|פָרָשִֽׁים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.8|<< Isaiah 36:8]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.10|Isaiah 36:10 >>]]</td></tr></table>
 

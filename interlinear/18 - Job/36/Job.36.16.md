@@ -1,8 +1,61 @@
+---
+title: Job 36:16
+type: Verse
+kjv: "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
+bsb: "Indeed, He drew you from the jaws of distress to a spacious and broad place, to a table full of richness."
+hebrew: "וְאַ֤ף הֲסִיתְךָ֨׀ מִפִּי־ צָ֗ר רַ֭חַב לֹא־ מוּצָ֣ק תַּחְתֶּ֑יהָ וְנַ֥חַת שֻׁ֝לְחָנְךָ֗ מָ֣לֵא דָֽשֶׁן׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H5496]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H6310J]]"
+- "[[H9014]]"
+- "[[H6862C]]"
+- "[[H7338]]"
+- "[[H3808]]"
+- "[[H4164]]"
+- "[[H8478I]]"
+- "[[H9034]]"
+- "[[H5183A]]"
+- "[[H7979]]"
+- "[[H9021]]"
+- "[[H4390]]"
+- "[[H1880]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:16**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even so would he have removed thee out of the strait [into] a broad place, where [there is] no straitness; and that which should be set on thy table [should be] full of fatness.
 <small><sub>**BSB:**</sub></small>
 Indeed, He drew you from the jaws of distress to a spacious and broad place, to a table full of richness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0637\|אַ֤ף]] [[H5496\|הֲסִיתְ]][[H9031\|ךָ֨]][[H9015\|׀]] [[H9006\|מִ]][[H6310J\|פִּי]][[H9014\|־]] [[H6862C\|צָ֗ר]] [[H7338\|רַ֭חַב]] [[H3808\|לֹא]][[H9014\|־]] [[H4164\|מוּצָ֣ק]] [[H8478I\|תַּחְתֶּ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H5183A\|נַ֥חַת]] [[H7979\|שֻׁ֝לְחָנְ]][[H9021\|ךָ֗]] [[H4390\|מָ֣לֵא]] [[H1880\|דָֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.15|<< Job 36:15]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.17|Job 36:17 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Numbers 19:9
+type: Verse
+kjv: "And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin."
+bsb: "Then a man who is ceremonially clean is to gather up the ashes of the heifer and store them in a ceremonially clean place outside the camp. They must be kept by the congregation of Israel for preparing the water of purification; this is for purification from sin."
+hebrew: "וְאָסַ֣ף׀ אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר וְ֠הָיְתָה לַעֲדַ֨ת בְּנֵֽי־ יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ASHES|ASHES]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H2889]]"
+- "[[H0853]]"
+- "[[H0665]]"
+- "[[H9009]]"
+- "[[H6510]]"
+- "[[H5117]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H1961]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H4931]]"
+- "[[H4325G]]"
+- "[[H5079]]"
+- "[[H2403H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:9**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man [that is] clean shall gather up the ashes of the heifer, and lay [them] up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it [is] a purification for sin.
 <small><sub>**BSB:**</sub></small>
 Then a man who is ceremonially clean is to gather up the ashes of the heifer and store them in a ceremonially clean place outside the camp. They must be kept by the congregation of Israel for preparing the water of purification; this is for purification from sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0622\|אָסַ֣ף]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H2889\|טָה֗וֹר]] [[H0853\|אֵ֚ת]] [[H0665\|אֵ֣פֶר]] [[H9009\|הַ]][[H6510\|פָּרָ֔ה]] [[H9001\|וְ]][[H5117\|הִנִּ֛יחַ]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H9003\|בְּ]][[H4725\|מָק֣וֹם]] [[H2889\|טָה֑וֹר]] [[H9001\|וְ֠]][[H1961\|הָיְתָה]] [[H9005\|לַ]][[H5712\|עֲדַ֨ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֧ל]] [[H9005\|לְ]][[H4931\|מִשְׁמֶ֛רֶת]] [[H9005\|לְ]][[H4325G\|מֵ֥י]] [[H5079\|נִדָּ֖ה]] [[H2403H\|חַטָּ֥את]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ASHES|ASHES]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.8|<< Numbers 19:8]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.10|Numbers 19:10 >>]]</td></tr></table>
 

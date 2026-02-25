@@ -1,10 +1,58 @@
+---
+title: Mark 11:26
+type: Verse
+kjv: "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses."
+bsb: ""
+jesus_said: "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses."
+greek: "εἰ δὲ ὑμεῖς οὖκ ἀφίετε, οὐδὲ ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς ἀφήσει τὰ παραπτώματα ὑμῶν.¶"
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G0863H]]"
+- "[[G3761]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3900]]"
+texts:
+- KO
+- K
+---
+
 **Mark 11:26**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-if now you yourselves not do you allow nor the father of you <the> in to the heavens will forgive the trespasses of you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.25|<< Mark 11:25]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.27|Mark 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὖκ]]  [[G0863H\|ἀφίετε,]]  [[G3761\|οὐδὲ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G0863H\|ἀφήσει]]  [[G3588\|τὰ]]  [[G3900\|παραπτώματα]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.25|<< Mark 11:25]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.27|Mark 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 19:3
+type: Verse
+kjv: "There is no speech nor language, where their voice is not heard."
+bsb: "Without speech or language, without a sound to be heard,"
+hebrew: "אֵֽין־ אֹ֭מֶר וְאֵ֣ין דְּבָרִ֑ים בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם׃"
+pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 19
+book/chapter: "[[Ps.19|Psalm 19]]"
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H0562]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H1097]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 19:3**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no speech nor language, [where] their voice is not heard.
 <small><sub>**BSB:**</sub></small>
 Without speech or language, without a sound to be heard,
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵֽין]][[H9014\|־]] [[H0562\|אֹ֭מֶר]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H1697G\|דְּבָרִ֑ים]] [[H1097\|בְּ֝לִ֗י]] [[H8085G\|נִשְׁמָ֥ע]] [[H6963A\|קוֹלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.2|<< Psalms 19:2]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.4|Psalms 19:4 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 106:17
+type: Verse
+kjv: "The earth opened and swallowed up Dathan, and covered the company of Abiram."
+bsb: "The earth opened up and swallowed Dathan; it covered the assembly of Abiram."
+hebrew: "תִּפְתַּח־ אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל־ עֲדַ֥ת אֲבִירָֽם׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ABIRAM|ABIRAM]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic KORAH|KORAH]]"
+strongs:
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H1104]]"
+- "[[H1885]]"
+- "[[H3680]]"
+- "[[H5921A]]"
+- "[[H5712]]"
+- "[[H0048G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:17**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth opened and swallowed up Dathan, and covered the company of Abiram.
 <small><sub>**BSB:**</sub></small>
 The earth opened up and swallowed Dathan; it covered the assembly of Abiram.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|תִּפְתַּח]][[H9014\|־]] [[H0776G\|אֶ֭רֶץ]] [[H9001\|וַ]][[H1104\|תִּבְלַ֣ע]] [[H1885\|דָּתָ֑ן]] [[H9001\|וַ֝]][[H3680\|תְּכַ֗ס]] [[H5921A\|עַל]][[H9014\|־]] [[H5712\|עֲדַ֥ת]] [[H0048G\|אֲבִירָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIRAM|ABIRAM]] • [[topic DATHAN|DATHAN]] • [[topic ENVY|ENVY]] • [[topic KORAH|KORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.16|<< Psalms 106:16]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.18|Psalms 106:18 >>]]</td></tr></table>
 

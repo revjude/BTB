@@ -1,10 +1,59 @@
+---
+title: Revelation 19:13
+type: Verse
+kjv: "And he was clothed with a vesture dipped in blood: and his name is called The Word of God."
+bsb: "He is dressed in a robe dipped in blood, and His name is The Word of God."
+greek: "καὶ περιβεβλημένος ἱμάτιον βεβαμμένον αἵματι, καὶ κέκληται τὸ ὄνομα αὐτοῦ ὁ λόγος τοῦ θεοῦ."
+pericope: "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORD|WORD]]"
+strongs:
+- "[[G2532]]"
+- "[[G4016]]"
+- "[[G2440]]"
+- "[[G0911]]"
+- "[[G0129G]]"
+- "[[G2564G]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G3056]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Revelation 19:13**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he [was] clothed with a vesture dipped in blood: and his name is called The Word of God.
 <small><sub>**BSB:**</sub></small>
 He is dressed in a robe dipped in blood, and His name is The Word of God.
-<small><sub>**Literal:**</sub></small>
-and having clothed themselves with a garment dipped in blood, And has been called the name of Him The Word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.12|<< Revelation 19:12]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.14|Revelation 19:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4016\|περιβεβλημένος]]  [[G2440\|ἱμάτιον]]  [[G0911\|βεβαμμένον]]  [[G0129G\|αἵματι,]]  [[G2532\|καὶ]]  [[G2564G\|κέκληται]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]] • [[topic WORD|WORD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.12|<< Revelation 19:12]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.14|Revelation 19:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:13** is...
 > $\quad$ alluding to: [[LXX.Isa.63.1|Isa 63:1]]

@@ -1,10 +1,61 @@
+---
+title: Mark 3:22
+type: Verse
+kjv: "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils."
+bsb: "And the scribes who had come down from Jerusalem were saying, “He is possessed by Beelzebul,” and, “By the prince of the demons He drives out demons.”"
+greek: "καὶ οἱ γραμματεῖς οἱ ἀπὸ Ἱεροσολύμων καταβάντες ἔλεγον ὅτι Βεελζεβοὺλ ἔχει καὶ ὅτι ἐν τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια.¶"
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BEELZEBUB|BEELZEBUB]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G0575]]"
+- "[[G2414]]"
+- "[[G2597]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0954]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G0758]]"
+- "[[G1140]]"
+- "[[G1544]]"
+texts:
+- NKO
+---
+
 **Mark 3:22**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
 <small><sub>**BSB:**</sub></small>
 And the scribes who had come down from Jerusalem were saying, “He is possessed by Beelzebul,” and, “By the prince of the demons He drives out demons.”
-<small><sub>**Literal:**</sub></small>
-And the scribes those from Jerusalem having come down were saying that Beelzebul He has and that By the prince of the demons He casts out the demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.21|<< Mark 3:21]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.23|Mark 3:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G3588\|οἱ]]  [[G0575\|ἀπὸ]]  [[G2414\|Ἱεροσολύμων]]  [[G2597\|καταβάντες]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G0954\|Βεελζεβοὺλ]]  [[G2192\|ἔχει]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0758\|ἄρχοντι]]  [[G3588\|τῶν]]  [[G1140\|δαιμονίων]]  [[G1544\|ἐκβάλλει]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BEELZEBUB|BEELZEBUB]] • [[topic DEMONS|DEMONS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic SCOFFING|SCOFFING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.21|<< Mark 3:21]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.23|Mark 3:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

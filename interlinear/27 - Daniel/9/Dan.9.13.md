@@ -1,8 +1,80 @@
+---
+title: Daniel 9:13
+type: Verse
+kjv: "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth."
+bsb: "Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth."
+hebrew: "כַּאֲשֶׁ֤ר כָּתוּב֙ בְּתוֹרַ֣ת מֹשֶׁ֔ה אֵ֛ת כָּל־ הָרָעָ֥ה הַזֹּ֖את בָּ֣אָה עָלֵ֑ינוּ וְלֹֽא־ חִלִּ֜ינוּ אֶת־ פְּנֵ֣י׀ יְהוָ֣ה אֱלֹהֵ֗ינוּ לָשׁוּב֙ מֵֽעֲוֹנֵ֔נוּ וּלְהַשְׂכִּ֖יל בַּאֲמִתֶּֽךָ׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H2063]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2470B]]"
+- "[[H0854]]"
+- "[[H6440L]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H7919A]]"
+- "[[H0571H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:13**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As [it is] written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.
 <small><sub>**BSB:**</sub></small>
 Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3789\|כָּתוּב֙]] [[H9003\|בְּ]][[H8451\|תוֹרַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H0935G\|בָּ֣אָה]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2470B\|חִלִּ֜ינוּ]] [[H0854\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֣י]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H9005\|לָ]][[H7725I\|שׁוּב֙]] [[H9006\|מֵֽ]][[H5771G\|עֲוֹנֵ֔]][[H9025\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H7919A\|הַשְׂכִּ֖יל]] [[H9003\|בַּ]][[H0571H\|אֲמִתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.12|<< Daniel 9:12]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.14|Daniel 9:14 >>]]</td></tr></table>
 

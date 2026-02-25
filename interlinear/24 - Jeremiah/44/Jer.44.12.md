@@ -1,8 +1,77 @@
+---
+title: Jeremiah 44:12
+type: Verse
+kjv: "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach."
+bsb: "And I will take away the remnant of Judah who have resolved to go to the land of Egypt to reside there; they will meet their end. They will all fall by the sword or be consumed by famine. From the least to the greatest, they will die by sword or famine; and they will become an object of cursing and horror, of vilification and reproach."
+hebrew: "וְלָקַחְתִּ֞י אֶת־ שְׁאֵרִ֣ית יְהוּדָ֗ה אֲשֶׁר־ שָׂ֨מוּ פְנֵיהֶ֜ם לָב֣וֹא אֶֽרֶץ־ מִצְרַיִם֮ לָג֣וּר שָׁם֒ וְתַ֨מּוּ כֹ֜ל בְּאֶ֧רֶץ מִצְרַ֣יִם יִפֹּ֗לוּ בַּחֶ֤רֶב בָּֽרָעָב֙ יִתַּ֔מּוּ מִקָּטֹן֙ וְעַד־ גָּד֔וֹל בַּחֶ֥רֶב וּבָרָעָ֖ב יָמֻ֑תוּ וְהָיוּ֙ לְאָלָ֣ה לְשַׁמָּ֔ה וְלִקְלָלָ֖ה וּלְחֶרְפָּֽה׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic QUEEN|QUEEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7611]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H5307J]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H4191]]"
+- "[[H1961]]"
+- "[[H0423]]"
+- "[[H8047H]]"
+- "[[H7045]]"
+- "[[H2781]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:12**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, [and] fall in the land of Egypt; they shall [even] be consumed by the sword [and] by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, [and] an astonishment, and a curse, and a reproach.
 <small><sub>**BSB:**</sub></small>
 And I will take away the remnant of Judah who have resolved to go to the land of Egypt to reside there; they will meet their end. They will all fall by the sword or be consumed by famine. From the least to the greatest, they will die by sword or famine; and they will become an object of cursing and horror, of vilification and reproach.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתִּ֞י]] [[H0853\|אֶת]][[H9014\|־]] [[H7611\|שְׁאֵרִ֣ית]] [[H3063G\|יְהוּדָ֗ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760A\|שָׂ֨מוּ]] [[H6440H\|פְנֵי]][[H9028\|הֶ֜ם]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַיִם֮]] [[H9005\|לָ]][[H1481A\|ג֣וּר]] [[H8033G\|שָׁם֒]] [[H9001\|וְ]][[H8552\|תַ֨מּוּ]] [[H3605\|כֹ֜ל]] [[H9003\|בְּ]][[H0776G\|אֶ֧רֶץ]] [[H4714G\|מִצְרַ֣יִם]] [[H5307J\|יִפֹּ֗לוּ]] [[H9003\|בַּ]][[H2719\|חֶ֤רֶב]] [[H9003\|בָּֽ]][[H7458\|רָעָב֙]] [[H8552\|יִתַּ֔מּוּ]] [[H9006\|מִ]][[H6996B\|קָּטֹן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּד֔וֹל]] [[H9003\|בַּ]][[H2719\|חֶ֥רֶב]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֖ב]] [[H4191\|יָמֻ֑תוּ]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H9005\|לְ]][[H0423\|אָלָ֣ה]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֔ה]] [[H9002\|וְ]][[H9005\|לִ]][[H7045\|קְלָלָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2781\|חֶרְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic QUEEN|QUEEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.11|<< Jeremiah 44:11]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.13|Jeremiah 44:13 >>]]</td></tr></table>
 

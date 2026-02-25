@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Tell of His Wonders
+type: Pericope
 pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
-verse_count: 45
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 105
 book/chapter: "[[Ps.105|Psalm 105]]"
-genre:
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 45
 verses:
 - "[[Ps.105.1]]"
 - "[[Ps.105.2]]"
@@ -66,7 +73,7 @@ verses:
 - "[[Ps.105.45]]"
 ---
 
-[[Ps.105|Psalm 105:1 - Psalm 105:45]]
+<small>[[Ps.105|Psalm 105:1-45]]</small>
 *Tell of His Wonders*
 
 [[Ps.105.1|1]] O give thanks unto the LORD; call upon his name: make known his deeds among the people.

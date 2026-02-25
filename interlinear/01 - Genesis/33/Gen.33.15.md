@@ -1,8 +1,67 @@
+---
+title: Genesis 33:15
+type: Verse
+kjv: "And Esau said, Let me now leave with thee some of the folk that are with me. And he said, What needeth it? let me find grace in the sight of my lord."
+bsb: "“Let me leave some of my people with you,” Esau said. But Jacob replied, “Why do that? Let me find favor in the sight of my lord.”"
+hebrew: "וַיֹּ֣אמֶר עֵשָׂ֔ו אַצִּֽיגָה־ נָּ֣א עִמְּךָ֔ מִן־ הָעָ֖ם אֲשֶׁ֣ר אִתִּ֑י וַיֹּ֙אמֶר֙ לָ֣מָּה זֶּ֔ה אֶמְצָא־ חֵ֖ן בְּעֵינֵ֥י אֲדֹנִֽי׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6215G]]"
+- "[[H3322]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:15**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau said, Let me now leave with thee [some] of the folk that [are] with me. And he said, What needeth it? let me find grace in the sight of my lord.
 <small><sub>**BSB:**</sub></small>
 “Let me leave some of my people with you,” Esau said. But Jacob replied, “Why do that? Let me find favor in the sight of my lord.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6215G\|עֵשָׂ֔ו]] [[H3322\|אַצִּֽיגָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H5973A\|עִמְּ]][[H9031\|ךָ֔]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H2088\|זֶּ֔ה]] [[H4672\|אֶמְצָא]][[H9014\|־]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.14|<< Genesis 33:14]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.16|Genesis 33:16 >>]]</td></tr></table>
 

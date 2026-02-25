@@ -1,8 +1,53 @@
+---
+title: Psalm 63:10
+type: Verse
+kjv: "They shall fall by the sword: they shall be a portion for foxes."
+bsb: "They will fall to the power of the sword; they will become a portion for foxes."
+hebrew: "יַגִּירֻ֥הוּ עַל־ יְדֵי־ חָ֑רֶב מְנָ֖ת שֻׁעָלִ֣ים יִהְיֽוּ׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FOX|FOX]]"
+strongs:
+- "[[H5064]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H2719]]"
+- "[[H4521]]"
+- "[[H7776]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:10**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall fall by the sword: they shall be a portion for foxes.
 <small><sub>**BSB:**</sub></small>
 They will fall to the power of the sword; they will become a portion for foxes.
+<small><sub>**Hebrew:**</sub></small>
+[[H5064\|יַגִּירֻ֥]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יְדֵי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H4521\|מְנָ֖ת]] [[H7776\|שֻׁעָלִ֣ים]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOX|FOX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.9|<< Psalms 63:9]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.11|Psalms 63:11 >>]]</td></tr></table>
 

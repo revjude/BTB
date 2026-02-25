@@ -1,8 +1,70 @@
+---
+title: Judges 18:10
+type: Verse
+kjv: "When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth."
+bsb: "When you enter, you will come to an unsuspecting people and a spacious land, for God has delivered it into your hand. It is a place where nothing on earth is lacking.”"
+hebrew: "כְּבֹאֲכֶ֞ם תָּבֹ֣אוּ׀ אֶל־ עַ֣ם בֹּטֵ֗חַ וְהָאָ֙רֶץ֙ רַחֲבַ֣ת יָדַ֔יִם כִּֽי־ נְתָנָ֥הּ אֱלֹהִ֖ים בְּיֶדְכֶ֑ם מָקוֹם֙ אֲשֶׁ֣ר אֵֽין־ שָׁ֣ם מַחְס֔וֹר כָּל־ דָּבָ֖ר אֲשֶׁ֥ר בָּאָֽרֶץ׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9004]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0982]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7342H]]"
+- "[[H3027Q]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H8033G]]"
+- "[[H4270]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:10**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where [there is] no want of any thing that [is] in the earth.
 <small><sub>**BSB:**</sub></small>
 When you enter, you will come to an unsuspecting people and a spacious land, for God has delivered it into your hand. It is a place where nothing on earth is lacking.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H0935G\|בֹאֲ]][[H9046\|כֶ֞ם]] [[H0935G\|תָּבֹ֣אוּ]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H0982\|בֹּטֵ֗חַ]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H7342H\|רַחֲבַ֣ת]] [[H3027Q\|יָדַ֔יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נְתָנָ֥]][[H9034\|הּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶ֑ם]] [[H4725\|מָקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H4270\|מַחְס֔וֹר]] [[H3605\|כָּל]][[H9014\|־]] [[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JONATHAN|JONATHAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.9|<< Judges 18:9]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.11|Judges 18:11 >>]]</td></tr></table>
 

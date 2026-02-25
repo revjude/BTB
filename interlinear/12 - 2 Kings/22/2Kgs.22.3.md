@@ -1,8 +1,69 @@
+---
+title: 2 Kings 22:3
+type: Verse
+kjv: "And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,"
+bsb: "Now in the eighteenth year of his reign, King Josiah sent the scribe, Shaphan son of Azaliah, the son of Meshullam, to the house of the LORD, saying,"
+hebrew: "וַיְהִ֗י בִּשְׁמֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ שָׁלַ֣ח הַ֠מֶּלֶךְ אֶת־ שָׁפָ֨ן בֶּן־ אֲצַלְיָ֤הוּ בֶן־ מְשֻׁלָּם֙ הַסֹּפֵ֔ר בֵּ֥ית יְהוָ֖ה לֵאמֹֽר׃"
+pericope: "[[2Kgs.22.3 Funding the Temple Repairs|Funding the Temple Repairs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AZALIAH|AZALIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H2977G]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8227B]]"
+- "[[H1121A]]"
+- "[[H0683]]"
+- "[[H4918G]]"
+- "[[H5608B]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:3**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the eighteenth year of king Josiah, [that] the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,
 <small><sub>**BSB:**</sub></small>
 Now in the eighteenth year of his reign, King Josiah sent the scribe, Shaphan son of Azaliah, the son of Meshullam, to the house of the LORD, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H8083\|שְׁמֹנֶ֤ה]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2977G\|יֹאשִׁיָּ֑הוּ]] [[H7971G\|שָׁלַ֣ח]] [[H9009\|הַ֠]][[H4428G\|מֶּלֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H8227B\|שָׁפָ֨ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0683\|אֲצַלְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H4918G\|מְשֻׁלָּם֙]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZALIAH|AZALIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MESHULLAM|MESHULLAM]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.2|<< 2 Kings 22:2]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.4|2 Kings 22:4 >>]]</td></tr></table>
 

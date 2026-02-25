@@ -1,10 +1,74 @@
+---
+title: 1 Peter 3:18
+type: Verse
+kjv: "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
+bsb: "For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit,"
+greek: "ὅτι καὶ Χριστὸς ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων, ἵνα ὑμᾶς προσαγάγῃ τῷ θεῷ, θανατωθεὶς μὲν σαρκί, ζῳοποιηθεὶς δὲ τῷ πνεύματι,"
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic QUICKENING|QUICKENING]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G0530]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G3958]]"
+- "[[G1342]]"
+- "[[G5228]]"
+- "[[G0094]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G4317]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2289]]"
+- "[[G3303]]"
+- "[[G4561]]"
+- "[[G2227]]"
+- "[[G1161]]"
+- "[[G4151G]]"
+texts:
+- NKO
+- NK(O)
+- N(K)O
+- k
+---
+
 **1 Peter 3:18**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 <small><sub>**BSB:**</sub></small>
 For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit,
-<small><sub>**Literal:**</sub></small>
-because also Christ once for sins suffered, [the] righteous for [the] unrighteous, so that you He may bring <the> to God, having been put to death indeed in [the] flesh, having been made alive however in the spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.17|<< 1 Peter 3:17]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.19|1 Peter 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2532\|καὶ]]  [[G5547\|Χριστὸς]]  [[G0530\|ἅπαξ]]  [[G4012\|περὶ]]  [[G0266\|ἁμαρτιῶν]]  [[G3958\|ἔπαθεν,]]  [[G1342\|δίκαιος]]  [[G5228\|ὑπὲρ]]  [[G0094\|ἀδίκων,]]  [[G2443\|ἵνα]]  [[G4771\|ὑμᾶς]]  [[G4317\|προσαγάγῃ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G2289\|θανατωθεὶς]]  [[G3303\|μὲν]]  [[G4561\|σαρκί,]]  [[G2227\|ζῳοποιηθεὶς]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BAPTISM|BAPTISM]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic QUICKENING|QUICKENING]] • [[topic SUFFERING|SUFFERING]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.17|<< 1 Peter 3:17]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.19|1 Peter 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

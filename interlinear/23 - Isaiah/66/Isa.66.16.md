@@ -1,8 +1,60 @@
+---
+title: Isaiah 66:16
+type: Verse
+kjv: "For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many."
+bsb: "For by fire and by His sword, the LORD will execute judgment on all flesh, and many will be slain by the LORD."
+hebrew: "כִּ֤י בָאֵשׁ֙ יְהוָ֣ה נִשְׁפָּ֔ט וּבְחַרְבּ֖וֹ אֶת־ כָּל־ בָּשָׂ֑ר וְרַבּ֖וּ חַֽלְלֵ֥י יְהוָֽה׃"
+pericope: "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3068G]]"
+- "[[H8199]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H9001]]"
+- "[[H7231]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:16**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many.
 <small><sub>**BSB:**</sub></small>
 For by fire and by His sword, the LORD will execute judgment on all flesh, and many will be slain by the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9003\|בָ]][[H0784\|אֵשׁ֙]] [[H3068G\|יְהוָ֣ה]] [[H8199\|נִשְׁפָּ֔ט]] [[H9002\|וּ]][[H9003\|בְ]][[H2719\|חַרְבּ֖]][[H9023\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H9001\|וְ]][[H7231\|רַבּ֖וּ]] [[H2491A\|חַֽלְלֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.15|<< Isaiah 66:15]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.17|Isaiah 66:17 >>]]</td></tr></table>
 

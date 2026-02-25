@@ -1,6 +1,76 @@
+---
+title: LXX Deuteronomy 1:22
+type: Verse
+lxx: "And you all came forward to me, and said, You should send men in front of us, and let them explore the land for us, and let them announce to us an answer for the way through which we shall ascend by it! and the cities into which we shall enter into them."
+greek: "και προσήλθατέ μοι πάντες υμεις και είπατε αποστείλωμεν άνδρας προτέρους ημών και εφοδευσάτωσαν ημίν την γην και αναγγειλάτωσαν ημίν απόκρισιν την οδόν δι΄ ης αναβησόμεθα εν αυτή και τας πόλεις εις ας εισπορευσόμεθα εις αυτάς"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0649]]"
+- "[[G0435]]"
+- "[[G4387]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G7583]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G0312]]"
+- "[[G1473]]"
+- "[[G0612]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G0305]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 1:22** 
 <small><sub>**LXX:**</sub></small>
 And you all came forward to me, and said, You should send men in front of us, and let them explore the land for us, and let them announce to us an answer for the way through which we shall ascend by it! and the cities into which we shall enter into them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4334\|προσήλθατέ]] [[G1473\|μοι]] [[G3956\|πάντες]] [[G1473\|υμεις]] [[G2532\|και]] [[G2036\|είπατε]] [[G0649\|αποστείλωμεν]] [[G0435\|άνδρας]] [[G4387\|προτέρους]] [[G1473\|ημών]] [[G2532\|και]] [[G7583\|εφοδευσάτωσαν]] [[G1473\|ημίν]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G0312\|αναγγειλάτωσαν]] [[G1473\|ημίν]] [[G0612\|απόκρισιν]] [[G3588\|την]] [[G3598\|οδόν]] [[G1223\|δι΄]] [[G3739\|ης]] [[G0305\|αναβησόμεθα]] [[G1722\|εν]] [[G1473\|αυτή]] [[G2532\|και]] [[G3588\|τας]] [[G4172\|πόλεις]] [[G1519\|εις]] [[G3739\|ας]] [[G1531\|εισπορευσόμεθα]] [[G1519\|εις]] [[G1473\|αυτάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
@@ -40,6 +110,6 @@ And you all came forward to me, and said, You should send men in front of us, an
 | we shall enter | **<big>[[G1531\|εισπορευσόμεθα]]</big>** |
 | into | **<big>[[G1519\|εις]]</big>** |
 | them. | **<big>[[G1473\|αυτάς]]</big>** |
-[[Deut.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
 

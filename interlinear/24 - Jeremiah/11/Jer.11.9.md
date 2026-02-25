@@ -1,8 +1,59 @@
+---
+title: Jeremiah 11:9
+type: Verse
+kjv: "And the LORD said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem."
+bsb: "And the LORD told me, “There is a conspiracy among the men of Judah and the residents of Jerusalem."
+hebrew: "וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י נִֽמְצָא־ קֶ֙שֶׁר֙ בְּאִ֣ישׁ יְהוּדָ֔ה וּבְיֹשְׁבֵ֖י יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4672]]"
+- "[[H9014]]"
+- "[[H7195]]"
+- "[[H9003]]"
+- "[[H0376I]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:9**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And the LORD told me, “There is a conspiracy among the men of Judah and the residents of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H4672\|נִֽמְצָא]][[H9014\|־]] [[H7195\|קֶ֙שֶׁר֙]] [[H9003\|בְּ]][[H0376I\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3427\|יֹשְׁבֵ֖י]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.8|<< Jeremiah 11:8]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.10|Jeremiah 11:10 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 23:15
+type: Verse
+kjv: "My son, if thine heart be wise, my heart shall rejoice, even mine."
+bsb: "My son, if your heart is wise, my own heart will indeed rejoice."
+hebrew: "בְּ֭נִי אִם־ חָכַ֣ם לִבֶּ֑ךָ יִשְׂמַ֖ח לִבִּ֣י גַם־ אָֽנִי׃"
+pericope: "[[Prov.23.15 Saying 14|Saying 14]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEART|HEART]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2449]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H8055]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:15**<big><big>[[Prov.23.15 Saying 14|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, if thine heart be wise, my heart shall rejoice, even mine.
 <small><sub>**BSB:**</sub></small>
 My son, if your heart is wise, my own heart will indeed rejoice.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּ֭נִ]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H2449\|חָכַ֣ם]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H8055\|יִשְׂמַ֖ח]] [[H3820A\|לִבִּ֣]][[H9020\|י]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HEART|HEART]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.14|<< Proverbs 23:14]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.16|Proverbs 23:16 >>]]</td></tr></table>
 

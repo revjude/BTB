@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sons of Aaron
+type: Pericope
 pericope: "[[Num.3.1 The Sons of Aaron|The Sons of Aaron]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.3.1]]"
 - "[[Num.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.3.4]]"
 ---
 
-[[Num.3|Numbers 3:1 - Numbers 3:4]]
+<small>[[Num.3|Numbers 3:1-4]]</small>
 *The Sons of Aaron*
 
 [[Num.3.1|1]] These also \[are\] the generations of Aaron and Moses in the day \[that\] the LORD spake with Moses in mount Sinai.

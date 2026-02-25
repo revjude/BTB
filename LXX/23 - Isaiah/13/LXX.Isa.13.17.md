@@ -1,6 +1,53 @@
+---
+title: LXX Isaiah 13:17
+type: Verse
+lxx: "Behold, I rouse against you the Medes -- the ones not considering silver, nor have need of gold."
+greek: "ιδού επεγείρω υμίν τους Μήδους οι αργύριον ου λογίζονται ουδέ χρυσίου χρείαν έχουσι"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[G2400]]"
+- "[[G1892]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3370]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G3756]]"
+- "[[G3049]]"
+- "[[G3761]]"
+- "[[G5553]]"
+- "[[G5532]]"
+- "[[G2192]]"
+---
+
 **LXX Isaiah 13:17** 
 <small><sub>**LXX:**</sub></small>
 Behold, I rouse against you the Medes -- the ones not considering silver, nor have need of gold. 
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ιδού]] [[G1892\|επεγείρω]] [[G1473\|υμίν]] [[G3588\|τους]] [[G3370\|Μήδους]] [[G3588\|οι]] [[G0694\|αργύριον]] [[G3756\|ου]] [[G3049\|λογίζονται]] [[G3761\|ουδέ]] [[G5553\|χρυσίου]] [[G5532\|χρείαν]] [[G2192\|έχουσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic CYRUS|CYRUS]] • [[topic GOLD|GOLD]] • [[topic MONEY|MONEY]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
 
@@ -18,6 +65,6 @@ Behold, I rouse against you the Medes -- the ones not considering silver, nor ha
 | of gold | **<big>[[G5553\|χρυσίου]]</big>** |
 | need | **<big>[[G5532\|χρείαν]]</big>** |
 | have | **<big>[[G2192\|έχουσι]]</big>** |
-[[Isa.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
 
 

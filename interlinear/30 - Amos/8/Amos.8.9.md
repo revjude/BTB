@@ -1,8 +1,61 @@
+---
+title: Amos 8:9
+type: Verse
+kjv: "And it shall come to pass in that day, saith the Lord GOD, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:"
+bsb: "And in that day, declares the Lord GOD, I will make the sun go down at noon, and I will darken the earth in the daytime."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְהֵבֵאתִ֥י הַשֶּׁ֖מֶשׁ בַּֽצָּהֳרָ֑יִם וְהַחֲשַׁכְתִּ֥י לָאָ֖רֶץ בְּי֥וֹם אֽוֹר׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0935K]]"
+- "[[H8121]]"
+- "[[H6672A]]"
+- "[[H2821]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:9**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, saith the Lord GOD, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:
 <small><sub>**BSB:**</sub></small>
 And in that day, declares the Lord GOD, I will make the sun go down at noon, and I will darken the earth in the daytime.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וְ]][[H0935K\|הֵבֵאתִ֥י]] [[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H9003\|בַּֽ]][[H6672A\|צָּהֳרָ֑יִם]] [[H9001\|וְ]][[H2821\|הַחֲשַׁכְתִּ֥י]] [[H9005\|לָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic ECLIPSE|ECLIPSE]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.8|<< Amos 8:8]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.10|Amos 8:10 >>]]</td></tr></table>
 

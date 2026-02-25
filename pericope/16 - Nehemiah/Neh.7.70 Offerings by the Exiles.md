@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings by the Exiles
+type: Pericope
 pericope: "[[Neh.7.70 Offerings by the Exiles|Offerings by the Exiles]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 7
 book/chapter: "[[Neh.7|Nehemiah 7]]"
-genre:
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 4
 verses:
 - "[[Neh.7.70]]"
 - "[[Neh.7.71]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Neh.7.73]]"
 ---
 
-[[Neh.7|Nehemiah 7:70 - Nehemiah 7:73]]
+<small>[[Neh.7|Nehemiah 7:70-73]]</small>
 *Offerings by the Exiles*
 
 [[Neh.7.70|70]] And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.

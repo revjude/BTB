@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 5:19
+type: Verse
+kjv: "And David inquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand."
+bsb: "So David inquired of the LORD, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go up,” replied the LORD, “for I will surely deliver the Philistines into your hand.”"
+hebrew: "וַיִּשְׁאַ֨ל דָּוִ֤ד בַּֽיהוָה֙ לֵאמֹ֔ר הַאֶֽעֱלֶה֙ אֶל־ פְּלִשְׁתִּ֔ים הֲתִתְּנֵ֖ם בְּיָדִ֑י וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ דָּוִד֙ עֲלֵ֔ה כִּֽי־ נָתֹ֥ן אֶתֵּ֛ן אֶת־ הַפְּלִשְׁתִּ֖ים בְּיָדֶֽךָ׃"
+pericope: "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:19**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David inquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.
 <small><sub>**BSB:**</sub></small>
 So David inquired of the LORD, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go up,” replied the LORD, “for I will surely deliver the Philistines into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֨ל]] [[H1732\|דָּוִ֤ד]] [[H9003\|בַּֽ]][[H3068G\|יהוָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9008\|הַ]][[H5927G\|אֶֽעֱלֶה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9008\|הֲ]][[H5414G\|תִתְּנֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִד֙]] [[H5927G\|עֲלֵ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתֹ֥ן]] [[H5414G\|אֶתֵּ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖ים]] [[H9003\|בְּ]][[H3027H\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.18|<< 2 Samuel 5:18]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.20|2 Samuel 5:20 >>]]</td></tr></table>
 

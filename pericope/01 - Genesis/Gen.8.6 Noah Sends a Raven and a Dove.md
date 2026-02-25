@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Noah Sends a Raven and a Dove
+type: Pericope
 pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 8
 book/chapter: "[[Gen.8|Genesis 8]]"
-genre:
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.8.6]]"
 - "[[Gen.8.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.8.12]]"
 ---
 
-[[Gen.8|Genesis 8:6 - Genesis 8:12]]
+<small>[[Gen.8|Genesis 8:6-12]]</small>
 *Noah Sends a Raven and a Dove*
 
 [[Gen.8.6|6]] And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:

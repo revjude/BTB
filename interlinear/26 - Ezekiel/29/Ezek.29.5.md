@@ -1,8 +1,67 @@
+---
+title: Ezekiel 29:5
+type: Verse
+kjv: "And I will leave thee thrown into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven."
+bsb: "I will leave you in the desert, you and all the fish of your streams. You will fall on the open field and will not be taken away or gathered for burial. I have given you as food to the beasts of the earth and the birds of the air."
+hebrew: "וּנְטַשְׁתִּ֣יךָ הַמִּדְבָּ֗רָה אוֹתְךָ֙ וְאֵת֙ כָּל־ דְּגַ֣ת יְאֹרֶ֔יךָ עַל־ פְּנֵ֤י הַשָּׂדֶה֙ תִּפּ֔וֹל לֹ֥א תֵאָסֵ֖ף וְלֹ֣א תִקָּבֵ֑ץ לְחַיַּ֥ת הָאָ֛רֶץ וּלְע֥וֹף הַשָּׁמַ֖יִם נְתַתִּ֥יךָ לְאָכְלָֽה׃"
+pericope: "[[Ezek.29.1 A Prophecy against Pharaoh|A Prophecy against Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5203]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1710]]"
+- "[[H2975H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H7704G]]"
+- "[[H5307J]]"
+- "[[H3808]]"
+- "[[H0622]]"
+- "[[H6908]]"
+- "[[H9005]]"
+- "[[H2416C]]"
+- "[[H0776H]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H5414G]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:5**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will leave thee [thrown] into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.
 <small><sub>**BSB:**</sub></small>
 I will leave you in the desert, you and all the fish of your streams. You will fall on the open field and will not be taken away or gathered for burial. I have given you as food to the beasts of the earth and the birds of the air.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5203\|נְטַשְׁתִּ֣י]][[H9031\|ךָ]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֗רָ]][[H9011\|ה]] [[H0853\|אוֹתְ]][[H9031\|ךָ֙]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1710\|דְּגַ֣ת]] [[H2975H\|יְאֹרֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֤י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H5307J\|תִּפּ֔וֹל]] [[H3808\|לֹ֥א]] [[H0622\|תֵאָסֵ֖ף]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6908\|תִקָּבֵ֑ץ]] [[H9005\|לְ]][[H2416C\|חַיַּ֥ת]] [[H9009\|הָ]][[H0776H\|אָ֛רֶץ]] [[H9002\|וּ]][[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H5414G\|נְתַתִּ֥י]][[H9031\|ךָ]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.4|<< Ezekiel 29:4]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.6|Ezekiel 29:6 >>]]</td></tr></table>
 

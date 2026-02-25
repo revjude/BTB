@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 10:7
+type: Verse
+kjv: "Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play."
+bsb: "Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and drink and got up to indulge in revelry.”"
+greek: "μηδὲ εἰδωλολάτραι γίνεσθε καθώς τινες αὐτῶν ὥσπερ γέγραπται· ἐκάθισεν ὁ λαὸς φαγεῖν καὶ πεῖν καὶ ἀνέστησαν παίζειν."
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LUST|LUST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3366]]"
+- "[[G1496]]"
+- "[[G1096]]"
+- "[[G2531]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G5618]]"
+- "[[G1125]]"
+- "[[G2523]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G5315]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G0450]]"
+- "[[G3815]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 10:7**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither be ye idolaters, as [were] some of them; as it is written, The people sat down to eat and drink, and rose up to play.
 <small><sub>**BSB:**</sub></small>
 Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and drink and got up to indulge in revelry.”
-<small><sub>**Literal:**</sub></small>
-Neither idolaters do become even as some of them as it has been written: Sat down the people to eat and to drink and rose up to play.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.6|<< 1 Corinthians 10:6]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.8|1 Corinthians 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3366\|μηδὲ]]  [[G1496\|εἰδωλολάτραι]]  [[G1096\|γίνεσθε]]  [[G2531\|καθώς]]  [[G5100\|τινες]]  [[G0846\|αὐτῶν]]  [[G5618\|ὥσπερ]]  [[G1125\|γέγραπται·]]  [[G2523\|ἐκάθισεν]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G5315\|φαγεῖν]]  [[G2532\|καὶ]]  [[G4095\|πεῖν]]  [[G2532\|καὶ]]  [[G0450\|ἀνέστησαν]]  [[G3815\|παίζειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LUST|LUST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.6|<< 1 Corinthians 10:6]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.8|1 Corinthians 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 10:7** is...
 > $\quad$ referencing: [[LXX.Exod.32.6|Exod 32:6]] ☩ [[LXX.Ps.106.19|Ps 106:19]]

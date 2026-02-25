@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel Denounces Saul
+type: Pericope
 pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 15
 book/chapter: "[[1Sam.15|1 Samuel 15]]"
-genre:
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[1Sam.15.10]]"
 - "[[1Sam.15.11]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Sam.15.23]]"
 ---
 
-[[1Sam.15|1 Samuel 15:10 - 1 Samuel 15:23]]
+<small>[[1Sam.15|1 Samuel 15:10-23]]</small>
 *Samuel Denounces Saul*
 
 [[1Sam.15.10|10]] Then came the word of the LORD unto Samuel, saying,

@@ -1,10 +1,66 @@
+---
+title: Luke 7:7
+type: Verse
+kjv: "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+bsb: "That is why I did not consider myself worthy to come to You. But just say the word, and my servant will be healed."
+greek: "διὸ οὐδὲ ἐμαυτὸν ἠξίωσα πρὸς σὲ ἐλθεῖν. ἀλλ᾽ εἰπὲ λόγῳ, καὶ ἰαθήτω ὁ παῖς μου."
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G1352]]"
+- "[[G3761]]"
+- "[[G1473]]"
+- "[[G0515]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G0235]]"
+- "[[G2036]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G2390]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:7**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.
 <small><sub>**BSB:**</sub></small>
 That is why I did not consider myself worthy to come to You. But just say the word, and my servant will be healed.
-<small><sub>**Literal:**</sub></small>
-therefore neither myself counted I worthy to You to come. but do say a word, and let be healed the servant of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.6|<< Luke 7:6]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.8|Luke 7:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G3761\|οὐδὲ]]  [[G1473\|ἐμαυτὸν]]  [[G0515\|ἠξίωσα]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2064\|ἐλθεῖν.]]  [[G0235\|ἀλλ᾽]]  [[G2036\|εἰπὲ]]  [[G3056\|λόγῳ,]]  [[G2532\|καὶ]]  [[G2390\|ἰαθήτω]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.6|<< Luke 7:6]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.8|Luke 7:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

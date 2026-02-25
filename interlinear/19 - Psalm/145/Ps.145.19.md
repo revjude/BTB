@@ -1,8 +1,62 @@
+---
+title: Psalm 145:19
+type: Verse
+kjv: "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them."
+bsb: "He fulfills the desires of those who fear Him; He hears their cry and saves them."
+hebrew: "רְצוֹן־ יְרֵאָ֥יו יַעֲשֶׂ֑ה וְֽאֶת־ שַׁוְעָתָ֥ם יִ֝שְׁמַ֗ע וְיוֹשִׁיעֵֽם׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H7522]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H7775]]"
+- "[[H9028]]"
+- "[[H8085G]]"
+- "[[H3467]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:19**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.
 <small><sub>**BSB:**</sub></small>
 He fulfills the desires of those who fear Him; He hears their cry and saves them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7522\|רְצוֹן]][[H9014\|־]] [[H3373\|יְרֵאָ֥י]][[H9023\|ו]] [[H6213A\|יַעֲשֶׂ֑ה]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H7775\|שַׁוְעָתָ֥]][[H9028\|ם]] [[H8085G\|יִ֝שְׁמַ֗ע]] [[H9002\|וְ]][[H3467\|יוֹשִׁיעֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAISE|PRAISE]] • [[topic PRAYER|PRAYER]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.18|<< Psalms 145:18]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.20|Psalms 145:20 >>]]</td></tr></table>
 

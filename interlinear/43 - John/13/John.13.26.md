@@ -1,10 +1,65 @@
+---
+title: John 13:26
+type: Verse
+kjv: "Jesus answered, He it is, to whom I shall give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon."
+bsb: "Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot."
+jesus_said: "He it is, to whom I shall give a sop, when I have dipped it."
+greek: "ἀποκρίνεται οὖν ὁ Ἰησοῦς· ἐκεῖνός ἐστιν ᾧ ἐγὼ βάψω τὸ ψωμίον καὶ δώσω αὐτῷ. καὶ βάψας οὖν τὸ ψωμίον λαμβάνει καὶ δίδωσιν Ἰούδᾳ Σίμωνος Ἰσκαριώτου."
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G0911]]"
+- "[[G5596]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2983]]"
+- "[[G2455H]]"
+- "[[G4613L]]"
+- "[[G2469]]"
+texts:
+- NKO
+- O
+- N(k)O
+- no
+- k
+---
+
 **John 13:26**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, He it is, to whom I shall give a sop, when I have dipped [it]. And when he had dipped the sop, he gave [it] to Judas Iscariot, [the son] of Simon.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot.
-<small><sub>**Literal:**</sub></small>
-Answers therefore <the> Jesus; He it is to whom I myself will dip the morsel and will give to him. And having dipped then the morsel He takes [it] and gives [it] to Judas [son] of Simon Iscariot.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.25|<< John 13:25]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.27|John 13:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκρίνεται]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1565\|ἐκεῖνός]]  [[G1510\|ἐστιν]]  [[G3739\|ᾧ]]  [[G1473\|ἐγὼ]]  [[G0911\|βάψω]]  [[G3588\|τὸ]]  [[G5596\|ψωμίον]]  [[G2532\|καὶ]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ.]]  [[G2532\|καὶ]]  [[G0911\|βάψας]]  [[G3767\|οὖν]]  [[G3588\|τὸ]]  [[G5596\|ψωμίον]]  [[G2983\|λαμβάνει]]  [[G2532\|καὶ]]  [[G1325\|δίδωσιν]]  [[G2455H\|Ἰούδᾳ]]  [[G4613L\|Σίμωνος]]  [[G2469\|Ἰσκαριώτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.25|<< John 13:25]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.27|John 13:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: Jeremiah 15:19
+type: Verse
+kjv: "Therefore thus saith the LORD, If thou return, then will I bring thee again, and thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth: let them return unto thee; but return not thou unto them."
+bsb: "Therefore this is what the LORD says: “If you return, I will restore you; you will stand in My presence. And if you speak words that are noble instead of worthless, you will be My spokesman. It is they who must turn to you, but you must not turn to them."
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה אִם־ תָּשׁ֤וּב וַאֲשִֽׁיבְךָ֙ לְפָנַ֣י תַּֽעֲמֹ֔ד וְאִם־ תּוֹצִ֥יא יָקָ֛ר מִזּוֹלֵ֖ל כְּפִ֣י תִֽהְיֶ֑ה יָשֻׁ֤בוּ הֵ֙מָּה֙ אֵלֶ֔יךָ וְאַתָּ֖ה לֹֽא־ תָשׁ֥וּב אֲלֵיהֶֽם׃"
+pericope: "[[Jer.15.19 The LORD’s Promise|The LORD’s Promise]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518A]]"
+- "[[H7725O]]"
+- "[[H9002]]"
+- "[[H7725H]]"
+- "[[H9031]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H5975G]]"
+- "[[H3318O]]"
+- "[[H3368]]"
+- "[[H9006]]"
+- "[[H2151B]]"
+- "[[H9004]]"
+- "[[H6310G]]"
+- "[[H1961]]"
+- "[[H1992]]"
+- "[[H0413]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:19**<big><big>[[Jer.15.19 The LORD’s Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD, If thou return, then will I bring thee again, [and] thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth: let them return unto thee; but return not thou unto them.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: “If you return, I will restore you; you will stand in My presence. And if you speak words that are noble instead of worthless, you will be My spokesman. It is they who must turn to you, but you must not turn to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H7725O\|תָּשׁ֤וּב]] [[H9002\|וַ]][[H7725H\|אֲשִֽׁיבְ]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H6440G\|פָנַ֣]][[H9020\|י]] [[H5975G\|תַּֽעֲמֹ֔ד]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3318O\|תּוֹצִ֥יא]] [[H3368\|יָקָ֛ר]] [[H9006\|מִ]][[H2151B\|זּוֹלֵ֖ל]] [[H9004\|כְּ]][[H6310G\|פִ֣]][[H9020\|י]] [[H1961\|תִֽהְיֶ֑ה]] [[H7725H\|יָשֻׁ֤בוּ]] [[H1992\|הֵ֙מָּה֙]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725I\|תָשׁ֥וּב]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.18|<< Jeremiah 15:18]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.20|Jeremiah 15:20 >>]]</td></tr></table>
 

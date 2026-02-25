@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem’s Unfaithfulness
+type: Pericope
 pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
-verse_count: 34
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 16
 book/chapter: "[[Ezek.16|Ezekiel 16]]"
-genre:
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 34
 verses:
 - "[[Ezek.16.1]]"
 - "[[Ezek.16.2]]"
@@ -55,7 +62,7 @@ verses:
 - "[[Ezek.16.34]]"
 ---
 
-[[Ezek.16|Ezekiel 16:1 - Ezekiel 16:34]]
+<small>[[Ezek.16|Ezekiel 16:1-34]]</small>
 *Jerusalem’s Unfaithfulness*
 
 [[Ezek.16.1|1]] Again the word of the LORD came unto me, saying,

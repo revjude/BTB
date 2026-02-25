@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Consequence of Israel’s Sin
+type: Pericope
 pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 2
 book/chapter: "[[Jer.2|Jeremiah 2]]"
-genre:
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.2.14]]"
 - "[[Jer.2.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.2.22]]"
 ---
 
-[[Jer.2|Jeremiah 2:14 - Jeremiah 2:22]]
+<small>[[Jer.2|Jeremiah 2:14-22]]</small>
 *The Consequence of Israel’s Sin*
 
 [[Jer.2.14|14]] \[Is\] Israel a servant? \[is\] he a homeborn \[slave\]? why is he spoiled?

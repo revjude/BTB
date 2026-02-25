@@ -1,8 +1,52 @@
+---
+title: Psalm 48:4
+type: Verse
+kjv: "For, lo, the kings were assembled, they passed by together."
+bsb: "For behold, the kings assembled; they all advanced together."
+hebrew: "כִּֽי־ הִנֵּ֣ה הַ֭מְּלָכִים נֽוֹעֲד֑וּ עָבְר֥וּ יַחְדָּֽו׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3259]]"
+- "[[H5674A]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:4**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, the kings were assembled, they passed by together.
 <small><sub>**BSB:**</sub></small>
 For behold, the kings assembled; they all advanced together.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֣ה]] [[H9009\|הַ֭]][[H4428G\|מְּלָכִים]] [[H3259\|נֽוֹעֲד֑וּ]] [[H5674A\|עָבְר֥וּ]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.3|<< Psalms 48:3]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.5|Psalms 48:5 >>]]</td></tr></table>
 

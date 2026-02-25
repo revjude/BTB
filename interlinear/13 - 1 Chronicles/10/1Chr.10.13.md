@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 10:13
+type: Verse
+kjv: "So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to inquire of it;"
+bsb: "So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,"
+hebrew: "וַיָּ֣מָת שָׁא֗וּל בְּמַֽעֲלוֹ֙ אֲשֶׁ֣ר מָעַ֣ל בַּֽיהוָ֔ה עַל־ דְּבַ֥ר יְהוָ֖ה אֲשֶׁ֣ר לֹא־ שָׁמָ֑ר וְגַם־ לִשְׁא֥וֹל בָּא֖וֹב לִדְרֽוֹשׁ׃"
+pericope: "[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H4604]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H7592]]"
+- "[[H0178]]"
+- "[[H1875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 10:13**<big><big>[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Saul died for his transgression which he committed against the LORD, [even] against the word of the LORD, which he kept not, and also for asking [counsel] of [one that had] a familiar spirit, to inquire [of it];
 <small><sub>**BSB:**</sub></small>
 So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H7586G\|שָׁא֗וּל]] [[H9003\|בְּ]][[H4604\|מַֽעֲל]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4603\|מָעַ֣ל]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דְּבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H8104G\|שָׁמָ֑ר]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9005\|לִ]][[H7592\|שְׁא֥וֹל]] [[H9003\|בָּ]][[H0178\|א֖וֹב]] [[H9005\|לִ]][[H1875\|דְרֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.12|<< 1 Chronicles 10:12]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.14|1 Chronicles 10:14 >>]]</td></tr></table>
 

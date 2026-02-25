@@ -1,8 +1,57 @@
+---
+title: Leviticus 1:6
+type: Verse
+kjv: "And he shall flay the burnt offering, and cut it into his pieces."
+bsb: "Next, he is to skin the burnt offering and cut it into pieces."
+hebrew: "וְהִפְשִׁ֖יט אֶת־ הָעֹלָ֑ה וְנִתַּ֥ח אֹתָ֖הּ לִנְתָחֶֽיהָ׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H5408]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H5409]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:6**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall flay the burnt offering, and cut it into his pieces.
 <small><sub>**BSB:**</sub></small>
 Next, he is to skin the burnt offering and cut it into pieces.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6584\|הִפְשִׁ֖יט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֑ה]] [[H9001\|וְ]][[H5408\|נִתַּ֥ח]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9005\|לִ]][[H5409\|נְתָחֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.5|<< Leviticus 1:5]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.7|Leviticus 1:7 >>]]</td></tr></table>
 

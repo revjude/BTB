@@ -1,8 +1,78 @@
+---
+title: 1 Kings 11:11
+type: Verse
+kjv: "Wherefore the LORD said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant."
+bsb: "Then the LORD said to Solomon, “Because you have done this and have not kept My covenant and My statutes, which I have commanded you, I will tear the kingdom away from you and give it to your servant."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה לִשְׁלֹמֹ֗ה יַ֚עַן אֲשֶׁ֣ר הָֽיְתָה־ זֹּ֣את עִמָּ֔ךְ וְלֹ֤א שָׁמַ֙רְתָּ֙ בְּרִיתִ֣י וְחֻקֹּתַ֔י אֲשֶׁ֥ר צִוִּ֖יתִי עָלֶ֑יךָ קָרֹ֨עַ אֶקְרַ֤ע אֶת־ הַמַּמְלָכָה֙ מֵֽעָלֶ֔יךָ וּנְתַתִּ֖יהָ לְעַבְדֶּֽךָ׃"
+pericope: "[[1Kgs.11.9 God’s Anger against Solomon|God’s Anger against Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H2708]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9006]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:11**<big><big>[[1Kgs.11.9 God’s Anger against Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the LORD said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Solomon, “Because you have done this and have not kept My covenant and My statutes, which I have commanded you, I will tear the kingdom away from you and give it to your servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֗ה]] [[H3282\|יַ֚עַן]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָֽיְתָה]][[H9014\|־]] [[H2063\|זֹּ֣את]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8104G\|שָׁמַ֙רְתָּ֙]] [[H1285\|בְּרִיתִ֣]][[H9020\|י]] [[H9002\|וְ]][[H2708\|חֻקֹּתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתִי]] [[H5921A\|עָלֶ֑י]][[H9031\|ךָ]] [[H7167\|קָרֹ֨עַ]] [[H7167\|אֶקְרַ֤ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָה֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֖י]][[H9034\|הָ]] [[H9005\|לְ]][[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.10|<< 1 Kings 11:10]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.12|1 Kings 11:12 >>]]</td></tr></table>
 

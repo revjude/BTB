@@ -1,6 +1,71 @@
+---
+title: LXX Deuteronomy 21:8
+type: Verse
+lxx: "Let kindness come to your people Israel, whom you ransomed from the land of Egypt, O lord, that there should not be innocent blood to  your people Israel. And the blood shall be atoned for to them."
+greek: "ίλεως γενού τω λαώ σου Ισραήλ ους ελυτρώσω εκ γης Αιγύπτου κύριε ίνα μη γένηται αίμα αναίτιον εν τω λαώ σου Ισραήλ και εξιλασθήσεται αυτοίς το αίμα"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INQUEST|INQUEST]]"
+strongs:
+- "[[G2436]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2474]]"
+- "[[G3739]]"
+- "[[G3084]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G2962]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G0129]]"
+- "[[G0338]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G7331]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0129]]"
+---
+
 **LXX Deuteronomy 21:8** 
 <small><sub>**LXX:**</sub></small>
 Let kindness come \[to\] your people Israel, whom you ransomed from \[the\] land of Egypt, O <span class="smallcaps">lord</span>, that there should not be innocent blood to  your people Israel. And the blood shall be atoned for to them. 
+<small><sub>**Greek:**</sub></small>
+[[G2436\|ίλεως]] [[G1096\|γενού]] [[G3588\|τω]] [[G2992\|λαώ]] [[G1473\|σου]] [[G2474\|Ισραήλ]] [[G3739\|ους]] [[G3084\|ελυτρώσω]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G2962\|κύριε]] [[G2443\|ίνα]] [[G3361\|μη]] [[G1096\|γένηται]] [[G0129\|αίμα]] [[G0338\|αναίτιον]] [[G1722\|εν]] [[G3588\|τω]] [[G2992\|λαώ]] [[G1473\|σου]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G7331\|εξιλασθήσεται]] [[G1473\|αυτοίς]] [[G3588\|το]] [[G0129\|αίμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INQUEST|INQUEST]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
 
@@ -31,6 +96,6 @@ Let kindness come \[to\] your people Israel, whom you ransomed from \[the\] land
 | to them | **<big>[[G1473\|αυτοίς]]</big>** |
 | the | **<big>[[G3588\|το]]</big>** |
 | blood | **<big>[[G0129\|αίμα]]</big>** |
-[[Deut.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
 
 

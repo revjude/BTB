@@ -1,10 +1,61 @@
+---
+title: Matthew 8:27
+type: Verse
+kjv: "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!"
+bsb: "The men were amazed and asked, “What kind of man is this? Even the winds and the sea obey Him!”"
+greek: "Οἱ δὲ ἄνθρωποι ἐθαύμασαν λέγοντες· ποταπός ἐστιν οὗτος ὅτι καὶ οἱ ἄνεμοι καὶ ἡ θάλασσα αὐτῷ ὑπακούουσιν;¶"
+pericope: "[[Matt.8.23 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0444]]"
+- "[[G2296]]"
+- "[[G3004G]]"
+- "[[G4217]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G0417]]"
+- "[[G2281]]"
+- "[[G0846]]"
+- "[[G5219]]"
+texts:
+- NKO
+---
+
 **Matthew 8:27**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 <small><sub>**BSB:**</sub></small>
 The men were amazed and asked, “What kind of man is this? Even the winds and the sea obey Him!”
-<small><sub>**Literal:**</sub></small>
-<the> And the men marveled saying; What kind [of man] is this that even the winds and the sea Him obey<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.26|<< Matthew 8:26]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.28|Matthew 8:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0444\|ἄνθρωποι]]  [[G2296\|ἐθαύμασαν]]  [[G3004G\|λέγοντες·]]  [[G4217\|ποταπός]]  [[G1510\|ἐστιν]]  [[G3778\|οὗτος]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0417\|ἄνεμοι]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2281\|θάλασσα]]  [[G0846\|αὐτῷ]]  [[G5219\|ὑπακούουσιν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.26|<< Matthew 8:26]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.28|Matthew 8:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Zechariah 11:6
+type: Verse
+kjv: "For I will no more pity the inhabitants of the land, saith the LORD: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver them."
+bsb: "For I will no longer have compassion on the people of the land, declares the LORD, but behold, I will cause each man to fall into the hands of his neighbor and his king, who will devastate the land, and I will not deliver it from their hands.”"
+hebrew: "כִּ֠י לֹ֣א אֶחְמ֥וֹל ע֛וֹד עַל־ יֹשְׁבֵ֥י הָאָ֖רֶץ נְאֻם־ יְהוָ֑ה וְהִנֵּ֨ה אָנֹכִ֜י מַמְצִ֣יא אֶת־ הָאָדָ֗ם אִ֤ישׁ בְּיַד־ רֵעֵ֙הוּ֙ וּבְיַ֣ד מַלְכּ֔וֹ וְכִתְּתוּ֙ אֶת־ הָאָ֔רֶץ וְלֹ֥א אַצִּ֖יל מִיָּדָֽם׃"
+pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H5750]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H0120G]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4428G]]"
+- "[[H9001]]"
+- "[[H3807]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 11:6**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will no more pity the inhabitants of the land, saith the LORD: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver [them].
 <small><sub>**BSB:**</sub></small>
 For I will no longer have compassion on the people of the land, declares the LORD, but behold, I will cause each man to fall into the hands of his neighbor and his king, who will devastate the land, and I will not deliver it from their hands.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H2550\|אֶחְמ֥וֹל]] [[H5750\|ע֛וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H4672\|מַמְצִ֣יא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֗ם]] [[H0376I\|אִ֤ישׁ]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֣ד]] [[H4428G\|מַלְכּ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3807\|כִתְּתוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5337\|אַצִּ֖יל]] [[H9006\|מִ]][[H3027H\|יָּדָֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.5|<< Zechariah 11:5]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.7|Zechariah 11:7 >>]]</td></tr></table>
 

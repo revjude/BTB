@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 26:23
+type: Verse
+kjv: "So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead."
+bsb: "And Uzziah rested with his fathers and was buried near them in a field of burial that belonged to the kings, for the people said, “He was a leper.” And his son Jotham reigned in his place."
+hebrew: "וַיִּשְׁכַּ֨ב עֻזִּיָּ֜הוּ עִם־ אֲבֹתָ֗יו וַיִּקְבְּר֨וּ אֹת֤וֹ עִם־ אֲבֹתָיו֙ בִּשְׂדֵ֤ה הַקְּבוּרָה֙ אֲשֶׁ֣ר לַמְּלָכִ֔ים כִּ֥י אָמְר֖וּ מְצוֹרָ֣ע ה֑וּא וַיִּמְלֹ֛ךְ יוֹתָ֥ם בְּנ֖וֹ תַּחְתָּֽיו׃ פ"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H5818G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H6900]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H6879]]"
+- "[[H1931]]"
+- "[[H4427A]]"
+- "[[H3147H]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:23**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which [belonged] to the kings; for they said, He [is] a leper: and Jotham his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Uzziah rested with his fathers and was buried near them in a field of burial that belonged to the kings, for the people said, “He was a leper.” And his son Jotham reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֨ב]] [[H5818G\|עֻזִּיָּ֜הוּ]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֨וּ]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָי]][[H9023\|ו֙]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֤ה]] [[H9009\|הַ]][[H6900\|קְּבוּרָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H4428G\|מְּלָכִ֔ים]] [[H3588A\|כִּ֥י]] [[H0559\|אָמְר֖וּ]] [[H6879\|מְצוֹרָ֣ע]] [[H1931\|ה֑וּא]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H3147H\|יוֹתָ֥ם]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOTHAM|JOTHAM]] • [[topic LEPROSY|LEPROSY]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.22|<< 2 Chronicles 26:22]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.1|2 Chronicles 27:1 >>]]</td></tr></table>
 
@@ -27,7 +88,7 @@ And Uzziah rested with his fathers and was buried near them in a field of burial
 | and he became king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֛ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jotham  |**<big>&#8207;[[H3147H\|יוֹתָ֥ם]]&#8207; </big>**| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.22|<< 2 Chronicles 26:22]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.1|2 Chronicles 27:1 >>]]</td></tr></table>
 
 

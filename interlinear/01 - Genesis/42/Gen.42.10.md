@@ -1,8 +1,61 @@
+---
+title: Genesis 42:10
+type: Verse
+kjv: "And they said unto him, Nay, my lord, but to buy food are thy servants come."
+bsb: "“Not so, my lord,” they replied. “Your servants have come to buy food."
+hebrew: "וַיֹּאמְר֥וּ אֵלָ֖יו לֹ֣א אֲדֹנִ֑י וַעֲבָדֶ֥יךָ בָּ֖אוּ לִשְׁבָּר־ אֹֽכֶל׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7666]]"
+- "[[H9014]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:10**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Nay, my lord, but to buy food are thy servants come.
 <small><sub>**BSB:**</sub></small>
 “Not so, my lord,” they replied. “Your servants have come to buy food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H3808\|לֹ֣א]] [[H0113\|אֲדֹנִ֑]][[H9020\|י]] [[H9002\|וַ]][[H5650\|עֲבָדֶ֥י]][[H9021\|ךָ]] [[H0935G\|בָּ֖אוּ]] [[H9005\|לִ]][[H7666\|שְׁבָּר]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.9|<< Genesis 42:9]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.11|Genesis 42:11 >>]]</td></tr></table>
 

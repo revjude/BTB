@@ -1,8 +1,58 @@
+---
+title: Hosea 1:5
+type: Verse
+kjv: "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel."
+bsb: "And on that day I will break the bow of Israel in the Valley of Jezreel.”"
+hebrew: "וְהָיָ֖ה בַּיּ֣וֹם הַה֑וּא וְשָֽׁבַרְתִּי֙ אֶת־ קֶ֣שֶׁת יִשְׂרָאֵ֔ל בְּעֵ֖מֶק יִזְרְעֶֽאל׃"
+pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7198]]"
+- "[[H3478]]"
+- "[[H6010M]]"
+- "[[H3157L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 1:5**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
 <small><sub>**BSB:**</sub></small>
 And on that day I will break the bow of Israel in the Valley of Jezreel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וְ]][[H7665\|שָֽׁבַרְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7198\|קֶ֣שֶׁת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H6010M\|עֵ֖מֶק]] [[H3157L\|יִזְרְעֶֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BOW|BOW]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEZREEL|JEZREEL]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.4|<< Hosea 1:4]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.6|Hosea 1:6 >>]]</td></tr></table>
 

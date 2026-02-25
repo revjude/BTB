@@ -1,8 +1,73 @@
+---
+title: Exodus 33:7
+type: Verse
+kjv: "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, that every one which sought the LORD went out unto the tabernacle of the congregation, which was without the camp."
+bsb: "Now Moses used to take the tent and pitch it at a distance outside the camp. He called it the Tent of Meeting, and anyone inquiring of the LORD would go to the Tent of Meeting outside the camp."
+hebrew: "וּמֹשֶׁה֩ יִקַּ֨ח אֶת־ הָאֹ֜הֶל וְנָֽטָה־ ל֣וֹ׀ מִח֣וּץ לַֽמַּחֲנֶ֗ה הַרְחֵק֙ מִן־ הַֽמַּחֲנֶ֔ה וְקָ֥רָא ל֖וֹ אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֙ כָּל־ מְבַקֵּ֣שׁ יְהוָ֔ה יֵצֵא֙ אֶל־ אֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֖ר מִח֥וּץ לַֽמַּחֲנֶֽה׃"
+pericope: "[[Exod.33.7 The Tent of Meeting|The Tent of Meeting]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4872]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H4264]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H7121G]]"
+- "[[H4150I]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H1245]]"
+- "[[H3068G]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:7**<big><big>[[Exod.33.7 The Tent of Meeting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, [that] every one which sought the LORD went out unto the tabernacle of the congregation, which [was] without the camp.
 <small><sub>**BSB:**</sub></small>
 Now Moses used to take the tent and pitch it at a distance outside the camp. He called it the Tent of Meeting, and anyone inquiring of the LORD would go to the Tent of Meeting outside the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4872\|מֹשֶׁה֩]] [[H3947G\|יִקַּ֨ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֜הֶל]] [[H9001\|וְ]][[H5186\|נָֽטָה]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]][[H9015\|׀]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֗ה]] [[H7368\|הַרְחֵק֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וְ]][[H7121G\|קָ֥רָא]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1245\|מְבַקֵּ֣שׁ]] [[H3068G\|יְהוָ֔ה]] [[H3318G\|יֵצֵא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.6|<< Exodus 33:6]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.8|Exodus 33:8 >>]]</td></tr></table>
 

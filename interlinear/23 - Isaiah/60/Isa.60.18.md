@@ -1,8 +1,63 @@
+---
+title: Isaiah 60:18
+type: Verse
+kjv: "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise."
+bsb: "No longer will violence be heard in your land, nor ruin or destruction within your borders. But you will name your walls Salvation and your gates Praise."
+hebrew: "לֹא־ יִשָּׁמַ֨ע ע֤וֹד חָמָס֙ בְּאַרְצֵ֔ךְ שֹׁ֥ד וָשֶׁ֖בֶר בִּגְבוּלָ֑יִךְ וְקָרָ֤את יְשׁוּעָה֙ חוֹמֹתַ֔יִךְ וּשְׁעָרַ֖יִךְ תְּהִלָּֽה׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H5750]]"
+- "[[H2555]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9022]]"
+- "[[H7701]]"
+- "[[H9002]]"
+- "[[H7667]]"
+- "[[H1366G]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H3444]]"
+- "[[H2346G]]"
+- "[[H8179G]]"
+- "[[H8416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:18**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
 <small><sub>**BSB:**</sub></small>
 No longer will violence be heard in your land, nor ruin or destruction within your borders. But you will name your walls Salvation and your gates Praise.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H8085G\|יִשָּׁמַ֨ע]] [[H5750\|ע֤וֹד]] [[H2555\|חָמָס֙]] [[H9003\|בְּ]][[H0776G\|אַרְצֵ֔]][[H9022\|ךְ]] [[H7701\|שֹׁ֥ד]] [[H9002\|וָ]][[H7667\|שֶׁ֖בֶר]] [[H9003\|בִּ]][[H1366G\|גְבוּלָ֑יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H7121H\|קָרָ֤את]] [[H3444\|יְשׁוּעָה֙]] [[H2346G\|חוֹמֹתַ֔יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H8179G\|שְׁעָרַ֖יִ]][[H9022\|ךְ]] [[H8416\|תְּהִלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic NATION|NATION]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.17|<< Isaiah 60:17]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.19|Isaiah 60:19 >>]]</td></tr></table>
 

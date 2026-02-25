@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Waiting on God
+type: Pericope
 pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 62
 book/chapter: "[[Ps.62|Psalm 62]]"
-genre:
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.62.0]]"
 - "[[Ps.62.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.62.12]]"
 ---
 
-[[Ps.62|Psalm 62:1 - Psalm 62:12]]
+<small>[[Ps.62|Psalm 62:1-12]]</small>
 *Waiting on God*
 
 [[Ps.62.0|0]] To the chief Musician, to Jeduthun, A Psalm of David.

@@ -1,10 +1,58 @@
+---
+title: Acts 22:19
+type: Verse
+kjv: "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:"
+bsb: "‘Lord,’ I answered, ‘they know very well that in one synagogue after another I imprisoned and beat those who believed in You."
+greek: "κἀγὼ κἀγὼ εἶπον· κύριε, αὐτοὶ ἐπίστανται ὅτι ἐγὼ ἤμην φυλακίζων καὶ δέρων κατὰ τὰς συναγωγὰς τοὺς πιστεύοντας ἐπὶ σέ·"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G0846]]"
+- "[[G1987]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G5439]]"
+- "[[G1194]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Acts 22:19**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:
 <small><sub>**BSB:**</sub></small>
 ‘Lord,’ I answered, ‘they know very well that in one synagogue after another I imprisoned and beat those who believed in You.
-<small><sub>**Literal:**</sub></small>
-And I myself said; Lord, they themselves know that I myself was imprisoning and beating in each of those synagogues those believing on You;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.18|<< Acts 22:18]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.20|Acts 22:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2036\|εἶπον·]]  [[G2962G\|κύριε,]]  [[G0846\|αὐτοὶ]]  [[G1987\|ἐπίστανται]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G1510\|ἤμην]]  [[G5439\|φυλακίζων]]  [[G2532\|καὶ]]  [[G1194\|δέρων]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G4864\|συναγωγὰς]]  [[G3588\|τοὺς]]  [[G4100\|πιστεύοντας]]  [[G1909\|ἐπὶ]]  [[G4771\|σέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.18|<< Acts 22:18]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.20|Acts 22:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

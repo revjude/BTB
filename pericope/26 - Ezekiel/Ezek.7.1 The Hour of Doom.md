@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Hour of Doom
+type: Pericope
 pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 7
 book/chapter: "[[Ezek.7|Ezekiel 7]]"
-genre:
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 13
 verses:
 - "[[Ezek.7.1]]"
 - "[[Ezek.7.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ezek.7.13]]"
 ---
 
-[[Ezek.7|Ezekiel 7:1 - Ezekiel 7:13]]
+<small>[[Ezek.7|Ezekiel 7:1-13]]</small>
 *The Hour of Doom*
 
 [[Ezek.7.1|1]] Moreover the word of the LORD came unto me, saying,

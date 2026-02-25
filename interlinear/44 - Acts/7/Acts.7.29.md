@@ -1,10 +1,59 @@
+---
+title: Acts 7:29
+type: Verse
+kjv: "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons."
+bsb: "At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons."
+greek: "ἔφυγεν δὲ Μωϋσῆς ἐν τῷ λόγῳ τούτῳ καὶ ἐγένετο πάροικος ἐν γῇ Μαδιάμ, οὗ ἐγέννησεν υἱοὺς δύο."
+pericope: "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G5343]]"
+- "[[G1161]]"
+- "[[G3475]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3941]]"
+- "[[G1093H]]"
+- "[[G3099]]"
+- "[[G3757]]"
+- "[[G1080]]"
+- "[[G5207]]"
+- "[[G1417]]"
+texts:
+- NKO
+---
+
 **Acts 7:29**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
 <small><sub>**BSB:**</sub></small>
 At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.
-<small><sub>**Literal:**</sub></small>
-Fled then Moses at <the> remark this and became exiled in [the] land of Midian, where he begat sons two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.28|<< Acts 7:28]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.30|Acts 7:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5343\|ἔφυγεν]]  [[G1161\|δὲ]]  [[G3475\|Μωϋσῆς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3778\|τούτῳ]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G3941\|πάροικος]]  [[G1722\|ἐν]]  [[G1093H\|γῇ]]  [[G3099\|Μαδιάμ,]]  [[G3757\|οὗ]]  [[G1080\|ἐγέννησεν]]  [[G5207\|υἱοὺς]]  [[G1417\|δύο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic PEACE|PEACE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.28|<< Acts 7:28]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.30|Acts 7:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:29** is...
 > $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]

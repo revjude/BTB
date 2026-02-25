@@ -35,7 +35,7 @@
 
 - Present afflictions not worthy to be compared with [[Rom.8.18|Ro 8:18]]
 
-- Of God's people shall be rich and abundant [[Isa.60.11|Isa 60:11]]-[[Isa.60.13|13]]
+- Of God's people shall be rich and abundant [[Isa.60.11|Isa 60:11-13]]
 
 - The bodies of saints shall be raised in [[1Cor.15.43|1Co 15:43]];  [[Phil.3.21|Php 3:21]]
 
@@ -81,7 +81,7 @@
 
 - Highly exalted [[Ps.8.1|Ps 8:1]]; [[Ps.113.4|113:4]]
 
-- Exhibited to Moses [[Exod.34.5|Ex 34:5]]-[[Exod.34.7|7]]; with 33:18-23
+- Exhibited to Moses [[Exod.34.5|Ex 34:5-7]]; with 33:18-23
 
 - Stephen [[Acts.7.55|Ac 7:55]]
 

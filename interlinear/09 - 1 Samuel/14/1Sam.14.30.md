@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 14:30
+type: Verse
+kjv: "How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found? for had there not been now a much greater slaughter among the Philistines?"
+bsb: "How much better it would have been if the troops had eaten freely today from the plunder they took from their enemies! Would not the slaughter of the Philistines have been much greater?”"
+hebrew: "אַ֗ף כִּ֡י לוּא֩ אָכֹ֨ל אָכַ֤ל הַיּוֹם֙ הָעָ֔ם מִשְּׁלַ֥ל אֹיְבָ֖יו אֲשֶׁ֣ר מָצָ֑א כִּ֥י עַתָּ֛ה לֹֽא־ רָבְתָ֥ה מַכָּ֖ה בַּפְּלִשְׁתִּֽים׃"
+pericope: "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H3863]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H7998]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H6258]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H4347]]"
+- "[[H9003]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:30**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found? for had there not been now a much greater slaughter among the Philistines?
 <small><sub>**BSB:**</sub></small>
 How much better it would have been if the troops had eaten freely today from the plunder they took from their enemies! Would not the slaughter of the Philistines have been much greater?”
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֗ף]] [[H3588A\|כִּ֡י]] [[H3863\|לוּא֩]] [[H0398\|אָכֹ֨ל]] [[H0398\|אָכַ֤ל]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9006\|מִ]][[H7998\|שְּׁלַ֥ל]] [[H0341\|אֹיְבָ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|מָצָ֑א]] [[H3588A\|כִּ֥י]] [[H6258\|עַתָּ֛ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7235A\|רָבְתָ֥ה]] [[H4347\|מַכָּ֖ה]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.29|<< 1 Samuel 14:29]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.31|1 Samuel 14:31 >>]]</td></tr></table>
 

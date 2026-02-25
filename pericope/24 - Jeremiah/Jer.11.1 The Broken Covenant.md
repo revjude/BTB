@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Broken Covenant
+type: Pericope
 pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 11
 book/chapter: "[[Jer.11|Jeremiah 11]]"
-genre:
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 17
 verses:
 - "[[Jer.11.1]]"
 - "[[Jer.11.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Jer.11.17]]"
 ---
 
-[[Jer.11|Jeremiah 11:1 - Jeremiah 11:17]]
+<small>[[Jer.11|Jeremiah 11:1-17]]</small>
 *The Broken Covenant*
 
 [[Jer.11.1|1]] The word that came to Jeremiah from the LORD, saying,

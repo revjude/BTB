@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Taming the Tongue
+type: Pericope
 pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: James
 chapter: 3
 book/chapter: "[[Jas.3|James 3]]"
-genre:
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 12
 verses:
 - "[[Jas.3.1]]"
 - "[[Jas.3.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jas.3.12]]"
 ---
 
-[[Jas.3|James 3:1 - James 3:12]]
+<small>[[Jas.3|James 3:1-12]]</small>
 *Taming the Tongue*
 
 [[Jas.3.1|1]] My brethren, be not many masters, knowing that we shall receive the greater condemnation.

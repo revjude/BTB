@@ -1,8 +1,59 @@
+---
+title: Genesis 10:22
+type: Verse
+kjv: "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+bsb: "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram."
+hebrew: "בְּנֵ֥י שֵׁ֖ם עֵילָ֣ם וְאַשּׁ֑וּר וְאַרְפַּכְשַׁ֖ד וְל֥וּד וַֽאֲרָֽם׃"
+pericope: "[[Gen.10.21 The Semites|The Semites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ARAM|ARAM]]"
+- "[[topic ARPHAXAD|ARPHAXAD]]"
+- "[[topic ASSHUR|ASSHUR]]"
+- "[[topic EBER|EBER]]"
+- "[[topic ELAMITES|ELAMITES]]"
+- "[[topic LUD|LUD]]"
+- "[[topic SHEM|SHEM]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H1121A]]"
+- "[[H8035]]"
+- "[[H5867C]]"
+- "[[H9002]]"
+- "[[H0804H]]"
+- "[[H0775]]"
+- "[[H3865]]"
+- "[[H0758G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:22**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 <small><sub>**BSB:**</sub></small>
 The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֥י]] [[H8035\|שֵׁ֖ם]] [[H5867C\|עֵילָ֣ם]] [[H9002\|וְ]][[H0804H\|אַשּׁ֑וּר]] [[H9002\|וְ]][[H0775\|אַרְפַּכְשַׁ֖ד]] [[H9002\|וְ]][[H3865\|ל֥וּד]] [[H9002\|וַֽ]][[H0758G\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAM|ARAM]] • [[topic ARPHAXAD|ARPHAXAD]] • [[topic ASSHUR|ASSHUR]] • [[topic EBER|EBER]] • [[topic ELAMITES|ELAMITES]] • [[topic LUD|LUD]] • [[topic SHEM|SHEM]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.21|<< Genesis 10:21]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.23|Genesis 10:23 >>]]</td></tr></table>
 

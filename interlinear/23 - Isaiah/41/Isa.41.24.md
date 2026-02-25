@@ -1,8 +1,56 @@
+---
+title: Isaiah 41:24
+type: Verse
+kjv: "Behold, ye are of nothing, and your work of nought: an abomination is he that chooseth you."
+bsb: "Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable."
+hebrew: "הֵן־ אַתֶּ֣ם מֵאַ֔יִן וּפָעָלְכֶ֖ם מֵאָ֑פַע תּוֹעֵבָ֖ה יִבְחַ֥ר בָּכֶֽם׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H9002]]"
+- "[[H6467]]"
+- "[[H9026]]"
+- "[[H0659]]"
+- "[[H8441]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:24**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, ye [are] of nothing, and your work of nought: an abomination [is he that] chooseth you.
 <small><sub>**BSB:**</sub></small>
 Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H9006\|מֵ]][[H0369\|אַ֔יִן]] [[H9002\|וּ]][[H6467\|פָעָלְ]][[H9026\|כֶ֖ם]] [[H9006\|מֵ]][[H0659\|אָ֑פַע]] [[H8441\|תּוֹעֵבָ֖ה]] [[H0977\|יִבְחַ֥ר]] [[H9003\|בָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.23|<< Isaiah 41:23]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.25|Isaiah 41:25 >>]]</td></tr></table>
 

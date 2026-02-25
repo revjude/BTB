@@ -1,8 +1,68 @@
+---
+title: Jeremiah 50:9
+type: Verse
+kjv: "For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows shall be as of a mighty expert man; none shall return in vain."
+bsb: "For behold, I stir up and bring against Babylon an assembly of great nations from the land of the north. They will line up against her; from the north she will be captured. Their arrows will be like skilled warriors who do not return empty-handed."
+hebrew: "כִּ֣י הִנֵּ֣ה אָנֹכִ֡י מֵעִיר֩ וּמַעֲלֶ֨ה עַל־ בָּבֶ֜ל קְהַל־ גּוֹיִ֤ם גְּדֹלִים֙ מֵאֶ֣רֶץ צָפ֔וֹן וְעָ֣רְכוּ לָ֔הּ מִשָּׁ֖ם תִּלָּכֵ֑ד חִצָּיו֙ כְּגִבּ֣וֹר מַשְׁכִּ֔יל לֹ֥א יָשׁ֖וּב רֵיקָֽם׃"
+pericope: "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H5782]]"
+- "[[H9002]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H6951]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H9001]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H8033G]]"
+- "[[H3920]]"
+- "[[H2671]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H1368]]"
+- "[[H7919A]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:9**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows [shall be] as of a mighty expert man; none shall return in vain.
 <small><sub>**BSB:**</sub></small>
 For behold, I stir up and bring against Babylon an assembly of great nations from the land of the north. They will line up against her; from the north she will be captured. Their arrows will be like skilled warriors who do not return empty-handed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H2009\|הִנֵּ֣ה]] [[H0595\|אָנֹכִ֡י]] [[H5782\|מֵעִיר֩]] [[H9002\|וּ]][[H5927H\|מַעֲלֶ֨ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H6951\|קְהַל]][[H9014\|־]] [[H1471A\|גּוֹיִ֤ם]] [[H1419A\|גְּדֹלִים֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֔וֹן]] [[H9001\|וְ]][[H6186A\|עָ֣רְכוּ]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H3920\|תִּלָּכֵ֑ד]] [[H2671\|חִצָּי]][[H9023\|ו֙]] [[H9004\|כְּ]][[H1368\|גִבּ֣וֹר]] [[H7919A\|מַשְׁכִּ֔יל]] [[H3808\|לֹ֥א]] [[H7725G\|יָשׁ֖וּב]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.8|<< Jeremiah 50:8]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.10|Jeremiah 50:10 >>]]</td></tr></table>
 

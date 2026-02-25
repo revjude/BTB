@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Triumphs
+type: Pericope
 pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 18
 book/chapter: "[[1Chr.18|1 Chronicles 18]]"
-genre:
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 13
 verses:
 - "[[1Chr.18.1]]"
 - "[[1Chr.18.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Chr.18.13]]"
 ---
 
-[[1Chr.18|1 Chronicles 18:1 - 1 Chronicles 18:13]]
+<small>[[1Chr.18|1 Chronicles 18:1-13]]</small>
 *David’s Triumphs*
 
 [[1Chr.18.1|1]] Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.

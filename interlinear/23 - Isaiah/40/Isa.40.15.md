@@ -1,8 +1,59 @@
+---
+title: Isaiah 40:15
+type: Verse
+kjv: "Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing."
+bsb: "Surely the nations are like a drop in a bucket; they are considered a speck of dust on the scales; He lifts up the islands like fine dust."
+hebrew: "הֵ֤ן גּוֹיִם֙ כְּמַ֣ר מִדְּלִ֔י וּכְשַׁ֥חַק מֹאזְנַ֖יִם נֶחְשָׁ֑בוּ הֵ֥ן אִיִּ֖ים כַּדַּ֥ק יִטּֽוֹל׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic BUCKET|BUCKET]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H2005]]"
+- "[[H1471A]]"
+- "[[H9004]]"
+- "[[H4752]]"
+- "[[H9006]]"
+- "[[H1805]]"
+- "[[H9002]]"
+- "[[H7834]]"
+- "[[H3976]]"
+- "[[H2803H]]"
+- "[[H0339]]"
+- "[[H1851]]"
+- "[[H5190]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:15**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the nations [are] as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.
 <small><sub>**BSB:**</sub></small>
 Surely the nations are like a drop in a bucket; they are considered a speck of dust on the scales; He lifts up the islands like fine dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H1471A\|גּוֹיִם֙]] [[H9004\|כְּ]][[H4752\|מַ֣ר]] [[H9006\|מִ]][[H1805\|דְּלִ֔י]] [[H9002\|וּ]][[H9004\|כְ]][[H7834\|שַׁ֥חַק]] [[H3976\|מֹאזְנַ֖יִם]] [[H2803H\|נֶחְשָׁ֑בוּ]] [[H2005\|הֵ֥ן]] [[H0339\|אִיִּ֖ים]] [[H9004\|כַּ]][[H1851\|דַּ֥ק]] [[H5190\|יִטּֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic BUCKET|BUCKET]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.14|<< Isaiah 40:14]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.16|Isaiah 40:16 >>]]</td></tr></table>
 

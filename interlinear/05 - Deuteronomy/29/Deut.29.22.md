@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 29:22
+type: Verse
+kjv: "So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;"
+bsb: "Then the generation to come—your sons who follow you and the foreigner who comes from a distant land—will see the plagues of the land and the sicknesses the LORD has inflicted on it."
+hebrew: "וְאָמַ֞ר הַדּ֣וֹר הָֽאַחֲר֗וֹן בְּנֵיכֶם֙ אֲשֶׁ֤ר יָק֙וּמוּ֙ מֵאַ֣חֲרֵיכֶ֔ם וְהַ֨נָּכְרִ֔י אֲשֶׁ֥ר יָבֹ֖א מֵאֶ֣רֶץ רְחוֹקָ֑ה וְ֠רָאוּ אֶת־ מַכּ֞וֹת הָאָ֤רֶץ הַהִוא֙ וְאֶת־ תַּ֣חֲלֻאֶ֔יהָ אֲשֶׁר־ חִלָּ֥ה יְהוָ֖ה בָּֽהּ׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1755]]"
+- "[[H0314]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H5237]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H7350]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4347]]"
+- "[[H1931]]"
+- "[[H8463]]"
+- "[[H9024]]"
+- "[[H2470H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:22**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;
 <small><sub>**BSB:**</sub></small>
 Then the generation to come—your sons who follow you and the foreigner who comes from a distant land—will see the plagues of the land and the sicknesses the LORD has inflicted on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֞ר]] [[H9009\|הַ]][[H1755\|דּ֣וֹר]] [[H9009\|הָֽ]][[H0314\|אַחֲר֗וֹן]] [[H1121A\|בְּנֵי]][[H9026\|כֶם֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H6965B\|יָק֙וּמוּ֙]] [[H9006\|מֵ]][[H0310A\|אַ֣חֲרֵי]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H9009\|הַ֨]][[H5237\|נָּכְרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H0935G\|יָבֹ֖א]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H7350\|רְחוֹקָ֑ה]] [[H9001\|וְ֠]][[H7200G\|רָאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4347\|מַכּ֞וֹת]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9009\|הַ]][[H1931\|הִוא֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8463\|תַּ֣חֲלֻאֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2470H\|חִלָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISEASE|DISEASE]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.21|<< Deuteronomy 29:21]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.23|Deuteronomy 29:23 >>]]</td></tr></table>
 

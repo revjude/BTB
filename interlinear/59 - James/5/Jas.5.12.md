@@ -1,10 +1,68 @@
+---
+title: James 5:12
+type: Verse
+kjv: "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation."
+bsb: "Above all, my brothers, do not swear, not by heaven or earth or by any other oath. Simply let your “Yes” be yes, and your “No,” no, so that you will not fall under judgment."
+greek: "Πρὸ πάντων δέ, ἀδελφοί μου, μὴ ὀμνύετε, μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον· ἤτω δὲ ὑμῶν τὸ ναὶ ναὶ καὶ τὸ οὒ οὔ, ἵνα μὴ ὑπὸ κρίσιν πέσητε.¶"
+pericope: "[[Jas.5.7 Patience in Suffering|Patience in Suffering]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[G4253]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G3660]]"
+- "[[G3383]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G0243]]"
+- "[[G5100]]"
+- "[[G3727]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G3483]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2443]]"
+- "[[G5259H]]"
+- "[[G2920]]"
+- "[[G4098]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **James 5:12**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and [your] nay, nay; lest ye fall into condemnation.
 <small><sub>**BSB:**</sub></small>
 Above all, my brothers, do not swear, not by heaven or earth or by any other oath. Simply let your “Yes” be yes, and your “No,” no, so that you will not fall under judgment.
-<small><sub>**Literal:**</sub></small>
-Before all things however, brothers of mine, not do swear, neither [swear by] <the> heaven nor [swear by] the earth nor [swear by] other any oath; should be however of you the Yes [be] yes and the No [be] no, so that not under judgment you may fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.11|<< James 5:11]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.13|James 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|Πρὸ]]  [[G3956\|πάντων]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G3361\|μὴ]]  [[G3660\|ὀμνύετε,]]  [[G3383\|μήτε]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G3383\|μήτε]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G3383\|μήτε]]  [[G0243\|ἄλλον]]  [[G5100\|τινὰ]]  [[G3727\|ὅρκον·]]  [[G1510\|ἤτω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸ]]  [[G3483\|ναὶ]]  [[G3483\|ναὶ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3756\|οὒ]]  [[G3756\|οὔ,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5259H\|ὑπὸ]]  [[G2920\|κρίσιν]]  [[G4098\|πέσητε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONVERSATION|CONVERSATION]] • [[topic OATH|OATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.11|<< James 5:11]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.13|James 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

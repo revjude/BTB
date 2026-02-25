@@ -1,8 +1,56 @@
+---
+title: Isaiah 16:2
+type: Verse
+kjv: "For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon."
+bsb: "Like fluttering birds pushed out of the nest, so are the daughters of Moab at the fords of the Arnon:"
+hebrew: "וְהָיָ֥ה כְעוֹף־ נוֹדֵ֖ד קֵ֣ן מְשֻׁלָּ֑ח תִּֽהְיֶ֙ינָה֙ בְּנ֣וֹת מוֹאָ֔ב מַעְבָּרֹ֖ת לְאַרְנֽוֹן׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARNON|ARNON]]"
+- "[[topic BIRDS|BIRDS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5775]]"
+- "[[H9014]]"
+- "[[H5074]]"
+- "[[H7064]]"
+- "[[H7971G]]"
+- "[[H1323G]]"
+- "[[H4124G]]"
+- "[[H4569B]]"
+- "[[H9005]]"
+- "[[H0769]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:2**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it shall be, [that], as a wandering bird cast out of the nest, [so] the daughters of Moab shall be at the fords of Arnon.
 <small><sub>**BSB:**</sub></small>
 Like fluttering birds pushed out of the nest, so are the daughters of Moab at the fords of the Arnon:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9004\|כְ]][[H5775\|עוֹף]][[H9014\|־]] [[H5074\|נוֹדֵ֖ד]] [[H7064\|קֵ֣ן]] [[H7971G\|מְשֻׁלָּ֑ח]] [[H1961\|תִּֽהְיֶ֙ינָה֙]] [[H1323G\|בְּנ֣וֹת]] [[H4124G\|מוֹאָ֔ב]] [[H4569B\|מַעְבָּרֹ֖ת]] [[H9005\|לְ]][[H0769\|אַרְנֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARNON|ARNON]] • [[topic BIRDS|BIRDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.1|<< Isaiah 16:1]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.3|Isaiah 16:3 >>]]</td></tr></table>
 

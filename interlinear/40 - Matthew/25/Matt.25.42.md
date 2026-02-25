@@ -1,10 +1,65 @@
+---
+title: Matthew 25:42
+type: Verse
+kjv: "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+bsb: "For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink,"
+jesus_said: "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+greek: "ἐπείνασα γὰρ καὶ οὐκ ἐδώκατέ μοι φαγεῖν, καὶ ἐδίψησα καὶ οὐκ ἐποτίσατέ με,"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3983]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G5315]]"
+- "[[G1372]]"
+- "[[G4222]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 25:42**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:
 <small><sub>**BSB:**</sub></small>
 For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink,
-<small><sub>**Literal:**</sub></small>
-I hungered for and nothing you gave to Me to eat, and I thirsted and nothing You gave to drink Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.41|<< Matthew 25:41]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.43|Matthew 25:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3983\|ἐπείνασα]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1325\|ἐδώκατέ]]  [[G3165\|μοι]]  [[G5315\|φαγεῖν,]]  [[G2532\|καὶ]]  [[G1372\|ἐδίψησα]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G4222\|ἐποτίσατέ]]  [[G3165\|με,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POOR|POOR]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.41|<< Matthew 25:41]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.43|Matthew 25:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

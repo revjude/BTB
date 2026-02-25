@@ -1,10 +1,69 @@
+---
+title: Matthew 18:10
+type: Verse
+kjv: "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven."
+bsb: "See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven."
+jesus_said: "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven."
+greek: "Ὁρᾶτε μὴ καταφρονήσητε ἑνὸς τῶν μικρῶν τούτων· λέγω γὰρ ὑμῖν ὅτι οἱ ἄγγελοι αὐτῶν ἐν οὐρανοῖς διὰ παντὸς βλέπουσιν τὸ πρόσωπον τοῦ πατρός μου τοῦ ἐν οὐρανοῖς."
+pericope: "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3708]]"
+- "[[G3361]]"
+- "[[G2706]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3398]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G0991]]"
+- "[[G4383]]"
+- "[[G3962]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 18:10**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.
-<small><sub>**Literal:**</sub></small>
-do see [that] not may you despise one of the little ones of these; I say for to you that the angels of them in [the] heavens through all [times] behold the face of the Father of mine who [is] in [the] heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.9|<< Matthew 18:9]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.11|Matthew 18:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3708\|Ὁρᾶτε]]  [[G3361\|μὴ]]  [[G2706\|καταφρονήσητε]]  [[G1520\|ἑνὸς]]  [[G3588\|τῶν]]  [[G3398\|μικρῶν]]  [[G3778\|τούτων·]]  [[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G0991\|βλέπουσιν]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.9|<< Matthew 18:9]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.11|Matthew 18:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

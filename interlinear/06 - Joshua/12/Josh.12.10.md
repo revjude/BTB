@@ -1,8 +1,41 @@
+---
+title: Joshua 12:10
+type: Verse
+kjv: "The king of Jerusalem, one; the king of Hebron, one;"
+bsb: "the king of Jerusalem, one; the king of Hebron, one;"
+hebrew: "מֶ֤לֶךְ יְרוּשָׁלִַ֙ם֙ אֶחָ֔ד מֶ֥לֶךְ חֶבְר֖וֹן אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H4428G]]"
+- "[[H3389]]"
+- "[[H0259]]"
+- "[[H2275A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:10**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Jerusalem, one; the king of Hebron, one;
 <small><sub>**BSB:**</sub></small>
 the king of Jerusalem, one; the king of Hebron, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֤לֶךְ]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H0259\|אֶחָ֔ד]] [[H4428G\|מֶ֥לֶךְ]] [[H2275A\|חֶבְר֖וֹן]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.9|<< Joshua 12:9]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.11|Joshua 12:11 >>]]</td></tr></table>
 

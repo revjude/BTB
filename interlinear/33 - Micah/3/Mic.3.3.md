@@ -1,8 +1,69 @@
+---
+title: Micah 3:3
+type: Verse
+kjv: "Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron."
+bsb: "You eat the flesh of my people after stripping off their skin and breaking their bones. You chop them up like flesh for the cooking pot, like meat in a cauldron.”"
+hebrew: "וַאֲשֶׁ֣ר אָכְלוּ֮ שְׁאֵ֣ר עַמִּי֒ וְעוֹרָם֙ מֵעֲלֵיהֶ֣ם הִפְשִׁ֔יטוּ וְאֶת־ עַצְמֹֽתֵיהֶ֖ם פִּצֵּ֑חוּ וּפָרְשׂוּ֙ כַּאֲשֶׁ֣ר בַּסִּ֔יר וּכְבָשָׂ֖ר בְּת֥וֹךְ קַלָּֽחַת׃"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H7607]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5785]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H6476]]"
+- "[[H6566]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H5518A]]"
+- "[[H1320]]"
+- "[[H8432]]"
+- "[[H7037]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 3:3**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.
 <small><sub>**BSB:**</sub></small>
 You eat the flesh of my people after stripping off their skin and breaking their bones. You chop them up like flesh for the cooking pot, like meat in a cauldron.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H0398\|אָכְלוּ֮]] [[H7607\|שְׁאֵ֣ר]] [[H5971A\|עַמִּ]][[H9020\|י֒]] [[H9002\|וְ]][[H5785\|עוֹרָ]][[H9028\|ם֙]] [[H9006\|מֵ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H6584\|הִפְשִׁ֔יטוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמֹֽתֵי]][[H9028\|הֶ֖ם]] [[H6476\|פִּצֵּ֑חוּ]] [[H9002\|וּ]][[H6566\|פָרְשׂוּ֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H5518A\|סִּ֔יר]] [[H9002\|וּ]][[H9004\|כְ]][[H1320\|בָשָׂ֖ר]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H7037\|קַלָּֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EXTORTION|EXTORTION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.2|<< Micah 3:2]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.4|Micah 3:4 >>]]</td></tr></table>
 

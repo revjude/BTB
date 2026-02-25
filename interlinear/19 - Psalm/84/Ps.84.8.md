@@ -1,8 +1,55 @@
+---
+title: Psalm 84:8
+type: Verse
+kjv: "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah."
+bsb: "O LORD God of Hosts, hear my prayer; give ear, O God of Jacob. Selah"
+hebrew: "יְה֘וָ֤ה אֱלֹהִ֣ים צְ֭בָאוֹת שִׁמְעָ֣ה תְפִלָּתִ֑י הַאֲזִ֨ינָה אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EAR|EAR]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H8605]]"
+- "[[H9020]]"
+- "[[H0238]]"
+- "[[H3290]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:8**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
 <small><sub>**BSB:**</sub></small>
 O LORD God of Hosts, hear my prayer; give ear, O God of Jacob. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְה֘וָ֤ה]] [[H0430G\|אֱלֹהִ֣ים]] [[H6635B\|צְ֭בָאוֹת]] [[H8085G\|שִׁמְעָ֣]][[H9012\|ה]] [[H8605\|תְפִלָּתִ֑]][[H9020\|י]] [[H0238\|הַאֲזִ֨ינָ]][[H9012\|ה]] [[H0430G\|אֱלֹהֵ֖י]] [[H3290\|יַעֲקֹ֣ב]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EAR|EAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.7|<< Psalms 84:7]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.9|Psalms 84:9 >>]]</td></tr></table>
 

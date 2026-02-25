@@ -1,6 +1,61 @@
+---
+title: LXX Psalm 12:5
+type: Verse
+lxx: "Because of the misery of the poor, and the moaning of the needy, now I will arise, says the lord, I will establish by deliverance, I will speak openly by him."
+greek: "ένεκεν της ταλαιπωρίας των πτωχών και του στεναγμόυ των πενήτων νυν αναστήσομαι λέγει κύριος θήσομαι εν σωτηρίω παρρησιάσομαι εν αυτώ"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G5004]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4726]]"
+- "[[G3588]]"
+- "[[G3993]]"
+- "[[G3568]]"
+- "[[G0450]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G4992]]"
+- "[[G3955]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 12:5** 
 <small><sub>**LXX:**</sub></small>
 Because of the misery of the poor, and the moaning of the needy, now I will arise, says \[the\] <span class="smallcaps">lord</span>, I will establish by deliverance, I will speak openly by him. 
+<small><sub>**Greek:**</sub></small>
+[[G1752\|ένεκεν]] [[G3588\|της]] [[G5004\|ταλαιπωρίας]] [[G3588\|των]] [[G4434\|πτωχών]] [[G2532\|και]] [[G3588\|του]] [[G4726\|στεναγμόυ]] [[G3588\|των]] [[G3993\|πενήτων]] [[G3568\|νυν]] [[G0450\|αναστήσομαι]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G5087\|θήσομαι]] [[G1722\|εν]] [[G4992\|σωτηρίω]] [[G3955\|παρρησιάσομαι]] [[G1722\|εν]] [[G1473\|αυτώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INJUSTICE|INJUSTICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.4|<< Psalm 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.6|Psalm 12:6 >>]]</td></tr></table>
 
@@ -26,6 +81,6 @@ Because of the misery of the poor, and the moaning of the needy, now I will aris
 | I will speak openly | **<big>[[G3955\|παρρησιάσομαι]]</big>** |
 | by | **<big>[[G1722\|εν]]</big>** |
 | him. | **<big>[[G1473\|αυτώ]]</big>** |
-[[Ps.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.4|<< Psalm 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.6|Psalm 12:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.4|<< Psalm 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.6|Psalm 12:6 >>]]</td></tr></table>
 
 

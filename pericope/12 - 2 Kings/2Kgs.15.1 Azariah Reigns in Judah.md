@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Azariah Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.15.1 Azariah Reigns in Judah|Azariah Reigns in Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.15.1]]"
 - "[[2Kgs.15.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.15.7]]"
 ---
 
-[[2Kgs.15|2 Kings 15:1 - 2 Kings 15:7]]
+<small>[[2Kgs.15|2 Kings 15:1-7]]</small>
 *Azariah Reigns in Judah*
 
 [[2Kgs.15.1|1]] In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.

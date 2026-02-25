@@ -1,8 +1,58 @@
+---
+title: Jeremiah 23:4
+type: Verse
+kjv: "And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the LORD."
+bsb: "I will raise up shepherds over them who will tend them, and they will no longer be afraid or dismayed, nor will any go missing, declares the LORD."
+hebrew: "וַהֲקִמֹתִ֧י עֲלֵיהֶ֛ם רֹעִ֖ים וְרָע֑וּם וְלֹא־ יִֽירְא֨וּ ע֧וֹד וְלֹא־ יֵחַ֛תּוּ וְלֹ֥א יִפָּקֵ֖דוּ נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.23.1 David’s Righteous Branch|David’s Righteous Branch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H5750]]"
+- "[[H2865]]"
+- "[[H6485K]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 23:4**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will raise up shepherds over them who will tend them, and they will no longer be afraid or dismayed, nor will any go missing, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֧י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H7462B\|רֹעִ֖ים]] [[H9001\|וְ]][[H7462B\|רָע֑וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3372G\|יִֽירְא֨וּ]] [[H5750\|ע֧וֹד]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2865\|יֵחַ֛תּוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6485K\|יִפָּקֵ֖דוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.3|<< Jeremiah 23:3]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.5|Jeremiah 23:5 >>]]</td></tr></table>
 
@@ -20,7 +70,7 @@ I will raise up shepherds over them who will tend them, and they will no longer 
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be missing  |**<big>&#8207;[[H6485K\|יִפָּקֵ֖דוּ]]&#8207; </big>**| yi.pa.Ke.du<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.3|<< Jeremiah 23:3]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.5|Jeremiah 23:5 >>]]</td></tr></table>
 
 

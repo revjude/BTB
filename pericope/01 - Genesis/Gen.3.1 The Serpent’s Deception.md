@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Serpent’s Deception
+type: Pericope
 pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 3
 book/chapter: "[[Gen.3|Genesis 3]]"
-genre:
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.3.1]]"
 - "[[Gen.3.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.3.7]]"
 ---
 
-[[Gen.3|Genesis 3:1 - Genesis 3:7]]
+<small>[[Gen.3|Genesis 3:1-7]]</small>
 *The Serpent’s Deception*
 
 [[Gen.3.1|1]] Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?

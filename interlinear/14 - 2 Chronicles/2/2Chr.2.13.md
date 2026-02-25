@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 2:13
+type: Verse
+kjv: "And now I have sent a cunning man, endued with understanding, of Huram my father’s,"
+bsb: "So now I am sending you Huram-abi, a skillful man endowed with creativity."
+hebrew: "וְעַתָּ֗ה שָׁלַ֧חְתִּי אִישׁ־ חָכָ֛ם יוֹדֵ֥עַ בִּינָ֖ה לְחוּרָ֥ם אָבִֽי׃"
+pericope: "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7971G]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H3045]]"
+- "[[H0998]]"
+- "[[H9005]]"
+- "[[H2361I]]"
+- "[[H0001H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:13**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now I have sent a cunning man, endued with understanding, of Huram my father’s,
 <small><sub>**BSB:**</sub></small>
 So now I am sending you Huram-abi, a skillful man endowed with creativity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H7971G\|שָׁלַ֧חְתִּי]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H2450\|חָכָ֛ם]] [[H3045\|יוֹדֵ֥עַ]] [[H0998\|בִּינָ֖ה]] [[H9005\|לְ]][[H2361I\|חוּרָ֥ם]] [[H0001H\|אָבִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CARVING|CARVING]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 

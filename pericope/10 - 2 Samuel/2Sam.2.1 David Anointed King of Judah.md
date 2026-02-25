@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Anointed King of Judah
+type: Pericope
 pericope: "[[2Sam.2.1 David Anointed King of Judah|David Anointed King of Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 2
 book/chapter: "[[2Sam.2|2 Samuel 2]]"
-genre:
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 7
 verses:
 - "[[2Sam.2.1]]"
 - "[[2Sam.2.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Sam.2.7]]"
 ---
 
-[[2Sam.2|2 Samuel 2:1 - 2 Samuel 2:7]]
+<small>[[2Sam.2|2 Samuel 2:1-7]]</small>
 *David Anointed King of Judah*
 
 [[2Sam.2.1|1]] And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.

@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 19:5
+type: Verse
+kjv: "For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?"
+bsb: "He took his life in his hands when he struck down the Philistine, and the LORD worked a great salvation for all Israel. You saw it and rejoiced, so why would you sin against innocent blood by killing David for no reason?”"
+hebrew: "וַיָּשֶׂם֩ אֶת־ נַפְשׁ֨וֹ בְכַפּ֜וֹ וַיַּ֣ךְ אֶת־ הַפְּלִשְׁתִּ֗י וַיַּ֨עַשׂ יְהוָ֜ה תְּשׁוּעָ֤ה גְדוֹלָה֙ לְכָל־ יִשְׂרָאֵ֔ל רָאִ֖יתָ וַתִּשְׂמָ֑ח וְלָ֤מָּה תֶֽחֱטָא֙ בְּדָ֣ם נָקִ֔י לְהָמִ֥ית אֶת־ דָּוִ֖ד חִנָּֽם׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H8668G]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H7200G]]"
+- "[[H8055]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H2398]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H4191]]"
+- "[[H1732]]"
+- "[[H2600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:5**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest [it], and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?
 <small><sub>**BSB:**</sub></small>
 He took his life in his hands when he struck down the Philistine, and the LORD worked a great salvation for all Israel. You saw it and rejoiced, so why would you sin against innocent blood by killing David for no reason?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760I\|יָּשֶׂם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשׁ֨]][[H9023\|וֹ]] [[H9003\|בְ]][[H3709G\|כַפּ֜]][[H9023\|וֹ]] [[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֗י]] [[H9001\|וַ]][[H6213A\|יַּ֨עַשׂ]] [[H3068G\|יְהוָ֜ה]] [[H8668G\|תְּשׁוּעָ֤ה]] [[H1419A\|גְדוֹלָה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7200G\|רָאִ֖יתָ]] [[H9001\|וַ]][[H8055\|תִּשְׂמָ֑ח]] [[H9002\|וְ]][[H9005\|לָ֤]][[H4100\|מָּה]] [[H2398\|תֶֽחֱטָא֙]] [[H9003\|בְּ]][[H1818\|דָ֣ם]] [[H5355A\|נָקִ֔י]] [[H9005\|לְ]][[H4191\|הָמִ֥ית]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H2600\|חִנָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JONATHAN|JONATHAN]] • [[topic REPROOF|REPROOF]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.4|<< 1 Samuel 19:4]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.6|1 Samuel 19:6 >>]]</td></tr></table>
 

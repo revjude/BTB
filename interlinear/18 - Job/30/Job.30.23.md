@@ -1,8 +1,54 @@
+---
+title: Job 30:23
+type: Verse
+kjv: "For I know that thou wilt bring me to death, and to the house appointed for all living."
+bsb: "Yes, I know that You will bring me down to death, to the place appointed for all the living."
+hebrew: "כִּֽי־ יָ֭דַעְתִּי מָ֣וֶת תְּשִׁיבֵ֑נִי וּבֵ֖ית מוֹעֵ֣ד לְכָל־ חָֽי׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H4194]]"
+- "[[H7725G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H4150G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:23**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know [that] thou wilt bring me [to] death, and [to] the house appointed for all living.
 <small><sub>**BSB:**</sub></small>
 Yes, I know that You will bring me down to death, to the place appointed for all the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3045\|יָ֭דַעְתִּי]] [[H4194\|מָ֣וֶת]] [[H7725G\|תְּשִׁיבֵ֑]][[H9030\|נִי]] [[H9002\|וּ]][[H1004B\|בֵ֖ית]] [[H4150G\|מוֹעֵ֣ד]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.22|<< Job 30:22]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.24|Job 30:24 >>]]</td></tr></table>
 

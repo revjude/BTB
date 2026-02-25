@@ -1,8 +1,79 @@
+---
+title: Genesis 29:25
+type: Verse
+kjv: "And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?"
+bsb: "When morning came, there was Leah! “What have you done to me?” Jacob said to Laban. “Wasn’t it for Rachel that I served you? Why have you deceived me?”"
+hebrew: "וַיְהִ֣י בַבֹּ֔קֶר וְהִנֵּה־ הִ֖וא לֵאָ֑ה וַיֹּ֣אמֶר אֶל־ לָבָ֗ן מַה־ זֹּאת֙ עָשִׂ֣יתָ לִּ֔י הֲלֹ֤א בְרָחֵל֙ עָבַ֣דְתִּי עִמָּ֔ךְ וְלָ֖מָּה רִמִּיתָֽנִי׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3812]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3837A]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7354]]"
+- "[[H5647G]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H7411B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:25**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that in the morning, behold, it [was] Leah: and he said to Laban, What [is] this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?
 <small><sub>**BSB:**</sub></small>
 When morning came, there was Leah! “What have you done to me?” Jacob said to Laban. “Wasn’t it for Rachel that I served you? Why have you deceived me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|הִ֖וא]] [[H3812\|לֵאָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H3837A\|לָבָ֗ן]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּאת֙]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לִּ֔]][[H9030\|י]] [[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H9003\|בְ]][[H7354\|רָחֵל֙]] [[H5647G\|עָבַ֣דְתִּי]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H9005\|לָ֖]][[H4100\|מָּה]] [[H7411B\|רִמִּיתָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic LEAH|LEAH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.24|<< Genesis 29:24]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.26|Genesis 29:26 >>]]</td></tr></table>
 

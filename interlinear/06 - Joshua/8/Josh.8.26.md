@@ -1,8 +1,59 @@
+---
+title: Joshua 8:26
+type: Verse
+kjv: "For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai."
+bsb: "Joshua did not draw back the hand that held his battle lance until he had devoted to destruction all who lived in Ai."
+hebrew: "וִיהוֹשֻׁ֙עַ֙ לֹֽא־ הֵשִׁ֣יב יָד֔וֹ אֲשֶׁ֥ר נָטָ֖ה בַּכִּיד֑וֹן עַ֚ד אֲשֶׁ֣ר הֶחֱרִ֔ים אֵ֖ת כָּל־ יֹשְׁבֵ֥י הָעָֽי׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MASSACRE|MASSACRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5186]]"
+- "[[H9003]]"
+- "[[H3591]]"
+- "[[H5704]]"
+- "[[H2763A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:26**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai.
 <small><sub>**BSB:**</sub></small>
 Joshua did not draw back the hand that held his battle lance until he had devoted to destruction all who lived in Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֙עַ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|הֵשִׁ֣יב]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5186\|נָטָ֖ה]] [[H9003\|בַּ]][[H3591\|כִּיד֑וֹן]] [[H5704\|עַ֚ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H2763A\|הֶחֱרִ֔ים]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MASSACRE|MASSACRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.25|<< Joshua 8:25]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.27|Joshua 8:27 >>]]</td></tr></table>
 

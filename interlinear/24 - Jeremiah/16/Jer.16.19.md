@@ -1,8 +1,76 @@
+---
+title: Jeremiah 16:19
+type: Verse
+kjv: "O LORD, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and things wherein there is no profit."
+bsb: "O LORD, my strength and my fortress, my refuge in the day of distress, the nations will come to You from the ends of the earth, and they will say, “Our fathers inherited nothing but lies, worthless idols of no benefit at all."
+hebrew: "יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֙אוּ֙ מֵֽאַפְסֵי־ אָ֔רֶץ וְיֹאמְר֗וּ אַךְ־ שֶׁ֙קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין־ בָּ֥ם מוֹעִֽיל׃"
+pericope: "[[Jer.16.14 God Will Restore Israel|God Will Restore Israel]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H3068G]]"
+- "[[H5797]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4581]]"
+- "[[H4498]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H1471A]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H0657A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H8267]]"
+- "[[H5157]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H1892]]"
+- "[[H0369]]"
+- "[[H9038]]"
+- "[[H3276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:19**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and [things] wherein [there is] no profit.
 <small><sub>**BSB:**</sub></small>
 O LORD, my strength and my fortress, my refuge in the day of distress, the nations will come to You from the ends of the earth, and they will say, “Our fathers inherited nothing but lies, worthless idols of no benefit at all.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֞ה]] [[H5797\|עֻזִּ֧]][[H9020\|י]] [[H9002\|וּ]][[H4581\|מָעֻזִּ֛]][[H9020\|י]] [[H9002\|וּ]][[H4498\|מְנוּסִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6869B\|צָרָ֑ה]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H1471A\|גּוֹיִ֤ם]] [[H0935G\|יָבֹ֙אוּ֙]] [[H9006\|מֵֽ]][[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0559\|יֹאמְר֗וּ]] [[H0389\|אַךְ]][[H9014\|־]] [[H8267\|שֶׁ֙קֶר֙]] [[H5157\|נָחֲל֣וּ]] [[H0001G\|אֲבוֹתֵ֔י]][[H9025\|נוּ]] [[H1892\|הֶ֖בֶל]] [[H9002\|וְ]][[H0369\|אֵֽין]][[H9014\|־]] [[H9003\|בָּ֥]][[H9038\|ם]] [[H3276\|מוֹעִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.18|<< Jeremiah 16:18]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.20|Jeremiah 16:20 >>]]</td></tr></table>
 

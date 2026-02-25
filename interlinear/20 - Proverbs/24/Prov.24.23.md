@@ -1,8 +1,56 @@
+---
+title: Proverbs 24:23
+type: Verse
+kjv: "These things also belong to the wise. It is not good to have respect of persons in judgment."
+bsb: "These also are sayings of the wise: To show partiality in judgment is not good."
+hebrew: "גַּם־ אֵ֥לֶּה לַֽחֲכָמִ֑ים הַֽכֵּר־ פָּנִ֖ים בְּמִשְׁפָּ֣ט בַּל־ טֽוֹב׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H2450]]"
+- "[[H5234A]]"
+- "[[H6440N]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H1077]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:23**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] also [belong] to the wise. [It is] not good to have respect of persons in judgment.
 <small><sub>**BSB:**</sub></small>
 These also are sayings of the wise: To show partiality in judgment is not good.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0428\|אֵ֥לֶּה]] [[H9005\|לַֽ]][[H2450\|חֲכָמִ֑ים]] [[H5234A\|הַֽכֵּר]][[H9014\|־]] [[H6440N\|פָּנִ֖ים]] [[H9003\|בְּ]][[H4941G\|מִשְׁפָּ֣ט]] [[H1077\|בַּל]][[H9014\|־]] [[H2896A\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RULERS|RULERS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.22|<< Proverbs 24:22]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.24|Proverbs 24:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

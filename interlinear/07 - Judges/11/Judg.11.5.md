@@ -1,8 +1,64 @@
+---
+title: Judges 11:5
+type: Verse
+kjv: "And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:"
+bsb: "and made war with them, the elders of Gilead went to get Jephthah from the land of Tob."
+hebrew: "וַיְהִ֕י כַּאֲשֶׁר־ נִלְחֲמ֥וּ בְנֵֽי־ עַמּ֖וֹן עִם־ יִשְׂרָאֵ֑ל וַיֵּֽלְכוּ֙ זִקְנֵ֣י גִלְעָ֔ד לָקַ֥חַת אֶת־ יִפְתָּ֖ח מֵאֶ֥רֶץ טֽוֹב׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TOB|TOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H3898A]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H5973A]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H2205G]]"
+- "[[H1568G]]"
+- "[[H9005]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H3316H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H2897]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:5**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:
 <small><sub>**BSB:**</sub></small>
 and made war with them, the elders of Gilead went to get Jephthah from the land of Tob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H3898A\|נִלְחֲמ֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1980G\|יֵּֽלְכוּ֙]] [[H2205G\|זִקְנֵ֣י]] [[H1568G\|גִלְעָ֔ד]] [[H9005\|לָ]][[H3947J\|קַ֥חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H3316H\|יִפְתָּ֖ח]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H2897\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]] • [[topic TOB|TOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.4|<< Judges 11:4]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.6|Judges 11:6 >>]]</td></tr></table>
 

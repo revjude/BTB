@@ -1,8 +1,51 @@
+---
+title: Proverbs 21:22
+type: Verse
+kjv: "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
+bsb: "A wise man scales the city of the mighty and pulls down the stronghold in which they trust."
+hebrew: "עִ֣יר גִּ֭בֹּרִים עָלָ֣ה חָכָ֑ם וַ֝יֹּ֗רֶד עֹ֣ז מִבְטֶחָֽה׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WAR|WAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H5892B]]"
+- "[[H1368]]"
+- "[[H5927G]]"
+- "[[H2450]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H5797]]"
+- "[[H4009]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:22**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise [man] scaleth the city of the mighty, and casteth down the strength of the confidence thereof.
 <small><sub>**BSB:**</sub></small>
 A wise man scales the city of the mighty and pulls down the stronghold in which they trust.
+<small><sub>**Hebrew:**</sub></small>
+[[H5892B\|עִ֣יר]] [[H1368\|גִּ֭בֹּרִים]] [[H5927G\|עָלָ֣ה]] [[H2450\|חָכָ֑ם]] [[H9001\|וַ֝]][[H3381\|יֹּ֗רֶד]] [[H5797\|עֹ֣ז]] [[H4009\|מִבְטֶחָֽ]][[H9024\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.21|<< Proverbs 21:21]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.23|Proverbs 21:23 >>]]</td></tr></table>
 

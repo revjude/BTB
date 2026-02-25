@@ -1,8 +1,72 @@
+---
+title: Exodus 36:6
+type: Verse
+kjv: "And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing."
+bsb: "After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more,"
+hebrew: "וַיְצַ֣ו מֹשֶׁ֗ה וַיַּעֲבִ֨ירוּ ק֥וֹל בַּֽמַּחֲנֶה֮ לֵאמֹר֒ אִ֣ישׁ וְאִשָּׁ֗ה אַל־ יַעֲשׂוּ־ ע֛וֹד מְלָאכָ֖ה לִתְרוּמַ֣ת הַקֹּ֑דֶשׁ וַיִּכָּלֵ֥א הָעָ֖ם מֵהָבִֽיא׃"
+pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5674A]]"
+- "[[H6963J]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6213I]]"
+- "[[H5750]]"
+- "[[H4399]]"
+- "[[H8641]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H3607]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H0935P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:6**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
 <small><sub>**BSB:**</sub></small>
 After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H4872\|מֹשֶׁ֗ה]] [[H9001\|וַ]][[H5674A\|יַּעֲבִ֨ירוּ]] [[H6963J\|ק֥וֹל]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶה֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H0802G\|אִשָּׁ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H6213I\|יַעֲשׂוּ]][[H9014\|־]] [[H5750\|ע֛וֹד]] [[H4399\|מְלָאכָ֖ה]] [[H9005\|לִ]][[H8641\|תְרוּמַ֣ת]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9001\|וַ]][[H3607\|יִּכָּלֵ֥א]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מֵ]][[H0935P\|הָבִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.5|<< Exodus 36:5]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.7|Exodus 36:7 >>]]</td></tr></table>
 

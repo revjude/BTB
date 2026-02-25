@@ -1,8 +1,63 @@
+---
+title: Psalm 142:3
+type: Verse
+kjv: "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
+bsb: "Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me."
+hebrew: "בְּהִתְעַטֵּ֬ף עָלַ֨י׀ רוּחִ֗י וְאַתָּה֮ יָדַ֪עְתָּ נְֽתִיבָ֫תִ֥י בְּאֹֽרַח־ ז֥וּ אֲהַלֵּ֑ךְ טָמְנ֖וּ פַ֣ח לִֽי׃"
+pericope: "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H5848C]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H5410B]]"
+- "[[H0734]]"
+- "[[H9014]]"
+- "[[H2098]]"
+- "[[H1980I]]"
+- "[[H2934]]"
+- "[[H6341A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 142:3**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.
 <small><sub>**BSB:**</sub></small>
 Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5848C\|הִתְעַטֵּ֬ף]] [[H5921A\|עָלַ֨]][[H9030\|י]][[H9015\|׀]] [[H7307G\|רוּחִ֗]][[H9020\|י]] [[H9002\|וְ]][[H0859A\|אַתָּה֮]] [[H3045\|יָדַ֪עְתָּ]] [[H5410B\|נְֽתִיבָ֫תִ֥]][[H9020\|י]] [[H9003\|בְּ]][[H0734\|אֹֽרַח]][[H9014\|־]] [[H2098\|ז֥וּ]] [[H1980I\|אֲהַלֵּ֑ךְ]] [[H2934\|טָמְנ֖וּ]] [[H6341A\|פַ֣ח]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.2|<< Psalms 142:2]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.4|Psalms 142:4 >>]]</td></tr></table>
 

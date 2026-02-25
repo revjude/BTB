@@ -1,8 +1,69 @@
+---
+title: Numbers 16:2
+type: Verse
+kjv: "And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:"
+bsb: "a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly."
+hebrew: "וַיָּקֻ֙מוּ֙ לִפְנֵ֣י מֹשֶׁ֔ה וַאֲנָשִׁ֥ים מִבְּנֵֽי־ יִשְׂרָאֵ֖ל חֲמִשִּׁ֣ים וּמָאתָ֑יִם נְשִׂיאֵ֥י עֵדָ֛ה קְרִאֵ֥י מוֹעֵ֖ד אַנְשֵׁי־ שֵֽׁם׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H2572]]"
+- "[[H3967]]"
+- "[[H5387A]]"
+- "[[H5712]]"
+- "[[H7148]]"
+- "[[H4150I]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:2**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
 <small><sub>**BSB:**</sub></small>
 a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֙מוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וַ]][[H0582\|אֲנָשִׁ֥ים]] [[H9006\|מִ]][[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2572\|חֲמִשִּׁ֣ים]] [[H9002\|וּ]][[H3967\|מָאתָ֑יִם]] [[H5387A\|נְשִׂיאֵ֥י]] [[H5712\|עֵדָ֛ה]] [[H7148\|קְרִאֵ֥י]] [[H4150I\|מוֹעֵ֖ד]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H8034\|שֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MURMURING|MURMURING]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.1|<< Numbers 16:1]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.3|Numbers 16:3 >>]]</td></tr></table>
 

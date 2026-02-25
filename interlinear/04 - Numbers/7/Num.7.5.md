@@ -1,8 +1,67 @@
+---
+title: Numbers 7:5
+type: Verse
+kjv: "Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service."
+bsb: "“Accept these gifts from them, that they may be used in the work of the Tent of Meeting. And give them to the Levites, to each man according to his service.”"
+hebrew: "קַ֚ח מֵֽאִתָּ֔ם וְהָי֕וּ לַעֲבֹ֕ד אֶת־ עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְנָתַתָּ֤ה אוֹתָם֙ אֶל־ הַלְוִיִּ֔ם אִ֖ישׁ כְּפִ֥י עֲבֹדָתֽוֹ׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic WAGON|WAGON]]"
+strongs:
+- "[[H3947H]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5656H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H5414G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H6310K]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:5**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take [it] of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.
 <small><sub>**BSB:**</sub></small>
 “Accept these gifts from them, that they may be used in the work of the Tent of Meeting. And give them to the Levites, to each man according to his service.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3947H\|קַ֚ח]] [[H9006\|מֵֽ]][[H0854\|אִתָּ֔]][[H9038\|ם]] [[H9001\|וְ]][[H1961\|הָי֕וּ]] [[H9005\|לַ]][[H5647H\|עֲבֹ֕ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֖ת]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֤ה]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H0376I\|אִ֖ישׁ]] [[H9004\|כְּ]][[H6310K\|פִ֥י]] [[H5656H\|עֲבֹדָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic WAGON|WAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.4|<< Numbers 7:4]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.6|Numbers 7:6 >>]]</td></tr></table>
 

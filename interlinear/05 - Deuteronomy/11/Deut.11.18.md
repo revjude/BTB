@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 11:18
+type: Verse
+kjv: "Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes."
+bsb: "Fix these words of mine in your hearts and minds; tie them as reminders on your hands and bind them on your foreheads."
+hebrew: "וְשַׂמְתֶּם֙ אֶת־ דְּבָרַ֣י אֵ֔לֶּה עַל־ לְבַבְכֶ֖ם וְעַֽל־ נַפְשְׁכֶ֑ם וּקְשַׁרְתֶּ֨ם אֹתָ֤ם לְאוֹת֙ עַל־ יֶדְכֶ֔ם וְהָי֥וּ לְטוֹטָפֹ֖ת בֵּ֥ין עֵינֵיכֶֽם׃"
+pericope: "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PHYLACTERY|PHYLACTERY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0428]]"
+- "[[H5921A]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H7194]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0226H]]"
+- "[[H3027G]]"
+- "[[H1961]]"
+- "[[H2903]]"
+- "[[H0996G]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:18**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
 <small><sub>**BSB:**</sub></small>
 Fix these words of mine in your hearts and minds; tie them as reminders on your hands and bind them on your foreheads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760H\|שַׂמְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרַ֣]][[H9020\|י]] [[H0428\|אֵ֔לֶּה]] [[H5921A\|עַל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9026\|כֶ֑ם]] [[H9001\|וּ]][[H7194\|קְשַׁרְתֶּ֨ם]] [[H0853\|אֹתָ֤]][[H9038\|ם]] [[H9005\|לְ]][[H0226H\|אוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יֶדְ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לְ]][[H2903\|טוֹטָפֹ֖ת]] [[H0996G\|בֵּ֥ין]] [[H5869A\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]] • [[topic PHYLACTERY|PHYLACTERY]] • [[topic REWARD|REWARD]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.17|<< Deuteronomy 11:17]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.19|Deuteronomy 11:19 >>]]</td></tr></table>
 

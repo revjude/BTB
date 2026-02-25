@@ -1,8 +1,61 @@
+---
+title: Numbers 14:17
+type: Verse
+kjv: "And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying,"
+bsb: "So now I pray, may the power of my Lord be magnified, just as You have declared:"
+hebrew: "וְעַתָּ֕ה יִגְדַּל־ נָ֖א כֹּ֣חַ אֲדֹנָ֑י כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ לֵאמֹֽר׃"
+pericope: "[[Num.14.13 Moses Intercedes for Israel|Moses Intercedes for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1431]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3581B]]"
+- "[[H0136]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:17**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying,
 <small><sub>**BSB:**</sub></small>
 So now I pray, may the power of my Lord be magnified, just as You have declared:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H1431\|יִגְדַּל]][[H9014\|־]] [[H4994\|נָ֖א]] [[H3581B\|כֹּ֣חַ]] [[H0136\|אֲדֹנָ֑י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696I\|דִּבַּ֖רְתָּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.16|<< Numbers 14:16]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.18|Numbers 14:18 >>]]</td></tr></table>
 

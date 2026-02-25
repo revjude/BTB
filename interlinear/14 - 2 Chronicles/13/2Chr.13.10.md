@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 13:10
+type: Verse
+kjv: "But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business:"
+bsb: "But as for us, the LORD is our God. We have not forsaken Him; the priests who minister to the LORD are sons of Aaron, and the Levites attend to their duties."
+hebrew: "וַאֲנַ֛חְנוּ יְהוָ֥ה אֱלֹהֵ֖ינוּ וְלֹ֣א עֲזַבְנֻ֑הוּ וְכֹ֨הֲנִ֜ים מְשָׁרְתִ֤ים לַֽיהוָה֙ בְּנֵ֣י אַהֲרֹ֔ן וְהַלְוִיִּ֖ם בַּמְלָֽאכֶת׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic REBELLION|REBELLION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H8334]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:10**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for us, the LORD [is] our God, and we have not forsaken him; and the priests, which minister unto the LORD, [are] the sons of Aaron, and the Levites [wait] upon [their] business:
 <small><sub>**BSB:**</sub></small>
 But as for us, the LORD is our God. We have not forsaken Him; the priests who minister to the LORD are sons of Aaron, and the Levites attend to their duties.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0587\|אֲנַ֛חְנוּ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5800A\|עֲזַבְנֻ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H3548\|כֹ֨הֲנִ֜ים]] [[H8334\|מְשָׁרְתִ֤ים]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H1121A\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֔ן]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9003\|בַּ]][[H4399\|מְלָֽאכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic LEVITES|LEVITES]] • [[topic REBELLION|REBELLION]] • [[topic REPROOF|REPROOF]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.9|<< 2 Chronicles 13:9]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.11|2 Chronicles 13:11 >>]]</td></tr></table>
 

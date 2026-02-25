@@ -1,10 +1,56 @@
+---
+title: Matthew 1:2
+type: Verse
+kjv: "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;"
+bsb: "Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers."
+greek: "Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ· Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ· Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ·"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[G0011]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G2464]]"
+- "[[G1161]]"
+- "[[G2384G]]"
+- "[[G2455]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 1:2**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 <small><sub>**BSB:**</sub></small>
 Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.
-<small><sub>**Literal:**</sub></small>
-Abraham begat <the> Isaac; Isaac then begat <the> Jacob; Jacob then begat <the> Judah and the brothers of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.1|<< Matthew 1:1]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.3|Matthew 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0011\|Ἀβραὰμ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2464\|Ἰσαάκ·]]  [[G2464\|Ἰσαὰκ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2384G\|Ἰακώβ·]]  [[G2384G\|Ἰακὼβ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2455\|Ἰούδαν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JUDAH|JUDAH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.1|<< Matthew 1:1]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.3|Matthew 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

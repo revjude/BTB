@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hebrew Servants
+type: Pericope
 pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 15
 book/chapter: "[[Deut.15|Deuteronomy 15]]"
-genre:
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.15.12]]"
 - "[[Deut.15.13]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.15.18]]"
 ---
 
-[[Deut.15|Deuteronomy 15:12 - Deuteronomy 15:18]]
+<small>[[Deut.15|Deuteronomy 15:12-18]]</small>
 *Hebrew Servants*
 
 [[Deut.15.12|12]] \[And\] if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.

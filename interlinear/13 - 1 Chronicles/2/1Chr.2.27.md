@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 2:27
+type: Verse
+kjv: "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker."
+bsb: "The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin, and Eker."
+hebrew: "וַיִּהְי֥וּ בְנֵי־ רָ֖ם בְּכ֣וֹר יְרַחְמְאֵ֑ל מַ֥עַץ וְיָמִ֖ין וָעֵֽקֶר׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EKER|EKER]]"
+- "[[topic JAMIN|JAMIN]]"
+- "[[topic MAAZ|MAAZ]]"
+- "[[topic RAM|RAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7410H]]"
+- "[[H1060]]"
+- "[[H3396G]]"
+- "[[H4619]]"
+- "[[H9002]]"
+- "[[H3226H]]"
+- "[[H6134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:27**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
 <small><sub>**BSB:**</sub></small>
 The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin, and Eker.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H7410H\|רָ֖ם]] [[H1060\|בְּכ֣וֹר]] [[H3396G\|יְרַחְמְאֵ֑ל]] [[H4619\|מַ֥עַץ]] [[H9002\|וְ]][[H3226H\|יָמִ֖ין]] [[H9002\|וָ]][[H6134\|עֵֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EKER|EKER]] • [[topic JAMIN|JAMIN]] • [[topic MAAZ|MAAZ]] • [[topic RAM|RAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.26|<< 1 Chronicles 2:26]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.28|1 Chronicles 2:28 >>]]</td></tr></table>
 

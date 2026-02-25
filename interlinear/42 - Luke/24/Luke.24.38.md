@@ -1,10 +1,59 @@
+---
+title: Luke 24:38
+type: Verse
+kjv: "And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?"
+bsb: "“Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts?"
+jesus_said: "Why are ye troubled? and why do thoughts arise in your hearts?"
+greek: "καὶ εἶπεν αὐτοῖς· τί τεταραγμένοι ἐστὲ καὶ διὰ τί διαλογισμοὶ ἀναβαίνουσιν ἐν τῇ καρδίᾳ ὑμῶν;"
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G5015]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G1261]]"
+- "[[G0305]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:38**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
 <small><sub>**BSB:**</sub></small>
 “Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts?
-<small><sub>**Literal:**</sub></small>
-And He said to them; Why troubled are you and through why doubts do come up in the heart of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.37|<< Luke 24:37]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.39|Luke 24:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G5015\|τεταραγμένοι]]  [[G1510\|ἐστὲ]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G1261\|διαλογισμοὶ]]  [[G0305\|ἀναβαίνουσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|ὑμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.37|<< Luke 24:37]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.39|Luke 24:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,78 @@
+---
+title: 1 Kings 1:33
+type: Verse
+kjv: "The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:"
+bsb: "“Take my servants with you,” said the king. “Set my son Solomon on my own mule and take him down to Gihon."
+hebrew: "וַיֹּ֨אמֶר הַמֶּ֜לֶךְ לָהֶ֗ם קְח֤וּ עִמָּכֶם֙ אֶת־ עַבְדֵ֣י אֲדֹנֵיכֶ֔ם וְהִרְכַּבְתֶּם֙ אֶת־ שְׁלֹמֹ֣ה בְנִ֔י עַל־ הַפִּרְדָּ֖ה אֲשֶׁר־ לִ֑י וְהוֹרַדְתֶּ֥ם אֹת֖וֹ אֶל־ גִּחֽוֹן׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KING|KING]]"
+- "[[topic MULE|MULE]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3947G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9026]]"
+- "[[H7392]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H6506]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H1521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:33**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:
 <small><sub>**BSB:**</sub></small>
 “Take my servants with you,” said the king. “Set my son Solomon on my own mule and take him down to Gihon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H3947G\|קְח֤וּ]] [[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֵ֣י]] [[H0113\|אֲדֹנֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H7392\|הִרְכַּבְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בְנִ֔]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6506\|פִּרְדָּ֖ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וְ]][[H3381\|הוֹרַדְתֶּ֥ם]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1521\|גִּחֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIHON|GIHON]] • [[topic ISRAEL|ISRAEL]] • [[topic KING|KING]] • [[topic MULE|MULE]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.32|<< 1 Kings 1:32]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.34|1 Kings 1:34 >>]]</td></tr></table>
 

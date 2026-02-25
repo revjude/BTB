@@ -1,10 +1,71 @@
+---
+title: Luke 15:22
+type: Verse
+kjv: "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+bsb: "But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet."
+jesus_said: "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+greek: "Εἶπεν δὲ ὁ πατὴρ πρὸς τοὺς δούλους αὐτοῦ· ταχὺ ἐξενέγκατε τὴν στολὴν τὴν πρώτην καὶ ἐνδύσατε αὐτὸν καὶ δότε δακτύλιον εἰς τὴν χεῖρα αὐτοῦ καὶ ὑποδήματα εἰς τοὺς πόδας,"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4314]]"
+- "[[G1401]]"
+- "[[G0846]]"
+- "[[G5036]]"
+- "[[G1627]]"
+- "[[G4749]]"
+- "[[G4413J]]"
+- "[[G2532]]"
+- "[[G1746]]"
+- "[[G1325]]"
+- "[[G1146]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G5266]]"
+- "[[G4228]]"
+texts:
+- NKO
+- NO
+- k
+---
+
 **Luke 15:22**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the father said to his servants, Bring forth the best robe, and put [it] on him; and put a ring on his hand, and shoes on [his] feet:
 <small><sub>**BSB:**</sub></small>
 But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.
-<small><sub>**Literal:**</sub></small>
-Said then the father to the servants of him; Quickly do bring out <the> robe the best and do clothe him and do give a ring for the hand of him and sandals for <the> [his] feet,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.21|<< Luke 15:21]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.23|Luke 15:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G1401\|δούλους]]  [[G0846\|αὐτοῦ·]]  [[G5036\|ταχὺ]]  [[G1627\|ἐξενέγκατε]]  [[G3588\|τὴν]]  [[G4749\|στολὴν]]  [[G3588\|τὴν]]  [[G4413J\|πρώτην]]  [[G2532\|καὶ]]  [[G1746\|ἐνδύσατε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1325\|δότε]]  [[G1146\|δακτύλιον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G5266\|ὑποδήματα]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.21|<< Luke 15:21]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.23|Luke 15:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

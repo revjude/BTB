@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 7:6
+type: Verse
+kjv: "But I speak this by permission, and not of commandment."
+bsb: "I say this as a concession, not as a command."
+greek: "τοῦτο δὲ λέγω κατὰ συγγνώμην οὐ κατ᾽ ἐπιταγήν."
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G2596]]"
+- "[[G4774]]"
+- "[[G3756]]"
+- "[[G2003]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:6**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I speak this by permission, [and] not of commandment.
 <small><sub>**BSB:**</sub></small>
 I say this as a concession, not as a command.
-<small><sub>**Literal:**</sub></small>
-This now I say by way of concession not by way of command.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.5|<< 1 Corinthians 7:5]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.7|1 Corinthians 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G2596\|κατὰ]]  [[G4774\|συγγνώμην]]  [[G3756\|οὐ]]  [[G2596\|κατ᾽]]  [[G2003\|ἐπιταγήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIFE|WIFE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.5|<< 1 Corinthians 7:5]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.7|1 Corinthians 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

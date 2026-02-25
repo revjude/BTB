@@ -1,8 +1,68 @@
+---
+title: Genesis 27:14
+type: Verse
+kjv: "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved."
+bsb: "So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved."
+hebrew: "וַיֵּ֙לֶךְ֙ וַיִּקַּ֔ח וַיָּבֵ֖א לְאִמּ֑וֹ וַתַּ֤עַשׂ אִמּוֹ֙ מַטְעַמִּ֔ים כַּאֲשֶׁ֖ר אָהֵ֥ב אָבִֽיו׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H3947G]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H6213H]]"
+- "[[H4303]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0157G]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:14**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went, and fetched, and brought [them] to his mother: and his mother made savoury meat, such as his father loved.
 <small><sub>**BSB:**</sub></small>
 So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֙לֶךְ֙]] [[H9001\|וַ]][[H3947G\|יִּקַּ֔ח]] [[H9001\|וַ]][[H0935P\|יָּבֵ֖א]] [[H9005\|לְ]][[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H6213H\|תַּ֤עַשׂ]] [[H0517\|אִמּ]][[H9023\|וֹ֙]] [[H4303\|מַטְעַמִּ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0157G\|אָהֵ֥ב]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.13|<< Genesis 27:13]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.15|Genesis 27:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

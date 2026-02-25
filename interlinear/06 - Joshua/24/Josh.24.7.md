@@ -1,8 +1,72 @@
+---
+title: Joshua 24:7
+type: Verse
+kjv: "And when they cried unto the LORD, he put darkness between you and the Egyptians, and brought the sea upon them, and covered them; and your eyes have seen what I have done in Egypt: and ye dwelt in the wilderness a long season."
+bsb: "So your fathers cried out to the LORD, and He put darkness between you and the Egyptians, over whom He brought the sea and engulfed them. Your very eyes saw what I did to the Egyptians. Then you lived in the wilderness for a long time."
+hebrew: "וַיִּצְעֲק֣וּ אֶל־ יְהוָ֗ה וַיָּ֨שֶׂם מַֽאֲפֵ֜ל בֵּינֵיכֶ֣ם׀ וּבֵ֣ין הַמִּצְרִ֗ים וַיָּבֵ֨א עָלָ֤יו אֶת־ הַיָּם֙ וַיְכַסֵּ֔הוּ וַתִּרְאֶ֙ינָה֙ עֵינֵיכֶ֔ם אֵ֥ת אֲשֶׁר־ עָשִׂ֖יתִי בְּמִצְרָ֑יִם וַתֵּשְׁב֥וּ בַמִּדְבָּ֖ר יָמִ֥ים רַבִּֽים׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7760H]]"
+- "[[H3990]]"
+- "[[H0996G]]"
+- "[[H9036]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4713]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H3220G]]"
+- "[[H3680]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3427]]"
+- "[[H4057B]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:7**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they cried unto the LORD, he put darkness between you and the Egyptians, and brought the sea upon them, and covered them; and your eyes have seen what I have done in Egypt: and ye dwelt in the wilderness a long season.
 <small><sub>**BSB:**</sub></small>
 So your fathers cried out to the LORD, and He put darkness between you and the Egyptians, over whom He brought the sea and engulfed them. Your very eyes saw what I did to the Egyptians. Then you lived in the wilderness for a long time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יִּצְעֲק֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H7760H\|יָּ֨שֶׂם]] [[H3990\|מַֽאֲפֵ֜ל]] [[H0996G\|בֵּינֵי]][[H9036\|כֶ֣ם]][[H9015\|׀]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H4713\|מִּצְרִ֗ים]] [[H9001\|וַ]][[H0935G\|יָּבֵ֨א]] [[H5921A\|עָלָ֤י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H9001\|וַ]][[H3680\|יְכַסֵּ֔]][[H9033\|הוּ]] [[H9001\|וַ]][[H7200G\|תִּרְאֶ֙ינָה֙]] [[H5869A\|עֵינֵי]][[H9026\|כֶ֔ם]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֖יתִי]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3427\|תֵּשְׁב֥וּ]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֖ר]] [[H3117G\|יָמִ֥ים]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RED SEA|RED SEA]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.6|<< Joshua 24:6]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.8|Joshua 24:8 >>]]</td></tr></table>
 

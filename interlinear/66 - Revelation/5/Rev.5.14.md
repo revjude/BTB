@@ -1,10 +1,65 @@
+---
+title: Revelation 5:14
+type: Verse
+kjv: "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever."
+bsb: "And the four living creatures said, “Amen,” and the elders fell down and worshiped."
+greek: "καὶ τὰ τέσσαρα ζῷα ἔλεγον· τὸ ἀμήν. καὶ οἱ εἴκοσιτέσσαρες εἴκοσιτέσσαρες πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν ζῶντι εἰς τοὺς αἰωνας τῶν αἰώνων.¶"
+pericope: "[[Rev.5.11 The Lamb Exalted|The Lamb Exalted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G0281]]"
+- "[[G1501]]"
+- "[[G4245G]]"
+- "[[G4098]]"
+- "[[G4352]]"
+- "[[G2198]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- NK(o)
+- o
+- K
+---
+
 **Revelation 5:14**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the four beasts said, Amen. And the four [and] twenty elders fell down and worshipped him that liveth for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And the four living creatures said, “Amen,” and the elders fell down and worshiped.
-<small><sub>**Literal:**</sub></small>
-And the four living creatures were saying; <the> Amen. And the twenty four elders fell down and they worshiped [the one] living into the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.13|<< Revelation 5:13]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.1|Revelation 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5064\|τέσσαρα]]  [[G2226\|ζῷα]]  [[G3004G\|ἔλεγον·]]  [[G3588\|τὸ]]  [[G0281\|ἀμήν.]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1501\|εἴκοσιτέσσαρες]]  <sup><small>[[G5064\| [ • ] ]]</small></sup>  [[G4245G\|πρεσβύτεροι]]  [[G4098\|ἔπεσαν]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G2198\|ζῶντι]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰωνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic SHOUTING|SHOUTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.13|<< Revelation 5:13]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.1|Revelation 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

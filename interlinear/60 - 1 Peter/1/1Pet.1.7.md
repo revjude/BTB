@@ -1,10 +1,68 @@
+---
+title: 1 Peter 1:7
+type: Verse
+kjv: "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:"
+bsb: "so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ."
+greek: "ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου εὑρεθῇ εἰς ἔπαινον καὶ εἰς δόξαν καὶ τιμὴν ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ·"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1383]]"
+- "[[G4771]]"
+- "[[G4102G]]"
+- "[[G4186]]"
+- "[[G5553]]"
+- "[[G0622]]"
+- "[[G1223]]"
+- "[[G4442]]"
+- "[[G1161]]"
+- "[[G1381]]"
+- "[[G2147]]"
+- "[[G1519]]"
+- "[[G1868]]"
+- "[[G2532]]"
+- "[[G1391]]"
+- "[[G5092]]"
+- "[[G1722]]"
+- "[[G0602]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **1 Peter 1:7**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-so that the proven genuineness of your <the> faith more precious than gold which is perishing through fire though being refined it may be discovered towards praise and towards glory and honor in [the] revelation of Jesus Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.6|<< 1 Peter 1:6]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.8|1 Peter 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G1383\|δοκίμιον]]  [[G4771\|ὑμῶν]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G4186\|πολυτιμότερον]]  [[G5553\|χρυσίου]]  [[G3588\|τοῦ]]  [[G0622\|ἀπολλυμένου]]  [[G1223\|διὰ]]  [[G4442\|πυρὸς]]  [[G1161\|δὲ]]  [[G1381\|δοκιμαζομένου]]  [[G2147\|εὑρεθῇ]]  [[G1519\|εἰς]]  [[G1868\|ἔπαινον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G5092\|τιμὴν]]  [[G1722\|ἐν]]  [[G0602\|ἀποκαλύψει]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.6|<< 1 Peter 1:6]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.8|1 Peter 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

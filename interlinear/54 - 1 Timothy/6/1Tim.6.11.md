@@ -1,10 +1,66 @@
+---
+title: 1 Timothy 6:11
+type: Verse
+kjv: "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness."
+bsb: "But you, O man of God, flee from these things and pursue righteousness, godliness, faith, love, perseverance, and gentleness."
+greek: "Σὺ δέ, ὦ ἄνθρωπε τοῦ θεοῦ, ταῦτα φεῦγε, δίωκε δὲ δικαιοσύνην, εὐσέβειαν, πίστιν, ἀγάπην, ὑπομονήν, πραϋπαθίαν·"
+pericope: "[[1Tim.6.11 Fight the Good Fight|Fight the Good Fight]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G5599]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G5343]]"
+- "[[G1377]]"
+- "[[G1343]]"
+- "[[G2150]]"
+- "[[G4102G]]"
+- "[[G0026]]"
+- "[[G5281]]"
+- "[[G6073]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **1 Timothy 6:11**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
 <small><sub>**BSB:**</sub></small>
 But you, O man of God, flee from these things and pursue righteousness, godliness, faith, love, perseverance, and gentleness.
-<small><sub>**Literal:**</sub></small>
-You yourself however, O man <the> of God, these things do flee, do pursue now righteousness, godliness, faith, love, endurance, [and] gentleness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.10|<< 1 Timothy 6:10]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.12|1 Timothy 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Σὺ]]  [[G1161\|δέ,]]  [[G5599\|ὦ]]  [[G0444\|ἄνθρωπε]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3778\|ταῦτα]]  [[G5343\|φεῦγε,]]  [[G1377\|δίωκε]]  [[G1161\|δὲ]]  [[G1343\|δικαιοσύνην,]]  [[G2150\|εὐσέβειαν,]]  [[G4102G\|πίστιν,]]  [[G0026\|ἀγάπην,]]  [[G5281\|ὑπομονήν,]]  [[G6073\|πραϋπαθίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic RICHES|RICHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.10|<< 1 Timothy 6:10]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.12|1 Timothy 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

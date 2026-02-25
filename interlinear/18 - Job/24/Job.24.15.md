@@ -1,8 +1,59 @@
+---
+title: Job 24:15
+type: Verse
+kjv: "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face."
+bsb: "The eye of the adulterer watches for twilight. Thinking, ‘No eye will see me,’ he covers his face."
+hebrew: "וְעֵ֤ין נֹאֵ֨ף׀ שָׁ֤מְרָֽה נֶ֣שֶׁף לֵ֭אמֹר לֹא־ תְשׁוּרֵ֣נִי עָ֑יִן וְסֵ֖תֶר פָּנִ֣ים יָשִֽׂים׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H5003]]"
+- "[[H9015]]"
+- "[[H8104I]]"
+- "[[H5399]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7789]]"
+- "[[H9030]]"
+- "[[H5643A]]"
+- "[[H6440H]]"
+- "[[H7760A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:15**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth [his] face.
 <small><sub>**BSB:**</sub></small>
 The eye of the adulterer watches for twilight. Thinking, ‘No eye will see me,’ he covers his face.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5869A\|עֵ֤ין]] [[H5003\|נֹאֵ֨ף]][[H9015\|׀]] [[H8104I\|שָׁ֤מְרָֽה]] [[H5399\|נֶ֣שֶׁף]] [[H9005\|לֵ֭]][[H0559\|אמֹר]] [[H3808\|לֹא]][[H9014\|־]] [[H7789\|תְשׁוּרֵ֣]][[H9030\|נִי]] [[H5869A\|עָ֑יִן]] [[H9002\|וְ]][[H5643A\|סֵ֖תֶר]] [[H6440H\|פָּנִ֣ים]] [[H7760A\|יָשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.14|<< Job 24:14]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.16|Job 24:16 >>]]</td></tr></table>
 

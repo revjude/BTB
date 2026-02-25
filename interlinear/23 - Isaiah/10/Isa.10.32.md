@@ -1,8 +1,62 @@
+---
+title: Isaiah 10:32
+type: Verse
+kjv: "As yet shall he remain at Nob that day: he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem."
+bsb: "Yet today they will halt at Nob, shaking a fist at the mount of Daughter Zion, at the hill of Jerusalem."
+hebrew: "ע֥וֹד הַיּ֖וֹם בְּנֹ֣ב לַֽעֲמֹ֑ד יְנֹפֵ֤ף יָדוֹ֙ הַ֣ר בַּת צִיּ֔וֹן גִּבְעַ֖ת יְרוּשָׁלִָֽם׃ ס"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic NOB|NOB]]"
+strongs:
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H5011]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H5130B]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H2022G]]"
+- "[[H1004B]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H1389I]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 10:32**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As yet shall he remain at Nob that day: he shall shake his hand [against] the mount of the daughter of Zion, the hill of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Yet today they will halt at Nob, shaking a fist at the mount of Daughter Zion, at the hill of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֥וֹד]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9003\|בְּ]][[H5011\|נֹ֣ב]] [[H9005\|לַֽ]][[H5975G\|עֲמֹ֑ד]] [[H5130B\|יְנֹפֵ֤ף]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H2022G\|הַ֣ר]] [[H1323G\|בַּת]] [[H6726\|צִיּ֔וֹן]] [[H1389I\|גִּבְעַ֖ת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic NOB|NOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.31|<< Isaiah 10:31]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.33|Isaiah 10:33 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ Yet today they will halt at Nob, shaking a fist at the mount of Daughter Zion, a
 | [the] daughter of  [^1]|**<big>&#8207;[[H1323G\|בַּת]]&#8207; </big>**[^2] | beit-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hill of  |**<big>&#8207;[[H1389I\|גִּבְעַ֖ת]]&#8207; </big>**| giv.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.31|<< Isaiah 10:31]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.33|Isaiah 10:33 >>]]</td></tr></table>
 
 [^1]: [the] house of  | **<big>[[H1004B|בֵּית]]</big> ** | beit-<small><sup>[[HNcbsc]]</sup></small> | K

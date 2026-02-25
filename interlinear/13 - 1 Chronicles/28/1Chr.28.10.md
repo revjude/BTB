@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 28:10
+type: Verse
+kjv: "Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it."
+bsb: "Consider now that the LORD has chosen you to build a house for the sanctuary. Be strong and do it.”"
+hebrew: "רְאֵ֣ה׀ עַתָּ֗ה כִּֽי־ יְהוָ֛ה בָּ֧חַר בְּךָ֛ לִבְנֽוֹת־ בַּ֥יִת לַמִּקְדָּ֖שׁ חֲזַ֥ק וַעֲשֵֽׂה׃ פ"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H7200H]]"
+- "[[H9015]]"
+- "[[H6258]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H4720]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:10**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do [it].
 <small><sub>**BSB:**</sub></small>
 Consider now that the LORD has chosen you to build a house for the sanctuary. Be strong and do it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200H\|רְאֵ֣ה]][[H9015\|׀]] [[H6258\|עַתָּ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0977\|בָּ֧חַר]] [[H9003\|בְּ]][[H9031\|ךָ֛]] [[H9005\|לִ]][[H1129\|בְנֽוֹת]][[H9014\|־]] [[H1004B\|בַּ֥יִת]] [[H9005\|לַ]][[H4720\|מִּקְדָּ֖שׁ]] [[H2388G\|חֲזַ֥ק]] [[H9002\|וַ]][[H6213A\|עֲשֵֽׂה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.9|<< 1 Chronicles 28:9]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.11|1 Chronicles 28:11 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ Consider now that the LORD has chosen you to build a house for the sanctuary. Be
 | a house  |**<big>&#8207;[[H1004B\|בַּ֥יִת]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the sanctuary  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4720\|מִּקְדָּ֖שׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mik.Dash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be strong  |**<big>&#8207;[[H2388G\|חֲזַ֥ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and act  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and act  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.9|<< 1 Chronicles 28:9]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.11|1 Chronicles 28:11 >>]]</td></tr></table>
 
 

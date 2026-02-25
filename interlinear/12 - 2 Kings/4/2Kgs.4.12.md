@@ -1,8 +1,59 @@
+---
+title: 2 Kings 4:12
+type: Verse
+kjv: "And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him."
+bsb: "And he said to Gehazi his servant, “Call the Shunammite woman.” And when he had called her, she stood before him,"
+hebrew: "וַיֹּ֙אמֶר֙ אֶל־ גֵּחֲזִ֣י נַעֲר֔וֹ קְרָ֖א לַשּׁוּנַמִּ֣ית הַזֹּ֑את וַיִּקְרָא־ לָ֔הּ וַֽתַּעֲמֹ֖ד לְפָנָֽיו׃"
+pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1522]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H7767]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9034]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:12**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him.
 <small><sub>**BSB:**</sub></small>
 And he said to Gehazi his servant, “Call the Shunammite woman.” And when he had called her, she stood before him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1522\|גֵּחֲזִ֣י]] [[H5288\|נַעֲר֔]][[H9023\|וֹ]] [[H7121G\|קְרָ֖א]] [[H9005\|לַ]][[H7767\|שּׁוּנַמִּ֣ית]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וַ]][[H7121G\|יִּקְרָא]][[H9014\|־]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֖ד]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEHAZI|GEHAZI]] • [[topic INFLUENCE|INFLUENCE]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.11|<< 2 Kings 4:11]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.13|2 Kings 4:13 >>]]</td></tr></table>
 

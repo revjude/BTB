@@ -1,8 +1,80 @@
+---
+title: 1 Kings 9:3
+type: Verse
+kjv: "And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually."
+bsb: "And the LORD said to him: “I have heard your prayer and petition before Me. I have consecrated this temple, which you have built, by putting My Name there forever; My eyes and My heart will be there for all time."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו שָׁ֠מַעְתִּי אֶת־ תְּפִלָּתְךָ֣ וְאֶת־ תְּחִנָּתְךָ֮ אֲשֶׁ֣ר הִתְחַנַּ֣נְתָּה לְפָנַי֒ הִקְדַּ֗שְׁתִּי אֶת־ הַבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר בָּנִ֔תָה לָשֽׂוּם־ שְׁמִ֥י שָׁ֖ם עַד־ עוֹלָ֑ם וְהָי֨וּ עֵינַ֧י וְלִבִּ֛י שָׁ֖ם כָּל־ הַיָּמִֽים׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8467]]"
+- "[[H0834A]]"
+- "[[H2603A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H6942G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H1129]]"
+- "[[H7760H]]"
+- "[[H8034]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H5869A]]"
+- "[[H3820A]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:3**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to him: “I have heard your prayer and petition before Me. I have consecrated this temple, which you have built, by putting My Name there forever; My eyes and My heart will be there for all time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H8085G\|שָׁ֠מַעְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H8605\|תְּפִלָּתְ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8467\|תְּחִנָּתְ]][[H9021\|ךָ֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H2603A\|הִתְחַנַּ֣נְתָּה]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֒]] [[H6942G\|הִקְדַּ֗שְׁתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּנִ֔תָה]] [[H9005\|לָ]][[H7760H\|שֽׂוּם]][[H9014\|־]] [[H8034\|שְׁמִ֥]][[H9020\|י]] [[H8033G\|שָׁ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H5869A\|עֵינַ֧]][[H9020\|י]] [[H9002\|וְ]][[H3820A\|לִבִּ֛]][[H9020\|י]] [[H8033G\|שָׁ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.2|<< 1 Kings 9:2]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.4|1 Kings 9:4 >>]]</td></tr></table>
 

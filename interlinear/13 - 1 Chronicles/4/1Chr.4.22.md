@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 4:22
+type: Verse
+kjv: "And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And these are ancient things."
+bsb: "Jokim, the men of Cozeba, and Joash and Saraph, who ruled in Moab and Jashubi-lehem. (These names are from ancient records.)"
+hebrew: "וְיוֹקִ֞ים וְאַנְשֵׁ֣י כֹזֵבָ֗א וְיוֹאָ֧שׁ וְשָׂרָ֛ף אֲשֶׁר־ בָּעֲל֥וּ לְמוֹאָ֖ב וְיָשֻׁ֣בִי לָ֑חֶם וְהַדְּבָרִ֖ים עַתִּיקִֽים׃"
+pericope: "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHEZIB|CHEZIB]]"
+- "[[topic CHOZEBA|CHOZEBA]]"
+- "[[topic JASHUBI-LEHEM|JASHUBI-LEHEM]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic JOKIM|JOKIM]]"
+- "[[topic SARAPH|SARAPH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3137]]"
+- "[[H0582]]"
+- "[[H3578]]"
+- "[[H3101K]]"
+- "[[H8315]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1166H]]"
+- "[[H9005]]"
+- "[[H4124G]]"
+- "[[H3433]]"
+- "[[H9009]]"
+- "[[H1697K]]"
+- "[[H6267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:22**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And [these are] ancient things.
 <small><sub>**BSB:**</sub></small>
 Jokim, the men of Cozeba, and Joash and Saraph, who ruled in Moab and Jashubi-lehem. (These names are from ancient records.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3137\|יוֹקִ֞ים]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֣י]] [[H3578\|כֹזֵבָ֗א]] [[H9002\|וְ]][[H3101K\|יוֹאָ֧שׁ]] [[H9002\|וְ]][[H8315\|שָׂרָ֛ף]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1166H\|בָּעֲל֥וּ]] [[H9005\|לְ]][[H4124G\|מוֹאָ֖ב]] [[H9002\|וְ]][[H3433\|יָשֻׁ֣בִי]] [[H3433\|לָ֑חֶם]] [[H9002\|וְ]][[H9009\|הַ]][[H1697K\|דְּבָרִ֖ים]] [[H6267\|עַתִּיקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEZIB|CHEZIB]] • [[topic CHOZEBA|CHOZEBA]] • [[topic JASHUBI-LEHEM|JASHUBI-LEHEM]] • [[topic JOASH|JOASH]] • [[topic JOKIM|JOKIM]] • [[topic SARAPH|SARAPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.21|<< 1 Chronicles 4:21]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.23|1 Chronicles 4:23 >>]]</td></tr></table>
 

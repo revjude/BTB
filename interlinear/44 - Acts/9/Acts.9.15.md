@@ -1,10 +1,73 @@
+---
+title: Acts 9:15
+type: Verse
+kjv: "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+bsb: "“Go!” said the Lord. “This man is My chosen instrument to carry My name before the Gentiles and their kings, and before the people of Israel."
+jesus_said: "Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+greek: "Εἶπεν δὲ πρὸς αὐτὸν ὁ κύριος· πορεύου, ὅτι σκεῦος ἐκλογῆς ἐστίν μοι οὗτος τοῦ βαστάσαι τὸ ὄνομά μου ἐνώπιον τῶν ἐθνῶν τε καὶ βασιλέων υἱῶν τε Ἰσραήλ."
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G4198]]"
+- "[[G3754H]]"
+- "[[G4632]]"
+- "[[G1589]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G0941]]"
+- "[[G3686]]"
+- "[[G1799]]"
+- "[[G1484]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G0935]]"
+- "[[G5207]]"
+- "[[G2474]]"
+texts:
+- NKO
+- o
+- no
+---
+
 **Acts 9:15**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 <small><sub>**BSB:**</sub></small>
 “Go!” said the Lord. “This man is My chosen instrument to carry My name before the Gentiles and their kings, and before the people of Israel.
-<small><sub>**Literal:**</sub></small>
-Said however to him the Lord; do go, for a vessel of choice is to Me this [man] <the> to carry the name of Me before the Gentiles and also kings [the] sons then of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.14|<< Acts 9:14]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.16|Acts 9:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G4198\|πορεύου,]]  [[G3754H\|ὅτι]]  [[G4632\|σκεῦος]]  [[G1589\|ἐκλογῆς]]  [[G1510\|ἐστίν]]  [[G3165\|μοι]]  [[G3778\|οὗτος]]  [[G3588\|τοῦ]]  [[G0941\|βαστάσαι]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G0935\|βασιλέων]]  [[G5207\|υἱῶν]]  [[G5037\|τε]]  [[G2474\|Ἰσραήλ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CALL|CALL]] • [[topic CONVERTS|CONVERTS]] • [[topic ELECTION|ELECTION]] • [[topic GENTILES|GENTILES]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.14|<< Acts 9:14]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.16|Acts 9:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

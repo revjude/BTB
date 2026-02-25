@@ -1,8 +1,56 @@
+---
+title: Proverbs 20:16
+type: Verse
+kjv: "Take his garment that is surety for a stranger: and take a pledge of him for a strange woman."
+bsb: "Take the garment of the one who posts security for a stranger; get collateral if it is for a foreigner."
+hebrew: "לְֽקַח־ בִּ֭גְדוֹ כִּי־ עָ֣רַב זָ֑ר וּבְעַ֖ד נָכְרִיָּ֣ה חַבְלֵֽהוּ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+strongs:
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H6148]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H1157]]"
+- "[[H5237]]"
+- "[[H2254A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 20:16**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take his garment that is surety [for] a stranger: and take a pledge of him for a strange woman.
 <small><sub>**BSB:**</sub></small>
 Take the garment of the one who posts security for a stranger; get collateral if it is for a foreigner.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|לְֽקַח]][[H9014\|־]] [[H0899B\|בִּ֭גְד]][[H9023\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H6148\|עָ֣רַב]] [[H2114A\|זָ֑ר]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H5237\|נָכְרִיָּ֣ה]] [[H2254A\|חַבְלֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.15|<< Proverbs 20:15]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.17|Proverbs 20:17 >>]]</td></tr></table>
 

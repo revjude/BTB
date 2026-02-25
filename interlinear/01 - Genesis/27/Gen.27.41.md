@@ -1,8 +1,70 @@
+---
+title: Genesis 27:41
+type: Verse
+kjv: "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
+bsb: "Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.”"
+hebrew: "וַיִּשְׂטֹ֤ם עֵשָׂו֙ אֶֽת־ יַעֲקֹ֔ב עַל־ הַ֨בְּרָכָ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ אָבִ֑יו וַיֹּ֨אמֶר עֵשָׂ֜ו בְּלִבּ֗וֹ יִקְרְבוּ֙ יְמֵי֙ אֵ֣בֶל אָבִ֔י וְאַֽהַרְגָ֖ה אֶת־ יַעֲקֹ֥ב אָחִֽי׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7852]]"
+- "[[H6215G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1293]]"
+- "[[H0834A]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H7126G]]"
+- "[[H3117G]]"
+- "[[H0060]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2026]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:41**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
 <small><sub>**BSB:**</sub></small>
 Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7852\|יִּשְׂטֹ֤ם]] [[H6215G\|עֵשָׂו֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֔ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֨]][[H1293\|בְּרָכָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1288\|בֵּרֲכ֖]][[H9033\|וֹ]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H6215G\|עֵשָׂ֜ו]] [[H9003\|בְּ]][[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H7126G\|יִקְרְבוּ֙]] [[H3117G\|יְמֵי֙]] [[H0060\|אֵ֣בֶל]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2026\|אַֽהַרְגָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3290\|יַעֲקֹ֥ב]] [[H0251G\|אָחִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.40|<< Genesis 27:40]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.42|Genesis 27:42 >>]]</td></tr></table>
 

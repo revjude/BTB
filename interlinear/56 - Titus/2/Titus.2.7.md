@@ -1,10 +1,57 @@
+---
+title: Titus 2:7
+type: Verse
+kjv: "In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,"
+bsb: "In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity,"
+greek: "περὶ πάντα σεαυτὸν παρεχόμενος τύπον καλῶν ἔργων, ἐν τῇ διδασκαλίᾳ ἀδιαφθορίαν ἀφθορίαν, σεμνότητα,"
+pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G3930]]"
+- "[[G5179]]"
+- "[[G2570G]]"
+- "[[G2041]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1319]]"
+- "[[G0090]]"
+- "[[G0861]]"
+- "[[G4587]]"
+texts:
+- NKO
+- K
+---
+
 **Titus 2:7**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In all things shewing thyself a pattern of good works: in doctrine [shewing] uncorruptness, gravity, sincerity,
 <small><sub>**BSB:**</sub></small>
 In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity,
-<small><sub>**Literal:**</sub></small>
-In all things yourself be holding forth [as] a pattern of good works, in the teaching unspoilable incorruptable, dignity<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.6|<< Titus 2:6]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.8|Titus 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G3956\|πάντα]]  [[G4771\|σεαυτὸν]]  [[G3930\|παρεχόμενος]]  [[G5179\|τύπον]]  [[G2570G\|καλῶν]]  [[G2041\|ἔργων,]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1319\|διδασκαλίᾳ]]  [[G0090\|ἀδιαφθορίαν]]  [[G0861\|ἀφθορίαν,]]  [[G4587\|σεμνότητα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SINCERITY|SINCERITY]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.6|<< Titus 2:6]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.8|Titus 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

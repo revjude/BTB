@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Eli
+type: Pericope
 pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 4
 book/chapter: "[[1Sam.4|1 Samuel 4]]"
-genre:
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.4.12]]"
 - "[[1Sam.4.13]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.4.22]]"
 ---
 
-[[1Sam.4|1 Samuel 4:12 - 1 Samuel 4:22]]
+<small>[[1Sam.4|1 Samuel 4:12-22]]</small>
 *The Death of Eli*
 
 [[1Sam.4.12|12]] And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.

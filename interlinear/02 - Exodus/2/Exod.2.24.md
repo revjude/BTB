@@ -1,8 +1,64 @@
+---
+title: Exodus 2:24
+type: Verse
+kjv: "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob."
+bsb: "So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob."
+hebrew: "וַיִּשְׁמַ֥ע אֱלֹהִ֖ים אֶת־ נַאֲקָתָ֑ם וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־ בְּרִית֔וֹ אֶת־ אַבְרָהָ֖ם אֶת־ יִצְחָ֥ק וְאֶֽת־ יַעֲקֹֽב׃"
+pericope: "[[Exod.2.23 God Hears the Cry of the Israelites|God Hears the Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5009]]"
+- "[[H9028]]"
+- "[[H2142]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:24**<big><big>[[Exod.2.23 God Hears the Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 <small><sub>**BSB:**</sub></small>
 So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H0430G\|אֱלֹהִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5009\|נַאֲקָתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H2142\|יִּזְכֹּ֤ר]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִית֔]][[H9023\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָ֖ם]] [[H0854\|אֶת]][[H9014\|־]] [[H3327\|יִצְחָ֥ק]] [[H9002\|וְ]][[H0854\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.23|<< Exodus 2:23]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.25|Exodus 2:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

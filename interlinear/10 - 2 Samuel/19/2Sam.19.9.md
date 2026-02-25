@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 19:9
+type: Verse
+kjv: "And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom."
+bsb: "And all the people throughout the tribes of Israel were arguing, “The king rescued us from the hand of our enemies and delivered us from the hand of the Philistines, but now he has fled the land because of Absalom."
+hebrew: "וַיְהִ֤י כָל־ הָעָם֙ נָד֔וֹן בְּכָל־ שִׁבְטֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הַמֶּ֜לֶךְ הִצִּילָ֣נוּ׀ מִכַּ֣ף אֹיְבֵ֗ינוּ וְה֤וּא מִלְּטָ֙נוּ֙ מִכַּ֣ף פְּלִשְׁתִּ֔ים וְעַתָּ֛ה בָּרַ֥ח מִן־ הָאָ֖רֶץ מֵעַ֥ל אַבְשָׁלֽוֹם׃"
+pericope: "[[2Sam.19.8 David Restored as King|David Restored as King]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1777]]"
+- "[[H9003]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H3709G]]"
+- "[[H0341]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4422]]"
+- "[[H6430G]]"
+- "[[H6258]]"
+- "[[H1272]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H5921A]]"
+- "[[H0053]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:9**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom.
 <small><sub>**BSB:**</sub></small>
 And all the people throughout the tribes of Israel were arguing, “The king rescued us from the hand of our enemies and delivered us from the hand of the Philistines, but now he has fled the land because of Absalom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H1777\|נָד֔וֹן]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H5337\|הִצִּילָ֣]][[H9035\|נוּ]][[H9015\|׀]] [[H9006\|מִ]][[H3709G\|כַּ֣ף]] [[H0341\|אֹיְבֵ֗י]][[H9025\|נוּ]] [[H9002\|וְ]][[H1931\|ה֤וּא]] [[H4422\|מִלְּטָ֙]][[H9035\|נוּ֙]] [[H9006\|מִ]][[H3709G\|כַּ֣ף]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H1272\|בָּרַ֥ח]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0053\|אַבְשָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.8|<< 2 Samuel 19:8]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.10|2 Samuel 19:10 >>]]</td></tr></table>
 

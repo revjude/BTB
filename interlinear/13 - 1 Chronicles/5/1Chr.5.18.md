@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 5:18
+type: Verse
+kjv: "The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, were four and forty thousand seven hundred and threescore, that went out to the war."
+bsb: "The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors—valiant men who carried the shield and sword, drew the bow, and were trained for battle."
+hebrew: "בְּנֵֽי־ רְאוּבֵ֨ן וְגָדִ֜י וַחֲצִ֥י שֵֽׁבֶט־ מְנַשֶּׁה֮ מִן־ בְּנֵי־ חַיִל֒ אֲ֠נָשִׁים נֹשְׂאֵ֨י מָגֵ֤ן וְחֶ֙רֶב֙ וְדֹ֣רְכֵי קֶ֔שֶׁת וּלְמוּדֵ֖י מִלְחָמָ֑ה אַרְבָּעִ֨ים וְאַרְבָּעָ֥ה אֶ֛לֶף וּשְׁבַע־ מֵא֥וֹת וְשִׁשִּׁ֖ים יֹצְאֵ֥י צָבָֽא׃"
+pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic GILEAD|GILEAD]]"
+strongs:
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H7626G]]"
+- "[[H4519G]]"
+- "[[H4480A]]"
+- "[[H2428G]]"
+- "[[H0582]]"
+- "[[H5375H]]"
+- "[[H4043]]"
+- "[[H2719]]"
+- "[[H1869]]"
+- "[[H7198]]"
+- "[[H3925G]]"
+- "[[H4421]]"
+- "[[H0705]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H8346]]"
+- "[[H3318N]]"
+- "[[H6635H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:18**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, [were] four and forty thousand seven hundred and threescore, that went out to the war.
 <small><sub>**BSB:**</sub></small>
 The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors—valiant men who carried the shield and sword, drew the bow, and were trained for battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H7205\|רְאוּבֵ֨ן]] [[H9002\|וְ]][[H1425\|גָדִ֜י]] [[H9002\|וַ]][[H2677\|חֲצִ֥י]] [[H7626G\|שֵֽׁבֶט]][[H9014\|־]] [[H4519G\|מְנַשֶּׁה֮]] [[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2428G\|חַיִל֒]] [[H0582\|אֲ֠נָשִׁים]] [[H5375H\|נֹשְׂאֵ֨י]] [[H4043\|מָגֵ֤ן]] [[H9002\|וְ]][[H2719\|חֶ֙רֶב֙]] [[H9002\|וְ]][[H1869\|דֹ֣רְכֵי]] [[H7198\|קֶ֔שֶׁת]] [[H9002\|וּ]][[H3925G\|לְמוּדֵ֖י]] [[H4421\|מִלְחָמָ֑ה]] [[H0705\|אַרְבָּעִ֨ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֥ה]] [[H0505G\|אֶ֛לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַע]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֖ים]] [[H3318N\|יֹצְאֵ֥י]] [[H6635H\|צָבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic GILEAD|GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.17|<< 1 Chronicles 5:17]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.19|1 Chronicles 5:19 >>]]</td></tr></table>
 

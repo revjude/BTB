@@ -1,10 +1,67 @@
+---
+title: 1 Peter 1:22
+type: Verse
+kjv: "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:"
+bsb: "Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart."
+greek: "Τὰς ψυχὰς ὑμῶν ἡγνικότες ἐν τῇ ὑπακοῇ τῆς ἀληθείας διὰ πνεύματος εἰς φιλαδελφίαν ἀνυπόκριτον ἐκ καθαρᾶς καρδίας ἀλλήλους ἀγαπήσατε ἐκτενῶς·"
+pericope: "[[1Pet.1.22 The Enduring Word|The Enduring Word]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G4771]]"
+- "[[G0048]]"
+- "[[G1722]]"
+- "[[G5218]]"
+- "[[G0225]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G1519]]"
+- "[[G5360]]"
+- "[[G0505]]"
+- "[[G1537]]"
+- "[[G2513]]"
+- "[[G2588]]"
+- "[[G0240]]"
+- "[[G0025]]"
+- "[[G1619]]"
+texts:
+- NKO
+- K
+---
+
 **1 Peter 1:22**<big><big>[[1Pet.1.22 The Enduring Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, [see that ye] love one another with a pure heart fervently:
 <small><sub>**BSB:**</sub></small>
 Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart.
-<small><sub>**Literal:**</sub></small>
-The souls of you having purified by <the> obedience to the truth through spirit unto brotherly love sincere out of purity of heart one another do love fervently;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.21|<< 1 Peter 1:21]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.23|1 Peter 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὰς]]  [[G5590G\|ψυχὰς]]  [[G4771\|ὑμῶν]]  [[G0048\|ἡγνικότες]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5218\|ὑπακοῇ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G1223\|διὰ]]  [[G4151G\|πνεύματος]]  [[G1519\|εἰς]]  [[G5360\|φιλαδελφίαν]]  [[G0505\|ἀνυπόκριτον]]  [[G1537\|ἐκ]]  [[G2513\|καθαρᾶς]]  [[G2588\|καρδίας]]  [[G0240\|ἀλλήλους]]  [[G0025\|ἀγαπήσατε]]  [[G1619\|ἐκτενῶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HEART|HEART]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LOVE|LOVE]] • [[topic PURITY|PURITY]] • [[topic REGENERATION|REGENERATION]] • [[topic SINCERITY|SINCERITY]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.21|<< 1 Peter 1:21]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.23|1 Peter 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

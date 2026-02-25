@@ -1,8 +1,65 @@
+---
+title: Ecclesiastes 3:17
+type: Verse
+kjv: "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work."
+bsb: "I said in my heart, “God will judge the righteous and the wicked, since there is a time for every activity and every deed.”"
+hebrew: "אָמַ֤רְתִּֽי אֲנִי֙ בְּלִבִּ֔י אֶת־ הַצַּדִּיק֙ וְאֶת־ הָ֣רָשָׁ֔ע יִשְׁפֹּ֖ט הָאֱלֹהִ֑ים כִּי־ עֵ֣ת לְכָל־ חֵ֔פֶץ וְעַ֥ל כָּל־ הַֽמַּעֲשֶׂ֖ה שָֽׁם׃"
+pericope: "[[Eccl.3.16 From Dust to Dust|From Dust to Dust]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H8199]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H6256]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H2656]]"
+- "[[H5921A]]"
+- "[[H4639K]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:17**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said in mine heart, God shall judge the righteous and the wicked: for [there is] a time there for every purpose and for every work.
 <small><sub>**BSB:**</sub></small>
 I said in my heart, “God will judge the righteous and the wicked, since there is a time for every activity and every deed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֤רְתִּֽי]] [[H0589\|אֲנִי֙]] [[H9003\|בְּ]][[H3820A\|לִבִּ֔]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6662\|צַּדִּיק֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H7563\|רָשָׁ֔ע]] [[H8199\|יִשְׁפֹּ֖ט]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H6256\|עֵ֣ת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֵ֔פֶץ]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H4639K\|מַּעֲשֶׂ֖ה]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.16|<< Ecclesiastes 3:16]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.18|Ecclesiastes 3:18 >>]]</td></tr></table>
 

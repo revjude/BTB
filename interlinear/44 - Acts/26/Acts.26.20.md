@@ -1,10 +1,70 @@
+---
+title: Acts 26:20
+type: Verse
+kjv: "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance."
+bsb: "First to those in Damascus and Jerusalem, then to everyone in the region of Judea, and then to the Gentiles, I declared that they should repent and turn to God, performing deeds worthy of their repentance."
+greek: "ἀλλὰ τοῖς ἐν Δαμασκῷ πρῶτόν τε καὶ Ἱεροσολύμοις, εἰς πᾶσάν τε τὴν χώραν τῆς Ἰουδαίας, καὶ τοῖς ἔθνεσιν ἀπήγγελλον μετανοεῖν καὶ ἐπιστρέφειν ἐπὶ τὸν θεὸν ἄξια τῆς μετανοίας ἔργα πράσσοντας."
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1154]]"
+- "[[G4413G]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2414]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G5561]]"
+- "[[G2449]]"
+- "[[G1484]]"
+- "[[G0518]]"
+- "[[G3340]]"
+- "[[G1994]]"
+- "[[G1909]]"
+- "[[G2316]]"
+- "[[G0514]]"
+- "[[G3341]]"
+- "[[G2041]]"
+- "[[G4238]]"
+texts:
+- NKO
+- no
+- k
+- N(k)O
+---
+
 **Acts 26:20**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and [then] to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
 <small><sub>**BSB:**</sub></small>
 First to those in Damascus and Jerusalem, then to everyone in the region of Judea, and then to the Gentiles, I declared that they should repent and turn to God, performing deeds worthy of their repentance.
-<small><sub>**Literal:**</sub></small>
-but to those in Damascus first both also in Jerusalem into all both the region <the> of Judea, and to the Gentiles I was declaring to repent and to turn to <the> God worthy <the> of repentance works doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.19|<< Acts 26:19]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.21|Acts 26:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G1154\|Δαμασκῷ]]  [[G4413G\|πρῶτόν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2414\|Ἱεροσολύμοις,]]  [[G1519\|εἰς]]  [[G3956\|πᾶσάν]]  [[G5037\|τε]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας,]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G0518\|ἀπήγγελλον]]  [[G3340\|μετανοεῖν]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέφειν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G0514\|ἄξια]]  [[G3588\|τῆς]]  [[G3341\|μετανοίας]]  [[G2041\|ἔργα]]  [[G4238\|πράσσοντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DEFENSE|DEFENSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.19|<< Acts 26:19]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.21|Acts 26:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

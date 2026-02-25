@@ -1,10 +1,57 @@
+---
+title: Matthew 27:32
+type: Verse
+kjv: "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
+bsb: "Along the way they found a man from Cyrene, named Simon, and they forced him to carry the cross of Jesus."
+greek: "Ἐξερχόμενοι δὲ εὗρον ἄνθρωπον Κυρηναῖον ὀνόματι Σίμωνα· τοῦτον ἠγγάρευσαν ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ.¶"
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G2147]]"
+- "[[G0444]]"
+- "[[G2956]]"
+- "[[G3686]]"
+- "[[G4613J]]"
+- "[[G3778]]"
+- "[[G0029]]"
+- "[[G2443]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 27:32**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
 <small><sub>**BSB:**</sub></small>
 Along the way they found a man from Cyrene, named Simon, and they forced him to carry the cross of Jesus.
-<small><sub>**Literal:**</sub></small>
-Going forth now they found a man of Cyrene named Simon; Him they compelled that he may carry the cross of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.31|<< Matthew 27:31]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.33|Matthew 27:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|Ἐξερχόμενοι]]  [[G1161\|δὲ]]  [[G2147\|εὗρον]]  [[G0444\|ἄνθρωπον]]  [[G2956\|Κυρηναῖον]]  [[G3686\|ὀνόματι]]  [[G4613J\|Σίμωνα·]]  [[G3778\|τοῦτον]]  [[G0029\|ἠγγάρευσαν]]  [[G2443\|ἵνα]]  [[G0142\|ἄρῃ]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIMON|SIMON]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.31|<< Matthew 27:31]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.33|Matthew 27:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

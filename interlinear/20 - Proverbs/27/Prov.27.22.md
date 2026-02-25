@@ -1,8 +1,64 @@
+---
+title: Proverbs 27:22
+type: Verse
+kjv: "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him."
+bsb: "Though you grind a fool like grain with mortar and a pestle, yet his folly will not depart from him."
+hebrew: "אִ֥ם תִּכְתּֽוֹשׁ־ אֶת־ הָאֱוִ֨יל׀ בַּֽמַּכְתֵּ֡שׁ בְּת֣וֹךְ הָ֭רִיפוֹת בַּֽעֱלִ֑י לֹא־ תָס֥וּר מֵ֝עָלָ֗יו אִוַּלְתּֽוֹ׃ פ"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRAY|BRAY]]"
+- "[[topic MORTAR|MORTAR]]"
+- "[[topic WHEAT|WHEAT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H3806]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0191]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4388]]"
+- "[[H8432]]"
+- "[[H7383]]"
+- "[[H5940]]"
+- "[[H3808]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0200]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 27:22**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thou shouldest bray a fool in a mortar among wheat with a pestle, [yet] will not his foolishness depart from him.
 <small><sub>**BSB:**</sub></small>
 Though you grind a fool like grain with mortar and a pestle, yet his folly will not depart from him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִ֥ם]] [[H3806\|תִּכְתּֽוֹשׁ]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0191\|אֱוִ֨יל]][[H9015\|׀]] [[H9003\|בַּֽ]][[H4388\|מַּכְתֵּ֡שׁ]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ֭]][[H7383\|רִיפוֹת]] [[H9003\|בַּֽ]][[H5940\|עֱלִ֑י]] [[H3808\|לֹא]][[H9014\|־]] [[H5493H\|תָס֥וּר]] [[H9006\|מֵ֝]][[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H0200\|אִוַּלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRAY|BRAY]] • [[topic MORTAR|MORTAR]] • [[topic WHEAT|WHEAT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.21|<< Proverbs 27:21]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.23|Proverbs 27:23 >>]]</td></tr></table>
 
@@ -19,7 +75,7 @@ Though you grind a fool like grain with mortar and a pestle, yet his folly will 
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will depart  |**<big>&#8207;[[H5493H\|תָס֥וּר]]&#8207; </big>**| ta.Sur<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> him  |**<big>&#8207;[[H9006\|מֵ֝]]&#8207;&#8207;[[H5921A\|עָלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foolishness his  |**<big>&#8207;[[H0200\|אִוַּלְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'i.val.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foolishness his  |**<big>&#8207;[[H0200\|אִוַּלְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'i.val.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.21|<< Proverbs 27:21]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.23|Proverbs 27:23 >>]]</td></tr></table>
 
 

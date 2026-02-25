@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 27:15
+type: Verse
+kjv: "Cursed be the man that maketh any graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth it in a secret place. And all the people shall answer and say, Amen."
+bsb: "‘Cursed is the man who makes a carved idol or molten image—an abomination to the LORD, the work of the hands of a craftsman—and sets it up in secret.’ And let all the people say, ‘Amen!’"
+hebrew: "אָר֣וּר הָאִ֡ישׁ אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּמַסֵּכָ֜ה תּוֹעֲבַ֣ת יְהוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י חָרָ֖שׁ וְשָׂ֣ם בַּסָּ֑תֶר וְעָנ֧וּ כָל־ הָעָ֛ם וְאָמְר֖וּ אָמֵֽן׃ ס"
+pericope: "[[Deut.27.11 Curses Pronounced from Ebal|Curses Pronounced from Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic AMEN|AMEN]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RESPONSIVE RELIGIOUS SERVICE|RESPONSIVE RELIGIOUS SERVICE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0779]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H6459]]"
+- "[[H9002]]"
+- "[[H4541A]]"
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H2796]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H6030B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H0543]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:15**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] the man that maketh [any] graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth [it] in [a] secret [place]. And all the people shall answer and say, Amen.
 <small><sub>**BSB:**</sub></small>
 ‘Cursed is the man who makes a carved idol or molten image—an abomination to the LORD, the work of the hands of a craftsman—and sets it up in secret.’ And let all the people say, ‘Amen!’
+<small><sub>**Hebrew:**</sub></small>
+[[H0779\|אָר֣וּר]] [[H9009\|הָ]][[H0376G\|אִ֡ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|יַעֲשֶׂה֩]] [[H6459\|פֶ֨סֶל]] [[H9002\|וּ]][[H4541A\|מַסֵּכָ֜ה]] [[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H4639G\|מַעֲשֵׂ֛ה]] [[H3027G\|יְדֵ֥י]] [[H2796\|חָרָ֖שׁ]] [[H9001\|וְ]][[H7760A\|שָׂ֣ם]] [[H9003\|בַּ]][[H5643A\|סָּ֑תֶר]] [[H9001\|וְ]][[H6030B\|עָנ֧וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9001\|וְ]][[H0559\|אָמְר֖וּ]] [[H0543\|אָמֵֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic AMEN|AMEN]] • [[topic CURSE|CURSE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic RESPONSIVE RELIGIOUS SERVICE|RESPONSIVE RELIGIOUS SERVICE]] • [[topic REWARD|REWARD]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
 
@@ -25,7 +96,7 @@ Cursed [be] the man that maketh [any] graven or molten image, an abomination unt
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְר֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| amen  |**<big>&#8207;[[H0543\|אָמֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| amen  |**<big>&#8207;[[H0543\|אָמֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
 
 

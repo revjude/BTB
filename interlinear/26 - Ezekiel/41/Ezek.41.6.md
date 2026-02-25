@@ -1,8 +1,59 @@
+---
+title: Ezekiel 41:6
+type: Verse
+kjv: "And the side chambers were three, one over another, and thirty in order; and they entered into the wall which was of the house for the side chambers round about, that they might have hold, but they had not hold in the wall of the house."
+bsb: "The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself."
+hebrew: "וְהַצְּלָעוֹת֩ צֵלָ֨ע אֶל־ צֵלָ֜ע שָׁל֧וֹשׁ וּשְׁלֹשִׁ֣ים פְּעָמִ֗ים וּ֠בָאוֹת בַּקִּ֨יר אֲשֶׁר־ לַבַּ֧יִת לַצְּלָע֛וֹת סָבִ֥יב׀ סָבִ֖יב לִהְי֣וֹת אֲחוּזִ֑ים וְלֹֽא־ יִהְי֥וּ אֲחוּזִ֖ים בְּקִ֥יר הַבָּֽיִת׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6763]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H7970]]"
+- "[[H6471]]"
+- "[[H0935I]]"
+- "[[H9003]]"
+- "[[H7023]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H0270]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:6**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the side chambers [were] three, one over another, and thirty in order; and they entered into the wall which [was] of the house for the side chambers round about, that they might have hold, but they had not hold in the wall of the house.
 <small><sub>**BSB:**</sub></small>
 The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6763\|צְּלָעוֹת֩]] [[H6763\|צֵלָ֨ע]] [[H0413\|אֶל]][[H9014\|־]] [[H6763\|צֵלָ֜ע]] [[H7969\|שָׁל֧וֹשׁ]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֣ים]] [[H6471\|פְּעָמִ֗ים]] [[H9002\|וּ֠]][[H0935I\|בָאוֹת]] [[H9003\|בַּ]][[H7023\|קִּ֨יר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לַ]][[H1004B\|בַּ֧יִת]] [[H9005\|לַ]][[H6763\|צְּלָע֛וֹת]] [[H5439G\|סָבִ֥יב]][[H9015\|׀]] [[H5439G\|סָבִ֖יב]] [[H9005\|לִ]][[H1961\|הְי֣וֹת]] [[H0270\|אֲחוּזִ֑ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְי֥וּ]] [[H0270\|אֲחוּזִ֖ים]] [[H9003\|בְּ]][[H7023\|קִ֥יר]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.5|<< Ezekiel 41:5]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.7|Ezekiel 41:7 >>]]</td></tr></table>
 

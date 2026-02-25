@@ -1,10 +1,58 @@
+---
+title: Philippians 3:10
+type: Verse
+kjv: "That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;"
+bsb: "I want to know Christ and the power of His resurrection and the fellowship of His sufferings, being conformed to Him in His death,"
+greek: "τοῦ γνῶναι αὐτὸν καὶ τὴν δύναμιν τῆς ἀναστάσεως αὐτοῦ καὶ τὴν κοινωνίαν τῶν παθημάτων αὐτοῦ συμμορφιζόμενος τῷ θανάτῳ αὐτοῦ,"
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1097]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1411]]"
+- "[[G0386]]"
+- "[[G2842]]"
+- "[[G3804]]"
+- "[[G4833]]"
+- "[[G2288]]"
+texts:
+- NKO
+---
+
 **Philippians 3:10**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
 <small><sub>**BSB:**</sub></small>
 I want to know Christ and the power of His resurrection and the fellowship of His sufferings, being conformed to Him in His death,
-<small><sub>**Literal:**</sub></small>
-<the> to know Him and the power of the resurrection of Him and the fellowship of the sufferings of Him being conformed to the death of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.9|<< Philippians 3:9]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.11|Philippians 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G1097\|γνῶναι]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν]]  [[G3588\|τῆς]]  [[G0386\|ἀναστάσεως]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2842\|κοινωνίαν]]  [[G3588\|τῶν]]  [[G3804\|παθημάτων]]  [[G0846\|αὐτοῦ]]  [[G4833\|συμμορφιζόμενος]]  [[G3588\|τῷ]]  [[G2288\|θανάτῳ]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.9|<< Philippians 3:9]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.11|Philippians 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

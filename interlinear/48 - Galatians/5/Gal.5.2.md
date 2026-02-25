@@ -1,10 +1,51 @@
+---
+title: Galatians 5:2
+type: Verse
+kjv: "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
+bsb: "Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all."
+greek: "Ἴδε ἐγὼ Παῦλος λέγω ὑμῖν ὅτι ἐὰν περιτέμνησθε, Χριστὸς ὑμᾶς οὐδὲν ὠφελήσει·"
+pericope: "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2396]]"
+- "[[G1473]]"
+- "[[G3972G]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G4059]]"
+- "[[G5547]]"
+- "[[G3762]]"
+- "[[G5623]]"
+texts:
+- NKO
+---
+
 **Galatians 5:2**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
 <small><sub>**BSB:**</sub></small>
 Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.
-<small><sub>**Literal:**</sub></small>
-Behold I myself Paul say to you that if you shall become circumcised, Christ you no [thing] will profit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.1|<< Galatians 5:1]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.3|Galatians 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2396\|Ἴδε]]  [[G1473\|ἐγὼ]]  [[G3972G\|Παῦλος]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G4059\|περιτέμνησθε,]]  [[G5547\|Χριστὸς]]  [[G4771\|ὑμᾶς]]  [[G3762\|οὐδὲν]]  [[G5623\|ὠφελήσει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.1|<< Galatians 5:1]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.3|Galatians 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redemption of Bondmen
+type: Pericope
 pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 8
 verses:
 - "[[Lev.25.39]]"
 - "[[Lev.25.40]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Lev.25.46]]"
 ---
 
-[[Lev.25|Leviticus 25:39 - Leviticus 25:46]]
+<small>[[Lev.25|Leviticus 25:39-46]]</small>
 *Redemption of Bondmen*
 
 [[Lev.25.39|39]] And if thy brother \[that dwelleth\] by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:

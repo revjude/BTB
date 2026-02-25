@@ -1,8 +1,65 @@
+---
+title: Jeremiah 34:3
+type: Verse
+kjv: "And thou shalt not escape out of his hand, but shalt surely be taken, and delivered into his hand; and thine eyes shall behold the eyes of the king of Babylon, and he shall speak with thee mouth to mouth, and thou shalt go to Babylon."
+bsb: "And you yourself will not escape his grasp, but will surely be captured and delivered into his hand. You will see the king of Babylon eye to eye and speak with him face to face; and you will go to Babylon."
+hebrew: "וְאַתָּ֗ה לֹ֚א תִמָּלֵט֙ מִיָּד֔וֹ כִּ֚י תָּפֹ֣שׂ תִּתָּפֵ֔שׂ וּבְיָד֖וֹ תִּנָּתֵ֑ן וְֽ֠עֵינֶיךָ אֶת־ עֵינֵ֨י מֶֽלֶךְ־ בָּבֶ֜ל תִּרְאֶ֗ינָה וּפִ֛יהוּ אֶת־ פִּ֥יךָ יְדַבֵּ֖ר וּבָבֶ֥ל תָּבֽוֹא׃"
+pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H8610]]"
+- "[[H9003]]"
+- "[[H5414G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H7200G]]"
+- "[[H6310G]]"
+- "[[H0854]]"
+- "[[H1696G]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:3**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not escape out of his hand, but shalt surely be taken, and delivered into his hand; and thine eyes shall behold the eyes of the king of Babylon, and he shall speak with thee mouth to mouth, and thou shalt go to Babylon.
 <small><sub>**BSB:**</sub></small>
 And you yourself will not escape his grasp, but will surely be captured and delivered into his hand. You will see the king of Babylon eye to eye and speak with him face to face; and you will go to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H3808\|לֹ֚א]] [[H4422\|תִמָּלֵט֙]] [[H9006\|מִ]][[H3027H\|יָּד֔]][[H9023\|וֹ]] [[H3588A\|כִּ֚י]] [[H8610\|תָּפֹ֣שׂ]] [[H8610\|תִּתָּפֵ֔שׂ]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָד֖]][[H9023\|וֹ]] [[H5414G\|תִּנָּתֵ֑ן]] [[H9002\|וְֽ֠]][[H5869A\|עֵינֶי]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵ֨י]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H7200G\|תִּרְאֶ֗ינָה]] [[H9002\|וּ]][[H6310G\|פִ֛י]][[H9023\|הוּ]] [[H0854\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֥י]][[H9021\|ךָ]] [[H1696G\|יְדַבֵּ֖ר]] [[H9002\|וּ]][[H0894\|בָבֶ֥ל]] [[H0935G\|תָּבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.2|<< Jeremiah 34:2]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.4|Jeremiah 34:4 >>]]</td></tr></table>
 

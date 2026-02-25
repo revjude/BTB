@@ -1,8 +1,51 @@
+---
+title: Proverbs 27:18
+type: Verse
+kjv: "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+bsb: "Whoever tends a fig tree will eat its fruit, and he who looks after his master will be honored."
+hebrew: "נֹצֵ֣ר תְּ֭אֵנָה יֹאכַ֣ל פִּרְיָ֑הּ וְשֹׁמֵ֖ר אֲדֹנָ֣יו יְכֻבָּֽד׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H5341]]"
+- "[[H8384]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H8104H]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:18**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.
 <small><sub>**BSB:**</sub></small>
 Whoever tends a fig tree will eat its fruit, and he who looks after his master will be honored.
+<small><sub>**Hebrew:**</sub></small>
+[[H5341\|נֹצֵ֣ר]] [[H8384\|תְּ֭אֵנָה]] [[H0398\|יֹאכַ֣ל]] [[H6529\|פִּרְיָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H8104H\|שֹׁמֵ֖ר]] [[H0113\|אֲדֹנָ֣י]][[H9023\|ו]] [[H3513G\|יְכֻבָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.17|<< Proverbs 27:17]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.19|Proverbs 27:19 >>]]</td></tr></table>
 

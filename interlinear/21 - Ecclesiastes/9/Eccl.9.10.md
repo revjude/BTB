@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 9:10
+type: Verse
+kjv: "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest."
+bsb: "Whatever you find to do with your hands, do it with all your might, for in Sheol, where you are going, there is no work or planning or knowledge or wisdom."
+hebrew: "כֹּ֠ל אֲשֶׁ֨ר תִּמְצָ֧א יָֽדְךָ֛ לַעֲשׂ֥וֹת בְּכֹחֲךָ֖ עֲשֵׂ֑ה כִּי֩ אֵ֨ין מַעֲשֶׂ֤ה וְחֶשְׁבּוֹן֙ וְדַ֣עַת וְחָכְמָ֔ה בִּשְׁא֕וֹל אֲשֶׁ֥ר אַתָּ֖ה הֹלֵ֥ךְ שָֽׁמָּה׃ ס"
+pericope: "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic HELL|HELL]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4639G]]"
+- "[[H9002]]"
+- "[[H2808]]"
+- "[[H1847]]"
+- "[[H2451]]"
+- "[[H7585]]"
+- "[[H0859A]]"
+- "[[H1980G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:10**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever thy hand findeth to do, do [it] with thy might; for [there is] no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
 <small><sub>**BSB:**</sub></small>
 Whatever you find to do with your hands, do it with all your might, for in Sheol, where you are going, there is no work or planning or knowledge or wisdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֠ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|תִּמְצָ֧א]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֛]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9003\|בְּ]][[H3581B\|כֹחֲ]][[H9021\|ךָ֖]] [[H6213A\|עֲשֵׂ֑ה]] [[H3588A\|כִּי֩]] [[H0369\|אֵ֨ין]] [[H4639G\|מַעֲשֶׂ֤ה]] [[H9002\|וְ]][[H2808\|חֶשְׁבּוֹן֙]] [[H9002\|וְ]][[H1847\|דַ֣עַת]] [[H9002\|וְ]][[H2451\|חָכְמָ֔ה]] [[H9003\|בִּ]][[H7585\|שְׁא֕וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859A\|אַתָּ֖ה]] [[H1980G\|הֹלֵ֥ךְ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DILIGENCE|DILIGENCE]] • [[topic HELL|HELL]] • [[topic INDUSTRY|INDUSTRY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.9|<< Ecclesiastes 9:9]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.11|Ecclesiastes 9:11 >>]]</td></tr></table>
 
@@ -25,7 +84,7 @@ Whatever you find to do with your hands, do it with all your might, for in Sheol
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] going  |**<big>&#8207;[[H1980G\|הֹלֵ֥ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there towards  |**<big>&#8207;[[H8033G\|שָֽׁמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there towards  |**<big>&#8207;[[H8033G\|שָֽׁמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.9|<< Ecclesiastes 9:9]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.11|Ecclesiastes 9:11 >>]]</td></tr></table>
 
 

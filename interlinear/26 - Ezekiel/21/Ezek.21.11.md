@@ -1,8 +1,60 @@
+---
+title: Ezekiel 21:11
+type: Verse
+kjv: "And he hath given it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer."
+bsb: "The sword is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer."
+hebrew: "וַיִּתֵּ֥ן אֹתָ֛הּ לְמָרְטָ֖ה לִתְפֹּ֣שׂ בַּכָּ֑ף הִֽיא־ הוּחַ֤דָּה חֶ֙רֶב֙ וְהִ֣יא מֹרָ֔טָּה לָתֵ֥ת אוֹתָ֖הּ בְּיַד־ הוֹרֵֽג׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H4803]]"
+- "[[H8610]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H2300A]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:11**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath given it to be furbished, that it may be handled: this sword is sharpened, and it is furbished, to give it into the hand of the slayer.
 <small><sub>**BSB:**</sub></small>
 The sword is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֥ן]] [[H0853\|אֹתָ֛]][[H9034\|הּ]] [[H9005\|לְ]][[H4803\|מָרְטָ֖ה]] [[H9005\|לִ]][[H8610\|תְפֹּ֣שׂ]] [[H9003\|בַּ]][[H3709G\|כָּ֑ף]] [[H1931\|הִֽיא]][[H9014\|־]] [[H2300A\|הוּחַ֤דָּה]] [[H2719\|חֶ֙רֶב֙]] [[H9002\|וְ]][[H1931\|הִ֣יא]] [[H4803\|מֹרָ֔טָּה]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H2026\|הוֹרֵֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.10|<< Ezekiel 21:10]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.12|Ezekiel 21:12 >>]]</td></tr></table>
 

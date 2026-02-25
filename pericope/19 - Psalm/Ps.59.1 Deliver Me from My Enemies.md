@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Deliver Me from My Enemies
+type: Pericope
 pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 59
 book/chapter: "[[Ps.59|Psalm 59]]"
-genre:
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.59.0]]"
 - "[[Ps.59.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.59.17]]"
 ---
 
-[[Ps.59|Psalm 59:1 - Psalm 59:17]]
+<small>[[Ps.59|Psalm 59:1-17]]</small>
 *Deliver Me from My Enemies*
 
 [[Ps.59.0|0]] To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him.

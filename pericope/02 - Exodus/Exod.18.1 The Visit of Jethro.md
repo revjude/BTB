@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Visit of Jethro
+type: Pericope
 pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 18
 book/chapter: "[[Exod.18|Exodus 18]]"
-genre:
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.18.1]]"
 - "[[Exod.18.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.18.12]]"
 ---
 
-[[Exod.18|Exodus 18:1 - Exodus 18:12]]
+<small>[[Exod.18|Exodus 18:1-12]]</small>
 *The Visit of Jethro*
 
 [[Exod.18.1|1]] When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, \[and\] that the LORD had brought Israel out of Egypt;

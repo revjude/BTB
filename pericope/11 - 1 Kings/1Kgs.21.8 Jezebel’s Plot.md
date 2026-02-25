@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jezebel’s Plot
+type: Pericope
 pericope: "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 21
 book/chapter: "[[1Kgs.21|1 Kings 21]]"
-genre:
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.21.8]]"
 - "[[1Kgs.21.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.21.16]]"
 ---
 
-[[1Kgs.21|1 Kings 21:8 - 1 Kings 21:16]]
+<small>[[1Kgs.21|1 Kings 21:8-16]]</small>
 *Jezebel’s Plot*
 
 [[1Kgs.21.8|8]] So she wrote letters in Ahab’s name, and sealed \[them\] with his seal, and sent the letters unto the elders and to the nobles that \[were\] in his city, dwelling with Naboth.

@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 1:13
+type: Verse
+kjv: "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you."
+bsb: "Choose for yourselves wise, understanding, and respected men from each of your tribes, and I will appoint them as your leaders.”"
+hebrew: "הָב֣וּ לָ֠כֶם אֲנָשִׁ֨ים חֲכָמִ֧ים וּנְבֹנִ֛ים וִידֻעִ֖ים לְשִׁבְטֵיכֶ֑ם וַאֲשִׂימֵ֖ם בְּרָאשֵׁיכֶֽם׃"
+pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0582]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H3045]]"
+- "[[H7626H]]"
+- "[[H9026]]"
+- "[[H7760L]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7218H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:13**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 <small><sub>**BSB:**</sub></small>
 Choose for yourselves wise, understanding, and respected men from each of your tribes, and I will appoint them as your leaders.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָב֣וּ]] [[H9005\|לָ֠]][[H9036\|כֶם]] [[H0582\|אֲנָשִׁ֨ים]] [[H2450\|חֲכָמִ֧ים]] [[H9002\|וּ]][[H0995\|נְבֹנִ֛ים]] [[H9002\|וִ]][[H3045\|ידֻעִ֖ים]] [[H9005\|לְ]][[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֑ם]] [[H9002\|וַ]][[H7760L\|אֲשִׂימֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H7218H\|רָאשֵׁי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic MOSES|MOSES]] • [[topic OFFICER|OFFICER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.12|<< Deuteronomy 1:12]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.14|Deuteronomy 1:14 >>]]</td></tr></table>
 

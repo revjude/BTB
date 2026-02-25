@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 15:7
+type: Verse
+kjv: "And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt."
+bsb: "Then Saul struck down the Amalekites all the way from Havilah to Shur, which is east of Egypt."
+hebrew: "וַיַּ֥ךְ שָׁא֖וּל אֶת־ עֲמָלֵ֑ק מֵֽחֲוִילָה֙ בּוֹאֲךָ֣ שׁ֔וּר אֲשֶׁ֖ר עַל־ פְּנֵ֥י מִצְרָֽיִם׃"
+pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic HAVILAH|HAVILAH]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic SHUR|SHUR]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6002G]]"
+- "[[H9006]]"
+- "[[H2341J]]"
+- "[[H0935I]]"
+- "[[H9041]]"
+- "[[H7793]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:7**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul smote the Amalekites from Havilah [until] thou comest to Shur, that [is] over against Egypt.
 <small><sub>**BSB:**</sub></small>
 Then Saul struck down the Amalekites all the way from Havilah to Shur, which is east of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H7586G\|שָׁא֖וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H6002G\|עֲמָלֵ֑ק]] [[H9006\|מֵֽ]][[H2341J\|חֲוִילָה֙]] [[H0935I\|בּוֹאֲ]][[H9041\|ךָ֣]] [[H7793\|שׁ֔וּר]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic HAVILAH|HAVILAH]] • [[topic RETALIATION|RETALIATION]] • [[topic SHUR|SHUR]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.6|<< 1 Samuel 15:6]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.8|1 Samuel 15:8 >>]]</td></tr></table>
 

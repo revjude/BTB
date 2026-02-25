@@ -1,8 +1,61 @@
+---
+title: Joshua 17:12
+type: Verse
+kjv: "Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land."
+bsb: "But the descendants of Manasseh were unable to occupy these cities, because the Canaanites were determined to stay in this land."
+hebrew: "וְלֹ֤א יָכְלוּ֙ בְּנֵ֣י מְנַשֶּׁ֔ה לְהוֹרִ֖ישׁ אֶת־ הֶֽעָרִ֣ים הָאֵ֑לֶּה וַיּ֙וֹאֶל֙ הַֽכְּנַעֲנִ֔י לָשֶׁ֖בֶת בָּאָ֥רֶץ הַזֹּֽאת׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic TAANACH|TAANACH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H1121G]]"
+- "[[H4519G]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H2974]]"
+- "[[H3669A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:12**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the children of Manasseh could not drive out [the inhabitants of] those cities; but the Canaanites would dwell in that land.
 <small><sub>**BSB:**</sub></small>
 But the descendants of Manasseh were unable to occupy these cities, because the Canaanites were determined to stay in this land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3201\|יָכְלוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H9005\|לְ]][[H3423H\|הוֹרִ֖ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H2974\|יּ֙וֹאֶל֙]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H9005\|לָ]][[H3427\|שֶׁ֖בֶת]] [[H9003\|בָּ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic TAANACH|TAANACH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.11|<< Joshua 17:11]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.13|Joshua 17:13 >>]]</td></tr></table>
 

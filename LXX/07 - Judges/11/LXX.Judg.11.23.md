@@ -1,6 +1,57 @@
+---
+title: LXX Judges 11:23
+type: Verse
+lxx: "And now the lord  God of Israel lifted away the Amorite from the face of his people Israel, and you, shall you inherit it?"
+greek: "και νυν κύριος ο θεός Ισραήλ εξήρε τον Αμορραίον εκ προσώπου λαού αυτού Ισραήλ και συ κληρονομήσεις αυτόν"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G1808]]"
+- "[[G3588]]"
+- "[[H0567]]"
+- "[[G1537]]"
+- "[[G4383]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2816]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 11:23** 
 <small><sub>**LXX:**</sub></small>
 And now \[the\] <span class="smallcaps">lord</span>  God of Israel lifted away the Amorite from \[the\] face of his people Israel, and you, shall you inherit it? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3568\|νυν]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G1808\|εξήρε]] [[G3588\|τον]] [[H0567\|Αμορραίον]] [[G1537\|εκ]] [[G4383\|προσώπου]] [[G2992\|λαού]] [[G1473\|αυτού]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G1473\|συ]] [[G2816\|κληρονομήσεις]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic AMORITES|AMORITES]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
 
@@ -23,6 +74,6 @@ And now \[the\] <span class="smallcaps">lord</span>  God of Israel lifted away t
 | you, | **<big>[[G1473\|συ]]</big>** |
 | shall you inherit | **<big>[[G2816\|κληρονομήσεις]]</big>** |
 | it? | **<big>[[G1473\|αυτόν]]</big>** |
-[[Judg.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
 
 

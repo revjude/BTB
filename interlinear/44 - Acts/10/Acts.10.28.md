@@ -1,10 +1,67 @@
+---
+title: Acts 10:28
+type: Verse
+kjv: "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean."
+bsb: "He said to them, “You know how unlawful it is for a Jew to associate with a foreigner or visit him. But God has shown me that I should not call any man impure or unclean."
+greek: "ἔφη τε πρὸς αὐτούς· ὑμεῖς ἐπίστασθε ὡς ἀθέμιτόν ἐστιν ἀνδρὶ Ἰουδαίῳ κολλᾶσθαι ἢ προσέρχεσθαι ἀλλοφύλῳ· κἀμοὶ κἀμοὶ ὁ θεὸς ἔδειξεν μηδένα κοινὸν ἢ ἀκάθαρτον λέγειν ἄνθρωπον,"
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G5346]]"
+- "[[G5037]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1987]]"
+- "[[G5613]]"
+- "[[G0111]]"
+- "[[G1510]]"
+- "[[G0435G]]"
+- "[[G2453]]"
+- "[[G2853]]"
+- "[[G2228]]"
+- "[[G4334]]"
+- "[[G0246]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1166]]"
+- "[[G3367]]"
+- "[[G2839G]]"
+- "[[G0169]]"
+- "[[G3004H]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Acts 10:28**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
 <small><sub>**BSB:**</sub></small>
 He said to them, “You know how unlawful it is for a Jew to associate with a foreigner or visit him. But God has shown me that I should not call any man impure or unclean.
-<small><sub>**Literal:**</sub></small>
-He was saying then to them; You yourselves know how unlawful it is for a man Jewish to unite himself or to come near to [someone] foreign; And to me <the> God has shown nothing common or unclean to call man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.27|<< Acts 10:27]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.29|Acts 10:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5346\|ἔφη]]  [[G5037\|τε]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G4771\|ὑμεῖς]]  [[G1987\|ἐπίστασθε]]  [[G5613\|ὡς]]  [[G0111\|ἀθέμιτόν]]  [[G1510\|ἐστιν]]  [[G0435G\|ἀνδρὶ]]  [[G2453\|Ἰουδαίῳ]]  [[G2853\|κολλᾶσθαι]]  [[G2228\|ἢ]]  [[G4334\|προσέρχεσθαι]]  [[G0246\|ἀλλοφύλῳ·]]  [[G1473\|κἀμοὶ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1166\|ἔδειξεν]]  [[G3367\|μηδένα]]  [[G2839G\|κοινὸν]]  [[G2228\|ἢ]]  [[G0169\|ἀκάθαρτον]]  [[G3004H\|λέγειν]]  [[G0444\|ἄνθρωπον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic LAW|LAW]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.27|<< Acts 10:27]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.29|Acts 10:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

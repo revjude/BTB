@@ -1,8 +1,60 @@
+---
+title: Psalm 125:2
+type: Verse
+kjv: "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever."
+bsb: "As the mountains surround Jerusalem, so the LORD surrounds His people, both now and forevermore."
+hebrew: "יְֽרוּשָׁלִַ֗ם הָרִים֮ סָבִ֪יב לָ֥הּ וַ֭יהוָה סָבִ֣יב לְעַמּ֑וֹ מֵ֝עַתָּ֗ה וְעַד־ עוֹלָֽם׃"
+pericope: "[[Ps.125.1 The LORD Surrounds His People|The LORD Surrounds His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 125
+book/chapter: "[[Ps.125|Psalm 125]]"
+chronological_order: 887
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3389]]"
+- "[[H2022G]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 125:2**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the mountains [are] round about Jerusalem, so the LORD [is] round about his people from henceforth even for ever.
 <small><sub>**BSB:**</sub></small>
 As the mountains surround Jerusalem, so the LORD surrounds His people, both now and forevermore.
+<small><sub>**Hebrew:**</sub></small>
+[[H3389\|יְֽרוּשָׁלִַ֗ם]] [[H2022G\|הָרִים֮]] [[H5439G\|סָבִ֪יב]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H9002\|וַ֭]][[H3068G\|יהוָה]] [[H5439G\|סָבִ֣יב]] [[H9005\|לְ]][[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9006\|מֵ֝]][[H6258\|עַתָּ֗ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.1|<< Psalms 125:1]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.3|Psalms 125:3 >>]]</td></tr></table>
 

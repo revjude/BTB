@@ -9,5 +9,5 @@
 
 - Jacob in demanding Esau's birthright for a mess of pottage [[Gen.25.31|Ge 25:31]]
 
-.Pharaoh in exacting of the Egyptians lands and persons, for corn  (grain) [[Gen.47.13|Ge 47:13]]-[[Gen.47.26|26]]
+.Pharaoh in exacting of the Egyptians lands and persons, for corn  (grain) [[Gen.47.13|Ge 47:13-26]]
 

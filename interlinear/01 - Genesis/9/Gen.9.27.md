@@ -1,8 +1,64 @@
+---
+title: Genesis 9:27
+type: Verse
+kjv: "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+bsb: "May God expand the territory of Japheth; may he dwell in the tents of Shem, and may Canaan be his servant.”"
+hebrew: "יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאָֽהֳלֵי־ שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃"
+pericope: "[[Gen.9.26 Shem’s Blessing and Noah’s Death|Shem’s Blessing and Noah’s Death]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic HAM|HAM]]"
+- "[[topic JAPHETH|JAPHETH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H6601A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H3315]]"
+- "[[H9002]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9014]]"
+- "[[H8035]]"
+- "[[H1961]]"
+- "[[H3667G]]"
+- "[[H5650]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:27**<big><big>[[Gen.9.26 Shem’s Blessing and Noah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
 <small><sub>**BSB:**</sub></small>
 May God expand the territory of Japheth; may he dwell in the tents of Shem, and may Canaan be his servant.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6601A\|יַ֤פְתְּ]] [[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H3315\|יֶ֔פֶת]] [[H9002\|וְ]][[H7931\|יִשְׁכֹּ֖ן]] [[H9003\|בְּ]][[H0168G\|אָֽהֳלֵי]][[H9014\|־]] [[H8035\|שֵׁ֑ם]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H3667G\|כְנַ֖עַן]] [[H5650\|עֶ֥בֶד]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic CURSE|CURSE]] • [[topic HAM|HAM]] • [[topic JAPHETH|JAPHETH]] • [[topic NOAH|NOAH]] • [[topic PARENTS|PARENTS]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.26|<< Genesis 9:26]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.28|Genesis 9:28 >>]]</td></tr></table>
 

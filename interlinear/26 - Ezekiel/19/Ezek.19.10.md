@@ -1,8 +1,63 @@
+---
+title: Ezekiel 19:10
+type: Verse
+kjv: "Thy mother is like a vine in thy blood, planted by the waters: she was fruitful and full of branches by reason of many waters."
+bsb: "Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters."
+hebrew: "אִמְּךָ֥ כַגֶּ֛פֶן בְּדָמְךָ֖ עַל־ מַ֣יִם שְׁתוּלָ֑ה פֹּֽרִיָּה֙ וַֽעֲנֵפָ֔ה הָיְתָ֖ה מִמַּ֥יִם רַבִּֽים׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H1612]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H8362]]"
+- "[[H6509]]"
+- "[[H9002]]"
+- "[[H6058]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:10**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy mother [is] like a vine in thy blood, planted by the waters: she was fruitful and full of branches by reason of many waters.
 <small><sub>**BSB:**</sub></small>
 Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H0517\|אִמְּ]][[H9021\|ךָ֥]] [[H9004\|כַ]][[H1612\|גֶּ֛פֶן]] [[H9003\|בְּ]][[H1818\|דָמְ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H8362\|שְׁתוּלָ֑ה]] [[H6509\|פֹּֽרִיָּה֙]] [[H9002\|וַֽ]][[H6058\|עֲנֵפָ֔ה]] [[H1961\|הָיְתָ֖ה]] [[H9006\|מִ]][[H4325G\|מַּ֥יִם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.9|<< Ezekiel 19:9]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.11|Ezekiel 19:11 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Genesis 40:14
+type: Verse
+kjv: "But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:"
+bsb: "But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison."
+hebrew: "כִּ֧י אִם־ זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־ נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֙נִי֙ אֶל־ פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־ הַבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3190]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4994]]"
+- "[[H5978]]"
+- "[[H2617A]]"
+- "[[H0413]]"
+- "[[H6547H]]"
+- "[[H3318H]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:14**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
 <small><sub>**BSB:**</sub></small>
 But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֧י]] [[H0518B\|אִם]][[H9014\|־]] [[H2142\|זְכַרְתַּ֣]][[H9030\|נִי]] [[H0854\|אִתְּ]][[H9031\|ךָ֗]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֙]] [[H3190\|יִ֣יטַב]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H6213A\|עָשִֽׂיתָ]][[H9014\|־]] [[H4994\|נָּ֥א]] [[H5978\|עִמָּדִ֖]][[H9030\|י]] [[H2617A\|חָ֑סֶד]] [[H9001\|וְ]][[H2142\|הִזְכַּרְתַּ֙]][[H9030\|נִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֔ה]] [[H9001\|וְ]][[H3318H\|הוֹצֵאתַ֖]][[H9030\|נִי]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.13|<< Genesis 40:13]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.15|Genesis 40:15 >>]]</td></tr></table>
 

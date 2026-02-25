@@ -1,6 +1,45 @@
+---
+title: Psalm 63:0
+type: Verse
+kjv: "A Psalm of David, when he was in the wilderness of Judah."
+hebrew: "מִזְמ֥וֹר לְדָוִ֑ד בִּ֝הְיוֹת֗וֹ בְּמִדְבַּ֥ר יְהוּדָֽה׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4210]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H9043]]"
+- "[[H4057B]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:0**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Psalm of David, when he was in the wilderness of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִ֑ד]] [[H9003\|בִּ֝]][[H1961\|הְיוֹת֗]][[H9043\|וֹ]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֥ר]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.12|<< Psalms 62:12]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.1|Psalms 63:1 >>]]</td></tr></table>
 

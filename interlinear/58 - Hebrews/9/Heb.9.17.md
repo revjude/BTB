@@ -1,10 +1,59 @@
+---
+title: Hebrews 9:17
+type: Verse
+kjv: "For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth."
+bsb: "because a will does not take effect until the one who made it has died; it cannot be executed while he is still alive."
+greek: "διαθήκη γὰρ ἐπὶ νεκροῖς βεβαία, ἐπεὶ μήποτε μήποτε ἰσχύει ὅτε ζῇ ὁ διαθέμενος."
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TESTAMENT|TESTAMENT]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G1242]]"
+- "[[G1063]]"
+- "[[G1909]]"
+- "[[G3498]]"
+- "[[G0949]]"
+- "[[G1893]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G2480]]"
+- "[[G3753]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G1303]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 9:17**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For a testament [is] of force after men are dead: otherwise it is of no strength at all while the testator liveth.
 <small><sub>**BSB:**</sub></small>
 because a will does not take effect until the one who made it has died; it cannot be executed while he is still alive.
-<small><sub>**Literal:**</sub></small>
-A will for after death [is] affirmed, since otherwise it is in force when is living the [one] having made [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.16|<< Hebrews 9:16]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.18|Hebrews 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1242\|διαθήκη]]  [[G1063\|γὰρ]]  [[G1909\|ἐπὶ]]  [[G3498\|νεκροῖς]]  [[G0949\|βεβαία,]]  [[G1893\|ἐπεὶ]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G2480\|ἰσχύει]]  [[G3753\|ὅτε]]  [[G2198\|ζῇ]]  [[G3588\|ὁ]]  [[G1303\|διαθέμενος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic TESTAMENT|TESTAMENT]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.16|<< Hebrews 9:16]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.18|Hebrews 9:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

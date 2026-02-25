@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: You Showed Favor to Your Land
+type: Pericope
 pericope: "[[Ps.85.1 You Showed Favor to Your Land|You Showed Favor to Your Land]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 85
 book/chapter: "[[Ps.85|Psalm 85]]"
-genre:
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.85.0]]"
 - "[[Ps.85.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.85.13]]"
 ---
 
-[[Ps.85|Psalm 85:1 - Psalm 85:13]]
+<small>[[Ps.85|Psalm 85:1-13]]</small>
 *You Showed Favor to Your Land*
 
 [[Ps.85.0|0]] To the chief Musician, A Psalm for the sons of Korah.

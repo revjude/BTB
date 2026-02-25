@@ -1,6 +1,60 @@
+---
+title: LXX Jonah 1:13
+type: Verse
+lxx: "And the men pressed on  to turn towards the land, and they were not able, for the sea went, and it rose up rather upon them."
+greek: "και παρεβιάζοντο οι άνδρες του επιστρέψαι προς την γην και ουκ ηδύναντο ότι η θάλασσα επορεύετο και εξηγείρετο μάλλον επ΄ αυτούς"
+original_language: Greek
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3849]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3754]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G1825]]"
+- "[[G3123]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Jonah 1:13** 
 <small><sub>**LXX:**</sub></small>
 And the men pressed on  to turn towards the land, and they were not able, for the sea went, and it rose up rather upon them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3849\|παρεβιάζοντο]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G3588\|του]] [[G1994\|επιστρέψαι]] [[G4314\|προς]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G3756\|ουκ]] [[G1410\|ηδύναντο]] [[G3754\|ότι]] [[G3588\|η]] [[G2281\|θάλασσα]] [[G4198\|επορεύετο]] [[G2532\|και]] [[G1825\|εξηγείρετο]] [[G3123\|μάλλον]] [[G1909\|επ΄]] [[G1473\|αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SHIP|SHIP]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jonah.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.12|<< Jonah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.14|Jonah 1:14 >>]]</td></tr></table>
 
@@ -27,6 +81,6 @@ And the men pressed on  to turn towards the land, and they were not able, for th
 | rather | **<big>[[G3123\|μάλλον]]</big>** |
 | upon | **<big>[[G1909\|επ΄]]</big>** |
 | them. | **<big>[[G1473\|αυτούς]]</big>** |
-[[Jonah.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.12|<< Jonah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.14|Jonah 1:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.12|<< Jonah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.14|Jonah 1:14 >>]]</td></tr></table>
 
 

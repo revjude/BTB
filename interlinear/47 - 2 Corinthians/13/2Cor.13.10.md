@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 13:10
+type: Verse
+kjv: "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction."
+bsb: "This is why I write these things while absent, so that when I am present I will not need to be severe in my use of the authority that the Lord gave me for building you up, not for tearing you down."
+greek: "διὰ τοῦτο ταῦτα ἀπὼν γράφω, ἵνα παρὼν μὴ ἀποτόμως χρήσωμαι κατὰ τὴν ἐξουσίαν ἣν ὁ κύριος ἔδωκέν μοι εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν.¶"
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G0548]]"
+- "[[G1125]]"
+- "[[G2443]]"
+- "[[G3918]]"
+- "[[G3361]]"
+- "[[G0664]]"
+- "[[G5530]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G3739]]"
+- "[[G2962G]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3619]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2506]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:10**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 <small><sub>**BSB:**</sub></small>
 This is why I write these things while absent, so that when I am present I will not need to be severe in my use of the authority that the Lord gave me for building you up, not for tearing you down.
-<small><sub>**Literal:**</sub></small>
-Because of therefore these things being absent I write, so that being present not with severity I may treat [you] according to the authority that the Lord has given me for building up and not for tearing down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.9|<< 2 Corinthians 13:9]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.11|2 Corinthians 13:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3778\|ταῦτα]]  [[G0548\|ἀπὼν]]  [[G1125\|γράφω,]]  [[G2443\|ἵνα]]  [[G3918\|παρὼν]]  [[G3361\|μὴ]]  [[G0664\|ἀποτόμως]]  [[G5530\|χρήσωμαι]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3739\|ἣν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1325\|ἔδωκέν]]  [[G3165\|μοι]]  [[G1519\|εἰς]]  [[G3619\|οἰκοδομὴν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1519\|εἰς]]  [[G2506\|καθαίρεσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.9|<< 2 Corinthians 13:9]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.11|2 Corinthians 13:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

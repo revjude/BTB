@@ -1,8 +1,56 @@
+---
+title: Psalm 139:4
+type: Verse
+kjv: "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether."
+bsb: "Even before a word is on my tongue, You know all about it, O LORD."
+hebrew: "כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4405]]"
+- "[[H9003]]"
+- "[[H3956G]]"
+- "[[H9020]]"
+- "[[H2005]]"
+- "[[H3068G]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:4**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there is] not a word in my tongue, [but], lo, O LORD, thou knowest it altogether.
 <small><sub>**BSB:**</sub></small>
 Even before a word is on my tongue, You know all about it, O LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0369\|אֵ֣ין]] [[H4405\|מִ֭לָּה]] [[H9003\|בִּ]][[H3956G\|לְשׁוֹנִ֑]][[H9020\|י]] [[H2005\|הֵ֥ן]] [[H3068G\|יְ֝הוָ֗ה]] [[H3045\|יָדַ֥עְתָּ]] [[H3605\|כֻלָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.3|<< Psalms 139:3]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.5|Psalms 139:5 >>]]</td></tr></table>
 

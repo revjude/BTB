@@ -1,8 +1,58 @@
+---
+title: Leviticus 18:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, I am the LORD your God."
+bsb: "“Speak to the Israelites and tell them: I am the LORD your God."
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:2**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, I am the LORD your God.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them: I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.1|<< Leviticus 18:1]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.3|Leviticus 18:3 >>]]</td></tr></table>
 

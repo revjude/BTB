@@ -1,8 +1,67 @@
+---
+title: Numbers 10:33
+type: Verse
+kjv: "And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them."
+bsb: "So they set out on a three-day journey from the mountain of the LORD, with the ark of the covenant of the LORD traveling ahead of them for those three days to seek a resting place for them."
+hebrew: "וַיִּסְעוּ֙ מֵהַ֣ר יְהוָ֔ה דֶּ֖רֶךְ שְׁלֹ֣שֶׁת יָמִ֑ים וַאֲר֨וֹן בְּרִית־ יְהוָ֜ה נֹסֵ֣עַ לִפְנֵיהֶ֗ם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים לָת֥וּר לָהֶ֖ם מְנוּחָֽה׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H3068G]]"
+- "[[H1870L]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H8446]]"
+- "[[H9038]]"
+- "[[H4496H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:33**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them.
 <small><sub>**BSB:**</sub></small>
 So they set out on a three-day journey from the mountain of the LORD, with the ark of the covenant of the LORD traveling ahead of them for those three days to seek a resting place for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְעוּ֙]] [[H9006\|מֵ]][[H2022G\|הַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H1870L\|דֶּ֖רֶךְ]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֑ים]] [[H9002\|וַ]][[H0727\|אֲר֨וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H5265\|נֹסֵ֣עַ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֗ם]] [[H1870L\|דֶּ֚רֶךְ]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H9005\|לָ]][[H8446\|ת֥וּר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H4496H\|מְנוּחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.32|<< Numbers 10:32]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.34|Numbers 10:34 >>]]</td></tr></table>
 

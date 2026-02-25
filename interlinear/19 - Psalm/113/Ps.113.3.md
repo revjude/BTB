@@ -1,8 +1,55 @@
+---
+title: Psalm 113:3
+type: Verse
+kjv: "From the rising of the sun unto the going down of the same the LORD’S name is to be praised."
+bsb: "From where the sun rises to where it sets, the name of the LORD is praised."
+hebrew: "מִמִּזְרַח־ שֶׁ֥מֶשׁ עַד־ מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה׃"
+pericope: "[[Ps.113.1 The LORD Exalts the Humble|The LORD Exalts the Humble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 113
+book/chapter: "[[Ps.113|Psalm 113]]"
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H9014]]"
+- "[[H8121]]"
+- "[[H5704]]"
+- "[[H3996]]"
+- "[[H9023]]"
+- "[[H1984B]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 113:3**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the rising of the sun unto the going down of the same the LORD’S name [is] to be praised.
 <small><sub>**BSB:**</sub></small>
 From where the sun rises to where it sets, the name of the LORD is praised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֥מֶשׁ]] [[H5704\|עַד]][[H9014\|־]] [[H3996\|מְבוֹא֑]][[H9023\|וֹ]] [[H1984B\|מְ֝הֻלָּ֗ל]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.2|<< Psalms 113:2]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.4|Psalms 113:4 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 29:25
+type: Verse
+kjv: "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe."
+bsb: "The fear of man is a snare, but whoever trusts in the LORD is set securely on high."
+hebrew: "חֶרְדַּ֣ת אָ֭דָם יִתֵּ֣ן מוֹקֵ֑שׁ וּבוֹטֵ֖חַ בַּיהוָ֣ה יְשֻׂגָּֽב׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H2731]]"
+- "[[H0120G]]"
+- "[[H5414H]]"
+- "[[H4170]]"
+- "[[H9002]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H7682]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:25**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.
 <small><sub>**BSB:**</sub></small>
 The fear of man is a snare, but whoever trusts in the LORD is set securely on high.
+<small><sub>**Hebrew:**</sub></small>
+[[H2731\|חֶרְדַּ֣ת]] [[H0120G\|אָ֭דָם]] [[H5414H\|יִתֵּ֣ן]] [[H4170\|מוֹקֵ֑שׁ]] [[H9002\|וּ]][[H0982\|בוֹטֵ֖חַ]] [[H9003\|בַּ]][[H3068G\|יהוָ֣ה]] [[H7682\|יְשֻׂגָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.24|<< Proverbs 29:24]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.26|Proverbs 29:26 >>]]</td></tr></table>
 

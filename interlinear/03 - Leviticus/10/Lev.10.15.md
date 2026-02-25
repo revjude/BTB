@@ -1,8 +1,73 @@
+---
+title: Leviticus 10:15
+type: Verse
+kjv: "The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave it for a wave offering before the LORD; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the LORD hath commanded."
+bsb: "They are to bring the thigh of the contribution and the breast of the wave offering, together with the fat portions of the food offerings, to wave as a wave offering before the LORD. It will belong permanently to you and your children, as the LORD has commanded.”"
+hebrew: "שׁ֣וֹק הַתְּרוּמָ֞ה וַחֲזֵ֣ה הַתְּנוּפָ֗ה עַ֣ל אִשֵּׁ֤י הַחֲלָבִים֙ יָבִ֔יאוּ לְהָנִ֥יף תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה וְהָיָ֨ה לְךָ֜ וּלְבָנֶ֤יךָ אִתְּךָ֙ לְחָק־ עוֹלָ֔ם כַּאֲשֶׁ֖ר צִוָּ֥ה יְהוָֽה׃"
+pericope: "[[Lev.10.8 Restrictions for Priests|Restrictions for Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H7785]]"
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H9002]]"
+- "[[H2373]]"
+- "[[H8573]]"
+- "[[H5921A]]"
+- "[[H0801]]"
+- "[[H2459]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H5130B]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H2706H]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:15**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave [it for] a wave offering before the LORD; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the LORD hath commanded.
 <small><sub>**BSB:**</sub></small>
 They are to bring the thigh of the contribution and the breast of the wave offering, together with the fat portions of the food offerings, to wave as a wave offering before the LORD. It will belong permanently to you and your children, as the LORD has commanded.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7785\|שׁ֣וֹק]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֞ה]] [[H9002\|וַ]][[H2373\|חֲזֵ֣ה]] [[H9009\|הַ]][[H8573\|תְּנוּפָ֗ה]] [[H5921A\|עַ֣ל]] [[H0801\|אִשֵּׁ֤י]] [[H9009\|הַ]][[H2459\|חֲלָבִים֙]] [[H0935P\|יָבִ֔יאוּ]] [[H9005\|לְ]][[H5130B\|הָנִ֥יף]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנֶ֤י]][[H9021\|ךָ]] [[H0854\|אִתְּ]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H2706H\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.14|<< Leviticus 10:14]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.16|Leviticus 10:16 >>]]</td></tr></table>
 

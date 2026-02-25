@@ -1,8 +1,65 @@
+---
+title: Genesis 45:17
+type: Verse
+kjv: "And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;"
+bsb: "Pharaoh said to Joseph, “Tell your brothers, ‘Do as follows: Load your animals and return to the land of Canaan."
+hebrew: "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף אֱמֹ֥ר אֶל־ אַחֶ֖יךָ זֹ֣את עֲשׂ֑וּ טַֽעֲנוּ֙ אֶת־ בְּעִ֣ירְכֶ֔ם וּלְכוּ־ בֹ֖אוּ אַ֥רְצָה כְּנָֽעַן׃"
+pericope: "[[Gen.45.16 Pharaoh Invites Jacob to Egypt|Pharaoh Invites Jacob to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H2943]]"
+- "[[H0853]]"
+- "[[H1165]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:17**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;
 <small><sub>**BSB:**</sub></small>
 Pharaoh said to Joseph, “Tell your brothers, ‘Do as follows: Load your animals and return to the land of Canaan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H6547H\|פַּרְעֹה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H0559\|אֱמֹ֥ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אַחֶ֖י]][[H9021\|ךָ]] [[H2063\|זֹ֣את]] [[H6213A\|עֲשׂ֑וּ]] [[H2943\|טַֽעֲנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1165\|בְּעִ֣ירְ]][[H9026\|כֶ֔ם]] [[H9002\|וּ]][[H1980G\|לְכוּ]][[H9014\|־]] [[H0935G\|בֹ֖אוּ]] [[H0776G\|אַ֥רְצָ]][[H9011\|ה]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.16|<< Genesis 45:16]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.18|Genesis 45:18 >>]]</td></tr></table>
 

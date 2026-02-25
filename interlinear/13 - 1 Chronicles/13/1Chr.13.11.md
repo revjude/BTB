@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 13:11
+type: Verse
+kjv: "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day."
+bsb: "Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day."
+hebrew: "וַיִּ֣חַר לְדָוִ֔יד כִּֽי־ פָרַ֧ץ יְהוָ֛ה פֶּ֖רֶץ בְּעֻזָּ֑א וַיִּקְרָ֞א לַמָּק֤וֹם הַהוּא֙ פֶּ֣רֶץ עֻזָּ֔א עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic PEREZ-UZZA|PEREZ-UZZA]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6555]]"
+- "[[H3068G]]"
+- "[[H6556]]"
+- "[[H9003]]"
+- "[[H5798A]]"
+- "[[H7121H]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6560G]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:11**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.
 <small><sub>**BSB:**</sub></small>
 Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּ֣חַר]] [[H9005\|לְ]][[H1732\|דָוִ֔יד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6555\|פָרַ֧ץ]] [[H3068G\|יְהוָ֛ה]] [[H6556\|פֶּ֖רֶץ]] [[H9003\|בְּ]][[H5798A\|עֻזָּ֑א]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֞א]] [[H9005\|לַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H6560G\|פֶּ֣רֶץ]] [[H6560G\|עֻזָּ֔א]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEREZ-UZZA|PEREZ-UZZA]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.10|<< 1 Chronicles 13:10]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.12|1 Chronicles 13:12 >>]]</td></tr></table>
 

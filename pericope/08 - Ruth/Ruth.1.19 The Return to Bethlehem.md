@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Return to Bethlehem
+type: Pericope
 pericope: "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 1
 book/chapter: "[[Ruth.1|Ruth 1]]"
-genre:
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 4
 verses:
 - "[[Ruth.1.19]]"
 - "[[Ruth.1.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Ruth.1.22]]"
 ---
 
-[[Ruth.1|Ruth 1:19 - Ruth 1:22]]
+<small>[[Ruth.1|Ruth 1:19-22]]</small>
 *The Return to Bethlehem*
 
 [[Ruth.1.19|19]] So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, \[Is\] this Naomi?

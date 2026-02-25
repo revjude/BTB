@@ -1,10 +1,64 @@
+---
+title: Mark 14:31
+type: Verse
+kjv: "But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all."
+bsb: "But Peter kept insisting, “Even if I have to die with You, I will never deny You.” And all the others said the same thing."
+greek: "ὁ δὲ ἐκπερισσῶς ἐκπερισσῶς ἐλάλει μᾶλλον· ἐὰν δέῃ με συναποθανεῖν σοι, οὐ μή σε ἀπαρνήσομαι. ὡσαύτως δὲ καὶ πάντες ἔλεγον.¶"
+pericope: "[[Mark.14.27 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G4057]]"
+- "[[G2980]]"
+- "[[G3123G]]"
+- "[[G1437]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G4880]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0533]]"
+- "[[G5615]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NK(o)
+---
+
 **Mark 14:31**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.
 <small><sub>**BSB:**</sub></small>
 But Peter kept insisting, “Even if I have to die with You, I will never deny You.” And all the others said the same thing.
-<small><sub>**Literal:**</sub></small>
-<the> And overexceedingly he was saying more: If it shall be needful to me to die with You, certainly not You I will deny. Likewise now also all of them were saying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.30|<< Mark 14:30]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.32|Mark 14:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1537\|ἐκπερισσῶς]]  <sup><small>[[G4057\| [ • ] ]]</small></sup>  [[G2980\|ἐλάλει]]  [[G3123G\|μᾶλλον·]]  [[G1437\|ἐὰν]]  [[G1163\|δέῃ]]  [[G3165\|με]]  [[G4880\|συναποθανεῖν]]  [[G4771\|σοι,]]  [[G3756\|οὐ]]  [[G3361\|μή]]  [[G4771\|σε]]  [[G0533\|ἀπαρνήσομαι.]]  [[G5615\|ὡσαύτως]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3004G\|ἔλεγον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.30|<< Mark 14:30]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.32|Mark 14:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

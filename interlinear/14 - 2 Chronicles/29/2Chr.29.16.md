@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 29:16
+type: Verse
+kjv: "And the priests went into the inner part of the house of the LORD, to cleanse it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it, to carry it out abroad into the brook Kidron."
+bsb: "So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley."
+hebrew: "וַיָּבֹ֣אוּ הַ֠כֹּהֲנִים לִפְנִ֣ימָה בֵית־ יְהוָה֮ לְטַהֵר֒ וַיּוֹצִ֗יאוּ אֵ֤ת כָּל־ הַטֻּמְאָה֙ אֲשֶׁ֤ר מָֽצְאוּ֙ בְּהֵיכַ֣ל יְהוָ֔ה לַחֲצַ֖ר בֵּ֣ית יְהוָ֑ה וַֽיְקַבְּלוּ֙ הַלְוִיִּ֔ם לְהוֹצִ֥יא לְנַֽחַל־ קִדְר֖וֹן חֽוּצָה׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic CEDRON|CEDRON]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H6441]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2891]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H2932]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H1964G]]"
+- "[[H2691A]]"
+- "[[H6901]]"
+- "[[H3881]]"
+- "[[H5158N]]"
+- "[[H6939]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:16**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests went into the inner part of the house of the LORD, to cleanse [it], and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took [it], to carry [it] out abroad into the brook Kidron.
 <small><sub>**BSB:**</sub></small>
 So the priests went inside the house of the LORD to cleanse it, and they brought out to the courtyard all the unclean things that they found in the temple of the LORD. Then the Levites took these things and carried them out to the Kidron Valley.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H9009\|הַ֠]][[H3548\|כֹּהֲנִים]] [[H9005\|לִ]][[H6441\|פְנִ֣ימָה]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H9005\|לְ]][[H2891\|טַהֵר֒]] [[H9001\|וַ]][[H3318H\|יּוֹצִ֗יאוּ]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2932\|טֻּמְאָה֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H4672\|מָֽצְאוּ֙]] [[H9003\|בְּ]][[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H2691A\|חֲצַ֖ר]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַֽ]][[H6901\|יְקַבְּלוּ֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9005\|לְ]][[H3318H\|הוֹצִ֥יא]] [[H9005\|לְ]][[H5158N\|נַֽחַל]][[H9014\|־]] [[H6939\|קִדְר֖וֹן]] [[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic CEDRON|CEDRON]] • [[topic KIDRON|KIDRON]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.15|<< 2 Chronicles 29:15]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.17|2 Chronicles 29:17 >>]]</td></tr></table>
 

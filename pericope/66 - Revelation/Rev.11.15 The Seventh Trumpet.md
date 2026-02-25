@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Trumpet
+type: Pericope
 pericope: "[[Rev.11.15 The Seventh Trumpet|The Seventh Trumpet]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 11
 book/chapter: "[[Rev.11|Revelation 11]]"
-genre:
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.11.15]]"
 - "[[Rev.11.16]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.11.19]]"
 ---
 
-[[Rev.11|Revelation 11:15 - Revelation 11:19]]
+<small>[[Rev.11|Revelation 11:15-19]]</small>
 *The Seventh Trumpet*
 
 [[Rev.11.15|15]] And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become \[the kingdoms\] of our Lord, and of his Christ; and he shall reign for ever and ever.

@@ -1,8 +1,63 @@
+---
+title: Numbers 8:15
+type: Verse
+kjv: "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering."
+bsb: "After you have cleansed them and presented them as a wave offering, they may come to serve at the Tent of Meeting."
+hebrew: "וְאַֽחֲרֵי־ כֵן֙ יָבֹ֣אוּ הַלְוִיִּ֔ם לַעֲבֹ֖ד אֶת־ אֹ֣הֶל מוֹעֵ֑ד וְטִֽהַרְתָּ֣ אֹתָ֔ם וְהֵנַפְתָּ֥ אֹתָ֖ם תְּנוּפָֽה׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9038]]"
+- "[[H5130B]]"
+- "[[H8573]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:15**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them [for] an offering.
 <small><sub>**BSB:**</sub></small>
 After you have cleansed them and presented them as a wave offering, they may come to serve at the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵן֙]] [[H0935G\|יָבֹ֣אוּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H2891\|טִֽהַרְתָּ֣]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H5130B\|הֵנַפְתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H8573\|תְּנוּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.14|<< Numbers 8:14]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.16|Numbers 8:16 >>]]</td></tr></table>
 

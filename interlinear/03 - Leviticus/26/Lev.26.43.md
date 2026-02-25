@@ -1,8 +1,74 @@
+---
+title: Leviticus 26:43
+type: Verse
+kjv: "The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes."
+bsb: "For the land will be abandoned by them, and it will enjoy its Sabbaths by lying desolate without them. And they will pay the penalty for their iniquity, because they rejected My ordinances and abhorred My statutes."
+hebrew: "וְהָאָרֶץ֩ תֵּעָזֵ֨ב מֵהֶ֜ם וְתִ֣רֶץ אֶת־ שַׁבְּתֹתֶ֗יהָ בָּהְשַׁמָּה֙ מֵהֶ֔ם וְהֵ֖ם יִרְצ֣וּ אֶת־ עֲוֹנָ֑ם יַ֣עַן וּבְיַ֔עַן בְּמִשְׁפָּטַ֣י מָאָ֔סוּ וְאֶת־ חֻקֹּתַ֖י גָּעֲלָ֥ה נַפְשָֽׁם׃"
+pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5800A]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H7521]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H8074G]]"
+- "[[H9044]]"
+- "[[H1992]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H3282]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H3988A]]"
+- "[[H2708]]"
+- "[[H1602]]"
+- "[[H5315I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:43**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.
 <small><sub>**BSB:**</sub></small>
 For the land will be abandoned by them, and it will enjoy its Sabbaths by lying desolate without them. And they will pay the penalty for their iniquity, because they rejected My ordinances and abhorred My statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָרֶץ֩]] [[H5800A\|תֵּעָזֵ֨ב]] [[H9006\|מֵ]][[H9038\|הֶ֜ם]] [[H9002\|וְ]][[H7521\|תִ֣רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתֹתֶ֗י]][[H9024\|הָ]] [[H9003\|בָּ]][[H8074G\|הְשַׁמָּ]][[H9044\|ה֙]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H7521\|יִרְצ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹנָ֑]][[H9028\|ם]] [[H3282\|יַ֣עַן]] [[H9002\|וּ]][[H9003\|בְ]][[H3282\|יַ֔עַן]] [[H9003\|בְּ]][[H4941G\|מִשְׁפָּטַ֣]][[H9020\|י]] [[H3988A\|מָאָ֔סוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2708\|חֻקֹּתַ֖]][[H9020\|י]] [[H1602\|גָּעֲלָ֥ה]] [[H5315I\|נַפְשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOD|GOD]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.42|<< Leviticus 26:42]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.44|Leviticus 26:44 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 30:8
+type: Verse
+kjv: "For it shall come to pass in that day, saith the LORD of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:"
+bsb: "On that day, declares the LORD of Hosts, I will break the yoke off their necks and tear off their bonds, and no longer will strangers enslave them."
+hebrew: "וְהָיָה֩ בַיּ֨וֹם הַה֜וּא נְאֻ֣ם׀ יְהוָ֣ה צְבָא֗וֹת אֶשְׁבֹּ֤ר עֻלּוֹ֙ מֵעַ֣ל צַוָּארֶ֔ךָ וּמוֹסְרוֹתֶ֖יךָ אֲנַתֵּ֑ק וְלֹא־ יַעַבְדוּ־ ב֥וֹ ע֖וֹד זָרִֽים׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7665]]"
+- "[[H5923]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4147]]"
+- "[[H5423]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H2114A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:8**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it shall come to pass in that day, saith the LORD of hosts, [that] I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:
 <small><sub>**BSB:**</sub></small>
 On that day, declares the LORD of Hosts, I will break the yoke off their necks and tear off their bonds, and no longer will strangers enslave them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5002\|נְאֻ֣ם]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H7665\|אֶשְׁבֹּ֤ר]] [[H5923\|עֻלּ]][[H9023\|וֹ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H6677A\|צַוָּארֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H4147\|מוֹסְרוֹתֶ֖י]][[H9021\|ךָ]] [[H5423\|אֲנַתֵּ֑ק]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5647G\|יַעַבְדוּ]][[H9014\|־]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H5750\|ע֖וֹד]] [[H2114A\|זָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic YOKE|YOKE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.7|<< Jeremiah 30:7]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.9|Jeremiah 30:9 >>]]</td></tr></table>
 

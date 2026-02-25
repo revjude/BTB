@@ -1,8 +1,69 @@
+---
+title: Micah 5:8
+type: Verse
+kjv: "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver."
+bsb: "Then the remnant of Jacob will be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which tramples and tears as it passes through, with no one to rescue them."
+hebrew: "וְהָיָה֩ שְׁאֵרִ֨ית יַעֲקֹ֜ב בַּגּוֹיִ֗ם בְּקֶ֙רֶב֙ עַמִּ֣ים רַבִּ֔ים כְּאַרְיֵה֙ בְּבַהֲמ֣וֹת יַ֔עַר כִּכְפִ֖יר בְּעֶדְרֵי צֹ֑אן אֲשֶׁ֧ר אִם עָבַ֛ר וְרָמַ֥ס וְטָרַ֖ף וְאֵ֥ין מַצִּֽיל׃"
+pericope: "[[Mic.5.7 The Remnant of Jacob|The Remnant of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 5
+book/chapter: "[[Mic.5|Micah 5]]"
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LION|LION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7611]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H0929]]"
+- "[[H3293A]]"
+- "[[H3715A]]"
+- "[[H5739]]"
+- "[[H6629G]]"
+- "[[H0834A]]"
+- "[[H0518A]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H7429]]"
+- "[[H2963]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Micah 5:8**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 <small><sub>**BSB:**</sub></small>
 Then the remnant of Jacob will be among the nations, in the midst of many peoples, like a lion among the beasts of the forest, like a young lion among flocks of sheep, which tramples and tears as it passes through, with no one to rescue them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H7611\|שְׁאֵרִ֨ית]] [[H3290\|יַעֲקֹ֜ב]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֗ם]] [[H9003\|בְּ]][[H7130G\|קֶ֙רֶב֙]] [[H5971A\|עַמִּ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H9004\|כְּ]][[H0738B\|אַרְיֵה֙]] [[H9003\|בְּ]][[H0929\|בַהֲמ֣וֹת]] [[H3293A\|יַ֔עַר]] [[H9004\|כִּ]][[H3715A\|כְפִ֖יר]] [[H9003\|בְּ]][[H5739\|עֶדְרֵי]] [[H6629G\|צֹ֑אן]] [[H0834A\|אֲשֶׁ֧ר]] [[H0518A\|אִם]] [[H5674A\|עָבַ֛ר]] [[H9002\|וְ]][[H7429\|רָמַ֥ס]] [[H9001\|וְ]][[H2963\|טָרַ֖ף]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LION|LION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.7|<< Micah 5:7]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.9|Micah 5:9 >>]]</td></tr></table>
 

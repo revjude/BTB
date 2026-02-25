@@ -1,7 +1,7 @@
 
 **NAZARITE**
 
-→ Law concerning [[Num.6.1|Nu 6:1]]-[[Num.6.21|21]]; [[Judg.13.5|Jud 13:5]]
+→ Law concerning [[Num.6.1|Nu 6:1-21]]; [[Judg.13.5|Jud 13:5]]
 
 → Character of [[Lam.4.7|La 4:7]]; [[Amos.2.11|Am 2:11]],[[Amos.2.12|12]]
 

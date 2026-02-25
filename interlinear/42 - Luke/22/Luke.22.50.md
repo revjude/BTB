@@ -1,10 +1,60 @@
+---
+title: Luke 22:50
+type: Verse
+kjv: "And one of them smote the servant of the high priest, and cut off his right ear."
+bsb: "And one of them struck the servant of the high priest, cutting off his right ear."
+greek: "καὶ ἐπάταξεν εἷς τις ἐξ αὐτῶν τοῦ ἀρχιερέως τὸν δοῦλον καὶ ἀφεῖλεν τὸ οὖς αὐτοῦ τὸ δεξιόν."
+pericope: "[[Luke.22.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALCHUS|MALCHUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3960]]"
+- "[[G1520]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G1401]]"
+- "[[G0851]]"
+- "[[G3775]]"
+- "[[G1188]]"
+texts:
+- NKO
+---
+
 **Luke 22:50**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of them smote the servant of the high priest, and cut off his right ear.
 <small><sub>**BSB:**</sub></small>
 And one of them struck the servant of the high priest, cutting off his right ear.
-<small><sub>**Literal:**</sub></small>
-And struck one a certain of them of the high priest the servant and cut off the ear of him <the> right.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.49|<< Luke 22:49]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.51|Luke 22:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3960\|ἐπάταξεν]]  [[G1520\|εἷς]]  [[G5100\|τις]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G3588\|τὸν]]  [[G1401\|δοῦλον]]  [[G2532\|καὶ]]  [[G0851\|ἀφεῖλεν]]  [[G3588\|τὸ]]  [[G3775\|οὖς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G1188\|δεξιόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALCHUS|MALCHUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.49|<< Luke 22:49]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.51|Luke 22:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

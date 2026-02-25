@@ -1,8 +1,77 @@
+---
+title: Genesis 47:6
+type: Verse
+kjv: "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle."
+bsb: "the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”"
+hebrew: "אֶ֤רֶץ מִצְרַ֙יִם֙ לְפָנֶ֣יךָ הִ֔וא בְּמֵיטַ֣ב הָאָ֔רֶץ הוֹשֵׁ֥ב אֶת־ אָבִ֖יךָ וְאֶת־ אַחֶ֑יךָ יֵשְׁבוּ֙ בְּאֶ֣רֶץ גֹּ֔שֶׁן וְאִם־ יָדַ֗עְתָּ וְיֶשׁ־ בָּם֙ אַנְשֵׁי־ חַ֔יִל וְשַׂמְתָּ֛ם שָׂרֵ֥י מִקְנֶ֖ה עַל־ אֲשֶׁר־ לִֽי׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H4315]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H1657G]]"
+- "[[H0518A]]"
+- "[[H3045]]"
+- "[[H3426]]"
+- "[[H9038]]"
+- "[[H0582]]"
+- "[[H2428G]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H8269]]"
+- "[[H4735]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:6**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The land of Egypt [is] before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest [any] men of activity among them, then make them rulers over my cattle.
 <small><sub>**BSB:**</sub></small>
 the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0776G\|אֶ֤רֶץ]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H1931\|הִ֔וא]] [[H9003\|בְּ]][[H4315\|מֵיטַ֣ב]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3427\|הוֹשֵׁ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אַחֶ֑י]][[H9021\|ךָ]] [[H3427\|יֵשְׁבוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H1657G\|גֹּ֔שֶׁן]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3045\|יָדַ֗עְתָּ]] [[H9002\|וְ]][[H3426\|יֶשׁ]][[H9014\|־]] [[H9003\|בָּ]][[H9038\|ם֙]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428G\|חַ֔יִל]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֛]][[H9038\|ם]] [[H8269\|שָׂרֵ֥י]] [[H4735\|מִקְנֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic KINDNESS|KINDNESS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.5|<< Genesis 47:5]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.7|Genesis 47:7 >>]]</td></tr></table>
 

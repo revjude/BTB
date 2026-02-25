@@ -1,8 +1,57 @@
+---
+title: Job 22:25
+type: Verse
+kjv: "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver."
+bsb: "then the Almighty will be your gold and the finest silver for you."
+hebrew: "וְהָיָ֣ה שַׁדַּ֣י בְּצָרֶ֑יךָ וְכֶ֖סֶף תּוֹעָפ֣וֹת לָֽךְ׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7706]]"
+- "[[H1220]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H8443]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:25**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.
 <small><sub>**BSB:**</sub></small>
 then the Almighty will be your gold and the finest silver for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H7706\|שַׁדַּ֣י]] [[H1220\|בְּצָרֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3701G\|כֶ֖סֶף]] [[H8443\|תּוֹעָפ֣וֹת]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.24|<< Job 22:24]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.26|Job 22:26 >>]]</td></tr></table>
 

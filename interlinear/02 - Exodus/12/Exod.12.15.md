@@ -1,8 +1,77 @@
+---
+title: Exodus 12:15
+type: Verse
+kjv: "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+bsb: "For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel."
+hebrew: "שִׁבְעַ֤ת יָמִים֙ מַצּ֣וֹת תֹּאכֵ֔לוּ אַ֚ךְ בַּיּ֣וֹם הָרִאשׁ֔וֹן תַּשְׁבִּ֥יתוּ שְּׂאֹ֖ר מִבָּתֵּיכֶ֑ם כִּ֣י׀ כָּל־ אֹכֵ֣ל חָמֵ֗ץ וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מִיִּשְׂרָאֵ֔ל מִיּ֥וֹם הָרִאשֹׁ֖ן עַד־ י֥וֹם הַשְּׁבִעִֽי׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H4682]]"
+- "[[H0398]]"
+- "[[H0389]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H7673A]]"
+- "[[H7603]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2557A]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:15**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 <small><sub>**BSB:**</sub></small>
 For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֤ת]] [[H3117G\|יָמִים֙]] [[H4682\|מַצּ֣וֹת]] [[H0398\|תֹּאכֵ֔לוּ]] [[H0389\|אַ֚ךְ]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֔וֹן]] [[H7673A\|תַּשְׁבִּ֥יתוּ]] [[H7603\|שְּׂאֹ֖ר]] [[H9006\|מִ]][[H1004B\|בָּתֵּי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H0398\|אֹכֵ֣ל]] [[H2557A\|חָמֵ֗ץ]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֞ה]] [[H9009\|הַ]][[H5315J\|נֶּ֤פֶשׁ]] [[H9009\|הַ]][[H1931\|הִוא֙]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H3117G\|יּ֥וֹם]] [[H9009\|הָ]][[H7223G\|רִאשֹׁ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SEVEN|SEVEN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.14|<< Exodus 12:14]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.16|Exodus 12:16 >>]]</td></tr></table>
 

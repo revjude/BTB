@@ -1,6 +1,55 @@
+---
+title: LXX 2 Kings 15:37
+type: Verse
+lxx: "In  those days the lord began to send against Judah  Rezin king of Syria, and  Pekah son of Remaliah."
+greek: "εν ταις ημέραις εκείναις ήρξατο κύριος αποστέλλειν εν Ιούδα τον Ρασσών βασιλέα Συρίας και τον Φακεαί υιόν Ρομελίου"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G0756]]"
+- "[[G2962]]"
+- "[[G0649]]"
+- "[[G1722]]"
+- "[[G2448]]"
+- "[[G3588]]"
+- "[[H7526]]"
+- "[[G0935]]"
+- "[[G4947]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H6492]]"
+- "[[G5207]]"
+- "[[H7425]]"
+---
+
 **LXX 2 Kings 15:37** 
 <small><sub>**LXX:**</sub></small>
 In  those days \[the\] <span class="smallcaps">lord</span> began to send against Judah  Rezin king of Syria, and  Pekah son of Remaliah. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|ταις]] [[G2250\|ημέραις]] [[G1565\|εκείναις]] [[G0756\|ήρξατο]] [[G2962\|κύριος]] [[G0649\|αποστέλλειν]] [[G1722\|εν]] [[G2448\|Ιούδα]] [[G3588\|τον]] [[H7526\|Ρασσών]] [[G0935\|βασιλέα]] [[G4947\|Συρίας]] [[G2532\|και]] [[G3588\|τον]] [[H6492\|Φακεαί]] [[G5207\|υιόν]] [[H7425\|Ρομελίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REZIN|REZIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.15.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.36|<< 2 Kings 15:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.38|2 Kings 15:38 >>]]</td></tr></table>
 
@@ -22,6 +71,6 @@ In  those days \[the\] <span class="smallcaps">lord</span> began to send against
 | Pekah | **<big>[[H6492\|Φακεαί]]</big>** |
 | son | **<big>[[G5207\|υιόν]]</big>** |
 | of Remaliah. | **<big>[[H7425\|Ρομελίου]]</big>** |
-[[2Kgs.15.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.36|<< 2 Kings 15:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.38|2 Kings 15:38 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.36|<< 2 Kings 15:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.38|2 Kings 15:38 >>]]</td></tr></table>
 
 

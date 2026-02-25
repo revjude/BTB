@@ -1,8 +1,63 @@
+---
+title: Joshua 18:17
+type: Verse
+kjv: "And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which is over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,"
+bsb: "From there it curved northward and proceeded to En-shemesh and on to Geliloth facing the Ascent of Adummim, and continued down to the Stone of Bohan son of Reuben."
+hebrew: "וְתָאַ֣ר מִצָּפ֗וֹן וְיָצָא֙ עֵ֣ין שֶׁ֔מֶשׁ וְיָצָא֙ אֶל־ גְּלִיל֔וֹת אֲשֶׁר־ נֹ֖כַח מַעֲלֵ֣ה אֲדֻמִּ֑ים וְיָרַ֕ד אֶ֥בֶן בֹּ֖הַן בֶּן־ רְאוּבֵֽן׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADUMMIM|ADUMMIM]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic BOHAN|BOHAN]]"
+- "[[topic EN-SHEMESH|EN-SHEMESH]]"
+- "[[topic GELILOTH|GELILOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8388A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H3318I]]"
+- "[[H5885]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1553]]"
+- "[[H0834A]]"
+- "[[H5227]]"
+- "[[H4608]]"
+- "[[H0131]]"
+- "[[H3381]]"
+- "[[H0068G]]"
+- "[[H0932]]"
+- "[[H1121A]]"
+- "[[H7205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:17**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which [is] over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
 <small><sub>**BSB:**</sub></small>
 From there it curved northward and proceeded to En-shemesh and on to Geliloth facing the Ascent of Adummim, and continued down to the Stone of Bohan son of Reuben.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8388A\|תָאַ֣ר]] [[H9006\|מִ]][[H6828G\|צָּפ֗וֹן]] [[H9001\|וְ]][[H3318I\|יָצָא֙]] [[H5885\|עֵ֣ין]] [[H5885\|שֶׁ֔מֶשׁ]] [[H9001\|וְ]][[H3318I\|יָצָא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1553\|גְּלִיל֔וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5227\|נֹ֖כַח]] [[H4608\|מַעֲלֵ֣ה]] [[H0131\|אֲדֻמִּ֑ים]] [[H9001\|וְ]][[H3381\|יָרַ֕ד]] [[H0068G\|אֶ֥בֶן]] [[H0932\|בֹּ֖הַן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7205\|רְאוּבֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADUMMIM|ADUMMIM]] • [[topic BENJAMIN|BENJAMIN]] • [[topic BOHAN|BOHAN]] • [[topic EN-SHEMESH|EN-SHEMESH]] • [[topic GELILOTH|GELILOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.16|<< Joshua 18:16]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.18|Joshua 18:18 >>]]</td></tr></table>
 

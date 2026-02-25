@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: All Nations Will Worship the King
+type: Pericope
 pericope: "[[Zech.14.16 All Nations Will Worship the King|All Nations Will Worship the King]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 14
 book/chapter: "[[Zech.14|Zechariah 14]]"
-genre:
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 6
 verses:
 - "[[Zech.14.16]]"
 - "[[Zech.14.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Zech.14.21]]"
 ---
 
-[[Zech.14|Zechariah 14:16 - Zechariah 14:21]]
+<small>[[Zech.14|Zechariah 14:16-21]]</small>
 *All Nations Will Worship the King*
 
 [[Zech.14.16|16]] And it shall come to pass, \[that\] every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.

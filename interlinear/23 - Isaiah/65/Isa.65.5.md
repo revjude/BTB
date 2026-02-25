@@ -1,8 +1,68 @@
+---
+title: Isaiah 65:5
+type: Verse
+kjv: "Which say, Stand by thyself, come not near to me; for I am holier than thou. These are a smoke in my nose, a fire that burneth all the day."
+bsb: "They say, ‘Keep to yourself; do not come near me, for I am holier than you!’ Such people are smoke in My nostrils, a fire that burns all day long."
+hebrew: "הָאֹֽמְרִים֙ קְרַ֣ב אֵלֶ֔יךָ אַל־ תִּגַּשׁ־ בִּ֖י כִּ֣י קְדַשְׁתִּ֑יךָ אֵ֚לֶּה עָשָׁ֣ן בְּאַפִּ֔י אֵ֥שׁ יֹקֶ֖דֶת כָּל־ הַיּֽוֹם׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5066G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6942G]]"
+- "[[H0428]]"
+- "[[H6227]]"
+- "[[H0639H]]"
+- "[[H9020]]"
+- "[[H0784]]"
+- "[[H3344]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:5**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which say, Stand by thyself, come not near to me; for I am holier than thou. These [are] a smoke in my nose, a fire that burneth all the day.
 <small><sub>**BSB:**</sub></small>
 They say, ‘Keep to yourself; do not come near me, for I am holier than you!’ Such people are smoke in My nostrils, a fire that burns all day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0559\|אֹֽמְרִים֙]] [[H7126G\|קְרַ֣ב]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H5066G\|תִּגַּשׁ]][[H9014\|־]] [[H9003\|בִּ֖]][[H9030\|י]] [[H3588A\|כִּ֣י]] [[H6942G\|קְדַשְׁתִּ֑י]][[H9031\|ךָ]] [[H0428\|אֵ֚לֶּה]] [[H6227\|עָשָׁ֣ן]] [[H9003\|בְּ]][[H0639H\|אַפִּ֔]][[H9020\|י]] [[H0784\|אֵ֥שׁ]] [[H3344\|יֹקֶ֖דֶת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.4|<< Isaiah 65:4]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.6|Isaiah 65:6 >>]]</td></tr></table>
 

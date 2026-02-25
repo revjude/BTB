@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thanksgiving and Prayer
+type: Pericope
 pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 1
 book/chapter: "[[Col.1|Colossians 1]]"
-genre:
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 12
 verses:
 - "[[Col.1.3]]"
 - "[[Col.1.4]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Col.1.14]]"
 ---
 
-[[Col.1|Colossians 1:3 - Colossians 1:14]]
+<small>[[Col.1|Colossians 1:3-14]]</small>
 *Thanksgiving and Prayer*
 
 [[Col.1.3|3]] We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,

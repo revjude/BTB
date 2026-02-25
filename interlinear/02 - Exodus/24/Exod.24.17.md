@@ -1,8 +1,66 @@
+---
+title: Exodus 24:17
+type: Verse
+kjv: "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel."
+bsb: "And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites."
+hebrew: "וּמַרְאֵה֙ כְּב֣וֹד יְהוָ֔ה כְּאֵ֥שׁ אֹכֶ֖לֶת בְּרֹ֣אשׁ הָהָ֑ר לְעֵינֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.24.12 Moses on the Mountain|Moses on the Mountain]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H4758]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:17**<big><big>[[Exod.24.12 Moses on the Mountain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sight of the glory of the LORD [was] like devouring fire on the top of the mount in the eyes of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4758\|מַרְאֵה֙]] [[H3519\|כְּב֣וֹד]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כְּ]][[H0784\|אֵ֥שׁ]] [[H0398\|אֹכֶ֖לֶת]] [[H9003\|בְּ]][[H7218I\|רֹ֣אשׁ]] [[H9009\|הָ]][[H2022G\|הָ֑ר]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic MIRACLES|MIRACLES]] • [[topic SINAI|SINAI]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.16|<< Exodus 24:16]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.18|Exodus 24:18 >>]]</td></tr></table>
 

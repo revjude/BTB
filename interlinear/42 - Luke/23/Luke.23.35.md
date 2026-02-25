@@ -1,10 +1,67 @@
+---
+title: Luke 23:35
+type: Verse
+kjv: "And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God."
+bsb: "The people stood watching, and the rulers sneered at Him, saying, “He saved others; let Him save Himself if He is the Christ of God, the Chosen One.”"
+greek: "καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες σὺν αὐτοῖς λέγοντες· ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς ὁ τοῦ θεοῦ ὁ ἐκλεκτός.¶"
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2334]]"
+- "[[G1592]]"
+- "[[G1161]]"
+- "[[G0758]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0243]]"
+- "[[G4982]]"
+- "[[G1438]]"
+- "[[G1487G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G2316]]"
+- "[[G1588]]"
+texts:
+- NKO
+- k
+- ko
+- no
+---
+
 **Luke 23:35**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the people stood beholding. And the rulers also with them derided [him], saying, He saved others; let him save himself, if he be Christ, the chosen of God.
 <small><sub>**BSB:**</sub></small>
 The people stood watching, and the rulers sneered at Him, saying, “He saved others; let Him save Himself if He is the Christ of God, the Chosen One.”
-<small><sub>**Literal:**</sub></small>
-And had stood the people beholding. Were deriding [Him] then also the rulers with them saying; Others He saved, he should save Himself if this is the Christ <the> <the> of God the Chosen [One].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.34|<< Luke 23:34]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.36|Luke 23:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2476\|εἱστήκει]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G2334\|θεωρῶν.]]  [[G1592\|ἐξεμυκτήριζον]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0758\|ἄρχοντες]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγοντες·]]  [[G0243\|ἄλλους]]  [[G4982\|ἔσωσεν,]]  [[G4982\|σωσάτω]]  [[G1438\|ἑαυτόν,]]  [[G1487G\|εἰ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ὁ]]  [[G1588\|ἐκλεκτός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic SCOFFING|SCOFFING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.34|<< Luke 23:34]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.36|Luke 23:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

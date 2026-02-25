@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 21:13
+type: Verse
+kjv: "And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great are his mercies: but let me not fall into the hand of man."
+bsb: "David answered Gad, “I am deeply distressed. Please, let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hands of men.”"
+hebrew: "וַיֹּ֧אמֶר דָּוִ֛יד אֶל־ גָּ֖ד צַר־ לִ֣י מְאֹ֑ד אֶפְּלָה־ נָּ֣א בְיַד־ יְהוָ֗ה כִּֽי־ רַבִּ֤ים רַחֲמָיו֙ מְאֹ֔ד וּבְיַד־ אָדָ֖ם אַל־ אֶפֹּֽל׃"
+pericope: "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHOICE|CHOICE]]"
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1410H]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3966]]"
+- "[[H5307G]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H7356B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H0408]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:13**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great [are] his mercies: but let me not fall into the hand of man.
 <small><sub>**BSB:**</sub></small>
 David answered Gad, “I am deeply distressed. Please, let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hands of men.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H1732\|דָּוִ֛יד]] [[H0413\|אֶל]][[H9014\|־]] [[H1410H\|גָּ֖ד]] [[H6862B\|צַר]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H3966\|מְאֹ֑ד]] [[H5307G\|אֶפְּלָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7227A\|רַבִּ֤ים]] [[H7356B\|רַחֲמָי]][[H9023\|ו֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H0120G\|אָדָ֖ם]] [[H0408\|אַל]][[H9014\|־]] [[H5307G\|אֶפֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHOICE|CHOICE]] • [[topic GAD|GAD]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.12|<< 1 Chronicles 21:12]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.14|1 Chronicles 21:14 >>]]</td></tr></table>
 

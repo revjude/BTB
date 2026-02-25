@@ -1,8 +1,59 @@
+---
+title: Numbers 1:4
+type: Verse
+kjv: "And with you there shall be a man of every tribe; every one head of the house of his fathers."
+bsb: "And one man from each tribe, the head of each family, must be there with you."
+hebrew: "וְאִתְּכֶ֣ם יִהְי֔וּ אִ֥ישׁ אִ֖ישׁ לַמַּטֶּ֑ה אִ֛ישׁ רֹ֥אשׁ לְבֵית־ אֲבֹתָ֖יו הֽוּא׃"
+pericope: "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H7218H]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:4**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with you there shall be a man of every tribe; every one head of the house of his fathers.
 <small><sub>**BSB:**</sub></small>
 And one man from each tribe, the head of each family, must be there with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0854\|אִתְּ]][[H9036\|כֶ֣ם]] [[H1961\|יִהְי֔וּ]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִ֖ישׁ]] [[H9005\|לַ]][[H4294H\|מַּטֶּ֑ה]] [[H0376G\|אִ֛ישׁ]] [[H7218H\|רֹ֥אשׁ]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אֲבֹתָ֖י]][[H9023\|ו]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.3|<< Numbers 1:3]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.5|Numbers 1:5 >>]]</td></tr></table>
 

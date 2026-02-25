@@ -1,8 +1,71 @@
+---
+title: 2 Kings 2:23
+type: Verse
+kjv: "And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head."
+bsb: "From there, Elisha went up to Bethel, and as he was walking up the road, a group of boys came out of the city and jeered at him, chanting, “Go up, you baldhead! Go up, you baldhead!”"
+hebrew: "וַיַּ֥עַל מִשָּׁ֖ם בֵּֽית־ אֵ֑ל וְה֣וּא׀ עֹלֶ֣ה בַדֶּ֗רֶךְ וּנְעָרִ֤ים קְטַנִּים֙ יָצְא֣וּ מִן־ הָעִ֔יר וַיִּתְקַלְּסוּ־ בוֹ֙ וַיֹּ֣אמְרוּ ל֔וֹ עֲלֵ֥ה קֵרֵ֖חַ עֲלֵ֥ה קֵרֵֽחַ׃"
+pericope: "[[2Kgs.2.23 Elisha Mocked|Elisha Mocked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DERISION|DERISION]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H5288]]"
+- "[[H6996A]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7046]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H7142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:23**<big><big>[[2Kgs.2.23 Elisha Mocked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.
 <small><sub>**BSB:**</sub></small>
 From there, Elisha went up to Bethel, and as he was walking up the road, a group of boys came out of the city and jeered at him, chanting, “Go up, you baldhead! Go up, you baldhead!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֥עַל]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H9002\|וְ]][[H1931\|ה֣וּא]][[H9015\|׀]] [[H5927G\|עֹלֶ֣ה]] [[H9003\|בַ]][[H1870L\|דֶּ֗רֶךְ]] [[H9002\|וּ]][[H5288\|נְעָרִ֤ים]] [[H6996A\|קְטַנִּים֙]] [[H3318G\|יָצְא֣וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H7046\|יִּתְקַלְּסוּ]][[H9014\|־]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H5927G\|עֲלֵ֥ה]] [[H7142\|קֵרֵ֖חַ]] [[H5927G\|עֲלֵ֥ה]] [[H7142\|קֵרֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic BETH-EL|BETH-EL]] • [[topic CHILDREN|CHILDREN]] • [[topic DERISION|DERISION]] • [[topic ELISHA|ELISHA]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.22|<< 2 Kings 2:22]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.24|2 Kings 2:24 >>]]</td></tr></table>
 

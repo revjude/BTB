@@ -1,10 +1,56 @@
+---
+title: Matthew 26:66
+type: Verse
+kjv: "What think ye? They answered and said, He is guilty of death."
+bsb: "What do you think?” “He deserves to die,” they answered."
+greek: "τί ὑμῖν δοκεῖ; οἱ δὲ ἀποκριθέντες εἶπαν· ἔνοχος θανάτου ἐστίν.¶"
+pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic VERDICT|VERDICT]]"
+strongs:
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1380]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G1777]]"
+- "[[G2288]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 26:66**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What think ye? They answered and said, He is guilty of death.
 <small><sub>**BSB:**</sub></small>
 What do you think?” “He deserves to die,” they answered.
-<small><sub>**Literal:**</sub></small>
-What you do think? <the> And answering they said; Deserving of death He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.65|<< Matthew 26:65]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.67|Matthew 26:67 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G4771\|ὑμῖν]]  [[G1380\|δοκεῖ;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθέντες]]  [[G2036\|εἶπαν·]]  [[G1777\|ἔνοχος]]  [[G2288\|θανάτου]]  [[G1510\|ἐστίν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic VERDICT|VERDICT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.65|<< Matthew 26:65]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.67|Matthew 26:67 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

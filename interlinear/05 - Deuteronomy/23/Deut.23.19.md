@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 23:19
+type: Verse
+kjv: "Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:"
+bsb: "Do not charge your brother interest on money, food, or any other type of loan."
+hebrew: "לֹא־ תַשִּׁ֣יךְ לְאָחִ֔יךָ נֶ֥שֶׁךְ כֶּ֖סֶף נֶ֣שֶׁךְ אֹ֑כֶל נֶ֕שֶׁךְ כָּל־ דָּבָ֖ר אֲשֶׁ֥ר יִשָּֽׁךְ׃"
+pericope: "[[Deut.23.15 Miscellaneous Laws|Miscellaneous Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5391B]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H5392]]"
+- "[[H3701G]]"
+- "[[H0400]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:19**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
 <small><sub>**BSB:**</sub></small>
 Do not charge your brother interest on money, food, or any other type of loan.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H5391B\|תַשִּׁ֣יךְ]] [[H9005\|לְ]][[H0251I\|אָחִ֔י]][[H9021\|ךָ]] [[H5392\|נֶ֥שֶׁךְ]] [[H3701G\|כֶּ֖סֶף]] [[H5392\|נֶ֣שֶׁךְ]] [[H0400\|אֹ֑כֶל]] [[H5392\|נֶ֕שֶׁךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H5391B\|יִשָּֽׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREDITOR|CREDITOR]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic MONEY|MONEY]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.18|<< Deuteronomy 23:18]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.20|Deuteronomy 23:20 >>]]</td></tr></table>
 

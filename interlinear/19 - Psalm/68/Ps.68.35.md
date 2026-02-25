@@ -1,8 +1,65 @@
+---
+title: Psalm 68:35
+type: Verse
+kjv: "O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God."
+bsb: "O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!"
+hebrew: "נ֤וֹרָ֥א אֱלֹהִ֗ים מִֽמִּקְדָּ֫שֶׁ֥יךָ אֵ֤ל יִשְׂרָאֵ֗ל ה֤וּא נֹתֵ֨ן׀ עֹ֖ז וְתַעֲצֻמ֥וֹת לָעָ֗ם בָּר֥וּךְ אֱלֹהִֽים׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H3372H]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H4720]]"
+- "[[H9021]]"
+- "[[H0410G]]"
+- "[[H3478]]"
+- "[[H1931]]"
+- "[[H5414G]]"
+- "[[H9015]]"
+- "[[H5797]]"
+- "[[H9002]]"
+- "[[H8592]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:35**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, [thou art] terrible out of thy holy places: the God of Israel [is] he that giveth strength and power unto [his] people. Blessed [be] God.
 <small><sub>**BSB:**</sub></small>
 O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!
+<small><sub>**Hebrew:**</sub></small>
+[[H3372H\|נ֤וֹרָ֥א]] [[H0430G\|אֱלֹהִ֗ים]] [[H9006\|מִֽ]][[H4720\|מִּקְדָּ֫שֶׁ֥י]][[H9021\|ךָ]] [[H0410G\|אֵ֤ל]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H1931\|ה֤וּא]] [[H5414G\|נֹתֵ֨ן]][[H9015\|׀]] [[H5797\|עֹ֖ז]] [[H9002\|וְ]][[H8592\|תַעֲצֻמ֥וֹת]] [[H9005\|לָ]][[H5971A\|עָ֗ם]] [[H1288\|בָּר֥וּךְ]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.34|<< Psalms 68:34]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.0|Psalms 69:0 >>]]</td></tr></table>
 

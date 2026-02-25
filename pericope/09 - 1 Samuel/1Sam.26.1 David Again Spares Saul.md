@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Again Spares Saul
+type: Pericope
 pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 26
 book/chapter: "[[1Sam.26|1 Samuel 26]]"
-genre:
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[1Sam.26.1]]"
 - "[[1Sam.26.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Sam.26.12]]"
 ---
 
-[[1Sam.26|1 Samuel 26:1 - 1 Samuel 26:12]]
+<small>[[1Sam.26|1 Samuel 26:1-12]]</small>
 *David Again Spares Saul*
 
 [[1Sam.26.1|1]] And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, \[which is\] before Jeshimon?

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Dan
+type: Pericope
 pericope: "[[Num.26.42 The Tribe of Dan|The Tribe of Dan]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,12 +25,13 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 2
 verses:
 - "[[Num.26.42]]"
 - "[[Num.26.43]]"
 ---
 
-[[Num.26|Numbers 26:42 - Numbers 26:43]]
+<small>[[Num.26|Numbers 26:42-43]]</small>
 *The Tribe of Dan*
 
 [[Num.26.42|42]] These \[are\] the sons of Dan after their families: of Shuham, the family of the Shuhamites. These \[are\] the families of Dan after their families.

@@ -1,10 +1,61 @@
+---
+title: John 8:41
+type: Verse
+kjv: "Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God."
+bsb: "You are doing the works of your father.” “We are not illegitimate children,” they declared. “Our only Father is God Himself.”"
+jesus_said: "Ye do the deeds of your father."
+greek: "ὑμεῖς ποιεῖτε τὰ ἔργα τοῦ πατρὸς ὑμῶν. εἶπαν οὖν αὐτῷ· ἡμεῖς ἐκ πορνείας οὐ γεγεννήμεθα· ἕνα πατέρα ἔχομεν τὸν θεόν.¶"
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3962]]"
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G4202]]"
+- "[[G3756]]"
+- "[[G1080]]"
+- "[[G1520]]"
+- "[[G2192]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 8:41**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, [even] God.
 <small><sub>**BSB:**</sub></small>
 You are doing the works of your father.” “We are not illegitimate children,” they declared. “Our only Father is God Himself.”
-<small><sub>**Literal:**</sub></small>
-You yourselves are doing the works of the father of you. They said therefore to Him; We ourselves of sexual immorality not have been born; one Father we have <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.40|<< John 8:40]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.42|John 8:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G4771\|ὑμῶν.]]  [[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G3165\|ἡμεῖς]]  [[G1537\|ἐκ]]  [[G4202\|πορνείας]]  [[G3756\|οὐ]]  [[G1080\|γεγεννήμεθα·]]  [[G1520\|ἕνα]]  [[G3962\|πατέρα]]  [[G2192\|ἔχομεν]]  [[G3588\|τὸν]]  [[G2316\|θεόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SATAN|SATAN]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.40|<< John 8:40]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.42|John 8:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

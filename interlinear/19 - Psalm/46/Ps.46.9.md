@@ -1,8 +1,63 @@
+---
+title: Psalm 46:9
+type: Verse
+kjv: "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire."
+bsb: "He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire."
+hebrew: "מַשְׁבִּ֥ית מִלְחָמוֹת֮ עַד־ קְצֵ֪ה הָ֫אָ֥רֶץ קֶ֣שֶׁת יְ֭שַׁבֵּר וְקִצֵּ֣ץ חֲנִ֑ית עֲ֝גָל֗וֹת יִשְׂרֹ֥ף בָּאֵֽשׁ׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7673A]]"
+- "[[H4421]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7198]]"
+- "[[H7665]]"
+- "[[H9001]]"
+- "[[H7112]]"
+- "[[H2595]]"
+- "[[H5699]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:9**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.
 <small><sub>**BSB:**</sub></small>
 He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H7673A\|מַשְׁבִּ֥ית]] [[H4421\|מִלְחָמוֹת֮]] [[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֪ה]] [[H9009\|הָ֫]][[H0776G\|אָ֥רֶץ]] [[H7198\|קֶ֣שֶׁת]] [[H7665\|יְ֭שַׁבֵּר]] [[H9001\|וְ]][[H7112\|קִצֵּ֣ץ]] [[H2595\|חֲנִ֑ית]] [[H5699\|עֲ֝גָל֗וֹת]] [[H8313\|יִשְׂרֹ֥ף]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.8|<< Psalms 46:8]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.10|Psalms 46:10 >>]]</td></tr></table>
 

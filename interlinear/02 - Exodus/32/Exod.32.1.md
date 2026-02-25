@@ -1,8 +1,85 @@
+---
+title: Exodus 32:1
+type: Verse
+kjv: "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him."
+bsb: "Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”"
+hebrew: "וַיַּ֣רְא הָעָ֔ם כִּֽי־ בֹשֵׁ֥שׁ מֹשֶׁ֖ה לָרֶ֣דֶת מִן־ הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל־ אַהֲרֹ֗ן וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם׀ עֲשֵׂה־ לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי־ זֶ֣ה׀ מֹשֶׁ֣ה הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֙נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה־ הָ֥יָה לֽוֹ׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H2022G]]"
+- "[[H6950]]"
+- "[[H5921A]]"
+- "[[H0175]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H6213H]]"
+- "[[H9035]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H6440G]]"
+- "[[H9025]]"
+- "[[H2088]]"
+- "[[H0376G]]"
+- "[[H5927H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:1**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for [as for] this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 <small><sub>**BSB:**</sub></small>
 Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0954\|בֹשֵׁ֥שׁ]] [[H4872\|מֹשֶׁ֖ה]] [[H9005\|לָ]][[H3381\|רֶ֣דֶת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֑ר]] [[H9001\|וַ]][[H6950\|יִּקָּהֵ֨ל]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H5921A\|עַֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H6965B\|ק֣וּם]][[H9015\|׀]] [[H6213H\|עֲשֵׂה]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H0430\|אֱלֹהִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H1980G\|יֵֽלְכוּ֙]] [[H9005\|לְ]][[H6440G\|פָנֵ֔י]][[H9025\|נוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2088\|זֶ֣ה]][[H9015\|׀]] [[H4872\|מֹשֶׁ֣ה]] [[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5927H\|הֶֽעֱלָ֙]][[H9035\|נוּ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H3808\|לֹ֥א]] [[H3045\|יָדַ֖עְנוּ]] [[H4100\|מֶה]][[H9014\|־]] [[H1961\|הָ֥יָה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.18|<< Exodus 31:18]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.2|Exodus 32:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

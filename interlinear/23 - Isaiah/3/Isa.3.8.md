@@ -1,8 +1,64 @@
+---
+title: Isaiah 3:8
+type: Verse
+kjv: "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory."
+bsb: "For Jerusalem has stumbled and Judah has fallen because they spoke and acted against the LORD, defying His glorious presence."
+hebrew: "כִּ֤י כָשְׁלָה֙ יְר֣וּשָׁלִַ֔ם וִיהוּדָ֖ה נָפָ֑ל כִּֽי־ לְשׁוֹנָ֤ם וּמַֽעַלְלֵיהֶם֙ אֶל־ יְהוָ֔ה לַמְר֖וֹת עֵנֵ֥י כְבוֹדֽוֹ׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic EYE|EYE]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3782]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H5307G]]"
+- "[[H9014]]"
+- "[[H3956G]]"
+- "[[H9028]]"
+- "[[H4611]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4784]]"
+- "[[H5869I]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:8**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings [are] against the LORD, to provoke the eyes of his glory.
 <small><sub>**BSB:**</sub></small>
 For Jerusalem has stumbled and Judah has fallen because they spoke and acted against the LORD, defying His glorious presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3782\|כָשְׁלָה֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9002\|וִ]][[H3063G\|יהוּדָ֖ה]] [[H5307G\|נָפָ֑ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3956G\|לְשׁוֹנָ֤]][[H9028\|ם]] [[H9002\|וּ]][[H4611\|מַֽעַלְלֵי]][[H9028\|הֶם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H4784\|מְר֖וֹת]] [[H5869I\|עֵנֵ֥י]] [[H3519\|כְבוֹדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic EYE|EYE]] • [[topic FAMINE|FAMINE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.7|<< Isaiah 3:7]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.9|Isaiah 3:9 >>]]</td></tr></table>
 

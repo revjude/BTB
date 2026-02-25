@@ -1,8 +1,65 @@
+---
+title: Numbers 35:33
+type: Verse
+kjv: "So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it."
+bsb: "Do not pollute the land where you live, for bloodshed pollutes the land, and no atonement can be made for the land on which the blood is shed, except by the blood of the one who shed it."
+hebrew: "וְלֹֽא־ תַחֲנִ֣יפוּ אֶת־ הָאָ֗רֶץ אֲשֶׁ֤ר אַתֶּם֙ בָּ֔הּ כִּ֣י הַדָּ֔ם ה֥וּא יַחֲנִ֖יף אֶת־ הָאָ֑רֶץ וְלָאָ֣רֶץ לֹֽא־ יְכֻפַּ֗ר לַדָּם֙ אֲשֶׁ֣ר שֻׁפַּךְ־ בָּ֔הּ כִּי־ אִ֖ם בְּדַ֥ם שֹׁפְכֽוֹ׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2610]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H1818]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H8210H]]"
+- "[[H0518B]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:33**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So ye shall not pollute the land wherein ye [are]: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.
 <small><sub>**BSB:**</sub></small>
 Do not pollute the land where you live, for bloodshed pollutes the land, and no atonement can be made for the land on which the blood is shed, except by the blood of the one who shed it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2610\|תַחֲנִ֣יפוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0859D\|אַתֶּם֙]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H1818\|דָּ֔ם]] [[H1931\|ה֥וּא]] [[H2610\|יַחֲנִ֖יף]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H9005\|לָ]][[H0776G\|אָ֣רֶץ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3722A\|יְכֻפַּ֗ר]] [[H9005\|לַ]][[H1818\|דָּם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8210H\|שֻׁפַּךְ]][[H9014\|־]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0518B\|אִ֖ם]] [[H9003\|בְּ]][[H1818\|דַ֥ם]] [[H8210H\|שֹׁפְכֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.32|<< Numbers 35:32]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.34|Numbers 35:34 >>]]</td></tr></table>
 

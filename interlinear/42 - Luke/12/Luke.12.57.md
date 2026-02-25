@@ -1,10 +1,53 @@
+---
+title: Luke 12:57
+type: Verse
+kjv: "Yea, and why even of yourselves judge ye not what is right?"
+bsb: "And why don’t you judge for yourselves what is right?"
+jesus_said: "Yea, and why even of yourselves judge ye not what is right?"
+greek: "τί δὲ καὶ ἀφ᾽ ἑαυτῶν οὐ κρίνετε τὸ δίκαιον;"
+pericope: "[[Luke.12.57 Reconciling with an Adversary|Reconciling with an Adversary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G3756]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Luke 12:57**<big><big>[[Luke.12.57 Reconciling with an Adversary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, and why even of yourselves judge ye not what is right?
 <small><sub>**BSB:**</sub></small>
 And why don’t you judge for yourselves what is right?
-<small><sub>**Literal:**</sub></small>
-Why now even for yourselves not judge you what [is] right?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.56|<< Luke 12:56]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.58|Luke 12:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτῶν]]  [[G3756\|οὐ]]  [[G2919\|κρίνετε]]  [[G3588\|τὸ]]  [[G1342\|δίκαιον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.56|<< Luke 12:56]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.58|Luke 12:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

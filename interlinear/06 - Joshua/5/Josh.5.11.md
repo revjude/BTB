@@ -1,8 +1,58 @@
+---
+title: Joshua 5:11
+type: Verse
+kjv: "And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day."
+bsb: "The day after the Passover, on that very day, they ate unleavened bread and roasted grain from the produce of the land."
+hebrew: "וַיֹּ֨אכְל֜וּ מֵעֲב֥וּר הָאָ֛רֶץ מִמָּֽחֳרַ֥ת הַפֶּ֖סַח מַצּ֣וֹת וְקָל֑וּי בְּעֶ֖צֶם הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CORN|CORN]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H5669]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4283]]"
+- "[[H6453]]"
+- "[[H4682]]"
+- "[[H9002]]"
+- "[[H7033]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:11**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched [corn] in the selfsame day.
 <small><sub>**BSB:**</sub></small>
 The day after the Passover, on that very day, they ate unleavened bread and roasted grain from the produce of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|יֹּ֨אכְל֜וּ]] [[H9006\|מֵ]][[H5669\|עֲב֥וּר]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H9006\|מִ]][[H4283\|מָּֽחֳרַ֥ת]] [[H9009\|הַ]][[H6453\|פֶּ֖סַח]] [[H4682\|מַצּ֣וֹת]] [[H9002\|וְ]][[H7033\|קָל֑וּי]] [[H9003\|בְּ]][[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORN|CORN]] • [[topic GILGAL|GILGAL]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.10|<< Joshua 5:10]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.12|Joshua 5:12 >>]]</td></tr></table>
 

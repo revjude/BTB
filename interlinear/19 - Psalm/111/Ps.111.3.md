@@ -1,8 +1,55 @@
+---
+title: Psalm 111:3
+type: Verse
+kjv: "His work is honourable and glorious: and his righteousness endureth for ever."
+bsb: "Splendid and majestic is His work; His righteousness endures forever."
+hebrew: "הוֹד־ וְהָדָ֥ר פָּֽעֳל֑וֹ וְ֝צִדְקָת֗וֹ עֹמֶ֥דֶת לָעַֽד׃"
+pericope: "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 111
+book/chapter: "[[Ps.111|Psalm 111]]"
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1935]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1926]]"
+- "[[H6467]]"
+- "[[H9023]]"
+- "[[H6666]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 111:3**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His work [is] honourable and glorious: and his righteousness endureth for ever.
 <small><sub>**BSB:**</sub></small>
 Splendid and majestic is His work; His righteousness endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1935\|הוֹד]][[H9014\|־]] [[H9002\|וְ]][[H1926\|הָדָ֥ר]] [[H6467\|פָּֽעֳל֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H6666\|צִדְקָת֗]][[H9023\|וֹ]] [[H5975G\|עֹמֶ֥דֶת]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.2|<< Psalms 111:2]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.4|Psalms 111:4 >>]]</td></tr></table>
 

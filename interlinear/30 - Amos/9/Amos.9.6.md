@@ -1,8 +1,69 @@
+---
+title: Amos 9:6
+type: Verse
+kjv: "It is he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name."
+bsb: "He builds His upper rooms in the heavens and founds His vault upon the earth. He summons the waters of the sea and pours them over the face of the earth. The LORD is His name."
+hebrew: "הַבּוֹנֶ֤ה בַשָּׁמַ֙יִם֙ מַעֲלוֹתָ֔יו וַאֲגֻדָּת֖וֹ עַל־ אֶ֣רֶץ יְסָדָ֑הּ הַקֹּרֵ֣א לְמֵֽי־ הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל־ פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic EVAPORATION|EVAPORATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9009]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H4609B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0092]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3245]]"
+- "[[H9034]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H4325G]]"
+- "[[H3220G]]"
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H9038]]"
+- "[[H6440J]]"
+- "[[H3068G]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Amos 9:6**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD [is] his name.
 <small><sub>**BSB:**</sub></small>
 He builds His upper rooms in the heavens and founds His vault upon the earth. He summons the waters of the sea and pours them over the face of the earth. The LORD is His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1129\|בּוֹנֶ֤ה]] [[H9003\|בַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H4609B\|מַעֲלוֹתָ֔י]][[H9023\|ו]] [[H9002\|וַ]][[H0092\|אֲגֻדָּת֖]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3245\|יְסָדָ֑]][[H9034\|הּ]] [[H9009\|הַ]][[H7121G\|קֹּרֵ֣א]] [[H9005\|לְ]][[H4325G\|מֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֗ם]] [[H9001\|וַֽ]][[H8210G\|יִּשְׁפְּכֵ֛]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H3068G\|יְהוָ֥ה]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVAPORATION|EVAPORATION]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ He builds His upper rooms in the heavens and founds His vault upon the earth. He
 | name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
-[^1]: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: stair his  | **<big>[[H4609B|מַעֲלוֹת]]</big><big>[[H9023|וֹ]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: stair his  | **<big>[[H4609B|מַעֲלוֹת]]</big><big>[[H9023|וֹ]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מַעֲלוֹתָ֔ו</big></span>**
 

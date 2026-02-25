@@ -1,10 +1,64 @@
+---
+title: Revelation 9:6
+type: Verse
+kjv: "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them."
+bsb: "In those days men will seek death and will not find it; they will long to die, but death will escape them."
+greek: "Καὶ ἐν ταῖς ἡμέραις ἐκείναις ζητήσουσιν οἱ ἄνθρωποι τὸν θάνατον καὶ οὐ μὴ εὑρήσουσιν αὐτόν· καὶ ἐπιθυμήσουσιν ἀποθανεῖν, καὶ φεύγει ὁ θάνατος ἀπ᾽ αὐτῶν."
+pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2212]]"
+- "[[G0444]]"
+- "[[G2288]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G1937]]"
+- "[[G0599]]"
+- "[[G5343]]"
+- "[[G0575]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 9:6**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
 <small><sub>**BSB:**</sub></small>
 In those days men will seek death and will not find it; they will long to die, but death will escape them.
-<small><sub>**Literal:**</sub></small>
-And in the days those will seek <the> men <the> death and certainly no more will find it; and they will long to die, and he flees <the> death from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.5|<< Revelation 9:5]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.7|Revelation 9:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις]]  [[G2212\|ζητήσουσιν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G3588\|τὸν]]  [[G2288\|θάνατον]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2147\|εὑρήσουσιν]]  [[G0846\|αὐτόν·]]  [[G2532\|καὶ]]  [[G1937\|ἐπιθυμήσουσιν]]  [[G0599\|ἀποθανεῖν,]]  [[G2532\|καὶ]]  [[G5343\|φεύγει]]  [[G3588\|ὁ]]  [[G2288\|θάνατος]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic LOCUST|LOCUST]] • [[topic SUICIDE|SUICIDE]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.5|<< Revelation 9:5]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.7|Revelation 9:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 9:6** is...
 > $\quad$ alluding to: [[LXX.Jer.8.3|Jer 8:3]]

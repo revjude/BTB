@@ -1,8 +1,65 @@
+---
+title: Numbers 10:2
+type: Verse
+kjv: "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps."
+bsb: "“Make two trumpets of hammered silver to be used for calling the congregation and for having the camps set out."
+hebrew: "עֲשֵׂ֣ה לְךָ֗ שְׁתֵּי֙ חֲצֽוֹצְרֹ֣ת כֶּ֔סֶף מִקְשָׁ֖ה תַּעֲשֶׂ֣ה אֹתָ֑ם וְהָי֤וּ לְךָ֙ לְמִקְרָ֣א הָֽעֵדָ֔ה וּלְמַסַּ֖ע אֶת־ הַֽמַּחֲנֽוֹת׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8147]]"
+- "[[H2689]]"
+- "[[H3701G]]"
+- "[[H4749]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4744]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H9002]]"
+- "[[H4550]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:2**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.
 <small><sub>**BSB:**</sub></small>
 “Make two trumpets of hammered silver to be used for calling the congregation and for having the camps set out.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|עֲשֵׂ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H8147\|שְׁתֵּי֙]] [[H2689\|חֲצֽוֹצְרֹ֣ת]] [[H3701G\|כֶּ֔סֶף]] [[H4749\|מִקְשָׁ֖ה]] [[H6213H\|תַּעֲשֶׂ֣ה]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H4744\|מִקְרָ֣א]] [[H9009\|הָֽ]][[H5712\|עֵדָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H4550\|מַסַּ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SILVER|SILVER]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.1|<< Numbers 10:1]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.3|Numbers 10:3 >>]]</td></tr></table>
 

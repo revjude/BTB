@@ -1,8 +1,76 @@
+---
+title: Ezekiel 20:47
+type: Verse
+kjv: "And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein."
+bsb: "Say to the forest of the Negev: Hear the word of the LORD! This is what the Lord GOD says: I am about to ignite in you a fire, and it will devour all your trees, both green and dry. The blazing flame will not be quenched, and by it every face from south to north will be scorched."
+hebrew: "וְאָֽמַרְתָּ֙ לְיַ֣עַר הַנֶּ֔גֶב שְׁמַ֖ע דְּבַר־ יְהוָ֑ה כֹּֽה־ אָמַ֣ר אֲדֹנָ֣י יְהוִ֡ה הִנְנִ֣י מַֽצִּית־ בְּךָ֣׀ אֵ֡שׁ וְאָכְלָ֣ה בְךָ֣ כָל־ עֵֽץ־ לַח֩ וְכָל־ עֵ֨ץ יָבֵ֤שׁ לֹֽא־ תִכְבֶּה֙ לַהֶ֣בֶת שַׁלְהֶ֔בֶת וְנִצְרְבוּ־ בָ֥הּ כָּל־ פָּנִ֖ים מִנֶּ֥גֶב צָפֽוֹנָה׃"
+pericope: "[[Ezek.20.45 A Prophecy against the South|A Prophecy against the South]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3293A]]"
+- "[[H9009]]"
+- "[[H5045G]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3341]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H3892]]"
+- "[[H9002]]"
+- "[[H3002]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H3852]]"
+- "[[H7957]]"
+- "[[H6866]]"
+- "[[H9034]]"
+- "[[H6440H]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:47**<big><big>[[Ezek.20.45 A Prophecy against the South|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.
 <small><sub>**BSB:**</sub></small>
 Say to the forest of the Negev: Hear the word of the LORD! This is what the Lord GOD says: I am about to ignite in you a fire, and it will devour all your trees, both green and dry. The blazing flame will not be quenched, and by it every face from south to north will be scorched.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H9005\|לְ]][[H3293A\|יַ֣עַר]] [[H9009\|הַ]][[H5045G\|נֶּ֔גֶב]] [[H8085G\|שְׁמַ֖ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֡ה]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H3341\|מַֽצִּית]][[H9014\|־]] [[H9003\|בְּ]][[H9031\|ךָ֣]][[H9015\|׀]] [[H0784\|אֵ֡שׁ]] [[H9001\|וְ]][[H0398\|אָכְלָ֣ה]] [[H9003\|בְ]][[H9031\|ךָ֣]] [[H3605\|כָל]][[H9014\|־]] [[H6086H\|עֵֽץ]][[H9014\|־]] [[H3892\|לַח֩]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6086H\|עֵ֨ץ]] [[H3002\|יָבֵ֤שׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3518\|תִכְבֶּה֙]] [[H3852\|לַהֶ֣בֶת]] [[H7957\|שַׁלְהֶ֔בֶת]] [[H9001\|וְ]][[H6866\|נִצְרְבוּ]][[H9014\|־]] [[H9003\|בָ֥]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H6440H\|פָּנִ֖ים]] [[H9006\|מִ]][[H5045G\|נֶּ֥גֶב]] [[H6828G\|צָפֽוֹנָ]][[H9011\|ה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.46|<< Ezekiel 20:46]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.48|Ezekiel 20:48 >>]]</td></tr></table>
 

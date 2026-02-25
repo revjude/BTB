@@ -1,10 +1,58 @@
+---
+title: Mark 1:32
+type: Verse
+kjv: "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils."
+bsb: "That evening, after sunset, people brought to Jesus all the sick and demon-possessed,"
+greek: "Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους·"
+pericope: "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3753]]"
+- "[[G1416]]"
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G5342]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G2560]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G1139]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 1:32**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.
 <small><sub>**BSB:**</sub></small>
 That evening, after sunset, people brought to Jesus all the sick and demon-possessed,
-<small><sub>**Literal:**</sub></small>
-When evening now having come, when went down the sun, they were bringing to Him all those sick being and those being demonised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.31|<< Mark 1:31]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.33|Mark 1:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης,]]  [[G3753\|ὅτε]]  [[G1416\|ἔδυ]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος,]]  [[G5342\|ἔφερον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1139\|δαιμονιζομένους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.31|<< Mark 1:31]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.33|Mark 1:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Judges 5:16
+type: Verse
+kjv: "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart."
+bsb: "Why did you sit among the sheepfolds to hear the whistling for the flocks? In the clans of Reuben there was great indecision."
+hebrew: "לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים לִפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדוֹלִ֖ים חִקְרֵי־ לֵֽב׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3427]]"
+- "[[H0996H]]"
+- "[[H9009]]"
+- "[[H4942]]"
+- "[[H8085G]]"
+- "[[H8292]]"
+- "[[H5739]]"
+- "[[H6391]]"
+- "[[H7205]]"
+- "[[H1419A]]"
+- "[[H2714]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:16**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben [there were] great searchings of heart.
 <small><sub>**BSB:**</sub></small>
 Why did you sit among the sheepfolds to hear the whistling for the flocks? In the clans of Reuben there was great indecision.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֣]][[H4100\|מָּה]] [[H3427\|יָשַׁ֗בְתָּ]] [[H0996H\|בֵּ֚ין]] [[H9009\|הַֽ]][[H4942\|מִּשְׁפְּתַ֔יִם]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֖עַ]] [[H8292\|שְׁרִק֣וֹת]] [[H5739\|עֲדָרִ֑ים]] [[H9005\|לִ]][[H6391\|פְלַגּ֣וֹת]] [[H7205\|רְאוּבֵ֔ן]] [[H1419A\|גְּדוֹלִ֖ים]] [[H2714\|חִקְרֵי]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic COUNTRY|COUNTRY]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic REUBENITES|REUBENITES]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.15|<< Judges 5:15]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.17|Judges 5:17 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Proverbs 8:12
+type: Verse
+kjv: "I wisdom dwell with prudence, and find out knowledge of witty inventions."
+bsb: "I, wisdom, dwell together with prudence, and I find knowledge and discretion."
+hebrew: "אֲֽנִי־ חָ֭כְמָה שָׁכַ֣נְתִּי עָרְמָ֑ה וְדַ֖עַת מְזִמּ֣וֹת אֶמְצָֽא׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INVENTION|INVENTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0589]]"
+- "[[H9014]]"
+- "[[H2451]]"
+- "[[H7931]]"
+- "[[H6195]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H4209]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:12**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I wisdom dwell with prudence, and find out knowledge of witty inventions.
 <small><sub>**BSB:**</sub></small>
 I, wisdom, dwell together with prudence, and I find knowledge and discretion.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲֽנִי]][[H9014\|־]] [[H2451\|חָ֭כְמָה]] [[H7931\|שָׁכַ֣נְתִּי]] [[H6195\|עָרְמָ֑ה]] [[H9002\|וְ]][[H1847\|דַ֖עַת]] [[H4209\|מְזִמּ֣וֹת]] [[H4672\|אֶמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INVENTION|INVENTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.11|<< Proverbs 8:11]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.13|Proverbs 8:13 >>]]</td></tr></table>
 

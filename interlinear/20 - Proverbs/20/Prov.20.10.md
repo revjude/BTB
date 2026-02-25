@@ -1,8 +1,54 @@
+---
+title: Proverbs 20:10
+type: Verse
+kjv: "Divers weights, and divers measures, both of them are alike abomination to the LORD."
+bsb: "Differing weights and unequal measures—both are detestable to the LORD."
+hebrew: "אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם־ שְׁנֵיהֶֽם׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H0068H]]"
+- "[[H9002]]"
+- "[[H0374]]"
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:10**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Divers weights, [and] divers measures, both of them [are] alike abomination to the LORD.
 <small><sub>**BSB:**</sub></small>
 Differing weights and unequal measures—both are detestable to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0068H\|אֶ֣בֶן]] [[H9002\|וָ֭]][[H0068H\|אֶבֶן]] [[H0374\|אֵיפָ֣ה]] [[H9002\|וְ]][[H0374\|אֵיפָ֑ה]] [[H8441\|תּוֹעֲבַ֥ת]] [[H3068G\|יְ֝הוָ֗ה]] [[H1571\|גַּם]][[H9014\|־]] [[H8147\|שְׁנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HONESTY|HONESTY]] • [[topic MEASURE|MEASURE]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.9|<< Proverbs 20:9]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.11|Proverbs 20:11 >>]]</td></tr></table>
 

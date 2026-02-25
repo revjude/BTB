@@ -1,10 +1,60 @@
+---
+title: John 6:14
+type: Verse
+kjv: "Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world."
+bsb: "When the people saw the sign that Jesus had performed, they began to say, “Truly this is the Prophet who is to come into the world.”"
+greek: "Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ὁ Ἰησοῦς ἔλεγον ὅτι οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.¶"
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G0444]]"
+- "[[G1492H]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G4592]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0230]]"
+- "[[G4396]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2889]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **John 6:14**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
 <small><sub>**BSB:**</sub></small>
 When the people saw the sign that Jesus had performed, they began to say, “Truly this is the Prophet who is to come into the world.”
-<small><sub>**Literal:**</sub></small>
-The therefore people having seen what He had done sign <the> Jesus were saying that This is truly the prophet who is coming into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.13|<< John 6:13]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.15|John 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3767\|οὖν]]  [[G0444\|ἄνθρωποι]]  [[G1492H\|ἰδόντες]]  [[G3739\|ὃ]]  [[G4160G\|ἐποίησεν]]  [[G4592\|σημεῖον]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G0230\|ἀληθῶς]]  [[G3588\|ὁ]]  [[G4396\|προφήτης]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.13|<< John 6:13]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.15|John 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

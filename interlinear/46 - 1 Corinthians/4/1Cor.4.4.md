@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 4:4
+type: Verse
+kjv: "For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord."
+bsb: "My conscience is clear, but that does not vindicate me. It is the Lord who judges me."
+greek: "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα· ἀλλ᾽ οὐκ ἐν τούτῳ δεδικαίωμαι· ὁ δὲ ἀνακρίνων με κύριός ἐστιν."
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G6083]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1344]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0350]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:4**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
 <small><sub>**BSB:**</sub></small>
 My conscience is clear, but that does not vindicate me. It is the Lord who judges me.
-<small><sub>**Literal:**</sub></small>
-No [thing] for against myself I have been conscious of; yet not by this have I been justified; the [One] however judging me [the] Lord is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.3|<< 1 Corinthians 4:3]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.5|1 Corinthians 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|οὐδὲν]]  [[G1063\|γὰρ]]  [[G1473\|ἐμαυτῷ]]  [[G6083\|σύνοιδα·]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1344\|δεδικαίωμαι·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0350\|ἀνακρίνων]]  [[G3165\|με]]  [[G2962G\|κύριός]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.3|<< 1 Corinthians 4:3]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.5|1 Corinthians 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

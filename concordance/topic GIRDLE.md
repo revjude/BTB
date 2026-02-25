@@ -19,5 +19,5 @@
 
 → FIGURATIVE [[Isa.11.5|Isa 11:5]]; [[Isa.22.21|22:21]]; [[Eph.6.14|Eph 6:14]]
 
-→ SYMBOLICAL [[Jer.13.1|Jer 13:1]]-[[Jer.13.11|11]]; [[Acts.21.11|Ac 21:11]]; [[Rev.15.6|Re 15:6]]
+→ SYMBOLICAL [[Jer.13.1|Jer 13:1-11]]; [[Acts.21.11|Ac 21:11]]; [[Rev.15.6|Re 15:6]]
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 137:7
+type: Verse
+kjv: "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof."
+bsb: "Remember, O LORD, the sons of Edom on the day Jerusalem fell: “Destroy it,” they said, “tear it down to its foundations!”"
+hebrew: "זְכֹ֤ר יְהוָ֨ה׀ לִבְנֵ֬י אֱד֗וֹם אֵת֮ י֤וֹם יְֽרוּשָׁ֫לִָ֥ם הָ֭אֹ֣מְרִים עָ֤רוּ׀ עָ֑רוּ עַ֝֗ד הַיְס֥וֹד בָּֽהּ׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H2142]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0123G]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H3389]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H6168]]"
+- "[[H5704]]"
+- "[[H3247H]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:7**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase [it], rase [it, even] to the foundation thereof.
 <small><sub>**BSB:**</sub></small>
 Remember, O LORD, the sons of Edom on the day Jerusalem fell: “Destroy it,” they said, “tear it down to its foundations!”
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹ֤ר]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H9005\|לִ]][[H1121G\|בְנֵ֬י]] [[H0123G\|אֱד֗וֹם]] [[H0853\|אֵת֮]] [[H3117G\|י֤וֹם]] [[H3389\|יְֽרוּשָׁ֫לִָ֥ם]] [[H9009\|הָ֭]][[H0559\|אֹ֣מְרִים]] [[H6168\|עָ֤רוּ]][[H9015\|׀]] [[H6168\|עָ֑רוּ]] [[H5704\|עַ֝֗ד]] [[H9009\|הַ]][[H3247H\|יְס֥וֹד]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.6|<< Psalms 137:6]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.8|Psalms 137:8 >>]]</td></tr></table>
 

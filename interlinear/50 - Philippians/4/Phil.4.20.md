@@ -1,10 +1,50 @@
+---
+title: Philippians 4:20
+type: Verse
+kjv: "Now unto God and our Father be glory for ever and ever. Amen."
+bsb: "To our God and Father be glory forever and ever. Amen."
+greek: "τῷ δὲ θεῷ καὶ πατρὶ ἡμῶν ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[Phil.4.10 The Generosity of the Philippians|The Generosity of the Philippians]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1391]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Philippians 4:20**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now unto God and our Father [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 To our God and Father be glory forever and ever. Amen.
-<small><sub>**Literal:**</sub></small>
-To the now God and Father of us [is] [be] the glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.19|<< Philippians 4:19]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.21|Philippians 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3962\|πατρὶ]]  [[G3165\|ἡμῶν]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.19|<< Philippians 4:19]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.21|Philippians 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

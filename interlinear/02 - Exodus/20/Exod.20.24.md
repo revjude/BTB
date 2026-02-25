@@ -1,8 +1,78 @@
+---
+title: Exodus 20:24
+type: Verse
+kjv: "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee."
+bsb: "You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you."
+hebrew: "מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־ לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־ עֹלֹתֶ֙יךָ֙ וְאֶת־ שְׁלָמֶ֔יךָ אֶת־ צֹֽאנְךָ֖ וְאֶת־ בְּקָרֶ֑ךָ בְּכָל־ הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־ שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃"
+pericope: "[[Exod.20.22 Idolatry Forbidden|Idolatry Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H4196]]"
+- "[[H0127G]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H5930A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H2142]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 20:24**<big><big>[[Exod.20.22 Idolatry Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
 <small><sub>**BSB:**</sub></small>
 You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you.
+<small><sub>**Hebrew:**</sub></small>
+[[H4196\|מִזְבַּ֣ח]] [[H0127G\|אֲדָמָה֮]] [[H6213H\|תַּעֲשֶׂה]][[H9014\|־]] [[H9005\|לִּ]][[H9030\|י֒]] [[H9001\|וְ]][[H2076\|זָבַחְתָּ֣]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹלֹתֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8002\|שְׁלָמֶ֔י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹֽאנְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1241\|בְּקָרֶ֑]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2142\|אַזְכִּ֣יר]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמִ֔]][[H9020\|י]] [[H0935G\|אָב֥וֹא]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9001\|וּ]][[H1288\|בֵרַכְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic GOD|GOD]] • [[topic PEACE OFFERINGS|PEACE OFFERINGS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.23|<< Exodus 20:23]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.25|Exodus 20:25 >>]]</td></tr></table>
 

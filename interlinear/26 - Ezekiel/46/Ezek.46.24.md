@@ -1,8 +1,59 @@
+---
+title: Ezekiel 46:24
+type: Verse
+kjv: "Then said he unto me, These are the places of them that boil, where the ministers of the house shall boil the sacrifice of the people."
+bsb: "And he said to me, “These are the kitchens where those who minister at the temple will cook the sacrifices offered by the people.”"
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י אֵ֚לֶּה בֵּ֣ית הַֽמְבַשְּׁלִ֔ים אֲשֶׁ֧ר יְבַשְּׁלוּ־ שָׁ֛ם מְשָׁרְתֵ֥י הַבַּ֖יִת אֶת־ זֶ֥בַח הָעָֽם׃"
+pericope: "[[Ezek.46.19 The Courts for Boiling and Baking|The Courts for Boiling and Baking]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COOKING|COOKING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0428]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H1310]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H8334]]"
+- "[[H0853]]"
+- "[[H2077]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:24**<big><big>[[Ezek.46.19 The Courts for Boiling and Baking|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, These [are] the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.
 <small><sub>**BSB:**</sub></small>
 And he said to me, “These are the kitchens where those who minister at the temple will cook the sacrifices offered by the people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H0428\|אֵ֚לֶּה]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַֽ]][[H1310\|מְבַשְּׁלִ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H1310\|יְבַשְּׁלוּ]][[H9014\|־]] [[H8033G\|שָׁ֛ם]] [[H8334\|מְשָׁרְתֵ֥י]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H0853\|אֶת]][[H9014\|־]] [[H2077\|זֶ֥בַח]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COOKING|COOKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.23|<< Ezekiel 46:23]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.1|Ezekiel 47:1 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 49:12
+type: Verse
+kjv: "Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim."
+bsb: "Behold, they will come from far away, from the north and from the west, and from the land of Aswan.”"
+hebrew: "הִנֵּה־ אֵ֕לֶּה מֵרָח֖וֹק יָבֹ֑אוּ וְהִֽנֵּה־ אֵ֙לֶּה֙ מִצָּפ֣וֹן וּמִיָּ֔ם וְאֵ֖לֶּה מֵאֶ֥רֶץ סִינִֽים׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHINESE|CHINESE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SINIM|SINIM]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H6828G]]"
+- "[[H3220H]]"
+- "[[H0776G]]"
+- "[[H5515]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:12**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
 <small><sub>**BSB:**</sub></small>
 Behold, they will come from far away, from the north and from the west, and from the land of Aswan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H0428\|אֵ֕לֶּה]] [[H9006\|מֵ]][[H7350\|רָח֖וֹק]] [[H0935G\|יָבֹ֑אוּ]] [[H9002\|וְ]][[H2009\|הִֽנֵּה]][[H9014\|־]] [[H0428\|אֵ֙לֶּה֙]] [[H9006\|מִ]][[H6828G\|צָּפ֣וֹן]] [[H9002\|וּ]][[H9006\|מִ]][[H3220H\|יָּ֔ם]] [[H9002\|וְ]][[H0428\|אֵ֖לֶּה]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H5515\|סִינִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHINESE|CHINESE]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]] • [[topic SINIM|SINIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.11|<< Isaiah 49:11]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.13|Isaiah 49:13 >>]]</td></tr></table>
 

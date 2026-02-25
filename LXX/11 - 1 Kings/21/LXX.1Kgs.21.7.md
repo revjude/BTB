@@ -1,6 +1,77 @@
+---
+title: LXX 1 Kings 21:7
+type: Verse
+lxx: "And Jezebel his wife said to him, Do you now so act as king over Israel? Rise up, and eat bread, and be yourself! and I will give to you the vineyard of Naboth the Jezreelite."
+greek: "και είπε προς αυτόν Ιεζάβελ η γυνή αυτού συ νυν ούτω ποιείς βασιλείς επί Ισραήλ ανάστηθι και φάγε άρτον και σαυτού γενού εγώ δε δώσω σοι τον αμπελώνα Ναβούθ του Ιεζραηλίτου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2403]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G3568]]"
+- "[[G3779]]"
+- "[[G4160]]"
+- "[[G0935]]"
+- "[[G1909]]"
+- "[[G2474]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G2068]]"
+- "[[G0740]]"
+- "[[G2532]]"
+- "[[G4572]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0290]]"
+- "[[H5022]]"
+- "[[G3588]]"
+- "[[H3157]]"
+---
+
 **LXX 1 Kings 21:7** 
 <small><sub>**LXX:**</sub></small>
 And Jezebel his wife said to him, Do you now so act \[as\] king over Israel? Rise up, and eat bread, and be yourself! and I will give to you the vineyard of Naboth the Jezreelite. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2403\|Ιεζάβελ]] [[G3588\|η]] [[G1135\|γυνή]] [[G1473\|αυτού]] [[G1473\|συ]] [[G3568\|νυν]] [[G3779\|ούτω]] [[G4160\|ποιείς]] [[G0935\|βασιλείς]] [[G1909\|επί]] [[G2474\|Ισραήλ]] [[G0450\|ανάστηθι]] [[G2532\|και]] [[G2068\|φάγε]] [[G0740\|άρτον]] [[G2532\|και]] [[G4572\|σαυτού]] [[G1096\|γενού]] [[G1473\|εγώ]] [[G1161\|δε]] [[G1325\|δώσω]] [[G1473\|σοι]] [[G3588\|τον]] [[G0290\|αμπελώνα]] [[H5022\|Ναβούθ]] [[G3588\|του]] [[H3157\|Ιεζραηλίτου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFISCATION|CONFISCATION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
 
@@ -35,6 +106,6 @@ And Jezebel his wife said to him, Do you now so act \[as\] king over Israel? Ris
 | of Naboth | **<big>[[H5022\|Ναβούθ]]</big>** |
 | the | **<big>[[G3588\|του]]</big>** |
 | Jezreelite. | **<big>[[H3157\|Ιεζραηλίτου]]</big>** |
-[[1Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
 
 

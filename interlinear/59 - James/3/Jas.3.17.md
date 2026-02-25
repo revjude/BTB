@@ -1,10 +1,68 @@
+---
+title: James 3:17
+type: Verse
+kjv: "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
+bsb: "But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere."
+greek: "Ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, καὶ ἀνυπόκριτος."
+pericope: "[[Jas.3.13 The Wisdom from Above|The Wisdom from Above]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0509]]"
+- "[[G4678]]"
+- "[[G4413G]]"
+- "[[G3303]]"
+- "[[G0053]]"
+- "[[G1510]]"
+- "[[G1899]]"
+- "[[G1516]]"
+- "[[G1933]]"
+- "[[G2138]]"
+- "[[G3324]]"
+- "[[G1656]]"
+- "[[G2532]]"
+- "[[G2590]]"
+- "[[G0018]]"
+- "[[G0087]]"
+- "[[G0505]]"
+texts:
+- NKO
+- k
+---
+
 **James 3:17**<big><big>[[Jas.3.13 The Wisdom from Above|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the wisdom that is from above is first pure, then peaceable, gentle, [and] easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.
 <small><sub>**BSB:**</sub></small>
 But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.
-<small><sub>**Literal:**</sub></small>
-<the> But the from above wisdom first indeed pure is, then peaceable, gentle, reasonable, full of mercy and of fruits good, impartial, and sincere.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.16|<< James 3:16]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.18|James 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G1161\|δὲ]]  [[G0509\|ἄνωθεν]]  [[G4678\|σοφία]]  [[G4413G\|πρῶτον]]  [[G3303\|μὲν]]  [[G0053\|ἁγνή]]  [[G1510\|ἐστιν,]]  [[G1899\|ἔπειτα]]  [[G1516\|εἰρηνική,]]  [[G1933\|ἐπιεικής,]]  [[G2138\|εὐπειθής,]]  [[G3324\|μεστὴ]]  [[G1656\|ἐλέους]]  [[G2532\|καὶ]]  [[G2590\|καρπῶν]]  [[G0018\|ἀγαθῶν,]]  [[G0087\|ἀδιάκριτος,]]  [[G2532\|καὶ]]  [[G0505\|ἀνυπόκριτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTLENESS|GENTLENESS]] • [[topic HOLINESS|HOLINESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.16|<< James 3:16]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.18|James 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

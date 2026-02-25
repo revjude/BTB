@@ -1,8 +1,54 @@
+---
+title: Amos 5:21
+type: Verse
+kjv: "I hate, I despise your feast days, and I will not smell in your solemn assemblies."
+bsb: "“I hate, I despise your feasts! I cannot stand the stench of your solemn assemblies."
+hebrew: "שָׂנֵ֥אתִי מָאַ֖סְתִּי חַגֵּיכֶ֑ם וְלֹ֥א אָרִ֖יחַ בְּעַצְּרֹֽתֵיכֶֽם׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H8130]]"
+- "[[H3988A]]"
+- "[[H2282]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7306]]"
+- "[[H9003]]"
+- "[[H6116]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:21**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I hate, I despise your feast days, and I will not smell in your solemn assemblies.
 <small><sub>**BSB:**</sub></small>
 “I hate, I despise your feasts! I cannot stand the stench of your solemn assemblies.
+<small><sub>**Hebrew:**</sub></small>
+[[H8130\|שָׂנֵ֥אתִי]] [[H3988A\|מָאַ֖סְתִּי]] [[H2282\|חַגֵּי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7306\|אָרִ֖יחַ]] [[H9003\|בְּ]][[H6116\|עַצְּרֹֽתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.20|<< Amos 5:20]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.22|Amos 5:22 >>]]</td></tr></table>
 

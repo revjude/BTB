@@ -1,8 +1,66 @@
+---
+title: Micah 5:5
+type: Verse
+kjv: "And this man shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men."
+bsb: "And He will be our peace when Assyria invades our land and tramples our citadels. We will raise against it seven shepherds, even eight leaders of men."
+hebrew: "וְהָיָ֥ה זֶ֖ה שָׁל֑וֹם אַשּׁ֣וּר׀ כִּֽי־ יָב֣וֹא בְאַרְצֵ֗נוּ וְכִ֤י יִדְרֹךְ֙ בְּאַרְמְנֹתֵ֔ינוּ וַהֲקֵמֹ֤נוּ עָלָיו֙ שִׁבְעָ֣ה רֹעִ֔ים וּשְׁמֹנָ֖ה נְסִיכֵ֥י אָדָֽם׃"
+pericope: "[[Mic.5.1 A Ruler from Bethlehem|A Ruler from Bethlehem]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 5
+book/chapter: "[[Mic.5|Micah 5]]"
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2088]]"
+- "[[H7965G]]"
+- "[[H0804G]]"
+- "[[H9015]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H1869]]"
+- "[[H0759G]]"
+- "[[H6965H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7651]]"
+- "[[H7462B]]"
+- "[[H8083]]"
+- "[[H5257B]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 5:5**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [man] shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
 <small><sub>**BSB:**</sub></small>
 And He will be our peace when Assyria invades our land and tramples our citadels. We will raise against it seven shepherds, even eight leaders of men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H2088\|זֶ֖ה]] [[H7965G\|שָׁל֑וֹם]] [[H0804G\|אַשּׁ֣וּר]][[H9015\|׀]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|יָב֣וֹא]] [[H9003\|בְ]][[H0776G\|אַרְצֵ֗]][[H9025\|נוּ]] [[H9002\|וְ]][[H3588A\|כִ֤י]] [[H1869\|יִדְרֹךְ֙]] [[H9003\|בְּ]][[H0759G\|אַרְמְנֹתֵ֔י]][[H9025\|נוּ]] [[H9001\|וַ]][[H6965H\|הֲקֵמֹ֤נוּ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H7651\|שִׁבְעָ֣ה]] [[H7462B\|רֹעִ֔ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנָ֖ה]] [[H5257B\|נְסִיכֵ֥י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.4|<< Micah 5:4]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.6|Micah 5:6 >>]]</td></tr></table>
 

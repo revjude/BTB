@@ -1,8 +1,71 @@
+---
+title: 1 Kings 13:26
+type: Verse
+kjv: "And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who was disobedient unto the word of the LORD: therefore the LORD hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the LORD, which he spake unto him."
+bsb: "When the prophet who had brought him back from his journey heard this, he said, “It is the man of God who disobeyed the command of the LORD. Therefore the LORD has delivered him to the lion, and it has mauled him and killed him, according to the word that the LORD had spoken to him.”"
+hebrew: "וַיִּשְׁמַ֣ע הַנָּבִיא֮ אֲשֶׁ֣ר הֱשִׁיב֣וֹ מִן־ הַדֶּרֶךְ֒ וַיֹּ֙אמֶר֙ אִ֣ישׁ הָאֱלֹהִ֣ים ה֔וּא אֲשֶׁ֥ר מָרָ֖ה אֶת־ פִּ֣י יְהוָ֑ה וַיִּתְּנֵ֨הוּ יְהוָ֜ה לָאַרְיֵ֗ה וַֽיִּשְׁבְּרֵ֙הוּ֙ וַיְמִתֵ֔הוּ כִּדְבַ֥ר יְהוָ֖ה אֲשֶׁ֥ר דִּבֶּר־ לֽוֹ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1870L]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H4784]]"
+- "[[H0853]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0738B]]"
+- "[[H7665]]"
+- "[[H4191]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:26**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the prophet that brought him back from the way heard [thereof], he said, It [is] the man of God, who was disobedient unto the word of the LORD: therefore the LORD hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the LORD, which he spake unto him.
 <small><sub>**BSB:**</sub></small>
 When the prophet who had brought him back from his journey heard this, he said, “It is the man of God who disobeyed the command of the LORD. Therefore the LORD has delivered him to the lion, and it has mauled him and killed him, according to the word that the LORD had spoken to him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H9009\|הַ]][[H5030\|נָּבִיא֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H7725G\|הֱשִׁיב֣]][[H9033\|וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870L\|דֶּרֶךְ֒]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֣ים]] [[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁ֥ר]] [[H4784\|מָרָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5414G\|יִּתְּנֵ֨]][[H9033\|הוּ]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לָ]][[H0738B\|אַרְיֵ֗ה]] [[H9001\|וַֽ]][[H7665\|יִּשְׁבְּרֵ֙]][[H9033\|הוּ֙]] [[H9001\|וַ]][[H4191\|יְמִתֵ֔]][[H9033\|הוּ]] [[H9004\|כִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבֶּר]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.25|<< 1 Kings 13:25]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.27|1 Kings 13:27 >>]]</td></tr></table>
 

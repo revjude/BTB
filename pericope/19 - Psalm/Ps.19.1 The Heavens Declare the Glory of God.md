@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Heavens Declare the Glory of God
+type: Pericope
 pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 19
 book/chapter: "[[Ps.19|Psalm 19]]"
-genre:
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 15
 verses:
 - "[[Ps.19.0]]"
 - "[[Ps.19.1]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ps.19.14]]"
 ---
 
-[[Ps.19|Psalm 19:1 - Psalm 19:14]]
+<small>[[Ps.19|Psalm 19:1-14]]</small>
 *The Heavens Declare the Glory of God*
 
 [[Ps.19.0|0]] To the chief Musician, A Psalm of David.

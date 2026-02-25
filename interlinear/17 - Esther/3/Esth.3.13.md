@@ -1,8 +1,80 @@
+---
+title: Esther 3:13
+type: Verse
+kjv: "And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey."
+bsb: "And the letters were sent by couriers to each of the royal provinces with the order to destroy, kill, and annihilate all the Jews—young and old, women and children—and to plunder their possessions on a single day, the thirteenth day of Adar, the twelfth month."
+hebrew: "וְנִשְׁל֨וֹחַ סְפָרִ֜ים בְּיַ֣ד הָרָצִים֮ אֶל־ כָּל־ מְדִינ֣וֹת הַמֶּלֶךְ֒ לְהַשְׁמִ֡יד לַהֲרֹ֣ג וּלְאַבֵּ֣ד אֶת־ כָּל־ הַ֠יְּהוּדִים מִנַּ֨עַר וְעַד־ זָקֵ֜ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם אֶחָ֔ד בִּשְׁלוֹשָׁ֥ה עָשָׂ֛ר לְחֹ֥דֶשׁ שְׁנֵים־ עָשָׂ֖ר הוּא־ חֹ֣דֶשׁ אֲדָ֑ר וּשְׁלָלָ֖ם לָבֽוֹז׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic MAIL|MAIL]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic POST|POST]]"
+- "[[topic REVENGE|REVENGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H5612A]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H9009]]"
+- "[[H7323G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4082]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H2026]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H3064]]"
+- "[[H9006]]"
+- "[[H5288]]"
+- "[[H5704]]"
+- "[[H2205H]]"
+- "[[H2945]]"
+- "[[H0802G]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H2320G]]"
+- "[[H8147]]"
+- "[[H1931]]"
+- "[[H0143]]"
+- "[[H7998]]"
+- "[[H9028]]"
+- "[[H0962]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:13**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, [even] upon the thirteenth [day] of the twelfth month, which [is] the month Adar, and [to take] the spoil of them for a prey.
 <small><sub>**BSB:**</sub></small>
 And the letters were sent by couriers to each of the royal provinces with the order to destroy, kill, and annihilate all the Jews—young and old, women and children—and to plunder their possessions on a single day, the thirteenth day of Adar, the twelfth month.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7971G\|נִשְׁל֨וֹחַ]] [[H5612A\|סְפָרִ֜ים]] [[H9003\|בְּ]][[H3027J\|יַ֣ד]] [[H9009\|הָ]][[H7323G\|רָצִים֮]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4082\|מְדִינ֣וֹת]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֒]] [[H9005\|לְ]][[H8045\|הַשְׁמִ֡יד]] [[H9005\|לַ]][[H2026\|הֲרֹ֣ג]] [[H9002\|וּ]][[H9005\|לְ]][[H0006\|אַבֵּ֣ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֠]][[H3064\|יְּהוּדִים]] [[H9006\|מִ]][[H5288\|נַּ֨עַר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H2205H\|זָקֵ֜ן]] [[H2945\|טַ֤ף]] [[H9002\|וְ]][[H0802G\|נָשִׁים֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0259\|אֶחָ֔ד]] [[H9003\|בִּ]][[H7969\|שְׁלוֹשָׁ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H9005\|לְ]][[H2320G\|חֹ֥דֶשׁ]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֖ר]] [[H1931\|הוּא]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H0143\|אֲדָ֑ר]] [[H9002\|וּ]][[H7998\|שְׁלָלָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H0962\|בֽוֹז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic MAIL|MAIL]] • [[topic MALICE|MALICE]] • [[topic POST|POST]] • [[topic REVENGE|REVENGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 

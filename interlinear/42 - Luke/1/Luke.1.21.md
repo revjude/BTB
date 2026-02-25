@@ -1,10 +1,58 @@
+---
+title: Luke 1:21
+type: Verse
+kjv: "And the people waited for Zacharias, and marvelled that he tarried so long in the temple."
+bsb: "Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple."
+greek: "Καὶ ἦν ὁ λαὸς προσδοκῶν τὸν Ζαχαρίαν καὶ ἐθαύμαζον ἐν τῷ χρονίζειν ἐν τῷ ναῷ αὐτόν."
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G4328]]"
+- "[[G2197H]]"
+- "[[G2296]]"
+- "[[G1722]]"
+- "[[G5549]]"
+- "[[G3485]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 1:21**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the people waited for Zacharias, and marvelled that he tarried so long in the temple.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple.
-<small><sub>**Literal:**</sub></small>
-And were the people expecting <the> Zechariah and they were wondering at the delaying in the temple of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.20|<< Luke 1:20]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.22|Luke 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G4328\|προσδοκῶν]]  [[G3588\|τὸν]]  [[G2197H\|Ζαχαρίαν]]  [[G2532\|καὶ]]  [[G2296\|ἐθαύμαζον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5549\|χρονίζειν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3485\|ναῷ]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.20|<< Luke 1:20]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.22|Luke 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

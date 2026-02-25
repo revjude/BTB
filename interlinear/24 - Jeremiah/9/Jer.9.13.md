@@ -1,8 +1,66 @@
+---
+title: Jeremiah 9:13
+type: Verse
+kjv: "And the LORD saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;"
+bsb: "And the LORD answered, “It is because they have forsaken My law, which I set before them; they have not walked in it or obeyed My voice."
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה עַל־ עָזְבָם֙ אֶת־ תּ֣וֹרָתִ֔י אֲשֶׁ֥ר נָתַ֖תִּי לִפְנֵיהֶ֑ם וְלֹא־ שָׁמְע֥וּ בְקוֹלִ֖י וְלֹא־ הָ֥לְכוּ בָֽהּ׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H8451]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H5414Q]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1980I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:13**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;
 <small><sub>**BSB:**</sub></small>
 And the LORD answered, “It is because they have forsaken My law, which I set before them; they have not walked in it or obeyed My voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5800A\|עָזְבָ]][[H9048\|ם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8451\|תּ֣וֹרָתִ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414Q\|נָתַ֖תִּי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085H\|שָׁמְע֥וּ]] [[H9003\|בְ]][[H6963A\|קוֹלִ֖]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1980I\|הָ֥לְכוּ]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.12|<< Jeremiah 9:12]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.14|Jeremiah 9:14 >>]]</td></tr></table>
 

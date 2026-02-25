@@ -1,10 +1,57 @@
+---
+title: Luke 10:8
+type: Verse
+kjv: "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:"
+bsb: "If you enter a town and they welcome you, eat whatever is set before you."
+jesus_said: "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:"
+greek: "καὶ εἰς ἣν δ᾽ ἂν πόλιν εἰσέρχησθε, καὶ δέχωνται ὑμᾶς, ἐσθίετε τὰ παρατιθέμενα ὑμῖν"
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G4172]]"
+- "[[G1525]]"
+- "[[G1209]]"
+- "[[G4771]]"
+- "[[G2068]]"
+- "[[G3588]]"
+- "[[G3908]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 10:8**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And into whatsoever city ye enter, and they receive you, eat such things as are set before you:
 <small><sub>**BSB:**</sub></small>
 If you enter a town and they welcome you, eat whatever is set before you.
-<small><sub>**Literal:**</sub></small>
-And into whatever now maybe city you may enter, and they may receive you, do eat the [things] set before you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.7|<< Luke 10:7]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.9|Luke 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G4172\|πόλιν]]  [[G1525\|εἰσέρχησθε,]]  [[G2532\|καὶ]]  [[G1209\|δέχωνται]]  [[G4771\|ὑμᾶς,]]  [[G2068\|ἐσθίετε]]  [[G3588\|τὰ]]  [[G3908\|παρατιθέμενα]]  [[G4771\|ὑμῖν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.7|<< Luke 10:7]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.9|Luke 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

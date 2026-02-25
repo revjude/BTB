@@ -1,8 +1,56 @@
+---
+title: Proverbs 24:1
+type: Verse
+kjv: "Be not thou envious against evil men, neither desire to be with them."
+bsb: "Do not envy wicked men or desire their company;"
+hebrew: "אַל־ תְּ֭קַנֵּא בְּאַנְשֵׁ֣י רָעָ֑ה וְאַל־ תִּ֝תְאָ֗יו לִהְי֥וֹת אִתָּֽם׃"
+pericope: "[[Prov.24.1 Saying 20|Saying 20]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7065]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H0183]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Proverbs 24:1**<big><big>[[Prov.24.1 Saying 20|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not thou envious against evil men, neither desire to be with them.
 <small><sub>**BSB:**</sub></small>
 Do not envy wicked men or desire their company;
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7065\|תְּ֭קַנֵּא]] [[H9003\|בְּ]][[H0582\|אַנְשֵׁ֣י]] [[H7451I\|רָעָ֑ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0183\|תִּ֝תְאָ֗יו]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H0854\|אִתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic ENVY|ENVY]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.35|<< Proverbs 23:35]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.2|Proverbs 24:2 >>]]</td></tr></table>
 

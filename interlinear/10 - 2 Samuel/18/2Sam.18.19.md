@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 18:19
+type: Verse
+kjv: "Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies."
+bsb: "Then Ahimaaz son of Zadok said, “Please let me run and tell the king the good news that the LORD has avenged him of his enemies.”"
+hebrew: "וַאֲחִימַ֤עַץ בֶּן־ צָדוֹק֙ אָמַ֔ר אָר֣וּצָה נָּ֔א וַאֲבַשְּׂרָ֖ה אֶת־ הַמֶּ֑לֶךְ כִּי־ שְׁפָט֥וֹ יְהוָ֖ה מִיַּ֥ד אֹיְבָֽיו׃"
+pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0290H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6659G]]"
+- "[[H0559]]"
+- "[[H7323G]]"
+- "[[H4994]]"
+- "[[H1319]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H8199]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:19**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.
 <small><sub>**BSB:**</sub></small>
 Then Ahimaaz son of Zadok said, “Please let me run and tell the king the good news that the LORD has avenged him of his enemies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0290H\|אֲחִימַ֤עַץ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6659G\|צָדוֹק֙]] [[H0559\|אָמַ֔ר]] [[H7323G\|אָר֣וּצָה]] [[H4994\|נָּ֔א]] [[H9002\|וַ]][[H1319\|אֲבַשְּׂרָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H3588A\|כִּי]][[H9014\|־]] [[H8199\|שְׁפָט֥]][[H9033\|וֹ]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H0341\|אֹיְבָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.18|<< 2 Samuel 18:18]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.20|2 Samuel 18:20 >>]]</td></tr></table>
 

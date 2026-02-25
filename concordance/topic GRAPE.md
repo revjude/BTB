@@ -49,11 +49,11 @@
 
 → See [[topic WINE|WINE]]
 
-→ FIGURATIVE [[Deut.32.32|De 32:32]]; [[Ps.128.3|Ps 128:3]]; [[Jer.2.21|Jer 2:21]]; [[Ezek.15|Eze 15]]; [[Hos.10.1|Ho  10:1]]; [[Rev.14.18|Re 14:18]]-[[Rev.14.20|20]]
+→ FIGURATIVE [[Deut.32.32|De 32:32]]; [[Ps.128.3|Ps 128:3]]; [[Jer.2.21|Jer 2:21]]; [[Ezek.15|Eze 15]]; [[Hos.10.1|Ho  10:1]]; [[Rev.14.18|Re 14:18-20]]
 
 - FABLE OF [[Judg.9.12|Jud 9:12]],[[Judg.9.13|13]]
 
-- PARABLES OF THE VINE [[Ps.80.8|Ps 80:8]]-[[Ps.80.14|14]]; [[Ezek.17.6|Eze 17:6]]-[[Ezek.17.10|10]]; [[Ezek.19.10|19:10]]-[[Ezek.19.14|14]];  [[John.15.1|Joh 15:1]]-[[John.15.5|5]]
+- PARABLES OF THE VINE [[Ps.80.8|Ps 80:8-14]]; [[Ezek.17.6|Eze 17:6-10]]; [[Ezek.19.10|19:10-14]];  [[John.15.1|Joh 15:1-5]]
 
 - PROVERB OF [[Ezek.18.2|Eze 18:2]]
 

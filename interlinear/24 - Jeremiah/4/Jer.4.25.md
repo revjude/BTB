@@ -1,8 +1,56 @@
+---
+title: Jeremiah 4:25
+type: Verse
+kjv: "I beheld, and, lo, there was no man, and all the birds of the heavens were fled."
+bsb: "I looked, and no man was left; all the birds of the air had fled."
+hebrew: "רָאִ֕יתִי וְהִנֵּ֖ה אֵ֣ין הָאָדָ֑ם וְכָל־ ע֥וֹף הַשָּׁמַ֖יִם נָדָֽדוּ׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H5074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:25**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld, and, lo, [there was] no man, and all the birds of the heavens were fled.
 <small><sub>**BSB:**</sub></small>
 I looked, and no man was left; all the birds of the air had fled.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֕יתִי]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H0369\|אֵ֣ין]] [[H9009\|הָ]][[H0120G\|אָדָ֑ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H5074\|נָדָֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.24|<< Jeremiah 4:24]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.26|Jeremiah 4:26 >>]]</td></tr></table>
 

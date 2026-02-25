@@ -1,8 +1,60 @@
+---
+title: Exodus 37:18
+type: Verse
+kjv: "And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:"
+bsb: "Six branches extended from the sides, three on one side and three on the other."
+hebrew: "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָֽאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃"
+pericope: "[[Exod.37.17 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H7070G]]"
+- "[[H3318L]]"
+- "[[H9006]]"
+- "[[H6654]]"
+- "[[H9024]]"
+- "[[H7969]]"
+- "[[H9015]]"
+- "[[H4501]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:18**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof:
 <small><sub>**BSB:**</sub></small>
 Six branches extended from the sides, three on one side and three on the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8337\|שִׁשָּׁ֣ה]] [[H7070G\|קָנִ֔ים]] [[H3318L\|יֹצְאִ֖ים]] [[H9006\|מִ]][[H6654\|צִּדֶּ֑י]][[H9024\|הָ]] [[H7969\|שְׁלֹשָׁ֣ה]][[H9015\|׀]] [[H7070G\|קְנֵ֣י]] [[H4501\|מְנֹרָ֗ה]] [[H9006\|מִ]][[H6654\|צִּדָּ]][[H9024\|הּ֙]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ד]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁה֙]] [[H7070G\|קְנֵ֣י]] [[H4501\|מְנֹרָ֔ה]] [[H9006\|מִ]][[H6654\|צִּדָּ֖]][[H9024\|הּ]] [[H9009\|הַ]][[H8145\|שֵּׁנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.17|<< Exodus 37:17]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.19|Exodus 37:19 >>]]</td></tr></table>
 

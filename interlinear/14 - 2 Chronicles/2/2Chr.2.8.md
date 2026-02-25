@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 2:8
+type: Verse
+kjv: "Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants shall be with thy servants,"
+bsb: "Send me also cedar, cypress, and algum logs from Lebanon, for I know that your servants have skill to cut timber there. And indeed, my servants will work with yours"
+hebrew: "וּֽשְׁלַֽח־ לִי֩ עֲצֵ֨י אֲרָזִ֜ים בְּרוֹשִׁ֣ים וְאַלְגּוּמִּים֮ מֵֽהַלְּבָנוֹן֒ כִּ֚י אֲנִ֣י יָדַ֔עְתִּי אֲשֶׁ֤ר עֲבָדֶ֙יךָ֙ יֽוֹדְעִ֔ים לִכְר֖וֹת עֲצֵ֣י לְבָנ֑וֹן וְהִנֵּ֥ה עֲבָדַ֖י עִם־ עֲבָדֶֽיךָ׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALGUM|ALGUM]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H1265]]"
+- "[[H0418]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H3844G]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3045]]"
+- "[[H0834A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3772G]]"
+- "[[H2009]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:8**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants [shall be] with thy servants,
 <small><sub>**BSB:**</sub></small>
 Send me also cedar, cypress, and algum logs from Lebanon, for I know that your servants have skill to cut timber there. And indeed, my servants will work with yours
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H7971G\|שְׁלַֽח]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֩]] [[H6086G\|עֲצֵ֨י]] [[H0730\|אֲרָזִ֜ים]] [[H1265\|בְּרוֹשִׁ֣ים]] [[H9002\|וְ]][[H0418\|אַלְגּוּמִּים֮]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H3844G\|לְּבָנוֹן֒]] [[H3588A\|כִּ֚י]] [[H0589\|אֲנִ֣י]] [[H3045\|יָדַ֔עְתִּי]] [[H0834A\|אֲשֶׁ֤ר]] [[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H3045\|יֽוֹדְעִ֔ים]] [[H9005\|לִ]][[H3772G\|כְר֖וֹת]] [[H6086G\|עֲצֵ֣י]] [[H3844G\|לְבָנ֑וֹן]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H5650\|עֲבָדַ֖]][[H9020\|י]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עֲבָדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALGUM|ALGUM]] • [[topic HIRAM|HIRAM]] • [[topic LEBANON|LEBANON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.7|<< 2 Chronicles 2:7]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.9|2 Chronicles 2:9 >>]]</td></tr></table>
 

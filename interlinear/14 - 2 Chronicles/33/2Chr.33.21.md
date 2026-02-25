@@ -1,8 +1,53 @@
+---
+title: 2 Chronicles 33:21
+type: Verse
+kjv: "Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem."
+bsb: "Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years."
+hebrew: "בֶּן־ עֶשְׂרִ֧ים וּשְׁתַּ֛יִם שָׁנָ֖ה אָמ֣וֹן בְּמָלְכ֑וֹ וּשְׁתַּ֣יִם שָׁנִ֔ים מָלַ֖ךְ בִּֽירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.33.21 Amon Reigns in Judah|Amon Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMON|AMON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8141]]"
+- "[[H0526H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:21**<big><big>[[2Chr.33.21 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Amon [was] two and twenty years old when he began to reign, and reigned two years in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֧ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֛יִם]] [[H8141\|שָׁנָ֖ה]] [[H0526H\|אָמ֣וֹן]] [[H9003\|בְּ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וּ]][[H8147\|שְׁתַּ֣יִם]] [[H8141\|שָׁנִ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMON|AMON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.20|<< 2 Chronicles 33:20]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.22|2 Chronicles 33:22 >>]]</td></tr></table>
 

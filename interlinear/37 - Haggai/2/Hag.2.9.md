@@ -1,8 +1,64 @@
+---
+title: Haggai 2:9
+type: Verse
+kjv: "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts."
+bsb: "The latter glory of this house will be greater than the former, says the LORD of Hosts. And in this place I will provide peace, declares the LORD of Hosts.”"
+hebrew: "גָּד֣וֹל יִֽהְיֶ֡ה כְּבוֹד֩ הַבַּ֨יִת הַזֶּ֤ה הָאַֽחֲרוֹן֙ מִן־ הָ֣רִאשׁ֔וֹן אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וּבַמָּק֤וֹם הַזֶּה֙ אֶתֵּ֣ן שָׁל֔וֹם נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃ פ"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H1419A]]"
+- "[[H1961]]"
+- "[[H3519]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H0314]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7223H]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H5414G]]"
+- "[[H7965G]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Haggai 2:9**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 The latter glory of this house will be greater than the former, says the LORD of Hosts. And in this place I will provide peace, declares the LORD of Hosts.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1419A\|גָּד֣וֹל]] [[H1961\|יִֽהְיֶ֡ה]] [[H3519\|כְּבוֹד֩]] [[H9009\|הַ]][[H1004B\|בַּ֨יִת]] [[H9009\|הַ]][[H2088\|זֶּ֤ה]] [[H9009\|הָ]][[H0314\|אַֽחֲרוֹן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H7223H\|רִאשׁ֔וֹן]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H5414G\|אֶתֵּ֣ן]] [[H7965G\|שָׁל֔וֹם]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.8|<< Haggai 2:8]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.10|Haggai 2:10 >>]]</td></tr></table>
 
@@ -25,7 +81,7 @@ The latter glory of this house will be greater than the former, says the LORD of
 | peace  |**<big>&#8207;[[H7965G\|שָׁל֔וֹם]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.8|<< Haggai 2:8]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.10|Haggai 2:10 >>]]</td></tr></table>
 
 

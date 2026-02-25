@@ -1,6 +1,55 @@
+---
+title: LXX Ezekiel 42:17
+type: Verse
+lxx: "And he turned towards the north and measured in front of the north side five hundred cubits with the reed  measure."
+greek: "και επέστρεψε προς βορράν και διεμέτρησε κατά πρόσωπον του βορρά πήχεις πεντακοσίους εν τω καλάμω του μέτρου"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G6848]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G1005]]"
+- "[[G4083]]"
+- "[[G4001]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2563]]"
+- "[[G3588]]"
+- "[[G3358]]"
+---
+
 **LXX Ezekiel 42:17** 
 <small><sub>**LXX:**</sub></small>
 And he turned towards \[the\] north and measured in front of the north \[side\] five hundred cubits with the reed  measure. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1994\|επέστρεψε]] [[G4314\|προς]] [[G1005\|βορράν]] [[G2532\|και]] [[G6848\|διεμέτρησε]] [[G2596\|κατά]] [[G4383\|πρόσωπον]] [[G3588\|του]] [[G1005\|βορρά]] [[G4083\|πήχεις]] [[G4001\|πεντακοσίους]] [[G1722\|εν]] [[G3588\|τω]] [[G2563\|καλάμω]] [[G3588\|του]] [[G3358\|μέτρου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.16|<< Ezekiel 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.18|Ezekiel 42:18 >>]]</td></tr></table>
 
@@ -22,6 +71,6 @@ And he turned towards \[the\] north and measured in front of the north \[side\] 
 | reed | **<big>[[G2563\|καλάμω]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | measure. | **<big>[[G3358\|μέτρου]]</big>** |
-[[Ezek.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.16|<< Ezekiel 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.18|Ezekiel 42:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.16|<< Ezekiel 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.18|Ezekiel 42:18 >>]]</td></tr></table>
 
 

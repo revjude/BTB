@@ -1,8 +1,62 @@
+---
+title: Leviticus 2:5
+type: Verse
+kjv: "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+bsb: "If your offering is a grain offering prepared on a griddle, it must be unleavened bread made of fine flour mixed with oil."
+hebrew: "וְאִם־ מִנְחָ֥ה עַל־ הַֽמַּחֲבַ֖ת קָרְבָּנֶ֑ךָ סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן מַצָּ֥ה תִהְיֶֽה׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic OIL|OIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4227]]"
+- "[[H7133A]]"
+- "[[H9021]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H4682]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:5**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy oblation [be] a meat offering [baken] in a pan, it shall be [of] fine flour unleavened, mingled with oil.
 <small><sub>**BSB:**</sub></small>
 If your offering is a grain offering prepared on a griddle, it must be unleavened bread made of fine flour mixed with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4503G\|מִנְחָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַֽ]][[H4227\|מַּחֲבַ֖ת]] [[H7133A\|קָרְבָּנֶ֑]][[H9021\|ךָ]] [[H5560\|סֹ֛לֶת]] [[H1101A\|בְּלוּלָ֥ה]] [[H9003\|בַ]][[H8081\|שֶּׁ֖מֶן]] [[H4682\|מַצָּ֥ה]] [[H1961\|תִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic OIL|OIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.4|<< Leviticus 2:4]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.6|Leviticus 2:6 >>]]</td></tr></table>
 

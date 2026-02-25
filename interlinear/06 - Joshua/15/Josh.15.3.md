@@ -1,8 +1,66 @@
+---
+title: Joshua 15:3
+type: Verse
+kjv: "And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:"
+bsb: "proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the south of Kadesh-barnea, ran past Hezron up to Addar, and curved toward Karka."
+hebrew: "וְ֠יָצָא אֶל־ מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְעָ֣בַר צִ֔נָה וְעָלָ֥ה מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְעָבַ֤ר חֶצְרוֹן֙ וְעָלָ֣ה אַדָּ֔רָה וְנָסַ֖ב הַקַּרְקָֽעָה׃"
+pericope: "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AKRABBIM|AKRABBIM]]"
+- "[[topic GEDERAH|GEDERAH]]"
+- "[[topic HAZAR-ADDAR|HAZAR-ADDAR]]"
+- "[[topic KADESH|KADESH]]"
+- "[[topic KARKAA|KARKAA]]"
+- "[[topic MAALEH-ACRABBIM|MAALEH-ACRABBIM]]"
+- "[[topic ZIN|ZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H5045H]]"
+- "[[H9005]]"
+- "[[H4608]]"
+- "[[H4610]]"
+- "[[H5674A]]"
+- "[[H6790]]"
+- "[[H9011]]"
+- "[[H5927G]]"
+- "[[H6947]]"
+- "[[H2696J]]"
+- "[[H0146G]]"
+- "[[H5437G]]"
+- "[[H9009]]"
+- "[[H7173]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:3**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
 <small><sub>**BSB:**</sub></small>
 proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the south of Kadesh-barnea, ran past Hezron up to Addar, and curved toward Karka.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H3318I\|יָצָא]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H5045H\|נֶּ֜גֶב]] [[H9005\|לְ]][[H4608\|מַעֲלֵ֤ה]] [[H4610\|עַקְרַבִּים֙]] [[H9001\|וְ]][[H5674A\|עָ֣בַר]] [[H6790\|צִ֔נָ]][[H9011\|ה]] [[H9001\|וְ]][[H5927G\|עָלָ֥ה]] [[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H9005\|לְ]][[H6947\|קָדֵ֣שׁ]] [[H6947\|בַּרְנֵ֑עַ]] [[H9001\|וְ]][[H5674A\|עָבַ֤ר]] [[H2696J\|חֶצְרוֹן֙]] [[H9001\|וְ]][[H5927G\|עָלָ֣ה]] [[H0146G\|אַדָּ֔רָ]][[H9011\|ה]] [[H9001\|וְ]][[H5437G\|נָסַ֖ב]] [[H9009\|הַ]][[H7173\|קַּרְקָֽעָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AKRABBIM|AKRABBIM]] • [[topic GEDERAH|GEDERAH]] • [[topic HAZAR-ADDAR|HAZAR-ADDAR]] • [[topic KADESH|KADESH]] • [[topic KARKAA|KARKAA]] • [[topic MAALEH-ACRABBIM|MAALEH-ACRABBIM]] • [[topic ZIN|ZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.2|<< Joshua 15:2]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.4|Joshua 15:4 >>]]</td></tr></table>
 

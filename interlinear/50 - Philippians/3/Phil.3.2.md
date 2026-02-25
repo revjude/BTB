@@ -1,10 +1,50 @@
+---
+title: Philippians 3:2
+type: Verse
+kjv: "Beware of dogs, beware of evil workers, beware of the concision."
+bsb: "Watch out for those dogs, those workers of evil, those mutilators of the flesh!"
+greek: "Βλέπετε τοὺς κύνας, βλέπετε τοὺς κακοὺς ἐργάτας, βλέπετε τὴν κατατομήν·"
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic CONCISION|CONCISION]]"
+- "[[topic DOG|DOG]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G0991]]"
+- "[[G3588]]"
+- "[[G2965]]"
+- "[[G2556G]]"
+- "[[G2040]]"
+- "[[G2699]]"
+texts:
+- NKO
+---
+
 **Philippians 3:2**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beware of dogs, beware of evil workers, beware of the concision.
 <small><sub>**BSB:**</sub></small>
 Watch out for those dogs, those workers of evil, those mutilators of the flesh!
-<small><sub>**Literal:**</sub></small>
-do beware of the dogs, do beware of the evil workers, do beware of the false circumcision;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.1|<< Philippians 3:1]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.3|Philippians 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|Βλέπετε]]  [[G3588\|τοὺς]]  [[G2965\|κύνας,]]  [[G0991\|βλέπετε]]  [[G3588\|τοὺς]]  [[G2556G\|κακοὺς]]  [[G2040\|ἐργάτας,]]  [[G0991\|βλέπετε]]  [[G3588\|τὴν]]  [[G2699\|κατατομήν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCISION|CONCISION]] • [[topic DOG|DOG]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.1|<< Philippians 3:1]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.3|Philippians 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

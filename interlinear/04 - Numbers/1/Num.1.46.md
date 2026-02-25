@@ -1,8 +1,58 @@
+---
+title: Numbers 1:46
+type: Verse
+kjv: "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty."
+bsb: "And all those counted totaled 603,550."
+hebrew: "וַיִּֽהְיוּ֙ כָּל־ הַפְּקֻדִ֔ים שֵׁשׁ־ מֵא֥וֹת אֶ֖לֶף וּשְׁלֹ֣שֶׁת אֲלָפִ֑ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6485A]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H2568]]"
+- "[[H2572]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:46**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.
 <small><sub>**BSB:**</sub></small>
 And all those counted totaled 603,550.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְיוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H6485A\|פְּקֻדִ֔ים]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֑ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.45|<< Numbers 1:45]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.47|Numbers 1:47 >>]]</td></tr></table>
 

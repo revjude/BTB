@@ -1,8 +1,58 @@
+---
+title: 1 Kings 10:18
+type: Verse
+kjv: "Moreover the king made a great throne of ivory, and overlaid it with the best gold."
+bsb: "Additionally, the king made a great throne of ivory and overlaid it with pure gold."
+hebrew: "וַיַּ֧עַשׂ הַמֶּ֛לֶךְ כִּסֵּא־ שֵׁ֖ן גָּד֑וֹל וַיְצַפֵּ֖הוּ זָהָ֥ב מוּפָֽז׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic IVORY|IVORY]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3678G]]"
+- "[[H9014]]"
+- "[[H8127H]]"
+- "[[H1419A]]"
+- "[[H6823]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H6338]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:18**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the king made a great throne of ivory, and overlaid it with the best gold.
 <small><sub>**BSB:**</sub></small>
 Additionally, the king made a great throne of ivory and overlaid it with pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֧עַשׂ]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H3678G\|כִּסֵּא]][[H9014\|־]] [[H8127H\|שֵׁ֖ן]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H6823\|יְצַפֵּ֖]][[H9033\|הוּ]] [[H2091\|זָהָ֥ב]] [[H6338\|מוּפָֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IVORY|IVORY]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.17|<< 1 Kings 10:17]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.19|1 Kings 10:19 >>]]</td></tr></table>
 

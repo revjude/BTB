@@ -1,8 +1,74 @@
+---
+title: Zechariah 14:16
+type: Verse
+kjv: "And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles."
+bsb: "Then all the survivors from the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles."
+hebrew: "וְהָיָ֗ה כָּל־ הַנּוֹתָר֙ מִכָּל־ הַגּוֹיִ֔ם הַבָּאִ֖ים עַל־ יְרֽוּשָׁלִָ֑ם וְעָל֞וּ מִדֵּ֧י שָׁנָ֣ה בְשָׁנָ֗ה לְהִֽשְׁתַּחֲוֹת֙ לְמֶ֙לֶךְ֙ יְהוָ֣ה צְבָא֔וֹת וְלָחֹ֖ג אֶת־ חַ֥ג הַסֻּכּֽוֹת׃"
+pericope: "[[Zech.14.16 All Nations Will Worship the King|All Nations Will Worship the King]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H5927G]]"
+- "[[H1767]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H9005]]"
+- "[[H7812]]"
+- "[[H4428G]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H2287]]"
+- "[[H0853]]"
+- "[[H2282]]"
+- "[[H5521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:16**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.
 <small><sub>**BSB:**</sub></small>
 Then all the survivors from the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3498\|נּוֹתָר֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H9001\|וְ]][[H5927G\|עָל֞וּ]] [[H9006\|מִ]][[H1767\|דֵּ֧י]] [[H8141\|שָׁנָ֣ה]] [[H9003\|בְ]][[H8141\|שָׁנָ֗ה]] [[H9005\|לְ]][[H7812\|הִֽשְׁתַּחֲוֹת֙]] [[H9005\|לְ]][[H4428G\|מֶ֙לֶךְ֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9002\|וְ]][[H9005\|לָ]][[H2287\|חֹ֖ג]] [[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H5521\|סֻּכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.15|<< Zechariah 14:15]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.17|Zechariah 14:17 >>]]</td></tr></table>
 

@@ -1,10 +1,72 @@
+---
+title: 1 Peter 2:9
+type: Verse
+kjv: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:"
+bsb: "But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light."
+greek: "ὑμεῖς δὲ γένος ἐκλεκτόν, βασίλειον ἱεράτευμα, ἔθνος ἅγιον, λαὸς εἰς περιποίησιν, ὅπως τὰς ἀρετὰς ἐξαγγείλητε τοῦ ἐκ σκότους ὑμᾶς καλέσαντος εἰς τὸ θαυμαστὸν αὐτοῦ φῶς·"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHOSEN, OR ELECTED|CHOSEN, OR ELECTED]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1085G]]"
+- "[[G1588]]"
+- "[[G0934]]"
+- "[[G2406]]"
+- "[[G1484]]"
+- "[[G0040G]]"
+- "[[G2992]]"
+- "[[G1519]]"
+- "[[G4047]]"
+- "[[G3704]]"
+- "[[G3588]]"
+- "[[G0703]]"
+- "[[G1804]]"
+- "[[G1537]]"
+- "[[G4655]]"
+- "[[G2564G]]"
+- "[[G2298]]"
+- "[[G0846]]"
+- "[[G5457]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:9**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye [are] a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
 <small><sub>**BSB:**</sub></small>
 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.
-<small><sub>**Literal:**</sub></small>
-You yourselves however [are] a race chosen, a royal priesthood, a nation holy, a people for [His] possession, so that the excellencies you may proclaim of the [One] out of darkness you having called to the marvelous of Him light;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.8|<< 1 Peter 2:8]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.10|1 Peter 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G1085G\|γένος]]  [[G1588\|ἐκλεκτόν,]]  [[G0934\|βασίλειον]]  [[G2406\|ἱεράτευμα,]]  [[G1484\|ἔθνος]]  [[G0040G\|ἅγιον,]]  [[G2992\|λαὸς]]  [[G1519\|εἰς]]  [[G4047\|περιποίησιν,]]  [[G3704\|ὅπως]]  [[G3588\|τὰς]]  [[G0703\|ἀρετὰς]]  [[G1804\|ἐξαγγείλητε]]  [[G3588\|τοῦ]]  [[G1537\|ἐκ]]  [[G4655\|σκότους]]  [[G4771\|ὑμᾶς]]  [[G2564G\|καλέσαντος]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2298\|θαυμαστὸν]]  [[G0846\|αὐτοῦ]]  [[G5457\|φῶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHOSEN, OR ELECTED|CHOSEN, OR ELECTED]] • [[topic DARKNESS|DARKNESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LIGHT|LIGHT]] • [[topic PRAISE|PRAISE]] • [[topic PRIEST|PRIEST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.8|<< 1 Peter 2:8]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.10|1 Peter 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:9** is...
 > $\quad$ referencing: [[LXX.Exod.19.6|Exod 19:6]] ☩ [[LXX.Exod.19.5|Exod 19:5-6]] ☩ [[LXX.Isa.43.20|Isa 43:20-21]] ☩ [[LXX.Mal.3.17|Mal 3:17]]

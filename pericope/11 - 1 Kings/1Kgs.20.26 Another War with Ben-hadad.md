@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Another War with Ben-hadad
+type: Pericope
 pericope: "[[1Kgs.20.26 Another War with Ben-hadad|Another War with Ben-hadad]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 20
 book/chapter: "[[1Kgs.20|1 Kings 20]]"
-genre:
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.20.26]]"
 - "[[1Kgs.20.27]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.20.30]]"
 ---
 
-[[1Kgs.20|1 Kings 20:26 - 1 Kings 20:30]]
+<small>[[1Kgs.20|1 Kings 20:26-30]]</small>
 *Another War with Ben-hadad*
 
 [[1Kgs.20.26|26]] And it came to pass at the return of the year, that Benhadad numbered the Syrians, and went up to Aphek, to fight against Israel.

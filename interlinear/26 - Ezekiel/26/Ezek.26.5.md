@@ -1,8 +1,61 @@
+---
+title: Ezekiel 26:5
+type: Verse
+kjv: "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, saith the Lord GOD: and it shall become a spoil to the nations."
+bsb: "She will become a place to spread nets in the sea, for I have spoken, declares the Lord GOD. She will become plunder for the nations,"
+hebrew: "מִשְׁטַ֨ח חֲרָמִ֤ים תִּֽהְיֶה֙ בְּת֣וֹךְ הַיָּ֔ם כִּ֚י אֲנִ֣י דִבַּ֔רְתִּי נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה וְהָיְתָ֥ה לְבַ֖ז לַגּוֹיִֽם׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic NET|NET]]"
+strongs:
+- "[[H4894A]]"
+- "[[H2764B]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:5**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall be [a place for] the spreading of nets in the midst of the sea: for I have spoken [it], saith the Lord GOD: and it shall become a spoil to the nations.
 <small><sub>**BSB:**</sub></small>
 She will become a place to spread nets in the sea, for I have spoken, declares the Lord GOD. She will become plunder for the nations,
+<small><sub>**Hebrew:**</sub></small>
+[[H4894A\|מִשְׁטַ֨ח]] [[H2764B\|חֲרָמִ֤ים]] [[H1961\|תִּֽהְיֶה֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H3588A\|כִּ֚י]] [[H0589\|אֲנִ֣י]] [[H1696G\|דִבַּ֔רְתִּי]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9005\|לְ]][[H0957\|בַ֖ז]] [[H9005\|לַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.4|<< Ezekiel 26:4]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.6|Ezekiel 26:6 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Isaiah 42:1
+type: Verse
+kjv: "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles."
+bsb: "“Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations."
+hebrew: "הֵ֤ן עַבְדִּי֙ אֶתְמָךְ־ בּ֔וֹ בְּחִירִ֖י רָצְתָ֣ה נַפְשִׁ֑י נָתַ֤תִּי רוּחִי֙ עָלָ֔יו מִשְׁפָּ֖ט לַגּוֹיִ֥ם יוֹצִֽיא׃"
+pericope: "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H2005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H8551]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0972]]"
+- "[[H7521]]"
+- "[[H5315G]]"
+- "[[H5414H]]"
+- "[[H7307G]]"
+- "[[H5921A]]"
+- "[[H4941H]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H3318H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:1**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 “Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H5650\|עַבְדִּ]][[H9020\|י֙]] [[H8551\|אֶתְמָךְ]][[H9014\|־]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H0972\|בְּחִירִ֖]][[H9020\|י]] [[H7521\|רָצְתָ֣ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H5414H\|נָתַ֤תִּי]] [[H7307G\|רוּחִ]][[H9020\|י֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֥ם]] [[H3318H\|יוֹצִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ELECTION|ELECTION]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.29|<< Isaiah 41:29]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.2|Isaiah 42:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

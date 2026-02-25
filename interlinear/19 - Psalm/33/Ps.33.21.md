@@ -1,8 +1,56 @@
+---
+title: Psalm 33:21
+type: Verse
+kjv: "For our heart shall rejoice in him, because we have trusted in his holy name."
+bsb: "For our hearts rejoice in Him, since we trust in His holy name."
+hebrew: "כִּי־ ב֭וֹ יִשְׂמַ֣ח לִבֵּ֑נוּ כִּ֤י בְשֵׁ֖ם קָדְשׁ֣וֹ בָטָֽחְנוּ׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H8055]]"
+- "[[H3820A]]"
+- "[[H9025]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H0982]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:21**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For our heart shall rejoice in him, because we have trusted in his holy name.
 <small><sub>**BSB:**</sub></small>
 For our hearts rejoice in Him, since we trust in His holy name.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H9003\|ב֭]][[H9033\|וֹ]] [[H8055\|יִשְׂמַ֣ח]] [[H3820A\|לִבֵּ֑]][[H9025\|נוּ]] [[H3588A\|כִּ֤י]] [[H9003\|בְ]][[H8034\|שֵׁ֖ם]] [[H6944G\|קָדְשׁ֣]][[H9023\|וֹ]] [[H0982\|בָטָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.20|<< Psalms 33:20]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.22|Psalms 33:22 >>]]</td></tr></table>
 

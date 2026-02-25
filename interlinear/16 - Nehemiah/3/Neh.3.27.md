@@ -1,8 +1,59 @@
+---
+title: Nehemiah 3:27
+type: Verse
+kjv: "After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel."
+bsb: "And next to them, the Tekoites repaired another section, from a point opposite the great tower that juts out to the wall of Ophel."
+hebrew: "אַחֲרָ֛יו הֶחֱזִ֥יקוּ הַתְּקֹעִ֖ים מִדָּ֣ה שֵׁנִ֑ית מִנֶּ֜גֶד הַמִּגְדָּ֤ל הַגָּדוֹל֙ הַיּוֹצֵ֔א וְעַ֖ד חוֹמַ֥ת הָעֹֽפֶל׃"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic OPHEL|OPHEL]]"
+- "[[topic TEKOAH|TEKOAH]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H9009]]"
+- "[[H8621]]"
+- "[[H4060A]]"
+- "[[H8145]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H4026M]]"
+- "[[H1419A]]"
+- "[[H3318L]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H2346G]]"
+- "[[H6077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:27**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.
 <small><sub>**BSB:**</sub></small>
 And next to them, the Tekoites repaired another section, from a point opposite the great tower that juts out to the wall of Ophel.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרָ֛י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֥יקוּ]] [[H9009\|הַ]][[H8621\|תְּקֹעִ֖ים]] [[H4060A\|מִדָּ֣ה]] [[H8145\|שֵׁנִ֑ית]] [[H9006\|מִ]][[H5048\|נֶּ֜גֶד]] [[H9009\|הַ]][[H4026M\|מִּגְדָּ֤ל]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H9009\|הַ]][[H3318L\|יּוֹצֵ֔א]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H2346G\|חוֹמַ֥ת]] [[H9009\|הָ]][[H6077\|עֹֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OPHEL|OPHEL]] • [[topic TEKOAH|TEKOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.26|<< Nehemiah 3:26]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.28|Nehemiah 3:28 >>]]</td></tr></table>
 

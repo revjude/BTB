@@ -1,8 +1,68 @@
+---
+title: Exodus 17:10
+type: Verse
+kjv: "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill."
+bsb: "Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill."
+hebrew: "וַיַּ֣עַשׂ יְהוֹשֻׁ֗עַ כַּאֲשֶׁ֤ר אָֽמַר־ לוֹ֙ מֹשֶׁ֔ה לְהִלָּחֵ֖ם בַּעֲמָלֵ֑ק וּמֹשֶׁה֙ אַהֲרֹ֣ן וְח֔וּר עָל֖וּ רֹ֥אשׁ הַגִּבְעָֽה׃"
+pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HUR|HUR]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3091G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4872]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H6002G]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H2354G]]"
+- "[[H5927G]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H1389I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:10**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
 <small><sub>**BSB:**</sub></small>
 Joshua did as Moses had instructed him and fought against the Amalekites, while Moses, Aaron, and Hur went up to the top of the hill.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H9003\|בַּ]][[H6002G\|עֲמָלֵ֑ק]] [[H9002\|וּ]][[H4872\|מֹשֶׁה֙]] [[H0175\|אַהֲרֹ֣ן]] [[H9002\|וְ]][[H2354G\|ח֔וּר]] [[H5927G\|עָל֖וּ]] [[H7218I\|רֹ֥אשׁ]] [[H9009\|הַ]][[H1389I\|גִּבְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUR|HUR]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.9|<< Exodus 17:9]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.11|Exodus 17:11 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Grace and Perseverance
+type: Pericope
 pericope: "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 2
 book/chapter: "[[2Tim.2|2 Timothy 2]]"
-genre:
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 13
 verses:
 - "[[2Tim.2.1]]"
 - "[[2Tim.2.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Tim.2.13]]"
 ---
 
-[[2Tim.2|2 Timothy 2:1 - 2 Timothy 2:13]]
+<small>[[2Tim.2|2 Timothy 2:1-13]]</small>
 *Grace and Perseverance*
 
 [[2Tim.2.1|1]] Thou therefore, my son, be strong in the grace that is in Christ Jesus.

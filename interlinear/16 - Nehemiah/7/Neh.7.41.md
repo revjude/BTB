@@ -1,8 +1,52 @@
+---
+title: Nehemiah 7:41
+type: Verse
+kjv: "The children of Pashur, a thousand two hundred forty and seven."
+bsb: "the descendants of Pashhur, 1,247;"
+hebrew: "בְּנֵ֣י פַשְׁח֔וּר אֶ֕לֶף מָאתַ֖יִם אַרְבָּעִ֥ים וְשִׁבְעָֽה׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PASHUR|PASHUR]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1121G]]"
+- "[[H6583G]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H0705]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:41**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Pashur, a thousand two hundred forty and seven.
 <small><sub>**BSB:**</sub></small>
 the descendants of Pashhur, 1,247;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H6583G\|פַשְׁח֔וּר]] [[H0505G\|אֶ֕לֶף]] [[H3967\|מָאתַ֖יִם]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PASHUR|PASHUR]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.40|<< Nehemiah 7:40]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.42|Nehemiah 7:42 >>]]</td></tr></table>
 
@@ -13,7 +57,7 @@ the descendants of Pashhur, 1,247;
 | one thousand  |**<big>&#8207;[[H0505G\|אֶ֕לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two hundred  |**<big>&#8207;[[H3967\|מָאתַ֖יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.40|<< Nehemiah 7:40]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.42|Nehemiah 7:42 >>]]</td></tr></table>
 
 

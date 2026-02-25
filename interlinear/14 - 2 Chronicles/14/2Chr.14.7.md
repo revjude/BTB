@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 14:7
+type: Verse
+kjv: "Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the LORD our God, we have sought him, and he hath given us rest on every side. So they built and prospered."
+bsb: "So he said to the people of Judah, “Let us build these cities and surround them with walls and towers, with doors and bars. The land is still ours because we have sought the LORD our God. We have sought Him, and He has given us rest on every side.” So they built and prospered."
+hebrew: "וַיֹּ֨אמֶר לִֽיהוּדָ֜ה נִבְנֶ֣ה׀ אֶת־ הֶעָרִ֣ים הָאֵ֗לֶּה וְנָסֵ֨ב חוֹמָ֣ה וּמִגְדָּלִים֮ דְּלָתַ֣יִם וּבְרִיחִים֒ עוֹדֶ֨נּוּ הָאָ֜רֶץ לְפָנֵ֗ינוּ כִּ֤י דָרַ֙שְׁנוּ֙ אֶת־ יְהוָ֣ה אֱלֹהֵ֔ינוּ דָּרַ֕שְׁנוּ וַיָּ֥נַֽח לָ֖נוּ מִסָּבִ֑יב וַיִּבְנ֖וּ וַיַּצְלִֽיחוּ׃ פ"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H1129]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H5437H]]"
+- "[[H2346G]]"
+- "[[H4026M]]"
+- "[[H1817C]]"
+- "[[H1280]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H0776G]]"
+- "[[H6440G]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5117]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H5439I]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:7**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he said unto Judah, Let us build these cities, and make about [them] walls, and towers, gates, and bars, [while] the land [is] yet before us; because we have sought the LORD our God, we have sought [him], and he hath given us rest on every side. So they built and prospered.
 <small><sub>**BSB:**</sub></small>
 So he said to the people of Judah, “Let us build these cities and surround them with walls and towers, with doors and bars. The land is still ours because we have sought the LORD our God. We have sought Him, and He has given us rest on every side.” So they built and prospered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֜ה]] [[H1129\|נִבְנֶ֣ה]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9002\|וְ]][[H5437H\|נָסֵ֨ב]] [[H2346G\|חוֹמָ֣ה]] [[H9002\|וּ]][[H4026M\|מִגְדָּלִים֮]] [[H1817C\|דְּלָתַ֣יִם]] [[H9002\|וּ]][[H1280\|בְרִיחִים֒]] [[H5750\|עוֹדֶ֨]][[H9043\|נּוּ]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9005\|לְ]][[H6440G\|פָנֵ֗י]][[H9025\|נוּ]] [[H3588A\|כִּ֤י]] [[H1875\|דָרַ֙שְׁנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H1875\|דָּרַ֕שְׁנוּ]] [[H9001\|וַ]][[H5117\|יָּ֥נַֽח]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H5439I\|סָּבִ֑יב]] [[H9001\|וַ]][[H1129\|יִּבְנ֖וּ]] [[H9001\|וַ]][[H6743B\|יַּצְלִֽיחוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SEEKERS|SEEKERS]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.6|<< 2 Chronicles 14:6]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.8|2 Chronicles 14:8 >>]]</td></tr></table>
 
@@ -32,7 +100,7 @@ So he said to the people of Judah, “Let us build these cities and surround the
 | to us  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from round about  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5439I\|סָּבִ֑יב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבְנ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they prospered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6743B\|יַּצְלִֽיחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yatz.Li.chu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they prospered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6743B\|יַּצְלִֽיחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yatz.Li.chu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.6|<< 2 Chronicles 14:6]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.8|2 Chronicles 14:8 >>]]</td></tr></table>
 
 

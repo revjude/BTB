@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Japhethites
+type: Pericope
 pericope: "[[Gen.10.2 The Japhethites|The Japhethites]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 10
 book/chapter: "[[Gen.10|Genesis 10]]"
-genre:
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.10.2]]"
 - "[[Gen.10.3]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.10.5]]"
 ---
 
-[[Gen.10|Genesis 10:2 - Genesis 10:5]]
+<small>[[Gen.10|Genesis 10:2-5]]</small>
 *The Japhethites*
 
 [[Gen.10.2|2]] The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.

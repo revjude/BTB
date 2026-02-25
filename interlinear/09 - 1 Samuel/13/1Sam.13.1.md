@@ -1,8 +1,51 @@
+---
+title: 1 Samuel 13:1
+type: Verse
+kjv: "Saul reigned one year; and when he had reigned two years over Israel,"
+bsb: "Saul was thirty years old when he became king, and he reigned over Israel forty-two years."
+hebrew: "בֶּן־ שְׁלֹשִׁים שָׁנָ֖ה שָׁא֣וּל בְּמָלְכ֑וֹ וְאַרְבָּעִ֣ים וּשְׁתֵּ֣י שָׁנִ֔ים מָלַ֖ךְ עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H8147]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+- X
+---
+
 **1 Samuel 13:1**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul reigned one year; and when he had reigned two years over Israel,
 <small><sub>**BSB:**</sub></small>
 Saul was thirty years old when he became king, and he reigned over Israel forty-two years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H7970\|שְׁלֹשִׁים]] [[H8141\|שָׁנָ֖ה]] [[H7586G\|שָׁא֣וּל]] [[H9003\|בְּ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֣ים]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֣י]] [[H8141\|שָׁנִ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.25|<< 1 Samuel 12:25]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.2|1 Samuel 13:2 >>]]</td></tr></table>
 

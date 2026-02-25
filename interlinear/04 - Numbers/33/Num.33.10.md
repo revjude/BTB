@@ -1,8 +1,54 @@
+---
+title: Numbers 33:10
+type: Verse
+kjv: "And they removed from Elim, and encamped by the Red sea."
+bsb: "They set out from Elim and camped by the Red Sea."
+hebrew: "וַיִּסְע֖וּ מֵאֵילִ֑ם וַֽיַּחֲנ֖וּ עַל־ יַם־ סֽוּף׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0362]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H5488G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:10**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed from Elim, and encamped by the Red sea.
 <small><sub>**BSB:**</sub></small>
 They set out from Elim and camped by the Red Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מֵ]][[H0362\|אֵילִ֑ם]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3220G\|יַם]][[H9014\|־]] [[H5488G\|סֽוּף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.9|<< Numbers 33:9]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.11|Numbers 33:11 >>]]</td></tr></table>
 

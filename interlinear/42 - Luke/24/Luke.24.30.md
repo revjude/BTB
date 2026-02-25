@@ -1,10 +1,55 @@
+---
+title: Luke 24:30
+type: Verse
+kjv: "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+bsb: "While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them."
+greek: "καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ᾽ αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2625]]"
+- "[[G0846]]"
+- "[[G3326]]"
+- "[[G2983]]"
+- "[[G0740]]"
+- "[[G2127]]"
+- "[[G2806]]"
+- "[[G1929]]"
+texts:
+- NKO
+---
+
 **Luke 24:30**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he sat at meat with them, he took bread, and blessed [it], and brake, and gave to them.
 <small><sub>**BSB:**</sub></small>
 While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them.
-<small><sub>**Literal:**</sub></small>
-And it came to pass during the reclining of Him with them having taken the bread He blessed [it] and having broken [it] He was giving [it] to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.29|<< Luke 24:29]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.31|Luke 24:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2625\|κατακλιθῆναι]]  [[G0846\|αὐτὸν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2983\|λαβὼν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G2127\|εὐλόγησεν]]  [[G2532\|καὶ]]  [[G2806\|κλάσας]]  [[G1929\|ἐπεδίδου]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.29|<< Luke 24:29]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.31|Luke 24:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

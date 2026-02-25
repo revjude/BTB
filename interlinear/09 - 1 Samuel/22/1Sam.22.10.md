@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 22:10
+type: Verse
+kjv: "And he inquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine."
+bsb: "Ahimelech inquired of the LORD for him and gave him provisions. He also gave him the sword of Goliath the Philistine.”"
+hebrew: "וַיִּשְׁאַל־ לוֹ֙ בַּֽיהוָ֔ה וְצֵידָ֖ה נָ֣תַן ל֑וֹ וְאֵ֗ת חֶ֛רֶב גָּלְיָ֥ת הַפְּלִשְׁתִּ֖י נָ֥תַן לֽוֹ׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6720]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H2719]]"
+- "[[H1555]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:10**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he inquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine.
 <small><sub>**BSB:**</sub></small>
 Ahimelech inquired of the LORD for him and gave him provisions. He also gave him the sword of Goliath the Philistine.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַל]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H6720\|צֵידָ֖ה]] [[H5414G\|נָ֣תַן]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֵ֗ת]] [[H2719\|חֶ֛רֶב]] [[H1555\|גָּלְיָ֥ת]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖י]] [[H5414G\|נָ֥תַן]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMELECH|AHIMELECH]] • [[topic BETRAYAL|BETRAYAL]] • [[topic GOLIATH|GOLIATH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MALICE|MALICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.9|<< 1 Samuel 22:9]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.11|1 Samuel 22:11 >>]]</td></tr></table>
 

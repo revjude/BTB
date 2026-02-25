@@ -1,10 +1,62 @@
+---
+title: John 12:21
+type: Verse
+kjv: "The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus."
+bsb: "They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.”"
+greek: "οὗτοι οὖν προσῆλθον Φιλίππῳ τῷ ἀπὸ Βηθσαϊδὰ τῆς Γαλιλαίας καὶ ἠρώτων αὐτὸν λέγοντες· κύριε, θέλομεν τὸν Ἰησοῦν ἰδεῖν."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G4334]]"
+- "[[G5376G]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G0966]]"
+- "[[G1056G]]"
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962H]]"
+- "[[G2309]]"
+- "[[G2424G]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **John 12:21**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.
 <small><sub>**BSB:**</sub></small>
 They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.”
-<small><sub>**Literal:**</sub></small>
-these therefore came to Philip who was from Bethsaida <the> of Galilee and they were asking him saying; Sir, we desire <the> Jesus to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.20|<< John 12:20]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.22|John 12:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G3767\|οὖν]]  [[G4334\|προσῆλθον]]  [[G5376G\|Φιλίππῳ]]  [[G3588\|τῷ]]  [[G0575\|ἀπὸ]]  [[G0966\|Βηθσαϊδὰ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G2532\|καὶ]]  [[G2065\|ἠρώτων]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G2962H\|κύριε,]]  [[G2309\|θέλομεν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G1492H\|ἰδεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic BETHSAIDA|BETHSAIDA]] • [[topic CURIOSITY|CURIOSITY]] • [[topic DESIRE|DESIRE]] • [[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.20|<< John 12:20]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.22|John 12:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

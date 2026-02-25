@@ -1,8 +1,59 @@
+---
+title: Joshua 10:29
+type: Verse
+kjv: "Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:"
+bsb: "Then Joshua and all Israel with him moved on from Makkedah to Libnah and fought against Libnah."
+hebrew: "וַיַּעֲבֹ֣ר יְ֠הוֹשֻׁעַ וְכָֽל־ יִשְׂרָאֵ֥ל עִמּ֛וֹ מִמַּקֵּדָ֖ה לִבְנָ֑ה וַיִּלָּ֖חֶם עִם־ לִבְנָֽה׃"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4719]]"
+- "[[H3841H]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:29**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:
 <small><sub>**BSB:**</sub></small>
 Then Joshua and all Israel with him moved on from Makkedah to Libnah and fought against Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H3091G\|יְ֠הוֹשֻׁעַ]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H9006\|מִ]][[H4719\|מַּקֵּדָ֖ה]] [[H3841H\|לִבְנָ֑ה]] [[H9001\|וַ]][[H3898A\|יִּלָּ֖חֶם]] [[H5973A\|עִם]][[H9014\|־]] [[H3841H\|לִבְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HEBRON|HEBRON]] • [[topic JOSHUA|JOSHUA]] • [[topic LIBNAH|LIBNAH]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.28|<< Joshua 10:28]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.30|Joshua 10:30 >>]]</td></tr></table>
 

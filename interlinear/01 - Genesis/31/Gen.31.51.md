@@ -1,8 +1,64 @@
+---
+title: Genesis 31:51
+type: Verse
+kjv: "And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee;"
+bsb: "Laban also said to Jacob, “Here is the mound, and here is the pillar I have set up between you and me."
+hebrew: "וַיֹּ֥אמֶר לָבָ֖ן לְיַעֲקֹ֑ב הִנֵּ֣ה׀ הַגַּ֣ל הַזֶּ֗ה וְהִנֵּה֙ הַמַצֵּבָ֔ה אֲשֶׁ֥ר יָרִ֖יתִי בֵּינִ֥י וּבֵינֶֽךָ׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1530G]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H4676]]"
+- "[[H0834A]]"
+- "[[H3384B]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:51**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban said to Jacob, Behold this heap, and behold [this] pillar, which I have cast betwixt me and thee;
 <small><sub>**BSB:**</sub></small>
 Laban also said to Jacob, “Here is the mound, and here is the pillar I have set up between you and me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3837A\|לָבָ֖ן]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֑ב]] [[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H9009\|הַ]][[H1530G\|גַּ֣ל]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H9009\|הַ]][[H4676\|מַצֵּבָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3384B\|יָרִ֖יתִי]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic LABAN|LABAN]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.50|<< Genesis 31:50]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.52|Genesis 31:52 >>]]</td></tr></table>
 

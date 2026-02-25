@@ -1,10 +1,56 @@
+---
+title: Ephesians 2:1
+type: Verse
+kjv: "And you hath he quickened, who were dead in trespasses and sins;"
+bsb: "And you were dead in your trespasses and sins,"
+greek: "Καὶ ὑμᾶς ὄντας νεκροὺς τοῖς παραπτώμασιν καὶ ταῖς ἁμαρτίαις ὑμῶν,"
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic QUICKENING|QUICKENING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3498]]"
+- "[[G3588]]"
+- "[[G3900]]"
+- "[[G0266]]"
+texts:
+- NKO
+- no
+---
+
 **Ephesians 2:1**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And you [hath he quickened], who were dead in trespasses and sins;
 <small><sub>**BSB:**</sub></small>
 And you were dead in your trespasses and sins,
-<small><sub>**Literal:**</sub></small>
-And you being dead in the trespasses and in the sins of you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.23|<< Ephesians 1:23]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.2|Ephesians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4771\|ὑμᾶς]]  [[G1510\|ὄντας]]  [[G3498\|νεκροὺς]]  [[G3588\|τοῖς]]  [[G3900\|παραπτώμασιν]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G0266\|ἁμαρτίαις]]  [[G4771\|ὑμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic QUICKENING|QUICKENING]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.23|<< Ephesians 1:23]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.2|Ephesians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

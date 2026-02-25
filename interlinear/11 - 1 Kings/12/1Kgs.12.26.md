@@ -1,8 +1,61 @@
+---
+title: 1 Kings 12:26
+type: Verse
+kjv: "And Jeroboam said in his heart, Now shall the kingdom return to the house of David:"
+bsb: "Jeroboam said in his heart, “Now the kingdom might revert to the house of David."
+hebrew: "וַיֹּ֥אמֶר יָרָבְעָ֖ם בְּלִבּ֑וֹ עַתָּ֛ה תָּשׁ֥וּב הַמַּמְלָכָ֖ה לְבֵ֥ית דָּוִֽד׃"
+pericope: "[[1Kgs.12.25 Jeroboam’s Idolatry|Jeroboam’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3379G]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6258]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:26**<big><big>[[1Kgs.12.25 Jeroboam’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
 <small><sub>**BSB:**</sub></small>
 Jeroboam said in his heart, “Now the kingdom might revert to the house of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3379G\|יָרָבְעָ֖ם]] [[H9003\|בְּ]][[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H6258\|עַתָּ֛ה]] [[H7725G\|תָּשׁ֥וּב]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H1732\|דָּוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JEROBOAM|JEROBOAM]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic STATECRAFT|STATECRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.25|<< 1 Kings 12:25]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.27|1 Kings 12:27 >>]]</td></tr></table>
 

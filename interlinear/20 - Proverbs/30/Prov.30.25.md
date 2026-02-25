@@ -1,8 +1,57 @@
+---
+title: Proverbs 30:25
+type: Verse
+kjv: "The ants are a people not strong, yet they prepare their meat in the summer;"
+bsb: "The ants are creatures of little strength, yet they store up their food in the summer;"
+hebrew: "הַ֭נְּמָלִים עַ֣ם לֹא־ עָ֑ז וַיָּכִ֖ינוּ בַקַּ֣יִץ לַחְמָֽם׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANT|ANT]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SUMMER|SUMMER]]"
+strongs:
+- "[[H9009]]"
+- "[[H5244]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5794]]"
+- "[[H9001]]"
+- "[[H3559A]]"
+- "[[H9003]]"
+- "[[H7019]]"
+- "[[H3899G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:25**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ants [are] a people not strong, yet they prepare their meat in the summer;
 <small><sub>**BSB:**</sub></small>
 The ants are creatures of little strength, yet they store up their food in the summer;
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ֭]][[H5244\|נְּמָלִים]] [[H5971A\|עַ֣ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5794\|עָ֑ז]] [[H9001\|וַ]][[H3559A\|יָּכִ֖ינוּ]] [[H9003\|בַ]][[H7019\|קַּ֣יִץ]] [[H3899G\|לַחְמָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANT|ANT]] • [[topic INDUSTRY|INDUSTRY]] • [[topic RIDDLE|RIDDLE]] • [[topic SUMMER|SUMMER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.24|<< Proverbs 30:24]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.26|Proverbs 30:26 >>]]</td></tr></table>
 

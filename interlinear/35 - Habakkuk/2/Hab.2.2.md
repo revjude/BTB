@@ -1,8 +1,65 @@
+---
+title: Habakkuk 2:2
+type: Verse
+kjv: "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
+bsb: "Then the LORD answered me: “Write down this vision and clearly inscribe it on tablets, so that a herald may run with it."
+hebrew: "וַיַּעֲנֵ֤נִי יְהוָה֙ וַיֹּ֔אמֶר כְּת֣וֹב חָז֔וֹן וּבָאֵ֖ר עַל־ הַלֻּח֑וֹת לְמַ֥עַן יָר֖וּץ ק֥וֹרֵא בֽוֹ׃"
+pericope: "[[Hab.2.1 The LORD Answers Again|The LORD Answers Again]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H3789]]"
+- "[[H2377]]"
+- "[[H9002]]"
+- "[[H0874]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H4616]]"
+- "[[H7323G]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:2**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD answered me, and said, Write the vision, and make [it] plain upon tables, that he may run that readeth it.
 <small><sub>**BSB:**</sub></small>
 Then the LORD answered me: “Write down this vision and clearly inscribe it on tablets, so that a herald may run with it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעֲנֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H3789\|כְּת֣וֹב]] [[H2377\|חָז֔וֹן]] [[H9002\|וּ]][[H0874\|בָאֵ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּח֑וֹת]] [[H4616\|לְמַ֥עַן]] [[H7323G\|יָר֖וּץ]] [[H7121J\|ק֥וֹרֵא]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TABLE|TABLE]] • [[topic VISION|VISION]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.1|<< Habakkuk 2:1]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.3|Habakkuk 2:3 >>]]</td></tr></table>
 

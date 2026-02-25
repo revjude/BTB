@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 19:2
+type: Verse
+kjv: "And the victory that day was turned into mourning unto all the people: for the people heard say that day how the king was grieved for his son."
+bsb: "And that day’s victory was turned into mourning for all the people, because on that day they were told, “The king is grieving over his son.”"
+hebrew: "וַתְּהִ֨י הַתְּשֻׁעָ֜ה בַּיּ֥וֹם הַה֛וּא לְאֵ֖בֶל לְכָל־ הָעָ֑ם כִּֽי־ שָׁמַ֣ע הָעָ֗ם בַּיּ֤וֹם הַהוּא֙ לֵאמֹ֔ר נֶעֱצַ֥ב הַמֶּ֖לֶךְ עַל־ בְּנֽוֹ׃"
+pericope: "[[2Sam.19.1 Joab Reproves David|Joab Reproves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H8668H]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0060]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H0559]]"
+- "[[H6087A]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:2**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the victory that day was [turned] into mourning unto all the people: for the people heard say that day how the king was grieved for his son.
 <small><sub>**BSB:**</sub></small>
 And that day’s victory was turned into mourning for all the people, because on that day they were told, “The king is grieving over his son.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H9009\|הַ]][[H8668H\|תְּשֻׁעָ֜ה]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֛וּא]] [[H9005\|לְ]][[H0060\|אֵ֖בֶל]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שָׁמַ֣ע]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H6087A\|נֶעֱצַ֥ב]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic PARENTS|PARENTS]] • [[topic REPROOF|REPROOF]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.1|<< 2 Samuel 19:1]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.3|2 Samuel 19:3 >>]]</td></tr></table>
 

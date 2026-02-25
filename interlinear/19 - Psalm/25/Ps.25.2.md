@@ -1,8 +1,57 @@
+---
+title: Psalm 25:2
+type: Verse
+kjv: "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me."
+bsb: "in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me."
+hebrew: "אֱֽלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־ אֵב֑וֹשָׁה אַל־ יַֽעַלְצ֖וּ אֹיְבַ֣י לִֽי׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0982]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H5970]]"
+- "[[H0341]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:2**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.
 <small><sub>**BSB:**</sub></small>
 in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהַ֗]][[H9020\|י]] [[H9003\|בְּ]][[H9031\|ךָ֣]] [[H0982\|בָ֭טַחְתִּי]] [[H0408\|אַל]][[H9014\|־]] [[H0954\|אֵב֑וֹשָׁה]] [[H0408\|אַל]][[H9014\|־]] [[H5970\|יַֽעַלְצ֖וּ]] [[H0341\|אֹיְבַ֣]][[H9020\|י]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.1|<< Psalms 25:1]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.3|Psalms 25:3 >>]]</td></tr></table>
 

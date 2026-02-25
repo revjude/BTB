@@ -1,8 +1,60 @@
+---
+title: Esther 5:4
+type: Verse
+kjv: "And Esther answered, If it seem good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him."
+bsb: "“If it pleases the king,” Esther replied, “may the king and Haman come today to the banquet I have prepared for the king.”"
+hebrew: "וַתֹּ֣אמֶר אֶסְתֵּ֔ר אִם־ עַל־ הַמֶּ֖לֶךְ ט֑וֹב יָב֨וֹא הַמֶּ֤לֶךְ וְהָמָן֙ הַיּ֔וֹם אֶל־ הַמִּשְׁתֶּ֖ה אֲשֶׁר־ עָשִׂ֥יתִי לֽוֹ׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0635]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2896A]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H2001]]"
+- "[[H3117G]]"
+- "[[H0413]]"
+- "[[H4960]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:4**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esther answered, If [it seem] good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.
 <small><sub>**BSB:**</sub></small>
 “If it pleases the king,” Esther replied, “may the king and Haman come today to the banquet I have prepared for the king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0635\|אֶסְתֵּ֔ר]] [[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2896A\|ט֑וֹב]] [[H0935G\|יָב֨וֹא]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9002\|וְ]][[H2001\|הָמָן֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4960\|מִּשְׁתֶּ֖ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשִׂ֥יתִי]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.3|<< Esther 5:3]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.5|Esther 5:5 >>]]</td></tr></table>
 

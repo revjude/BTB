@@ -1,10 +1,66 @@
+---
+title: Matthew 20:3
+type: Verse
+kjv: "And he went out about the third hour, and saw others standing idle in the marketplace,"
+bsb: "About the third hour he went out and saw others standing in the marketplace doing nothing."
+jesus_said: "And he went out about the third hour, and saw others standing idle in the marketplace,"
+greek: "καὶ ἐξελθὼν περὶ τήν τρίτην ὥραν εἶδεν ἄλλους ἑστῶτας ἐν τῇ ἀγορᾷ ἀργούς"
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G5610]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G2476]]"
+- "[[G1722]]"
+- "[[G0058]]"
+- "[[G0692]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 20:3**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went out about the third hour, and saw others standing idle in the marketplace,
 <small><sub>**BSB:**</sub></small>
 About the third hour he went out and saw others standing in the marketplace doing nothing.
-<small><sub>**Literal:**</sub></small>
-And having gone out about the third hour he saw others already standing in the marketplace idle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.2|<< Matthew 20:2]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.4|Matthew 20:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξελθὼν]]  [[G4012\|περὶ]]  [[G3588\|τήν]]  [[G5154\|τρίτην]]  [[G5610\|ὥραν]]  [[G1492H\|εἶδεν]]  [[G0243\|ἄλλους]]  [[G2476\|ἑστῶτας]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0058\|ἀγορᾷ]]  [[G0692\|ἀργούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOSPEL|GOSPEL]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.2|<< Matthew 20:2]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.4|Matthew 20:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

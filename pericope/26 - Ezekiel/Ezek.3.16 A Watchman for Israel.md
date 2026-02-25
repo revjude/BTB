@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Watchman for Israel
+type: Pericope
 pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 3
 book/chapter: "[[Ezek.3|Ezekiel 3]]"
-genre:
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.3.16]]"
 - "[[Ezek.3.17]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.3.27]]"
 ---
 
-[[Ezek.3|Ezekiel 3:16 - Ezekiel 3:27]]
+<small>[[Ezek.3|Ezekiel 3:16-27]]</small>
 *A Watchman for Israel*
 
 [[Ezek.3.16|16]] And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,

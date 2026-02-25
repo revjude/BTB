@@ -1,8 +1,62 @@
+---
+title: Ezekiel 29:14
+type: Verse
+kjv: "And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom."
+bsb: "I will restore Egypt from captivity and bring them back to the land of Pathros, the land of their origin. There they will be a lowly kingdom."
+hebrew: "וְשַׁבְתִּי֙ אֶת־ שְׁב֣וּת מִצְרַ֔יִם וַהֲשִׁבֹתִ֤י אֹתָם֙ אֶ֣רֶץ פַּתְר֔וֹס עַל־ אֶ֖רֶץ מְכֽוּרָתָ֑ם וְהָ֥יוּ שָׁ֖ם מַמְלָכָ֥ה שְׁפָלָֽה׃"
+pericope: "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PATHROS|PATHROS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H4714G]]"
+- "[[H7725G]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H6624]]"
+- "[[H5921A]]"
+- "[[H4351]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H4467]]"
+- "[[H8217]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:14**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring again the captivity of Egypt, and will cause them to return [into] the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.
 <small><sub>**BSB:**</sub></small>
 I will restore Egypt from captivity and bring them back to the land of Pathros, the land of their origin. There they will be a lowly kingdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725H\|שַׁבְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֣וּת]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֤י]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0776G\|אֶ֣רֶץ]] [[H6624\|פַּתְר֔וֹס]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H4351\|מְכֽוּרָתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H1961\|הָ֥יוּ]] [[H8033G\|שָׁ֖ם]] [[H4467\|מַמְלָכָ֥ה]] [[H8217\|שְׁפָלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic PATHROS|PATHROS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.13|<< Ezekiel 29:13]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.15|Ezekiel 29:15 >>]]</td></tr></table>
 

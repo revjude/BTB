@@ -1,8 +1,57 @@
+---
+title: Ezra 10:7
+type: Verse
+kjv: "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;"
+bsb: "And a proclamation was issued throughout Judah and Jerusalem that all the exiles should gather at Jerusalem."
+hebrew: "וַיַּעֲבִ֨ירוּ ק֜וֹל בִּיהוּדָ֣ה וִירֽוּשָׁלִַ֗ם לְכֹל֙ בְּנֵ֣י הַגּוֹלָ֔ה לְהִקָּבֵ֖ץ יְרוּשָׁלִָֽם׃"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H6963J]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1121I]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H6908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 10:7**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
 <small><sub>**BSB:**</sub></small>
 And a proclamation was issued throughout Judah and Jerusalem that all the exiles should gather at Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבִ֨ירוּ]] [[H6963J\|ק֜וֹל]] [[H9003\|בִּ]][[H3063G\|יהוּדָ֣ה]] [[H9002\|וִ]][[H3389\|ירֽוּשָׁלִַ֗ם]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H1121I\|בְּנֵ֣י]] [[H9009\|הַ]][[H1473\|גּוֹלָ֔ה]] [[H9005\|לְ]][[H6908\|הִקָּבֵ֖ץ]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.6|<< Ezra 10:6]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.8|Ezra 10:8 >>]]</td></tr></table>
 

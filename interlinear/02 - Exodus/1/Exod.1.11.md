@@ -1,8 +1,78 @@
+---
+title: Exodus 1:11
+type: Verse
+kjv: "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses."
+bsb: "So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh."
+hebrew: "וַיָּשִׂ֤ימוּ עָלָיו֙ שָׂרֵ֣י מִסִּ֔ים לְמַ֥עַן עַנֹּת֖וֹ בְּסִבְלֹתָ֑ם וַיִּ֜בֶן עָרֵ֤י מִסְכְּנוֹת֙ לְפַרְעֹ֔ה אֶת־ פִּתֹ֖ם וְאֶת־ רַעַמְסֵֽס׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BRICK|BRICK]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PITHOM|PITHOM]]"
+- "[[topic RAMESES|RAMESES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREASURE CITIES|TREASURE CITIES]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760L]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8269]]"
+- "[[H4522]]"
+- "[[H4616]]"
+- "[[H6031B]]"
+- "[[H9003]]"
+- "[[H5450]]"
+- "[[H9028]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H4543]]"
+- "[[H9005]]"
+- "[[H6547I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6619]]"
+- "[[H9002]]"
+- "[[H7486H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:11**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
 <small><sub>**BSB:**</sub></small>
 So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760L\|יָּשִׂ֤ימוּ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H8269\|שָׂרֵ֣י]] [[H4522\|מִסִּ֔ים]] [[H4616\|לְמַ֥עַן]] [[H6031B\|עַנֹּת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H5450\|סִבְלֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H1129\|יִּ֜בֶן]] [[H5892B\|עָרֵ֤י]] [[H4543\|מִסְכְּנוֹת֙]] [[H9005\|לְ]][[H6547I\|פַרְעֹ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6619\|פִּתֹ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7486H\|רַעַמְסֵֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BRICK|BRICK]] • [[topic CITIES|CITIES]] • [[topic GOD|GOD]] • [[topic HOUSE|HOUSE]] • [[topic ISRAEL|ISRAEL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PITHOM|PITHOM]] • [[topic RAMESES|RAMESES]] • [[topic SERVANT|SERVANT]] • [[topic TREASURE CITIES|TREASURE CITIES]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.10|<< Exodus 1:10]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.12|Exodus 1:12 >>]]</td></tr></table>
 

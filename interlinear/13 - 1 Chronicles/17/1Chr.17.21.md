@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 17:21
+type: Verse
+kjv: "And what one nation in the earth is like thy people Israel, whom God went to redeem to be his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt?"
+bsb: "And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself? You made a name for Yourself through great and awesome wonders by driving out nations from before Your people, whom You redeemed from Egypt."
+hebrew: "וּמִי֙ כְּעַמְּךָ֣ יִשְׂרָאֵ֔ל גּ֥וֹי אֶחָ֖ד בָּאָ֑רֶץ אֲשֶׁר֩ הָלַ֨ךְ הָאֱלֹהִ֜ים לִפְדּ֧וֹת ל֣וֹ עָ֗ם לָשׂ֤וּם לְךָ֙ שֵׁ֚ם גְּדֻלּ֣וֹת וְנֹרָא֔וֹת לְגָרֵ֗שׁ מִפְּנֵ֧י עַמְּךָ֛ אֲשֶׁר־ פָּדִ֥יתָ מִמִּצְרַ֖יִם גּוֹיִֽם׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H1471A]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6299]]"
+- "[[H9033]]"
+- "[[H7760A]]"
+- "[[H9031]]"
+- "[[H8034]]"
+- "[[H1420]]"
+- "[[H3372H]]"
+- "[[H1644G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:21**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what one nation in the earth [is] like thy people Israel, whom God went to redeem [to be] his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt?
 <small><sub>**BSB:**</sub></small>
 And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself? You made a name for Yourself through great and awesome wonders by driving out nations from before Your people, whom You redeemed from Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִי֙]] [[H9004\|כְּ]][[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1471A\|גּ֥וֹי]] [[H0259\|אֶחָ֖ד]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H0834A\|אֲשֶׁר֩]] [[H1980G\|הָלַ֨ךְ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֜ים]] [[H9005\|לִ]][[H6299\|פְדּ֧וֹת]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H5971A\|עָ֗ם]] [[H9005\|לָ]][[H7760A\|שׂ֤וּם]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H8034\|שֵׁ֚ם]] [[H1420\|גְּדֻלּ֣וֹת]] [[H9002\|וְ]][[H3372H\|נֹרָא֔וֹת]] [[H9005\|לְ]][[H1644G\|גָרֵ֗שׁ]] [[H9006\|מִ]][[H6440G\|פְּנֵ֧י]] [[H5971A\|עַמְּ]][[H9021\|ךָ֛]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6299\|פָּדִ֥יתָ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.20|<< 1 Chronicles 17:20]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.22|1 Chronicles 17:22 >>]]</td></tr></table>
 

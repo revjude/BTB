@@ -1,8 +1,69 @@
+---
+title: Jonah 4:6
+type: Verse
+kjv: "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+bsb: "So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s head to ease his discomfort, and Jonah was greatly pleased with the plant."
+hebrew: "וַיְמַ֣ן יְהוָֽה־ אֱ֠לֹהִים קִיקָי֞וֹן וַיַּ֣עַל׀ מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל־ רֹאשׁ֔וֹ לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל־ הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה׃"
+pericope: "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOURD|GOURD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H4487]]"
+- "[[H3068G]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H7021]]"
+- "[[H5927G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9005]]"
+- "[[H3124]]"
+- "[[H1961]]"
+- "[[H6738]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5337]]"
+- "[[H9033]]"
+- "[[H7451C]]"
+- "[[H8055]]"
+- "[[H9009]]"
+- "[[H8057]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 4:6**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God prepared a gourd, and made [it] to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.
 <small><sub>**BSB:**</sub></small>
 So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s head to ease his discomfort, and Jonah was greatly pleased with the plant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4487\|יְמַ֣ן]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱ֠לֹהִים]] [[H7021\|קִיקָי֞וֹן]] [[H9001\|וַ]][[H5927G\|יַּ֣עַל]][[H9015\|׀]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9005\|לְ]][[H3124\|יוֹנָ֗ה]] [[H9005\|לִֽ]][[H1961\|הְי֥וֹת]] [[H6738\|צֵל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מֵ]][[H7451C\|רָֽעָת֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H8055\|יִּשְׂמַ֥ח]] [[H3124\|יוֹנָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7021\|קִּֽיקָי֖וֹן]] [[H8057\|שִׂמְחָ֥ה]] [[H1419A\|גְדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOURD|GOURD]] • [[topic MIRACLES|MIRACLES]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.5|<< Jonah 4:5]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.7|Jonah 4:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

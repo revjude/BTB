@@ -1,8 +1,54 @@
+---
+title: Proverbs 23:8
+type: Verse
+kjv: "The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words."
+bsb: "You will vomit up what little you have eaten and waste your pleasant words."
+hebrew: "פִּֽתְּךָ־ אָכַ֥לְתָּ תְקִיאֶ֑נָּה וְ֝שִׁחַ֗תָּ דְּבָרֶ֥יךָ הַנְּעִימִֽים׃"
+pericope: "[[Prov.23.6 Saying 9|Saying 9]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GUEST|GUEST]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H6595A]]"
+- "[[H9021]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H6958]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H7843]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H5273A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:8**<big><big>[[Prov.23.6 Saying 9|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words.
 <small><sub>**BSB:**</sub></small>
 You will vomit up what little you have eaten and waste your pleasant words.
+<small><sub>**Hebrew:**</sub></small>
+[[H6595A\|פִּֽתְּ]][[H9021\|ךָ]][[H9014\|־]] [[H0398\|אָכַ֥לְתָּ]] [[H6958\|תְקִיאֶ֑]][[H9034\|נָּה]] [[H9001\|וְ֝]][[H7843\|שִׁחַ֗תָּ]] [[H1697G\|דְּבָרֶ֥י]][[H9021\|ךָ]] [[H9009\|הַ]][[H5273A\|נְּעִימִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GUEST|GUEST]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.7|<< Proverbs 23:7]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.9|Proverbs 23:9 >>]]</td></tr></table>
 

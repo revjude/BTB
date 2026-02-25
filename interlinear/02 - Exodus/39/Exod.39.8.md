@@ -1,8 +1,68 @@
+---
+title: Exodus 39:8
+type: Verse
+kjv: "And he made the breastplate of cunning work, like the work of the ephod; of gold, blue, and purple, and scarlet, and fine twined linen."
+bsb: "He made the breastpiece with the same workmanship as the ephod, with gold, with blue, purple, and scarlet yarn, and with finely spun linen."
+hebrew: "וַיַּ֧עַשׂ אֶת־ הַחֹ֛שֶׁן מַעֲשֵׂ֥ה חֹשֵׁ֖ב כְּמַעֲשֵׂ֣ה אֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מָשְׁזָֽר׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2833]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H9004]]"
+- "[[H0646]]"
+- "[[H2091]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:8**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the breastplate [of] cunning work, like the work of the ephod; [of] gold, blue, and purple, and scarlet, and fine twined linen.
 <small><sub>**BSB:**</sub></small>
 He made the breastpiece with the same workmanship as the ephod, with gold, with blue, purple, and scarlet yarn, and with finely spun linen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֧עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2833\|חֹ֛שֶׁן]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵׁ֖ב]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֣ה]] [[H0646\|אֵפֹ֑ד]] [[H2091\|זָהָ֗ב]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic ENGRAVING|ENGRAVING]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.7|<< Exodus 39:7]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.9|Exodus 39:9 >>]]</td></tr></table>
 

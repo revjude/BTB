@@ -1,8 +1,71 @@
+---
+title: Malachi 1:8
+type: Verse
+kjv: "And if ye offer the blind for sacrifice, is it not evil? and if ye offer the lame and sick, is it not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts."
+bsb: "When you offer blind animals for sacrifice, is it not wrong? And when you present the lame and sick ones, is it not wrong? Try offering them to your governor! Would he be pleased with you or show you favor?” asks the LORD of Hosts."
+hebrew: "וְכִֽי־ תַגִּשׁ֨וּן עִוֵּ֤ר לִזְבֹּ֙חַ֙ אֵ֣ין רָ֔ע וְכִ֥י תַגִּ֛ישׁוּ פִּסֵּ֥חַ וְחֹלֶ֖ה אֵ֣ין רָ֑ע הַקְרִיבֵ֨הוּ נָ֜א לְפֶחָתֶ֗ךָ הֲיִרְצְךָ֙ א֚וֹ הֲיִשָּׂ֣א פָנֶ֔יךָ אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5066H]]"
+- "[[H9013]]"
+- "[[H5787]]"
+- "[[H9005]]"
+- "[[H2076]]"
+- "[[H0369]]"
+- "[[H7451H]]"
+- "[[H6455]]"
+- "[[H2470H]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H4994]]"
+- "[[H6346]]"
+- "[[H9021]]"
+- "[[H9008]]"
+- "[[H7521]]"
+- "[[H9031]]"
+- "[[H0176A]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:8**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye offer the blind for sacrifice, [is it] not evil? and if ye offer the lame and sick, [is it] not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 When you offer blind animals for sacrifice, is it not wrong? And when you present the lame and sick ones, is it not wrong? Try offering them to your governor! Would he be pleased with you or show you favor?” asks the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5066H\|תַגִּשׁ֨וּ]][[H9013\|ן]] [[H5787\|עִוֵּ֤ר]] [[H9005\|לִ]][[H2076\|זְבֹּ֙חַ֙]] [[H0369\|אֵ֣ין]] [[H7451H\|רָ֔ע]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H5066H\|תַגִּ֛ישׁוּ]] [[H6455\|פִּסֵּ֥חַ]] [[H9002\|וְ]][[H2470H\|חֹלֶ֖ה]] [[H0369\|אֵ֣ין]] [[H7451H\|רָ֑ע]] [[H7126H\|הַקְרִיבֵ֨]][[H9033\|הוּ]] [[H4994\|נָ֜א]] [[H9005\|לְ]][[H6346\|פֶחָתֶ֗]][[H9021\|ךָ]] [[H9008\|הֲ]][[H7521\|יִרְצְ]][[H9031\|ךָ֙]] [[H0176A\|א֚וֹ]] [[H9008\|הֲ]][[H5375Q\|יִשָּׂ֣א]] [[H6440N\|פָנֶ֔י]][[H9021\|ךָ]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.7|<< Malachi 1:7]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.9|Malachi 1:9 >>]]</td></tr></table>
 

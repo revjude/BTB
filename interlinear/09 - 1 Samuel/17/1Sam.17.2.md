@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 17:2
+type: Verse
+kjv: "And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines."
+bsb: "Saul and the men of Israel assembled and camped in the Valley of Elah, arraying themselves for battle against the Philistines."
+hebrew: "וְשָׁא֤וּל וְאִֽישׁ־ יִשְׂרָאֵל֙ נֶאֶסְפ֔וּ וַֽיַּחֲנ֖וּ בְּעֵ֣מֶק הָאֵלָ֑ה וַיַּעַרְכ֥וּ מִלְחָמָ֖ה לִקְרַ֥את פְּלִשְׁתִּֽים׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELAH|ELAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H7586G]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0622]]"
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H6010I]]"
+- "[[H9009]]"
+- "[[H0425L]]"
+- "[[H6186A]]"
+- "[[H4421]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:2**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines.
 <small><sub>**BSB:**</sub></small>
 Saul and the men of Israel assembled and camped in the Valley of Elah, arraying themselves for battle against the Philistines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7586G\|שָׁא֤וּל]] [[H9002\|וְ]][[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0622\|נֶאֶסְפ֔וּ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9003\|בְּ]][[H6010I\|עֵ֣מֶק]] [[H9009\|הָ]][[H0425L\|אֵלָ֑ה]] [[H9001\|וַ]][[H6186A\|יַּעַרְכ֥וּ]] [[H4421\|מִלְחָמָ֖ה]] [[H9005\|לִ]][[H7122H\|קְרַ֥את]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAH|ELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.1|<< 1 Samuel 17:1]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.3|1 Samuel 17:3 >>]]</td></tr></table>
 

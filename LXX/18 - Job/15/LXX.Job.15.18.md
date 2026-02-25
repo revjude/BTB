@@ -1,6 +1,40 @@
+---
+title: LXX Job 15:18
+type: Verse
+lxx: "what the wise men shall say, and what was not hidden from their fathers."
+greek: "α σοφοί ερούσι και ουκ έκρυψαν πατέρες αυτών"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[G3739]]"
+- "[[G4680]]"
+- "[[G2046]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2928]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX Job 15:18** 
 <small><sub>**LXX:**</sub></small>
 what \[the\] wise \[men\] shall say, and \[what\] was not hidden from their fathers. 
+<small><sub>**Greek:**</sub></small>
+[[G3739\|α]] [[G4680\|σοφοί]] [[G2046\|ερούσι]] [[G2532\|και]] [[G3756\|ουκ]] [[G2928\|έκρυψαν]] [[G3962\|πατέρες]] [[G1473\|αυτών]]
 <small><sub>**MT:**</sub></small>
 [[Job.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.19|Job 15:19 >>]]</td></tr></table>
 
@@ -13,6 +47,6 @@ what \[the\] wise \[men\] shall say, and \[what\] was not hidden from their fath
 | \[what\] was not | **<big>[[G3756\|ουκ]]</big>** |
 | hidden | **<big>[[G2928\|έκρυψαν]]</big>** |
 | from their fathers. | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Job.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.19|Job 15:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.19|Job 15:19 >>]]</td></tr></table>
 
 

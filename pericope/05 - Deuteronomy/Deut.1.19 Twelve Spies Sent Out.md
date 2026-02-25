@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Twelve Spies Sent Out
+type: Pericope
 pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.1.19]]"
 - "[[Deut.1.20]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.1.25]]"
 ---
 
-[[Deut.1|Deuteronomy 1:19 - Deuteronomy 1:25]]
+<small>[[Deut.1|Deuteronomy 1:19-25]]</small>
 *Twelve Spies Sent Out*
 
 [[Deut.1.19|19]] And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.

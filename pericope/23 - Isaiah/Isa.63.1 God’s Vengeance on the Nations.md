@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Vengeance on the Nations
+type: Pericope
 pericope: "[[Isa.63.1 God’s Vengeance on the Nations|God’s Vengeance on the Nations]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 63
 book/chapter: "[[Isa.63|Isaiah 63]]"
-genre:
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.63.1]]"
 - "[[Isa.63.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.63.6]]"
 ---
 
-[[Isa.63|Isaiah 63:1 - Isaiah 63:6]]
+<small>[[Isa.63|Isaiah 63:1-6]]</small>
 *God’s Vengeance on the Nations*
 
 [[Isa.63.1|1]] Who \[is\] this that cometh from Edom, with dyed garments from Bozrah? this \[that is\] glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.

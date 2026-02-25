@@ -1,8 +1,54 @@
+---
+title: Isaiah 66:6
+type: Verse
+kjv: "A voice of noise from the city, a voice from the temple, a voice of the LORD that rendereth recompence to his enemies."
+bsb: "Hear the uproar from the city; listen to the voice from the temple! It is the voice of the LORD, repaying His enemies what they deserve!"
+hebrew: "ק֤וֹל שָׁאוֹן֙ מֵעִ֔יר ק֖וֹל מֵֽהֵיכָ֑ל ק֣וֹל יְהוָ֔ה מְשַׁלֵּ֥ם גְּמ֖וּל לְאֹיְבָֽיו׃"
+pericope: "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H6963H]]"
+- "[[H7588]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H7999A]]"
+- "[[H1576]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:6**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of noise from the city, a voice from the temple, a voice of the LORD that rendereth recompence to his enemies.
 <small><sub>**BSB:**</sub></small>
 Hear the uproar from the city; listen to the voice from the temple! It is the voice of the LORD, repaying His enemies what they deserve!
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|ק֤וֹל]] [[H7588\|שָׁאוֹן֙]] [[H9006\|מֵ]][[H5892B\|עִ֔יר]] [[H6963H\|ק֖וֹל]] [[H9006\|מֵֽ]][[H1964G\|הֵיכָ֑ל]] [[H6963H\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H7999A\|מְשַׁלֵּ֥ם]] [[H1576\|גְּמ֖וּל]] [[H9005\|לְ]][[H0341\|אֹיְבָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.5|<< Isaiah 66:5]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.7|Isaiah 66:7 >>]]</td></tr></table>
 

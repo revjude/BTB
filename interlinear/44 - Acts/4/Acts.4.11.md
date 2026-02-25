@@ -1,10 +1,67 @@
+---
+title: Acts 4:11
+type: Verse
+kjv: "This is the stone which was set at nought of you builders, which is become the head of the corner."
+bsb: "This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’"
+greek: "οὗτός ἐστιν ὁ λίθος ὁ ἐξουθενηθεὶς ὑφ᾽ ὑμῶν τῶν οἰκοδόμων, ὁ γενόμενος εἰς κεφαλὴν γωνίας."
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BUILDER|BUILDER]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G1848]]"
+- "[[G5259G]]"
+- "[[G4771]]"
+- "[[G6065]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G2776]]"
+- "[[G1137]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:11**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is the stone which was set at nought of you builders, which is become the head of the corner.
 <small><sub>**BSB:**</sub></small>
 This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’
-<small><sub>**Literal:**</sub></small>
-This is the stone which having been rejected by you the builders, which has become into head of [the] corner.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.10|<< Acts 4:10]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.12|Acts 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3037\|λίθος]]  [[G3588\|ὁ]]  [[G1848\|ἐξουθενηθεὶς]]  [[G5259G\|ὑφ᾽]]  [[G4771\|ὑμῶν]]  [[G3588\|τῶν]]  [[G6065\|οἰκοδόμων,]]  [[G3588\|ὁ]]  [[G1096\|γενόμενος]]  [[G1519\|εἰς]]  [[G2776\|κεφαλὴν]]  [[G1137\|γωνίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUILDER|BUILDER]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic CORNERSTONE|CORNERSTONE]] • [[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STONES|STONES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.10|<< Acts 4:10]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.12|Acts 4:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 4:11** is...
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]

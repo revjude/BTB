@@ -1,10 +1,57 @@
+---
+title: Matthew 20:32
+type: Verse
+kjv: "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?"
+bsb: "Jesus stopped and called them. “What do you want Me to do for you?” He asked."
+jesus_said: "What will ye that I shall do unto you?"
+greek: "Καὶ στὰς ὁ Ἰησοῦς ἐφώνησεν αὐτοὺς καὶ εἶπεν· τί θέλετε ποιήσω ὑμῖν;"
+pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5455]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Matthew 20:32**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus stood still, and called them, and said, What will ye that I shall do unto you?
 <small><sub>**BSB:**</sub></small>
 Jesus stopped and called them. “What do you want Me to do for you?” He asked.
-<small><sub>**Literal:**</sub></small>
-And having stopped <the> Jesus called them and said; What do you desire I may do unto you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.31|<< Matthew 20:31]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.33|Matthew 20:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2476\|στὰς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5455\|ἐφώνησεν]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G5101\|τί]]  [[G2309\|θέλετε]]  [[G4160G\|ποιήσω]]  [[G4771\|ὑμῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.31|<< Matthew 20:31]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.33|Matthew 20:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Hosea 12:3
+type: Verse
+kjv: "He took his brother by the heel in the womb, and by his strength he had power with God:"
+bsb: "In the womb he grasped his brother’s heel, and in his vigor he wrestled with God."
+hebrew: "בַּבֶּ֖טֶן עָקַ֣ב אֶת־ אָחִ֑יו וּבְאוֹנ֖וֹ שָׂרָ֥ה אֶת־ אֱלֹהִֽים׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H0990H]]"
+- "[[H6117]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0202]]"
+- "[[H8280]]"
+- "[[H0854]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:3**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took his brother by the heel in the womb, and by his strength he had power with God:
 <small><sub>**BSB:**</sub></small>
 In the womb he grasped his brother’s heel, and in his vigor he wrestled with God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H0990H\|בֶּ֖טֶן]] [[H6117\|עָקַ֣ב]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H0202\|אוֹנ֖]][[H9023\|וֹ]] [[H8280\|שָׂרָ֥ה]] [[H0854\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.2|<< Hosea 12:2]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.4|Hosea 12:4 >>]]</td></tr></table>
 

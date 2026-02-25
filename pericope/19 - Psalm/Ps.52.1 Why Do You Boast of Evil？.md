@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Why Do You Boast of Evil？
+type: Pericope
 pericope: "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 52
 book/chapter: "[[Ps.52|Psalm 52]]"
-genre:
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.52.0]]"
 - "[[Ps.52.1]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.52.9]]"
 ---
 
-[[Ps.52|Psalm 52:1 - Psalm 52:9]]
+<small>[[Ps.52|Psalm 52:1-9]]</small>
 *Why Do You Boast of Evil？*
 
 [[Ps.52.0|0]] To the chief Musician, Maschil, \[A Psalm\] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.

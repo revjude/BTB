@@ -1,8 +1,67 @@
+---
+title: 2 Kings 4:5
+type: Verse
+kjv: "So she went from him, and shut the door upon her and upon her sons, who brought the vessels to her; and she poured out."
+bsb: "So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring."
+hebrew: "וַתֵּ֙לֶךְ֙ מֵֽאִתּ֔וֹ וַתִּסְגֹּ֣ר הַדֶּ֔לֶת בַּעֲדָ֖הּ וּבְעַ֣ד בָּנֶ֑יהָ הֵ֛ם מַגִּשִׁ֥ים אֵלֶ֖יהָ וְהִ֥יא מוֹצָֽקֶת׃"
+pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5462]]"
+- "[[H9009]]"
+- "[[H1817C]]"
+- "[[H1157]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H1992]]"
+- "[[H5066H]]"
+- "[[H0413]]"
+- "[[H1931]]"
+- "[[H3332G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 4:5**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she went from him, and shut the door upon her and upon her sons, who brought [the vessels] to her; and she poured out.
 <small><sub>**BSB:**</sub></small>
 So she left him, and after she had shut the door behind her and her sons, they kept bringing jars to her, and she kept pouring.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|תֵּ֙לֶךְ֙]] [[H9006\|מֵֽ]][[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H5462\|תִּסְגֹּ֣ר]] [[H9009\|הַ]][[H1817C\|דֶּ֔לֶת]] [[H1157\|בַּעֲדָ֖]][[H9034\|הּ]] [[H9002\|וּ]][[H1157\|בְעַ֣ד]] [[H1121A\|בָּנֶ֑י]][[H9024\|הָ]] [[H1992\|הֵ֛ם]] [[H5066H\|מַגִּשִׁ֥ים]] [[H0413\|אֵלֶ֖י]][[H9034\|הָ]] [[H9002\|וְ]][[H1931\|הִ֥יא]] [[H3332G\|מוֹצָֽקֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic OIL|OIL]] • [[topic POOR|POOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.4|<< 2 Kings 4:4]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.6|2 Kings 4:6 >>]]</td></tr></table>
 

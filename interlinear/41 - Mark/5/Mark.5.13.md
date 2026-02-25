@@ -1,10 +1,69 @@
+---
+title: Mark 5:13
+type: Verse
+kjv: "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea."
+bsb: "He gave them permission, and the unclean spirits came out and went into the pigs, and the herd of about two thousand rushed down the steep bank into the sea and drowned in the water."
+greek: "καὶ ἐπέτρεψεν αὐτοῖς εὐθέως ὁ Ἰησοῦς. καὶ ἐξελθόντα τὰ πνεύματα τὰ ἀκάθαρτα εἰσῆλθον εἰς τοὺς χοίρους, καὶ ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν ἦσαν δὲ ὡς δισχίλιοι καὶ ἐπνίγοντο ἐν τῇ θαλάσσῃ."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2010]]"
+- "[[G0846]]"
+- "[[G2112]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1831]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G5519]]"
+- "[[G3729]]"
+- "[[G0034]]"
+- "[[G2596]]"
+- "[[G2911]]"
+- "[[G2281]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5613]]"
+- "[[G1367]]"
+- "[[G4155]]"
+- "[[G1722]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 5:13**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.
 <small><sub>**BSB:**</sub></small>
 He gave them permission, and the unclean spirits came out and went into the pigs, and the herd of about two thousand rushed down the steep bank into the sea and drowned in the water.
-<small><sub>**Literal:**</sub></small>
-And He allowed them immediately <the> Jesus. And having gone out the spirits <the> unclean entered into the pigs, and rushed the herd down the steep bank into the sea were now about two thousand and they were drowned in the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.12|<< Mark 5:12]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.14|Mark 5:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2010\|ἐπέτρεψεν]]  [[G0846\|αὐτοῖς]]  [[G2112\|εὐθέως]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς.]]  [[G2532\|καὶ]]  [[G1831\|ἐξελθόντα]]  [[G3588\|τὰ]]  [[G4151G\|πνεύματα]]  [[G3588\|τὰ]]  [[G0169\|ἀκάθαρτα]]  [[G1525\|εἰσῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G5519\|χοίρους,]]  [[G2532\|καὶ]]  [[G3729\|ὥρμησεν]]  [[G3588\|ἡ]]  [[G0034\|ἀγέλη]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2911\|κρημνοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G5613\|ὡς]]  [[G1367\|δισχίλιοι]]  [[G2532\|καὶ]]  [[G4155\|ἐπνίγοντο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.12|<< Mark 5:12]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.14|Mark 5:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

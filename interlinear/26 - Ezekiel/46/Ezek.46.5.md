@@ -1,8 +1,57 @@
+---
+title: Ezekiel 46:5
+type: Verse
+kjv: "And the meat offering shall be an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah."
+bsb: "The grain offering with the ram shall be one ephah, and the grain offering with the lambs shall be as much as he is able, along with a hin of oil per ephah."
+hebrew: "וּמִנְחָה֙ אֵיפָ֣ה לָאַ֔יִל וְלַכְּבָשִׂ֥ים מִנְחָ֖ה מַתַּ֣ת יָד֑וֹ וְשֶׁ֖מֶן הִ֥ין לָאֵיפָֽה׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H0374]]"
+- "[[H9005]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H4991]]"
+- "[[H3027T]]"
+- "[[H9023]]"
+- "[[H8081]]"
+- "[[H1969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:5**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the meat offering [shall be] an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.
 <small><sub>**BSB:**</sub></small>
 The grain offering with the ram shall be one ephah, and the grain offering with the lambs shall be as much as he is able, along with a hin of oil per ephah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִנְחָה֙]] [[H0374\|אֵיפָ֣ה]] [[H9005\|לָ]][[H0352A\|אַ֔יִל]] [[H9002\|וְ]][[H9005\|לַ]][[H3532\|כְּבָשִׂ֥ים]] [[H4503G\|מִנְחָ֖ה]] [[H4991\|מַתַּ֣ת]] [[H3027T\|יָד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H1969\|הִ֥ין]] [[H9005\|לָ]][[H0374\|אֵיפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MEASURE|MEASURE]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.4|<< Ezekiel 46:4]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.6|Ezekiel 46:6 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Numbers 27:8
+type: Verse
+kjv: "And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter."
+bsb: "Furthermore, you shall say to the Israelites, ‘If a man dies and leaves no son, you are to transfer his inheritance to his daughter."
+hebrew: "וְאֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֣ישׁ כִּֽי־ יָמ֗וּת וּבֵן֙ אֵ֣ין ל֔וֹ וְהַֽעֲבַרְתֶּ֥ם אֶת־ נַחֲלָת֖וֹ לְבִתּֽוֹ׃"
+pericope: "[[Num.27.1 The Daughters of Zelophehad|The Daughters of Zelophehad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H1121A]]"
+- "[[H0369]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:8**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.
 <small><sub>**BSB:**</sub></small>
 Furthermore, you shall say to the Israelites, ‘If a man dies and leaves no son, you are to transfer his inheritance to his daughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1696G\|תְּדַבֵּ֣ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0376G\|אִ֣ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4191\|יָמ֗וּת]] [[H9002\|וּ]][[H1121A\|בֵן֙]] [[H0369\|אֵ֣ין]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H5674A\|הַֽעֲבַרְתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H1323G\|בִתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic ISRAEL|ISRAEL]] • [[topic LAND|LAND]] • [[topic LEGISLATION|LEGISLATION]] • [[topic PROPERTY|PROPERTY]] • [[topic TIRZAH|TIRZAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.7|<< Numbers 27:7]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.9|Numbers 27:9 >>]]</td></tr></table>
 

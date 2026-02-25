@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Fetches the Ark
+type: Pericope
 pericope: "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 6
 book/chapter: "[[2Sam.6|2 Samuel 6]]"
-genre:
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 4
 verses:
 - "[[2Sam.6.1]]"
 - "[[2Sam.6.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Sam.6.4]]"
 ---
 
-[[2Sam.6|2 Samuel 6:1 - 2 Samuel 6:4]]
+<small>[[2Sam.6|2 Samuel 6:1-4]]</small>
 *David Fetches the Ark*
 
 [[2Sam.6.1|1]] Again, David gathered together all \[the\] chosen \[men\] of Israel, thirty thousand.

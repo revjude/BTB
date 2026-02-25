@@ -1,8 +1,55 @@
+---
+title: Job 31:10
+type: Verse
+kjv: "Then let my wife grind unto another, and let others bow down upon her."
+bsb: "then may my own wife grind grain for another, and may other men sleep with her."
+hebrew: "תִּטְחַ֣ן לְאַחֵ֣ר אִשְׁתִּ֑י וְ֝עָלֶ֗יהָ יִכְרְע֥וּן אֲחֵרִֽין׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LUST|LUST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H2912]]"
+- "[[H9005]]"
+- "[[H0312]]"
+- "[[H0802H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3766]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:10**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] let my wife grind unto another, and let others bow down upon her.
 <small><sub>**BSB:**</sub></small>
 then may my own wife grind grain for another, and may other men sleep with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H2912\|תִּטְחַ֣ן]] [[H9005\|לְ]][[H0312\|אַחֵ֣ר]] [[H0802H\|אִשְׁתִּ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H5921A\|עָלֶ֗י]][[H9034\|הָ]] [[H3766\|יִכְרְע֥וּ]][[H9013\|ן]] [[H0312\|אֲחֵרִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LUST|LUST]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.9|<< Job 31:9]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.11|Job 31:11 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Leviticus 16:4
+type: Verse
+kjv: "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on."
+bsb: "He is to wear the sacred linen tunic, with linen undergarments. He must tie a linen sash around him and put on the linen turban. These are holy garments, and he must bathe himself with water before he wears them."
+hebrew: "כְּתֹֽנֶת־ בַּ֨ד קֹ֜דֶשׁ יִלְבָּ֗שׁ וּמִֽכְנְסֵי־ בַד֮ יִהְי֣וּ עַל־ בְּשָׂרוֹ֒ וּבְאַבְנֵ֥ט בַּד֙ יַחְגֹּ֔ר וּבְמִצְנֶ֥פֶת בַּ֖ד יִצְנֹ֑ף בִּגְדֵי־ קֹ֣דֶשׁ הֵ֔ם וְרָחַ֥ץ בַּמַּ֛יִם אֶת־ בְּשָׂר֖וֹ וּלְבֵשָֽׁם׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BREECHES|BREECHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H3801]]"
+- "[[H9014]]"
+- "[[H0906]]"
+- "[[H6944G]]"
+- "[[H3847]]"
+- "[[H9002]]"
+- "[[H4370]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0073]]"
+- "[[H2296]]"
+- "[[H4701]]"
+- "[[H6801]]"
+- "[[H0899B]]"
+- "[[H1992]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H4325G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:4**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these [are] holy garments; therefore shall he wash his flesh in water, and [so] put them on.
 <small><sub>**BSB:**</sub></small>
 He is to wear the sacred linen tunic, with linen undergarments. He must tie a linen sash around him and put on the linen turban. These are holy garments, and he must bathe himself with water before he wears them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3801\|כְּתֹֽנֶת]][[H9014\|־]] [[H0906\|בַּ֨ד]] [[H6944G\|קֹ֜דֶשׁ]] [[H3847\|יִלְבָּ֗שׁ]] [[H9002\|וּ]][[H4370\|מִֽכְנְסֵי]][[H9014\|־]] [[H0906\|בַד֮]] [[H1961\|יִהְי֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1320\|בְּשָׂר]][[H9023\|וֹ֒]] [[H9002\|וּ]][[H9003\|בְ]][[H0073\|אַבְנֵ֥ט]] [[H0906\|בַּד֙]] [[H2296\|יַחְגֹּ֔ר]] [[H9002\|וּ]][[H9003\|בְ]][[H4701\|מִצְנֶ֥פֶת]] [[H0906\|בַּ֖ד]] [[H6801\|יִצְנֹ֑ף]] [[H0899B\|בִּגְדֵי]][[H9014\|־]] [[H6944G\|קֹ֣דֶשׁ]] [[H1992\|הֵ֔ם]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H9003\|בַּ]][[H4325G\|מַּ֛יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9001\|וּ]][[H3847\|לְבֵשָֽׁ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BREECHES|BREECHES]] • [[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic GIRDLE|GIRDLE]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.3|<< Leviticus 16:3]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.5|Leviticus 16:5 >>]]</td></tr></table>
 

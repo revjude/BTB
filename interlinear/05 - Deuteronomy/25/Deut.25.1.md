@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 25:1
+type: Verse
+kjv: "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked."
+bsb: "If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned."
+hebrew: "כִּֽי־ יִהְיֶ֥ה רִיב֙ בֵּ֣ין אֲנָשִׁ֔ים וְנִגְּשׁ֥וּ אֶל־ הַמִּשְׁפָּ֖ט וּשְׁפָט֑וּם וְהִצְדִּ֙יקוּ֙ אֶת־ הַצַּדִּ֔יק וְהִרְשִׁ֖יעוּ אֶת־ הָרָשָֽׁע׃"
+pericope: "[[Deut.25.1 Fairness and Mercy|Fairness and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H7379]]"
+- "[[H0996G]]"
+- "[[H0582]]"
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H8199]]"
+- "[[H9038]]"
+- "[[H6663]]"
+- "[[H0853]]"
+- "[[H6662]]"
+- "[[H7561]]"
+- "[[H7563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:1**<big><big>[[Deut.25.1 Fairness and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be a controversy between men, and they come unto judgment, that [the judges] may judge them; then they shall justify the righteous, and condemn the wicked.
 <small><sub>**BSB:**</sub></small>
 If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H7379\|רִיב֙]] [[H0996G\|בֵּ֣ין]] [[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וְ]][[H5066G\|נִגְּשׁ֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּ֖ט]] [[H9001\|וּ]][[H8199\|שְׁפָט֑וּ]][[H9038\|ם]] [[H9001\|וְ]][[H6663\|הִצְדִּ֙יקוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6662\|צַּדִּ֔יק]] [[H9001\|וְ]][[H7561\|הִרְשִׁ֖יעוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7563\|רָשָֽׁע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.22|<< Deuteronomy 24:22]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.2|Deuteronomy 25:2 >>]]</td></tr></table>
 

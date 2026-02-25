@@ -1,8 +1,68 @@
+---
+title: Joshua 4:23
+type: Verse
+kjv: "For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:"
+bsb: "For the LORD your God dried up the waters of the Jordan before you until you had crossed over, just as He did to the Red Sea, which He dried up before us until we had crossed over."
+hebrew: "אֲשֶׁר־ הוֹבִישׁ֩ יְהוָ֨ה אֱלֹהֵיכֶ֜ם אֶת־ מֵ֧י הַיַּרְדֵּ֛ן מִפְּנֵיכֶ֖ם עַֽד־ עָבְרְכֶ֑ם כַּאֲשֶׁ֣ר עָשָׂה֩ יְהוָ֨ה אֱלֹהֵיכֶ֧ם לְיַם־ ס֛וּף אֲשֶׁר־ הוֹבִ֥ישׁ מִפָּנֵ֖ינוּ עַד־ עָבְרֵֽנוּ׃"
+pericope: "[[Josh.4.19 The Camp at Gilgal|The Camp at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3001]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H4325G]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H5704]]"
+- "[[H5674A]]"
+- "[[H9046]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3220G]]"
+- "[[H5488G]]"
+- "[[H9025]]"
+- "[[H9045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:23**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:
 <small><sub>**BSB:**</sub></small>
 For the LORD your God dried up the waters of the Jordan before you until you had crossed over, just as He did to the Red Sea, which He dried up before us until we had crossed over.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3001\|הוֹבִישׁ֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4325G\|מֵ֧י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֛ן]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֖ם]] [[H5704\|עַֽד]][[H9014\|־]] [[H5674A\|עָבְרְ]][[H9046\|כֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂה֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֧ם]] [[H9005\|לְ]][[H3220G\|יַם]][[H9014\|־]] [[H5488G\|ס֛וּף]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3001\|הוֹבִ֥ישׁ]] [[H9006\|מִ]][[H6440G\|פָּנֵ֖י]][[H9025\|נוּ]] [[H5704\|עַד]][[H9014\|־]] [[H5674A\|עָבְרֵֽ]][[H9045\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILGAL|GILGAL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MIRACLES|MIRACLES]] • [[topic RED SEA|RED SEA]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.22|<< Joshua 4:22]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.24|Joshua 4:24 >>]]</td></tr></table>
 

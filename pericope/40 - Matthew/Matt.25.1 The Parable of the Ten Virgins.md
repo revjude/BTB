@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Ten Virgins
+type: Pericope
 pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 25
 book/chapter: "[[Matt.25|Matthew 25]]"
-genre:
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Matt.25.1]]"
 - "[[Matt.25.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Matt.25.13]]"
 ---
 
-[[Matt.25|Matthew 25:1 - Matthew 25:13]]
+<small>[[Matt.25|Matthew 25:1-13]]</small>
 *The Parable of the Ten Virgins*
 
 [[Matt.25.1|1]] Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.

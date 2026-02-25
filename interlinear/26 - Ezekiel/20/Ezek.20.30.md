@@ -1,8 +1,63 @@
+---
+title: Ezekiel 20:30
+type: Verse
+kjv: "Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?"
+bsb: "Therefore tell the house of Israel that this is what the Lord GOD says: Will you defile yourselves the way your fathers did, prostituting yourselves with their abominations?"
+hebrew: "לָכֵ֞ן אֱמֹ֣ר׀ אֶל־ בֵּ֣ית יִשְׂרָאֵ֗ל כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הַבְּדֶ֥רֶךְ אֲבֽוֹתֵיכֶ֖ם אַתֶּ֣ם נִטְמְאִ֑ים וְאַחֲרֵ֥י שִׁקּוּצֵיהֶ֖ם אַתֶּ֥ם זֹנִֽים׃"
+pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9008]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0859D]]"
+- "[[H2930A]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H8251]]"
+- "[[H9028]]"
+- "[[H2181]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:30**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?
 <small><sub>**BSB:**</sub></small>
 Therefore tell the house of Israel that this is what the Lord GOD says: Will you defile yourselves the way your fathers did, prostituting yourselves with their abominations?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H0559\|אֱמֹ֣ר]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9008\|הַ]][[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֖ם]] [[H0859D\|אַתֶּ֣ם]] [[H2930A\|נִטְמְאִ֑ים]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֥י]] [[H8251\|שִׁקּוּצֵי]][[H9028\|הֶ֖ם]] [[H0859D\|אַתֶּ֥ם]] [[H2181\|זֹנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.29|<< Ezekiel 20:29]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.31|Ezekiel 20:31 >>]]</td></tr></table>
 

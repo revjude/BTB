@@ -1,8 +1,68 @@
+---
+title: Joel 2:23
+type: Verse
+kjv: "Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month."
+bsb: "Be glad, O children of Zion, and rejoice in the LORD your God, for He has given you the autumn rains for your vindication. He sends you showers, both autumn and spring rains, as before."
+hebrew: "וּבְנֵ֣י צִיּ֗וֹן גִּ֤ילוּ וְשִׂמְחוּ֙ בַּיהוָ֣ה אֱלֹֽהֵיכֶ֔ם כִּֽי־ נָתַ֥ן לָכֶ֛ם אֶת־ הַמּוֹרֶ֖ה לִצְדָקָ֑ה וַיּ֣וֹרֶד לָכֶ֗ם גֶּ֛שֶׁם מוֹרֶ֥ה וּמַלְק֖וֹשׁ בָּרִאשֽׁוֹן׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H6726]]"
+- "[[H1523]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4175]]"
+- "[[H6666]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1653]]"
+- "[[H4456]]"
+- "[[H7223H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:23**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first [month].
 <small><sub>**BSB:**</sub></small>
 Be glad, O children of Zion, and rejoice in the LORD your God, for He has given you the autumn rains for your vindication. He sends you showers, both autumn and spring rains, as before.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H6726\|צִיּ֗וֹן]] [[H1523\|גִּ֤ילוּ]] [[H9002\|וְ]][[H8055\|שִׂמְחוּ֙]] [[H9003\|בַּ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4175\|מּוֹרֶ֖ה]] [[H9005\|לִ]][[H6666\|צְדָקָ֑ה]] [[H9001\|וַ]][[H3381\|יּ֣וֹרֶד]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H1653\|גֶּ֛שֶׁם]] [[H4175\|מוֹרֶ֥ה]] [[H9002\|וּ]][[H4456\|מַלְק֖וֹשׁ]] [[H9003\|בָּ]][[H7223H\|רִאשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HARVEST|HARVEST]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.22|<< Joel 2:22]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.24|Joel 2:24 >>]]</td></tr></table>
 

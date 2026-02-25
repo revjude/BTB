@@ -1,10 +1,68 @@
+---
+title: Matthew 25:39
+type: Verse
+kjv: "Or when saw we thee sick, or in prison, and came unto thee?"
+bsb: "When did we see You sick or in prison and visit You?’"
+jesus_said: "Or when saw we thee sick, or in prison, and came unto thee?"
+greek: "πότε δέ σε εἴδομεν ἀσθενοῦντα ἢ ἐν φυλακῇ καὶ ἤλθομεν πρός σε;¶"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4219]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G0770H]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:39**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or when saw we thee sick, or in prison, and came unto thee?
 <small><sub>**BSB:**</sub></small>
 When did we see You sick or in prison and visit You?’
-<small><sub>**Literal:**</sub></small>
-When now You saw we ailing or in prison and came to You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.38|<< Matthew 25:38]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.40|Matthew 25:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4219\|πότε]]  [[G1161\|δέ]]  [[G4771\|σε]]  [[G1492H\|εἴδομεν]]  [[G0770H\|ἀσθενοῦντα]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G5438G\|φυλακῇ]]  [[G2532\|καὶ]]  [[G2064\|ἤλθομεν]]  [[G4314\|πρός]]  [[G4771\|σε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.38|<< Matthew 25:38]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.40|Matthew 25:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

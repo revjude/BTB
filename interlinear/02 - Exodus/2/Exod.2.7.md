@@ -1,8 +1,74 @@
+---
+title: Exodus 2:7
+type: Verse
+kjv: "Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?"
+bsb: "Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”"
+hebrew: "וַתֹּ֣אמֶר אֲחֹתוֹ֮ אֶל־ בַּת־ פַּרְעֹה֒ הַאֵלֵ֗ךְ וְקָרָ֤אתִי לָךְ֙ אִשָּׁ֣ה מֵינֶ֔קֶת מִ֖ן הָעִבְרִיֹּ֑ת וְתֵינִ֥ק לָ֖ךְ אֶת־ הַיָּֽלֶד׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRIAM|MIRIAM]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic NURSE|NURSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0269]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H6547I]]"
+- "[[H9008]]"
+- "[[H1980G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0802G]]"
+- "[[H3243]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:7**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
 <small><sub>**BSB:**</sub></small>
 Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0269\|אֲחֹת]][[H9023\|וֹ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1323G\|בַּת]][[H9014\|־]] [[H6547I\|פַּרְעֹה֒]] [[H9008\|הַ]][[H1980G\|אֵלֵ֗ךְ]] [[H9001\|וְ]][[H7121G\|קָרָ֤אתִי]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H0802G\|אִשָּׁ֣ה]] [[H3243\|מֵינֶ֔קֶת]] [[H4480A\|מִ֖ן]] [[H9009\|הָ]][[H5680\|עִבְרִיֹּ֑ת]] [[H9002\|וְ]][[H3243\|תֵינִ֥ק]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יָּֽלֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRIAM|MIRIAM]] • [[topic MOSES|MOSES]] • [[topic NURSE|NURSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.6|<< Exodus 2:6]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.8|Exodus 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

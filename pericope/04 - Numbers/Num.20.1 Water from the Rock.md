@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Water from the Rock
+type: Pericope
 pericope: "[[Num.20.1 Water from the Rock|Water from the Rock]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 20
 book/chapter: "[[Num.20|Numbers 20]]"
-genre:
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 13
 verses:
 - "[[Num.20.1]]"
 - "[[Num.20.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Num.20.13]]"
 ---
 
-[[Num.20|Numbers 20:1 - Numbers 20:13]]
+<small>[[Num.20|Numbers 20:1-13]]</small>
 *Water from the Rock*
 
 [[Num.20.1|1]] Then came the children of Israel, \[even\] the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.

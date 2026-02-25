@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 18:2
+type: Verse
+kjv: "And Saul took him that day, and would let him go no more home to his father’s house."
+bsb: "And from that day Saul kept David with him and did not let him return to his father’s house."
+hebrew: "וַיִּקָּחֵ֥הוּ שָׁא֖וּל בַּיּ֣וֹם הַה֑וּא וְלֹ֣א נְתָנ֔וֹ לָשׁ֖וּב בֵּ֥ית אָבִֽיו׃"
+pericope: "[[1Sam.18.1 Jonathan Befriends David|Jonathan Befriends David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:2**<big><big>[[1Sam.18.1 Jonathan Befriends David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul took him that day, and would let him go no more home to his father’s house.
 <small><sub>**BSB:**</sub></small>
 And from that day Saul kept David with him and did not let him return to his father’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקָּחֵ֥]][[H9033\|הוּ]] [[H7586G\|שָׁא֖וּל]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5414K\|נְתָנ֔]][[H9033\|וֹ]] [[H9005\|לָ]][[H7725G\|שׁ֖וּב]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.1|<< 1 Samuel 18:1]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.3|1 Samuel 18:3 >>]]</td></tr></table>
 

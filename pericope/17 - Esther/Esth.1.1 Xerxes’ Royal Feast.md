@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Xerxes’ Royal Feast
+type: Pericope
 pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 1
 book/chapter: "[[Esth.1|Esther 1]]"
-genre:
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 8
 verses:
 - "[[Esth.1.1]]"
 - "[[Esth.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Esth.1.8]]"
 ---
 
-[[Esth.1|Esther 1:1 - Esther 1:8]]
+<small>[[Esth.1|Esther 1:1-8]]</small>
 *Xerxes’ Royal Feast*
 
 [[Esth.1.1|1]] Now it came to pass in the days of Ahasuerus, (this \[is\] Ahasuerus which reigned, from India even unto Ethiopia, \[over\] an hundred and seven and twenty provinces:)

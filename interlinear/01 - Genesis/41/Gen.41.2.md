@@ -1,8 +1,67 @@
+---
+title: Genesis 41:2
+type: Verse
+kjv: "And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow."
+bsb: "when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds."
+hebrew: "וְהִנֵּ֣ה מִן־ הַיְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּר֔וֹת יְפ֥וֹת מַרְאֶ֖ה וּבְרִיאֹ֣ת בָּשָׂ֑ר וַתִּרְעֶ֖ינָה בָּאָֽחוּ׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINE (BOVINE)|KINE (BOVINE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H5927G]]"
+- "[[H7651]]"
+- "[[H6510]]"
+- "[[H3303]]"
+- "[[H4758]]"
+- "[[H1277]]"
+- "[[H1320]]"
+- "[[H9001]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H0260]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:2**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
 <small><sub>**BSB:**</sub></small>
 when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹ֗ר]] [[H5927G\|עֹלֹת֙]] [[H7651\|שֶׁ֣בַע]] [[H6510\|פָּר֔וֹת]] [[H3303\|יְפ֥וֹת]] [[H4758\|מַרְאֶ֖ה]] [[H9002\|וּ]][[H1277\|בְרִיאֹ֣ת]] [[H1320\|בָּשָׂ֑ר]] [[H9001\|וַ]][[H7462B\|תִּרְעֶ֖ינָה]] [[H9003\|בָּ]][[H0260\|אָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic KINE (BOVINE)|KINE (BOVINE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.1|<< Genesis 41:1]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.3|Genesis 41:3 >>]]</td></tr></table>
 

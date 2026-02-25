@@ -1,10 +1,62 @@
+---
+title: Revelation 17:16
+type: Verse
+kjv: "And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire."
+bsb: "And the ten horns and the beast that you saw will hate the prostitute. They will leave her desolate and naked, and they will eat her flesh and burn her with fire."
+greek: "καὶ τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον, οὗτοι μισήσουσιν τὴν πόρνην καὶ ἠρημωμένην ποιήσουσιν αὐτὴν καὶ γυμνὴν ποιήσουσιν αὐτήν καὶ τὰς σάρκας αὐτῆς φάγονται καὶ αὐτὴν κατακαύσουσιν ἐν πυρί."
+pericope: "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1176]]"
+- "[[G2768]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G2342]]"
+- "[[G3778]]"
+- "[[G3404]]"
+- "[[G4204]]"
+- "[[G2049]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G1131]]"
+- "[[G4561]]"
+- "[[G5315]]"
+- "[[G2618]]"
+- "[[G1722]]"
+- "[[G4442]]"
+texts:
+- NKO
+- N(K)O
+- o
+---
+
 **Revelation 17:16**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
 <small><sub>**BSB:**</sub></small>
 And the ten horns and the beast that you saw will hate the prostitute. They will leave her desolate and naked, and they will eat her flesh and burn her with fire.
-<small><sub>**Literal:**</sub></small>
-And the ten horns that you saw and the beast, these will hate the prostitute and desolated they will make her and naked they will make her and the flesh of her they will eat and her they will burn with fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.15|<< Revelation 17:15]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.17|Revelation 17:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1176\|δέκα]]  [[G2768\|κέρατα]]  [[G3739\|ἃ]]  [[G1492H\|εἶδες]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2342\|θηρίον,]]  [[G3778\|οὗτοι]]  [[G3404\|μισήσουσιν]]  [[G3588\|τὴν]]  [[G4204\|πόρνην]]  [[G2532\|καὶ]]  [[G2049\|ἠρημωμένην]]  [[G4160G\|ποιήσουσιν]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G1131\|γυμνὴν]]  [[G4160G\|ποιήσουσιν]]  [[G0846\|αὐτήν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G4561\|σάρκας]]  [[G0846\|αὐτῆς]]  [[G5315\|φάγονται]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴν]]  [[G2618\|κατακαύσουσιν]]  [[G1722\|ἐν]]  [[G4442\|πυρί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.15|<< Revelation 17:15]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.17|Revelation 17:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

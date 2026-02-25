@@ -1,10 +1,54 @@
+---
+title: Acts 15:40
+type: Verse
+kjv: "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+bsb: "but Paul chose Silas and left, commended by the brothers to the grace of the Lord."
+greek: "Παῦλος δὲ ἐπιλεξάμενος Σιλᾶν ἐξῆλθεν παραδοθεὶς τῇ χάριτι τοῦ κυρίου ὑπὸ τῶν ἀδελφῶν."
+pericope: "[[Acts.15.36 Paul’s Second Missionary Journey Begins|Paul’s Second Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G3972G]]"
+- "[[G1161]]"
+- "[[G1951]]"
+- "[[G4609]]"
+- "[[G1831]]"
+- "[[G3860]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G5259G]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 15:40**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.
 <small><sub>**BSB:**</sub></small>
 but Paul chose Silas and left, commended by the brothers to the grace of the Lord.
-<small><sub>**Literal:**</sub></small>
-Paul however having chosen Silas went forth having been committed to the grace of the Lord by the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.39|<< Acts 15:39]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.41|Acts 15:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G1161\|δὲ]]  [[G1951\|ἐπιλεξάμενος]]  [[G4609\|Σιλᾶν]]  [[G1831\|ἐξῆλθεν]]  [[G3860\|παραδοθεὶς]]  [[G3588\|τῇ]]  [[G5485\|χάριτι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.39|<< Acts 15:39]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.41|Acts 15:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

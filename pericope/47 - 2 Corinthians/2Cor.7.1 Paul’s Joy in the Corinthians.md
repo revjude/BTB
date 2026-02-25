@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Joy in the Corinthians
+type: Pericope
 pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 7
 book/chapter: "[[2Cor.7|2 Corinthians 7]]"
-genre:
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 16
 verses:
 - "[[2Cor.7.1]]"
 - "[[2Cor.7.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Cor.7.16]]"
 ---
 
-[[2Cor.7|2 Corinthians 7:1 - 2 Corinthians 7:16]]
+<small>[[2Cor.7|2 Corinthians 7:1-16]]</small>
 *Paul’s Joy in the Corinthians*
 
 [[2Cor.7.1|1]] Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.

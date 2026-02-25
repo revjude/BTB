@@ -1,8 +1,75 @@
+---
+title: Exodus 32:12
+type: Verse
+kjv: "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people."
+bsb: "Why should the Egyptians declare, ‘He brought them out with evil intent, to kill them in the mountains and wipe them from the face of the earth’? Turn from Your fierce anger and relent from doing harm to Your people."
+hebrew: "לָמָּה֩ יֹאמְר֨וּ מִצְרַ֜יִם לֵאמֹ֗ר בְּרָעָ֤ה הֽוֹצִיאָם֙ לַהֲרֹ֤ג אֹתָם֙ בֶּֽהָרִ֔ים וּ֨לְכַלֹּתָ֔ם מֵעַ֖ל פְּנֵ֣י הָֽאֲדָמָ֑ה שׁ֚וּב מֵחֲר֣וֹן אַפֶּ֔ךָ וְהִנָּחֵ֥ם עַל־ הָרָעָ֖ה לְעַמֶּֽךָ׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0559]]"
+- "[[H4713]]"
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H3615H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H7725I]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H5162H]]"
+- "[[H9014]]"
+- "[[H7451C]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:12**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.
 <small><sub>**BSB:**</sub></small>
 Why should the Egyptians declare, ‘He brought them out with evil intent, to kill them in the mountains and wipe them from the face of the earth’? Turn from Your fierce anger and relent from doing harm to Your people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָּה֩]] [[H0559\|יֹאמְר֨וּ]] [[H4713\|מִצְרַ֜יִם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9003\|בְּ]][[H7451I\|רָעָ֤ה]] [[H3318H\|הֽוֹצִיאָ]][[H9038\|ם֙]] [[H9005\|לַ]][[H2026\|הֲרֹ֤ג]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9003\|בֶּֽ]][[H2022G\|הָרִ֔ים]] [[H9002\|וּ֨]][[H9005\|לְ]][[H3615H\|כַלֹּתָ֔]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָֽ]][[H0127I\|אֲדָמָ֑ה]] [[H7725I\|שׁ֚וּב]] [[H9006\|מֵ]][[H2740\|חֲר֣וֹן]] [[H0639G\|אַפֶּ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H5162H\|הִנָּחֵ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9005\|לְ]][[H5971A\|עַמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.11|<< Exodus 32:11]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.13|Exodus 32:13 >>]]</td></tr></table>
 

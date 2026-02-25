@@ -1,8 +1,54 @@
+---
+title: Genesis 5:12
+type: Verse
+kjv: "And Cainan lived seventy years, and begat Mahalaleel:"
+bsb: "When Kenan was 70 years old, he became the father of Mahalalel."
+hebrew: "וַֽיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־ מַֽהֲלַלְאֵֽל׃"
+pericope: "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAINAN|CAINAN]]"
+- "[[topic MAHALALEEL|MAHALALEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H7018]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4111G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:12**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cainan lived seventy years, and begat Mahalaleel:
 <small><sub>**BSB:**</sub></small>
 When Kenan was 70 years old, he became the father of Mahalalel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִ֥י]] [[H7018\|קֵינָ֖ן]] [[H7657\|שִׁבְעִ֣ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H4111G\|מַֽהֲלַלְאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAINAN|CAINAN]] • [[topic MAHALALEEL|MAHALALEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.11|<< Genesis 5:11]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.13|Genesis 5:13 >>]]</td></tr></table>
 

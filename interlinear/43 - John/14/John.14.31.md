@@ -1,10 +1,61 @@
+---
+title: John 14:31
+type: Verse
+kjv: "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence."
+bsb: "But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here."
+jesus_said: "But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence."
+greek: "ἀλλ᾽ ἵνα γνῷ ὁ κόσμος ὅτι ἀγαπῶ τὸν πατέρα, καὶ καθὼς ἐνετείλατό μοι ὁ πατήρ, οὕτως ποιῶ.¶ ἐγείρεσθε, ἄγωμεν ἐντεῦθεν.¶"
+pericope: "[[John.14.27 Peace I Leave with You|Peace I Leave with You]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3754G]]"
+- "[[G0025]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G2531]]"
+- "[[G1781]]"
+- "[[G3165]]"
+- "[[G3779]]"
+- "[[G4160G]]"
+- "[[G1453]]"
+- "[[G0071]]"
+- "[[G1782]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 14:31**<big><big>[[John.14.27 Peace I Leave with You|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
 <small><sub>**BSB:**</sub></small>
 But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.
-<small><sub>**Literal:**</sub></small>
-but that may know the world that I love the Father, and even as He has commanded to Me the Father, thus I do. do rise up, let us go from here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.30|<< John 14:30]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.1|John 15:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G1097\|γνῷ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3754G\|ὅτι]]  [[G0025\|ἀγαπῶ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα,]]  [[G2532\|καὶ]]  [[G2531\|καθὼς]]  [[G1781\|ἐνετείλατό]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3779\|οὕτως]]  [[G4160G\|ποιῶ.¶]]  [[G1453\|ἐγείρεσθε,]]  [[G0071\|ἄγωμεν]]  [[G1782\|ἐντεῦθεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.30|<< John 14:30]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.1|John 15:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

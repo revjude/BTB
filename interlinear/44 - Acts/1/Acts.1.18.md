@@ -1,10 +1,67 @@
+---
+title: Acts 1:18
+type: Verse
+kjv: "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out."
+bsb: "(Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out."
+greek: "οὗτος μὲν οὖν ἐκτήσατο χωρίον ἐκ τοῦ μισθοῦ τῆς ἀδικίας, καὶ πρηνὴς γενόμενος ἐλάκησεν μέσος καὶ ἐξεχύθη πάντα τὰ σπλάγχνα αὐτοῦ,"
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3778]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G2932]]"
+- "[[G5564G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3408]]"
+- "[[G0093]]"
+- "[[G2532]]"
+- "[[G4248]]"
+- "[[G1096]]"
+- "[[G2997]]"
+- "[[G3319]]"
+- "[[G1632]]"
+- "[[G3956]]"
+- "[[G4698]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 1:18**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
 <small><sub>**BSB:**</sub></small>
 (Now with the reward for his wickedness Judas bought a field; there he fell headlong and burst open in the middle, and all his intestines spilled out.
-<small><sub>**Literal:**</sub></small>
-This [man] indeed then acquired a field out of the reward <the> of unrighteousness, and headlong having fallen he burst open in [the] middle and gushed out all the intestines of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.17|<< Acts 1:17]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.19|Acts 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G2932\|ἐκτήσατο]]  [[G5564G\|χωρίον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3408\|μισθοῦ]]  [[G3588\|τῆς]]  [[G0093\|ἀδικίας,]]  [[G2532\|καὶ]]  [[G4248\|πρηνὴς]]  [[G1096\|γενόμενος]]  [[G2997\|ἐλάκησεν]]  [[G3319\|μέσος]]  [[G2532\|καὶ]]  [[G1632\|ἐξεχύθη]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4698\|σπλάγχνα]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BOWELS|BOWELS]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MATTHIAS|MATTHIAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]] • [[topic PROPHECY|PROPHECY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SUICIDE|SUICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.17|<< Acts 1:17]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.19|Acts 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

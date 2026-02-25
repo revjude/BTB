@@ -1,8 +1,53 @@
+---
+title: Daniel 8:21
+type: Verse
+kjv: "And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king."
+bsb: "The shaggy goat represents the king of Greece, and the large horn between his eyes is the first king."
+hebrew: "וְהַצָּפִ֥יר הַשָּׂעִ֖יר מֶ֣לֶךְ יָוָ֑ן וְהַקֶּ֤רֶן הַגְּדוֹלָה֙ אֲשֶׁ֣ר בֵּין־ עֵינָ֔יו ה֖וּא הַמֶּ֥לֶךְ הָרִאשֽׁוֹן׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6842]]"
+- "[[H8163B]]"
+- "[[H4428G]]"
+- "[[H3120H]]"
+- "[[H7161A]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:21**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rough goat [is] the king of Grecia: and the great horn that [is] between his eyes [is] the first king.
 <small><sub>**BSB:**</sub></small>
 The shaggy goat represents the king of Greece, and the large horn between his eyes is the first king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6842\|צָּפִ֥יר]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֖יר]] [[H4428G\|מֶ֣לֶךְ]] [[H3120H\|יָוָ֑ן]] [[H9002\|וְ]][[H9009\|הַ]][[H7161A\|קֶּ֤רֶן]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0996G\|בֵּין]][[H9014\|־]] [[H5869A\|עֵינָ֔י]][[H9023\|ו]] [[H1931\|ה֖וּא]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H9009\|הָ]][[H7223G\|רִאשֽׁוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.20|<< Daniel 8:20]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.22|Daniel 8:22 >>]]</td></tr></table>
 

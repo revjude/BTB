@@ -1,10 +1,57 @@
+---
+title: Colossians 4:13
+type: Verse
+kjv: "For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis."
+bsb: "For I testify about him that he goes to great pains for you and for those at Laodicea and Hierapolis."
+greek: "μαρτυρῶ γὰρ αὐτῷ ὅτι ἔχει πολὺν πόνον ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ τῶν ἐν Ἱεραπόλει.¶"
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic HIERAPOLIS|HIERAPOLIS]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3140]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2192]]"
+- "[[G4183]]"
+- "[[G4192]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2993]]"
+- "[[G2404]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Colossians 4:13**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I bear him record, that he hath a great zeal for you, and them [that are] in Laodicea, and them in Hierapolis.
 <small><sub>**BSB:**</sub></small>
 For I testify about him that he goes to great pains for you and for those at Laodicea and Hierapolis.
-<small><sub>**Literal:**</sub></small>
-I bear witness for to him that he has great labour for you and those in Laodicea and [those] of them in Hiera polis.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.12|<< Colossians 4:12]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.14|Colossians 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3140\|μαρτυρῶ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G2192\|ἔχει]]  [[G4183\|πολὺν]]  [[G4192\|πόνον]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G2993\|Λαοδικείᾳ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G2404\|Ἱεραπόλει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIERAPOLIS|HIERAPOLIS]] • [[topic LAODICEA|LAODICEA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.12|<< Colossians 4:12]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.14|Colossians 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Returns to Bethel
+type: Pericope
 pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 35
 book/chapter: "[[Gen.35|Genesis 35]]"
-genre:
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 15
 verses:
 - "[[Gen.35.1]]"
 - "[[Gen.35.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Gen.35.15]]"
 ---
 
-[[Gen.35|Genesis 35:1 - Genesis 35:15]]
+<small>[[Gen.35|Genesis 35:1-15]]</small>
 *Jacob Returns to Bethel*
 
 [[Gen.35.1|1]] And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.

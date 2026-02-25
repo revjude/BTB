@@ -1,8 +1,60 @@
+---
+title: Isaiah 57:17
+type: Verse
+kjv: "For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart."
+bsb: "I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart."
+hebrew: "בַּעֲוֹ֥ן בִּצְע֛וֹ קָצַ֥פְתִּי וְאַכֵּ֖הוּ הַסְתֵּ֣ר וְאֶקְצֹ֑ף וַיֵּ֥לֶךְ שׁוֹבָ֖ב בְּדֶ֥רֶךְ לִבּֽוֹ׃"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H1215]]"
+- "[[H9023]]"
+- "[[H7107]]"
+- "[[H9002]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H5641]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H7726]]"
+- "[[H1870G]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:17**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.
 <small><sub>**BSB:**</sub></small>
 I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H5771G\|עֲוֹ֥ן]] [[H1215\|בִּצְע֛]][[H9023\|וֹ]] [[H7107\|קָצַ֥פְתִּי]] [[H9002\|וְ]][[H5221\|אַכֵּ֖]][[H9033\|הוּ]] [[H5641\|הַסְתֵּ֣ר]] [[H9002\|וְ]][[H7107\|אֶקְצֹ֑ף]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H7726\|שׁוֹבָ֖ב]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGER|ANGER]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COVETOUSNESS|COVETOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.16|<< Isaiah 57:16]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.18|Isaiah 57:18 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Obadiah 1:5
+type: Verse
+kjv: "If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?"
+bsb: "“If thieves came to you, if robbers by night—oh, how you will be ruined—would they not steal only what they wanted? If grape gatherers came to you, would they not leave some gleanings?"
+hebrew: "אִם־ גַּנָּבִ֤ים בָּאֽוּ־ לְךָ֙ אִם־ שׁ֣וֹדְדֵי לַ֔יְלָה אֵ֣יךְ נִדְמֵ֔יתָה הֲל֥וֹא יִגְנְב֖וּ דַּיָּ֑ם אִם־ בֹּֽצְרִים֙ בָּ֣אוּ לָ֔ךְ הֲל֖וֹא יַשְׁאִ֥ירוּ עֹלֵלֽוֹת׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1590]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7703]]"
+- "[[H3915]]"
+- "[[H0349A]]"
+- "[[H1820]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1589]]"
+- "[[H1767]]"
+- "[[H9028]]"
+- "[[H1219]]"
+- "[[H9032]]"
+- "[[H7604]]"
+- "[[H5955]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:5**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave [some] grapes?
 <small><sub>**BSB:**</sub></small>
 “If thieves came to you, if robbers by night—oh, how you will be ruined—would they not steal only what they wanted? If grape gatherers came to you, would they not leave some gleanings?
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1590\|גַּנָּבִ֤ים]] [[H0935G\|בָּאֽוּ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0518A\|אִם]][[H9014\|־]] [[H7703\|שׁ֣וֹדְדֵי]] [[H3915\|לַ֔יְלָה]] [[H0349A\|אֵ֣יךְ]] [[H1820\|נִדְמֵ֔יתָה]] [[H9008\|הֲ]][[H3808\|ל֥וֹא]] [[H1589\|יִגְנְב֖וּ]] [[H1767\|דַּיָּ֑]][[H9028\|ם]] [[H0518A\|אִם]][[H9014\|־]] [[H1219\|בֹּֽצְרִים֙]] [[H0935G\|בָּ֣אוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9008\|הֲ]][[H3808\|ל֖וֹא]] [[H7604\|יַשְׁאִ֥ירוּ]] [[H5955\|עֹלֵלֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.4|<< Obadiah 1:4]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.6|Obadiah 1:6 >>]]</td></tr></table>
 

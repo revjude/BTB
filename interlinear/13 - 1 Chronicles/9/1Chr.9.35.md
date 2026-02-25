@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 9:35
+type: Verse
+kjv: "And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name was Maachah:"
+bsb: "Jeiel the father of Gibeon lived in Gibeon. His wife’s name was Maacah."
+hebrew: "וּבְגִבְע֛וֹן יָשְׁב֥וּ אֲבִֽי־ גִבְע֖וֹן יְעִיאֵ֑ל וְשֵׁ֥ם אִשְׁתּ֖וֹ מַעֲכָֽה׃"
+pericope: "[[1Chr.9.35 The Descendants of Saul|The Descendants of Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEIEL|JEIEL]]"
+- "[[topic MAACHAH|MAACHAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H3427]]"
+- "[[H0001I]]"
+- "[[H9014]]"
+- "[[H3273P]]"
+- "[[H8034]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H4601N]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 9:35**<big><big>[[1Chr.9.35 The Descendants of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name [was] Maachah:
 <small><sub>**BSB:**</sub></small>
 Jeiel the father of Gibeon lived in Gibeon. His wife’s name was Maacah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1391\|גִבְע֛וֹן]] [[H3427\|יָשְׁב֥וּ]] [[H0001I\|אֲבִֽי]][[H9014\|־]] [[H1391\|גִבְע֖וֹן]] [[H3273P\|יְעִיאֵ֑ל]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H4601N\|מַעֲכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEIEL|JEIEL]] • [[topic MAACHAH|MAACHAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.34|<< 1 Chronicles 9:34]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.36|1 Chronicles 9:36 >>]]</td></tr></table>
 

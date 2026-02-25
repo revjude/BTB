@@ -1,8 +1,67 @@
+---
+title: Ezekiel 45:15
+type: Verse
+kjv: "And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord GOD."
+bsb: "And one sheep shall be given from each flock of two hundred from the well-watered pastures of Israel. These are for the grain offerings, burnt offerings, and peace offerings, to make atonement for the people, declares the Lord GOD."
+hebrew: "וְשֶׂה־ אַחַ֨ת מִן־ הַצֹּ֤אן מִן־ הַמָּאתַ֙יִם֙ מִמַּשְׁקֵ֣ה יִשְׂרָאֵ֔ל לְמִנְחָ֖ה וּלְעוֹלָ֣ה וְלִשְׁלָמִ֑ים לְכַפֵּ֣ר עֲלֵיהֶ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic KING|KING]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7716]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H3967]]"
+- "[[H9006]]"
+- "[[H4945B]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4503G]]"
+- "[[H5930A]]"
+- "[[H8002]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:15**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And one sheep shall be given from each flock of two hundred from the well-watered pastures of Israel. These are for the grain offerings, burnt offerings, and peace offerings, to make atonement for the people, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7716\|שֶׂה]][[H9014\|־]] [[H0259\|אַחַ֨ת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֤אן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3967\|מָּאתַ֙יִם֙]] [[H9006\|מִ]][[H4945B\|מַּשְׁקֵ֣ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H4503G\|מִנְחָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H5930A\|עוֹלָ֣ה]] [[H9002\|וְ]][[H9005\|לִ]][[H8002\|שְׁלָמִ֑ים]] [[H9005\|לְ]][[H3722A\|כַפֵּ֣ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARLEY|BARLEY]] • [[topic KING|KING]] • [[topic RECONCILIATION|RECONCILIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.14|<< Ezekiel 45:14]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.16|Ezekiel 45:16 >>]]</td></tr></table>
 

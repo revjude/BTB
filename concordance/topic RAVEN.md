@@ -7,7 +7,7 @@
 
 → Preserved by Noah in the ark [[Gen.8.7|Ge 8:7]]
 
-→ Fed Elijah [[1Kgs.17.4|1Ki 17:4]]-[[1Kgs.17.6|6]]
+→ Fed Elijah [[1Kgs.17.4|1Ki 17:4-6]]
 
 → Cared for by divine providence [[Luke.12.24|Lu 12:24]]
 

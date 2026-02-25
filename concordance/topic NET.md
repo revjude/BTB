@@ -9,7 +9,7 @@
 
 → Wild animals [[Isa.51.20|Isa 51:20]]
 
-→ Fish caught in [[Matt.4.18|Mt 4:18]]-[[Matt.4.21|21]]; [[Matt.13.47|13:47]]; [[Luke.5.4|Lu 5:4]]; [[John.21.6|Joh 21:6]]-[[John.21.11|11]]
+→ Fish caught in [[Matt.4.18|Mt 4:18-21]]; [[Matt.13.47|13:47]]; [[Luke.5.4|Lu 5:4]]; [[John.21.6|Joh 21:6-11]]
 
 → See [[topic SNARE|SNARE]]
 

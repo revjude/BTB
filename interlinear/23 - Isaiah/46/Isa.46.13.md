@@ -1,8 +1,63 @@
+---
+title: Isaiah 46:13
+type: Verse
+kjv: "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory."
+bsb: "I am bringing My righteousness near; it is not far away, and My salvation will not be delayed. I will grant salvation to Zion and adorn Israel with My splendor."
+hebrew: "קֵרַ֤בְתִּי צִדְקָתִי֙ לֹ֣א תִרְחָ֔ק וּתְשׁוּעָתִ֖י לֹ֣א תְאַחֵ֑ר וְנָתַתִּ֤י בְצִיּוֹן֙ תְּשׁוּעָ֔ה לְיִשְׂרָאֵ֖ל תִּפְאַרְתִּֽי׃ ס"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H7126G]]"
+- "[[H6666]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7368]]"
+- "[[H9002]]"
+- "[[H8668G]]"
+- "[[H0309]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H8597]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 46:13**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.
 <small><sub>**BSB:**</sub></small>
 I am bringing My righteousness near; it is not far away, and My salvation will not be delayed. I will grant salvation to Zion and adorn Israel with My splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|קֵרַ֤בְתִּי]] [[H6666\|צִדְקָתִ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H7368\|תִרְחָ֔ק]] [[H9002\|וּ]][[H8668G\|תְשׁוּעָתִ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H0309\|תְאַחֵ֑ר]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֤י]] [[H9003\|בְ]][[H6726\|צִיּוֹן֙]] [[H8668G\|תְּשׁוּעָ֔ה]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H8597\|תִּפְאַרְתִּֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.12|<< Isaiah 46:12]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.1|Isaiah 47:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -23,7 +78,7 @@ I am bringing My righteousness near; it is not far away, and My salvation will n
 | in Zion  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | salvation  |**<big>&#8207;[[H8668G\|תְּשׁוּעָ֔ה]]&#8207; </big>**| te.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Israel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| splendor my  |**<big>&#8207;[[H8597\|תִּפְאַרְתִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tif.'ar.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| splendor my  |**<big>&#8207;[[H8597\|תִּפְאַרְתִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tif.'ar.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.12|<< Isaiah 46:12]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.1|Isaiah 47:1 >>]]</td></tr></table>
 
 

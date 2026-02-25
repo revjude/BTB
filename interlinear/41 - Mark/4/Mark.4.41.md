@@ -1,10 +1,60 @@
+---
+title: Mark 4:41
+type: Verse
+kjv: "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+bsb: "Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”"
+greek: "καὶ ἐφοβήθησαν φόβον μέγαν καὶ ἔλεγον πρὸς ἀλλήλους· τίς ἄρα οὗτός ἐστιν ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;¶"
+pericope: "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G5401]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G5101]]"
+- "[[G0686]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G0417]]"
+- "[[G2281]]"
+- "[[G5219]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:41**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
 <small><sub>**BSB:**</sub></small>
 Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”
-<small><sub>**Literal:**</sub></small>
-And they feared [with] fear great and were saying to each other; Who then this is that even the wind and the sea it obeys Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.40|<< Mark 4:40]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.1|Mark 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν]]  [[G5401\|φόβον]]  [[G3173\|μέγαν]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G5101\|τίς]]  [[G0686\|ἄρα]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0417\|ἄνεμος]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2281\|θάλασσα]]  [[G5219\|ὑπακούει]]  [[G0846\|αὐτῷ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.40|<< Mark 4:40]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.1|Mark 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

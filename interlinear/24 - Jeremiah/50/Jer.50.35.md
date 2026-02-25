@@ -1,8 +1,56 @@
+---
+title: Jeremiah 50:35
+type: Verse
+kjv: "A sword is upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise men."
+bsb: "A sword is against the Chaldeans, declares the LORD, against those who live in Babylon, and against her officials and wise men."
+hebrew: "חֶ֥רֶב עַל־ כַּשְׂדִּ֖ים נְאֻם־ יְהוָ֑ה וְאֶל־ יֹשְׁבֵ֣י בָבֶ֔ל וְאֶל־ שָׂרֶ֖יהָ וְאֶל־ חֲכָמֶֽיהָ׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHALDEANS|CHALDEANS]]"
+strongs:
+- "[[H2719]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3778]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3427]]"
+- "[[H0894]]"
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H2450]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:35**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sword [is] upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise [men].
 <small><sub>**BSB:**</sub></small>
 A sword is against the Chaldeans, declares the LORD, against those who live in Babylon, and against her officials and wise men.
+<small><sub>**Hebrew:**</sub></small>
+[[H2719\|חֶ֥רֶב]] [[H5921A\|עַל]][[H9014\|־]] [[H3778\|כַּשְׂדִּ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H0894\|בָבֶ֔ל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֶ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H2450\|חֲכָמֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHALDEANS|CHALDEANS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.34|<< Jeremiah 50:34]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.36|Jeremiah 50:36 >>]]</td></tr></table>
 

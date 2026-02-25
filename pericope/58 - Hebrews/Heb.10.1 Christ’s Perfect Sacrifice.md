@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ’s Perfect Sacrifice
+type: Pericope
 pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 10
 book/chapter: "[[Heb.10|Hebrews 10]]"
-genre:
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 18
 verses:
 - "[[Heb.10.1]]"
 - "[[Heb.10.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Heb.10.18]]"
 ---
 
-[[Heb.10|Hebrews 10:1 - Hebrews 10:18]]
+<small>[[Heb.10|Hebrews 10:1-18]]</small>
 *Christ’s Perfect Sacrifice*
 
 [[Heb.10.1|1]] For the law having a shadow of good things to come, \[and\] not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.

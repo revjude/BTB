@@ -1,8 +1,65 @@
+---
+title: Jeremiah 42:1
+type: Verse
+kjv: "Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,"
+bsb: "Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached"
+hebrew: "וַֽיִּגְּשׁוּ֙ כָּל־ שָׂרֵ֣י הַחֲיָלִ֔ים וְיֽוֹחָנָן֙ בֶּן־ קָרֵ֔חַ וִֽיזַנְיָ֖ה בֶּן־ הוֹשַֽׁעְיָ֑ה וְכָל־ הָעָ֖ם מִקָּטֹ֥ן וְעַד־ גָּדֽוֹל׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HOSHAIAH|HOSHAIAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H9002]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H7143]]"
+- "[[H3153]]"
+- "[[H1955H]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:1**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,
 <small><sub>**BSB:**</sub></small>
 Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5066G\|יִּגְּשׁוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֔ים]] [[H9002\|וְ]][[H3110G\|יֽוֹחָנָן֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֔חַ]] [[H9002\|וִֽ]][[H3153\|יזַנְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1955H\|הוֹשַֽׁעְיָ֑ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מִ]][[H6996B\|קָּטֹ֥ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSHAIAH|HOSHAIAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.18|<< Jeremiah 41:18]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.2|Jeremiah 42:2 >>]]</td></tr></table>
 

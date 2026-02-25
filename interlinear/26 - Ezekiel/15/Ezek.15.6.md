@@ -1,8 +1,67 @@
+---
+title: Ezekiel 15:6
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem."
+bsb: "Therefore this is what the Lord GOD says: ‘Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people of Jerusalem."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה כַּאֲשֶׁ֤ר עֵץ־ הַגֶּ֙פֶן֙ בְּעֵ֣ץ הַיַּ֔עַר אֲשֶׁר־ נְתַתִּ֥יו לָאֵ֖שׁ לְאָכְלָ֑ה כֵּ֣ן נָתַ֔תִּי אֶת־ יֹשְׁבֵ֖י יְרוּשָׁלִָֽם׃"
+pericope: "[[Ezek.15.1 Jerusalem the Useless Vine|Jerusalem the Useless Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 15
+book/chapter: "[[Ezek.15|Ezekiel 15]]"
+chronological_order: 806
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6086G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1612]]"
+- "[[H9003]]"
+- "[[H6086H]]"
+- "[[H3293A]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H0784]]"
+- "[[H0402]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 15:6**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6086G\|עֵץ]][[H9014\|־]] [[H9009\|הַ]][[H1612\|גֶּ֙פֶן֙]] [[H9003\|בְּ]][[H6086H\|עֵ֣ץ]] [[H9009\|הַ]][[H3293A\|יַּ֔עַר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נְתַתִּ֥י]][[H9033\|ו]] [[H9005\|לָ]][[H0784\|אֵ֖שׁ]] [[H9005\|לְ]][[H0402\|אָכְלָ֑ה]] [[H3651C\|כֵּ֣ן]] [[H5414G\|נָתַ֔תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֖י]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.5|<< Ezekiel 15:5]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.7|Ezekiel 15:7 >>]]</td></tr></table>
 

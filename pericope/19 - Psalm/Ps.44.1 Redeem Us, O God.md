@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redeem Us, O God
+type: Pericope
 pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 44
 book/chapter: "[[Ps.44|Psalm 44]]"
-genre:
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 27
 verses:
 - "[[Ps.44.0]]"
 - "[[Ps.44.1]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Ps.44.26]]"
 ---
 
-[[Ps.44|Psalm 44:1 - Psalm 44:26]]
+<small>[[Ps.44|Psalm 44:1-26]]</small>
 *Redeem Us, O God*
 
 [[Ps.44.0|0]] To the chief Musician for the sons of Korah, Maschil.

@@ -1,8 +1,72 @@
+---
+title: 2 Kings 9:24
+type: Verse
+kjv: "And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot."
+bsb: "Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced his heart, and he slumped down in his chariot."
+hebrew: "וְיֵה֞וּא מִלֵּ֧א יָד֣וֹ בַקֶּ֗שֶׁת וַיַּ֤ךְ אֶת־ יְהוֹרָם֙ בֵּ֣ין זְרֹעָ֔יו וַיֵּצֵ֥א הַחֵ֖צִי מִלִּבּ֑וֹ וַיִּכְרַ֖ע בְּרִכְבּֽוֹ׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3058H]]"
+- "[[H4390]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7198]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3088I]]"
+- "[[H0996G]]"
+- "[[H2220]]"
+- "[[H3318L]]"
+- "[[H9009]]"
+- "[[H2678]]"
+- "[[H9006]]"
+- "[[H3820A]]"
+- "[[H3766]]"
+- "[[H7393G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:24**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot.
 <small><sub>**BSB:**</sub></small>
 Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced his heart, and he slumped down in his chariot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3058H\|יֵה֞וּא]] [[H4390\|מִלֵּ֧א]] [[H3027H\|יָד֣]][[H9023\|וֹ]] [[H9003\|בַ]][[H7198\|קֶּ֗שֶׁת]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3088I\|יְהוֹרָם֙]] [[H0996G\|בֵּ֣ין]] [[H2220\|זְרֹעָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H3318L\|יֵּצֵ֥א]] [[H9009\|הַ]][[H2678\|חֵ֖צִי]] [[H9006\|מִ]][[H3820A\|לִּבּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3766\|יִּכְרַ֖ע]] [[H9003\|בְּ]][[H7393G\|רִכְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic NABOTH|NABOTH]] • [[topic REGICIDE|REGICIDE]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.23|<< 2 Kings 9:23]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.25|2 Kings 9:25 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Officers
+type: Pericope
 pericope: "[[1Chr.18.14 David’s Officers|David’s Officers]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 18
 book/chapter: "[[1Chr.18|1 Chronicles 18]]"
-genre:
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 4
 verses:
 - "[[1Chr.18.14]]"
 - "[[1Chr.18.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Chr.18.17]]"
 ---
 
-[[1Chr.18|1 Chronicles 18:14 - 1 Chronicles 18:17]]
+<small>[[1Chr.18|1 Chronicles 18:14-17]]</small>
 *David’s Officers*
 
 [[1Chr.18.14|14]] So David reigned over all Israel, and executed judgment and justice among all his people.

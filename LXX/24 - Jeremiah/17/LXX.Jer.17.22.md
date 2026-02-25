@@ -1,6 +1,64 @@
+---
+title: LXX Jeremiah 17:22
+type: Verse
+lxx: "And do not bring forth burdens from out of your residences on the day of the Sabbaths! And you shall not do any work. Sanctify the day of the Sabbaths! as I gave charge to your fathers."
+greek: "και μη εκφέρετε βαστάγματα εξ οικιών υμών εν τη ημέρα των σαββάτων και παν έργον ου ποιήσετε αγιάσατε την ημέραν των σαββάτων καθώς ενετειλάμην τοις πατράσιν υμών"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1627]]"
+- "[[G6660]]"
+- "[[G1537]]"
+- "[[G3614]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G3756]]"
+- "[[G4160]]"
+- "[[G0037]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G2531]]"
+- "[[G1781]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 17:22** 
 <small><sub>**LXX:**</sub></small>
 And do not bring forth burdens from out of your residences on the day of the Sabbaths! And you shall not do any work. Sanctify the day of the Sabbaths! as I gave charge \[to\] your fathers. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3361\|μη]] [[G1627\|εκφέρετε]] [[G6660\|βαστάγματα]] [[G1537\|εξ]] [[G3614\|οικιών]] [[G1473\|υμών]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|των]] [[G4521\|σαββάτων]] [[G2532\|και]] [[G3956\|παν]] [[G2041\|έργον]] [[G3756\|ου]] [[G4160\|ποιήσετε]] [[G0037\|αγιάσατε]] [[G3588\|την]] [[G2250\|ημέραν]] [[G3588\|των]] [[G4521\|σαββάτων]] [[G2531\|καθώς]] [[G1781\|ενετειλάμην]] [[G3588\|τοις]] [[G3962\|πατράσιν]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
 
@@ -30,6 +88,6 @@ And do not bring forth burdens from out of your residences on the day of the Sab
 | I gave charge | **<big>[[G1781\|ενετειλάμην]]</big>** |
 | \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | your fathers. | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Jer.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
 
 

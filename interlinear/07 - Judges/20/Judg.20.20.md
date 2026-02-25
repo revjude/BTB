@@ -1,8 +1,52 @@
+---
+title: Judges 20:20
+type: Verse
+kjv: "And the men of Israel went out to battle against Benjamin; and the men of Israel put themselves in array to fight against them at Gibeah."
+bsb: "And the men of Israel went out to fight against Benjamin and took up their battle positions at Gibeah."
+hebrew: "וַיֵּצֵא֙ אִ֣ישׁ יִשְׂרָאֵ֔ל לַמִּלְחָמָ֖ה עִם־ בִּנְיָמִ֑ן וַיַּעַרְכ֨וּ אִתָּ֧ם אִֽישׁ־ יִשְׂרָאֵ֛ל מִלְחָמָ֖ה אֶל־ הַגִּבְעָֽה׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H6186A]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:20**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel went out to battle against Benjamin; and the men of Israel put themselves in array to fight against them at Gibeah.
 <small><sub>**BSB:**</sub></small>
 And the men of Israel went out to fight against Benjamin and took up their battle positions at Gibeah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1144G\|בִּנְיָמִ֑ן]] [[H9001\|וַ]][[H6186A\|יַּעַרְכ֨וּ]] [[H0854\|אִתָּ֧]][[H9038\|ם]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H4421\|מִלְחָמָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1390H\|גִּבְעָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.19|<< Judges 20:19]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.21|Judges 20:21 >>]]</td></tr></table>
 

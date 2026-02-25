@@ -1,10 +1,63 @@
+---
+title: Luke 24:5
+type: Verse
+kjv: "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+bsb: "As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead?"
+greek: "ἐμφόβων δὲ γενομένων αὐτῶν καὶ κλινουσῶν τὰ πρόσωπα εἰς τὴν γῆν εἶπαν πρὸς αὐτάς· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν;"
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1719]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2827]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1519]]"
+- "[[G1093I]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G5101]]"
+- "[[G2212]]"
+- "[[G2198]]"
+- "[[G3326]]"
+- "[[G3498]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:5**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they were afraid, and bowed down [their] faces to the earth, they said unto them, Why seek ye the living among the dead?
 <small><sub>**BSB:**</sub></small>
 As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead?
-<small><sub>**Literal:**</sub></small>
-Terrified then were becoming they and bowing their faces to the ground they said to them; Why seek you the living among the dead?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.4|<< Luke 24:4]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.6|Luke 24:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1719\|ἐμφόβων]]  [[G1161\|δὲ]]  [[G1096\|γενομένων]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G2827\|κλινουσῶν]]  [[G3588\|τὰ]]  [[G4383\|πρόσωπα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G2036\|εἶπαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτάς·]]  [[G5101\|τί]]  [[G2212\|ζητεῖτε]]  [[G3588\|τὸν]]  [[G2198\|ζῶντα]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.4|<< Luke 24:4]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.6|Luke 24:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,78 @@
+---
+title: 1 Kings 12:14
+type: Verse
+kjv: "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions."
+bsb: "and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”"
+hebrew: "וַיְדַבֵּ֣ר אֲלֵיהֶ֗ם כַּעֲצַ֤ת הַיְלָדִים֙ לֵאמֹ֔ר אָבִי֙ הִכְבִּ֣יד אֶֽת־ עֻלְּכֶ֔ם וַאֲנִ֖י אֹסִ֣יף עַֽל־ עֻלְּכֶ֑ם אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֕י אֲיַסֵּ֥ר אֶתְכֶ֖ם בָּעַקְרַבִּֽים׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic SCORPION|SCORPION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6098]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3513H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5923]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H3256]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H7752]]"
+- "[[H6137]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:14**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father [also] chastised you with whips, but I will chastise you with scorpions.
 <small><sub>**BSB:**</sub></small>
 and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H9004\|כַּ]][[H6098\|עֲצַ֤ת]] [[H9009\|הַ]][[H3206\|יְלָדִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H3513H\|הִכְבִּ֣יד]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5923\|עֻלְּ]][[H9026\|כֶ֔ם]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H3254H\|אֹסִ֣יף]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5923\|עֻלְּ]][[H9026\|כֶ֑ם]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H3256\|יִסַּ֤ר]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בַּ]][[H7752\|שּׁוֹטִ֔ים]] [[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H3256\|אֲיַסֵּ֥ר]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9003\|בָּ]][[H6137\|עַקְרַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PETITION|PETITION]] • [[topic RASHNESS|RASHNESS]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic SCORPION|SCORPION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.13|<< 1 Kings 12:13]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.15|1 Kings 12:15 >>]]</td></tr></table>
 

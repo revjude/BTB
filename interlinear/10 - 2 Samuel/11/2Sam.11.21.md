@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 11:21
+type: Verse
+kjv: "Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also."
+bsb: "Who struck Abimelech son of Jerubbesheth? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’ If he asks you this, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”"
+hebrew: "מִֽי־ הִכָּ֞ה אֶת־ אֲבִימֶ֣לֶךְ בֶּן־ יְרֻבֶּ֗שֶׁת הֲלֽוֹא־ אִשָּׁ֡ה הִשְׁלִ֣יכָה עָלָיו֩ פֶּ֨לַח רֶ֜כֶב מֵעַ֤ל הַֽחוֹמָה֙ וַיָּ֣מָת בְּתֵבֵ֔ץ לָ֥מָּה נִגַּשְׁתֶּ֖ם אֶל־ הַֽחוֹמָ֑ה וְאָ֣מַרְתָּ֔ גַּ֗ם עַבְדְּךָ֛ אוּרִיָּ֥ה הַחִתִּ֖י מֵֽת׃"
+pericope: "[[2Sam.11.14 David Arranges Uriah’s Death|David Arranges Uriah’s Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIMELECH|ABIMELECH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic THEBEZ|THEBEZ]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0040H]]"
+- "[[H1121A]]"
+- "[[H3380]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0802G]]"
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6400]]"
+- "[[H7393H]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H8405]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0223A]]"
+- "[[H2850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:21**<big><big>[[2Sam.11.14 David Arranges Uriah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also.
 <small><sub>**BSB:**</sub></small>
 Who struck Abimelech son of Jerubbesheth? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’ If he asks you this, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5221\|הִכָּ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0040H\|אֲבִימֶ֣לֶךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3380\|יְרֻבֶּ֗שֶׁת]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H0802G\|אִשָּׁ֡ה]] [[H7993\|הִשְׁלִ֣יכָה]] [[H5921A\|עָלָי]][[H9033\|ו֩]] [[H6400\|פֶּ֨לַח]] [[H7393H\|רֶ֜כֶב]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H9009\|הַֽ]][[H2346G\|חוֹמָה֙]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H9003\|בְּ]][[H8405\|תֵבֵ֔ץ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H5066G\|נִגַּשְׁתֶּ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H2346G\|חוֹמָ֑ה]] [[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H1571\|גַּ֗ם]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H0223A\|אוּרִיָּ֥ה]] [[H9009\|הַ]][[H2850\|חִתִּ֖י]] [[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIMELECH|ABIMELECH]] • [[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic THEBEZ|THEBEZ]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.20|<< 2 Samuel 11:20]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.22|2 Samuel 11:22 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Judges 9:4
+type: Verse
+kjv: "And they gave him threescore and ten pieces of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him."
+bsb: "So they gave him seventy shekels of silver from the temple of Baal-berith, with which Abimelech hired some worthless and reckless men to follow him."
+hebrew: "וַיִּתְּנוּ־ לוֹ֙ שִׁבְעִ֣ים כֶּ֔סֶף מִבֵּ֖יתּ בַ֣עַל בְּרִ֑ית וַיִּשְׂכֹּ֨ר בָּהֶ֜ם אֲבִימֶ֗לֶךְ אֲנָשִׁ֤ים רֵיקִים֙ וּפֹ֣חֲזִ֔ים וַיֵּלְכ֖וּ אַחֲרָֽיו׃"
+pericope: "[[Judg.9.1 Abimelech’s Conspiracy|Abimelech’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic BAAL-BERITH|BAAL-BERITH]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7657]]"
+- "[[H3701G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H1170]]"
+- "[[H7936B]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0040H]]"
+- "[[H0582]]"
+- "[[H7386]]"
+- "[[H9002]]"
+- "[[H6348]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 9:4**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave him threescore and ten [pieces] of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him.
 <small><sub>**BSB:**</sub></small>
 So they gave him seventy shekels of silver from the temple of Baal-berith, with which Abimelech hired some worthless and reckless men to follow him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנוּ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H7657\|שִׁבְעִ֣ים]] [[H3701G\|כֶּ֔סֶף]] [[H9006\|מִ]][[H1004M\|בֵּ֖יתּ]] [[H1170\|בַ֣עַל]] [[H1170\|בְּרִ֑ית]] [[H9001\|וַ]][[H7936B\|יִּשְׂכֹּ֨ר]] [[H9003\|בָּ]][[H9038\|הֶ֜ם]] [[H0040H\|אֲבִימֶ֗לֶךְ]] [[H0582\|אֲנָשִׁ֤ים]] [[H7386\|רֵיקִים֙]] [[H9002\|וּ]][[H6348\|פֹ֣חֲזִ֔ים]] [[H9001\|וַ]][[H1980N\|יֵּלְכ֖וּ]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic BAAL-BERITH|BAAL-BERITH]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.3|<< Judges 9:3]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.5|Judges 9:5 >>]]</td></tr></table>
 

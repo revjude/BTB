@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 13:5
+type: Verse
+kjv: "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
+bsb: "Examine yourselves to see whether you are in the faith; test yourselves. Do you not realize that Jesus Christ is in you—unless you fail the test?"
+greek: "Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει, ἑαυτοὺς δοκιμάζετε· ἢ οὐκ ἐπιγινώσκετε ἑαυτοὺς ὅτι Ἰησοῦς Χριστὸς ἐν ὑμῖν ἐστίν; εἰ μήτι ἀδόκιμοί ἐστε."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[G1438]]"
+- "[[G3985H]]"
+- "[[G1487G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G1381]]"
+- "[[G2228]]"
+- "[[G3756]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4771]]"
+- "[[G3385]]"
+- "[[G0096]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 13:5**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 <small><sub>**BSB:**</sub></small>
 Examine yourselves to see whether you are in the faith; test yourselves. Do you not realize that Jesus Christ is in you—unless you fail the test?
-<small><sub>**Literal:**</sub></small>
-Yourselves do examine whether you are in the faith, yourselves do test; Or surely you do recognize yourselves that Jesus Christ [is] in you is? except surely even failing you are!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.4|<< 2 Corinthians 13:4]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.6|2 Corinthians 13:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1438\|Ἑαυτοὺς]]  [[G3985H\|πειράζετε]]  [[G1487G\|εἰ]]  [[G1510\|ἐστὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]  [[G1438\|ἑαυτοὺς]]  [[G1381\|δοκιμάζετε·]]  [[G2228\|ἢ]]  [[G3756\|οὐκ]]  [[G1921\|ἐπιγινώσκετε]]  [[G1438\|ἑαυτοὺς]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἐστίν;]]  [[G1487G\|εἰ]]  [[G3385\|μήτι]]  [[G0096\|ἀδόκιμοί]]  [[G1510\|ἐστε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CHARACTER|CHARACTER]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROBACY|REPROBACY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.4|<< 2 Corinthians 13:4]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.6|2 Corinthians 13:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehu Anointed King of Israel
+type: Pericope
 pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 9
 book/chapter: "[[2Kgs.9|2 Kings 9]]"
-genre:
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[2Kgs.9.1]]"
 - "[[2Kgs.9.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Kgs.9.13]]"
 ---
 
-[[2Kgs.9|2 Kings 9:1 - 2 Kings 9:13]]
+<small>[[2Kgs.9|2 Kings 9:1-13]]</small>
 *Jehu Anointed King of Israel*
 
 [[2Kgs.9.1|1]] And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramothgilead:

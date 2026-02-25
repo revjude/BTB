@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Disobedience
+type: Pericope
 pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 15
 book/chapter: "[[1Sam.15|1 Samuel 15]]"
-genre:
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[1Sam.15.1]]"
 - "[[1Sam.15.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Sam.15.9]]"
 ---
 
-[[1Sam.15|1 Samuel 15:1 - 1 Samuel 15:9]]
+<small>[[1Sam.15|1 Samuel 15:1-9]]</small>
 *Saul’s Disobedience*
 
 [[1Sam.15.1|1]] Samuel also said unto Saul, The LORD sent me to anoint thee \[to be\] king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.

@@ -1,10 +1,72 @@
+---
+title: Mark 8:38
+type: Verse
+kjv: "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels."
+bsb: "If anyone is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when He comes in His Father’s glory with the holy angels.”"
+jesus_said: "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels."
+greek: "ὃς γὰρ ἐὰν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους ἐν τῇ γενεᾷ ταύτῃ τῇ μοιχαλίδι καὶ ἁμαρτωλῷ, καὶ ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται αὐτὸν ὅταν ἔλθῃ ἐν τῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων τῶν ἁγίων.¶"
+pericope: "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SHAME|SHAME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G1870]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G3428]]"
+- "[[G0268]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0846]]"
+- "[[G3752]]"
+- "[[G2064]]"
+- "[[G1391]]"
+- "[[G3962]]"
+- "[[G3326]]"
+- "[[G0032G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 8:38**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 <small><sub>**BSB:**</sub></small>
 If anyone is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when He comes in His Father’s glory with the holy angels.”
-<small><sub>**Literal:**</sub></small>
-Who[ever] for if shall be ashamed of Me and <the> My words in <the> generation this <the> adulterous and sinful, also the Son <the> of Man will be ashamed of him when He may come in the glory of the Father of Him with the angels <the> holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.37|<< Mark 8:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.1|Mark 9:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G1870\|ἐπαισχυνθῇ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1473\|ἐμοὺς]]  [[G3056\|λόγους]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1074\|γενεᾷ]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G3428\|μοιχαλίδι]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῷ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1870\|ἐπαισχυνθήσεται]]  [[G0846\|αὐτὸν]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθῃ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων]]  [[G3588\|τῶν]]  [[G0040G\|ἁγίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SHAME|SHAME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.37|<< Mark 8:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.1|Mark 9:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

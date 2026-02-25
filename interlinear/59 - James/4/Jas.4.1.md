@@ -1,10 +1,57 @@
+---
+title: James 4:1
+type: Verse
+kjv: "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?"
+bsb: "What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?"
+greek: "Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν; οὐκ ἐντεῦθεν, ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν;"
+pericope: "[[Jas.4.1 A Warning against Pride|A Warning against Pride]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic LUST|LUST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G4159]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G3163]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1782]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2237]]"
+- "[[G4754]]"
+- "[[G3196]]"
+texts:
+- NKO
+- no
+---
+
 **James 4:1**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 From whence [come] wars and fightings among you? [come they] not hence, [even] of your lusts that war in your members?
 <small><sub>**BSB:**</sub></small>
 What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?
-<small><sub>**Literal:**</sub></small>
-From where [come] disputes and from where quarrels among you? Surely from there, out of the passions of you those warring in the members of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.18|<< James 3:18]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.2|James 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4159\|Πόθεν]]  [[G4171\|πόλεμοι]]  [[G2532\|καὶ]]  [[G4159\|πόθεν]]  [[G3163\|μάχαι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν;]]  [[G3756\|οὐκ]]  [[G1782\|ἐντεῦθεν,]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2237\|ἡδονῶν]]  [[G4771\|ὑμῶν]]  [[G3588\|τῶν]]  [[G4754\|στρατευομένων]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3196\|μέλεσιν]]  [[G4771\|ὑμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic LUST|LUST]] • [[topic SIN|SIN]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.18|<< James 3:18]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.2|James 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

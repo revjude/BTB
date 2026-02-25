@@ -1,8 +1,64 @@
+---
+title: Psalm 28:7
+type: Verse
+kjv: "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
+bsb: "The LORD is my strength and my shield; my heart trusts in Him, and I am helped. Therefore my heart rejoices, and I give thanks to Him with my song."
+hebrew: "יְהוָ֤ה׀ עֻזִּ֥י וּמָגִנִּי֮ בּ֤וֹ בָטַ֥ח לִבִּ֗י וְֽנֶ֫עֱזָ֥רְתִּי וַיַּעֲלֹ֥ז לִבִּ֑י וּֽמִשִּׁירִ֥י אֲהוֹדֶֽנּוּ׃"
+pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 28
+book/chapter: "[[Ps.28|Psalm 28]]"
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5797]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4043]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0982]]"
+- "[[H3820A]]"
+- "[[H9001]]"
+- "[[H5826]]"
+- "[[H5937]]"
+- "[[H9006]]"
+- "[[H7892A]]"
+- "[[H3034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 28:7**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
 <small><sub>**BSB:**</sub></small>
 The LORD is my strength and my shield; my heart trusts in Him, and I am helped. Therefore my heart rejoices, and I give thanks to Him with my song.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H5797\|עֻזִּ֥]][[H9020\|י]] [[H9002\|וּ]][[H4043\|מָגִנִּ]][[H9020\|י֮]] [[H9003\|בּ֤]][[H9033\|וֹ]] [[H0982\|בָטַ֥ח]] [[H3820A\|לִבִּ֗]][[H9020\|י]] [[H9001\|וְֽ]][[H5826\|נֶ֫עֱזָ֥רְתִּי]] [[H9001\|וַ]][[H5937\|יַּעֲלֹ֥ז]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H9002\|וּֽ]][[H9006\|מִ]][[H7892A\|שִּׁירִ֥]][[H9020\|י]] [[H3034\|אֲהוֹדֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.6|<< Psalms 28:6]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.8|Psalms 28:8 >>]]</td></tr></table>
 

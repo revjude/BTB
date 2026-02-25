@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Perfect High Priest
+type: Pericope
 pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 5
 book/chapter: "[[Heb.5|Hebrews 5]]"
-genre:
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 10
 verses:
 - "[[Heb.5.1]]"
 - "[[Heb.5.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Heb.5.10]]"
 ---
 
-[[Heb.5|Hebrews 5:1 - Hebrews 5:10]]
+<small>[[Heb.5|Hebrews 5:1-10]]</small>
 *The Perfect High Priest*
 
 [[Heb.5.1|1]] For every high priest taken from among men is ordained for men in things \[pertaining\] to God, that he may offer both gifts and sacrifices for sins:

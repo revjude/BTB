@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 9:7
+type: Verse
+kjv: "Remember, and forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD."
+bsb: "Remember this, and never forget how you provoked the LORD your God in the wilderness. From the day you left the land of Egypt until you reached this place, you have been rebelling against the LORD."
+hebrew: "זְכֹר֙ אַל־ תִּשְׁכַּ֔ח אֵ֧ת אֲשֶׁר־ הִקְצַ֛פְתָּ אֶת־ יְהוָ֥ה אֱלֹהֶ֖יךָ בַּמִּדְבָּ֑ר לְמִן־ הַיּ֞וֹם אֲשֶׁר־ יָצָ֣אתָ׀ מֵאֶ֣רֶץ מִצְרַ֗יִם עַד־ בֹּֽאֲכֶם֙ עַד־ הַמָּק֣וֹם הַזֶּ֔ה מַמְרִ֥ים הֱיִיתֶ֖ם עִם־ יְהוָֽה׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H2142]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H7107]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9005]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H4784]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:7**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, [and] forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD.
 <small><sub>**BSB:**</sub></small>
 Remember this, and never forget how you provoked the LORD your God in the wilderness. From the day you left the land of Egypt until you reached this place, you have been rebelling against the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹר֙]] [[H0408\|אַל]][[H9014\|־]] [[H7911\|תִּשְׁכַּ֔ח]] [[H0853\|אֵ֧ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7107\|הִקְצַ֛פְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֞וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יָצָ֣אתָ]][[H9015\|׀]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֗יִם]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּֽאֲ]][[H9046\|כֶם֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H4784\|מַמְרִ֥ים]] [[H1961\|הֱיִיתֶ֖ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.6|<< Deuteronomy 9:6]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.8|Deuteronomy 9:8 >>]]</td></tr></table>
 

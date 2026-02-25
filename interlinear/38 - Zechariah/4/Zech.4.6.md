@@ -1,8 +1,70 @@
+---
+title: Zechariah 4:6
+type: Verse
+kjv: "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts."
+bsb: "So he said to me, “This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts."
+hebrew: "וַיַּ֜עַן וַיֹּ֤אמֶר אֵלַי֙ לֵאמֹ֔ר זֶ֚ה דְּבַר־ יְהוָ֔ה אֶל־ זְרֻבָּבֶ֖ל לֵאמֹ֑ר לֹ֤א בְחַ֙יִל֙ וְלֹ֣א בְכֹ֔חַ כִּ֣י אִם־ בְּרוּחִ֔י אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H2088]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2216]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H2428G]]"
+- "[[H9002]]"
+- "[[H3581B]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 4:6**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he answered and spake unto me, saying, This [is] the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 So he said to me, “This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֜עַן]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2088\|זֶ֚ה]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹ֤א]] [[H9003\|בְ]][[H2428G\|חַ֙יִל֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H3581B\|כֹ֔חַ]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H7307G\|רוּחִ֔]][[H9020\|י]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic OLIVE|OLIVE]] • [[topic POWER|POWER]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.5|<< Zechariah 4:5]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.7|Zechariah 4:7 >>]]</td></tr></table>
 

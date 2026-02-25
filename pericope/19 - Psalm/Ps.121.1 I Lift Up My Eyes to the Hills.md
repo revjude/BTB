@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Lift Up My Eyes to the Hills
+type: Pericope
 pericope: "[[Ps.121.1 I Lift Up My Eyes to the Hills|I Lift Up My Eyes to the Hills]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 121
 book/chapter: "[[Ps.121|Psalm 121]]"
-genre:
+chronological_order: 883
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.121.0]]"
 - "[[Ps.121.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.121.8]]"
 ---
 
-[[Ps.121|Psalm 121:1 - Psalm 121:8]]
+<small>[[Ps.121|Psalm 121:1-8]]</small>
 *I Lift Up My Eyes to the Hills*
 
 [[Ps.121.0|0]] A Song of degrees.

@@ -1,10 +1,50 @@
+---
+title: John 7:5
+type: Verse
+kjv: "For neither did his brethren believe in him."
+bsb: "For even His own brothers did not believe in Him."
+greek: "οὐδὲ γὰρ οἱ ἀδελφοὶ αὐτοῦ ἐπίστευον εἰς αὐτόν.¶"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3761]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **John 7:5**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For neither did his brethren believe in him.
 <small><sub>**BSB:**</sub></small>
 For even His own brothers did not believe in Him.
-<small><sub>**Literal:**</sub></small>
-Not even for the brothers of Him were believing in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.4|<< John 7:4]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.6|John 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ]]  [[G4100\|ἐπίστευον]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.4|<< John 7:4]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.6|John 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

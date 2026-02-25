@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 33:6
+type: Verse
+kjv: "Let Reuben live, and not die; and let not his men be few."
+bsb: "Let Reuben live and not die, nor his men be few.”"
+hebrew: "יְחִ֥י רְאוּבֵ֖ן וְאַל־ יָמֹ֑ת וִיהִ֥י מְתָ֖יו מִסְפָּֽר׃ ס"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H2421]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H1961]]"
+- "[[H4962]]"
+- "[[H9023]]"
+- "[[H4557]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:6**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Reuben live, and not die; and let [not] his men be few.
 <small><sub>**BSB:**</sub></small>
 Let Reuben live and not die, nor his men be few.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2421\|יְחִ֥י]] [[H7205\|רְאוּבֵ֖ן]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H4191\|יָמֹ֑ת]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H4962\|מְתָ֖י]][[H9023\|ו]] [[H4557\|מִסְפָּֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
@@ -14,7 +64,7 @@ Let Reuben live and not die, nor his men be few.”
 | he die  |**<big>&#8207;[[H4191\|יָמֹ֑ת]]&#8207; </big>**| ya.Mot<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and let it be  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1961\|יהִ֥י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men his  |**<big>&#8207;[[H4962\|מְתָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| me.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| number  |**<big>&#8207;[[H4557\|מִסְפָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| number  |**<big>&#8207;[[H4557\|מִסְפָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.5|<< Deuteronomy 33:5]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.7|Deuteronomy 33:7 >>]]</td></tr></table>
 
 

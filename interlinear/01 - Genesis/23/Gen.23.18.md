@@ -1,8 +1,65 @@
+---
+title: Genesis 23:18
+type: Verse
+kjv: "Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city."
+bsb: "to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city."
+hebrew: "לְאַבְרָהָ֥ם לְמִקְנָ֖ה לְעֵינֵ֣י בְנֵי־ חֵ֑ת בְּכֹ֖ל בָּאֵ֥י שַֽׁעַר־ עִירֽוֹ׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic HETH|HETH]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MACHPELAH|MACHPELAH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H4736]]"
+- "[[H5869J]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H2845]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0935G]]"
+- "[[H8179G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:18**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city.
 <small><sub>**BSB:**</sub></small>
 to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H9005\|לְ]][[H4736\|מִקְנָ֖ה]] [[H9005\|לְ]][[H5869J\|עֵינֵ֣י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H2845\|חֵ֑ת]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H0935G\|בָּאֵ֥י]] [[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H5892B\|עִירֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAVE|CAVE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic HETH|HETH]] • [[topic HITTITES|HITTITES]] • [[topic LAND|LAND]] • [[topic MACHPELAH|MACHPELAH]] • [[topic PROPERTY|PROPERTY]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.17|<< Genesis 23:17]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.19|Genesis 23:19 >>]]</td></tr></table>
 

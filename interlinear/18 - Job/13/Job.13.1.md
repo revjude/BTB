@@ -1,8 +1,50 @@
+---
+title: Job 13:1
+type: Verse
+kjv: "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
+bsb: "“Indeed, my eyes have seen all this; my ears have heard and understood."
+hebrew: "הֶן־ כֹּ֭ל רָאֲתָ֣ה עֵינִ֑י שָֽׁמְעָ֥ה אָ֝זְנִ֗י וַתָּ֥בֶן לָֽהּ׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H8085G]]"
+- "[[H0241G]]"
+- "[[H9001]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:1**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, mine eye hath seen all [this], mine ear hath heard and understood it.
 <small><sub>**BSB:**</sub></small>
 “Indeed, my eyes have seen all this; my ears have heard and understood.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H3605\|כֹּ֭ל]] [[H7200G\|רָאֲתָ֣ה]] [[H5869A\|עֵינִ֑]][[H9020\|י]] [[H8085G\|שָֽׁמְעָ֥ה]] [[H0241G\|אָ֝זְנִ֗]][[H9020\|י]] [[H9001\|וַ]][[H0995\|תָּ֥בֶן]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.25|<< Job 12:25]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.2|Job 13:2 >>]]</td></tr></table>
 

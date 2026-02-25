@@ -1,8 +1,61 @@
+---
+title: Jeremiah 46:6
+type: Verse
+kjv: "Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates."
+bsb: "“The swift cannot flee, and the warrior cannot escape! In the north by the River Euphrates they stumble and fall."
+hebrew: "אַל־ יָנ֣וּס הַקַּ֔ל וְאַל־ יִמָּלֵ֖ט הַגִּבּ֑וֹר צָפ֙וֹנָה֙ עַל־ יַ֣ד נְהַר־ פְּרָ֔ת כָּשְׁל֖וּ וְנָפָֽלוּ׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5127]]"
+- "[[H9009]]"
+- "[[H7031]]"
+- "[[H9002]]"
+- "[[H4422]]"
+- "[[H1368]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H3027J]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H3782]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:6**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.
 <small><sub>**BSB:**</sub></small>
 “The swift cannot flee, and the warrior cannot escape! In the north by the River Euphrates they stumble and fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5127\|יָנ֣וּס]] [[H9009\|הַ]][[H7031\|קַּ֔ל]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H4422\|יִמָּלֵ֖ט]] [[H9009\|הַ]][[H1368\|גִּבּ֑וֹר]] [[H6828G\|צָפ֙וֹנָ]][[H9011\|ה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027J\|יַ֣ד]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָ֔ת]] [[H3782\|כָּשְׁל֖וּ]] [[H9001\|וְ]][[H5307G\|נָפָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
 

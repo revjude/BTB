@@ -1,8 +1,57 @@
+---
+title: Psalm 119:99
+type: Verse
+kjv: "I have more understanding than all my teachers: for thy testimonies are my meditation."
+bsb: "I have more insight than all my teachers, for Your testimonies are my meditation."
+hebrew: "מִכָּל־ מְלַמְּדַ֥י הִשְׂכַּ֑לְתִּי כִּ֥י עֵ֝דְוֹתֶ֗יךָ שִׂ֣יחָה לִֽֿי׃"
+pericope: "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H7919A]]"
+- "[[H3588A]]"
+- "[[H5715]]"
+- "[[H9021]]"
+- "[[H7881]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:99**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have more understanding than all my teachers: for thy testimonies [are] my meditation.
 <small><sub>**BSB:**</sub></small>
 I have more insight than all my teachers, for Your testimonies are my meditation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H3925G\|מְלַמְּדַ֥]][[H9030\|י]] [[H7919A\|הִשְׂכַּ֑לְתִּי]] [[H3588A\|כִּ֥י]] [[H5715\|עֵ֝דְוֹתֶ֗י]][[H9021\|ךָ]] [[H7881\|שִׂ֣יחָה]] [[H9005\|לִֽֿ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEDITATION|MEDITATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.99|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.98|<< Psalms 119:98]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.100|Psalms 119:100 >>]]</td></tr></table>
 

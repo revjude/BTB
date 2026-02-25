@@ -1,8 +1,63 @@
+---
+title: Psalm 126:6
+type: Verse
+kjv: "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him."
+bsb: "He who goes out weeping, bearing a trail of seed, will surely return with shouts of joy, carrying sheaves of grain."
+hebrew: "הָ֘ל֤וֹךְ יֵלֵ֨ךְ׀ וּבָכֹה֮ נֹשֵׂ֪א מֶֽשֶׁךְ־ הַ֫זָּ֥רַע בֹּֽ֬א־ יָב֥וֹא בְרִנָּ֑ה נֹ֝שֵׂ֗א אֲלֻמֹּתָֽיו׃"
+pericope: "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REAPING|REAPING]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H1058]]"
+- "[[H5375H]]"
+- "[[H4901]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2233G]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H7440]]"
+- "[[H0485]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 126:6**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves [with him].
 <small><sub>**BSB:**</sub></small>
 He who goes out weeping, bearing a trail of seed, will surely return with shouts of joy, carrying sheaves of grain.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|הָ֘ל֤וֹךְ]] [[H1980G\|יֵלֵ֨ךְ]][[H9015\|׀]] [[H9002\|וּ]][[H1058\|בָכֹה֮]] [[H5375H\|נֹשֵׂ֪א]] [[H4901\|מֶֽשֶׁךְ]][[H9014\|־]] [[H9009\|הַ֫]][[H2233G\|זָּ֥רַע]] [[H0935G\|בֹּֽ֬א]][[H9014\|־]] [[H0935G\|יָב֥וֹא]] [[H9003\|בְ]][[H7440\|רִנָּ֑ה]] [[H5375H\|נֹ֝שֵׂ֗א]] [[H0485\|אֲלֻמֹּתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic JOY|JOY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REAPING|REAPING]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.5|<< Psalms 126:5]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.0|Psalms 127:0 >>]]</td></tr></table>
 

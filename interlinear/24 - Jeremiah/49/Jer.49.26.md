@@ -1,8 +1,63 @@
+---
+title: Jeremiah 49:26
+type: Verse
+kjv: "Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts."
+bsb: "For her young men will fall in the streets, and all her warriors will be silenced in that day,” declares the LORD of Hosts."
+hebrew: "לָכֵ֛ן יִפְּל֥וּ בַחוּרֶ֖יהָ בִּרְחֹבֹתֶ֑יהָ וְכָל־ אַנְשֵׁ֨י הַמִּלְחָמָ֤ה יִדַּ֙מּוּ֙ בַּיּ֣וֹם הַה֔וּא נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Jer.49.23 Judgment on Damascus|Judgment on Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5307J]]"
+- "[[H0970]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H1826H]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:26**<big><big>[[Jer.49.23 Judgment on Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 For her young men will fall in the streets, and all her warriors will be silenced in that day,” declares the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H5307J\|יִפְּל֥וּ]] [[H0970\|בַחוּרֶ֖י]][[H9024\|הָ]] [[H9003\|בִּ]][[H7339\|רְחֹבֹתֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֨י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֤ה]] [[H1826H\|יִדַּ֙מּוּ֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.25|<< Jeremiah 49:25]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.27|Jeremiah 49:27 >>]]</td></tr></table>
 

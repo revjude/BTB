@@ -1,10 +1,59 @@
+---
+title: Luke 9:36
+type: Verse
+kjv: "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen."
+bsb: "After the voice had spoken, only Jesus was present with them. The disciples kept this to themselves, and in those days they did not tell anyone what they had seen."
+greek: "Καὶ ἐν τῷ γενέσθαι τὴν φωνὴν εὑρέθη ὁ Ἰησοῦς μόνος. καὶ αὐτοὶ ἐσίγησαν καὶ οὐδενὶ ἀπήγγειλαν ἐν ἐκείναις ταῖς ἡμέραις οὐδὲν ὧν ἑώρακαν.¶"
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G5456G]]"
+- "[[G2147]]"
+- "[[G2424G]]"
+- "[[G3441]]"
+- "[[G0846]]"
+- "[[G4601]]"
+- "[[G3762]]"
+- "[[G0518]]"
+- "[[G1565]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G3708]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 9:36**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the voice was past, Jesus was found alone. And they kept [it] close, and told no man in those days any of those things which they had seen.
 <small><sub>**BSB:**</sub></small>
 After the voice had spoken, only Jesus was present with them. The disciples kept this to themselves, and in those days they did not tell anyone what they had seen.
-<small><sub>**Literal:**</sub></small>
-And as <the> happening the voice was found <the> Jesus alone. And they themselves were silent and to no [one] they told in those the days no [thing] of what they have seen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.35|<< Luke 9:35]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.37|Luke 9:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1096\|γενέσθαι]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G2147\|εὑρέθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3441\|μόνος.]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G4601\|ἐσίγησαν]]  [[G2532\|καὶ]]  [[G3762\|οὐδενὶ]]  [[G0518\|ἀπήγγειλαν]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3762\|οὐδὲν]]  [[G3739\|ὧν]]  [[G3708\|ἑώρακαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.35|<< Luke 9:35]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.37|Luke 9:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

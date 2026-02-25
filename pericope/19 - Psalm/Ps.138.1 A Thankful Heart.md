@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Thankful Heart
+type: Pericope
 pericope: "[[Ps.138.1 A Thankful Heart|A Thankful Heart]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 138
 book/chapter: "[[Ps.138|Psalm 138]]"
-genre:
+chronological_order: 385
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.138.0]]"
 - "[[Ps.138.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.138.8]]"
 ---
 
-[[Ps.138|Psalm 138:1 - Psalm 138:8]]
+<small>[[Ps.138|Psalm 138:1-8]]</small>
 *A Thankful Heart*
 
 [[Ps.138.0|0]] \[A Psalm\] of David.

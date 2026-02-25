@@ -1,10 +1,56 @@
+---
+title: Mark 9:27
+type: Verse
+kjv: "But Jesus took him by the hand, and lifted him up; and he arose."
+bsb: "But Jesus took him by the hand and helped him to his feet, and he stood up."
+greek: "ὁ δὲ Ἰησοῦς κρατήσας τῆς χειρὸς αὐτοῦ ἤγειρεν αὐτόν, καὶ ἀνέστη.¶"
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2902]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G0450]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:27**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus took him by the hand, and lifted him up; and he arose.
 <small><sub>**BSB:**</sub></small>
 But Jesus took him by the hand and helped him to his feet, and he stood up.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus having taken by the hand him raised up him, and he arose.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.26|<< Mark 9:26]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.28|Mark 9:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2902\|κρατήσας]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτοῦ]]  [[G1453\|ἤγειρεν]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G0450\|ἀνέστη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.26|<< Mark 9:26]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.28|Mark 9:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

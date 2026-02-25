@@ -1,8 +1,54 @@
+---
+title: Job 21:16
+type: Verse
+kjv: "Lo, their good is not in their hand: the counsel of the wicked is far from me."
+bsb: "Still, their prosperity is not in their own hands, so I stay far from the counsel of the wicked."
+hebrew: "הֵ֤ן לֹ֣א בְיָדָ֣ם טוּבָ֑ם עֲצַ֥ת רְ֝שָׁעִ֗ים רָ֣חֲקָה מֶֽנִּי׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H2898]]"
+- "[[H6098]]"
+- "[[H7563]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:16**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, their good [is] not in their hand: the counsel of the wicked is far from me.
 <small><sub>**BSB:**</sub></small>
 Still, their prosperity is not in their own hands, so I stay far from the counsel of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H3808\|לֹ֣א]] [[H9003\|בְ]][[H3027G\|יָדָ֣]][[H9028\|ם]] [[H2898\|טוּבָ֑]][[H9028\|ם]] [[H6098\|עֲצַ֥ת]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H7368\|רָ֣חֲקָה]] [[H4480A\|מֶֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.15|<< Job 21:15]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.17|Job 21:17 >>]]</td></tr></table>
 

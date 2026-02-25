@@ -1,8 +1,53 @@
+---
+title: Lamentations 5:17
+type: Verse
+kjv: "For this our heart is faint; for these things our eyes are dim."
+bsb: "Because of this, our hearts are faint; because of these, our eyes grow dim—"
+hebrew: "עַל־ זֶ֗ה הָיָ֤ה דָוֶה֙ לִבֵּ֔נוּ עַל־ אֵ֖לֶּה חָשְׁכ֥וּ עֵינֵֽינוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H1739]]"
+- "[[H3820A]]"
+- "[[H9025]]"
+- "[[H0428]]"
+- "[[H2821]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:17**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this our heart is faint; for these [things] our eyes are dim.
 <small><sub>**BSB:**</sub></small>
 Because of this, our hearts are faint; because of these, our eyes grow dim—
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2088\|זֶ֗ה]] [[H1961\|הָיָ֤ה]] [[H1739\|דָוֶה֙]] [[H3820A\|לִבֵּ֔]][[H9025\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H2821\|חָשְׁכ֥וּ]] [[H5869A\|עֵינֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.16|<< Lamentations 5:16]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.18|Lamentations 5:18 >>]]</td></tr></table>
 

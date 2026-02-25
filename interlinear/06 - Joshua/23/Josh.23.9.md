@@ -1,8 +1,61 @@
+---
+title: Joshua 23:9
+type: Verse
+kjv: "For the LORD hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day."
+bsb: "The LORD has driven out great and powerful nations before you, and to this day no one can stand against you."
+hebrew: "וַיּ֤וֹרֶשׁ יְהוָה֙ מִפְּנֵיכֶ֔ם גּוֹיִ֖ם גְּדֹלִ֣ים וַעֲצוּמִ֑ים וְאַתֶּ֗ם לֹא־ עָ֤מַד אִישׁ֙ בִּפְנֵיכֶ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMPANY|COMPANY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6099]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:9**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath driven out from before you great nations and strong: but [as for] you, no man hath been able to stand before you unto this day.
 <small><sub>**BSB:**</sub></small>
 The LORD has driven out great and powerful nations before you, and to this day no one can stand against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3423H\|יּ֤וֹרֶשׁ]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H1471A\|גּוֹיִ֖ם]] [[H1419A\|גְּדֹלִ֣ים]] [[H9002\|וַ]][[H6099\|עֲצוּמִ֑ים]] [[H9002\|וְ]][[H0859D\|אַתֶּ֗ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5975G\|עָ֤מַד]] [[H0376I\|אִישׁ֙]] [[H9003\|בִּ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.8|<< Joshua 23:8]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.10|Joshua 23:10 >>]]</td></tr></table>
 

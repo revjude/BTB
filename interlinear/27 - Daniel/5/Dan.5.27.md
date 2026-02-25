@@ -1,8 +1,57 @@
+---
+title: Daniel 5:27
+type: Verse
+kjv: "TEKEL; Thou art weighed in the balances, and art found wanting."
+bsb: "TEKEL means that you have been weighed on the scales and found deficient."
+aramaic: "תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEKEL|TEKEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8625B]]"
+- "[[H8625A]]"
+- "[[H9003]]"
+- "[[H3977]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H7912]]"
+- "[[H2627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:27**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 TEKEL; Thou art weighed in the balances, and art found wanting.
 <small><sub>**BSB:**</sub></small>
 TEKEL means that you have been weighed on the scales and found deficient.
+<small><sub>**Aramaic:**</sub></small>
+[[H8625B\|תְּקֵ֑ל]] [[H8625A\|תְּקִ֥ילְתָּה]] [[H9003\|בְ]][[H3977\|מֹֽאזַנְיָ֖]][[H9010\|א]] [[H9002\|וְ]][[H7912\|הִשְׁתְּכַ֥חַתְּ]] [[H2627\|חַסִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEKEL|TEKEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.26|<< Daniel 5:26]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.28|Daniel 5:28 >>]]</td></tr></table>
 

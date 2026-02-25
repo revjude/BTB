@@ -7,7 +7,7 @@
 
 → A disciple of John [[John.1.40|Joh 1:40]]
 
-→ Finds Peter, his brother, and brings him to Jesus [[John.1.40|Joh  1:40]]-[[John.1.42|42]]
+→ Finds Peter, his brother, and brings him to Jesus [[John.1.40|Joh  1:40-42]]
 
 → Call of [[Matt.4.19|Mt 4:19]]; [[Mark.1.16|Mr 1:16]]
 
@@ -15,7 +15,7 @@
 
 → Asks the Master privately about the destruction of the temple  [[Mark.13.3|Mr 13:3]],[[Mark.13.4|4]]
 
-→ Tells Jesus of the Greeks who sought to see him [[John.12.20|Joh  12:20]]-[[John.12.22|22]]
+→ Tells Jesus of the Greeks who sought to see him [[John.12.20|Joh  12:20-22]]
 
 → Reports the number of loaves at the feeding of the five thousand  [[John.6.8|Joh 6:8]]
 

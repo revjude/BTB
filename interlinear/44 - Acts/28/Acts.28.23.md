@@ -1,10 +1,73 @@
+---
+title: Acts 28:23
+type: Verse
+kjv: "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening."
+bsb: "So they set a day to meet with Paul, and many people came to the place he was staying. He expounded to them from morning to evening, testifying about the kingdom of God and persuading them about Jesus from the Law of Moses and the Prophets."
+greek: "Ταξάμενοι δὲ αὐτῷ ἡμέραν ἦλθον πρὸς αὐτὸν εἰς τὴν ξενίαν πλείονες, οἷς ἐξετίθετο διαμαρτυρόμενος τὴν βασιλείαν τοῦ θεοῦ, πείθων τε αὐτοὺς τὰ περὶ τοῦ Ἰησοῦ, ἀπό τε τοῦ νόμου Μωϋσέως καὶ τῶν προφητῶν ἀπὸ πρωῒ ἕως ἑσπέρας."
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5021]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2250]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3578]]"
+- "[[G4119]]"
+- "[[G3739]]"
+- "[[G1620]]"
+- "[[G1263]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3982]]"
+- "[[G5037]]"
+- "[[G4012]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G3551]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G4404]]"
+- "[[G2193]]"
+- "[[G2073]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 28:23**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had appointed him a day, there came many to him into [his] lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and [out of] the prophets, from morning till evening.
 <small><sub>**BSB:**</sub></small>
 So they set a day to meet with Paul, and many people came to the place he was staying. He expounded to them from morning to evening, testifying about the kingdom of God and persuading them about Jesus from the Law of Moses and the Prophets.
-<small><sub>**Literal:**</sub></small>
-Having appointed then to him a day came to him to the lodging many, to whom he was expounding fully testifying to the kingdom <the> of God, persuading then them <the> concerning <the> Jesus from both the law of Moses and the Prophets from morning to evening.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.22|<< Acts 28:22]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.24|Acts 28:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5021\|Ταξάμενοι]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G2250\|ἡμέραν]]  [[G2064\|ἦλθον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3578\|ξενίαν]]  [[G4119\|πλείονες,]]  [[G3739\|οἷς]]  [[G1620\|ἐξετίθετο]]  [[G1263\|διαμαρτυρόμενος]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3982\|πείθων]]  [[G5037\|τε]]  [[G0846\|αὐτοὺς]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ,]]  [[G0575\|ἀπό]]  [[G5037\|τε]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3475\|Μωϋσέως]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G0575\|ἀπὸ]]  [[G4404\|πρωῒ]]  [[G2193\|ἕως]]  [[G2073\|ἑσπέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.22|<< Acts 28:22]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.24|Acts 28:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

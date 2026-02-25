@@ -1,10 +1,52 @@
+---
+title: 2 Corinthians 3:8
+type: Verse
+kjv: "How shall not the ministration of the spirit be rather glorious?"
+bsb: "will not the ministry of the Spirit be even more glorious?"
+greek: "πῶς οὐχὶ μᾶλλον ἡ διακονία τοῦ πνεύματος ἔσται ἐν δόξῃ;"
+pericope: "[[2Cor.3.7 The Glory of the New Covenant|The Glory of the New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G4459]]"
+- "[[G3780]]"
+- "[[G3123G]]"
+- "[[G3588]]"
+- "[[G1248]]"
+- "[[G4151G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1391]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 3:8**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How shall not the ministration of the spirit be rather glorious?
 <small><sub>**BSB:**</sub></small>
 will not the ministry of the Spirit be even more glorious?
-<small><sub>**Literal:**</sub></small>
-how surely more the ministry of the Spirit will be in glory?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.7|<< 2 Corinthians 3:7]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.9|2 Corinthians 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G3780\|οὐχὶ]]  [[G3123G\|μᾶλλον]]  [[G3588\|ἡ]]  [[G1248\|διακονία]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G1510\|ἔσται]]  [[G1722\|ἐν]]  [[G1391\|δόξῃ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.7|<< 2 Corinthians 3:7]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.9|2 Corinthians 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

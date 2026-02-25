@@ -1,8 +1,63 @@
+---
+title: Esther 9:20
+type: Verse
+kjv: "And Mordecai wrote these things, and sent letters unto all the Jews that were in all the provinces of the king Ahasuerus, both nigh and far,"
+bsb: "Mordecai recorded these events and sent letters to all the Jews in all the provinces of King Xerxes, both near and far,"
+hebrew: "וַיִּכְתֹּ֣ב מָרְדֳּכַ֔י אֶת־ הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיִּשְׁלַ֨ח סְפָרִ֜ים אֶל־ כָּל־ הַיְּהוּדִ֗ים אֲשֶׁר֙ בְּכָל־ מְדִינוֹת֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ הַקְּרוֹבִ֖ים וְהָרְחוֹקִֽים׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H4782H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H7971G]]"
+- "[[H5612A]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4082]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H7138]]"
+- "[[H9002]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:20**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai wrote these things, and sent letters unto all the Jews that [were] in all the provinces of the king Ahasuerus, [both] nigh and far,
 <small><sub>**BSB:**</sub></small>
 Mordecai recorded these events and sent letters to all the Jews in all the provinces of King Xerxes, both near and far,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3789\|יִּכְתֹּ֣ב]] [[H4782H\|מָרְדֳּכַ֔י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H5612A\|סְפָרִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֗ים]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4082\|מְדִינוֹת֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֲחַשְׁוֵר֔וֹשׁ]] [[H9009\|הַ]][[H7138\|קְּרוֹבִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H7350\|רְחוֹקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.19|<< Esther 9:19]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.21|Esther 9:21 >>]]</td></tr></table>
 

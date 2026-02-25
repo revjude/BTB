@@ -1,8 +1,72 @@
+---
+title: Exodus 15:25
+type: Verse
+kjv: "And he cried unto the LORD; and the LORD shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,"
+bsb: "And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them,"
+hebrew: "וַיִּצְעַ֣ק אֶל־ יְהוָ֗ה וַיּוֹרֵ֤הוּ יְהוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל־ הַמַּ֔יִם וַֽיִּמְתְּק֖וּ הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ׃"
+pericope: "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MARAH|MARAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3384B]]"
+- "[[H9033]]"
+- "[[H6086I]]"
+- "[[H7993]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H4985]]"
+- "[[H8033G]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H5254G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:25**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cried unto the LORD; and the LORD shewed him a tree, [which] when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
 <small><sub>**BSB:**</sub></small>
 And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יִּצְעַ֣ק]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H3384B\|יּוֹרֵ֤]][[H9033\|הוּ]] [[H3068G\|יְהוָה֙]] [[H6086I\|עֵ֔ץ]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9001\|וַֽ]][[H4985\|יִּמְתְּק֖וּ]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H8033G\|שָׁ֣ם]] [[H7760A\|שָׂ֥ם]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H2706G\|חֹ֥ק]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּ֖ט]] [[H9002\|וְ]][[H8033G\|שָׁ֥ם]] [[H5254G\|נִסָּֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MARAH|MARAH]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic ORDINANCE|ORDINANCE]] • [[topic PRAYER|PRAYER]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.24|<< Exodus 15:24]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.26|Exodus 15:26 >>]]</td></tr></table>
 

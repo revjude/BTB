@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 13:19
+type: Verse
+kjv: "And Abijah pursued after Jeroboam, and took cities from him, Bethel with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof."
+bsb: "Abijah pursued Jeroboam and captured some cities from him: Bethel, Jeshanah, and Ephron, along with their villages."
+hebrew: "וַיִּרְדֹּ֣ף אֲבִיָּה֮ אַחֲרֵ֣י יָרָבְעָם֒ וַיִּלְכֹּ֤ד מִמֶּ֙נּוּ֙ עָרִ֔ים אֶת־ בֵּֽית־ אֵל֙ וְאֶת־ בְּנוֹתֶ֔יהָ וְאֶת־ יְשָׁנָ֖ה וְאֶת־ בְּנוֹתֶ֑יהָ וְאֶת־ עֶפְרַ֖יִן וּבְנֹתֶֽיהָ׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic EPHRAIN|EPHRAIN]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESHANAH|JESHANAH]]"
+- "[[topic OPHRAH|OPHRAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H0029I]]"
+- "[[H0310A]]"
+- "[[H3379G]]"
+- "[[H3920]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5892B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1008G]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H3466G]]"
+- "[[H6085I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 13:19**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijah pursued after Jeroboam, and took cities from him, Bethel with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof.
 <small><sub>**BSB:**</sub></small>
 Abijah pursued Jeroboam and captured some cities from him: Bethel, Jeshanah, and Ephron, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדֹּ֣ף]] [[H0029I\|אֲבִיָּה֮]] [[H0310A\|אַחֲרֵ֣י]] [[H3379G\|יָרָבְעָם֒]] [[H9001\|וַ]][[H3920\|יִּלְכֹּ֤ד]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H5892B\|עָרִ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵל֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנוֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3466G\|יְשָׁנָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנוֹתֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6085I\|עֶפְרַ֖יִן]] [[H9002\|וּ]][[H1323H\|בְנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic EPHRAIN|EPHRAIN]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESHANAH|JESHANAH]] • [[topic OPHRAH|OPHRAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.18|<< 2 Chronicles 13:18]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.20|2 Chronicles 13:20 >>]]</td></tr></table>
 

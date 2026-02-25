@@ -1,10 +1,69 @@
+---
+title: Mark 14:36
+type: Verse
+kjv: "And he said, Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt."
+bsb: "“Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.”"
+jesus_said: "Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt."
+greek: "καὶ ἔλεγεν· αββα, ὁ πατήρ, πάντα δυνατά σοι· παρένεγκε τὸ ποτήριον τοῦτο ἀπ᾽ ἐμοῦ, ἀλλ᾽ οὐ τί ἐγὼ θέλω ἀλλὰ τί σύ."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABBA|ABBA]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CUP|CUP]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic SUBMISSION|SUBMISSION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0005]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3956]]"
+- "[[G1415]]"
+- "[[G4771]]"
+- "[[G3911]]"
+- "[[G4221]]"
+- "[[G3778]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G5101]]"
+- "[[G2309]]"
+texts:
+- NKO
+---
+
 **Mark 14:36**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Abba, Father, all things [are] possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.
 <small><sub>**BSB:**</sub></small>
 “Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.”
-<small><sub>**Literal:**</sub></small>
-And He was saying; Abba, O Father, all things [are] possible to You; do take away <the> cup this from Me but not [it is] what I myself want but what You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.35|<< Mark 14:35]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.37|Mark 14:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγεν·]]  [[G0005\|αββα,]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3956\|πάντα]]  [[G1415\|δυνατά]]  [[G4771\|σοι·]]  [[G3911\|παρένεγκε]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3778\|τοῦτο]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ,]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G5101\|τί]]  [[G1473\|ἐγὼ]]  [[G2309\|θέλω]]  [[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G4771\|σύ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABBA|ABBA]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CUP|CUP]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SORROW|SORROW]] • [[topic SUBMISSION|SUBMISSION]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.35|<< Mark 14:35]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.37|Mark 14:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

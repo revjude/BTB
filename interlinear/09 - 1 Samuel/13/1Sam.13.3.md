@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 13:3
+type: Verse
+kjv: "And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear."
+bsb: "Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!”"
+hebrew: "וַיַּ֣ךְ יוֹנָתָ֗ן אֵ֣ת נְצִ֤יב פְּלִשְׁתִּים֙ אֲשֶׁ֣ר בְּגֶ֔בַע וַֽיִּשְׁמְע֖וּ פְּלִשְׁתִּ֑ים וְשָׁאוּל֩ תָּקַ֨ע בַּשּׁוֹפָ֤ר בְּכָל־ הָאָ֙רֶץ֙ לֵאמֹ֔ר יִשְׁמְע֖וּ הָעִבְרִֽים׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GARRISON|GARRISON]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H3129N]]"
+- "[[H0853]]"
+- "[[H5333]]"
+- "[[H6430G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1387G]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H7586G]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:3**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan smote the garrison of the Philistines that [was] in Geba, and the Philistines heard [of it]. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
 <small><sub>**BSB:**</sub></small>
 Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H3129N\|יוֹנָתָ֗ן]] [[H0853\|אֵ֣ת]] [[H5333\|נְצִ֤יב]] [[H6430G\|פְּלִשְׁתִּים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H1387G\|גֶ֔בַע]] [[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֖וּ]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9002\|וְ]][[H7586G\|שָׁאוּל֩]] [[H8628\|תָּקַ֨ע]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֤ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H8085G\|יִשְׁמְע֖וּ]] [[H9009\|הָ]][[H5680\|עִבְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GARRISON|GARRISON]] • [[topic GEBA|GEBA]] • [[topic ISRAEL|ISRAEL]] • [[topic JONATHAN|JONATHAN]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.2|<< 1 Samuel 13:2]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.4|1 Samuel 13:4 >>]]</td></tr></table>
 

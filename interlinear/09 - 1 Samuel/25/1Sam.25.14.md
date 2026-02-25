@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 25:14
+type: Verse
+kjv: "But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them."
+bsb: "Meanwhile, one of Nabal’s young men informed Nabal’s wife Abigail, “Look, David sent messengers from the wilderness to greet our master, but he screamed at them."
+hebrew: "וְלַאֲבִיגַ֙יִל֙ אֵ֣שֶׁת נָבָ֔ל הִגִּ֧יד נַֽעַר־ אֶחָ֛ד מֵהַנְּעָרִ֖ים לֵאמֹ֑ר הִנֵּ֣ה שָׁלַח֩ דָּוִ֨ד מַלְאָכִ֧ים׀ מֵֽהַמִּדְבָּ֛ר לְבָרֵ֥ךְ אֶת־ אֲדֹנֵ֖ינוּ וַיָּ֥עַט בָּהֶֽם׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic RAILING|RAILING]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0026G]]"
+- "[[H0802H]]"
+- "[[H5037]]"
+- "[[H5046]]"
+- "[[H5288]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H4397G]]"
+- "[[H9015]]"
+- "[[H4057B]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H0113]]"
+- "[[H9025]]"
+- "[[H9001]]"
+- "[[H5860A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:14**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, one of Nabal’s young men informed Nabal’s wife Abigail, “Look, David sent messengers from the wilderness to greet our master, but he screamed at them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H0026G\|אֲבִיגַ֙יִל֙]] [[H0802H\|אֵ֣שֶׁת]] [[H5037\|נָבָ֔ל]] [[H5046\|הִגִּ֧יד]] [[H5288\|נַֽעַר]][[H9014\|־]] [[H0259\|אֶחָ֛ד]] [[H9006\|מֵ]][[H9009\|הַ]][[H5288\|נְּעָרִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֣ה]] [[H7971G\|שָׁלַח֩]] [[H1732\|דָּוִ֨ד]] [[H4397G\|מַלְאָכִ֧ים]][[H9015\|׀]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H4057B\|מִּדְבָּ֛ר]] [[H9005\|לְ]][[H1288\|בָרֵ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנֵ֖י]][[H9025\|נוּ]] [[H9001\|וַ]][[H5860A\|יָּ֥עַט]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic NABAL|NABAL]] • [[topic RAILING|RAILING]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.13|<< 1 Samuel 25:13]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.15|1 Samuel 25:15 >>]]</td></tr></table>
 

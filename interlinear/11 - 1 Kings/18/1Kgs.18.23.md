@@ -1,8 +1,70 @@
+---
+title: 1 Kings 18:23
+type: Verse
+kjv: "Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under:"
+bsb: "Get two bulls for us. Let the prophets of Baal choose one bull for themselves, cut it into pieces, and place it on the wood but not light the fire. And I will prepare the other bull and place it on the wood but not light the fire."
+hebrew: "וְיִתְּנוּ־ לָ֜נוּ שְׁנַ֣יִם פָּרִ֗ים וְיִבְחֲר֣וּ לָהֶם֩ הַפָּ֨ר הָאֶחָ֜ד וִֽינַתְּחֻ֗הוּ וְיָשִׂ֙ימוּ֙ עַל־ הָ֣עֵצִ֔ים וְאֵ֖שׁ לֹ֣א יָשִׂ֑ימוּ וַאֲנִ֞י אֶעֱשֶׂ֣ה׀ אֶת־ הַפָּ֣ר הָאֶחָ֗ד וְנָֽתַתִּי֙ עַל־ הָ֣עֵצִ֔ים וְאֵ֖שׁ לֹ֥א אָשִֽׂים׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H8147]]"
+- "[[H6499]]"
+- "[[H0977]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H5408]]"
+- "[[H9033]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H6086G]]"
+- "[[H0784]]"
+- "[[H3808]]"
+- "[[H0589]]"
+- "[[H6213H]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:23**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay [it] on wood, and put no fire [under]: and I will dress the other bullock, and lay [it] on wood, and put no fire [under]:
 <small><sub>**BSB:**</sub></small>
 Get two bulls for us. Let the prophets of Baal choose one bull for themselves, cut it into pieces, and place it on the wood but not light the fire. And I will prepare the other bull and place it on the wood but not light the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|יִתְּנוּ]][[H9014\|־]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H8147\|שְׁנַ֣יִם]] [[H6499\|פָּרִ֗ים]] [[H9002\|וְ]][[H0977\|יִבְחֲר֣וּ]] [[H9005\|לָ]][[H9038\|הֶם֩]] [[H9009\|הַ]][[H6499\|פָּ֨ר]] [[H9009\|הָ]][[H0259\|אֶחָ֜ד]] [[H9002\|וִֽ]][[H5408\|ינַתְּחֻ֗]][[H9033\|הוּ]] [[H9002\|וְ]][[H7760H\|יָשִׂ֙ימוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H6086G\|עֵצִ֔ים]] [[H9002\|וְ]][[H0784\|אֵ֖שׁ]] [[H3808\|לֹ֣א]] [[H7760H\|יָשִׂ֑ימוּ]] [[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H6213H\|אֶעֱשֶׂ֣ה]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6499\|פָּ֣ר]] [[H9009\|הָ]][[H0259\|אֶחָ֗ד]] [[H9001\|וְ]][[H5414H\|נָֽתַתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H6086G\|עֵצִ֔ים]] [[H9002\|וְ]][[H0784\|אֵ֖שׁ]] [[H3808\|לֹ֥א]] [[H7760H\|אָשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.22|<< 1 Kings 18:22]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.24|1 Kings 18:24 >>]]</td></tr></table>
 

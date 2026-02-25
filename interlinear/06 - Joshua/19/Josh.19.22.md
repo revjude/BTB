@@ -1,8 +1,64 @@
+---
+title: Joshua 19:22
+type: Verse
+kjv: "And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages."
+bsb: "The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan. There were sixteen cities, along with their villages."
+hebrew: "וּפָגַע֩ הַגְּב֨וּל בְּתָב֤וֹר וְשַׁחֲצִ֙ימָה֙ וּבֵ֣ית שֶׁ֔מֶשׁ וְהָי֛וּ תֹּצְא֥וֹת גְּבוּלָ֖ם הַיַּרְדֵּ֑ן עָרִ֥ים שֵׁשׁ־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic SHAHAZIMAH|SHAHAZIMAH]]"
+- "[[topic TABOR|TABOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6293]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H9003]]"
+- "[[H8396G]]"
+- "[[H9002]]"
+- "[[H7831]]"
+- "[[H1053H]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9028]]"
+- "[[H3383]]"
+- "[[H5892B]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 19:22**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.
 <small><sub>**BSB:**</sub></small>
 The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan. There were sixteen cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6293\|פָגַע֩]] [[H9009\|הַ]][[H1366G\|גְּב֨וּל]] [[H9003\|בְּ]][[H8396G\|תָב֤וֹר]] [[H9002\|וְ]][[H7831\|שַׁחֲצִ֙ימָה֙]] [[H9002\|וּ]][[H1053H\|בֵ֣ית]] [[H1053H\|שֶׁ֔מֶשׁ]] [[H9001\|וְ]][[H1961\|הָי֛וּ]] [[H8444\|תֹּצְא֥וֹת]] [[H1366G\|גְּבוּלָ֖]][[H9028\|ם]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H5892B\|עָרִ֥ים]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic ISSACHAR|ISSACHAR]] • [[topic SHAHAZIMAH|SHAHAZIMAH]] • [[topic TABOR|TABOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.21|<< Joshua 19:21]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.23|Joshua 19:23 >>]]</td></tr></table>
 
@@ -24,7 +80,7 @@ The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan.
 | and villages their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691B\|חַצְרֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.21|<< Joshua 19:21]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.23|Joshua 19:23 >>]]</td></tr></table>
 
-[^1]: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
-[^2]: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
+[^1]: and to Shahzum  | **<big>[[H9002|וְ]]</big><big>[[H7831|שַׁחֲצוּמָה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
+[^2]: and to Shahzum  | **<big>[[H9002|וְ]]</big><big>[[H7831|שַׁחֲצוּמָה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְשַׁחֲצִ֙ומָה֙</big></span>**
 

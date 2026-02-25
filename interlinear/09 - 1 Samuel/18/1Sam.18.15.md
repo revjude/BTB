@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 18:15
+type: Verse
+kjv: "Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him."
+bsb: "When Saul saw that David was very successful, he was afraid of him."
+hebrew: "וַיַּ֣רְא שָׁא֔וּל אֲשֶׁר־ ה֖וּא מַשְׂכִּ֣יל מְאֹ֑ד וַיָּ֖גָר מִפָּנָֽיו׃"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H7586G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7919A]]"
+- "[[H3966]]"
+- "[[H1481C]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:15**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore when Saul saw that he behaved himself very wisely, he was afraid of him.
 <small><sub>**BSB:**</sub></small>
 When Saul saw that David was very successful, he was afraid of him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H7586G\|שָׁא֔וּל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H7919A\|מַשְׂכִּ֣יל]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H1481C\|יָּ֖גָר]] [[H9006\|מִ]][[H6440L\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.14|<< 1 Samuel 18:14]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.16|1 Samuel 18:16 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Judges 1:22
+type: Verse
+kjv: "And the house of Joseph, they also went up against Bethel: and the LORD was with them."
+bsb: "The house of Joseph also attacked Bethel, and the LORD was with them."
+hebrew: "וַיַּעֲל֧וּ בֵית־ יוֹסֵ֛ף גַּם־ הֵ֖ם בֵּֽית־ אֵ֑ל וַֽיהוָ֖ה עִמָּֽם׃"
+pericope: "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H1008G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:22**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house of Joseph, they also went up against Bethel: and the LORD [was] with them.
 <small><sub>**BSB:**</sub></small>
 The house of Joseph also attacked Bethel, and the LORD was with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֧וּ]] [[H1004M\|בֵית]][[H9014\|־]] [[H3130G\|יוֹסֵ֛ף]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵ֖ם]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H5973A\|עִמָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CANAANITES|CANAANITES]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.21|<< Judges 1:21]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.23|Judges 1:23 >>]]</td></tr></table>
 

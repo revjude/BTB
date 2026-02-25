@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 16:11
+type: Verse
+kjv: "And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel."
+bsb: "Now the acts of Asa, from beginning to end, are indeed written in the Book of the Kings of Judah and Israel."
+hebrew: "וְהִנֵּה֙ דִּבְרֵ֣י אָסָ֔א הָרִאשׁוֹנִ֖ים וְהָאַחֲרוֹנִ֑ים הִנָּ֤ם כְּתוּבִים֙ עַל־ סֵ֣פֶר הַמְּלָכִ֔ים לִיהוּדָ֖ה וְיִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.16.11 The Death and Burial of Asa|The Death and Burial of Asa]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1697K]]"
+- "[[H0609G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0314]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:11**<big><big>[[2Chr.16.11 The Death and Burial of Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the acts of Asa, first and last, lo, they [are] written in the book of the kings of Judah and Israel.
 <small><sub>**BSB:**</sub></small>
 Now the acts of Asa, from beginning to end, are indeed written in the Book of the Kings of Judah and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H1697K\|דִּבְרֵ֣י]] [[H0609G\|אָסָ֔א]] [[H9009\|הָ]][[H7223G\|רִאשׁוֹנִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אַחֲרוֹנִ֑ים]] [[H2005\|הִנָּ֤]][[H9048\|ם]] [[H3789\|כְּתוּבִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֔ים]] [[H9005\|לִ]][[H3063G\|יהוּדָ֖ה]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.10|<< 2 Chronicles 16:10]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.12|2 Chronicles 16:12 >>]]</td></tr></table>
 

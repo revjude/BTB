@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 3:3
+type: Verse
+kjv: "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits."
+bsb: "The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard."
+hebrew: "וְאֵ֙לֶּה֙ הוּסַ֣ד שְׁלֹמֹ֔ה לִבְנ֖וֹת אֶת־ בֵּ֣ית הָאֱלֹהִ֑ים הָאֹ֡רֶךְ אַמּ֞וֹת בַּמִּדָּ֤ה הָרִֽאשׁוֹנָה֙ אַמּ֣וֹת שִׁשִּׁ֔ים וְרֹ֖חַב אַמּ֥וֹת עֶשְׂרִֽים׃"
+pericope: "[[2Chr.3.1 Temple Construction Begins|Temple Construction Begins]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H3245]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0753]]"
+- "[[H0520A]]"
+- "[[H9003]]"
+- "[[H4060A]]"
+- "[[H7223H]]"
+- "[[H8346]]"
+- "[[H7341]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:3**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are the things wherein] Solomon was instructed for the building of the house of God. The length by cubits after the first measure [was] threescore cubits, and the breadth twenty cubits.
 <small><sub>**BSB:**</sub></small>
 The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H3245\|הוּסַ֣ד]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9005\|לִ]][[H1129\|בְנ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9009\|הָ]][[H0753\|אֹ֡רֶךְ]] [[H0520A\|אַמּ֞וֹת]] [[H9003\|בַּ]][[H4060A\|מִּדָּ֤ה]] [[H9009\|הָ]][[H7223H\|רִֽאשׁוֹנָה֙]] [[H0520A\|אַמּ֣וֹת]] [[H8346\|שִׁשִּׁ֔ים]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H0520A\|אַמּ֥וֹת]] [[H6242\|עֶשְׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
 

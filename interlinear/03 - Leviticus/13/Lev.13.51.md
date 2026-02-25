@@ -1,8 +1,73 @@
+---
+title: Leviticus 13:51
+type: Verse
+kjv: "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean."
+bsb: "On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how it is used, it is a harmful mildew; the article is unclean."
+hebrew: "וְרָאָ֨ה אֶת־ הַנֶּ֜גַע בַּיּ֣וֹם הַשְּׁבִיעִ֗י כִּֽי־ פָשָׂ֤ה הַנֶּ֙גַע֙ בַּ֠בֶּגֶד אֽוֹ־ בַשְּׁתִ֤י אֽוֹ־ בָעֵ֙רֶב֙ א֣וֹ בָע֔וֹר לְכֹ֛ל אֲשֶׁר־ יֵעָשֶׂ֥ה הָע֖וֹר לִמְלָאכָ֑ה צָרַ֧עַת מַמְאֶ֛רֶת הַנֶּ֖גַע טָמֵ֥א הֽוּא׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5061]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7637]]"
+- "[[H3588A]]"
+- "[[H6581]]"
+- "[[H0899B]]"
+- "[[H0176A]]"
+- "[[H8359]]"
+- "[[H6154B]]"
+- "[[H5785]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H6883]]"
+- "[[H3992]]"
+- "[[H2931]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:51**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, [or] in any work that is made of skin; the plague [is] a fretting leprosy; it [is] unclean.
 <small><sub>**BSB:**</sub></small>
 On the seventh day the priest shall reexamine it, and if the mildew has spread in the fabric, weave, knit, or leather, then regardless of how it is used, it is a harmful mildew; the article is unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נֶּ֜גַע]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6581\|פָשָׂ֤ה]] [[H9009\|הַ]][[H5061\|נֶּ֙גַע֙]] [[H9003\|בַּ֠]][[H0899B\|בֶּגֶד]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9003\|בַ]][[H8359\|שְּׁתִ֤י]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9003\|בָ]][[H6154B\|עֵ֙רֶב֙]] [[H0176A\|א֣וֹ]] [[H9003\|בָ]][[H5785\|ע֔וֹר]] [[H9005\|לְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יֵעָשֶׂ֥ה]] [[H9009\|הָ]][[H5785\|ע֖וֹר]] [[H9005\|לִ]][[H4399\|מְלָאכָ֑ה]] [[H6883\|צָרַ֧עַת]] [[H3992\|מַמְאֶ֛רֶת]] [[H9009\|הַ]][[H5061\|נֶּ֖גַע]] [[H2931\|טָמֵ֥א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.50|<< Leviticus 13:50]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.52|Leviticus 13:52 >>]]</td></tr></table>
 

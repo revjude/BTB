@@ -1,8 +1,62 @@
+---
+title: 2 Kings 4:20
+type: Verse
+kjv: "And when he had taken him, and brought him to his mother, he sat on her knees till noon, and then died."
+bsb: "After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died."
+hebrew: "וַיִּשָּׂאֵ֔הוּ וַיְבִיאֵ֖הוּ אֶל־ אִמּ֑וֹ וַיֵּ֧שֶׁב עַל־ בִּרְכֶּ֛יהָ עַד־ הַֽצָּהֳרַ֖יִם וַיָּמֹֽת׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9033]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H1290]]"
+- "[[H9024]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6672A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:20**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had taken him, and brought him to his mother, he sat on her knees till noon, and [then] died.
 <small><sub>**BSB:**</sub></small>
 After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|יִּשָּׂאֵ֔]][[H9033\|הוּ]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3427\|יֵּ֧שֶׁב]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכֶּ֛י]][[H9024\|הָ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַֽ]][[H6672A\|צָּהֳרַ֖יִם]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.19|<< 2 Kings 4:19]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.21|2 Kings 4:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

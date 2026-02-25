@@ -1,8 +1,69 @@
+---
+title: Numbers 13:31
+type: Verse
+kjv: "But the men that went up with him said, We be not able to go up against the people; for they are stronger than we."
+bsb: "But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!”"
+hebrew: "וְהָ֨אֲנָשִׁ֜ים אֲשֶׁר־ עָל֤וּ עִמּוֹ֙ אָֽמְר֔וּ לֹ֥א נוּכַ֖ל לַעֲל֣וֹת אֶל־ הָעָ֑ם כִּֽי־ חָזָ֥ק ה֖וּא מִמֶּֽנּוּ׃"
+pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic REPORTS|REPORTS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H2389]]"
+- "[[H1931]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:31**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men that went up with him said, We be not able to go up against the people; for they [are] stronger than we.
 <small><sub>**BSB:**</sub></small>
 But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ֨]][[H0582\|אֲנָשִׁ֜ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927G\|עָל֤וּ]] [[H5973A\|עִמּ]][[H9033\|וֹ֙]] [[H0559\|אָֽמְר֔וּ]] [[H3808\|לֹ֥א]] [[H3201\|נוּכַ֖ל]] [[H9005\|לַ]][[H5927G\|עֲל֣וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2389\|חָזָ֥ק]] [[H1931\|ה֖וּא]] [[H4480A\|מִמֶּֽ]][[H9035\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic COWARDICE|COWARDICE]] • [[topic ISRAEL|ISRAEL]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic REPORTS|REPORTS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.30|<< Numbers 13:30]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.32|Numbers 13:32 >>]]</td></tr></table>
 

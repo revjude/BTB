@@ -1,10 +1,67 @@
+---
+title: John 21:20
+type: Verse
+kjv: "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?"
+bsb: "Peter turned and saw the disciple whom Jesus loved following them. He was the one who had leaned back against Jesus at the supper to ask, “Lord, who is going to betray You?”"
+greek: "Ἐπιστραφεὶς δὲ ὁ Πέτρος βλέπει τὸν μαθητὴν ὃν ἠγάπα ὁ Ἰησοῦς ἀκολουθοῦντα ὃς καὶ ἀνέπεσεν ἐν τῷ δείπνῳ ἐπὶ τὸ στῆθος αὐτοῦ καὶ εἶπεν· κύριε, τίς ἐστιν ὁ παραδιδούς σε;"
+pericope: "[[John.21.20 Jesus and the Beloved Disciple|Jesus and the Beloved Disciple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G1994]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0991]]"
+- "[[G3101]]"
+- "[[G3739]]"
+- "[[G0025]]"
+- "[[G2424G]]"
+- "[[G0190]]"
+- "[[G2532]]"
+- "[[G0377]]"
+- "[[G1722]]"
+- "[[G1173]]"
+- "[[G1909]]"
+- "[[G4738]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3860]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **John 21:20**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
 <small><sub>**BSB:**</sub></small>
 Peter turned and saw the disciple whom Jesus loved following them. He was the one who had leaned back against Jesus at the supper to ask, “Lord, who is going to betray You?”
-<small><sub>**Literal:**</sub></small>
-Having turned now <the> Peter sees the disciple whom was loving <the> Jesus following who also had reclined at the supper on the bosom of Him and said; Lord, who is it who is betraying You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.19|<< John 21:19]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.21|John 21:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1994\|Ἐπιστραφεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0991\|βλέπει]]  [[G3588\|τὸν]]  [[G3101\|μαθητὴν]]  [[G3739\|ὃν]]  [[G0025\|ἠγάπα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0190\|ἀκολουθοῦντα]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G0377\|ἀνέπεσεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1173\|δείπνῳ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4738\|στῆθος]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G2962G\|κύριε,]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3860\|παραδιδούς]]  [[G4771\|σε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.19|<< John 21:19]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.21|John 21:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

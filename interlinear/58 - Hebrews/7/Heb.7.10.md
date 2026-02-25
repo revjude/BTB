@@ -1,10 +1,56 @@
+---
+title: Hebrews 7:10
+type: Verse
+kjv: "For he was yet in the loins of his father, when Melchisedec met him."
+bsb: "For when Melchizedek met Abraham, Levi was still in the loin of his ancestor."
+greek: "ἔτι γὰρ ἐν τῇ ὀσφύϊ τοῦ πατρὸς ἦν ὅτε συνήντησεν αὐτῷ ὁ Μελχισέδεκ.¶"
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2089]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3751]]"
+- "[[G3962]]"
+- "[[G1510]]"
+- "[[G3753]]"
+- "[[G4876]]"
+- "[[G0846]]"
+- "[[G3198]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 7:10**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he was yet in the loins of his father, when Melchisedec met him.
 <small><sub>**BSB:**</sub></small>
 For when Melchizedek met Abraham, Levi was still in the loin of his ancestor.
-<small><sub>**Literal:**</sub></small>
-Still for in the loin <the> of [his] father he was when he met with him <the> Melchizedek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.9|<< Hebrews 7:9]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.11|Hebrews 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|ἔτι]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3751\|ὀσφύϊ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G1510\|ἦν]]  [[G3753\|ὅτε]]  [[G4876\|συνήντησεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G3198\|Μελχισέδεκ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.9|<< Hebrews 7:9]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.11|Hebrews 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

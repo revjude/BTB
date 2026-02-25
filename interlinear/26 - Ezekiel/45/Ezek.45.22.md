@@ -1,8 +1,61 @@
+---
+title: Ezekiel 45:22
+type: Verse
+kjv: "And upon that day shall the prince prepare for himself and for all the people of the land a bullock for a sin offering."
+bsb: "On that day the prince shall provide a bull as a sin offering for himself and for all the people of the land."
+hebrew: "וְעָשָׂ֤ה הַנָּשִׂיא֙ בַּיּ֣וֹם הַה֔וּא בַּעֲד֕וֹ וּבְעַ֖ד כָּל־ עַ֣ם הָאָ֑רֶץ פַּ֖ר חַטָּֽאת׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H1157]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H6499]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:22**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon that day shall the prince prepare for himself and for all the people of the land a bullock [for] a sin offering.
 <small><sub>**BSB:**</sub></small>
 On that day the prince shall provide a bull as a sin offering for himself and for all the people of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213I\|עָשָׂ֤ה]] [[H9009\|הַ]][[H5387A\|נָּשִׂיא֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H1157\|בַּעֲד֕]][[H9033\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H6499\|פַּ֖ר]] [[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.21|<< Ezekiel 45:21]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.23|Ezekiel 45:23 >>]]</td></tr></table>
 

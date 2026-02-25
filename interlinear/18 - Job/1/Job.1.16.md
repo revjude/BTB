@@ -1,8 +1,74 @@
+---
+title: Job 1:16
+type: Verse
+kjv: "While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee."
+bsb: "While he was still speaking, another messenger came and reported: “The fire of God fell from heaven. It burned and consumed the sheep and the servants, and I alone have escaped to tell you!”"
+hebrew: "ע֣וֹד׀ זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ אֵ֣שׁ אֱלֹהִ֗ים נָֽפְלָה֙ מִן־ הַשָּׁמַ֔יִם וַתִּבְעַ֥ר בַּצֹּ֛אן וּבַנְּעָרִ֖ים וַתֹּאכְלֵ֑ם וָאִמָּ֨לְטָ֧ה רַק־ אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ׃"
+pericope: "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H5750]]"
+- "[[H9015]]"
+- "[[H2088]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0784]]"
+- "[[H0430G]]"
+- "[[H5307G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H6629G]]"
+- "[[H5288]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H4422]]"
+- "[[H9012]]"
+- "[[H7535]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9030]]"
+- "[[H5046]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:16**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While he [was] yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.
 <small><sub>**BSB:**</sub></small>
 While he was still speaking, another messenger came and reported: “The fire of God fell from heaven. It burned and consumed the sheep and the servants, and I alone have escaped to tell you!”
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֣וֹד]][[H9015\|׀]] [[H2088\|זֶ֣ה]] [[H1696G\|מְדַבֵּ֗ר]] [[H9002\|וְ]][[H2088\|זֶה֮]] [[H0935G\|בָּ֣א]] [[H9001\|וַ]][[H0559\|יֹּאמַר֒]] [[H0784\|אֵ֣שׁ]] [[H0430G\|אֱלֹהִ֗ים]] [[H5307G\|נָֽפְלָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H1197A\|תִּבְעַ֥ר]] [[H9003\|בַּ]][[H6629G\|צֹּ֛אן]] [[H9002\|וּ]][[H9003\|בַ]][[H5288\|נְּעָרִ֖ים]] [[H9001\|וַ]][[H0398\|תֹּאכְלֵ֑]][[H9038\|ם]] [[H9001\|וָ]][[H4422\|אִמָּ֨לְטָ֧]][[H9012\|ה]] [[H7535\|רַק]][[H9014\|־]] [[H0589\|אֲנִ֛י]] [[H9005\|לְ]][[H0905H\|בַדִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H5046\|הַגִּ֥יד]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.15|<< Job 1:15]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.17|Job 1:17 >>]]</td></tr></table>
 

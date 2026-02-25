@@ -1,8 +1,81 @@
+---
+title: Ezekiel 37:19
+type: Verse
+kjv: "Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand."
+bsb: "you are to tell them that this is what the Lord GOD says: ‘I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel associated with him, and I will put them together with the stick of Judah. I will make them into a single stick, and they will become one in My hand.’"
+hebrew: "דַּבֵּ֣ר אֲלֵהֶ֗ם כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנֵּה֩ אֲנִ֨י לֹקֵ֜חַ אֶת־ עֵ֤ץ יוֹסֵף֙ אֲשֶׁ֣ר בְּיַד־ אֶפְרַ֔יִם וְשִׁבְטֵ֥י יִשְׂרָאֵ֖ל חֲבֵרָ֑יו וְנָתַתִּי֩ אוֹתָ֨ם עָלָ֜יו אֶת־ עֵ֣ץ יְהוּדָ֗ה וַֽעֲשִׂיתִם֙ לְעֵ֣ץ אֶחָ֔ד וְהָי֥וּ אֶחָ֖ד בְּיָדִֽי׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H6086I]]"
+- "[[H3130G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H2270]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3063G]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 37:19**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which [is] in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, [even] with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 <small><sub>**BSB:**</sub></small>
 you are to tell them that this is what the Lord GOD says: ‘I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel associated with him, and I will put them together with the stick of Judah. I will make them into a single stick, and they will become one in My hand.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2009\|הִנֵּה֩]] [[H0589\|אֲנִ֨י]] [[H3947G\|לֹקֵ֜חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H6086I\|עֵ֤ץ]] [[H3130G\|יוֹסֵף֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2270\|חֲבֵרָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H5414H\|נָתַתִּי֩]] [[H0853\|אוֹתָ֨]][[H9038\|ם]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H6086I\|עֵ֣ץ]] [[H3063G\|יְהוּדָ֗ה]] [[H9001\|וַֽ]][[H6213H\|עֲשִׂיתִ]][[H9038\|ם֙]] [[H9005\|לְ]][[H6086I\|עֵ֣ץ]] [[H0259\|אֶחָ֔ד]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H0259\|אֶחָ֖ד]] [[H9003\|בְּ]][[H3027G\|יָדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.18|<< Ezekiel 37:18]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.20|Ezekiel 37:20 >>]]</td></tr></table>
 
@@ -40,7 +113,7 @@ you are to tell them that this is what the Lord GOD says: ‘I will take the sti
 | in hand my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.18|<< Ezekiel 37:18]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.20|Ezekiel 37:20 >>]]</td></tr></table>
 
-[^1]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: associate its  | **<big>[[H2270|חֲבֵר]]</big><big>[[H9023|וֹ]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: associate its  | **<big>[[H2270|חֲבֵר]]</big><big>[[H9023|וֹ]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חֲבֵרָ֑ו</big></span>**
 

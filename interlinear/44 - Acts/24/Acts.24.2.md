@@ -1,10 +1,63 @@
+---
+title: Acts 24:2
+type: Verse
+kjv: "And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,"
+bsb: "When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation."
+greek: "κληθέντος δὲ αὐτοῦ ἤρξατο κατηγορεῖν ὁ Τέρτυλλος λέγων· πολλῆς εἰρήνης τυγχάνοντες διὰ σοῦ καὶ διορθωμάτων γινομένων τῷ ἔθνει τούτῳ διὰ τῆς σῆς προνοίας"
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic ATTORNEY|ATTORNEY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TERTULLUS|TERTULLUS]]"
+strongs:
+- "[[G2564G]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0757]]"
+- "[[G2723]]"
+- "[[G3588]]"
+- "[[G5061]]"
+- "[[G3004G]]"
+- "[[G4183]]"
+- "[[G1515]]"
+- "[[G5177]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1357]]"
+- "[[G1096]]"
+- "[[G1484]]"
+- "[[G3778]]"
+- "[[G4307]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 24:2**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was called forth, Tertullus began to accuse [him], saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,
 <small><sub>**BSB:**</sub></small>
 When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation.
-<small><sub>**Literal:**</sub></small>
-When was invited then he began to accuse <the> Tertullus saying; Great peace we are attaining through you and excellent reforms are being done to the nation this [one] through <the> your foresight<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.1|<< Acts 24:1]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.3|Acts 24:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2564G\|κληθέντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G0757\|ἤρξατο]]  [[G2723\|κατηγορεῖν]]  [[G3588\|ὁ]]  [[G5061\|Τέρτυλλος]]  [[G3004G\|λέγων·]]  [[G4183\|πολλῆς]]  [[G1515\|εἰρήνης]]  [[G5177\|τυγχάνοντες]]  [[G1223\|διὰ]]  [[G4771\|σοῦ]]  [[G2532\|καὶ]]  [[G1357\|διορθωμάτων]]  [[G1096\|γινομένων]]  [[G3588\|τῷ]]  [[G1484\|ἔθνει]]  [[G3778\|τούτῳ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4771\|σῆς]]  [[G4307\|προνοίας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic ATTORNEY|ATTORNEY]] • [[topic FLATTERY|FLATTERY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TERTULLUS|TERTULLUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.1|<< Acts 24:1]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.3|Acts 24:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

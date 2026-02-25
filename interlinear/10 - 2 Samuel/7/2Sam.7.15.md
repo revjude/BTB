@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 7:15
+type: Verse
+kjv: "But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee."
+bsb: "But My loving devotion will never be removed from him as I removed it from Saul, whom I removed from before you."
+hebrew: "וְחַסְדִּ֖י לֹא־ יָס֣וּר מִמֶּ֑נּוּ כַּאֲשֶׁ֤ר הֲסִרֹ֙תִי֙ מֵעִ֣ם שָׁא֔וּל אֲשֶׁ֥ר הֲסִרֹ֖תִי מִלְּפָנֶֽיךָ׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H7586G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:15**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my mercy shall not depart away from him, as I took [it] from Saul, whom I put away before thee.
 <small><sub>**BSB:**</sub></small>
 But My loving devotion will never be removed from him as I removed it from Saul, whom I removed from before you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2617A\|חַסְדִּ֖]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H5493H\|יָס֣וּר]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H5493G\|הֲסִרֹ֙תִי֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H7586G\|שָׁא֔וּל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5493G\|הֲסִרֹ֖תִי]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.14|<< 2 Samuel 7:14]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.16|2 Samuel 7:16 >>]]</td></tr></table>
 

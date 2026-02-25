@@ -1,8 +1,59 @@
+---
+title: Song of Solomon 6:5
+type: Verse
+kjv: "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead."
+bsb: "Turn your eyes away from me, for they have overcome me. Your hair is like a flock of goats streaming down from Gilead."
+hebrew: "הָסֵ֤בִּי עֵינַ֙יִךְ֙ מִנֶּגְדִּ֔י שֶׁ֥הֵ֖ם הִרְהִיבֻ֑נִי שַׂעְרֵךְ֙ כְּעֵ֣דֶר הָֽעִזִּ֔ים שֶׁגָּלְשׁ֖וּ מִן־ הַגִּלְעָֽד׃"
+pericope: "[[Song.6.4 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic GOAT|GOAT]]"
+strongs:
+- "[[H5437J]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H9007]]"
+- "[[H1992]]"
+- "[[H7292]]"
+- "[[H8181]]"
+- "[[H9004]]"
+- "[[H5739]]"
+- "[[H9009]]"
+- "[[H5795]]"
+- "[[H1570]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:5**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn away thine eyes from me, for they have overcome me: thy hair [is] as a flock of goats that appear from Gilead.
 <small><sub>**BSB:**</sub></small>
 Turn your eyes away from me, for they have overcome me. Your hair is like a flock of goats streaming down from Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437J\|הָסֵ֤בִּי]] [[H5869A\|עֵינַ֙יִ]][[H9022\|ךְ֙]] [[H9006\|מִ]][[H5048\|נֶּגְדִּ֔]][[H9030\|י]] [[H9007\|שֶׁ֥]][[H1992\|הֵ֖ם]] [[H7292\|הִרְהִיבֻ֑]][[H9030\|נִי]] [[H8181\|שַׂעְרֵ]][[H9022\|ךְ֙]] [[H9004\|כְּ]][[H5739\|עֵ֣דֶר]] [[H9009\|הָֽ]][[H5795\|עִזִּ֔ים]] [[H9007\|שֶׁ]][[H1570\|גָּלְשׁ֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic GOAT|GOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.4|<< Song of Solomon 6:4]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.6|Song of Solomon 6:6 >>]]</td></tr></table>
 

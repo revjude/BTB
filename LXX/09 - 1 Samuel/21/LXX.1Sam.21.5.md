@@ -1,6 +1,80 @@
+---
+title: LXX 1 Samuel 21:5
+type: Verse
+lxx: "And David answered to the priest, and said to him, Yes, even from a woman we have been at a distance from  yesterday and the third day before. In  my coming forth for the journey all the servants have been purified; but this  journey is profane, for today it shall be sanctified on account of  my weapons."
+greek: "και απεκρίθη Δαυίδ τω ιερεί και είπεν αυτώ αλλά και από γυναικός απεσχήμεθα από της εχθές και τρίτης ημέρας εν τω εξελθείν με εις την οδόν γέγονε πάντα τα παιδία ηγνισμένα και αυτή η οδός βέβηλος διότι σήμερον αγιασθήσεται διά τα σκεύη μου"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1135]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5504]]"
+- "[[G2532]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1831]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1096]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G0048]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G0952]]"
+- "[[G1360]]"
+- "[[G4594]]"
+- "[[G0037]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 21:5** 
 <small><sub>**LXX:**</sub></small>
 And David answered to the priest, and said to him, Yes, even from a woman we have been at a distance from  yesterday and \[the\] third day \[before\]. In  my coming forth for the journey all the servants have been purified; but this  journey is profane, for today it shall be sanctified on account of  my weapons. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0611\|απεκρίθη]] [[G4622\|Δαυίδ]] [[G3588\|τω]] [[G2409\|ιερεί]] [[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G0235\|αλλά]] [[G2532\|και]] [[G0575\|από]] [[G1135\|γυναικός]] [[G0568\|απεσχήμεθα]] [[G0575\|από]] [[G3588\|της]] [[G5504\|εχθές]] [[G2532\|και]] [[G5154\|τρίτης]] [[G2250\|ημέρας]] [[G1722\|εν]] [[G3588\|τω]] [[G1831\|εξελθείν]] [[G1473\|με]] [[G1519\|εις]] [[G3588\|την]] [[G3598\|οδόν]] [[G1096\|γέγονε]] [[G3956\|πάντα]] [[G3588\|τα]] [[G3813\|παιδία]] [[G0048\|ηγνισμένα]] [[G2532\|και]] [[G1473\|αυτή]] [[G3588\|η]] [[G3598\|οδός]] [[G0952\|βέβηλος]] [[G1360\|διότι]] [[G4594\|σήμερον]] [[G0037\|αγιασθήσεται]] [[G1223\|διά]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic DAVID|DAVID]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
@@ -46,6 +120,6 @@ And David answered to the priest, and said to him, Yes, even from a woman we hav
 | on account of | **<big>[[G1223\|διά]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | my weapons. | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[1Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
 

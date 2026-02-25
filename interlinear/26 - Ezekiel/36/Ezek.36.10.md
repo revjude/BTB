@@ -1,8 +1,61 @@
+---
+title: Ezekiel 36:10
+type: Verse
+kjv: "And I will multiply men upon you, all the house of Israel, even all of it: and the cities shall be inhabited, and the wastes shall be builded:"
+bsb: "I will multiply the people upon you—the house of Israel in its entirety. The cities will be inhabited and the ruins rebuilt."
+hebrew: "וְהִרְבֵּיתִ֤י עֲלֵיכֶם֙ אָדָ֔ם כָּל־ בֵּ֥ית יִשְׂרָאֵ֖ל כֻּלֹּ֑ה וְנֹֽשְׁבוּ֙ הֶֽעָרִ֔ים וְהֶחֳרָב֖וֹת תִּבָּנֶֽינָה׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0120G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9023]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H2723]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:10**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will multiply men upon you, all the house of Israel, [even] all of it: and the cities shall be inhabited, and the wastes shall be builded:
 <small><sub>**BSB:**</sub></small>
 I will multiply the people upon you—the house of Israel in its entirety. The cities will be inhabited and the ruins rebuilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7235A\|הִרְבֵּיתִ֤י]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H0120G\|אָדָ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3605\|כֻּלֹּ֑]][[H9023\|ה]] [[H9001\|וְ]][[H3427\|נֹֽשְׁבוּ֙]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֔ים]] [[H9002\|וְ]][[H9009\|הֶ]][[H2723\|חֳרָב֖וֹת]] [[H1129\|תִּבָּנֶֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.9|<< Ezekiel 36:9]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.11|Ezekiel 36:11 >>]]</td></tr></table>
 

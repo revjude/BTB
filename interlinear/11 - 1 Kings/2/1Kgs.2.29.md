@@ -1,8 +1,72 @@
+---
+title: 1 Kings 2:29
+type: Verse
+kjv: "And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, he is by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him."
+bsb: "It was reported to King Solomon: “Joab has fled to the tent of the LORD and is now beside the altar.” So Solomon sent Benaiah son of Jehoiada, saying, “Go, strike him down!”"
+hebrew: "וַיֻּגַּ֞ד לַמֶּ֣לֶךְ שְׁלֹמֹ֗ה כִּ֣י נָ֤ס יוֹאָב֙ אֶל־ אֹ֣הֶל יְהוָ֔ה וְהִנֵּ֖ה אֵ֣צֶל הַמִּזְבֵּ֑חַ וַיִּשְׁלַ֨ח שְׁלֹמֹ֜ה אֶת־ בְּנָיָ֧הוּ בֶן־ יְהוֹיָדָ֛ע לֵאמֹ֖ר לֵ֥ךְ פְּגַע־ בּֽוֹ׃"
+pericope: "[[1Kgs.2.28 The Execution of Joab|The Execution of Joab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3588A]]"
+- "[[H5127]]"
+- "[[H3097G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0681]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H3077G]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:29**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, [he is] by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him.
 <small><sub>**BSB:**</sub></small>
 It was reported to King Solomon: “Joab has fled to the tent of the LORD and is now beside the altar.” So Solomon sent Benaiah son of Jehoiada, saying, “Go, strike him down!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֞ד]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֗ה]] [[H3588A\|כִּ֣י]] [[H5127\|נָ֤ס]] [[H3097G\|יוֹאָב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H8010\|שְׁלֹמֹ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1141G\|בְּנָיָ֧הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֛ע]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H1980G\|לֵ֥ךְ]] [[H6293\|פְּגַע]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.28|<< 1 Kings 2:28]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.30|1 Kings 2:30 >>]]</td></tr></table>
 

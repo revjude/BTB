@@ -1,8 +1,70 @@
+---
+title: Genesis 31:34
+type: Verse
+kjv: "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found them not."
+bsb: "Now Rachel had taken Laban’s household idols, put them in the saddlebag of her camel, and was sitting on them. And Laban searched everything in the tent but found nothing."
+hebrew: "וְרָחֵ֞ל לָקְחָ֣ה אֶת־ הַתְּרָפִ֗ים וַתְּשִׂמֵ֛ם בְּכַ֥ר הַגָּמָ֖ל וַתֵּ֣שֶׁב עֲלֵיהֶ֑ם וַיְמַשֵּׁ֥שׁ לָבָ֛ן אֶת־ כָּל־ הָאֹ֖הֶל וְלֹ֥א מָצָֽא׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H7354]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8655]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3733A]]"
+- "[[H1581]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H4959]]"
+- "[[H3837A]]"
+- "[[H3605]]"
+- "[[H0168G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:34**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found [them] not.
 <small><sub>**BSB:**</sub></small>
 Now Rachel had taken Laban’s household idols, put them in the saddlebag of her camel, and was sitting on them. And Laban searched everything in the tent but found nothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7354\|רָחֵ֞ל]] [[H3947G\|לָקְחָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8655\|תְּרָפִ֗ים]] [[H9001\|וַ]][[H7760H\|תְּשִׂמֵ֛]][[H9038\|ם]] [[H9003\|בְּ]][[H3733A\|כַ֥ר]] [[H9009\|הַ]][[H1581\|גָּמָ֖ל]] [[H9001\|וַ]][[H3427\|תֵּ֣שֶׁב]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H4959\|יְמַשֵּׁ֥שׁ]] [[H3837A\|לָבָ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֖הֶל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|מָצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.33|<< Genesis 31:33]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.35|Genesis 31:35 >>]]</td></tr></table>
 

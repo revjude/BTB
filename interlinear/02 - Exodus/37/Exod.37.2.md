@@ -1,8 +1,60 @@
+---
+title: Exodus 37:2
+type: Verse
+kjv: "And he overlaid it with pure gold within and without, and made a crown of gold to it round about."
+bsb: "He overlaid it with pure gold, both inside and out, and made a gold molding around it."
+hebrew: "וַיְצַפֵּ֛הוּ זָהָ֥ב טָה֖וֹר מִבַּ֣יִת וּמִח֑וּץ וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃"
+pericope: "[[Exod.37.1 Constructing the Ark|Constructing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9002]]"
+- "[[H2351]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H2213]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:2**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he overlaid it with pure gold within and without, and made a crown of gold to it round about.
 <small><sub>**BSB:**</sub></small>
 He overlaid it with pure gold, both inside and out, and made a gold molding around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6823\|יְצַפֵּ֛]][[H9033\|הוּ]] [[H2091\|זָהָ֥ב]] [[H2889\|טָה֖וֹר]] [[H9006\|מִ]][[H1004O\|בַּ֣יִת]] [[H9002\|וּ]][[H9006\|מִ]][[H2351\|ח֑וּץ]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H2213\|זֵ֥ר]] [[H2091\|זָהָ֖ב]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.1|<< Exodus 37:1]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.3|Exodus 37:3 >>]]</td></tr></table>
 

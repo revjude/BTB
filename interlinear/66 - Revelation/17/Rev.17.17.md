@@ -1,10 +1,59 @@
+---
+title: Revelation 17:17
+type: Verse
+kjv: "For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled."
+bsb: "For God has put it into their hearts to carry out His purpose by uniting to give their kingdom to the beast, until the words of God are fulfilled."
+greek: "ὁ γὰρ θεὸς ἔδωκεν εἰς τὰς καρδίας αὐτῶν ποιῆσαι τὴν γνώμην αὐτοῦ καὶ ποιῆσαι μίαν γνώμην καὶ δοῦναι τὴν βασιλείαν αὐτῶν τῷ θηρίῳ ἄχρι τελεσθήσονται οἱ λόγοι τοῦ θεοῦ."
+pericope: "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G1519]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G1106]]"
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G0932]]"
+- "[[G2342]]"
+- "[[G0891]]"
+- "[[G5055]]"
+- "[[G3056]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Revelation 17:17**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
 <small><sub>**BSB:**</sub></small>
 For God has put it into their hearts to carry out His purpose by uniting to give their kingdom to the beast, until the words of God are fulfilled.
-<small><sub>**Literal:**</sub></small>
-<the> For God has put into the hearts of them to do the purpose of Him and to do one purpose and to give the kingdom of them to the beast until they will be completed the words <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.16|<< Revelation 17:16]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.18|Revelation 17:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G2316\|θεὸς]]  [[G1325\|ἔδωκεν]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν]]  [[G4160G\|ποιῆσαι]]  [[G3588\|τὴν]]  [[G1106\|γνώμην]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4160G\|ποιῆσαι]]  [[G1520\|μίαν]]  [[G1106\|γνώμην]]  [[G2532\|καὶ]]  [[G1325\|δοῦναι]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G0846\|αὐτῶν]]  [[G3588\|τῷ]]  [[G2342\|θηρίῳ]]  [[G0891\|ἄχρι]]  [[G5055\|τελεσθήσονται]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.16|<< Revelation 17:16]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.18|Revelation 17:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 3:10
+type: Verse
+kjv: "And Solomon’s son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,"
+bsb: "Solomon’s son was Rehoboam: Abijah was his son, Asa his son, Jehoshaphat his son,"
+hebrew: "וּבֶן־ שְׁלֹמֹ֖ה רְחַבְעָ֑ם אֲבִיָּ֥ה בְנ֛וֹ אָסָ֥א בְנ֖וֹ יְהוֹשָׁפָ֥ט בְּנֽוֹ׃"
+pericope: "[[1Chr.3.10 The Descendants of Solomon|The Descendants of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H7346]]"
+- "[[H0029I]]"
+- "[[H9023]]"
+- "[[H0609G]]"
+- "[[H3092I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:10**<big><big>[[1Chr.3.10 The Descendants of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon’s son [was] Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 <small><sub>**BSB:**</sub></small>
 Solomon’s son was Rehoboam: Abijah was his son, Asa his son, Jehoshaphat his son,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֖ה]] [[H7346\|רְחַבְעָ֑ם]] [[H0029I\|אֲבִיָּ֥ה]] [[H1121A\|בְנ֛]][[H9023\|וֹ]] [[H0609G\|אָסָ֥א]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H3092I\|יְהוֹשָׁפָ֥ט]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.9|<< 1 Chronicles 3:9]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.11|1 Chronicles 3:11 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Numbers 1:19
+type: Verse
+kjv: "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai."
+bsb: "just as the LORD had commanded Moses. So Moses numbered them in the Wilderness of Sinai:"
+hebrew: "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶׁ֑ה וַֽיִּפְקְדֵ֖ם בְּמִדְבַּ֥ר סִינָֽי׃ פ"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 1:19**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.
 <small><sub>**BSB:**</sub></small>
 just as the LORD had commanded Moses. So Moses numbered them in the Wilderness of Sinai:
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H9001\|וַֽ]][[H6485A\|יִּפְקְדֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֥ר]] [[H5514H\|סִינָֽי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.18|<< Numbers 1:18]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.20|Numbers 1:20 >>]]</td></tr></table>
 
@@ -15,7 +66,7 @@ just as the LORD had commanded Moses. So Moses numbered them in the Wilderness o
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֑ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he enrolled them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6485A\|יִּפְקְדֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.ke.De<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] wilderness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4057B\|מִדְבַּ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Sinai  |**<big>&#8207;[[H5514H\|סִינָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Sinai  |**<big>&#8207;[[H5514H\|סִינָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.18|<< Numbers 1:18]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.20|Numbers 1:20 >>]]</td></tr></table>
 
 

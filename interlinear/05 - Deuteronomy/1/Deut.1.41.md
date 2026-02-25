@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 1:41
+type: Verse
+kjv: "Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill."
+bsb: "“We have sinned against the LORD,” you replied. “We will go up and fight, as the LORD our God has commanded us.” Then each of you put on his weapons of war, thinking it easy to go up into the hill country."
+hebrew: "וַֽתַּעֲנ֣וּ׀ וַתֹּאמְר֣וּ אֵלַ֗י חָטָאנוּ֮ לַֽיהוָה֒ אֲנַ֤חְנוּ נַעֲלֶה֙ וְנִלְחַ֔מְנוּ כְּכֹ֥ל אֲשֶׁר־ צִוָּ֖נוּ יְהוָ֣ה אֱלֹהֵ֑ינוּ וַֽתַּחְגְּר֗וּ אִ֚ישׁ אֶת־ כְּלֵ֣י מִלְחַמְתּ֔וֹ וַתָּהִ֖ינוּ לַעֲלֹ֥ת הָהָֽרָה׃"
+pericope: "[[Deut.1.41 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0587]]"
+- "[[H5927G]]"
+- "[[H3898A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H9035]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H2296]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9023]]"
+- "[[H1951]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:41**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
 <small><sub>**BSB:**</sub></small>
 “We have sinned against the LORD,” you replied. “We will go up and fight, as the LORD our God has commanded us.” Then each of you put on his weapons of war, thinking it easy to go up into the hill country.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6030B\|תַּעֲנ֣וּ]][[H9015\|׀]] [[H9001\|וַ]][[H0559\|תֹּאמְר֣וּ]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H2398\|חָטָאנוּ֮]] [[H9005\|לַֽ]][[H3068G\|יהוָה֒]] [[H0587\|אֲנַ֤חְנוּ]] [[H5927G\|נַעֲלֶה֙]] [[H9001\|וְ]][[H3898A\|נִלְחַ֔מְנוּ]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖]][[H9035\|נוּ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9001\|וַֽ]][[H2296\|תַּחְגְּר֗וּ]] [[H0376I\|אִ֚ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H4421\|מִלְחַמְתּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1951\|תָּהִ֖ינוּ]] [[H9005\|לַ]][[H5927G\|עֲלֹ֥ת]] [[H9009\|הָ]][[H2022H\|הָֽרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.40|<< Deuteronomy 1:40]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.42|Deuteronomy 1:42 >>]]</td></tr></table>
 

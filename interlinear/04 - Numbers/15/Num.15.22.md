@@ -1,8 +1,62 @@
+---
+title: Numbers 15:22
+type: Verse
+kjv: "And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,"
+bsb: "Now if you stray unintentionally and do not obey all these commandments that the LORD has spoken to Moses—"
+hebrew: "וְכִ֣י תִשְׁגּ֔וּ וְלֹ֣א תַעֲשׂ֔וּ אֵ֥ת כָּל־ הַמִּצְוֹ֖ת הָאֵ֑לֶּה אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה אֶל־ מֹשֶֽׁה׃"
+pericope: "[[Num.15.22 Offerings for Unintentional Sins|Offerings for Unintentional Sins]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H7686]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:22**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,
 <small><sub>**BSB:**</sub></small>
 Now if you stray unintentionally and do not obey all these commandments that the LORD has spoken to Moses—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֣י]] [[H7686\|תִשְׁגּ֔וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֔וּ]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוֹ֖ת]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.21|<< Numbers 15:21]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.23|Numbers 15:23 >>]]</td></tr></table>
 

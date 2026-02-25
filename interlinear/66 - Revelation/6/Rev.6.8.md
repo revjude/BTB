@@ -1,10 +1,75 @@
+---
+title: Revelation 6:8
+type: Verse
+kjv: "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+bsb: "Then I looked and saw a pale green horse. Its rider’s name was Death, and Hades followed close behind. And they were given authority over a fourth of the earth, to kill by sword, by famine, by plague, and by the beasts of the earth."
+greek: "καὶ εἶδον καὶ ἰδοὺ ἵππος χλωρὸς καὶ ὁ καθήμενος ἐπάνω αὐτοῦ ὄνομα αὐτῷ ὁ θάνατος. καὶ ὁ ᾅδης ἠκολούθει μετ᾽ αὐτοῦ. καὶ ἐδόθη αὐτοῖς ἐξουσία ἐπὶ τὸ τέταρτον τῆς γῆς ἀποκτεῖναι ἐν ῥομφαίᾳ καὶ ἐν λιμῷ καὶ ἐν θανάτῳ καὶ ὑπὸ τῶν θηρίων τῆς γῆς.¶"
+pericope: "[[Rev.6.7 The Fourth Seal：Death|The Fourth Seal：Death]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic PALE HORSE|PALE HORSE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G2462]]"
+- "[[G5515]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1883]]"
+- "[[G0846]]"
+- "[[G3686]]"
+- "[[G2288]]"
+- "[[G0086]]"
+- "[[G0190]]"
+- "[[G3326]]"
+- "[[G1325]]"
+- "[[G1849]]"
+- "[[G1909]]"
+- "[[G5067]]"
+- "[[G1093G]]"
+- "[[G0615]]"
+- "[[G1722]]"
+- "[[G4501]]"
+- "[[G3042]]"
+- "[[G5259G]]"
+- "[[G2342]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Revelation 6:8**<big><big>[[Rev.6.7 The Fourth Seal：Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw a pale green horse. Its rider’s name was Death, and Hades followed close behind. And they were given authority over a fourth of the earth, to kill by sword, by famine, by plague, and by the beasts of the earth.
-<small><sub>**Literal:**</sub></small>
-And I looked and behold a horse pale and the [one] sitting on it [the] name of him [was] <the> Death. and <the> Hades was following with him. and was given to them authority over the fourth of the earth to kill with sword and with famine and with plague and by the beasts of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.7|<< Revelation 6:7]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.9|Revelation 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2462\|ἵππος]]  [[G5515\|χλωρὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1883\|ἐπάνω]]  [[G0846\|αὐτοῦ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2288\|θάνατος.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0086\|ᾅδης]]  [[G0190\|ἠκολούθει]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτοῖς]]  [[G1849\|ἐξουσία]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G5067\|τέταρτον]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G0615\|ἀποκτεῖναι]]  [[G1722\|ἐν]]  [[G4501\|ῥομφαίᾳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3042\|λιμῷ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2288\|θανάτῳ]]  [[G2532\|καὶ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2342\|θηρίων]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEATH|DEATH]] • [[topic FAMINE|FAMINE]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic HORSE|HORSE]] • [[topic PALE HORSE|PALE HORSE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.7|<< Revelation 6:7]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.9|Revelation 6:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:8** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.14.21|Ezek 14:21]]

@@ -1,8 +1,54 @@
+---
+title: Isaiah 18:1
+type: Verse
+kjv: "Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:"
+bsb: "Woe to the land of whirring wings, along the rivers of Cush,"
+hebrew: "ה֥וֹי אֶ֖רֶץ צִלְצַ֣ל כְּנָפָ֑יִם אֲשֶׁ֥ר מֵעֵ֖בֶר לְנַֽהֲרֵי־ כֽוּשׁ׃"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CUSH|CUSH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+strongs:
+- "[[H1945]]"
+- "[[H0776G]]"
+- "[[H6767A]]"
+- "[[H3671]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H5104H]]"
+- "[[H9014]]"
+- "[[H3568A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 18:1**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the land shadowing with wings, which [is] beyond the rivers of Ethiopia:
 <small><sub>**BSB:**</sub></small>
 Woe to the land of whirring wings, along the rivers of Cush,
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֥וֹי]] [[H0776G\|אֶ֖רֶץ]] [[H6767A\|צִלְצַ֣ל]] [[H3671\|כְּנָפָ֑יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H9006\|מֵ]][[H5676H\|עֵ֖בֶר]] [[H9005\|לְ]][[H5104H\|נַֽהֲרֵי]][[H9014\|־]] [[H3568A\|כֽוּשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUSH|CUSH]] • [[topic ETHIOPIA|ETHIOPIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 

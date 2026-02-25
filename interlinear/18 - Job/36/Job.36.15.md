@@ -1,8 +1,54 @@
+---
+title: Job 36:15
+type: Verse
+kjv: "He delivereth the poor in his affliction, and openeth their ears in oppression."
+bsb: "God rescues the afflicted by their affliction and opens their ears in oppression."
+hebrew: "יְחַלֵּ֣ץ עָנִ֣י בְעָנְי֑וֹ וְיִ֖גֶל בַּלַּ֣חַץ אָזְנָֽם׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H2502A]]"
+- "[[H6041]]"
+- "[[H9003]]"
+- "[[H6040]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1540I]]"
+- "[[H3906]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:15**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivereth the poor in his affliction, and openeth their ears in oppression.
 <small><sub>**BSB:**</sub></small>
 God rescues the afflicted by their affliction and opens their ears in oppression.
+<small><sub>**Hebrew:**</sub></small>
+[[H2502A\|יְחַלֵּ֣ץ]] [[H6041\|עָנִ֣י]] [[H9003\|בְ]][[H6040\|עָנְי֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1540I\|יִ֖גֶל]] [[H9003\|בַּ]][[H3906\|לַּ֣חַץ]] [[H0241G\|אָזְנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.14|<< Job 36:14]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.16|Job 36:16 >>]]</td></tr></table>
 

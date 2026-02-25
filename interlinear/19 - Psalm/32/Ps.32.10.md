@@ -1,8 +1,59 @@
+---
+title: Psalm 32:10
+type: Verse
+kjv: "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+bsb: "Many are the sorrows of the wicked, but loving devotion surrounds him who trusts in the LORD."
+hebrew: "רַבִּ֥ים מַכְאוֹבִ֗ים לָרָ֫שָׁ֥ע וְהַבּוֹטֵ֥חַ בַּיהוָ֑ה חֶ֝֗סֶד יְסוֹבְבֶֽנּוּ׃"
+pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7227A]]"
+- "[[H4341]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H2617A]]"
+- "[[H5437H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 32:10**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.
 <small><sub>**BSB:**</sub></small>
 Many are the sorrows of the wicked, but loving devotion surrounds him who trusts in the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַבִּ֥ים]] [[H4341\|מַכְאוֹבִ֗ים]] [[H9005\|לָ]][[H7563\|רָ֫שָׁ֥ע]] [[H9002\|וְ]][[H9009\|הַ]][[H0982\|בּוֹטֵ֥חַ]] [[H9003\|בַּ]][[H3068G\|יהוָ֑ה]] [[H2617A\|חֶ֝֗סֶד]] [[H5437H\|יְסוֹבְבֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.9|<< Psalms 32:9]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.11|Psalms 32:11 >>]]</td></tr></table>
 

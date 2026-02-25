@@ -1,8 +1,71 @@
+---
+title: 1 Kings 8:46
+type: Verse
+kjv: "If they sin against thee, (for there is no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;"
+bsb: "When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to his own land, whether far or near,"
+hebrew: "כִּ֣י יֶֽחֶטְאוּ־ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא־ יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֤וּם שֹֽׁבֵיהֶם֙ אֶל־ אֶ֣רֶץ הָאוֹיֵ֔ב רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0369]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9001]]"
+- "[[H0599]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H7617]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H7350]]"
+- "[[H0176A]]"
+- "[[H7138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:46**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they sin against thee, (for [there is] no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
 <small><sub>**BSB:**</sub></small>
 When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to his own land, whether far or near,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H2398\|יֶֽחֶטְאוּ]][[H9014\|־]] [[H9005\|לָ֗]][[H9032\|ךְ]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H0120G\|אָדָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2398\|יֶחֱטָ֔א]] [[H9001\|וְ]][[H0599\|אָנַפְתָּ֣]] [[H9003\|בָ֔]][[H9038\|ם]] [[H9001\|וּ]][[H5414G\|נְתַתָּ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אוֹיֵ֑ב]] [[H9001\|וְ]][[H7617\|שָׁב֤וּ]][[H9038\|ם]] [[H7617\|שֹֽׁבֵי]][[H9038\|הֶם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הָ]][[H0341\|אוֹיֵ֔ב]] [[H7350\|רְחוֹקָ֖ה]] [[H0176A\|א֥וֹ]] [[H7138\|קְרוֹבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.45|<< 1 Kings 8:45]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.47|1 Kings 8:47 >>]]</td></tr></table>
 

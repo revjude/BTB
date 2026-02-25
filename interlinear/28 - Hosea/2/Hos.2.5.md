@@ -1,8 +1,65 @@
+---
+title: Hosea 2:5
+type: Verse
+kjv: "For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink."
+bsb: "For their mother has played the harlot and has conceived them in disgrace. For she thought, ‘I will go after my lovers, who give me bread and water, wool and linen, oil and drink.’"
+hebrew: "כִּ֤י זָֽנְתָה֙ אִמָּ֔ם הֹבִ֖ישָׁה הֽוֹרָתָ֑ם כִּ֣י אָמְרָ֗ה אֵלְכָ֞ה אַחֲרֵ֤י מְאַהֲבַי֙ נֹתְנֵ֤י לַחְמִי֙ וּמֵימַ֔י צַמְרִ֣י וּפִשְׁתִּ֔י שַׁמְנִ֖י וְשִׁקּוּיָֽי׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FLAX|FLAX]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OIL|OIL]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2181]]"
+- "[[H0517]]"
+- "[[H9028]]"
+- "[[H0954]]"
+- "[[H2029]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H0310A]]"
+- "[[H0157G]]"
+- "[[H9030]]"
+- "[[H5414G]]"
+- "[[H3899H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H6785]]"
+- "[[H6593]]"
+- "[[H8081]]"
+- "[[H8250]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:5**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.
 <small><sub>**BSB:**</sub></small>
 For their mother has played the harlot and has conceived them in disgrace. For she thought, ‘I will go after my lovers, who give me bread and water, wool and linen, oil and drink.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2181\|זָֽנְתָה֙]] [[H0517\|אִמָּ֔]][[H9028\|ם]] [[H0954\|הֹבִ֖ישָׁה]] [[H2029\|הֽוֹרָתָ֑]][[H9038\|ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָמְרָ֗ה]] [[H1980G\|אֵלְכָ֞ה]] [[H0310A\|אַחֲרֵ֤י]] [[H0157G\|מְאַהֲבַ]][[H9030\|י֙]] [[H5414G\|נֹתְנֵ֤י]] [[H3899H\|לַחְמִ]][[H9020\|י֙]] [[H9002\|וּ]][[H4325G\|מֵימַ֔]][[H9020\|י]] [[H6785\|צַמְרִ֣]][[H9020\|י]] [[H9002\|וּ]][[H6593\|פִשְׁתִּ֔]][[H9020\|י]] [[H8081\|שַׁמְנִ֖]][[H9020\|י]] [[H9002\|וְ]][[H8250\|שִׁקּוּיָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAX|FLAX]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OIL|OIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.4|<< Hosea 2:4]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.6|Hosea 2:6 >>]]</td></tr></table>
 

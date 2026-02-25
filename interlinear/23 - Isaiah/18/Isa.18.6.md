@@ -1,8 +1,59 @@
+---
+title: Isaiah 18:6
+type: Verse
+kjv: "They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them."
+bsb: "They will all be left to the mountain birds of prey, and to the beasts of the land. The birds will feed on them in summer, and all the wild animals in winter."
+hebrew: "יֵעָזְב֤וּ יַחְדָּו֙ לְעֵ֣יט הָרִ֔ים וּֽלְבֶהֱמַ֖ת הָאָ֑רֶץ וְקָ֤ץ עָלָיו֙ הָעַ֔יִט וְכָל־ בֶּהֱמַ֥ת הָאָ֖רֶץ עָלָ֥יו תֶּחֱרָֽף׃"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H5800A]]"
+- "[[H3162B]]"
+- "[[H9005]]"
+- "[[H5861]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H6972]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2778B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 18:6**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.
 <small><sub>**BSB:**</sub></small>
 They will all be left to the mountain birds of prey, and to the beasts of the land. The birds will feed on them in summer, and all the wild animals in winter.
+<small><sub>**Hebrew:**</sub></small>
+[[H5800A\|יֵעָזְב֤וּ]] [[H3162B\|יַחְדָּו֙]] [[H9005\|לְ]][[H5861\|עֵ֣יט]] [[H2022G\|הָרִ֔ים]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֖ת]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H6972\|קָ֤ץ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9009\|הָ]][[H5861\|עַ֔יִט]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0929\|בֶּהֱמַ֥ת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H2778B\|תֶּחֱרָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.5|<< Isaiah 18:5]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.7|Isaiah 18:7 >>]]</td></tr></table>
 

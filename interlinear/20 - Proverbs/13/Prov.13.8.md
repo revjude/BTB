@@ -1,8 +1,54 @@
+---
+title: Proverbs 13:8
+type: Verse
+kjv: "The ransom of a man’s life are his riches: but the poor heareth not rebuke."
+bsb: "Riches may ransom a man’s life, but a poor man hears no threat."
+hebrew: "כֹּ֣פֶר נֶֽפֶשׁ־ אִ֣ישׁ עָשְׁר֑וֹ וְ֝רָ֗שׁ לֹא־ שָׁמַ֥ע גְּעָרָֽה׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H3724A]]"
+- "[[H5315H]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H6239]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7326]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H1606]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:8**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ransom of a man’s life [are] his riches: but the poor heareth not rebuke.
 <small><sub>**BSB:**</sub></small>
 Riches may ransom a man’s life, but a poor man hears no threat.
+<small><sub>**Hebrew:**</sub></small>
+[[H3724A\|כֹּ֣פֶר]] [[H5315H\|נֶֽפֶשׁ]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H6239\|עָשְׁר֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H7326\|רָ֗שׁ]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H1606\|גְּעָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic RANSOM|RANSOM]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.7|<< Proverbs 13:7]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.9|Proverbs 13:9 >>]]</td></tr></table>
 

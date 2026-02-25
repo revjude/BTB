@@ -1,8 +1,62 @@
+---
+title: 2 Kings 14:21
+type: Verse
+kjv: "And all the people of Judah took Azariah, which was sixteen years old, and made him king instead of his father Amaziah."
+bsb: "Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah."
+hebrew: "וַיִּקְח֞וּ כָּל־ עַ֤ם יְהוּדָה֙ אֶת־ עֲזַרְיָ֔ה וְה֕וּא בֶּן־ שֵׁ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה וַיַּמְלִ֣כוּ אֹת֔וֹ תַּ֖חַת אָבִ֥יו אֲמַצְיָֽהוּ׃"
+pericope: "[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|Azariah Succeeds Amaziah in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3063G]]"
+- "[[H0853]]"
+- "[[H5838x]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H1121L]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H8478H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0558G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:21**<big><big>[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people of Judah took Azariah, which [was] sixteen years old, and made him king instead of his father Amaziah.
 <small><sub>**BSB:**</sub></small>
 Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֞וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֤ם]] [[H3063G\|יְהוּדָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5838x\|עֲזַרְיָ֔ה]] [[H9002\|וְ]][[H1931\|ה֕וּא]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8337\|שֵׁ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H4427A\|יַּמְלִ֣כוּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H8478H\|תַּ֖חַת]] [[H0001G\|אָבִ֥י]][[H9023\|ו]] [[H0558G\|אֲמַצְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.20|<< 2 Kings 14:20]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.22|2 Kings 14:22 >>]]</td></tr></table>
 

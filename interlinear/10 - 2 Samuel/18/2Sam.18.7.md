@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 18:7
+type: Verse
+kjv: "Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men."
+bsb: "There the people of Israel were defeated by David’s servants, and the slaughter was great that day—twenty thousand men."
+hebrew: "וַיִּנָּ֤גְפוּ שָׁם֙ עַ֣ם יִשְׂרָאֵ֔ל לִפְנֵ֖י עַבְדֵ֣י דָוִ֑ד וַתְּהִי־ שָׁ֞ם הַמַּגֵּפָ֧ה גְדוֹלָ֛ה בַּיּ֥וֹם הַה֖וּא עֶשְׂרִ֥ים אָֽלֶף׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5062]]"
+- "[[H8033G]]"
+- "[[H5971K]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4046]]"
+- "[[H1419A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:7**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand [men].
 <small><sub>**BSB:**</sub></small>
 There the people of Israel were defeated by David’s servants, and the slaughter was great that day—twenty thousand men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5062\|יִּנָּ֤גְפוּ]] [[H8033G\|שָׁם֙]] [[H5971K\|עַ֣ם]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H5650\|עַבְדֵ֣י]] [[H1732\|דָוִ֑ד]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H8033G\|שָׁ֞ם]] [[H9009\|הַ]][[H4046\|מַּגֵּפָ֧ה]] [[H1419A\|גְדוֹלָ֛ה]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.6|<< 2 Samuel 18:6]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.8|2 Samuel 18:8 >>]]</td></tr></table>
 

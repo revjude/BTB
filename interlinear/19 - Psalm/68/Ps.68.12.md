@@ -1,8 +1,49 @@
+---
+title: Psalm 68:12
+type: Verse
+kjv: "Kings of armies did flee apace: and she that tarried at home divided the spoil."
+bsb: "“Kings and their armies flee in haste; she who waits at home divides the plunder."
+hebrew: "מַלְכֵ֣י צְ֭בָאוֹת יִדֹּד֣וּן יִדֹּד֑וּן וּנְוַת בַּ֝֗יִת תְּחַלֵּ֥ק שָׁלָֽל׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4428G]]"
+- "[[H6635B]]"
+- "[[H5074]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H5116B]]"
+- "[[H1004B]]"
+- "[[H2505A]]"
+- "[[H7998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:12**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kings of armies did flee apace: and she that tarried at home divided the spoil.
 <small><sub>**BSB:**</sub></small>
 “Kings and their armies flee in haste; she who waits at home divides the plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מַלְכֵ֣י]] [[H6635B\|צְ֭בָאוֹת]] [[H5074\|יִדֹּד֣וּ]][[H9013\|ן]] [[H5074\|יִדֹּד֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H5116B\|נְוַת]] [[H1004B\|בַּ֝֗יִת]] [[H2505A\|תְּחַלֵּ֥ק]] [[H7998\|שָׁלָֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.11|<< Psalms 68:11]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.13|Psalms 68:13 >>]]</td></tr></table>
 

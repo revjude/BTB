@@ -1,8 +1,54 @@
+---
+title: Proverbs 30:5
+type: Verse
+kjv: "Every word of God is pure: he is a shield unto them that put their trust in him."
+bsb: "Every word of God is flawless; He is a shield to those who take refuge in Him."
+hebrew: "כָּל־ אִמְרַ֣ת אֱל֣וֹהַּ צְרוּפָ֑ה מָגֵ֥ן ה֝֗וּא לַֽחֹסִ֥ים בּֽוֹ׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0565A]]"
+- "[[H0433]]"
+- "[[H6884]]"
+- "[[H4043]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:5**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every word of God [is] pure: he [is] a shield unto them that put their trust in him.
 <small><sub>**BSB:**</sub></small>
 Every word of God is flawless; He is a shield to those who take refuge in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0565A\|אִמְרַ֣ת]] [[H0433\|אֱל֣וֹהַּ]] [[H6884\|צְרוּפָ֑ה]] [[H4043\|מָגֵ֥ן]] [[H1931\|ה֝֗וּא]] [[H9005\|לַֽ]][[H2620\|חֹסִ֥ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic SHIELD|SHIELD]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.4|<< Proverbs 30:4]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.6|Proverbs 30:6 >>]]</td></tr></table>
 

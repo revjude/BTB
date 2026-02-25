@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Into Your Hands I Commit My Spirit
+type: Pericope
 pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 31
 book/chapter: "[[Ps.31|Psalm 31]]"
-genre:
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 25
 verses:
 - "[[Ps.31.0]]"
 - "[[Ps.31.1]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Ps.31.24]]"
 ---
 
-[[Ps.31|Psalm 31:1 - Psalm 31:24]]
+<small>[[Ps.31|Psalm 31:1-24]]</small>
 *Into Your Hands I Commit My Spirit*
 
 [[Ps.31.0|0]] To the chief Musician, A Psalm of David.

@@ -1,8 +1,56 @@
+---
+title: Proverbs 1:12
+type: Verse
+kjv: "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+bsb: "let us swallow them alive like Sheol, and whole like those descending into the Pit."
+hebrew: "נִ֭בְלָעֵם כִּשְׁא֣וֹל חַיִּ֑ים וּ֝תְמִימִ֗ים כְּי֣וֹרְדֵי בֽוֹר׃"
+pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ROBBERS|ROBBERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1104]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H7585]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H8549I]]"
+- "[[H3381]]"
+- "[[H0953A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:12**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
 <small><sub>**BSB:**</sub></small>
 let us swallow them alive like Sheol, and whole like those descending into the Pit.
+<small><sub>**Hebrew:**</sub></small>
+[[H1104\|נִ֭בְלָעֵ]][[H9038\|ם]] [[H9004\|כִּ]][[H7585\|שְׁא֣וֹל]] [[H2416A\|חַיִּ֑ים]] [[H9002\|וּ֝]][[H8549I\|תְמִימִ֗ים]] [[H9004\|כְּ]][[H3381\|י֣וֹרְדֵי]] [[H0953A\|בֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HELL|HELL]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ROBBERS|ROBBERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.11|<< Proverbs 1:11]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.13|Proverbs 1:13 >>]]</td></tr></table>
 

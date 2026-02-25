@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise to the Victorious God
+type: Pericope
 pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 25
 book/chapter: "[[Isa.25|Isaiah 25]]"
-genre:
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 12
 verses:
 - "[[Isa.25.1]]"
 - "[[Isa.25.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Isa.25.12]]"
 ---
 
-[[Isa.25|Isaiah 25:1 - Isaiah 25:12]]
+<small>[[Isa.25|Isaiah 25:1-12]]</small>
 *Praise to the Victorious God*
 
 [[Isa.25.1|1]] O LORD, thou \[art\] my God; I will exalt thee, I will praise thy name; for thou hast done wonderful \[things; thy\] counsels of old \[are\] faithfulness \[and\] truth.

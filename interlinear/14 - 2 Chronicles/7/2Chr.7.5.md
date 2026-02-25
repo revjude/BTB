@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 7:5
+type: Verse
+kjv: "And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God."
+bsb: "And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God."
+hebrew: "וַיִּזְבַּ֞ח הַמֶּ֣לֶךְ שְׁלֹמֹה֮ אֶת־ זֶ֣בַח הַבָּקָ֗ר עֶשְׂרִ֤ים וּשְׁנַ֙יִם֙ אֶ֔לֶף וְצֹ֕אן מֵאָ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף וַֽיַּחְנְכוּ֙ אֶת־ בֵּ֣ית הָֽאֱלֹהִ֔ים הַמֶּ֖לֶךְ וְכָל־ הָעָֽם׃"
+pericope: "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2077]]"
+- "[[H1241]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H0505G]]"
+- "[[H6629G]]"
+- "[[H3967]]"
+- "[[H2596]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:5**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God.
 <small><sub>**BSB:**</sub></small>
 And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבַּ֞ח]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹה֮]] [[H0853\|אֶת]][[H9014\|־]] [[H2077\|זֶ֣בַח]] [[H9009\|הַ]][[H1241\|בָּקָ֗ר]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֙יִם֙]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וְ]][[H6629G\|צֹ֕אן]] [[H3967\|מֵאָ֥ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֖ים]] [[H0505G\|אָ֑לֶף]] [[H9001\|וַֽ]][[H2596\|יַּחְנְכוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.4|<< 2 Chronicles 7:4]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.6|2 Chronicles 7:6 >>]]</td></tr></table>
 

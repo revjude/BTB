@@ -1,10 +1,53 @@
+---
+title: Mark 8:5
+type: Verse
+kjv: "And he asked them, How many loaves have ye? And they said, Seven."
+bsb: "“How many loaves do you have?” Jesus asked. “Seven,” they replied."
+jesus_said: "How many loaves have ye?"
+greek: "καὶ ἠρώτα αὐτούς· πόσους ἔχετε ἄρτους; οἱ δὲ εἶπαν· ἑπτά."
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G4214]]"
+- "[[G2192]]"
+- "[[G0740]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2033]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 8:5**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he asked them, How many loaves have ye? And they said, Seven.
 <small><sub>**BSB:**</sub></small>
 “How many loaves do you have?” Jesus asked. “Seven,” they replied.
-<small><sub>**Literal:**</sub></small>
-And He was asking them; How many have you loaves? <the> And they said; Seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.4|<< Mark 8:4]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.6|Mark 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2065\|ἠρώτα]]  [[G0846\|αὐτούς·]]  [[G4214\|πόσους]]  [[G2192\|ἔχετε]]  [[G0740\|ἄρτους;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G2033\|ἑπτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.4|<< Mark 8:4]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.6|Mark 8:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 34:4
+type: Verse
+kjv: "The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them."
+bsb: "You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty."
+hebrew: "אֶֽת־ הַנַּחְלוֹת֩ לֹ֨א חִזַּקְתֶּ֜ם וְאֶת־ הַחוֹלָ֣ה לֹֽא־ רִפֵּאתֶ֗ם וְלַנִּשְׁבֶּ֙רֶת֙ לֹ֣א חֲבַשְׁתֶּ֔ם וְאֶת־ הַנִּדַּ֙חַת֙ לֹ֣א הֲשֵׁבֹתֶ֔ם וְאֶת־ הָאֹבֶ֖דֶת לֹ֣א בִקַּשְׁתֶּ֑ם וּבְחָזְקָ֛ה רְדִיתֶ֥ם אֹתָ֖ם וּבְפָֽרֶךְ׃"
+pericope: "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2470A]]"
+- "[[H3808]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H2470H]]"
+- "[[H7495]]"
+- "[[H9005]]"
+- "[[H7665]]"
+- "[[H2280]]"
+- "[[H5080]]"
+- "[[H7725G]]"
+- "[[H0006]]"
+- "[[H1245]]"
+- "[[H9003]]"
+- "[[H2394]]"
+- "[[H7287A]]"
+- "[[H9038]]"
+- "[[H6531]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:4**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up [that which was] broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
 <small><sub>**BSB:**</sub></small>
 You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2470A\|נַּחְלוֹת֩]] [[H3808\|לֹ֨א]] [[H2388G\|חִזַּקְתֶּ֜ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2470H\|חוֹלָ֣ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7495\|רִפֵּאתֶ֗ם]] [[H9002\|וְ]][[H9005\|לַ]][[H7665\|נִּשְׁבֶּ֙רֶת֙]] [[H3808\|לֹ֣א]] [[H2280\|חֲבַשְׁתֶּ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5080\|נִּדַּ֙חַת֙]] [[H3808\|לֹ֣א]] [[H7725G\|הֲשֵׁבֹתֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0006\|אֹבֶ֖דֶת]] [[H3808\|לֹ֣א]] [[H1245\|בִקַּשְׁתֶּ֑ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2394\|חָזְקָ֛ה]] [[H7287A\|רְדִיתֶ֥ם]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H6531\|פָֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.3|<< Ezekiel 34:3]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.5|Ezekiel 34:5 >>]]</td></tr></table>
 

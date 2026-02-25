@@ -1,8 +1,61 @@
+---
+title: Psalm 59:12
+type: Verse
+kjv: "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak."
+bsb: "By the sins of their mouths and the words of their lips, let them be trapped in their pride, in the curses and lies they utter."
+hebrew: "חַטַּאת־ פִּ֗ימוֹ דְּֽבַר־ שְׂפָ֫תֵ֥ימוֹ וְיִלָּכְד֥וּ בִגְאוֹנָ֑ם וּמֵאָלָ֖ה וּמִכַּ֣חַשׁ יְסַפֵּֽרוּ׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H2403B]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H1697G]]"
+- "[[H8193G]]"
+- "[[H9002]]"
+- "[[H3920]]"
+- "[[H9003]]"
+- "[[H1347]]"
+- "[[H9006]]"
+- "[[H0423]]"
+- "[[H3585]]"
+- "[[H5608A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:12**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [For] the sin of their mouth [and] the words of their lips let them even be taken in their pride: and for cursing and lying [which] they speak.
 <small><sub>**BSB:**</sub></small>
 By the sins of their mouths and the words of their lips, let them be trapped in their pride, in the curses and lies they utter.
+<small><sub>**Hebrew:**</sub></small>
+[[H2403B\|חַטַּאת]][[H9014\|־]] [[H6310G\|פִּ֗י]][[H9028\|מוֹ]] [[H1697G\|דְּֽבַר]][[H9014\|־]] [[H8193G\|שְׂפָ֫תֵ֥י]][[H9028\|מוֹ]] [[H9002\|וְ]][[H3920\|יִלָּכְד֥וּ]] [[H9003\|בִ]][[H1347\|גְאוֹנָ֑]][[H9028\|ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H0423\|אָלָ֖ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3585\|כַּ֣חַשׁ]] [[H5608A\|יְסַפֵּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARACTER|CHARACTER]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.11|<< Psalms 59:11]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.13|Psalms 59:13 >>]]</td></tr></table>
 

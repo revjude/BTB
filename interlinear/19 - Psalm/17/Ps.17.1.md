@@ -1,8 +1,61 @@
+---
+title: Psalm 17:1
+type: Verse
+kjv: "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+bsb: "A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer—it comes from lips free of deceit."
+hebrew: "שִׁמְעָ֤ה יְהוָ֨ה׀ צֶ֗דֶק הַקְשִׁ֥יבָה רִנָּתִ֗י הַאֲזִ֥ינָה תְפִלָּתִ֑י בְּ֝לֹ֗א שִׂפְתֵ֥י מִרְמָֽה׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H6664G]]"
+- "[[H7181]]"
+- "[[H7440]]"
+- "[[H9020]]"
+- "[[H0238]]"
+- "[[H8605]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H8193G]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 17:1**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the right, O LORD, attend unto my cry, give ear unto my prayer, [that goeth] not out of feigned lips.
 <small><sub>**BSB:**</sub></small>
 A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer—it comes from lips free of deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעָ֤]][[H9012\|ה]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H6664G\|צֶ֗דֶק]] [[H7181\|הַקְשִׁ֥יבָ]][[H9012\|ה]] [[H7440\|רִנָּתִ֗]][[H9020\|י]] [[H0238\|הַאֲזִ֥ינָ]][[H9012\|ה]] [[H8605\|תְפִלָּתִ֑]][[H9020\|י]] [[H9003\|בְּ֝]][[H3808\|לֹ֗א]] [[H8193G\|שִׂפְתֵ֥י]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.0|<< Psalms 17:0]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.2|Psalms 17:2 >>]]</td></tr></table>
 

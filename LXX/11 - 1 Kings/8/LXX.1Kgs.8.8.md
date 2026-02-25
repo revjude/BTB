@@ -1,6 +1,68 @@
+---
+title: LXX 1 Kings 8:8
+type: Verse
+lxx: "And the sanctified staves projected, and the heads of the sanctified staves looked out from the holies unto the front of the dabir. And they were not seen outside, and they were there until  this day."
+greek: "και υπερείχον τα ηγιασμένα και ενεβλέποντο αι κεφαλαί των ηγιασμένων εκ των αγίων επί πρόσωπον του δαβίρ και ουκ ωπτάνοντο έξω και ήσαν εκεί έως της ημέρας ταύτης"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G5242]]"
+- "[[G3588]]"
+- "[[G0037]]"
+- "[[G2532]]"
+- "[[G1689]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G3588]]"
+- "[[G0037]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G6780]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3700]]"
+- "[[G1854]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+---
+
 **LXX 1 Kings 8:8** 
 <small><sub>**LXX:**</sub></small>
 And the sanctified \[staves\] projected, and the heads of the sanctified \[staves\] looked out from the holies unto \[the\] front of the dabir. And they were not seen outside, and they were there until  this day. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5242\|υπερείχον]] [[G3588\|τα]] [[G0037\|ηγιασμένα]] [[G2532\|και]] [[G1689\|ενεβλέποντο]] [[G3588\|αι]] [[G2776\|κεφαλαί]] [[G3588\|των]] [[G0037\|ηγιασμένων]] [[G1537\|εκ]] [[G3588\|των]] [[G0039\|αγίων]] [[G1909\|επί]] [[G4383\|πρόσωπον]] [[G3588\|του]] [[G6780\|δαβίρ]] [[G2532\|και]] [[G3756\|ουκ]] [[G3700\|ωπτάνοντο]] [[G1854\|έξω]] [[G2532\|και]] [[G1510\|ήσαν]] [[G1563\|εκεί]] [[G2193\|έως]] [[G3588\|της]] [[G2250\|ημέρας]] [[G3778\|ταύτης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
@@ -33,6 +95,6 @@ And the sanctified \[staves\] projected, and the heads of the sanctified \[stave
 | until | **<big>[[G2193\|έως]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
-[[1Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
 

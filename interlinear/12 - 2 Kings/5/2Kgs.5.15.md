@@ -1,8 +1,79 @@
+---
+title: 2 Kings 5:15
+type: Verse
+kjv: "And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant."
+bsb: "Then Naaman and all his attendants went back to the man of God, stood before him, and declared, “Now I know for sure that there is no God in all the earth except in Israel. So please accept a gift from your servant.”"
+hebrew: "וַיָּשָׁב֩ אֶל־ אִ֨ישׁ הָאֱלֹהִ֜ים ה֣וּא וְכָֽל־ מַחֲנֵ֗הוּ וַיָּבֹא֮ וַיַּעֲמֹ֣ד לְפָנָיו֒ וַיֹּ֗אמֶר הִנֵּה־ נָ֤א יָדַ֙עְתִּי֙ כִּ֣י אֵ֤ין אֱלֹהִים֙ בְּכָל־ הָאָ֔רֶץ כִּ֖י אִם־ בְּיִשְׂרָאֵ֑ל וְעַתָּ֛ה קַח־ נָ֥א בְרָכָ֖ה מֵאֵ֥ת עַבְדֶּֽךָ׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4264]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3478]]"
+- "[[H6258]]"
+- "[[H3947H]]"
+- "[[H1293]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:15**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that [there is] no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.
 <small><sub>**BSB:**</sub></small>
 Then Naaman and all his attendants went back to the man of God, stood before him, and declared, “Now I know for sure that there is no God in all the earth except in Israel. So please accept a gift from your servant.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשָׁב֩]] [[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֜ים]] [[H1931\|ה֣וּא]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4264\|מַחֲנֵ֗]][[H9023\|הוּ]] [[H9001\|וַ]][[H0935G\|יָּבֹא֮]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֒]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֤א]] [[H3045\|יָדַ֙עְתִּי֙]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H0430G\|אֱלֹהִים֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H3947H\|קַח]][[H9014\|־]] [[H4994\|נָ֥א]] [[H1293\|בְרָכָ֖ה]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELISHA|ELISHA]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.14|<< 2 Kings 5:14]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.16|2 Kings 5:16 >>]]</td></tr></table>
 

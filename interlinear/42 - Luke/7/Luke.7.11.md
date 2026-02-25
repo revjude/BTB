@@ -1,10 +1,62 @@
+---
+title: Luke 7:11
+type: Verse
+kjv: "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
+bsb: "Soon afterward, Jesus went to a town called Nain. His disciples went with Him, accompanied by a large crowd."
+greek: "Καὶ ἐγένετο ἐν τῷ ἑξῆς ἐπορεύθη εἰς πόλιν καλουμένην Ναΐν, καὶ συνεπορεύοντο αὐτῷ οἱ μαθηταὶ αὐτοῦ ἱκανοί καὶ ὄχλος πολύς."
+pericope: "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAIN|NAIN]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1836]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G2564G]]"
+- "[[G3484]]"
+- "[[G4848]]"
+- "[[G0846]]"
+- "[[G3101]]"
+- "[[G2425]]"
+- "[[G3793]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Luke 7:11**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.
 <small><sub>**BSB:**</sub></small>
 Soon afterward, Jesus went to a town called Nain. His disciples went with Him, accompanied by a large crowd.
-<small><sub>**Literal:**</sub></small>
-And it came to pass on the next [day] He went into a town being called Nain, and were going with Him the disciples of Him many and a crowd great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.10|<< Luke 7:10]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.12|Luke 7:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1836\|ἑξῆς]]  [[G4198\|ἐπορεύθη]]  [[G1519\|εἰς]]  [[G4172\|πόλιν]]  [[G2564G\|καλουμένην]]  [[G3484\|Ναΐν,]]  [[G2532\|καὶ]]  [[G4848\|συνεπορεύοντο]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2425\|ἱκανοί]]  [[G2532\|καὶ]]  [[G3793\|ὄχλος]]  [[G4183\|πολύς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NAIN|NAIN]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.10|<< Luke 7:10]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.12|Luke 7:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

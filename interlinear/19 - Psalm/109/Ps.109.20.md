@@ -1,8 +1,60 @@
+---
+title: Psalm 109:20
+type: Verse
+kjv: "Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul."
+bsb: "May this be the LORD’s reward to my accusers, to those who speak evil against me."
+hebrew: "זֹ֤את פְּעֻלַּ֣ת שֹׂ֭טְנַי מֵאֵ֣ת יְהוָ֑ה וְהַדֹּבְרִ֥ים רָ֝֗ע עַל־ נַפְשִֽׁי׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2063]]"
+- "[[H6468]]"
+- "[[H7853]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1696G]]"
+- "[[H7451B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:20**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Let] this [be] the reward of mine adversaries from the LORD, and of them that speak evil against my soul.
 <small><sub>**BSB:**</sub></small>
 May this be the LORD’s reward to my accusers, to those who speak evil against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֤את]] [[H6468\|פְּעֻלַּ֣ת]] [[H7853\|שֹׂ֭טְנַ]][[H9030\|י]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H1696G\|דֹּבְרִ֥ים]] [[H7451B\|רָ֝֗ע]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.19|<< Psalms 109:19]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.21|Psalms 109:21 >>]]</td></tr></table>
 

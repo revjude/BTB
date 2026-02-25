@@ -1,10 +1,62 @@
+---
+title: Romans 9:17
+type: Verse
+kjv: "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth."
+bsb: "For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”"
+greek: "λέγει γὰρ ἡ γραφὴ τῷ Φαραὼ ὅτι εἰς αὐτὸ τοῦτο ἐξήγειρά σε ὅπως ἐνδείξωμαι ἐν σοὶ τὴν δύναμίν μου καὶ ὅπως διαγγελῇ τὸ ὄνομά μου ἐν πάσῃ τῇ γῇ."
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G5328I]]"
+- "[[G3754G]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1825]]"
+- "[[G4771]]"
+- "[[G3704]]"
+- "[[G1731]]"
+- "[[G1722]]"
+- "[[G1411]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1229]]"
+- "[[G3686]]"
+- "[[G3956]]"
+- "[[G1093G]]"
+texts:
+- NKO
+---
+
 **Romans 9:17**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
 <small><sub>**BSB:**</sub></small>
 For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”
-<small><sub>**Literal:**</sub></small>
-Says for the Scripture <the> to Pharaoh that For this very therefore I have raised up you so that I may show in you the power of Mine and that may be declared the name of Me in all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.16|<< Romans 9:16]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.18|Romans 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G3588\|τῷ]]  [[G5328I\|Φαραὼ]]  [[G3754G\|ὅτι]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸ]]  [[G3778\|τοῦτο]]  [[G1825\|ἐξήγειρά]]  [[G4771\|σε]]  [[G3704\|ὅπως]]  [[G1731\|ἐνδείξωμαι]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G3588\|τὴν]]  [[G1411\|δύναμίν]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3704\|ὅπως]]  [[G1229\|διαγγελῇ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G3588\|τῇ]]  [[G1093G\|γῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.16|<< Romans 9:16]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.18|Romans 9:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 9:17** is...
 > $\quad$ referencing: [[LXX.Exod.9.16|Exod 9:16]]

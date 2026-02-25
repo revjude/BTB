@@ -1,8 +1,53 @@
+---
+title: Ezekiel 39:2
+type: Verse
+kjv: "And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:"
+bsb: "I will turn you around, drive you along, bring you up from the far north, and send you against the mountains of Israel."
+hebrew: "וְשֹׁבַבְתִּ֙יךָ֙ וְשִׁשֵּׁאתִ֔יךָ וְהַעֲלִיתִ֖יךָ מִיַּרְכְּתֵ֣י צָפ֑וֹן וַהֲבִאוֹתִ֖ךָ עַל־ הָרֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9031]]"
+- "[[H8338]]"
+- "[[H5927J]]"
+- "[[H9006]]"
+- "[[H3411]]"
+- "[[H6828G]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:2**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:
 <small><sub>**BSB:**</sub></small>
 I will turn you around, drive you along, bring you up from the far north, and send you against the mountains of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שֹׁבַבְתִּ֙י]][[H9031\|ךָ֙]] [[H9001\|וְ]][[H8338\|שִׁשֵּׁאתִ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H5927J\|הַעֲלִיתִ֖י]][[H9031\|ךָ]] [[H9006\|מִ]][[H3411\|יַּרְכְּתֵ֣י]] [[H6828G\|צָפ֑וֹן]] [[H9001\|וַ]][[H0935P\|הֲבִאוֹתִ֖]][[H9031\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הָרֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
 

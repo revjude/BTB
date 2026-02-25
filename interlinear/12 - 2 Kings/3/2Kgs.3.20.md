@@ -1,8 +1,62 @@
+---
+title: 2 Kings 3:20
+type: Verse
+kjv: "And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water."
+bsb: "The next morning, at the time of the morning sacrifice, water suddenly flowed from the direction of Edom and filled the land."
+hebrew: "וַיְהִ֤י בַבֹּ֙קֶר֙ כַּעֲל֣וֹת הַמִּנְחָ֔ה וְהִנֵּה־ מַ֥יִם בָּאִ֖ים מִדֶּ֣רֶךְ אֱד֑וֹם וַתִּמָּלֵ֥א הָאָ֖רֶץ אֶת־ הַמָּֽיִם׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9004]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H1870J]]"
+- "[[H0123G]]"
+- "[[H4390]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:20**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.
 <small><sub>**BSB:**</sub></small>
 The next morning, at the time of the morning sacrifice, water suddenly flowed from the direction of Edom and filled the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9003\|בַ]][[H1242\|בֹּ֙קֶר֙]] [[H9004\|כַּ]][[H5927I\|עֲל֣וֹת]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H0935G\|בָּאִ֖ים]] [[H9006\|מִ]][[H1870J\|דֶּ֣רֶךְ]] [[H0123G\|אֱד֑וֹם]] [[H9001\|וַ]][[H4390\|תִּמָּלֵ֥א]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic MOABITES|MOABITES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.19|<< 2 Kings 3:19]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.21|2 Kings 3:21 >>]]</td></tr></table>
 

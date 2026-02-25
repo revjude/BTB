@@ -1,8 +1,75 @@
+---
+title: 1 Kings 10:9
+type: Verse
+kjv: "Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice."
+bsb: "Blessed be the LORD your God, who has delighted in you to set you on the throne of Israel. Because of the LORD’s eternal love for Israel, He has made you king to carry out justice and righteousness.”"
+hebrew: "יְהִ֨י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ בָּר֔וּךְ אֲשֶׁר֙ חָפֵ֣ץ בְּךָ֔ לְתִתְּךָ֖ עַל־ כִּסֵּ֣א יִשְׂרָאֵ֑ל בְּאַהֲבַ֨ת יְהוָ֤ה אֶת־ יִשְׂרָאֵל֙ לְעֹלָ֔ם וַיְשִֽׂימְךָ֣ לְמֶ֔לֶךְ לַעֲשׂ֥וֹת מִשְׁפָּ֖ט וּצְדָקָֽה׃"
+pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1288]]"
+- "[[H0834A]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H3478]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H5769G]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H4428G]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:9**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice.
 <small><sub>**BSB:**</sub></small>
 Blessed be the LORD your God, who has delighted in you to set you on the throne of Israel. Because of the LORD’s eternal love for Israel, He has made you king to carry out justice and righteousness.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִ֨י]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H1288\|בָּר֔וּךְ]] [[H0834A\|אֲשֶׁר֙]] [[H2654A\|חָפֵ֣ץ]] [[H9003\|בְּ]][[H9031\|ךָ֔]] [[H9005\|לְ]][[H5414H\|תִתְּ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בְּ]][[H0157G\|אַהֲבַ֨ת]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H5769G\|עֹלָ֔ם]] [[H9001\|וַ]][[H7760A\|יְשִֽׂימְ]][[H9031\|ךָ֣]] [[H9005\|לְ]][[H4428G\|מֶ֔לֶךְ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9002\|וּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic QUEEN|QUEEN]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic THRONE|THRONE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.8|<< 1 Kings 10:8]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.10|1 Kings 10:10 >>]]</td></tr></table>
 

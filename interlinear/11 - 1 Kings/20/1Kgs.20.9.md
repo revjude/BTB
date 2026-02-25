@@ -1,8 +1,67 @@
+---
+title: 1 Kings 20:9
+type: Verse
+kjv: "Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again."
+bsb: "So Ahab answered the messengers of Ben-hadad, “Tell my lord the king, ‘All that you demanded of your servant the first time I will do, but this thing I cannot do.’” So the messengers departed and relayed the message to Ben-hadad."
+hebrew: "וַיֹּ֜אמֶר לְמַלְאֲכֵ֣י בֶן־ הֲדַ֗ד אִמְר֞וּ לַֽאדֹנִ֤י הַמֶּ֙לֶךְ֙ כֹּל֩ אֲשֶׁר־ שָׁלַ֨חְתָּ אֶל־ עַבְדְּךָ֤ בָרִֽאשֹׁנָה֙ אֶעֱשֶׂ֔ה וְהַדָּבָ֣ר הַזֶּ֔ה לֹ֥א אוּכַ֖ל לַעֲשׂ֑וֹת וַיֵּֽלְכוּ֙ הַמַּלְאָכִ֔ים וַיְשִׁבֻ֖הוּ דָּבָֽר׃"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4397G]]"
+- "[[H1130G]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:9**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.
 <small><sub>**BSB:**</sub></small>
 So Ahab answered the messengers of Ben-hadad, “Tell my lord the king, ‘All that you demanded of your servant the first time I will do, but this thing I cannot do.’” So the messengers departed and relayed the message to Ben-hadad.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H9005\|לְ]][[H4397G\|מַלְאֲכֵ֣י]] [[H1130G\|בֶן]][[H9014\|־]] [[H1130G\|הֲדַ֗ד]] [[H0559\|אִמְר֞וּ]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֤]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H3605\|כֹּל֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֨חְתָּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֤]] [[H9003\|בָ]][[H7223G\|רִֽאשֹׁנָה֙]] [[H6213A\|אֶעֱשֶׂ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3808\|לֹ֥א]] [[H3201\|אוּכַ֖ל]] [[H9005\|לַ]][[H6213A\|עֲשׂ֑וֹת]] [[H9001\|וַ]][[H1980G\|יֵּֽלְכוּ֙]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֔ים]] [[H9001\|וַ]][[H7725G\|יְשִׁבֻ֖]][[H9033\|הוּ]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.8|<< 1 Kings 20:8]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.10|1 Kings 20:10 >>]]</td></tr></table>
 

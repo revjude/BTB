@@ -1,8 +1,56 @@
+---
+title: Psalm 107:35
+type: Verse
+kjv: "He turneth the wilderness into a standing water, and dry ground into watersprings."
+bsb: "He turns a desert into pools of water and a dry land into flowing springs."
+hebrew: "יָשֵׂ֣ם מִ֭דְבָּר לַֽאֲגַם־ מַ֑יִם וְאֶ֥רֶץ צִ֝יָּ֗ה לְמֹצָ֥אֵי מָֽיִם׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7760H]]"
+- "[[H4057B]]"
+- "[[H9005]]"
+- "[[H0098]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H6723]]"
+- "[[H4161]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:35**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He turneth the wilderness into a standing water, and dry ground into watersprings.
 <small><sub>**BSB:**</sub></small>
 He turns a desert into pools of water and a dry land into flowing springs.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760H\|יָשֵׂ֣ם]] [[H4057B\|מִ֭דְבָּר]] [[H9005\|לַֽ]][[H0098\|אֲגַם]][[H9014\|־]] [[H4325G\|מַ֑יִם]] [[H9002\|וְ]][[H0776G\|אֶ֥רֶץ]] [[H6723\|צִ֝יָּ֗ה]] [[H9005\|לְ]][[H4161\|מֹצָ֥אֵי]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.34|<< Psalms 107:34]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.36|Psalms 107:36 >>]]</td></tr></table>
 

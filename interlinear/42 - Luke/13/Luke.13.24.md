@@ -1,10 +1,64 @@
+---
+title: Luke 13:24
+type: Verse
+kjv: "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
+bsb: "“Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able."
+jesus_said: "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able."
+greek: "ἀγωνίζεσθε εἰσελθεῖν διὰ τῆς στενῆς θύρας· ὅτι πολλοί, λέγω ὑμῖν, ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν."
+pericope: "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic STRAIT GATE|STRAIT GATE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0075]]"
+- "[[G1525]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4728]]"
+- "[[G2374]]"
+- "[[G3754H]]"
+- "[[G4183]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G2212]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2480]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 13:24**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
 <small><sub>**BSB:**</sub></small>
 “Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able.
-<small><sub>**Literal:**</sub></small>
-do strive to enter in through the narrow door; for many, I say to you, will seek to enter in and not will be able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.23|<< Luke 13:23]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.25|Luke 13:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0075\|ἀγωνίζεσθε]]  [[G1525\|εἰσελθεῖν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4728\|στενῆς]]  [[G2374\|θύρας·]]  [[G3754H\|ὅτι]]  [[G4183\|πολλοί,]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν,]]  [[G2212\|ζητήσουσιν]]  [[G1525\|εἰσελθεῖν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2480\|ἰσχύσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REPROBACY|REPROBACY]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic STRAIT GATE|STRAIT GATE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.23|<< Luke 13:23]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.25|Luke 13:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 7:25
+type: Verse
+kjv: "And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish it for ever, and do as thou hast said."
+bsb: "And now, O LORD God, confirm forever the word You have spoken concerning Your servant and his house. Do as You have promised,"
+hebrew: "וְעַתָּה֙ יְהוָ֣ה אֱלֹהִ֔ים הַדָּבָ֗ר אֲשֶׁ֨ר דִּבַּ֤רְתָּ עַֽל־ עַבְדְּךָ֙ וְעַל־ בֵּית֔וֹ הָקֵ֖ם עַד־ עוֹלָ֑ם וַעֲשֵׂ֖ה כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H6965I]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:25**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish [it] for ever, and do as thou hast said.
 <small><sub>**BSB:**</sub></small>
 And now, O LORD God, confirm forever the word You have spoken concerning Your servant and his house. Do as You have promised,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהִ֔ים]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבַּ֤רְתָּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H6965I\|הָקֵ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9002\|וַ]][[H6213A\|עֲשֵׂ֖ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.24|<< 2 Samuel 7:24]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.26|2 Samuel 7:26 >>]]</td></tr></table>
 

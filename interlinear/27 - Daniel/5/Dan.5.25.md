@@ -1,8 +1,59 @@
+---
+title: Daniel 5:25
+type: Verse
+kjv: "And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN."
+bsb: "Now this is the inscription that was written: MENE, MENE, TEKEL, PARSIN."
+aramaic: "וּדְנָ֥ה כְתָבָ֖א דִּ֣י רְשִׁ֑ים מְנֵ֥א מְנֵ֖א תְּקֵ֥ל וּפַרְסִֽין׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MENE|MENE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEKEL|TEKEL]]"
+- "[[topic UPHARSIN|UPHARSIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1836]]"
+- "[[H3792]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H7560]]"
+- "[[H4484]]"
+- "[[H8625B]]"
+- "[[H6537B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:25**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the writing that was written, MENE, MENE, TEKEL, UPHARSIN.
 <small><sub>**BSB:**</sub></small>
 Now this is the inscription that was written: MENE, MENE, TEKEL, PARSIN.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H1836\|דְנָ֥ה]] [[H3792\|כְתָבָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H7560\|רְשִׁ֑ים]] [[H4484\|מְנֵ֥א]] [[H4484\|מְנֵ֖א]] [[H8625B\|תְּקֵ֥ל]] [[H9002\|וּ]][[H6537B\|פַרְסִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic MENE|MENE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEKEL|TEKEL]] • [[topic UPHARSIN|UPHARSIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.24|<< Daniel 5:24]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.26|Daniel 5:26 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Acts 26:17
+type: Verse
+kjv: "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,"
+bsb: "I will rescue you from your own people and from the Gentiles. I am sending you to them"
+jesus_said: "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,"
+greek: "ἐξαιρούμενός σε ἐκ τοῦ λαοῦ καὶ ἐκ τῶν ἐθνῶν, εἰς οὓς ἐγὼ ἀποστέλλω σε"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1807]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G1484]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G0649]]"
+texts:
+- NKO
+- no
+- N(K)O
+---
+
 **Acts 26:17**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Delivering thee from the people, and [from] the Gentiles, unto whom now I send thee,
 <small><sub>**BSB:**</sub></small>
 I will rescue you from your own people and from the Gentiles. I am sending you to them
-<small><sub>**Literal:**</sub></small>
-delivering you out from the people and from the Gentiles, to whom I myself am sending you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.16|<< Acts 26:16]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.18|Acts 26:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1807\|ἐξαιρούμενός]]  [[G4771\|σε]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν,]]  [[G1519\|εἰς]]  [[G3739\|οὓς]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G4771\|σε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DEFENSE|DEFENSE]] • [[topic GENTILES|GENTILES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SIN|SIN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.16|<< Acts 26:16]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.18|Acts 26:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

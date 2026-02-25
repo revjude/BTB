@@ -1,10 +1,55 @@
+---
+title: Romans 5:7
+type: Verse
+kjv: "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die."
+bsb: "Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die."
+greek: "μόλις γὰρ ὑπὲρ δικαίου τις ἀποθανεῖται, ὑπὲρ γὰρ τοῦ ἀγαθοῦ τάχα τις καὶ τολμᾷ ἀποθανεῖν·"
+pericope: "[[Rom.5.6 Christ’s Sacrifice for the Ungodly|Christ’s Sacrifice for the Ungodly]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3433]]"
+- "[[G1063]]"
+- "[[G5228]]"
+- "[[G1342]]"
+- "[[G5100]]"
+- "[[G0599]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G5029]]"
+- "[[G2532]]"
+- "[[G5111]]"
+texts:
+- NKO
+---
+
 **Romans 5:7**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.
 <small><sub>**BSB:**</sub></small>
 Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die.
-<small><sub>**Literal:**</sub></small>
-Rarely indeed for a righteous [man] anyone will die, on behalf of though the good [man] perhaps someone even would dare to die;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.6|<< Romans 5:6]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.8|Romans 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3433\|μόλις]]  [[G1063\|γὰρ]]  [[G5228\|ὑπὲρ]]  [[G1342\|δικαίου]]  [[G5100\|τις]]  [[G0599\|ἀποθανεῖται,]]  [[G5228\|ὑπὲρ]]  [[G1063\|γὰρ]]  [[G3588\|τοῦ]]  [[G0018\|ἀγαθοῦ]]  [[G5029\|τάχα]]  [[G5100\|τις]]  [[G2532\|καὶ]]  [[G5111\|τολμᾷ]]  [[G0599\|ἀποθανεῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic ROME|ROME]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.6|<< Romans 5:6]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.8|Romans 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

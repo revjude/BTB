@@ -1,10 +1,59 @@
+---
+title: John 1:50
+type: Verse
+kjv: "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
+bsb: "Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.”"
+jesus_said: "Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
+greek: "Ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ὅτι εἶπόν σοι ὅτι εἶδόν σε ὑποκάτω τῆς συκῆς, πιστεύεις; μείζω τούτων ὄψῃ."
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1492H]]"
+- "[[G5270]]"
+- "[[G3588]]"
+- "[[G4808]]"
+- "[[G4100]]"
+- "[[G3173]]"
+- "[[G3778]]"
+- "[[G3708]]"
+texts:
+- NKO
+- no
+---
+
 **John 1:50**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.”
-<small><sub>**Literal:**</sub></small>
-Answered Jesus and said to him; Because I said to you that I saw you under the fig tree, believe you? Greater things than these You will see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.49|<< John 1:49]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.51|John 1:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3754H\|ὅτι]]  [[G2036\|εἶπόν]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G1492H\|εἶδόν]]  [[G4771\|σε]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῆς]]  [[G4808\|συκῆς,]]  [[G4100\|πιστεύεις;]]  [[G3173\|μείζω]]  [[G3778\|τούτων]]  [[G3708\|ὄψῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.49|<< John 1:49]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.51|John 1:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

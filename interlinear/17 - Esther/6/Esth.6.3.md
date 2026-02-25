@@ -1,8 +1,64 @@
+---
+title: Esther 6:3
+type: Verse
+kjv: "And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king’s servants that ministered unto him, There is nothing done for him."
+bsb: "The king inquired, “What honor or dignity has been bestowed on Mordecai for this act?” “Nothing has been done for him,” replied the king’s attendants."
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ מַֽה־ נַּעֲשָׂ֞ה יְקָ֧ר וּגְדוּלָּ֛ה לְמָרְדֳּכַ֖י עַל־ זֶ֑ה וַיֹּ֨אמְר֜וּ נַעֲרֵ֤י הַמֶּ֙לֶךְ֙ מְשָׁ֣רְתָ֔יו לֹא־ נַעֲשָׂ֥ה עִמּ֖וֹ דָּבָֽר׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213I]]"
+- "[[H3366]]"
+- "[[H9002]]"
+- "[[H1420]]"
+- "[[H9005]]"
+- "[[H4782H]]"
+- "[[H5921A]]"
+- "[[H2088]]"
+- "[[H5288]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:3**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king’s servants that ministered unto him, There is nothing done for him.
 <small><sub>**BSB:**</sub></small>
 The king inquired, “What honor or dignity has been bestowed on Mordecai for this act?” “Nothing has been done for him,” replied the king’s attendants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213I\|נַּעֲשָׂ֞ה]] [[H3366\|יְקָ֧ר]] [[H9002\|וּ]][[H1420\|גְדוּלָּ֛ה]] [[H9005\|לְ]][[H4782H\|מָרְדֳּכַ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H2088\|זֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H5288\|נַעֲרֵ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H8334\|מְשָׁ֣רְתָ֔י]][[H9033\|ו]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|נַעֲשָׂ֥ה]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.2|<< Esther 6:2]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.4|Esther 6:4 >>]]</td></tr></table>
 

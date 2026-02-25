@@ -1,8 +1,62 @@
+---
+title: Leviticus 14:44
+type: Verse
+kjv: "Then the priest shall come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean."
+bsb: "the priest must come and inspect it. If the mildew has spread in the house, it is a destructive mildew; the house is unclean."
+hebrew: "וּבָא֙ הַכֹּהֵ֔ן וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בַּבָּ֑יִת צָרַ֨עַת מַמְאֶ֥רֶת הִ֛וא בַּבַּ֖יִת טָמֵ֥א הֽוּא׃"
+pericope: "[[Lev.14.33 Signs of Home Contamination|Signs of Home Contamination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6581]]"
+- "[[H5061]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H6883]]"
+- "[[H3992]]"
+- "[[H1931]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:44**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall come and look, and, behold, [if] the plague be spread in the house, it [is] a fretting leprosy in the house: it [is] unclean.
 <small><sub>**BSB:**</sub></small>
 the priest must come and inspect it. If the mildew has spread in the house, it is a destructive mildew; the house is unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָא֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וְ]][[H7200G\|רָאָ֕ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H6581\|פָּשָׂ֥ה]] [[H9009\|הַ]][[H5061\|נֶּ֖גַע]] [[H9003\|בַּ]][[H1004B\|בָּ֑יִת]] [[H6883\|צָרַ֨עַת]] [[H3992\|מַמְאֶ֥רֶת]] [[H1931\|הִ֛וא]] [[H9003\|בַּ]][[H1004B\|בַּ֖יִת]] [[H2931\|טָמֵ֥א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.43|<< Leviticus 14:43]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.45|Leviticus 14:45 >>]]</td></tr></table>
 

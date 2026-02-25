@@ -1,8 +1,54 @@
+---
+title: Ezekiel 33:23
+type: Verse
+kjv: "Then the word of the LORD came unto me, saying,"
+bsb: "Then the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֥י דְבַר־ יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:23**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהֹוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.22|<< Ezekiel 33:22]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.24|Ezekiel 33:24 >>]]</td></tr></table>
 

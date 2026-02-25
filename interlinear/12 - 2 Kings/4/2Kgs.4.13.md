@@ -1,8 +1,80 @@
+---
+title: 2 Kings 4:13
+type: Verse
+kjv: "And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what is to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people."
+bsb: "and Elisha said to Gehazi, “Now tell her, ‘Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?’” “I have a home among my own people,” she replied."
+hebrew: "וַיֹּ֣אמֶר ל֗וֹ אֱמָר־ נָ֣א אֵלֶיהָ֮ הִנֵּ֣ה חָרַ֣דְתְּ׀ אֵלֵינוּ֮ אֶת־ כָּל־ הַחֲרָדָ֣ה הַזֹּאת֒ מֶ֚ה לַעֲשׂ֣וֹת לָ֔ךְ הֲיֵ֤שׁ לְדַבֶּר־ לָךְ֙ אֶל־ הַמֶּ֔לֶךְ א֖וֹ אֶל־ שַׂ֣ר הַצָּבָ֑א וַתֹּ֕אמֶר בְּת֥וֹךְ עַמִּ֖י אָנֹכִ֥י יֹשָֽׁבֶת׃"
+pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H2009]]"
+- "[[H2729]]"
+- "[[H9015]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2731]]"
+- "[[H2063]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9032]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H1696G]]"
+- "[[H4428G]]"
+- "[[H0176A]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971B]]"
+- "[[H9020]]"
+- "[[H0595]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:13**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what [is] to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.
 <small><sub>**BSB:**</sub></small>
 and Elisha said to Gehazi, “Now tell her, ‘Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?’” “I have a home among my own people,” she replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0559\|אֱמָר]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0413\|אֵלֶי]][[H9034\|הָ֮]] [[H2009\|הִנֵּ֣ה]] [[H2729\|חָרַ֣דְתְּ]][[H9015\|׀]] [[H0413\|אֵלֵי]][[H9035\|נוּ֮]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2731\|חֲרָדָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּאת֒]] [[H4100\|מֶ֚ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9008\|הֲ]][[H3426\|יֵ֤שׁ]] [[H9005\|לְ]][[H1696G\|דַבֶּר]][[H9014\|־]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0176A\|א֖וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H6635A\|צָּבָ֑א]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H5971B\|עַמִּ֖]][[H9020\|י]] [[H0595\|אָנֹכִ֥י]] [[H3427\|יֹשָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.12|<< 2 Kings 4:12]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.14|2 Kings 4:14 >>]]</td></tr></table>
 

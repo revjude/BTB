@@ -1,6 +1,52 @@
+---
+title: LXX Psalm 57:8
+type: Verse
+lxx: "Awaken,  my glory! Awaken, O psaltery and harp! I shall awaken at dawn."
+greek: "εξεγέρθητι η δόξα μου εξεγέρθητι ψαλτήριον και κιθάρα εξεγερθήσομαι όρθρου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 57
+book/chapter: "[[Ps.57|Psalm 57]]"
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic HARP|HARP]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G1825]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G1473]]"
+- "[[G1825]]"
+- "[[G9783]]"
+- "[[G2532]]"
+- "[[G2788]]"
+- "[[G1825]]"
+- "[[G3722]]"
+---
+
 **LXX Psalm 57:8** 
 <small><sub>**LXX:**</sub></small>
 Awaken,  my glory! Awaken, O psaltery and harp! I shall awaken at dawn. 
+<small><sub>**Greek:**</sub></small>
+[[G1825\|εξεγέρθητι]] [[G3588\|η]] [[G1391\|δόξα]] [[G1473\|μου]] [[G1825\|εξεγέρθητι]] [[G9783\|ψαλτήριον]] [[G2532\|και]] [[G2788\|κιθάρα]] [[G1825\|εξεγερθήσομαι]] [[G3722\|όρθρου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic HARP|HARP]] • [[topic PRAISE|PRAISE]] • [[topic PSALTERY|PSALTERY]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.57.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.7|<< Psalm 57:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.9|Psalm 57:9 >>]]</td></tr></table>
 
@@ -15,6 +61,6 @@ Awaken,  my glory! Awaken, O psaltery and harp! I shall awaken at dawn.
 | harp! | **<big>[[G2788\|κιθάρα]]</big>** |
 | I shall awaken | **<big>[[G1825\|εξεγερθήσομαι]]</big>** |
 | at dawn. | **<big>[[G3722\|όρθρου]]</big>** |
-[[Ps.57.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.7|<< Psalm 57:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.9|Psalm 57:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.7|<< Psalm 57:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.9|Psalm 57:9 >>]]</td></tr></table>
 
 

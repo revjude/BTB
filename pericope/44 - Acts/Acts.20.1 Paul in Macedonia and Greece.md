@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul in Macedonia and Greece
+type: Pericope
 pericope: "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 20
 book/chapter: "[[Acts.20|Acts 20]]"
-genre:
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.20.1]]"
 - "[[Acts.20.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.20.6]]"
 ---
 
-[[Acts.20|Acts 20:1 - Acts 20:6]]
+<small>[[Acts.20|Acts 20:1-6]]</small>
 *Paul in Macedonia and Greece*
 
 [[Acts.20.1|1]] And after the uproar was ceased, Paul called unto \[him\] the disciples, and embraced \[them\], and departed for to go into Macedonia.

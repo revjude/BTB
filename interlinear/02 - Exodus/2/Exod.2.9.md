@@ -1,8 +1,73 @@
+---
+title: Exodus 2:9
+type: Verse
+kjv: "And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it."
+bsb: "Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him."
+hebrew: "וַתֹּ֧אמֶר לָ֣הּ בַּת־ פַּרְעֹ֗ה הֵילִ֜יכִי אֶת־ הַיֶּ֤לֶד הַזֶּה֙ וְהֵינִקִ֣הוּ לִ֔י וַאֲנִ֖י אֶתֵּ֣ן אֶת־ שְׂכָרֵ֑ךְ וַתִּקַּ֧ח הָאִשָּׁ֛ה הַיֶּ֖לֶד וַתְּנִיקֵֽהוּ׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6547I]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3243]]"
+- "[[H9033]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H5414N]]"
+- "[[H7939]]"
+- "[[H9022]]"
+- "[[H3947G]]"
+- "[[H0802G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:9**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give [thee] thy wages. And the woman took the child, and nursed it.
 <small><sub>**BSB:**</sub></small>
 Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H1323G\|בַּת]][[H9014\|־]] [[H6547I\|פַּרְעֹ֗ה]] [[H1980J\|הֵילִ֜יכִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֤לֶד]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9002\|וְ]][[H3243\|הֵינִקִ֣]][[H9033\|הוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H5414N\|אֶתֵּ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H7939\|שְׂכָרֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H3947G\|תִּקַּ֧ח]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֛ה]] [[H9009\|הַ]][[H3206\|יֶּ֖לֶד]] [[H9001\|וַ]][[H3243\|תְּנִיקֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic KINDNESS|KINDNESS]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.8|<< Exodus 2:8]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.10|Exodus 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

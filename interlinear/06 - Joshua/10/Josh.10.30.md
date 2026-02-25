@@ -1,8 +1,75 @@
+---
+title: Joshua 10:30
+type: Verse
+kjv: "And the LORD delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that were therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho."
+bsb: "And the LORD also delivered that city and its king into the hand of Israel, and Joshua put all the people to the sword, leaving no survivors. And he did to the king of Libnah as he had done to the king of Jericho."
+hebrew: "וַיִּתֵּן֩ יְהוָ֨ה גַּם־ אוֹתָ֜הּ בְּיַ֣ד יִשְׂרָאֵ֘ל וְאֶת־ מַלְכָּהּ֒ וַיַּכֶּ֣הָ לְפִי־ חֶ֗רֶב וְאֶת־ כָּל־ הַנֶּ֙פֶשׁ֙ אֲשֶׁר־ בָּ֔הּ לֹֽא־ הִשְׁאִ֥יר בָּ֖הּ שָׂרִ֑יד וַיַּ֣עַשׂ לְמַלְכָּ֔הּ כַּאֲשֶׁ֥ר עָשָׂ֖ה לְמֶ֥לֶךְ יְרִיחֽוֹ׃ ס"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H5221]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H8300]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 10:30**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD delivered it also, and the king thereof, into the hand of Israel; and he smote it with the edge of the sword, and all the souls that [were] therein; he let none remain in it; but did unto the king thereof as he did unto the king of Jericho.
 <small><sub>**BSB:**</sub></small>
 And the LORD also delivered that city and its king into the hand of Israel, and Joshua put all the people to the sword, leaving no survivors. And he did to the king of Libnah as he had done to the king of Jericho.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּן֩]] [[H3068G\|יְהוָ֨ה]] [[H1571\|גַּם]][[H9014\|־]] [[H0853\|אוֹתָ֜]][[H9034\|הּ]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכָּ]][[H9024\|הּ֒]] [[H9001\|וַ]][[H5221\|יַּכֶּ֣]][[H9034\|הָ]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֗רֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֙פֶשׁ֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7604\|הִשְׁאִ֥יר]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H8300\|שָׂרִ֑יד]] [[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H9005\|לְ]][[H4428G\|מַלְכָּ֔]][[H9024\|הּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9005\|לְ]][[H4428G\|מֶ֥לֶךְ]] [[H3405G\|יְרִיחֽוֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HEBRON|HEBRON]] • [[topic JOSHUA|JOSHUA]] • [[topic LIBNAH|LIBNAH]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.29|<< Joshua 10:29]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.31|Joshua 10:31 >>]]</td></tr></table>
 
@@ -33,7 +100,7 @@ And the LORD also delivered that city and its king into the hand of Israel, and 
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֥ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had done  |**<big>&#8207;[[H6213A\|עָשָׂ֖ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] king of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.29|<< Joshua 10:29]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.31|Joshua 10:31 >>]]</td></tr></table>
 
 

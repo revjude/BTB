@@ -1,8 +1,63 @@
+---
+title: Ezekiel 7:18
+type: Verse
+kjv: "They shall also gird themselves with sackcloth, and horror shall cover them; and shame shall be upon all faces, and baldness upon all their heads."
+bsb: "They will put on sackcloth, and terror will overwhelm them. Shame will cover all their faces, and all their heads will be shaved."
+hebrew: "וְחָגְר֣וּ שַׂקִּ֔ים וְכִסְּתָ֥ה אוֹתָ֖ם פַּלָּצ֑וּת וְאֶ֤ל כָּל־ פָּנִים֙ בּוּשָׁ֔ה וּבְכָל־ רָאשֵׁיהֶ֖ם קָרְחָֽה׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6427]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H0955]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H7144]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:18**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall also gird [themselves] with sackcloth, and horror shall cover them; and shame [shall be] upon all faces, and baldness upon all their heads.
 <small><sub>**BSB:**</sub></small>
 They will put on sackcloth, and terror will overwhelm them. Shame will cover all their faces, and all their heads will be shaved.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2296\|חָגְר֣וּ]] [[H8242\|שַׂקִּ֔ים]] [[H9001\|וְ]][[H3680\|כִסְּתָ֥ה]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H6427\|פַּלָּצ֑וּת]] [[H9002\|וְ]][[H0413\|אֶ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H6440H\|פָּנִים֙]] [[H0955\|בּוּשָׁ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H7218A\|רָאשֵׁי]][[H9028\|הֶ֖ם]] [[H7144\|קָרְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic REMORSE|REMORSE]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.17|<< Ezekiel 7:17]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.19|Ezekiel 7:19 >>]]</td></tr></table>
 

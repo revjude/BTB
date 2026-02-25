@@ -1,10 +1,60 @@
+---
+title: 2 Peter 3:7
+type: Verse
+kjv: "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men."
+bsb: "And by that same word, the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of ungodly men."
+greek: "οἱ δὲ νῦν οὐρανοὶ καὶ ἡ γῆ τῷ αὐτῷ λόγῳ τεθησαυρισμένοι εἰσὶν πυρὶ τηρούμενοι εἰς ἡμέραν κρίσεως καὶ ἀπωλείας τῶν ἀσεβῶν ἀνθρώπων.¶"
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3568]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G0846]]"
+- "[[G3056]]"
+- "[[G2343]]"
+- "[[G1510]]"
+- "[[G4442]]"
+- "[[G5083H]]"
+- "[[G1519]]"
+- "[[G2250]]"
+- "[[G2920]]"
+- "[[G0684]]"
+- "[[G0765]]"
+- "[[G0444]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **2 Peter 3:7**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.
 <small><sub>**BSB:**</sub></small>
 And by that same word, the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of ungodly men.
-<small><sub>**Literal:**</sub></small>
-<the> But now [the] heavens and the earth by the same word stored up they are for fire being kept unto [the] day of judgment and destruction <the> of ungodly men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.6|<< 2 Peter 3:6]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.8|2 Peter 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3568\|νῦν]]  [[G3772\|οὐρανοὶ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G3056\|λόγῳ]]  [[G2343\|τεθησαυρισμένοι]]  [[G1510\|εἰσὶν]]  [[G4442\|πυρὶ]]  [[G5083H\|τηρούμενοι]]  [[G1519\|εἰς]]  [[G2250\|ἡμέραν]]  [[G2920\|κρίσεως]]  [[G2532\|καὶ]]  [[G0684\|ἀπωλείας]]  [[G3588\|τῶν]]  [[G0765\|ἀσεβῶν]]  [[G0444\|ἀνθρώπων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEOLOGY|GEOLOGY]] • [[topic JUDGMENT|JUDGMENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.6|<< 2 Peter 3:6]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.8|2 Peter 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

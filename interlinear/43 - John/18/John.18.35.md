@@ -1,10 +1,56 @@
+---
+title: John 18:35
+type: Verse
+kjv: "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?"
+bsb: "“Am I a Jew?” Pilate replied. “Your own people and chief priests handed You over to me. What have You done?”"
+greek: "ἀπεκρίθη ὁ Πιλᾶτος· μήτι ἐγὼ Ἰουδαῖός εἰμι; τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί· τί ἐποίησας;¶"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G3385]]"
+- "[[G1473]]"
+- "[[G2453]]"
+- "[[G1510]]"
+- "[[G1484]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0749]]"
+- "[[G3860]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **John 18:35**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?
 <small><sub>**BSB:**</sub></small>
 “Am I a Jew?” Pilate replied. “Your own people and chief priests handed You over to me. What have You done?”
-<small><sub>**Literal:**</sub></small>
-Answered <the> Pilate; surely not ever I myself a Jew am? The nation <the> of You and the chief priests delivered You to me myself; What did You do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.34|<< John 18:34]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.36|John 18:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G3385\|μήτι]]  [[G1473\|ἐγὼ]]  [[G2453\|Ἰουδαῖός]]  [[G1510\|εἰμι;]]  [[G3588\|τὸ]]  [[G1484\|ἔθνος]]  [[G3588\|τὸ]]  [[G4771\|σὸν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G3860\|παρέδωκάν]]  [[G4771\|σε]]  [[G1473\|ἐμοί·]]  [[G5101\|τί]]  [[G4160G\|ἐποίησας;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.34|<< John 18:34]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.36|John 18:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

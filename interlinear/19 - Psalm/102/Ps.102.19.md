@@ -1,8 +1,63 @@
+---
+title: Psalm 102:19
+type: Verse
+kjv: "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;"
+bsb: "For He looked down from the heights of His sanctuary; the LORD gazed out from heaven to earth"
+hebrew: "כִּֽי־ הִ֭שְׁקִיף מִמְּר֣וֹם קָדְשׁ֑וֹ יְ֝הוָ֗ה מִשָּׁמַ֤יִם׀ אֶל־ אֶ֬רֶץ הִבִּֽיט׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8259]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H5027]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:19**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;
 <small><sub>**BSB:**</sub></small>
 For He looked down from the heights of His sanctuary; the LORD gazed out from heaven to earth
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8259\|הִ֭שְׁקִיף]] [[H9006\|מִ]][[H4791\|מְּר֣וֹם]] [[H6944G\|קָדְשׁ֑]][[H9023\|וֹ]] [[H3068G\|יְ֝הוָ֗ה]] [[H9006\|מִ]][[H8064\|שָּׁמַ֤יִם]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֬רֶץ]] [[H5027\|הִבִּֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.18|<< Psalms 102:18]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.20|Psalms 102:20 >>]]</td></tr></table>
 

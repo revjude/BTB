@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ingrafting of the Gentiles
+type: Pericope
 pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Romans
 chapter: 11
 book/chapter: "[[Rom.11|Romans 11]]"
-genre:
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 14
 verses:
 - "[[Rom.11.11]]"
 - "[[Rom.11.12]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rom.11.24]]"
 ---
 
-[[Rom.11|Romans 11:11 - Romans 11:24]]
+<small>[[Rom.11|Romans 11:11-24]]</small>
 *The Ingrafting of the Gentiles*
 
 [[Rom.11.11|11]] I say then, Have they stumbled that they should fall? God forbid: but \[rather\] through their fall salvation \[is come\] unto the Gentiles, for to provoke them to jealousy.

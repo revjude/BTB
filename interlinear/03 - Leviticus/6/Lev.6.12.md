@@ -1,8 +1,69 @@
+---
+title: Leviticus 6:12
+type: Verse
+kjv: "And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings."
+bsb: "The fire on the altar shall be kept burning; it must not be extinguished. Every morning the priest is to add wood to the fire, arrange the burnt offering on it, and burn the fat portions of the peace offerings on it."
+hebrew: "וְהָאֵ֨שׁ עַל־ הַמִּזְבֵּ֤חַ תּֽוּקַד־ בּוֹ֙ לֹ֣א תִכְבֶּ֔ה וּבִעֵ֨ר עָלֶ֧יהָ הַכֹּהֵ֛ן עֵצִ֖ים בַּבֹּ֣קֶר בַּבֹּ֑קֶר וְעָרַ֤ךְ עָלֶ֙יהָ֙ הָֽעֹלָ֔ה וְהִקְטִ֥יר עָלֶ֖יהָ חֶלְבֵ֥י הַשְּׁלָמִֽים׃"
+pericope: "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H3344]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H9034]]"
+- "[[H3548]]"
+- "[[H6086G]]"
+- "[[H1242]]"
+- "[[H6186A]]"
+- "[[H5930A]]"
+- "[[H6999A]]"
+- "[[H2459]]"
+- "[[H8002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:12**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings.
 <small><sub>**BSB:**</sub></small>
 The fire on the altar shall be kept burning; it must not be extinguished. Every morning the priest is to add wood to the fire, arrange the burnt offering on it, and burn the fat portions of the peace offerings on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0784\|אֵ֨שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֤חַ]] [[H3344\|תּֽוּקַד]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H3808\|לֹ֣א]] [[H3518\|תִכְבֶּ֔ה]] [[H9001\|וּ]][[H1197A\|בִעֵ֨ר]] [[H5921A\|עָלֶ֧י]][[H9034\|הָ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H6086G\|עֵצִ֖ים]] [[H9003\|בַּ]][[H1242\|בֹּ֣קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וְ]][[H6186A\|עָרַ֤ךְ]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H9009\|הָֽ]][[H5930A\|עֹלָ֔ה]] [[H9001\|וְ]][[H6999A\|הִקְטִ֥יר]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H2459\|חֶלְבֵ֥י]] [[H9009\|הַ]][[H8002\|שְּׁלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.11|<< Leviticus 6:11]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.13|Leviticus 6:13 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Abomination of Desolation
+type: Pericope
 pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Mark
 chapter: 13
 book/chapter: "[[Mark.13|Mark 13]]"
-genre:
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Mark.13.14]]"
 - "[[Mark.13.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mark.13.23]]"
 ---
 
-[[Mark.13|Mark 13:14 - Mark 13:23]]
+<small>[[Mark.13|Mark 13:14-23]]</small>
 *The Abomination of Desolation*
 
 [[Mark.13.14|14]] But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:

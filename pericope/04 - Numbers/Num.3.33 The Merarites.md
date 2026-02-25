@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Merarites
+type: Pericope
 pericope: "[[Num.3.33 The Merarites|The Merarites]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.3.33]]"
 - "[[Num.3.34]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.3.37]]"
 ---
 
-[[Num.3|Numbers 3:33 - Numbers 3:37]]
+<small>[[Num.3|Numbers 3:33-37]]</small>
 *The Merarites*
 
 [[Num.3.33|33]] Of Merari \[was\] the family of the Mahlites, and the family of the Mushites: these \[are\] the families of Merari.

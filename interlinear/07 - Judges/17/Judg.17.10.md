@@ -1,8 +1,70 @@
+---
+title: Judges 17:10
+type: Verse
+kjv: "And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten shekels of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in."
+bsb: "“Stay with me,” Micah said to him, “and be my father and priest, and I will give you ten shekels of silver per year, a suit of clothes, and your provisions.” So the Levite went in"
+hebrew: "וַיֹּאמֶר֩ ל֨וֹ מִיכָ֜ה שְׁבָ֣ה עִמָּדִ֗י וֶֽהְיֵה־ לִי֮ לְאָ֣ב וּלְכֹהֵן֒ וְאָנֹכִ֨י אֶֽתֶּן־ לְךָ֜ עֲשֶׂ֤רֶת כֶּ֙סֶף֙ לַיָּמִ֔ים וְעֵ֥רֶךְ בְּגָדִ֖ים וּמִחְיָתֶ֑ךָ וַיֵּ֖לֶךְ הַלֵּוִֽי׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FATHER|FATHER]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4318G]]"
+- "[[H3427]]"
+- "[[H9012]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H3548]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H6235]]"
+- "[[H3701G]]"
+- "[[H3117I]]"
+- "[[H6187]]"
+- "[[H0899B]]"
+- "[[H4241]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:10**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten [shekels] of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in.
 <small><sub>**BSB:**</sub></small>
 “Stay with me,” Micah said to him, “and be my father and priest, and I will give you ten shekels of silver per year, a suit of clothes, and your provisions.” So the Levite went in
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H4318G\|מִיכָ֜ה]] [[H3427\|שְׁבָ֣]][[H9012\|ה]] [[H5978\|עִמָּדִ֗]][[H9030\|י]] [[H9002\|וֶֽ]][[H1961\|הְיֵה]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֮]] [[H9005\|לְ]][[H0001G\|אָ֣ב]] [[H9002\|וּ]][[H9005\|לְ]][[H3548\|כֹהֵן֒]] [[H9002\|וְ]][[H0595\|אָנֹכִ֨י]] [[H5414G\|אֶֽתֶּן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H6235\|עֲשֶׂ֤רֶת]] [[H3701G\|כֶּ֙סֶף֙]] [[H9005\|לַ]][[H3117I\|יָּמִ֔ים]] [[H9002\|וְ]][[H6187\|עֵ֥רֶךְ]] [[H0899B\|בְּגָדִ֖ים]] [[H9002\|וּ]][[H4241\|מִחְיָתֶ֑]][[H9021\|ךָ]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H9009\|הַ]][[H3881\|לֵּוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FATHER|FATHER]] • [[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.9|<< Judges 17:9]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.11|Judges 17:11 >>]]</td></tr></table>
 

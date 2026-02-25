@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 1:28
+type: Verse
+kjv: "Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there."
+bsb: "Where can we go? Our brothers have made our hearts melt, saying: ‘The people are larger and taller than we are; the cities are large, with walls up to the heavens. We even saw the descendants of the Anakim there.’”"
+hebrew: "אָנָ֣ה׀ אֲנַ֣חְנוּ עֹלִ֗ים אַחֵינוּ֩ הֵמַ֨סּוּ אֶת־ לְבָבֵ֜נוּ לֵאמֹ֗ר עַ֣ם גָּד֤וֹל וָרָם֙ מִמֶּ֔נּוּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצוּרֹ֖ת בַּשָּׁמָ֑יִם וְגַם־ בְּנֵ֥י עֲנָקִ֖ים רָאִ֥ינוּ שָֽׁם׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H0575]]"
+- "[[H9015]]"
+- "[[H0587]]"
+- "[[H5927G]]"
+- "[[H0251I]]"
+- "[[H9025]]"
+- "[[H4549]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5971A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H1571]]"
+- "[[H1121A]]"
+- "[[H6062]]"
+- "[[H7200G]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:28**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither shall we go up? our brethren have discouraged our heart, saying, The people [is] greater and taller than we; the cities [are] great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
 <small><sub>**BSB:**</sub></small>
 Where can we go? Our brothers have made our hearts melt, saying: ‘The people are larger and taller than we are; the cities are large, with walls up to the heavens. We even saw the descendants of the Anakim there.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0575\|אָנָ֣ה]][[H9015\|׀]] [[H0587\|אֲנַ֣חְנוּ]] [[H5927G\|עֹלִ֗ים]] [[H0251I\|אַחֵי]][[H9025\|נוּ֩]] [[H4549\|הֵמַ֨סּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָבֵ֜]][[H9025\|נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5971A\|עַ֣ם]] [[H1419A\|גָּד֤וֹל]] [[H9002\|וָ]][[H7311A\|רָם֙]] [[H4480A\|מִמֶּ֔]][[H9035\|נּוּ]] [[H5892B\|עָרִ֛ים]] [[H1419A\|גְּדֹלֹ֥ת]] [[H9002\|וּ]][[H1219\|בְצוּרֹ֖ת]] [[H9003\|בַּ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H6062\|עֲנָקִ֖ים]] [[H7200G\|רָאִ֥ינוּ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.27|<< Deuteronomy 1:27]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.29|Deuteronomy 1:29 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Galatians 4:18
+type: Verse
+kjv: "But it is good to be zealously affected always in a good thing, and not only when I am present with you."
+bsb: "Nevertheless, it is good to be zealous if it serves a noble purpose—at any time, and not only when I am with you."
+greek: "καλὸν δὲ τὸ ζηλοῦσθαι ἐν καλῷ πάντοτε, καὶ μὴ μόνον ἐν τῷ παρεῖναί με πρὸς ὑμᾶς,"
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2570G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2206]]"
+- "[[G1722]]"
+- "[[G3842]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3441]]"
+- "[[G3918]]"
+- "[[G3165]]"
+- "[[G4314]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **Galatians 4:18**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But [it is] good to be zealously affected always in [a] good [thing], and not only when I am present with you.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, it is good to be zealous if it serves a noble purpose—at any time, and not only when I am with you.
-<small><sub>**Literal:**</sub></small>
-Good [it is] now <the> to be zealous in a right [thing] at all times, and not only in <the> being present me with you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.17|<< Galatians 4:17]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.19|Galatians 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2570G\|καλὸν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G2206\|ζηλοῦσθαι]]  [[G1722\|ἐν]]  [[G2570G\|καλῷ]]  [[G3842\|πάντοτε,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3441\|μόνον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3918\|παρεῖναί]]  [[G3165\|με]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.17|<< Galatians 4:17]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.19|Galatians 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

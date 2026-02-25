@@ -1,10 +1,54 @@
+---
+title: Romans 9:19
+type: Verse
+kjv: "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+bsb: "One of you will say to me, “Then why does God still find fault? For who can resist His will?”"
+greek: "Ἐρεῖς μοι οὖν· τί οὖν ἔτι μέμφεται; τῷ γὰρ βουλήματι αὐτοῦ τίς ἀνθέστηκεν;"
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G4483]]"
+- "[[G3165]]"
+- "[[G3767]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G3201]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G1013]]"
+- "[[G0846]]"
+- "[[G0436]]"
+texts:
+- NKO
+- NO
+---
+
 **Romans 9:19**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
 <small><sub>**BSB:**</sub></small>
 One of you will say to me, “Then why does God still find fault? For who can resist His will?”
-<small><sub>**Literal:**</sub></small>
-You will say to me then: Why then still does He find fault? The for purpose of Him who has been resisting?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.18|<< Romans 9:18]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.20|Romans 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4483\|Ἐρεῖς]]  [[G3165\|μοι]]  [[G3767\|οὖν·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G2089\|ἔτι]]  [[G3201\|μέμφεται;]]  [[G3588\|τῷ]]  [[G1063\|γὰρ]]  [[G1013\|βουλήματι]]  [[G0846\|αὐτοῦ]]  [[G5101\|τίς]]  [[G0436\|ἀνθέστηκεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic GOD|GOD]] • [[topic MURMURING|MURMURING]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.18|<< Romans 9:18]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.20|Romans 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

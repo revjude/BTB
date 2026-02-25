@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Living Word
+type: Pericope
 pericope: "[[Heb.4.12 The Living Word|The Living Word]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 4
 book/chapter: "[[Heb.4|Hebrews 4]]"
-genre:
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 5
 verses:
 - "[[Heb.4.12]]"
 - "[[Heb.4.13]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Heb.4.16]]"
 ---
 
-[[Heb.4|Hebrews 4:12 - Hebrews 4:16]]
+<small>[[Heb.4|Hebrews 4:12-16]]</small>
 *The Living Word*
 
 [[Heb.4.12|12]] For the word of God \[is\] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and \[is\] a discerner of the thoughts and intents of the heart.

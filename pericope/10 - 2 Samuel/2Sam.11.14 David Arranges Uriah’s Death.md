@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Arranges Uriah’s Death
+type: Pericope
 pericope: "[[2Sam.11.14 David Arranges Uriah’s Death|David Arranges Uriah’s Death]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 11
 book/chapter: "[[2Sam.11|2 Samuel 11]]"
-genre:
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 12
 verses:
 - "[[2Sam.11.14]]"
 - "[[2Sam.11.15]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Sam.11.25]]"
 ---
 
-[[2Sam.11|2 Samuel 11:14 - 2 Samuel 11:25]]
+<small>[[2Sam.11|2 Samuel 11:14-25]]</small>
 *David Arranges Uriah’s Death*
 
 [[2Sam.11.14|14]] And it came to pass in the morning, that David wrote a letter to Joab, and sent \[it\] by the hand of Uriah.

@@ -1,8 +1,73 @@
+---
+title: Isaiah 7:4
+type: Verse
+kjv: "And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah."
+bsb: "and say to him: Calm down and be quiet. Do not be afraid or disheartened over these two smoldering stubs of firewood—over the fierce anger of Rezin and Aram and of the son of Remaliah."
+hebrew: "וְאָמַרְתָּ֣ אֵ֠לָיו הִשָּׁמֵ֨ר וְהַשְׁקֵ֜ט אַל־ תִּירָ֗א וּלְבָבְךָ֙ אַל־ יֵרַ֔ךְ מִשְּׁנֵ֨י זַנְב֧וֹת הָאוּדִ֛ים הָעֲשֵׁנִ֖ים הָאֵ֑לֶּה בָּחֳרִי־ אַ֛ף רְצִ֥ין וַאֲרָ֖ם וּבֶן־ רְמַלְיָֽהוּ׃"
+pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REMALIAH|REMALIAH]]"
+- "[[topic REZIN|REZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8104J]]"
+- "[[H9002]]"
+- "[[H8252]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H7401]]"
+- "[[H9006]]"
+- "[[H8147]]"
+- "[[H2180]]"
+- "[[H9009]]"
+- "[[H0181]]"
+- "[[H6226]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H2750]]"
+- "[[H0639G]]"
+- "[[H7526G]]"
+- "[[H0758I]]"
+- "[[H1121A]]"
+- "[[H7425]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:4**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah.
 <small><sub>**BSB:**</sub></small>
 and say to him: Calm down and be quiet. Do not be afraid or disheartened over these two smoldering stubs of firewood—over the fierce anger of Rezin and Aram and of the son of Remaliah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H8104J\|הִשָּׁמֵ֨ר]] [[H9002\|וְ]][[H8252\|הַשְׁקֵ֜ט]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֗א]] [[H9002\|וּ]][[H3824\|לְבָבְ]][[H9021\|ךָ֙]] [[H0408\|אַל]][[H9014\|־]] [[H7401\|יֵרַ֔ךְ]] [[H9006\|מִ]][[H8147\|שְּׁנֵ֨י]] [[H2180\|זַנְב֧וֹת]] [[H9009\|הָ]][[H0181\|אוּדִ֛ים]] [[H9009\|הָ]][[H6226\|עֲשֵׁנִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9003\|בָּ]][[H2750\|חֳרִי]][[H9014\|־]] [[H0639G\|אַ֛ף]] [[H7526G\|רְצִ֥ין]] [[H9002\|וַ]][[H0758I\|אֲרָ֖ם]] [[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H7425\|רְמַלְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic REMALIAH|REMALIAH]] • [[topic REZIN|REZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.3|<< Isaiah 7:3]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.5|Isaiah 7:5 >>]]</td></tr></table>
 

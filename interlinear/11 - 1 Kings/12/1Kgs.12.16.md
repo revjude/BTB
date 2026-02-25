@@ -1,8 +1,87 @@
+---
+title: 1 Kings 12:16
+type: Verse
+kjv: "So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents."
+bsb: "When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,"
+hebrew: "וַיַּ֣רְא כָּל־ יִשְׂרָאֵ֗ל כִּ֠י לֹֽא־ שָׁמַ֣ע הַמֶּלֶךְ֮ אֲלֵיהֶם֒ וַיָּשִׁ֣בוּ הָעָ֣ם אֶת־ הַמֶּ֣לֶךְ דָּבָ֣ר׀ לֵאמֹ֡ר מַה־ לָּנוּ֩ חֵ֨לֶק בְּדָוִ֜ד וְלֹֽא־ נַחֲלָ֣ה בְּבֶן־ יִשַׁ֗י לְאֹהָלֶ֙יךָ֙ יִשְׂרָאֵ֔ל עַתָּ֕ה רְאֵ֥ה בֵיתְךָ֖ דָּוִ֑ד וַיֵּ֥לֶךְ יִשְׂרָאֵ֖ל לְאֹהָלָֽיו׃"
+pericope: "[[1Kgs.12.16 The Kingdom Divided|The Kingdom Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic REBELLION|REBELLION]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic TENT|TENT]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7725M]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9035]]"
+- "[[H2506A]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H1121A]]"
+- "[[H3448]]"
+- "[[H0168G]]"
+- "[[H9021]]"
+- "[[H6258]]"
+- "[[H1004M]]"
+- "[[H1980G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:16**<big><big>[[1Kgs.12.16 The Kingdom Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither [have we] inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.
 <small><sub>**BSB:**</sub></small>
 When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמַ֣ע]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֮]] [[H0413\|אֲלֵי]][[H9038\|הֶם֒]] [[H9001\|וַ]][[H7725M\|יָּשִׁ֣בוּ]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1697G\|דָּבָ֣ר]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֡ר]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ]][[H9035\|נוּ֩]] [[H2506A\|חֵ֨לֶק]] [[H9003\|בְּ]][[H1732\|דָוִ֜ד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5159\|נַחֲלָ֣ה]] [[H9003\|בְּ]][[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשַׁ֗י]] [[H9005\|לְ]][[H0168G\|אֹהָלֶ֙י]][[H9021\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6258\|עַתָּ֕ה]] [[H7200G\|רְאֵ֥ה]] [[H1004M\|בֵיתְ]][[H9021\|ךָ֖]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H0168G\|אֹהָלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic CITIZENS|CITIZENS]] • [[topic COUNSEL|COUNSEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PETITION|PETITION]] • [[topic REBELLION|REBELLION]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic TENT|TENT]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.15|<< 1 Kings 12:15]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.17|1 Kings 12:17 >>]]</td></tr></table>
 

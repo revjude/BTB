@@ -1,8 +1,54 @@
+---
+title: Isaiah 5:17
+type: Verse
+kjv: "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat."
+bsb: "Lambs will graze as in their own pastures, and strangers will feed in the ruins of the wealthy."
+hebrew: "וְרָע֥וּ כְבָשִׂ֖ים כְּדָבְרָ֑ם וְחָרְב֥וֹת מֵחִ֖ים גָּרִ֥ים יֹאכֵֽלוּ׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7462B]]"
+- "[[H3532]]"
+- "[[H9004]]"
+- "[[H1699A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H2723]]"
+- "[[H4220]]"
+- "[[H1481A]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:17**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.
 <small><sub>**BSB:**</sub></small>
 Lambs will graze as in their own pastures, and strangers will feed in the ruins of the wealthy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7462B\|רָע֥וּ]] [[H3532\|כְבָשִׂ֖ים]] [[H9004\|כְּ]][[H1699A\|דָבְרָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H2723\|חָרְב֥וֹת]] [[H4220\|מֵחִ֖ים]] [[H1481A\|גָּרִ֥ים]] [[H0398\|יֹאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.16|<< Isaiah 5:16]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.18|Isaiah 5:18 >>]]</td></tr></table>
 

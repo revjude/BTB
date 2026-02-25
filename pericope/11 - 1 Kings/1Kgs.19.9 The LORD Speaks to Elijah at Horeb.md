@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Speaks to Elijah at Horeb
+type: Pericope
 pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 19
 book/chapter: "[[1Kgs.19|1 Kings 19]]"
-genre:
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 10
 verses:
 - "[[1Kgs.19.9]]"
 - "[[1Kgs.19.10]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Kgs.19.18]]"
 ---
 
-[[1Kgs.19|1 Kings 19:9 - 1 Kings 19:18]]
+<small>[[1Kgs.19|1 Kings 19:9-18]]</small>
 *The LORD Speaks to Elijah at Horeb*
 
 [[1Kgs.19.9|9]] And he came thither unto a cave, and lodged there; and, behold, the word of the LORD \[came\] to him, and he said unto him, What doest thou here, Elijah?

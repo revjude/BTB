@@ -1,10 +1,65 @@
+---
+title: 1 John 3:12
+type: Verse
+kjv: "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous."
+bsb: "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous."
+greek: "οὐ καθὼς Κάϊν ἐκ τοῦ πονηροῦ ἦν καὶ ἔσφαξεν τὸν ἀδελφὸν αὐτοῦ· καὶ χάριν τίνος ἔσφαξεν αὐτόν; ὅτι τὰ ἔργα αὐτοῦ πονηρὰ ἦν, τὰ δὲ τοῦ ἀδελφοῦ αὐτοῦ δίκαια.¶"
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3756]]"
+- "[[G2531]]"
+- "[[G2535]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4969]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G5484]]"
+- "[[G5101]]"
+- "[[G3754H]]"
+- "[[G2041]]"
+- "[[G1161]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **1 John 3:12**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not as Cain, [who] was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.
 <small><sub>**BSB:**</sub></small>
 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous.
-<small><sub>**Literal:**</sub></small>
-not even as Cain  [who] of the evil [one] was and he slew the brother of him; And because of what he slayed him? Because the works of him evil were, those however of the brother of him righteous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.11|<< 1 John 3:11]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.13|1 John 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G2531\|καθὼς]]  [[G2535\|Κάϊν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G4969\|ἔσφαξεν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ·]]  [[G2532\|καὶ]]  [[G5484\|χάριν]]  [[G5101\|τίνος]]  [[G4969\|ἔσφαξεν]]  [[G0846\|αὐτόν;]]  [[G3754H\|ὅτι]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτοῦ]]  [[G4190\|πονηρὰ]]  [[G1510\|ἦν,]]  [[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ]]  [[G0846\|αὐτοῦ]]  [[G1342\|δίκαια.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic CAIN|CAIN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MOTIVE|MOTIVE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.11|<< 1 John 3:11]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.13|1 John 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 John 3:12** is...
 > $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.Num.16.1|Num 16:1]] ☩ [[LXX.Num.16.31|Num 16:31]]

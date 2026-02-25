@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Wicked Leaders
+type: Pericope
 pericope: "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 22
 book/chapter: "[[Ezek.22|Ezekiel 22]]"
-genre:
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.22.23]]"
 - "[[Ezek.22.24]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.22.31]]"
 ---
 
-[[Ezek.22|Ezekiel 22:23 - Ezekiel 22:31]]
+<small>[[Ezek.22|Ezekiel 22:23-31]]</small>
 *Israel’s Wicked Leaders*
 
 [[Ezek.22.23|23]] And the word of the LORD came unto me, saying,

@@ -1,8 +1,66 @@
+---
+title: Genesis 17:5
+type: Verse
+kjv: "Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee."
+bsb: "No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations."
+hebrew: "וְלֹא־ יִקָּרֵ֥א ע֛וֹד אֶת־ שִׁמְךָ֖ אַבְרָ֑ם וְהָיָ֤ה שִׁמְךָ֙ אַבְרָהָ֔ם כִּ֛י אַב־ הֲמ֥וֹן גּוֹיִ֖ם נְתַתִּֽיךָ׃"
+pericope: "[[Gen.17.1 Abraham to Father Many Nations|Abraham to Father Many Nations]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic NAME|NAME]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H5750]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H0087]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0085]]"
+- "[[H3588A]]"
+- "[[H0001G]]"
+- "[[H1995A]]"
+- "[[H1471A]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:5**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.
 <small><sub>**BSB:**</sub></small>
 No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7121H\|יִקָּרֵ֥א]] [[H5750\|ע֛וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H0087\|אַבְרָ֑ם]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֙]] [[H0085\|אַבְרָהָ֔ם]] [[H3588A\|כִּ֛י]] [[H0001G\|אַב]][[H9014\|־]] [[H1995A\|הֲמ֥וֹן]] [[H1471A\|גּוֹיִ֖ם]] [[H5414I\|נְתַתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic NAME|NAME]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.4|<< Genesis 17:4]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.6|Genesis 17:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,60 @@
+---
+title: Colossians 1:18
+type: Verse
+kjv: "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence."
+bsb: "And He is the head of the body, the church; He is the beginning and firstborn from among the dead, so that in all things He may have preeminence."
+greek: "καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος τῆς ἐκκλησίας· ὅς ἐστιν ἡ ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων·"
+pericope: "[[Col.1.15 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G4983]]"
+- "[[G1577]]"
+- "[[G3739]]"
+- "[[G0746]]"
+- "[[G4416]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G2443]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4409]]"
+texts:
+- NKO
+- o
+---
+
 **Colossians 1:18**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all [things] he might have the preeminence.
 <small><sub>**BSB:**</sub></small>
 And He is the head of the body, the church; He is the beginning and firstborn from among the dead, so that in all things He may have preeminence.
-<small><sub>**Literal:**</sub></small>
-And He himself is the head of the body the church; who is the beginning, firstborn out from the dead, so that may be in all things He himself holding preeminence;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.17|<< Colossians 1:17]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.19|Colossians 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτός]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G2776\|κεφαλὴ]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας·]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G0746\|ἀρχή,]]  [[G4416\|πρωτότοκος]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν,]]  [[G2443\|ἵνα]]  [[G1096\|γένηται]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G0846\|αὐτὸς]]  [[G4409\|πρωτεύων·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.17|<< Colossians 1:17]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.19|Colossians 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

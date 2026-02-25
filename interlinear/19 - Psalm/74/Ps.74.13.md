@@ -1,8 +1,58 @@
+---
+title: Psalm 74:13
+type: Verse
+kjv: "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters."
+bsb: "You divided the sea by Your strength; You smashed the heads of the dragons of the sea;"
+hebrew: "אַתָּ֤ה פוֹרַ֣רְתָּ בְעָזְּךָ֣ יָ֑ם שִׁבַּ֖רְתָּ רָאשֵׁ֥י תַ֝נִּינִ֗ים עַל־ הַמָּֽיִם׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0859A]]"
+- "[[H6565B]]"
+- "[[H9003]]"
+- "[[H5797]]"
+- "[[H9021]]"
+- "[[H3220G]]"
+- "[[H7665]]"
+- "[[H7218A]]"
+- "[[H8577N]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:13**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.
 <small><sub>**BSB:**</sub></small>
 You divided the sea by Your strength; You smashed the heads of the dragons of the sea;
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֤ה]] [[H6565B\|פוֹרַ֣רְתָּ]] [[H9003\|בְ]][[H5797\|עָזְּ]][[H9021\|ךָ֣]] [[H3220G\|יָ֑ם]] [[H7665\|שִׁבַּ֖רְתָּ]] [[H7218A\|רָאשֵׁ֥י]] [[H8577N\|תַ֝נִּינִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.12|<< Psalms 74:12]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.14|Psalms 74:14 >>]]</td></tr></table>
 

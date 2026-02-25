@@ -1,8 +1,60 @@
+---
+title: Proverbs 7:19
+type: Verse
+kjv: "For the goodman is not at home, he is gone a long journey:"
+bsb: "For my husband is not at home; he has gone on a long journey."
+hebrew: "כִּ֤י אֵ֣ין הָאִ֣ישׁ בְּבֵית֑וֹ הָ֝לַ֗ךְ בְּדֶ֣רֶךְ מֵרָחֽוֹק׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9009]]"
+- "[[H0376H]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H1870L]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:19**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the goodman [is] not at home, he is gone a long journey:
 <small><sub>**BSB:**</sub></small>
 For my husband is not at home; he has gone on a long journey.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0369\|אֵ֣ין]] [[H9009\|הָ]][[H0376H\|אִ֣ישׁ]] [[H9003\|בְּ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H1980G\|הָ֝לַ֗ךְ]] [[H9003\|בְּ]][[H1870L\|דֶ֣רֶךְ]] [[H9006\|מֵ]][[H7350\|רָחֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.18|<< Proverbs 7:18]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.20|Proverbs 7:20 >>]]</td></tr></table>
 

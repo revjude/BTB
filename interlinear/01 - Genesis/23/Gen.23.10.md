@@ -1,8 +1,72 @@
+---
+title: Genesis 23:10
+type: Verse
+kjv: "And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying,"
+bsb: "Now Ephron was sitting among the sons of Heth. So in the presence of all the Hittites who had come to the gate of his city, Ephron the Hittite answered Abraham,"
+hebrew: "וְעֶפְר֥וֹן יֹשֵׁ֖ב בְּת֣וֹךְ בְּנֵי־ חֵ֑ת וַיַּעַן֩ עֶפְר֨וֹן הַחִתִּ֤י אֶת־ אַבְרָהָם֙ בְּאָזְנֵ֣י בְנֵי־ חֵ֔ת לְכֹ֛ל בָּאֵ֥י שַֽׁעַר־ עִיר֖וֹ לֵאמֹֽר׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HETH|HETH]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H9002]]"
+- "[[H6085G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H2845]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H0853]]"
+- "[[H0085]]"
+- "[[H0241H]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0935G]]"
+- "[[H8179G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:10**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, [even] of all that went in at the gate of his city, saying,
 <small><sub>**BSB:**</sub></small>
 Now Ephron was sitting among the sons of Heth. So in the presence of all the Hittites who had come to the gate of his city, Ephron the Hittite answered Abraham,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6085G\|עֶפְר֥וֹן]] [[H3427\|יֹשֵׁ֖ב]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2845\|חֵ֑ת]] [[H9001\|וַ]][[H6030B\|יַּעַן֩]] [[H6085G\|עֶפְר֨וֹן]] [[H9009\|הַ]][[H2850\|חִתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָם֙]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H2845\|חֵ֔ת]] [[H9005\|לְ]][[H3605\|כֹ֛ל]] [[H0935G\|בָּאֵ֥י]] [[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAVE|CAVE]] • [[topic EPHRON|EPHRON]] • [[topic GATES|GATES]] • [[topic HETH|HETH]] • [[topic HITTITES|HITTITES]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.9|<< Genesis 23:9]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.11|Genesis 23:11 >>]]</td></tr></table>
 

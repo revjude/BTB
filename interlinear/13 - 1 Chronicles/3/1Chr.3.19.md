@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 3:19
+type: Verse
+kjv: "And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:"
+bsb: "The sons of Pedaiah: Zerubbabel and Shimei. The children of Zerubbabel: Meshullam and Hananiah, their sister Shelomith,"
+hebrew: "וּבְנֵ֣י פְדָיָ֔ה זְרֻבָּבֶ֖ל וְשִׁמְעִ֑י וּבֶן־ זְרֻבָּבֶל֙ מְשֻׁלָּ֣ם וַחֲנַנְיָ֔ה וּשְׁלֹמִ֖ית אֲחוֹתָֽם׃"
+pericope: "[[1Chr.3.17 The Royal Line After the Exile|The Royal Line After the Exile]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HANANIAH|HANANIAH]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic PEDAIAH|PEDAIAH]]"
+- "[[topic SHELOMITH|SHELOMITH]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H6305H]]"
+- "[[H2216]]"
+- "[[H8096J]]"
+- "[[H9014]]"
+- "[[H4918H]]"
+- "[[H2608L]]"
+- "[[H8019I]]"
+- "[[H0269]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:19**<big><big>[[1Chr.3.17 The Royal Line After the Exile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Pedaiah [were], Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:
 <small><sub>**BSB:**</sub></small>
 The sons of Pedaiah: Zerubbabel and Shimei. The children of Zerubbabel: Meshullam and Hananiah, their sister Shelomith,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H6305H\|פְדָיָ֔ה]] [[H2216\|זְרֻבָּבֶ֖ל]] [[H9002\|וְ]][[H8096J\|שִׁמְעִ֑י]] [[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H2216\|זְרֻבָּבֶל֙]] [[H4918H\|מְשֻׁלָּ֣ם]] [[H9002\|וַ]][[H2608L\|חֲנַנְיָ֔ה]] [[H9002\|וּ]][[H8019I\|שְׁלֹמִ֖ית]] [[H0269\|אֲחוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANANIAH|HANANIAH]] • [[topic MESHULLAM|MESHULLAM]] • [[topic PEDAIAH|PEDAIAH]] • [[topic SHELOMITH|SHELOMITH]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.18|<< 1 Chronicles 3:18]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.20|1 Chronicles 3:20 >>]]</td></tr></table>
 

@@ -29,7 +29,7 @@
 
 → SYMBOLICAL USES OF
 
-- Token in mourning [[1Kgs.20.31|1Ki 20:31]]-[[1Kgs.20.33|33]]; [[Job.36.8|Job 36:8]]
+- Token in mourning [[1Kgs.20.31|1Ki 20:31-33]]; [[Job.36.8|Job 36:8]]
 
 - Signifying an inheritance [[Josh.17.14|Jos 17:14]]
 

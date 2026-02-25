@@ -1,10 +1,63 @@
+---
+title: Romans 16:17
+type: Verse
+kjv: "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them."
+bsb: "Now I urge you, brothers, to watch out for those who create divisions and obstacles that are contrary to the teaching you have learned. Turn away from them."
+greek: "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, σκοπεῖν τοὺς τὰς διχοστασίας καὶ τὰ σκάνδαλα παρὰ τὴν διδαχὴν ἣν ὑμεῖς ἐμάθετε ποιοῦντας καὶ ἐκκλίνετε ἀπ᾽ αὐτῶν."
+pericope: "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ROME|ROME]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G4648]]"
+- "[[G3588]]"
+- "[[G1370]]"
+- "[[G2532]]"
+- "[[G4625]]"
+- "[[G3844]]"
+- "[[G1322]]"
+- "[[G3739]]"
+- "[[G3129]]"
+- "[[G4160G]]"
+- "[[G1578]]"
+- "[[G0575]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Romans 16:17**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.
 <small><sub>**BSB:**</sub></small>
 Now I urge you, brothers, to watch out for those who create divisions and obstacles that are contrary to the teaching you have learned. Turn away from them.
-<small><sub>**Literal:**</sub></small>
-I exhort now you, brothers, to watch out for those <the> divisions and <the> obstacles contrary to the teaching that you yourselves have learned causing and do turn away from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.16|<< Romans 16:16]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.18|Romans 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G4648\|σκοπεῖν]]  [[G3588\|τοὺς]]  [[G3588\|τὰς]]  [[G1370\|διχοστασίας]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4625\|σκάνδαλα]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G1322\|διδαχὴν]]  [[G3739\|ἣν]]  [[G4771\|ὑμεῖς]]  [[G3129\|ἐμάθετε]]  [[G4160G\|ποιοῦντας]]  [[G2532\|καὶ]]  [[G1578\|ἐκκλίνετε]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMPANY|COMPANY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ROME|ROME]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.16|<< Romans 16:16]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.18|Romans 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

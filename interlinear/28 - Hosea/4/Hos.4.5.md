@@ -1,8 +1,54 @@
+---
+title: Hosea 4:5
+type: Verse
+kjv: "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother."
+bsb: "You will stumble by day, and the prophet will stumble with you by night; so I will destroy your mother—"
+hebrew: "וְכָשַׁלְתָּ֣ הַיּ֔וֹם וְכָשַׁ֧ל גַּם־ נָבִ֛יא עִמְּךָ֖ לָ֑יְלָה וְדָמִ֖יתִי אִמֶּֽךָ׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3915]]"
+- "[[H1820]]"
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:5**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.
 <small><sub>**BSB:**</sub></small>
 You will stumble by day, and the prophet will stumble with you by night; so I will destroy your mother—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3782\|כָשַׁלְתָּ֣]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9001\|וְ]][[H3782\|כָשַׁ֧ל]] [[H1571\|גַּם]][[H9014\|־]] [[H5030\|נָבִ֛יא]] [[H5973A\|עִמְּ]][[H9031\|ךָ֖]] [[H3915\|לָ֑יְלָה]] [[H9001\|וְ]][[H1820\|דָמִ֖יתִי]] [[H0517\|אִמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.4|<< Hosea 4:4]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.6|Hosea 4:6 >>]]</td></tr></table>
 

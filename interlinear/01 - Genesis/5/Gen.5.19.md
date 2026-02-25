@@ -1,8 +1,60 @@
+---
+title: Genesis 5:19
+type: Verse
+kjv: "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+bsb: "And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters."
+hebrew: "וַֽיְחִי־ יֶ֗רֶד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ חֲנ֔וֹךְ שְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃"
+pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic JARED|JARED]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9014]]"
+- "[[H3382G]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H2585H]]"
+- "[[H8083]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:19**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִי]][[H9014\|־]] [[H3382G\|יֶ֗רֶד]] [[H0310A\|אַֽחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H2585H\|חֲנ֔וֹךְ]] [[H8083\|שְׁמֹנֶ֥ה]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENOCH|ENOCH]] • [[topic JARED|JARED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.18|<< Genesis 5:18]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.20|Genesis 5:20 >>]]</td></tr></table>
 

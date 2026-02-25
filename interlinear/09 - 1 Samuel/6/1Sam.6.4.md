@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 6:4
+type: Verse
+kjv: "Then said they, What shall be the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, according to the number of the lords of the Philistines: for one plague was on you all, and on your lords."
+bsb: "“What guilt offering should we send back to Him?” asked the Philistines. “Five gold tumors and five gold rats,” they said, “according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers."
+hebrew: "וַיֹּאמְר֗וּ מָ֣ה הָאָשָׁם֮ אֲשֶׁ֣ר נָשִׁ֣יב לוֹ֒ וַיֹּאמְר֗וּ מִסְפַּר֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים חֲמִשָּׁה֙ טְחֹרֵ֣י זָהָ֔ב וַחֲמִשָּׁ֖ה עַכְבְּרֵ֣י זָהָ֑ב כִּֽי־ מַגֵּפָ֥ה אַחַ֛ת לְכֻלָּ֖ם וּלְסַרְנֵיכֶֽם׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEMORRHOIDS|HEMORRHOIDS]]"
+- "[[topic LORD|LORD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUSE|MOUSE]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic TUMOR|TUMOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H0817]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4557]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H2568]]"
+- "[[H6076B]]"
+- "[[H2914]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H5909]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4046]]"
+- "[[H0259]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 6:4**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they, What [shall be] the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, [according to] the number of the lords of the Philistines: for one plague [was] on you all, and on your lords.
 <small><sub>**BSB:**</sub></small>
 “What guilt offering should we send back to Him?” asked the Philistines. “Five gold tumors and five gold rats,” they said, “according to the number of rulers of the Philistines, since the same plague has struck both you and your rulers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H4100\|מָ֣ה]] [[H9009\|הָ]][[H0817\|אָשָׁם֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H7725G\|נָשִׁ֣יב]] [[H9005\|ל]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H4557\|מִסְפַּר֙]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H2568\|חֲמִשָּׁה֙]] [[H2914\|טְחֹרֵ֣י]] [[H2091\|זָהָ֔ב]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H5909\|עַכְבְּרֵ֣י]] [[H2091\|זָהָ֑ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4046\|מַגֵּפָ֥ה]] [[H0259\|אַחַ֛ת]] [[H9005\|לְ]][[H3605\|כֻלָּ֖]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H5633A\|סַרְנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEMORRHOIDS|HEMORRHOIDS]] • [[topic LORD|LORD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUSE|MOUSE]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PLAGUE|PLAGUE]] • [[topic TUMOR|TUMOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.3|<< 1 Samuel 6:3]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.5|1 Samuel 6:5 >>]]</td></tr></table>
 

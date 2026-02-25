@@ -1,10 +1,72 @@
+---
+title: John 6:45
+type: Verse
+kjv: "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me."
+bsb: "It is written in the Prophets: ‘And they will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me—"
+jesus_said: "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me."
+greek: "ἔστιν γεγραμμένον ἐν τοῖς προφήταις· καὶ ἔσονται πάντες διδακτοὶ τοῦ θεοῦ. πᾶς οὖν ὁ ἀκούσας παρὰ τοῦ πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ·"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1510]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1318]]"
+- "[[G2316]]"
+- "[[G3767]]"
+- "[[G0191]]"
+- "[[G3844]]"
+- "[[G3962]]"
+- "[[G3129]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **John 6:45**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
 <small><sub>**BSB:**</sub></small>
 It is written in the Prophets: ‘And they will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me—
-<small><sub>**Literal:**</sub></small>
-It is written in the prophets: And they will be all taught <the> of God.’ Everyone therefore who having heard from the Father and having learned he comes to Me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.44|<< John 6:44]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.46|John 6:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔστιν]]  [[G1125\|γεγραμμένον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4396\|προφήταις·]]  [[G2532\|καὶ]]  [[G1510\|ἔσονται]]  [[G3956\|πάντες]]  [[G1318\|διδακτοὶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]  [[G3956\|πᾶς]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G0191\|ἀκούσας]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G3129\|μαθὼν]]  [[G2064\|ἔρχεται]]  [[G4314\|πρὸς]]  [[G1473\|ἐμέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.44|<< John 6:44]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.46|John 6:46 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 6:45** is...
 > $\quad$ referencing: [[LXX.Isa.54.13|Isa 54:13]]

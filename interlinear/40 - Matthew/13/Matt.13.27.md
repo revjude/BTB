@@ -1,10 +1,66 @@
+---
+title: Matthew 13:27
+type: Verse
+kjv: "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?"
+bsb: "The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’"
+jesus_said: "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?"
+greek: "προσελθόντες δὲ οἱ δοῦλοι τοῦ οἰκοδεσπότου εἶπον αὐτῷ· κύριε, οὐχὶ καλὸν σπέρμα ἔσπειρας ἐν τῷ σῷ ἀγρῷ; πόθεν οὖν ἔχει τὰ ζιζάνια;"
+pericope: "[[Matt.13.24 The Parable of the Weeds|The Parable of the Weeds]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic TARES|TARES]]"
+strongs:
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G3617]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2962H]]"
+- "[[G3780]]"
+- "[[G2570G]]"
+- "[[G4690H]]"
+- "[[G4687]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G0068G]]"
+- "[[G4159]]"
+- "[[G3767]]"
+- "[[G2192]]"
+- "[[G2215]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 13:27**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?
 <small><sub>**BSB:**</sub></small>
 The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’
-<small><sub>**Literal:**</sub></small>
-Having come to [him] now the servants of the master of the house said to him; Sir, surely good seed did you sow in <the> your field? How then has it the weeds?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.26|<< Matthew 13:26]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.28|Matthew 13:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσελθόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G3588\|τοῦ]]  [[G3617\|οἰκοδεσπότου]]  [[G2036\|εἶπον]]  [[G0846\|αὐτῷ·]]  [[G2962H\|κύριε,]]  [[G3780\|οὐχὶ]]  [[G2570G\|καλὸν]]  [[G4690H\|σπέρμα]]  [[G4687\|ἔσπειρας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4771\|σῷ]]  [[G0068G\|ἀγρῷ;]]  [[G4159\|πόθεν]]  [[G3767\|οὖν]]  [[G2192\|ἔχει]]  [[G3588\|τὰ]]  [[G2215\|ζιζάνια;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic TARES|TARES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.26|<< Matthew 13:26]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.28|Matthew 13:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

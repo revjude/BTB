@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 24:17
+type: Verse
+kjv: "Thou shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow’s raiment to pledge:"
+bsb: "Do not deny justice to the foreigner or the fatherless, and do not take a widow’s cloak as security."
+hebrew: "לֹ֣א תַטֶּ֔ה מִשְׁפַּ֖ט גֵּ֣ר יָת֑וֹם וְלֹ֣א תַחֲבֹ֔ל בֶּ֖גֶד אַלְמָנָֽה׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3808]]"
+- "[[H5186]]"
+- "[[H4941H]]"
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H2254A]]"
+- "[[H0899B]]"
+- "[[H0490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:17**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not pervert the judgment of the stranger, [nor] of the fatherless; nor take a widow’s raiment to pledge:
 <small><sub>**BSB:**</sub></small>
 Do not deny justice to the foreigner or the fatherless, and do not take a widow’s cloak as security.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H5186\|תַטֶּ֔ה]] [[H4941H\|מִשְׁפַּ֖ט]] [[H1616\|גֵּ֣ר]] [[H3490\|יָת֑וֹם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2254A\|תַחֲבֹ֔ל]] [[H0899B\|בֶּ֖גֶד]] [[H0490\|אַלְמָנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic CREDITOR|CREDITOR]] • [[topic INJUSTICE|INJUSTICE]] • [[topic LENDING|LENDING]] • [[topic ORPHAN|ORPHAN]] • [[topic PAWN|PAWN]] • [[topic POOR|POOR]] • [[topic STRANGERS|STRANGERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 1 Timothy 3:5
+type: Verse
+kjv: "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"
+bsb: "For if someone does not know how to manage his own household, how can he care for the church of God?"
+greek: "Εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν, πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται;"
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G3624H]]"
+- "[[G4291]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4459]]"
+- "[[G1577]]"
+- "[[G2316]]"
+- "[[G1959]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:5**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For if a man know not how to rule his own house, how shall he take care of the church of God?)
 <small><sub>**BSB:**</sub></small>
 For if someone does not know how to manage his own household, how can he care for the church of God?
-<small><sub>**Literal:**</sub></small>
-if but one <the> his [own] household to manage not knows, how [the] church of God will he care for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.4|<< 1 Timothy 3:4]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.6|1 Timothy 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G3624H\|οἴκου]]  [[G4291\|προστῆναι]]  [[G3756\|οὐκ]]  [[G6063\|οἶδεν,]]  [[G4459\|πῶς]]  [[G1577\|ἐκκλησίας]]  [[G2316\|θεοῦ]]  [[G1959\|ἐπιμελήσεται;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAMILY|FAMILY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.4|<< 1 Timothy 3:4]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.6|1 Timothy 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

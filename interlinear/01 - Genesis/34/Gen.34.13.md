@@ -1,8 +1,63 @@
+---
+title: Genesis 34:13
+type: Verse
+kjv: "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:"
+bsb: "But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully."
+hebrew: "וַיַּעֲנ֨וּ בְנֵֽי־ יַעֲקֹ֜ב אֶת־ שְׁכֶ֨ם וְאֶת־ חֲמ֥וֹר אָבִ֛יו בְּמִרְמָ֖ה וַיְדַבֵּ֑רוּ אֲשֶׁ֣ר טִמֵּ֔א אֵ֖ת דִּינָ֥ה אֲחֹתָֽם׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H7927H]]"
+- "[[H9002]]"
+- "[[H2544]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4820]]"
+- "[[H1696G]]"
+- "[[H0834A]]"
+- "[[H2930A]]"
+- "[[H1783]]"
+- "[[H0269]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:13**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
 <small><sub>**BSB:**</sub></small>
 But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעֲנ֨וּ]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H3290\|יַעֲקֹ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7927H\|שְׁכֶ֨ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2544\|חֲמ֥וֹר]] [[H0001G\|אָבִ֛י]][[H9023\|ו]] [[H9003\|בְּ]][[H4820\|מִרְמָ֖ה]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֑רוּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2930A\|טִמֵּ֔א]] [[H0853\|אֵ֖ת]] [[H1783\|דִּינָ֥ה]] [[H0269\|אֲחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.12|<< Genesis 34:12]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.14|Genesis 34:14 >>]]</td></tr></table>
 

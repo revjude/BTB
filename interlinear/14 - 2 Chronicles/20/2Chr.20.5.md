@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 20:5
+type: Verse
+kjv: "And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,"
+bsb: "Then Jehoshaphat stood in the assembly of Judah and Jerusalem in the house of the LORD in front of the new courtyard"
+hebrew: "וַיַּעֲמֹ֣ד יְהוֹשָׁפָ֗ט בִּקְהַ֧ל יְהוּדָ֛ה וִירוּשָׁלִַ֖ם בְּבֵ֣ית יְהוָ֑ה לִפְנֵ֖י הֶחָצֵ֥ר הַחֲדָשָֽׁה׃"
+pericope: "[[2Chr.20.5 Jehoshaphat’s Prayer|Jehoshaphat’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BATTLE|BATTLE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H3092I]]"
+- "[[H9003]]"
+- "[[H6951]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H2319H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:5**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,
 <small><sub>**BSB:**</sub></small>
 Then Jehoshaphat stood in the assembly of Judah and Jerusalem in the house of the LORD in front of the new courtyard
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H9003\|בִּ]][[H6951\|קְהַ֧ל]] [[H3063G\|יְהוּדָ֛ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H9009\|הֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H2319H\|חֲדָשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BATTLE|BATTLE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.4|<< 2 Chronicles 20:4]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.6|2 Chronicles 20:6 >>]]</td></tr></table>
 

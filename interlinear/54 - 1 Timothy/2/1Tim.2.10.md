@@ -1,10 +1,54 @@
+---
+title: 1 Timothy 2:10
+type: Verse
+kjv: "But (which becometh women professing godliness) with good works."
+bsb: "but with good deeds, as is proper for women who profess to worship God."
+greek: "ἀλλ᾽ ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις θεοσέβειαν, δι᾽ ἔργων ἀγαθῶν."
+pericope: "[[1Tim.2.9 Instructions to Women|Instructions to Women]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G4241]]"
+- "[[G1135G]]"
+- "[[G1861]]"
+- "[[G2317]]"
+- "[[G1223]]"
+- "[[G2041]]"
+- "[[G0018]]"
+texts:
+- NKO
+---
+
 **1 Timothy 2:10**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But (which becometh women professing godliness) with good works.
 <small><sub>**BSB:**</sub></small>
 but with good deeds, as is proper for women who profess to worship God.
-<small><sub>**Literal:**</sub></small>
-but with what is becoming to women professing [the] fear of God, through works good.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.9|<< 1 Timothy 2:9]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.11|1 Timothy 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3739\|ὃ]]  [[G4241\|πρέπει]]  [[G1135G\|γυναιξὶν]]  [[G1861\|ἐπαγγελλομέναις]]  [[G2317\|θεοσέβειαν,]]  [[G1223\|δι᾽]]  [[G2041\|ἔργων]]  [[G0018\|ἀγαθῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DRESS|DRESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WOMEN|WOMEN]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.9|<< 1 Timothy 2:9]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.11|1 Timothy 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Psalm 108:4
+type: Verse
+kjv: "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds."
+bsb: "For Your loving devotion extends beyond the heavens, and Your faithfulness reaches to the clouds."
+hebrew: "כִּֽי־ גָד֣וֹל מֵֽעַל־ שָׁמַ֣יִם חַסְדֶּ֑ךָ וְֽעַד־ שְׁחָקִ֥ים אֲמִתֶּֽךָ׃"
+pericope: "[[Ps.108.1 Israel’s Kingdom Blessing|Israel’s Kingdom Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 108
+book/chapter: "[[Ps.108|Psalm 108]]"
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H8064]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H7834]]"
+- "[[H0571G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 108:4**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy mercy [is] great above the heavens: and thy truth [reacheth] unto the clouds.
 <small><sub>**BSB:**</sub></small>
 For Your loving devotion extends beyond the heavens, and Your faithfulness reaches to the clouds.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גָד֣וֹל]] [[H9006\|מֵֽ]][[H5921A\|עַל]][[H9014\|־]] [[H8064\|שָׁמַ֣יִם]] [[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H9002\|וְֽ]][[H5704\|עַד]][[H9014\|־]] [[H7834\|שְׁחָקִ֥ים]] [[H0571G\|אֲמִתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.3|<< Psalms 108:3]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.5|Psalms 108:5 >>]]</td></tr></table>
 

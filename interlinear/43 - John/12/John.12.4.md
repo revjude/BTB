@@ -1,10 +1,63 @@
+---
+title: John 12:4
+type: Verse
+kjv: "Then saith one of his disciples, Judas Iscariot, Simon’s son, which should betray him,"
+bsb: "But one of His disciples, Judas Iscariot, who was going to betray Him, asked,"
+greek: "λέγει δὲ Ἰούδας Σίμωνος ὁ Ἰσκαριώτης εἷς ἐκ τῶν μαθητῶν αὐτοῦ, ὁ μέλλων αὐτὸν παραδιδόναι·"
+pericope: "[[John.12.1 Mary Anoints Jesus|Mary Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G2455H]]"
+- "[[G4613L]]"
+- "[[G3588]]"
+- "[[G2469]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3195]]"
+- "[[G3860]]"
+texts:
+- NKO
+- N(k)O
+- K
+- no
+---
+
 **John 12:4**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith one of his disciples, Judas Iscariot, Simon’s [son], which should betray him,
 <small><sub>**BSB:**</sub></small>
 But one of His disciples, Judas Iscariot, who was going to betray Him, asked,
-<small><sub>**Literal:**</sub></small>
-Says however Judas of Simon <the> Iscariot one of the disciples of Him, who is being about Him to betray;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.3|<< John 12:3]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.5|John 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G1161\|δὲ]]  [[G2455H\|Ἰούδας]]  [[G4613L\|Σίμωνος]]  [[G3588\|ὁ]]  [[G2469\|Ἰσκαριώτης]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ,]]  [[G3588\|ὁ]]  [[G3195\|μέλλων]]  [[G0846\|αὐτὸν]]  [[G3860\|παραδιδόναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OINTMENT|OINTMENT]] • [[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.3|<< John 12:3]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.5|John 12:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

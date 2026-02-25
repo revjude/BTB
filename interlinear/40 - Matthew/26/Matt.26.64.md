@@ -1,10 +1,70 @@
+---
+title: Matthew 26:64
+type: Verse
+kjv: "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+bsb: "“You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”"
+jesus_said: "Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+greek: "λέγει αὐτῷ ὁ Ἰησοῦς· σὺ εἶπας. πλὴν λέγω ὑμῖν· ἀπ᾽ ἄρτι ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου καθήμενον ἐκ δεξιῶν τῆς δυνάμεως καὶ ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ.¶"
+pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4771]]"
+- "[[G2036]]"
+- "[[G4133]]"
+- "[[G0575]]"
+- "[[G0737]]"
+- "[[G3700]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3507]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 26:64**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 <small><sub>**BSB:**</sub></small>
 “You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”
-<small><sub>**Literal:**</sub></small>
-Says to him <the> Jesus; You yourself have said. But I say to you; from now you will behold the Son <the> of Man sitting at [the] right hand <the> of Power and coming upon the clouds <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.63|<< Matthew 26:63]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.65|Matthew 26:65 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4771\|σὺ]]  [[G2036\|εἶπας.]]  [[G4133\|πλὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G0575\|ἀπ᾽]]  [[G0737\|ἄρτι]]  [[G3700\|ὄψεσθε]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2521\|καθήμενον]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3588\|τῆς]]  [[G1411\|δυνάμεως]]  [[G2532\|καὶ]]  [[G2064\|ἐρχόμενον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G3507\|νεφελῶν]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.63|<< Matthew 26:63]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.65|Matthew 26:65 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 26:64** is...
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]

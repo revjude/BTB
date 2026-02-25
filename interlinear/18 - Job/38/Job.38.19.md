@@ -1,8 +1,54 @@
+---
+title: Job 38:19
+type: Verse
+kjv: "Where is the way where light dwelleth? and as for darkness, where is the place thereof,"
+bsb: "Where is the way to the home of light? Do you know where darkness resides,"
+hebrew: "אֵי־ זֶ֣ה הַ֭דֶּרֶךְ יִשְׁכָּן־ א֑וֹר וְ֝חֹ֗שֶׁךְ אֵי־ זֶ֥ה מְקֹמֽוֹ׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0335]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1870J]]"
+- "[[H7931]]"
+- "[[H0216]]"
+- "[[H9002]]"
+- "[[H2822]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:19**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the way [where] light dwelleth? and [as for] darkness, where [is] the place thereof,
 <small><sub>**BSB:**</sub></small>
 Where is the way to the home of light? Do you know where darkness resides,
+<small><sub>**Hebrew:**</sub></small>
+[[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֣ה]] [[H9009\|הַ֭]][[H1870J\|דֶּרֶךְ]] [[H7931\|יִשְׁכָּן]][[H9014\|־]] [[H0216\|א֑וֹר]] [[H9002\|וְ֝]][[H2822\|חֹ֗שֶׁךְ]] [[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.18|<< Job 38:18]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.20|Job 38:20 >>]]</td></tr></table>
 

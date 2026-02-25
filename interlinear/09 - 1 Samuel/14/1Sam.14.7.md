@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 14:7
+type: Verse
+kjv: "And his armourbearer said unto him, Do all that is in thine heart: turn thee; behold, I am with thee according to thy heart."
+bsb: "His armor-bearer replied, “Do all that is in your heart. Go ahead; I am with you heart and soul.”"
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ נֹשֵׂ֣א כֵלָ֔יו עֲשֵׂ֖ה כָּל־ אֲשֶׁ֣ר בִּלְבָבֶ֑ךָ נְטֵ֣ה לָ֔ךְ הִנְנִ֥י עִמְּךָ֖ כִּלְבָבֶֽךָ׃ ס"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5375W]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H5186]]"
+- "[[H9032]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 14:7**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his armourbearer said unto him, Do all that [is] in thine heart: turn thee; behold, I [am] with thee according to thy heart.
 <small><sub>**BSB:**</sub></small>
 His armor-bearer replied, “Do all that is in your heart. Go ahead; I am with you heart and soul.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H5375W\|נֹשֵׂ֣א]] [[H3627\|כֵלָ֔י]][[H9023\|ו]] [[H6213A\|עֲשֵׂ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H3824\|לְבָבֶ֑]][[H9021\|ךָ]] [[H5186\|נְטֵ֣ה]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H5973A\|עִמְּ]][[H9031\|ךָ֖]] [[H9004\|כִּ]][[H3824\|לְבָבֶֽ]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic JONATHAN|JONATHAN]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.6|<< 1 Samuel 14:6]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.8|1 Samuel 14:8 >>]]</td></tr></table>
 
@@ -20,7 +77,7 @@ His armor-bearer replied, “Do all that is in your heart. Go ahead; I am with y
 | for \<the> yourself  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֥י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] with you  |**<big>&#8207;[[H5973A\|עִמְּ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| 'i.me.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to heart your  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3824\|לְבָבֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> l.va.Ve.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to heart your  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3824\|לְבָבֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> l.va.Ve.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.6|<< 1 Samuel 14:6]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.8|1 Samuel 14:8 >>]]</td></tr></table>
 
 

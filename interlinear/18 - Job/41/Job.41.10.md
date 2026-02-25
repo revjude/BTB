@@ -1,8 +1,55 @@
+---
+title: Job 41:10
+type: Verse
+kjv: "None is so fierce that dare stir him up: who then is able to stand before me?"
+bsb: "No one is so fierce as to rouse Leviathan. Then who is able to stand against Me?"
+hebrew: "לֹֽא־ אַ֭כְזָר כִּ֣י יְעוּרֶ֑נּוּ וּמִ֥י ה֝֗וּא לְפָנַ֥י יִתְיַצָּֽב׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0393]]"
+- "[[H3588A]]"
+- "[[H5782]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:10**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None [is so] fierce that dare stir him up: who then is able to stand before me?
 <small><sub>**BSB:**</sub></small>
 No one is so fierce as to rouse Leviathan. Then who is able to stand against Me?
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H0393\|אַ֭כְזָר]] [[H3588A\|כִּ֣י]] [[H5782\|יְעוּרֶ֑]][[H9033\|נּוּ]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H1931\|ה֝֗וּא]] [[H9005\|לְ]][[H6440G\|פָנַ֥]][[H9020\|י]] [[H3320\|יִתְיַצָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.9|<< Job 41:9]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.11|Job 41:11 >>]]</td></tr></table>
 

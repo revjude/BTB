@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Judges the Nations
+type: Pericope
 pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 3
 book/chapter: "[[Joel.3|Joel 3]]"
-genre:
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Joel.3.1]]"
 - "[[Joel.3.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Joel.3.16]]"
 ---
 
-[[Joel.3|Joel 3:1 - Joel 3:16]]
+<small>[[Joel.3|Joel 3:1-16]]</small>
 *The LORD Judges the Nations*
 
 [[Joel.3.1|1]] For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,

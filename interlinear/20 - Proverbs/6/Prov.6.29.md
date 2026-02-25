@@ -1,8 +1,57 @@
+---
+title: Proverbs 6:29
+type: Verse
+kjv: "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent."
+bsb: "So is he who sleeps with another man’s wife; no one who touches her will go unpunished."
+hebrew: "כֵּ֗ן הַ֭בָּא אֶל־ אֵ֣שֶׁת רֵעֵ֑הוּ לֹ֥א יִ֝נָּקֶ֗ה כָּֽל־ הַנֹּגֵ֥עַ בָּֽהּ׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H5352]]"
+- "[[H3605]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:29**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent.
 <small><sub>**BSB:**</sub></small>
 So is he who sleeps with another man’s wife; no one who touches her will go unpunished.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֗ן]] [[H9009\|הַ֭]][[H0935G\|בָּא]] [[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H3808\|לֹ֥א]] [[H5352\|יִ֝נָּקֶ֗ה]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H5060\|נֹּגֵ֥עַ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.28|<< Proverbs 6:28]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.30|Proverbs 6:30 >>]]</td></tr></table>
 

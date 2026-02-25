@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Murmuring and Plague
+type: Pericope
 pericope: "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 16
 book/chapter: "[[Num.16|Numbers 16]]"
-genre:
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.16.41]]"
 - "[[Num.16.42]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.16.50]]"
 ---
 
-[[Num.16|Numbers 16:41 - Numbers 16:50]]
+<small>[[Num.16|Numbers 16:41-50]]</small>
 *Murmuring and Plague*
 
 [[Num.16.41|41]] But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD.

@@ -1,8 +1,65 @@
+---
+title: Zechariah 12:3
+type: Verse
+kjv: "And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it."
+bsb: "On that day, when all the nations of the earth gather against her, I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured."
+hebrew: "וְהָיָ֣ה בַיּוֹם־ הַ֠הוּא אָשִׂ֨ים אֶת־ יְרוּשָׁלִַ֜ם אֶ֤בֶן מַֽעֲמָסָה֙ לְכָל־ הָ֣עַמִּ֔ים כָּל־ עֹמְסֶ֖יהָ שָׂר֣וֹט יִשָּׂרֵ֑טוּ וְנֶאֶסְפ֣וּ עָלֶ֔יהָ כֹּ֖ל גּוֹיֵ֥י הָאָֽרֶץ׃"
+pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H3389]]"
+- "[[H0068G]]"
+- "[[H4614]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H6006]]"
+- "[[H9034]]"
+- "[[H8295]]"
+- "[[H0622]]"
+- "[[H5921A]]"
+- "[[H1471A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:3**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.
 <small><sub>**BSB:**</sub></small>
 On that day, when all the nations of the earth gather against her, I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9003\|בַ]][[H3117G\|יּוֹם]][[H9014\|־]] [[H9009\|הַ֠]][[H1931\|הוּא]] [[H7760A\|אָשִׂ֨ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H0068G\|אֶ֤בֶן]] [[H4614\|מַֽעֲמָסָה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H3605\|כָּל]][[H9014\|־]] [[H6006\|עֹמְסֶ֖י]][[H9034\|הָ]] [[H8295\|שָׂר֣וֹט]] [[H8295\|יִשָּׂרֵ֑טוּ]] [[H9001\|וְ]][[H0622\|נֶאֶסְפ֣וּ]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H3605\|כֹּ֖ל]] [[H1471A\|גּוֹיֵ֥י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.2|<< Zechariah 12:2]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.4|Zechariah 12:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

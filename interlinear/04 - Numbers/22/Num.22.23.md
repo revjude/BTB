@@ -1,8 +1,74 @@
+---
+title: Numbers 22:23
+type: Verse
+kjv: "And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way."
+bsb: "When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path."
+hebrew: "וַתֵּ֣רֶא הָאָתוֹן֩ אֶת־ מַלְאַ֨ךְ יְהוָ֜ה נִצָּ֣ב בַּדֶּ֗רֶךְ וְחַרְבּ֤וֹ שְׁלוּפָה֙ בְּיָד֔וֹ וַתֵּ֤ט הָֽאָתוֹן֙ מִן־ הַדֶּ֔רֶךְ וַתֵּ֖לֶךְ בַּשָּׂדֶ֑ה וַיַּ֤ךְ בִּלְעָם֙ אֶת־ הָ֣אָת֔וֹן לְהַטֹּתָ֖הּ הַדָּֽרֶךְ׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0860]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H5324]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H8025]]"
+- "[[H3027H]]"
+- "[[H5186]]"
+- "[[H4480A]]"
+- "[[H1980G]]"
+- "[[H7704G]]"
+- "[[H5221]]"
+- "[[H1109A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:23**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.
 <small><sub>**BSB:**</sub></small>
 When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֣רֶא]] [[H9009\|הָ]][[H0860\|אָתוֹן֩]] [[H0853\|אֶת]][[H9014\|־]] [[H4397H\|מַלְאַ֨ךְ]] [[H3068G\|יְהוָ֜ה]] [[H5324\|נִצָּ֣ב]] [[H9003\|בַּ]][[H1870K\|דֶּ֗רֶךְ]] [[H9002\|וְ]][[H2719\|חַרְבּ֤]][[H9023\|וֹ]] [[H8025\|שְׁלוּפָה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5186\|תֵּ֤ט]] [[H9009\|הָֽ]][[H0860\|אָתוֹן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֔רֶךְ]] [[H9001\|וַ]][[H1980G\|תֵּ֖לֶךְ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֑ה]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H1109A\|בִּלְעָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0860\|אָת֔וֹן]] [[H9005\|לְ]][[H5186\|הַטֹּתָ֖]][[H9034\|הּ]] [[H9009\|הַ]][[H1870K\|דָּֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.22|<< Numbers 22:22]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.24|Numbers 22:24 >>]]</td></tr></table>
 

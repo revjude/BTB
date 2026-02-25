@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Rebellion in the Wilderness
+type: Pericope
 pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 20
 book/chapter: "[[Ezek.20|Ezekiel 20]]"
-genre:
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 17
 verses:
 - "[[Ezek.20.10]]"
 - "[[Ezek.20.11]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Ezek.20.26]]"
 ---
 
-[[Ezek.20|Ezekiel 20:10 - Ezekiel 20:26]]
+<small>[[Ezek.20|Ezekiel 20:10-26]]</small>
 *Israel’s Rebellion in the Wilderness*
 
 [[Ezek.20.10|10]] Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.

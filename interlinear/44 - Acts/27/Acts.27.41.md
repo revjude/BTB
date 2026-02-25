@@ -1,10 +1,60 @@
+---
+title: Acts 27:41
+type: Verse
+kjv: "And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves."
+bsb: "But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was being broken up by the pounding of the waves."
+greek: "περιπεσόντες δὲ εἰς τόπον διθάλασσον ἐπέκειλαν τὴν ναῦν· καὶ ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος, ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας τῶν κυμάτων."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G4045]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G1337]]"
+- "[[G2027]]"
+- "[[G3588]]"
+- "[[G3491]]"
+- "[[G2532]]"
+- "[[G3303]]"
+- "[[G4408]]"
+- "[[G2043]]"
+- "[[G3306]]"
+- "[[G0761]]"
+- "[[G4403]]"
+- "[[G3089]]"
+- "[[G5259G]]"
+- "[[G0970]]"
+- "[[G2949]]"
+texts:
+- NKO
+---
+
 **Acts 27:41**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves.
 <small><sub>**BSB:**</sub></small>
 But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was being broken up by the pounding of the waves.
-<small><sub>**Literal:**</sub></small>
-Having fallen however into a place between two seas they ran aground the vessel; and the indeed bow having stuck fast it remained immovable, <the> however the stern was being broken up by the violence of the waves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.40|<< Acts 27:40]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.42|Acts 27:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4045\|περιπεσόντες]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G5117\|τόπον]]  [[G1337\|διθάλασσον]]  [[G2027\|ἐπέκειλαν]]  [[G3588\|τὴν]]  [[G3491\|ναῦν·]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3303\|μὲν]]  [[G4408\|πρῷρα]]  [[G2043\|ἐρείσασα]]  [[G3306\|ἔμεινεν]]  [[G0761\|ἀσάλευτος,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G4403\|πρύμνα]]  [[G3089\|ἐλύετο]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G0970\|βίας]]  [[G3588\|τῶν]]  [[G2949\|κυμάτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.40|<< Acts 27:40]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.42|Acts 27:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

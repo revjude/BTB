@@ -1,10 +1,59 @@
+---
+title: Acts 16:35
+type: Verse
+kjv: "And when it was day, the magistrates sent the serjeants, saying, Let those men go."
+bsb: "When daylight came, the magistrates sent their officers with the order: “Release those men.”"
+greek: "Ἡμέρας δὲ γενομένης ἀπέστειλαν οἱ στρατηγοὶ τοὺς ῥαβδούχους λέγοντες· ἀπόλυσον τοὺς ἀνθρώπους ἐκείνους."
+pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERGEANT|SERGEANT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2250]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G4755]]"
+- "[[G4465]]"
+- "[[G3004G]]"
+- "[[G0630G]]"
+- "[[G0444]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Acts 16:35**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was day, the magistrates sent the serjeants, saying, Let those men go.
 <small><sub>**BSB:**</sub></small>
 When daylight came, the magistrates sent their officers with the order: “Release those men.”
-<small><sub>**Literal:**</sub></small>
-When day then having come sent the magistrates the officers saying; do release the men those.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.34|<< Acts 16:34]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.36|Acts 16:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2250\|Ἡμέρας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G0649\|ἀπέστειλαν]]  [[G3588\|οἱ]]  [[G4755\|στρατηγοὶ]]  [[G3588\|τοὺς]]  [[G4465\|ῥαβδούχους]]  [[G3004G\|λέγοντες·]]  [[G0630G\|ἀπόλυσον]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G1565\|ἐκείνους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERGEANT|SERGEANT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.34|<< Acts 16:34]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.36|Acts 16:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

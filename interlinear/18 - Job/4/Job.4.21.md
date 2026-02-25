@@ -1,8 +1,59 @@
+---
+title: Job 4:21
+type: Verse
+kjv: "Doth not their excellency which is in them go away? they die, even without wisdom."
+bsb: "Are not their tent cords pulled up, so that they die without wisdom?’"
+hebrew: "הֲלֹא־ נִסַּ֣ע יִתְרָ֣ם בָּ֑ם יָ֝מ֗וּתוּ וְלֹ֣א בְחָכְמָֽה׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5265]]"
+- "[[H3499B]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:21**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth not their excellency [which is] in them go away? they die, even without wisdom.
 <small><sub>**BSB:**</sub></small>
 Are not their tent cords pulled up, so that they die without wisdom?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H5265\|נִסַּ֣ע]] [[H3499B\|יִתְרָ֣]][[H9028\|ם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H4191\|יָ֝מ֗וּתוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.20|<< Job 4:20]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.1|Job 5:1 >>]]</td></tr></table>
 

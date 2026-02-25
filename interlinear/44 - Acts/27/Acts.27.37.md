@@ -1,10 +1,55 @@
+---
+title: Acts 27:37
+type: Verse
+kjv: "And we were in all in the ship two hundred threescore and sixteen souls."
+bsb: "In all, there were 276 of us on board."
+greek: "ἤμεθα δὲ αἱ πᾶσαι ψυχαὶ ἐν τῷ πλοίῳ διακόσιαι ἑβδομήκοντα ἕξ."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G5590J]]"
+- "[[G1722]]"
+- "[[G4143]]"
+- "[[G1250]]"
+- "[[G1440]]"
+- "[[G1803]]"
+texts:
+- N(k)O
+- NKO
+- NK(O)
+---
+
 **Acts 27:37**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we were in all in the ship two hundred threescore and sixteen souls.
 <small><sub>**BSB:**</sub></small>
 In all, there were 276 of us on board.
-<small><sub>**Literal:**</sub></small>
-we were then the altogether souls in the boat two hundred seventy six.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.36|<< Acts 27:36]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.38|Acts 27:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἤμεθα]]  [[G1161\|δὲ]]  [[G3588\|αἱ]]  [[G3956\|πᾶσαι]]  [[G5590J\|ψυχαὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4143\|πλοίῳ]]  [[G1250\|διακόσιαι]]  [[G1440\|ἑβδομήκοντα]]  [[G1803\|ἕξ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.36|<< Acts 27:36]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.38|Acts 27:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

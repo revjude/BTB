@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab’s Defeat and Death
+type: Pericope
 pericope: "[[2Chr.18.28 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 18
 book/chapter: "[[2Chr.18|2 Chronicles 18]]"
-genre:
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.18.28]]"
 - "[[2Chr.18.29]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.18.34]]"
 ---
 
-[[2Chr.18|2 Chronicles 18:28 - 2 Chronicles 18:34]]
+<small>[[2Chr.18|2 Chronicles 18:28-34]]</small>
 *Ahab’s Defeat and Death*
 
 [[2Chr.18.28|28]] So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead.

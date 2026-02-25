@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wanderings in the Wilderness
+type: Pericope
 pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 2
 book/chapter: "[[Deut.2|Deuteronomy 2]]"
-genre:
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 23
 verses:
 - "[[Deut.2.1]]"
 - "[[Deut.2.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Deut.2.23]]"
 ---
 
-[[Deut.2|Deuteronomy 2:1 - Deuteronomy 2:23]]
+<small>[[Deut.2|Deuteronomy 2:1-23]]</small>
 *Wanderings in the Wilderness*
 
 [[Deut.2.1|1]] Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.

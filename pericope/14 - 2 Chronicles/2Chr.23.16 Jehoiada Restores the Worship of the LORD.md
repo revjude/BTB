@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiada Restores the Worship of the LORD
+type: Pericope
 pericope: "[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 23
 book/chapter: "[[2Chr.23|2 Chronicles 23]]"
-genre:
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.23.16]]"
 - "[[2Chr.23.17]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.23.21]]"
 ---
 
-[[2Chr.23|2 Chronicles 23:16 - 2 Chronicles 23:21]]
+<small>[[2Chr.23|2 Chronicles 23:16-21]]</small>
 *Jehoiada Restores the Worship of the LORD*
 
 [[2Chr.23.16|16]] And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’S people.

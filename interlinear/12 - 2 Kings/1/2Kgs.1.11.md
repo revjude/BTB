@@ -1,8 +1,67 @@
+---
+title: 2 Kings 1:11
+type: Verse
+kjv: "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly."
+bsb: "So the king sent to Elijah another captain with his fifty men. And the captain said to Elijah, “Man of God, the king declares, ‘Come down at once!’”"
+hebrew: "וַיָּ֜שָׁב וַיִּשְׁלַ֥ח אֵלָ֛יו שַׂר־ חֲמִשִּׁ֥ים אַחֵ֖ר וַחֲמִשָּׁ֑יו וַיַּ֙עַן֙ וַיְדַבֵּ֣ר אֵלָ֔יו אִ֚ישׁ הָאֱלֹהִ֔ים כֹּֽה־ אָמַ֥ר הַמֶּ֖לֶךְ מְהֵרָ֥ה רֵֽדָה׃"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H2572]]"
+- "[[H0312]]"
+- "[[H9002]]"
+- "[[H9023]]"
+- "[[H6030B]]"
+- "[[H1696G]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H4120]]"
+- "[[H3381]]"
+- "[[H9012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 1:11**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly.
 <small><sub>**BSB:**</sub></small>
 So the king sent to Elijah another captain with his fifty men. And the captain said to Elijah, “Man of God, the king declares, ‘Come down at once!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725J\|יָּ֜שָׁב]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H8269\|שַׂר]][[H9014\|־]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0312\|אַחֵ֖ר]] [[H9002\|וַ]][[H2572\|חֲמִשָּׁ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6030B\|יַּ֙עַן֙]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0376G\|אִ֚ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4120\|מְהֵרָ֥ה]] [[H3381\|רֵֽדָ]][[H9012\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic FIRE|FIRE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.10|<< 2 Kings 1:10]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.12|2 Kings 1:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,82 @@
+---
+title: Judges 4:6
+type: Verse
+kjv: "And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?"
+bsb: "She summoned Barak son of Abinoam from Kedesh in Naphtali and said to him, “Surely the LORD, the God of Israel, is commanding you: ‘Go and march to Mount Tabor, taking with you ten thousand men of Naphtali and Zebulun."
+hebrew: "וַתִּשְׁלַ֗ח וַתִּקְרָא֙ לְבָרָ֣ק בֶּן־ אֲבִינֹ֔עַם מִקֶּ֖דֶשׁ נַפְתָּלִ֑י וַתֹּ֨אמֶר אֵלָ֜יו הֲלֹ֥א צִוָּ֣ה׀ יְהוָ֣ה אֱלֹהֵֽי־ יִשְׂרָאֵ֗ל לֵ֤ךְ וּמָֽשַׁכְתָּ֙ בְּהַ֣ר תָּב֔וֹר וְלָקַחְתָּ֣ עִמְּךָ֗ עֲשֶׂ֤רֶת אֲלָפִים֙ אִ֔ישׁ מִבְּנֵ֥י נַפְתָּלִ֖י וּמִבְּנֵ֥י זְבֻלֽוּן׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABINOAM|ABINOAM]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic KEDESH|KEDESH]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic TABOR|TABOR]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H1301]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0042]]"
+- "[[H9006]]"
+- "[[H6943J]]"
+- "[[H5321H]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H6680]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H4900]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H8396G]]"
+- "[[H3947G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H1121G]]"
+- "[[H9002]]"
+- "[[H2074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:6**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, [saying], Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
 <small><sub>**BSB:**</sub></small>
 She summoned Barak son of Abinoam from Kedesh in Naphtali and said to him, “Surely the LORD, the God of Israel, is commanding you: ‘Go and march to Mount Tabor, taking with you ten thousand men of Naphtali and Zebulun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|תִּשְׁלַ֗ח]] [[H9001\|וַ]][[H7121G\|תִּקְרָא֙]] [[H9005\|לְ]][[H1301\|בָרָ֣ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0042\|אֲבִינֹ֔עַם]] [[H9006\|מִ]][[H6943J\|קֶּ֖דֶשׁ]] [[H5321H\|נַפְתָּלִ֑י]] [[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H6680\|צִוָּ֣ה]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H1980G\|לֵ֤ךְ]] [[H9001\|וּ]][[H4900\|מָֽשַׁכְתָּ֙]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H8396G\|תָּב֔וֹר]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H5973A\|עִמְּ]][[H9031\|ךָ֗]] [[H6235\|עֲשֶׂ֤רֶת]] [[H0505G\|אֲלָפִים֙]] [[H0376G\|אִ֔ישׁ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H5321H\|נַפְתָּלִ֖י]] [[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H2074\|זְבֻלֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINOAM|ABINOAM]] • [[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic KEDESH|KEDESH]] • [[topic NAPHTALI|NAPHTALI]] • [[topic TABOR|TABOR]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.5|<< Judges 4:5]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.7|Judges 4:7 >>]]</td></tr></table>
 

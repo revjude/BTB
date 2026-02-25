@@ -7,7 +7,7 @@
 
 - Captain of the host of Issachar [[Num.2.5|Nu 2:5]]; [[Num.10.15|10:15]]
 
-- Liberality of, for the tabernacle [[Num.7.18|Nu 7:18]]-[[Num.7.23|23]]
+- Liberality of, for the tabernacle [[Num.7.18|Nu 7:18-23]]
 
 2. A priest and doorkeeper for the ark of the covenant [[1Chr.15.24|1Ch 15:24]]
 

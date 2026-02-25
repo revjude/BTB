@@ -1,10 +1,61 @@
+---
+title: Mark 7:31
+type: Verse
+kjv: "And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis."
+bsb: "Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee and into the region of the Decapolis."
+greek: "Καὶ πάλιν ἐξελθὼν ἐκ τῶν ὁρίων Τύρου ἦλθεν διὰ Σιδῶνος εἰς τὴν θάλασσαν τῆς Γαλιλαίας ἀνὰ μέσον τῶν ὁρίων Δεκαπόλεως."
+pericope: "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DECAPOLIS|DECAPOLIS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G5184]]"
+- "[[G2064]]"
+- "[[G1223]]"
+- "[[G4605]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G1056H]]"
+- "[[G0303]]"
+- "[[G3319]]"
+- "[[G1179]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 7:31**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.
 <small><sub>**BSB:**</sub></small>
 Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee and into the region of the Decapolis.
-<small><sub>**Literal:**</sub></small>
-And again having departed from the region of Tyre He came through Sidon to the Sea <the> of Galilee through [the] midst of the region of [the] Decapolis.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.30|<< Mark 7:30]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.32|Mark 7:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3825\|πάλιν]]  [[G1831\|ἐξελθὼν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3725\|ὁρίων]]  [[G5184\|Τύρου]]  [[G2064\|ἦλθεν]]  [[G1223\|διὰ]]  [[G4605\|Σιδῶνος]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G3588\|τῆς]]  [[G1056H\|Γαλιλαίας]]  [[G0303\|ἀνὰ]]  [[G3319\|μέσον]]  [[G3588\|τῶν]]  [[G3725\|ὁρίων]]  [[G1179\|Δεκαπόλεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECAPOLIS|DECAPOLIS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.30|<< Mark 7:30]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.32|Mark 7:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

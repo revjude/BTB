@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 7:13
+type: Verse
+kjv: "Consider the work of God: for who can make that straight, which he hath made crooked?"
+bsb: "Consider the work of God: Who can straighten what He has bent?"
+hebrew: "רְאֵ֖ה אֶת־ מַעֲשֵׂ֣ה הָאֱלֹהִ֑ים כִּ֣י מִ֤י יוּכַל֙ לְתַקֵּ֔ן אֵ֖ת אֲשֶׁ֥ר עִוְּתֽוֹ׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7200H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4639G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H8626]]"
+- "[[H0834A]]"
+- "[[H5791]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:13**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider the work of God: for who can make [that] straight, which he hath made crooked?
 <small><sub>**BSB:**</sub></small>
 Consider the work of God: Who can straighten what He has bent?
+<small><sub>**Hebrew:**</sub></small>
+[[H7200H\|רְאֵ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H3588A\|כִּ֣י]] [[H4310\|מִ֤י]] [[H3201\|יוּכַל֙]] [[H9005\|לְ]][[H8626\|תַקֵּ֔ן]] [[H0853\|אֵ֖ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H5791\|עִוְּתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.12|<< Ecclesiastes 7:12]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.14|Ecclesiastes 7:14 >>]]</td></tr></table>
 

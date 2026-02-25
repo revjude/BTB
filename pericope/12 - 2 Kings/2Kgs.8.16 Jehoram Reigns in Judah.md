@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoram Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 8
 book/chapter: "[[2Kgs.8|2 Kings 8]]"
-genre:
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.8.16]]"
 - "[[2Kgs.8.17]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.8.19]]"
 ---
 
-[[2Kgs.8|2 Kings 8:16 - 2 Kings 8:19]]
+<small>[[2Kgs.8|2 Kings 8:16-19]]</small>
 *Jehoram Reigns in Judah*
 
 [[2Kgs.8.16|16]] And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat \[being\] then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.

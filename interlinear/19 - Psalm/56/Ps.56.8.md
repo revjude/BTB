@@ -1,8 +1,62 @@
+---
+title: Psalm 56:8
+type: Verse
+kjv: "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+bsb: "You have taken account of my wanderings. Put my tears in Your bottle—are they not in Your book?"
+hebrew: "נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ׃"
+pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOOK|BOOK]]"
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LACHRYMATORY (TEAR BOTTLE)|LACHRYMATORY (TEAR BOTTLE)]]"
+- "[[topic TEARS|TEARS]]"
+strongs:
+- "[[H5112]]"
+- "[[H9020]]"
+- "[[H5608A]]"
+- "[[H0859A]]"
+- "[[H7760H]]"
+- "[[H9012]]"
+- "[[H1832]]"
+- "[[H9003]]"
+- "[[H4997]]"
+- "[[H9021]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5612B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 56:8**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou tellest my wanderings: put thou my tears into thy bottle: [are they] not in thy book?
 <small><sub>**BSB:**</sub></small>
 You have taken account of my wanderings. Put my tears in Your bottle—are they not in Your book?
+<small><sub>**Hebrew:**</sub></small>
+[[H5112\|נֹדִ]][[H9020\|י֮]] [[H5608A\|סָפַ֪רְתָּ֫ה]] [[H0859A\|אָ֥תָּה]] [[H7760H\|שִׂ֣ימָ]][[H9012\|ה]] [[H1832\|דִמְעָתִ֣]][[H9020\|י]] [[H9003\|בְ]][[H4997\|נֹאדֶ֑]][[H9021\|ךָ]] [[H9008\|הֲ֝]][[H3808\|לֹ֗א]] [[H9003\|בְּ]][[H5612B\|סִפְרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOOK|BOOK]] • [[topic BOTTLE|BOTTLE]] • [[topic FAITH|FAITH]] • [[topic LACHRYMATORY (TEAR BOTTLE)|LACHRYMATORY (TEAR BOTTLE)]] • [[topic TEARS|TEARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.7|<< Psalms 56:7]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.9|Psalms 56:9 >>]]</td></tr></table>
 

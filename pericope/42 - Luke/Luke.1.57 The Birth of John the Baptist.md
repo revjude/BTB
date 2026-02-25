@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of John the Baptist
+type: Pericope
 pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.1.57]]"
 - "[[Luke.1.58]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.1.66]]"
 ---
 
-[[Luke.1|Luke 1:57 - Luke 1:66]]
+<small>[[Luke.1|Luke 1:57-66]]</small>
 *The Birth of John the Baptist*
 
 [[Luke.1.57|57]] Now Elisabeth’s full time came that she should be delivered; and she brought forth a son.

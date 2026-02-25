@@ -1,8 +1,67 @@
+---
+title: Genesis 32:29
+type: Verse
+kjv: "And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there."
+bsb: "And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there."
+hebrew: "וַיִּשְׁאַ֣ל יַעֲקֹ֗ב וַיֹּ֙אמֶר֙ הַגִּֽידָה־ נָּ֣א שְׁמֶ֔ךָ וַיֹּ֕אמֶר לָ֥מָּה זֶּ֖ה תִּשְׁאַ֣ל לִשְׁמִ֑י וַיְבָ֥רֶךְ אֹת֖וֹ שָֽׁם׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H3290]]"
+- "[[H0559]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H9020]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:29**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob asked [him], and said, Tell [me], I pray thee, thy name. And he said, Wherefore [is] it [that] thou dost ask after my name? And he blessed him there.
 <small><sub>**BSB:**</sub></small>
 And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֣ל]] [[H3290\|יַעֲקֹ֗ב]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H5046\|הַגִּֽידָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H8034\|שְׁמֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H2088\|זֶּ֖ה]] [[H7592\|תִּשְׁאַ֣ל]] [[H9005\|לִ]][[H8034\|שְׁמִ֑]][[H9020\|י]] [[H9001\|וַ]][[H1288\|יְבָ֥רֶךְ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic REGENERATION|REGENERATION]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.28|<< Genesis 32:28]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.30|Genesis 32:30 >>]]</td></tr></table>
 

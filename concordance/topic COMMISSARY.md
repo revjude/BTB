@@ -5,5 +5,5 @@
 
 → See [[topic ARMIES|ARMIES]]
 
-→ For royal households [[1Kgs.4.7|1Ki 4:7]]-[[1Kgs.4.19|19]],[[1Kgs.4.27|27]],[[1Kgs.4.28|28]]
+→ For royal households [[1Kgs.4.7|1Ki 4:7-19]],[[1Kgs.4.27|27]],[[1Kgs.4.28|28]]
 

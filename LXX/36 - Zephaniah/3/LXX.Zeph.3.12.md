@@ -1,6 +1,53 @@
+---
+title: LXX Zephaniah 3:12
+type: Verse
+lxx: "And I will leave behind among you a gentle people, and humble; and they shall show reverence at the name of the lord --"
+greek: "και υπολείψομαι εν σοι λαόν πραϋν και ταπεινόν και ευλαβηθήσονται από του ονόματος κυρίου"
+original_language: Greek
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G5275]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2992]]"
+- "[[G4239]]"
+- "[[G2532]]"
+- "[[G5011]]"
+- "[[G2532]]"
+- "[[G2125]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962]]"
+---
+
 **LXX Zephaniah 3:12** 
 <small><sub>**LXX:**</sub></small>
 And I will leave behind among you a gentle people, and humble; and they shall show reverence at the name of \[the\] <span class="smallcaps">lord</span> -- 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5275\|υπολείψομαι]] [[G1722\|εν]] [[G1473\|σοι]] [[G2992\|λαόν]] [[G4239\|πραϋν]] [[G2532\|και]] [[G5011\|ταπεινόν]] [[G2532\|και]] [[G2125\|ευλαβηθήσονται]] [[G0575\|από]] [[G3588\|του]] [[G3686\|ονόματος]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic HUMILITY|HUMILITY]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic POOR|POOR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zeph.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.11|<< Zephaniah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.13|Zephaniah 3:13 >>]]</td></tr></table>
 
@@ -20,6 +67,6 @@ And I will leave behind among you a gentle people, and humble; and they shall sh
 | the | **<big>[[G3588\|του]]</big>** |
 | name | **<big>[[G3686\|ονόματος]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span> -- | **<big>[[G2962\|κυρίου]]</big>** |
-[[Zeph.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.11|<< Zephaniah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.13|Zephaniah 3:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.11|<< Zephaniah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.13|Zephaniah 3:13 >>]]</td></tr></table>
 
 

@@ -1,8 +1,68 @@
+---
+title: Isaiah 18:5
+type: Verse
+kjv: "For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches."
+bsb: "For before the harvest, when the blossom is gone and the flower becomes a ripening grape, He will cut off the shoots with a pruning knife and remove and discard the branches."
+hebrew: "כִּֽי־ לִפְנֵ֤י קָצִיר֙ כְּתָם־ פֶּ֔רַח וּבֹ֥סֶר גֹּמֵ֖ל יִֽהְיֶ֣ה נִצָּ֑ה וְכָרַ֤ת הַזַּלְזַלִּים֙ בַּמַּזְמֵר֔וֹת וְאֶת־ הַנְּטִישׁ֖וֹת הֵסִ֥יר הֵתַֽז׃"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic PRUNING|PRUNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7105A]]"
+- "[[H9004]]"
+- "[[H8552]]"
+- "[[H6525]]"
+- "[[H9002]]"
+- "[[H1155]]"
+- "[[H1580]]"
+- "[[H1961]]"
+- "[[H5328]]"
+- "[[H9001]]"
+- "[[H3772G]]"
+- "[[H9009]]"
+- "[[H2150]]"
+- "[[H9003]]"
+- "[[H4211]]"
+- "[[H0853]]"
+- "[[H5189]]"
+- "[[H5493G]]"
+- "[[H8456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 18:5**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away [and] cut down the branches.
 <small><sub>**BSB:**</sub></small>
 For before the harvest, when the blossom is gone and the flower becomes a ripening grape, He will cut off the shoots with a pruning knife and remove and discard the branches.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H7105A\|קָצִיר֙]] [[H9004\|כְּ]][[H8552\|תָם]][[H9014\|־]] [[H6525\|פֶּ֔רַח]] [[H9002\|וּ]][[H1155\|בֹ֥סֶר]] [[H1580\|גֹּמֵ֖ל]] [[H1961\|יִֽהְיֶ֣ה]] [[H5328\|נִצָּ֑ה]] [[H9001\|וְ]][[H3772G\|כָרַ֤ת]] [[H9009\|הַ]][[H2150\|זַּלְזַלִּים֙]] [[H9003\|בַּ]][[H4211\|מַּזְמֵר֔וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5189\|נְּטִישׁ֖וֹת]] [[H5493G\|הֵסִ֥יר]] [[H8456\|הֵתַֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic HOOKS|HOOKS]] • [[topic PRUNING|PRUNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.4|<< Isaiah 18:4]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.6|Isaiah 18:6 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals the Blind and Mute
+type: Pericope
 pericope: "[[Matt.9.27 Jesus Heals the Blind and Mute|Jesus Heals the Blind and Mute]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 9
 book/chapter: "[[Matt.9|Matthew 9]]"
-genre:
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.9.27]]"
 - "[[Matt.9.28]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.9.34]]"
 ---
 
-[[Matt.9|Matthew 9:27 - Matthew 9:34]]
+<small>[[Matt.9|Matthew 9:27-34]]</small>
 *Jesus Heals the Blind and Mute*
 
 [[Matt.9.27|27]] And when Jesus departed thence, two blind men followed him, crying, and saying, \[Thou\] Son of David, have mercy on us.

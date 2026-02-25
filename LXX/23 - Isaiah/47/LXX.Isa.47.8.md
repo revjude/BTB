@@ -1,6 +1,67 @@
+---
+title: LXX Isaiah 47:8
+type: Verse
+lxx: "But now hear these things! O delicate one, O one sitting down,  O one yielding. O one saying in  her heart, I am, and there is not another; I shall not sit as a widow, nor shall I know bereavement."
+greek: "νυν δε άκουε ταύτα τρυφερά η καθημένη η πεποιθύια η λέγουσα εν τη καρδία αυτής εγώ ειμι και ουκ έστιν ετέρα ου καθίσω χήρα ουδέ γνώσομαι ορφανίαν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G3778]]"
+- "[[G9510]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G3588]]"
+- "[[G3982]]"
+- "[[G3588]]"
+- "[[G3004]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2087]]"
+- "[[G3756]]"
+- "[[G2523]]"
+- "[[G5503]]"
+- "[[G3761]]"
+- "[[G1097]]"
+- "[[G8558]]"
+---
+
 **LXX Isaiah 47:8** 
 <small><sub>**LXX:**</sub></small>
 But now hear these \[things\]! O delicate one, O one sitting down,  O one yielding. O one saying in  her heart, I am, and there is not another; I shall not sit as a widow, nor shall I know bereavement. 
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νυν]] [[G1161\|δε]] [[G0191\|άκουε]] [[G3778\|ταύτα]] [[G9510\|τρυφερά]] [[G3588\|η]] [[G2521\|καθημένη]] [[G3588\|η]] [[G3982\|πεποιθύια]] [[G3588\|η]] [[G3004\|λέγουσα]] [[G1722\|εν]] [[G3588\|τη]] [[G2588\|καρδία]] [[G1473\|αυτής]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G2087\|ετέρα]] [[G3756\|ου]] [[G2523\|καθίσω]] [[G5503\|χήρα]] [[G3761\|ουδέ]] [[G1097\|γνώσομαι]] [[G8558\|ορφανίαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic PLEASURE|PLEASURE]] • [[topic PRIDE|PRIDE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
 
@@ -30,6 +91,6 @@ But now hear these \[things\]! O delicate one, O one sitting down,  O one yieldi
 | nor | **<big>[[G3761\|ουδέ]]</big>** |
 | shall I know | **<big>[[G1097\|γνώσομαι]]</big>** |
 | bereavement. | **<big>[[G8558\|ορφανίαν]]</big>** |
-[[Isa.47.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
 
 

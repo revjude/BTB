@@ -1,8 +1,63 @@
+---
+title: Leviticus 9:13
+type: Verse
+kjv: "And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt them upon the altar."
+bsb: "They brought him the burnt offering piece by piece, including the head, and he burned them on the altar."
+hebrew: "וְאֶת־ הָעֹלָ֗ה הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ וְאֶת־ הָרֹ֑אשׁ וַיַּקְטֵ֖ר עַל־ הַמִּזְבֵּֽחַ׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H4672]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5409]]"
+- "[[H9024]]"
+- "[[H7218A]]"
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:13**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt [them] upon the altar.
 <small><sub>**BSB:**</sub></small>
 They brought him the burnt offering piece by piece, including the head, and he burned them on the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֗ה]] [[H4672\|הִמְצִ֧יאוּ]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H9005\|לִ]][[H5409\|נְתָחֶ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7218A\|רֹ֑אשׁ]] [[H9001\|וַ]][[H6999A\|יַּקְטֵ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.12|<< Leviticus 9:12]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.14|Leviticus 9:14 >>]]</td></tr></table>
 

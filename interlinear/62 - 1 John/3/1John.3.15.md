@@ -1,10 +1,65 @@
+---
+title: 1 John 3:15
+type: Verse
+kjv: "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him."
+bsb: "Everyone who hates his brother is a murderer, and you know that eternal life does not reside in a murderer."
+greek: "πᾶς ὁ μισῶν τὸν ἀδελφὸν αὐτοῦ ἀνθρωποκτόνος ἐστίν· καὶ οἴδατε ὅτι πᾶς ἀνθρωποκτόνος οὐκ ἔχει ζωὴν αἰώνιον ἐν αὐτῷ μένουσαν."
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3404]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G0443]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1722]]"
+- "[[G3306]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 John 3:15**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.
 <small><sub>**BSB:**</sub></small>
 Everyone who hates his brother is a murderer, and you know that eternal life does not reside in a murderer.
-<small><sub>**Literal:**</sub></small>
-Everyone who is hating the brother of him a murderer is; and you know that any murderer not has life eternal in him abiding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.14|<< 1 John 3:14]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.16|1 John 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G3404\|μισῶν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G0443\|ἀνθρωποκτόνος]]  [[G1510\|ἐστίν·]]  [[G2532\|καὶ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G0443\|ἀνθρωποκτόνος]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3306\|μένουσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HATRED|HATRED]] • [[topic HOMICIDE|HOMICIDE]] • [[topic LIFE|LIFE]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.14|<< 1 John 3:14]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.16|1 John 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

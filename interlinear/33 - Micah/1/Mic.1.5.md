@@ -1,8 +1,60 @@
+---
+title: Micah 1:5
+type: Verse
+kjv: "For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?"
+bsb: "All this is for the transgression of Jacob and the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the high place of Judah? Is it not Jerusalem?"
+hebrew: "בְּפֶ֤שַׁע יַֽעֲקֹב֙ כָּל־ זֹ֔את וּבְחַטֹּ֖אות בֵּ֣ית יִשְׂרָאֵ֑ל מִֽי־ פֶ֣שַׁע יַעֲקֹ֗ב הֲלוֹא֙ שֹֽׁמְר֔וֹן וּמִי֙ בָּמ֣וֹת יְהוּדָ֔ה הֲל֖וֹא יְרוּשָׁלִָֽם׃"
+pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9003]]"
+- "[[H6588]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4310]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H8111]]"
+- "[[H1116]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:5**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the transgression of Jacob [is] all this, and for the sins of the house of Israel. What [is] the transgression of Jacob? [is it] not Samaria? and what [are] the high places of Judah? [are they] not Jerusalem?
 <small><sub>**BSB:**</sub></small>
 All this is for the transgression of Jacob and the sins of the house of Israel. What is the transgression of Jacob? Is it not Samaria? And what is the high place of Judah? Is it not Jerusalem?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6588\|פֶ֤שַׁע]] [[H3290\|יַֽעֲקֹב֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2063\|זֹ֔את]] [[H9002\|וּ]][[H9003\|בְ]][[H2403B\|חַטֹּ֖אות]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4310\|מִֽי]][[H9014\|־]] [[H6588\|פֶ֣שַׁע]] [[H3290\|יַעֲקֹ֗ב]] [[H9008\|הֲ]][[H3808\|לוֹא֙]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H9002\|וּ]][[H4310\|מִי֙]] [[H1116\|בָּמ֣וֹת]] [[H3063G\|יְהוּדָ֔ה]] [[H9008\|הֲ]][[H3808\|ל֖וֹא]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.4|<< Micah 1:4]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.6|Micah 1:6 >>]]</td></tr></table>
 

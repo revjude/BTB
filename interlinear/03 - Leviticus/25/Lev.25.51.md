@@ -1,8 +1,64 @@
+---
+title: Leviticus 25:51
+type: Verse
+kjv: "If there be yet many years behind, according unto them he shall give again the price of his redemption out of the money that he was bought for."
+bsb: "If many years remain, he must pay for his redemption in proportion to his purchase price."
+hebrew: "אִם־ ע֥וֹד רַבּ֖וֹת בַּשָּׁנִ֑ים לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּת֔וֹ מִכֶּ֖סֶף מִקְנָתֽוֹ׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H7227A]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H9029]]"
+- "[[H7725K]]"
+- "[[H1353]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3701H]]"
+- "[[H4736]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:51**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If [there be] yet many years [behind], according unto them he shall give again the price of his redemption out of the money that he was bought for.
 <small><sub>**BSB:**</sub></small>
 If many years remain, he must pay for his redemption in proportion to his purchase price.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5750\|ע֥וֹד]] [[H7227A\|רַבּ֖וֹת]] [[H9003\|בַּ]][[H8141\|שָּׁנִ֑ים]] [[H9005\|לְ]][[H6310K\|פִי]][[H9029\|הֶן֙]] [[H7725K\|יָשִׁ֣יב]] [[H1353\|גְּאֻלָּת֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H3701H\|כֶּ֖סֶף]] [[H4736\|מִקְנָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic MONEY|MONEY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.50|<< Leviticus 25:50]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.52|Leviticus 25:52 >>]]</td></tr></table>
 

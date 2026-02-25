@@ -1,8 +1,53 @@
+---
+title: Amos 1:7
+type: Verse
+kjv: "But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:"
+bsb: "So I will send fire upon the walls of Gaza, to consume its citadels."
+hebrew: "וְשִׁלַּ֥חְתִּי אֵ֖שׁ בְּחוֹמַ֣ת עַזָּ֑ה וְאָכְלָ֖ה אַרְמְנֹתֶֽיהָ׃"
+pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H5804]]"
+- "[[H0398]]"
+- "[[H0759H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 1:7**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:
 <small><sub>**BSB:**</sub></small>
 So I will send fire upon the walls of Gaza, to consume its citadels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971G\|שִׁלַּ֥חְתִּי]] [[H0784\|אֵ֖שׁ]] [[H9003\|בְּ]][[H2346G\|חוֹמַ֣ת]] [[H5804\|עַזָּ֑ה]] [[H9001\|וְ]][[H0398\|אָכְלָ֖ה]] [[H0759H\|אַרְמְנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic GAZA|GAZA]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.6|<< Amos 1:6]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.8|Amos 1:8 >>]]</td></tr></table>
 

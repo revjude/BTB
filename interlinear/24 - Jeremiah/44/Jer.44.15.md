@@ -1,8 +1,73 @@
+---
+title: Jeremiah 44:15
+type: Verse
+kjv: "Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,"
+bsb: "Then all the men who knew that their wives were burning incense to other gods, and all the women standing by—a great assembly—along with all the people living in the land of Egypt and in Pathros, said to Jeremiah,"
+hebrew: "וַיַּעֲנ֣וּ אֶֽת־ יִרְמְיָ֗הוּ כָּל־ הָאֲנָשִׁ֤ים הַיֹּֽדְעִים֙ כִּֽי־ מְקַטְּר֤וֹת נְשֵׁיהֶם֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים וְכָל־ הַנָּשִׁ֥ים הָעֹמְד֖וֹת קָהָ֣ל גָּד֑וֹל וְכָל־ הָעָ֛ם הַיֹּשְׁבִ֥ים בְּאֶֽרֶץ־ מִצְרַ֖יִם בְּפַתְר֥וֹס לֵאמֹֽר׃"
+pericope: "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PATHROS|PATHROS]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H6999H]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H5975G]]"
+- "[[H6951]]"
+- "[[H1419A]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6624]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:15**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 Then all the men who knew that their wives were burning incense to other gods, and all the women standing by—a great assembly—along with all the people living in the land of Egypt and in Pathros, said to Jeremiah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעֲנ֣וּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֗הוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הַ]][[H3045\|יֹּֽדְעִים֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6999H\|מְקַטְּר֤וֹת]] [[H0802H\|נְשֵׁי]][[H9028\|הֶם֙]] [[H9005\|לֵ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֥ים]] [[H9009\|הָ]][[H5975G\|עֹמְד֖וֹת]] [[H6951\|קָהָ֣ל]] [[H1419A\|גָּד֑וֹל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֥ים]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9003\|בְּ]][[H6624\|פַתְר֥וֹס]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATHROS|PATHROS]] • [[topic QUEEN|QUEEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.14|<< Jeremiah 44:14]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.16|Jeremiah 44:16 >>]]</td></tr></table>
 

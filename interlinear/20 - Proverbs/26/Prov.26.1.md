@@ -1,8 +1,57 @@
+---
+title: Proverbs 26:1
+type: Verse
+kjv: "As snow in summer, and as rain in harvest, so honour is not seemly for a fool."
+bsb: "Like snow in summer and rain at harvest, honor does not befit a fool."
+hebrew: "כַּשֶּׁ֤לֶג׀ בַּקַּ֗יִץ וְכַמָּטָ֥ר בַּקָּצִ֑יר כֵּ֤ן לֹא־ נָאוֶ֖ה לִכְסִ֣יל כָּבֽוֹד׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SUMMER|SUMMER]]"
+strongs:
+- "[[H9004]]"
+- "[[H7950]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7019]]"
+- "[[H9002]]"
+- "[[H4306]]"
+- "[[H7105A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5000]]"
+- "[[H9005]]"
+- "[[H3684]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:1**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 <small><sub>**BSB:**</sub></small>
 Like snow in summer and rain at harvest, honor does not befit a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H7950\|שֶּׁ֤לֶג]][[H9015\|׀]] [[H9003\|בַּ]][[H7019\|קַּ֗יִץ]] [[H9002\|וְ]][[H9004\|כַ]][[H4306\|מָּטָ֥ר]] [[H9003\|בַּ]][[H7105A\|קָּצִ֑יר]] [[H3651C\|כֵּ֤ן]] [[H3808\|לֹא]][[H9014\|־]] [[H5000\|נָאוֶ֖ה]] [[H9005\|לִ]][[H3684\|כְסִ֣יל]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SUMMER|SUMMER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.28|<< Proverbs 25:28]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.2|Proverbs 26:2 >>]]</td></tr></table>
 

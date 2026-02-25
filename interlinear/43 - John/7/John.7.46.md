@@ -1,10 +1,50 @@
+---
+title: John 7:46
+type: Verse
+kjv: "The officers answered, Never man spake like this man."
+bsb: "“Never has anyone spoken like this man!” the officers answered."
+greek: "ἀπεκρίθησαν οἱ ὑπηρέται· οὐδέποτε ἐλάλησεν οὕτως ἄνθρωπος ὡς οὗτος ὁ ἄνθρωπος."
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G5257]]"
+- "[[G3763]]"
+- "[[G2980]]"
+- "[[G3779]]"
+- "[[G0444]]"
+- "[[G5613]]"
+- "[[G3778]]"
+texts:
+- NKO
+- ko
+---
+
 **John 7:46**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The officers answered, Never man spake like this man.
 <small><sub>**BSB:**</sub></small>
 “Never has anyone spoken like this man!” the officers answered.
-<small><sub>**Literal:**</sub></small>
-Answered the officers; Never spoke like this a man as this <the> man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.45|<< John 7:45]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.47|John 7:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται·]]  [[G3763\|οὐδέποτε]]  [[G2980\|ἐλάλησεν]]  [[G3779\|οὕτως]]  [[G0444\|ἄνθρωπος]]  [[G5613\|ὡς]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.45|<< John 7:45]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.47|John 7:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

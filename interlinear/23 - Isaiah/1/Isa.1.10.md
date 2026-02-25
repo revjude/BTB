@@ -1,8 +1,59 @@
+---
+title: Isaiah 1:10
+type: Verse
+kjv: "Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah."
+bsb: "Hear the word of the LORD, you rulers of Sodom; listen to the instruction of our God, you people of Gomorrah!"
+hebrew: "שִׁמְע֥וּ דְבַר־ יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7101]]"
+- "[[H5467]]"
+- "[[H0238]]"
+- "[[H8451]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5971A]]"
+- "[[H6017]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:10**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.
 <small><sub>**BSB:**</sub></small>
 Hear the word of the LORD, you rulers of Sodom; listen to the instruction of our God, you people of Gomorrah!
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֥וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7101\|קְצִינֵ֣י]] [[H5467\|סְדֹ֑ם]] [[H0238\|הַאֲזִ֛ינוּ]] [[H8451\|תּוֹרַ֥ת]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H5971A\|עַ֥ם]] [[H6017\|עֲמֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOMORRAH|GOMORRAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ORDINANCE|ORDINANCE]] • [[topic SODOM|SODOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.9|<< Isaiah 1:9]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.11|Isaiah 1:11 >>]]</td></tr></table>
 

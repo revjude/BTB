@@ -1,8 +1,63 @@
+---
+title: Psalm 5:11
+type: Verse
+kjv: "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee."
+bsb: "But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You."
+hebrew: "וְיִשְׂמְח֨וּ כָל־ ח֪וֹסֵי בָ֡ךְ לְעוֹלָ֣ם יְ֭רַנֵּנוּ וְתָסֵ֣ךְ עָלֵ֑ימוֹ וְֽיַעְלְצ֥וּ בְ֝ךָ֗ אֹהֲבֵ֥י שְׁמֶֽךָ׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H7442B]]"
+- "[[H5526B]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5970]]"
+- "[[H0157G]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:11**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.
 <small><sub>**BSB:**</sub></small>
 But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8055\|יִשְׂמְח֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H2620\|ח֪וֹסֵי]] [[H9003\|בָ֡]][[H9031\|ךְ]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H7442B\|יְ֭רַנֵּנוּ]] [[H9002\|וְ]][[H5526B\|תָסֵ֣ךְ]] [[H5921A\|עָלֵ֑י]][[H9038\|מוֹ]] [[H9002\|וְֽ]][[H5970\|יַעְלְצ֥וּ]] [[H9003\|בְ֝]][[H9031\|ךָ֗]] [[H0157G\|אֹהֲבֵ֥י]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic SHOUTING|SHOUTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.10|<< Psalms 5:10]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.12|Psalms 5:12 >>]]</td></tr></table>
 

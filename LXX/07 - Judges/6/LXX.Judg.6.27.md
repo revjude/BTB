@@ -1,6 +1,79 @@
+---
+title: LXX Judges 6:27
+type: Verse
+lxx: "And Gideon took ten men from  his manservants, and he did as the lord spoke to him. And it came to pass that he feared the household  of his father, and the men of the city,  so as to not act by day, and he acted it by night."
+greek: "και έλαβε Γεδεών δέκα άνδρας από των δούλων αυτού και εποίησεν καθά ελάλησε προς αυτόν κύριος και εγένετο ως εφοβήθη τον οίκον του πατρός αυτού και τους άνδρας της πόλεως του μη ποιήσαι ημέρας και εποίησε νυκτός"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G1066]]"
+- "[[G1176]]"
+- "[[G0435]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G2505]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G4160]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3571]]"
+---
+
 **LXX Judges 6:27** 
 <small><sub>**LXX:**</sub></small>
 And Gideon took ten men from  his manservants, and he did as \[the\] <span class="smallcaps">lord</span> spoke to him. And it came to pass that he feared the household  of his father, and the men of the city,  \[so as\] to not act by day, and he acted \[it\] \[by\] night. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβε]] [[G1066\|Γεδεών]] [[G1176\|δέκα]] [[G0435\|άνδρας]] [[G0575\|από]] [[G3588\|των]] [[G1401\|δούλων]] [[G1473\|αυτού]] [[G2532\|και]] [[G4160\|εποίησεν]] [[G2505\|καθά]] [[G2980\|ελάλησε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2962\|κύριος]] [[G2532\|και]] [[G1096\|εγένετο]] [[G5613\|ως]] [[G5399\|εφοβήθη]] [[G3588\|τον]] [[G3624\|οίκον]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τους]] [[G0435\|άνδρας]] [[G3588\|της]] [[G4172\|πόλεως]] [[G3588\|του]] [[G3361\|μη]] [[G4160\|ποιήσαι]] [[G2250\|ημέρας]] [[G2532\|και]] [[G4160\|εποίησε]] [[G3571\|νυκτός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BAAL|BAAL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic JUDGE|JUDGE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
 
@@ -39,6 +112,6 @@ And Gideon took ten men from  his manservants, and he did as \[the\] <span class
 | and | **<big>[[G2532\|και]]</big>** |
 | he acted \[it\] | **<big>[[G4160\|εποίησε]]</big>** |
 | \[by\] night. | **<big>[[G3571\|νυκτός]]</big>** |
-[[Judg.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.26|<< Judges 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.28|Judges 6:28 >>]]</td></tr></table>
 
 

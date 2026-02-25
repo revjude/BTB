@@ -1,10 +1,61 @@
+---
+title: Mark 8:23
+type: Verse
+kjv: "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought."
+bsb: "So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked."
+greek: "καὶ ἐπιλαβόμενος τῆς χειρὸς τοῦ τυφλοῦ ἐξήνεγκεν αὐτὸν ἔξω τῆς κώμης, καὶ πτύσας εἰς τὰ ὄμματα αὐτοῦ, ἐπιθεὶς τὰς χεῖρας αὐτῷ ἐπηρώτα αὐτόν· εἴ τι βλέπεις;"
+pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SPITTING|SPITTING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1949]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G5185]]"
+- "[[G1627]]"
+- "[[G0846]]"
+- "[[G1854]]"
+- "[[G2968]]"
+- "[[G4429]]"
+- "[[G1519]]"
+- "[[G3659]]"
+- "[[G2007]]"
+- "[[G1905]]"
+- "[[G1487I]]"
+- "[[G5100]]"
+- "[[G0991]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 8:23**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought.
 <small><sub>**BSB:**</sub></small>
 So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked.
-<small><sub>**Literal:**</sub></small>
-And having taken hold of the hand of the blind [man] he brought him out of the village, and having spit upon the eyes of him, having laid the hands upon him He was asking him: if anything you see?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.22|<< Mark 8:22]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.24|Mark 8:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1949\|ἐπιλαβόμενος]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G3588\|τοῦ]]  [[G5185\|τυφλοῦ]]  [[G1627\|ἐξήνεγκεν]]  [[G0846\|αὐτὸν]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G2968\|κώμης,]]  [[G2532\|καὶ]]  [[G4429\|πτύσας]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3659\|ὄμματα]]  [[G0846\|αὐτοῦ,]]  [[G2007\|ἐπιθεὶς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G0846\|αὐτῷ]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτόν·]]  [[G1487I\|εἴ]]  [[G5100\|τι]]  [[G0991\|βλέπεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SPITTING|SPITTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.22|<< Mark 8:22]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.24|Mark 8:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

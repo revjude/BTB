@@ -1,8 +1,53 @@
+---
+title: Joshua 17:8
+type: Verse
+kjv: "Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;"
+bsb: "The region of Tappuah belonged to Manasseh, but Tappuah itself, on the border of Manasseh, belonged to Ephraim."
+hebrew: "לִמְנַשֶּׁ֕ה הָיְתָ֖ה אֶ֣רֶץ תַּפּ֑וּחַ וְתַפּ֛וּחַ אֶל־ גְּב֥וּל מְנַשֶּׁ֖ה לִבְנֵ֥י אֶפְרָֽיִם׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic TAPPUAH|TAPPUAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H4519G]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H8599B]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H1121G]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:8**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh [belonged] to the children of Ephraim;
 <small><sub>**BSB:**</sub></small>
 The region of Tappuah belonged to Manasseh, but Tappuah itself, on the border of Manasseh, belonged to Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H4519G\|מְנַשֶּׁ֕ה]] [[H1961\|הָיְתָ֖ה]] [[H0776G\|אֶ֣רֶץ]] [[H8599B\|תַּפּ֑וּחַ]] [[H9002\|וְ]][[H8599B\|תַפּ֛וּחַ]] [[H0413\|אֶל]][[H9014\|־]] [[H1366G\|גְּב֥וּל]] [[H4519G\|מְנַשֶּׁ֖ה]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic TAPPUAH|TAPPUAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.7|<< Joshua 17:7]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.9|Joshua 17:9 >>]]</td></tr></table>
 

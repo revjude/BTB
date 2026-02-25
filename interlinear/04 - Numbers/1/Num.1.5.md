@@ -1,8 +1,63 @@
+---
+title: Numbers 1:5
+type: Verse
+kjv: "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur."
+bsb: "These are the names of the men who are to assist you: From the tribe of Reuben, Elizur son of Shedeur;"
+hebrew: "וְאֵ֙לֶּה֙ שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר יַֽעַמְד֖וּ אִתְּכֶ֑ם לִרְאוּבֵ֕ן אֱלִיצ֖וּר בֶּן־ שְׁדֵיאֽוּר׃"
+pericope: "[[Num.1.5 The Leaders of the Tribes|The Leaders of the Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ELIZUR|ELIZUR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SHEDEUR|SHEDEUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H7205]]"
+- "[[H0468]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:5**<big><big>[[Num.1.5 The Leaders of the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.
 <small><sub>**BSB:**</sub></small>
 These are the names of the men who are to assist you: From the tribe of Reuben, Elizur son of Shedeur;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H8034\|שְׁמ֣וֹת]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5975G\|יַֽעַמְד֖וּ]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9005\|לִ]][[H7205\|רְאוּבֵ֕ן]] [[H0468\|אֱלִיצ֖וּר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7707\|שְׁדֵיאֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIZUR|ELIZUR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic SHEDEUR|SHEDEUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 

@@ -1,6 +1,100 @@
+---
+title: LXX Ezekiel 14:7
+type: Verse
+lxx: "For a man, a man from the house of Israel, and from the foreigners of the ones converting in  Israel, who ever should separate from me, and set  his thoughts upon  his heart, and  should arrange punishment for his iniquities before his face, and should come to the false prophet  to ask him concerning me, I the lord will answer to him in the things which he presses in them."
+greek: "διότι άνθρωπος άνθρωπος εκ του οίκου Ισραήλ και εκ των προσηλύτων των προσηλυτευόντων εν τω Ισραήλ ος αν απαλλοτριωθή απ΄ εμού και θήται τα ενθυμήματα αυτού επί την καρδίαν αυτού και την κόλασιν της αδικίας αυτού τάξη προ προσώπου αυτού και έλθη προς τον προφήτην του επερωτήσαι αυτόν εν εμοί εγώ κύριος αποκριθήσομαι αυτώ εν οις ενέχεται εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[G1360]]"
+- "[[G0444]]"
+- "[[G0444]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4339]]"
+- "[[G3588]]"
+- "[[G8921]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0526]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G7243]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2851]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G1473]]"
+- "[[G5021]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3588]]"
+- "[[G1905]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G0611]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1758]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 14:7** 
 <small><sub>**LXX:**</sub></small>
 For a man, a man from the house of Israel, and from the foreigners of the ones converting in  Israel, who ever should separate from me, and set  his thoughts upon  his heart, and  should arrange punishment for his iniquities before his face, and should come to the \[false\] prophet  to ask him concerning me, I \[the\] <span class="smallcaps">lord</span> will answer to him in the \[things\] which he presses in them. 
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]] [[G0444\|άνθρωπος]] [[G0444\|άνθρωπος]] [[G1537\|εκ]] [[G3588\|του]] [[G3624\|οίκου]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G1537\|εκ]] [[G3588\|των]] [[G4339\|προσηλύτων]] [[G3588\|των]] [[G8921\|προσηλυτευόντων]] [[G1722\|εν]] [[G3588\|τω]] [[G2474\|Ισραήλ]] [[G3739\|ος]] [[G0302\|αν]] [[G0526\|απαλλοτριωθή]] [[G0575\|απ΄]] [[G1473\|εμού]] [[G2532\|και]] [[G5087\|θήται]] [[G3588\|τα]] [[G7243\|ενθυμήματα]] [[G1473\|αυτού]] [[G1909\|επί]] [[G3588\|την]] [[G2588\|καρδίαν]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|την]] [[G2851\|κόλασιν]] [[G3588\|της]] [[G0093\|αδικίας]] [[G1473\|αυτού]] [[G5021\|τάξη]] [[G4253\|προ]] [[G4383\|προσώπου]] [[G1473\|αυτού]] [[G2532\|και]] [[G2064\|έλθη]] [[G4314\|προς]] [[G3588\|τον]] [[G4396\|προφήτην]] [[G3588\|του]] [[G1905\|επερωτήσαι]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G1473\|εμοί]] [[G1473\|εγώ]] [[G2962\|κύριος]] [[G0611\|αποκριθήσομαι]] [[G1473\|αυτώ]] [[G1722\|εν]] [[G3739\|οις]] [[G1758\|ενέχεται]] [[G1722\|εν]] [[G1473\|αυτοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic STUMBLING|STUMBLING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.6|<< Ezekiel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.8|Ezekiel 14:8 >>]]</td></tr></table>
 
@@ -61,6 +155,6 @@ For a man, a man from the house of Israel, and from the foreigners of the ones c
 | he presses | **<big>[[G1758\|ενέχεται]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Ezek.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.6|<< Ezekiel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.8|Ezekiel 14:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.6|<< Ezekiel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.8|Ezekiel 14:8 >>]]</td></tr></table>
 
 

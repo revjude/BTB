@@ -1,8 +1,67 @@
+---
+title: Ezekiel 4:1
+type: Verse
+kjv: "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:"
+bsb: "“Now you, son of man, take a brick, place it before you, and draw on it the city of Jerusalem."
+hebrew: "וְאַתָּ֤ה בֶן־ אָדָם֙ קַח־ לְךָ֣ לְבֵנָ֔ה וְנָתַתָּ֥ה אוֹתָ֖הּ לְפָנֶ֑יךָ וְחַקּוֹתָ֥ עָלֶ֛יהָ עִ֖יר אֶת־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DRAWING|DRAWING]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TILE|TILE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3843]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H2710]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:1**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, [even] Jerusalem:
 <small><sub>**BSB:**</sub></small>
 “Now you, son of man, take a brick, place it before you, and draw on it the city of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H3843\|לְבֵנָ֔ה]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֥ה]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H2710\|חַקּוֹתָ֥]] [[H5921A\|עָלֶ֛י]][[H9034\|הָ]] [[H5892B\|עִ֖יר]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAWING|DRAWING]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TILE|TILE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.27|<< Ezekiel 3:27]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.2|Ezekiel 4:2 >>]]</td></tr></table>
 

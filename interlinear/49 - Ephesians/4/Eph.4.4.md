@@ -1,10 +1,54 @@
+---
+title: Ephesians 4:4
+type: Verse
+kjv: "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
+bsb: "There is one body and one Spirit, just as you were called to one hope when you were called;"
+greek: "ἓν σῶμα καὶ ἓν πνεῦμα καθὼς καὶ ἐκλήθητε ἐν μιᾷ ἐλπίδι τῆς κλήσεως ὑμῶν·"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G1520]]"
+- "[[G4983]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G2531]]"
+- "[[G2564G]]"
+- "[[G1722]]"
+- "[[G1680]]"
+- "[[G3588]]"
+- "[[G2821]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:4**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [There is] one body, and one Spirit, even as ye are called in one hope of your calling;
 <small><sub>**BSB:**</sub></small>
 There is one body and one Spirit, just as you were called to one hope when you were called;
-<small><sub>**Literal:**</sub></small>
-one body and one Spirit even as also you were called into one hope of the calling of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.3|<< Ephesians 4:3]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.5|Ephesians 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1520\|ἓν]]  [[G4983\|σῶμα]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G4151G\|πνεῦμα]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G2564G\|ἐκλήθητε]]  [[G1722\|ἐν]]  [[G1520\|μιᾷ]]  [[G1680\|ἐλπίδι]]  [[G3588\|τῆς]]  [[G2821\|κλήσεως]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOPE|HOPE]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.3|<< Ephesians 4:3]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.5|Ephesians 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

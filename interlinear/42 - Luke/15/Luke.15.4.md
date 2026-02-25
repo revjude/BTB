@@ -1,10 +1,72 @@
+---
+title: Luke 15:4
+type: Verse
+kjv: "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+bsb: "“What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it?"
+jesus_said: "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+greek: "τίς ἄνθρωπος ἐξ ὑμῶν ἔχων ἑκατὸν πρόβατα καὶ ἀπολέσας ἐξ αὐτῶν ἓν οὐ καταλείπει τὰ ἐνενήκοντα ἐννέα ἐν τῇ ἐρήμῳ καὶ πορεύεται ἐπὶ τὸ ἀπολωλὸς ἕως εὕρῃ αὐτό;"
+pericope: "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOST SHEEP|LOST SHEEP]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[G5101]]"
+- "[[G0444]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G1540]]"
+- "[[G4263]]"
+- "[[G2532]]"
+- "[[G0622]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G3756]]"
+- "[[G2641]]"
+- "[[G3588]]"
+- "[[G1768]]"
+- "[[G1767]]"
+- "[[G1722]]"
+- "[[G2048]]"
+- "[[G4198]]"
+- "[[G1909]]"
+- "[[G2193]]"
+- "[[G2147]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 15:4**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?
 <small><sub>**BSB:**</sub></small>
 “What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it?
-<small><sub>**Literal:**</sub></small>
-What man of you having a hundred sheep and having lost of them one not leaves the ninety nine in the open field and goes after the [one] having been lost until he may find it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.3|<< Luke 15:3]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.5|Luke 15:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G0444\|ἄνθρωπος]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G2192\|ἔχων]]  [[G1540\|ἑκατὸν]]  [[G4263\|πρόβατα]]  [[G2532\|καὶ]]  [[G0622\|ἀπολέσας]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1520\|ἓν]]  [[G3756\|οὐ]]  [[G2641\|καταλείπει]]  [[G3588\|τὰ]]  [[G1768\|ἐνενήκοντα]]  [[G1767\|ἐννέα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G2532\|καὶ]]  [[G4198\|πορεύεται]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0622\|ἀπολωλὸς]]  [[G2193\|ἕως]]  [[G2147\|εὕρῃ]]  [[G0846\|αὐτό;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOST SHEEP|LOST SHEEP]] • [[topic PENITENT|PENITENT]] • [[topic PHARISEES|PHARISEES]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SHEEP|SHEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.3|<< Luke 15:3]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.5|Luke 15:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

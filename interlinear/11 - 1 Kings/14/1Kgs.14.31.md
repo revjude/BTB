@@ -1,8 +1,69 @@
+---
+title: 1 Kings 14:31
+type: Verse
+kjv: "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name was Naamah an Ammonitess. And Abijam his son reigned in his stead."
+bsb: "And Rehoboam rested with his fathers and was buried with them in the City of David; his mother’s name was Naamah the Ammonite. And his son Abijam reigned in his place."
+hebrew: "וַיִּשְׁכַּ֨ב רְחַבְעָ֜ם עִם־ אֲבֹתָ֗יו וַיִּקָּבֵ֤ר עִם־ אֲבֹתָיו֙ בְּעִ֣יר דָּוִ֔ד וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָעַמֹּנִ֑ית וַיִּמְלֹ֛ךְ אֲבִיָּ֥ם בְּנ֖וֹ תַּחְתָּֽיו׃ פ"
+pericope: "[[1Kgs.14.25 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAM|ABIJAM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NAAMAH|NAAMAH]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H7346]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H5279A]]"
+- "[[H9009]]"
+- "[[H5984H]]"
+- "[[H4427A]]"
+- "[[H0038]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 14:31**<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name [was] Naamah an Ammonitess. And Abijam his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Rehoboam rested with his fathers and was buried with them in the City of David; his mother’s name was Naamah the Ammonite. And his son Abijam reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֨ב]] [[H7346\|רְחַבְעָ֜ם]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֤ר]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָי]][[H9023\|ו֙]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֔ד]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H5279A\|נַעֲמָ֖ה]] [[H9009\|הָ]][[H5984H\|עַמֹּנִ֑ית]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H0038\|אֲבִיָּ֥ם]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAM|ABIJAM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NAAMAH|NAAMAH]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.30|<< 1 Kings 14:30]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.1|1 Kings 15:1 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ And Rehoboam rested with his fathers and was buried with them in the City of Dav
 | and he became king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֛ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abijam  |**<big>&#8207;[[H0038\|אֲבִיָּ֥ם]]&#8207; </big>**| 'a.vi.Yam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.30|<< 1 Kings 14:30]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.1|1 Kings 15:1 >>]]</td></tr></table>
 
 

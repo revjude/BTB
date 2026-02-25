@@ -1,10 +1,54 @@
+---
+title: Philippians 2:6
+type: Verse
+kjv: "Who, being in the form of God, thought it not robbery to be equal with God:"
+bsb: "Who, existing in the form of God, did not consider equality with God something to be grasped,"
+greek: "ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ,"
+pericope: "[[Phil.2.5 The Mind of Christ|The Mind of Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3739]]"
+- "[[G1722]]"
+- "[[G3444]]"
+- "[[G2316]]"
+- "[[G5225]]"
+- "[[G3756]]"
+- "[[G0725]]"
+- "[[G2233]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G2470]]"
+texts:
+- NKO
+---
+
 **Philippians 2:6**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who, being in the form of God, thought it not robbery to be equal with God:
 <small><sub>**BSB:**</sub></small>
 Who, existing in the form of God, did not consider equality with God something to be grasped,
-<small><sub>**Literal:**</sub></small>
-Who in [the] form of God existing not something to be grasped considered <the> to be equal with God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.5|<< Philippians 2:5]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.7|Philippians 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1722\|ἐν]]  [[G3444\|μορφῇ]]  [[G2316\|θεοῦ]]  [[G5225\|ὑπάρχων]]  [[G3756\|οὐχ]]  [[G0725\|ἁρπαγμὸν]]  [[G2233\|ἡγήσατο]]  [[G3588\|τὸ]]  [[G1511\|εἶναι]]  [[G2470\|ἴσα]]  [[G2316\|θεῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.5|<< Philippians 2:5]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.7|Philippians 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

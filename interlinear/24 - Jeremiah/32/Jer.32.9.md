@@ -1,8 +1,73 @@
+---
+title: Jeremiah 32:9
+type: Verse
+kjv: "And I bought the field of Hanameel my uncle’s son, that was in Anathoth, and weighed him the money, even seventeen shekels of silver."
+bsb: "So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seventeen shekels of silver."
+hebrew: "וָֽאֶקְנֶה֙ אֶת־ הַשָּׂדֶ֔ה מֵאֵ֛ת חֲנַמְאֵ֥ל בֶּן־ דֹּדִ֖י אֲשֶׁ֣ר בַּעֲנָת֑וֹת וָֽאֶשְׁקֲלָה־ לּוֹ֙ אֶת־ הַכֶּ֔סֶף שִׁבְעָ֥ה שְׁקָלִ֖ים וַעֲשָׂרָ֥ה הַכָּֽסֶף׃"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic HANAMEL|HANAMEL]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H2601]]"
+- "[[H1121G]]"
+- "[[H1730I]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H6068G]]"
+- "[[H8254]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3701G]]"
+- "[[H7651]]"
+- "[[H8255]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:9**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I bought the field of Hanameel my uncle’s son, that [was] in Anathoth, and weighed him the money, [even] seventeen shekels of silver.
 <small><sub>**BSB:**</sub></small>
 So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seventeen shekels of silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H7069\|אֶקְנֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9006\|מֵ]][[H0854\|אֵ֛ת]] [[H2601\|חֲנַמְאֵ֥ל]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1730I\|דֹּדִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H6068G\|עֲנָת֑וֹת]] [[H9001\|וָֽ]][[H8254\|אֶשְׁקֲלָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לּ]][[H9033\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H7651\|שִׁבְעָ֥ה]] [[H8255\|שְׁקָלִ֖ים]] [[H9002\|וַ]][[H6235\|עֲשָׂרָ֥ה]] [[H9009\|הַ]][[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic HANAMEL|HANAMEL]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LAND|LAND]] • [[topic MONEY|MONEY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

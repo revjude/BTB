@@ -1,10 +1,62 @@
+---
+title: Luke 18:39
+type: Verse
+kjv: "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me."
+bsb: "Those who led the way admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”"
+greek: "Καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ. αὐτὸς δὲ πολλῷ μᾶλλον ἔκραζεν· υἱὲ Δαυίδ, ἐλέησόν με.¶"
+pericope: "[[Luke.18.35 Jesus Heals a Blind Beggar|Jesus Heals a Blind Beggar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4254]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4601]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G3123G]]"
+- "[[G2896]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G1653]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:39**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they which went before rebuked him, that he should hold his peace: but he cried so much the more, [Thou] Son of David, have mercy on me.
 <small><sub>**BSB:**</sub></small>
 Those who led the way admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”
-<small><sub>**Literal:**</sub></small>
-And those going before were rebuking him that he may be silent. He himself however much more was crying out; Son of David, do have mercy on me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.38|<< Luke 18:38]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.40|Luke 18:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|οἱ]]  [[G4254\|προάγοντες]]  [[G2008\|ἐπετίμων]]  [[G0846\|αὐτῷ]]  [[G2443\|ἵνα]]  [[G4601\|σιγήσῃ.]]  [[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G4183\|πολλῷ]]  [[G3123G\|μᾶλλον]]  [[G2896\|ἔκραζεν·]]  [[G5207\|υἱὲ]]  [[G1138\|Δαυίδ,]]  [[G1653\|ἐλέησόν]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.38|<< Luke 18:38]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.40|Luke 18:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

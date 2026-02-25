@@ -1,8 +1,66 @@
+---
+title: Ezekiel 38:2
+type: Verse
+kjv: "Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,"
+bsb: "“Son of man, set your face against Gog of the land of Magog, the chief prince of Meshech and Tubal. Prophesy against him"
+hebrew: "בֶּן־ אָדָ֗ם שִׂ֤ים פָּנֶ֙יךָ֙ אֶל־ גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א עָלָֽיו׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MAGOG|MAGOG]]"
+- "[[topic MESHECH|MESHECH]]"
+- "[[topic ROSH|ROSH]]"
+- "[[topic TUBAL|TUBAL]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H1463H]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H4031H]]"
+- "[[H5387A]]"
+- "[[H7218B]]"
+- "[[H4902H]]"
+- "[[H9002]]"
+- "[[H8422H]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:2**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 <small><sub>**BSB:**</sub></small>
 “Son of man, set your face against Gog of the land of Magog, the chief prince of Meshech and Tubal. Prophesy against him
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H7760A\|שִׂ֤ים]] [[H6440H\|פָּנֶ֙י]][[H9021\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1463H\|גּוֹג֙]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H4031H\|מָּג֔וֹג]] [[H5387A\|נְשִׂ֕יא]] [[H7218B\|רֹ֖אשׁ]] [[H4902H\|מֶ֣שֶׁךְ]] [[H9002\|וְ]][[H8422H\|תֻבָ֑ל]] [[H9002\|וְ]][[H5012\|הִנָּבֵ֖א]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAGOG|MAGOG]] • [[topic MESHECH|MESHECH]] • [[topic ROSH|ROSH]] • [[topic TUBAL|TUBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.1|<< Ezekiel 38:1]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.3|Ezekiel 38:3 >>]]</td></tr></table>
 

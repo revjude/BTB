@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 6:54
+type: Verse
+kjv: "Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot."
+bsb: "Now these were the territories assigned to the descendants of Aaron from the Kohathite clan for their settlements, because the first lot fell to them:"
+hebrew: "וְאֵ֙לֶּה֙ מוֹשְׁבוֹתָ֔ם לְטִירוֹתָ֖ם בִּגְבוּלָ֑ם לִבְנֵ֤י אַהֲרֹן֙ לְמִשְׁפַּחַ֣ת הַקְּהָתִ֔י כִּ֥י לָהֶ֖ם הָיָ֥ה הַגּוֹרָֽל׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H4186]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H2918]]"
+- "[[H9003]]"
+- "[[H1366G]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H6956]]"
+- "[[H3588A]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H1486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:54**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.
 <small><sub>**BSB:**</sub></small>
 Now these were the territories assigned to the descendants of Aaron from the Kohathite clan for their settlements, because the first lot fell to them:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H4186\|מוֹשְׁבוֹתָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H2918\|טִירוֹתָ֖]][[H9028\|ם]] [[H9003\|בִּ]][[H1366G\|גְבוּלָ֑]][[H9028\|ם]] [[H9005\|לִ]][[H1121A\|בְנֵ֤י]] [[H0175\|אַהֲרֹן֙]] [[H9005\|לְ]][[H4940\|מִשְׁפַּחַ֣ת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֔י]] [[H3588A\|כִּ֥י]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1961\|הָיָ֥ה]] [[H9009\|הַ]][[H1486\|גּוֹרָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.53|<< 1 Chronicles 6:53]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.55|1 Chronicles 6:55 >>]]</td></tr></table>
 

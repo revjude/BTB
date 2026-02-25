@@ -1,8 +1,65 @@
+---
+title: Numbers 35:30
+type: Verse
+kjv: "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die."
+bsb: "If anyone kills a person, the murderer is to be put to death on the testimony of the witnesses. But no one is to be put to death based on the testimony of a lone witness."
+hebrew: "כָּל־ מַ֨כֵּה־ נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת־ הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא־ יַעֲנֶ֥ה בְנֶ֖פֶשׁ לָמֽוּת׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REFUGE|REFUGE]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H5315J]]"
+- "[[H9005]]"
+- "[[H6310I]]"
+- "[[H5707]]"
+- "[[H7523]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:30**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person [to cause him] to die.
 <small><sub>**BSB:**</sub></small>
 If anyone kills a person, the murderer is to be put to death on the testimony of the witnesses. But no one is to be put to death based on the testimony of a lone witness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H5221\|מַ֨כֵּה]][[H9014\|־]] [[H5315J\|נֶ֔פֶשׁ]] [[H9005\|לְ]][[H6310I\|פִ֣י]] [[H5707\|עֵדִ֔ים]] [[H7523\|יִרְצַ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7523\|רֹצֵ֑חַ]] [[H9002\|וְ]][[H5707\|עֵ֣ד]] [[H0259\|אֶחָ֔ד]] [[H3808\|לֹא]][[H9014\|־]] [[H6030B\|יַעֲנֶ֥ה]] [[H9003\|בְ]][[H5315J\|נֶ֖פֶשׁ]] [[H9005\|לָ]][[H4191\|מֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIDENCE|EVIDENCE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REFUGE|REFUGE]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.29|<< Numbers 35:29]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.31|Numbers 35:31 >>]]</td></tr></table>
 

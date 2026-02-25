@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moab’s Rebellion
+type: Pericope
 pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 3
 book/chapter: "[[2Kgs.3|2 Kings 3]]"
-genre:
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 27
 verses:
 - "[[2Kgs.3.1]]"
 - "[[2Kgs.3.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[2Kgs.3.27]]"
 ---
 
-[[2Kgs.3|2 Kings 3:1 - 2 Kings 3:27]]
+<small>[[2Kgs.3|2 Kings 3:1-27]]</small>
 *Moab’s Rebellion*
 
 [[2Kgs.3.1|1]] Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.

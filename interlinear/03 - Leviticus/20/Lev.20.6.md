@@ -1,8 +1,75 @@
+---
+title: Leviticus 20:6
+type: Verse
+kjv: "And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people."
+bsb: "Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people."
+hebrew: "וְהַנֶּ֗פֶשׁ אֲשֶׁ֨ר תִּפְנֶ֤ה אֶל־ הָֽאֹבֹת֙ וְאֶל־ הַיִּדְּעֹנִ֔ים לִזְנ֖וֹת אַחֲרֵיהֶ֑ם וְנָתַתִּ֤י אֶת־ פָּנַי֙ בַּנֶּ֣פֶשׁ הַהִ֔וא וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֥רֶב עַמּֽוֹ׃"
+pericope: "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0178]]"
+- "[[H3049]]"
+- "[[H9005]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1931]]"
+- "[[H3772I]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:6**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.
 <small><sub>**BSB:**</sub></small>
 Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5315J\|נֶּ֗פֶשׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H6437G\|תִּפְנֶ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H0178\|אֹבֹת֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3049\|יִּדְּעֹנִ֔ים]] [[H9005\|לִ]][[H2181\|זְנ֖וֹת]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנַ]][[H9020\|י֙]] [[H9003\|בַּ]][[H5315J\|נֶּ֣פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SANITATION|SANITATION]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.5|<< Leviticus 20:5]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.7|Leviticus 20:7 >>]]</td></tr></table>
 

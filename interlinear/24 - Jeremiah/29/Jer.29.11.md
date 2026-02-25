@@ -1,8 +1,65 @@
+---
+title: Jeremiah 29:11
+type: Verse
+kjv: "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end."
+bsb: "For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a future and a hope."
+hebrew: "כִּי֩ אָנֹכִ֨י יָדַ֜עְתִּי אֶת־ הַמַּחֲשָׁבֹ֗ת אֲשֶׁ֧ר אָנֹכִ֛י חֹשֵׁ֥ב עֲלֵיכֶ֖ם נְאֻם־ יְהוָ֑ה מַחְשְׁב֤וֹת שָׁלוֹם֙ וְלֹ֣א לְרָעָ֔ה לָתֵ֥ת לָכֶ֖ם אַחֲרִ֥ית וְתִקְוָֽה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4284]]"
+- "[[H0834A]]"
+- "[[H2803I]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H7965I]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H7451I]]"
+- "[[H5414G]]"
+- "[[H0319]]"
+- "[[H8615B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:11**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.
 <small><sub>**BSB:**</sub></small>
 For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a future and a hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H0595\|אָנֹכִ֨י]] [[H3045\|יָדַ֜עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4284\|מַּחֲשָׁבֹ֗ת]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H2803I\|חֹשֵׁ֥ב]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H4284\|מַחְשְׁב֤וֹת]] [[H7965I\|שָׁלוֹם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9005\|לְ]][[H7451I\|רָעָ֔ה]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0319\|אַחֲרִ֥ית]] [[H9002\|וְ]][[H8615B\|תִקְוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.10|<< Jeremiah 29:10]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.12|Jeremiah 29:12 >>]]</td></tr></table>
 

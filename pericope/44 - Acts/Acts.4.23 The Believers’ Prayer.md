@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Believers’ Prayer
+type: Pericope
 pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 4
 book/chapter: "[[Acts.4|Acts 4]]"
-genre:
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.4.23]]"
 - "[[Acts.4.24]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.4.31]]"
 ---
 
-[[Acts.4|Acts 4:23 - Acts 4:31]]
+<small>[[Acts.4|Acts 4:23-31]]</small>
 *The Believers’ Prayer*
 
 [[Acts.4.23|23]] And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them.

@@ -1,6 +1,75 @@
+---
+title: LXX Isaiah 25:8
+type: Verse
+lxx: "Death swallowed prevailing; and again the lord God removed every tear from every face; he removed the scorn of the people from all the earth; for the mouth of the lord spoke."
+greek: "κατέπιεν ο θάνατος ισχύσας και πάλιν αφείλε κύριος ο θεός παν δάκρυον από παντός προσώπου το όνειδος του λαού αφείλεν από πάσης της γης το γαρ στόμα κυρίου ελάλησε"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2666]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G2480]]"
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G0851]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G1144]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G3681]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0851]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G4750]]"
+- "[[G2962]]"
+- "[[G2980]]"
+---
+
 **LXX Isaiah 25:8** 
 <small><sub>**LXX:**</sub></small>
 Death swallowed prevailing; and again \[the\] <span class="smallcaps">lord</span> God removed every tear from every face; he removed the scorn of the people from all the earth; for the mouth of \[the\] <span class="smallcaps">lord</span> spoke. 
+<small><sub>**Greek:**</sub></small>
+[[G2666\|κατέπιεν]] [[G3588\|ο]] [[G2288\|θάνατος]] [[G2480\|ισχύσας]] [[G2532\|και]] [[G3825\|πάλιν]] [[G0851\|αφείλε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G3956\|παν]] [[G1144\|δάκρυον]] [[G0575\|από]] [[G3956\|παντός]] [[G4383\|προσώπου]] [[G3588\|το]] [[G3681\|όνειδος]] [[G3588\|του]] [[G2992\|λαού]] [[G0851\|αφείλεν]] [[G0575\|από]] [[G3956\|πάσης]] [[G3588\|της]] [[G1093\|γης]] [[G3588\|το]] [[G1063\|γαρ]] [[G4750\|στόμα]] [[G2962\|κυρίου]] [[G2980\|ελάλησε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PEACE|PEACE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +107,6 @@ Death swallowed prevailing; and again \[the\] <span class="smallcaps">lord</span
 | mouth | **<big>[[G4750\|στόμα]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 | spoke. | **<big>[[G2980\|ελάλησε]]</big>** |
-[[Isa.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 
 

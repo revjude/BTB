@@ -1,6 +1,51 @@
+---
+title: LXX Job 30:31
+type: Verse
+lxx: "And my harp turned into mourning,  and my psalm into weeping for me."
+greek: "απέβη δε εις πένθος μου η κιθάρα ο δε ψαλμός μου εις κλαυθμόν εμοί"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[G0576]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G3997]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2788]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5568]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2805]]"
+- "[[G1473]]"
+---
+
 **LXX Job 30:31** 
 <small><sub>**LXX:**</sub></small>
 And my harp turned into mourning,  and my psalm into weeping for me. 
+<small><sub>**Greek:**</sub></small>
+[[G0576\|απέβη]] [[G1161\|δε]] [[G1519\|εις]] [[G3997\|πένθος]] [[G1473\|μου]] [[G3588\|η]] [[G2788\|κιθάρα]] [[G3588\|ο]] [[G1161\|δε]] [[G5568\|ψαλμός]] [[G1473\|μου]] [[G1519\|εις]] [[G2805\|κλαυθμόν]] [[G1473\|εμοί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.30|<< Job 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.1|Job 31:1 >>]]</td></tr></table>
 
@@ -19,6 +64,6 @@ And my harp turned into mourning,  and my psalm into weeping for me.
 | into | **<big>[[G1519\|εις]]</big>** |
 | weeping | **<big>[[G2805\|κλαυθμόν]]</big>** |
 | for me. | **<big>[[G1473\|εμοί]]</big>** |
-[[Job.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.30|<< Job 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.1|Job 31:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.30|<< Job 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.1|Job 31:1 >>]]</td></tr></table>
 
 

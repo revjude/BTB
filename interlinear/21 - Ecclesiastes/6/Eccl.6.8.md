@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 6:8
+type: Verse
+kjv: "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?"
+bsb: "What advantage, then, has the wise man over the fool? What gain comes to the poor man who knows how to conduct himself before others?"
+hebrew: "כִּ֛י מַה־ יּוֹתֵ֥ר לֶחָכָ֖ם מִֽן־ הַכְּסִ֑יל מַה־ לֶּעָנִ֣י יוֹדֵ֔עַ לַהֲלֹ֖ךְ נֶ֥גֶד הַחַיִּֽים׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3148]]"
+- "[[H9005]]"
+- "[[H2450]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3684]]"
+- "[[H6041]]"
+- "[[H3045]]"
+- "[[H1980I]]"
+- "[[H5048]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:8**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?
 <small><sub>**BSB:**</sub></small>
 What advantage, then, has the wise man over the fool? What gain comes to the poor man who knows how to conduct himself before others?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H4100\|מַה]][[H9014\|־]] [[H3148\|יּוֹתֵ֥ר]] [[H9005\|לֶ]][[H2450\|חָכָ֖ם]] [[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הַ]][[H3684\|כְּסִ֑יל]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לֶּ]][[H6041\|עָנִ֣י]] [[H3045\|יוֹדֵ֔עַ]] [[H9005\|לַ]][[H1980I\|הֲלֹ֖ךְ]] [[H5048\|נֶ֥גֶד]] [[H9009\|הַ]][[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.7|<< Ecclesiastes 6:7]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.9|Ecclesiastes 6:9 >>]]</td></tr></table>
 

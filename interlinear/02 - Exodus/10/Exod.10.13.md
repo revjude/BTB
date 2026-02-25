@@ -1,8 +1,74 @@
+---
+title: Exodus 10:13
+type: Verse
+kjv: "And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts."
+bsb: "So Moses stretched out his staff over the land of Egypt, and throughout that day and night the LORD sent an east wind across the land. By morning the east wind had brought the locusts."
+hebrew: "וַיֵּ֨ט מֹשֶׁ֣ה אֶת־ מַטֵּהוּ֮ עַל־ אֶ֣רֶץ מִצְרַיִם֒ וַֽיהוָ֗ה נִהַ֤ג ר֥וּחַ קָדִים֙ בָּאָ֔רֶץ כָּל־ הַיּ֥וֹם הַה֖וּא וְכָל־ הַלָּ֑יְלָה הַבֹּ֣קֶר הָיָ֔ה וְר֙וּחַ֙ הַקָּדִ֔ים נָשָׂ֖א אֶת־ הָאַרְבֶּֽה׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4294G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5090A]]"
+- "[[H7307H]]"
+- "[[H6921]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H3915]]"
+- "[[H1242]]"
+- "[[H1961]]"
+- "[[H5375H]]"
+- "[[H0697]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:13**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all [that] night; [and] when it was morning, the east wind brought the locusts.
 <small><sub>**BSB:**</sub></small>
 So Moses stretched out his staff over the land of Egypt, and throughout that day and night the LORD sent an east wind across the land. By morning the east wind had brought the locusts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5186\|יֵּ֨ט]] [[H4872\|מֹשֶׁ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4294G\|מַטֵּ]][[H9023\|הוּ֮]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H9002\|וַֽ]][[H3068G\|יהוָ֗ה]] [[H5090A\|נִהַ֤ג]] [[H7307H\|ר֥וּחַ]] [[H6921\|קָדִים֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H9009\|הַ]][[H1242\|בֹּ֣קֶר]] [[H1961\|הָיָ֔ה]] [[H9002\|וְ]][[H7307H\|ר֙וּחַ֙]] [[H9009\|הַ]][[H6921\|קָּדִ֔ים]] [[H5375H\|נָשָׂ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0697\|אַרְבֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.12|<< Exodus 10:12]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.14|Exodus 10:14 >>]]</td></tr></table>
 

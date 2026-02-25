@@ -1,10 +1,62 @@
+---
+title: Luke 2:35
+type: Verse
+kjv: "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+bsb: "so that the thoughts of many hearts will be revealed—and a sword will pierce your soul as well.”"
+greek: "καὶ σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία ὅπως ἂν ἀποκαλυφθῶσιν ἐκ πολλῶν καρδιῶν διαλογισμοί.¶"
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARY|MARY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G1330]]"
+- "[[G4501]]"
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G0601]]"
+- "[[G1537]]"
+- "[[G4183]]"
+- "[[G2588]]"
+- "[[G1261]]"
+texts:
+- NKO
+---
+
 **Luke 2:35**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
 <small><sub>**BSB:**</sub></small>
 so that the thoughts of many hearts will be revealed—and a sword will pierce your soul as well.”
-<small><sub>**Literal:**</sub></small>
-and of you also of her the soul will go through a sword — so that maybe may be revealed of many hearts [the] thoughts.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.34|<< Luke 2:34]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.36|Luke 2:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|σοῦ]]  [[G1161\|δὲ]]  [[G0846\|αὐτῆς]]  [[G3588\|τὴν]]  [[G5590G\|ψυχὴν]]  [[G1330\|διελεύσεται]]  [[G4501\|ῥομφαία]]  [[G3704\|ὅπως]]  [[G0302\|ἂν]]  [[G0601\|ἀποκαλυφθῶσιν]]  [[G1537\|ἐκ]]  [[G4183\|πολλῶν]]  [[G2588\|καρδιῶν]]  [[G1261\|διαλογισμοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARY|MARY]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.34|<< Luke 2:34]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.36|Luke 2:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

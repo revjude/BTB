@@ -1,10 +1,72 @@
+---
+title: Romans 6:4
+type: Verse
+kjv: "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+bsb: "We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life."
+greek: "συνετάφημεν οὖν αὐτῷ διὰ τοῦ βαπτίσματος εἰς τὸν θάνατον, ἵνα ὥσπερ ἠγέρθη Χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ πατρός, οὕτως καὶ ἡμεῖς ἐν καινότητι ζωῆς περιπατήσωμεν."
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[G4916]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G0908]]"
+- "[[G1519]]"
+- "[[G2288]]"
+- "[[G2443]]"
+- "[[G5618]]"
+- "[[G1453]]"
+- "[[G5547]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G1391]]"
+- "[[G3962]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G2538]]"
+- "[[G2222]]"
+- "[[G4043]]"
+texts:
+- NKO
+---
+
 **Romans 6:4**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 <small><sub>**BSB:**</sub></small>
 We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life.
-<small><sub>**Literal:**</sub></small>
-We were buried therefore with Him through <the> baptism into <the> death, so that just as was raised up Christ out from [the] dead through the glory of the Father, so also we ourselves in newness of life may walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.3|<< Romans 6:3]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.5|Romans 6:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4916\|συνετάφημεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G0908\|βαπτίσματος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2288\|θάνατον,]]  [[G2443\|ἵνα]]  [[G5618\|ὥσπερ]]  [[G1453\|ἠγέρθη]]  [[G5547\|Χριστὸς]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G3962\|πατρός,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1722\|ἐν]]  [[G2538\|καινότητι]]  [[G2222\|ζωῆς]]  [[G4043\|περιπατήσωμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BURIAL|BURIAL]] • [[topic DEATH|DEATH]] • [[topic GLORY|GLORY]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WALKING|WALKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.3|<< Romans 6:3]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.5|Romans 6:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

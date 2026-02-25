@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 15:27
+type: Verse
+kjv: "For he hath put all things under his feet. But when he saith, all things are put under him, it is manifest that he is excepted, which did put all things under him."
+bsb: "For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him."
+greek: "πάντα γὰρ ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ· ὅταν δὲ εἴπῃ ὅτι πάντα ὑποτέτακται, δῆλον ὅτι ἐκτὸς τοῦ ὑποτάξαντος αὐτῷ τὰ πάντα·"
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G5293]]"
+- "[[G5259H]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1212]]"
+- "[[G1622]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:27**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him.
 <small><sub>**BSB:**</sub></small>
 For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
-<small><sub>**Literal:**</sub></small>
-All things for He has put in subjection under the feet of Him; When however it may be said that all things have been put in subjection, [it is] evident that [is] excepted the [One who] having put in subjection to Him <the> all things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.26|<< 1 Corinthians 15:26]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.28|1 Corinthians 15:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G1063\|γὰρ]]  [[G5293\|ὑπέταξεν]]  [[G5259H\|ὑπὸ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ·]]  [[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G2036\|εἴπῃ]]  [[G3754G\|ὅτι]]  [[G3956\|πάντα]]  [[G5293\|ὑποτέτακται,]]  [[G1212\|δῆλον]]  [[G3754G\|ὅτι]]  [[G1622\|ἐκτὸς]]  [[G3588\|τοῦ]]  [[G5293\|ὑποτάξαντος]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic CHURCH|CHURCH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.26|<< 1 Corinthians 15:26]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.28|1 Corinthians 15:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 15:27** is...
 > $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]

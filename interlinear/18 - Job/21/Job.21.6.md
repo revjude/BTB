@@ -1,8 +1,48 @@
+---
+title: Job 21:6
+type: Verse
+kjv: "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+bsb: "When I remember, terror takes hold, and my body trembles in horror."
+hebrew: "וְאִם־ זָכַ֥רְתִּי וְנִבְהָ֑לְתִּי וְאָחַ֥ז בְּ֝שָׂרִ֗י פַּלָּצֽוּת׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H0926]]"
+- "[[H9001]]"
+- "[[H0270]]"
+- "[[H1320]]"
+- "[[H9020]]"
+- "[[H6427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:6**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even when I remember I am afraid, and trembling taketh hold on my flesh.
 <small><sub>**BSB:**</sub></small>
 When I remember, terror takes hold, and my body trembles in horror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H2142\|זָכַ֥רְתִּי]] [[H9002\|וְ]][[H0926\|נִבְהָ֑לְתִּי]] [[H9001\|וְ]][[H0270\|אָחַ֥ז]] [[H1320\|בְּ֝שָׂרִ֗]][[H9020\|י]] [[H6427\|פַּלָּצֽוּת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.5|<< Job 21:5]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.7|Job 21:7 >>]]</td></tr></table>
 

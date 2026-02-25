@@ -45,7 +45,7 @@
 
 - Be without  [[Titus.1.7|Tit 1:7]]
 
-- Warn the people against [[Heb.3.7|Heb 3:7]]-[[Heb.3.12|12]]
+- Warn the people against [[Heb.3.7|Heb 3:7-12]]
 
 - Pray that the people may be forgiven for [[Exod.34.9|Ex 34:9]]; [[Deut.9.27|De  9:27]]
 
@@ -63,7 +63,7 @@
 
 - The Israelites [[Exod.32.9|Ex 32:9]]; [[Deut.9.6|De 9:6]],[[Deut.9.13|13]]
 
-- King Saul [[1Sam.15.19|1Sa 15:19]]-[[1Sam.15.23|23]]
+- King Saul [[1Sam.15.19|1Sa 15:19-23]]
 
 - David [[2Sam.24.4|2Sa 24:4]]
 

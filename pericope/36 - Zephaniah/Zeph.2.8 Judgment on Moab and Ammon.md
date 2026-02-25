@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Moab and Ammon
+type: Pericope
 pericope: "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 2
 book/chapter: "[[Zeph.2|Zephaniah 2]]"
-genre:
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 4
 verses:
 - "[[Zeph.2.8]]"
 - "[[Zeph.2.9]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Zeph.2.11]]"
 ---
 
-[[Zeph.2|Zephaniah 2:8 - Zephaniah 2:11]]
+<small>[[Zeph.2|Zephaniah 2:8-11]]</small>
 *Judgment on Moab and Ammon*
 
 [[Zeph.2.8|8]] I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified \[themselves\] against their border.

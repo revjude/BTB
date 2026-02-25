@@ -1,8 +1,64 @@
+---
+title: 1 Kings 20:41
+type: Verse
+kjv: "And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he was of the prophets."
+bsb: "Then the prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets."
+hebrew: "וַיְמַהֵ֕ר וַיָּ֙סַר֙ אֶת־ הָ֣אֲפֵ֔ר מֵעֲלֵ֖י עֵינָ֑יו וַיַּכֵּ֤ר אֹתוֹ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל כִּ֥י מֵֽהַנְּבִאִ֖ים הֽוּא׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0666]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5234A]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H5030]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Kings 20:41**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he [was] of the prophets.
 <small><sub>**BSB:**</sub></small>
 Then the prophet quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|יְמַהֵ֕ר]] [[H9001\|וַ]][[H5493G\|יָּ֙סַר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0666\|אֲפֵ֔ר]] [[H9006\|מֵ]][[H5921A\|עֲלֵ֖י]] [[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5234A\|יַּכֵּ֤ר]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּ֥י]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic PARABLES|PARABLES]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.40|<< 1 Kings 20:40]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.42|1 Kings 20:42 >>]]</td></tr></table>
 

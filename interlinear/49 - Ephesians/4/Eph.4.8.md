@@ -1,10 +1,58 @@
+---
+title: Ephesians 4:8
+type: Verse
+kjv: "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+bsb: "This is why it says: “When He ascended on high, He led captives away, and gave gifts to men.”"
+greek: "διὸ λέγει· ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν, καὶ ἔδωκεν δόματα τοῖς ἀνθρώποις."
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G1352]]"
+- "[[G3004G]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G5311]]"
+- "[[G0162]]"
+- "[[G0161]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1390]]"
+- "[[G3588]]"
+- "[[G0444]]"
+texts:
+- NKO
+- ko
+---
+
 **Ephesians 4:8**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.
 <small><sub>**BSB:**</sub></small>
 This is why it says: “When He ascended on high, He led captives away, and gave gifts to men.”
-<small><sub>**Literal:**</sub></small>
-Therefore it says: Having ascended on high He led captive captivity, and he gave gifts <the> to men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.7|<< Ephesians 4:7]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.9|Ephesians 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G3004G\|λέγει·]]  [[G0305\|ἀναβὰς]]  [[G1519\|εἰς]]  [[G5311\|ὕψος]]  [[G0162\|ᾐχμαλώτευσεν]]  [[G0161\|αἰχμαλωσίαν,]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G1390\|δόματα]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.7|<< Ephesians 4:7]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.9|Ephesians 4:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 4:8** is...
 > $\quad$ referencing: [[LXX.Ps.68.18|Ps 68:18]]

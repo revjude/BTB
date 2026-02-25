@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 10:10
+type: Verse
+kjv: "And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, and the LORD would not destroy thee."
+bsb: "I stayed on the mountain forty days and forty nights, like the first time, and that time the LORD again listened to me and agreed not to destroy you."
+hebrew: "וְאָנֹכִ֞י עָמַ֣דְתִּי בָהָ֗ר כַּיָּמִים֙ הָרִ֣אשֹׁנִ֔ים אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה וַיִּשְׁמַ֨ע יְהוָ֜ה אֵלַ֗י גַּ֚ם בַּפַּ֣עַם הַהִ֔וא לֹא־ אָבָ֥ה יְהוָ֖ה הַשְׁחִיתֶֽךָ׃"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0705]]"
+- "[[H3915]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H6471]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H7843]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:10**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, [and] the LORD would not destroy thee.
 <small><sub>**BSB:**</sub></small>
 I stayed on the mountain forty days and forty nights, like the first time, and that time the LORD again listened to me and agreed not to destroy you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָנֹכִ֞י]] [[H5975G\|עָמַ֣דְתִּי]] [[H9003\|בָ]][[H2022G\|הָ֗ר]] [[H9004\|כַּ]][[H3117G\|יָּמִים֙]] [[H9009\|הָ]][[H7223G\|רִ֣אשֹׁנִ֔ים]] [[H0705\|אַרְבָּעִ֣ים]] [[H3117G\|י֔וֹם]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֖ים]] [[H3915\|לָ֑יְלָה]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֨ע]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1571\|גַּ֚ם]] [[H9003\|בַּ]][[H6471\|פַּ֣עַם]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H3808\|לֹא]][[H9014\|־]] [[H0014\|אָבָ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H7843\|הַשְׁחִיתֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.9|<< Deuteronomy 10:9]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.11|Deuteronomy 10:11 >>]]</td></tr></table>
 

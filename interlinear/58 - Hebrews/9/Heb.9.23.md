@@ -1,10 +1,64 @@
+---
+title: Hebrews 9:23
+type: Verse
+kjv: "It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these."
+bsb: "So it was necessary for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves with better sacrifices than these."
+greek: "Ἀνάγκη οὖν τὰ μὲν ὑποδείγματα τῶν ἐν τοῖς οὐρανοῖς τούτοις καθαρίζεσθαι αὐτὰ δὲ τὰ ἐπουράνια κρείττοσιν θυσίαις παρὰ ταύτας."
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PATTERN|PATTERN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G0318]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G5262]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3778]]"
+- "[[G2511]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G2032]]"
+- "[[G2908]]"
+- "[[G2378]]"
+- "[[G3844]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:23**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [It was] therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
 <small><sub>**BSB:**</sub></small>
 So it was necessary for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves with better sacrifices than these.
-<small><sub>**Literal:**</sub></small>
-[It was] necessary then [for] the indeed representations of the [things] in the heavens with these to be purified themselves however the heavenly things with better sacrifices than these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.22|<< Hebrews 9:22]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.24|Hebrews 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0318\|Ἀνάγκη]]  [[G3767\|οὖν]]  [[G3588\|τὰ]]  [[G3303\|μὲν]]  [[G5262\|ὑποδείγματα]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G3778\|τούτοις]]  [[G2511\|καθαρίζεσθαι]]  [[G0846\|αὐτὰ]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G2032\|ἐπουράνια]]  [[G2908\|κρείττοσιν]]  [[G2378\|θυσίαις]]  [[G3844\|παρὰ]]  [[G3778\|ταύτας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic COLORS|COLORS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PATTERN|PATTERN]] • [[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.22|<< Hebrews 9:22]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.24|Hebrews 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Red Heifer
+type: Pericope
 pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 19
 book/chapter: "[[Num.19|Numbers 19]]"
-genre:
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.19.1]]"
 - "[[Num.19.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.19.10]]"
 ---
 
-[[Num.19|Numbers 19:1 - Numbers 19:10]]
+<small>[[Num.19|Numbers 19:1-10]]</small>
 *The Red Heifer*
 
 [[Num.19.1|1]] And the LORD spake unto Moses and unto Aaron, saying,

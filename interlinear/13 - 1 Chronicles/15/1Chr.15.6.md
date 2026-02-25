@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 15:6
+type: Verse
+kjv: "Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:"
+bsb: "from the Merarites, Asaiah the chief and 220 of his relatives;"
+hebrew: "לִבְנֵ֖י מְרָרִ֑י עֲשָׂיָ֣ה הַשָּׂ֔ר וְאֶחָ֖יו מָאתַ֥יִם וְעֶשְׂרִֽים׃ ס"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAIAH|ASAIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H4847]]"
+- "[[H6222K]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:6**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:
 <small><sub>**BSB:**</sub></small>
 from the Merarites, Asaiah the chief and 220 of his relatives;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֖י]] [[H4847\|מְרָרִ֑י]] [[H6222K\|עֲשָׂיָ֣ה]] [[H9009\|הַ]][[H8269\|שָּׂ֔ר]] [[H9002\|וְ]][[H0251H\|אֶחָ֖י]][[H9023\|ו]] [[H3967\|מָאתַ֥יִם]] [[H9002\|וְ]][[H6242\|עֶשְׂרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAIAH|ASAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.5|<< 1 Chronicles 15:5]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.7|1 Chronicles 15:7 >>]]</td></tr></table>
 
@@ -14,7 +59,7 @@ from the Merarites, Asaiah the chief and 220 of his relatives;
 | the leader  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8269\|שָּׂ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two hundred  |**<big>&#8207;[[H3967\|מָאתַ֥יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and twenty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6242\|עֶשְׂרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.5|<< 1 Chronicles 15:5]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.7|1 Chronicles 15:7 >>]]</td></tr></table>
 
 

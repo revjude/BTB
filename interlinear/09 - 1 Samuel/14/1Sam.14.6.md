@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 14:6
+type: Verse
+kjv: "And Jonathan said to the young man that bare his armour, Come, and let us go over unto the garrison of these uncircumcised: it may be that the LORD will work for us: for there is no restraint to the LORD to save by many or by few."
+bsb: "Jonathan said to the young man bearing his armor, “Come, let us cross over to the outpost of these uncircumcised men. Perhaps the LORD will work on our behalf. Nothing can hinder the LORD from saving, whether by many or by few.”"
+hebrew: "וַיֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל־ הַנַּ֣עַר׀ נֹשֵׂ֣א כֵלָ֗יו לְכָה֙ וְנַעְבְּרָ֗ה אֶל־ מַצַּב֙ הָעֲרֵלִ֣ים הָאֵ֔לֶּה אוּלַ֛י יַעֲשֶׂ֥ה יְהוָ֖ה לָ֑נוּ כִּ֣י אֵ֤ין לַֽיהוָה֙ מַעְצ֔וֹר לְהוֹשִׁ֥יעַ בְּרַ֖ב א֥וֹ בִמְעָֽט׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3083H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9015]]"
+- "[[H5375H]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H4673]]"
+- "[[H6189]]"
+- "[[H0428]]"
+- "[[H0194]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4622]]"
+- "[[H3467]]"
+- "[[H9003]]"
+- "[[H7227A]]"
+- "[[H0176A]]"
+- "[[H4592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:6**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan said to the young man that bare his armour, Come, and let us go over unto the garrison of these uncircumcised: it may be that the LORD will work for us: for [there is] no restraint to the LORD to save by many or by few.
 <small><sub>**BSB:**</sub></small>
 Jonathan said to the young man bearing his armor, “Come, let us cross over to the outpost of these uncircumcised men. Perhaps the LORD will work on our behalf. Nothing can hinder the LORD from saving, whether by many or by few.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3083H\|יְהוֹנָתָ֜ן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֣עַר]][[H9015\|׀]] [[H5375H\|נֹשֵׂ֣א]] [[H3627\|כֵלָ֗י]][[H9023\|ו]] [[H1980K\|לְכָ]][[H9012\|ה֙]] [[H9002\|וְ]][[H5674A\|נַעְבְּרָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4673\|מַצַּב֙]] [[H9009\|הָ]][[H6189\|עֲרֵלִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0194\|אוּלַ֛י]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H4622\|מַעְצ֔וֹר]] [[H9005\|לְ]][[H3467\|הוֹשִׁ֥יעַ]] [[H9003\|בְּ]][[H7227A\|רַ֖ב]] [[H0176A\|א֥וֹ]] [[H9003\|בִ]][[H4592\|מְעָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JONATHAN|JONATHAN]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.5|<< 1 Samuel 14:5]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.7|1 Samuel 14:7 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Galatians 2:3
+type: Verse
+kjv: "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:"
+bsb: "Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek."
+greek: "ἀλλ᾽ οὐδὲ Τίτος ὁ σὺν ἐμοί, Ἕλλην ὤν, ἠναγκάσθη περιτμηθῆναι·"
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3761]]"
+- "[[G5103]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G1473]]"
+- "[[G1672]]"
+- "[[G1510]]"
+- "[[G0315]]"
+- "[[G4059]]"
+texts:
+- NKO
+---
+
 **Galatians 2:3**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
 <small><sub>**BSB:**</sub></small>
 Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek.
-<small><sub>**Literal:**</sub></small>
-But not even Titus who [was] with me myself, a Greek being, was compelled to be circumcised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.2|<< Galatians 2:2]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.4|Galatians 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3761\|οὐδὲ]]  [[G5103\|Τίτος]]  [[G3588\|ὁ]]  [[G4862\|σὺν]]  [[G1473\|ἐμοί,]]  [[G1672\|Ἕλλην]]  [[G1510\|ὤν,]]  [[G0315\|ἠναγκάσθη]]  [[G4059\|περιτμηθῆναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.2|<< Galatians 2:2]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.4|Galatians 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

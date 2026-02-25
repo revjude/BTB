@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 30:10
+type: Verse
+kjv: "If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, and if thou turn unto the LORD thy God with all thine heart, and with all thy soul."
+bsb: "if you obey the LORD your God by keeping His commandments and statutes that are written in this Book of the Law, and if you turn to Him with all your heart and with all your soul."
+hebrew: "כִּ֣י תִשְׁמַ֗ע בְּקוֹל֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר מִצְוֹתָיו֙ וְחֻקֹּתָ֔יו הַכְּתוּבָ֕ה בְּסֵ֥פֶר הַתּוֹרָ֖ה הַזֶּ֑ה כִּ֤י תָשׁוּב֙ אֶל־ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל־ לְבָבְךָ֖ וּבְכָל־ נַפְשֶֽׁךָ׃ פ"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H3789]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H2088]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:10**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, [and] if thou turn unto the LORD thy God with all thine heart, and with all thy soul.
 <small><sub>**BSB:**</sub></small>
 if you obey the LORD your God by keeping His commandments and statutes that are written in this Book of the Law, and if you turn to Him with all your heart and with all your soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H8085H\|תִשְׁמַ֗ע]] [[H9003\|בְּ]][[H6963A\|קוֹל֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9005\|לִ]][[H8104G\|שְׁמֹ֤ר]] [[H4687\|מִצְוֹתָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H2708\|חֻקֹּתָ֔י]][[H9023\|ו]] [[H9009\|הַ]][[H3789\|כְּתוּבָ֕ה]] [[H9003\|בְּ]][[H5612H\|סֵ֥פֶר]] [[H9009\|הַ]][[H8451\|תּוֹרָ֖ה]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֤י]] [[H7725G\|תָשׁוּב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic HOLINESS|HOLINESS]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.9|<< Deuteronomy 30:9]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.11|Deuteronomy 30:11 >>]]</td></tr></table>
 
@@ -28,7 +95,7 @@ if you obey the LORD your God by keeping His commandments and statutes that are 
 | with all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3824\|לְבָבְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| le.va.ve.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with all  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| being your  |**<big>&#8207;[[H5315G\|נַפְשֶֽׁ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| being your  |**<big>&#8207;[[H5315G\|נַפְשֶֽׁ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.9|<< Deuteronomy 30:9]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.11|Deuteronomy 30:11 >>]]</td></tr></table>
 
 

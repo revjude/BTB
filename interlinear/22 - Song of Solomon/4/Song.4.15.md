@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 4:15
+type: Verse
+kjv: "A fountain of gardens, a well of living waters, and streams from Lebanon."
+bsb: "You are a garden spring, a well of fresh water flowing down from Lebanon."
+hebrew: "מַעְיַ֣ן גַּנִּ֔ים בְּאֵ֖ר מַ֣יִם חַיִּ֑ים וְנֹזְלִ֖ים מִן־ לְבָנֽוֹן׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic LEBANON|LEBANON]]"
+strongs:
+- "[[H4599]]"
+- "[[H1588M]]"
+- "[[H0875]]"
+- "[[H4325G]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H5140]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3844G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:15**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fountain of gardens, a well of living waters, and streams from Lebanon.
 <small><sub>**BSB:**</sub></small>
 You are a garden spring, a well of fresh water flowing down from Lebanon.
+<small><sub>**Hebrew:**</sub></small>
+[[H4599\|מַעְיַ֣ן]] [[H1588M\|גַּנִּ֔ים]] [[H0875\|בְּאֵ֖ר]] [[H4325G\|מַ֣יִם]] [[H2416A\|חַיִּ֑ים]] [[H9002\|וְ]][[H5140\|נֹזְלִ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H3844G\|לְבָנֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic LEBANON|LEBANON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.14|<< Song of Solomon 4:14]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.16|Song of Solomon 4:16 >>]]</td></tr></table>
 

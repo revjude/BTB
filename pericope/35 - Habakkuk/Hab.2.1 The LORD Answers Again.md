@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Answers Again
+type: Pericope
 pericope: "[[Hab.2.1 The LORD Answers Again|The LORD Answers Again]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Habakkuk
 chapter: 2
 book/chapter: "[[Hab.2|Habakkuk 2]]"
-genre:
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - dialogue
 - theodicy
+verse_count: 5
 verses:
 - "[[Hab.2.1]]"
 - "[[Hab.2.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Hab.2.5]]"
 ---
 
-[[Hab.2|Habakkuk 2:1 - Habakkuk 2:5]]
+<small>[[Hab.2|Habakkuk 2:1-5]]</small>
 *The LORD Answers Again*
 
 [[Hab.2.1|1]] I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.

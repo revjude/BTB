@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 30:13
+type: Verse
+kjv: "Neither is it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?"
+bsb: "And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea to get it for us and proclaim it, that we may obey it?’"
+hebrew: "וְלֹֽא־ מֵעֵ֥בֶר לַיָּ֖ם הִ֑וא לֵאמֹ֗ר מִ֣י יַעֲבָר־ לָ֜נוּ אֶל־ עֵ֤בֶר הַיָּם֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַעֲשֶֽׂנָּה׃"
+pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3220G]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H5674A]]"
+- "[[H9035]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3947J]]"
+- "[[H9034]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:13**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither [is] it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?
 <small><sub>**BSB:**</sub></small>
 And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea to get it for us and proclaim it, that we may obey it?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H9006\|מֵ]][[H5676H\|עֵ֥בֶר]] [[H9005\|לַ]][[H3220G\|יָּ֖ם]] [[H1931\|הִ֑וא]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4310\|מִ֣י]] [[H5674A\|יַעֲבָר]][[H9014\|־]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5676H\|עֵ֤בֶר]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H9002\|וְ]][[H3947J\|יִקָּחֶ֣]][[H9034\|הָ]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H8085G\|יַשְׁמִעֵ֥]][[H9035\|נוּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9002\|וְ]][[H6213A\|נַעֲשֶֽׂ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXCUSES|EXCUSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.12|<< Deuteronomy 30:12]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.14|Deuteronomy 30:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,78 @@
+---
+title: Genesis 24:14
+type: Verse
+kjv: "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master."
+bsb: "Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”"
+hebrew: "וְהָיָ֣ה הַֽנַּעֲרָ֗ אֲשֶׁ֨ר אֹמַ֤ר אֵלֶ֙יהָ֙ הַטִּי־ נָ֤א כַדֵּךְ֙ וְאֶשְׁתֶּ֔ה וְאָמְרָ֣ה שְׁתֵ֔ה וְגַם־ גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה אֹתָ֤הּ הֹכַ֙חְתָּ֙ לְעַבְדְּךָ֣ לְיִצְחָ֔ק וּבָ֣הּ אֵדַ֔ע כִּי־ עָשִׂ֥יתָ חֶ֖סֶד עִם־ אֲדֹנִֽי׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H5186]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3537]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H1571]]"
+- "[[H1581]]"
+- "[[H9021]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H3198]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H3327]]"
+- "[[H9003]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H2617A]]"
+- "[[H5973A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:14**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: [let the same be] she [that] thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
 <small><sub>**BSB:**</sub></small>
 Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֗]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|אֹמַ֤ר]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H5186\|הַטִּי]][[H9014\|־]] [[H4994\|נָ֤א]] [[H3537\|כַדֵּ]][[H9022\|ךְ֙]] [[H9002\|וְ]][[H8354\|אֶשְׁתֶּ֔ה]] [[H9001\|וְ]][[H0559\|אָמְרָ֣ה]] [[H8354\|שְׁתֵ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1581\|גְּמַלֶּ֖י]][[H9021\|ךָ]] [[H8248G\|אַשְׁקֶ֑ה]] [[H0853\|אֹתָ֤]][[H9034\|הּ]] [[H3198\|הֹכַ֙חְתָּ֙]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H3327\|יִצְחָ֔ק]] [[H9002\|וּ]][[H9003\|בָ֣]][[H9034\|הּ]] [[H3045\|אֵדַ֔ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H6213A\|עָשִׂ֥יתָ]] [[H2617A\|חֶ֖סֶד]] [[H5973A\|עִם]][[H9014\|־]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.13|<< Genesis 24:13]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.15|Genesis 24:15 >>]]</td></tr></table>
 

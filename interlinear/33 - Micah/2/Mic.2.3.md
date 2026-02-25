@@ -1,8 +1,71 @@
+---
+title: Micah 2:3
+type: Verse
+kjv: "Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil."
+bsb: "Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity."
+hebrew: "לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֥י חֹשֵׁ֛ב עַל־ הַמִּשְׁפָּחָ֥ה הַזֹּ֖את רָעָ֑ה אֲ֠שֶׁר לֹֽא־ תָמִ֨ישׁוּ מִשָּׁ֜ם צַוְּארֹֽתֵיכֶ֗ם וְלֹ֤א תֵֽלְכוּ֙ רוֹמָ֔ה כִּ֛י עֵ֥ת רָעָ֖ה הִֽיא׃"
+pericope: "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic MICAH|MICAH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H2803I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4940]]"
+- "[[H2063]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H6677A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H7317]]"
+- "[[H3588A]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:3**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time [is] evil.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H2803I\|חֹשֵׁ֛ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4940\|מִּשְׁפָּחָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H7451C\|רָעָ֑ה]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4185\|תָמִ֨ישׁוּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֜ם]] [[H6677A\|צַוְּארֹֽתֵי]][[H9026\|כֶ֗ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H1980I\|תֵֽלְכוּ֙]] [[H7317\|רוֹמָ֔ה]] [[H3588A\|כִּ֛י]] [[H6256\|עֵ֥ת]] [[H7451C\|רָעָ֖ה]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAH|MICAH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.2|<< Micah 2:2]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.4|Micah 2:4 >>]]</td></tr></table>
 

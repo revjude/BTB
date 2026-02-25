@@ -1,10 +1,66 @@
+---
+title: Luke 7:3
+type: Verse
+kjv: "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+bsb: "When the centurion heard about Jesus, he sent some Jewish elders to ask Him to come and heal his servant."
+greek: "ἀκούσας δὲ περὶ τοῦ Ἰησοῦ ἀπέστειλεν πρὸς αὐτὸν πρεσβυτέρους τῶν Ἰουδαίων ἐρωτῶν αὐτὸν ὅπως ἐλθὼν διασώσῃ τὸν δοῦλον αὐτοῦ."
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4245G]]"
+- "[[G2453]]"
+- "[[G2065]]"
+- "[[G3704]]"
+- "[[G2064]]"
+- "[[G1295]]"
+- "[[G1401]]"
+texts:
+- NKO
+---
+
 **Luke 7:3**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.
 <small><sub>**BSB:**</sub></small>
 When the centurion heard about Jesus, he sent some Jewish elders to ask Him to come and heal his servant.
-<small><sub>**Literal:**</sub></small>
-Having heard then about <the> Jesus he sent to Him elders of the Jews begging Him that having come He may save the servant of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.2|<< Luke 7:2]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.4|Luke 7:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσας]]  [[G1161\|δὲ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G0649\|ἀπέστειλεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G4245G\|πρεσβυτέρους]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2065\|ἐρωτῶν]]  [[G0846\|αὐτὸν]]  [[G3704\|ὅπως]]  [[G2064\|ἐλθὼν]]  [[G1295\|διασώσῃ]]  [[G3588\|τὸν]]  [[G1401\|δοῦλον]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.2|<< Luke 7:2]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.4|Luke 7:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

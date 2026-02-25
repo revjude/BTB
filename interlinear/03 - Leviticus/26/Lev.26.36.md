@@ -1,8 +1,80 @@
+---
+title: Leviticus 26:36
+type: Verse
+kjv: "And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth."
+bsb: "As for those of you who survive, I will send a faintness into their hearts in the lands of their enemies, so that even the sound of a windblown leaf will put them to flight. And they will flee as one flees the sword, and fall when no one pursues them."
+hebrew: "וְהַנִּשְׁאָרִ֣ים בָּכֶ֔ם וְהֵבֵ֤אתִי מֹ֙רֶךְ֙ בִּלְבָבָ֔ם בְּאַרְצֹ֖ת אֹיְבֵיהֶ֑ם וְרָדַ֣ף אֹתָ֗ם ק֚וֹל עָלֶ֣ה נִדָּ֔ף וְנָס֧וּ מְנֻֽסַת־ חֶ֛רֶב וְנָפְל֖וּ וְאֵ֥ין רֹדֵֽף׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H4816]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H7291]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6963H]]"
+- "[[H5929]]"
+- "[[H5086]]"
+- "[[H5127]]"
+- "[[H4499]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:36**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon them that are left [alive] of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
 <small><sub>**BSB:**</sub></small>
 As for those of you who survive, I will send a faintness into their hearts in the lands of their enemies, so that even the sound of a windblown leaf will put them to flight. And they will flee as one flees the sword, and fall when no one pursues them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֣ים]] [[H9003\|בָּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H0935P\|הֵבֵ֤אתִי]] [[H4816\|מֹ֙רֶךְ֙]] [[H9003\|בִּ]][[H3824\|לְבָבָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אַרְצֹ֖ת]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H7291\|רָדַ֣ף]] [[H0853\|אֹתָ֗]][[H9038\|ם]] [[H6963H\|ק֚וֹל]] [[H5929\|עָלֶ֣ה]] [[H5086\|נִדָּ֔ף]] [[H9001\|וְ]][[H5127\|נָס֧וּ]] [[H4499\|מְנֻֽסַת]][[H9014\|־]] [[H2719\|חֶ֛רֶב]] [[H9001\|וְ]][[H5307J\|נָפְל֖וּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7291\|רֹדֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic COWARDICE|COWARDICE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.35|<< Leviticus 26:35]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.37|Leviticus 26:37 >>]]</td></tr></table>
 

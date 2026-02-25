@@ -1,8 +1,58 @@
+---
+title: Psalm 137:9
+type: Verse
+kjv: "Happy shall he be, that taketh and dasheth thy little ones against the stones."
+bsb: "Blessed is he who seizes your infants and dashes them against the rocks."
+hebrew: "אַשְׁרֵ֤י׀ שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶֽת־ עֹ֝לָלַ֗יִךְ אֶל־ הַסָּֽלַע׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0835]]"
+- "[[H9015]]"
+- "[[H9007]]"
+- "[[H0270]]"
+- "[[H9001]]"
+- "[[H5310A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5768]]"
+- "[[H9022]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5553H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:9**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [shall he be], that taketh and dasheth thy little ones against the stones.
 <small><sub>**BSB:**</sub></small>
 Blessed is he who seizes your infants and dashes them against the rocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֤י]][[H9015\|׀]] [[H9007\|שֶׁ]][[H0270\|יֹּאחֵ֓ז]] [[H9001\|וְ]][[H5310A\|נִפֵּ֬ץ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5768\|עֹ֝לָלַ֗יִ]][[H9022\|ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5553H\|סָּֽלַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.8|<< Psalms 137:8]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.0|Psalms 138:0 >>]]</td></tr></table>
 

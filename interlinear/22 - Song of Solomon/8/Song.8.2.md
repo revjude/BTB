@@ -1,8 +1,58 @@
+---
+title: Song of Solomon 8:2
+type: Verse
+kjv: "I would lead thee, and bring thee into my mother’s house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate."
+bsb: "I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates."
+hebrew: "אֶנְהָֽגֲךָ֗ אֲבִֽיאֲךָ֛ אֶל־ בֵּ֥ית אִמִּ֖י תְּלַמְּדֵ֑נִי אַשְׁקְךָ֙ מִיַּ֣יִן הָרֶ֔קַח מֵעֲסִ֖יס רִמֹּנִֽי׃"
+pericope: "[[Song.8.1 Longing for Her Beloved|Longing for Her Beloved]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic POMEGRANATE|POMEGRANATE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H5090A]]"
+- "[[H9031]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H8248H]]"
+- "[[H9006]]"
+- "[[H3196]]"
+- "[[H9009]]"
+- "[[H7544]]"
+- "[[H6071]]"
+- "[[H7416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:2**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I would lead thee, [and] bring thee into my mother’s house, [who] would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.
 <small><sub>**BSB:**</sub></small>
 I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.
+<small><sub>**Hebrew:**</sub></small>
+[[H5090A\|אֶנְהָֽגֲ]][[H9031\|ךָ֗]] [[H0935P\|אֲבִֽיאֲ]][[H9031\|ךָ֛]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H0517\|אִמִּ֖]][[H9020\|י]] [[H3925G\|תְּלַמְּדֵ֑]][[H9030\|נִי]] [[H8248H\|אַשְׁקְ]][[H9031\|ךָ֙]] [[H9006\|מִ]][[H3196\|יַּ֣יִן]] [[H9009\|הָ]][[H7544\|רֶ֔קַח]] [[H9006\|מֵ]][[H6071\|עֲסִ֖יס]] [[H7416\|רִמֹּנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POMEGRANATE|POMEGRANATE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.1|<< Song of Solomon 8:1]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.3|Song of Solomon 8:3 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaiah’s Message of Deliverance
+type: Pericope
 pericope: "[[2Kgs.19.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 19
 book/chapter: "[[2Kgs.19|2 Kings 19]]"
-genre:
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.19.1]]"
 - "[[2Kgs.19.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.19.7]]"
 ---
 
-[[2Kgs.19|2 Kings 19:1 - 2 Kings 19:7]]
+<small>[[2Kgs.19|2 Kings 19:1-7]]</small>
 *Isaiah’s Message of Deliverance*
 
 [[2Kgs.19.1|1]] And it came to pass, when king Hezekiah heard \[it\], that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.

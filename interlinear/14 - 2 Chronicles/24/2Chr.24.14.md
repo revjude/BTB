@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 24:14
+type: Verse
+kjv: "And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada."
+bsb: "When they were finished, they brought the rest of the money to the king and Jehoiada, and with it were made articles for the house of the LORD—utensils for the service and for the burnt offerings, dishes, and other objects of gold and silver. Throughout the days of Jehoiada, burnt offerings were presented regularly in the house of the LORD."
+hebrew: "וּֽכְכַלּוֹתָ֡ם הֵבִ֣יאוּ לִפְנֵי֩ הַמֶּ֨לֶךְ וִֽיהוֹיָדָ֜ע אֶת־ שְׁאָ֣ר הַכֶּ֗סֶף וַיַּעֲשֵׂ֨הוּ כֵלִ֤ים לְבֵית־ יְהוָה֙ כְּלֵ֣י שָׁרֵ֔ת וְהַעֲל֣וֹת וְכַפּ֔וֹת וּכְלֵ֥י זָהָ֖ב וָכָ֑סֶף וַ֠יִּֽהְיוּ מַעֲלִ֨ים עֹל֤וֹת בְּבֵית־ יְהוָה֙ תָּמִ֔יד כֹּ֖ל יְמֵ֥י יְהוֹיָדָֽע׃ פ"
+pericope: "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9048]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3077H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7605]]"
+- "[[H3701G]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H8335]]"
+- "[[H5927I]]"
+- "[[H3709I]]"
+- "[[H2091]]"
+- "[[H1961]]"
+- "[[H5930A]]"
+- "[[H9003]]"
+- "[[H8548]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:14**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had finished [it], they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, [even] vessels to minister, and to offer [withal], and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.
 <small><sub>**BSB:**</sub></small>
 When they were finished, they brought the rest of the money to the king and Jehoiada, and with it were made articles for the house of the LORD—utensils for the service and for the burnt offerings, dishes, and other objects of gold and silver. Throughout the days of Jehoiada, burnt offerings were presented regularly in the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9004\|כְ]][[H3615G\|כַלּוֹתָ֡]][[H9048\|ם]] [[H0935P\|הֵבִ֣יאוּ]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H9002\|וִֽ]][[H3077H\|יהוֹיָדָ֜ע]] [[H0853\|אֶת]][[H9014\|־]] [[H7605\|שְׁאָ֣ר]] [[H9009\|הַ]][[H3701G\|כֶּ֗סֶף]] [[H9001\|וַ]][[H6213H\|יַּעֲשֵׂ֨]][[H9033\|הוּ]] [[H3627\|כֵלִ֤ים]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H3627\|כְּלֵ֣י]] [[H8335\|שָׁרֵ֔ת]] [[H9002\|וְ]][[H5927I\|הַעֲל֣וֹת]] [[H9002\|וְ]][[H3709I\|כַפּ֔וֹת]] [[H9002\|וּ]][[H3627\|כְלֵ֥י]] [[H2091\|זָהָ֖ב]] [[H9002\|וָ]][[H3701G\|כָ֑סֶף]] [[H9001\|וַ֠]][[H1961\|יִּֽהְיוּ]] [[H5927I\|מַעֲלִ֨ים]] [[H5930A\|עֹל֤וֹת]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H8548\|תָּמִ֔יד]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֥י]] [[H3077H\|יְהוֹיָדָֽע]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]] • [[topic SILVER|SILVER]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.13|<< 2 Chronicles 24:13]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.15|2 Chronicles 24:15 >>]]</td></tr></table>
 
@@ -35,7 +105,7 @@ When they were finished, they brought the rest of the money to the king and Jeho
 | continually  |**<big>&#8207;[[H8548\|תָּמִ֔יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֥י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.13|<< 2 Chronicles 24:13]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.15|2 Chronicles 24:15 >>]]</td></tr></table>
 
 

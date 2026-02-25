@@ -1,10 +1,61 @@
+---
+title: Acts 27:29
+type: Verse
+kjv: "Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day."
+bsb: "Fearing that we would run aground on the rocks, they dropped four anchors from the stern and prayed for daybreak."
+greek: "φοβούμενοί τε μή που κατὰ τραχεῖς τόπους ἐκπέσωμεν, ἐκ πρύμνης ῥίψαντες ἀγκύρας τέσσαρας ηὔχοντο ἡμέραν γενέσθαι."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANCHOR|ANCHOR]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G5399]]"
+- "[[G5037]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G2596]]"
+- "[[G5138]]"
+- "[[G5117]]"
+- "[[G1601]]"
+- "[[G1537]]"
+- "[[G4403]]"
+- "[[G4496]]"
+- "[[G0045]]"
+- "[[G5064]]"
+- "[[G2172]]"
+- "[[G2250]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Acts 27:29**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.
 <small><sub>**BSB:**</sub></small>
 Fearing that we would run aground on the rocks, they dropped four anchors from the stern and prayed for daybreak.
-<small><sub>**Literal:**</sub></small>
-Fearing then lest perhaps on rocky places we may fall, out of [the] stern having cast anchors four they were praying for day to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.28|<< Acts 27:28]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.30|Acts 27:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5399\|φοβούμενοί]]  [[G5037\|τε]]  [[G3361\|μή]]  [[G4458\|που]]  [[G2596\|κατὰ]]  [[G5138\|τραχεῖς]]  [[G5117\|τόπους]]  [[G1601\|ἐκπέσωμεν,]]  [[G1537\|ἐκ]]  [[G4403\|πρύμνης]]  [[G4496\|ῥίψαντες]]  [[G0045\|ἀγκύρας]]  [[G5064\|τέσσαρας]]  [[G2172\|ηὔχοντο]]  [[G2250\|ἡμέραν]]  [[G1096\|γενέσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANCHOR|ANCHOR]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.28|<< Acts 27:28]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.30|Acts 27:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

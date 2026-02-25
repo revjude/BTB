@@ -1,8 +1,57 @@
+---
+title: Psalm 10:15
+type: Verse
+kjv: "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none."
+bsb: "Break the arm of the wicked and evildoer; call him to account for his wickedness until none is left to be found."
+hebrew: "שְׁ֭בֹר זְר֣וֹעַ רָשָׁ֑ע וָ֝רָ֗ע תִּֽדְרוֹשׁ־ רִשְׁע֥וֹ בַל־ תִּמְצָֽא׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7665]]"
+- "[[H2220]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H7451H]]"
+- "[[H1875]]"
+- "[[H9014]]"
+- "[[H7562]]"
+- "[[H9023]]"
+- "[[H1077]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:15**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Break thou the arm of the wicked and the evil [man]: seek out his wickedness [till] thou find none.
 <small><sub>**BSB:**</sub></small>
 Break the arm of the wicked and evildoer; call him to account for his wickedness until none is left to be found.
+<small><sub>**Hebrew:**</sub></small>
+[[H7665\|שְׁ֭בֹר]] [[H2220\|זְר֣וֹעַ]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וָ֝]][[H7451H\|רָ֗ע]] [[H1875\|תִּֽדְרוֹשׁ]][[H9014\|־]] [[H7562\|רִשְׁע֥]][[H9023\|וֹ]] [[H1077\|בַל]][[H9014\|־]] [[H4672\|תִּמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.14|<< Psalms 10:14]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.16|Psalms 10:16 >>]]</td></tr></table>
 

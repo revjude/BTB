@@ -1,10 +1,58 @@
+---
+title: John 19:35
+type: Verse
+kjv: "And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe."
+bsb: "The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe."
+greek: "καὶ ὁ ἑωρακὼς μεμαρτύρηκεν καὶ ἀληθινὴ αὐτοῦ ἐστιν ἡ μαρτυρία καὶ ἐκεῖνος οἶδεν ὅτι ἀληθῆ λέγει, ἵνα καὶ ὑμεῖς πιστεύσητε."
+pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3708]]"
+- "[[G3140]]"
+- "[[G0228]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3141]]"
+- "[[G1565]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0227]]"
+- "[[G3004G]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G4100]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **John 19:35**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that saw [it] bare record, and his record is true: and he knoweth that he saith true, that ye might believe.
 <small><sub>**BSB:**</sub></small>
 The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe.
-<small><sub>**Literal:**</sub></small>
-And the [one] having seen has borne witness and true of him is the testimony And He knows that truth he is speaking, that also you yourselves may believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.34|<< John 19:34]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.36|John 19:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3708\|ἑωρακὼς]]  [[G3140\|μεμαρτύρηκεν]]  [[G2532\|καὶ]]  [[G0228\|ἀληθινὴ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G2532\|καὶ]]  [[G1565\|ἐκεῖνος]]  [[G6063\|οἶδεν]]  [[G3754G\|ὅτι]]  [[G0227\|ἀληθῆ]]  [[G3004G\|λέγει,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4100\|πιστεύσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.34|<< John 19:34]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.36|John 19:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

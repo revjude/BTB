@@ -1,8 +1,64 @@
+---
+title: Numbers 25:1
+type: Verse
+kjv: "And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab."
+bsb: "While Israel was staying in Shittim, the men began to indulge in sexual immorality with the daughters of Moab,"
+hebrew: "וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים וַיָּ֣חֶל הָעָ֔ם לִזְנ֖וֹת אֶל־ בְּנ֥וֹת מוֹאָֽב׃"
+pericope: "[[Num.25.1 Moab Seduces Israel|Moab Seduces Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic SHITTIM|SHITTIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H7851G]]"
+- "[[H2490C]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H2181]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 25:1**<big><big>[[Num.25.1 Moab Seduces Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 <small><sub>**BSB:**</sub></small>
 While Israel was staying in Shittim, the men began to indulge in sexual immorality with the daughters of Moab,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H7851G\|שִּׁטִּ֑ים]] [[H9001\|וַ]][[H2490C\|יָּ֣חֶל]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לִ]][[H2181\|זְנ֖וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H1323G\|בְּנ֥וֹת]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL|ISRAEL]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic MOABITES|MOABITES]] • [[topic SHITTIM|SHITTIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.25|<< Numbers 24:25]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.2|Numbers 25:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

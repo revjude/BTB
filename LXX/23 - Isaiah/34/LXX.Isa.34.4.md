@@ -1,6 +1,67 @@
+---
+title: LXX Isaiah 34:4
+type: Verse
+lxx: "And all the powers of the heavens shall melt away. And the heaven shall coil up as a scroll, and all the stars shall fall as leaves fall from a grapevine, and as leaves fall from a fig-tree."
+greek: "και τακήσονται πάσαι αι δυνάμεις των ουρανών και ελιγήσεται ο ουρανός ως βιβλίον και πάντα το άστρα πεσείται ως φύλλα εξ αμπέλου και ως πίπτει φύλλα από συκής"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic STARS|STARS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G5080]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1667]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G5613]]"
+- "[[G0975]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0798]]"
+- "[[G4098]]"
+- "[[G5613]]"
+- "[[G5444]]"
+- "[[G1537]]"
+- "[[G0288]]"
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G4098]]"
+- "[[G5444]]"
+- "[[G0575]]"
+- "[[G4808]]"
+---
+
 **LXX Isaiah 34:4** 
 <small><sub>**LXX:**</sub></small>
 And all the powers of the heavens shall melt away. And the heaven shall coil up as a scroll, and all the stars shall fall as leaves \[fall\] from a grapevine, and as leaves fall from a fig-tree. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5080\|τακήσονται]] [[G3956\|πάσαι]] [[G3588\|αι]] [[G1411\|δυνάμεις]] [[G3588\|των]] [[G3772\|ουρανών]] [[G2532\|και]] [[G1667\|ελιγήσεται]] [[G3588\|ο]] [[G3772\|ουρανός]] [[G5613\|ως]] [[G0975\|βιβλίον]] [[G2532\|και]] [[G3956\|πάντα]] [[G3588\|το]] [[G0798\|άστρα]] [[G4098\|πεσείται]] [[G5613\|ως]] [[G5444\|φύλλα]] [[G1537\|εξ]] [[G0288\|αμπέλου]] [[G2532\|και]] [[G5613\|ως]] [[G4098\|πίπτει]] [[G5444\|φύλλα]] [[G0575\|από]] [[G4808\|συκής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic HEAVEN|HEAVEN]] • [[topic STARS|STARS]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +99,6 @@ And all the powers of the heavens shall melt away. And the heaven shall coil up 
 | leaves | **<big>[[G5444\|φύλλα]]</big>** |
 | from | **<big>[[G0575\|από]]</big>** |
 | a fig-tree. | **<big>[[G4808\|συκής]]</big>** |
-[[Isa.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.3|<< Isaiah 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.5|Isaiah 34:5 >>]]</td></tr></table>
 
 

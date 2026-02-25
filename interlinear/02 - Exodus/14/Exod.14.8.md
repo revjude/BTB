@@ -1,8 +1,70 @@
+---
+title: Exodus 14:8
+type: Verse
+kjv: "And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand."
+bsb: "And the LORD hardened the heart of Pharaoh king of Egypt so that he pursued the Israelites, who were marching out defiantly."
+hebrew: "וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת־ לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H6547J]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:8**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.
 <small><sub>**BSB:**</sub></small>
 And the LORD hardened the heart of Pharaoh king of Egypt so that he pursued the Israelites, who were marching out defiantly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388G\|יְחַזֵּ֣ק]] [[H3068G\|יְהֹוָ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֤ב]] [[H6547J\|פַּרְעֹה֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H7291\|יִּרְדֹּ֕ף]] [[H0310A\|אַחֲרֵ֖י]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3318G\|יֹצְאִ֖ים]] [[H9003\|בְּ]][[H3027G\|יָ֥ד]] [[H7311A\|רָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.7|<< Exodus 14:7]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.9|Exodus 14:9 >>]]</td></tr></table>
 

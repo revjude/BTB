@@ -1,8 +1,63 @@
+---
+title: 1 Kings 14:19
+type: Verse
+kjv: "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel."
+bsb: "As for the rest of the acts of Jeroboam, how he waged war and how he reigned, they are indeed written in the Book of the Chronicles of the Kings of Israel."
+hebrew: "וְיֶ֙תֶר֙ דִּבְרֵ֣י יָֽרָבְעָ֔ם אֲשֶׁ֥ר נִלְחַ֖ם וַאֲשֶׁ֣ר מָלָ֑ךְ הִנָּ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.14.19 Nadab Succeeds Jeroboam|Nadab Succeeds Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H3379G]]"
+- "[[H0834A]]"
+- "[[H3898A]]"
+- "[[H4427A]]"
+- "[[H2009]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:19**<big><big>[[1Kgs.14.19 Nadab Succeeds Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they [are] written in the book of the chronicles of the kings of Israel.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Jeroboam, how he waged war and how he reigned, they are indeed written in the Book of the Chronicles of the Kings of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֙תֶר֙]] [[H1697K\|דִּבְרֵ֣י]] [[H3379G\|יָֽרָבְעָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3898A\|נִלְחַ֖ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H4427A\|מָלָ֑ךְ]] [[H2009\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEROBOAM|JEROBOAM]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.18|<< 1 Kings 14:18]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.20|1 Kings 14:20 >>]]</td></tr></table>
 

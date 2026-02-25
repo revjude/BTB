@@ -1,10 +1,64 @@
+---
+title: Acts 24:27
+type: Verse
+kjv: "But after two years Porcius Festus came into Felix’ room: and Felix, willing to shew the Jews a pleasure, left Paul bound."
+bsb: "After two years had passed, Felix was succeeded by Porcius Festus. And wishing to do the Jews a favor, Felix left Paul in prison."
+greek: "Διετίας δὲ πληρωθείσης ἔλαβεν διάδοχον ὁ Φῆλιξ Πόρκιον Φῆστον, θέλων τε χάριτα καταθέσθαι τοῖς Ἰουδαίοις ὁ Φῆλιξ κατέλιπεν τὸν Παῦλον δεδεμένον.¶"
+pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic FESTUS|FESTUS]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G1333]]"
+- "[[G1161]]"
+- "[[G4137]]"
+- "[[G2983]]"
+- "[[G1240]]"
+- "[[G3588]]"
+- "[[G5344]]"
+- "[[G4201]]"
+- "[[G5347]]"
+- "[[G2309]]"
+- "[[G5037]]"
+- "[[G5485]]"
+- "[[G2698]]"
+- "[[G2453]]"
+- "[[G2641]]"
+- "[[G3972G]]"
+- "[[G1210]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 24:27**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But after two years Porcius Festus came into Felix’ room: and Felix, willing to shew the Jews a pleasure, left Paul bound.
 <small><sub>**BSB:**</sub></small>
 After two years had passed, Felix was succeeded by Porcius Festus. And wishing to do the Jews a favor, Felix left Paul in prison.
-<small><sub>**Literal:**</sub></small>
-When two years however having been completed he received [as] successor <the> Felix Porcius Festus, wishing then favor to acquire for himself with the Jews <the> Felix left <the> Paul imprisoned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.26|<< Acts 24:26]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.1|Acts 25:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1333\|Διετίας]]  [[G1161\|δὲ]]  [[G4137\|πληρωθείσης]]  [[G2983\|ἔλαβεν]]  [[G1240\|διάδοχον]]  [[G3588\|ὁ]]  [[G5344\|Φῆλιξ]]  [[G4201\|Πόρκιον]]  [[G5347\|Φῆστον,]]  [[G2309\|θέλων]]  [[G5037\|τε]]  [[G5485\|χάριτα]]  [[G2698\|καταθέσθαι]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G3588\|ὁ]]  [[G5344\|Φῆλιξ]]  [[G2641\|κατέλιπεν]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G1210\|δεδεμένον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic FELIX|FELIX]] • [[topic FESTUS|FESTUS]] • [[topic JUDGE|JUDGE]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.26|<< Acts 24:26]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.1|Acts 25:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

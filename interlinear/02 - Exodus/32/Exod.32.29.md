@@ -1,8 +1,70 @@
+---
+title: Exodus 32:29
+type: Verse
+kjv: "For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day."
+bsb: "Afterward, Moses said, “Today you have been ordained for service to the LORD, since each man went against his son and his brother; so the LORD has bestowed a blessing on you this day.”"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H4390]]"
+- "[[H3027R]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0251I]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H1293]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:29**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
 <small><sub>**BSB:**</sub></small>
 Afterward, Moses said, “Today you have been ordained for service to the LORD, since each man went against his son and his brother; so the LORD has bestowed a blessing on you this day.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֗ה]] [[H4390\|מִלְא֨וּ]] [[H3027R\|יֶדְ]][[H9026\|כֶ֤ם]] [[H9009\|הַ]][[H3117L\|יּוֹם֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H3588A\|כִּ֛י]] [[H0376I\|אִ֥ישׁ]] [[H9003\|בִּ]][[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H0251I\|אָחִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לָ]][[H5414H\|תֵ֧ת]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H9009\|הַ]][[H3117L\|יּ֖וֹם]] [[H1293\|בְּרָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROOF|REPROOF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.28|<< Exodus 32:28]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.30|Exodus 32:30 >>]]</td></tr></table>
 

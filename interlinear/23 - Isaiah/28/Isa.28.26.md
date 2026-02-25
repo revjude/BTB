@@ -1,8 +1,55 @@
+---
+title: Isaiah 28:26
+type: Verse
+kjv: "For his God doth instruct him to discretion, and doth teach him."
+bsb: "For his God instructs and teaches him properly."
+hebrew: "וְיִסְּר֥וֹ לַמִּשְׁפָּ֖ט אֱלֹהָ֥יו יוֹרֶֽנּוּ׃"
+pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic FITCH|FITCH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3256]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4941H]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H3384B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:26**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For his God doth instruct him to discretion, [and] doth teach him.
 <small><sub>**BSB:**</sub></small>
 For his God instructs and teaches him properly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3256\|יִסְּר֥]][[H9033\|וֹ]] [[H9005\|לַ]][[H4941H\|מִּשְׁפָּ֖ט]] [[H0430G\|אֱלֹהָ֥י]][[H9023\|ו]] [[H3384B\|יוֹרֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic FITCH|FITCH]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.25|<< Isaiah 28:25]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.27|Isaiah 28:27 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Isaiah 23:8
+type: Verse
+kjv: "Who hath taken this counsel against Tyre, the crowning city, whose merchants are princes, whose traffickers are the honourable of the earth?"
+bsb: "Who planned this against Tyre, the bestower of crowns, whose traders are princes, whose merchants are renowned on the earth?"
+hebrew: "מִ֚י יָעַ֣ץ זֹ֔את עַל־ צֹ֖ר הַמַּֽעֲטִירָ֑ה אֲשֶׁ֤ר סֹחֲרֶ֙יה֙ שָׂרִ֔ים כִּנְעָנֶ֖יהָ נִכְבַּדֵּי־ אָֽרֶץ׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic TARSHISH|TARSHISH]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H4310]]"
+- "[[H3289]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6865]]"
+- "[[H9009]]"
+- "[[H5849B]]"
+- "[[H0834A]]"
+- "[[H5503]]"
+- "[[H9024]]"
+- "[[H8269]]"
+- "[[H3667B]]"
+- "[[H3513G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 23:8**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath taken this counsel against Tyre, the crowning [city], whose merchants [are] princes, whose traffickers [are] the honourable of the earth?
 <small><sub>**BSB:**</sub></small>
 Who planned this against Tyre, the bestower of crowns, whose traders are princes, whose merchants are renowned on the earth?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֚י]] [[H3289\|יָעַ֣ץ]] [[H2063\|זֹ֔את]] [[H5921A\|עַל]][[H9014\|־]] [[H6865\|צֹ֖ר]] [[H9009\|הַ]][[H5849B\|מַּֽעֲטִירָ֑ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H5503\|סֹחֲרֶ֙י]][[H9024\|ה֙]] [[H8269\|שָׂרִ֔ים]] [[H3667B\|כִּנְעָנֶ֖י]][[H9024\|הָ]] [[H3513G\|נִכְבַּדֵּי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic TARSHISH|TARSHISH]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.7|<< Isaiah 23:7]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.9|Isaiah 23:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

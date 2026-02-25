@@ -1,8 +1,52 @@
+---
+title: Numbers 31:33
+type: Verse
+kjv: "And threescore and twelve thousand beeves,"
+bsb: "72,000 cattle,"
+hebrew: "וּבָקָ֕ר שְׁנַ֥יִם וְשִׁבְעִ֖ים אָֽלֶף׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H8147]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:33**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And threescore and twelve thousand beeves,
 <small><sub>**BSB:**</sub></small>
 72,000 cattle,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1241\|בָקָ֕ר]] [[H8147\|שְׁנַ֥יִם]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֖ים]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.32|<< Numbers 31:32]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.34|Numbers 31:34 >>]]</td></tr></table>
 

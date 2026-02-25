@@ -1,10 +1,61 @@
+---
+title: Acts 26:15
+type: Verse
+kjv: "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest."
+bsb: "‘Who are You, Lord?’ I asked. ‘I am Jesus, whom you are persecuting,’ the Lord replied."
+jesus_said: "I am Jesus whom thou persecutest."
+greek: "ἐγὼ δὲ εἶπα· τίς εἶ κύριε; ὁ δὲ κύριος εἶπεν· ἐγώ εἰμι Ἰησοῦς ὃν σὺ διώκεις."
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic VOICE|VOICE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G1377]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 26:15**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.
 <small><sub>**BSB:**</sub></small>
 ‘Who are You, Lord?’ I asked. ‘I am Jesus, whom you are persecuting,’ the Lord replied.
-<small><sub>**Literal:**</sub></small>
-I myself then said; Who are You Lord? <the> And the Lord said; I myself am Jesus whom you yourself are persecuting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.14|<< Acts 26:14]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.16|Acts 26:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G2036\|εἶπα·]]  [[G5101\|τίς]]  [[G1510\|εἶ]]  [[G2962G\|κύριε;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2962G\|κύριος]]  [[G2036\|εἶπεν·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G2424G\|Ἰησοῦς]]  [[G3739\|ὃν]]  [[G4771\|σὺ]]  [[G1377\|διώκεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DEFENSE|DEFENSE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]] • [[topic TESTIMONY|TESTIMONY]] • [[topic VOICE|VOICE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.14|<< Acts 26:14]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.16|Acts 26:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: Genesis 19:34
+type: Verse
+kjv: "And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, and lie with him, that we may preserve seed of our father."
+bsb: "The next day the older daughter said to the younger, “Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line.”"
+hebrew: "וַֽיְהִי֙ מִֽמָּחֳרָ֔ת וַתֹּ֤אמֶר הַבְּכִירָה֙ אֶל־ הַצְּעִירָ֔ה הֵן־ שָׁכַ֥בְתִּי אֶ֖מֶשׁ אֶת־ אָבִ֑י נַשְׁקֶ֨נּוּ יַ֜יִן גַּם־ הַלַּ֗יְלָה וּבֹ֙אִי֙ שִׁכְבִ֣י עִמּ֔וֹ וּנְחַיֶּ֥ה מֵאָבִ֖ינוּ זָֽרַע׃"
+pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1067]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6810]]"
+- "[[H2005]]"
+- "[[H7901I]]"
+- "[[H0570]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H8248H]]"
+- "[[H9033]]"
+- "[[H3196]]"
+- "[[H1571]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H5973A]]"
+- "[[H2421]]"
+- "[[H9025]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:34**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, [and] lie with him, that we may preserve seed of our father.
 <small><sub>**BSB:**</sub></small>
 The next day the older daughter said to the younger, “Look, I slept with my father last night. Let us get him drunk with wine again tonight so you can go in and sleep with him and we can preserve our father’s line.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֔ת]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9009\|הַ]][[H1067\|בְּכִירָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6810\|צְּעִירָ֔ה]] [[H2005\|הֵן]][[H9014\|־]] [[H7901I\|שָׁכַ֥בְתִּי]] [[H0570\|אֶ֖מֶשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H8248H\|נַשְׁקֶ֨]][[H9033\|נּוּ]] [[H3196\|יַ֜יִן]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֗יְלָה]] [[H9002\|וּ]][[H0935G\|בֹ֙אִי֙]] [[H7901I\|שִׁכְבִ֣י]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H2421\|נְחַיֶּ֥ה]] [[H9006\|מֵ]][[H0001G\|אָבִ֖י]][[H9025\|נוּ]] [[H2233H\|זָֽרַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic INCEST|INCEST]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.33|<< Genesis 19:33]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.35|Genesis 19:35 >>]]</td></tr></table>
 

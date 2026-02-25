@@ -1,10 +1,61 @@
+---
+title: Matthew 11:27
+type: Verse
+kjv: "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him."
+bsb: "All things have been entrusted to Me by My Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal Him."
+jesus_said: "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him."
+greek: "Πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου, καὶ οὐδεὶς ἐπιγινώσκει τὸν υἱὸν εἰ μὴ ὁ πατήρ, οὐδὲ τὸν πατέρα τις ἐπιγινώσκει εἰ μὴ ὁ υἱὸς καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι.¶"
+pericope: "[[Matt.11.25 Rest for the Weary|Rest for the Weary]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G3860]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1921]]"
+- "[[G5207]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3761]]"
+- "[[G5100]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1014]]"
+- "[[G0601]]"
+texts:
+- NKO
+---
+
 **Matthew 11:27**<big><big>[[Matt.11.25 Rest for the Weary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and [he] to whomsoever the Son will reveal [him].
 <small><sub>**BSB:**</sub></small>
 All things have been entrusted to Me by My Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal Him.
-<small><sub>**Literal:**</sub></small>
-All things to Me was delivered by the Father of Mine, And no [one] knows the Son only except the Father, nor the Father anyone does know only except the Son and to whom if shall choose the Son to reveal [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.26|<< Matthew 11:26]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.28|Matthew 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πάντα]]  [[G3165\|μοι]]  [[G3860\|παρεδόθη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1921\|ἐπιγινώσκει]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3761\|οὐδὲ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G5100\|τις]]  [[G1921\|ἐπιγινώσκει]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G2532\|καὶ]]  [[G3739\|ᾧ]]  [[G1437\|ἐὰν]]  [[G1014\|βούληται]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0601\|ἀποκαλύψαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.26|<< Matthew 11:26]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.28|Matthew 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

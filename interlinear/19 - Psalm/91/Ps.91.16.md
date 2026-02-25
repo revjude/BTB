@@ -1,8 +1,56 @@
+---
+title: Psalm 91:16
+type: Verse
+kjv: "With long life will I satisfy him, and shew him my salvation."
+bsb: "With long life I will satisfy him and show him My salvation.”"
+hebrew: "אֹ֣רֶךְ יָ֭מִים אַשְׂבִּיעֵ֑הוּ וְ֝אַרְאֵ֗הוּ בִּֽישׁוּעָתִֽי׃"
+pericope: "[[Ps.91.1 You Are My Refuge and My Fortress|You Are My Refuge and My Fortress]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 91
+book/chapter: "[[Ps.91|Psalm 91]]"
+chronological_order: 518
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H0753]]"
+- "[[H3117G]]"
+- "[[H7646]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H3444]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 91:16**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With long life will I satisfy him, and shew him my salvation.
 <small><sub>**BSB:**</sub></small>
 With long life I will satisfy him and show him My salvation.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0753\|אֹ֣רֶךְ]] [[H3117G\|יָ֭מִים]] [[H7646\|אַשְׂבִּיעֵ֑]][[H9033\|הוּ]] [[H9002\|וְ֝]][[H7200G\|אַרְאֵ֗]][[H9033\|הוּ]] [[H9003\|בִּֽ]][[H3444\|ישׁוּעָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LONGEVITY|LONGEVITY]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.15|<< Psalms 91:15]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.0|Psalms 92:0 >>]]</td></tr></table>
 

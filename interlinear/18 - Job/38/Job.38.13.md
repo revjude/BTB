@@ -1,8 +1,56 @@
+---
+title: Job 38:13
+type: Verse
+kjv: "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?"
+bsb: "that it might spread to the ends of the earth and shake the wicked out of it?"
+hebrew: "לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁעִ֣ים מִמֶּֽנָּה׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5287]]"
+- "[[H7563]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:13**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That it might take hold of the ends of the earth, that the wicked might be shaken out of it?
 <small><sub>**BSB:**</sub></small>
 that it might spread to the ends of the earth and shake the wicked out of it?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֶ֭]][[H0270\|אֱחֹז]] [[H9003\|בְּ]][[H3671\|כַנְפ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H5287\|יִנָּעֲר֖וּ]] [[H7563\|רְשָׁעִ֣ים]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.12|<< Job 38:12]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.14|Job 38:14 >>]]</td></tr></table>
 

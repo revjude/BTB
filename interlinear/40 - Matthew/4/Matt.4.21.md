@@ -1,10 +1,68 @@
+---
+title: Matthew 4:21
+type: Verse
+kjv: "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+bsb: "Going on from there, He saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, mending their nets. Jesus called them,"
+greek: "Καὶ προβὰς ἐκεῖθεν εἶδεν ἄλλους δύο ἀδελφούς, Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ ἐν τῷ πλοίῳ μετὰ Ζεβεδαίου τοῦ πατρὸς αὐτῶν καταρτίζοντας τὰ δίκτυα αὐτῶν, καὶ ἐκάλεσεν αὐτούς."
+pericope: "[[Matt.4.18 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NET|NET]]"
+- "[[topic ZEBEDEE|ZEBEDEE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4260]]"
+- "[[G1564]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G1417]]"
+- "[[G0080]]"
+- "[[G2385G]]"
+- "[[G3588]]"
+- "[[G2199G]]"
+- "[[G2491H]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4143]]"
+- "[[G3326]]"
+- "[[G3962]]"
+- "[[G2675]]"
+- "[[G1350]]"
+- "[[G2564G]]"
+texts:
+- NKO
+---
+
 **Matthew 4:21**<big><big>[[Matt.4.18 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And going on from thence, he saw other two brethren, James [the son] of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
 <small><sub>**BSB:**</sub></small>
 Going on from there, He saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, mending their nets. Jesus called them,
-<small><sub>**Literal:**</sub></small>
-And having gone on from there He saw others two brothers, James the [son] <the> of Zebedee and John the brother of him in the boat with Zebedee the father of them mending the nets of them, and He called them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.20|<< Matthew 4:20]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.22|Matthew 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4260\|προβὰς]]  [[G1564\|ἐκεῖθεν]]  [[G1492H\|εἶδεν]]  [[G0243\|ἄλλους]]  [[G1417\|δύο]]  [[G0080\|ἀδελφούς,]]  [[G2385G\|Ἰάκωβον]]  [[G3588\|τὸν]]  [[G3588\|τοῦ]]  [[G2199G\|Ζεβεδαίου]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4143\|πλοίῳ]]  [[G3326\|μετὰ]]  [[G2199G\|Ζεβεδαίου]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτῶν]]  [[G2675\|καταρτίζοντας]]  [[G3588\|τὰ]]  [[G1350\|δίκτυα]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2564G\|ἐκάλεσεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic FAITH|FAITH]] • [[topic FISHERMEN|FISHERMEN]] • [[topic GALILEE|GALILEE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NET|NET]] • [[topic ZEBEDEE|ZEBEDEE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.20|<< Matthew 4:20]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.22|Matthew 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

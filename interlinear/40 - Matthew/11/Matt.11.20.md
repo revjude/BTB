@@ -1,10 +1,57 @@
+---
+title: Matthew 11:20
+type: Verse
+kjv: "Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:"
+bsb: "Then Jesus began to denounce the cities in which most of His miracles had been performed, because they did not repent."
+greek: "Τότε ἤρξατο ὀνειδίζειν τὰς πόλεις ἐν αἷς ἐγένοντο αἱ πλεῖσται δυνάμεις αὐτοῦ ὅτι οὐ μετενόησαν·¶"
+pericope: "[[Matt.11.20 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G5119]]"
+- "[[G0757]]"
+- "[[G3679]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G4118]]"
+- "[[G1411]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G3340]]"
+texts:
+- NKO
+---
+
 **Matthew 11:20**<big><big>[[Matt.11.20 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
 <small><sub>**BSB:**</sub></small>
 Then Jesus began to denounce the cities in which most of His miracles had been performed, because they did not repent.
-<small><sub>**Literal:**</sub></small>
-Then He began to denounce the cities in which had taken place the most miracles of Him because not they repented;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.19|<< Matthew 11:19]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.21|Matthew 11:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0757\|ἤρξατο]]  [[G3679\|ὀνειδίζειν]]  [[G3588\|τὰς]]  [[G4172\|πόλεις]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G1096\|ἐγένοντο]]  [[G3588\|αἱ]]  [[G4118\|πλεῖσται]]  [[G1411\|δυνάμεις]]  [[G0846\|αὐτοῦ]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G3340\|μετενόησαν·¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.19|<< Matthew 11:19]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.21|Matthew 11:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

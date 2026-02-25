@@ -1,8 +1,64 @@
+---
+title: 2 Kings 17:37
+type: Verse
+kjv: "And the statutes, and the ordinances, and the law, and the commandment, which he wrote for you, ye shall observe to do for evermore; and ye shall not fear other gods."
+bsb: "And you must always be careful to observe the statutes, ordinances, laws, and commandments He wrote for you. Do not worship other gods."
+hebrew: "וְאֶת־ הַחֻקִּ֨ים וְאֶת־ הַמִּשְׁפָּטִ֜ים וְהַתּוֹרָ֤ה וְהַמִּצְוָה֙ אֲשֶׁ֣ר כָּתַ֣ב לָכֶ֔ם תִּשְׁמְר֥וּן לַעֲשׂ֖וֹת כָּל־ הַיָּמִ֑ים וְלֹ֥א תִֽירְא֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H8451]]"
+- "[[H4687]]"
+- "[[H0834A]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H8104J]]"
+- "[[H9013]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:37**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the statutes, and the ordinances, and the law, and the commandment, which he wrote for you, ye shall observe to do for evermore; and ye shall not fear other gods.
 <small><sub>**BSB:**</sub></small>
 And you must always be careful to observe the statutes, ordinances, laws, and commandments He wrote for you. Do not worship other gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2706G\|חֻקִּ֨ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֜ים]] [[H9002\|וְ]][[H9009\|הַ]][[H8451\|תּוֹרָ֤ה]] [[H9002\|וְ]][[H9009\|הַ]][[H4687\|מִּצְוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3789\|כָּתַ֣ב]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H8104J\|תִּשְׁמְר֥וּ]][[H9013\|ן]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֑ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3372G\|תִֽירְא֖וּ]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.36|<< 2 Kings 17:36]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.38|2 Kings 17:38 >>]]</td></tr></table>
 

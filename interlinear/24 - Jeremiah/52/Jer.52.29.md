@@ -1,8 +1,60 @@
+---
+title: Jeremiah 52:29
+type: Verse
+kjv: "In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons:"
+bsb: "in Nebuchadnezzar’s eighteenth year, 832 people from Jerusalem;"
+hebrew: "בִּשְׁנַ֛ת שְׁמוֹנֶ֥ה עֶשְׂרֵ֖ה לִנְבֽוּכַדְרֶאצַּ֑ר מִיר֣וּשָׁלִַ֔ם נֶ֕פֶשׁ שְׁמֹנֶ֥ה מֵא֖וֹת שְׁלֹשִׁ֥ים וּשְׁנָֽיִם׃"
+pericope: "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H5019]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H5315J]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:29**<big><big>[[Jer.52.24 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons:
 <small><sub>**BSB:**</sub></small>
 in Nebuchadnezzar’s eighteenth year, 832 people from Jerusalem;
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֛ת]] [[H8083\|שְׁמוֹנֶ֥ה]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9005\|לִ]][[H5019\|נְבֽוּכַדְרֶאצַּ֑ר]] [[H9006\|מִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H5315J\|נֶ֕פֶשׁ]] [[H8083\|שְׁמֹנֶ֥ה]] [[H3967\|מֵא֖וֹת]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וּ]][[H8147\|שְׁנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.28|<< Jeremiah 52:28]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.30|Jeremiah 52:30 >>]]</td></tr></table>
 

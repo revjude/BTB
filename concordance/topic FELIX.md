@@ -3,7 +3,7 @@
 
 → (The Roman governor of Judaea)
 
-→ Paul tried before [[Acts.23.24|Ac 23:24]]-[[Acts.23.35|35]]; [[Acts.24|24]]
+→ Paul tried before [[Acts.23.24|Ac 23:24-35]]; [[Acts.24|24]]
 
 → Trembles under Paul's preaching [[Acts.24.25|Ac 24:25]]
 

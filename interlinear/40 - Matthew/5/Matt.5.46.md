@@ -1,10 +1,63 @@
+---
+title: Matthew 5:46
+type: Verse
+kjv: "For if ye love them which love you, what reward have ye? do not even the publicans the same?"
+bsb: "If you love those who love you, what reward will you get? Do not even tax collectors do the same?"
+jesus_said: "For if ye love them which love you, what reward have ye? do not even the publicans the same?"
+greek: "ἐὰν γὰρ ἀγαπήσητε τοὺς ἀγαπῶντας ὑμᾶς, τίνα μισθὸν ἔχετε; οὐχὶ καὶ οἱ τελῶναι τὸ αὐτὸ ποιοῦσιν;"
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[G1437]]"
+- "[[G1063]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G3408]]"
+- "[[G2192]]"
+- "[[G3780]]"
+- "[[G2532]]"
+- "[[G5057]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 5:46**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if ye love them which love you, what reward have ye? do not even the publicans the same?
 <small><sub>**BSB:**</sub></small>
 If you love those who love you, what reward will you get? Do not even tax collectors do the same?
-<small><sub>**Literal:**</sub></small>
-If for you shall love those loving you, what reward have you? Surely also the tax collectors the same do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.45|<< Matthew 5:45]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.47|Matthew 5:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1063\|γὰρ]]  [[G0025\|ἀγαπήσητε]]  [[G3588\|τοὺς]]  [[G0025\|ἀγαπῶντας]]  [[G4771\|ὑμᾶς,]]  [[G5101\|τίνα]]  [[G3408\|μισθὸν]]  [[G2192\|ἔχετε;]]  [[G3780\|οὐχὶ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5057\|τελῶναι]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G4160G\|ποιοῦσιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LOVE|LOVE]] • [[topic PUBLICANS|PUBLICANS]] • [[topic RELIGION|RELIGION]] • [[topic TAX|TAX]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.45|<< Matthew 5:45]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.47|Matthew 5:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

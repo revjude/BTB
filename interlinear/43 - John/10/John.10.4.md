@@ -1,10 +1,64 @@
+---
+title: John 10:4
+type: Verse
+kjv: "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+bsb: "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice."
+jesus_said: "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+greek: "καὶ ὅταν τὰ ἴδια πάντα ἐκβάλῃ, ἔμπροσθεν αὐτῶν πορεύεται, καὶ τὰ πρόβατα αὐτῷ ἀκολουθεῖ, ὅτι οἴδασιν τὴν φωνὴν αὐτοῦ."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G3956]]"
+- "[[G1544]]"
+- "[[G1715]]"
+- "[[G0846]]"
+- "[[G4198]]"
+- "[[G4263]]"
+- "[[G0190]]"
+- "[[G3754H]]"
+- "[[G6063]]"
+- "[[G5456G]]"
+texts:
+- k
+- NKO
+- N(K)O
+---
+
 **John 10:4**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.
 <small><sub>**BSB:**</sub></small>
 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.
-<small><sub>**Literal:**</sub></small>
-and When <the> [his] own all he may bring out, before them he goes, and the sheep after him follow, because they know the voice of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.3|<< John 10:3]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.5|John 10:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G3588\|τὰ]]  [[G2398\|ἴδια]]  [[G3956\|πάντα]]  [[G1544\|ἐκβάλῃ,]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτῶν]]  [[G4198\|πορεύεται,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα]]  [[G0846\|αὐτῷ]]  [[G0190\|ἀκολουθεῖ,]]  [[G3754H\|ὅτι]]  [[G6063\|οἴδασιν]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.3|<< John 10:3]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.5|John 10:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

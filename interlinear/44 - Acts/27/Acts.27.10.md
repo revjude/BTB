@@ -1,10 +1,64 @@
+---
+title: Acts 27:10
+type: Verse
+kjv: "And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives."
+bsb: "“Men, I can see that our voyage will be filled with disaster and great loss, not only to ship and cargo, but to our own lives as well.”"
+greek: "λέγων αὐτοῖς· ἄνδρες, θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ φορτίου καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν."
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0435G]]"
+- "[[G2334]]"
+- "[[G3754G]]"
+- "[[G3326]]"
+- "[[G5196]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G2209]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G3588]]"
+- "[[G5413]]"
+- "[[G4143]]"
+- "[[G0235]]"
+- "[[G5590H]]"
+- "[[G3165]]"
+- "[[G3195]]"
+- "[[G1510]]"
+- "[[G4144]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 27:10**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.
 <small><sub>**BSB:**</sub></small>
 “Men, I can see that our voyage will be filled with disaster and great loss, not only to ship and cargo, but to our own lives as well.”
-<small><sub>**Literal:**</sub></small>
-saying to them; Men, I understand that with disaster and much loss not only of the burden and of the ship but also the lives of us ensuing to be the voyage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.9|<< Acts 27:9]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.11|Acts 27:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G0846\|αὐτοῖς·]]  [[G0435G\|ἄνδρες,]]  [[G2334\|θεωρῶ]]  [[G3754G\|ὅτι]]  [[G3326\|μετὰ]]  [[G5196\|ὕβρεως]]  [[G2532\|καὶ]]  [[G4183\|πολλῆς]]  [[G2209\|ζημίας]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G3588\|τοῦ]]  [[G5413\|φορτίου]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5590H\|ψυχῶν]]  [[G3165\|ἡμῶν]]  [[G3195\|μέλλειν]]  [[G1510\|ἔσεσθαι]]  [[G3588\|τὸν]]  [[G4144\|πλοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.9|<< Acts 27:9]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.11|Acts 27:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Word of Jerusalem’s Fall
+type: Pericope
 pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 33
 book/chapter: "[[Ezek.33|Ezekiel 33]]"
-genre:
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 13
 verses:
 - "[[Ezek.33.21]]"
 - "[[Ezek.33.22]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ezek.33.33]]"
 ---
 
-[[Ezek.33|Ezekiel 33:21 - Ezekiel 33:33]]
+<small>[[Ezek.33|Ezekiel 33:21-33]]</small>
 *Word of Jerusalem’s Fall*
 
 [[Ezek.33.21|21]] And it came to pass in the twelfth year of our captivity, in the tenth \[month\], in the fifth \[day\] of the month, \[that\] one that had escaped out of Jerusalem came unto me, saying, The city is smitten.

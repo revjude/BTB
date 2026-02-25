@@ -1,10 +1,66 @@
+---
+title: Romans 3:22
+type: Verse
+kjv: "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:"
+bsb: "And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction,"
+greek: "δικαιοσύνη δὲ θεοῦ διὰ πίστεως Ἰησοῦ Χριστοῦ εἰς πάντας καὶ ἐπὶ πάντας τοὺς πιστεύοντας· οὐ γάρ ἐστιν διαστολή."
+pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1343]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1293]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 3:22**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even the righteousness of God [which is] by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
 <small><sub>**BSB:**</sub></small>
 And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction,
-<small><sub>**Literal:**</sub></small>
-[the] righteousness now of God through faith from Jesus Christ toward all and upon all those believing; Not for there is distinction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.21|<< Romans 3:21]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.23|Romans 3:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1343\|δικαιοσύνη]]  [[G1161\|δὲ]]  [[G2316\|θεοῦ]]  [[G1223\|διὰ]]  [[G4102G\|πίστεως]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G4100\|πιστεύοντας·]]  [[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G1293\|διαστολή.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.21|<< Romans 3:21]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.23|Romans 3:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

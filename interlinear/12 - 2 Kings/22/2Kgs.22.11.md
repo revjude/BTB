@@ -1,8 +1,62 @@
+---
+title: 2 Kings 22:11
+type: Verse
+kjv: "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes."
+bsb: "When the king heard the words of the Book of the Law, he tore his clothes"
+hebrew: "וַֽיְהִי֙ כִּשְׁמֹ֣עַ הַמֶּ֔לֶךְ אֶת־ דִּבְרֵ֖י סֵ֣פֶר הַתּוֹרָ֑ה וַיִּקְרַ֖ע אֶת־ בְּגָדָֽיו׃"
+pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:11**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.
 <small><sub>**BSB:**</sub></small>
 When the king heard the words of the Book of the Law, he tore his clothes
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H8451\|תּוֹרָ֑ה]] [[H9001\|וַ]][[H7167\|יִּקְרַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.10|<< 2 Kings 22:10]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.12|2 Kings 22:12 >>]]</td></tr></table>
 

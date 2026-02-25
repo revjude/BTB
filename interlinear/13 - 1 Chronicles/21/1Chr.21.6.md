@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 21:6
+type: Verse
+kjv: "But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab."
+bsb: "But Joab did not include Levi and Benjamin in the count, because the king’s command was detestable to him."
+hebrew: "וְלֵוִי֙ וּבִנְיָמִ֔ן לֹ֥א פָקַ֖ד בְּתוֹכָ֑ם כִּֽי־ נִתְעַ֥ב דְּבַר־ הַמֶּ֖לֶךְ אֶת־ יוֹאָֽב׃"
+pericope: "[[1Chr.21.1 David’s Military Census|David’s Military Census]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3878]]"
+- "[[H1144G]]"
+- "[[H3808]]"
+- "[[H6485A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8581]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0854]]"
+- "[[H3097G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:6**<big><big>[[1Chr.21.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab.
 <small><sub>**BSB:**</sub></small>
 But Joab did not include Levi and Benjamin in the count, because the king’s command was detestable to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3878\|לֵוִי֙]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֔ן]] [[H3808\|לֹ֥א]] [[H6485A\|פָקַ֖ד]] [[H9003\|בְּ]][[H8432\|תוֹכָ֑]][[H9028\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8581\|נִתְעַ֥ב]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0854\|אֶת]][[H9014\|־]] [[H3097G\|יוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CENSUS|CENSUS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISRAEL|ISRAEL]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.5|<< 1 Chronicles 21:5]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.7|1 Chronicles 21:7 >>]]</td></tr></table>
 

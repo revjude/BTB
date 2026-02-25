@@ -1,8 +1,55 @@
+---
+title: Isaiah 64:1
+type: Verse
+kjv: "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,"
+bsb: "If only You would rend the heavens and come down, so that mountains would quake at Your presence,"
+hebrew: "לוּא־ קָרַ֤עְתָּ שָׁמַ֙יִם֙ יָרַ֔דְתָּ מִפָּנֶ֖יךָ הָרִ֥ים נָזֹֽלּוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H3863]]"
+- "[[H9014]]"
+- "[[H7167]]"
+- "[[H8064]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H2022G]]"
+- "[[H2151A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:1**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,
 <small><sub>**BSB:**</sub></small>
 If only You would rend the heavens and come down, so that mountains would quake at Your presence,
+<small><sub>**Hebrew:**</sub></small>
+[[H3863\|לוּא]][[H9014\|־]] [[H7167\|קָרַ֤עְתָּ]] [[H8064\|שָׁמַ֙יִם֙]] [[H3381\|יָרַ֔דְתָּ]] [[H9006\|מִ]][[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H2022G\|הָרִ֥ים]] [[H2151A\|נָזֹֽלּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.19|<< Isaiah 63:19]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.2|Isaiah 64:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

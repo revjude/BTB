@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 7:13
+type: Verse
+kjv: "He shall build an house for my name, and I will stablish the throne of his kingdom for ever."
+bsb: "He will build a house for My Name, and I will establish the throne of his kingdom forever."
+hebrew: "ה֥וּא יִבְנֶה־ בַּ֖יִת לִשְׁמִ֑י וְכֹנַנְתִּ֛י אֶת־ כִּסֵּ֥א מַמְלַכְתּ֖וֹ עַד־ עוֹלָֽם׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H0853]]"
+- "[[H3678G]]"
+- "[[H4467]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:13**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
 <small><sub>**BSB:**</sub></small>
 He will build a house for My Name, and I will establish the throne of his kingdom forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֥וּא]] [[H1129\|יִבְנֶה]][[H9014\|־]] [[H1004B\|בַּ֖יִת]] [[H9005\|לִ]][[H8034\|שְׁמִ֑]][[H9020\|י]] [[H9001\|וְ]][[H3559H\|כֹנַנְתִּ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H3678G\|כִּסֵּ֥א]] [[H4467\|מַמְלַכְתּ֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.12|<< 2 Samuel 7:12]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.14|2 Samuel 7:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

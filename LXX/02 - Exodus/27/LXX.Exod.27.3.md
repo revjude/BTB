@@ -1,6 +1,72 @@
+---
+title: LXX Exodus 27:3
+type: Verse
+lxx: "And you shall make a rim for the altar. And  its lid, and  its bowls, and  its meat hooks, and  its censer, and all  its utensils you shall make of brass."
+greek: "και ποιήσεις στεφάνην τω θυσιαστηρίω και τον καλυπτήρα αυτού και τας φιάλας αυτού και τας κρεάγρας αυτού και το πυρείον αυτού και πάντα τα σκεύη αυτού ποιήσεις χαλκά"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BASIN|BASIN]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic SHOVEL|SHOVEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G9168]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G7786]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5357]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8090]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8992]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G5470]]"
+---
+
 **LXX Exodus 27:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall make a rim for the altar. And  \[its\] lid, and  \[its\] bowls, and  \[its\] meat hooks, and  \[its\] censer, and all  \[its\] utensils you shall make of brass. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|ποιήσεις]] [[G9168\|στεφάνην]] [[G3588\|τω]] [[G2379\|θυσιαστηρίω]] [[G2532\|και]] [[G3588\|τον]] [[G7786\|καλυπτήρα]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τας]] [[G5357\|φιάλας]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τας]] [[G8090\|κρεάγρας]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|το]] [[G8992\|πυρείον]] [[G1473\|αυτού]] [[G2532\|και]] [[G3956\|πάντα]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|αυτού]] [[G4160\|ποιήσεις]] [[G5470\|χαλκά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BASIN|BASIN]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic SHOVEL|SHOVEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.2|<< Exodus 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.4|Exodus 27:4 >>]]</td></tr></table>
 
@@ -29,6 +95,6 @@ And you shall make a rim for the altar. And  \[its\] lid, and  \[its\] bowls, an
 | \[its\] utensils | **<big>[[G4632\|σκεύη]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | you shall make | **<big>[[G4160\|ποιήσεις]]</big>** |
 | of brass. | **<big>[[G5470\|χαλκά]]</big>** |
-[[Exod.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.2|<< Exodus 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.4|Exodus 27:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.2|<< Exodus 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.4|Exodus 27:4 >>]]</td></tr></table>
 
 

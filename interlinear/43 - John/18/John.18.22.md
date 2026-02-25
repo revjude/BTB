@@ -1,10 +1,59 @@
+---
+title: John 18:22
+type: Verse
+kjv: "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?"
+bsb: "When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?”"
+greek: "ταῦτα δὲ αὐτοῦ εἰπόντος εἷς παρεστηκὼς τῶν ὑπηρετῶν ἔδωκεν ῥάπισμα τῷ Ἰησοῦ εἰπών· οὕτως ἀποκρίνῃ τῷ ἀρχιερεῖ;"
+pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1520]]"
+- "[[G3936]]"
+- "[[G3588]]"
+- "[[G5257]]"
+- "[[G1325]]"
+- "[[G4475]]"
+- "[[G2424G]]"
+- "[[G3779]]"
+- "[[G0611]]"
+- "[[G0749]]"
+texts:
+- NKO
+---
+
 **John 18:22**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?
 <small><sub>**BSB:**</sub></small>
 When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?”
-<small><sub>**Literal:**</sub></small>
-These things now of Him having said one already standing by of the officers gave a blow with the palm <the> to Jesus having said; Thus answer You to the high priest?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.21|<< John 18:21]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.23|John 18:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἰπόντος]]  [[G1520\|εἷς]]  [[G3936\|παρεστηκὼς]]  [[G3588\|τῶν]]  [[G5257\|ὑπηρετῶν]]  [[G1325\|ἔδωκεν]]  [[G4475\|ῥάπισμα]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G2036\|εἰπών·]]  [[G3779\|οὕτως]]  [[G0611\|ἀποκρίνῃ]]  [[G3588\|τῷ]]  [[G0749\|ἀρχιερεῖ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.21|<< John 18:21]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.23|John 18:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

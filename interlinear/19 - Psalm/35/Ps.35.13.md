@@ -1,8 +1,66 @@
+---
+title: Psalm 35:13
+type: Verse
+kjv: "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom."
+bsb: "Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but my prayers returned unanswered."
+hebrew: "וַאֲנִ֤י׀ בַּחֲלוֹתָ֡ם לְב֬וּשִׁי שָׂ֗ק עִנֵּ֣יתִי בַצּ֣וֹם נַפְשִׁ֑י וּ֝תְפִלָּתִ֗י עַל־ חֵיקִ֥י תָשֽׁוּב׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2470H]]"
+- "[[H9048]]"
+- "[[H3830]]"
+- "[[H9020]]"
+- "[[H8242]]"
+- "[[H6031B]]"
+- "[[H6685]]"
+- "[[H5315I]]"
+- "[[H8605]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2436G]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:13**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.
 <small><sub>**BSB:**</sub></small>
 Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but my prayers returned unanswered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֤י]][[H9015\|׀]] [[H9003\|בַּ]][[H2470H\|חֲלוֹתָ֡]][[H9048\|ם]] [[H3830\|לְב֬וּשִׁ]][[H9020\|י]] [[H8242\|שָׂ֗ק]] [[H6031B\|עִנֵּ֣יתִי]] [[H9003\|בַ]][[H6685\|צּ֣וֹם]] [[H5315I\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וּ֝]][[H8605\|תְפִלָּתִ֗]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H2436G\|חֵיקִ֥]][[H9020\|י]] [[H7725G\|תָשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic FASTING|FASTING]] • [[topic FRIENDS|FRIENDS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic INGRATITUDE|INGRATITUDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.12|<< Psalms 35:12]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.14|Psalms 35:14 >>]]</td></tr></table>
 

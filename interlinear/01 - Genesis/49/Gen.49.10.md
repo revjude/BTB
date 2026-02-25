@@ -1,8 +1,72 @@
+---
+title: Genesis 49:10
+type: Verse
+kjv: "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be."
+bsb: "The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his."
+hebrew: "לֹֽא־ יָס֥וּר שֵׁ֙בֶט֙ מִֽיהוּדָ֔ה וּמְחֹקֵ֖ק מִבֵּ֣ין רַגְלָ֑יו עַ֚ד כִּֽי־ יָבֹ֣א שִׁיל֔וֹ וְל֖וֹ יִקְּהַ֥ת עַמִּֽים׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H7626G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H2710]]"
+- "[[H0996G]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H7886]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3349]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 49:10**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him [shall] the gathering of the people [be].
 <small><sub>**BSB:**</sub></small>
 The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5493H\|יָס֥וּר]] [[H7626G\|שֵׁ֙בֶט֙]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וּ]][[H2710\|מְחֹקֵ֖ק]] [[H9006\|מִ]][[H0996G\|בֵּ֣ין]] [[H7272\|רַגְלָ֑י]][[H9023\|ו]] [[H5704\|עַ֚ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|יָבֹ֣א]] [[H7886\|שִׁיל֔וֹ]] [[H9002\|וְ]][[H9005\|ל֖]][[H9033\|וֹ]] [[H3349\|יִקְּהַ֥ת]] [[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic GENTILES|GENTILES]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAH|JUDAH]] • [[topic PARENTS|PARENTS]] • [[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.9|<< Genesis 49:9]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.11|Genesis 49:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

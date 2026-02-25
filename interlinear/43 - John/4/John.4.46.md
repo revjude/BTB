@@ -1,10 +1,68 @@
+---
+title: John 4:46
+type: Verse
+kjv: "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum."
+bsb: "So once again He came to Cana in Galilee, where He had turned the water into wine. And there was a royal official whose son lay sick at Capernaum."
+greek: "Ἦλθεν οὖν ὁ Ἰησοῦς πάλιν εἰς τὴν Κανὰ τῆς Γαλιλαίας, ὅπου ἐποίησεν τὸ ὕδωρ οἶνον. καὶ ἦν τις βασιλικὸς οὗ ὁ υἱὸς ἠσθένει ἐν Καφαρναούμ."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3825]]"
+- "[[G1519]]"
+- "[[G2580]]"
+- "[[G1056G]]"
+- "[[G3699]]"
+- "[[G4160G]]"
+- "[[G5204]]"
+- "[[G3631]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G5100]]"
+- "[[G0937]]"
+- "[[G3739]]"
+- "[[G5207]]"
+- "[[G0770H]]"
+- "[[G1722]]"
+- "[[G2584]]"
+texts:
+- NKO
+- k
+---
+
 **John 4:46**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
 <small><sub>**BSB:**</sub></small>
 So once again He came to Cana in Galilee, where He had turned the water into wine. And there was a royal official whose son lay sick at Capernaum.
-<small><sub>**Literal:**</sub></small>
-He came therefore <the> Jesus again to <the> Cana <the> of Galilee, where He had made the water wine. And there was a certain royal official whose <the> son was sick in Capernaum.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.45|<< John 4:45]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.47|John 4:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἦλθεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3825\|πάλιν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2580\|Κανὰ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας,]]  [[G3699\|ὅπου]]  [[G4160G\|ἐποίησεν]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G3631\|οἶνον.]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G5100\|τις]]  [[G0937\|βασιλικὸς]]  [[G3739\|οὗ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0770H\|ἠσθένει]]  [[G1722\|ἐν]]  [[G2584\|Καφαρναούμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.45|<< John 4:45]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.47|John 4:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

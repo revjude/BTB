@@ -1,8 +1,59 @@
+---
+title: Psalm 28:5
+type: Verse
+kjv: "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
+bsb: "Since they show no regard for the works of the LORD or what His hands have done, He will tear them down and never rebuild them."
+hebrew: "כִּ֤י לֹ֤א יָבִ֡ינוּ אֶל־ פְּעֻלֹּ֣ת יְ֭הוָה וְאֶל־ מַעֲשֵׂ֣ה יָדָ֑יו יֶ֝הֶרְסֵ֗ם וְלֹ֣א יִבְנֵֽם׃"
+pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 28
+book/chapter: "[[Ps.28|Psalm 28]]"
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0995]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6468]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H2040]]"
+- "[[H9038]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 28:5**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.
 <small><sub>**BSB:**</sub></small>
 Since they show no regard for the works of the LORD or what His hands have done, He will tear them down and never rebuild them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֤א]] [[H0995\|יָבִ֡ינוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6468\|פְּעֻלֹּ֣ת]] [[H3068G\|יְ֭הוָה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדָ֑י]][[H9023\|ו]] [[H2040\|יֶ֝הֶרְסֵ֗]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1129\|יִבְנֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GODLESSNESS|GODLESSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.4|<< Psalms 28:4]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.6|Psalms 28:6 >>]]</td></tr></table>
 

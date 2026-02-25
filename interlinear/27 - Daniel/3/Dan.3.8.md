@@ -1,8 +1,65 @@
+---
+title: Daniel 3:8
+type: Verse
+kjv: "Wherefore at that time certain Chaldeans came near, and accused the Jews."
+bsb: "At this time some astrologers came forward and maliciously accused the Jews,"
+aramaic: "כָּל־ קֳבֵ֤ל דְּנָה֙ בֵּהּ־ זִמְנָ֔א קְרִ֖בוּ גֻּבְרִ֣ין כַּשְׂדָּאִ֑ין וַאֲכַ֥לוּ קַרְצֵיה֖וֹן דִּ֥י יְהוּדָיֵֽא׃"
+pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1836]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2166]]"
+- "[[H9010]]"
+- "[[H7127]]"
+- "[[H1400]]"
+- "[[H3779]]"
+- "[[H9002]]"
+- "[[H0399]]"
+- "[[H7170]]"
+- "[[H9028]]"
+- "[[H1768]]"
+- "[[H3062]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:8**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore at that time certain Chaldeans came near, and accused the Jews.
 <small><sub>**BSB:**</sub></small>
 At this time some astrologers came forward and maliciously accused the Jews,
+<small><sub>**Aramaic:**</sub></small>
+[[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֤ל]] [[H1836\|דְּנָה֙]] [[H9003\|בֵּ]][[H9033\|הּ]][[H9014\|־]] [[H2166\|זִמְנָ֔]][[H9010\|א]] [[H7127\|קְרִ֖בוּ]] [[H1400\|גֻּבְרִ֣ין]] [[H3779\|כַּשְׂדָּאִ֑ין]] [[H9002\|וַ]][[H0399\|אֲכַ֥לוּ]] [[H7170\|קַרְצֵי]][[H9028\|ה֖וֹן]] [[H1768\|דִּ֥י]] [[H3062\|יְהוּדָיֵֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.7|<< Daniel 3:7]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.9|Daniel 3:9 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Ezekiel 32:22
+type: Verse
+kjv: "Asshur is there and all her company: his graves are about him: all of them slain, fallen by the sword:"
+bsb: "Assyria is there with her whole company; her graves are all around her. All of them are slain, fallen by the sword."
+hebrew: "שָׁ֤ם אַשּׁוּר֙ וְכָל־ קְהָלָ֔הּ סְבִֽיבוֹתָ֖יו קִבְרֹתָ֑יו כֻּלָּ֣ם חֲלָלִ֔ים הַנֹּפְלִ֖ים בֶּחָֽרֶב׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ASSHUR|ASSHUR]]"
+strongs:
+- "[[H8033G]]"
+- "[[H0804G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6951]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H6913]]"
+- "[[H9023]]"
+- "[[H9028]]"
+- "[[H2491A]]"
+- "[[H9009]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:22**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asshur [is] there and all her company: his graves [are] about him: all of them slain, fallen by the sword:
 <small><sub>**BSB:**</sub></small>
 Assyria is there with her whole company; her graves are all around her. All of them are slain, fallen by the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֤ם]] [[H0804G\|אַשּׁוּר֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6951\|קְהָלָ֔]][[H9024\|הּ]] [[H5439G\|סְבִֽיבוֹתָ֖י]][[H9033\|ו]] [[H6913\|קִבְרֹתָ֑י]][[H9023\|ו]] [[H3605\|כֻּלָּ֣]][[H9028\|ם]] [[H2491A\|חֲלָלִ֔ים]] [[H9009\|הַ]][[H5307G\|נֹּפְלִ֖ים]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSHUR|ASSHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.21|<< Ezekiel 32:21]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.23|Ezekiel 32:23 >>]]</td></tr></table>
 

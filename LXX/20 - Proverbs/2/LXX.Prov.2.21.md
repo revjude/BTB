@@ -1,6 +1,48 @@
+---
+title: LXX Proverbs 2:21
+type: Verse
+lxx: "For the upright shall encamp in the land, and the sacred ones will be left behind in it."
+greek: "ότι ευθείς κατασκηνώσουσι γην και όσιοι υπολειφθήσονται εν αυτή"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3754]]"
+- "[[G2117]]"
+- "[[G2681]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3741]]"
+- "[[G5275]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Proverbs 2:21** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] upright shall encamp in \[the\] land, and \[the\] sacred ones will be left behind in it. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G2117\|ευθείς]] [[G2681\|κατασκηνώσουσι]] [[G1093\|γην]] [[G2532\|και]] [[G3741\|όσιοι]] [[G5275\|υπολειφθήσονται]] [[G1722\|εν]] [[G1473\|αυτή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic GOD|GOD]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
 
@@ -15,6 +57,6 @@ For \[the\] upright shall encamp in \[the\] land, and \[the\] sacred ones will b
 | will be left behind | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | it. | **<big>[[G1473\|αυτή]]</big>** |
-[[Prov.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
 
 

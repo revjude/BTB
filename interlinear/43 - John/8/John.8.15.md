@@ -1,10 +1,49 @@
+---
+title: John 8:15
+type: Verse
+kjv: "Ye judge after the flesh; I judge no man."
+bsb: "You judge according to the flesh; I judge no one."
+jesus_said: "Ye judge after the flesh; I judge no man."
+greek: "ὑμεῖς κατὰ τὴν σάρκα κρίνετε, ἐγὼ οὐ κρίνω οὐδένα."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G2919]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G3762]]"
+texts:
+- NKO
+---
+
 **John 8:15**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye judge after the flesh; I judge no man.
 <small><sub>**BSB:**</sub></small>
 You judge according to the flesh; I judge no one.
-<small><sub>**Literal:**</sub></small>
-You yourselves according to the flesh judge, I myself not am judging no [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.14|<< John 8:14]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.16|John 8:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G4561\|σάρκα]]  [[G2919\|κρίνετε,]]  [[G1473\|ἐγὼ]]  [[G3756\|οὐ]]  [[G2919\|κρίνω]]  [[G3762\|οὐδένα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.14|<< John 8:14]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.16|John 8:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

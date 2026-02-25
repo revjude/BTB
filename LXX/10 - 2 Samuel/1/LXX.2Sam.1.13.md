@@ -1,6 +1,56 @@
+---
+title: LXX 2 Samuel 1:13
+type: Verse
+lxx: "And David said to the servant-lad, the one reporting to him, From what place are you? And he said, I am the son of an Amalekite sojourner man."
+greek: "και είπε Δαυίδ τω παιδαρίω τω απαγγέλλοντι αυτώ πόθεν ει συ και είπεν υιός ανδρός παροίκου Αμαληκίτου εγώ ειμι"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3588]]"
+- "[[G0518]]"
+- "[[G1473]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G5207]]"
+- "[[G0435]]"
+- "[[G3941]]"
+- "[[H6002]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX 2 Samuel 1:13** 
 <small><sub>**LXX:**</sub></small>
 And David said to the servant-lad, the one reporting to him, From what place are you? And he said, I am \[the\] son of an Amalekite sojourner man. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4622\|Δαυίδ]] [[G3588\|τω]] [[G3808\|παιδαρίω]] [[G3588\|τω]] [[G0518\|απαγγέλλοντι]] [[G1473\|αυτώ]] [[G4159\|πόθεν]] [[G1510\|ει]] [[G1473\|συ]] [[G2532\|και]] [[G2036\|είπεν]] [[G5207\|υιός]] [[G0435\|ανδρός]] [[G3941\|παροίκου]] [[H6002\|Αμαληκίτου]] [[G1473\|εγώ]] [[G1510\|ειμι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.12|<< 2 Samuel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.14|2 Samuel 1:14 >>]]</td></tr></table>
 
@@ -24,6 +74,6 @@ And David said to the servant-lad, the one reporting to him, From what place are
 | of an Amalekite | **<big>[[H6002\|Αμαληκίτου]]</big>** |
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | am | **<big>[[G1510\|ειμι]]</big>** |
-[[2Sam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.12|<< 2 Samuel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.14|2 Samuel 1:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.12|<< 2 Samuel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.14|2 Samuel 1:14 >>]]</td></tr></table>
 
 

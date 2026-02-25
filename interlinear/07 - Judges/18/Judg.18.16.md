@@ -1,8 +1,60 @@
+---
+title: Judges 18:16
+type: Verse
+kjv: "And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate."
+bsb: "The six hundred Danites stood at the entrance of the gate, armed with their weapons of war."
+hebrew: "וְשֵׁשׁ־ מֵא֣וֹת אִ֗ישׁ חֲגוּרִים֙ כְּלֵ֣י מִלְחַמְתָּ֔ם נִצָּבִ֖ים פֶּ֣תַח הַשָּׁ֑עַר אֲשֶׁ֖ר מִבְּנֵי־ דָֽן׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H2296]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9028]]"
+- "[[H5324]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H1835G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:16**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the six hundred men appointed with their weapons of war, which [were] of the children of Dan, stood by the entering of the gate.
 <small><sub>**BSB:**</sub></small>
 The six hundred Danites stood at the entrance of the gate, armed with their weapons of war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִ֗ישׁ]] [[H2296\|חֲגוּרִים֙]] [[H3627\|כְּלֵ֣י]] [[H4421\|מִלְחַמְתָּ֔]][[H9028\|ם]] [[H5324\|נִצָּבִ֖ים]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מִ]][[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.15|<< Judges 18:15]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.17|Judges 18:17 >>]]</td></tr></table>
 

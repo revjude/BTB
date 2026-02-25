@@ -1,10 +1,61 @@
+---
+title: Luke 10:26
+type: Verse
+kjv: "He said unto him, What is written in the law? how readest thou?"
+bsb: "“What is written in the Law?” Jesus replied. “How do you read it?”"
+jesus_said: "What is written in the law? how readest thou?"
+greek: "ὁ δὲ εἶπεν πρὸς αὐτόν· ἐν τῷ νόμῳ τί γέγραπται; πῶς ἀναγινώσκεις;¶"
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G5101]]"
+- "[[G1125]]"
+- "[[G4459]]"
+- "[[G0314]]"
+texts:
+- NKO
+---
+
 **Luke 10:26**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He said unto him, What is written in the law? how readest thou?
 <small><sub>**BSB:**</sub></small>
 “What is written in the Law?” Jesus replied. “How do you read it?”
-<small><sub>**Literal:**</sub></small>
-<the> And He said to him; In the law what has been written? How read you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.25|<< Luke 10:25]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.27|Luke 10:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G5101\|τί]]  [[G1125\|γέγραπται;]]  [[G4459\|πῶς]]  [[G0314\|ἀναγινώσκεις;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic DUTY|DUTY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.25|<< Luke 10:25]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.27|Luke 10:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,73 @@
+---
+title: Matthew 17:20
+type: Verse
+kjv: "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+bsb: "“Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”"
+jesus_said: "Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+greek: "Ὁ δὲ Ἰησοῦς λέγει αὐτοῖς· διὰ τὴν ὀλιγοπιστίαν ὑμῶν. ἀμὴν γὰρ λέγω ὑμῖν· ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ· μετάβα ἔνθεν ἐκεῖ, καὶ μεταβήσεται· καὶ οὐδὲν ἀδυνατήσει ὑμῖν.¶"
+pericope: "[[Matt.17.19 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G6066]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G2192]]"
+- "[[G4102G]]"
+- "[[G5613]]"
+- "[[G2848]]"
+- "[[G4615]]"
+- "[[G4483]]"
+- "[[G3735]]"
+- "[[G3778]]"
+- "[[G3327]]"
+- "[[G6033]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G0101]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 17:20**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
 <small><sub>**BSB:**</sub></small>
 “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus spoke to them; Because of the little faith of you. Amen for I say to you; If you shall have faith as a seed of mustard, you will say to the mountain to this; do move from here to there, and it will move; And no [thing] will be impossible for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.19|<< Matthew 17:19]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.21|Matthew 17:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G6066\|ὀλιγοπιστίαν]]  [[G4771\|ὑμῶν.]]  [[G0281\|ἀμὴν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1437\|ἐὰν]]  [[G2192\|ἔχητε]]  [[G4102G\|πίστιν]]  [[G5613\|ὡς]]  [[G2848\|κόκκον]]  [[G4615\|σινάπεως,]]  [[G4483\|ἐρεῖτε]]  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G3778\|τούτῳ·]]  [[G3327\|μετάβα]]  [[G6033\|ἔνθεν]]  [[G1563\|ἐκεῖ,]]  [[G2532\|καὶ]]  [[G3327\|μεταβήσεται·]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G0101\|ἀδυνατήσει]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.19|<< Matthew 17:19]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.21|Matthew 17:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

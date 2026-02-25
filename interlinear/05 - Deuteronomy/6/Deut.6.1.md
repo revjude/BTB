@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 6:1
+type: Verse
+kjv: "Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:"
+bsb: "These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess,"
+hebrew: "וְזֹ֣את הַמִּצְוָ֗ה הַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם לְלַמֵּ֣ד אֶתְכֶ֑ם לַעֲשׂ֣וֹת בָּאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם עֹבְרִ֥ים שָׁ֖מָּה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L(P)
+- L
+---
+
 **Deuteronomy 6:1**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do [them] in the land whither ye go to possess it:
 <small><sub>**BSB:**</sub></small>
 These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2063\|זֹ֣את]] [[H9009\|הַ]][[H4687\|מִּצְוָ֗ה]] [[H9009\|הַֽ]][[H2706G\|חֻקִּים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֛ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9005\|לְ]][[H3925G\|לַמֵּ֣ד]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֛ם]] [[H5674A\|עֹבְרִ֥ים]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRONTLETS|FRONTLETS]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.33|<< Deuteronomy 5:33]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.2|Deuteronomy 6:2 >>]]</td></tr></table>
 

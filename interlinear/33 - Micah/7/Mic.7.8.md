@@ -1,8 +1,61 @@
+---
+title: Micah 7:8
+type: Verse
+kjv: "Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me."
+bsb: "Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit in darkness, the LORD will be my light."
+hebrew: "אַֽל־ תִּשְׂמְחִ֤י אֹיַ֙בְתִּי֙ לִ֔י כִּ֥י נָפַ֖לְתִּי קָ֑מְתִּי כִּֽי־ אֵשֵׁ֣ב בַּחֹ֔שֶׁךְ יְהוָ֖ה א֥וֹר לִֽי׃ ס"
+pericope: "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8055]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H5307G]]"
+- "[[H6965B]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H3068G]]"
+- "[[H0216]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Micah 7:8**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD [shall be] a light unto me.
 <small><sub>**BSB:**</sub></small>
 Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit in darkness, the LORD will be my light.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H8055\|תִּשְׂמְחִ֤י]] [[H0341\|אֹיַ֙בְתִּ]][[H9020\|י֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H3588A\|כִּ֥י]] [[H5307G\|נָפַ֖לְתִּי]] [[H6965B\|קָ֑מְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3427\|אֵשֵׁ֣ב]] [[H9003\|בַּ]][[H2822\|חֹ֔שֶׁךְ]] [[H3068G\|יְהוָ֖ה]] [[H0216\|א֥וֹר]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DARKNESS|DARKNESS]] • [[topic FAITH|FAITH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.7|<< Micah 7:7]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.9|Micah 7:9 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit
 | in \<the> darkness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2822\|חֹ֔שֶׁךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] light  |**<big>&#8207;[[H0216\|א֥וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.7|<< Micah 7:7]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.9|Micah 7:9 >>]]</td></tr></table>
 
 

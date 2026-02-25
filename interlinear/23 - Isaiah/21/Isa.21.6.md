@@ -1,8 +1,58 @@
+---
+title: Isaiah 21:6
+type: Verse
+kjv: "For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth."
+bsb: "For this is what the Lord says to me: “Go, post a lookout and have him report what he sees."
+hebrew: "כִּ֣י כֹ֥ה אָמַ֛ר אֵלַ֖י אֲדֹנָ֑י לֵ֚ךְ הַעֲמֵ֣ד הַֽמְצַפֶּ֔ה אֲשֶׁ֥ר יִרְאֶ֖ה יַגִּֽיד׃"
+pericope: "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0136]]"
+- "[[H1980G]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H6822]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:6**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord says to me: “Go, post a lookout and have him report what he sees.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H0559\|אָמַ֛ר]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H0136\|אֲדֹנָ֑י]] [[H1980G\|לֵ֚ךְ]] [[H5975G\|הַעֲמֵ֣ד]] [[H9009\|הַֽ]][[H6822\|מְצַפֶּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|יִרְאֶ֖ה]] [[H5046\|יַגִּֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]] • [[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.5|<< Isaiah 21:5]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.7|Isaiah 21:7 >>]]</td></tr></table>
 

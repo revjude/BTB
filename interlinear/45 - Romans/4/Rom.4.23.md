@@ -1,10 +1,52 @@
+---
+title: Romans 4:23
+type: Verse
+kjv: "Now it was not written for his sake alone, that it was imputed to him;"
+bsb: "Now the words “it was credited to him” were written not only for Abraham,"
+greek: "Οὐκ ἐγράφη δὲ δι᾽ αὐτὸν μόνον ὅτι ἐλογίσθη αὐτῷ,"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3756]]"
+- "[[G1125]]"
+- "[[G1161]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G3441]]"
+- "[[G3754G]]"
+- "[[G3049]]"
+texts:
+- NKO
+---
+
 **Romans 4:23**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now it was not written for his sake alone, that it was imputed to him;
 <small><sub>**BSB:**</sub></small>
 Now the words “it was credited to him” were written not only for Abraham,
-<small><sub>**Literal:**</sub></small>
-Not it was written now on account of him alone that it was credited to him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.22|<< Romans 4:22]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.24|Romans 4:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐκ]]  [[G1125\|ἐγράφη]]  [[G1161\|δὲ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτὸν]]  [[G3441\|μόνον]]  [[G3754G\|ὅτι]]  [[G3049\|ἐλογίσθη]]  [[G0846\|αὐτῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.22|<< Romans 4:22]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.24|Romans 4:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

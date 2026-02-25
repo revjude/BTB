@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Submission to Authorities
+type: Pericope
 pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 2
 book/chapter: "[[1Pet.2|1 Peter 2]]"
-genre:
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 8
 verses:
 - "[[1Pet.2.13]]"
 - "[[1Pet.2.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Pet.2.20]]"
 ---
 
-[[1Pet.2|1 Peter 2:13 - 1 Peter 2:20]]
+<small>[[1Pet.2|1 Peter 2:13-20]]</small>
 *Submission to Authorities*
 
 [[1Pet.2.13|13]] Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;

@@ -1,8 +1,55 @@
+---
+title: Numbers 24:25
+type: Verse
+kjv: "And Balaam rose up, and went and returned to his place: and Balak also went his way."
+bsb: "Then Balaam arose and returned to his homeland, and Balak also went on his way."
+hebrew: "וַיָּ֣קָם בִּלְעָ֔ם וַיֵּ֖לֶךְ וַיָּ֣שָׁב לִמְקֹמ֑וֹ וְגַם־ בָּלָ֖ק הָלַ֥ךְ לְדַרְכּֽוֹ׃ פ"
+pericope: "[[Num.24.20 Balaam’s Final Three Oracles|Balaam’s Final Three Oracles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1109A]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H1870L]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 24:25**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam rose up, and went and returned to his place: and Balak also went his way.
 <small><sub>**BSB:**</sub></small>
 Then Balaam arose and returned to his homeland, and Balak also went on his way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H1109A\|בִּלְעָ֔ם]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]] [[H9005\|לִ]][[H4725\|מְקֹמ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1111\|בָּלָ֖ק]] [[H1980G\|הָלַ֥ךְ]] [[H9005\|לְ]][[H1870L\|דַרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.24|<< Numbers 24:24]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.1|Numbers 25:1 >>]]</td></tr></table>
 
@@ -16,7 +63,7 @@ Then Balaam arose and returned to his homeland, and Balak also went on his way.
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Balak  |**<big>&#8207;[[H1111\|בָּלָ֖ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H1980G\|הָלַ֥ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.24|<< Numbers 24:24]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.1|Numbers 25:1 >>]]</td></tr></table>
 
 

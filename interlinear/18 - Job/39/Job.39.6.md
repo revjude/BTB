@@ -1,8 +1,51 @@
+---
+title: Job 39:6
+type: Verse
+kjv: "Whose house I have made the wilderness, and the barren land his dwellings."
+bsb: "I made the wilderness his home and the salt flats his dwelling."
+hebrew: "אֲשֶׁר־ שַׂ֣מְתִּי עֲרָבָ֣ה בֵית֑וֹ וּֽמִשְׁכְּנוֹתָ֥יו מְלֵֽחָה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7760H]]"
+- "[[H6160L]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4908]]"
+- "[[H4420]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:6**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose house I have made the wilderness, and the barren land his dwellings.
 <small><sub>**BSB:**</sub></small>
 I made the wilderness his home and the salt flats his dwelling.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שַׂ֣מְתִּי]] [[H6160L\|עֲרָבָ֣ה]] [[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H9002\|וּֽ]][[H4908\|מִשְׁכְּנוֹתָ֥י]][[H9023\|ו]] [[H4420\|מְלֵֽחָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.5|<< Job 39:5]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.7|Job 39:7 >>]]</td></tr></table>
 

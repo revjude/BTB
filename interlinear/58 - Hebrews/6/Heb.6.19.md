@@ -1,10 +1,62 @@
+---
+title: Hebrews 6:19
+type: Verse
+kjv: "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;"
+bsb: "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,"
+greek: "ἣν ὡς ἄγκυραν ἔχομεν τῆς ψυχῆς ἀσφαλῆ τε καὶ βεβαίαν καὶ εἰσερχομένην εἰς τὸ ἐσώτερον τοῦ καταπετάσματος,"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANCHOR|ANCHOR]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[G3739]]"
+- "[[G5613]]"
+- "[[G0045]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G0804]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G0949]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2082]]"
+- "[[G2665]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:19**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which [hope] we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
 <small><sub>**BSB:**</sub></small>
 We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,
-<small><sub>**Literal:**</sub></small>
-which as an anchor we have of the soul sure both and unshakable and entering into that within the veil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.18|<< Hebrews 6:18]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.20|Hebrews 6:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἣν]]  [[G5613\|ὡς]]  [[G0045\|ἄγκυραν]]  [[G2192\|ἔχομεν]]  [[G3588\|τῆς]]  [[G5590G\|ψυχῆς]]  [[G0804\|ἀσφαλῆ]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G0949\|βεβαίαν]]  [[G2532\|καὶ]]  [[G1525\|εἰσερχομένην]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2082\|ἐσώτερον]]  [[G3588\|τοῦ]]  [[G2665\|καταπετάσματος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANCHOR|ANCHOR]] • [[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SHIP|SHIP]] • [[topic VAIL|VAIL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.18|<< Hebrews 6:18]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.20|Hebrews 6:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 6:19** is...
 > $\quad$ alluding to: [[LXX.Lev.16.12|Lev 16:12]]

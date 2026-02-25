@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 3:38
+type: Verse
+kjv: "And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?"
+bsb: "Then the king said to his servants, “Do you not realize that a great prince has fallen today in Israel?"
+hebrew: "וַיֹּ֥אמֶר הַמֶּ֖לֶךְ אֶל־ עֲבָדָ֑יו הֲל֣וֹא תֵדְע֔וּ כִּי־ שַׂ֣ר וְגָד֗וֹל נָפַ֛ל הַיּ֥וֹם הַזֶּ֖ה בְּיִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.3.31 David Mourns for Abner|David Mourns for Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H5307G]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:38**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?
 <small><sub>**BSB:**</sub></small>
 Then the king said to his servants, “Do you not realize that a great prince has fallen today in Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H3045\|תֵדְע֔וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H8269\|שַׂ֣ר]] [[H9002\|וְ]][[H1419A\|גָד֗וֹל]] [[H5307G\|נָפַ֛ל]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.37|<< 2 Samuel 3:37]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.39|2 Samuel 3:39 >>]]</td></tr></table>
 

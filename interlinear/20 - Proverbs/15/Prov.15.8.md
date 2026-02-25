@@ -1,8 +1,54 @@
+---
+title: Proverbs 15:8
+type: Verse
+kjv: "The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight."
+bsb: "The sacrifice of the wicked is detestable to the LORD, but the prayer of the upright is His delight."
+hebrew: "זֶ֣בַח רְ֭שָׁעִים תּוֹעֲבַ֣ת יְהוָ֑ה וּתְפִלַּ֖ת יְשָׁרִ֣ים רְצוֹנֽוֹ׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2077]]"
+- "[[H7563]]"
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8605]]"
+- "[[H3477G]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:8**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sacrifice of the wicked [is] an abomination to the LORD: but the prayer of the upright [is] his delight.
 <small><sub>**BSB:**</sub></small>
 The sacrifice of the wicked is detestable to the LORD, but the prayer of the upright is His delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H2077\|זֶ֣בַח]] [[H7563\|רְ֭שָׁעִים]] [[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H8605\|תְפִלַּ֖ת]] [[H3477G\|יְשָׁרִ֣ים]] [[H7522\|רְצוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.7|<< Proverbs 15:7]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.9|Proverbs 15:9 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Damascus
+type: Pericope
 pericope: "[[Jer.49.23 Judgment on Damascus|Judgment on Damascus]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 49
 book/chapter: "[[Jer.49|Jeremiah 49]]"
-genre:
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.49.23]]"
 - "[[Jer.49.24]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.49.27]]"
 ---
 
-[[Jer.49|Jeremiah 49:23 - Jeremiah 49:27]]
+<small>[[Jer.49|Jeremiah 49:23-27]]</small>
 *Judgment on Damascus*
 
 [[Jer.49.23|23]] Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; \[there is\] sorrow on the sea; it cannot be quiet.

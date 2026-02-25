@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Omri Reigns in Israel
+type: Pericope
 pericope: "[[1Kgs.16.21 Omri Reigns in Israel|Omri Reigns in Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 16
 book/chapter: "[[1Kgs.16|1 Kings 16]]"
-genre:
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.16.21]]"
 - "[[1Kgs.16.22]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.16.28]]"
 ---
 
-[[1Kgs.16|1 Kings 16:21 - 1 Kings 16:28]]
+<small>[[1Kgs.16|1 Kings 16:21-28]]</small>
 *Omri Reigns in Israel*
 
 [[1Kgs.16.21|21]] Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.

@@ -1,10 +1,60 @@
+---
+title: Revelation 21:17
+type: Verse
+kjv: "And he measured the wall thereof, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel."
+bsb: "And he measured its wall to be 144 cubits, by the human measure the angel was using."
+greek: "καὶ ἐμέτρησεν τὸ τεῖχος αὐτῆς ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, μέτρον ἀνθρώπου ὅ ἐστιν ἀγγέλου."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUBIT|CUBIT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3354]]"
+- "[[G3588]]"
+- "[[G5038]]"
+- "[[G0846]]"
+- "[[G1540]]"
+- "[[G5062]]"
+- "[[G5064]]"
+- "[[G4083]]"
+- "[[G3358]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G0032G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 21:17**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he measured the wall thereof, an hundred [and] forty [and] four cubits, [according to] the measure of a man, that is, of the angel.
 <small><sub>**BSB:**</sub></small>
 And he measured its wall to be 144 cubits, by the human measure the angel was using.
-<small><sub>**Literal:**</sub></small>
-And he measured the wall of it one hundred forty four cubits, [the] measure of man that is of the angel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.16|<< Revelation 21:16]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.18|Revelation 21:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3354\|ἐμέτρησεν]]  [[G3588\|τὸ]]  [[G5038\|τεῖχος]]  [[G0846\|αὐτῆς]]  [[G1540\|ἑκατὸν]]  [[G5062\|τεσσεράκοντα]]  [[G5064\|τεσσάρων]]  [[G4083\|πηχῶν,]]  [[G3358\|μέτρον]]  [[G0444\|ἀνθρώπου]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G0032G\|ἀγγέλου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CUBIT|CUBIT]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.16|<< Revelation 21:16]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.18|Revelation 21:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

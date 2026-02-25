@@ -1,8 +1,67 @@
+---
+title: Ezekiel 17:6
+type: Verse
+kjv: "And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs."
+bsb: "It sprouted and became a spreading vine, low in height, with branches turned toward him; yet its roots remained where it stood. So it became a vine and yielded branches and sent out shoots."
+hebrew: "וַיִּצְמַ֡ח וַיְהִי֩ לְגֶ֨פֶן סֹרַ֜חַת שִׁפְלַ֣ת קוֹמָ֗ה לִפְנ֤וֹת דָּלִיּוֹתָיו֙ אֵלָ֔יו וְשָׁרָשָׁ֖יו תַּחְתָּ֣יו יִֽהְי֑וּ וַתְּהִ֣י לְגֶ֔פֶן וַתַּ֣עַשׂ בַּדִּ֔ים וַתְּשַׁלַּ֖ח פֹּארֽוֹת׃"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6779]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1612]]"
+- "[[H5628]]"
+- "[[H8217]]"
+- "[[H6967]]"
+- "[[H6437G]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H8478I]]"
+- "[[H6213H]]"
+- "[[H0905G]]"
+- "[[H7971G]]"
+- "[[H6288A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:6**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
 <small><sub>**BSB:**</sub></small>
 It sprouted and became a spreading vine, low in height, with branches turned toward him; yet its roots remained where it stood. So it became a vine and yielded branches and sent out shoots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6779\|יִּצְמַ֡ח]] [[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9005\|לְ]][[H1612\|גֶ֨פֶן]] [[H5628\|סֹרַ֜חַת]] [[H8217\|שִׁפְלַ֣ת]] [[H6967\|קוֹמָ֗ה]] [[H9005\|לִ]][[H6437G\|פְנ֤וֹת]] [[H1808\|דָּלִיּוֹתָי]][[H9023\|ו֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H8328\|שָׁרָשָׁ֖י]][[H9023\|ו]] [[H8478I\|תַּחְתָּ֣י]][[H9033\|ו]] [[H1961\|יִֽהְי֑וּ]] [[H9001\|וַ]][[H1961\|תְּהִ֣י]] [[H9005\|לְ]][[H1612\|גֶ֔פֶן]] [[H9001\|וַ]][[H6213H\|תַּ֣עַשׂ]] [[H0905G\|בַּדִּ֔ים]] [[H9001\|וַ]][[H7971G\|תְּשַׁלַּ֖ח]] [[H6288A\|פֹּארֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.5|<< Ezekiel 17:5]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.7|Ezekiel 17:7 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 5:16
+type: Verse
+kjv: "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more."
+bsb: "So from now on we regard no one according to the flesh. Although we once regarded Christ in this way, we do so no longer."
+greek: "Ὥστε ἡμεῖς ἀπὸ τοῦ νῦν οὐδένα οἴδαμεν κατὰ σάρκα· εἰ δὲ καὶ ἐγνώκαμεν κατὰ σάρκα Χριστόν, ἀλλὰ νῦν οὐκέτι οὐκέτι γινώσκομεν."
+pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5620]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G3762]]"
+- "[[G6063]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G1487M]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G5547]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G2089]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 5:16**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we [him] no more.
 <small><sub>**BSB:**</sub></small>
 So from now on we regard no one according to the flesh. Although we once regarded Christ in this way, we do so no longer.
-<small><sub>**Literal:**</sub></small>
-Therefore we ourselves from <the> now no [one] know according to [the] flesh; If now even we have regarded according to flesh Christ, yet now no longer we regard [Him thus].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.15|<< 2 Corinthians 5:15]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.17|2 Corinthians 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε]]  [[G3165\|ἡμεῖς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G3762\|οὐδένα]]  [[G6063\|οἴδαμεν]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα·]]  [[G1487M\|εἰ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1097\|ἐγνώκαμεν]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα]]  [[G5547\|Χριστόν,]]  [[G0235\|ἀλλὰ]]  [[G3568\|νῦν]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1097\|γινώσκομεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.15|<< 2 Corinthians 5:15]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.17|2 Corinthians 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

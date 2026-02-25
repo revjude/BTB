@@ -1,6 +1,70 @@
+---
+title: LXX Judges 9:3
+type: Verse
+lxx: "And the brothers of his mother spoke concerning him in the ears of all of the men of Shechem all  these words. And their heart leaned after Abimelech; for they said, He is our brother."
+greek: "και ελάλησαν περί αυτού οι αδελφοί της μητρός αυτού εν τοις ωσίν πάντων των ανδρών Σικήμων πάντας τους λόγους τούτους και έκλινεν η καρδία αυτών οπίσω Αβιμέλεχ ότι είπαν αδελφός ημών εστί"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G4966]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G2827]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G3694]]"
+- "[[H0040]]"
+- "[[G3754]]"
+- "[[G2036]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX Judges 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the brothers of his mother spoke concerning him in the ears of all of the men of Shechem all  these words. And their heart leaned after Abimelech; for they said, He is our brother. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2980\|ελάλησαν]] [[G4012\|περί]] [[G1473\|αυτού]] [[G3588\|οι]] [[G0080\|αδελφοί]] [[G3588\|της]] [[G3384\|μητρός]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3588\|τοις]] [[G3775\|ωσίν]] [[G3956\|πάντων]] [[G3588\|των]] [[G0435\|ανδρών]] [[G4966\|Σικήμων]] [[G3956\|πάντας]] [[G3588\|τους]] [[G3056\|λόγους]] [[G3778\|τούτους]] [[G2532\|και]] [[G2827\|έκλινεν]] [[G3588\|η]] [[G2588\|καρδία]] [[G1473\|αυτών]] [[G3694\|οπίσω]] [[H0040\|Αβιμέλεχ]] [[G3754\|ότι]] [[G2036\|είπαν]] [[G0080\|αδελφός]] [[G1473\|ημών]] [[G1510\|εστί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.4|Judges 9:4 >>]]</td></tr></table>
 
@@ -34,6 +98,6 @@ And the brothers of his mother spoke concerning him in the ears of all of the me
 | they said, | **<big>[[G2036\|είπαν]]</big>** |
 | our brother | **<big>[[G0080\|αδελφός]]</big>** **<big>[[G1473\|ημών]]</big>** |
 | He is | **<big>[[G1510\|εστί]]</big>** |
-[[Judg.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.4|Judges 9:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.4|Judges 9:4 >>]]</td></tr></table>
 
 

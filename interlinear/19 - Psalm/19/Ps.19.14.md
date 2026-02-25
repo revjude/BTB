@@ -1,8 +1,63 @@
+---
+title: Psalm 19:14
+type: Verse
+kjv: "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer."
+bsb: "May the words of my mouth and the meditation of my heart be pleasing in Your sight, O LORD, my Rock and my Redeemer."
+hebrew: "יִֽהְי֥וּ לְרָצ֨וֹן׀ אִמְרֵי־ פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃"
+pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 19
+book/chapter: "[[Ps.19|Psalm 19]]"
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7522]]"
+- "[[H9015]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1902H]]"
+- "[[H3820A]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H6697H]]"
+- "[[H1350A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 19:14**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.
 <small><sub>**BSB:**</sub></small>
 May the words of my mouth and the meditation of my heart be pleasing in Your sight, O LORD, my Rock and my Redeemer.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִֽהְי֥וּ]] [[H9005\|לְ]][[H7522\|רָצ֨וֹן]][[H9015\|׀]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִ֡]][[H9020\|י]] [[H9002\|וְ]][[H1902H\|הֶגְי֣וֹן]] [[H3820A\|לִבִּ֣]][[H9020\|י]] [[H9005\|לְ]][[H6440H\|פָנֶ֑י]][[H9021\|ךָ]] [[H3068G\|יְ֝הוָ֗ה]] [[H6697H\|צוּרִ֥]][[H9020\|י]] [[H9002\|וְ]][[H1350A\|גֹאֲלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MEDITATION|MEDITATION]] • [[topic MUSIC|MUSIC]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.13|<< Psalms 19:13]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.0|Psalms 20:0 >>]]</td></tr></table>
 

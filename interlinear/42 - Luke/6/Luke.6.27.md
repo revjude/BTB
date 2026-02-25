@@ -1,10 +1,57 @@
+---
+title: Luke 6:27
+type: Verse
+kjv: "But I say unto you which hear, Love your enemies, do good to them which hate you,"
+bsb: "But to those of you who will listen, I say: Love your enemies, do good to those who hate you,"
+jesus_said: "But I say unto you which hear, Love your enemies, do good to them which hate you,"
+greek: "ἀλλ᾽ ὑμῖν λέγω τοῖς ἀκούουσιν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, καλῶς ποιεῖτε τοῖς μισοῦσιν ὑμᾶς,"
+pericope: "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G0235]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G0025]]"
+- "[[G2190]]"
+- "[[G2573]]"
+- "[[G4160G]]"
+- "[[G3404]]"
+texts:
+- NKO
+---
+
 **Luke 6:27**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you which hear, Love your enemies, do good to them which hate you,
 <small><sub>**BSB:**</sub></small>
 But to those of you who will listen, I say: Love your enemies, do good to those who hate you,
-<small><sub>**Literal:**</sub></small>
-But to you I say to those hearing: do love the enemies of you, good do perform to those hating you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.26|<< Luke 6:26]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.28|Luke 6:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω]]  [[G3588\|τοῖς]]  [[G0191\|ἀκούουσιν·]]  [[G0025\|ἀγαπᾶτε]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθροὺς]]  [[G4771\|ὑμῶν,]]  [[G2573\|καλῶς]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τοῖς]]  [[G3404\|μισοῦσιν]]  [[G4771\|ὑμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.26|<< Luke 6:26]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.28|Luke 6:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

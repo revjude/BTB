@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 17:14
+type: Verse
+kjv: "And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand."
+bsb: "These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;"
+hebrew: "וְאֵ֥לֶּה פְקֻדָּתָ֖ם לְבֵ֣ית אֲבוֹתֵיהֶ֑ם לִֽיהוּדָה֙ שָׂרֵ֣י אֲלָפִ֔ים עַדְנָ֣ה הַשָּׂ֔ר וְעִמּוֹ֙ גִּבּ֣וֹרֵי חַ֔יִל שְׁלֹ֥שׁ מֵא֖וֹת אָֽלֶף׃ ס"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ADNAH|ADNAH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H6486]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H3063G]]"
+- "[[H8269]]"
+- "[[H0505G]]"
+- "[[H5734H]]"
+- "[[H9009]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:14**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.
 <small><sub>**BSB:**</sub></small>
 These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H6486\|פְקֻדָּתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֑ם]] [[H9005\|לִֽ]][[H3063G\|יהוּדָה֙]] [[H8269\|שָׂרֵ֣י]] [[H0505G\|אֲלָפִ֔ים]] [[H5734H\|עַדְנָ֣ה]] [[H9009\|הַ]][[H8269\|שָּׂ֔ר]] [[H9002\|וְ]][[H5973A\|עִמּ]][[H9033\|וֹ֙]] [[H1368\|גִּבּ֣וֹרֵי]] [[H2428G\|חַ֔יִל]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADNAH|ADNAH]] • [[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.13|<< 2 Chronicles 17:13]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.15|2 Chronicles 17:15 >>]]</td></tr></table>
 
@@ -22,7 +77,7 @@ These are their numbers according to the houses of their fathers: From Judah, th
 | strength  |**<big>&#8207;[[H2428G\|חַ֔יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.13|<< 2 Chronicles 17:13]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.15|2 Chronicles 17:15 >>]]</td></tr></table>
 
 

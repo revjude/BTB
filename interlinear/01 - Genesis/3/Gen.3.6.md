@@ -1,8 +1,83 @@
+---
+title: Genesis 3:6
+type: Verse
+kjv: "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat."
+bsb: "When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it."
+hebrew: "וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ הָעֵ֨ץ לְמַאֲכָ֜ל וְכִ֧י תַֽאֲוָה־ ה֣וּא לָעֵינַ֗יִם וְנֶחְמָ֤ד הָעֵץ֙ לְהַשְׂכִּ֔יל וַתִּקַּ֥ח מִפִּרְי֖וֹ וַתֹּאכַ֑ל וַתִּתֵּ֧ן גַּם־ לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃"
+pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic LUST|LUST]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TREE|TREE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H2896B]]"
+- "[[H6086H]]"
+- "[[H9005]]"
+- "[[H3978]]"
+- "[[H9002]]"
+- "[[H8378]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H5869A]]"
+- "[[H2530A]]"
+- "[[H7919A]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H5414G]]"
+- "[[H1571]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:6**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the woman saw that the tree [was] good for food, and that it [was] pleasant to the eyes, and a tree to be desired to make [one] wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 <small><sub>**BSB:**</sub></small>
 When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֣רֶא]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֡ה]] [[H3588A\|כִּ֣י]] [[H2896B\|טוֹב֩]] [[H9009\|הָ]][[H6086H\|עֵ֨ץ]] [[H9005\|לְ]][[H3978\|מַאֲכָ֜ל]] [[H9002\|וְ]][[H3588A\|כִ֧י]] [[H8378\|תַֽאֲוָה]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H9005\|לָ]][[H5869A\|עֵינַ֗יִם]] [[H9002\|וְ]][[H2530A\|נֶחְמָ֤ד]] [[H9009\|הָ]][[H6086H\|עֵץ֙]] [[H9005\|לְ]][[H7919A\|הַשְׂכִּ֔יל]] [[H9001\|וַ]][[H3947G\|תִּקַּ֥ח]] [[H9006\|מִ]][[H6529\|פִּרְי֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H0398\|תֹּאכַ֑ל]] [[H9001\|וַ]][[H5414G\|תִּתֵּ֧ן]] [[H1571\|גַּם]][[H9014\|־]] [[H9005\|לְ]][[H0376H\|אִישָׁ֛]][[H9024\|הּ]] [[H5973A\|עִמָּ֖]][[H9034\|הּ]] [[H9001\|וַ]][[H0398\|יֹּאכַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CURIOSITY|CURIOSITY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic INFLUENCE|INFLUENCE]] • [[topic LUST|LUST]] • [[topic SERPENT|SERPENT]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TREE|TREE]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.5|<< Genesis 3:5]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.7|Genesis 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

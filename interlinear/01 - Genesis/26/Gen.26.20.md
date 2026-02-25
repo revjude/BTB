@@ -1,8 +1,72 @@
+---
+title: Genesis 26:20
+type: Verse
+kjv: "And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him."
+bsb: "But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him."
+hebrew: "וַיָּרִ֜יבוּ רֹעֵ֣י גְרָ֗ר עִם־ רֹעֵ֥י יִצְחָ֛ק לֵאמֹ֖ר לָ֣נוּ הַמָּ֑יִם וַיִּקְרָ֤א שֵֽׁם־ הַבְּאֵר֙ עֵ֔שֶׂק כִּ֥י הִֽתְעַשְּׂק֖וּ עִמּֽוֹ׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic ESEK|ESEK]]"
+- "[[topic GERAR|GERAR]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7378]]"
+- "[[H7462B]]"
+- "[[H1642]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3327]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H0875]]"
+- "[[H6230]]"
+- "[[H3588A]]"
+- "[[H6229]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:20**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water [is] ours: and he called the name of the well Esek; because they strove with him.
 <small><sub>**BSB:**</sub></small>
 But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7378\|יָּרִ֜יבוּ]] [[H7462B\|רֹעֵ֣י]] [[H1642\|גְרָ֗ר]] [[H5973A\|עִם]][[H9014\|־]] [[H7462B\|רֹעֵ֥י]] [[H3327\|יִצְחָ֛ק]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֤א]] [[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H0875\|בְּאֵר֙]] [[H6230\|עֵ֔שֶׂק]] [[H3588A\|כִּ֥י]] [[H6229\|הִֽתְעַשְּׂק֖וּ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic ESEK|ESEK]] • [[topic GERAR|GERAR]] • [[topic ISAAC|ISAAC]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic PROPERTY|PROPERTY]] • [[topic STRIFE|STRIFE]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.19|<< Genesis 26:19]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.21|Genesis 26:21 >>]]</td></tr></table>
 

@@ -35,7 +35,7 @@
 
 → Were buried in separate burial places [[Matt.27.7|Mt 27:7]]
 
-→ Kindness to the poor of, required [[Lev.25.35|Le 25:35]]-[[Lev.25.38|38]]
+→ Kindness to the poor of, required [[Lev.25.35|Le 25:35-38]]
 
 → Love of, enjoined [[Deut.10.18|De 10:18]],[[Deut.10.19|19]]
 

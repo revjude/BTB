@@ -1,8 +1,54 @@
+---
+title: Proverbs 22:17
+type: Verse
+kjv: "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+bsb: "Incline your ear and hear the words of the wise—apply your mind to my knowledge—"
+hebrew: "הַ֥ט אָזְנְךָ֗ וּ֭שְׁמַע דִּבְרֵ֣י חֲכָמִ֑ים וְ֝לִבְּךָ֗ תָּשִׁ֥ית לְדַעְתִּֽי׃"
+pericope: "[[Prov.22.17 Saying 1|Saying 1]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H5186]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H2450]]"
+- "[[H3820A]]"
+- "[[H7896G]]"
+- "[[H9005]]"
+- "[[H1847]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:17**<big><big>[[Prov.22.17 Saying 1|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.
 <small><sub>**BSB:**</sub></small>
 Incline your ear and hear the words of the wise—apply your mind to my knowledge—
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|הַ֥ט]] [[H0241G\|אָזְנְ]][[H9021\|ךָ֗]] [[H9002\|וּ֭]][[H8085G\|שְׁמַע]] [[H1697G\|דִּבְרֵ֣י]] [[H2450\|חֲכָמִ֑ים]] [[H9002\|וְ֝]][[H3820A\|לִבְּ]][[H9021\|ךָ֗]] [[H7896G\|תָּשִׁ֥ית]] [[H9005\|לְ]][[H1847\|דַעְתִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.16|<< Proverbs 22:16]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.18|Proverbs 22:18 >>]]</td></tr></table>
 

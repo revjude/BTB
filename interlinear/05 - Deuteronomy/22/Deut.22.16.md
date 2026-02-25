@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 22:16
+type: Verse
+kjv: "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
+bsb: "and say to the elders, “I gave my daughter in marriage to this man, but he has come to hate her."
+hebrew: "וְאָמַ֛ר אֲבִ֥י הַֽנַּעַרָ֖ה אֶל־ הַזְּקֵנִ֑ים אֶת־ בִּתִּ֗י נָתַ֜תִּי לָאִ֥ישׁ הַזֶּ֛ה לְאִשָּׁ֖ה וַיִּשְׂנָאֶֽהָ׃"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H0802H]]"
+- "[[H8130]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 22:16**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;
 <small><sub>**BSB:**</sub></small>
 and say to the elders, “I gave my daughter in marriage to this man, but he has come to hate her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֛ר]] [[H0001G\|אֲבִ֥י]] [[H9009\|הַֽ]][[H5291\|נַּעַרָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֑ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בִּתִּ֗]][[H9020\|י]] [[H5414O\|נָתַ֜תִּי]] [[H9005\|לָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֖ה]] [[H9001\|וַ]][[H8130\|יִּשְׂנָאֶֽ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HUSBAND|HUSBAND]] • [[topic SLANDER|SLANDER]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.15|<< Deuteronomy 22:15]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.17|Deuteronomy 22:17 >>]]</td></tr></table>
 

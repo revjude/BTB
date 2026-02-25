@@ -1,10 +1,58 @@
+---
+title: Hebrews 12:13
+type: Verse
+kjv: "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed."
+bsb: "Make straight paths for your feet, so that the lame may not be disabled, but rather healed."
+greek: "καὶ τροχιὰς ὀρθὰς ποιεῖτε τοῖς ποσὶν ὑμῶν, ἵνα μὴ τὸ χωλὸν ἐκτραπῇ, ἰαθῇ δὲ μᾶλλον."
+pericope: "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic STRAIGHT|STRAIGHT]]"
+strongs:
+- "[[G2532]]"
+- "[[G5163]]"
+- "[[G3717]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5560]]"
+- "[[G1624]]"
+- "[[G2390]]"
+- "[[G1161]]"
+- "[[G3123H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 12:13**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.
 <small><sub>**BSB:**</sub></small>
 Make straight paths for your feet, so that the lame may not be disabled, but rather healed.
-<small><sub>**Literal:**</sub></small>
-and paths straight do make for the feet of you, so that not the lame may be disabled, may be healed however rather.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.12|<< Hebrews 12:12]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.14|Hebrews 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5163\|τροχιὰς]]  [[G3717\|ὀρθὰς]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τοῖς]]  [[G4228\|ποσὶν]]  [[G4771\|ὑμῶν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G5560\|χωλὸν]]  [[G1624\|ἐκτραπῇ,]]  [[G2390\|ἰαθῇ]]  [[G1161\|δὲ]]  [[G3123H\|μᾶλλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic LAMENESS|LAMENESS]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic STRAIGHT|STRAIGHT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.12|<< Hebrews 12:12]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.14|Hebrews 12:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 12:13** is...
 > $\quad$ alluding to: [[LXX.Prov.4.26|Prov 4:26]]

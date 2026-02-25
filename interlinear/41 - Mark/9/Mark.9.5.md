@@ -1,10 +1,62 @@
+---
+title: Mark 9:5
+type: Verse
+kjv: "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias."
+bsb: "Peter said to Jesus, “Rabbi, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.”"
+greek: "καὶ ἀποκριθεὶς ὁ Πέτρος λέγει τῷ Ἰησοῦ· ῥαββί, καλόν ἐστιν ἡμᾶς ὧδε εἶναι, καὶ ποιήσωμεν τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν·"
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RABBI|RABBI]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G4461]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G5602]]"
+- "[[G1511]]"
+- "[[G4160G]]"
+- "[[G5140]]"
+- "[[G4633]]"
+- "[[G4771]]"
+- "[[G1520]]"
+- "[[G3475]]"
+- "[[G2243]]"
+texts:
+- NKO
+---
+
 **Mark 9:5**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.
 <small><sub>**BSB:**</sub></small>
 Peter said to Jesus, “Rabbi, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.”
-<small><sub>**Literal:**</sub></small>
-And answering <the> Peter says <the> to Jesus; Rabbi, good it is for us here to be, And let us make three tabernacles for You one and for Moses one and for Elijah one;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.4|<< Mark 9:4]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.6|Mark 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ·]]  [[G4461\|ῥαββί,]]  [[G2570G\|καλόν]]  [[G1510\|ἐστιν]]  [[G3165\|ἡμᾶς]]  [[G5602\|ὧδε]]  [[G1511\|εἶναι,]]  [[G2532\|καὶ]]  [[G4160G\|ποιήσωμεν]]  [[G5140\|τρεῖς]]  [[G4633\|σκηνάς,]]  [[G4771\|σοὶ]]  [[G1520\|μίαν]]  [[G2532\|καὶ]]  [[G3475\|Μωϋσεῖ]]  [[G1520\|μίαν]]  [[G2532\|καὶ]]  [[G2243\|Ἠλίᾳ]]  [[G1520\|μίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic RABBI|RABBI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.4|<< Mark 9:4]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.6|Mark 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

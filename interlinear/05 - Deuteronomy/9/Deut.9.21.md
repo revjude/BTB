@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 9:21
+type: Verse
+kjv: "And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount."
+bsb: "And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain."
+hebrew: "וְֽאֶת־ חַטַּאתְכֶ֞ם אֲשֶׁר־ עֲשִׂיתֶ֣ם אֶת־ הָעֵ֗גֶל לָקַחְתִּי֮ וָאֶשְׂרֹ֣ף אֹת֣וֹ׀ בָּאֵשׁ֒ וָאֶכֹּ֨ת אֹת֤וֹ טָחוֹן֙ הֵיטֵ֔ב עַ֥ד אֲשֶׁר־ דַּ֖ק לְעָפָ֑ר וָֽאַשְׁלִךְ֙ אֶת־ עֲפָר֔וֹ אֶל־ הַנַּ֖חַל הַיֹּרֵ֥ד מִן־ הָהָֽר׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H5695]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3807]]"
+- "[[H2912]]"
+- "[[H3190]]"
+- "[[H5704]]"
+- "[[H1854]]"
+- "[[H9005]]"
+- "[[H6083]]"
+- "[[H7993]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H5158A]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:21**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, [and] ground [it] very small, [even] until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.
 <small><sub>**BSB:**</sub></small>
 And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H2403B\|חַטַּאתְ]][[H9026\|כֶ֞ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עֲשִׂיתֶ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5695\|עֵ֗גֶל]] [[H3947G\|לָקַחְתִּי֮]] [[H9001\|וָ]][[H8313\|אֶשְׂרֹ֣ף]] [[H0853\|אֹת֣]][[H9033\|וֹ]][[H9015\|׀]] [[H9003\|בָּ]][[H0784\|אֵשׁ֒]] [[H9001\|וָ]][[H3807\|אֶכֹּ֨ת]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H2912\|טָחוֹן֙]] [[H3190\|הֵיטֵ֔ב]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1854\|דַּ֖ק]] [[H9005\|לְ]][[H6083\|עָפָ֑ר]] [[H9001\|וָֽ]][[H7993\|אַשְׁלִךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפָר֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5158A\|נַּ֖חַל]] [[H9009\|הַ]][[H3381\|יֹּרֵ֥ד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.20|<< Deuteronomy 9:20]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.22|Deuteronomy 9:22 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Genesis 35:15
+type: Verse
+kjv: "And Jacob called the name of the place where God spake with him, Bethel."
+bsb: "Jacob called the place where God had spoken with him Bethel."
+hebrew: "וַיִּקְרָ֨א יַעֲקֹ֜ב אֶת־ שֵׁ֣ם הַמָּק֗וֹם אֲשֶׁר֩ דִּבֶּ֨ר אִתּ֥וֹ שָׁ֛ם אֱלֹהִ֖ים בֵּֽית־ אֵֽל׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H0430G]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:15**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob called the name of the place where God spake with him, Bethel.
 <small><sub>**BSB:**</sub></small>
 Jacob called the place where God had spoken with him Bethel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֨א]] [[H3290\|יַעֲקֹ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H9009\|הַ]][[H4725\|מָּק֗וֹם]] [[H0834A\|אֲשֶׁר֩]] [[H1696G\|דִּבֶּ֨ר]] [[H0854\|אִתּ֥]][[H9033\|וֹ]] [[H8033G\|שָׁ֛ם]] [[H0430G\|אֱלֹהִ֖ים]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BLESSING|BLESSING]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.14|<< Genesis 35:14]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.16|Genesis 35:16 >>]]</td></tr></table>
 

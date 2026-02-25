@@ -1,10 +1,53 @@
+---
+title: Matthew 27:33
+type: Verse
+kjv: "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
+bsb: "And when they came to a place called Golgotha, which means The Place of the Skull,"
+greek: "Καὶ ἐλθόντες εἰς τόπον λεγόμενον Γολγοθᾶ, ὅ ἐστιν κρανίου τόπος λεγόμενος,"
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CALVARY|CALVARY]]"
+- "[[topic GOLGOTHA|GOLGOTHA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G3004H]]"
+- "[[G1115]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2898]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 27:33**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 <small><sub>**BSB:**</sub></small>
 And when they came to a place called Golgotha, which means The Place of the Skull,
-<small><sub>**Literal:**</sub></small>
-And having come to a place being named Golgotha, which is of a Skull Place being named,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.32|<< Matthew 27:32]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.34|Matthew 27:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἐλθόντες]]  [[G1519\|εἰς]]  [[G5117\|τόπον]]  [[G3004H\|λεγόμενον]]  [[G1115\|Γολγοθᾶ,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G2898\|κρανίου]]  [[G5117\|τόπος]]  [[G3004H\|λεγόμενος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALVARY|CALVARY]] • [[topic GOLGOTHA|GOLGOTHA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.32|<< Matthew 27:32]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.34|Matthew 27:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

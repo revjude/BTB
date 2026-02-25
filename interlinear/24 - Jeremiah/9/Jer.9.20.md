@@ -1,8 +1,63 @@
+---
+title: Jeremiah 9:20
+type: Verse
+kjv: "Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation."
+bsb: "Now, O women, hear the word of the LORD. Open your ears to the word of His mouth. Teach your daughters to wail, and one another to lament."
+hebrew: "כִּֽי־ שְׁמַ֤עְנָה נָשִׁים֙ דְּבַר־ יְהוָ֔ה וְתִקַּ֥ח אָזְנְכֶ֖ם דְּבַר־ פִּ֑יו וְלַמֵּ֤דְנָה בְנֽוֹתֵיכֶם֙ נֶ֔הִי וְאִשָּׁ֥ה רְעוּתָ֖הּ קִינָֽה׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0802G]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3947H]]"
+- "[[H0241G]]"
+- "[[H9026]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H3925G]]"
+- "[[H1323G]]"
+- "[[H5092]]"
+- "[[H0802I]]"
+- "[[H7468]]"
+- "[[H9024]]"
+- "[[H7015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:20**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.
 <small><sub>**BSB:**</sub></small>
 Now, O women, hear the word of the LORD. Open your ears to the word of His mouth. Teach your daughters to wail, and one another to lament.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שְׁמַ֤עְנָה]] [[H0802G\|נָשִׁים֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3947H\|תִקַּ֥ח]] [[H0241G\|אָזְנְ]][[H9026\|כֶ֖ם]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H6310G\|פִּ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3925G\|לַמֵּ֤דְנָה]] [[H1323G\|בְנֽוֹתֵי]][[H9026\|כֶם֙]] [[H5092\|נֶ֔הִי]] [[H9002\|וְ]][[H0802I\|אִשָּׁ֥ה]] [[H7468\|רְעוּתָ֖]][[H9024\|הּ]] [[H7015\|קִינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.19|<< Jeremiah 9:19]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.21|Jeremiah 9:21 >>]]</td></tr></table>
 

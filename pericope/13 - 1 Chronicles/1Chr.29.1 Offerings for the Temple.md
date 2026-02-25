@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings for the Temple
+type: Pericope
 pericope: "[[1Chr.29.1 Offerings for the Temple|Offerings for the Temple]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 29
 book/chapter: "[[1Chr.29|1 Chronicles 29]]"
-genre:
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 9
 verses:
 - "[[1Chr.29.1]]"
 - "[[1Chr.29.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Chr.29.9]]"
 ---
 
-[[1Chr.29|1 Chronicles 29:1 - 1 Chronicles 29:9]]
+<small>[[1Chr.29|1 Chronicles 29:1-9]]</small>
 *Offerings for the Temple*
 
 [[1Chr.29.1|1]] Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, \[is yet\] young and tender, and the work \[is\] great: for the palace \[is\] not for man, but for the LORD God.

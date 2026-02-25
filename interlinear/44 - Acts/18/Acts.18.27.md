@@ -1,10 +1,62 @@
+---
+title: Acts 18:27
+type: Verse
+kjv: "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:"
+bsb: "When Apollos resolved to cross over to Achaia, the brothers encouraged him and wrote to the disciples there to welcome him. On his arrival, he was a great help to those who by grace had believed."
+greek: "βουλομένου δὲ αὐτοῦ διελθεῖν εἰς τὴν Ἀχαΐαν, προτρεψάμενοι οἱ ἀδελφοὶ ἔγραψαν τοῖς μαθηταῖς ἀποδέξασθαι αὐτόν· ὃς παραγενόμενος συνεβάλετο πολὺ τοῖς πεπιστευκόσιν διὰ τῆς χάριτος·"
+pericope: "[[Acts.18.23 Paul’s Third Missionary Journey Begins|Paul’s Third Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1014]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1330]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0882]]"
+- "[[G4389]]"
+- "[[G0080]]"
+- "[[G1125]]"
+- "[[G3101]]"
+- "[[G0588]]"
+- "[[G3739]]"
+- "[[G3854]]"
+- "[[G4820]]"
+- "[[G4183]]"
+- "[[G4100]]"
+- "[[G1223]]"
+- "[[G5485]]"
+texts:
+- NKO
+---
+
 **Acts 18:27**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:
 <small><sub>**BSB:**</sub></small>
 When Apollos resolved to cross over to Achaia, the brothers encouraged him and wrote to the disciples there to welcome him. On his arrival, he was a great help to those who by grace had believed.
-<small><sub>**Literal:**</sub></small>
-When is resolving then he to pass through into <the> Achaia, having encouraged [him] the brothers wrote to the disciples to welcome him; who having arrived he helped greatly those having believed through <the> grace;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.26|<< Acts 18:26]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.28|Acts 18:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1014\|βουλομένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G1330\|διελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0882\|Ἀχαΐαν,]]  [[G4389\|προτρεψάμενοι]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G1125\|ἔγραψαν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0588\|ἀποδέξασθαι]]  [[G0846\|αὐτόν·]]  [[G3739\|ὃς]]  [[G3854\|παραγενόμενος]]  [[G4820\|συνεβάλετο]]  [[G4183\|πολὺ]]  [[G3588\|τοῖς]]  [[G4100\|πεπιστευκόσιν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5485\|χάριτος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic EPHESUS|EPHESUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ORATOR|ORATOR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.26|<< Acts 18:26]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.28|Acts 18:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

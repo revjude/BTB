@@ -1,8 +1,76 @@
+---
+title: Jeremiah 28:14
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; I have put a yoke of iron upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the beasts of the field also."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: ‘I have put a yoke of iron on the neck of all these nations to make them serve Nebuchadnezzar king of Babylon, and they will serve him. I have even given him control of the beasts of the field.’”"
+hebrew: "כִּ֣י כֹֽה־ אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל עֹ֣ל בַּרְזֶ֡ל נָתַ֜תִּי עַל־ צַוַּ֣אר׀ כָּל־ הַגּוֹיִ֣ם הָאֵ֗לֶּה לַעֲבֹ֛ד אֶת־ נְבֻכַדְנֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל וַעֲבָדֻ֑הוּ וְגַ֛ם אֶת־ חַיַּ֥ת הַשָּׂדֶ֖ה נָתַ֥תִּי לֽוֹ׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic IRON|IRON]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5923]]"
+- "[[H1270]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:14**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; I have put a yoke of iron upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the beasts of the field also.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: ‘I have put a yoke of iron on the neck of all these nations to make them serve Nebuchadnezzar king of Babylon, and they will serve him. I have even given him control of the beasts of the field.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5923\|עֹ֣ל]] [[H1270\|בַּרְזֶ֡ל]] [[H5414H\|נָתַ֜תִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוַּ֣אר]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9005\|לַ]][[H5647G\|עֲבֹ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5019\|נְבֻכַדְנֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9001\|וַ]][[H5647G\|עֲבָדֻ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H1571\|גַ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic IRON|IRON]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.13|<< Jeremiah 28:13]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.15|Jeremiah 28:15 >>]]</td></tr></table>
 

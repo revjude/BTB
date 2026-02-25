@@ -1,8 +1,63 @@
+---
+title: Ezra 6:18
+type: Verse
+kjv: "And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses."
+bsb: "They also appointed the priests by their divisions and the Levites by their groups to the service of God in Jerusalem, according to what is written in the Book of Moses."
+aramaic: "וַהֲקִ֨ימוּ כָהֲנַיָּ֜א בִּפְלֻגָּתְה֗וֹן וְלֵוָיֵא֙ בְּמַחְלְקָ֣תְה֔וֹן עַל־ עֲבִידַ֥ת אֱלָהָ֖א דִּ֣י בִירוּשְׁלֶ֑ם כִּכְתָ֖ב סְפַ֥ר מֹשֶֽׁה׃ פ"
+pericope: "[[Ezra.6.16 Dedication of the Temple|Dedication of the Temple]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6966I]]"
+- "[[H3549]]"
+- "[[H9010]]"
+- "[[H9003]]"
+- "[[H6392]]"
+- "[[H9028]]"
+- "[[H3879]]"
+- "[[H4255]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H5673]]"
+- "[[H0426]]"
+- "[[H1768]]"
+- "[[H3390]]"
+- "[[H9004]]"
+- "[[H3792]]"
+- "[[H5609]]"
+- "[[H4873]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 6:18**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set the priests in their divisions, and the Levites in their courses, for the service of God, which [is] at Jerusalem; as it is written in the book of Moses.
 <small><sub>**BSB:**</sub></small>
 They also appointed the priests by their divisions and the Levites by their groups to the service of God in Jerusalem, according to what is written in the Book of Moses.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וַ]][[H6966I\|הֲקִ֨ימוּ]] [[H3549\|כָהֲנַיָּ֜]][[H9010\|א]] [[H9003\|בִּ]][[H6392\|פְלֻגָּתְ]][[H9028\|ה֗וֹן]] [[H9002\|וְ]][[H3879\|לֵוָיֵ]][[H9010\|א֙]] [[H9003\|בְּ]][[H4255\|מַחְלְקָ֣תְ]][[H9028\|ה֔וֹן]] [[H5922\|עַל]][[H9014\|־]] [[H5673\|עֲבִידַ֥ת]] [[H0426\|אֱלָהָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H9003\|בִ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9004\|כִּ]][[H3792\|כְתָ֖ב]] [[H5609\|סְפַ֥ר]] [[H4873\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
@@ -20,7 +75,7 @@ They also appointed the priests by their divisions and the Levites by their grou
 | [is] in Jerusalem  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3390\|ירוּשְׁלֶ֑ם]]&#8207; </big>**| vi.<small><sup>[[AR]]</sup></small> ru.she.Lem<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] writing of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H3792\|כְתָ֖ב]]&#8207; </big>**| ki<small><sup>[[AR]]</sup></small> kh.Tav<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] book of  |**<big>&#8207;[[H5609\|סְפַ֥ר]]&#8207; </big>**| se.Far<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4873\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4873\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
 

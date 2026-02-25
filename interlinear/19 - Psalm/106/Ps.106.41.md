@@ -1,8 +1,54 @@
+---
+title: Psalm 106:41
+type: Verse
+kjv: "And he gave them into the hand of the heathen; and they that hated them ruled over them."
+bsb: "He delivered them into the hand of the nations, and those who hated them ruled over them."
+hebrew: "וַיִּתְּנֵ֥ם בְּיַד־ גּוֹיִ֑ם וַֽיִּמְשְׁל֥וּ בָ֝הֶ֗ם שֹׂנְאֵיהֶֽם׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H4910]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:41**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gave them into the hand of the heathen; and they that hated them ruled over them.
 <small><sub>**BSB:**</sub></small>
 He delivered them into the hand of the nations, and those who hated them ruled over them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנֵ֥]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H1471A\|גּוֹיִ֑ם]] [[H9001\|וַֽ]][[H4910\|יִּמְשְׁל֥וּ]] [[H9003\|בָ֝]][[H9038\|הֶ֗ם]] [[H8130\|שֹׂנְאֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.40|<< Psalms 106:40]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.42|Psalms 106:42 >>]]</td></tr></table>
 

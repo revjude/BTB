@@ -1,8 +1,64 @@
+---
+title: Ezekiel 16:3
+type: Verse
+kjv: "And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite."
+bsb: "and tell her that this is what the Lord GOD says to Jerusalem: Your origin and your birth were in the land of the Canaanites. Your father was an Amorite and your mother a Hittite."
+hebrew: "וְאָמַרְתָּ֞ כֹּה־ אָמַ֨ר אֲדֹנָ֤י יְהוִה֙ לִיר֣וּשָׁלִַ֔ם מְכֹרֹתַ֙יִךְ֙ וּמֹ֣לְדֹתַ֔יִךְ מֵאֶ֖רֶץ הַֽכְּנַעֲנִ֑י אָבִ֥יךְ הָאֱמֹרִ֖י וְאִמֵּ֥ךְ חִתִּֽית׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H4351]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H0001G]]"
+- "[[H0567]]"
+- "[[H0517]]"
+- "[[H2850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:3**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity [is] of the land of Canaan; thy father [was] an Amorite, and thy mother an Hittite.
 <small><sub>**BSB:**</sub></small>
 and tell her that this is what the Lord GOD says to Jerusalem: Your origin and your birth were in the land of the Canaanites. Your father was an Amorite and your mother a Hittite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֞]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H9005\|לִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H4351\|מְכֹרֹתַ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וּ]][[H4138\|מֹ֣לְדֹתַ֔יִ]][[H9022\|ךְ]] [[H9006\|מֵ]][[H0776G\|אֶ֖רֶץ]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֑י]] [[H0001G\|אָבִ֥י]][[H9022\|ךְ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9002\|וְ]][[H0517\|אִמֵּ֥]][[H9022\|ךְ]] [[H2850\|חִתִּֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.2|<< Ezekiel 16:2]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.4|Ezekiel 16:4 >>]]</td></tr></table>
 

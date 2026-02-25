@@ -1,8 +1,57 @@
+---
+title: Numbers 1:33
+type: Verse
+kjv: "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred."
+bsb: "those registered to the tribe of Ephraim numbered 40,500."
+hebrew: "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה אֶפְרָ֑יִם אַרְבָּעִ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃ פ"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H0669G]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 1:33**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that were numbered of them, [even] of the tribe of Ephraim, [were] forty thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 those registered to the tribe of Ephraim numbered 40,500.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485A\|פְּקֻדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H0669G\|אֶפְרָ֑יִם]] [[H0705\|אַרְבָּעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.32|<< Numbers 1:32]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.34|Numbers 1:34 >>]]</td></tr></table>
 
@@ -14,7 +63,7 @@ those registered to the tribe of Ephraim numbered 40,500.
 | [were] forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.32|<< Numbers 1:32]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.34|Numbers 1:34 >>]]</td></tr></table>
 
 

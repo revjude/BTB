@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 6:9
+type: Verse
+kjv: "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit."
+bsb: "Better what the eye can see than the wandering of desire. This too is futile and a pursuit of the wind."
+hebrew: "ט֛וֹב מַרְאֵ֥ה עֵינַ֖יִם מֵֽהֲלָךְ־ נָ֑פֶשׁ גַּם־ זֶ֥ה הֶ֖בֶל וּרְע֥וּת רֽוּחַ׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+strongs:
+- "[[H2896A]]"
+- "[[H4758]]"
+- "[[H5869A]]"
+- "[[H9006]]"
+- "[[H1980I]]"
+- "[[H9014]]"
+- "[[H5315L]]"
+- "[[H1571]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9002]]"
+- "[[H7469]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:9**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the sight of the eyes than the wandering of the desire: this [is] also vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
 Better what the eye can see than the wandering of desire. This too is futile and a pursuit of the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֛וֹב]] [[H4758\|מַרְאֵ֥ה]] [[H5869A\|עֵינַ֖יִם]] [[H9006\|מֵֽ]][[H1980I\|הֲלָךְ]][[H9014\|־]] [[H5315L\|נָ֑פֶשׁ]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֖בֶל]] [[H9002\|וּ]][[H7469\|רְע֥וּת]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.8|<< Ecclesiastes 6:8]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.10|Ecclesiastes 6:10 >>]]</td></tr></table>
 

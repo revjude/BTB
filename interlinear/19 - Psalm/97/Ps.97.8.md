@@ -1,8 +1,56 @@
+---
+title: Psalm 97:8
+type: Verse
+kjv: "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD."
+bsb: "Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD."
+hebrew: "שָׁמְעָ֬ה וַתִּשְׂמַ֨ח׀ צִיּ֗וֹן וַ֭תָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהוָֽה׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H9015]]"
+- "[[H6726]]"
+- "[[H1523]]"
+- "[[H1323G]]"
+- "[[H3063G]]"
+- "[[H4616]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:8**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.
 <small><sub>**BSB:**</sub></small>
 Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמְעָ֬ה]] [[H9001\|וַ]][[H8055\|תִּשְׂמַ֨ח]][[H9015\|׀]] [[H6726\|צִיּ֗וֹן]] [[H9001\|וַ֭]][[H1523\|תָּגֵלְנָה]] [[H1323G\|בְּנ֣וֹת]] [[H3063G\|יְהוּדָ֑ה]] [[H4616\|לְמַ֖עַן]] [[H4941G\|מִשְׁפָּטֶ֣י]][[H9021\|ךָ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.7|<< Psalms 97:7]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.9|Psalms 97:9 >>]]</td></tr></table>
 

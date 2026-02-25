@@ -1,8 +1,69 @@
+---
+title: Leviticus 4:24
+type: Verse
+kjv: "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it is a sin offering."
+bsb: "He is to lay his hand on the head of the goat and slaughter it at the place where the burnt offering is slaughtered before the LORD. It is a sin offering."
+hebrew: "וְסָמַ֤ךְ יָדוֹ֙ עַל־ רֹ֣אשׁ הַשָּׂעִ֔יר וְשָׁחַ֣ט אֹת֔וֹ בִּמְק֛וֹם אֲשֶׁר־ יִשְׁחַ֥ט אֶת־ הָעֹלָ֖ה לִפְנֵ֣י יְהוָ֑ה חַטָּ֖את הֽוּא׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9009]]"
+- "[[H8163B]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H2403H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:24**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it [is] a sin offering.
 <small><sub>**BSB:**</sub></small>
 He is to lay his hand on the head of the goat and slaughter it at the place where the burnt offering is slaughtered before the LORD. It is a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5564\|סָמַ֤ךְ]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֔יר]] [[H9001\|וְ]][[H7819A\|שָׁחַ֣ט]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9003\|בִּ]][[H4725\|מְק֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7819A\|יִשְׁחַ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H2403H\|חַטָּ֖את]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic HAND|HAND]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.23|<< Leviticus 4:23]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.25|Leviticus 4:25 >>]]</td></tr></table>
 

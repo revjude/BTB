@@ -1,10 +1,56 @@
+---
+title: Acts 8:28
+type: Verse
+kjv: "Was returning, and sitting in his chariot read Esaias the prophet."
+bsb: "and on his return was sitting in his chariot reading Isaiah the prophet."
+greek: "ἦν τε ὑποστρέφων καὶ καθήμενος ἐπὶ τοῦ ἅρματος αὐτοῦ καὶ ἀνεγίνωσκεν τὸν προφήτην Ἠσαΐαν."
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G1510]]"
+- "[[G5037]]"
+- "[[G5290]]"
+- "[[G2532]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0716]]"
+- "[[G0846]]"
+- "[[G0314]]"
+- "[[G4396]]"
+- "[[G2268]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 8:28**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Was returning, and sitting in his chariot read Esaias the prophet.
 <small><sub>**BSB:**</sub></small>
 and on his return was sitting in his chariot reading Isaiah the prophet.
-<small><sub>**Literal:**</sub></small>
-he was then returning and sitting in the chariot of him and he was reading the prophet Isaiah.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.27|<< Acts 8:27]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.29|Acts 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G5037\|τε]]  [[G5290\|ὑποστρέφων]]  [[G2532\|καὶ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0716\|ἅρματος]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0314\|ἀνεγίνωσκεν]]  [[G3588\|τὸν]]  [[G4396\|προφήτην]]  [[G2268\|Ἠσαΐαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic EUNUCH|EUNUCH]] • [[topic GAZA|GAZA]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.27|<< Acts 8:27]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.29|Acts 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

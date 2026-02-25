@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 29:9
+type: Verse
+kjv: "For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this."
+bsb: "For behold, this is why our fathers have fallen by the sword, and our sons and daughters and wives are in captivity."
+hebrew: "וְהִנֵּ֛ה נָפְל֥וּ אֲבוֹתֵ֖ינוּ בֶּחָ֑רֶב וּבָנֵ֨ינוּ וּבְנוֹתֵ֧ינוּ וְנָשֵׁ֛ינוּ בַּשְּׁבִ֖י עַל־ זֹֽאת׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5307G]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H0802H]]"
+- "[[H7628A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:9**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives [are] in captivity for this.
 <small><sub>**BSB:**</sub></small>
 For behold, this is why our fathers have fallen by the sword, and our sons and daughters and wives are in captivity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H5307G\|נָפְל֥וּ]] [[H0001G\|אֲבוֹתֵ֖י]][[H9025\|נוּ]] [[H9003\|בֶּ]][[H2719\|חָ֑רֶב]] [[H9002\|וּ]][[H1121A\|בָנֵ֨י]][[H9025\|נוּ]] [[H9002\|וּ]][[H1323G\|בְנוֹתֵ֧י]][[H9025\|נוּ]] [[H9002\|וְ]][[H0802H\|נָשֵׁ֛י]][[H9025\|נוּ]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.8|<< 2 Chronicles 29:8]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.10|2 Chronicles 29:10 >>]]</td></tr></table>
 

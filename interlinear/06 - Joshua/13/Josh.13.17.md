@@ -1,8 +1,61 @@
+---
+title: Joshua 13:17
+type: Verse
+kjv: "Heshbon, and all her cities that are in the plain; Dibon, and Bamothbaal, and Bethbaalmeon,"
+bsb: "to Heshbon and all its cities on the plateau, including Dibon, Bamoth-baal, Beth-baal-meon,"
+hebrew: "חֶשְׁבּ֥וֹן וְכָל־ עָרֶ֖יהָ אֲשֶׁ֣ר בַּמִּישֹׁ֑ר דִּיבוֹן֙ וּבָמ֣וֹת בַּ֔עַל וּבֵ֖ית בַּ֥עַל מְעֽוֹן׃"
+pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BAAL-MEON|BAAL-MEON]]"
+- "[[topic BAMOTH|BAMOTH]]"
+- "[[topic BETH-BAAL-MEON|BETH-BAAL-MEON]]"
+- "[[topic DIBON|DIBON]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H2809]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4334]]"
+- "[[H1769G]]"
+- "[[H1120H]]"
+- "[[H1168I]]"
+- "[[H1004L]]"
+- "[[H1186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:17**<big><big>[[Josh.13.15 Reuben’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Heshbon, and all her cities that [are] in the plain; Dibon, and Bamothbaal, and Bethbaalmeon,
 <small><sub>**BSB:**</sub></small>
 to Heshbon and all its cities on the plateau, including Dibon, Bamoth-baal, Beth-baal-meon,
+<small><sub>**Hebrew:**</sub></small>
+[[H2809\|חֶשְׁבּ֥וֹן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֶ֖י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H4334\|מִּישֹׁ֑ר]] [[H1769G\|דִּיבוֹן֙]] [[H9002\|וּ]][[H1120H\|בָמ֣וֹת]] [[H1168I\|בַּ֔עַל]] [[H9002\|וּ]][[H1004L\|בֵ֖ית]] [[H1186\|בַּ֥עַל]] [[H1186\|מְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic BAAL-MEON|BAAL-MEON]] • [[topic BAMOTH|BAMOTH]] • [[topic BETH-BAAL-MEON|BETH-BAAL-MEON]] • [[topic DIBON|DIBON]] • [[topic REUBENITES|REUBENITES]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.16|<< Joshua 13:16]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.18|Joshua 13:18 >>]]</td></tr></table>
 

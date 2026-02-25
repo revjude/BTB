@@ -1,8 +1,70 @@
+---
+title: Nehemiah 2:20
+type: Verse
+kjv: "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem."
+bsb: "So I answered them and said, “The God of heaven is the One who will grant us success. We, His servants, will start rebuilding, but you have no portion, right, or claim in Jerusalem.”"
+hebrew: "וָאָשִׁ֨יב אוֹתָ֜ם דָּבָ֗ר וָאוֹמַ֤ר לָהֶם֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם ה֚וּא יַצְלִ֣יחַֽ לָ֔נוּ וַאֲנַ֥חְנוּ עֲבָדָ֖יו נָק֣וּם וּבָנִ֑ינוּ וְלָכֶ֗ם אֵֽין־ חֵ֧לֶק וּצְדָקָ֛ה וְזִכָּר֖וֹן בִּירוּשָׁלִָֽם׃"
+pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725M]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1697G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1931]]"
+- "[[H6743B]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H1129]]"
+- "[[H9036]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H2506A]]"
+- "[[H6666]]"
+- "[[H2146]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:20**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So I answered them and said, “The God of heaven is the One who will grant us success. We, His servants, will start rebuilding, but you have no portion, right, or claim in Jerusalem.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7725M\|אָשִׁ֨יב]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H1697G\|דָּבָ֗ר]] [[H9001\|וָ]][[H0559\|אוֹמַ֤ר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H1931\|ה֚וּא]] [[H6743B\|יַצְלִ֣יחַֽ]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9002\|וַ]][[H0587\|אֲנַ֥חְנוּ]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H6965B\|נָק֣וּם]] [[H9001\|וּ]][[H1129\|בָנִ֑ינוּ]] [[H9002\|וְ]][[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2506A\|חֵ֧לֶק]] [[H9002\|וּ]][[H6666\|צְדָקָ֛ה]] [[H9002\|וְ]][[H2146\|זִכָּר֖וֹן]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.19|<< Nehemiah 2:19]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.1|Nehemiah 3:1 >>]]</td></tr></table>
 

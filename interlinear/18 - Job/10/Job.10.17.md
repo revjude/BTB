@@ -1,8 +1,56 @@
+---
+title: Job 10:17
+type: Verse
+kjv: "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me."
+bsb: "You produce new witnesses against me and multiply Your anger toward me. Hardships assault me in wave after wave."
+hebrew: "תְּחַדֵּ֬שׁ עֵדֶ֨יךָ׀ נֶגְדִּ֗י וְתֶ֣רֶב כַּֽ֭עַשְׂךָ עִמָּדִ֑י חֲלִיפ֖וֹת וְצָבָ֣א עִמִּֽי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H2318]]"
+- "[[H5707]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H3708B]]"
+- "[[H5978]]"
+- "[[H2487]]"
+- "[[H6635A]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:17**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war [are] against me.
 <small><sub>**BSB:**</sub></small>
 You produce new witnesses against me and multiply Your anger toward me. Hardships assault me in wave after wave.
+<small><sub>**Hebrew:**</sub></small>
+[[H2318\|תְּחַדֵּ֬שׁ]] [[H5707\|עֵדֶ֨י]][[H9021\|ךָ]][[H9015\|׀]] [[H5048\|נֶגְדִּ֗]][[H9030\|י]] [[H9002\|וְ]][[H7235A\|תֶ֣רֶב]] [[H3708B\|כַּֽ֭עַשְׂ]][[H9021\|ךָ]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H2487\|חֲלִיפ֖וֹת]] [[H9002\|וְ]][[H6635A\|צָבָ֣א]] [[H5973A\|עִמִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.16|<< Job 10:16]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.18|Job 10:18 >>]]</td></tr></table>
 

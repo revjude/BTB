@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:61
+type: Verse
+kjv: "Thou hast heard their reproach, O LORD, and all their imaginations against me;"
+bsb: "O LORD, You have heard their insults, all their plots against me—"
+hebrew: "שָׁמַ֤עְתָּ חֶרְפָּתָם֙ יְהוָ֔ה כָּל־ מַחְשְׁבֹתָ֖ם עָלָֽי׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H8085G]]"
+- "[[H2781]]"
+- "[[H9028]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4284]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:61**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast heard their reproach, O LORD, [and] all their imaginations against me;
 <small><sub>**BSB:**</sub></small>
 O LORD, You have heard their insults, all their plots against me—
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֤עְתָּ]] [[H2781\|חֶרְפָּתָ]][[H9028\|ם֙]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H4284\|מַחְשְׁבֹתָ֖]][[H9028\|ם]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.60|<< Lamentations 3:60]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.62|Lamentations 3:62 >>]]</td></tr></table>
 

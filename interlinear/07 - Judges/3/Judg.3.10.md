@@ -1,8 +1,68 @@
+---
+title: Judges 3:10
+type: Verse
+kjv: "And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim."
+bsb: "The Spirit of the LORD came upon him, and he became Israel’s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him."
+hebrew: "וַתְּהִ֨י עָלָ֥יו רֽוּחַ־ יְהוָה֮ וַיִּשְׁפֹּ֣ט אֶת־ יִשְׂרָאֵל֒ וַיֵּצֵא֙ לַמִּלְחָמָ֔ה וַיִּתֵּ֤ן יְהוָה֙ בְּיָד֔וֹ אֶת־ כּוּשַׁ֥ן רִשְׁעָתַ֖יִם מֶ֣לֶךְ אֲרָ֑ם וַתָּ֣עָז יָד֔וֹ עַ֖ל כּוּשַׁ֥ן רִשְׁעָתָֽיִם׃"
+pericope: "[[Judg.3.7 Othniel|Othniel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHUSHAN-RISHATHAIM|CHUSHAN-RISHATHAIM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MESOPOTAMIA|MESOPOTAMIA]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7307G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H3573]]"
+- "[[H4428G]]"
+- "[[H0758N]]"
+- "[[H5810]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:10**<big><big>[[Judg.3.7 Othniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
 <small><sub>**BSB:**</sub></small>
 The Spirit of the LORD came upon him, and he became Israel’s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H7307G\|רֽוּחַ]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֣ט]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3573\|כּוּשַׁ֥ן]] [[H3573\|רִשְׁעָתַ֖יִם]] [[H4428G\|מֶ֣לֶךְ]] [[H0758N\|אֲרָ֑ם]] [[H9001\|וַ]][[H5810\|תָּ֣עָז]] [[H3027H\|יָד֔]][[H9023\|וֹ]] [[H5921A\|עַ֖ל]] [[H3573\|כּוּשַׁ֥ן]] [[H3573\|רִשְׁעָתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHUSHAN-RISHATHAIM|CHUSHAN-RISHATHAIM]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic MESOPOTAMIA|MESOPOTAMIA]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.9|<< Judges 3:9]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.11|Judges 3:11 >>]]</td></tr></table>
 

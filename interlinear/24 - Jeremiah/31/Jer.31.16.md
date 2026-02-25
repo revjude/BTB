@@ -1,8 +1,62 @@
+---
+title: Jeremiah 31:16
+type: Verse
+kjv: "Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy."
+bsb: "This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה מִנְעִ֤י קוֹלֵךְ֙ מִבֶּ֔כִי וְעֵינַ֖יִךְ מִדִּמְעָ֑ה כִּי֩ יֵ֨שׁ שָׂכָ֤ר לִפְעֻלָּתֵךְ֙ נְאֻם־ יְהוָ֔ה וְשָׁ֖בוּ מֵאֶ֥רֶץ אוֹיֵֽב׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H4513]]"
+- "[[H6963A]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H1065]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H1832]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H7939]]"
+- "[[H9005]]"
+- "[[H6468]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:16**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Keep your voice from weeping and your eyes from tears, for the reward for your work will come, declares the LORD. Then your children will return from the land of the enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H4513\|מִנְעִ֤י]] [[H6963A\|קוֹלֵ]][[H9022\|ךְ֙]] [[H9006\|מִ]][[H1065\|בֶּ֔כִי]] [[H9002\|וְ]][[H5869A\|עֵינַ֖יִ]][[H9022\|ךְ]] [[H9006\|מִ]][[H1832\|דִּמְעָ֑ה]] [[H3588A\|כִּי֩]] [[H3426\|יֵ֨שׁ]] [[H7939\|שָׂכָ֤ר]] [[H9005\|לִ]][[H6468\|פְעֻלָּתֵ]][[H9022\|ךְ֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H7725G\|שָׁ֖בוּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.15|<< Jeremiah 31:15]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.17|Jeremiah 31:17 >>]]</td></tr></table>
 

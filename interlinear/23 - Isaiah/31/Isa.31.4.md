@@ -1,8 +1,83 @@
+---
+title: Isaiah 31:4
+type: Verse
+kjv: "For thus hath the LORD spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, he will not be afraid of their voice, nor abase himself for the noise of them: so shall the LORD of hosts come down to fight for mount Zion, and for the hill thereof."
+bsb: "For this is what the LORD has said to me: “Like a lion roaring or a young lion over its prey—and though a band of shepherds is called out against it, it is not terrified by their shouting or subdued by their clamor—so the LORD of Hosts will come down to do battle on Mount Zion and its heights."
+hebrew: "כִּ֣י כֹ֣ה אָֽמַר־ יְהוָ֣ה׀ אֵלַ֡י כַּאֲשֶׁ֣ר יֶהְגֶּה֩ הָאַרְיֵ֨ה וְהַכְּפִ֜יר עַל־ טַרְפּ֗וֹ אֲשֶׁ֨ר יִקָּרֵ֤א עָלָיו֙ מְלֹ֣א רֹעִ֔ים מִקּוֹלָם֙ לֹ֣א יֵחָ֔ת וּמֵֽהֲמוֹנָ֖ם לֹ֣א יַֽעֲנֶ֑ה כֵּ֗ן יֵרֵד֙ יְהוָ֣ה צְבָא֔וֹת לִצְבֹּ֥א עַל־ הַר־ צִיּ֖וֹן וְעַל־ גִּבְעָתָֽהּ׃"
+pericope: "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 31
+book/chapter: "[[Isa.31|Isaiah 31]]"
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1897]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H9002]]"
+- "[[H3715A]]"
+- "[[H5921A]]"
+- "[[H2964]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H7121G]]"
+- "[[H9033]]"
+- "[[H4393]]"
+- "[[H7462B]]"
+- "[[H9006]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H2865]]"
+- "[[H1995A]]"
+- "[[H6031B]]"
+- "[[H3651C]]"
+- "[[H3381]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H6633]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H1389I]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 31:4**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus hath the LORD spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, [he] will not be afraid of their voice, nor abase himself for the noise of them: so shall the LORD of hosts come down to fight for mount Zion, and for the hill thereof.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD has said to me: “Like a lion roaring or a young lion over its prey—and though a band of shepherds is called out against it, it is not terrified by their shouting or subdued by their clamor—so the LORD of Hosts will come down to do battle on Mount Zion and its heights.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0413\|אֵלַ֡]][[H9030\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1897\|יֶהְגֶּה֩]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֨ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3715A\|כְּפִ֜יר]] [[H5921A\|עַל]][[H9014\|־]] [[H2964\|טַרְפּ֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7121G\|יִקָּרֵ֤א]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H4393\|מְלֹ֣א]] [[H7462B\|רֹעִ֔ים]] [[H9006\|מִ]][[H6963A\|קּוֹלָ]][[H9028\|ם֙]] [[H3808\|לֹ֣א]] [[H2865\|יֵחָ֔ת]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H1995A\|הֲמוֹנָ֖]][[H9028\|ם]] [[H3808\|לֹ֣א]] [[H6031B\|יַֽעֲנֶ֑ה]] [[H3651C\|כֵּ֗ן]] [[H3381\|יֵרֵד֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9005\|לִ]][[H6633\|צְבֹּ֥א]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַר]][[H9014\|־]] [[H6726\|צִיּ֖וֹן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1389I\|גִּבְעָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.3|<< Isaiah 31:3]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.5|Isaiah 31:5 >>]]</td></tr></table>
 

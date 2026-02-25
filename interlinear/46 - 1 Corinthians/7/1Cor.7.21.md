@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 7:21
+type: Verse
+kjv: "Art thou called being a servant? care not for it: but if thou mayest be made free, use it rather."
+bsb: "Were you a slave when you were called? Do not let it concern you—but if you can gain your freedom, take the opportunity."
+greek: "δοῦλος ἐκλήθης; μή σοι μελέτω· ἀλλ᾽ εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι, μᾶλλον χρῆσαι."
+pericope: "[[1Cor.7.17 Live Your Calling|Live Your Calling]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G1401]]"
+- "[[G2564G]]"
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G3199]]"
+- "[[G0235]]"
+- "[[G1487M]]"
+- "[[G2532]]"
+- "[[G1410]]"
+- "[[G1658]]"
+- "[[G1096]]"
+- "[[G3123H]]"
+- "[[G5530]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:21**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Art thou called [being] a servant? care not for it: but if thou mayest be made free, use [it] rather.
 <small><sub>**BSB:**</sub></small>
 Were you a slave when you were called? Do not let it concern you—but if you can gain your freedom, take the opportunity.
-<small><sub>**Literal:**</sub></small>
-Slave [being] were you called? not you should it concern; but if even you are able free to become, rather do take advantage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.20|<< 1 Corinthians 7:20]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.22|1 Corinthians 7:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1401\|δοῦλος]]  [[G2564G\|ἐκλήθης;]]  [[G3361\|μή]]  [[G4771\|σοι]]  [[G3199\|μελέτω·]]  [[G0235\|ἀλλ᾽]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G1410\|δύνασαι]]  [[G1658\|ἐλεύθερος]]  [[G1096\|γενέσθαι,]]  [[G3123H\|μᾶλλον]]  [[G5530\|χρῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.20|<< 1 Corinthians 7:20]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.22|1 Corinthians 7:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

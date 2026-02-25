@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 8:12
+type: Verse
+kjv: "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"
+bsb: "Although a sinner does evil a hundred times and still lives long, yet I also know that it will go well with those who fear God, who are reverent in His presence."
+hebrew: "אֲשֶׁ֣ר חֹטֶ֗א עֹשֶׂ֥ה רָ֛ע מְאַ֖ת וּמַאֲרִ֣יךְ ל֑וֹ כִּ֚י גַּם־ יוֹדֵ֣עַ אָ֔נִי אֲשֶׁ֤ר יִהְיֶה־ טּוֹב֙ לְיִרְאֵ֣י הָאֱלֹהִ֔ים אֲשֶׁ֥ר יִֽירְא֖וּ מִלְּפָנָֽיו׃"
+pericope: "[[Eccl.8.10 Fear God|Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H6213A]]"
+- "[[H7451H]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H0748]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0589]]"
+- "[[H1961]]"
+- "[[H2896A]]"
+- "[[H3373]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3372H]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:12**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though a sinner do evil an hundred times, and his [days] be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
 <small><sub>**BSB:**</sub></small>
 Although a sinner does evil a hundred times and still lives long, yet I also know that it will go well with those who fear God, who are reverent in His presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חֹטֶ֗א]] [[H6213A\|עֹשֶׂ֥ה]] [[H7451H\|רָ֛ע]] [[H3967\|מְאַ֖ת]] [[H9002\|וּ]][[H0748\|מַאֲרִ֣יךְ]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3588A\|כִּ֚י]] [[H1571\|גַּם]][[H9014\|־]] [[H3045\|יוֹדֵ֣עַ]] [[H0589\|אָ֔נִי]] [[H0834A\|אֲשֶׁ֤ר]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H2896A\|טּוֹב֙]] [[H9005\|לְ]][[H3373\|יִרְאֵ֣י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3372H\|יִֽירְא֖וּ]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.11|<< Ecclesiastes 8:11]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.13|Ecclesiastes 8:13 >>]]</td></tr></table>
 

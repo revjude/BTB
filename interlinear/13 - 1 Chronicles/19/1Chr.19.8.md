@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 19:8
+type: Verse
+kjv: "And when David heard of it, he sent Joab, and all the host of the mighty men."
+bsb: "On hearing this, David sent Joab and the entire army of mighty men."
+hebrew: "וַיִּשְׁמַ֖ע דָּוִ֑יד וַיִּשְׁלַח֙ אֶת־ יוֹאָ֔ב וְאֵ֥ת כָּל־ צָבָ֖א הַגִּבּוֹרִֽים׃"
+pericope: "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H1732]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6635A]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:8**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David heard [of it], he sent Joab, and all the host of the mighty men.
 <small><sub>**BSB:**</sub></small>
 On hearing this, David sent Joab and the entire army of mighty men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֖ע]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H9002\|וְ]][[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H6635A\|צָבָ֖א]] [[H9009\|הַ]][[H1368\|גִּבּוֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.7|<< 1 Chronicles 19:7]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.9|1 Chronicles 19:9 >>]]</td></tr></table>
 

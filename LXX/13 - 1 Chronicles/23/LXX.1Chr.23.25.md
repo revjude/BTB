@@ -1,6 +1,53 @@
+---
+title: LXX 1 Chronicles 23:25
+type: Verse
+lxx: "For David said, The lord God of Israel rested  his people, and encamped in Jerusalem unto the eon."
+greek: "ότι είπε Δαυίδ κατέπαυσε κύριος ο θεός Ισραήλ τω λαώ αυτού και κατεσκήνωσεν εν Ιερουσαλήμ έως αιώνος"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[G3754]]"
+- "[[G2036]]"
+- "[[G4622]]"
+- "[[G2664]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2681]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2193]]"
+- "[[G0165]]"
+---
+
 **LXX 1 Chronicles 23:25** 
 <small><sub>**LXX:**</sub></small>
 For David said, \[The\] <span class="smallcaps">lord</span> God of Israel rested  his people, and encamped in Jerusalem unto \[the\] eon. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G2036\|είπε]] [[G4622\|Δαυίδ]] [[G2664\|κατέπαυσε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G3588\|τω]] [[G2992\|λαώ]] [[G1473\|αυτού]] [[G2532\|και]] [[G2681\|κατεσκήνωσεν]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]] [[G2193\|έως]] [[G0165\|αιώνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic NATION|NATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.24|<< 1 Chronicles 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.26|1 Chronicles 23:26 >>]]</td></tr></table>
 
@@ -21,6 +68,6 @@ For David said, \[The\] <span class="smallcaps">lord</span> God of Israel rested
 | Jerusalem | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
 | unto | **<big>[[G2193\|έως]]</big>** |
 | \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
-[[1Chr.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.24|<< 1 Chronicles 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.26|1 Chronicles 23:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.24|<< 1 Chronicles 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.26|1 Chronicles 23:26 >>]]</td></tr></table>
 
 

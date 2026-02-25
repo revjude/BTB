@@ -1,8 +1,59 @@
+---
+title: Job 5:22
+type: Verse
+kjv: "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth."
+bsb: "You will laugh at destruction and famine, and need not fear the beasts of the earth."
+hebrew: "לְשֹׁ֣ד וּלְכָפָ֣ן תִּשְׂחָ֑ק וּֽמֵחַיַּ֥ת הָ֝אָ֗רֶץ אַל־ תִּירָֽא׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9005]]"
+- "[[H7701]]"
+- "[[H9002]]"
+- "[[H3720]]"
+- "[[H7832]]"
+- "[[H9006]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:22**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 You will laugh at destruction and famine, and need not fear the beasts of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7701\|שֹׁ֣ד]] [[H9002\|וּ]][[H9005\|לְ]][[H3720\|כָפָ֣ן]] [[H7832\|תִּשְׂחָ֑ק]] [[H9002\|וּֽ]][[H9006\|מֵ]][[H2416C\|חַיַּ֥ת]] [[H9009\|הָ֝]][[H0776H\|אָ֗רֶץ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.21|<< Job 5:21]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.23|Job 5:23 >>]]</td></tr></table>
 

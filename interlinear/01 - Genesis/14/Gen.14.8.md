@@ -1,8 +1,74 @@
+---
+title: Genesis 14:8
+type: Verse
+kjv: "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;"
+bsb: "Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) marched out and arrayed themselves for battle in the Valley of Siddim"
+hebrew: "וַיֵּצֵ֨א מֶֽלֶךְ־ סְדֹ֜ם וּמֶ֣לֶךְ עֲמֹרָ֗ה וּמֶ֤לֶךְ אַדְמָה֙ וּמֶ֣לֶךְ צְבוֹיִ֔ם וּמֶ֥לֶךְ בֶּ֖לַע הִוא־ צֹ֑עַר וַיַּֽעַרְכ֤וּ אִתָּם֙ מִלְחָמָ֔ה בְּעֵ֖מֶק הַשִּׂדִּֽים׃"
+pericope: "[[Gen.14.1 The War of the Kings|The War of the Kings]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BELA|BELA]]"
+- "[[topic BIRSHA|BIRSHA]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SIDDIM|SIDDIM]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic ZEBOIM|ZEBOIM]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H0126]]"
+- "[[H6636]]"
+- "[[H1106B]]"
+- "[[H1931]]"
+- "[[H6820]]"
+- "[[H6186A]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H6010Q]]"
+- "[[H9009]]"
+- "[[H7708]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 14:8**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same [is] Zoar;) and they joined battle with them in the vale of Siddim;
 <small><sub>**BSB:**</sub></small>
 Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) marched out and arrayed themselves for battle in the Valley of Siddim
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H5467\|סְדֹ֜ם]] [[H9002\|וּ]][[H4428G\|מֶ֣לֶךְ]] [[H6017\|עֲמֹרָ֗ה]] [[H9002\|וּ]][[H4428G\|מֶ֤לֶךְ]] [[H0126\|אַדְמָה֙]] [[H9002\|וּ]][[H4428G\|מֶ֣לֶךְ]] [[H6636\|צְבוֹיִ֔ם]] [[H9002\|וּ]][[H4428G\|מֶ֥לֶךְ]] [[H1106B\|בֶּ֖לַע]] [[H1931\|הִוא]][[H9014\|־]] [[H6820\|צֹ֑עַר]] [[H9001\|וַ]][[H6186A\|יַּֽעַרְכ֤וּ]] [[H0854\|אִתָּ]][[H9038\|ם֙]] [[H4421\|מִלְחָמָ֔ה]] [[H9003\|בְּ]][[H6010Q\|עֵ֖מֶק]] [[H9009\|הַ]][[H7708\|שִּׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BELA|BELA]] • [[topic BIRSHA|BIRSHA]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic GOMORRAH|GOMORRAH]] • [[topic LOT|LOT]] • [[topic SIDDIM|SIDDIM]] • [[topic SODOM|SODOM]] • [[topic ZEBOIM|ZEBOIM]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.7|<< Genesis 14:7]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.9|Genesis 14:9 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: John 4:42
+type: Verse
+kjv: "And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world."
+bsb: "They said to the woman, “We now believe not only because of your words; we have heard for ourselves, and we know that this man truly is the Savior of the world.”"
+greek: "τῇ τε γυναικὶ ἔλεγον ὅτι οὐκέτι οὐκέτι διὰ τὴν σὴν λαλιὰν πιστεύομεν· αὐτοὶ γὰρ ἀκηκόαμεν καὶ οἴδαμεν ὅτι οὗτός ἐστιν ἀληθῶς ὁ σωτὴρ τοῦ κόσμου ὁ χριστός.¶"
+pericope: "[[John.4.39 Many Samaritans Believe|Many Samaritans Believe]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G1135G]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G2981]]"
+- "[[G4100]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0230]]"
+- "[[G4990]]"
+- "[[G2889]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **John 4:42**<big><big>[[John.4.39 Many Samaritans Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto the woman, Now we believe, not because of thy saying: for we have heard [him] ourselves, and know that this is indeed the Christ, the Saviour of the world.
 <small><sub>**BSB:**</sub></small>
 They said to the woman, “We now believe not only because of your words; we have heard for ourselves, and we know that this man truly is the Savior of the world.”
-<small><sub>**Literal:**</sub></small>
-<the> and to the woman they were saying that no longer because of <the> your speech we believe; we ourselves for have heard and we know that this is truly the Savior of the world the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.41|<< John 4:41]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.43|John 4:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G5037\|τε]]  [[G1135G\|γυναικὶ]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G4771\|σὴν]]  [[G2981\|λαλιὰν]]  [[G4100\|πιστεύομεν·]]  [[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G0191\|ἀκηκόαμεν]]  [[G2532\|καὶ]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G0230\|ἀληθῶς]]  [[G3588\|ὁ]]  [[G4990\|σωτὴρ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3588\|ὁ]]  [[G5547\|χριστός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.41|<< John 4:41]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.43|John 4:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

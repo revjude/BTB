@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Year
+type: Pericope
 pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 15
 book/chapter: "[[Deut.15|Deuteronomy 15]]"
-genre:
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.15.1]]"
 - "[[Deut.15.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.15.6]]"
 ---
 
-[[Deut.15|Deuteronomy 15:1 - Deuteronomy 15:6]]
+<small>[[Deut.15|Deuteronomy 15:1-6]]</small>
 *The Seventh Year*
 
 [[Deut.15.1|1]] At the end of \[every\] seven years thou shalt make a release.

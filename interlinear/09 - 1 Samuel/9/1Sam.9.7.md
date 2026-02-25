@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 9:7
+type: Verse
+kjv: "Then said Saul to his servant, But, behold, if we go, what shall we bring the man? for the bread is spent in our vessels, and there is not a present to bring to the man of God: what have we?"
+bsb: "“If we do go,” Saul replied, “what can we give the man? For the bread in our packs is gone, and there is no gift to take to the man of God. What do we have?”"
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל לְנַעֲר֗וֹ וְהִנֵּ֣ה נֵלֵךְ֮ וּמַה־ נָּבִ֣יא לָאִישׁ֒ כִּ֤י הַלֶּ֙חֶם֙ אָזַ֣ל מִכֵּלֵ֔ינוּ וּתְשׁוּרָ֥ה אֵין־ לְהָבִ֖יא לְאִ֣ישׁ הָאֱלֹהִ֑ים מָ֖ה אִתָּֽנוּ׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1980G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H3899H]]"
+- "[[H0235]]"
+- "[[H9006]]"
+- "[[H3627]]"
+- "[[H9025]]"
+- "[[H8670]]"
+- "[[H0369]]"
+- "[[H0430G]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:7**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Saul to his servant, But, behold, [if] we go, what shall we bring the man? for the bread is spent in our vessels, and [there is] not a present to bring to the man of God: what have we?
 <small><sub>**BSB:**</sub></small>
 “If we do go,” Saul replied, “what can we give the man? For the bread in our packs is gone, and there is no gift to take to the man of God. What do we have?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H9005\|לְ]][[H5288\|נַעֲר֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H1980G\|נֵלֵךְ֮]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H0935P\|נָּבִ֣יא]] [[H9005\|לָ]][[H0376G\|אִישׁ֒]] [[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H3899H\|לֶּ֙חֶם֙]] [[H0235\|אָזַ֣ל]] [[H9006\|מִ]][[H3627\|כֵּלֵ֔י]][[H9025\|נוּ]] [[H9002\|וּ]][[H8670\|תְשׁוּרָ֥ה]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לְ]][[H0935P\|הָבִ֖יא]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H4100\|מָ֖ה]] [[H0854\|אִתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.6|<< 1 Samuel 9:6]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.8|1 Samuel 9:8 >>]]</td></tr></table>
 

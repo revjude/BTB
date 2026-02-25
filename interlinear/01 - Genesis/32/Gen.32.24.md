@@ -1,8 +1,61 @@
+---
+title: Genesis 32:24
+type: Verse
+kjv: "And Jacob was left alone; and there wrestled a man with him until the breaking of the day."
+bsb: "So Jacob was left all alone, and there a man wrestled with him until daybreak."
+hebrew: "וַיִּוָּתֵ֥ר יַעֲקֹ֖ב לְבַדּ֑וֹ וַיֵּאָבֵ֥ק אִישׁ֙ עִמּ֔וֹ עַ֖ד עֲל֥וֹת הַשָּֽׁחַר׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WRESTLING|WRESTLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H0079]]"
+- "[[H0376G]]"
+- "[[H5973A]]"
+- "[[H5704]]"
+- "[[H5927L]]"
+- "[[H9009]]"
+- "[[H7837]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:24**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
 <small><sub>**BSB:**</sub></small>
 So Jacob was left all alone, and there a man wrestled with him until daybreak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3498\|יִּוָּתֵ֥ר]] [[H3290\|יַעֲקֹ֖ב]] [[H9005\|לְ]][[H0905H\|בַדּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0079\|יֵּאָבֵ֥ק]] [[H0376G\|אִישׁ֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H5704\|עַ֖ד]] [[H5927L\|עֲל֥וֹת]] [[H9009\|הַ]][[H7837\|שָּֽׁחַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic WRESTLING|WRESTLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.23|<< Genesis 32:23]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.25|Genesis 32:25 >>]]</td></tr></table>
 

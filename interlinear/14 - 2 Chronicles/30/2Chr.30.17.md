@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 30:17
+type: Verse
+kjv: "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the LORD."
+bsb: "Since there were many in the assembly who had not consecrated themselves, the Levites were in charge of slaughtering the Passover lambs for every unclean person to consecrate the lambs to the LORD."
+hebrew: "כִּי־ רַבַּ֥ת בַּקָּהָ֖ל אֲשֶׁ֣ר לֹא־ הִתְקַדָּ֑שׁוּ וְהַלְוִיִּ֞ם עַל־ שְׁחִיטַ֣ת הַפְּסָחִ֗ים לְכֹל֙ לֹ֣א טָה֔וֹר לְהַקְדִּ֖ישׁ לַיהוָֽה׃"
+pericope: "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FORM|FORM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PROXY|PROXY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H9003]]"
+- "[[H6951]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5921A]]"
+- "[[H7821]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H2889]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:17**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there were] many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one [that was] not clean, to sanctify [them] unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Since there were many in the assembly who had not consecrated themselves, the Levites were in charge of slaughtering the Passover lambs for every unclean person to consecrate the lambs to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H7227A\|רַבַּ֥ת]] [[H9003\|בַּ]][[H6951\|קָּהָ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6942G\|הִתְקַדָּ֑שׁוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֞ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7821\|שְׁחִיטַ֣ת]] [[H9009\|הַ]][[H6453\|פְּסָחִ֗ים]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H3808\|לֹ֣א]] [[H2889\|טָה֔וֹר]] [[H9005\|לְ]][[H6942G\|הַקְדִּ֖ישׁ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORM|FORM]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic PROXY|PROXY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.16|<< 2 Chronicles 30:16]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.18|2 Chronicles 30:18 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: 1 John 5:6
+type: Verse
+kjv: "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
+bsb: "This is the One who came by water and blood, Jesus Christ—not by water alone, but by water and blood. And it is the Spirit who testifies to this, because the Spirit is the truth."
+greek: "οὗτός ἐστιν ὁ ἐλθὼν δι᾽ ὕδατος καὶ αἵματος, Ἰησοῦς ὁ Χριστός· οὐκ ἐν τῷ ὕδατι μόνον, ἀλλ᾽ ἐν τῷ ὕδατι καὶ ἐν τῷ αἵματι· καὶ τὸ πνεῦμά ἐστιν τὸ μαρτυροῦν, ὅτι τὸ πνεῦμά ἐστιν ἡ ἀλήθεια·"
+pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G1223]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G0129G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G4151G]]"
+- "[[G3140]]"
+- "[[G3754H]]"
+- "[[G0225]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **1 John 5:6**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is he that came by water and blood, [even] Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.
 <small><sub>**BSB:**</sub></small>
 This is the One who came by water and blood, Jesus Christ—not by water alone, but by water and blood. And it is the Spirit who testifies to this, because the Spirit is the truth.
-<small><sub>**Literal:**</sub></small>
-This is the [One] having come through water and blood, Jesus <the> Christ; not by <the> water only, but by <the> water and by <the> blood; And the Spirit is the [One] testifying, because the Spirit is the truth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.5|<< 1 John 5:5]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.7|1 John 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2064\|ἐλθὼν]]  [[G1223\|δι᾽]]  [[G5204\|ὕδατος]]  [[G2532\|καὶ]]  [[G0129G\|αἵματος,]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G5547\|Χριστός·]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5204\|ὕδατι]]  [[G3441\|μόνον,]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5204\|ὕδατι]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0129G\|αἵματι·]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G3140\|μαρτυροῦν,]]  [[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.5|<< 1 John 5:5]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.7|1 John 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

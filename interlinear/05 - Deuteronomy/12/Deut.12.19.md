@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 12:19
+type: Verse
+kjv: "Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth."
+bsb: "and be careful not to neglect the Levites as long as you live in your land."
+hebrew: "הִשָּׁ֣מֶר לְךָ֔ פֶּֽן־ תַּעֲזֹ֖ב אֶת־ הַלֵּוִ֑י כָּל־ יָמֶ֖יךָ עַל־ אַדְמָתֶֽךָ׃ ס"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H5800H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:19**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.
 <small><sub>**BSB:**</sub></small>
 and be careful not to neglect the Levites as long as you live in your land.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|הִשָּׁ֣מֶר]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H5800H\|תַּעֲזֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לֵּוִ֑י]] [[H3605\|כָּל]][[H9014\|־]] [[H3117K\|יָמֶ֖י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.18|<< Deuteronomy 12:18]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.20|Deuteronomy 12:20 >>]]</td></tr></table>
 
@@ -17,7 +72,7 @@ and be careful not to neglect the Levites as long as you live in your land.
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days your  |**<big>&#8207;[[H3117K\|יָמֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ya.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| land your  |**<big>&#8207;[[H0127G\|אַדְמָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ad.ma.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| land your  |**<big>&#8207;[[H0127G\|אַדְמָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ad.ma.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.18|<< Deuteronomy 12:18]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.20|Deuteronomy 12:20 >>]]</td></tr></table>
 
 

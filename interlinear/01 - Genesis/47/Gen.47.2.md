@@ -1,8 +1,59 @@
+---
+title: Genesis 47:2
+type: Verse
+kjv: "And he took some of his brethren, even five men, and presented them unto Pharaoh."
+bsb: "And he chose five of his brothers and presented them before Pharaoh."
+hebrew: "וּמִקְצֵ֣ה אֶחָ֔יו לָקַ֖ח חֲמִשָּׁ֣ה אֲנָשִׁ֑ים וַיַּצִּגֵ֖ם לִפְנֵ֥י פַרְעֹֽה׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H2568]]"
+- "[[H0582]]"
+- "[[H9001]]"
+- "[[H3322]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6547H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:2**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took some of his brethren, [even] five men, and presented them unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
 And he chose five of his brothers and presented them before Pharaoh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H7097A\|קְצֵ֣ה]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H3947G\|לָקַ֖ח]] [[H2568\|חֲמִשָּׁ֣ה]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וַ]][[H3322\|יַּצִּגֵ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H6547H\|פַרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.1|<< Genesis 47:1]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.3|Genesis 47:3 >>]]</td></tr></table>
 

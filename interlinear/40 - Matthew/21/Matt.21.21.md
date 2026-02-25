@@ -1,10 +1,71 @@
+---
+title: Matthew 21:21
+type: Verse
+kjv: "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+bsb: "“Truly I tell you,” Jesus replied, “if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen."
+jesus_said: "Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+greek: "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· ἀμὴν λέγω ὑμῖν· ἐὰν ἔχητε πίστιν καὶ μὴ διακριθῆτε, οὐ μόνον τὸ τῆς συκῆς ποιήσετε, ἀλλὰ κἂν κἂν τῷ ὄρει τούτῳ εἴπητε· ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν, γενήσεται·"
+pericope: "[[Matt.21.18 The Barren Fig Tree|The Barren Fig Tree]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G2192]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1252]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G4808]]"
+- "[[G4160G]]"
+- "[[G0235]]"
+- "[[G3735]]"
+- "[[G3778]]"
+- "[[G0142]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Matthew 21:21**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this [which is done] to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” Jesus replied, “if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen.
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Jesus said to them; Amen I say to you; if you shall have faith and not shall doubt, not only the [miracle] of the fig tree will you do, but even if to the mountain this you shall say; do be taken away and do be cast into the sea, it will come to pass;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.20|<< Matthew 21:20]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.22|Matthew 21:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1437\|ἐὰν]]  [[G2192\|ἔχητε]]  [[G4102G\|πίστιν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1252\|διακριθῆτε,]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G4808\|συκῆς]]  [[G4160G\|ποιήσετε,]]  [[G0235\|ἀλλὰ]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G3778\|τούτῳ]]  [[G2036\|εἴπητε·]]  [[G0142\|ἄρθητι]]  [[G2532\|καὶ]]  [[G0906G\|βλήθητι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G1096\|γενήσεται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUNTAIN|MOUNTAIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.20|<< Matthew 21:20]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.22|Matthew 21:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

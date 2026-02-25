@@ -1,8 +1,49 @@
+---
+title: Joshua 6:27
+type: Verse
+kjv: "So the LORD was with Joshua; and his fame was noised throughout all the country."
+bsb: "So the LORD was with Joshua, and his fame spread throughout the land."
+hebrew: "וַיְהִ֥י יְהוָ֖ה אֶת־ יְהוֹשֻׁ֑עַ וַיְהִ֥י שָׁמְע֖וֹ בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H8089]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:27**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD was with Joshua; and his fame was [noised] throughout all the country.
 <small><sub>**BSB:**</sub></small>
 So the LORD was with Joshua, and his fame spread throughout the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0854\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H8089\|שָׁמְע֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.26|<< Joshua 6:26]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.1|Joshua 7:1 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Isaiah 43:6
+type: Verse
+kjv: "I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;"
+bsb: "I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back!’ Bring My sons from afar, and My daughters from the ends of the earth—"
+hebrew: "אֹמַ֤ר לַצָּפוֹן֙ תֵּ֔נִי וּלְתֵימָ֖ן אַל־ תִּכְלָ֑אִי הָבִ֤יאִי בָנַי֙ מֵרָח֔וֹק וּבְנוֹתַ֖י מִקְצֵ֥ה הָאָֽרֶץ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MISSIONS|MISSIONS]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6828G]]"
+- "[[H5414G]]"
+- "[[H9002]]"
+- "[[H8486]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3607]]"
+- "[[H0935P]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H1323G]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:6**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
 <small><sub>**BSB:**</sub></small>
 I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back!’ Bring My sons from afar, and My daughters from the ends of the earth—
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֹמַ֤ר]] [[H9005\|לַ]][[H6828G\|צָּפוֹן֙]] [[H5414G\|תֵּ֔נִי]] [[H9002\|וּ]][[H9005\|לְ]][[H8486\|תֵימָ֖ן]] [[H0408\|אַל]][[H9014\|־]] [[H3607\|תִּכְלָ֑אִי]] [[H0935P\|הָבִ֤יאִי]] [[H1121A\|בָנַ]][[H9020\|י֙]] [[H9006\|מֵ]][[H7350\|רָח֔וֹק]] [[H9002\|וּ]][[H1323G\|בְנוֹתַ֖]][[H9020\|י]] [[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic MISSIONS|MISSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.5|<< Isaiah 43:5]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.7|Isaiah 43:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

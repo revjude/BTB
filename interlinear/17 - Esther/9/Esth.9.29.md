@@ -1,8 +1,61 @@
+---
+title: Esther 9:29
+type: Verse
+kjv: "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim."
+bsb: "So Queen Esther daughter of Abihail, along with Mordecai the Jew, wrote with full authority to confirm this second letter concerning Purim."
+hebrew: "וַ֠תִּכְתֹּב אֶסְתֵּ֨ר הַמַּלְכָּ֧ה בַת־ אֲבִיחַ֛יִל וּמָרְדֳּכַ֥י הַיְּהוּדִ֖י אֶת־ כָּל־ תֹּ֑קֶף לְקַיֵּ֗ם אֵ֣ת אִגֶּ֧רֶת הַפּוּרִ֛ים הַזֹּ֖את הַשֵּׁנִֽית׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H0635]]"
+- "[[H9009]]"
+- "[[H4436H]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0032K]]"
+- "[[H9002]]"
+- "[[H4782H]]"
+- "[[H3064]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H8633]]"
+- "[[H9005]]"
+- "[[H6965I]]"
+- "[[H0107]]"
+- "[[H6332]]"
+- "[[H2063]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:29**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.
 <small><sub>**BSB:**</sub></small>
 So Queen Esther daughter of Abihail, along with Mordecai the Jew, wrote with full authority to confirm this second letter concerning Purim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H3789\|תִּכְתֹּב]] [[H0635\|אֶסְתֵּ֨ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֧ה]] [[H1323G\|בַת]][[H9014\|־]] [[H0032K\|אֲבִיחַ֛יִל]] [[H9002\|וּ]][[H4782H\|מָרְדֳּכַ֥י]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8633\|תֹּ֑קֶף]] [[H9005\|לְ]][[H6965I\|קַיֵּ֗ם]] [[H0853\|אֵ֣ת]] [[H0107\|אִגֶּ֧רֶת]] [[H9009\|הַ]][[H6332\|פּוּרִ֛ים]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9009\|הַ]][[H8145\|שֵּׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.28|<< Esther 9:28]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.30|Esther 9:30 >>]]</td></tr></table>
 

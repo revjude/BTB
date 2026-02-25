@@ -1,10 +1,48 @@
+---
+title: Mark 16:13
+type: Verse
+kjv: "And they went and told it unto the residue: neither believed they them."
+bsb: "And they went back and reported it to the rest, but they did not believe them either."
+greek: "κἀκεῖνοι κἀκεῖνοι ἀπελθόντες ἀπήγγειλαν τοῖς λοιποῖς· οὐδὲ ἐκείνοις ἐπίστευσαν."
+pericope: "[[Mark.16.12 Jesus Appears to Two Disciples|Jesus Appears to Two Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G0565]]"
+- "[[G0518]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3761]]"
+- "[[G4100]]"
+texts:
+- KO
+---
+
 **Mark 16:13**<big><big>[[Mark.16.12 Jesus Appears to Two Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went and told [it] unto the residue: neither believed they them.
 <small><sub>**BSB:**</sub></small>
 And they went back and reported it to the rest, but they did not believe them either.
-<small><sub>**Literal:**</sub></small>
-And they having gone told [it] to the rest; neither them did they believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.12|<< Mark 16:12]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.14|Mark 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖνοι]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G0565\|ἀπελθόντες]]  [[G0518\|ἀπήγγειλαν]]  [[G3588\|τοῖς]]  [[G3062\|λοιποῖς·]]  [[G3761\|οὐδὲ]]  [[G1565\|ἐκείνοις]]  [[G4100\|ἐπίστευσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.12|<< Mark 16:12]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.14|Mark 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

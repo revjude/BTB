@@ -1,8 +1,67 @@
+---
+title: Leviticus 14:18
+type: Verse
+kjv: "And the remnant of the oil that is in the priest’s hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD."
+bsb: "The rest of the oil in his palm, the priest is to put on the head of the one to be cleansed, to make atonement for him before the LORD."
+hebrew: "וְהַנּוֹתָ֗ר בַּשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־ כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־ רֹ֣אשׁ הַמִּטַּהֵ֑ר וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic HEAD|HEAD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H3548]]"
+- "[[H5414H]]"
+- "[[H7218A]]"
+- "[[H2891]]"
+- "[[H9001]]"
+- "[[H3722A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:18**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant of the oil that [is] in the priest’s hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD.
 <small><sub>**BSB:**</sub></small>
 The rest of the oil in his palm, the priest is to put on the head of the one to be cleansed, to make atonement for him before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתָ֗ר]] [[H9003\|בַּ]][[H8081\|שֶּׁ֙מֶן֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּ֣ף]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H5414H\|יִתֵּ֖ן]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H2891\|מִּטַּהֵ֑ר]] [[H9001\|וְ]][[H3722A\|כִפֶּ֥ר]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic HEAD|HEAD]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.17|<< Leviticus 14:17]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.19|Leviticus 14:19 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beheading of John
+type: Pericope
 pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 14
 book/chapter: "[[Matt.14|Matthew 14]]"
-genre:
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.14.1]]"
 - "[[Matt.14.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.14.12]]"
 ---
 
-[[Matt.14|Matthew 14:1 - Matthew 14:12]]
+<small>[[Matt.14|Matthew 14:1-12]]</small>
 *The Beheading of John*
 
 [[Matt.14.1|1]] At that time Herod the tetrarch heard of the fame of Jesus,

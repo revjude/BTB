@@ -1,10 +1,50 @@
+---
+title: Romans 16:6
+type: Verse
+kjv: "Greet Mary, who bestowed much labour on us."
+bsb: "Greet Mary, who has worked very hard for you."
+greek: "ἀσπάσασθε Μαρίαν, ἥτις πολλὰ ἐκοπίασεν εἰς ὑμᾶς.¶"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0782]]"
+- "[[G3137M]]"
+- "[[G3748]]"
+- "[[G4183]]"
+- "[[G2872]]"
+- "[[G1519]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 16:6**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greet Mary, who bestowed much labour on us.
 <small><sub>**BSB:**</sub></small>
 Greet Mary, who has worked very hard for you.
-<small><sub>**Literal:**</sub></small>
-do greet Mary, who much toiled for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.5|<< Romans 16:5]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.7|Romans 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀσπάσασθε]]  [[G3137M\|Μαρίαν,]]  [[G3748\|ἥτις]]  [[G4183\|πολλὰ]]  [[G2872\|ἐκοπίασεν]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic ROME|ROME]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.5|<< Romans 16:5]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.7|Romans 16:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

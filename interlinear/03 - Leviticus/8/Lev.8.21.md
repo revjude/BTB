@@ -1,8 +1,73 @@
+---
+title: Leviticus 8:21
+type: Verse
+kjv: "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses."
+bsb: "He washed the entrails and legs with water and burned the entire ram on the altar as a burnt offering, a pleasing aroma, a food offering to the LORD, just as the LORD had commanded Moses."
+hebrew: "וְאֶת־ הַקֶּ֥רֶב וְאֶת־ הַכְּרָעַ֖יִם רָחַ֣ץ בַּמָּ֑יִם וַיַּקְטֵר֩ מֹשֶׁ֨ה אֶת־ כָּל־ הָאַ֜יִל הַמִּזְבֵּ֗חָה עֹלָ֨ה ה֤וּא לְרֵֽיחַ־ נִיחֹ֙חַ֙ אִשֶּׁ֥ה הוּא֙ לַיהוָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Lev.8.18 The Priests’ Burnt Offering|The Priests’ Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7130H]]"
+- "[[H3767]]"
+- "[[H7364]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H4872]]"
+- "[[H3605]]"
+- "[[H0352A]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H5930A]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:21**<big><big>[[Lev.8.18 The Priests’ Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it [was] a burnt sacrifice for a sweet savour, [and] an offering made by fire unto the LORD; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 He washed the entrails and legs with water and burned the entire ram on the altar as a burnt offering, a pleasing aroma, a food offering to the LORD, just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7130H\|קֶּ֥רֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3767\|כְּרָעַ֖יִם]] [[H7364\|רָחַ֣ץ]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H6999A\|יַּקְטֵר֩]] [[H4872\|מֹשֶׁ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֜יִל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֗חָ]][[H9011\|ה]] [[H5930A\|עֹלָ֨ה]] [[H1931\|ה֤וּא]] [[H9005\|לְ]][[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֙חַ֙]] [[H0801\|אִשֶּׁ֥ה]] [[H1931\|הוּא֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.20|<< Leviticus 8:20]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.22|Leviticus 8:22 >>]]</td></tr></table>
 

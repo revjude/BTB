@@ -1,8 +1,57 @@
+---
+title: Psalm 2:5
+type: Verse
+kjv: "Then shall he speak unto them in his wrath, and vex them in his sore displeasure."
+bsb: "Then He rebukes them in His anger, and terrifies them in His fury:"
+hebrew: "אָ֤ז יְדַבֵּ֣ר אֵלֵ֣ימוֹ בְאַפּ֑וֹ וּֽבַחֲרוֹנ֥וֹ יְבַהֲלֵֽמוֹ׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0227A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2740]]"
+- "[[H0926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:5**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
 <small><sub>**BSB:**</sub></small>
 Then He rebukes them in His anger, and terrifies them in His fury:
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֤ז]] [[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֵלֵ֣י]][[H9038\|מוֹ]] [[H9003\|בְ]][[H0639G\|אַפּ֑]][[H9023\|וֹ]] [[H9002\|וּֽ]][[H9003\|בַ]][[H2740\|חֲרוֹנ֥]][[H9023\|וֹ]] [[H0926\|יְבַהֲלֵֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.4|<< Psalms 2:4]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.6|Psalms 2:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

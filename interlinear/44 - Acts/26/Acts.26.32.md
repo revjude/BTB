@@ -1,10 +1,53 @@
+---
+title: Acts 26:32
+type: Verse
+kjv: "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar."
+bsb: "And Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”"
+greek: "Ἀγρίππας δὲ τῷ Φήστῳ ἔφη· ἀπολελύσθαι ἐδύνατο ὁ ἄνθρωπος οὗτος, εἰ μὴ ἐπεκέκλητο Καίσαρα.¶"
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic COURT|COURT]]"
+strongs:
+- "[[G0067]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5347]]"
+- "[[G5346]]"
+- "[[G0630G]]"
+- "[[G1410]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1941]]"
+- "[[G2541]]"
+texts:
+- NKO
+---
+
 **Acts 26:32**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.
 <small><sub>**BSB:**</sub></small>
 And Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”
-<small><sub>**Literal:**</sub></small>
-Agrippa then <the> to Festus was saying; to have been released was able <the> man this, only unless he had appealed to Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.31|<< Acts 26:31]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.1|Acts 27:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0067\|Ἀγρίππας]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G5347\|Φήστῳ]]  [[G5346\|ἔφη·]]  [[G0630G\|ἀπολελύσθαι]]  [[G1410\|ἐδύνατο]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3778\|οὗτος,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1941\|ἐπεκέκλητο]]  [[G2541\|Καίσαρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic COURT|COURT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.31|<< Acts 26:31]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.1|Acts 27:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

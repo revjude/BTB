@@ -1,8 +1,74 @@
+---
+title: Nehemiah 4:14
+type: Verse
+kjv: "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."
+bsb: "After I had made an inspection, I stood up and said to the nobles, the officials, and the rest of the people, “Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.”"
+hebrew: "וָאֵ֣רֶא וָאָק֗וּם וָאֹמַ֞ר אֶל־ הַחֹרִ֤ים וְאֶל־ הַסְּגָנִים֙ וְאֶל־ יֶ֣תֶר הָעָ֔ם אַל־ תִּֽירְא֖וּ מִפְּנֵיהֶ֑ם אֶת־ אֲדֹנָ֞י הַגָּד֤וֹל וְהַנּוֹרָא֙ זְכֹ֔רוּ וְהִֽלָּחֲמ֗וּ עַל־ אֲחֵיכֶם֙ בְּנֵיכֶ֣ם וּבְנֹתֵיכֶ֔ם נְשֵׁיכֶ֖ם וּבָתֵּיכֶֽם׃ פ"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6965B]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2715]]"
+- "[[H9002]]"
+- "[[H5461]]"
+- "[[H3499A]]"
+- "[[H5971A]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H0136]]"
+- "[[H1419A]]"
+- "[[H3372H]]"
+- "[[H2142]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H0802H]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 4:14**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, [which is] great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.
 <small><sub>**BSB:**</sub></small>
 After I had made an inspection, I stood up and said to the nobles, the officials, and the rest of the people, “Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֣רֶא]] [[H9001\|וָ]][[H6965B\|אָק֗וּם]] [[H9001\|וָ]][[H0559\|אֹמַ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2715\|חֹרִ֤ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5461\|סְּגָנִים֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֖וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0136\|אֲדֹנָ֞י]] [[H9009\|הַ]][[H1419A\|גָּד֤וֹל]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָא֙]] [[H2142\|זְכֹ֔רוּ]] [[H9002\|וְ]][[H3898A\|הִֽלָּחֲמ֗וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0251I\|אֲחֵי]][[H9026\|כֶם֙]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֣ם]] [[H9002\|וּ]][[H1323G\|בְנֹתֵי]][[H9026\|כֶ֔ם]] [[H0802H\|נְשֵׁי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H1004B\|בָתֵּי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.13|<< Nehemiah 4:13]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.15|Nehemiah 4:15 >>]]</td></tr></table>
 
@@ -32,7 +98,7 @@ After I had made an inspection, I stood up and said to the nobles, the officials
 | sons your  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| be.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and daughters your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בְנֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.no.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wives your  |**<big>&#8207;[[H0802H\|נְשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and houses your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בָתֵּי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.tei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and houses your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004B\|בָתֵּי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.tei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.13|<< Nehemiah 4:13]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.15|Nehemiah 4:15 >>]]</td></tr></table>
 
 

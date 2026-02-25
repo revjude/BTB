@@ -1,8 +1,54 @@
+---
+title: Job 7:8
+type: Verse
+kjv: "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not."
+bsb: "The eye that beholds me will no longer see me. You will look for me, but I will be no more."
+hebrew: "לֹֽא־ תְ֭שׁוּרֵנִי עֵ֣ין רֹ֑אִי עֵינֶ֖יךָ בִּ֣י וְאֵינֶֽנִּי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7789]]"
+- "[[H9030]]"
+- "[[H5869A]]"
+- "[[H7210]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:8**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye of him that hath seen me shall see me no [more]: thine eyes [are] upon me, and I [am] not.
 <small><sub>**BSB:**</sub></small>
 The eye that beholds me will no longer see me. You will look for me, but I will be no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7789\|תְ֭שׁוּרֵ]][[H9030\|נִי]] [[H5869A\|עֵ֣ין]] [[H7210\|רֹ֑אִי]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H9003\|בִּ֣]][[H9030\|י]] [[H9002\|וְ]][[H0369\|אֵינֶֽ]][[H9040\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.7|<< Job 7:7]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.9|Job 7:9 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Isaiah 50:9
+type: Verse
+kjv: "Behold, the Lord GOD will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up."
+bsb: "Surely the Lord GOD helps Me. Who is there to condemn Me? See, they will all wear out like a garment; the moths will devour them."
+hebrew: "הֵ֣ן אֲדֹנָ֤י יְהוִה֙ יַֽעֲזָר־ לִ֔י מִי־ ה֖וּא יַרְשִׁיעֵ֑נִי הֵ֤ן כֻּלָּם֙ כַּבֶּ֣גֶד יִבְל֔וּ עָ֖שׁ יֹאכְלֵֽם׃"
+pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MOTH|MOTH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5826]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4310]]"
+- "[[H1931]]"
+- "[[H7561]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0899B]]"
+- "[[H1086]]"
+- "[[H6211A]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 50:9**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the Lord GOD will help me; who [is] he [that] shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.
 <small><sub>**BSB:**</sub></small>
 Surely the Lord GOD helps Me. Who is there to condemn Me? See, they will all wear out like a garment; the moths will devour them.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H5826\|יַֽעֲזָר]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H4310\|מִי]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H7561\|יַרְשִׁיעֵ֑]][[H9030\|נִי]] [[H2005\|הֵ֤ן]] [[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H9004\|כַּ]][[H0899B\|בֶּ֣גֶד]] [[H1086\|יִבְל֔וּ]] [[H6211A\|עָ֖שׁ]] [[H0398\|יֹאכְלֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MOTH|MOTH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.8|<< Isaiah 50:8]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.10|Isaiah 50:10 >>]]</td></tr></table>
 

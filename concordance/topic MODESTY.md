@@ -9,7 +9,7 @@
 
 - Vashti [[Esth.1.11|Es 1:11]],[[Esth.1.12|12]]
 
-- Elihu [[Job.32.4|Job 32:4]]-[[Job.32.7|7]]
+- Elihu [[Job.32.4|Job 32:4-7]]
 
 - See [[topic HUMILITY|HUMILITY]]
 

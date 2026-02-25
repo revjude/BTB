@@ -1,10 +1,58 @@
+---
+title: Colossians 3:14
+type: Verse
+kjv: "And above all these things put on charity, which is the bond of perfectness."
+bsb: "And over all these virtues put on love, which is the bond of perfect unity."
+greek: "ἐπὶ πᾶσιν δὲ τούτοις τὴν ἀγάπην, ὅ ἐστιν σύνδεσμος τῆς τελειότητος."
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4886]]"
+- "[[G5047]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 3:14**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And above all these things [put on] charity, which is the bond of perfectness.
 <small><sub>**BSB:**</sub></small>
 And over all these virtues put on love, which is the bond of perfect unity.
-<small><sub>**Literal:**</sub></small>
-Beyond all now these [put on] the love, which is [the] bond <the> of perfect unity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.13|<< Colossians 3:13]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.15|Colossians 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|ἐπὶ]]  [[G3956\|πᾶσιν]]  [[G1161\|δὲ]]  [[G3778\|τούτοις]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G4886\|σύνδεσμος]]  [[G3588\|τῆς]]  [[G5047\|τελειότητος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic KINDNESS|KINDNESS]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.13|<< Colossians 3:13]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.15|Colossians 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

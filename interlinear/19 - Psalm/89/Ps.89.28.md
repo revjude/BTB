@@ -1,8 +1,59 @@
+---
+title: Psalm 89:28
+type: Verse
+kjv: "My mercy will I keep for him for evermore, and my covenant shall stand fast with him."
+bsb: "I will forever preserve My loving devotion for him, and My covenant with him will stand fast."
+hebrew: "לְ֭עוֹלָ֗ם אֶשְׁמָר ל֣וֹ חַסְדִּ֑י וּ֝בְרִיתִ֗י נֶאֱמֶ֥נֶת לֽוֹ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H8104H]]"
+- "[[H2617A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1285]]"
+- "[[H0539]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 89:28**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My mercy will I keep for him for evermore, and my covenant shall stand fast with him.
 <small><sub>**BSB:**</sub></small>
 I will forever preserve My loving devotion for him, and My covenant with him will stand fast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ֭]][[H5769G\|עוֹלָ֗ם]] [[H8104H\|אֶשְׁמָר]] [[H9005\|ל֣]][[H8104H\|וֹ]] [[H2617A\|חַסְדִּ֑]][[H9020\|י]] [[H9002\|וּ֝]][[H1285\|בְרִיתִ֗]][[H9020\|י]] [[H0539\|נֶאֱמֶ֥נֶת]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.27|<< Psalms 89:27]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.29|Psalms 89:29 >>]]</td></tr></table>
 

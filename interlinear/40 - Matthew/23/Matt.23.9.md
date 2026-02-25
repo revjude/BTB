@@ -1,10 +1,61 @@
+---
+title: Matthew 23:9
+type: Verse
+kjv: "And call no man your father upon the earth: for one is your Father, which is in heaven."
+bsb: "And do not call anyone on earth your father, for you have one Father, who is in heaven."
+jesus_said: "And call no man your father upon the earth: for one is your Father, which is in heaven."
+greek: "Καὶ πατέρα μὴ καλέσητε ὑμῶν ἐπὶ τῆς γῆς· εἷς γάρ ἐστιν ὑμῶν ὁ πατὴρ ὁ οὐράνιος."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FATHER|FATHER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3361]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G1520]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3770]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 23:9**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And call no [man] your father upon the earth: for one is your Father, which is in heaven.
 <small><sub>**BSB:**</sub></small>
 And do not call anyone on earth your father, for you have one Father, who is in heaven.
-<small><sub>**Literal:**</sub></small>
-And father no [one] may call of you on the earth; One for is of you the Father who [is] in heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.8|<< Matthew 23:8]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.10|Matthew 23:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3962\|πατέρα]]  [[G3361\|μὴ]]  [[G2564G\|καλέσητε]]  [[G4771\|ὑμῶν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς·]]  [[G1520\|εἷς]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3588\|ὁ]]  [[G3770\|οὐράνιος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FATHER|FATHER]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.8|<< Matthew 23:8]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.10|Matthew 23:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

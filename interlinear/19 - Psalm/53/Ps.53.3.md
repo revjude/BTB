@@ -1,8 +1,57 @@
+---
+title: Psalm 53:3
+type: Verse
+kjv: "Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one."
+bsb: "All have turned away, they have together become corrupt; there is no one who does good, not even one."
+hebrew: "כֻּלּ֥וֹ סָג֮ יַחְדָּ֪ו נֶ֫אֱלָ֥חוּ אֵ֤ין עֹֽשֵׂה־ ט֑וֹב אֵ֝֗ין גַּם־ אֶחָֽד׃"
+pericope: "[[Ps.53.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 53
+book/chapter: "[[Ps.53|Psalm 53]]"
+chronological_order: 369
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H5472]]"
+- "[[H3162B]]"
+- "[[H0444]]"
+- "[[H0369]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H1571]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 53:3**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one of them is gone back: they are altogether become filthy; [there is] none that doeth good, no, not one.
 <small><sub>**BSB:**</sub></small>
 All have turned away, they have together become corrupt; there is no one who does good, not even one.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלּ֥]][[H9023\|וֹ]] [[H5472\|סָג֮]] [[H3162B\|יַחְדָּ֪ו]] [[H0444\|נֶ֫אֱלָ֥חוּ]] [[H0369\|אֵ֤ין]] [[H6213A\|עֹֽשֵׂה]][[H9014\|־]] [[H2896B\|ט֑וֹב]] [[H0369\|אֵ֝֗ין]] [[H1571\|גַּם]][[H9014\|־]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.2|<< Psalms 53:2]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.4|Psalms 53:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

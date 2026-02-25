@@ -1,9 +1,84 @@
+---
+title: LXX Ezekiel 9:6
+type: Verse
+lxx: "An older man, and a young man, and a virgin, and infants, and women -- kill unto wiping out! But upon all upon whom there is the sign, you should not approach. And begin from my holy places! And they began with the men of the elders who were inside in the house."
+greek: "πρεσβύτερον και νεανίσκον και παρθένον και νήπια και γυναίκας αποκτείνατε εις εξάλειψιν επί δε πάντας εφ΄ ους εστί το σημείον μη εγγίσητε και από των αγίων μου άρξασθε και ήρξαντο από των ανδρών των πρεσβυτέρων οι ήσαν έσω εν τω οίκω"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4245]]"
+- "[[G2532]]"
+- "[[G3495]]"
+- "[[G2532]]"
+- "[[G3933]]"
+- "[[G2532]]"
+- "[[G3516]]"
+- "[[G2532]]"
+- "[[G1135]]"
+- "[[G0615]]"
+- "[[G1519]]"
+- "[[G7289]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4592]]"
+- "[[G3361]]"
+- "[[G1448]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1473]]"
+- "[[G0756]]"
+- "[[G2532]]"
+- "[[G0756]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G4245]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2080]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+---
+
 **LXX Ezekiel 9:6** 
 
 ***The Killing Begins at the Sanctuary***
 
 <small><sub>**LXX:**</sub></small>
 An older man, and a young man, and a virgin, and infants, and women -- kill unto wiping out! But upon all upon whom there is the sign, you should not approach. And begin from my holy places! And they began with the men of the elders who were inside in the house. 
+<small><sub>**Greek:**</sub></small>
+[[G4245\|πρεσβύτερον]] [[G2532\|και]] [[G3495\|νεανίσκον]] [[G2532\|και]] [[G3933\|παρθένον]] [[G2532\|και]] [[G3516\|νήπια]] [[G2532\|και]] [[G1135\|γυναίκας]] [[G0615\|αποκτείνατε]] [[G1519\|εις]] [[G7289\|εξάλειψιν]] [[G1909\|επί]] [[G1473\|δε]] [[G3956\|πάντας]] [[G1909\|εφ΄]] [[G3739\|ους]] [[G1510\|εστί]] [[G3588\|το]] [[G4592\|σημείον]] [[G3361\|μη]] [[G1448\|εγγίσητε]] [[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G0039\|αγίων]] [[G1473\|μου]] [[G0756\|άρξασθε]] [[G2532\|και]] [[G0756\|ήρξαντο]] [[G0575\|από]] [[G3588\|των]] [[G0435\|ανδρών]] [[G3588\|των]] [[G4245\|πρεσβυτέρων]] [[G3739\|οι]] [[G1510\|ήσαν]] [[G2080\|έσω]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -52,6 +127,6 @@ An older man, and a young man, and a virgin, and infants, and women -- kill unto
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τω]]</big>** |
 | house. | **<big>[[G3624\|οίκω]]</big>** |
-[[Ezek.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
 
 

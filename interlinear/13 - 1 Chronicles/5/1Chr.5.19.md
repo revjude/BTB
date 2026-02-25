@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 5:19
+type: Verse
+kjv: "And they made war with the Hagarites, with Jetur, and Nephish, and Nodab."
+bsb: "They waged war against the Hagrites, as well as Jetur, Naphish, and Nodab."
+hebrew: "וַיַּעֲשׂ֥וּ מִלְחָמָ֖ה עִם־ הַֽהַגְרִיאִ֑ים וִיט֥וּר וְנָפִ֖ישׁ וְנוֹדָֽב׃"
+pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic ITURAEA|ITURAEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213J]]"
+- "[[H4421]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1905]]"
+- "[[H9002]]"
+- "[[H3195H]]"
+- "[[H5305]]"
+- "[[H5114]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:19**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.
 <small><sub>**BSB:**</sub></small>
 They waged war against the Hagrites, as well as Jetur, Naphish, and Nodab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213J\|יַּעֲשׂ֥וּ]] [[H4421\|מִלְחָמָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַֽ]][[H1905\|הַגְרִיאִ֑ים]] [[H9002\|וִ]][[H3195H\|יט֥וּר]] [[H9002\|וְ]][[H5305\|נָפִ֖ישׁ]] [[H9002\|וְ]][[H5114\|נוֹדָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic HAGAR|HAGAR]] • [[topic ITURAEA|ITURAEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.18|<< 1 Chronicles 5:18]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.20|1 Chronicles 5:20 >>]]</td></tr></table>
 

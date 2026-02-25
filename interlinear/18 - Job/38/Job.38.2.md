@@ -1,8 +1,55 @@
+---
+title: Job 38:2
+type: Verse
+kjv: "Who is this that darkeneth counsel by words without knowledge?"
+bsb: "“Who is this who obscures My counsel by words without knowledge?"
+hebrew: "מִ֤י זֶ֨ה׀ מַחְשִׁ֖יךְ עֵצָ֥ה בְמִלִּ֗ין בְּֽלִי־ דָֽעַת׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H4310]]"
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H2821]]"
+- "[[H6098]]"
+- "[[H9003]]"
+- "[[H4405]]"
+- "[[H1097]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:2**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] this that darkeneth counsel by words without knowledge?
 <small><sub>**BSB:**</sub></small>
 “Who is this who obscures My counsel by words without knowledge?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H2088\|זֶ֨ה]][[H9015\|׀]] [[H2821\|מַחְשִׁ֖יךְ]] [[H6098\|עֵצָ֥ה]] [[H9003\|בְ]][[H4405\|מִלִּ֗ין]] [[H1097\|בְּֽלִי]][[H9014\|־]] [[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.1|<< Job 38:1]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.3|Job 38:3 >>]]</td></tr></table>
 

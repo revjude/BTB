@@ -1,8 +1,64 @@
+---
+title: Exodus 26:9
+type: Verse
+kjv: "And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle."
+bsb: "Join five of the curtains into one set and the other six into another. Then fold the sixth curtain over double at the front of the tent."
+hebrew: "וְחִבַּרְתָּ֞ אֶת־ חֲמֵ֤שׁ הַיְרִיעֹת֙ לְבָ֔ד וְאֶת־ שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְכָפַלְתָּ֙ אֶת־ הַיְרִיעָ֣ה הַשִּׁשִּׁ֔ית אֶל־ מ֖וּל פְּנֵ֥י הָאֹֽהֶל׃"
+pericope: "[[Exod.26.7 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2266]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H3407]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H3717]]"
+- "[[H8345]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H6440G]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:9**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle.
 <small><sub>**BSB:**</sub></small>
 Join five of the curtains into one set and the other six into another. Then fold the sixth curtain over double at the front of the tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2266\|חִבַּרְתָּ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H2568\|חֲמֵ֤שׁ]] [[H9009\|הַ]][[H3407\|יְרִיעֹת֙]] [[H9005\|לְ]][[H0905H\|בָ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8337\|שֵׁ֥שׁ]] [[H9009\|הַ]][[H3407\|יְרִיעֹ֖ת]] [[H9005\|לְ]][[H0905H\|בָ֑ד]] [[H9001\|וְ]][[H3717\|כָפַלְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3407\|יְרִיעָ֣ה]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֔ית]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֖וּל]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הָ]][[H0168G\|אֹֽהֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.8|<< Exodus 26:8]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.10|Exodus 26:10 >>]]</td></tr></table>
 

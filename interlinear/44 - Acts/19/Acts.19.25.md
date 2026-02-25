@@ -1,10 +1,59 @@
+---
+title: Acts 19:25
+type: Verse
+kjv: "Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth."
+bsb: "Demetrius assembled the craftsmen, along with the workmen in related trades. “Men,” he said, “you know that this business is our source of prosperity."
+greek: "οὓς συναθροίσας καὶ τοὺς περὶ τὰ τοιαῦτα ἐργάτας εἶπεν· ἄνδρες, ἐπίστασθε ὅτι ἐκ ταύτης τῆς ἐργασίας ἡ εὐπορία ἡμῖν ἐστιν,"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3739]]"
+- "[[G4867]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G5108]]"
+- "[[G2040]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G1987]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G3778]]"
+- "[[G2039]]"
+- "[[G2142]]"
+- "[[G3165]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 19:25**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.
 <small><sub>**BSB:**</sub></small>
 Demetrius assembled the craftsmen, along with the workmen in related trades. “Men,” he said, “you know that this business is our source of prosperity.
-<small><sub>**Literal:**</sub></small>
-whom having brought together also the in such things Workmen he said; Men, you know that from this <the> business the wealth of us is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.24|<< Acts 19:24]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.26|Acts 19:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οὓς]]  [[G4867\|συναθροίσας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4012\|περὶ]]  [[G3588\|τὰ]]  [[G5108\|τοιαῦτα]]  [[G2040\|ἐργάτας]]  [[G2036\|εἶπεν·]]  [[G0435G\|ἄνδρες,]]  [[G1987\|ἐπίστασθε]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3778\|ταύτης]]  [[G3588\|τῆς]]  [[G2039\|ἐργασίας]]  [[G3588\|ἡ]]  [[G2142\|εὐπορία]]  [[G3165\|ἡμῖν]]  [[G1510\|ἐστιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic IDOL|IDOL]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.24|<< Acts 19:24]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.26|Acts 19:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

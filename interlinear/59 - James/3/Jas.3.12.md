@@ -1,10 +1,59 @@
+---
+title: James 3:12
+type: Verse
+kjv: "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+bsb: "My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water."
+greek: "μὴ δύναται, ἀδελφοί μου, συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα; οὕτως οὔτε πηγὴ ἁλυκὸν καὶ γλυκὺ ποιῆσαι ὕδωρ.¶"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G4808]]"
+- "[[G1636]]"
+- "[[G4160G]]"
+- "[[G2228]]"
+- "[[G0288]]"
+- "[[G4810]]"
+- "[[G3779]]"
+- "[[G3777]]"
+- "[[G4077]]"
+- "[[G0252]]"
+- "[[G2532]]"
+- "[[G1099]]"
+- "[[G5204]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **James 3:12**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Can the fig tree, my brethren, bear olive berries? either a vine, figs? so [can] no fountain both yield salt water and fresh.
 <small><sub>**BSB:**</sub></small>
 My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water.
-<small><sub>**Literal:**</sub></small>
-Surely not is able, brothers of mine, a fig tree olives to produce Or a vine figs? thus Nor spring of salt and fresh to produce water.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.11|<< James 3:11]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.13|James 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G1410\|δύναται,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G4808\|συκῆ]]  [[G1636\|ἐλαίας]]  [[G4160G\|ποιῆσαι]]  [[G2228\|ἢ]]  [[G0288\|ἄμπελος]]  [[G4810\|σῦκα;]]  [[G3779\|οὕτως]]  [[G3777\|οὔτε]]  [[G4077\|πηγὴ]]  [[G0252\|ἁλυκὸν]]  [[G2532\|καὶ]]  [[G1099\|γλυκὺ]]  [[G4160G\|ποιῆσαι]]  [[G5204\|ὕδωρ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.11|<< James 3:11]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.13|James 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

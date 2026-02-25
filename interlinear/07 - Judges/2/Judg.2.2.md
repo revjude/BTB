@@ -1,8 +1,69 @@
+---
+title: Judges 2:2
+type: Verse
+kjv: "And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?"
+bsb: "and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?"
+hebrew: "וְאַתֶּ֗ם לֹֽא־ תִכְרְת֤וּ בְרִית֙ לְיֽוֹשְׁבֵי֙ הָאָ֣רֶץ הַזֹּ֔את מִזְבְּחוֹתֵיהֶ֖ם תִּתֹּצ֑וּן וְלֹֽא־ שְׁמַעְתֶּ֥ם בְּקֹלִ֖י מַה־ זֹּ֥את עֲשִׂיתֶֽם׃"
+pericope: "[[Judg.2.1 Israel Rebuked at Bochim|Israel Rebuked at Bochim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H4196]]"
+- "[[H9028]]"
+- "[[H5422]]"
+- "[[H9013]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:2**<big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?
 <small><sub>**BSB:**</sub></small>
 and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֗ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772H\|תִכְרְת֤וּ]] [[H1285\|בְרִית֙]] [[H9005\|לְ]][[H3427\|יֽוֹשְׁבֵי֙]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H4196\|מִזְבְּחוֹתֵי]][[H9028\|הֶ֖ם]] [[H5422\|תִּתֹּצ֑וּ]][[H9013\|ן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שְׁמַעְתֶּ֥ם]] [[H9003\|בְּ]][[H6963A\|קֹלִ֖]][[H9020\|י]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֥את]] [[H6213A\|עֲשִׂיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.1|<< Judges 2:1]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.3|Judges 2:3 >>]]</td></tr></table>
 

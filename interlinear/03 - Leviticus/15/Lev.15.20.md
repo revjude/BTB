@@ -1,8 +1,62 @@
+---
+title: Leviticus 15:20
+type: Verse
+kjv: "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean."
+bsb: "Anything on which she lies or sits during her menstruation will be unclean,"
+hebrew: "וְכֹל֩ אֲשֶׁ֨ר תִּשְׁכַּ֥ב עָלָ֛יו בְּנִדָּתָ֖הּ יִטְמָ֑א וְכֹ֛ל אֲשֶׁר־ תֵּשֵׁ֥ב עָלָ֖יו יִטְמָֽא׃"
+pericope: "[[Lev.15.19 The Uncleanness of Women|The Uncleanness of Women]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5079]]"
+- "[[H9024]]"
+- "[[H2930A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:20**<big><big>[[Lev.15.19 The Uncleanness of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.
 <small><sub>**BSB:**</sub></small>
 Anything on which she lies or sits during her menstruation will be unclean,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H7901G\|תִּשְׁכַּ֥ב]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9003\|בְּ]][[H5079\|נִדָּתָ֖]][[H9024\|הּ]] [[H2930A\|יִטְמָ֑א]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|תֵּשֵׁ֥ב]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H2930A\|יִטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic MENSTRUATION|MENSTRUATION]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.19|<< Leviticus 15:19]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.21|Leviticus 15:21 >>]]</td></tr></table>
 

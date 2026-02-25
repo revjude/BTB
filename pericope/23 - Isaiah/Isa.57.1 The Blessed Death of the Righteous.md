@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blessed Death of the Righteous
+type: Pericope
 pericope: "[[Isa.57.1 The Blessed Death of the Righteous|The Blessed Death of the Righteous]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 57
 book/chapter: "[[Isa.57|Isaiah 57]]"
-genre:
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 2
 verses:
 - "[[Isa.57.1]]"
 - "[[Isa.57.2]]"
 ---
 
-[[Isa.57|Isaiah 57:1 - Isaiah 57:2]]
+<small>[[Isa.57|Isaiah 57:1-2]]</small>
 *The Blessed Death of the Righteous*
 
 [[Isa.57.1|1]] The righteous perisheth, and no man layeth \[it\] to heart: and merciful men \[are\] taken away, none considering that the righteous is taken away from the evil \[to come\].

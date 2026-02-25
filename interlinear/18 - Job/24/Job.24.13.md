@@ -1,8 +1,59 @@
+---
+title: Job 24:13
+type: Verse
+kjv: "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof."
+bsb: "Then there are those who rebel against the light, not knowing its ways or staying on its paths."
+hebrew: "הֵ֤מָּה׀ הָיוּ֮ בְּֽמֹרְדֵ֫י־ א֥וֹר לֹֽא־ הִכִּ֥ירוּ דְרָכָ֑יו וְלֹ֥א יָ֝שְׁב֗וּ בִּנְתִיבֹתָֽיו׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1992]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4775]]"
+- "[[H9014]]"
+- "[[H0216]]"
+- "[[H3808]]"
+- "[[H5234A]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5410B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:13**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.
 <small><sub>**BSB:**</sub></small>
 Then there are those who rebel against the light, not knowing its ways or staying on its paths.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֤מָּה]][[H9015\|׀]] [[H1961\|הָיוּ֮]] [[H9003\|בְּֽ]][[H4775\|מֹרְדֵ֫י]][[H9014\|־]] [[H0216\|א֥וֹר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5234A\|הִכִּ֥ירוּ]] [[H1870G\|דְרָכָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3427\|יָ֝שְׁב֗וּ]] [[H9003\|בִּ]][[H5410B\|נְתִיבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.12|<< Job 24:12]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.14|Job 24:14 >>]]</td></tr></table>
 

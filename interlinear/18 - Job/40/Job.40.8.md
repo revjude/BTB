@@ -1,8 +1,51 @@
+---
+title: Job 40:8
+type: Verse
+kjv: "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+bsb: "Would you really annul My justice? Would you condemn Me to justify yourself?"
+hebrew: "הַ֭אַף תָּפֵ֣ר מִשְׁפָּטִ֑י תַּ֝רְשִׁיעֵ֗נִי לְמַ֣עַן תִּצְדָּֽק׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H0637]]"
+- "[[H6565A]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H7561]]"
+- "[[H9030]]"
+- "[[H4616]]"
+- "[[H6663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:8**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?
 <small><sub>**BSB:**</sub></small>
 Would you really annul My justice? Would you condemn Me to justify yourself?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ֭]][[H0637\|אַף]] [[H6565A\|תָּפֵ֣ר]] [[H4941G\|מִשְׁפָּטִ֑]][[H9020\|י]] [[H7561\|תַּ֝רְשִׁיעֵ֗]][[H9030\|נִי]] [[H4616\|לְמַ֣עַן]] [[H6663\|תִּצְדָּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.7|<< Job 40:7]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.9|Job 40:9 >>]]</td></tr></table>
 

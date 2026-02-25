@@ -1,8 +1,64 @@
+---
+title: Jeremiah 26:14
+type: Verse
+kjv: "As for me, behold, I am in your hand: do with me as seemeth good and meet unto you."
+bsb: "As for me, here I am in your hands; do to me what you think is good and right."
+hebrew: "וַאֲנִ֖י הִנְנִ֣י בְיֶדְכֶ֑ם עֲשׂוּ־ לִ֛י כַּטּ֥וֹב וְכַיָּשָׁ֖ר בְּעֵינֵיכֶֽם׃"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H2896A]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:14**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, behold, I [am] in your hand: do with me as seemeth good and meet unto you.
 <small><sub>**BSB:**</sub></small>
 As for me, here I am in your hands; do to me what you think is good and right.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H9003\|בְ]][[H3027G\|יֶדְ]][[H9026\|כֶ֑ם]] [[H6213A\|עֲשׂוּ]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H9004\|כַּ]][[H2896A\|טּ֥וֹב]] [[H9002\|וְ]][[H9004\|כַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.13|<< Jeremiah 26:13]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.15|Jeremiah 26:15 >>]]</td></tr></table>
 

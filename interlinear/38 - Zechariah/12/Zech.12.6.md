@@ -1,8 +1,73 @@
+---
+title: Zechariah 12:6
+type: Verse
+kjv: "In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, even in Jerusalem."
+bsb: "On that day I will make the clans of Judah like a firepot in a woodpile, like a flaming torch among the sheaves; they will consume all the peoples around them on the right and on the left, while the people of Jerusalem remain secure there."
+hebrew: "בַּיּ֣וֹם הַה֡וּא אָשִׂים֩ אֶת־ אַלֻּפֵ֨י יְהוּדָ֜ה כְּֽכִיּ֧וֹר אֵ֣שׁ בְּעֵצִ֗ים וּכְלַפִּ֥יד אֵשׁ֙ בְּעָמִ֔יר וְאָ֨כְל֜וּ עַל־ יָמִ֧ין וְעַל־ שְׂמֹ֛אול אֶת־ כָּל־ הָעַמִּ֖ים סָבִ֑יב וְיָשְׁבָ֨ה יְרוּשָׁלִַ֥ם ע֛וֹד תַּחְתֶּ֖יהָ בִּירוּשָׁלִָֽם׃ פ"
+pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0441B]]"
+- "[[H3063G]]"
+- "[[H9004]]"
+- "[[H3595]]"
+- "[[H0784]]"
+- "[[H6086G]]"
+- "[[H9002]]"
+- "[[H3940]]"
+- "[[H5995]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H5921A]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H5439G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H5750]]"
+- "[[H8478I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Zechariah 12:6**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, [even] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 On that day I will make the clans of Judah like a firepot in a woodpile, like a flaming torch among the sheaves; they will consume all the peoples around them on the right and on the left, while the people of Jerusalem remain secure there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֡וּא]] [[H7760A\|אָשִׂים֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0441B\|אַלֻּפֵ֨י]] [[H3063G\|יְהוּדָ֜ה]] [[H9004\|כְּֽ]][[H3595\|כִיּ֧וֹר]] [[H0784\|אֵ֣שׁ]] [[H9003\|בְּ]][[H6086G\|עֵצִ֗ים]] [[H9002\|וּ]][[H9004\|כְ]][[H3940\|לַפִּ֥יד]] [[H0784\|אֵשׁ֙]] [[H9003\|בְּ]][[H5995\|עָמִ֔יר]] [[H9001\|וְ]][[H0398\|אָ֨כְל֜וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יָמִ֧ין]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8040G\|שְׂמֹ֛אול]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֖ים]] [[H5439G\|סָבִ֑יב]] [[H9001\|וְ]][[H3427\|יָשְׁבָ֨ה]] [[H3389\|יְרוּשָׁלִַ֥ם]] [[H5750\|ע֛וֹד]] [[H8478I\|תַּחְתֶּ֖י]][[H9034\|הָ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.5|<< Zechariah 12:5]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.7|Zechariah 12:7 >>]]</td></tr></table>
 
@@ -33,7 +98,7 @@ On that day I will make the clans of Judah like a firepot in a woodpile, like a 
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֥ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֛וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in place its  |**<big>&#8207;[[H8478I\|תַּחְתֶּ֖י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| tach.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.5|<< Zechariah 12:5]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.7|Zechariah 12:7 >>]]</td></tr></table>
 
 

@@ -1,8 +1,71 @@
+---
+title: Ezra 9:15
+type: Verse
+kjv: "O LORD God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this."
+bsb: "O LORD, God of Israel, You are righteous! For we remain this day as a remnant. Here we are before You in our guilt, though because of it no one can stand before You.”"
+hebrew: "יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ צַדִּ֣יק אַ֔תָּה כִּֽי־ נִשְׁאַ֥רְנוּ פְלֵיטָ֖ה כְּהַיּ֣וֹם הַזֶּ֑ה הִנְנ֤וּ לְפָנֶ֙יךָ֙ בְּאַשְׁמָתֵ֔ינוּ כִּ֣י אֵ֥ין לַעֲמ֛וֹד לְפָנֶ֖יךָ עַל־ זֹֽאת׃ פ"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H6662]]"
+- "[[H0859A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7604]]"
+- "[[H6413]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H2005]]"
+- "[[H9045]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0819]]"
+- "[[H9025]]"
+- "[[H0369]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H2063]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 9:15**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of Israel, thou [art] righteous: for we remain yet escaped, as [it is] this day: behold, we [are] before thee in our trespasses: for we cannot stand before thee because of this.
 <small><sub>**BSB:**</sub></small>
 O LORD, God of Israel, You are righteous! For we remain this day as a remnant. Here we are before You in our guilt, though because of it no one can stand before You.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H6662\|צַדִּ֣יק]] [[H0859A\|אַ֔תָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7604\|נִשְׁאַ֥רְנוּ]] [[H6413\|פְלֵיטָ֖ה]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H2005\|הִנְ]][[H9045\|נ֤וּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H0819\|אַשְׁמָתֵ֔י]][[H9025\|נוּ]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H9005\|לַ]][[H5975G\|עֲמ֛וֹד]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹֽאת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.14|<< Ezra 9:14]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.1|Ezra 10:1 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ O LORD, God of Israel, You are righteous! For we remain this day as a remnant. H
 | to stand  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5975G\|עֲמ֛וֹד]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Mod<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.14|<< Ezra 9:14]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.1|Ezra 10:1 >>]]</td></tr></table>
 
 

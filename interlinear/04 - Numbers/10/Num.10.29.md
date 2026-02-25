@@ -1,8 +1,86 @@
+---
+title: Numbers 10:29
+type: Verse
+kjv: "And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel."
+bsb: "Then Moses said to Hobab, the son of Moses’ father-in-law Reuel the Midianite, “We are setting out for the place of which the LORD said: ‘I will give it to you.’ Come with us, and we will treat you well, for the LORD has promised good things to Israel.”"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֗ה לְ֠חֹבָב בֶּן־ רְעוּאֵ֣ל הַמִּדְיָנִי֮ חֹתֵ֣ן מֹשֶׁה֒ נֹסְעִ֣ים׀ אֲנַ֗חְנוּ אֶל־ הַמָּקוֹם֙ אֲשֶׁ֣ר אָמַ֣ר יְהוָ֔ה אֹת֖וֹ אֶתֵּ֣ן לָכֶ֑ם לְכָ֤ה אִתָּ֙נוּ֙ וְהֵטַ֣בְנוּ לָ֔ךְ כִּֽי־ יְהוָ֥ה דִּבֶּר־ ט֖וֹב עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOBAB|HOBAB]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RAGUEL|RAGUEL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H2246]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7467J]]"
+- "[[H9009]]"
+- "[[H4084]]"
+- "[[H2859A]]"
+- "[[H5265]]"
+- "[[H9015]]"
+- "[[H0587]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H1980H]]"
+- "[[H9012]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H3190]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H1696I]]"
+- "[[H2896A]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:29**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.
 <small><sub>**BSB:**</sub></small>
 Then Moses said to Hobab, the son of Moses’ father-in-law Reuel the Midianite, “We are setting out for the place of which the LORD said: ‘I will give it to you.’ Come with us, and we will treat you well, for the LORD has promised good things to Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֗ה]] [[H9005\|לְ֠]][[H2246\|חֹבָב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7467J\|רְעוּאֵ֣ל]] [[H9009\|הַ]][[H4084\|מִּדְיָנִי֮]] [[H2859A\|חֹתֵ֣ן]] [[H4872\|מֹשֶׁה֒]] [[H5265\|נֹסְעִ֣ים]][[H9015\|׀]] [[H0587\|אֲנַ֗חְנוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5414G\|אֶתֵּ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H1980H\|לְכָ֤]][[H9012\|ה]] [[H0854\|אִתָּ֙]][[H9035\|נוּ֙]] [[H9001\|וְ]][[H3190\|הֵטַ֣בְנוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H1696I\|דִּבֶּר]][[H9014\|־]] [[H2896A\|ט֖וֹב]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOBAB|HOBAB]] • [[topic ISRAEL|ISRAEL]] • [[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic RAGUEL|RAGUEL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.28|<< Numbers 10:28]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.30|Numbers 10:30 >>]]</td></tr></table>
 

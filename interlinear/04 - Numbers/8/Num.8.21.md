@@ -1,8 +1,66 @@
+---
+title: Numbers 8:21
+type: Verse
+kjv: "And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them."
+bsb: "The Levites purified themselves and washed their clothes, and Aaron presented them as a wave offering before the LORD. Aaron also made atonement for them to cleanse them."
+hebrew: "וַיִּֽתְחַטְּא֣וּ הַלְוִיִּ֗ם וַֽיְכַבְּסוּ֙ בִּגְדֵיהֶ֔ם וַיָּ֨נֶף אַהֲרֹ֥ן אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה וַיְכַפֵּ֧ר עֲלֵיהֶ֛ם אַהֲרֹ֖ן לְטַהֲרָֽם׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9028]]"
+- "[[H5130B]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:21**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites were purified, and they washed their clothes; and Aaron offered them [as] an offering before the LORD; and Aaron made an atonement for them to cleanse them.
 <small><sub>**BSB:**</sub></small>
 The Levites purified themselves and washed their clothes, and Aaron presented them as a wave offering before the LORD. Aaron also made atonement for them to cleanse them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2398\|יִּֽתְחַטְּא֣וּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H9001\|וַֽ]][[H3526H\|יְכַבְּסוּ֙]] [[H0899B\|בִּגְדֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H5130B\|יָּ֨נֶף]] [[H0175\|אַהֲרֹ֥ן]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3722A\|יְכַפֵּ֧ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לְ]][[H2891\|טַהֲרָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.20|<< Numbers 8:20]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.22|Numbers 8:22 >>]]</td></tr></table>
 

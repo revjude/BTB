@@ -1,8 +1,65 @@
+---
+title: Leviticus 25:22
+type: Verse
+kjv: "And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store."
+bsb: "While you are sowing in the eighth year, you will be eating from the previous harvest, until the ninth year’s harvest comes in."
+hebrew: "וּזְרַעְתֶּ֗ם אֵ֚ת הַשָּׁנָ֣ה הַשְּׁמִינִ֔ת וַאֲכַלְתֶּ֖ם מִן־ הַתְּבוּאָ֣ה יָשָׁ֑ן עַ֣ד׀ הַשָּׁנָ֣ה הַתְּשִׁיעִ֗ת עַד־ בּוֹא֙ תְּב֣וּאָתָ֔הּ תֹּאכְל֖וּ יָשָֽׁן׃"
+pericope: "[[Lev.25.18 The Blessing of Obedience|The Blessing of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2232]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H8066]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H3465H]]"
+- "[[H5704]]"
+- "[[H9015]]"
+- "[[H8671]]"
+- "[[H0935G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:22**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall sow the eighth year, and eat [yet] of old fruit until the ninth year; until her fruits come in ye shall eat [of] the old [store].
 <small><sub>**BSB:**</sub></small>
 While you are sowing in the eighth year, you will be eating from the previous harvest, until the ninth year’s harvest comes in.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H2232\|זְרַעְתֶּ֗ם]] [[H0853\|אֵ֚ת]] [[H9009\|הַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֔ת]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֖ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8393\|תְּבוּאָ֣ה]] [[H3465H\|יָשָׁ֑ן]] [[H5704\|עַ֣ד]][[H9015\|׀]] [[H9009\|הַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H8671\|תְּשִׁיעִ֗ת]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בּוֹא֙]] [[H8393\|תְּב֣וּאָתָ֔]][[H9024\|הּ]] [[H0398\|תֹּאכְל֖וּ]] [[H3465H\|יָשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.21|<< Leviticus 25:21]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.23|Leviticus 25:23 >>]]</td></tr></table>
 

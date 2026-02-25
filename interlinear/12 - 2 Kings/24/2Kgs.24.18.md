@@ -1,8 +1,65 @@
+---
+title: 2 Kings 24:18
+type: Verse
+kjv: "Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah."
+bsb: "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְאַחַ֤ת שָׁנָה֙ צִדְקִיָּ֣הוּ בְמָלְכ֔וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ חֲמוּטַ֥ל בַּֽת־ יִרְמְיָ֖הוּ מִלִּבְנָֽה׃"
+pericope: "[[2Kgs.24.18 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HAMUTAL|HAMUTAL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H8141]]"
+- "[[H6667H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H2537]]"
+- "[[H1323G]]"
+- "[[H3414G]]"
+- "[[H9006]]"
+- "[[H3841H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 24:18**<big><big>[[2Kgs.24.18 Zedekiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zedekiah [was] twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name [was] Hamutal, the daughter of Jeremiah of Libnah.
 <small><sub>**BSB:**</sub></small>
 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H8141\|שָׁנָה֙]] [[H6667H\|צִדְקִיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H2537\|חֲמוּטַ֥ל]] [[H1323G\|בַּֽת]][[H9014\|־]] [[H3414G\|יִרְמְיָ֖הוּ]] [[H9006\|מִ]][[H3841H\|לִּבְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMUTAL|HAMUTAL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.17|<< 2 Kings 24:17]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.19|2 Kings 24:19 >>]]</td></tr></table>
 

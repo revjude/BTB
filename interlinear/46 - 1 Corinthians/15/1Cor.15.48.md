@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 15:48
+type: Verse
+kjv: "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly."
+bsb: "As was the earthly man, so also are those who are of the earth; and as is the heavenly man, so also are those who are of heaven."
+greek: "οἷος ὁ χοϊκός, τοιοῦτοι καὶ οἱ χοϊκοί, καὶ οἷος ὁ ἐπουράνιος, τοιοῦτοι καὶ οἱ ἐπουράνιοι·"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3634]]"
+- "[[G3588]]"
+- "[[G5517]]"
+- "[[G5108]]"
+- "[[G2532]]"
+- "[[G2032]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:48**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As [is] the earthy, such [are] they also that are earthy: and as [is] the heavenly, such [are] they also that are heavenly.
 <small><sub>**BSB:**</sub></small>
 As was the earthly man, so also are those who are of the earth; and as is the heavenly man, so also are those who are of heaven.
-<small><sub>**Literal:**</sub></small>
-As the [one] made of dust, so also [are] those of the earth, and as the heavenly [one], so also those of heaven;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.47|<< 1 Corinthians 15:47]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.49|1 Corinthians 15:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3634\|οἷος]]  [[G3588\|ὁ]]  [[G5517\|χοϊκός,]]  [[G5108\|τοιοῦτοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5517\|χοϊκοί,]]  [[G2532\|καὶ]]  [[G3634\|οἷος]]  [[G3588\|ὁ]]  [[G2032\|ἐπουράνιος,]]  [[G5108\|τοιοῦτοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2032\|ἐπουράνιοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MAN|MAN]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.47|<< 1 Corinthians 15:47]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.49|1 Corinthians 15:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

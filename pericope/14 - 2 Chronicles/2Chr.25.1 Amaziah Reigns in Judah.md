@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amaziah Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.25.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 25
 book/chapter: "[[2Chr.25|2 Chronicles 25]]"
-genre:
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.25.1]]"
 - "[[2Chr.25.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.25.4]]"
 ---
 
-[[2Chr.25|2 Chronicles 25:1 - 2 Chronicles 25:4]]
+<small>[[2Chr.25|2 Chronicles 25:1-4]]</small>
 *Amaziah Reigns in Judah*
 
 [[2Chr.25.1|1]] Amaziah \[was\] twenty and five years old \[when\] he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name \[was\] Jehoaddan of Jerusalem.

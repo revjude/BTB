@@ -1,8 +1,61 @@
+---
+title: Ezekiel 32:21
+type: Verse
+kjv: "The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword."
+bsb: "Mighty chiefs will speak from the midst of Sheol about Egypt and her allies: ‘They have come down and lie with the uncircumcised, with those slain by the sword.’"
+hebrew: "יְדַבְּרוּ־ ל֞וֹ אֵלֵ֧י גִבּוֹרִ֛ים מִתּ֥וֹךְ שְׁא֖וֹל אֶת־ עֹֽזְרָ֑יו יָֽרְד֛וּ שָׁכְב֥וּ הָעֲרֵלִ֖ים חַלְלֵי־ חָֽרֶב׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0352C]]"
+- "[[H1368]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H7585]]"
+- "[[H0854]]"
+- "[[H5826]]"
+- "[[H3381]]"
+- "[[H7901G]]"
+- "[[H9009]]"
+- "[[H6189]]"
+- "[[H2491A]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:21**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
 <small><sub>**BSB:**</sub></small>
 Mighty chiefs will speak from the midst of Sheol about Egypt and her allies: ‘They have come down and lie with the uncircumcised, with those slain by the sword.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|יְדַבְּרוּ]][[H9014\|־]] [[H9005\|ל֞]][[H9033\|וֹ]] [[H0352C\|אֵלֵ֧י]] [[H1368\|גִבּוֹרִ֛ים]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H7585\|שְׁא֖וֹל]] [[H0854\|אֶת]][[H9014\|־]] [[H5826\|עֹֽזְרָ֑י]][[H9033\|ו]] [[H3381\|יָֽרְד֛וּ]] [[H7901G\|שָׁכְב֥וּ]] [[H9009\|הָ]][[H6189\|עֲרֵלִ֖ים]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELL|HELL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.20|<< Ezekiel 32:20]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.22|Ezekiel 32:22 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 31:14
+type: Verse
+kjv: "And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation."
+bsb: "Then the LORD said to Moses, “Behold, the time of your death is near. Call Joshua and present yourselves at the Tent of Meeting, so that I may commission him.” So Moses and Joshua went and presented themselves at the Tent of Meeting."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה הֵ֣ן קָרְב֣וּ יָמֶיךָ֮ לָמוּת֒ קְרָ֣א אֶת־ יְהוֹשֻׁ֗עַ וְהִֽתְיַצְּב֛וּ בְּאֹ֥הֶל מוֹעֵ֖ד וַאֲצַוֶּ֑נּוּ וַיֵּ֤לֶךְ מֹשֶׁה֙ וִֽיהוֹשֻׁ֔עַ וַיִּֽתְיַצְּב֖וּ בְּאֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H2005]]"
+- "[[H7126G]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H7121G]]"
+- "[[H0853]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3320]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:14**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Behold, the time of your death is near. Call Joshua and present yourselves at the Tent of Meeting, so that I may commission him.” So Moses and Joshua went and presented themselves at the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H2005\|הֵ֣ן]] [[H7126G\|קָרְב֣וּ]] [[H3117G\|יָמֶי]][[H9021\|ךָ֮]] [[H9005\|לָ]][[H4191\|מוּת֒]] [[H7121G\|קְרָ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H9002\|וְ]][[H3320\|הִֽתְיַצְּב֛וּ]] [[H9003\|בְּ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וַ]][[H6680\|אֲצַוֶּ֑]][[H9033\|נּוּ]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וִֽ]][[H3091G\|יהוֹשֻׁ֔עַ]] [[H9001\|וַ]][[H3320\|יִּֽתְיַצְּב֖וּ]] [[H9003\|בְּ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.13|<< Deuteronomy 31:13]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.15|Deuteronomy 31:15 >>]]</td></tr></table>
 

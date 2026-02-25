@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 20:17
+type: Verse
+kjv: "And when he was come near unto her, the woman said, Art thou Joab? And he answered, I am he. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear."
+bsb: "When he had come near to her, the woman asked, “Are you Joab?” “I am,” he replied. “Listen to the words of your servant,” she said. “I am listening,” he answered."
+hebrew: "וַיִּקְרַ֣ב אֵלֶ֔יהָ וַתֹּ֧אמֶר הָאִשָּׁ֛ה הַאַתָּ֥ה יוֹאָ֖ב וַיֹּ֣אמֶר אָ֑נִי וַתֹּ֣אמֶר ל֗וֹ שְׁמַע֙ דִּבְרֵ֣י אֲמָתֶ֔ךָ וַיֹּ֖אמֶר שֹׁמֵ֥עַ אָנֹֽכִי׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9008]]"
+- "[[H0859A]]"
+- "[[H3097G]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H0595]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:17**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was come near unto her, the woman said, [Art] thou Joab? And he answered, I [am he]. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear.
 <small><sub>**BSB:**</sub></small>
 When he had come near to her, the woman asked, “Are you Joab?” “I am,” he replied. “Listen to the words of your servant,” she said. “I am listening,” he answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|יִּקְרַ֣ב]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֛ה]] [[H9008\|הַ]][[H0859A\|אַתָּ֥ה]] [[H3097G\|יוֹאָ֖ב]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0589\|אָ֑נִי]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H8085G\|שְׁמַע֙]] [[H1697G\|דִּבְרֵ֣י]] [[H0519\|אֲמָתֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H8085G\|שֹׁמֵ֥עַ]] [[H0595\|אָנֹֽכִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.16|<< 2 Samuel 20:16]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.18|2 Samuel 20:18 >>]]</td></tr></table>
 

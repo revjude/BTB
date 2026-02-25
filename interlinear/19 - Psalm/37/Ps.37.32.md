@@ -1,8 +1,55 @@
+---
+title: Psalm 37:32
+type: Verse
+kjv: "The wicked watcheth the righteous, and seeketh to slay him."
+bsb: "Though the wicked lie in wait for the righteous, and seek to slay them,"
+hebrew: "צוֹפֶ֣ה רָ֭שָׁע לַצַּדִּ֑יק וּ֝מְבַקֵּ֗שׁ לַהֲמִיתוֹ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H6822]]"
+- "[[H7563]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:32**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked watcheth the righteous, and seeketh to slay him.
 <small><sub>**BSB:**</sub></small>
 Though the wicked lie in wait for the righteous, and seek to slay them,
+<small><sub>**Hebrew:**</sub></small>
+[[H6822\|צוֹפֶ֣ה]] [[H7563\|רָ֭שָׁע]] [[H9005\|לַ]][[H6662\|צַּדִּ֑יק]] [[H9002\|וּ֝]][[H1245\|מְבַקֵּ֗שׁ]] [[H9005\|לַ]][[H4191\|הֲמִית]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.31|<< Psalms 37:31]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.33|Psalms 37:33 >>]]</td></tr></table>
 

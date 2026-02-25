@@ -1,10 +1,58 @@
+---
+title: Mark 8:29
+type: Verse
+kjv: "And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ."
+bsb: "“But what about you?” Jesus asked. “Who do you say I am?” Peter answered, “You are the Christ.”"
+jesus_said: "But whom say ye that I am?"
+greek: "καὶ αὐτὸς ἐπηρώτα αὐτούς· ὑμεῖς δὲ τίνα με λέγετε εἶναι; ἀποκριθεὶς δὲ ὁ Πέτρος λέγει αὐτῷ· σὺ εἶ ὁ χριστός."
+pericope: "[[Mark.8.27 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1905]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G1511]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G1510]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 8:29**<big><big>[[Mark.8.27 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ.
 <small><sub>**BSB:**</sub></small>
 “But what about you?” Jesus asked. “Who do you say I am?” Peter answered, “You are the Christ.”
-<small><sub>**Literal:**</sub></small>
-And He himself was questioning them; You yourselves however whom Me do pronounce to be? Answering now <the> Peter says to Him; You yourself are the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.28|<< Mark 8:28]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.30|Mark 8:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτούς·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G5101\|τίνα]]  [[G3165\|με]]  [[G3004G\|λέγετε]]  [[G1511\|εἶναι;]]  [[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.28|<< Mark 8:28]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.30|Mark 8:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

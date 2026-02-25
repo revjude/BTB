@@ -1,8 +1,69 @@
+---
+title: Exodus 10:9
+type: Verse
+kjv: "And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the LORD."
+bsb: "“We will go with our young and old,” Moses replied. “We will go with our sons and daughters, and with our flocks and herds, for we must hold a feast to the LORD.”"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֔ה בִּנְעָרֵ֥ינוּ וּבִזְקֵנֵ֖ינוּ נֵלֵ֑ךְ בְּבָנֵ֨ינוּ וּבִבְנוֹתֵ֜נוּ בְּצֹאנֵ֤נוּ וּבִבְקָרֵ֙נוּ֙ נֵלֵ֔ךְ כִּ֥י חַג־ יְהוָ֖ה לָֽנוּ׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H5288]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H2205H]]"
+- "[[H1980G]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H3588A]]"
+- "[[H2282]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:9**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we [must hold] a feast unto the LORD.
 <small><sub>**BSB:**</sub></small>
 “We will go with our young and old,” Moses replied. “We will go with our sons and daughters, and with our flocks and herds, for we must hold a feast to the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֔ה]] [[H9003\|בִּ]][[H5288\|נְעָרֵ֥י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בִ]][[H2205H\|זְקֵנֵ֖י]][[H9025\|נוּ]] [[H1980G\|נֵלֵ֑ךְ]] [[H9003\|בְּ]][[H1121A\|בָנֵ֨י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בִ]][[H1323G\|בְנוֹתֵ֜]][[H9025\|נוּ]] [[H9003\|בְּ]][[H6629G\|צֹאנֵ֤]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בִ]][[H1241\|בְקָרֵ֙]][[H9025\|נוּ֙]] [[H1980G\|נֵלֵ֔ךְ]] [[H3588A\|כִּ֥י]] [[H2282\|חַג]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.8|<< Exodus 10:8]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.10|Exodus 10:10 >>]]</td></tr></table>
 

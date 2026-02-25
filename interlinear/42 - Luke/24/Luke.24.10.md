@@ -1,10 +1,66 @@
+---
+title: Luke 24:10
+type: Verse
+kjv: "It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles."
+bsb: "It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles."
+greek: "ἦσαν δὲ ἡ Μαγδαληνὴ Μαρία καὶ Ἰωάννα καὶ Μαρία ἡ Ἰακώβου καὶ αἱ λοιπαὶ σὺν αὐταῖς· αἳ ἔλεγον πρὸς τοὺς ἀποστόλους ταῦτα,"
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOANNA|JOANNA]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3094]]"
+- "[[G3137I]]"
+- "[[G2532]]"
+- "[[G2489]]"
+- "[[G3137G]]"
+- "[[G2385I]]"
+- "[[G3062]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0652]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 24:10**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It was Mary Magdalene, and Joanna, and Mary [the mother] of James, and other [women that were] with them, which told these things unto the apostles.
 <small><sub>**BSB:**</sub></small>
 It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.
-<small><sub>**Literal:**</sub></small>
-It was now <the> Magdalene Mary and Joanna and Mary the [mother] of James and the other women with them; who were telling to the apostles these things,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.9|<< Luke 24:9]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.11|Luke 24:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G3137I\|Μαρία]]  [[G2532\|καὶ]]  [[G2489\|Ἰωάννα]]  [[G2532\|καὶ]]  [[G3137G\|Μαρία]]  [[G3588\|ἡ]]  [[G2385I\|Ἰακώβου]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G3062\|λοιπαὶ]]  [[G4862\|σὺν]]  [[G0846\|αὐταῖς·]]  [[G3739\|αἳ]]  [[G3004G\|ἔλεγον]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0652\|ἀποστόλους]]  [[G3778\|ταῦτα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOANNA|JOANNA]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.9|<< Luke 24:9]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.11|Luke 24:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

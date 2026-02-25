@@ -1,10 +1,59 @@
+---
+title: Colossians 4:3
+type: Verse
+kjv: "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:"
+bsb: "as you pray also for us, that God may open to us a door for the word, so that we may proclaim the mystery of Christ, for which I am in chains."
+greek: "προσευχόμενοι ἅμα καὶ περὶ ἡμῶν ἵνα ὁ θεὸς ἀνοίξῃ ἡμῖν θύραν τοῦ λόγου λαλῆσαι τὸ μυστήριον τοῦ Χριστοῦ, δι᾽ ὃ καὶ δέδεμαι,"
+pericope: "[[Col.4.1 Prayerful Speech and Actions|Prayerful Speech and Actions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G4336]]"
+- "[[G0260]]"
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0455]]"
+- "[[G2374]]"
+- "[[G3056]]"
+- "[[G2980]]"
+- "[[G3466]]"
+- "[[G5547]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G1210]]"
+texts:
+- NKO
+---
+
 **Colossians 4:3**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 <small><sub>**BSB:**</sub></small>
 as you pray also for us, that God may open to us a door for the word, so that we may proclaim the mystery of Christ, for which I am in chains.
-<small><sub>**Literal:**</sub></small>
-praying at the same time also for us that <the> God may open to us a door for the word to declare the mystery <the> of Christ, on account of which also I have been bound,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.2|<< Colossians 4:2]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.4|Colossians 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4336\|προσευχόμενοι]]  [[G0260\|ἅμα]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν]]  [[G2443\|ἵνα]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0455\|ἀνοίξῃ]]  [[G3165\|ἡμῖν]]  [[G2374\|θύραν]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G2980\|λαλῆσαι]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G1223\|δι᾽]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G1210\|δέδεμαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.2|<< Colossians 4:2]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.4|Colossians 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

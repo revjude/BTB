@@ -1,8 +1,50 @@
+---
+title: Esther 5:7
+type: Verse
+kjv: "Then answered Esther, and said, My petition and my request is;"
+bsb: "Esther replied, “This is my petition and my request:"
+hebrew: "וַתַּ֥עַן אֶסְתֵּ֖ר וַתֹּאמַ֑ר שְׁאֵלָתִ֖י וּבַקָּשָׁתִֽי׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0635]]"
+- "[[H0559]]"
+- "[[H7596]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1246]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:7**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Esther, and said, My petition and my request [is];
 <small><sub>**BSB:**</sub></small>
 Esther replied, “This is my petition and my request:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|תַּ֥עַן]] [[H0635\|אֶסְתֵּ֖ר]] [[H9001\|וַ]][[H0559\|תֹּאמַ֑ר]] [[H7596\|שְׁאֵלָתִ֖]][[H9020\|י]] [[H9002\|וּ]][[H1246\|בַקָּשָׁתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.6|<< Esther 5:6]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.8|Esther 5:8 >>]]</td></tr></table>
 

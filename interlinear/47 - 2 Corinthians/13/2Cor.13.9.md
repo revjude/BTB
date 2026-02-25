@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 13:9
+type: Verse
+kjv: "For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection."
+bsb: "In fact, we rejoice when we are weak but you are strong, and our prayer is for your perfection."
+greek: "χαίρομεν γὰρ ὅταν ἡμεῖς ἀσθενῶμεν, ὑμεῖς δὲ δυνατοὶ ἦτε· τοῦτο δὲ καὶ εὐχόμεθα, τὴν ὑμῶν κατάρτισιν."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5463]]"
+- "[[G1063]]"
+- "[[G3752]]"
+- "[[G3165]]"
+- "[[G0770G]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G2172]]"
+- "[[G3588]]"
+- "[[G2676]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 13:9**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we are glad, when we are weak, and ye are strong: and this also we wish, [even] your perfection.
 <small><sub>**BSB:**</sub></small>
 In fact, we rejoice when we are weak but you are strong, and our prayer is for your perfection.
-<small><sub>**Literal:**</sub></small>
-We rejoice for when we ourselves may be weak, you yourselves however strong may be; But this now also We pray for the of you perfection.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.8|<< 2 Corinthians 13:8]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.10|2 Corinthians 13:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5463\|χαίρομεν]]  [[G1063\|γὰρ]]  [[G3752\|ὅταν]]  [[G3165\|ἡμεῖς]]  [[G0770G\|ἀσθενῶμεν,]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G1415\|δυνατοὶ]]  [[G1510\|ἦτε·]]  [[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2172\|εὐχόμεθα,]]  [[G3588\|τὴν]]  [[G4771\|ὑμῶν]]  [[G2676\|κατάρτισιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic PERFECTION|PERFECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.8|<< 2 Corinthians 13:8]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.10|2 Corinthians 13:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

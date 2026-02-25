@@ -1,8 +1,64 @@
+---
+title: Exodus 28:36
+type: Verse
+kjv: "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLINESS TO THE LORD."
+bsb: "You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD."
+hebrew: "וְעָשִׂ֥יתָ צִּ֖יץ זָהָ֣ב טָה֑וֹר וּפִתַּחְתָּ֤ עָלָיו֙ פִּתּוּחֵ֣י חֹתָ֔ם קֹ֖דֶשׁ לַֽיהוָֽה׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEAL|SEAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H6731A]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H6605B]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6603]]"
+- "[[H2368]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:36**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make a plate [of] pure gold, and grave upon it, [like] the engravings of a signet, HOLINESS TO THE LORD.
 <small><sub>**BSB:**</sub></small>
 You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H6731A\|צִּ֖יץ]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֑וֹר]] [[H9001\|וּ]][[H6605B\|פִתַּחְתָּ֤]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H6603\|פִּתּוּחֵ֣י]] [[H2368\|חֹתָ֔ם]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENGRAVING|ENGRAVING]] • [[topic HOLINESS|HOLINESS]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]] • [[topic SEAL|SEAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.35|<< Exodus 28:35]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.37|Exodus 28:37 >>]]</td></tr></table>
 

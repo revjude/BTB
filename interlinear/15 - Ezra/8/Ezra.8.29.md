@@ -1,8 +1,65 @@
+---
+title: Ezra 8:29
+type: Verse
+kjv: "Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD."
+bsb: "Guard them carefully until you weigh them out in the chambers of the house of the LORD in Jerusalem before the leading priests, Levites, and heads of the Israelite families.”"
+hebrew: "שִׁקְד֣וּ וְשִׁמְר֗וּ עַֽד־ תִּשְׁקְל֡וּ לִפְנֵי֩ שָׂרֵ֨י הַכֹּהֲנִ֧ים וְהַלְוִיִּ֛ם וְשָׂרֵֽי־ הָאָב֥וֹת לְיִשְׂרָאֵ֖ל בִּירוּשָׁלִָ֑ם הַלִּשְׁכ֖וֹת בֵּ֥ית יְהוָֽה׃"
+pericope: "[[Ezra.8.24 Priests to Guard the Offerings|Priests to Guard the Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic EZRA|EZRA]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H8245]]"
+- "[[H9002]]"
+- "[[H8104H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8254]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0001G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H3957]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:29**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Watch ye, and keep [them], until ye weigh [them] before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 Guard them carefully until you weigh them out in the chambers of the house of the LORD in Jerusalem before the leading priests, Levites, and heads of the Israelite families.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8245\|שִׁקְד֣וּ]] [[H9002\|וְ]][[H8104H\|שִׁמְר֗וּ]] [[H5704\|עַֽד]][[H9014\|־]] [[H8254\|תִּשְׁקְל֡וּ]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֧ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֛ם]] [[H9002\|וְ]][[H8269\|שָׂרֵֽי]][[H9014\|־]] [[H9009\|הָ]][[H0001G\|אָב֥וֹת]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9009\|הַ]][[H3957\|לִּשְׁכ֖וֹת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZRA|EZRA]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.28|<< Ezra 8:28]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.30|Ezra 8:30 >>]]</td></tr></table>
 

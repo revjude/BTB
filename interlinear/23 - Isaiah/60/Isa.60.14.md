@@ -1,8 +1,67 @@
+---
+title: Isaiah 60:14
+type: Verse
+kjv: "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel."
+bsb: "The sons of your oppressors will come and bow down to you; all who reviled you will fall facedown at your feet and call you the City of the LORD, Zion of the Holy One of Israel."
+hebrew: "וְהָלְכ֨וּ אֵלַ֤יִךְ שְׁח֙וֹחַ֙ בְּנֵ֣י מְעַנַּ֔יִךְ וְהִֽשְׁתַּחֲו֛וּ עַל־ כַּפּ֥וֹת רַגְלַ֖יִךְ כָּל־ מְנַֽאֲצָ֑יִךְ וְקָ֤רְאוּ לָךְ֙ עִ֣יר יְהוָ֔ה צִיּ֖וֹן קְד֥וֹשׁ יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980H]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H7817]]"
+- "[[H1121A]]"
+- "[[H6031B]]"
+- "[[H7812]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9022]]"
+- "[[H3605]]"
+- "[[H5006]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H5892H]]"
+- "[[H3068I]]"
+- "[[H6726]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:14**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 The sons of your oppressors will come and bow down to you; all who reviled you will fall facedown at your feet and call you the City of the LORD, Zion of the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980H\|הָלְכ֨וּ]] [[H0413\|אֵלַ֤יִ]][[H9032\|ךְ]] [[H7817\|שְׁח֙וֹחַ֙]] [[H1121A\|בְּנֵ֣י]] [[H6031B\|מְעַנַּ֔יִ]][[H9032\|ךְ]] [[H9001\|וְ]][[H7812\|הִֽשְׁתַּחֲו֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3709H\|כַּפּ֥וֹת]] [[H7272\|רַגְלַ֖יִ]][[H9022\|ךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H5006\|מְנַֽאֲצָ֑יִ]][[H9032\|ךְ]] [[H9001\|וְ]][[H7121H\|קָ֤רְאוּ]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H5892H\|עִ֣יר]] [[H3068I\|יְהוָ֔ה]] [[H6726\|צִיּ֖וֹן]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.13|<< Isaiah 60:13]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.15|Isaiah 60:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,61 @@
+---
+title: Matthew 22:44
+type: Verse
+kjv: "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
+bsb: "‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’"
+jesus_said: "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
+greek: "εἶπεν ὁ κύριος τῷ κυρίῳ μου· κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου;"
+pericope: "[[Matt.22.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STOOL|STOOL]]"
+strongs:
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G5087]]"
+- "[[G2190]]"
+- "[[G4771]]"
+- "[[G5270]]"
+- "[[G4228]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 22:44**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
 <small><sub>**BSB:**</sub></small>
 ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
-<small><sub>**Literal:**</sub></small>
-Said the Lord to the Lord of me; do sit on [the] right hand of Me until when I may place the enemies of You [as] a footstool for the feet of You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.43|<< Matthew 22:43]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.45|Matthew 22:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|μου·]]  [[G2521\|κάθου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G5087\|θῶ]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθρούς]]  [[G4771\|σου]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|σου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STOOL|STOOL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.43|<< Matthew 22:43]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.45|Matthew 22:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 22:44** is...
 > $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]

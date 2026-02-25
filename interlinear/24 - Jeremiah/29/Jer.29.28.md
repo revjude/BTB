@@ -1,8 +1,66 @@
+---
+title: Jeremiah 29:28
+type: Verse
+kjv: "For therefore he sent unto us in Babylon, saying, This captivity is long: build ye houses, and dwell in them; and plant gardens, and eat the fruit of them."
+bsb: "For he has sent to us in Babylon, claiming: Since the exile will be lengthy, build houses and settle down; plant gardens and eat their produce.’”"
+hebrew: "כִּ֣י עַל־ כֵּ֞ן שָׁלַ֥ח אֵלֵ֛ינוּ בָּבֶ֥ל לֵאמֹ֖ר אֲרֻכָּ֣ה הִ֑יא בְּנ֤וּ בָתִּים֙ וְשֵׁ֔בוּ וְנִטְע֣וּ גַנּ֔וֹת וְאִכְל֖וּ אֶת־ פְּרִיהֶֽן׃"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H3588C]]"
+- "[[H5921B]]"
+- "[[H9014]]"
+- "[[H3651B]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H0894]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0752]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5193]]"
+- "[[H1593]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H6529]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:28**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For therefore he sent unto us [in] Babylon, saying, This [captivity is] long: build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them.
 <small><sub>**BSB:**</sub></small>
 For he has sent to us in Babylon, claiming: Since the exile will be lengthy, build houses and settle down; plant gardens and eat their produce.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588C\|כִּ֣י]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֞ן]] [[H7971G\|שָׁלַ֥ח]] [[H0413\|אֵלֵ֛י]][[H9035\|נוּ]] [[H0894\|בָּבֶ֥ל]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H0752\|אֲרֻכָּ֣ה]] [[H1931\|הִ֑יא]] [[H1129\|בְּנ֤וּ]] [[H1004B\|בָתִּים֙]] [[H9002\|וְ]][[H3427\|שֵׁ֔בוּ]] [[H9002\|וְ]][[H5193\|נִטְע֣וּ]] [[H1593\|גַנּ֔וֹת]] [[H9002\|וְ]][[H0398\|אִכְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פְּרִי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEMAIAH|SHEMAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.27|<< Jeremiah 29:27]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.29|Jeremiah 29:29 >>]]</td></tr></table>
 

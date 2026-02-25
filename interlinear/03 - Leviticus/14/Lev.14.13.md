@@ -1,8 +1,68 @@
+---
+title: Leviticus 14:13
+type: Verse
+kjv: "And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest’s, so is the trespass offering: it is most holy:"
+bsb: "Then he is to slaughter the lamb in the sanctuary area where the sin offering and burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy."
+hebrew: "וְשָׁחַ֣ט אֶת־ הַכֶּ֗בֶשׂ בִּ֠מְקוֹם אֲשֶׁ֨ר יִשְׁחַ֧ט אֶת־ הַֽחַטָּ֛את וְאֶת־ הָעֹלָ֖ה בִּמְק֣וֹם הַקֹּ֑דֶשׁ כִּ֡י כַּ֠חַטָּאת הָאָשָׁ֥ם הוּא֙ לַכֹּהֵ֔ן קֹ֥דֶשׁ קָֽדָשִׁ֖ים הֽוּא׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3532]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H6944G]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0817]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:13**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering [is] the priest’s, [so is] the trespass offering: it [is] most holy:
 <small><sub>**BSB:**</sub></small>
 Then he is to slaughter the lamb in the sanctuary area where the sin offering and burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7819A\|שָׁחַ֣ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3532\|כֶּ֗בֶשׂ]] [[H9003\|בִּ֠]][[H4725\|מְקוֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H7819A\|יִשְׁחַ֧ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֛את]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9003\|בִּ]][[H4725\|מְק֣וֹם]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H3588A\|כִּ֡י]] [[H9004\|כַּ֠]][[H2403H\|חַטָּאת]] [[H9009\|הָ]][[H0817\|אָשָׁ֥ם]] [[H1931\|הוּא֙]] [[H9005\|לַ]][[H3548\|כֹּהֵ֔ן]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.12|<< Leviticus 14:12]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.14|Leviticus 14:14 >>]]</td></tr></table>
 

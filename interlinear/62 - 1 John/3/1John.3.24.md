@@ -1,10 +1,60 @@
+---
+title: 1 John 3:24
+type: Verse
+kjv: "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us."
+bsb: "Whoever keeps His commandments remains in God, and God in him. And by this we know that He remains in us: by the Spirit He has given us."
+greek: "καὶ ὁ τηρῶν τὰς ἐντολὰς αὐτοῦ ἐν αὐτῷ μένει, καὶ αὐτὸς ἐν αὐτῷ. καὶ ἐν τούτῳ γινώσκομεν ὅτι μένει ἐν ἡμῖν, ἐκ τοῦ πνεύματος οὗ ἡμῖν ἔδωκεν.¶"
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5083G]]"
+- "[[G1785]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3306]]"
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G4151G]]"
+- "[[G3739]]"
+- "[[G1325]]"
+texts:
+- NKO
+---
+
 **1 John 3:24**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.
 <small><sub>**BSB:**</sub></small>
 Whoever keeps His commandments remains in God, and God in him. And by this we know that He remains in us: by the Spirit He has given us.
-<small><sub>**Literal:**</sub></small>
-And the [one] keeping the commandments of Him in Him abides, and He in him. And by this we know that He abides in us, by the Spirit whom to us He has given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.23|<< 1 John 3:23]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.1|1 John 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5083G\|τηρῶν]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3306\|μένει,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1097\|γινώσκομεν]]  [[G3754G\|ὅτι]]  [[G3306\|μένει]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν,]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3739\|οὗ]]  [[G3165\|ἡμῖν]]  [[G1325\|ἔδωκεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.23|<< 1 John 3:23]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.1|1 John 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Genesis 26:15
+type: Verse
+kjv: "For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth."
+bsb: "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham."
+hebrew: "וְכָל־ הַבְּאֵרֹ֗ת אֲשֶׁ֤ר חָֽפְרוּ֙ עַבְדֵ֣י אָבִ֔יו בִּימֵ֖י אַבְרָהָ֣ם אָבִ֑יו סִתְּמ֣וּם פְּלִשְׁתִּ֔ים וַיְמַלְא֖וּם עָפָֽר׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0875]]"
+- "[[H0834A]]"
+- "[[H2658]]"
+- "[[H5650]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0085]]"
+- "[[H5640A]]"
+- "[[H9038]]"
+- "[[H6430G]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H6083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:15**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
 <small><sub>**BSB:**</sub></small>
 So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0875\|בְּאֵרֹ֗ת]] [[H0834A\|אֲשֶׁ֤ר]] [[H2658\|חָֽפְרוּ֙]] [[H5650\|עַבְדֵ֣י]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9003\|בִּ]][[H3117G\|ימֵ֖י]] [[H0085\|אַבְרָהָ֣ם]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H5640A\|סִתְּמ֣וּ]][[H9038\|ם]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וַ]][[H4390\|יְמַלְא֖וּ]][[H9038\|ם]] [[H6083\|עָפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic ISAAC|ISAAC]] • [[topic PATIENCE|PATIENCE]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 

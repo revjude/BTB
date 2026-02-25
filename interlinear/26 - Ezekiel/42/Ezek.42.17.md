@@ -1,8 +1,56 @@
+---
+title: Ezekiel 42:17
+type: Verse
+kjv: "He measured the north side, five hundred reeds, with the measuring reed round about."
+bsb: "He measured the north side to be five hundred cubits long."
+hebrew: "מָדַ֖ד ר֣וּחַ הַצָּפ֑וֹן חֲמֵשׁ־ מֵא֥וֹת קָנִ֛ים בִּקְנֵ֥ה הַמִּדָּ֖ה סָבִֽיב׃"
+pericope: "[[Ezek.42.15 The Outer Measurements|The Outer Measurements]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[H4058]]"
+- "[[H7307I]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H2568]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H7070I]]"
+- "[[H9003]]"
+- "[[H7070H]]"
+- "[[H4060A]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:17**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He measured the north side, five hundred reeds, with the measuring reed round about.
 <small><sub>**BSB:**</sub></small>
 He measured the north side to be five hundred cubits long.
+<small><sub>**Hebrew:**</sub></small>
+[[H4058\|מָדַ֖ד]] [[H7307I\|ר֣וּחַ]] [[H9009\|הַ]][[H6828G\|צָּפ֑וֹן]] [[H2568\|חֲמֵשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H7070I\|קָנִ֛ים]] [[H9003\|בִּ]][[H7070H\|קְנֵ֥ה]] [[H9009\|הַ]][[H4060A\|מִּדָּ֖ה]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.16|<< Ezekiel 42:16]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.18|Ezekiel 42:18 >>]]</td></tr></table>
 

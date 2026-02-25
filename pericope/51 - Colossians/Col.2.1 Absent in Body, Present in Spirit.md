@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absent in Body, Present in Spirit
+type: Pericope
 pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 2
 book/chapter: "[[Col.2|Colossians 2]]"
-genre:
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 5
 verses:
 - "[[Col.2.1]]"
 - "[[Col.2.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Col.2.5]]"
 ---
 
-[[Col.2|Colossians 2:1 - Colossians 2:5]]
+<small>[[Col.2|Colossians 2:1-5]]</small>
 *Absent in Body, Present in Spirit*
 
 [[Col.2.1|1]] For I would that ye knew what great conflict I have for you, and \[for\] them at Laodicea, and \[for\] as many as have not seen my face in the flesh;

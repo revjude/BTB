@@ -1,8 +1,73 @@
+---
+title: Nehemiah 13:18
+type: Verse
+kjv: "Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath."
+bsb: "Did not your forefathers do the same things, so that our God brought all this disaster on us and on this city? And now you are rekindling His wrath against Israel by profaning the Sabbath!”"
+hebrew: "הֲל֨וֹא כֹ֤ה עָשׂוּ֙ אֲבֹ֣תֵיכֶ֔ם וַיָּבֵ֨א אֱלֹהֵ֜ינוּ עָלֵ֗ינוּ אֵ֚ת כָּל־ הָרָעָ֣ה הַזֹּ֔את וְעַ֖ל הָעִ֣יר הַזֹּ֑את וְאַתֶּ֞ם מוֹסִיפִ֤ים חָרוֹן֙ עַל־ יִשְׂרָאֵ֔ל לְחַלֵּ֖ל אֶת־ הַשַּׁבָּֽת׃ פ"
+pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRAFFIC|TRAFFIC]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H0859D]]"
+- "[[H3254H]]"
+- "[[H2740]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H2490H]]"
+- "[[H7676]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 13:18**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.
 <small><sub>**BSB:**</sub></small>
 Did not your forefathers do the same things, so that our God brought all this disaster on us and on this city? And now you are rekindling His wrath against Israel by profaning the Sabbath!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H3541\|כֹ֤ה]] [[H6213A\|עָשׂוּ֙]] [[H0001G\|אֲבֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וַ]][[H0935P\|יָּבֵ֨א]] [[H0430G\|אֱלֹהֵ֜י]][[H9025\|נוּ]] [[H5921A\|עָלֵ֗י]][[H9035\|נוּ]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וְ]][[H0859D\|אַתֶּ֞ם]] [[H3254H\|מוֹסִיפִ֤ים]] [[H2740\|חָרוֹן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H2490H\|חַלֵּ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7676\|שַּׁבָּֽת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic SABBATH|SABBATH]] • [[topic TRAFFIC|TRAFFIC]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.17|<< Nehemiah 13:17]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.19|Nehemiah 13:19 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ Did not your forefathers do the same things, so that our God brought all this di
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by profaning  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2490H\|חַלֵּ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַּׁבָּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַּׁבָּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.17|<< Nehemiah 13:17]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.19|Nehemiah 13:19 >>]]</td></tr></table>
 
 

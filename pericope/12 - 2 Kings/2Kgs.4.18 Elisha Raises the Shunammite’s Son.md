@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha Raises the Shunammite’s Son
+type: Pericope
 pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 4
 book/chapter: "[[2Kgs.4|2 Kings 4]]"
-genre:
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 20
 verses:
 - "[[2Kgs.4.18]]"
 - "[[2Kgs.4.19]]"
@@ -38,7 +45,7 @@ verses:
 - "[[2Kgs.4.37]]"
 ---
 
-[[2Kgs.4|2 Kings 4:18 - 2 Kings 4:37]]
+<small>[[2Kgs.4|2 Kings 4:18-37]]</small>
 *Elisha Raises the Shunammite’s Son*
 
 [[2Kgs.4.18|18]] And when the child was grown, it fell on a day, that he went out to his father to the reapers.

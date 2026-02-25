@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Vengeance on Midian
+type: Pericope
 pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 31
 book/chapter: "[[Num.31|Numbers 31]]"
-genre:
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 24
 verses:
 - "[[Num.31.1]]"
 - "[[Num.31.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Num.31.24]]"
 ---
 
-[[Num.31|Numbers 31:1 - Numbers 31:24]]
+<small>[[Num.31|Numbers 31:1-24]]</small>
 *Vengeance on Midian*
 
 [[Num.31.1|1]] And the LORD spake unto Moses, saying,

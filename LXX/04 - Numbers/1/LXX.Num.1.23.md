@@ -1,6 +1,53 @@
+---
+title: LXX Numbers 1:23
+type: Verse
+lxx: "their numbering from the tribe of Simeon -- nine and fifty thousand and three hundred."
+greek: "η επίσκεψις αυτών εκ της φυλής Συμεών εννέα και πεντήκοντα χιλιάδες και τριακόσιοι"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[G3588]]"
+- "[[G7448]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5443]]"
+- "[[G4826]]"
+- "[[G1767]]"
+- "[[G2532]]"
+- "[[G4004]]"
+- "[[G5505]]"
+- "[[G2532]]"
+- "[[G5145]]"
+---
+
 **LXX Numbers 1:23** 
 <small><sub>**LXX:**</sub></small>
  their numbering from the tribe of Simeon -- nine and fifty thousand and three hundred. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|η]] [[G7448\|επίσκεψις]] [[G1473\|αυτών]] [[G1537\|εκ]] [[G3588\|της]] [[G5443\|φυλής]] [[G4826\|Συμεών]] [[G1767\|εννέα]] [[G2532\|και]] [[G4004\|πεντήκοντα]] [[G5505\|χιλιάδες]] [[G2532\|και]] [[G5145\|τριακόσιοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.22|<< Numbers 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.24|Numbers 1:24 >>]]</td></tr></table>
 
@@ -18,6 +65,6 @@
 | thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | three hundred. | **<big>[[G5145\|τριακόσιοι]]</big>** |
-[[Num.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.22|<< Numbers 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.24|Numbers 1:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.22|<< Numbers 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.24|Numbers 1:24 >>]]</td></tr></table>
 
 

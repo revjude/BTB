@@ -1,8 +1,57 @@
+---
+title: Esther 1:7
+type: Verse
+kjv: "And they gave them drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king."
+bsb: "Beverages were served in an array of goblets of gold, each with a different design, and the royal wine flowed freely, according to the king’s bounty."
+hebrew: "וְהַשְׁקוֹת֙ בִּכְלֵ֣י זָהָ֔ב וְכֵלִ֖ים מִכֵּלִ֣ים שׁוֹנִ֑ים וְיֵ֥ין מַלְכ֛וּת רָ֖ב כְּיַ֥ד הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic KING|KING]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H8248H]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H2091]]"
+- "[[H9006]]"
+- "[[H8138A]]"
+- "[[H3196]]"
+- "[[H4438]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H3027K]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:7**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave [them] drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king.
 <small><sub>**BSB:**</sub></small>
 Beverages were served in an array of goblets of gold, each with a different design, and the royal wine flowed freely, according to the king’s bounty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8248H\|הַשְׁקוֹת֙]] [[H9003\|בִּ]][[H3627\|כְלֵ֣י]] [[H2091\|זָהָ֔ב]] [[H9002\|וְ]][[H3627\|כֵלִ֖ים]] [[H9006\|מִ]][[H3627\|כֵּלִ֣ים]] [[H8138A\|שׁוֹנִ֑ים]] [[H9002\|וְ]][[H3196\|יֵ֥ין]] [[H4438\|מַלְכ֛וּת]] [[H7227A\|רָ֖ב]] [[H9004\|כְּ]][[H3027K\|יַ֥ד]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic KING|KING]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.6|<< Esther 1:6]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.8|Esther 1:8 >>]]</td></tr></table>
 

@@ -1,8 +1,82 @@
+---
+title: Exodus 17:6
+type: Verse
+kjv: "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."
+bsb: "Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel."
+hebrew: "הִנְנִ֣י עֹמֵד֩ לְפָנֶ֨יךָ שָּׁ֥ם׀ עַֽל־ הַצּוּר֮ בְּחֹרֵב֒ וְהִכִּ֣יתָ בַצּ֗וּר וְיָצְא֥וּ מִמֶּ֛נּוּ מַ֖יִם וְשָׁתָ֣ה הָעָ֑ם וַיַּ֤עַשׂ כֵּן֙ מֹשֶׁ֔ה לְעֵינֵ֖י זִקְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MERIBAH|MERIBAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H8033G]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6697H]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H5971A]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H4872]]"
+- "[[H5869H]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:6**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
 <small><sub>**BSB:**</sub></small>
 Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5975G\|עֹמֵד֩]] [[H9005\|לְ]][[H6440G\|פָנֶ֨י]][[H9021\|ךָ]] [[H8033G\|שָּׁ֥ם]][[H9015\|׀]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H6697H\|צּוּר֮]] [[H9003\|בְּ]][[H2722\|חֹרֵב֒]] [[H9001\|וְ]][[H5221\|הִכִּ֣יתָ]] [[H9003\|בַ]][[H6697H\|צּ֗וּר]] [[H9001\|וְ]][[H3318G\|יָצְא֥וּ]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H4325G\|מַ֖יִם]] [[H9001\|וְ]][[H8354\|שָׁתָ֣ה]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H3651C\|כֵּן֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H2205G\|זִקְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOREB|HOREB]] • [[topic ISRAEL|ISRAEL]] • [[topic MERIBAH|MERIBAH]] • [[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.5|<< Exodus 17:5]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.7|Exodus 17:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

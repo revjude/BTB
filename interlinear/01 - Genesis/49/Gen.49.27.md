@@ -1,8 +1,60 @@
+---
+title: Genesis 49:27
+type: Verse
+kjv: "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil."
+bsb: "Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”"
+hebrew: "בִּנְיָמִין֙ זְאֵ֣ב יִטְרָ֔ף בַּבֹּ֖קֶר יֹ֣אכַל עַ֑ד וְלָעֶ֖רֶב יְחַלֵּ֥ק שָׁלָֽל׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[H1144G]]"
+- "[[H2061]]"
+- "[[H2963]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H0398]]"
+- "[[H5706]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6153]]"
+- "[[H2505A]]"
+- "[[H7998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:27**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Benjamin shall ravin [as] a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
 <small><sub>**BSB:**</sub></small>
 Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1144G\|בִּנְיָמִין֙]] [[H2061\|זְאֵ֣ב]] [[H2963\|יִטְרָ֔ף]] [[H9003\|בַּ]][[H1242\|בֹּ֖קֶר]] [[H0398\|יֹ֣אכַל]] [[H5706\|עַ֑ד]] [[H9002\|וְ]][[H9005\|לָ]][[H6153\|עֶ֖רֶב]] [[H2505A\|יְחַלֵּ֥ק]] [[H7998\|שָׁלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic DEATH|DEATH]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.26|<< Genesis 49:26]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.28|Genesis 49:28 >>]]</td></tr></table>
 

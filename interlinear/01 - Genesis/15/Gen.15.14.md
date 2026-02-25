@@ -1,8 +1,69 @@
+---
+title: Genesis 15:14
+type: Verse
+kjv: "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance."
+bsb: "But I will judge the nation they serve as slaves, and afterward they will depart with many possessions."
+hebrew: "וְגַ֧ם אֶת־ הַגּ֛וֹי אֲשֶׁ֥ר יַעֲבֹ֖דוּ דָּ֣ן אָנֹ֑כִי וְאַחֲרֵי־ כֵ֥ן יֵצְא֖וּ בִּרְכֻ֥שׁ גָּדֽוֹל׃"
+pericope: "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5647G]]"
+- "[[H1777]]"
+- "[[H0595]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H7399]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:14**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.
 <small><sub>**BSB:**</sub></small>
 But I will judge the nation they serve as slaves, and afterward they will depart with many possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֧ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֛וֹי]] [[H0834A\|אֲשֶׁ֥ר]] [[H5647G\|יַעֲבֹ֖דוּ]] [[H1777\|דָּ֣ן]] [[H0595\|אָנֹ֑כִי]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֥ן]] [[H3318G\|יֵצְא֖וּ]] [[H9003\|בִּ]][[H7399\|רְכֻ֥שׁ]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COVENANT|COVENANT]] • [[topic EGYPT|EGYPT]] • [[topic ISRAEL|ISRAEL]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RULERS|RULERS]] • [[topic SIGN|SIGN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.13|<< Genesis 15:13]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.15|Genesis 15:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

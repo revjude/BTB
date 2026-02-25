@@ -1,8 +1,61 @@
+---
+title: 1 Kings 1:52
+type: Verse
+kjv: "And Solomon said, If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die."
+bsb: "And Solomon replied, “If he is a man of character, not a single hair of his will fall to the ground. But if evil is found in him, he will die.”"
+hebrew: "וַיֹּ֣אמֶר שְׁלֹמֹ֔ה אִ֚ם יִהְיֶ֣ה לְבֶן־ חַ֔יִל לֹֽא־ יִפֹּ֥ל מִשַּׂעֲרָת֖וֹ אָ֑רְצָה וְאִם־ רָעָ֥ה תִמָּצֵא־ ב֖וֹ וָמֵֽת׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8010]]"
+- "[[H0518A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H2428I]]"
+- "[[H3808]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H8185]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H7451I]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:52**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon said, If he will shew himself a worthy man, there shall not an hair of him fall to the earth: but if wickedness shall be found in him, he shall die.
 <small><sub>**BSB:**</sub></small>
 And Solomon replied, “If he is a man of character, not a single hair of his will fall to the ground. But if evil is found in him, he will die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8010\|שְׁלֹמֹ֔ה]] [[H0518A\|אִ֚ם]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לְ]][[H1121G\|בֶן]][[H9014\|־]] [[H2428I\|חַ֔יִל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5307G\|יִפֹּ֥ל]] [[H9006\|מִ]][[H8185\|שַּׂעֲרָת֖]][[H9023\|וֹ]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7451I\|רָעָ֥ה]] [[H4672\|תִמָּצֵא]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H9001\|וָ]][[H4191\|מֵֽת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.51|<< 1 Kings 1:51]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.53|1 Kings 1:53 >>]]</td></tr></table>
 

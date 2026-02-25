@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Pursues David
+type: Pericope
 pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 23
 book/chapter: "[[1Sam.23|1 Samuel 23]]"
-genre:
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 23
 verses:
 - "[[1Sam.23.7]]"
 - "[[1Sam.23.8]]"
@@ -41,7 +48,7 @@ verses:
 - "[[1Sam.23.29]]"
 ---
 
-[[1Sam.23|1 Samuel 23:7 - 1 Samuel 23:29]]
+<small>[[1Sam.23|1 Samuel 23:7-29]]</small>
 *Saul Pursues David*
 
 [[1Sam.23.7|7]] And it was told Saul that David was come to Keilah. And Saul said, God hath delivered him into mine hand; for he is shut in, by entering into a town that hath gates and bars.

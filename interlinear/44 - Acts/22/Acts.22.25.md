@@ -1,10 +1,67 @@
+---
+title: Acts 22:25
+type: Verse
+kjv: "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?"
+bsb: "But as they stretched him out to strap him down, Paul said to the centurion standing there, “Is it lawful for you to flog a Roman citizen without a trial?”"
+greek: "Ὡς δὲ προέτειναν αὐτὸν τοῖς ἱμᾶσιν, εἶπεν πρὸς τὸν ἑστῶτα ἑκατόνταρχον ὁ Παῦλος· εἰ ἄνθρωπον Ῥωμαῖον καὶ ἀκατάκριτον ἔξεστιν ὑμῖν μαστίζειν;"
+pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G4385]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2438]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G2476]]"
+- "[[G1543]]"
+- "[[G3972G]]"
+- "[[G1487I]]"
+- "[[G0444]]"
+- "[[G4514]]"
+- "[[G2532]]"
+- "[[G0178]]"
+- "[[G1832]]"
+- "[[G4771]]"
+- "[[G3147]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 22:25**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?
 <small><sub>**BSB:**</sub></small>
 But as they stretched him out to strap him down, Paul said to the centurion standing there, “Is it lawful for you to flog a Roman citizen without a trial?”
-<small><sub>**Literal:**</sub></small>
-As however they stretched forward him with the straps, said to the already standing by centurion <the> Paul; If a man a Roman and uncondemned it is lawful to you to flog?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.24|<< Acts 22:24]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.26|Acts 22:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G4385\|προέτειναν]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῖς]]  [[G2438\|ἱμᾶσιν,]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2476\|ἑστῶτα]]  [[G1543\|ἑκατόνταρχον]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος·]]  [[G1487I\|εἰ]]  [[G0444\|ἄνθρωπον]]  [[G4514\|Ῥωμαῖον]]  [[G2532\|καὶ]]  [[G0178\|ἀκατάκριτον]]  [[G1832\|ἔξεστιν]]  [[G4771\|ὑμῖν]]  [[G3147\|μαστίζειν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic CITIZENS|CITIZENS]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.24|<< Acts 22:24]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.26|Acts 22:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

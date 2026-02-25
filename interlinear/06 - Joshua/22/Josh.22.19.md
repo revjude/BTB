@@ -1,8 +1,84 @@
+---
+title: Joshua 22:19
+type: Verse
+kjv: "Notwithstanding, if the land of your possession be unclean, then pass ye over unto the land of the possession of the LORD, wherein the LORD’S tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar beside the altar of the LORD our God."
+bsb: "If indeed the land of your inheritance is unclean, then cross over to the land of the LORD’s possession, where the LORD’s tabernacle stands, and take possession of it among us. But do not rebel against the LORD or against us by building for yourselves an altar other than the altar of the LORD our God."
+hebrew: "וְאַ֨ךְ אִם־ טְמֵאָ֜ה אֶ֣רֶץ אֲחֻזַּתְכֶ֗ם עִבְר֨וּ לָכֶ֜ם אֶל־ אֶ֨רֶץ אֲחֻזַּ֤ת יְהוָה֙ אֲשֶׁ֤ר שָֽׁכַן־ שָׁם֙ מִשְׁכַּ֣ן יְהוָ֔ה וְהֵאָחֲז֖וּ בְּתוֹכֵ֑נוּ וּבַֽיהוָ֣ה אַל־ תִּמְרֹ֗דוּ וְאֹתָ֙נוּ֙ אֶל־ תִּמְרֹ֔דוּ בִּבְנֹֽתְכֶ֤ם לָכֶם֙ מִזְבֵּ֔חַ מִֽבַּלְעֲדֵ֔י מִזְבַּ֖ח יְהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0389]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2931]]"
+- "[[H0776G]]"
+- "[[H0272]]"
+- "[[H9026]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H7931]]"
+- "[[H8033G]]"
+- "[[H4908]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9025]]"
+- "[[H0408]]"
+- "[[H4775]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H1129]]"
+- "[[H9046]]"
+- "[[H4196]]"
+- "[[H9006]]"
+- "[[H1107]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:19**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding, if the land of your possession [be] unclean, [then] pass ye over unto the land of the possession of the LORD, wherein the LORD’S tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar beside the altar of the LORD our God.
 <small><sub>**BSB:**</sub></small>
 If indeed the land of your inheritance is unclean, then cross over to the land of the LORD’s possession, where the LORD’s tabernacle stands, and take possession of it among us. But do not rebel against the LORD or against us by building for yourselves an altar other than the altar of the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0389\|אַ֨ךְ]] [[H0518A\|אִם]][[H9014\|־]] [[H2931\|טְמֵאָ֜ה]] [[H0776G\|אֶ֣רֶץ]] [[H0272\|אֲחֻזַּתְ]][[H9026\|כֶ֗ם]] [[H5674A\|עִבְר֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֨רֶץ]] [[H0272\|אֲחֻזַּ֤ת]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H7931\|שָֽׁכַן]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H4908\|מִשְׁכַּ֣ן]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0270\|הֵאָחֲז֖וּ]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֑]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בַֽ]][[H3068G\|יהוָ֣ה]] [[H0408\|אַל]][[H9014\|־]] [[H4775\|תִּמְרֹ֗דוּ]] [[H9002\|וְ]][[H0854\|אֹתָ֙]][[H9035\|נוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4775\|תִּמְרֹ֔דוּ]] [[H9003\|בִּ]][[H1129\|בְנֹֽתְ]][[H9046\|כֶ֤ם]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H4196\|מִזְבֵּ֔חַ]] [[H9006\|מִֽ]][[H1107\|בַּלְעֲדֵ֔י]] [[H4196\|מִזְבַּ֖ח]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPROOF|REPROOF]] • [[topic REUBENITES|REUBENITES]] • [[topic REVERENCE|REVERENCE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.18|<< Joshua 22:18]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.20|Joshua 22:20 >>]]</td></tr></table>
 

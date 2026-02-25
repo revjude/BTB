@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Order of the Camps
+type: Pericope
 pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
-verse_count: 34
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 2
 book/chapter: "[[Num.2|Numbers 2]]"
-genre:
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 34
 verses:
 - "[[Num.2.1]]"
 - "[[Num.2.2]]"
@@ -56,7 +63,7 @@ verses:
 - "[[Num.2.34]]"
 ---
 
-[[Num.2|Numbers 2:1 - Numbers 2:34]]
+<small>[[Num.2|Numbers 2:1-34]]</small>
 *The Order of the Camps*
 
 [[Num.2.1|1]] And the LORD spake unto Moses and unto Aaron, saying,

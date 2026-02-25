@@ -1,8 +1,61 @@
+---
+title: Psalm 63:6
+type: Verse
+kjv: "When I remember thee upon my bed, and meditate on thee in the night watches."
+bsb: "When I remember You on my bed, I think of You through the watches of the night."
+hebrew: "אִם־ זְכַרְתִּ֥יךָ עַל־ יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה־ בָּֽךְ׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H3326A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0821]]"
+- "[[H1897]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:6**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I remember thee upon my bed, [and] meditate on thee in the [night] watches.
 <small><sub>**BSB:**</sub></small>
 When I remember You on my bed, I think of You through the watches of the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2142\|זְכַרְתִּ֥י]][[H9031\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3326A\|יְצוּעָ֑]][[H9020\|י]] [[H9003\|בְּ֝]][[H0821\|אַשְׁמֻר֗וֹת]] [[H1897\|אֶהְגֶּה]][[H9014\|־]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic LOVE|LOVE]] • [[topic MEDITATION|MEDITATION]] • [[topic NIGHT|NIGHT]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.5|<< Psalms 63:5]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.7|Psalms 63:7 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Job 40:9
+type: Verse
+kjv: "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+bsb: "Do you have an arm like God’s? Can you thunder with a voice like His?"
+hebrew: "וְאִם־ זְר֖וֹעַ כָּאֵ֥ל׀ לָ֑ךְ וּ֝בְק֗וֹל כָּמֹ֥הוּ תַרְעֵֽם׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H2220]]"
+- "[[H9004]]"
+- "[[H0410G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H7481]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:9**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou an arm like God? or canst thou thunder with a voice like him?
 <small><sub>**BSB:**</sub></small>
 Do you have an arm like God’s? Can you thunder with a voice like His?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518I\|אִם]][[H9014\|־]] [[H2220\|זְר֖וֹעַ]] [[H9004\|כָּ]][[H0410G\|אֵ֥ל]][[H9015\|׀]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H6963A\|ק֗וֹל]] [[H3644G\|כָּמֹ֥]][[H9033\|הוּ]] [[H7481\|תַרְעֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.8|<< Job 40:8]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.10|Job 40:10 >>]]</td></tr></table>
 

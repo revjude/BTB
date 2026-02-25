@@ -1,10 +1,58 @@
+---
+title: Revelation 1:8
+type: Verse
+kjv: "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."
+bsb: "“I am the Alpha and the Omega,” says the Lord God, who is and was and is to come—the Almighty."
+greek: "Ἐγώ εἰμι τὸ ἄλφα καὶ τὸ ὦ ἀρχὴ καὶ τέλος, λέγει ὁ κύριος ὁ θεός, ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ὁ παντοκράτωρ.¶"
+pericope: "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ALPHA|ALPHA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OMEGA|OMEGA]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0001G]]"
+- "[[G2532]]"
+- "[[G5598]]"
+- "[[G0746]]"
+- "[[G5056]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G2064]]"
+- "[[G3841]]"
+texts:
+- NKO
+- K
+- NO
+---
+
 **Revelation 1:8**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
 <small><sub>**BSB:**</sub></small>
 “I am the Alpha and the Omega,” says the Lord God, who is and was and is to come—the Almighty.
-<small><sub>**Literal:**</sub></small>
-I myself am the Alpha and the Omega beginning and end says the Lord <the> God, who is being and who was and who is coming, the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.7|<< Revelation 1:7]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.9|Revelation 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|τὸ]]  [[G0001G\|ἄλφα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5598\|ὦ]]  [[G0746\|ἀρχὴ]]  [[G2532\|καὶ]]  [[G5056\|τέλος,]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος,]]  [[G3588\|ὁ]]  [[G3841\|παντοκράτωρ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALPHA|ALPHA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OMEGA|OMEGA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.7|<< Revelation 1:7]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.9|Revelation 1:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 1:8** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.41.4|Isa 41:4]] ☩ [[LXX.Isa.44.6|Isa 44:6]]

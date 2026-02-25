@@ -1,10 +1,56 @@
+---
+title: Matthew 15:15
+type: Verse
+kjv: "Then answered Peter and said unto him, Declare unto us this parable."
+bsb: "Peter said to Him, “Explain this parable to us.”"
+greek: "ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν αὐτῷ· φράσον ἡμῖν τὴν παραβολὴν ταύτην.¶"
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5419]]"
+- "[[G3165]]"
+- "[[G3850]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 15:15**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered Peter and said unto him, Declare unto us this parable.
 <small><sub>**BSB:**</sub></small>
 Peter said to Him, “Explain this parable to us.”
-<small><sub>**Literal:**</sub></small>
-Answering then <the> Peter said to Him; do explain to us <the> parable this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.14|<< Matthew 15:14]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.16|Matthew 15:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5419\|φράσον]]  [[G3165\|ἡμῖν]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.14|<< Matthew 15:14]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.16|Matthew 15:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

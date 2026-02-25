@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Moab
+type: Pericope
 pericope: "[[Ezek.25.8 A Prophecy against Moab|A Prophecy against Moab]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 25
 book/chapter: "[[Ezek.25|Ezekiel 25]]"
-genre:
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.25.8]]"
 - "[[Ezek.25.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.25.11]]"
 ---
 
-[[Ezek.25|Ezekiel 25:8 - Ezekiel 25:11]]
+<small>[[Ezek.25|Ezekiel 25:8-11]]</small>
 *A Prophecy against Moab*
 
 [[Ezek.25.8|8]] Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah \[is\] like unto all the heathen;

@@ -1,10 +1,61 @@
+---
+title: 2 Peter 2:11
+type: Verse
+kjv: "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord."
+bsb: "Yet not even angels, though greater in strength and power, dare to bring such slanderous charges against them before the Lord."
+greek: "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ᾽ αὐτῶν παρὰ κυρίου βλάσφημον κρίσιν."
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RAILING|RAILING]]"
+strongs:
+- "[[G3699]]"
+- "[[G0032G]]"
+- "[[G2479]]"
+- "[[G2532]]"
+- "[[G1411]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G5342]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G3844]]"
+- "[[G2962G]]"
+- "[[G0989]]"
+- "[[G2920]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Peter 2:11**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.
 <small><sub>**BSB:**</sub></small>
 Yet not even angels, though greater in strength and power, dare to bring such slanderous charges against them before the Lord.
-<small><sub>**Literal:**</sub></small>
-whereas angels in strength and in power greater being not they do bring against them <from/before> [from the] Lord a reviling judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.10|<< 2 Peter 2:10]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.12|2 Peter 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3699\|ὅπου]]  [[G0032G\|ἄγγελοι]]  [[G2479\|ἰσχύϊ]]  [[G2532\|καὶ]]  [[G1411\|δυνάμει]]  [[G3173\|μείζονες]]  [[G1510\|ὄντες]]  [[G3756\|οὐ]]  [[G5342\|φέρουσιν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτῶν]]  [[G3844\|παρὰ]]  [[G2962G\|κυρίου]]  [[G0989\|βλάσφημον]]  [[G2920\|κρίσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RAILING|RAILING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.10|<< 2 Peter 2:10]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.12|2 Peter 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

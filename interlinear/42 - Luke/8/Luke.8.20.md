@@ -1,10 +1,56 @@
+---
+title: Luke 8:20
+type: Verse
+kjv: "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee."
+bsb: "He was told, “Your mother and brothers are standing outside, wanting to see You.”"
+greek: "Καὶ ἀπηγγέλη δὲ αὐτῷ λέγοντων· ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἑστήκασιν ἔξω ἰδεῖν θέλοντές σε."
+pericope: "[[Luke.8.19 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G2476]]"
+- "[[G1854]]"
+- "[[G1492H]]"
+- "[[G2309]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Luke 8:20**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was told him [by certain] which said, Thy mother and thy brethren stand without, desiring to see thee.
 <small><sub>**BSB:**</sub></small>
 He was told, “Your mother and brothers are standing outside, wanting to see You.”
-<small><sub>**Literal:**</sub></small>
-and It was told also to Him saying: The mother of You and the brothers of You have stood outside to see wanting You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.19|<< Luke 8:19]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.21|Luke 8:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0518\|ἀπηγγέλη]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγοντων·]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G4771\|σου]]  [[G2476\|ἑστήκασιν]]  [[G1854\|ἔξω]]  [[G1492H\|ἰδεῖν]]  [[G2309\|θέλοντές]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.19|<< Luke 8:19]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.21|Luke 8:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

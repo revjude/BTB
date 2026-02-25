@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 5:13
+type: Verse
+kjv: "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt."
+bsb: "There is a grievous evil I have seen under the sun: wealth hoarded to the harm of its owner,"
+hebrew: "יֵ֚שׁ רָעָ֣ה חוֹלָ֔ה רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ עֹ֛שֶׁר שָׁמ֥וּר לִבְעָלָ֖יו לְרָעָתֽוֹ׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H3426]]"
+- "[[H7451I]]"
+- "[[H2470I]]"
+- "[[H7200G]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H6239]]"
+- "[[H8104H]]"
+- "[[H9005]]"
+- "[[H1167G]]"
+- "[[H9023]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:13**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a sore evil [which] I have seen under the sun, [namely], riches kept for the owners thereof to their hurt.
 <small><sub>**BSB:**</sub></small>
 There is a grievous evil I have seen under the sun: wealth hoarded to the harm of its owner,
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֚שׁ]] [[H7451I\|רָעָ֣ה]] [[H2470I\|חוֹלָ֔ה]] [[H7200G\|רָאִ֖יתִי]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H6239\|עֹ֛שֶׁר]] [[H8104H\|שָׁמ֥וּר]] [[H9005\|לִ]][[H1167G\|בְעָלָ֖י]][[H9023\|ו]] [[H9005\|לְ]][[H7451C\|רָעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.12|<< Ecclesiastes 5:12]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.14|Ecclesiastes 5:14 >>]]</td></tr></table>
 

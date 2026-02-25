@@ -1,8 +1,83 @@
+---
+title: 1 Kings 11:33
+type: Verse
+kjv: "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father."
+bsb: "For they have forsaken Me to worship Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Milcom the god of the Ammonites. They have not walked in My ways, nor done what is right in My eyes, nor kept My statutes and judgments, as Solomon’s father David did."
+hebrew: "יַ֣עַן׀ אֲשֶׁ֣ר עֲזָב֗וּנִי וַיִּֽשְׁתַּחֲווּ֮ לְעַשְׁתֹּרֶת֮ אֱלֹהֵ֣י צִֽדֹנִין֒ לִכְמוֹשׁ֙ אֱלֹהֵ֣י מוֹאָ֔ב וּלְמִלְכֹּ֖ם אֱלֹהֵ֣י בְנֵֽי־ עַמּ֑וֹן וְלֹֽא־ הָלְכ֣וּ בִדְרָכַ֗י לַעֲשׂ֨וֹת הַיָּשָׁ֧ר בְּעֵינַ֛י וְחֻקֹּתַ֥י וּמִשְׁפָּטַ֖י כְּדָוִ֥ד אָבִֽיו׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CHEMOSH|CHEMOSH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H3282]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H6253]]"
+- "[[H0430G]]"
+- "[[H6722]]"
+- "[[H3645]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H4445B]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H5869H]]"
+- "[[H2708]]"
+- "[[H4941G]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:33**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do [that which is] right in mine eyes, and [to keep] my statutes and my judgments, as [did] David his father.
 <small><sub>**BSB:**</sub></small>
 For they have forsaken Me to worship Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Milcom the god of the Ammonites. They have not walked in My ways, nor done what is right in My eyes, nor kept My statutes and judgments, as Solomon’s father David did.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H5800A\|עֲזָב֗וּ]][[H9030\|נִי]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲווּ֮]] [[H9005\|לְ]][[H6253\|עַשְׁתֹּרֶת֮]] [[H0430G\|אֱלֹהֵ֣י]] [[H6722\|צִֽדֹנִין֒]] [[H9005\|לִ]][[H3645\|כְמוֹשׁ֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וּ]][[H9005\|לְ]][[H4445B\|מִלְכֹּ֖ם]] [[H0430G\|אֱלֹהֵ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֑וֹן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1980I\|הָלְכ֣וּ]] [[H9003\|בִ]][[H1870G\|דְרָכַ֗]][[H9020\|י]] [[H9005\|לַ]][[H6213A\|עֲשׂ֨וֹת]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֧ר]] [[H9003\|בְּ]][[H5869H\|עֵינַ֛]][[H9020\|י]] [[H9002\|וְ]][[H2708\|חֻקֹּתַ֥]][[H9020\|י]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H9004\|כְּ]][[H1732\|דָוִ֥ד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic ASHTORETH|ASHTORETH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANAAN|CANAAN]] • [[topic CHEMOSH|CHEMOSH]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.32|<< 1 Kings 11:32]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.34|1 Kings 11:34 >>]]</td></tr></table>
 

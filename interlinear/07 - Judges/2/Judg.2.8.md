@@ -1,8 +1,55 @@
+---
+title: Judges 2:8
+type: Verse
+kjv: "And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old."
+bsb: "And Joshua son of Nun, the servant of the LORD, died at the age of 110."
+hebrew: "וַיָּ֛מָת יְהוֹשֻׁ֥עַ בִּן־ נ֖וּן עֶ֣בֶד יְהוָ֑ה בֶּן־ מֵאָ֥ה וָעֶ֖שֶׂר שָׁנִֽים׃"
+pericope: "[[Judg.2.6 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H1121L]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:8**<big><big>[[Judg.2.6 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun, the servant of the LORD, died, [being] an hundred and ten years old.
 <small><sub>**BSB:**</sub></small>
 And Joshua son of Nun, the servant of the LORD, died at the age of 110.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֛מָת]] [[H3091G\|יְהוֹשֻׁ֥עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֖וּן]] [[H5650\|עֶ֣בֶד]] [[H3068G\|יְהוָ֑ה]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָ֥ה]] [[H9002\|וָ]][[H6235\|עֶ֖שֶׂר]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.7|<< Judges 2:7]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.9|Judges 2:9 >>]]</td></tr></table>
 

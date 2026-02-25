@@ -1,8 +1,64 @@
+---
+title: Habakkuk 3:3
+type: Verse
+kjv: "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise."
+bsb: "God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth."
+hebrew: "אֱל֙וֹהַ֙ מִתֵּימָ֣ן יָב֔וֹא וְקָד֥וֹשׁ מֵֽהַר־ פָּארָ֖ן סֶ֑לָה כִּסָּ֤ה שָׁמַ֙יִם֙ הוֹד֔וֹ וּתְהִלָּת֖וֹ מָלְאָ֥ה הָאָֽרֶץ׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic PARAN|PARAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMAN|TEMAN]]"
+strongs:
+- "[[H0433]]"
+- "[[H9006]]"
+- "[[H8487H]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H6918G]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H6290H]]"
+- "[[H5542]]"
+- "[[H3680]]"
+- "[[H8064]]"
+- "[[H1935]]"
+- "[[H9023]]"
+- "[[H8416]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:3**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
 <small><sub>**BSB:**</sub></small>
 God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0433\|אֱל֙וֹהַ֙]] [[H9006\|מִ]][[H8487H\|תֵּימָ֣ן]] [[H0935G\|יָב֔וֹא]] [[H9002\|וְ]][[H6918G\|קָד֥וֹשׁ]] [[H9006\|מֵֽ]][[H2022G\|הַר]][[H9014\|־]] [[H6290H\|פָּארָ֖ן]] [[H5542\|סֶ֑לָה]] [[H3680\|כִּסָּ֤ה]] [[H8064\|שָׁמַ֙יִם֙]] [[H1935\|הוֹד֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H8416\|תְהִלָּת֖]][[H9023\|וֹ]] [[H4390\|מָלְאָ֥ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic PARAN|PARAN]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMAN|TEMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
 

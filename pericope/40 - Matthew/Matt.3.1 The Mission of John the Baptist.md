@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mission of John the Baptist
+type: Pericope
 pericope: "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 3
 book/chapter: "[[Matt.3|Matthew 3]]"
-genre:
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.3.1]]"
 - "[[Matt.3.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.3.12]]"
 ---
 
-[[Matt.3|Matthew 3:1 - Matthew 3:12]]
+<small>[[Matt.3|Matthew 3:1-12]]</small>
 *The Mission of John the Baptist*
 
 [[Matt.3.1|1]] In those days came John the Baptist, preaching in the wilderness of Judaea,

@@ -1,8 +1,54 @@
+---
+title: Proverbs 21:25
+type: Verse
+kjv: "The desire of the slothful killeth him; for his hands refuse to labour."
+bsb: "The craving of the slacker kills him because his hands refuse to work."
+hebrew: "תַּאֲוַ֣ת עָצֵ֣ל תְּמִיתֶ֑נּוּ כִּֽי־ מֵאֲנ֖וּ יָדָ֣יו לַעֲשֽׂוֹת׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H8378]]"
+- "[[H6102]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3985]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:25**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The desire of the slothful killeth him; for his hands refuse to labour.
 <small><sub>**BSB:**</sub></small>
 The craving of the slacker kills him because his hands refuse to work.
+<small><sub>**Hebrew:**</sub></small>
+[[H8378\|תַּאֲוַ֣ת]] [[H6102\|עָצֵ֣ל]] [[H4191\|תְּמִיתֶ֑]][[H9033\|נּוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3985\|מֵאֲנ֖וּ]] [[H3027G\|יָדָ֣י]][[H9023\|ו]] [[H9005\|לַ]][[H6213A\|עֲשֽׂוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.24|<< Proverbs 21:24]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.26|Proverbs 21:26 >>]]</td></tr></table>
 

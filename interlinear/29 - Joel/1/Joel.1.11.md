@@ -1,8 +1,56 @@
+---
+title: Joel 1:11
+type: Verse
+kjv: "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished."
+bsb: "Be dismayed, O farmers, wail, O vinedressers, over the wheat and barley, because the harvest of the field has perished."
+hebrew: "הֹבִ֣ישׁוּ אִכָּרִ֗ים הֵילִ֙ילוּ֙ כֹּֽרְמִ֔ים עַל־ חִטָּ֖ה וְעַל־ שְׂעֹרָ֑ה כִּ֥י אָבַ֖ד קְצִ֥יר שָׂדֶֽה׃"
+pericope: "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H0954]]"
+- "[[H0406]]"
+- "[[H3213]]"
+- "[[H3755]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2406]]"
+- "[[H9002]]"
+- "[[H8184]]"
+- "[[H3588A]]"
+- "[[H0006]]"
+- "[[H7105A]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:11**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
 <small><sub>**BSB:**</sub></small>
 Be dismayed, O farmers, wail, O vinedressers, over the wheat and barley, because the harvest of the field has perished.
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|הֹבִ֣ישׁוּ]] [[H0406\|אִכָּרִ֗ים]] [[H3213\|הֵילִ֙ילוּ֙]] [[H3755\|כֹּֽרְמִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H2406\|חִטָּ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8184\|שְׂעֹרָ֑ה]] [[H3588A\|כִּ֥י]] [[H0006\|אָבַ֖ד]] [[H7105A\|קְצִ֥יר]] [[H7704G\|שָׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.10|<< Joel 1:10]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.12|Joel 1:12 >>]]</td></tr></table>
 

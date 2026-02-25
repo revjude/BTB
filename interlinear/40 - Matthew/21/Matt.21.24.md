@@ -1,10 +1,62 @@
+---
+title: Matthew 21:24
+type: Verse
+kjv: "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
+bsb: "“I will also ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things."
+jesus_said: "I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
+greek: "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· ἐρωτήσω ὑμᾶς κἀγὼ κἀγὼ λόγον ἕνα, ὃν ἐὰν εἴπητέ μοι κἀγὼ κἀγὼ ὑμῖν ἐρῶ ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
+pericope: "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3056]]"
+- "[[G1520]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G3165]]"
+- "[[G4483]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Matthew 21:24**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.
 <small><sub>**BSB:**</sub></small>
 “I will also ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things.
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Jesus said to them; Will ask you I myself also thing one, which if you shall tell Me I myself also to you will say by what authority these things I do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.23|<< Matthew 21:23]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.25|Matthew 21:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G2065\|ἐρωτήσω]]  [[G4771\|ὑμᾶς]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3056\|λόγον]]  [[G1520\|ἕνα,]]  [[G3739\|ὃν]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπητέ]]  [[G3165\|μοι]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4771\|ὑμῖν]]  [[G4483\|ἐρῶ]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.23|<< Matthew 21:23]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.25|Matthew 21:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

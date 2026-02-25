@@ -1,8 +1,72 @@
+---
+title: Genesis 29:13
+type: Verse
+kjv: "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things."
+bsb: "When Laban heard the news about his sister’s son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob told him all that had happened."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ לָבָ֜ן אֶת־ שֵׁ֣מַע׀ יַעֲקֹ֣ב בֶּן־ אֲחֹת֗וֹ וַיָּ֤רָץ לִקְרָאתוֹ֙ וַיְחַבֶּק־ לוֹ֙ וַיְנַשֶּׁק־ ל֔וֹ וַיְבִיאֵ֖הוּ אֶל־ בֵּית֑וֹ וַיְסַפֵּ֣ר לְלָבָ֔ן אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H3837A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8088B]]"
+- "[[H9015]]"
+- "[[H3290]]"
+- "[[H1121A]]"
+- "[[H0269]]"
+- "[[H9023]]"
+- "[[H7323G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H2263]]"
+- "[[H5401A]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H5608A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:13**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.
 <small><sub>**BSB:**</sub></small>
 When Laban heard the news about his sister’s son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob told him all that had happened.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H3837A\|לָבָ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H8088B\|שֵׁ֣מַע]][[H9015\|׀]] [[H3290\|יַעֲקֹ֣ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0269\|אֲחֹת֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H7323G\|יָּ֤רָץ]] [[H9005\|לִ]][[H7122G\|קְרָאת]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H2263\|יְחַבֶּק]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H5401A\|יְנַשֶּׁק]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5608A\|יְסַפֵּ֣ר]] [[H9005\|לְ]][[H3837A\|לָבָ֔ן]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.12|<< Genesis 29:12]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.14|Genesis 29:14 >>]]</td></tr></table>
 

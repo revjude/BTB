@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 19:2
+type: Verse
+kjv: "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it."
+bsb: "then you are to set apart for yourselves three cities within the land that the LORD your God is giving you to possess."
+hebrew: "שָׁל֥וֹשׁ עָרִ֖ים תַּבְדִּ֣יל לָ֑ךְ בְּת֣וֹךְ אַרְצְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H7969]]"
+- "[[H5892B]]"
+- "[[H0914]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:2**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.
 <small><sub>**BSB:**</sub></small>
 then you are to set apart for yourselves three cities within the land that the LORD your God is giving you to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שָׁל֥וֹשׁ]] [[H5892B\|עָרִ֖ים]] [[H0914\|תַּבְדִּ֣יל]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.1|<< Deuteronomy 19:1]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.3|Deuteronomy 19:3 >>]]</td></tr></table>
 

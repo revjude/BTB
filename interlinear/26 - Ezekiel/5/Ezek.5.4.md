@@ -1,8 +1,70 @@
+---
+title: Ezekiel 5:4
+type: Verse
+kjv: "Then take of them again, and cast them into the midst of the fire, and burn them in the fire; for thereof shall a fire come forth into all the house of Israel."
+bsb: "Again, take a few of these, throw them into the fire, and burn them. From there a fire will spread to the whole house of Israel."
+hebrew: "וּמֵהֶם֙ ע֣וֹד תִּקָּ֔ח וְהִשְׁלַכְתָּ֤ אוֹתָם֙ אֶל־ תּ֣וֹךְ הָאֵ֔שׁ וְשָׂרַפְתָּ֥ אֹתָ֖ם בָּאֵ֑שׁ מִמֶּ֥נּוּ תֵצֵא־ אֵ֖שׁ אֶל־ כָּל־ בֵּ֥ית יִשְׂרָאֵֽל׃ פ"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5750]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H0853]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3318L]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 5:4**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then take of them again, and cast them into the midst of the fire, and burn them in the fire; [for] thereof shall a fire come forth into all the house of Israel.
 <small><sub>**BSB:**</sub></small>
 Again, take a few of these, throw them into the fire, and burn them. From there a fire will spread to the whole house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H9038\|הֶם֙]] [[H5750\|ע֣וֹד]] [[H3947G\|תִּקָּ֔ח]] [[H9001\|וְ]][[H7993\|הִשְׁלַכְתָּ֤]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H9001\|וְ]][[H8313\|שָׂרַפְתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H4480A\|מִמֶּ֥]][[H9033\|נּוּ]] [[H3318L\|תֵצֵא]][[H9014\|־]] [[H0784\|אֵ֖שׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic EZEKIEL|EZEKIEL]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.3|<< Ezekiel 5:3]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.5|Ezekiel 5:5 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ Again, take a few of these, throw them into the fire, and burn them. From there 
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.3|<< Ezekiel 5:3]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.5|Ezekiel 5:5 >>]]</td></tr></table>
 
 

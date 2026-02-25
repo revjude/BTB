@@ -1,10 +1,71 @@
+---
+title: Acts 2:22
+type: Verse
+kjv: "Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:"
+bsb: "Men of Israel, listen to this message: Jesus of Nazareth was a man certified by God to you by miracles, wonders, and signs, which God did among you through Him, as you yourselves know."
+greek: "Ἄνδρες Ἰσραηλῖται, ἀκούσατε τοὺς λόγους τούτους· Ἰησοῦν τὸν Ναζωραῖον, ἄνδρα ἀποδεδειγμένον ἀπὸ τοῦ θεοῦ εἰς ὑμᾶς δυνάμεσιν καὶ τέρασιν καὶ σημείοις οἷς ἐποίησεν δι᾽ αὐτοῦ ὁ θεὸς ἐν μέσῳ ὑμῶν, καθὼς καὶ αὐτοὶ οἴδατε,"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0435G]]"
+- "[[G2475]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G2424G]]"
+- "[[G3480]]"
+- "[[G0584]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G5059]]"
+- "[[G4592]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G2531]]"
+- "[[G6063]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 2:22**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:
 <small><sub>**BSB:**</sub></small>
 Men of Israel, listen to this message: Jesus of Nazareth was a man certified by God to you by miracles, wonders, and signs, which God did among you through Him, as you yourselves know.
-<small><sub>**Literal:**</sub></small>
-Men Israelites, do hear <the> words these: Jesus <the> of Nazareth, a man set forth by <the> God to you by miracles and by wonders and by signs which did through Him <the> God in [the] midst of you, even as also you yourselves know,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.21|<< Acts 2:21]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.23|Acts 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G2475\|Ἰσραηλῖται,]]  [[G0191\|ἀκούσατε]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους·]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G3480\|Ναζωραῖον,]]  [[G0435G\|ἄνδρα]]  [[G0584\|ἀποδεδειγμένον]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G1411\|δυνάμεσιν]]  [[G2532\|καὶ]]  [[G5059\|τέρασιν]]  [[G2532\|καὶ]]  [[G4592\|σημείοις]]  [[G3739\|οἷς]]  [[G4160G\|ἐποίησεν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G4771\|ὑμῶν,]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G6063\|οἴδατε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.21|<< Acts 2:21]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.23|Acts 2:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 14:17
+type: Verse
+kjv: "And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations."
+bsb: "And David’s fame went out into every land, and the LORD caused all nations to fear him."
+hebrew: "וַיֵּצֵ֥א שֵׁם־ דָּוִ֖יד בְּכָל־ הָֽאֲרָצ֑וֹת וַֽיהוָ֛ה נָתַ֥ן אֶת־ פַּחְדּ֖וֹ עַל־ כָּל־ הַגּוֹיִֽם׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H6343]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:17**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.
 <small><sub>**BSB:**</sub></small>
 And David’s fame went out into every land, and the LORD caused all nations to fear him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H1732\|דָּוִ֖יד]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָֽ]][[H0776G\|אֲרָצ֑וֹת]] [[H9002\|וַֽ]][[H3068G\|יהוָ֛ה]] [[H5414G\|נָתַ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H6343\|פַּחְדּ֖]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.16|<< 1 Chronicles 14:16]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.1|1 Chronicles 15:1 >>]]</td></tr></table>
 

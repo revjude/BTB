@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoshaphat’s Reforms
+type: Pericope
 pericope: "[[2Chr.19.4 Jehoshaphat’s Reforms|Jehoshaphat’s Reforms]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 19
 book/chapter: "[[2Chr.19|2 Chronicles 19]]"
-genre:
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.19.4]]"
 - "[[2Chr.19.5]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.19.11]]"
 ---
 
-[[2Chr.19|2 Chronicles 19:4 - 2 Chronicles 19:11]]
+<small>[[2Chr.19|2 Chronicles 19:4-11]]</small>
 *Jehoshaphat’s Reforms*
 
 [[2Chr.19.4|4]] And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers.

@@ -1,8 +1,77 @@
+---
+title: Judges 8:3
+type: Verse
+kjv: "God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that."
+bsb: "God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What was I able to do compared to you?” When he had said this, their anger against him subsided."
+hebrew: "בְּיֶדְכֶם֩ נָתַ֨ן אֱלֹהִ֜ים אֶת־ שָׂרֵ֤י מִדְיָן֙ אֶת־ עֹרֵ֣ב וְאֶת־ זְאֵ֔ב וּמַה־ יָּכֹ֖לְתִּי עֲשׂ֣וֹת כָּכֶ֑ם אָ֗ז רָפְתָ֤ה רוּחָם֙ מֵֽעָלָ֔יו בְּדַבְּר֖וֹ הַדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OREB|OREB]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEEB|ZEEB]]"
+strongs:
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H4080H]]"
+- "[[H6159]]"
+- "[[H9002]]"
+- "[[H2062]]"
+- "[[H4100]]"
+- "[[H3201]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H9036]]"
+- "[[H0227A]]"
+- "[[H7503]]"
+- "[[H7307J]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1696G]]"
+- "[[H9043]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:3**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath delivered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison of you? Then their anger was abated toward him, when he had said that.
 <small><sub>**BSB:**</sub></small>
 God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What was I able to do compared to you?” When he had said this, their anger against him subsided.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶם֩]] [[H5414G\|נָתַ֨ן]] [[H0430G\|אֱלֹהִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֤י]] [[H4080H\|מִדְיָן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6159\|עֹרֵ֣ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2062\|זְאֵ֔ב]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3201\|יָּכֹ֖לְתִּי]] [[H6213A\|עֲשׂ֣וֹת]] [[H9004\|כָּ]][[H9036\|כֶ֑ם]] [[H0227A\|אָ֗ז]] [[H7503\|רָפְתָ֤ה]] [[H7307J\|רוּחָ]][[H9028\|ם֙]] [[H9006\|מֵֽ]][[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9003\|בְּ]][[H1696G\|דַבְּר֖]][[H9043\|וֹ]] [[H9009\|הַ]][[H1697G\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OREB|OREB]] • [[topic TACT|TACT]] • [[topic ZEEB|ZEEB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.2|<< Judges 8:2]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.4|Judges 8:4 >>]]</td></tr></table>
 

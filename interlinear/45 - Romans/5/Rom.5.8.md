@@ -1,10 +1,60 @@
+---
+title: Romans 5:8
+type: Verse
+kjv: "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+bsb: "But God proves His love for us in this: While we were still sinners, Christ died for us."
+greek: "συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεός, ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν Χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν."
+pericope: "[[Rom.5.6 Christ’s Sacrifice for the Ungodly|Christ’s Sacrifice for the Ungodly]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4921]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G0026]]"
+- "[[G1519]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G3754G]]"
+- "[[G2089]]"
+- "[[G0268]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G5228]]"
+- "[[G0599]]"
+texts:
+- NKO
+---
+
 **Romans 5:8**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 <small><sub>**BSB:**</sub></small>
 But God proves His love for us in this: While we were still sinners, Christ died for us.
-<small><sub>**Literal:**</sub></small>
-Demonstrates however the His own love to us <the> God, that still sinners when being we Christ for us died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.7|<< Romans 5:7]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.9|Romans 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4921\|συνίστησιν]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G0026\|ἀγάπην]]  [[G1519\|εἰς]]  [[G3165\|ἡμᾶς]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3754G\|ὅτι]]  [[G2089\|ἔτι]]  [[G0268\|ἁμαρτωλῶν]]  [[G1510\|ὄντων]]  [[G3165\|ἡμῶν]]  [[G5547\|Χριστὸς]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUFFERING|SUFFERING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.7|<< Romans 5:7]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.9|Romans 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

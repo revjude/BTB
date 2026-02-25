@@ -1,10 +1,54 @@
+---
+title: Luke 23:21
+type: Verse
+kjv: "But they cried, saying, Crucify him, crucify him."
+bsb: "but they kept shouting, “Crucify Him! Crucify Him!”"
+greek: "οἱ δὲ ἐπεφώνουν λέγοντες· σταύρου σταύρου αὐτόν.¶"
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2019]]"
+- "[[G3004G]]"
+- "[[G4717]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 23:21**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they cried, saying, Crucify [him], crucify him.
 <small><sub>**BSB:**</sub></small>
 but they kept shouting, “Crucify Him! Crucify Him!”
-<small><sub>**Literal:**</sub></small>
-<the> But they were crying out saying; do crucify do crucify Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.20|<< Luke 23:20]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.22|Luke 23:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2019\|ἐπεφώνουν]]  [[G3004G\|λέγοντες·]]  [[G4717\|σταύρου]]  [[G4717\|σταύρου]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.20|<< Luke 23:20]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.22|Luke 23:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Numbers 22:36
+type: Verse
+kjv: "And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast."
+bsb: "When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory."
+hebrew: "וַיִּשְׁמַ֥ע בָּלָ֖ק כִּ֣י בָ֣א בִלְעָ֑ם וַיֵּצֵ֨א לִקְרָאת֜וֹ אֶל־ עִ֣יר מוֹאָ֗ב אֲשֶׁר֙ עַל־ גְּב֣וּל אַרְנֹ֔ן אֲשֶׁ֖ר בִּקְצֵ֥ה הַגְּבֽוּל׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARNON|ARNON]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H1111]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H1109A]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4124G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1366G]]"
+- "[[H0769]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:36**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which [is] in the border of Arnon, which [is] in the utmost coast.
 <small><sub>**BSB:**</sub></small>
 When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H1111\|בָּלָ֖ק]] [[H3588A\|כִּ֣י]] [[H0935G\|בָ֣א]] [[H1109A\|בִלְעָ֑ם]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H9005\|לִ]][[H7122G\|קְרָאת֜]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H4124G\|מוֹאָ֗ב]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1366G\|גְּב֣וּל]] [[H0769\|אַרְנֹ֔ן]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בִּ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הַ]][[H1366G\|גְּבֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARNON|ARNON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.35|<< Numbers 22:35]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.37|Numbers 22:37 >>]]</td></tr></table>
 

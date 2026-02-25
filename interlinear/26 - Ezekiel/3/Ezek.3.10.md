@@ -1,8 +1,68 @@
+---
+title: Ezekiel 3:10
+type: Verse
+kjv: "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears."
+bsb: "“Son of man,” He added, “listen carefully to all the words I speak to you, and take them to heart."
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י בֶּן־ אָדָ֕ם אֶת־ כָּל־ דְּבָרַי֙ אֲשֶׁ֣ר אֲדַבֵּ֣ר אֵלֶ֔יךָ קַ֥ח בִּֽלְבָבְךָ֖ וּבְאָזְנֶ֥יךָ שְׁמָֽע׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H3947H]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:10**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He added, “listen carefully to all the words I speak to you, and take them to heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דְּבָרַ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|אֲדַבֵּ֣ר]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H3947H\|קַ֥ח]] [[H9003\|בִּֽ]][[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בְ]][[H0241G\|אָזְנֶ֥י]][[H9021\|ךָ]] [[H8085G\|שְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.9|<< Ezekiel 3:9]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.11|Ezekiel 3:11 >>]]</td></tr></table>
 

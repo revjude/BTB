@@ -1,10 +1,59 @@
+---
+title: Revelation 2:12
+type: Verse
+kjv: "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;"
+bsb: "To the angel of the church in Pergamum write: These are the words of the One who holds the sharp, double-edged sword."
+jesus_said: "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;"
+greek: "Καὶ τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας γράψον· τάδε λέγει ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·"
+pericope: "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERGAMOS|PERGAMOS]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G4010]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G2192]]"
+- "[[G4501]]"
+- "[[G1366]]"
+- "[[G3691]]"
+texts:
+- NKO
+---
+
 **Revelation 2:12**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Pergamum write: These are the words of the One who holds the sharp, double-edged sword.
-<small><sub>**Literal:**</sub></small>
-And to the angel of the in Pergamum church do write: These things says the [One] having the sword <the> two-edged <the> sharp;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.11|<< Revelation 2:11]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.13|Revelation 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῷ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G4010\|Περγάμῳ]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τὴν]]  [[G4501\|ῥομφαίαν]]  [[G3588\|τὴν]]  [[G1366\|δίστομον]]  [[G3588\|τὴν]]  [[G3691\|ὀξεῖαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERGAMOS|PERGAMOS]] • [[topic SWORD|SWORD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.11|<< Revelation 2:11]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.13|Revelation 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

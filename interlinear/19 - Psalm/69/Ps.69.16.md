@@ -1,8 +1,61 @@
+---
+title: Psalm 69:16
+type: Verse
+kjv: "Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies."
+bsb: "Answer me, O LORD, for Your loving devotion is good; turn to me in keeping with Your great compassion."
+hebrew: "עֲנֵ֣נִי יְ֭הוָה כִּי־ ט֣וֹב חַסְדֶּ֑ךָ כְּרֹ֥ב רַ֝חֲמֶ֗יךָ פְּנֵ֣ה אֵלָֽי׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H7230]]"
+- "[[H7356B]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:16**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the multitude of thy tender mercies.
 <small><sub>**BSB:**</sub></small>
 Answer me, O LORD, for Your loving devotion is good; turn to me in keeping with Your great compassion.
+<small><sub>**Hebrew:**</sub></small>
+[[H6030B\|עֲנֵ֣]][[H9030\|נִי]] [[H3068G\|יְ֭הוָה]] [[H3588A\|כִּי]][[H9014\|־]] [[H2896A\|ט֣וֹב]] [[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H9004\|כְּ]][[H7230\|רֹ֥ב]] [[H7356B\|רַ֝חֲמֶ֗י]][[H9021\|ךָ]] [[H6437G\|פְּנֵ֣ה]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.15|<< Psalms 69:15]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.17|Psalms 69:17 >>]]</td></tr></table>
 

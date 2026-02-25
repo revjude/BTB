@@ -1,8 +1,67 @@
+---
+title: Numbers 32:8
+type: Verse
+kjv: "Thus did your fathers, when I sent them from Kadeshbarnea to see the land."
+bsb: "This is what your fathers did when I sent them from Kadesh-barnea to inspect the land."
+hebrew: "כֹּ֥ה עָשׂ֖וּ אֲבֹתֵיכֶ֑ם בְּשָׁלְחִ֥י אֹתָ֛ם מִקָּדֵ֥שׁ בַּרְנֵ֖עַ לִרְא֥וֹת אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H6947]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:8**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did your fathers, when I sent them from Kadeshbarnea to see the land.
 <small><sub>**BSB:**</sub></small>
 This is what your fathers did when I sent them from Kadesh-barnea to inspect the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H6213A\|עָשׂ֖וּ]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֑ם]] [[H9003\|בְּ]][[H7971G\|שָׁלְחִ֥]][[H9040\|י]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H9006\|מִ]][[H6947\|קָּדֵ֥שׁ]] [[H6947\|בַּרְנֵ֖עַ]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic ISRAEL|ISRAEL]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.7|<< Numbers 32:7]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.9|Numbers 32:9 >>]]</td></tr></table>
 

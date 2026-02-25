@@ -1,8 +1,60 @@
+---
+title: Joshua 3:6
+type: Verse
+kjv: "And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people."
+bsb: "And he said to the priests, “Take the ark of the covenant and go on ahead of the people.” So they carried the ark of the covenant and went ahead of them."
+hebrew: "וַיֹּ֤אמֶר יְהוֹשֻׁ֙עַ֙ אֶל־ הַכֹּהֲנִ֣ים לֵאמֹ֔ר שְׂאוּ֙ אֶת־ אֲר֣וֹן הַבְּרִ֔ית וְעִבְר֖וּ לִפְנֵ֣י הָעָ֑ם וַיִּשְׂאוּ֙ אֶת־ אֲר֣וֹן הַבְּרִ֔ית וַיֵּלְכ֖וּ לִפְנֵ֥י הָעָֽם׃ ס"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H6440G]]"
+- "[[H5971A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 3:6**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
 <small><sub>**BSB:**</sub></small>
 And he said to the priests, “Take the ark of the covenant and go on ahead of the people.” So they carried the ark of the covenant and went ahead of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5375G\|שְׂאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9002\|וְ]][[H5674A\|עִבְר֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H5375G\|יִּשְׂאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.5|<< Joshua 3:5]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.7|Joshua 3:7 >>]]</td></tr></table>
 
@@ -26,7 +78,7 @@ And he said to the priests, “Take the ark of the covenant and go on ahead of t
 | the covenant  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1285\|בְּרִ֔ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.5|<< Joshua 3:5]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.7|Joshua 3:7 >>]]</td></tr></table>
 
 

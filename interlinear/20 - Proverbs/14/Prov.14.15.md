@@ -1,8 +1,53 @@
+---
+title: Proverbs 14:15
+type: Verse
+kjv: "The simple believeth every word: but the prudent man looketh well to his going."
+bsb: "The simple man believes every word, but the prudent man watches his steps."
+hebrew: "פֶּ֭תִי יַאֲמִ֣ין לְכָל־ דָּבָ֑ר וְ֝עָר֗וּם יָבִ֥ין לַאֲשֻׁרֽוֹ׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H6612A]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H9002]]"
+- "[[H6175]]"
+- "[[H0995]]"
+- "[[H0838A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:15**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The simple believeth every word: but the prudent [man] looketh well to his going.
 <small><sub>**BSB:**</sub></small>
 The simple man believes every word, but the prudent man watches his steps.
+<small><sub>**Hebrew:**</sub></small>
+[[H6612A\|פֶּ֭תִי]] [[H0539\|יַאֲמִ֣ין]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1697I\|דָּבָ֑ר]] [[H9002\|וְ֝]][[H6175\|עָר֗וּם]] [[H0995\|יָבִ֥ין]] [[H9005\|לַ]][[H0838A\|אֲשֻׁרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.14|<< Proverbs 14:14]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.16|Proverbs 14:16 >>]]</td></tr></table>
 

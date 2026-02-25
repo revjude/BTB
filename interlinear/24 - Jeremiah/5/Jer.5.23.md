@@ -1,8 +1,57 @@
+---
+title: Jeremiah 5:23
+type: Verse
+kjv: "But this people hath a revolting and a rebellious heart; they are revolted and gone."
+bsb: "But these people have stubborn and rebellious hearts. They have turned aside and gone away."
+hebrew: "וְלָעָ֤ם הַזֶּה֙ הָיָ֔ה לֵ֖ב סוֹרֵ֣ר וּמוֹרֶ֑ה סָ֖רוּ וַיֵּלֵֽכוּ׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H5637]]"
+- "[[H4784]]"
+- "[[H5493I]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:23**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But this people hath a revolting and a rebellious heart; they are revolted and gone.
 <small><sub>**BSB:**</sub></small>
 But these people have stubborn and rebellious hearts. They have turned aside and gone away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H1961\|הָיָ֔ה]] [[H3820A\|לֵ֖ב]] [[H5637\|סוֹרֵ֣ר]] [[H9002\|וּ]][[H4784\|מוֹרֶ֑ה]] [[H5493I\|סָ֖רוּ]] [[H9001\|וַ]][[H1980G\|יֵּלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HEART|HEART]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.22|<< Jeremiah 5:22]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.24|Jeremiah 5:24 >>]]</td></tr></table>
 

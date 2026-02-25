@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 19:16
+type: Verse
+kjv: "And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David."
+bsb: "Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of Judah to meet King David,"
+hebrew: "וַיְמַהֵ֗ר שִׁמְעִ֤י בֶן־ גֵּרָא֙ בֶּן־ הַיְמִינִ֔י אֲשֶׁ֖ר מִבַּֽחוּרִ֑ים וַיֵּ֙רֶד֙ עִם־ אִ֣ישׁ יְהוּדָ֔ה לִקְרַ֖את הַמֶּ֥לֶךְ דָּוִֽד׃"
+pericope: "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMNESTY|AMNESTY]]"
+- "[[topic BAHURIM|BAHURIM]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GERA|GERA]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H8096H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1617H]]"
+- "[[H1145]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H0980]]"
+- "[[H3381]]"
+- "[[H5973A]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:16**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shimei the son of Gera, a Benjamite, which [was] of Bahurim, hasted and came down with the men of Judah to meet king David.
 <small><sub>**BSB:**</sub></small>
 Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of Judah to meet King David,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|יְמַהֵ֗ר]] [[H8096H\|שִׁמְעִ֤י]] [[H1121A\|בֶן]][[H9014\|־]] [[H1617H\|גֵּרָא֙]] [[H1145\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H1145\|יְמִינִ֔י]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מִ]][[H0980\|בַּֽחוּרִ֑ים]] [[H9001\|וַ]][[H3381\|יֵּ֙רֶד֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9005\|לִ]][[H7122G\|קְרַ֖את]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H1732\|דָּוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMNESTY|AMNESTY]] • [[topic BAHURIM|BAHURIM]] • [[topic BENJAMIN|BENJAMIN]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic GERA|GERA]] • [[topic SHIMEI|SHIMEI]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.15|<< 2 Samuel 19:15]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.17|2 Samuel 19:17 >>]]</td></tr></table>
 

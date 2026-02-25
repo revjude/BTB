@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Faithfulness
+type: Pericope
 pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 1
 book/chapter: "[[Dan.1|Daniel 1]]"
-genre:
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 9
 verses:
 - "[[Dan.1.8]]"
 - "[[Dan.1.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Dan.1.16]]"
 ---
 
-[[Dan.1|Daniel 1:8 - Daniel 1:16]]
+<small>[[Dan.1|Daniel 1:8-16]]</small>
 *Daniel’s Faithfulness*
 
 [[Dan.1.8|8]] But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.

@@ -1,8 +1,56 @@
+---
+title: Psalm 118:15
+type: Verse
+kjv: "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly."
+bsb: "Shouts of joy and salvation resound in the tents of the righteous: “The right hand of the LORD performs with valor!"
+hebrew: "ק֤וֹל׀ רִנָּ֬ה וִֽישׁוּעָ֗ה בְּאָהֳלֵ֥י צַדִּיקִ֑ים יְמִ֥ין יְ֝הוָה עֹ֣שָׂה חָֽיִל׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H6963A]]"
+- "[[H9015]]"
+- "[[H7440]]"
+- "[[H9002]]"
+- "[[H3444]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H6662]]"
+- "[[H3225G]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:15**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of rejoicing and salvation [is] in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.
 <small><sub>**BSB:**</sub></small>
 Shouts of joy and salvation resound in the tents of the righteous: “The right hand of the LORD performs with valor!
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֤וֹל]][[H9015\|׀]] [[H7440\|רִנָּ֬ה]] [[H9002\|וִֽ]][[H3444\|ישׁוּעָ֗ה]] [[H9003\|בְּ]][[H0168G\|אָהֳלֵ֥י]] [[H6662\|צַדִּיקִ֑ים]] [[H3225G\|יְמִ֥ין]] [[H3068G\|יְ֝הוָה]] [[H6213A\|עֹ֣שָׂה]] [[H2428G\|חָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.14|<< Psalms 118:14]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.16|Psalms 118:16 >>]]</td></tr></table>
 

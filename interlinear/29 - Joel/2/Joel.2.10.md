@@ -1,8 +1,66 @@
+---
+title: Joel 2:10
+type: Verse
+kjv: "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:"
+bsb: "Before them the earth quakes; the heavens tremble. The sun and moon grow dark, and the stars lose their brightness."
+hebrew: "לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֙חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STARS|STARS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H7264]]"
+- "[[H0776G]]"
+- "[[H7493]]"
+- "[[H8064]]"
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H3394]]"
+- "[[H6937]]"
+- "[[H3556]]"
+- "[[H0622]]"
+- "[[H5051]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:10**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:
 <small><sub>**BSB:**</sub></small>
 Before them the earth quakes; the heavens tremble. The sun and moon grow dark, and the stars lose their brightness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H7264\|רָ֣גְזָה]] [[H0776G\|אֶ֔רֶץ]] [[H7493\|רָעֲשׁ֖וּ]] [[H8064\|שָׁמָ֑יִם]] [[H8121\|שֶׁ֤מֶשׁ]] [[H9002\|וְ]][[H3394\|יָרֵ֙חַ֙]] [[H6937\|קָדָ֔רוּ]] [[H9002\|וְ]][[H3556\|כוֹכָבִ֖ים]] [[H0622\|אָסְפ֥וּ]] [[H5051\|נָגְהָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic DARKNESS|DARKNESS]] • [[topic ECLIPSE|ECLIPSE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic LOCUST|LOCUST]] • [[topic MOON|MOON]] • [[topic STARS|STARS]] • [[topic SUN|SUN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.9|<< Joel 2:9]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.11|Joel 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

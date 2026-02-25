@@ -1,8 +1,64 @@
+---
+title: Ezekiel 28:9
+type: Verse
+kjv: "Wilt thou yet say before him that slayeth thee, I am God? but thou shalt be a man, and no God, in the hand of him that slayeth thee."
+bsb: "Will you still say, ‘I am a god,’ in the presence of those who slay you? You will be only a man, not a god, in the hands of those who wound you."
+hebrew: "הֶאָמֹ֤ר תֹּאמַר֙ אֱלֹהִ֣ים אָ֔נִי לִפְנֵ֖י הֹֽרְגֶ֑ךָ וְאַתָּ֥ה אָדָ֛ם וְלֹא־ אֵ֖ל בְּיַ֥ד מְחַלְלֶֽיךָ׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9008]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2026]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0410K]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H2490A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:9**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou yet say before him that slayeth thee, I [am] God? but thou [shalt be] a man, and no God, in the hand of him that slayeth thee.
 <small><sub>**BSB:**</sub></small>
 Will you still say, ‘I am a god,’ in the presence of those who slay you? You will be only a man, not a god, in the hands of those who wound you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶ]][[H0559\|אָמֹ֤ר]] [[H0559\|תֹּאמַר֙]] [[H0430G\|אֱלֹהִ֣ים]] [[H0589\|אָ֔נִי]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H2026\|הֹֽרְגֶ֑]][[H9031\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H0120G\|אָדָ֛ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0410K\|אֵ֖ל]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H2490A\|מְחַלְלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.8|<< Ezekiel 28:8]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.10|Ezekiel 28:10 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 17:8
+type: Verse
+kjv: "And he shall not look to the altars, the work of his hands, neither shall respect that which his fingers have made, either the groves, or the images."
+bsb: "They will not look to the altars they have fashioned with their hands or to the Asherahs and incense altars they have made with their fingers."
+hebrew: "וְלֹ֣א יִשְׁעֶ֔ה אֶל־ הַֽמִּזְבְּח֖וֹת מַעֲשֵׂ֣ה יָדָ֑יו וַאֲשֶׁ֨ר עָשׂ֤וּ אֶצְבְּעֹתָיו֙ לֹ֣א יִרְאֶ֔ה וְהָאֲשֵׁרִ֖ים וְהָחַמָּנִֽים׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8159]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0676]]"
+- "[[H7200G]]"
+- "[[H0842]]"
+- "[[H2553]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:8**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall not look to the altars, the work of his hands, neither shall respect [that] which his fingers have made, either the groves, or the images.
 <small><sub>**BSB:**</sub></small>
 They will not look to the altars they have fashioned with their hands or to the Asherahs and incense altars they have made with their fingers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8159\|יִשְׁעֶ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4196\|מִּזְבְּח֖וֹת]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדָ֑י]][[H9023\|ו]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H6213H\|עָשׂ֤וּ]] [[H0676\|אֶצְבְּעֹתָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H7200G\|יִרְאֶ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0842\|אֲשֵׁרִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H2553\|חַמָּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.7|<< Isaiah 17:7]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.9|Isaiah 17:9 >>]]</td></tr></table>
 

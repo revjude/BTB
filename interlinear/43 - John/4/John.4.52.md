@@ -1,10 +1,64 @@
+---
+title: John 4:52
+type: Verse
+kjv: "Then inquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him."
+bsb: "So he inquired as to the hour when his son had recovered, and they told him, “The fever left him yesterday at the seventh hour.”"
+greek: "ἐπύθετο οὖν τὴν ὥραν παρ᾽ αὐτῶν ἐν ᾗ κομψότερον ἔσχεν. καὶ εἶπαν οὖν αὐτῷ ὅτι ἐχθὲς ὥραν ἑβδόμην ἀφῆκεν αὐτὸν ὁ πυρετός.¶"
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+strongs:
+- "[[G4441]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2866]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G5504]]"
+- "[[G1442]]"
+- "[[G0863G]]"
+- "[[G4446]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **John 4:52**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then inquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.
 <small><sub>**BSB:**</sub></small>
 So he inquired as to the hour when his son had recovered, and they told him, “The fever left him yesterday at the seventh hour.”
-<small><sub>**Literal:**</sub></small>
-He inquired therefore the hour from them in which better he got. and They said therefore to him that Yesterday at hour seventh left him the fever.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.51|<< John 4:51]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.53|John 4:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4441\|ἐπύθετο]]  [[G3767\|οὖν]]  [[G3588\|τὴν]]  [[G5610\|ὥραν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G2866\|κομψότερον]]  [[G2192\|ἔσχεν.]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G5504\|ἐχθὲς]]  [[G5610\|ὥραν]]  [[G1442\|ἑβδόμην]]  [[G0863G\|ἀφῆκεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G4446\|πυρετός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.51|<< John 4:51]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.53|John 4:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

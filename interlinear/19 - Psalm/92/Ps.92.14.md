@@ -1,8 +1,57 @@
+---
+title: Psalm 92:14
+type: Verse
+kjv: "They shall still bring forth fruit in old age; they shall be fat and flourishing;"
+bsb: "In old age they will still bear fruit; healthy and green they will remain,"
+hebrew: "ע֭וֹד יְנוּב֣וּן בְּשֵׂיבָ֑ה דְּשֵׁנִ֖ים וְרַֽעֲנַנִּ֣ים יִהְיֽוּ׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H5750]]"
+- "[[H5107]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H7872]]"
+- "[[H1879]]"
+- "[[H9002]]"
+- "[[H7488B]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:14**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall still bring forth fruit in old age; they shall be fat and flourishing;
 <small><sub>**BSB:**</sub></small>
 In old age they will still bear fruit; healthy and green they will remain,
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֭וֹד]] [[H5107\|יְנוּב֣וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H7872\|שֵׂיבָ֑ה]] [[H1879\|דְּשֵׁנִ֖ים]] [[H9002\|וְ]][[H7488B\|רַֽעֲנַנִּ֣ים]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OLD AGE|OLD AGE]] • [[topic SABBATH|SABBATH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.13|<< Psalms 92:13]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.15|Psalms 92:15 >>]]</td></tr></table>
 

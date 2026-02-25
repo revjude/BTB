@@ -1,8 +1,66 @@
+---
+title: Jeremiah 23:28
+type: Verse
+kjv: "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the LORD."
+bsb: "Let the prophet who has a dream retell it, but let him who has My word speak it truthfully. For what is straw compared to grain?” declares the LORD."
+hebrew: "הַנָּבִ֞יא אֲשֶׁר־ אִתּ֤וֹ חֲלוֹם֙ יְסַפֵּ֣ר חֲל֔וֹם וַאֲשֶׁ֤ר דְּבָרִי֙ אִתּ֔וֹ יְדַבֵּ֥ר דְּבָרִ֖י אֱמֶ֑ת מַה־ לַתֶּ֥בֶן אֶת־ הַבָּ֖ר נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WHEAT|WHEAT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H2472]]"
+- "[[H5608A]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H0571G]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H8401]]"
+- "[[H1250A]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:28**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What [is] the chaff to the wheat? saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Let the prophet who has a dream retell it, but let him who has My word speak it truthfully. For what is straw compared to grain?” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5030\|נָּבִ֞יא]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֤]][[H9033\|וֹ]] [[H2472\|חֲלוֹם֙]] [[H5608A\|יְסַפֵּ֣ר]] [[H2472\|חֲל֔וֹם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H1697G\|דְּבָרִ]][[H9020\|י֙]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H1696G\|יְדַבֵּ֥ר]] [[H1697G\|דְּבָרִ֖]][[H9020\|י]] [[H0571G\|אֱמֶ֑ת]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לַ]][[H8401\|תֶּ֥בֶן]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1250A\|בָּ֖ר]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAFF|CHAFF]] • [[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WHEAT|WHEAT]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.27|<< Jeremiah 23:27]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.29|Jeremiah 23:29 >>]]</td></tr></table>
 

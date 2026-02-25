@@ -1,8 +1,77 @@
+---
+title: Exodus 3:16
+type: Verse
+kjv: "Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt:"
+bsb: "Go, assemble the elders of Israel and say to them, ‘The LORD, the God of your fathers—the God of Abraham, Isaac, and Jacob—has appeared to me and said: I have surely attended to you and have seen what has been done to you in Egypt."
+hebrew: "לֵ֣ךְ וְאָֽסַפְתָּ֞ אֶת־ זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאָמַרְתָּ֤ אֲלֵהֶם֙ יְהוָ֞ה אֱלֹהֵ֤י אֲבֹֽתֵיכֶם֙ נִרְאָ֣ה אֵלַ֔י אֱלֹהֵ֧י אַבְרָהָ֛ם יִצְחָ֥ק וְיַעֲקֹ֖ב לֵאמֹ֑ר פָּקֹ֤ד פָּקַ֙דְתִּי֙ אֶתְכֶ֔ם וְאֶת־ הֶעָשׂ֥וּי לָכֶ֖ם בְּמִצְרָֽיִם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H6485I]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:16**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and [seen] that which is done to you in Egypt:
 <small><sub>**BSB:**</sub></small>
 Go, assemble the elders of Israel and say to them, ‘The LORD, the God of your fathers—the God of Abraham, Isaac, and Jacob—has appeared to me and said: I have surely attended to you and have seen what has been done to you in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לֵ֣ךְ]] [[H9001\|וְ]][[H0622\|אָֽסַפְתָּ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H2205G\|זִקְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֤]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶם֙]] [[H7200G\|נִרְאָ֣ה]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0430G\|אֱלֹהֵ֧י]] [[H0085\|אַבְרָהָ֛ם]] [[H3327\|יִצְחָ֥ק]] [[H9002\|וְ]][[H3290\|יַעֲקֹ֖ב]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H6485I\|פָּקֹ֤ד]] [[H6485I\|פָּקַ֙דְתִּי֙]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H6213A\|עָשׂ֥וּי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.15|<< Exodus 3:15]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.17|Exodus 3:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

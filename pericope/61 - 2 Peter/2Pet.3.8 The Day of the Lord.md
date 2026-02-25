@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of the Lord
+type: Pericope
 pericope: "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 3
 book/chapter: "[[2Pet.3|2 Peter 3]]"
-genre:
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 6
 verses:
 - "[[2Pet.3.8]]"
 - "[[2Pet.3.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Pet.3.13]]"
 ---
 
-[[2Pet.3|2 Peter 3:8 - 2 Peter 3:13]]
+<small>[[2Pet.3|2 Peter 3:8-13]]</small>
 *The Day of the Lord*
 
 [[2Pet.3.8|8]] But, beloved, be not ignorant of this one thing, that one day \[is\] with the Lord as a thousand years, and a thousand years as one day.

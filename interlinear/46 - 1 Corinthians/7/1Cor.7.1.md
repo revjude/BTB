@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 7:1
+type: Verse
+kjv: "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman."
+bsb: "Now for the matters you wrote about: It is good to abstain from sexual relations."
+greek: "Περὶ δὲ ὧν ἐγράψατε μοι, καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι·"
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3739]]"
+- "[[G1125]]"
+- "[[G3165]]"
+- "[[G2570G]]"
+- "[[G0444]]"
+- "[[G1135G]]"
+- "[[G3361]]"
+- "[[G0681]]"
+texts:
+- NKO
+- KO
+---
+
 **1 Corinthians 7:1**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now concerning the things whereof ye wrote unto me: [It is] good for a man not to touch a woman.
 <small><sub>**BSB:**</sub></small>
 Now for the matters you wrote about: It is good to abstain from sexual relations.
-<small><sub>**Literal:**</sub></small>
-Concerning now [the] things about which you wrote to me [It is] good for a man a woman not to touch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.20|<< 1 Corinthians 6:20]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.2|1 Corinthians 7:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G3739\|ὧν]]  [[G1125\|ἐγράψατε]]  [[G3165\|μοι,]]  [[G2570G\|καλὸν]]  [[G0444\|ἀνθρώπῳ]]  [[G1135G\|γυναικὸς]]  [[G3361\|μὴ]]  [[G0681\|ἅπτεσθαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic CORINTH|CORINTH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.20|<< 1 Corinthians 6:20]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.2|1 Corinthians 7:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

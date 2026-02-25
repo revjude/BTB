@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 18:9
+type: Verse
+kjv: "When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations."
+bsb: "When you enter the land that the LORD your God is giving you, do not imitate the detestable ways of the nations there."
+hebrew: "כִּ֤י אַתָּה֙ בָּ֣א אֶל־ הָאָ֔רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹֽא־ תִלְמַ֣ד לַעֲשׂ֔וֹת כְּתוֹעֲבֹ֖ת הַגּוֹיִ֥ם הָהֵֽם׃"
+pericope: "[[Deut.18.9 Sorcery Forbidden|Sorcery Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H3925H]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H8441]]"
+- "[[H1471A]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:9**<big><big>[[Deut.18.9 Sorcery Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.
 <small><sub>**BSB:**</sub></small>
 When you enter the land that the LORD your God is giving you, do not imitate the detestable ways of the nations there.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0859A\|אַתָּה֙]] [[H0935G\|בָּ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3925H\|תִלְמַ֣ד]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H9004\|כְּ]][[H8441\|תוֹעֲבֹ֖ת]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.8|<< Deuteronomy 18:8]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.10|Deuteronomy 18:10 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 1 Chronicles 28:20
+type: Verse
+kjv: "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD."
+bsb: "David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished."
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜יד לִשְׁלֹמֹ֣ה בְנ֗וֹ חֲזַ֤ק וֶאֱמַץ֙ וַעֲשֵׂ֔ה אַל־ תִּירָ֖א וְאַל־ תֵּחָ֑ת כִּי֩ יְהוָ֨ה אֱלֹהִ֤ים אֱלֹהַי֙ עִמָּ֔ךְ לֹ֤א יַרְפְּךָ֙ וְלֹ֣א יַֽעַזְבֶ֔ךָּ עַד־ לִכְל֕וֹת כָּל־ מְלֶ֖אכֶת עֲבוֹדַ֥ת בֵּית־ יְהוָֽה׃"
+pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H6213A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H2865]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H7503]]"
+- "[[H5800A]]"
+- "[[H5704]]"
+- "[[H3615G]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:20**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Solomon his son, Be strong and of good courage, and do [it]: fear not, nor be dismayed: for the LORD God, [even] my God, [will be] with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜יד]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בְנ֗]][[H9023\|וֹ]] [[H2388G\|חֲזַ֤ק]] [[H9002\|וֶ]][[H0553\|אֱמַץ֙]] [[H9002\|וַ]][[H6213A\|עֲשֵׂ֔ה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֖א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחָ֑ת]] [[H3588A\|כִּי֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהִ֤ים]] [[H0430G\|אֱלֹהַ]][[H9020\|י֙]] [[H5973A\|עִמָּ֔]][[H9031\|ךְ]] [[H3808\|לֹ֤א]] [[H7503\|יַרְפְּ]][[H9031\|ךָ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5800A\|יַֽעַזְבֶ֔]][[H9031\|ךָּ]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לִ]][[H3615G\|כְל֕וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֖אכֶת]] [[H5656H\|עֲבוֹדַ֥ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.19|<< 1 Chronicles 28:19]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.21|1 Chronicles 28:21 >>]]</td></tr></table>
 

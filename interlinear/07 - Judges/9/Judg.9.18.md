@@ -1,8 +1,74 @@
+---
+title: Judges 9:18
+type: Verse
+kjv: "And ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)"
+bsb: "but you have risen up against my father’s house this day and killed his seventy sons on a single stone, and you have made Abimelech, the son of his maidservant, king over the leaders of Shechem because he is your brother—"
+hebrew: "וְאַתֶּ֞ם קַמְתֶּ֨ם עַל־ בֵּ֤ית אָבִי֙ הַיּ֔וֹם וַתַּהַרְג֧וּ אֶת־ בָּנָ֛יו שִׁבְעִ֥ים אִ֖ישׁ עַל־ אֶ֣בֶן אֶחָ֑ת וַתַּמְלִ֜יכוּ אֶת־ אֲבִימֶ֤לֶךְ בֶּן־ אֲמָתוֹ֙ עַל־ בַּעֲלֵ֣י שְׁכֶ֔ם כִּ֥י אֲחִיכֶ֖ם הֽוּא׃"
+pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7657]]"
+- "[[H0376G]]"
+- "[[H0068G]]"
+- "[[H0259]]"
+- "[[H4427A]]"
+- "[[H0040H]]"
+- "[[H0519]]"
+- "[[H1167G]]"
+- "[[H7927G]]"
+- "[[H3588A]]"
+- "[[H0251H]]"
+- "[[H9026]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:18**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he [is] your brother;)
 <small><sub>**BSB:**</sub></small>
 but you have risen up against my father’s house this day and killed his seventy sons on a single stone, and you have made Abimelech, the son of his maidservant, king over the leaders of Shechem because he is your brother—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֞ם]] [[H6965J\|קַמְתֶּ֨ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֤ית]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9001\|וַ]][[H2026\|תַּהַרְג֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֛י]][[H9023\|ו]] [[H7657\|שִׁבְעִ֥ים]] [[H0376G\|אִ֖ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H0068G\|אֶ֣בֶן]] [[H0259\|אֶחָ֑ת]] [[H9001\|וַ]][[H4427A\|תַּמְלִ֜יכוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0040H\|אֲבִימֶ֤לֶךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0519\|אֲמָת]][[H9023\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1167G\|בַּעֲלֵ֣י]] [[H7927G\|שְׁכֶ֔ם]] [[H3588A\|כִּ֥י]] [[H0251H\|אֲחִי]][[H9026\|כֶ֖ם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic ORPHAN|ORPHAN]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.17|<< Judges 9:17]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.19|Judges 9:19 >>]]</td></tr></table>
 

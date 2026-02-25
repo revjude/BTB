@@ -1,8 +1,60 @@
+---
+title: Exodus 37:7
+type: Verse
+kjv: "And he made two cherubims of gold, beaten out of one piece made he them, on the two ends of the mercy seat;"
+bsb: "He made two cherubim of hammered gold at the ends of the mercy seat,"
+hebrew: "וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃"
+pericope: "[[Exod.37.6 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H8147]]"
+- "[[H3742]]"
+- "[[H2091]]"
+- "[[H4749]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H3727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:7**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made two cherubims [of] gold, beaten out of one piece made he them, on the two ends of the mercy seat;
 <small><sub>**BSB:**</sub></small>
 He made two cherubim of hammered gold at the ends of the mercy seat,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֛עַשׂ]] [[H8147\|שְׁנֵ֥י]] [[H3742\|כְרֻבִ֖ים]] [[H2091\|זָהָ֑ב]] [[H4749\|מִקְשָׁה֙]] [[H6213H\|עָשָׂ֣ה]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9006\|מִ]][[H8147\|שְּׁנֵ֖י]] [[H7098\|קְצ֥וֹת]] [[H9009\|הַ]][[H3727\|כַּפֹּֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic GOLD|GOLD]] • [[topic MERCY-SEAT|MERCY-SEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.6|<< Exodus 37:6]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.8|Exodus 37:8 >>]]</td></tr></table>
 

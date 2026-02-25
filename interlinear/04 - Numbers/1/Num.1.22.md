@@ -1,8 +1,72 @@
+---
+title: Numbers 1:22
+type: Verse
+kjv: "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+bsb: "From the sons of Simeon, according to the records of their clans and families, counting one by one the names of every male twenty years of age or older who could serve in the army,"
+hebrew: "לִבְנֵ֣י שִׁמְע֔וֹן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם פְּקֻדָ֗יו בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם כָּל־ זָכָ֗ר מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H8095G]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H4940]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H6485A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H8034]]"
+- "[[H1538]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H3318N]]"
+- "[[H6635H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:22**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
 <small><sub>**BSB:**</sub></small>
 From the sons of Simeon, according to the records of their clans and families, counting one by one the names of every male twenty years of age or older who could serve in the army,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H8095G\|שִׁמְע֔וֹן]] [[H8435\|תּוֹלְדֹתָ֥]][[H9028\|ם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H6485A\|פְּקֻדָ֗י]][[H9023\|ו]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֤ר]] [[H8034\|שֵׁמוֹת֙]] [[H9005\|לְ]][[H1538\|גֻלְגְּלֹתָ֔]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֗ר]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H3605\|כֹּ֖ל]] [[H3318N\|יֹצֵ֥א]] [[H6635H\|צָבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.21|<< Numbers 1:21]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.23|Numbers 1:23 >>]]</td></tr></table>
 

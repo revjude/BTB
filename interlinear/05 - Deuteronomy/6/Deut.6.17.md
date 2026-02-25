@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 6:17
+type: Verse
+kjv: "Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee."
+bsb: "You are to diligently keep the commandments of the LORD your God and the testimonies and statutes He has given you."
+hebrew: "שָׁמ֣וֹר תִּשְׁמְר֔וּן אֶת־ מִצְוֹ֖ת יְהוָ֣ה אֱלֹהֵיכֶ֑ם וְעֵדֹתָ֥יו וְחֻקָּ֖יו אֲשֶׁ֥ר צִוָּֽךְ׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H8104J]]"
+- "[[H8104G]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H5713B]]"
+- "[[H9023]]"
+- "[[H2706G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:17**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.
 <small><sub>**BSB:**</sub></small>
 You are to diligently keep the commandments of the LORD your God and the testimonies and statutes He has given you.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|שָׁמ֣וֹר]] [[H8104G\|תִּשְׁמְר֔וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֖ת]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H5713B\|עֵדֹתָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H2706G\|חֻקָּ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DILIGENCE|DILIGENCE]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.16|<< Deuteronomy 6:16]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.18|Deuteronomy 6:18 >>]]</td></tr></table>
 

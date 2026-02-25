@@ -1,8 +1,53 @@
+---
+title: Esther 9:32
+type: Verse
+kjv: "And the decree of Esther confirmed these matters of Purim; and it was written in the book."
+bsb: "So Esther’s decree confirmed these regulations about Purim, which were written into the record."
+hebrew: "וּמַאֲמַ֣ר אֶסְתֵּ֔ר קִיַּ֕ם דִּבְרֵ֥י הַפֻּרִ֖ים הָאֵ֑לֶּה וְנִכְתָּ֖ב בַּסֵּֽפֶר׃ פ"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3982]]"
+- "[[H0635]]"
+- "[[H6965I]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H6332]]"
+- "[[H0428]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Esther 9:32**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the decree of Esther confirmed these matters of Purim; and it was written in the book.
 <small><sub>**BSB:**</sub></small>
 So Esther’s decree confirmed these regulations about Purim, which were written into the record.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3982\|מַאֲמַ֣ר]] [[H0635\|אֶסְתֵּ֔ר]] [[H6965I\|קִיַּ֕ם]] [[H1697I\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H6332\|פֻּרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H3789\|נִכְתָּ֖ב]] [[H9003\|בַּ]][[H5612A\|סֵּֽפֶר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.31|<< Esther 9:31]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.1|Esther 10:1 >>]]</td></tr></table>
 
@@ -15,7 +60,7 @@ So Esther’s decree confirmed these regulations about Purim, which were written
 | the Purim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6332\|פֻּרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵ֑לֶּה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [it was] written  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3789\|נִכְתָּ֖ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nikh.Tav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the book  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5612A\|סֵּֽפֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the book  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5612A\|סֵּֽפֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.31|<< Esther 9:31]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.1|Esther 10:1 >>]]</td></tr></table>
 
 

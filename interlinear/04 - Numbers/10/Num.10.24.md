@@ -1,8 +1,57 @@
+---
+title: Numbers 10:24
+type: Verse
+kjv: "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni."
+bsb: "and Abidan son of Gideoni was over the division of the tribe of Benjamin."
+hebrew: "וְעַ֨ל־ צְבָ֔א מַטֵּ֖ה בְּנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־ גִּדְעוֹנִֽי׃ ס"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GIDEONI|GIDEONI]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H0027]]"
+- "[[H1121A]]"
+- "[[H1441]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 10:24**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over the host of the tribe of the children of Benjamin [was] Abidan the son of Gideoni.
 <small><sub>**BSB:**</sub></small>
 and Abidan son of Gideoni was over the division of the tribe of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֨ל]][[H9014\|־]] [[H6635A\|צְבָ֔א]] [[H4294H\|מַטֵּ֖ה]] [[H1121G\|בְּנֵ֣י]] [[H1144G\|בִנְיָמִ֑ן]] [[H0027\|אֲבִידָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1441\|גִּדְעוֹנִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEONI|GIDEONI]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.23|<< Numbers 10:23]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.25|Numbers 10:25 >>]]</td></tr></table>
 
@@ -15,7 +64,7 @@ and Abidan son of Gideoni was over the division of the tribe of Benjamin.
 | Benjamin  |**<big>&#8207;[[H1144G\|בִנְיָמִ֑ן]]&#8207; </big>**| vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abidan  |**<big>&#8207;[[H0027\|אֲבִידָ֖ן]]&#8207; </big>**| 'a.vi.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gideoni  |**<big>&#8207;[[H1441\|גִּדְעוֹנִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| gid.'o.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gideoni  |**<big>&#8207;[[H1441\|גִּדְעוֹנִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| gid.'o.Ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.23|<< Numbers 10:23]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.25|Numbers 10:25 >>]]</td></tr></table>
 
 

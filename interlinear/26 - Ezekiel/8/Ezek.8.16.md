@@ -1,8 +1,78 @@
+---
+title: Ezekiel 8:16
+type: Verse
+kjv: "And he brought me into the inner court of the LORD’S house, and, behold, at the door of the temple of the LORD, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east."
+bsb: "So He brought me to the inner court of the house of the LORD, and there at the entrance to the temple of the LORD, between the portico and the altar, were about twenty-five men with their backs to the temple of the LORD and their faces toward the east; and they were bowing to the east in worship of the sun."
+hebrew: "וַיָּבֵ֣א אֹתִ֗י אֶל־ חֲצַ֣ר בֵּית־ יְהוָה֮ הַפְּנִימִית֒ וְהִנֵּה־ פֶ֜תַח הֵיכַ֣ל יְהוָ֗ה בֵּ֤ין הָֽאוּלָם֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ כְּעֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה אִ֑ישׁ אֲחֹ֨רֵיהֶ֜ם אֶל־ הֵיכַ֤ל יְהוָה֙ וּפְנֵיהֶ֣ם קֵ֔דְמָה וְהֵ֛מָּה מִשְׁתַּחֲוִיתֶ֥ם קֵ֖דְמָה לַשָּֽׁמֶשׁ׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SUN|SUN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H6442]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6607]]"
+- "[[H1964G]]"
+- "[[H0996G]]"
+- "[[H0197J]]"
+- "[[H4196]]"
+- "[[H9004]]"
+- "[[H6242]]"
+- "[[H2568]]"
+- "[[H0376G]]"
+- "[[H0268]]"
+- "[[H9028]]"
+- "[[H6440H]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H1992]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:16**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me into the inner court of the LORD’S house, and, behold, at the door of the temple of the LORD, between the porch and the altar, [were] about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.
 <small><sub>**BSB:**</sub></small>
 So He brought me to the inner court of the house of the LORD, and there at the entrance to the temple of the LORD, between the portico and the altar, were about twenty-five men with their backs to the temple of the LORD and their faces toward the east; and they were bowing to the east in worship of the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֣א]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H2691A\|חֲצַ֣ר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H9009\|הַ]][[H6442\|פְּנִימִית֒]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H6607\|פֶ֜תַח]] [[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֗ה]] [[H0996G\|בֵּ֤ין]] [[H9009\|הָֽ]][[H0197J\|אוּלָם֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9004\|כְּ]][[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H0376G\|אִ֑ישׁ]] [[H0268\|אֲחֹ֨רֵי]][[H9028\|הֶ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1964G\|הֵיכַ֤ל]] [[H3068G\|יְהוָה֙]] [[H9002\|וּ]][[H6440H\|פְנֵי]][[H9028\|הֶ֣ם]] [[H6924B\|קֵ֔דְמָ]][[H9011\|ה]] [[H9002\|וְ]][[H1992\|הֵ֛מָּה]] [[H7812\|מִשְׁתַּחֲוִיתֶ֥ם]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H9005\|לַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SUN|SUN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.15|<< Ezekiel 8:15]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.17|Ezekiel 8:17 >>]]</td></tr></table>
 

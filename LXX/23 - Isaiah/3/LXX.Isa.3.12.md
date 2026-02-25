@@ -1,6 +1,64 @@
+---
+title: LXX Isaiah 3:12
+type: Verse
+lxx: "O my people,  your exactors glean you, and the ones exacting lord over you; O my people, the ones declaring you blessed mislead you, and they disturb the roads of your feet."
+greek: "λαός μου οι πράκτορες υμών καλαμώνται υμάς και οι απαιτούντες κυριεύουσιν υμών λαός μου οι μακαρίζοντες υμάς πλανώσιν υμάς και τας τρίβους των ποδών υμών εκταράσσουσιν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4233]]"
+- "[[G1473]]"
+- "[[G7777]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0523]]"
+- "[[G2961]]"
+- "[[G1473]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3106]]"
+- "[[G1473]]"
+- "[[G4105]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5147]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1473]]"
+- "[[G1613]]"
+---
+
 **LXX Isaiah 3:12** 
 <small><sub>**LXX:**</sub></small>
 O my people,  your exactors glean you, and the ones exacting lord over you; O my people, the ones declaring you blessed mislead you, and they disturb the roads of your feet. 
+<small><sub>**Greek:**</sub></small>
+[[G2992\|λαός]] [[G1473\|μου]] [[G3588\|οι]] [[G4233\|πράκτορες]] [[G1473\|υμών]] [[G7777\|καλαμώνται]] [[G1473\|υμάς]] [[G2532\|και]] [[G3588\|οι]] [[G0523\|απαιτούντες]] [[G2961\|κυριεύουσιν]] [[G1473\|υμών]] [[G2992\|λαός]] [[G1473\|μου]] [[G3588\|οι]] [[G3106\|μακαρίζοντες]] [[G1473\|υμάς]] [[G4105\|πλανώσιν]] [[G1473\|υμάς]] [[G2532\|και]] [[G3588\|τας]] [[G5147\|τρίβους]] [[G3588\|των]] [[G4228\|ποδών]] [[G1473\|υμών]] [[G1613\|εκταράσσουσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
 
@@ -27,6 +85,6 @@ O my people,  your exactors glean you, and the ones exacting lord over you; O my
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of your feet | **<big>[[G4228\|ποδών]]</big>** **<big>[[G1473\|υμών]]</big>** |
 | they disturb | **<big>[[G1613\|εκταράσσουσιν]]</big>** |
-[[Isa.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
 
 

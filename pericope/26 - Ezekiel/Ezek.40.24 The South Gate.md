@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The South Gate
+type: Pericope
 pericope: "[[Ezek.40.24 The South Gate|The South Gate]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.40.24]]"
 - "[[Ezek.40.25]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.40.27]]"
 ---
 
-[[Ezek.40|Ezekiel 40:24 - Ezekiel 40:27]]
+<small>[[Ezek.40|Ezekiel 40:24-27]]</small>
 *The South Gate*
 
 [[Ezek.40.24|24]] After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.

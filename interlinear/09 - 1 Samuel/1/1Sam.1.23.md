@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 1:23
+type: Verse
+kjv: "And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him."
+bsb: "“Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm His word.” So Hannah stayed and nursed her son until she had weaned him."
+hebrew: "וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד־ גָּמְלֵ֣ךְ אֹת֔וֹ אַ֛ךְ יָקֵ֥ם יְהוָ֖ה אֶת־ דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת־ בְּנָ֔הּ עַד־ גָּמְלָ֖הּ אֹתֽוֹ׃"
+pericope: "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic HANNAH|HANNAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0511H]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9022]]"
+- "[[H3427]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1580]]"
+- "[[H9042]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0389]]"
+- "[[H6965I]]"
+- "[[H3068G]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H0802G]]"
+- "[[H3243]]"
+- "[[H1121A]]"
+- "[[H9044]]"
+- "[[H9016]]"
+texts:
+- L
+- LAH(b)
+---
+
 **1 Samuel 1:23**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him.
 <small><sub>**BSB:**</sub></small>
 “Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm His word.” So Hannah stayed and nursed her son until she had weaned him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9034\|הּ֩]] [[H0511H\|אֶלְקָנָ֨ה]] [[H0376H\|אִישָׁ֜]][[H9024\|הּ]] [[H6213A\|עֲשִׂ֧י]] [[H9009\|הַ]][[H2896A\|טּ֣וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינַ֗יִ]][[H9022\|ךְ]] [[H3427\|שְׁבִי֙]] [[H5704\|עַד]][[H9014\|־]] [[H1580\|גָּמְלֵ֣]][[H9042\|ךְ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0389\|אַ֛ךְ]] [[H6965I\|יָקֵ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3427\|תֵּ֤שֶׁב]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H9001\|וַ]][[H3243\|תֵּ֣ינֶק]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנָ֔]][[H9024\|הּ]] [[H5704\|עַד]][[H9014\|־]] [[H1580\|גָּמְלָ֖]][[H9044\|הּ]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELKANAH|ELKANAH]] • [[topic HANNAH|HANNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.22|<< 1 Samuel 1:22]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.24|1 Samuel 1:24 >>]]</td></tr></table>
 

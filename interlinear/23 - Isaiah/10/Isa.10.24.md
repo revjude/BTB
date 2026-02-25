@@ -1,8 +1,70 @@
+---
+title: Isaiah 10:24
+type: Verse
+kjv: "Therefore thus saith the Lord GOD of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt."
+bsb: "Therefore this is what the Lord GOD of Hosts says: “O My people who dwell in Zion, do not fear Assyria, who strikes you with a rod and lifts his staff against you as the Egyptians did."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַ֞ר אֲדֹנָ֤י יְהוִה֙ צְבָא֔וֹת אַל־ תִּירָ֥א עַמִּ֛י יֹשֵׁ֥ב צִיּ֖וֹן מֵֽאַשּׁ֑וּר בַּשֵּׁ֣בֶט יַכֶּ֔כָּה וּמַטֵּ֥הוּ יִשָּֽׂא־ עָלֶ֖יךָ בְּדֶ֥רֶךְ מִצְרָֽיִם׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3427]]"
+- "[[H6726]]"
+- "[[H9006]]"
+- "[[H0804G]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H5221]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H4294G]]"
+- "[[H9023]]"
+- "[[H5375R]]"
+- "[[H5921A]]"
+- "[[H1870G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:24**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD of Hosts says: “O My people who dwell in Zion, do not fear Assyria, who strikes you with a rod and lifts his staff against you as the Egyptians did.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H6635B\|צְבָא֔וֹת]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֥א]] [[H5971A\|עַמִּ֛]][[H9020\|י]] [[H3427\|יֹשֵׁ֥ב]] [[H6726\|צִיּ֖וֹן]] [[H9006\|מֵֽ]][[H0804G\|אַשּׁ֑וּר]] [[H9003\|בַּ]][[H7626G\|שֵּׁ֣בֶט]] [[H5221\|יַכֶּ֔]][[H9031\|כָּה]] [[H9002\|וּ]][[H4294G\|מַטֵּ֥]][[H9023\|הוּ]] [[H5375R\|יִשָּֽׂא]][[H9014\|־]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 

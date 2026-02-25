@@ -1,10 +1,68 @@
+---
+title: Matthew 15:8
+type: Verse
+kjv: "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."
+bsb: "‘These people honor Me with their lips, but their hearts are far from Me."
+jesus_said: "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."
+greek: "Ἐγγίζει μοι Ὁ λαὸς οὗτος τῷ στόματι αὐτῶν καὶ τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽ ἐμοῦ."
+pericope: "[[Matt.15.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G1448]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G5491]]"
+- "[[G5091]]"
+- "[[G1161]]"
+- "[[G2588]]"
+- "[[G4206]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G1473]]"
+texts:
+- K
+- NKO
+---
+
 **Matthew 15:8**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This people draweth nigh unto me with their mouth, and honoureth me with [their] lips; but their heart is far from me.
 <small><sub>**BSB:**</sub></small>
 ‘These people honor Me with their lips, but their hearts are far from Me.
-<small><sub>**Literal:**</sub></small>
-draws near to me <the> people this with the mouth of them and with the lips Me it honors, the however heart of them far away is kept from Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.7|<< Matthew 15:7]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.9|Matthew 15:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1448\|Ἐγγίζει]]  [[G3165\|μοι]]  [[G3588\|Ὁ]]  [[G2992\|λαὸς]]  [[G3778\|οὗτος]]  [[G3588\|τῷ]]  [[G4750\|στόματι]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G5491\|χείλεσίν]]  [[G3165\|με]]  [[G5091\|τιμᾷ,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G2588\|καρδία]]  [[G0846\|αὐτῶν]]  [[G4206\|πόρρω]]  [[G0568\|ἀπέχει]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FORMALISM|FORMALISM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.7|<< Matthew 15:7]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.9|Matthew 15:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 15:8** is...
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]

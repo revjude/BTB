@@ -1,8 +1,78 @@
+---
+title: Genesis 22:13
+type: Verse
+kjv: "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son."
+bsb: "Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son."
+hebrew: "וַיִּשָּׂ֨א אַבְרָהָ֜ם אֶת־ עֵינָ֗יו וַיַּרְא֙ וְהִנֵּה־ אַ֔יִל אַחַ֕ר נֶאֱחַ֥ז בַּסְּבַ֖ךְ בְּקַרְנָ֑יו וַיֵּ֤לֶךְ אַבְרָהָם֙ וַיִּקַּ֣ח אֶת־ הָאַ֔יִל וַיַּעֲלֵ֥הוּ לְעֹלָ֖ה תַּ֥חַת בְּנֽוֹ׃"
+pericope: "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic VICARIOUS|VICARIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0352A]]"
+- "[[H0310A]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H5442]]"
+- "[[H7161A]]"
+- "[[H1980G]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H5927I]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5930A]]"
+- "[[H8478H]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:13**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 <small><sub>**BSB:**</sub></small>
 Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375M\|יִּשָּׂ֨א]] [[H0085\|אַבְרָהָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H0352A\|אַ֔יִל]] [[H0310A\|אַחַ֕ר]] [[H0270\|נֶאֱחַ֥ז]] [[H9003\|בַּ]][[H5442\|סְּבַ֖ךְ]] [[H9003\|בְּ]][[H7161A\|קַרְנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H0085\|אַבְרָהָם֙]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֔יִל]] [[H9001\|וַ]][[H5927I\|יַּעֲלֵ֥]][[H9033\|הוּ]] [[H9005\|לְ]][[H5930A\|עֹלָ֖ה]] [[H8478H\|תַּ֥חַת]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OFFERINGS|OFFERINGS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SHEEP|SHEEP]] • [[topic TEMPTATION|TEMPTATION]] • [[topic VICARIOUS|VICARIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.12|<< Genesis 22:12]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.14|Genesis 22:14 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 59:7
+type: Verse
+kjv: "Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?"
+bsb: "See what they spew from their mouths—sharp words from their lips: “For who can hear us?”"
+hebrew: "הִנֵּ֤ה׀ יַבִּ֘יע֤וּן בְּפִיהֶ֗ם חֲ֭רָבוֹת בְּשִׂפְתוֹתֵיהֶ֑ם כִּי־ מִ֥י שֹׁמֵֽעַ׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H5042]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H2719]]"
+- "[[H8193G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:7**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, they belch out with their mouth: swords [are] in their lips: for who, [say they], doth hear?
 <small><sub>**BSB:**</sub></small>
 See what they spew from their mouths—sharp words from their lips: “For who can hear us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]][[H9015\|׀]] [[H5042\|יַבִּ֘יע֤וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶ֗ם]] [[H2719\|חֲ֭רָבוֹת]] [[H9003\|בְּ]][[H8193G\|שִׂפְתוֹתֵי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H4310\|מִ֥י]] [[H8085G\|שֹׁמֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MALICE|MALICE]] • [[topic WAITING|WAITING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.6|<< Psalms 59:6]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.8|Psalms 59:8 >>]]</td></tr></table>
 

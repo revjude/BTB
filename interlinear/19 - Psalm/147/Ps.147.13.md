@@ -1,8 +1,57 @@
+---
+title: Psalm 147:13
+type: Verse
+kjv: "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee."
+bsb: "For He strengthens the bars of your gates and blesses the children within you."
+hebrew: "כִּֽי־ חִ֭זַּק בְּרִיחֵ֣י שְׁעָרָ֑יִךְ בֵּרַ֖ךְ בָּנַ֣יִךְ בְּקִרְבֵּֽךְ׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2388G]]"
+- "[[H1280]]"
+- "[[H8179G]]"
+- "[[H9022]]"
+- "[[H1288]]"
+- "[[H1121A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:13**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.
 <small><sub>**BSB:**</sub></small>
 For He strengthens the bars of your gates and blesses the children within you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2388G\|חִ֭זַּק]] [[H1280\|בְּרִיחֵ֣י]] [[H8179G\|שְׁעָרָ֑יִ]][[H9022\|ךְ]] [[H1288\|בֵּרַ֖ךְ]] [[H1121A\|בָּנַ֣יִ]][[H9022\|ךְ]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.12|<< Psalms 147:12]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.14|Psalms 147:14 >>]]</td></tr></table>
 

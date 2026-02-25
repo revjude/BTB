@@ -1,10 +1,56 @@
+---
+title: Acts 9:19
+type: Verse
+kjv: "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
+bsb: "and after taking some food, he regained his strength. And he spent several days with the disciples in Damascus."
+greek: "καὶ λαβὼν τροφὴν ἐνίσχυσεν.¶ Ἐγένετο δὲ ὁ Σαῦλος μετὰ τῶν ἐν Δαμασκῷ μαθητῶν ἡμέρας τινάς·"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G5160]]"
+- "[[G1765]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4569H]]"
+- "[[G3326]]"
+- "[[G1722]]"
+- "[[G1154]]"
+- "[[G3101]]"
+- "[[G2250]]"
+- "[[G5100]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **Acts 9:19**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.
 <small><sub>**BSB:**</sub></small>
 and after taking some food, he regained his strength. And he spent several days with the disciples in Damascus.
-<small><sub>**Literal:**</sub></small>
-and having taken food he strengthened. He was now <the> Saul with those in Damascus [the] disciple,s days [for] some;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.18|<< Acts 9:18]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.20|Acts 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|λαβὼν]]  [[G5160\|τροφὴν]]  [[G1765\|ἐνίσχυσεν.¶]]  [[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4569H\|Σαῦλος]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G1154\|Δαμασκῷ]]  [[G3101\|μαθητῶν]]  [[G2250\|ἡμέρας]]  [[G5100\|τινάς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.18|<< Acts 9:18]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.20|Acts 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

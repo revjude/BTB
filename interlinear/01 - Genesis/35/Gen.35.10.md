@@ -1,8 +1,65 @@
+---
+title: Genesis 35:10
+type: Verse
+kjv: "And God said unto him, Thy name is Jacob: thy name shall not be called any more Jacob, but Israel shall be thy name: and he called his name Israel."
+bsb: "And God said to him, “Though your name is Jacob, you will no longer be called Jacob. Instead, your name will be Israel.” So God named him Israel."
+hebrew: "וַיֹּֽאמֶר־ ל֥וֹ אֱלֹהִ֖ים שִׁמְךָ֣ יַעֲקֹ֑ב לֹֽא־ יִקָּרֵא֩ שִׁמְךָ֙ ע֜וֹד יַעֲקֹ֗ב כִּ֤י אִם־ יִשְׂרָאֵל֙ יִהְיֶ֣ה שְׁמֶ֔ךָ וַיִּקְרָ֥א אֶת־ שְׁמ֖וֹ יִשְׂרָאֵֽל׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3290]]"
+- "[[H3808]]"
+- "[[H7121G]]"
+- "[[H5750]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H0853]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- LBH(a)
+---
+
 **Genesis 35:10**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto him, Thy name [is] Jacob: thy name shall not be called any more Jacob, but Israel shall be thy name: and he called his name Israel.
 <small><sub>**BSB:**</sub></small>
 And God said to him, “Though your name is Jacob, you will no longer be called Jacob. Instead, your name will be Israel.” So God named him Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמֶר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֖ים]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H3290\|יַעֲקֹ֑ב]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7121G\|יִקָּרֵא֩]] [[H8034\|שִׁמְ]][[H9021\|ךָ֙]] [[H5750\|ע֜וֹד]] [[H3290\|יַעֲקֹ֗ב]] [[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H1961\|יִהְיֶ֣ה]] [[H8034\|שְׁמֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BLESSING|BLESSING]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.9|<< Genesis 35:9]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.11|Genesis 35:11 >>]]</td></tr></table>
 

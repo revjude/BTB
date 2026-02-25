@@ -1,8 +1,63 @@
+---
+title: Leviticus 24:22
+type: Verse
+kjv: "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God."
+bsb: "You are to have the same standard of law for the foreign resident and the native; for I am the LORD your God.’”"
+hebrew: "מִשְׁפַּ֤ט אֶחָד֙ יִהְיֶ֣ה לָכֶ֔ם כַּגֵּ֥ר כָּאֶזְרָ֖ח יִהְיֶ֑ה כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.24.17 An Eye for an Eye|An Eye for an Eye]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H4941G]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H1616]]"
+- "[[H0249]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:22**<big><big>[[Lev.24.17 An Eye for an Eye|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 You are to have the same standard of law for the foreign resident and the native; for I am the LORD your God.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H4941G\|מִשְׁפַּ֤ט]] [[H0259\|אֶחָד֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9004\|כַּ]][[H1616\|גֵּ֥ר]] [[H9004\|כָּ]][[H0249\|אֶזְרָ֖ח]] [[H1961\|יִהְיֶ֑ה]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic LEGISLATION|LEGISLATION]] • [[topic RETALIATION|RETALIATION]] • [[topic RULERS|RULERS]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.21|<< Leviticus 24:21]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.23|Leviticus 24:23 >>]]</td></tr></table>
 

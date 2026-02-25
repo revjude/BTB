@@ -1,10 +1,57 @@
+---
+title: 1 John 2:19
+type: Verse
+kjv: "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us."
+bsb: "They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But their departure made it clear that none of them belonged to us."
+greek: "ἐξ ἡμῶν ἐξῆλθαν ἀλλ᾽ οὐκ ἦσαν ἐξ ἡμῶν· εἰ γὰρ ἐξ ἡμῶν ἦσαν, μεμενήκεισαν ἂν μεθ᾽ ἡμῶν· ἀλλ᾽ ἵνα φανερωθῶσιν ὅτι οὐκ εἰσὶν πάντες ἐξ ἡμῶν."
+pericope: "[[1John.2.18 Beware of Antichrists|Beware of Antichrists]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[G1537]]"
+- "[[G3165]]"
+- "[[G1831]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3306]]"
+- "[[G0302]]"
+- "[[G3326]]"
+- "[[G2443]]"
+- "[[G5319]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **1 John 2:19**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They went out from us, but they were not of us; for if they had been of us, they would [no doubt] have continued with us: but [they went out], that they might be made manifest that they were not all of us.
 <small><sub>**BSB:**</sub></small>
 They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But their departure made it clear that none of them belonged to us.
-<small><sub>**Literal:**</sub></small>
-From among us they went out but not they were of us; if for of us they were being they had remained then would with us; But [it is] so that it may be made manifest that not they are all of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.18|<< 1 John 2:18]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.20|1 John 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐξ]]  [[G3165\|ἡμῶν]]  [[G1831\|ἐξῆλθαν]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1510\|ἦσαν]]  [[G1537\|ἐξ]]  [[G3165\|ἡμῶν·]]  [[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1537\|ἐξ]]  [[G3165\|ἡμῶν]]  [[G1510\|ἦσαν,]]  [[G3306\|μεμενήκεισαν]]  [[G0302\|ἂν]]  [[G3326\|μεθ᾽]]  [[G3165\|ἡμῶν·]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G5319\|φανερωθῶσιν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|εἰσὶν]]  [[G3956\|πάντες]]  [[G1537\|ἐξ]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.18|<< 1 John 2:18]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.20|1 John 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

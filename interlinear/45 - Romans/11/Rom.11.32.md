@@ -1,10 +1,51 @@
+---
+title: Romans 11:32
+type: Verse
+kjv: "For God hath concluded them all in unbelief, that he might have mercy upon all."
+bsb: "For God has consigned everyone to disobedience so that He may have mercy on everyone."
+greek: "συνέκλεισεν γὰρ ὁ θεὸς τοὺς πάντας εἰς ἀπείθειαν ἵνα τοὺς πάντας ἐλεήσῃ.¶"
+pericope: "[[Rom.11.25 All Israel Will Be Saved|All Israel Will Be Saved]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4788]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G0543]]"
+- "[[G2443]]"
+- "[[G1653]]"
+texts:
+- NKO
+---
+
 **Romans 11:32**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God hath concluded them all in unbelief, that he might have mercy upon all.
 <small><sub>**BSB:**</sub></small>
 For God has consigned everyone to disobedience so that He may have mercy on everyone.
-<small><sub>**Literal:**</sub></small>
-Has bound up for <the> God <the> all in disobedience that <the> all He may show mercy to.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.31|<< Romans 11:31]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.33|Romans 11:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4788\|συνέκλεισεν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τοὺς]]  [[G3956\|πάντας]]  [[G1519\|εἰς]]  [[G0543\|ἀπείθειαν]]  [[G2443\|ἵνα]]  [[G3588\|τοὺς]]  [[G3956\|πάντας]]  [[G1653\|ἐλεήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.31|<< Romans 11:31]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.33|Romans 11:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

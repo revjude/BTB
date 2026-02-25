@@ -1,8 +1,64 @@
+---
+title: 1 Kings 1:48
+type: Verse
+kjv: "And also thus said the king, Blessed be the LORD God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it."
+bsb: "saying, ‘Blessed be the LORD, the God of Israel! Today He has provided one to sit on my throne, and my eyes have seen it.’”"
+hebrew: "וְגַם־ כָּ֖כָה אָמַ֣ר הַמֶּ֑לֶךְ בָּר֨וּךְ יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אֲשֶׁ֨ר נָתַ֥ן הַיּ֛וֹם יֹשֵׁ֥ב עַל־ כִּסְאִ֖י וְעֵינַ֥י רֹאֽוֹת׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3602]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3117L]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:48**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also thus said the king, Blessed [be] the LORD God of Israel, which hath given [one] to sit on my throne this day, mine eyes even seeing [it].
 <small><sub>**BSB:**</sub></small>
 saying, ‘Blessed be the LORD, the God of Israel! Today He has provided one to sit on my throne, and my eyes have seen it.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3602\|כָּ֖כָה]] [[H0559\|אָמַ֣ר]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H1288\|בָּר֨וּךְ]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֥ן]] [[H9009\|הַ]][[H3117L\|יּ֛וֹם]] [[H3427\|יֹשֵׁ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְאִ֖]][[H9020\|י]] [[H9002\|וְ]][[H5869A\|עֵינַ֥]][[H9020\|י]] [[H7200G\|רֹאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.47|<< 1 Kings 1:47]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.49|1 Kings 1:49 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Jeremiah 37:7
+type: Verse
+kjv: "Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to inquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land."
+bsb: "“This is what the LORD, the God of Israel, says that you are to tell the king of Judah, who sent you to Me: Behold, Pharaoh’s army, which has marched out to help you, will go back to its own land of Egypt."
+hebrew: "כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כֹּ֤ה תֹֽאמְרוּ֙ אֶל־ מֶ֣לֶךְ יְהוּדָ֔ה הַשֹּׁלֵ֧חַ אֶתְכֶ֛ם אֵלַ֖י לְדָרְשֵׁ֑נִי הִנֵּ֣ה׀ חֵ֣יל פַּרְעֹ֗ה הַיֹּצֵ֤א לָכֶם֙ לְעֶזְרָ֔ה שָׁ֥ב לְאַרְצ֖וֹ מִצְרָֽיִם׃"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H2428A]]"
+- "[[H6547R]]"
+- "[[H3318G]]"
+- "[[H5833]]"
+- "[[H7725G]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:7**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to inquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD, the God of Israel, says that you are to tell the king of Judah, who sent you to Me: Behold, Pharaoh’s army, which has marched out to help you, will go back to its own land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3541\|כֹּ֤ה]] [[H0559\|תֹֽאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H9009\|הַ]][[H7971G\|שֹּׁלֵ֧חַ]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9005\|לְ]][[H1875\|דָרְשֵׁ֑]][[H9030\|נִי]] [[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H2428A\|חֵ֣יל]] [[H6547R\|פַּרְעֹ֗ה]] [[H9009\|הַ]][[H3318G\|יֹּצֵ֤א]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H5833\|עֶזְרָ֔ה]] [[H7725G\|שָׁ֥ב]] [[H9005\|לְ]][[H0776G\|אַרְצ֖]][[H9023\|וֹ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic PHARAOH|PHARAOH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 

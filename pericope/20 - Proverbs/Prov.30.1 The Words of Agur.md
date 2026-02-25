@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Words of Agur
+type: Pericope
 pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 30
 book/chapter: "[[Prov.30|Proverbs 30]]"
-genre:
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 33
 verses:
 - "[[Prov.30.1]]"
 - "[[Prov.30.2]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Prov.30.33]]"
 ---
 
-[[Prov.30|Proverbs 30:1 - Proverbs 30:33]]
+<small>[[Prov.30|Proverbs 30:1-33]]</small>
 *The Words of Agur*
 
 [[Prov.30.1|1]] The words of Agur the son of Jakeh, \[even\] the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,

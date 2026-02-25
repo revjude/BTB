@@ -1,8 +1,55 @@
+---
+title: Psalm 119:129
+type: Verse
+kjv: "Thy testimonies are wonderful: therefore doth my soul keep them."
+bsb: "Wonderful are Your testimonies; therefore I obey them."
+hebrew: "פְּלָא֥וֹת עֵדְוֹתֶ֑יךָ עַל־ כֵּ֝֗ן נְצָרָ֥תַם נַפְשִֽׁי׃"
+pericope: "[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|Your Word Is a Lamp to My Feet - PE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H6382]]"
+- "[[H5715]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5341]]"
+- "[[H9038]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:129**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy testimonies [are] wonderful: therefore doth my soul keep them.
 <small><sub>**BSB:**</sub></small>
 Wonderful are Your testimonies; therefore I obey them.
+<small><sub>**Hebrew:**</sub></small>
+[[H6382\|פְּלָא֥וֹת]] [[H5715\|עֵדְוֹתֶ֑י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֝֗ן]] [[H5341\|נְצָרָ֥תַ]][[H9038\|ם]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.129|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.128|<< Psalms 119:128]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.130|Psalms 119:130 >>]]</td></tr></table>
 

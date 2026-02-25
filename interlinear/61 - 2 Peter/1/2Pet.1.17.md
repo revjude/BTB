@@ -1,10 +1,66 @@
+---
+title: 2 Peter 1:17
+type: Verse
+kjv: "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
+bsb: "For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.”"
+greek: "λαβὼν γὰρ παρὰ θεοῦ πατρὸς τιμὴν καὶ δόξαν φωνῆς ἐνεχθείσης αὐτῷ τοιᾶσδε ὑπὸ τῆς μεγαλοπρεποῦς δόξης· ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν, εἰς ὃν ἐγὼ εὐδόκησα."
+pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2983]]"
+- "[[G1063]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G5092]]"
+- "[[G2532]]"
+- "[[G1391]]"
+- "[[G5456G]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G5107]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3169]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2106]]"
+texts:
+- NKO
+- NO
+---
+
 **2 Peter 1:17**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.”
-<small><sub>**Literal:**</sub></small>
-Having received for from God [the] Father honor and glory a voice was brought to Him such as follows by the Majestic Glory: The Son of Mine <the> beloved of Mine this is, in whom I myself found delight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.16|<< 2 Peter 1:16]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.18|2 Peter 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβὼν]]  [[G1063\|γὰρ]]  [[G3844\|παρὰ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G5092\|τιμὴν]]  [[G2532\|καὶ]]  [[G1391\|δόξαν]]  [[G5456G\|φωνῆς]]  [[G5342\|ἐνεχθείσης]]  [[G0846\|αὐτῷ]]  [[G5107\|τοιᾶσδε]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G3169\|μεγαλοπρεποῦς]]  [[G1391\|δόξης·]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητός]]  [[G3165\|μου]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν,]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G1473\|ἐγὼ]]  [[G2106\|εὐδόκησα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.16|<< 2 Peter 1:16]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.18|2 Peter 1:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 1:17** is...
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]

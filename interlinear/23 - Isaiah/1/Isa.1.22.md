@@ -1,8 +1,55 @@
+---
+title: Isaiah 1:22
+type: Verse
+kjv: "Thy silver is become dross, thy wine mixed with water:"
+bsb: "Your silver has become dross; your fine wine is diluted with water."
+hebrew: "כַּסְפֵּ֖ךְ הָיָ֣ה לְסִיגִ֑ים סָבְאֵ֖ךְ מָה֥וּל בַּמָּֽיִם׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DROSS|DROSS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3701G]]"
+- "[[H9022]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5509]]"
+- "[[H5435]]"
+- "[[H4107]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:22**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy silver is become dross, thy wine mixed with water:
 <small><sub>**BSB:**</sub></small>
 Your silver has become dross; your fine wine is diluted with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3701G\|כַּסְפֵּ֖]][[H9022\|ךְ]] [[H1961\|הָיָ֣ה]] [[H9005\|לְ]][[H5509\|סִיגִ֑ים]] [[H5435\|סָבְאֵ֖]][[H9022\|ךְ]] [[H4107\|מָה֥וּל]] [[H9003\|בַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic DROSS|DROSS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.21|<< Isaiah 1:21]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.23|Isaiah 1:23 >>]]</td></tr></table>
 

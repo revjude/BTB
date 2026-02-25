@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah Taken Up to Heaven
+type: Pericope
 pericope: "[[2Kgs.2.1 Elijah Taken Up to Heaven|Elijah Taken Up to Heaven]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 2
 book/chapter: "[[2Kgs.2|2 Kings 2]]"
-genre:
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[2Kgs.2.1]]"
 - "[[2Kgs.2.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Kgs.2.14]]"
 ---
 
-[[2Kgs.2|2 Kings 2:1 - 2 Kings 2:14]]
+<small>[[2Kgs.2|2 Kings 2:1-14]]</small>
 *Elijah Taken Up to Heaven*
 
 [[2Kgs.2.1|1]] And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.

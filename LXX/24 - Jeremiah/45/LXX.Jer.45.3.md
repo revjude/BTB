@@ -1,6 +1,55 @@
+---
+title: LXX Jeremiah 45:3
+type: Verse
+lxx: "For you said, Alas, for the lord added toil upon my misery. I went to bed in my moanings, I did not find rest."
+greek: "ότι είπας οίμοι ότι προσέθηκε κύριος κόπον επι πόνον μου εκοιμήθην εν στεναγμοίς μου ανάπαυσιν ουχ εύρον"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 45
+book/chapter: "[[Jer.45|Jeremiah 45]]"
+chronological_order: 768
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[G3754]]"
+- "[[G2036]]"
+- "[[G8461]]"
+- "[[G3754]]"
+- "[[G4369]]"
+- "[[G2962]]"
+- "[[G2873]]"
+- "[[G1909]]"
+- "[[G4192]]"
+- "[[G1473]]"
+- "[[G2837]]"
+- "[[G1722]]"
+- "[[G4726]]"
+- "[[G1473]]"
+- "[[G0372]]"
+- "[[G3756]]"
+- "[[G2147]]"
+---
+
 **LXX Jeremiah 45:3** 
 <small><sub>**LXX:**</sub></small>
 For you said, Alas, for \[the\] <span class="smallcaps">lord</span> added toil upon my misery. I went to bed in my moanings, I did not find rest. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G2036\|είπας]] [[G8461\|οίμοι]] [[G3754\|ότι]] [[G4369\|προσέθηκε]] [[G2962\|κύριος]] [[G2873\|κόπον]] [[G1909\|επι]] [[G4192\|πόνον]] [[G1473\|μου]] [[G2837\|εκοιμήθην]] [[G1722\|εν]] [[G4726\|στεναγμοίς]] [[G1473\|μου]] [[G0372\|ανάπαυσιν]] [[G3756\|ουχ]] [[G2147\|εύρον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.2|<< Jeremiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.4|Jeremiah 45:4 >>]]</td></tr></table>
 
@@ -20,6 +69,6 @@ For you said, Alas, for \[the\] <span class="smallcaps">lord</span> added toil u
 | rest | **<big>[[G0372\|ανάπαυσιν]]</big>** |
 | I did not | **<big>[[G3756\|ουχ]]</big>** |
 | find | **<big>[[G2147\|εύρον]]</big>** |
-[[Jer.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.2|<< Jeremiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.4|Jeremiah 45:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.2|<< Jeremiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.4|Jeremiah 45:4 >>]]</td></tr></table>
 
 

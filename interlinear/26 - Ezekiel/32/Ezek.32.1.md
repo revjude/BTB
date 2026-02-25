@@ -1,8 +1,59 @@
+---
+title: Ezekiel 32:1
+type: Verse
+kjv: "And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the LORD came unto me, saying,"
+bsb: "In the twelfth year, on the first day of the twelfth month, the word of the LORD came to me, saying,"
+hebrew: "וַֽיְהִי֙ בִּשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה בִּשְׁנֵי־ עָשָׂ֥ר חֹ֖דֶשׁ בְּאֶחָ֣ד לַחֹ֑דֶשׁ הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9014]]"
+- "[[H2320G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:1**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the twelfth year, in the twelfth month, in the first [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the twelfth year, on the first day of the twelfth month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בִּ]][[H8147\|שְׁתֵּ֣י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בִּ]][[H8147\|שְׁנֵי]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H2320G\|חֹ֖דֶשׁ]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.18|<< Ezekiel 31:18]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.2|Ezekiel 32:2 >>]]</td></tr></table>
 

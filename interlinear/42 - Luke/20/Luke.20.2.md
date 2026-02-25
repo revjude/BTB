@@ -1,10 +1,58 @@
+---
+title: Luke 20:2
+type: Verse
+kjv: "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?"
+bsb: "“Tell us,” they said, “by what authority are You doing these things, and who gave You this authority?”"
+greek: "καὶ εἶπαν λέγοντες πρὸς αὐτόν· εἰπὸν ἡμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς ἢ τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην;¶"
+pericope: "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 20:2**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?
 <small><sub>**BSB:**</sub></small>
 “Tell us,” they said, “by what authority are You doing these things, and who gave You this authority?”
-<small><sub>**Literal:**</sub></small>
-and spoke saying to Him: do tell us by what authority these things You do or who is the [one] having given to You <the> authority this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.1|<< Luke 20:1]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.3|Luke 20:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G3004G\|λέγοντες]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G2036\|εἰπὸν]]  [[G3165\|ἡμῖν]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖς]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G1325\|δούς]]  [[G4771\|σοι]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3778\|ταύτην;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.1|<< Luke 20:1]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.3|Luke 20:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

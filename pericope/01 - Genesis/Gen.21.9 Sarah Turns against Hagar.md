@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sarah Turns against Hagar
+type: Pericope
 pericope: "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 21
 book/chapter: "[[Gen.21|Genesis 21]]"
-genre:
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.21.9]]"
 - "[[Gen.21.10]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.21.21]]"
 ---
 
-[[Gen.21|Genesis 21:9 - Genesis 21:21]]
+<small>[[Gen.21|Genesis 21:9-21]]</small>
 *Sarah Turns against Hagar*
 
 [[Gen.21.9|9]] And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.

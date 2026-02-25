@@ -1,10 +1,66 @@
+---
+title: Acts 21:3
+type: Verse
+kjv: "Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden."
+bsb: "After sighting Cyprus and passing south of it, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo."
+greek: "ἀναφάναντες δὲ τὴν Κύπρον καὶ καταλιπόντες αὐτὴν εὐώνυμον ἐπλέομεν εἰς Συρίαν καὶ κατήλθομεν εἰς Τύρον· ἐκεῖσε γὰρ τὸ πλοῖον ἦν ἀποφορτιζόμενον τὸν γόμον.¶"
+pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G0398]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2954]]"
+- "[[G2532]]"
+- "[[G2641]]"
+- "[[G0846]]"
+- "[[G2176]]"
+- "[[G4126]]"
+- "[[G1519]]"
+- "[[G4947]]"
+- "[[G2718]]"
+- "[[G5184]]"
+- "[[G1566]]"
+- "[[G1063]]"
+- "[[G4143]]"
+- "[[G1510]]"
+- "[[G0670]]"
+- "[[G1117]]"
+texts:
+- NK(o)
+- NKO
+- N(k)O
+---
+
 **Acts 21:3**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
 <small><sub>**BSB:**</sub></small>
 After sighting Cyprus and passing south of it, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo.
-<small><sub>**Literal:**</sub></small>
-Having sighted then <the> Cyprus and having left it on the left we were sailing to Syria and we disembarked at Tyre; There for the ship was unloading the cargo.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.2|<< Acts 21:2]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.4|Acts 21:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0398\|ἀναφάναντες]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G2954\|Κύπρον]]  [[G2532\|καὶ]]  [[G2641\|καταλιπόντες]]  [[G0846\|αὐτὴν]]  [[G2176\|εὐώνυμον]]  [[G4126\|ἐπλέομεν]]  [[G1519\|εἰς]]  [[G4947\|Συρίαν]]  [[G2532\|καὶ]]  [[G2718\|κατήλθομεν]]  [[G1519\|εἰς]]  [[G5184\|Τύρον·]]  [[G1566\|ἐκεῖσε]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G1510\|ἦν]]  [[G0670\|ἀποφορτιζόμενον]]  [[G3588\|τὸν]]  [[G1117\|γόμον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYPRUS|CYPRUS]] • [[topic LUKE|LUKE]] • [[topic PAUL|PAUL]] • [[topic PHENICIA|PHENICIA]] • [[topic SHIP|SHIP]] • [[topic SYRIA|SYRIA]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.2|<< Acts 21:2]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.4|Acts 21:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

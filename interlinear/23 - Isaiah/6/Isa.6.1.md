@@ -1,8 +1,69 @@
+---
+title: Isaiah 6:1
+type: Verse
+kjv: "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple."
+bsb: "In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple."
+hebrew: "בִּשְׁנַת־ מוֹת֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָאֶרְאֶ֧ה אֶת־ אֲדֹנָ֛י יֹשֵׁ֥ב עַל־ כִּסֵּ֖א רָ֣ם וְנִשָּׂ֑א וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת־ הַהֵיכָֽל׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5818G]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0136]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H7311A]]"
+- "[[H9002]]"
+- "[[H5375G]]"
+- "[[H7757]]"
+- "[[H9023]]"
+- "[[H4390]]"
+- "[[H1964G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:1**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 <small><sub>**BSB:**</sub></small>
 In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת]][[H9014\|־]] [[H4194\|מוֹת֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H5818G\|עֻזִּיָּ֔הוּ]] [[H9001\|וָ]][[H7200G\|אֶרְאֶ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0136\|אֲדֹנָ֛י]] [[H3427\|יֹשֵׁ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֖א]] [[H7311A\|רָ֣ם]] [[H9002\|וְ]][[H5375G\|נִשָּׂ֑א]] [[H9002\|וְ]][[H7757\|שׁוּלָ֖י]][[H9023\|ו]] [[H4390\|מְלֵאִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1964G\|הֵיכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHETS|PROPHETS]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.30|<< Isaiah 5:30]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.2|Isaiah 6:2 >>]]</td></tr></table>
 

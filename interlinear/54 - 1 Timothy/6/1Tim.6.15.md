@@ -1,10 +1,55 @@
+---
+title: 1 Timothy 6:15
+type: Verse
+kjv: "Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;"
+bsb: "which the blessed and only Sovereign One—the King of kings and Lord of lords—will bring about in His own time."
+greek: "ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος δυνάστης, ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων,"
+pericope: "[[1Tim.6.11 Fight the Good Fight|Fight the Good Fight]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3739]]"
+- "[[G2540]]"
+- "[[G2398]]"
+- "[[G1166]]"
+- "[[G3588]]"
+- "[[G3107]]"
+- "[[G2532]]"
+- "[[G3441]]"
+- "[[G1413]]"
+- "[[G0935]]"
+- "[[G0936]]"
+- "[[G2962G]]"
+- "[[G2961]]"
+texts:
+- NKO
+---
+
 **1 Timothy 6:15**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which in his times he shall shew, [who is] the blessed and only Potentate, the King of kings, and Lord of lords;
 <small><sub>**BSB:**</sub></small>
 which the blessed and only Sovereign One—the King of kings and Lord of lords—will bring about in His own time.
-<small><sub>**Literal:**</sub></small>
-which in seasons [their] own He will display the blessed and alone Sovereign, the King of those being kings and [the] Lord of those being lords,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.14|<< 1 Timothy 6:14]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.16|1 Timothy 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἣν]]  [[G2540\|καιροῖς]]  [[G2398\|ἰδίοις]]  [[G1166\|δείξει]]  [[G3588\|ὁ]]  [[G3107\|μακάριος]]  [[G2532\|καὶ]]  [[G3441\|μόνος]]  [[G1413\|δυνάστης,]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G0936\|βασιλευόντων]]  [[G2532\|καὶ]]  [[G2962G\|κύριος]]  [[G3588\|τῶν]]  [[G2961\|κυριευόντων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.14|<< 1 Timothy 6:14]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.16|1 Timothy 6:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

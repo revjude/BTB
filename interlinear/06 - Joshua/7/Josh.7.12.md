@@ -1,8 +1,75 @@
+---
+title: Joshua 7:12
+type: Verse
+kjv: "Therefore the children of Israel could not stand before their enemies, but turned their backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you."
+bsb: "This is why the Israelites cannot stand against their enemies. They will turn their backs and run from their enemies, because they themselves have been set apart for destruction. I will no longer be with you unless you remove from among you whatever is devoted to destruction."
+hebrew: "וְלֹ֨א יֻכְל֜וּ בְּנֵ֣י יִשְׂרָאֵ֗ל לָקוּם֙ לִפְנֵ֣י אֹיְבֵיהֶ֔ם עֹ֗רֶף יִפְנוּ֙ לִפְנֵ֣י אֹֽיְבֵיהֶ֔ם כִּ֥י הָי֖וּ לְחֵ֑רֶם לֹ֤א אוֹסִיף֙ לִֽהְי֣וֹת עִמָּכֶ֔ם אִם־ לֹ֥א תַשְׁמִ֛ידוּ הַחֵ֖רֶם מִֽקִּרְבְּכֶֽם׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMERGENCY|EMERGENCY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6965I]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H6203]]"
+- "[[H6437G]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H2764A]]"
+- "[[H3254G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H0518J]]"
+- "[[H9014]]"
+- "[[H8045]]"
+- "[[H9009]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:12**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the children of Israel could not stand before their enemies, [but] turned [their] backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you.
 <small><sub>**BSB:**</sub></small>
 This is why the Israelites cannot stand against their enemies. They will turn their backs and run from their enemies, because they themselves have been set apart for destruction. I will no longer be with you unless you remove from among you whatever is devoted to destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֨א]] [[H3201\|יֻכְל֜וּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לָ]][[H6965I\|קוּם֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֔ם]] [[H6203\|עֹ֗רֶף]] [[H6437G\|יִפְנוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּ֥י]] [[H1961\|הָי֖וּ]] [[H9005\|לְ]][[H2764A\|חֵ֑רֶם]] [[H3808\|לֹ֤א]] [[H3254G\|אוֹסִיף֙]] [[H9005\|לִֽ]][[H1961\|הְי֣וֹת]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H0518J\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H8045\|תַשְׁמִ֛ידוּ]] [[H9009\|הַ]][[H2764A\|חֵ֖רֶם]] [[H9006\|מִֽ]][[H7130G\|קִּרְבְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMERGENCY|EMERGENCY]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SIN|SIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.11|<< Joshua 7:11]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.13|Joshua 7:13 >>]]</td></tr></table>
 

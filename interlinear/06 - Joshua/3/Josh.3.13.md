@@ -1,8 +1,66 @@
+---
+title: Joshua 3:13
+type: Verse
+kjv: "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap."
+bsb: "When the feet of the priests who carry the ark of the LORD—the Lord of all the earth—touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.”"
+hebrew: "וְהָיָ֡ה כְּנ֣וֹחַ כַּפּ֣וֹת רַגְלֵ֣י הַכֹּהֲנִ֡ים נֹשְׂאֵי֩ אֲר֨וֹן יְהוָ֜ה אֲד֤וֹן כָּל־ הָאָ֙רֶץ֙ בְּמֵ֣י הַיַּרְדֵּ֔ן מֵ֤י הַיַּרְדֵּן֙ יִכָּ֣רֵת֔וּן הַמַּ֥יִם הַיֹּרְדִ֖ים מִלְמָ֑עְלָה וְיַעַמְד֖וּ נֵ֥ד אֶחָֽד׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5117]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0136]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H3383]]"
+- "[[H3772G]]"
+- "[[H9013]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H5975G]]"
+- "[[H5067]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:13**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, [that] the waters of Jordan shall be cut off [from] the waters that come down from above; and they shall stand upon an heap.
 <small><sub>**BSB:**</sub></small>
 When the feet of the priests who carry the ark of the LORD—the Lord of all the earth—touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H9004\|כְּ]][[H5117\|נ֣וֹחַ]] [[H3709H\|כַּפּ֣וֹת]] [[H7272\|רַגְלֵ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֡ים]] [[H5375H\|נֹשְׂאֵי֩]] [[H0727\|אֲר֨וֹן]] [[H3068G\|יְהוָ֜ה]] [[H0136\|אֲד֤וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9003\|בְּ]][[H4325G\|מֵ֣י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H4325G\|מֵ֤י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H3772G\|יִכָּ֣רֵת֔וּ]][[H9013\|ן]] [[H9009\|הַ]][[H4325G\|מַּ֥יִם]] [[H9009\|הַ]][[H3381\|יֹּרְדִ֖ים]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H5975G\|יַעַמְד֖וּ]] [[H5067\|נֵ֥ד]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.12|<< Joshua 3:12]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.14|Joshua 3:14 >>]]</td></tr></table>
 

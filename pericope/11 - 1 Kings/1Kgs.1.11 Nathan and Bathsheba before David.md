@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nathan and Bathsheba before David
+type: Pericope
 pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 1
 book/chapter: "[[1Kgs.1|1 Kings 1]]"
-genre:
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 17
 verses:
 - "[[1Kgs.1.11]]"
 - "[[1Kgs.1.12]]"
@@ -37,7 +44,7 @@ verses:
 - "[[1Kgs.1.27]]"
 ---
 
-[[1Kgs.1|1 Kings 1:11 - 1 Kings 1:27]]
+<small>[[1Kgs.1|1 Kings 1:11-27]]</small>
 *Nathan and Bathsheba before David*
 
 [[1Kgs.1.11|11]] Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth \[it\] not?

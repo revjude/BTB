@@ -1,8 +1,80 @@
+---
+title: Daniel 6:20
+type: Verse
+kjv: "And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?"
+bsb: "When he reached the den, he cried out in a voice of anguish, “O Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?”"
+aramaic: "וּכְמִקְרְבֵ֣הּ לְגֻבָּ֔א לְדָ֣נִיֵּ֔אל בְּקָ֥ל עֲצִ֖יב זְעִ֑ק עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר לְדָנִיֵּ֗אל דָּֽנִיֵּאל֙ עֲבֵד֙ אֱלָהָ֣א חַיָּ֔א אֱלָהָ֗ךְ דִּ֣י אַ֤נְתְּ פָּֽלַֽח־ לֵהּ֙ בִּתְדִירָ֔א הַיְכִ֥ל לְשֵׁיזָבוּתָ֖ךְ מִן־ אַרְיָוָתָֽא׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LION|LION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H7127]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H1358]]"
+- "[[H9010]]"
+- "[[H1841H]]"
+- "[[H9003]]"
+- "[[H7032G]]"
+- "[[H6088]]"
+- "[[H2200]]"
+- "[[H6032]]"
+- "[[H4430]]"
+- "[[H0560]]"
+- "[[H5649]]"
+- "[[H0426]]"
+- "[[H2417]]"
+- "[[H9021]]"
+- "[[H1768]]"
+- "[[H0607]]"
+- "[[H6399]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H8411]]"
+- "[[H9008]]"
+- "[[H3202]]"
+- "[[H7804]]"
+- "[[H9031]]"
+- "[[H4481]]"
+- "[[H0744]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:20**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he came to the den, he cried with a lamentable voice unto Daniel: [and] the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?
 <small><sub>**BSB:**</sub></small>
 When he reached the den, he cried out in a voice of anguish, “O Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?”
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H7127\|מִקְרְבֵ֣]][[H9043\|הּ]] [[H9005\|לְ]][[H1358\|גֻבָּ֔]][[H9010\|א]] [[H9005\|לְ]][[H1841H\|דָ֣נִיֵּ֔אל]] [[H9003\|בְּ]][[H7032G\|קָ֥ל]] [[H6088\|עֲצִ֖יב]] [[H2200\|זְעִ֑ק]] [[H6032\|עָנֵ֨ה]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9002\|וְ]][[H0560\|אָמַ֣ר]] [[H9005\|לְ]][[H1841H\|דָנִיֵּ֗אל]] [[H1841H\|דָּֽנִיֵּאל֙]] [[H5649\|עֲבֵד֙]] [[H0426\|אֱלָהָ֣]][[H9010\|א]] [[H2417\|חַיָּ֔]][[H9010\|א]] [[H0426\|אֱלָהָ֗]][[H9021\|ךְ]] [[H1768\|דִּ֣י]] [[H0607\|אַ֤נְתְּ]] [[H6399\|פָּֽלַֽח]][[H9014\|־]] [[H9005\|לֵ]][[H9033\|הּ֙]] [[H9003\|בִּ]][[H8411\|תְדִירָ֔]][[H9010\|א]] [[H9008\|הַ]][[H3202\|יְכִ֥ל]] [[H9005\|לְ]][[H7804\|שֵׁיזָבוּתָ֖]][[H9031\|ךְ]] [[H4481\|מִן]][[H9014\|־]] [[H0744\|אַרְיָוָתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LION|LION]] • [[topic MIRACLES|MIRACLES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.19|<< Daniel 6:19]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.21|Daniel 6:21 >>]]</td></tr></table>
 

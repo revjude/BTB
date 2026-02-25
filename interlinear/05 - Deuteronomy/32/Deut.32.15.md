@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 32:15
+type: Verse
+kjv: "But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation."
+bsb: "But Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandoned the God who made him and scorned the Rock of his salvation."
+hebrew: "וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ וַיִּטֹּשׁ֙ אֱל֣וֹהַ עָשָׂ֔הוּ וַיְנַבֵּ֖ל צ֥וּר יְשֻׁעָתֽוֹ׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESHURUN|JESHURUN]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8080]]"
+- "[[H3484]]"
+- "[[H1163]]"
+- "[[H5666]]"
+- "[[H3780]]"
+- "[[H5203]]"
+- "[[H0433]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H5034A]]"
+- "[[H6697H]]"
+- "[[H3444]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:15**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered [with fatness]; then he forsook God [which] made him, and lightly esteemed the Rock of his salvation.
 <small><sub>**BSB:**</sub></small>
 But Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandoned the God who made him and scorned the Rock of his salvation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8080\|יִּשְׁמַ֤ן]] [[H3484\|יְשֻׁרוּן֙]] [[H9001\|וַ]][[H1163\|יִּבְעָ֔ט]] [[H8080\|שָׁמַ֖נְתָּ]] [[H5666\|עָבִ֣יתָ]] [[H3780\|כָּשִׂ֑יתָ]] [[H9001\|וַ]][[H5203\|יִּטֹּשׁ֙]] [[H0433\|אֱל֣וֹהַ]] [[H6213H\|עָשָׂ֔]][[H9033\|הוּ]] [[H9001\|וַ]][[H5034A\|יְנַבֵּ֖ל]] [[H6697H\|צ֥וּר]] [[H3444\|יְשֻׁעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESHURUN|JESHURUN]] • [[topic PROSPERITY|PROSPERITY]] • [[topic PSALMS|PSALMS]] • [[topic REPROOF|REPROOF]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.14|<< Deuteronomy 32:14]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.16|Deuteronomy 32:16 >>]]</td></tr></table>
 

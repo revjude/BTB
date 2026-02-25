@@ -1,8 +1,51 @@
+---
+title: Proverbs 25:3
+type: Verse
+kjv: "The heaven for height, and the earth for depth, and the heart of kings is unsearchable."
+bsb: "As the heavens are high and the earth is deep, so the hearts of kings cannot be searched."
+hebrew: "שָׁמַ֣יִם לָ֭רוּם וָאָ֣רֶץ לָעֹ֑מֶק וְלֵ֥ב מְ֝לָכִ֗ים אֵ֣ין חֵֽקֶר׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H8064]]"
+- "[[H9005]]"
+- "[[H7312]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H6011]]"
+- "[[H3820A]]"
+- "[[H4428G]]"
+- "[[H0369]]"
+- "[[H2714]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:3**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heaven for height, and the earth for depth, and the heart of kings [is] unsearchable.
 <small><sub>**BSB:**</sub></small>
 As the heavens are high and the earth is deep, so the hearts of kings cannot be searched.
+<small><sub>**Hebrew:**</sub></small>
+[[H8064\|שָׁמַ֣יִם]] [[H9005\|לָ֭]][[H7312\|רוּם]] [[H9002\|וָ]][[H0776G\|אָ֣רֶץ]] [[H9005\|לָ]][[H6011\|עֹ֑מֶק]] [[H9002\|וְ]][[H3820A\|לֵ֥ב]] [[H4428G\|מְ֝לָכִ֗ים]] [[H0369\|אֵ֣ין]] [[H2714\|חֵֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.2|<< Proverbs 25:2]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.4|Proverbs 25:4 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 1 Kings 7:29
+type: Verse
+kjv: "And on the borders that were between the ledges were lions, oxen, and cherubims: and upon the ledges there was a base above: and beneath the lions and oxen were certain additions made of thin work."
+bsb: "and on the panels between the uprights were lions, oxen, and cherubim. On the uprights was a pedestal above, and below the lions and oxen were wreaths of beveled work."
+hebrew: "וְעַֽל־ הַמִּסְגְּר֞וֹת אֲשֶׁ֣ר׀ בֵּ֣ין הַשְׁלַבִּ֗ים אֲרָי֤וֹת׀ בָּקָר֙ וּכְרוּבִ֔ים וְעַל־ הַשְׁלַבִּ֖ים כֵּ֣ן מִמָּ֑עַל וּמִתַּ֙חַת֙ לַאֲרָי֣וֹת וְלַבָּקָ֔ר לֹי֖וֹת מַעֲשֵׂ֥ה מוֹרָֽד׃"
+pericope: "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LION|LION]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4526]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H0996G]]"
+- "[[H7948]]"
+- "[[H0738A]]"
+- "[[H1241]]"
+- "[[H3742]]"
+- "[[H3653]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H8478G]]"
+- "[[H9005]]"
+- "[[H3914]]"
+- "[[H4639G]]"
+- "[[H4174]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:29**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the borders that [were] between the ledges [were] lions, oxen, and cherubims: and upon the ledges [there was] a base above: and beneath the lions and oxen [were] certain additions made of thin work.
 <small><sub>**BSB:**</sub></small>
 and on the panels between the uprights were lions, oxen, and cherubim. On the uprights was a pedestal above, and below the lions and oxen were wreaths of beveled work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H4526\|מִּסְגְּר֞וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H0996G\|בֵּ֣ין]] [[H9009\|הַ]][[H7948\|שְׁלַבִּ֗ים]] [[H0738A\|אֲרָי֤וֹת]][[H9015\|׀]] [[H1241\|בָּקָר֙]] [[H9002\|וּ]][[H3742\|כְרוּבִ֔ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7948\|שְׁלַבִּ֖ים]] [[H3653\|כֵּ֣ן]] [[H9006\|מִ]][[H4605\|מָּ֑עַל]] [[H9002\|וּ]][[H9006\|מִ]][[H8478G\|תַּ֙חַת֙]] [[H9005\|לַ]][[H0738A\|אֲרָי֣וֹת]] [[H9002\|וְ]][[H9005\|לַ]][[H1241\|בָּקָ֔ר]] [[H3914\|לֹי֖וֹת]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H4174\|מוֹרָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic CHERUBIM|CHERUBIM]] • [[topic HIRAM|HIRAM]] • [[topic LION|LION]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.28|<< 1 Kings 7:28]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.30|1 Kings 7:30 >>]]</td></tr></table>
 

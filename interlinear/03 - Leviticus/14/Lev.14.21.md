@@ -1,8 +1,76 @@
+---
+title: Leviticus 14:21
+type: Verse
+kjv: "And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;"
+bsb: "If, however, the person is poor and cannot afford these offerings, he is to take one male lamb as a guilt offering to be waved to make atonement for him, along with a tenth of an ephah of fine flour mixed with olive oil for a grain offering, a log of olive oil,"
+hebrew: "וְאִם־ דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂגֶת֒ וְ֠לָקַח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1800]]"
+- "[[H1931]]"
+- "[[H0369]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H5381]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3532]]"
+- "[[H0259]]"
+- "[[H0817]]"
+- "[[H9005]]"
+- "[[H8573]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6241]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H4503G]]"
+- "[[H3849]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:21**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he [be] poor, and cannot get so much; then he shall take one lamb [for] a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
 <small><sub>**BSB:**</sub></small>
 If, however, the person is poor and cannot afford these offerings, he is to take one male lamb as a guilt offering to be waved to make atonement for him, along with a tenth of an ephah of fine flour mixed with olive oil for a grain offering, a log of olive oil,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1800\|דַּ֣ל]] [[H1931\|ה֗וּא]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3027I\|יָד]][[H9023\|וֹ֮]] [[H5381\|מַשֶּׂגֶת֒]] [[H9001\|וְ֠]][[H3947G\|לָקַח]] [[H3532\|כֶּ֣בֶשׂ]] [[H0259\|אֶחָ֥ד]] [[H0817\|אָשָׁ֛ם]] [[H9005\|לִ]][[H8573\|תְנוּפָ֖ה]] [[H9005\|לְ]][[H3722A\|כַפֵּ֣ר]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9002\|וְ]][[H6241\|עִשָּׂר֨וֹן]] [[H5560\|סֹ֜לֶת]] [[H0259\|אֶחָ֨ד]] [[H1101A\|בָּל֥וּל]] [[H9003\|בַּ]][[H8081\|שֶּׁ֛מֶן]] [[H9005\|לְ]][[H4503G\|מִנְחָ֖ה]] [[H9002\|וְ]][[H3849\|לֹ֥ג]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic OIL|OIL]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.20|<< Leviticus 14:20]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.22|Leviticus 14:22 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Jeremiah 22:28
+type: Verse
+kjv: "Is this man Coniah a despised broken idol? is he a vessel wherein is no pleasure? wherefore are they cast out, he and his seed, and are cast into a land which they know not?"
+bsb: "Is this man Coniah a despised and shattered pot, a jar that no one wants? Why are he and his descendants hurled out and cast into a land they do not know?"
+hebrew: "הַעֶ֨צֶב נִבְזֶ֜ה נָפ֗וּץ הָאִ֤ישׁ הַזֶּה֙ כָּנְיָ֔הוּ אִ֨ם־ כְּלִ֔י אֵ֥ין חֵ֖פֶץ בּ֑וֹ מַדּ֤וּעַ הֽוּטֲלוּ֙ ה֣וּא וְזַרְע֔וֹ וְהֻ֨שְׁלְכ֔וּ עַל־ הָאָ֖רֶץ אֲשֶׁ֥ר לֹא־ יָדָֽעוּ׃"
+pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9008]]"
+- "[[H6089B]]"
+- "[[H0959]]"
+- "[[H5310A]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H3659]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H0369]]"
+- "[[H2656]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H2904]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:28**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] this man Coniah a despised broken idol? [is he] a vessel wherein [is] no pleasure? wherefore are they cast out, he and his seed, and are cast into a land which they know not?
 <small><sub>**BSB:**</sub></small>
 Is this man Coniah a despised and shattered pot, a jar that no one wants? Why are he and his descendants hurled out and cast into a land they do not know?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H6089B\|עֶ֨צֶב]] [[H0959\|נִבְזֶ֜ה]] [[H5310A\|נָפ֗וּץ]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H3659\|כָּנְיָ֔הוּ]] [[H0518I\|אִ֨ם]][[H9014\|־]] [[H3627\|כְּלִ֔י]] [[H0369\|אֵ֥ין]] [[H2656\|חֵ֖פֶץ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H4069\|מַדּ֤וּעַ]] [[H2904\|הֽוּטֲלוּ֙]] [[H1931\|ה֣וּא]] [[H9002\|וְ]][[H2233H\|זַרְע֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H7993\|הֻ֨שְׁלְכ֔וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.27|<< Jeremiah 22:27]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.29|Jeremiah 22:29 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Luke 19:46
+type: Verse
+kjv: "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves."
+bsb: "He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”"
+jesus_said: "It is written, My house is the house of prayer: but ye have made it a den of thieves."
+greek: "λέγων αὐτοῖς· γέγραπται, καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς· ὑμεῖς δὲ αὐτὸν ἐποιήσατε σπήλαιον λῃστῶν."
+pericope: "[[Luke.19.45 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOUSE OF GOD|HOUSE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1125]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+- "[[G4335]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G4693]]"
+- "[[G3027]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 19:46**<big><big>[[Luke.19.45 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”
-<small><sub>**Literal:**</sub></small>
-saying to them; It has been written: And will be the house of Mine a house of prayer’; You yourselves however it made a den of robbers.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.45|<< Luke 19:45]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.47|Luke 19:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G0846\|αὐτοῖς·]]  [[G1125\|γέγραπται,]]  [[G2532\|καὶ]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G3624G\|οἶκός]]  [[G3165\|μου]]  [[G3624G\|οἶκος]]  [[G4335\|προσευχῆς·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G4160G\|ἐποιήσατε]]  [[G4693\|σπήλαιον]]  [[G3027\|λῃστῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOUSE OF GOD|HOUSE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TEMPLE|TEMPLE]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.45|<< Luke 19:45]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.47|Luke 19:47 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 19:46** is...
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]

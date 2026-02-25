@@ -1,8 +1,57 @@
+---
+title: Job 21:19
+type: Verse
+kjv: "God layeth up his iniquity for his children: he rewardeth him, and he shall know it."
+bsb: "It is said that God lays up one’s punishment for his children. Let God repay the man himself, so he will know it."
+hebrew: "אֱל֗וֹהַּ יִצְפֹּן־ לְבָנָ֥יו אוֹנ֑וֹ יְשַׁלֵּ֖ם אֵלָ֣יו וְיֵדָֽע׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0433]]"
+- "[[H6845]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0205G]]"
+- "[[H7999A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:19**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God layeth up his iniquity for his children: he rewardeth him, and he shall know [it].
 <small><sub>**BSB:**</sub></small>
 It is said that God lays up one’s punishment for his children. Let God repay the man himself, so he will know it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0433\|אֱל֗וֹהַּ]] [[H6845\|יִצְפֹּן]][[H9014\|־]] [[H9005\|לְ]][[H1121A\|בָנָ֥י]][[H9023\|ו]] [[H0205G\|אוֹנ֑]][[H9023\|וֹ]] [[H7999A\|יְשַׁלֵּ֖ם]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H9002\|וְ]][[H3045\|יֵדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.18|<< Job 21:18]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.20|Job 21:20 >>]]</td></tr></table>
 

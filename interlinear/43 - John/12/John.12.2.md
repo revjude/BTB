@@ -1,10 +1,62 @@
+---
+title: John 12:2
+type: Verse
+kjv: "There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him."
+bsb: "So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him."
+greek: "ἐποίησαν οὖν αὐτῷ δεῖπνον ἐκεῖ, καὶ ἡ Μάρθα διηκόνει· ὁ δὲ Λάζαρος εἷς ἦν ἐκ τῶν ἀνακειμένων σὺν αὐτῷ."
+pericope: "[[John.12.1 Mary Anoints Jesus|Mary Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MARTHA|MARTHA]]"
+strongs:
+- "[[G4160G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G1173]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3136]]"
+- "[[G1247]]"
+- "[[G1161]]"
+- "[[G2976H]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G0345]]"
+- "[[G4862]]"
+texts:
+- NKO
+- no
+- N(K)O
+---
+
 **John 12:2**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
 <small><sub>**BSB:**</sub></small>
 So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.
-<small><sub>**Literal:**</sub></small>
-They made therefore for Him a supper there, and <the> Martha was serving; <the> and Lazarus one was of those reclining with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.1|<< John 12:1]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.3|John 12:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4160G\|ἐποίησαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G1173\|δεῖπνον]]  [[G1563\|ἐκεῖ,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3136\|Μάρθα]]  [[G1247\|διηκόνει·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2976H\|Λάζαρος]]  [[G1520\|εἷς]]  [[G1510\|ἦν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0345\|ἀνακειμένων]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MARTHA|MARTHA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.1|<< John 12:1]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.3|John 12:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

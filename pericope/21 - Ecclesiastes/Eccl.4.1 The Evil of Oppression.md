@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Evil of Oppression
+type: Pericope
 pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 4
 book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
-genre:
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 12
 verses:
 - "[[Eccl.4.1]]"
 - "[[Eccl.4.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Eccl.4.12]]"
 ---
 
-[[Eccl.4|Ecclesiastes 4:1 - Ecclesiastes 4:12]]
+<small>[[Eccl.4|Ecclesiastes 4:1-12]]</small>
 *The Evil of Oppression*
 
 [[Eccl.4.1|1]] So I returned, and considered all the oppressions that are done under the sun: and behold the tears of \[such as were\] oppressed, and they had no comforter; and on the side of their oppressors \[there was\] power; but they had no comforter.

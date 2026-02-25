@@ -1,8 +1,80 @@
+---
+title: 1 Kings 20:39
+type: Verse
+kjv: "And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver."
+bsb: "As the king passed by, he cried out to the king: “Your servant had marched out into the middle of the battle, when suddenly a man came over with a captive and told me, ‘Guard this man! If he goes missing for any reason, your life will be exchanged for his life, or you will weigh out a talent of silver.’"
+hebrew: "וַיְהִ֤י הַמֶּ֙לֶךְ֙ עֹבֵ֔ר וְה֖וּא צָעַ֣ק אֶל־ הַמֶּ֑לֶךְ וַיֹּ֜אמֶר עַבְדְּךָ֣׀ יָצָ֣א בְקֶֽרֶב־ הַמִּלְחָמָ֗ה וְהִנֵּֽה־ אִ֨ישׁ סָ֜ר וַיָּבֵ֧א אֵלַ֣י אִ֗ישׁ וַיֹּ֙אמֶר֙ שְׁמֹר֙ אֶת־ הָאִ֣ישׁ הַזֶּ֔ה אִם־ הִפָּקֵד֙ יִפָּקֵ֔ד וְהָיְתָ֤ה נַפְשְׁךָ֙ תַּ֣חַת נַפְשׁ֔וֹ א֥וֹ כִכַּר־ כֶּ֖סֶף תִּשְׁקֽוֹל׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H4421]]"
+- "[[H2009]]"
+- "[[H0376G]]"
+- "[[H5493I]]"
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H8104H]]"
+- "[[H0853]]"
+- "[[H2088]]"
+- "[[H0518A]]"
+- "[[H6485K]]"
+- "[[H5315H]]"
+- "[[H8478H]]"
+- "[[H9023]]"
+- "[[H0176A]]"
+- "[[H3603H]]"
+- "[[H3701G]]"
+- "[[H8254]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:39**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.
 <small><sub>**BSB:**</sub></small>
 As the king passed by, he cried out to the king: “Your servant had marched out into the middle of the battle, when suddenly a man came over with a captive and told me, ‘Guard this man! If he goes missing for any reason, your life will be exchanged for his life, or you will weigh out a talent of silver.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H5674A\|עֹבֵ֔ר]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H6817\|צָעַ֣ק]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]][[H9015\|׀]] [[H3318G\|יָצָ֣א]] [[H9003\|בְ]][[H7130G\|קֶֽרֶב]][[H9014\|־]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וְ]][[H2009\|הִנֵּֽה]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H5493I\|סָ֜ר]] [[H9001\|וַ]][[H0935P\|יָּבֵ֧א]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H0376G\|אִ֗ישׁ]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H8104H\|שְׁמֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0518A\|אִם]][[H9014\|־]] [[H6485K\|הִפָּקֵד֙]] [[H6485K\|יִפָּקֵ֔ד]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֙]] [[H8478H\|תַּ֣חַת]] [[H5315H\|נַפְשׁ֔]][[H9023\|וֹ]] [[H0176A\|א֥וֹ]] [[H3603H\|כִכַּר]][[H9014\|־]] [[H3701G\|כֶּ֖סֶף]] [[H8254\|תִּשְׁקֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PARABLES|PARABLES]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.38|<< 1 Kings 20:38]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.40|1 Kings 20:40 >>]]</td></tr></table>
 

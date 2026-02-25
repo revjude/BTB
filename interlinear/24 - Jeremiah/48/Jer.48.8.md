@@ -1,8 +1,61 @@
+---
+title: Jeremiah 48:8
+type: Verse
+kjv: "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken."
+bsb: "The destroyer will move against every city, and not one town will escape. The valley will also be ruined, and the high plain will be destroyed, as the LORD has said."
+hebrew: "וְיָבֹ֨א שֹׁדֵ֜ד אֶל־ כָּל־ עִ֗יר וְעִיר֙ לֹ֣א תִמָּלֵ֔ט וְאָבַ֥ד הָעֵ֖מֶק וְנִשְׁמַ֣ד הַמִּישֹׁ֑ר אֲשֶׁ֖ר אָמַ֥ר יְהוָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H7703]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H9009]]"
+- "[[H6010R]]"
+- "[[H8045]]"
+- "[[H4334]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:8**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken.
 <small><sub>**BSB:**</sub></small>
 The destroyer will move against every city, and not one town will escape. The valley will also be ruined, and the high plain will be destroyed, as the LORD has said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0935G\|יָבֹ֨א]] [[H7703\|שֹׁדֵ֜ד]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עִ֗יר]] [[H9002\|וְ]][[H5892B\|עִיר֙]] [[H3808\|לֹ֣א]] [[H4422\|תִמָּלֵ֔ט]] [[H9001\|וְ]][[H0006\|אָבַ֥ד]] [[H9009\|הָ]][[H6010R\|עֵ֖מֶק]] [[H9001\|וְ]][[H8045\|נִשְׁמַ֣ד]] [[H9009\|הַ]][[H4334\|מִּישֹׁ֑ר]] [[H0834A\|אֲשֶׁ֖ר]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.7|<< Jeremiah 48:7]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.9|Jeremiah 48:9 >>]]</td></tr></table>
 

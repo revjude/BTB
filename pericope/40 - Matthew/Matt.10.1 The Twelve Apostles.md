@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Twelve Apostles
+type: Pericope
 pericope: "[[Matt.10.1 The Twelve Apostles|The Twelve Apostles]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.10.1]]"
 - "[[Matt.10.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.10.4]]"
 ---
 
-[[Matt.10|Matthew 10:1 - Matthew 10:4]]
+<small>[[Matt.10|Matthew 10:1-4]]</small>
 *The Twelve Apostles*
 
 [[Matt.10.1|1]] And when he had called unto \[him\] his twelve disciples, he gave them power \[against\] unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.

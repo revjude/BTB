@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Marries Michal
+type: Pericope
 pericope: "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 18
 book/chapter: "[[1Sam.18|1 Samuel 18]]"
-genre:
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[1Sam.18.17]]"
 - "[[1Sam.18.18]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Sam.18.30]]"
 ---
 
-[[1Sam.18|1 Samuel 18:17 - 1 Samuel 18:30]]
+<small>[[1Sam.18|1 Samuel 18:17-30]]</small>
 *David Marries Michal*
 
 [[1Sam.18.17|17]] And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the LORD’S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.

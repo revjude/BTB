@@ -1,8 +1,60 @@
+---
+title: Joshua 19:13
+type: Verse
+kjv: "And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;"
+bsb: "From there it crossed eastward to Gath-hepher and to Eth-kazin; it extended to Rimmon and curved around toward Neah."
+hebrew: "וּמִשָּׁ֤ם עָבַר֙ קֵ֣דְמָה מִזְרָ֔חָה גִּתָּ֥ה חֵ֖פֶר עִתָּ֣ה קָצִ֑ין וְיָצָ֛א רִמּ֥וֹן הַמְּתֹאָ֖ר הַנֵּעָֽה׃"
+pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GITTAH-HEPHER|GITTAH-HEPHER]]"
+- "[[topic ITTAH-KAZIN|ITTAH-KAZIN]]"
+- "[[topic NEAH|NEAH]]"
+- "[[topic RIMMON|RIMMON]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H5674A]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H4217H]]"
+- "[[H1662]]"
+- "[[H6278]]"
+- "[[H9001]]"
+- "[[H3318I]]"
+- "[[H7417H]]"
+- "[[H9009]]"
+- "[[H8388A]]"
+- "[[H5269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:13**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;
 <small><sub>**BSB:**</sub></small>
 From there it crossed eastward to Gath-hepher and to Eth-kazin; it extended to Rimmon and curved around toward Neah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H8033G\|שָּׁ֤ם]] [[H5674A\|עָבַר֙]] [[H6924B\|קֵ֣דְמָ]][[H9011\|ה]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H1662\|גִּתָּ֥]][[H9011\|ה]] [[H1662\|חֵ֖פֶר]] [[H6278\|עִתָּ֣]][[H9011\|ה]] [[H6278\|קָצִ֑ין]] [[H9001\|וְ]][[H3318I\|יָצָ֛א]] [[H7417H\|רִמּ֥וֹן]] [[H9009\|הַ]][[H8388A\|מְּתֹאָ֖ר]] [[H9009\|הַ]][[H5269\|נֵּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GITTAH-HEPHER|GITTAH-HEPHER]] • [[topic ITTAH-KAZIN|ITTAH-KAZIN]] • [[topic NEAH|NEAH]] • [[topic RIMMON|RIMMON]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.12|<< Joshua 19:12]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.14|Joshua 19:14 >>]]</td></tr></table>
 

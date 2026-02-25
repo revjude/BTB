@@ -1,8 +1,64 @@
+---
+title: Esther 5:1
+type: Verse
+kjv: "Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house."
+bsb: "On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance."
+hebrew: "וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י וַתִּלְבַּ֤שׁ אֶסְתֵּר֙ מַלְכ֔וּת וַֽתַּעֲמֹ֞ד בַּחֲצַ֤ר בֵּית־ הַמֶּ֙לֶךְ֙ הַפְּנִימִ֔ית נֹ֖כַח בֵּ֣ית הַמֶּ֑לֶךְ וְ֠הַמֶּלֶךְ יוֹשֵׁ֞ב עַל־ כִּסֵּ֤א מַלְכוּתוֹ֙ בְּבֵ֣ית הַמַּלְכ֔וּת נֹ֖כַח פֶּ֥תַח הַבָּֽיִת׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H3847]]"
+- "[[H0635]]"
+- "[[H4438]]"
+- "[[H5975G]]"
+- "[[H2691A]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H6442]]"
+- "[[H5227]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H6607]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:1**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass on the third day, that Esther put on [her] royal [apparel], and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
 <small><sub>**BSB:**</sub></small>
 On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֗י]] [[H9001\|וַ]][[H3847\|תִּלְבַּ֤שׁ]] [[H0635\|אֶסְתֵּר֙]] [[H4438\|מַלְכ֔וּת]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֞ד]] [[H9003\|בַּ]][[H2691A\|חֲצַ֤ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔ית]] [[H5227\|נֹ֖כַח]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ֠]][[H9009\|הַ]][[H4428G\|מֶּלֶךְ]] [[H3427\|יוֹשֵׁ֞ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֤א]] [[H4438\|מַלְכוּת]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H4438\|מַּלְכ֔וּת]] [[H5227\|נֹ֖כַח]] [[H6607\|פֶּ֥תַח]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.17|<< Esther 4:17]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.2|Esther 5:2 >>]]</td></tr></table>
 

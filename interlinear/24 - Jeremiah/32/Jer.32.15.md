@@ -1,8 +1,64 @@
+---
+title: Jeremiah 32:15
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: Houses, fields, and vineyards will again be bought in this land.”"
+hebrew: "כִּ֣י כֹ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל ע֣וֹד יִקָּנ֥וּ בָתִּ֛ים וְשָׂד֥וֹת וּכְרָמִ֖ים בָּאָ֥רֶץ הַזֹּֽאת׃ פ"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic LAND|LAND]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5750]]"
+- "[[H7069]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H7704G]]"
+- "[[H3754]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 32:15**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: Houses, fields, and vineyards will again be bought in this land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5750\|ע֣וֹד]] [[H7069\|יִקָּנ֥וּ]] [[H1004B\|בָתִּ֛ים]] [[H9002\|וְ]][[H7704G\|שָׂד֥וֹת]] [[H9002\|וּ]][[H3754\|כְרָמִ֖ים]] [[H9003\|בָּ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic CONTRACTS|CONTRACTS]] • [[topic LAND|LAND]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.14|<< Jeremiah 32:14]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.16|Jeremiah 32:16 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ For this is what the LORD of Hosts, the God of Israel, says: Houses, fields, and
 | and fields  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7704G\|שָׂד֥וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and vineyards  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3754\|כְרָמִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֥רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.14|<< Jeremiah 32:14]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.16|Jeremiah 32:16 >>]]</td></tr></table>
 
 

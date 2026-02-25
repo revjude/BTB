@@ -1,8 +1,76 @@
+---
+title: Daniel 7:19
+type: Verse
+kjv: "Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;"
+bsb: "Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left."
+aramaic: "אֱדַ֗יִן צְבִית֙ לְיַצָּבָ֔א עַל־ חֵֽיוְתָא֙ רְבִיעָ֣יְתָ֔א דִּֽי־ הֲוָ֥ת שָֽׁנְיָ֖ה מִן־ כָּלְּהֵ֑ין דְּחִילָ֣ה יַתִּ֗ירָה שִׁנַּ֤הּ דִּֽי־ פַרְזֶל֙ וְטִפְרַ֣יהּ דִּֽי־ נְחָ֔שׁ אָֽכְלָ֣ה מַדֲּקָ֔ה וּשְׁאָרָ֖א בְּרַגְלַ֥יהּ רָֽפְסָֽה׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic HORN|HORN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H0116]]"
+- "[[H6634]]"
+- "[[H9005]]"
+- "[[H3321]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H2423]]"
+- "[[H9010]]"
+- "[[H7244]]"
+- "[[H1768]]"
+- "[[H1934]]"
+- "[[H8133]]"
+- "[[H4481]]"
+- "[[H3606]]"
+- "[[H9028]]"
+- "[[H9029]]"
+- "[[H1763]]"
+- "[[H3493]]"
+- "[[H8128]]"
+- "[[H9024]]"
+- "[[H6523]]"
+- "[[H9002]]"
+- "[[H2953]]"
+- "[[H5174]]"
+- "[[H0399]]"
+- "[[H1855]]"
+- "[[H7606]]"
+- "[[H9003]]"
+- "[[H7271]]"
+- "[[H7512]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 7:19**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth [were of] iron, and his nails [of] brass; [which] devoured, brake in pieces, and stamped the residue with his feet;
 <small><sub>**BSB:**</sub></small>
 Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֗יִן]] [[H6634\|צְבִית֙]] [[H9005\|לְ]][[H3321\|יַצָּבָ֔א]] [[H5922\|עַל]][[H9014\|־]] [[H2423\|חֵֽיוְתָ]][[H9010\|א֙]] [[H7244\|רְבִיעָ֣יְתָ֔]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|הֲוָ֥ת]] [[H8133\|שָֽׁנְיָ֖ה]] [[H4481\|מִן]][[H9014\|־]] [[H3606\|כָּלְּ]][[H9029\|הֵ֑ין]] [[H1763\|דְּחִילָ֣ה]] [[H3493\|יַתִּ֗ירָה]] [[H8128\|שִׁנַּ֤]][[H9024\|הּ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H6523\|פַרְזֶל֙]] [[H9002\|וְ]][[H2953\|טִפְרַ֣י]][[H9024\|הּ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H5174\|נְחָ֔שׁ]] [[H0399\|אָֽכְלָ֣ה]] [[H1855\|מַדֲּקָ֔ה]] [[H9002\|וּ]][[H7606\|שְׁאָרָ֖]][[H9010\|א]] [[H9003\|בְּ]][[H7271\|רַגְלַ֥י]][[H9024\|הּ]] [[H7512\|רָֽפְסָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BRASS|BRASS]] • [[topic HORN|HORN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.18|<< Daniel 7:18]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.20|Daniel 7:20 >>]]</td></tr></table>
 
@@ -34,10 +102,10 @@ Then I wanted to know the true meaning of the fourth beast, which was different 
 | [it was] trampling  |**<big>&#8207;[[H7512\|רָֽפְסָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra.fe.Sah<small><sup>[[AVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.18|<< Daniel 7:18]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.20|Daniel 7:20 >>]]</td></tr></table>
 
-[^1]: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^2]: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^1]: all of them  | **<big>[[H3606|כָּלְּ]]</big><big>[[H9028|הוֹן]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: all of them  | **<big>[[H3606|כָּלְּ]]</big><big>[[H9028|הוֹן]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>כָּלְּהֵ֑ון</big></span>**
-[^4]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
-[^5]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^4]: teeth its  | **<big>[[H8128|שִׁנַּיַּ]]</big><big>[[H9024|הּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^5]: teeth its  | **<big>[[H8128|שִׁנַּיַּ]]</big><big>[[H9024|הּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
 [^6]: L spelled: **<span class="asaramaic"><big>שִׁנַּ֤יהּ</big></span>**
 

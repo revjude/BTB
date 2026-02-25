@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 23:23
+type: Verse
+kjv: "The sons of Mushi; Mahli, and Eder, and Jeremoth, three."
+bsb: "The sons of Mushi: Mahli, Eder, and Jeremoth—three in all."
+hebrew: "בְּנֵ֣י מוּשִׁ֗י מַחְלִ֥י וְעֵ֛דֶר וִירֵמ֖וֹת שְׁלֹשָֽׁה׃"
+pericope: "[[1Chr.23.21 The Merarites|The Merarites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EDER|EDER]]"
+- "[[topic JERIMOTH|JERIMOTH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MAHLI|MAHLI]]"
+strongs:
+- "[[H1121A]]"
+- "[[H4187]]"
+- "[[H4249H]]"
+- "[[H9002]]"
+- "[[H5740A]]"
+- "[[H3406K]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:23**<big><big>[[1Chr.23.21 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 <small><sub>**BSB:**</sub></small>
 The sons of Mushi: Mahli, Eder, and Jeremoth—three in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֣י]] [[H4187\|מוּשִׁ֗י]] [[H4249H\|מַחְלִ֥י]] [[H9002\|וְ]][[H5740A\|עֵ֛דֶר]] [[H9002\|וִ]][[H3406K\|ירֵמ֖וֹת]] [[H7969\|שְׁלֹשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDER|EDER]] • [[topic JERIMOTH|JERIMOTH]] • [[topic LEVITES|LEVITES]] • [[topic MAHLI|MAHLI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.22|<< 1 Chronicles 23:22]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.24|1 Chronicles 23:24 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 16:28
+type: Verse
+kjv: "Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength."
+bsb: "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength."
+hebrew: "הָב֤וּ לַֽיהוָה֙ מִשְׁפְּח֣וֹת עַמִּ֔ים הָב֥וּ לַיהוָ֖ה כָּב֥וֹד וָעֹֽז׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4940]]"
+- "[[H5971A]]"
+- "[[H3519]]"
+- "[[H9002]]"
+- "[[H5797]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:28**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength.
 <small><sub>**BSB:**</sub></small>
 Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength.
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָב֤וּ]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H4940\|מִשְׁפְּח֣וֹת]] [[H5971A\|עַמִּ֔ים]] [[H3051\|הָב֥וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H3519\|כָּב֥וֹד]] [[H9002\|וָ]][[H5797\|עֹֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.27|<< 1 Chronicles 16:27]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.29|1 Chronicles 16:29 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 39:4
+type: Verse
+kjv: "LORD, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am."
+bsb: "“Show me, O LORD, my end and the measure of my days. Let me know how fleeting my life is."
+hebrew: "הוֹדִ֘יעֵ֤נִי יְהוָ֨ה׀ קִצִּ֗י וּמִדַּ֣ת יָמַ֣י מַה־ הִ֑יא אֵ֝דְעָ֗ה מֶה־ חָדֵ֥ל אָֽנִי׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3045]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H7093]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4060A]]"
+- "[[H3117G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2310]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:4**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, make me to know mine end, and the measure of my days, what it [is; that] I may know how frail I [am].
 <small><sub>**BSB:**</sub></small>
 “Show me, O LORD, my end and the measure of my days. Let me know how fleeting my life is.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|הוֹדִ֘יעֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H7093\|קִצִּ֗]][[H9020\|י]] [[H9002\|וּ]][[H4060A\|מִדַּ֣ת]] [[H3117G\|יָמַ֣]][[H9020\|י]] [[H4100\|מַה]][[H9014\|־]] [[H1931\|הִ֑יא]] [[H3045\|אֵ֝דְעָ֗ה]] [[H4100\|מֶה]][[H9014\|־]] [[H2310\|חָדֵ֥ל]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic LIFE|LIFE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.3|<< Psalms 39:3]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.5|Psalms 39:5 >>]]</td></tr></table>
 

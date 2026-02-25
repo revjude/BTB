@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 9:4
+type: Verse
+kjv: "Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting."
+bsb: "Otherwise, if any Macedonians come with me and find you unprepared, we—to say nothing of you—would be ashamed of having been so confident."
+greek: "μή πως ἐὰν ἔλθωσιν σὺν ἐμοὶ Μακεδόνες καὶ εὕρωσιν ὑμᾶς ἀπαρασκευάστους, καταισχυνθῶμεν ἡμεῖς, ἵνα μὴ λέγω ὑμεῖς, ἐν τῇ ὑποστάσει ταύτῃ τῆς καυχήσεως."
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G4862]]"
+- "[[G1473]]"
+- "[[G3110]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G4771]]"
+- "[[G0532]]"
+- "[[G2617]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5287]]"
+- "[[G3778]]"
+- "[[G2746]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **2 Corinthians 9:4**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.
 <small><sub>**BSB:**</sub></small>
 Otherwise, if any Macedonians come with me and find you unprepared, we—to say nothing of you—would be ashamed of having been so confident.
-<small><sub>**Literal:**</sub></small>
-lest perhaps maybe shall come with me myself Macedonians and shall find you unprepared, shall be put to shame we ourselves — that not I may say you yourselves — in <the> confidence this <the> of boasting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.3|<< 2 Corinthians 9:3]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.5|2 Corinthians 9:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μή]]  [[G4458\|πως]]  [[G1437\|ἐὰν]]  [[G2064\|ἔλθωσιν]]  [[G4862\|σὺν]]  [[G1473\|ἐμοὶ]]  [[G3110\|Μακεδόνες]]  [[G2532\|καὶ]]  [[G2147\|εὕρωσιν]]  [[G4771\|ὑμᾶς]]  [[G0532\|ἀπαρασκευάστους,]]  [[G2617\|καταισχυνθῶμεν]]  [[G3165\|ἡμεῖς,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμεῖς,]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5287\|ὑποστάσει]]  [[G3778\|ταύτῃ]]  [[G3588\|τῆς]]  [[G2746\|καυχήσεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.3|<< 2 Corinthians 9:3]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.5|2 Corinthians 9:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: Proverbs 21:1
+type: Verse
+kjv: "The king’s heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will."
+bsb: "The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases."
+hebrew: "פַּלְגֵי־ מַ֣יִם לֶב־ מֶ֭לֶךְ בְּיַד־ יְהוָ֑ה עַֽל־ כָּל־ אֲשֶׁ֖ר יַחְפֹּ֣ץ יַטֶּֽנּוּ׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IRRIGATION|IRRIGATION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6388]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3820A]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H2654A]]"
+- "[[H5186]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:1**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king’s heart [is] in the hand of the LORD, [as] the rivers of water: he turneth it whithersoever he will.
 <small><sub>**BSB:**</sub></small>
 The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases.
+<small><sub>**Hebrew:**</sub></small>
+[[H6388\|פַּלְגֵי]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H3820A\|לֶב]][[H9014\|־]] [[H4428G\|מֶ֭לֶךְ]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֖ר]] [[H2654A\|יַחְפֹּ֣ץ]] [[H5186\|יַטֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic IRRIGATION|IRRIGATION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.30|<< Proverbs 20:30]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.2|Proverbs 21:2 >>]]</td></tr></table>
 

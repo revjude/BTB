@@ -1,8 +1,55 @@
+---
+title: Proverbs 4:22
+type: Verse
+kjv: "For they are life unto those that find them, and health to all their flesh."
+bsb: "For they are life to those who find them, and health to the whole body."
+hebrew: "כִּֽי־ חַיִּ֣ים הֵ֭ם לְמֹצְאֵיהֶ֑ם וּֽלְכָל־ בְּשָׂר֥וֹ מַרְפֵּֽא׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2416E]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H4672]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H4832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:22**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] life unto those that find them, and health to all their flesh.
 <small><sub>**BSB:**</sub></small>
 For they are life to those who find them, and health to the whole body.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2416E\|חַיִּ֣ים]] [[H1992\|הֵ֭ם]] [[H9005\|לְ]][[H4672\|מֹצְאֵי]][[H9038\|הֶ֑ם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בְּשָׂר֥]][[H9023\|וֹ]] [[H4832\|מַרְפֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.21|<< Proverbs 4:21]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.23|Proverbs 4:23 >>]]</td></tr></table>
 

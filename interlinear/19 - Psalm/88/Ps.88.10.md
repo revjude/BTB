@@ -1,8 +1,60 @@
+---
+title: Psalm 88:10
+type: Verse
+kjv: "Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah."
+bsb: "Do You work wonders for the dead? Do departed spirits rise up to praise You? Selah"
+hebrew: "הֲלַמֵּתִ֥ים תַּעֲשֶׂה־ פֶּ֑לֶא אִם־ רְ֝פָאִ֗ים יָק֤וּמוּ׀ יוֹד֬וּךָ סֶּֽלָה׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+strongs:
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H6382]]"
+- "[[H0518H]]"
+- "[[H7496]]"
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:10**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou shew wonders to the dead? shall the dead arise [and] praise thee? Selah.
 <small><sub>**BSB:**</sub></small>
 Do You work wonders for the dead? Do departed spirits rise up to praise You? Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H9005\|לַ]][[H4191\|מֵּתִ֥ים]] [[H6213A\|תַּעֲשֶׂה]][[H9014\|־]] [[H6382\|פֶּ֑לֶא]] [[H0518H\|אִם]][[H9014\|־]] [[H7496\|רְ֝פָאִ֗ים]] [[H6965B\|יָק֤וּמוּ]][[H9015\|׀]] [[H3034\|יוֹד֬וּ]][[H9031\|ךָ]] [[H5542\|סֶּֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.9|<< Psalms 88:9]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.11|Psalms 88:11 >>]]</td></tr></table>
 

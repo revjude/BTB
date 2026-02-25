@@ -1,10 +1,59 @@
+---
+title: James 3:3
+type: Verse
+kjv: "Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body."
+bsb: "When we put bits into the mouths of horses to make them obey us, we can guide the whole animal."
+greek: "Εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν, καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν."
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BIT|BIT]]"
+- "[[topic HORSE|HORSE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2462]]"
+- "[[G5469]]"
+- "[[G1519]]"
+- "[[G4750]]"
+- "[[G0906H]]"
+- "[[G3982]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3650]]"
+- "[[G4983]]"
+- "[[G3329]]"
+texts:
+- NO
+- N(K)(o)
+- NKO
+- N(k)O
+---
+
 **James 3:3**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.
 <small><sub>**BSB:**</sub></small>
 When we put bits into the mouths of horses to make them obey us, we can guide the whole animal.
-<small><sub>**Literal:**</sub></small>
-If now of the horses <the> bits into the mouths we put for <the> to obey them us, even all the body of them we turn about.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.2|<< James 3:2]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.4|James 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G2462\|ἵππων]]  [[G3588\|τοὺς]]  [[G5469\|χαλινοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G4750\|στόματα]]  [[G0906H\|βάλλομεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3982\|πείθεσθαι]]  [[G0846\|αὐτοὺς]]  [[G3165\|ἡμῖν,]]  [[G2532\|καὶ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0846\|αὐτῶν]]  [[G3329\|μετάγομεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIT|BIT]] • [[topic HORSE|HORSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.2|<< James 3:2]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.4|James 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

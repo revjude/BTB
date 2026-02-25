@@ -1,8 +1,52 @@
+---
+title: Hosea 2:4
+type: Verse
+kjv: "And I will not have mercy upon her children; for they be the children of whoredoms."
+bsb: "I will have no compassion on her children, because they are the children of adultery."
+hebrew: "וְאֶת־ בָּנֶ֖יהָ לֹ֣א אֲרַחֵ֑ם כִּֽי־ בְנֵ֥י זְנוּנִ֖ים הֵֽמָּה׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H7355]]"
+- "[[H3588A]]"
+- "[[H2183]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:4**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will not have mercy upon her children; for they [be] the children of whoredoms.
 <small><sub>**BSB:**</sub></small>
 I will have no compassion on her children, because they are the children of adultery.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנֶ֖י]][[H9024\|הָ]] [[H3808\|לֹ֣א]] [[H7355\|אֲרַחֵ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1121A\|בְנֵ֥י]] [[H2183\|זְנוּנִ֖ים]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.3|<< Hosea 2:3]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.5|Hosea 2:5 >>]]</td></tr></table>
 

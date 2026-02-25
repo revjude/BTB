@@ -1,10 +1,64 @@
+---
+title: 1 Thessalonians 2:7
+type: Verse
+kjv: "But we were gentle among you, even as a nurse cherisheth her children:"
+bsb: "On the contrary, we were gentle among you, like a nursing mother caring for her children."
+greek: "δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ ἀπόστολοι· ἀλλ᾽ ἐγενήθημεν νήπιοι ἐν μέσῳ ὑμῶν, ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα,"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NURSE|NURSE]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G1410]]"
+- "[[G1722]]"
+- "[[G0922]]"
+- "[[G1511]]"
+- "[[G5613]]"
+- "[[G5547]]"
+- "[[G0652]]"
+- "[[G0235]]"
+- "[[G1096]]"
+- "[[G3516]]"
+- "[[G3319]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G5162]]"
+- "[[G2282]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G5043]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Thessalonians 2:7**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we were gentle among you, even as a nurse cherisheth her children:
 <small><sub>**BSB:**</sub></small>
 On the contrary, we were gentle among you, like a nursing mother caring for her children.
-<small><sub>**Literal:**</sub></small>
-[though] having authority with weight to be as Christ’s apostles; [7] But we were infants in [the] midst of you, as maybe a nursing mother shall cherish <the> her own children,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.6|<< 1 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.8|1 Thessalonians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1410\|δυνάμενοι]]  [[G1722\|ἐν]]  [[G0922\|βάρει]]  [[G1511\|εἶναι]]  [[G5613\|ὡς]]  [[G5547\|Χριστοῦ]]  [[G0652\|ἀπόστολοι·]]  [[G0235\|ἀλλ᾽]]  [[G1096\|ἐγενήθημεν]]  [[G3516\|νήπιοι]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G4771\|ὑμῶν,]]  [[G5613\|ὡς]]  [[G1437\|ἐὰν]]  [[G5162\|τροφὸς]]  [[G2282\|θάλπῃ]]  [[G3588\|τὰ]]  [[G1438\|ἑαυτῆς]]  [[G5043\|τέκνα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTLENESS|GENTLENESS]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NURSE|NURSE]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.6|<< 1 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.8|1 Thessalonians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

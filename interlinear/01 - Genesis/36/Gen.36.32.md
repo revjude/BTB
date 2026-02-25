@@ -1,8 +1,61 @@
+---
+title: Genesis 36:32
+type: Verse
+kjv: "And Bela the son of Beor reigned in Edom: and the name of his city was Dinhabah."
+bsb: "Bela son of Beor reigned in Edom; the name of his city was Dinhabah."
+hebrew: "וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן־ בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BELA|BELA]]"
+- "[[topic BEOR|BEOR]]"
+- "[[topic DINHABAH|DINHABAH]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H0123G]]"
+- "[[H1106G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1160G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H1838]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:32**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bela the son of Beor reigned in Edom: and the name of his city [was] Dinhabah.
 <small><sub>**BSB:**</sub></small>
 Bela son of Beor reigned in Edom; the name of his city was Dinhabah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H9003\|בֶּ]][[H0123G\|אֱד֔וֹם]] [[H1106G\|בֶּ֖לַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160G\|בְּע֑וֹר]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H1838\|דִּנְהָֽבָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELA|BELA]] • [[topic BEOR|BEOR]] • [[topic DINHABAH|DINHABAH]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.31|<< Genesis 36:31]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.33|Genesis 36:33 >>]]</td></tr></table>
 

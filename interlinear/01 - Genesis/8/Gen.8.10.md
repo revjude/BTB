@@ -1,8 +1,59 @@
+---
+title: Genesis 8:10
+type: Verse
+kjv: "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
+bsb: "Noah waited seven more days and again sent out the dove from the ark."
+hebrew: "וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־ הַיּוֹנָ֖ה מִן־ הַתֵּבָֽה׃"
+pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2342K]]"
+- "[[H5750]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H0312]]"
+- "[[H3254G]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3123]]"
+- "[[H4480A]]"
+- "[[H8392]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:10**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stayed yet other seven days; and again he sent forth the dove out of the ark;
 <small><sub>**BSB:**</sub></small>
 Noah waited seven more days and again sent out the dove from the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2342K\|יָּ֣חֶל]] [[H5750\|ע֔וֹד]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9001\|וַ]][[H3254G\|יֹּ֛סֶף]] [[H7971G\|שַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3123\|יּוֹנָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.9|<< Genesis 8:9]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.11|Genesis 8:11 >>]]</td></tr></table>
 

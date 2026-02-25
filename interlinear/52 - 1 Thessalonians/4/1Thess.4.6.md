@@ -1,10 +1,61 @@
+---
+title: 1 Thessalonians 4:6
+type: Verse
+kjv: "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified."
+bsb: "and no one should ever violate or exploit his brother in this regard, because the Lord will avenge all such acts, as we have already told you and solemnly warned you."
+greek: "τὸ μὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγματι τὸν ἀδελφὸν αὐτοῦ· διότι ἔκδικος ὁ κύριος περὶ πάντων τούτων καθὼς καὶ προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα."
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+strongs:
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5233]]"
+- "[[G2532]]"
+- "[[G4122]]"
+- "[[G1722]]"
+- "[[G4229]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G1360]]"
+- "[[G1558]]"
+- "[[G2962G]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G2531]]"
+- "[[G4277]]"
+- "[[G4771]]"
+- "[[G1263]]"
+texts:
+- NKO
+- k
+---
+
 **1 Thessalonians 4:6**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That no [man] go beyond and defraud his brother in [any] matter: because that the Lord [is] the avenger of all such, as we also have forewarned you and testified.
 <small><sub>**BSB:**</sub></small>
 and no one should ever violate or exploit his brother in this regard, because the Lord will avenge all such acts, as we have already told you and solemnly warned you.
-<small><sub>**Literal:**</sub></small>
-<the> not to go beyond and to overreach in the matter the brother of him; because avenging [is] the Lord concerning all these things even as also we told before you and thoroughly warned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.5|<< 1 Thessalonians 4:5]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.7|1 Thessalonians 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G5233\|ὑπερβαίνειν]]  [[G2532\|καὶ]]  [[G4122\|πλεονεκτεῖν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4229\|πράγματι]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ·]]  [[G1360\|διότι]]  [[G1558\|ἔκδικος]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3778\|τούτων]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G4277\|προείπαμεν]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G1263\|διεμαρτυράμεθα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DISHONESTY|DISHONESTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.5|<< 1 Thessalonians 4:5]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.7|1 Thessalonians 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

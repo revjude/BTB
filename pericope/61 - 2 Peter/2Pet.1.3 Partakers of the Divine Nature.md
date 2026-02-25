@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Partakers of the Divine Nature
+type: Pericope
 pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 1
 book/chapter: "[[2Pet.1|2 Peter 1]]"
-genre:
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 13
 verses:
 - "[[2Pet.1.3]]"
 - "[[2Pet.1.4]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Pet.1.15]]"
 ---
 
-[[2Pet.1|2 Peter 1:3 - 2 Peter 1:15]]
+<small>[[2Pet.1|2 Peter 1:3-15]]</small>
 *Partakers of the Divine Nature*
 
 [[2Pet.1.3|3]] According as his divine power hath given unto us all things that \[pertain\] unto life and godliness, through the knowledge of him that hath called us to glory and virtue:

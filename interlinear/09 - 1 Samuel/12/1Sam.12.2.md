@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 12:2
+type: Verse
+kjv: "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day."
+bsb: "Now here is the king walking before you, and I am old and gray, and my sons are here with you. I have walked before you from my youth until this day."
+hebrew: "וְעַתָּ֞ה הִנֵּ֥ה הַמֶּ֣לֶךְ׀ מִתְהַלֵּ֣ךְ לִפְנֵיכֶ֗ם וַאֲנִי֙ זָקַ֣נְתִּי וָשַׂ֔בְתִּי וּבָנַ֖י הִנָּ֣ם אִתְּכֶ֑ם וַאֲנִי֙ הִתְהַלַּ֣כְתִּי לִפְנֵיכֶ֔ם מִנְּעֻרַ֖י עַד־ הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9015]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H0589]]"
+- "[[H2204]]"
+- "[[H7867]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9048]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:2**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons [are] with you: and I have walked before you from my childhood unto this day.
 <small><sub>**BSB:**</sub></small>
 Now here is the king walking before you, and I am old and gray, and my sons are here with you. I have walked before you from my youth until this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]][[H9015\|׀]] [[H1980I\|מִתְהַלֵּ֣ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֗ם]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H2204\|זָקַ֣נְתִּי]] [[H9002\|וָ]][[H7867\|שַׂ֔בְתִּי]] [[H9002\|וּ]][[H1121A\|בָנַ֖]][[H9020\|י]] [[H2009\|הִנָּ֣]][[H9048\|ם]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H1980I\|הִתְהַלַּ֣כְתִּי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H9006\|מִ]][[H5271A\|נְּעֻרַ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.1|<< 1 Samuel 12:1]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.3|1 Samuel 12:3 >>]]</td></tr></table>
 

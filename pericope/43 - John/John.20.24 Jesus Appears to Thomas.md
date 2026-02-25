@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Appears to Thomas
+type: Pericope
 pericope: "[[John.20.24 Jesus Appears to Thomas|Jesus Appears to Thomas]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: John
 chapter: 20
 book/chapter: "[[John.20|John 20]]"
-genre:
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 6
 verses:
 - "[[John.20.24]]"
 - "[[John.20.25]]"
@@ -24,7 +31,7 @@ verses:
 - "[[John.20.29]]"
 ---
 
-[[John.20|John 20:24 - John 20:29]]
+<small>[[John.20|John 20:24-29]]</small>
 *Jesus Appears to Thomas*
 
 [[John.20.24|24]] But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.

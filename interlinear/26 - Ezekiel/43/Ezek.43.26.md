@@ -1,8 +1,59 @@
+---
+title: Ezekiel 43:26
+type: Verse
+kjv: "Seven days shall they purge the altar and purify it; and they shall consecrate themselves."
+bsb: "For seven days the priests are to make atonement for the altar and cleanse it; so they shall consecrate it."
+hebrew: "שִׁבְעַ֣ת יָמִ֗ים יְכַפְּרוּ֙ אֶת־ הַמִּזְבֵּ֔חַ וְטִֽהֲר֖וּ אֹת֑וֹ וּמִלְא֖וּ יָדָֽיו׃"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3722A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9033]]"
+- "[[H4390]]"
+- "[[H3027R]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 43:26**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days shall they purge the altar and purify it; and they shall consecrate themselves.
 <small><sub>**BSB:**</sub></small>
 For seven days the priests are to make atonement for the altar and cleanse it; so they shall consecrate it.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֗ים]] [[H3722A\|יְכַפְּרוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וְ]][[H2891\|טִֽהֲר֖וּ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וּ]][[H4390\|מִלְא֖וּ]] [[H3027R\|יָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.25|<< Ezekiel 43:25]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.27|Ezekiel 43:27 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ For seven days the priests are to make atonement for the altar and cleanse it; s
 | hands its  [^2]|**<big>&#8207;[[H3027R\|יָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ya.do<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.25|<< Ezekiel 43:25]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.27|Ezekiel 43:27 >>]]</td></tr></table>
 
-[^1]: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: hand its  | **<big>[[H3027R|יָד]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: hand its  | **<big>[[H3027R|יָד]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>יָדָֽו\׃</big></span>**
 

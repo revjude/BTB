@@ -1,10 +1,59 @@
+---
+title: Hebrews 3:5
+type: Verse
+kjv: "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;"
+bsb: "Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later."
+greek: "καὶ Μωϋσῆς μὲν πιστὸς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ ὡς θεράπων εἰς μαρτύριον τῶν λαληθησομένων,"
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3475]]"
+- "[[G3303]]"
+- "[[G4103]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G3624H]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G2324]]"
+- "[[G1519]]"
+- "[[G3142]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:5**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Moses verily [was] faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
 <small><sub>**BSB:**</sub></small>
 Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.
-<small><sub>**Literal:**</sub></small>
-And Moses indeed [was] faithful in all the house of Him as a servant unto a testimony of the [things] to be spoken,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.4|<< Hebrews 3:4]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.6|Hebrews 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3475\|Μωϋσῆς]]  [[G3303\|μὲν]]  [[G4103\|πιστὸς]]  [[G1722\|ἐν]]  [[G3650\|ὅλῳ]]  [[G3588\|τῷ]]  [[G3624H\|οἴκῳ]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G2324\|θεράπων]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G3588\|τῶν]]  [[G2980\|λαληθησομένων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PROPHETS|PROPHETS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.4|<< Hebrews 3:4]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.6|Hebrews 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:5** is...
 > $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]

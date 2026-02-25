@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 12:1
+type: Verse
+kjv: "It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord."
+bsb: "I must go on boasting. Although there is nothing to gain, I will go on to visions and revelations from the Lord."
+greek: "Καυχᾶσθαι δεῖ, οὐ συμφέρον μέν, ἐλεύσομαι δὲ εἰς ὀπτασίας καὶ ἀποκαλύψεις κυρίου.¶"
+pericope: "[[2Cor.12.1 Paul’s Revelation|Paul’s Revelation]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2744]]"
+- "[[G1163]]"
+- "[[G3756]]"
+- "[[G4851]]"
+- "[[G3303]]"
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G3701]]"
+- "[[G2532]]"
+- "[[G0602]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Corinthians 12:1**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 <small><sub>**BSB:**</sub></small>
 I must go on boasting. Although there is nothing to gain, I will go on to visions and revelations from the Lord.
-<small><sub>**Literal:**</sub></small>
-To boast it behooves [me], not is it profitable indeed, I will go on however to visions and revelations of [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.33|<< 2 Corinthians 11:33]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.2|2 Corinthians 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2744\|Καυχᾶσθαι]]  [[G1163\|δεῖ,]]  [[G3756\|οὐ]]  [[G4851\|συμφέρον]]  [[G3303\|μέν,]]  [[G2064\|ἐλεύσομαι]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G3701\|ὀπτασίας]]  [[G2532\|καὶ]]  [[G0602\|ἀποκαλύψεις]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.33|<< 2 Corinthians 11:33]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.2|2 Corinthians 12:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

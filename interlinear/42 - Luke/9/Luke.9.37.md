@@ -1,10 +1,58 @@
+---
+title: Luke 9:37
+type: Verse
+kjv: "And it came to pass, that on the next day, when they were come down from the hill, much people met him."
+bsb: "The next day, when they came down from the mountain, Jesus was met by a large crowd."
+greek: "Ἐγένετο δὲ ἐν τῇ ἑξῆς ἡμέρᾳ κατελθόντων αὐτῶν ἀπὸ τοῦ ὄρους συνήντησεν αὐτῷ ὄχλος πολύς."
+pericope: "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1836]]"
+- "[[G2250]]"
+- "[[G2718]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3735]]"
+- "[[G4876]]"
+- "[[G3793]]"
+- "[[G4183]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 9:37**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that on the next day, when they were come down from the hill, much people met him.
 <small><sub>**BSB:**</sub></small>
 The next day, when they came down from the mountain, Jesus was met by a large crowd.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in the next day when were descending they from the mountain met with Him a crowd great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.36|<< Luke 9:36]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.38|Luke 9:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1836\|ἑξῆς]]  [[G2250\|ἡμέρᾳ]]  [[G2718\|κατελθόντων]]  [[G0846\|αὐτῶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G4876\|συνήντησεν]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλος]]  [[G4183\|πολύς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.36|<< Luke 9:36]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.38|Luke 9:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

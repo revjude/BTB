@@ -1,10 +1,59 @@
+---
+title: Matthew 2:5
+type: Verse
+kjv: "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,"
+bsb: "“In Bethlehem in Judea,” they replied, “for this is what the prophet has written:"
+greek: "οἱ δὲ εἶπαν αὐτῷ· ἐν Βηθλέεμ τῆς Ἰουδαίας. οὕτως γὰρ γέγραπται διὰ τοῦ προφήτου·"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G0965]]"
+- "[[G2449]]"
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G1125]]"
+- "[[G1223]]"
+- "[[G4396]]"
+texts:
+- NKO
+---
+
 **Matthew 2:5**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,
 <small><sub>**BSB:**</sub></small>
 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written:
-<small><sub>**Literal:**</sub></small>
-<the> And they said to him; In Bethlehem <the> of Judea. thus for it has been written through the prophet:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.4|<< Matthew 2:4]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.6|Matthew 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G1722\|ἐν]]  [[G0965\|Βηθλέεμ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας.]]  [[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G1125\|γέγραπται]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.4|<< Matthew 2:4]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.6|Matthew 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 10:10
+type: Verse
+kjv: "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct."
+bsb: "If the axe is dull and the blade unsharpened, more strength must be exerted, but skill produces success."
+hebrew: "אִם־ קֵהָ֣ה הַבַּרְזֶ֗ל וְהוּא֙ לֹא־ פָנִ֣ים קִלְקַ֔ל וַחֲיָלִ֖ים יְגַבֵּ֑ר וְיִתְר֥וֹן הַכְשֵׁ֖ר חָכְמָֽה׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IRON|IRON]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6949]]"
+- "[[H9009]]"
+- "[[H1270]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H6440H]]"
+- "[[H7043]]"
+- "[[H2428G]]"
+- "[[H1396]]"
+- "[[H3504]]"
+- "[[H3787]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ecclesiastes 10:10**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom [is] profitable to direct.
 <small><sub>**BSB:**</sub></small>
 If the axe is dull and the blade unsharpened, more strength must be exerted, but skill produces success.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6949\|קֵהָ֣ה]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֗ל]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H3808\|לֹא]][[H9014\|־]] [[H6440H\|פָנִ֣ים]] [[H7043\|קִלְקַ֔ל]] [[H9002\|וַ]][[H2428G\|חֲיָלִ֖ים]] [[H1396\|יְגַבֵּ֑ר]] [[H9002\|וְ]][[H3504\|יִתְר֥וֹן]] [[H3787\|הַכְשֵׁ֖ר]] [[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRON|IRON]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.9|<< Ecclesiastes 10:9]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.11|Ecclesiastes 10:11 >>]]</td></tr></table>
 

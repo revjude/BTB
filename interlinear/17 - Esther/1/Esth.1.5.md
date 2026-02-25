@@ -1,8 +1,69 @@
+---
+title: Esther 1:5
+type: Verse
+kjv: "And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king’s palace;"
+bsb: "At the end of this time, in the garden court of the royal palace, the king held a seven-day feast for all the people in the citadel of Susa, from the least to the greatest."
+hebrew: "וּבִמְל֣וֹאת׀ הַיָּמִ֣ים הָאֵ֗לֶּה עָשָׂ֣ה הַמֶּ֡לֶךְ לְכָל־ הָעָ֣ם הַנִּמְצְאִים֩ בְּשׁוּשַׁ֨ן הַבִּירָ֜ה לְמִגָּ֧דוֹל וְעַד־ קָטָ֛ן מִשְׁתֶּ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּחֲצַ֕ר גִּנַּ֥ת בִּיתַ֖ן הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4390]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0428]]"
+- "[[H6213I]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H4672]]"
+- "[[H7800]]"
+- "[[H1002]]"
+- "[[H9006]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H6996A]]"
+- "[[H4960]]"
+- "[[H7651]]"
+- "[[H2691A]]"
+- "[[H1594]]"
+- "[[H1055]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:5**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king’s palace;
 <small><sub>**BSB:**</sub></small>
 At the end of this time, in the garden court of the royal palace, the king held a seven-day feast for all the people in the citadel of Susa, from the least to the greatest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H4390\|מְל֣וֹאת]][[H9015\|׀]] [[H9009\|הַ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H6213I\|עָשָׂ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֡לֶךְ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H4672\|נִּמְצְאִים֩]] [[H9003\|בְּ]][[H7800\|שׁוּשַׁ֨ן]] [[H9009\|הַ]][[H1002\|בִּירָ֜ה]] [[H9005\|לְ]][[H9006\|מִ]][[H1419A\|גָּ֧דוֹל]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6996A\|קָטָ֛ן]] [[H4960\|מִשְׁתֶּ֖ה]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9003\|בַּ]][[H2691A\|חֲצַ֕ר]] [[H1594\|גִּנַּ֥ת]] [[H1055\|בִּיתַ֖ן]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic HOUSE|HOUSE]] • [[topic SEVEN|SEVEN]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.4|<< Esther 1:4]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.6|Esther 1:6 >>]]</td></tr></table>
 

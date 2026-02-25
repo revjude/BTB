@@ -1,10 +1,64 @@
+---
+title: Revelation 15:1
+type: Verse
+kjv: "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God."
+bsb: "Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed."
+greek: "Καὶ εἶδον ἄλλο σημεῖον ἐν τῷ οὐρανῷ μέγα καὶ θαυμαστόν, ἀγγέλους ἑπτὰ ἔχοντας πληγὰς ἑπτὰ τὰς ἐσχάτας, ὅτι ἐν αὐταῖς ἐτελέσθη ὁ θυμὸς τοῦ θεοῦ.¶"
+pericope: "[[Rev.15.1 The Song of Moses and the Lamb|The Song of Moses and the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G4592]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3173]]"
+- "[[G2298]]"
+- "[[G0032G]]"
+- "[[G2033]]"
+- "[[G2192]]"
+- "[[G4127]]"
+- "[[G2078]]"
+- "[[G3754H]]"
+- "[[G0846]]"
+- "[[G5055]]"
+- "[[G2372]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Revelation 15:1**<big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.
 <small><sub>**BSB:**</sub></small>
 Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.
-<small><sub>**Literal:**</sub></small>
-And I saw another sign in <the> heaven great and wonderful, angels seven having plagues seven — the last, because in them was completed the wrath <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.20|<< Revelation 14:20]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.2|Revelation 15:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G0243\|ἄλλο]]  [[G4592\|σημεῖον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G3173\|μέγα]]  [[G2532\|καὶ]]  [[G2298\|θαυμαστόν,]]  [[G0032G\|ἀγγέλους]]  [[G2033\|ἑπτὰ]]  [[G2192\|ἔχοντας]]  [[G4127\|πληγὰς]]  [[G2033\|ἑπτὰ]]  [[G3588\|τὰς]]  [[G2078\|ἐσχάτας,]]  [[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G5055\|ἐτελέσθη]]  [[G3588\|ὁ]]  [[G2372\|θυμὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGER|ANGER]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.20|<< Revelation 14:20]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.2|Revelation 15:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

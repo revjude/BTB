@@ -1,10 +1,58 @@
+---
+title: Luke 21:2
+type: Verse
+kjv: "And he saw also a certain poor widow casting in thither two mites."
+bsb: "and He saw a poor widow put in two small copper coins."
+greek: "εἶδεν δέ καὶ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο.¶"
+pericope: "[[Luke.21.1 The Poor Widow’s Offering|The Poor Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MITE (A LEPTA)|MITE (A LEPTA)]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G5503]]"
+- "[[G3998]]"
+- "[[G0906H]]"
+- "[[G1563]]"
+- "[[G3016]]"
+- "[[G1417]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 21:2**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saw also a certain poor widow casting in thither two mites.
 <small><sub>**BSB:**</sub></small>
 and He saw a poor widow put in two small copper coins.
-<small><sub>**Literal:**</sub></small>
-He saw then and a certain widow poor casting in lepta two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.1|<< Luke 21:1]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.3|Luke 21:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|εἶδεν]]  [[G1161\|δέ]]  [[G2532\|καὶ]]  [[G5100\|τινα]]  [[G5503\|χήραν]]  [[G3998\|πενιχρὰν]]  [[G0906H\|βάλλουσαν]]  [[G1563\|ἐκεῖ]]  [[G3016\|λεπτὰ]]  [[G1417\|δύο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MITE (A LEPTA)|MITE (A LEPTA)]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.1|<< Luke 21:1]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.3|Luke 21:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

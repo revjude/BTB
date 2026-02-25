@@ -1,8 +1,64 @@
+---
+title: Exodus 23:9
+type: Verse
+kjv: "Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt."
+bsb: "Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt."
+hebrew: "וְגֵ֖ר לֹ֣א תִלְחָ֑ץ וְאַתֶּ֗ם יְדַעְתֶּם֙ אֶת־ נֶ֣פֶשׁ הַגֵּ֔ר כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1616]]"
+- "[[H3808]]"
+- "[[H3905]]"
+- "[[H0859D]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H9009]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:9**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1616\|גֵ֖ר]] [[H3808\|לֹ֣א]] [[H3905\|תִלְחָ֑ץ]] [[H9002\|וְ]][[H0859D\|אַתֶּ֗ם]] [[H3045\|יְדַעְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5315G\|נֶ֣פֶשׁ]] [[H9009\|הַ]][[H1616\|גֵּ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1616\|גֵרִ֥ים]] [[H1961\|הֱיִיתֶ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic RULERS|RULERS]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.8|<< Exodus 23:8]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.10|Exodus 23:10 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Daniel 1:7
+type: Verse
+kjv: "Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego."
+bsb: "The chief official gave them new names: To Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego."
+hebrew: "וַיָּ֧שֶׂם לָהֶ֛ם שַׂ֥ר הַסָּרִיסִ֖ים שֵׁמ֑וֹת וַיָּ֨שֶׂם לְדָֽנִיֵּ֜אל בֵּ֣לְטְשַׁאצַּ֗ר וְלַֽחֲנַנְיָה֙ שַׁדְרַ֔ךְ וּלְמִֽישָׁאֵ֣ל מֵישַׁ֔ךְ וְלַעֲזַרְיָ֖ה עֲבֵ֥ד נְגֽוֹ׃"
+pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BELTESHAZZAR|BELTESHAZZAR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760M]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5631]]"
+- "[[H8034]]"
+- "[[H1840G]]"
+- "[[H1095]]"
+- "[[H9002]]"
+- "[[H2608T]]"
+- "[[H7714]]"
+- "[[H4332I]]"
+- "[[H4335]]"
+- "[[H5838Z]]"
+- "[[H5664]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:7**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto whom the prince of the eunuchs gave names: for he gave unto Daniel [the name] of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
 <small><sub>**BSB:**</sub></small>
 The chief official gave them new names: To Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760M\|יָּ֧שֶׂם]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H8269\|שַׂ֥ר]] [[H9009\|הַ]][[H5631\|סָּרִיסִ֖ים]] [[H8034\|שֵׁמ֑וֹת]] [[H9001\|וַ]][[H7760M\|יָּ֨שֶׂם]] [[H9005\|לְ]][[H1840G\|דָֽנִיֵּ֜אל]] [[H1095\|בֵּ֣לְטְשַׁאצַּ֗ר]] [[H9002\|וְ]][[H9005\|לַֽ]][[H2608T\|חֲנַנְיָה֙]] [[H7714\|שַׁדְרַ֔ךְ]] [[H9002\|וּ]][[H9005\|לְ]][[H4332I\|מִֽישָׁאֵ֣ל]] [[H4335\|מֵישַׁ֔ךְ]] [[H9002\|וְ]][[H9005\|לַ]][[H5838Z\|עֲזַרְיָ֖ה]] [[H5664\|עֲבֵ֥ד]] [[H5664\|נְגֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic AZARIAH|AZARIAH]] • [[topic BELTESHAZZAR|BELTESHAZZAR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.6|<< Daniel 1:6]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.8|Daniel 1:8 >>]]</td></tr></table>
 

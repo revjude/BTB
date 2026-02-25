@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hosea’s Wife and Children
+type: Pericope
 pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 1
 book/chapter: "[[Hos.1|Hosea 1]]"
-genre:
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 11
 verses:
 - "[[Hos.1.1]]"
 - "[[Hos.1.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Hos.1.11]]"
 ---
 
-[[Hos.1|Hosea 1:1 - Hosea 1:11]]
+<small>[[Hos.1|Hosea 1:1-11]]</small>
 *Hosea’s Wife and Children*
 
 [[Hos.1.1|1]] The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, \[and\] Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.

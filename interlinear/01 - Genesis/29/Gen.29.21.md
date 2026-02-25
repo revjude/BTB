@@ -1,8 +1,71 @@
+---
+title: Genesis 29:21
+type: Verse
+kjv: "And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her."
+bsb: "Finally Jacob said to Laban, “Grant me my wife, for my time is complete, and I want to sleep with her.”"
+hebrew: "וַיֹּ֨אמֶר יַעֲקֹ֤ב אֶל־ לָבָן֙ הָבָ֣ה אֶת־ אִשְׁתִּ֔י כִּ֥י מָלְא֖וּ יָמָ֑י וְאָב֖וֹאָה אֵלֶֽיהָ׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3837A]]"
+- "[[H3051]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:21**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said unto Laban, Give [me] my wife, for my days are fulfilled, that I may go in unto her.
 <small><sub>**BSB:**</sub></small>
 Finally Jacob said to Laban, “Grant me my wife, for my time is complete, and I want to sleep with her.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3290\|יַעֲקֹ֤ב]] [[H0413\|אֶל]][[H9014\|־]] [[H3837A\|לָבָן֙]] [[H3051\|הָבָ֣]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתִּ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H4390\|מָלְא֖וּ]] [[H3117G\|יָמָ֑]][[H9020\|י]] [[H9002\|וְ]][[H0935G\|אָב֖וֹאָה]] [[H0413\|אֵלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FATHER-IN-LAW|FATHER-IN-LAW]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.20|<< Genesis 29:20]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.22|Genesis 29:22 >>]]</td></tr></table>
 

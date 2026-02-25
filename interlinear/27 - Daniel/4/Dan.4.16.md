@@ -1,8 +1,64 @@
+---
+title: Daniel 4:16
+type: Verse
+kjv: "Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him."
+bsb: "Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by."
+aramaic: "לִבְבֵהּ֙ מִן־ אֲנָשָׁ֣א יְשַׁנּ֔וֹן וּלְבַ֥ב חֵיוָ֖ה יִתְיְהִ֣ב לֵ֑הּ וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֥וּן עֲלֽוֹהִי׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3825]]"
+- "[[H9023]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H0606]]"
+- "[[H9010]]"
+- "[[H8133]]"
+- "[[H9002]]"
+- "[[H2423]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7655]]"
+- "[[H5732]]"
+- "[[H2499]]"
+- "[[H5922]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 4:16**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.
 <small><sub>**BSB:**</sub></small>
 Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by.
+<small><sub>**Aramaic:**</sub></small>
+[[H3825\|לִבְבֵ]][[H9023\|הּ֙]] [[H4481\|מִן]][[H9014\|־]] [[H0606\|אֲנָשָׁ֣]][[H9010\|א]] [[H8133\|יְשַׁנּ֔וֹן]] [[H9002\|וּ]][[H3825\|לְבַ֥ב]] [[H2423\|חֵיוָ֖ה]] [[H3052\|יִתְיְהִ֣ב]] [[H9005\|לֵ֑]][[H9033\|הּ]] [[H9002\|וְ]][[H7655\|שִׁבְעָ֥ה]] [[H5732\|עִדָּנִ֖ין]] [[H2499\|יַחְלְפ֥וּן]] [[H5922\|עֲלֽוֹ]][[H9033\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 

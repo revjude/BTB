@@ -1,10 +1,63 @@
+---
+title: Acts 14:8
+type: Verse
+kjv: "And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:"
+bsb: "In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked."
+greek: "Καί τις ἀνὴρ ἀδύνατος ἐν Λύστροις τοῖς ποσὶν ἐκάθητο, χωλὸς ἐκ κοιλίας μητρὸς αὐτοῦ ὑπάρχων, ὃς οὐδέποτε περιεπάτησεν."
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G0435G]]"
+- "[[G0102]]"
+- "[[G1722]]"
+- "[[G3082]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G2521]]"
+- "[[G5560]]"
+- "[[G1537]]"
+- "[[G2836]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G5225]]"
+- "[[G3739]]"
+- "[[G3763]]"
+- "[[G4043]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 14:8**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:
 <small><sub>**BSB:**</sub></small>
 In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked.
-<small><sub>**Literal:**</sub></small>
-And a certain man crippled in Lystra in the feet was sitting, lame from [the] womb of [the] mother of him being who never walked.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.7|<< Acts 14:7]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.9|Acts 14:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καί]]  [[G5100\|τις]]  [[G0435G\|ἀνὴρ]]  [[G0102\|ἀδύνατος]]  [[G1722\|ἐν]]  [[G3082\|Λύστροις]]  [[G3588\|τοῖς]]  [[G4228\|ποσὶν]]  [[G2521\|ἐκάθητο,]]  [[G5560\|χωλὸς]]  [[G1537\|ἐκ]]  [[G2836\|κοιλίας]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτοῦ]]  [[G5225\|ὑπάρχων,]]  [[G3739\|ὃς]]  [[G3763\|οὐδέποτε]]  [[G4043\|περιεπάτησεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.7|<< Acts 14:7]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.9|Acts 14:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

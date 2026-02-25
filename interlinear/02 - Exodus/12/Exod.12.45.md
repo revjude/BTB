@@ -1,8 +1,55 @@
+---
+title: Exodus 12:45
+type: Verse
+kjv: "A foreigner and an hired servant shall not eat thereof."
+bsb: "A temporary resident or hired hand shall not eat the Passover."
+hebrew: "תּוֹשָׁ֥ב וְשָׂכִ֖יר לֹא־ יֹ֥אכַל־ בּֽוֹ׃"
+pericope: "[[Exod.12.43 Instructions for the Passover|Instructions for the Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H8453A]]"
+- "[[H9002]]"
+- "[[H7916]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:45**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A foreigner and an hired servant shall not eat thereof.
 <small><sub>**BSB:**</sub></small>
 A temporary resident or hired hand shall not eat the Passover.
+<small><sub>**Hebrew:**</sub></small>
+[[H8453A\|תּוֹשָׁ֥ב]] [[H9002\|וְ]][[H7916\|שָׂכִ֖יר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹ֥אכַל]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.44|<< Exodus 12:44]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.46|Exodus 12:46 >>]]</td></tr></table>
 

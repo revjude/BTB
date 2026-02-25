@@ -1,10 +1,48 @@
+---
+title: 1 Corinthians 10:19
+type: Verse
+kjv: "What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?"
+bsb: "Am I suggesting, then, that food sacrificed to an idol is anything, or that an idol is anything?"
+greek: "Τί οὖν φημι; ὅτι εἰδωλόθυτόν τί ἐστιν ἢ ὅτι εἴδωλόν τί ἐστιν;"
+pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G5346]]"
+- "[[G3754G]]"
+- "[[G1494]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G2228]]"
+- "[[G1497]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:19**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?
 <small><sub>**BSB:**</sub></small>
 Am I suggesting, then, that food sacrificed to an idol is anything, or that an idol is anything?
-<small><sub>**Literal:**</sub></small>
-What then do I mean? That an idol-sacrifice anything is or that an idol anything is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.18|<< 1 Corinthians 10:18]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.20|1 Corinthians 10:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G5346\|φημι;]]  [[G3754G\|ὅτι]]  [[G1494\|εἰδωλόθυτόν]]  [[G5100\|τί]]  [[G1510\|ἐστιν]]  [[G2228\|ἢ]]  [[G3754G\|ὅτι]]  [[G1497\|εἴδωλόν]]  [[G5100\|τί]]  [[G1510\|ἐστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.18|<< 1 Corinthians 10:18]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.20|1 Corinthians 10:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

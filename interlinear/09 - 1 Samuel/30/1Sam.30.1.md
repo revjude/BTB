@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 30:1
+type: Verse
+kjv: "And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;"
+bsb: "On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down."
+hebrew: "וַיְהִ֞י בְּבֹ֨א דָוִ֧ד וַאֲנָשָׁ֛יו צִֽקְלַ֖ג בַּיּ֣וֹם הַשְּׁלִישִׁ֑י וַעֲמָלֵקִ֣י פָֽשְׁט֗וּ אֶל־ נֶ֙גֶב֙ וְאֶל־ צִ֣קְלַ֔ג וַיַּכּוּ֙ אֶת־ צִ֣קְלַ֔ג וַיִּשְׂרְפ֥וּ אֹתָ֖הּ בָּאֵֽשׁ׃"
+pericope: "[[1Sam.30.1 The Amalekites Raid Ziklag|The Amalekites Raid Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H6860]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H6003]]"
+- "[[H6584]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5045G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H8313]]"
+- "[[H9034]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:1**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
 <small><sub>**BSB:**</sub></small>
 On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בְּ]][[H0935G\|בֹ֨א]] [[H1732\|דָוִ֧ד]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֛י]][[H9023\|ו]] [[H6860\|צִֽקְלַ֖ג]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֑י]] [[H9002\|וַ]][[H6003\|עֲמָלֵקִ֣י]] [[H6584\|פָֽשְׁט֗וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5045G\|נֶ֙גֶב֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6860\|צִ֣קְלַ֔ג]] [[H9001\|וַ]][[H5221\|יַּכּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6860\|צִ֣קְלַ֔ג]] [[H9001\|וַ]][[H8313\|יִּשְׂרְפ֥וּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CAPTIVE|CAPTIVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.11|<< 1 Samuel 29:11]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.2|1 Samuel 30:2 >>]]</td></tr></table>
 

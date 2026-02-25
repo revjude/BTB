@@ -1,10 +1,66 @@
+---
+title: Acts 5:24
+type: Verse
+kjv: "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow."
+bsb: "When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening."
+greek: "ὡς δὲ ἤκουσαν τοὺς λόγους τούτους ὅ τε ἱερεὺς καὶ ὁ στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς, διηπόρουν περὶ αὐτῶν, τί ἂν γένοιτο τοῦτο."
+pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G5037]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[G4755]]"
+- "[[G2411]]"
+- "[[G0749]]"
+- "[[G1280]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G1096]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 5:24**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.
 <small><sub>**BSB:**</sub></small>
 When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening.
-<small><sub>**Literal:**</sub></small>
-When now they heard <the> words these <the> both the priest and the captain of the temple and the chief priests were perplexed concerning them, what maybe would be this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.23|<< Acts 5:23]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.25|Acts 5:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G0191\|ἤκουσαν]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους]]  [[G3588\|ὅ]]  [[G5037\|τε]]  [[G2409\|ἱερεὺς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4755\|στρατηγὸς]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς,]]  [[G1280\|διηπόρουν]]  [[G4012\|περὶ]]  [[G0846\|αὐτῶν,]]  [[G5101\|τί]]  [[G0302\|ἂν]]  [[G1096\|γένοιτο]]  [[G3778\|τοῦτο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.23|<< Acts 5:23]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.25|Acts 5:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

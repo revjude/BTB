@@ -1,8 +1,65 @@
+---
+title: Exodus 34:14
+type: Verse
+kjv: "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:"
+bsb: "For you must not worship any other god, for the LORD, whose name is Jealous, is a jealous God."
+hebrew: "כִּ֛י לֹ֥א תִֽשְׁתַּחֲוֶ֖ה לְאֵ֣ל אַחֵ֑ר כִּ֤י יְהוָה֙ קַנָּ֣א שְׁמ֔וֹ אֵ֥ל קַנָּ֖א הֽוּא׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H0410K]]"
+- "[[H0312]]"
+- "[[H3068G]]"
+- "[[H7067G]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0410G]]"
+- "[[H7067H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:14**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou shalt worship no other god: for the LORD, whose name [is] Jealous, [is] a jealous God:
 <small><sub>**BSB:**</sub></small>
 For you must not worship any other god, for the LORD, whose name is Jealous, is a jealous God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H7812\|תִֽשְׁתַּחֲוֶ֖ה]] [[H9005\|לְ]][[H0410K\|אֵ֣ל]] [[H0312\|אַחֵ֑ר]] [[H3588A\|כִּ֤י]] [[H3068G\|יְהוָה֙]] [[H7067G\|קַנָּ֣א]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H0410G\|אֵ֥ל]] [[H7067H\|קַנָּ֖א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.13|<< Exodus 34:13]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.15|Exodus 34:15 >>]]</td></tr></table>
 

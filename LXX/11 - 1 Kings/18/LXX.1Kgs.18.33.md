@@ -1,6 +1,82 @@
+---
+title: LXX 1 Kings 18:33
+type: Verse
+lxx: "And he put the kindling upon the altar which he made. And he dismembered the whole burnt-offering, and he put it upon the kindling, and he piled upon the altar. And Elijah said, Bring to me four water pitchers, and pour upon the whole burnt-offering, and upon the kindling!"
+greek: "και επέθηκε τας σχίδακας επί το θυσιαστήριον ο εποίησεν και εμέλισε το ολοκαύτωμα και επέθηκεν επί τας σχίδακας και εστοίβασεν επί το θυσιαστήριον και είπεν Ηλίας λάβετέ μοι τέσσαρας υδρίας ύδατος και επιχέατε επί το ολοκαύτωμα και επί τας σχίδακας"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic BARREL|BARREL]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G9381]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G8282]]"
+- "[[G3588]]"
+- "[[G3646]]"
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G9381]]"
+- "[[G2532]]"
+- "[[G9185]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2243]]"
+- "[[G2983]]"
+- "[[G1473]]"
+- "[[G5064]]"
+- "[[G5201]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G2022]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3646]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G9381]]"
+---
+
 **LXX 1 Kings 18:33** 
 <small><sub>**LXX:**</sub></small>
 And he put the kindling upon the altar which he made. And he dismembered the whole burnt-offering, and he put it upon the kindling, and he piled upon the altar. And Elijah said, Bring to me four water pitchers, and pour upon the whole burnt-offering, and upon the kindling! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2007\|επέθηκε]] [[G3588\|τας]] [[G9381\|σχίδακας]] [[G1909\|επί]] [[G3588\|το]] [[G2379\|θυσιαστήριον]] [[G3739\|ο]] [[G4160\|εποίησεν]] [[G2532\|και]] [[G8282\|εμέλισε]] [[G3588\|το]] [[G3646\|ολοκαύτωμα]] [[G2532\|και]] [[G2007\|επέθηκεν]] [[G1909\|επί]] [[G3588\|τας]] [[G9381\|σχίδακας]] [[G2532\|και]] [[G9185\|εστοίβασεν]] [[G1909\|επί]] [[G3588\|το]] [[G2379\|θυσιαστήριον]] [[G2532\|και]] [[G2036\|είπεν]] [[G2243\|Ηλίας]] [[G2983\|λάβετέ]] [[G1473\|μοι]] [[G5064\|τέσσαρας]] [[G5201\|υδρίας]] [[G5204\|ύδατος]] [[G2532\|και]] [[G2022\|επιχέατε]] [[G1909\|επί]] [[G3588\|το]] [[G3646\|ολοκαύτωμα]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|τας]] [[G9381\|σχίδακας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic BARREL|BARREL]] • [[topic CARMEL|CARMEL]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
@@ -45,6 +121,6 @@ And he put the kindling upon the altar which he made. And he dismembered the who
 | upon | **<big>[[G1909\|επί]]</big>** |
 | the | **<big>[[G3588\|τας]]</big>** |
 | kindling! | **<big>[[G9381\|σχίδακας]]</big>** |
-[[1Kgs.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
 

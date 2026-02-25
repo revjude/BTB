@@ -1,10 +1,67 @@
+---
+title: 2 Corinthians 2:3
+type: Verse
+kjv: "And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all."
+bsb: "I wrote as I did so that on my arrival I would not be grieved by those who ought to make me rejoice. I had confidence in all of you, that you would share my joy."
+greek: "καὶ ἔγραψα ὑμῖν τοῦτο αὐτό, ἵνα μὴ ἐλθὼν λύπην σχῶ ἀφ᾽ ὧν ἔδει με χαίρειν πεποιθὼς ἐπὶ πάντας ὑμᾶς ὅτι ἡ ἐμὴ χαρὰ πάντων ὑμῶν ἐστιν."
+pericope: "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G2064]]"
+- "[[G3077]]"
+- "[[G2192]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G5463]]"
+- "[[G3982]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G5479]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **2 Corinthians 2:3**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is [the joy] of you all.
 <small><sub>**BSB:**</sub></small>
 I wrote as I did so that on my arrival I would not be grieved by those who ought to make me rejoice. I had confidence in all of you, that you would share my joy.
-<small><sub>**Literal:**</sub></small>
-And I wrote to you this same thing, so that not having come grief I may have from [those] of whom it was necessary me to rejoice having trusted in all you that <the> my joy of all of you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.2|<< 2 Corinthians 2:2]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.4|2 Corinthians 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν]]  [[G3778\|τοῦτο]]  [[G0846\|αὐτό,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2064\|ἐλθὼν]]  [[G3077\|λύπην]]  [[G2192\|σχῶ]]  [[G0575\|ἀφ᾽]]  [[G3739\|ὧν]]  [[G1163\|ἔδει]]  [[G3165\|με]]  [[G5463\|χαίρειν]]  [[G3982\|πεποιθὼς]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G4771\|ὑμᾶς]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G5479\|χαρὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JOY|JOY]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.2|<< 2 Corinthians 2:2]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.4|2 Corinthians 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

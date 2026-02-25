@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 17:23
+type: Verse
+kjv: "And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father."
+bsb: "When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He put his affairs in order and hanged himself. So he died and was buried in his father’s tomb."
+hebrew: "וַאֲחִיתֹ֣פֶל רָאָ֗ה כִּ֣י לֹ֣א נֶעֶשְׂתָה֮ עֲצָתוֹ֒ וַיַּחֲבֹ֣שׁ אֶֽת־ הַחֲמ֗וֹר וַיָּ֜קָם וַיֵּ֤לֶךְ אֶל־ בֵּיתוֹ֙ אֶל־ עִיר֔וֹ וַיְצַ֥ו אֶל־ בֵּית֖וֹ וַיֵּחָנַ֑ק וַיָּ֕מָת וַיִּקָּבֵ֖ר בְּקֶ֥בֶר אָבִֽיו׃ ס"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SUICIDE|SUICIDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0302]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H6098]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2280]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2543]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H5892B]]"
+- "[[H6680]]"
+- "[[H2614]]"
+- "[[H4191]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 17:23**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Ahithophel saw that his counsel was not followed, he saddled [his] ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
 <small><sub>**BSB:**</sub></small>
 When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He put his affairs in order and hanged himself. So he died and was buried in his father’s tomb.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0302\|אֲחִיתֹ֣פֶל]] [[H7200G\|רָאָ֗ה]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֣א]] [[H6213A\|נֶעֶשְׂתָה֮]] [[H6098\|עֲצָת]][[H9023\|וֹ֒]] [[H9001\|וַ]][[H2280\|יַּחֲבֹ֣שׁ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמ֗וֹר]] [[H9001\|וַ]][[H6965B\|יָּ֜קָם]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית]][[H9023\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִיר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H6680\|יְצַ֥ו]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H2614\|יֵּחָנַ֑ק]] [[H9001\|וַ]][[H4191\|יָּ֕מָת]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֖ר]] [[H9003\|בְּ]][[H6913\|קֶ֥בֶר]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic AMBITION|AMBITION]] • [[topic DAVID|DAVID]] • [[topic PRIDE|PRIDE]] • [[topic SUICIDE|SUICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.22|<< 2 Samuel 17:22]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.24|2 Samuel 17:24 >>]]</td></tr></table>
 
@@ -30,7 +95,7 @@ When Ahithophel saw that his advice had not been followed, he saddled his donkey
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֕מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he was buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקָּבֵ֖ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Ver<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] tomb of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6913\|קֶ֥בֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ke.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.22|<< 2 Samuel 17:22]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.24|2 Samuel 17:24 >>]]</td></tr></table>
 
 

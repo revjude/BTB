@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Festus Interrupts Paul’s Defense
+type: Pericope
 pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 26
 book/chapter: "[[Acts.26|Acts 26]]"
-genre:
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.26.24]]"
 - "[[Acts.26.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.26.32]]"
 ---
 
-[[Acts.26|Acts 26:24 - Acts 26:32]]
+<small>[[Acts.26|Acts 26:24-32]]</small>
 *Festus Interrupts Paul’s Defense*
 
 [[Acts.26.24|24]] And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.

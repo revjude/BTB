@@ -1,8 +1,62 @@
+---
+title: LXX Lamentations 4:8
+type: Verse
+lxx: "ΗΘ
+
+their appearance darkened above lamp black, they are not recognized in the streets; their skin was fixed against  their bones; they are dried up, they were as wood."
+greek: "εσκότασεν υπέρ ασβόλην το είδος αυτών ουκ επεγνώσθησαν εν ταις εξόδοις εξόδοις επάγη δέρμα αυτών επί τα οστά αυτών εξηράνθησαν εγενήθησαν ώσπερ ξύλον"
+original_language: Greek
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- septuagint
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+strongs:
+- "[[G9117]]"
+- "[[G5228]]"
+- "[[G6566]]"
+- "[[G3588]]"
+- "[[G1491]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1921]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1841]]"
+- "[[G1473]]"
+- "[[G4078]]"
+- "[[G1192]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3747]]"
+- "[[G1473]]"
+- "[[G3583]]"
+- "[[G1096]]"
+- "[[G5618]]"
+- "[[G3586]]"
+---
+
 **LXX Lamentations 4:8** 
 <small><sub>**LXX:**</sub></small>
 <p style="text-align:center;font-weight:600;">ΗΘ</p>
 
 their appearance darkened above lamp black, they are not recognized in the streets; their skin was fixed against  their bones; they are dried up, they were as wood. 
+<small><sub>**Greek:**</sub></small>
+[[G9117\|εσκότασεν]] [[G5228\|υπέρ]] [[G6566\|ασβόλην]] [[G3588\|το]] [[G1491\|είδος]] [[G1473\|αυτών]] [[G3756\|ουκ]] [[G1921\|επεγνώσθησαν]] [[G1722\|εν]] [[G3588\|ταις]] [[G1841\|εξόδοις]] <sup><small>[[G1473\| [ • ] ]]</small></sup> [[G4078\|επάγη]] [[G1192\|δέρμα]] [[G1473\|αυτών]] [[G1909\|επί]] [[G3588\|τα]] [[G3747\|οστά]] [[G1473\|αυτών]] [[G3583\|εξηράνθησαν]] [[G1096\|εγενήθησαν]] [[G5618\|ώσπερ]] [[G3586\|ξύλον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
@@ -28,6 +82,6 @@ their appearance darkened above lamp black, they are not recognized in the stree
 | they were | **<big>[[G1096\|εγενήθησαν]]</big>** |
 | as | **<big>[[G5618\|ώσπερ]]</big>** |
 | wood. | **<big>[[G3586\|ξύλον]]</big>** |
-[[Lam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
 

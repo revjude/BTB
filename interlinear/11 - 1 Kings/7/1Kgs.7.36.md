@@ -1,8 +1,71 @@
+---
+title: 1 Kings 7:36
+type: Verse
+kjv: "For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about."
+bsb: "He engraved cherubim, lions, and palm trees on the surfaces of the supports and panels, wherever each had space, with wreaths all around."
+hebrew: "וַיְפַתַּ֤ח עַל־ הַלֻּחֹת֙ יְדֹתֶ֔יהָ וְעַל֙ מִסְגְּרֹתֶ֔יהָ כְּרוּבִ֖ים אֲרָי֣וֹת וְתִמֹרֹ֑ת כְּמַֽעַר־ אִ֥ישׁ וְלֹי֖וֹת סָבִֽיב׃"
+pericope: "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LION|LION]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6605B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H4526]]"
+- "[[H3742]]"
+- "[[H0738A]]"
+- "[[H8561]]"
+- "[[H9004]]"
+- "[[H4629H]]"
+- "[[H0376I]]"
+- "[[H3914]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 7:36**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
 <small><sub>**BSB:**</sub></small>
 He engraved cherubim, lions, and palm trees on the surfaces of the supports and panels, wherever each had space, with wreaths all around.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6605B\|יְפַתַּ֤ח]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹת֙]] [[H3027G\|יְדֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4526\|מִסְגְּרֹתֶ֔י]][[H9024\|הָ]] [[H3742\|כְּרוּבִ֖ים]] [[H0738A\|אֲרָי֣וֹת]] [[H9002\|וְ]][[H8561\|תִמֹרֹ֑ת]] [[H9004\|כְּ]][[H4629H\|מַֽעַר]][[H9014\|־]] [[H0376I\|אִ֥ישׁ]] [[H9002\|וְ]][[H3914\|לֹי֖וֹת]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic CHERUBIM|CHERUBIM]] • [[topic HIRAM|HIRAM]] • [[topic LION|LION]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.35|<< 1 Kings 7:35]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.37|1 Kings 7:37 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ He engraved cherubim, lions, and palm trees on the surfaces of the supports and 
 | [were] all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.35|<< 1 Kings 7:35]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.37|1 Kings 7:37 >>]]</td></tr></table>
 
-[^1]: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
-[^2]: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^1]: \<and> rims its  | **<big>[[H9002|וּ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9024|הָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: \<and> rims its  | **<big>[[H9002|וּ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9024|הָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>ומִסְגְּרֹתֶ֔י/הָ</big></span>**
 

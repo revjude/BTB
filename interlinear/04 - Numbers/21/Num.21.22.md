@@ -1,8 +1,70 @@
+---
+title: Numbers 21:22
+type: Verse
+kjv: "Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink of the waters of the well: but we will go along by the king’s high way, until we be past thy borders."
+bsb: "“Let us pass through your land. We will not turn aside into any field or vineyard, or drink water from any well. We will stay on the King’s Highway until we have passed through your territory.”"
+hebrew: "אֶעְבְּרָ֣ה בְאַרְצֶ֗ךָ לֹ֤א נִטֶּה֙ בְּשָׂדֶ֣ה וּבְכֶ֔רֶם לֹ֥א נִשְׁתֶּ֖ה מֵ֣י בְאֵ֑ר בְּדֶ֤רֶךְ הַמֶּ֙לֶךְ֙ נֵלֵ֔ךְ עַ֥ד אֲשֶֽׁר־ נַעֲבֹ֖ר גְּבֻלֶֽךָ׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ROADS|ROADS]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H5186]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H3754]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H0875]]"
+- "[[H1870I]]"
+- "[[H9009]]"
+- "[[H4428I]]"
+- "[[H1980G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:22**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me pass through thy land: we will not turn into the fields, or into the vineyards; we will not drink [of] the waters of the well: [but] we will go along by the king’s [high] way, until we be past thy borders.
 <small><sub>**BSB:**</sub></small>
 “Let us pass through your land. We will not turn aside into any field or vineyard, or drink water from any well. We will stay on the King’s Highway until we have passed through your territory.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|אֶעְבְּרָ֣ה]] [[H9003\|בְ]][[H0776G\|אַרְצֶ֗]][[H9021\|ךָ]] [[H3808\|לֹ֤א]] [[H5186\|נִטֶּה֙]] [[H9003\|בְּ]][[H7704G\|שָׂדֶ֣ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3754\|כֶ֔רֶם]] [[H3808\|לֹ֥א]] [[H8354\|נִשְׁתֶּ֖ה]] [[H4325G\|מֵ֣י]] [[H0875\|בְאֵ֑ר]] [[H9003\|בְּ]][[H1870I\|דֶ֤רֶךְ]] [[H9009\|הַ]][[H4428I\|מֶּ֙לֶךְ֙]] [[H1980G\|נֵלֵ֔ךְ]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5674A\|נַעֲבֹ֖ר]] [[H1366H\|גְּבֻלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic GRAPE|GRAPE]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic ISRAEL|ISRAEL]] • [[topic ROADS|ROADS]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.21|<< Numbers 21:21]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.23|Numbers 21:23 >>]]</td></tr></table>
 

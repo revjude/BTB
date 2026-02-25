@@ -1,6 +1,61 @@
+---
+title: LXX Ezekiel 10:3
+type: Verse
+lxx: "And the cherubim stood at the right of the house, in the entering of the man. And the cloud filled the inner courtyard."
+greek: "και τα χερουβείμ ειστήκει εκ δεξιών του οίκου εν τω εισπορεύεσθαι τον άνδρα και η νεφέλη έπλησε την αυλήν την εσωτέραν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5502]]"
+- "[[G2476]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1531]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G4130]]"
+- "[[G3588]]"
+- "[[G0833]]"
+- "[[G3588]]"
+- "[[G2082]]"
+---
+
 **LXX Ezekiel 10:3** 
 <small><sub>**LXX:**</sub></small>
 And the cherubim stood at \[the\] right of the house, in the entering of the man. And the cloud filled the inner courtyard. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τα]] [[G5502\|χερουβείμ]] [[G2476\|ειστήκει]] [[G1537\|εκ]] [[G1188\|δεξιών]] [[G3588\|του]] [[G3624\|οίκου]] [[G1722\|εν]] [[G3588\|τω]] [[G1531\|εισπορεύεσθαι]] [[G3588\|τον]] [[G0435\|άνδρα]] [[G2532\|και]] [[G3588\|η]] [[G3507\|νεφέλη]] [[G4130\|έπλησε]] [[G3588\|την]] [[G0833\|αυλήν]] [[G3588\|την]] [[G2082\|εσωτέραν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
 
@@ -27,6 +82,6 @@ And the cherubim stood at \[the\] right of the house, in the entering of the man
 | courtyard | **<big>[[G0833\|αυλήν]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | inner | **<big>[[G2082\|εσωτέραν]]</big>** |
-[[Ezek.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
 
 

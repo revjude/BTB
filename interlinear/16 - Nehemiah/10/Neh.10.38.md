@@ -1,8 +1,71 @@
+---
+title: Nehemiah 10:38
+type: Verse
+kjv: "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house."
+bsb: "A priest of Aaron’s line is to accompany the Levites when they collect the tenth, and the Levites are to bring a tenth of these tithes to the storerooms of the treasury in the house of our God."
+hebrew: "וְהָיָ֨ה הַכֹּהֵ֧ן בֶּֽן־ אַהֲרֹ֛ן עִם־ הַלְוִיִּ֖ם בַּעְשֵׂ֣ר הַלְוִיִּ֑ם וְהַלְוִיִּ֞ם יַעֲל֨וּ אֶת־ מַעֲשַׂ֤ר הַֽמַּעֲשֵׂר֙ לְבֵ֣ית אֱלֹהֵ֔ינוּ אֶל־ הַלְּשָׁכ֖וֹת לְבֵ֥ית הָאוֹצָֽר׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H5973A]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H6237]]"
+- "[[H9002]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H4643]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0413]]"
+- "[[H3957]]"
+- "[[H1004B]]"
+- "[[H0214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:38**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.
 <small><sub>**BSB:**</sub></small>
 A priest of Aaron’s line is to accompany the Levites when they collect the tenth, and the Levites are to bring a tenth of these tithes to the storerooms of the treasury in the house of our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֧ן]] [[H1121G\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֛ן]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9003\|בַּ]][[H6237\|עְשֵׂ֣ר]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֞ם]] [[H5927H\|יַעֲל֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4643\|מַעֲשַׂ֤ר]] [[H9009\|הַֽ]][[H4643\|מַּעֲשֵׂר֙]] [[H9005\|לְ]][[H1004Q\|בֵ֣ית]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֖וֹת]] [[H9005\|לְ]][[H1004B\|בֵ֥ית]] [[H9009\|הָ]][[H0214\|אוֹצָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]] • [[topic TITHES|TITHES]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.37|<< Nehemiah 10:37]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.39|Nehemiah 10:39 >>]]</td></tr></table>
 

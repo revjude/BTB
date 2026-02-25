@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 1:25
+type: Verse
+kjv: "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us."
+bsb: "They took some of the fruit of the land in their hands, carried it down to us, and brought us word: “It is a good land that the LORD our God is giving us.”"
+hebrew: "וַיִּקְח֤וּ בְיָדָם֙ מִפְּרִ֣י הָאָ֔רֶץ וַיּוֹרִ֖דוּ אֵלֵ֑ינוּ וַיָּשִׁ֨בוּ אֹתָ֤נוּ דָבָר֙ וַיֹּ֣אמְר֔וּ טוֹבָ֣ה הָאָ֔רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:25**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took of the fruit of the land in their hands, and brought [it] down unto us, and brought us word again, and said, [It is] a good land which the LORD our God doth give us.
 <small><sub>**BSB:**</sub></small>
 They took some of the fruit of the land in their hands, carried it down to us, and brought us word: “It is a good land that the LORD our God is giving us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֤וּ]] [[H9003\|בְ]][[H3027G\|יָדָ]][[H9028\|ם֙]] [[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H3381\|יּוֹרִ֖דוּ]] [[H0413\|אֵלֵ֑י]][[H9035\|נוּ]] [[H9001\|וַ]][[H7725G\|יָּשִׁ֨בוּ]] [[H0853\|אֹתָ֤]][[H9035\|נוּ]] [[H1697G\|דָבָר֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H2896A\|טוֹבָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.24|<< Deuteronomy 1:24]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.26|Deuteronomy 1:26 >>]]</td></tr></table>
 

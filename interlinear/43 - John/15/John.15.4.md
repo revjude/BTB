@@ -1,10 +1,75 @@
+---
+title: John 15:4
+type: Verse
+kjv: "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+bsb: "Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me."
+jesus_said: "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+greek: "μείνατε ἐν ἐμοὶ κἀγὼ κἀγὼ ἐν ὑμῖν. καθὼς τὸ κλῆμα οὐ δύναται καρπὸν φέρειν ἀφ᾽ ἑαυτοῦ ἐὰν μὴ μένῃ ἐν τῇ ἀμπέλῳ, οὕτως οὐδὲ ὑμεῖς ἐὰν μὴ ἐν ἐμοὶ μένητε."
+pericope: "[[John.15.1 Jesus the True Vine|Jesus the True Vine]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PRUNING|PRUNING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic VINE|VINE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G2814]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2590]]"
+- "[[G5342]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0288]]"
+- "[[G3779]]"
+- "[[G3761]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 15:4**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
 <small><sub>**BSB:**</sub></small>
 Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me.
-<small><sub>**Literal:**</sub></small>
-do abide in Me myself and I myself in you. Even as the branch not is able fruit to bear of itself only unless it shall abide in the vine, so neither [are able] you only unless in Me myself you shall abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.3|<< John 15:3]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.5|John 15:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3306\|μείνατε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.]]  [[G2531\|καθὼς]]  [[G3588\|τὸ]]  [[G2814\|κλῆμα]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G2590\|καρπὸν]]  [[G5342\|φέρειν]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτοῦ]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3306\|μένῃ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0288\|ἀμπέλῳ,]]  [[G3779\|οὕτως]]  [[G3761\|οὐδὲ]]  [[G4771\|ὑμεῖς]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G3306\|μένητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GRAPE|GRAPE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PRUNING|PRUNING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic VINE|VINE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.3|<< John 15:3]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.5|John 15:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

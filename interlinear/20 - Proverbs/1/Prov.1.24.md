@@ -1,8 +1,65 @@
+---
+title: Proverbs 1:24
+type: Verse
+kjv: "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;"
+bsb: "Because you refused my call, and no one took my outstretched hand,"
+hebrew: "יַ֣עַן קָ֭רָאתִי וַתְּמָאֵ֑נוּ נָטִ֥יתִי יָ֝דִ֗י וְאֵ֣ין מַקְשִֽׁיב׃"
+pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3282]]"
+- "[[H7121G]]"
+- "[[H9001]]"
+- "[[H3985]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H7181]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:24**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
 <small><sub>**BSB:**</sub></small>
 Because you refused my call, and no one took my outstretched hand,
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]] [[H7121G\|קָ֭רָאתִי]] [[H9001\|וַ]][[H3985\|תְּמָאֵ֑נוּ]] [[H5186\|נָטִ֥יתִי]] [[H3027G\|יָ֝דִ֗]][[H9020\|י]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H7181\|מַקְשִֽׁיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SELF-WILL|SELF-WILL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.23|<< Proverbs 1:23]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.25|Proverbs 1:25 >>]]</td></tr></table>
 

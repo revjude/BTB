@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Transfiguration
+type: Pericope
 pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Mark
 chapter: 9
 book/chapter: "[[Mark.9|Mark 9]]"
-genre:
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Mark.9.1]]"
 - "[[Mark.9.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Mark.9.13]]"
 ---
 
-[[Mark.9|Mark 9:1 - Mark 9:13]]
+<small>[[Mark.9|Mark 9:1-13]]</small>
 *The Transfiguration*
 
 [[Mark.9.1|1]] And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.

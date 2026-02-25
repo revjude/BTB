@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul the Servant to All
+type: Pericope
 pericope: "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 9
 book/chapter: "[[1Cor.9|1 Corinthians 9]]"
-genre:
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[1Cor.9.19]]"
 - "[[1Cor.9.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Cor.9.23]]"
 ---
 
-[[1Cor.9|1 Corinthians 9:19 - 1 Corinthians 9:23]]
+<small>[[1Cor.9|1 Corinthians 9:19-23]]</small>
 *Paul the Servant to All*
 
 [[1Cor.9.19|19]] For though I be free from all \[men\], yet have I made myself servant unto all, that I might gain the more.

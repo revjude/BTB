@@ -1,8 +1,54 @@
+---
+title: Job 36:26
+type: Verse
+kjv: "Behold, God is great, and we know him not, neither can the number of his years be searched out."
+bsb: "Indeed, God is great—beyond our knowledge; the number of His years is unsearchable."
+hebrew: "הֶן־ אֵ֣ל שַׂ֭גִּיא וְלֹ֣א נֵדָ֑ע מִסְפַּ֖ר שָׁנָ֣יו וְלֹא־ חֵֽקֶר׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H7689]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4557]]"
+- "[[H8141]]"
+- "[[H9023]]"
+- "[[H2714]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:26**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, God [is] great, and we know [him] not, neither can the number of his years be searched out.
 <small><sub>**BSB:**</sub></small>
 Indeed, God is great—beyond our knowledge; the number of His years is unsearchable.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H7689\|שַׂ֭גִּיא]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|נֵדָ֑ע]] [[H4557\|מִסְפַּ֖ר]] [[H8141\|שָׁנָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2714\|חֵֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.25|<< Job 36:25]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.27|Job 36:27 >>]]</td></tr></table>
 

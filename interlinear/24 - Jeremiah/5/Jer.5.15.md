@@ -1,8 +1,69 @@
+---
+title: Jeremiah 5:15
+type: Verse
+kjv: "Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say."
+bsb: "Behold, I am bringing a distant nation against you, O house of Israel,” declares the LORD. “It is an established nation, an ancient nation, a nation whose language you do not know and whose speech you do not understand."
+hebrew: "הִנְנִ֣י מֵבִיא֩ עֲלֵיכֶ֨ם גּ֧וֹי מִמֶּרְחָ֛ק בֵּ֥ית יִשְׂרָאֵ֖ל נְאֻם־ יְהֹוָ֑ה גּ֣וֹי׀ אֵיתָ֣ן ה֗וּא גּ֤וֹי מֵעוֹלָם֙ ה֔וּא גּ֚וֹי לֹא־ תֵדַ֣ע לְשֹׁנ֔וֹ וְלֹ֥א תִשְׁמַ֖ע מַה־ יְדַבֵּֽר׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H4801]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0386]]"
+- "[[H1931]]"
+- "[[H5769J]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3956H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8085J]]"
+- "[[H4100]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:15**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it [is] a mighty nation, it [is] an ancient nation, a nation whose language thou knowest not, neither understandest what they say.
 <small><sub>**BSB:**</sub></small>
 Behold, I am bringing a distant nation against you, O house of Israel,” declares the LORD. “It is an established nation, an ancient nation, a nation whose language you do not know and whose speech you do not understand.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0935P\|מֵבִיא֩]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֨ם]] [[H1471A\|גּ֧וֹי]] [[H9006\|מִ]][[H4801\|מֶּרְחָ֛ק]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהֹוָ֑ה]] [[H1471A\|גּ֣וֹי]][[H9015\|׀]] [[H0386\|אֵיתָ֣ן]] [[H1931\|ה֗וּא]] [[H1471A\|גּ֤וֹי]] [[H9006\|מֵ]][[H5769J\|עוֹלָם֙]] [[H1931\|ה֔וּא]] [[H1471A\|גּ֚וֹי]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|תֵדַ֣ע]] [[H3956H\|לְשֹׁנ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085J\|תִשְׁמַ֖ע]] [[H4100\|מַה]][[H9014\|־]] [[H1696G\|יְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.14|<< Jeremiah 5:14]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.16|Jeremiah 5:16 >>]]</td></tr></table>
 

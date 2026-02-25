@@ -1,8 +1,57 @@
+---
+title: Psalm 130:5
+type: Verse
+kjv: "I wait for the LORD, my soul doth wait, and in his word do I hope."
+bsb: "I wait for the LORD; my soul does wait, and in His word I put my hope."
+hebrew: "קִוִּ֣יתִי יְ֭הוָה קִוְּתָ֣ה נַפְשִׁ֑י וְֽלִדְבָר֥וֹ הוֹחָֽלְתִּי׃"
+pericope: "[[Ps.130.1 Out of the Depths|Out of the Depths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 130
+book/chapter: "[[Ps.130|Psalm 130]]"
+chronological_order: 891
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H6960A]]"
+- "[[H3068G]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H3176H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 130:5**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I wait for the LORD, my soul doth wait, and in his word do I hope.
 <small><sub>**BSB:**</sub></small>
 I wait for the LORD; my soul does wait, and in His word I put my hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H6960A\|קִוִּ֣יתִי]] [[H3068G\|יְ֭הוָה]] [[H6960A\|קִוְּתָ֣ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְֽ]][[H9005\|לִ]][[H1697G\|דְבָר֥]][[H9023\|וֹ]] [[H3176H\|הוֹחָֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic SEEKERS|SEEKERS]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.4|<< Psalms 130:4]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130.6|Psalms 130:6 >>]]</td></tr></table>
 

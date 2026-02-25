@@ -1,8 +1,51 @@
+---
+title: Proverbs 21:7
+type: Verse
+kjv: "The robbery of the wicked shall destroy them; because they refuse to do judgment."
+bsb: "The violence of the wicked will sweep them away because they refuse to do what is just."
+hebrew: "שֹׁד־ רְשָׁעִ֥ים יְגוֹרֵ֑ם כִּ֥י מֵ֝אֲנ֗וּ לַעֲשׂ֥וֹת מִשְׁפָּֽט׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H7701]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H1641]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:7**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The robbery of the wicked shall destroy them; because they refuse to do judgment.
 <small><sub>**BSB:**</sub></small>
 The violence of the wicked will sweep them away because they refuse to do what is just.
+<small><sub>**Hebrew:**</sub></small>
+[[H7701\|שֹׁד]][[H9014\|־]] [[H7563\|רְשָׁעִ֥ים]] [[H1641\|יְגוֹרֵ֑]][[H9038\|ם]] [[H3588A\|כִּ֥י]] [[H3985\|מֵ֝אֲנ֗וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 

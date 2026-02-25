@@ -1,8 +1,64 @@
+---
+title: Hosea 10:14
+type: Verse
+kjv: "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children."
+bsb: "the roar of battle will rise against your people, so that all your fortresses will be demolished as Shalman devastated Beth-arbel in the day of battle, when mothers were dashed to pieces along with their children."
+hebrew: "וְקָ֣אם שָׁאוֹן֮ בְּעַמֶּךָ֒ וְכָל־ מִבְצָרֶ֣יךָ יוּשַּׁ֔ד כְּשֹׁ֧ד שַֽׁלְמַ֛ן בֵּ֥ית אַֽרְבֵ֖אל בְּי֣וֹם מִלְחָמָ֑ה אֵ֥ם עַל־ בָּנִ֖ים רֻטָּֽשָׁה׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BETH-ARBEL|BETH-ARBEL]]"
+- "[[topic SHALMAN|SHALMAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H7588]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4013]]"
+- "[[H7703]]"
+- "[[H9004]]"
+- "[[H7701]]"
+- "[[H8020]]"
+- "[[H1009]]"
+- "[[H3117G]]"
+- "[[H4421]]"
+- "[[H0517]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H7376]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:14**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon [her] children.
 <small><sub>**BSB:**</sub></small>
 the roar of battle will rise against your people, so that all your fortresses will be demolished as Shalman devastated Beth-arbel in the day of battle, when mothers were dashed to pieces along with their children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6965B\|קָ֣אם]] [[H7588\|שָׁאוֹן֮]] [[H9003\|בְּ]][[H5971A\|עַמֶּ]][[H9021\|ךָ֒]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4013\|מִבְצָרֶ֣י]][[H9021\|ךָ]] [[H7703\|יוּשַּׁ֔ד]] [[H9004\|כְּ]][[H7701\|שֹׁ֧ד]] [[H8020\|שַֽׁלְמַ֛ן]] [[H1009\|בֵּ֥ית]] [[H1009\|אַֽרְבֵ֖אל]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H4421\|מִלְחָמָ֑ה]] [[H0517\|אֵ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִ֖ים]] [[H7376\|רֻטָּֽשָׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-ARBEL|BETH-ARBEL]] • [[topic SHALMAN|SHALMAN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.13|<< Hosea 10:13]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.15|Hosea 10:15 >>]]</td></tr></table>
 

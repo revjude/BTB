@@ -1,8 +1,70 @@
+---
+title: Genesis 29:24
+type: Verse
+kjv: "And Laban gave unto his daughter Leah Zilpah his maid for an handmaid."
+bsb: "And Laban gave his servant girl Zilpah to his daughter Leah as her maidservant."
+hebrew: "וַיִּתֵּ֤ן לָבָן֙ לָ֔הּ אֶת־ זִלְפָּ֖ה שִׁפְחָת֑וֹ לְלֵאָ֥ה בִתּ֖וֹ שִׁפְחָֽה׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic ZILPAH|ZILPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2153]]"
+- "[[H8198]]"
+- "[[H9023]]"
+- "[[H3812]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:24**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban gave unto his daughter Leah Zilpah his maid [for] an handmaid.
 <small><sub>**BSB:**</sub></small>
 And Laban gave his servant girl Zilpah to his daughter Leah as her maidservant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H3837A\|לָבָן֙]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2153\|זִלְפָּ֖ה]] [[H8198\|שִׁפְחָת֑]][[H9023\|וֹ]] [[H9005\|לְ]][[H3812\|לֵאָ֥ה]] [[H1323G\|בִתּ֖]][[H9023\|וֹ]] [[H8198\|שִׁפְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic BRIDE|BRIDE]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic LEAH|LEAH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]] • [[topic ZILPAH|ZILPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.23|<< Genesis 29:23]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.25|Genesis 29:25 >>]]</td></tr></table>
 

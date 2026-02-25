@@ -1,8 +1,61 @@
+---
+title: Job 5:21
+type: Verse
+kjv: "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh."
+bsb: "You will be hidden from the scourge of the tongue, and will not fear havoc when it comes."
+hebrew: "בְּשׁ֣וֹט לָ֭שׁוֹן תֵּחָבֵ֑א וְֽלֹא־ תִירָ֥א מִ֝שֹּׁ֗ד כִּ֣י יָבֽוֹא׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9003]]"
+- "[[H7752]]"
+- "[[H3956G]]"
+- "[[H2244]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H7701]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:21**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
 <small><sub>**BSB:**</sub></small>
 You will be hidden from the scourge of the tongue, and will not fear havoc when it comes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7752\|שׁ֣וֹט]] [[H3956G\|לָ֭שׁוֹן]] [[H2244\|תֵּחָבֵ֑א]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H3372G\|תִירָ֥א]] [[H9006\|מִ֝]][[H7701\|שֹּׁ֗ד]] [[H3588A\|כִּ֣י]] [[H0935G\|יָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SCOURGING|SCOURGING]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.20|<< Job 5:20]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.22|Job 5:22 >>]]</td></tr></table>
 

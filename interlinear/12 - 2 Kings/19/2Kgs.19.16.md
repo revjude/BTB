@@ -1,8 +1,63 @@
+---
+title: 2 Kings 19:16
+type: Verse
+kjv: "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God."
+bsb: "Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to the words that Sennacherib has sent to defy the living God."
+hebrew: "הַטֵּ֨ה יְהוָ֤ה׀ אָזְנְךָ֙ וּֽשֲׁמָ֔ע פְּקַ֧ח יְהוָ֛ה עֵינֶ֖יךָ וּרְאֵ֑ה וּשְׁמַ֗ע אֵ֚ת דִּבְרֵ֣י סַנְחֵרִ֔יב אֲשֶׁ֣ר שְׁלָח֔וֹ לְחָרֵ֖ף אֱלֹהִ֥ים חָֽי׃"
+pericope: "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H5186]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H6491]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H5576]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H2778A]]"
+- "[[H0430G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:16**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.
 <small><sub>**BSB:**</sub></small>
 Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to the words that Sennacherib has sent to defy the living God.
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|הַטֵּ֨ה]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H0241G\|אָזְנְ]][[H9021\|ךָ֙]] [[H9002\|וּֽ]][[H8085G\|שֲׁמָ֔ע]] [[H6491\|פְּקַ֧ח]] [[H3068G\|יְהוָ֛ה]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H9002\|וּ]][[H7200G\|רְאֵ֑ה]] [[H9002\|וּ]][[H8085G\|שְׁמַ֗ע]] [[H0853\|אֵ֚ת]] [[H1697G\|דִּבְרֵ֣י]] [[H5576\|סַנְחֵרִ֔יב]] [[H0834A\|אֲשֶׁ֣ר]] [[H7971G\|שְׁלָח֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H2778A\|חָרֵ֖ף]] [[H0430G\|אֱלֹהִ֥ים]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.15|<< 2 Kings 19:15]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.17|2 Kings 19:17 >>]]</td></tr></table>
 

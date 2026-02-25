@@ -1,8 +1,60 @@
+---
+title: Genesis 43:19
+type: Verse
+kjv: "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,"
+bsb: "So they approached Joseph’s steward and spoke to him at the entrance to the house."
+hebrew: "וַֽיִּגְּשׁוּ֙ אֶל־ הָאִ֔ישׁ אֲשֶׁ֖ר עַל־ בֵּ֣ית יוֹסֵ֑ף וַיְדַבְּר֥וּ אֵלָ֖יו פֶּ֥תַח הַבָּֽיִת׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic STEWARD|STEWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H1696G]]"
+- "[[H9033]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:19**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,
 <small><sub>**BSB:**</sub></small>
 So they approached Joseph’s steward and spoke to him at the entrance to the house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5066G\|יִּגְּשׁוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H1696G\|יְדַבְּר֥וּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H6607\|פֶּ֥תַח]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]] • [[topic STEWARD|STEWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.18|<< Genesis 43:18]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.20|Genesis 43:20 >>]]</td></tr></table>
 

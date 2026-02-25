@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 29:16
+type: Verse
+kjv: "O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own."
+bsb: "O LORD our God, from Your hand comes all this abundance that we have provided to build You a house for Your holy Name, and all of it belongs to You."
+hebrew: "יְהוָ֣ה אֱלֹהֵ֔ינוּ כֹ֣ל הֶהָמ֤וֹן הַזֶּה֙ אֲשֶׁ֣ר הֲכִינֹ֔נוּ לִבְנֽוֹת־ לְךָ֥ בַ֖יִת לְשֵׁ֣ם קָדְשֶׁ֑ךָ מִיָּדְךָ֥ ה֖וּא וּלְךָ֥ הַכֹּֽל׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1995A]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H1004B]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 29:16**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD our God, all this store that we have prepared to build thee an house for thine holy name [cometh] of thine hand, and [is] all thine own.
 <small><sub>**BSB:**</sub></small>
 O LORD our God, from Your hand comes all this abundance that we have provided to build You a house for Your holy Name, and all of it belongs to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H3605\|כֹ֣ל]] [[H9009\|הֶ]][[H1995A\|הָמ֤וֹן]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3559A\|הֲכִינֹ֔נוּ]] [[H9005\|לִ]][[H1129\|בְנֽוֹת]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H1004B\|בַ֖יִת]] [[H9005\|לְ]][[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשֶׁ֑]][[H9021\|ךָ]] [[H9006\|מִ]][[H3027H\|יָּדְ]][[H9021\|ךָ֥]] [[H1931\|ה֖וּא]] [[H9002\|וּ]][[H9005\|לְ]][[H9031\|ךָ֥]] [[H9009\|הַ]][[H3605\|כֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.15|<< 1 Chronicles 29:15]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.17|1 Chronicles 29:17 >>]]</td></tr></table>
 

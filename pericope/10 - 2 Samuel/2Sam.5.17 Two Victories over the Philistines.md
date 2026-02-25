@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Two Victories over the Philistines
+type: Pericope
 pericope: "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 5
 book/chapter: "[[2Sam.5|2 Samuel 5]]"
-genre:
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 9
 verses:
 - "[[2Sam.5.17]]"
 - "[[2Sam.5.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Sam.5.25]]"
 ---
 
-[[2Sam.5|2 Samuel 5:17 - 2 Samuel 5:25]]
+<small>[[2Sam.5|2 Samuel 5:17-25]]</small>
 *Two Victories over the Philistines*
 
 [[2Sam.5.17|17]] But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard \[of it\], and went down to the hold.

@@ -3,7 +3,7 @@
 
 → Rites of [[Jer.34.5|Jer 34:5]]
 
-→ Soon after death [[Deut.21.23|De 21:23]]; [[Josh.8.29|Jos 8:29]]; [[John.19.38|Joh 19:38]]-[[John.19.42|42]];  [[Acts.5.9|Ac 5:9]],[[Acts.5.10|10]]
+→ Soon after death [[Deut.21.23|De 21:23]]; [[Josh.8.29|Jos 8:29]]; [[John.19.38|Joh 19:38-42]];  [[Acts.5.9|Ac 5:9]],[[Acts.5.10|10]]
 
 → With spices [[2Chr.16.14|2Ch 16:14]]; [[Mark.16.1|Mr 16:1]]; [[Luke.23.56|Lu 23:56]]
 
@@ -11,7 +11,7 @@
 
 → Attended by relatives and friends
 
-- Of Jacob [[Gen.50.5|Ge 50:5]]-[[Gen.50.9|9]]
+- Of Jacob [[Gen.50.5|Ge 50:5-9]]
 
 - Abner [[2Sam.3.31|2Sa 3:31]]
 

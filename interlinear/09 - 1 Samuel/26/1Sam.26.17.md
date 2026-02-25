@@ -1,8 +1,57 @@
+---
+title: 1 Samuel 26:17
+type: Verse
+kjv: "And Saul knew David’s voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king."
+bsb: "Then Saul recognized David’s voice and asked, “Is that your voice, David my son?” “It is my voice, my lord and king,” David said."
+hebrew: "וַיַּכֵּ֤ר שָׁאוּל֙ אֶת־ ק֣וֹל דָּוִ֔ד וַיֹּ֕אמֶר הֲקוֹלְךָ֥ זֶ֖ה בְּנִ֣י דָוִ֑ד וַיֹּ֣אמֶר דָּוִ֔ד קוֹלִ֖י אֲדֹנִ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[1Sam.26.13 David Reproves Abner|David Reproves Abner]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5234A]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963A]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H9021]]"
+- "[[H2088]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0113]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:17**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul knew David’s voice, and said, [Is] this thy voice, my son David? And David said, [It is] my voice, my lord, O king.
 <small><sub>**BSB:**</sub></small>
 Then Saul recognized David’s voice and asked, “Is that your voice, David my son?” “It is my voice, my lord and king,” David said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5234A\|יַּכֵּ֤ר]] [[H7586G\|שָׁאוּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֣וֹל]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9008\|הֲ]][[H6963A\|קוֹלְ]][[H9021\|ךָ֥]] [[H2088\|זֶ֖ה]] [[H1121A\|בְּנִ֣]][[H9020\|י]] [[H1732\|דָוִ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H6963A\|קוֹלִ֖]][[H9020\|י]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.16|<< 1 Samuel 26:16]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.18|1 Samuel 26:18 >>]]</td></tr></table>
 

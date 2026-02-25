@@ -1,8 +1,64 @@
+---
+title: Leviticus 3:6
+type: Verse
+kjv: "And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish."
+bsb: "If, however, one’s peace offering to the LORD is from the flock, he must present a male or female without blemish."
+hebrew: "וְאִם־ מִן־ הַצֹּ֧אן קָרְבָּנ֛וֹ לְזֶ֥בַח שְׁלָמִ֖ים לַיהוָ֑ה זָכָר֙ א֣וֹ נְקֵבָ֔ה תָּמִ֖ים יַקְרִיבֶֽנּוּ׃"
+pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H3068G]]"
+- "[[H2145]]"
+- "[[H0176A]]"
+- "[[H5347]]"
+- "[[H8549G]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 3:6**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if his offering for a sacrifice of peace offering unto the LORD [be] of the flock; male or female, he shall offer it without blemish.
 <small><sub>**BSB:**</sub></small>
 If, however, one’s peace offering to the LORD is from the flock, he must present a male or female without blemish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֧אן]] [[H7133A\|קָרְבָּנ֛]][[H9023\|וֹ]] [[H9005\|לְ]][[H2077\|זֶ֥בַח]] [[H8002\|שְׁלָמִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H2145\|זָכָר֙]] [[H0176A\|א֣וֹ]] [[H5347\|נְקֵבָ֔ה]] [[H8549G\|תָּמִ֖ים]] [[H7126H\|יַקְרִיבֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEACE OFFERINGS|PEACE OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.5|<< Leviticus 3:5]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.7|Leviticus 3:7 >>]]</td></tr></table>
 

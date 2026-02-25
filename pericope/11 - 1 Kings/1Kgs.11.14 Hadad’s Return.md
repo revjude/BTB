@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hadad’s Return
+type: Pericope
 pericope: "[[1Kgs.11.14 Hadad’s Return|Hadad’s Return]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 11
 book/chapter: "[[1Kgs.11|1 Kings 11]]"
-genre:
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.11.14]]"
 - "[[1Kgs.11.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.11.22]]"
 ---
 
-[[1Kgs.11|1 Kings 11:14 - 1 Kings 11:22]]
+<small>[[1Kgs.11|1 Kings 11:14-22]]</small>
 *Hadad’s Return*
 
 [[1Kgs.11.14|14]] And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he \[was\] of the king’s seed in Edom.

@@ -1,10 +1,68 @@
+---
+title: 2 Thessalonians 3:6
+type: Verse
+kjv: "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us."
+bsb: "Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from any brother who leads an undisciplined life that is not in keeping with the tradition you received from us."
+greek: "Παραγγέλλομεν δὲ ὑμῖν, ἀδελφοί, ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, στέλλεσθαι ὑμᾶς ἀπὸ παντὸς ἀδελφοῦ ἀτάκτως περιπατοῦντος καὶ μὴ κατὰ τὴν παράδοσιν ἣν παρελάβοσαν παρ᾽ ἡμῶν."
+pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3853]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4724]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G0814]]"
+- "[[G4043]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2596]]"
+- "[[G3862]]"
+- "[[G3739]]"
+- "[[G3880]]"
+- "[[G3844]]"
+texts:
+- NKO
+- N(K)(O)
+---
+
 **2 Thessalonians 3:6**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
 <small><sub>**BSB:**</sub></small>
 Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from any brother who leads an undisciplined life that is not in keeping with the tradition you received from us.
-<small><sub>**Literal:**</sub></small>
-We command now you, brothers, in [the] name of the Lord of us Jesus Christ, are to withdraw you from every brother idly walking and not according to the tradition that they received from us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.5|<< 2 Thessalonians 3:5]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.7|2 Thessalonians 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3853\|Παραγγέλλομεν]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν,]]  [[G0080\|ἀδελφοί,]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G4724\|στέλλεσθαι]]  [[G4771\|ὑμᾶς]]  [[G0575\|ἀπὸ]]  [[G3956\|παντὸς]]  [[G0080\|ἀδελφοῦ]]  [[G0814\|ἀτάκτως]]  [[G4043\|περιπατοῦντος]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G3739\|ἣν]]  [[G3880\|παρελάβοσαν]]  [[G3844\|παρ᾽]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.5|<< 2 Thessalonians 3:5]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.7|2 Thessalonians 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,7 +1,7 @@
 
 **DOVE, TURTLE**
 
-→ Sent out from the ark by Noah [[Gen.8.8|Ge 8:8]]-[[Gen.8.11|11]]
+→ Sent out from the ark by Noah [[Gen.8.8|Ge 8:8-11]]
 
 → Domesticated [[Isa.60.8|Isa 60:8]]
 
@@ -19,9 +19,9 @@
 
 - Of lepers [[Lev.14.22|Le 14:22]]
 
-→ Burnt offering of [[Lev.1.14|Le 1:14]]-[[Lev.1.17|17]]
+→ Burnt offering of [[Lev.1.14|Le 1:14-17]]
 
-→ Trespass offering of, for the impecunious [[Lev.5.7|Le 5:7]]-[[Lev.5.10|10]];  [[Lev.12.8|12:8]]
+→ Trespass offering of, for the impecunious [[Lev.5.7|Le 5:7-10]];  [[Lev.12.8|12:8]]
 
 → Sin offering, for those who touched any dead body [[Num.6.10|Nu  6:10]]
 

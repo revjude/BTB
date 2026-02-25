@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 10:12
+type: Verse
+kjv: "Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good."
+bsb: "Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”"
+hebrew: "חֲזַ֤ק וְנִתְחַזַּק֙ בְּעַד־ עַמֵּ֔נוּ וּבְעַ֖ד עָרֵ֣י אֱלֹהֵ֑ינוּ וַֽיהוָ֔ה יַעֲשֶׂ֥ה הַטּ֖וֹב בְּעֵינָֽיו׃"
+pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H1157]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9025]]"
+- "[[H5892B]]"
+- "[[H0430G]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:12**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good.
 <small><sub>**BSB:**</sub></small>
 Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|חֲזַ֤ק]] [[H9002\|וְ]][[H2388G\|נִתְחַזַּק֙]] [[H1157\|בְּעַד]][[H9014\|־]] [[H5971A\|עַמֵּ֔]][[H9025\|נוּ]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H5892B\|עָרֵ֣י]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9002\|וַֽ]][[H3068G\|יהוָ֔ה]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic JOAB|JOAB]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.11|<< 2 Samuel 10:11]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.13|2 Samuel 10:13 >>]]</td></tr></table>
 

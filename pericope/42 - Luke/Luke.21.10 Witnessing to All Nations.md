@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Witnessing to All Nations
+type: Pericope
 pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 21
 book/chapter: "[[Luke.21|Luke 21]]"
-genre:
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.21.10]]"
 - "[[Luke.21.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.21.19]]"
 ---
 
-[[Luke.21|Luke 21:10 - Luke 21:19]]
+<small>[[Luke.21|Luke 21:10-19]]</small>
 *Witnessing to All Nations*
 
 [[Luke.21.10|10]] Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:

@@ -1,10 +1,48 @@
+---
+title: Matthew 4:14
+type: Verse
+kjv: "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+bsb: "to fulfill what was spoken through the prophet Isaiah:"
+greek: "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος·"
+pericope: "[[Matt.4.12 Jesus Begins His Ministry|Jesus Begins His Ministry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G2268]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Matthew 4:14**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 to fulfill what was spoken through the prophet Isaiah:
-<small><sub>**Literal:**</sub></small>
-that it may be fulfilled that having been spoken through Isaiah the prophet saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.13|<< Matthew 4:13]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.15|Matthew 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G2268\|Ἠσαΐου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.13|<< Matthew 4:13]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.15|Matthew 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

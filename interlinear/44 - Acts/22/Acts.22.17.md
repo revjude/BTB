@@ -1,10 +1,54 @@
+---
+title: Acts 22:17
+type: Verse
+kjv: "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;"
+bsb: "Later, when I had returned to Jerusalem and was praying at the temple, I fell into a trance"
+greek: "Ἐγένετο δέ μοι ὑποστρέψαντι εἰς Ἰερουσαλὴμ καὶ προσευχομένου μου ἐν τῷ ἱερῷ γενέσθαι με ἐν ἐκστάσει"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TRANCE|TRANCE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G1611]]"
+texts:
+- NKO
+---
+
 **Acts 22:17**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;
 <small><sub>**BSB:**</sub></small>
 Later, when I had returned to Jerusalem and was praying at the temple, I fell into a trance
-<small><sub>**Literal:**</sub></small>
-It happened then to me having returned to Jerusalem and praying by me in the temple falling I into a trance<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.16|<< Acts 22:16]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.18|Acts 22:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δέ]]  [[G3165\|μοι]]  [[G5290\|ὑποστρέψαντι]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G4336\|προσευχομένου]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G1096\|γενέσθαι]]  [[G3165\|με]]  [[G1722\|ἐν]]  [[G1611\|ἐκστάσει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic TEMPLE|TEMPLE]] • [[topic TRANCE|TRANCE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.16|<< Acts 22:16]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.18|Acts 22:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

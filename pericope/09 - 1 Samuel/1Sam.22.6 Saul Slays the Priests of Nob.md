@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Slays the Priests of Nob
+type: Pericope
 pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 22
 book/chapter: "[[1Sam.22|1 Samuel 22]]"
-genre:
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 18
 verses:
 - "[[1Sam.22.6]]"
 - "[[1Sam.22.7]]"
@@ -36,7 +43,7 @@ verses:
 - "[[1Sam.22.23]]"
 ---
 
-[[1Sam.22|1 Samuel 22:6 - 1 Samuel 22:23]]
+<small>[[1Sam.22|1 Samuel 22:6-23]]</small>
 *Saul Slays the Priests of Nob*
 
 [[1Sam.22.6|6]] When Saul heard that David was discovered, and the men that \[were\] with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants \[were\] standing about him;)

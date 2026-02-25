@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Rebuked at Bochim
+type: Pericope
 pericope: "[[Judg.2.1 Israel Rebuked at Bochim|Israel Rebuked at Bochim]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 2
 book/chapter: "[[Judg.2|Judges 2]]"
-genre:
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 5
 verses:
 - "[[Judg.2.1]]"
 - "[[Judg.2.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Judg.2.5]]"
 ---
 
-[[Judg.2|Judges 2:1 - Judges 2:5]]
+<small>[[Judg.2|Judges 2:1-5]]</small>
 *Israel Rebuked at Bochim*
 
 [[Judg.2.1|1]] And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.

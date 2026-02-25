@@ -1,8 +1,68 @@
+---
+title: Joshua 18:12
+type: Verse
+kjv: "And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Bethaven."
+bsb: "On the north side their border began at the Jordan, went up past the northern slope of Jericho, headed west through the hill country, and came out at the wilderness of Beth-aven."
+hebrew: "וַיְהִ֨י לָהֶ֧ם הַגְּב֛וּל לִפְאַ֥ת צָפ֖וֹנָה מִן־ הַיַּרְדֵּ֑ן וְעָלָ֣ה הַגְּבוּל֩ אֶל־ כֶּ֨תֶף יְרִיח֜וֹ מִצָּפ֗וֹן וְעָלָ֤ה בָהָר֙ יָ֔מָּה וְהָיוּ֙ תֹּֽצְאֹתָ֔יו מִדְבַּ֖רָה בֵּ֥ית אָֽוֶן׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic BETH-AVEN|BETH-AVEN]]"
+- "[[topic JERICHO|JERICHO]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H6285]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H3802]]"
+- "[[H3405G]]"
+- "[[H9006]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H3220H]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H4057B]]"
+- "[[H1007]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 18:12**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Bethaven.
 <small><sub>**BSB:**</sub></small>
 On the north side their border began at the Jordan, went up past the northern slope of Jericho, headed west through the hill country, and came out at the wilderness of Beth-aven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9005\|לָ]][[H9038\|הֶ֧ם]] [[H9009\|הַ]][[H1366G\|גְּב֛וּל]] [[H9005\|לִ]][[H6285\|פְאַ֥ת]] [[H6828G\|צָפ֖וֹנָ]][[H9011\|ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9001\|וְ]][[H5927G\|עָלָ֣ה]] [[H9009\|הַ]][[H1366G\|גְּבוּל֩]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כֶּ֨תֶף]] [[H3405G\|יְרִיח֜וֹ]] [[H9006\|מִ]][[H6828G\|צָּפ֗וֹן]] [[H9001\|וְ]][[H5927G\|עָלָ֤ה]] [[H9003\|בָ]][[H2022H\|הָר֙]] [[H3220H\|יָ֔מָּ]][[H9011\|ה]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H8444\|תֹּֽצְאֹתָ֔י]][[H9023\|ו]] [[H4057B\|מִדְבַּ֖רָ]][[H9011\|ה]] [[H1007\|בֵּ֥ית]] [[H1007\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic BETH-AVEN|BETH-AVEN]] • [[topic JERICHO|JERICHO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.11|<< Joshua 18:11]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.13|Joshua 18:13 >>]]</td></tr></table>
 
@@ -31,7 +91,7 @@ On the north side their border began at the Jordan, went up past the northern sl
 | Aven  |**<big>&#8207;[[H1007\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.ven<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.11|<< Joshua 18:11]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.13|Joshua 18:13 >>]]</td></tr></table>
 
-[^1]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
-[^2]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^1]: and it is  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it is  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻה֙</big></span>**
 

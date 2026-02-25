@@ -1,8 +1,58 @@
+---
+title: Genesis 10:32
+type: Verse
+kjv: "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+bsb: "All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood."
+hebrew: "אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־ נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל׃ פ"
+pericope: "[[Gen.10.21 The Semites|The Semites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6504]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0310A]]"
+- "[[H3999]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Genesis 10:32**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 <small><sub>**BSB:**</sub></small>
 All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H4940\|מִשְׁפְּחֹ֧ת]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H5146\|נֹ֛חַ]] [[H9005\|לְ]][[H8435\|תוֹלְדֹתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H1471A\|גוֹיֵ]][[H9028\|הֶ֑ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H0428\|אֵ֜לֶּה]] [[H6504\|נִפְרְד֧וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֛ם]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H0310A\|אַחַ֥ר]] [[H9009\|הַ]][[H3999\|מַּבּֽוּל]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.31|<< Genesis 10:31]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.1|Genesis 11:1 >>]]</td></tr></table>
 
@@ -19,7 +69,7 @@ All these are the clans of Noah’s sons, according to their generations and nat
 | the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the earth  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחַ֥ר]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the flood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3999\|מַּבּֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Bul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the flood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3999\|מַּבּֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Bul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.31|<< Genesis 10:31]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.1|Genesis 11:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 10:12
+type: Verse
+kjv: "So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day."
+bsb: "After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”"
+hebrew: "וַיָּבֹ֨א יָרָבְעָ֧ם וְכָל־ הָעָ֛ם אֶל־ רְחַבְעָ֖ם בַּיּ֣וֹם הַשְּׁלִשִׁ֑י כַּאֲשֶׁ֨ר דִּבֶּ֤ר הַמֶּ֙לֶךְ֙ לֵאמֹ֔ר שׁ֥וּבוּ אֵלַ֖י בַּיּ֥וֹם הַשְּׁלִשִֽׁי׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H7346]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7992]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7725J]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:12**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day.
 <small><sub>**BSB:**</sub></small>
 After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H3379G\|יָרָבְעָ֧ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֖ם]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁ֑י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֤ר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7725J\|שׁ֥וּבוּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִשִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.11|<< 2 Chronicles 10:11]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.13|2 Chronicles 10:13 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Leviticus 7:4
+type: Verse
+kjv: "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it shall he take away:"
+bsb: "both kidneys with the fat on them near the loins, and the lobe of the liver, which is to be removed with the kidneys."
+hebrew: "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־ הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן אֲשֶׁ֖ר עַל־ הַכְּסָלִ֑ים וְאֶת־ הַיֹּתֶ֙רֶת֙ עַל־ הַכָּבֵ֔ד עַל־ הַכְּלָיֹ֖ת יְסִירֶֽנָּה׃"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CAUL|CAUL]]"
+- "[[topic FAT|FAT]]"
+- "[[topic KIDNEY|KIDNEY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H3629]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9039]]"
+- "[[H3689]]"
+- "[[H3508]]"
+- "[[H3516]]"
+- "[[H5493G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:4**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the two kidneys, and the fat that [is] on them, which [is] by the flanks, and the caul [that is] above the liver, with the kidneys, it shall he take away:
 <small><sub>**BSB:**</sub></small>
 both kidneys with the fat on them near the loins, and the lobe of the liver, which is to be removed with the kidneys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הַ]][[H3629\|כְּלָיֹ֔ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֙לֶב֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עֲלֵי]][[H9039\|הֶ֔ן]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3689\|כְּסָלִ֑ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3508\|יֹּתֶ֙רֶת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3516\|כָּבֵ֔ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3629\|כְּלָיֹ֖ת]] [[H5493G\|יְסִירֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAUL|CAUL]] • [[topic FAT|FAT]] • [[topic KIDNEY|KIDNEY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.3|<< Leviticus 7:3]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.5|Leviticus 7:5 >>]]</td></tr></table>
 

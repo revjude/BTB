@@ -1,8 +1,63 @@
+---
+title: Hosea 9:12
+type: Verse
+kjv: "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!"
+bsb: "Even if they raise their children, I will bereave them of each one. Yes, woe be to them when I turn away from them!"
+hebrew: "כִּ֤י אִם־ יְגַדְּלוּ֙ אֶת־ בְּנֵיהֶ֔ם וְשִׁכַּלְתִּ֖ים מֵֽאָדָ֑ם כִּֽי־ גַם־ א֥וֹי לָהֶ֖ם בְּשׂוּרִ֥י מֵהֶֽם׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H1431]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7921A]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H0188]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H5493H]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:12**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though they bring up their children, yet will I bereave them, [that there shall] not [be] a man [left]: yea, woe also to them when I depart from them!
 <small><sub>**BSB:**</sub></small>
 Even if they raise their children, I will bereave them of each one. Yes, woe be to them when I turn away from them!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H1431\|יְגַדְּלוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H7921A\|שִׁכַּלְתִּ֖י]][[H9038\|ם]] [[H9006\|מֵֽ]][[H0120G\|אָדָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H0188\|א֥וֹי]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H5493H\|שׂוּרִ֥]][[H9040\|י]] [[H9006\|מֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.11|<< Hosea 9:11]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.13|Hosea 9:13 >>]]</td></tr></table>
 

@@ -1,8 +1,79 @@
+---
+title: Genesis 48:15
+type: Verse
+kjv: "And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,"
+bsb: "Then he blessed Joseph and said: “May the God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life to this day,"
+hebrew: "וַיְבָ֥רֶךְ אֶת־ יוֹסֵ֖ף וַיֹּאמַ֑ר הָֽאֱלֹהִ֡ים אֲשֶׁר֩ הִתְהַלְּכ֨וּ אֲבֹתַ֤י לְפָנָיו֙ אַבְרָהָ֣ם וְיִצְחָ֔ק הָֽאֱלֹהִים֙ הָרֹעֶ֣ה אֹתִ֔י מֵעוֹדִ֖י עַד־ הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic VENERATION|VENERATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H1980I]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0085]]"
+- "[[H9002]]"
+- "[[H3327]]"
+- "[[H7462B]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H5750]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:15**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,
 <small><sub>**BSB:**</sub></small>
 Then he blessed Joseph and said: “May the God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life to this day,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1288\|יְבָ֥רֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֡ים]] [[H0834A\|אֲשֶׁר֩]] [[H1980I\|הִתְהַלְּכ֨וּ]] [[H0001G\|אֲבֹתַ֤]][[H9020\|י]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H0085\|אַבְרָהָ֣ם]] [[H9002\|וְ]][[H3327\|יִצְחָ֔ק]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9009\|הָ]][[H7462B\|רֹעֶ֣ה]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H9006\|מֵ]][[H5750\|עוֹדִ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic EPHRAIM|EPHRAIM]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JACOB|JACOB]] • [[topic MANASSEH|MANASSEH]] • [[topic PARENTS|PARENTS]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic VENERATION|VENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.14|<< Genesis 48:14]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.16|Genesis 48:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

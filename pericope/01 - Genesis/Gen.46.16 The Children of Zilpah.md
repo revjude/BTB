@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Children of Zilpah
+type: Pericope
 pericope: "[[Gen.46.16 The Children of Zilpah|The Children of Zilpah]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,13 +24,14 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 3
 verses:
 - "[[Gen.46.16]]"
 - "[[Gen.46.17]]"
 - "[[Gen.46.18]]"
 ---
 
-[[Gen.46|Genesis 46:16 - Genesis 46:18]]
+<small>[[Gen.46|Genesis 46:16-18]]</small>
 *The Children of Zilpah*
 
 [[Gen.46.16|16]] And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.

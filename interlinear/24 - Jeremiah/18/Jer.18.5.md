@@ -1,8 +1,52 @@
+---
+title: Jeremiah 18:5
+type: Verse
+kjv: "Then the word of the LORD came to me, saying,"
+bsb: "Then the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֥י דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֽוֹר׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:5**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the word of the LORD came to me, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.4|<< Jeremiah 18:4]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.6|Jeremiah 18:6 >>]]</td></tr></table>
 

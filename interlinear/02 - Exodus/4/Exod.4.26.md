@@ -1,8 +1,60 @@
+---
+title: Exodus 4:26
+type: Verse
+kjv: "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
+bsb: "So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)"
+hebrew: "וַיִּ֖רֶף מִמֶּ֑נּוּ אָ֚ז אָֽמְרָ֔ה חֲתַ֥ן דָּמִ֖ים לַמּוּלֹֽת׃ פ"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7503]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0227A]]"
+- "[[H0559]]"
+- "[[H2860]]"
+- "[[H1818]]"
+- "[[H9005]]"
+- "[[H4139]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 4:26**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he let him go: then she said, A bloody husband [thou art], because of the circumcision.
 <small><sub>**BSB:**</sub></small>
 So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7503\|יִּ֖רֶף]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H0227A\|אָ֚ז]] [[H0559\|אָֽמְרָ֔ה]] [[H2860\|חֲתַ֥ן]] [[H1818\|דָּמִ֖ים]] [[H9005\|לַ]][[H4139\|מּוּלֹֽת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic MOSES|MOSES]] • [[topic WOMEN|WOMEN]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.25|<< Exodus 4:25]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.27|Exodus 4:27 >>]]</td></tr></table>
 
@@ -14,7 +66,7 @@ So the LORD let him alone. (When she said, “bridegroom of blood,” she was re
 | she said  |**<big>&#8207;[[H0559\|אָֽמְרָ֔ה]]&#8207; </big>**| 'a.me.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a bridegroom of  |**<big>&#8207;[[H2860\|חֲתַ֥ן]]&#8207; </big>**| cha.Tan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood\<s>  |**<big>&#8207;[[H1818\|דָּמִ֖ים]]&#8207; </big>**| da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to the circumcision  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4139\|מּוּלֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mu.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the circumcision  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4139\|מּוּלֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mu.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.25|<< Exodus 4:25]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.27|Exodus 4:27 >>]]</td></tr></table>
 
 

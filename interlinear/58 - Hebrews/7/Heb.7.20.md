@@ -1,10 +1,55 @@
+---
+title: Hebrews 7:20
+type: Verse
+kjv: "And inasmuch as not without an oath he was made priest:"
+bsb: "And none of this happened without an oath. For others became priests without an oath,"
+greek: "καὶ καθ᾽ ὅσον οὐ χωρὶς ὁρκωμοσίας. οἱ μὲν γὰρ χωρὶς ὁρκωμοσίας εἰσὶν ἱερεῖς γεγονότες,"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3745]]"
+- "[[G3756]]"
+- "[[G5565]]"
+- "[[G3728]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2409]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:20**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And inasmuch as not without an oath [he was made priest]:
 <small><sub>**BSB:**</sub></small>
 And none of this happened without an oath. For others became priests without an oath,
-<small><sub>**Literal:**</sub></small>
-And to as much as not apart from an oath. [21] those ones truly for without an oath are priests having become,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.19|<< Hebrews 7:19]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.21|Hebrews 7:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2596\|καθ᾽]]  [[G3745\|ὅσον]]  [[G3756\|οὐ]]  [[G5565\|χωρὶς]]  [[G3728\|ὁρκωμοσίας.]]  [[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G5565\|χωρὶς]]  [[G3728\|ὁρκωμοσίας]]  [[G1510\|εἰσὶν]]  [[G2409\|ἱερεῖς]]  [[G1096\|γεγονότες,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.19|<< Hebrews 7:19]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.21|Hebrews 7:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

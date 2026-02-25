@@ -1,8 +1,70 @@
+---
+title: Numbers 16:19
+type: Verse
+kjv: "And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation."
+bsb: "When Korah had gathered his whole assembly against them at the entrance to the Tent of Meeting, the glory of the LORD appeared to the whole congregation."
+hebrew: "וַיַּקְהֵ֨ל עֲלֵיהֶ֥ם קֹ֙רַח֙ אֶת־ כָּל־ הָ֣עֵדָ֔ה אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וַיֵּרָ֥א כְבוֹד־ יְהוָ֖ה אֶל־ כָּל־ הָעֵדָֽה׃ פ"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7141I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H7200G]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 16:19**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation.
 <small><sub>**BSB:**</sub></small>
 When Korah had gathered his whole assembly against them at the entrance to the Tent of Meeting, the glory of the LORD appeared to the whole congregation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יַּקְהֵ֨ל]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֥ם]] [[H7141I\|קֹ֙רַח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5712\|עֵדָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H7200G\|יֵּרָ֥א]] [[H3519\|כְבוֹד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CLOUD|CLOUD]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.18|<< Numbers 16:18]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.20|Numbers 16:20 >>]]</td></tr></table>
 
@@ -23,7 +85,7 @@ When Korah had gathered his whole assembly against them at the entrance to the T
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the congregation  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5712\|עֵדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the congregation  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5712\|עֵדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.18|<< Numbers 16:18]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.20|Numbers 16:20 >>]]</td></tr></table>
 
 

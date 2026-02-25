@@ -1,8 +1,50 @@
+---
+title: Isaiah 40:30
+type: Verse
+kjv: "Even the youths shall faint and be weary, and the young men shall utterly fall:"
+bsb: "Even youths grow tired and weary, and young men stumble and fall."
+hebrew: "וְיִֽעֲפ֥וּ נְעָרִ֖ים וְיִגָ֑עוּ וּבַחוּרִ֖ים כָּשׁ֥וֹל יִכָּשֵֽׁלוּ׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3286]]"
+- "[[H5288]]"
+- "[[H3021]]"
+- "[[H0970]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:30**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even the youths shall faint and be weary, and the young men shall utterly fall:
 <small><sub>**BSB:**</sub></small>
 Even youths grow tired and weary, and young men stumble and fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3286\|יִֽעֲפ֥וּ]] [[H5288\|נְעָרִ֖ים]] [[H9002\|וְ]][[H3021\|יִגָ֑עוּ]] [[H9002\|וּ]][[H0970\|בַחוּרִ֖ים]] [[H3782\|כָּשׁ֥וֹל]] [[H3782\|יִכָּשֵֽׁלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.29|<< Isaiah 40:29]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.31|Isaiah 40:31 >>]]</td></tr></table>
 

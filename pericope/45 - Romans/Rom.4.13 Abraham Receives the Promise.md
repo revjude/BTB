@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abraham Receives the Promise
+type: Pericope
 pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Romans
 chapter: 4
 book/chapter: "[[Rom.4|Romans 4]]"
-genre:
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Rom.4.13]]"
 - "[[Rom.4.14]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Rom.4.25]]"
 ---
 
-[[Rom.4|Romans 4:13 - Romans 4:25]]
+<small>[[Rom.4|Romans 4:13-25]]</small>
 *Abraham Receives the Promise*
 
 [[Rom.4.13|13]] For the promise, that he should be the heir of the world, \[was\] not to Abraham, or to his seed, through the law, but through the righteousness of faith.

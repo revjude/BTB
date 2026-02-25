@@ -1,8 +1,56 @@
+---
+title: Psalm 31:21
+type: Verse
+kjv: "Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city."
+bsb: "Blessed be the LORD, for He has shown me His loving devotion in a city under siege."
+hebrew: "בָּר֥וּךְ יְהוָ֑ה כִּ֥י הִפְלִ֘יא חַסְדּ֥וֹ לִ֝֗י בְּעִ֣יר מָצֽוֹר׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H6381]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H4692]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:21**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD: for he hath shewed me his marvellous kindness in a strong city.
 <small><sub>**BSB:**</sub></small>
 Blessed be the LORD, for He has shown me His loving devotion in a city under siege.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּר֥וּךְ]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֥י]] [[H6381\|הִפְלִ֘יא]] [[H2617A\|חַסְדּ֥]][[H9023\|וֹ]] [[H9005\|לִ֝֗]][[H9030\|י]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H4692\|מָצֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.20|<< Psalms 31:20]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.22|Psalms 31:22 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Proverbs 14:23
+type: Verse
+kjv: "In all labour there is profit: but the talk of the lips tendeth only to penury."
+bsb: "There is profit in all labor, but mere talk leads only to poverty."
+hebrew: "בְּכָל־ עֶ֭צֶב יִהְיֶ֣ה מוֹתָ֑ר וּדְבַר־ שְׂ֝פָתַ֗יִם אַךְ־ לְמַחְסֽוֹר׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6089A]]"
+- "[[H1961]]"
+- "[[H4195]]"
+- "[[H9002]]"
+- "[[H1697M]]"
+- "[[H8193H]]"
+- "[[H0389]]"
+- "[[H9005]]"
+- "[[H4270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:23**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all labour there is profit: but the talk of the lips [tendeth] only to penury.
 <small><sub>**BSB:**</sub></small>
 There is profit in all labor, but mere talk leads only to poverty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6089A\|עֶ֭צֶב]] [[H1961\|יִהְיֶ֣ה]] [[H4195\|מוֹתָ֑ר]] [[H9002\|וּ]][[H1697M\|דְבַר]][[H9014\|־]] [[H8193H\|שְׂ֝פָתַ֗יִם]] [[H0389\|אַךְ]][[H9014\|־]] [[H9005\|לְ]][[H4270\|מַחְסֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic INDUSTRY|INDUSTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.22|<< Proverbs 14:22]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.24|Proverbs 14:24 >>]]</td></tr></table>
 

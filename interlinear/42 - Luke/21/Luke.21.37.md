@@ -1,10 +1,56 @@
+---
+title: Luke 21:37
+type: Verse
+kjv: "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives."
+bsb: "Every day Jesus taught at the temple, but every evening He went out to spend the night on the Mount of Olives."
+greek: "Ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων. τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν."
+pericope: "[[Luke.21.34 Be Watchful for the Day|Be Watchful for the Day]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G1321]]"
+- "[[G3571]]"
+- "[[G1831]]"
+- "[[G0835]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G2564G]]"
+- "[[G1638]]"
+texts:
+- NKO
+---
+
 **Luke 21:37**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called [the mount] of Olives.
 <small><sub>**BSB:**</sub></small>
 Every day Jesus taught at the temple, but every evening He went out to spend the night on the Mount of Olives.
-<small><sub>**Literal:**</sub></small>
-He was now during the day in the temple teaching. <the> and the evening going out He was lodging on the mount which is being called Olivet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.36|<< Luke 21:36]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.38|Luke 21:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δὲ]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G1321\|διδάσκων.]]  [[G3588\|τὰς]]  [[G1161\|δὲ]]  [[G3571\|νύκτας]]  [[G1831\|ἐξερχόμενος]]  [[G0835\|ηὐλίζετο]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G3588\|τὸ]]  [[G2564G\|καλούμενον]]  [[G1638\|Ἐλαιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.36|<< Luke 21:36]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.38|Luke 21:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

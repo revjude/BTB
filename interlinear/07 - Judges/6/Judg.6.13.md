@@ -1,8 +1,85 @@
+---
+title: Judges 6:13
+type: Verse
+kjv: "And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where be all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites."
+bsb: "“Please, my Lord,” Gideon replied, “if the LORD is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the LORD brought us up out of Egypt?’ But now the LORD has forsaken us and delivered us into the hand of Midian.”"
+hebrew: "וַיֹּ֨אמֶר אֵלָ֤יו גִּדְעוֹן֙ בִּ֣י אֲדֹנִ֔י וְיֵ֤שׁ יְהוָה֙ עִמָּ֔נוּ וְלָ֥מָּה מְצָאַ֖תְנוּ כָּל־ זֹ֑את וְאַיֵּ֣ה כָֽל־ נִפְלְאֹתָ֡יו אֲשֶׁר֩ סִפְּרוּ־ לָ֨נוּ אֲבוֹתֵ֜ינוּ לֵאמֹ֗ר הֲלֹ֤א מִמִּצְרַ֙יִם֙ הֶעֱלָ֣נוּ יְהוָ֔ה וְעַתָּה֙ נְטָשָׁ֣נוּ יְהוָ֔ה וַֽיִּתְּנֵ֖נוּ בְּכַף־ מִדְיָֽן׃"
+pericope: "[[Judg.6.11 The Call of Gideon|The Call of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1439]]"
+- "[[H0994]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4672]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H0346]]"
+- "[[H6381]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5608A]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H5927H]]"
+- "[[H6258]]"
+- "[[H5203]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H4080H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:13**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where [be] all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites.
 <small><sub>**BSB:**</sub></small>
 “Please, my Lord,” Gideon replied, “if the LORD is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the LORD brought us up out of Egypt?’ But now the LORD has forsaken us and delivered us into the hand of Midian.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֤י]][[H9033\|ו]] [[H1439\|גִּדְעוֹן֙]] [[H0994\|בִּ֣י]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3426\|יֵ֤שׁ]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמָּ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H9005\|לָ֥]][[H4100\|מָּה]] [[H4672\|מְצָאַ֖תְ]][[H9035\|נוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וְ]][[H0346\|אַיֵּ֣ה]] [[H3605\|כָֽל]][[H9014\|־]] [[H6381\|נִפְלְאֹתָ֡י]][[H9023\|ו]] [[H0834A\|אֲשֶׁר֩]] [[H5608A\|סִפְּרוּ]][[H9014\|־]] [[H9005\|לָ֨]][[H9035\|נוּ]] [[H0001G\|אֲבוֹתֵ֜י]][[H9025\|נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H5927H\|הֶעֱלָ֣]][[H9035\|נוּ]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H5203\|נְטָשָׁ֣]][[H9035\|נוּ]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ֖]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3709G\|כַף]][[H9014\|־]] [[H4080H\|מִדְיָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic DOUBTING|DOUBTING]] • [[topic EXCUSES|EXCUSES]] • [[topic GOD|GOD]] • [[topic JUDGE|JUDGE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.12|<< Judges 6:12]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.14|Judges 6:14 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Genesis 44:31
+type: Verse
+kjv: "It shall come to pass, when he seeth that the lad is not with us, that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave."
+bsb: "sees that the boy is not with us, he will die. Then your servants will have brought the gray hair of your servant our father down to Sheol in sorrow."
+hebrew: "וְהָיָ֗ה כִּרְאוֹת֛וֹ כִּי־ אֵ֥ין הַנַּ֖עַר וָמֵ֑ת וְהוֹרִ֨ידוּ עֲבָדֶ֜יךָ אֶת־ שֵׂיבַ֨ת עַבְדְּךָ֥ אָבִ֛ינוּ בְּיָג֖וֹן שְׁאֹֽלָה׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H4191]]"
+- "[[H3381]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H7872]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3015]]"
+- "[[H7585]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:31**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall come to pass, when he seeth that the lad [is] not [with us], that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.
 <small><sub>**BSB:**</sub></small>
 sees that the boy is not with us, he will die. Then your servants will have brought the gray hair of your servant our father down to Sheol in sorrow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9004\|כִּ]][[H7200G\|רְאוֹת֛]][[H9043\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H9001\|וָ]][[H4191\|מֵ֑ת]] [[H9001\|וְ]][[H3381\|הוֹרִ֨ידוּ]] [[H5650\|עֲבָדֶ֜י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H7872\|שֵׂיבַ֨ת]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H0001G\|אָבִ֛י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3015\|יָג֖וֹן]] [[H7585\|שְׁאֹֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HELL|HELL]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.30|<< Genesis 44:30]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.32|Genesis 44:32 >>]]</td></tr></table>
 

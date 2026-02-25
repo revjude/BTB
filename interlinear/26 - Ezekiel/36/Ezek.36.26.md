@@ -1,8 +1,67 @@
+---
+title: Ezekiel 36:26
+type: Verse
+kjv: "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh."
+bsb: "I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh."
+hebrew: "וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת־ לֵ֤ב הָאֶ֙בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3820A]]"
+- "[[H2319H]]"
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:26**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
 <small><sub>**BSB:**</sub></small>
 I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H3820A\|לֵ֣ב]] [[H2319H\|חָדָ֔שׁ]] [[H9002\|וְ]][[H7307G\|ר֥וּחַ]] [[H2319H\|חֲדָשָׁ֖ה]] [[H5414H\|אֶתֵּ֣ן]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H5493G\|הֲסִ֨רֹתִ֜י]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֤ב]] [[H9009\|הָ]][[H0068G\|אֶ֙בֶן֙]] [[H9006\|מִ]][[H1320\|בְּשַׂרְ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H3820A\|לֵ֥ב]] [[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REGENERATION|REGENERATION]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.25|<< Ezekiel 36:25]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.27|Ezekiel 36:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

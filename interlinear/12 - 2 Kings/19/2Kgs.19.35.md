@@ -1,8 +1,75 @@
+---
+title: 2 Kings 19:35
+type: Verse
+kjv: "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+bsb: "And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!"
+hebrew: "וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א׀ מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים׃"
+pericope: "[[2Kgs.19.35 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3318G]]"
+- "[[H9015]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H4264]]"
+- "[[H0804G]]"
+- "[[H3967]]"
+- "[[H8084]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H7925]]"
+- "[[H1242]]"
+- "[[H2009]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H6297]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:35**<big><big>[[2Kgs.19.35 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.
 <small><sub>**BSB:**</sub></small>
 And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֮]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|הוּא֒]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]][[H9015\|׀]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H9003\|בְּ]][[H4264\|מַחֲנֵ֣ה]] [[H0804G\|אַשּׁ֔וּר]] [[H3967\|מֵאָ֛ה]] [[H8084\|שְׁמוֹנִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H0505G\|אָ֑לֶף]] [[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H3605\|כֻלָּ֖]][[H9028\|ם]] [[H6297\|פְּגָרִ֥ים]] [[H4191\|מֵתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic ARMIES|ARMIES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LIBNAH|LIBNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.34|<< 2 Kings 19:34]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.36|2 Kings 19:36 >>]]</td></tr></table>
 

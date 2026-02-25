@@ -1,8 +1,58 @@
+---
+title: Psalm 66:14
+type: Verse
+kjv: "Which my lips have uttered, and my mouth hath spoken, when I was in trouble."
+bsb: "the vows that my lips promised and my mouth spoke in my distress."
+hebrew: "אֲשֶׁר־ פָּצ֥וּ שְׂפָתָ֑י וְדִבֶּר־ פִּ֝֗י בַּצַּר־ לִֽי׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6475]]"
+- "[[H8193G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1696I]]"
+- "[[H6310G]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:14**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which my lips have uttered, and my mouth hath spoken, when I was in trouble.
 <small><sub>**BSB:**</sub></small>
 the vows that my lips promised and my mouth spoke in my distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6475\|פָּצ֥וּ]] [[H8193G\|שְׂפָתָ֑]][[H9020\|י]] [[H9001\|וְ]][[H1696I\|דִבֶּר]][[H9014\|־]] [[H6310G\|פִּ֝֗]][[H9020\|י]] [[H9003\|בַּ]][[H6862B\|צַּר]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THANKFULNESS|THANKFULNESS]] • [[topic VOWS|VOWS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.13|<< Psalms 66:13]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.15|Psalms 66:15 >>]]</td></tr></table>
 

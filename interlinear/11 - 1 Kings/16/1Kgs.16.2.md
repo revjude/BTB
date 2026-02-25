@@ -1,8 +1,76 @@
+---
+title: 1 Kings 16:2
+type: Verse
+kjv: "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;"
+bsb: "“Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins."
+hebrew: "יַ֗עַן אֲשֶׁ֤ר הֲרִימֹתִ֙יךָ֙ מִן־ הֶ֣עָפָ֔ר וָאֶתֶּנְךָ֣ נָגִ֔יד עַ֖ל עַמִּ֣י יִשְׂרָאֵ֑ל וַתֵּ֣לֶךְ׀ בְּדֶ֣רֶךְ יָרָבְעָ֗ם וַֽתַּחֲטִא֙ אֶת־ עַמִּ֣י יִשְׂרָאֵ֔ל לְהַכְעִיסֵ֖נִי בְּחַטֹּאתָֽם׃"
+pericope: "[[1Kgs.16.1 Jehu’s Prophecy against Baasha|Jehu’s Prophecy against Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H7311A]]"
+- "[[H9031]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6083]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H1980I]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H3379G]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:2**<big><big>[[1Kgs.16.1 Jehu’s Prophecy against Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;
 <small><sub>**BSB:**</sub></small>
 “Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֤ר]] [[H7311A\|הֲרִימֹתִ֙י]][[H9031\|ךָ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הֶ֣]][[H6083\|עָפָ֔ר]] [[H9001\|וָ]][[H5414H\|אֶתֶּנְ]][[H9031\|ךָ֣]] [[H5057\|נָגִ֔יד]] [[H5921A\|עַ֖ל]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1980I\|תֵּ֣לֶךְ]][[H9015\|׀]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]] [[H3379G\|יָרָבְעָ֗ם]] [[H9001\|וַֽ]][[H2398\|תַּחֲטִא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H3707\|הַכְעִיסֵ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H2403B\|חַטֹּאתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROMOTION|PROMOTION]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.1|<< 1 Kings 16:1]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.3|1 Kings 16:3 >>]]</td></tr></table>
 

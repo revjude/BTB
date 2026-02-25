@@ -1,7 +1,7 @@
 
 **GESHUR**
 
-→ District east of the sources of the Jordan River. The inhabitants  of, not subdued by the Israelites [[Deut.3.14|De 3:14]]; [[Josh.13.2|Jos 13:2]]-[[Josh.13.13|13]]; [[1Chr.2.23|1Ch 2:23]]
+→ District east of the sources of the Jordan River. The inhabitants  of, not subdued by the Israelites [[Deut.3.14|De 3:14]]; [[Josh.13.2|Jos 13:2-13]]; [[1Chr.2.23|1Ch 2:23]]
 
 → Inhabitants of one of the villages of, exterminated, and the  spoils taken by David [[1Sam.27.8|1Sa 27:8]]
 

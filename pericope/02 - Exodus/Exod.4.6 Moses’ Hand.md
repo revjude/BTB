@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses’ Hand
+type: Pericope
 pericope: "[[Exod.4.6 Moses’ Hand|Moses’ Hand]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 4
 book/chapter: "[[Exod.4|Exodus 4]]"
-genre:
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 4
 verses:
 - "[[Exod.4.6]]"
 - "[[Exod.4.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Exod.4.9]]"
 ---
 
-[[Exod.4|Exodus 4:6 - Exodus 4:9]]
+<small>[[Exod.4|Exodus 4:6-9]]</small>
 *Moses’ Hand*
 
 [[Exod.4.6|6]] And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand \[was\] leprous as snow.

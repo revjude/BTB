@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Plague：Blood
+type: Pericope
 pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 7
 book/chapter: "[[Exod.7|Exodus 7]]"
-genre:
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.7.14]]"
 - "[[Exod.7.15]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.7.25]]"
 ---
 
-[[Exod.7|Exodus 7:14 - Exodus 7:25]]
+<small>[[Exod.7|Exodus 7:14-25]]</small>
 *The First Plague：Blood*
 
 [[Exod.7.14|14]] And the LORD said unto Moses, Pharaoh’s heart \[is\] hardened, he refuseth to let the people go.

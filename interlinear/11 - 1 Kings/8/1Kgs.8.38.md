@@ -1,8 +1,74 @@
+---
+title: 1 Kings 8:38
+type: Verse
+kjv: "What prayer and supplication soever be made by any man, or by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:"
+bsb: "then may whatever prayer or petition Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—"
+hebrew: "כָּל־ תְּפִלָּ֣ה כָל־ תְּחִנָּ֗ה אֲשֶׁ֤ר תִֽהְיֶה֙ לְכָל־ הָ֣אָדָ֔ם לְכֹ֖ל עַמְּךָ֣ יִשְׂרָאֵ֑ל אֲשֶׁ֣ר יֵדְע֗וּן אִ֚ישׁ נֶ֣גַע לְבָב֔וֹ וּפָרַ֥שׂ כַּפָּ֖יו אֶל־ הַבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H8467]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H0376I]]"
+- "[[H5061]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:38**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What prayer and supplication soever be [made] by any man, [or] by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:
 <small><sub>**BSB:**</sub></small>
 then may whatever prayer or petition Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H8605\|תְּפִלָּ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H8467\|תְּחִנָּ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H1961\|תִֽהְיֶה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H0120G\|אָדָ֔ם]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H3045\|יֵדְע֗וּ]][[H9013\|ן]] [[H0376I\|אִ֚ישׁ]] [[H5061\|נֶ֣גַע]] [[H3824\|לְבָב֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H6566\|פָרַ֥שׂ]] [[H3709G\|כַּפָּ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.37|<< 1 Kings 8:37]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.39|1 Kings 8:39 >>]]</td></tr></table>
 

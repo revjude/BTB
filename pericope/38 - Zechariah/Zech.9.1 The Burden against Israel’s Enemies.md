@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Israel’s Enemies
+type: Pericope
 pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 9
 book/chapter: "[[Zech.9|Zechariah 9]]"
-genre:
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 8
 verses:
 - "[[Zech.9.1]]"
 - "[[Zech.9.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Zech.9.8]]"
 ---
 
-[[Zech.9|Zechariah 9:1 - Zechariah 9:8]]
+<small>[[Zech.9|Zechariah 9:1-8]]</small>
 *The Burden against Israel’s Enemies*
 
 [[Zech.9.1|1]] The burden of the word of the LORD in the land of Hadrach, and Damascus \[shall be\] the rest thereof: when the eyes of man, as of all the tribes of Israel, \[shall be\] toward the LORD.

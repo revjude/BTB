@@ -1,6 +1,42 @@
+---
+title: LXX Job 15:17
+type: Verse
+lxx: "But I will report to you, hear me! What indeed I have seen, I will report to you --"
+greek: "αναγγελώ δε σοι άκουέ μου α δη εώρακα αναγγελώ σοι"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[G0312]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G0191]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1211]]"
+- "[[G3708]]"
+- "[[G0312]]"
+- "[[G1473]]"
+---
+
 **LXX Job 15:17** 
 <small><sub>**LXX:**</sub></small>
 But I will report to you, hear me! What indeed I have seen, I will report to you -- 
+<small><sub>**Greek:**</sub></small>
+[[G0312\|αναγγελώ]] [[G1161\|δε]] [[G1473\|σοι]] [[G0191\|άκουέ]] [[G1473\|μου]] [[G3739\|α]] [[G1211\|δη]] [[G3708\|εώρακα]] [[G0312\|αναγγελώ]] [[G1473\|σοι]]
 <small><sub>**MT:**</sub></small>
 [[Job.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.16|<< Job 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.18|Job 15:18 >>]]</td></tr></table>
 
@@ -15,6 +51,6 @@ But I will report to you, hear me! What indeed I have seen, I will report to you
 | I have seen, | **<big>[[G3708\|εώρακα]]</big>** |
 | I will report | **<big>[[G0312\|αναγγελώ]]</big>** |
 | to you -- | **<big>[[G1473\|σοι]]</big>** |
-[[Job.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.16|<< Job 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.18|Job 15:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.16|<< Job 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.18|Job 15:18 >>]]</td></tr></table>
 
 

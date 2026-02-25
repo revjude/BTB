@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Out of Egypt I Called My Son
+type: Pericope
 pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 11
 book/chapter: "[[Hos.11|Hosea 11]]"
-genre:
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 7
 verses:
 - "[[Hos.11.1]]"
 - "[[Hos.11.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Hos.11.7]]"
 ---
 
-[[Hos.11|Hosea 11:1 - Hosea 11:7]]
+<small>[[Hos.11|Hosea 11:1-7]]</small>
 *Out of Egypt I Called My Son*
 
 [[Hos.11.1|1]] When Israel \[was\] a child, then I loved him, and called my son out of Egypt.

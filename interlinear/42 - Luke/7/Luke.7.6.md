@@ -1,10 +1,81 @@
+---
+title: Luke 7:6
+type: Verse
+kjv: "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+bsb: "So Jesus went with them. But when He was not far from the house, the centurion sent friends with the message: “Lord, do not trouble Yourself, for I am not worthy to have You come under my roof."
+greek: "Ὁ δὲ Ἰησοῦς ἐπορεύετο σὺν αὐτοῖς. ἤδη δὲ αὐτοῦ οὐ μακρὰν ἀπέχοντος ἀπὸ τῆς οἰκίας ἔπεμψεν πρὸς αὐτὸν φίλους ὁ ἑκατοντάρχης λέγων αὐτῷ· κύριε, μὴ σκύλλου· οὐ γὰρ ἱκανός εἰμι ἵνα ὑπὸ τὴν στέγην μου εἰσέλθῃς,"
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G4198]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G2235]]"
+- "[[G3756]]"
+- "[[G3112]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G3614G]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G5384]]"
+- "[[G1543]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G3361]]"
+- "[[G4660]]"
+- "[[G1063]]"
+- "[[G2425]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G5259H]]"
+- "[[G4721]]"
+- "[[G3165]]"
+- "[[G1525]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 7:6**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:
 <small><sub>**BSB:**</sub></small>
 So Jesus went with them. But when He was not far from the house, the centurion sent friends with the message: “Lord, do not trouble Yourself, for I am not worthy to have You come under my roof.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus was going with them. Already then when he not far being distant from the house sent to him friends the centurion saying to Him; Lord, not do be troubled; not for worthy I am that under the roof of mine You may come,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.5|<< Luke 7:5]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.7|Luke 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G4198\|ἐπορεύετο]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς.]]  [[G2235\|ἤδη]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G3756\|οὐ]]  [[G3112\|μακρὰν]]  [[G0568\|ἀπέχοντος]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G3614G\|οἰκίας]]  [[G3992\|ἔπεμψεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G5384\|φίλους]]  [[G3588\|ὁ]]  [[G1543\|ἑκατοντάρχης]]  [[G3004G\|λέγων]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G3361\|μὴ]]  [[G4660\|σκύλλου·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2425\|ἱκανός]]  [[G1510\|εἰμι]]  [[G2443\|ἵνα]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G4721\|στέγην]]  [[G3165\|μου]]  [[G1525\|εἰσέλθῃς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.5|<< Luke 7:5]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.7|Luke 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

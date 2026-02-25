@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 35:5
+type: Verse
+kjv: "And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites."
+bsb: "Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites."
+hebrew: "וְעִמְד֣וּ בַקֹּ֗דֶשׁ לִפְלֻגּוֹת֙ בֵּ֣ית הָֽאָב֔וֹת לַאֲחֵיכֶ֖ם בְּנֵ֣י הָעָ֑ם וַחֲלֻקַּ֥ת בֵּֽית־ אָ֖ב לַלְוִיִּֽם׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H6944J]]"
+- "[[H9005]]"
+- "[[H6391]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H2515]]"
+- "[[H9014]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:5**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And stand in the holy [place] according to the divisions of the families of the fathers of your brethren the people, and [after] the division of the families of the Levites.
 <small><sub>**BSB:**</sub></small>
 Moreover, stand in the Holy Place by the divisions of the families of your kinsmen the lay people, and by the divisions of the families of the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5975G\|עִמְד֣וּ]] [[H9003\|בַ]][[H6944J\|קֹּ֗דֶשׁ]] [[H9005\|לִ]][[H6391\|פְלֻגּוֹת֙]] [[H1004M\|בֵּ֣ית]] [[H9009\|הָֽ]][[H0001G\|אָב֔וֹת]] [[H9005\|לַ]][[H0251I\|אֲחֵי]][[H9026\|כֶ֖ם]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9002\|וַ]][[H2515\|חֲלֻקַּ֥ת]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H0001G\|אָ֖ב]] [[H9005\|לַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PASSOVER|PASSOVER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.4|<< 2 Chronicles 35:4]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.6|2 Chronicles 35:6 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 7:7
+type: Verse
+kjv: "Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other."
+bsb: "In addition, he built a hall for the throne, the Hall of Justice, where he was to judge. It was paneled with cedar from floor to ceiling."
+hebrew: "וְאוּלָ֤ם הַכִּסֵּא֙ אֲשֶׁ֣ר יִשְׁפָּט־ שָׁ֔ם אֻלָ֥ם הַמִּשְׁפָּ֖ט עָשָׂ֑ה וְסָפ֣וּן בָּאֶ֔רֶז מֵהַקַּרְקַ֖ע עַד־ הַקַּרְקָֽע׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0197I]]"
+- "[[H9009]]"
+- "[[H3678H]]"
+- "[[H0834A]]"
+- "[[H8199]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0197H]]"
+- "[[H4941K]]"
+- "[[H6213H]]"
+- "[[H5603]]"
+- "[[H9003]]"
+- "[[H0730]]"
+- "[[H9006]]"
+- "[[H7172]]"
+- "[[H5704]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:7**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he made a porch for the throne where he might judge, [even] the porch of judgment: and [it was] covered with cedar from one side of the floor to the other.
 <small><sub>**BSB:**</sub></small>
 In addition, he built a hall for the throne, the Hall of Justice, where he was to judge. It was paneled with cedar from floor to ceiling.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0197I\|אוּלָ֤ם]] [[H9009\|הַ]][[H3678H\|כִּסֵּא֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8199\|יִשְׁפָּט]][[H9014\|־]] [[H8033G\|שָׁ֔ם]] [[H0197H\|אֻלָ֥ם]] [[H9009\|הַ]][[H4941K\|מִּשְׁפָּ֖ט]] [[H6213H\|עָשָׂ֑ה]] [[H9002\|וְ]][[H5603\|סָפ֣וּן]] [[H9003\|בָּ]][[H0730\|אֶ֔רֶז]] [[H9006\|מֵ]][[H9009\|הַ]][[H7172\|קַּרְקַ֖ע]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H7172\|קַּרְקָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.6|<< 1 Kings 7:6]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.8|1 Kings 7:8 >>]]</td></tr></table>
 

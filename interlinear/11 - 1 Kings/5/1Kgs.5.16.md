@@ -1,8 +1,62 @@
+---
+title: 1 Kings 5:16
+type: Verse
+kjv: "Beside the chief of Solomon’s officers which were over the work, three thousand and three hundred, which ruled over the people that wrought in the work."
+bsb: "not including his 3,300 foremen who supervised the workers."
+hebrew: "לְ֠בַד מִשָּׂרֵ֨י הַנִּצָּבִ֤ים לִשְׁלֹמֹה֙ אֲשֶׁ֣ר עַל־ הַמְּלָאכָ֔ה שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּשְׁלֹ֣שׁ מֵא֑וֹת הָרֹדִ֣ים בָּעָ֔ם הָעֹשִׂ֖ים בַּמְּלָאכָֽה׃"
+pericope: "[[1Kgs.5.13 Solomon’s Labor Force|Solomon’s Labor Force]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9006]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5324]]"
+- "[[H8010]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H7287A]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:16**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside the chief of Solomon’s officers which [were] over the work, three thousand and three hundred, which ruled over the people that wrought in the work.
 <small><sub>**BSB:**</sub></small>
 not including his 3,300 foremen who supervised the workers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ֠]][[H0905H\|בַד]] [[H9006\|מִ]][[H8269\|שָּׂרֵ֨י]] [[H9009\|הַ]][[H5324\|נִּצָּבִ֤ים]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שׁ]] [[H3967\|מֵא֑וֹת]] [[H9009\|הָ]][[H7287A\|רֹדִ֣ים]] [[H9003\|בָּ]][[H5971A\|עָ֔ם]] [[H9009\|הָ]][[H6213A\|עֹשִׂ֖ים]] [[H9003\|בַּ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.15|<< 1 Kings 5:15]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.17|1 Kings 5:17 >>]]</td></tr></table>
 

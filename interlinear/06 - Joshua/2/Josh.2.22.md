@@ -1,8 +1,63 @@
+---
+title: Joshua 2:22
+type: Verse
+kjv: "And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not."
+bsb: "So the spies went out into the hill country and stayed there three days, until their pursuers had returned without finding them, having searched all along the road."
+hebrew: "וַיֵּלְכוּ֙ וַיָּבֹ֣אוּ הָהָ֔רָה וַיֵּ֤שְׁבוּ שָׁם֙ שְׁלֹ֣שֶׁת יָמִ֔ים עַד־ שָׁ֖בוּ הָרֹדְפִ֑ים וַיְבַקְשׁ֧וּ הָרֹדְפִ֛ים בְּכָל־ הַדֶּ֖רֶךְ וְלֹ֥א מָצָֽאוּ׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9011]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H7291]]"
+- "[[H1245]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:22**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought [them] throughout all the way, but found [them] not.
 <small><sub>**BSB:**</sub></small>
 So the spies went out into the hill country and stayed there three days, until their pursuers had returned without finding them, having searched all along the road.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכוּ֙]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H9009\|הָ]][[H2022G\|הָ֔רָ]][[H9011\|ה]] [[H9001\|וַ]][[H3427\|יֵּ֤שְׁבוּ]] [[H8033G\|שָׁם֙]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H5704\|עַד]][[H9014\|־]] [[H7725G\|שָׁ֖בוּ]] [[H9009\|הָ]][[H7291\|רֹדְפִ֑ים]] [[H9001\|וַ]][[H1245\|יְבַקְשׁ֧וּ]] [[H9009\|הָ]][[H7291\|רֹדְפִ֛ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֖רֶךְ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|מָצָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.21|<< Joshua 2:21]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.23|Joshua 2:23 >>]]</td></tr></table>
 

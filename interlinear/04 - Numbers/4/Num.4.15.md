@@ -1,8 +1,81 @@
+---
+title: Numbers 4:15
+type: Verse
+kjv: "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation."
+bsb: "When Aaron and his sons have finished covering the holy objects and all their equipment, as soon as the camp is ready to move, the Kohathites shall come and do the carrying. But they must not touch the holy objects, or they will die. These are the transportation duties of the Kohathites regarding the Tent of Meeting."
+hebrew: "וְכִלָּ֣ה אַֽהֲרֹן־ וּ֠בָנָיו לְכַסֹּ֨ת אֶת־ הַקֹּ֜דֶשׁ וְאֶת־ כָּל־ כְּלֵ֣י הַקֹּדֶשׁ֮ בִּנְסֹ֣עַ הַֽמַּחֲנֶה֒ וְאַחֲרֵי־ כֵ֗ן יָבֹ֤אוּ בְנֵי־ קְהָת֙ לָשֵׂ֔את וְלֹֽא־ יִגְּע֥וּ אֶל־ הַקֹּ֖דֶשׁ וָמֵ֑תוּ אֵ֛לֶּה מַשָּׂ֥א בְנֵֽי־ קְהָ֖ת בְּאֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H0175]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9003]]"
+- "[[H5265]]"
+- "[[H4264]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H6955]]"
+- "[[H5375H]]"
+- "[[H3808]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H4191]]"
+- "[[H0428]]"
+- "[[H4853A]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:15**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear [it]: but they shall not touch [any] holy thing, lest they die. These [things are] the burden of the sons of Kohath in the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 When Aaron and his sons have finished covering the holy objects and all their equipment, as soon as the camp is ready to move, the Kohathites shall come and do the carrying. But they must not touch the holy objects, or they will die. These are the transportation duties of the Kohathites regarding the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615G\|כִלָּ֣ה]] [[H0175\|אַֽהֲרֹן]][[H9014\|־]] [[H9002\|וּ֠]][[H1121A\|בָנָי]][[H9023\|ו]] [[H9005\|לְ]][[H3680\|כַסֹּ֨ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֜דֶשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H6944G\|קֹּדֶשׁ֮]] [[H9003\|בִּ]][[H5265\|נְסֹ֣עַ]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶה֒]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֗ן]] [[H0935G\|יָבֹ֤אוּ]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H6955\|קְהָת֙]] [[H9005\|לָ]][[H5375H\|שֵׂ֔את]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5060\|יִגְּע֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9001\|וָ]][[H4191\|מֵ֑תוּ]] [[H0428\|אֵ֛לֶּה]] [[H4853A\|מַשָּׂ֥א]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H6955\|קְהָ֖ת]] [[H9003\|בְּ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARK|ARK]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.14|<< Numbers 4:14]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.16|Numbers 4:16 >>]]</td></tr></table>
 

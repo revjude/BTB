@@ -1,10 +1,60 @@
+---
+title: Luke 18:5
+type: Verse
+kjv: "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me."
+bsb: "yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’”"
+jesus_said: "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me."
+greek: "διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν, ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με.¶"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G1223]]"
+- "[[G1065]]"
+- "[[G3588]]"
+- "[[G3930]]"
+- "[[G3165]]"
+- "[[G2873]]"
+- "[[G5503]]"
+- "[[G3778]]"
+- "[[G1556]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G5056]]"
+- "[[G2064]]"
+- "[[G5299]]"
+texts:
+- NKO
+---
+
 **Luke 18:5**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.
 <small><sub>**BSB:**</sub></small>
 yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’”
-<small><sub>**Literal:**</sub></small>
-because yet it occasioning me trouble <the> widow this I will avenge her, so that not to end coming she may exhaust me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.4|<< Luke 18:4]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.6|Luke 18:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]]  [[G1065\|γε]]  [[G3588\|τὸ]]  [[G3930\|παρέχειν]]  [[G3165\|μοι]]  [[G2873\|κόπον]]  [[G3588\|τὴν]]  [[G5503\|χήραν]]  [[G3778\|ταύτην]]  [[G1556\|ἐκδικήσω]]  [[G0846\|αὐτήν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G5056\|τέλος]]  [[G2064\|ἐρχομένη]]  [[G5299\|ὑπωπιάζῃ]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.4|<< Luke 18:4]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.6|Luke 18:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

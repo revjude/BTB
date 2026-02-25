@@ -1,10 +1,70 @@
+---
+title: Mark 9:43
+type: Verse
+kjv: "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:"
+bsb: "If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell, into the unquenchable fire."
+jesus_said: "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:"
+greek: "καὶ ἐὰν σκανδαλίζῃ σε ἡ χείρ σου, ἀπόκοψον αὐτήν· καλόν ἐστίν σε κυλλὸν εἰσελθεῖν εἰς τὴν ζωὴν ἢ τὰς δύο χεῖρας ἔχοντα ἀπελθεῖν εἰς τὴν γέενναν εἰς τὸ πῦρ τὸ ἄσβεστον."
+pericope: "[[Mark.9.42 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G4624]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0609]]"
+- "[[G0846]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G2948]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G2228]]"
+- "[[G1417]]"
+- "[[G2192]]"
+- "[[G0565]]"
+- "[[G1067]]"
+- "[[G4442]]"
+- "[[G0762]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Mark 9:43**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
 <small><sub>**BSB:**</sub></small>
 If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell, into the unquenchable fire.
-<small><sub>**Literal:**</sub></small>
-And if shall cause to stumble you the hand of you, do cut off it; better it is for you crippled to enter into <the> life than <the> two hands having to go away into <the> hell into the fire <the> unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.42|<< Mark 9:42]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.44|Mark 9:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G4624\|σκανδαλίζῃ]]  [[G4771\|σε]]  [[G3588\|ἡ]]  [[G5495\|χείρ]]  [[G4771\|σου,]]  [[G0609\|ἀπόκοψον]]  [[G0846\|αὐτήν·]]  [[G2570G\|καλόν]]  [[G1510\|ἐστίν]]  [[G4771\|σε]]  [[G2948\|κυλλὸν]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωὴν]]  [[G2228\|ἢ]]  [[G3588\|τὰς]]  [[G1417\|δύο]]  [[G5495\|χεῖρας]]  [[G2192\|ἔχοντα]]  [[G0565\|ἀπελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1067\|γέενναν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4442\|πῦρ]]  [[G3588\|τὸ]]  [[G0762\|ἄσβεστον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEATH|DEATH]] • [[topic HAND|HAND]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.42|<< Mark 9:42]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.44|Mark 9:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

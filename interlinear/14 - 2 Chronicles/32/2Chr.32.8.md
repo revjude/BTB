@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 32:8
+type: Verse
+kjv: "With him is an arm of flesh; but with us is the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah."
+bsb: "With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.” So the people were strengthened by the words of Hezekiah king of Judah."
+hebrew: "עִמּוֹ֙ זְר֣וֹעַ בָּשָׂ֔ר וְעִמָּ֜נוּ יְהוָ֤ה אֱלֹהֵ֙ינוּ֙ לְעָזְרֵ֔נוּ וּלְהִלָּחֵ֖ם מִלְחֲמֹתֵ֑נוּ וַיִּסָּמְכ֣וּ הָעָ֔ם עַל־ דִּבְרֵ֖י יְחִזְקִיָּ֥הוּ מֶֽלֶךְ־ יְהוּדָֽה׃ פ"
+pericope: "[[2Chr.32.1 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H2220]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H5826]]"
+- "[[H3898A]]"
+- "[[H4421]]"
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:8**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With him [is] an arm of flesh; but with us [is] the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.
 <small><sub>**BSB:**</sub></small>
 With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.” So the people were strengthened by the words of Hezekiah king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִמּ]][[H9033\|וֹ֙]] [[H2220\|זְר֣וֹעַ]] [[H1320\|בָּשָׂ֔ר]] [[H9002\|וְ]][[H5973A\|עִמָּ֜]][[H9035\|נוּ]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H9005\|לְ]][[H5826\|עָזְרֵ֔]][[H9035\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H4421\|מִלְחֲמֹתֵ֑]][[H9025\|נוּ]] [[H9001\|וַ]][[H5564\|יִּסָּמְכ֣וּ]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H2396G\|יְחִזְקִיָּ֥הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.7|<< 2 Chronicles 32:7]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.9|2 Chronicles 32:9 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ With him is only the arm of flesh, but with us is the LORD our God to help us an
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֖י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֥הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.7|<< 2 Chronicles 32:7]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.9|2 Chronicles 32:9 >>]]</td></tr></table>
 
 

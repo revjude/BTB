@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Throne in Heaven
+type: Pericope
 pericope: "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 4
 book/chapter: "[[Rev.4|Revelation 4]]"
-genre:
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.4.1]]"
 - "[[Rev.4.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.4.4]]"
 ---
 
-[[Rev.4|Revelation 4:1 - Revelation 4:4]]
+<small>[[Rev.4|Revelation 4:1-4]]</small>
 *The Throne in Heaven*
 
 [[Rev.4.1|1]] After this I looked, and, behold, a door \[was\] opened in heaven: and the first voice which I heard \[was\] as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.

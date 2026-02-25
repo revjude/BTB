@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Sower
+type: Pericope
 pericope: "[[Matt.13.1 The Parable of the Sower|The Parable of the Sower]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.13.1]]"
 - "[[Matt.13.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.13.9]]"
 ---
 
-[[Matt.13|Matthew 13:1 - Matthew 13:9]]
+<small>[[Matt.13|Matthew 13:1-9]]</small>
 *The Parable of the Sower*
 
 [[Matt.13.1|1]] The same day went Jesus out of the house, and sat by the sea side.

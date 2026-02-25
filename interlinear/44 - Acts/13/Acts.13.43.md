@@ -1,10 +1,68 @@
+---
+title: Acts 13:43
+type: Verse
+kjv: "Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God."
+bsb: "After the synagogue was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God."
+greek: "λυθείσης δὲ τῆς συναγωγῆς ἠκολούθησαν πολλοὶ τῶν Ἰουδαίων καὶ τῶν σεβομένων προσηλύτων τῷ Παύλῳ καὶ τῷ Βαρναβᾷ, οἵτινες προσλαλοῦντες αὐτοῖς ἔπειθον αὐτοὺς προσμένειν τῇ χάριτι τοῦ θεοῦ."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3089]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G0190]]"
+- "[[G4183]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G4576]]"
+- "[[G4339]]"
+- "[[G3972G]]"
+- "[[G0921G]]"
+- "[[G3748]]"
+- "[[G4354]]"
+- "[[G0846]]"
+- "[[G3982]]"
+- "[[G4357]]"
+- "[[G5485]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 13:43**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.
 <small><sub>**BSB:**</sub></small>
 After the synagogue was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God.
-<small><sub>**Literal:**</sub></small>
-When was releasing then the synagogue followed many of the Jews and of the worshipping converts <the> after Paul and <the> after Barnabas, who speaking to them were persuading them to continue in the grace <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.42|<< Acts 13:42]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.44|Acts 13:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3089\|λυθείσης]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G4864\|συναγωγῆς]]  [[G0190\|ἠκολούθησαν]]  [[G4183\|πολλοὶ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4576\|σεβομένων]]  [[G4339\|προσηλύτων]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G0921G\|Βαρναβᾷ,]]  [[G3748\|οἵτινες]]  [[G4354\|προσλαλοῦντες]]  [[G0846\|αὐτοῖς]]  [[G3982\|ἔπειθον]]  [[G0846\|αὐτοὺς]]  [[G4357\|προσμένειν]]  [[G3588\|τῇ]]  [[G5485\|χάριτι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CONVERTS|CONVERTS]] • [[topic DECISION|DECISION]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.42|<< Acts 13:42]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.44|Acts 13:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

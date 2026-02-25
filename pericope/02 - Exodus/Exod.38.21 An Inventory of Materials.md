@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Inventory of Materials
+type: Pericope
 pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 38
 book/chapter: "[[Exod.38|Exodus 38]]"
-genre:
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 11
 verses:
 - "[[Exod.38.21]]"
 - "[[Exod.38.22]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Exod.38.31]]"
 ---
 
-[[Exod.38|Exodus 38:21 - Exodus 38:31]]
+<small>[[Exod.38|Exodus 38:21-31]]</small>
 *An Inventory of Materials*
 
 [[Exod.38.21|21]] This is the sum of the tabernacle, \[even\] of the tabernacle of testimony, as it was counted, according to the commandment of Moses, \[for\] the service of the Levites, by the hand of Ithamar, son to Aaron the priest.

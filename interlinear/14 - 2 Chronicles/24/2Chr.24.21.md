@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 24:21
+type: Verse
+kjv: "And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD."
+bsb: "But they conspired against Zechariah, and by order of the king, they stoned him in the courtyard of the house of the LORD."
+hebrew: "וַיִּקְשְׁר֣וּ עָלָ֔יו וַיִּרְגְּמֻ֥הוּ אֶ֖בֶן בְּמִצְוַ֣ת הַמֶּ֑לֶךְ בַּחֲצַ֖ר בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.24.17 The Wickedness of Joash|The Wickedness of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7275]]"
+- "[[H0068G]]"
+- "[[H9003]]"
+- "[[H4687]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:21**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 But they conspired against Zechariah, and by order of the king, they stoned him in the courtyard of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7194\|יִּקְשְׁר֣וּ]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H7275\|יִּרְגְּמֻ֥]][[H9033\|הוּ]] [[H0068G\|אֶ֖בֶן]] [[H9003\|בְּ]][[H4687\|מִצְוַ֣ת]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9003\|בַּ]][[H2691A\|חֲצַ֖ר]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JOASH|JOASH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.20|<< 2 Chronicles 24:20]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.22|2 Chronicles 24:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

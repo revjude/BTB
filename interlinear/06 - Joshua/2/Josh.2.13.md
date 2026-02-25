@@ -1,8 +1,65 @@
+---
+title: Joshua 2:13
+type: Verse
+kjv: "And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death."
+bsb: "that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and that you will deliver us from death.”"
+hebrew: "וְהַחֲיִתֶ֞ם אֶת־ אָבִ֣י וְאֶת־ אִמִּ֗י וְאֶת־ אַחַי֙ וְאֶת־ אַחְיוֹתַ֔י וְאֵ֖ת כָּל־ אֲשֶׁ֣ר לָהֶ֑ם וְהִצַּלְתֶּ֥ם אֶת־ נַפְשֹׁתֵ֖ינוּ מִמָּֽוֶת׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H0251G]]"
+- "[[H0269]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5337]]"
+- "[[H5315H]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 2:13**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
 <small><sub>**BSB:**</sub></small>
 that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and that you will deliver us from death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2421\|הַחֲיִתֶ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֣]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמִּ֗]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אַחַ]][[H9020\|י֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0269\|אַחְיוֹתַ֔]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H5337\|הִצַּלְתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשֹׁתֵ֖י]][[H9025\|נוּ]] [[H9006\|מִ]][[H4194\|מָּֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic OATH|OATH]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.12|<< Joshua 2:12]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.14|Joshua 2:14 >>]]</td></tr></table>
 
@@ -27,7 +84,7 @@ that you will spare the lives of my father and mother, my brothers and sisters, 
 | from death  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4194\|מָּֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.12|<< Joshua 2:12]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.14|Joshua 2:14 >>]]</td></tr></table>
 
-[^1]: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^2]: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^1]: sister my  | **<big>[[H0269|אַחוֹתַ]]</big><big>[[H9020|י]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: sister my  | **<big>[[H0269|אַחוֹתַ]]</big><big>[[H9020|י]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אַחְוֹתַ֔י</big></span>**
 

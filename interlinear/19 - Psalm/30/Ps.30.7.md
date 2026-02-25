@@ -1,8 +1,58 @@
+---
+title: Psalm 30:7
+type: Verse
+kjv: "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
+bsb: "O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed."
+hebrew: "יְֽהוָ֗ה בִּרְצוֹנְךָ֮ הֶעֱמַ֪דְתָּה לְֽהַרְרִ֫י עֹ֥ז הִסְתַּ֥רְתָּ פָנֶ֗יךָ הָיִ֥יתִי נִבְהָֽל׃"
+pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7522]]"
+- "[[H9021]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H2042]]"
+- "[[H9020]]"
+- "[[H5797]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H1961]]"
+- "[[H0926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 30:7**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, [and] I was troubled.
 <small><sub>**BSB:**</sub></small>
 O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H9003\|בִּ]][[H7522\|רְצוֹנְ]][[H9021\|ךָ֮]] [[H5975G\|הֶעֱמַ֪דְתָּה]] [[H9005\|לְֽ]][[H2042\|הַרְרִ֫]][[H9020\|י]] [[H5797\|עֹ֥ז]] [[H5641\|הִסְתַּ֥רְתָּ]] [[H6440H\|פָנֶ֗י]][[H9021\|ךָ]] [[H1961\|הָיִ֥יתִי]] [[H0926\|נִבְהָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.6|<< Psalms 30:6]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.8|Psalms 30:8 >>]]</td></tr></table>
 

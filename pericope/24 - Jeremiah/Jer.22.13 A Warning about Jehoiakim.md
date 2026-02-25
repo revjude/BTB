@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning about Jehoiakim
+type: Pericope
 pericope: "[[Jer.22.13 A Warning about Jehoiakim|A Warning about Jehoiakim]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 22
 book/chapter: "[[Jer.22|Jeremiah 22]]"
-genre:
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.22.13]]"
 - "[[Jer.22.14]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.22.23]]"
 ---
 
-[[Jer.22|Jeremiah 22:13 - Jeremiah 22:23]]
+<small>[[Jer.22|Jeremiah 22:13-23]]</small>
 *A Warning about Jehoiakim*
 
 [[Jer.22.13|13]] Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; \[that\] useth his neighbour’s service without wages, and giveth him not for his work;

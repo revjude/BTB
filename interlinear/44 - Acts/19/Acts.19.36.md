@@ -1,10 +1,56 @@
+---
+title: Acts 19:36
+type: Verse
+kjv: "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
+bsb: "Since these things are undeniable, you ought to be calm and not do anything rash."
+greek: "ἀναντιρρήτων οὖν ὄντων τούτων δέον ἐστὶν ὑμᾶς κατεσταλμένους ὑπάρχειν καὶ μηδὲν προπετὲς πράσσειν."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G0368]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G1163]]"
+- "[[G4771]]"
+- "[[G2687]]"
+- "[[G5225]]"
+- "[[G2532]]"
+- "[[G3367]]"
+- "[[G4312]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Acts 19:36**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.
 <small><sub>**BSB:**</sub></small>
 Since these things are undeniable, you ought to be calm and not do anything rash.
-<small><sub>**Literal:**</sub></small>
-Undeniable therefore are being these things necessary it is for you quietened to be and nothing rash to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.35|<< Acts 19:35]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.37|Acts 19:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0368\|ἀναντιρρήτων]]  [[G3767\|οὖν]]  [[G1510\|ὄντων]]  [[G3778\|τούτων]]  [[G1163\|δέον]]  [[G1510\|ἐστὶν]]  [[G4771\|ὑμᾶς]]  [[G2687\|κατεσταλμένους]]  [[G5225\|ὑπάρχειν]]  [[G2532\|καὶ]]  [[G3367\|μηδὲν]]  [[G4312\|προπετὲς]]  [[G4238\|πράσσειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.35|<< Acts 19:35]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.37|Acts 19:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

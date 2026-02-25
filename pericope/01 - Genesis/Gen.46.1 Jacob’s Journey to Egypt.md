@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob’s Journey to Egypt
+type: Pericope
 pericope: "[[Gen.46.1 Jacob’s Journey to Egypt|Jacob’s Journey to Egypt]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.46.1]]"
 - "[[Gen.46.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.46.6]]"
 ---
 
-[[Gen.46|Genesis 46:1 - Genesis 46:6]]
+<small>[[Gen.46|Genesis 46:1-6]]</small>
 *Jacob’s Journey to Egypt*
 
 [[Gen.46.1|1]] And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.

@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 2:7
+type: Verse
+kjv: "So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow."
+bsb: "So instead, you ought to forgive and comfort him, so that he will not be overwhelmed by excessive sorrow."
+greek: "ὥστε τοὐναντίον μᾶλλον ὑμᾶς χαρίσασθαι καὶ παρακαλέσαι, μή πως τῇ περισσοτέρᾳ λύπῃ καταποθῇ ὁ τοιοῦτος."
+pericope: "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G5620]]"
+- "[[G5121]]"
+- "[[G3123H]]"
+- "[[G4771]]"
+- "[[G5483]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G3588]]"
+- "[[G4055]]"
+- "[[G3077]]"
+- "[[G2666]]"
+- "[[G5108]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 2:7**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that contrariwise ye [ought] rather to forgive [him], and comfort [him], lest perhaps such a one should be swallowed up with overmuch sorrow.
 <small><sub>**BSB:**</sub></small>
 So instead, you ought to forgive and comfort him, so that he will not be overwhelmed by excessive sorrow.
-<small><sub>**Literal:**</sub></small>
-so that on the contrary rather for you to forgive and to comfort [him], lest perhaps <the> by more excessive sorrow may be overwhelmed <the> such a one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.6|<< 2 Corinthians 2:6]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.8|2 Corinthians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G5121\|τοὐναντίον]]  [[G3123H\|μᾶλλον]]  [[G4771\|ὑμᾶς]]  [[G5483\|χαρίσασθαι]]  [[G2532\|καὶ]]  [[G3870\|παρακαλέσαι,]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G3588\|τῇ]]  [[G4055\|περισσοτέρᾳ]]  [[G3077\|λύπῃ]]  [[G2666\|καταποθῇ]]  [[G3588\|ὁ]]  [[G5108\|τοιοῦτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.6|<< 2 Corinthians 2:6]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.8|2 Corinthians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

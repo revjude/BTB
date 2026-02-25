@@ -1,8 +1,60 @@
+---
+title: Ezekiel 13:12
+type: Verse
+kjv: "Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it?"
+bsb: "Surely when the wall has fallen, you will not be asked, ‘Where is the whitewash with which you covered it?’"
+hebrew: "וְהִנֵּ֖ה נָפַ֣ל הַקִּ֑יר הֲלוֹא֙ יֵאָמֵ֣ר אֲלֵיכֶ֔ם אַיֵּ֥ה הַטִּ֖יחַ אֲשֶׁ֥ר טַחְתֶּֽם׃ ס"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5307G]]"
+- "[[H9009]]"
+- "[[H7023]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0346]]"
+- "[[H2915]]"
+- "[[H0834A]]"
+- "[[H2902A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 13:12**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, when the wall is fallen, shall it not be said unto you, Where [is] the daubing wherewith ye have daubed [it]?
 <small><sub>**BSB:**</sub></small>
 Surely when the wall has fallen, you will not be asked, ‘Where is the whitewash with which you covered it?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H5307G\|נָפַ֣ל]] [[H9009\|הַ]][[H7023\|קִּ֑יר]] [[H9008\|הֲ]][[H3808\|לוֹא֙]] [[H0559\|יֵאָמֵ֣ר]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H0346\|אַיֵּ֥ה]] [[H9009\|הַ]][[H2915\|טִּ֖יחַ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2902A\|טַחְתֶּֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.11|<< Ezekiel 13:11]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.13|Ezekiel 13:13 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ Surely when the wall has fallen, you will not be asked, ‘Where is the whitewas
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֥ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the plaster  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2915\|טִּ֖יחַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ti.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you plastered  |**<big>&#8207;[[H2902A\|טַחְתֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tach.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you plastered  |**<big>&#8207;[[H2902A\|טַחְתֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tach.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.11|<< Ezekiel 13:11]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.13|Ezekiel 13:13 >>]]</td></tr></table>
 
 

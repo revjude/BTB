@@ -1,8 +1,66 @@
+---
+title: Psalm 62:4
+type: Verse
+kjv: "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah."
+bsb: "They fully intend to cast him down from his lofty perch; they delight in lies; with their mouths they bless, but inwardly they curse. Selah"
+hebrew: "אַ֤ךְ מִשְּׂאֵת֨וֹ׀ יָעֲצ֣וּ לְהַדִּיחַ֮ יִרְצ֪וּ כָ֫זָ֥ב בְּפִ֥יו יְבָרֵ֑כוּ וּ֝בְקִרְבָּ֗ם יְקַלְלוּ־ סֶֽלָה׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H0389]]"
+- "[[H9006]]"
+- "[[H7613]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H3289]]"
+- "[[H9005]]"
+- "[[H5080]]"
+- "[[H7521]]"
+- "[[H3577]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H1288]]"
+- "[[H9002]]"
+- "[[H7130H]]"
+- "[[H9028]]"
+- "[[H7043]]"
+- "[[H9014]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:4**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They only consult to cast [him] down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.
 <small><sub>**BSB:**</sub></small>
 They fully intend to cast him down from his lofty perch; they delight in lies; with their mouths they bless, but inwardly they curse. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֤ךְ]] [[H9006\|מִ]][[H7613\|שְּׂאֵת֨]][[H9023\|וֹ]][[H9015\|׀]] [[H3289\|יָעֲצ֣וּ]] [[H9005\|לְ]][[H5080\|הַדִּיחַ֮]] [[H7521\|יִרְצ֪וּ]] [[H3577\|כָ֫זָ֥ב]] [[H9003\|בְּ]][[H6310G\|פִ֥י]][[H9023\|ו]] [[H1288\|יְבָרֵ֑כוּ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H7130H\|קִרְבָּ֗]][[H9028\|ם]] [[H7043\|יְקַלְלוּ]][[H9014\|־]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic ENEMY|ENEMY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.3|<< Psalms 62:3]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.5|Psalms 62:5 >>]]</td></tr></table>
 

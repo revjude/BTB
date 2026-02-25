@@ -1,8 +1,63 @@
+---
+title: Joshua 7:22
+type: Verse
+kjv: "So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it."
+bsb: "So Joshua sent messengers who ran to the tent, and there it all was, hidden in his tent, with the silver underneath."
+hebrew: "וַיִּשְׁלַ֤ח יְהוֹשֻׁ֙עַ֙ מַלְאָכִ֔ים וַיָּרֻ֖צוּ הָאֹ֑הֱלָה וְהִנֵּ֧ה טְמוּנָ֛ה בְּאָהֳל֖וֹ וְהַכֶּ֥סֶף תַּחְתֶּֽיהָ׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3091G]]"
+- "[[H4397G]]"
+- "[[H7323G]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2934]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H3701G]]"
+- "[[H8478G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:22**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua sent messengers, and they ran unto the tent; and, behold, [it was] hid in his tent, and the silver under it.
 <small><sub>**BSB:**</sub></small>
 So Joshua sent messengers who ran to the tent, and there it all was, hidden in his tent, with the silver underneath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H9001\|וַ]][[H7323G\|יָּרֻ֖צוּ]] [[H9009\|הָ]][[H0168G\|אֹ֑הֱלָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֧ה]] [[H2934\|טְמוּנָ֛ה]] [[H9003\|בְּ]][[H0168G\|אָהֳל֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H3701G\|כֶּ֥סֶף]] [[H8478G\|תַּחְתֶּֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.21|<< Joshua 7:21]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.23|Joshua 7:23 >>]]</td></tr></table>
 

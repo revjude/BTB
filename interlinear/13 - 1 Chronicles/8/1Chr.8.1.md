@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 8:1
+type: Verse
+kjv: "Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,"
+bsb: "Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,"
+hebrew: "וּבִ֨נְיָמִ֔ן הוֹלִ֖יד אֶת־ בֶּ֣לַע בְּכֹר֑וֹ אַשְׁבֵּל֙ הַשֵּׁנִ֔י וְאַחְרַ֖ח הַשְּׁלִישִֽׁי׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHARAH|AHARAH]]"
+- "[[topic ASHBEL|ASHBEL]]"
+- "[[topic BELA|BELA]]"
+- "[[topic EHUD|EHUD]]"
+strongs:
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1106A]]"
+- "[[H1060]]"
+- "[[H9023]]"
+- "[[H0788]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H0315]]"
+- "[[H7992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:1**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
 <small><sub>**BSB:**</sub></small>
 Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1144G\|בִ֨נְיָמִ֔ן]] [[H3205\|הוֹלִ֖יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1106A\|בֶּ֣לַע]] [[H1060\|בְּכֹר֑]][[H9023\|וֹ]] [[H0788\|אַשְׁבֵּל֙]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9002\|וְ]][[H0315\|אַחְרַ֖ח]] [[H9009\|הַ]][[H7992\|שְּׁלִישִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHARAH|AHARAH]] • [[topic ASHBEL|ASHBEL]] • [[topic BELA|BELA]] • [[topic EHUD|EHUD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.40|<< 1 Chronicles 7:40]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.2|1 Chronicles 8:2 >>]]</td></tr></table>
 

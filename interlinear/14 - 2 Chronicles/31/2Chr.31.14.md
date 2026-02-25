@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 31:14
+type: Verse
+kjv: "And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things."
+bsb: "Kore son of Imnah the Levite, the keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions to the LORD and the consecrated gifts."
+hebrew: "וְקוֹרֵ֨א בֶן־ יִמְנָ֤ה הַלֵּוִי֙ הַשּׁוֹעֵ֣ר לַמִּזְרָ֔חָה עַ֖ל נִדְב֣וֹת הָאֱלֹהִ֑ים לָתֵת֙ תְּרוּמַ֣ת יְהוָ֔ה וְקָדְשֵׁ֖י הַקֳּדָשִֽׁים׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic IMNAH|IMNAH]]"
+- "[[topic KORE|KORE]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6981H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3232H]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H7778]]"
+- "[[H9005]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H5071]]"
+- "[[H0430G]]"
+- "[[H5414H]]"
+- "[[H8641]]"
+- "[[H3068G]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:14**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kore the son of Imnah the Levite, the porter toward the east, [was] over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things.
 <small><sub>**BSB:**</sub></small>
 Kore son of Imnah the Levite, the keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions to the LORD and the consecrated gifts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6981H\|קוֹרֵ֨א]] [[H1121A\|בֶן]][[H9014\|־]] [[H3232H\|יִמְנָ֤ה]] [[H9009\|הַ]][[H3881\|לֵּוִי֙]] [[H9009\|הַ]][[H7778\|שּׁוֹעֵ֣ר]] [[H9005\|לַ]][[H4217H\|מִּזְרָ֔חָ]][[H9011\|ה]] [[H5921A\|עַ֖ל]] [[H5071\|נִדְב֣וֹת]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9005\|לָ]][[H5414H\|תֵת֙]] [[H8641\|תְּרוּמַ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H6944G\|קָדְשֵׁ֖י]] [[H9009\|הַ]][[H6944G\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic IMNAH|IMNAH]] • [[topic KORE|KORE]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.13|<< 2 Chronicles 31:13]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.15|2 Chronicles 31:15 >>]]</td></tr></table>
 

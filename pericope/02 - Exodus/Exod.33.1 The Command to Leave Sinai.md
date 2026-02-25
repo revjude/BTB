@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Command to Leave Sinai
+type: Pericope
 pericope: "[[Exod.33.1 The Command to Leave Sinai|The Command to Leave Sinai]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 33
 book/chapter: "[[Exod.33|Exodus 33]]"
-genre:
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.33.1]]"
 - "[[Exod.33.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.33.6]]"
 ---
 
-[[Exod.33|Exodus 33:1 - Exodus 33:6]]
+<small>[[Exod.33|Exodus 33:1-6]]</small>
 *The Command to Leave Sinai*
 
 [[Exod.33.1|1]] And the LORD said unto Moses, Depart, \[and\] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:

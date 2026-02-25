@@ -1,8 +1,49 @@
+---
+title: Job 7:13
+type: Verse
+kjv: "When I say, My bed shall comfort me, my couch shall ease my complaint;"
+bsb: "When I think my bed will comfort me and my couch will ease my complaint,"
+hebrew: "כִּֽי־ אָ֭מַרְתִּי תְּנַחֲמֵ֣נִי עַרְשִׂ֑י יִשָּׂ֥א בְ֝שִׂיחִ֗י מִשְׁכָּבִֽי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H5162G]]"
+- "[[H9030]]"
+- "[[H6210]]"
+- "[[H9020]]"
+- "[[H5375I]]"
+- "[[H9003]]"
+- "[[H7879]]"
+- "[[H4904]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:13**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I say, My bed shall comfort me, my couch shall ease my complaint;
 <small><sub>**BSB:**</sub></small>
 When I think my bed will comfort me and my couch will ease my complaint,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָ֭מַרְתִּי]] [[H5162G\|תְּנַחֲמֵ֣]][[H9030\|נִי]] [[H6210\|עַרְשִׂ֑]][[H9020\|י]] [[H5375I\|יִשָּׂ֥א]] [[H9003\|בְ֝]][[H7879\|שִׂיחִ֗]][[H9020\|י]] [[H4904\|מִשְׁכָּבִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.12|<< Job 7:12]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.14|Job 7:14 >>]]</td></tr></table>
 

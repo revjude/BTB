@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Tabernacles
+type: Pericope
 pericope: "[[Lev.23.33 The Feast of Tabernacles|The Feast of Tabernacles]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 23
 book/chapter: "[[Lev.23|Leviticus 23]]"
-genre:
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 12
 verses:
 - "[[Lev.23.33]]"
 - "[[Lev.23.34]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Lev.23.44]]"
 ---
 
-[[Lev.23|Leviticus 23:33 - Leviticus 23:44]]
+<small>[[Lev.23|Leviticus 23:33-44]]</small>
 *The Feast of Tabernacles*
 
 [[Lev.23.33|33]] And the LORD spake unto Moses, saying,

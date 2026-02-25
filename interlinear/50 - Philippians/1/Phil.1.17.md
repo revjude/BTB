@@ -1,10 +1,56 @@
+---
+title: Philippians 1:17
+type: Verse
+kjv: "But the other of love, knowing that I am set for the defence of the gospel."
+bsb: "The former, however, preach Christ out of selfish ambition, not sincerely, supposing that they can add to the distress of my chains."
+greek: "οἱ δὲ ἐξ ἐριθείας τὸν Χριστὸν καταγγέλλουσιν οὐχ ἁγνῶς οἰόμενοι θλῖψιν ἐγείρειν τοῖς δεσμοῖς μου."
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic ROME|ROME]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G2052]]"
+- "[[G5547]]"
+- "[[G2605]]"
+- "[[G3756]]"
+- "[[G0055]]"
+- "[[G3633]]"
+- "[[G2347]]"
+- "[[G1453]]"
+- "[[G1199]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 1:17**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the other of love, knowing that I am set for the defence of the gospel.
 <small><sub>**BSB:**</sub></small>
 The former, however, preach Christ out of selfish ambition, not sincerely, supposing that they can add to the distress of my chains.
-<small><sub>**Literal:**</sub></small>
-[16] the [ones] however out of selfish ambition <the> Christ are proclaiming not purely supposing tribulation to add to the chains of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.16|<< Philippians 1:16]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.18|Philippians 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G2052\|ἐριθείας]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G2605\|καταγγέλλουσιν]]  [[G3756\|οὐχ]]  [[G0055\|ἁγνῶς]]  [[G3633\|οἰόμενοι]]  [[G2347\|θλῖψιν]]  [[G1453\|ἐγείρειν]]  [[G3588\|τοῖς]]  [[G1199\|δεσμοῖς]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ROME|ROME]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.16|<< Philippians 1:16]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.18|Philippians 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

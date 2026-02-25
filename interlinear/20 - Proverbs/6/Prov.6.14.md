@@ -1,8 +1,59 @@
+---
+title: Proverbs 6:14
+type: Verse
+kjv: "Frowardness is in his heart, he deviseth mischief continually; he soweth discord."
+bsb: "With deceit in his heart he devises evil; he continually sows discord."
+hebrew: "תַּֽהְפֻּכ֨וֹת׀ בְּלִבּ֗וֹ חֹרֵ֣שׁ רָ֣ע בְּכָל־ עֵ֑ת מִדְיָנִ֥ים יְשַׁלֵּֽחַ׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H8419]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H2790A]]"
+- "[[H7451B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6256]]"
+- "[[H4090]]"
+- "[[H4079]]"
+- "[[H7971G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 6:14**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Frowardness [is] in his heart, he deviseth mischief continually; he soweth discord.
 <small><sub>**BSB:**</sub></small>
 With deceit in his heart he devises evil; he continually sows discord.
+<small><sub>**Hebrew:**</sub></small>
+[[H8419\|תַּֽהְפֻּכ֨וֹת]][[H9015\|׀]] [[H9003\|בְּ]][[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H2790A\|חֹרֵ֣שׁ]] [[H7451B\|רָ֣ע]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֑ת]] [[H4079\|מִדְיָנִ֥ים]] [[H7971G\|יְשַׁלֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic MALICE|MALICE]] • [[topic STRIFE|STRIFE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.13|<< Proverbs 6:13]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.15|Proverbs 6:15 >>]]</td></tr></table>
 

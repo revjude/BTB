@@ -1,8 +1,71 @@
+---
+title: Judges 19:30
+type: Verse
+kjv: "And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds."
+bsb: "And everyone who saw it said, “Nothing like this has been seen or done from the day the Israelites came out of the land of Egypt until this day. Think it over, take counsel, and speak up!”"
+hebrew: "וְהָיָ֣ה כָל־ הָרֹאֶ֗ה וְאָמַר֙ לֹֽא־ נִהְיְתָ֤ה וְלֹֽא־ נִרְאֲתָה֙ כָּזֹ֔את לְמִיּ֞וֹם עֲל֤וֹת בְּנֵֽי־ יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה שִֽׂימוּ־ לָכֶ֥ם עָלֶ֖יהָ עֻ֥צוּ וְדַבֵּֽרוּ׃ פ"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7200G]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H5927G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H7760K]]"
+- "[[H9036]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H5779]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 19:30**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak [your minds].
 <small><sub>**BSB:**</sub></small>
 And everyone who saw it said, “Nothing like this has been seen or done from the day the Israelites came out of the land of Egypt until this day. Think it over, take counsel, and speak up!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7200G\|רֹאֶ֗ה]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|נִהְיְתָ֤ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|נִרְאֲתָה֙]] [[H9004\|כָּ]][[H2063\|זֹ֔את]] [[H9005\|לְ]][[H9006\|מִ]][[H3117G\|יּ֞וֹם]] [[H5927G\|עֲל֤וֹת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H7760K\|שִֽׂימוּ]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H5779\|עֻ֥צוּ]] [[H9002\|וְ]][[H1696G\|דַבֵּֽרוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.29|<< Judges 19:29]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.1|Judges 20:1 >>]]</td></tr></table>
 
@@ -30,7 +93,7 @@ And everyone who saw it said, “Nothing like this has been seen or done from th
 | for \<the> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלֶ֖י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take counsel  |**<big>&#8207;[[H5779\|עֻ֥צוּ]]&#8207; </big>**| 'U.tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and speak  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1696G\|דַבֵּֽרוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Be.ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and speak  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1696G\|דַבֵּֽרוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Be.ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.29|<< Judges 19:29]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.1|Judges 20:1 >>]]</td></tr></table>
 
 

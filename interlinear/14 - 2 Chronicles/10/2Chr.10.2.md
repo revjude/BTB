@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 10:2
+type: Verse
+kjv: "And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he had fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt."
+bsb: "When Jeroboam son of Nebat heard about this, he returned from Egypt, where he had fled from King Solomon."
+hebrew: "וַיְהִ֞י כִּשְׁמֹ֨עַ יָרָבְעָ֤ם בֶּן־ נְבָט֙ וְה֣וּא בְמִצְרַ֔יִם אֲשֶׁ֣ר בָּרַ֔ח מִפְּנֵ֖י שְׁלֹמֹ֣ה הַמֶּ֑לֶךְ וַיָּ֥שָׁב יָרָבְעָ֖ם מִמִּצְרָֽיִם׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5028]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H1272]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H8010]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:2**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jeroboam the son of Nebat, who [was] in Egypt, whither he had fled from the presence of Solomon the king, heard [it], that Jeroboam returned out of Egypt.
 <small><sub>**BSB:**</sub></small>
 When Jeroboam son of Nebat heard about this, he returned from Egypt, where he had fled from King Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֨עַ]] [[H3379G\|יָרָבְעָ֤ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָט֙]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H9003\|בְ]][[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֣ר]] [[H1272\|בָּרַ֔ח]] [[H9006\|מִ]][[H6440H\|פְּנֵ֖י]] [[H8010\|שְׁלֹמֹ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H7725G\|יָּ֥שָׁב]] [[H3379G\|יָרָבְעָ֖ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.1|<< 2 Chronicles 10:1]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.3|2 Chronicles 10:3 >>]]</td></tr></table>
 

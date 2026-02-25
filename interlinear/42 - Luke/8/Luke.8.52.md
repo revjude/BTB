@@ -1,10 +1,62 @@
+---
+title: Luke 8:52
+type: Verse
+kjv: "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth."
+bsb: "Meanwhile, everyone was weeping and mourning for her. But Jesus said, “Stop weeping; she is not dead but asleep.”"
+jesus_said: "Weep not; she is not dead, but sleepeth."
+greek: "ἔκλαιον δὲ πάντες καὶ ἐκόπτοντο αὐτήν. ὁ δὲ εἶπεν· μὴ κλαίετε· οὐ γὰρ ἀπέθανεν ἀλλὰ καθεύδει."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SLEEP|SLEEP]]"
+strongs:
+- "[[G2799]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G2875]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2036]]"
+- "[[G3361]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G0599]]"
+- "[[G0235]]"
+- "[[G2518]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 8:52**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, everyone was weeping and mourning for her. But Jesus said, “Stop weeping; she is not dead but asleep.”
-<small><sub>**Literal:**</sub></small>
-They were weeping now all and they were mourning for her. <the> But He said; Not do weep; not for she is dead but sleeps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.51|<< Luke 8:51]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.53|Luke 8:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2799\|ἔκλαιον]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G2875\|ἐκόπτοντο]]  [[G0846\|αὐτήν.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3361\|μὴ]]  [[G2799\|κλαίετε·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0599\|ἀπέθανεν]]  [[G0235\|ἀλλὰ]]  [[G2518\|καθεύδει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SLEEP|SLEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.51|<< Luke 8:51]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.53|Luke 8:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

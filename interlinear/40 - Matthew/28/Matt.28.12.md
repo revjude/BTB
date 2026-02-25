@@ -1,10 +1,56 @@
+---
+title: Matthew 28:12
+type: Verse
+kjv: "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,"
+bsb: "And after the chief priests had met with the elders and formed a plan, they gave the soldiers a large sum of money"
+greek: "καὶ συναχθέντες μετὰ τῶν πρεσβυτέρων συμβούλιόν τε λαβόντες ἀργύρια ἱκανὰ ἔδωκαν τοῖς στρατιώταις"
+pericope: "[[Matt.28.11 The Report of the Guards|The Report of the Guards]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G4245G]]"
+- "[[G4824]]"
+- "[[G5037]]"
+- "[[G2983]]"
+- "[[G0694]]"
+- "[[G2425]]"
+- "[[G1325]]"
+- "[[G4757]]"
+texts:
+- NKO
+---
+
 **Matthew 28:12**<big><big>[[Matt.28.11 The Report of the Guards|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
 <small><sub>**BSB:**</sub></small>
 And after the chief priests had met with the elders and formed a plan, they gave the soldiers a large sum of money
-<small><sub>**Literal:**</sub></small>
-And having been gathered together with the elders counsel then having taken silver pieces many they gave to the soldiers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.11|<< Matthew 28:11]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.13|Matthew 28:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4863\|συναχθέντες]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G4824\|συμβούλιόν]]  [[G5037\|τε]]  [[G2983\|λαβόντες]]  [[G0694\|ἀργύρια]]  [[G2425\|ἱκανὰ]]  [[G1325\|ἔδωκαν]]  [[G3588\|τοῖς]]  [[G4757\|στρατιώταις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY|MONEY]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.11|<< Matthew 28:11]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.13|Matthew 28:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

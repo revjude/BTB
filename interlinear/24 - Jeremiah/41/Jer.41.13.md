@@ -1,8 +1,69 @@
+---
+title: Jeremiah 41:13
+type: Verse
+kjv: "Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were glad."
+bsb: "When all the people with Ishmael saw Johanan son of Kareah and all the commanders of the army with him, they rejoiced,"
+hebrew: "וַיְהִ֗י כִּרְא֤וֹת כָּל־ הָעָם֙ אֲשֶׁ֣ר אֶת־ יִשְׁמָעֵ֔אל אֶת־ יֽוֹחָנָן֙ בֶּן־ קָרֵ֔חַ וְאֵ֛ת כָּל־ שָׂרֵ֥י הַחֲיָלִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ וַיִּשְׂמָֽחוּ׃"
+pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic KAREAH|KAREAH]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H3458H]]"
+- "[[H0853]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H7143]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H2428A]]"
+- "[[H9033]]"
+- "[[H8055]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:13**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, [that] when all the people which [were] with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that [were] with him, then they were glad.
 <small><sub>**BSB:**</sub></small>
 When all the people with Ishmael saw Johanan son of Kareah and all the commanders of the army with him, they rejoiced,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כִּ]][[H7200G\|רְא֤וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אֶת]][[H9014\|־]] [[H3458H\|יִשְׁמָעֵ֔אל]] [[H0853\|אֶת]][[H9014\|־]] [[H3110G\|יֽוֹחָנָן֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֔חַ]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H8055\|יִּשְׂמָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GIBEON|GIBEON]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]] • [[topic KAREAH|KAREAH]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.12|<< Jeremiah 41:12]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.14|Jeremiah 41:14 >>]]</td></tr></table>
 

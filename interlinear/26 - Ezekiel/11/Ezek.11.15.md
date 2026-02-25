@@ -1,8 +1,73 @@
+---
+title: Ezekiel 11:15
+type: Verse
+kjv: "Son of man, thy brethren, even thy brethren, the men of thy kindred, and all the house of Israel wholly, are they unto whom the inhabitants of Jerusalem have said, Get you far from the LORD: unto us is this land given in possession."
+bsb: "“Son of man, your brothers—your relatives, your fellow exiles, and the whole house of Israel—are those of whom the people of Jerusalem have said, ‘They are far away from the LORD; this land has been given to us as a possession.’"
+hebrew: "בֶּן־ אָדָ֗ם אַחֶ֤יךָ אַחֶ֙יךָ֙ אַנְשֵׁ֣י גְאֻלָּתֶ֔ךָ וְכָל־ בֵּ֥ית יִשְׂרָאֵ֖ל כֻּלֹּ֑ה אֲשֶׁר֩ אָמְר֨וּ לָהֶ֜ם יֹשְׁבֵ֣י יְרוּשָׁלִַ֗ם רַֽחֲקוּ֙ מֵעַ֣ל יְהוָ֔ה לָ֥נוּ הִ֛יא נִתְּנָ֥ה הָאָ֖רֶץ לְמוֹרָשָֽׁה׃ ס"
+pericope: "[[Ezek.11.13 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H0582]]"
+- "[[H1353]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H7368]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H9035]]"
+- "[[H1931]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4181]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 11:15**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, thy brethren, [even] thy brethren, the men of thy kindred, and all the house of Israel wholly, [are] they unto whom the inhabitants of Jerusalem have said, Get you far from the LORD: unto us is this land given in possession.
 <small><sub>**BSB:**</sub></small>
 “Son of man, your brothers—your relatives, your fellow exiles, and the whole house of Israel—are those of whom the people of Jerusalem have said, ‘They are far away from the LORD; this land has been given to us as a possession.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H0251I\|אַחֶ֤י]][[H9021\|ךָ]] [[H0251I\|אַחֶ֙י]][[H9021\|ךָ֙]] [[H0582\|אַנְשֵׁ֣י]] [[H1353\|גְאֻלָּתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3605\|כֻּלֹּ֑]][[H9023\|ה]] [[H0834A\|אֲשֶׁר֩]] [[H0559\|אָמְר֨וּ]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H7368\|רַֽחֲקוּ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H1931\|הִ֛יא]] [[H5414G\|נִתְּנָ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לְ]][[H4181\|מוֹרָשָֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.14|<< Ezekiel 11:14]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.16|Ezekiel 11:16 >>]]</td></tr></table>
 
@@ -30,7 +95,7 @@ Son of man, thy brethren, [even] thy brethren, the men of thy kindred, and all t
 | it  |**<big>&#8207;[[H1931\|הִ֛יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been given  |**<big>&#8207;[[H5414G\|נִתְּנָ֥ה]]&#8207; </big>**| ni.te.Nah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a possession  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4181\|מוֹרָשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.ra.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a possession  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4181\|מוֹרָשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.ra.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.14|<< Ezekiel 11:14]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.16|Ezekiel 11:16 >>]]</td></tr></table>
 
 

@@ -1,8 +1,67 @@
+---
+title: Esther 8:8
+type: Verse
+kjv: "Write ye also for the Jews, as it liketh you, in the king’s name, and seal it with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse."
+bsb: "Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of the king and sealed with the royal signet ring cannot be revoked.”"
+hebrew: "וְ֠אַתֶּם כִּתְב֨וּ עַל־ הַיְּהוּדִ֜ים כַּטּ֤וֹב בְּעֵֽינֵיכֶם֙ בְּשֵׁ֣ם הַמֶּ֔לֶךְ וְחִתְמ֖וּ בְּטַבַּ֣עַת הַמֶּ֑לֶךְ כִּֽי־ כְתָ֞ב אֲשֶׁר־ נִכְתָּ֣ב בְּשֵׁם־ הַמֶּ֗לֶךְ וְנַחְתּ֛וֹם בְּטַבַּ֥עַת הַמֶּ֖לֶךְ אֵ֥ין לְהָשִֽׁיב׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic KING|KING]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RING|RING]]"
+- "[[topic SEAL|SEAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H9004]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H8034]]"
+- "[[H4428G]]"
+- "[[H2856]]"
+- "[[H2885]]"
+- "[[H3588A]]"
+- "[[H3791]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H7725I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:8**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Write ye also for the Jews, as it liketh you, in the king’s name, and seal [it] with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.
 <small><sub>**BSB:**</sub></small>
 Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of the king and sealed with the royal signet ring cannot be revoked.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0859D\|אַתֶּם]] [[H3789\|כִּתְב֨וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֜ים]] [[H9004\|כַּ]][[H2896A\|טּ֤וֹב]] [[H9003\|בְּ]][[H5869I\|עֵֽינֵי]][[H9026\|כֶם֙]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H2856\|חִתְמ֖וּ]] [[H9003\|בְּ]][[H2885\|טַבַּ֣עַת]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3791\|כְתָ֞ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3789\|נִכְתָּ֣ב]] [[H9003\|בְּ]][[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9002\|וְ]][[H2856\|נַחְתּ֛וֹם]] [[H9003\|בְּ]][[H2885\|טַבַּ֥עַת]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0369\|אֵ֥ין]] [[H9005\|לְ]][[H7725I\|הָשִֽׁיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic KING|KING]] • [[topic PERSIA|PERSIA]] • [[topic RING|RING]] • [[topic SEAL|SEAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.7|<< Esther 8:7]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.9|Esther 8:9 >>]]</td></tr></table>
 

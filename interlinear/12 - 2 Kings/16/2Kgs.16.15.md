@@ -1,8 +1,81 @@
+---
+title: 2 Kings 16:15
+type: Verse
+kjv: "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king’s burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to inquire by."
+bsb: "Then King Ahaz commanded Uriah the priest, “Offer on the great altar the morning burnt offering, the evening grain offering, and the king’s burnt offering and grain offering, as well as the burnt offerings, grain offerings, and drink offerings of all the people of the land. Splatter on the altar all the blood of the burnt offerings and sacrifices. But I will use the bronze altar to seek guidance.”"
+hebrew: "וַיְצַוֶּ֣ה הַמֶּֽלֶךְ־ אָ֠חָז אֶת־ אוּרִיָּ֨ה הַכֹּהֵ֜ן לֵאמֹ֗ר עַ֣ל הַמִּזְבֵּ֣חַ הַגָּד֡וֹל הַקְטֵ֣ר אֶת־ עֹֽלַת־ הַבֹּקֶר֩ וְאֶת־ מִנְחַ֨ת הָעֶ֜רֶב וְֽאֶת־ עֹלַ֧ת הַמֶּ֣לֶךְ וְאֶת־ מִנְחָת֗וֹ וְ֠אֵת עֹלַ֞ת כָּל־ עַ֤ם הָאָ֙רֶץ֙ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֔ם וְכָל־ דַּ֥ם עֹלָ֛ה וְכָל־ דַּם־ זֶ֖בַח עָלָ֣יו תִּזְרֹ֑ק וּמִזְבַּ֧ח הַנְּחֹ֛שֶׁת יִֽהְיֶה־ לִּ֖י לְבַקֵּֽר׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0271G]]"
+- "[[H0853]]"
+- "[[H0223G]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H1419A]]"
+- "[[H6999A]]"
+- "[[H5930A]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H6153]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H5262]]"
+- "[[H1818]]"
+- "[[H2077]]"
+- "[[H2236]]"
+- "[[H5178A]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H1239]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **2 Kings 16:15**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king’s burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to inquire [by].
 <small><sub>**BSB:**</sub></small>
 Then King Ahaz commanded Uriah the priest, “Offer on the great altar the morning burnt offering, the evening grain offering, and the king’s burnt offering and grain offering, as well as the burnt offerings, grain offerings, and drink offerings of all the people of the land. Splatter on the altar all the blood of the burnt offerings and sacrifices. But I will use the bronze altar to seek guidance.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַוֶּ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9014\|־]] [[H0271G\|אָ֠חָז]] [[H0853\|אֶת]][[H9014\|־]] [[H0223G\|אוּרִיָּ֨ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֣חַ]] [[H9009\|הַ]][[H1419A\|גָּד֡וֹל]] [[H6999A\|הַקְטֵ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹֽלַת]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּקֶר֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4503G\|מִנְחַ֨ת]] [[H9009\|הָ]][[H6153\|עֶ֜רֶב]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹלַ֧ת]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4503G\|מִנְחָת֗]][[H9023\|וֹ]] [[H9002\|וְ֠]][[H0853\|אֵת]] [[H5930A\|עֹלַ֞ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֤ם]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9002\|וּ]][[H4503G\|מִנְחָתָ֣]][[H9028\|ם]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1818\|דַּ֥ם]] [[H5930A\|עֹלָ֛ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1818\|דַּם]][[H9014\|־]] [[H2077\|זֶ֖בַח]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H2236\|תִּזְרֹ֑ק]] [[H9002\|וּ]][[H4196\|מִזְבַּ֧ח]] [[H9009\|הַ]][[H5178A\|נְּחֹ֛שֶׁת]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H1239\|בַקֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALTAR|ALTAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.14|<< 2 Kings 16:14]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.16|2 Kings 16:16 >>]]</td></tr></table>
 
@@ -52,7 +125,7 @@ Then King Ahaz commanded Uriah the priest, “Offer on the great altar the morni
 | to consult  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1239\|בַקֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Ker<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.14|<< 2 Kings 16:14]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.16|2 Kings 16:16 >>]]</td></tr></table>
 
-[^1]: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and he commanded him  | **<big>[[H9001|וַ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9033|הוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and he commanded him  | **<big>[[H9001|וַ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9033|הוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיְצַוֶּ֣/הו</big></span>**
 

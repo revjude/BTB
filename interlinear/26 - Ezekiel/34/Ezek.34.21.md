@@ -1,8 +1,65 @@
+---
+title: Ezekiel 34:21
+type: Verse
+kjv: "Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;"
+bsb: "Since you shove with flank and shoulder, butting all the weak ones with your horns until you have scattered them abroad,"
+hebrew: "יַ֗עַן בְּצַ֤ד וּבְכָתֵף֙ תֶּהְדֹּ֔פוּ וּבְקַרְנֵיכֶ֥ם תְּנַגְּח֖וּ כָּל־ הַנַּחְל֑וֹת עַ֣ד אֲשֶׁ֧ר הֲפִיצוֹתֶ֛ם אוֹתָ֖נָה אֶל־ הַחֽוּצָה׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3282]]"
+- "[[H9003]]"
+- "[[H6654]]"
+- "[[H9002]]"
+- "[[H3802]]"
+- "[[H1920]]"
+- "[[H7161A]]"
+- "[[H9026]]"
+- "[[H5055]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2470A]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H0853]]"
+- "[[H9039]]"
+- "[[H0413]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:21**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
 <small><sub>**BSB:**</sub></small>
 Since you shove with flank and shoulder, butting all the weak ones with your horns until you have scattered them abroad,
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H9003\|בְּ]][[H6654\|צַ֤ד]] [[H9002\|וּ]][[H9003\|בְ]][[H3802\|כָתֵף֙]] [[H1920\|תֶּהְדֹּ֔פוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H7161A\|קַרְנֵי]][[H9026\|כֶ֥ם]] [[H5055\|תְּנַגְּח֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2470A\|נַּחְל֑וֹת]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁ֧ר]] [[H6327A\|הֲפִיצוֹתֶ֛ם]] [[H0853\|אוֹתָ֖]][[H9039\|נָה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.20|<< Ezekiel 34:20]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.22|Ezekiel 34:22 >>]]</td></tr></table>
 

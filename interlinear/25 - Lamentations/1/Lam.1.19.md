@@ -1,8 +1,66 @@
+---
+title: Lamentations 1:19
+type: Verse
+kjv: "I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls."
+bsb: "I called out to my lovers, but they have betrayed me. My priests and elders perished in the city while they searched for food to keep themselves alive."
+hebrew: "קָרָ֤אתִי לַֽמְאַהֲבַי֙ הֵ֣מָּה רִמּ֔וּנִי כֹּהֲנַ֥י וּזְקֵנַ֖י בָּעִ֣יר גָּוָ֑עוּ כִּֽי־ בִקְשׁ֥וּ אֹ֙כֶל֙ לָ֔מוֹ וְיָשִׁ֖יבוּ אֶת־ נַפְשָֽׁם׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H9030]]"
+- "[[H1992]]"
+- "[[H7411B]]"
+- "[[H3548]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1478]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H0400]]"
+- "[[H9038]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:19**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I called for my lovers, [but] they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
 <small><sub>**BSB:**</sub></small>
 I called out to my lovers, but they have betrayed me. My priests and elders perished in the city while they searched for food to keep themselves alive.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121G\|קָרָ֤אתִי]] [[H9005\|לַֽ]][[H0157G\|מְאַהֲבַ]][[H9030\|י֙]] [[H1992\|הֵ֣מָּה]] [[H7411B\|רִמּ֔וּ]][[H9030\|נִי]] [[H3548\|כֹּהֲנַ֥]][[H9020\|י]] [[H9002\|וּ]][[H2205G\|זְקֵנַ֖]][[H9020\|י]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H1478\|גָּוָ֑עוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1245\|בִקְשׁ֥וּ]] [[H0400\|אֹ֙כֶל֙]] [[H9005\|לָ֔]][[H9038\|מוֹ]] [[H9002\|וְ]][[H7725H\|יָשִׁ֖יבוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשָֽׁ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMINE|FAMINE]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ I called out to my lovers, but they have betrayed me. My priests and elders peri
 | for themselves  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so they may be restored  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725H\|יָשִׁ֖יבוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Shi.vu<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life their  |**<big>&#8207;[[H5315H\|נַפְשָֽׁ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sha<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life their  |**<big>&#8207;[[H5315H\|נַפְשָֽׁ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sha<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
 

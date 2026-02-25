@@ -1,8 +1,61 @@
+---
+title: Daniel 6:27
+type: Verse
+kjv: "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions."
+bsb: "He delivers and rescues; He performs signs and wonders in the heavens and on the earth, for He has rescued Daniel from the power of the lions.”"
+aramaic: "מְשֵׁיזִ֣ב וּמַצִּ֗ל וְעָבֵד֙ אָתִ֣ין וְתִמְהִ֔ין בִּשְׁמַיָּ֖א וּבְאַרְעָ֑א דִּ֚י שֵׁיזִ֣יב לְדָֽנִיֵּ֔אל מִן־ יַ֖ד אַרְיָוָתָֽא׃"
+pericope: "[[Dan.6.25 Darius Honors God|Darius Honors God]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H7804]]"
+- "[[H9002]]"
+- "[[H5338]]"
+- "[[H5648]]"
+- "[[H0852]]"
+- "[[H8540]]"
+- "[[H9003]]"
+- "[[H8065]]"
+- "[[H9010]]"
+- "[[H0772I]]"
+- "[[H1768]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H3028]]"
+- "[[H0744]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:27**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.
 <small><sub>**BSB:**</sub></small>
 He delivers and rescues; He performs signs and wonders in the heavens and on the earth, for He has rescued Daniel from the power of the lions.”
+<small><sub>**Aramaic:**</sub></small>
+[[H7804\|מְשֵׁיזִ֣ב]] [[H9002\|וּ]][[H5338\|מַצִּ֗ל]] [[H9002\|וְ]][[H5648\|עָבֵד֙]] [[H0852\|אָתִ֣ין]] [[H9002\|וְ]][[H8540\|תִמְהִ֔ין]] [[H9003\|בִּ]][[H8065\|שְׁמַיָּ֖]][[H9010\|א]] [[H9002\|וּ]][[H9003\|בְ]][[H0772I\|אַרְעָ֑]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H7804\|שֵׁיזִ֣יב]] [[H9005\|לְ]][[H1841H\|דָֽנִיֵּ֔אל]] [[H4481\|מִן]][[H9014\|־]] [[H3028\|יַ֖ד]] [[H0744\|אַרְיָוָתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.26|<< Daniel 6:26]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.28|Daniel 6:28 >>]]</td></tr></table>
 

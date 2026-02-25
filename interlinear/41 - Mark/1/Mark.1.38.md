@@ -1,10 +1,60 @@
+---
+title: Mark 1:38
+type: Verse
+kjv: "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth."
+bsb: "But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”"
+jesus_said: "Let us go into the next towns, that I may preach there also: for therefore came I forth."
+greek: "Καὶ λέγει αὐτοῖς· ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις ἵνα καὶ ἐκεῖ κηρύξω· εἰς τοῦτο γὰρ ἐξῆλθον.¶"
+pericope: "[[Mark.1.35 Jesus Prays and Preaches|Jesus Prays and Preaches]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0071]]"
+- "[[G0237]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G2969]]"
+- "[[G2443]]"
+- "[[G1563]]"
+- "[[G2784]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1831]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Mark 1:38**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”
-<small><sub>**Literal:**</sub></small>
-And He says to them; let us go another way into those [places] which are having villages so that also there I may preach; for this therefore I have come forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.37|<< Mark 1:37]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.39|Mark 1:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G0071\|ἄγωμεν]]  [[G0237\|ἀλλαχοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2192\|ἐχομένας]]  [[G2969\|κωμοπόλεις]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G1563\|ἐκεῖ]]  [[G2784\|κηρύξω·]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G1831\|ἐξῆλθον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.37|<< Mark 1:37]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.39|Mark 1:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

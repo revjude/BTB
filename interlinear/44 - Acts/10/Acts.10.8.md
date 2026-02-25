@@ -1,10 +1,47 @@
+---
+title: Acts 10:8
+type: Verse
+kjv: "And when he had declared all these things unto them, he sent them to Joppa."
+bsb: "He explained what had happened and sent them to Joppa."
+greek: "καὶ ἐξηγησάμενος ἅπαντα αὐτοῖς, ἀπέστειλεν αὐτοὺς εἰς τὴν Ἰόππην.¶"
+pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1834]]"
+- "[[G0537]]"
+- "[[G0846]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2445]]"
+texts:
+- NKO
+---
+
 **Acts 10:8**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had declared all [these] things unto them, he sent them to Joppa.
 <small><sub>**BSB:**</sub></small>
 He explained what had happened and sent them to Joppa.
-<small><sub>**Literal:**</sub></small>
-and having related all things to them he sent them to <the> Joppa.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.7|<< Acts 10:7]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.9|Acts 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1834\|ἐξηγησάμενος]]  [[G0537\|ἅπαντα]]  [[G0846\|αὐτοῖς,]]  [[G0649\|ἀπέστειλεν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2445\|Ἰόππην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.7|<< Acts 10:7]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.9|Acts 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

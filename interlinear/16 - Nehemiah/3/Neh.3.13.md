@@ -1,8 +1,70 @@
+---
+title: Nehemiah 3:13
+type: Verse
+kjv: "The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate."
+bsb: "The Valley Gate was repaired by Hanun and the residents of Zanoah. They rebuilt it, installed its doors, bolts, and bars, and repaired a thousand cubits of the wall as far as the Dung Gate."
+hebrew: "אֵת֩ שַׁ֨עַר הַגַּ֜יְא הֶחֱזִ֣יק חָנוּן֮ וְיֹשְׁבֵ֣י זָנוֹחַ֒ הֵ֣מָּה בָנ֔וּהוּ וַֽיַּעֲמִ֙ידוּ֙ דַּלְתֹתָ֔יו מַנְעֻלָ֖יו וּבְרִיחָ֑יו וְאֶ֤לֶף אַמָּה֙ בַּחוֹמָ֔ה עַ֖ד שַׁ֥עַר הָשֲׁפֽוֹת׃"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LOCK|LOCK]]"
+- "[[topic ZANOAH|ZANOAH]]"
+strongs:
+- "[[H0853]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H1516M]]"
+- "[[H2388G]]"
+- "[[H2586H]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H2182G]]"
+- "[[H1992]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H1817C]]"
+- "[[H9023]]"
+- "[[H4514]]"
+- "[[H1280]]"
+- "[[H0505G]]"
+- "[[H0520A]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H5704]]"
+- "[[H0830G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:13**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.
 <small><sub>**BSB:**</sub></small>
 The Valley Gate was repaired by Hanun and the residents of Zanoah. They rebuilt it, installed its doors, bolts, and bars, and repaired a thousand cubits of the wall as far as the Dung Gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵת֩]] [[H8179G\|שַׁ֨עַר]] [[H9009\|הַ]][[H1516M\|גַּ֜יְא]] [[H2388G\|הֶחֱזִ֣יק]] [[H2586H\|חָנוּן֮]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H2182G\|זָנוֹחַ֒]] [[H1992\|הֵ֣מָּה]] [[H1129\|בָנ֔וּ]][[H9033\|הוּ]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמִ֙ידוּ֙]] [[H1817C\|דַּלְתֹתָ֔י]][[H9023\|ו]] [[H4514\|מַנְעֻלָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H1280\|בְרִיחָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0505G\|אֶ֤לֶף]] [[H0520A\|אַמָּה֙]] [[H9003\|בַּ]][[H2346G\|חוֹמָ֔ה]] [[H5704\|עַ֖ד]] [[H8179G\|שַׁ֥עַר]] [[H9009\|הָ]][[H0830G\|שֲׁפֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LOCK|LOCK]] • [[topic ZANOAH|ZANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.12|<< Nehemiah 3:12]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.14|Nehemiah 3:14 >>]]</td></tr></table>
 

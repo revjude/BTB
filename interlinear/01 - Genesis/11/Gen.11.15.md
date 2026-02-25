@@ -1,8 +1,65 @@
+---
+title: Genesis 11:15
+type: Verse
+kjv: "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+bsb: "And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters."
+hebrew: "וַֽיְחִי־ שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ עֵ֔בֶר שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃ ס"
+pericope: "[[Gen.11.10 Genealogy from Shem to Abram|Genealogy from Shem to Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic SALAH|SALAH]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9014]]"
+- "[[H7974]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H5677G]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 11:15**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִי]][[H9014\|־]] [[H7974\|שֶׁ֗לַח]] [[H0310A\|אַחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H5677G\|עֵ֔בֶר]] [[H7969\|שָׁלֹ֣שׁ]] [[H8141\|שָׁנִ֔ים]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HEBREW|HEBREW]] • [[topic LONGEVITY|LONGEVITY]] • [[topic SALAH|SALAH]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.14|<< Genesis 11:14]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.16|Genesis 11:16 >>]]</td></tr></table>
 
@@ -21,7 +78,7 @@ And after he had become the father of Eber, Shelah lived 403 years and had other
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֥וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons  |**<big>&#8207;[[H1121A\|בָּנִ֖ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and daughters  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בָנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and daughters  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בָנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.14|<< Genesis 11:14]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.16|Genesis 11:16 >>]]</td></tr></table>
 
 

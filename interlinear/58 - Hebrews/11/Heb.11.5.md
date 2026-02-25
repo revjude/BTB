@@ -1,10 +1,65 @@
+---
+title: Hebrews 11:5
+type: Verse
+kjv: "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God."
+bsb: "By faith Enoch was taken up so that he did not see death: “He could not be found, because God had taken him away.” For before he was taken, he was commended as one who pleased God."
+greek: "Πίστει Ἑνὼχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον καὶ οὐχ ηὑρίσκετο διότι μετέθηκεν αὐτὸν ὁ θεός· πρὸ γὰρ τῆς μεταθέσεως αὐτοῦ μεμαρτύρηται εὐαρεστηκέναι τῷ θεῷ·"
+pericope: "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic TRANSLATION|TRANSLATION]]"
+strongs:
+- "[[G4102G]]"
+- "[[G1802]]"
+- "[[G3346]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G2288]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G1360]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G4253]]"
+- "[[G1063]]"
+- "[[G3331]]"
+- "[[G3140]]"
+- "[[G2100]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 11:5**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
 <small><sub>**BSB:**</sub></small>
 By faith Enoch was taken up so that he did not see death: “He could not be found, because God had taken him away.” For before he was taken, he was commended as one who pleased God.
-<small><sub>**Literal:**</sub></small>
-By faith Enoch was translated <the> not to see death and not was he found because took up him <the> God; Before for the translation of him he has been commended to have pleased <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.4|<< Hebrews 11:4]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.6|Hebrews 11:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G1802\|Ἑνὼχ]]  [[G3346\|μετετέθη]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G1492H\|ἰδεῖν]]  [[G2288\|θάνατον]]  [[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G2147\|ηὑρίσκετο]]  [[G1360\|διότι]]  [[G3346\|μετέθηκεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]  [[G4253\|πρὸ]]  [[G1063\|γὰρ]]  [[G3588\|τῆς]]  [[G3331\|μεταθέσεως]]  [[G0846\|αὐτοῦ]]  [[G3140\|μεμαρτύρηται]]  [[G2100\|εὐαρεστηκέναι]]  [[G3588\|τῷ]]  [[G2316\|θεῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic ENOCH|ENOCH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic TRANSLATION|TRANSLATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.4|<< Hebrews 11:4]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.6|Hebrews 11:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:5** is...
 > $\quad$ referencing: [[LXX.Gen.5.24|Gen 5:24]]

@@ -1,8 +1,65 @@
+---
+title: Psalm 148:13
+type: Verse
+kjv: "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven."
+bsb: "Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens."
+hebrew: "יְהַלְל֤וּ׀ אֶת־ שֵׁ֬ם יְהוָ֗ה כִּֽי־ נִשְׂגָּ֣ב שְׁמ֣וֹ לְבַדּ֑וֹ ה֝וֹד֗וֹ עַל־ אֶ֥רֶץ וְשָׁמָֽיִם׃"
+pericope: "[[Ps.148.1 Praise the LORD from the Heavens|Praise the LORD from the Heavens]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 148
+book/chapter: "[[Ps.148|Psalm 148]]"
+chronological_order: 896
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1984B]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H7682]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H1935]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 148:13**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise the name of the LORD: for his name alone is excellent; his glory [is] above the earth and heaven.
 <small><sub>**BSB:**</sub></small>
 Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|יְהַלְל֤וּ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֬ם]] [[H3068G\|יְהוָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7682\|נִשְׂגָּ֣ב]] [[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H9005\|לְ]][[H0905H\|בַדּ֑]][[H9033\|וֹ]] [[H1935\|ה֝וֹד֗]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H9002\|וְ]][[H8064\|שָׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic OLD AGE|OLD AGE]] • [[topic PRAISE|PRAISE]] • [[topic RULERS|RULERS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.12|<< Psalms 148:12]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.14|Psalms 148:14 >>]]</td></tr></table>
 

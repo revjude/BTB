@@ -1,8 +1,55 @@
+---
+title: Job 16:3
+type: Verse
+kjv: "Shall vain words have an end? or what emboldeneth thee that thou answerest?"
+bsb: "Is there no end to your long-winded speeches? What provokes you to continue testifying?"
+hebrew: "הֲקֵ֥ץ לְדִבְרֵי־ ר֑וּחַ א֥וֹ מַה־ יַּ֝מְרִֽיצְךָ֗ כִּ֣י תַעֲנֶֽה׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H9008]]"
+- "[[H7093]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H0176A]]"
+- "[[H4100]]"
+- "[[H4834]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:3**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall vain words have an end? or what emboldeneth thee that thou answerest?
 <small><sub>**BSB:**</sub></small>
 Is there no end to your long-winded speeches? What provokes you to continue testifying?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H7093\|קֵ֥ץ]] [[H9005\|לְ]][[H1697G\|דִבְרֵי]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H0176A\|א֥וֹ]] [[H4100\|מַה]][[H9014\|־]] [[H4834\|יַּ֝מְרִֽיצְ]][[H9031\|ךָ֗]] [[H3588A\|כִּ֣י]] [[H6030B\|תַעֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.2|<< Job 16:2]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.4|Job 16:4 >>]]</td></tr></table>
 

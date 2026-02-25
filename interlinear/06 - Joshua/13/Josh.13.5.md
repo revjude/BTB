@@ -1,8 +1,61 @@
+---
+title: Joshua 13:5
+type: Verse
+kjv: "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baalgad under mount Hermon unto the entering into Hamath."
+bsb: "the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Mount Hermon to Lebo-hamath."
+hebrew: "וְהָאָ֣רֶץ הַגִּבְלִ֗י וְכָל־ הַלְּבָנוֹן֙ מִזְרַ֣ח הַשֶּׁ֔מֶשׁ מִבַּ֣עַל גָּ֔ד תַּ֖חַת הַר־ חֶרְמ֑וֹן עַ֖ד לְב֥וֹא חֲמָֽת׃"
+pericope: "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BAAL-GAD|BAAL-GAD]]"
+- "[[topic GEBAL|GEBAL]]"
+- "[[topic GESHUR|GESHUR]]"
+- "[[topic HAMATH|HAMATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1382]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3844G]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9006]]"
+- "[[H1171]]"
+- "[[H8478G]]"
+- "[[H2022G]]"
+- "[[H2768]]"
+- "[[H5704]]"
+- "[[H0935H]]"
+- "[[H2574G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:5**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land of the Giblites, and all Lebanon, toward the sunrising, from Baalgad under mount Hermon unto the entering into Hamath.
 <small><sub>**BSB:**</sub></small>
 the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Mount Hermon to Lebo-hamath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H1382\|גִּבְלִ֗י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3844G\|לְּבָנוֹן֙]] [[H4217H\|מִזְרַ֣ח]] [[H9009\|הַ]][[H8121\|שֶּׁ֔מֶשׁ]] [[H9006\|מִ]][[H1171\|בַּ֣עַל]] [[H1171\|גָּ֔ד]] [[H8478G\|תַּ֖חַת]] [[H2022G\|הַר]][[H9014\|־]] [[H2768\|חֶרְמ֑וֹן]] [[H5704\|עַ֖ד]] [[H0935H\|לְב֥וֹא]] [[H2574G\|חֲמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-GAD|BAAL-GAD]] • [[topic GEBAL|GEBAL]] • [[topic GESHUR|GESHUR]] • [[topic HAMATH|HAMATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.4|<< Joshua 13:4]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.6|Joshua 13:6 >>]]</td></tr></table>
 

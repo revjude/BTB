@@ -1,8 +1,66 @@
+---
+title: 2 Kings 16:13
+type: Verse
+kjv: "And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar."
+bsb: "He offered his burnt offering and his grain offering, poured out his drink offering, and splattered the blood of his peace offerings on the altar."
+hebrew: "וַיַּקְטֵ֤ר אֶת־ עֹֽלָתוֹ֙ וְאֶת־ מִנְחָת֔וֹ וַיַּסֵּ֖ךְ אֶת־ נִסְכּ֑וֹ וַיִּזְרֹ֛ק אֶת־ דַּֽם־ הַשְּׁלָמִ֥ים אֲשֶׁר־ ל֖וֹ עַל־ הַמִּזְבֵּֽחַ׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIJAH|URIJAH]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H5258A]]"
+- "[[H5262]]"
+- "[[H2236]]"
+- "[[H1818]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:13**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.
 <small><sub>**BSB:**</sub></small>
 He offered his burnt offering and his grain offering, poured out his drink offering, and splattered the blood of his peace offerings on the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6999A\|יַּקְטֵ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹֽלָת]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4503G\|מִנְחָת֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5258A\|יַּסֵּ֖ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H5262\|נִסְכּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2236\|יִּזְרֹ֛ק]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דַּֽם]][[H9014\|־]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TEMPLE|TEMPLE]] • [[topic URIJAH|URIJAH]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.12|<< 2 Kings 16:12]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.14|2 Kings 16:14 >>]]</td></tr></table>
 

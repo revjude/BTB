@@ -1,10 +1,52 @@
+---
+title: James 1:9
+type: Verse
+kjv: "Let the brother of low degree rejoice in that he is exalted:"
+bsb: "The brother in humble circumstances should exult in his high position."
+greek: "καυχάσθω δὲ ὁ ἀδελφὸς ὁ ταπεινὸς ἐν τῷ ὕψει αὐτοῦ,"
+pericope: "[[Jas.1.2 Rejoicing in Trials|Rejoicing in Trials]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2744]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G5011]]"
+- "[[G1722]]"
+- "[[G5311]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **James 1:9**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let the brother of low degree rejoice in that he is exalted:
 <small><sub>**BSB:**</sub></small>
 The brother in humble circumstances should exult in his high position.
-<small><sub>**Literal:**</sub></small>
-should boast however the brother <the> of low degree in the exaltation of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.8|<< James 1:8]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.10|James 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2744\|καυχάσθω]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G3588\|ὁ]]  [[G5011\|ταπεινὸς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5311\|ὕψει]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic POOR|POOR]] • [[topic RESIGNATION|RESIGNATION]] • [[topic RICH, THE|RICH, THE]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.8|<< James 1:8]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.10|James 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

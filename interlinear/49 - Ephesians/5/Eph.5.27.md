@@ -1,10 +1,65 @@
+---
+title: Ephesians 5:27
+type: Verse
+kjv: "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish."
+bsb: "and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless."
+greek: "ἵνα παραστήσῃ αὐτὸς ἑαυτῷ ἔνδοξον τὴν ἐκκλησίαν μὴ ἔχουσαν σπίλον ἢ ῥυτίδα ἤ τι τῶν τοιούτων, ἀλλ᾽ ἵνα ᾖ ἁγία καὶ ἄμωμος."
+pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2443]]"
+- "[[G3936]]"
+- "[[G0846]]"
+- "[[G1438]]"
+- "[[G1741]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G4696]]"
+- "[[G2228]]"
+- "[[G4512]]"
+- "[[G5100]]"
+- "[[G5108]]"
+- "[[G0235]]"
+- "[[G1510]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G0299]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 5:27**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 <small><sub>**BSB:**</sub></small>
 and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless.
-<small><sub>**Literal:**</sub></small>
-so that may present He himself to Himself in glory the church not having spot or wrinkle or any of the such things, but that it may be holy and blameless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.26|<< Ephesians 5:26]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.28|Ephesians 5:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3936\|παραστήσῃ]]  [[G0846\|αὐτὸς]]  [[G1438\|ἑαυτῷ]]  [[G1741\|ἔνδοξον]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G3361\|μὴ]]  [[G2192\|ἔχουσαν]]  [[G4696\|σπίλον]]  [[G2228\|ἢ]]  [[G4512\|ῥυτίδα]]  [[G2228\|ἤ]]  [[G5100\|τι]]  [[G3588\|τῶν]]  [[G5108\|τοιούτων,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G1510\|ᾖ]]  [[G0040G\|ἁγία]]  [[G2532\|καὶ]]  [[G0299\|ἄμωμος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic CHURCH|CHURCH]] • [[topic HUSBAND|HUSBAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.26|<< Ephesians 5:26]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.28|Ephesians 5:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

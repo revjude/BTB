@@ -1,8 +1,52 @@
+---
+title: Job 36:25
+type: Verse
+kjv: "Every man may see it; man may behold it afar off."
+bsb: "All mankind has seen it; men behold it from afar."
+hebrew: "כָּל־ אָדָ֥ם חָֽזוּ־ ב֑וֹ אֱ֝נ֗וֹשׁ יַבִּ֥יט מֵרָחֽוֹק׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H2372]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H5027]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:25**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man may see it; man may behold [it] afar off.
 <small><sub>**BSB:**</sub></small>
 All mankind has seen it; men behold it from afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0120G\|אָדָ֥ם]] [[H2372\|חָֽזוּ]][[H9014\|־]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H0582\|אֱ֝נ֗וֹשׁ]] [[H5027\|יַבִּ֥יט]] [[H9006\|מֵ]][[H7350\|רָחֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.24|<< Job 36:24]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.26|Job 36:26 >>]]</td></tr></table>
 

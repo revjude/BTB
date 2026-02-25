@@ -1,8 +1,52 @@
+---
+title: Song of Solomon 5:3
+type: Verse
+kjv: "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
+bsb: "I have taken off my robe—must I put it back on? I have washed my feet—must I soil them again?"
+hebrew: "פָּשַׁ֙טְתִּי֙ אֶת־ כֻּתָּנְתִּ֔י אֵיכָ֖כָה אֶלְבָּשֶׁ֑נָּה רָחַ֥צְתִּי אֶת־ רַגְלַ֖י אֵיכָ֥כָה אֲטַנְּפֵֽם׃"
+pericope: "[[Song.5.2 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+strongs:
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3801]]"
+- "[[H9020]]"
+- "[[H0349C]]"
+- "[[H3847]]"
+- "[[H9034]]"
+- "[[H7364]]"
+- "[[H7272]]"
+- "[[H2936]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:3**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?
 <small><sub>**BSB:**</sub></small>
 I have taken off my robe—must I put it back on? I have washed my feet—must I soil them again?
+<small><sub>**Hebrew:**</sub></small>
+[[H6584\|פָּשַׁ֙טְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3801\|כֻּתָּנְתִּ֔]][[H9020\|י]] [[H0349C\|אֵיכָ֖כָה]] [[H3847\|אֶלְבָּשֶׁ֑]][[H9034\|נָּה]] [[H7364\|רָחַ֥צְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלַ֖]][[H9020\|י]] [[H0349C\|אֵיכָ֥כָה]] [[H2936\|אֲטַנְּפֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.2|<< Song of Solomon 5:2]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.4|Song of Solomon 5:4 >>]]</td></tr></table>
 

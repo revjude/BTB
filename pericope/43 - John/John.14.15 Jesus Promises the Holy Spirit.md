@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Promises the Holy Spirit
+type: Pericope
 pericope: "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 14
 book/chapter: "[[John.14|John 14]]"
-genre:
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.14.15]]"
 - "[[John.14.16]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.14.26]]"
 ---
 
-[[John.14|John 14:15 - John 14:26]]
+<small>[[John.14|John 14:15-26]]</small>
 *Jesus Promises the Holy Spirit*
 
 [[John.14.15|15]] If ye love me, keep my commandments.

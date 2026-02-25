@@ -1,10 +1,57 @@
+---
+title: Ephesians 4:9
+type: Verse
+kjv: "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+bsb: "What does “He ascended” mean, except that He also descended to the lower parts of the earth?"
+greek: "τὸ δὲ ἀνέβη, τί ἐστιν εἰ μὴ ὅτι καὶ κατέβη πρῶτον εἰς τὰ κατώτερα μέρη τῆς γῆς;"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0305]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G4413H]]"
+- "[[G1519]]"
+- "[[G2737]]"
+- "[[G3313]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- K
+---
+
 **Ephesians 4:9**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
 <small><sub>**BSB:**</sub></small>
 What does “He ascended” mean, except that He also descended to the lower parts of the earth?
-<small><sub>**Literal:**</sub></small>
-<the> And He ascended, what is [this] only except that also He descended first into the lower regions of the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.8|<< Ephesians 4:8]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.10|Ephesians 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G0305\|ἀνέβη,]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G2597\|κατέβη]]  [[G4413H\|πρῶτον]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G2737\|κατώτερα]]  [[G3313\|μέρη]]  [[G3588\|τῆς]]  [[G1093G\|γῆς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.8|<< Ephesians 4:8]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.10|Ephesians 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

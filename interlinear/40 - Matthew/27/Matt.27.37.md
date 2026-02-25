@@ -1,10 +1,60 @@
+---
+title: Matthew 27:37
+type: Verse
+kjv: "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
+bsb: "Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS."
+greek: "καὶ ἐπέθηκαν ἐπάνω τῆς κεφαλῆς αὐτοῦ τὴν αἰτίαν αὐτοῦ γεγραμμένην· οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων.¶"
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INSCRIPTIONS|INSCRIPTIONS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G1883]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G0156]]"
+- "[[G1125]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2424G]]"
+- "[[G0935]]"
+- "[[G2453]]"
+texts:
+- NKO
+---
+
 **Matthew 27:37**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS.
-<small><sub>**Literal:**</sub></small>
-And they put up over the head of Him the accusation of Him written: This is Jesus the King of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.36|<< Matthew 27:36]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.38|Matthew 27:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2007\|ἐπέθηκαν]]  [[G1883\|ἐπάνω]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G0156\|αἰτίαν]]  [[G0846\|αὐτοῦ]]  [[G1125\|γεγραμμένην·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INSCRIPTIONS|INSCRIPTIONS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]] • [[topic SOLDIERS|SOLDIERS]] • [[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.36|<< Matthew 27:36]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.38|Matthew 27:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

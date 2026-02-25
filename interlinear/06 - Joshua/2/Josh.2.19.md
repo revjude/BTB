@@ -1,8 +1,69 @@
+---
+title: Joshua 2:19
+type: Verse
+kjv: "And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him."
+bsb: "If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads."
+hebrew: "וְהָיָ֡ה כֹּ֣ל אֲשֶׁר־ יֵצֵא֩ מִדַּלְתֵ֨י בֵיתֵ֧ךְ׀ הַח֛וּצָה דָּמ֥וֹ בְרֹאשׁ֖וֹ וַאֲנַ֣חְנוּ נְקִיִּ֑ם וְ֠כֹל אֲשֶׁ֨ר יִֽהְיֶ֤ה אִתָּךְ֙ בַּבַּ֔יִת דָּמ֣וֹ בְרֹאשֵׁ֔נוּ אִם־ יָ֖ד תִּֽהְיֶה־ בּֽוֹ׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H1817C]]"
+- "[[H1004B]]"
+- "[[H9022]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H5355A]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H9025]]"
+- "[[H0518A]]"
+- "[[H3027H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:19**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] whosoever shall go out of the doors of thy house into the street, his blood [shall be] upon his head, and we [will be] guiltless: and whosoever shall be with thee in the house, his blood [shall be] on our head, if [any] hand be upon him.
 <small><sub>**BSB:**</sub></small>
 If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יֵצֵא֩]] [[H9006\|מִ]][[H1817C\|דַּלְתֵ֨י]] [[H1004B\|בֵיתֵ֧]][[H9022\|ךְ]][[H9015\|׀]] [[H9009\|הַ]][[H2351\|ח֛וּצָ]][[H9011\|ה]] [[H1818\|דָּמ֥]][[H9023\|וֹ]] [[H9003\|בְ]][[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H5355A\|נְקִיִּ֑ם]] [[H9002\|וְ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|יִֽהְיֶ֤ה]] [[H0854\|אִתָּ]][[H9032\|ךְ֙]] [[H9003\|בַּ]][[H1004B\|בַּ֔יִת]] [[H1818\|דָּמ֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H7218A\|רֹאשֵׁ֔]][[H9025\|נוּ]] [[H0518A\|אִם]][[H9014\|־]] [[H3027H\|יָ֖ד]] [[H1961\|תִּֽהְיֶה]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.18|<< Joshua 2:18]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.20|Joshua 2:20 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 3:5
+type: Verse
+kjv: "Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?"
+bsb: "What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role."
+greek: "Τί οὖν ἐστιν Ἀπολλῶς τί δέ ἐστιν Παῦλος; ἀλλ᾽ ἢ διάκονοι δι᾽ ὧν ἐπιστεύσατε, καὶ ἑκάστῳ ὡς ὁ κύριος ἔδωκεν."
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic DEACON|DEACON]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G0625]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G0235]]"
+- "[[G2228]]"
+- "[[G1249]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G4100]]"
+- "[[G2532]]"
+- "[[G1538]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1325]]"
+texts:
+- N(k)O
+- NKO
+- no
+- K
+---
+
 **1 Corinthians 3:5**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who then is Paul, and who [is] Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 <small><sub>**BSB:**</sub></small>
 What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role.
-<small><sub>**Literal:**</sub></small>
-who then is Apollos who now is Paul other than Servants through whom you believed, also to each as the Lord has given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.4|<< 1 Corinthians 3:4]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.6|1 Corinthians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G1510\|ἐστιν]]  [[G0625\|Ἀπολλῶς]]  [[G5101\|τί]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G3972G\|Παῦλος;]]  [[G0235\|ἀλλ᾽]]  [[G2228\|ἢ]]  [[G1249\|διάκονοι]]  [[G1223\|δι᾽]]  [[G3739\|ὧν]]  [[G4100\|ἐπιστεύσατε,]]  [[G2532\|καὶ]]  [[G1538\|ἑκάστῳ]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1325\|ἔδωκεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic DEACON|DEACON]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.4|<< 1 Corinthians 3:4]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.6|1 Corinthians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

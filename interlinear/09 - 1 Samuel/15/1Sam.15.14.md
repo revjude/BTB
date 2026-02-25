@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 15:14
+type: Verse
+kjv: "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?"
+bsb: "But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”"
+hebrew: "וַיֹּ֣אמֶר שְׁמוּאֵ֔ל וּמֶ֛ה קֽוֹל־ הַצֹּ֥אן הַזֶּ֖ה בְּאָזְנָ֑י וְק֣וֹל הַבָּקָ֔ר אֲשֶׁ֥ר אָנֹכִ֖י שֹׁמֵֽעַ׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H6963H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9020]]"
+- "[[H1241]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:14**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said, What [meaneth] then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
 <small><sub>**BSB:**</sub></small>
 But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H9002\|וּ]][[H4100\|מֶ֛ה]] [[H6963H\|קֽוֹל]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֥אן]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H0241G\|אָזְנָ֑]][[H9020\|י]] [[H9002\|וְ]][[H6963H\|ק֣וֹל]] [[H9009\|הַ]][[H1241\|בָּקָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H8085G\|שֹׁמֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.13|<< 1 Samuel 15:13]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.15|1 Samuel 15:15 >>]]</td></tr></table>
 

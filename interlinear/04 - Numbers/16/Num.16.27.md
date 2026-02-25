@@ -1,8 +1,69 @@
+---
+title: Numbers 16:27
+type: Verse
+kjv: "So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children."
+bsb: "So they moved away from the dwellings of Korah, Dathan, and Abiram. Meanwhile, Dathan and Abiram had come out and stood at the entrances to their tents with their wives and children and infants."
+hebrew: "וַיֵּעָל֗וּ מֵעַ֧ל מִשְׁכַּן־ קֹ֛רֶח דָּתָ֥ן וַאֲבִירָ֖ם מִסָּבִ֑יב וְדָתָ֨ן וַאֲבִירָ֜ם יָצְא֣וּ נִצָּבִ֗ים פֶּ֚תַח אָֽהֳלֵיהֶ֔ם וּנְשֵׁיהֶ֥ם וּבְנֵיהֶ֖ם וְטַפָּֽם׃"
+pericope: "[[Num.16.23 Moses Separates the People|Moses Separates the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4908]]"
+- "[[H9014]]"
+- "[[H7141I]]"
+- "[[H1885]]"
+- "[[H9002]]"
+- "[[H0048G]]"
+- "[[H5439G]]"
+- "[[H3318G]]"
+- "[[H5324]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H9028]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:27**<big><big>[[Num.16.23 Moses Separates the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
 <small><sub>**BSB:**</sub></small>
 So they moved away from the dwellings of Korah, Dathan, and Abiram. Meanwhile, Dathan and Abiram had come out and stood at the entrances to their tents with their wives and children and infants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יֵּעָל֗וּ]] [[H9006\|מֵ]][[H5921A\|עַ֧ל]] [[H4908\|מִשְׁכַּן]][[H9014\|־]] [[H7141I\|קֹ֛רֶח]] [[H1885\|דָּתָ֥ן]] [[H9002\|וַ]][[H0048G\|אֲבִירָ֖ם]] [[H9006\|מִ]][[H5439G\|סָּבִ֑יב]] [[H9002\|וְ]][[H1885\|דָתָ֨ן]] [[H9002\|וַ]][[H0048G\|אֲבִירָ֜ם]] [[H3318G\|יָצְא֣וּ]] [[H5324\|נִצָּבִ֗ים]] [[H6607\|פֶּ֚תַח]] [[H0168G\|אָֽהֳלֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֥ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H2945\|טַפָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.26|<< Numbers 16:26]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.28|Numbers 16:28 >>]]</td></tr></table>
 

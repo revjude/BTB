@@ -1,8 +1,68 @@
+---
+title: Exodus 29:36
+type: Verse
+kjv: "And thou shalt offer every day a bullock for a sin offering for atonement: and thou shalt cleanse the altar, when thou hast made an atonement for it, and thou shalt anoint it, to sanctify it."
+bsb: "Sacrifice a bull as a sin offering each day for atonement. Purify the altar by making atonement for it, and anoint it to consecrate it."
+hebrew: "וּפַ֨ר חַטָּ֜את תַּעֲשֶׂ֤ה לַיּוֹם֙ עַל־ הַכִּפֻּרִ֔ים וְחִטֵּאתָ֙ עַל־ הַמִּזְבֵּ֔חַ בְּכַפֶּרְךָ֖ עָלָ֑יו וּמָֽשַׁחְתָּ֥ אֹת֖וֹ לְקַדְּשֽׁוֹ׃"
+pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BULLOCK|BULLOCK]]"
+strongs:
+- "[[H9002]]"
+- "[[H6499]]"
+- "[[H2403H]]"
+- "[[H6213I]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3725]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H4196]]"
+- "[[H9003]]"
+- "[[H3722A]]"
+- "[[H9041]]"
+- "[[H9033]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:36**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt offer every day a bullock [for] a sin offering for atonement: and thou shalt cleanse the altar, when thou hast made an atonement for it, and thou shalt anoint it, to sanctify it.
 <small><sub>**BSB:**</sub></small>
 Sacrifice a bull as a sin offering each day for atonement. Purify the altar by making atonement for it, and anoint it to consecrate it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6499\|פַ֨ר]] [[H2403H\|חַטָּ֜את]] [[H6213I\|תַּעֲשֶׂ֤ה]] [[H9005\|לַ]][[H3117G\|יּוֹם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3725\|כִּפֻּרִ֔ים]] [[H9001\|וְ]][[H2398\|חִטֵּאתָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9003\|בְּ]][[H3722A\|כַפֶּרְ]][[H9041\|ךָ֖]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וּ]][[H4886\|מָֽשַׁחְתָּ֥]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H6942G\|קַדְּשֽׁ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BULLOCK|BULLOCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.35|<< Exodus 29:35]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.37|Exodus 29:37 >>]]</td></tr></table>
 

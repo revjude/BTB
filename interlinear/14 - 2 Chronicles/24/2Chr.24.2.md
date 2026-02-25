@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 24:2
+type: Verse
+kjv: "And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest."
+bsb: "And Joash did what was right in the eyes of the LORD all the days of Jehoiada the priest."
+hebrew: "וַיַּ֧עַשׂ יוֹאָ֛שׁ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה כָּל־ יְמֵ֖י יְהוֹיָדָ֥ע הַכֹּהֵֽן׃"
+pericope: "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3101I]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H3077H]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:2**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joash did [that which was] right in the sight of the LORD all the days of Jehoiada the priest.
 <small><sub>**BSB:**</sub></small>
 And Joash did what was right in the eyes of the LORD all the days of Jehoiada the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֧עַשׂ]] [[H3101I\|יוֹאָ֛שׁ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֖י]] [[H3077H\|יְהוֹיָדָ֥ע]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.1|<< 2 Chronicles 24:1]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.3|2 Chronicles 24:3 >>]]</td></tr></table>
 

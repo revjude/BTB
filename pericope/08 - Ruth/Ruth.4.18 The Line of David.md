@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Line of David
+type: Pericope
 pericope: "[[Ruth.4.18 The Line of David|The Line of David]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 4
 book/chapter: "[[Ruth.4|Ruth 4]]"
-genre:
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 5
 verses:
 - "[[Ruth.4.18]]"
 - "[[Ruth.4.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ruth.4.22]]"
 ---
 
-[[Ruth.4|Ruth 4:18 - Ruth 4:22]]
+<small>[[Ruth.4|Ruth 4:18-22]]</small>
 *The Line of David*
 
 [[Ruth.4.18|18]] Now these \[are\] the generations of Pharez: Pharez begat Hezron,

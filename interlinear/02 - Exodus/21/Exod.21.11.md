@@ -1,8 +1,66 @@
+---
+title: Exodus 21:11
+type: Verse
+kjv: "And if he do not these three unto her, then shall she go out free without money."
+bsb: "If, however, he does not provide her with these three things, she is free to go without monetary payment."
+hebrew: "וְאִם־ שְׁלָ֨שׁ־ אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃ ס"
+pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H0428]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H2600]]"
+- "[[H0369]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 21:11**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he do not these three unto her, then shall she go out free without money.
 <small><sub>**BSB:**</sub></small>
 If, however, he does not provide her with these three things, she is free to go without monetary payment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7969\|שְׁלָ֨שׁ]][[H9014\|־]] [[H0428\|אֵ֔לֶּה]] [[H3808\|לֹ֥א]] [[H6213A\|יַעֲשֶׂ֖ה]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H3318G\|יָצְאָ֥ה]] [[H2600\|חִנָּ֖ם]] [[H0369\|אֵ֥ין]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DIVORCE|DIVORCE]] • [[topic MONEY|MONEY]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.10|<< Exodus 21:10]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.12|Exodus 21:12 >>]]</td></tr></table>
 
@@ -17,7 +75,7 @@ If, however, he does not provide her with these three things, she is free to go 
 | and she will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצְאָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.tze.'Ah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | without paying  |**<big>&#8207;[[H2600\|חִנָּ֖ם]]&#8207; </big>**| chi.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| money  |**<big>&#8207;[[H3701G\|כָּֽסֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| money  |**<big>&#8207;[[H3701G\|כָּֽסֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.10|<< Exodus 21:10]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.12|Exodus 21:12 >>]]</td></tr></table>
 
 

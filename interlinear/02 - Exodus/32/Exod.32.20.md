@@ -1,8 +1,73 @@
+---
+title: Exodus 32:20
+type: Verse
+kjv: "And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it upon the water, and made the children of Israel drink of it."
+bsb: "Then he took the calf they had made, burned it in the fire, ground it to powder, and scattered the powder over the face of the water. Then he forced the Israelites to drink it."
+hebrew: "וַיִּקַּ֞ח אֶת־ הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר־ דָּ֑ק וַיִּ֙זֶר֙ עַל־ פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת־ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5695]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H2912]]"
+- "[[H5704]]"
+- "[[H1854]]"
+- "[[H2219]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4325G]]"
+- "[[H8248H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:20**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the calf which they had made, and burnt [it] in the fire, and ground [it] to powder, and strawed [it] upon the water, and made the children of Israel drink [of it].
 <small><sub>**BSB:**</sub></small>
 Then he took the calf they had made, burned it in the fire, ground it to powder, and scattered the powder over the face of the water. Then he forced the Israelites to drink it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5695\|עֵ֨גֶל]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשׂוּ֙]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֣ף]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9001\|וַ]][[H2912\|יִּטְחַ֖ן]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1854\|דָּ֑ק]] [[H9001\|וַ]][[H2219\|יִּ֙זֶר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9001\|וַ]][[H8248H\|יַּ֖שְׁקְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL|ISRAEL]] • [[topic REPROOF|REPROOF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.19|<< Exodus 32:19]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.21|Exodus 32:21 >>]]</td></tr></table>
 

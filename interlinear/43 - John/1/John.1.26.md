@@ -1,10 +1,60 @@
+---
+title: John 1:26
+type: Verse
+kjv: "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;"
+bsb: "“I baptize with water,” John replied, “but among you stands One you do not know."
+greek: "ἀπεκρίθη αὐτοῖς ὁ Ἰωάννης λέγων· ἐγὼ βαπτίζω ἐν ὕδατι· μέσος δὲ ὑμῶν ἕστηκεν ὃν ὑμεῖς οὐκ οἴδατε,"
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G0907]]"
+- "[[G1722]]"
+- "[[G5204]]"
+- "[[G3319]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G2476]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G6063]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **John 1:26**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
 <small><sub>**BSB:**</sub></small>
 “I baptize with water,” John replied, “but among you stands One you do not know.
-<small><sub>**Literal:**</sub></small>
-Answered them <the> John saying; I myself baptize with water; [in the] midst now of you he has stood whom you yourselves not know,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.25|<< John 1:25]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.27|John 1:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης]]  [[G3004G\|λέγων·]]  [[G1473\|ἐγὼ]]  [[G0907\|βαπτίζω]]  [[G1722\|ἐν]]  [[G5204\|ὕδατι·]]  [[G3319\|μέσος]]  [[G1161\|δὲ]]  [[G4771\|ὑμῶν]]  [[G2476\|ἕστηκεν]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.25|<< John 1:25]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.27|John 1:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

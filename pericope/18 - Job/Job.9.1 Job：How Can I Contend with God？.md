@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job：How Can I Contend with God？
+type: Pericope
 pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 9
 book/chapter: "[[Job.9|Job 9]]"
-genre:
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 35
 verses:
 - "[[Job.9.1]]"
 - "[[Job.9.2]]"
@@ -54,7 +61,7 @@ verses:
 - "[[Job.9.35]]"
 ---
 
-[[Job.9|Job 9:1 - Job 9:35]]
+<small>[[Job.9|Job 9:1-35]]</small>
 *Job：How Can I Contend with God？*
 
 [[Job.9.1|1]] Then Job answered and said,

@@ -1,10 +1,55 @@
+---
+title: Luke 2:18
+type: Verse
+kjv: "And all they that heard it wondered at those things which were told them by the shepherds."
+bsb: "And all who heard it were amazed at what the shepherds said to them."
+greek: "καὶ πάντες οἱ ἀκούσαντες ἐθαύμασαν περὶ τῶν λαληθέντων ὑπὸ τῶν ποιμένων πρὸς αὐτούς.¶"
+pericope: "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G2296]]"
+- "[[G4012]]"
+- "[[G2980]]"
+- "[[G5259G]]"
+- "[[G4166]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 2:18**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all they that heard [it] wondered at those things which were told them by the shepherds.
 <small><sub>**BSB:**</sub></small>
 And all who heard it were amazed at what the shepherds said to them.
-<small><sub>**Literal:**</sub></small>
-And all those having heard they marveled concerning the [things] having been spoken by the shepherds to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.17|<< Luke 2:17]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.19|Luke 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0191\|ἀκούσαντες]]  [[G2296\|ἐθαύμασαν]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G2980\|λαληθέντων]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G4166\|ποιμένων]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic SHEPHERD|SHEPHERD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.17|<< Luke 2:17]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.19|Luke 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Acts 17:3
+type: Verse
+kjv: "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ."
+bsb: "explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared."
+greek: "διανοίγων καὶ παρατιθέμενος ὅτι τὸν χριστὸν ἔδει παθεῖν καὶ ἀναστῆναι ἐκ νεκρῶν καὶ ὅτι οὗτός ἐστιν ὁ χριστὸς ὁ Ἰησοῦς ὃν ἐγὼ καταγγέλλω ὑμῖν."
+pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1272]]"
+- "[[G2532]]"
+- "[[G3908]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G1163]]"
+- "[[G3958]]"
+- "[[G0450]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2605]]"
+- "[[G4771]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 17:3**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.
 <small><sub>**BSB:**</sub></small>
 explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared.
-<small><sub>**Literal:**</sub></small>
-opening and setting forth that the Christ it was being necessary to have suffered and to have risen out from [the] dead and that this is the Christ <the> Jesus whom I myself preach to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.2|<< Acts 17:2]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.4|Acts 17:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1272\|διανοίγων]]  [[G2532\|καὶ]]  [[G3908\|παρατιθέμενος]]  [[G3754G\|ὅτι]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G1163\|ἔδει]]  [[G3958\|παθεῖν]]  [[G2532\|καὶ]]  [[G0450\|ἀναστῆναι]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3739\|ὃν]]  [[G1473\|ἐγὼ]]  [[G2605\|καταγγέλλω]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.2|<< Acts 17:2]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.4|Acts 17:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,67 @@
+---
+title: Romans 3:25
+type: Verse
+kjv: "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;"
+bsb: "God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand."
+greek: "ὃν προέθετο ὁ θεὸς ἱλαστήριον διὰ τῆς πίστεως ἐν τῷ αὐτοῦ αἵματι εἰς ἔνδειξιν τῆς δικαιοσύνης αὐτοῦ διὰ τὴν πάρεσιν τῶν προγεγονότων ἁμαρτημάτων ἐν τῇ ἀνοχῇ τοῦ θεοῦ·"
+pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PROPITIATION|PROPITIATION]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3739]]"
+- "[[G4388]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2435]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0129G]]"
+- "[[G1519]]"
+- "[[G1732]]"
+- "[[G1343]]"
+- "[[G3929]]"
+- "[[G4266]]"
+- "[[G0265]]"
+- "[[G0463]]"
+texts:
+- NKO
+---
+
 **Romans 3:25**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom God hath set forth [to be] a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
 <small><sub>**BSB:**</sub></small>
 God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.
-<small><sub>**Literal:**</sub></small>
-whom set forth as <the> God a propitiation through <the> faith in <the> His blood for a showing forth of the righteousness of Him because of the forbearance of the having taken place beforehand sins — (26) in the forbearance <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.24|<< Romans 3:24]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.26|Romans 3:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G4388\|προέθετο]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2435\|ἱλαστήριον]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0846\|αὐτοῦ]]  [[G0129G\|αἵματι]]  [[G1519\|εἰς]]  [[G1732\|ἔνδειξιν]]  [[G3588\|τῆς]]  [[G1343\|δικαιοσύνης]]  [[G0846\|αὐτοῦ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3929\|πάρεσιν]]  [[G3588\|τῶν]]  [[G4266\|προγεγονότων]]  [[G0265\|ἁμαρτημάτων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0463\|ἀνοχῇ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic BOASTING|BOASTING]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PROPITIATION|PROPITIATION]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.24|<< Romans 3:24]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.26|Romans 3:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

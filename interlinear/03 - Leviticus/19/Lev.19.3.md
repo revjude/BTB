@@ -1,8 +1,64 @@
+---
+title: Leviticus 19:3
+type: Verse
+kjv: "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God."
+bsb: "Each of you must respect his mother and father, and you must keep My Sabbaths. I am the LORD your God."
+hebrew: "אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת־ שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H0376I]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9020]]"
+- "[[H8104G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:3**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall fear every man his mother, and his father, and keep my sabbaths: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 Each of you must respect his mother and father, and you must keep My Sabbaths. I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֣ישׁ]] [[H0517\|אִמּ֤]][[H9023\|וֹ]] [[H9002\|וְ]][[H0001G\|אָבִי]][[H9023\|ו֙]] [[H3372H\|תִּירָ֔אוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתֹתַ֖]][[H9020\|י]] [[H8104G\|תִּשְׁמֹ֑רוּ]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic REVERENCE|REVERENCE]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.2|<< Leviticus 19:2]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.4|Leviticus 19:4 >>]]</td></tr></table>
 

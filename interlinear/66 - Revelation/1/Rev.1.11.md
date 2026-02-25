@@ -1,10 +1,84 @@
+---
+title: Revelation 1:11
+type: Verse
+kjv: "Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea."
+bsb: "saying, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”"
+jesus_said: "I am Alpha and Omega, the first and the last: What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea."
+greek: "λεγούσης ἐγώ ἐιμι τὸ Α καὶ τὸ Ω, ὃ πρῶτος καὶ ὁ ἔσχατος· καὶ ὃ βλέπεις γράψον εἰς βιβλίον καὶ πέμψον ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν Ἀσίᾳ· εἰς Ἔφεσον καὶ εἰς Σμύρναν καὶ εἰς Πέργαμον καὶ εἰς Θυάτειρα καὶ εἰς Σάρδεις καὶ εἰς Φιλαδέλφειαν καὶ εἰς Λαοδίκειαν.¶"
+pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ALPHA|ALPHA]]"
+- "[[topic ASIA|ASIA]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic I AM THAT I AM|I AM THAT I AM]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic OMEGA|OMEGA]]"
+- "[[topic PERGAMOS|PERGAMOS]]"
+- "[[topic PHILADELPHIA|PHILADELPHIA]]"
+- "[[topic SARDIS|SARDIS]]"
+- "[[topic SMYRNA|SMYRNA]]"
+- "[[topic THYATIRA|THYATIRA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0001G]]"
+- "[[G2532]]"
+- "[[G5598]]"
+- "[[G4413G]]"
+- "[[G2078]]"
+- "[[G3739]]"
+- "[[G0991]]"
+- "[[G1125]]"
+- "[[G1519]]"
+- "[[G0975]]"
+- "[[G3992]]"
+- "[[G2033]]"
+- "[[G1577]]"
+- "[[G1722]]"
+- "[[G0773]]"
+- "[[G2181]]"
+- "[[G4667]]"
+- "[[G4010]]"
+- "[[G2363]]"
+- "[[G4554]]"
+- "[[G5359]]"
+- "[[G2993]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Revelation 1:11**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send [it] unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 <small><sub>**BSB:**</sub></small>
 saying, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”
-<small><sub>**Literal:**</sub></small>
-saying I myself am the Alpha and the Omega the first and the last; and What you see do write in a book and do send to the seven churches <the> in Asia: to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.10|<< Revelation 1:10]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.12|Revelation 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λεγούσης]]  [[G1473\|ἐγώ]]  [[G1510\|ἐιμι]]  [[G3588\|τὸ]]  [[G0001G\|Α]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5598\|Ω,]]  [[G3588\|ὃ]]  [[G4413G\|πρῶτος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2078\|ἔσχατος·]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G0991\|βλέπεις]]  [[G1125\|γράψον]]  [[G1519\|εἰς]]  [[G0975\|βιβλίον]]  [[G2532\|καὶ]]  [[G3992\|πέμψον]]  [[G3588\|ταῖς]]  [[G2033\|ἑπτὰ]]  [[G1577\|ἐκκλησίαις]]  [[G3588\|ταῖς]]  [[G1722\|ἐν]]  [[G0773\|Ἀσίᾳ·]]  [[G1519\|εἰς]]  [[G2181\|Ἔφεσον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4667\|Σμύρναν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4010\|Πέργαμον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2363\|Θυάτειρα]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4554\|Σάρδεις]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G5359\|Φιλαδέλφειαν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2993\|Λαοδίκειαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALPHA|ALPHA]] • [[topic ASIA|ASIA]] • [[topic EPHESUS|EPHESUS]] • [[topic I AM THAT I AM|I AM THAT I AM]] • [[topic INSPIRATION|INSPIRATION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAODICEA|LAODICEA]] • [[topic OMEGA|OMEGA]] • [[topic PERGAMOS|PERGAMOS]] • [[topic PHILADELPHIA|PHILADELPHIA]] • [[topic SARDIS|SARDIS]] • [[topic SMYRNA|SMYRNA]] • [[topic THYATIRA|THYATIRA]] • [[topic VISION|VISION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.10|<< Revelation 1:10]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.12|Revelation 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

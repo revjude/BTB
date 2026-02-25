@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ Our Cornerstone
+type: Pericope
 pericope: "[[Eph.2.19 Christ Our Cornerstone|Christ Our Cornerstone]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 2
 book/chapter: "[[Eph.2|Ephesians 2]]"
-genre:
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 4
 verses:
 - "[[Eph.2.19]]"
 - "[[Eph.2.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Eph.2.22]]"
 ---
 
-[[Eph.2|Ephesians 2:19 - Ephesians 2:22]]
+<small>[[Eph.2|Ephesians 2:19-22]]</small>
 *Christ Our Cornerstone*
 
 [[Eph.2.19|19]] Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;

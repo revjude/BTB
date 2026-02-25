@@ -1,8 +1,72 @@
+---
+title: Leviticus 8:26
+type: Verse
+kjv: "And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder:"
+bsb: "And from the basket of unleavened bread that was before the LORD, he took one cake of unleavened bread, one cake of bread made with oil, and one wafer, and he placed them on the fat portions and on the right thigh."
+hebrew: "וּמִסַּ֨ל הַמַּצּ֜וֹת אֲשֶׁ֣ר׀ לִפְנֵ֣י יְהוָ֗ה לָ֠קַח חַלַּ֨ת מַצָּ֤ה אַחַת֙ וְֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת וְרָקִ֣יק אֶחָ֑ד וַיָּ֙שֶׂם֙ עַל־ הַ֣חֲלָבִ֔ים וְעַ֖ל שׁ֥וֹק הַיָּמִֽין׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5536]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3947G]]"
+- "[[H2471]]"
+- "[[H0259]]"
+- "[[H3899H]]"
+- "[[H8081]]"
+- "[[H7550]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H7785]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:26**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the basket of unleavened bread, that [was] before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put [them] on the fat, and upon the right shoulder:
 <small><sub>**BSB:**</sub></small>
 And from the basket of unleavened bread that was before the LORD, he took one cake of unleavened bread, one cake of bread made with oil, and one wafer, and he placed them on the fat portions and on the right thigh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H5536\|סַּ֨ל]] [[H9009\|הַ]][[H4682\|מַּצּ֜וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H3947G\|לָ֠קַח]] [[H2471\|חַלַּ֨ת]] [[H4682\|מַצָּ֤ה]] [[H0259\|אַחַת֙]] [[H9002\|וְֽ]][[H2471\|חַלַּ֨ת]] [[H3899H\|לֶ֥חֶם]] [[H8081\|שֶׁ֛מֶן]] [[H0259\|אַחַ֖ת]] [[H9002\|וְ]][[H7550\|רָקִ֣יק]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H7760H\|יָּ֙שֶׂם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֣]][[H2459\|חֲלָבִ֔ים]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H7785\|שׁ֥וֹק]] [[H9009\|הַ]][[H3225G\|יָּמִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.25|<< Leviticus 8:25]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.27|Leviticus 8:27 >>]]</td></tr></table>
 

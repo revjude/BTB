@@ -1,10 +1,74 @@
+---
+title: Acts 13:11
+type: Verse
+kjv: "And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand."
+bsb: "Now look, the hand of the Lord is against you, and for a time you will be blind and unable to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand."
+greek: "καὶ νῦν ἰδοὺ χεὶρ τοῦ κυρίου ἐπὶ σέ, καὶ ἔσῃ τυφλὸς μὴ βλέπων τὸν ἥλιον ἄχρι καιροῦ. παραχρῆμά τε ἔπεσεν ἐπ᾽ αὐτὸν ἀχλὺς καὶ σκότος, καὶ περιάγων ἐζήτει χειραγωγούς."
+pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAPHOS|PAPHOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SERGIUS PAULUS|SERGIUS PAULUS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2400]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5185]]"
+- "[[G3361]]"
+- "[[G0991]]"
+- "[[G2246]]"
+- "[[G0891]]"
+- "[[G2540]]"
+- "[[G3916]]"
+- "[[G5037]]"
+- "[[G4098]]"
+- "[[G0846]]"
+- "[[G0887]]"
+- "[[G4655]]"
+- "[[G4013]]"
+- "[[G2212]]"
+- "[[G5497]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 13:11**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, behold, the hand of the Lord [is] upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 <small><sub>**BSB:**</sub></small>
 Now look, the hand of the Lord is against you, and for a time you will be blind and unable to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand.
-<small><sub>**Literal:**</sub></small>
-And now behold [the] hand <the> of the Lord [is] upon you, and you will be blind not seeing the sun during a season. Immediately then descended upon him mist and darkness, and going about he was seeking one to lead by hand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.10|<< Acts 13:10]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.12|Acts 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G2400\|ἰδοὺ]]  [[G5495\|χεὶρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1909\|ἐπὶ]]  [[G4771\|σέ,]]  [[G2532\|καὶ]]  [[G1510\|ἔσῃ]]  [[G5185\|τυφλὸς]]  [[G3361\|μὴ]]  [[G0991\|βλέπων]]  [[G3588\|τὸν]]  [[G2246\|ἥλιον]]  [[G0891\|ἄχρι]]  [[G2540\|καιροῦ.]]  [[G3916\|παραχρῆμά]]  [[G5037\|τε]]  [[G4098\|ἔπεσεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G0887\|ἀχλὺς]]  [[G2532\|καὶ]]  [[G4655\|σκότος,]]  [[G2532\|καὶ]]  [[G4013\|περιάγων]]  [[G2212\|ἐζήτει]]  [[G5497\|χειραγωγούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CYPRUS|CYPRUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAPHOS|PAPHOS]] • [[topic PAUL|PAUL]] • [[topic REPROOF|REPROOF]] • [[topic SERGIUS PAULUS|SERGIUS PAULUS]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.10|<< Acts 13:10]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.12|Acts 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Galatians 3:17
+type: Verse
+kjv: "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+bsb: "What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise."
+greek: "τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ θεοῦ εἰς Χριστὸν ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν."
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G1242]]"
+- "[[G4300]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G5071]]"
+- "[[G2532]]"
+- "[[G5144]]"
+- "[[G2094]]"
+- "[[G1096]]"
+- "[[G3551]]"
+- "[[G3756]]"
+- "[[G0208]]"
+- "[[G2673]]"
+- "[[G1860]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 3:17**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this I say, [that] the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 <small><sub>**BSB:**</sub></small>
 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.
-<small><sub>**Literal:**</sub></small>
-This now I say: [The] covenant confirmed beforehand by <the> God into Christ <the> afterward four hundred and thirty years having come [the] law not does annul so as <the> to nullify the promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.16|<< Galatians 3:16]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.18|Galatians 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G3004G\|λέγω·]]  [[G1242\|διαθήκην]]  [[G4300\|προκεκυρωμένην]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G5547\|Χριστὸν]]  [[G3588\|ὁ]]  [[G3326\|μετὰ]]  [[G5071\|τετρακόσια]]  [[G2532\|καὶ]]  [[G5144\|τριάκοντα]]  [[G2094\|ἔτη]]  [[G1096\|γεγονὼς]]  [[G3551\|νόμος]]  [[G3756\|οὐκ]]  [[G0208\|ἀκυροῖ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2673\|καταργῆσαι]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.16|<< Galatians 3:16]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.18|Galatians 3:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 3:17** is...
 > $\quad$ alluding to: [[LXX.Gen.17.7|Gen 17:7-8]] ☩ [[LXX.Exod.12.40|Exod 12:40]]

@@ -1,8 +1,49 @@
+---
+title: Proverbs 15:31
+type: Verse
+kjv: "The ear that heareth the reproof of life abideth among the wise."
+bsb: "He who listens to life-giving reproof will dwell among the wise."
+hebrew: "אֹ֗זֶן שֹׁ֭מַעַת תּוֹכַ֣חַת חַיִּ֑ים בְּקֶ֖רֶב חֲכָמִ֣ים תָּלִֽין׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H8433B]]"
+- "[[H2416E]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H2450]]"
+- "[[H3885A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:31**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ear that heareth the reproof of life abideth among the wise.
 <small><sub>**BSB:**</sub></small>
 He who listens to life-giving reproof will dwell among the wise.
+<small><sub>**Hebrew:**</sub></small>
+[[H0241G\|אֹ֗זֶן]] [[H8085G\|שֹׁ֭מַעַת]] [[H8433B\|תּוֹכַ֣חַת]] [[H2416E\|חַיִּ֑ים]] [[H9003\|בְּ]][[H7130G\|קֶ֖רֶב]] [[H2450\|חֲכָמִ֣ים]] [[H3885A\|תָּלִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.30|<< Proverbs 15:30]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.32|Proverbs 15:32 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 14:8
+type: Verse
+kjv: "Then said Jonathan, Behold, we will pass over unto these men, and we will discover ourselves unto them."
+bsb: "“Very well,” said Jonathan, “we will cross over toward these men and show ourselves to them."
+hebrew: "וַיֹּ֙אמֶר֙ יְה֣וֹנָתָ֔ן הִנֵּ֛ה אֲנַ֥חְנוּ עֹבְרִ֖ים אֶל־ הָאֲנָשִׁ֑ים וְנִגְלִ֖ינוּ אֲלֵיהֶֽם׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3083H]]"
+- "[[H2009]]"
+- "[[H0587]]"
+- "[[H5674A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1540H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:8**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Jonathan, Behold, we will pass over unto [these] men, and we will discover ourselves unto them.
 <small><sub>**BSB:**</sub></small>
 “Very well,” said Jonathan, “we will cross over toward these men and show ourselves to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H2009\|הִנֵּ֛ה]] [[H0587\|אֲנַ֥חְנוּ]] [[H5674A\|עֹבְרִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וְ]][[H1540H\|נִגְלִ֖ינוּ]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.7|<< 1 Samuel 14:7]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.9|1 Samuel 14:9 >>]]</td></tr></table>
 

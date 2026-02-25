@@ -1,8 +1,61 @@
+---
+title: Job 2:6
+type: Verse
+kjv: "And the LORD said unto Satan, Behold, he is in thine hand; but save his life."
+bsb: "“Very well,” said the LORD to Satan. “He is in your hands, but you must spare his life.”"
+hebrew: "וַיֹּ֧אמֶר יְהוָ֛ה אֶל־ הַשָּׂטָ֖ן הִנּ֣וֹ בְיָדֶ֑ךָ אַ֖ךְ אֶת־ נַפְשׁ֥וֹ שְׁמֹֽר׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H2005]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H8104H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:6**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Satan, Behold, he [is] in thine hand; but save his life.
 <small><sub>**BSB:**</sub></small>
 “Very well,” said the LORD to Satan. “He is in your hands, but you must spare his life.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7854\|שָּׂטָ֖ן]] [[H2005\|הִנּ֣]][[H9043\|וֹ]] [[H9003\|בְ]][[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H0389\|אַ֖ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשׁ֥]][[H9023\|וֹ]] [[H8104H\|שְׁמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.5|<< Job 2:5]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.7|Job 2:7 >>]]</td></tr></table>
 

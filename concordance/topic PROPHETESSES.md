@@ -13,9 +13,9 @@
 
 → Isaiah' s wife [[Isa.8.3|Isa 8:3]]
 
-→ Elizabeth [[Luke.1.41|Lu 1:41]]-[[Luke.1.45|45]]
+→ Elizabeth [[Luke.1.41|Lu 1:41-45]]
 
-→ Anna [[Luke.2.36|Lu 2:36]]-[[Luke.2.38|38]]
+→ Anna [[Luke.2.36|Lu 2:36-38]]
 
 → Daughters of Philip [[Acts.21.9|Ac 21:9]]
 

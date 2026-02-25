@@ -1,8 +1,56 @@
+---
+title: Psalm 37:36
+type: Verse
+kjv: "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found."
+bsb: "yet he passed away and was no more; though I searched, he could not be found."
+hebrew: "וַ֭יַּֽעֲבֹר וְהִנֵּ֣ה אֵינֶ֑נּוּ וָֽ֝אֲבַקְשֵׁ֗הוּ וְלֹ֣א נִמְצָֽא׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H1245]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:36**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet he passed away, and, lo, he [was] not: yea, I sought him, but he could not be found.
 <small><sub>**BSB:**</sub></small>
 yet he passed away and was no more; though I searched, he could not be found.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H5674A\|יַּֽעֲבֹר]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H0369\|אֵינֶ֑]][[H9043\|נּוּ]] [[H9001\|וָֽ֝]][[H1245\|אֲבַקְשֵׁ֗]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|נִמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.35|<< Psalms 37:35]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.37|Psalms 37:37 >>]]</td></tr></table>
 

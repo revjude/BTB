@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonathan Helps David
+type: Pericope
 pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 20
 book/chapter: "[[1Sam.20|1 Samuel 20]]"
-genre:
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[1Sam.20.1]]"
 - "[[1Sam.20.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Sam.20.9]]"
 ---
 
-[[1Sam.20|1 Samuel 20:1 - 1 Samuel 20:9]]
+<small>[[1Sam.20|1 Samuel 20:1-9]]</small>
 *Jonathan Helps David*
 
 [[1Sam.20.1|1]] And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what \[is\] mine iniquity? and what \[is\] my sin before thy father, that he seeketh my life?

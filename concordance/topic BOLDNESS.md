@@ -5,9 +5,9 @@
 
 → INSTANCES OF, IN PRAYER
 
-- Abraham [[Gen.18.23|Ge 18:23]]-[[Gen.18.32|32]]
+- Abraham [[Gen.18.23|Ge 18:23-32]]
 
-- Moses [[Exod.33.12|Ex 33:12]]-[[Exod.33.18|18]]
+- Moses [[Exod.33.12|Ex 33:12-18]]
 
 - See [[topic COURAGE|COURAGE]]
 

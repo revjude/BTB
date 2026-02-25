@@ -1,10 +1,50 @@
+---
+title: Mark 6:43
+type: Verse
+kjv: "And they took up twelve baskets full of the fragments, and of the fishes."
+bsb: "and the disciples picked up twelve basketfuls of broken pieces of bread and fish."
+greek: "καὶ ἦραν κλάσματα δώδεκα κοφίνων πληρώματα καὶ ἀπὸ τῶν ἰχθύων."
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G2801]]"
+- "[[G1427]]"
+- "[[G2894]]"
+- "[[G4138]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2486]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 6:43**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they took up twelve baskets full of the fragments, and of the fishes.
 <small><sub>**BSB:**</sub></small>
 and the disciples picked up twelve basketfuls of broken pieces of bread and fish.
-<small><sub>**Literal:**</sub></small>
-And they took up of fragments twelve hand-baskets fullness and of the fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.42|<< Mark 6:42]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.44|Mark 6:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0142\|ἦραν]]  [[G2801\|κλάσματα]]  [[G1427\|δώδεκα]]  [[G2894\|κοφίνων]]  [[G4138\|πληρώματα]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2486\|ἰχθύων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.42|<< Mark 6:42]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.44|Mark 6:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

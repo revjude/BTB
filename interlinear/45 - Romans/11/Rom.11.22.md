@@ -1,10 +1,62 @@
+---
+title: Romans 11:22
+type: Verse
+kjv: "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off."
+bsb: "Take notice, therefore, of the kindness and severity of God: severity to those who fell, but kindness to you, if you continue in His kindness. Otherwise you also will be cut off."
+greek: "Ἴδε οὖν χρηστότητα καὶ ἀποτομίαν θεοῦ· ἐπὶ μὲν τοὺς πεσόντας ἀποτομία, ἐπὶ δὲ σὲ χρηστότης θεοῦ, ἐὰν ἐπιμένῃς τῇ χρηστότητι· ἐπεὶ καὶ σὺ ἐκκοπήσῃ."
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRAFTING|GRAFTING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2396]]"
+- "[[G3767]]"
+- "[[G5544]]"
+- "[[G2532]]"
+- "[[G0663]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G3303]]"
+- "[[G3588]]"
+- "[[G4098]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G1961]]"
+- "[[G1893]]"
+- "[[G1581]]"
+texts:
+- NKO
+- N(k)O
+- NO
+- NK(O)
+---
+
 **Romans 11:22**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in [his] goodness: otherwise thou also shalt be cut off.
 <small><sub>**BSB:**</sub></small>
 Take notice, therefore, of the kindness and severity of God: severity to those who fell, but kindness to you, if you continue in His kindness. Otherwise you also will be cut off.
-<small><sub>**Literal:**</sub></small>
-Behold therefore [the] kindness and severity of God; upon indeed those having fallen severity, toward however you kindness of God, if you shall continue in the kindness; otherwise also you yourself will be cut off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.21|<< Romans 11:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.23|Romans 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2396\|Ἴδε]]  [[G3767\|οὖν]]  [[G5544\|χρηστότητα]]  [[G2532\|καὶ]]  [[G0663\|ἀποτομίαν]]  [[G2316\|θεοῦ·]]  [[G1909\|ἐπὶ]]  [[G3303\|μὲν]]  [[G3588\|τοὺς]]  [[G4098\|πεσόντας]]  [[G0663\|ἀποτομία,]]  [[G1909\|ἐπὶ]]  [[G1161\|δὲ]]  [[G4771\|σὲ]]  [[G5544\|χρηστότης]]  [[G2316\|θεοῦ,]]  [[G1437\|ἐὰν]]  [[G1961\|ἐπιμένῃς]]  [[G3588\|τῇ]]  [[G5544\|χρηστότητι·]]  [[G1893\|ἐπεὶ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1581\|ἐκκοπήσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic GRAFTING|GRAFTING]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.21|<< Romans 11:21]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.23|Romans 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

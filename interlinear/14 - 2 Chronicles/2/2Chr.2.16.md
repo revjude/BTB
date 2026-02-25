@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 2:16
+type: Verse
+kjv: "And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem."
+bsb: "We will cut logs from Lebanon, as many as you need, and we will float them to you as rafts by sea down to Joppa. Then you can take them up to Jerusalem.”"
+hebrew: "וַ֠אֲנַחְנוּ נִכְרֹ֨ת עֵצִ֤ים מִן־ הַלְּבָנוֹן֙ כְּכָל־ צָרְכֶּ֔ךָ וּנְבִיאֵ֥ם לְךָ֛ רַפְסֹד֖וֹת עַל־ יָ֣ם יָפ֑וֹ וְאַתָּ֛ה תַּעֲלֶ֥ה אֹתָ֖ם יְרוּשָׁלִָֽם׃ פ"
+pericope: "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H3772G]]"
+- "[[H6086G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3844G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H6878]]"
+- "[[H9021]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7513]]"
+- "[[H5921A]]"
+- "[[H3220G]]"
+- "[[H3305]]"
+- "[[H0859A]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:16**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 We will cut logs from Lebanon, as many as you need, and we will float them to you as rafts by sea down to Joppa. Then you can take them up to Jerusalem.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ֠]][[H0587\|אֲנַחְנוּ]] [[H3772G\|נִכְרֹ֨ת]] [[H6086G\|עֵצִ֤ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3844G\|לְּבָנוֹן֙]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H6878\|צָרְכֶּ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H0935P\|נְבִיאֵ֥]][[H9038\|ם]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H7513\|רַפְסֹד֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3220G\|יָ֣ם]] [[H3305\|יָפ֑וֹ]] [[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H5927H\|תַּעֲלֶ֥ה]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic HIRAM|HIRAM]] • [[topic JOPPA|JOPPA]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.15|<< 2 Chronicles 2:15]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.17|2 Chronicles 2:17 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ We will cut logs from Lebanon, as many as you need, and we will float them to yo
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will take up  |**<big>&#8207;[[H5927H\|תַּעֲלֶ֥ה]]&#8207; </big>**| ta.'a.Leh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.15|<< 2 Chronicles 2:15]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.17|2 Chronicles 2:17 >>]]</td></tr></table>
 
 

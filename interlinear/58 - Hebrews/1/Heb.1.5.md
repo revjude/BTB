@@ -1,10 +1,63 @@
+---
+title: Hebrews 1:5
+type: Verse
+kjv: "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?"
+bsb: "For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”?"
+greek: "Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων· υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν· ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν;"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G2036]]"
+- "[[G4218]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G1080]]"
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:5**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
 <small><sub>**BSB:**</sub></small>
 For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”?
-<small><sub>**Literal:**</sub></small>
-To which for did He say ever of the angels: Son of mine are You yourself, I myself today have begotten You? And again: I myself will be to Him for a Father, and He himself will be to Me for a Son?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.4|<< Hebrews 1:4]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.6|Hebrews 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τίνι]]  [[G1063\|γὰρ]]  [[G2036\|εἶπέν]]  [[G4218\|ποτε]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων·]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G1510\|εἶ]]  [[G4771\|σύ,]]  [[G1473\|ἐγὼ]]  [[G4594\|σήμερον]]  [[G1080\|γεγέννηκά]]  [[G4771\|σε;]]  [[G2532\|καὶ]]  [[G3825\|πάλιν·]]  [[G1473\|ἐγὼ]]  [[G1510\|ἔσομαι]]  [[G0846\|αὐτῷ]]  [[G1519\|εἰς]]  [[G3962\|πατέρα,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἔσται]]  [[G3165\|μοι]]  [[G1519\|εἰς]]  [[G5207\|υἱόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.4|<< Hebrews 1:4]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.6|Hebrews 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 1:5** is...
 > $\quad$ referencing: [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.1Chr.17.13|1Chr 17:13]] ☩ [[LXX.Ps.2.7|Ps 2:7]]

@@ -1,10 +1,53 @@
+---
+title: Colossians 1:15
+type: Verse
+kjv: "Who is the image of the invisible God, the firstborn of every creature:"
+bsb: "The Son is the image of the invisible God, the firstborn over all creation."
+greek: "ὅς ἐστιν εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως·"
+pericope: "[[Col.1.15 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1504]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0517]]"
+- "[[G4416]]"
+- "[[G3956]]"
+- "[[G2937]]"
+texts:
+- NKO
+---
+
 **Colossians 1:15**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who is the image of the invisible God, the firstborn of every creature:
 <small><sub>**BSB:**</sub></small>
 The Son is the image of the invisible God, the firstborn over all creation.
-<small><sub>**Literal:**</sub></small>
-[He] is [the] image of the God <the> invisible, [the] firstborn over all creation;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.14|<< Colossians 1:14]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.16|Colossians 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G1504\|εἰκὼν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G0517\|ἀοράτου,]]  [[G4416\|πρωτότοκος]]  [[G3956\|πάσης]]  [[G2937\|κτίσεως·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GOD|GOD]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.14|<< Colossians 1:14]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.16|Colossians 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

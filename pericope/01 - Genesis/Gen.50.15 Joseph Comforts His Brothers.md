@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Comforts His Brothers
+type: Pericope
 pericope: "[[Gen.50.15 Joseph Comforts His Brothers|Joseph Comforts His Brothers]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 50
 book/chapter: "[[Gen.50|Genesis 50]]"
-genre:
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.50.15]]"
 - "[[Gen.50.16]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.50.21]]"
 ---
 
-[[Gen.50|Genesis 50:15 - Genesis 50:21]]
+<small>[[Gen.50|Genesis 50:15-21]]</small>
 *Joseph Comforts His Brothers*
 
 [[Gen.50.15|15]] And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.

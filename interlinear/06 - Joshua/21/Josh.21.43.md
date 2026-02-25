@@ -1,8 +1,59 @@
+---
+title: Joshua 21:43
+type: Verse
+kjv: "And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein."
+bsb: "Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it."
+hebrew: "וַיִּתֵּ֤ן יְהוָה֙ לְיִשְׂרָאֵ֔ל אֶת־ כָּל־ הָאָ֔רֶץ אֲשֶׁ֥ר נִשְׁבַּ֖ע לָתֵ֣ת לַאֲבוֹתָ֑ם וַיִּרָשׁ֖וּהָ וַיֵּ֥שְׁבוּ בָֽהּ׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:43**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.
 <small><sub>**BSB:**</sub></small>
 Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H3423H\|יִּרָשׁ֖וּ]][[H9034\|הָ]] [[H9001\|וַ]][[H3427\|יֵּ֥שְׁבוּ]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.42|<< Joshua 21:42]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.44|Joshua 21:44 >>]]</td></tr></table>
 

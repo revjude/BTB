@@ -1,8 +1,72 @@
+---
+title: Jeremiah 37:10
+type: Verse
+kjv: "For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire."
+bsb: "Indeed, if you were to strike down the entire army of the Chaldeans that is fighting against you, and only wounded men remained in their tents, they would still get up and burn this city down.”"
+hebrew: "כִּ֣י אִם־ הִכִּיתֶ֞ם כָּל־ חֵ֤יל כַּשְׂדִּים֙ הַנִּלְחָמִ֣ים אִתְּכֶ֔ם וְנִ֨שְׁאֲרוּ בָ֔ם אֲנָשִׁ֖ים מְדֻקָּרִ֑ים אִ֤ישׁ בְּאָהֳלוֹ֙ יָק֔וּמוּ וְשָֽׂרְפ֛וּ אֶת־ הָעִ֥יר הַזֹּ֖את בָּאֵֽשׁ׃"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H2428A]]"
+- "[[H3778]]"
+- "[[H9009]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0582]]"
+- "[[H1856]]"
+- "[[H0376I]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:10**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained [but] wounded men among them, [yet] should they rise up every man in his tent, and burn this city with fire.
 <small><sub>**BSB:**</sub></small>
 Indeed, if you were to strike down the entire army of the Chaldeans that is fighting against you, and only wounded men remained in their tents, they would still get up and burn this city down.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H5221\|הִכִּיתֶ֞ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2428A\|חֵ֤יל]] [[H3778\|כַּשְׂדִּים֙]] [[H9009\|הַ]][[H3898A\|נִּלְחָמִ֣ים]] [[H0854\|אִתְּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H7604\|נִ֨שְׁאֲרוּ]] [[H9003\|בָ֔]][[H9038\|ם]] [[H0582\|אֲנָשִׁ֖ים]] [[H1856\|מְדֻקָּרִ֑ים]] [[H0376I\|אִ֤ישׁ]] [[H9003\|בְּ]][[H0168G\|אָהֳל]][[H9023\|וֹ֙]] [[H6965B\|יָק֔וּמוּ]] [[H9001\|וְ]][[H8313\|שָֽׂרְפ֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.9|<< Jeremiah 37:9]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.11|Jeremiah 37:11 >>]]</td></tr></table>
 

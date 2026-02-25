@@ -1,10 +1,63 @@
+---
+title: Acts 19:40
+type: Verse
+kjv: "For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse."
+bsb: "For we are in jeopardy of being charged with rioting for today’s events, and we have no justification to account for this commotion.”"
+greek: "καὶ γὰρ κινδυνεύομεν ἐγκαλεῖσθαι στάσεως περὶ τῆς σήμερον μηδενὸς αἰτίου ὑπάρχοντος περὶ οὗ οὐ δυνησόμεθα ἀποδοῦναι λόγον περὶ τῆς συστροφῆς ταύτης."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G2793]]"
+- "[[G1458]]"
+- "[[G4714]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G4594]]"
+- "[[G3367]]"
+- "[[G0159]]"
+- "[[G5225]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0591]]"
+- "[[G3056]]"
+- "[[G4963]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NK(o)
+- no
+---
+
 **Acts 19:40**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse.
 <small><sub>**BSB:**</sub></small>
 For we are in jeopardy of being charged with rioting for today’s events, and we have no justification to account for this commotion.”
-<small><sub>**Literal:**</sub></small>
-And for we are in danger of being accused of insurrection in regard to <the> this day not one cause there is existing concerning which not we will be able to render a reason for <the> commotion this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.39|<< Acts 19:39]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.41|Acts 19:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G2793\|κινδυνεύομεν]]  [[G1458\|ἐγκαλεῖσθαι]]  [[G4714\|στάσεως]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G4594\|σήμερον]]  [[G3367\|μηδενὸς]]  [[G0159\|αἰτίου]]  [[G5225\|ὑπάρχοντος]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G3756\|οὐ]]  [[G1410\|δυνησόμεθα]]  [[G0591\|ἀποδοῦναι]]  [[G3056\|λόγον]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G4963\|συστροφῆς]]  [[G3778\|ταύτης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.39|<< Acts 19:39]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.41|Acts 19:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

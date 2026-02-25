@@ -1,8 +1,64 @@
+---
+title: Genesis 21:31
+type: Verse
+kjv: "Wherefore he called that place Beersheba; because there they sware both of them."
+bsb: "So that place was called Beersheba, because it was there that the two of them swore an oath."
+hebrew: "עַל־ כֵּ֗ן קָרָ֛א לַמָּק֥וֹם הַה֖וּא בְּאֵ֣ר שָׁ֑בַע כִּ֛י שָׁ֥ם נִשְׁבְּע֖וּ שְׁנֵיהֶֽם׃"
+pericope: "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABIMELECH|ABIMELECH]]"
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0884]]"
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H7650]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:31**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore he called that place Beersheba; because there they sware both of them.
 <small><sub>**BSB:**</sub></small>
 So that place was called Beersheba, because it was there that the two of them swore an oath.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H7121H\|קָרָ֛א]] [[H9005\|לַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שָׁ֑בַע]] [[H3588A\|כִּ֛י]] [[H8033G\|שָׁ֥ם]] [[H7650\|נִשְׁבְּע֖וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIMELECH|ABIMELECH]] • [[topic ABRAHAM|ABRAHAM]] • [[topic ALLIANCES|ALLIANCES]] • [[topic BEER-SHEBA|BEER-SHEBA]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.30|<< Genesis 21:30]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.32|Genesis 21:32 >>]]</td></tr></table>
 

@@ -19,7 +19,7 @@
 
 → Reuben's love for Joseph [[Gen.37.21|Ge 37:21]],[[Gen.37.22|22]]
 
-→ Joseph's, for his brethren [[Gen.43.30|Ge 43:30]]-[[Gen.43.34|34]]; [[Gen.45.1|45:1]]-[[Gen.45.5|5]]; [[Gen.50.19|50:19]]-[[Gen.50.25|25]]
+→ Joseph's, for his brethren [[Gen.43.30|Ge 43:30-34]]; [[Gen.45.1|45:1-5]]; [[Gen.50.19|50:19-25]]
 
 → A fraternal epithet, especially among Christians.
 
@@ -29,9 +29,9 @@
 
 - by Peter [[1Pet.1.22|1Pe 1:22]]
 
-- Used among the Israelites [[Lev.19.17|Le 19:17]]; [[Deut.22.1|De 22:1]]-[[Deut.22.4|4]]
+- Used among the Israelites [[Lev.19.17|Le 19:17]]; [[Deut.22.1|De 22:1-4]]
 
 → Brother's widow.
 
-- Law concerning Levirate marriage of [[Deut.25.5|De 25:5]]-[[Deut.25.10|10]]; [[Matt.22.24|Mt 22:24]]; [[Mark.12.19|Mr 12:19]]; [[Luke.20.28|Lu 20:28]]
+- Law concerning Levirate marriage of [[Deut.25.5|De 25:5-10]]; [[Matt.22.24|Mt 22:24]]; [[Mark.12.19|Mr 12:19]]; [[Luke.20.28|Lu 20:28]]
 

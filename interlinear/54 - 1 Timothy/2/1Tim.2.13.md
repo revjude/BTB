@@ -1,10 +1,49 @@
+---
+title: 1 Timothy 2:13
+type: Verse
+kjv: "For Adam was first formed, then Eve."
+bsb: "For Adam was formed first, and then Eve."
+greek: "Ἀδὰμ γὰρ πρῶτος ἐπλάσθη, εἶτα Εὕα."
+pericope: "[[1Tim.2.9 Instructions to Women|Instructions to Women]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0076]]"
+- "[[G1063]]"
+- "[[G4413G]]"
+- "[[G4111]]"
+- "[[G1534]]"
+- "[[G2096]]"
+texts:
+- NKO
+---
+
 **1 Timothy 2:13**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Adam was first formed, then Eve.
 <small><sub>**BSB:**</sub></small>
 For Adam was formed first, and then Eve.
-<small><sub>**Literal:**</sub></small>
-Adam for first was formed, then Eve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.12|<< 1 Timothy 2:12]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.14|1 Timothy 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0076\|Ἀδὰμ]]  [[G1063\|γὰρ]]  [[G4413G\|πρῶτος]]  [[G4111\|ἐπλάσθη,]]  [[G1534\|εἶτα]]  [[G2096\|Εὕα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.12|<< 1 Timothy 2:12]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.14|1 Timothy 2:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Timothy 2:13** is...
 > $\quad$ possibly alluding to: [[LXX.Gen.1.17|Gen 1:17]]

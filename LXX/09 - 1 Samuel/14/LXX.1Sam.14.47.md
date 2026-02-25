@@ -1,6 +1,78 @@
+---
+title: LXX 1 Samuel 14:47
+type: Verse
+lxx: "And Saul obtained by lot  to reign over Israel. And he waged war round about with all  his enemies -- against  Moab, and against the sons of Ammon, and against the sons of Edom, and against the kings of Zobah, and against the Philistines. Wherever he turned, he was delivered."
+greek: "και Σαούλ έλαχε του βασιλεύειν επί Ισραήλ και επολέμει κύκλω πάντας τους εχθρούς αυτού εις τον Μωάβ και εις τους υιούς Αμμών και εις τους υιούς Εδώμ και εις τους βασιλέας Σουβά και εις τους αλλοφύλους ου αν εστράφη εσώζετο"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G4549]]"
+- "[[G2975]]"
+- "[[G3588]]"
+- "[[G0936]]"
+- "[[G1909]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G4170]]"
+- "[[G2945]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[H6355]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[H5983]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[H0123]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[H6678]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G4762]]"
+- "[[G4982]]"
+---
+
 **LXX 1 Samuel 14:47** 
 <small><sub>**LXX:**</sub></small>
 And Saul obtained by lot  to reign over Israel. And he waged war round about \[with\] all  his enemies -- against  Moab, and against the sons of Ammon, and against the sons of Edom, and against the kings of Zobah, and against the Philistines. Wherever he turned, he was delivered. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4549\|Σαούλ]] [[G2975\|έλαχε]] [[G3588\|του]] [[G0936\|βασιλεύειν]] [[G1909\|επί]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G4170\|επολέμει]] [[G2945\|κύκλω]] [[G3956\|πάντας]] [[G3588\|τους]] [[G2190\|εχθρούς]] [[G1473\|αυτού]] [[G1519\|εις]] [[G3588\|τον]] [[H6355\|Μωάβ]] [[G2532\|και]] [[G1519\|εις]] [[G3588\|τους]] [[G5207\|υιούς]] [[H5983\|Αμμών]] [[G2532\|και]] [[G1519\|εις]] [[G3588\|τους]] [[G5207\|υιούς]] [[H0123\|Εδώμ]] [[G2532\|και]] [[G1519\|εις]] [[G3588\|τους]] [[G0935\|βασιλέας]] [[H6678\|Σουβά]] [[G2532\|και]] [[G1519\|εις]] [[G3588\|τους]] [[G0246\|αλλοφύλους]] [[G3739\|ου]] [[G0302\|αν]] [[G4762\|εστράφη]] [[G4982\|εσώζετο]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic EDOMITES|EDOMITES]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.14.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.46|<< 1 Samuel 14:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.48|1 Samuel 14:48 >>]]</td></tr></table>
 
@@ -44,6 +116,6 @@ And Saul obtained by lot  to reign over Israel. And he waged war round about \[w
 | Wherever | **<big>[[G3739\|ου]]</big>** **<big>[[G0302\|αν]]</big>** |
 | he turned, | **<big>[[G4762\|εστράφη]]</big>** |
 | he was delivered. | **<big>[[G4982\|εσώζετο]]</big>** |
-[[1Sam.14.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.46|<< 1 Samuel 14:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.48|1 Samuel 14:48 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.46|<< 1 Samuel 14:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.48|1 Samuel 14:48 >>]]</td></tr></table>
 
 

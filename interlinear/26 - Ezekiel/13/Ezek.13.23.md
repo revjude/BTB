@@ -1,8 +1,69 @@
+---
+title: Ezekiel 13:23
+type: Verse
+kjv: "Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD."
+bsb: "therefore you will no longer see false visions or practice divination. I will deliver My people from your hands. Then you will know that I am the LORD.”"
+hebrew: "לָכֵ֗ן שָׁ֚וְא לֹ֣א תֶחֱזֶ֔ינָה וְקֶ֖סֶם לֹא־ תִקְסַ֣מְנָה ע֑וֹד וְהִצַּלְתִּ֤י אֶת־ עַמִּי֙ מִיֶּדְכֶ֔ן וִֽידַעְתֶּ֖ן כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H7723G]]"
+- "[[H3808]]"
+- "[[H2372]]"
+- "[[H9002]]"
+- "[[H7081]]"
+- "[[H9014]]"
+- "[[H7080]]"
+- "[[H5750]]"
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9027]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:23**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 therefore you will no longer see false visions or practice divination. I will deliver My people from your hands. Then you will know that I am the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H7723G\|שָׁ֚וְא]] [[H3808\|לֹ֣א]] [[H2372\|תֶחֱזֶ֔ינָה]] [[H9002\|וְ]][[H7081\|קֶ֖סֶם]] [[H3808\|לֹא]][[H9014\|־]] [[H7080\|תִקְסַ֣מְנָה]] [[H5750\|ע֑וֹד]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H9006\|מִ]][[H3027H\|יֶּדְ]][[H9027\|כֶ֔ן]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SORCERY|SORCERY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.22|<< Ezekiel 13:22]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.1|Ezekiel 14:1 >>]]</td></tr></table>
 

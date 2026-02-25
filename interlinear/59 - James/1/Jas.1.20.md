@@ -1,10 +1,48 @@
+---
+title: James 1:20
+type: Verse
+kjv: "For the wrath of man worketh not the righteousness of God."
+bsb: "for man’s anger does not bring about the righteousness that God desires."
+greek: "ὀργὴ γὰρ ἀνδρὸς δικαιοσύνην θεοῦ οὐκ ἐργάζεται."
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[G3709]]"
+- "[[G1063]]"
+- "[[G0435G]]"
+- "[[G1343]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G2038]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **James 1:20**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the wrath of man worketh not the righteousness of God.
 <small><sub>**BSB:**</sub></small>
 for man’s anger does not bring about the righteousness that God desires.
-<small><sub>**Literal:**</sub></small>
-[the] anger for of man [the] righteousness of God not works.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.19|<< James 1:19]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.21|James 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3709\|ὀργὴ]]  [[G1063\|γὰρ]]  [[G0435G\|ἀνδρὸς]]  [[G1343\|δικαιοσύνην]]  [[G2316\|θεοῦ]]  [[G3756\|οὐκ]]  [[G2038\|ἐργάζεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.19|<< James 1:19]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.21|James 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Proverbs 31:3
+type: Verse
+kjv: "Give not thy strength unto women, nor thy ways to that which destroyeth kings."
+bsb: "Do not spend your strength on women or your vigor on those who ruin kings."
+hebrew: "אַל־ תִּתֵּ֣ן לַנָּשִׁ֣ים חֵילֶ֑ךָ וּ֝דְרָכֶ֗יךָ לַֽמְח֥וֹת מְלָכִֽין׃"
+pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0802G]]"
+- "[[H2428G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1870G]]"
+- "[[H4229A]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:3**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give not thy strength unto women, nor thy ways to that which destroyeth kings.
 <small><sub>**BSB:**</sub></small>
 Do not spend your strength on women or your vigor on those who ruin kings.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5414G\|תִּתֵּ֣ן]] [[H9005\|לַ]][[H0802G\|נָּשִׁ֣ים]] [[H2428G\|חֵילֶ֑]][[H9021\|ךָ]] [[H9002\|וּ֝]][[H1870G\|דְרָכֶ֗י]][[H9021\|ךָ]] [[H9005\|לַֽ]][[H4229A\|מְח֥וֹת]] [[H4428G\|מְלָכִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.2|<< Proverbs 31:2]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.4|Proverbs 31:4 >>]]</td></tr></table>
 

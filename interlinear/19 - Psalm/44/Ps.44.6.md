@@ -1,8 +1,56 @@
+---
+title: Psalm 44:6
+type: Verse
+kjv: "For I will not trust in my bow, neither shall my sword save me."
+bsb: "For I do not trust in my bow, nor does my sword save me."
+hebrew: "כִּ֤י לֹ֣א בְקַשְׁתִּ֣י אֶבְטָ֑ח וְ֝חַרְבִּ֗י לֹ֣א תוֹשִׁיעֵֽנִי׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H7198]]"
+- "[[H9020]]"
+- "[[H0982]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H3467]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:6**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will not trust in my bow, neither shall my sword save me.
 <small><sub>**BSB:**</sub></small>
 For I do not trust in my bow, nor does my sword save me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֣א]] [[H9003\|בְ]][[H7198\|קַשְׁתִּ֣]][[H9020\|י]] [[H0982\|אֶבְטָ֑ח]] [[H9002\|וְ֝]][[H2719\|חַרְבִּ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H3467\|תוֹשִׁיעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.5|<< Psalms 44:5]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.7|Psalms 44:7 >>]]</td></tr></table>
 

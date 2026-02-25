@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Correcting False Teachers
+type: Pericope
 pericope: "[[1Tim.1.3 Correcting False Teachers|Correcting False Teachers]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 1
 book/chapter: "[[1Tim.1|1 Timothy 1]]"
-genre:
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 9
 verses:
 - "[[1Tim.1.3]]"
 - "[[1Tim.1.4]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Tim.1.11]]"
 ---
 
-[[1Tim.1|1 Timothy 1:3 - 1 Timothy 1:11]]
+<small>[[1Tim.1|1 Timothy 1:3-11]]</small>
 *Correcting False Teachers*
 
 [[1Tim.1.3|3]] As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,

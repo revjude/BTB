@@ -1,8 +1,52 @@
+---
+title: Nehemiah 11:10
+type: Verse
+kjv: "Of the priests: Jedaiah the son of Joiarib, Jachin."
+bsb: "From the priests: Jedaiah son of Joiarib; Jachin;"
+hebrew: "מִן־ הַֽכֹּהֲנִ֑ים יְדַֽעְיָ֥ה בֶן־ יוֹיָרִ֖יב יָכִֽין׃"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic JACHIN|JACHIN]]"
+- "[[topic JEDAIAH|JEDAIAH]]"
+- "[[topic JEHOIARIB|JEHOIARIB]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3048G]]"
+- "[[H1121A]]"
+- "[[H3114G]]"
+- "[[H3199I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:10**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the priests: Jedaiah the son of Joiarib, Jachin.
 <small><sub>**BSB:**</sub></small>
 From the priests: Jedaiah son of Joiarib; Jachin;
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H3548\|כֹּהֲנִ֑ים]] [[H3048G\|יְדַֽעְיָ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H3114G\|יוֹיָרִ֖יב]] [[H3199I\|יָכִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACHIN|JACHIN]] • [[topic JEDAIAH|JEDAIAH]] • [[topic JEHOIARIB|JEHOIARIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.9|<< Nehemiah 11:9]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.11|Nehemiah 11:11 >>]]</td></tr></table>
 

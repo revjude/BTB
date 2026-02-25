@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 16:24
+type: Verse
+kjv: "Declare his glory among the heathen; his marvellous works among all nations."
+bsb: "Declare His glory among the nations, His wonders among all peoples."
+hebrew: "סַפְּר֤וּ בַגּוֹיִם֙ אֶת־ כְּבוֹד֔וֹ בְּכָל־ הָעַמִּ֖ים נִפְלְאֹתָֽיו׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:24**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare his glory among the heathen; his marvellous works among all nations.
 <small><sub>**BSB:**</sub></small>
 Declare His glory among the nations, His wonders among all peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H5608A\|סַפְּר֤וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּבוֹד֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֖ים]] [[H6381\|נִפְלְאֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MISSIONS|MISSIONS]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.23|<< 1 Chronicles 16:23]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.25|1 Chronicles 16:25 >>]]</td></tr></table>
 

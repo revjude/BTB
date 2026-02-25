@@ -1,8 +1,60 @@
+---
+title: Daniel 12:6
+type: Verse
+kjv: "And one said to the man clothed in linen, which was upon the waters of the river, How long shall it be to the end of these wonders?"
+bsb: "One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?”"
+hebrew: "וַיֹּ֗אמֶר לָאִישׁ֙ לְב֣וּשׁ הַבַּדִּ֔ים אֲשֶׁ֥ר מִמַּ֖עַל לְמֵימֵ֣י הַיְאֹ֑ר עַד־ מָתַ֖י קֵ֥ץ הַפְּלָאֽוֹת׃"
+pericope: "[[Dan.12.1 The End Times|The End Times]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 12
+book/chapter: "[[Dan.12|Daniel 12]]"
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H3847]]"
+- "[[H9009]]"
+- "[[H0906]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H4325G]]"
+- "[[H2975H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H7093]]"
+- "[[H6382]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 12:6**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] said to the man clothed in linen, which [was] upon the waters of the river, How long [shall it be to] the end of these wonders?
 <small><sub>**BSB:**</sub></small>
 One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9005\|לָ]][[H0376G\|אִישׁ֙]] [[H3847\|לְב֣וּשׁ]] [[H9009\|הַ]][[H0906\|בַּדִּ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9006\|מִ]][[H4605\|מַּ֖עַל]] [[H9005\|לְ]][[H4325G\|מֵימֵ֣י]] [[H9009\|הַ]][[H2975H\|יְאֹ֑ר]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֖י]] [[H7093\|קֵ֥ץ]] [[H9009\|הַ]][[H6382\|פְּלָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.5|<< Daniel 12:5]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.7|Daniel 12:7 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Revelation 7:8
+type: Verse
+kjv: "Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand."
+bsb: "from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, and from the tribe of Benjamin 12,000."
+greek: "ἐκ φυλῆς Ζαβουλὼν δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Ἰωσὴφ δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Βενιαμὶν δώδεκα χιλιάδες ἐσφραγισμένοι.¶"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[G1537]]"
+- "[[G5443]]"
+- "[[G2194]]"
+- "[[G1427]]"
+- "[[G5505]]"
+- "[[G4972]]"
+- "[[G2501N]]"
+- "[[G0958]]"
+texts:
+- NKO
+- N(k)O
+- k
+- NK(o)
+---
+
 **Revelation 7:8**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of the tribe of Zabulon [were] sealed twelve thousand. Of the tribe of Joseph [were] sealed twelve thousand. Of the tribe of Benjamin [were] sealed twelve thousand.
 <small><sub>**BSB:**</sub></small>
 from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, and from the tribe of Benjamin 12,000.
-<small><sub>**Literal:**</sub></small>
-out of [the] tribe of Zebulun twelve thousand sealed; out of [the] tribe of Joseph twelve thousand sealed; out of [the] tribe of Benjamin twelve thousand sealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.7|<< Revelation 7:7]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.9|Revelation 7:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G2194\|Ζαβουλὼν]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G2501N\|Ἰωσὴφ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G0958\|Βενιαμὶν]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]] • [[topic VISION|VISION]] • [[topic ZEBULUN|ZEBULUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.7|<< Revelation 7:7]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.9|Revelation 7:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

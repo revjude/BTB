@@ -1,6 +1,52 @@
+---
+title: Psalm 34:0
+type: Verse
+kjv: "A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed."
+hebrew: "לְדָוִ֗ד בְּשַׁנּוֹת֣וֹ אֶת־ טַ֭עְמוֹ לִפְנֵ֣י אֲבִימֶ֑לֶךְ וַֽ֝יְגָרֲשֵׁ֗הוּ וַיֵּלַֽךְ׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H8138A]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2940]]"
+- "[[H9023]]"
+- "[[H6440G]]"
+- "[[H0040I]]"
+- "[[H9001]]"
+- "[[H1644G]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:0**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [A Psalm] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1732\|דָוִ֗ד]] [[H9003\|בְּ]][[H8138A\|שַׁנּוֹת֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H2940\|טַ֭עְמ]][[H9023\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0040I\|אֲבִימֶ֑לֶךְ]] [[H9001\|וַֽ֝]][[H1644G\|יְגָרֲשֵׁ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H1980G\|יֵּלַֽךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.22|<< Psalms 33:22]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.1|Psalms 34:1 >>]]</td></tr></table>
 

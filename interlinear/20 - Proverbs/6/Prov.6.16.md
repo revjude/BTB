@@ -1,8 +1,61 @@
+---
+title: Proverbs 6:16
+type: Verse
+kjv: "These six things doth the LORD hate: yea, seven are an abomination unto him:"
+bsb: "There are six things that the LORD hates, seven that are detestable to Him:"
+hebrew: "שֶׁשׁ־ הֵ֭נָּה שָׂנֵ֣א יְהוָ֑ה וְ֝שֶׁ֗בַע תּוֹעֲבַ֥ת נַפְשֽׁוֹ׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H2007]]"
+- "[[H8130]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H8441]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 6:16**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These six [things] doth the LORD hate: yea, seven [are] an abomination unto him:
 <small><sub>**BSB:**</sub></small>
 There are six things that the LORD hates, seven that are detestable to Him:
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֶׁשׁ]][[H9014\|־]] [[H2007\|הֵ֭נָּה]] [[H8130\|שָׂנֵ֣א]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ֝]][[H7651\|שֶׁ֗בַע]] [[H8441\|תּוֹעֲבַ֥ת]] [[H5315I\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IMAGINATION|IMAGINATION]] • [[topic MALICE|MALICE]] • [[topic PRIDE|PRIDE]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]] • [[topic STRIFE|STRIFE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.15|<< Proverbs 6:15]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.17|Proverbs 6:17 >>]]</td></tr></table>
 

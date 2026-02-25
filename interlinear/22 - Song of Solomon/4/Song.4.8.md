@@ -1,8 +1,61 @@
+---
+title: Song of Solomon 4:8
+type: Verse
+kjv: "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards."
+bsb: "Come with me from Lebanon, my bride, come with me from Lebanon! Descend from the peak of Amana, from the summits of Senir and Hermon, from the dens of the lions, from the mountains of the leopards."
+hebrew: "אִתִּ֤י מִלְּבָנוֹן֙ כַּלָּ֔ה אִתִּ֖י מִלְּבָנ֣וֹן תָּב֑וֹאִי תָּשׁ֣וּרִי׀ מֵרֹ֣אשׁ אֲמָנָ֗ה מֵרֹ֤אשׁ שְׂנִיר֙ וְחֶרְמ֔וֹן מִמְּעֹנ֣וֹת אֲרָי֔וֹת מֵֽהַרְרֵ֖י נְמֵרִֽים׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic AMANA|AMANA]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic HERMON|HERMON]]"
+- "[[topic LEOPARD|LEOPARD]]"
+- "[[topic SHENIR|SHENIR]]"
+strongs:
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3844G]]"
+- "[[H3618G]]"
+- "[[H0935G]]"
+- "[[H7788]]"
+- "[[H9015]]"
+- "[[H7218I]]"
+- "[[H0549G]]"
+- "[[H8149]]"
+- "[[H9002]]"
+- "[[H2768]]"
+- "[[H4585]]"
+- "[[H0738A]]"
+- "[[H2042]]"
+- "[[H5246]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:8**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come with me from Lebanon, [my] spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.
 <small><sub>**BSB:**</sub></small>
 Come with me from Lebanon, my bride, come with me from Lebanon! Descend from the peak of Amana, from the summits of Senir and Hermon, from the dens of the lions, from the mountains of the leopards.
+<small><sub>**Hebrew:**</sub></small>
+[[H0854\|אִתִּ֤]][[H9030\|י]] [[H9006\|מִ]][[H3844G\|לְּבָנוֹן֙]] [[H3618G\|כַּלָּ֔ה]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H9006\|מִ]][[H3844G\|לְּבָנ֣וֹן]] [[H0935G\|תָּב֑וֹאִי]] [[H7788\|תָּשׁ֣וּרִי]][[H9015\|׀]] [[H9006\|מֵ]][[H7218I\|רֹ֣אשׁ]] [[H0549G\|אֲמָנָ֗ה]] [[H9006\|מֵ]][[H7218I\|רֹ֤אשׁ]] [[H8149\|שְׂנִיר֙]] [[H9002\|וְ]][[H2768\|חֶרְמ֔וֹן]] [[H9006\|מִ]][[H4585\|מְּעֹנ֣וֹת]] [[H0738A\|אֲרָי֔וֹת]] [[H9006\|מֵֽ]][[H2042\|הַרְרֵ֖י]] [[H5246\|נְמֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMANA|AMANA]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic HERMON|HERMON]] • [[topic LEOPARD|LEOPARD]] • [[topic SHENIR|SHENIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.7|<< Song of Solomon 4:7]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.9|Song of Solomon 4:9 >>]]</td></tr></table>
 

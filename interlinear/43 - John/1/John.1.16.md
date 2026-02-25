@@ -1,10 +1,56 @@
+---
+title: John 1:16
+type: Verse
+kjv: "And of his fulness have all we received, and grace for grace."
+bsb: "From His fullness we have all received grace upon grace."
+greek: "ὅτι ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν καὶ χάριν ἀντὶ χάριτος."
+pericope: "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4138]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G5485]]"
+- "[[G0473]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **John 1:16**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And of his fulness have all we received, and grace for grace.
 <small><sub>**BSB:**</sub></small>
 From His fullness we have all received grace upon grace.
-<small><sub>**Literal:**</sub></small>
-For from the fullness of Him we ourselves all have received then grace for grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.15|<< John 1:15]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.17|John 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4138\|πληρώματος]]  [[G0846\|αὐτοῦ]]  [[G3165\|ἡμεῖς]]  [[G3956\|πάντες]]  [[G2983\|ἐλάβομεν]]  [[G2532\|καὶ]]  [[G5485\|χάριν]]  [[G0473\|ἀντὶ]]  [[G5485\|χάριτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONFESSION|CONFESSION]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.15|<< John 1:15]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.17|John 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

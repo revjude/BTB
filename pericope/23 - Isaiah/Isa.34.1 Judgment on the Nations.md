@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on the Nations
+type: Pericope
 pericope: "[[Isa.34.1 Judgment on the Nations|Judgment on the Nations]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 34
 book/chapter: "[[Isa.34|Isaiah 34]]"
-genre:
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.34.1]]"
 - "[[Isa.34.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.34.4]]"
 ---
 
-[[Isa.34|Isaiah 34:1 - Isaiah 34:4]]
+<small>[[Isa.34|Isaiah 34:1-4]]</small>
 *Judgment on the Nations*
 
 [[Isa.34.1|1]] Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.

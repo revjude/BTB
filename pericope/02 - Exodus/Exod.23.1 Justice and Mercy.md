@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Justice and Mercy
+type: Pericope
 pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 23
 book/chapter: "[[Exod.23|Exodus 23]]"
-genre:
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.23.1]]"
 - "[[Exod.23.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.23.9]]"
 ---
 
-[[Exod.23|Exodus 23:1 - Exodus 23:9]]
+<small>[[Exod.23|Exodus 23:1-9]]</small>
 *Justice and Mercy*
 
 [[Exod.23.1|1]] Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.

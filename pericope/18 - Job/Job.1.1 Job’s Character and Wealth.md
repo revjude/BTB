@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Character and Wealth
+type: Pericope
 pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 1
 book/chapter: "[[Job.1|Job 1]]"
-genre:
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 5
 verses:
 - "[[Job.1.1]]"
 - "[[Job.1.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Job.1.5]]"
 ---
 
-[[Job.1|Job 1:1 - Job 1:5]]
+<small>[[Job.1|Job 1:1-5]]</small>
 *Job’s Character and Wealth*
 
 [[Job.1.1|1]] There was a man in the land of Uz, whose name \[was\] Job; and that man was perfect and upright, and one that feared God, and eschewed evil.

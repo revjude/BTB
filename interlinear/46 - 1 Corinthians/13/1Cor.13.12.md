@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 13:12
+type: Verse
+kjv: "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."
+bsb: "Now we see but a dim reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known."
+greek: "βλέπομεν γὰρ ἄρτι δι᾽ ἐσόπτρου ἐν αἰνίγματι, τότε δὲ πρόσωπον πρὸς πρόσωπον· ἄρτι γινώσκω ἐκ μέρους, τότε δὲ ἐπιγνώσομαι καθὼς καὶ ἐπεγνώσθην.¶"
+pericope: "[[1Cor.13.1 Love|Love]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRROR|MIRROR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G0991]]"
+- "[[G1063]]"
+- "[[G0737]]"
+- "[[G1223]]"
+- "[[G2072]]"
+- "[[G1722]]"
+- "[[G0135]]"
+- "[[G5119]]"
+- "[[G1161]]"
+- "[[G4383]]"
+- "[[G4314]]"
+- "[[G1097]]"
+- "[[G1537]]"
+- "[[G3313]]"
+- "[[G1921]]"
+- "[[G2531]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 13:12**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 <small><sub>**BSB:**</sub></small>
 Now we see but a dim reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.
-<small><sub>**Literal:**</sub></small>
-We see for presently through a glass in obscurity, then however face to face; presently I know in part, then however I will know fully even as also I have been fully known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.11|<< 1 Corinthians 13:11]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.13|1 Corinthians 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπομεν]]  [[G1063\|γὰρ]]  [[G0737\|ἄρτι]]  [[G1223\|δι᾽]]  [[G2072\|ἐσόπτρου]]  [[G1722\|ἐν]]  [[G0135\|αἰνίγματι,]]  [[G5119\|τότε]]  [[G1161\|δὲ]]  [[G4383\|πρόσωπον]]  [[G4314\|πρὸς]]  [[G4383\|πρόσωπον·]]  [[G0737\|ἄρτι]]  [[G1097\|γινώσκω]]  [[G1537\|ἐκ]]  [[G3313\|μέρους,]]  [[G5119\|τότε]]  [[G1161\|δὲ]]  [[G1921\|ἐπιγνώσομαι]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G1921\|ἐπεγνώσθην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic IGNORANCE|IGNORANCE]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic LOVE|LOVE]] • [[topic MIRROR|MIRROR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.11|<< 1 Corinthians 13:11]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.13|1 Corinthians 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: Revelation 19:7
+type: Verse
+kjv: "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready."
+bsb: "Let us rejoice and be glad and give Him the glory. For the marriage of the Lamb has come, and His bride has made herself ready."
+greek: "χαίρωμεν καὶ ἀγαλλιῶμεν καὶ δώσωμεν τὴν δόξαν αὐτῷ, ὅτι ἦλθεν ὁ γάμος τοῦ ἀρνίου, καὶ ἡ γυνὴ αὐτοῦ ἡτοίμασεν ἑαυτήν."
+pericope: "[[Rev.19.6 The Marriage of the Lamb|The Marriage of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G5463]]"
+- "[[G2532]]"
+- "[[G0021]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G2064]]"
+- "[[G1062]]"
+- "[[G0721]]"
+- "[[G1135H]]"
+- "[[G2090]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+- N(k)(o)
+---
+
 **Revelation 19:7**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
 <small><sub>**BSB:**</sub></small>
 Let us rejoice and be glad and give Him the glory. For the marriage of the Lamb has come, and His bride has made herself ready.
-<small><sub>**Literal:**</sub></small>
-We may rejoice and we may exult and we may give the glory to Him, because has come the marriage of the Lamb, and the bride of Him has made ready herself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.6|<< Revelation 19:6]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.8|Revelation 19:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5463\|χαίρωμεν]]  [[G2532\|καὶ]]  [[G0021\|ἀγαλλιῶμεν]]  [[G2532\|καὶ]]  [[G1325\|δώσωμεν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτῷ,]]  [[G3754H\|ὅτι]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G1062\|γάμος]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G0846\|αὐτοῦ]]  [[G2090\|ἡτοίμασεν]]  [[G1438\|ἑαυτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.6|<< Revelation 19:6]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.8|Revelation 19:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Esther 6:4
+type: Verse
+kjv: "And the king said, Who is in the court? Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him."
+bsb: "“Who is in the court?” the king asked. Now Haman had just entered the outer court of the palace to ask the king to hang Mordecai on the gallows he had prepared for him."
+hebrew: "וַיֹּ֥אמֶר הַמֶּ֖לֶךְ מִ֣י בֶחָצֵ֑ר וְהָמָ֣ן בָּ֗א לַחֲצַ֤ר בֵּית־ הַמֶּ֙לֶךְ֙ הַחִ֣יצוֹנָ֔ה לֵאמֹ֣ר לַמֶּ֔לֶךְ לִתְלוֹת֙ אֶֽת־ מָרְדֳּכַ֔י עַל־ הָעֵ֖ץ אֲשֶׁר־ הֵכִ֥ין לֽוֹ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GALLOWS|GALLOWS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H9002]]"
+- "[[H2001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H2435]]"
+- "[[H8518]]"
+- "[[H0853]]"
+- "[[H4782H]]"
+- "[[H5921A]]"
+- "[[H6086J]]"
+- "[[H0834A]]"
+- "[[H3559A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:4**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, Who [is] in the court? Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.
 <small><sub>**BSB:**</sub></small>
 “Who is in the court?” the king asked. Now Haman had just entered the outer court of the palace to ask the king to hang Mordecai on the gallows he had prepared for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4310\|מִ֣י]] [[H9003\|בֶ]][[H2691A\|חָצֵ֑ר]] [[H9002\|וְ]][[H2001\|הָמָ֣ן]] [[H0935G\|בָּ֗א]] [[H9005\|לַ]][[H2691A\|חֲצַ֤ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַ]][[H2435\|חִ֣יצוֹנָ֔ה]] [[H9005\|לֵ]][[H0559\|אמֹ֣ר]] [[H9005\|לַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לִ]][[H8518\|תְלוֹת֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4782H\|מָרְדֳּכַ֔י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6086J\|עֵ֖ץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3559A\|הֵכִ֥ין]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GALLOWS|GALLOWS]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.3|<< Esther 6:3]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.5|Esther 6:5 >>]]</td></tr></table>
 

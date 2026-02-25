@@ -1,10 +1,46 @@
+---
+title: 1 Corinthians 16:14
+type: Verse
+kjv: "Let all your things be done with charity."
+bsb: "Do everything in love."
+greek: "πάντα ὑμῶν ἐν ἀγάπῃ γινέσθω.¶"
+pericope: "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:14**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let all your things be done with charity.
 <small><sub>**BSB:**</sub></small>
 Do everything in love.
-<small><sub>**Literal:**</sub></small>
-All things of you in love should be done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.13|<< 1 Corinthians 16:13]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.15|1 Corinthians 16:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G1096\|γινέσθω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.13|<< 1 Corinthians 16:13]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.15|1 Corinthians 16:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

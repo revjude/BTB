@@ -1,8 +1,81 @@
+---
+title: 2 Kings 5:20
+type: Verse
+kjv: "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him."
+bsb: "Gehazi, the servant of Elisha the man of God, said, “Look, my master has spared this Aramean, Naaman, by not accepting what he brought. As surely as the LORD lives, I will run after him and get something from him.”"
+hebrew: "וַיֹּ֣אמֶר גֵּיחֲזִ֗י נַעַר֮ אֱלִישָׁ֣ע אִישׁ־ הָאֱלֹהִים֒ הִנֵּ֣ה׀ חָשַׂ֣ךְ אֲדֹנִ֗י אֶֽת־ נַעֲמָ֤ן הָֽאֲרַמִּי֙ הַזֶּ֔ה מִקַּ֥חַת מִיָּד֖וֹ אֵ֣ת אֲשֶׁר־ הֵבִ֑יא חַי־ יְהוָה֙ כִּֽי־ אִם־ רַ֣צְתִּי אַחֲרָ֔יו וְלָקַחְתִּ֥י מֵאִתּ֖וֹ מְאֽוּמָה׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1522]]"
+- "[[H5288]]"
+- "[[H0477]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H2820]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H5283I]]"
+- "[[H0761H]]"
+- "[[H2088]]"
+- "[[H9006]]"
+- "[[H3947H]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0518B]]"
+- "[[H7323G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H0854]]"
+- "[[H3972]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:20**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, [as] the LORD liveth, I will run after him, and take somewhat of him.
 <small><sub>**BSB:**</sub></small>
 Gehazi, the servant of Elisha the man of God, said, “Look, my master has spared this Aramean, Naaman, by not accepting what he brought. As surely as the LORD lives, I will run after him and get something from him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1522\|גֵּיחֲזִ֗י]] [[H5288\|נַעַר֮]] [[H0477\|אֱלִישָׁ֣ע]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֒]] [[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H2820\|חָשַׂ֣ךְ]] [[H0113\|אֲדֹנִ֗]][[H9020\|י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5283I\|נַעֲמָ֤ן]] [[H9009\|הָֽ]][[H0761H\|אֲרַמִּי֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9006\|מִ]][[H3947H\|קַּ֥חַת]] [[H9006\|מִ]][[H3027G\|יָּד֖]][[H9023\|וֹ]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935P\|הֵבִ֑יא]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0518B\|אִם]][[H9014\|־]] [[H7323G\|רַ֣צְתִּי]] [[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H3947H\|לָקַחְתִּ֥י]] [[H9006\|מֵ]][[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H3972\|מְאֽוּמָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic NAAMAN|NAAMAN]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.19|<< 2 Kings 5:19]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.21|2 Kings 5:21 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Distinguish between Clean and Unclean
+type: Pericope
 pericope: "[[Lev.20.22 Distinguish between Clean and Unclean|Distinguish between Clean and Unclean]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 20
 book/chapter: "[[Lev.20|Leviticus 20]]"
-genre:
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.20.22]]"
 - "[[Lev.20.23]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.20.27]]"
 ---
 
-[[Lev.20|Leviticus 20:22 - Leviticus 20:27]]
+<small>[[Lev.20|Leviticus 20:22-27]]</small>
 *Distinguish between Clean and Unclean*
 
 [[Lev.20.22|22]] Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.

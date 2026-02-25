@@ -1,8 +1,57 @@
+---
+title: Isaiah 33:24
+type: Verse
+kjv: "And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity."
+bsb: "And no resident of Zion will say, “I am sick.” The people who dwell there will be forgiven of iniquity."
+hebrew: "וּבַל־ יֹאמַ֥ר שָׁכֵ֖ן חָלִ֑יתִי הָעָ֛ם הַיֹּשֵׁ֥ב בָּ֖הּ נְשֻׂ֥א עָוֹֽן׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H7934]]"
+- "[[H2470H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5375I]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:24**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the inhabitant shall not say, I am sick: the people that dwell therein [shall be] forgiven [their] iniquity.
 <small><sub>**BSB:**</sub></small>
 And no resident of Zion will say, “I am sick.” The people who dwell there will be forgiven of iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1077\|בַל]][[H9014\|־]] [[H0559\|יֹאמַ֥ר]] [[H7934\|שָׁכֵ֖ן]] [[H2470H\|חָלִ֑יתִי]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֥ב]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H5375I\|נְשֻׂ֥א]] [[H5771G\|עָוֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.23|<< Isaiah 33:23]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.1|Isaiah 34:1 >>]]</td></tr></table>
 

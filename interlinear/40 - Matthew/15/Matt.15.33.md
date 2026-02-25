@@ -1,10 +1,56 @@
+---
+title: Matthew 15:33
+type: Verse
+kjv: "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?"
+bsb: "The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”"
+greek: "καὶ λέγουσιν αὐτῷ οἱ μαθηταί αὐτοῦ· πόθεν ἡμῖν ἐν ἐρημίᾳ ἄρτοι τοσοῦτοι ὥστε χορτάσαι ὄχλον τοσοῦτον;¶"
+pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4159]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G2047]]"
+- "[[G0740]]"
+- "[[G5118]]"
+- "[[G5620]]"
+- "[[G5526]]"
+- "[[G3793]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 15:33**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
 <small><sub>**BSB:**</sub></small>
 The disciples replied, “Where in this desolate place could we find enough bread to feed such a large crowd?”
-<small><sub>**Literal:**</sub></small>
-And say to Him the disciples of him: From where to us in a secluded place loaves so many as to satisfy a crowd so great?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.32|<< Matthew 15:32]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.34|Matthew 15:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί]]  [[G0846\|αὐτοῦ·]]  [[G4159\|πόθεν]]  [[G3165\|ἡμῖν]]  [[G1722\|ἐν]]  [[G2047\|ἐρημίᾳ]]  [[G0740\|ἄρτοι]]  [[G5118\|τοσοῦτοι]]  [[G5620\|ὥστε]]  [[G5526\|χορτάσαι]]  [[G3793\|ὄχλον]]  [[G5118\|τοσοῦτον;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.32|<< Matthew 15:32]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.34|Matthew 15:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

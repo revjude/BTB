@@ -1,10 +1,49 @@
+---
+title: John 7:53
+type: Verse
+kjv: "And every man went unto his own house."
+bsb: "Then each went to his own home."
+greek: "[Καὶ ἐπορεύθη ἕκαστος εἰς τὸν οἶκον αὐτοῦ,"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1538]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+texts:
+- KO
+- K(o)
+---
+
 **John 7:53**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And every man went unto his own house.
 <small><sub>**BSB:**</sub></small>
 Then each went to his own home.
-<small><sub>**Literal:**</sub></small>
-{8.1} And he went each to the home of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.52|<< John 7:52]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.1|John 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|[Καὶ]]  [[G4198\|ἐπορεύθη]]  [[G1538\|ἕκαστος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NICODEMUS|NICODEMUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.52|<< John 7:52]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.1|John 8:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

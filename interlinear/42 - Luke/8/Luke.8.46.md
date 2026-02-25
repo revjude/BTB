@@ -1,10 +1,60 @@
+---
+title: Luke 8:46
+type: Verse
+kjv: "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me."
+bsb: "But Jesus declared, “Someone touched Me, for I know that power has gone out from Me.”"
+jesus_said: "Somebody hath touched me: for I perceive that virtue is gone out of me."
+greek: "ὁ δὲ Ἰησοῦς εἶπεν· ἥψατό μού τις· ἐγὼ γὰρ ἔγνων δύναμιν ἐξεληλυθυῖαν ἀπ᾽ ἐμοῦ."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic VIRTUE|VIRTUE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0681]]"
+- "[[G3165]]"
+- "[[G5100]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G1097]]"
+- "[[G1411]]"
+- "[[G1831]]"
+- "[[G0575]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:46**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
 <small><sub>**BSB:**</sub></small>
 But Jesus declared, “Someone touched Me, for I know that power has gone out from Me.”
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus said; Touched Me someone; I myself for know power having left from Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.45|<< Luke 8:45]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.47|Luke 8:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G0681\|ἥψατό]]  [[G3165\|μού]]  [[G5100\|τις·]]  [[G1473\|ἐγὼ]]  [[G1063\|γὰρ]]  [[G1097\|ἔγνων]]  [[G1411\|δύναμιν]]  [[G1831\|ἐξεληλυθυῖαν]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic VIRTUE|VIRTUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.45|<< Luke 8:45]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.47|Luke 8:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

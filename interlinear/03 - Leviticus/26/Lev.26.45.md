@@ -1,8 +1,70 @@
+---
+title: Leviticus 26:45
+type: Verse
+kjv: "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD."
+bsb: "But for their sake I will remember the covenant with their fathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.”"
+hebrew: "וְזָכַרְתִּ֥י לָהֶ֖ם בְּרִ֣ית רִאשֹׁנִ֑ים אֲשֶׁ֣ר הוֹצֵֽאתִי־ אֹתָם֩ מֵאֶ֨רֶץ מִצְרַ֜יִם לְעֵינֵ֣י הַגּוֹיִ֗ם לִהְיֹ֥ת לָהֶ֛ם לֵאלֹהִ֖ים אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H7223H]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:45**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 But for their sake I will remember the covenant with their fathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתִּ֥י]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1285\|בְּרִ֣ית]] [[H7223H\|רִאשֹׁנִ֑ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H3318H\|הוֹצֵֽאתִי]][[H9014\|־]] [[H0853\|אֹתָ]][[H9038\|ם֩]] [[H9006\|מֵ]][[H0776G\|אֶ֨רֶץ]] [[H4714G\|מִצְרַ֜יִם]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֗ם]] [[H9005\|לִ]][[H1961\|הְיֹ֥ת]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֖ים]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOD|GOD]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.44|<< Leviticus 26:44]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.46|Leviticus 26:46 >>]]</td></tr></table>
 

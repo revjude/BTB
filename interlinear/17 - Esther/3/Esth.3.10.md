@@ -1,8 +1,65 @@
+---
+title: Esther 3:10
+type: Verse
+kjv: "And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews’ enemy."
+bsb: "So the king removed the signet ring from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews."
+hebrew: "וַיָּ֧סַר הַמֶּ֛לֶךְ אֶת־ טַבַּעְתּ֖וֹ מֵעַ֣ל יָד֑וֹ וַֽיִּתְּנָ֗הּ לְהָמָ֧ן בֶּֽן־ הַמְּדָ֛תָא הָאֲגָגִ֖י צֹרֵ֥ר הַיְּהוּדִֽים׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic HAMMEDATHA|HAMMEDATHA]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic RING|RING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2885]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H2001]]"
+- "[[H1121A]]"
+- "[[H4099]]"
+- "[[H0091]]"
+- "[[H6887D]]"
+- "[[H3064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:10**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews’ enemy.
 <small><sub>**BSB:**</sub></small>
 So the king removed the signet ring from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|יָּ֧סַר]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H2885\|טַבַּעְתּ֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנָ֗]][[H9034\|הּ]] [[H9005\|לְ]][[H2001\|הָמָ֧ן]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H4099\|הַמְּדָ֛תָא]] [[H9009\|הָ]][[H0091\|אֲגָגִ֖י]] [[H6887D\|צֹרֵ֥ר]] [[H9009\|הַ]][[H3064\|יְּהוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic HAMMEDATHA|HAMMEDATHA]] • [[topic MALICE|MALICE]] • [[topic REVENGE|REVENGE]] • [[topic RING|RING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.9|<< Esther 3:9]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.11|Esther 3:11 >>]]</td></tr></table>
 

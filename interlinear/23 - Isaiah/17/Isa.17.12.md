@@ -1,8 +1,52 @@
+---
+title: Isaiah 17:12
+type: Verse
+kjv: "Woe to the multitude of many people, which make a noise like the noise of the seas; and to the rushing of nations, that make a rushing like the rushing of mighty waters!"
+bsb: "Alas, the tumult of many peoples; they rage like the roaring seas and clamoring nations; they rumble like the crashing of mighty waters."
+hebrew: "ה֗וֹי הֲמוֹן֙ עַמִּ֣ים רַבִּ֔ים כַּהֲמ֥וֹת יַמִּ֖ים יֶהֱמָי֑וּן וּשְׁא֣וֹן לְאֻמִּ֔ים כִּשְׁא֛וֹן מַ֥יִם כַּבִּירִ֖ים יִשָּׁאֽוּן׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H1945]]"
+- "[[H1995A]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H1993]]"
+- "[[H3220G]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H7588]]"
+- "[[H3816]]"
+- "[[H4325G]]"
+- "[[H3524]]"
+- "[[H7582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:12**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the multitude of many people, [which] make a noise like the noise of the seas; and to the rushing of nations, [that] make a rushing like the rushing of mighty waters!
 <small><sub>**BSB:**</sub></small>
 Alas, the tumult of many peoples; they rage like the roaring seas and clamoring nations; they rumble like the crashing of mighty waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֗וֹי]] [[H1995A\|הֲמוֹן֙]] [[H5971A\|עַמִּ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H9004\|כַּ]][[H1993\|הֲמ֥וֹת]] [[H3220G\|יַמִּ֖ים]] [[H1993\|יֶהֱמָי֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H7588\|שְׁא֣וֹן]] [[H3816\|לְאֻמִּ֔ים]] [[H9004\|כִּ]][[H7588\|שְׁא֛וֹן]] [[H4325G\|מַ֥יִם]] [[H3524\|כַּבִּירִ֖ים]] [[H7582\|יִשָּׁאֽוּ]][[H9013\|ן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 

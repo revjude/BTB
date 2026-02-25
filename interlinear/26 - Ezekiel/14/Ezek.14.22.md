@@ -1,8 +1,74 @@
+---
+title: Ezekiel 14:22
+type: Verse
+kjv: "Yet, behold, therein shall be left a remnant that shall be brought forth, both sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, even concerning all that I have brought upon it."
+bsb: "Yet, behold, some survivors will be left in it—sons and daughters who will be brought out. They will come out to you, and when you see their conduct and actions, you will be comforted regarding the disaster I have brought upon Jerusalem—all that I have brought upon it."
+hebrew: "וְהִנֵּ֨ה נֽוֹתְרָה־ בָּ֜הּ פְּלֵטָ֗ה הַֽמּוּצָאִים֮ בָּנִ֣ים וּבָנוֹת֒ הִנָּם֙ יוֹצְאִ֣ים אֲלֵיכֶ֔ם וּרְאִיתֶ֥ם אֶת־ דַּרְכָּ֖ם וְאֶת־ עֲלִֽילוֹתָ֑ם וְנִחַמְתֶּ֗ם עַל־ הָֽרָעָה֙ אֲשֶׁ֤ר הֵבֵ֙אתִי֙ עַל־ יְר֣וּשָׁלִַ֔ם אֵ֛ת כָּל־ אֲשֶׁ֥ר הֵבֵ֖אתִי עָלֶֽיהָ׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3498]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H6413]]"
+- "[[H9009]]"
+- "[[H3318H]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H5949]]"
+- "[[H5162G]]"
+- "[[H5921A]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H3389]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:22**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet, behold, therein shall be left a remnant that shall be brought forth, [both] sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, [even] concerning all that I have brought upon it.
 <small><sub>**BSB:**</sub></small>
 Yet, behold, some survivors will be left in it—sons and daughters who will be brought out. They will come out to you, and when you see their conduct and actions, you will be comforted regarding the disaster I have brought upon Jerusalem—all that I have brought upon it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H3498\|נֽוֹתְרָה]][[H9014\|־]] [[H9003\|בָּ֜]][[H9034\|הּ]] [[H6413\|פְּלֵטָ֗ה]] [[H9009\|הַֽ]][[H3318H\|מּוּצָאִים֮]] [[H1121A\|בָּנִ֣ים]] [[H9002\|וּ]][[H1323G\|בָנוֹת֒]] [[H2005\|הִנָּ]][[H9048\|ם֙]] [[H3318G\|יוֹצְאִ֣ים]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H9001\|וּ]][[H7200G\|רְאִיתֶ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּ֖]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5949\|עֲלִֽילוֹתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5162G\|נִחַמְתֶּ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H7451C\|רָעָה֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H0935P\|הֵבֵ֙אתִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H0935P\|הֵבֵ֖אתִי]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.21|<< Ezekiel 14:21]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.23|Ezekiel 14:23 >>]]</td></tr></table>
 

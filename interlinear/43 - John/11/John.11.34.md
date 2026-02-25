@@ -1,10 +1,55 @@
+---
+title: John 11:34
+type: Verse
+kjv: "And said, Where have ye laid him? They said unto him, Lord, come and see."
+bsb: "“Where have you put him?” He asked. “Come and see, Lord,” they answered."
+jesus_said: "Where have ye laid him?"
+greek: "καὶ εἶπεν· ποῦ τεθείκατε αὐτόν; λέγουσιν αὐτῷ· κύριε, ἔρχου καὶ ἴδε."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4226]]"
+- "[[G5087]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G2064]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **John 11:34**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said, Where have ye laid him? They said unto him, Lord, come and see.
 <small><sub>**BSB:**</sub></small>
 “Where have you put him?” He asked. “Come and see, Lord,” they answered.
-<small><sub>**Literal:**</sub></small>
-And He said; Where have you laid him? They say to Him; Lord, do come and do see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.33|<< John 11:33]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.35|John 11:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G4226\|ποῦ]]  [[G5087\|τεθείκατε]]  [[G0846\|αὐτόν;]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G1492H\|ἴδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.33|<< John 11:33]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.35|John 11:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

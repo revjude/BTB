@@ -1,6 +1,49 @@
+---
+title: LXX Psalm 30:2
+type: Verse
+lxx: "O lord  my God, I cried out to you, and I shall heal of my condition."
+greek: "κύριε ο θεός μου εκέκραξα προς σε και ιάσω με"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2896]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2390]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 30:2** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  my God, I cried out to you, and I shall heal of my \[condition\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2962\|κύριε]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|μου]] [[G2896\|εκέκραξα]] [[G4314\|προς]] [[G1473\|σε]] [[G2532\|και]] [[G2390\|ιάσω]] [[G1473\|με]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.1|<< Psalm 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.3|Psalm 30:3 >>]]</td></tr></table>
 
@@ -15,6 +58,6 @@ O <span class="smallcaps">lord</span>  my God, I cried out to you, and I shall h
 | and | **<big>[[G2532\|και]]</big>** |
 | I shall heal | **<big>[[G2390\|ιάσω]]</big>** |
 | of my \[condition\]. | **<big>[[G1473\|με]]</big>** |
-[[Ps.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.1|<< Psalm 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.3|Psalm 30:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.1|<< Psalm 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.3|Psalm 30:3 >>]]</td></tr></table>
 
 

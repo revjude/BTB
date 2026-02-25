@@ -1,8 +1,55 @@
+---
+title: Job 36:22
+type: Verse
+kjv: "Behold, God exalteth by his power: who teacheth like him?"
+bsb: "Behold, God is exalted in His power. Who is a teacher like Him?"
+hebrew: "הֶן־ אֵ֭ל יַשְׂגִּ֣יב בְּכֹח֑וֹ מִ֖י כָמֹ֣הוּ מוֹרֶֽה׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H7682]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H4310]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H4175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:22**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, God exalteth by his power: who teacheth like him?
 <small><sub>**BSB:**</sub></small>
 Behold, God is exalted in His power. Who is a teacher like Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H0410G\|אֵ֭ל]] [[H7682\|יַשְׂגִּ֣יב]] [[H9003\|בְּ]][[H3581B\|כֹח֑]][[H9023\|וֹ]] [[H4310\|מִ֖י]] [[H3644G\|כָמֹ֣]][[H9033\|הוּ]] [[H4175\|מוֹרֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.21|<< Job 36:21]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.23|Job 36:23 >>]]</td></tr></table>
 

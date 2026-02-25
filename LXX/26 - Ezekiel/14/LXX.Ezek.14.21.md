@@ -1,6 +1,69 @@
+---
+title: LXX Ezekiel 14:21
+type: Verse
+lxx: "Thus says Adonai the lord; But if also  my four punishments -- the ferocious broadsword, and famine, and ferocious wild beasts, and plague, I should send out upon Jerusalem  to utterly destroy from out of it man and beast;"
+greek: "τάδε λέγει Αδωναϊ κύριος εάν δε και τας τέσσαρας εκδικήσεις μου τας πονηράς ρομφαίαν και λιμόν και θηρία πονηρά και θάνατόν εξαποστειλω επί Ιερουσαλήμ του εξολοθρεύσαι εξ αυτής άνθρωπον και κτήνος"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G1557]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G4501]]"
+- "[[G2532]]"
+- "[[G3042]]"
+- "[[G2532]]"
+- "[[G2342]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G2288]]"
+- "[[G1821]]"
+- "[[G1909]]"
+- "[[G2419]]"
+- "[[G3588]]"
+- "[[G1842]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G2934]]"
+---
+
 **LXX Ezekiel 14:21** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; But if also  my four punishments -- the ferocious broadsword, and famine, and ferocious wild beasts, and plague, I should send out upon Jerusalem  to utterly destroy from out of it man and beast; 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G1437\|εάν]] [[G1161\|δε]] [[G2532\|και]] [[G3588\|τας]] [[G5064\|τέσσαρας]] [[G1557\|εκδικήσεις]] [[G1473\|μου]] [[G3588\|τας]] [[G4190\|πονηράς]] [[G4501\|ρομφαίαν]] [[G2532\|και]] [[G3042\|λιμόν]] [[G2532\|και]] [[G2342\|θηρία]] [[G4190\|πονηρά]] [[G2532\|και]] [[G2288\|θάνατόν]] [[G1821\|εξαποστειλω]] [[G1909\|επί]] [[G2419\|Ιερουσαλήμ]] [[G3588\|του]] [[G1842\|εξολοθρεύσαι]] [[G1537\|εξ]] [[G1473\|αυτής]] [[G0444\|άνθρωπον]] [[G2532\|και]] [[G2934\|κτήνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -40,6 +103,6 @@ Thus says Adonai \[the\] <span class="smallcaps">lord</span>; But if also  my fo
 | man | **<big>[[G0444\|άνθρωπον]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | beast; | **<big>[[G2934\|κτήνος]]</big>** |
-[[Ezek.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
 
 

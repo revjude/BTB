@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 16:7
+type: Verse
+kjv: "And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:"
+bsb: "And as he yelled curses, Shimei said, “Get out, get out, you worthless man of bloodshed!"
+hebrew: "וְכֹֽה־ אָמַ֥ר שִׁמְעִ֖י בְּקַֽלְל֑וֹ צֵ֥א צֵ֛א אִ֥ישׁ הַדָּמִ֖ים וְאִ֥ישׁ הַבְּלִיָּֽעַל׃"
+pericope: "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic CURSING|CURSING]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RAILING|RAILING]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H8096H]]"
+- "[[H9003]]"
+- "[[H7043]]"
+- "[[H9043]]"
+- "[[H3318G]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H1100G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:7**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
 <small><sub>**BSB:**</sub></small>
 And as he yelled curses, Shimei said, “Get out, get out, you worthless man of bloodshed!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3541\|כֹֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H8096H\|שִׁמְעִ֖י]] [[H9003\|בְּ]][[H7043\|קַֽלְל֑]][[H9043\|וֹ]] [[H3318G\|צֵ֥א]] [[H3318G\|צֵ֛א]] [[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1818\|דָּמִ֖ים]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1100G\|בְּלִיָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEMENCY|CLEMENCY]] • [[topic CURSING|CURSING]] • [[topic MALICE|MALICE]] • [[topic RAILING|RAILING]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.6|<< 2 Samuel 16:6]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.8|2 Samuel 16:8 >>]]</td></tr></table>
 

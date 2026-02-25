@@ -1,10 +1,66 @@
+---
+title: Acts 7:26
+type: Verse
+kjv: "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?"
+bsb: "The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’"
+greek: "τῇ τε ἐπιούσῃ ἡμέρᾳ ὤφθη αὐτοῖς μαχομένοις καὶ συνήλλασσεν αὐτοὺς εἰς εἰρήνην εἰπών· ἄνδρες, ἀδελφοί ἐστε ὑμεῖς· ἱνατί ἱνατί ἀδικεῖτε ἀλλήλους;"
+pericope: "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G1966]]"
+- "[[G2250]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G3164]]"
+- "[[G2532]]"
+- "[[G9996]]"
+- "[[G1519]]"
+- "[[G1515]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G5101]]"
+- "[[G0091]]"
+- "[[G0240]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Acts 7:26**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?
 <small><sub>**BSB:**</sub></small>
 The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’
-<small><sub>**Literal:**</sub></small>
-On the and following day he appeared to those who were quarreling and was reconciling them to peace having said: Men, brothers are you yourselves; why wrong one another?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.25|<< Acts 7:25]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.27|Acts 7:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G5037\|τε]]  [[G1966\|ἐπιούσῃ]]  [[G2250\|ἡμέρᾳ]]  [[G3700\|ὤφθη]]  [[G0846\|αὐτοῖς]]  [[G3164\|μαχομένοις]]  [[G2532\|καὶ]]  [[G9996\|συνήλλασσεν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G1515\|εἰρήνην]]  [[G2036\|εἰπών·]]  [[G0435G\|ἄνδρες,]]  [[G0080\|ἀδελφοί]]  [[G1510\|ἐστε]]  [[G4771\|ὑμεῖς·]]  [[G2443\|ἱνατί]]  <sup><small>[[G5101\| [ • ] ]]</small></sup>  [[G0091\|ἀδικεῖτε]]  [[G0240\|ἀλλήλους;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic PEACE|PEACE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.25|<< Acts 7:25]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.27|Acts 7:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:26** is...
 > $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-14]]

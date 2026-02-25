@@ -1,8 +1,68 @@
+---
+title: Exodus 18:7
+type: Verse
+kjv: "And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent."
+bsb: "So Moses went out to meet his father-in-law and bowed down and kissed him. They greeted each other and went into the tent."
+hebrew: "וַיֵּצֵ֨א מֹשֶׁ֜ה לִקְרַ֣את חֹֽתְנ֗וֹ וַיִּשְׁתַּ֙חוּ֙ וַיִּשַּׁק־ ל֔וֹ וַיִּשְׁאֲל֥וּ אִישׁ־ לְרֵעֵ֖הוּ לְשָׁל֑וֹם וַיָּבֹ֖אוּ הָאֹֽהֱלָה׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic KISS|KISS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H2859A]]"
+- "[[H9023]]"
+- "[[H7812]]"
+- "[[H5401A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H7592]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H7965I]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:7**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of [their] welfare; and they came into the tent.
 <small><sub>**BSB:**</sub></small>
 So Moses went out to meet his father-in-law and bowed down and kissed him. They greeted each other and went into the tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H4872\|מֹשֶׁ֜ה]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H2859A\|חֹֽתְנ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֙חוּ֙]] [[H9001\|וַ]][[H5401A\|יִּשַּׁק]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7592\|יִּשְׁאֲל֥וּ]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9005\|לְ]][[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H9005\|לְ]][[H7965I\|שָׁל֑וֹם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H9009\|הָ]][[H0168G\|אֹֽהֱלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic KISS|KISS]] • [[topic MOSES|MOSES]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.6|<< Exodus 18:6]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.8|Exodus 18:8 >>]]</td></tr></table>
 

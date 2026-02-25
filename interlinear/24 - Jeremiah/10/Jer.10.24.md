@@ -1,8 +1,56 @@
+---
+title: Jeremiah 10:24
+type: Verse
+kjv: "O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing."
+bsb: "Correct me, O LORD, but only with justice—not in Your anger, or You will bring me to nothing."
+hebrew: "יַסְּרֵ֥נִי יְהוָ֖ה אַךְ־ בְּמִשְׁפָּ֑ט אַל־ בְּאַפְּךָ֖ פֶּן־ תַּמְעִטֵֽנִי׃"
+pericope: "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H3256]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H0408]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H6435]]"
+- "[[H4591]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:24**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.
 <small><sub>**BSB:**</sub></small>
 Correct me, O LORD, but only with justice—not in Your anger, or You will bring me to nothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3256\|יַסְּרֵ֥]][[H9030\|נִי]] [[H3068G\|יְהוָ֖ה]] [[H0389\|אַךְ]][[H9014\|־]] [[H9003\|בְּ]][[H4941H\|מִשְׁפָּ֑ט]] [[H0408\|אַל]][[H9014\|־]] [[H9003\|בְּ]][[H0639G\|אַפְּ]][[H9021\|ךָ֖]] [[H6435\|פֶּן]][[H9014\|־]] [[H4591\|תַּמְעִטֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.23|<< Jeremiah 10:23]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.25|Jeremiah 10:25 >>]]</td></tr></table>
 

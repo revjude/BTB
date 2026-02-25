@@ -1,8 +1,73 @@
+---
+title: Exodus 4:4
+type: Verse
+kjv: "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
+bsb: "“Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ׃"
+pericope: "[[Exod.4.1 Moses’ Staff|Moses’ Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H2180]]"
+- "[[H9023]]"
+- "[[H2388H]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H4294G]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:4**<big><big>[[Exod.4.1 Moses’ Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:
 <small><sub>**BSB:**</sub></small>
 “Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H7971K\|שְׁלַח֙]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֔]] [[H9002\|וֶ]][[H0270\|אֱחֹ֖ז]] [[H9003\|בִּ]][[H2180\|זְנָב֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7971K\|יִּשְׁלַ֤ח]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H9001\|וַ]][[H2388H\|יַּ֣חֲזֶק]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9005\|לְ]][[H4294G\|מַטֶּ֖ה]] [[H9003\|בְּ]][[H3709G\|כַפּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic SIGN|SIGN]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.3|<< Exodus 4:3]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.5|Exodus 4:5 >>]]</td></tr></table>
 

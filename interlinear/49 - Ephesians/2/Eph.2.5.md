@@ -1,10 +1,56 @@
+---
+title: Ephesians 2:5
+type: Verse
+kjv: "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)"
+bsb: "made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!"
+greek: "καὶ ὄντας ἡμᾶς νεκροὺς τοῖς παραπτώμασιν συνεζωοποίησεν τῷ Χριστῷ, χάριτί ἐστε σεσῳσμένοι."
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G3498]]"
+- "[[G3588]]"
+- "[[G3900]]"
+- "[[G4806]]"
+- "[[G5547]]"
+- "[[G5485]]"
+- "[[G4982]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:5**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
 <small><sub>**BSB:**</sub></small>
 made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!
-<small><sub>**Literal:**</sub></small>
-even being we dead <the> in trespasses made [us] alive with <the> Christ — by grace you are saved —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.4|<< Ephesians 2:4]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.6|Ephesians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ὄντας]]  [[G3165\|ἡμᾶς]]  [[G3498\|νεκροὺς]]  [[G3588\|τοῖς]]  [[G3900\|παραπτώμασιν]]  [[G4806\|συνεζωοποίησεν]]  [[G3588\|τῷ]]  [[G5547\|Χριστῷ,]]  [[G5485\|χάριτί]]  [[G1510\|ἐστε]]  [[G4982\|σεσῳσμένοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.4|<< Ephesians 2:4]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.6|Ephesians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

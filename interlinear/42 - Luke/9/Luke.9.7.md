@@ -1,10 +1,66 @@
+---
+title: Luke 9:7
+type: Verse
+kjv: "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+bsb: "When Herod the tetrarch heard about all that was happening, he was perplexed. For some were saying that John had risen from the dead,"
+greek: "Ἤκουσεν δὲ Ἡρῴδης ὁ τετραάρχης τὰ γινόμενα ὑπ᾽ αὐτοῦ πάντα καὶ διηπόρει διὰ τὸ λέγεσθαι ὑπό τινων ὅτι Ἰωάννης ἠγέρθη ἐκ νεκρῶν,"
+pericope: "[[Luke.9.7 Herod Tries to See Jesus|Herod Tries to See Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FISH|FISH]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G2264H]]"
+- "[[G3588]]"
+- "[[G5076]]"
+- "[[G1096]]"
+- "[[G5259G]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1280]]"
+- "[[G1223]]"
+- "[[G3004G]]"
+- "[[G5100]]"
+- "[[G3754G]]"
+- "[[G2491G]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Luke 9:7**<big><big>[[Luke.9.7 Herod Tries to See Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
 <small><sub>**BSB:**</sub></small>
 When Herod the tetrarch heard about all that was happening, he was perplexed. For some were saying that John had risen from the dead,
-<small><sub>**Literal:**</sub></small>
-Heard of now Herod the Tetrarch the [things] being done by him all and was perplexed because of the saying by some that John has been raised out from [the] dead,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.6|<< Luke 9:6]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.8|Luke 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἤκουσεν]]  [[G1161\|δὲ]]  [[G2264H\|Ἡρῴδης]]  [[G3588\|ὁ]]  [[G5076\|τετραάρχης]]  [[G3588\|τὰ]]  [[G1096\|γινόμενα]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G1280\|διηπόρει]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3004G\|λέγεσθαι]]  [[G5259G\|ὑπό]]  [[G5100\|τινων]]  [[G3754G\|ὅτι]]  [[G2491G\|Ἰωάννης]]  [[G1453\|ἠγέρθη]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic FISH|FISH]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.6|<< Luke 9:6]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.8|Luke 9:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

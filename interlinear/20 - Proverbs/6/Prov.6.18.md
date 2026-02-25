@@ -1,8 +1,59 @@
+---
+title: Proverbs 6:18
+type: Verse
+kjv: "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+bsb: "a heart that devises wicked schemes, feet that run swiftly to evil,"
+hebrew: "לֵ֗ב חֹ֭רֵשׁ מַחְשְׁב֣וֹת אָ֑וֶן רַגְלַ֥יִם מְ֝מַהֲר֗וֹת לָר֥וּץ לָֽרָעָה׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3820A]]"
+- "[[H2790A]]"
+- "[[H4284]]"
+- "[[H0205G]]"
+- "[[H7272]]"
+- "[[H4116A]]"
+- "[[H9005]]"
+- "[[H7323G]]"
+- "[[H7451I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:18**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
 <small><sub>**BSB:**</sub></small>
 a heart that devises wicked schemes, feet that run swiftly to evil,
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לֵ֗ב]] [[H2790A\|חֹ֭רֵשׁ]] [[H4284\|מַחְשְׁב֣וֹת]] [[H0205G\|אָ֑וֶן]] [[H7272\|רַגְלַ֥יִם]] [[H4116A\|מְ֝מַהֲר֗וֹת]] [[H9005\|לָ]][[H7323G\|ר֥וּץ]] [[H9005\|לָֽ]][[H7451I\|רָעָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HEART|HEART]] • [[topic IMAGINATION|IMAGINATION]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]] • [[topic STRIFE|STRIFE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.17|<< Proverbs 6:17]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.19|Proverbs 6:19 >>]]</td></tr></table>
 

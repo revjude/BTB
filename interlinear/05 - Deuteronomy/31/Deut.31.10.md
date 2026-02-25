@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 31:10
+type: Verse
+kjv: "And Moses commanded them, saying, At the end of every seven years, in the solemnity of the year of release, in the feast of tabernacles,"
+bsb: "Then Moses commanded them, “At the end of every seven years, at the appointed time in the year of remission of debt, during the Feast of Tabernacles,"
+hebrew: "וַיְצַ֥ו מֹשֶׁ֖ה אוֹתָ֣ם לֵאמֹ֑ר מִקֵּ֣ץ׀ שֶׁ֣בַע שָׁנִ֗ים בְּמֹעֵ֛ד שְׁנַ֥ת הַשְּׁמִטָּ֖ה בְּחַ֥ג הַסֻּכּֽוֹת׃"
+pericope: "[[Deut.31.9 The Reading of the Law|The Reading of the Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H9015]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4150G]]"
+- "[[H9009]]"
+- "[[H8059]]"
+- "[[H2282]]"
+- "[[H5521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:10**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses commanded them, saying, At the end of [every] seven years, in the solemnity of the year of release, in the feast of tabernacles,
 <small><sub>**BSB:**</sub></small>
 Then Moses commanded them, “At the end of every seven years, at the appointed time in the year of remission of debt, during the Feast of Tabernacles,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֥ו]] [[H4872\|מֹשֶׁ֖ה]] [[H0853\|אוֹתָ֣]][[H9038\|ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9006\|מִ]][[H7093\|קֵּ֣ץ]][[H9015\|׀]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֗ים]] [[H9003\|בְּ]][[H4150G\|מֹעֵ֛ד]] [[H8141\|שְׁנַ֥ת]] [[H9009\|הַ]][[H8059\|שְּׁמִטָּ֖ה]] [[H9003\|בְּ]][[H2282\|חַ֥ג]] [[H9009\|הַ]][[H5521\|סֻּכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic PRIEST|PRIEST]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SCHOOL|SCHOOL]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.9|<< Deuteronomy 31:9]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.11|Deuteronomy 31:11 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Six Bowls of Wrath
+type: Pericope
 pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 16
 book/chapter: "[[Rev.16|Revelation 16]]"
-genre:
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 16
 verses:
 - "[[Rev.16.1]]"
 - "[[Rev.16.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Rev.16.16]]"
 ---
 
-[[Rev.16|Revelation 16:1 - Revelation 16:16]]
+<small>[[Rev.16|Revelation 16:1-16]]</small>
 *The First Six Bowls of Wrath*
 
 [[Rev.16.1|1]] And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.

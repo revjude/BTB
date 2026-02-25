@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 31:11
+type: Verse
+kjv: "And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;"
+bsb: "When the people of Jabesh-gilead heard what the Philistines had done to Saul,"
+hebrew: "וַיִּשְׁמְע֣וּ אֵלָ֔יו יֹשְׁבֵ֖י יָבֵ֣ישׁ גִּלְעָ֑ד אֵ֛ת אֲשֶׁר־ עָשׂ֥וּ פְלִשְׁתִּ֖ים לְשָׁאֽוּל׃"
+pericope: "[[1Sam.31.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3427]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:11**<big><big>[[1Sam.31.11 Jabesh-gilead’s Tribute to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;
 <small><sub>**BSB:**</sub></small>
 When the people of Jabesh-gilead heard what the Philistines had done to Saul,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְע֣וּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H3427\|יֹשְׁבֵ֖י]] [[H3003I\|יָבֵ֣ישׁ]] [[H1568L\|גִּלְעָ֑ד]] [[H0853\|אֵ֛ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשׂ֥וּ]] [[H6430G\|פְלִשְׁתִּ֖ים]] [[H9005\|לְ]][[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.10|<< 1 Samuel 31:10]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.12|1 Samuel 31:12 >>]]</td></tr></table>
 

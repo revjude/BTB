@@ -1,10 +1,58 @@
+---
+title: Luke 16:12
+type: Verse
+kjv: "And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?"
+bsb: "And if you have not been faithful with the belongings of another, who will give you belongings of your own?"
+jesus_said: "And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?"
+greek: "καὶ εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε, τὸ ὑμέτερον τίς ὑμῖν δώσει;¶"
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0245]]"
+- "[[G4103]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1325]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Luke 16:12**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if ye have not been faithful in that which is another man’s, who shall give you that which is your own?
 <small><sub>**BSB:**</sub></small>
 And if you have not been faithful with the belongings of another, who will give you belongings of your own?
-<small><sub>**Literal:**</sub></small>
-And if in that which [is] of another faithful not you have been, that which [is] yours who to you will give<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.11|<< Luke 16:11]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.13|Luke 16:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0245\|ἀλλοτρίῳ]]  [[G4103\|πιστοὶ]]  [[G3756\|οὐκ]]  [[G1096\|ἐγένεσθε,]]  [[G3588\|τὸ]]  [[G4771\|ὑμέτερον]]  [[G5101\|τίς]]  [[G4771\|ὑμῖν]]  [[G1325\|δώσει;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.11|<< Luke 16:11]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.13|Luke 16:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,68 @@
+---
+title: LXX Exodus 13:18
+type: Verse
+lxx: "and God circled the people in the way -- the one into the wilderness, to the red sea. And in the fifth generation the sons of Israel ascended from out of the land of Egypt."
+greek: "και εκύκλωσεν ο θεός τον λαόν οδόν την εις την έρημον εις την ερυθράν θάλασσαν πέμπτη δε γενεά ανέβησαν οι υιοί Ισραήλ εκ γης Αιγύπτου"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[G2532]]"
+- "[[G2944]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3598]]"
+- "[[G3588]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2063]]"
+- "[[G2281]]"
+- "[[G3991]]"
+- "[[G1161]]"
+- "[[G1074]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+---
+
 **LXX Exodus 13:18** 
 <small><sub>**LXX:**</sub></small>
 and God circled the people in \[the\] way -- the one into the wilderness, to the red sea. And in \[the\] fifth generation the sons of Israel ascended from out of \[the\] land of Egypt. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2944\|εκύκλωσεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|τον]] [[G2992\|λαόν]] [[G3598\|οδόν]] [[G3588\|την]] [[G1519\|εις]] [[G3588\|την]] [[G2048\|έρημον]] [[G1519\|εις]] [[G3588\|την]] [[G2063\|ερυθράν]] [[G2281\|θάλασσαν]] [[G3991\|πέμπτη]] [[G1161\|δε]] [[G1074\|γενεά]] [[G0305\|ανέβησαν]] [[G3588\|οι]] [[G5207\|υιοί]] [[G2474\|Ισραήλ]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.17|<< Exodus 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.19|Exodus 13:19 >>]]</td></tr></table>
 
@@ -28,6 +90,6 @@ and God circled the people in \[the\] way -- the one into the wilderness, to the
 | from out of | **<big>[[G1537\|εκ]]</big>** |
 | \[the\] land | **<big>[[G1093\|γης]]</big>** |
 | of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
-[[Exod.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.17|<< Exodus 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.19|Exodus 13:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.17|<< Exodus 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.19|Exodus 13:19 >>]]</td></tr></table>
 
 

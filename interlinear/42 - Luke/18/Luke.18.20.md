@@ -1,10 +1,67 @@
+---
+title: Luke 18:20
+type: Verse
+kjv: "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+bsb: "You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’”"
+jesus_said: "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+greek: "τὰς ἐντολὰς οἶδας· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου."
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G6063]]"
+- "[[G3361]]"
+- "[[G3431]]"
+- "[[G5407]]"
+- "[[G2813]]"
+- "[[G5576]]"
+- "[[G5091]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3384]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 18:20**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.
 <small><sub>**BSB:**</sub></small>
 You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’”
-<small><sub>**Literal:**</sub></small>
-The commandments You know: Not shall you commit adultery, not shall you murder, not shall you steal, not shall you bear false witness, do honor the father of you and the mother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.19|<< Luke 18:19]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.21|Luke 18:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G6063\|οἶδας·]]  [[G3361\|μὴ]]  [[G3431\|μοιχεύσῃς,]]  [[G3361\|μὴ]]  [[G5407\|φονεύσῃς,]]  [[G3361\|μὴ]]  [[G2813\|κλέψῃς,]]  [[G3361\|μὴ]]  [[G5576\|ψευδομαρτυρήσῃς,]]  [[G5091\|τίμα]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOTHER|MOTHER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.19|<< Luke 18:19]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.21|Luke 18:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 18:20** is...
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]

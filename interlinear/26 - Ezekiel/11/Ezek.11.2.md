@@ -1,8 +1,67 @@
+---
+title: Ezekiel 11:2
+type: Verse
+kjv: "Then said he unto me, Son of man, these are the men that devise mischief, and give wicked counsel in this city:"
+bsb: "And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city."
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י בֶּן־ אָדָ֕ם אֵ֣לֶּה הָאֲנָשִׁ֞ים הַחֹשְׁבִ֥ים אָ֛וֶן וְהַיֹּעֲצִ֥ים עֲצַת־ רָ֖ע בָּעִ֥יר הַזֹּֽאת׃"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H2803I]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H3289]]"
+- "[[H6098]]"
+- "[[H7451B]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:2**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Son of man, these [are] the men that devise mischief, and give wicked counsel in this city:
 <small><sub>**BSB:**</sub></small>
 And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H0428\|אֵ֣לֶּה]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֞ים]] [[H9009\|הַ]][[H2803I\|חֹשְׁבִ֥ים]] [[H0205G\|אָ֛וֶן]] [[H9002\|וְ]][[H9009\|הַ]][[H3289\|יֹּעֲצִ֥ים]] [[H6098\|עֲצַת]][[H9014\|־]] [[H7451B\|רָ֖ע]] [[H9003\|בָּ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic PELATIAH|PELATIAH]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.1|<< Ezekiel 11:1]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.3|Ezekiel 11:3 >>]]</td></tr></table>
 

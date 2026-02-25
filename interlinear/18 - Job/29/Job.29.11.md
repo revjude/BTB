@@ -1,8 +1,53 @@
+---
+title: Job 29:11
+type: Verse
+kjv: "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"
+bsb: "For those who heard me called me blessed, and those who saw me commended me,"
+hebrew: "כִּ֤י אֹ֣זֶן שָׁ֭מְעָה וַֽתְּאַשְּׁרֵ֑נִי וְעַ֥יִן רָ֝אֲתָ֗ה וַתְּעִידֵֽנִי׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H0833]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H5749B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:11**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the ear heard [me], then it blessed me; and when the eye saw [me], it gave witness to me:
 <small><sub>**BSB:**</sub></small>
 For those who heard me called me blessed, and those who saw me commended me,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0241G\|אֹ֣זֶן]] [[H8085G\|שָׁ֭מְעָה]] [[H9001\|וַֽ]][[H0833\|תְּאַשְּׁרֵ֑]][[H9030\|נִי]] [[H9002\|וְ]][[H5869A\|עַ֥יִן]] [[H7200G\|רָ֝אֲתָ֗ה]] [[H9001\|וַ]][[H5749B\|תְּעִידֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.10|<< Job 29:10]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.12|Job 29:12 >>]]</td></tr></table>
 

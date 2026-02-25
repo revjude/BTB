@@ -1,10 +1,58 @@
+---
+title: Luke 3:15
+type: Verse
+kjv: "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;"
+bsb: "The people were waiting expectantly and were all wondering in their hearts if John could be the Christ."
+greek: "Προσδοκῶντος δὲ τοῦ λαοῦ καὶ διαλογιζομένων πάντων ἐν ταῖς καρδίαις αὐτῶν περὶ τοῦ Ἰωάννου, μήποτε μήποτε αὐτὸς εἴη ὁ χριστός,"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G4328]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G1260]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G2491G]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G1510]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Luke 3:15**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
 <small><sub>**BSB:**</sub></small>
 The people were waiting expectantly and were all wondering in their hearts if John could be the Christ.
-<small><sub>**Literal:**</sub></small>
-When were expecting then the people and wondering all in the hearts of them concerning <the> John, whether he himself would be the Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.14|<< Luke 3:14]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.16|Luke 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4328\|Προσδοκῶντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G2532\|καὶ]]  [[G1260\|διαλογιζομένων]]  [[G3956\|πάντων]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G0846\|αὐτῶν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2491G\|Ἰωάννου,]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G0846\|αὐτὸς]]  [[G1510\|εἴη]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.14|<< Luke 3:14]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.16|Luke 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

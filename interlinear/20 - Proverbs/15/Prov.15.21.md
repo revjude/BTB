@@ -1,8 +1,58 @@
+---
+title: Proverbs 15:21
+type: Verse
+kjv: "Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly."
+bsb: "Folly is joy to one who lacks judgment, but a man of understanding walks a straight path."
+hebrew: "אִ֭וֶּלֶת שִׂמְחָ֣ה לַחֲסַר־ לֵ֑ב וְאִ֥ישׁ תְּ֝בוּנָ֗ה יְיַשֶׁר־ לָֽכֶת׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0200]]"
+- "[[H8057]]"
+- "[[H9005]]"
+- "[[H2638]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H8394]]"
+- "[[H3474]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Proverbs 15:21**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Folly [is] joy to [him that is] destitute of wisdom: but a man of understanding walketh uprightly.
 <small><sub>**BSB:**</sub></small>
 Folly is joy to one who lacks judgment, but a man of understanding walks a straight path.
+<small><sub>**Hebrew:**</sub></small>
+[[H0200\|אִ֭וֶּלֶת]] [[H8057\|שִׂמְחָ֣ה]] [[H9005\|לַ]][[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H8394\|תְּ֝בוּנָ֗ה]] [[H3474\|יְיַשֶׁר]][[H9014\|־]] [[H1980I\|לָֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOY|JOY]] • [[topic PLEASURE|PLEASURE]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.20|<< Proverbs 15:20]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.22|Proverbs 15:22 >>]]</td></tr></table>
 

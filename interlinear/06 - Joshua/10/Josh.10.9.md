@@ -1,8 +1,59 @@
+---
+title: Joshua 10:9
+type: Verse
+kjv: "Joshua therefore came unto them suddenly, and went up from Gilgal all night."
+bsb: "After marching all night from Gilgal, Joshua caught them by surprise."
+hebrew: "וַיָּבֹ֧א אֲלֵיהֶ֛ם יְהוֹשֻׁ֖עַ פִּתְאֹ֑ם כָּל־ הַלַּ֕יְלָה עָלָ֖ה מִן־ הַגִּלְגָּֽל׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H6597]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H1537G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:9**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joshua therefore came unto them suddenly, [and] went up from Gilgal all night.
 <small><sub>**BSB:**</sub></small>
 After marching all night from Gilgal, Joshua caught them by surprise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֧א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֛ם]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H6597\|פִּתְאֹ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֕יְלָה]] [[H5927G\|עָלָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1537G\|גִּלְגָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic ARMIES|ARMIES]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.8|<< Joshua 10:8]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.10|Joshua 10:10 >>]]</td></tr></table>
 

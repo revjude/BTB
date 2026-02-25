@@ -1,8 +1,76 @@
+---
+title: 2 Kings 23:16
+type: Verse
+kjv: "And as Josiah turned himself, he spied the sepulchres that were there in the mount, and sent, and took the bones out of the sepulchres, and burned them upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words."
+bsb: "And as Josiah turned, he saw the tombs there on the hillside, and he sent someone to take the bones out of the tombs, and he burned them on the altar to defile it, according to the word of the LORD proclaimed by the man of God who had foretold these things."
+hebrew: "וַיִּ֣פֶן יֹאשִׁיָּ֗הוּ וַיַּ֨רְא אֶת־ הַקְּבָרִ֤ים אֲשֶׁר־ שָׁם֙ בָּהָ֔ר וַיִּשְׁלַ֗ח וַיִּקַּ֤ח אֶת־ הָֽעֲצָמוֹת֙ מִן־ הַקְּבָרִ֔ים וַיִּשְׂרֹ֥ף עַל־ הַמִּזְבֵּ֖חַ וַֽיְטַמְּאֵ֑הוּ כִּדְבַ֣ר יְהוָ֗ה אֲשֶׁ֤ר קָרָא֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֲשֶׁ֣ר קָרָ֔א אֶת־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H2977G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6913]]"
+- "[[H0834A]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H7971G]]"
+- "[[H3947G]]"
+- "[[H6106G]]"
+- "[[H4480A]]"
+- "[[H8313]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H2930A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H7121I]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:16**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Josiah turned himself, he spied the sepulchres that [were] there in the mount, and sent, and took the bones out of the sepulchres, and burned [them] upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.
 <small><sub>**BSB:**</sub></small>
 And as Josiah turned, he saw the tombs there on the hillside, and he sent someone to take the bones out of the tombs, and he burned them on the altar to defile it, according to the word of the LORD proclaimed by the man of God who had foretold these things.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּ֣פֶן]] [[H2977G\|יֹאשִׁיָּ֗הוּ]] [[H9001\|וַ]][[H7200G\|יַּ֨רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6913\|קְּבָרִ֤ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H9003\|בָּ]][[H2022G\|הָ֔ר]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6106G\|עֲצָמוֹת֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6913\|קְּבָרִ֔ים]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֥ף]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9001\|וַֽ]][[H2930A\|יְטַמְּאֵ֑]][[H9033\|הוּ]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H7121I\|קָרָא֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H7121I\|קָרָ֔א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BURIAL|BURIAL]] • [[topic CALF|CALF]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.15|<< 2 Kings 23:15]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.17|2 Kings 23:17 >>]]</td></tr></table>
 

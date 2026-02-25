@@ -1,8 +1,77 @@
+---
+title: Amos 5:11
+type: Verse
+kjv: "Forasmuch therefore as your treading is upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them."
+bsb: "Therefore, because you trample on the poor and exact from him a tax of grain, you will never live in the stone houses you have built; you will never drink the wine from the lush vineyards you have planted."
+hebrew: "לָ֠כֵן יַ֣עַן בּוֹשַׁסְכֶ֞ם עַל־ דָּ֗ל וּמַשְׂאַת־ בַּר֙ תִּקְח֣וּ מִמֶּ֔נּוּ בָּתֵּ֥י גָזִ֛ית בְּנִיתֶ֖ם וְלֹא־ תֵ֣שְׁבוּ בָ֑ם כַּרְמֵי־ חֶ֣מֶד נְטַעְתֶּ֔ם וְלֹ֥א תִשְׁתּ֖וּ אֶת־ יֵינָֽם׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3282]]"
+- "[[H1318]]"
+- "[[H9046]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H4864]]"
+- "[[H1250A]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H1496]]"
+- "[[H1129]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3754]]"
+- "[[H2531]]"
+- "[[H5193]]"
+- "[[H8354]]"
+- "[[H0853]]"
+- "[[H3196]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:11**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forasmuch therefore as your treading [is] upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.
 <small><sub>**BSB:**</sub></small>
 Therefore, because you trample on the poor and exact from him a tax of grain, you will never live in the stone houses you have built; you will never drink the wine from the lush vineyards you have planted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֠]][[H3651C\|כֵן]] [[H3282\|יַ֣עַן]] [[H1318\|בּוֹשַׁסְ]][[H9046\|כֶ֞ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1800\|דָּ֗ל]] [[H9002\|וּ]][[H4864\|מַשְׂאַת]][[H9014\|־]] [[H1250A\|בַּר֙]] [[H3947G\|תִּקְח֣וּ]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H1004B\|בָּתֵּ֥י]] [[H1496\|גָזִ֛ית]] [[H1129\|בְּנִיתֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3427\|תֵ֣שְׁבוּ]] [[H9003\|בָ֑]][[H9038\|ם]] [[H3754\|כַּרְמֵי]][[H9014\|־]] [[H2531\|חֶ֣מֶד]] [[H5193\|נְטַעְתֶּ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8354\|תִשְׁתּ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3196\|יֵינָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]] • [[topic STONES|STONES]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.10|<< Amos 5:10]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.12|Amos 5:12 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 16:20
+type: Verse
+kjv: "My friends scorn me: but mine eye poureth out tears unto God."
+bsb: "My friends are my scoffers as my eyes pour out tears to God."
+hebrew: "מְלִיצַ֥י רֵעָ֑י אֶל־ אֱ֝ל֗וֹהַ דָּלְפָ֥ה עֵינִֽי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H3887]]"
+- "[[H9030]]"
+- "[[H7453]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0433]]"
+- "[[H1811]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:20**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My friends scorn me: [but] mine eye poureth out [tears] unto God.
 <small><sub>**BSB:**</sub></small>
 My friends are my scoffers as my eyes pour out tears to God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3887\|מְלִיצַ֥]][[H9030\|י]] [[H7453\|רֵעָ֑]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H0433\|אֱ֝ל֗וֹהַ]] [[H1811\|דָּלְפָ֥ה]] [[H5869A\|עֵינִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.19|<< Job 16:19]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.21|Job 16:21 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 5:27
+type: Verse
+kjv: "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:"
+bsb: "You have heard that it was said, ‘Do not commit adultery.’"
+jesus_said: "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:"
+greek: "Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις· οὐ μοιχεύσεις."
+pericope: "[[Matt.5.27 Adultery|Adultery]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G0744]]"
+- "[[G3756]]"
+- "[[G3431]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 5:27**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said, ‘Do not commit adultery.’
-<small><sub>**Literal:**</sub></small>
-You have heard that it was said to the ancients: Not will you commit adultery.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.26|<< Matthew 5:26]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.28|Matthew 5:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἠκούσατε]]  [[G3754G\|ὅτι]]  [[G2046\|ἐρρέθη]]  [[G3588\|τοῖς]]  [[G0744\|ἀρχαίοις·]]  [[G3756\|οὐ]]  [[G3431\|μοιχεύσεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTINENCE|CONTINENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.26|<< Matthew 5:26]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.28|Matthew 5:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 5:27** is...
 > $\quad$ referencing: [[LXX.Exod.20.14|Exod 20:14]] ☩ [[LXX.Deut.5.18|Deut 5:18]]

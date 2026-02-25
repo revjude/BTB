@@ -1,8 +1,60 @@
+---
+title: Numbers 18:18
+type: Verse
+kjv: "And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine."
+bsb: "And their meat belongs to you, just as the breast and right thigh of the wave offering belong to you."
+hebrew: "וּבְשָׂרָ֖ם יִהְיֶה־ לָּ֑ךְ כַּחֲזֵ֧ה הַתְּנוּפָ֛ה וּכְשׁ֥וֹק הַיָּמִ֖ין לְךָ֥ יִהְיֶֽה׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9004]]"
+- "[[H2373]]"
+- "[[H9009]]"
+- "[[H8573]]"
+- "[[H7785]]"
+- "[[H3225G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:18**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine.
 <small><sub>**BSB:**</sub></small>
 And their meat belongs to you, just as the breast and right thigh of the wave offering belong to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1320\|בְשָׂרָ֖]][[H9028\|ם]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H9004\|כַּ]][[H2373\|חֲזֵ֧ה]] [[H9009\|הַ]][[H8573\|תְּנוּפָ֛ה]] [[H9002\|וּ]][[H9004\|כְ]][[H7785\|שׁ֥וֹק]] [[H9009\|הַ]][[H3225G\|יָּמִ֖ין]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.17|<< Numbers 18:17]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.19|Numbers 18:19 >>]]</td></tr></table>
 

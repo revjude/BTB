@@ -1,8 +1,70 @@
+---
+title: 1 Kings 3:15
+type: Verse
+kjv: "And Solomon awoke; and, behold, it was a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants."
+bsb: "Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem, stood before the ark of the covenant of the Lord, and offered burnt offerings and peace offerings. Then he held a feast for all his servants."
+hebrew: "וַיִּקַ֥ץ שְׁלֹמֹ֖ה וְהִנֵּ֣ה חֲל֑וֹם וַיָּב֨וֹא יְרוּשָׁלִַ֜ם וַֽיַּעֲמֹ֣ד׀ לִפְנֵ֣י׀ אֲר֣וֹן בְּרִית־ אֲדֹנָ֗י וַיַּ֤עַל עֹלוֹת֙ וַיַּ֣עַשׂ שְׁלָמִ֔ים וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכָל־ עֲבָדָֽיו׃ פ"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3364]]"
+- "[[H8010]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2472]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H5975G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H6213I]]"
+- "[[H8002]]"
+- "[[H6213H]]"
+- "[[H4960]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 3:15**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon awoke; and, behold, [it was] a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
 <small><sub>**BSB:**</sub></small>
 Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem, stood before the ark of the covenant of the Lord, and offered burnt offerings and peace offerings. Then he held a feast for all his servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3364\|יִּקַ֥ץ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H2472\|חֲל֑וֹם]] [[H9001\|וַ]][[H0935G\|יָּב֨וֹא]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֣ד]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H0727\|אֲר֣וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H0136\|אֲדֹנָ֗י]] [[H9001\|וַ]][[H5927I\|יַּ֤עַל]] [[H5930A\|עֹלוֹת֙]] [[H9001\|וַ]][[H6213I\|יַּ֣עַשׂ]] [[H8002\|שְׁלָמִ֔ים]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H4960\|מִשְׁתֶּ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.14|<< 1 Kings 3:14]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.16|1 Kings 3:16 >>]]</td></tr></table>
 
@@ -26,7 +88,7 @@ Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem,
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a feast  |**<big>&#8207;[[H4960\|מִשְׁתֶּ֖ה]]&#8207; </big>**| mish.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servants his  |**<big>&#8207;[[H5650\|עֲבָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants his  |**<big>&#8207;[[H5650\|עֲבָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.14|<< 1 Kings 3:14]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.16|1 Kings 3:16 >>]]</td></tr></table>
 
 

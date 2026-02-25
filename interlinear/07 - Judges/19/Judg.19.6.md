@@ -1,8 +1,62 @@
+---
+title: Judges 19:6
+type: Verse
+kjv: "And they sat down, and did eat and drink both of them together: for the damsel’s father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry."
+bsb: "So they sat down and the two of them ate and drank together. Then the girl’s father said to the man, “Please agree to stay overnight and let your heart be merry.”"
+hebrew: "וַיֵּשְׁב֗וּ וַיֹּאכְל֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וַיִּשְׁתּ֑וּ וַיֹּ֜אמֶר אֲבִ֤י הַֽנַּעֲרָה֙ אֶל־ הָאִ֔ישׁ הֽוֹאֶל־ נָ֥א וְלִ֖ין וְיִטַ֥ב לִבֶּֽךָ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0398]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3162B]]"
+- "[[H8354]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H2974]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H3885A]]"
+- "[[H3190]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:6**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sat down, and did eat and drink both of them together: for the damsel’s father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.
 <small><sub>**BSB:**</sub></small>
 So they sat down and the two of them ate and drank together. Then the girl’s father said to the man, “Please agree to stay overnight and let your heart be merry.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁב֗וּ]] [[H9001\|וַ]][[H0398\|יֹּאכְל֧וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֛ם]] [[H3162B\|יַחְדָּ֖ו]] [[H9001\|וַ]][[H8354\|יִּשְׁתּ֑וּ]] [[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H0001G\|אֲבִ֤י]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H2974\|הֽוֹאֶל]][[H9014\|־]] [[H4994\|נָ֥א]] [[H9002\|וְ]][[H3885A\|לִ֖ין]] [[H9002\|וְ]][[H3190\|יִטַ֥ב]] [[H3820A\|לִבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FATHER-IN-LAW|FATHER-IN-LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.5|<< Judges 19:5]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.7|Judges 19:7 >>]]</td></tr></table>
 

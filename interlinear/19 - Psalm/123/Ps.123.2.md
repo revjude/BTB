@@ -1,8 +1,66 @@
+---
+title: Psalm 123:2
+type: Verse
+kjv: "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us."
+bsb: "As the eyes of servants look to the hand of their master, as the eyes of a maidservant look to the hand of her mistress, so our eyes are on the LORD our God until He shows us mercy."
+hebrew: "הִנֵּ֨ה כְעֵינֵ֪י עֲבָדִ֡ים אֶל־ יַ֤ד אֲֽדוֹנֵיהֶ֗ם כְּעֵינֵ֣י שִׁפְחָה֮ אֶל־ יַ֪ד גְּבִ֫רְתָּ֥הּ כֵּ֣ן עֵ֭ינֵינוּ אֶל־ יְהוָ֣ה אֱלֹהֵ֑ינוּ עַ֝֗ד שֶׁיְּחָנֵּֽנוּ׃"
+pericope: "[[Ps.123.1 I Lift Up My Eyes to You|I Lift Up My Eyes to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 123
+book/chapter: "[[Ps.123|Psalm 123]]"
+chronological_order: 885
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H5869A]]"
+- "[[H5650]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H0113]]"
+- "[[H9028]]"
+- "[[H8198]]"
+- "[[H1404]]"
+- "[[H9024]]"
+- "[[H3651C]]"
+- "[[H9025]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5704]]"
+- "[[H9007]]"
+- "[[H2603A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 123:2**<big><big>[[Ps.123.1 I Lift Up My Eyes to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, as the eyes of servants [look] unto the hand of their masters, [and] as the eyes of a maiden unto the hand of her mistress; so our eyes [wait] upon the LORD our God, until that he have mercy upon us.
 <small><sub>**BSB:**</sub></small>
 As the eyes of servants look to the hand of their master, as the eyes of a maidservant look to the hand of her mistress, so our eyes are on the LORD our God until He shows us mercy.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H9004\|כְ]][[H5869A\|עֵינֵ֪י]] [[H5650\|עֲבָדִ֡ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3027G\|יַ֤ד]] [[H0113\|אֲֽדוֹנֵי]][[H9028\|הֶ֗ם]] [[H9004\|כְּ]][[H5869A\|עֵינֵ֣י]] [[H8198\|שִׁפְחָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H3027G\|יַ֪ד]] [[H1404\|גְּבִ֫רְתָּ֥]][[H9024\|הּ]] [[H3651C\|כֵּ֣ן]] [[H5869A\|עֵ֭ינֵי]][[H9025\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H5704\|עַ֝֗ד]] [[H9007\|שֶׁ]][[H2603A\|יְּחָנֵּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic SERVANT|SERVANT]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.123.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.123.1|<< Psalms 123:1]]</td><td align="center" style="border:none;">[[Ps.123|Psalms 123]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123.3|Psalms 123:3 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 6:14
+type: Verse
+kjv: "Ye shall not go after other gods, of the gods of the people which are round about you;"
+bsb: "Do not follow other gods, the gods of the peoples around you."
+hebrew: "לֹ֣א תֵֽלְכ֔וּן אַחֲרֵ֖י אֱלֹהִ֣ים אֲחֵרִ֑ים מֵאֱלֹהֵי֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר סְבִיבוֹתֵיכֶֽם׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3808]]"
+- "[[H1980N]]"
+- "[[H9013]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:14**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not go after other gods, of the gods of the people which [are] round about you;
 <small><sub>**BSB:**</sub></small>
 Do not follow other gods, the gods of the peoples around you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H1980N\|תֵֽלְכ֔וּ]][[H9013\|ן]] [[H0310A\|אַחֲרֵ֖י]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9006\|מֵ]][[H0430\|אֱלֹהֵי֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H5439G\|סְבִיבוֹתֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.13|<< Deuteronomy 6:13]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.15|Deuteronomy 6:15 >>]]</td></tr></table>
 

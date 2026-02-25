@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 31:19
+type: Verse
+kjv: "Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel."
+bsb: "Now therefore, write down for yourselves this song and teach it to the Israelites; have them recite it, so that it may be a witness for Me against them."
+hebrew: "וְעַתָּ֗ה כִּתְב֤וּ לָכֶם֙ אֶת־ הַשִּׁירָ֣ה הַזֹּ֔את וְלַמְּדָ֥הּ אֶת־ בְּנֵי־ יִשְׂרָאֵ֖ל שִׂימָ֣הּ בְּפִיהֶ֑ם לְמַ֨עַן תִּהְיֶה־ לִּ֜י הַשִּׁירָ֥ה הַזֹּ֛את לְעֵ֖ד בִּבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7892B]]"
+- "[[H2063]]"
+- "[[H3925G]]"
+- "[[H9034]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H4616]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H5707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:19**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.
 <small><sub>**BSB:**</sub></small>
 Now therefore, write down for yourselves this song and teach it to the Israelites; have them recite it, so that it may be a witness for Me against them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3789\|כִּתְב֤וּ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7892B\|שִּׁירָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H3925G\|לַמְּדָ֥]][[H9034\|הּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7760H\|שִׂימָ֣]][[H9034\|הּ]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶ֑ם]] [[H4616\|לְמַ֨עַן]] [[H1961\|תִּהְיֶה]][[H9014\|־]] [[H9005\|לִּ֜]][[H9030\|י]] [[H9009\|הַ]][[H7892B\|שִּׁירָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9005\|לְ]][[H5707\|עֵ֖ד]] [[H9003\|בִּ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.18|<< Deuteronomy 31:18]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.20|Deuteronomy 31:20 >>]]</td></tr></table>
 

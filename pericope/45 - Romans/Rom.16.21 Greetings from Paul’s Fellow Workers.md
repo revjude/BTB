@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Greetings from Paul’s Fellow Workers
+type: Pericope
 pericope: "[[Rom.16.21 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Romans
 chapter: 16
 book/chapter: "[[Rom.16|Romans 16]]"
-genre:
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 3
 verses:
 - "[[Rom.16.21]]"
 - "[[Rom.16.22]]"
 - "[[Rom.16.23]]"
 ---
 
-[[Rom.16|Romans 16:21 - Romans 16:23]]
+<small>[[Rom.16|Romans 16:21-23]]</small>
 *Greetings from Paul’s Fellow Workers*
 
 [[Rom.16.21|21]] Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.

@@ -1,8 +1,62 @@
+---
+title: Ezekiel 13:15
+type: Verse
+kjv: "Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered morter, and will say unto you, The wall is no more, neither they that daubed it;"
+bsb: "And after I have vented My wrath against the wall and against those who whitewashed it, I will say to you: ‘The wall is gone, and so are those who whitewashed it—"
+hebrew: "וְכִלֵּיתִ֤י אֶת־ חֲמָתִי֙ בַּקִּ֔יר וּבַטָּחִ֥ים אֹת֖וֹ תָּפֵ֑ל וְאֹמַ֤ר לָכֶם֙ אֵ֣ין הַקִּ֔יר וְאֵ֖ין הַטָּחִ֥ים אֹתֽוֹ׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7023]]"
+- "[[H9002]]"
+- "[[H2902A]]"
+- "[[H9033]]"
+- "[[H8602B]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0369]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:15**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered [morter], and will say unto you, The wall [is] no [more], neither they that daubed it;
 <small><sub>**BSB:**</sub></small>
 And after I have vented My wrath against the wall and against those who whitewashed it, I will say to you: ‘The wall is gone, and so are those who whitewashed it—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615J\|כִלֵּיתִ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H2534\|חֲמָתִ]][[H9020\|י֙]] [[H9003\|בַּ]][[H7023\|קִּ֔יר]] [[H9002\|וּ]][[H9003\|בַ]][[H2902A\|טָּחִ֥ים]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H8602B\|תָּפֵ֑ל]] [[H9002\|וְ]][[H0559\|אֹמַ֤ר]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0369\|אֵ֣ין]] [[H9009\|הַ]][[H7023\|קִּ֔יר]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H9009\|הַ]][[H2902A\|טָּחִ֥ים]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.14|<< Ezekiel 13:14]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.16|Ezekiel 13:16 >>]]</td></tr></table>
 

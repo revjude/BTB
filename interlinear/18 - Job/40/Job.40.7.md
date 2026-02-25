@@ -1,8 +1,54 @@
+---
+title: Job 40:7
+type: Verse
+kjv: "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+bsb: "“Now brace yourself like a man; I will question you, and you shall inform Me."
+hebrew: "אֱזָר־ נָ֣א כְגֶ֣בֶר חֲלָצֶ֑יךָ אֶ֝שְׁאָלְךָ֗ וְהוֹדִיעֵֽנִי׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0247]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9004]]"
+- "[[H1397]]"
+- "[[H2504]]"
+- "[[H9021]]"
+- "[[H7592]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:7**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.
 <small><sub>**BSB:**</sub></small>
 “Now brace yourself like a man; I will question you, and you shall inform Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0247\|אֱזָר]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9004\|כְ]][[H1397\|גֶ֣בֶר]] [[H2504\|חֲלָצֶ֑י]][[H9021\|ךָ]] [[H7592\|אֶ֝שְׁאָלְ]][[H9031\|ךָ֗]] [[H9002\|וְ]][[H3045\|הוֹדִיעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.6|<< Job 40:6]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.8|Job 40:8 >>]]</td></tr></table>
 

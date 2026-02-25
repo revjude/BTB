@@ -1,8 +1,68 @@
+---
+title: Isaiah 45:3
+type: Verse
+kjv: "And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel."
+bsb: "I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name."
+hebrew: "וְנָתַתִּ֤י לְךָ֙ אוֹצְר֣וֹת חֹ֔שֶׁךְ וּמַטְמֻנֵ֖י מִסְתָּרִ֑ים לְמַ֣עַן תֵּדַ֗ע כִּֽי־ אֲנִ֧י יְהוָ֛ה הַקּוֹרֵ֥א בְשִׁמְךָ֖ אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0214]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H4301]]"
+- "[[H4565]]"
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:3**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call [thee] by thy name, [am] the God of Israel.
 <small><sub>**BSB:**</sub></small>
 I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0214\|אוֹצְר֣וֹת]] [[H2822\|חֹ֔שֶׁךְ]] [[H9002\|וּ]][[H4301\|מַטְמֻנֵ֖י]] [[H4565\|מִסְתָּרִ֑ים]] [[H4616\|לְמַ֣עַן]] [[H3045\|תֵּדַ֗ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֧י]] [[H3068G\|יְהוָ֛ה]] [[H9009\|הַ]][[H7121G\|קּוֹרֵ֥א]] [[H9003\|בְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CYRUS|CYRUS]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.2|<< Isaiah 45:2]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.4|Isaiah 45:4 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Matthew 13:57
+type: Verse
+kjv: "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house."
+bsb: "And they took offense at Him. But Jesus said to them, “Only in his hometown and in his own household is a prophet without honor.”"
+jesus_said: "A prophet is not without honour, save in his own country, and in his own house."
+greek: "καὶ ἐσκανδαλίζοντο ἐν αὐτῷ.¶ Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ ἐν τῇ πατρίδι αὐτοῦ καὶ ἐν τῇ οἰκίᾳ αὐτοῦ."
+pericope: "[[Matt.13.53 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4624]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4396]]"
+- "[[G0820]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3968]]"
+- "[[G3614H]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 13:57**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
 <small><sub>**BSB:**</sub></small>
 And they took offense at Him. But Jesus said to them, “Only in his hometown and in his own household is a prophet without honor.”
-<small><sub>**Literal:**</sub></small>
-And they were offended at Him. <the> But Jesus said to them; Not is a prophet without Honor only except in the hometown of him and in the household of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.56|<< Matthew 13:56]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.58|Matthew 13:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4624\|ἐσκανδαλίζοντο]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.¶]]  [[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G4396\|προφήτης]]  [[G0820\|ἄτιμος]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3968\|πατρίδι]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614H\|οἰκίᾳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.56|<< Matthew 13:56]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.58|Matthew 13:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

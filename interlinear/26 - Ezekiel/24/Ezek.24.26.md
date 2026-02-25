@@ -1,8 +1,56 @@
+---
+title: Ezekiel 24:26
+type: Verse
+kjv: "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?"
+bsb: "on that day a fugitive will come and tell you the news."
+hebrew: "בַּיּ֣וֹם הַה֔וּא יָב֥וֹא הַפָּלִ֖יט אֵלֶ֑יךָ לְהַשְׁמָע֖וּת אָזְנָֽיִם׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0935G]]"
+- "[[H6412A]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H2045]]"
+- "[[H0241I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:26**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] he that escapeth in that day shall come unto thee, to cause [thee] to hear [it] with [thine] ears?
 <small><sub>**BSB:**</sub></small>
 on that day a fugitive will come and tell you the news.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H0935G\|יָב֥וֹא]] [[H9009\|הַ]][[H6412A\|פָּלִ֖יט]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9005\|לְ]][[H2045\|הַשְׁמָע֖וּת]] [[H0241I\|אָזְנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.25|<< Ezekiel 24:25]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.27|Ezekiel 24:27 >>]]</td></tr></table>
 

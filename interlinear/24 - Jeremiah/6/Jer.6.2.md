@@ -1,8 +1,51 @@
+---
+title: Jeremiah 6:2
+type: Verse
+kjv: "I have likened the daughter of Zion to a comely and delicate woman."
+bsb: "Though she is beautiful and delicate, I will destroy the Daughter of Zion."
+hebrew: "הַנָּוָה֙ וְהַמְּעֻנָּגָ֔ה דָּמִ֖יתִי בַּת־ צִיּֽוֹן׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9009]]"
+- "[[H5000]]"
+- "[[H9002]]"
+- "[[H6026]]"
+- "[[H1819]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:2**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have likened the daughter of Zion to a comely and delicate [woman].
 <small><sub>**BSB:**</sub></small>
 Though she is beautiful and delicate, I will destroy the Daughter of Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5000\|נָּוָה֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6026\|מְּעֻנָּגָ֔ה]] [[H1819\|דָּמִ֖יתִי]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.1|<< Jeremiah 6:1]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.3|Jeremiah 6:3 >>]]</td></tr></table>
 

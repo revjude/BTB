@@ -1,8 +1,60 @@
+---
+title: Genesis 10:18
+type: Verse
+kjv: "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
+bsb: "the Arvadites, the Zemarites, and the Hamathites. Later the Canaanite clans were scattered,"
+hebrew: "וְאֶת־ הָֽאַרְוָדִ֥י וְאֶת־ הַצְּמָרִ֖י וְאֶת־ הַֽחֲמָתִ֑י וְאַחַ֣ר נָפֹ֔צוּ מִשְׁפְּח֖וֹת הַֽכְּנַעֲנִֽי׃"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ARVADITES|ARVADITES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HAM|HAM]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic ZEMARITES|ZEMARITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0721]]"
+- "[[H6786]]"
+- "[[H2577]]"
+- "[[H0310A]]"
+- "[[H6327A]]"
+- "[[H4940]]"
+- "[[H3669A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:18**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.
 <small><sub>**BSB:**</sub></small>
 the Arvadites, the Zemarites, and the Hamathites. Later the Canaanite clans were scattered,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0721\|אַרְוָדִ֥י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6786\|צְּמָרִ֖י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2577\|חֲמָתִ֑י]] [[H9002\|וְ]][[H0310A\|אַחַ֣ר]] [[H6327A\|נָפֹ֔צוּ]] [[H4940\|מִשְׁפְּח֖וֹת]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARVADITES|ARVADITES]] • [[topic CANAANITES|CANAANITES]] • [[topic HAM|HAM]] • [[topic HAMATH|HAMATH]] • [[topic PHENICIA|PHENICIA]] • [[topic ZEMARITES|ZEMARITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.17|<< Genesis 10:17]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.19|Genesis 10:19 >>]]</td></tr></table>
 

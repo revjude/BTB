@@ -1,8 +1,76 @@
+---
+title: Ezekiel 9:8
+type: Verse
+kjv: "And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?"
+bsb: "While they were killing, I was left alone. And I fell facedown and cried out, “Oh, Lord GOD, when You pour out Your wrath on Jerusalem, will You destroy the entire remnant of Israel?”"
+hebrew: "וַֽיְהִי֙ כְּהַכּוֹתָ֔ם וְנֵֽאשֲׁאַ֖ר אָ֑נִי וָאֶפְּלָ֨ה עַל־ פָּנַ֜י וָאֶזְעַ֗ק וָֽאֹמַר֙ אֲהָהּ֙ אֲדֹנָ֣י יְהוִ֔ה הֲמַשְׁחִ֣ית אַתָּ֗ה אֵ֚ת כָּל־ שְׁאֵרִ֣ית יִשְׂרָאֵ֔ל בְּשָׁפְכְּךָ֥ אֶת־ חֲמָתְךָ֖ עַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5221]]"
+- "[[H9048]]"
+- "[[H9002]]"
+- "[[H7604]]"
+- "[[H0589]]"
+- "[[H5307G]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H2199]]"
+- "[[H0559]]"
+- "[[H0162]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9008]]"
+- "[[H7843]]"
+- "[[H0859A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H7611]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H8210G]]"
+- "[[H9041]]"
+- "[[H2534]]"
+- "[[H9021]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 9:8**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
 <small><sub>**BSB:**</sub></small>
 While they were killing, I was left alone. And I fell facedown and cried out, “Oh, Lord GOD, when You pour out Your wrath on Jerusalem, will You destroy the entire remnant of Israel?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כְּ]][[H5221\|הַכּוֹתָ֔]][[H9048\|ם]] [[H9002\|וְ]][[H7604\|נֵֽאשֲׁאַ֖ר]] [[H0589\|אָ֑נִי]] [[H9001\|וָ]][[H5307G\|אֶפְּלָ֨]][[H9012\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנַ֜]][[H9020\|י]] [[H9001\|וָ]][[H2199\|אֶזְעַ֗ק]] [[H9001\|וָֽ]][[H0559\|אֹמַר֙]] [[H0162\|אֲהָהּ֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9008\|הֲ]][[H7843\|מַשְׁחִ֣ית]] [[H0859A\|אַתָּ֗ה]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H8210G\|שָׁפְכְּ]][[H9041\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H2534\|חֲמָתְ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.7|<< Ezekiel 9:7]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.9|Ezekiel 9:9 >>]]</td></tr></table>
 

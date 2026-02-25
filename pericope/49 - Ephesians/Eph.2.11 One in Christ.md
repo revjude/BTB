@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: One in Christ
+type: Pericope
 pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 2
 book/chapter: "[[Eph.2|Ephesians 2]]"
-genre:
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Eph.2.11]]"
 - "[[Eph.2.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Eph.2.18]]"
 ---
 
-[[Eph.2|Ephesians 2:11 - Ephesians 2:18]]
+<small>[[Eph.2|Ephesians 2:11-18]]</small>
 *One in Christ*
 
 [[Eph.2.11|11]] Wherefore remember, that ye \[being\] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;

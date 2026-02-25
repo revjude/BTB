@@ -1,8 +1,52 @@
+---
+title: Job 17:8
+type: Verse
+kjv: "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite."
+bsb: "The upright are appalled at this, and the innocent are stirred against the godless."
+hebrew: "יָשֹׁ֣מּוּ יְשָׁרִ֣ים עַל־ זֹ֑את וְ֝נָקִ֗י עַל־ חָנֵ֥ף יִתְעֹרָֽר׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H8074H]]"
+- "[[H3477G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H5355A]]"
+- "[[H2611]]"
+- "[[H5782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:8**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upright [men] shall be astonied at this, and the innocent shall stir up himself against the hypocrite.
 <small><sub>**BSB:**</sub></small>
 The upright are appalled at this, and the innocent are stirred against the godless.
+<small><sub>**Hebrew:**</sub></small>
+[[H8074H\|יָשֹׁ֣מּוּ]] [[H3477G\|יְשָׁרִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וְ֝]][[H5355A\|נָקִ֗י]] [[H5921A\|עַל]][[H9014\|־]] [[H2611\|חָנֵ֥ף]] [[H5782\|יִתְעֹרָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.7|<< Job 17:7]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.9|Job 17:9 >>]]</td></tr></table>
 

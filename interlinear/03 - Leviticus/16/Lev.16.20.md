@@ -1,8 +1,65 @@
+---
+title: Leviticus 16:20
+type: Verse
+kjv: "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
+bsb: "When Aaron has finished purifying the Most Holy Place, the Tent of Meeting, and the altar, he is to bring forward the live goat."
+hebrew: "וְכִלָּה֙ מִכַּפֵּ֣ר אֶת־ הַקֹּ֔דֶשׁ וְאֶת־ אֹ֥הֶל מוֹעֵ֖ד וְאֶת־ הַמִּזְבֵּ֑חַ וְהִקְרִ֖יב אֶת־ הַשָּׂעִ֥יר הֶחָֽי׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9006]]"
+- "[[H3722A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6944J]]"
+- "[[H9002]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H4196]]"
+- "[[H7126H]]"
+- "[[H8163B]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:20**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he hath made an end of reconciling the holy [place], and the tabernacle of the congregation, and the altar, he shall bring the live goat:
 <small><sub>**BSB:**</sub></small>
 When Aaron has finished purifying the Most Holy Place, the Tent of Meeting, and the altar, he is to bring forward the live goat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615G\|כִלָּה֙]] [[H9006\|מִ]][[H3722A\|כַּפֵּ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֔דֶשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וְ]][[H7126H\|הִקְרִ֖יב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֥יר]] [[H9009\|הֶ]][[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.19|<< Leviticus 16:19]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.21|Leviticus 16:21 >>]]</td></tr></table>
 

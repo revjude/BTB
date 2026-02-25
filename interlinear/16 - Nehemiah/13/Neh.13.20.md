@@ -1,8 +1,61 @@
+---
+title: Nehemiah 13:20
+type: Verse
+kjv: "So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice."
+bsb: "Once or twice, the merchants and those who sell all kinds of goods camped outside Jerusalem,"
+hebrew: "וַיָּלִ֨ינוּ הָרֹכְלִ֜ים וּמֹכְרֵ֧י כָל־ מִמְכָּ֛ר מִח֥וּץ לִירוּשָׁלִָ֖ם פַּ֥עַם וּשְׁתָּֽיִם׃"
+pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRAFFIC|TRAFFIC]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3885A]]"
+- "[[H9009]]"
+- "[[H7402]]"
+- "[[H9002]]"
+- "[[H4376]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4465]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H6471]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:20**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.
 <small><sub>**BSB:**</sub></small>
 Once or twice, the merchants and those who sell all kinds of goods camped outside Jerusalem,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3885A\|יָּלִ֨ינוּ]] [[H9009\|הָ]][[H7402\|רֹכְלִ֜ים]] [[H9002\|וּ]][[H4376\|מֹכְרֵ֧י]] [[H3605\|כָל]][[H9014\|־]] [[H4465\|מִמְכָּ֛ר]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִָ֖ם]] [[H6471\|פַּ֥עַם]] [[H9002\|וּ]][[H8147\|שְׁתָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic MERCHANT|MERCHANT]] • [[topic SABBATH|SABBATH]] • [[topic TRAFFIC|TRAFFIC]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.19|<< Nehemiah 13:19]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.21|Nehemiah 13:21 >>]]</td></tr></table>
 

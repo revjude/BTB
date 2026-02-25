@@ -1,10 +1,55 @@
+---
+title: Romans 11:4
+type: Verse
+kjv: "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."
+bsb: "And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”"
+greek: "ἀλλὰ τί λέγει αὐτῷ ὁ χρηματισμός; κατέλιπον ἐμαυτῷ ἑπτακισχιλίους ἄνδρας οἵτινες οὐκ ἔκαμψαν γόνυ τῇ Βάαλ."
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5538]]"
+- "[[G2641]]"
+- "[[G1473]]"
+- "[[G2035]]"
+- "[[G0435G]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G2578]]"
+- "[[G1119]]"
+- "[[G0896]]"
+texts:
+- NKO
+---
+
 **Romans 11:4**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to [the image of] Baal.
 <small><sub>**BSB:**</sub></small>
 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”
-<small><sub>**Literal:**</sub></small>
-But what [was] spoken to him the divine answer? I have left to Myself seven thousand men who not bowed [the] knee <the> to Baal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.3|<< Romans 11:3]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.5|Romans 11:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G5538\|χρηματισμός;]]  [[G2641\|κατέλιπον]]  [[G1473\|ἐμαυτῷ]]  [[G2035\|ἑπτακισχιλίους]]  [[G0435G\|ἄνδρας]]  [[G3748\|οἵτινες]]  [[G3756\|οὐκ]]  [[G2578\|ἔκαμψαν]]  [[G1119\|γόνυ]]  [[G3588\|τῇ]]  [[G0896\|Βάαλ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.3|<< Romans 11:3]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.5|Romans 11:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:4** is...
 > $\quad$ referencing: [[LXX.1Kgs.19.18|1Kgs 19:18]]

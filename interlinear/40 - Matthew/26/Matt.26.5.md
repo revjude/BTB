@@ -1,10 +1,51 @@
+---
+title: Matthew 26:5
+type: Verse
+kjv: "But they said, Not on the feast day, lest there be an uproar among the people."
+bsb: "“But not during the feast,” they said, “or there may be a riot among the people.”"
+greek: "ἔλεγον δέ· μὴ ἐν τῇ ἑορτῇ, ἵνα μὴ θόρυβος γένηται ἐν τῷ λαῷ.¶"
+pericope: "[[Matt.26.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1859]]"
+- "[[G2443]]"
+- "[[G2351]]"
+- "[[G1096]]"
+- "[[G2992]]"
+texts:
+- NKO
+---
+
 **Matthew 26:5**<big><big>[[Matt.26.1 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they said, Not on the feast [day], lest there be an uproar among the people.
 <small><sub>**BSB:**</sub></small>
 “But not during the feast,” they said, “or there may be a riot among the people.”
-<small><sub>**Literal:**</sub></small>
-They were saying however; Not [seize him] during the feast, that not a riot may happen among the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.4|<< Matthew 26:4]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.6|Matthew 26:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G1161\|δέ·]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1859\|ἑορτῇ,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2351\|θόρυβος]]  [[G1096\|γένηται]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2992\|λαῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.4|<< Matthew 26:4]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.6|Matthew 26:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

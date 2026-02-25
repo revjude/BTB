@@ -1,8 +1,61 @@
+---
+title: Judges 11:40
+type: Verse
+kjv: "That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year."
+bsb: "that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite."
+hebrew: "מִיָּמִ֣ים׀ יָמִ֗ימָה תֵּלַ֙כְנָה֙ בְּנ֣וֹת יִשְׂרָאֵ֔ל לְתַנּ֕וֹת לְבַת־ יִפְתָּ֖ח הַגִּלְעָדִ֑י אַרְבַּ֥עַת יָמִ֖ים בַּשָּׁנָֽה׃ ס"
+pericope: "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9006]]"
+- "[[H3117I]]"
+- "[[H9015]]"
+- "[[H9011]]"
+- "[[H1980G]]"
+- "[[H1323G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H8567]]"
+- "[[H9014]]"
+- "[[H3316H]]"
+- "[[H9009]]"
+- "[[H1569]]"
+- "[[H0702]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 11:40**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
 <small><sub>**BSB:**</sub></small>
 that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3117I\|יָּמִ֣ים]][[H9015\|׀]] [[H3117I\|יָמִ֗ימָ]][[H9011\|ה]] [[H1980G\|תֵּלַ֙כְנָה֙]] [[H1323G\|בְּנ֣וֹת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H8567\|תַנּ֕וֹת]] [[H9005\|לְ]][[H1323G\|בַת]][[H9014\|־]] [[H3316H\|יִפְתָּ֖ח]] [[H9009\|הַ]][[H1569\|גִּלְעָדִ֑י]] [[H0702\|אַרְבַּ֥עַת]] [[H3117I\|יָמִ֖ים]] [[H9003\|בַּ]][[H8141\|שָּׁנָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSECRATION|CONSECRATION]] • [[topic GOD|GOD]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.1|Judges 12:1 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ that each year the young women of Israel go out for four days to lament the daug
 | the Gileadite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1569\|גִּלְעָדִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבַּ֥עַת]]&#8207; </big>**| 'ar.Ba.'at<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117I\|יָמִ֖ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.39|<< Judges 11:39]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.1|Judges 12:1 >>]]</td></tr></table>
 
 

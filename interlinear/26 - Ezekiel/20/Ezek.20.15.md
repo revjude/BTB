@@ -1,8 +1,65 @@
+---
+title: Ezekiel 20:15
+type: Verse
+kjv: "Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands;"
+bsb: "Moreover, with an uplifted hand I swore to them in the wilderness that I would not bring them into the land that I had given them—a land flowing with milk and honey, the glory of all lands—"
+hebrew: "וְגַם־ אֲנִ֗י נָשָׂ֧אתִי יָדִ֛י לָהֶ֖ם בַּמִּדְבָּ֑ר לְבִלְתִּי֩ הָבִ֨יא אוֹתָ֜ם אֶל־ הָאָ֣רֶץ אֲשֶׁר־ נָתַ֗תִּי זָבַ֤ת חָלָב֙ וּדְבַ֔שׁ צְבִ֥י הִ֖יא לְכָל־ הָאֲרָצֽוֹת׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H1115]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H6643A]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:15**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given [them], flowing with milk and honey, which [is] the glory of all lands;
 <small><sub>**BSB:**</sub></small>
 Moreover, with an uplifted hand I swore to them in the wilderness that I would not bring them into the land that I had given them—a land flowing with milk and honey, the glory of all lands—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִ֗י]] [[H5375P\|נָשָׂ֧אתִי]] [[H3027S\|יָדִ֛]][[H9020\|י]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9005\|לְ]][[H1115\|בִלְתִּי֩]] [[H0935P\|הָבִ֨יא]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֗תִּי]] [[H2100G\|זָבַ֤ת]] [[H2461\|חָלָב֙]] [[H9002\|וּ]][[H1706\|דְבַ֔שׁ]] [[H6643A\|צְבִ֥י]] [[H1931\|הִ֖יא]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.14|<< Ezekiel 20:14]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.16|Ezekiel 20:16 >>]]</td></tr></table>
 

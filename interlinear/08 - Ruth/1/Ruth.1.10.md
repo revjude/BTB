@@ -1,8 +1,52 @@
+---
+title: Ruth 1:10
+type: Verse
+kjv: "And they said unto her, Surely we will return with thee unto thy people."
+bsb: "and said, “Surely we will return with you to your people.”"
+hebrew: "וַתֹּאמַ֖רְנָה־ לָּ֑הּ כִּי־ אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H7725G]]"
+- "[[H5971A]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:10**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto her, Surely we will return with thee unto thy people.
 <small><sub>**BSB:**</sub></small>
 and said, “Surely we will return with you to your people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמַ֖רְנָה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9034\|הּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0854\|אִתָּ֥]][[H9032\|ךְ]] [[H7725G\|נָשׁ֖וּב]] [[H9005\|לְ]][[H5971A\|עַמֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.9|<< Ruth 1:9]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.11|Ruth 1:11 >>]]</td></tr></table>
 

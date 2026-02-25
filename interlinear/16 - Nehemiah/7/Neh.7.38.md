@@ -1,8 +1,52 @@
+---
+title: Nehemiah 7:38
+type: Verse
+kjv: "The children of Senaah, three thousand nine hundred and thirty."
+bsb: "and the descendants of Senaah, 3,930."
+hebrew: "בְּנֵ֣י סְנָאָ֔ה שְׁלֹ֣שֶׁת אֲלָפִ֔ים תְּשַׁ֥ע מֵא֖וֹת וּשְׁלֹשִֽׁים׃ פ"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SENAAH|SENAAH]]"
+strongs:
+- "[[H1121G]]"
+- "[[H5570G]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H8672]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 7:38**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Senaah, three thousand nine hundred and thirty.
 <small><sub>**BSB:**</sub></small>
 and the descendants of Senaah, 3,930.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H5570G\|סְנָאָ֔ה]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֔ים]] [[H8672\|תְּשַׁ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9002\|וּ]][[H7970\|שְׁלֹשִֽׁים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SENAAH|SENAAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.37|<< Nehemiah 7:37]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.39|Nehemiah 7:39 >>]]</td></tr></table>
 
@@ -14,7 +58,7 @@ and the descendants of Senaah, 3,930.
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֔ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nine  |**<big>&#8207;[[H8672\|תְּשַׁ֥ע]]&#8207; </big>**| te.Sha'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.37|<< Nehemiah 7:37]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.39|Nehemiah 7:39 >>]]</td></tr></table>
 
 

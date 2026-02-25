@@ -1,8 +1,79 @@
+---
+title: Joshua 3:16
+type: Verse
+kjv: "That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho."
+bsb: "the flowing water stood still. It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho."
+hebrew: "וַיַּעַמְד֡וּ הַמַּיִם֩ הַיֹּרְדִ֨ים מִלְמַ֜עְלָה קָ֣מוּ נֵד־ אֶחָ֗ד הַרְחֵ֨ק מְאֹ֜ד מֵֽאָדָ֤ם הָעִיר֙ אֲשֶׁר֙ מִצַּ֣ד צָֽרְתָ֔ן וְהַיֹּרְדִ֗ים עַ֣ל יָ֧ם הָעֲרָבָ֛ה יָם־ הַמֶּ֖לַח תַּ֣מּוּ נִכְרָ֑תוּ וְהָעָ֥ם עָבְר֖וּ נֶ֥גֶד יְרִיחֽוֹ׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic DEAD SEA|DEAD SEA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALT|SALT]]"
+- "[[topic WATER|WATER]]"
+- "[[topic ZARETAN|ZARETAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H6965B]]"
+- "[[H5067]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H7368]]"
+- "[[H3966]]"
+- "[[H9003]]"
+- "[[H0121H]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H6654]]"
+- "[[H6891]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3220G]]"
+- "[[H6160K]]"
+- "[[H4417G]]"
+- "[[H8552]]"
+- "[[H3772G]]"
+- "[[H5971A]]"
+- "[[H5674A]]"
+- "[[H5048]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 3:16**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the waters which came down from above stood [and] rose up upon an heap very far from the city Adam, that [is] beside Zaretan: and those that came down toward the sea of the plain, [even] the salt sea, failed, [and] were cut off: and the people passed over right against Jericho.
 <small><sub>**BSB:**</sub></small>
 the flowing water stood still. It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעַמְד֡וּ]] [[H9009\|הַ]][[H4325G\|מַּיִם֩]] [[H9009\|הַ]][[H3381\|יֹּרְדִ֨ים]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מַ֜עְלָ]][[H9011\|ה]] [[H6965B\|קָ֣מוּ]] [[H5067\|נֵד]][[H9014\|־]] [[H0259\|אֶחָ֗ד]] [[H7368\|הַרְחֵ֨ק]] [[H3966\|מְאֹ֜ד]] [[H9006\|מֵֽ]][[H0121H\|אָדָ֤ם]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁר֙]] [[H9006\|מִ]][[H6654\|צַּ֣ד]] [[H6891\|צָֽרְתָ֔ן]] [[H9002\|וְ]][[H9009\|הַ]][[H3381\|יֹּרְדִ֗ים]] [[H5921A\|עַ֣ל]] [[H3220G\|יָ֧ם]] [[H9009\|הָ]][[H6160K\|עֲרָבָ֛ה]] [[H3220G\|יָם]][[H9014\|־]] [[H9009\|הַ]][[H4417G\|מֶּ֖לַח]] [[H8552\|תַּ֣מּוּ]] [[H3772G\|נִכְרָ֑תוּ]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H5674A\|עָבְר֖וּ]] [[H5048\|נֶ֥גֶד]] [[H3405G\|יְרִיחֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic DEAD SEA|DEAD SEA]] • [[topic MIRACLES|MIRACLES]] • [[topic SALT|SALT]] • [[topic WATER|WATER]] • [[topic ZARETAN|ZARETAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.15|<< Joshua 3:15]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.17|Joshua 3:17 >>]]</td></tr></table>
 
@@ -36,7 +107,7 @@ the flowing water stood still. It backed up as far upstream as Adam, a city in t
 | Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.15|<< Joshua 3:15]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.17|Joshua 3:17 >>]]</td></tr></table>
 
-[^1]: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
-[^2]: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
+[^1]: at \<the> Adam  | **<big>[[H9003|בָ]]</big><big>[[H0121H|אָדָם]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
+[^2]: at \<the> Adam  | **<big>[[H9003|בָ]]</big><big>[[H0121H|אָדָם]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בֵֽאָדָ֤ם</big></span>**
 

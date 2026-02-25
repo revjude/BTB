@@ -1,10 +1,47 @@
+---
+title: Acts 12:24
+type: Verse
+kjv: "But the word of God grew and multiplied."
+bsb: "But the word of God continued to spread and multiply."
+greek: "Ὁ δὲ λόγος τοῦ θεοῦ ηὔξανεν καὶ ἐπληθύνετο."
+pericope: "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G0837]]"
+- "[[G2532]]"
+- "[[G4129]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 12:24**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the word of God grew and multiplied.
 <small><sub>**BSB:**</sub></small>
 But the word of God continued to spread and multiply.
-<small><sub>**Literal:**</sub></small>
-<the> But the word <the> of God was continuing to grow and was being multiplied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.23|<< Acts 12:23]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.25|Acts 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0837\|ηὔξανεν]]  [[G2532\|καὶ]]  [[G4129\|ἐπληθύνετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVIVALS|REVIVALS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.23|<< Acts 12:23]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.25|Acts 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

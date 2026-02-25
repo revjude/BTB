@@ -1,8 +1,67 @@
+---
+title: Isaiah 17:10
+type: Verse
+kjv: "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:"
+bsb: "For you have forgotten the God of your salvation and failed to remember the Rock of your refuge. Therefore, though you cultivate delightful plots and set out cuttings from exotic vines—"
+hebrew: "כִּ֤י שָׁכַ֙חַתְּ֙ אֱלֹהֵ֣י יִשְׁעֵ֔ךְ וְצ֥וּר מָעֻזֵּ֖ךְ לֹ֣א זָכָ֑רְתְּ עַל־ כֵּ֗ן תִּטְּעִי֙ נִטְעֵ֣י נַעֲמָנִ֔ים וּזְמֹ֥רַת זָ֖ר תִּזְרָעֶֽנּוּ׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ROCK|ROCK]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7911]]"
+- "[[H0430G]]"
+- "[[H3468]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H6697H]]"
+- "[[H4581]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5193]]"
+- "[[H5194]]"
+- "[[H5282]]"
+- "[[H2156]]"
+- "[[H2114A]]"
+- "[[H2232]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:10**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:
 <small><sub>**BSB:**</sub></small>
 For you have forgotten the God of your salvation and failed to remember the Rock of your refuge. Therefore, though you cultivate delightful plots and set out cuttings from exotic vines—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7911\|שָׁכַ֙חַתְּ֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3468\|יִשְׁעֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H6697H\|צ֥וּר]] [[H4581\|מָעֻזֵּ֖]][[H9022\|ךְ]] [[H3808\|לֹ֣א]] [[H2142\|זָכָ֑רְתְּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H5193\|תִּטְּעִי֙]] [[H5194\|נִטְעֵ֣י]] [[H5282\|נַעֲמָנִ֔ים]] [[H9002\|וּ]][[H2156\|זְמֹ֥רַת]] [[H2114A\|זָ֖ר]] [[H2232\|תִּזְרָעֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ROCK|ROCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.9|<< Isaiah 17:9]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.11|Isaiah 17:11 >>]]</td></tr></table>
 

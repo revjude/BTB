@@ -1,10 +1,63 @@
+---
+title: John 17:8
+type: Verse
+kjv: "For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me."
+bsb: "For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me."
+jesus_said: "For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me."
+greek: "ὅτι τὰ ῥήματα ἃ ἔδωκάς μοι δέδωκα αὐτοῖς· καὶ αὐτοὶ ἔλαβον καὶ ἔγνωσαν ἀληθῶς ὅτι παρὰ σοῦ ἐξῆλθον, καὶ ἐπίστευσαν ὅτι σύ με ἀπέστειλας.¶"
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G1097]]"
+- "[[G0230]]"
+- "[[G3754G]]"
+- "[[G3844]]"
+- "[[G4771]]"
+- "[[G1831]]"
+- "[[G4100]]"
+- "[[G0649]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 17:8**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I have given unto them the words which thou gavest me; and they have received [them], and have known surely that I came out from thee, and they have believed that thou didst send me.
 <small><sub>**BSB:**</sub></small>
 For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me.
-<small><sub>**Literal:**</sub></small>
-for the declarations that You gave Me I have given to them; and they themselves received [them] and they knew truly that from You I came forth, and they believed that You yourself Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.7|<< John 17:7]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.9|John 17:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3739\|ἃ]]  [[G1325\|ἔδωκάς]]  [[G3165\|μοι]]  [[G1325\|δέδωκα]]  [[G0846\|αὐτοῖς·]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G2983\|ἔλαβον]]  [[G2532\|καὶ]]  [[G1097\|ἔγνωσαν]]  [[G0230\|ἀληθῶς]]  [[G3754G\|ὅτι]]  [[G3844\|παρὰ]]  [[G4771\|σοῦ]]  [[G1831\|ἐξῆλθον,]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσαν]]  [[G3754G\|ὅτι]]  [[G4771\|σύ]]  [[G3165\|με]]  [[G0649\|ἀπέστειλας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.7|<< John 17:7]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.9|John 17:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

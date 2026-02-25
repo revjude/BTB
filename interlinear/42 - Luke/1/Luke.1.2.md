@@ -1,10 +1,55 @@
+---
+title: Luke 1:2
+type: Verse
+kjv: "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;"
+bsb: "just as they were handed down to us by the initial eyewitnesses and servants of the word."
+greek: "καθὼς παρέδοσαν ἡμῖν οἱ ἀπ᾽ ἀρχῆς αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου,"
+pericope: "[[Luke.1.1 Dedication to Theophilus|Dedication to Theophilus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2531]]"
+- "[[G3860]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G0845]]"
+- "[[G2532]]"
+- "[[G5257]]"
+- "[[G1096]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **Luke 1:2**<big><big>[[Luke.1.1 Dedication to Theophilus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;
 <small><sub>**BSB:**</sub></small>
 just as they were handed down to us by the initial eyewitnesses and servants of the word.
-<small><sub>**Literal:**</sub></small>
-even as delivered [them] to us those from [the] beginning eyewitnesses and servants having been of the word,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.1|<< Luke 1:1]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.3|Luke 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G3860\|παρέδοσαν]]  [[G3165\|ἡμῖν]]  [[G3588\|οἱ]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G0845\|αὐτόπται]]  [[G2532\|καὶ]]  [[G5257\|ὑπηρέται]]  [[G1096\|γενόμενοι]]  [[G3588\|τοῦ]]  [[G3056\|λόγου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPISTLES|EPISTLES]] • [[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.1|<< Luke 1:1]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.3|Luke 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

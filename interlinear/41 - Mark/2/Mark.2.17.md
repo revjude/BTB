@@ -1,10 +1,67 @@
+---
+title: Mark 2:17
+type: Verse
+kjv: "When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance."
+bsb: "On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”"
+jesus_said: "They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance."
+greek: "Καὶ ἀκούσας ὁ Ἰησοῦς λέγει αὐτοῖς· ὅτι οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλ᾽ οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλ᾽ ἁμαρτωλούς εἰς μετάνοιαν.¶"
+pericope: "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G2480]]"
+- "[[G2395]]"
+- "[[G0235]]"
+- "[[G2560]]"
+- "[[G2064]]"
+- "[[G2564G]]"
+- "[[G1342]]"
+- "[[G0268]]"
+- "[[G1519]]"
+- "[[G3341]]"
+texts:
+- NKO
+- no
+- K
+---
+
 **Mark 2:17**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus heard [it], he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”
-<small><sub>**Literal:**</sub></small>
-And having heard <the> Jesus says to them: that No need have those being strong of a physician but those sick being; Not I came to call [the] righteous  but sinners into repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.16|<< Mark 2:16]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.18|Mark 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἀκούσας]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχουσιν]]  [[G3588\|οἱ]]  [[G2480\|ἰσχύοντες]]  [[G2395\|ἰατροῦ]]  [[G0235\|ἀλλ᾽]]  [[G3588\|οἱ]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντες·]]  [[G3756\|οὐκ]]  [[G2064\|ἦλθον]]  [[G2564G\|καλέσαι]]  [[G1342\|δικαίους]]  [[G0235\|ἀλλ᾽]]  [[G0268\|ἁμαρτωλούς]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHYSICIAN|PHYSICIAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.16|<< Mark 2:16]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.18|Mark 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

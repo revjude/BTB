@@ -1,8 +1,62 @@
+---
+title: Job 38:32
+type: Verse
+kjv: "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+bsb: "Can you bring forth the constellations in their seasons or lead out the Bear and her cubs?"
+hebrew: "הֲתֹצִ֣יא מַזָּר֣וֹת בְּעִתּ֑וֹ וְ֝עַ֗יִשׁ עַל־ בָּנֶ֥יהָ תַנְחֵֽם׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ARCTURUS|ARCTURUS]]"
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAZZAROTH|MAZZAROTH]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic ZODIAC|ZODIAC]]"
+strongs:
+- "[[H9008]]"
+- "[[H3318H]]"
+- "[[H4216]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5906]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:32**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?
 <small><sub>**BSB:**</sub></small>
 Can you bring forth the constellations in their seasons or lead out the Bear and her cubs?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3318H\|תֹצִ֣יא]] [[H4216\|מַזָּר֣וֹת]] [[H9003\|בְּ]][[H6256\|עִתּ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H5906\|עַ֗יִשׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנֶ֥י]][[H9024\|הָ]] [[H5148\|תַנְחֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCTURUS|ARCTURUS]] • [[topic ASTRONOMY|ASTRONOMY]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic MAZZAROTH|MAZZAROTH]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic ZODIAC|ZODIAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.31|<< Job 38:31]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.33|Job 38:33 >>]]</td></tr></table>
 

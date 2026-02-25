@@ -1,8 +1,76 @@
+---
+title: Judges 16:18
+type: Verse
+kjv: "And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand."
+bsb: "When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: “Come up once more, for he has revealed to me all that is in his heart.” Then the lords of the Philistines came to her, bringing the money in their hands."
+hebrew: "וַתֵּ֣רֶא דְלִילָ֗ה כִּֽי־ הִגִּ֣יד לָהּ֮ אֶת־ כָּל־ לִבּוֹ֒ וַתִּשְׁלַ֡ח וַתִּקְרָא֩ לְסַרְנֵ֨י פְלִשְׁתִּ֤ים לֵאמֹר֙ עֲל֣וּ הַפַּ֔עַם כִּֽי־ הִגִּ֥יד לִ֖י אֶת־ כָּל־ לִבּ֑וֹ וְעָל֤וּ אֵלֶ֙יהָ֙ סַרְנֵ֣י פְלִשְׁתִּ֔ים וַיַּעֲל֥וּ הַכֶּ֖סֶף בְּיָדָֽם׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H1807]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H5927H]]"
+- "[[H3701G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+- Q(K)
+---
+
 **Judges 16:18**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand.
 <small><sub>**BSB:**</sub></small>
 When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: “Come up once more, for he has revealed to me all that is in his heart.” Then the lords of the Philistines came to her, bringing the money in their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֣רֶא]] [[H1807\|דְלִילָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5046\|הִגִּ֣יד]] [[H9005\|לָ]][[H9034\|הּ֮]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3820A\|לִבּ]][[H9023\|וֹ֒]] [[H9001\|וַ]][[H7971G\|תִּשְׁלַ֡ח]] [[H9001\|וַ]][[H7121G\|תִּקְרָא֩]] [[H9005\|לְ]][[H5633A\|סַרְנֵ֨י]] [[H6430G\|פְלִשְׁתִּ֤ים]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H5927G\|עֲל֣וּ]] [[H9009\|הַ]][[H6471\|פַּ֔עַם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5046\|הִגִּ֥יד]] [[H9005\|לִ֖]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5927G\|עָל֤וּ]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H9001\|וַ]][[H5927H\|יַּעֲל֥וּ]] [[H9009\|הַ]][[H3701G\|כֶּ֖סֶף]] [[H9003\|בְּ]][[H3027G\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic MONEY|MONEY]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.17|<< Judges 16:17]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.19|Judges 16:19 >>]]</td></tr></table>
 
@@ -39,7 +107,7 @@ When Delilah realized that he had revealed to her all that was in his heart, she
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.17|<< Judges 16:17]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.19|Judges 16:19 >>]]</td></tr></table>
 
 [^1]: BH spelled: **<span class="ashebrew"><big>דְּלִילָ֗ה</big></span>**
-[^2]: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
-[^3]: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: to her  | **<big>[[H9005|לָ]]</big><big>[[H9034|הּ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: to her  | **<big>[[H9005|לָ]]</big><big>[[H9034|הּ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>לִ֖ה</big></span>**
 

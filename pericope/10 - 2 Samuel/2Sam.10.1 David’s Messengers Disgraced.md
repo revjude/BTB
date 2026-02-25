@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Messengers Disgraced
+type: Pericope
 pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 10
 book/chapter: "[[2Sam.10|2 Samuel 10]]"
-genre:
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.10.1]]"
 - "[[2Sam.10.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.10.8]]"
 ---
 
-[[2Sam.10|2 Samuel 10:1 - 2 Samuel 10:8]]
+<small>[[2Sam.10|2 Samuel 10:1-8]]</small>
 *David’s Messengers Disgraced*
 
 [[2Sam.10.1|1]] And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.

@@ -1,8 +1,63 @@
+---
+title: Leviticus 20:26
+type: Verse
+kjv: "And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine."
+bsb: "You are to be holy to Me because I, the LORD, am holy, and I have set you apart from the nations to be My own."
+hebrew: "וִהְיִ֤יתֶם לִי֙ קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אֲנִ֣י יְהוָ֑ה וָאַבְדִּ֥ל אֶתְכֶ֛ם מִן־ הָֽעַמִּ֖ים לִהְי֥וֹת לִֽי׃"
+pericope: "[[Lev.20.22 Distinguish between Clean and Unclean|Distinguish between Clean and Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6918G]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0914]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:26**<big><big>[[Lev.20.22 Distinguish between Clean and Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be holy unto me: for I the LORD [am] holy, and have severed you from [other] people, that ye should be mine.
 <small><sub>**BSB:**</sub></small>
 You are to be holy to Me because I, the LORD, am holy, and I have set you apart from the nations to be My own.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִ]][[H1961\|הְיִ֤יתֶם]] [[H9005\|לִ]][[H9030\|י֙]] [[H6918G\|קְדֹשִׁ֔ים]] [[H3588A\|כִּ֥י]] [[H6918G\|קָד֖וֹשׁ]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וָ]][[H0914\|אַבְדִּ֥ל]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֖ים]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.25|<< Leviticus 20:25]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.27|Leviticus 20:27 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Ezekiel 46:4
+type: Verse
+kjv: "And the burnt offering that the prince shall offer unto the LORD in the sabbath day shall be six lambs without blemish, and a ram without blemish."
+bsb: "The burnt offering that the prince presents to the LORD on the Sabbath day shall be six unblemished male lambs and an unblemished ram."
+hebrew: "וְהָ֣עֹלָ֔ה אֲשֶׁר־ יַקְרִ֥ב הַנָּשִׂ֖יא לַֽיהוָ֑ה בְּי֣וֹם הַשַּׁבָּ֗ת שִׁשָּׁ֧ה כְבָשִׂ֛ים תְּמִימִ֖ם וְאַ֥יִל תָּמִֽים׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7126H]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7676]]"
+- "[[H8337]]"
+- "[[H3532]]"
+- "[[H8549G]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:4**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the burnt offering that the prince shall offer unto the LORD in the sabbath day [shall be] six lambs without blemish, and a ram without blemish.
 <small><sub>**BSB:**</sub></small>
 The burnt offering that the prince presents to the LORD on the Sabbath day shall be six unblemished male lambs and an unblemished ram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ֣]][[H5930A\|עֹלָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7126H\|יַקְרִ֥ב]] [[H9009\|הַ]][[H5387A\|נָּשִׂ֖יא]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֗ת]] [[H8337\|שִׁשָּׁ֧ה]] [[H3532\|כְבָשִׂ֛ים]] [[H8549G\|תְּמִימִ֖ם]] [[H9002\|וְ]][[H0352A\|אַ֥יִל]] [[H8549G\|תָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.3|<< Ezekiel 46:3]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.5|Ezekiel 46:5 >>]]</td></tr></table>
 

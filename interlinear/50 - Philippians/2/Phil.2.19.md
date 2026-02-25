@@ -1,10 +1,58 @@
+---
+title: Philippians 2:19
+type: Verse
+kjv: "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state."
+bsb: "Now I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I learn how you are doing."
+greek: "Ἐλπίζω δὲ ἐν κυρίῳ Ἰησοῦ Τιμόθεον ταχέως πέμψαι ὑμῖν, ἵνα κἀγὼ κἀγὼ εὐψυχῶ γνοὺς τὰ περὶ ὑμῶν·"
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G1679]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5095]]"
+- "[[G5030]]"
+- "[[G3992]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2174]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G4012]]"
+texts:
+- NKO
+---
+
 **Philippians 2:19**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.
 <small><sub>**BSB:**</sub></small>
 Now I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I learn how you are doing.
-<small><sub>**Literal:**</sub></small>
-I hope however in [the] Lord Jesus Timothy soon to send to you, that I myself also may be encouraged having known the [things] concerning you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.18|<< Philippians 2:18]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.20|Philippians 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1679\|Ἐλπίζω]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G2424G\|Ἰησοῦ]]  [[G5095\|Τιμόθεον]]  [[G5030\|ταχέως]]  [[G3992\|πέμψαι]]  [[G4771\|ὑμῖν,]]  [[G2443\|ἵνα]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2174\|εὐψυχῶ]]  [[G1097\|γνοὺς]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic LOVE|LOVE]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.18|<< Philippians 2:18]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.20|Philippians 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

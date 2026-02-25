@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Refining Furnace
+type: Pericope
 pericope: "[[Ezek.22.17 The Refining Furnace|The Refining Furnace]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 22
 book/chapter: "[[Ezek.22|Ezekiel 22]]"
-genre:
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.22.17]]"
 - "[[Ezek.22.18]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.22.22]]"
 ---
 
-[[Ezek.22|Ezekiel 22:17 - Ezekiel 22:22]]
+<small>[[Ezek.22|Ezekiel 22:17-22]]</small>
 *The Refining Furnace*
 
 [[Ezek.22.17|17]] And the word of the LORD came unto me, saying,

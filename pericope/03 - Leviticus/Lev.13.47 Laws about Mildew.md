@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws about Mildew
+type: Pericope
 pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 13
 book/chapter: "[[Lev.13|Leviticus 13]]"
-genre:
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 13
 verses:
 - "[[Lev.13.47]]"
 - "[[Lev.13.48]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lev.13.59]]"
 ---
 
-[[Lev.13|Leviticus 13:47 - Leviticus 13:59]]
+<small>[[Lev.13|Leviticus 13:47-59]]</small>
 *Laws about Mildew*
 
 [[Lev.13.47|47]] The garment also that the plague of leprosy is in, \[whether it be\] a woollen garment, or a linen garment;

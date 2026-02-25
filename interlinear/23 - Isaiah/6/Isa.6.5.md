@@ -1,8 +1,78 @@
+---
+title: Isaiah 6:5
+type: Verse
+kjv: "Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts."
+bsb: "Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.”"
+hebrew: "וָאֹמַ֞ר אֽוֹי־ לִ֣י כִֽי־ נִדְמֵ֗יתִי כִּ֣י אִ֤ישׁ טְמֵֽא־ שְׂפָתַ֙יִם֙ אָנֹ֔כִי וּבְתוֹךְ֙ עַם־ טְמֵ֣א שְׂפָתַ֔יִם אָנֹכִ֖י יוֹשֵׁ֑ב כִּ֗י אֶת־ הַמֶּ֛לֶךְ יְהוָ֥ה צְבָא֖וֹת רָא֥וּ עֵינָֽי׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0188]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H1820]]"
+- "[[H0376G]]"
+- "[[H2931]]"
+- "[[H8193G]]"
+- "[[H0595]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:5**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Woe [is] me! for I am undone; because I [am] a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֞ר]] [[H0188\|אֽוֹי]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H3588A\|כִֽי]][[H9014\|־]] [[H1820\|נִדְמֵ֗יתִי]] [[H3588A\|כִּ֣י]] [[H0376G\|אִ֤ישׁ]] [[H2931\|טְמֵֽא]][[H9014\|־]] [[H8193G\|שְׂפָתַ֙יִם֙]] [[H0595\|אָנֹ֔כִי]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|תוֹךְ֙]] [[H5971A\|עַם]][[H9014\|־]] [[H2931\|טְמֵ֣א]] [[H8193G\|שְׂפָתַ֔יִם]] [[H0595\|אָנֹכִ֖י]] [[H3427\|יוֹשֵׁ֑ב]] [[H3588A\|כִּ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H7200G\|רָא֥וּ]] [[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMPANY|COMPANY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.4|<< Isaiah 6:4]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.6|Isaiah 6:6 >>]]</td></tr></table>
 

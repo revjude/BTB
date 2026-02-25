@@ -1,10 +1,51 @@
+---
+title: 2 Thessalonians 3:15
+type: Verse
+kjv: "Yet count him not as an enemy, but admonish him as a brother."
+bsb: "Yet do not regard him as an enemy, but admonish him as a brother."
+greek: "καὶ μὴ ὡς ἐχθρὸν ἡγεῖσθε, ἀλλὰ νουθετεῖτε ὡς ἀδελφόν.¶"
+pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G5613]]"
+- "[[G2190]]"
+- "[[G2233]]"
+- "[[G0235]]"
+- "[[G3560]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 3:15**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet count [him] not as an enemy, but admonish [him] as a brother.
 <small><sub>**BSB:**</sub></small>
 Yet do not regard him as an enemy, but admonish him as a brother.
-<small><sub>**Literal:**</sub></small>
-And yet not as an enemy do esteem [him], but do admonish [him] as a brother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.14|<< 2 Thessalonians 3:14]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.16|2 Thessalonians 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5613\|ὡς]]  [[G2190\|ἐχθρὸν]]  [[G2233\|ἡγεῖσθε,]]  [[G0235\|ἀλλὰ]]  [[G3560\|νουθετεῖτε]]  [[G5613\|ὡς]]  [[G0080\|ἀδελφόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.14|<< 2 Thessalonians 3:14]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.16|2 Thessalonians 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

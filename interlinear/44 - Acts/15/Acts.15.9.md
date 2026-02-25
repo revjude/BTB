@@ -1,10 +1,64 @@
+---
+title: Acts 15:9
+type: Verse
+kjv: "And put no difference between us and them, purifying their hearts by faith."
+bsb: "He made no distinction between us and them, for He cleansed their hearts by faith."
+greek: "καὶ οὐθὲν διέκρινεν μεταξὺ ἡμῶν τε καὶ αὐτῶν τῇ πίστει καθαρίσας τὰς καρδίας αὐτῶν."
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PETER|PETER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1252]]"
+- "[[G3342]]"
+- "[[G3165]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G2511]]"
+- "[[G2588]]"
+texts:
+- NKO
+---
+
 **Acts 15:9**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And put no difference between us and them, purifying their hearts by faith.
 <small><sub>**BSB:**</sub></small>
 He made no distinction between us and them, for He cleansed their hearts by faith.
-<small><sub>**Literal:**</sub></small>
-and no [thing] He made distinction between us also and them by the faith having purified the hearts of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.8|<< Acts 15:8]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.10|Acts 15:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3762\|οὐθὲν]]  [[G1252\|διέκρινεν]]  [[G3342\|μεταξὺ]]  [[G3165\|ἡμῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G0846\|αὐτῶν]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G2511\|καθαρίσας]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic LAW|LAW]] • [[topic PETER|PETER]] • [[topic REGENERATION|REGENERATION]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic SALVATION|SALVATION]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.8|<< Acts 15:8]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.10|Acts 15:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Ezekiel 12:14
+type: Verse
+kjv: "And I will scatter toward every wind all that are about him to help him, and all his bands; and I will draw out the sword after them."
+bsb: "And I will scatter to every wind all the attendants around him and all his troops, and I will draw a sword to chase after them."
+hebrew: "וְכֹל֩ אֲשֶׁ֨ר סְבִיבֹתָ֥יו עֶזְר֛וֹ וְכָל־ אֲגַפָּ֖יו אֱזָרֶ֣ה לְכָל־ ר֑וּחַ וְחֶ֖רֶב אָרִ֥יק אַחֲרֵיהֶֽם׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H5828]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H0102]]"
+- "[[H2219]]"
+- "[[H9005]]"
+- "[[H7307H]]"
+- "[[H2719]]"
+- "[[H7324]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 12:14**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter toward every wind all that [are] about him to help him, and all his bands; and I will draw out the sword after them.
 <small><sub>**BSB:**</sub></small>
 And I will scatter to every wind all the attendants around him and all his troops, and I will draw a sword to chase after them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H5439G\|סְבִיבֹתָ֥י]][[H9033\|ו]] [[H5828\|עֶזְר֛]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0102\|אֲגַפָּ֖י]][[H9023\|ו]] [[H2219\|אֱזָרֶ֣ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וְ]][[H2719\|חֶ֖רֶב]] [[H7324\|אָרִ֥יק]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.13|<< Ezekiel 12:13]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.15|Ezekiel 12:15 >>]]</td></tr></table>
 
@@ -22,7 +76,7 @@ And I will scatter to every wind all the attendants around him and all his troop
 | after them  |**<big>&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.13|<< Ezekiel 12:13]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.15|Ezekiel 12:15 >>]]</td></tr></table>
 
-[^1]: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: help his  | **<big>[[H5828|עֶזְרֹ]]</big><big>[[H9023|ה]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: help his  | **<big>[[H5828|עֶזְרֹ]]</big><big>[[H9023|ה]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עֶזְרֹ֛ה</big></span>**
 

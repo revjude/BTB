@@ -1,8 +1,75 @@
+---
+title: 2 Kings 23:8
+type: Verse
+kjv: "And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that were in the entering in of the gate of Joshua the governor of the city, which were on a man’s left hand at the gate of the city."
+bsb: "Then Josiah brought all the priests from the cities of Judah and desecrated the high places, from Geba to Beersheba, where the priests had burned incense. He tore down the high places of the gates at the entrance of the gate of Joshua the governor of the city, which was to the left of the city gate."
+hebrew: "וַיָּבֵ֤א אֶת־ כָּל־ הַכֹּֽהֲנִים֙ מֵעָרֵ֣י יְהוּדָ֔ה וַיְטַמֵּ֣א אֶת־ הַבָּמ֗וֹת אֲשֶׁ֤ר קִטְּרוּ־ שָׁ֙מָּה֙ הַכֹּ֣הֲנִ֔ים מִגֶּ֖בַע עַד־ בְּאֵ֣ר שָׁ֑בַע וְנָתַ֞ץ אֶת־ בָּמ֣וֹת הַשְּׁעָרִ֗ים אֲשֶׁר־ פֶּ֜תַח שַׁ֤עַר יְהוֹשֻׁ֙עַ֙ שַׂר־ הָעִ֔יר אֲשֶֽׁר־ עַל־ שְׂמֹ֥אול אִ֖ישׁ בְּשַׁ֥עַר הָעִֽיר׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GEBA|GEBA]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H2930A]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H6999H]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H1387G]]"
+- "[[H5704]]"
+- "[[H0884]]"
+- "[[H5422]]"
+- "[[H8179G]]"
+- "[[H6607]]"
+- "[[H3091I]]"
+- "[[H8269]]"
+- "[[H5921A]]"
+- "[[H8040G]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:8**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had burned incense, from Geba to Beersheba, and brake down the high places of the gates that [were] in the entering in of the gate of Joshua the governor of the city, which [were] on a man’s left hand at the gate of the city.
 <small><sub>**BSB:**</sub></small>
 Then Josiah brought all the priests from the cities of Judah and desecrated the high places, from Geba to Beersheba, where the priests had burned incense. He tore down the high places of the gates at the entrance of the gate of Joshua the governor of the city, which was to the left of the city gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9006\|מֵ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H2930A\|יְטַמֵּ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמ֗וֹת]] [[H0834A\|אֲשֶׁ֤ר]] [[H6999H\|קִטְּרוּ]][[H9014\|־]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9006\|מִ]][[H1387G\|גֶּ֖בַע]] [[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שָׁ֑בַע]] [[H9001\|וְ]][[H5422\|נָתַ֞ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמ֣וֹת]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֗ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6607\|פֶּ֜תַח]] [[H8179G\|שַׁ֤עַר]] [[H3091I\|יְהוֹשֻׁ֙עַ֙]] [[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H8040G\|שְׂמֹ֥אול]] [[H0376I\|אִ֖ישׁ]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEBA|GEBA]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSHUA|JOSHUA]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.7|<< 2 Kings 23:7]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.9|2 Kings 23:9 >>]]</td></tr></table>
 

@@ -1,6 +1,73 @@
+---
+title: LXX Judges 1:33
+type: Verse
+lxx: "And Naphtali did not remove the ones dwelling in Beth-shemesh, and the ones dwelling in Beth-anath. And Naphtali dwelt in the midst of the Canaanite  dwelling in the land. But the ones dwelling in Beth-shemesh and  in Beth-anath became to them for tribute."
+greek: "και Νεφθαλί ουκ εξήρε τους κατοικούντας Βεθσαμής και τους κατοικούντας Βεθανάχ και κατώκησε Νεφθαλί εν μέσω του Χαναναίου του κατοικούντος την γην οι δε κατοικούντες Βαιθσαμής και την Βαιθενέθ εγένοντο αυτοίς εις φόρον"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-ANATH|BETH-ANATH]]"
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3508]]"
+- "[[G3756]]"
+- "[[G1808]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[H1053]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[H1043]]"
+- "[[G2532]]"
+- "[[G2730]]"
+- "[[G3508]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G5477]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2730]]"
+- "[[H1053]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H1043]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5411]]"
+---
+
 **LXX Judges 1:33** 
 <small><sub>**LXX:**</sub></small>
 And Naphtali did not remove the ones dwelling in Beth-shemesh, and the ones dwelling in Beth-anath. And Naphtali dwelt in \[the\] midst of the Canaanite  dwelling in the land. But the ones dwelling in Beth-shemesh and  in Beth-anath became to them for tribute. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3508\|Νεφθαλί]] [[G3756\|ουκ]] [[G1808\|εξήρε]] [[G3588\|τους]] [[G2730\|κατοικούντας]] [[H1053\|Βεθσαμής]] [[G2532\|και]] [[G3588\|τους]] [[G2730\|κατοικούντας]] [[H1043\|Βεθανάχ]] [[G2532\|και]] [[G2730\|κατώκησε]] [[G3508\|Νεφθαλί]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|του]] [[G5477\|Χαναναίου]] [[G3588\|του]] [[G2730\|κατοικούντος]] [[G3588\|την]] [[G1093\|γην]] [[G3588\|οι]] [[G1161\|δε]] [[G2730\|κατοικούντες]] [[H1053\|Βαιθσαμής]] [[G2532\|και]] [[G3588\|την]] [[H1043\|Βαιθενέθ]] [[G1096\|εγένοντο]] [[G1473\|αυτοίς]] [[G1519\|εις]] [[G5411\|φόρον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-ANATH|BETH-ANATH]] • [[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic CANAANITES|CANAANITES]] • [[topic ISRAEL|ISRAEL]] • [[topic NAPHTALI|NAPHTALI]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.32|<< Judges 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.34|Judges 1:34 >>]]</td></tr></table>
 
@@ -37,6 +104,6 @@ And Naphtali did not remove the ones dwelling in Beth-shemesh, and the ones dwel
 | to them | **<big>[[G1473\|αυτοίς]]</big>** |
 | for | **<big>[[G1519\|εις]]</big>** |
 | tribute. | **<big>[[G5411\|φόρον]]</big>** |
-[[Judg.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.32|<< Judges 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.34|Judges 1:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.32|<< Judges 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.34|Judges 1:34 >>]]</td></tr></table>
 
 

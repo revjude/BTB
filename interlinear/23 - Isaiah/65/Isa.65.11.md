@@ -1,8 +1,64 @@
+---
+title: Isaiah 65:11
+type: Verse
+kjv: "But ye are they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number."
+bsb: "But you who forsake the LORD, who forget My holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,"
+hebrew: "וְאַתֶּם֙ עֹזְבֵ֣י יְהוָ֔ה הַשְּׁכֵחִ֖ים אֶת־ הַ֣ר קָדְשִׁ֑י הַֽעֹרְכִ֤ים לַגַּד֙ שֻׁלְחָ֔ן וְהַֽמְמַלְאִ֖ים לַמְנִ֥י מִמְסָֽךְ׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H5800A]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H7913]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H1408]]"
+- "[[H7979]]"
+- "[[H4390]]"
+- "[[H4507]]"
+- "[[H4469]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:11**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye [are] they that forsake the LORD, that forget my holy mountain, that prepare a table for that troop, and that furnish the drink offering unto that number.
 <small><sub>**BSB:**</sub></small>
 But you who forsake the LORD, who forget My holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H5800A\|עֹזְבֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9009\|הַ]][[H7913\|שְּׁכֵחִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H6944G\|קָדְשִׁ֑]][[H9020\|י]] [[H9009\|הַֽ]][[H6186A\|עֹרְכִ֤ים]] [[H9005\|לַ]][[H1408\|גַּד֙]] [[H7979\|שֻׁלְחָ֔ן]] [[H9002\|וְ]][[H9009\|הַֽ]][[H4390\|מְמַלְאִ֖ים]] [[H9005\|לַ]][[H4507\|מְנִ֥י]] [[H4469\|מִמְסָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.10|<< Isaiah 65:10]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.12|Isaiah 65:12 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: 1 Peter 2:8
+type: Verse
+kjv: "And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed."
+bsb: "and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed."
+greek: "καὶ λίθος προσκόμματος καὶ πέτρα σκανδάλου, οἳ προσκόπτουσιν τῷ λόγῳ ἀπειθοῦντες, εἰς ὃ καὶ ἐτέθησαν·"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STONES|STONES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3037]]"
+- "[[G4348]]"
+- "[[G4073]]"
+- "[[G4625]]"
+- "[[G3739]]"
+- "[[G4350]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0544]]"
+- "[[G1519]]"
+- "[[G5087]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:8**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a stone of stumbling, and a rock of offence, [even to them] which stumble at the word, being disobedient: whereunto also they were appointed.
 <small><sub>**BSB:**</sub></small>
 and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed.
-<small><sub>**Literal:**</sub></small>
-and A stone of stumbling and a rock of offense, [They] stumble at on the word being disobedient, to which also they were appointed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.7|<< 1 Peter 2:7]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.9|1 Peter 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3037\|λίθος]]  [[G4348\|προσκόμματος]]  [[G2532\|καὶ]]  [[G4073\|πέτρα]]  [[G4625\|σκανδάλου,]]  [[G3739\|οἳ]]  [[G4350\|προσκόπτουσιν]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G0544\|ἀπειθοῦντες,]]  [[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G5087\|ἐτέθησαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STONES|STONES]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.7|<< 1 Peter 2:7]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.9|1 Peter 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:8** is...
 > $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]]

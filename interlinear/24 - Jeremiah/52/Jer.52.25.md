@@ -1,8 +1,80 @@
+---
+title: Jeremiah 52:25
+type: Verse
+kjv: "He took also out of the city an eunuch, which had the charge of the men of war; and seven men of them that were near the king’s person, which were found in the city; and the principal scribe of the host, who mustered the people of the land; and threescore men of the people of the land, that were found in the midst of the city."
+bsb: "Of those still in the city, he took a court official who had been appointed over the men of war, as well as seven trusted royal advisers. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city."
+hebrew: "וּמִן־ הָעִ֡יר לָקַח֩ סָרִ֨יס אֶחָ֜ד אֲֽשֶׁר־ הָיָ֥ה פָקִ֣יד׀ עַל־ אַנְשֵׁ֣י הַמִּלְחָמָ֗ה וְשִׁבְעָ֨ה אֲנָשִׁ֜ים מֵרֹאֵ֤י פְנֵי־ הַמֶּ֙לֶךְ֙ אֲשֶׁ֣ר נִמְצְא֣וּ בָעִ֔יר וְאֵ֗ת סֹפֵר֙ שַׂ֣ר הַצָּבָ֔א הַמַּצְבִּ֖א אֶת־ עַ֣ם הָאָ֑רֶץ וְשִׁשִּׁ֥ים אִישׁ֙ מֵעַ֣ם הָאָ֔רֶץ הַֽנִּמְצְאִ֖ים בְּת֥וֹךְ הָעִֽיר׃"
+pericope: "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3947G]]"
+- "[[H5631]]"
+- "[[H0259]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6496]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H7651]]"
+- "[[H9006]]"
+- "[[H7200M]]"
+- "[[H6440H]]"
+- "[[H4428G]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H0853]]"
+- "[[H5608B]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H6633]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H8346]]"
+- "[[H0376G]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:25**<big><big>[[Jer.52.24 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took also out of the city an eunuch, which had the charge of the men of war; and seven men of them that were near the king’s person, which were found in the city; and the principal scribe of the host, who mustered the people of the land; and threescore men of the people of the land, that were found in the midst of the city.
 <small><sub>**BSB:**</sub></small>
 Of those still in the city, he took a court official who had been appointed over the men of war, as well as seven trusted royal advisers. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֡יר]] [[H3947G\|לָקַח֩]] [[H5631\|סָרִ֨יס]] [[H0259\|אֶחָ֜ד]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H6496\|פָקִ֣יד]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֨ה]] [[H0582\|אֲנָשִׁ֜ים]] [[H9006\|מֵ]][[H7200M\|רֹאֵ֤י]] [[H6440H\|פְנֵי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|נִמְצְא֣וּ]] [[H9003\|בָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H0853\|אֵ֗ת]] [[H5608B\|סֹפֵר֙]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H6635A\|צָּבָ֔א]] [[H9009\|הַ]][[H6633\|מַּצְבִּ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֥ים]] [[H0376G\|אִישׁ֙]] [[H9006\|מֵ]][[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9009\|הַֽ]][[H4672\|נִּמְצְאִ֖ים]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUNUCH|EUNUCH]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic SERAIAH|SERAIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.24|<< Jeremiah 52:24]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.26|Jeremiah 52:26 >>]]</td></tr></table>
 

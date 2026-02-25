@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Song for Saul and Jonathan
+type: Pericope
 pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 1
 book/chapter: "[[2Sam.1|2 Samuel 1]]"
-genre:
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 11
 verses:
 - "[[2Sam.1.17]]"
 - "[[2Sam.1.18]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Sam.1.27]]"
 ---
 
-[[2Sam.1|2 Samuel 1:17 - 2 Samuel 1:27]]
+<small>[[2Sam.1|2 Samuel 1:17-27]]</small>
 *David’s Song for Saul and Jonathan*
 
 [[2Sam.1.17|17]] And David lamented with this lamentation over Saul and over Jonathan his son:

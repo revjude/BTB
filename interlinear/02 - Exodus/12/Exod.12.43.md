@@ -1,8 +1,67 @@
+---
+title: Exodus 12:43
+type: Verse
+kjv: "And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:"
+bsb: "And the LORD said to Moses and Aaron, “This is the statute of the Passover: No foreigner is to eat of it."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֣ה וְאַהֲרֹ֔ן זֹ֖את חֻקַּ֣ת הַפָּ֑סַח כָּל־ בֶּן־ נֵכָ֖ר לֹא־ יֹ֥אכַל בּֽוֹ׃"
+pericope: "[[Exod.12.43 Instructions for the Passover|Instructions for the Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H2063]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H3605]]"
+- "[[H1121I]]"
+- "[[H5236]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:43**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses and Aaron, This [is] the ordinance of the passover: There shall no stranger eat thereof:
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses and Aaron, “This is the statute of the Passover: No foreigner is to eat of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H2063\|זֹ֖את]] [[H2708\|חֻקַּ֣ת]] [[H9009\|הַ]][[H6453\|פָּ֑סַח]] [[H3605\|כָּל]][[H9014\|־]] [[H1121I\|בֶּן]][[H9014\|־]] [[H5236\|נֵכָ֖ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹ֥אכַל]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORDINANCE|ORDINANCE]] • [[topic PASSOVER|PASSOVER]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.42|<< Exodus 12:42]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.44|Exodus 12:44 >>]]</td></tr></table>
 

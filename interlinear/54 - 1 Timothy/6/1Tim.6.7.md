@@ -1,10 +1,57 @@
+---
+title: 1 Timothy 6:7
+type: Verse
+kjv: "For we brought nothing into this world, and it is certain we can carry nothing out."
+bsb: "For we brought nothing into the world, so we cannot carry anything out of it."
+greek: "οὐδὲν γὰρ εἰσηνέγκαμεν εἰς τὸν κόσμον, δῆλον ὅτι οὐδὲ ἐξενεγκεῖν τι δυνάμεθα·"
+pericope: "[[1Tim.6.6 Godliness with Contentment|Godliness with Contentment]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G1533]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1212]]"
+- "[[G3754H]]"
+- "[[G3761]]"
+- "[[G1627]]"
+- "[[G5100]]"
+- "[[G1410]]"
+texts:
+- NKO
+- K
+---
+
 **1 Timothy 6:7**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we brought nothing into [this] world, [and it is] certain we can carry nothing out.
 <small><sub>**BSB:**</sub></small>
 For we brought nothing into the world, so we cannot carry anything out of it.
-<small><sub>**Literal:**</sub></small>
-No [thing] for we brought into the world, evident because neither to carry out anything are we able;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.6|<< 1 Timothy 6:6]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.8|1 Timothy 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|οὐδὲν]]  [[G1063\|γὰρ]]  [[G1533\|εἰσηνέγκαμεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G1212\|δῆλον]]  [[G3754H\|ὅτι]]  [[G3761\|οὐδὲ]]  [[G1627\|ἐξενεγκεῖν]]  [[G5100\|τι]]  [[G1410\|δυνάμεθα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DEATH|DEATH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RICHES|RICHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.6|<< 1 Timothy 6:6]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.8|1 Timothy 6:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Timothy 6:7** is...
 > $\quad$ alluding to: [[LXX.Job.1.21|Job 1:21]] ☩ [[LXX.Eccl.5.14|Eccl 5:14]]

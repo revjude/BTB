@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judas Agrees to Betray Jesus
+type: Pericope
 pericope: "[[Mark.14.10 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 2
 verses:
 - "[[Mark.14.10]]"
 - "[[Mark.14.11]]"
 ---
 
-[[Mark.14|Mark 14:10 - Mark 14:11]]
+<small>[[Mark.14|Mark 14:10-11]]</small>
 *Judas Agrees to Betray Jesus*
 
 [[Mark.14.10|10]] And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.

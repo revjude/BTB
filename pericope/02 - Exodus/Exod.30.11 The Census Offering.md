@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Census Offering
+type: Pericope
 pericope: "[[Exod.30.11 The Census Offering|The Census Offering]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 30
 book/chapter: "[[Exod.30|Exodus 30]]"
-genre:
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.30.11]]"
 - "[[Exod.30.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.30.16]]"
 ---
 
-[[Exod.30|Exodus 30:11 - Exodus 30:16]]
+<small>[[Exod.30|Exodus 30:11-16]]</small>
 *The Census Offering*
 
 [[Exod.30.11|11]] And the LORD spake unto Moses, saying,

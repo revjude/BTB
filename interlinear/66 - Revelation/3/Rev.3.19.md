@@ -1,10 +1,62 @@
+---
+title: Revelation 3:19
+type: Verse
+kjv: "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
+bsb: "Those I love I rebuke and discipline. Therefore be earnest and repent."
+jesus_said: "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
+greek: "ἐγὼ ὅσους ἐὰν φιλῶ ἐλέγχω καὶ παιδεύω. ζήλευε οὖν καὶ μετανόησον."
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G5368]]"
+- "[[G1651]]"
+- "[[G2532]]"
+- "[[G3811]]"
+- "[[G6041]]"
+- "[[G3767]]"
+- "[[G3340]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 3:19**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 <small><sub>**BSB:**</sub></small>
 Those I love I rebuke and discipline. Therefore be earnest and repent.
-<small><sub>**Literal:**</sub></small>
-I myself as many as if shall love I rebuke and discipline. do be jealous therefore and do repent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.18|<< Revelation 3:18]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.20|Revelation 3:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G3745\|ὅσους]]  [[G1437\|ἐὰν]]  [[G5368\|φιλῶ]]  [[G1651\|ἐλέγχω]]  [[G2532\|καὶ]]  [[G3811\|παιδεύω.]]  [[G6041\|ζήλευε]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G3340\|μετανόησον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAODICEA|LAODICEA]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.18|<< Revelation 3:18]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.20|Revelation 3:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 3:19** is...
 > $\quad$ possibly alluding to: [[LXX.Prov.3.11|Prov 3:11-12]]

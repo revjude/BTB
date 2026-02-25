@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 7:18
+type: Verse
+kjv: "Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel."
+bsb: "then I will establish your royal throne, as I covenanted with your father David when I said, ‘You will never fail to have a man to rule over Israel.’"
+hebrew: "וַהֲקִ֣ימוֹתִ֔י אֵ֖ת כִּסֵּ֣א מַלְכוּתֶ֑ךָ כַּאֲשֶׁ֣ר כָּרַ֗תִּי לְדָוִ֤יד אָבִ֙יךָ֙ לֵאמֹ֔ר לֹֽא־ יִכָּרֵ֤ת לְךָ֙ אִ֔ישׁ מוֹשֵׁ֖ל בְּיִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H3678G]]"
+- "[[H4438]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3772J]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:18**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man [to be] ruler in Israel.
 <small><sub>**BSB:**</sub></small>
 then I will establish your royal throne, as I covenanted with your father David when I said, ‘You will never fail to have a man to rule over Israel.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִ֣ימוֹתִ֔י]] [[H0853\|אֵ֖ת]] [[H3678G\|כִּסֵּ֣א]] [[H4438\|מַלְכוּתֶ֑]][[H9021\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H3772J\|כָּרַ֗תִּי]] [[H9005\|לְ]][[H1732\|דָוִ֤יד]] [[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772J\|יִכָּרֵ֤ת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0376G\|אִ֔ישׁ]] [[H4910\|מוֹשֵׁ֖ל]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.17|<< 2 Chronicles 7:17]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.19|2 Chronicles 7:19 >>]]</td></tr></table>
 

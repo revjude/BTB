@@ -1,8 +1,79 @@
+---
+title: 1 Kings 11:4
+type: Verse
+kjv: "For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father."
+bsb: "For when Solomon grew old, his wives turned his heart after other gods, and he was not wholeheartedly devoted to the LORD his God, as his father David had been."
+hebrew: "וַיְהִ֗י לְעֵת֙ זִקְנַ֣ת שְׁלֹמֹ֔ה נָשָׁיו֙ הִטּ֣וּ אֶת־ לְבָב֔וֹ אַחֲרֵ֖י אֱלֹהִ֣ים אֲחֵרִ֑ים וְלֹא־ הָיָ֨ה לְבָב֤וֹ שָׁלֵם֙ עִם־ יְהוָ֣ה אֱלֹהָ֔יו כִּלְבַ֖ב דָּוִ֥יד אָבִֽיו׃"
+pericope: "[[1Kgs.11.1 Solomon’s Foreign Wives|Solomon’s Foreign Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H2209]]"
+- "[[H8010]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8003]]"
+- "[[H5973A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:4**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it came to pass, when Solomon was old, [that] his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as [was] the heart of David his father.
 <small><sub>**BSB:**</sub></small>
 For when Solomon grew old, his wives turned his heart after other gods, and he was not wholeheartedly devoted to the LORD his God, as his father David had been.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9005\|לְ]][[H6256\|עֵת֙]] [[H2209\|זִקְנַ֣ת]] [[H8010\|שְׁלֹמֹ֔ה]] [[H0802H\|נָשָׁי]][[H9023\|ו֙]] [[H5186\|הִטּ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָב֔]][[H9023\|וֹ]] [[H0310A\|אַחֲרֵ֖י]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H3824\|לְבָב֤]][[H9023\|וֹ]] [[H8003\|שָׁלֵם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔י]][[H9023\|ו]] [[H9004\|כִּ]][[H3824\|לְבַ֖ב]] [[H1732\|דָּוִ֥יד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHARACTER|CHARACTER]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic MOLECH|MOLECH]] • [[topic PERFECTION|PERFECTION]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.3|<< 1 Kings 11:3]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.5|1 Kings 11:5 >>]]</td></tr></table>
 

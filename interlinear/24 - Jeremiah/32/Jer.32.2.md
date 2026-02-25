@@ -1,8 +1,68 @@
+---
+title: Jeremiah 32:2
+type: Verse
+kjv: "For then the king of Babylon’s army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which was in the king of Judah’s house."
+bsb: "At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was imprisoned in the courtyard of the guard, which was in the palace of the king of Judah."
+hebrew: "וְאָ֗ז חֵ֚יל מֶ֣לֶךְ בָּבֶ֔ל צָרִ֖ים עַל־ יְרוּשָׁלִָ֑ם וְיִרְמְיָ֣הוּ הַנָּבִ֗יא הָיָ֤ה כָלוּא֙ בַּחֲצַ֣ר הַמַּטָּרָ֔ה אֲשֶׁ֖ר בֵּֽית־ מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0227A]]"
+- "[[H2428A]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H6696A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1961]]"
+- "[[H3607]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H4307H]]"
+- "[[H0834A]]"
+- "[[H1004B]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:2**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For then the king of Babylon’s army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which [was] in the king of Judah’s house.
 <small><sub>**BSB:**</sub></small>
 At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was imprisoned in the courtyard of the guard, which was in the palace of the king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0227A\|אָ֗ז]] [[H2428A\|חֵ֚יל]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H6696A\|צָרִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H1961\|הָיָ֤ה]] [[H3607\|כָלוּא֙]] [[H9003\|בַּ]][[H2691A\|חֲצַ֣ר]] [[H9009\|הַ]][[H4307H\|מַּטָּרָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRISONERS|PRISONERS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.1|<< Jeremiah 32:1]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.3|Jeremiah 32:3 >>]]</td></tr></table>
 

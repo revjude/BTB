@@ -1,8 +1,61 @@
+---
+title: Genesis 5:13
+type: Verse
+kjv: "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+bsb: "And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters."
+hebrew: "וַיְחִ֣י קֵינָ֗ן אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ מַֽהֲלַלְאֵ֔ל אַרְבָּעִ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃"
+pericope: "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAINAN|CAINAN]]"
+- "[[topic MAHALALEEL|MAHALALEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H7018]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4111G]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H8083]]"
+- "[[H3967]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:13**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֣י]] [[H7018\|קֵינָ֗ן]] [[H0310A\|אַחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H4111G\|מַֽהֲלַלְאֵ֔ל]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֥ה]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAINAN|CAINAN]] • [[topic MAHALALEEL|MAHALALEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.12|<< Genesis 5:12]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.14|Genesis 5:14 >>]]</td></tr></table>
 

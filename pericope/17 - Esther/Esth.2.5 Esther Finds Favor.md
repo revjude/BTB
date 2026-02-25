@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esther Finds Favor
+type: Pericope
 pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 2
 book/chapter: "[[Esth.2|Esther 2]]"
-genre:
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 12
 verses:
 - "[[Esth.2.5]]"
 - "[[Esth.2.6]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Esth.2.16]]"
 ---
 
-[[Esth.2|Esther 2:5 - Esther 2:16]]
+<small>[[Esth.2|Esther 2:5-16]]</small>
 *Esther Finds Favor*
 
 [[Esth.2.5|5]] \[Now\] in Shushan the palace there was a certain Jew, whose name \[was\] Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;

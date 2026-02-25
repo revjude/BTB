@@ -1,8 +1,62 @@
+---
+title: Numbers 24:12
+type: Verse
+kjv: "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
+bsb: "Balaam answered Balak, “Did I not already tell the messengers you sent me"
+hebrew: "וַיֹּ֥אמֶר בִּלְעָ֖ם אֶל־ בָּלָ֑ק הֲלֹ֗א גַּ֧ם אֶל־ מַלְאָכֶ֛יךָ אֲשֶׁר־ שָׁלַ֥חְתָּ אֵלַ֖י דִּבַּ֥רְתִּי לֵאמֹֽר׃"
+pericope: "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1571]]"
+- "[[H4397G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:12**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,
 <small><sub>**BSB:**</sub></small>
 Balaam answered Balak, “Did I not already tell the messengers you sent me
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H1109A\|בִּלְעָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֑ק]] [[H9008\|הֲ]][[H3808\|לֹ֗א]] [[H1571\|גַּ֧ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4397G\|מַלְאָכֶ֛י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֥חְתָּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H1696G\|דִּבַּ֥רְתִּי]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.11|<< Numbers 24:11]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.13|Numbers 24:13 >>]]</td></tr></table>
 

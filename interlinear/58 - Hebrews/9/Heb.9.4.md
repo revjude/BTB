@@ -1,10 +1,67 @@
+---
+title: Hebrews 9:4
+type: Verse
+kjv: "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;"
+bsb: "containing the golden altar of incense and the gold-covered ark of the covenant. Inside the ark were the gold jar of manna, Aaron’s staff that had budded, and the stone tablets of the covenant."
+greek: "χρυσοῦν ἔχουσα θυμιατήριον καὶ τὴν κιβωτὸν τῆς διαθήκης περικεκαλυμμένην πάντοθεν χρυσίῳ, ἐν ᾗ στάμνος χρυσῆ ἔχουσα τὸ μάννα καὶ ἡ ῥάβδος Ἀαρὼν ἡ βλαστήσασα καὶ αἱ πλάκες τῆς διαθήκης·"
+pericope: "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ARK|ARK]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5552]]"
+- "[[G2192]]"
+- "[[G2369]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2787G]]"
+- "[[G1242]]"
+- "[[G4028]]"
+- "[[G3840]]"
+- "[[G5553]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4713]]"
+- "[[G3131]]"
+- "[[G4464]]"
+- "[[G0002]]"
+- "[[G0985]]"
+- "[[G4109]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:4**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein [was] the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;
 <small><sub>**BSB:**</sub></small>
 containing the golden altar of incense and the gold-covered ark of the covenant. Inside the ark were the gold jar of manna, Aaron’s staff that had budded, and the stone tablets of the covenant.
-<small><sub>**Literal:**</sub></small>
-[the] golden having altar of incense and the ark of the covenant covered around in every part with gold, in which [was the] jar golden having the manna and the staff of Aaron which having budded and the tablets of the covenant;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.3|<< Hebrews 9:3]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.5|Hebrews 9:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5552\|χρυσοῦν]]  [[G2192\|ἔχουσα]]  [[G2369\|θυμιατήριον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2787G\|κιβωτὸν]]  [[G3588\|τῆς]]  [[G1242\|διαθήκης]]  [[G4028\|περικεκαλυμμένην]]  [[G3840\|πάντοθεν]]  [[G5553\|χρυσίῳ,]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G4713\|στάμνος]]  [[G5552\|χρυσῆ]]  [[G2192\|ἔχουσα]]  [[G3588\|τὸ]]  [[G3131\|μάννα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4464\|ῥάβδος]]  [[G0002\|Ἀαρὼν]]  [[G3588\|ἡ]]  [[G0985\|βλαστήσασα]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4109\|πλάκες]]  [[G3588\|τῆς]]  [[G1242\|διαθήκης·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ARK|ARK]] • [[topic CENSER|CENSER]] • [[topic MANNA|MANNA]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TABLE|TABLE]] • [[topic TYPES|TYPES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.3|<< Hebrews 9:3]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.5|Hebrews 9:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

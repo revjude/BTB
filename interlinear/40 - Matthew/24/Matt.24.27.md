@@ -1,10 +1,61 @@
+---
+title: Matthew 24:27
+type: Verse
+kjv: "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+bsb: "For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man."
+jesus_said: "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+greek: "ὥσπερ γὰρ ἡ ἀστραπὴ ἐξέρχεται ἀπὸ ἀνατολῶν καὶ φαίνεται ἕως δυσμῶν, οὕτως ἔσται καὶ ἡ παρουσία τοῦ υἱοῦ τοῦ ἀνθρώπου."
+pericope: "[[Matt.24.26 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0796]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G0395]]"
+- "[[G2532]]"
+- "[[G5316]]"
+- "[[G2193]]"
+- "[[G1424]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G3952]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 24:27**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
 <small><sub>**BSB:**</sub></small>
 For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man.
-<small><sub>**Literal:**</sub></small>
-Just as for the lightning comes forth from [the] east and shines until [the] west, so will be also the coming of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.26|<< Matthew 24:26]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.28|Matthew 24:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G0796\|ἀστραπὴ]]  [[G1831\|ἐξέρχεται]]  [[G0575\|ἀπὸ]]  [[G0395\|ἀνατολῶν]]  [[G2532\|καὶ]]  [[G5316\|φαίνεται]]  [[G2193\|ἕως]]  [[G1424\|δυσμῶν,]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3952\|παρουσία]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHTNING|LIGHTNING]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.26|<< Matthew 24:26]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.28|Matthew 24:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

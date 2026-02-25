@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Cush and Assyria
+type: Pericope
 pericope: "[[Zeph.2.12 Judgment on Cush and Assyria|Judgment on Cush and Assyria]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 2
 book/chapter: "[[Zeph.2|Zephaniah 2]]"
-genre:
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 4
 verses:
 - "[[Zeph.2.12]]"
 - "[[Zeph.2.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Zeph.2.15]]"
 ---
 
-[[Zeph.2|Zephaniah 2:12 - Zephaniah 2:15]]
+<small>[[Zeph.2|Zephaniah 2:12-15]]</small>
 *Judgment on Cush and Assyria*
 
 [[Zeph.2.12|12]] Ye Ethiopians also, ye \[shall be\] slain by my sword.

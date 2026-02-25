@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Offering of Isaac
+type: Pericope
 pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 22
 book/chapter: "[[Gen.22|Genesis 22]]"
-genre:
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 10
 verses:
 - "[[Gen.22.1]]"
 - "[[Gen.22.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Gen.22.10]]"
 ---
 
-[[Gen.22|Genesis 22:1 - Genesis 22:10]]
+<small>[[Gen.22|Genesis 22:1-10]]</small>
 *The Offering of Isaac*
 
 [[Gen.22.1|1]] And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, \[here\] I \[am\].

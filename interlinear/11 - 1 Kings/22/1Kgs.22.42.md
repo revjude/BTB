@@ -1,8 +1,63 @@
+---
+title: 1 Kings 22:42
+type: Verse
+kjv: "Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi."
+bsb: "Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi."
+hebrew: "יְהוֹשָׁפָ֗ט בֶּן־ שְׁלֹשִׁ֨ים וְחָמֵ֤שׁ שָׁנָה֙ בְּמָלְכ֔וֹ וְעֶשְׂרִ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ עֲזוּבָ֖ה בַּת־ שִׁלְחִֽי׃"
+pericope: "[[1Kgs.22.41 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHILHI|SHILHI]]"
+strongs:
+- "[[H3092I]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H6242]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H5806G]]"
+- "[[H1323G]]"
+- "[[H7977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:42**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoshaphat [was] thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name [was] Azubah the daughter of Shilhi.
 <small><sub>**BSB:**</sub></small>
 Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi.
+<small><sub>**Hebrew:**</sub></small>
+[[H3092I\|יְהוֹשָׁפָ֗ט]] [[H1121L\|בֶּן]][[H9014\|־]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וְ]][[H2568\|חָמֵשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H5806G\|עֲזוּבָ֖ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H7977\|שִׁלְחִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic RULERS|RULERS]] • [[topic SHILHI|SHILHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.41|<< 1 Kings 22:41]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.43|1 Kings 22:43 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Numbers 26:25
+type: Verse
+kjv: "These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred."
+bsb: "These were the clans of Issachar, and their registration numbered 64,300."
+hebrew: "אֵ֛לֶּה מִשְׁפְּחֹ֥ת יִשָּׂשכָ֖ר לִפְקֻדֵיהֶ֑ם אַרְבָּעָ֧ה וְשִׁשִּׁ֛ים אֶ֖לֶף וּשְׁלֹ֥שׁ מֵאֽוֹת׃ ס"
+pericope: "[[Num.26.23 The Tribe of Issachar|The Tribe of Issachar]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISSACHAR|ISSACHAR]]"
+strongs:
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H3485G]]"
+- "[[H9005]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H0702]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H0505G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 26:25**<big><big>[[Num.26.23 The Tribe of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.
 <small><sub>**BSB:**</sub></small>
 These were the clans of Issachar, and their registration numbered 64,300.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H3485G\|יִשָּׂשכָ֖ר]] [[H9005\|לִ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H0702\|אַרְבָּעָ֧ה]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וּ]][[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISSACHAR|ISSACHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.24|<< Numbers 26:24]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.26|Numbers 26:26 >>]]</td></tr></table>
 
@@ -16,7 +66,7 @@ These were the clans of Issachar, and their registration numbered 64,300.
 | and sixty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8346\|שִׁשִּׁ֛ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.24|<< Numbers 26:24]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.26|Numbers 26:26 >>]]</td></tr></table>
 
 

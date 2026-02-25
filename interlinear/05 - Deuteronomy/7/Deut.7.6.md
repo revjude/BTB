@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 7:6
+type: Verse
+kjv: "For thou art an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth."
+bsb: "For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for His prized possession out of all peoples on the face of the earth."
+hebrew: "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּךָ֞ בָּחַ֣ר׀ יְהוָ֣ה אֱלֹהֶ֗יךָ לִהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־ פְּנֵ֥י הָאֲדָמָֽה׃ ס"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5971A]]"
+- "[[H6918G]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0977]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5459]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:6**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that [are] upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
 For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for His prized possession out of all peoples on the face of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5971A\|עַ֤ם]] [[H6918G\|קָדוֹשׁ֙]] [[H0859A\|אַתָּ֔ה]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H9031\|ךָ֞]] [[H0977\|בָּחַ֣ר]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לְ]][[H5971A\|עַ֣ם]] [[H5459\|סְגֻלָּ֔ה]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic ELECTION|ELECTION]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.5|<< Deuteronomy 7:5]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.7|Deuteronomy 7:7 >>]]</td></tr></table>
 
@@ -27,7 +92,7 @@ For you are a people holy to the LORD your God. The LORD your God has chosen you
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.5|<< Deuteronomy 7:5]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.7|Deuteronomy 7:7 >>]]</td></tr></table>
 
 

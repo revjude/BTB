@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Five Thousand
+type: Pericope
 pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 14
 book/chapter: "[[Matt.14|Matthew 14]]"
-genre:
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.14.13]]"
 - "[[Matt.14.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.14.21]]"
 ---
 
-[[Matt.14|Matthew 14:13 - Matthew 14:21]]
+<small>[[Matt.14|Matthew 14:13-21]]</small>
 *The Feeding of the Five Thousand*
 
 [[Matt.14.13|13]] When Jesus heard \[of it\], he departed thence by ship into a desert place apart: and when the people had heard \[thereof\], they followed him on foot out of the cities.

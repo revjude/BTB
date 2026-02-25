@@ -1,8 +1,56 @@
+---
+title: Isaiah 44:18
+type: Verse
+kjv: "They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand."
+bsb: "They do not comprehend or discern, for He has shut their eyes so they cannot see and closed their minds so they cannot understand."
+hebrew: "לֹ֥א יָדְע֖וּ וְלֹ֣א יָבִ֑ינוּ כִּ֣י טַ֤ח מֵֽרְאוֹת֙ עֵֽינֵיהֶ֔ם מֵהַשְׂכִּ֖יל לִבֹּתָֽם׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H3588A]]"
+- "[[H2902B]]"
+- "[[H9006]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H7919A]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:18**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have not known nor understood: for he hath shut their eyes, that they cannot see; [and] their hearts, that they cannot understand.
 <small><sub>**BSB:**</sub></small>
 They do not comprehend or discern, for He has shut their eyes so they cannot see and closed their minds so they cannot understand.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H3045\|יָדְע֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0995\|יָבִ֑ינוּ]] [[H3588A\|כִּ֣י]] [[H2902B\|טַ֤ח]] [[H9006\|מֵֽ]][[H7200G\|רְאוֹת֙]] [[H5869A\|עֵֽינֵי]][[H9028\|הֶ֔ם]] [[H9006\|מֵ]][[H7919A\|הַשְׂכִּ֖יל]] [[H3820A\|לִבֹּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.17|<< Isaiah 44:17]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.19|Isaiah 44:19 >>]]</td></tr></table>
 

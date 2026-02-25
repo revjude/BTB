@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Letter to the Gentile Believers
+type: Pericope
 pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 15
 book/chapter: "[[Acts.15|Acts 15]]"
-genre:
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.15.22]]"
 - "[[Acts.15.23]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.15.29]]"
 ---
 
-[[Acts.15|Acts 15:22 - Acts 15:29]]
+<small>[[Acts.15|Acts 15:22-29]]</small>
 *The Letter to the Gentile Believers*
 
 [[Acts.15.22|22]] Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; \[namely\], Judas surnamed Barsabas, and Silas, chief men among the brethren:

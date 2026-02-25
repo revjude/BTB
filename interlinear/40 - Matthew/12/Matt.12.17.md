@@ -1,10 +1,52 @@
+---
+title: Matthew 12:17
+type: Verse
+kjv: "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+bsb: "This was to fulfill what was spoken through the prophet Isaiah:"
+greek: "ἵνα πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος·"
+pericope: "[[Matt.12.15 God’s Chosen Servant|God’s Chosen Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G2268]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Matthew 12:17**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That it might be fulfilled which was spoken by Esaias the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 This was to fulfill what was spoken through the prophet Isaiah:
-<small><sub>**Literal:**</sub></small>
-so that may be fulfilled that having been spoken through Isaiah the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.16|<< Matthew 12:16]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.18|Matthew 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G2268\|Ἠσαΐου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.16|<< Matthew 12:16]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.18|Matthew 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

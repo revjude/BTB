@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mighty Men Join David at Ziklag
+type: Pericope
 pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 12
 book/chapter: "[[1Chr.12|1 Chronicles 12]]"
-genre:
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 22
 verses:
 - "[[1Chr.12.1]]"
 - "[[1Chr.12.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[1Chr.12.22]]"
 ---
 
-[[1Chr.12|1 Chronicles 12:1 - 1 Chronicles 12:22]]
+<small>[[1Chr.12|1 Chronicles 12:1-22]]</small>
 *The Mighty Men Join David at Ziklag*
 
 [[1Chr.12.1|1]] Now these \[are\] they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they \[were\] among the mighty men, helpers of the war.

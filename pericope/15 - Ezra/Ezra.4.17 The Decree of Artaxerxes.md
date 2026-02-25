@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Decree of Artaxerxes
+type: Pericope
 pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
-verse_count: 8
+original_language: Aramaic
 testament: Old
 book: Ezra
 chapter: 4
 book/chapter: "[[Ezra.4|Ezra 4]]"
-genre:
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 8
 verses:
 - "[[Ezra.4.17]]"
 - "[[Ezra.4.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezra.4.24]]"
 ---
 
-[[Ezra.4|Ezra 4:17 - Ezra 4:24]]
+<small>[[Ezra.4|Ezra 4:17-24]]</small>
 *The Decree of Artaxerxes*
 
 [[Ezra.4.17|17]] \[Then\] sent the king an answer unto Rehum the chancellor, and \[to\] Shimshai the scribe, and \[to\] the rest of their companions that dwell in Samaria, and \[unto\] the rest beyond the river, Peace, and at such a time.

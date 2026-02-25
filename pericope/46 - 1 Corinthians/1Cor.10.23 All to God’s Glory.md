@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: All to God’s Glory
+type: Pericope
 pericope: "[[1Cor.10.23 All to God’s Glory|All to God’s Glory]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 10
 book/chapter: "[[1Cor.10|1 Corinthians 10]]"
-genre:
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[1Cor.10.23]]"
 - "[[1Cor.10.24]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Cor.10.33]]"
 ---
 
-[[1Cor.10|1 Corinthians 10:23 - 1 Corinthians 10:33]]
+<small>[[1Cor.10|1 Corinthians 10:23-33]]</small>
 *All to God’s Glory*
 
 [[1Cor.10.23|23]] All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.

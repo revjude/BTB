@@ -1,8 +1,53 @@
+---
+title: Proverbs 30:31
+type: Verse
+kjv: "A greyhound; an he goat also; and a king, against whom there is no rising up."
+bsb: "a strutting rooster; a he-goat; and a king with his army around him."
+hebrew: "זַרְזִ֣יר מָתְנַ֣יִם אוֹ־ תָ֑יִשׁ וּ֝מֶ֗לֶךְ אַלְק֥וּם עִמּֽוֹ׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DOG|DOG]]"
+- "[[topic GREYHOUND|GREYHOUND]]"
+- "[[topic RIDDLE|RIDDLE]]"
+strongs:
+- "[[H2223]]"
+- "[[H4975]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H8495]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H0510]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:31**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A greyhound; an he goat also; and a king, against whom [there is] no rising up.
 <small><sub>**BSB:**</sub></small>
 a strutting rooster; a he-goat; and a king with his army around him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2223\|זַרְזִ֣יר]] [[H4975\|מָתְנַ֣יִם]] [[H0176A\|אוֹ]][[H9014\|־]] [[H8495\|תָ֑יִשׁ]] [[H9002\|וּ֝]][[H4428G\|מֶ֗לֶךְ]] [[H0510\|אַלְק֥וּם]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOG|DOG]] • [[topic GREYHOUND|GREYHOUND]] • [[topic RIDDLE|RIDDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.30|<< Proverbs 30:30]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.32|Proverbs 30:32 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 21:27
+type: Verse
+kjv: "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me."
+bsb: "Behold, I know your thoughts full well, the schemes by which you would wrong me."
+hebrew: "הֵ֣ן יָ֭דַעְתִּי מַחְשְׁבֽוֹתֵיכֶ֑ם וּ֝מְזִמּ֗וֹת עָלַ֥י תַּחְמֹֽסוּ׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H3045]]"
+- "[[H4284]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H4209]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H2554]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:27**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I know your thoughts, and the devices [which] ye wrongfully imagine against me.
 <small><sub>**BSB:**</sub></small>
 Behold, I know your thoughts full well, the schemes by which you would wrong me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H3045\|יָ֭דַעְתִּי]] [[H4284\|מַחְשְׁבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וּ֝]][[H4209\|מְזִמּ֗וֹת]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H2554\|תַּחְמֹֽסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.26|<< Job 21:26]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.28|Job 21:28 >>]]</td></tr></table>
 

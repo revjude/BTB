@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 30:7
+type: Verse
+kjv: "And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee."
+bsb: "Then the LORD your God will put all these curses upon your enemies who hate you and persecute you."
+hebrew: "וְנָתַן֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֵ֥ת כָּל־ הָאָל֖וֹת הָאֵ֑לֶּה עַל־ אֹיְבֶ֥יךָ וְעַל־ שֹׂנְאֶ֖יךָ אֲשֶׁ֥ר רְדָפֽוּךָ׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PENITENT|PENITENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0423]]"
+- "[[H0428]]"
+- "[[H5921A]]"
+- "[[H0341]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H7291]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:7**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
 <small><sub>**BSB:**</sub></small>
 Then the LORD your God will put all these curses upon your enemies who hate you and persecute you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַן֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0423\|אָל֖וֹת]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|אֹיְבֶ֥י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8130\|שֹׂנְאֶ֖י]][[H9031\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7291\|רְדָפֽוּ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic PENITENT|PENITENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.6|<< Deuteronomy 30:6]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.8|Deuteronomy 30:8 >>]]</td></tr></table>
 

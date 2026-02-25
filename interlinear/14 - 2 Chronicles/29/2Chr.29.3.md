@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 29:3
+type: Verse
+kjv: "He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them."
+bsb: "In the first month of the first year of his reign, Hezekiah opened and repaired the doors of the house of the LORD."
+hebrew: "ה֣וּא בַשָּׁנָה֩ הָרִאשׁוֹנָ֨ה לְמָלְכ֜וֹ בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן פָּתַ֛ח אֶת־ דַּלְת֥וֹת בֵּית־ יְהוָ֖ה וַֽיְחַזְּקֵֽם׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H2320G]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1817C]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:3**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them.
 <small><sub>**BSB:**</sub></small>
 In the first month of the first year of his reign, Hezekiah opened and repaired the doors of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֣וּא]] [[H9003\|בַ]][[H8141\|שָּׁנָה֩]] [[H9009\|הָ]][[H7223G\|רִאשׁוֹנָ֨ה]] [[H9005\|לְ]][[H4427A\|מָלְכ֜]][[H9033\|וֹ]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֗וֹן]] [[H6605A\|פָּתַ֛ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1817C\|דַּלְת֥וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַֽ]][[H2388G\|יְחַזְּקֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.2|<< 2 Chronicles 29:2]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.4|2 Chronicles 29:4 >>]]</td></tr></table>
 

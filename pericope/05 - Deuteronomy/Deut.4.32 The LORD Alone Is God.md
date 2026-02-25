@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Alone Is God
+type: Pericope
 pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 4
 book/chapter: "[[Deut.4|Deuteronomy 4]]"
-genre:
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 9
 verses:
 - "[[Deut.4.32]]"
 - "[[Deut.4.33]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Deut.4.40]]"
 ---
 
-[[Deut.4|Deuteronomy 4:32 - Deuteronomy 4:40]]
+<small>[[Deut.4|Deuteronomy 4:32-40]]</small>
 *The LORD Alone Is God*
 
 [[Deut.4.32|32]] For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and \[ask\] from the one side of heaven unto the other, whether there hath been \[any such thing\] as this great thing \[is\], or hath been heard like it?

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: False Prophecies
+type: Pericope
 pericope: "[[Jer.23.33 False Prophecies|False Prophecies]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 23
 book/chapter: "[[Jer.23|Jeremiah 23]]"
-genre:
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.23.33]]"
 - "[[Jer.23.34]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.23.40]]"
 ---
 
-[[Jer.23|Jeremiah 23:33 - Jeremiah 23:40]]
+<small>[[Jer.23|Jeremiah 23:33-40]]</small>
 *False Prophecies*
 
 [[Jer.23.33|33]] And when this people, or the prophet, or a priest, shall ask thee, saying, What \[is\] the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.

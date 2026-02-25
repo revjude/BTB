@@ -1,8 +1,51 @@
+---
+title: Proverbs 11:25
+type: Verse
+kjv: "The liberal soul shall be made fat: and he that watereth shall be watered also himself."
+bsb: "A generous soul will prosper, and he who refreshes others will himself be refreshed."
+hebrew: "נֶֽפֶשׁ־ בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם־ ה֥וּא יוֹרֶֽא׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H5315I]]"
+- "[[H9014]]"
+- "[[H1293]]"
+- "[[H1878]]"
+- "[[H9002]]"
+- "[[H7301]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H3384A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:25**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The liberal soul shall be made fat: and he that watereth shall be watered also himself.
 <small><sub>**BSB:**</sub></small>
 A generous soul will prosper, and he who refreshes others will himself be refreshed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315I\|נֶֽפֶשׁ]][[H9014\|־]] [[H1293\|בְּרָכָ֥ה]] [[H1878\|תְדֻשָּׁ֑ן]] [[H9002\|וּ֝]][[H7301\|מַרְוֶ֗ה]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H3384A\|יוֹרֶֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.24|<< Proverbs 11:24]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.26|Proverbs 11:26 >>]]</td></tr></table>
 

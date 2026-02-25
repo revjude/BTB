@@ -1,10 +1,71 @@
+---
+title: Luke 21:8
+type: Verse
+kjv: "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them."
+bsb: "Jesus answered, “See to it that you are not deceived. For many will come in My name, claiming, ‘I am He,’ and, ‘The time is near.’ Do not follow them."
+jesus_said: "Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them."
+greek: "Ὁ δὲ εἶπεν· βλέπετε μὴ πλανηθῆτε· πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες ὃτι· ἐγώ εἰμι, καὶ ὁ καιρὸς ἤγγικεν. μὴ οὖν πορευθῆτε ὀπίσω αὐτῶν."
+pericope: "[[Luke.21.5 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0991]]"
+- "[[G3361]]"
+- "[[G4105]]"
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2540]]"
+- "[[G1448]]"
+- "[[G3767]]"
+- "[[G4198]]"
+- "[[G3694]]"
+- "[[G0846]]"
+texts:
+- NKO
+- ko
+- K
+---
+
 **Luke 21:8**<big><big>[[Luke.21.5 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am [Christ]; and the time draweth near: go ye not therefore after them.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “See to it that you are not deceived. For many will come in My name, claiming, ‘I am He,’ and, ‘The time is near.’ Do not follow them.
-<small><sub>**Literal:**</sub></small>
-<the> And He said; do take heed lest you may be led astray; many for will come in the name of Me saying that: I myself am [He], and The time has drawn near. Not therefore may go after them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.7|<< Luke 21:7]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.9|Luke 21:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G0991\|βλέπετε]]  [[G3361\|μὴ]]  [[G4105\|πλανηθῆτε·]]  [[G4183\|πολλοὶ]]  [[G1063\|γὰρ]]  [[G2064\|ἐλεύσονται]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὃτι·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2540\|καιρὸς]]  [[G1448\|ἤγγικεν.]]  [[G3361\|μὴ]]  [[G3767\|οὖν]]  [[G4198\|πορευθῆτε]]  [[G3694\|ὀπίσω]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.7|<< Luke 21:7]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.9|Luke 21:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

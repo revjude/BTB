@@ -1,8 +1,93 @@
+---
+title: Deuteronomy 5:14
+type: Verse
+kjv: "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou."
+bsb: "but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox or donkey or any of your livestock, nor the foreigner within your gates, so that your manservant and maidservant may rest as you do."
+hebrew: "וְי֙וֹם֙ הַשְּׁבִיעִ֜֔י שַׁבָּ֖֣ת׀ לַיהוָ֣֥ה אֱלֹהֶ֑֗יךָ לֹ֣א תַעֲשֶׂ֣ה כָל־ מְלָאכָ֡ה אַתָּ֣ה וּבִנְךָֽ־ וּבִתֶּ֣ךָ וְעַבְדְּךָֽ־ וַ֠אֲמָתֶךָ וְשׁוֹרְךָ֨ וַחֲמֹֽרְךָ֜ וְכָל־ בְּהֶמְתֶּ֗ךָ וְגֵֽרְךָ֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ לְמַ֗עַן יָנ֛וּחַ עַבְדְּךָ֥ וַאֲמָתְךָ֖ כָּמֽ֑וֹךָ׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GOLDEN RULE|GOLDEN RULE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7676]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H5650]]"
+- "[[H0519]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H0929]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H4616]]"
+- "[[H5117]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+- L(p)
+- L(b+p)
+---
+
 **Deuteronomy 5:14**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that [is] within thy gates; that thy manservant and thy maidservant may rest as well as thou.
 <small><sub>**BSB:**</sub></small>
 but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox or donkey or any of your livestock, nor the foreigner within your gates, so that your manservant and maidservant may rest as you do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3117G\|י֙וֹם֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֜֔י]] [[H7676\|שַׁבָּ֖֣ת]][[H9015\|׀]] [[H9005\|לַ]][[H3068G\|יהוָ֣֥ה]] [[H0430G\|אֱלֹהֶ֑֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשֶׂ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָ֡ה]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וּ]][[H1121A\|בִנְ]][[H9021\|ךָֽ]][[H9014\|־]] [[H9002\|וּ]][[H1323G\|בִתֶּ֣]][[H9021\|ךָ]] [[H9002\|וְ]][[H5650\|עַבְדְּ]][[H9021\|ךָֽ]][[H9014\|־]] [[H9002\|וַ֠]][[H0519\|אֲמָתֶ]][[H9021\|ךָ]] [[H9002\|וְ]][[H7794\|שׁוֹרְ]][[H9021\|ךָ֨]] [[H9002\|וַ]][[H2543\|חֲמֹֽרְ]][[H9021\|ךָ֜]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0929\|בְּהֶמְתֶּ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H1616\|גֵֽרְ]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H8179G\|שְׁעָרֶ֔י]][[H9021\|ךָ]] [[H4616\|לְמַ֗עַן]] [[H5117\|יָנ֛וּחַ]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H9002\|וַ]][[H0519\|אֲמָתְ]][[H9021\|ךָ֖]] [[H3644G\|כָּמֽ֑וֹ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ANIMALS|ANIMALS]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GOLDEN RULE|GOLDEN RULE]] • [[topic LAW|LAW]] • [[topic MASTER|MASTER]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.13|<< Deuteronomy 5:13]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.15|Deuteronomy 5:15 >>]]</td></tr></table>
 

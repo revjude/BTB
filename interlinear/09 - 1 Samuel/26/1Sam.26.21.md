@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 26:21
+type: Verse
+kjv: "Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly."
+bsb: "Then Saul replied, “I have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!”"
+hebrew: "וַיֹּאמֶר֩ שָׁא֨וּל חָטָ֜אתִי שׁ֣וּב בְּנִֽי־ דָוִ֗ד כִּ֠י לֹֽא־ אָרַ֤ע לְךָ֙ ע֔וֹד תַּ֠חַת אֲשֶׁ֨ר יָקְרָ֥ה נַפְשִׁ֛י בְּעֵינֶ֖יךָ הַיּ֣וֹם הַזֶּ֑ה הִנֵּ֥ה הִסְכַּ֛לְתִּי וָאֶשְׁגֶּ֖ה הַרְבֵּ֥ה מְאֹֽד׃"
+pericope: "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H2398]]"
+- "[[H7725G]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5750]]"
+- "[[H8478J]]"
+- "[[H0834A]]"
+- "[[H3365]]"
+- "[[H5315H]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H2009]]"
+- "[[H5528]]"
+- "[[H7686]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:21**<big><big>[[1Sam.26.21 Saul Acknowledges His Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.
 <small><sub>**BSB:**</sub></small>
 Then Saul replied, “I have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H7586G\|שָׁא֨וּל]] [[H2398\|חָטָ֜אתִי]] [[H7725G\|שׁ֣וּב]] [[H1121A\|בְּנִֽ]][[H9020\|י]][[H9014\|־]] [[H1732\|דָוִ֗ד]] [[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7489A\|אָרַ֤ע]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H5750\|ע֔וֹד]] [[H8478J\|תַּ֠חַת]] [[H0834A\|אֲשֶׁ֨ר]] [[H3365\|יָקְרָ֥ה]] [[H5315H\|נַפְשִׁ֛]][[H9020\|י]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֖י]][[H9021\|ךָ]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H2009\|הִנֵּ֥ה]] [[H5528\|הִסְכַּ֛לְתִּי]] [[H9001\|וָ]][[H7686\|אֶשְׁגֶּ֖ה]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.20|<< 1 Samuel 26:20]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.22|1 Samuel 26:22 >>]]</td></tr></table>
 

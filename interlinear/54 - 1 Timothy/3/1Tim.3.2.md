@@ -1,10 +1,67 @@
+---
+title: 1 Timothy 3:2
+type: Verse
+kjv: "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;"
+bsb: "An overseer, then, must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,"
+greek: "δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι, μιᾶς γυναικὸς ἄνδρα, νηφάλιον, σώφρονα, κόσμιον, φιλόξενον, διδακτικόν,"
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[G1163]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G1985]]"
+- "[[G0423]]"
+- "[[G1511]]"
+- "[[G1520]]"
+- "[[G1135H]]"
+- "[[G0435H]]"
+- "[[G3524]]"
+- "[[G4998]]"
+- "[[G2887]]"
+- "[[G5382]]"
+- "[[G1317]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:2**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 <small><sub>**BSB:**</sub></small>
 An overseer, then, must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,
-<small><sub>**Literal:**</sub></small>
-It behooves therefore the overseer above reproach to be, of one wife [the] husband, sober, self-controlled, respectable, hospitable, able to teach,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.1|<< 1 Timothy 3:1]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.3|1 Timothy 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1163\|δεῖ]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G1985\|ἐπίσκοπον]]  [[G0423\|ἀνεπίλημπτον]]  [[G1511\|εἶναι,]]  [[G1520\|μιᾶς]]  [[G1135H\|γυναικὸς]]  [[G0435H\|ἄνδρα,]]  [[G3524\|νηφάλιον,]]  [[G4998\|σώφρονα,]]  [[G2887\|κόσμιον,]]  [[G5382\|φιλόξενον,]]  [[G1317\|διδακτικόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic BISHOP|BISHOP]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAMILY|FAMILY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SOBRIETY|SOBRIETY]] • [[topic STRIFE|STRIFE]] • [[topic TEMPERANCE|TEMPERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.1|<< 1 Timothy 3:1]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.3|1 Timothy 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

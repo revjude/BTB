@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Where Can Wisdom Be Found？
+type: Pericope
 pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 28
 book/chapter: "[[Job.28|Job 28]]"
-genre:
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 28
 verses:
 - "[[Job.28.1]]"
 - "[[Job.28.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Job.28.28]]"
 ---
 
-[[Job.28|Job 28:1 - Job 28:28]]
+<small>[[Job.28|Job 28:1-28]]</small>
 *Where Can Wisdom Be Found？*
 
 [[Job.28.1|1]] Surely there is a vein for the silver, and a place for gold \[where\] they fine \[it\].

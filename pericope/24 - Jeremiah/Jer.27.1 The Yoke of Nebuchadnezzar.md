@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Yoke of Nebuchadnezzar
+type: Pericope
 pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 27
 book/chapter: "[[Jer.27|Jeremiah 27]]"
-genre:
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 22
 verses:
 - "[[Jer.27.1]]"
 - "[[Jer.27.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Jer.27.22]]"
 ---
 
-[[Jer.27|Jeremiah 27:1 - Jeremiah 27:22]]
+<small>[[Jer.27|Jeremiah 27:1-22]]</small>
 *The Yoke of Nebuchadnezzar*
 
 [[Jer.27.1|1]] In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying,

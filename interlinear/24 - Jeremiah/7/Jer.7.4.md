@@ -1,8 +1,59 @@
+---
+title: Jeremiah 7:4
+type: Verse
+kjv: "Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, are these."
+bsb: "Do not trust in deceptive words, saying: ‘This is the temple of the LORD, the temple of the LORD, the temple of the LORD.’"
+hebrew: "אַל־ תִּבְטְח֣וּ לָכֶ֔ם אֶל־ דִּבְרֵ֥י הַשֶּׁ֖קֶר לֵאמֹ֑ר הֵיכַ֤ל יְהוָה֙ הֵיכַ֣ל יְהוָ֔ה הֵיכַ֥ל יְהוָ֖ה הֵֽמָּה׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H8267]]"
+- "[[H0559]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:4**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, [are] these.
 <small><sub>**BSB:**</sub></small>
 Do not trust in deceptive words, saying: ‘This is the temple of the LORD, the temple of the LORD, the temple of the LORD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0982\|תִּבְטְח֣וּ]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H8267\|שֶּׁ֖קֶר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1964G\|הֵיכַ֤ל]] [[H3068G\|יְהוָה֙]] [[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H1964G\|הֵיכַ֥ל]] [[H3068G\|יְהוָ֖ה]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.3|<< Jeremiah 7:3]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.5|Jeremiah 7:5 >>]]</td></tr></table>
 

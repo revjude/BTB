@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 23:8
+type: Verse
+kjv: "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses."
+bsb: "So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men—those coming on duty on the Sabbath and those going off duty—for Jehoiada the priest had not released any of the divisions."
+hebrew: "וַיַּעֲשׂ֨וּ הַלְוִיִּ֜ם וְכָל־ יְהוּדָ֗ה כְּכֹ֣ל אֲשֶׁר־ צִוָּה֮ יְהוֹיָדָ֣ע הַכֹּהֵן֒ וַיִּקְחוּ֙ אִ֣ישׁ אֶת־ אֲנָשָׁ֔יו בָּאֵ֣י הַשַּׁבָּ֔ת עִ֖ם יוֹצְאֵ֣י הַשַּׁבָּ֑ת כִּ֣י לֹ֥א פָטַ֛ר יְהוֹיָדָ֥ע הַכֹּהֵ֖ן אֶת־ הַֽמַּחְלְקֽוֹת׃"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9004]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3077H]]"
+- "[[H3548]]"
+- "[[H3947J]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H7676]]"
+- "[[H5973A]]"
+- "[[H3318G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6362]]"
+- "[[H4256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:8**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go [out] on the sabbath: for Jehoiada the priest dismissed not the courses.
 <small><sub>**BSB:**</sub></small>
 So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men—those coming on duty on the Sabbath and those going off duty—for Jehoiada the priest had not released any of the divisions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂ֨וּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9004\|כְּ]][[H3605\|כֹ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּה֮]] [[H3077H\|יְהוֹיָדָ֣ע]] [[H9009\|הַ]][[H3548\|כֹּהֵן֒]] [[H9001\|וַ]][[H3947J\|יִּקְחוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0582\|אֲנָשָׁ֔י]][[H9023\|ו]] [[H0935G\|בָּאֵ֣י]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H5973A\|עִ֖ם]] [[H3318G\|יוֹצְאֵ֣י]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֑ת]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֥א]] [[H6362\|פָטַ֛ר]] [[H3077H\|יְהוֹיָדָ֥ע]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4256\|מַּחְלְקֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.7|<< 2 Chronicles 23:7]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.9|2 Chronicles 23:9 >>]]</td></tr></table>
 

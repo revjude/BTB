@@ -1,10 +1,66 @@
+---
+title: Matthew 14:19
+type: Verse
+kjv: "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."
+bsb: "And He directed the crowds to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, He spoke a blessing. Then He broke the loaves and gave them to the disciples, and the disciples gave them to the people."
+greek: "καὶ κελεύσας τοὺς ὄχλους ἀνακλιθῆναι ἐπὶ τοῦ χόρτου, καὶ λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας, ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν, καὶ κλάσας ἔδωκεν τοῖς μαθηταῖς τοὺς ἄρτους, οἱ δὲ μαθηταὶ τοῖς ὄχλοις."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2753]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0347]]"
+- "[[G1909]]"
+- "[[G5528]]"
+- "[[G2983]]"
+- "[[G4002]]"
+- "[[G0740]]"
+- "[[G1417]]"
+- "[[G2486]]"
+- "[[G0308]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2127]]"
+- "[[G2806]]"
+- "[[G1325]]"
+- "[[G3101]]"
+- "[[G1161]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 14:19**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to [his] disciples, and the disciples to the multitude.
 <small><sub>**BSB:**</sub></small>
 And He directed the crowds to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, He spoke a blessing. Then He broke the loaves and gave them to the disciples, and the disciples gave them to the people.
-<small><sub>**Literal:**</sub></small>
-And having commanded the crowds to sit down on the grass, and having taken the five loaves and the two fish, having looked up to <the> heaven He spoke a blessing, and having broken He gave to the disciples the loaves, <the> and the disciples to the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.18|<< Matthew 14:18]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.20|Matthew 14:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2753\|κελεύσας]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G0347\|ἀνακλιθῆναι]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G5528\|χόρτου,]]  [[G2532\|καὶ]]  [[G2983\|λαβὼν]]  [[G3588\|τοὺς]]  [[G4002\|πέντε]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G2486\|ἰχθύας,]]  [[G0308\|ἀναβλέψας]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2127\|εὐλόγησεν,]]  [[G2532\|καὶ]]  [[G2806\|κλάσας]]  [[G1325\|ἔδωκεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.18|<< Matthew 14:18]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.20|Matthew 14:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Meaningless Offerings
+type: Pericope
 pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 1
 book/chapter: "[[Isa.1|Isaiah 1]]"
-genre:
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.1.10]]"
 - "[[Isa.1.11]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.1.20]]"
 ---
 
-[[Isa.1|Isaiah 1:10 - Isaiah 1:20]]
+<small>[[Isa.1|Isaiah 1:10-20]]</small>
 *Meaningless Offerings*
 
 [[Isa.1.10|10]] Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.

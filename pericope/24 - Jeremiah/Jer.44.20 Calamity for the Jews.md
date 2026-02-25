@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Calamity for the Jews
+type: Pericope
 pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 44
 book/chapter: "[[Jer.44|Jeremiah 44]]"
-genre:
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.44.20]]"
 - "[[Jer.44.21]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.44.30]]"
 ---
 
-[[Jer.44|Jeremiah 44:20 - Jeremiah 44:30]]
+<small>[[Jer.44|Jeremiah 44:20-30]]</small>
 *Calamity for the Jews*
 
 [[Jer.44.20|20]] Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him \[that\] answer, saying,

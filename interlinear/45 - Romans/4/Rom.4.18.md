@@ -1,10 +1,65 @@
+---
+title: Romans 4:18
+type: Verse
+kjv: "Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be."
+bsb: "Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”"
+greek: "ὃς παρ᾽ ἐλπίδα ἐπ᾽ ἐλπίδι ἐπίστευσεν εἰς τὸ γενέσθαι αὐτὸν πατέρα πολλῶν ἐθνῶν κατὰ τὸ εἰρημένον· οὕτως ἔσται τὸ σπέρμα σου·"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3844]]"
+- "[[G1680]]"
+- "[[G1909]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G4183]]"
+- "[[G1484]]"
+- "[[G2596]]"
+- "[[G2046]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G4690G]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Romans 4:18**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be.
 <small><sub>**BSB:**</sub></small>
 Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”
-<small><sub>**Literal:**</sub></small>
-who against hope in hope believed for <the> to become him [the] father of many nations according to that spoken; So will be the offspring of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.17|<< Romans 4:17]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.19|Romans 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3844\|παρ᾽]]  [[G1680\|ἐλπίδα]]  [[G1909\|ἐπ᾽]]  [[G1680\|ἐλπίδι]]  [[G4100\|ἐπίστευσεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1096\|γενέσθαι]]  [[G0846\|αὐτὸν]]  [[G3962\|πατέρα]]  [[G4183\|πολλῶν]]  [[G1484\|ἐθνῶν]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2046\|εἰρημένον·]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G3588\|τὸ]]  [[G4690G\|σπέρμα]]  [[G4771\|σου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.17|<< Romans 4:17]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.19|Romans 4:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 4:18** is...
 > $\quad$ referencing: [[LXX.Gen.15.5|Gen 15:5]] ☩ [[LXX.Gen.17.5|Gen 17:5]]

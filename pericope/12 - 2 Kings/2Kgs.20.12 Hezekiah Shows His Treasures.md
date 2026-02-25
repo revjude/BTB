@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Shows His Treasures
+type: Pericope
 pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 20
 book/chapter: "[[2Kgs.20|2 Kings 20]]"
-genre:
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[2Kgs.20.12]]"
 - "[[2Kgs.20.13]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Kgs.20.19]]"
 ---
 
-[[2Kgs.20|2 Kings 20:12 - 2 Kings 20:19]]
+<small>[[2Kgs.20|2 Kings 20:12-19]]</small>
 *Hezekiah Shows His Treasures*
 
 [[2Kgs.20.12|12]] At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick.

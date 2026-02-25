@@ -1,8 +1,65 @@
+---
+title: Ezekiel 3:26
+type: Verse
+kjv: "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
+bsb: "I will make your tongue stick to the roof of your mouth, and you will be silent and unable to rebuke them, though they are a rebellious house."
+hebrew: "וּלְשֽׁוֹנְךָ֙ אַדְבִּ֣יק אֶל־ חִכֶּ֔ךָ וְנֶֽאֱלַ֔מְתָּ וְלֹא־ תִֽהְיֶ֥ה לָהֶ֖ם לְאִ֣ישׁ מוֹכִ֑יחַ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה׃"
+pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H9021]]"
+- "[[H1692]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2441]]"
+- "[[H9001]]"
+- "[[H0481]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H3198]]"
+- "[[H3588A]]"
+- "[[H1004M]]"
+- "[[H4805H]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:26**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they [are] a rebellious house.
 <small><sub>**BSB:**</sub></small>
 I will make your tongue stick to the roof of your mouth, and you will be silent and unable to rebuke them, though they are a rebellious house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3956G\|לְשֽׁוֹנְ]][[H9021\|ךָ֙]] [[H1692\|אַדְבִּ֣יק]] [[H0413\|אֶל]][[H9014\|־]] [[H2441\|חִכֶּ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H0481\|נֶֽאֱלַ֔מְתָּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|תִֽהְיֶ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H3198\|מוֹכִ֑יחַ]] [[H3588A\|כִּ֛י]] [[H1004M\|בֵּ֥ית]] [[H4805H\|מְרִ֖י]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.25|<< Ezekiel 3:25]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.27|Ezekiel 3:27 >>]]</td></tr></table>
 

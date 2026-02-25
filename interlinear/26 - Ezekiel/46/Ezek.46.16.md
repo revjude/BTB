@@ -1,8 +1,66 @@
+---
+title: Ezekiel 46:16
+type: Verse
+kjv: "Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it shall be their possession by inheritance."
+bsb: "This is what the Lord GOD says: ‘If the prince gives a gift to any of his sons as an inheritance, it will belong to his descendants. It will become their property by inheritance."
+hebrew: "כֹּה־ אָמַ֞ר אֲדֹנָ֣י יְהֹוִ֗ה כִּֽי־ יִתֵּ֨ן הַנָּשִׂ֤יא מַתָּנָה֙ לְאִ֣ישׁ מִבָּנָ֔יו נַחֲלָת֥וֹ הִ֖יא לְבָנָ֣יו תִּֽהְיֶ֑ה אֲחֻזָּתָ֥ם הִ֖יא בְּנַחֲלָֽה׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3588A]]"
+- "[[H5414I]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H4979]]"
+- "[[H9005]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5159]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H0272]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:16**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; If the prince give a gift unto any of his sons, the inheritance thereof shall be his sons’; it [shall be] their possession by inheritance.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘If the prince gives a gift to any of his sons as an inheritance, it will belong to his descendants. It will become their property by inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414I\|יִתֵּ֨ן]] [[H9009\|הַ]][[H5387A\|נָּשִׂ֤יא]] [[H4979\|מַתָּנָה֙]] [[H9005\|לְ]][[H0376I\|אִ֣ישׁ]] [[H9006\|מִ]][[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H5159\|נַחֲלָת֥]][[H9023\|וֹ]] [[H1931\|הִ֖יא]] [[H9005\|לְ]][[H1121A\|בָנָ֣י]][[H9023\|ו]] [[H1961\|תִּֽהְיֶ֑ה]] [[H0272\|אֲחֻזָּתָ֥]][[H9028\|ם]] [[H1931\|הִ֖יא]] [[H9003\|בְּ]][[H5159\|נַחֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.15|<< Ezekiel 46:15]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.17|Ezekiel 46:17 >>]]</td></tr></table>
 

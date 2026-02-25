@@ -1,10 +1,54 @@
+---
+title: 2 Timothy 3:14
+type: Verse
+kjv: "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;"
+bsb: "But as for you, continue in the things you have learned and firmly believed, since you know from whom you have learned them."
+greek: "σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης εἰδὼς παρὰ τίνων ἔμαθες,"
+pericope: "[[2Tim.3.10 All Scripture Is God-Breathed|All Scripture Is God-Breathed]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3129]]"
+- "[[G2532]]"
+- "[[G4104]]"
+- "[[G6063]]"
+- "[[G3844]]"
+- "[[G5101]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Timothy 3:14**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned [them];
 <small><sub>**BSB:**</sub></small>
 But as for you, continue in the things you have learned and firmly believed, since you know from whom you have learned them.
-<small><sub>**Literal:**</sub></small>
-You yourself however do abide in [the] things you have learned and you were assured of knowing from which [people] you learned [them],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.13|<< 2 Timothy 3:13]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.15|2 Timothy 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G1161\|δὲ]]  [[G3306\|μένε]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G3129\|ἔμαθες]]  [[G2532\|καὶ]]  [[G4104\|ἐπιστώθης]]  [[G6063\|εἰδὼς]]  [[G3844\|παρὰ]]  [[G5101\|τίνων]]  [[G3129\|ἔμαθες,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.13|<< 2 Timothy 3:13]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.15|2 Timothy 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

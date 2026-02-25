@@ -1,8 +1,57 @@
+---
+title: Ezekiel 41:20
+type: Verse
+kjv: "From the ground unto above the door were cherubims and palm trees made, and on the wall of the temple."
+bsb: "Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance."
+hebrew: "מֵהָאָ֙רֶץ֙ עַד־ מֵעַ֣ל הַפֶּ֔תַח הַכְּרוּבִ֥ים וְהַתִּֽמֹרִ֖ים עֲשׂוּיִ֑ם וְקִ֖יר הַׄהֵׄיׄכָֽׄלׄ׃"
+pericope: "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+strongs:
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H6607]]"
+- "[[H3742]]"
+- "[[H9002]]"
+- "[[H8561]]"
+- "[[H6213H]]"
+- "[[H7023]]"
+- "[[H1964I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:20**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the ground unto above the door [were] cherubims and palm trees made, and [on] the wall of the temple.
 <small><sub>**BSB:**</sub></small>
 Cherubim and palm trees were carved on the wall of the outer sanctuary from the floor to the space above the entrance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H9009\|הָ]][[H0776H\|אָ֙רֶץ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H6607\|פֶּ֔תַח]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֥ים]] [[H9002\|וְ]][[H9009\|הַ]][[H8561\|תִּֽמֹרִ֖ים]] [[H6213H\|עֲשׂוּיִ֑ם]] [[H9002\|וְ]][[H7023\|קִ֖יר]] [[H9009\|הַׄ]][[H1964I\|הֵׄיׄכָֽׄלׄ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.19|<< Ezekiel 41:19]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.21|Ezekiel 41:21 >>]]</td></tr></table>
 

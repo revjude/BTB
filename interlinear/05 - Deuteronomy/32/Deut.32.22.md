@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 32:22
+type: Verse
+kjv: "For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains."
+bsb: "For a fire has been kindled by My anger, and it burns to the depths of Sheol; it consumes the earth and its produce, and scorches the foundations of the mountains."
+hebrew: "כִּי־ אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י וַתִּיקַ֖ד עַד־ שְׁא֣וֹל תַּחְתִּ֑ית וַתֹּ֤אכַל אֶ֙רֶץ֙ וִֽיבֻלָ֔הּ וַתְּלַהֵ֖ט מוֹסְדֵ֥י הָרִֽים׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H6919]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H3344]]"
+- "[[H5704]]"
+- "[[H7585]]"
+- "[[H8482]]"
+- "[[H0398]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H2981]]"
+- "[[H9024]]"
+- "[[H3857]]"
+- "[[H4144]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:22**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.
 <small><sub>**BSB:**</sub></small>
 For a fire has been kindled by My anger, and it burns to the depths of Sheol; it consumes the earth and its produce, and scorches the foundations of the mountains.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H0784\|אֵשׁ֙]] [[H6919\|קָדְחָ֣ה]] [[H9003\|בְ]][[H0639G\|אַפִּ֔]][[H9020\|י]] [[H9001\|וַ]][[H3344\|תִּיקַ֖ד]] [[H5704\|עַד]][[H9014\|־]] [[H7585\|שְׁא֣וֹל]] [[H8482\|תַּחְתִּ֑ית]] [[H9001\|וַ]][[H0398\|תֹּ֤אכַל]] [[H0776G\|אֶ֙רֶץ֙]] [[H9002\|וִֽ]][[H2981\|יבֻלָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H3857\|תְּלַהֵ֖ט]] [[H4144\|מוֹסְדֵ֥י]] [[H2022G\|הָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic FIRE|FIRE]] • [[topic HELL|HELL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.21|<< Deuteronomy 32:21]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.23|Deuteronomy 32:23 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Builders of the Walls
+type: Pericope
 pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 3
 book/chapter: "[[Neh.3|Nehemiah 3]]"
-genre:
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 32
 verses:
 - "[[Neh.3.1]]"
 - "[[Neh.3.2]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Neh.3.32]]"
 ---
 
-[[Neh.3|Nehemiah 3:1 - Nehemiah 3:32]]
+<small>[[Neh.3|Nehemiah 3:1-32]]</small>
 *The Builders of the Walls*
 
 [[Neh.3.1|1]] Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.

@@ -1,8 +1,84 @@
+---
+title: 2 Samuel 24:16
+type: Verse
+kjv: "And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite."
+bsb: "But when the angel stretched out his hand to destroy Jerusalem, the LORD relented from the calamity and said to the angel who was destroying the people, “Enough! Withdraw your hand now!” At that time the angel of the LORD was by the threshing floor of Araunah the Jebusite."
+hebrew: "וַיִּשְׁלַח֩ יָד֨וֹ הַמַּלְאָ֥ךְ׀ יְרֽוּשָׁלִַם֮ לְשַׁחֲתָהּ֒ וַיִּנָּ֤חֶם יְהוָה֙ אֶל־ הָ֣רָעָ֔ה וַ֠יֹּאמֶר לַמַּלְאָ֞ךְ הַמַּשְׁחִ֤ית בָּעָם֙ רַ֔ב עַתָּ֖ה הֶ֣רֶף יָדֶ֑ךָ וּמַלְאַ֤ךְ יְהוָה֙ הָיָ֔ה עִם־ גֹּ֖רֶן הָאֲרַ֥וְנָה הַיְבֻסִֽי׃ ס"
+pericope: "[[2Sam.24.15 A Plague on Israel|A Plague on Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NATION|NATION]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H9015]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H9034]]"
+- "[[H5162H]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7451C]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H6258]]"
+- "[[H7503]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H1637]]"
+- "[[H0728]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 24:16**<big><big>[[2Sam.24.15 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite.
 <small><sub>**BSB:**</sub></small>
 But when the angel stretched out his hand to destroy Jerusalem, the LORD relented from the calamity and said to the angel who was destroying the people, “Enough! Withdraw your hand now!” At that time the angel of the LORD was by the threshing floor of Araunah the Jebusite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971K\|יִּשְׁלַח֩]] [[H3027G\|יָד֨]][[H9023\|וֹ]] [[H9009\|הַ]][[H4397H\|מַּלְאָ֥ךְ]][[H9015\|׀]] [[H3389\|יְרֽוּשָׁלִַם֮]] [[H9005\|לְ]][[H7843\|שַׁחֲתָ]][[H9034\|הּ֒]] [[H9001\|וַ]][[H5162H\|יִּנָּ֤חֶם]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H9001\|וַ֠]][[H0559\|יֹּאמֶר]] [[H9005\|לַ]][[H4397H\|מַּלְאָ֞ךְ]] [[H9009\|הַ]][[H7843\|מַּשְׁחִ֤ית]] [[H9003\|בָּ]][[H5971A\|עָם֙]] [[H7227A\|רַ֔ב]] [[H6258\|עַתָּ֖ה]] [[H7503\|הֶ֣רֶף]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H4397H\|מַלְאַ֤ךְ]] [[H3068G\|יְהוָה֙]] [[H1961\|הָיָ֔ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1637\|גֹּ֖רֶן]] [[H9009\|הָ]][[H0728\|אֲרַ֥וְנָה]] [[H9009\|הַ]][[H2983G\|יְבֻסִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ARAUNAH|ARAUNAH]] • [[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NATION|NATION]] • [[topic ORNAN|ORNAN]] • [[topic PLAGUE|PLAGUE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.15|<< 2 Samuel 24:15]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.17|2 Samuel 24:17 >>]]</td></tr></table>
 
@@ -31,10 +107,10 @@ But when the angel stretched out his hand to destroy Jerusalem, the LORD relente
 | near  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] threshing floor of  |**<big>&#8207;[[H1637\|גֹּ֖רֶן]]&#8207; </big>**| Go.ren<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Araunah  [^2]|**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0728\|אֲרַ֥וְנָה]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| the Jebusite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבֻסִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Jebusite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבֻסִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.15|<< 2 Samuel 24:15]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.17|2 Samuel 24:17 >>]]</td></tr></table>
 
-[^1]: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
-[^2]: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
+[^1]: \<the> Ornah  | **<big>[[H9009|הָ]]</big><big>[[H0728|אוֹרְנָה]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
+[^2]: \<the> Ornah  | **<big>[[H9009|הָ]]</big><big>[[H0728|אוֹרְנָה]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הָאֲוַ֥רְנָה</big></span>**
 

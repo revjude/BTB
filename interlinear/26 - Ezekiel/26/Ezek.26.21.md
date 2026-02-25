@@ -1,8 +1,57 @@
+---
+title: Ezekiel 26:21
+type: Verse
+kjv: "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD."
+bsb: "I will make you an object of horror, and you will be no more. You will be sought, but will never be found,’ declares the Lord GOD.”"
+hebrew: "בַּלָּה֥וֹת אֶתְּנֵ֖ךְ וְאֵינֵ֑ךְ וּֽתְבֻקְשִׁ֗י וְלֹֽא־ תִמָּצְאִ֥י עוֹד֙ לְעוֹלָ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהֹוִֽה׃ ס"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1091]]"
+- "[[H5414I]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9042]]"
+- "[[H1245]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 26:21**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make thee a terror, and thou [shalt be] no [more]: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 I will make you an object of horror, and you will be no more. You will be sought, but will never be found,’ declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1091\|בַּלָּה֥וֹת]] [[H5414I\|אֶתְּנֵ֖]][[H9032\|ךְ]] [[H9002\|וְ]][[H0369\|אֵינֵ֑]][[H9042\|ךְ]] [[H9002\|וּֽ]][[H1245\|תְבֻקְשִׁ֗י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|תִמָּצְאִ֥י]] [[H5750\|עוֹד֙]] [[H9005\|לְ]][[H5769G\|עוֹלָ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִֽה]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.20|<< Ezekiel 26:20]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.1|Ezekiel 27:1 >>]]</td></tr></table>
 
@@ -18,7 +67,7 @@ I will make you an object of horror, and you will be no more. You will be sought
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.20|<< Ezekiel 26:20]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.1|Ezekiel 27:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,76 @@
+---
+title: Ezekiel 13:18
+type: Verse
+kjv: "And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?"
+bsb: "and tell them that this is what the Lord GOD says: Woe to the women who sew magic charms on their wrists and make veils for the heads of people of every height, in order to ensnare their souls. Will you ensnare the souls of My people but preserve your own?"
+hebrew: "וְאָמַרְתָּ֞ כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה הוֹי֩ לִֽמְתַפְּר֨וֹת כְּסָת֜וֹת עַ֣ל׀ כָּל־ אַצִּילֵ֣י יָדַ֗י וְעֹשׂ֧וֹת הַמִּסְפָּח֛וֹת עַל־ רֹ֥אשׁ כָּל־ קוֹמָ֖ה לְצוֹדֵ֣ד נְפָשׁ֑וֹת הַנְּפָשׁוֹת֙ תְּצוֹדֵ֣דְנָה לְעַמִּ֔י וּנְפָשׁ֖וֹת לָכֶ֥נָה תְחַיֶּֽינָה׃"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PILLOW|PILLOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H1945]]"
+- "[[H9005]]"
+- "[[H8609]]"
+- "[[H3704]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0679]]"
+- "[[H3027I]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4555]]"
+- "[[H7218A]]"
+- "[[H6967]]"
+- "[[H6679A]]"
+- "[[H5315G]]"
+- "[[H9008]]"
+- "[[H5971A]]"
+- "[[H9037]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:18**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the Lord GOD; Woe to the [women] that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive [that come] unto you?
 <small><sub>**BSB:**</sub></small>
 and tell them that this is what the Lord GOD says: Woe to the women who sew magic charms on their wrists and make veils for the heads of people of every height, in order to ensnare their souls. Will you ensnare the souls of My people but preserve your own?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֞]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H1945\|הוֹי֩]] [[H9005\|לִֽ]][[H8609\|מְתַפְּר֨וֹת]] [[H3704\|כְּסָת֜וֹת]] [[H5921A\|עַ֣ל]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H0679\|אַצִּילֵ֣י]] [[H3027I\|יָדַ֗]][[H9020\|י]] [[H9002\|וְ]][[H6213H\|עֹשׂ֧וֹת]] [[H9009\|הַ]][[H4555\|מִּסְפָּח֛וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֥אשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H6967\|קוֹמָ֖ה]] [[H9005\|לְ]][[H6679A\|צוֹדֵ֣ד]] [[H5315G\|נְפָשׁ֑וֹת]] [[H9008\|הַ]][[H5315G\|נְּפָשׁוֹת֙]] [[H6679A\|תְּצוֹדֵ֣דְנָה]] [[H9005\|לְ]][[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וּ]][[H5315G\|נְפָשׁ֖וֹת]] [[H9005\|לָ]][[H9037\|כֶ֥נָה]] [[H2421\|תְחַיֶּֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PILLOW|PILLOW]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.17|<< Ezekiel 13:17]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.19|Ezekiel 13:19 >>]]</td></tr></table>
 

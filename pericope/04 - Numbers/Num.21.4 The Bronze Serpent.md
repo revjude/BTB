@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bronze Serpent
+type: Pericope
 pericope: "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 21
 book/chapter: "[[Num.21|Numbers 21]]"
-genre:
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.21.4]]"
 - "[[Num.21.5]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.21.9]]"
 ---
 
-[[Num.21|Numbers 21:4 - Numbers 21:9]]
+<small>[[Num.21|Numbers 21:4-9]]</small>
 *The Bronze Serpent*
 
 [[Num.21.4|4]] And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.

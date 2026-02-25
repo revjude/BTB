@@ -1,10 +1,63 @@
+---
+title: Matthew 27:11
+type: Verse
+kjv: "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
+bsb: "Meanwhile Jesus stood before the governor, who questioned Him: “Are You the King of the Jews?” “You have said so,” Jesus replied."
+jesus_said: "Thou sayest."
+greek: "Ὁ δὲ Ἰησοῦς ἐστάθη ἔμπροσθεν τοῦ ἡγεμόνος· καὶ ἐπηρώτησεν αὐτὸν ὁ ἡγεμὼν λέγων· σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;¶ Ὁ δὲ Ἰησοῦς ἔφη αὐτῷ· σὺ λέγεις."
+pericope: "[[Matt.27.11 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2476]]"
+- "[[G1715]]"
+- "[[G2232]]"
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0935]]"
+- "[[G2453]]"
+- "[[G5346]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Matthew 27:11**<big><big>[[Matt.27.11 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.
 <small><sub>**BSB:**</sub></small>
 Meanwhile Jesus stood before the governor, who questioned Him: “Are You the King of the Jews?” “You have said so,” Jesus replied.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus stood before the governor; and questioned Him the governor saying; You yourself are the King of the Jews? <the> And Jesus was saying to him: You yourself say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.10|<< Matthew 27:10]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.12|Matthew 27:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2476\|ἐστάθη]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G2232\|ἡγεμόνος·]]  [[G2532\|καὶ]]  [[G1905\|ἐπηρώτησεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2232\|ἡγεμὼν]]  [[G3004G\|λέγων·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων;¶]]  [[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G5346\|ἔφη]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic TREASON|TREASON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.10|<< Matthew 27:10]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.12|Matthew 27:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

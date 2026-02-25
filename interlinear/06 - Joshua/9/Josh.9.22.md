@@ -1,8 +1,67 @@
+---
+title: Joshua 9:22
+type: Verse
+kjv: "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?"
+bsb: "Then Joshua summoned the Gibeonites and said, “Why did you deceive us by telling us you live far away from us, when in fact you live among us?"
+hebrew: "וַיִּקְרָ֤א לָהֶם֙ יְהוֹשֻׁ֔עַ וַיְדַבֵּ֥ר אֲלֵיהֶ֖ם לֵאמֹ֑ר לָמָּה֩ רִמִּיתֶ֨ם אֹתָ֜נוּ לֵאמֹ֗ר רְחוֹקִ֨ים אֲנַ֤חְנוּ מִכֶּם֙ מְאֹ֔ד וְאַתֶּ֖ם בְּקִרְבֵּ֥נוּ יֹשְׁבִֽים׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H7411B]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H7350]]"
+- "[[H0587]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9025]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:22**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We [are] very far from you; when ye dwell among us?
 <small><sub>**BSB:**</sub></small>
 Then Joshua summoned the Gibeonites and said, “Why did you deceive us by telling us you live far away from us, when in fact you live among us?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֤א]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9005\|לָ]][[H4100\|מָּה֩]] [[H7411B\|רִמִּיתֶ֨ם]] [[H0853\|אֹתָ֜]][[H9035\|נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7350\|רְחוֹקִ֨ים]] [[H0587\|אֲנַ֤חְנוּ]] [[H9006\|מִ]][[H9036\|כֶּם֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּ֥]][[H9025\|נוּ]] [[H3427\|יֹשְׁבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.21|<< Joshua 9:21]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.23|Joshua 9:23 >>]]</td></tr></table>
 

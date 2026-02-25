@@ -1,8 +1,57 @@
+---
+title: Judges 4:12
+type: Verse
+kjv: "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor."
+bsb: "When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,"
+hebrew: "וַיַּגִּ֖דוּ לְסִֽיסְרָ֑א כִּ֥י עָלָ֛ה בָּרָ֥ק בֶּן־ אֲבִינֹ֖עַם הַר־ תָּבֽוֹר׃ ס"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic TABOR|TABOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H5516G]]"
+- "[[H3588A]]"
+- "[[H5927G]]"
+- "[[H1301]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0042]]"
+- "[[H2022G]]"
+- "[[H8396G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 4:12**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.
 <small><sub>**BSB:**</sub></small>
 When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֖דוּ]] [[H9005\|לְ]][[H5516G\|סִֽיסְרָ֑א]] [[H3588A\|כִּ֥י]] [[H5927G\|עָלָ֛ה]] [[H1301\|בָּרָ֥ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0042\|אֲבִינֹ֖עַם]] [[H2022G\|הַר]][[H9014\|־]] [[H8396G\|תָּבֽוֹר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic TABOR|TABOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.11|<< Judges 4:11]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.13|Judges 4:13 >>]]</td></tr></table>
 
@@ -16,7 +65,7 @@ When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abinoam  |**<big>&#8207;[[H0042\|אֲבִינֹ֖עַם]]&#8207; </big>**| 'a.vi.No.'am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Tabor  |**<big>&#8207;[[H8396G\|תָּבֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Tabor  |**<big>&#8207;[[H8396G\|תָּבֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Vor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.11|<< Judges 4:11]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.13|Judges 4:13 >>]]</td></tr></table>
 
 

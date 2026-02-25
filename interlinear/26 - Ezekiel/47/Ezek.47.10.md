@@ -1,8 +1,80 @@
+---
+title: Ezekiel 47:10
+type: Verse
+kjv: "And it shall come to pass, that the fishers shall stand upon it from Engedi even unto Eneglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many."
+bsb: "Fishermen will stand by the shore; from En-gedi to En-eglaim they will spread their nets to catch fish of many kinds, like the fish of the Great Sea."
+hebrew: "וְהָיָה֩ עָמְד֨וּ עָלָ֜יו דַּוָּגִ֗ים מֵעֵ֥ין גֶּ֙דִי֙ וְעַד־ עֵ֣ין עֶגְלַ֔יִם מִשְׁט֥וֹחַ לַֽחֲרָמִ֖ים יִהְי֑וּ לְמִינָה֙ תִּהְיֶ֣ה דְגָתָ֔ם כִּדְגַ֛ת הַיָּ֥ם הַגָּד֖וֹל רַבָּ֥ה מְאֹֽד׃"
+pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEAD SEA|DEAD SEA]]"
+- "[[topic ENEGLAIM|ENEGLAIM]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic FISH|FISH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic NET|NET]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1728]]"
+- "[[H9006]]"
+- "[[H5872]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5882]]"
+- "[[H4894B]]"
+- "[[H9005]]"
+- "[[H2764B]]"
+- "[[H4327]]"
+- "[[H9024]]"
+- "[[H1710]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H7227A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 47:10**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] the fishers shall stand upon it from Engedi even unto Eneglaim; they shall be a [place] to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.
 <small><sub>**BSB:**</sub></small>
 Fishermen will stand by the shore; from En-gedi to En-eglaim they will spread their nets to catch fish of many kinds, like the fish of the Great Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H5975G\|עָמְד֨וּ]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H1728\|דַּוָּגִ֗ים]] [[H9006\|מֵ]][[H5872\|עֵ֥ין]] [[H5872\|גֶּ֙דִי֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5882\|עֵ֣ין]] [[H5882\|עֶגְלַ֔יִם]] [[H4894B\|מִשְׁט֥וֹחַ]] [[H9005\|לַֽ]][[H2764B\|חֲרָמִ֖ים]] [[H1961\|יִהְי֑וּ]] [[H9005\|לְ]][[H4327\|מִינָ]][[H9024\|ה֙]] [[H1961\|תִּהְיֶ֣ה]] [[H1710\|דְגָתָ֔]][[H9028\|ם]] [[H9004\|כִּ]][[H1710\|דְגַ֛ת]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הַ]][[H1419J\|גָּד֖וֹל]] [[H7227A\|רַבָּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEAD SEA|DEAD SEA]] • [[topic ENEGLAIM|ENEGLAIM]] • [[topic EZEKIEL|EZEKIEL]] • [[topic FISH|FISH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic NET|NET]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.9|<< Ezekiel 47:9]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.11|Ezekiel 47:11 >>]]</td></tr></table>
 

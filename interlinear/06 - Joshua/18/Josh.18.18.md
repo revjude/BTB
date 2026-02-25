@@ -1,8 +1,53 @@
+---
+title: Joshua 18:18
+type: Verse
+kjv: "And passed along toward the side over against Arabah northward, and went down unto Arabah:"
+bsb: "Then it went on to the northern slope of Beth-arabah and went down into the valley."
+hebrew: "וְעָבַ֛ר אֶל־ כֶּ֥תֶף מוּל־ הָֽעֲרָבָ֖ה צָפ֑וֹנָה וְיָרַ֖ד הָעֲרָבָֽתָה׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic BETH-ARABAH|BETH-ARABAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H4136]]"
+- "[[H9009]]"
+- "[[H6160J]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H3381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:18**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And passed along toward the side over against Arabah northward, and went down unto Arabah:
 <small><sub>**BSB:**</sub></small>
 Then it went on to the northern slope of Beth-arabah and went down into the valley.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָבַ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כֶּ֥תֶף]] [[H4136\|מוּל]][[H9014\|־]] [[H9009\|הָֽ]][[H6160J\|עֲרָבָ֖ה]] [[H6828G\|צָפ֑וֹנָ]][[H9011\|ה]] [[H9001\|וְ]][[H3381\|יָרַ֖ד]] [[H9009\|הָ]][[H6160J\|עֲרָבָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic BETH-ARABAH|BETH-ARABAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.17|<< Joshua 18:17]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.19|Joshua 18:19 >>]]</td></tr></table>
 

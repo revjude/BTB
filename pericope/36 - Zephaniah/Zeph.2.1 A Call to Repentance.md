@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Repentance
+type: Pericope
 pericope: "[[Zeph.2.1 A Call to Repentance|A Call to Repentance]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 2
 book/chapter: "[[Zeph.2|Zephaniah 2]]"
-genre:
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 3
 verses:
 - "[[Zeph.2.1]]"
 - "[[Zeph.2.2]]"
 - "[[Zeph.2.3]]"
 ---
 
-[[Zeph.2|Zephaniah 2:1 - Zephaniah 2:3]]
+<small>[[Zeph.2|Zephaniah 2:1-3]]</small>
 *A Call to Repentance*
 
 [[Zeph.2.1|1]] Gather yourselves together, yea, gather together, O nation not desired;

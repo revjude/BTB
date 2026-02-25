@@ -1,8 +1,67 @@
+---
+title: 1 Kings 4:27
+type: Verse
+kjv: "And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing."
+bsb: "Each month the governors in turn provided food for King Solomon and all who came to his table. They saw to it that nothing was lacking."
+hebrew: "וְכִלְכְּלוּ֩ הַנִּצָּבִ֨ים הָאֵ֜לֶּה אֶת־ הַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְאֵ֧ת כָּל־ הַקָּרֵ֛ב אֶל־ שֻׁלְחַ֥ן הַמֶּֽלֶךְ־ שְׁלֹמֹ֖ה אִ֣ישׁ חָדְשׁ֑וֹ לֹ֥א יְעַדְּר֖וּ דָּבָֽר׃"
+pericope: "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COMMISSARY|COMMISSARY]]"
+- "[[topic KING|KING]]"
+- "[[topic PURVEYOR|PURVEYOR]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H3557]]"
+- "[[H9009]]"
+- "[[H5324]]"
+- "[[H0428]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H7131]]"
+- "[[H0413]]"
+- "[[H7979]]"
+- "[[H0376I]]"
+- "[[H2320G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H5737C]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:27**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.
 <small><sub>**BSB:**</sub></small>
 Each month the governors in turn provided food for King Solomon and all who came to his table. They saw to it that nothing was lacking.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3557\|כִלְכְּלוּ֩]] [[H9009\|הַ]][[H5324\|נִּצָּבִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9002\|וְ]][[H0853\|אֵ֧ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7131\|קָּרֵ֛ב]] [[H0413\|אֶל]][[H9014\|־]] [[H7979\|שֻׁלְחַ֥ן]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֖ה]] [[H0376I\|אִ֣ישׁ]] [[H2320G\|חָדְשׁ֑]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H5737C\|יְעַדְּר֖וּ]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMISSARY|COMMISSARY]] • [[topic KING|KING]] • [[topic PURVEYOR|PURVEYOR]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.26|<< 1 Kings 4:26]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.28|1 Kings 4:28 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Joshua 24:19
+type: Verse
+kjv: "And Joshua said unto the people, Ye cannot serve the LORD: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins."
+bsb: "But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins."
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־ הָעָ֗ם לֹ֤א תֽוּכְלוּ֙ לַעֲבֹ֣ד אֶת־ יְהוָ֔ה כִּֽי־ אֱלֹהִ֥ים קְדֹשִׁ֖ים ה֑וּא אֵֽל־ קַנּ֣וֹא ה֔וּא לֹֽא־ יִשָּׂ֥א לְפִשְׁעֲכֶ֖ם וּלְחַטֹּאותֵיכֶֽם׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H6918G]]"
+- "[[H1931]]"
+- "[[H0410G]]"
+- "[[H7072]]"
+- "[[H5375I]]"
+- "[[H6588]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:19**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the people, Ye cannot serve the LORD: for he [is] an holy God; he [is] a jealous God; he will not forgive your transgressions nor your sins.
 <small><sub>**BSB:**</sub></small>
 But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H3808\|לֹ֤א]] [[H3201\|תֽוּכְלוּ֙]] [[H9005\|לַ]][[H5647H\|עֲבֹ֣ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]] [[H6918G\|קְדֹשִׁ֖ים]] [[H1931\|ה֑וּא]] [[H0410G\|אֵֽל]][[H9014\|־]] [[H7072\|קַנּ֣וֹא]] [[H1931\|ה֔וּא]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5375I\|יִשָּׂ֥א]] [[H9005\|לְ]][[H6588\|פִשְׁעֲ]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9005\|לְ]][[H2403B\|חַטֹּאותֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.18|<< Joshua 24:18]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.20|Joshua 24:20 >>]]</td></tr></table>
 

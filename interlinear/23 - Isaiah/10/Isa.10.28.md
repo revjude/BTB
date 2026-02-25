@@ -1,8 +1,58 @@
+---
+title: Isaiah 10:28
+type: Verse
+kjv: "He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:"
+bsb: "Assyria has entered Aiath and passed through Migron, storing their supplies at Michmash."
+hebrew: "בָּ֥א עַל־ עַיַּ֖ת עָבַ֣ר בְּמִגְר֑וֹן לְמִכְמָ֖שׂ יַפְקִ֥יד כֵּלָֽיו׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AI|AI]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MICHMASH|MICHMASH]]"
+- "[[topic MIGRON|MIGRON]]"
+strongs:
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5857G]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H4051]]"
+- "[[H9005]]"
+- "[[H4363]]"
+- "[[H6485L]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:28**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:
 <small><sub>**BSB:**</sub></small>
 Assyria has entered Aiath and passed through Migron, storing their supplies at Michmash.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בָּ֥א]] [[H5921A\|עַל]][[H9014\|־]] [[H5857G\|עַיַּ֖ת]] [[H5674A\|עָבַ֣ר]] [[H9003\|בְּ]][[H4051\|מִגְר֑וֹן]] [[H9005\|לְ]][[H4363\|מִכְמָ֖שׂ]] [[H6485L\|יַפְקִ֥יד]] [[H3627\|כֵּלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AI|AI]] • [[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic MICHMASH|MICHMASH]] • [[topic MIGRON|MIGRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.27|<< Isaiah 10:27]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.29|Isaiah 10:29 >>]]</td></tr></table>
 

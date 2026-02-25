@@ -1,8 +1,56 @@
+---
+title: Job 28:19
+type: Verse
+kjv: "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
+bsb: "Topaz from Cush cannot compare to it, nor can it be valued in pure gold."
+hebrew: "לֹֽא־ יַ֭עַרְכֶנָּה פִּטְדַת־ כּ֑וּשׁ בְּכֶ֥תֶם טָ֝ה֗וֹר לֹ֣א תְסֻלֶּֽה׃ פ"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TOPAZ|TOPAZ]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6186A]]"
+- "[[H9034]]"
+- "[[H6357]]"
+- "[[H3568A]]"
+- "[[H9003]]"
+- "[[H3800]]"
+- "[[H2889]]"
+- "[[H5541B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 28:19**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold.
 <small><sub>**BSB:**</sub></small>
 Topaz from Cush cannot compare to it, nor can it be valued in pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H6186A\|יַ֭עַרְכֶ]][[H9034\|נָּה]] [[H6357\|פִּטְדַת]][[H9014\|־]] [[H3568A\|כּ֑וּשׁ]] [[H9003\|בְּ]][[H3800\|כֶ֥תֶם]] [[H2889\|טָ֝ה֗וֹר]] [[H3808\|לֹ֣א]] [[H5541B\|תְסֻלֶּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TOPAZ|TOPAZ]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.18|<< Job 28:18]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.20|Job 28:20 >>]]</td></tr></table>
 
@@ -15,7 +63,7 @@ Topaz from Cush cannot compare to it, nor can it be valued in pure gold.
 | in gold  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3800\|כֶ֥תֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khe.tem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pure  |**<big>&#8207;[[H2889\|טָ֝ה֗וֹר]]&#8207; </big>**| ta.Hor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be paid  |**<big>&#8207;[[H5541B\|תְסֻלֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| te.su.Leh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be paid  |**<big>&#8207;[[H5541B\|תְסֻלֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| te.su.Leh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.18|<< Job 28:18]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.20|Job 28:20 >>]]</td></tr></table>
 
 

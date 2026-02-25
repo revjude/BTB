@@ -1,10 +1,64 @@
+---
+title: Luke 10:39
+type: Verse
+kjv: "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word."
+bsb: "She had a sister named Mary, who sat at the Lord’s feet listening to His message."
+greek: "καὶ τῇδε ἦν ἀδελφὴ καλουμένη Μαριάμ. ἣ καὶ παρακαθεσθεῖσα πρὸς τοὺς πόδας τοῦ κυρίου ἤκουεν τὸν λόγον αὐτοῦ."
+pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FEET|FEET]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARTHA|MARTHA]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3592]]"
+- "[[G1510]]"
+- "[[G0079]]"
+- "[[G2564G]]"
+- "[[G3137J]]"
+- "[[G3739]]"
+- "[[G3869]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G2962G]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 10:39**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.
 <small><sub>**BSB:**</sub></small>
 She had a sister named Mary, who sat at the Lord’s feet listening to His message.
-<small><sub>**Literal:**</sub></small>
-And she was a sister being called Mary. She also having sat down at the feet of the Lord was listening to the word of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.38|<< Luke 10:38]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.40|Luke 10:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3592\|τῇδε]]  [[G1510\|ἦν]]  [[G0079\|ἀδελφὴ]]  [[G2564G\|καλουμένη]]  [[G3137J\|Μαριάμ.]]  [[G3739\|ἣ]]  [[G2532\|καὶ]]  [[G3869\|παρακαθεσθεῖσα]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G0191\|ἤκουεν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic FAITH|FAITH]] • [[topic FEET|FEET]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARTHA|MARTHA]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.38|<< Luke 10:38]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.40|Luke 10:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

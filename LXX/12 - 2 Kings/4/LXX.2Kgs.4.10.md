@@ -1,6 +1,67 @@
+---
+title: LXX 2 Kings 4:10
+type: Verse
+lxx: "We should indeed make for him a small upper room, and we should put for him there a bed, and a table, and a chair, and a lamp-stand. And it will be in  his coming to us, that he shall turn aside there."
+greek: "ποιήσωμεν δη αυτώ υπερώον μικρόν και θώμεν αυτώ εκεί κλίνην και τράπεζαν και δίφρον και λυχνίαν και έσται εν τω αυτόν έρχεσθαι προς ημάς και εκκλινεί εκεί"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G4160]]"
+- "[[G1211]]"
+- "[[G1473]]"
+- "[[G5253]]"
+- "[[G3398]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G1473]]"
+- "[[G1563]]"
+- "[[G2825]]"
+- "[[G2532]]"
+- "[[G5132]]"
+- "[[G2532]]"
+- "[[G6947]]"
+- "[[G2532]]"
+- "[[G3087]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1578]]"
+- "[[G1563]]"
+---
+
 **LXX 2 Kings 4:10** 
 <small><sub>**LXX:**</sub></small>
 We should indeed make for him a small upper room, and we should put for him there a bed, and a table, and a chair, and a lamp-stand. And it will be in  his coming to us, that he shall turn aside there. 
+<small><sub>**Greek:**</sub></small>
+[[G4160\|ποιήσωμεν]] [[G1211\|δη]] [[G1473\|αυτώ]] [[G5253\|υπερώον]] [[G3398\|μικρόν]] [[G2532\|και]] [[G5087\|θώμεν]] [[G1473\|αυτώ]] [[G1563\|εκεί]] [[G2825\|κλίνην]] [[G2532\|και]] [[G5132\|τράπεζαν]] [[G2532\|και]] [[G6947\|δίφρον]] [[G2532\|και]] [[G3087\|λυχνίαν]] [[G2532\|και]] [[G1510\|έσται]] [[G1722\|εν]] [[G3588\|τω]] [[G1473\|αυτόν]] [[G2064\|έρχεσθαι]] [[G4314\|προς]] [[G1473\|ημάς]] [[G2532\|και]] [[G1578\|εκκλινεί]] [[G1563\|εκεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic STOOL|STOOL]] • [[topic TABLE|TABLE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
 
@@ -32,6 +93,6 @@ We should indeed make for him a small upper room, and we should put for him ther
 | that | **<big>[[G2532\|και]]</big>** |
 | he shall turn aside | **<big>[[G1578\|εκκλινεί]]</big>** |
 | there. | **<big>[[G1563\|εκεί]]</big>** |
-[[2Kgs.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
 
 

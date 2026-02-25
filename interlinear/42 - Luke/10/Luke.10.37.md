@@ -1,10 +1,63 @@
+---
+title: Luke 10:37
+type: Verse
+kjv: "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+bsb: "“The one who showed him mercy,” replied the expert in the law. Then Jesus told him, “Go and do likewise.”"
+jesus_said: "Go, and do thou likewise."
+greek: "ὁ δὲ εἶπεν· ὁ ποιήσας τὸ ἔλεος μετ᾽ αὐτοῦ. εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· πορεύου, καὶ σὺ ποίει ὁμοίως.¶"
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4160G]]"
+- "[[G1656]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3668]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 10:37**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
 <small><sub>**BSB:**</sub></small>
 “The one who showed him mercy,” replied the expert in the law. Then Jesus told him, “Go and do likewise.”
-<small><sub>**Literal:**</sub></small>
-<the> And he said; The [one] having shown <the> compassion toward him. Said then to him <the> Jesus; do go and you yourself do act likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.36|<< Luke 10:36]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.38|Luke 10:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G3588\|τὸ]]  [[G1656\|ἔλεος]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.]]  [[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4198\|πορεύου,]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G4160G\|ποίει]]  [[G3668\|ὁμοίως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.36|<< Luke 10:36]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.38|Luke 10:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

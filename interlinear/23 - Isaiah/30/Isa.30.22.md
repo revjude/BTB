@@ -1,8 +1,67 @@
+---
+title: Isaiah 30:22
+type: Verse
+kjv: "Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence."
+bsb: "So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”"
+hebrew: "וְטִמֵּאתֶ֗ם אֶת־ צִפּוּי֙ פְּסִילֵ֣י כַסְפֶּ֔ךָ וְאֶת־ אֲפֻדַּ֖ת מַסֵּכַ֣ת זְהָבֶ֑ךָ תִּזְרֵם֙ כְּמ֣וֹ דָוָ֔ה צֵ֖א תֹּ֥אמַר לֽוֹ׃"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6826]]"
+- "[[H6456]]"
+- "[[H3701G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0642]]"
+- "[[H4541A]]"
+- "[[H2091]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H3644G]]"
+- "[[H1739]]"
+- "[[H6627]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:22**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.
 <small><sub>**BSB:**</sub></small>
 So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2930A\|טִמֵּאתֶ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6826\|צִפּוּי֙]] [[H6456\|פְּסִילֵ֣י]] [[H3701G\|כַסְפֶּ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0642\|אֲפֻדַּ֖ת]] [[H4541A\|מַסֵּכַ֣ת]] [[H2091\|זְהָבֶ֑]][[H9021\|ךָ]] [[H2219\|תִּזְרֵ]][[H9038\|ם֙]] [[H3644G\|כְּמ֣וֹ]] [[H1739\|דָוָ֔ה]] [[H6627\|צֵ֖א]] [[H0559\|תֹּ֥אמַר]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MENSTRUATION|MENSTRUATION]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 

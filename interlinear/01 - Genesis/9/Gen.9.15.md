@@ -1,8 +1,74 @@
+---
+title: Genesis 9:15
+type: Verse
+kjv: "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+bsb: "I will remember My covenant between Me and you and every living creature of every kind. Never again will the waters become a flood to destroy all life."
+hebrew: "וְזָכַרְתִּ֣י אֶת־ בְּרִיתִ֗י אֲשֶׁ֤ר בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין כָּל־ נֶ֥פֶשׁ חַיָּ֖ה בְּכָל־ בָּשָׂ֑ר וְלֹֽא־ יִֽהְיֶ֨ה ע֤וֹד הַמַּ֙יִם֙ לְמַבּ֔וּל לְשַׁחֵ֖ת כָּל־ בָּשָֽׂר׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic RAINBOW|RAINBOW]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H9003]]"
+- "[[H1320]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H3999]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:15**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will remember my covenant, which [is] between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
 <small><sub>**BSB:**</sub></small>
 I will remember My covenant between Me and you and every living creature of every kind. Never again will the waters become a flood to destroy all life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֗]][[H9020\|י]] [[H0834A\|אֲשֶׁ֤ר]] [[H0996G\|בֵּינִ]][[H9030\|י֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ינֵי]][[H9036\|כֶ֔ם]] [[H9002\|וּ]][[H0996G\|בֵ֛ין]] [[H3605\|כָּל]][[H9014\|־]] [[H5315K\|נֶ֥פֶשׁ]] [[H2416A\|חַיָּ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִֽהְיֶ֨ה]] [[H5750\|ע֤וֹד]] [[H9009\|הַ]][[H4325G\|מַּ֙יִם֙]] [[H9005\|לְ]][[H3999\|מַבּ֔וּל]] [[H9005\|לְ]][[H7843\|שַׁחֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic RAIN|RAIN]] • [[topic RAINBOW|RAINBOW]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.14|<< Genesis 9:14]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.16|Genesis 9:16 >>]]</td></tr></table>
 

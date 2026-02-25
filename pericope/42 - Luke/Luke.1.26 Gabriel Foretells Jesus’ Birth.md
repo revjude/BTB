@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gabriel Foretells Jesus’ Birth
+type: Pericope
 pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.1.26]]"
 - "[[Luke.1.27]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.1.38]]"
 ---
 
-[[Luke.1|Luke 1:26 - Luke 1:38]]
+<small>[[Luke.1|Luke 1:26-38]]</small>
 *Gabriel Foretells Jesus’ Birth*
 
 [[Luke.1.26|26]] And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,

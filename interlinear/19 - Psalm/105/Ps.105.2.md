@@ -1,8 +1,56 @@
+---
+title: Psalm 105:2
+type: Verse
+kjv: "Sing unto him, sing psalms unto him: talk ye of all his wondrous works."
+bsb: "Sing to Him, sing praises to Him; tell of all His wonders."
+hebrew: "שִֽׁירוּ־ ל֭וֹ זַמְּרוּ־ ל֑וֹ שִׂ֝֗יחוּ בְּכָל־ נִפְלְאוֹתָֽיו׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7891]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2167]]"
+- "[[H7878]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6381]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:2**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto him, sing psalms unto him: talk ye of all his wondrous works.
 <small><sub>**BSB:**</sub></small>
 Sing to Him, sing praises to Him; tell of all His wonders.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִֽׁירוּ]][[H9014\|־]] [[H9005\|ל֭]][[H9033\|וֹ]] [[H2167\|זַמְּרוּ]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H7878\|שִׂ֝֗יחוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6381\|נִפְלְאוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.1|<< Psalms 105:1]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.3|Psalms 105:3 >>]]</td></tr></table>
 

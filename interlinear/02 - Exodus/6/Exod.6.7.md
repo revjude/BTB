@@ -1,8 +1,68 @@
+---
+title: Exodus 6:7
+type: Verse
+kjv: "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the LORD your God, which bringeth you out from under the burdens of the Egyptians."
+bsb: "I will take you as My own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians."
+hebrew: "וְלָקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H5450]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:7**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take you to me for a people, and I will be to you a God: and ye shall know that I [am] the LORD your God, which bringeth you out from under the burdens of the Egyptians.
 <small><sub>**BSB:**</sub></small>
 I will take you as My own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתִּ֨י]] [[H0853\|אֶתְ]][[H9036\|כֶ֥ם]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לְ]][[H5971A\|עָ֔ם]] [[H9001\|וְ]][[H1961\|הָיִ֥יתִי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֑ים]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֗ם]] [[H3588A\|כִּ֣י]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹ֣הֵי]][[H9026\|כֶ֔ם]] [[H9009\|הַ]][[H3318H\|מּוֹצִ֣יא]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H5450\|סִבְל֥וֹת]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.6|<< Exodus 6:6]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.8|Exodus 6:8 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Ezekiel 31:16
+type: Verse
+kjv: "I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth."
+bsb: "I made the nations quake at the sound of its downfall, when I cast it down to Sheol with those who descend to the Pit. Then all the trees of Eden, the choicest and best of Lebanon, all the well-watered trees, were consoled in the earth below."
+hebrew: "מִקּ֤וֹל מַפַּלְתּוֹ֙ הִרְעַ֣שְׁתִּי גוֹיִ֔ם בְּהוֹרִדִ֥י אֹת֛וֹ שְׁא֖וֹלָה אֶת־ י֣וֹרְדֵי ב֑וֹר וַיִּנָּ֨חֲמ֜וּ בְּאֶ֤רֶץ תַּחְתִּית֙ כָּל־ עֲצֵי־ עֵ֔דֶן מִבְחַ֥ר וְטוֹב־ לְבָנ֖וֹן כָּל־ שֹׁ֥תֵי מָֽיִם׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H4658]]"
+- "[[H9023]]"
+- "[[H7493]]"
+- "[[H1471A]]"
+- "[[H9003]]"
+- "[[H3381]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H7585]]"
+- "[[H9011]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0953A]]"
+- "[[H9001]]"
+- "[[H5162G]]"
+- "[[H0776G]]"
+- "[[H8482]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H5731B]]"
+- "[[H4005]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H3844G]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:16**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
 <small><sub>**BSB:**</sub></small>
 I made the nations quake at the sound of its downfall, when I cast it down to Sheol with those who descend to the Pit. Then all the trees of Eden, the choicest and best of Lebanon, all the well-watered trees, were consoled in the earth below.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֤וֹל]] [[H4658\|מַפַּלְתּ]][[H9023\|וֹ֙]] [[H7493\|הִרְעַ֣שְׁתִּי]] [[H1471A\|גוֹיִ֔ם]] [[H9003\|בְּ]][[H3381\|הוֹרִדִ֥]][[H9040\|י]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H7585\|שְׁא֖וֹלָ]][[H9011\|ה]] [[H0854\|אֶת]][[H9014\|־]] [[H3381\|י֣וֹרְדֵי]] [[H0953A\|ב֑וֹר]] [[H9001\|וַ]][[H5162G\|יִּנָּ֨חֲמ֜וּ]] [[H9003\|בְּ]][[H0776G\|אֶ֤רֶץ]] [[H8482\|תַּחְתִּית֙]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֲצֵי]][[H9014\|־]] [[H5731B\|עֵ֔דֶן]] [[H4005\|מִבְחַ֥ר]] [[H9002\|וְ]][[H2896A\|טוֹב]][[H9014\|־]] [[H3844G\|לְבָנ֖וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H8354\|שֹׁ֥תֵי]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic HELL|HELL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.15|<< Ezekiel 31:15]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.17|Ezekiel 31:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

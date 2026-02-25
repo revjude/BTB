@@ -1,8 +1,70 @@
+---
+title: Leviticus 7:9
+type: Verse
+kjv: "And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it."
+bsb: "Likewise, every grain offering that is baked in an oven or cooked in a pan or on a griddle belongs to the priest who presents it,"
+hebrew: "וְכָל־ מִנְחָ֗ה אֲשֶׁ֤ר תֵּֽאָפֶה֙ בַּתַּנּ֔וּר וְכָל־ נַעֲשָׂ֥ה בַמַּרְחֶ֖שֶׁת וְעַֽל־ מַחֲבַ֑ת לַכֹּהֵ֛ן הַמַּקְרִ֥יב אֹתָ֖הּ ל֥וֹ תִֽהְיֶֽה׃"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic FRYING PAN|FRYING PAN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic OVEN|OVEN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H0834A]]"
+- "[[H0644]]"
+- "[[H9003]]"
+- "[[H8574H]]"
+- "[[H6213H]]"
+- "[[H4802]]"
+- "[[H5921A]]"
+- "[[H4227]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:9**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.
 <small><sub>**BSB:**</sub></small>
 Likewise, every grain offering that is baked in an oven or cooked in a pan or on a griddle belongs to the priest who presents it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4503G\|מִנְחָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H0644\|תֵּֽאָפֶה֙]] [[H9003\|בַּ]][[H8574H\|תַּנּ֔וּר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6213H\|נַעֲשָׂ֥ה]] [[H9003\|בַ]][[H4802\|מַּרְחֶ֖שֶׁת]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H4227\|מַחֲבַ֑ת]] [[H9005\|לַ]][[H3548\|כֹּהֵ֛ן]] [[H9009\|הַ]][[H7126H\|מַּקְרִ֥יב]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|תִֽהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic FRYING PAN|FRYING PAN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic OVEN|OVEN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.8|<< Leviticus 7:8]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.10|Leviticus 7:10 >>]]</td></tr></table>
 

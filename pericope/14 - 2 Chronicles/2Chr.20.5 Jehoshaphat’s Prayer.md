@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoshaphat’s Prayer
+type: Pericope
 pericope: "[[2Chr.20.5 Jehoshaphat’s Prayer|Jehoshaphat’s Prayer]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 9
 verses:
 - "[[2Chr.20.5]]"
 - "[[2Chr.20.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Chr.20.13]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:5 - 2 Chronicles 20:13]]
+<small>[[2Chr.20|2 Chronicles 20:5-13]]</small>
 *Jehoshaphat’s Prayer*
 
 [[2Chr.20.5|5]] And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,

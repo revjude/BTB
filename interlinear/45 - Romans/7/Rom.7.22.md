@@ -1,10 +1,52 @@
+---
+title: Romans 7:22
+type: Verse
+kjv: "For I delight in the law of God after the inward man:"
+bsb: "For in my inner being I delight in God’s law."
+greek: "συνήδομαι γὰρ τῷ νόμῳ τοῦ θεοῦ κατὰ τὸν ἔσω ἄνθρωπον,"
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SPIRIT|SPIRIT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4913]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G2316]]"
+- "[[G2596]]"
+- "[[G2080]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Romans 7:22**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I delight in the law of God after the inward man:
 <small><sub>**BSB:**</sub></small>
 For in my inner being I delight in God’s law.
-<small><sub>**Literal:**</sub></small>
-I delight for in the law <the> of God according to the inward man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.21|<< Romans 7:21]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.23|Romans 7:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4913\|συνήδομαι]]  [[G1063\|γὰρ]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G2080\|ἔσω]]  [[G0444\|ἄνθρωπον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]] • [[topic SPIRIT|SPIRIT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.21|<< Romans 7:21]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.23|Romans 7:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 7:22** is...
 > $\quad$ referencing: [[LXX.Ps.40.8|Ps 40:8]] ☩ [[Heb.8.10|Heb 8:10]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.16|Heb 10:16-17]]

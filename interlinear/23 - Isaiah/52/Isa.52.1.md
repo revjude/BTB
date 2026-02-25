@@ -1,8 +1,68 @@
+---
+title: Isaiah 52:1
+type: Verse
+kjv: "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean."
+bsb: "Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you."
+hebrew: "עוּרִ֥י עוּרִ֛י לִבְשִׁ֥י עֻזֵּ֖ךְ צִיּ֑וֹן לִבְשִׁ֣י׀ בִּגְדֵ֣י תִפְאַרְתֵּ֗ךְ יְרוּשָׁלִַ֙ם֙ עִ֣יר הַקֹּ֔דֶשׁ כִּ֣י לֹ֥א יוֹסִ֛יף יָבֹא־ בָ֥ךְ ע֖וֹד עָרֵ֥ל וְטָמֵֽא׃"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H5782]]"
+- "[[H3847]]"
+- "[[H5797]]"
+- "[[H9022]]"
+- "[[H6726]]"
+- "[[H9015]]"
+- "[[H0899B]]"
+- "[[H8597]]"
+- "[[H3389]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H5750]]"
+- "[[H6189]]"
+- "[[H9002]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:1**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 <small><sub>**BSB:**</sub></small>
 Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|עוּרִ֥י]] [[H5782\|עוּרִ֛י]] [[H3847\|לִבְשִׁ֥י]] [[H5797\|עֻזֵּ֖]][[H9022\|ךְ]] [[H6726\|צִיּ֑וֹן]] [[H3847\|לִבְשִׁ֣י]][[H9015\|׀]] [[H0899B\|בִּגְדֵ֣י]] [[H8597\|תִפְאַרְתֵּ֗]][[H9022\|ךְ]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֥א]] [[H3254G\|יוֹסִ֛יף]] [[H0935G\|יָבֹא]][[H9014\|־]] [[H9003\|בָ֥]][[H9032\|ךְ]] [[H5750\|ע֖וֹד]] [[H6189\|עָרֵ֥ל]] [[H9002\|וְ]][[H2931\|טָמֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.23|<< Isaiah 51:23]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.2|Isaiah 52:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

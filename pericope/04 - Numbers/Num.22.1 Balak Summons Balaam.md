@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balak Summons Balaam
+type: Pericope
 pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 22
 book/chapter: "[[Num.22|Numbers 22]]"
-genre:
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 21
 verses:
 - "[[Num.22.1]]"
 - "[[Num.22.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Num.22.21]]"
 ---
 
-[[Num.22|Numbers 22:1 - Numbers 22:21]]
+<small>[[Num.22|Numbers 22:1-21]]</small>
 *Balak Summons Balaam*
 
 [[Num.22.1|1]] And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan \[by\] Jericho.

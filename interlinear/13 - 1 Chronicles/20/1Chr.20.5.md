@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 20:5
+type: Verse
+kjv: "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver’s beam."
+bsb: "Once again there was a battle with the Philistines, and Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam."
+hebrew: "וַתְּהִי־ ע֥וֹד מִלְחָמָ֖ה אֶת־ פְּלִשְׁתִּ֑ים וַיַּ֞ךְ אֶלְחָנָ֣ן בֶּן־ יָעִ֗יר אֶת־ לַחְמִי֙ אֲחִי֙ גָּלְיָ֣ת הַגִּתִּ֔י וְעֵ֣ץ חֲנִית֔וֹ כִּמְנ֖וֹר אֹרְגִֽים׃"
+pericope: "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELHANAN|ELHANAN]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic LAHMI|LAHMI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H4421]]"
+- "[[H0854]]"
+- "[[H6430G]]"
+- "[[H5221]]"
+- "[[H0445G]]"
+- "[[H1121A]]"
+- "[[H3265]]"
+- "[[H0853]]"
+- "[[H3902]]"
+- "[[H0251G]]"
+- "[[H1555]]"
+- "[[H9009]]"
+- "[[H1663]]"
+- "[[H9002]]"
+- "[[H6086J]]"
+- "[[H2595]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H4500]]"
+- "[[H0707]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 20:5**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff [was] like a weaver’s beam.
 <small><sub>**BSB:**</sub></small>
 Once again there was a battle with the Philistines, and Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H5750\|ע֥וֹד]] [[H4421\|מִלְחָמָ֖ה]] [[H0854\|אֶת]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H5221\|יַּ֞ךְ]] [[H0445G\|אֶלְחָנָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3265\|יָעִ֗יר]] [[H0853\|אֶת]][[H9014\|־]] [[H3902\|לַחְמִי֙]] [[H0251G\|אֲחִי֙]] [[H1555\|גָּלְיָ֣ת]] [[H9009\|הַ]][[H1663\|גִּתִּ֔י]] [[H9002\|וְ]][[H6086J\|עֵ֣ץ]] [[H2595\|חֲנִית֔]][[H9023\|וֹ]] [[H9004\|כִּ]][[H4500\|מְנ֖וֹר]] [[H0707\|אֹרְגִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELHANAN|ELHANAN]] • [[topic GATH|GATH]] • [[topic GOLIATH|GOLIATH]] • [[topic JAIR|JAIR]] • [[topic LAHMI|LAHMI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.4|<< 1 Chronicles 20:4]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.6|1 Chronicles 20:6 >>]]</td></tr></table>
 

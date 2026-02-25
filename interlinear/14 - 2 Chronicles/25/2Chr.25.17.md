@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 25:17
+type: Verse
+kjv: "Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face."
+bsb: "Then Amaziah king of Judah took counsel and sent word to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said."
+hebrew: "וַיִּוָּעַ֗ץ אֲמַצְיָ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה וַ֠יִּשְׁלַח אֶל־ יוֹאָ֨שׁ בֶּן־ יְהוֹאָחָ֧ז בֶּן־ יֵה֛וּא מֶ֥לֶךְ יִשְׂרָאֵ֖ל לֵאמֹ֑ר לְכָ֖ה נִתְרָאֶ֥ה פָנִֽים׃"
+pericope: "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOASH|JEHOASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3289]]"
+- "[[H0558G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3101J]]"
+- "[[H1121A]]"
+- "[[H3059G]]"
+- "[[H3058H]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9031]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 25:17**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face.
 <small><sub>**BSB:**</sub></small>
 Then Amaziah king of Judah took counsel and sent word to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3289\|יִּוָּעַ֗ץ]] [[H0558G\|אֲמַצְיָ֙הוּ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ֠]][[H7971G\|יִּשְׁלַח]] [[H0413\|אֶל]][[H9014\|־]] [[H3101J\|יוֹאָ֨שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3059G\|יְהוֹאָחָ֧ז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3058H\|יֵה֛וּא]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980K\|לְכָ֖]][[H9012\|ה]] [[H7200G\|נִתְרָאֶ֥ה]] [[H6440H\|פָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOASH|JEHOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.16|<< 2 Chronicles 25:16]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.18|2 Chronicles 25:18 >>]]</td></tr></table>
 
@@ -27,7 +81,7 @@ Then Amaziah king of Judah took counsel and sent word to the king of Israel Jeho
 | faces  |**<big>&#8207;[[H6440H\|פָנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.16|<< 2 Chronicles 25:16]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.18|2 Chronicles 25:18 >>]]</td></tr></table>
 
-[^1]: to you  | **<big>[[H9031|ךָ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: to you  | **<big>[[H9031|ךָ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: to you  | **<big>[[H9005|לְ]]</big><big>[[H9031|ךָ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: to you  | **<big>[[H9005|לְ]]</big><big>[[H9031|ךָ]]</big> ** | le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְךָ֖</big></span>**
 

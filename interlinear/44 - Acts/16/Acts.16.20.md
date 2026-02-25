@@ -1,10 +1,65 @@
+---
+title: Acts 16:20
+type: Verse
+kjv: "And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,"
+bsb: "They brought them to the magistrates and said, “These men are Jews and are throwing our city into turmoil"
+greek: "καὶ προσαγαγόντες αὐτοὺς τοῖς στρατηγοῖς εἶπαν· οὗτοι οἱ ἄνθρωποι ἐκταράσσουσιν ἡμῶν τὴν πόλιν Ἰουδαῖοι ὑπάρχοντες·"
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4317]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4755]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G0444]]"
+- "[[G1613]]"
+- "[[G3165]]"
+- "[[G4172]]"
+- "[[G2453]]"
+- "[[G5225]]"
+texts:
+- NKO
+---
+
 **Acts 16:20**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city,
 <small><sub>**BSB:**</sub></small>
 They brought them to the magistrates and said, “These men are Jews and are throwing our city into turmoil
-<small><sub>**Literal:**</sub></small>
-and having brought up them to the magistrates they said; These <the> men exceedingly trouble of us the city Jews being;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.19|<< Acts 16:19]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.21|Acts 16:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4317\|προσαγαγόντες]]  [[G0846\|αὐτοὺς]]  [[G3588\|τοῖς]]  [[G4755\|στρατηγοῖς]]  [[G2036\|εἶπαν·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G1613\|ἐκταράσσουσιν]]  [[G3165\|ἡμῶν]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2453\|Ἰουδαῖοι]]  [[G5225\|ὑπάρχοντες·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HERESY|HERESY]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.19|<< Acts 16:19]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.21|Acts 16:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

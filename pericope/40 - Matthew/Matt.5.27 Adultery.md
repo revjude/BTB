@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Adultery
+type: Pericope
 pericope: "[[Matt.5.27 Adultery|Adultery]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 5
 book/chapter: "[[Matt.5|Matthew 5]]"
-genre:
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.5.27]]"
 - "[[Matt.5.28]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.5.30]]"
 ---
 
-[[Matt.5|Matthew 5:27 - Matthew 5:30]]
+<small>[[Matt.5|Matthew 5:27-30]]</small>
 *Adultery*
 
 [[Matt.5.27|27]] Ye have heard that it was said by them of old time, Thou shalt not commit adultery:

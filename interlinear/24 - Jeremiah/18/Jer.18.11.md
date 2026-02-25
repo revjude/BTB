@@ -1,8 +1,75 @@
+---
+title: Jeremiah 18:11
+type: Verse
+kjv: "Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good."
+bsb: "Now therefore, tell the men of Judah and the residents of Jerusalem that this is what the LORD says: ‘Behold, I am planning a disaster for you and devising a plan against you. Turn now, each of you, from your evil ways, and correct your ways and deeds.’"
+hebrew: "וְעַתָּ֡ה אֱמָר־ נָ֣א אֶל־ אִישׁ־ יְהוּדָה֩ וְעַל־ יוֹשְׁבֵ֨י יְרוּשָׁלִַ֜ם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤ר עֲלֵיכֶם֙ רָעָ֔ה וְחֹשֵׁ֥ב עֲלֵיכֶ֖ם מַֽחֲשָׁבָ֑ה שׁ֣וּבוּ נָ֗א אִ֚ישׁ מִדַּרְכּ֣וֹ הָֽרָעָ֔ה וְהֵיטִ֥יבוּ דַרְכֵיכֶ֖ם וּמַעַלְלֵיכֶֽם׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H0376I]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H3335I]]"
+- "[[H9036]]"
+- "[[H7451C]]"
+- "[[H2803I]]"
+- "[[H4284]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H3190]]"
+- "[[H9026]]"
+- "[[H4611]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:11**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.
 <small><sub>**BSB:**</sub></small>
 Now therefore, tell the men of Judah and the residents of Jerusalem that this is what the LORD says: ‘Behold, I am planning a disaster for you and devising a plan against you. Turn now, each of you, from your evil ways, and correct your ways and deeds.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H0559\|אֱמָר]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H3063G\|יְהוּדָה֩]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֨י]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H3335I\|יוֹצֵ֤ר]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H7451C\|רָעָ֔ה]] [[H9002\|וְ]][[H2803I\|חֹשֵׁ֥ב]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H4284\|מַֽחֲשָׁבָ֑ה]] [[H7725G\|שׁ֣וּבוּ]] [[H4994\|נָ֗א]] [[H0376I\|אִ֚ישׁ]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֣]][[H9023\|וֹ]] [[H9009\|הָֽ]][[H7451H\|רָעָ֔ה]] [[H9002\|וְ]][[H3190\|הֵיטִ֥יבוּ]] [[H1870G\|דַרְכֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H4611\|מַעַלְלֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.10|<< Jeremiah 18:10]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.12|Jeremiah 18:12 >>]]</td></tr></table>
 

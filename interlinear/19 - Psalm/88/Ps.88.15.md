@@ -1,8 +1,54 @@
+---
+title: Psalm 88:15
+type: Verse
+kjv: "I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted."
+bsb: "From my youth I was afflicted and near death. I have borne Your terrors; I am in despair."
+hebrew: "עָ֘נִ֤י אֲנִ֣י וְגֹוֵ֣עַ מִנֹּ֑עַר נָשָׂ֖אתִי אֵמֶ֣יךָ אָפֽוּנָה׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H6041]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H1478]]"
+- "[[H9006]]"
+- "[[H5290]]"
+- "[[H5375H]]"
+- "[[H0367]]"
+- "[[H9021]]"
+- "[[H6323]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:15**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] afflicted and ready to die from [my] youth up: [while] I suffer thy terrors I am distracted.
 <small><sub>**BSB:**</sub></small>
 From my youth I was afflicted and near death. I have borne Your terrors; I am in despair.
+<small><sub>**Hebrew:**</sub></small>
+[[H6041\|עָ֘נִ֤י]] [[H0589\|אֲנִ֣י]] [[H9002\|וְ]][[H1478\|גֹוֵ֣עַ]] [[H9006\|מִ]][[H5290\|נֹּ֑עַר]] [[H5375H\|נָשָׂ֖אתִי]] [[H0367\|אֵמֶ֣י]][[H9021\|ךָ]] [[H6323\|אָפֽוּנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.14|<< Psalms 88:14]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.16|Psalms 88:16 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Remain in Christ
+type: Pericope
 pericope: "[[1John.2.24 Remain in Christ|Remain in Christ]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 2
 book/chapter: "[[1John.2|1 John 2]]"
-genre:
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 6
 verses:
 - "[[1John.2.24]]"
 - "[[1John.2.25]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1John.2.29]]"
 ---
 
-[[1John.2|1 John 2:24 - 1 John 2:29]]
+<small>[[1John.2|1 John 2:24-29]]</small>
 *Remain in Christ*
 
 [[1John.2.24|24]] Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.

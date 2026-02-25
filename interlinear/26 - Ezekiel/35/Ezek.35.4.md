@@ -1,8 +1,58 @@
+---
+title: Ezekiel 35:4
+type: Verse
+kjv: "I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the LORD."
+bsb: "I will turn your cities into ruins, and you will become a desolation. Then you will know that I am the LORD."
+hebrew: "עָרֶ֙יךָ֙ חָרְבָּ֣ה אָשִׂ֔ים וְאַתָּ֖ה שְׁמָמָ֣ה תִֽהְיֶ֑ה וְיָדַעְתָּ֖ כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H5892B]]"
+- "[[H9021]]"
+- "[[H2723]]"
+- "[[H7760H]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H8077A]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:4**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 I will turn your cities into ruins, and you will become a desolation. Then you will know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5892B\|עָרֶ֙י]][[H9021\|ךָ֙]] [[H2723\|חָרְבָּ֣ה]] [[H7760H\|אָשִׂ֔ים]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H8077A\|שְׁמָמָ֣ה]] [[H1961\|תִֽהְיֶ֑ה]] [[H9001\|וְ]][[H3045\|יָדַעְתָּ֖]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.3|<< Ezekiel 35:3]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.5|Ezekiel 35:5 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Mark 3:11
+type: Verse
+kjv: "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God."
+bsb: "And when the unclean spirits saw Him, they fell down before Him and cried out, “You are the Son of God!”"
+greek: "καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν, προσέπιπτον αὐτῷ καὶ ἔκραζον λέγοντες ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ."
+pericope: "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G3752]]"
+- "[[G0846]]"
+- "[[G2334]]"
+- "[[G4363]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 3:11**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.
 <small><sub>**BSB:**</sub></small>
 And when the unclean spirits saw Him, they fell down before Him and cried out, “You are the Son of God!”
-<small><sub>**Literal:**</sub></small>
-And the spirits <the> unclean, whenever Him they were seeing they were falling down before Him and they were crying out saying that You yourself are the Son <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.10|<< Mark 3:10]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.12|Mark 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4151G\|πνεύματα]]  [[G3588\|τὰ]]  [[G0169\|ἀκάθαρτα,]]  [[G3752\|ὅταν]]  [[G0846\|αὐτὸν]]  [[G2334\|ἐθεώρουν,]]  [[G4363\|προσέπιπτον]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G2896\|ἔκραζον]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.10|<< Mark 3:10]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.12|Mark 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

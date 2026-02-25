@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 7:10
+type: Verse
+kjv: "Say not thou, What is the cause that the former days were better than these? for thou dost not inquire wisely concerning this."
+bsb: "Do not say, “Why were the old days better than these?” For it is unwise of you to ask about this."
+hebrew: "אַל־ תֹּאמַר֙ מֶ֣ה הָיָ֔ה שֶׁ֤הַיָּמִים֙ הָרִ֣אשֹׁנִ֔ים הָי֥וּ טוֹבִ֖ים מֵאֵ֑לֶּה כִּ֛י לֹ֥א מֵחָכְמָ֖ה שָׁאַ֥לְתָּ עַל־ זֶֽה׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H9007]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7223H]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H2451]]"
+- "[[H7592]]"
+- "[[H5921A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:10**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say not thou, What is [the cause] that the former days were better than these? for thou dost not inquire wisely concerning this.
 <small><sub>**BSB:**</sub></small>
 Do not say, “Why were the old days better than these?” For it is unwise of you to ask about this.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0559\|תֹּאמַר֙]] [[H4100\|מֶ֣ה]] [[H1961\|הָיָ֔ה]] [[H9007\|שֶׁ֤]][[H9009\|הַ]][[H3117G\|יָּמִים֙]] [[H9009\|הָ]][[H7223H\|רִ֣אשֹׁנִ֔ים]] [[H1961\|הָי֥וּ]] [[H2896A\|טוֹבִ֖ים]] [[H9006\|מֵ]][[H0428\|אֵ֑לֶּה]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H9006\|מֵ]][[H2451\|חָכְמָ֖ה]] [[H7592\|שָׁאַ֥לְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2088\|זֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.9|<< Ecclesiastes 7:9]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.11|Ecclesiastes 7:11 >>]]</td></tr></table>
 

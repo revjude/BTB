@@ -1,8 +1,61 @@
+---
+title: Psalm 27:12
+type: Verse
+kjv: "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
+bsb: "Do not hand me over to the will of my foes, for false witnesses rise up against me, breathing out violence."
+hebrew: "אַֽל־ תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָֽמוּ־ בִ֥י עֵֽדֵי־ שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃"
+pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5315L]]"
+- "[[H6862C]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H6965J]]"
+- "[[H5707]]"
+- "[[H8267]]"
+- "[[H9002]]"
+- "[[H3307]]"
+- "[[H2555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 27:12**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.
 <small><sub>**BSB:**</sub></small>
 Do not hand me over to the will of my foes, for false witnesses rise up against me, breathing out violence.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H5414G\|תִּ֭תְּנֵ]][[H9030\|נִי]] [[H9003\|בְּ]][[H5315L\|נֶ֣פֶשׁ]] [[H6862C\|צָרָ֑]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H6965J\|קָֽמוּ]][[H9014\|־]] [[H9003\|בִ֥]][[H9030\|י]] [[H5707\|עֵֽדֵי]][[H9014\|־]] [[H8267\|שֶׁ֝֗קֶר]] [[H9002\|וִ]][[H3307\|יפֵ֥חַ]] [[H2555\|חָמָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DAVID|DAVID]] • [[topic FALSE TEACHERS|FALSE TEACHERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.11|<< Psalms 27:11]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.13|Psalms 27:13 >>]]</td></tr></table>
 

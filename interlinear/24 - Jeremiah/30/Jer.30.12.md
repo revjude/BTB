@@ -1,8 +1,56 @@
+---
+title: Jeremiah 30:12
+type: Verse
+kjv: "For thus saith the LORD, Thy bruise is incurable, and thy wound is grievous."
+bsb: "For this is what the LORD says: “Your injury is incurable; your wound is grievous."
+hebrew: "כִּ֣י כֹ֥ה אָמַ֛ר יְהוָ֖ה אָנ֣וּשׁ לְשִׁבְרֵ֑ךְ נַחְלָ֖ה מַכָּתֵֽךְ׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0605]]"
+- "[[H9005]]"
+- "[[H7667]]"
+- "[[H9022]]"
+- "[[H2470I]]"
+- "[[H4347]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:12**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Thy bruise [is] incurable, [and] thy wound [is] grievous.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “Your injury is incurable; your wound is grievous.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֖ה]] [[H0605\|אָנ֣וּשׁ]] [[H9005\|לְ]][[H7667\|שִׁבְרֵ֑]][[H9022\|ךְ]] [[H2470I\|נַחְלָ֖ה]] [[H4347\|מַכָּתֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.11|<< Jeremiah 30:11]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.13|Jeremiah 30:13 >>]]</td></tr></table>
 

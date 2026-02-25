@@ -1,8 +1,64 @@
+---
+title: Isaiah 28:28
+type: Verse
+kjv: "Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen."
+bsb: "Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it."
+hebrew: "לֶ֣חֶם יוּדָ֔ק כִּ֛י לֹ֥א לָנֶ֖צַח אָד֣וֹשׁ יְדוּשֶׁ֑נּוּ וְ֠הָמַם גִּלְגַּ֧ל עֶגְלָת֛וֹ וּפָרָשָׁ֖יו לֹֽא־ יְדֻקֶּֽנּוּ׃"
+pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CART|CART]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic THRESHING|THRESHING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3899H]]"
+- "[[H1854]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H1758]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H2000]]"
+- "[[H1536]]"
+- "[[H5699]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6571A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:28**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bread [corn] is bruised; because he will not ever be threshing it, nor break [it with] the wheel of his cart, nor bruise it [with] his horsemen.
 <small><sub>**BSB:**</sub></small>
 Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3899H\|לֶ֣חֶם]] [[H1854\|יוּדָ֔ק]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H9005\|לָ]][[H5331\|נֶ֖צַח]] [[H1758\|אָד֣וֹשׁ]] [[H1758\|יְדוּשֶׁ֑]][[H9033\|נּוּ]] [[H9001\|וְ֠]][[H2000\|הָמַם]] [[H1536\|גִּלְגַּ֧ל]] [[H5699\|עֶגְלָת֛]][[H9023\|וֹ]] [[H9002\|וּ]][[H6571A\|פָרָשָׁ֖י]][[H9023\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1854\|יְדֻקֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CART|CART]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic THRESHING|THRESHING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.27|<< Isaiah 28:27]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.29|Isaiah 28:29 >>]]</td></tr></table>
 

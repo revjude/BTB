@@ -1,8 +1,53 @@
+---
+title: Isaiah 41:28
+type: Verse
+kjv: "For I beheld, and there was no man; even among them, and there was no counseller, that, when I asked of them, could answer a word."
+bsb: "When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say."
+hebrew: "וְאֵ֙רֶא֙ וְאֵ֣ין אִ֔ישׁ וּמֵאֵ֖לֶּה וְאֵ֣ין יוֹעֵ֑ץ וְאֶשְׁאָלֵ֖ם וְיָשִׁ֥יבוּ דָבָֽר׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0369]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H3289]]"
+- "[[H7592]]"
+- "[[H9038]]"
+- "[[H7725M]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:28**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I beheld, and [there was] no man; even among them, and [there was] no counseller, that, when I asked of them, could answer a word.
 <small><sub>**BSB:**</sub></small>
 When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7200G\|אֵ֙רֶא֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וּ]][[H9006\|מֵ]][[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3289\|יוֹעֵ֑ץ]] [[H9002\|וְ]][[H7592\|אֶשְׁאָלֵ֖]][[H9038\|ם]] [[H9002\|וְ]][[H7725M\|יָשִׁ֥יבוּ]] [[H1697H\|דָבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.27|<< Isaiah 41:27]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.29|Isaiah 41:29 >>]]</td></tr></table>
 

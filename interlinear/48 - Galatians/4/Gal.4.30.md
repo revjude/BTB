@@ -1,10 +1,61 @@
+---
+title: Galatians 4:30
+type: Verse
+kjv: "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman."
+bsb: "But what does the Scripture say? “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.”"
+greek: "ἀλλὰ τί λέγει ἡ γραφή; ἔκβαλε τὴν παιδίσκην καὶ τὸν υἱὸν αὐτῆς, οὐ γὰρ μὴ κληρονομήσει ὁ υἱὸς τῆς παιδίσκης μετὰ τοῦ υἱοῦ τῆς ἐλευθέρας."
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G1544]]"
+- "[[G3814]]"
+- "[[G2532]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G3361]]"
+- "[[G2816]]"
+- "[[G3326]]"
+- "[[G1658]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 4:30**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
 <small><sub>**BSB:**</sub></small>
 But what does the Scripture say? “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.”
-<small><sub>**Literal:**</sub></small>
-But what says the Scripture? do cast out the slave woman and the son of her, certainly for not will inherit the son of the slave woman along with the son of the free.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.29|<< Galatians 4:29]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.31|Galatians 4:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G3004G\|λέγει]]  [[G3588\|ἡ]]  [[G1124\|γραφή;]]  [[G1544\|ἔκβαλε]]  [[G3588\|τὴν]]  [[G3814\|παιδίσκην]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτῆς,]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3361\|μὴ]]  [[G2816\|κληρονομήσει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τῆς]]  [[G3814\|παιδίσκης]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τῆς]]  [[G1658\|ἐλευθέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic HEIR|HEIR]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic PARABLES|PARABLES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.29|<< Galatians 4:29]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.31|Galatians 4:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 4:30** is...
 > $\quad$ referencing: [[LXX.Gen.21.10|Gen 21:10]]

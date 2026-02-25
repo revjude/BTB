@@ -1,8 +1,51 @@
+---
+title: Ezekiel 32:28
+type: Verse
+kjv: "Yea, thou shalt be broken in the midst of the uncircumcised, and shalt lie with them that are slain with the sword."
+bsb: "But you too will be shattered and lie down among the uncircumcised, with those slain by the sword."
+hebrew: "וְאַתָּ֗ה בְּת֧וֹךְ עֲרֵלִ֛ים תִּשָּׁבַ֥ר וְתִשְׁכַּ֖ב אֶת־ חַלְלֵי־ חָֽרֶב׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H6189]]"
+- "[[H7665]]"
+- "[[H7901J]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2491A]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:28**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thou shalt be broken in the midst of the uncircumcised, and shalt lie with [them that are] slain with the sword.
 <small><sub>**BSB:**</sub></small>
 But you too will be shattered and lie down among the uncircumcised, with those slain by the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H9003\|בְּ]][[H8432\|ת֧וֹךְ]] [[H6189\|עֲרֵלִ֛ים]] [[H7665\|תִּשָּׁבַ֥ר]] [[H9002\|וְ]][[H7901J\|תִשְׁכַּ֖ב]] [[H0854\|אֶת]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.27|<< Ezekiel 32:27]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.29|Ezekiel 32:29 >>]]</td></tr></table>
 

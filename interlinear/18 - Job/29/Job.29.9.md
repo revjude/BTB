@@ -1,8 +1,48 @@
+---
+title: Job 29:9
+type: Verse
+kjv: "The princes refrained talking, and laid their hand on their mouth."
+bsb: "The princes refrained from speaking and covered their mouths with their hands."
+hebrew: "שָׂ֭רִים עָצְר֣וּ בְמִלִּ֑ים וְ֝כַ֗ף יָשִׂ֥ימוּ לְפִיהֶֽם׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H8269]]"
+- "[[H6113]]"
+- "[[H9003]]"
+- "[[H4405]]"
+- "[[H9002]]"
+- "[[H3709G]]"
+- "[[H7760H]]"
+- "[[H9005]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:9**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes refrained talking, and laid [their] hand on their mouth.
 <small><sub>**BSB:**</sub></small>
 The princes refrained from speaking and covered their mouths with their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שָׂ֭רִים]] [[H6113\|עָצְר֣וּ]] [[H9003\|בְ]][[H4405\|מִלִּ֑ים]] [[H9002\|וְ֝]][[H3709G\|כַ֗ף]] [[H7760H\|יָשִׂ֥ימוּ]] [[H9005\|לְ]][[H6310G\|פִי]][[H9028\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.8|<< Job 29:8]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.10|Job 29:10 >>]]</td></tr></table>
 

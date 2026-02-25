@@ -1,8 +1,57 @@
+---
+title: Psalm 34:17
+type: Verse
+kjv: "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles."
+bsb: "The righteous cry out, and the LORD hears; He delivers them from all their troubles."
+hebrew: "צָעֲק֣וּ וַיהוָ֣ה שָׁמֵ֑עַ וּמִכָּל־ צָ֝רוֹתָ֗ם הִצִּילָֽם׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H6817]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6869B]]"
+- "[[H9028]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:17**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The righteous] cry, and the LORD heareth, and delivereth them out of all their troubles.
 <small><sub>**BSB:**</sub></small>
 The righteous cry out, and the LORD hears; He delivers them from all their troubles.
+<small><sub>**Hebrew:**</sub></small>
+[[H6817\|צָעֲק֣וּ]] [[H9002\|וַ]][[H3068G\|יהוָ֣ה]] [[H8085G\|שָׁמֵ֑עַ]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6869B\|צָ֝רוֹתָ֗]][[H9028\|ם]] [[H5337\|הִצִּילָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.16|<< Psalms 34:16]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.18|Psalms 34:18 >>]]</td></tr></table>
 

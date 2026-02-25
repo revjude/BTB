@@ -1,10 +1,54 @@
+---
+title: Acts 23:13
+type: Verse
+kjv: "And they were more than forty which had made this conspiracy."
+bsb: "More than forty of them were involved in this plot."
+greek: "ἦσαν δὲ πλείους τεσσεράκοντα οἱ ταύτην τὴν συνωμοσίαν ποιησάμενοι·"
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G5062]]"
+- "[[G3588]]"
+- "[[G3778]]"
+- "[[G4945]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 23:13**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were more than forty which had made this conspiracy.
 <small><sub>**BSB:**</sub></small>
 More than forty of them were involved in this plot.
-<small><sub>**Literal:**</sub></small>
-There were now more than forty <the> this <the> plot having made;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.12|<< Acts 23:12]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.14|Acts 23:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G4183\|πλείους]]  [[G5062\|τεσσεράκοντα]]  [[G3588\|οἱ]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G4945\|συνωμοσίαν]]  [[G4160G\|ποιησάμενοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OATH|OATH]] • [[topic PAUL|PAUL]] • [[topic VOWS|VOWS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.12|<< Acts 23:12]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.14|Acts 23:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

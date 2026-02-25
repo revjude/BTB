@@ -1,6 +1,74 @@
+---
+title: LXX 2 Kings 21:8
+type: Verse
+lxx: "And I will not proceed to shake the foot of Israel from the land which I gave to their fathers; only if they should guard  to do according to all which I gave charge to them, according to every  law which Moses my servant gave charge to them."
+greek: "και ου προσθήσω σαλεύσαι τον πόδα Ισραήλ από της γης ης έδωκα τοις πατράσιν αυτών πλην εάν φυλάξωνται του ποιείν κατά πάντα α ενετειλάμην αυτοίς κατά πάντα τον νόμον ον ενετείλατο αυτοίς ο δούλος μου Μωυσής"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4369]]"
+- "[[G4531]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G2474]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G4133]]"
+- "[[G1437]]"
+- "[[G5442]]"
+- "[[G3588]]"
+- "[[G4160]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3739]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G3475]]"
+---
+
 **LXX 2 Kings 21:8** 
 <small><sub>**LXX:**</sub></small>
 And I will not proceed to shake the foot of Israel from the land which I gave \[to\] their fathers; only if they should guard  to do according to all which I gave charge to them, according to every  law which Moses my servant gave charge to them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3756\|ου]] [[G4369\|προσθήσω]] [[G4531\|σαλεύσαι]] [[G3588\|τον]] [[G4228\|πόδα]] [[G2474\|Ισραήλ]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G3739\|ης]] [[G1325\|έδωκα]] [[G3588\|τοις]] [[G3962\|πατράσιν]] [[G1473\|αυτών]] [[G4133\|πλην]] [[G1437\|εάν]] [[G5442\|φυλάξωνται]] [[G3588\|του]] [[G4160\|ποιείν]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3739\|α]] [[G1781\|ενετειλάμην]] [[G1473\|αυτοίς]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3588\|τον]] [[G3551\|νόμον]] [[G3739\|ον]] [[G1781\|ενετείλατο]] [[G1473\|αυτοίς]] [[G3588\|ο]] [[G1401\|δούλος]] [[G1473\|μου]] [[G3475\|Μωυσής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
 
@@ -39,6 +107,6 @@ And I will not proceed to shake the foot of Israel from the land which I gave \[
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | my servant | **<big>[[G1401\|δούλος]]</big>** **<big>[[G1473\|μου]]</big>** |
 | Moses | **<big>[[G3475\|Μωυσής]]</big>** |
-[[2Kgs.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
 
 

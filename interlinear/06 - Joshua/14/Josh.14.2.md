@@ -1,8 +1,54 @@
+---
+title: Joshua 14:2
+type: Verse
+kjv: "By lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and for the half tribe."
+bsb: "Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses."
+hebrew: "בְּגוֹרַ֖ל נַחֲלָתָ֑ם כַּאֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ בְּיַד־ מֹשֶׁ֔ה לְתִשְׁעַ֥ת הַמַּטּ֖וֹת וַחֲצִ֥י הַמַּטֶּֽה׃"
+pericope: "[[Josh.14.1 Land Division West of the Jordan|Land Division West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H5159]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H8672]]"
+- "[[H9009]]"
+- "[[H4294H]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:2**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By lot [was] their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and [for] the half tribe.
 <small><sub>**BSB:**</sub></small>
 Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1486\|גוֹרַ֖ל]] [[H5159\|נַחֲלָתָ֑]][[H9028\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לְ]][[H8672\|תִשְׁעַ֥ת]] [[H9009\|הַ]][[H4294H\|מַּטּ֖וֹת]] [[H9002\|וַ]][[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4294H\|מַּטֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.1|<< Joshua 14:1]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.3|Joshua 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

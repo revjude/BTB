@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 23:27
+type: Verse
+kjv: "For by the last words of David the Levites were numbered from twenty years old and above:"
+bsb: "For according to the final instructions of David, the Levites twenty years of age or older were counted,"
+hebrew: "כִּ֣י בְדִבְרֵ֤י דָוִיד֙ הָאַ֣חֲרֹנִ֔ים הֵ֖מָּה מִסְפַּ֣ר בְּנֵי־ לֵוִ֑י מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וּלְמָֽעְלָה׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H0314]]"
+- "[[H1992]]"
+- "[[H4557]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3878]]"
+- "[[H9006]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:27**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For by the last words of David the Levites [were] numbered from twenty years old and above:
 <small><sub>**BSB:**</sub></small>
 For according to the final instructions of David, the Levites twenty years of age or older were counted,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H1697G\|דִבְרֵ֤י]] [[H1732\|דָוִיד֙]] [[H9009\|הָ]][[H0314\|אַ֣חֲרֹנִ֔ים]] [[H1992\|הֵ֖מָּה]] [[H4557\|מִסְפַּ֣ר]] [[H1121L\|בְּנֵי]][[H9014\|־]] [[H3878\|לֵוִ֑י]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.26|<< 1 Chronicles 23:26]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.28|1 Chronicles 23:28 >>]]</td></tr></table>
 

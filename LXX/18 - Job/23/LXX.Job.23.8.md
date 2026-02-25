@@ -1,6 +1,50 @@
+---
+title: LXX Job 23:8
+type: Verse
+lxx: "For at first I shall go, and no longer am I; and the things of the latter end, what do I know?"
+greek: "εις γαρ πρώτα πορεύσομαι και ουκέτι ειμί τα δε επ΄ εσχάτοις τι οίδα"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1487]]"
+- "[[G1063]]"
+- "[[G4413]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3765]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G2078]]"
+- "[[G5100]]"
+- "[[G1492]]"
+---
+
 **LXX Job 23:8** 
 <small><sub>**LXX:**</sub></small>
 For at first I shall go, and no longer am I; and the \[things\] of \[the\] latter end, what do I know? 
+<small><sub>**Greek:**</sub></small>
+[[G1487\|εις]] [[G1063\|γαρ]] [[G4413\|πρώτα]] [[G4198\|πορεύσομαι]] [[G2532\|και]] [[G3765\|ουκέτι]] [[G1510\|ειμί]] [[G3588\|τα]] [[G1161\|δε]] [[G1909\|επ΄]] [[G2078\|εσχάτοις]] [[G5100\|τι]] [[G1492\|οίδα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.7|<< Job 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.9|Job 23:9 >>]]</td></tr></table>
 
@@ -17,6 +61,6 @@ For at first I shall go, and no longer am I; and the \[things\] of \[the\] latte
 | \[the\] latter end, | **<big>[[G2078\|εσχάτοις]]</big>** |
 | what | **<big>[[G5100\|τι]]</big>** |
 | do I know? | **<big>[[G1492\|οίδα]]</big>** |
-[[Job.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.7|<< Job 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.9|Job 23:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.7|<< Job 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.9|Job 23:9 >>]]</td></tr></table>
 
 

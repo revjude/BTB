@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 1:7
+type: Verse
+kjv: "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+bsb: "Therefore you do not lack any spiritual gift as you eagerly await the revelation of our Lord Jesus Christ."
+greek: "ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι ἀπεκδεχομένους τὴν ἀποκάλυψιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ·"
+pericope: "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G5620]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G5302]]"
+- "[[G1722]]"
+- "[[G3367]]"
+- "[[G5486]]"
+- "[[G0553]]"
+- "[[G3588]]"
+- "[[G0602]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:7**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Therefore you do not lack any spiritual gift as you eagerly await the revelation of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-so as for you not to be lacking in not one gift eagerly awaiting the revelation of the Lord of us Jesus Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.6|<< 1 Corinthians 1:6]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.8|1 Corinthians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G4771\|ὑμᾶς]]  [[G3361\|μὴ]]  [[G5302\|ὑστερεῖσθαι]]  [[G1722\|ἐν]]  [[G3367\|μηδενὶ]]  [[G5486\|χαρίσματι]]  [[G0553\|ἀπεκδεχομένους]]  [[G3588\|τὴν]]  [[G0602\|ἀποκάλυψιν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAITING|WAITING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.6|<< 1 Corinthians 1:6]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.8|1 Corinthians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

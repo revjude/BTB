@@ -1,10 +1,72 @@
+---
+title: Matthew 19:28
+type: Verse
+kjv: "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel."
+bsb: "Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel."
+jesus_said: "Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· ἀμὴν λέγω ὑμῖν ὅτι ὑμεῖς οἱ ἀκολουθήσαντές μοι ἐν τῇ παλιγγενεσίᾳ, ὅταν καθίσῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ θρόνου δόξης αὐτοῦ, καθήσεσθε καὶ ὑμεῖς ἐπὶ δώδεκα θρόνους κρίνοντες τὰς δώδεκα φυλὰς τοῦ Ἰσραήλ.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0190]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3824]]"
+- "[[G3752]]"
+- "[[G2523]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G1391]]"
+- "[[G2521]]"
+- "[[G2532]]"
+- "[[G1427]]"
+- "[[G2919]]"
+- "[[G5443]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Matthew 19:28**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to them; Amen I say to you that you yourselves who having followed Me in the regeneration, when may sit down the Son <the> of Man upon [the] throne of glory of Him, will sit also you yourselves on twelve thrones judging the twelve tribes <the> of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.27|<< Matthew 19:27]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.29|Matthew 19:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G4771\|ὑμεῖς]]  [[G3588\|οἱ]]  [[G0190\|ἀκολουθήσαντές]]  [[G3165\|μοι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3824\|παλιγγενεσίᾳ,]]  [[G3752\|ὅταν]]  [[G2523\|καθίσῃ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1909\|ἐπὶ]]  [[G2362\|θρόνου]]  [[G1391\|δόξης]]  [[G0846\|αὐτοῦ,]]  [[G2521\|καθήσεσθε]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G1909\|ἐπὶ]]  [[G1427\|δώδεκα]]  [[G2362\|θρόνους]]  [[G2919\|κρίνοντες]]  [[G3588\|τὰς]]  [[G1427\|δώδεκα]]  [[G5443\|φυλὰς]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICHES|RICHES]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.27|<< Matthew 19:27]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.29|Matthew 19:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

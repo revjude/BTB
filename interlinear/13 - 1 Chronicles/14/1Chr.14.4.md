@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 14:4
+type: Verse
+kjv: "Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,"
+bsb: "These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"
+hebrew: "וְאֵ֙לֶּה֙ שְׁמ֣וֹת הַיְלוּדִ֔ים אֲשֶׁ֥ר הָיוּ־ ל֖וֹ בִּירוּשָׁלִָ֑ם שַׁמּ֣וּעַ וְשׁוֹבָ֔ב נָתָ֖ן וּשְׁלֹמֹֽה׃"
+pericope: "[[1Chr.14.1 David’s Family Grows|David’s Family Grows]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SHAMMUAH|SHAMMUAH]]"
+- "[[topic SHOBAB|SHOBAB]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H8051H]]"
+- "[[H7727G]]"
+- "[[H5416G]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:4**<big><big>[[1Chr.14.1 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the names of [his] children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,
 <small><sub>**BSB:**</sub></small>
 These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H8034\|שְׁמ֣וֹת]] [[H9009\|הַ]][[H3205\|יְלוּדִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָיוּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H8051H\|שַׁמּ֣וּעַ]] [[H9002\|וְ]][[H7727G\|שׁוֹבָ֔ב]] [[H5416G\|נָתָ֖ן]] [[H9002\|וּ]][[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic NATHAN|NATHAN]] • [[topic SHAMMUAH|SHAMMUAH]] • [[topic SHOBAB|SHOBAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.3|<< 1 Chronicles 14:3]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.5|1 Chronicles 14:5 >>]]</td></tr></table>
 

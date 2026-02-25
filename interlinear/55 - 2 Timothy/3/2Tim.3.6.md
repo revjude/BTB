@@ -1,10 +1,70 @@
+---
+title: 2 Timothy 3:6
+type: Verse
+kjv: "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,"
+bsb: "They are the kind who worm their way into households and captivate vulnerable women who are weighed down with sins and led astray by various passions,"
+greek: "ἐκ τούτων γάρ εἰσιν οἱ ἐνδύνοντες εἰς τὰς οἰκίας καὶ αἰχμαλωτίζοντες τὰ γυναικάρια σεσωρευμένα ἁμαρτίαις, ἀγόμενα ἐπιθυμίαις ποικίλαις,"
+pericope: "[[2Tim.3.1 Evil in the Last Days|Evil in the Last Days]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1537]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1744]]"
+- "[[G1519]]"
+- "[[G3614H]]"
+- "[[G2532]]"
+- "[[G0163]]"
+- "[[G1133]]"
+- "[[G4987]]"
+- "[[G0266]]"
+- "[[G0071]]"
+- "[[G1939]]"
+- "[[G4164]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **2 Timothy 3:6**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 <small><sub>**BSB:**</sub></small>
 They are the kind who worm their way into households and captivate vulnerable women who are weighed down with sins and led astray by various passions,
-<small><sub>**Literal:**</sub></small>
-Out of this sort for are those entering into <the> households and being captured <the> weak women burdened with sins, being led away by passions various,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.5|<< 2 Timothy 3:5]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.7|2 Timothy 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G3778\|τούτων]]  [[G1063\|γάρ]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G1744\|ἐνδύνοντες]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G3614H\|οἰκίας]]  [[G2532\|καὶ]]  [[G0163\|αἰχμαλωτίζοντες]]  [[G3588\|τὰ]]  [[G1133\|γυναικάρια]]  [[G4987\|σεσωρευμένα]]  [[G0266\|ἁμαρτίαις,]]  [[G0071\|ἀγόμενα]]  [[G1939\|ἐπιθυμίαις]]  [[G4164\|ποικίλαις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFECTIONS|AFFECTIONS]] • [[topic APOSTASY|APOSTASY]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic CHARACTER|CHARACTER]] • [[topic DOCTRINES|DOCTRINES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEDUCTION|SEDUCTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.5|<< 2 Timothy 3:5]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.7|2 Timothy 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: 2 Kings 16:19
+type: Verse
+kjv: "Now the rest of the acts of Ahaz which he did, are they not written in the book of the chronicles of the kings of Judah?"
+bsb: "As for the rest of the acts of Ahaz, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?"
+hebrew: "וְיֶ֛תֶר דִּבְרֵ֥י אָחָ֖ז אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יְהוּדָֽה׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H0271G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:19**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Ahaz which he did, [are] they not written in the book of the chronicles of the kings of Judah?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Ahaz, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֛תֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H0271G\|אָחָ֖ז]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֑ה]] [[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.18|<< 2 Kings 16:18]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.20|2 Kings 16:20 >>]]</td></tr></table>
 

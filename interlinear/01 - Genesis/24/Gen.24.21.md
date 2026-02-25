@@ -1,8 +1,61 @@
+---
+title: Genesis 24:21
+type: Verse
+kjv: "And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not."
+bsb: "Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success."
+hebrew: "וְהָאִ֥ישׁ מִשְׁתָּאֵ֖ה לָ֑הּ מַחֲרִ֕ישׁ לָדַ֗עַת הַֽהִצְלִ֧יחַ יְהוָ֛ה דַּרְכּ֖וֹ אִם־ לֹֽא׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H7583]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2790B]]"
+- "[[H3045]]"
+- "[[H9008]]"
+- "[[H6743B]]"
+- "[[H3068G]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:21**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H7583\|מִשְׁתָּאֵ֖ה]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H2790B\|מַחֲרִ֕ישׁ]] [[H9005\|לָ]][[H3045\|דַ֗עַת]] [[H9008\|הַֽ]][[H6743B\|הִצְלִ֧יחַ]] [[H3068G\|יְהוָ֛ה]] [[H1870L\|דַּרְכּ֖]][[H9023\|וֹ]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.20|<< Genesis 24:20]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.22|Genesis 24:22 >>]]</td></tr></table>
 

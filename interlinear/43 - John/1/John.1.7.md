@@ -1,10 +1,57 @@
+---
+title: John 1:7
+type: Verse
+kjv: "The same came for a witness, to bear witness of the Light, that all men through him might believe."
+bsb: "He came as a witness to testify about the Light, so that through him everyone might believe."
+greek: "οὗτος ἦλθεν εἰς μαρτυρίαν ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν δι᾽ αὐτοῦ."
+pericope: "[[John.1.6 The Witness of John|The Witness of John]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3778]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3141]]"
+- "[[G2443]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1223]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 1:7**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same came for a witness, to bear witness of the Light, that all [men] through him might believe.
 <small><sub>**BSB:**</sub></small>
 He came as a witness to testify about the Light, so that through him everyone might believe.
-<small><sub>**Literal:**</sub></small>
-He came as a witness that he may testify concerning the Light, that all may believe through him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.6|<< John 1:6]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.8|John 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3141\|μαρτυρίαν]]  [[G2443\|ἵνα]]  [[G3140\|μαρτυρήσῃ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G5457\|φωτός,]]  [[G2443\|ἵνα]]  [[G3956\|πάντες]]  [[G4100\|πιστεύσωσιν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LIGHT|LIGHT]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.6|<< John 1:6]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.8|John 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

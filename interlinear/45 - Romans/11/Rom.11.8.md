@@ -1,10 +1,60 @@
+---
+title: Romans 11:8
+type: Verse
+kjv: "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day."
+bsb: "as it is written: “God gave them a spirit of stupor, eyes that could not see, and ears that could not hear, to this very day.”"
+greek: "καθὼς γέγραπται· ἔδωκεν αὐτοῖς ὁ θεὸς πνεῦμα κατανύξεως, ὀφθαλμοὺς τοῦ μὴ βλέπειν καὶ ὦτα τοῦ μὴ ἀκούειν ἕως τῆς σήμερον ἡμέρας."
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4151G]]"
+- "[[G2659]]"
+- "[[G3788]]"
+- "[[G3361]]"
+- "[[G0991]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G2193]]"
+- "[[G4594]]"
+- "[[G2250]]"
+texts:
+- NK(o)
+- NKO
+---
+
 **Romans 11:8**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
 <small><sub>**BSB:**</sub></small>
 as it is written: “God gave them a spirit of stupor, eyes that could not see, and ears that could not hear, to this very day.”
-<small><sub>**Literal:**</sub></small>
-even as it has been written: Gave to them <the> God a spirit of stupor, eyes <the> not to see and ears <the> not to hear unto the today day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.7|<< Romans 11:7]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.9|Romans 11:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4151G\|πνεῦμα]]  [[G2659\|κατανύξεως,]]  [[G3788\|ὀφθαλμοὺς]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G0991\|βλέπειν]]  [[G2532\|καὶ]]  [[G3775\|ὦτα]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G0191\|ἀκούειν]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G4594\|σήμερον]]  [[G2250\|ἡμέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROBACY|REPROBACY]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.7|<< Romans 11:7]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.9|Romans 11:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:8** is...
 > $\quad$ referencing: [[LXX.Deut.29.4|Deut 29:4]] ☩ [[LXX.Isa.29.10|Isa 29:10]]

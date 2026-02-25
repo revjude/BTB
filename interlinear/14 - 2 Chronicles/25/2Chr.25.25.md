@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 25:25
+type: Verse
+kjv: "And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years."
+bsb: "Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel."
+hebrew: "וַיְחִ֨י אֲמַצְיָ֤הוּ בֶן־ יוֹאָשׁ֙ מֶ֣לֶךְ יְהוּדָ֔ה אַחֲרֵ֣י מ֔וֹת יוֹאָ֥שׁ בֶּן־ יְהוֹאָחָ֖ז מֶ֣לֶךְ יִשְׂרָאֵ֑ל חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃"
+pericope: "[[2Chr.25.25 The Death of Amaziah|The Death of Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0558G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3101I]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H3059G]]"
+- "[[H3478]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:25**<big><big>[[2Chr.25.25 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
 <small><sub>**BSB:**</sub></small>
 Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֨י]] [[H0558G\|אֲמַצְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3101I\|יוֹאָשׁ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H0310A\|אַחֲרֵ֣י]] [[H4194\|מ֔וֹת]] [[H3101I\|יוֹאָ֥שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3059G\|יְהוֹאָחָ֖ז]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2568\|חֲמֵ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 

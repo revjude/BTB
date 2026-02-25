@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Execution of the Idolaters
+type: Pericope
 pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 9
 book/chapter: "[[Ezek.9|Ezekiel 9]]"
-genre:
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 11
 verses:
 - "[[Ezek.9.1]]"
 - "[[Ezek.9.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezek.9.11]]"
 ---
 
-[[Ezek.9|Ezekiel 9:1 - Ezekiel 9:11]]
+<small>[[Ezek.9|Ezekiel 9:1-11]]</small>
 *Execution of the Idolaters*
 
 [[Ezek.9.1|1]] He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man \[with\] his destroying weapon in his hand.

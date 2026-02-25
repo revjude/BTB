@@ -1,8 +1,53 @@
+---
+title: Amos 6:9
+type: Verse
+kjv: "And it shall come to pass, if there remain ten men in one house, that they shall die."
+bsb: "And if there are ten men left in one house, they too will die."
+hebrew: "וְהָיָ֗ה אִם־ יִוָּ֨תְר֜וּ עֲשָׂרָ֧ה אֲנָשִׁ֛ים בְּבַ֥יִת אֶחָ֖ד וָמֵֽתוּ׃"
+pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3498]]"
+- "[[H6235]]"
+- "[[H0582]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0259]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:9**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if there remain ten men in one house, that they shall die.
 <small><sub>**BSB:**</sub></small>
 And if there are ten men left in one house, they too will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3498\|יִוָּ֨תְר֜וּ]] [[H6235\|עֲשָׂרָ֧ה]] [[H0582\|אֲנָשִׁ֛ים]] [[H9003\|בְּ]][[H1004B\|בַ֥יִת]] [[H0259\|אֶחָ֖ד]] [[H9001\|וָ]][[H4191\|מֵֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.8|<< Amos 6:8]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.10|Amos 6:10 >>]]</td></tr></table>
 

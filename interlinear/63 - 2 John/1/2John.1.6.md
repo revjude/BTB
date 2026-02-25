@@ -1,10 +1,52 @@
+---
+title: 2 John 1:6
+type: Verse
+kjv: "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it."
+bsb: "And this is love, that we walk according to His commandments. This is the very commandment you have heard from the beginning, that you must walk in love."
+greek: "καὶ αὕτη ἐστὶν ἡ ἀγάπη ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ. αὕτη ἡ ἐντολή ἐστιν καθὼς ἠκούσατε ἀπ᾽ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε·"
+pericope: "[[2John.1.4 Walking in the Truth|Walking in the Truth]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G2443]]"
+- "[[G4043]]"
+- "[[G2596]]"
+- "[[G1785]]"
+- "[[G0846]]"
+- "[[G2531]]"
+- "[[G0191]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G1722]]"
+texts:
+- NKO
+---
+
 **2 John 1:6**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
 <small><sub>**BSB:**</sub></small>
 And this is love, that we walk according to His commandments. This is the very commandment you have heard from the beginning, that you must walk in love.
-<small><sub>**Literal:**</sub></small>
-And this is <the> love that we may walk according to the commandments of Him. This the commandment is even as you have heard from [the] beginning, so that in it you may walk;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.5|<< 2 John 1:5]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.7|2 John 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G2443\|ἵνα]]  [[G4043\|περιπατῶμεν]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G0846\|αὐτοῦ.]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G1785\|ἐντολή]]  [[G1510\|ἐστιν]]  [[G2531\|καθὼς]]  [[G0191\|ἠκούσατε]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G4043\|περιπατῆτε·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.5|<< 2 John 1:5]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.7|2 John 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

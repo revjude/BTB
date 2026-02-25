@@ -1,8 +1,62 @@
+---
+title: Numbers 1:49
+type: Verse
+kjv: "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:"
+bsb: "“Do not number the tribe of Levi in the census with the other Israelites."
+hebrew: "אַ֣ךְ אֶת־ מַטֵּ֤ה לֵוִי֙ לֹ֣א תִפְקֹ֔ד וְאֶת־ רֹאשָׁ֖ם לֹ֣א תִשָּׂ֑א בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.1.47 The Exemption of the Levites|The Exemption of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4294H]]"
+- "[[H3878]]"
+- "[[H3808]]"
+- "[[H6485A]]"
+- "[[H9002]]"
+- "[[H7218L]]"
+- "[[H9028]]"
+- "[[H5375V]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:49**<big><big>[[Num.1.47 The Exemption of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:
 <small><sub>**BSB:**</sub></small>
 “Do not number the tribe of Levi in the census with the other Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H4294H\|מַטֵּ֤ה]] [[H3878\|לֵוִי֙]] [[H3808\|לֹ֣א]] [[H6485A\|תִפְקֹ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7218L\|רֹאשָׁ֖]][[H9028\|ם]] [[H3808\|לֹ֣א]] [[H5375V\|תִשָּׂ֑א]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.48|<< Numbers 1:48]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.50|Numbers 1:50 >>]]</td></tr></table>
 

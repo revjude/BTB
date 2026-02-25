@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jotham Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.15.32 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.15.32]]"
 - "[[2Kgs.15.33]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.15.38]]"
 ---
 
-[[2Kgs.15|2 Kings 15:32 - 2 Kings 15:38]]
+<small>[[2Kgs.15|2 Kings 15:32-38]]</small>
 *Jotham Reigns in Judah*
 
 [[2Kgs.15.32|32]] In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign.

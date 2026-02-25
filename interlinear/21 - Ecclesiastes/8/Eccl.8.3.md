@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 8:3
+type: Verse
+kjv: "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him."
+bsb: "Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases."
+hebrew: "אַל־ תִּבָּהֵ֤ל מִפָּנָיו֙ תֵּלֵ֔ךְ אַֽל־ תַּעֲמֹ֖ד בְּדָבָ֣ר רָ֑ע כִּ֛י כָּל־ אֲשֶׁ֥ר יַחְפֹּ֖ץ יַעֲשֶֽׂה׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic KING|KING]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0926]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H1697L]]"
+- "[[H7451H]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H2654A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:3**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
 <small><sub>**BSB:**</sub></small>
 Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0926\|תִּבָּהֵ֤ל]] [[H9006\|מִ]][[H6440H\|פָּנָי]][[H9023\|ו֙]] [[H1980G\|תֵּלֵ֔ךְ]] [[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹ֖ד]] [[H9003\|בְּ]][[H1697L\|דָבָ֣ר]] [[H7451H\|רָ֑ע]] [[H3588A\|כִּ֛י]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H2654A\|יַחְפֹּ֖ץ]] [[H6213A\|יַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic KING|KING]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 

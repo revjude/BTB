@@ -1,10 +1,62 @@
+---
+title: Mark 1:19
+type: Verse
+kjv: "And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets."
+bsb: "Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets."
+greek: "Καὶ προβὰς ἐκεῖθεν ὀλίγον εἶδεν Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,"
+pericope: "[[Mark.1.16 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G4260]]"
+- "[[G1564]]"
+- "[[G3641]]"
+- "[[G1492H]]"
+- "[[G2385G]]"
+- "[[G3588]]"
+- "[[G2199G]]"
+- "[[G2491H]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4143]]"
+- "[[G2675]]"
+- "[[G1350]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 1:19**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had gone a little further thence, he saw James the [son] of Zebedee, and John his brother, who also were in the ship mending their nets.
 <small><sub>**BSB:**</sub></small>
 Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets.
-<small><sub>**Literal:**</sub></small>
-And having gone on from there a little He saw James the [son] <the> of Zebedee and John the brother of him, and they [were] in the boat adjusting the nets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.18|<< Mark 1:18]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.20|Mark 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4260\|προβὰς]]  [[G1564\|ἐκεῖθεν]]  [[G3641\|ὀλίγον]]  [[G1492H\|εἶδεν]]  [[G2385G\|Ἰάκωβον]]  [[G3588\|τὸν]]  [[G3588\|τοῦ]]  [[G2199G\|Ζεβεδαίου]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4143\|πλοίῳ]]  [[G2675\|καταρτίζοντας]]  [[G3588\|τὰ]]  [[G1350\|δίκτυα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FISHERMEN|FISHERMEN]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.18|<< Mark 1:18]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.20|Mark 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

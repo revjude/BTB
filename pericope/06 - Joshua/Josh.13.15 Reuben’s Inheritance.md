@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reuben’s Inheritance
+type: Pericope
 pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 13
 book/chapter: "[[Josh.13|Joshua 13]]"
-genre:
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 9
 verses:
 - "[[Josh.13.15]]"
 - "[[Josh.13.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Josh.13.23]]"
 ---
 
-[[Josh.13|Joshua 13:15 - Joshua 13:23]]
+<small>[[Josh.13|Joshua 13:15-23]]</small>
 *Reuben’s Inheritance*
 
 [[Josh.13.15|15]] And Moses gave unto the tribe of the children of Reuben \[inheritance\] according to their families.

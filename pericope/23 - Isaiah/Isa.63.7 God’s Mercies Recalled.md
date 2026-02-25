@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Mercies Recalled
+type: Pericope
 pericope: "[[Isa.63.7 God’s Mercies Recalled|God’s Mercies Recalled]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 63
 book/chapter: "[[Isa.63|Isaiah 63]]"
-genre:
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.63.7]]"
 - "[[Isa.63.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.63.14]]"
 ---
 
-[[Isa.63|Isaiah 63:7 - Isaiah 63:14]]
+<small>[[Isa.63|Isaiah 63:7-14]]</small>
 *God’s Mercies Recalled*
 
 [[Isa.63.7|7]] I will mention the lovingkindnesses of the LORD, \[and\] the praises of the LORD, according to all that the LORD hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.

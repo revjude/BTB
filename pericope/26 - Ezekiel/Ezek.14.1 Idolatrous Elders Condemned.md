@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Idolatrous Elders Condemned
+type: Pericope
 pericope: "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 14
 book/chapter: "[[Ezek.14|Ezekiel 14]]"
-genre:
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 11
 verses:
 - "[[Ezek.14.1]]"
 - "[[Ezek.14.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezek.14.11]]"
 ---
 
-[[Ezek.14|Ezekiel 14:1 - Ezekiel 14:11]]
+<small>[[Ezek.14|Ezekiel 14:1-11]]</small>
 *Idolatrous Elders Condemned*
 
 [[Ezek.14.1|1]] Then came certain of the elders of Israel unto me, and sat before me.

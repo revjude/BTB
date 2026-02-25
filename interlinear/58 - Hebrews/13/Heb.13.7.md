@@ -1,10 +1,59 @@
+---
+title: Hebrews 13:7
+type: Verse
+kjv: "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation."
+bsb: "Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith."
+greek: "Μνημονεύετε τῶν ἡγουμένων ὑμῶν, οἵτινες ἐλάλησαν ὑμῖν τὸν λόγον τοῦ θεοῦ, ὧν ἀναθεωροῦντες τὴν ἔκβασιν τῆς ἀναστροφῆς, μιμεῖσθε τὴν πίστιν.¶"
+pericope: "[[Heb.13.5 Christ’s Unchanging Nature|Christ’s Unchanging Nature]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G3421]]"
+- "[[G3588]]"
+- "[[G2233]]"
+- "[[G4771]]"
+- "[[G3748]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G0333]]"
+- "[[G1545]]"
+- "[[G0391]]"
+- "[[G3401]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:7**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of [their] conversation.
 <small><sub>**BSB:**</sub></small>
 Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith.
-<small><sub>**Literal:**</sub></small>
-do remember those leading you, who spoke to you the word of the God, of whom considering the outcome of [their] way of life, do imitate the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.6|<< Hebrews 13:6]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.8|Hebrews 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3421\|Μνημονεύετε]]  [[G3588\|τῶν]]  [[G2233\|ἡγουμένων]]  [[G4771\|ὑμῶν,]]  [[G3748\|οἵτινες]]  [[G2980\|ἐλάλησαν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3739\|ὧν]]  [[G0333\|ἀναθεωροῦντες]]  [[G3588\|τὴν]]  [[G1545\|ἔκβασιν]]  [[G3588\|τῆς]]  [[G0391\|ἀναστροφῆς,]]  [[G3401\|μιμεῖσθε]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.6|<< Hebrews 13:6]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.8|Hebrews 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

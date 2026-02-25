@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 23:24
+type: Verse
+kjv: "And they arose, and went to Ziph before Saul: but David and his men were in the wilderness of Maon, in the plain on the south of Jeshimon."
+bsb: "So they set out and went to Ziph ahead of Saul. Now David and his men were in the Wilderness of Maon in the Arabah south of Jeshimon,"
+hebrew: "וַיָּק֛וּמוּ וַיֵּלְכ֥וּ זִ֖יפָה לִפְנֵ֣י שָׁא֑וּל וְדָוִ֨ד וַאֲנָשָׁ֜יו בְּמִדְבַּ֤ר מָעוֹן֙ בָּעֲרָבָ֔ה אֶ֖ל יְמִ֥ין הַיְשִׁימֽוֹן׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESHIMON|JESHIMON]]"
+- "[[topic MAON|MAON]]"
+- "[[topic ZIPH|ZIPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H2128H]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4584G]]"
+- "[[H6160G]]"
+- "[[H0413]]"
+- "[[H3225H]]"
+- "[[H9009]]"
+- "[[H3452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:24**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they arose, and went to Ziph before Saul: but David and his men [were] in the wilderness of Maon, in the plain on the south of Jeshimon.
 <small><sub>**BSB:**</sub></small>
 So they set out and went to Ziph ahead of Saul. Now David and his men were in the Wilderness of Maon in the Arabah south of Jeshimon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּק֛וּמוּ]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֥וּ]] [[H2128H\|זִ֖יפָ]][[H9011\|ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H7586G\|שָׁא֑וּל]] [[H9002\|וְ]][[H1732\|דָוִ֨ד]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֜י]][[H9023\|ו]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֤ר]] [[H4584G\|מָעוֹן֙]] [[H9003\|בָּ]][[H6160G\|עֲרָבָ֔ה]] [[H0413\|אֶ֖ל]] [[H3225H\|יְמִ֥ין]] [[H9009\|הַ]][[H3452G\|יְשִׁימֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESHIMON|JESHIMON]] • [[topic MAON|MAON]] • [[topic ZIPH|ZIPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
 

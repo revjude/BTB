@@ -1,8 +1,63 @@
+---
+title: Genesis 32:18
+type: Verse
+kjv: "Then thou shalt say, They be thy servant Jacob’s; it is a present sent unto my lord Esau: and, behold, also he is behind us."
+bsb: "then you are to say, ‘They belong to your servant Jacob. They are a gift, sent to my lord Esau. And behold, Jacob is behind us.’”"
+hebrew: "וְאָֽמַרְתָּ֙ לְעַבְדְּךָ֣ לְיַעֲקֹ֔ב מִנְחָ֥ה הִוא֙ שְׁלוּחָ֔ה לַֽאדֹנִ֖י לְעֵשָׂ֑ו וְהִנֵּ֥ה גַם־ ה֖וּא אַחֲרֵֽינוּ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3290]]"
+- "[[H4503H]]"
+- "[[H1931]]"
+- "[[H7971G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H6215G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0310A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:18**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt say, [They be] thy servant Jacob’s; it [is] a present sent unto my lord Esau: and, behold, also he [is] behind us.
 <small><sub>**BSB:**</sub></small>
 then you are to say, ‘They belong to your servant Jacob. They are a gift, sent to my lord Esau. And behold, Jacob is behind us.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֔ב]] [[H4503H\|מִנְחָ֥ה]] [[H1931\|הִוא֙]] [[H7971G\|שְׁלוּחָ֔ה]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֖]][[H9020\|י]] [[H9005\|לְ]][[H6215G\|עֵשָׂ֑ו]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H1571\|גַם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H0310A\|אַחֲרֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.17|<< Genesis 32:17]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.19|Genesis 32:19 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: James 2:13
+type: Verse
+kjv: "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+bsb: "For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment."
+greek: "ἡ γὰρ κρίσις ἀνέλεος τῷ μὴ ποιήσαντι ἔλεος· καὶ κατακαυχᾶται ἔλεος κρίσεως.¶"
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2920]]"
+- "[[G0448]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G1656]]"
+- "[[G2532]]"
+- "[[G2620]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **James 2:13**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
 <small><sub>**BSB:**</sub></small>
 For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.
-<small><sub>**Literal:**</sub></small>
-<the> For judgment without mercy [will be] to the [one] not having shown mercy; and it triumphs over mercy judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.12|<< James 2:12]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.14|James 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G2920\|κρίσις]]  [[G0448\|ἀνέλεος]]  [[G3588\|τῷ]]  [[G3361\|μὴ]]  [[G4160G\|ποιήσαντι]]  [[G1656\|ἔλεος·]]  [[G2532\|καὶ]]  [[G2620\|κατακαυχᾶται]]  [[G1656\|ἔλεος]]  [[G2920\|κρίσεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MALICE|MALICE]] • [[topic MERCY|MERCY]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.12|<< James 2:12]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.14|James 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Psalm 71:3
+type: Verse
+kjv: "Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress."
+bsb: "Be my rock of refuge, where I can always go. Give the command to save me, for You are my rock and my fortress."
+hebrew: "הֱיֵ֤ה לִ֨י׀ לְצ֥וּר מָע֡וֹן לָב֗וֹא תָּמִ֗יד צִוִּ֥יתָ לְהוֹשִׁיעֵ֑נִי כִּֽי־ סַלְעִ֖י וּמְצוּדָתִ֣י אָֽתָּה׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FORT|FORT]]"
+strongs:
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H6697H]]"
+- "[[H4583]]"
+- "[[H0935G]]"
+- "[[H8548]]"
+- "[[H6680]]"
+- "[[H3467]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5553H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4686B]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:3**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou [art] my rock and my fortress.
 <small><sub>**BSB:**</sub></small>
 Be my rock of refuge, where I can always go. Give the command to save me, for You are my rock and my fortress.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הֱיֵ֤ה]] [[H9005\|לִ֨]][[H9030\|י]][[H9015\|׀]] [[H9005\|לְ]][[H6697H\|צ֥וּר]] [[H4583\|מָע֡וֹן]] [[H9005\|לָ]][[H0935G\|ב֗וֹא]] [[H8548\|תָּמִ֗יד]] [[H6680\|צִוִּ֥יתָ]] [[H9005\|לְ]][[H3467\|הוֹשִׁיעֵ֑]][[H9030\|נִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5553H\|סַלְעִ֖]][[H9020\|י]] [[H9002\|וּ]][[H4686B\|מְצוּדָתִ֣]][[H9020\|י]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FORT|FORT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.2|<< Psalms 71:2]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.4|Psalms 71:4 >>]]</td></tr></table>
 

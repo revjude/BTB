@@ -1,8 +1,59 @@
+---
+title: Leviticus 11:1
+type: Verse
+kjv: "And the LORD spake unto Moses and to Aaron, saying unto them,"
+bsb: "The LORD spoke again to Moses and Aaron, telling them,"
+hebrew: "וַיְדַבֵּ֧ר יְהוָ֛ה אֶל־ מֹשֶׁ֥ה וְאֶֽל־ אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:1**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses and to Aaron, saying unto them,
 <small><sub>**BSB:**</sub></small>
 The LORD spoke again to Moses and Aaron, telling them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹ֥ר]] [[H0413\|אֲלֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic FOOD|FOOD]] • [[topic GOAT|GOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.20|<< Leviticus 10:20]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.2|Leviticus 11:2 >>]]</td></tr></table>
 

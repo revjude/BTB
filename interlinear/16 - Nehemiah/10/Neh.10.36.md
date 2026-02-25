@@ -1,8 +1,65 @@
+---
+title: Nehemiah 10:36
+type: Verse
+kjv: "Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:"
+bsb: "And we will bring the firstborn of our sons and our livestock, as it is written in the Law, and will bring the firstborn of our herds and flocks to the house of our God, to the priests who minister in the house of our God."
+hebrew: "וְאֶת־ בְּכֹר֤וֹת בָּנֵ֙ינוּ֙ וּבְהֶמְתֵּ֔ינוּ כַּכָּת֖וּב בַּתּוֹרָ֑ה וְאֶת־ בְּכוֹרֵ֨י בְקָרֵ֜ינוּ וְצֹאנֵ֗ינוּ לְהָבִיא֙ לְבֵ֣ית אֱלֹהֵ֔ינוּ לַכֹּ֣הֲנִ֔ים הַמְשָׁרְתִ֖ים בְּבֵ֥ית אֱלֹהֵֽינוּ׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H1121A]]"
+- "[[H9025]]"
+- "[[H0929]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H1241]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H8334]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:36**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the firstborn of our sons, and of our cattle, as [it is] written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:
 <small><sub>**BSB:**</sub></small>
 And we will bring the firstborn of our sons and our livestock, as it is written in the Law, and will bring the firstborn of our herds and flocks to the house of our God, to the priests who minister in the house of our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1060\|בְּכֹר֤וֹת]] [[H1121A\|בָּנֵ֙י]][[H9025\|נוּ֙]] [[H9002\|וּ]][[H0929\|בְהֶמְתֵּ֔י]][[H9025\|נוּ]] [[H9004\|כַּ]][[H3789\|כָּת֖וּב]] [[H9003\|בַּ]][[H8451\|תּוֹרָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1060\|בְּכוֹרֵ֨י]] [[H1241\|בְקָרֵ֜י]][[H9025\|נוּ]] [[H9002\|וְ]][[H6629G\|צֹאנֵ֗י]][[H9025\|נוּ]] [[H9005\|לְ]][[H0935P\|הָבִיא֙]] [[H9005\|לְ]][[H1004Q\|בֵ֣ית]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H9005\|לַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9009\|הַ]][[H8334\|מְשָׁרְתִ֖ים]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.35|<< Nehemiah 10:35]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.37|Nehemiah 10:37 >>]]</td></tr></table>
 

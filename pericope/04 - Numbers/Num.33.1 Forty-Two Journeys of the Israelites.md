@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Forty-Two Journeys of the Israelites
+type: Pericope
 pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
-verse_count: 49
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 33
 book/chapter: "[[Num.33|Numbers 33]]"
-genre:
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 49
 verses:
 - "[[Num.33.1]]"
 - "[[Num.33.2]]"
@@ -71,7 +78,7 @@ verses:
 - "[[Num.33.49]]"
 ---
 
-[[Num.33|Numbers 33:1 - Numbers 33:49]]
+<small>[[Num.33|Numbers 33:1-49]]</small>
 *Forty-Two Journeys of the Israelites*
 
 [[Num.33.1|1]] These \[are\] the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.

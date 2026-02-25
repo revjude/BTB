@@ -1,8 +1,67 @@
+---
+title: Genesis 47:30
+type: Verse
+kjv: "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said."
+bsb: "but when I lie down with my fathers, carry me out of Egypt and bury me with them.” Joseph answered, “I will do as you have requested.”"
+hebrew: "וְשָֽׁכַבְתִּי֙ עִם־ אֲבֹתַ֔י וּנְשָׂאתַ֙נִי֙ מִמִּצְרַ֔יִם וּקְבַרְתַּ֖נִי בִּקְבֻרָתָ֑ם וַיֹּאמַ֕ר אָנֹכִ֖י אֶֽעֱשֶׂ֥ה כִדְבָרֶֽךָ׃"
+pericope: "[[Gen.47.27 The Israelites Prosper in Goshen|The Israelites Prosper in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H5375H]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H6900]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:30**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.
 <small><sub>**BSB:**</sub></small>
 but when I lie down with my fathers, carry me out of Egypt and bury me with them.” Joseph answered, “I will do as you have requested.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7901G\|שָֽׁכַבְתִּי֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתַ֔]][[H9020\|י]] [[H9001\|וּ]][[H5375H\|נְשָׂאתַ֙]][[H9030\|נִי֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9001\|וּ]][[H6912\|קְבַרְתַּ֖]][[H9030\|נִי]] [[H9003\|בִּ]][[H6900\|קְבֻרָתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H0595\|אָנֹכִ֖י]] [[H6213A\|אֶֽעֱשֶׂ֥ה]] [[H9004\|כִ]][[H1697G\|דְבָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.29|<< Genesis 47:29]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.31|Genesis 47:31 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Ruth 4:20
+type: Verse
+kjv: "And Amminadab begat Nahshon, and Nahshon begat Salmon,"
+bsb: "Amminadab was the father of Nahshon, Nahshon was the father of Salmon,"
+hebrew: "וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת־ נַחְשׁ֔וֹן וְנַחְשׁ֖וֹן הוֹלִ֥יד אֶת־ שַׂלְמָֽה׃"
+pericope: "[[Ruth.4.18 The Line of David|The Line of David]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic AMMINADAB|AMMINADAB]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic OBED|OBED]]"
+- "[[topic SALMA|SALMA]]"
+strongs:
+- "[[H9002]]"
+- "[[H5992G]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5177]]"
+- "[[H8009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:20**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amminadab begat Nahshon, and Nahshon begat Salmon,
 <small><sub>**BSB:**</sub></small>
 Amminadab was the father of Nahshon, Nahshon was the father of Salmon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5992G\|עַמִּֽינָדָב֙]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5177\|נַחְשׁ֔וֹן]] [[H9002\|וְ]][[H5177\|נַחְשׁ֖וֹן]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H8009\|שַׂלְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMINADAB|AMMINADAB]] • [[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic OBED|OBED]] • [[topic SALMA|SALMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.19|<< Ruth 4:19]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.21|Ruth 4:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

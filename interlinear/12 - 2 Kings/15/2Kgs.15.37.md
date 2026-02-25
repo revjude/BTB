@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:37
+type: Verse
+kjv: "In those days the LORD began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah."
+bsb: "(In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.)"
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם הֵחֵ֣ל יְהוָ֗ה לְהַשְׁלִ֙יחַ֙ בִּֽיהוּדָ֔ה רְצִ֖ין מֶ֣לֶךְ אֲרָ֑ם וְאֵ֖ת פֶּ֥קַח בֶּן־ רְמַלְיָֽהוּ׃"
+pericope: "[[2Kgs.15.32 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H2490C]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7971G]]"
+- "[[H3063G]]"
+- "[[H7526G]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6492]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7425]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:37**<big><big>[[2Kgs.15.32 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days the LORD began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah.
 <small><sub>**BSB:**</sub></small>
 (In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H2490C\|הֵחֵ֣ל]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לְ]][[H7971G\|הַשְׁלִ֙יחַ֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H7526G\|רְצִ֖ין]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֑ם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H6492\|פֶּ֥קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REZIN|REZIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.36|<< 2 Kings 15:36]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.38|2 Kings 15:38 >>]]</td></tr></table>
 

@@ -1,6 +1,43 @@
+---
+title: Psalm 55:0
+type: Verse
+kjv: "To the chief Musician on Neginoth, Maschil, A Psalm of David."
+hebrew: "לַמְנַצֵּ֥חַ בִּנְגִינֹ֗ת מַשְׂכִּ֥יל לְדָוִֽד׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9003]]"
+- "[[H5058]]"
+- "[[H4905]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:0**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician on Neginoth, Maschil, [A Psalm] of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H9003\|בִּ]][[H5058\|נְגִינֹ֗ת]] [[H4905\|מַשְׂכִּ֥יל]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.7|<< Psalms 54:7]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.1|Psalms 55:1 >>]]</td></tr></table>
 

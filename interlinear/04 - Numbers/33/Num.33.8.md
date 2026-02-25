@@ -1,8 +1,69 @@
+---
+title: Numbers 33:8
+type: Verse
+kjv: "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah."
+bsb: "They set out from Pi-hahiroth and crossed through the sea, into the wilderness, and they journeyed three days into the Wilderness of Etham and camped at Marah."
+hebrew: "וַיִּסְעוּ֙ מִפְּנֵ֣י הַֽחִירֹ֔ת וַיַּֽעַבְר֥וּ בְתוֹךְ־ הַיָּ֖ם הַמִּדְבָּ֑רָה וַיֵּ֨לְכ֜וּ דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בְּמִדְבַּ֣ר אֵתָ֔ם וַֽיַּחֲנ֖וּ בְּמָרָֽה׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MARAH|MARAH]]"
+- "[[topic MIGDOL|MIGDOL]]"
+- "[[topic PI-HAHIROTH|PI-HAHIROTH]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H6367]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H1980G]]"
+- "[[H1870L]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H0864]]"
+- "[[H2583]]"
+- "[[H4785]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:8**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah.
 <small><sub>**BSB:**</sub></small>
 They set out from Pi-hahiroth and crossed through the sea, into the wilderness, and they journeyed three days into the Wilderness of Etham and camped at Marah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְעוּ֙]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H9009\|הַֽ]][[H6367\|חִירֹ֔ת]] [[H9001\|וַ]][[H5674A\|יַּֽעַבְר֥וּ]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֑רָ]][[H9011\|ה]] [[H9001\|וַ]][[H1980G\|יֵּ֨לְכ֜וּ]] [[H1870L\|דֶּ֣רֶךְ]] [[H7969\|שְׁלֹ֤שֶׁת]] [[H3117G\|יָמִים֙]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֣ר]] [[H0864\|אֵתָ֔ם]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9003\|בְּ]][[H4785\|מָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MARAH|MARAH]] • [[topic MIGDOL|MIGDOL]] • [[topic PI-HAHIROTH|PI-HAHIROTH]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.7|<< Numbers 33:7]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.9|Numbers 33:9 >>]]</td></tr></table>
 

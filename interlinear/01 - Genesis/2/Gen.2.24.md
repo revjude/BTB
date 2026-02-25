@@ -1,8 +1,70 @@
+---
+title: Genesis 2:24
+type: Verse
+kjv: "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+bsb: "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
+hebrew: "עַל־ כֵּן֙ יַֽעֲזָב־ אִ֔ישׁ אֶת־ אָבִ֖יו וְאֶת־ אִמּ֑וֹ וְדָבַ֣ק בְּאִשְׁתּ֔וֹ וְהָי֖וּ לְבָשָׂ֥ר אֶחָֽד׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5800A]]"
+- "[[H0376G]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H0802H]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1320]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:24**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 <small><sub>**BSB:**</sub></small>
 For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H5800A\|יַֽעֲזָב]][[H9014\|־]] [[H0376G\|אִ֔ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1692\|דָבַ֣ק]] [[H9003\|בְּ]][[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H1961\|הָי֖וּ]] [[H9005\|לְ]][[H1320\|בָשָׂ֥ר]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.23|<< Genesis 2:23]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.25|Genesis 2:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

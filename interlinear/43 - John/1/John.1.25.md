@@ -1,10 +1,60 @@
+---
+title: John 1:25
+type: Verse
+kjv: "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
+bsb: "asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”"
+greek: "καὶ ἠρώτησαν αὐτὸν καὶ εἶπαν αὐτῷ· τί οὖν βαπτίζεις εἰ σὺ οὐκ εἶ ὁ χριστὸς οὐδὲ Ἠλίας οὐδὲ ὁ προφήτης;"
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G0907]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G3761]]"
+- "[[G2243]]"
+- "[[G4396]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 1:25**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
 <small><sub>**BSB:**</sub></small>
 asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”
-<small><sub>**Literal:**</sub></small>
-And they asked him and they said to him; Why then baptize you if you yourself not are the Christ nor Elijah nor the prophet?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.24|<< John 1:24]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.26|John 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2065\|ἠρώτησαν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G0907\|βαπτίζεις]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G3756\|οὐκ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3761\|οὐδὲ]]  [[G2243\|Ἠλίας]]  [[G3761\|οὐδὲ]]  [[G3588\|ὁ]]  [[G4396\|προφήτης;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.24|<< John 1:24]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.26|John 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

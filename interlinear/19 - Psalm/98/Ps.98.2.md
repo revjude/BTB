@@ -1,8 +1,58 @@
+---
+title: Psalm 98:2
+type: Verse
+kjv: "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
+bsb: "The LORD has proclaimed His salvation and revealed His righteousness to the nations."
+hebrew: "הוֹדִ֣יעַ יְ֭הוָה יְשׁוּעָת֑וֹ לְעֵינֵ֥י הַ֝גּוֹיִ֗ם גִּלָּ֥ה צִדְקָתֽוֹ׃"
+pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H3444]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H1540H]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 98:2**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.
 <small><sub>**BSB:**</sub></small>
 The LORD has proclaimed His salvation and revealed His righteousness to the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|הוֹדִ֣יעַ]] [[H3068G\|יְ֭הוָה]] [[H3444\|יְשׁוּעָת֑]][[H9023\|וֹ]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H9009\|הַ֝]][[H1471A\|גּוֹיִ֗ם]] [[H1540H\|גִּלָּ֥ה]] [[H6666\|צִדְקָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic SALVATION|SALVATION]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.1|<< Psalms 98:1]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.3|Psalms 98:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

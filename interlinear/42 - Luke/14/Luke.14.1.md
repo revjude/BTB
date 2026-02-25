@@ -1,10 +1,60 @@
+---
+title: Luke 14:1
+type: Verse
+kjv: "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him."
+bsb: "One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely."
+greek: "Καὶ ἐγένετο ἐν τῷ ἐλθεῖν αὐτὸν εἰς οἶκόν τινος τῶν ἀρχόντων τῶν Φαρισαίων σαββάτῳ φαγεῖν ἄρτον καὶ αὐτοὶ ἦσαν παρατηρούμενοι αὐτόν."
+pericope: "[[Luke.14.1 Jesus Heals a Man with Dropsy|Jesus Heals a Man with Dropsy]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G5100]]"
+- "[[G0758]]"
+- "[[G5330]]"
+- "[[G4521]]"
+- "[[G5315]]"
+- "[[G0740]]"
+- "[[G1510]]"
+- "[[G3906]]"
+texts:
+- NKO
+---
+
 **Luke 14:1**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 <small><sub>**BSB:**</sub></small>
 One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely.
-<small><sub>**Literal:**</sub></small>
-And it came to pass on the going of Him into a house of one of the rulers of the Pharisees on a Sabbath to eat bread and they themselves were watching Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.35|<< Luke 13:35]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.2|Luke 14:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2064\|ἐλθεῖν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3624G\|οἶκόν]]  [[G5100\|τινος]]  [[G3588\|τῶν]]  [[G0758\|ἀρχόντων]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G4521\|σαββάτῳ]]  [[G5315\|φαγεῖν]]  [[G0740\|ἄρτον]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1510\|ἦσαν]]  [[G3906\|παρατηρούμενοι]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PHARISEES|PHARISEES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.35|<< Luke 13:35]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.2|Luke 14:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

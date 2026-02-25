@@ -1,10 +1,56 @@
+---
+title: Matthew 16:16
+type: Verse
+kjv: "And Simon Peter answered and said, Thou art the Christ, the Son of the living God."
+bsb: "Simon Peter answered, “You are the Christ, the Son of the living God.”"
+greek: "Ἀποκριθεὶς δὲ Σίμων Πέτρος εἶπεν· σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ τοῦ ζῶντος.¶"
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **Matthew 16:16**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Simon Peter answered and said, Thou art the Christ, the Son of the living God.
 <small><sub>**BSB:**</sub></small>
 Simon Peter answered, “You are the Christ, the Son of the living God.”
-<small><sub>**Literal:**</sub></small>
-Answering now Simon Peter said; You yourself are the Christ the Son <the> of God the living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.15|<< Matthew 16:15]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.17|Matthew 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2198\|ζῶντος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.15|<< Matthew 16:15]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.17|Matthew 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

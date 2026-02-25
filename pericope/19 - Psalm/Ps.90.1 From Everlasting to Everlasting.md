@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: From Everlasting to Everlasting
+type: Pericope
 pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 90
 book/chapter: "[[Ps.90|Psalm 90]]"
-genre:
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.90.0]]"
 - "[[Ps.90.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.90.17]]"
 ---
 
-[[Ps.90|Psalm 90:1 - Psalm 90:17]]
+<small>[[Ps.90|Psalm 90:1-17]]</small>
 *From Everlasting to Everlasting*
 
 [[Ps.90.0|0]] A Prayer of Moses the man of God.

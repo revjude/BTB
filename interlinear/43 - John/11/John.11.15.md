@@ -1,10 +1,57 @@
+---
+title: John 11:15
+type: Verse
+kjv: "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
+bsb: "and for your sake I am glad I was not there, so that you may believe. But let us go to him.”"
+jesus_said: "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
+greek: "καὶ χαίρω δι᾽ ὑμᾶς, ἵνα πιστεύσητε, ὅτι οὐκ ἤμην ἐκεῖ· ἀλλ᾽ ἄγωμεν πρὸς αὐτόν.¶"
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5463]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G0235]]"
+- "[[G0071]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 11:15**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
 <small><sub>**BSB:**</sub></small>
 and for your sake I am glad I was not there, so that you may believe. But let us go to him.”
-<small><sub>**Literal:**</sub></small>
-And I rejoice for sake of you, in order that you may believe, that not I was there; But let us go to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.14|<< John 11:14]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.16|John 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5463\|χαίρω]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς,]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύσητε,]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἤμην]]  [[G1563\|ἐκεῖ·]]  [[G0235\|ἀλλ᾽]]  [[G0071\|ἄγωμεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.14|<< John 11:14]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.16|John 11:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

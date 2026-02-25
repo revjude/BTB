@@ -1,6 +1,71 @@
+---
+title: LXX Ezekiel 38:22
+type: Verse
+lxx: "And I will judge him by plague, and blood, and flooding rain, and stones of hail; and fire and sulphur I will rain upon him, and upon all the ones with him, and upon many nations with him."
+greek: "και κρινώ αυτόν θανάτω και αίματι και υετώ κατακλύζοντι και λίθοις χαλάζης και πυρ και θείον βρέξω επ΄ αυτόν και επί πάντας τους μετ΄ αυτού και επί έθνη πολλά μετ΄ αυτού"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2919]]"
+- "[[G1473]]"
+- "[[G2288]]"
+- "[[G2532]]"
+- "[[G0129]]"
+- "[[G2532]]"
+- "[[G5205]]"
+- "[[G2626]]"
+- "[[G2532]]"
+- "[[G3037]]"
+- "[[G5464]]"
+- "[[G2532]]"
+- "[[G4442]]"
+- "[[G2532]]"
+- "[[G2303]]"
+- "[[G1026]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G1484]]"
+- "[[G4183]]"
+- "[[G3326]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 38:22** 
 <small><sub>**LXX:**</sub></small>
 And I will judge him by plague, and blood, and flooding rain, and stones of hail; and fire and sulphur I will rain upon him, and upon all the ones with him, and upon many nations with him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2919\|κρινώ]] [[G1473\|αυτόν]] [[G2288\|θανάτω]] [[G2532\|και]] [[G0129\|αίματι]] [[G2532\|και]] [[G5205\|υετώ]] [[G2626\|κατακλύζοντι]] [[G2532\|και]] [[G3037\|λίθοις]] [[G5464\|χαλάζης]] [[G2532\|και]] [[G4442\|πυρ]] [[G2532\|και]] [[G2303\|θείον]] [[G1026\|βρέξω]] [[G1909\|επ΄]] [[G1473\|αυτόν]] [[G2532\|και]] [[G1909\|επί]] [[G3956\|πάντας]] [[G3588\|τους]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G2532\|και]] [[G1909\|επί]] [[G1484\|έθνη]] [[G4183\|πολλά]] [[G3326\|μετ΄]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.38.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.21|<< Ezekiel 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.23|Ezekiel 38:23 >>]]</td></tr></table>
 
@@ -37,6 +102,6 @@ And I will judge him by plague, and blood, and flooding rain, and stones of hail
 | many | **<big>[[G4183\|πολλά]]</big>** |
 | with | **<big>[[G3326\|μετ΄]]</big>** |
 | him. | **<big>[[G1473\|αυτού]]</big>** |
-[[Ezek.38.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.21|<< Ezekiel 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.23|Ezekiel 38:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.21|<< Ezekiel 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.23|Ezekiel 38:23 >>]]</td></tr></table>
 
 

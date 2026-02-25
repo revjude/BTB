@@ -1,8 +1,79 @@
+---
+title: Jeremiah 27:5
+type: Verse
+kjv: "I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me."
+bsb: "By My great power and outstretched arm, I made the earth and the men and beasts on the face of it, and I give it to whom I please."
+hebrew: "אָנֹכִ֞י עָשִׂ֣יתִי אֶת־ הָאָ֗רֶץ אֶת־ הָאָדָ֤ם וְאֶת־ הַבְּהֵמָה֙ אֲשֶׁר֙ עַל־ פְּנֵ֣י הָאָ֔רֶץ בְּכֹחִי֙ הַגָּד֔וֹל וּבִזְרוֹעִ֖י הַנְּטוּיָ֑ה וּנְתַתִּ֕יהָ לַאֲשֶׁ֖ר יָשַׁ֥ר בְּעֵינָֽי׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ARM|ARM]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H0595]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H1419A]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H3474]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:5**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made the earth, the man and the beast that [are] upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.
 <small><sub>**BSB:**</sub></small>
 By My great power and outstretched arm, I made the earth and the men and beasts on the face of it, and I give it to whom I please.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָנֹכִ֞י]] [[H6213H\|עָשִׂ֣יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֤ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָה֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9003\|בְּ]][[H3581B\|כֹחִ]][[H9020\|י֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְרוֹעִ֖]][[H9020\|י]] [[H9009\|הַ]][[H5186\|נְּטוּיָ֑ה]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֕י]][[H9034\|הָ]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֖ר]] [[H3474\|יָשַׁ֥ר]] [[H9003\|בְּ]][[H5869I\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ANIMALS|ANIMALS]] • [[topic ARM|ARM]] • [[topic BABYLON|BABYLON]] • [[topic BLESSING|BLESSING]] • [[topic EARTH|EARTH]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MAN|MAN]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.4|<< Jeremiah 27:4]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.6|Jeremiah 27:6 >>]]</td></tr></table>
 

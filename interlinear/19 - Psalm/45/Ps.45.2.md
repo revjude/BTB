@@ -1,8 +1,63 @@
+---
+title: Psalm 45:2
+type: Verse
+kjv: "Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever."
+bsb: "You are the most handsome of men; grace has anointed your lips; therefore God has blessed you forever."
+hebrew: "יָפְיָפִ֡יתָ מִבְּנֵ֬י אָדָ֗ם ה֣וּצַק חֵ֭ן בְּשְׂפְתוֹתֶ֑יךָ עַל־ כֵּ֤ן בֵּֽרַכְךָ֖ אֱלֹהִ֣ים לְעוֹלָֽם׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3302]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H0120G]]"
+- "[[H3332G]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H8193G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:2**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.
 <small><sub>**BSB:**</sub></small>
 You are the most handsome of men; grace has anointed your lips; therefore God has blessed you forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3302\|יָפְיָפִ֡יתָ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֬י]] [[H0120G\|אָדָ֗ם]] [[H3332G\|ה֣וּצַק]] [[H2580\|חֵ֭ן]] [[H9003\|בְּ]][[H8193G\|שְׂפְתוֹתֶ֑י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֤ן]] [[H1288\|בֵּֽרַכְ]][[H9031\|ךָ֖]] [[H0430G\|אֱלֹהִ֣ים]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.1|<< Psalms 45:1]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.3|Psalms 45:3 >>]]</td></tr></table>
 

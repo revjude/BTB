@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lampstand
+type: Pericope
 pericope: "[[Exod.37.17 The Lampstand|The Lampstand]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 37
 book/chapter: "[[Exod.37|Exodus 37]]"
-genre:
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 8
 verses:
 - "[[Exod.37.17]]"
 - "[[Exod.37.18]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Exod.37.24]]"
 ---
 
-[[Exod.37|Exodus 37:17 - Exodus 37:24]]
+<small>[[Exod.37|Exodus 37:17-24]]</small>
 *The Lampstand*
 
 [[Exod.37.17|17]] And he made the candlestick \[of\] pure gold: \[of\] beaten work made he the candlestick; his shaft, and his branch, his bowls, his knops, and his flowers, were of the same:

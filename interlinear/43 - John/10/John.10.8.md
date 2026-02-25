@@ -1,10 +1,60 @@
+---
+title: John 10:8
+type: Verse
+kjv: "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+bsb: "All who came before Me were thieves and robbers, but the sheep did not listen to them."
+jesus_said: "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+greek: "πάντες ὅσοι ἦλθον πρὸ ἐμοῦ, κλέπται εἰσὶν καὶ λῃσταί· ἀλλ᾽ οὐκ ἤκουσαν αὐτῶν τὰ πρόβατα."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G2064]]"
+- "[[G4253]]"
+- "[[G1473]]"
+- "[[G2812]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3027]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4263]]"
+texts:
+- NKO
+---
+
 **John 10:8**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All that ever came before me are thieves and robbers: but the sheep did not hear them.
 <small><sub>**BSB:**</sub></small>
 All who came before Me were thieves and robbers, but the sheep did not listen to them.
-<small><sub>**Literal:**</sub></small>
-All as many as came before Me thieves are and robbers; but not did listen to them the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.7|<< John 10:7]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.9|John 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G3745\|ὅσοι]]  [[G2064\|ἦλθον]]  [[G4253\|πρὸ]]  [[G1473\|ἐμοῦ,]]  [[G2812\|κλέπται]]  [[G1510\|εἰσὶν]]  [[G2532\|καὶ]]  [[G3027\|λῃσταί·]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G0191\|ἤκουσαν]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.7|<< John 10:7]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.9|John 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

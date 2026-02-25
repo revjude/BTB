@@ -1,8 +1,68 @@
+---
+title: Numbers 21:33
+type: Verse
+kjv: "And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei."
+bsb: "Then they turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet them in battle at Edrei."
+hebrew: "וַיִּפְנוּ֙ וַֽיַּעֲל֔וּ דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽלֶךְ־ הַבָּשָׁ֨ן לִקְרָאתָ֜ם ה֧וּא וְכָל־ עַמּ֛וֹ לַמִּלְחָמָ֖ה אֶדְרֶֽעִי׃"
+pericope: "[[Num.21.31 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EDREI|EDREI]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5927G]]"
+- "[[H1870K]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H3318G]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9038]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4421]]"
+- "[[H0154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:33**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.
 <small><sub>**BSB:**</sub></small>
 Then they turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet them in battle at Edrei.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנוּ֙]] [[H9001\|וַֽ]][[H5927G\|יַּעֲל֔וּ]] [[H1870K\|דֶּ֖רֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֑ן]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H5747\|עוֹג֩]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁ֨ן]] [[H9005\|לִ]][[H7122H\|קְרָאתָ֜]][[H9038\|ם]] [[H1931\|ה֧וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H0154\|אֶדְרֶֽעִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDREI|EDREI]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.32|<< Numbers 21:32]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.34|Numbers 21:34 >>]]</td></tr></table>
 

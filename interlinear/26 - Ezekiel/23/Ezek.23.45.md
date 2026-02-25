@@ -1,8 +1,61 @@
+---
+title: Ezekiel 23:45
+type: Verse
+kjv: "And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they are adulteresses, and blood is in their hands."
+bsb: "But righteous men will sentence them to the punishment of those who commit adultery and bloodshed, because they are adulteresses with blood on their hands."
+hebrew: "וַאֲנָשִׁ֣ים צַדִּיקִ֗ם הֵ֚מָּה יִשְׁפְּט֣וּ אֽוֹתְהֶ֔ם מִשְׁפַּט֙ נֹֽאֲפ֔וֹת וּמִשְׁפַּ֖ט שֹׁפְכ֣וֹת דָּ֑ם כִּ֤י נֹֽאֲפֹת֙ הֵ֔נָּה וְדָ֖ם בִּֽידֵיהֶֽן׃ ס"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H6662]]"
+- "[[H1992]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4941G]]"
+- "[[H5003]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H3588A]]"
+- "[[H2007]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9029]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 23:45**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they [are] adulteresses, and blood [is] in their hands.
 <small><sub>**BSB:**</sub></small>
 But righteous men will sentence them to the punishment of those who commit adultery and bloodshed, because they are adulteresses with blood on their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0582\|אֲנָשִׁ֣ים]] [[H6662\|צַדִּיקִ֗ם]] [[H1992\|הֵ֚מָּה]] [[H8199\|יִשְׁפְּט֣וּ]] [[H0853\|אֽוֹתְ]][[H9038\|הֶ֔ם]] [[H4941G\|מִשְׁפַּט֙]] [[H5003\|נֹֽאֲפ֔וֹת]] [[H9002\|וּ]][[H4941G\|מִשְׁפַּ֖ט]] [[H8210H\|שֹׁפְכ֣וֹת]] [[H1818\|דָּ֑ם]] [[H3588A\|כִּ֤י]] [[H5003\|נֹֽאֲפֹת֙]] [[H2007\|הֵ֔נָּה]] [[H9002\|וְ]][[H1818\|דָ֖ם]] [[H9003\|בִּֽ]][[H3027G\|ידֵי]][[H9029\|הֶֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.44|<< Ezekiel 23:44]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.46|Ezekiel 23:46 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ But righteous men will sentence them to the punishment of those who commit adult
 | [are] adulteresses  |**<big>&#8207;[[H5003\|נֹֽאֲפֹת֙]]&#8207; </big>**| no.'a.Fot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H2007\|הֵ֔נָּה]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and blood  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1818\|דָ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] on hands their  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3027G\|ידֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Bi.<small><sup>[[HR]]</sup></small> dei.<small><sup>[[HNcbdc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] on hands their  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3027G\|ידֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Bi.<small><sup>[[HR]]</sup></small> dei.<small><sup>[[HNcbdc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.44|<< Ezekiel 23:44]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.46|Ezekiel 23:46 >>]]</td></tr></table>
 
 

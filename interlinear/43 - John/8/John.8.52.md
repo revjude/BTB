@@ -1,10 +1,72 @@
+---
+title: John 8:52
+type: Verse
+kjv: "Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death."
+bsb: "“Now we know that You have a demon!” declared the Jews. “Abraham died, and so did the prophets, yet You say that anyone who keeps Your word will never taste death."
+greek: "Εἶπον οὖν αὐτῷ οἱ Ἰουδαῖοι· νῦν ἐγνώκαμεν ὅτι δαιμόνιον ἔχεις. Ἀβραὰμ ἀπέθανεν καὶ οἱ προφῆται, καὶ σὺ λέγεις· ἐάν τις τὸν λόγον μου τηρήσῃ, οὐ μὴ γεύσηται θανάτου εἰς τὸν αἰῶνα."
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G3568]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1140]]"
+- "[[G2192]]"
+- "[[G0011]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G5083G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1089]]"
+- "[[G2288]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 8:52**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.
 <small><sub>**BSB:**</sub></small>
 “Now we know that You have a demon!” declared the Jews. “Abraham died, and so did the prophets, yet You say that anyone who keeps Your word will never taste death.
-<small><sub>**Literal:**</sub></small>
-Said therefore to Him the Jews; Now we have known that a demon You have. Abraham died and the prophets, and You yourself say; If anyone the word of Mine shall keep, certainly not shall he taste of death to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.51|<< John 8:51]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.53|John 8:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι·]]  [[G3568\|νῦν]]  [[G1097\|ἐγνώκαμεν]]  [[G3754G\|ὅτι]]  [[G1140\|δαιμόνιον]]  [[G2192\|ἔχεις.]]  [[G0011\|Ἀβραὰμ]]  [[G0599\|ἀπέθανεν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται,]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις·]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3165\|μου]]  [[G5083G\|τηρήσῃ,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1089\|γεύσηται]]  [[G2288\|θανάτου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SLANDER|SLANDER]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.51|<< John 8:51]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.53|John 8:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

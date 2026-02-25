@@ -1,8 +1,60 @@
+---
+title: Nehemiah 4:12
+type: Verse
+kjv: "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us they will be upon you."
+bsb: "At that time the Jews who lived nearby came and told us ten times over, “Wherever you turn, they will attack us.”"
+hebrew: "וַֽיְהִי֙ כַּאֲשֶׁר־ בָּ֣אוּ הַיְּהוּדִ֔ים הַיֹּשְׁבִ֖ים אֶצְלָ֑ם וַיֹּ֤אמְרוּ לָ֙נוּ֙ עֶ֣שֶׂר פְּעָמִ֔ים מִכָּל־ הַמְּקֹמ֖וֹת אֲשֶׁר־ תָּשׁ֥וּבוּ עָלֵֽינוּ׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H3427]]"
+- "[[H0681]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H6235]]"
+- "[[H6471]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:12**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us [they will be upon you].
 <small><sub>**BSB:**</sub></small>
 At that time the Jews who lived nearby came and told us ten times over, “Wherever you turn, they will attack us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֔ים]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H0681\|אֶצְלָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H6235\|עֶ֣שֶׂר]] [[H6471\|פְּעָמִ֔ים]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מְּקֹמ֖וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7725G\|תָּשׁ֥וּבוּ]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.11|<< Nehemiah 4:11]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.13|Nehemiah 4:13 >>]]</td></tr></table>
 

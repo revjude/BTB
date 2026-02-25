@@ -1,8 +1,55 @@
+---
+title: Job 31:32
+type: Verse
+kjv: "The stranger did not lodge in the street: but I opened my doors to the traveller."
+bsb: "but no stranger had to lodge on the street, for my door has been open to the traveler—"
+hebrew: "בַּ֭חוּץ לֹא־ יָלִ֣ין גֵּ֑ר דְּ֝לָתַ֗י לָאֹ֥רַח אֶפְתָּֽח׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3885A]]"
+- "[[H1616]]"
+- "[[H1817C]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0734]]"
+- "[[H6605A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:32**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stranger did not lodge in the street: [but] I opened my doors to the traveller.
 <small><sub>**BSB:**</sub></small>
 but no stranger had to lodge on the street, for my door has been open to the traveler—
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H2351\|חוּץ]] [[H3808\|לֹא]][[H9014\|־]] [[H3885A\|יָלִ֣ין]] [[H1616\|גֵּ֑ר]] [[H1817C\|דְּ֝לָתַ֗]][[H9020\|י]] [[H9005\|לָ]][[H0734\|אֹ֥רַח]] [[H6605A\|אֶפְתָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.31|<< Job 31:31]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.33|Job 31:33 >>]]</td></tr></table>
 

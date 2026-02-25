@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Commissions Solomon
+type: Pericope
 pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 28
 book/chapter: "[[1Chr.28|1 Chronicles 28]]"
-genre:
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 10
 verses:
 - "[[1Chr.28.1]]"
 - "[[1Chr.28.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Chr.28.10]]"
 ---
 
-[[1Chr.28|1 Chronicles 28:1 - 1 Chronicles 28:10]]
+<small>[[1Chr.28|1 Chronicles 28:1-10]]</small>
 *David Commissions Solomon*
 
 [[1Chr.28.1|1]] And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.

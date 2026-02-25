@@ -1,6 +1,75 @@
+---
+title: LXX 2 Samuel 13:10
+type: Verse
+lxx: "And Amnon said to Tamar, Carry in to me the food to the bedroom! and I shall eat from out of  your hand. And Tamar took the biscuits which she made, and carried them to Amnon her brother, into the bedroom."
+greek: "και είπεν Αμνών προς Θαμάρ εισένεγκέ μοι το βρώμα εις το κοιτώνα και φαγόμαι εκ της χειρός σου και έλαβε Θαμάρ τας κολλυρίδας ας εποίησε και εισήνεγκε τω Αμνών αδελφώ αυτής εις τον κοιτώνα"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H0550]]"
+- "[[G4314]]"
+- "[[G2283]]"
+- "[[G1533]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1033]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2846]]"
+- "[[G2532]]"
+- "[[G2068]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G2283]]"
+- "[[G3588]]"
+- "[[G8054]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G1533]]"
+- "[[G3588]]"
+- "[[H0550]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2846]]"
+---
+
 **LXX 2 Samuel 13:10** 
 <small><sub>**LXX:**</sub></small>
 And Amnon said to Tamar, Carry in to me the food to the bedroom! and I shall eat from out of  your hand. And Tamar took the biscuits which she made, and carried \[them\] \[to\] Amnon her brother, into the bedroom. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[H0550\|Αμνών]] [[G4314\|προς]] [[G2283\|Θαμάρ]] [[G1533\|εισένεγκέ]] [[G1473\|μοι]] [[G3588\|το]] [[G1033\|βρώμα]] [[G1519\|εις]] [[G3588\|το]] [[G2846\|κοιτώνα]] [[G2532\|και]] [[G2068\|φαγόμαι]] [[G1537\|εκ]] [[G3588\|της]] [[G5495\|χειρός]] [[G1473\|σου]] [[G2532\|και]] [[G2983\|έλαβε]] [[G2283\|Θαμάρ]] [[G3588\|τας]] [[G8054\|κολλυρίδας]] [[G3739\|ας]] [[G4160\|εποίησε]] [[G2532\|και]] [[G1533\|εισήνεγκε]] [[G3588\|τω]] [[H0550\|Αμνών]] [[G0080\|αδελφώ]] [[G1473\|αυτής]] [[G1519\|εις]] [[G3588\|τον]] [[G2846\|κοιτώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
@@ -36,6 +105,6 @@ And Amnon said to Tamar, Carry in to me the food to the bedroom! and I shall eat
 | into | **<big>[[G1519\|εις]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | bedroom. | **<big>[[G2846\|κοιτώνα]]</big>** |
-[[2Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
 

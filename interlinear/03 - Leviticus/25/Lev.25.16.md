@@ -1,8 +1,68 @@
+---
+title: Leviticus 25:16
+type: Verse
+kjv: "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee."
+bsb: "You shall increase the price in proportion to a greater number of years, or decrease it in proportion to a lesser number of years; for he is selling you a given number of harvests."
+hebrew: "לְפִ֣י׀ רֹ֣ב הַשָּׁנִ֗ים תַּרְבֶּה֙ מִקְנָת֔וֹ וּלְפִי֙ מְעֹ֣ט הַשָּׁנִ֔ים תַּמְעִ֖יט מִקְנָת֑וֹ כִּ֚י מִסְפַּ֣ר תְּבוּאֹ֔ת ה֥וּא מֹכֵ֖ר לָֽךְ׃"
+pericope: "[[Lev.25.13 Return of Property|Return of Property]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H9015]]"
+- "[[H7230]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H7235A]]"
+- "[[H4736]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4591]]"
+- "[[H3588A]]"
+- "[[H4557]]"
+- "[[H8393]]"
+- "[[H1931]]"
+- "[[H4376]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:16**<big><big>[[Lev.25.13 Return of Property|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for [according] to the number [of the years] of the fruits doth he sell unto thee.
 <small><sub>**BSB:**</sub></small>
 You shall increase the price in proportion to a greater number of years, or decrease it in proportion to a lesser number of years; for he is selling you a given number of harvests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6310K\|פִ֣י]][[H9015\|׀]] [[H7230\|רֹ֣ב]] [[H9009\|הַ]][[H8141\|שָּׁנִ֗ים]] [[H7235A\|תַּרְבֶּה֙]] [[H4736\|מִקְנָת֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H6310K\|פִי֙]] [[H4591\|מְעֹ֣ט]] [[H9009\|הַ]][[H8141\|שָּׁנִ֔ים]] [[H4591\|תַּמְעִ֖יט]] [[H4736\|מִקְנָת֑]][[H9023\|וֹ]] [[H3588A\|כִּ֚י]] [[H4557\|מִסְפַּ֣ר]] [[H8393\|תְּבוּאֹ֔ת]] [[H1931\|ה֥וּא]] [[H4376\|מֹכֵ֖ר]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.15|<< Leviticus 25:15]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.17|Leviticus 25:17 >>]]</td></tr></table>
 

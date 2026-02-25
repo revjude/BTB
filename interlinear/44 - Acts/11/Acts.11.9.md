@@ -1,10 +1,55 @@
+---
+title: Acts 11:9
+type: Verse
+kjv: "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
+bsb: "But the voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’"
+greek: "ἀπεκρίθη δὲ μοι φωνὴ ἐκ δευτέρου ἐκ τοῦ οὐρανοῦ· ἃ ὁ θεὸς ἐκαθάρισεν, σὺ μὴ κοίνου."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G1208]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3739]]"
+- "[[G2316]]"
+- "[[G2511]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G2840]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 11:9**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the voice answered me again from heaven, What God hath cleansed, [that] call not thou common.
 <small><sub>**BSB:**</sub></small>
 But the voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’
-<small><sub>**Literal:**</sub></small>
-Answered however to me [the] voice for a second [time] out of <the> heaven; What <the> God has cleansed, you yourself not do call unholy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.8|<< Acts 11:8]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.10|Acts 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G1161\|δὲ]]  [[G3165\|μοι]]  [[G5456G\|φωνὴ]]  [[G1537\|ἐκ]]  [[G1208\|δευτέρου]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ·]]  [[G3739\|ἃ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2511\|ἐκαθάρισεν,]]  [[G4771\|σὺ]]  [[G3361\|μὴ]]  [[G2840\|κοίνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.8|<< Acts 11:8]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.10|Acts 11:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

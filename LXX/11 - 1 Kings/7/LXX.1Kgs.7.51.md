@@ -1,6 +1,76 @@
+---
+title: LXX 1 Kings 7:51
+type: Verse
+lxx: "And all the work which Solomon did was fulfilled for the house of the lord. And Solomon carried in the holy things of David  his father, the silver and the gold; and the equipment he put into the treasury of the house of the lord."
+greek: "και ανεπληρώθη παν το έργον ο εποίησε Σολομών τω οίκω κυρίου και εισήνεγκε Σολομών τα άγια Δαυίδ του πατρός αυτού το αργύριον και το χρυσίον και τα σκεύη έδωκεν εις τους θησαυρούς οίκου κυρίου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0378]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1533]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5553]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1325]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2344]]"
+- "[[G3624]]"
+- "[[G2962]]"
+---
+
 **LXX 1 Kings 7:51** 
 <small><sub>**LXX:**</sub></small>
 And all the work which Solomon did was fulfilled for the house of \[the\] <span class="smallcaps">lord</span>. And Solomon carried in the holy \[things\] of David  his father, the silver and the gold; and the equipment he put into the treasury of \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0378\|ανεπληρώθη]] [[G3956\|παν]] [[G3588\|το]] [[G2041\|έργον]] [[G3739\|ο]] [[G4160\|εποίησε]] [[G4672\|Σολομών]] [[G3588\|τω]] [[G3624\|οίκω]] [[G2962\|κυρίου]] [[G2532\|και]] [[G1533\|εισήνεγκε]] [[G4672\|Σολομών]] [[G3588\|τα]] [[G0039\|άγια]] [[G4622\|Δαυίδ]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|αυτού]] [[G3588\|το]] [[G0694\|αργύριον]] [[G2532\|και]] [[G3588\|το]] [[G5553\|χρυσίον]] [[G2532\|και]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1325\|έδωκεν]] [[G1519\|εις]] [[G3588\|τους]] [[G2344\|θησαυρούς]] [[G3624\|οίκου]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CARVING|CARVING]] • [[topic GOLD|GOLD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.7.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
 
@@ -37,6 +107,6 @@ And all the work which Solomon did was fulfilled for the house of \[the\] <span 
 | treasury | **<big>[[G2344\|θησαυρούς]]</big>** |
 | of \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[1Kgs.7.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
 
 

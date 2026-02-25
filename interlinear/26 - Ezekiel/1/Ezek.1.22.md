@@ -1,8 +1,63 @@
+---
+title: Ezekiel 1:22
+type: Verse
+kjv: "And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above."
+bsb: "Spread out above the heads of the living creatures was the likeness of an awesome expanse, gleaming like crystal."
+hebrew: "וּדְמ֞וּת עַל־ רָאשֵׁ֤י הַחַיָּה֙ רָקִ֔יעַ כְּעֵ֖ין הַקֶּ֣רַח הַנּוֹרָ֑א נָט֥וּי עַל־ רָאשֵׁיהֶ֖ם מִלְמָֽעְלָה׃"
+pericope: "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CRYSTAL|CRYSTAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1823]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H7549]]"
+- "[[H9004]]"
+- "[[H5869I]]"
+- "[[H7140]]"
+- "[[H3372H]]"
+- "[[H5186]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:22**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the likeness of the firmament upon the heads of the living creature [was] as the colour of the terrible crystal, stretched forth over their heads above.
 <small><sub>**BSB:**</sub></small>
 Spread out above the heads of the living creatures was the likeness of an awesome expanse, gleaming like crystal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1823\|דְמ֞וּת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רָאשֵׁ֤י]] [[H9009\|הַ]][[H2416C\|חַיָּה֙]] [[H7549\|רָקִ֔יעַ]] [[H9004\|כְּ]][[H5869I\|עֵ֖ין]] [[H9009\|הַ]][[H7140\|קֶּ֣רַח]] [[H9009\|הַ]][[H3372H\|נּוֹרָ֑א]] [[H5186\|נָט֥וּי]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רָאשֵׁי]][[H9028\|הֶ֖ם]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CRYSTAL|CRYSTAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.21|<< Ezekiel 1:21]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.23|Ezekiel 1:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

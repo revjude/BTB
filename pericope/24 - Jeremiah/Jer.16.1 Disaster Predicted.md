@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Disaster Predicted
+type: Pericope
 pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 16
 book/chapter: "[[Jer.16|Jeremiah 16]]"
-genre:
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.16.1]]"
 - "[[Jer.16.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.16.13]]"
 ---
 
-[[Jer.16|Jeremiah 16:1 - Jeremiah 16:13]]
+<small>[[Jer.16|Jeremiah 16:1-13]]</small>
 *Disaster Predicted*
 
 [[Jer.16.1|1]] The word of the LORD came also unto me, saying,

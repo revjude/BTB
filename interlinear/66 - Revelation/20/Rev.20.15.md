@@ -1,10 +1,62 @@
+---
+title: Revelation 20:15
+type: Verse
+kjv: "And whosoever was not found written in the book of life was cast into the lake of fire."
+bsb: "And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire."
+greek: "καὶ εἴ τις οὐχ εὑρέθη ἐν τῇ βίβλῳ τῆς ζωῆς γεγραμμένος, ἐβλήθη εἰς τὴν λίμνην τοῦ πυρός.¶"
+pericope: "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic BOOK|BOOK]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LAKE|LAKE]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0976]]"
+- "[[G2222]]"
+- "[[G1125]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G3041]]"
+- "[[G4442]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 20:15**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever was not found written in the book of life was cast into the lake of fire.
 <small><sub>**BSB:**</sub></small>
 And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire.
-<small><sub>**Literal:**</sub></small>
-And if anyone not was found in the book <the> of life written, he was cast into the lake <the> of fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.14|<< Revelation 20:14]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.1|Revelation 21:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G3756\|οὐχ]]  [[G2147\|εὑρέθη]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0976\|βίβλῳ]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G1125\|γεγραμμένος,]]  [[G0906G\|ἐβλήθη]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3041\|λίμνην]]  [[G3588\|τοῦ]]  [[G4442\|πυρός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic BOOK|BOOK]] • [[topic HELL|HELL]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LAKE|LAKE]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.14|<< Revelation 20:14]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.1|Revelation 21:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

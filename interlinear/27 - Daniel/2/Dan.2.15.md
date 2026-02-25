@@ -1,8 +1,62 @@
+---
+title: Daniel 2:15
+type: Verse
+kjv: "He answered and said to Arioch the king’s captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel."
+bsb: "“Why is the decree from the king so harsh?” he asked. Then Arioch explained the situation to Daniel."
+aramaic: "עָנֵ֣ה וְאָמַ֗ר לְאַרְיוֹךְ֙ שַׁלִּיטָ֣א דִֽי־ מַלְכָּ֔א עַל־ מָ֥ה דָתָ֛א מְהַחְצְפָ֖ה מִן־ קֳדָ֣ם מַלְכָּ֑א אֱדַ֣יִן מִלְּתָ֔א הוֹדַ֥ע אַרְי֖וֹךְ לְדָנִיֵּֽאל׃"
+pericope: "[[Dan.2.14 The Dream Revealed to Daniel|The Dream Revealed to Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ARIOCH|ARIOCH]]"
+strongs:
+- "[[H6032]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H0746B]]"
+- "[[H7990]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H5922]]"
+- "[[H4101]]"
+- "[[H1882]]"
+- "[[H2685]]"
+- "[[H4481]]"
+- "[[H6925]]"
+- "[[H0116]]"
+- "[[H4406]]"
+- "[[H3046]]"
+- "[[H1841H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:15**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He answered and said to Arioch the king’s captain, Why [is] the decree [so] hasty from the king? Then Arioch made the thing known to Daniel.
 <small><sub>**BSB:**</sub></small>
 “Why is the decree from the king so harsh?” he asked. Then Arioch explained the situation to Daniel.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עָנֵ֣ה]] [[H9002\|וְ]][[H0560\|אָמַ֗ר]] [[H9005\|לְ]][[H0746B\|אַרְיוֹךְ֙]] [[H7990\|שַׁלִּיטָ֣]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H4101\|מָ֥ה]] [[H1882\|דָתָ֛]][[H9010\|א]] [[H2685\|מְהַחְצְפָ֖ה]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָ֣ם]] [[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H0116\|אֱדַ֣יִן]] [[H4406\|מִלְּתָ֔]][[H9010\|א]] [[H3046\|הוֹדַ֥ע]] [[H0746B\|אַרְי֖וֹךְ]] [[H9005\|לְ]][[H1841H\|דָנִיֵּֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIOCH|ARIOCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.14|<< Daniel 2:14]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.16|Daniel 2:16 >>]]</td></tr></table>
 

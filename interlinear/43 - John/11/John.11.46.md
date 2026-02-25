@@ -1,10 +1,57 @@
+---
+title: John 11:46
+type: Verse
+kjv: "But some of them went their ways to the Pharisees, and told them what things Jesus had done."
+bsb: "But some of them went to the Pharisees and told them what Jesus had done."
+greek: "τινὲς δὲ ἐξ αὐτῶν ἀπῆλθον πρὸς τοὺς Φαρισαίους καὶ εἶπαν αὐτοῖς ἃ ἐποίησεν ὁ Ἰησοῦς.¶"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G0565]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- ko
+---
+
 **John 11:46**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But some of them went their ways to the Pharisees, and told them what things Jesus had done.
 <small><sub>**BSB:**</sub></small>
 But some of them went to the Pharisees and told them what Jesus had done.
-<small><sub>**Literal:**</sub></small>
-some however of them went to the Pharisees and told to them what did <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.45|<< John 11:45]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.47|John 11:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0565\|ἀπῆλθον]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G5330\|Φαρισαίους]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτοῖς]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.45|<< John 11:45]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.47|John 11:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

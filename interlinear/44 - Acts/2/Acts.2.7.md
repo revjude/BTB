@@ -1,10 +1,67 @@
+---
+title: Acts 2:7
+type: Verse
+kjv: "And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans?"
+bsb: "Astounded and amazed, they asked, “Are not all these who are speaking Galileans?"
+greek: "ἐξίσταντο δὲ πάντες καὶ ἐθαύμαζον λέγοντες πρὸς ἀλλήλους· οὐχ ἰδοὺ ἅπαντες οὗτοί εἰσιν οἱ λαλοῦντες Γαλιλαῖοι;"
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G1839]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G2296]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3756]]"
+- "[[G2400]]"
+- "[[G0537]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G1057]]"
+texts:
+- NKO
+- KO
+- K
+- NK(o)
+- N(k)O
+---
+
 **Acts 2:7**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilaeans?
 <small><sub>**BSB:**</sub></small>
 Astounded and amazed, they asked, “Are not all these who are speaking Galileans?
-<small><sub>**Literal:**</sub></small>
-They were amazed then all and were marveling saying to one another: Surely behold all these are who are speaking Galileans?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.6|<< Acts 2:6]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.8|Acts 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1839\|ἐξίσταντο]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G2296\|ἐθαύμαζον]]  [[G3004G\|λέγοντες]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G3756\|οὐχ]]  [[G2400\|ἰδοὺ]]  [[G0537\|ἅπαντες]]  [[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G2980\|λαλοῦντες]]  [[G1057\|Γαλιλαῖοι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic GALILEE|GALILEE]] • [[topic LANGUAGE|LANGUAGE]] • [[topic ORATOR|ORATOR]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.6|<< Acts 2:6]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.8|Acts 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Isaiah 47:1
+type: Verse
+kjv: "Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate."
+bsb: "“Go down and sit in the dust, O Virgin Daughter of Babylon. Sit on the ground without a throne, O Daughter of the Chaldeans! For you will no longer be called tender or delicate."
+hebrew: "רְדִ֣י׀ וּשְׁבִ֣י עַל־ עָפָ֗ר בְּתוּלַת֙ בַּת־ בָּבֶ֔ל שְׁבִי־ לָאָ֥רֶץ אֵין־ כִּסֵּ֖א בַּת־ כַּשְׂדִּ֑ים כִּ֣י לֹ֤א תוֹסִ֙יפִי֙ יִקְרְאוּ־ לָ֔ךְ רַכָּ֖ה וַעֲנֻגָּֽה׃"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H3381]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6083]]"
+- "[[H1330]]"
+- "[[H1323G]]"
+- "[[H0894]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H0369]]"
+- "[[H3678G]]"
+- "[[H3778]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H7121H]]"
+- "[[H9032]]"
+- "[[H7390]]"
+- "[[H6028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 47:1**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: [there is] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 <small><sub>**BSB:**</sub></small>
 “Go down and sit in the dust, O Virgin Daughter of Babylon. Sit on the ground without a throne, O Daughter of the Chaldeans! For you will no longer be called tender or delicate.
+<small><sub>**Hebrew:**</sub></small>
+[[H3381\|רְדִ֣י]][[H9015\|׀]] [[H9002\|וּ]][[H3427\|שְׁבִ֣י]] [[H5921A\|עַל]][[H9014\|־]] [[H6083\|עָפָ֗ר]] [[H1330\|בְּתוּלַת֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H3427\|שְׁבִי]][[H9014\|־]] [[H9005\|לָ]][[H0776H\|אָ֥רֶץ]] [[H0369\|אֵין]][[H9014\|־]] [[H3678G\|כִּסֵּ֖א]] [[H1323G\|בַּת]][[H9014\|־]] [[H3778\|כַּשְׂדִּ֑ים]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3254G\|תוֹסִ֙יפִי֙]] [[H7121H\|יִקְרְאוּ]][[H9014\|־]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H7390\|רַכָּ֖ה]] [[H9002\|וַ]][[H6028\|עֲנֻגָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.13|<< Isaiah 46:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.2|Isaiah 47:2 >>]]</td></tr></table>
 

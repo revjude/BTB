@@ -1,8 +1,51 @@
+---
+title: Amos 3:8
+type: Verse
+kjv: "The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?"
+bsb: "The lion has roared—who will not fear? The Lord GOD has spoken—who will not prophesy?"
+hebrew: "אַרְיֵ֥ה שָׁאָ֖ג מִ֣י לֹ֣א יִירָ֑א אֲדֹנָ֤י יְהוִה֙ דִּבֶּ֔ר מִ֖י לֹ֥א יִנָּבֵֽא׃"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0738B]]"
+- "[[H7580]]"
+- "[[H4310]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H1696G]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 3:8**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?
 <small><sub>**BSB:**</sub></small>
 The lion has roared—who will not fear? The Lord GOD has spoken—who will not prophesy?
+<small><sub>**Hebrew:**</sub></small>
+[[H0738B\|אַרְיֵ֥ה]] [[H7580\|שָׁאָ֖ג]] [[H4310\|מִ֣י]] [[H3808\|לֹ֣א]] [[H3372G\|יִירָ֑א]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H1696G\|דִּבֶּ֔ר]] [[H4310\|מִ֖י]] [[H3808\|לֹ֥א]] [[H5012\|יִנָּבֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.7|<< Amos 3:7]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.9|Amos 3:9 >>]]</td></tr></table>
 

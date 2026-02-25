@@ -1,8 +1,64 @@
+---
+title: Zechariah 7:9
+type: Verse
+kjv: "Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:"
+bsb: "“This is what the LORD of Hosts says: ‘Administer true justice. Show loving devotion and compassion to one another."
+hebrew: "כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר מִשְׁפַּ֤ט אֱמֶת֙ שְׁפֹ֔טוּ וְחֶ֣סֶד וְרַֽחֲמִ֔ים עֲשׂ֖וּ אִ֥ישׁ אֶת־ אָחִֽיו׃"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H0571H]]"
+- "[[H8199]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H7356B]]"
+- "[[H6213A]]"
+- "[[H0376I]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 7:9**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts says: ‘Administer true justice. Show loving devotion and compassion to one another.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4941G\|מִשְׁפַּ֤ט]] [[H0571H\|אֱמֶת֙]] [[H8199\|שְׁפֹ֔טוּ]] [[H9002\|וְ]][[H2617A\|חֶ֣סֶד]] [[H9002\|וְ]][[H7356B\|רַֽחֲמִ֔ים]] [[H6213A\|עֲשׂ֖וּ]] [[H0376I\|אִ֥ישׁ]] [[H0854\|אֶת]][[H9014\|־]] [[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic KINDNESS|KINDNESS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.8|<< Zechariah 7:8]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.10|Zechariah 7:10 >>]]</td></tr></table>
 

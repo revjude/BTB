@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Testing the Spirits
+type: Pericope
 pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 4
 book/chapter: "[[1John.4|1 John 4]]"
-genre:
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 6
 verses:
 - "[[1John.4.1]]"
 - "[[1John.4.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1John.4.6]]"
 ---
 
-[[1John.4|1 John 4:1 - 1 John 4:6]]
+<small>[[1John.4|1 John 4:1-6]]</small>
 *Testing the Spirits*
 
 [[1John.4.1|1]] Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.

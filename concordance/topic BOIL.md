@@ -11,5 +11,5 @@
 
 → Of Job [[Job.2.7|Job 2:7]],[[Job.2.8|8]]
 
-→ Levitical ceremonies prescribed for [[Lev.13.18|Le 13:18]]-[[Lev.13.23|23]]
+→ Levitical ceremonies prescribed for [[Lev.13.18|Le 13:18-23]]
 

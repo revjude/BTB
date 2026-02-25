@@ -1,8 +1,75 @@
+---
+title: Ezekiel 42:14
+type: Verse
+kjv: "When the priests enter therein, then shall they not go out of the holy place into the utter court, but there they shall lay their garments wherein they minister; for they are holy; and shall put on other garments, and shall approach to those things which are for the people."
+bsb: "Once the priests have entered the holy area, they must not go out into the outer court until they have left behind the garments in which they minister, for these are holy. They are to put on other clothes before they approach the places that are for the people.”"
+hebrew: "בְּבֹאָ֣ם הַכֹּהֲנִ֗ים וְלֹֽא־ יֵצְא֤וּ מֵהַקֹּ֙דֶשׁ֙ אֶל־ הֶחָצֵ֣ר הַחִיצוֹנָ֔ה וְשָׁ֞ם יַנִּ֧יחוּ בִגְדֵיהֶ֛ם אֲשֶׁר־ יְשָׁרְת֥וּ בָהֶ֖ן כִּֽי־ קֹ֣דֶשׁ הֵ֑נָּה וְלָבְשׁוּ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וְקָרְב֖וּ אֶל־ אֲשֶׁ֥ר לָעָֽם׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9048]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H6944J]]"
+- "[[H0413]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H8033G]]"
+- "[[H5117]]"
+- "[[H0899B]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H9039]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H2007]]"
+- "[[H3847]]"
+- "[[H9001]]"
+- "[[H0312]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 42:14**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the priests enter therein, then shall they not go out of the holy [place] into the utter court, but there they shall lay their garments wherein they minister; for they [are] holy; and shall put on other garments, and shall approach to [those things] which [are] for the people.
 <small><sub>**BSB:**</sub></small>
 Once the priests have entered the holy area, they must not go out into the outer court until they have left behind the garments in which they minister, for these are holy. They are to put on other clothes before they approach the places that are for the people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0935G\|בֹאָ֣]][[H9048\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3318G\|יֵצְא֤וּ]] [[H9006\|מֵ]][[H9009\|הַ]][[H6944J\|קֹּ֙דֶשׁ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H2435\|חִיצוֹנָ֔ה]] [[H9002\|וְ]][[H8033G\|שָׁ֞ם]] [[H5117\|יַנִּ֧יחוּ]] [[H0899B\|בִגְדֵי]][[H9028\|הֶ֛ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8334\|יְשָׁרְת֥וּ]] [[H9003\|בָ]][[H9039\|הֶ֖ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6944G\|קֹ֣דֶשׁ]] [[H2007\|הֵ֑נָּה]] [[H9001\|וְ]][[H3847\|לָבְשׁוּ֙]] [[H0899B\|בְּגָדִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וְ]][[H7126G\|קָרְב֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.13|<< Ezekiel 42:13]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.15|Ezekiel 42:15 >>]]</td></tr></table>
 

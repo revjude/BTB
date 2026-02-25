@@ -1,10 +1,61 @@
+---
+title: Revelation 7:4
+type: Verse
+kjv: "And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel."
+bsb: "And I heard the number of those who were sealed, 144,000 from all the tribes of Israel:"
+greek: "Καὶ ἤκουσα τὸν ἀριθμὸν τῶν ἐσφραγισμένων· ἑκατὸν καὶ τεσσεράκοντα τέσσαρες χιλιάδες ἐσφραγισμένοι ἐκ πάσης φυλῆς υἱῶν Ἰσραήλ·"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G0706]]"
+- "[[G4972]]"
+- "[[G1540]]"
+- "[[G5062]]"
+- "[[G5064]]"
+- "[[G5505]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G5443]]"
+- "[[G5207]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(K)O
+- o
+- NK(o)
+---
+
 **Revelation 7:4**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard the number of them which were sealed: [and there were] sealed an hundred [and] forty [and] four thousand of all the tribes of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And I heard the number of those who were sealed, 144,000 from all the tribes of Israel:
-<small><sub>**Literal:**</sub></small>
-And I heard the number of those sealed; one hundred and forty four thousand sealed out of every tribe of [the] sons of Israel:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.3|<< Revelation 7:3]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.5|Revelation 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G3588\|τὸν]]  [[G0706\|ἀριθμὸν]]  [[G3588\|τῶν]]  [[G4972\|ἐσφραγισμένων·]]  [[G1540\|ἑκατὸν]]  [[G2532\|καὶ]]  [[G5062\|τεσσεράκοντα]]  [[G5064\|τέσσαρες]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι]]  [[G1537\|ἐκ]]  [[G3956\|πάσης]]  [[G5443\|φυλῆς]]  [[G5207\|υἱῶν]]  [[G2474\|Ἰσραήλ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEAL|SEAL]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.3|<< Revelation 7:3]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.5|Revelation 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

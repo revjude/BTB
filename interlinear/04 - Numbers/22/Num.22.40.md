@@ -1,8 +1,54 @@
+---
+title: Numbers 22:40
+type: Verse
+kjv: "And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him."
+bsb: "Balak sacrificed cattle and sheep, and he gave portions to Balaam and the princes who were with him."
+hebrew: "וַיִּזְבַּ֥ח בָּלָ֖ק בָּקָ֣ר וָצֹ֑אן וַיְשַׁלַּ֣ח לְבִלְעָ֔ם וְלַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H1111]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H1109A]]"
+- "[[H8269]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:40**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak offered oxen and sheep, and sent to Balaam, and to the princes that [were] with him.
 <small><sub>**BSB:**</sub></small>
 Balak sacrificed cattle and sheep, and he gave portions to Balaam and the princes who were with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבַּ֥ח]] [[H1111\|בָּלָ֖ק]] [[H1241\|בָּקָ֣ר]] [[H9002\|וָ]][[H6629G\|צֹ֑אן]] [[H9001\|וַ]][[H7971G\|יְשַׁלַּ֣ח]] [[H9005\|לְ]][[H1109A\|בִלְעָ֔ם]] [[H9002\|וְ]][[H9005\|לַ]][[H8269\|שָּׂרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.39|<< Numbers 22:39]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.41|Numbers 22:41 >>]]</td></tr></table>
 

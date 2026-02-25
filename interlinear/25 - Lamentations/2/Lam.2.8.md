@@ -1,8 +1,61 @@
+---
+title: Lamentations 2:8
+type: Verse
+kjv: "The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together."
+bsb: "The LORD determined to destroy the wall of the Daughter of Zion. He stretched out a measuring line and did not withdraw His hand from destroying. He made the ramparts and walls lament; together they waste away."
+hebrew: "חָשַׁ֨ב יְהוָ֤ה׀ לְהַשְׁחִית֙ חוֹמַ֣ת בַּת־ צִיּ֔וֹן נָ֣טָה קָ֔ו לֹא־ הֵשִׁ֥יב יָד֖וֹ מִבַּלֵּ֑עַ וַיַּֽאֲבֶל־ חֵ֥ל וְחוֹמָ֖ה יַחְדָּ֥ו אֻמְלָֽלוּ׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H2803I]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H2346G]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H5186]]"
+- "[[H6957B]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1104]]"
+- "[[H9001]]"
+- "[[H0056]]"
+- "[[H2426]]"
+- "[[H9002]]"
+- "[[H3162B]]"
+- "[[H0535]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:8**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.
 <small><sub>**BSB:**</sub></small>
 The LORD determined to destroy the wall of the Daughter of Zion. He stretched out a measuring line and did not withdraw His hand from destroying. He made the ramparts and walls lament; together they waste away.
+<small><sub>**Hebrew:**</sub></small>
+[[H2803I\|חָשַׁ֨ב]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H9005\|לְ]][[H7843\|הַשְׁחִית֙]] [[H2346G\|חוֹמַ֣ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H5186\|נָ֣טָה]] [[H6957B\|קָ֔ו]] [[H3808\|לֹא]][[H9014\|־]] [[H7725I\|הֵשִׁ֥יב]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H1104\|בַּלֵּ֑עַ]] [[H9001\|וַ]][[H0056\|יַּֽאֲבֶל]][[H9014\|־]] [[H2426\|חֵ֥ל]] [[H9002\|וְ]][[H2346G\|חוֹמָ֖ה]] [[H3162B\|יַחְדָּ֥ו]] [[H0535\|אֻמְלָֽלוּ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
 
@@ -24,7 +77,7 @@ The LORD determined to destroy the wall of the Daughter of Zion. He stretched ou
 | rampart  |**<big>&#8207;[[H2426\|חֵ֥ל]]&#8207; </big>**| chel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wall  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2346G\|חוֹמָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | together  |**<big>&#8207;[[H3162B\|יַחְדָּ֥ו]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have languished  |**<big>&#8207;[[H0535\|אֻמְלָֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'um.La.lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have languished  |**<big>&#8207;[[H0535\|אֻמְלָֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'um.La.lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.7|<< Lamentations 2:7]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.9|Lamentations 2:9 >>]]</td></tr></table>
 
 

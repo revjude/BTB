@@ -1,8 +1,65 @@
+---
+title: Ezekiel 16:18
+type: Verse
+kjv: "And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them."
+bsb: "You took your embroidered garments to cover them, and you set My oil and incense before them."
+hebrew: "וַתִּקְחִ֛י אֶת־ בִּגְדֵ֥י רִקְמָתֵ֖ךְ וַתְּכַסִּ֑ים וְשַׁמְנִי֙ וּקְטָרְתִּ֔י נָתַ֖תְּ לִפְנֵיהֶֽם׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H7553]]"
+- "[[H9022]]"
+- "[[H3680]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H9020]]"
+- "[[H7004]]"
+- "[[H5414J]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 16:18**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.
 <small><sub>**BSB:**</sub></small>
 You took your embroidered garments to cover them, and you set My oil and incense before them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקְחִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵ֥י]] [[H7553\|רִקְמָתֵ֖]][[H9022\|ךְ]] [[H9001\|וַ]][[H3680\|תְּכַסִּ֑י]][[H9038\|ם]] [[H9002\|וְ]][[H8081\|שַׁמְנִ]][[H9020\|י֙]] [[H9002\|וּ]][[H7004\|קְטָרְתִּ֔]][[H9020\|י]] [[H5414J\|נָתַ֖תְּ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMBROIDERY|EMBROIDERY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.17|<< Ezekiel 16:17]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.19|Ezekiel 16:19 >>]]</td></tr></table>
 

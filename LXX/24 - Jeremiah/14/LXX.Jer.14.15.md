@@ -1,6 +1,83 @@
+---
+title: LXX Jeremiah 14:15
+type: Verse
+lxx: "On account of this, thus says the lord, concerning the prophets, of the ones prophesying lies in my name, and I did not send them, who say, Sword and famine will not be upon  this land. By a diseased death the prophets shall die and by hunger they shall be finished off entirely,"
+greek: "διά τούτο τάδε λέγει κύριος περί των προφητών των προφητευόντων επί τω ονόματί μου ψευδή και εγώ ουκ απέστειλα αυτούς οι λέγουσι μάχαιρα και λιμός ουκ έσται επί της γης ταύτης εν θανάτω νοσερώ αποθανούνται και εν λιμώ συντελεσθήσονται οι προφήται"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3588]]"
+- "[[G4395]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G5571]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G3004]]"
+- "[[G3162]]"
+- "[[G2532]]"
+- "[[G3042]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G2288]]"
+- "[[G8406]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3042]]"
+- "[[G4931]]"
+- "[[G3588]]"
+- "[[G4396]]"
+---
+
 **LXX Jeremiah 14:15** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, concerning the prophets, of the ones prophesying lies in my name, and I did not send them, who say, Sword and famine will not be upon  this land. By a diseased death the prophets shall die and by hunger they shall be finished off entirely, 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G4012\|περί]] [[G3588\|των]] [[G4396\|προφητών]] [[G3588\|των]] [[G4395\|προφητευόντων]] [[G1909\|επί]] [[G3588\|τω]] [[G3686\|ονόματί]] [[G1473\|μου]] [[G5571\|ψευδή]] [[G2532\|και]] [[G1473\|εγώ]] [[G3756\|ουκ]] [[G0649\|απέστειλα]] [[G1473\|αυτούς]] [[G3739\|οι]] [[G3004\|λέγουσι]] [[G3162\|μάχαιρα]] [[G2532\|και]] [[G3042\|λιμός]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G3778\|ταύτης]] [[G1722\|εν]] [[G2288\|θανάτω]] [[G8406\|νοσερώ]] [[G0599\|αποθανούνται]] [[G2532\|και]] [[G1722\|εν]] [[G3042\|λιμώ]] [[G4931\|συντελεσθήσονται]] [[G3588\|οι]] [[G4396\|προφήται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 
@@ -44,6 +121,6 @@ On account of this, thus says \[the\] <span class="smallcaps">lord</span>, conce
 | they shall be finished off entirely | **<big>[[G4931\|συντελεσθήσονται]]</big>** |
 | the | **<big>[[G3588\|οι]]</big>** |
 | prophets | **<big>[[G4396\|προφήται]]</big>** |
-[[Jer.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 
 

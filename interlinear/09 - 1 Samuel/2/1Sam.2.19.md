@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 2:19
+type: Verse
+kjv: "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice."
+bsb: "Each year his mother would make him a little robe and bring it to him when she went with her husband to offer the annual sacrifice."
+hebrew: "וּמְעִ֤יל קָטֹן֙ תַּעֲשֶׂה־ לּ֣וֹ אִמּ֔וֹ וְהַעַלְתָ֥ה ל֖וֹ מִיָּמִ֣ים׀ יָמִ֑ימָה בַּֽעֲלוֹתָהּ֙ אֶת־ אִישָׁ֔הּ לִזְבֹּ֖חַ אֶת־ זֶ֥בַח הַיָּמִֽים׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4598]]"
+- "[[H6996B]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H9006]]"
+- "[[H3117I]]"
+- "[[H9015]]"
+- "[[H9011]]"
+- "[[H9003]]"
+- "[[H5927G]]"
+- "[[H9044]]"
+- "[[H0854]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H2076]]"
+- "[[H0853]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:19**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover his mother made him a little coat, and brought [it] to him from year to year, when she came up with her husband to offer the yearly sacrifice.
 <small><sub>**BSB:**</sub></small>
 Each year his mother would make him a little robe and bring it to him when she went with her husband to offer the annual sacrifice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4598\|מְעִ֤יל]] [[H6996B\|קָטֹן֙]] [[H6213H\|תַּעֲשֶׂה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H5927H\|הַעַלְתָ֥ה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H3117I\|יָּמִ֣ים]][[H9015\|׀]] [[H3117I\|יָמִ֑ימָ]][[H9011\|ה]] [[H9003\|בַּֽ]][[H5927G\|עֲלוֹתָ]][[H9044\|הּ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0376H\|אִישָׁ֔]][[H9024\|הּ]] [[H9005\|לִ]][[H2076\|זְבֹּ֖חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H2077\|זֶ֥בַח]] [[H9009\|הַ]][[H3117I\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic HANNAH|HANNAH]] • [[topic HOPHNI|HOPHNI]] • [[topic PARENTS|PARENTS]] • [[topic SAMUEL|SAMUEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.18|<< 1 Samuel 2:18]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.20|1 Samuel 2:20 >>]]</td></tr></table>
 

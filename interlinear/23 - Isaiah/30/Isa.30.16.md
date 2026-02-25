@@ -1,8 +1,62 @@
+---
+title: Isaiah 30:16
+type: Verse
+kjv: "But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift."
+bsb: "“No,” you say, “we will flee on horses.” Therefore you will flee! “We will ride swift horses,” but your pursuers will be faster."
+hebrew: "וַתֹּ֨אמְר֥וּ לֹא־ כִ֛י עַל־ ס֥וּס נָנ֖וּס עַל־ כֵּ֣ן תְּנוּס֑וּן וְעַל־ קַ֣ל נִרְכָּ֔ב עַל־ כֵּ֖ן יִקַּ֥לּוּ רֹדְפֵיכֶֽם׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H5483M]]"
+- "[[H5127]]"
+- "[[H3651C]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H7031]]"
+- "[[H7392]]"
+- "[[H7043]]"
+- "[[H7291]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:16**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.
 <small><sub>**BSB:**</sub></small>
 “No,” you say, “we will flee on horses.” Therefore you will flee! “We will ride swift horses,” but your pursuers will be faster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֨אמְר֥וּ]] [[H3808\|לֹא]][[H9014\|־]] [[H3588A\|כִ֛י]] [[H5921A\|עַל]][[H9014\|־]] [[H5483M\|ס֥וּס]] [[H5127\|נָנ֖וּס]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֣ן]] [[H5127\|תְּנוּס֑וּ]][[H9013\|ן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7031\|קַ֣ל]] [[H7392\|נִרְכָּ֔ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H7043\|יִקַּ֥לּוּ]] [[H7291\|רֹדְפֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVALRY|CAVALRY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.15|<< Isaiah 30:15]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.17|Isaiah 30:17 >>]]</td></tr></table>
 

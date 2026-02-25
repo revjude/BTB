@@ -1,10 +1,58 @@
+---
+title: John 11:47
+type: Verse
+kjv: "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles."
+bsb: "Then the chief priests and Pharisees convened the Sanhedrin and said, “What are we to do? This man is performing many signs."
+greek: "Συνήγαγον οὖν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι συνέδριον καὶ ἔλεγον· τί ποιοῦμεν, ὅτι οὗτος ὁ ἄνθρωπος πολλὰ ποιεῖ σημεῖα;"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G4863]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G4892]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G0444]]"
+- "[[G4183]]"
+- "[[G4592]]"
+texts:
+- NKO
+---
+
 **John 11:47**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
 <small><sub>**BSB:**</sub></small>
 Then the chief priests and Pharisees convened the Sanhedrin and said, “What are we to do? This man is performing many signs.
-<small><sub>**Literal:**</sub></small>
-Gathered therefore the chief priests and the Pharisees a council and they were saying; What are we to do? For this <the> man many does signs!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.46|<< John 11:46]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.48|John 11:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4863\|Συνήγαγον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G4892\|συνέδριον]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G5101\|τί]]  [[G4160G\|ποιοῦμεν,]]  [[G3754H\|ὅτι]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G4183\|πολλὰ]]  [[G4160G\|ποιεῖ]]  [[G4592\|σημεῖα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.46|<< John 11:46]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.48|John 11:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

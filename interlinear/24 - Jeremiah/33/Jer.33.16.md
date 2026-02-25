@@ -1,8 +1,66 @@
+---
+title: Jeremiah 33:16
+type: Verse
+kjv: "In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The LORD our righteousness."
+bsb: "In those days Judah will be saved, and Jerusalem will dwell securely, and this is the name by which it will be called: The LORD Our Righteousness."
+hebrew: "בַּיָּמִ֤ים הָהֵם֙ תִּוָּשַׁ֣ע יְהוּדָ֔ה וִירוּשָׁלִַ֖ם תִּשְׁכּ֣וֹן לָבֶ֑טַח וְזֶ֥ה אֲשֶׁר־ יִקְרָא־ לָ֖הּ יְהוָ֥ה׀ צִדְקֵֽנוּ׃ ס"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H3467]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H7931]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H9034]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H6664H]]"
+- "[[H9025]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 33:16**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days shall Judah be saved, and Jerusalem shall dwell safely: and this [is the name] wherewith she shall be called, The LORD our righteousness.
 <small><sub>**BSB:**</sub></small>
 In those days Judah will be saved, and Jerusalem will dwell securely, and this is the name by which it will be called: The LORD Our Righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H1992\|הֵם֙]] [[H3467\|תִּוָּשַׁ֣ע]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H7931\|תִּשְׁכּ֣וֹן]] [[H9005\|לָ]][[H0983\|בֶ֑טַח]] [[H9002\|וְ]][[H2088\|זֶ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|יִקְרָא]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H6664H\|צִדְקֵֽ]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.15|<< Jeremiah 33:15]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.17|Jeremiah 33:17 >>]]</td></tr></table>
 
@@ -20,7 +78,7 @@ In those days Judah will be saved, and Jerusalem will dwell securely, and this i
 | anyone will call  |**<big>&#8207;[[H7121H\|יִקְרָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yik.ra'-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> \<the> it  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] righteousness our  |**<big>&#8207;[[H6664H\|צִדְקֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzid.Ke.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] righteousness our  |**<big>&#8207;[[H6664H\|צִדְקֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzid.Ke.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.15|<< Jeremiah 33:15]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.17|Jeremiah 33:17 >>]]</td></tr></table>
 
 

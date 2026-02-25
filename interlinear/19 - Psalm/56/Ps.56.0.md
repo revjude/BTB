@@ -1,6 +1,51 @@
+---
+title: Psalm 56:0
+type: Verse
+kjv: "To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath."
+hebrew: "לַמְנַצֵּ֤חַ׀ עַל־ י֬וֹנַת אֵ֣לֶם רְ֭חֹקִים לְדָוִ֣ד מִכְתָּ֑ם בֶּֽאֱחֹ֨ז אֹת֖וֹ פְלִשְׁתִּ֣ים בְּגַֽת׃"
+pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3128]]"
+- "[[H1732]]"
+- "[[H4387]]"
+- "[[H9003]]"
+- "[[H0270]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6430G]]"
+- "[[H1661]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 56:0**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֤חַ]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H3128\|י֬וֹנַת]] [[H3128\|אֵ֣לֶם]] [[H3128\|רְ֭חֹקִים]] [[H9005\|לְ]][[H1732\|דָוִ֣ד]] [[H4387\|מִכְתָּ֑ם]] [[H9003\|בֶּֽ]][[H0270\|אֱחֹ֨ז]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H6430G\|פְלִשְׁתִּ֣ים]] [[H9003\|בְּ]][[H1661\|גַֽת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.23|<< Psalms 55:23]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.1|Psalms 56:1 >>]]</td></tr></table>
 

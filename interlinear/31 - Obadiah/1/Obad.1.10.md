@@ -1,8 +1,49 @@
+---
+title: Obadiah 1:10
+type: Verse
+kjv: "For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever."
+bsb: "Because of the violence against your brother Jacob, you will be covered with shame and cut off forever."
+hebrew: "מֵחֲמַ֛ס אָחִ֥יךָ יַעֲקֹ֖ב תְּכַסְּךָ֣ בוּשָׁ֑ה וְנִכְרַ֖תָּ לְעוֹלָֽם׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9006]]"
+- "[[H2555]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H3290]]"
+- "[[H3680]]"
+- "[[H9031]]"
+- "[[H0955]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:10**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [thy] violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
 <small><sub>**BSB:**</sub></small>
 Because of the violence against your brother Jacob, you will be covered with shame and cut off forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H2555\|חֲמַ֛ס]] [[H0251G\|אָחִ֥י]][[H9021\|ךָ]] [[H3290\|יַעֲקֹ֖ב]] [[H3680\|תְּכַסְּ]][[H9031\|ךָ֣]] [[H0955\|בוּשָׁ֑ה]] [[H9001\|וְ]][[H3772I\|נִכְרַ֖תָּ]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.9|<< Obadiah 1:9]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.11|Obadiah 1:11 >>]]</td></tr></table>
 

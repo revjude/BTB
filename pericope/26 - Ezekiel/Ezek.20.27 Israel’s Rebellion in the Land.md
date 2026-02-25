@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Rebellion in the Land
+type: Pericope
 pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 20
 book/chapter: "[[Ezek.20|Ezekiel 20]]"
-genre:
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.20.27]]"
 - "[[Ezek.20.28]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.20.32]]"
 ---
 
-[[Ezek.20|Ezekiel 20:27 - Ezekiel 20:32]]
+<small>[[Ezek.20|Ezekiel 20:27-32]]</small>
 *Israel’s Rebellion in the Land*
 
 [[Ezek.20.27|27]] Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.

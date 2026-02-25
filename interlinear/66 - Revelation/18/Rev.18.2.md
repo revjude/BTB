@@ -1,10 +1,67 @@
+---
+title: Revelation 18:2
+type: Verse
+kjv: "And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird."
+bsb: "And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast."
+greek: "καὶ ἔκραξεν ἐν ἰσχυρᾷ φωνῇ μεγάλη λέγων· ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη καὶ ἐγένετο κατοικητήριον δαιμονίων καὶ φυλακὴ παντὸς πνεύματος ἀκαθάρτου καὶ φυλακὴ παντὸς ὀρνέου ἀκαθάρτου καὶ φυλακὴ παντὸς θηρίου ἀκαθάρτου καὶ μεμισημένου,"
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CAGE|CAGE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G1722]]"
+- "[[G2478]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G4098]]"
+- "[[G0897]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G2732]]"
+- "[[G1140]]"
+- "[[G5438G]]"
+- "[[G3956]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G3732]]"
+- "[[G2342]]"
+- "[[G3404]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NO
+---
+
 **Revelation 18:2**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
 <small><sub>**BSB:**</sub></small>
 And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast.
-<small><sub>**Literal:**</sub></small>
-And he cried out in a mighty voice loud saying: Fallen Fallen is Babylon the great And she has become a habitation of demons and a prison of every spirit unclean and a prison of every bird unclean and a prison of every creature unclean and hated,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.1|<< Revelation 18:1]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.3|Revelation 18:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|ἔκραξεν]]  [[G1722\|ἐν]]  [[G2478\|ἰσχυρᾷ]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλη]]  [[G3004G\|λέγων·]]  [[G4098\|ἔπεσεν]]  [[G4098\|ἔπεσεν]]  [[G0897\|Βαβυλὼν]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G2732\|κατοικητήριον]]  [[G1140\|δαιμονίων]]  [[G2532\|καὶ]]  [[G5438G\|φυλακὴ]]  [[G3956\|παντὸς]]  [[G4151G\|πνεύματος]]  [[G0169\|ἀκαθάρτου]]  [[G2532\|καὶ]]  [[G5438G\|φυλακὴ]]  [[G3956\|παντὸς]]  [[G3732\|ὀρνέου]]  [[G0169\|ἀκαθάρτου]]  [[G2532\|καὶ]]  [[G5438G\|φυλακὴ]]  [[G3956\|παντὸς]]  [[G2342\|θηρίου]]  [[G0169\|ἀκαθάρτου]]  [[G2532\|καὶ]]  [[G3404\|μεμισημένου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BIRDS|BIRDS]] • [[topic CAGE|CAGE]] • [[topic FELLOWSHIP|FELLOWSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.1|<< Revelation 18:1]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.3|Revelation 18:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:2** is...
 > $\quad$ referencing: [[LXX.Isa.21.9|Isa 21:9]]

@@ -1,8 +1,66 @@
+---
+title: Numbers 19:4
+type: Verse
+kjv: "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:"
+bsb: "Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the Tent of Meeting."
+hebrew: "וְלָקַ֞ח אֶלְעָזָ֧ר הַכֹּהֵ֛ן מִדָּמָ֖הּ בְּאֶצְבָּע֑וֹ וְהִזָּ֞ה אֶל־ נֹ֨כַח פְּנֵ֧י אֹֽהֶל־ מוֹעֵ֛ד מִדָּמָ֖הּ שֶׁ֥בַע פְּעָמִֽים׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TYPES|TYPES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H5137A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5227]]"
+- "[[H6440G]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:4**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
 <small><sub>**BSB:**</sub></small>
 Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֞ח]] [[H0499G\|אֶלְעָזָ֧ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9006\|מִ]][[H1818\|דָּמָ֖]][[H9024\|הּ]] [[H9003\|בְּ]][[H0676\|אֶצְבָּע֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5137A\|הִזָּ֞ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5227\|נֹ֨כַח]] [[H6440G\|פְּנֵ֧י]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֛ד]] [[H9006\|מִ]][[H1818\|דָּמָ֖]][[H9024\|הּ]] [[H7651\|שֶׁ֥בַע]] [[H6471\|פְּעָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TYPES|TYPES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.3|<< Numbers 19:3]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.5|Numbers 19:5 >>]]</td></tr></table>
 

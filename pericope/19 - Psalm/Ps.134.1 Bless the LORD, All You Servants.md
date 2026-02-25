@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bless the LORD, All You Servants
+type: Pericope
 pericope: "[[Ps.134.1 Bless the LORD, All You Servants|Bless the LORD, All You Servants]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 134
 book/chapter: "[[Ps.134|Psalm 134]]"
-genre:
+chronological_order: 531
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 4
 verses:
 - "[[Ps.134.0]]"
 - "[[Ps.134.1]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ps.134.3]]"
 ---
 
-[[Ps.134|Psalm 134:1 - Psalm 134:3]]
+<small>[[Ps.134|Psalm 134:1-3]]</small>
 *Bless the LORD, All You Servants*
 
 [[Ps.134.0|0]] A Song of degrees.

@@ -1,8 +1,53 @@
+---
+title: Isaiah 33:7
+type: Verse
+kjv: "Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly."
+bsb: "Behold, their valiant ones cry aloud in the streets; the envoys of peace weep bitterly."
+hebrew: "הֵ֚ן אֶרְאֶלָּ֔ם צָעֲק֖וּ חֻ֑צָה מַלְאֲכֵ֣י שָׁל֔וֹם מַ֖ר יִבְכָּיֽוּן׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+strongs:
+- "[[H2005]]"
+- "[[H0691]]"
+- "[[H9028]]"
+- "[[H6817]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H4397G]]"
+- "[[H7965G]]"
+- "[[H4751]]"
+- "[[H1058]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:7**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly.
 <small><sub>**BSB:**</sub></small>
 Behold, their valiant ones cry aloud in the streets; the envoys of peace weep bitterly.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֚ן]] [[H0691\|אֶרְאֶלָּ֔]][[H9028\|ם]] [[H6817\|צָעֲק֖וּ]] [[H2351\|חֻ֑צָ]][[H9011\|ה]] [[H4397G\|מַלְאֲכֵ֣י]] [[H7965G\|שָׁל֔וֹם]] [[H4751\|מַ֖ר]] [[H1058\|יִבְכָּיֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.6|<< Isaiah 33:6]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.8|Isaiah 33:8 >>]]</td></tr></table>
 

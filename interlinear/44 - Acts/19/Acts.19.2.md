@@ -1,10 +1,58 @@
+---
+title: Acts 19:2
+type: Verse
+kjv: "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost."
+bsb: "and asked them, “Did you receive the Holy Spirit when you became believers?” “No,” they answered, “we have not even heard that there is a Holy Spirit.”"
+greek: "εἶπέν τε πρὸς αὐτούς· εἰ πνεῦμα ἅγιον ἐλάβετε πιστεύσαντες; οἱ δὲ εἶπον πρὸς αὐτόν· ἀλλ᾽ οὐδ᾽ εἰ πνεῦμα ἅγιον ἔστιν ἠκούσαμεν."
+pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+strongs:
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1487I]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2983]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0235]]"
+- "[[G3761]]"
+- "[[G1510]]"
+- "[[G0191]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Acts 19:2**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 and asked them, “Did you receive the Holy Spirit when you became believers?” “No,” they answered, “we have not even heard that there is a Holy Spirit.”
-<small><sub>**Literal:**</sub></small>
-he said also to them; If [the] Spirit Holy did you receive having believed? <the> And they said to him; But not even that [a] Spirit Holy there is did we hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.1|<< Acts 19:1]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.3|Acts 19:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπέν]]  [[G5037\|τε]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1487I\|εἰ]]  [[G4151G\|πνεῦμα]]  [[G0040G\|ἅγιον]]  [[G2983\|ἐλάβετε]]  [[G4100\|πιστεύσαντες;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G0235\|ἀλλ᾽]]  [[G3761\|οὐδ᾽]]  [[G1487I\|εἰ]]  [[G4151G\|πνεῦμα]]  [[G0040G\|ἅγιον]]  [[G1510\|ἔστιν]]  [[G0191\|ἠκούσαμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.1|<< Acts 19:1]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.3|Acts 19:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

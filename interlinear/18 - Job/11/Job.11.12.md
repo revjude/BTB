@@ -1,8 +1,56 @@
+---
+title: Job 11:12
+type: Verse
+kjv: "For vain man would be wise, though man be born like a wild ass’s colt."
+bsb: "But a witless man can no more become wise than the colt of a wild donkey can be born a man!"
+hebrew: "וְאִ֣ישׁ נָ֭בוּב יִלָּבֵ֑ב וְעַ֥יִר פֶּ֝֗רֶא אָדָ֥ם יִוָּלֵֽד׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H5014]]"
+- "[[H3823A]]"
+- "[[H5895]]"
+- "[[H6501]]"
+- "[[H0120G]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:12**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For vain man would be wise, though man be born [like] a wild ass’s colt.
 <small><sub>**BSB:**</sub></small>
 But a witless man can no more become wise than the colt of a wild donkey can be born a man!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H5014\|נָ֭בוּב]] [[H3823A\|יִלָּבֵ֑ב]] [[H9002\|וְ]][[H5895\|עַ֥יִר]] [[H6501\|פֶּ֝֗רֶא]] [[H0120G\|אָדָ֥ם]] [[H3205\|יִוָּלֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.13|Job 11:13 >>]]</td></tr></table>
 

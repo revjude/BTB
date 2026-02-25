@@ -1,8 +1,54 @@
+---
+title: Psalm 60:9
+type: Verse
+kjv: "Who will bring me into the strong city? who will lead me into Edom?"
+bsb: "Who will bring me to the fortified city? Who will lead me to Edom?"
+hebrew: "מִ֣י יֹ֭בִלֵנִי עִ֣יר מָצ֑וֹר מִ֖י נָחַ֣נִי עַד־ אֱדֽוֹם׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H4310]]"
+- "[[H2986]]"
+- "[[H9030]]"
+- "[[H5892B]]"
+- "[[H4692]]"
+- "[[H5148]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:9**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who will bring me [into] the strong city? who will lead me into Edom?
 <small><sub>**BSB:**</sub></small>
 Who will bring me to the fortified city? Who will lead me to Edom?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֣י]] [[H2986\|יֹ֭בִלֵ]][[H9030\|נִי]] [[H5892B\|עִ֣יר]] [[H4692\|מָצ֑וֹר]] [[H4310\|מִ֖י]] [[H5148\|נָחַ֣]][[H9030\|נִי]] [[H5704\|עַד]][[H9014\|־]] [[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.8|<< Psalms 60:8]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.10|Psalms 60:10 >>]]</td></tr></table>
 

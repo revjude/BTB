@@ -1,10 +1,53 @@
+---
+title: Romans 13:6
+type: Verse
+kjv: "For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing."
+bsb: "This is also why you pay taxes. For the authorities are God’s servants, who devote themselves to their work."
+greek: "διὰ τοῦτο γὰρ καὶ φόρους τελεῖτε· λειτουργοὶ γὰρ θεοῦ εἰσιν εἰς αὐτὸ τοῦτο προσκαρτεροῦντες.¶"
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G5411]]"
+- "[[G5055]]"
+- "[[G3011]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G4342]]"
+texts:
+- NKO
+---
+
 **Romans 13:6**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing.
 <small><sub>**BSB:**</sub></small>
 This is also why you pay taxes. For the authorities are God’s servants, who devote themselves to their work.
-<small><sub>**Literal:**</sub></small>
-Because of this for also taxes pay you; servants for of God they are upon this very thing attending continually.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.5|<< Romans 13:5]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.7|Romans 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G5411\|φόρους]]  [[G5055\|τελεῖτε·]]  [[G3011\|λειτουργοὶ]]  [[G1063\|γὰρ]]  [[G2316\|θεοῦ]]  [[G1510\|εἰσιν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸ]]  [[G3778\|τοῦτο]]  [[G4342\|προσκαρτεροῦντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.5|<< Romans 13:5]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.7|Romans 13:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 20:26
+type: Verse
+kjv: "And I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am the LORD."
+bsb: "And I pronounced them unclean through their gifts—the sacrifice of every firstborn in the fire—so that I might devastate them, in order that they would know that I am the LORD."
+hebrew: "וָאֲטַמֵּ֤א אוֹתָם֙ בְּמַתְּנוֹתָ֔ם בְּהַעֲבִ֖יר כָּל־ פֶּ֣טֶר רָ֑חַם לְמַ֣עַן אֲשִׁמֵּ֔ם לְמַ֙עַן֙ אֲשֶׁ֣ר יֵֽדְע֔וּ אֲשֶׁ֖ר אֲנִ֥י יְהוָֽה׃ ס"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4979]]"
+- "[[H9028]]"
+- "[[H5674A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6363A]]"
+- "[[H7356A]]"
+- "[[H4616]]"
+- "[[H8074G]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 20:26**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I polluted them in their own gifts, in that they caused to pass through [the fire] all that openeth the womb, that I might make them desolate, to the end that they might know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 And I pronounced them unclean through their gifts—the sacrifice of every firstborn in the fire—so that I might devastate them, in order that they would know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H2930A\|אֲטַמֵּ֤א]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H4979\|מַתְּנוֹתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H5674A\|הַעֲבִ֖יר]] [[H3605\|כָּל]][[H9014\|־]] [[H6363A\|פֶּ֣טֶר]] [[H7356A\|רָ֑חַם]] [[H4616\|לְמַ֣עַן]] [[H8074G\|אֲשִׁמֵּ֔]][[H9038\|ם]] [[H4616\|לְמַ֙עַן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3045\|יֵֽדְע֔וּ]] [[H0834A\|אֲשֶׁ֖ר]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ And I pronounced them unclean through their gifts—the sacrifice of every first
 | they may know  |**<big>&#8207;[[H3045\|יֵֽדְע֔וּ]]&#8207; </big>**| ye.de.'U<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
 
 

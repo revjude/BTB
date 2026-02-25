@@ -1,8 +1,84 @@
+---
+title: Nehemiah 5:14
+type: Verse
+kjv: "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor."
+bsb: "Furthermore, from the day King Artaxerxes appointed me to be their governor in the land of Judah, from his twentieth year until his thirty-second year (twelve years total), neither I nor my brothers ate the food allotted to the governor."
+hebrew: "גַּ֞ם מִיּ֣וֹם׀ אֲשֶׁר־ צִוָּ֣ה אֹתִ֗י לִהְי֣וֹת פֶּחָם֮ בְּאֶ֣רֶץ יְהוּדָה֒ מִשְּׁנַ֣ת עֶשְׂרִ֗ים וְ֠עַד שְׁנַ֨ת שְׁלֹשִׁ֤ים וּשְׁתַּ֙יִם֙ לְאַרְתַּחְשַׁ֣סְתְּא הַמֶּ֔לֶךְ שָׁנִ֖ים שְׁתֵּ֣ים עֶשְׂרֵ֑ה אֲנִ֣י וְאַחַ֔י לֶ֥חֶם הַפֶּ֖חָה לֹ֥א אָכַֽלְתִּי׃"
+pericope: "[[Neh.5.14 Nehemiah’s Generosity|Nehemiah’s Generosity]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H6346]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H7970]]"
+- "[[H8147]]"
+- "[[H0783A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6240]]"
+- "[[H0589]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H3899I]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:14**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, [that is], twelve years, I and my brethren have not eaten the bread of the governor.
 <small><sub>**BSB:**</sub></small>
 Furthermore, from the day King Artaxerxes appointed me to be their governor in the land of Judah, from his twentieth year until his thirty-second year (twelve years total), neither I nor my brothers ate the food allotted to the governor.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֞ם]] [[H9006\|מִ]][[H3117G\|יּ֣וֹם]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֣ה]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H9005\|לִ]][[H1961\|הְי֣וֹת]] [[H6346\|פֶּחָ]][[H9028\|ם֮]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָה֒]] [[H9006\|מִ]][[H8141\|שְּׁנַ֣ת]] [[H6242\|עֶשְׂרִ֗ים]] [[H9002\|וְ֠]][[H5704\|עַד]] [[H8141\|שְׁנַ֨ת]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֙יִם֙]] [[H9005\|לְ]][[H0783A\|אַרְתַּחְשַׁ֣סְתְּא]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H8141\|שָׁנִ֖ים]] [[H8147\|שְׁתֵּ֣ים]] [[H6240\|עֶשְׂרֵ֑ה]] [[H0589\|אֲנִ֣י]] [[H9002\|וְ]][[H0251G\|אַחַ֔]][[H9020\|י]] [[H3899I\|לֶ֥חֶם]] [[H9009\|הַ]][[H6346\|פֶּ֖חָה]] [[H3808\|לֹ֥א]] [[H0398\|אָכַֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic COUNTRY|COUNTRY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic PERSIA|PERSIA]] • [[topic RULERS|RULERS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.13|<< Nehemiah 5:13]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.15|Nehemiah 5:15 >>]]</td></tr></table>
 

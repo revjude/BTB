@@ -1,10 +1,58 @@
+---
+title: Matthew 7:28
+type: Verse
+kjv: "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"
+bsb: "When Jesus had finished saying these things, the crowds were astonished at His teaching,"
+greek: "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, ἐξεπλήσσοντο οἱ ὄχλοι ἐπὶ τῇ διδαχῇ αὐτοῦ·"
+pericope: "[[Matt.7.28 The Authority of Jesus|The Authority of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEOPLE, COMMON|PEOPLE, COMMON]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3753]]"
+- "[[G5055]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G1605]]"
+- "[[G3793]]"
+- "[[G1909]]"
+- "[[G1322]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 7:28**<big><big>[[Matt.7.28 The Authority of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
 <small><sub>**BSB:**</sub></small>
 When Jesus had finished saying these things, the crowds were astonished at His teaching,
-<small><sub>**Literal:**</sub></small>
-And it came to pass when finished <the> Jesus <the> words these, were astonished the crowds at the teaching of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.27|<< Matthew 7:27]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.29|Matthew 7:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G3753\|ὅτε]]  [[G5055\|ἐτέλεσεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους,]]  [[G1605\|ἐξεπλήσσοντο]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G1322\|διδαχῇ]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEOPLE, COMMON|PEOPLE, COMMON]] • [[topic POWER|POWER]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.27|<< Matthew 7:27]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.29|Matthew 7:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

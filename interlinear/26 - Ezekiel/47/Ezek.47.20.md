@@ -1,8 +1,59 @@
+---
+title: Ezekiel 47:20
+type: Verse
+kjv: "The west side also shall be the great sea from the border, till a man come over against Hamath. This is the west side."
+bsb: "And on the west side, the Great Sea will be the boundary up to a point opposite Lebo-hamath. This will be the western boundary."
+hebrew: "וּפְאַת־ יָם֙ הַיָּ֣ם הַגָּד֔וֹל מִגְּב֕וּל עַד־ נֹ֖כַח לְב֣וֹא חֲמָ֑ת זֹ֖את פְּאַת־ יָֽם׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+strongs:
+- "[[H9002]]"
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H9006]]"
+- "[[H1366G]]"
+- "[[H5704]]"
+- "[[H5227]]"
+- "[[H0935H]]"
+- "[[H2574G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:20**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The west side also [shall be] the great sea from the border, till a man come over against Hamath. This [is] the west side.
 <small><sub>**BSB:**</sub></small>
 And on the west side, the Great Sea will be the boundary up to a point opposite Lebo-hamath. This will be the western boundary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6285\|פְאַת]][[H9014\|־]] [[H3220H\|יָם֙]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H9009\|הַ]][[H1419J\|גָּד֔וֹל]] [[H9006\|מִ]][[H1366G\|גְּב֕וּל]] [[H5704\|עַד]][[H9014\|־]] [[H5227\|נֹ֖כַח]] [[H0935H\|לְב֣וֹא]] [[H2574G\|חֲמָ֑ת]] [[H2063\|זֹ֖את]] [[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.19|<< Ezekiel 47:19]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.21|Ezekiel 47:21 >>]]</td></tr></table>
 

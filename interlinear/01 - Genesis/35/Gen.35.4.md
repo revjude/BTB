@@ -1,8 +1,76 @@
+---
+title: Genesis 35:4
+type: Verse
+kjv: "And they gave unto Jacob all the strange gods which were in their hand, and all their earrings which were in their ears; and Jacob hid them under the oak which was by Shechem."
+bsb: "So they gave Jacob all their foreign gods and all their earrings, and Jacob buried them under the oak near Shechem."
+hebrew: "וַיִּתְּנ֣וּ אֶֽל־ יַעֲקֹ֗ב אֵ֣ת כָּל־ אֱלֹהֵ֤י הַנֵּכָר֙ אֲשֶׁ֣ר בְּיָדָ֔ם וְאֶת־ הַנְּזָמִ֖ים אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיִּטְמֹ֤ן אֹתָם֙ יַעֲקֹ֔ב תַּ֥חַת הָאֵלָ֖ה אֲשֶׁ֥ר עִם־ שְׁכֶֽם׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic EAR-RING|EAR-RING]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic OAK|OAK]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5236]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5141]]"
+- "[[H0241G]]"
+- "[[H2934]]"
+- "[[H9038]]"
+- "[[H8478G]]"
+- "[[H0424]]"
+- "[[H5973A]]"
+- "[[H7927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:4**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave unto Jacob all the strange gods which [were] in their hand, and [all their] earrings which [were] in their ears; and Jacob hid them under the oak which [was] by Shechem.
 <small><sub>**BSB:**</sub></small>
 So they gave Jacob all their foreign gods and all their earrings, and Jacob buried them under the oak near Shechem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנ֣וּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֤י]] [[H9009\|הַ]][[H5236\|נֵּכָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3027I\|יָדָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5141\|נְּזָמִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H0241G\|אָזְנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H2934\|יִּטְמֹ֤ן]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H3290\|יַעֲקֹ֔ב]] [[H8478G\|תַּ֥חַת]] [[H9009\|הָ]][[H0424\|אֵלָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5973A\|עִם]][[H9014\|־]] [[H7927G\|שְׁכֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic EAR-RING|EAR-RING]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JACOB|JACOB]] • [[topic JEWELS|JEWELS]] • [[topic OAK|OAK]] • [[topic POLYTHEISM|POLYTHEISM]] • [[topic TERAPHIM|TERAPHIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.3|<< Genesis 35:3]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.5|Genesis 35:5 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Hebrews 3:1
+type: Verse
+kjv: "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
+bsb: "Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess."
+greek: "Ὅθεν, ἀδελφοὶ ἅγιοι, κλήσεως ἐπουρανίου μέτοχοι, κατανοήσατε τὸν ἀπόστολον καὶ ἀρχιερέα τῆς ὁμολογίας ἡμῶν Χριστόν Ἰησοῦν"
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTLE|APOSTLE]]"
+- "[[topic CALL|CALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3606]]"
+- "[[G0080]]"
+- "[[G0040G]]"
+- "[[G2821]]"
+- "[[G2032]]"
+- "[[G3353]]"
+- "[[G2657]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2532]]"
+- "[[G0749]]"
+- "[[G3671]]"
+- "[[G3165]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- K
+---
+
 **Hebrews 3:1**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
 <small><sub>**BSB:**</sub></small>
 Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess.
-<small><sub>**Literal:**</sub></small>
-Therefore, brothers holy, of [the] calling heavenly partakers, do carefully consider the apostle and high priest of the confession of us Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.18|<< Hebrews 2:18]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.2|Hebrews 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3606\|Ὅθεν,]]  [[G0080\|ἀδελφοὶ]]  [[G0040G\|ἅγιοι,]]  [[G2821\|κλήσεως]]  [[G2032\|ἐπουρανίου]]  [[G3353\|μέτοχοι,]]  [[G2657\|κατανοήσατε]]  [[G3588\|τὸν]]  [[G0652\|ἀπόστολον]]  [[G2532\|καὶ]]  [[G0749\|ἀρχιερέα]]  [[G3588\|τῆς]]  [[G3671\|ὁμολογίας]]  [[G3165\|ἡμῶν]]  [[G5547\|Χριστόν]]  [[G2424G\|Ἰησοῦν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLE|APOSTLE]] • [[topic CALL|CALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.18|<< Hebrews 2:18]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.2|Hebrews 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

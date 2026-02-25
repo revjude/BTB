@@ -1,8 +1,69 @@
+---
+title: Exodus 12:7
+type: Verse
+kjv: "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+bsb: "They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs."
+hebrew: "וְלָֽקְחוּ֙ מִן־ הַדָּ֔ם וְנָֽתְנ֛וּ עַל־ שְׁתֵּ֥י הַמְּזוּזֹ֖ת וְעַל־ הַמַּשְׁק֑וֹף עַ֚ל הַבָּ֣תִּ֔ים אֲשֶׁר־ יֹאכְל֥וּ אֹת֖וֹ בָּהֶֽם׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H4201]]"
+- "[[H9002]]"
+- "[[H4947]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:7**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take of the blood, and strike [it] on the two side posts and on the upper door post of the houses, wherein they shall eat it.
 <small><sub>**BSB:**</sub></small>
 They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָֽקְחוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֔ם]] [[H9001\|וְ]][[H5414H\|נָֽתְנ֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁתֵּ֥י]] [[H9009\|הַ]][[H4201\|מְּזוּזֹ֖ת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4947\|מַּשְׁק֑וֹף]] [[H5921A\|עַ֚ל]] [[H9009\|הַ]][[H1004B\|בָּ֣תִּ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0398\|יֹאכְל֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.6|<< Exodus 12:6]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.8|Exodus 12:8 >>]]</td></tr></table>
 

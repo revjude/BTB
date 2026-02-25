@@ -17,7 +17,7 @@
 
 → Keeping the heart [[Prov.4.23|Pr 4:23]]
 
-→ Labors of love [[Heb.6.10|Heb 6:10]]-[[Heb.6.12|12]]
+→ Labors of love [[Heb.6.10|Heb 6:10-12]]
 
 → Following every good work [[1Tim.3.10|1Ti 3:10]]
 
@@ -55,7 +55,7 @@
 
 → Honor [[Prov.12.24|Pr 12:24]]; [[Prov.22.29|22:29]]
 
-→ FIGURATIVE [[Prov.6.6|Pr 6:6]]-[[Prov.6.8|8]]
+→ FIGURATIVE [[Prov.6.6|Pr 6:6-8]]
 
 - Exemplified
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 68:6
+type: Verse
+kjv: "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land."
+bsb: "God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land."
+hebrew: "אֱלֹהִ֤ים׀ מ֘וֹשִׁ֤יב יְחִידִ֨ים׀ בַּ֗יְתָה מוֹצִ֣יא אֲ֭סִירִים בַּכּוֹשָׁר֑וֹת אַ֥ךְ ס֝וֹרֲרִ֗ים שָׁכְנ֥וּ צְחִיחָֽה׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H3173]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H3318H]]"
+- "[[H0615]]"
+- "[[H9003]]"
+- "[[H3574]]"
+- "[[H0389]]"
+- "[[H5637]]"
+- "[[H7931]]"
+- "[[H6707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:6**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry [land].
 <small><sub>**BSB:**</sub></small>
 God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H3427\|מ֘וֹשִׁ֤יב]] [[H3173\|יְחִידִ֨ים]][[H9015\|׀]] [[H1004B\|בַּ֗יְתָ]][[H9011\|ה]] [[H3318H\|מוֹצִ֣יא]] [[H0615\|אֲ֭סִירִים]] [[H9003\|בַּ]][[H3574\|כּוֹשָׁר֑וֹת]] [[H0389\|אַ֥ךְ]] [[H5637\|ס֝וֹרֲרִ֗ים]] [[H7931\|שָׁכְנ֥וּ]] [[H6707\|צְחִיחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic CHAINS|CHAINS]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.5|<< Psalms 68:5]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.7|Psalms 68:7 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: Acts 15:36
+type: Verse
+kjv: "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do."
+bsb: "Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.”"
+greek: "Μετὰ δέ τινας ἡμέρας εἶπεν πρὸς Βαρναβᾶν Παῦλος· ἐπιστρέψαντες δὴ ἐπισκεψώμεθα τοὺς ἀδελφοὺς ἡμῶν κατὰ πόλιν πᾶσαν ἐν αἷς κατηγγείλαμεν τὸν λόγον τοῦ κυρίου, πῶς ἔχουσιν."
+pericope: "[[Acts.15.36 Paul’s Second Missionary Journey Begins|Paul’s Second Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic MARK|MARK]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G2250]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0921G]]"
+- "[[G3972G]]"
+- "[[G1994]]"
+- "[[G1211]]"
+- "[[G1980]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G2596]]"
+- "[[G4172]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2605]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G4459]]"
+- "[[G2192]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 15:36**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, [and see] how they do.
 <small><sub>**BSB:**</sub></small>
 Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.”
-<small><sub>**Literal:**</sub></small>
-After now some days said to Barnabas Paul; Having turned back indeed let us look after the brothers of us in city every in which we have announced the word of the Lord, how they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.35|<< Acts 15:35]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.37|Acts 15:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δέ]]  [[G5100\|τινας]]  [[G2250\|ἡμέρας]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0921G\|Βαρναβᾶν]]  [[G3972G\|Παῦλος·]]  [[G1994\|ἐπιστρέψαντες]]  [[G1211\|δὴ]]  [[G1980\|ἐπισκεψώμεθα]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G3165\|ἡμῶν]]  [[G2596\|κατὰ]]  [[G4172\|πόλιν]]  [[G3956\|πᾶσαν]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G2605\|κατηγγείλαμεν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου,]]  [[G4459\|πῶς]]  [[G2192\|ἔχουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic MARK|MARK]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.35|<< Acts 15:35]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.37|Acts 15:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Genesis 47:28
+type: Verse
+kjv: "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years."
+bsb: "And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years."
+hebrew: "וַיְחִ֤י יַעֲקֹב֙ בְּאֶ֣רֶץ מִצְרַ֔יִם שְׁבַ֥ע עֶשְׂרֵ֖ה שָׁנָ֑ה וַיְהִ֤י יְמֵֽי־ יַעֲקֹב֙ שְׁנֵ֣י חַיָּ֔יו שֶׁ֣בַע שָׁנִ֔ים וְאַרְבָּעִ֥ים וּמְאַ֖ת שָׁנָֽה׃"
+pericope: "[[Gen.47.27 The Israelites Prosper in Goshen|The Israelites Prosper in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7651]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:28**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
 <small><sub>**BSB:**</sub></small>
 And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֤י]] [[H3290\|יַעֲקֹב֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H7651\|שְׁבַ֥ע]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3117G\|יְמֵֽי]][[H9014\|־]] [[H3290\|יַעֲקֹב֙]] [[H8141\|שְׁנֵ֣י]] [[H2416E\|חַיָּ֔י]][[H9023\|ו]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֔ים]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וּ]][[H3967\|מְאַ֖ת]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic LONGEVITY|LONGEVITY]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.27|<< Genesis 47:27]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.29|Genesis 47:29 >>]]</td></tr></table>
 

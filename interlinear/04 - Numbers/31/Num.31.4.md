@@ -1,8 +1,52 @@
+---
+title: Numbers 31:4
+type: Verse
+kjv: "Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war."
+bsb: "Send into battle a thousand men from each tribe of Israel.”"
+hebrew: "אֶ֚לֶף לַמַּטֶּ֔ה אֶ֖לֶף לַמַּטֶּ֑ה לְכֹל֙ מַטּ֣וֹת יִשְׂרָאֵ֔ל תִּשְׁלְח֖וּ לַצָּבָֽא׃"
+pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H0505G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H7971G]]"
+- "[[H6635H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:4**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.
 <small><sub>**BSB:**</sub></small>
 Send into battle a thousand men from each tribe of Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0505G\|אֶ֚לֶף]] [[H9005\|לַ]][[H4294H\|מַּטֶּ֔ה]] [[H0505G\|אֶ֖לֶף]] [[H9005\|לַ]][[H4294H\|מַּטֶּ֑ה]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H4294H\|מַטּ֣וֹת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7971G\|תִּשְׁלְח֖וּ]] [[H9005\|לַ]][[H6635H\|צָּבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.3|<< Numbers 31:3]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.5|Numbers 31:5 >>]]</td></tr></table>
 

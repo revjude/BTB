@@ -1,8 +1,57 @@
+---
+title: Job 27:5
+type: Verse
+kjv: "God forbid that I should justify you: till I die I will not remove mine integrity from me."
+bsb: "I will never say that you are right; I will maintain my integrity until I die."
+hebrew: "חָלִ֣ילָה לִּי֮ אִם־ אַצְדִּ֪יק אֶ֫תְכֶ֥ם עַד־ אֶגְוָ֑ע לֹא־ אָסִ֖יר תֻּמָּתִ֣י מִמֶּֽנִּי׃"
+pericope: "[[Job.27.1 Job Affirms His Integrity|Job Affirms His Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H2486]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H6663]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5704]]"
+- "[[H1478]]"
+- "[[H3808]]"
+- "[[H5493G]]"
+- "[[H8538]]"
+- "[[H9020]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:5**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God forbid that I should justify you: till I die I will not remove mine integrity from me.
 <small><sub>**BSB:**</sub></small>
 I will never say that you are right; I will maintain my integrity until I die.
+<small><sub>**Hebrew:**</sub></small>
+[[H2486\|חָלִ֣ילָה]] [[H9005\|לִּ]][[H9030\|י֮]] [[H0518I\|אִם]][[H9014\|־]] [[H6663\|אַצְדִּ֪יק]] [[H0853\|אֶ֫תְ]][[H9036\|כֶ֥ם]] [[H5704\|עַד]][[H9014\|־]] [[H1478\|אֶגְוָ֑ע]] [[H3808\|לֹא]][[H9014\|־]] [[H5493G\|אָסִ֖יר]] [[H8538\|תֻּמָּתִ֣]][[H9020\|י]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.6|Job 27:6 >>]]</td></tr></table>
 

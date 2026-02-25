@@ -1,6 +1,48 @@
+---
+title: LXX Jeremiah 37:12
+type: Verse
+lxx: "Jeremiah came forth from Jerusalem to go into the land of Benjamin  to buy from there land in the midst of the people."
+greek: "εξήλθεν Ιερεμίας από Ιερουσαλήμ πορευθήναι εις γην Βενιαμίν του αγοράσαι εκείθεν εν μέσω του λαού"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G1831]]"
+- "[[G2408]]"
+- "[[G0575]]"
+- "[[G2419]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[G0958]]"
+- "[[G3588]]"
+- "[[G0059]]"
+- "[[G1564]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G2992]]"
+---
+
 **LXX Jeremiah 37:12** 
 <small><sub>**LXX:**</sub></small>
 Jeremiah came forth from Jerusalem to go into \[the\] land of Benjamin  to buy from there \[land\] in \[the\] midst of the people. 
+<small><sub>**Greek:**</sub></small>
+[[G1831\|εξήλθεν]] [[G2408\|Ιερεμίας]] [[G0575\|από]] [[G2419\|Ιερουσαλήμ]] [[G4198\|πορευθήναι]] [[G1519\|εις]] [[G1093\|γην]] [[G0958\|Βενιαμίν]] [[G3588\|του]] [[G0059\|αγοράσαι]] [[G1564\|εκείθεν]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|του]] [[G2992\|λαού]]
 <small><sub>**MT:**</sub></small>
 [[Jer.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.11|<< Jeremiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.13|Jeremiah 37:13 >>]]</td></tr></table>
 
@@ -20,6 +62,6 @@ Jeremiah came forth from Jerusalem to go into \[the\] land of Benjamin  to buy f
 | \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
 | of the | **<big>[[G3588\|του]]</big>** |
 | people. | **<big>[[G2992\|λαού]]</big>** |
-[[Jer.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.11|<< Jeremiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.13|Jeremiah 37:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.11|<< Jeremiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.13|Jeremiah 37:13 >>]]</td></tr></table>
 
 

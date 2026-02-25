@@ -1,8 +1,59 @@
+---
+title: Psalm 76:7
+type: Verse
+kjv: "Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?"
+bsb: "You alone are to be feared. When You are angry, who can stand before You?"
+hebrew: "אַתָּ֤ה׀ נ֥וֹרָא אַ֗תָּה וּמִֽי־ יַעֲמֹ֥ד לְפָנֶ֗יךָ מֵאָ֥ז אַפֶּֽךָ׃"
+pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H0859A]]"
+- "[[H9015]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 76:7**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, [even] thou, [art] to be feared: and who may stand in thy sight when once thou art angry?
 <small><sub>**BSB:**</sub></small>
 You alone are to be feared. When You are angry, who can stand before You?
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H3372G\|נ֥וֹרָא]] [[H0859A\|אַ֗תָּה]] [[H9002\|וּ]][[H4310\|מִֽי]][[H9014\|־]] [[H5975G\|יַעֲמֹ֥ד]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H9006\|מֵ]][[H0227B\|אָ֥ז]] [[H0639G\|אַפֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.6|<< Psalms 76:6]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.8|Psalms 76:8 >>]]</td></tr></table>
 

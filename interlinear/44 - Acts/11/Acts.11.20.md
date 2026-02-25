@@ -1,10 +1,68 @@
+---
+title: Acts 11:20
+type: Verse
+kjv: "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus."
+bsb: "But some of them, men from Cyprus and Cyrene, went to Antioch and began speaking to the Greeks as well, proclaiming the good news about the Lord Jesus."
+greek: "Ἦσαν δέ τινες ἐξ αὐτῶν ἄνδρες Κύπριοι καὶ Κυρηναῖοι, οἵτινες ἐλθόντες εἰς Ἀντιόχειαν ἐλάλουν καὶ πρὸς τοὺς Ἑλληνιστὰς εὐαγγελιζόμενοι τὸν κύριον Ἰησοῦν."
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic CYRENE|CYRENE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G0435G]]"
+- "[[G2953]]"
+- "[[G2532]]"
+- "[[G2956]]"
+- "[[G3748]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1675]]"
+- "[[G2097]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+- no
+- NK(o)
+---
+
 **Acts 11:20**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 But some of them, men from Cyprus and Cyrene, went to Antioch and began speaking to the Greeks as well, proclaiming the good news about the Lord Jesus.
-<small><sub>**Literal:**</sub></small>
-Were however some of them men of Cyprus and of Cyrene, who having come into Antioch were speaking also to the Hellenists evangelising [about] the Lord Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.19|<< Acts 11:19]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.21|Acts 11:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦσαν]]  [[G1161\|δέ]]  [[G5100\|τινες]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0435G\|ἄνδρες]]  [[G2953\|Κύπριοι]]  [[G2532\|καὶ]]  [[G2956\|Κυρηναῖοι,]]  [[G3748\|οἵτινες]]  [[G2064\|ἐλθόντες]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν]]  [[G2980\|ἐλάλουν]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G1675\|Ἑλληνιστὰς]]  [[G2097\|εὐαγγελιζόμενοι]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CYPRUS|CYPRUS]] • [[topic CYRENE|CYRENE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.19|<< Acts 11:19]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.21|Acts 11:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

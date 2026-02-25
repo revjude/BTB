@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 23:5
+type: Verse
+kjv: "Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow."
+bsb: "Is not my house right with God? For He has established with me an everlasting covenant, ordered and secured in every part. Will He not bring about my full salvation and my every desire?"
+hebrew: "כִּֽי־ לֹא־ כֵ֥ן בֵּיתִ֖י עִם־ אֵ֑ל כִּי֩ בְרִ֨ית עוֹלָ֜ם שָׂ֣ם לִ֗י עֲרוּכָ֤ה בַכֹּל֙ וּשְׁמֻרָ֔ה כִּֽי־ כָל־ יִשְׁעִ֥י וְכָל־ חֵ֖פֶץ כִּֽי־ לֹ֥א יַצְמִֽיחַ׃"
+pericope: "[[2Sam.23.1 David’s Last Song|David’s Last Song]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H3651C]]"
+- "[[H1004M]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H0410G]]"
+- "[[H1285]]"
+- "[[H5769G]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6186A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9002]]"
+- "[[H8104H]]"
+- "[[H3468]]"
+- "[[H2656]]"
+- "[[H6779]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 23:5**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Although my house [be] not so with God; yet he hath made with me an everlasting covenant, ordered in all [things], and sure: for [this is] all my salvation, and all [my] desire, although he make [it] not to grow.
 <small><sub>**BSB:**</sub></small>
 Is not my house right with God? For He has established with me an everlasting covenant, ordered and secured in every part. Will He not bring about my full salvation and my every desire?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹא]][[H9014\|־]] [[H3651C\|כֵ֥ן]] [[H1004M\|בֵּיתִ֖]][[H9020\|י]] [[H5973A\|עִם]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H3588A\|כִּי֩]] [[H1285\|בְרִ֨ית]] [[H5769G\|עוֹלָ֜ם]] [[H7760A\|שָׂ֣ם]] [[H9005\|לִ֗]][[H9030\|י]] [[H6186A\|עֲרוּכָ֤ה]] [[H9003\|בַ]][[H3605\|כֹּל֙]] [[H9002\|וּ]][[H8104H\|שְׁמֻרָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3605\|כָל]][[H9014\|־]] [[H3468\|יִשְׁעִ֥]][[H9020\|י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֵ֖פֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H6779\|יַצְמִֽיחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.4|<< 2 Samuel 23:4]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.6|2 Samuel 23:6 >>]]</td></tr></table>
 

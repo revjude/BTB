@@ -1,10 +1,62 @@
+---
+title: Acts 10:33
+type: Verse
+kjv: "Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God."
+bsb: "So I sent for you immediately, and you were kind enough to come. Now then, we are all here in the presence of God to listen to everything the Lord has instructed you to tell us.”"
+greek: "ἐξαυτῆς οὖν ἔπεμψα πρὸς σέ, σύ τε καλῶς ἐποίησας παραγενόμενος. νῦν οὖν πάντες ἡμεῖς ἐνώπιον τοῦ θεοῦ πάρεσμεν ἀκοῦσαι πάντα τὰ προστεταγμένα σοι ὑπὸ τοῦ κυρίου.¶"
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[G1824]]"
+- "[[G3767]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G5037]]"
+- "[[G2573]]"
+- "[[G4160G]]"
+- "[[G3854]]"
+- "[[G3568]]"
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3918]]"
+- "[[G0191]]"
+- "[[G4367]]"
+- "[[G5259G]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 10:33**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.
 <small><sub>**BSB:**</sub></small>
 So I sent for you immediately, and you were kind enough to come. Now then, we are all here in the presence of God to listen to everything the Lord has instructed you to tell us.”
-<small><sub>**Literal:**</sub></small>
-At once therefore I sent to you, you yourself then well did having come. Now therefore all we ourselves before <the> God are present to hear all the [things] commanded you by the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.32|<< Acts 10:32]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.34|Acts 10:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1824\|ἐξαυτῆς]]  [[G3767\|οὖν]]  [[G3992\|ἔπεμψα]]  [[G4314\|πρὸς]]  [[G4771\|σέ,]]  [[G4771\|σύ]]  [[G5037\|τε]]  [[G2573\|καλῶς]]  [[G4160G\|ἐποίησας]]  [[G3854\|παραγενόμενος.]]  [[G3568\|νῦν]]  [[G3767\|οὖν]]  [[G3956\|πάντες]]  [[G3165\|ἡμεῖς]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3918\|πάρεσμεν]]  [[G0191\|ἀκοῦσαι]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4367\|προστεταγμένα]]  [[G4771\|σοι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic FAMILY|FAMILY]] • [[topic HUMILITY|HUMILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.32|<< Acts 10:32]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.34|Acts 10:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

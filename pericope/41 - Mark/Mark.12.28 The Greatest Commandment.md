@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest Commandment
+type: Pericope
 pericope: "[[Mark.12.28 The Greatest Commandment|The Greatest Commandment]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.12.28]]"
 - "[[Mark.12.29]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.12.34]]"
 ---
 
-[[Mark.12|Mark 12:28 - Mark 12:34]]
+<small>[[Mark.12|Mark 12:28-34]]</small>
 *The Greatest Commandment*
 
 [[Mark.12.28|28]] And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?

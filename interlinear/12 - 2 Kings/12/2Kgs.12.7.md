@@ -1,8 +1,82 @@
+---
+title: 2 Kings 12:7
+type: Verse
+kjv: "Then king Jehoash called for Jehoiada the priest, and the other priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house."
+bsb: "So King Joash called Jehoiada and the other priests and said, “Why have you not repaired the damage to the temple? Now, therefore, take no more money from your constituency, but hand it over for the repair of the temple.”"
+hebrew: "וַיִּקְרָא֩ הַמֶּ֨לֶךְ יְהוֹאָ֜שׁ לִיהוֹיָדָ֤ע הַכֹּהֵן֙ וְלַכֹּ֣הֲנִ֔ים וַיֹּ֣אמֶר אֲלֵהֶ֔ם מַדּ֛וּעַ אֵינְכֶ֥ם מְחַזְּקִ֖ים אֶת־ בֶּ֣דֶק הַבָּ֑יִת וְעַתָּ֗ה אַל־ תִּקְחוּ־ כֶ֙סֶף֙ מֵאֵ֣ת מַכָּֽרֵיכֶ֔ם כִּֽי־ לְבֶ֥דֶק הַבַּ֖יִת תִּתְּנֻֽהוּ׃"
+pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3060G]]"
+- "[[H9005]]"
+- "[[H3077H]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4069]]"
+- "[[H0369]]"
+- "[[H9046]]"
+- "[[H2388G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0919]]"
+- "[[H1004B]]"
+- "[[H6258]]"
+- "[[H0408]]"
+- "[[H3947G]]"
+- "[[H3701G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H4378]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:7**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Jehoash called for Jehoiada the priest, and the [other] priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no [more] money of your acquaintance, but deliver it for the breaches of the house.
 <small><sub>**BSB:**</sub></small>
 So King Joash called Jehoiada and the other priests and said, “Why have you not repaired the damage to the temple? Now, therefore, take no more money from your constituency, but hand it over for the repair of the temple.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָא֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H3060G\|יְהוֹאָ֜שׁ]] [[H9005\|לִ]][[H3077H\|יהוֹיָדָ֤ע]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9002\|וְ]][[H9005\|לַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H4069\|מַדּ֛וּעַ]] [[H0369\|אֵינְ]][[H9046\|כֶ֥ם]] [[H2388G\|מְחַזְּקִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H0919\|בֶּ֣דֶק]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H3947G\|תִּקְחוּ]][[H9014\|־]] [[H3701G\|כֶ֙סֶף֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H4378\|מַכָּֽרֵי]][[H9026\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H0919\|בֶ֥דֶק]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H5414G\|תִּתְּנֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MONEY|MONEY]] • [[topic REPROOF|REPROOF]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.6|<< 2 Kings 12:6]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.8|2 Kings 12:8 >>]]</td></tr></table>
 

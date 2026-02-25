@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jephthah Defeats Ephraim
+type: Pericope
 pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 12
 book/chapter: "[[Judg.12|Judges 12]]"
-genre:
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 7
 verses:
 - "[[Judg.12.1]]"
 - "[[Judg.12.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Judg.12.7]]"
 ---
 
-[[Judg.12|Judges 12:1 - Judges 12:7]]
+<small>[[Judg.12|Judges 12:1-7]]</small>
 *Jephthah Defeats Ephraim*
 
 [[Judg.12.1|1]] And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.

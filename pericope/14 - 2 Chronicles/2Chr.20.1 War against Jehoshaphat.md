@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: War against Jehoshaphat
+type: Pericope
 pericope: "[[2Chr.20.1 War against Jehoshaphat|War against Jehoshaphat]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.20.1]]"
 - "[[2Chr.20.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.20.4]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:1 - 2 Chronicles 20:4]]
+<small>[[2Chr.20|2 Chronicles 20:1-4]]</small>
 *War against Jehoshaphat*
 
 [[2Chr.20.1|1]] It came to pass after this also, \[that\] the children of Moab, and the children of Ammon, and with them \[other\] beside the Ammonites, came against Jehoshaphat to battle.

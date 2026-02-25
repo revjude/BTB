@@ -1,8 +1,63 @@
+---
+title: Genesis 31:26
+type: Verse
+kjv: "And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?"
+bsb: "Then Laban said to Jacob, “What have you done? You have deceived me and carried off my daughters like captives of war!"
+hebrew: "וַיֹּ֤אמֶר לָבָן֙ לְיַעֲקֹ֔ב מֶ֣ה עָשִׂ֔יתָ וַתִּגְנֹ֖ב אֶת־ לְבָבִ֑י וַתְּנַהֵג֙ אֶת־ בְּנֹתַ֔י כִּשְׁבֻי֖וֹת חָֽרֶב׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H1589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H5090A]]"
+- "[[H1323G]]"
+- "[[H9004]]"
+- "[[H7617]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:26**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?
 <small><sub>**BSB:**</sub></small>
 Then Laban said to Jacob, “What have you done? You have deceived me and carried off my daughters like captives of war!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3837A\|לָבָן֙]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֔ב]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֔יתָ]] [[H9001\|וַ]][[H1589\|תִּגְנֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָבִ֑]][[H9020\|י]] [[H9001\|וַ]][[H5090A\|תְּנַהֵג֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתַ֔]][[H9020\|י]] [[H9004\|כִּ]][[H7617\|שְׁבֻי֖וֹת]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic LABAN|LABAN]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.25|<< Genesis 31:25]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.27|Genesis 31:27 >>]]</td></tr></table>
 

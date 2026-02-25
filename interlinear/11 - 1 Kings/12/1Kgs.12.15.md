@@ -1,8 +1,81 @@
+---
+title: 1 Kings 12:15
+type: Verse
+kjv: "Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat."
+bsb: "So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite."
+hebrew: "וְלֹֽא־ שָׁמַ֥ע הַמֶּ֖לֶךְ אֶל־ הָעָ֑ם כִּֽי־ הָיְתָ֤ה סִבָּה֙ מֵעִ֣ם יְהוָ֔ה לְמַ֜עַן הָקִ֣ים אֶת־ דְּבָר֗וֹ אֲשֶׁ֨ר דִּבֶּ֤ר יְהוָה֙ בְּיַד֙ אֲחִיָּ֣ה הַשִּׁילֹנִ֔י אֶל־ יָרָבְעָ֖ם בֶּן־ נְבָֽט׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic SHILONITE|SHILONITE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H5438]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H3068G]]"
+- "[[H4616]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H0281H]]"
+- "[[H7888]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:15**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.
 <small><sub>**BSB:**</sub></small>
 So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֤ה]] [[H5438\|סִבָּה֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H4616\|לְמַ֜עַן]] [[H6965I\|הָקִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָר֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֤ר]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3027J\|יַד֙]] [[H0281H\|אֲחִיָּ֣ה]] [[H9009\|הַ]][[H7888\|שִּׁילֹנִ֔י]] [[H0413\|אֶל]][[H9014\|־]] [[H3379G\|יָרָבְעָ֖ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PETITION|PETITION]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RASHNESS|RASHNESS]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic SHILONITE|SHILONITE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.14|<< 1 Kings 12:14]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.16|1 Kings 12:16 >>]]</td></tr></table>
 

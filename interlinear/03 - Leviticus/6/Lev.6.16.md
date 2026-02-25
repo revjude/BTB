@@ -1,8 +1,65 @@
+---
+title: Leviticus 6:16
+type: Verse
+kjv: "And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it."
+bsb: "Aaron and his sons are to eat the remainder. It must be eaten without leaven in a holy place; they are to eat it in the courtyard of the Tent of Meeting."
+hebrew: "וְהַנּוֹתֶ֣רֶת מִמֶּ֔נָּה יֹאכְל֖וּ אַהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּמָק֣וֹם קָדֹ֔שׁ בַּחֲצַ֥ר אֹֽהֶל־ מוֹעֵ֖ד יֹאכְלֽוּהָ׃"
+pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H0398]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4682]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H6918G]]"
+- "[[H2691A]]"
+- "[[H0168G]]"
+- "[[H9014]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:16**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it.
 <small><sub>**BSB:**</sub></small>
 Aaron and his sons are to eat the remainder. It must be eaten without leaven in a holy place; they are to eat it in the courtyard of the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתֶ֣רֶת]] [[H4480A\|מִמֶּ֔]][[H9034\|נָּה]] [[H0398\|יֹאכְל֖וּ]] [[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H4682\|מַצּ֤וֹת]] [[H0398\|תֵּֽאָכֵל֙]] [[H9003\|בְּ]][[H4725\|מָק֣וֹם]] [[H6918G\|קָדֹ֔שׁ]] [[H9003\|בַּ]][[H2691A\|חֲצַ֥ר]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֖ד]] [[H0398\|יֹאכְלֽוּ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.15|<< Leviticus 6:15]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.17|Leviticus 6:17 >>]]</td></tr></table>
 

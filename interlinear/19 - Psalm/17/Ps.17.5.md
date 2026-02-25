@@ -1,8 +1,54 @@
+---
+title: Psalm 17:5
+type: Verse
+kjv: "Hold up my goings in thy paths, that my footsteps slip not."
+bsb: "My steps have held to Your paths; my feet have not slipped."
+hebrew: "תָּמֹ֣ךְ אֲ֭שֻׁרַי בְּמַעְגְּלוֹתֶ֑יךָ בַּל־ נָמ֥וֹטּוּ פְעָמָֽי׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H8551]]"
+- "[[H0838A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H4570]]"
+- "[[H9021]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 17:5**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hold up my goings in thy paths, [that] my footsteps slip not.
 <small><sub>**BSB:**</sub></small>
 My steps have held to Your paths; my feet have not slipped.
+<small><sub>**Hebrew:**</sub></small>
+[[H8551\|תָּמֹ֣ךְ]] [[H0838A\|אֲ֭שֻׁרַ]][[H9020\|י]] [[H9003\|בְּ]][[H4570\|מַעְגְּלוֹתֶ֑י]][[H9021\|ךָ]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|נָמ֥וֹטּוּ]] [[H6471\|פְעָמָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.4|<< Psalms 17:4]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.6|Psalms 17:6 >>]]</td></tr></table>
 

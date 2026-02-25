@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Seir
+type: Pericope
 pericope: "[[1Chr.1.38 The Descendants of Seir|The Descendants of Seir]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 1
 book/chapter: "[[1Chr.1|1 Chronicles 1]]"
-genre:
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.1.38]]"
 - "[[1Chr.1.39]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.1.42]]"
 ---
 
-[[1Chr.1|1 Chronicles 1:38 - 1 Chronicles 1:42]]
+<small>[[1Chr.1|1 Chronicles 1:38-42]]</small>
 *The Descendants of Seir*
 
 [[1Chr.1.38|38]] And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.

@@ -1,8 +1,66 @@
+---
+title: Zechariah 7:10
+type: Verse
+kjv: "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart."
+bsb: "Do not oppress the widow or the fatherless, the foreigner or the poor. And do not plot evil in your hearts against one another.’"
+hebrew: "וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל־ תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל־ תַּחְשְׁב֖וּ בִּלְבַבְכֶֽם׃"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H3490]]"
+- "[[H1616]]"
+- "[[H6041]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H7451I]]"
+- "[[H0376I]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H2803I]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 7:10**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
 <small><sub>**BSB:**</sub></small>
 Do not oppress the widow or the fatherless, the foreigner or the poor. And do not plot evil in your hearts against one another.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0490\|אַלְמָנָ֧ה]] [[H9002\|וְ]][[H3490\|יָת֛וֹם]] [[H1616\|גֵּ֥ר]] [[H9002\|וְ]][[H6041\|עָנִ֖י]] [[H0408\|אַֽל]][[H9014\|־]] [[H6231\|תַּעֲשֹׁ֑קוּ]] [[H9002\|וְ]][[H7451I\|רָעַת֙]] [[H0376I\|אִ֣ישׁ]] [[H0251I\|אָחִ֔י]][[H9023\|ו]] [[H0408\|אַֽל]][[H9014\|־]] [[H2803I\|תַּחְשְׁב֖וּ]] [[H9003\|בִּ]][[H3824\|לְבַבְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic KINDNESS|KINDNESS]] • [[topic MALICE|MALICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.9|<< Zechariah 7:9]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.11|Zechariah 7:11 >>]]</td></tr></table>
 

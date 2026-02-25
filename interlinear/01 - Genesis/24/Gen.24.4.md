@@ -1,8 +1,59 @@
+---
+title: Genesis 24:4
+type: Verse
+kjv: "But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac."
+bsb: "but will go to my country and my kindred to take a wife for my son Isaac.”"
+hebrew: "כִּ֧י אֶל־ אַרְצִ֛י וְאֶל־ מוֹלַדְתִּ֖י תֵּלֵ֑ךְ וְלָקַחְתָּ֥ אִשָּׁ֖ה לִבְנִ֥י לְיִצְחָֽק׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0802H]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H3327]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:4**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac.
 <small><sub>**BSB:**</sub></small>
 but will go to my country and my kindred to take a wife for my son Isaac.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֧י]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצִ֛]][[H9020\|י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4138\|מוֹלַדְתִּ֖]][[H9020\|י]] [[H1980G\|תֵּלֵ֑ךְ]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֥]] [[H0802H\|אִשָּׁ֖ה]] [[H9005\|לִ]][[H1121A\|בְנִ֥]][[H9020\|י]] [[H9005\|לְ]][[H3327\|יִצְחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.3|<< Genesis 24:3]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.5|Genesis 24:5 >>]]</td></tr></table>
 

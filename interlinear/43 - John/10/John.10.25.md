@@ -1,10 +1,63 @@
+---
+title: John 10:25
+type: Verse
+kjv: "Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me."
+bsb: "“I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf."
+jesus_said: "I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me."
+greek: "Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· εἶπον ὑμῖν, καὶ οὐ πιστεύετε. τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου, ταῦτα μαρτυρεῖ περὶ ἐμοῦ·"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G2041]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G3140]]"
+- "[[G4012]]"
+texts:
+- NKO
+---
+
 **John 10:25**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.
 <small><sub>**BSB:**</sub></small>
 “I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf.
-<small><sub>**Literal:**</sub></small>
-Answered them <the> Jesus; I told you, and not you believe. The works that I myself do in the name of the Father of Mine, these bear witness concerning Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.24|<< John 10:24]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.26|John 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G4100\|πιστεύετε.]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3739\|ἃ]]  [[G1473\|ἐγὼ]]  [[G4160G\|ποιῶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου,]]  [[G3778\|ταῦτα]]  [[G3140\|μαρτυρεῖ]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.24|<< John 10:24]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.26|John 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

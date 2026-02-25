@@ -1,8 +1,66 @@
+---
+title: Exodus 40:12
+type: Verse
+kjv: "And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water."
+bsb: "Then bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water."
+hebrew: "וְהִקְרַבְתָּ֤ אֶֽת־ אַהֲרֹן֙ וְאֶת־ בָּנָ֔יו אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H7364]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:12**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.
 <small><sub>**BSB:**</sub></small>
 Then bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרַבְתָּ֤]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H7364\|רָחַצְתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.11|<< Exodus 40:11]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.13|Exodus 40:13 >>]]</td></tr></table>
 

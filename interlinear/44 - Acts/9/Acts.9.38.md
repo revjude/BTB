@@ -1,10 +1,68 @@
+---
+title: Acts 9:38
+type: Verse
+kjv: "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them."
+bsb: "Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to urge him, “Come to us without delay.”"
+greek: "ἐγγὺς δὲ οὔσης Λύδδας τῇ Ἰόππῃ οἱ μαθηταὶ ἀκούσαντες ὅτι Πέτρος ἐστὶν ἐν αὐτῇ, ἀπέστειλαν δύο ἄνδρας πρὸς αὐτὸν παρακαλοῦντες· μὴ ὀκνήσῃς διελθεῖν ἕως ἡμῶν."
+pericope: "[[Acts.9.36 The Raising of Tabitha|The Raising of Tabitha]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DORCAS|DORCAS]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic LOD|LOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic TABITHA|TABITHA]]"
+strongs:
+- "[[G1451]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G3069]]"
+- "[[G3588]]"
+- "[[G2445]]"
+- "[[G3101]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G4074G]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0649]]"
+- "[[G1417]]"
+- "[[G0435G]]"
+- "[[G4314]]"
+- "[[G3870]]"
+- "[[G3361]]"
+- "[[G3635]]"
+- "[[G1330]]"
+- "[[G2193]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 9:38**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring [him] that he would not delay to come to them.
 <small><sub>**BSB:**</sub></small>
 Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to urge him, “Come to us without delay.”
-<small><sub>**Literal:**</sub></small>
-Near now being Lydda <the> to Joppa the disciples having heard that Peter is in it, sent two men to him imploring ; Not you may delay coming to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.37|<< Acts 9:37]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.39|Acts 9:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1451\|ἐγγὺς]]  [[G1161\|δὲ]]  [[G1510\|οὔσης]]  [[G3069\|Λύδδας]]  [[G3588\|τῇ]]  [[G2445\|Ἰόππῃ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0191\|ἀκούσαντες]]  [[G3754G\|ὅτι]]  [[G4074G\|Πέτρος]]  [[G1510\|ἐστὶν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ,]]  [[G0649\|ἀπέστειλαν]]  [[G1417\|δύο]]  [[G0435G\|ἄνδρας]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3870\|παρακαλοῦντες·]]  [[G3361\|μὴ]]  [[G3635\|ὀκνήσῃς]]  [[G1330\|διελθεῖν]]  [[G2193\|ἕως]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DORCAS|DORCAS]] • [[topic JOPPA|JOPPA]] • [[topic LOD|LOD]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic TABITHA|TABITHA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.37|<< Acts 9:37]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.39|Acts 9:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

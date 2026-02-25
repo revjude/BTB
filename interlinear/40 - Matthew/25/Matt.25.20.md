@@ -1,10 +1,72 @@
+---
+title: Matthew 25:20
+type: Verse
+kjv: "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+bsb: "The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’"
+jesus_said: "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+greek: "καὶ προσελθὼν ὁ τὰ πέντε τάλαντα λαβὼν προσήνεγκεν ἄλλα πέντε τάλαντα λέγων· κύριε, πέντε τάλαντά μοι παρέδωκας· ἴδε ἄλλα πέντε τάλαντα ἐκέρδησα ἐπ᾽ αὐτοῖς."
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G4002]]"
+- "[[G5007]]"
+- "[[G2983]]"
+- "[[G4374]]"
+- "[[G0243]]"
+- "[[G3004G]]"
+- "[[G2962H]]"
+- "[[G3165]]"
+- "[[G3860]]"
+- "[[G2396]]"
+- "[[G2770]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:20**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.
 <small><sub>**BSB:**</sub></small>
 The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’
-<small><sub>**Literal:**</sub></small>
-And having come the [one] the five talents having received he brought to [him] other five talents saying; Master, five talents to me you did deliver; Behold more five talents I gained upon them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.19|<< Matthew 25:19]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.21|Matthew 25:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθὼν]]  [[G3588\|ὁ]]  [[G3588\|τὰ]]  [[G4002\|πέντε]]  [[G5007\|τάλαντα]]  [[G2983\|λαβὼν]]  [[G4374\|προσήνεγκεν]]  [[G0243\|ἄλλα]]  [[G4002\|πέντε]]  [[G5007\|τάλαντα]]  [[G3004G\|λέγων·]]  [[G2962H\|κύριε,]]  [[G4002\|πέντε]]  [[G5007\|τάλαντά]]  [[G3165\|μοι]]  [[G3860\|παρέδωκας·]]  [[G2396\|ἴδε]]  [[G0243\|ἄλλα]]  [[G4002\|πέντε]]  [[G5007\|τάλαντα]]  [[G2770\|ἐκέρδησα]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.19|<< Matthew 25:19]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.21|Matthew 25:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

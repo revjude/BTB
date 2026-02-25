@@ -1,8 +1,60 @@
+---
+title: Zechariah 9:17
+type: Verse
+kjv: "For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids."
+bsb: "How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women."
+hebrew: "כִּ֥י מַה־ טּוּב֖וֹ וּמַה־ יָפְי֑וֹ דָּגָן֙ בַּֽחוּרִ֔ים וְתִיר֖וֹשׁ יְנוֹבֵ֥ב בְּתֻלֽוֹת׃"
+pericope: "[[Zech.9.14 The LORD Will Save His People|The LORD Will Save His People]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2898]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3308]]"
+- "[[H1715]]"
+- "[[H0970]]"
+- "[[H8492]]"
+- "[[H5107]]"
+- "[[H1330]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:17**<big><big>[[Zech.9.14 The LORD Will Save His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For how great [is] his goodness, and how great [is] his beauty! corn shall make the young men cheerful, and new wine the maids.
 <small><sub>**BSB:**</sub></small>
 How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H4100\|מַה]][[H9014\|־]] [[H2898\|טּוּב֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3308\|יָפְי֑]][[H9023\|וֹ]] [[H1715\|דָּגָן֙]] [[H0970\|בַּֽחוּרִ֔ים]] [[H9002\|וְ]][[H8492\|תִיר֖וֹשׁ]] [[H5107\|יְנוֹבֵ֥ב]] [[H1330\|בְּתֻלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic WINE|WINE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.16|<< Zechariah 9:16]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.1|Zechariah 10:1 >>]]</td></tr></table>
 

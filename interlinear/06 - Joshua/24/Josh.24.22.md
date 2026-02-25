@@ -1,8 +1,61 @@
+---
+title: Joshua 24:22
+type: Verse
+kjv: "And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you the LORD, to serve him. And they said, We are witnesses."
+bsb: "Then Joshua told them, “You are witnesses against yourselves that you have chosen to serve the LORD.” “We are witnesses!” they said."
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־ הָעָ֗ם עֵדִ֤ים אַתֶּם֙ בָּכֶ֔ם כִּֽי־ אַתֶּ֞ם בְּחַרְתֶּ֥ם לָכֶ֛ם אֶת־ יְהוָ֖ה לַעֲבֹ֣ד אוֹת֑וֹ וַיֹּאמְר֖וּ עֵדִֽים׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5707]]"
+- "[[H0859D]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H0977]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H5647H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:22**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the people, Ye [are] witnesses against yourselves that ye have chosen you the LORD, to serve him. And they said, [We are] witnesses.
 <small><sub>**BSB:**</sub></small>
 Then Joshua told them, “You are witnesses against yourselves that you have chosen to serve the LORD.” “We are witnesses!” they said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H5707\|עֵדִ֤ים]] [[H0859D\|אַתֶּם֙]] [[H9003\|בָּ]][[H9036\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859D\|אַתֶּ֞ם]] [[H0977\|בְּחַרְתֶּ֥ם]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H5647H\|עֲבֹ֣ד]] [[H0853\|אוֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H5707\|עֵדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECISION|DECISION]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.21|<< Joshua 24:21]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.23|Joshua 24:23 >>]]</td></tr></table>
 

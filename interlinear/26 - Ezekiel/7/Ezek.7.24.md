@@ -1,8 +1,58 @@
+---
+title: Ezekiel 7:24
+type: Verse
+kjv: "Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled."
+bsb: "So I will bring the most wicked of nations to take possession of their houses. I will end the pride of the mighty, and their holy places will be profaned."
+hebrew: "וְהֵֽבֵאתִי֙ רָעֵ֣י גוֹיִ֔ם וְיָרְשׁ֖וּ אֶת־ בָּֽתֵּיהֶ֑ם וְהִשְׁבַּתִּי֙ גְּא֣וֹן עַזִּ֔ים וְנִחֲל֖וּ מְקַֽדְשֵׁיהֶֽם׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHAINS|CHAINS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H7451A]]"
+- "[[H1471A]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H7673A]]"
+- "[[H1347]]"
+- "[[H5794]]"
+- "[[H2490H]]"
+- "[[H4720]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:24**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.
 <small><sub>**BSB:**</sub></small>
 So I will bring the most wicked of nations to take possession of their houses. I will end the pride of the mighty, and their holy places will be profaned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵֽבֵאתִי֙]] [[H7451A\|רָעֵ֣י]] [[H1471A\|גוֹיִ֔ם]] [[H9001\|וְ]][[H3423H\|יָרְשׁ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בָּֽתֵּי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּי֙]] [[H1347\|גְּא֣וֹן]] [[H5794\|עַזִּ֔ים]] [[H9001\|וְ]][[H2490H\|נִחֲל֖וּ]] [[H4720\|מְקַֽדְשֵׁי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.23|<< Ezekiel 7:23]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.25|Ezekiel 7:25 >>]]</td></tr></table>
 

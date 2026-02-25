@@ -1,10 +1,59 @@
+---
+title: Acts 14:21
+type: Verse
+kjv: "And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and to Iconium, and Antioch,"
+bsb: "They preached the gospel to that city and made many disciples. Then they returned to Lystra, Iconium, and Antioch,"
+greek: "εὐαγγελισάμενοί τε τὴν πόλιν ἐκείνην καὶ μαθητεύσαντες ἱκανοὺς ὑπέστρεψαν εἰς τὴν Λύστραν καὶ εἰς Ἰκόνιον καὶ εἰς Ἀντιόχειαν·"
+pericope: "[[Acts.14.21 Strengthening the Disciples|Strengthening the Disciples]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2097]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G3100]]"
+- "[[G2425]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G3082]]"
+- "[[G2430]]"
+- "[[G0490H]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 14:21**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and [to] Iconium, and Antioch,
 <small><sub>**BSB:**</sub></small>
 They preached the gospel to that city and made many disciples. Then they returned to Lystra, Iconium, and Antioch,
-<small><sub>**Literal:**</sub></small>
-Having evangelised then the city that and having discipled many they returned to <the> Lystra and to Iconium and to Antioch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.20|<< Acts 14:20]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.22|Acts 14:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2097\|εὐαγγελισάμενοί]]  [[G5037\|τε]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G1565\|ἐκείνην]]  [[G2532\|καὶ]]  [[G3100\|μαθητεύσαντες]]  [[G2425\|ἱκανοὺς]]  [[G5290\|ὑπέστρεψαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3082\|Λύστραν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2430\|Ἰκόνιον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0490H\|Ἀντιόχειαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic ICONIUM|ICONIUM]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic PAUL|PAUL]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.20|<< Acts 14:20]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.22|Acts 14:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,47 @@
+---
+title: Joshua 15:43
+type: Verse
+kjv: "And Jiphtah, and Ashnah, and Nezib,"
+bsb: "Iphtah, Ashnah, Nezib,"
+hebrew: "וְיִפְתָּ֥ח וְאַשְׁנָ֖ה וּנְצִֽיב׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHNAH|ASHNAH]]"
+- "[[topic JIPHTAH|JIPHTAH]]"
+- "[[topic NEZIB|NEZIB]]"
+strongs:
+- "[[H9002]]"
+- "[[H3316G]]"
+- "[[H0823]]"
+- "[[H5334]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:43**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jiphtah, and Ashnah, and Nezib,
 <small><sub>**BSB:**</sub></small>
 Iphtah, Ashnah, Nezib,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3316G\|יִפְתָּ֥ח]] [[H9002\|וְ]][[H0823\|אַשְׁנָ֖ה]] [[H9002\|וּ]][[H5334\|נְצִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHNAH|ASHNAH]] • [[topic JIPHTAH|JIPHTAH]] • [[topic NEZIB|NEZIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.42|<< Joshua 15:42]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.44|Joshua 15:44 >>]]</td></tr></table>
 

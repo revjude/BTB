@@ -1,8 +1,69 @@
+---
+title: 2 Kings 3:14
+type: Verse
+kjv: "And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee."
+bsb: "Then Elisha said, “As surely as the LORD of Hosts lives, before whom I stand, were it not for my regard for the presence of Jehoshaphat king of Judah, I would not look at you or acknowledge you."
+hebrew: "וַיֹּ֣אמֶר אֱלִישָׁ֗ע חַי־ יְהוָ֤ה צְבָאוֹת֙ אֲשֶׁ֣ר עָמַ֣דְתִּי לְפָנָ֔יו כִּ֗י לוּלֵ֛י פְּנֵ֛י יְהוֹשָׁפָ֥ט מֶֽלֶךְ־ יְהוּדָ֖ה אֲנִ֣י נֹשֵׂ֑א אִם־ אַבִּ֥יט אֵלֶ֖יךָ וְאִם־ אֶרְאֶֽךָּ׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0477]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H3884]]"
+- "[[H6440L]]"
+- "[[H3092I]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0589]]"
+- "[[H5375Q]]"
+- "[[H0518H]]"
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:14**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said, [As] the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.
 <small><sub>**BSB:**</sub></small>
 Then Elisha said, “As surely as the LORD of Hosts lives, before whom I stand, were it not for my regard for the presence of Jehoshaphat king of Judah, I would not look at you or acknowledge you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0477\|אֱלִישָׁ֗ע]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5975G\|עָמַ֣דְתִּי]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H3588A\|כִּ֗י]] [[H3884\|לוּלֵ֛י]] [[H6440L\|פְּנֵ֛י]] [[H3092I\|יְהוֹשָׁפָ֥ט]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H0589\|אֲנִ֣י]] [[H5375Q\|נֹשֵׂ֑א]] [[H0518H\|אִם]][[H9014\|־]] [[H5027\|אַבִּ֥יט]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H7200G\|אֶרְאֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MOABITES|MOABITES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.13|<< 2 Kings 3:13]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.15|2 Kings 3:15 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Visit to Lystra and Derbe
+type: Pericope
 pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Acts
 chapter: 14
 book/chapter: "[[Acts.14|Acts 14]]"
-genre:
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 13
 verses:
 - "[[Acts.14.8]]"
 - "[[Acts.14.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Acts.14.20]]"
 ---
 
-[[Acts.14|Acts 14:8 - Acts 14:20]]
+<small>[[Acts.14|Acts 14:8-20]]</small>
 *The Visit to Lystra and Derbe*
 
 [[Acts.14.8|8]] And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:

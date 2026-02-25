@@ -1,10 +1,63 @@
+---
+title: Matthew 27:9
+type: Verse
+kjv: "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+bsb: "Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel,"
+greek: "Τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος· καὶ ἔλαβον τὰ τριάκοντα ἀργύρια, τὴν τιμὴν τοῦ τετιμημένου, ὃν ἐτιμήσαντο ἀπὸ υἱῶν Ἰσραήλ,"
+pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic POTTERY|POTTERY]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G5119]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G2408]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G5144]]"
+- "[[G0694]]"
+- "[[G5092]]"
+- "[[G5091]]"
+- "[[G3739]]"
+- "[[G0575]]"
+- "[[G5207]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Matthew 27:9**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
 <small><sub>**BSB:**</sub></small>
 Then what was spoken through Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on Him by the people of Israel,
-<small><sub>**Literal:**</sub></small>
-Then was fulfilled that having been spoken through Jeremiah the prophet saying; And they took the thirty pieces of silver, the price of the [One] priced, whom they set a price on by [the] sons of Israel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.8|<< Matthew 27:8]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.10|Matthew 27:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4137\|ἐπληρώθη]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G2408\|Ἰερεμίου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]  [[G2532\|καὶ]]  [[G2983\|ἔλαβον]]  [[G3588\|τὰ]]  [[G5144\|τριάκοντα]]  [[G0694\|ἀργύρια,]]  [[G3588\|τὴν]]  [[G5092\|τιμὴν]]  [[G3588\|τοῦ]]  [[G5091\|τετιμημένου,]]  [[G3739\|ὃν]]  [[G5091\|ἐτιμήσαντο]]  [[G0575\|ἀπὸ]]  [[G5207\|υἱῶν]]  [[G2474\|Ἰσραήλ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic POTTERY|POTTERY]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.8|<< Matthew 27:8]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.10|Matthew 27:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 27:9** is...
 > $\quad$ referencing: [[LXX.Jer.32.6|Jer 32:6-9]] ☩ [[LXX.Zech.11.12|Zech 11:12-13]]

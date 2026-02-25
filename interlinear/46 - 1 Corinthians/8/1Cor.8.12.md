@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 8:12
+type: Verse
+kjv: "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ."
+bsb: "By sinning against your brothers in this way and wounding their weak conscience, you sin against Christ."
+greek: "οὕτως δὲ ἁμαρτάνοντες εἰς τοὺς ἀδελφοὺς καὶ τύπτοντες αὐτῶν τὴν συνείδησιν ἀσθενοῦσαν, εἰς Χριστὸν ἁμαρτάνετε."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3779]]"
+- "[[G1161]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G5180]]"
+- "[[G0846]]"
+- "[[G4893]]"
+- "[[G0770G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 8:12**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
 <small><sub>**BSB:**</sub></small>
 By sinning against your brothers in this way and wounding their weak conscience, you sin against Christ.
-<small><sub>**Literal:**</sub></small>
-Thus then sinning against the brothers and wounding their <the> conscience being weak, against Christ you sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.11|<< 1 Corinthians 8:11]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.13|1 Corinthians 8:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G1161\|δὲ]]  [[G0264\|ἁμαρτάνοντες]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G2532\|καὶ]]  [[G5180\|τύπτοντες]]  [[G0846\|αὐτῶν]]  [[G3588\|τὴν]]  [[G4893\|συνείδησιν]]  [[G0770G\|ἀσθενοῦσαν,]]  [[G1519\|εἰς]]  [[G5547\|Χριστὸν]]  [[G0264\|ἁμαρτάνετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXAMPLE|EXAMPLE]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HOLINESS|HOLINESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.11|<< 1 Corinthians 8:11]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.13|1 Corinthians 8:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

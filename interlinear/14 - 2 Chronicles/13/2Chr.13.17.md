@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 13:17
+type: Verse
+kjv: "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men."
+bsb: "Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain."
+hebrew: "וַיַּכּ֥וּ בָהֶ֛ם אֲבִיָּ֥ה וְעַמּ֖וֹ מַכָּ֣ה רַבָּ֑ה וַיִּפְּל֤וּ חֲלָלִים֙ מִיִּשְׂרָאֵ֔ל חֲמֵשׁ־ מֵא֥וֹת אֶ֖לֶף אִ֥ישׁ בָּחֽוּר׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0029I]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4347]]"
+- "[[H7227A]]"
+- "[[H5307J]]"
+- "[[H2491A]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H2568]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:17**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.
 <small><sub>**BSB:**</sub></small>
 Then Abijah and his people struck them with a mighty blow, and 500,000 chosen men of Israel fell slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H9003\|בָ]][[H9038\|הֶ֛ם]] [[H0029I\|אֲבִיָּ֥ה]] [[H9002\|וְ]][[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H4347\|מַכָּ֣ה]] [[H7227A\|רַבָּ֑ה]] [[H9001\|וַ]][[H5307J\|יִּפְּל֤וּ]] [[H2491A\|חֲלָלִים֙]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֔ל]] [[H2568\|חֲמֵשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִ֥ישׁ]] [[H0977\|בָּחֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.16|<< 2 Chronicles 13:16]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.18|2 Chronicles 13:18 >>]]</td></tr></table>
 

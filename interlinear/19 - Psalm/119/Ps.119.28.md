@@ -1,8 +1,56 @@
+---
+title: Psalm 119:28
+type: Verse
+kjv: "My soul melteth for heaviness: strengthen thou me according unto thy word."
+bsb: "My soul melts with sorrow; strengthen me according to Your word."
+hebrew: "דָּלְפָ֣ה נַ֭פְשִׁי מִתּוּגָ֑ה קַ֝יְּמֵ֗נִי כִּדְבָרֶֽךָ׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1811]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H8424]]"
+- "[[H6965I]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:28**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul melteth for heaviness: strengthen thou me according unto thy word.
 <small><sub>**BSB:**</sub></small>
 My soul melts with sorrow; strengthen me according to Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H1811\|דָּלְפָ֣ה]] [[H5315G\|נַ֭פְשִׁ]][[H9020\|י]] [[H9006\|מִ]][[H8424\|תּוּגָ֑ה]] [[H6965I\|קַ֝יְּמֵ֗]][[H9030\|נִי]] [[H9004\|כִּ]][[H1697G\|דְבָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.27|<< Psalms 119:27]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.29|Psalms 119:29 >>]]</td></tr></table>
 

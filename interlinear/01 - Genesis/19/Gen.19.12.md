@@ -1,8 +1,72 @@
+---
+title: Genesis 19:12
+type: Verse
+kjv: "And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:"
+bsb: "Then the two men said to Lot, “Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,"
+hebrew: "וַיֹּאמְר֨וּ הָאֲנָשִׁ֜ים אֶל־ ל֗וֹט עֹ֚ד מִֽי־ לְךָ֣ פֹ֔ה חָתָן֙ וּבָנֶ֣יךָ וּבְנֹתֶ֔יךָ וְכֹ֥ל אֲשֶׁר־ לְךָ֖ בָּעִ֑יר הוֹצֵ֖א מִן־ הַמָּקֽוֹם׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3876]]"
+- "[[H5750]]"
+- "[[H4310]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6311]]"
+- "[[H2860]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1323G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3318H]]"
+- "[[H4480A]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:12**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring [them] out of this place:
 <small><sub>**BSB:**</sub></small>
 Then the two men said to Lot, “Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3876\|ל֗וֹט]] [[H5750\|עֹ֚ד]] [[H4310\|מִֽי]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H6311\|פֹ֔ה]] [[H2860\|חָתָן֙]] [[H9002\|וּ]][[H1121A\|בָנֶ֣י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1323G\|בְנֹתֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9003\|בָּ]][[H5892B\|עִ֑יר]] [[H3318H\|הוֹצֵ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHILDREN|CHILDREN]] • [[topic DEATH|DEATH]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.11|<< Genesis 19:11]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.13|Genesis 19:13 >>]]</td></tr></table>
 

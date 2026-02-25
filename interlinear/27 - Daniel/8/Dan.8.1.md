@@ -1,8 +1,54 @@
+---
+title: Daniel 8:1
+type: Verse
+kjv: "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first."
+bsb: "In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier."
+hebrew: "בִּשְׁנַ֣ת שָׁל֔וֹשׁ לְמַלְכ֖וּת בֵּלְאשַׁצַּ֣ר הַמֶּ֑לֶךְ חָז֞וֹן נִרְאָ֤ה אֵלַי֙ אֲנִ֣י דָנִיֵּ֔אל אַחֲרֵ֛י הַנִּרְאָ֥ה אֵלַ֖י בַּתְּחִלָּֽה׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H4438]]"
+- "[[H1112]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2377]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H1840G]]"
+- "[[H0310A]]"
+- "[[H8462]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:1**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of the reign of king Belshazzar a vision appeared unto me, [even unto] me Daniel, after that which appeared unto me at the first.
 <small><sub>**BSB:**</sub></small>
 In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁל֔וֹשׁ]] [[H9005\|לְ]][[H4438\|מַלְכ֖וּת]] [[H1112\|בֵּלְאשַׁצַּ֣ר]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H2377\|חָז֞וֹן]] [[H7200G\|נִרְאָ֤ה]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H0589\|אֲנִ֣י]] [[H1840G\|דָנִיֵּ֔אל]] [[H0310A\|אַחֲרֵ֛י]] [[H9009\|הַ]][[H7200G\|נִּרְאָ֥ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9003\|בַּ]][[H8462\|תְּחִלָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.28|<< Daniel 7:28]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.2|Daniel 8:2 >>]]</td></tr></table>
 

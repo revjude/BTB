@@ -1,8 +1,53 @@
+---
+title: Job 6:16
+type: Verse
+kjv: "Which are blackish by reason of the ice, and wherein the snow is hid:"
+bsb: "darkened because of the ice and the inflow of melting snow,"
+hebrew: "הַקֹּדְרִ֥ים מִנִּי־ קָ֑רַח עָ֝לֵ֗ימוֹ יִתְעַלֶּם־ שָֽׁלֶג׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ICE|ICE]]"
+- "[[topic SNOW|SNOW]]"
+strongs:
+- "[[H9009]]"
+- "[[H6937]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7140]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5956]]"
+- "[[H7950]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:16**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which are blackish by reason of the ice, [and] wherein the snow is hid:
 <small><sub>**BSB:**</sub></small>
 darkened because of the ice and the inflow of melting snow,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6937\|קֹּדְרִ֥ים]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H7140\|קָ֑רַח]] [[H5921A\|עָ֝לֵ֗י]][[H9038\|מוֹ]] [[H5956\|יִתְעַלֶּם]][[H9014\|־]] [[H7950\|שָֽׁלֶג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ICE|ICE]] • [[topic SNOW|SNOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.15|<< Job 6:15]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.17|Job 6:17 >>]]</td></tr></table>
 

@@ -1,6 +1,69 @@
+---
+title: LXX Exodus 22:8
+type: Verse
+lxx: "But if the one stealing should not be found, the master of the house shall come forward before  God, and shall swear by an oath that assuredly he did not do wickedly regarding all that was in deposit for the care of his neighbor."
+greek: "εάν δε μη ευρέθη ο κλέψας προσελεύσεται ο κύριος της οικίας ενώπιον του θεού και ομείται η μην η μην μη αυτόν πεπονηρεύσθαι εφ΄ όλης της παρακαταθήκης του πλησίον"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FINE|FINE]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G2813]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G3614]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3660]]"
+- "[[G2228]]"
+- "[[G3361]]"
+- "[[G3361]]"
+- "[[G1473]]"
+- "[[G8863]]"
+- "[[G1909]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G3872]]"
+- "[[G3588]]"
+- "[[G4139]]"
+---
+
 **LXX Exodus 22:8** 
 <small><sub>**LXX:**</sub></small>
 But if the \[one\] stealing should not be found, the master of the house shall come forward before  God, and shall swear by an oath \[that\] assuredly he did not do wickedly regarding all that was in deposit for the care of \[his\] neighbor. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G3361\|μη]] [[G2147\|ευρέθη]] [[G3588\|ο]] [[G2813\|κλέψας]] [[G4334\|προσελεύσεται]] [[G3588\|ο]] [[G2962\|κύριος]] [[G3588\|της]] [[G3614\|οικίας]] [[G1799\|ενώπιον]] [[G3588\|του]] [[G2316\|θεού]] [[G2532\|και]] [[G3660\|ομείται]] [[G2228\|η μην]] <sup><small>[[G3361\| [ • ] ]]</small></sup> [[G3361\|μη]] [[G1473\|αυτόν]] [[G8863\|πεπονηρεύσθαι]] [[G1909\|εφ΄]] [[G3650\|όλης]] [[G3588\|της]] [[G3872\|παρακαταθήκης]] [[G3588\|του]] [[G4139\|πλησίον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FINE|FINE]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.7|<< Exodus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.9|Exodus 22:9 >>]]</td></tr></table>
 
@@ -30,6 +93,6 @@ But if the \[one\] stealing should not be found, the master of the house shall c
 | was in deposit for the care of | **<big>[[G3872\|παρακαταθήκης]]</big>** |
 | \[his\]\<obj.> | **<big>[[G3588\|του]]</big>** |
 | neighbor. | **<big>[[G4139\|πλησίον]]</big>** |
-[[Exod.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.7|<< Exodus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.9|Exodus 22:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.7|<< Exodus 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.9|Exodus 22:9 >>]]</td></tr></table>
 
 

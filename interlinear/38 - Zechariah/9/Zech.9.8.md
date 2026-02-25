@@ -1,8 +1,65 @@
+---
+title: Zechariah 9:8
+type: Verse
+kjv: "And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes."
+bsb: "But I will camp around My house because of an army, because of those who march to and fro, and never again will an oppressor overrun My people, for now I keep watch with My own eyes."
+hebrew: "וְחָנִ֨יתִי לְבֵיתִ֤י מִצָּבָה֙ מֵעֹבֵ֣ר וּמִשָּׁ֔ב וְלֹֽא־ יַעֲבֹ֧ר עֲלֵיהֶ֛ם ע֖וֹד נֹגֵ֑שׂ כִּ֥י עַתָּ֖ה רָאִ֥יתִי בְעֵינָֽי׃ ס"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H4675]]"
+- "[[H9006]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H7725O]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5750]]"
+- "[[H5065]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Zechariah 9:8**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
 <small><sub>**BSB:**</sub></small>
 But I will camp around My house because of an army, because of those who march to and fro, and never again will an oppressor overrun My people, for now I keep watch with My own eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2583\|חָנִ֨יתִי]] [[H9005\|לְ]][[H1004B\|בֵיתִ֤]][[H9020\|י]] [[H4675\|מִצָּבָה֙]] [[H9006\|מֵ]][[H5674A\|עֹבֵ֣ר]] [[H9002\|וּ]][[H9006\|מִ]][[H7725O\|שָּׁ֔ב]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5674A\|יַעֲבֹ֧ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H5750\|ע֖וֹד]] [[H5065\|נֹגֵ֑שׂ]] [[H3588A\|כִּ֥י]] [[H6258\|עַתָּ֖ה]] [[H7200G\|רָאִ֥יתִי]] [[H9003\|בְ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
@@ -21,7 +78,7 @@ But I will camp around My house because of an army, because of those who march t
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have seen  |**<big>&#8207;[[H7200G\|רָאִ֥יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with own eyes my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869A\|עֵינָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with own eyes my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869A\|עֵינָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
 

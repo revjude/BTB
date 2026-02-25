@@ -1,10 +1,61 @@
+---
+title: Luke 1:31
+type: Verse
+kjv: "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+bsb: "Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus."
+greek: "καὶ ἰδοὺ συλλήμψῃ ἐν γαστρὶ καὶ τέξῃ υἱὸν καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν."
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G4815]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G5088]]"
+- "[[G5207]]"
+- "[[G2564G]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Luke 1:31**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.
 <small><sub>**BSB:**</sub></small>
 Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus.
-<small><sub>**Literal:**</sub></small>
-and behold you will conceive in womb and will bring forth a son and you will call the name of Him Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.30|<< Luke 1:30]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.32|Luke 1:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G4815\|συλλήμψῃ]]  [[G1722\|ἐν]]  [[G1064\|γαστρὶ]]  [[G2532\|καὶ]]  [[G5088\|τέξῃ]]  [[G5207\|υἱὸν]]  [[G2532\|καὶ]]  [[G2564G\|καλέσεις]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.30|<< Luke 1:30]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.32|Luke 1:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

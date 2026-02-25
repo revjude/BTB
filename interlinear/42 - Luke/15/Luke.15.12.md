@@ -1,10 +1,67 @@
+---
+title: Luke 15:12
+type: Verse
+kjv: "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
+bsb: "The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them."
+jesus_said: "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
+greek: "καὶ εἶπεν ὁ νεώτερος αὐτῶν τῷ πατρί· πάτερ, δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας. ὁ δὲ διεῖλεν αὐτοῖς τὸν βίον."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3501]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1911]]"
+- "[[G3313]]"
+- "[[G3776]]"
+- "[[G1161]]"
+- "[[G1244]]"
+- "[[G0979]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 15:12**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the younger of them said to [his] father, Father, give me the portion of goods that falleth [to me]. And he divided unto them [his] living.
 <small><sub>**BSB:**</sub></small>
 The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them.
-<small><sub>**Literal:**</sub></small>
-And said the younger of them to the father; Father, do give to me what is due [to me] portion of the property. <the> then he divided between them the property.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.11|<< Luke 15:11]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.13|Luke 15:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G3501\|νεώτερος]]  [[G0846\|αὐτῶν]]  [[G3588\|τῷ]]  [[G3962\|πατρί·]]  [[G3962\|πάτερ,]]  [[G1325\|δός]]  [[G3165\|μοι]]  [[G3588\|τὸ]]  [[G1911\|ἐπιβάλλον]]  [[G3313\|μέρος]]  [[G3588\|τῆς]]  [[G3776\|οὐσίας.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1244\|διεῖλεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G0979\|βίον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.11|<< Luke 15:11]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.13|Luke 15:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

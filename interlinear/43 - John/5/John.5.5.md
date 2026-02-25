@@ -1,10 +1,57 @@
+---
+title: John 5:5
+type: Verse
+kjv: "And a certain man was there, which had an infirmity thirty and eight years."
+bsb: "One man there had been an invalid for thirty-eight years."
+greek: "Ἦν δέ τις ἄνθρωπος ἐκεῖ τριάκοντα καὶ ὀκτὼ ἔτη ἔχων ἐν τῇ ἀσθενείᾳ αὐτοῦ."
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0444]]"
+- "[[G1563]]"
+- "[[G5144]]"
+- "[[G2532]]"
+- "[[G3638]]"
+- "[[G2094]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0769H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **John 5:5**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a certain man was there, which had an infirmity thirty and eight years.
 <small><sub>**BSB:**</sub></small>
 One man there had been an invalid for thirty-eight years.
-<small><sub>**Literal:**</sub></small>
-There was now a certain man there thirty and eight years being in <the> infirmity himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.4|<< John 5:4]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.6|John 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0444\|ἄνθρωπος]]  [[G1563\|ἐκεῖ]]  [[G5144\|τριάκοντα]]  [[G2532\|καὶ]]  [[G3638\|ὀκτὼ]]  [[G2094\|ἔτη]]  [[G2192\|ἔχων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0769H\|ἀσθενείᾳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.4|<< John 5:4]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.6|John 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

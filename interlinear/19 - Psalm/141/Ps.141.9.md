@@ -1,8 +1,56 @@
+---
+title: Psalm 141:9
+type: Verse
+kjv: "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity."
+bsb: "Keep me from the snares they have laid for me, and from the lures of evildoers."
+hebrew: "שָׁמְרֵ֗נִי מִ֣ידֵי פַ֭ח יָ֣קְשׁוּ לִ֑י וּ֝מֹקְשׁ֗וֹת פֹּ֣עֲלֵי אָֽוֶן׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HUNTING|HUNTING]]"
+strongs:
+- "[[H8104H]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H6341A]]"
+- "[[H3369]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H4170]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 141:9**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep me from the snares [which] they have laid for me, and the gins of the workers of iniquity.
 <small><sub>**BSB:**</sub></small>
 Keep me from the snares they have laid for me, and from the lures of evildoers.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104H\|שָׁמְרֵ֗]][[H9030\|נִי]] [[H9006\|מִ֣]][[H3027H\|ידֵי]] [[H6341A\|פַ֭ח]] [[H3369\|יָ֣קְשׁוּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H4170\|מֹקְשׁ֗וֹת]] [[H6466\|פֹּ֣עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HUNTING|HUNTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.8|<< Psalms 141:8]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.10|Psalms 141:10 >>]]</td></tr></table>
 

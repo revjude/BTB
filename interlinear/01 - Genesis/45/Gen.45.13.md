@@ -1,8 +1,63 @@
+---
+title: Genesis 45:13
+type: Verse
+kjv: "And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither."
+bsb: "Tell my father about all my splendor in Egypt and everything you have seen. And bring my father down here quickly.”"
+hebrew: "וְהִגַּדְתֶּ֣ם לְאָבִ֗י אֶת־ כָּל־ כְּבוֹדִי֙ בְּמִצְרַ֔יִם וְאֵ֖ת כָּל־ אֲשֶׁ֣ר רְאִיתֶ֑ם וּמִֽהַרְתֶּ֛ם וְהוֹרַדְתֶּ֥ם אֶת־ אָבִ֖י הֵֽנָּה׃"
+pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3519]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H4116A]]"
+- "[[H3381]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:13**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
 <small><sub>**BSB:**</sub></small>
 Tell my father about all my splendor in Egypt and everything you have seen. And bring my father down here quickly.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5046\|הִגַּדְתֶּ֣ם]] [[H9005\|לְ]][[H0001G\|אָבִ֗]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3519\|כְּבוֹדִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רְאִיתֶ֑ם]] [[H9001\|וּ]][[H4116A\|מִֽהַרְתֶּ֛ם]] [[H9001\|וְ]][[H3381\|הוֹרַדְתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.12|<< Genesis 45:12]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.14|Genesis 45:14 >>]]</td></tr></table>
 

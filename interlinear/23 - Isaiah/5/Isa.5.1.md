@@ -1,8 +1,65 @@
+---
+title: Isaiah 5:1
+type: Verse
+kjv: "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:"
+bsb: "I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill."
+hebrew: "אָשִׁ֤ירָה נָּא֙ לִֽידִידִ֔י שִׁירַ֥ת דּוֹדִ֖י לְכַרְמ֑וֹ כֶּ֛רֶם הָיָ֥ה לִֽידִידִ֖י בְּקֶ֥רֶן בֶּן־ שָֽׁמֶן׃"
+pericope: "[[Isa.5.1 The Song of the Vineyard|The Song of the Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7891]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H3039A]]"
+- "[[H9020]]"
+- "[[H7892B]]"
+- "[[H1730H]]"
+- "[[H3754]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7161A]]"
+- "[[H1121I]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:1**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:
 <small><sub>**BSB:**</sub></small>
 I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|אָשִׁ֤ירָה]] [[H4994\|נָּא֙]] [[H9005\|לִֽ]][[H3039A\|ידִידִ֔]][[H9020\|י]] [[H7892B\|שִׁירַ֥ת]] [[H1730H\|דּוֹדִ֖]][[H9020\|י]] [[H9005\|לְ]][[H3754\|כַרְמ֑]][[H9023\|וֹ]] [[H3754\|כֶּ֛רֶם]] [[H1961\|הָיָ֥ה]] [[H9005\|לִֽ]][[H3039A\|ידִידִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H7161A\|קֶ֥רֶן]] [[H1121I\|בֶּן]][[H9014\|־]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GRAPE|GRAPE]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.6|<< Isaiah 4:6]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.2|Isaiah 5:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

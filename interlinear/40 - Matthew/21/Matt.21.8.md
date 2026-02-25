@@ -1,10 +1,56 @@
+---
+title: Matthew 21:8
+type: Verse
+kjv: "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way."
+bsb: "A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road."
+greek: "ὁ δὲ πλεῖστος ὄχλος ἔστρωσαν ἑαυτῶν τὰ ἱμάτια ἐν τῇ ὁδῷ, ἄλλοι δὲ ἔκοπτον κλάδους ἀπὸ τῶν δένδρων καὶ ἐστρώννυον ἐν τῇ ὁδῷ."
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4118]]"
+- "[[G3793]]"
+- "[[G4766]]"
+- "[[G1438]]"
+- "[[G2440]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G0243]]"
+- "[[G2875]]"
+- "[[G2798]]"
+- "[[G0575]]"
+- "[[G1186]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **Matthew 21:8**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed [them] in the way.
 <small><sub>**BSB:**</sub></small>
 A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road.
-<small><sub>**Literal:**</sub></small>
-The now very great crowd spread their own <the> cloaks on the road, others now were cutting down branches from the trees and were spreading [them] on the road.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.7|<< Matthew 21:7]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.9|Matthew 21:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4118\|πλεῖστος]]  [[G3793\|ὄχλος]]  [[G4766\|ἔστρωσαν]]  [[G1438\|ἑαυτῶν]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ,]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G2875\|ἔκοπτον]]  [[G2798\|κλάδους]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1186\|δένδρων]]  [[G2532\|καὶ]]  [[G4766\|ἐστρώννυον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.7|<< Matthew 21:7]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.9|Matthew 21:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

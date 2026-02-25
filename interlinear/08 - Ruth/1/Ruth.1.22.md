@@ -1,8 +1,64 @@
+---
+title: Ruth 1:22
+type: Verse
+kjv: "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest."
+bsb: "So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest."
+hebrew: "וַתָּ֣שָׁב נָעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃"
+pericope: "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H5281]]"
+- "[[H9002]]"
+- "[[H7327]]"
+- "[[H9009]]"
+- "[[H4125]]"
+- "[[H3618H]]"
+- "[[H9024]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H7704G]]"
+- "[[H4124G]]"
+- "[[H1992]]"
+- "[[H0935G]]"
+- "[[H1035G]]"
+- "[[H9003]]"
+- "[[H8462]]"
+- "[[H7105A]]"
+- "[[H8184]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:22**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.
 <small><sub>**BSB:**</sub></small>
 So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|תָּ֣שָׁב]] [[H5281\|נָעֳמִ֗י]] [[H9002\|וְ]][[H7327\|ר֨וּת]] [[H9009\|הַ]][[H4125\|מּוֹאֲבִיָּ֤ה]] [[H3618H\|כַלָּתָ]][[H9024\|הּ֙]] [[H5973A\|עִמָּ֔]][[H9034\|הּ]] [[H9009\|הַ]][[H7725G\|שָּׁ֖בָה]] [[H9006\|מִ]][[H7704G\|שְּׂדֵ֣י]] [[H4124G\|מוֹאָ֑ב]] [[H9002\|וְ]][[H1992\|הֵ֗מָּה]] [[H0935G\|בָּ֚אוּ]] [[H1035G\|בֵּ֣ית]] [[H1035G\|לֶ֔חֶם]] [[H9003\|בִּ]][[H8462\|תְחִלַּ֖ת]] [[H7105A\|קְצִ֥יר]] [[H8184\|שְׂעֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RUTH|RUTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.21|<< Ruth 1:21]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.1|Ruth 2:1 >>]]</td></tr></table>
 

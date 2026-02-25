@@ -1,8 +1,73 @@
+---
+title: Ezekiel 12:16
+type: Verse
+kjv: "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the LORD."
+bsb: "But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”"
+hebrew: "וְהוֹתַרְתִּ֤י מֵהֶם֙ אַנְשֵׁ֣י מִסְפָּ֔ר מֵחֶ֖רֶב מֵרָעָ֣ב וּמִדָּ֑בֶר לְמַ֨עַן יְסַפְּר֜וּ אֶת־ כָּל־ תּוֹעֲבֽוֹתֵיהֶ֗ם בַּגּוֹיִם֙ אֲשֶׁר־ בָּ֣אוּ שָׁ֔ם וְיָדְע֖וּ כִּֽי־ אֲנִ֥י יְהוָֽה׃ פ"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0582]]"
+- "[[H4557]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H4616]]"
+- "[[H5608A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 12:16**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3498\|הוֹתַרְתִּ֤י]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H0582\|אַנְשֵׁ֣י]] [[H4557\|מִסְפָּ֔ר]] [[H9006\|מֵ]][[H2719\|חֶ֖רֶב]] [[H9006\|מֵ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9006\|מִ]][[H1698\|דָּ֑בֶר]] [[H4616\|לְמַ֨עַן]] [[H5608A\|יְסַפְּר֜וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֽוֹתֵי]][[H9028\|הֶ֗ם]] [[H9003\|בַּ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H8033G\|שָׁ֔ם]] [[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.15|<< Ezekiel 12:15]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.17|Ezekiel 12:17 >>]]</td></tr></table>
 
@@ -27,7 +92,7 @@ But I will spare a few of them from sword and famine and plague, so that in the 
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדְע֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.15|<< Ezekiel 12:15]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.17|Ezekiel 12:17 >>]]</td></tr></table>
 
 

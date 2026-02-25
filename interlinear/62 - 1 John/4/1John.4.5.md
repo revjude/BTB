@@ -1,10 +1,52 @@
+---
+title: 1 John 4:5
+type: Verse
+kjv: "They are of the world: therefore speak they of the world, and the world heareth them."
+bsb: "They are of the world. That is why they speak from the world’s perspective, and the world listens to them."
+greek: "αὐτοὶ ἐκ τοῦ κόσμου εἰσίν· διὰ τοῦτο ἐκ τοῦ κόσμου λαλοῦσιν καὶ ὁ κόσμος αὐτῶν ἀκούει."
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **1 John 4:5**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They are of the world: therefore speak they of the world, and the world heareth them.
 <small><sub>**BSB:**</sub></small>
 They are of the world. That is why they speak from the world’s perspective, and the world listens to them.
-<small><sub>**Literal:**</sub></small>
-They themselves of the world are; because of this from out of the world they speak and the world to them listens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.4|<< 1 John 4:4]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.6|1 John 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G1510\|εἰσίν·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G2980\|λαλοῦσιν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G0846\|αὐτῶν]]  [[G0191\|ἀκούει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.4|<< 1 John 4:4]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.6|1 John 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

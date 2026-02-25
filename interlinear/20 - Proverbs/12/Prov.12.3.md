@@ -1,8 +1,53 @@
+---
+title: Proverbs 12:3
+type: Verse
+kjv: "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+bsb: "A man cannot be established through wickedness, but the righteous cannot be uprooted."
+hebrew: "לֹא־ יִכּ֣וֹן אָדָ֣ם בְּרֶ֑שַׁע וְשֹׁ֥רֶשׁ צַ֝דִּיקִ֗ים בַּל־ יִמּֽוֹט׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3559H]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H7562]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H6662]]"
+- "[[H1077]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:3**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man shall not be established by wickedness: but the root of the righteous shall not be moved.
 <small><sub>**BSB:**</sub></small>
 A man cannot be established through wickedness, but the righteous cannot be uprooted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H3559H\|יִכּ֣וֹן]] [[H0120G\|אָדָ֣ם]] [[H9003\|בְּ]][[H7562\|רֶ֑שַׁע]] [[H9002\|וְ]][[H8328\|שֹׁ֥רֶשׁ]] [[H6662\|צַ֝דִּיקִ֗ים]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|יִמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.2|<< Proverbs 12:2]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.4|Proverbs 12:4 >>]]</td></tr></table>
 

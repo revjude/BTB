@@ -1,8 +1,66 @@
+---
+title: Psalm 138:2
+type: Verse
+kjv: "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name."
+bsb: "I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else."
+hebrew: "אֶשְׁתַּחֲוֶ֨ה אֶל־ הֵיכַ֪ל קָדְשְׁךָ֡ וְא֘וֹדֶ֤ה אֶת־ שְׁמֶ֗ךָ עַל־ חַסְדְּךָ֥ וְעַל־ אֲמִתֶּ֑ךָ כִּֽי־ הִגְדַּ֥לְתָּ עַל־ כָּל־ שִׁ֝מְךָ֗ אִמְרָתֶֽךָ׃"
+pericope: "[[Ps.138.1 A Thankful Heart|A Thankful Heart]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 138
+book/chapter: "[[Ps.138|Psalm 138]]"
+chronological_order: 385
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H7812]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1964G]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3034]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H2617A]]"
+- "[[H0571G]]"
+- "[[H3588A]]"
+- "[[H1431]]"
+- "[[H3605]]"
+- "[[H0565A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 138:2**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
 <small><sub>**BSB:**</sub></small>
 I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else.
+<small><sub>**Hebrew:**</sub></small>
+[[H7812\|אֶשְׁתַּחֲוֶ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1964G\|הֵיכַ֪ל]] [[H6944G\|קָדְשְׁ]][[H9021\|ךָ֡]] [[H9002\|וְ]][[H3034\|א֘וֹדֶ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֶ֗]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֥]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0571G\|אֲמִתֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1431\|הִגְדַּ֥לְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8034\|שִׁ֝מְ]][[H9021\|ךָ֗]] [[H0565A\|אִמְרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic TRUTH|TRUTH]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.1|<< Psalms 138:1]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.3|Psalms 138:3 >>]]</td></tr></table>
 

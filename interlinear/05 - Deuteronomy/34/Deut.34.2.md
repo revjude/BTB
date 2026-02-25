@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 34:2
+type: Verse
+kjv: "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,"
+bsb: "all of Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea,"
+hebrew: "וְאֵת֙ כָּל־ נַפְתָּלִ֔י וְאֶת־ אֶ֥רֶץ אֶפְרַ֖יִם וּמְנַשֶּׁ֑ה וְאֵת֙ כָּל־ אֶ֣רֶץ יְהוּדָ֔ה עַ֖ד הַיָּ֥ם הָאַחֲרֽוֹן׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PISGAH|PISGAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5321G]]"
+- "[[H0776G]]"
+- "[[H0669G]]"
+- "[[H4519G]]"
+- "[[H3063G]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H0314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:2**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,
 <small><sub>**BSB:**</sub></small>
 all of Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5321G\|נַפְתָּלִ֔י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H0669G\|אֶפְרַ֖יִם]] [[H9002\|וּ]][[H4519G\|מְנַשֶּׁ֑ה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הָ]][[H0314\|אַחֲרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MOSES|MOSES]] • [[topic PISGAH|PISGAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.1|<< Deuteronomy 34:1]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.3|Deuteronomy 34:3 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 30:9
+type: Verse
+kjv: "That this is a rebellious people, lying children, children that will not hear the law of the LORD:"
+bsb: "These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction."
+hebrew: "כִּ֣י עַ֤ם מְרִי֙ ה֔וּא בָּנִ֖ים כֶּחָשִׁ֑ים בָּנִ֕ים לֹֽא־ אָב֥וּ שְׁמ֖וֹעַ תּוֹרַ֥ת יְהוָֽה׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5971A]]"
+- "[[H4805H]]"
+- "[[H1931]]"
+- "[[H1121A]]"
+- "[[H3586]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H8085G]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:9**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That this [is] a rebellious people, lying children, children [that] will not hear the law of the LORD:
 <small><sub>**BSB:**</sub></small>
 These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5971A\|עַ֤ם]] [[H4805H\|מְרִי֙]] [[H1931\|ה֔וּא]] [[H1121A\|בָּנִ֖ים]] [[H3586\|כֶּחָשִׁ֑ים]] [[H1121A\|בָּנִ֕ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָב֥וּ]] [[H8085G\|שְׁמ֖וֹעַ]] [[H8451\|תּוֹרַ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHARACTER|CHARACTER]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.8|<< Isaiah 30:8]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.10|Isaiah 30:10 >>]]</td></tr></table>
 

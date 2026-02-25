@@ -1,8 +1,74 @@
+---
+title: Exodus 4:6
+type: Verse
+kjv: "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
+bsb: "Furthermore, the LORD said to Moses, “Put your hand inside your cloak.” So he put his hand inside his cloak, and when he took it out, his hand was leprous, white as snow."
+hebrew: "וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא־ נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג׃"
+pericope: "[[Exod.4.6 Moses’ Hand|Moses’ Hand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H0935P]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H2436H]]"
+- "[[H9023]]"
+- "[[H3318H]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6879]]"
+- "[[H9004]]"
+- "[[H7950]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:6**<big><big>[[Exod.4.6 Moses’ Hand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand [was] leprous as snow.
 <small><sub>**BSB:**</sub></small>
 Furthermore, the LORD said to Moses, “Put your hand inside your cloak.” So he put his hand inside his cloak, and when he took it out, his hand was leprous, white as snow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H5750\|ע֗וֹד]] [[H0935P\|הָֽבֵא]][[H9014\|־]] [[H4994\|נָ֤א]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H2436H\|חֵיקֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H0935P\|יָּבֵ֥א]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2436H\|חֵיק֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318H\|יּ֣וֹצִאָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H6879\|מְצֹרַ֥עַת]] [[H9004\|כַּ]][[H7950\|שָּֽׁלֶג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic SIGN|SIGN]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.5|<< Exodus 4:5]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.7|Exodus 4:7 >>]]</td></tr></table>
 

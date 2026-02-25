@@ -1,8 +1,61 @@
+---
+title: Genesis 29:12
+type: Verse
+kjv: "And Jacob told Rachel that he was her father’s brother, and that he was Rebekah’s son: and she ran and told her father."
+bsb: "He told Rachel that he was Rebekah’s son, a relative of her father, and she ran and told her father."
+hebrew: "וַיַּגֵּ֨ד יַעֲקֹ֜ב לְרָחֵ֗ל כִּ֣י אֲחִ֤י אָבִ֙יהָ֙ ה֔וּא וְכִ֥י בֶן־ רִבְקָ֖ה ה֑וּא וַתָּ֖רָץ וַתַּגֵּ֥ד לְאָבִֽיהָ׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H7354]]"
+- "[[H3588A]]"
+- "[[H0251H]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7259]]"
+- "[[H7323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:12**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob told Rachel that he [was] her father’s brother, and that he [was] Rebekah’s son: and she ran and told her father.
 <small><sub>**BSB:**</sub></small>
 He told Rachel that he was Rebekah’s son, a relative of her father, and she ran and told her father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֨ד]] [[H3290\|יַעֲקֹ֜ב]] [[H9005\|לְ]][[H7354\|רָחֵ֗ל]] [[H3588A\|כִּ֣י]] [[H0251H\|אֲחִ֤י]] [[H0001G\|אָבִ֙י]][[H9024\|הָ֙]] [[H1931\|ה֔וּא]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H7259\|רִבְקָ֖ה]] [[H1931\|ה֑וּא]] [[H9001\|וַ]][[H7323G\|תָּ֖רָץ]] [[H9001\|וַ]][[H5046\|תַּגֵּ֥ד]] [[H9005\|לְ]][[H0001G\|אָבִֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.11|<< Genesis 29:11]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.13|Genesis 29:13 >>]]</td></tr></table>
 

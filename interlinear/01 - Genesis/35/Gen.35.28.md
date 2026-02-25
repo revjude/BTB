@@ -1,8 +1,53 @@
+---
+title: Genesis 35:28
+type: Verse
+kjv: "And the days of Isaac were an hundred and fourscore years."
+bsb: "And Isaac lived 180 years."
+hebrew: "וַיִּֽהְי֖וּ יְמֵ֣י יִצְחָ֑ק מְאַ֥ת שָׁנָ֖ה וּשְׁמֹנִ֥ים שָׁנָֽה׃"
+pericope: "[[Gen.35.27 The Death of Isaac|The Death of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H3327]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:28**<big><big>[[Gen.35.27 The Death of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the days of Isaac were an hundred and fourscore years.
 <small><sub>**BSB:**</sub></small>
 And Isaac lived 180 years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְי֖וּ]] [[H3117G\|יְמֵ֣י]] [[H3327\|יִצְחָ֑ק]] [[H3967\|מְאַ֥ת]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H8084\|שְׁמֹנִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAAC|ISAAC]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.27|<< Genesis 35:27]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.29|Genesis 35:29 >>]]</td></tr></table>
 

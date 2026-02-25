@@ -1,10 +1,66 @@
+---
+title: Revelation 19:18
+type: Verse
+kjv: "That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great."
+bsb: "so that you may eat the flesh of kings and commanders and mighty men, of horses and riders, of everyone slave and free, small and great.”"
+greek: "ἵνα φάγητε σάρκας βασιλέων καὶ σάρκας χιλιάρχων καὶ σάρκας ἰσχυρῶν καὶ σάρκας ἵππων καὶ τῶν καθημένων ἐπ᾽ αὐτῶν καὶ σάρκας πάντων, ἐλευθέρων τε καὶ δούλων καὶ μικρῶν τε καὶ μεγάλων.¶"
+pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2443]]"
+- "[[G5315]]"
+- "[[G4561]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G5506]]"
+- "[[G2478]]"
+- "[[G2462]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G1658]]"
+- "[[G5037]]"
+- "[[G1401]]"
+- "[[G3398]]"
+- "[[G3173]]"
+texts:
+- NKO
+- NK(o)
+- ko
+---
+
 **Revelation 19:18**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all [men, both] free and bond, both small and great.
 <small><sub>**BSB:**</sub></small>
 so that you may eat the flesh of kings and commanders and mighty men, of horses and riders, of everyone slave and free, small and great.”
-<small><sub>**Literal:**</sub></small>
-so that you may eat [the] flesh of kings and [the] flesh of commanders and [the] flesh of mighty [men] and [the] flesh of horses and of those sitting on them and [the] flesh of all, free both and slaves and small both and great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.17|<< Revelation 19:17]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.19|Revelation 19:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G5315\|φάγητε]]  [[G4561\|σάρκας]]  [[G0935\|βασιλέων]]  [[G2532\|καὶ]]  [[G4561\|σάρκας]]  [[G5506\|χιλιάρχων]]  [[G2532\|καὶ]]  [[G4561\|σάρκας]]  [[G2478\|ἰσχυρῶν]]  [[G2532\|καὶ]]  [[G4561\|σάρκας]]  [[G2462\|ἵππων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2521\|καθημένων]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G4561\|σάρκας]]  [[G3956\|πάντων,]]  [[G1658\|ἐλευθέρων]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1401\|δούλων]]  [[G2532\|καὶ]]  [[G3398\|μικρῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3173\|μεγάλων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.17|<< Revelation 19:17]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.19|Revelation 19:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:18** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.34.6|Isa 34:6]]

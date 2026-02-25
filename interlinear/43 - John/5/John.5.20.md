@@ -1,10 +1,59 @@
+---
+title: John 5:20
+type: Verse
+kjv: "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+bsb: "The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these."
+jesus_said: "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+greek: "ὁ γὰρ πατὴρ φιλεῖ τὸν υἱὸν καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα ἵνα ὑμεῖς θαυμάζητε."
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3962]]"
+- "[[G5368]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1166]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3173]]"
+- "[[G3778]]"
+- "[[G2041]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G2296]]"
+texts:
+- NKO
+---
+
 **John 5:20**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.
 <small><sub>**BSB:**</sub></small>
 The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these.
-<small><sub>**Literal:**</sub></small>
-<the> For the Father loves the Son and all things shows to Him that He himself does, and greater than these He will show to Him works so that you yourselves may marvel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.19|<< John 5:19]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.21|John 5:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3962\|πατὴρ]]  [[G5368\|φιλεῖ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G1166\|δείκνυσιν]]  [[G0846\|αὐτῷ]]  [[G3739\|ἃ]]  [[G0846\|αὐτὸς]]  [[G4160G\|ποιεῖ,]]  [[G2532\|καὶ]]  [[G3173\|μείζονα]]  [[G3778\|τούτων]]  [[G1166\|δείξει]]  [[G0846\|αὐτῷ]]  [[G2041\|ἔργα]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G2296\|θαυμάζητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.19|<< John 5:19]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.21|John 5:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

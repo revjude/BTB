@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 7:17
+type: Verse
+kjv: "And the sons of Ulam; Bedan. These were the sons of Gilead, the son of Machir, the son of Manasseh."
+bsb: "The son of Ulam: Bedan. These were the sons of Gilead son of Machir, the son of Manasseh."
+hebrew: "וּבְנֵ֥י אוּלָ֖ם בְּדָ֑ן אֵ֚לֶּה בְּנֵ֣י גִלְעָ֔ד בֶּן־ מָכִ֖יר בֶּן־ מְנַשֶּֽׁה׃"
+pericope: "[[1Chr.7.14 The Descendants of Manasseh|The Descendants of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BEDAN|BEDAN]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAMMOLEKETH|HAMMOLEKETH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0198G]]"
+- "[[H0917G]]"
+- "[[H0428]]"
+- "[[H1568H]]"
+- "[[H9014]]"
+- "[[H4353G]]"
+- "[[H4519G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:17**<big><big>[[1Chr.7.14 The Descendants of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ulam; Bedan. These [were] the sons of Gilead, the son of Machir, the son of Manasseh.
 <small><sub>**BSB:**</sub></small>
 The son of Ulam: Bedan. These were the sons of Gilead son of Machir, the son of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H0198G\|אוּלָ֖ם]] [[H0917G\|בְּדָ֑ן]] [[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H1568H\|גִלְעָ֔ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4353G\|מָכִ֖יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEDAN|BEDAN]] • [[topic GILEAD|GILEAD]] • [[topic HAMMOLEKETH|HAMMOLEKETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.16|<< 1 Chronicles 7:16]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.18|1 Chronicles 7:18 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Luke 6:4
+type: Verse
+kjv: "How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?"
+bsb: "He entered the house of God, took the consecrated bread and gave it to his companions, and ate what is lawful only for the priests to eat.”"
+jesus_said: "How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?"
+greek: "ὡς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ, καὶ τοὺς ἄρτους τῆς προθέσεως λαβὼν καὶ ἔφαγεν καὶ ἔδωκεν καὶ τοῖς μετ᾽ αὐτοῦ οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ μόνους τοὺς ἱερεῖς;"
+pericope: "[[Luke.6.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G5613]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G4286]]"
+- "[[G2983]]"
+- "[[G5315]]"
+- "[[G1325]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3441]]"
+- "[[G2409]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 6:4**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
 <small><sub>**BSB:**</sub></small>
 He entered the house of God, took the consecrated bread and gave it to his companions, and ate what is lawful only for the priests to eat.”
-<small><sub>**Literal:**</sub></small>
-how he entered into the house <the> of God, and the loaves of the presentation having taken and ate and gave and to those with him which not it is lawful to eat only except solely to the priests?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.3|<< Luke 6:3]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.5|Luke 6:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G3588\|τῆς]]  [[G4286\|προθέσεως]]  [[G2983\|λαβὼν]]  [[G2532\|καὶ]]  [[G5315\|ἔφαγεν]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G3739\|οὓς]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G5315\|φαγεῖν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3441\|μόνους]]  [[G3588\|τοὺς]]  [[G2409\|ἱερεῖς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.3|<< Luke 6:3]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.5|Luke 6:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 6:4** is...
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]

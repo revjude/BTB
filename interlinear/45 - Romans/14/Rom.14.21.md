@@ -1,10 +1,67 @@
+---
+title: Romans 14:21
+type: Verse
+kjv: "It is good neither to eat flesh, nor to drink wine, nor any thing whereby thy brother stumbleth, or is offended, or is made weak."
+bsb: "It is better not to eat meat or drink wine or to do anything to cause your brother to stumble."
+greek: "καλὸν τὸ μὴ φαγεῖν κρέα μηδὲ πιεῖν οἶνον μηδὲ ἐν ᾧ ὁ ἀδελφός σου προσκόπτει ἢ σκανδαλίζεται ἢ ἀσθενεῖ"
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2570G]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5315]]"
+- "[[G2907]]"
+- "[[G3366]]"
+- "[[G4095]]"
+- "[[G3631]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G4350]]"
+- "[[G2228]]"
+- "[[G4624]]"
+- "[[G0770G]]"
+texts:
+- NKO
+- KO
+---
+
 **Romans 14:21**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [It is] good neither to eat flesh, nor to drink wine, nor [any thing] whereby thy brother stumbleth, or is offended, or is made weak.
 <small><sub>**BSB:**</sub></small>
 It is better not to eat meat or drink wine or to do anything to cause your brother to stumble.
-<small><sub>**Literal:**</sub></small>
-[It is] good <the> neither to eat meat nor to drink wine nor [anything] in which the brother of you stumbles or is led into sin or is weak<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.20|<< Romans 14:20]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.22|Romans 14:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2570G\|καλὸν]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G5315\|φαγεῖν]]  [[G2907\|κρέα]]  [[G3366\|μηδὲ]]  [[G4095\|πιεῖν]]  [[G3631\|οἶνον]]  [[G3366\|μηδὲ]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου]]  [[G4350\|προσκόπτει]]  [[G2228\|ἢ]]  [[G4624\|σκανδαλίζεται]]  [[G2228\|ἢ]]  [[G0770G\|ἀσθενεῖ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FOOD|FOOD]] • [[topic LOVE|LOVE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STRIFE|STRIFE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.20|<< Romans 14:20]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.22|Romans 14:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

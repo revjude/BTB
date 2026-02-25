@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Concern for the Galatians
+type: Pericope
 pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 4
 book/chapter: "[[Gal.4|Galatians 4]]"
-genre:
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 13
 verses:
 - "[[Gal.4.8]]"
 - "[[Gal.4.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gal.4.20]]"
 ---
 
-[[Gal.4|Galatians 4:8 - Galatians 4:20]]
+<small>[[Gal.4|Galatians 4:8-20]]</small>
 *Paul’s Concern for the Galatians*
 
 [[Gal.4.8|8]] Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.

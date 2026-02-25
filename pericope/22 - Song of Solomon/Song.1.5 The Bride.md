@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.1.5 The Bride|The Bride]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 1
 book/chapter: "[[Song.1|Song of Solomon 1]]"
-genre:
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 3
 verses:
 - "[[Song.1.5]]"
 - "[[Song.1.6]]"
 - "[[Song.1.7]]"
 ---
 
-[[Song.1|Song of Solomon 1:5 - Song of Solomon 1:7]]
+<small>[[Song.1|Song of Solomon 1:5-7]]</small>
 *The Bride*
 
 [[Song.1.5|5]] I \[am\] black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.

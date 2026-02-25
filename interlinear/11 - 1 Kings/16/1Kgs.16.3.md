@@ -1,8 +1,64 @@
+---
+title: 1 Kings 16:3
+type: Verse
+kjv: "Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat."
+bsb: "So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat:"
+hebrew: "הִנְנִ֥י מַבְעִ֛יר אַחֲרֵ֥י בַעְשָׁ֖א וְאַחֲרֵ֣י בֵית֑וֹ וְנָֽתַתִּי֙ אֶת־ בֵּ֣יתְךָ֔ כְּבֵ֖ית יָרָבְעָ֥ם בֶּן־ נְבָֽט׃"
+pericope: "[[1Kgs.16.1 Jehu’s Prophecy against Baasha|Jehu’s Prophecy against Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H1197I]]"
+- "[[H0310A]]"
+- "[[H1201]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:3**<big><big>[[1Kgs.16.1 Jehu’s Prophecy against Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will take away the posterity of Baasha, and the posterity of his house; and will make thy house like the house of Jeroboam the son of Nebat.
 <small><sub>**BSB:**</sub></small>
 So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat:
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H1197I\|מַבְעִ֛יר]] [[H0310A\|אַחֲרֵ֥י]] [[H1201\|בַעְשָׁ֖א]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֣י]] [[H1004M\|בֵית֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5414I\|נָֽתַתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣יתְ]][[H9021\|ךָ֔]] [[H9004\|כְּ]][[H1004M\|בֵ֖ית]] [[H3379G\|יָרָבְעָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.2|<< 1 Kings 16:2]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.4|1 Kings 16:4 >>]]</td></tr></table>
 

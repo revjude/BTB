@@ -1,8 +1,55 @@
+---
+title: Psalm 44:13
+type: Verse
+kjv: "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us."
+bsb: "You have made us a reproach to our neighbors, a mockery and derision to those around us."
+hebrew: "תְּשִׂימֵ֣נוּ חֶ֭רְפָּה לִשְׁכֵנֵ֑ינוּ לַ֥עַג וָ֝קֶ֗לֶס לִסְבִיבוֹתֵֽינוּ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7760A]]"
+- "[[H9035]]"
+- "[[H2781]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9025]]"
+- "[[H3933]]"
+- "[[H9002]]"
+- "[[H7047]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:13**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.
 <small><sub>**BSB:**</sub></small>
 You have made us a reproach to our neighbors, a mockery and derision to those around us.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|תְּשִׂימֵ֣]][[H9035\|נוּ]] [[H2781\|חֶ֭רְפָּה]] [[H9005\|לִ]][[H7934\|שְׁכֵנֵ֑י]][[H9025\|נוּ]] [[H3933\|לַ֥עַג]] [[H9002\|וָ֝]][[H7047\|קֶ֗לֶס]] [[H9005\|לִ]][[H5439G\|סְבִיבוֹתֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURMURING|MURMURING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.12|<< Psalms 44:12]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.14|Psalms 44:14 >>]]</td></tr></table>
 

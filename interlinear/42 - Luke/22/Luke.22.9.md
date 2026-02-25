@@ -1,10 +1,51 @@
+---
+title: Luke 22:9
+type: Verse
+kjv: "And they said unto him, Where wilt thou that we prepare?"
+bsb: "“Where do You want us to prepare it?” they asked."
+greek: "οἱ δὲ εἶπαν αὐτῷ· ποῦ θέλεις ἑτοιμάσωμεν;"
+pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4226]]"
+- "[[G2309]]"
+- "[[G2090]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 22:9**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Where wilt thou that we prepare?
 <small><sub>**BSB:**</sub></small>
 “Where do You want us to prepare it?” they asked.
-<small><sub>**Literal:**</sub></small>
-<the> And they said to Him; Where do you want [that] we may prepare?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.8|<< Luke 22:8]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.10|Luke 22:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G4226\|ποῦ]]  [[G2309\|θέλεις]]  [[G2090\|ἑτοιμάσωμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.8|<< Luke 22:8]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.10|Luke 22:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

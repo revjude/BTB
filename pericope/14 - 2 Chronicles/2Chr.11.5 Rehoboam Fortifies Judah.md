@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rehoboam Fortifies Judah
+type: Pericope
 pericope: "[[2Chr.11.5 Rehoboam Fortifies Judah|Rehoboam Fortifies Judah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 11
 book/chapter: "[[2Chr.11|2 Chronicles 11]]"
-genre:
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.11.5]]"
 - "[[2Chr.11.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.11.12]]"
 ---
 
-[[2Chr.11|2 Chronicles 11:5 - 2 Chronicles 11:12]]
+<small>[[2Chr.11|2 Chronicles 11:5-12]]</small>
 *Rehoboam Fortifies Judah*
 
 [[2Chr.11.5|5]] And Rehoboam dwelt in Jerusalem, and built cities for defence in Judah.

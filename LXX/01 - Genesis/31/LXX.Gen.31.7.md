@@ -1,6 +1,70 @@
+---
+title: LXX Genesis 31:7
+type: Verse
+lxx: "But your father cheated me, and bartered  my wage for the ten lambs. And the God of my father did not give to him the power to do evil against me."
+greek: "ο δε πατήρ υμών παρεκρούσατο με και ήλλαξε τον μισθόν μου των δέκα αμνών και ουκ έδωκεν αυτώ ο θεός του πατρός μου κακοποιήσαί με"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TEN|TEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G8621]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0236]]"
+- "[[G3588]]"
+- "[[G3408]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1176]]"
+- "[[G0286]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2554]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 31:7** 
 <small><sub>**LXX:**</sub></small>
  But your father cheated me, and bartered  my wage for the ten lambs. And the God of my father did not give to him \[the power\] to do evil \[against\] me. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G1161\|δε]] [[G3962\|πατήρ]] [[G1473\|υμών]] [[G8621\|παρεκρούσατο]] [[G1473\|με]] [[G2532\|και]] [[G0236\|ήλλαξε]] [[G3588\|τον]] [[G3408\|μισθόν]] [[G1473\|μου]] [[G3588\|των]] [[G1176\|δέκα]] [[G0286\|αμνών]] [[G2532\|και]] [[G3756\|ουκ]] [[G1325\|έδωκεν]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|μου]] [[G2554\|κακοποιήσαί]] [[G1473\|με]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FATHER-IN-LAW|FATHER-IN-LAW]] • [[topic LABAN|LABAN]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic TEN|TEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
@@ -28,6 +92,6 @@
 | of my father | **<big>[[G3962\|πατρός]]</big>** **<big>[[G1473\|μου]]</big>** |
 | \[the power\] to do evil | **<big>[[G2554\|κακοποιήσαί]]</big>** |
 | \[against\] me. | **<big>[[G1473\|με]]</big>** |
-[[Gen.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
 

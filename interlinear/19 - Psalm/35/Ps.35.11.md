@@ -1,8 +1,59 @@
+---
+title: Psalm 35:11
+type: Verse
+kjv: "False witnesses did rise up; they laid to my charge things that I knew not."
+bsb: "Hostile witnesses come forward; they make charges I know nothing about."
+hebrew: "יְ֭קוּמוּן עֵדֵ֣י חָמָ֑ס אֲשֶׁ֥ר לֹא־ יָ֝דַ֗עְתִּי יִשְׁאָלֽוּנִי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9013]]"
+- "[[H5707]]"
+- "[[H2555]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H7592]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:11**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 False witnesses did rise up; they laid to my charge [things] that I knew not.
 <small><sub>**BSB:**</sub></small>
 Hostile witnesses come forward; they make charges I know nothing about.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|יְ֭קוּמוּ]][[H9013\|ן]] [[H5707\|עֵדֵ֣י]] [[H2555\|חָמָ֑ס]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָ֝דַ֗עְתִּי]] [[H7592\|יִשְׁאָלֽוּ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FRIENDS|FRIENDS]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PERJURY|PERJURY]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.10|<< Psalms 35:10]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.12|Psalms 35:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

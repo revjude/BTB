@@ -1,8 +1,80 @@
+---
+title: Isaiah 20:2
+type: Verse
+kjv: "At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot."
+bsb: "the LORD had already spoken through Isaiah son of Amoz, saying, “Go, remove the sackcloth from your waist and the sandals from your feet.” And Isaiah did so, walking around naked and barefoot."
+hebrew: "בָּעֵ֣ת הַהִ֗יא דִּבֶּ֣ר יְהוָה֮ בְּיַ֣ד יְשַׁעְיָ֣הוּ בֶן־ אָמוֹץ֮ לֵאמֹר֒ לֵ֗ךְ וּפִתַּחְתָּ֤ הַשַּׂק֙ מֵעַ֣ל מָתְנֶ֔יךָ וְנַעַלְךָ֥ תַחֲלֹ֖ץ מֵעַ֣ל רַגְלֶ֑יךָ וַיַּ֣עַשׂ כֵּ֔ן הָלֹ֖ךְ עָר֥וֹם וְיָחֵֽף׃ ס"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H3027J]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H6605A]]"
+- "[[H8242]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4975]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5275]]"
+- "[[H2502A]]"
+- "[[H7272]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H1980I]]"
+- "[[H6174]]"
+- "[[H3182]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 20:2**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot.
 <small><sub>**BSB:**</sub></small>
 the LORD had already spoken through Isaiah son of Amoz, saying, “Go, remove the sackcloth from your waist and the sandals from your feet.” And Isaiah did so, walking around naked and barefoot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָה֮]] [[H9003\|בְּ]][[H3027J\|יַ֣ד]] [[H3470A\|יְשַׁעְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמוֹץ֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H1980G\|לֵ֗ךְ]] [[H9001\|וּ]][[H6605A\|פִתַּחְתָּ֤]] [[H9009\|הַ]][[H8242\|שַּׂק֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H4975\|מָתְנֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5275\|נַעַלְ]][[H9021\|ךָ֥]] [[H2502A\|תַחֲלֹ֖ץ]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H7272\|רַגְלֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H3651C\|כֵּ֔ן]] [[H1980I\|הָלֹ֖ךְ]] [[H6174\|עָר֥וֹם]] [[H9002\|וְ]][[H3182\|יָחֵֽף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISAIAH|ISAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.1|<< Isaiah 20:1]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.3|Isaiah 20:3 >>]]</td></tr></table>
 
@@ -30,7 +102,7 @@ the LORD had already spoken through Isaiah son of Amoz, saying, “Go, remove th
 | thus  |**<big>&#8207;[[H3651C\|כֵּ֔ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H1980I\|הָלֹ֖ךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | naked  |**<big>&#8207;[[H6174\|עָר֥וֹם]]&#8207; </big>**| a.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and barefoot  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3182\|יָחֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Chef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and barefoot  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3182\|יָחֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Chef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.1|<< Isaiah 20:1]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.3|Isaiah 20:3 >>]]</td></tr></table>
 
 

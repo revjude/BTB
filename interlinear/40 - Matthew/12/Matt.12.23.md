@@ -1,10 +1,53 @@
+---
+title: Matthew 12:23
+type: Verse
+kjv: "And all the people were amazed, and said, Is not this the son of David?"
+bsb: "The crowds were astounded and asked, “Could this be the Son of David?”"
+greek: "καὶ ἐξίσταντο πάντες οἱ ὄχλοι καὶ ἔλεγον· μήτι οὗτός ἐστιν ὁ υἱὸς Δαυίδ;¶"
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1839]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G3385]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G1138]]"
+texts:
+- NKO
+---
+
 **Matthew 12:23**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the people were amazed, and said, Is not this the son of David?
 <small><sub>**BSB:**</sub></small>
 The crowds were astounded and asked, “Could this be the Son of David?”
-<small><sub>**Literal:**</sub></small>
-And were amazed all the crowds and were saying; surely not ever this is the Son of David?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.22|<< Matthew 12:22]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.24|Matthew 12:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1839\|ἐξίσταντο]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G3385\|μήτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.22|<< Matthew 12:22]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.24|Matthew 12:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

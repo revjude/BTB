@@ -1,10 +1,50 @@
+---
+title: 2 Corinthians 11:22
+type: Verse
+kjv: "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I."
+bsb: "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I."
+greek: "Ἑβραῖοί εἰσιν; κἀγώ· κἀγώ· Ἰσραηλῖταί εἰσιν; κἀγώ· κἀγώ· σπέρμα Ἀβραάμ εἰσιν; κἀγώ· κἀγώ·"
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1445]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2475]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:22**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Are they Hebrews? so [am] I. Are they Israelites? so [am] I. Are they the seed of Abraham? so [am] I.
 <small><sub>**BSB:**</sub></small>
 Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I.
-<small><sub>**Literal:**</sub></small>
-Hebrews are they? I myself also; Israelites are they? I myself also; Descendants of Abraham are they? I myself also;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.21|<< 2 Corinthians 11:21]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.23|2 Corinthians 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1445\|Ἑβραῖοί]]  [[G1510\|εἰσιν;]]  [[G1473\|κἀγώ·]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2475\|Ἰσραηλῖταί]]  [[G1510\|εἰσιν;]]  [[G1473\|κἀγώ·]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4690G\|σπέρμα]]  [[G0011\|Ἀβραάμ]]  [[G1510\|εἰσιν;]]  [[G1473\|κἀγώ·]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEBREW|HEBREW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.21|<< 2 Corinthians 11:21]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.23|2 Corinthians 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

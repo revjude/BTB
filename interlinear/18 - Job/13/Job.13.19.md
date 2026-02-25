@@ -1,8 +1,54 @@
+---
+title: Job 13:19
+type: Verse
+kjv: "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
+bsb: "Can anyone indict me? If so, I will be silent and die."
+hebrew: "מִי־ ה֭וּא יָרִ֣יב עִמָּדִ֑י כִּֽי־ עַתָּ֖ה אַחֲרִ֣ישׁ וְאֶגְוָֽע׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REASONING|REASONING]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7378]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H2790B]]"
+- "[[H9002]]"
+- "[[H1478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:19**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] he [that] will plead with me? for now, if I hold my tongue, I shall give up the ghost.
 <small><sub>**BSB:**</sub></small>
 Can anyone indict me? If so, I will be silent and die.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H1931\|ה֭וּא]] [[H7378\|יָרִ֣יב]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַתָּ֖ה]] [[H2790B\|אַחֲרִ֣ישׁ]] [[H9002\|וְ]][[H1478\|אֶגְוָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REASONING|REASONING]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.18|<< Job 13:18]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.20|Job 13:20 >>]]</td></tr></table>
 

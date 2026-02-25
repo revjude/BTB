@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Thyatira
+type: Pericope
 pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 2
 book/chapter: "[[Rev.2|Revelation 2]]"
-genre:
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 12
 verses:
 - "[[Rev.2.18]]"
 - "[[Rev.2.19]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rev.2.29]]"
 ---
 
-[[Rev.2|Revelation 2:18 - Revelation 2:29]]
+<small>[[Rev.2|Revelation 2:18-29]]</small>
 *To the Church in Thyatira*
 
 [[Rev.2.18|18]] And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet \[are\] like fine brass;

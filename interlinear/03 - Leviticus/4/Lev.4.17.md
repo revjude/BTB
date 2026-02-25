@@ -1,8 +1,65 @@
+---
+title: Leviticus 4:17
+type: Verse
+kjv: "And the priest shall dip his finger in some of the blood, and sprinkle it seven times before the LORD, even before the vail."
+bsb: "and he is to dip his finger in the blood and sprinkle it seven times before the LORD in front of the veil."
+hebrew: "וְטָבַ֧ל הַכֹּהֵ֛ן אֶצְבָּע֖וֹ מִן־ הַדָּ֑ם וְהִזָּ֞ה שֶׁ֤בַע פְּעָמִים֙ לִפְנֵ֣י יְהוָ֔ה אֵ֖ת פְּנֵ֥י הַפָּרֹֽכֶת׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H2881]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H5137A]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:17**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall dip his finger [in some] of the blood, and sprinkle [it] seven times before the LORD, [even] before the vail.
 <small><sub>**BSB:**</sub></small>
 and he is to dip his finger in the blood and sprinkle it seven times before the LORD in front of the veil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2881\|טָבַ֧ל]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0676\|אֶצְבָּע֖]][[H9023\|וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֑ם]] [[H9001\|וְ]][[H5137A\|הִזָּ֞ה]] [[H7651\|שֶׁ֤בַע]] [[H6471\|פְּעָמִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0854\|אֵ֖ת]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הַ]][[H6532\|פָּרֹֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.16|<< Leviticus 4:16]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.18|Leviticus 4:18 >>]]</td></tr></table>
 

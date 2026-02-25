@@ -1,10 +1,68 @@
+---
+title: Mark 2:26
+type: Verse
+kjv: "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?"
+bsb: "During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”"
+jesus_said: "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?"
+greek: "πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ ἐπὶ Ἀβιαθὰρ τοῦ ἀρχιερέως καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ τοὺς ἱερεῖς, καὶ ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν;"
+pericope: "[[Mark.2.23 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[G4459]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G0008]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G4286]]"
+- "[[G5315]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2409]]"
+- "[[G1325]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 2:26**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
 <small><sub>**BSB:**</sub></small>
 During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”
-<small><sub>**Literal:**</sub></small>
-How he entered into the house <the> of God in [the days of] Abiathar the high priest and the loaves of the presentation ate which not it is lawful to eat only except for the priests, And he gave even to those with him being?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.25|<< Mark 2:25]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.27|Mark 2:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1909\|ἐπὶ]]  [[G0008\|Ἀβιαθὰρ]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G3588\|τῆς]]  [[G4286\|προθέσεως]]  [[G5315\|ἔφαγεν]]  [[G3739\|οὓς]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G5315\|φαγεῖν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τοὺς]]  [[G2409\|ἱερεῖς,]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1510\|οὖσιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMELECH|AHIMELECH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.25|<< Mark 2:25]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.27|Mark 2:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 2:26** is...
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]

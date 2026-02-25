@@ -1,8 +1,65 @@
+---
+title: Joshua 23:4
+type: Verse
+kjv: "Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward."
+bsb: "See, I have allotted as an inheritance to your tribes these remaining nations, including all the nations I have already cut off, from the Jordan westward to the Great Sea."
+hebrew: "רְאוּ֩ הִפַּ֨לְתִּי לָכֶ֜ם אֶֽת־ הַ֠גּוֹיִם הַנִּשְׁאָרִ֥ים הָאֵ֛לֶּה בְּנַחֲלָ֖ה לְשִׁבְטֵיכֶ֑ם מִן־ הַיַּרְדֵּ֗ן וְכָל־ הַגּוֹיִם֙ אֲשֶׁ֣ר הִכְרַ֔תִּי וְהַיָּ֥ם הַגָּד֖וֹל מְב֥וֹא הַשָּֽׁמֶשׁ׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+strongs:
+- "[[H7200I]]"
+- "[[H5307I]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H7604]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H7626H]]"
+- "[[H9026]]"
+- "[[H4480A]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3772I]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H3996]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:4**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward.
 <small><sub>**BSB:**</sub></small>
 See, I have allotted as an inheritance to your tribes these remaining nations, including all the nations I have already cut off, from the Jordan westward to the Great Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאוּ֩]] [[H5307I\|הִפַּ֨לְתִּי]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ֠]][[H1471A\|גּוֹיִם]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֛לֶּה]] [[H9003\|בְּ]][[H5159\|נַחֲלָ֖ה]] [[H9005\|לְ]][[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֑ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֗ן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3772I\|הִכְרַ֔תִּי]] [[H9002\|וְ]][[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הַ]][[H1419J\|גָּד֖וֹל]] [[H3996\|מְב֥וֹא]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.3|<< Joshua 23:3]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.5|Joshua 23:5 >>]]</td></tr></table>
 

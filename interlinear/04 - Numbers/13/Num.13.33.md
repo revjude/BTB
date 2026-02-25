@@ -1,8 +1,70 @@
+---
+title: Numbers 13:33
+type: Verse
+kjv: "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+bsb: "We even saw the Nephilim there—the descendants of Anak that come from the Nephilim! We seemed like grasshoppers in our own sight, and we must have seemed the same to them!”"
+hebrew: "וְשָׁ֣ם רָאִ֗ינוּ אֶת־ הַנְּפִילִ֛ים בְּנֵ֥י עֲנָ֖ק מִן־ הַנְּפִלִ֑ים וַנְּהִ֤י בְעֵינֵ֙ינוּ֙ כַּֽחֲגָבִ֔ים וְכֵ֥ן הָיִ֖ינוּ בְּעֵינֵיהֶֽם׃"
+pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GRASSHOPPER|GRASSHOPPER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic REPORTS|REPORTS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5303]]"
+- "[[H1121G]]"
+- "[[H6061]]"
+- "[[H4480A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9025]]"
+- "[[H9004]]"
+- "[[H2284]]"
+- "[[H3651C]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:33**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there we saw the giants, the sons of Anak, [which come] of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 <small><sub>**BSB:**</sub></small>
 We even saw the Nephilim there—the descendants of Anak that come from the Nephilim! We seemed like grasshoppers in our own sight, and we must have seemed the same to them!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8033G\|שָׁ֣ם]] [[H7200G\|רָאִ֗ינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5303\|נְּפִילִ֛ים]] [[H1121G\|בְּנֵ֥י]] [[H6061\|עֲנָ֖ק]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5303\|נְּפִלִ֑ים]] [[H9001\|וַ]][[H1961\|נְּהִ֤י]] [[H9003\|בְ]][[H5869I\|עֵינֵ֙י]][[H9025\|נוּ֙]] [[H9004\|כַּֽ]][[H2284\|חֲגָבִ֔ים]] [[H9002\|וְ]][[H3651C\|כֵ֥ן]] [[H1961\|הָיִ֖ינוּ]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic COWARDICE|COWARDICE]] • [[topic GRASSHOPPER|GRASSHOPPER]] • [[topic ISRAEL|ISRAEL]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic REPORTS|REPORTS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.32|<< Numbers 13:32]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.1|Numbers 14:1 >>]]</td></tr></table>
 

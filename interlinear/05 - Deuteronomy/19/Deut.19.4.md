@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 19:4
+type: Verse
+kjv: "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
+bsb: "Now this is the situation regarding the manslayer who flees to one of these cities to save his life, having killed his neighbor accidentally, without intending to harm him:"
+hebrew: "וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר־ יָנ֥וּס שָׁ֖מָּה וָחָ֑י אֲשֶׁ֨ר יַכֶּ֤ה אֶת־ רֵעֵ֙הוּ֙ בִּבְלִי־ דַ֔עַת וְה֛וּא לֹא־ שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H1697L]]"
+- "[[H9009]]"
+- "[[H7523]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H8130]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:4**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
 <small><sub>**BSB:**</sub></small>
 Now this is the situation regarding the manslayer who flees to one of these cities to save his life, having killed his neighbor accidentally, without intending to harm him:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶה֙]] [[H1697L\|דְּבַ֣ר]] [[H9009\|הָ]][[H7523\|רֹצֵ֔חַ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5127\|יָנ֥וּס]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9001\|וָ]][[H2421\|חָ֑י]] [[H0834A\|אֲשֶׁ֨ר]] [[H5221\|יַכֶּ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H9003\|בִּ]][[H1097\|בְלִי]][[H9014\|־]] [[H1847\|דַ֔עַת]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H3808\|לֹא]][[H9014\|־]] [[H8130\|שֹׂנֵ֥א]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H8543\|תְּמֹ֥ל]] [[H8032\|שִׁלְשֹֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.3|<< Deuteronomy 19:3]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.5|Deuteronomy 19:5 >>]]</td></tr></table>
 

@@ -3,11 +3,11 @@
 
 → General scriptures concerning [[Prov.26.18|Pr 26:18]]
 
-→ Feigned by David [[1Sam.21.13|1Sa 21:13]]-[[1Sam.21.15|15]]
+→ Feigned by David [[1Sam.21.13|1Sa 21:13-15]]
 
 → Sent as a judgment from God [[Deut.28.28|De 28:28]]; [[Zech.12.4|Zec 12:4]]
 
-→ Nebuchadnezzars [[Dan.4.32|Da 4:32]]-[[Dan.4.34|34]]
+→ Nebuchadnezzars [[Dan.4.32|Da 4:32-34]]
 
 → Jesus accused of [[Mark.3.21|Mr 3:21]]; [[John.10.20|Joh 10:20]]
 

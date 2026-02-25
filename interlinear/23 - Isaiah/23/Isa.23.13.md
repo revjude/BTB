@@ -1,8 +1,67 @@
+---
+title: Isaiah 23:13
+type: Verse
+kjv: "Behold the land of the Chaldeans; this people was not, till the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; and he brought it to ruin."
+bsb: "Look at the land of the Chaldeans—a people now of no account. The Assyrians destined it for the desert creatures; they set up their siege towers and stripped its palaces. They brought it to ruin."
+hebrew: "הֵ֣ן׀ אֶ֣רֶץ כַּשְׂדִּ֗ים זֶ֤ה הָעָם֙ לֹ֣א הָיָ֔ה אַשּׁ֖וּר יְסָדָ֣הּ לְצִיִּ֑ים הֵקִ֣ימוּ בַחוּנָ֗יו עֹרְרוּ֙ אַרְמְנוֹתֶ֔יהָ שָׂמָ֖הּ לְמַפֵּלָֽה׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHALDEA|CHALDEA]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H2005]]"
+- "[[H9015]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H0804G]]"
+- "[[H3245]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H6728]]"
+- "[[H6965H]]"
+- "[[H0971]]"
+- "[[H9023]]"
+- "[[H6209]]"
+- "[[H0759G]]"
+- "[[H9024]]"
+- "[[H7760A]]"
+- "[[H4654B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Isaiah 23:13**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the land of the Chaldeans; this people was not, [till] the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; [and] he brought it to ruin.
 <small><sub>**BSB:**</sub></small>
 Look at the land of the Chaldeans—a people now of no account. The Assyrians destined it for the desert creatures; they set up their siege towers and stripped its palaces. They brought it to ruin.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]][[H9015\|׀]] [[H0776G\|אֶ֣רֶץ]] [[H3778\|כַּשְׂדִּ֗ים]] [[H2088\|זֶ֤ה]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H3808\|לֹ֣א]] [[H1961\|הָיָ֔ה]] [[H0804G\|אַשּׁ֖וּר]] [[H3245\|יְסָדָ֣]][[H9034\|הּ]] [[H9005\|לְ]][[H6728\|צִיִּ֑ים]] [[H6965H\|הֵקִ֣ימוּ]] [[H0971\|בַחוּנָ֗י]][[H9023\|ו]] [[H6209\|עֹרְרוּ֙]] [[H0759G\|אַרְמְנוֹתֶ֔י]][[H9024\|הָ]] [[H7760A\|שָׂמָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H4654B\|מַפֵּלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHALDEA|CHALDEA]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.12|<< Isaiah 23:12]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.14|Isaiah 23:14 >>]]</td></tr></table>
 

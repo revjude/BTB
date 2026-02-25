@@ -1,8 +1,64 @@
+---
+title: Esther 3:4
+type: Verse
+kjv: "Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he was a Jew."
+bsb: "Day after day they warned him, but he would not comply. So they reported it to Haman to see whether Mordecai’s behavior would be tolerated, since he had told them he was a Jew."
+hebrew: "וַיְהִ֗י כְּאָמְרָ֤ם אֵלָיו֙ י֣וֹם וָי֔וֹם וְלֹ֥א שָׁמַ֖ע אֲלֵיהֶ֑ם וַיַּגִּ֣ידוּ לְהָמָ֗ן לִרְאוֹת֙ הֲיַֽעַמְדוּ֙ דִּבְרֵ֣י מָרְדֳּכַ֔י כִּֽי־ הִגִּ֥יד לָהֶ֖ם אֲשֶׁר־ ה֥וּא יְהוּדִֽי׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H9048]]"
+- "[[H9004]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3117J]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9038]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H2001]]"
+- "[[H7200G]]"
+- "[[H9008]]"
+- "[[H5975G]]"
+- "[[H1697G]]"
+- "[[H4782H]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H3064]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Esther 3:4**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he [was] a Jew.
 <small><sub>**BSB:**</sub></small>
 Day after day they warned him, but he would not comply. So they reported it to Haman to see whether Mordecai’s behavior would be tolerated, since he had told them he was a Jew.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H0559\|אָמְרָ֤]][[H9048\|ם]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3117J\|י֣וֹם]] [[H9002\|וָ]][[H3117J\|י֔וֹם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֖ע]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H5046\|יַּגִּ֣ידוּ]] [[H9005\|לְ]][[H2001\|הָמָ֗ן]] [[H9005\|לִ]][[H7200G\|רְאוֹת֙]] [[H9008\|הֲ]][[H5975G\|יַֽעַמְדוּ֙]] [[H1697G\|דִּבְרֵ֣י]] [[H4782H\|מָרְדֳּכַ֔י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5046\|הִגִּ֥יד]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H3064\|יְהוּדִֽי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.3|<< Esther 3:3]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.5|Esther 3:5 >>]]</td></tr></table>
 
@@ -30,8 +86,8 @@ Day after day they warned him, but he would not comply. So they reported it to H
 | [was] a Jew  |**<big>&#8207;[[H3064\|יְהוּדִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.3|<< Esther 3:3]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.5|Esther 3:5 >>]]</td></tr></table>
 
-[^1]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^3]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: when spoke they  | **<big>[[H9003|בְּ]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9048|ם]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: when spoke they  | **<big>[[H9003|בְּ]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9048|ם]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: when spoke they  | **<big>[[H9003|בְּ]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9048|ם]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בְּאָמְרָ֤/ם</big></span>**
 

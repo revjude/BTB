@@ -1,8 +1,59 @@
+---
+title: Hosea 2:17
+type: Verse
+kjv: "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."
+bsb: "For I will remove from her lips the names of the Baals; no longer will their names be invoked."
+hebrew: "וַהֲסִרֹתִ֛י אֶת־ שְׁמ֥וֹת הַבְּעָלִ֖ים מִפִּ֑יהָ וְלֹֽא־ יִזָּכְר֥וּ ע֖וֹד בִּשְׁמָֽם׃"
+pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BAALIM|BAALIM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:17**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name.
 <small><sub>**BSB:**</sub></small>
 For I will remove from her lips the names of the Baals; no longer will their names be invoked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|הֲסִרֹתִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֥וֹת]] [[H9009\|הַ]][[H1168A\|בְּעָלִ֖ים]] [[H9006\|מִ]][[H6310G\|פִּ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2142\|יִזָּכְר֥וּ]] [[H5750\|ע֖וֹד]] [[H9003\|בִּ]][[H8034\|שְׁמָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALIM|BAALIM]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.16|<< Hosea 2:16]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.18|Hosea 2:18 >>]]</td></tr></table>
 

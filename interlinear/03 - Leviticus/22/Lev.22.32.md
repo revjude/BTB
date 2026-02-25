@@ -1,8 +1,65 @@
+---
+title: Leviticus 22:32
+type: Verse
+kjv: "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you,"
+bsb: "You must not profane My holy name. I must be acknowledged as holy among the Israelites. I am the LORD who sanctifies you,"
+hebrew: "וְלֹ֤א תְחַלְּלוּ֙ אֶת־ שֵׁ֣ם קָדְשִׁ֔י וְנִ֨קְדַּשְׁתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:32**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I [am] the LORD which hallow you,
 <small><sub>**BSB:**</sub></small>
 You must not profane My holy name. I must be acknowledged as holy among the Israelites. I am the LORD who sanctifies you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2490H\|תְחַלְּלוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשִׁ֔]][[H9020\|י]] [[H9001\|וְ]][[H6942G\|נִ֨קְדַּשְׁתִּ֔י]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H6942G\|מְקַדִּשְׁ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.31|<< Leviticus 22:31]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.33|Leviticus 22:33 >>]]</td></tr></table>
 

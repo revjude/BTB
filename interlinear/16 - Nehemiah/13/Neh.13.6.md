@@ -1,8 +1,69 @@
+---
+title: Nehemiah 13:6
+type: Verse
+kjv: "But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:"
+bsb: "While all this was happening, I was not in Jerusalem, because I had returned to Artaxerxes king of Babylon in the thirty-second year of his reign. Some time later I obtained leave from the king"
+hebrew: "וּבְכָל־ זֶ֕ה לֹ֥א הָיִ֖יתִי בִּֽירוּשָׁלִָ֑ם כִּ֡י בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וּשְׁתַּ֜יִם לְאַרְתַּחְשַׁ֤סְתְּא מֶֽלֶךְ־ בָּבֶל֙ בָּ֣אתִי אֶל־ הַמֶּ֔לֶךְ וּלְקֵ֥ץ יָמִ֖ים נִשְׁאַ֥לְתִּי מִן־ הַמֶּֽלֶךְ׃"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H0783A]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H7093]]"
+- "[[H3117G]]"
+- "[[H7592]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:6**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in all this [time] was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:
 <small><sub>**BSB:**</sub></small>
 While all this was happening, I was not in Jerusalem, because I had returned to Artaxerxes king of Babylon in the thirty-second year of his reign. Some time later I obtained leave from the king
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2088\|זֶ֕ה]] [[H3808\|לֹ֥א]] [[H1961\|הָיִ֖יתִי]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H3588A\|כִּ֡י]] [[H9003\|בִּ]][[H8141\|שְׁנַת֩]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֜יִם]] [[H9005\|לְ]][[H0783A\|אַרְתַּחְשַׁ֤סְתְּא]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H0935G\|בָּ֣אתִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וּ]][[H9005\|לְ]][[H7093\|קֵ֥ץ]] [[H3117G\|יָמִ֖ים]] [[H7592\|נִשְׁאַ֥לְתִּי]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.5|<< Nehemiah 13:5]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.7|Nehemiah 13:7 >>]]</td></tr></table>
 

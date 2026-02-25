@@ -1,8 +1,56 @@
+---
+title: Isaiah 40:29
+type: Verse
+kjv: "He giveth power to the faint; and to them that have no might he increaseth strength."
+bsb: "He gives power to the faint and increases the strength of the weak."
+hebrew: "נֹתֵ֥ן לַיָּעֵ֖ף כֹּ֑חַ וּלְאֵ֥ין אוֹנִ֖ים עָצְמָ֥ה יַרְבֶּֽה׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3287]]"
+- "[[H3581B]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H0202]]"
+- "[[H6109]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:29**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He giveth power to the faint; and to [them that have] no might he increaseth strength.
 <small><sub>**BSB:**</sub></small>
 He gives power to the faint and increases the strength of the weak.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|נֹתֵ֥ן]] [[H9005\|לַ]][[H3287\|יָּעֵ֖ף]] [[H3581B\|כֹּ֑חַ]] [[H9002\|וּ]][[H9005\|לְ]][[H0369\|אֵ֥ין]] [[H0202\|אוֹנִ֖ים]] [[H6109\|עָצְמָ֥ה]] [[H7235A\|יַרְבֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic POWER|POWER]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.28|<< Isaiah 40:28]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.30|Isaiah 40:30 >>]]</td></tr></table>
 

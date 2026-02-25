@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zechariah’s Song
+type: Pericope
 pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 14
 verses:
 - "[[Luke.1.67]]"
 - "[[Luke.1.68]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Luke.1.80]]"
 ---
 
-[[Luke.1|Luke 1:67 - Luke 1:80]]
+<small>[[Luke.1|Luke 1:67-80]]</small>
 *Zechariah’s Song*
 
 [[Luke.1.67|67]] And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,

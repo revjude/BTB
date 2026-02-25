@@ -1,8 +1,49 @@
+---
+title: Job 17:4
+type: Verse
+kjv: "For thou hast hid their heart from understanding: therefore shalt thou not exalt them."
+bsb: "You have closed their minds to understanding; therefore You will not exalt them."
+hebrew: "כִּֽי־ לִ֭בָּם צָפַ֣נְתָּ מִּשָּׂ֑כֶל עַל־ כֵּ֝֗ן לֹ֣א תְרֹמֵֽם׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H6845]]"
+- "[[H9006]]"
+- "[[H7922]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:4**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast hid their heart from understanding: therefore shalt thou not exalt [them].
 <small><sub>**BSB:**</sub></small>
 You have closed their minds to understanding; therefore You will not exalt them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3820A\|לִ֭בָּ]][[H9028\|ם]] [[H6845\|צָפַ֣נְתָּ]] [[H9006\|מִּ]][[H7922\|שָּׂ֑כֶל]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֝֗ן]] [[H3808\|לֹ֣א]] [[H7311A\|תְרֹמֵֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.3|<< Job 17:3]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.5|Job 17:5 >>]]</td></tr></table>
 

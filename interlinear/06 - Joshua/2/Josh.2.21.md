@@ -1,8 +1,62 @@
+---
+title: Joshua 2:21
+type: Verse
+kjv: "And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window."
+bsb: "“Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window."
+hebrew: "וַתֹּ֙אמֶר֙ כְּדִבְרֵיכֶ֣ם כֶּן־ ה֔וּא וַֽתְּשַׁלְּחֵ֖ם וַיֵּלֵ֑כוּ וַתִּקְשֹׁ֛ר אֶת־ תִּקְוַ֥ת הַשָּׁנִ֖י בַּחַלּֽוֹן׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+- "[[topic TOKEN|TOKEN]]"
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9026]]"
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H7194]]"
+- "[[H0853]]"
+- "[[H8615A]]"
+- "[[H9009]]"
+- "[[H8144]]"
+- "[[H9003]]"
+- "[[H2474]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:21**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, According unto your words, so [be] it. And she sent them away, and they departed: and she bound the scarlet line in the window.
 <small><sub>**BSB:**</sub></small>
 “Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H9004\|כְּ]][[H1697G\|דִבְרֵי]][[H9026\|כֶ֣ם]] [[H3651C\|כֶּן]][[H9014\|־]] [[H1931\|ה֔וּא]] [[H9001\|וַֽ]][[H7971G\|תְּשַׁלְּחֵ֖]][[H9038\|ם]] [[H9001\|וַ]][[H1980G\|יֵּלֵ֑כוּ]] [[H9001\|וַ]][[H7194\|תִּקְשֹׁ֛ר]] [[H0853\|אֶת]][[H9014\|־]] [[H8615A\|תִּקְוַ֥ת]] [[H9009\|הַ]][[H8144\|שָּׁנִ֖י]] [[H9003\|בַּ]][[H2474\|חַלּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]] • [[topic TOKEN|TOKEN]] • [[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.20|<< Joshua 2:20]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.22|Joshua 2:22 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 25:19
+type: Verse
+kjv: "And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal."
+bsb: "and said to her young men, “Go ahead of me. I will be right behind you.” But she did not tell her husband Nabal."
+hebrew: "וַתֹּ֤אמֶר לִנְעָרֶ֙יהָ֙ עִבְר֣וּ לְפָנַ֔י הִנְנִ֖י אַחֲרֵיכֶ֣ם בָּאָ֑ה וּלְאִישָׁ֥הּ נָבָ֖ל לֹ֥א הִגִּֽידָה׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H9024]]"
+- "[[H5674A]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0310A]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H0376H]]"
+- "[[H5037]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:19**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.
 <small><sub>**BSB:**</sub></small>
 and said to her young men, “Go ahead of me. I will be right behind you.” But she did not tell her husband Nabal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9005\|לִ]][[H5288\|נְעָרֶ֙י]][[H9024\|הָ֙]] [[H5674A\|עִבְר֣וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H2005\|הִנְ]][[H9040\|נִ֖י]] [[H0310A\|אַחֲרֵי]][[H9036\|כֶ֣ם]] [[H0935G\|בָּאָ֑ה]] [[H9002\|וּ]][[H9005\|לְ]][[H0376H\|אִישָׁ֥]][[H9024\|הּ]] [[H5037\|נָבָ֖ל]] [[H3808\|לֹ֥א]] [[H5046\|הִגִּֽידָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic NABAL|NABAL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.18|<< 1 Samuel 25:18]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.20|1 Samuel 25:20 >>]]</td></tr></table>
 

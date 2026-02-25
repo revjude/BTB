@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ruth’s Loyalty to Naomi
+type: Pericope
 pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 1
 book/chapter: "[[Ruth.1|Ruth 1]]"
-genre:
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 13
 verses:
 - "[[Ruth.1.6]]"
 - "[[Ruth.1.7]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ruth.1.18]]"
 ---
 
-[[Ruth.1|Ruth 1:6 - Ruth 1:18]]
+<small>[[Ruth.1|Ruth 1:6-18]]</small>
 *Ruth’s Loyalty to Naomi*
 
 [[Ruth.1.6|6]] Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.

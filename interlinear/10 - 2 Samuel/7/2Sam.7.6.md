@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 7:6
+type: Verse
+kjv: "Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle."
+bsb: "For I have not dwelt in a house from the day I brought the Israelites up out of Egypt until this day, but I have moved about with a tent as My dwelling."
+hebrew: "כִּ֣י לֹ֤א יָשַׁ֙בְתִּי֙ בְּבַ֔יִת לְ֠מִיּוֹם הַעֲלֹתִ֞י אֶת־ בְּנֵ֤י יִשְׂרָאֵל֙ מִמִּצְרַ֔יִם וְעַ֖ד הַיּ֣וֹם הַזֶּ֑ה וָאֶֽהְיֶה֙ מִתְהַלֵּ֔ךְ בְּאֹ֖הֶל וּבְמִשְׁכָּֽן׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H3117L]]"
+- "[[H5927H]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1980I]]"
+- "[[H0168G]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:6**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas I have not dwelt in [any] house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 <small><sub>**BSB:**</sub></small>
 For I have not dwelt in a house from the day I brought the Israelites up out of Egypt until this day, but I have moved about with a tent as My dwelling.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3427\|יָשַׁ֙בְתִּי֙]] [[H9003\|בְּ]][[H1004B\|בַ֔יִת]] [[H9005\|לְ֠]][[H9006\|מִ]][[H3117L\|יּוֹם]] [[H5927H\|הַעֲלֹתִ֞]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וָ]][[H1961\|אֶֽהְיֶה֙]] [[H1980I\|מִתְהַלֵּ֔ךְ]] [[H9003\|בְּ]][[H0168G\|אֹ֖הֶל]] [[H9002\|וּ]][[H9003\|בְ]][[H4908\|מִשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.5|<< 2 Samuel 7:5]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.7|2 Samuel 7:7 >>]]</td></tr></table>
 

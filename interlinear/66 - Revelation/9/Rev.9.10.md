@@ -1,10 +1,62 @@
+---
+title: Revelation 9:10
+type: Verse
+kjv: "And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months."
+bsb: "They had tails with stingers like scorpions, which had the power to injure people for five months."
+greek: "καὶ ἔχουσιν οὐρὰς ὁμοίας σκορπίοις καὶ κέντρα ἦν, καὶ ἐν ταῖς οὐραῖς αὐτῶν καὶ ἡ ἐξουσία ἔχουσιν αὐτῶν ἀδικῆσαι τοὺς ἀνθρώπους μῆνας πέντε."
+pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic SCORPION|SCORPION]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G3769]]"
+- "[[G3664]]"
+- "[[G4651]]"
+- "[[G2759]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1849]]"
+- "[[G0091]]"
+- "[[G0444]]"
+- "[[G3376]]"
+- "[[G4002]]"
+texts:
+- NKO
+- k
+- NK(o)
+- O
+---
+
 **Revelation 9:10**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they had tails like unto scorpions, and there were stings in their tails: and their power [was] to hurt men five months.
 <small><sub>**BSB:**</sub></small>
 They had tails with stingers like scorpions, which had the power to injure people for five months.
-<small><sub>**Literal:**</sub></small>
-And they have tails like as scorpions and stingers it was and in the tails of them and [is] the power they have of them to injure <the> men for months five.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.9|<< Revelation 9:9]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.11|Revelation 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|ἔχουσιν]]  [[G3769\|οὐρὰς]]  [[G3664\|ὁμοίας]]  [[G4651\|σκορπίοις]]  [[G2532\|καὶ]]  [[G2759\|κέντρα]]  [[G1510\|ἦν,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G3769\|οὐραῖς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1849\|ἐξουσία]]  [[G2192\|ἔχουσιν]]  [[G0846\|αὐτῶν]]  [[G0091\|ἀδικῆσαι]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G3376\|μῆνας]]  [[G4002\|πέντε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOCUST|LOCUST]] • [[topic SCORPION|SCORPION]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.9|<< Revelation 9:9]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.11|Revelation 9:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

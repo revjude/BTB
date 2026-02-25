@@ -1,8 +1,63 @@
+---
+title: Ezekiel 21:27
+type: Verse
+kjv: "I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him."
+bsb: "A ruin, a ruin, I will make it a ruin! And it will not be restored until the arrival of Him to whom it belongs, to whom I have assigned the right of judgment.’"
+hebrew: "עַוָּ֥ה עַוָּ֖ה עַוָּ֣ה אֲשִׂימֶ֑נָּה גַּם־ זֹאת֙ לֹ֣א הָיָ֔ה עַד־ בֹּ֛א אֲשֶׁר־ ל֥וֹ הַמִּשְׁפָּ֖ט וּנְתַתִּֽיו׃ פ"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H5754]]"
+- "[[H7760A]]"
+- "[[H9034]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 21:27**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will overturn, overturn, overturn, it: and it shall be no [more], until he come whose right it is; and I will give it [him].
 <small><sub>**BSB:**</sub></small>
 A ruin, a ruin, I will make it a ruin! And it will not be restored until the arrival of Him to whom it belongs, to whom I have assigned the right of judgment.’
+<small><sub>**Hebrew:**</sub></small>
+[[H5754\|עַוָּ֥ה]] [[H5754\|עַוָּ֖ה]] [[H5754\|עַוָּ֣ה]] [[H7760A\|אֲשִׂימֶ֑]][[H9034\|נָּה]] [[H1571\|גַּם]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H3808\|לֹ֣א]] [[H1961\|הָיָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּ֛א]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּ֖ט]] [[H9001\|וּ]][[H5414G\|נְתַתִּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.26|<< Ezekiel 21:26]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.28|Ezekiel 21:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -25,7 +80,7 @@ A ruin, a ruin, I will make it a ruin! And it will not be restored until the arr
 | [the one] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the judgment  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4941G\|מִּשְׁפָּ֖ט]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and I will give it  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתַתִּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and I will give it  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתַתִּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.26|<< Ezekiel 21:26]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.28|Ezekiel 21:28 >>]]</td></tr></table>
 
 

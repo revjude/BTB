@@ -1,10 +1,60 @@
+---
+title: Acts 16:6
+type: Verse
+kjv: "Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,"
+bsb: "After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia."
+greek: "διῆλθον δὲ τὴν Φρυγίαν καὶ τὴν Γαλατικὴν χώραν κωλυθέντες ὑπὸ τοῦ ἁγίου πνεύματος λαλῆσαι τὸν λόγον ἐν τῇ Ἀσίᾳ,"
+pericope: "[[Acts.16.6 Paul’s Vision of the Macedonian|Paul’s Vision of the Macedonian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ASIA|ASIA]]"
+- "[[topic GALATIA|GALATIA]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHRYGIA|PHRYGIA]]"
+strongs:
+- "[[G1330]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5435]]"
+- "[[G2532]]"
+- "[[G1054]]"
+- "[[G5561]]"
+- "[[G2967]]"
+- "[[G5259G]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G0773]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **Acts 16:6**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
 <small><sub>**BSB:**</sub></small>
 After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia.
-<small><sub>**Literal:**</sub></small>
-they passed through then <the> Phrygia and the Galatian region having been forbidden by the Holy Spirit to speak the word in <the> Asia,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.5|<< Acts 16:5]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.7|Acts 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1330\|διῆλθον]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G5435\|Φρυγίαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1054\|Γαλατικὴν]]  [[G5561\|χώραν]]  [[G2967\|κωλυθέντες]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G4151G\|πνεύματος]]  [[G2980\|λαλῆσαι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0773\|Ἀσίᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASIA|ASIA]] • [[topic GALATIA|GALATIA]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PAUL|PAUL]] • [[topic PHRYGIA|PHRYGIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.5|<< Acts 16:5]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.7|Acts 16:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

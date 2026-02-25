@@ -1,10 +1,59 @@
+---
+title: Acts 19:6
+type: Verse
+kjv: "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied."
+bsb: "And when Paul laid his hands on them, the Holy Spirit came upon them, and they spoke in tongues and prophesied."
+greek: "καὶ ἐπιθέντος αὐτοῖς τοῦ Παύλου τὰς χεῖρας ἦλθεν τὸ πνεῦμα τὸ ἅγιον ἐπ᾽ αὐτούς, ἐλάλουν τε γλώσσαις καὶ ἐπροφήτευον."
+pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G5495]]"
+- "[[G2064]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G1909]]"
+- "[[G2980]]"
+- "[[G5037]]"
+- "[[G1100]]"
+- "[[G4395]]"
+texts:
+- NKO
+---
+
 **Acts 19:6**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Paul had laid [his] hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.
 <small><sub>**BSB:**</sub></small>
 And when Paul laid his hands on them, the Holy Spirit came upon them, and they spoke in tongues and prophesied.
-<small><sub>**Literal:**</sub></small>
-And when was laying on them <the> Paul the hands came the Spirit <the> Holy upon them, they were speaking then in tongues and were prophesying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.5|<< Acts 19:5]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.7|Acts 19:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2007\|ἐπιθέντος]]  [[G0846\|αὐτοῖς]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2064\|ἦλθεν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς,]]  [[G2980\|ἐλάλουν]]  [[G5037\|τε]]  [[G1100\|γλώσσαις]]  [[G2532\|καὶ]]  [[G4395\|ἐπροφήτευον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CHARISM|CHARISM]] • [[topic HAND|HAND]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.5|<< Acts 19:5]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.7|Acts 19:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 28:23
+type: Verse
+kjv: "God understandeth the way thereof, and he knoweth the place thereof."
+bsb: "But God understands its way, and He knows its place."
+hebrew: "אֱ֭לֹהִים הֵבִ֣ין דַּרְכָּ֑הּ וְ֝ה֗וּא יָדַ֥ע אֶת־ מְקוֹמָֽהּ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0430G]]"
+- "[[H0995]]"
+- "[[H1870J]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:23**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God understandeth the way thereof, and he knoweth the place thereof.
 <small><sub>**BSB:**</sub></small>
 But God understands its way, and He knows its place.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱ֭לֹהִים]] [[H0995\|הֵבִ֣ין]] [[H1870J\|דַּרְכָּ֑]][[H9024\|הּ]] [[H9002\|וְ֝]][[H1931\|ה֗וּא]] [[H3045\|יָדַ֥ע]] [[H0853\|אֶת]][[H9014\|־]] [[H4725\|מְקוֹמָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.22|<< Job 28:22]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.24|Job 28:24 >>]]</td></tr></table>
 

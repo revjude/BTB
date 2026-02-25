@@ -1,8 +1,77 @@
+---
+title: Jeremiah 38:10
+type: Verse
+kjv: "Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die."
+bsb: "So the king commanded Ebed-melech the Cushite, “Take thirty men from here with you and pull Jeremiah the prophet out of the cistern before he dies.”"
+hebrew: "וַיְצַוֶּ֣ה הַמֶּ֔לֶךְ אֵ֛ת עֶֽבֶד־ מֶ֥לֶךְ הַכּוּשִׁ֖י לֵאמֹ֑ר קַ֣ח בְּיָדְךָ֤ מִזֶּה֙ שְׁלֹשִׁ֣ים אֲנָשִׁ֔ים וְֽהַעֲלִ֜יתָ אֶֽת־ יִרְמְיָ֧הוּ הַנָּבִ֛יא מִן־ הַבּ֖וֹר בְּטֶ֥רֶם יָמֽוּת׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic EBED-MELECH|EBED-MELECH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H5663]]"
+- "[[H9014]]"
+- "[[H3569G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H7970]]"
+- "[[H0582]]"
+- "[[H5927H]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H4480A]]"
+- "[[H0953A]]"
+- "[[H2962]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:10**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die.
 <small><sub>**BSB:**</sub></small>
 So the king commanded Ebed-melech the Cushite, “Take thirty men from here with you and pull Jeremiah the prophet out of the cistern before he dies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַוֶּ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0853\|אֵ֛ת]] [[H5663\|עֶֽבֶד]][[H9014\|־]] [[H5663\|מֶ֥לֶךְ]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֖י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3947G\|קַ֣ח]] [[H9003\|בְּ]][[H3027I\|יָדְ]][[H9021\|ךָ֤]] [[H9006\|מִ]][[H2088\|זֶּה֙]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וְֽ]][[H5927H\|הַעֲלִ֜יתָ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֧הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֛יא]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֖וֹר]] [[H9003\|בְּ]][[H2962\|טֶ֥רֶם]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic EBED-MELECH|EBED-MELECH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic EUNUCH|EUNUCH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.9|<< Jeremiah 38:9]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.11|Jeremiah 38:11 >>]]</td></tr></table>
 

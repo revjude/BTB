@@ -1,10 +1,63 @@
+---
+title: Romans 14:10
+type: Verse
+kjv: "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ."
+bsb: "Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat."
+greek: "σὺ δὲ τί κρίνεις τὸν ἀδελφόν σου; ἢ καὶ σὺ τί ἐξουθενεῖς τὸν ἀδελφόν σου; πάντες γὰρ παραστησόμεθα τῷ βήματι τοῦ θεοῦ."
+pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENT-SEAT|JUDGMENT-SEAT]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G5101]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G1848]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3936]]"
+- "[[G0968]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 14:10**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.
 <small><sub>**BSB:**</sub></small>
 Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat.
-<small><sub>**Literal:**</sub></small>
-You yourself however why judge you the brother or you? or also you yourself why do despise the brother of you? All for we will stand before the judgment seat <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.9|<< Romans 14:9]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.11|Romans 14:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G1161\|δὲ]]  [[G5101\|τί]]  [[G2919\|κρίνεις]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G4771\|σου;]]  [[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G5101\|τί]]  [[G1848\|ἐξουθενεῖς]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G4771\|σου;]]  [[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G3936\|παραστησόμεθα]]  [[G3588\|τῷ]]  [[G0968\|βήματι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENT-SEAT|JUDGMENT-SEAT]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.9|<< Romans 14:9]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.11|Romans 14:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

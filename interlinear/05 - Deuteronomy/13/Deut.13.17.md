@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 13:17
+type: Verse
+kjv: "And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;"
+bsb: "Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers,"
+hebrew: "וְלֹֽא־ יִדְבַּ֧ק בְּיָדְךָ֛ מְא֖וּמָה מִן־ הַחֵ֑רֶם לְמַעַן֩ יָשׁ֨וּב יְהוָ֜ה מֵחֲר֣וֹן אַפּ֗וֹ וְנָֽתַן־ לְךָ֤ רַחֲמִים֙ וְרִֽחַמְךָ֣ וְהִרְבֶּ֔ךָ כַּאֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H3972]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2764A]]"
+- "[[H4616]]"
+- "[[H7725I]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7356B]]"
+- "[[H7355]]"
+- "[[H7235A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:17**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;
 <small><sub>**BSB:**</sub></small>
 Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1692\|יִדְבַּ֧ק]] [[H9003\|בְּ]][[H3027G\|יָדְ]][[H9021\|ךָ֛]] [[H3972\|מְא֖וּמָה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2764A\|חֵ֑רֶם]] [[H4616\|לְמַעַן֩]] [[H7725I\|יָשׁ֨וּב]] [[H3068G\|יְהוָ֜ה]] [[H9006\|מֵ]][[H2740\|חֲר֣וֹן]] [[H0639G\|אַפּ֗]][[H9023\|וֹ]] [[H9001\|וְ]][[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H7356B\|רַחֲמִים֙]] [[H9001\|וְ]][[H7355\|רִֽחַמְ]][[H9031\|ךָ֣]] [[H9001\|וְ]][[H7235A\|הִרְבֶּ֔]][[H9031\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.16|<< Deuteronomy 13:16]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.18|Deuteronomy 13:18 >>]]</td></tr></table>
 

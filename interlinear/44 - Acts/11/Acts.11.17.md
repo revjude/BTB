@@ -1,10 +1,68 @@
+---
+title: Acts 11:17
+type: Verse
+kjv: "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+bsb: "So if God gave them the same gift He gave us who believed in the Lord Jesus Christ, who was I to hinder the work of God?”"
+greek: "εἰ οὖν τὴν ἴσην δωρεὰν ἔδωκεν αὐτοῖς ὁ θεὸς ὡς καὶ ἡμῖν, πιστεύσασιν ἐπὶ τὸν κύριον Ἰησοῦν Χριστόν, ἐγὼ δὲ τίς ἤμην δυνατὸς κωλῦσαι τὸν θεόν;¶"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2470]]"
+- "[[G1431]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1415]]"
+- "[[G2967]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 11:17**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch then as God gave them the like gift as [he did] unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
 <small><sub>**BSB:**</sub></small>
 So if God gave them the same gift He gave us who believed in the Lord Jesus Christ, who was I to hinder the work of God?”
-<small><sub>**Literal:**</sub></small>
-If then the same gift has given to them <the> God as also to us having believed on the Lord Jesus Christ, I myself now how was able to forbid <the> God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.16|<< Acts 11:16]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.18|Acts 11:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G3588\|τὴν]]  [[G2470\|ἴσην]]  [[G1431\|δωρεὰν]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G3165\|ἡμῖν,]]  [[G4100\|πιστεύσασιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστόν,]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G5101\|τίς]]  [[G1510\|ἤμην]]  [[G1415\|δυνατὸς]]  [[G2967\|κωλῦσαι]]  [[G3588\|τὸν]]  [[G2316\|θεόν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.16|<< Acts 11:16]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.18|Acts 11:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

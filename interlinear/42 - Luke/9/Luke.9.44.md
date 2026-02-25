@@ -1,10 +1,56 @@
+---
+title: Luke 9:44
+type: Verse
+kjv: "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+bsb: "“Let these words sink into your ears: The Son of Man is about to be delivered into the hands of men.”"
+jesus_said: "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+greek: "θέσθε ὑμεῖς εἰς τὰ ὦτα ὑμῶν τοὺς λόγους τούτους· ὁ γὰρ υἱὸς τοῦ ἀνθρώπου μέλλει παραδίδοσθαι εἰς χεῖρας ἀνθρώπων."
+pericope: "[[Luke.9.43 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5087]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3195]]"
+- "[[G3860]]"
+- "[[G5495]]"
+texts:
+- NKO
+---
+
 **Luke 9:44**<big><big>[[Luke.9.43 The Second Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.
 <small><sub>**BSB:**</sub></small>
 “Let these words sink into your ears: The Son of Man is about to be delivered into the hands of men.”
-<small><sub>**Literal:**</sub></small>
-do implant in yourself you yourselves into the ears of you <the> words these; <the> for the Son <the> of Man is soon to be betrayed into [the] hands of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.43|<< Luke 9:43]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.45|Luke 9:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5087\|θέσθε]]  [[G4771\|ὑμεῖς]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3775\|ὦτα]]  [[G4771\|ὑμῶν]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3195\|μέλλει]]  [[G3860\|παραδίδοσθαι]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.43|<< Luke 9:43]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.45|Luke 9:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

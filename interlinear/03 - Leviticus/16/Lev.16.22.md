@@ -1,8 +1,68 @@
+---
+title: Leviticus 16:22
+type: Verse
+kjv: "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+bsb: "The goat will carry on itself all their iniquities into a solitary place, and the man will release it into the wilderness."
+hebrew: "וְנָשָׂ֨א הַשָּׂעִ֥יר עָלָ֛יו אֶת־ כָּל־ עֲוֹנֹתָ֖ם אֶל־ אֶ֣רֶץ גְּזֵרָ֑ה וְשִׁלַּ֥ח אֶת־ הַשָּׂעִ֖יר בַּמִּדְבָּֽר׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESERT|DESERT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375J]]"
+- "[[H9009]]"
+- "[[H8163B]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H1509]]"
+- "[[H7971H]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:22**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
 <small><sub>**BSB:**</sub></small>
 The goat will carry on itself all their iniquities into a solitary place, and the man will release it into the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375J\|נָשָׂ֨א]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֥יר]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5771G\|עֲוֹנֹתָ֖]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H1509\|גְּזֵרָ֑ה]] [[H9001\|וְ]][[H7971H\|שִׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֖יר]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic DESERT|DESERT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.21|<< Leviticus 16:21]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.23|Leviticus 16:23 >>]]</td></tr></table>
 

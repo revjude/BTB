@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 27:1
+type: Verse
+kjv: "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day."
+bsb: "Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today."
+hebrew: "וַיְצַ֤ו מֹשֶׁה֙ וְזִקְנֵ֣י יִשְׂרָאֵ֔ל אֶת־ הָעָ֖ם לֵאמֹ֑ר שָׁמֹר֙ אֶת־ כָּל־ הַמִּצְוָ֔ה אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּֽוֹם׃"
+pericope: "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CURSE|CURSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8104G]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:1**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.
 <small><sub>**BSB:**</sub></small>
 Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H2205G\|זִקְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H8104G\|שָׁמֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֔ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURSE|CURSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.19|<< Deuteronomy 26:19]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.2|Deuteronomy 27:2 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Jeremiah 44:18
+type: Verse
+kjv: "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine."
+bsb: "But from the time we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and have been perishing by sword and famine.”"
+hebrew: "וּמִן־ אָ֡ז חָדַ֜לְנוּ לְקַטֵּ֨ר לִמְלֶ֧כֶת הַשָּׁמַ֛יִם וְהַסֵּֽךְ־ לָ֥הּ נְסָכִ֖ים חָסַ֣רְנוּ כֹ֑ל וּבַחֶ֥רֶב וּבָרָעָ֖ב תָּֽמְנוּ׃"
+pericope: "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MOON|MOON]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0227B]]"
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H6999H]]"
+- "[[H4446]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H5258A]]"
+- "[[H9034]]"
+- "[[H5262]]"
+- "[[H2637]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H8552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:18**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all [things], and have been consumed by the sword and by the famine.
 <small><sub>**BSB:**</sub></small>
 But from the time we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and have been perishing by sword and famine.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H0227B\|אָ֡ז]] [[H2308\|חָדַ֜לְנוּ]] [[H9005\|לְ]][[H6999H\|קַטֵּ֨ר]] [[H9005\|לִ]][[H4446\|מְלֶ֧כֶת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֛יִם]] [[H9002\|וְ]][[H5258A\|הַסֵּֽךְ]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H5262\|נְסָכִ֖ים]] [[H2637\|חָסַ֣רְנוּ]] [[H3605\|כֹ֑ל]] [[H9002\|וּ]][[H9003\|בַ]][[H2719\|חֶ֥רֶב]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֖ב]] [[H8552\|תָּֽמְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOON|MOON]] • [[topic QUEEN|QUEEN]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.17|<< Jeremiah 44:17]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.19|Jeremiah 44:19 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 13:13
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; I will even rend it with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in my fury to consume it."
+bsb: "Therefore this is what the Lord GOD says: In My wrath I will release a windstorm, and in My anger torrents of rain and hail will fall with destructive fury."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה וּבִקַּעְתִּ֥י רֽוּחַ־ סְעָר֖וֹת בַּֽחֲמָתִ֑י וְגֶ֤שֶׁם שֹׁטֵף֙ בְּאַפִּ֣י יִֽהְיֶ֔ה וְאַבְנֵ֥י אֶלְגָּבִ֖ישׁ בְּחֵמָ֥ה לְכָלָֽה׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H1234]]"
+- "[[H7307H]]"
+- "[[H9014]]"
+- "[[H5591B]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1653]]"
+- "[[H7857]]"
+- "[[H0639G]]"
+- "[[H1961]]"
+- "[[H0068G]]"
+- "[[H0417]]"
+- "[[H3617]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:13**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; I will even rend [it] with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in [my] fury to consume [it].
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: In My wrath I will release a windstorm, and in My anger torrents of rain and hail will fall with destructive fury.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וּ]][[H1234\|בִקַּעְתִּ֥י]] [[H7307H\|רֽוּחַ]][[H9014\|־]] [[H5591B\|סְעָר֖וֹת]] [[H9003\|בַּֽ]][[H2534\|חֲמָתִ֑]][[H9020\|י]] [[H9002\|וְ]][[H1653\|גֶ֤שֶׁם]] [[H7857\|שֹׁטֵף֙]] [[H9003\|בְּ]][[H0639G\|אַפִּ֣]][[H9020\|י]] [[H1961\|יִֽהְיֶ֔ה]] [[H9002\|וְ]][[H0068G\|אַבְנֵ֥י]] [[H0417\|אֶלְגָּבִ֖ישׁ]] [[H9003\|בְּ]][[H2534\|חֵמָ֥ה]] [[H9005\|לְ]][[H3617\|כָלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.12|<< Ezekiel 13:12]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.14|Ezekiel 13:14 >>]]</td></tr></table>
 

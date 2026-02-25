@@ -1,8 +1,68 @@
+---
+title: Isaiah 30:15
+type: Verse
+kjv: "For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not."
+bsb: "For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”"
+hebrew: "כִּ֣י כֹֽה־ אָמַר֩ אֲדֹנָ֨י יְהוִ֜ה קְד֣וֹשׁ יִשְׂרָאֵ֗ל בְּשׁוּבָ֤ה וָנַ֙חַת֙ תִּוָּ֣שֵׁע֔וּן בְּהַשְׁקֵט֙ וּבְבִטְחָ֔ה תִּהְיֶ֖ה גְּבֽוּרַתְכֶ֑ם וְלֹ֖א אֲבִיתֶֽם׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H7729]]"
+- "[[H9002]]"
+- "[[H5183A]]"
+- "[[H3467]]"
+- "[[H9013]]"
+- "[[H8252]]"
+- "[[H0985]]"
+- "[[H1961]]"
+- "[[H1369]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:15**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.
 <small><sub>**BSB:**</sub></small>
 For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H0136\|אֲדֹנָ֨י]] [[H3069\|יְהוִ֜ה]] [[H6918G\|קְד֣וֹשׁ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9003\|בְּ]][[H7729\|שׁוּבָ֤ה]] [[H9002\|וָ]][[H5183A\|נַ֙חַת֙]] [[H3467\|תִּוָּ֣שֵׁע֔וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H8252\|הַשְׁקֵט֙]] [[H9002\|וּ]][[H9003\|בְ]][[H0985\|בִטְחָ֔ה]] [[H1961\|תִּהְיֶ֖ה]] [[H1369\|גְּבֽוּרַתְ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H0014\|אֲבִיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FAITH|FAITH]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.14|<< Isaiah 30:14]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.16|Isaiah 30:16 >>]]</td></tr></table>
 

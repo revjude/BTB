@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: From Sinai to Paran
+type: Pericope
 pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 10
 book/chapter: "[[Num.10|Numbers 10]]"
-genre:
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 26
 verses:
 - "[[Num.10.11]]"
 - "[[Num.10.12]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Num.10.36]]"
 ---
 
-[[Num.10|Numbers 10:11 - Numbers 10:36]]
+<small>[[Num.10|Numbers 10:11-36]]</small>
 *From Sinai to Paran*
 
 [[Num.10.11|11]] And it came to pass on the twentieth \[day\] of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.

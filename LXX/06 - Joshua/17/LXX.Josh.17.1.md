@@ -1,9 +1,68 @@
+---
+title: LXX Joshua 17:1
+type: Verse
+lxx: "And the borders of the tribe of Manasseh were (for this one is first-born  of Joseph) to Machir first-born of Manasseh, father of Gilead. For he was a man of war in  Gilead and in the Bashan area."
+greek: "και εγένετο τα όρια φυλής Μανασσή ότι ούτος πρωτότοκος τω Ιωσήφ τω Μαχείρ πρωτοτόκω Μανασσή πατρί Γαλαάδ αυτός γαρ ανήρ πολεμιστής εν τη Γαλααδίτιδι και εν τη Βασανίτιδι"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MACHIR|MACHIR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G5443]]"
+- "[[G3128]]"
+- "[[G3754]]"
+- "[[G3778]]"
+- "[[G4416]]"
+- "[[G3588]]"
+- "[[G2501]]"
+- "[[G3588]]"
+- "[[H4353]]"
+- "[[G4416]]"
+- "[[G3128]]"
+- "[[G3962]]"
+- "[[H1568]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G0435]]"
+- "[[G8841]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H1568]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H1316]]"
+---
+
 **LXX Joshua 17:1** 
 
 ***The Borders of Manasseh***
 
 <small><sub>**LXX:**</sub></small>
 And the borders of \[the\] tribe of Manasseh were (for this one \[is\] first-born  of Joseph) \[to\] Machir first-born of Manasseh, father of Gilead. For he \[was\] a man of war in  Gilead and in the Bashan \[area\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3588\|τα]] [[G3725\|όρια]] [[G5443\|φυλής]] [[G3128\|Μανασσή]] [[G3754\|ότι]] [[G3778\|ούτος]] [[G4416\|πρωτότοκος]] [[G3588\|τω]] [[G2501\|Ιωσήφ]] [[G3588\|τω]] [[H4353\|Μαχείρ]] [[G4416\|πρωτοτόκω]] [[G3128\|Μανασσή]] [[G3962\|πατρί]] [[H1568\|Γαλαάδ]] [[G1473\|αυτός]] [[G1063\|γαρ]] [[G0435\|ανήρ]] [[G8841\|πολεμιστής]] [[G1722\|εν]] [[G3588\|τη]] [[H1568\|Γαλααδίτιδι]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τη]] [[H1316\|Βασανίτιδι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic GILEAD|GILEAD]] • [[topic MACHIR|MACHIR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
 
@@ -36,6 +95,6 @@ And the borders of \[the\] tribe of Manasseh were (for this one \[is\] first-bor
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τη]]</big>** |
 | Bashan \[area\]. | **<big>[[H1316\|Βασανίτιδι]]</big>** |
-[[Josh.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
 
 

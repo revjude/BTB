@@ -1,10 +1,57 @@
+---
+title: Romans 10:13
+type: Verse
+kjv: "For whosoever shall call upon the name of the Lord shall be saved."
+bsb: "for, “Everyone who calls on the name of the Lord will be saved.”"
+greek: "πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται.¶"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1941]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G4982]]"
+texts:
+- NKO
+---
+
 **Romans 10:13**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever shall call upon the name of the Lord shall be saved.
 <small><sub>**BSB:**</sub></small>
 for, “Everyone who calls on the name of the Lord will be saved.”
-<small><sub>**Literal:**</sub></small>
-Whoever for that maybe may call upon the name of [the] Lord will be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.12|<< Romans 10:12]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.14|Romans 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G1063\|γὰρ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G1941\|ἐπικαλέσηται]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G2962G\|κυρίου]]  [[G4982\|σωθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.12|<< Romans 10:12]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.14|Romans 10:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:13** is...
 > $\quad$ referencing: [[LXX.Joel.2.31|Joel 2:31-32]]

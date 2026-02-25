@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Father’s Instruction
+type: Pericope
 pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 4
 book/chapter: "[[Prov.4|Proverbs 4]]"
-genre:
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 27
 verses:
 - "[[Prov.4.1]]"
 - "[[Prov.4.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Prov.4.27]]"
 ---
 
-[[Prov.4|Proverbs 4:1 - Proverbs 4:27]]
+<small>[[Prov.4|Proverbs 4:1-27]]</small>
 *A Father’s Instruction*
 
 [[Prov.4.1|1]] Hear, ye children, the instruction of a father, and attend to know understanding.

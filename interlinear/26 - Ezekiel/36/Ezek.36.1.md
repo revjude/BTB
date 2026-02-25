@@ -1,8 +1,58 @@
+---
+title: Ezekiel 36:1
+type: Verse
+kjv: "Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:"
+bsb: "“And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD."
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֔ם הִנָּבֵ֖א אֶל־ הָרֵ֣י יִשְׂרָאֵ֑ל וְאָ֣מַרְתָּ֔ הָרֵי֙ יִשְׂרָאֵ֔ל שִׁמְע֖וּ דְּבַר־ יְהוָֽה׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5012]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:1**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:
 <small><sub>**BSB:**</sub></small>
 “And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H5012\|הִנָּבֵ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H2022G\|הָרֵי֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8085G\|שִׁמְע֖וּ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.15|<< Ezekiel 35:15]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.2|Ezekiel 36:2 >>]]</td></tr></table>
 

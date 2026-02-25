@@ -1,8 +1,67 @@
+---
+title: Exodus 30:14
+type: Verse
+kjv: "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD."
+bsb: "Everyone twenty years of age or older who crosses over must give this offering to the LORD."
+hebrew: "כֹּ֗ל הָעֹבֵר֙ עַל־ הַפְּקֻדִ֔ים מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה יִתֵּ֖ן תְּרוּמַ֥ת יְהוָֽה׃"
+pericope: "[[Exod.30.11 The Census Offering|The Census Offering]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6485A]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5414G]]"
+- "[[H8641]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:14**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Everyone twenty years of age or older who crosses over must give this offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֗ל]] [[H9009\|הָ]][[H5674A\|עֹבֵר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6485A\|פְּקֻדִ֔ים]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H5414G\|יִתֵּ֖ן]] [[H8641\|תְּרוּמַ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CENSUS|CENSUS]] • [[topic MONEY|MONEY]] • [[topic RELIGION|RELIGION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.13|<< Exodus 30:13]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.15|Exodus 30:15 >>]]</td></tr></table>
 

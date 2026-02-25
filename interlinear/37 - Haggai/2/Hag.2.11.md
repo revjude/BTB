@@ -1,8 +1,49 @@
+---
+title: Haggai 2:11
+type: Verse
+kjv: "Thus saith the LORD of hosts; Ask now the priests concerning the law, saying,"
+bsb: "“This is what the LORD of Hosts says: ‘Ask the priests for a ruling."
+hebrew: "כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת שְׁאַל־ נָ֧א אֶת־ הַכֹּהֲנִ֛ים תּוֹרָ֖ה לֵאמֹֽר׃"
+pericope: "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H8451]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:11**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; Ask now the priests [concerning] the law, saying,
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts says: ‘Ask the priests for a ruling.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H7592\|שְׁאַל]][[H9014\|־]] [[H4994\|נָ֧א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֛ים]] [[H8451\|תּוֹרָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.10|<< Haggai 2:10]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.12|Haggai 2:12 >>]]</td></tr></table>
 

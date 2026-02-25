@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Readiness at Any Hour
+type: Pericope
 pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 14
 verses:
 - "[[Luke.12.35]]"
 - "[[Luke.12.36]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Luke.12.48]]"
 ---
 
-[[Luke.12|Luke 12:35 - Luke 12:48]]
+<small>[[Luke.12|Luke 12:35-48]]</small>
 *Readiness at Any Hour*
 
 [[Luke.12.35|35]] Let your loins be girded about, and \[your\] lights burning;

@@ -1,10 +1,57 @@
+---
+title: Mark 15:2
+type: Verse
+kjv: "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it."
+bsb: "So Pilate questioned Him, “Are You the King of the Jews?” “You have said so,” Jesus replied."
+jesus_said: "Thou sayest it."
+greek: "Καὶ ἐπηρώτησεν αὐτὸν ὁ Πιλᾶτος· σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ὁ δὲ ἀποκριθεὶς αὐτῷ λέγει· σὺ λέγεις."
+pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0935]]"
+- "[[G2453]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 15:2**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest [it].
 <small><sub>**BSB:**</sub></small>
 So Pilate questioned Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.
-<small><sub>**Literal:**</sub></small>
-And questioned Him <the> Pilate; You yourself are the King of the Jews? <the> And answering to him He says; You yourself have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.1|<< Mark 15:1]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.3|Mark 15:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1905\|ἐπηρώτησεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγει·]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PLEADING|PLEADING]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.1|<< Mark 15:1]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.3|Mark 15:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

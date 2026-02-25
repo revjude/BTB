@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Aaron’s Staff Buds
+type: Pericope
 pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 17
 book/chapter: "[[Num.17|Numbers 17]]"
-genre:
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 13
 verses:
 - "[[Num.17.1]]"
 - "[[Num.17.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Num.17.13]]"
 ---
 
-[[Num.17|Numbers 17:1 - Numbers 17:13]]
+<small>[[Num.17|Numbers 17:1-13]]</small>
 *Aaron’s Staff Buds*
 
 [[Num.17.1|1]] And the LORD spake unto Moses, saying,

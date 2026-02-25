@@ -1,9 +1,92 @@
+---
+title: LXX Exodus 34:10
+type: Verse
+lxx: "And the lord said to Moses, Behold, I establish with you a covenant before all  your people. And I will do honorable, which has not happened in all the earth, and with any nation. And all the people among whom you are shall see the works of the lord, for it is wonderful what I will do for you."
+greek: "και είπε κύριος προς Μωυσήν ιδού εγώ τίθημί σοι διαθήκην ενώπιον παντός του λαού σου και ποιήσω ένδοξα α ου γέγονεν εν πάση τη γη και εν παντί έθνει και όψεται πας ο λαός εν οις ει συ τα έργα κυρίου ότι θαυμαστά εστιν α εγώ ποιήσω σοι"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G3475]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G1473]]"
+- "[[G1242]]"
+- "[[G1799]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1741]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2962]]"
+- "[[G3754]]"
+- "[[G2298]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 34:10** 
 
 ***The LORD Establishes a Covenant***
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, I establish with you a covenant before all  your people. And I will do honorable, which has not happened in all the earth, and with any nation. And all the people among whom you are shall see the works of \[the\] <span class="smallcaps">lord</span>, for it is wonderful what I will do for you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G4314\|προς]] [[G3475\|Μωυσήν]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G5087\|τίθημί]] [[G1473\|σοι]] [[G1242\|διαθήκην]] [[G1799\|ενώπιον]] [[G3956\|παντός]] [[G3588\|του]] [[G2992\|λαού]] [[G1473\|σου]] [[G2532\|και]] [[G4160\|ποιήσω]] [[G1741\|ένδοξα]] [[G3739\|α]] [[G3756\|ου]] [[G1096\|γέγονεν]] [[G1722\|εν]] [[G3956\|πάση]] [[G3588\|τη]] [[G1093\|γη]] [[G2532\|και]] [[G1722\|εν]] [[G3956\|παντί]] [[G1484\|έθνει]] [[G2532\|και]] [[G3708\|όψεται]] [[G3956\|πας]] [[G3588\|ο]] [[G2992\|λαός]] [[G1722\|εν]] [[G3739\|οις]] [[G1510\|ει]] [[G1473\|συ]] [[G3588\|τα]] [[G2041\|έργα]] [[G2962\|κυρίου]] [[G3754\|ότι]] [[G2298\|θαυμαστά]] [[G1510\|εστιν]] [[G3739\|α]] [[G1473\|εγώ]] [[G4160\|ποιήσω]] [[G1473\|σοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic JEBUSITES|JEBUSITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.9|<< Exodus 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.11|Exodus 34:11 >>]]</td></tr></table>
 
@@ -53,6 +136,6 @@ And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, I establi
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | will do | **<big>[[G4160\|ποιήσω]]</big>** |
 | for you. | **<big>[[G1473\|σοι]]</big>** |
-[[Exod.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.9|<< Exodus 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.11|Exodus 34:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.9|<< Exodus 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.11|Exodus 34:11 >>]]</td></tr></table>
 
 

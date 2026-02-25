@@ -1,8 +1,57 @@
+---
+title: Proverbs 5:18
+type: Verse
+kjv: "Let thy fountain be blessed: and rejoice with the wife of thy youth."
+bsb: "May your fountain be blessed, and may you rejoice in the wife of your youth:"
+hebrew: "יְהִֽי־ מְקוֹרְךָ֥ בָר֑וּךְ וּ֝שְׂמַ֗ח מֵאֵ֥שֶׁת נְעוּרֶֽךָ׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H4726]]"
+- "[[H9021]]"
+- "[[H1288]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H9006]]"
+- "[[H0802H]]"
+- "[[H5271A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:18**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy fountain be blessed: and rejoice with the wife of thy youth.
 <small><sub>**BSB:**</sub></small>
 May your fountain be blessed, and may you rejoice in the wife of your youth:
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִֽי]][[H9014\|־]] [[H4726\|מְקוֹרְ]][[H9021\|ךָ֥]] [[H1288\|בָר֑וּךְ]] [[H9002\|וּ֝]][[H8055\|שְׂמַ֗ח]] [[H9006\|מֵ]][[H0802H\|אֵ֥שֶׁת]] [[H5271A\|נְעוּרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HUSBAND|HUSBAND]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.17|<< Proverbs 5:17]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.19|Proverbs 5:19 >>]]</td></tr></table>
 

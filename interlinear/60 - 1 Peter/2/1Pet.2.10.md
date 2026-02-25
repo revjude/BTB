@@ -1,10 +1,51 @@
+---
+title: 1 Peter 2:10
+type: Verse
+kjv: "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+bsb: "Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy."
+greek: "οἵ ποτε οὐ λαός, νῦν δὲ λαὸς θεοῦ, οἱ οὐκ ἠλεημένοι, νῦν δὲ ἐλεηθέντες.¶"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G4218]]"
+- "[[G3756]]"
+- "[[G2992]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1653]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:10**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which in time past [were] not a people, but [are] now the people of God: which had not obtained mercy, but now have obtained mercy.
 <small><sub>**BSB:**</sub></small>
 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
-<small><sub>**Literal:**</sub></small>
-who once [were] not a people, now however [the] people of God, those [who] not received mercy, now however having received mercy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.9|<< 1 Peter 2:9]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.11|1 Peter 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἵ]]  [[G4218\|ποτε]]  [[G3756\|οὐ]]  [[G2992\|λαός,]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2992\|λαὸς]]  [[G2316\|θεοῦ,]]  [[G3588\|οἱ]]  [[G3756\|οὐκ]]  [[G1653\|ἠλεημένοι,]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G1653\|ἐλεηθέντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PROPHECY|PROPHECY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.9|<< 1 Peter 2:9]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.11|1 Peter 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:10** is...
 > $\quad$ referencing: [[LXX.Hos.1.6|Hos 1:6]] ☩ [[LXX.Hos.1.9|Hos 1:9]]

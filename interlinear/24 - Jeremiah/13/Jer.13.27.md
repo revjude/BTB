@@ -1,8 +1,68 @@
+---
+title: Jeremiah 13:27
+type: Verse
+kjv: "I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, and thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when shall it once be?"
+bsb: "Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields—I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”"
+hebrew: "נִֽאֻפַ֤יִךְ וּמִצְהֲלוֹתַ֙יִךְ֙ זִמַּ֣ת זְנוּתֵ֔ךְ עַל־ גְּבָעוֹת֙ בַּשָּׂדֶ֔ה רָאִ֖יתִי שִׁקּוּצָ֑יִךְ א֥וֹי לָךְ֙ יְר֣וּשָׁלִַ֔ם לֹ֣א תִטְהֲרִ֔י אַחֲרֵ֥י מָתַ֖י עֹֽד׃ פ"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H5004]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H4684]]"
+- "[[H2154]]"
+- "[[H2184]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1389I]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H7200G]]"
+- "[[H8251]]"
+- "[[H0188]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3389]]"
+- "[[H3808]]"
+- "[[H2891]]"
+- "[[H0310A]]"
+- "[[H4970]]"
+- "[[H5750]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 13:27**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, [and] thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when [shall it] once [be]?
 <small><sub>**BSB:**</sub></small>
 Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields—I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”
+<small><sub>**Hebrew:**</sub></small>
+[[H5004\|נִֽאֻפַ֤יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H4684\|מִצְהֲלוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H2154\|זִמַּ֣ת]] [[H2184\|זְנוּתֵ֔]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1389I\|גְּבָעוֹת֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H7200G\|רָאִ֖יתִי]] [[H8251\|שִׁקּוּצָ֑יִ]][[H9022\|ךְ]] [[H0188\|א֥וֹי]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H3808\|לֹ֣א]] [[H2891\|תִטְהֲרִ֔י]] [[H0310A\|אַחֲרֵ֥י]] [[H4970\|מָתַ֖י]] [[H5750\|עֹֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
 
@@ -24,7 +84,7 @@ Your adulteries and lustful neighings, your shameless prostitution on the hills 
 | you are clean  |**<big>&#8207;[[H2891\|תִטְהֲרִ֔י]]&#8207; </big>**| tit.ha.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֥י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H4970\|מָתַ֖י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| yet  |**<big>&#8207;[[H5750\|עֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| yet  |**<big>&#8207;[[H5750\|עֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
 
 

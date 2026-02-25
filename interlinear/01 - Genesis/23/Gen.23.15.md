@@ -1,8 +1,68 @@
+---
+title: Genesis 23:15
+type: Verse
+kjv: "My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead."
+bsb: "“Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”"
+hebrew: "אֲדֹנִ֣י שְׁמָעֵ֔נִי אֶרֶץ֩ אַרְבַּ֨ע מֵאֹ֧ת שֶֽׁקֶל־ כֶּ֛סֶף בֵּינִ֥י וּבֵֽינְךָ֖ מַה־ הִ֑וא וְאֶת־ מֵתְךָ֖ קְבֹֽר׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic LAND|LAND]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H0776G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H8255]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H0996G]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H4100]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H4191]]"
+- "[[H9021]]"
+- "[[H6912]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:15**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lord, hearken unto me: the land [is worth] four hundred shekels of silver; what [is] that betwixt me and thee? bury therefore thy dead.
 <small><sub>**BSB:**</sub></small>
 “Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H8085G\|שְׁמָעֵ֔]][[H9030\|נִי]] [[H0776G\|אֶרֶץ֩]] [[H0702\|אַרְבַּ֨ע]] [[H3967\|מֵאֹ֧ת]] [[H8255\|שֶֽׁקֶל]][[H9014\|־]] [[H3701G\|כֶּ֛סֶף]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵֽינְ]][[H9031\|ךָ֖]] [[H4100\|מַה]][[H9014\|־]] [[H1931\|הִ֑וא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4191\|מֵתְ]][[H9021\|ךָ֖]] [[H6912\|קְבֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAVE|CAVE]] • [[topic COMMERCE|COMMERCE]] • [[topic EPHRON|EPHRON]] • [[topic LAND|LAND]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.14|<< Genesis 23:14]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.16|Genesis 23:16 >>]]</td></tr></table>
 

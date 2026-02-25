@@ -1,10 +1,55 @@
+---
+title: Revelation 20:7
+type: Verse
+kjv: "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+bsb: "When the thousand years are complete, Satan will be released from his prison,"
+greek: "Καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ"
+pericope: "[[Rev.20.7 Satan Cast into the Lake of Fire|Satan Cast into the Lake of Fire]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G5055]]"
+- "[[G3588]]"
+- "[[G5507]]"
+- "[[G2094]]"
+- "[[G3089]]"
+- "[[G4567]]"
+- "[[G1537]]"
+- "[[G5438G]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Revelation 20:7**<big><big>[[Rev.20.7 Satan Cast into the Lake of Fire|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the thousand years are expired, Satan shall be loosed out of his prison,
 <small><sub>**BSB:**</sub></small>
 When the thousand years are complete, Satan will be released from his prison,
-<small><sub>**Literal:**</sub></small>
-And when may have been completed the thousand years, will be released <the> Satan out of the prison of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.6|<< Revelation 20:6]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.8|Revelation 20:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3752\|ὅταν]]  [[G5055\|τελεσθῇ]]  [[G3588\|τὰ]]  [[G5507\|χίλια]]  [[G2094\|ἔτη,]]  [[G3089\|λυθήσεται]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5438G\|φυλακῆς]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MILLENNIUM|MILLENNIUM]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]] • [[topic YEAR|YEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.6|<< Revelation 20:6]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.8|Revelation 20:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

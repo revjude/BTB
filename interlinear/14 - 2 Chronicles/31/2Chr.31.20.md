@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 31:20
+type: Verse
+kjv: "And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before the LORD his God."
+bsb: "So this is what Hezekiah did throughout Judah. He did what was good and upright and true before the LORD his God."
+hebrew: "וַיַּ֧עַשׂ כָּזֹ֛את יְחִזְקִיָּ֖הוּ בְּכָל־ יְהוּדָ֑ה וַיַּ֨עַשׂ הַטּ֤וֹב וְהַיָּשָׁר֙ וְהָ֣אֱמֶ֔ת לִפְנֵ֖י יְהוָ֥ה אֱלֹהָֽיו׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H2396G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H0571G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:20**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus did Hezekiah throughout all Judah, and wrought [that which was] good and right and truth before the LORD his God.
 <small><sub>**BSB:**</sub></small>
 So this is what Hezekiah did throughout Judah. He did what was good and upright and true before the LORD his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֧עַשׂ]] [[H9004\|כָּ]][[H2063\|זֹ֛את]] [[H2396G\|יְחִזְקִיָּ֖הוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H6213A\|יַּ֨עַשׂ]] [[H9009\|הַ]][[H2896A\|טּ֤וֹב]] [[H9002\|וְ]][[H9009\|הַ]][[H3477G\|יָּשָׁר֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0571G\|אֱמֶ֔ת]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.19|<< 2 Chronicles 31:19]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.21|2 Chronicles 31:21 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 2:8
+type: Verse
+kjv: "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession."
+bsb: "Ask Me, and I will make the nations Your inheritance, the ends of the earth Your possession."
+hebrew: "שְׁאַ֤ל מִמֶּ֗נִּי וְאֶתְּנָ֣ה ג֭וֹיִם נַחֲלָתֶ֑ךָ וַ֝אֲחֻזָּתְךָ֗ אַפְסֵי־ אָֽרֶץ׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H7592]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5414I]]"
+- "[[H1471A]]"
+- "[[H5159]]"
+- "[[H9021]]"
+- "[[H0272]]"
+- "[[H0657A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:8**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask of me, and I shall give [thee] the heathen [for] thine inheritance, and the uttermost parts of the earth [for] thy possession.
 <small><sub>**BSB:**</sub></small>
 Ask Me, and I will make the nations Your inheritance, the ends of the earth Your possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שְׁאַ֤ל]] [[H4480A\|מִמֶּ֗]][[H9030\|נִּי]] [[H9002\|וְ]][[H5414I\|אֶתְּנָ֣ה]] [[H1471A\|ג֭וֹיִם]] [[H5159\|נַחֲלָתֶ֑]][[H9021\|ךָ]] [[H9002\|וַ֝]][[H0272\|אֲחֻזָּתְ]][[H9021\|ךָ֗]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.7|<< Psalms 2:7]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.9|Psalms 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,60 @@
+---
+title: Isaiah 63:12
+type: Verse
+kjv: "That led them by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?"
+bsb: "who sent His glorious arm to lead them by the right hand of Moses, who divided the waters before them to gain for Himself everlasting renown,"
+hebrew: "מוֹלִיךְ֙ לִימִ֣ין מֹשֶׁ֔ה זְר֖וֹעַ תִּפְאַרְתּ֑וֹ בּ֤וֹקֵֽעַ מַ֙יִם֙ מִפְּנֵיהֶ֔ם לַעֲשׂ֥וֹת ל֖וֹ שֵׁ֥ם עוֹלָֽם׃"
+pericope: "[[Isa.63.7 God’s Mercies Recalled|God’s Mercies Recalled]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H3225G]]"
+- "[[H4872]]"
+- "[[H2220]]"
+- "[[H8597]]"
+- "[[H9023]]"
+- "[[H1234]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H8034]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:12**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That led [them] by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?
 <small><sub>**BSB:**</sub></small>
 who sent His glorious arm to lead them by the right hand of Moses, who divided the waters before them to gain for Himself everlasting renown,
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|מוֹלִיךְ֙]] [[H9005\|לִ]][[H3225G\|ימִ֣ין]] [[H4872\|מֹשֶׁ֔ה]] [[H2220\|זְר֖וֹעַ]] [[H8597\|תִּפְאַרְתּ֑]][[H9023\|וֹ]] [[H1234\|בּ֤וֹקֵֽעַ]] [[H4325G\|מַ֙יִם֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9005\|לַ]][[H6213H\|עֲשׂ֥וֹת]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8034\|שֵׁ֥ם]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic GOD|GOD]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.11|<< Isaiah 63:11]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.13|Isaiah 63:13 >>]]</td></tr></table>
 

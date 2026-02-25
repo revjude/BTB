@@ -1,8 +1,63 @@
+---
+title: Judges 1:4
+type: Verse
+kjv: "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men."
+bsb: "When Judah attacked, the LORD delivered the Canaanites and Perizzites into their hands, and they struck down ten thousand men at Bezek."
+hebrew: "וַיַּ֣עַל יְהוּדָ֔ה וַיִּתֵּ֧ן יְהוָ֛ה אֶת־ הַכְּנַעֲנִ֥י וְהַפְּרִזִּ֖י בְּיָדָ֑ם וַיַּכּ֣וּם בְּבֶ֔זֶק עֲשֶׂ֥רֶת אֲלָפִ֖ים אִֽישׁ׃"
+pericope: "[[Judg.1.1 The Conquest of Canaan Proceeds|The Conquest of Canaan Proceeds]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADONI-BEZEK|ADONI-BEZEK]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3063G]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9002]]"
+- "[[H6522]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H0966G]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:4**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.
 <small><sub>**BSB:**</sub></small>
 When Judah attacked, the LORD delivered the Canaanites and Perizzites into their hands, and they struck down ten thousand men at Bezek.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3669A\|כְּנַעֲנִ֥י]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֖י]] [[H9003\|בְּ]][[H3027H\|יָדָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H5221\|יַּכּ֣וּ]][[H9038\|ם]] [[H9003\|בְּ]][[H0966G\|בֶ֔זֶק]] [[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִ֖ים]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-BEZEK|ADONI-BEZEK]] • [[topic CANAANITES|CANAANITES]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.3|<< Judges 1:3]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.5|Judges 1:5 >>]]</td></tr></table>
 

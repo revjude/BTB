@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 17:2
+type: Verse
+kjv: "If there be found among you, within any of thy gates which the LORD thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the LORD thy God, in transgressing his covenant,"
+bsb: "If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant"
+hebrew: "כִּֽי־ יִמָּצֵ֤א בְקִרְבְּךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ אִ֣ישׁ אוֹ־ אִשָּׁ֗ה אֲשֶׁ֨ר יַעֲשֶׂ֧ה אֶת־ הָרַ֛ע בְּעֵינֵ֥י יְהוָֽה־ אֱלֹהֶ֖יךָ לַעֲבֹ֥ר בְּרִיתֽוֹ׃"
+pericope: "[[Deut.17.2 Purge the Idolater|Purge the Idolater]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H0259]]"
+- "[[H8179H]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H5674D]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:2**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be found among you, within any of thy gates which the LORD thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the LORD thy God, in transgressing his covenant,
 <small><sub>**BSB:**</sub></small>
 If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|יִמָּצֵ֤א]] [[H9003\|בְ]][[H7130G\|קִרְבְּ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H8179H\|שְׁעָרֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H0376G\|אִ֣ישׁ]] [[H0176A\|אוֹ]][[H9014\|־]] [[H0802G\|אִשָּׁ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|יַעֲשֶׂ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9005\|לַ]][[H5674D\|עֲבֹ֥ר]] [[H1285\|בְּרִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.1|<< Deuteronomy 17:1]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.3|Deuteronomy 17:3 >>]]</td></tr></table>
 

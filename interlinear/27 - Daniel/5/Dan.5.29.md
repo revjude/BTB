@@ -1,8 +1,74 @@
+---
+title: Daniel 5:29
+type: Verse
+kjv: "Then commanded Belshazzar, and they clothed Daniel with scarlet, and put a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom."
+bsb: "Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom."
+aramaic: "בֵּאדַ֣יִן׀ אֲמַ֣ר בֵּלְשַׁאצַּ֗ר וְהַלְבִּ֤ישׁוּ לְדָֽנִיֵּאל֙ אַרְגְּוָנָ֔א וְהַֽמְנִיכָ֥א דִֽי־ דַהֲבָ֖א עַֽל־ צַוְּארֵ֑הּ וְהַכְרִ֣זֽוּ עֲל֔וֹהִי דִּֽי־ לֶהֱוֵ֥א שַׁלִּ֛יט תַּלְתָּ֖א בְּמַלְכוּתָֽא׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H9015]]"
+- "[[H0560]]"
+- "[[H1113]]"
+- "[[H9002]]"
+- "[[H3848]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H0711]]"
+- "[[H9010]]"
+- "[[H2002]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1722]]"
+- "[[H5922]]"
+- "[[H6676]]"
+- "[[H9023]]"
+- "[[H3745]]"
+- "[[H9033]]"
+- "[[H1934]]"
+- "[[H7990]]"
+- "[[H8531]]"
+- "[[H4437]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 5:29**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then commanded Belshazzar, and they clothed Daniel with scarlet, and [put] a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.
 <small><sub>**BSB:**</sub></small>
 Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֣יִן]][[H9015\|׀]] [[H0560\|אֲמַ֣ר]] [[H1113\|בֵּלְשַׁאצַּ֗ר]] [[H9002\|וְ]][[H3848\|הַלְבִּ֤ישׁוּ]] [[H9005\|לְ]][[H1841H\|דָֽנִיֵּאל֙]] [[H0711\|אַרְגְּוָנָ֔]][[H9010\|א]] [[H9002\|וְ]][[H2002\|הַֽמְנִיכָ֥]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H1722\|דַהֲבָ֖]][[H9010\|א]] [[H5922\|עַֽל]][[H9014\|־]] [[H6676\|צַוְּארֵ֑]][[H9023\|הּ]] [[H9002\|וְ]][[H3745\|הַכְרִ֣זֽוּ]] [[H5922\|עֲל֔וֹ]][[H9033\|הִי]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|לֶהֱוֵ֥א]] [[H7990\|שַׁלִּ֛יט]] [[H8531\|תַּלְתָּ֖]][[H9010\|א]] [[H9003\|בְּ]][[H4437\|מַלְכוּתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic CHAINS|CHAINS]] • [[topic COLORS|COLORS]] • [[topic DANIEL|DANIEL]] • [[topic HEATHEN|HEATHEN]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.28|<< Daniel 5:28]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.30|Daniel 5:30 >>]]</td></tr></table>
 

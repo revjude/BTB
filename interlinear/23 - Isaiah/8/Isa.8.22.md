@@ -1,8 +1,57 @@
+---
+title: Isaiah 8:22
+type: Verse
+kjv: "And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and they shall be driven to darkness."
+bsb: "Then they will look to the earth and see only distress and darkness and the gloom of anguish. And they will be driven into utter darkness."
+hebrew: "וְאֶל־ אֶ֖רֶץ יַבִּ֑יט וְהִנֵּ֨ה צָרָ֤ה וַחֲשֵׁכָה֙ מְע֣וּף צוּקָ֔ה וַאֲפֵלָ֖ה מְנֻדָּֽח׃"
+pericope: "[[Isa.8.19 Darkness and Light|Darkness and Light]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5027]]"
+- "[[H2009]]"
+- "[[H6869B]]"
+- "[[H2825]]"
+- "[[H4588]]"
+- "[[H6695B]]"
+- "[[H0653]]"
+- "[[H5080]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:22**<big><big>[[Isa.8.19 Darkness and Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and [they shall be] driven to darkness.
 <small><sub>**BSB:**</sub></small>
 Then they will look to the earth and see only distress and darkness and the gloom of anguish. And they will be driven into utter darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H5027\|יַבִּ֑יט]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H6869B\|צָרָ֤ה]] [[H9002\|וַ]][[H2825\|חֲשֵׁכָה֙]] [[H4588\|מְע֣וּף]] [[H6695B\|צוּקָ֔ה]] [[H9002\|וַ]][[H0653\|אֲפֵלָ֖ה]] [[H5080\|מְנֻדָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic COLORS|COLORS]] • [[topic DARKNESS|DARKNESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.21|<< Isaiah 8:21]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.1|Isaiah 9:1 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: 1 Peter 2:21
+type: Verse
+kjv: "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:"
+bsb: "For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps:"
+greek: "εἰς τοῦτο γὰρ ἐκλήθητε, ὅτι καὶ Χριστὸς ἔπαθεν ὑπὲρ ὑμῶν, ὑμῖν ὑπολιμπάνων ὑπογραμμὸν ἵνα ἐπακολουθήσητε τοῖς ἴχνεσιν αὐτοῦ·"
+pericope: "[[1Pet.2.21 Christ’s Example of Suffering|Christ’s Example of Suffering]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G2564G]]"
+- "[[G3754H]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G3958]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G5277]]"
+- "[[G5261]]"
+- "[[G2443]]"
+- "[[G1872]]"
+- "[[G3588]]"
+- "[[G2487]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Peter 2:21**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:
 <small><sub>**BSB:**</sub></small>
 For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps:
-<small><sub>**Literal:**</sub></small>
-To this hereunto for you have been called, because also Christ suffered for for you, you leaving an example that you may follow after the steps of Him:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.20|<< 1 Peter 2:20]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.22|1 Peter 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G2564G\|ἐκλήθητε,]]  [[G3754H\|ὅτι]]  [[G2532\|καὶ]]  [[G5547\|Χριστὸς]]  [[G3958\|ἔπαθεν]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν,]]  [[G4771\|ὑμῖν]]  [[G5277\|ὑπολιμπάνων]]  [[G5261\|ὑπογραμμὸν]]  [[G2443\|ἵνα]]  [[G1872\|ἐπακολουθήσητε]]  [[G3588\|τοῖς]]  [[G2487\|ἴχνεσιν]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.20|<< 1 Peter 2:20]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.22|1 Peter 2:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

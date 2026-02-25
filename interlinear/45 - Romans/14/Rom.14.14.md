@@ -1,10 +1,67 @@
+---
+title: Romans 14:14
+type: Verse
+kjv: "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
+bsb: "I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean."
+greek: "Οἶδα καὶ πέπεισμαι ἐν κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν δι᾽ ἑαυτοῦ, εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι, ἐκείνῳ κοινόν·"
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G6063]]"
+- "[[G2532]]"
+- "[[G3982]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G2839G]]"
+- "[[G1223]]"
+- "[[G1438]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G3049]]"
+- "[[G5100]]"
+- "[[G1511]]"
+- "[[G1565]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Romans 14:14**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know, and am persuaded by the Lord Jesus, that [there is] nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him [it is] unclean.
 <small><sub>**BSB:**</sub></small>
 I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean.
-<small><sub>**Literal:**</sub></small>
-I know and I have been persuaded in [the] Lord Jesus that nothing [is] unclean through itself, only except by the [one] reckoning anything unclean to be, to that one unclean [it is];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.13|<< Romans 14:13]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.15|Romans 14:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Οἶδα]]  [[G2532\|καὶ]]  [[G3982\|πέπεισμαι]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G2424G\|Ἰησοῦ]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδὲν]]  [[G2839G\|κοινὸν]]  [[G1223\|δι᾽]]  [[G1438\|ἑαυτοῦ,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τῷ]]  [[G3049\|λογιζομένῳ]]  [[G5100\|τι]]  [[G2839G\|κοινὸν]]  [[G1511\|εἶναι,]]  [[G1565\|ἐκείνῳ]]  [[G2839G\|κοινόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FOOD|FOOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.13|<< Romans 14:13]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.15|Romans 14:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

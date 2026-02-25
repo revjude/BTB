@@ -1,10 +1,65 @@
+---
+title: Luke 6:8
+type: Verse
+kjv: "But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth."
+bsb: "But Jesus knew their thoughts and said to the man with the withered hand, “Get up and stand among us.” So he got up and stood there."
+jesus_said: "Rise up, and stand forth in the midst."
+greek: "αὐτὸς δὲ ᾔδει τοὺς διαλογισμοὺς αὐτῶν. καὶ εἶπεν δὲ τῷ ἀνδρὶ τῷ ξηρὰν ἔχοντι τὴν χεῖρα· ἔγειρε καὶ στῆθι εἰς τὸ μέσον. ὁ καὶ ἀναστὰς ἔστη."
+pericope: "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1492I]]"
+- "[[G3588]]"
+- "[[G1261]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G3584]]"
+- "[[G2192]]"
+- "[[G5495]]"
+- "[[G1453]]"
+- "[[G2476]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G0450]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **Luke 6:8**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
 <small><sub>**BSB:**</sub></small>
 But Jesus knew their thoughts and said to the man with the withered hand, “Get up and stand among us.” So he got up and stood there.
-<small><sub>**Literal:**</sub></small>
-He himself now knew the thoughts of them. and He said now to the man the withered having the hand; do arise and do stand in the midst. <the> And having risen up he stood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.7|<< Luke 6:7]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.9|Luke 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G1492I\|ᾔδει]]  [[G3588\|τοὺς]]  [[G1261\|διαλογισμοὺς]]  [[G0846\|αὐτῶν.]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G0435G\|ἀνδρὶ]]  [[G3588\|τῷ]]  [[G3584\|ξηρὰν]]  [[G2192\|ἔχοντι]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα·]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G2476\|στῆθι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3319\|μέσον.]]  [[G3588\|ὁ]]  [[G2532\|καὶ]]  [[G0450\|ἀναστὰς]]  [[G2476\|ἔστη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.7|<< Luke 6:7]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.9|Luke 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

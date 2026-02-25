@@ -1,10 +1,58 @@
+---
+title: Revelation 13:7
+type: Verse
+kjv: "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations."
+bsb: "Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation."
+greek: "καὶ ἐδόθη αὐτῷ ποιῆσαι πόλεμον μετὰ τῶν ἁγίων καὶ νικῆσαι αὐτοὺς καὶ ἐδόθη αὐτῷ ἐξουσία ἐπὶ πᾶσαν φυλὴν καὶ λαὸν καὶ γλῶσσαν καὶ ἔθνος."
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G4171]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G3528]]"
+- "[[G1849]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G5443]]"
+- "[[G2992]]"
+- "[[G1100]]"
+- "[[G1484]]"
+texts:
+- NKO
+- NO
+---
+
 **Revelation 13:7**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
 <small><sub>**BSB:**</sub></small>
 Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.
-<small><sub>**Literal:**</sub></small>
-And there was given to it to make war with the saints and to overcome them And was given to it authority over every tribe and people and tongue and nation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.6|<< Revelation 13:6]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.8|Revelation 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G4160G\|ποιῆσαι]]  [[G4171\|πόλεμον]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G2532\|καὶ]]  [[G3528\|νικῆσαι]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G1849\|ἐξουσία]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶσαν]]  [[G5443\|φυλὴν]]  [[G2532\|καὶ]]  [[G2992\|λαὸν]]  [[G2532\|καὶ]]  [[G1100\|γλῶσσαν]]  [[G2532\|καὶ]]  [[G1484\|ἔθνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.6|<< Revelation 13:6]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.8|Revelation 13:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 13:7** is...
 > $\quad$ alluding to: [[LXX.Dan.2.27|Dan 2:27]] ☩ [[LXX.Dan.5.19|Dan 5:19]] ☩ [[LXX.Dan.7.21|Dan 7:21]]

@@ -1,10 +1,63 @@
+---
+title: Luke 8:2
+type: Verse
+kjv: "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,"
+bsb: "as well as some women who had been healed of evil spirits and infirmities: Mary called Magdalene, from whom seven demons had gone out,"
+greek: "καὶ γυναῖκές τινες αἳ ἦσαν τεθεραπευμέναι ἀπὸ πνευμάτων πονηρῶν καὶ ἀσθενειῶν, Μαρία ἡ καλουμένη Μαγδαληνὴ ἀφ᾽ ἧς δαιμόνια ἑπτὰ ἐξεληλύθει,"
+pericope: "[[Luke.8.1 Women Minister to Jesus|Women Minister to Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G5100]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2323]]"
+- "[[G0575]]"
+- "[[G4151G]]"
+- "[[G4190]]"
+- "[[G0769H]]"
+- "[[G3137I]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G3094]]"
+- "[[G1140]]"
+- "[[G2033]]"
+- "[[G1831]]"
+texts:
+- NKO
+---
+
 **Luke 8:2**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,
 <small><sub>**BSB:**</sub></small>
 as well as some women who had been healed of evil spirits and infirmities: Mary called Magdalene, from whom seven demons had gone out,
-<small><sub>**Literal:**</sub></small>
-and women certain who were cured from spirits evil and infirmities, Mary who is called Magdalene from whom demons seven had gone out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.1|<< Luke 8:1]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.3|Luke 8:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1135G\|γυναῖκές]]  [[G5100\|τινες]]  [[G3739\|αἳ]]  [[G1510\|ἦσαν]]  [[G2323\|τεθεραπευμέναι]]  [[G0575\|ἀπὸ]]  [[G4151G\|πνευμάτων]]  [[G4190\|πονηρῶν]]  [[G2532\|καὶ]]  [[G0769H\|ἀσθενειῶν,]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G2564G\|καλουμένη]]  [[G3094\|Μαγδαληνὴ]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G1140\|δαιμόνια]]  [[G2033\|ἑπτὰ]]  [[G1831\|ἐξεληλύθει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.1|<< Luke 8:1]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.3|Luke 8:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

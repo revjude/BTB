@@ -1,10 +1,77 @@
+---
+title: Matthew 1:20
+type: Verse
+kjv: "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost."
+bsb: "But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit."
+greek: "Ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος κυρίου κατ᾽ ὄναρ ἐφάνη αὐτῷ λέγων· Ἰωσὴφ υἱὸς Δαυίδ, μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου· τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου."
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1760]]"
+- "[[G2400]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G2596]]"
+- "[[G3677]]"
+- "[[G5316]]"
+- "[[G3004G]]"
+- "[[G2501G]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3880]]"
+- "[[G3137G]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G1080]]"
+- "[[G1537]]"
+- "[[G4151G]]"
+- "[[G1510]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Matthew 1:20**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-These things now when he was pondering behold an angel of [the] Lord in a dream appeared to him saying; Joseph son of David, not may you fear to receive Mary [as] the wife of you; that for in her having been conceived from [the] Spirit [which] is Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.19|<< Matthew 1:19]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.21|Matthew 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G1760\|ἐνθυμηθέντος]]  [[G2400\|ἰδοὺ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G2596\|κατ᾽]]  [[G3677\|ὄναρ]]  [[G5316\|ἐφάνη]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγων·]]  [[G2501G\|Ἰωσὴφ]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ,]]  [[G3361\|μὴ]]  [[G5399\|φοβηθῇς]]  [[G3880\|παραλαβεῖν]]  [[G3137G\|Μαρίαν]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκά]]  [[G4771\|σου·]]  [[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1080\|γεννηθὲν]]  [[G1537\|ἐκ]]  [[G4151G\|πνεύματός]]  [[G1510\|ἐστιν]]  [[G0040G\|ἁγίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.19|<< Matthew 1:19]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.21|Matthew 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

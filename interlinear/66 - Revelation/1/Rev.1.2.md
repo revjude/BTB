@@ -1,10 +1,54 @@
+---
+title: Revelation 1:2
+type: Verse
+kjv: "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw."
+bsb: "who testifies to everything he saw. This is the word of God and the testimony of Jesus Christ."
+greek: "ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ καὶ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ ὅσα τε εἶδεν."
+pericope: "[[Rev.1.1 Prologue|Prologue]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G3140]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3141]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3745]]"
+- "[[G5037]]"
+- "[[G1492H]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 1:2**<big><big>[[Rev.1.1 Prologue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 <small><sub>**BSB:**</sub></small>
 who testifies to everything he saw. This is the word of God and the testimony of Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-who testified to the word <the> of God and to the testimony of Jesus Christ as much as then he saw.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.1|<< Revelation 1:1]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.3|Revelation 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3140\|ἐμαρτύρησεν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3745\|ὅσα]]  [[G5037\|τε]]  [[G1492H\|εἶδεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.1|<< Revelation 1:1]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.3|Revelation 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

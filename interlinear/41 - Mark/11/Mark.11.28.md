@@ -1,10 +1,55 @@
+---
+title: Mark 11:28
+type: Verse
+kjv: "And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?"
+bsb: "“By what authority are You doing these things?” they asked. “And who gave You the authority to do them?”"
+greek: "καὶ ἔλεγον αὐτῷ· ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς ἢ τίς σοι ἔδωκεν τὴν ἐξουσίαν ταύτην ἵνα ταῦτα ποιῇς;"
+pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2443]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 11:28**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?
 <small><sub>**BSB:**</sub></small>
 “By what authority are You doing these things?” they asked. “And who gave You the authority to do them?”
-<small><sub>**Literal:**</sub></small>
-And they were saying to Him; By what authority these things are You doing Or who You gave <the> authority this that these things You may do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.27|<< Mark 11:27]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.29|Mark 11:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτῷ·]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖς]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G4771\|σοι]]  [[G1325\|ἔδωκεν]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3778\|ταύτην]]  [[G2443\|ἵνα]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιῇς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.27|<< Mark 11:27]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.29|Mark 11:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

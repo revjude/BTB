@@ -1,8 +1,69 @@
+---
+title: Exodus 7:10
+type: Verse
+kjv: "And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent."
+bsb: "So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his officials, and it became a serpent."
+hebrew: "וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל־ פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ אַהֲרֹ֜ן אֶת־ מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין׃"
+pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547J]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H7993]]"
+- "[[H0853]]"
+- "[[H4294G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5650]]"
+- "[[H1961]]"
+- "[[H8577M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:10**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent.
 <small><sub>**BSB:**</sub></small>
 So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his officials, and it became a serpent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֔ה]] [[H9001\|וַ]][[H6213A\|יַּ֣עַשׂוּ]] [[H3651C\|כֵ֔ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵ֨ךְ]] [[H0175\|אַהֲרֹ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4294G\|מַטֵּ֗]][[H9023\|הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H6547J\|פַרְעֹ֛ה]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9005\|לְ]][[H8577M\|תַנִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.9|<< Exodus 7:9]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.11|Exodus 7:11 >>]]</td></tr></table>
 

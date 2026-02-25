@@ -1,8 +1,57 @@
+---
+title: Ezekiel 48:9
+type: Verse
+kjv: "The oblation that ye shall offer unto the LORD shall be of five and twenty thousand in length, and of ten thousand in breadth."
+bsb: "The special portion you set apart to the LORD shall be 25,000 cubits long and 10,000 cubits wide."
+hebrew: "הַתְּרוּמָ֕ה אֲשֶׁ֥ר תָּרִ֖ימוּ לַֽיהוָ֑ה אֹ֗רֶךְ חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֥רֶת אֲלָפִֽים׃"
+pericope: "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H0834A]]"
+- "[[H7311A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0753]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H7341]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:9**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The oblation that ye shall offer unto the LORD [shall be] of five and twenty thousand in length, and of ten thousand in breadth.
 <small><sub>**BSB:**</sub></small>
 The special portion you set apart to the LORD shall be 25,000 cubits long and 10,000 cubits wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8641\|תְּרוּמָ֕ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7311A\|תָּרִ֖ימוּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H0753\|אֹ֗רֶךְ]] [[H2568\|חֲמִשָּׁ֤ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.8|<< Ezekiel 48:8]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.10|Ezekiel 48:10 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Table of Showbread
+type: Pericope
 pericope: "[[Exod.25.23 The Table of Showbread|The Table of Showbread]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 25
 book/chapter: "[[Exod.25|Exodus 25]]"
-genre:
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 8
 verses:
 - "[[Exod.25.23]]"
 - "[[Exod.25.24]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Exod.25.30]]"
 ---
 
-[[Exod.25|Exodus 25:23 - Exodus 25:30]]
+<small>[[Exod.25|Exodus 25:23-30]]</small>
 *The Table of Showbread*
 
 [[Exod.25.23|23]] Thou shalt also make a table \[of\] shittim wood: two cubits \[shall be\] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.

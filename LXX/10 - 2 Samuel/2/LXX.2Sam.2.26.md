@@ -1,6 +1,76 @@
+---
+title: LXX 2 Samuel 2:26
+type: Verse
+lxx: "And Abner called  Joab, and he said, Shall the broadsword devour in victory, or do you not know that it will be bitter at the last? And for how long shall you in no way speak to the people to return from following after  their brethren?"
+greek: "και εκάλεσεν Αβενήρ τον Ιωάβ και είπε μη εις νίκος καταφάγεται η ρομφαία η ουκ οίδας ότι πικρά έσται εις τα έσχατα και έως πότε ου μη είπης τω λαώ αποστρέφειν από όπισθεν των αδελφών αυτών"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic TRUCE|TRUCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2564]]"
+- "[[H0074]]"
+- "[[G3588]]"
+- "[[H3097]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G3534]]"
+- "[[G2719]]"
+- "[[G3588]]"
+- "[[G4501]]"
+- "[[G2228]]"
+- "[[G3756]]"
+- "[[G1492]]"
+- "[[G3754]]"
+- "[[G4089]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G2532]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G3364]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0654]]"
+- "[[G0575]]"
+- "[[G3693]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Samuel 2:26** 
 <small><sub>**LXX:**</sub></small>
 And Abner called  Joab, and he said, Shall the broadsword devour in victory, or do you not know that it will be bitter at the last? And for how long shall you in no way speak to the people to return from \[following\] after  their brethren? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2564\|εκάλεσεν]] [[H0074\|Αβενήρ]] [[G3588\|τον]] [[H3097\|Ιωάβ]] [[G2532\|και]] [[G2036\|είπε]] [[G3361\|μη]] [[G1519\|εις]] [[G3534\|νίκος]] [[G2719\|καταφάγεται]] [[G3588\|η]] [[G4501\|ρομφαία]] [[G2228\|η]] [[G3756\|ουκ]] [[G1492\|οίδας]] [[G3754\|ότι]] [[G4089\|πικρά]] [[G1510\|έσται]] [[G1519\|εις]] [[G3588\|τα]] [[G2078\|έσχατα]] [[G2532\|και]] [[G2193\|έως]] [[G4219\|πότε]] [[G3364\|ου μη]] [[G2036\|είπης]] [[G3588\|τω]] [[G2992\|λαώ]] [[G0654\|αποστρέφειν]] [[G0575\|από]] [[G3693\|όπισθεν]] [[G3588\|των]] [[G0080\|αδελφών]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic TRUCE|TRUCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.25|<< 2 Samuel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.27|2 Samuel 2:27 >>]]</td></tr></table>
 
@@ -37,6 +107,6 @@ And Abner called  Joab, and he said, Shall the broadsword devour in victory, or 
 | \[following\] after | **<big>[[G3693\|όπισθεν]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | their brethren? | **<big>[[G0080\|αδελφών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[2Sam.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.25|<< 2 Samuel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.27|2 Samuel 2:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.25|<< 2 Samuel 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.27|2 Samuel 2:27 >>]]</td></tr></table>
 
 

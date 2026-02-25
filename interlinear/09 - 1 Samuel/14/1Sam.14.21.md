@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 14:21
+type: Verse
+kjv: "Moreover the Hebrews that were with the Philistines before that time, which went up with them into the camp from the country round about, even they also turned to be with the Israelites that were with Saul and Jonathan."
+bsb: "And the Hebrews who had previously gone up into the surrounding camps to join the Philistines now went over to the Israelites who were with Saul and Jonathan."
+hebrew: "וְהָעִבְרִ֗ים הָי֤וּ לַפְּלִשְׁתִּים֙ כְּאֶתְמ֣וֹל שִׁלְשׁ֔וֹם אֲשֶׁ֨ר עָל֥וּ עִמָּ֛ם בַּֽמַּחֲנֶ֖ה סָבִ֑יב וְגַם־ הֵ֗מָּה לִֽהְיוֹת֙ עִם־ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר עִם־ שָׁא֖וּל וְיוֹנָתָֽן׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6430G]]"
+- "[[H9004]]"
+- "[[H0865]]"
+- "[[H8032]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H5439G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3478]]"
+- "[[H7586G]]"
+- "[[H3129N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:21**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the Hebrews [that] were with the Philistines before that time, which went up with them into the camp [from the country] round about, even they also [turned] to be with the Israelites that [were] with Saul and Jonathan.
 <small><sub>**BSB:**</sub></small>
 And the Hebrews who had previously gone up into the surrounding camps to join the Philistines now went over to the Israelites who were with Saul and Jonathan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5680\|עִבְרִ֗ים]] [[H1961\|הָי֤וּ]] [[H9005\|לַ]][[H6430G\|פְּלִשְׁתִּים֙]] [[H9004\|כְּ]][[H0865\|אֶתְמ֣וֹל]] [[H8032\|שִׁלְשׁ֔וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H5927G\|עָל֥וּ]] [[H5973A\|עִמָּ֛]][[H9038\|ם]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H5439G\|סָבִ֑יב]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֗מָּה]] [[H9005\|לִֽ]][[H1961\|הְיוֹת֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5973A\|עִם]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H9002\|וְ]][[H3129N\|יוֹנָתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.20|<< 1 Samuel 14:20]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.22|1 Samuel 14:22 >>]]</td></tr></table>
 

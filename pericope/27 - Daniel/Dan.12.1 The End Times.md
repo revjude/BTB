@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The End Times
+type: Pericope
 pericope: "[[Dan.12.1 The End Times|The End Times]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 12
 book/chapter: "[[Dan.12|Daniel 12]]"
-genre:
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 13
 verses:
 - "[[Dan.12.1]]"
 - "[[Dan.12.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Dan.12.13]]"
 ---
 
-[[Dan.12|Daniel 12:1 - Daniel 12:13]]
+<small>[[Dan.12|Daniel 12:1-13]]</small>
 *The End Times*
 
 [[Dan.12.1|1]] And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation \[even\] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.

@@ -1,8 +1,61 @@
+---
+title: Isaiah 59:8
+type: Verse
+kjv: "The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace."
+bsb: "The way of peace they have not known, and there is no justice in their tracks. They have turned them into crooked paths; no one who treads on them will know peace."
+hebrew: "דֶּ֤רֶךְ שָׁלוֹם֙ לֹ֣א יָדָ֔עוּ וְאֵ֥ין מִשְׁפָּ֖ט בְּמַעְגְּלוֹתָ֑ם נְתִיבֽוֹתֵיהֶם֙ עִקְּשׁ֣וּ לָהֶ֔ם כֹּ֚ל דֹּרֵ֣ךְ בָּ֔הּ לֹ֥א יָדַ֖ע שָׁלֽוֹם׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1870G]]"
+- "[[H7965G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H4941H]]"
+- "[[H9003]]"
+- "[[H4570]]"
+- "[[H9028]]"
+- "[[H5410B]]"
+- "[[H6140]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H1869]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:8**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of peace they know not; and [there is] no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
 <small><sub>**BSB:**</sub></small>
 The way of peace they have not known, and there is no justice in their tracks. They have turned them into crooked paths; no one who treads on them will know peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דֶּ֤רֶךְ]] [[H7965G\|שָׁלוֹם֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֔עוּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9003\|בְּ]][[H4570\|מַעְגְּלוֹתָ֑]][[H9028\|ם]] [[H5410B\|נְתִיבֽוֹתֵי]][[H9028\|הֶם֙]] [[H6140\|עִקְּשׁ֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H3605\|כֹּ֚ל]] [[H1869\|דֹּרֵ֣ךְ]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H3808\|לֹ֥א]] [[H3045\|יָדַ֖ע]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.7|<< Isaiah 59:7]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.9|Isaiah 59:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

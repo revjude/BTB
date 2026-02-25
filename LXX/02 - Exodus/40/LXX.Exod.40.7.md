@@ -1,6 +1,58 @@
+---
+title: LXX Exodus 40:7
+type: Verse
+lxx: "And you shall place the bathing tub between the tent of the testimony and between the altar. And you shall put water in it."
+greek: "και θήσεις τον λουτήρα αναμέσον της σκηνής του μαρτυρίου και αναμέσον του θυσιαστηρίου και θήσεις εν αυτώ ύδωρ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAVER|LAVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G8210]]"
+- "[[G6271]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G2532]]"
+- "[[G6271]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G5204]]"
+---
+
 **LXX Exodus 40:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall place the bathing tub between the tent of the testimony and between the altar. And you shall put water in it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5087\|θήσεις]] [[G3588\|τον]] [[G8210\|λουτήρα]] [[G6271\|αναμέσον]] [[G3588\|της]] [[G4633\|σκηνής]] [[G3588\|του]] [[G3142\|μαρτυρίου]] [[G2532\|και]] [[G6271\|αναμέσον]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G2532\|και]] [[G5087\|θήσεις]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G5204\|ύδωρ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAVER|LAVER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.6|<< Exodus 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.8|Exodus 40:8 >>]]</td></tr></table>
 
@@ -24,6 +76,6 @@ And you shall place the bathing tub between the tent of the testimony and betwee
 | in | **<big>[[G1722\|εν]]</big>** |
 | it | **<big>[[G1473\|αυτώ]]</big>** |
 | water | **<big>[[G5204\|ύδωρ]]</big>** |
-[[Exod.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.6|<< Exodus 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.8|Exodus 40:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.6|<< Exodus 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.8|Exodus 40:8 >>]]</td></tr></table>
 
 

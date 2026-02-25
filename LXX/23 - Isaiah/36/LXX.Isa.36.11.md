@@ -1,6 +1,80 @@
+---
+title: LXX Isaiah 36:11
+type: Verse
+lxx: "And Eliakim and Shebna and Joah said to him, to Rabshakeh, Speak indeed to  your servants in Syriac! for we hear ourselves; and do not speak to us in Jewish! For why do you speak unto the ears of the men  standing upon the wall?"
+greek: "και είπε προς αυτόν Ελιακείμ και Σομνάς και Ιωάς προς Ραψάκην λάλησον δη προς τους παίδάς σου Συριστί ακούομεν γαρ ημείς και μη λαλεί προς ημάς Ιουδαϊστι και ινατί λαλείς εις τα ώτα των ανθρώπων των εστηκότων επί τω τείχει"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1662]]"
+- "[[G2532]]"
+- "[[H7644]]"
+- "[[G2532]]"
+- "[[H3135]]"
+- "[[G4314]]"
+- "[[H7262]]"
+- "[[G2980]]"
+- "[[G1211]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G4947]]"
+- "[[G0191]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G7724]]"
+- "[[G2532]]"
+- "[[G2444]]"
+- "[[G2980]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5038]]"
+---
+
 **LXX Isaiah 36:11** 
 <small><sub>**LXX:**</sub></small>
 And Eliakim and Shebna and Joah said to him, to Rabshakeh, Speak indeed to  your servants in Syriac! for we hear ourselves; and do not speak to us in Jewish! For why do you speak unto the ears of the men  standing upon the wall? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G1662\|Ελιακείμ]] [[G2532\|και]] [[H7644\|Σομνάς]] [[G2532\|και]] [[H3135\|Ιωάς]] [[G4314\|προς]] [[H7262\|Ραψάκην]] [[G2980\|λάλησον]] [[G1211\|δη]] [[G4314\|προς]] [[G3588\|τους]] [[G3816\|παίδάς]] [[G1473\|σου]] [[G4947\|Συριστί]] [[G0191\|ακούομεν]] [[G1063\|γαρ]] [[G1473\|ημείς]] [[G2532\|και]] [[G3361\|μη]] [[G2980\|λαλεί]] [[G4314\|προς]] [[G1473\|ημάς]] [[G7724\|Ιουδαϊστι]] [[G2532\|και]] [[G2444\|ινατί]] [[G2980\|λαλείς]] [[G1519\|εις]] [[G3588\|τα]] [[G3775\|ώτα]] [[G3588\|των]] [[G0444\|ανθρώπων]] [[G3588\|των]] [[G2476\|εστηκότων]] [[G1909\|επί]] [[G3588\|τω]] [[G5038\|τείχει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELIAKIM|ELIAKIM]] • [[topic JOAH|JOAH]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.10|<< Isaiah 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.12|Isaiah 36:12 >>]]</td></tr></table>
 
@@ -44,6 +118,6 @@ And Eliakim and Shebna and Joah said to him, to Rabshakeh, Speak indeed to  your
 | upon | **<big>[[G1909\|επί]]</big>** |
 | the | **<big>[[G3588\|τω]]</big>** |
 | wall? | **<big>[[G5038\|τείχει]]</big>** |
-[[Isa.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.10|<< Isaiah 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.12|Isaiah 36:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.10|<< Isaiah 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.12|Isaiah 36:12 >>]]</td></tr></table>
 
 

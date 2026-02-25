@@ -1,10 +1,63 @@
+---
+title: 1 Peter 5:5
+type: Verse
+kjv: "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble."
+bsb: "Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.”"
+greek: "Ὁμοίως νεώτεροι, ὑποτάγητε πρεσβυτέροις, πάντες δὲ ἀλλήλοις ὑποτασσόμενοι τὴν ταπεινοφροσύνην ἐγκομβώσασθε, ὅτι ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν."
+pericope: "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3668]]"
+- "[[G3501]]"
+- "[[G5293]]"
+- "[[G4245G]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G0240]]"
+- "[[G3588]]"
+- "[[G5012]]"
+- "[[G1463]]"
+- "[[G3754H]]"
+- "[[G2316]]"
+- "[[G5244]]"
+- "[[G0498]]"
+- "[[G5011]]"
+- "[[G1325]]"
+- "[[G5485]]"
+texts:
+- NKO
+- k
+---
+
 **1 Peter 5:5**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise, ye younger, submit yourselves unto the elder. Yea, all [of you] be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 <small><sub>**BSB:**</sub></small>
 Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.”
-<small><sub>**Literal:**</sub></small>
-Likewise younger [ones], do be subjected to [your] elders, All now to one another be submitting yourselves <the> humility do gird on, because <the> God [the] proud opposes, to [the] humble however He gives grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.4|<< 1 Peter 5:4]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.6|1 Peter 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|Ὁμοίως]]  [[G3501\|νεώτεροι,]]  [[G5293\|ὑποτάγητε]]  [[G4245G\|πρεσβυτέροις,]]  [[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G0240\|ἀλλήλοις]]  [[G5293\|ὑποτασσόμενοι]]  [[G3588\|τὴν]]  [[G5012\|ταπεινοφροσύνην]]  [[G1463\|ἐγκομβώσασθε,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5244\|ὑπερηφάνοις]]  [[G0498\|ἀντιτάσσεται,]]  [[G5011\|ταπεινοῖς]]  [[G1161\|δὲ]]  [[G1325\|δίδωσιν]]  [[G5485\|χάριν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ELDER|ELDER]] • [[topic HUMILITY|HUMILITY]] • [[topic PRIDE|PRIDE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.4|<< 1 Peter 5:4]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.6|1 Peter 5:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 5:5** is...
 > $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]

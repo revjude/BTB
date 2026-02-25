@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 8:9
+type: Verse
+kjv: "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."
+bsb: "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich."
+greek: "γινώσκετε γὰρ τὴν χάριν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ὅτι δι᾽ ὑμᾶς ἐπτώχευσεν πλούσιος ὤν, ἵνα ὑμεῖς τῇ ἐκείνου πτωχείᾳ πλουτήσητε."
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G1097]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3754G]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G4433]]"
+- "[[G4145]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G1565]]"
+- "[[G4432]]"
+- "[[G4147]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:9**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
 <small><sub>**BSB:**</sub></small>
 For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.
-<small><sub>**Literal:**</sub></small>
-You know for the grace of the Lord of us Jesus Christ that for the sake of you He became poor rich being, so that you yourselves <the> through that poverty may be enriched.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.8|<< 2 Corinthians 8:8]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.10|2 Corinthians 8:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|γινώσκετε]]  [[G1063\|γὰρ]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3754G\|ὅτι]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς]]  [[G4433\|ἐπτώχευσεν]]  [[G4145\|πλούσιος]]  [[G1510\|ὤν,]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G3588\|τῇ]]  [[G1565\|ἐκείνου]]  [[G4432\|πτωχείᾳ]]  [[G4147\|πλουτήσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EXAMPLE|EXAMPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.8|<< 2 Corinthians 8:8]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.10|2 Corinthians 8:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

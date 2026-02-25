@@ -1,8 +1,53 @@
+---
+title: Jeremiah 31:24
+type: Verse
+kjv: "And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they that go forth with flocks."
+bsb: "And Judah and all its cities will dwell together in the land, the farmers and those who move with the flocks,"
+hebrew: "וְיָ֥שְׁבוּ בָ֛הּ יְהוּדָ֥ה וְכָל־ עָרָ֖יו יַחְדָּ֑ו אִכָּרִ֕ים וְנָסְע֖וּ בַּעֵֽדֶר׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H3162B]]"
+- "[[H0406]]"
+- "[[H5265]]"
+- "[[H5739]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:24**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they [that] go forth with flocks.
 <small><sub>**BSB:**</sub></small>
 And Judah and all its cities will dwell together in the land, the farmers and those who move with the flocks,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָ֥שְׁבוּ]] [[H9003\|בָ֛]][[H9034\|הּ]] [[H3063G\|יְהוּדָ֥ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרָ֖י]][[H9023\|ו]] [[H3162B\|יַחְדָּ֑ו]] [[H0406\|אִכָּרִ֕ים]] [[H9001\|וְ]][[H5265\|נָסְע֖וּ]] [[H9003\|בַּ]][[H5739\|עֵֽדֶר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.23|<< Jeremiah 31:23]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.25|Jeremiah 31:25 >>]]</td></tr></table>
 

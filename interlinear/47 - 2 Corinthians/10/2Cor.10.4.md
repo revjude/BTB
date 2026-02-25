@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 10:4
+type: Verse
+kjv: "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)"
+bsb: "The weapons of our warfare are not the weapons of the flesh. Instead, they have divine power to demolish strongholds."
+greek: "τὰ γὰρ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικὰ ἀλλὰ δυνατὰ τῷ θεῷ πρὸς καθαίρεσιν ὀχυρωμάτων, λογισμοὺς καθαιροῦντες"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3696]]"
+- "[[G4752]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G4559]]"
+- "[[G0235]]"
+- "[[G1415]]"
+- "[[G2316]]"
+- "[[G4314]]"
+- "[[G2506]]"
+- "[[G3794]]"
+- "[[G3053]]"
+- "[[G2507]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:4**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For the weapons of our warfare [are] not carnal, but mighty through God to the pulling down of strong holds;)
 <small><sub>**BSB:**</sub></small>
 The weapons of our warfare are not the weapons of the flesh. Instead, they have divine power to demolish strongholds.
-<small><sub>**Literal:**</sub></small>
-The for weapons of the warfare of us [are] not fleshly but powerful <the> divinely to [the] demolition of strongholds, [5] arguments overthrowing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.3|<< 2 Corinthians 10:3]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.5|2 Corinthians 10:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1063\|γὰρ]]  [[G3696\|ὅπλα]]  [[G3588\|τῆς]]  [[G4752\|στρατείας]]  [[G3165\|ἡμῶν]]  [[G3756\|οὐ]]  [[G4559\|σαρκικὰ]]  [[G0235\|ἀλλὰ]]  [[G1415\|δυνατὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G4314\|πρὸς]]  [[G2506\|καθαίρεσιν]]  [[G3794\|ὀχυρωμάτων,]]  [[G3053\|λογισμοὺς]]  [[G2507\|καθαιροῦντες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.3|<< 2 Corinthians 10:3]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.5|2 Corinthians 10:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

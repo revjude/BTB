@@ -1,8 +1,58 @@
+---
+title: Psalm 93:1
+type: Verse
+kjv: "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
+bsb: "The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved."
+hebrew: "יְהוָ֣ה מָלָךְ֮ גֵּא֪וּת לָ֫בֵ֥שׁ לָבֵ֣שׁ יְ֭הוָה עֹ֣ז הִתְאַזָּ֑ר אַף־ תִּכּ֥וֹן תֵּ֝בֵ֗ל בַּל־ תִּמּֽוֹט׃"
+pericope: "[[Ps.93.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 93
+book/chapter: "[[Ps.93|Psalm 93]]"
+chronological_order: 520
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3068G]]"
+- "[[H4427A]]"
+- "[[H1348]]"
+- "[[H3847]]"
+- "[[H5797]]"
+- "[[H0247]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H3559H]]"
+- "[[H8398]]"
+- "[[H1077]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 93:1**<big><big>[[Ps.93.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, [wherewith] he hath girded himself: the world also is stablished, that it cannot be moved.
 <small><sub>**BSB:**</sub></small>
 The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H4427A\|מָלָךְ֮]] [[H1348\|גֵּא֪וּת]] [[H3847\|לָ֫בֵ֥שׁ]] [[H3847\|לָבֵ֣שׁ]] [[H3068G\|יְ֭הוָה]] [[H5797\|עֹ֣ז]] [[H0247\|הִתְאַזָּ֑ר]] [[H0637\|אַף]][[H9014\|־]] [[H3559H\|תִּכּ֥וֹן]] [[H8398\|תֵּ֝בֵ֗ל]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|תִּמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.93.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.15|<< Psalms 92:15]]</td><td align="center" style="border:none;">[[Ps.93|Psalms 93]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.2|Psalms 93:2 >>]]</td></tr></table>
 

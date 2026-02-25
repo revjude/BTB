@@ -1,6 +1,84 @@
+---
+title: LXX Deuteronomy 28:31
+type: Verse
+lxx: "Your calf being slain before you, and you will not eat from it.  Your donkey being seized by force from you, and it shall not be given back to you.  Your sheep being given to your enemies, and there shall not be one helping you."
+greek: "ο μόσχος σου εσφαγμένος εναντίον σου και ου φαγή εξ αυτού ο όνος σου ηρπασμένος από σου και ουκ αποδοθήσεταί σοι τα πρόβατά σου δεδομένα τοις εχθροίς σου και ουκ έσται σοι ο βοηθών"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G3448]]"
+- "[[G1473]]"
+- "[[G4969]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2068]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3688]]"
+- "[[G1473]]"
+- "[[G0726]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0591]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0997]]"
+---
+
 **LXX Deuteronomy 28:31** 
 <small><sub>**LXX:**</sub></small>
  Your calf being slain before you, and you will not eat from it.  Your donkey being seized by force from you, and it shall not be given back to you.  Your sheep being given \[to\] your enemies, and there shall not be one helping you. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G3448\|μόσχος]] [[G1473\|σου]] [[G4969\|εσφαγμένος]] [[G1726\|εναντίον]] [[G1473\|σου]] [[G2532\|και]] [[G3756\|ου]] [[G2068\|φαγή]] [[G1537\|εξ]] [[G1473\|αυτού]] [[G3588\|ο]] [[G3688\|όνος]] [[G1473\|σου]] [[G0726\|ηρπασμένος]] [[G0575\|από]] [[G1473\|σου]] [[G2532\|και]] [[G3756\|ουκ]] [[G0591\|αποδοθήσεταί]] [[G1473\|σοι]] [[G3588\|τα]] [[G4263\|πρόβατά]] [[G1473\|σου]] [[G1325\|δεδομένα]] [[G3588\|τοις]] [[G2190\|εχθροίς]] [[G1473\|σου]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G1473\|σοι]] [[G3588\|ο]] [[G0997\|βοηθών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.28.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.30|<< Deuteronomy 28:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.32|Deuteronomy 28:32 >>]]</td></tr></table>
 
@@ -34,6 +112,6 @@
 | there shall not | **<big>[[G3756\|ουκ]]</big>** |
 | be | **<big>[[G1510\|έσται]]</big>** |
 | one helping you. | **<big>[[G1473\|σοι]]</big>** **<big>[[G3588\|ο]]</big>** **<big>[[G0997\|βοηθών]]</big>** |
-[[Deut.28.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.30|<< Deuteronomy 28:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.32|Deuteronomy 28:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.30|<< Deuteronomy 28:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.32|Deuteronomy 28:32 >>]]</td></tr></table>
 
 

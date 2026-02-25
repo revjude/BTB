@@ -1,8 +1,57 @@
+---
+title: Zechariah 2:6
+type: Verse
+kjv: "Ho, ho, come forth, and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD."
+bsb: "“Get up! Get up! Flee from the land of the north,” declares the LORD, “for I have scattered you like the four winds of heaven,” declares the LORD."
+hebrew: "ה֣וֹי ה֗וֹי וְנֻ֛סוּ מֵאֶ֥רֶץ צָפ֖וֹן נְאֻם־ יְהוָ֑ה כִּ֠י כְּאַרְבַּ֞ע רוּח֧וֹת הַשָּׁמַ֛יִם פֵּרַ֥שְׂתִּי אֶתְכֶ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Zech.2.6 The Redemption of Zion|The Redemption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H1945]]"
+- "[[H9002]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0702]]"
+- "[[H7307H]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H6566]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 2:6**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ho, ho, [come forth], and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Get up! Get up! Flee from the land of the north,” declares the LORD, “for I have scattered you like the four winds of heaven,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֣וֹי]] [[H1945\|ה֗וֹי]] [[H9002\|וְ]][[H5127\|נֻ֛סוּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H6828G\|צָפ֖וֹן]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֠י]] [[H9004\|כְּ]][[H0702\|אַרְבַּ֞ע]] [[H7307H\|רוּח֧וֹת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֛יִם]] [[H6566\|פֵּרַ֥שְׂתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.5|<< Zechariah 2:5]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.7|Zechariah 2:7 >>]]</td></tr></table>
 

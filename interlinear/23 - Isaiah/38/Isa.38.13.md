@@ -1,8 +1,62 @@
+---
+title: Isaiah 38:13
+type: Verse
+kjv: "I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt thou make an end of me."
+bsb: "I composed myself until the morning. Like a lion He breaks all my bones; from day until night You make an end of me."
+hebrew: "שִׁוִּ֤יתִי עַד־ בֹּ֙קֶר֙ כָּֽאֲרִ֔י כֵּ֥ן יְשַׁבֵּ֖ר כָּל־ עַצְמוֹתָ֑י מִיּ֥וֹם עַד־ לַ֖יְלָה תַּשְׁלִימֵֽנִי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LION|LION]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H7737B]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1242]]"
+- "[[H9004]]"
+- "[[H0738A]]"
+- "[[H3651C]]"
+- "[[H7665]]"
+- "[[H3605]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H3915]]"
+- "[[H7999A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:13**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I reckoned till morning, [that], as a lion, so will he break all my bones: from day [even] to night wilt thou make an end of me.
 <small><sub>**BSB:**</sub></small>
 I composed myself until the morning. Like a lion He breaks all my bones; from day until night You make an end of me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7737B\|שִׁוִּ֤יתִי]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּ֙קֶר֙]] [[H9004\|כָּֽ]][[H0738A\|אֲרִ֔י]] [[H3651C\|כֵּ֥ן]] [[H7665\|יְשַׁבֵּ֖ר]] [[H3605\|כָּל]][[H9014\|־]] [[H6106G\|עַצְמוֹתָ֑]][[H9020\|י]] [[H9006\|מִ]][[H3117G\|יּ֥וֹם]] [[H5704\|עַד]][[H9014\|־]] [[H3915\|לַ֖יְלָה]] [[H7999A\|תַּשְׁלִימֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LION|LION]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.12|<< Isaiah 38:12]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.14|Isaiah 38:14 >>]]</td></tr></table>
 

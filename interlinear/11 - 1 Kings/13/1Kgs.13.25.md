@@ -1,8 +1,69 @@
+---
+title: 1 Kings 13:25
+type: Verse
+kjv: "And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt."
+bsb: "And there were men passing by who saw the body lying in the road with the lion standing beside it, and they went and reported this in the city where the old prophet lived."
+hebrew: "וְהִנֵּ֧ה אֲנָשִׁ֣ים עֹבְרִ֗ים וַיִּרְא֤וּ אֶת־ הַנְּבֵלָה֙ מֻשְׁלֶ֣כֶת בַּדֶּ֔רֶךְ וְאֶת־ הָ֣אַרְיֵ֔ה עֹמֵ֖ד אֵ֣צֶל הַנְּבֵלָ֑ה וַיָּבֹ֙אוּ֙ וַיְדַבְּר֣וּ בָעִ֔יר אֲשֶׁ֛ר הַנָּבִ֥יא הַזָּקֵ֖ן יֹשֵׁ֥ב בָּֽהּ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0582]]"
+- "[[H5674A]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5038]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H0738B]]"
+- "[[H5975G]]"
+- "[[H0681]]"
+- "[[H0935G]]"
+- "[[H1696G]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5030]]"
+- "[[H2205H]]"
+- "[[H3427]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:25**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told [it] in the city where the old prophet dwelt.
 <small><sub>**BSB:**</sub></small>
 And there were men passing by who saw the body lying in the road with the lion standing beside it, and they went and reported this in the city where the old prophet lived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֧ה]] [[H0582\|אֲנָשִׁ֣ים]] [[H5674A\|עֹבְרִ֗ים]] [[H9001\|וַ]][[H7200G\|יִּרְא֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5038\|נְּבֵלָה֙]] [[H7993\|מֻשְׁלֶ֣כֶת]] [[H9003\|בַּ]][[H1870K\|דֶּ֔רֶךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0738B\|אַרְיֵ֔ה]] [[H5975G\|עֹמֵ֖ד]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H5038\|נְּבֵלָ֑ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H9001\|וַ]][[H1696G\|יְדַבְּר֣וּ]] [[H9003\|בָ]][[H5892B\|עִ֔יר]] [[H0834A\|אֲשֶׁ֛ר]] [[H9009\|הַ]][[H5030\|נָּבִ֥יא]] [[H9009\|הַ]][[H2205H\|זָּקֵ֖ן]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.24|<< 1 Kings 13:24]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.26|1 Kings 13:26 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Job 33:27
+type: Verse
+kjv: "He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;"
+bsb: "Then he sings before men with these words: ‘I have sinned and perverted what was right; yet I did not get what I deserved."
+hebrew: "יָשֹׁ֤ר׀ עַל־ אֲנָשִׁ֗ים וַיֹּ֗אמֶר חָ֭טָאתִי וְיָשָׁ֥ר הֶעֱוֵ֗יתִי וְלֹא־ שָׁ֥וָה לִֽי׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7789]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H5753A]]"
+- "[[H3808]]"
+- "[[H7737A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:27**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He looketh upon men, and [if any] say, I have sinned, and perverted [that which was] right, and it profited me not;
 <small><sub>**BSB:**</sub></small>
 Then he sings before men with these words: ‘I have sinned and perverted what was right; yet I did not get what I deserved.
+<small><sub>**Hebrew:**</sub></small>
+[[H7789\|יָשֹׁ֤ר]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H0582\|אֲנָשִׁ֗ים]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2398\|חָ֭טָאתִי]] [[H9002\|וְ]][[H3477G\|יָשָׁ֥ר]] [[H5753A\|הֶעֱוֵ֗יתִי]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7737A\|שָׁ֥וָה]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.26|<< Job 33:26]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.28|Job 33:28 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Restoration of Israel
+type: Pericope
 pericope: "[[Ezek.28.25 The Restoration of Israel|The Restoration of Israel]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 28
 book/chapter: "[[Ezek.28|Ezekiel 28]]"
-genre:
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,12 +24,13 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 2
 verses:
 - "[[Ezek.28.25]]"
 - "[[Ezek.28.26]]"
 ---
 
-[[Ezek.28|Ezekiel 28:25 - Ezekiel 28:26]]
+<small>[[Ezek.28|Ezekiel 28:25-26]]</small>
 *The Restoration of Israel*
 
 [[Ezek.28.25|25]] Thus saith the Lord GOD; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.

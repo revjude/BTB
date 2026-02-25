@@ -1,8 +1,65 @@
+---
+title: Genesis 38:17
+type: Verse
+kjv: "And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?"
+bsb: "“I will send you a young goat from my flock,” Judah answered. But she replied, “Only if you leave me something as a pledge until you send it.”"
+hebrew: "וַיֹּ֕אמֶר אָנֹכִ֛י אֲשַׁלַּ֥ח גְּדִֽי־ עִזִּ֖ים מִן־ הַצֹּ֑אן וַתֹּ֕אמֶר אִם־ תִּתֵּ֥ן עֵרָב֖וֹן עַ֥ד שָׁלְחֶֽךָ׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PLEDGE|PLEDGE]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H7971G]]"
+- "[[H1423]]"
+- "[[H9014]]"
+- "[[H5795]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H0518A]]"
+- "[[H5414G]]"
+- "[[H6162]]"
+- "[[H5704]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:17**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I will send [thee] a kid from the flock. And she said, Wilt thou give [me] a pledge, till thou send [it]?
 <small><sub>**BSB:**</sub></small>
 “I will send you a young goat from my flock,” Judah answered. But she replied, “Only if you leave me something as a pledge until you send it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0595\|אָנֹכִ֛י]] [[H7971G\|אֲשַׁלַּ֥ח]] [[H1423\|גְּדִֽי]][[H9014\|־]] [[H5795\|עִזִּ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֑אן]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H0518A\|אִם]][[H9014\|־]] [[H5414G\|תִּתֵּ֥ן]] [[H6162\|עֵרָב֖וֹן]] [[H5704\|עַ֥ד]] [[H7971G\|שָׁלְחֶֽ]][[H9041\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic INCEST|INCEST]] • [[topic JUDAH|JUDAH]] • [[topic PLEDGE|PLEDGE]] • [[topic SHEEP|SHEEP]] • [[topic TAMAR|TAMAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.16|<< Genesis 38:16]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.18|Genesis 38:18 >>]]</td></tr></table>
 

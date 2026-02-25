@@ -1,10 +1,79 @@
+---
+title: Mark 16:8
+type: Verse
+kjv: "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid."
+bsb: "So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone."
+greek: "καὶ ἐξελθοῦσαι ταχὺ ἔφυγον ἀπὸ τοῦ μνημείου· εἶχεν γὰρ αὐτὰς τρόμος καὶ ἔκστασις. καὶ οὐδενὶ οὐδὲν εἶπαν· ἐφοβοῦντο γάρ.¶ [Πάντα δὲ τὰ παρηγγελμένα τοῖς περὶ τὸν Πέτρον συντόμως ἐξήγγειλαν. Μετὰ δὲ ταῦτα καὶ αὐτὸς ὁ Ἰησοῦς ἀπὸ ἀνατολῆς καὶ ἄχρι δύσεως ἐξαπέστειλεν δι᾽ αὐτῶν τὸ ἱερὸν καὶ ἄφθαρτον κήρυγμα τῆς αἰωνίου σωτηρίας. ἀμήν.¶]"
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G5035]]"
+- "[[G5343]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G2192]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G5156]]"
+- "[[G1611]]"
+- "[[G3762]]"
+- "[[G2036]]"
+- "[[G5399]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3853]]"
+- "[[G4012]]"
+- "[[G4074G]]"
+- "[[G4935]]"
+- "[[G1804]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2424G]]"
+- "[[G0395]]"
+- "[[G0891]]"
+- "[[G6091]]"
+- "[[G1821]]"
+- "[[G1223]]"
+- "[[G2411]]"
+- "[[G0862]]"
+- "[[G2782]]"
+- "[[G0166]]"
+- "[[G4991]]"
+- "[[G0281]]"
+texts:
+- NKO
+- K
+- N(k)O
+- O
+---
+
 **Mark 16:8**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any [man]; for they were afraid.
 <small><sub>**BSB:**</sub></small>
 So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone.
-<small><sub>**Literal:**</sub></small>
-And having gone out quickly they fled from the tomb; had for them trembling and amazement. and to no [one] no [thing] they spoke; they were afraid for. (8b) all now the [things] instructed to [those] around <the> Peter promptly they reported. After now these [things] also Himself <the> Jesus from [the] east and to [the] west sent out through them the sacred and imperishable preaching <the> of eternal salvation. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξελθοῦσαι]]  [[G5035\|ταχὺ]]  [[G5343\|ἔφυγον]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου·]]  [[G2192\|εἶχεν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὰς]]  [[G5156\|τρόμος]]  [[G2532\|καὶ]]  [[G1611\|ἔκστασις.]]  [[G2532\|καὶ]]  [[G3762\|οὐδενὶ]]  [[G3762\|οὐδὲν]]  [[G2036\|εἶπαν·]]  [[G5399\|ἐφοβοῦντο]]  [[G1063\|γάρ.¶]]  [[G3956\|[Πάντα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G3853\|παρηγγελμένα]]  [[G3588\|τοῖς]]  [[G4012\|περὶ]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G4935\|συντόμως]]  [[G1804\|ἐξήγγειλαν.]]  [[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0575\|ἀπὸ]]  [[G0395\|ἀνατολῆς]]  [[G2532\|καὶ]]  [[G0891\|ἄχρι]]  [[G6091\|δύσεως]]  [[G1821\|ἐξαπέστειλεν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G2532\|καὶ]]  [[G0862\|ἄφθαρτον]]  [[G2782\|κήρυγμα]]  [[G3588\|τῆς]]  [[G0166\|αἰωνίου]]  [[G4991\|σωτηρίας.]]  [[G0281\|ἀμήν.¶]]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

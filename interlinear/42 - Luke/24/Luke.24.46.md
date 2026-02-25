@@ -1,10 +1,61 @@
+---
+title: Luke 24:46
+type: Verse
+kjv: "And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
+bsb: "And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day,"
+jesus_said: "Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
+greek: "καὶ εἶπεν αὐτοῖς ὅτι οὕτως γέγραπται καὶ οὕτως ἔδει παθεῖν τὸν χριστὸν καὶ ἀναστῆναι ἐκ νεκρῶν τῇ τρίτῃ ἡμέρᾳ"
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3779]]"
+- "[[G1125]]"
+- "[[G1163]]"
+- "[[G3958]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0450]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G5154]]"
+- "[[G2250]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 24:46**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
 <small><sub>**BSB:**</sub></small>
 And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day,
-<small><sub>**Literal:**</sub></small>
-And He said to them that Thus it has been written and thus it was necessary for Was to suffer the Christ and to rise out from [the] dead on the third day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.45|<< Luke 24:45]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.47|Luke 24:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι]]  [[G3779\|οὕτως]]  [[G1125\|γέγραπται]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G1163\|ἔδει]]  [[G3958\|παθεῖν]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G2532\|καὶ]]  [[G0450\|ἀναστῆναι]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G2250\|ἡμέρᾳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUFFERING|SUFFERING]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.45|<< Luke 24:45]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.47|Luke 24:47 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 24:46** is...
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]] ☩ [[LXX.Isa.53.5|Isa 53:5]]

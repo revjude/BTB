@@ -1,8 +1,75 @@
+---
+title: Jeremiah 25:12
+type: Verse
+kjv: "And it shall come to pass, when seventy years are accomplished, that I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations."
+bsb: "But when seventy years are complete, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their guilt, declares the LORD, and I will make it an everlasting desolation."
+hebrew: "וְהָיָ֣ה כִמְלֹ֣אות שִׁבְעִ֣ים שָׁנָ֡ה אֶפְקֹ֣ד עַל־ מֶֽלֶךְ־ בָּבֶל֩ וְעַל־ הַגּ֨וֹי הַה֧וּא נְאֻם־ יְהוָ֛ה אֶת־ עֲוֹנָ֖ם וְעַל־ אֶ֣רֶץ כַּשְׂדִּ֑ים וְשַׂמְתִּ֥י אֹת֖וֹ לְשִֽׁמְמ֥וֹת עוֹלָֽם׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H4390]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H8077A]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:12**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.
 <small><sub>**BSB:**</sub></small>
 But when seventy years are complete, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their guilt, declares the LORD, and I will make it an everlasting desolation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9004\|כִ]][[H4390\|מְלֹ֣אות]] [[H7657\|שִׁבְעִ֣ים]] [[H8141\|שָׁנָ֡ה]] [[H6485H\|אֶפְקֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֩]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֨וֹי]] [[H9009\|הַ]][[H1931\|ה֧וּא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹנָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3778\|כַּשְׂדִּ֑ים]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֥י]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H8077A\|שִֽׁמְמ֥וֹת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic PROPHECY|PROPHECY]] • [[topic SEVENTY|SEVENTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.11|<< Jeremiah 25:11]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.13|Jeremiah 25:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Proverbs：The Wise Son
+type: Pericope
 pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 10
 book/chapter: "[[Prov.10|Proverbs 10]]"
-genre:
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 32
 verses:
 - "[[Prov.10.1]]"
 - "[[Prov.10.2]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Prov.10.32]]"
 ---
 
-[[Prov.10|Proverbs 10:1 - Proverbs 10:32]]
+<small>[[Prov.10|Proverbs 10:1-32]]</small>
 *Solomon’s Proverbs：The Wise Son*
 
 [[Prov.10.1|1]] The proverbs of Solomon. A wise son maketh a glad father: but a foolish son \[is\] the heaviness of his mother.

@@ -1,8 +1,58 @@
+---
+title: Numbers 3:24
+type: Verse
+kjv: "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael."
+bsb: "and the leader of the families of the Gershonites was Eliasaph son of Lael."
+hebrew: "וּנְשִׂ֥יא בֵֽית־ אָ֖ב לַגֵּרְשֻׁנִּ֑י אֶלְיָסָ֖ף בֶּן־ לָאֵֽל׃"
+pericope: "[[Num.3.21 The Gershonites|The Gershonites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ELIASAPH|ELIASAPH]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H1649]]"
+- "[[H0460H]]"
+- "[[H1121A]]"
+- "[[H3815]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:24**<big><big>[[Num.3.21 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of the house of the father of the Gershonites [shall be] Eliasaph the son of Lael.
 <small><sub>**BSB:**</sub></small>
 and the leader of the families of the Gershonites was Eliasaph son of Lael.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H5387A\|נְשִׂ֥יא]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H0001G\|אָ֖ב]] [[H9005\|לַ]][[H1649\|גֵּרְשֻׁנִּ֑י]] [[H0460H\|אֶלְיָסָ֖ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3815\|לָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic ELIASAPH|ELIASAPH]] • [[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.23|<< Numbers 3:23]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.25|Numbers 3:25 >>]]</td></tr></table>
 

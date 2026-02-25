@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 9:7
+type: Verse
+kjv: "And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually."
+bsb: "“Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”"
+hebrew: "וַיֹּאמֶר֩ ל֨וֹ דָוִ֜ד אַל־ תִּירָ֗א כִּ֣י עָשֹׂה֩ אֶעֱשֶׂ֨ה עִמְּךָ֥ חֶ֙סֶד֙ בַּֽעֲבוּר֙ יְהוֹנָתָ֣ן אָבִ֔יךָ וַהֲשִׁבֹתִ֣י לְךָ֔ אֶֽת־ כָּל־ שְׂדֵ֖ה שָׁא֣וּל אָבִ֑יךָ וְאַתָּ֗ה תֹּ֥אכַל לֶ֛חֶם עַל־ שֻׁלְחָנִ֖י תָּמִֽיד׃"
+pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1732]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H2617A]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H3083H]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H7704G]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0398]]"
+- "[[H3899G]]"
+- "[[H5921A]]"
+- "[[H7979]]"
+- "[[H9020]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 9:7**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H1732\|דָוִ֜ד]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֗א]] [[H3588A\|כִּ֣י]] [[H6213A\|עָשֹׂה֩]] [[H6213A\|אֶעֱשֶׂ֨ה]] [[H5973A\|עִמְּ]][[H9031\|ךָ֥]] [[H2617A\|חֶ֙סֶד֙]] [[H9003\|בַּֽ]][[H5668\|עֲבוּר֙]] [[H3083H\|יְהוֹנָתָ֣ן]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725H\|הֲשִׁבֹתִ֣י]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7704G\|שְׂדֵ֖ה]] [[H7586G\|שָׁא֣וּל]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H0398\|תֹּ֥אכַל]] [[H3899G\|לֶ֛חֶם]] [[H5921A\|עַל]][[H9014\|־]] [[H7979\|שֻׁלְחָנִ֖]][[H9020\|י]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.6|<< 2 Samuel 9:6]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.8|2 Samuel 9:8 >>]]</td></tr></table>
 

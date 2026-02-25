@@ -1,8 +1,55 @@
+---
+title: Psalm 121:2
+type: Verse
+kjv: "My help cometh from the LORD, which made heaven and earth."
+bsb: "My help comes from the LORD, the Maker of heaven and earth."
+hebrew: "עֶ֭זְרִי מֵעִ֣ם יְהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃"
+pericope: "[[Ps.121.1 I Lift Up My Eyes to the Hills|I Lift Up My Eyes to the Hills]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 121
+book/chapter: "[[Ps.121|Psalm 121]]"
+chronological_order: 883
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H5828]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 121:2**<big><big>[[Ps.121.1 I Lift Up My Eyes to the Hills|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My help [cometh] from the LORD, which made heaven and earth.
 <small><sub>**BSB:**</sub></small>
 My help comes from the LORD, the Maker of heaven and earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H5828\|עֶ֭זְרִ]][[H9020\|י]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H6213H\|עֹ֝שֵׂ֗ה]] [[H8064\|שָׁמַ֥יִם]] [[H9002\|וָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.121.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.1|<< Psalms 121:1]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.3|Psalms 121:3 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonathan and David Renew Their Covenant
+type: Pericope
 pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 20
 book/chapter: "[[1Sam.20|1 Samuel 20]]"
-genre:
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 20
 verses:
 - "[[1Sam.20.10]]"
 - "[[1Sam.20.11]]"
@@ -38,7 +45,7 @@ verses:
 - "[[1Sam.20.29]]"
 ---
 
-[[1Sam.20|1 Samuel 20:10 - 1 Samuel 20:29]]
+<small>[[1Sam.20|1 Samuel 20:10-29]]</small>
 *Jonathan and David Renew Their Covenant*
 
 [[1Sam.20.10|10]] Then said David to Jonathan, Who shall tell me? or what \[if\] thy father answer thee roughly?

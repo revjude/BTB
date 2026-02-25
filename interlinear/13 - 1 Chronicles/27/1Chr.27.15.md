@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 27:15
+type: Verse
+kjv: "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand."
+bsb: "The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division."
+hebrew: "הַשְּׁנֵ֤ים עָשָׂר֙ לִשְׁנֵ֣ים עָשָׂ֣ר הַחֹ֔דֶשׁ חֶלְדַּ֥י הַנְּטוֹפָתִ֖י לְעָתְנִיאֵ֑ל וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃ פ"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HELDAI|HELDAI]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9009]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H2469H]]"
+- "[[H5200]]"
+- "[[H6274]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H4256]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:15**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The twelfth [captain] for the twelfth month [was] Heldai the Netophathite, of Othniel: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8147\|שְּׁנֵ֤ים]] [[H6240\|עָשָׂר֙]] [[H9005\|לִ]][[H8147\|שְׁנֵ֣ים]] [[H6240\|עָשָׂ֣ר]] [[H9009\|הַ]][[H2320G\|חֹ֔דֶשׁ]] [[H2469H\|חֶלְדַּ֥י]] [[H9009\|הַ]][[H5200\|נְּטוֹפָתִ֖י]] [[H9005\|לְ]][[H6274\|עָתְנִיאֵ֑ל]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4256\|מַחֲלֻקְתּ֔]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HELDAI|HELDAI]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.14|<< 1 Chronicles 27:14]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.16|1 Chronicles 27:16 >>]]</td></tr></table>
 
@@ -20,7 +71,7 @@ The twelfth, for the twelfth month, was Heldai the Netophathite, from the family
 | division his  |**<big>&#8207;[[H4256\|מַחֲלֻקְתּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ma.cha.luk.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.14|<< 1 Chronicles 27:14]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.16|1 Chronicles 27:16 >>]]</td></tr></table>
 
 

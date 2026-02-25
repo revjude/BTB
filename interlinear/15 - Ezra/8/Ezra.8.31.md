@@ -1,8 +1,72 @@
+---
+title: Ezra 8:31
+type: Verse
+kjv: "Then we departed from the river of Ahava on the twelfth day of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way."
+bsb: "On the twelfth day of the first month we set out from the Ahava Canal to go to Jerusalem, and the hand of our God was upon us to protect us from the hands of the enemies and bandits along the way."
+hebrew: "וַֽנִּסְעָ֞ה מִנְּהַ֣ר אַֽהֲוָ֗א בִּשְׁנֵ֤ים עָשָׂר֙ לַחֹ֣דֶשׁ הָרִאשׁ֔וֹן לָלֶ֖כֶת יְרוּשָׁלִָ֑ם וְיַד־ אֱלֹהֵ֙ינוּ֙ הָיְתָ֣ה עָלֵ֔ינוּ וַיַּ֨צִּילֵ֔נוּ מִכַּ֥ף אוֹיֵ֛ב וְאוֹרֵ֖ב עַל־ הַדָּֽרֶךְ׃"
+pericope: "[[Ezra.8.24 Priests to Guard the Offerings|Priests to Guard the Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AHAVA|AHAVA]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9012]]"
+- "[[H9006]]"
+- "[[H5104H]]"
+- "[[H0163]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H1980G]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H5337]]"
+- "[[H3709G]]"
+- "[[H0341]]"
+- "[[H0693]]"
+- "[[H1870L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:31**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then we departed from the river of Ahava on the twelfth [day] of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.
 <small><sub>**BSB:**</sub></small>
 On the twelfth day of the first month we set out from the Ahava Canal to go to Jerusalem, and the hand of our God was upon us to protect us from the hands of the enemies and bandits along the way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5265\|נִּסְעָ֞]][[H9012\|ה]] [[H9006\|מִ]][[H5104H\|נְּהַ֣ר]] [[H0163\|אַֽהֲוָ֗א]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֤ים]] [[H6240\|עָשָׂר֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֔וֹן]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3027H\|יַד]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H1961\|הָיְתָ֣ה]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9001\|וַ]][[H5337\|יַּ֨צִּילֵ֔]][[H9035\|נוּ]] [[H9006\|מִ]][[H3709G\|כַּ֥ף]] [[H0341\|אוֹיֵ֛ב]] [[H9002\|וְ]][[H0693\|אוֹרֵ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1870L\|דָּֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAVA|AHAVA]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.30|<< Ezra 8:30]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.32|Ezra 8:32 >>]]</td></tr></table>
 

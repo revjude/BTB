@@ -1,8 +1,60 @@
+---
+title: Isaiah 13:19
+type: Verse
+kjv: "And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah."
+bsb: "And Babylon, the jewel of the kingdoms, the glory of the pride of the Chaldeans, will be overthrown by God like Sodom and Gomorrah."
+hebrew: "וְהָיְתָ֤ה בָבֶל֙ צְבִ֣י מַמְלָכ֔וֹת תִּפְאֶ֖רֶת גְּא֣וֹן כַּשְׂדִּ֑ים כְּמַהְפֵּכַ֣ת אֱלֹהִ֔ים אֶת־ סְדֹ֖ם וְאֶת־ עֲמֹרָֽה׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0894]]"
+- "[[H6643A]]"
+- "[[H4467]]"
+- "[[H8597]]"
+- "[[H1347]]"
+- "[[H3778]]"
+- "[[H9004]]"
+- "[[H4114]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:19**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Babylon, the glory of kingdoms, the beauty of the Chaldees’ excellency, shall be as when God overthrew Sodom and Gomorrah.
 <small><sub>**BSB:**</sub></small>
 And Babylon, the jewel of the kingdoms, the glory of the pride of the Chaldeans, will be overthrown by God like Sodom and Gomorrah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H0894\|בָבֶל֙]] [[H6643A\|צְבִ֣י]] [[H4467\|מַמְלָכ֔וֹת]] [[H8597\|תִּפְאֶ֖רֶת]] [[H1347\|גְּא֣וֹן]] [[H3778\|כַּשְׂדִּ֑ים]] [[H9004\|כְּ]][[H4114\|מַהְפֵּכַ֣ת]] [[H0430G\|אֱלֹהִ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5467\|סְדֹ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6017\|עֲמֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic GOMORRAH|GOMORRAH]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.18|<< Isaiah 13:18]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.20|Isaiah 13:20 >>]]</td></tr></table>
 

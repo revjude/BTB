@@ -1,8 +1,55 @@
+---
+title: 2 Samuel 13:38
+type: Verse
+kjv: "So Absalom fled, and went to Geshur, and was there three years."
+bsb: "After Absalom had fled and gone to Geshur, he stayed there three years."
+hebrew: "וְאַבְשָׁל֥וֹם בָּרַ֖ח וַיֵּ֣לֶךְ גְּשׁ֑וּר וַיְהִי־ שָׁ֖ם שָׁלֹ֥שׁ שָׁנִֽים׃"
+pericope: "[[2Sam.13.34 Absalom Flees to Geshur|Absalom Flees to Geshur]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0053]]"
+- "[[H1272]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H1650]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:38**<big><big>[[2Sam.13.34 Absalom Flees to Geshur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Absalom fled, and went to Geshur, and was there three years.
 <small><sub>**BSB:**</sub></small>
 After Absalom had fled and gone to Geshur, he stayed there three years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0053\|אַבְשָׁל֥וֹם]] [[H1272\|בָּרַ֖ח]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H1650\|גְּשׁ֑וּר]] [[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H7969\|שָׁלֹ֥שׁ]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic FUGITIVES|FUGITIVES]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.37|<< 2 Samuel 13:37]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.39|2 Samuel 13:39 >>]]</td></tr></table>
 

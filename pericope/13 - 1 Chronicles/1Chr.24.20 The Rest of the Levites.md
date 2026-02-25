@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rest of the Levites
+type: Pericope
 pericope: "[[1Chr.24.20 The Rest of the Levites|The Rest of the Levites]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 24
 book/chapter: "[[1Chr.24|1 Chronicles 24]]"
-genre:
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 12
 verses:
 - "[[1Chr.24.20]]"
 - "[[1Chr.24.21]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Chr.24.31]]"
 ---
 
-[[1Chr.24|1 Chronicles 24:20 - 1 Chronicles 24:31]]
+<small>[[1Chr.24|1 Chronicles 24:20-31]]</small>
 *The Rest of the Levites*
 
 [[1Chr.24.20|20]] And the rest of the sons of Levi \[were these\]: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.

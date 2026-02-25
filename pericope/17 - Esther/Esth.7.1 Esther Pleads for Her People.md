@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esther Pleads for Her People
+type: Pericope
 pericope: "[[Esth.7.1 Esther Pleads for Her People|Esther Pleads for Her People]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 7
 book/chapter: "[[Esth.7|Esther 7]]"
-genre:
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 6
 verses:
 - "[[Esth.7.1]]"
 - "[[Esth.7.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Esth.7.6]]"
 ---
 
-[[Esth.7|Esther 7:1 - Esther 7:6]]
+<small>[[Esth.7|Esther 7:1-6]]</small>
 *Esther Pleads for Her People*
 
 [[Esth.7.1|1]] So the king and Haman came to banquet with Esther the queen.

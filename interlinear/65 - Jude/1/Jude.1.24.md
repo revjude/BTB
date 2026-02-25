@@ -1,10 +1,50 @@
+---
+title: Jude 1:24
+type: Verse
+kjv: "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,"
+bsb: "Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy—"
+greek: "Τῷ δὲ δυναμένῳ φυλάξαι ὑμᾶς ἀπταίστους καὶ στῆσαι κατενώπιον τῆς δόξης αὐτοῦ ἀμώμους ἐν ἀγαλλιάσει,"
+pericope: "[[Jude.1.24 Doxology|Doxology]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1410]]"
+- "[[G5442I]]"
+- "[[G4771]]"
+- "[[G0679]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G2714]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G0299]]"
+- "[[G1722]]"
+- "[[G0020]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Jude 1:24**<big><big>[[Jude.1.24 Doxology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now unto him that is able to keep you from falling, and to present [you] faultless before the presence of his glory with exceeding joy,
 <small><sub>**BSB:**</sub></small>
 Now to Him who is able to keep you from stumbling and to present you unblemished in His glorious presence, with great joy—
-<small><sub>**Literal:**</sub></small>
-To Him now being able to keep you from stumbling and to present [you] in the presence of the glory of Him blameless with exultation —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.23|<< Jude 1:23]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.25|Jude 1:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῷ]]  [[G1161\|δὲ]]  [[G1410\|δυναμένῳ]]  [[G5442I\|φυλάξαι]]  [[G4771\|ὑμᾶς]]  [[G0679\|ἀπταίστους]]  [[G2532\|καὶ]]  [[G2476\|στῆσαι]]  [[G2714\|κατενώπιον]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G0846\|αὐτοῦ]]  [[G0299\|ἀμώμους]]  [[G1722\|ἐν]]  [[G0020\|ἀγαλλιάσει,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.23|<< Jude 1:23]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.25|Jude 1:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 19:43
+type: Verse
+kjv: "And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel."
+bsb: "“We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?” But the men of Judah spoke more fiercely than the men of Israel."
+hebrew: "וַיַּ֣עַן אִֽישׁ־ יִשְׂרָאֵל֩ אֶת־ אִ֨ישׁ יְהוּדָ֜ה וַיֹּ֗אמֶר עֶֽשֶׂר־ יָד֨וֹת לִ֣י בַמֶּלֶךְ֮ וְגַם־ בְּדָוִד֮ אֲנִ֣י מִמְּךָ֒ וּמַדּ֙וּעַ֙ הֱקִלֹּתַ֔נִי וְלֹא־ הָיָ֨ה דְבָרִ֥י רִאשׁ֛וֹן לִ֖י לְהָשִׁ֣יב אֶת־ מַלְכִּ֑י וַיִּ֙קֶשׁ֙ דְּבַר־ אִ֣ישׁ יְהוּדָ֔ה מִדְּבַ֖ר אִ֥ישׁ יִשְׂרָאֵֽל׃ ס"
+pericope: "[[2Sam.19.41 Contention over the King|Contention over the King]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H6235]]"
+- "[[H3027L]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H1732]]"
+- "[[H0589]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H4069]]"
+- "[[H7043]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H7223G]]"
+- "[[H7725G]]"
+- "[[H7185]]"
+- "[[H9006]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 19:43**<big><big>[[2Sam.19.41 Contention over the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more [right] in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
 <small><sub>**BSB:**</sub></small>
 “We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?” But the men of Judah spoke more fiercely than the men of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֣עַן]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H3063G\|יְהוּדָ֜ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H6235\|עֶֽשֶׂר]][[H9014\|־]] [[H3027L\|יָד֨וֹת]] [[H9005\|לִ֣]][[H9030\|י]] [[H9003\|בַ]][[H4428G\|מֶּלֶךְ֮]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בְּ]][[H1732\|דָוִד֮]] [[H0589\|אֲנִ֣י]] [[H4480A\|מִמְּ]][[H9031\|ךָ֒]] [[H9002\|וּ]][[H4069\|מַדּ֙וּעַ֙]] [[H7043\|הֱקִלֹּתַ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H1697G\|דְבָרִ֥]][[H9020\|י]] [[H7223G\|רִאשׁ֛וֹן]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H7725G\|הָשִׁ֣יב]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכִּ֑]][[H9020\|י]] [[H9001\|וַ]][[H7185\|יִּ֙קֶשׁ֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9006\|מִ]][[H1697G\|דְּבַ֖ר]] [[H0376G\|אִ֥ישׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FLATTERY|FLATTERY]] • [[topic GILGAL|GILGAL]] • [[topic ISRAEL|ISRAEL]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JUDAH|JUDAH]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.42|<< 2 Samuel 19:42]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.1|2 Samuel 20:1 >>]]</td></tr></table>
 
@@ -39,7 +110,7 @@ And the men of Israel answered the men of Judah, and said, We have ten parts in 
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than [the] word of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1697G\|דְּבַ֖ר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.42|<< 2 Samuel 19:42]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.1|2 Samuel 20:1 >>]]</td></tr></table>
 
 

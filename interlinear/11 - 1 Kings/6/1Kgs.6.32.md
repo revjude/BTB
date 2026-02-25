@@ -1,8 +1,69 @@
+---
+title: 1 Kings 6:32
+type: Verse
+kjv: "The two doors also were of olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid them with gold, and spread gold upon the cherubims, and upon the palm trees."
+bsb: "The double doors were made of olive wood, and he carved into them cherubim, palm trees, and open flowers and overlaid the cherubim and palm trees with hammered gold."
+hebrew: "וּשְׁתֵּי֮ דַּלְת֣וֹת עֲצֵי־ שֶׁמֶן֒ וְקָלַ֣ע עֲ֠לֵיהֶם מִקְלְע֨וֹת כְּרוּבִ֧ים וְתִמֹר֛וֹת וּפְטוּרֵ֥י צִצִּ֖ים וְצִפָּ֣ה זָהָ֑ב וַיָּ֛רֶד עַל־ הַכְּרוּבִ֥ים וְעַל־ הַתִּֽמֹר֖וֹת אֶת־ הַזָּהָֽב׃"
+pericope: "[[1Kgs.6.31 The Doors|The Doors]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic DOOR|DOOR]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H1817C]]"
+- "[[H6086G]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H9001]]"
+- "[[H7049B]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H4734]]"
+- "[[H3742]]"
+- "[[H8561]]"
+- "[[H6362]]"
+- "[[H6731A]]"
+- "[[H6823]]"
+- "[[H2091]]"
+- "[[H7286]]"
+- "[[H9009]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:32**<big><big>[[1Kgs.6.31 The Doors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two doors also [were of] olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid [them] with gold, and spread gold upon the cherubims, and upon the palm trees.
 <small><sub>**BSB:**</sub></small>
 The double doors were made of olive wood, and he carved into them cherubim, palm trees, and open flowers and overlaid the cherubim and palm trees with hammered gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתֵּי֮]] [[H1817C\|דַּלְת֣וֹת]] [[H6086G\|עֲצֵי]][[H9014\|־]] [[H8081\|שֶׁמֶן֒]] [[H9001\|וְ]][[H7049B\|קָלַ֣ע]] [[H5921A\|עֲ֠לֵי]][[H9038\|הֶם]] [[H4734\|מִקְלְע֨וֹת]] [[H3742\|כְּרוּבִ֧ים]] [[H9002\|וְ]][[H8561\|תִמֹר֛וֹת]] [[H9002\|וּ]][[H6362\|פְטוּרֵ֥י]] [[H6731A\|צִצִּ֖ים]] [[H9001\|וְ]][[H6823\|צִפָּ֣ה]] [[H2091\|זָהָ֑ב]] [[H9001\|וַ]][[H7286\|יָּ֛רֶד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֥ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8561\|תִּֽמֹר֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic CHERUBIM|CHERUBIM]] • [[topic DOOR|DOOR]] • [[topic GOLD|GOLD]] • [[topic OLIVE|OLIVE]] • [[topic PALM TREE|PALM TREE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.31|<< 1 Kings 6:31]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.33|1 Kings 6:33 >>]]</td></tr></table>
 

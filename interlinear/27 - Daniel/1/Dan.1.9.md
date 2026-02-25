@@ -1,8 +1,65 @@
+---
+title: Daniel 1:9
+type: Verse
+kjv: "Now God had brought Daniel into favour and tender love with the prince of the eunuchs."
+bsb: "Now God had granted Daniel favor and compassion from the chief official,"
+hebrew: "וַיִּתֵּ֤ן הָֽאֱלֹהִים֙ אֶת־ דָּ֣נִיֵּ֔אל לְחֶ֖סֶד וּֽלְרַחֲמִ֑ים לִפְנֵ֖י שַׂ֥ר הַסָּרִיסִֽים׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1840G]]"
+- "[[H9005]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H7356B]]"
+- "[[H6440L]]"
+- "[[H8269]]"
+- "[[H5631]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:9**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
 <small><sub>**BSB:**</sub></small>
 Now God had granted Daniel favor and compassion from the chief official,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1840G\|דָּ֣נִיֵּ֔אל]] [[H9005\|לְ]][[H2617A\|חֶ֖סֶד]] [[H9002\|וּֽ]][[H9005\|לְ]][[H7356B\|רַחֲמִ֑ים]] [[H9005\|לִ]][[H6440L\|פְנֵ֖י]] [[H8269\|שַׂ֥ר]] [[H9009\|הַ]][[H5631\|סָּרִיסִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic BLESSING|BLESSING]] • [[topic DANIEL|DANIEL]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.8|<< Daniel 1:8]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.10|Daniel 1:10 >>]]</td></tr></table>
 

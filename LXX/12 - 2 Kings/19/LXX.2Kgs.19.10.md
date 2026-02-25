@@ -1,6 +1,60 @@
+---
+title: LXX 2 Kings 19:10
+type: Verse
+lxx: "Thus shall you say to Hezekiah king of Judah, Let not your God deceive you in whom you rely upon him, saying, In no way should Jerusalem be delivered up into the hands of the king of the Assyrians."
+greek: "τάδε ερείτε προς Εζεκίαν βασιλέα Ιούδα μη σε απατάτω ο θεός σου ω συ πέποιθας επ΄ αυτώ λέγων ου μη παραδοθή Ιερουσαλήμ εις χείρας βασιλέως Ασσυρίων"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[G3592]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G1478]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G3361]]"
+- "[[G1473]]"
+- "[[G0538]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G3982]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G3364]]"
+- "[[G3860]]"
+- "[[G2419]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G0935]]"
+- "[[H0804]]"
+---
+
 **LXX 2 Kings 19:10** 
 <small><sub>**LXX:**</sub></small>
 Thus shall you say to Hezekiah king of Judah, Let not your God deceive you in whom you rely upon him, saying, In no way should Jerusalem be delivered up into \[the\] hands of \[the\] king of \[the\] Assyrians. 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G2046\|ερείτε]] [[G4314\|προς]] [[G1478\|Εζεκίαν]] [[G0935\|βασιλέα]] [[G2448\|Ιούδα]] [[G3361\|μη]] [[G1473\|σε]] [[G0538\|απατάτω]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G3739\|ω]] [[G1473\|συ]] [[G3982\|πέποιθας]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G3004\|λέγων]] [[G3364\|ου μη]] [[G3860\|παραδοθή]] [[G2419\|Ιερουσαλήμ]] [[G1519\|εις]] [[G5495\|χείρας]] [[G0935\|βασιλέως]] [[H0804\|Ασσυρίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.9|<< 2 Kings 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.11|2 Kings 19:11 >>]]</td></tr></table>
 
@@ -29,6 +83,6 @@ Thus shall you say to Hezekiah king of Judah, Let not your God deceive you in wh
 | \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
 | of \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
 | of \[the\] Assyrians. | **<big>[[H0804\|Ασσυρίων]]</big>** |
-[[2Kgs.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.9|<< 2 Kings 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.11|2 Kings 19:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.9|<< 2 Kings 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.11|2 Kings 19:11 >>]]</td></tr></table>
 
 

@@ -1,8 +1,60 @@
+---
+title: Esther 2:22
+type: Verse
+kjv: "And the thing was known to Mordecai, who told it unto Esther the queen; and Esther certified the king thereof in Mordecai’s name."
+bsb: "When Mordecai learned of the plot, he reported it to Queen Esther, and she informed the king on Mordecai’s behalf."
+hebrew: "וַיִּוָּדַ֤ע הַדָּבָר֙ לְמָרְדֳּכַ֔י וַיַּגֵּ֖ד לְאֶסְתֵּ֣ר הַמַּלְכָּ֑ה וַתֹּ֧אמֶר אֶסְתֵּ֛ר לַמֶּ֖לֶךְ בְּשֵׁ֥ם מָרְדֳּכָֽי׃"
+pericope: "[[Esth.2.21 Mordecai Uncovers a Conspiracy|Mordecai Uncovers a Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BIGTHAN|BIGTHAN]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ESTHER|ESTHER]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic TERESH|TERESH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H9005]]"
+- "[[H4782H]]"
+- "[[H5046]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:22**<big><big>[[Esth.2.21 Mordecai Uncovers a Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thing was known to Mordecai, who told [it] unto Esther the queen; and Esther certified the king [thereof] in Mordecai’s name.
 <small><sub>**BSB:**</sub></small>
 When Mordecai learned of the plot, he reported it to Queen Esther, and she informed the king on Mordecai’s behalf.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3045\|יִּוָּדַ֤ע]] [[H9009\|הַ]][[H1697I\|דָּבָר֙]] [[H9005\|לְ]][[H4782H\|מָרְדֳּכַ֔י]] [[H9001\|וַ]][[H5046\|יַּגֵּ֖ד]] [[H9005\|לְ]][[H0635\|אֶסְתֵּ֣ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֑ה]] [[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H0635\|אֶסְתֵּ֛ר]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H4782H\|מָרְדֳּכָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGTHAN|BIGTHAN]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ESTHER|ESTHER]] • [[topic LOYALTY|LOYALTY]] • [[topic MORDECAI|MORDECAI]] • [[topic TERESH|TERESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.21|<< Esther 2:21]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.23|Esther 2:23 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Genesis 36:2
+type: Verse
+kjv: "Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;"
+bsb: "Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,"
+hebrew: "עֵשָׂ֛ו לָקַ֥ח אֶת־ נָשָׁ֖יו מִבְּנ֣וֹת כְּנָ֑עַן אֶת־ עָדָ֗ה בַּת־ אֵילוֹן֙ הַֽחִתִּ֔י וְאֶת־ אָהֳלִֽיבָמָה֙ בַּת־ עֲנָ֔ה בַּת־ צִבְע֖וֹן הַֽחִוִּֽי׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANAH|ANAH]]"
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic ELON|ELON]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic JUDITH|JUDITH]]"
+- "[[topic ZIBEON|ZIBEON]]"
+strongs:
+- "[[H6215G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H3667A]]"
+- "[[H5711H]]"
+- "[[H0356G]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H9002]]"
+- "[[H0173]]"
+- "[[H6034]]"
+- "[[H6649G]]"
+- "[[H2340]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:2**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
 <small><sub>**BSB:**</sub></small>
 Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,
+<small><sub>**Hebrew:**</sub></small>
+[[H6215G\|עֵשָׂ֛ו]] [[H3947G\|לָקַ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|נָשָׁ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H1323G\|בְּנ֣וֹת]] [[H3667A\|כְּנָ֑עַן]] [[H0853\|אֶת]][[H9014\|־]] [[H5711H\|עָדָ֗ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H0356G\|אֵילוֹן֙]] [[H9009\|הַֽ]][[H2850\|חִתִּ֔י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0173\|אָהֳלִֽיבָמָה֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H6034\|עֲנָ֔ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H6649G\|צִבְע֖וֹן]] [[H9009\|הַֽ]][[H2340\|חִוִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAH|ANAH]] • [[topic DAUGHTER|DAUGHTER]] • [[topic ELON|ELON]] • [[topic ESAU|ESAU]] • [[topic HITTITES|HITTITES]] • [[topic HIVITES|HIVITES]] • [[topic ISHMAEL|ISHMAEL]] • [[topic JUDITH|JUDITH]] • [[topic ZIBEON|ZIBEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.1|<< Genesis 36:1]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.3|Genesis 36:3 >>]]</td></tr></table>
 

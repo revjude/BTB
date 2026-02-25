@@ -1,8 +1,69 @@
+---
+title: Exodus 10:16
+type: Verse
+kjv: "Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you."
+bsb: "Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the LORD your God and against you."
+hebrew: "וַיְמַהֵ֣ר פַּרְעֹ֔ה לִקְרֹ֖א לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֑ן וַיֹּ֗אמֶר חָטָ֛אתִי לַיהוָ֥ה אֱלֹֽהֵיכֶ֖ם וְלָכֶֽם׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H6547J]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0559]]"
+- "[[H2398]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:16**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.
 <small><sub>**BSB:**</sub></small>
 Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the LORD your God and against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|יְמַהֵ֣ר]] [[H6547J\|פַּרְעֹ֔ה]] [[H9005\|לִ]][[H7121G\|קְרֹ֖א]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֣ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0175\|אַהֲרֹ֑ן]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2398\|חָטָ֛אתִי]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic CONVICTION|CONVICTION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.15|<< Exodus 10:15]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.17|Exodus 10:17 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Lamentations 1:13
+type: Verse
+kjv: "From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day."
+bsb: "He sent fire from on high, and it overpowered my bones. He spread a net for my feet and turned me back. He made me desolate, faint all the day long."
+hebrew: "מִמָּר֛וֹם שָֽׁלַח־ אֵ֥שׁ בְּעַצְמֹתַ֖י וַיִּרְדֶּ֑נָּה פָּרַ֨שׂ רֶ֤שֶׁת לְרַגְלַי֙ הֱשִׁיבַ֣נִי אָח֔וֹר נְתָנַ֙נִי֙ שֹֽׁמֵמָ֔ה כָּל־ הַיּ֖וֹם דָּוָֽה׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7287A]]"
+- "[[H9034]]"
+- "[[H6566]]"
+- "[[H7568]]"
+- "[[H9005]]"
+- "[[H7272]]"
+- "[[H7725G]]"
+- "[[H9030]]"
+- "[[H0268]]"
+- "[[H5414I]]"
+- "[[H8076]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1739]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:13**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate [and] faint all the day.
 <small><sub>**BSB:**</sub></small>
 He sent fire from on high, and it overpowered my bones. He spread a net for my feet and turned me back. He made me desolate, faint all the day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H4791\|מָּר֛וֹם]] [[H7971G\|שָֽׁלַח]][[H9014\|־]] [[H0784\|אֵ֥שׁ]] [[H9003\|בְּ]][[H6106G\|עַצְמֹתַ֖]][[H9020\|י]] [[H9001\|וַ]][[H7287A\|יִּרְדֶּ֑]][[H9034\|נָּה]] [[H6566\|פָּרַ֨שׂ]] [[H7568\|רֶ֤שֶׁת]] [[H9005\|לְ]][[H7272\|רַגְלַ]][[H9020\|י֙]] [[H7725G\|הֱשִׁיבַ֣]][[H9030\|נִי]] [[H0268\|אָח֔וֹר]] [[H5414I\|נְתָנַ֙]][[H9030\|נִי֙]] [[H8076\|שֹֽׁמֵמָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H1739\|דָּוָֽה]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
@@ -22,7 +76,7 @@ He sent fire from on high, and it overpowered my bones. He spread a net for my f
 | desolate  |**<big>&#8207;[[H8076\|שֹֽׁמֵמָ֔ה]]&#8207; </big>**| sho.me.Mah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faint  |**<big>&#8207;[[H1739\|דָּוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faint  |**<big>&#8207;[[H1739\|דָּוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
 

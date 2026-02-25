@@ -1,8 +1,48 @@
+---
+title: Nehemiah 11:27
+type: Verse
+kjv: "And at Hazarshual, and at Beersheba, and in the villages thereof,"
+bsb: "in Hazar-shual; in Beersheba and its villages;"
+hebrew: "וּבַחֲצַ֥ר שׁוּעָ֛ל וּבִבְאֵ֥ר שֶׁ֖בַע וּבְנֹתֶֽיהָ׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HAZAR-SHUAL|HAZAR-SHUAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2705]]"
+- "[[H0884]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:27**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at Hazarshual, and at Beersheba, and [in] the villages thereof,
 <small><sub>**BSB:**</sub></small>
 in Hazar-shual; in Beersheba and its villages;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2705\|חֲצַ֥ר]] [[H2705\|שׁוּעָ֛ל]] [[H9002\|וּ]][[H9003\|בִ]][[H0884\|בְאֵ֥ר]] [[H0884\|שֶׁ֖בַע]] [[H9002\|וּ]][[H1323H\|בְנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAZAR-SHUAL|HAZAR-SHUAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.26|<< Nehemiah 11:26]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.28|Nehemiah 11:28 >>]]</td></tr></table>
 

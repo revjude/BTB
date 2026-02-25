@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 12:37
+type: Verse
+kjv: "And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand."
+bsb: "And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war."
+hebrew: "וּמֵעֵ֣בֶר לַ֠יַּרְדֵּן מִן־ הָראוּבֵנִ֨י וְהַגָּדִ֜י וַחֲצִ֣י׀ שֵׁ֣בֶט מְנַשֶּׁ֗ה בְּכֹל֙ כְּלֵי֙ צְבָ֣א מִלְחָמָ֔ה מֵאָ֥ה וְעֶשְׂרִ֖ים אָֽלֶף׃"
+pericope: "[[1Chr.12.23 David’s Army Grows at Hebron|David’s Army Grows at Hebron]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GAD|GAD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3383]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7206]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H9015]]"
+- "[[H7626G]]"
+- "[[H4519G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H6635H]]"
+- "[[H4421]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:37**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.
 <small><sub>**BSB:**</sub></small>
 And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H5676H\|עֵ֣בֶר]] [[H9005\|לַ֠]][[H3383\|יַּרְדֵּן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7206\|ראוּבֵנִ֨י]] [[H9002\|וְ]][[H9009\|הַ]][[H1425\|גָּדִ֜י]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]][[H9015\|׀]] [[H7626G\|שֵׁ֣בֶט]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H3627\|כְּלֵי֙]] [[H6635H\|צְבָ֣א]] [[H4421\|מִלְחָמָ֔ה]] [[H3967\|מֵאָ֥ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֖ים]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GAD|GAD]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.36|<< 1 Chronicles 12:36]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.38|1 Chronicles 12:38 >>]]</td></tr></table>
 

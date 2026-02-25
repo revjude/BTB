@@ -1,8 +1,53 @@
+---
+title: Proverbs 18:21
+type: Verse
+kjv: "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof."
+bsb: "Life and death are in the power of the tongue, and those who love it will eat its fruit."
+hebrew: "מָ֣וֶת וְ֭חַיִּים בְּיַד־ לָשׁ֑וֹן וְ֝אֹהֲבֶ֗יהָ יֹאכַ֥ל פִּרְיָֽהּ׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H4194]]"
+- "[[H9002]]"
+- "[[H2416E]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3956G]]"
+- "[[H0157G]]"
+- "[[H9034]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:21**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Death and life [are] in the power of the tongue: and they that love it shall eat the fruit thereof.
 <small><sub>**BSB:**</sub></small>
 Life and death are in the power of the tongue, and those who love it will eat its fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H4194\|מָ֣וֶת]] [[H9002\|וְ֭]][[H2416E\|חַיִּים]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H3956G\|לָשׁ֑וֹן]] [[H9002\|וְ֝]][[H0157G\|אֹהֲבֶ֗י]][[H9034\|הָ]] [[H0398\|יֹאכַ֥ל]] [[H6529\|פִּרְיָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.20|<< Proverbs 18:20]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.22|Proverbs 18:22 >>]]</td></tr></table>
 

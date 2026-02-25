@@ -1,10 +1,55 @@
+---
+title: 1 Thessalonians 4:8
+type: Verse
+kjv: "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit."
+bsb: "Anyone, then, who rejects this command does not reject man but God, the very One who gives you His Holy Spirit."
+greek: "τοιγαροῦν ὁ ἀθετῶν οὐκ ἄνθρωπον ἀθετεῖ ἀλλὰ τὸν θεὸν τὸν καὶ διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς.¶"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+strongs:
+- "[[G5105]]"
+- "[[G3588]]"
+- "[[G0114]]"
+- "[[G3756]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4151G]]"
+- "[[G0846]]"
+- "[[G0040G]]"
+- "[[G1519]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Thessalonians 4:8**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.
 <small><sub>**BSB:**</sub></small>
 Anyone, then, who rejects this command does not reject man but God, the very One who gives you His Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-So then the [one] rejecting [this] not man disregards but <the> God the [One] also giving the Spirit of Him <the> Holy to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.7|<< 1 Thessalonians 4:7]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.9|1 Thessalonians 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5105\|τοιγαροῦν]]  [[G3588\|ὁ]]  [[G0114\|ἀθετῶν]]  [[G3756\|οὐκ]]  [[G0444\|ἄνθρωπον]]  [[G0114\|ἀθετεῖ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3588\|τὸν]]  [[G2532\|καὶ]]  [[G1325\|διδόντα]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.7|<< 1 Thessalonians 4:7]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.9|1 Thessalonians 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

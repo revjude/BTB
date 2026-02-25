@@ -1,8 +1,68 @@
+---
+title: 1 Kings 2:17
+type: Verse
+kjv: "And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife."
+bsb: "Adonijah replied, “Please speak to King Solomon, since he will not turn you down. Let him give me Abishag the Shunammite as my wife.”"
+hebrew: "וַיֹּ֗אמֶר אִמְרִי־ נָא֙ לִשְׁלֹמֹ֣ה הַמֶּ֔לֶךְ כִּ֥י לֹֽא־ יָשִׁ֖יב אֶת־ פָּנָ֑יִךְ וְיִתֶּן־ לִ֛י אֶת־ אֲבִישַׁ֥ג הַשּׁוּנַמִּ֖ית לְאִשָּֽׁה׃"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7725L]]"
+- "[[H0853]]"
+- "[[H6440G]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H0049]]"
+- "[[H7767]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:17**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife.
 <small><sub>**BSB:**</sub></small>
 Adonijah replied, “Please speak to King Solomon, since he will not turn you down. Let him give me Abishag the Shunammite as my wife.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0559\|אִמְרִי]][[H9014\|־]] [[H4994\|נָא֙]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3588A\|כִּ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725L\|יָשִׁ֖יב]] [[H0853\|אֶת]][[H9014\|־]] [[H6440G\|פָּנָ֑יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H0049\|אֲבִישַׁ֥ג]] [[H9009\|הַ]][[H7767\|שּׁוּנַמִּ֖ית]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic ADONIJAH|ADONIJAH]] • [[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SHUNAMMITE|SHUNAMMITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.16|<< 1 Kings 2:16]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.18|1 Kings 2:18 >>]]</td></tr></table>
 

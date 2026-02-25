@@ -1,8 +1,75 @@
+---
+title: Isaiah 63:9
+type: Verse
+kjv: "In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old."
+bsb: "In all their distress, He too was afflicted, and the Angel of His Presence saved them. In His love and compassion He redeemed them; He lifted them up and carried them all the days of old."
+hebrew: "בְּֽכָל־ צָרָתָ֣ם׀ ל֣וֹ צָ֗ר וּמַלְאַ֤ךְ פָּנָיו֙ הֽוֹשִׁיעָ֔ם בְּאַהֲבָת֥וֹ וּבְחֶמְלָת֖וֹ ה֣וּא גְאָלָ֑ם וַֽיְנַטְּלֵ֥ם וַֽיְנַשְּׂאֵ֖ם כָּל־ יְמֵ֥י עוֹלָֽם׃"
+pericope: "[[Isa.63.7 God’s Mercies Recalled|God’s Mercies Recalled]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PITY|PITY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6869B]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6862B]]"
+- "[[H9002]]"
+- "[[H4397H]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H3467]]"
+- "[[H9038]]"
+- "[[H0160]]"
+- "[[H2551]]"
+- "[[H1931]]"
+- "[[H1350A]]"
+- "[[H9001]]"
+- "[[H5190]]"
+- "[[H5375H]]"
+- "[[H3117G]]"
+- "[[H5769J]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 63:9**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
 <small><sub>**BSB:**</sub></small>
 In all their distress, He too was afflicted, and the Angel of His Presence saved them. In His love and compassion He redeemed them; He lifted them up and carried them all the days of old.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ]][[H3605\|כָל]][[H9014\|־]] [[H6869B\|צָרָתָ֣]][[H9028\|ם]][[H9015\|׀]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H6862B\|צָ֗ר]] [[H9002\|וּ]][[H4397H\|מַלְאַ֤ךְ]] [[H6440H\|פָּנָי]][[H9023\|ו֙]] [[H3467\|הֽוֹשִׁיעָ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H0160\|אַהֲבָת֥]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H2551\|חֶמְלָת֖]][[H9023\|וֹ]] [[H1931\|ה֣וּא]] [[H1350A\|גְאָלָ֑]][[H9038\|ם]] [[H9001\|וַֽ]][[H5190\|יְנַטְּלֵ֥]][[H9038\|ם]] [[H9001\|וַֽ]][[H5375H\|יְנַשְּׂאֵ֖]][[H9038\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֥י]] [[H5769J\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PITY|PITY]] • [[topic SALVATION|SALVATION]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.8|<< Isaiah 63:8]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.10|Isaiah 63:10 >>]]</td></tr></table>
 

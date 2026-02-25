@@ -1,10 +1,60 @@
+---
+title: Revelation 16:1
+type: Verse
+kjv: "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth."
+bsb: "Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out on the earth the seven bowls of God’s wrath.”"
+greek: "Καὶ ἤκουσα μεγάλης φωνῆς ἐκ τοῦ ναοῦ λεγούσης τοῖς ἑπτὰ ἀγγέλοις· ὑπάγετε καὶ ἐκχέετε τὰς ἑπτὰ φιάλας τοῦ θυμοῦ τοῦ θεοῦ εἰς τὴν γῆν.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3173]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G3004G]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G5217]]"
+- "[[G1632]]"
+- "[[G5357]]"
+- "[[G2372]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Revelation 16:1**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out on the earth the seven bowls of God’s wrath.”
-<small><sub>**Literal:**</sub></small>
-And I heard [a] loud voice from the temple saying to the seven angels; do go and do pour out the seven bowls of the wrath <the> of God into the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.8|<< Revelation 15:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.2|Revelation 16:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G3173\|μεγάλης]]  [[G5456G\|φωνῆς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G3004G\|λεγούσης]]  [[G3588\|τοῖς]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἀγγέλοις·]]  [[G5217\|ὑπάγετε]]  [[G2532\|καὶ]]  [[G1632\|ἐκχέετε]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G5357\|φιάλας]]  [[G3588\|τοῦ]]  [[G2372\|θυμοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.8|<< Revelation 15:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.2|Revelation 16:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

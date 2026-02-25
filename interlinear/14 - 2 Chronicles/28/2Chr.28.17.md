@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 28:17
+type: Verse
+kjv: "For again the Edomites had come and smitten Judah, and carried away captives."
+bsb: "The Edomites had again come and attacked Judah and carried away captives."
+hebrew: "וְע֥וֹד אֲדוֹמִ֖ים בָּ֑אוּ וַיַּכּ֥וּ בִיהוּדָ֖ה וַיִּשְׁבּוּ־ שֶֽׁבִי׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H0130]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H7617]]"
+- "[[H9014]]"
+- "[[H7628A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:17**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For again the Edomites had come and smitten Judah, and carried away captives.
 <small><sub>**BSB:**</sub></small>
 The Edomites had again come and attacked Judah and carried away captives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5750\|ע֥וֹד]] [[H0130\|אֲדוֹמִ֖ים]] [[H0935G\|בָּ֑אוּ]] [[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H9003\|בִ]][[H3063G\|יהוּדָ֖ה]] [[H9001\|וַ]][[H7617\|יִּשְׁבּוּ]][[H9014\|־]] [[H7628A\|שֶֽׁבִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.16|<< 2 Chronicles 28:16]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.18|2 Chronicles 28:18 >>]]</td></tr></table>
 

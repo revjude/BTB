@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 7:13
+type: Verse
+kjv: "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel."
+bsb: "So the Philistines were subdued, and they stopped invading the territory of Israel. And the hand of the LORD was against the Philistines all the days of Samuel."
+hebrew: "וַיִּכָּֽנְעוּ֙ הַפְּלִשְׁתִּ֔ים וְלֹא־ יָסְפ֣וּ ע֔וֹד לָב֖וֹא בִּגְב֣וּל יִשְׂרָאֵ֑ל וַתְּהִ֤י יַד־ יְהוָה֙ בַּפְּלִשְׁתִּ֔ים כֹּ֖ל יְמֵ֥י שְׁמוּאֵֽל׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H8050G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:13**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.
 <small><sub>**BSB:**</sub></small>
 So the Philistines were subdued, and they stopped invading the territory of Israel. And the hand of the LORD was against the Philistines all the days of Samuel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3665\|יִּכָּֽנְעוּ֙]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|יָסְפ֣וּ]] [[H5750\|ע֔וֹד]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H9003\|בִּ]][[H1366H\|גְב֣וּל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּ֔ים]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֥י]] [[H8050G\|שְׁמוּאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.12|<< 1 Samuel 7:12]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.14|1 Samuel 7:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

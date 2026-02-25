@@ -1,10 +1,65 @@
+---
+title: John 19:20
+type: Verse
+kjv: "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, and Greek, and Latin."
+bsb: "Many of the Jews read this sign, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek."
+greek: "τοῦτον οὖν τὸν τίτλον πολλοὶ ἀνέγνωσαν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν ὁ τόπος τῆς πόλεως ὅπου ἐσταυρώθη ὁ Ἰησοῦς· καὶ ἦν γεγραμμένον Ἑβραϊστί, Ῥωμαϊστί, Ἑλληνιστί.¶"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic LATIN|LATIN]]"
+strongs:
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5102]]"
+- "[[G4183]]"
+- "[[G0314]]"
+- "[[G2453]]"
+- "[[G3754H]]"
+- "[[G1451]]"
+- "[[G1510]]"
+- "[[G5117]]"
+- "[[G4172]]"
+- "[[G3699]]"
+- "[[G4717]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G1125]]"
+- "[[G1447]]"
+- "[[G4515]]"
+- "[[G1676]]"
+texts:
+- NKO
+---
+
 **John 19:20**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, [and] Greek, [and] Latin.
 <small><sub>**BSB:**</sub></small>
 Many of the Jews read this sign, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek.
-<small><sub>**Literal:**</sub></small>
-This therefore the title many read of the Jews, for near was the place of the city where was crucified <the> Jesus; and it was written in Hebrew, in Latin, in Greek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.19|<< John 19:19]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.21|John 19:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G5102\|τίτλον]]  [[G4183\|πολλοὶ]]  [[G0314\|ἀνέγνωσαν]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G3754H\|ὅτι]]  [[G1451\|ἐγγὺς]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G5117\|τόπος]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G3699\|ὅπου]]  [[G4717\|ἐσταυρώθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1125\|γεγραμμένον]]  [[G1447\|Ἑβραϊστί,]]  [[G4515\|Ῥωμαϊστί,]]  [[G1676\|Ἑλληνιστί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEBREW|HEBREW]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LANGUAGE|LANGUAGE]] • [[topic LATIN|LATIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.19|<< John 19:19]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.21|John 19:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

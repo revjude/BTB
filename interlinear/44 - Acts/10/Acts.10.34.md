@@ -1,10 +1,56 @@
+---
+title: Acts 10:34
+type: Verse
+kjv: "Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:"
+bsb: "Then Peter began to speak: “I now truly understand that God does not show favoritism,"
+greek: "Ἀνοίξας δὲ Πέτρος τὸ στόμα εἶπεν· ἐπ᾽ ἀληθείας καταλαμβάνομαι ὅτι οὐκ ἔστιν προσωπολήμπτης ὁ θεός,"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+strongs:
+- "[[G0455]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G2036]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G2638]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4381]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 10:34**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter opened [his] mouth, and said, Of a truth I perceive that God is no respecter of persons:
 <small><sub>**BSB:**</sub></small>
 Then Peter began to speak: “I now truly understand that God does not show favoritism,
-<small><sub>**Literal:**</sub></small>
-Having opened then Peter the mouth he said; Of a truth I grasped that not is One who shows partiality <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.33|<< Acts 10:33]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.35|Acts 10:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0455\|Ἀνοίξας]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G2036\|εἶπεν·]]  [[G1909\|ἐπ᾽]]  [[G0225\|ἀληθείας]]  [[G2638\|καταλαμβάνομαι]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G4381\|προσωπολήμπτης]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic GOD|GOD]] • [[topic RELIGION|RELIGION]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.33|<< Acts 10:33]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.35|Acts 10:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 10:34** is...
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]

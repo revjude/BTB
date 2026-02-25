@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 21:13
+type: Verse
+kjv: "But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house, which were better than thyself:"
+bsb: "but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you."
+hebrew: "וַתֵּ֗לֶךְ בְּדֶ֙רֶךְ֙ מַלְכֵ֣י יִשְׂרָאֵ֔ל וַתַּזְנֶ֤ה אֶת־ יְהוּדָה֙ וְאֶת־ יֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם כְּהַזְנ֖וֹת בֵּ֣ית אַחְאָ֑ב וְגַ֨ם אֶת־ אַחֶ֧יךָ בֵית־ אָבִ֛יךָ הַטּוֹבִ֥ים מִמְּךָ֖ הָרָֽגְתָּ׃"
+pericope: "[[2Chr.21.12 Elijah’s Letter to Jehoram|Elijah’s Letter to Jehoram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JEHORAM|JEHORAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H2181]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9004]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H1571]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:13**<big><big>[[2Chr.21.12 Elijah’s Letter to Jehoram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house, [which were] better than thyself:
 <small><sub>**BSB:**</sub></small>
 but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|תֵּ֗לֶךְ]] [[H9003\|בְּ]][[H1870G\|דֶ֙רֶךְ֙]] [[H4428G\|מַלְכֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H2181\|תַּזְנֶ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H9004\|כְּ]][[H2181\|הַזְנ֖וֹת]] [[H1004M\|בֵּ֣ית]] [[H0256G\|אַחְאָ֑ב]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אַחֶ֧י]][[H9021\|ךָ]] [[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֛י]][[H9021\|ךָ]] [[H9009\|הַ]][[H2896A\|טּוֹבִ֥ים]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H2026\|הָרָֽגְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DISEASE|DISEASE]] • [[topic ELIJAH|ELIJAH]] • [[topic JEHORAM|JEHORAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.12|<< 2 Chronicles 21:12]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.14|2 Chronicles 21:14 >>]]</td></tr></table>
 

@@ -1,8 +1,84 @@
+---
+title: Daniel 3:29
+type: Verse
+kjv: "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
+bsb: "Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.”"
+aramaic: "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ דִּי֩ כָל־ עַ֨ם אֻמָּ֜ה וְלִשָּׁ֗ן דִּֽי־ יֵאמַ֤ר שָׁלוּ֙ עַ֣ל אֱלָהֲה֗וֹן דִּֽי־ שַׁדְרַ֤ךְ מֵישַׁךְ֙ וַעֲבֵ֣ד נְג֔וֹא הַדָּמִ֣ין יִתְעֲבֵ֔ד וּבַיְתֵ֖הּ נְוָלִ֣י יִשְׁתַּוֵּ֑ה כָּל־ קֳבֵ֗ל דִּ֣י לָ֤א אִיתַי֙ אֱלָ֣ה אָחֳרָ֔ן דִּֽי־ יִכֻּ֥ל לְהַצָּלָ֖ה כִּדְנָֽה׃"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MISHAEL|MISHAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H5972]]"
+- "[[H0524]]"
+- "[[H3961]]"
+- "[[H0560]]"
+- "[[H7955]]"
+- "[[H7960]]"
+- "[[H5922]]"
+- "[[H0426]]"
+- "[[H9028]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H5665]]"
+- "[[H1917]]"
+- "[[H5648]]"
+- "[[H1005]]"
+- "[[H9023]]"
+- "[[H5122]]"
+- "[[H7739B]]"
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H6903H]]"
+- "[[H3809]]"
+- "[[H0383]]"
+- "[[H0321]]"
+- "[[H3202]]"
+- "[[H5338]]"
+- "[[H1836]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 3:29**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.
 <small><sub>**BSB:**</sub></small>
 Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H9030\|נִּי֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H1768\|דִּי֩]] [[H3606\|כָל]][[H9014\|־]] [[H5972\|עַ֨ם]] [[H0524\|אֻמָּ֜ה]] [[H9002\|וְ]][[H3961\|לִשָּׁ֗ן]] [[H1768\|דִּֽי]][[H9014\|־]] [[H0560\|יֵאמַ֤ר]] [[H7960\|שָׁלוּ֙]] [[H5922\|עַ֣ל]] [[H0426\|אֱלָהֲ]][[H9028\|ה֗וֹן]] [[H1768\|דִּֽי]][[H9014\|־]] [[H7715\|שַׁדְרַ֤ךְ]] [[H4336\|מֵישַׁךְ֙]] [[H9002\|וַ]][[H5665\|עֲבֵ֣ד]] [[H5665\|נְג֔וֹא]] [[H1917\|הַדָּמִ֣ין]] [[H5648\|יִתְעֲבֵ֔ד]] [[H9002\|וּ]][[H1005\|בַיְתֵ֖]][[H9023\|הּ]] [[H5122\|נְוָלִ֣י]] [[H7739B\|יִשְׁתַּוֵּ֑ה]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֗ל]] [[H1768\|דִּ֣י]] [[H3809\|לָ֤א]] [[H0383\|אִיתַי֙]] [[H0426\|אֱלָ֣ה]] [[H0321\|אָחֳרָ֔ן]] [[H1768\|דִּֽי]][[H9014\|־]] [[H3202\|יִכֻּ֥ל]] [[H9005\|לְ]][[H5338\|הַצָּלָ֖ה]] [[H9004\|כִּ]][[H1836\|דְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic MESHACH|MESHACH]] • [[topic MIRACLES|MIRACLES]] • [[topic MISHAEL|MISHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 

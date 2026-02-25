@@ -1,10 +1,64 @@
+---
+title: Luke 1:78
+type: Verse
+kjv: "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,"
+bsb: "because of the tender mercy of our God, by which the Dawn will visit us from on high,"
+greek: "διὰ σπλάγχνα ἐλέους θεοῦ ἡμῶν ἐν οἷς ἐπισκέψεται ἡμᾶς ἀνατολὴ ἐξ ὕψους,"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1223]]"
+- "[[G4698]]"
+- "[[G1656]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1980]]"
+- "[[G0395]]"
+- "[[G1537]]"
+- "[[G5311]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:78**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Through the tender mercy of our God; whereby the dayspring from on high hath visited us,
 <small><sub>**BSB:**</sub></small>
 because of the tender mercy of our God, by which the Dawn will visit us from on high,
-<small><sub>**Literal:**</sub></small>
-through [the] affections of compassion of God of us in which will visit us [the] Sunrise from on high,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.77|<< Luke 1:77]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.79|Luke 1:79 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G4698\|σπλάγχνα]]  [[G1656\|ἐλέους]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G1980\|ἐπισκέψεται]]  [[G3165\|ἡμᾶς]]  [[G0395\|ἀνατολὴ]]  [[G1537\|ἐξ]]  [[G5311\|ὕψους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WISDOM|WISDOM]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.77|<< Luke 1:77]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.79|Luke 1:79 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 1:78** is...
 > $\quad$ alluding to: [[LXX.Num.24.17|Num 24:17]] ☩ [[LXX.Mal.4.2|Mal 4:2]]

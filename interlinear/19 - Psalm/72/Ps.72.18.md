@@ -1,8 +1,57 @@
+---
+title: Psalm 72:18
+type: Verse
+kjv: "Blessed be the LORD God, the God of Israel, who only doeth wondrous things."
+bsb: "Blessed be the LORD God, the God of Israel, who alone does marvelous deeds."
+hebrew: "בָּר֤וּךְ׀ יְהוָ֣ה אֱ֭לֹהִים אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עֹשֵׂ֖ה נִפְלָא֣וֹת לְבַדּֽוֹ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H1288]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H6213A]]"
+- "[[H6381]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:18**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God, the God of Israel, who only doeth wondrous things.
 <small><sub>**BSB:**</sub></small>
 Blessed be the LORD God, the God of Israel, who alone does marvelous deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּר֤וּךְ]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱ֭לֹהִים]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6213A\|עֹשֵׂ֖ה]] [[H6381\|נִפְלָא֣וֹת]] [[H9005\|לְ]][[H0905H\|בַדּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.17|<< Psalms 72:17]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.19|Psalms 72:19 >>]]</td></tr></table>
 

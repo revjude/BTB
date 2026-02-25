@@ -1,10 +1,60 @@
+---
+title: Mark 4:27
+type: Verse
+kjv: "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
+bsb: "Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how."
+jesus_said: "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
+greek: "καὶ καθεύδῃ καὶ ἐγείρηται νύκτα καὶ ἡμέραν, καὶ ὁ σπόρος βλαστᾷ καὶ μηκύνηται ὡς οὐκ οἶδεν αὐτός."
+pericope: "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2518]]"
+- "[[G1453]]"
+- "[[G3571]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G4703]]"
+- "[[G0985]]"
+- "[[G3373]]"
+- "[[G5613]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Mark 4:27**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.
 <small><sub>**BSB:**</sub></small>
 Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how.
-<small><sub>**Literal:**</sub></small>
-and he may sleep and he may be risen night and day, and the seed may sprout and it may grow how not knows he himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.26|<< Mark 4:26]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.28|Mark 4:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2518\|καθεύδῃ]]  [[G2532\|καὶ]]  [[G1453\|ἐγείρηται]]  [[G3571\|νύκτα]]  [[G2532\|καὶ]]  [[G2250\|ἡμέραν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4703\|σπόρος]]  [[G0985\|βλαστᾷ]]  [[G2532\|καὶ]]  [[G3373\|μηκύνηται]]  [[G5613\|ὡς]]  [[G3756\|οὐκ]]  [[G6063\|οἶδεν]]  [[G0846\|αὐτός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic REGENERATION|REGENERATION]] • [[topic SERMON|SERMON]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.26|<< Mark 4:26]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.28|Mark 4:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

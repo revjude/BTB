@@ -1,10 +1,50 @@
+---
+title: Romans 11:16
+type: Verse
+kjv: "For if the firstfruit be holy, the lump is also holy: and if the root be holy, so are the branches."
+bsb: "If the first part of the dough is holy, so is the whole batch; if the root is holy, so are the branches."
+greek: "εἰ δὲ ἡ ἀπαρχὴ ἁγία, καὶ τὸ φύραμα· καὶ εἰ ἡ ῥίζα ἁγία, καὶ οἱ κλάδοι."
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0536]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G5445]]"
+- "[[G4491]]"
+- "[[G2798]]"
+texts:
+- NKO
+---
+
 **Romans 11:16**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if the firstfruit [be] holy, the lump [is] also [holy]: and if the root [be] holy, so [are] the branches.
 <small><sub>**BSB:**</sub></small>
 If the first part of the dough is holy, so is the whole batch; if the root is holy, so are the branches.
-<small><sub>**Literal:**</sub></small>
-If now the firstfruit [is] holy, also the lump; and if the root [is] holy, also the branches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.15|<< Romans 11:15]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.17|Romans 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G0536\|ἀπαρχὴ]]  [[G0040G\|ἁγία,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5445\|φύραμα·]]  [[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G3588\|ἡ]]  [[G4491\|ῥίζα]]  [[G0040G\|ἁγία,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2798\|κλάδοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic HOLINESS|HOLINESS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.15|<< Romans 11:15]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.17|Romans 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

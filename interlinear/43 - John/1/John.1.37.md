@@ -1,10 +1,50 @@
+---
+title: John 1:37
+type: Verse
+kjv: "And the two disciples heard him speak, and they followed Jesus."
+bsb: "And when the two disciples heard him say this, they followed Jesus."
+greek: "καὶ ἤκουσαν οἱ δύο μαθηταὶ αὐτοῦ λαλοῦντος καὶ ἠκολούθησαν τῷ Ἰησοῦ.¶"
+pericope: "[[John.1.35 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G0190]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **John 1:37**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the two disciples heard him speak, and they followed Jesus.
 <small><sub>**BSB:**</sub></small>
 And when the two disciples heard him say this, they followed Jesus.
-<small><sub>**Literal:**</sub></small>
-And heard the two disciples of Him [Him] speaking and they followed <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.36|<< John 1:36]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.38|John 1:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσαν]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθησαν]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.36|<< John 1:36]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.38|John 1:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

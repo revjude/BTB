@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 32:5
+type: Verse
+kjv: "Also he strengthened himself, and built up all the wall that was broken, and raised it up to the towers, and another wall without, and repaired Millo in the city of David, and made darts and shields in abundance."
+bsb: "Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces of the City of David, and he produced an abundance of weapons and shields."
+hebrew: "וַיִּתְחַזַּ֡ק וַיִּבֶן֩ אֶת־ כָּל־ הַחוֹמָ֨ה הַפְּרוּצָ֜ה וַיַּ֣עַל עַל־ הַמִּגְדָּל֗וֹת וְלַח֙וּצָה֙ הַחוֹמָ֣ה אַחֶ֔רֶת וַיְחַזֵּ֥ק אֶת־ הַמִּלּ֖וֹא עִ֣יר דָּוִ֑יד וַיַּ֥עַשׂ שֶׁ֛לַח לָרֹ֖ב וּמָגִנִּֽים׃"
+pericope: "[[2Chr.32.1 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MILLO|MILLO]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388K]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H6555]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H4026M]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H0312]]"
+- "[[H4407]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H6213H]]"
+- "[[H7973]]"
+- "[[H7230]]"
+- "[[H4043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:5**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he strengthened himself, and built up all the wall that was broken, and raised [it] up to the towers, and another wall without, and repaired Millo [in] the city of David, and made darts and shields in abundance.
 <small><sub>**BSB:**</sub></small>
 Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it. He also built an outer wall and reinforced the supporting terraces of the City of David, and he produced an abundance of weapons and shields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388K\|יִּתְחַזַּ֡ק]] [[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חוֹמָ֨ה]] [[H9009\|הַ]][[H6555\|פְּרוּצָ֜ה]] [[H9001\|וַ]][[H5927H\|יַּ֣עַל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4026M\|מִּגְדָּל֗וֹת]] [[H9002\|וְ]][[H9005\|לַ]][[H2351\|ח֙וּצָ]][[H9011\|ה֙]] [[H9009\|הַ]][[H2346G\|חוֹמָ֣ה]] [[H0312\|אַחֶ֔רֶת]] [[H9001\|וַ]][[H2388K\|יְחַזֵּ֥ק]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4407\|מִּלּ֖וֹא]] [[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H7973\|שֶׁ֛לַח]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H9002\|וּ]][[H4043\|מָגִנִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MILLO|MILLO]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SHIELD|SHIELD]] • [[topic SIEGE|SIEGE]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.4|<< 2 Chronicles 32:4]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.6|2 Chronicles 32:6 >>]]</td></tr></table>
 

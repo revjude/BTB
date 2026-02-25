@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lawsuits among Believers
+type: Pericope
 pericope: "[[1Cor.6.1 Lawsuits among Believers|Lawsuits among Believers]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 6
 book/chapter: "[[1Cor.6|1 Corinthians 6]]"
-genre:
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.6.1]]"
 - "[[1Cor.6.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.6.8]]"
 ---
 
-[[1Cor.6|1 Corinthians 6:1 - 1 Corinthians 6:8]]
+<small>[[1Cor.6|1 Corinthians 6:1-8]]</small>
 *Lawsuits among Believers*
 
 [[1Cor.6.1|1]] Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?

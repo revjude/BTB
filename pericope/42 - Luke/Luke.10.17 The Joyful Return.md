@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Joyful Return
+type: Pericope
 pericope: "[[Luke.10.17 The Joyful Return|The Joyful Return]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.10.17]]"
 - "[[Luke.10.18]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.10.20]]"
 ---
 
-[[Luke.10|Luke 10:17 - Luke 10:20]]
+<small>[[Luke.10|Luke 10:17-20]]</small>
 *The Joyful Return*
 
 [[Luke.10.17|17]] And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.

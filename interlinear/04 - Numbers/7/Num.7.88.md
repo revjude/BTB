@@ -1,8 +1,69 @@
+---
+title: Numbers 7:88
+type: Verse
+kjv: "And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed."
+bsb: "All the livestock sacrificed for the peace offering totaled twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed."
+hebrew: "וְכֹ֞ל בְּקַ֣ר׀ זֶ֣בַח הַשְּׁלָמִ֗ים עֶשְׂרִ֣ים וְאַרְבָּעָה֮ פָּרִים֒ אֵילִ֤ם שִׁשִּׁים֙ עַתֻּדִ֣ים שִׁשִּׁ֔ים כְּבָשִׂ֥ים בְּנֵי־ שָׁנָ֖ה שִׁשִּׁ֑ים זֹ֚את חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ אַחֲרֵ֖י הִמָּשַׁ֥ח אֹתֽוֹ׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1241]]"
+- "[[H9015]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H8346]]"
+- "[[H6260]]"
+- "[[H3532]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H2063]]"
+- "[[H2598]]"
+- "[[H4196]]"
+- "[[H0310A]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:88**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the oxen for the sacrifice of the peace offerings [were] twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This [was] the dedication of the altar, after that it was anointed.
 <small><sub>**BSB:**</sub></small>
 All the livestock sacrificed for the peace offering totaled twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֞ל]] [[H1241\|בְּקַ֣ר]][[H9015\|׀]] [[H2077\|זֶ֣בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֗ים]] [[H6242\|עֶשְׂרִ֣ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָה֮]] [[H6499\|פָּרִים֒]] [[H0352A\|אֵילִ֤ם]] [[H8346\|שִׁשִּׁים֙]] [[H6260\|עַתֻּדִ֣ים]] [[H8346\|שִׁשִּׁ֔ים]] [[H3532\|כְּבָשִׂ֥ים]] [[H1121H\|בְּנֵי]][[H9014\|־]] [[H8141\|שָׁנָ֖ה]] [[H8346\|שִׁשִּׁ֑ים]] [[H2063\|זֹ֚את]] [[H2598\|חֲנֻכַּ֣ת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H0310A\|אַחֲרֵ֖י]] [[H4886\|הִמָּשַׁ֥ח]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.88|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
 

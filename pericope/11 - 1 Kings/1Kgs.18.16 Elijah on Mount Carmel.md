@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah on Mount Carmel
+type: Pericope
 pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 18
 book/chapter: "[[1Kgs.18|1 Kings 18]]"
-genre:
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 20
 verses:
 - "[[1Kgs.18.16]]"
 - "[[1Kgs.18.17]]"
@@ -40,7 +47,7 @@ verses:
 - "[[1Kgs.18.35]]"
 ---
 
-[[1Kgs.18|1 Kings 18:16 - 1 Kings 18:35]]
+<small>[[1Kgs.18|1 Kings 18:16-35]]</small>
 *Elijah on Mount Carmel*
 
 [[1Kgs.18.16|16]] So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.

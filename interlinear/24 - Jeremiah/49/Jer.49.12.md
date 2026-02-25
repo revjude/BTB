@@ -1,8 +1,64 @@
+---
+title: Jeremiah 49:12
+type: Verse
+kjv: "For thus saith the LORD; Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink of it."
+bsb: "For this is what the LORD says: “If those who do not deserve to drink the cup must drink it, can you possibly remain unpunished? You will not go unpunished, for you must drink it too."
+hebrew: "כִּי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה הִ֠נֵּה אֲשֶׁר־ אֵ֨ין מִשְׁפָּטָ֜ם לִשְׁתּ֤וֹת הַכּוֹס֙ שָׁת֣וֹ יִשְׁתּ֔וּ וְאַתָּ֣ה ה֔וּא נָקֹ֖ה תִּנָּקֶ֑ה לֹ֣א תִנָּקֶ֔ה כִּ֥י שָׁתֹ֖ה תִּשְׁתֶּֽה׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H4941H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H9009]]"
+- "[[H3563A]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1931]]"
+- "[[H5352]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:12**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD; Behold, they whose judgment [was] not to drink of the cup have assuredly drunken; and [art] thou he [that] shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink [of it].
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “If those who do not deserve to drink the cup must drink it, can you possibly remain unpunished? You will not go unpunished, for you must drink it too.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2009\|הִ֠נֵּה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0369\|אֵ֨ין]] [[H4941H\|מִשְׁפָּטָ֜]][[H9028\|ם]] [[H9005\|לִ]][[H8354\|שְׁתּ֤וֹת]] [[H9009\|הַ]][[H3563A\|כּוֹס֙]] [[H8354\|שָׁת֣וֹ]] [[H8354\|יִשְׁתּ֔וּ]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1931\|ה֔וּא]] [[H5352\|נָקֹ֖ה]] [[H5352\|תִּנָּקֶ֑ה]] [[H3808\|לֹ֣א]] [[H5352\|תִנָּקֶ֔ה]] [[H3588A\|כִּ֥י]] [[H8354\|שָׁתֹ֖ה]] [[H8354\|תִּשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 

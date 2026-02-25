@@ -1,8 +1,55 @@
+---
+title: Genesis 49:16
+type: Verse
+kjv: "Dan shall judge his people, as one of the tribes of Israel."
+bsb: "Dan shall provide justice for his people as one of the tribes of Israel."
+hebrew: "דָּ֖ן יָדִ֣ין עַמּ֑וֹ כְּאַחַ֖ד שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DAN|DAN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H1835H]]"
+- "[[H1777]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:16**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan shall judge his people, as one of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 Dan shall provide justice for his people as one of the tribes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1835H\|דָּ֖ן]] [[H1777\|יָדִ֣ין]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9004\|כְּ]][[H0259\|אַחַ֖ד]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]] • [[topic DEATH|DEATH]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.15|<< Genesis 49:15]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.17|Genesis 49:17 >>]]</td></tr></table>
 

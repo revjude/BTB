@@ -1,8 +1,57 @@
+---
+title: Jeremiah 50:33
+type: Verse
+kjv: "Thus saith the LORD of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go."
+bsb: "This is what the LORD of Hosts says: “The sons of Israel are oppressed, and the sons of Judah as well. All their captors hold them fast, refusing to release them."
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת עֲשׁוּקִ֛ים בְּנֵי־ יִשְׂרָאֵ֥ל וּבְנֵי־ יְהוּדָ֖ה יַחְדָּ֑ו וְכָל־ שֹֽׁבֵיהֶם֙ הֶחֱזִ֣יקוּ בָ֔ם מֵאֲנ֖וּ שַׁלְּחָֽם׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6231]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H3162B]]"
+- "[[H3605]]"
+- "[[H7617]]"
+- "[[H9038]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H3985]]"
+- "[[H7971H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:33**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; The children of Israel and the children of Judah [were] oppressed together: and all that took them captives held them fast; they refused to let them go.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “The sons of Israel are oppressed, and the sons of Judah as well. All their captors hold them fast, refusing to release them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H6231\|עֲשׁוּקִ֛ים]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H3162B\|יַחְדָּ֑ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7617\|שֹֽׁבֵי]][[H9038\|הֶם֙]] [[H2388H\|הֶחֱזִ֣יקוּ]] [[H9003\|בָ֔]][[H9038\|ם]] [[H3985\|מֵאֲנ֖וּ]] [[H7971H\|שַׁלְּחָֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.32|<< Jeremiah 50:32]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.34|Jeremiah 50:34 >>]]</td></tr></table>
 

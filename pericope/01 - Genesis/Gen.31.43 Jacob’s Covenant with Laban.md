@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob’s Covenant with Laban
+type: Pericope
 pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 31
 book/chapter: "[[Gen.31|Genesis 31]]"
-genre:
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.31.43]]"
 - "[[Gen.31.44]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.31.55]]"
 ---
 
-[[Gen.31|Genesis 31:43 - Genesis 31:55]]
+<small>[[Gen.31|Genesis 31:43-55]]</small>
 *Jacob’s Covenant with Laban*
 
 [[Gen.31.43|43]] And Laban answered and said unto Jacob, \[These\] daughters \[are\] my daughters, and \[these\] children \[are\] my children, and \[these\] cattle \[are\] my cattle, and all that thou seest \[is\] mine: and what can I do this day unto these my daughters, or unto their children which they have born?

@@ -1,8 +1,65 @@
+---
+title: Psalm 43:1
+type: Verse
+kjv: "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+bsb: "Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men."
+hebrew: "שָׁפְטֵ֤נִי אֱלֹהִ֨ים׀ וְרִ֘יבָ֤ה רִיבִ֗י מִגּ֥וֹי לֹא־ חָסִ֑יד מֵ֤אִישׁ־ מִרְמָ֖ה וְעַוְלָ֣ה תְפַלְּטֵֽנִי׃"
+pericope: "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 43
+book/chapter: "[[Ps.43|Psalm 43]]"
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+strongs:
+- "[[H8199]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7378]]"
+- "[[H9012]]"
+- "[[H7379]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2623]]"
+- "[[H0376G]]"
+- "[[H4820]]"
+- "[[H5766B]]"
+- "[[H6403]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 43:1**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 <small><sub>**BSB:**</sub></small>
 Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men.
+<small><sub>**Hebrew:**</sub></small>
+[[H8199\|שָׁפְטֵ֤]][[H9030\|נִי]] [[H0430G\|אֱלֹהִ֨ים]][[H9015\|׀]] [[H9002\|וְ]][[H7378\|רִ֘יבָ֤]][[H9012\|ה]] [[H7379\|רִיבִ֗]][[H9020\|י]] [[H9006\|מִ]][[H1471A\|גּ֥וֹי]] [[H3808\|לֹא]][[H9014\|־]] [[H2623\|חָסִ֑יד]] [[H9006\|מֵ֤]][[H0376G\|אִישׁ]][[H9014\|־]] [[H4820\|מִרְמָ֖ה]] [[H9002\|וְ]][[H5766B\|עַוְלָ֣ה]] [[H6403\|תְפַלְּטֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DECEIT|DECEIT]] • [[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.11|<< Psalms 42:11]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.2|Psalms 43:2 >>]]</td></tr></table>
 

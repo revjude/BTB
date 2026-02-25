@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 8:10
+type: Verse
+kjv: "When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee."
+bsb: "When you eat and are satisfied, you are to bless the LORD your God for the good land that He has given you."
+hebrew: "וְאָכַלְתָּ֖ וְשָׂבָ֑עְתָּ וּבֵֽרַכְתָּ֙ אֶת־ יְהוָ֣ה אֱלֹהֶ֔יךָ עַל־ הָאָ֥רֶץ הַטֹּבָ֖ה אֲשֶׁ֥ר נָֽתַן־ לָֽךְ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H7646]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:10**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.
 <small><sub>**BSB:**</sub></small>
 When you eat and are satisfied, you are to bless the LORD your God for the good land that He has given you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָכַלְתָּ֖]] [[H9001\|וְ]][[H7646\|שָׂבָ֑עְתָּ]] [[H9001\|וּ]][[H1288\|בֵֽרַכְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2896A\|טֹּבָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.9|<< Deuteronomy 8:9]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.11|Deuteronomy 8:11 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Psalm 74:21
+type: Verse
+kjv: "O let not the oppressed return ashamed: let the poor and needy praise thy name."
+bsb: "Do not let the oppressed retreat in shame; may the poor and needy praise Your name."
+hebrew: "אַל־ יָשֹׁ֣ב דַּ֣ךְ נִכְלָ֑ם עָנִ֥י וְ֝אֶבְי֗וֹן יְֽהַלְל֥וּ שְׁמֶֽךָ׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H1790]]"
+- "[[H3637]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H1984B]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:21**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O let not the oppressed return ashamed: let the poor and needy praise thy name.
 <small><sub>**BSB:**</sub></small>
 Do not let the oppressed retreat in shame; may the poor and needy praise Your name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7725I\|יָשֹׁ֣ב]] [[H1790\|דַּ֣ךְ]] [[H3637\|נִכְלָ֑ם]] [[H6041\|עָנִ֥י]] [[H9002\|וְ֝]][[H0034\|אֶבְי֗וֹן]] [[H1984B\|יְֽהַלְל֥וּ]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FOOL|FOOL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.20|<< Psalms 74:20]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.22|Psalms 74:22 >>]]</td></tr></table>
 

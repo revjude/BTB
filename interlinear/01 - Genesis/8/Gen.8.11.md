@@ -1,8 +1,71 @@
+---
+title: Genesis 8:11
+type: Verse
+kjv: "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
+bsb: "And behold, the dove returned to him in the evening with a freshly plucked olive leaf in her beak. So Noah knew that the waters had receded from the earth."
+hebrew: "וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־ זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־ קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃"
+pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic OLIVE|OLIVE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3123]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H6153]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5929]]"
+- "[[H9014]]"
+- "[[H2132H]]"
+- "[[H2965]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H3045]]"
+- "[[H5146]]"
+- "[[H3588A]]"
+- "[[H7043]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:11**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the dove came in to him in the evening; and, lo, in her mouth [was] an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
 <small><sub>**BSB:**</sub></small>
 And behold, the dove returned to him in the evening with a freshly plucked olive leaf in her beak. So Noah knew that the waters had receded from the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹ֨א]] [[H0413\|אֵלָ֤י]][[H9033\|ו]] [[H9009\|הַ]][[H3123\|יּוֹנָה֙]] [[H9005\|לְ]][[H6256\|עֵ֣ת]] [[H6153\|עֶ֔רֶב]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H5929\|עֲלֵה]][[H9014\|־]] [[H2132H\|זַ֖יִת]] [[H2965\|טָרָ֣ף]] [[H9003\|בְּ]][[H6310G\|פִ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H3045\|יֵּ֣דַע]] [[H5146\|נֹ֔חַ]] [[H3588A\|כִּי]][[H9014\|־]] [[H7043\|קַ֥לּוּ]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic OLIVE|OLIVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.10|<< Genesis 8:10]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.12|Genesis 8:12 >>]]</td></tr></table>
 

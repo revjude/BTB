@@ -1,10 +1,61 @@
+---
+title: Matthew 14:30
+type: Verse
+kjv: "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+bsb: "But when he saw the strength of the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”"
+greek: "βλέπων δὲ τὸν ἄνεμον ἰσχυρὸν ἐφοβήθη, καὶ ἀρξάμενος καταποντίζεσθαι ἔκραξεν λέγων· κύριε, σῶσόν με.¶"
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[G0991]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0417]]"
+- "[[G2478]]"
+- "[[G5399]]"
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G2670]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G4982]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 14:30**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
 <small><sub>**BSB:**</sub></small>
 But when he saw the strength of the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”
-<small><sub>**Literal:**</sub></small>
-Seeing now the wind charging he was afraid, and having begun to sink he cried out saying; Lord, do save me!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.29|<< Matthew 14:29]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.31|Matthew 14:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπων]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G0417\|ἄνεμον]]  [[G2478\|ἰσχυρὸν]]  [[G5399\|ἐφοβήθη,]]  [[G2532\|καὶ]]  [[G0757\|ἀρξάμενος]]  [[G2670\|καταποντίζεσθαι]]  [[G2896\|ἔκραξεν]]  [[G3004G\|λέγων·]]  [[G2962G\|κύριε,]]  [[G4982\|σῶσόν]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SEA|SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.29|<< Matthew 14:29]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.31|Matthew 14:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

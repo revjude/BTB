@@ -1,8 +1,84 @@
+---
+title: 2 Kings 10:23
+type: Verse
+kjv: "And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only."
+bsb: "Next, Jehu and Jehonadab son of Rechab entered the temple of Baal, and Jehu said to the servants of Baal, “Look around to see that there are no servants of the LORD here among you—only servants of Baal.”"
+hebrew: "וַיָּבֹ֥א יֵה֛וּא וִיהוֹנָדָ֥ב בֶּן־ רֵכָ֖ב בֵּ֣ית הַבָּ֑עַל וַיֹּ֜אמֶר לְעֹבְדֵ֣י הַבַּ֗עַל חַפְּשׂ֤וּ וּרְאוּ֙ פֶּן־ יֶשׁ־ פֹּ֤ה עִמָּכֶם֙ מֵעַבְדֵ֣י יְהוָ֔ה כִּ֛י אִם־ עֹבְדֵ֥י הַבַּ֖עַל לְבַדָּֽם׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3058H]]"
+- "[[H9002]]"
+- "[[H3082G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7394H]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H2664]]"
+- "[[H7200G]]"
+- "[[H6435]]"
+- "[[H3426]]"
+- "[[H6311]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0905H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:23**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only.
 <small><sub>**BSB:**</sub></small>
 Next, Jehu and Jehonadab son of Rechab entered the temple of Baal, and Jehu said to the servants of Baal, “Look around to see that there are no servants of the LORD here among you—only servants of Baal.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H3058H\|יֵה֛וּא]] [[H9002\|וִ]][[H3082G\|יהוֹנָדָ֥ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵכָ֖ב]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H1168A\|בָּ֑עַל]] [[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H9005\|לְ]][[H5647H\|עֹבְדֵ֣י]] [[H9009\|הַ]][[H1168A\|בַּ֗עַל]] [[H2664\|חַפְּשׂ֤וּ]] [[H9002\|וּ]][[H7200G\|רְאוּ֙]] [[H6435\|פֶּן]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H6311\|פֹּ֤ה]] [[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H9006\|מֵ]][[H5650\|עַבְדֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H3588B\|כִּ֛י]] [[H0518B\|אִם]][[H9014\|־]] [[H5647H\|עֹבְדֵ֥י]] [[H9009\|הַ]][[H1168A\|בַּ֖עַל]] [[H9005\|לְ]][[H0905H\|בַדָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DRESS|DRESS]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic MASSACRE|MASSACRE]] • [[topic RECHAB|RECHAB]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.22|<< 2 Kings 10:22]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.24|2 Kings 10:24 >>]]</td></tr></table>
 

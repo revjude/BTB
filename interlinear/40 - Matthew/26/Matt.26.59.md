@@ -1,10 +1,67 @@
+---
+title: Matthew 26:59
+type: Verse
+kjv: "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+bsb: "Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus in order to put Him to death."
+greek: "Οἱ δὲ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι καὶ τὸ συνέδριον ὅλον ἐζήτουν ψευδομαρτυρίαν κατὰ τοῦ Ἰησοῦ ὅπως αὐτὸν θανατώσωσιν,"
+pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G4245H]]"
+- "[[G4892]]"
+- "[[G3650]]"
+- "[[G2212]]"
+- "[[G5577]]"
+- "[[G2596]]"
+- "[[G2424G]]"
+- "[[G3704]]"
+- "[[G0846]]"
+- "[[G2289]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **Matthew 26:59**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;
 <small><sub>**BSB:**</sub></small>
 Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus in order to put Him to death.
-<small><sub>**Literal:**</sub></small>
-<the> And the chief priests and <the> elders and the Council whole were seeking false testimony against <the> Jesus so that him they may put to death<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.58|<< Matthew 26:58]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.60|Matthew 26:60 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245H\|πρεσβύτεροι]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G3650\|ὅλον]]  [[G2212\|ἐζήτουν]]  [[G5577\|ψευδομαρτυρίαν]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3704\|ὅπως]]  [[G0846\|αὐτὸν]]  [[G2289\|θανατώσωσιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic PERJURY|PERJURY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.58|<< Matthew 26:58]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.60|Matthew 26:60 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

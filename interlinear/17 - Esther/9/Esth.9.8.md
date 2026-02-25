@@ -1,8 +1,50 @@
+---
+title: Esther 9:8
+type: Verse
+kjv: "And Poratha, and Adalia, and Aridatha,"
+bsb: "Poratha, Adalia, Aridatha,"
+hebrew: "וְאֵ֧ת׀ פּוֹרָ֛תָא וְאֵ֥ת׀ אֲדַלְיָ֖א וְאֵ֥ת׀ אֲרִידָֽתָא׃"
+pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic ADALIA|ADALIA]]"
+- "[[topic ARIDATHA|ARIDATHA]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PORATHA|PORATHA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H6334]]"
+- "[[H0118]]"
+- "[[H0743]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:8**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Poratha, and Adalia, and Aridatha,
 <small><sub>**BSB:**</sub></small>
 Poratha, Adalia, Aridatha,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֧ת]][[H9015\|׀]] [[H6334\|פּוֹרָ֛תָא]] [[H9002\|וְ]][[H0853\|אֵ֥ת]][[H9015\|׀]] [[H0118\|אֲדַלְיָ֖א]] [[H9002\|וְ]][[H0853\|אֵ֥ת]][[H9015\|׀]] [[H0743\|אֲרִידָֽתָא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADALIA|ADALIA]] • [[topic ARIDATHA|ARIDATHA]] • [[topic MONTH|MONTH]] • [[topic PORATHA|PORATHA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.7|<< Esther 9:7]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.9|Esther 9:9 >>]]</td></tr></table>
 

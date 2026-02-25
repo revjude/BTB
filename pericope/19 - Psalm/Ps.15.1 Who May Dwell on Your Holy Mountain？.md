@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Who May Dwell on Your Holy Mountain？
+type: Pericope
 pericope: "[[Ps.15.1 Who May Dwell on Your Holy Mountain？|Who May Dwell on Your Holy Mountain？]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 15
 book/chapter: "[[Ps.15|Psalm 15]]"
-genre:
+chronological_order: 349
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.15.0]]"
 - "[[Ps.15.1]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.15.5]]"
 ---
 
-[[Ps.15|Psalm 15:1 - Psalm 15:5]]
+<small>[[Ps.15|Psalm 15:1-5]]</small>
 *Who May Dwell on Your Holy Mountain？*
 
 [[Ps.15.0|0]] A Psalm of David.

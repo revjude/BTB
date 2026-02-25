@@ -1,8 +1,54 @@
+---
+title: Proverbs 1:10
+type: Verse
+kjv: "My son, if sinners entice thee, consent thou not."
+bsb: "My son, if sinners entice you, do not yield to them."
+hebrew: "בְּנִ֡י אִם־ יְפַתּ֥וּךָ חַ֝טָּאִ֗ים אַל־ תֹּבֵֽא׃"
+pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6601B]]"
+- "[[H9031]]"
+- "[[H2400]]"
+- "[[H0408]]"
+- "[[H0014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:10**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, if sinners entice thee, consent thou not.
 <small><sub>**BSB:**</sub></small>
 My son, if sinners entice you, do not yield to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנִ֡]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H6601B\|יְפַתּ֥וּ]][[H9031\|ךָ]] [[H2400\|חַ֝טָּאִ֗ים]] [[H0408\|אַל]][[H9014\|־]] [[H0014\|תֹּבֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.9|<< Proverbs 1:9]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.11|Proverbs 1:11 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 52:12
+type: Verse
+kjv: "Now in the fifth month, in the tenth day of the month, which was the nineteenth year of Nebuchadrezzar king of Babylon, came Nebuzaradan, captain of the guard, which served the king of Babylon, into Jerusalem,"
+bsb: "On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem."
+hebrew: "וּבַחֹ֤דֶשׁ הַֽחֲמִישִׁי֙ בֶּעָשׂ֣וֹר לַחֹ֔דֶשׁ הִ֗יא שְׁנַת֙ תְּשַֽׁע־ עֶשְׂרֵ֣ה שָׁנָ֔ה לַמֶּ֖לֶךְ נְבוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֑ל בָּ֗א נְבֽוּזַרְאֲדָן֙ רַב־ טַבָּחִ֔ים עָמַ֛ד לִפְנֵ֥י מֶֽלֶךְ־ בָּבֶ֖ל בִּירוּשָׁלִָֽם׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H6218]]"
+- "[[H9005]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H8672]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H4428G]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H0935G]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H5975H]]"
+- "[[H6440G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:12**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the fifth month, in the tenth [day] of the month, which [was] the nineteenth year of Nebuchadrezzar king of Babylon, came Nebuzaradan, captain of the guard, [which] served the king of Babylon, into Jerusalem,
 <small><sub>**BSB:**</sub></small>
 On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2320G\|חֹ֤דֶשׁ]] [[H9009\|הַֽ]][[H2549\|חֲמִישִׁי֙]] [[H9003\|בֶּ]][[H6218\|עָשׂ֣וֹר]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H1931\|הִ֗יא]] [[H8141\|שְׁנַת֙]] [[H8672\|תְּשַֽׁע]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5019\|נְבוּכַדְרֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֑ל]] [[H0935G\|בָּ֗א]] [[H5018\|נְבֽוּזַרְאֲדָן֙]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֔ים]] [[H5975H\|עָמַ֛ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.11|<< Jeremiah 52:11]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.13|Jeremiah 52:13 >>]]</td></tr></table>
 

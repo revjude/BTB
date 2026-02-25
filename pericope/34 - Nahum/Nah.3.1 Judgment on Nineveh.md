@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Nineveh
+type: Pericope
 pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Nahum
 chapter: 3
 book/chapter: "[[Nah.3|Nahum 3]]"
-genre:
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 19
 verses:
 - "[[Nah.3.1]]"
 - "[[Nah.3.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Nah.3.19]]"
 ---
 
-[[Nah.3|Nahum 3:1 - Nahum 3:19]]
+<small>[[Nah.3|Nahum 3:1-19]]</small>
 *Judgment on Nineveh*
 
 [[Nah.3.1|1]] Woe to the bloody city! it \[is\] all full of lies \[and\] robbery; the prey departeth not;

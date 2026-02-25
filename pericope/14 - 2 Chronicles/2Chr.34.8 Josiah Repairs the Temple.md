@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Repairs the Temple
+type: Pericope
 pericope: "[[2Chr.34.8 Josiah Repairs the Temple|Josiah Repairs the Temple]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 34
 book/chapter: "[[2Chr.34|2 Chronicles 34]]"
-genre:
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.34.8]]"
 - "[[2Chr.34.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.34.13]]"
 ---
 
-[[2Chr.34|2 Chronicles 34:8 - 2 Chronicles 34:13]]
+<small>[[2Chr.34|2 Chronicles 34:8-13]]</small>
 *Josiah Repairs the Temple*
 
 [[2Chr.34.8|8]] Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God.

@@ -1,6 +1,82 @@
+---
+title: LXX Genesis 26:7
+type: Verse
+lxx: "And the men of the place asked concerning Rebekah  his wife. And he said, She is my sister, for he feared to say that, She is my wife, lest at any time the men of the place should kill him on account of Rebekah; for her appearance was beautiful."
+greek: "επηρώτησαν δε οι άνδρες του τόπου περί Ρεβέκκας της γυναικός αυτού και είπεν αδελφή μου εστίν εφοβήθη γαρ ειπείν ότι γυνή μου εστί μη ποτε αποκτείνωσιν αυτόν οι άνδρες του τόπου περί Ρεβέκκας ότι ωραία τη όψει ην"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1905]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G4012]]"
+- "[[G4479]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0079]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G5399]]"
+- "[[G1063]]"
+- "[[G2036]]"
+- "[[G3754]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3379]]"
+- "[[G0615]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G4012]]"
+- "[[G4479]]"
+- "[[G3754]]"
+- "[[G5611]]"
+- "[[G3588]]"
+- "[[G3799]]"
+- "[[G1510]]"
+---
+
 **LXX Genesis 26:7** 
 <small><sub>**LXX:**</sub></small>
 And the men of the place asked concerning Rebekah  his wife. And he said, She is my sister, for he feared to say that, She is my wife, lest at any time the men of the place should kill him on account of Rebekah; for her appearance was beautiful. 
+<small><sub>**Greek:**</sub></small>
+[[G1905\|επηρώτησαν]] [[G1161\|δε]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G3588\|του]] [[G5117\|τόπου]] [[G4012\|περί]] [[G4479\|Ρεβέκκας]] [[G3588\|της]] [[G1135\|γυναικός]] [[G1473\|αυτού]] [[G2532\|και]] [[G2036\|είπεν]] [[G0079\|αδελφή]] [[G1473\|μου]] [[G1510\|εστίν]] [[G5399\|εφοβήθη]] [[G1063\|γαρ]] [[G2036\|ειπείν]] [[G3754\|ότι]] [[G1135\|γυνή]] [[G1473\|μου]] [[G1510\|εστί]] [[G3379\|μη ποτε]] [[G0615\|αποκτείνωσιν]] [[G1473\|αυτόν]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G3588\|του]] [[G5117\|τόπου]] [[G4012\|περί]] [[G4479\|Ρεβέκκας]] [[G3754\|ότι]] [[G5611\|ωραία]] [[G3588\|τη]] [[G3799\|όψει]] [[G1510\|ην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DECEPTION|DECEPTION]] • [[topic DOUBTING|DOUBTING]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ISAAC|ISAAC]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RULERS|RULERS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
@@ -39,6 +115,6 @@ And the men of the place asked concerning Rebekah  his wife. And he said, She is
 | her | **<big>[[G3588\|τη]]</big>** |
 | appearance | **<big>[[G3799\|όψει]]</big>** |
 | was | **<big>[[G1510\|ην]]</big>** |
-[[Gen.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
 

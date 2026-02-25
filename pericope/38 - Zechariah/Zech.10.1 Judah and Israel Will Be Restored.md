@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah and Israel Will Be Restored
+type: Pericope
 pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 10
 book/chapter: "[[Zech.10|Zechariah 10]]"
-genre:
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 12
 verses:
 - "[[Zech.10.1]]"
 - "[[Zech.10.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Zech.10.12]]"
 ---
 
-[[Zech.10|Zechariah 10:1 - Zechariah 10:12]]
+<small>[[Zech.10|Zechariah 10:1-12]]</small>
 *Judah and Israel Will Be Restored*
 
 [[Zech.10.1|1]] Ask ye of the LORD rain in the time of the latter rain; \[so\] the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nehemiah’s Prayer
+type: Pericope
 pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 1
 book/chapter: "[[Neh.1|Nehemiah 1]]"
-genre:
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 11
 verses:
 - "[[Neh.1.1]]"
 - "[[Neh.1.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Neh.1.11]]"
 ---
 
-[[Neh.1|Nehemiah 1:1 - Nehemiah 1:11]]
+<small>[[Neh.1|Nehemiah 1:1-11]]</small>
 *Nehemiah’s Prayer*
 
 [[Neh.1.1|1]] The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,

@@ -1,8 +1,64 @@
+---
+title: Nahum 2:3
+type: Verse
+kjv: "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."
+bsb: "The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished."
+hebrew: "מָגֵ֨ן גִּבֹּרֵ֜יהוּ מְאָדָּ֗ם אַנְשֵׁי־ חַ֙יִל֙ מְתֻלָּעִ֔ים בְּאֵשׁ־ פְּלָד֥וֹת הָרֶ֖כֶב בְּי֣וֹם הֲכִינ֑וֹ וְהַבְּרֹשִׁ֖ים הָרְעָֽלוּ׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H4043]]"
+- "[[H1368]]"
+- "[[H9023]]"
+- "[[H0119]]"
+- "[[H0582]]"
+- "[[H9014]]"
+- "[[H2428A]]"
+- "[[H8529]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6393]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H3117G]]"
+- "[[H3559A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H1265]]"
+- "[[H7477]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:3**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The shield of his mighty men is made red, the valiant men [are] in scarlet: the chariots [shall be] with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.
 <small><sub>**BSB:**</sub></small>
 The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished.
+<small><sub>**Hebrew:**</sub></small>
+[[H4043\|מָגֵ֨ן]] [[H1368\|גִּבֹּרֵ֜י]][[H9023\|הוּ]] [[H0119\|מְאָדָּ֗ם]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428A\|חַ֙יִל֙]] [[H8529\|מְתֻלָּעִ֔ים]] [[H9003\|בְּ]][[H0784\|אֵשׁ]][[H9014\|־]] [[H6393\|פְּלָד֥וֹת]] [[H9009\|הָ]][[H7393G\|רֶ֖כֶב]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H3559A\|הֲכִינ֑]][[H9043\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H1265\|בְּרֹשִׁ֖ים]] [[H7477\|הָרְעָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHARIOT|CHARIOT]] • [[topic COLORS|COLORS]] • [[topic SHIELD|SHIELD]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.2|<< Nahum 2:2]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.4|Nahum 2:4 >>]]</td></tr></table>
 

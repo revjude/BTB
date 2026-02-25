@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 7:10
+type: Verse
+kjv: "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,"
+bsb: "And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning"
+hebrew: "וְשַׂמְתִּ֣י מָ֠קוֹם לְעַמִּ֨י לְיִשְׂרָאֵ֤ל וּנְטַעְתִּיו֙ וְשָׁכַ֣ן תַּחְתָּ֔יו וְלֹ֥א יִרְגַּ֖ז ע֑וֹד וְלֹֽא־ יֹסִ֤יפוּ בְנֵֽי־ עַוְלָה֙ לְעַנּוֹת֔וֹ כַּאֲשֶׁ֖ר בָּרִאשׁוֹנָֽה׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760L]]"
+- "[[H4725]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H5193]]"
+- "[[H9033]]"
+- "[[H7931]]"
+- "[[H8478I]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7264]]"
+- "[[H5750]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H1121G]]"
+- "[[H5766B]]"
+- "[[H6031B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H7223H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:10**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,
 <small><sub>**BSB:**</sub></small>
 And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760L\|שַׂמְתִּ֣י]] [[H4725\|מָ֠קוֹם]] [[H9005\|לְ]][[H5971A\|עַמִּ֨]][[H9020\|י]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֤ל]] [[H9001\|וּ]][[H5193\|נְטַעְתִּי]][[H9033\|ו֙]] [[H9001\|וְ]][[H7931\|שָׁכַ֣ן]] [[H8478I\|תַּחְתָּ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7264\|יִרְגַּ֖ז]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יֹסִ֤יפוּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5766B\|עַוְלָה֙]] [[H9005\|לְ]][[H6031B\|עַנּוֹת֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H9003\|בָּ]][[H7223H\|רִאשׁוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.9|<< 2 Samuel 7:9]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.11|2 Samuel 7:11 >>]]</td></tr></table>
 

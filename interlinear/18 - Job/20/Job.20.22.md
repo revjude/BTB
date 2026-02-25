@@ -1,8 +1,55 @@
+---
+title: Job 20:22
+type: Verse
+kjv: "In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him."
+bsb: "In the midst of his plenty, he will be distressed; the full force of misery will come upon him."
+hebrew: "בִּמְלֹ֣אות שִׂ֭פְקוֹ יֵ֣צֶר ל֑וֹ כָּל־ יַ֖ד עָמֵ֣ל תְּבוֹאֶֽנּוּ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H4390]]"
+- "[[H5607B]]"
+- "[[H9023]]"
+- "[[H3334]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H6001A]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:22**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.
 <small><sub>**BSB:**</sub></small>
 In the midst of his plenty, he will be distressed; the full force of misery will come upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H4390\|מְלֹ֣אות]] [[H5607B\|שִׂ֭פְק]][[H9023\|וֹ]] [[H3334\|יֵ֣צֶר]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H3027G\|יַ֖ד]] [[H6001A\|עָמֵ֣ל]] [[H0935G\|תְּבוֹאֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.21|<< Job 20:21]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.23|Job 20:23 >>]]</td></tr></table>
 

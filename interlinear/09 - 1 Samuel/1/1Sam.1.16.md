@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 1:16
+type: Verse
+kjv: "Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto."
+bsb: "Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.”"
+hebrew: "אַל־ תִּתֵּן֙ אֶת־ אֲמָ֣תְךָ֔ לִפְנֵ֖י בַּת־ בְּלִיָּ֑עַל כִּֽי־ מֵרֹ֥ב שִׂיחִ֛י וְכַעְסִ֖י דִּבַּ֥רְתִּי עַד־ הֵֽנָּה׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H1323G]]"
+- "[[H1100G]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H7879]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3708A]]"
+- "[[H1696G]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:16**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
 <small><sub>**BSB:**</sub></small>
 Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5414I\|תִּתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0519\|אֲמָ֣תְ]][[H9021\|ךָ֔]] [[H9005\|לִ]][[H6440L\|פְנֵ֖י]] [[H1323G\|בַּת]][[H9014\|־]] [[H1100G\|בְּלִיָּ֑עַל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מֵ]][[H7230\|רֹ֥ב]] [[H7879\|שִׂיחִ֛]][[H9020\|י]] [[H9002\|וְ]][[H3708A\|כַעְסִ֖]][[H9020\|י]] [[H1696G\|דִּבַּ֥רְתִּי]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HANNAH|HANNAH]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.15|<< 1 Samuel 1:15]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.17|1 Samuel 1:17 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 10:6
+type: Verse
+kjv: "And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men."
+bsb: "When the Ammonites realized that they had become a stench to David, they hired twenty thousand Aramean foot soldiers from Beth-rehob and Zoba, as well as a thousand men from the king of Maacah and twelve thousand men from Tob."
+hebrew: "וַיִּרְאוּ֙ בְּנֵ֣י עַמּ֔וֹן כִּ֥י נִבְאֲשׁ֖וּ בְּדָוִ֑ד וַיִּשְׁלְח֣וּ בְנֵֽי־ עַמּ֡וֹן וַיִּשְׂכְּרוּ֩ אֶת־ אֲרַ֨ם בֵּית־ רְח֜וֹב וְאֶת־ אֲרַ֣ם צוֹבָ֗א עֶשְׂרִ֥ים אֶ֙לֶף֙ רַגְלִ֔י וְאֶת־ מֶ֤לֶךְ מַֽעֲכָה֙ אֶ֣לֶף אִ֔ישׁ וְאִ֣ישׁ ט֔וֹב שְׁנֵים־ עָשָׂ֥ר אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETH-REHOB|BETH-REHOB]]"
+- "[[topic ISH-TOB|ISH-TOB]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic REHOB|REHOB]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H3588A]]"
+- "[[H0887]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H7936B]]"
+- "[[H0853]]"
+- "[[H0758I]]"
+- "[[H1050]]"
+- "[[H9002]]"
+- "[[H6678G]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H7273]]"
+- "[[H4428G]]"
+- "[[H4601R]]"
+- "[[H0376G]]"
+- "[[H2897]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:6**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.
 <small><sub>**BSB:**</sub></small>
 When the Ammonites realized that they had become a stench to David, they hired twenty thousand Aramean foot soldiers from Beth-rehob and Zoba, as well as a thousand men from the king of Maacah and twelve thousand men from Tob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְאוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H3588A\|כִּ֥י]] [[H0887\|נִבְאֲשׁ֖וּ]] [[H9003\|בְּ]][[H1732\|דָוִ֑ד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלְח֣וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֡וֹן]] [[H9001\|וַ]][[H7936B\|יִּשְׂכְּרוּ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרַ֨ם]] [[H1050\|בֵּית]][[H9014\|־]] [[H1050\|רְח֜וֹב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרַ֣ם]] [[H6678G\|צוֹבָ֗א]] [[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H7273\|רַגְלִ֔י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֤לֶךְ]] [[H4601R\|מַֽעֲכָה֙]] [[H0505G\|אֶ֣לֶף]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H2897\|ט֔וֹב]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETH-REHOB|BETH-REHOB]] • [[topic ISH-TOB|ISH-TOB]] • [[topic MAACHAH|MAACHAH]] • [[topic REHOB|REHOB]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.5|<< 2 Samuel 10:5]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.7|2 Samuel 10:7 >>]]</td></tr></table>
 

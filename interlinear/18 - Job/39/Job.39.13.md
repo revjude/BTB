@@ -1,8 +1,54 @@
+---
+title: Job 39:13
+type: Verse
+kjv: "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?"
+bsb: "The wings of the ostrich flap joyfully, but cannot match the pinions and feathers of the stork."
+hebrew: "כְּנַף־ רְנָנִ֥ים נֶעֱלָ֑סָה אִם־ אֶ֝בְרָ֗ה חֲסִידָ֥ה וְנֹצָֽה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic PEACOCK|PEACOCK]]"
+strongs:
+- "[[H3671]]"
+- "[[H9014]]"
+- "[[H7443]]"
+- "[[H5965]]"
+- "[[H0518I]]"
+- "[[H0084]]"
+- "[[H2624]]"
+- "[[H9002]]"
+- "[[H5133]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:13**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Gavest thou] the goodly wings unto the peacocks? or wings and feathers unto the ostrich?
 <small><sub>**BSB:**</sub></small>
 The wings of the ostrich flap joyfully, but cannot match the pinions and feathers of the stork.
+<small><sub>**Hebrew:**</sub></small>
+[[H3671\|כְּנַף]][[H9014\|־]] [[H7443\|רְנָנִ֥ים]] [[H5965\|נֶעֱלָ֑סָה]] [[H0518I\|אִם]][[H9014\|־]] [[H0084\|אֶ֝בְרָ֗ה]] [[H2624\|חֲסִידָ֥ה]] [[H9002\|וְ]][[H5133\|נֹצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic OSTRICHES|OSTRICHES]] • [[topic PEACOCK|PEACOCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.12|<< Job 39:12]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.14|Job 39:14 >>]]</td></tr></table>
 

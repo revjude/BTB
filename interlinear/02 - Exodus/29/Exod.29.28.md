@@ -1,8 +1,69 @@
+---
+title: Exodus 29:28
+type: Verse
+kjv: "And it shall be Aaron’s and his sons’ by a statute for ever from the children of Israel: for it is an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, even their heave offering unto the LORD."
+bsb: "This will belong to Aaron and his sons as a regular portion from the Israelites, for it is the heave offering the Israelites will make to the LORD from their peace offerings."
+hebrew: "וְהָיָה֩ לְאַהֲרֹ֨ן וּלְבָנָ֜יו לְחָק־ עוֹלָ֗ם מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֥י תְרוּמָ֖ה ה֑וּא וּתְרוּמָ֞ה יִהְיֶ֨ה מֵאֵ֤ת בְּנֵֽי־ יִשְׂרָאֵל֙ מִזִּבְחֵ֣י שַׁלְמֵיהֶ֔ם תְּרוּמָתָ֖ם לַיהוָֽה׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H2706H]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H8641]]"
+- "[[H1931]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9028]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:28**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be Aaron’s and his sons’ by a statute for ever from the children of Israel: for it [is] an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, [even] their heave offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
 This will belong to Aaron and his sons as a regular portion from the Israelites, for it is the heave offering the Israelites will make to the LORD from their peace offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֨ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֜י]][[H9023\|ו]] [[H9005\|לְ]][[H2706H\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָ֗ם]] [[H9006\|מֵ]][[H0854\|אֵת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּ֥י]] [[H8641\|תְרוּמָ֖ה]] [[H1931\|ה֑וּא]] [[H9002\|וּ]][[H8641\|תְרוּמָ֞ה]] [[H1961\|יִהְיֶ֨ה]] [[H9006\|מֵ]][[H0854\|אֵ֤ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מִ]][[H2077\|זִּבְחֵ֣י]] [[H8002\|שַׁלְמֵי]][[H9028\|הֶ֔ם]] [[H8641\|תְּרוּמָתָ֖]][[H9028\|ם]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.27|<< Exodus 29:27]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.29|Exodus 29:29 >>]]</td></tr></table>
 

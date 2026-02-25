@@ -1,8 +1,57 @@
+---
+title: Psalm 37:13
+type: Verse
+kjv: "The Lord shall laugh at him: for he seeth that his day is coming."
+bsb: "but the Lord laughs, seeing that their day is coming."
+hebrew: "אֲדֹנָ֥י יִשְׂחַק־ ל֑וֹ כִּֽי־ רָ֝אָ֗ה כִּֽי־ יָבֹ֥א יוֹמֽוֹ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic LAUGHTER|LAUGHTER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0136]]"
+- "[[H7832]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H0935G]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:13**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord shall laugh at him: for he seeth that his day is coming.
 <small><sub>**BSB:**</sub></small>
 but the Lord laughs, seeing that their day is coming.
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֥י]] [[H7832\|יִשְׂחַק]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|רָ֝אָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|יָבֹ֥א]] [[H3117G\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic LAUGHTER|LAUGHTER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.12|<< Psalms 37:12]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.14|Psalms 37:14 >>]]</td></tr></table>
 

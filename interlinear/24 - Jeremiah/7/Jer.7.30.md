@@ -1,8 +1,69 @@
+---
+title: Jeremiah 7:30
+type: Verse
+kjv: "For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it."
+bsb: "For the people of Judah have done evil in My sight, declares the LORD. They have set up their abominations in the house that bears My Name, and so have defiled it."
+hebrew: "כִּֽי־ עָשׂ֨וּ בְנֵי־ יְהוּדָ֥ה הָרַ֛ע בְּעֵינַ֖י נְאֻום־ יְהוָ֑ה שָׂ֣מוּ שִׁקּֽוּצֵיהֶ֗ם בַּבַּ֛יִת אֲשֶׁר־ נִקְרָא־ שְׁמִ֥י עָלָ֖יו לְטַמְּאֽוֹ׃"
+pericope: "[[Jer.7.30 The Valley of Slaughter|The Valley of Slaughter]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H7760A]]"
+- "[[H8251]]"
+- "[[H9028]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:30**<big><big>[[Jer.7.30 The Valley of Slaughter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.
 <small><sub>**BSB:**</sub></small>
 For the people of Judah have done evil in My sight, declares the LORD. They have set up their abominations in the house that bears My Name, and so have defiled it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|עָשׂ֨וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3063G\|יְהוּדָ֥ה]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינַ֖]][[H9020\|י]] [[H5002\|נְאֻום]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H7760A\|שָׂ֣מוּ]] [[H8251\|שִׁקּֽוּצֵי]][[H9028\|הֶ֗ם]] [[H9003\|בַּ]][[H1004B\|בַּ֛יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|נִקְרָא]][[H9014\|־]] [[H8034\|שְׁמִ֥]][[H9020\|י]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9005\|לְ]][[H2930A\|טַמְּאֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.29|<< Jeremiah 7:29]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.31|Jeremiah 7:31 >>]]</td></tr></table>
 

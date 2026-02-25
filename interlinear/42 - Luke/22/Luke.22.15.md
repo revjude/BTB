@@ -1,10 +1,59 @@
+---
+title: Luke 22:15
+type: Verse
+kjv: "And he said unto them, With desire I have desired to eat this passover with you before I suffer:"
+bsb: "And He said to them, “I have eagerly desired to eat this Passover with you before My suffering."
+jesus_said: "With desire I have desired to eat this passover with you before I suffer:"
+greek: "καὶ εἶπεν πρὸς αὐτούς· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ᾽ ὑμῶν πρὸ τοῦ με παθεῖν·"
+pericope: "[[Luke.22.14 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1939]]"
+- "[[G1937]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3957]]"
+- "[[G5315]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G4253]]"
+- "[[G3165]]"
+- "[[G3958]]"
+texts:
+- NKO
+---
+
 **Luke 22:15**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, With desire I have desired to eat this passover with you before I suffer:
 <small><sub>**BSB:**</sub></small>
 And He said to them, “I have eagerly desired to eat this Passover with you before My suffering.
-<small><sub>**Literal:**</sub></small>
-And He said to them; With desire I have desired this <the> Passover to eat with you before <the> I to suffe;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.14|<< Luke 22:14]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.16|Luke 22:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1939\|ἐπιθυμίᾳ]]  [[G1937\|ἐπεθύμησα]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G5315\|φαγεῖν]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G3165\|με]]  [[G3958\|παθεῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.14|<< Luke 22:14]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.16|Luke 22:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

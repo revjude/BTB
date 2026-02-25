@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Laments the Finality of Death
+type: Pericope
 pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 14
 book/chapter: "[[Job.14|Job 14]]"
-genre:
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 22
 verses:
 - "[[Job.14.1]]"
 - "[[Job.14.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Job.14.22]]"
 ---
 
-[[Job.14|Job 14:1 - Job 14:22]]
+<small>[[Job.14|Job 14:1-22]]</small>
 *Job Laments the Finality of Death*
 
 [[Job.14.1|1]] Man \[that is\] born of a woman \[is\] of few days, and full of trouble.

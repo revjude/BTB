@@ -1,10 +1,65 @@
+---
+title: Acts 4:32
+type: Verse
+kjv: "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common."
+bsb: "The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned."
+greek: "Τοῦ δὲ πλήθους τῶν πιστευσάντων ἦν ἡ καρδία καὶ ἡ ψυχὴ μία· καὶ οὐδὲ εἷς τι τῶν ὑπαρχόντων αὐτῷ ἔλεγεν ἴδιον εἶναι, ἀλλ᾽ ἦν αὐτοῖς ἅπαντα κοινά."
+pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4128]]"
+- "[[G4100]]"
+- "[[G1510]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G5590G]]"
+- "[[G1520]]"
+- "[[G3761]]"
+- "[[G5100]]"
+- "[[G5225]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2398]]"
+- "[[G1511]]"
+- "[[G0235]]"
+- "[[G0537]]"
+- "[[G2839H]]"
+texts:
+- NKO
+- k
+- N(k)O
+- NK(o)
+---
+
 **Acts 4:32**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude of them that believed were of one heart and of one soul: neither said any [of them] that ought of the things which he possessed was his own; but they had all things common.
 <small><sub>**BSB:**</sub></small>
 The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned.
-<small><sub>**Literal:**</sub></small>
-<the> And the multitude who having believed were [in] <the> heart and <the> soul one; and not one anything of the possessions to him was claiming [his] own to be, but were to them all things in common.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.31|<< Acts 4:31]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.33|Acts 4:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G1161\|δὲ]]  [[G4128\|πλήθους]]  [[G3588\|τῶν]]  [[G4100\|πιστευσάντων]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5590G\|ψυχὴ]]  [[G1520\|μία·]]  [[G2532\|καὶ]]  [[G3761\|οὐδὲ]]  [[G1520\|εἷς]]  [[G5100\|τι]]  [[G3588\|τῶν]]  [[G5225\|ὑπαρχόντων]]  [[G0846\|αὐτῷ]]  [[G3004G\|ἔλεγεν]]  [[G2398\|ἴδιον]]  [[G1511\|εἶναι,]]  [[G0235\|ἀλλ᾽]]  [[G1510\|ἦν]]  [[G0846\|αὐτοῖς]]  [[G0537\|ἅπαντα]]  [[G2839H\|κοινά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic COMMUNISM|COMMUNISM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.31|<< Acts 4:31]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.33|Acts 4:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

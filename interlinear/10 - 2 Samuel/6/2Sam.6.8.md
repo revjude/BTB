@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 6:8
+type: Verse
+kjv: "And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day."
+bsb: "Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day."
+hebrew: "וַיִּ֣חַר לְדָוִ֔ד עַל֩ אֲשֶׁ֨ר פָּרַ֧ץ יְהוָ֛ה פֶּ֖רֶץ בְּעֻזָּ֑ה וַיִּקְרָ֞א לַמָּק֤וֹם הַהוּא֙ פֶּ֣רֶץ עֻזָּ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PEREZ-UZZA|PEREZ-UZZA]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H6555]]"
+- "[[H3068G]]"
+- "[[H6556]]"
+- "[[H9003]]"
+- "[[H5798A]]"
+- "[[H7121H]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6560H]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:8**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
 <small><sub>**BSB:**</sub></small>
 Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּ֣חַר]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H6555\|פָּרַ֧ץ]] [[H3068G\|יְהוָ֛ה]] [[H6556\|פֶּ֖רֶץ]] [[H9003\|בְּ]][[H5798A\|עֻזָּ֑ה]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֞א]] [[H9005\|לַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H6560H\|פֶּ֣רֶץ]] [[H6560H\|עֻזָּ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic PEREZ-UZZA|PEREZ-UZZA]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.7|<< 2 Samuel 6:7]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.9|2 Samuel 6:9 >>]]</td></tr></table>
 

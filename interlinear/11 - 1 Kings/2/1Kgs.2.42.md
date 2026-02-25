@@ -1,8 +1,77 @@
+---
+title: 1 Kings 2:42
+type: Verse
+kjv: "And the king sent and called for Shimei, and said unto him, Did I not make thee to swear by the LORD, and protested unto thee, saying, Know for a certain, on the day thou goest out, and walkest abroad any whither, that thou shalt surely die? and thou saidst unto me, The word that I have heard is good."
+bsb: "the king summoned Shimei and said to him, “Did I not make you swear by the LORD and warn you, ‘On the day you leave and go elsewhere, know for sure that you will die’? And you told me, ‘The sentence is fair; I will comply.’"
+hebrew: "וַיִּשְׁלַ֨ח הַמֶּ֜לֶךְ וַיִּקְרָ֣א לְשִׁמְעִ֗י וַיֹּ֨אמֶר אֵלָ֜יו הֲל֧וֹא הִשְׁבַּעְתִּ֣יךָ בַֽיהוָ֗ה וָאָעִ֤ד בְּךָ֙ לֵאמֹ֔ר בְּי֣וֹם צֵאתְךָ֗ וְהָֽלַכְתָּ֙ אָ֣נֶה וָאָ֔נָה יָדֹ֥עַ תֵּדַ֖ע כִּ֣י מ֣וֹת תָּמ֑וּת וַתֹּ֧אמֶר אֵלַ֛י ט֥וֹב הַדָּבָ֖ר שָׁמָֽעְתִּי׃"
+pericope: "[[1Kgs.2.36 The Execution of Shimei|The Execution of Shimei]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H8096H]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7650]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H5749B]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H1980G]]"
+- "[[H0575]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H2896A]]"
+- "[[H1697H]]"
+- "[[H8085H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:42**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king sent and called for Shimei, and said unto him, Did I not make thee to swear by the LORD, and protested unto thee, saying, Know for a certain, on the day thou goest out, and walkest abroad any whither, that thou shalt surely die? and thou saidst unto me, The word [that] I have heard [is] good.
 <small><sub>**BSB:**</sub></small>
 the king summoned Shimei and said to him, “Did I not make you swear by the LORD and warn you, ‘On the day you leave and go elsewhere, know for sure that you will die’? And you told me, ‘The sentence is fair; I will comply.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H9005\|לְ]][[H8096H\|שִׁמְעִ֗י]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9008\|הֲ]][[H3808\|ל֧וֹא]] [[H7650\|הִשְׁבַּעְתִּ֣י]][[H9031\|ךָ]] [[H9003\|בַֽ]][[H3068G\|יהוָ֗ה]] [[H9001\|וָ]][[H5749B\|אָעִ֤ד]] [[H9003\|בְּ]][[H9031\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H3318G\|צֵאתְ]][[H9041\|ךָ֗]] [[H9001\|וְ]][[H1980G\|הָֽלַכְתָּ֙]] [[H0575\|אָ֣נֶה]] [[H9002\|וָ]][[H0575\|אָ֔נָה]] [[H3045\|יָדֹ֥עַ]] [[H3045\|תֵּדַ֖ע]] [[H3588A\|כִּ֣י]] [[H4191\|מ֣וֹת]] [[H4191\|תָּמ֑וּת]] [[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H2896A\|ט֥וֹב]] [[H9009\|הַ]][[H1697H\|דָּבָ֖ר]] [[H8085H\|שָׁמָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic OATH|OATH]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.41|<< 1 Kings 2:41]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.43|1 Kings 2:43 >>]]</td></tr></table>
 

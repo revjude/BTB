@@ -1,8 +1,53 @@
+---
+title: Proverbs 18:14
+type: Verse
+kjv: "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
+bsb: "The spirit of a man can endure his sickness, but who can survive a broken spirit?"
+hebrew: "רֽוּחַ־ אִ֭ישׁ יְכַלְכֵּ֣ל מַחֲלֵ֑הוּ וְר֥וּחַ נְ֝כֵאָ֗ה מִ֣י יִשָּׂאֶֽנָּה׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H7307G]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H3557]]"
+- "[[H4245A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5218B]]"
+- "[[H4310]]"
+- "[[H5375H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:14**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
 <small><sub>**BSB:**</sub></small>
 The spirit of a man can endure his sickness, but who can survive a broken spirit?
+<small><sub>**Hebrew:**</sub></small>
+[[H7307G\|רֽוּחַ]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H3557\|יְכַלְכֵּ֣ל]] [[H4245A\|מַחֲלֵ֑]][[H9023\|הוּ]] [[H9002\|וְ]][[H7307G\|ר֥וּחַ]] [[H5218B\|נְ֝כֵאָ֗ה]] [[H4310\|מִ֣י]] [[H5375H\|יִשָּׂאֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.13|<< Proverbs 18:13]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.15|Proverbs 18:15 >>]]</td></tr></table>
 

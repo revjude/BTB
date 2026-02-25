@@ -1,10 +1,68 @@
+---
+title: Revelation 20:12
+type: Verse
+kjv: "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+bsb: "And I saw the dead, great and small, standing before the throne. And books were opened, and one of them was the Book of Life. And the dead were judged according to their deeds, as recorded in the books."
+greek: "καὶ εἶδον τοὺς νεκρούς, τοὺς μεγάλους καὶ τοὺς μικρούς, ἑστῶτας ἐνώπιον τοῦ θρόνου, καὶ βιβλία ἠνοίχθησαν. καὶ ἄλλο βιβλίον ἠνοίχθη ὅ ἐστιν τῆς ζωῆς. καὶ ἐκρίθησαν οἱ νεκροὶ ἐκ τῶν γεγραμμένων ἐν τοῖς βιβλίοις κατὰ τὰ ἔργα αὐτῶν."
+pericope: "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G3498]]"
+- "[[G3173]]"
+- "[[G3398]]"
+- "[[G2476]]"
+- "[[G1799]]"
+- "[[G2362]]"
+- "[[G0975]]"
+- "[[G0455]]"
+- "[[G0243]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2222]]"
+- "[[G2919]]"
+- "[[G1537]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G2596]]"
+- "[[G2041]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 20:12**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works.
 <small><sub>**BSB:**</sub></small>
 And I saw the dead, great and small, standing before the throne. And books were opened, and one of them was the Book of Life. And the dead were judged according to their deeds, as recorded in the books.
-<small><sub>**Literal:**</sub></small>
-And I saw the dead, <the> great and <the> small, standing before the throne, and books were opened. And another book was opened which is the [one] of life. And were judged the dead out of the [things] written in the books according to the deeds of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.11|<< Revelation 20:11]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.13|Revelation 20:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G3588\|τοὺς]]  [[G3498\|νεκρούς,]]  [[G3588\|τοὺς]]  [[G3173\|μεγάλους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3398\|μικρούς,]]  [[G2476\|ἑστῶτας]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου,]]  [[G2532\|καὶ]]  [[G0975\|βιβλία]]  [[G0455\|ἠνοίχθησαν.]]  [[G2532\|καὶ]]  [[G0243\|ἄλλο]]  [[G0975\|βιβλίον]]  [[G0455\|ἠνοίχθη]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς.]]  [[G2532\|καὶ]]  [[G2919\|ἐκρίθησαν]]  [[G3588\|οἱ]]  [[G3498\|νεκροὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1125\|γεγραμμένων]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0975\|βιβλίοις]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic DEATH|DEATH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.11|<< Revelation 20:11]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.13|Revelation 20:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Ezra 7:8
+type: Verse
+kjv: "And he came to Jerusalem in the fifth month, which was in the seventh year of the king."
+bsb: "Ezra arrived in Jerusalem in the fifth month of the seventh year of the king."
+hebrew: "וַיָּבֹ֥א יְרוּשָׁלִַ֖ם בַּחֹ֣דֶשׁ הַחֲמִישִׁ֑י הִ֛יא שְׁנַ֥ת הַשְּׁבִיעִ֖ית לַמֶּֽלֶךְ׃"
+pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic EZRA|EZRA]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H7637]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:8**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came to Jerusalem in the fifth month, which [was] in the seventh year of the king.
 <small><sub>**BSB:**</sub></small>
 Ezra arrived in Jerusalem in the fifth month of the seventh year of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֑י]] [[H1931\|הִ֛יא]] [[H8141\|שְׁנַ֥ת]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֖ית]] [[H9005\|לַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZRA|EZRA]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.7|<< Ezra 7:7]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.9|Ezra 7:9 >>]]</td></tr></table>
 

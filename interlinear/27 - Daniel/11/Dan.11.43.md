@@ -1,8 +1,59 @@
+---
+title: Daniel 11:43
+type: Verse
+kjv: "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps."
+bsb: "He will gain control of the treasures of gold and silver and over all the riches of Egypt, and the Libyans and Cushites will also submit to him."
+hebrew: "וּמָשַׁ֗ל בְּמִכְמַנֵּי֙ הַזָּהָ֣ב וְהַכֶּ֔סֶף וּבְכֹ֖ל חֲמֻד֣וֹת מִצְרָ֑יִם וְלֻבִ֥ים וְכֻשִׁ֖ים בְּמִצְעָדָֽיו׃"
+pericope: "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBYANS|LIBYANS]]"
+strongs:
+- "[[H9001]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H4362]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H3605]]"
+- "[[H2530B]]"
+- "[[H4714G]]"
+- "[[H3864]]"
+- "[[H3569G]]"
+- "[[H4703]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:43**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians [shall be] at his steps.
 <small><sub>**BSB:**</sub></small>
 He will gain control of the treasures of gold and silver and over all the riches of Egypt, and the Libyans and Cushites will also submit to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4910\|מָשַׁ֗ל]] [[H9003\|בְּ]][[H4362\|מִכְמַנֵּי֙]] [[H9009\|הַ]][[H2091\|זָּהָ֣ב]] [[H9002\|וְ]][[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H2530B\|חֲמֻד֣וֹת]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H3864\|לֻבִ֥ים]] [[H9002\|וְ]][[H3569G\|כֻשִׁ֖ים]] [[H9003\|בְּ]][[H4703\|מִצְעָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBYANS|LIBYANS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.42|<< Daniel 11:42]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.44|Daniel 11:44 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 15:12
+type: Verse
+kjv: "And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;"
+bsb: "Then they entered into a covenant to seek the LORD, the God of their fathers, with all their heart and soul."
+hebrew: "וַיָּבֹ֣אוּ בַבְּרִ֔ית לִדְר֕וֹשׁ אֶת־ יְהוָ֖ה אֱלֹהֵ֣י אֲבוֹתֵיהֶ֑ם בְּכָל־ לְבָבָ֖ם וּבְכָל־ נַפְשָֽׁם׃"
+pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H1285]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:12**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;
 <small><sub>**BSB:**</sub></small>
 Then they entered into a covenant to seek the LORD, the God of their fathers, with all their heart and soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H9003\|בַ]][[H1285\|בְּרִ֔ית]] [[H9005\|לִ]][[H1875\|דְר֕וֹשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֑ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבָ֖]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic REVIVALS|REVIVALS]] • [[topic SEEKERS|SEEKERS]] • [[topic SHOUTING|SHOUTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.11|<< 2 Chronicles 15:11]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.13|2 Chronicles 15:13 >>]]</td></tr></table>
 

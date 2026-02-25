@@ -1,8 +1,67 @@
+---
+title: Psalm 37:7
+type: Verse
+kjv: "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass."
+bsb: "Be still before the LORD and wait patiently for Him; do not fret when men prosper in their ways, when they carry out wicked schemes."
+hebrew: "דּ֤וֹם׀ לַיהוָה֮ וְהִתְח֪וֹלֵ֫ל ל֥וֹ אַל־ תִּ֭תְחַר בְּמַצְלִ֣יחַ דַּרְכּ֑וֹ בְּ֝אִ֗ישׁ עֹשֶׂ֥ה מְזִמּֽוֹת׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H1826A]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2342K]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2734]]"
+- "[[H9003]]"
+- "[[H6743B]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H0376G]]"
+- "[[H6213A]]"
+- "[[H4209]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:7**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.
 <small><sub>**BSB:**</sub></small>
 Be still before the LORD and wait patiently for Him; do not fret when men prosper in their ways, when they carry out wicked schemes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1826A\|דּ֤וֹם]][[H9015\|׀]] [[H9005\|לַ]][[H3068G\|יהוָה֮]] [[H9002\|וְ]][[H2342K\|הִתְח֪וֹלֵ֫ל]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H2734\|תִּ֭תְחַר]] [[H9003\|בְּ]][[H6743B\|מַצְלִ֣יחַ]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H9003\|בְּ֝]][[H0376G\|אִ֗ישׁ]] [[H6213A\|עֹשֶׂ֥ה]] [[H4209\|מְזִמּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic DESIRE|DESIRE]] • [[topic ENVY|ENVY]] • [[topic FAITH|FAITH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PATIENCE|PATIENCE]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.6|<< Psalms 37:6]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.8|Psalms 37:8 >>]]</td></tr></table>
 

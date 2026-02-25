@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ravens Feed Elijah
+type: Pericope
 pericope: "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 17
 book/chapter: "[[1Kgs.17|1 Kings 17]]"
-genre:
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.17.1]]"
 - "[[1Kgs.17.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.17.7]]"
 ---
 
-[[1Kgs.17|1 Kings 17:1 - 1 Kings 17:7]]
+<small>[[1Kgs.17|1 Kings 17:1-7]]</small>
 *The Ravens Feed Elijah*
 
 [[1Kgs.17.1|1]] And Elijah the Tishbite, \[who was\] of the inhabitants of Gilead, said unto Ahab, \[As\] the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.

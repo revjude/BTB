@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant Remembered
+type: Pericope
 pericope: "[[Ezek.16.59 The Covenant Remembered|The Covenant Remembered]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 16
 book/chapter: "[[Ezek.16|Ezekiel 16]]"
-genre:
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 5
 verses:
 - "[[Ezek.16.59]]"
 - "[[Ezek.16.60]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezek.16.63]]"
 ---
 
-[[Ezek.16|Ezekiel 16:59 - Ezekiel 16:63]]
+<small>[[Ezek.16|Ezekiel 16:59-63]]</small>
 *The Covenant Remembered*
 
 [[Ezek.16.59|59]] For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.

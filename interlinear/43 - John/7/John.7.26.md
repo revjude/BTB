@@ -1,10 +1,59 @@
+---
+title: John 7:26
+type: Verse
+kjv: "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?"
+bsb: "Yet here He is, speaking publicly, and they are not saying anything to Him. Have the rulers truly recognized that this is the Christ?"
+greek: "καὶ ἴδε παρρησίᾳ λαλεῖ, καὶ οὐδὲν αὐτῷ λέγουσιν. μήποτε μήποτε ἀληθῶς ἔγνωσαν οἱ ἄρχοντες ὅτι οὗτός ἐστιν ἀληθῶς ὁ χριστός;"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2396]]"
+- "[[G3954]]"
+- "[[G2980]]"
+- "[[G3762]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G0230]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **John 7:26**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?
 <small><sub>**BSB:**</sub></small>
 Yet here He is, speaking publicly, and they are not saying anything to Him. Have the rulers truly recognized that this is the Christ?
-<small><sub>**Literal:**</sub></small>
-And behold publicly He speaks, and no [thing] to Him they say. otherwise Truly have recognized the rulers that this is truly the Christ?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.25|<< John 7:25]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.27|John 7:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2396\|ἴδε]]  [[G3954\|παρρησίᾳ]]  [[G2980\|λαλεῖ,]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγουσιν.]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G0230\|ἀληθῶς]]  [[G1097\|ἔγνωσαν]]  [[G3588\|οἱ]]  [[G0758\|ἄρχοντες]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G0230\|ἀληθῶς]]  [[G3588\|ὁ]]  [[G5547\|χριστός;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.25|<< John 7:25]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.27|John 7:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

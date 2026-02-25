@@ -1,6 +1,52 @@
+---
+title: LXX 1 Samuel 9:11
+type: Verse
+lxx: "In their ascending the ascent of the city, and they found young women going forth to draw water. And they say to them, Is there here the seer?"
+greek: "αυτών αναβαινόντων την ανάβασιν της πόλεως και αυτοί ευρίσκουσι κοράσια εξεληλυθότα υδρεύσασθαι ύδωρ και λέγουσιν αυταίς ει έστιν ενταύθα ο βλέπων"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[G1473]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G6273]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2147]]"
+- "[[G2877]]"
+- "[[G1831]]"
+- "[[G9528]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G3004]]"
+- "[[G1473]]"
+- "[[G1487]]"
+- "[[G1510]]"
+- "[[G7263]]"
+- "[[G3588]]"
+- "[[G0991]]"
+---
+
 **LXX 1 Samuel 9:11** 
 <small><sub>**LXX:**</sub></small>
 In their ascending the ascent of the city, and they found young women going forth to draw water. And they say to them, Is there here the seer? 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|αυτών]] [[G0305\|αναβαινόντων]] [[G3588\|την]] [[G6273\|ανάβασιν]] [[G3588\|της]] [[G4172\|πόλεως]] [[G2532\|και]] [[G1473\|αυτοί]] [[G2147\|ευρίσκουσι]] [[G2877\|κοράσια]] [[G1831\|εξεληλυθότα]] [[G9528\|υδρεύσασθαι]] [[G5204\|ύδωρ]] [[G2532\|και]] [[G3004\|λέγουσιν]] [[G1473\|αυταίς]] [[G1487\|ει]] [[G1510\|έστιν]] [[G7263\|ενταύθα]] [[G3588\|ο]] [[G0991\|βλέπων]]
 <small><sub>**MT:**</sub></small>
 [[1Sam.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
 
@@ -26,6 +72,6 @@ In their ascending the ascent of the city, and they found young women going fort
 | here | **<big>[[G7263\|ενταύθα]]</big>** |
 | the | **<big>[[G3588\|ο]]</big>** |
 | seer? | **<big>[[G0991\|βλέπων]]</big>** |
-[[1Sam.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
 
 

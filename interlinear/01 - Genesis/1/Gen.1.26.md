@@ -1,8 +1,77 @@
+---
+title: Genesis 1:26
+type: Verse
+kjv: "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+bsb: "Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”"
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־ הָאָ֔רֶץ וּבְכָל־ הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic EVE|EVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H6213H]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H6754]]"
+- "[[H9025]]"
+- "[[H9004]]"
+- "[[H1823]]"
+- "[[H9002]]"
+- "[[H7287A]]"
+- "[[H1710]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H0929]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H7431]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:26**<big><big>[[Gen.1.24 The Sixth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֔ים]] [[H6213H\|נַֽעֲשֶׂ֥ה]] [[H0120G\|אָדָ֛ם]] [[H9003\|בְּ]][[H6754\|צַלְמֵ֖]][[H9025\|נוּ]] [[H9004\|כִּ]][[H1823\|דְמוּתֵ֑]][[H9025\|נוּ]] [[H9002\|וְ]][[H7287A\|יִרְדּוּ֩]] [[H9003\|בִ]][[H1710\|דְגַ֨ת]] [[H9009\|הַ]][[H3220G\|יָּ֜ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7431\|רֶ֖מֶשׂ]] [[H9009\|הָֽ]][[H7430\|רֹמֵ֥שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BIRDS|BIRDS]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic EVE|EVE]] • [[topic GOD|GOD]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.25|<< Genesis 1:25]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.27|Genesis 1:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

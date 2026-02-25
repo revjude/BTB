@@ -1,8 +1,65 @@
+---
+title: Ezekiel 26:2
+type: Verse
+kjv: "Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste:"
+bsb: "“Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken; it has swung open to me; now that she lies in ruins I will be filled,’"
+hebrew: "בֶּן־ אָדָ֗ם יַ֠עַן אֲשֶׁר־ אָ֨מְרָה צֹּ֤ר עַל־ יְרוּשָׁלִַ֙ם֙ הֶאָ֔ח נִשְׁבְּרָ֛ה דַּלְת֥וֹת הָעַמִּ֖ים נָסֵ֣בָּה אֵלָ֑י אִמָּלְאָ֖ה הָחֳרָֽבָה׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H6865]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H1889]]"
+- "[[H7665]]"
+- "[[H1817C]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5437G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4390]]"
+- "[[H2717B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:2**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken [that was] the gates of the people: she is turned unto me: I shall be replenished, [now] she is laid waste:
 <small><sub>**BSB:**</sub></small>
 “Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken; it has swung open to me; now that she lies in ruins I will be filled,’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H3282\|יַ֠עַן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אָ֨מְרָה]] [[H6865\|צֹּ֤ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H1889\|הֶאָ֔ח]] [[H7665\|נִשְׁבְּרָ֛ה]] [[H1817C\|דַּלְת֥וֹת]] [[H9009\|הָ]][[H5971A\|עַמִּ֖ים]] [[H5437G\|נָסֵ֣בָּה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H4390\|אִמָּלְאָ֖ה]] [[H2717B\|הָחֳרָֽבָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic MOCKING|MOCKING]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.1|<< Ezekiel 26:1]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.3|Ezekiel 26:3 >>]]</td></tr></table>
 

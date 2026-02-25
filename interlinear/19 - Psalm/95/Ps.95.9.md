@@ -1,8 +1,58 @@
+---
+title: Psalm 95:9
+type: Verse
+kjv: "When your fathers tempted me, proved me, and saw my work."
+bsb: "where your fathers tested and tried Me, though they had seen My work."
+hebrew: "אֲשֶׁ֣ר נִ֭סּוּנִי אֲבוֹתֵיכֶ֑ם בְּ֝חָנ֗וּנִי גַּם־ רָא֥וּ פָעֳלִֽי׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H0834A]]"
+- "[[H5254G]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0974]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H6467]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:9**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When your fathers tempted me, proved me, and saw my work.
 <small><sub>**BSB:**</sub></small>
 where your fathers tested and tried Me, though they had seen My work.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H5254G\|נִ֭סּוּ]][[H9030\|נִי]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֑ם]] [[H0974\|בְּ֝חָנ֗וּ]][[H9030\|נִי]] [[H1571\|גַּם]][[H9014\|־]] [[H7200G\|רָא֥וּ]] [[H6467\|פָעֳלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.8|<< Psalms 95:8]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.10|Psalms 95:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,66 @@
+---
+title: Genesis 34:19
+type: Verse
+kjv: "And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he was more honourable than all the house of his father."
+bsb: "The young man, who was the most respected of all his father’s household, did not hesitate to fulfill this request, because he was delighted with Jacob’s daughter."
+hebrew: "וְלֹֽא־ אֵחַ֤ר הַנַּ֙עַר֙ לַעֲשׂ֣וֹת הַדָּבָ֔ר כִּ֥י חָפֵ֖ץ בְּבַֽת־ יַעֲקֹ֑ב וְה֣וּא נִכְבָּ֔ד מִכֹּ֖ל בֵּ֥ית אָבִֽיו׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0309]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H3588A]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H1323G]]"
+- "[[H3290]]"
+- "[[H1931]]"
+- "[[H3513G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:19**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he [was] more honourable than all the house of his father.
 <small><sub>**BSB:**</sub></small>
 The young man, who was the most respected of all his father’s household, did not hesitate to fulfill this request, because he was delighted with Jacob’s daughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0309\|אֵחַ֤ר]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9009\|הַ]][[H1697I\|דָּבָ֔ר]] [[H3588A\|כִּ֥י]] [[H2654A\|חָפֵ֖ץ]] [[H9003\|בְּ]][[H1323G\|בַֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H3513G\|נִכְבָּ֔ד]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.18|<< Genesis 34:18]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.20|Genesis 34:20 >>]]</td></tr></table>
 

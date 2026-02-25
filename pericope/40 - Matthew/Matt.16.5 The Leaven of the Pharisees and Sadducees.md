@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leaven of the Pharisees and Sadducees
+type: Pericope
 pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 16
 book/chapter: "[[Matt.16|Matthew 16]]"
-genre:
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.16.5]]"
 - "[[Matt.16.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.16.12]]"
 ---
 
-[[Matt.16|Matthew 16:5 - Matthew 16:12]]
+<small>[[Matt.16|Matthew 16:5-12]]</small>
 *The Leaven of the Pharisees and Sadducees*
 
 [[Matt.16.5|5]] And when his disciples were come to the other side, they had forgotten to take bread.

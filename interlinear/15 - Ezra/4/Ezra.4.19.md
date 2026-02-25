@@ -1,8 +1,64 @@
+---
+title: Ezra 4:19
+type: Verse
+kjv: "And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein."
+bsb: "I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition."
+aramaic: "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ וּבַקַּ֣רוּ וְהַשְׁכַּ֔חוּ דִּ֚י קִרְיְתָ֣א דָ֔ךְ מִן־ יוֹמָת֙ עָֽלְמָ֔א עַל־ מַלְכִ֖ין מִֽתְנַשְּׂאָ֑ה וּמְרַ֥ד וְאֶשְׁתַּדּ֖וּר מִתְעֲבֶד־ בַּֽהּ׃"
+pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1240]]"
+- "[[H7912]]"
+- "[[H1768]]"
+- "[[H7149]]"
+- "[[H9010]]"
+- "[[H1791]]"
+- "[[H9014]]"
+- "[[H3118]]"
+- "[[H5957]]"
+- "[[H5922]]"
+- "[[H4430]]"
+- "[[H5376]]"
+- "[[H4776]]"
+- "[[H0849]]"
+- "[[H5648]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:19**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and [that] rebellion and sedition have been made therein.
 <small><sub>**BSB:**</sub></small>
 I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4481\|מִנִּ]][[H9030\|י֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H9002\|וּ]][[H1240\|בַקַּ֣רוּ]] [[H9002\|וְ]][[H7912\|הַשְׁכַּ֔חוּ]] [[H1768\|דִּ֚י]] [[H7149\|קִרְיְתָ֣]][[H9010\|א]] [[H1791\|דָ֔ךְ]] [[H4481\|מִן]][[H9014\|־]] [[H3118\|יוֹמָת֙]] [[H5957\|עָֽלְמָ֔]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H4430\|מַלְכִ֖ין]] [[H5376\|מִֽתְנַשְּׂאָ֑ה]] [[H9002\|וּ]][[H4776\|מְרַ֥ד]] [[H9002\|וְ]][[H0849\|אֶשְׁתַּדּ֖וּר]] [[H5648\|מִתְעֲבֶד]][[H9014\|־]] [[H9003\|בַּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.18|<< Ezra 4:18]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.20|Ezra 4:20 >>]]</td></tr></table>
 

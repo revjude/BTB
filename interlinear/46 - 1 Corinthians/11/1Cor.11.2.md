@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 11:2
+type: Verse
+kjv: "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you."
+bsb: "Now I commend you for remembering me in everything and for maintaining the traditions, just as I passed them on to you."
+greek: "Ἐπαινῶ δὲ ὑμᾶς ἀδελφοί ὅτι πάντα μου μέμνησθε, καὶ καθὼς παρέδωκα ὑμῖν τὰς παραδόσεις κατέχετε.¶"
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TRADITION|TRADITION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1867]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G3403]]"
+- "[[G2532]]"
+- "[[G2531]]"
+- "[[G3860]]"
+- "[[G3588]]"
+- "[[G3862]]"
+- "[[G2722]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 11:2**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you.
 <small><sub>**BSB:**</sub></small>
 Now I commend you for remembering me in everything and for maintaining the traditions, just as I passed them on to you.
-<small><sub>**Literal:**</sub></small>
-I commend now you brothers that in all things me you have remembered, and even as I delivered to you the teachings you are keeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.1|<< 1 Corinthians 11:1]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.3|1 Corinthians 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1867\|Ἐπαινῶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G0080\|ἀδελφοί]]  [[G3754G\|ὅτι]]  [[G3956\|πάντα]]  [[G3165\|μου]]  [[G3403\|μέμνησθε,]]  [[G2532\|καὶ]]  [[G2531\|καθὼς]]  [[G3860\|παρέδωκα]]  [[G4771\|ὑμῖν]]  [[G3588\|τὰς]]  [[G3862\|παραδόσεις]]  [[G2722\|κατέχετε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TRADITION|TRADITION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.1|<< 1 Corinthians 11:1]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.3|1 Corinthians 11:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

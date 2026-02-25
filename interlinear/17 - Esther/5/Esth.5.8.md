@@ -1,8 +1,71 @@
+---
+title: Esther 5:8
+type: Verse
+kjv: "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said."
+bsb: "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, may the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”"
+hebrew: "אִם־ מָצָ֨אתִי חֵ֜ן בְּעֵינֵ֣י הַמֶּ֗לֶךְ וְאִם־ עַל־ הַמֶּ֙לֶךְ֙ ט֔וֹב לָתֵת֙ אֶת־ שְׁאֵ֣לָתִ֔י וְלַעֲשׂ֖וֹת אֶת־ בַּקָּשָׁתִ֑י יָב֧וֹא הַמֶּ֣לֶךְ וְהָמָ֗ן אֶל־ הַמִּשְׁתֶּה֙ אֲשֶׁ֣ר אֶֽעֱשֶׂ֣ה לָהֶ֔ם וּמָחָ֥ר אֶֽעֱשֶׂ֖ה כִּדְבַ֥ר הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic INDECISION|INDECISION]]"
+- "[[topic KING|KING]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H7596]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H1246]]"
+- "[[H0935G]]"
+- "[[H2001]]"
+- "[[H0413]]"
+- "[[H4960]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H4279]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:8**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.
 <small><sub>**BSB:**</sub></small>
 If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, may the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H4672\|מָצָ֨אתִי]] [[H2580\|חֵ֜ן]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H2896A\|ט֔וֹב]] [[H9005\|לָ]][[H5414G\|תֵת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7596\|שְׁאֵ֣לָתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1246\|בַּקָּשָׁתִ֑]][[H9020\|י]] [[H0935G\|יָב֧וֹא]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9002\|וְ]][[H2001\|הָמָ֗ן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4960\|מִּשְׁתֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|אֶֽעֱשֶׂ֣ה]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וּ]][[H4279\|מָחָ֥ר]] [[H6213A\|אֶֽעֱשֶׂ֖ה]] [[H9004\|כִּ]][[H1697H\|דְבַ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDECISION|INDECISION]] • [[topic KING|KING]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.7|<< Esther 5:7]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.9|Esther 5:9 >>]]</td></tr></table>
 

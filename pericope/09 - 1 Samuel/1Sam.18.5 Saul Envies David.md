@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Envies David
+type: Pericope
 pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 18
 book/chapter: "[[1Sam.18|1 Samuel 18]]"
-genre:
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[1Sam.18.5]]"
 - "[[1Sam.18.6]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Sam.18.16]]"
 ---
 
-[[1Sam.18|1 Samuel 18:5 - 1 Samuel 18:16]]
+<small>[[1Sam.18|1 Samuel 18:5-16]]</small>
 *Saul Envies David*
 
 [[1Sam.18.5|5]] And David went out whithersoever Saul sent him, \[and\] behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.

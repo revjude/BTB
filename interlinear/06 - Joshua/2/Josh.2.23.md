@@ -1,8 +1,65 @@
+---
+title: Joshua 2:23
+type: Verse
+kjv: "So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:"
+bsb: "Then the two men started back, came down from the hill country, and crossed the river. So they came to Joshua son of Nun and reported all that had happened to them."
+hebrew: "וַיָּשֻׁ֜בוּ שְׁנֵ֤י הָֽאֲנָשִׁים֙ וַיֵּרְד֣וּ מֵֽהָהָ֔ר וַיַּעַבְרוּ֙ וַיָּבֹ֔אוּ אֶל־ יְהוֹשֻׁ֖עַ בִּן־ נ֑וּן וַיְסַ֨פְּרוּ־ ל֔וֹ אֵ֥ת כָּל־ הַמֹּצְא֖וֹת אוֹתָֽם׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H5674A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H4672]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:23**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all [things] that befell them:
 <small><sub>**BSB:**</sub></small>
 Then the two men started back, came down from the hill country, and crossed the river. So they came to Joshua son of Nun and reported all that had happened to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֜בוּ]] [[H8147\|שְׁנֵ֤י]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H9001\|וַ]][[H3381\|יֵּרְד֣וּ]] [[H9006\|מֵֽ]][[H9009\|הָ]][[H2022G\|הָ֔ר]] [[H9001\|וַ]][[H5674A\|יַּעַבְרוּ֙]] [[H9001\|וַ]][[H0935G\|יָּבֹ֔אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֑וּן]] [[H9001\|וַ]][[H5608A\|יְסַ֨פְּרוּ]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4672\|מֹּצְא֖וֹת]] [[H0854\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.22|<< Joshua 2:22]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.24|Joshua 2:24 >>]]</td></tr></table>
 

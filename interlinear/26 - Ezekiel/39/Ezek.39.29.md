@@ -1,8 +1,65 @@
+---
+title: Ezekiel 39:29
+type: Verse
+kjv: "Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD."
+bsb: "And I will no longer hide My face from them, for I will pour out My Spirit on the house of Israel, declares the Lord GOD.”"
+hebrew: "וְלֹֽא־ אַסְתִּ֥יר ע֛וֹד פָּנַ֖י מֵהֶ֑ם אֲשֶׁ֨ר שָׁפַ֤כְתִּי אֶת־ רוּחִי֙ עַל־ בֵּ֣ית יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5641]]"
+- "[[H5750]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H8210G]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 39:29**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And I will no longer hide My face from them, for I will pour out My Spirit on the house of Israel, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5641\|אַסְתִּ֥יר]] [[H5750\|ע֛וֹד]] [[H6440H\|פָּנַ֖]][[H9020\|י]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H8210G\|שָׁפַ֤כְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|רוּחִ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.28|<< Ezekiel 39:28]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.1|Ezekiel 40:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,7 +83,7 @@ And I will no longer hide My face from them, for I will pour out My Spirit on th
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.28|<< Ezekiel 39:28]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.1|Ezekiel 40:1 >>]]</td></tr></table>
 
 

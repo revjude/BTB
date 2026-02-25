@@ -1,8 +1,79 @@
+---
+title: 2 Kings 23:13
+type: Verse
+kjv: "And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile."
+bsb: "The king also desecrated the high places east of Jerusalem, to the south of the Mount of Corruption, which King Solomon of Israel had built for Ashtoreth the abomination of the Sidonians, for Chemosh the abomination of the Moabites, and for Milcom the abomination of the Ammonites."
+hebrew: "וְֽאֶת־ הַבָּמ֞וֹת אֲשֶׁ֣ר׀ עַל־ פְּנֵ֣י יְרוּשָׁלִַ֗ם אֲשֶׁר֮ מִימִ֣ין לְהַר־ הַמַּשְׁחִית֒ אֲשֶׁ֣ר בָּ֠נָה שְׁלֹמֹ֨ה מֶֽלֶךְ־ יִשְׂרָאֵ֜ל לְעַשְׁתֹּ֣רֶת׀ שִׁקֻּ֣ץ צִידֹנִ֗ים וְלִכְמוֹשׁ֙ שִׁקֻּ֣ץ מוֹאָ֔ב וּלְמִלְכֹּ֖ם תּוֹעֲבַ֣ת בְּנֵֽי־ עַמּ֑וֹן טִמֵּ֖א הַמֶּֽלֶךְ׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic CHEMOSH|CHEMOSH]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H3389]]"
+- "[[H9006]]"
+- "[[H3225H]]"
+- "[[H9005]]"
+- "[[H2022G]]"
+- "[[H4889]]"
+- "[[H1129]]"
+- "[[H8010]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H6253]]"
+- "[[H8251]]"
+- "[[H6722]]"
+- "[[H3645]]"
+- "[[H4124G]]"
+- "[[H4445B]]"
+- "[[H8441]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:13**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the high places that [were] before Jerusalem, which [were] on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 <small><sub>**BSB:**</sub></small>
 The king also desecrated the high places east of Jerusalem, to the south of the Mount of Corruption, which King Solomon of Israel had built for Ashtoreth the abomination of the Sidonians, for Chemosh the abomination of the Moabites, and for Milcom the abomination of the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמ֞וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H0834A\|אֲשֶׁר֮]] [[H9006\|מִ]][[H3225H\|ימִ֣ין]] [[H9005\|לְ]][[H2022G\|הַר]][[H9014\|־]] [[H9009\|הַ]][[H4889\|מַּשְׁחִית֒]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּ֠נָה]] [[H8010\|שְׁלֹמֹ֨ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9005\|לְ]][[H6253\|עַשְׁתֹּ֣רֶת]][[H9015\|׀]] [[H8251\|שִׁקֻּ֣ץ]] [[H6722\|צִידֹנִ֗ים]] [[H9002\|וְ]][[H9005\|לִ]][[H3645\|כְמוֹשׁ֙]] [[H8251\|שִׁקֻּ֣ץ]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וּ]][[H9005\|לְ]][[H4445B\|מִלְכֹּ֖ם]] [[H8441\|תּוֹעֲבַ֣ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֑וֹן]] [[H2930A\|טִמֵּ֖א]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ASHTORETH|ASHTORETH]] • [[topic CHEMOSH|CHEMOSH]] • [[topic CORRUPTION|CORRUPTION]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]] • [[topic PROPHECY|PROPHECY]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.12|<< 2 Kings 23:12]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.14|2 Kings 23:14 >>]]</td></tr></table>
 

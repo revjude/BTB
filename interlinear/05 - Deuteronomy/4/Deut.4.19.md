@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 4:19
+type: Verse
+kjv: "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven."
+bsb: "When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven."
+hebrew: "וּפֶן־ תִּשָּׂ֨א עֵינֶ֜יךָ הַשָּׁמַ֗יְמָה וְֽ֠רָאִיתָ אֶת־ הַשֶּׁ֨מֶשׁ וְאֶת־ הַיָּרֵ֜חַ וְאֶת־ הַכּֽוֹכָבִ֗ים כֹּ֚ל צְבָ֣א הַשָּׁמַ֔יִם וְנִדַּחְתָּ֛ וְהִשְׁתַּחֲוִ֥יתָ לָהֶ֖ם וַעֲבַדְתָּ֑ם אֲשֶׁ֨ר חָלַ֜ק יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֹתָ֔ם לְכֹל֙ הָֽעַמִּ֔ים תַּ֖חַת כָּל־ הַשָּׁמָֽיִם׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOON|MOON]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STARS|STARS]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H5375G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H8121]]"
+- "[[H3394]]"
+- "[[H3556]]"
+- "[[H3605]]"
+- "[[H6635A]]"
+- "[[H5080]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5647H]]"
+- "[[H0834A]]"
+- "[[H2505A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5971A]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:19**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, [even] all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.
 <small><sub>**BSB:**</sub></small>
 When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6435\|פֶן]][[H9014\|־]] [[H5375G\|תִּשָּׂ֨א]] [[H5869A\|עֵינֶ֜י]][[H9021\|ךָ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יְמָ]][[H9011\|ה]] [[H9001\|וְֽ֠]][[H7200G\|רָאִיתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8121\|שֶּׁ֨מֶשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3394\|יָּרֵ֜חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3556\|כּֽוֹכָבִ֗ים]] [[H3605\|כֹּ֚ל]] [[H6635A\|צְבָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וְ]][[H5080\|נִדַּחְתָּ֛]] [[H9001\|וְ]][[H7812\|הִשְׁתַּחֲוִ֥יתָ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H5647H\|עֲבַדְתָּ֑]][[H9038\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H2505A\|חָלַ֜ק]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H8478G\|תַּ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOON|MOON]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STARS|STARS]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.18|<< Deuteronomy 4:18]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.20|Deuteronomy 4:20 >>]]</td></tr></table>
 

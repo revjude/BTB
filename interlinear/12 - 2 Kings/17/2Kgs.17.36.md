@@ -1,8 +1,68 @@
+---
+title: 2 Kings 17:36
+type: Verse
+kjv: "But the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice."
+bsb: "Instead, worship the LORD, who brought you out of the land of Egypt with great power and an outstretched arm. You are to bow down to Him and offer sacrifices to Him."
+hebrew: "כִּ֣י אִֽם־ אֶת־ יְהוָ֗ה אֲשֶׁר֩ הֶעֱלָ֨ה אֶתְכֶ֜ם מֵאֶ֧רֶץ מִצְרַ֛יִם בְּכֹ֧חַ גָּד֛וֹל וּבִזְר֥וֹעַ נְטוּיָ֖ה אֹת֣וֹ תִירָ֑אוּ וְל֥וֹ תִֽשְׁתַּחֲו֖וּ וְל֥וֹ תִזְבָּֽחוּ׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H9033]]"
+- "[[H3372G]]"
+- "[[H9005]]"
+- "[[H7812]]"
+- "[[H2076]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:36**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall ye fear, and him shall ye worship, and to him shall ye do sacrifice.
 <small><sub>**BSB:**</sub></small>
 Instead, worship the LORD, who brought you out of the land of Egypt with great power and an outstretched arm. You are to bow down to Him and offer sacrifices to Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִֽם]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁר֩]] [[H5927H\|הֶעֱלָ֨ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֜ם]] [[H9006\|מֵ]][[H0776G\|אֶ֧רֶץ]] [[H4714G\|מִצְרַ֛יִם]] [[H9003\|בְּ]][[H3581B\|כֹ֧חַ]] [[H1419A\|גָּד֛וֹל]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְר֥וֹעַ]] [[H5186\|נְטוּיָ֖ה]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H3372G\|תִירָ֑אוּ]] [[H9002\|וְ]][[H9005\|ל֥]][[H9033\|וֹ]] [[H7812\|תִֽשְׁתַּחֲו֖וּ]] [[H9002\|וְ]][[H9005\|ל֥]][[H9033\|וֹ]] [[H2076\|תִזְבָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic GOD|GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic REVERENCE|REVERENCE]] • [[topic SAMARIA|SAMARIA]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.35|<< 2 Kings 17:35]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.37|2 Kings 17:37 >>]]</td></tr></table>
 

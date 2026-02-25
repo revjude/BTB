@@ -1,8 +1,91 @@
+---
+title: 1 Kings 21:13
+type: Verse
+kjv: "And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, even against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died."
+bsb: "And the two scoundrels came in and sat opposite Naboth, and these men testified against him before the people, saying, “Naboth has cursed both God and the king!” So they took him outside the city and stoned him to death."
+hebrew: "וַ֠יָּבֹאוּ שְׁנֵ֨י הָאֲנָשִׁ֥ים בְּנֵֽי־ בְלִיַּעַל֮ וַיֵּשְׁב֣וּ נֶגְדּוֹ֒ וַיְעִדֻהוּ֩ אַנְשֵׁ֨י הַבְּלִיַּ֜עַל אֶת־ נָב֗וֹת נֶ֤גֶד הָעָם֙ לֵאמֹ֔ר בֵּרַ֥ךְ נָב֛וֹת אֱלֹהִ֖ים וָמֶ֑לֶךְ וַיֹּצִאֻ֙הוּ֙ מִח֣וּץ לָעִ֔יר וַיִּסְקְלֻ֥הוּ בָאֲבָנִ֖ים וַיָּמֹֽת׃"
+pericope: "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic STONING|STONING]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1100G]]"
+- "[[H3427]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H5749B]]"
+- "[[H0853]]"
+- "[[H5022]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H5892B]]"
+- "[[H5619]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:13**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, [even] against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died.
 <small><sub>**BSB:**</sub></small>
 And the two scoundrels came in and sat opposite Naboth, and these men testified against him before the people, saying, “Naboth has cursed both God and the king!” So they took him outside the city and stoned him to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0935G\|יָּבֹאוּ]] [[H8147\|שְׁנֵ֨י]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֥ים]] [[H1121H\|בְּנֵֽי]][[H9014\|־]] [[H1100G\|בְלִיַּעַל֮]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֣וּ]] [[H5048\|נֶגְדּ]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H5749B\|יְעִדֻ]][[H9033\|הוּ֩]] [[H0582\|אַנְשֵׁ֨י]] [[H9009\|הַ]][[H1100G\|בְּלִיַּ֜עַל]] [[H0853\|אֶת]][[H9014\|־]] [[H5022\|נָב֗וֹת]] [[H5048\|נֶ֤גֶד]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1288\|בֵּרַ֥ךְ]] [[H5022\|נָב֛וֹת]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וָ]][[H4428G\|מֶ֑לֶךְ]] [[H9001\|וַ]][[H3318H\|יֹּצִאֻ֙]][[H9033\|הוּ֙]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H5619\|יִּסְקְלֻ֥]][[H9033\|הוּ]] [[H9003\|בָ]][[H0068G\|אֲבָנִ֖ים]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CONFISCATION|CONFISCATION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic PERJURY|PERJURY]] • [[topic SLANDER|SLANDER]] • [[topic STONING|STONING]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.12|<< 1 Kings 21:12]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.14|1 Kings 21:14 >>]]</td></tr></table>
 

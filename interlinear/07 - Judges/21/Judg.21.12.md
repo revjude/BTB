@@ -1,8 +1,74 @@
+---
+title: Judges 21:12
+type: Verse
+kjv: "And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which is in the land of Canaan."
+bsb: "So they found among the inhabitants of Jabesh-gilead four hundred young women who had not had relations with a man, and they brought them to the camp at Shiloh in the land of Canaan."
+hebrew: "וַֽיִּמְצְא֞וּ מִיּוֹשְׁבֵ֣י׀ יָבֵ֣ישׁ גִּלְעָ֗ד אַרְבַּ֤ע מֵאוֹת֙ נַעֲרָ֣ה בְתוּלָ֔ה אֲשֶׁ֧ר לֹֽא־ יָדְעָ֛ה אִ֖ישׁ לְמִשְׁכַּ֣ב זָכָ֑ר וַיָּבִ֨יאוּ אוֹתָ֤ם אֶל־ הַֽמַּחֲנֶה֙ שִׁלֹ֔ה אֲשֶׁ֖ר בְּאֶ֥רֶץ כְּנָֽעַן׃ ס"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9006]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H3003G]]"
+- "[[H1568L]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H5291]]"
+- "[[H1330]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H4904]]"
+- "[[H2145]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H7887]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 21:12**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which [is] in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
 So they found among the inhabitants of Jabesh-gilead four hundred young women who had not had relations with a man, and they brought them to the camp at Shiloh in the land of Canaan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H4672\|יִּמְצְא֞וּ]] [[H9006\|מִ]][[H3427\|יּוֹשְׁבֵ֣י]][[H9015\|׀]] [[H3003G\|יָבֵ֣ישׁ]] [[H1568L\|גִּלְעָ֗ד]] [[H0702\|אַרְבַּ֤ע]] [[H3967\|מֵאוֹת֙]] [[H5291\|נַעֲרָ֣ה]] [[H1330\|בְתוּלָ֔ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדְעָ֛ה]] [[H0376G\|אִ֖ישׁ]] [[H9005\|לְ]][[H4904\|מִשְׁכַּ֣ב]] [[H2145\|זָכָ֑ר]] [[H9001\|וַ]][[H0935P\|יָּבִ֨יאוּ]] [[H0853\|אוֹתָ֤]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶה֙]] [[H7887\|שִׁלֹ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.11|<< Judges 21:11]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.13|Judges 21:13 >>]]</td></tr></table>
 
@@ -29,7 +95,7 @@ So they found among the inhabitants of Jabesh-gilead four hundred young women wh
 | Shiloh  |**<big>&#8207;[[H7887\|שִׁלֹ֔ה]]&#8207; </big>**| shi.Loh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Canaan  |**<big>&#8207;[[H3667A\|כְּנָֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנָֽעַן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.11|<< Judges 21:11]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.13|Judges 21:13 >>]]</td></tr></table>
 
 

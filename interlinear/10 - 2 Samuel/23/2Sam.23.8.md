@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 23:8
+type: Verse
+kjv: "These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, whom he slew at one time."
+bsb: "These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time."
+hebrew: "אֵ֛לֶּה שְׁמ֥וֹת הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑ד יֹשֵׁ֨ב בַּשֶּׁ֜בֶת תַּחְכְּמֹנִ֣י׀ רֹ֣אשׁ הַשָּׁלִשִׁ֗י ה֚וּא עֲדִינ֣וֹ הָֽעֶצְנִ֔י עַל־ שְׁמֹנֶ֥ה מֵא֛וֹת חָלָ֖ל בְּפַ֥עַם אֶחָֽת׃ ס"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADINO|ADINO]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JASHOBEAM|JASHOBEAM]]"
+strongs:
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H3429]]"
+- "[[H8461]]"
+- "[[H9015]]"
+- "[[H7218H]]"
+- "[[H7991C]]"
+- "[[H1931]]"
+- "[[H5722]]"
+- "[[H6112H]]"
+- "[[H9023]]"
+- "[[H6112G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H3967]]"
+- "[[H2491A]]"
+- "[[H9003]]"
+- "[[H6471]]"
+- "[[H0259]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 23:8**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [be] the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same [was] Adino the Eznite: [he lift up his spear] against eight hundred, whom he slew at one time.
 <small><sub>**BSB:**</sub></small>
 These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H8034\|שְׁמ֥וֹת]] [[H9009\|הַ]][[H1368\|גִּבֹּרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H1732\|דָוִ֑ד]] [[H3429\|יֹשֵׁ֨ב]] [[H3429\|בַּשֶּׁ֜בֶת]] [[H8461\|תַּחְכְּמֹנִ֣י]][[H9015\|׀]] [[H7218H\|רֹ֣אשׁ]] [[H9009\|הַ]][[H7991C\|שָּׁלִשִׁ֗י]] [[H1931\|ה֚וּא]] [[H5722\|עֲדִינ֣וֹ]] [[H9009\|הָֽ]][[H6112G\|עֶצְנִ֔י]] [[H5921A\|עַל]][[H9014\|־]] [[H8083\|שְׁמֹנֶ֥ה]] [[H3967\|מֵא֛וֹת]] [[H2491A\|חָלָ֖ל]] [[H9003\|בְּ]][[H6471\|פַ֥עַם]] [[H0259\|אֶחָֽת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADINO|ADINO]] • [[topic ARMIES|ARMIES]] • [[topic JASHOBEAM|JASHOBEAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.7|<< 2 Samuel 23:7]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.9|2 Samuel 23:9 >>]]</td></tr></table>
 
@@ -26,12 +89,12 @@ These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite 
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֛וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one] slain  |**<big>&#8207;[[H2491A\|חָלָ֖ל]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at a time  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6471\|פַ֥עַם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  [^4]|**<big>&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^5] | 'e.chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| one  [^4]|**<big>&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^5] | 'e.chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.7|<< 2 Samuel 23:7]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.9|2 Samuel 23:9 >>]]</td></tr></table>
 
-[^1]: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: \<the> spear his  | **<big>[[H9009|הָ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9023|וֹ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: \<the> spear his  | **<big>[[H9009|הָ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9023|וֹ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הָֽעֶצְנִ֔/ו</big></span>**
-[^4]: one  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: one  | **<big>[[H0259|אֶחָד]]</big><big>[[H9016|׃]]</big><big>[[H9018|ס]]</big> ** | 'e.chad<small><sup>[[HNcbsa]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>אֶחָֽד\׃\ \ס</big></span>**
 

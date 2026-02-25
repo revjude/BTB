@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Renews the Covenant
+type: Pericope
 pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 34
 book/chapter: "[[Exod.34|Exodus 34]]"
-genre:
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 26
 verses:
 - "[[Exod.34.10]]"
 - "[[Exod.34.11]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Exod.34.35]]"
 ---
 
-[[Exod.34|Exodus 34:10 - Exodus 34:35]]
+<small>[[Exod.34|Exodus 34:10-35]]</small>
 *The LORD Renews the Covenant*
 
 [[Exod.34.10|10]] And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou \[art\] shall see the work of the LORD: for it \[is\] a terrible thing that I will do with thee.

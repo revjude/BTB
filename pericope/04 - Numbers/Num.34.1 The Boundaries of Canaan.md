@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boundaries of Canaan
+type: Pericope
 pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 34
 book/chapter: "[[Num.34|Numbers 34]]"
-genre:
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 15
 verses:
 - "[[Num.34.1]]"
 - "[[Num.34.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Num.34.15]]"
 ---
 
-[[Num.34|Numbers 34:1 - Numbers 34:15]]
+<small>[[Num.34|Numbers 34:1-15]]</small>
 *The Boundaries of Canaan*
 
 [[Num.34.1|1]] And the LORD spake unto Moses, saying,

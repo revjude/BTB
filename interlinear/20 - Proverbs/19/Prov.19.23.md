@@ -1,8 +1,54 @@
+---
+title: Proverbs 19:23
+type: Verse
+kjv: "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil."
+bsb: "The fear of the LORD leads to life, that one may rest content, without visitation from harm."
+hebrew: "יִרְאַ֣ת יְהוָ֣ה לְחַיִּ֑ים וְשָׂבֵ֥עַ יָ֝לִ֗ין בַּל־ יִפָּ֥קֶד רָֽע׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H7649]]"
+- "[[H3885A]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H6485I]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:23**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [tendeth] to life: and [he that hath it] shall abide satisfied; he shall not be visited with evil.
 <small><sub>**BSB:**</sub></small>
 The fear of the LORD leads to life, that one may rest content, without visitation from harm.
+<small><sub>**Hebrew:**</sub></small>
+[[H3374\|יִרְאַ֣ת]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לְ]][[H2416E\|חַיִּ֑ים]] [[H9002\|וְ]][[H7649\|שָׂבֵ֥עַ]] [[H3885A\|יָ֝לִ֗ין]] [[H1077\|בַּל]][[H9014\|־]] [[H6485I\|יִפָּ֥קֶד]] [[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.22|<< Proverbs 19:22]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.24|Proverbs 19:24 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Jeremiah 29:10
+type: Verse
+kjv: "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
+bsb: "For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place."
+hebrew: "כִּֽי־ כֹה֙ אָמַ֣ר יְהוָ֔ה כִּ֠י לְפִ֞י מְלֹ֧את לְבָבֶ֛ל שִׁבְעִ֥ים שָׁנָ֖ה אֶפְקֹ֣ד אֶתְכֶ֑ם וַהֲקִמֹתִ֤י עֲלֵיכֶם֙ אֶת־ דְּבָרִ֣י הַטּ֔וֹב לְהָשִׁ֣יב אֶתְכֶ֔ם אֶל־ הַמָּק֖וֹם הַזֶּֽה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6310G]]"
+- "[[H4390]]"
+- "[[H0894]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H6485I]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H1697J]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:10**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֠י]] [[H9005\|לְ]][[H6310G\|פִ֞י]] [[H4390\|מְלֹ֧את]] [[H9005\|לְ]][[H0894\|בָבֶ֛ל]] [[H7657\|שִׁבְעִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H6485I\|אֶפְקֹ֣ד]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֤י]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697J\|דְּבָרִ֣]][[H9020\|י]] [[H9009\|הַ]][[H2896A\|טּ֔וֹב]] [[H9005\|לְ]][[H7725G\|הָשִׁ֣יב]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic SEVENTY|SEVENTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.9|<< Jeremiah 29:9]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.11|Jeremiah 29:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

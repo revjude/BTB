@@ -1,8 +1,55 @@
+---
+title: Psalm 115:18
+type: Verse
+kjv: "But we will bless the LORD from this time forth and for evermore. Praise the LORD."
+bsb: "But it is we who will bless the LORD, both now and forevermore. Hallelujah!"
+hebrew: "וַאֲנַ֤חְנוּ׀ נְבָ֘רֵ֤ךְ יָ֗הּ מֵֽעַתָּ֥ה וְעַד־ עוֹלָ֗ם הַֽלְלוּ־ יָֽהּ׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H9015]]"
+- "[[H1288]]"
+- "[[H3050]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H1984B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:18**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we will bless the LORD from this time forth and for evermore. Praise the LORD.
 <small><sub>**BSB:**</sub></small>
 But it is we who will bless the LORD, both now and forevermore. Hallelujah!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0587\|אֲנַ֤חְנוּ]][[H9015\|׀]] [[H1288\|נְבָ֘רֵ֤ךְ]] [[H3050\|יָ֗הּ]] [[H9006\|מֵֽ]][[H6258\|עַתָּ֥ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֗ם]] [[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.17|<< Psalms 115:17]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.1|Psalms 116:1 >>]]</td></tr></table>
 

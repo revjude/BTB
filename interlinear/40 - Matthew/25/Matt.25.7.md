@@ -1,10 +1,64 @@
+---
+title: Matthew 25:7
+type: Verse
+kjv: "Then all those virgins arose, and trimmed their lamps."
+bsb: "Then all the virgins woke up and trimmed their lamps."
+jesus_said: "Then all those virgins arose, and trimmed their lamps."
+greek: "τότε ἠγέρθησαν πᾶσαι αἱ παρθένοι ἐκεῖναι καὶ ἐκόσμησαν τὰς λαμπάδας ἑαυτῶν."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5119]]"
+- "[[G1453]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3933]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G2885]]"
+- "[[G2985]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:7**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then all those virgins arose, and trimmed their lamps.
 <small><sub>**BSB:**</sub></small>
 Then all the virgins woke up and trimmed their lamps.
-<small><sub>**Literal:**</sub></small>
-Then arose all the virgins those and trimmed the lamps their own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.6|<< Matthew 25:6]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.8|Matthew 25:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G1453\|ἠγέρθησαν]]  [[G3956\|πᾶσαι]]  [[G3588\|αἱ]]  [[G3933\|παρθένοι]]  [[G1565\|ἐκεῖναι]]  [[G2532\|καὶ]]  [[G2885\|ἐκόσμησαν]]  [[G3588\|τὰς]]  [[G2985\|λαμπάδας]]  [[G1438\|ἑαυτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.6|<< Matthew 25:6]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.8|Matthew 25:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Romans 1:12
+type: Verse
+kjv: "That is, that I may be comforted together with you by the mutual faith both of you and me."
+bsb: "that is, that you and I may be mutually encouraged by each other’s faith."
+greek: "τοῦτο δέ ἐστιν συμπαρακληθῆναι ἐν ὑμῖν διὰ τῆς ἐν ἀλλήλοις πίστεως, ὑμῶν τε καὶ ἐμοῦ.¶"
+pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G4837]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G0240]]"
+- "[[G4102G]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Romans 1:12**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That is, that I may be comforted together with you by the mutual faith both of you and me.
 <small><sub>**BSB:**</sub></small>
 that is, that you and I may be mutually encouraged by each other’s faith.
-<small><sub>**Literal:**</sub></small>
-that now is to be encouraged together among you through the among one another faith of you both and of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.11|<< Romans 1:11]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.13|Romans 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G4837\|συμπαρακληθῆναι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G0240\|ἀλλήλοις]]  [[G4102G\|πίστεως,]]  [[G4771\|ὑμῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1473\|ἐμοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HUMILITY|HUMILITY]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.11|<< Romans 1:11]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.13|Romans 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

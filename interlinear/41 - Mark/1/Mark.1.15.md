@@ -1,10 +1,57 @@
+---
+title: Mark 1:15
+type: Verse
+kjv: "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+bsb: "“The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”"
+jesus_said: "The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+greek: "καὶ λέγων ὅτι πεπλήρωται ὁ καιρὸς καὶ ἤγγικεν ἡ βασιλεία τοῦ θεοῦ· μετανοεῖτε καὶ πιστεύετε ἐν τῷ εὐαγγελίῳ.¶"
+pericope: "[[Mark.1.12 The Temptation and Preaching of Jesus|The Temptation and Preaching of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1448]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3340]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G2098]]"
+texts:
+- NKO
+---
+
 **Mark 1:15**<big><big>[[Mark.1.12 The Temptation and Preaching of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
 <small><sub>**BSB:**</sub></small>
 “The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”
-<small><sub>**Literal:**</sub></small>
-and saying that Has been fulfilled the time and has drawn near the kingdom <the> of God; do repent and do believe in the gospel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.14|<< Mark 1:14]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.16|Mark 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G4137\|πεπλήρωται]]  [[G3588\|ὁ]]  [[G2540\|καιρὸς]]  [[G2532\|καὶ]]  [[G1448\|ἤγγικεν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G3340\|μετανοεῖτε]]  [[G2532\|καὶ]]  [[G4100\|πιστεύετε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic PREACHING|PREACHING]] • [[topic REPENTANCE|REPENTANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.14|<< Mark 1:14]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.16|Mark 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

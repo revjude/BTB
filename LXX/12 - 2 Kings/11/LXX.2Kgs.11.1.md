@@ -1,9 +1,65 @@
+---
+title: LXX 2 Kings 11:1
+type: Verse
+lxx: "And Athaliah the mother of Ahaziah saw that her son died, and she rose up and destroyed all the seed of the kingdom."
+greek: "και Γοθολία η μήτηρ Οχοζίου είδεν ότι απέθανεν ο υιός αυτής και ανέστη και απώλεσε παν το σπέρμα της βασιλείας"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ATHALIAH|ATHALIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[H6271]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[H0274]]"
+- "[[G1492]]"
+- "[[G3754]]"
+- "[[G0599]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G0622]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4690]]"
+- "[[G3588]]"
+- "[[G0932]]"
+---
+
 **LXX 2 Kings 11:1** 
 
 ***Athaliah Destroys the Seed of the Kingdom***
 
 <small><sub>**LXX:**</sub></small>
 And Athaliah the mother of Ahaziah saw that her son died, and she rose up and destroyed all the seed of the kingdom. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[H6271\|Γοθολία]] [[G3588\|η]] [[G3384\|μήτηρ]] [[H0274\|Οχοζίου]] [[G1492\|είδεν]] [[G3754\|ότι]] [[G0599\|απέθανεν]] [[G3588\|ο]] [[G5207\|υιός]] [[G1473\|αυτής]] [[G2532\|και]] [[G0450\|ανέστη]] [[G2532\|και]] [[G0622\|απώλεσε]] [[G3956\|παν]] [[G3588\|το]] [[G4690\|σπέρμα]] [[G3588\|της]] [[G0932\|βασιλείας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHALIAH|ATHALIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOASH|JOASH]] • [[topic MASSACRE|MASSACRE]] • [[topic ORPHAN|ORPHAN]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.36|<< 2 Kings 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.2|2 Kings 11:2 >>]]</td></tr></table>
 
@@ -28,6 +84,6 @@ And Athaliah the mother of Ahaziah saw that her son died, and she rose up and de
 | seed | **<big>[[G4690\|σπέρμα]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | kingdom. | **<big>[[G0932\|βασιλείας]]</big>** |
-[[2Kgs.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.36|<< 2 Kings 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.2|2 Kings 11:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.36|<< 2 Kings 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.2|2 Kings 11:2 >>]]</td></tr></table>
 
 

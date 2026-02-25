@@ -17,7 +17,7 @@
 
 - By purchase [[Acts.22.28|Ac 22:28]]
 
-→ The rights of citizens [[Acts.16.37|Ac 16:37]]; [[Acts.22.25|22:25]]-[[Acts.22.29|29]]
+→ The rights of citizens [[Acts.16.37|Ac 16:37]]; [[Acts.22.25|22:25-29]]
 
 → The right of trial [[Acts.25.16|Ac 25:16]]
 

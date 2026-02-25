@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 26:25
+type: Verse
+kjv: "Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place."
+bsb: "Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home."
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל אֶל־ דָּוִ֗ד בָּר֤וּךְ אַתָּה֙ בְּנִ֣י דָוִ֔ד גַּ֚ם עָשֹׂ֣ה תַעֲשֶׂ֔ה וְגַ֖ם יָכֹ֣ל תּוּכָ֑ל וַיֵּ֤לֶךְ דָּוִד֙ לְדַרְכּ֔וֹ וְשָׁא֖וּל שָׁ֥ב לִמְקוֹמֽוֹ׃ פ"
+pericope: "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H1288]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H1571]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H3201]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H7725G]]"
+- "[[H4725]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 26:25**<big><big>[[1Sam.26.21 Saul Acknowledges His Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul said to David, Blessed [be] thou, my son David: thou shalt both do great [things], and also shalt still prevail. So David went on his way, and Saul returned to his place.
 <small><sub>**BSB:**</sub></small>
 Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H1288\|בָּר֤וּךְ]] [[H0859A\|אַתָּה֙]] [[H1121A\|בְּנִ֣]][[H9020\|י]] [[H1732\|דָוִ֔ד]] [[H1571\|גַּ֚ם]] [[H6213A\|עָשֹׂ֣ה]] [[H6213A\|תַעֲשֶׂ֔ה]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H3201\|יָכֹ֣ל]] [[H3201\|תּוּכָ֑ל]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H1732\|דָּוִד֙]] [[H9005\|לְ]][[H1870L\|דַרְכּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H7586G\|שָׁא֖וּל]] [[H7725G\|שָׁ֥ב]] [[H9005\|לִ]][[H4725\|מְקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.24|<< 1 Samuel 26:24]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.1|1 Samuel 27:1 >>]]</td></tr></table>
 
@@ -27,7 +77,7 @@ Saul said to him, “May you be blessed, David my son. You will accomplish great
 | to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Saul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he returned  |**<big>&#8207;[[H7725G\|שָׁ֥ב]]&#8207; </big>**| shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to place his  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4725\|מְקוֹמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.ko.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to place his  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4725\|מְקוֹמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.ko.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.24|<< 1 Samuel 26:24]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.1|1 Samuel 27:1 >>]]</td></tr></table>
 
 

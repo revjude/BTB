@@ -1,8 +1,49 @@
+---
+title: Jeremiah 2:4
+type: Verse
+kjv: "Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:"
+bsb: "Hear the word of the LORD, O house of Jacob, and all you families of the house of Israel."
+hebrew: "שִׁמְע֥וּ דְבַר־ יְהוָ֖ה בֵּ֣ית יַעֲקֹ֑ב וְכָֽל־ מִשְׁפְּח֖וֹת בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:4**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:
 <small><sub>**BSB:**</sub></small>
 Hear the word of the LORD, O house of Jacob, and all you families of the house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֥וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4940\|מִשְׁפְּח֖וֹת]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.3|<< Jeremiah 2:3]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.5|Jeremiah 2:5 >>]]</td></tr></table>
 

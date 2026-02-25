@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Egypt Will Fall like Assyria
+type: Pericope
 pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 31
 book/chapter: "[[Ezek.31|Ezekiel 31]]"
-genre:
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 18
 verses:
 - "[[Ezek.31.1]]"
 - "[[Ezek.31.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ezek.31.18]]"
 ---
 
-[[Ezek.31|Ezekiel 31:1 - Ezekiel 31:18]]
+<small>[[Ezek.31|Ezekiel 31:1-18]]</small>
 *Egypt Will Fall like Assyria*
 
 [[Ezek.31.1|1]] And it came to pass in the eleventh year, in the third \[month\], in the first \[day\] of the month, \[that\] the word of the LORD came unto me, saying,

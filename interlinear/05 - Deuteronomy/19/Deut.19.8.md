@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 19:8
+type: Verse
+kjv: "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+bsb: "And if the LORD your God enlarges your territory, as He swore to your fathers, and gives you all the land He promised them,"
+hebrew: "וְאִם־ יַרְחִ֞יב יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־ גְּבֻ֣לְךָ֔ כַּאֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶ֑יךָ וְנָ֤תַן לְךָ֙ אֶת־ כָּל־ הָאָ֔רֶץ אֲשֶׁ֥ר דִּבֶּ֖ר לָתֵ֥ת לַאֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7337]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H1366H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:8**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;
 <small><sub>**BSB:**</sub></small>
 And if the LORD your God enlarges your territory, as He swore to your fathers, and gives you all the land He promised them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7337\|יַרְחִ֞יב]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1366H\|גְּבֻ֣לְ]][[H9021\|ךָ֔]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5414G\|נָ֤תַן]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֶּ֖ר]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.7|<< Deuteronomy 19:7]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.9|Deuteronomy 19:9 >>]]</td></tr></table>
 

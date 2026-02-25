@@ -1,6 +1,74 @@
+---
+title: LXX Exodus 12:17
+type: Verse
+lxx: "And you shall guard  this commandment. For in  this day I will lead  your force from out of the land of Egypt. And you shall appoint  this day into your generations as an eternal law."
+greek: "και φυλάξεσθε την εντολήν ταύτην εν γαρ τη ημέρα ταύτη εξάξω την δύναμιν υμών εκ γης Αιγύπτου και ποιήσετε την ημέραν ταύτην εις γενεάς υμών νόμιμον αιώνιον"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5442]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G1806]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G1519]]"
+- "[[G1074]]"
+- "[[G1473]]"
+- "[[G8403]]"
+- "[[G0166]]"
+---
+
 **LXX Exodus 12:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard  this commandment. For in  this day I will lead  your force from out of \[the\] land of Egypt. And you shall appoint  this day into your generations \[as an\] eternal law. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5442\|φυλάξεσθε]] [[G3588\|την]] [[G1785\|εντολήν]] [[G3778\|ταύτην]] [[G1722\|εν]] [[G1063\|γαρ]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3778\|ταύτη]] [[G1806\|εξάξω]] [[G3588\|την]] [[G1411\|δύναμιν]] [[G1473\|υμών]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G4160\|ποιήσετε]] [[G3588\|την]] [[G2250\|ημέραν]] [[G3778\|ταύτην]] [[G1519\|εις]] [[G1074\|γενεάς]] [[G1473\|υμών]] [[G8403\|νόμιμον]] [[G0166\|αιώνιον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic PLAGUE|PLAGUE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.16|<< Exodus 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.18|Exodus 12:18 >>]]</td></tr></table>
 
@@ -27,6 +95,6 @@ And you shall guard  this commandment. For in  this day I will lead  your force 
 | your generations | **<big>[[G1074\|γενεάς]]</big>** **<big>[[G1473\|υμών]]</big>** |
 | law | **<big>[[G8403\|νόμιμον]]</big>** |
 | \[as an\] eternal | **<big>[[G0166\|αιώνιον]]</big>** |
-[[Exod.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.16|<< Exodus 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.18|Exodus 12:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.16|<< Exodus 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.18|Exodus 12:18 >>]]</td></tr></table>
 
 

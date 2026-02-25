@@ -1,8 +1,77 @@
+---
+title: Genesis 30:14
+type: Verse
+kjv: "And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes."
+bsb: "Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.”"
+hebrew: "וַיֵּ֨לֶךְ רְאוּבֵ֜ן בִּימֵ֣י קְצִיר־ חִטִּ֗ים וַיִּמְצָ֤א דֽוּדָאִים֙ בַּשָּׂדֶ֔ה וַיָּבֵ֣א אֹתָ֔ם אֶל־ לֵאָ֖ה אִמּ֑וֹ וַתֹּ֤אמֶר רָחֵל֙ אֶל־ לֵאָ֔ה תְּנִי־ נָ֣א לִ֔י מִדּוּדָאֵ֖י בְּנֵֽךְ׃"
+pericope: "[[Gen.30.9 Gad and Asher|Gad and Asher]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MANDRAKE|MANDRAKE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H7205]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7105A]]"
+- "[[H9014]]"
+- "[[H2406]]"
+- "[[H4672]]"
+- "[[H1736]]"
+- "[[H7704G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H3812]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H7354]]"
+- "[[H5414G]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:14**<big><big>[[Gen.30.9 Gad and Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes.
 <small><sub>**BSB:**</sub></small>
 Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H7205\|רְאוּבֵ֜ן]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H7105A\|קְצִיר]][[H9014\|־]] [[H2406\|חִטִּ֗ים]] [[H9001\|וַ]][[H4672\|יִּמְצָ֤א]] [[H1736\|דֽוּדָאִים֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H9001\|וַ]][[H0935P\|יָּבֵ֣א]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3812\|לֵאָ֖ה]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H7354\|רָחֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3812\|לֵאָ֔ה]] [[H5414G\|תְּנִי]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9005\|לִ֔]][[H9030\|י]] [[H9006\|מִ]][[H1736\|דּוּדָאֵ֖י]] [[H1121A\|בְּנֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic MANDRAKE|MANDRAKE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic REUBEN|REUBEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.13|<< Genesis 30:13]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.15|Genesis 30:15 >>]]</td></tr></table>
 

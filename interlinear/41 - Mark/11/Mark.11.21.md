@@ -1,10 +1,55 @@
+---
+title: Mark 11:21
+type: Verse
+kjv: "And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away."
+bsb: "Peter remembered it and said, “Look, Rabbi! The fig tree You cursed has withered.”"
+greek: "καὶ ἀναμνησθεὶς ὁ Πέτρος λέγει αὐτῷ· ῥαββί, ἴδε ἡ συκῆ ἣν κατηράσω ἐξήρανται.¶"
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RABBI|RABBI]]"
+strongs:
+- "[[G2532]]"
+- "[[G0363]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4461]]"
+- "[[G2396]]"
+- "[[G4808]]"
+- "[[G3739]]"
+- "[[G2672]]"
+- "[[G3583]]"
+texts:
+- NKO
+---
+
 **Mark 11:21**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.
 <small><sub>**BSB:**</sub></small>
 Peter remembered it and said, “Look, Rabbi! The fig tree You cursed has withered.”
-<small><sub>**Literal:**</sub></small>
-And having remembered <the> Peter says to Him; Rabbi, look the fig tree that You cursed has been dried up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.20|<< Mark 11:20]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.22|Mark 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0363\|ἀναμνησθεὶς]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G4461\|ῥαββί,]]  [[G2396\|ἴδε]]  [[G3588\|ἡ]]  [[G4808\|συκῆ]]  [[G3739\|ἣν]]  [[G2672\|κατηράσω]]  [[G3583\|ἐξήρανται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic RABBI|RABBI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.20|<< Mark 11:20]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.22|Mark 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

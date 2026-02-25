@@ -1,8 +1,61 @@
+---
+title: Ezekiel 1:9
+type: Verse
+kjv: "Their wings were joined one to another; they turned not when they went; they went every one straight forward."
+bsb: "and their wings were touching one another. They did not turn as they moved; each one went straight ahead."
+hebrew: "חֹֽבְרֹ֛ת אִשָּׁ֥ה אֶל־ אֲחוֹתָ֖הּ כַּנְפֵיהֶ֑ם לֹא־ יִסַּ֣בּוּ בְלֶכְתָּ֔ן אִ֛ישׁ אֶל־ עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H2266]]"
+- "[[H0802I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0269]]"
+- "[[H9024]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H5437G]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9049]]"
+- "[[H0376I]]"
+- "[[H5676H]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:9**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their wings [were] joined one to another; they turned not when they went; they went every one straight forward.
 <small><sub>**BSB:**</sub></small>
 and their wings were touching one another. They did not turn as they moved; each one went straight ahead.
+<small><sub>**Hebrew:**</sub></small>
+[[H2266\|חֹֽבְרֹ֛ת]] [[H0802I\|אִשָּׁ֥ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0269\|אֲחוֹתָ֖]][[H9024\|הּ]] [[H3671\|כַּנְפֵי]][[H9028\|הֶ֑ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5437G\|יִסַּ֣בּוּ]] [[H9003\|בְ]][[H1980G\|לֶכְתָּ֔]][[H9049\|ן]] [[H0376I\|אִ֛ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H5676H\|עֵ֥בֶר]] [[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H1980G\|יֵלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.8|<< Ezekiel 1:8]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.10|Ezekiel 1:10 >>]]</td></tr></table>
 

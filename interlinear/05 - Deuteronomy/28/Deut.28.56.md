@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 28:56
+type: Verse
+kjv: "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,"
+bsb: "The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces and her son and daughter"
+hebrew: "הָרַכָּ֨ה בְךָ֜ וְהָעֲנֻגָּ֗ה אֲשֶׁ֨ר לֹא־ נִסְּתָ֤ה כַף־ רַגְלָהּ֙ הַצֵּ֣ג עַל־ הָאָ֔רֶץ מֵהִתְעַנֵּ֖ג וּמֵרֹ֑ךְ תֵּרַ֤ע עֵינָהּ֙ בְּאִ֣ישׁ חֵיקָ֔הּ וּבִבְנָ֖הּ וּבְבִתָּֽהּ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H7390]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6028]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5254H]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9024]]"
+- "[[H3322]]"
+- "[[H5921A]]"
+- "[[H0776H]]"
+- "[[H9006]]"
+- "[[H6026]]"
+- "[[H7391]]"
+- "[[H7489A]]"
+- "[[H5869A]]"
+- "[[H0376H]]"
+- "[[H2436G]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:56**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 <small><sub>**BSB:**</sub></small>
 The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces and her son and daughter
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H7390\|רַכָּ֨ה]] [[H9003\|בְ]][[H9031\|ךָ֜]] [[H9002\|וְ]][[H9009\|הָ]][[H6028\|עֲנֻגָּ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5254H\|נִסְּתָ֤ה]] [[H3709H\|כַף]][[H9014\|־]] [[H7272\|רַגְלָ]][[H9024\|הּ֙]] [[H3322\|הַצֵּ֣ג]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֔רֶץ]] [[H9006\|מֵ]][[H6026\|הִתְעַנֵּ֖ג]] [[H9002\|וּ]][[H9006\|מֵ]][[H7391\|רֹ֑ךְ]] [[H7489A\|תֵּרַ֤ע]] [[H5869A\|עֵינָ]][[H9024\|הּ֙]] [[H9003\|בְּ]][[H0376H\|אִ֣ישׁ]] [[H2436G\|חֵיקָ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H9003\|בִ]][[H1121A\|בְנָ֖]][[H9024\|הּ]] [[H9002\|וּ]][[H9003\|בְ]][[H1323G\|בִתָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANNIBALISM|CANNIBALISM]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.55|<< Deuteronomy 28:55]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.57|Deuteronomy 28:57 >>]]</td></tr></table>
 

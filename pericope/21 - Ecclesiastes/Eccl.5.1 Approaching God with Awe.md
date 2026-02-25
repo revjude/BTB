@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Approaching God with Awe
+type: Pericope
 pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 5
 book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
-genre:
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 7
 verses:
 - "[[Eccl.5.1]]"
 - "[[Eccl.5.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Eccl.5.7]]"
 ---
 
-[[Eccl.5|Ecclesiastes 5:1 - Ecclesiastes 5:7]]
+<small>[[Eccl.5|Ecclesiastes 5:1-7]]</small>
 *Approaching God with Awe*
 
 [[Eccl.5.1|1]] Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.

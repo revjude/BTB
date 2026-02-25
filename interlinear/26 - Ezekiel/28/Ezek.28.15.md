@@ -1,8 +1,61 @@
+---
+title: Ezekiel 28:15
+type: Verse
+kjv: "Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee."
+bsb: "From the day you were created you were blameless in your ways—until wickedness was found in you."
+hebrew: "תָּמִ֤ים אַתָּה֙ בִּדְרָכֶ֔יךָ מִיּ֖וֹם הִבָּֽרְאָ֑ךְ עַד־ נִמְצָ֥א עַוְלָ֖תָה בָּֽךְ׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H8549H]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H1254A]]"
+- "[[H9041]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H5766A]]"
+- "[[H9011]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:15**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [wast] perfect in thy ways from the day that thou wast created, till iniquity was found in thee.
 <small><sub>**BSB:**</sub></small>
 From the day you were created you were blameless in your ways—until wickedness was found in you.
+<small><sub>**Hebrew:**</sub></small>
+[[H8549H\|תָּמִ֤ים]] [[H0859A\|אַתָּה֙]] [[H9003\|בִּ]][[H1870G\|דְרָכֶ֔י]][[H9021\|ךָ]] [[H9006\|מִ]][[H3117G\|יּ֖וֹם]] [[H1254A\|הִבָּֽרְאָ֑]][[H9041\|ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H4672\|נִמְצָ֥א]] [[H5766A\|עַוְלָ֖תָ]][[H9011\|ה]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.14|<< Ezekiel 28:14]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.16|Ezekiel 28:16 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Genesis 46:24
+type: Verse
+kjv: "And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem."
+bsb: "The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem."
+hebrew: "וּבְנֵ֖י נַפְתָּלִ֑י יַחְצְאֵ֥ל וְגוּנִ֖י וְיֵ֥צֶר וְשִׁלֵּֽם׃"
+pericope: "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BILHAH|BILHAH]]"
+- "[[topic GUNI|GUNI]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JAHZEEL|JAHZEEL]]"
+- "[[topic JEZER|JEZER]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic SHILLEM|SHILLEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H5321G]]"
+- "[[H3183]]"
+- "[[H1476G]]"
+- "[[H3337]]"
+- "[[H8006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:24**<big><big>[[Gen.46.23 The Children of Bilhah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
 <small><sub>**BSB:**</sub></small>
 The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֖י]] [[H5321G\|נַפְתָּלִ֑י]] [[H3183\|יַחְצְאֵ֥ל]] [[H9002\|וְ]][[H1476G\|גוּנִ֖י]] [[H9002\|וְ]][[H3337\|יֵ֥צֶר]] [[H9002\|וְ]][[H8006\|שִׁלֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILHAH|BILHAH]] • [[topic GUNI|GUNI]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JAHZEEL|JAHZEEL]] • [[topic JEZER|JEZER]] • [[topic NAPHTALI|NAPHTALI]] • [[topic SHILLEM|SHILLEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.23|<< Genesis 46:23]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.25|Genesis 46:25 >>]]</td></tr></table>
 

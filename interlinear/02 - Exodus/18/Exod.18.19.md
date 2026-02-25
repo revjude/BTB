@@ -1,8 +1,70 @@
+---
+title: Exodus 18:19
+type: Verse
+kjv: "Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:"
+bsb: "Now listen to me; I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their causes to Him."
+hebrew: "עַתָּ֞ה שְׁמַ֤ע בְּקֹלִי֙ אִיעָ֣צְךָ֔ וִיהִ֥י אֱלֹהִ֖ים עִמָּ֑ךְ הֱיֵ֧ה אַתָּ֣ה לָעָ֗ם מ֚וּל הָֽאֱלֹהִ֔ים וְהֵבֵאתָ֥ אַתָּ֛ה אֶת־ הַדְּבָרִ֖ים אֶל־ הָאֱלֹהִֽים׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H6258]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H3289]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H4136]]"
+- "[[H9009]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697L]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:19**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:
 <small><sub>**BSB:**</sub></small>
 Now listen to me; I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their causes to Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֞ה]] [[H8085H\|שְׁמַ֤ע]] [[H9003\|בְּ]][[H6963A\|קֹלִ]][[H9020\|י֙]] [[H3289\|אִיעָ֣צְ]][[H9031\|ךָ֔]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H0430G\|אֱלֹהִ֖ים]] [[H5973A\|עִמָּ֑]][[H9031\|ךְ]] [[H1961\|הֱיֵ֧ה]] [[H0859A\|אַתָּ֣ה]] [[H9005\|לָ]][[H5971A\|עָ֗ם]] [[H4136\|מ֚וּל]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וְ]][[H0935P\|הֵבֵאתָ֥]] [[H0859A\|אַתָּ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697L\|דְּבָרִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.18|<< Exodus 18:18]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.20|Exodus 18:20 >>]]</td></tr></table>
 

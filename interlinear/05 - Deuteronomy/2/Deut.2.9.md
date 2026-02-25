@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 2:9
+type: Verse
+kjv: "And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession."
+bsb: "Then the LORD said to me, “Do not harass the Moabites or provoke them to war, for I will not give you any of their land, because I have given Ar to the descendants of Lot as their possession.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י אֶל־ תָּ֙צַר֙ אֶת־ מוֹאָ֔ב וְאַל־ תִּתְגָּ֥ר בָּ֖ם מִלְחָמָ֑ה כִּ֠י לֹֽא־ אֶתֵּ֨ן לְךָ֤ מֵֽאַרְצוֹ֙ יְרֻשָּׁ֔ה כִּ֣י לִבְנֵי־ ל֔וֹט נָתַ֥תִּי אֶת־ עָ֖ר יְרֻשָּֽׁה׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AR|AR]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H6696B]]"
+- "[[H0853]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H1624]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H4421]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H3425]]"
+- "[[H1121G]]"
+- "[[H3876]]"
+- "[[H6144]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:9**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land [for] a possession; because I have given Ar unto the children of Lot [for] a possession.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to me, “Do not harass the Moabites or provoke them to war, for I will not give you any of their land, because I have given Ar to the descendants of Lot as their possession.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H6696B\|תָּ֙צַר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1624\|תִּתְגָּ֥ר]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H4421\|מִלְחָמָ֑ה]] [[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|אֶתֵּ֨ן]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H9006\|מֵֽ]][[H0776G\|אַרְצ]][[H9023\|וֹ֙]] [[H3425\|יְרֻשָּׁ֔ה]] [[H3588A\|כִּ֣י]] [[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H3876\|ל֔וֹט]] [[H5414G\|נָתַ֥תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H6144\|עָ֖ר]] [[H3425\|יְרֻשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AR|AR]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.8|<< Deuteronomy 2:8]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.10|Deuteronomy 2:10 >>]]</td></tr></table>
 

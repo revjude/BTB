@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The East Gate Assigned to the Prince
+type: Pericope
 pericope: "[[Ezek.44.1 The East Gate Assigned to the Prince|The East Gate Assigned to the Prince]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 44
 book/chapter: "[[Ezek.44|Ezekiel 44]]"
-genre:
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 5
 verses:
 - "[[Ezek.44.1]]"
 - "[[Ezek.44.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezek.44.5]]"
 ---
 
-[[Ezek.44|Ezekiel 44:1 - Ezekiel 44:5]]
+<small>[[Ezek.44|Ezekiel 44:1-5]]</small>
 *The East Gate Assigned to the Prince*
 
 [[Ezek.44.1|1]] Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it \[was\] shut.

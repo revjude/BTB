@@ -1,8 +1,52 @@
+---
+title: Proverbs 13:17
+type: Verse
+kjv: "A wicked messenger falleth into mischief: but a faithful ambassador is health."
+bsb: "A wicked messenger falls into trouble, but a faithful envoy brings healing."
+hebrew: "מַלְאָ֣ךְ רָ֭שָׁע יִפֹּ֣ל בְּרָ֑ע וְצִ֖יר אֱמוּנִ֣ים מַרְפֵּֽא׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4397G]]"
+- "[[H7563]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H6735A]]"
+- "[[H0529]]"
+- "[[H4832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:17**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wicked messenger falleth into mischief: but a faithful ambassador [is] health.
 <small><sub>**BSB:**</sub></small>
 A wicked messenger falls into trouble, but a faithful envoy brings healing.
+<small><sub>**Hebrew:**</sub></small>
+[[H4397G\|מַלְאָ֣ךְ]] [[H7563\|רָ֭שָׁע]] [[H5307G\|יִפֹּ֣ל]] [[H9003\|בְּ]][[H7451B\|רָ֑ע]] [[H9002\|וְ]][[H6735A\|צִ֖יר]] [[H0529\|אֱמוּנִ֣ים]] [[H4832\|מַרְפֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic SERVANT|SERVANT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.16|<< Proverbs 13:16]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.18|Proverbs 13:18 >>]]</td></tr></table>
 

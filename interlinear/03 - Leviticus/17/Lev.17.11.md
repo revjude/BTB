@@ -1,8 +1,67 @@
+---
+title: Leviticus 17:11
+type: Verse
+kjv: "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
+bsb: "For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul."
+hebrew: "כִּ֣י נֶ֣פֶשׁ הַבָּשָׂר֮ בַּדָּ֣ם הִוא֒ וַאֲנִ֞י נְתַתִּ֤יו לָכֶם֙ עַל־ הַמִּזְבֵּ֔חַ לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶ֑ם כִּֽי־ הַדָּ֥ם ה֖וּא בַּנֶּ֥פֶשׁ יְכַפֵּֽר׃"
+pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5315H]]"
+- "[[H9009]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H3722A]]"
+- "[[H5315G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:11**<big><big>[[Lev.17.10 Laws against Eating Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the life of the flesh [is] in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it [is] the blood [that] maketh an atonement for the soul.
 <small><sub>**BSB:**</sub></small>
 For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5315H\|נֶ֣פֶשׁ]] [[H9009\|הַ]][[H1320\|בָּשָׂר֮]] [[H9003\|בַּ]][[H1818\|דָּ֣ם]] [[H1931\|הִוא֒]] [[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H5414G\|נְתַתִּ֤י]][[H9033\|ו]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9005\|לְ]][[H3722A\|כַפֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H5315G\|נַפְשֹׁתֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֥ם]] [[H1931\|ה֖וּא]] [[H9003\|בַּ]][[H5315H\|נֶּ֥פֶשׁ]] [[H3722A\|יְכַפֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.10|<< Leviticus 17:10]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.12|Leviticus 17:12 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Numbers 7:86
+type: Verse
+kjv: "The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels."
+bsb: "The twelve gold dishes filled with incense weighed ten shekels each, according to the sanctuary shekel. The total weight of the gold dishes was a hundred and twenty shekels."
+hebrew: "כַּפּ֨וֹת זָהָ֤ב שְׁתֵּים־ עֶשְׂרֵה֙ מְלֵאֹ֣ת קְטֹ֔רֶת עֲשָׂרָ֧ה עֲשָׂרָ֛ה הַכַּ֖ף בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ כָּל־ זְהַ֥ב הַכַּפּ֖וֹת עֶשְׂרִ֥ים וּמֵאָֽה׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H3709I]]"
+- "[[H2091]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H4392]]"
+- "[[H7004]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:86**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The golden spoons [were] twelve, full of incense, [weighing] ten [shekels] apiece, after the shekel of the sanctuary: all the gold of the spoons [was] an hundred and twenty [shekels].
 <small><sub>**BSB:**</sub></small>
 The twelve gold dishes filled with incense weighed ten shekels each, according to the sanctuary shekel. The total weight of the gold dishes was a hundred and twenty shekels.
+<small><sub>**Hebrew:**</sub></small>
+[[H3709I\|כַּפּ֨וֹת]] [[H2091\|זָהָ֤ב]] [[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵה֙]] [[H4392\|מְלֵאֹ֣ת]] [[H7004\|קְטֹ֔רֶת]] [[H6235\|עֲשָׂרָ֧ה]] [[H6235\|עֲשָׂרָ֛ה]] [[H9009\|הַ]][[H3709I\|כַּ֖ף]] [[H9003\|בְּ]][[H8255\|שֶׁ֣קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H2091\|זְהַ֥ב]] [[H9009\|הַ]][[H3709I\|כַּפּ֖וֹת]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H3967\|מֵאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.86|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.85|<< Numbers 7:85]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.87|Numbers 7:87 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Hosea 9:2
+type: Verse
+kjv: "The floor and the winepress shall not feed them, and the new wine shall fail in her."
+bsb: "The threshing floor and winepress will not feed them, and the new wine will fail them."
+hebrew: "גֹּ֥רֶן וָיֶ֖קֶב לֹ֣א יִרְעֵ֑ם וְתִיר֖וֹשׁ יְכַ֥חֶשׁ בָּֽהּ׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H1637]]"
+- "[[H9002]]"
+- "[[H3342]]"
+- "[[H3808]]"
+- "[[H7462B]]"
+- "[[H9038]]"
+- "[[H8492]]"
+- "[[H3584]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:2**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The floor and the winepress shall not feed them, and the new wine shall fail in her.
 <small><sub>**BSB:**</sub></small>
 The threshing floor and winepress will not feed them, and the new wine will fail them.
+<small><sub>**Hebrew:**</sub></small>
+[[H1637\|גֹּ֥רֶן]] [[H9002\|וָ]][[H3342\|יֶ֖קֶב]] [[H3808\|לֹ֣א]] [[H7462B\|יִרְעֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H8492\|תִיר֖וֹשׁ]] [[H3584\|יְכַ֥חֶשׁ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.1|<< Hosea 9:1]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.3|Hosea 9:3 >>]]</td></tr></table>
 

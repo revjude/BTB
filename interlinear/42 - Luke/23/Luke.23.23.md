@@ -1,10 +1,60 @@
+---
+title: Luke 23:23
+type: Verse
+kjv: "And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed."
+bsb: "But they were insistent, demanding with loud voices for Jesus to be crucified. And their clamor prevailed."
+greek: "οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν καὶ τῶν ἀρχιερέων."
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1945]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G0154]]"
+- "[[G0846]]"
+- "[[G4717]]"
+- "[[G2532]]"
+- "[[G2729]]"
+- "[[G0749]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 23:23**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
 <small><sub>**BSB:**</sub></small>
 But they were insistent, demanding with loud voices for Jesus to be crucified. And their clamor prevailed.
-<small><sub>**Literal:**</sub></small>
-<the> But they were urgent with voices loud asking for Him to be crucified, And were prevailing the voices of them and of the chief priests.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.22|<< Luke 23:22]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.24|Luke 23:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1945\|ἐπέκειντο]]  [[G5456G\|φωναῖς]]  [[G3173\|μεγάλαις]]  [[G0154\|αἰτούμενοι]]  [[G0846\|αὐτὸν]]  [[G4717\|σταυρωθῆναι,]]  [[G2532\|καὶ]]  [[G2729\|κατίσχυον]]  [[G3588\|αἱ]]  [[G5456G\|φωναὶ]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.22|<< Luke 23:22]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.24|Luke 23:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

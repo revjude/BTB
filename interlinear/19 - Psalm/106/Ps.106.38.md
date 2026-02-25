@@ -1,8 +1,63 @@
+---
+title: Psalm 106:38
+type: Verse
+kjv: "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood."
+bsb: "They shed innocent blood—the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was polluted with blood."
+hebrew: "וַיִּֽשְׁפְּכ֨וּ דָ֪ם נָקִ֡י דַּם־ בְּנֵ֘יהֶ֤ם וּֽבְנוֹתֵיהֶ֗ם אֲשֶׁ֣ר זִ֭בְּחוּ לַעֲצַבֵּ֣י כְנָ֑עַן וַתֶּחֱנַ֥ף הָ֝אָ֗רֶץ בַּדָּמִֽים׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0834A]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H6091]]"
+- "[[H3667A]]"
+- "[[H2610]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:38**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
 <small><sub>**BSB:**</sub></small>
 They shed innocent blood—the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was polluted with blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8210G\|יִּֽשְׁפְּכ֨וּ]] [[H1818\|דָ֪ם]] [[H5355A\|נָקִ֡י]] [[H1818\|דַּם]][[H9014\|־]] [[H1121G\|בְּנֵ֘י]][[H9028\|הֶ֤ם]] [[H9002\|וּֽ]][[H1323G\|בְנוֹתֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H2076\|זִ֭בְּחוּ]] [[H9005\|לַ]][[H6091\|עֲצַבֵּ֣י]] [[H3667A\|כְנָ֑עַן]] [[H9001\|וַ]][[H2610\|תֶּחֱנַ֥ף]] [[H9009\|הָ֝]][[H0776G\|אָ֗רֶץ]] [[H9003\|בַּ]][[H1818\|דָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.37|<< Psalms 106:37]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.39|Psalms 106:39 >>]]</td></tr></table>
 

@@ -1,6 +1,65 @@
+---
+title: LXX Ezekiel 3:24
+type: Verse
+lxx: "And spirit came upon me, and stood me upon  my feet, and spoke to me, and said to me, Enter and be locked up in the midst  of your house!"
+greek: "και ήλθεν επ΄ εμέ πνεύμα και έστησέ με επί τους πόδας μου και ελάλησε προς με και είπέ μοι είσελθε και εγκείσθητι εν μέσω του οίκου σου"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G4151]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1525]]"
+- "[[G2532]]"
+- "[[G7016]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 3:24** 
 <small><sub>**LXX:**</sub></small>
 And spirit came upon me, and stood me upon  my feet, and spoke to me, and said to me, Enter and be locked up in \[the\] midst  of your house! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|ήλθεν]] [[G1909\|επ΄]] [[G1473\|εμέ]] [[G4151\|πνεύμα]] [[G2532\|και]] [[G2476\|έστησέ]] [[G1473\|με]] [[G1909\|επί]] [[G3588\|τους]] [[G4228\|πόδας]] [[G1473\|μου]] [[G2532\|και]] [[G2980\|ελάλησε]] [[G4314\|προς]] [[G1473\|με]] [[G2532\|και]] [[G2036\|είπέ]] [[G1473\|μοι]] [[G1525\|είσελθε]] [[G2532\|και]] [[G7016\|εγκείσθητι]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.23|<< Ezekiel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.25|Ezekiel 3:25 >>]]</td></tr></table>
 
@@ -31,6 +90,6 @@ And spirit came upon me, and stood me upon  my feet, and spoke to me, and said t
 | \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of your house! | **<big>[[G3624\|οίκου]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Ezek.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.23|<< Ezekiel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.25|Ezekiel 3:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.23|<< Ezekiel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.25|Ezekiel 3:25 >>]]</td></tr></table>
 
 

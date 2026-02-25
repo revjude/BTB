@@ -1,8 +1,79 @@
+---
+title: Numbers 16:7
+type: Verse
+kjv: "And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: ye take too much upon you, ye sons of Levi."
+bsb: "and tomorrow you are to place fire and incense in them in the presence of the LORD. Then the man the LORD chooses will be the one who is holy. It is you sons of Levi who have taken too much upon yourselves!”"
+hebrew: "וּתְנ֣וּ בָהֵ֣ן׀ אֵ֡שׁ וְשִׂימוּ֩ עֲלֵיהֶ֨ן קְטֹ֜רֶת לִפְנֵ֤י יְהוָה֙ מָחָ֔ר וְהָיָ֗ה הָאִ֛ישׁ אֲשֶׁר־ יִבְחַ֥ר יְהוָ֖ה ה֣וּא הַקָּד֑וֹשׁ רַב־ לָכֶ֖ם בְּנֵ֥י לֵוִֽי׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H9015]]"
+- "[[H0784]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H7004]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4279]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0977]]"
+- "[[H1931]]"
+- "[[H6918H]]"
+- "[[H7227A]]"
+- "[[H9036]]"
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:7**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And put fire therein, and put incense in them before the LORD to morrow: and it shall be [that] the man whom the LORD doth choose, he [shall be] holy: [ye take] too much upon you, ye sons of Levi.
 <small><sub>**BSB:**</sub></small>
 and tomorrow you are to place fire and incense in them in the presence of the LORD. Then the man the LORD chooses will be the one who is holy. It is you sons of Levi who have taken too much upon yourselves!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H5414H\|תְנ֣וּ]] [[H9003\|בָ]][[H9039\|הֵ֣ן]][[H9015\|׀]] [[H0784\|אֵ֡שׁ]] [[H9002\|וְ]][[H7760H\|שִׂימוּ֩]] [[H5921A\|עֲלֵי]][[H9039\|הֶ֨ן]] [[H7004\|קְטֹ֜רֶת]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H4279\|מָחָ֔ר]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9009\|הָ]][[H0376G\|אִ֛ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0977\|יִבְחַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H6918H\|קָּד֑וֹשׁ]] [[H7227A\|רַב]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H1121G\|בְּנֵ֥י]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AMBITION|AMBITION]] • [[topic CENSER|CENSER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MOSES|MOSES]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.6|<< Numbers 16:6]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.8|Numbers 16:8 >>]]</td></tr></table>
 

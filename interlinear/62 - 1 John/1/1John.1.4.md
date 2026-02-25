@@ -1,10 +1,53 @@
+---
+title: 1 John 1:4
+type: Verse
+kjv: "And these things write we unto you, that your joy may be full."
+bsb: "We write these things so that our joy may be complete."
+greek: "καὶ ταῦτα γράφομεν ἡμεῖς ἵνα ἡ χαρὰ ἡμῶν ᾖ πεπληρωμένη."
+pericope: "[[1John.1.1 The Word of Life|The Word of Life]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1125]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G5479]]"
+- "[[G1510]]"
+- "[[G4137]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 John 1:4**<big><big>[[1John.1.1 The Word of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And these things write we unto you, that your joy may be full.
 <small><sub>**BSB:**</sub></small>
 We write these things so that our joy may be complete.
-<small><sub>**Literal:**</sub></small>
-And these things write we ourselves so that the joy of us may be completed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.3|<< 1 John 1:3]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.5|1 John 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G1125\|γράφομεν]]  [[G3165\|ἡμεῖς]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G3165\|ἡμῶν]]  [[G1510\|ᾖ]]  [[G4137\|πεπληρωμένη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.3|<< 1 John 1:3]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.5|1 John 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

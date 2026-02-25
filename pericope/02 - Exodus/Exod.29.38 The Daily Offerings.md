@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Daily Offerings
+type: Pericope
 pericope: "[[Exod.29.38 The Daily Offerings|The Daily Offerings]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 29
 book/chapter: "[[Exod.29|Exodus 29]]"
-genre:
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.29.38]]"
 - "[[Exod.29.39]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.29.44]]"
 ---
 
-[[Exod.29|Exodus 29:38 - Exodus 29:44]]
+<small>[[Exod.29|Exodus 29:38-44]]</small>
 *The Daily Offerings*
 
 [[Exod.29.38|38]] Now this \[is that\] which thou shalt offer upon the altar; two lambs of the first year day by day continually.

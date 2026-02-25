@@ -1,8 +1,75 @@
+---
+title: Numbers 33:38
+type: Verse
+kjv: "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month."
+bsb: "At the LORD’s command, Aaron the priest climbed Mount Hor and died there on the first day of the fifth month, in the fortieth year after the Israelites had come out of the land of Egypt."
+hebrew: "וַיַּעַל֩ אַהֲרֹ֨ן הַכֹּהֵ֜ן אֶל־ הֹ֥ר הָהָ֛ר עַל־ פִּ֥י יְהוָ֖ה וַיָּ֣מָת שָׁ֑ם בִּשְׁנַ֣ת הָֽאַרְבָּעִ֗ים לְצֵ֤את בְּנֵֽי־ יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בַּחֹ֥דֶשׁ הַחֲמִישִׁ֖י בְּאֶחָ֥ד לַחֹֽדֶשׁ׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic HOR|HOR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2023G]]"
+- "[[H2022G]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0705]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H2320G]]"
+- "[[H2549]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:38**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first [day] of the fifth month.
 <small><sub>**BSB:**</sub></small>
 At the LORD’s command, Aaron the priest climbed Mount Hor and died there on the first day of the fifth month, in the fortieth year after the Israelites had come out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעַל֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0413\|אֶל]][[H9014\|־]] [[H2023G\|הֹ֥ר]] [[H9009\|הָ]][[H2022G\|הָ֛ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H8033G\|שָׁ֑ם]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H9009\|הָֽ]][[H0705\|אַרְבָּעִ֗ים]] [[H9005\|לְ]][[H3318G\|צֵ֤את]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֖י]] [[H9003\|בְּ]][[H0259\|אֶחָ֥ד]] [[H9005\|לַ]][[H2320G\|חֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic HOR|HOR]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.37|<< Numbers 33:37]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.39|Numbers 33:39 >>]]</td></tr></table>
 

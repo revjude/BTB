@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 24:10
+type: Verse
+kjv: "When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge."
+bsb: "When you lend anything to your neighbor, do not enter his house to collect security."
+hebrew: "כִּֽי־ תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא־ תָבֹ֥א אֶל־ בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CASTLE|CASTLE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBT|DEBT]]"
+- "[[topic DOMICILE|DOMICILE]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic PLEDGE|PLEDGE]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5383]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H4859]]"
+- "[[H3972]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5670]]"
+- "[[H5667]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:10**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge.
 <small><sub>**BSB:**</sub></small>
 When you lend anything to your neighbor, do not enter his house to collect security.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5383\|תַשֶּׁ֥ה]] [[H9003\|בְ]][[H7453\|רֵֽעֲ]][[H9021\|ךָ]] [[H4859\|מַשַּׁ֣את]] [[H3972\|מְא֑וּמָה]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|תָבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֖]][[H9023\|וֹ]] [[H9005\|לַ]][[H5670\|עֲבֹ֥ט]] [[H5667\|עֲבֹטֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CASTLE|CASTLE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBT|DEBT]] • [[topic DOMICILE|DOMICILE]] • [[topic HOUSE|HOUSE]] • [[topic LENDING|LENDING]] • [[topic PAWN|PAWN]] • [[topic PLEDGE|PLEDGE]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]] • [[topic TRESPASS|TRESPASS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.9|<< Deuteronomy 24:9]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.11|Deuteronomy 24:11 >>]]</td></tr></table>
 

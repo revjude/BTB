@@ -1,8 +1,52 @@
+---
+title: Proverbs 29:21
+type: Verse
+kjv: "He that delicately bringeth up his servant from a child shall have him become his son at the length."
+bsb: "A servant pampered from his youth will bring grief in the end."
+hebrew: "מְפַנֵּ֣ק מִנֹּ֣עַר עַבְדּ֑וֹ וְ֝אַחֲרִית֗וֹ יִהְיֶ֥ה מָנֽוֹן׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H6445]]"
+- "[[H9006]]"
+- "[[H5290]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H1961]]"
+- "[[H4497]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:21**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that delicately bringeth up his servant from a child shall have him become [his] son at the length.
 <small><sub>**BSB:**</sub></small>
 A servant pampered from his youth will bring grief in the end.
+<small><sub>**Hebrew:**</sub></small>
+[[H6445\|מְפַנֵּ֣ק]] [[H9006\|מִ]][[H5290\|נֹּ֣עַר]] [[H5650\|עַבְדּ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H0319\|אַחֲרִית֗]][[H9023\|וֹ]] [[H1961\|יִהְיֶ֥ה]] [[H4497\|מָנֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMPLOYER|EMPLOYER]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.20|<< Proverbs 29:20]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.22|Proverbs 29:22 >>]]</td></tr></table>
 

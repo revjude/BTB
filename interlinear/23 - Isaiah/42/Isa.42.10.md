@@ -1,8 +1,63 @@
+---
+title: Isaiah 42:10
+type: Verse
+kjv: "Sing unto the LORD a new song, and his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof."
+bsb: "Sing to the LORD a new song—His praise from the ends of the earth—you who go down to the sea, and all that is in it, you islands, and all who dwell in them."
+hebrew: "שִׁ֤ירוּ לַֽיהוָה֙ שִׁ֣יר חָדָ֔שׁ תְּהִלָּת֖וֹ מִקְצֵ֣ה הָאָ֑רֶץ יוֹרְדֵ֤י הַיָּם֙ וּמְלֹא֔וֹ אִיִּ֖ים וְיֹשְׁבֵיהֶֽם׃"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7892A]]"
+- "[[H2319H]]"
+- "[[H8416]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3381]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H4393]]"
+- "[[H0339]]"
+- "[[H3427]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:10**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD a new song, [and] his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD a new song—His praise from the ends of the earth—you who go down to the sea, and all that is in it, you islands, and all who dwell in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִׁ֤ירוּ]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H7892A\|שִׁ֣יר]] [[H2319H\|חָדָ֔שׁ]] [[H8416\|תְּהִלָּת֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3381\|יוֹרְדֵ֤י]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H9002\|וּ]][[H4393\|מְלֹא֔]][[H9023\|וֹ]] [[H0339\|אִיִּ֖ים]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.9|<< Isaiah 42:9]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.11|Isaiah 42:11 >>]]</td></tr></table>
 

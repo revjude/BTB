@@ -1,10 +1,52 @@
+---
+title: Mark 10:26
+type: Verse
+kjv: "And they were astonished out of measure, saying among themselves, Who then can be saved?"
+bsb: "They were even more astonished and said to one another, “Who then can be saved?”"
+greek: "οἱ δὲ περισσῶς ἐξεπλήσσοντο λέγοντες πρὸς ἑαυτούς· καὶ τίς δύναται σωθῆναι;"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4057]]"
+- "[[G1605]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G1410]]"
+- "[[G4982]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Mark 10:26**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were astonished out of measure, saying among themselves, Who then can be saved?
 <small><sub>**BSB:**</sub></small>
 They were even more astonished and said to one another, “Who then can be saved?”
-<small><sub>**Literal:**</sub></small>
-<the> And exceedingly they were astonished saying among themselves; Then who is able to be saved?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.25|<< Mark 10:25]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.27|Mark 10:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4057\|περισσῶς]]  [[G1605\|ἐξεπλήσσοντο]]  [[G3004G\|λέγοντες]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτούς·]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G1410\|δύναται]]  [[G4982\|σωθῆναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICH, THE|RICH, THE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.25|<< Mark 10:25]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.27|Mark 10:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

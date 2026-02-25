@@ -1,10 +1,56 @@
+---
+title: John 8:5
+type: Verse
+kjv: "Now Moses in the law commanded us, that such should be stoned: but what sayest thou?"
+bsb: "In the Law Moses commanded us to stone such a woman. So what do You say?”"
+greek: "ἐν δὲ τῷ νόμῳ ἡμῖν Μωϋσῆς ἐνετείλατο τὰς τοιαύτας λιθοβολεῖσθαι· σὺ οὖν τί λέγεις;"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3165]]"
+- "[[G3475]]"
+- "[[G1781]]"
+- "[[G5108]]"
+- "[[G3036]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+texts:
+- KO
+- K(o)
+---
+
 **John 8:5**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Moses in the law commanded us, that such should be stoned: but what sayest thou?
 <small><sub>**BSB:**</sub></small>
 In the Law Moses commanded us to stone such a woman. So what do You say?”
-<small><sub>**Literal:**</sub></small>
-In now the law us Moses commanded <the> such to be stoned; You yourself therefore what say You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.4|<< John 8:4]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.6|John 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3165\|ἡμῖν]]  [[G3475\|Μωϋσῆς]]  [[G1781\|ἐνετείλατο]]  [[G3588\|τὰς]]  [[G5108\|τοιαύτας]]  [[G3036\|λιθοβολεῖσθαι·]]  [[G4771\|σὺ]]  [[G3767\|οὖν]]  [[G5101\|τί]]  [[G3004G\|λέγεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.4|<< John 8:4]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.6|John 8:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 8:5** is...
 > $\quad$ alluding to: [[LXX.Lev.20.10|Lev 20:10]] ☩ [[LXX.Deut.22.21|Deut 22:21]]

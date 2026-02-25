@@ -1,8 +1,60 @@
+---
+title: 2 Kings 18:3
+type: Verse
+kjv: "And he did that which was right in the sight of the LORD, according to all that David his father did."
+bsb: "And he did what was right in the eyes of the LORD, just as his father David had done."
+hebrew: "וַיַּ֥עַשׂ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה כְּכֹ֥ל אֲשֶׁר־ עָשָׂ֖ה דָּוִ֥ד אָבִֽיו׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:3**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, according to all that David his father did.
 <small><sub>**BSB:**</sub></small>
 And he did what was right in the eyes of the LORD, just as his father David had done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֖ה]] [[H1732\|דָּוִ֥ד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RELIGION|RELIGION]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.2|<< 2 Kings 18:2]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.4|2 Kings 18:4 >>]]</td></tr></table>
 

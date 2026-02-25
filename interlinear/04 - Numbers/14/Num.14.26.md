@@ -1,8 +1,61 @@
+---
+title: Numbers 14:26
+type: Verse
+kjv: "And the LORD spake unto Moses and unto Aaron, saying,"
+bsb: "Then the LORD said to Moses and Aaron,"
+hebrew: "וַיְדַבֵּ֣ר יְהוָ֔ה אֶל־ מֹשֶׁ֥ה וְאֶֽל־ אַהֲרֹ֖ן לֵאמֹֽר׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:26**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses and unto Aaron, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses and Aaron,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.25|<< Numbers 14:25]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.27|Numbers 14:27 >>]]</td></tr></table>
 

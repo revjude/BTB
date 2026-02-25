@@ -1,8 +1,56 @@
+---
+title: Proverbs 24:28
+type: Verse
+kjv: "Be not a witness against thy neighbour without cause; and deceive not with thy lips."
+bsb: "Do not testify against your neighbor without cause, and do not deceive with your lips."
+hebrew: "אַל־ תְּהִ֣י עֵד־ חִנָּ֣ם בְּרֵעֶ֑ךָ וַ֝הֲפִתִּ֗יתָ בִּשְׂפָתֶֽיךָ׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5707]]"
+- "[[H2600]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9008]]"
+- "[[H6601A]]"
+- "[[H8193G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:28**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not a witness against thy neighbour without cause; and deceive [not] with thy lips.
 <small><sub>**BSB:**</sub></small>
 Do not testify against your neighbor without cause, and do not deceive with your lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִ֣י]] [[H5707\|עֵד]][[H9014\|־]] [[H2600\|חִנָּ֣ם]] [[H9003\|בְּ]][[H7453\|רֵעֶ֑]][[H9021\|ךָ]] [[H9002\|וַ֝]][[H9008\|הֲ]][[H6601A\|פִתִּ֗יתָ]] [[H9003\|בִּ]][[H8193G\|שְׂפָתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic EVIDENCE|EVIDENCE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.27|<< Proverbs 24:27]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.29|Proverbs 24:29 >>]]</td></tr></table>
 

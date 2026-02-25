@@ -1,8 +1,64 @@
+---
+title: Numbers 8:24
+type: Verse
+kjv: "This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:"
+bsb: "“This applies to the Levites: Men twenty-five years of age or older shall enter to perform the service in the work at the Tent of Meeting."
+hebrew: "זֹ֖את אֲשֶׁ֣ר לַלְוִיִּ֑ם מִבֶּן֩ חָמֵ֨שׁ וְעֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה יָבוֹא֙ לִצְבֹ֣א צָבָ֔א בַּעֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.8.23 Retirement for Levites|Retirement for Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H6633]]"
+- "[[H6635I]]"
+- "[[H9003]]"
+- "[[H5656H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:24**<big><big>[[Num.8.23 Retirement for Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is it] that [belongeth] unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
 “This applies to the Levites: Men twenty-five years of age or older shall enter to perform the service in the work at the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֖את]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H9006\|מִ]][[H1121L\|בֶּן֩]] [[H2568\|חָמֵ֨שׁ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H0935G\|יָבוֹא֙]] [[H9005\|לִ]][[H6633\|צְבֹ֣א]] [[H6635I\|צָבָ֔א]] [[H9003\|בַּ]][[H5656H\|עֲבֹדַ֖ת]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.23|<< Numbers 8:23]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.25|Numbers 8:25 >>]]</td></tr></table>
 

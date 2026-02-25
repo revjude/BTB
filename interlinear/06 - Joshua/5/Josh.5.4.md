@@ -1,8 +1,65 @@
+---
+title: Joshua 5:4
+type: Verse
+kjv: "And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt."
+bsb: "Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt."
+hebrew: "וְזֶ֥ה הַדָּבָ֖ר אֲשֶׁר־ מָ֣ל יְהוֹשֻׁ֑עַ כָּל־ הָעָ֣ם הַיֹּצֵא֩ מִמִּצְרַ֨יִם הַזְּכָרִ֜ים כֹּ֣ל׀ אַנְשֵׁ֣י הַמִּלְחָמָ֗ה מֵ֤תוּ בַמִּדְבָּר֙ בַּדֶּ֔רֶךְ בְּצֵאתָ֖ם מִמִּצְרָֽיִם׃"
+pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697M]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H4135A]]"
+- "[[H3091G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H2145]]"
+- "[[H9015]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H1870L]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:4**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the cause why Joshua did circumcise: All the people that came out of Egypt, [that were] males, [even] all the men of war, died in the wilderness by the way, after they came out of Egypt.
 <small><sub>**BSB:**</sub></small>
 Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֥ה]] [[H9009\|הַ]][[H1697M\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4135A\|מָ֣ל]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H3318G\|יֹּצֵא֩]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֨יִם]] [[H9009\|הַ]][[H2145\|זְּכָרִ֜ים]] [[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H4191\|מֵ֤תוּ]] [[H9003\|בַ]][[H4057B\|מִּדְבָּר֙]] [[H9003\|בַּ]][[H1870L\|דֶּ֔רֶךְ]] [[H9003\|בְּ]][[H3318G\|צֵאתָ֖]][[H9048\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GILGAL|GILGAL]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.3|<< Joshua 5:3]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.5|Joshua 5:5 >>]]</td></tr></table>
 

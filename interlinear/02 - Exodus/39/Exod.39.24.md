@@ -1,8 +1,63 @@
+---
+title: Exodus 39:24
+type: Verse
+kjv: "And they made upon the hems of the robe pomegranates of blue, and purple, and scarlet, and twined linen."
+bsb: "They made pomegranates of blue, purple, and scarlet yarn and finely spun linen on the lower hem of the robe."
+hebrew: "וַֽיַּעֲשׂוּ֙ עַל־ שׁוּלֵ֣י הַמְּעִ֔יל רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מָשְׁזָֽר׃"
+pericope: "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic POMEGRANATE|POMEGRANATE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7757]]"
+- "[[H9009]]"
+- "[[H4598]]"
+- "[[H7416]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H7806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:24**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made upon the hems of the robe pomegranates [of] blue, and purple, and scarlet, [and] twined [linen].
 <small><sub>**BSB:**</sub></small>
 They made pomegranates of blue, purple, and scarlet yarn and finely spun linen on the lower hem of the robe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213H\|יַּעֲשׂוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7757\|שׁוּלֵ֣י]] [[H9009\|הַ]][[H4598\|מְּעִ֔יל]] [[H7416\|רִמּוֹנֵ֕י]] [[H8504\|תְּכֵ֥לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֖ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֣עַת]] [[H8144\|שָׁנִ֑י]] [[H7806\|מָשְׁזָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic POMEGRANATE|POMEGRANATE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.23|<< Exodus 39:23]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.25|Exodus 39:25 >>]]</td></tr></table>
 

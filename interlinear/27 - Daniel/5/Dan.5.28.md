@@ -1,8 +1,60 @@
+---
+title: Daniel 5:28
+type: Verse
+kjv: "PERES; Thy kingdom is divided, and given to the Medes and Persians."
+bsb: "PERES means that your kingdom has been divided and given over to the Medes and Persians.”"
+aramaic: "פְּרֵ֑ס פְּרִיסַת֙ מַלְכוּתָ֔ךְ וִיהִיבַ֖ת לְמָדַ֥י וּפָרָֽס׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MEDES|MEDES]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic UPHARSIN|UPHARSIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6537B]]"
+- "[[H6537A]]"
+- "[[H4437]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H4076G]]"
+- "[[H6540]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:28**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 PERES; Thy kingdom is divided, and given to the Medes and Persians.
 <small><sub>**BSB:**</sub></small>
 PERES means that your kingdom has been divided and given over to the Medes and Persians.”
+<small><sub>**Aramaic:**</sub></small>
+[[H6537B\|פְּרֵ֑ס]] [[H6537A\|פְּרִיסַת֙]] [[H4437\|מַלְכוּתָ֔]][[H9021\|ךְ]] [[H9002\|וִ]][[H3052\|יהִיבַ֖ת]] [[H9005\|לְ]][[H4076G\|מָדַ֥י]] [[H9002\|וּ]][[H6540\|פָרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic MEDES|MEDES]] • [[topic PERSIA|PERSIA]] • [[topic SYMBOLS|SYMBOLS]] • [[topic UPHARSIN|UPHARSIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.27|<< Daniel 5:27]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.29|Daniel 5:29 >>]]</td></tr></table>
 

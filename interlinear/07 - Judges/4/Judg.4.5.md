@@ -1,8 +1,69 @@
+---
+title: Judges 4:5
+type: Verse
+kjv: "And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment."
+bsb: "And she would sit under the Palm of Deborah between Ramah and Bethel in the hill country of Ephraim, where the Israelites would go up to her for judgment."
+hebrew: "וְ֠הִיא יוֹשֶׁ֨בֶת תַּֽחַת־ תֹּ֜מֶר דְּבוֹרָ֗ה בֵּ֧ין הָרָמָ֛ה וּבֵ֥ין בֵּֽית־ אֵ֖ל בְּהַ֣ר אֶפְרָ֑יִם וַיַּעֲל֥וּ אֵלֶ֛יהָ בְּנֵ֥י יִשְׂרָאֵ֖ל לַמִּשְׁפָּֽט׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H8478G]]"
+- "[[H9014]]"
+- "[[H8560]]"
+- "[[H1683H]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H1008G]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:5**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.
 <small><sub>**BSB:**</sub></small>
 And she would sit under the Palm of Deborah between Ramah and Bethel in the hill country of Ephraim, where the Israelites would go up to her for judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H1931\|הִיא]] [[H3427\|יוֹשֶׁ֨בֶת]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H8560\|תֹּ֜מֶר]] [[H1683H\|דְּבוֹרָ֗ה]] [[H0996G\|בֵּ֧ין]] [[H9009\|הָ]][[H7414G\|רָמָ֛ה]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H9003\|בְּ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H5927G\|יַּעֲל֥וּ]] [[H0413\|אֵלֶ֛י]][[H9034\|הָ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CANAANITES|CANAANITES]] • [[topic COURT|COURT]] • [[topic DEBORAH|DEBORAH]] • [[topic GOD|GOD]] • [[topic PALM TREE|PALM TREE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.4|<< Judges 4:4]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.6|Judges 4:6 >>]]</td></tr></table>
 

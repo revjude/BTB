@@ -1,8 +1,57 @@
+---
+title: Isaiah 38:9
+type: Verse
+kjv: "The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:"
+bsb: "This is a writing by Hezekiah king of Judah after his illness and recovery:"
+hebrew: "מִכְתָּ֖ב לְחִזְקִיָּ֣הוּ מֶֽלֶךְ־ יְהוּדָ֑ה בַּחֲלֹת֕וֹ וַיְחִ֖י מֵחָלְיֽוֹ׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H4385]]"
+- "[[H9005]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H2470H]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9006]]"
+- "[[H2483]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:9**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:
 <small><sub>**BSB:**</sub></small>
 This is a writing by Hezekiah king of Judah after his illness and recovery:
+<small><sub>**Hebrew:**</sub></small>
+[[H4385\|מִכְתָּ֖ב]] [[H9005\|לְ]][[H2396G\|חִזְקִיָּ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9003\|בַּ]][[H2470H\|חֲלֹת֕]][[H9043\|וֹ]] [[H9001\|וַ]][[H2421\|יְחִ֖י]] [[H9006\|מֵ]][[H2483\|חָלְיֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.8|<< Isaiah 38:8]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.10|Isaiah 38:10 >>]]</td></tr></table>
 

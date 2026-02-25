@@ -1,8 +1,65 @@
+---
+title: Genesis 9:1
+type: Verse
+kjv: "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+bsb: "And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth."
+hebrew: "וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת־ נֹ֖חַ וְאֶת־ בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROPAGATION|PROPAGATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6509]]"
+- "[[H7235A]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:1**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 <small><sub>**BSB:**</sub></small>
 And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1288\|יְבָ֣רֶךְ]] [[H0430G\|אֱלֹהִ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5146\|נֹ֖חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H6509\|פְּר֥וּ]] [[H9002\|וּ]][[H7235A\|רְב֖וּ]] [[H9002\|וּ]][[H4390\|מִלְא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic PROPAGATION|PROPAGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.22|<< Genesis 8:22]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.2|Genesis 9:2 >>]]</td></tr></table>
 

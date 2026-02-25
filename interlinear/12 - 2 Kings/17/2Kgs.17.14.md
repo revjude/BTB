@@ -1,8 +1,63 @@
+---
+title: 2 Kings 17:14
+type: Verse
+kjv: "Notwithstanding they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the LORD their God."
+bsb: "But they would not listen, and they stiffened their necks like their fathers, who did not believe the LORD their God."
+hebrew: "וְלֹ֖א שָׁמֵ֑עוּ וַיַּקְשׁ֤וּ אֶת־ עָרְפָּם֙ כְּעֹ֣רֶף אֲבוֹתָ֔ם אֲשֶׁר֙ לֹ֣א הֶאֱמִ֔ינוּ בַּֽיהוָ֖ה אֱלֹהֵיהֶֽם׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H7185]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6203]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H0834A]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:14**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the LORD their God.
 <small><sub>**BSB:**</sub></small>
 But they would not listen, and they stiffened their necks like their fathers, who did not believe the LORD their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֖א]] [[H8085G\|שָׁמֵ֑עוּ]] [[H9001\|וַ]][[H7185\|יַּקְשׁ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6203\|עָרְפָּ]][[H9028\|ם֙]] [[H9004\|כְּ]][[H6203\|עֹ֣רֶף]] [[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H0539\|הֶאֱמִ֔ינוּ]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]] • [[topic SELF-WILL|SELF-WILL]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.13|<< 2 Kings 17:13]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.15|2 Kings 17:15 >>]]</td></tr></table>
 

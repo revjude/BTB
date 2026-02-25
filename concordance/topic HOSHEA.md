@@ -17,7 +17,7 @@
 
 - Conspires against Assyria and is imprisoned [[2Kgs.17.4|2Ki 17:4]]
 
-- Last king of Israel [[2Kgs.17.6|2Ki 17:6]]; [[2Kgs.18.9|18:9]]-[[2Kgs.18.12|12]]; [[Hos.10.3|Ho 10:3]],[[Hos.10.7|7]]
+- Last king of Israel [[2Kgs.17.6|2Ki 17:6]]; [[2Kgs.18.9|18:9-12]]; [[Hos.10.3|Ho 10:3]],[[Hos.10.7|7]]
 
 4. A Jewish exile [[Neh.10.23|Ne 10:23]]
 

@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 9:19
+type: Verse
+kjv: "For though I be free from all men, yet have I made myself servant unto all, that I might gain the more."
+bsb: "Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible."
+greek: "Ἐλεύθερος γὰρ ὢν ἐκ πάντων πᾶσιν ἐμαυτὸν ἐδούλωσα ἵνα τοὺς πλείονας κερδήσω·"
+pericope: "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TACT|TACT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1658]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G1473]]"
+- "[[G1402]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G4119]]"
+- "[[G2770]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 9:19**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For though I be free from all [men], yet have I made myself servant unto all, that I might gain the more.
 <small><sub>**BSB:**</sub></small>
 Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible.
-<small><sub>**Literal:**</sub></small>
-Free for being from all to all myself I became servant so that the more I may gain;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.18|<< 1 Corinthians 9:18]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.20|1 Corinthians 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1658\|Ἐλεύθερος]]  [[G1063\|γὰρ]]  [[G1510\|ὢν]]  [[G1537\|ἐκ]]  [[G3956\|πάντων]]  [[G3956\|πᾶσιν]]  [[G1473\|ἐμαυτὸν]]  [[G1402\|ἐδούλωσα]]  [[G2443\|ἵνα]]  [[G3588\|τοὺς]]  [[G4119\|πλείονας]]  [[G2770\|κερδήσω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TACT|TACT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.18|<< 1 Corinthians 9:18]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.20|1 Corinthians 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

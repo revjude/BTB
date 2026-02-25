@@ -1,8 +1,50 @@
+---
+title: Psalm 29:8
+type: Verse
+kjv: "The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh."
+bsb: "The voice of the LORD shakes the wilderness; the LORD shakes the Wilderness of Kadesh."
+hebrew: "ק֣וֹל יְ֭הוָה יָחִ֣יל מִדְבָּ֑ר יָחִ֥יל יְ֝הוָ֗ה מִדְבַּ֥ר קָדֵֽשׁ׃"
+pericope: "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 29
+book/chapter: "[[Ps.29|Psalm 29]]"
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H2342A]]"
+- "[[H4057B]]"
+- "[[H6946G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 29:8**<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh.
 <small><sub>**BSB:**</sub></small>
 The voice of the LORD shakes the wilderness; the LORD shakes the Wilderness of Kadesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֣וֹל]] [[H3068G\|יְ֭הוָה]] [[H2342A\|יָחִ֣יל]] [[H4057B\|מִדְבָּ֑ר]] [[H2342A\|יָחִ֥יל]] [[H3068G\|יְ֝הוָ֗ה]] [[H4057B\|מִדְבַּ֥ר]] [[H6946G\|קָדֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.7|<< Psalms 29:7]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.9|Psalms 29:9 >>]]</td></tr></table>
 

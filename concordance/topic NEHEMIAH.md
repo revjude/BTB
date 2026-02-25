@@ -7,11 +7,11 @@
 
 - Is grieved over the desolation of his country [[Neh.1|Ne 1]]
 
-- Is sent by the king to rebuild Jerusalem [[Neh.2.1|Ne 2:1]]-[[Neh.2.8|8]]
+- Is sent by the king to rebuild Jerusalem [[Neh.2.1|Ne 2:1-8]]
 
 - Register of the people whom he led from Babylon [[Neh.7|Ne  7]]
 
-- Register of the priests and Levites [[Neh.12.1|Ne 12:1]]-[[Neh.12.22|22]]
+- Register of the priests and Levites [[Neh.12.1|Ne 12:1-22]]
 
 - Rebuilds Jerusalem [[Neh.2|Ne 2]]; [[Neh.3|3]]; [[Neh.4|4]]; [[Neh.5|5]]; [[Neh.6|6]]
 

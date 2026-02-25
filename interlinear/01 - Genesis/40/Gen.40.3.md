@@ -1,8 +1,62 @@
+---
+title: Genesis 40:3
+type: Verse
+kjv: "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
+bsb: "and imprisoned them in the house of the captain of the guard, the same prison where Joseph was confined."
+hebrew: "וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַבָּחִ֖ים אֶל־ בֵּ֣ית הַסֹּ֑הַר מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4929]]"
+- "[[H1004B]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2876]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5470]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H3130G]]"
+- "[[H0631]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:3**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph [was] bound.
 <small><sub>**BSB:**</sub></small>
 and imprisoned them in the house of the captain of the guard, the same prison where Joseph was confined.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתֵּ֨ן]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H9003\|בְּ]][[H4929\|מִשְׁמַ֗ר]] [[H1004B\|בֵּ֛ית]] [[H8269\|שַׂ֥ר]] [[H9009\|הַ]][[H2876\|טַבָּחִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H5470\|סֹּ֑הַר]] [[H4725\|מְק֕וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3130G\|יוֹסֵ֖ף]] [[H0631\|אָס֥וּר]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.2|<< Genesis 40:2]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.4|Genesis 40:4 >>]]</td></tr></table>
 

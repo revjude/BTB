@@ -1,8 +1,63 @@
+---
+title: Zechariah 11:14
+type: Verse
+kjv: "Then I cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel."
+bsb: "Then I cut in two my second staff called Union, breaking the brotherhood between Judah and Israel."
+hebrew: "וָֽאֶגְדַּע֙ אֶת־ מַקְלִ֣י הַשֵּׁנִ֔י אֵ֖ת הַחֹֽבְלִ֑ים לְהָפֵר֙ אֶת־ הָֽאַחֲוָ֔ה בֵּ֥ין יְהוּדָ֖ה וּבֵ֥ין יִשְׂרָאֵֽל׃ ס"
+pericope: "[[Zech.11.10 Thirty Pieces of Silver|Thirty Pieces of Silver]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1438]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4731]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H2256C]]"
+- "[[H9005]]"
+- "[[H6565A]]"
+- "[[H0264]]"
+- "[[H0996G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Zechariah 11:14**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I cut asunder mine other staff, [even] Bands, that I might break the brotherhood between Judah and Israel.
 <small><sub>**BSB:**</sub></small>
 Then I cut in two my second staff called Union, breaking the brotherhood between Judah and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H1438\|אֶגְדַּע֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4731\|מַקְלִ֣]][[H9020\|י]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H0853\|אֵ֖ת]] [[H9009\|הַ]][[H2256C\|חֹֽבְלִ֑ים]] [[H9005\|לְ]][[H6565A\|הָפֵר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0264\|אַחֲוָ֔ה]] [[H0996G\|בֵּ֥ין]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic ISRAEL|ISRAEL]] • [[topic STAVES (LONG POLES)|STAVES (LONG POLES)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
 
@@ -20,7 +75,7 @@ Then I cut in two my second staff called Union, breaking the brotherhood between
 | between  |**<big>&#8207;[[H0996G\|בֵּ֥ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֖ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֥ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
 
 

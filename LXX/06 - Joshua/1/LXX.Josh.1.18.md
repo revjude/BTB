@@ -1,6 +1,62 @@
+---
+title: LXX Joshua 1:18
+type: Verse
+lxx: "And the man who ever should resist you, and who ever should not hearken to  your words, in so far as you should give charge to him, let him die! But be strong and be manly!"
+greek: "ο δε άνθρωπος ος αν απειθήση σοι και ος αν μη ακούση των ρημάτων σου καθότι αν εντείλη αυτώ αποθανέτω αλλά ίσχυε και ανδρίζου"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0544]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G3361]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G1473]]"
+- "[[G2530]]"
+- "[[G0302]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G0599]]"
+- "[[G0235]]"
+- "[[G2480]]"
+- "[[G2532]]"
+- "[[G0407]]"
+---
+
 **LXX Joshua 1:18** 
 <small><sub>**LXX:**</sub></small>
 And the man who ever should resist you, and who ever should not hearken to  your words, in so far as you should give charge to him, let him die! But be strong and be manly! 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G1161\|δε]] [[G0444\|άνθρωπος]] [[G3739\|ος]] [[G0302\|αν]] [[G0544\|απειθήση]] [[G1473\|σοι]] [[G2532\|και]] [[G3739\|ος]] [[G0302\|αν]] [[G3361\|μη]] [[G0191\|ακούση]] [[G3588\|των]] [[G4487\|ρημάτων]] [[G1473\|σου]] [[G2530\|καθότι]] [[G0302\|αν]] [[G1781\|εντείλη]] [[G1473\|αυτώ]] [[G0599\|αποθανέτω]] [[G0235\|αλλά]] [[G2480\|ίσχυε]] [[G2532\|και]] [[G0407\|ανδρίζου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JOSHUA|JOSHUA]] • [[topic LOYALTY|LOYALTY]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.17|<< Joshua 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.1|Joshua 2:1 >>]]</td></tr></table>
 
@@ -28,6 +84,6 @@ And the man who ever should resist you, and who ever should not hearken to  your
 | be strong | **<big>[[G2480\|ίσχυε]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | be manly! | **<big>[[G0407\|ανδρίζου]]</big>** |
-[[Josh.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.17|<< Joshua 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.1|Joshua 2:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.17|<< Joshua 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.1|Joshua 2:1 >>]]</td></tr></table>
 
 

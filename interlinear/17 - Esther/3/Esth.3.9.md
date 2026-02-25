@@ -1,8 +1,67 @@
+---
+title: Esther 3:9
+type: Verse
+kjv: "If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring it into the king’s treasuries."
+bsb: "If it pleases the king, let a decree be issued to destroy them, and I will deposit ten thousand talents of silver into the royal treasury to pay those who carry it out.”"
+hebrew: "אִם־ עַל־ הַמֶּ֣לֶךְ ט֔וֹב יִכָּתֵ֖ב לְאַבְּדָ֑ם וַעֲשֶׂ֨רֶת אֲלָפִ֜ים כִּכַּר־ כֶּ֗סֶף אֶשְׁקוֹל֙ עַל־ יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה לְהָבִ֖יא אֶל־ גִּנְזֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2896A]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H0006]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H3603H]]"
+- "[[H3701G]]"
+- "[[H8254]]"
+- "[[H3027G]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H1595]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:9**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring [it] into the king’s treasuries.
 <small><sub>**BSB:**</sub></small>
 If it pleases the king, let a decree be issued to destroy them, and I will deposit ten thousand talents of silver into the royal treasury to pay those who carry it out.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2896A\|ט֔וֹב]] [[H3789\|יִכָּתֵ֖ב]] [[H9005\|לְ]][[H0006\|אַבְּדָ֑]][[H9038\|ם]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֨רֶת]] [[H0505G\|אֲלָפִ֜ים]] [[H3603H\|כִּכַּר]][[H9014\|־]] [[H3701G\|כֶּ֗סֶף]] [[H8254\|אֶשְׁקוֹל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵי֙]] [[H6213A\|עֹשֵׂ֣י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H9005\|לְ]][[H0935P\|הָבִ֖יא]] [[H0413\|אֶל]][[H9014\|־]] [[H1595\|גִּנְזֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BRIBERY|BRIBERY]] • [[topic MALICE|MALICE]] • [[topic REVENGE|REVENGE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.10|Esther 3:10 >>]]</td></tr></table>
 

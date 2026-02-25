@@ -1,8 +1,60 @@
+---
+title: Jeremiah 2:36
+type: Verse
+kjv: "Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria."
+bsb: "How impulsive you are, constantly changing your ways! You will be disappointed by Egypt just as you were by Assyria."
+hebrew: "מַה־ תֵּזְלִ֥י מְאֹ֖ד לְשַׁנּ֣וֹת אֶת־ דַּרְכֵּ֑ךְ גַּ֤ם מִמִּצְרַ֙יִם֙ תֵּב֔וֹשִׁי כַּאֲשֶׁר־ בֹּ֖שְׁתְּ מֵאַשּֽׁוּר׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0235]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H8138A]]"
+- "[[H0853]]"
+- "[[H1870L]]"
+- "[[H9022]]"
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H0954]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:36**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
 <small><sub>**BSB:**</sub></small>
 How impulsive you are, constantly changing your ways! You will be disappointed by Egypt just as you were by Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H0235\|תֵּזְלִ֥י]] [[H3966\|מְאֹ֖ד]] [[H9005\|לְ]][[H8138A\|שַׁנּ֣וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1870L\|דַּרְכֵּ֑]][[H9022\|ךְ]] [[H1571\|גַּ֤ם]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H0954\|תֵּב֔וֹשִׁי]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0954\|בֹּ֖שְׁתְּ]] [[H9006\|מֵ]][[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic INSTABILITY|INSTABILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.35|<< Jeremiah 2:35]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.37|Jeremiah 2:37 >>]]</td></tr></table>
 

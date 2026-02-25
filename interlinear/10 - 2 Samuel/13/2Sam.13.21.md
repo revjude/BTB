@@ -1,8 +1,58 @@
+---
+title: 2 Samuel 13:21
+type: Verse
+kjv: "But when king David heard of all these things, he was very wroth."
+bsb: "When King David heard all this, he was furious."
+hebrew: "וְהַמֶּ֣לֶךְ דָּוִ֔ד שָׁמַ֕ע אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיִּ֥חַר ל֖וֹ מְאֹֽד׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:21**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when king David heard of all these things, he was very wroth.
 <small><sub>**BSB:**</sub></small>
 When King David heard all this, he was furious.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֔ד]] [[H8085G\|שָׁמַ֕ע]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H2734\|יִּ֥חַר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.20|<< 2 Samuel 13:20]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.22|2 Samuel 13:22 >>]]</td></tr></table>
 

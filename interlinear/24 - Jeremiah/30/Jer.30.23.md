@@ -1,8 +1,55 @@
+---
+title: Jeremiah 30:23
+type: Verse
+kjv: "Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked."
+bsb: "Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked."
+hebrew: "הִנֵּ֣ה׀ סַעֲרַ֣ת יְהוָ֗ה חֵמָה֙ יָֽצְאָ֔ה סַ֖עַר מִתְגּוֹרֵ֑ר עַ֛ל רֹ֥אשׁ רְשָׁעִ֖ים יָחֽוּל׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WHIRLWIND|WHIRLWIND]]"
+strongs:
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H5591B]]"
+- "[[H3068G]]"
+- "[[H2534]]"
+- "[[H3318G]]"
+- "[[H5591A]]"
+- "[[H1641]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H7563]]"
+- "[[H2342J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:23**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
 <small><sub>**BSB:**</sub></small>
 Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H5591B\|סַעֲרַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H2534\|חֵמָה֙]] [[H3318G\|יָֽצְאָ֔ה]] [[H5591A\|סַ֖עַר]] [[H1641\|מִתְגּוֹרֵ֑ר]] [[H5921A\|עַ֛ל]] [[H7218A\|רֹ֥אשׁ]] [[H7563\|רְשָׁעִ֖ים]] [[H2342J\|יָחֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHIRLWIND|WHIRLWIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.22|<< Jeremiah 30:22]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.24|Jeremiah 30:24 >>]]</td></tr></table>
 

@@ -1,6 +1,80 @@
+---
+title: LXX Genesis 3:22
+type: Verse
+lxx: "And God said, Behold, Adam has become as one of us,  to know good and evil. And now, lest at any time he might stretch out the hand, and should take from the tree  of life, and should eat, and will live into the eon --"
+greek: "και είπεν ο θεός ιδού Αδάμ γέγονεν ως εις εξ ημών του γινώσκειν καλόν και πονηρόν και νυν μήποτε εκτείνη την χείρα και λάβη από του ξύλου της ζωής και φάγη και ζήσεται εις τον αιώνα"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BANISHMENT|BANISHMENT]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TREE|TREE]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2400]]"
+- "[[G0076]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1097]]"
+- "[[G2570]]"
+- "[[G2532]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G3379]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3586]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G2198]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+---
+
 **LXX Genesis 3:22** 
 <small><sub>**LXX:**</sub></small>
 And God said, Behold, Adam has become as one of us,  to know good and evil. And now, lest at any time he might stretch out the hand, and should take from the tree  of life, and should eat, and will live into the eon -- 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G2400\|ιδού]] [[G0076\|Αδάμ]] [[G1096\|γέγονεν]] [[G5613\|ως]] [[G1520\|εις]] [[G1537\|εξ]] [[G1473\|ημών]] [[G3588\|του]] [[G1097\|γινώσκειν]] [[G2570\|καλόν]] [[G2532\|και]] [[G4190\|πονηρόν]] [[G2532\|και]] [[G3568\|νυν]] [[G3379\|μήποτε]] [[G1614\|εκτείνη]] [[G3588\|την]] [[G5495\|χείρα]] [[G2532\|και]] [[G2983\|λάβη]] [[G0575\|από]] [[G3588\|του]] [[G3586\|ξύλου]] [[G3588\|της]] [[G2222\|ζωής]] [[G2532\|και]] [[G2068\|φάγη]] [[G2532\|και]] [[G2198\|ζήσεται]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BANISHMENT|BANISHMENT]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic LIFE|LIFE]] • [[topic SIN|SIN]] • [[topic TREE|TREE]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.21|<< Genesis 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.23|Genesis 3:23 >>]]</td></tr></table>
 
@@ -40,6 +114,6 @@ And God said, Behold, Adam has become as one of us,  to know good and evil. And 
 | into | **<big>[[G1519\|εις]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | eon -- | **<big>[[G0165\|αιώνα]]</big>** |
-[[Gen.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.21|<< Genesis 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.23|Genesis 3:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.21|<< Genesis 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.23|Genesis 3:23 >>]]</td></tr></table>
 
 

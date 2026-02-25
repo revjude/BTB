@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 14:20
+type: Verse
+kjv: "And Saul and all the people that were with him assembled themselves, and they came to the battle: and, behold, every man’s sword was against his fellow, and there was a very great discomfiture."
+bsb: "Then Saul and all his troops assembled and marched to the battle, and they found the Philistines in total confusion, with each man wielding the sword against his neighbor."
+hebrew: "וַיִּזָּעֵ֣ק שָׁא֗וּל וְכָל־ הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיָּבֹ֖אוּ עַד־ הַמִּלְחָמָ֑ה וְהִנֵּ֨ה הָיְתָ֜ה חֶ֤רֶב אִישׁ֙ בְּרֵעֵ֔הוּ מְהוּמָ֖ה גְּדוֹלָ֥ה מְאֹֽד׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PANIC|PANIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H4421]]"
+- "[[H2009]]"
+- "[[H1961]]"
+- "[[H2719]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4103]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:20**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul and all the people that [were] with him assembled themselves, and they came to the battle: and, behold, every man’s sword was against his fellow, [and there was] a very great discomfiture.
 <small><sub>**BSB:**</sub></small>
 Then Saul and all his troops assembled and marched to the battle, and they found the Philistines in total confusion, with each man wielding the sword against his neighbor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|יִּזָּעֵ֣ק]] [[H7586G\|שָׁא֗וּל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H1961\|הָיְתָ֜ה]] [[H2719\|חֶ֤רֶב]] [[H0376I\|אִישׁ֙]] [[H9003\|בְּ]][[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H4103\|מְהוּמָ֖ה]] [[H1419A\|גְּדוֹלָ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PANIC|PANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.19|<< 1 Samuel 14:19]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.21|1 Samuel 14:21 >>]]</td></tr></table>
 

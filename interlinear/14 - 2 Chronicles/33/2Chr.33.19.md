@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 33:19
+type: Verse
+kjv: "His prayer also, and how God was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers."
+bsb: "His prayer and how God received his plea, as well as all his sin and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself, they are indeed written in the Records of the Seers."
+hebrew: "וּתְפִלָּת֣וֹ וְהֵֽעָתֶר־ לוֹ֮ וְכָל־ חַטָּאת֣וֹ וּמַעְלוֹ֒ וְהַמְּקֹמ֗וֹת אֲשֶׁר֩ בָּנָ֨ה בָהֶ֤ם בָּמוֹת֙ וְהֶעֱמִיד֙ הָאֲשֵׁרִ֣ים וְהַפְּסִלִ֔ים לִפְנֵ֖י הִכָּנְע֑וֹ הִנָּ֣ם כְּתוּבִ֔ים עַ֖ל דִּבְרֵ֥י חוֹזָֽי׃"
+pericope: "[[2Chr.33.10 Manasseh’s Repentance and Restoration|Manasseh’s Repentance and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9002]]"
+- "[[H8605]]"
+- "[[H9023]]"
+- "[[H6279]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H2403B]]"
+- "[[H4604]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1116]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0842]]"
+- "[[H6456]]"
+- "[[H6440G]]"
+- "[[H3665]]"
+- "[[H9043]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H1697K]]"
+- "[[H2335]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:19**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His prayer also, and [how God] was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they [are] written among the sayings of the seers.
 <small><sub>**BSB:**</sub></small>
 His prayer and how God received his plea, as well as all his sin and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself, they are indeed written in the Records of the Seers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8605\|תְפִלָּת֣]][[H9023\|וֹ]] [[H9002\|וְ]][[H6279\|הֵֽעָתֶר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֮]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטָּאת֣]][[H9023\|וֹ]] [[H9002\|וּ]][[H4604\|מַעְל]][[H9023\|וֹ֒]] [[H9002\|וְ]][[H9009\|הַ]][[H4725\|מְּקֹמ֗וֹת]] [[H0834A\|אֲשֶׁר֩]] [[H1129\|בָּנָ֨ה]] [[H9003\|בָ]][[H9038\|הֶ֤ם]] [[H1116\|בָּמוֹת֙]] [[H9001\|וְ]][[H5975G\|הֶעֱמִיד֙]] [[H9009\|הָ]][[H0842\|אֲשֵׁרִ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6456\|פְּסִלִ֔ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3665\|הִכָּנְע֑]][[H9043\|וֹ]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַ֖ל]] [[H1697K\|דִּבְרֵ֥י]] [[H2335\|חוֹזָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.18|<< 2 Chronicles 33:18]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.20|2 Chronicles 33:20 >>]]</td></tr></table>
 

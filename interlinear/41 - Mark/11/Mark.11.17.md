@@ -1,10 +1,65 @@
+---
+title: Mark 11:17
+type: Verse
+kjv: "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves."
+bsb: "Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’? But you have made it ‘a den of robbers.’”"
+jesus_said: "Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves."
+greek: "καὶ ἐδίδασκεν καὶ ἔλεγεν αὐτοῖς· οὐ γέγραπται ὅτι ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται πᾶσιν τοῖς ἔθνεσιν; ὑμεῖς δὲ πεποιήκατε αὐτὸν σπήλαιον λῃστῶν.¶"
+pericope: "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HOUSE OF GOD|HOUSE OF GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+- "[[G4335]]"
+- "[[G2564G]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G4693]]"
+- "[[G3027]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 11:17**<big><big>[[Mark.11.15 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’? But you have made it ‘a den of robbers.’”
-<small><sub>**Literal:**</sub></small>
-And He was teaching and was saying to them; Surely it has been written that The house of Mine a house of prayer will be called for all the nations’? You yourselves however have made it a den of robbers.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.16|<< Mark 11:16]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.18|Mark 11:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1321\|ἐδίδασκεν]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐ]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G3624G\|οἶκός]]  [[G3165\|μου]]  [[G3624G\|οἶκος]]  [[G4335\|προσευχῆς]]  [[G2564G\|κληθήσεται]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν;]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G4160G\|πεποιήκατε]]  [[G0846\|αὐτὸν]]  [[G4693\|σπήλαιον]]  [[G3027\|λῃστῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE OF GOD|HOUSE OF GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TEMPLE|TEMPLE]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.16|<< Mark 11:16]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.18|Mark 11:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 11:17** is...
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]

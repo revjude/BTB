@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 17:1
+type: Verse
+kjv: "Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:"
+bsb: "Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David."
+hebrew: "וַיֹּ֥אמֶר אֲחִיתֹ֖פֶל אֶל־ אַבְשָׁלֹ֑ם אֶבְחֲרָ֣ה נָּ֗א שְׁנֵים־ עָשָׂ֥ר אֶ֙לֶף֙ אִ֔ישׁ וְאָק֛וּמָה וְאֶרְדְּפָ֥ה אַחֲרֵי־ דָוִ֖ד הַלָּֽיְלָה׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0302]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H0977]]"
+- "[[H4994]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:1**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
 <small><sub>**BSB:**</sub></small>
 Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0302\|אֲחִיתֹ֖פֶל]] [[H0413\|אֶל]][[H9014\|־]] [[H0053\|אַבְשָׁלֹ֑ם]] [[H0977\|אֶבְחֲרָ֣ה]] [[H4994\|נָּ֗א]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֙לֶף֙]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H6965B\|אָק֛וּמָה]] [[H9002\|וְ]][[H7291\|אֶרְדְּפָ֥ה]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H1732\|דָוִ֖ד]] [[H9009\|הַ]][[H3915\|לָּֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic CITIZENS|CITIZENS]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MALICE|MALICE]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.23|<< 2 Samuel 16:23]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.2|2 Samuel 17:2 >>]]</td></tr></table>
 

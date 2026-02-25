@@ -1,8 +1,64 @@
+---
+title: Joshua 11:13
+type: Verse
+kjv: "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
+bsb: "Yet Israel did not burn any of the cities built on their mounds, except Hazor, which Joshua burned."
+hebrew: "רַ֣ק כָּל־ הֶעָרִ֗ים הָעֹֽמְדוֹת֙ עַל־ תִּלָּ֔ם לֹ֥א שְׂרָפָ֖ם יִשְׂרָאֵ֑ל זוּלָתִ֛י אֶת־ חָצ֥וֹר לְבַדָּ֖הּ שָׂרַ֥ף יְהוֹשֻֽׁעַ׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7535]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H8510]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H8313]]"
+- "[[H9038]]"
+- "[[H3478]]"
+- "[[H2108]]"
+- "[[H0853]]"
+- "[[H2674G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9034]]"
+- "[[H3091G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:13**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [as for] the cities that stood still in their strength, Israel burned none of them, save Hazor only; [that] did Joshua burn.
 <small><sub>**BSB:**</sub></small>
 Yet Israel did not burn any of the cities built on their mounds, except Hazor, which Joshua burned.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֣ק]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֗ים]] [[H9009\|הָ]][[H5975G\|עֹֽמְדוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8510\|תִּלָּ֔]][[H9028\|ם]] [[H3808\|לֹ֥א]] [[H8313\|שְׂרָפָ֖]][[H9038\|ם]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2108\|זוּלָתִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H2674G\|חָצ֥וֹר]] [[H9005\|לְ]][[H0905H\|בַדָּ֖]][[H9034\|הּ]] [[H8313\|שָׂרַ֥ף]] [[H3091G\|יְהוֹשֻֽׁעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HAZOR|HAZOR]] • [[topic JABIN|JABIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.12|<< Joshua 11:12]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.14|Joshua 11:14 >>]]</td></tr></table>
 

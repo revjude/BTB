@@ -1,8 +1,65 @@
+---
+title: Genesis 30:42
+type: Verse
+kjv: "But when the cattle were feeble, he put them not in: so the feebler were Laban’s, and the stronger Jacob’s."
+bsb: "But if the animals were weak, he did not set out the branches. So the weaker animals went to Laban and the stronger ones to Jacob."
+hebrew: "וּבְהַעֲטִ֥יף הַצֹּ֖אן לֹ֣א יָשִׂ֑ים וְהָיָ֤ה הָעֲטֻפִים֙ לְלָבָ֔ן וְהַקְּשֻׁרִ֖ים לְיַעֲקֹֽב׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5848C]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H3808]]"
+- "[[H7760H]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3837A]]"
+- "[[H7194]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:42**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when the cattle were feeble, he put [them] not in: so the feebler were Laban’s, and the stronger Jacob’s.
 <small><sub>**BSB:**</sub></small>
 But if the animals were weak, he did not set out the branches. So the weaker animals went to Laban and the stronger ones to Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H5848C\|הַעֲטִ֥יף]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H3808\|לֹ֣א]] [[H7760H\|יָשִׂ֑ים]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9009\|הָ]][[H5848C\|עֲטֻפִים֙]] [[H9005\|לְ]][[H3837A\|לָבָ֔ן]] [[H9002\|וְ]][[H9009\|הַ]][[H7194\|קְּשֻׁרִ֖ים]] [[H9005\|לְ]][[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SON-IN-LAW|SON-IN-LAW]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.41|<< Genesis 30:41]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.43|Genesis 30:43 >>]]</td></tr></table>
 

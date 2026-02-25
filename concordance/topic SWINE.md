@@ -15,7 +15,7 @@
 
 → Viciousness of [[Matt.7.6|Mt 7:6]]
 
-→ Jesus sends demons into the [[Matt.8.28|Mt 8:28]]-[[Matt.8.32|32]]; [[Mark.5.11|Mr 5:11]]-[[Mark.5.14|14]];  [[Luke.8.32|Lu 8:32]],[[Luke.8.33|33]]
+→ Jesus sends demons into the [[Matt.8.28|Mt 8:28-32]]; [[Mark.5.11|Mr 5:11-14]];  [[Luke.8.32|Lu 8:32]],[[Luke.8.33|33]]
 
 → Feeding of [[Luke.15.15|Lu 15:15]],[[Luke.15.16|16]]
 

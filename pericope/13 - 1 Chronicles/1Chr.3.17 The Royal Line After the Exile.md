@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Royal Line After the Exile
+type: Pericope
 pericope: "[[1Chr.3.17 The Royal Line After the Exile|The Royal Line After the Exile]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 3
 book/chapter: "[[1Chr.3|1 Chronicles 3]]"
-genre:
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 8
 verses:
 - "[[1Chr.3.17]]"
 - "[[1Chr.3.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Chr.3.24]]"
 ---
 
-[[1Chr.3|1 Chronicles 3:17 - 1 Chronicles 3:24]]
+<small>[[1Chr.3|1 Chronicles 3:17-24]]</small>
 *The Royal Line After the Exile*
 
 [[1Chr.3.17|17]] And the sons of Jeconiah; Assir, Salathiel his son,

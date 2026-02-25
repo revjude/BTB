@@ -1,10 +1,66 @@
+---
+title: Luke 6:17
+type: Verse
+kjv: "And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;"
+bsb: "Then Jesus came down with them and stood on a level place. A large crowd of His disciples was there, along with a great number of people from all over Judea, Jerusalem, and the seacoast of Tyre and Sidon."
+greek: "καὶ καταβὰς μετ᾽ αὐτῶν ἔστη ἐπὶ τόπου πεδινοῦ. καὶ ὄχλος πολὺς μαθητῶν αὐτοῦ καὶ πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς Ἰουδαίας καὶ Ἰερουσαλὴμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος"
+pericope: "[[Luke.6.17 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G5117]]"
+- "[[G3977]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G3101]]"
+- "[[G4128]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G2449]]"
+- "[[G2419]]"
+- "[[G3882]]"
+- "[[G5184]]"
+- "[[G4605]]"
+texts:
+- NKO
+- NO
+---
+
 **Luke 6:17**<big><big>[[Luke.6.17 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 <small><sub>**BSB:**</sub></small>
 Then Jesus came down with them and stood on a level place. A large crowd of His disciples was there, along with a great number of people from all over Judea, Jerusalem, and the seacoast of Tyre and Sidon.
-<small><sub>**Literal:**</sub></small>
-And having descended with them He stood on a place level. and a crowd large of disciples of Him and a multitude great of the people from all <the> Judea and Jerusalem and the sea coast of Tyre and Sidon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.16|<< Luke 6:16]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.18|Luke 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2597\|καταβὰς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2476\|ἔστη]]  [[G1909\|ἐπὶ]]  [[G5117\|τόπου]]  [[G3977\|πεδινοῦ.]]  [[G2532\|καὶ]]  [[G3793\|ὄχλος]]  [[G4183\|πολὺς]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4128\|πλῆθος]]  [[G4183\|πολὺ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G0575\|ἀπὸ]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3882\|παραλίου]]  [[G5184\|Τύρου]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.16|<< Luke 6:16]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.18|Luke 6:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

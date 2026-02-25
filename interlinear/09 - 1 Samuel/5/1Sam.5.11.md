@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 5:11
+type: Verse
+kjv: "So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there."
+bsb: "Then the Ekronites called together all the rulers of the Philistines and said, “Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!” For a deadly confusion had pervaded the city; the hand of God was very heavy upon it."
+hebrew: "וַיִּשְׁלְח֨וּ וַיַּאַסְפ֜וּ אֶת־ כָּל־ סַרְנֵ֣י פְלִשְׁתִּ֗ים וַיֹּֽאמְרוּ֙ שַׁלְּח֞וּ אֶת־ אֲר֨וֹן אֱלֹהֵ֤י יִשְׂרָאֵל֙ וְיָשֹׁ֣ב לִמְקֹמ֔וֹ וְלֹֽא־ יָמִ֥ית אֹתִ֖י וְאֶת־ עַמִּ֑י כִּֽי־ הָיְתָ֤ה מְהֽוּמַת־ מָ֙וֶת֙ בְּכָל־ הָעִ֔יר כָּבְדָ֥ה מְאֹ֛ד יַ֥ד הָאֱלֹהִ֖ים שָֽׁם׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEMORRHOIDS|HEMORRHOIDS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H0559]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H4103]]"
+- "[[H4194]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3513H]]"
+- "[[H3966]]"
+- "[[H3027H]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 5:11**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there.
 <small><sub>**BSB:**</sub></small>
 Then the Ekronites called together all the rulers of the Philistines and said, “Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!” For a deadly confusion had pervaded the city; the hand of God was very heavy upon it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלְח֨וּ]] [[H9001\|וַ]][[H0622\|יַּאַסְפ֜וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H7971G\|שַׁלְּח֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֨וֹן]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וְ]][[H7725G\|יָשֹׁ֣ב]] [[H9005\|לִ]][[H4725\|מְקֹמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4191\|יָמִ֥ית]] [[H0853\|אֹתִ֖]][[H9030\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֤ה]] [[H4103\|מְהֽוּמַת]][[H9014\|־]] [[H4194\|מָ֙וֶת֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H3513H\|כָּבְדָ֥ה]] [[H3966\|מְאֹ֛ד]] [[H3027H\|יַ֥ד]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEMORRHOIDS|HEMORRHOIDS]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.10|<< 1 Samuel 5:10]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.12|1 Samuel 5:12 >>]]</td></tr></table>
 

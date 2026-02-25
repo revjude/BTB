@@ -1,10 +1,51 @@
+---
+title: Acts 11:7
+type: Verse
+kjv: "And I heard a voice saying unto me, Arise, Peter; slay and eat."
+bsb: "Then I heard a voice saying to me, ‘Get up, Peter, kill and eat.’"
+greek: "ἤκουσα δὲ καὶ φωνῆς λεγούσης μοι· ἀναστὰς Πέτρε, θῦσον καὶ φάγε."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5456G]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G0450]]"
+- "[[G4074G]]"
+- "[[G2380]]"
+- "[[G5315]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 11:7**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a voice saying unto me, Arise, Peter; slay and eat.
 <small><sub>**BSB:**</sub></small>
 Then I heard a voice saying to me, ‘Get up, Peter, kill and eat.’
-<small><sub>**Literal:**</sub></small>
-I heard then also a voice saying to me; Having risen up Peter, do kill and do eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.6|<< Acts 11:6]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.8|Acts 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἤκουσα]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5456G\|φωνῆς]]  [[G3004G\|λεγούσης]]  [[G3165\|μοι·]]  [[G0450\|ἀναστὰς]]  [[G4074G\|Πέτρε,]]  [[G2380\|θῦσον]]  [[G2532\|καὶ]]  [[G5315\|φάγε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.6|<< Acts 11:6]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.8|Acts 11:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

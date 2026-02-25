@@ -1,8 +1,63 @@
+---
+title: Isaiah 45:11
+type: Verse
+kjv: "Thus saith the LORD, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command ye me."
+bsb: "Thus says the LORD, the Holy One of Israel, and its Maker: “Concerning things to come, do you question Me about My sons, or instruct Me in the work of My hands?"
+hebrew: "כֹּֽה־ אָמַ֧ר יְהוָ֛ה קְד֥וֹשׁ יִשְׂרָאֵ֖ל וְיֹצְר֑וֹ הָאֹתִיּ֣וֹת שְׁאָל֔וּנִי עַל־ בָּנַ֛י וְעַל־ פֹּ֥עַל יָדַ֖י תְּצַוֻּֽנִי׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3335G]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0857]]"
+- "[[H7592]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H6467]]"
+- "[[H3027G]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:11**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and concerning the work of my hands command ye me.
 <small><sub>**BSB:**</sub></small>
 Thus says the LORD, the Holy One of Israel, and its Maker: “Concerning things to come, do you question Me about My sons, or instruct Me in the work of My hands?
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H3335G\|יֹצְר֑]][[H9033\|וֹ]] [[H9009\|הָ]][[H0857\|אֹתִיּ֣וֹת]] [[H7592\|שְׁאָל֔וּ]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנַ֛]][[H9020\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6467\|פֹּ֥עַל]] [[H3027G\|יָדַ֖]][[H9020\|י]] [[H6680\|תְּצַוֻּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.10|<< Isaiah 45:10]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.12|Isaiah 45:12 >>]]</td></tr></table>
 

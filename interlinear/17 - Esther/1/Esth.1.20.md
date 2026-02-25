@@ -1,8 +1,75 @@
+---
+title: Esther 1:20
+type: Verse
+kjv: "And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small."
+bsb: "The edict the king issues will be heard throughout his vast kingdom—and so all women, from the least to the greatest, will honor their husbands.”"
+hebrew: "וְנִשְׁמַע֩ פִּתְגָ֨ם הַמֶּ֤לֶךְ אֲשֶֽׁר־ יַעֲשֶׂה֙ בְּכָל־ מַלְכוּת֔וֹ כִּ֥י רַבָּ֖ה הִ֑יא וְכָל־ הַנָּשִׁ֗ים יִתְּנ֤וּ יְקָר֙ לְבַעְלֵיהֶ֔ן לְמִגָּד֖וֹל וְעַד־ קָטָֽן׃"
+pericope: "[[Esth.1.13 Queen Vashti Deposed|Queen Vashti Deposed]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MEMUCAN|MEMUCAN]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic VASHTI|VASHTI]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085I]]"
+- "[[H6599]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H5414G]]"
+- "[[H3366]]"
+- "[[H9005]]"
+- "[[H1167H]]"
+- "[[H9029]]"
+- "[[H9006]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H6996A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:20**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.
 <small><sub>**BSB:**</sub></small>
 The edict the king issues will be heard throughout his vast kingdom—and so all women, from the least to the greatest, will honor their husbands.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085I\|נִשְׁמַע֩]] [[H6599\|פִּתְגָ֨ם]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6213H\|יַעֲשֶׂה֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H3588A\|כִּ֥י]] [[H7227A\|רַבָּ֖ה]] [[H1931\|הִ֑יא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֗ים]] [[H5414G\|יִתְּנ֤וּ]] [[H3366\|יְקָר֙]] [[H9005\|לְ]][[H1167H\|בַעְלֵי]][[H9029\|הֶ֔ן]] [[H9005\|לְ]][[H9006\|מִ]][[H1419A\|גָּד֖וֹל]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6996A\|קָטָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic FAMILY|FAMILY]] • [[topic HUSBAND|HUSBAND]] • [[topic MEMUCAN|MEMUCAN]] • [[topic PERSIA|PERSIA]] • [[topic QUEEN|QUEEN]] • [[topic VASHTI|VASHTI]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.19|<< Esther 1:19]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.21|Esther 1:21 >>]]</td></tr></table>
 

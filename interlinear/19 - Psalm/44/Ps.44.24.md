@@ -1,8 +1,57 @@
+---
+title: Psalm 44:24
+type: Verse
+kjv: "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?"
+bsb: "Why do You hide Your face and forget our affliction and oppression?"
+hebrew: "לָֽמָּה־ פָנֶ֥יךָ תַסְתִּ֑יר תִּשְׁכַּ֖ח עָנְיֵ֣נוּ וְֽלַחֲצֵֽנוּ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H5641]]"
+- "[[H7911]]"
+- "[[H6040]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3906]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:24**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore hidest thou thy face, [and] forgettest our affliction and our oppression?
 <small><sub>**BSB:**</sub></small>
 Why do You hide Your face and forget our affliction and oppression?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָֽ]][[H4100\|מָּה]][[H9014\|־]] [[H6440H\|פָנֶ֥י]][[H9021\|ךָ]] [[H5641\|תַסְתִּ֑יר]] [[H7911\|תִּשְׁכַּ֖ח]] [[H6040\|עָנְיֵ֣]][[H9025\|נוּ]] [[H9002\|וְֽ]][[H3906\|לַחֲצֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MURMURING|MURMURING]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.23|<< Psalms 44:23]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.25|Psalms 44:25 >>]]</td></tr></table>
 

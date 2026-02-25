@@ -1,8 +1,54 @@
+---
+title: Job 12:25
+type: Verse
+kjv: "They grope in the dark without light, and he maketh them to stagger like a drunken man."
+bsb: "They grope in the darkness without light; He makes them stagger like drunkards."
+hebrew: "יְמַֽשְׁשׁוּ־ חֹ֥שֶׁךְ וְלֹא־ א֑וֹר וַ֝יַּתְעֵ֗ם כַּשִּׁכּֽוֹר׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATHEISM|ATHEISM]]"
+strongs:
+- "[[H4959]]"
+- "[[H9014]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0216]]"
+- "[[H9001]]"
+- "[[H8582]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H7910]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:25**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They grope in the dark without light, and he maketh them to stagger like [a] drunken [man].
 <small><sub>**BSB:**</sub></small>
 They grope in the darkness without light; He makes them stagger like drunkards.
+<small><sub>**Hebrew:**</sub></small>
+[[H4959\|יְמַֽשְׁשׁוּ]][[H9014\|־]] [[H2822\|חֹ֥שֶׁךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0216\|א֑וֹר]] [[H9001\|וַ֝]][[H8582\|יַּתְעֵ֗]][[H9038\|ם]] [[H9004\|כַּ]][[H7910\|שִּׁכּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATHEISM|ATHEISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.24|<< Job 12:24]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.1|Job 13:1 >>]]</td></tr></table>
 

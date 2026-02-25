@@ -1,8 +1,54 @@
+---
+title: Proverbs 12:9
+type: Verse
+kjv: "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread."
+bsb: "Better to be lightly esteemed yet have a servant, than to be self-important but lack food."
+hebrew: "ט֣וֹב נִ֭קְלֶה וְעֶ֣בֶד ל֑וֹ מִ֝מְּתַכַּבֵּ֗ד וַחֲסַר־ לָֽחֶם׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H2896A]]"
+- "[[H7034]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3513G]]"
+- "[[H2638]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:9**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] despised, and hath a servant, [is] better than he that honoureth himself, and lacketh bread.
 <small><sub>**BSB:**</sub></small>
 Better to be lightly esteemed yet have a servant, than to be self-important but lack food.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֣וֹב]] [[H7034\|נִ֭קְלֶה]] [[H9002\|וְ]][[H5650\|עֶ֣בֶד]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9006\|מִ֝]][[H3513G\|מְּתַכַּבֵּ֗ד]] [[H9002\|וַ]][[H2638\|חֲסַר]][[H9014\|־]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic PRIDE|PRIDE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.8|<< Proverbs 12:8]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.10|Proverbs 12:10 >>]]</td></tr></table>
 

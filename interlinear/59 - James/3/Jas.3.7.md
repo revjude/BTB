@@ -1,10 +1,53 @@
+---
+title: James 3:7
+type: Verse
+kjv: "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:"
+bsb: "All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man,"
+greek: "Πᾶσα γὰρ φύσις θηρίων τε καὶ πετεινῶν, ἑρπετῶν τε καὶ ἐναλίων δαμάζεται καὶ δεδάμασται τῇ φύσει τῇ ἀνθρωπίνῃ·"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G5449]]"
+- "[[G2342]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G4071]]"
+- "[[G2062]]"
+- "[[G1724]]"
+- "[[G1150]]"
+- "[[G3588]]"
+- "[[G0442]]"
+texts:
+- NKO
+---
+
 **James 3:7**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:
 <small><sub>**BSB:**</sub></small>
 All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man,
-<small><sub>**Literal:**</sub></small>
-All for kinds of beasts both and of birds, of creeping things both and things of the sea is subdued and he has been subdued by the race <the> human;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.6|<< James 3:6]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.8|James 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶσα]]  [[G1063\|γὰρ]]  [[G5449\|φύσις]]  [[G2342\|θηρίων]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4071\|πετεινῶν,]]  [[G2062\|ἑρπετῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1724\|ἐναλίων]]  [[G1150\|δαμάζεται]]  [[G2532\|καὶ]]  [[G1150\|δεδάμασται]]  [[G3588\|τῇ]]  [[G5449\|φύσει]]  [[G3588\|τῇ]]  [[G0442\|ἀνθρωπίνῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.6|<< James 3:6]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.8|James 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

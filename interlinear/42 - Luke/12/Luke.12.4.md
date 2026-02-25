@@ -1,10 +1,63 @@
+---
+title: Luke 12:4
+type: Verse
+kjv: "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do."
+bsb: "I tell you, My friends, do not be afraid of those who kill the body and after that can do no more."
+jesus_said: "And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do."
+greek: "Λέγω δὲ ὑμῖν τοῖς φίλοις μου· μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτεινόντων τὸ σῶμα καὶ μετὰ ταῦτα μὴ ἐχόντων περισσότερόν τι ποιῆσαι."
+pericope: "[[Luke.12.4 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G5384]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G0575]]"
+- "[[G0615]]"
+- "[[G4983]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2192]]"
+- "[[G4055]]"
+- "[[G5100]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Luke 12:4**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
 <small><sub>**BSB:**</sub></small>
 I tell you, My friends, do not be afraid of those who kill the body and after that can do no more.
-<small><sub>**Literal:**</sub></small>
-I say now to you those friends of Mine; not you may fear because of those killing the body and after these things not being able more excessive anything to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.3|<< Luke 12:3]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.5|Luke 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῖς]]  [[G5384\|φίλοις]]  [[G3165\|μου·]]  [[G3361\|μὴ]]  [[G5399\|φοβηθῆτε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0615\|ἀποκτεινόντων]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G3361\|μὴ]]  [[G2192\|ἐχόντων]]  [[G4055\|περισσότερόν]]  [[G5100\|τι]]  [[G4160G\|ποιῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.3|<< Luke 12:3]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.5|Luke 12:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,39 @@
+---
+title: Psalm 143:0
+type: Verse
+kjv: "A Psalm of David."
+hebrew: "מִזְמ֗וֹר לְדָ֫וִ֥ד"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4210]]"
+- "[[H9005]]"
+- "[[H1732]]"
+texts:
+- L
+---
+
 **Psalms 143:0**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H4210\|מִזְמ֗וֹר]] [[H9005\|לְ]][[H1732\|דָ֫וִ֥ד]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.7|<< Psalms 142:7]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.1|Psalms 143:1 >>]]</td></tr></table>
 

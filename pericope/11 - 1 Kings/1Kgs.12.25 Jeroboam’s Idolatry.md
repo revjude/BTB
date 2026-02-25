@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam’s Idolatry
+type: Pericope
 pericope: "[[1Kgs.12.25 Jeroboam’s Idolatry|Jeroboam’s Idolatry]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 12
 book/chapter: "[[1Kgs.12|1 Kings 12]]"
-genre:
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.12.25]]"
 - "[[1Kgs.12.26]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.12.33]]"
 ---
 
-[[1Kgs.12|1 Kings 12:25 - 1 Kings 12:33]]
+<small>[[1Kgs.12|1 Kings 12:25-33]]</small>
 *Jeroboam’s Idolatry*
 
 [[1Kgs.12.25|25]] Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.

@@ -1,10 +1,53 @@
+---
+title: Philemon 1:14
+type: Verse
+kjv: "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+bsb: "But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will."
+greek: "χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον."
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G5565]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G1106]]"
+- "[[G3762]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5613]]"
+- "[[G2596]]"
+- "[[G0318]]"
+- "[[G0018]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G1595]]"
+texts:
+- NKO
+---
+
 **Philemon 1:14**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.
 <small><sub>**BSB:**</sub></small>
 But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will.
-<small><sub>**Literal:**</sub></small>
-Apart from however <the> your consent no [thing] I wished to do, so that not as according to necessity the good of you may be but according to willingness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.13|<< Philemon 1:13]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.15|Philemon 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5565\|χωρὶς]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G4771\|σῆς]]  [[G1106\|γνώμης]]  [[G3762\|οὐδὲν]]  [[G2309\|ἠθέλησα]]  [[G4160G\|ποιῆσαι,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5613\|ὡς]]  [[G2596\|κατὰ]]  [[G0318\|ἀνάγκην]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθόν]]  [[G4771\|σου]]  [[G1510\|ᾖ]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G1595\|ἑκούσιον.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.13|<< Philemon 1:13]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.15|Philemon 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

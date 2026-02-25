@@ -1,6 +1,55 @@
+---
+title: LXX Proverbs 3:9
+type: Verse
+lxx: "Esteem the lord by your just toils, and dedicate to him from your fruits of righteousness!"
+greek: "τίμα τον κύριον από σων δικαίων πόνων και απάρχου αυτώ από σων καρπών δικαιοσύνης"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G0575]]"
+- "[[G4674]]"
+- "[[G1342]]"
+- "[[G4192]]"
+- "[[G2532]]"
+- "[[G6404]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G4674]]"
+- "[[G2590]]"
+- "[[G1343]]"
+---
+
 **LXX Proverbs 3:9** 
 <small><sub>**LXX:**</sub></small>
 Esteem the <span class="smallcaps">lord</span> by your just toils, and dedicate to him from your fruits of righteousness! 
+<small><sub>**Greek:**</sub></small>
+[[G5091\|τίμα]] [[G3588\|τον]] [[G2962\|κύριον]] [[G0575\|από]] [[G4674\|σων]] [[G1342\|δικαίων]] [[G4192\|πόνων]] [[G2532\|και]] [[G6404\|απάρχου]] [[G1473\|αυτώ]] [[G0575\|από]] [[G4674\|σων]] [[G2590\|καρπών]] [[G1343\|δικαιοσύνης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CHILDREN|CHILDREN]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.8|<< Proverbs 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.10|Proverbs 3:10 >>]]</td></tr></table>
 
@@ -20,6 +69,6 @@ Esteem the <span class="smallcaps">lord</span> by your just toils, and dedicate 
 | your | **<big>[[G4674\|σων]]</big>** |
 | fruits | **<big>[[G2590\|καρπών]]</big>** |
 | of righteousness! | **<big>[[G1343\|δικαιοσύνης]]</big>** |
-[[Prov.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.8|<< Proverbs 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.10|Proverbs 3:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.8|<< Proverbs 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.10|Proverbs 3:10 >>]]</td></tr></table>
 
 

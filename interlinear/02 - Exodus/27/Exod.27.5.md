@@ -1,8 +1,63 @@
+---
+title: Exodus 27:5
+type: Verse
+kjv: "And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar."
+bsb: "Set the grate beneath the ledge of the altar, so that the mesh comes halfway up the altar."
+hebrew: "וְנָתַתָּ֣ה אֹתָ֗הּ תַּ֛חַת כַּרְכֹּ֥ב הַמִּזְבֵּ֖חַ מִלְּמָ֑טָּה וְהָיְתָ֣ה הָרֶ֔שֶׁת עַ֖ד חֲצִ֥י הַמִּזְבֵּֽחַ׃"
+pericope: "[[Exod.27.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic GRATE|GRATE]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H8478G]]"
+- "[[H3749]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H1961]]"
+- "[[H7568]]"
+- "[[H5704]]"
+- "[[H2677]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:5**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar.
 <small><sub>**BSB:**</sub></small>
 Set the grate beneath the ledge of the altar, so that the mesh comes halfway up the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֣ה]] [[H0853\|אֹתָ֗]][[H9034\|הּ]] [[H8478G\|תַּ֛חַת]] [[H3749\|כַּרְכֹּ֥ב]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9006\|מִ]][[H9005\|לְּ]][[H4295\|מָ֑טָּה]] [[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H9009\|הָ]][[H7568\|רֶ֔שֶׁת]] [[H5704\|עַ֖ד]] [[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic GRATE|GRATE]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.4|<< Exodus 27:4]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.6|Exodus 27:6 >>]]</td></tr></table>
 

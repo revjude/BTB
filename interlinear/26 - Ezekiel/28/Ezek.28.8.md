@@ -1,8 +1,57 @@
+---
+title: Ezekiel 28:8
+type: Verse
+kjv: "They shall bring thee down to the pit, and thou shalt die the deaths of them that are slain in the midst of the seas."
+bsb: "They will bring you down to the Pit, and you will die a violent death in the heart of the seas."
+hebrew: "לַשַּׁ֖חַת יֽוֹרִד֑וּךָ וָמַ֛תָּה מְמוֹתֵ֥י חָלָ֖ל בְּלֵ֥ב יַמִּֽים׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9005]]"
+- "[[H7845G]]"
+- "[[H3381]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H4463]]"
+- "[[H2491A]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:8**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall bring thee down to the pit, and thou shalt die the deaths of [them that are] slain in the midst of the seas.
 <small><sub>**BSB:**</sub></small>
 They will bring you down to the Pit, and you will die a violent death in the heart of the seas.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H7845G\|שַּׁ֖חַת]] [[H3381\|יֽוֹרִד֑וּ]][[H9031\|ךָ]] [[H9001\|וָ]][[H4191\|מַ֛תָּה]] [[H4463\|מְמוֹתֵ֥י]] [[H2491A\|חָלָ֖ל]] [[H9003\|בְּ]][[H3820A\|לֵ֥ב]] [[H3220G\|יַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.7|<< Ezekiel 28:7]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.9|Ezekiel 28:9 >>]]</td></tr></table>
 

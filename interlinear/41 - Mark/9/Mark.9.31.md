@@ -1,10 +1,62 @@
+---
+title: Mark 9:31
+type: Verse
+kjv: "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+bsb: "because He was teaching His disciples. He told them, “The Son of Man will be delivered into the hands of men. They will kill Him, and after three days He will rise.”"
+jesus_said: "The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+greek: "ἐδίδασκεν γὰρ τοὺς μαθητὰς αὐτοῦ καὶ ἔλεγεν αὐτοῖς ὅτι ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς χεῖρας ἀνθρώπων, καὶ ἀποκτενοῦσιν αὐτόν, καὶ ἀποκτανθεὶς μετὰ τρεῖς ἡμέρας ἀναστήσεται."
+pericope: "[[Mark.9.30 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1321]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G0615]]"
+- "[[G3326]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G0450]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Mark 9:31**<big><big>[[Mark.9.30 The Second Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
 <small><sub>**BSB:**</sub></small>
 because He was teaching His disciples. He told them, “The Son of Man will be delivered into the hands of men. They will kill Him, and after three days He will rise.”
-<small><sub>**Literal:**</sub></small>
-He was teaching for the disciples of Him and He was saying to them that The Son <the> of Man is delivered into [the] hands of men, and they will kill Him, and having been killed on [the] third day He will arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.30|<< Mark 9:30]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.32|Mark 9:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1321\|ἐδίδασκεν]]  [[G1063\|γὰρ]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3860\|παραδίδοται]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G0444\|ἀνθρώπων,]]  [[G2532\|καὶ]]  [[G0615\|ἀποκτενοῦσιν]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G0615\|ἀποκτανθεὶς]]  [[G3326\|μετὰ]]  [[G5140\|τρεῖς]]  [[G2250\|ἡμέρας]]  [[G0450\|ἀναστήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.30|<< Mark 9:30]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.32|Mark 9:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

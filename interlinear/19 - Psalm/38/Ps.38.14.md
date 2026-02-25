@@ -1,8 +1,60 @@
+---
+title: Psalm 38:14
+type: Verse
+kjv: "Thus I was as a man that heareth not, and in whose mouth are no reproofs."
+bsb: "I am like a man who cannot hear, whose mouth offers no reply."
+hebrew: "וָאֱהִ֗י כְּ֭אִישׁ אֲשֶׁ֣ר לֹא־ שֹׁמֵ֑עַ וְאֵ֥ין בְּ֝פִ֗יו תּוֹכָחֽוֹת׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H8433B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:14**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus I was as a man that heareth not, and in whose mouth [are] no reproofs.
 <small><sub>**BSB:**</sub></small>
 I am like a man who cannot hear, whose mouth offers no reply.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1961\|אֱהִ֗י]] [[H9004\|כְּ֭]][[H0376G\|אִישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שֹׁמֵ֑עַ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9003\|בְּ֝]][[H6310G\|פִ֗י]][[H9023\|ו]] [[H8433B\|תּוֹכָחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic MEEKNESS|MEEKNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.13|<< Psalms 38:13]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.15|Psalms 38:15 >>]]</td></tr></table>
 

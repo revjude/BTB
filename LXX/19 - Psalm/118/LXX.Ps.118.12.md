@@ -1,6 +1,57 @@
+---
+title: LXX Psalm 118:12
+type: Verse
+lxx: "They encircled me as bees at a honeycomb; and they burned away as fire among thorn-bushes; and in the name of the lord I repulsed them."
+greek: "εκύκλωσάν με ωσεί μέλισσαι κηρίον και εξεκαύθησαν ως πυρ εν ακάνθαις και τω ονόματι κυρίου ημυνάμην αυτούς"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BEE|BEE]]"
+- "[[topic THORN|THORN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2944]]"
+- "[[G1473]]"
+- "[[G5616]]"
+- "[[G8283]]"
+- "[[G2781]]"
+- "[[G2532]]"
+- "[[G1572]]"
+- "[[G5613]]"
+- "[[G4442]]"
+- "[[G1722]]"
+- "[[G0173]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962]]"
+- "[[G0292]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 118:12** 
 <small><sub>**LXX:**</sub></small>
 They encircled me as bees \[at\] a honeycomb; and they burned away as fire among thorn-bushes; and in the name of \[the\] <span class="smallcaps">lord</span> I repulsed them. 
+<small><sub>**Greek:**</sub></small>
+[[G2944\|εκύκλωσάν]] [[G1473\|με]] [[G5616\|ωσεί]] [[G8283\|μέλισσαι]] [[G2781\|κηρίον]] [[G2532\|και]] [[G1572\|εξεκαύθησαν]] [[G5613\|ως]] [[G4442\|πυρ]] [[G1722\|εν]] [[G0173\|ακάνθαις]] [[G2532\|και]] [[G3588\|τω]] [[G3686\|ονόματι]] [[G2962\|κυρίου]] [[G0292\|ημυνάμην]] [[G1473\|αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEE|BEE]] • [[topic THORN|THORN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.118.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
 
@@ -23,6 +74,6 @@ They encircled me as bees \[at\] a honeycomb; and they burned away as fire among
 | of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 | I repulsed | **<big>[[G0292\|ημυνάμην]]</big>** |
 | them. | **<big>[[G1473\|αυτούς]]</big>** |
-[[Ps.118.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
 
 

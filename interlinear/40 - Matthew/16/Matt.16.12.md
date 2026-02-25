@@ -1,10 +1,62 @@
+---
+title: Matthew 16:12
+type: Verse
+kjv: "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees."
+bsb: "Then they understood that He was not telling them to beware of the leaven used in bread, but of the teaching of the Pharisees and Sadducees."
+greek: "Τότε συνῆκαν ὅτι οὐκ εἶπεν προσέχειν ἀπὸ τῆς ζύμης τῶν ἄρτων ἀλλ᾽ ἀπὸ τῆς διδαχῆς τῶν Φαρισαίων καὶ Σαδδουκαίων.¶"
+pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G5119]]"
+- "[[G4920]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2036]]"
+- "[[G4337]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2219]]"
+- "[[G0740]]"
+- "[[G0235]]"
+- "[[G1322]]"
+- "[[G5330]]"
+- "[[G2532]]"
+- "[[G4523]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 16:12**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then understood they how that he bade [them] not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 <small><sub>**BSB:**</sub></small>
 Then they understood that He was not telling them to beware of the leaven used in bread, but of the teaching of the Pharisees and Sadducees.
-<small><sub>**Literal:**</sub></small>
-Then they understood that not He said to beware of the leaven of the loaves but of the teaching of the Pharisees and Sadducees.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.11|<< Matthew 16:11]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.13|Matthew 16:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4920\|συνῆκαν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G2036\|εἶπεν]]  [[G4337\|προσέχειν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2219\|ζύμης]]  [[G3588\|τῶν]]  [[G0740\|ἄρτων]]  [[G0235\|ἀλλ᾽]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1322\|διδαχῆς]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G2532\|καὶ]]  [[G4523\|Σαδδουκαίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.11|<< Matthew 16:11]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.13|Matthew 16:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

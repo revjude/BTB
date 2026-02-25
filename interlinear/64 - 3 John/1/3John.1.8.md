@@ -1,10 +1,47 @@
+---
+title: 3 John 1:8
+type: Verse
+kjv: "We therefore ought to receive such, that we might be fellowhelpers to the truth."
+bsb: "Therefore we ought to support such men, so that we may be fellow workers for the truth."
+greek: "ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.¶"
+pericope: "[[3John.1.5 Gaius Commended for Hospitality|Gaius Commended for Hospitality]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G3165]]"
+- "[[G3767]]"
+- "[[G3784]]"
+- "[[G5274]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G2443]]"
+- "[[G4904]]"
+- "[[G1096]]"
+- "[[G0225]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **3 John 1:8**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We therefore ought to receive such, that we might be fellowhelpers to the truth.
 <small><sub>**BSB:**</sub></small>
 Therefore we ought to support such men, so that we may be fellow workers for the truth.
-<small><sub>**Literal:**</sub></small>
-We ourselves therefore ought to receive <the> such [men] so that fellow workers we may be in the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.7|<< 3 John 1:7]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.9|3 John 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G3767\|οὖν]]  [[G3784\|ὀφείλομεν]]  [[G5274\|ὑπολαμβάνειν]]  [[G3588\|τοὺς]]  [[G5108\|τοιούτους]]  [[G2443\|ἵνα]]  [[G4904\|συνεργοὶ]]  [[G1096\|γινώμεθα]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.7|<< 3 John 1:7]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.9|3 John 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

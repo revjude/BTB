@@ -1,8 +1,68 @@
+---
+title: Jeremiah 5:17
+type: Verse
+kjv: "And they shall eat up thine harvest, and thy bread, which thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword."
+bsb: "They will devour your harvest and food; they will consume your sons and daughters; they will eat up your flocks and herds; they will feed on your vines and fig trees. With the sword they will destroy the fortified cities in which you trust.”"
+hebrew: "וְאָכַ֨ל קְצִֽירְךָ֜ וְלַחְמֶ֗ךָ יֹאכְלוּ֙ בָּנֶ֣יךָ וּבְנוֹתֶ֔יךָ יֹאכַ֤ל צֹאנְךָ֙ וּבְקָרֶ֔ךָ יֹאכַ֥ל גַּפְנְךָ֖ וּתְאֵנָתֶ֑ךָ יְרֹשֵׁ֞שׁ עָרֵ֣י מִבְצָרֶ֗יךָ אֲשֶׁ֥ר אַתָּ֛ה בּוֹטֵ֥חַ בָּהֵ֖נָּה בֶּחָֽרֶב׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H7105A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3899G]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H1612]]"
+- "[[H8384]]"
+- "[[H7567]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:17**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall eat up thine harvest, and thy bread, [which] thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.
 <small><sub>**BSB:**</sub></small>
 They will devour your harvest and food; they will consume your sons and daughters; they will eat up your flocks and herds; they will feed on your vines and fig trees. With the sword they will destroy the fortified cities in which you trust.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָכַ֨ל]] [[H7105A\|קְצִֽירְ]][[H9021\|ךָ֜]] [[H9002\|וְ]][[H3899G\|לַחְמֶ֗]][[H9021\|ךָ]] [[H0398\|יֹאכְלוּ֙]] [[H1121A\|בָּנֶ֣י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֔י]][[H9021\|ךָ]] [[H0398\|יֹאכַ֤ל]] [[H6629G\|צֹאנְ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H1241\|בְקָרֶ֔]][[H9021\|ךָ]] [[H0398\|יֹאכַ֥ל]] [[H1612\|גַּפְנְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H8384\|תְאֵנָתֶ֑]][[H9021\|ךָ]] [[H7567\|יְרֹשֵׁ֞שׁ]] [[H5892B\|עָרֵ֣י]] [[H4013\|מִבְצָרֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859A\|אַתָּ֛ה]] [[H0982\|בּוֹטֵ֥חַ]] [[H9003\|בָּ]][[H9039\|הֵ֖נָּה]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FAMINE|FAMINE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.16|<< Jeremiah 5:16]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.18|Jeremiah 5:18 >>]]</td></tr></table>
 

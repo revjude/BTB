@@ -1,10 +1,56 @@
+---
+title: Acts 26:21
+type: Verse
+kjv: "For these causes the Jews caught me in the temple, and went about to kill me."
+bsb: "For this reason the Jews seized me in the temple courts and tried to kill me."
+greek: "ἕνεκα τούτων με οἱ Ἰουδαῖοι συλλαβόμενοι ὄντα ἐν τῷ ἱερῷ ἐπειρῶντο διαχειρίσασθαι."
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1752]]"
+- "[[G3778]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4815]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G3987]]"
+- "[[G1315]]"
+texts:
+- NKO
+- k
+- n
+---
+
 **Acts 26:21**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For these causes the Jews caught me in the temple, and went about to kill [me].
 <small><sub>**BSB:**</sub></small>
 For this reason the Jews seized me in the temple courts and tried to kill me.
-<small><sub>**Literal:**</sub></small>
-On account of these things me the Jews having seized being in the temple they were attempting to kill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.20|<< Acts 26:20]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.22|Acts 26:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1752\|ἕνεκα]]  [[G3778\|τούτων]]  [[G3165\|με]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4815\|συλλαβόμενοι]]  [[G1510\|ὄντα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G3987\|ἐπειρῶντο]]  [[G1315\|διαχειρίσασθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.20|<< Acts 26:20]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.22|Acts 26:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

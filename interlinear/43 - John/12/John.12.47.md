@@ -1,10 +1,63 @@
+---
+title: John 12:47
+type: Verse
+kjv: "And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world."
+bsb: "As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world."
+jesus_said: "And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world."
+greek: "καὶ ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ φυλάξῃ, ἐγὼ οὐ κρίνω αὐτόν· οὐ γὰρ ἦλθον ἵνα κρίνω τὸν κόσμον ἀλλ᾽ ἵνα σώσω τὸν κόσμον."
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G3165]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3361]]"
+- "[[G5442G]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2919]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G2443]]"
+- "[[G2889]]"
+- "[[G0235]]"
+- "[[G4982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 12:47**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
 <small><sub>**BSB:**</sub></small>
 As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.
-<small><sub>**Literal:**</sub></small>
-And if anyone My shall hear <the> declarations and not shall keep [them], I myself not do judge him; not for I came that I may judge the world but that I may save the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.46|<< John 12:46]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.48|John 12:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐάν]]  [[G5100\|τίς]]  [[G3165\|μου]]  [[G0191\|ἀκούσῃ]]  [[G3588\|τῶν]]  [[G4487\|ῥημάτων]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5442G\|φυλάξῃ,]]  [[G1473\|ἐγὼ]]  [[G3756\|οὐ]]  [[G2919\|κρίνω]]  [[G0846\|αὐτόν·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2064\|ἦλθον]]  [[G2443\|ἵνα]]  [[G2919\|κρίνω]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G4982\|σώσω]]  [[G3588\|τὸν]]  [[G2889\|κόσμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.46|<< John 12:46]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.48|John 12:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,75 @@
+---
+title: Genesis 19:14
+type: Verse
+kjv: "And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law."
+bsb: "So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters. “Get up,” he said. “Get out of this place, for the LORD is about to destroy the city!” But his sons-in-law thought he was joking."
+hebrew: "וַיֵּצֵ֨א ל֜וֹט וַיְדַבֵּ֣ר׀ אֶל־ חֲתָנָ֣יו׀ לֹקְחֵ֣י בְנֹתָ֗יו וַיֹּ֙אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִן־ הַמָּק֣וֹם הַזֶּ֔ה כִּֽי־ מַשְׁחִ֥ית יְהוָ֖ה אֶת־ הָעִ֑יר וַיְהִ֥י כִמְצַחֵ֖ק בְּעֵינֵ֥י חֲתָנָֽיו׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3876]]"
+- "[[H1696G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2860]]"
+- "[[H9023]]"
+- "[[H3947I]]"
+- "[[H1323G]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H7843]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6711]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:14**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law.
 <small><sub>**BSB:**</sub></small>
 So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters. “Get up,” he said. “Get out of this place, for the LORD is about to destroy the city!” But his sons-in-law thought he was joking.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H3876\|ל֜וֹט]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H2860\|חֲתָנָ֣י]][[H9023\|ו]][[H9015\|׀]] [[H3947I\|לֹקְחֵ֣י]] [[H1323G\|בְנֹתָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H6965B\|ק֤וּמוּ]] [[H3318G\|צְּאוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7843\|מַשְׁחִ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9004\|כִ]][[H6711\|מְצַחֵ֖ק]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֥י]] [[H2860\|חֲתָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHILDREN|CHILDREN]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.13|<< Genesis 19:13]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.15|Genesis 19:15 >>]]</td></tr></table>
 

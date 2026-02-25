@@ -1,10 +1,58 @@
+---
+title: Mark 1:5
+type: Verse
+kjv: "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins."
+bsb: "People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River."
+greek: "καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμῖται πάντες, καὶ ἐβαπτίζοντο ὑπ᾽ αὐτοῦ ἐν τῷ Ἰορδάνῃ ποταμῷ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν."
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JORDAN|JORDAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1607]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2449]]"
+- "[[G5561]]"
+- "[[G2415]]"
+- "[[G0907]]"
+- "[[G5259G]]"
+- "[[G1722]]"
+- "[[G2446]]"
+- "[[G4215]]"
+- "[[G1843]]"
+- "[[G0266]]"
+texts:
+- NKO
+---
+
 **Mark 1:5**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 <small><sub>**BSB:**</sub></small>
 People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River.
-<small><sub>**Literal:**</sub></small>
-And were going out to him all the of Judea region and <the> of Jerusalem all and were being baptized by him in the Jordan river confessing the sins of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.4|<< Mark 1:4]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.6|Mark 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1607\|ἐξεπορεύετο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3956\|πᾶσα]]  [[G3588\|ἡ]]  [[G2449\|Ἰουδαία]]  [[G5561\|χώρα]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2415\|Ἱεροσολυμῖται]]  [[G3956\|πάντες,]]  [[G2532\|καὶ]]  [[G0907\|ἐβαπτίζοντο]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2446\|Ἰορδάνῃ]]  [[G4215\|ποταμῷ]]  [[G1843\|ἐξομολογούμενοι]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JOHN|JOHN]] • [[topic JORDAN|JORDAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.4|<< Mark 1:4]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.6|Mark 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

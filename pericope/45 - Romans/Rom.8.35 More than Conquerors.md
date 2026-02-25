@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: More than Conquerors
+type: Pericope
 pericope: "[[Rom.8.35 More than Conquerors|More than Conquerors]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Romans
 chapter: 8
 book/chapter: "[[Rom.8|Romans 8]]"
-genre:
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 5
 verses:
 - "[[Rom.8.35]]"
 - "[[Rom.8.36]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Rom.8.39]]"
 ---
 
-[[Rom.8|Romans 8:35 - Romans 8:39]]
+<small>[[Rom.8|Romans 8:35-39]]</small>
 *More than Conquerors*
 
 [[Rom.8.35|35]] Who shall separate us from the love of Christ? \[shall\] tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?

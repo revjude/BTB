@@ -1,10 +1,60 @@
+---
+title: Luke 18:35
+type: Verse
+kjv: "And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:"
+bsb: "As Jesus drew near to Jericho, a blind man was sitting beside the road, begging."
+greek: "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν."
+pericope: "[[Luke.18.35 Jesus Heals a Blind Beggar|Jesus Heals a Blind Beggar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1448]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2410]]"
+- "[[G5185]]"
+- "[[G5100]]"
+- "[[G2521]]"
+- "[[G3844]]"
+- "[[G3598]]"
+- "[[G1871]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:35**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:
 <small><sub>**BSB:**</sub></small>
 As Jesus drew near to Jericho, a blind man was sitting beside the road, begging.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in the drawing near by Him to Jericho a blind [man] certain was sitting beside the road begging.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.34|<< Luke 18:34]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.36|Luke 18:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1448\|ἐγγίζειν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2410\|Ἰεριχὼ]]  [[G5185\|τυφλός]]  [[G5100\|τις]]  [[G2521\|ἐκάθητο]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G1871\|ἐπαιτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.34|<< Luke 18:34]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.36|Luke 18:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

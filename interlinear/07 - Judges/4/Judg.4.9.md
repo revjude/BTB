@@ -1,8 +1,74 @@
+---
+title: Judges 4:9
+type: Verse
+kjv: "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh."
+bsb: "“I will certainly go with you,” Deborah replied, “but the road you are taking will bring you no honor, because the LORD will be selling Sisera into the hand of a woman.” So Deborah got up and went with Barak to Kedesh,"
+hebrew: "וַתֹּ֜אמֶר הָלֹ֧ךְ אֵלֵ֣ךְ עִמָּ֗ךְ אֶ֚פֶס כִּי֩ לֹ֨א תִֽהְיֶ֜ה תִּֽפְאַרְתְּךָ֗ עַל־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אַתָּ֣ה הוֹלֵ֔ךְ כִּ֣י בְֽיַד־ אִשָּׁ֔ה יִמְכֹּ֥ר יְהוָ֖ה אֶת־ סִֽיסְרָ֑א וַתָּ֧קָם דְּבוֹרָ֛ה וַתֵּ֥לֶך עִם־ בָּרָ֖ק קֶֽדְשָׁה׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic KEDESH|KEDESH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H0657A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H8597]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0802G]]"
+- "[[H4376]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5516G]]"
+- "[[H6965B]]"
+- "[[H1683H]]"
+- "[[H1301]]"
+- "[[H6943G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 4:9**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.
 <small><sub>**BSB:**</sub></small>
 “I will certainly go with you,” Deborah replied, “but the road you are taking will bring you no honor, because the LORD will be selling Sisera into the hand of a woman.” So Deborah got up and went with Barak to Kedesh,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֜אמֶר]] [[H1980G\|הָלֹ֧ךְ]] [[H1980G\|אֵלֵ֣ךְ]] [[H5973A\|עִמָּ֗]][[H9032\|ךְ]] [[H0657A\|אֶ֚פֶס]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H1961\|תִֽהְיֶ֜ה]] [[H8597\|תִּֽפְאַרְתְּ]][[H9021\|ךָ֗]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859A\|אַתָּ֣ה]] [[H1980G\|הוֹלֵ֔ךְ]] [[H3588A\|כִּ֣י]] [[H9003\|בְֽ]][[H3027H\|יַד]][[H9014\|־]] [[H0802G\|אִשָּׁ֔ה]] [[H4376\|יִמְכֹּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5516G\|סִֽיסְרָ֑א]] [[H9001\|וַ]][[H6965B\|תָּ֧קָם]] [[H1683H\|דְּבוֹרָ֛ה]] [[H9001\|וַ]][[H1980G\|תֵּ֥לֶך]] [[H5973A\|עִם]][[H9014\|־]] [[H1301\|בָּרָ֖ק]] [[H6943G\|קֶֽדְשָׁ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic KEDESH|KEDESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.8|<< Judges 4:8]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.10|Judges 4:10 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Repentance
+type: Pericope
 pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 5
 book/chapter: "[[Amos.5|Amos 5]]"
-genre:
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 12
 verses:
 - "[[Amos.5.4]]"
 - "[[Amos.5.5]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Amos.5.15]]"
 ---
 
-[[Amos.5|Amos 5:4 - Amos 5:15]]
+<small>[[Amos.5|Amos 5:4-15]]</small>
 *A Call to Repentance*
 
 [[Amos.5.4|4]] For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:

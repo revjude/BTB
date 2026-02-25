@@ -1,10 +1,52 @@
+---
+title: Galatians 1:20
+type: Verse
+kjv: "Now the things which I write unto you, behold, before God, I lie not."
+bsb: "I assure you before God that what I am writing to you is no lie."
+greek: "ἃ δὲ γράφω ὑμῖν, ἰδοὺ ἐνώπιον τοῦ θεοῦ ὅτι οὐ ψεύδομαι."
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G2400]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G5574]]"
+texts:
+- NKO
+---
+
 **Galatians 1:20**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the things which I write unto you, behold, before God, I lie not.
 <small><sub>**BSB:**</sub></small>
 I assure you before God that what I am writing to you is no lie.
-<small><sub>**Literal:**</sub></small>
-In what now I write to you, behold before <the> God that not I lie.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.19|<< Galatians 1:19]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.21|Galatians 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἃ]]  [[G1161\|δὲ]]  [[G1125\|γράφω]]  [[G4771\|ὑμῖν,]]  [[G2400\|ἰδοὺ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G5574\|ψεύδομαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OATH|OATH]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.19|<< Galatians 1:19]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.21|Galatians 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

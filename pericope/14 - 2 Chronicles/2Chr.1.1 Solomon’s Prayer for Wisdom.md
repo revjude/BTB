@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Prayer for Wisdom
+type: Pericope
 pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 1
 book/chapter: "[[2Chr.1|2 Chronicles 1]]"
-genre:
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 13
 verses:
 - "[[2Chr.1.1]]"
 - "[[2Chr.1.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Chr.1.13]]"
 ---
 
-[[2Chr.1|2 Chronicles 1:1 - 2 Chronicles 1:13]]
+<small>[[2Chr.1|2 Chronicles 1:1-13]]</small>
 *Solomon’s Prayer for Wisdom*
 
 [[2Chr.1.1|1]] And Solomon the son of David was strengthened in his kingdom, and the LORD his God \[was\] with him, and magnified him exceedingly.

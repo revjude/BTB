@@ -1,8 +1,65 @@
+---
+title: Leviticus 13:36
+type: Verse
+kjv: "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean."
+bsb: "the priest is to examine him, and if the scaly outbreak has spread on the skin, the priest need not look for yellow hair; the person is unclean."
+hebrew: "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖תֶק בָּע֑וֹר לֹֽא־ יְבַקֵּ֧ר הַכֹּהֵ֛ן לַשֵּׂעָ֥ר הַצָּהֹ֖ב טָמֵ֥א הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6581]]"
+- "[[H5424]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1239]]"
+- "[[H9005]]"
+- "[[H8181]]"
+- "[[H6669]]"
+- "[[H2931]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:36**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he [is] unclean.
 <small><sub>**BSB:**</sub></small>
 the priest is to examine him, and if the scaly outbreak has spread on the skin, the priest need not look for yellow hair; the person is unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֙]][[H9033\|הוּ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H6581\|פָּשָׂ֥ה]] [[H9009\|הַ]][[H5424\|נֶּ֖תֶק]] [[H9003\|בָּ]][[H5785\|ע֑וֹר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1239\|יְבַקֵּ֧ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9005\|לַ]][[H8181\|שֵּׂעָ֥ר]] [[H9009\|הַ]][[H6669\|צָּהֹ֖ב]] [[H2931\|טָמֵ֥א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.35|<< Leviticus 13:35]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.37|Leviticus 13:37 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Isaiah 42:22
+type: Verse
+kjv: "But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore."
+bsb: "But this is a people plundered and looted, all trapped in caves or imprisoned in dungeons. They have become plunder with no one to rescue them, and loot with no one to say, “Send them back!”"
+hebrew: "וְהוּא֮ עַם־ בָּז֣וּז וְשָׁסוּי֒ הָפֵ֤חַ בַּֽחוּרִים֙ כֻּלָּ֔ם וּבְבָתֵּ֥י כְלָאִ֖ים הָחְבָּ֑אוּ הָי֤וּ לָבַז֙ וְאֵ֣ין מַצִּ֔יל מְשִׁסָּ֖ה וְאֵין־ אֹמֵ֥ר הָשַֽׁב׃"
+pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H0962]]"
+- "[[H8154]]"
+- "[[H6351]]"
+- "[[H9003]]"
+- "[[H2352]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H1004B]]"
+- "[[H3608]]"
+- "[[H2244]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H4933]]"
+- "[[H0559]]"
+- "[[H7725H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:22**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But this [is] a people robbed and spoiled; [they are] all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 <small><sub>**BSB:**</sub></small>
 But this is a people plundered and looted, all trapped in caves or imprisoned in dungeons. They have become plunder with no one to rescue them, and loot with no one to say, “Send them back!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא֮]] [[H5971A\|עַם]][[H9014\|־]] [[H0962\|בָּז֣וּז]] [[H9002\|וְ]][[H8154\|שָׁסוּי֒]] [[H6351\|הָפֵ֤חַ]] [[H9003\|בַּֽ]][[H2352\|חוּרִים֙]] [[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H1004B\|בָתֵּ֥י]] [[H3608\|כְלָאִ֖ים]] [[H2244\|הָחְבָּ֑אוּ]] [[H1961\|הָי֤וּ]] [[H9005\|לָ]][[H0957\|בַז֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5337\|מַצִּ֔יל]] [[H4933\|מְשִׁסָּ֖ה]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H0559\|אֹמֵ֥ר]] [[H7725H\|הָשַֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.21|<< Isaiah 42:21]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.23|Isaiah 42:23 >>]]</td></tr></table>
 

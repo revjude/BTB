@@ -1,8 +1,71 @@
+---
+title: Genesis 37:9
+type: Verse
+kjv: "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me."
+bsb: "Then Joseph had another dream and told it to his brothers. “Look,” he said, “I had another dream, and this time the sun and moon and eleven stars were bowing down to me.”"
+hebrew: "וַיַּחֲלֹ֥ם עוֹד֙ חֲל֣וֹם אַחֵ֔ר וַיְסַפֵּ֥ר אֹת֖וֹ לְאֶחָ֑יו וַיֹּ֗אמֶר הִנֵּ֨ה חָלַ֤מְתִּֽי חֲלוֹם֙ ע֔וֹד וְהִנֵּ֧ה הַשֶּׁ֣מֶשׁ וְהַיָּרֵ֗חַ וְאַחַ֤ד עָשָׂר֙ כּֽוֹכָבִ֔ים מִֽשְׁתַּחֲוִ֖ים לִֽי׃"
+pericope: "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MOON|MOON]]"
+strongs:
+- "[[H9001]]"
+- "[[H2492B]]"
+- "[[H5750]]"
+- "[[H2472]]"
+- "[[H0312]]"
+- "[[H5608A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H3394]]"
+- "[[H0259]]"
+- "[[H6240]]"
+- "[[H3556]]"
+- "[[H7812]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:9**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
 <small><sub>**BSB:**</sub></small>
 Then Joseph had another dream and told it to his brothers. “Look,” he said, “I had another dream, and this time the sun and moon and eleven stars were bowing down to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2492B\|יַּחֲלֹ֥ם]] [[H5750\|עוֹד֙]] [[H2472\|חֲל֣וֹם]] [[H0312\|אַחֵ֔ר]] [[H9001\|וַ]][[H5608A\|יְסַפֵּ֥ר]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּ֨ה]] [[H2492B\|חָלַ֤מְתִּֽי]] [[H2472\|חֲלוֹם֙]] [[H5750\|ע֔וֹד]] [[H9002\|וְ]][[H2009\|הִנֵּ֧ה]] [[H9009\|הַ]][[H8121\|שֶּׁ֣מֶשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H3394\|יָּרֵ֗חַ]] [[H9002\|וְ]][[H0259\|אַחַ֤ד]] [[H6240\|עָשָׂר֙]] [[H3556\|כּֽוֹכָבִ֔ים]] [[H7812\|מִֽשְׁתַּחֲוִ֖ים]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic ENVY|ENVY]] • [[topic JACOB|JACOB]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic MOON|MOON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.8|<< Genesis 37:8]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.10|Genesis 37:10 >>]]</td></tr></table>
 

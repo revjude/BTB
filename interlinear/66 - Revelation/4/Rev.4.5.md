@@ -1,10 +1,66 @@
+---
+title: Revelation 4:5
+type: Verse
+kjv: "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God."
+bsb: "From the throne came flashes of lightning, rumblings, and peals of thunder. Before the throne burned seven torches of fire. These are the seven spirits of God."
+greek: "καὶ ἐκ τοῦ θρόνου ἐκπορεύονται ἀστραπαὶ καὶ φωναὶ καὶ βρονταί, καὶ ἑπτὰ λαμπάδες πυρὸς καιόμεναι ἐνώπιον τοῦ θρόνου αὐτοῦ ἅ εἰσιν τὰ ἑπτὰ πνεύματα τοῦ θεοῦ,"
+pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G1607]]"
+- "[[G0796]]"
+- "[[G5456H]]"
+- "[[G1027]]"
+- "[[G2033]]"
+- "[[G2985]]"
+- "[[G4442]]"
+- "[[G2545]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+texts:
+- NKO
+- O
+- N(k)O
+---
+
 **Revelation 4:5**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And out of the throne proceeded lightnings and thunderings and voices: and [there were] seven lamps of fire burning before the throne, which are the seven Spirits of God.
 <small><sub>**BSB:**</sub></small>
 From the throne came flashes of lightning, rumblings, and peals of thunder. Before the throne burned seven torches of fire. These are the seven spirits of God.
-<small><sub>**Literal:**</sub></small>
-And out of the throne come flashes of lightning and voices and thunderings, And [there were] seven lamps of fire burning before the throne of him which are the seven Spirits <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.4|<< Revelation 4:4]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.6|Revelation 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G1607\|ἐκπορεύονται]]  [[G0796\|ἀστραπαὶ]]  [[G2532\|καὶ]]  [[G5456H\|φωναὶ]]  [[G2532\|καὶ]]  [[G1027\|βρονταί,]]  [[G2532\|καὶ]]  [[G2033\|ἑπτὰ]]  [[G2985\|λαμπάδες]]  [[G4442\|πυρὸς]]  [[G2545\|καιόμεναι]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G0846\|αὐτοῦ]]  [[G3739\|ἅ]]  [[G1510\|εἰσιν]]  [[G3588\|τὰ]]  [[G2033\|ἑπτὰ]]  [[G4151G\|πνεύματα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LAMP|LAMP]] • [[topic LIGHTNING|LIGHTNING]] • [[topic SEVEN|SEVEN]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.4|<< Revelation 4:4]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.6|Revelation 4:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 4:5** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.19.16|Exod 19:16]] ☩ [[LXX.Isa.6.2|Isa 6:2]] ☩ [[LXX.Ezek.1.4|Ezek 1:4]] ☩ [[LXX.Ezek.11.22|Ezek 11:22]]

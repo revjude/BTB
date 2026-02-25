@@ -1,10 +1,61 @@
+---
+title: Hebrews 10:25
+type: Verse
+kjv: "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching."
+bsb: "Let us not neglect meeting together, as some have made a habit, but let us encourage one another, and all the more as you see the Day approaching."
+greek: "μὴ ἐγκαταλείποντες τὴν ἐπισυναγωγὴν ἑαυτῶν καθὼς ἔθος τισίν, ἀλλὰ παρακαλοῦντες, καὶ τοσούτῳ μᾶλλον ὅσῳ βλέπετε ἐγγίζουσαν τὴν ἡμέραν.¶"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3361]]"
+- "[[G1459]]"
+- "[[G3588]]"
+- "[[G1997]]"
+- "[[G1438]]"
+- "[[G2531]]"
+- "[[G1485]]"
+- "[[G5100]]"
+- "[[G0235]]"
+- "[[G3870]]"
+- "[[G2532]]"
+- "[[G5118]]"
+- "[[G3123G]]"
+- "[[G3745]]"
+- "[[G0991]]"
+- "[[G1448]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:25**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not forsaking the assembling of ourselves together, as the manner of some [is]; but exhorting [one another]: and so much the more, as ye see the day approaching.
 <small><sub>**BSB:**</sub></small>
 Let us not neglect meeting together, as some have made a habit, but let us encourage one another, and all the more as you see the Day approaching.
-<small><sub>**Literal:**</sub></small>
-not forsaking the assembling together of ourselves even as [is the] custom with some, but encouraging [one another], and so much more as much as you see drawing near the Day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.24|<< Hebrews 10:24]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.26|Hebrews 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G1459\|ἐγκαταλείποντες]]  [[G3588\|τὴν]]  [[G1997\|ἐπισυναγωγὴν]]  [[G1438\|ἑαυτῶν]]  [[G2531\|καθὼς]]  [[G1485\|ἔθος]]  [[G5100\|τισίν,]]  [[G0235\|ἀλλὰ]]  [[G3870\|παρακαλοῦντες,]]  [[G2532\|καὶ]]  [[G5118\|τοσούτῳ]]  [[G3123G\|μᾶλλον]]  [[G3745\|ὅσῳ]]  [[G0991\|βλέπετε]]  [[G1448\|ἐγγίζουσαν]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.24|<< Hebrews 10:24]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.26|Hebrews 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: Hebrews 3:14
+type: Verse
+kjv: "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;"
+bsb: "We have come to share in Christ if we hold firmly to the end the assurance we had at first."
+greek: "μέτοχοι γὰρ τοῦ Χριστοῦ γεγόναμεν ἐάνπερ ἐάνπερ τὴν ἀρχὴν τῆς ὑποστάσεως μέχρι τέλους βεβαίαν κατάσχωμεν·"
+pericope: "[[Heb.3.12 The Peril of Unbelief|The Peril of Unbelief]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[G3353]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G1096]]"
+- "[[G1437]]"
+- "[[G4007]]"
+- "[[G0746]]"
+- "[[G5287]]"
+- "[[G3360]]"
+- "[[G5056]]"
+- "[[G0949]]"
+- "[[G2722]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:14**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 <small><sub>**BSB:**</sub></small>
 We have come to share in Christ if we hold firmly to the end the assurance we had at first.
-<small><sub>**Literal:**</sub></small>
-Partakers for <the> of Christ we have become if indeed from the beginning of the assurance unto [the] end firm we shall hold;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.13|<< Hebrews 3:13]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.15|Hebrews 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3353\|μέτοχοι]]  [[G1063\|γὰρ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1096\|γεγόναμεν]]  [[G1437\|ἐάνπερ]]  <sup><small>[[G4007\| [ • ] ]]</small></sup>  [[G3588\|τὴν]]  [[G0746\|ἀρχὴν]]  [[G3588\|τῆς]]  [[G5287\|ὑποστάσεως]]  [[G3360\|μέχρι]]  [[G5056\|τέλους]]  [[G0949\|βεβαίαν]]  [[G2722\|κατάσχωμεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DECISION|DECISION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.13|<< Hebrews 3:13]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.15|Hebrews 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

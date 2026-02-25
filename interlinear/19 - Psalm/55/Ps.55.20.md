@@ -1,8 +1,52 @@
+---
+title: Psalm 55:20
+type: Verse
+kjv: "He hath put forth his hands against such as be at peace with him: he hath broken his covenant."
+bsb: "My companion attacks his friends; he violates his covenant."
+hebrew: "שָׁלַ֣ח יָ֭דָיו בִּשְׁלֹמָ֗יו חִלֵּ֥ל בְּרִיתֽוֹ׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7965J]]"
+- "[[H2490H]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:20**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath put forth his hands against such as be at peace with him: he hath broken his covenant.
 <small><sub>**BSB:**</sub></small>
 My companion attacks his friends; he violates his covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971K\|שָׁלַ֣ח]] [[H3027G\|יָ֭דָי]][[H9023\|ו]] [[H9003\|בִּ]][[H7965J\|שְׁלֹמָ֗י]][[H9023\|ו]] [[H2490H\|חִלֵּ֥ל]] [[H1285\|בְּרִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDS|FRIENDS]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.19|<< Psalms 55:19]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.21|Psalms 55:21 >>]]</td></tr></table>
 

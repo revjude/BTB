@@ -1,8 +1,64 @@
+---
+title: Joshua 23:12
+type: Verse
+kjv: "Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:"
+bsb: "For if you turn away and cling to the rest of these nations that remain among you, and if you intermarry and associate with them,"
+hebrew: "כִּ֣י׀ אִם־ שׁ֣וֹב תָּשׁ֗וּבוּ וּדְבַקְתֶּם֙ בְּיֶ֙תֶר֙ הַגּוֹיִ֣ם הָאֵ֔לֶּה הַנִּשְׁאָרִ֥ים הָאֵ֖לֶּה אִתְּכֶ֑ם וְהִֽתְחַתַּנְתֶּ֥ם בָּהֶ֛ם וּבָאתֶ֥ם בָּהֶ֖ם וְהֵ֥ם בָּכֶֽם׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H7604]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H2859B]]"
+- "[[H9038]]"
+- "[[H0935L]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:12**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Else if ye do in any wise go back, and cleave unto the remnant of these nations, [even] these that remain among you, and shall make marriages with them, and go in unto them, and they to you:
 <small><sub>**BSB:**</sub></small>
 For if you turn away and cling to the rest of these nations that remain among you, and if you intermarry and associate with them,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0518B\|אִם]][[H9014\|־]] [[H7725G\|שׁ֣וֹב]] [[H7725G\|תָּשׁ֗וּבוּ]] [[H9001\|וּ]][[H1692\|דְבַקְתֶּם֙]] [[H9003\|בְּ]][[H3499A\|יֶ֙תֶר֙]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H2859B\|הִֽתְחַתַּנְתֶּ֥ם]] [[H9003\|בָּ]][[H9038\|הֶ֛ם]] [[H9001\|וּ]][[H0935L\|בָאתֶ֥ם]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H9002\|וְ]][[H1992\|הֵ֥ם]] [[H9003\|בָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.11|<< Joshua 23:11]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.13|Joshua 23:13 >>]]</td></tr></table>
 

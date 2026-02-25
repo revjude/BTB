@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus and Zacchaeus
+type: Pericope
 pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 19
 book/chapter: "[[Luke.19|Luke 19]]"
-genre:
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.19.1]]"
 - "[[Luke.19.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.19.10]]"
 ---
 
-[[Luke.19|Luke 19:1 - Luke 19:10]]
+<small>[[Luke.19|Luke 19:1-10]]</small>
 *Jesus and Zacchaeus*
 
 [[Luke.19.1|1]] And \[Jesus\] entered and passed through Jericho.

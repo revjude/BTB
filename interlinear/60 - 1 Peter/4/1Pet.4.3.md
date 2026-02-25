@@ -1,10 +1,72 @@
+---
+title: 1 Peter 4:3
+type: Verse
+kjv: "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:"
+bsb: "For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry."
+greek: "ἀρκετὸς γὰρ ἡμῖν ὁ παρεληλυθὼς χρόνος τοῦ βίου τὸ βούλημα τῶν ἐθνῶν κατειργάσθαι πεπορευμένους ἐν ἀσελγείαις, ἐπιθυμίαις, οἰνοφλυγίαις, κώμοις, πότοις, καὶ ἀθεμίτοις εἰδωλολατρίαις·"
+pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LUST|LUST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G0713]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3928]]"
+- "[[G5550]]"
+- "[[G0979]]"
+- "[[G1013]]"
+- "[[G1484]]"
+- "[[G2716]]"
+- "[[G4198]]"
+- "[[G1722]]"
+- "[[G0766]]"
+- "[[G1939]]"
+- "[[G3632]]"
+- "[[G2970]]"
+- "[[G4224]]"
+- "[[G2532]]"
+- "[[G0111]]"
+- "[[G1495]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **1 Peter 4:3**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the time past of [our] life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 <small><sub>**BSB:**</sub></small>
 For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry.
-<small><sub>**Literal:**</sub></small>
-[Is] sufficient for to us the having past time <the> of life the desire of the Gentiles to have carried out having walked in sensuality, in lusts, in drunkenness, in orgies, in carousing, and in abominable idolatries;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.2|<< 1 Peter 4:2]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.4|1 Peter 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0713\|ἀρκετὸς]]  [[G1063\|γὰρ]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G3928\|παρεληλυθὼς]]  [[G5550\|χρόνος]]  [[G3588\|τοῦ]]  [[G0979\|βίου]]  [[G3588\|τὸ]]  [[G1013\|βούλημα]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G2716\|κατειργάσθαι]]  [[G4198\|πεπορευμένους]]  [[G1722\|ἐν]]  [[G0766\|ἀσελγείαις,]]  [[G1939\|ἐπιθυμίαις,]]  [[G3632\|οἰνοφλυγίαις,]]  [[G2970\|κώμοις,]]  [[G4224\|πότοις,]]  [[G2532\|καὶ]]  [[G0111\|ἀθεμίτοις]]  [[G1495\|εἰδωλολατρίαις·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GENTILES|GENTILES]] • [[topic GLUTTONY|GLUTTONY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LUST|LUST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SIN|SIN]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.2|<< 1 Peter 4:2]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.4|1 Peter 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

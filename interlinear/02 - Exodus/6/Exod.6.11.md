@@ -1,8 +1,61 @@
+---
+title: Exodus 6:11
+type: Verse
+kjv: "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land."
+bsb: "“Go and tell Pharaoh king of Egypt to let the Israelites go out of his land.”"
+hebrew: "בֹּ֣א דַבֵּ֔ר אֶל־ פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם וִֽישַׁלַּ֥ח אֶת־ בְּנֵֽי־ יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H0935G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547J]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:11**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.
 <small><sub>**BSB:**</sub></small>
 “Go and tell Pharaoh king of Egypt to let the Israelites go out of his land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בֹּ֣א]] [[H1696G\|דַבֵּ֔ר]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וִֽ]][[H7971H\|ישַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.10|<< Exodus 6:10]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.12|Exodus 6:12 >>]]</td></tr></table>
 

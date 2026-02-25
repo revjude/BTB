@@ -1,8 +1,53 @@
+---
+title: Proverbs 28:17
+type: Verse
+kjv: "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him."
+bsb: "A man burdened by bloodguilt will flee into the Pit; let no one support him."
+hebrew: "אָ֭דָם עָשֻׁ֣ק בְּדַם־ נָפֶשׁ עַד־ בּ֥וֹר יָ֝נ֗וּס אַל־ יִתְמְכוּ־ בֽוֹ׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+strongs:
+- "[[H0120G]]"
+- "[[H6231]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H5704]]"
+- "[[H0953A]]"
+- "[[H5127]]"
+- "[[H0408]]"
+- "[[H8551]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:17**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man that doeth violence to the blood of [any] person shall flee to the pit; let no man stay him.
 <small><sub>**BSB:**</sub></small>
 A man burdened by bloodguilt will flee into the Pit; let no one support him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָ֭דָם]] [[H6231\|עָשֻׁ֣ק]] [[H9003\|בְּ]][[H1818\|דַם]][[H9014\|־]] [[H5315J\|נָפֶשׁ]] [[H5704\|עַד]][[H9014\|־]] [[H0953A\|בּ֥וֹר]] [[H5127\|יָ֝נ֗וּס]] [[H0408\|אַל]][[H9014\|־]] [[H8551\|יִתְמְכוּ]][[H9014\|־]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.16|<< Proverbs 28:16]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.18|Proverbs 28:18 >>]]</td></tr></table>
 

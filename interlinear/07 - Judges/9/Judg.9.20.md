@@ -1,8 +1,57 @@
+---
+title: Judges 9:20
+type: Verse
+kjv: "But if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech."
+bsb: "But if not, may fire come from Abimelech and consume the leaders of Shechem and Beth-millo, and may fire come from the leaders of Shechem and Beth-millo and consume Abimelech.”"
+hebrew: "וְאִם־ אַ֕יִן תֵּ֤צֵא אֵשׁ֙ מֵאֲבִימֶ֔לֶךְ וְתֹאכַ֛ל אֶת־ בַּעֲלֵ֥י שְׁכֶ֖ם וְאֶת־ בֵּ֣ית מִלּ֑וֹא וְתֵצֵ֨א אֵ֜שׁ מִבַּעֲלֵ֤י שְׁכֶם֙ וּמִבֵּ֣ית מִלּ֔וֹא וְתֹאכַ֖ל אֶת־ אֲבִימֶֽלֶךְ׃"
+pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MILLO|MILLO]]"
+- "[[topic ORPHAN|ORPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H3318L]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H0040H]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H1167G]]"
+- "[[H7927G]]"
+- "[[H1037]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:20**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech.
 <small><sub>**BSB:**</sub></small>
 But if not, may fire come from Abimelech and consume the leaders of Shechem and Beth-millo, and may fire come from the leaders of Shechem and Beth-millo and consume Abimelech.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אַ֕יִן]] [[H3318L\|תֵּ֤צֵא]] [[H0784\|אֵשׁ֙]] [[H9006\|מֵ]][[H0040H\|אֲבִימֶ֔לֶךְ]] [[H9002\|וְ]][[H0398\|תֹאכַ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1167G\|בַּעֲלֵ֥י]] [[H7927G\|שְׁכֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1037\|בֵּ֣ית]] [[H1037\|מִלּ֑וֹא]] [[H9002\|וְ]][[H3318L\|תֵצֵ֨א]] [[H0784\|אֵ֜שׁ]] [[H9006\|מִ]][[H1167G\|בַּעֲלֵ֤י]] [[H7927G\|שְׁכֶם֙]] [[H9002\|וּ]][[H9006\|מִ]][[H1037\|בֵּ֣ית]] [[H1037\|מִלּ֔וֹא]] [[H9002\|וְ]][[H0398\|תֹאכַ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0040H\|אֲבִימֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic MILLO|MILLO]] • [[topic ORPHAN|ORPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.19|<< Judges 9:19]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.21|Judges 9:21 >>]]</td></tr></table>
 

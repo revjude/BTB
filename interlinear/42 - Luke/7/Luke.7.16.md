@@ -1,10 +1,61 @@
+---
+title: Luke 7:16
+type: Verse
+kjv: "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
+bsb: "A sense of awe swept over all of them, and they glorified God. “A great prophet has appeared among us!” they said. “God has visited His people!”"
+greek: "ἔλαβεν δὲ φόβος πάντας, καὶ ἐδόξαζον τὸν θεὸν λέγοντες ὅτι προφήτης μέγας ἠγέρθη ἐν ἡμῖν, καὶ ὅτι ἐπεσκέψατο ὁ θεὸς τὸν λαὸν αὐτοῦ."
+pericope: "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2983]]"
+- "[[G1161]]"
+- "[[G5401]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4396]]"
+- "[[G3173]]"
+- "[[G1453]]"
+- "[[G1722]]"
+- "[[G3165]]"
+- "[[G1980]]"
+- "[[G2992]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:16**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.
 <small><sub>**BSB:**</sub></small>
 A sense of awe swept over all of them, and they glorified God. “A great prophet has appeared among us!” they said. “God has visited His people!”
-<small><sub>**Literal:**</sub></small>
-Seized then fear all, and they were glorifying <the> God saying that A prophet great was raised up among us! and that Has visited <the> God the people of Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.15|<< Luke 7:15]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.17|Luke 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|ἔλαβεν]]  [[G1161\|δὲ]]  [[G5401\|φόβος]]  [[G3956\|πάντας,]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξαζον]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G4396\|προφήτης]]  [[G3173\|μέγας]]  [[G1453\|ἠγέρθη]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν,]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G1980\|ἐπεσκέψατο]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.15|<< Luke 7:15]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.17|Luke 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

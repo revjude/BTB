@@ -1,6 +1,44 @@
+---
+title: LXX Job 18:12
+type: Verse
+lxx: "But in hunger an extraordinary severe downfall is prepared for him."
+greek: "εν λιμώ στενώ πτώμα δε αυτώ ητοίμασται εξαίσιον"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3042]]"
+- "[[G4728]]"
+- "[[G4430]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G2090]]"
+- "[[G7282]]"
+---
+
 **LXX Job 18:12** 
 <small><sub>**LXX:**</sub></small>
 But in hunger an extraordinary severe downfall is prepared for him. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3042\|λιμώ]] [[G4728\|στενώ]] [[G4430\|πτώμα]] [[G1161\|δε]] [[G1473\|αυτώ]] [[G2090\|ητοίμασται]] [[G7282\|εξαίσιον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.11|<< Job 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.13|Job 18:13 >>]]</td></tr></table>
 
@@ -14,6 +52,6 @@ But in hunger an extraordinary severe downfall is prepared for him.
 | for him | **<big>[[G1473\|αυτώ]]</big>** |
 | is prepared | **<big>[[G2090\|ητοίμασται]]</big>** |
 | an extraordinary | **<big>[[G7282\|εξαίσιον]]</big>** |
-[[Job.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.11|<< Job 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.13|Job 18:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.11|<< Job 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.13|Job 18:13 >>]]</td></tr></table>
 
 

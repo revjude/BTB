@@ -1,8 +1,63 @@
+---
+title: Numbers 9:12
+type: Verse
+kjv: "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it."
+bsb: "they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes."
+hebrew: "לֹֽא־ יַשְׁאִ֤ירוּ מִמֶּ֙נּוּ֙ עַד־ בֹּ֔קֶר וְעֶ֖צֶם לֹ֣א יִשְׁבְּרוּ־ ב֑וֹ כְּכָל־ חֻקַּ֥ת הַפֶּ֖סַח יַעֲשׂ֥וּ אֹתֽוֹ׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7604]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H6106G]]"
+- "[[H7665]]"
+- "[[H9003]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:12**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
 <small><sub>**BSB:**</sub></small>
 they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7604\|יַשְׁאִ֤ירוּ]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H6106G\|עֶ֖צֶם]] [[H3808\|לֹ֣א]] [[H7665\|יִשְׁבְּרוּ]][[H9014\|־]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H2708\|חֻקַּ֥ת]] [[H9009\|הַ]][[H6453\|פֶּ֖סַח]] [[H6213A\|יַעֲשׂ֥וּ]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.11|<< Numbers 9:11]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.13|Numbers 9:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

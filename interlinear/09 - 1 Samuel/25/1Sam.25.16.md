@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 25:16
+type: Verse
+kjv: "They were a wall unto us both by night and day, all the while we were with them keeping the sheep."
+bsb: "They were a wall around us, both day and night, the whole time we were herding our sheep near them."
+hebrew: "חוֹמָה֙ הָי֣וּ עָלֵ֔ינוּ גַּם־ לַ֖יְלָה גַּם־ יוֹמָ֑ם כָּל־ יְמֵ֛י הֱיוֹתֵ֥נוּ עִמָּ֖ם רֹעִ֥ים הַצֹּֽאן׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H2346G]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H3119]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9045]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H7462B]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:16**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were a wall unto us both by night and day, all the while we were with them keeping the sheep.
 <small><sub>**BSB:**</sub></small>
 They were a wall around us, both day and night, the whole time we were herding our sheep near them.
+<small><sub>**Hebrew:**</sub></small>
+[[H2346G\|חוֹמָה֙]] [[H1961\|הָי֣וּ]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H3915\|לַ֖יְלָה]] [[H1571\|גַּם]][[H9014\|־]] [[H3119\|יוֹמָ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֛י]] [[H1961\|הֱיוֹתֵ֥]][[H9045\|נוּ]] [[H5973A\|עִמָּ֖]][[H9038\|ם]] [[H7462B\|רֹעִ֥ים]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic NABAL|NABAL]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.15|<< 1 Samuel 25:15]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.17|1 Samuel 25:17 >>]]</td></tr></table>
 

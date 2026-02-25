@@ -9,11 +9,11 @@
 
 - Was lame [[2Sam.4.4|2Sa 4:4]]
 
-- David entertains him at his table [[2Sam.9.1|2Sa 9:1]]-[[2Sam.9.7|7]]; [[2Sam.21.7|21:7]]
+- David entertains him at his table [[2Sam.9.1|2Sa 9:1-7]]; [[2Sam.21.7|21:7]]
 
 - Property restored to [[2Sam.9.9|2Sa 9:9]],[[2Sam.9.10|10]]
 
-- His ingratitude to David at the time of Absolom's usurpation [[2Sam.16.1|2Sa 16:1]]-[[2Sam.16.4|4]]; [[2Sam.19.24|19:24]]-[[2Sam.19.30|30]]
+- His ingratitude to David at the time of Absolom's usurpation [[2Sam.16.1|2Sa 16:1-4]]; [[2Sam.19.24|19:24-30]]
 
 - Property of, confiscated [[2Sam.16.4|2Sa 16:4]]; [[2Sam.19.29|19:29]],[[2Sam.19.30|30]]
 

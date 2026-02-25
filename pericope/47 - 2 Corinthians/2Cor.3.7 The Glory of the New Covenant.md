@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Glory of the New Covenant
+type: Pericope
 pericope: "[[2Cor.3.7 The Glory of the New Covenant|The Glory of the New Covenant]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 3
 book/chapter: "[[2Cor.3|2 Corinthians 3]]"
-genre:
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 12
 verses:
 - "[[2Cor.3.7]]"
 - "[[2Cor.3.8]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Cor.3.18]]"
 ---
 
-[[2Cor.3|2 Corinthians 3:7 - 2 Corinthians 3:18]]
+<small>[[2Cor.3|2 Corinthians 3:7-18]]</small>
 *The Glory of the New Covenant*
 
 [[2Cor.3.7|7]] But if the ministration of death, written \[and\] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which \[glory\] was to be done away:

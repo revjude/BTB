@@ -1,8 +1,58 @@
+---
+title: Ezekiel 45:13
+type: Verse
+kjv: "This is the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:"
+bsb: "This is the contribution you are to offer: a sixth of an ephah from each homer of wheat, and a sixth of an ephah from each homer of barley."
+hebrew: "זֹ֥את הַתְּרוּמָ֖ה אֲשֶׁ֣ר תָּרִ֑ימוּ שִׁשִּׁ֤ית הָֽאֵיפָה֙ מֵחֹ֣מֶר הַֽחִטִּ֔ים וְשִׁשִּׁיתֶם֙ הָֽאֵיפָ֔ה מֵחֹ֖מֶר הַשְּׂעֹרִֽים׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H0834A]]"
+- "[[H7311A]]"
+- "[[H8345]]"
+- "[[H0374]]"
+- "[[H9006]]"
+- "[[H2563C]]"
+- "[[H2406]]"
+- "[[H9001]]"
+- "[[H8341]]"
+- "[[H8184]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:13**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:
 <small><sub>**BSB:**</sub></small>
 This is the contribution you are to offer: a sixth of an ephah from each homer of wheat, and a sixth of an ephah from each homer of barley.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H7311A\|תָּרִ֑ימוּ]] [[H8345\|שִׁשִּׁ֤ית]] [[H9009\|הָֽ]][[H0374\|אֵיפָה֙]] [[H9006\|מֵ]][[H2563C\|חֹ֣מֶר]] [[H9009\|הַֽ]][[H2406\|חִטִּ֔ים]] [[H9001\|וְ]][[H8341\|שִׁשִּׁיתֶם֙]] [[H9009\|הָֽ]][[H0374\|אֵיפָ֔ה]] [[H9006\|מֵ]][[H2563C\|חֹ֖מֶר]] [[H9009\|הַ]][[H8184\|שְּׂעֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.12|<< Ezekiel 45:12]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.14|Ezekiel 45:14 >>]]</td></tr></table>
 

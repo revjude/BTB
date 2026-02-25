@@ -1,8 +1,78 @@
+---
+title: Genesis 18:8
+type: Verse
+kjv: "And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat."
+bsb: "Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate."
+hebrew: "וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן־ הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא־ עֹמֵ֧ד עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ׃"
+pericope: "[[Gen.18.1 The Three Visitors|The Three Visitors]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic EATING|EATING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MAMRE|MAMRE]]"
+- "[[topic MANNERS|MANNERS]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H2529A]]"
+- "[[H9002]]"
+- "[[H2461]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H1931]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H8478G]]"
+- "[[H6086H]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:8**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
 <small><sub>**BSB:**</sub></small>
 Then Abraham brought curds and milk and the calf that had been prepared, and he set them before the men and stood by them under the tree as they ate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H2529A\|חֶמְאָ֜ה]] [[H9002\|וְ]][[H2461\|חָלָ֗ב]] [[H9002\|וּ]][[H1121H\|בֶן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשָׂ֔ה]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H5975G\|עֹמֵ֧ד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H8478G\|תַּ֥חַת]] [[H9009\|הָ]][[H6086H\|עֵ֖ץ]] [[H9001\|וַ]][[H0398\|יֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BUTTER|BUTTER]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic EATING|EATING]] • [[topic FEASTS|FEASTS]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic ISAAC|ISAAC]] • [[topic MAMRE|MAMRE]] • [[topic MANNERS|MANNERS]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.7|<< Genesis 18:7]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.9|Genesis 18:9 >>]]</td></tr></table>
 

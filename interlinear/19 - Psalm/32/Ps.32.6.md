@@ -1,8 +1,66 @@
+---
+title: Psalm 32:6
+type: Verse
+kjv: "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+bsb: "Therefore let all the godly pray to You while You may be found. Surely when great waters rise, they will not come near."
+hebrew: "עַל־ זֹ֡את יִתְפַּלֵּ֬ל כָּל־ חָסִ֨יד׀ אֵלֶיךָ֮ לְעֵ֪ת מְ֫צֹ֥א רַ֗ק לְ֭שֵׁטֶף מַ֣יִם רַבִּ֑ים אֵ֝לָ֗יו לֹ֣א יַגִּֽיעוּ׃"
+pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6419]]"
+- "[[H3605]]"
+- "[[H2623]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H4672]]"
+- "[[H7535]]"
+- "[[H7858]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H5060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 32:6**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.
 <small><sub>**BSB:**</sub></small>
 Therefore let all the godly pray to You while You may be found. Surely when great waters rise, they will not come near.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֡את]] [[H6419\|יִתְפַּלֵּ֬ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2623\|חָסִ֨יד]][[H9015\|׀]] [[H0413\|אֵלֶי]][[H9031\|ךָ֮]] [[H9005\|לְ]][[H6256\|עֵ֪ת]] [[H4672\|מְ֫צֹ֥א]] [[H7535\|רַ֗ק]] [[H9005\|לְ֭]][[H7858\|שֵׁטֶף]] [[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֑ים]] [[H0413\|אֵ֝לָ֗י]][[H9033\|ו]] [[H3808\|לֹ֣א]] [[H5060\|יַגִּֽיעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.5|<< Psalms 32:5]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.7|Psalms 32:7 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws for Grain Offerings
+type: Pericope
 pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 2
 book/chapter: "[[Lev.2|Leviticus 2]]"
-genre:
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 16
 verses:
 - "[[Lev.2.1]]"
 - "[[Lev.2.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Lev.2.16]]"
 ---
 
-[[Lev.2|Leviticus 2:1 - Leviticus 2:16]]
+<small>[[Lev.2|Leviticus 2:1-16]]</small>
 *Laws for Grain Offerings*
 
 [[Lev.2.1|1]] And when any will offer a meat offering unto the LORD, his offering shall be \[of\] fine flour; and he shall pour oil upon it, and put frankincense thereon:

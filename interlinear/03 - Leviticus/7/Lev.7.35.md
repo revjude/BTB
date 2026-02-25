@@ -1,8 +1,58 @@
+---
+title: Leviticus 7:35
+type: Verse
+kjv: "This is the portion of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day when he presented them to minister unto the LORD in the priest’s office;"
+bsb: "This is the portion of the food offerings to the LORD for Aaron and his sons since the day they were presented to serve the LORD as priests."
+hebrew: "זֹ֣את מִשְׁחַ֤ת אַהֲרֹן֙ וּמִשְׁחַ֣ת בָּנָ֔יו מֵאִשֵּׁ֖י יְהוָ֑ה בְּיוֹם֙ הִקְרִ֣יב אֹתָ֔ם לְכַהֵ֖ן לַיהוָֽה׃"
+pericope: "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H2063]]"
+- "[[H4888A]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3547]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:35**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is the portion] of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day [when] he presented them to minister unto the LORD in the priest’s office;
 <small><sub>**BSB:**</sub></small>
 This is the portion of the food offerings to the LORD for Aaron and his sons since the day they were presented to serve the LORD as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֣את]] [[H4888A\|מִשְׁחַ֤ת]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וּ]][[H4888A\|מִשְׁחַ֣ת]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H9006\|מֵ]][[H0801\|אִשֵּׁ֖י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H7126H\|הִקְרִ֣יב]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9005\|לְ]][[H3547\|כַהֵ֖ן]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.34|<< Leviticus 7:34]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.36|Leviticus 7:36 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Punishment of Mankind
+type: Pericope
 pericope: "[[Gen.3.16 The Punishment of Mankind|The Punishment of Mankind]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 3
 book/chapter: "[[Gen.3|Genesis 3]]"
-genre:
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.3.16]]"
 - "[[Gen.3.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.3.20]]"
 ---
 
-[[Gen.3|Genesis 3:16 - Genesis 3:20]]
+<small>[[Gen.3|Genesis 3:16-20]]</small>
 *The Punishment of Mankind*
 
 [[Gen.3.16|16]] Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire \[shall be\] to thy husband, and he shall rule over thee.

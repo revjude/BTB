@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant of the Rainbow
+type: Pericope
 pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 9
 book/chapter: "[[Gen.9|Genesis 9]]"
-genre:
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.9.1]]"
 - "[[Gen.9.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.9.17]]"
 ---
 
-[[Gen.9|Genesis 9:1 - Genesis 9:17]]
+<small>[[Gen.9|Genesis 9:1-17]]</small>
 *The Covenant of the Rainbow*
 
 [[Gen.9.1|1]] And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.

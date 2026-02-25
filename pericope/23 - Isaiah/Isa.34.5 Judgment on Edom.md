@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Edom
+type: Pericope
 pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 34
 book/chapter: "[[Isa.34|Isaiah 34]]"
-genre:
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.34.5]]"
 - "[[Isa.34.6]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.34.17]]"
 ---
 
-[[Isa.34|Isaiah 34:5 - Isaiah 34:17]]
+<small>[[Isa.34|Isaiah 34:5-17]]</small>
 *Judgment on Edom*
 
 [[Isa.34.5|5]] For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.

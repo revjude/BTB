@@ -1,10 +1,59 @@
+---
+title: Mark 16:7
+type: Verse
+kjv: "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you."
+bsb: "But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’”"
+greek: "ἀλλ᾽ ὑπάγετε, εἴπατε τοῖς μαθηταῖς αὐτοῦ καὶ τῷ Πέτρῳ ὅτι προάγει ὑμᾶς εἰς τὴν Γαλιλαίαν· ἐκεῖ αὐτὸν ὄψεσθε καθὼς εἶπεν ὑμῖν."
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0235]]"
+- "[[G5217]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4074G]]"
+- "[[G3754G]]"
+- "[[G4254]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+- "[[G1563]]"
+- "[[G3700]]"
+- "[[G2531]]"
+texts:
+- NKO
+---
+
 **Mark 16:7**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.
 <small><sub>**BSB:**</sub></small>
 But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’”
-<small><sub>**Literal:**</sub></small>
-But do go, do say to the disciples of Him and <the> to Peter that He goes before you into <the> Galilee; there Him will you behold even as He said to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.6|<< Mark 16:6]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.8|Mark 16:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G5217\|ὑπάγετε,]]  [[G2036\|εἴπατε]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ]]  [[G3754G\|ὅτι]]  [[G4254\|προάγει]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν·]]  [[G1563\|ἐκεῖ]]  [[G0846\|αὐτὸν]]  [[G3700\|ὄψεσθε]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.6|<< Mark 16:6]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.8|Mark 16:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,54 @@
+---
+title: Galatians 3:23
+type: Verse
+kjv: "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+bsb: "Before this faith came, we were held in custody under the law, locked up until faith should be revealed."
+greek: "Πρὸ τοῦ δὲ ἐλθεῖν τὴν πίστιν ὑπὸ νόμον ἐφρουρούμεθα συγκλειόμενοι εἰς τὴν μέλλουσαν πίστιν ἀποκαλυφθῆναι."
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4253]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G4102G]]"
+- "[[G5259H]]"
+- "[[G3551]]"
+- "[[G5432]]"
+- "[[G4788]]"
+- "[[G1519]]"
+- "[[G3195]]"
+- "[[G0601]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 3:23**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.
 <small><sub>**BSB:**</sub></small>
 Before this faith came, we were held in custody under the law, locked up until faith should be revealed.
-<small><sub>**Literal:**</sub></small>
-Before <the> now coming <the> faith under [the] Law we were held in custody being locked up until which is being soon faith to be revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.22|<< Galatians 3:22]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.24|Galatians 3:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|Πρὸ]]  [[G3588\|τοῦ]]  [[G1161\|δὲ]]  [[G2064\|ἐλθεῖν]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον]]  [[G5432\|ἐφρουρούμεθα]]  [[G4788\|συγκλειόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3195\|μέλλουσαν]]  [[G4102G\|πίστιν]]  [[G0601\|ἀποκαλυφθῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.22|<< Galatians 3:22]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.24|Galatians 3:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 4:6
+type: Verse
+kjv: "And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah."
+bsb: "Naarah bore to him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the descendants of Naarah."
+hebrew: "וַתֵּ֨לֶד ל֤וֹ נַעֲרָה֙ אֶת־ אֲחֻזָּ֣ם וְאֶת־ חֵ֔פֶר וְאֶת־ תֵּימְנִ֖י וְאֶת־ הָאֲחַשְׁתָּרִ֑י אֵ֖לֶּה בְּנֵ֥י נַעֲרָֽה׃"
+pericope: "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHUZAM|AHUZAM]]"
+- "[[topic HAAHASHTARI|HAAHASHTARI]]"
+- "[[topic HEPHER|HEPHER]]"
+- "[[topic NAARAH|NAARAH]]"
+- "[[topic TEMENI|TEMENI]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5292B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0275]]"
+- "[[H9002]]"
+- "[[H2660G]]"
+- "[[H8488]]"
+- "[[H0326]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:6**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These [were] the sons of Naarah.
 <small><sub>**BSB:**</sub></small>
 Naarah bore to him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the descendants of Naarah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֨לֶד]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H5292B\|נַעֲרָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0275\|אֲחֻזָּ֣ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2660G\|חֵ֔פֶר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8488\|תֵּימְנִ֖י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0326\|הָאֲחַשְׁתָּרִ֑י]] [[H0428\|אֵ֖לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H5292B\|נַעֲרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHUZAM|AHUZAM]] • [[topic HAAHASHTARI|HAAHASHTARI]] • [[topic HEPHER|HEPHER]] • [[topic NAARAH|NAARAH]] • [[topic TEMENI|TEMENI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.5|<< 1 Chronicles 4:5]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.7|1 Chronicles 4:7 >>]]</td></tr></table>
 

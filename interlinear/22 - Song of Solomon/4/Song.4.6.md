@@ -1,8 +1,58 @@
+---
+title: Song of Solomon 4:6
+type: Verse
+kjv: "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense."
+bsb: "Before the day breaks and the shadows flee, I will make my way to the mountain of myrrh and to the hill of frankincense."
+hebrew: "עַ֤ד שֶׁיָּפ֙וּחַ֙ הַיּ֔וֹם וְנָ֖סוּ הַצְּלָלִ֑ים אֵ֤לֶךְ לִי֙ אֶל־ הַ֣ר הַמּ֔וֹר וְאֶל־ גִּבְעַ֖ת הַלְּבוֹנָֽה׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic MYRRH|MYRRH]]"
+strongs:
+- "[[H5704]]"
+- "[[H9007]]"
+- "[[H6315]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9001]]"
+- "[[H5127]]"
+- "[[H6752]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H4753]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H3828]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:6**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.
 <small><sub>**BSB:**</sub></small>
 Before the day breaks and the shadows flee, I will make my way to the mountain of myrrh and to the hill of frankincense.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֤ד]] [[H9007\|שֶׁ]][[H6315\|יָּפ֙וּחַ֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9001\|וְ]][[H5127\|נָ֖סוּ]] [[H9009\|הַ]][[H6752\|צְּלָלִ֑ים]] [[H1980G\|אֵ֤לֶךְ]] [[H9005\|לִ]][[H9030\|י֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H9009\|הַ]][[H4753\|מּ֔וֹר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1389I\|גִּבְעַ֖ת]] [[H9009\|הַ]][[H3828\|לְּבוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MYRRH|MYRRH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.5|<< Song of Solomon 4:5]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.7|Song of Solomon 4:7 >>]]</td></tr></table>
 

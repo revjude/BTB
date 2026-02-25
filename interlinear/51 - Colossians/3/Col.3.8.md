@@ -1,10 +1,60 @@
+---
+title: Colossians 3:8
+type: Verse
+kjv: "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth."
+bsb: "But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips."
+greek: "Νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα, ὀργήν, θυμόν, κακίαν, βλασφημίαν, αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν.¶"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G0659]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G3709]]"
+- "[[G2372]]"
+- "[[G2549]]"
+- "[[G0988]]"
+- "[[G0148]]"
+- "[[G1537]]"
+- "[[G4750]]"
+texts:
+- NKO
+---
+
 **Colossians 3:8**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 <small><sub>**BSB:**</sub></small>
 But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips.
-<small><sub>**Literal:**</sub></small>
-Now however do put off also you yourselves <the> all [these] things: anger, rage, malice, slander, foul language out of the mouth of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.7|<< Colossians 3:7]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.9|Colossians 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|Νυνὶ]]  [[G1161\|δὲ]]  [[G0659\|ἀπόθεσθε]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3588\|τὰ]]  [[G3956\|πάντα,]]  [[G3709\|ὀργήν,]]  [[G2372\|θυμόν,]]  [[G2549\|κακίαν,]]  [[G0988\|βλασφημίαν,]]  [[G0148\|αἰσχρολογίαν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONVERSATION|CONVERSATION]] • [[topic HATRED|HATRED]] • [[topic HOLINESS|HOLINESS]] • [[topic MALICE|MALICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.7|<< Colossians 3:7]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.9|Colossians 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

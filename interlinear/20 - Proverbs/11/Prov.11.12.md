@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:12
+type: Verse
+kjv: "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
+bsb: "Whoever shows contempt for his neighbor lacks judgment, but a man of understanding remains silent."
+hebrew: "בָּז־ לְרֵעֵ֥הוּ חֲסַר־ לֵ֑ב וְאִ֖ישׁ תְּבוּנ֣וֹת יַחֲרִֽישׁ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0936]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H2638]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H8394]]"
+- "[[H2790B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:12**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.
 <small><sub>**BSB:**</sub></small>
 Whoever shows contempt for his neighbor lacks judgment, but a man of understanding remains silent.
+<small><sub>**Hebrew:**</sub></small>
+[[H0936\|בָּז]][[H9014\|־]] [[H9005\|לְ]][[H7453\|רֵעֵ֥]][[H9023\|הוּ]] [[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H0376G\|אִ֖ישׁ]] [[H8394\|תְּבוּנ֣וֹת]] [[H2790B\|יַחֲרִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SPEAKING|SPEAKING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.11|<< Proverbs 11:11]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.13|Proverbs 11:13 >>]]</td></tr></table>
 

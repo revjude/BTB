@@ -1,8 +1,53 @@
+---
+title: Proverbs 23:12
+type: Verse
+kjv: "Apply thine heart unto instruction, and thine ears to the words of knowledge."
+bsb: "Apply your heart to instruction and your ears to words of knowledge."
+hebrew: "הָבִ֣יאָה לַמּוּסָ֣ר לִבֶּ֑ךָ וְ֝אָזְנֶ֗ךָ לְאִמְרֵי־ דָֽעַת׃"
+pericope: "[[Prov.23.12 Saying 12|Saying 12]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0935P]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H4148H]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:12**<big><big>[[Prov.23.12 Saying 12|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Apply thine heart unto instruction, and thine ears to the words of knowledge.
 <small><sub>**BSB:**</sub></small>
 Apply your heart to instruction and your ears to words of knowledge.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הָבִ֣יאָ]][[H9012\|ה]] [[H9005\|לַ]][[H4148H\|מּוּסָ֣ר]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H0241G\|אָזְנֶ֗]][[H9021\|ךָ]] [[H9005\|לְ]][[H0561\|אִמְרֵי]][[H9014\|־]] [[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.11|<< Proverbs 23:11]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.13|Proverbs 23:13 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 6:16
+type: Verse
+kjv: "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+bsb: "And they said to the mountains and the rocks, “Fall on us and hide us from the face of the One seated on the throne, and from the wrath of the Lamb."
+greek: "καὶ λέγουσιν τοῖς ὄρεσιν καὶ ταῖς πέτραις· πέσετε ἐφ᾽ ἡμᾶς καὶ κρύψατε ἡμᾶς ἀπὸ προσώπου τοῦ καθημένου ἐπὶ τοῦ θρόνου καὶ ἀπὸ τῆς ὀργῆς τοῦ ἀρνίου,"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G4073]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3165]]"
+- "[[G2928]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G2521]]"
+- "[[G2362]]"
+- "[[G3709]]"
+- "[[G0721]]"
+texts:
+- NKO
+---
+
 **Revelation 6:16**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:
 <small><sub>**BSB:**</sub></small>
 And they said to the mountains and the rocks, “Fall on us and hide us from the face of the One seated on the throne, and from the wrath of the Lamb.
-<small><sub>**Literal:**</sub></small>
-And they say to the mountains and to the rocks; do fall on us and do hide us from [the] face of the [One] sitting on the throne and from the wrath of the Lamb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.15|<< Revelation 6:15]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.17|Revelation 6:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G3588\|τοῖς]]  [[G3735\|ὄρεσιν]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G4073\|πέτραις·]]  [[G4098\|πέσετε]]  [[G1909\|ἐφ᾽]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G2928\|κρύψατε]]  [[G3165\|ἡμᾶς]]  [[G0575\|ἀπὸ]]  [[G4383\|προσώπου]]  [[G3588\|τοῦ]]  [[G2521\|καθημένου]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G3709\|ὀργῆς]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ESCAPE|ESCAPE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.15|<< Revelation 6:15]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.17|Revelation 6:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:16** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.2.9|Isa 2:9]] ☩ [[LXX.Isa.2.19|Isa 2:19]]

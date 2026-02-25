@@ -1,10 +1,63 @@
+---
+title: Colossians 1:16
+type: Verse
+kjv: "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:"
+bsb: "For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him."
+greek: "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα τὰ ἐν τοῖς οὐρανοῖς καὶ τὰ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι᾽ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται,"
+pericope: "[[Col.1.15 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2936]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3707]]"
+- "[[G0517]]"
+- "[[G1535]]"
+- "[[G2362]]"
+- "[[G2963]]"
+- "[[G0746]]"
+- "[[G1849]]"
+- "[[G1223]]"
+- "[[G1519]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **Colossians 1:16**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether [they be] thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
 <small><sub>**BSB:**</sub></small>
 For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him.
-<small><sub>**Literal:**</sub></small>
-because in Him were created <the> all things which [are] in the heavens and <the> upon the earth, the visible and the invisible, whether thrones or dominions or rulers or authorities; <the> all things through Him and unto Him have been created,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.15|<< Colossians 1:15]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.17|Colossians 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2936\|ἐκτίσθη]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3588\|τὰ]]  [[G3707\|ὁρατὰ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0517\|ἀόρατα,]]  [[G1535\|εἴτε]]  [[G2362\|θρόνοι]]  [[G1535\|εἴτε]]  [[G2963\|κυριότητες]]  [[G1535\|εἴτε]]  [[G0746\|ἀρχαὶ]]  [[G1535\|εἴτε]]  [[G1849\|ἐξουσίαι·]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G2936\|ἔκτισται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.15|<< Colossians 1:15]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.17|Colossians 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

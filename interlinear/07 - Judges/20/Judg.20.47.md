@@ -1,8 +1,58 @@
+---
+title: Judges 20:47
+type: Verse
+kjv: "But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months."
+bsb: "But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months."
+hebrew: "וַיִּפְנ֞וּ וַיָּנֻ֤סוּ הַמִּדְבָּ֙רָה֙ אֶל־ סֶ֣לַע הָֽרִמּ֔וֹן שֵׁ֥שׁ מֵא֖וֹת אִ֑ישׁ וַיֵּֽשְׁבוּ֙ בְּסֶ֣לַע רִמּ֔וֹן אַרְבָּעָ֖ה חֳדָשִֽׁים׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic RIMMON|RIMMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5127]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5553H]]"
+- "[[H7417C]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0702]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:47**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
 <small><sub>**BSB:**</sub></small>
 But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֞וּ]] [[H9001\|וַ]][[H5127\|יָּנֻ֤סוּ]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֙רָ]][[H9011\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5553H\|סֶ֣לַע]] [[H9009\|הָֽ]][[H7417C\|רִמּ֔וֹן]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H3427\|יֵּֽשְׁבוּ֙]] [[H9003\|בְּ]][[H5553H\|סֶ֣לַע]] [[H7417C\|רִמּ֔וֹן]] [[H0702\|אַרְבָּעָ֖ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIMMON|RIMMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.46|<< Judges 20:46]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.48|Judges 20:48 >>]]</td></tr></table>
 

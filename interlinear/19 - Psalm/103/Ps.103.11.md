@@ -1,8 +1,58 @@
+---
+title: Psalm 103:11
+type: Verse
+kjv: "For as the heaven is high above the earth, so great is his mercy toward them that fear him."
+bsb: "For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him."
+hebrew: "כִּ֤י כִגְבֹ֣הַּ שָׁ֭מַיִם עַל־ הָאָ֑רֶץ גָּבַ֥ר חַ֝סְדּ֗וֹ עַל־ יְרֵאָֽיו׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H1361]]"
+- "[[H8064]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1396]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H3373]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:11**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the heaven is high above the earth, [so] great is his mercy toward them that fear him.
 <small><sub>**BSB:**</sub></small>
 For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9004\|כִ]][[H1361\|גְבֹ֣הַּ]] [[H8064\|שָׁ֭מַיִם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H1396\|גָּבַ֥ר]] [[H2617A\|חַ֝סְדּ֗]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3373\|יְרֵאָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.10|<< Psalms 103:10]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.12|Psalms 103:12 >>]]</td></tr></table>
 

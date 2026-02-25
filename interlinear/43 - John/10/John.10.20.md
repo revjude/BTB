@@ -1,10 +1,55 @@
+---
+title: John 10:20
+type: Verse
+kjv: "And many of them said, He hath a devil, and is mad; why hear ye him?"
+bsb: "Many of them said, “He is demon-possessed and insane. Why would you listen to Him?”"
+greek: "ἔλεγον δὲ πολλοὶ ἐξ αὐτῶν· δαιμόνιον ἔχει καὶ μαίνεται· τί αὐτοῦ ἀκούετε;"
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G1140]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G3105]]"
+- "[[G5101]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **John 10:20**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many of them said, He hath a devil, and is mad; why hear ye him?
 <small><sub>**BSB:**</sub></small>
 Many of them said, “He is demon-possessed and insane. Why would you listen to Him?”
-<small><sub>**Literal:**</sub></small>
-Were saying now many of them; A demon He has and is insane; why to Him do you listen?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.19|<< John 10:19]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.21|John 10:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G1161\|δὲ]]  [[G4183\|πολλοὶ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν·]]  [[G1140\|δαιμόνιον]]  [[G2192\|ἔχει]]  [[G2532\|καὶ]]  [[G3105\|μαίνεται·]]  [[G5101\|τί]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούετε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic INSANITY|INSANITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.19|<< John 10:19]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.21|John 10:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

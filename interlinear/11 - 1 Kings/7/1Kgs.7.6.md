@@ -1,8 +1,64 @@
+---
+title: 1 Kings 7:6
+type: Verse
+kjv: "And he made a porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits: and the porch was before them: and the other pillars and the thick beam were before them."
+bsb: "Solomon made his colonnade fifty cubits long and thirty cubits wide, with a portico in front of it and a canopy with pillars in front of the portico."
+hebrew: "וְאֵ֨ת אוּלָ֤ם הָֽעַמּוּדִים֙ עָשָׂ֔ה חֲמִשִּׁ֤ים אַמָּה֙ אָרְכּ֔וֹ וּשְׁלֹשִׁ֥ים אַמָּ֖ה רָחְבּ֑וֹ וְאוּלָם֙ עַל־ פְּנֵיהֶ֔ם וְעַמֻּדִ֥ים וְעָ֖ב עַל־ פְּנֵיהֶֽם׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H0197G]]"
+- "[[H9009]]"
+- "[[H5982H]]"
+- "[[H6213H]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H7970]]"
+- "[[H7341]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H5982G]]"
+- "[[H5646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:6**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made a porch of pillars; the length thereof [was] fifty cubits, and the breadth thereof thirty cubits: and the porch [was] before them: and the [other] pillars and the thick beam [were] before them.
 <small><sub>**BSB:**</sub></small>
 Solomon made his colonnade fifty cubits long and thirty cubits wide, with a portico in front of it and a canopy with pillars in front of the portico.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H0197G\|אוּלָ֤ם]] [[H9009\|הָֽ]][[H5982H\|עַמּוּדִים֙]] [[H6213H\|עָשָׂ֔ה]] [[H2572\|חֲמִשִּׁ֤ים]] [[H0520A\|אַמָּה֙]] [[H0753\|אָרְכּ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H0520A\|אַמָּ֖ה]] [[H7341\|רָחְבּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0197G\|אוּלָם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H5982G\|עַמֻּדִ֥ים]] [[H9002\|וְ]][[H5646\|עָ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic PALACE|PALACE]] • [[topic PILLAR|PILLAR]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.5|<< 1 Kings 7:5]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.7|1 Kings 7:7 >>]]</td></tr></table>
 

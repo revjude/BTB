@@ -1,6 +1,63 @@
+---
+title: LXX Judges 13:10
+type: Verse
+lxx: "And the woman hastened, and ran, and reported  to her husband, and she said to him, Behold, the man has appeared to me, the one coming  in this day to me."
+greek: "και ετάχυνεν η γυνή και έδραμε και απήγγειλε τω ανδρί αυτής και είπε προς αυτόν ιδού ώπταί μοι ο ανήρ ο ελθών τη ημέρα εκείνη προς με"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G9406]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G2532]]"
+- "[[G5143]]"
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G3708]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G4314]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 13:10** 
 <small><sub>**LXX:**</sub></small>
 And the woman hastened, and ran, and reported  to her husband, and she said to him, Behold, the man has appeared to me, the one coming  in this day to me. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G9406\|ετάχυνεν]] [[G3588\|η]] [[G1135\|γυνή]] [[G2532\|και]] [[G5143\|έδραμε]] [[G2532\|και]] [[G0518\|απήγγειλε]] [[G3588\|τω]] [[G0435\|ανδρί]] [[G1473\|αυτής]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2400\|ιδού]] [[G3708\|ώπταί]] [[G1473\|μοι]] [[G3588\|ο]] [[G0435\|ανήρ]] [[G3588\|ο]] [[G2064\|ελθών]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G4314\|προς]] [[G1473\|με]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.11|Judges 13:11 >>]]</td></tr></table>
 
@@ -31,6 +88,6 @@ And the woman hastened, and ran, and reported  to her husband, and she said to h
 | in this day | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
 | to | **<big>[[G4314\|προς]]</big>** |
 | me. | **<big>[[G1473\|με]]</big>** |
-[[Judg.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.11|Judges 13:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.11|Judges 13:11 >>]]</td></tr></table>
 
 

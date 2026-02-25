@@ -1,10 +1,72 @@
+---
+title: John 8:42
+type: Verse
+kjv: "Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me."
+bsb: "Jesus said to them, “If God were your Father, you would love Me, for I have come here from God. I have not come on My own, but He sent Me."
+jesus_said: "If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me."
+greek: "Εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· εἰ ὁ θεὸς πατὴρ ὑμῶν ἦν, ἠγαπᾶτε ἂν ἐμέ· ἐγὼ γὰρ ἐκ τοῦ θεοῦ ἐξῆλθον καὶ ἥκω. οὐδὲ γὰρ ἀπ᾽ ἐμαυτοῦ ἐλήλυθα, ἀλλ᾽ ἐκεῖνός με ἀπέστειλεν."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1487G]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0025]]"
+- "[[G0302]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G2240]]"
+- "[[G3761]]"
+- "[[G0575]]"
+- "[[G2064]]"
+- "[[G0235]]"
+- "[[G1565]]"
+- "[[G3165]]"
+- "[[G0649]]"
+texts:
+- NKO
+- K
+---
+
 **John 8:42**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “If God were your Father, you would love Me, for I have come here from God. I have not come on My own, but He sent Me.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Jesus; If <the> God Father of you were, you were loving then would Me myself; I myself for from <the> God came forth and am here. not for by Myself have I come, but He Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.41|<< John 8:41]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.43|John 8:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G1510\|ἦν,]]  [[G0025\|ἠγαπᾶτε]]  [[G0302\|ἂν]]  [[G1473\|ἐμέ·]]  [[G1473\|ἐγὼ]]  [[G1063\|γὰρ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1831\|ἐξῆλθον]]  [[G2532\|καὶ]]  [[G2240\|ἥκω.]]  [[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G2064\|ἐλήλυθα,]]  [[G0235\|ἀλλ᾽]]  [[G1565\|ἐκεῖνός]]  [[G3165\|με]]  [[G0649\|ἀπέστειλεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.41|<< John 8:41]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.43|John 8:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

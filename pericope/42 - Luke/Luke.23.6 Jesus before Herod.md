@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before Herod
+type: Pericope
 pericope: "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.23.6]]"
 - "[[Luke.23.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.23.12]]"
 ---
 
-[[Luke.23|Luke 23:6 - Luke 23:12]]
+<small>[[Luke.23|Luke 23:6-12]]</small>
 *Jesus before Herod*
 
 [[Luke.23.6|6]] When Pilate heard of Galilee, he asked whether the man were a Galilaean.

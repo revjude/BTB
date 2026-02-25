@@ -1,8 +1,68 @@
+---
+title: Exodus 39:6
+type: Verse
+kjv: "And they wrought onyx stones inclosed in ouches of gold, graven, as signets are graven, with the names of the children of Israel."
+bsb: "They mounted the onyx stones in gold filigree settings, engraved like a seal with the names of the sons of Israel."
+hebrew: "וַֽיַּעֲשׂוּ֙ אֶת־ אַבְנֵ֣י הַשֹּׁ֔הַם מֻֽסַבֹּ֖ת מִשְׁבְּצֹ֣ת זָהָ֑ב מְפֻתָּחֹת֙ פִּתּוּחֵ֣י חוֹתָ֔ם עַל־ שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.39.1 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic ONYX|ONYX]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0068G]]"
+- "[[H9009]]"
+- "[[H7718]]"
+- "[[H5437H]]"
+- "[[H4865]]"
+- "[[H2091]]"
+- "[[H6605B]]"
+- "[[H6603]]"
+- "[[H2368]]"
+- "[[H5921A]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:6**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they wrought onyx stones inclosed in ouches of gold, graven, as signets are graven, with the names of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 They mounted the onyx stones in gold filigree settings, engraved like a seal with the names of the sons of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213H\|יַּעֲשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0068G\|אַבְנֵ֣י]] [[H9009\|הַ]][[H7718\|שֹּׁ֔הַם]] [[H5437H\|מֻֽסַבֹּ֖ת]] [[H4865\|מִשְׁבְּצֹ֣ת]] [[H2091\|זָהָ֑ב]] [[H6605B\|מְפֻתָּחֹת֙]] [[H6603\|פִּתּוּחֵ֣י]] [[H2368\|חוֹתָ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמ֖וֹת]] [[H1121A\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENGRAVING|ENGRAVING]] • [[topic EPHOD|EPHOD]] • [[topic ONYX|ONYX]] • [[topic PRIEST|PRIEST]] • [[topic SEAL|SEAL]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.5|<< Exodus 39:5]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.7|Exodus 39:7 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 1 Kings 8:47
+type: Verse
+kjv: "Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;"
+bsb: "and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’"
+hebrew: "וְהֵשִׁ֙יבוּ֙ אֶל־ לִבָּ֔ם בָּאָ֖רֶץ אֲשֶׁ֣ר נִשְׁבּוּ־ שָׁ֑ם וְשָׁ֣בוּ׀ וְהִֽתְחַנְּנ֣וּ אֵלֶ֗יךָ בְּאֶ֤רֶץ שֹֽׁבֵיהֶם֙ לֵאמֹ֔ר חָטָ֥אנוּ וְהֶעֱוִ֖ינוּ רָשָֽׁעְנוּ׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725N]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H8033G]]"
+- "[[H7725O]]"
+- "[[H9015]]"
+- "[[H2603A]]"
+- "[[H9031]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H5753B]]"
+- "[[H7561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:47**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 <small><sub>**BSB:**</sub></small>
 and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725N\|הֵשִׁ֙יבוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבָּ֔]][[H9028\|ם]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7617\|נִשְׁבּוּ]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H9001\|וְ]][[H7725O\|שָׁ֣בוּ]][[H9015\|׀]] [[H9001\|וְ]][[H2603A\|הִֽתְחַנְּנ֣וּ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H0776G\|אֶ֤רֶץ]] [[H7617\|שֹֽׁבֵי]][[H9038\|הֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2398\|חָטָ֥אנוּ]] [[H9002\|וְ]][[H5753B\|הֶעֱוִ֖ינוּ]] [[H7561\|רָשָֽׁעְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.46|<< 1 Kings 8:46]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.48|1 Kings 8:48 >>]]</td></tr></table>
 

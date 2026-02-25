@@ -1,8 +1,57 @@
+---
+title: Psalm 37:8
+type: Verse
+kjv: "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil."
+bsb: "Refrain from anger and abandon wrath; do not fret—it can only bring harm."
+hebrew: "הֶ֣רֶף מֵ֭אַף וַעֲזֹ֣ב חֵמָ֑ה אַל־ תִּ֝תְחַ֗ר אַךְ־ לְהָרֵֽעַ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic PATIENCE|PATIENCE]]"
+strongs:
+- "[[H7503]]"
+- "[[H9006]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H2534]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2734]]"
+- "[[H0389]]"
+- "[[H9005]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:8**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.
 <small><sub>**BSB:**</sub></small>
 Refrain from anger and abandon wrath; do not fret—it can only bring harm.
+<small><sub>**Hebrew:**</sub></small>
+[[H7503\|הֶ֣רֶף]] [[H9006\|מֵ֭]][[H0639G\|אַף]] [[H9002\|וַ]][[H5800A\|עֲזֹ֣ב]] [[H2534\|חֵמָ֑ה]] [[H0408\|אַל]][[H9014\|־]] [[H2734\|תִּ֝תְחַ֗ר]] [[H0389\|אַךְ]][[H9014\|־]] [[H9005\|לְ]][[H7489A\|הָרֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic PATIENCE|PATIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.7|<< Psalms 37:7]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.9|Psalms 37:9 >>]]</td></tr></table>
 

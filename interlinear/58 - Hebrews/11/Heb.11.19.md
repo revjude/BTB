@@ -1,10 +1,59 @@
+---
+title: Hebrews 11:19
+type: Verse
+kjv: "Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure."
+bsb: "Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death."
+greek: "λογισάμενος ὅτι καὶ ἐκ νεκρῶν ἐγείρειν δυνατὸς ὁ θεός, ὅθεν αὐτὸν καὶ ἐν παραβολῇ ἐκομίσατο.¶"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G3049]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G1453]]"
+- "[[G1415]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3606]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G2865]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:19**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Accounting that God [was] able to raise [him] up, even from the dead; from whence also he received him in a figure.
 <small><sub>**BSB:**</sub></small>
 Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death.
-<small><sub>**Literal:**</sub></small>
-having reasoned that even out from [the] dead to raise  able [was] <the> God, from where him also in a simile he received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.18|<< Hebrews 11:18]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.20|Hebrews 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3049\|λογισάμενος]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1453\|ἐγείρειν]]  [[G1415\|δυνατὸς]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3606\|ὅθεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3850\|παραβολῇ]]  [[G2865\|ἐκομίσατο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.18|<< Hebrews 11:18]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.20|Hebrews 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

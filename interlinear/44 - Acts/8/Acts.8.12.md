@@ -1,10 +1,64 @@
+---
+title: Acts 8:12
+type: Verse
+kjv: "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women."
+bsb: "But when they believed Philip as he preached the gospel of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women."
+greek: "ὅτε δὲ ἐπίστευσαν τῷ Φιλίππῳ εὐαγγελιζομένῳ τὰ περὶ τῆς βασιλείας τοῦ θεοῦ καὶ τοῦ ὀνόματος τοῦ Ἰησοῦ Χριστοῦ, ἐβαπτίζοντο ἄνδρες τε καὶ γυναῖκες."
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G5376J]]"
+- "[[G2097]]"
+- "[[G4012]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G0907]]"
+- "[[G0435G]]"
+- "[[G5037]]"
+- "[[G1135G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 8:12**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.
 <small><sub>**BSB:**</sub></small>
 But when they believed Philip as he preached the gospel of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.
-<small><sub>**Literal:**</sub></small>
-When however they believed <the> Philip evangelising <the> concerning the kingdom <the> of God and the name <the> of Jesus Christ, they were baptized men both and women.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.11|<< Acts 8:11]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.13|Acts 8:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G4100\|ἐπίστευσαν]]  [[G3588\|τῷ]]  [[G5376J\|Φιλίππῳ]]  [[G2097\|εὐαγγελιζομένῳ]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G0907\|ἐβαπτίζοντο]]  [[G0435G\|ἄνδρες]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.11|<< Acts 8:11]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.13|Acts 8:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 31:8
+type: Verse
+kjv: "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed."
+bsb: "The LORD Himself goes before you; He will be with you. He will never leave you nor forsake you. Do not be afraid or discouraged.”"
+hebrew: "וַֽיהוָ֞ה ה֣וּא׀ הַהֹלֵ֣ךְ לְפָנֶ֗יךָ ה֚וּא יִהְיֶ֣ה עִמָּ֔ךְ לֹ֥א יַרְפְּךָ֖ וְלֹ֣א יַֽעַזְבֶ֑ךָּ לֹ֥א תִירָ֖א וְלֹ֥א תֵחָֽת׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H7503]]"
+- "[[H5800A]]"
+- "[[H3372G]]"
+- "[[H2865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:8**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD, he [it is] that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.
 <small><sub>**BSB:**</sub></small>
 The LORD Himself goes before you; He will be with you. He will never leave you nor forsake you. Do not be afraid or discouraged.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֞ה]] [[H1931\|ה֣וּא]][[H9015\|׀]] [[H9009\|הַ]][[H1980G\|הֹלֵ֣ךְ]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H1931\|ה֚וּא]] [[H1961\|יִהְיֶ֣ה]] [[H5973A\|עִמָּ֔]][[H9031\|ךְ]] [[H3808\|לֹ֥א]] [[H7503\|יַרְפְּ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5800A\|יַֽעַזְבֶ֑]][[H9031\|ךָּ]] [[H3808\|לֹ֥א]] [[H3372G\|תִירָ֖א]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2865\|תֵחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.7|<< Deuteronomy 31:7]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.9|Deuteronomy 31:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

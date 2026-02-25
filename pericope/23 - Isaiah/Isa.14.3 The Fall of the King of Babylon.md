@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fall of the King of Babylon
+type: Pericope
 pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 14
 book/chapter: "[[Isa.14|Isaiah 14]]"
-genre:
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 21
 verses:
 - "[[Isa.14.3]]"
 - "[[Isa.14.4]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Isa.14.23]]"
 ---
 
-[[Isa.14|Isaiah 14:3 - Isaiah 14:23]]
+<small>[[Isa.14|Isaiah 14:3-23]]</small>
 *The Fall of the King of Babylon*
 
 [[Isa.14.3|3]] And it shall come to pass in the day that the LORD shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,

@@ -1,8 +1,79 @@
+---
+title: Jeremiah 46:28
+type: Verse
+kjv: "Fear thou not, O Jacob my servant, saith the LORD: for I am with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished."
+bsb: "And you, My servant Jacob, do not be afraid, declares the LORD, for I am with you. Though I will completely destroy all the nations to which I have banished you, I will not completely destroy you. Yet I will discipline you justly, and will by no means leave you unpunished.”"
+hebrew: "אַ֠תָּה אַל־ תִּירָ֞א עַבְדִּ֤י יַֽעֲקֹב֙ נְאֻם־ יְהוָ֔ה כִּ֥י אִתְּךָ֖ אָ֑נִי כִּי֩ אֶעֱשֶׂ֨ה כָלָ֜ה בְּכָֽל־ הַגּוֹיִ֣ם׀ אֲשֶׁ֧ר הִדַּחְתִּ֣יךָ שָׁ֗מָּה וְאֹֽתְךָ֙ לֹא־ אֶעֱשֶׂ֣ה כָלָ֔ה וְיִסַּרְתִּ֙יךָ֙ לַמִּשְׁפָּ֔ט וְנַקֵּ֖ה לֹ֥א אֲנַקֶּֽךָּ׃ ס"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0859A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0589]]"
+- "[[H6213H]]"
+- "[[H3617]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H5080]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3808]]"
+- "[[H9001]]"
+- "[[H3256]]"
+- "[[H9005]]"
+- "[[H4941H]]"
+- "[[H5352]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 46:28**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear thou not, O Jacob my servant, saith the LORD: for I [am] with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished.
 <small><sub>**BSB:**</sub></small>
 And you, My servant Jacob, do not be afraid, declares the LORD, for I am with you. Though I will completely destroy all the nations to which I have banished you, I will not completely destroy you. Yet I will discipline you justly, and will by no means leave you unpunished.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַ֠תָּה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֞א]] [[H5650\|עַבְדִּ֤]][[H9020\|י]] [[H3290\|יַֽעֲקֹב֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H0854\|אִתְּ]][[H9031\|ךָ֖]] [[H0589\|אָ֑נִי]] [[H3588A\|כִּי֩]] [[H6213H\|אֶעֱשֶׂ֨ה]] [[H3617\|כָלָ֜ה]] [[H9003\|בְּ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֧ר]] [[H5080\|הִדַּחְתִּ֣י]][[H9031\|ךָ]] [[H8033G\|שָׁ֗מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H0853\|אֹֽתְ]][[H9031\|ךָ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H6213H\|אֶעֱשֶׂ֣ה]] [[H3617\|כָלָ֔ה]] [[H9001\|וְ]][[H3256\|יִסַּרְתִּ֙י]][[H9031\|ךָ֙]] [[H9005\|לַ]][[H4941H\|מִּשְׁפָּ֔ט]] [[H9002\|וְ]][[H5352\|נַקֵּ֖ה]] [[H3808\|לֹ֥א]] [[H5352\|אֲנַקֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
 
@@ -34,7 +105,7 @@ And you, My servant Jacob, do not be afraid, declares the LORD, for I am with yo
 | to \<the> justice  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4941H\|מִּשְׁפָּ֔ט]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and certainly \<to leave unpunished>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5352\|נַקֵּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Keh<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will leave unpunished you  |**<big>&#8207;[[H5352\|אֲנַקֶּֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.na.Ke.<small><sup>[[HVpi1cs]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will leave unpunished you  |**<big>&#8207;[[H5352\|אֲנַקֶּֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.na.Ke.<small><sup>[[HVpi1cs]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
 
 

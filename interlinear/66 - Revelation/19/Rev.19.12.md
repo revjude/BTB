@@ -1,10 +1,67 @@
+---
+title: Revelation 19:12
+type: Verse
+kjv: "His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself."
+bsb: "He has eyes like blazing fire, and many royal crowns on His head. He has a name written on Him that only He Himself knows."
+greek: "οἱ δὲ ὀφθαλμοὶ αὐτοῦ ὡς φλὸξ πυρὸς καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλὰ ἔχων ὀνόματα γεγραμμένα καὶ ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτὸς"
+pericope: "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G5395]]"
+- "[[G4442]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G2776]]"
+- "[[G1238]]"
+- "[[G4183]]"
+- "[[G2192]]"
+- "[[G3686]]"
+- "[[G1125]]"
+- "[[G3739]]"
+- "[[G3762]]"
+- "[[G6063]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+texts:
+- NKO
+- O
+---
+
 **Revelation 19:12**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His eyes [were] as a flame of fire, and on his head [were] many crowns; and he had a name written, that no man knew, but he himself.
 <small><sub>**BSB:**</sub></small>
 He has eyes like blazing fire, and many royal crowns on His head. He has a name written on Him that only He Himself knows.
-<small><sub>**Literal:**</sub></small>
-<the> And the eyes of Him [are] like a flame of fire and upon the head of Him royal crowns many having names written and a name written which no [one] knows only except He Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.11|<< Revelation 19:11]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.13|Revelation 19:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3788\|ὀφθαλμοὶ]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G5395\|φλὸξ]]  [[G4442\|πυρὸς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G0846\|αὐτοῦ]]  [[G1238\|διαδήματα]]  [[G4183\|πολλὰ]]  [[G2192\|ἔχων]]  [[G3686\|ὀνόματα]]  [[G1125\|γεγραμμένα]]  [[G2532\|καὶ]]  [[G3686\|ὄνομα]]  [[G1125\|γεγραμμένον]]  [[G3739\|ὃ]]  [[G3762\|οὐδεὶς]]  [[G6063\|οἶδεν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὸς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic CROWN|CROWN]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.11|<< Revelation 19:11]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.13|Revelation 19:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:12** is...
 > $\quad$ alluding to: [[LXX.Dan.10.6|Dan 10:6]]

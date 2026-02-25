@@ -1,8 +1,48 @@
+---
+title: 2 Samuel 22:14
+type: Verse
+kjv: "The LORD thundered from heaven, and the most High uttered his voice."
+bsb: "The LORD thundered from heaven; the voice of the Most High resounded."
+hebrew: "יַרְעֵ֥ם מִן־ שָׁמַ֖יִם יְהוָ֑ה וְעֶלְי֖וֹן יִתֵּ֥ן קוֹלֽוֹ׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H7481]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5945B]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:14**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thundered from heaven, and the most High uttered his voice.
 <small><sub>**BSB:**</sub></small>
 The LORD thundered from heaven; the voice of the Most High resounded.
+<small><sub>**Hebrew:**</sub></small>
+[[H7481\|יַרְעֵ֥ם]] [[H4480A\|מִן]][[H9014\|־]] [[H8064\|שָׁמַ֖יִם]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H5945B\|עֶלְי֖וֹן]] [[H5414M\|יִתֵּ֥ן]] [[H6963A\|קוֹלֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.13|<< 2 Samuel 22:13]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.15|2 Samuel 22:15 >>]]</td></tr></table>
 

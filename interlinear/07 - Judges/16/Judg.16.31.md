@@ -1,8 +1,71 @@
+---
+title: Judges 16:31
+type: Verse
+kjv: "Then his brethren and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years."
+bsb: "Then Samson’s brothers and his father’s family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years."
+hebrew: "וַיֵּרְד֨וּ אֶחָ֜יו וְכָל־ בֵּ֣ית אָבִיהוּ֮ וַיִּשְׂא֣וּ אֹתוֹ֒ וַֽיַּעֲל֣וּ׀ וַיִּקְבְּר֣וּ אוֹת֗וֹ בֵּ֤ין צָרְעָה֙ וּבֵ֣ין אֶשְׁתָּאֹ֔ל בְּקֶ֖בֶר מָנ֣וֹחַ אָבִ֑יו וְה֛וּא שָׁפַ֥ט אֶת־ יִשְׂרָאֵ֖ל עֶשְׂרִ֥ים שָׁנָֽה׃ פ"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ESHTAOL|ESHTAOL]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic ZORAH|ZORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5927H]]"
+- "[[H9015]]"
+- "[[H6912]]"
+- "[[H0996G]]"
+- "[[H6881]]"
+- "[[H0847]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H4495]]"
+- "[[H1931]]"
+- "[[H8199]]"
+- "[[H3478]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 16:31**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then his brethren and all the house of his father came down, and took him, and brought [him] up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
 <small><sub>**BSB:**</sub></small>
 Then Samson’s brothers and his father’s family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֨וּ]] [[H0251G\|אֶחָ֜י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִי]][[H9023\|הוּ֮]] [[H9001\|וַ]][[H5375G\|יִּשְׂא֣וּ]] [[H0853\|אֹת]][[H9033\|וֹ֒]] [[H9001\|וַֽ]][[H5927H\|יַּעֲל֣וּ]][[H9015\|׀]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֣וּ]] [[H0853\|אוֹת֗]][[H9033\|וֹ]] [[H0996G\|בֵּ֤ין]] [[H6881\|צָרְעָה֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H0847\|אֶשְׁתָּאֹ֔ל]] [[H9003\|בְּ]][[H6913\|קֶ֖בֶר]] [[H4495\|מָנ֣וֹחַ]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H8199\|שָׁפַ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESHTAOL|ESHTAOL]] • [[topic GAZA|GAZA]] • [[topic SAMSON|SAMSON]] • [[topic ZORAH|ZORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.30|<< Judges 16:30]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.1|Judges 17:1 >>]]</td></tr></table>
 
@@ -30,7 +93,7 @@ Then Samson’s brothers and his father’s family came down, carried him back, 
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| year[s]  |**<big>&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.30|<< Judges 16:30]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.1|Judges 17:1 >>]]</td></tr></table>
 
 

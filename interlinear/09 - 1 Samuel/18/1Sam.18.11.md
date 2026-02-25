@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 18:11
+type: Verse
+kjv: "And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice."
+bsb: "and he hurled it, thinking, “I will pin David to the wall.” But David eluded him twice."
+hebrew: "וַיָּ֤טֶל שָׁאוּל֙ אֶֽת־ הַחֲנִ֔ית וַיֹּ֕אמֶר אַכֶּ֥ה בְדָוִ֖ד וּבַקִּ֑יר וַיִּסֹּ֥ב דָּוִ֛ד מִפָּנָ֖יו פַּעֲמָֽיִם׃"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JAVELIN|JAVELIN]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAR|SPEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2904]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2595]]"
+- "[[H0559]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H7023]]"
+- "[[H5437G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:11**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul cast the javelin; for he said, I will smite David even to the wall [with it]. And David avoided out of his presence twice.
 <small><sub>**BSB:**</sub></small>
 and he hurled it, thinking, “I will pin David to the wall.” But David eluded him twice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2904\|יָּ֤טֶל]] [[H7586G\|שָׁאוּל֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2595\|חֲנִ֔ית]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H5221\|אַכֶּ֥ה]] [[H9003\|בְ]][[H1732\|דָוִ֖ד]] [[H9002\|וּ]][[H9003\|בַ]][[H7023\|קִּ֑יר]] [[H9001\|וַ]][[H5437G\|יִּסֹּ֥ב]] [[H1732\|דָּוִ֛ד]] [[H9006\|מִ]][[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H6471\|פַּעֲמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DEMONS|DEMONS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JAVELIN|JAVELIN]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAR|SPEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.10|<< 1 Samuel 18:10]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.12|1 Samuel 18:12 >>]]</td></tr></table>
 

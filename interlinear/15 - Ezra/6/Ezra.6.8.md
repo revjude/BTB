@@ -1,8 +1,76 @@
+---
+title: Ezra 6:8
+type: Verse
+kjv: "Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the river, forthwith expences be given unto these men, that they be not hindered."
+bsb: "I hereby decree what you must do for these elders of the Jews who are rebuilding this house of God: The cost is to be paid in full to these men from the royal treasury out of the taxes of the provinces west of the Euphrates, so that the work will not be hindered."
+aramaic: "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ לְמָ֣א דִֽי־ תַֽעַבְד֗וּן עִם־ שָׂבֵ֤י יְהוּדָיֵא֙ אִלֵּ֔ךְ לְמִבְנֵ֖א בֵּית־ אֱלָהָ֣א דֵ֑ךְ וּמִנִּכְסֵ֣י מַלְכָּ֗א דִּ֚י מִדַּת֙ עֲבַ֣ר נַהֲרָ֔ה אָסְפַּ֗רְנָא נִפְקְתָ֛א תֶּהֱוֵ֧א מִֽתְיַהֲבָ֛א לְגֻבְרַיָּ֥א אִלֵּ֖ךְ דִּי־ לָ֥א לְבַטָּלָֽא׃"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H9005]]"
+- "[[H3964]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H5648]]"
+- "[[H5974]]"
+- "[[H7868]]"
+- "[[H3062]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H1124]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H1791]]"
+- "[[H9006]]"
+- "[[H5232]]"
+- "[[H4430]]"
+- "[[H4061]]"
+- "[[H5675]]"
+- "[[H5103G]]"
+- "[[H0629]]"
+- "[[H5313]]"
+- "[[H1934]]"
+- "[[H3052]]"
+- "[[H1400]]"
+- "[[H3809]]"
+- "[[H0989]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:8**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king’s goods, [even] of the tribute beyond the river, forthwith expences be given unto these men, that they be not hindered.
 <small><sub>**BSB:**</sub></small>
 I hereby decree what you must do for these elders of the Jews who are rebuilding this house of God: The cost is to be paid in full to these men from the royal treasury out of the taxes of the provinces west of the Euphrates, so that the work will not be hindered.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4481\|מִנִּ]][[H9030\|י֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H9005\|לְ]][[H3964\|מָ֣א]] [[H1768\|דִֽי]][[H9014\|־]] [[H5648\|תַֽעַבְד֗וּן]] [[H5974\|עִם]][[H9014\|־]] [[H7868\|שָׂבֵ֤י]] [[H3062\|יְהוּדָיֵ]][[H9010\|א֙]] [[H0479\|אִלֵּ֔ךְ]] [[H9005\|לְ]][[H1124\|מִבְנֵ֖א]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֣]][[H9010\|א]] [[H1791\|דֵ֑ךְ]] [[H9002\|וּ]][[H9006\|מִ]][[H5232\|נִּכְסֵ֣י]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H4061\|מִדַּת֙]] [[H5675\|עֲבַ֣ר]] [[H5103G\|נַהֲרָ֔]][[H9010\|ה]] [[H0629\|אָסְפַּ֗רְנָא]] [[H5313\|נִפְקְתָ֛]][[H9010\|א]] [[H1934\|תֶּהֱוֵ֧א]] [[H3052\|מִֽתְיַהֲבָ֛א]] [[H9005\|לְ]][[H1400\|גֻבְרַיָּ֥]][[H9010\|א]] [[H0479\|אִלֵּ֖ךְ]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֥א]] [[H9005\|לְ]][[H0989\|בַטָּלָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.7|<< Ezra 6:7]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.9|Ezra 6:9 >>]]</td></tr></table>
 

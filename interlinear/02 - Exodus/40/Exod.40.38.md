@@ -1,8 +1,70 @@
+---
+title: Exodus 40:38
+type: Verse
+kjv: "For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."
+bsb: "For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel through all their journeys."
+hebrew: "כִּי֩ עֲנַ֨ן יְהוָ֤ה עַֽל־ הַמִּשְׁכָּן֙ יוֹמָ֔ם וְאֵ֕שׁ תִּהְיֶ֥ה לַ֖יְלָה בּ֑וֹ לְעֵינֵ֥י כָל־ בֵּֽית־ יִשְׂרָאֵ֖ל בְּכָל־ מַסְעֵיהֶֽם׃"
+pericope: "[[Exod.40.34 The Cloud and the Glory|The Cloud and the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6051]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H0784]]"
+- "[[H1961]]"
+- "[[H3915]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4550]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:38**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the cloud of the LORD [was] upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 <small><sub>**BSB:**</sub></small>
 For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel through all their journeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H6051\|עֲנַ֨ן]] [[H3068G\|יְהוָ֤ה]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּן֙]] [[H3119\|יוֹמָ֔ם]] [[H9002\|וְ]][[H0784\|אֵ֕שׁ]] [[H1961\|תִּהְיֶ֥ה]] [[H3915\|לַ֖יְלָה]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4550\|מַסְעֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.37|<< Exodus 40:37]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.1|Leviticus 1:1 >>]]</td></tr></table>
 

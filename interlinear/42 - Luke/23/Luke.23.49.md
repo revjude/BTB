@@ -1,10 +1,60 @@
+---
+title: Luke 23:49
+type: Verse
+kjv: "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+bsb: "But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things."
+greek: "Εἱστήκεισαν δὲ πάντες οἱ γνωστοὶ αὐτῷ ἀπὸ μακρόθεν καὶ γυναῖκες αἱ συνακολουθοῦσαι αὐτῷ ἀπὸ τῆς Γαλιλαίας ὁρῶσαι ταῦτα.¶"
+pericope: "[[Luke.23.44 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1110]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G4870]]"
+- "[[G1056G]]"
+- "[[G3708]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Luke 23:49**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.
 <small><sub>**BSB:**</sub></small>
 But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things.
-<small><sub>**Literal:**</sub></small>
-Had stood now all those who knew with Him from afar off also women those having followed Him from <the> Galilee beholding these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.48|<< Luke 23:48]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.50|Luke 23:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|Εἱστήκεισαν]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G1110\|γνωστοὶ]]  [[G0846\|αὐτῷ]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκες]]  [[G3588\|αἱ]]  [[G4870\|συνακολουθοῦσαι]]  [[G0846\|αὐτῷ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G3708\|ὁρῶσαι]]  [[G3778\|ταῦτα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.48|<< Luke 23:48]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.50|Luke 23:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

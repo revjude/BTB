@@ -1,10 +1,65 @@
+---
+title: John 19:39
+type: Verse
+kjv: "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight."
+bsb: "Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about seventy-five pounds."
+greek: "ἦλθεν δὲ καὶ Νικόδημος ὁ ἐλθὼν πρὸς τὸν αὐτὸν νυκτὸς τὸ πρῶτον φέρων μίγμα σμύρνης καὶ ἀλόης ὡς λίτρας ἑκατόν.¶"
+pericope: "[[John.19.38 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SPICES|SPICES]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3530]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3571]]"
+- "[[G4413H]]"
+- "[[G5342]]"
+- "[[G3395]]"
+- "[[G4666]]"
+- "[[G0250]]"
+- "[[G5613]]"
+- "[[G3046]]"
+- "[[G1540]]"
+texts:
+- NKO
+- k
+- N(K)O
+- NK(O)
+---
+
 **John 19:39**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound [weight].
 <small><sub>**BSB:**</sub></small>
 Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about seventy-five pounds.
-<small><sub>**Literal:**</sub></small>
-Came now also Nicodemus the [one] having come to <the> Him by night at the first bearing a mixture of myrrh and aloes about litras a hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.38|<< John 19:38]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.40|John 19:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3530\|Νικόδημος]]  [[G3588\|ὁ]]  [[G2064\|ἐλθὼν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0846\|αὐτὸν]]  [[G3571\|νυκτὸς]]  [[G3588\|τὸ]]  [[G4413H\|πρῶτον]]  [[G5342\|φέρων]]  [[G3395\|μίγμα]]  [[G4666\|σμύρνης]]  [[G2532\|καὶ]]  [[G0250\|ἀλόης]]  [[G5613\|ὡς]]  [[G3046\|λίτρας]]  [[G1540\|ἑκατόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic BURIAL|BURIAL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]] • [[topic MYRRH|MYRRH]] • [[topic SPICES|SPICES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.38|<< John 19:38]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.40|John 19:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

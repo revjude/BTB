@@ -1,8 +1,58 @@
+---
+title: Isaiah 17:5
+type: Verse
+kjv: "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim."
+bsb: "as the reaper gathers the standing grain and harvests the ears with his arm, as one gleans heads of grain in the Valley of Rephaim."
+hebrew: "וְהָיָ֗ה כֶּֽאֱסֹף֙ קָצִ֣יר קָמָ֔ה וּזְרֹע֖וֹ שִׁבֳּלִ֣ים יִקְצ֑וֹר וְהָיָ֛ה כִּמְלַקֵּ֥ט שִׁבֳּלִ֖ים בְּעֵ֥מֶק רְפָאִֽים׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0622]]"
+- "[[H7105A]]"
+- "[[H7054]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H7641B]]"
+- "[[H7114B]]"
+- "[[H3950]]"
+- "[[H9003]]"
+- "[[H6010P]]"
+- "[[H7497G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:5**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
 <small><sub>**BSB:**</sub></small>
 as the reaper gathers the standing grain and harvests the ears with his arm, as one gleans heads of grain in the Valley of Rephaim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9004\|כֶּֽ]][[H0622\|אֱסֹף֙]] [[H7105A\|קָצִ֣יר]] [[H7054\|קָמָ֔ה]] [[H9002\|וּ]][[H2220\|זְרֹע֖]][[H9023\|וֹ]] [[H7641B\|שִׁבֳּלִ֣ים]] [[H7114B\|יִקְצ֑וֹר]] [[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H9004\|כִּ]][[H3950\|מְלַקֵּ֥ט]] [[H7641B\|שִׁבֳּלִ֖ים]] [[H9003\|בְּ]][[H6010P\|עֵ֥מֶק]] [[H7497G\|רְפָאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.4|<< Isaiah 17:4]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.6|Isaiah 17:6 >>]]</td></tr></table>
 

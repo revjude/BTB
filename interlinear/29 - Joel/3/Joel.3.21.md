@@ -1,8 +1,55 @@
+---
+title: Joel 3:21
+type: Verse
+kjv: "For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion."
+bsb: "For I will avenge their blood, which I have not yet avenged.” For the LORD dwells in Zion."
+hebrew: "וְנִקֵּ֖יתִי דָּמָ֣ם לֹֽא־ נִקֵּ֑יתִי וַֽיהוָ֖ה שֹׁכֵ֥ן בְּצִיּֽוֹן׃"
+pericope: "[[Joel.3.17 Blessings for God’s People|Blessings for God’s People]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5352]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:21**<big><big>[[Joel.3.17 Blessings for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will cleanse their blood [that] I have not cleansed: for the LORD dwelleth in Zion.
 <small><sub>**BSB:**</sub></small>
 For I will avenge their blood, which I have not yet avenged.” For the LORD dwells in Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5352\|נִקֵּ֖יתִי]] [[H1818\|דָּמָ֣]][[H9028\|ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5352\|נִקֵּ֑יתִי]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H7931\|שֹׁכֵ֥ן]] [[H9003\|בְּ]][[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.20|<< Joel 3:20]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.1|Amos 1:1 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Joshua 1:16
+type: Verse
+kjv: "And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go."
+bsb: "So they answered Joshua, “Everything you have commanded us we will do, and everywhere you send us we will go."
+hebrew: "וַֽיַּעֲנ֔וּ אֶת־ יְהוֹשֻׁ֖עַ לֵאמֹ֑ר כֹּ֤ל אֲשֶׁר־ צִוִּיתָ֙נוּ֙ נַֽעֲשֶׂ֔ה וְאֶֽל־ כָּל־ אֲשֶׁ֥ר תִּשְׁלָחֵ֖נוּ נֵלֵֽךְ׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9035]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H7971G]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:16**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.
 <small><sub>**BSB:**</sub></small>
 So they answered Joshua, “Everything you have commanded us we will do, and everywhere you send us we will go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6030B\|יַּעֲנ֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3605\|כֹּ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוִּיתָ֙]][[H9035\|נוּ֙]] [[H6213A\|נַֽעֲשֶׂ֔ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|תִּשְׁלָחֵ֖]][[H9035\|נוּ]] [[H1980G\|נֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JOSHUA|JOSHUA]] • [[topic LOYALTY|LOYALTY]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.15|<< Joshua 1:15]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.17|Joshua 1:17 >>]]</td></tr></table>
 

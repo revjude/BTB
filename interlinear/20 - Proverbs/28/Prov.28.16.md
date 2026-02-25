@@ -1,8 +1,53 @@
+---
+title: Proverbs 28:16
+type: Verse
+kjv: "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days."
+bsb: "A leader who lacks judgment is also a great oppressor, but he who hates dishonest profit will prolong his days."
+hebrew: "נָגִ֗יד חֲסַ֣ר תְּ֭בוּנוֹת וְרַ֥ב מַעֲשַׁקּ֑וֹת שֹׂ֥נֵא בֶ֝֗צַע יַאֲרִ֥יךְ יָמִֽים׃ פ"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5057]]"
+- "[[H2638]]"
+- "[[H8394]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H4642]]"
+- "[[H8130]]"
+- "[[H1215]]"
+- "[[H0748]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 28:16**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The prince that wanteth understanding [is] also a great oppressor: [but] he that hateth covetousness shall prolong [his] days.
 <small><sub>**BSB:**</sub></small>
 A leader who lacks judgment is also a great oppressor, but he who hates dishonest profit will prolong his days.
+<small><sub>**Hebrew:**</sub></small>
+[[H5057\|נָגִ֗יד]] [[H2638\|חֲסַ֣ר]] [[H8394\|תְּ֭בוּנוֹת]] [[H9002\|וְ]][[H7227A\|רַ֥ב]] [[H4642\|מַעֲשַׁקּ֑וֹת]] [[H8130\|שֹׂ֥נֵא]] [[H1215\|בֶ֝֗צַע]] [[H0748\|יַאֲרִ֥יךְ]] [[H3117G\|יָמִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.15|<< Proverbs 28:15]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.17|Proverbs 28:17 >>]]</td></tr></table>
 
@@ -16,7 +61,7 @@ A leader who lacks judgment is also a great oppressor, but he who hates dishones
 | [one who] hates  [^1]|**<big>&#8207;[[H8130\|שֹׂ֥נֵא]]&#8207; </big>**[^2] | so.ne.'ei'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<of> unjust gain  |**<big>&#8207;[[H1215\|בֶ֝֗צַע]]&#8207; </big>**| Ve.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will prolong  |**<big>&#8207;[[H0748\|יַאֲרִ֥יךְ]]&#8207; </big>**| ya.'a.Rikh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.15|<< Proverbs 28:15]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.17|Proverbs 28:17 >>]]</td></tr></table>
 
 [^1]: [those who] hate  | **<big>[[H8130|שֹׂנְאֵי]]</big> ** | so.ne.'ei<small><sup>[[HVqrmpc]]</sup></small> | K

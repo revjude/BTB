@@ -1,8 +1,71 @@
+---
+title: 2 Kings 13:19
+type: Verse
+kjv: "And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed it: whereas now thou shalt smite Syria but thrice."
+bsb: "But the man of God was angry with him and said, “You should have struck the ground five or six times. Then you would have struck down Aram until you had put an end to it. But now you will strike down Aram only three times.”"
+hebrew: "וַיִּקְצֹ֨ף עָלָ֜יו אִ֣ישׁ הָאֱלֹהִ֗ים וַיֹּ֙אמֶר֙ לְהַכּ֨וֹת חָמֵ֤שׁ אוֹ־ שֵׁשׁ֙ פְּעָמִ֔ים אָ֛ז הִכִּ֥יתָ אֶת־ אֲרָ֖ם עַד־ כַּלֵּ֑ה וְעַתָּ֕ה שָׁלֹ֥שׁ פְּעָמִ֖ים תַּכֶּ֥ה אֶת־ אֲרָֽם׃ ס"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7107]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5221]]"
+- "[[H2568]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H8337]]"
+- "[[H6471]]"
+- "[[H0227A]]"
+- "[[H0853]]"
+- "[[H0758I]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7969]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 13:19**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed [it]: whereas now thou shalt smite Syria [but] thrice.
 <small><sub>**BSB:**</sub></small>
 But the man of God was angry with him and said, “You should have struck the ground five or six times. Then you would have struck down Aram until you had put an end to it. But now you will strike down Aram only three times.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7107\|יִּקְצֹ֨ף]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לְ]][[H5221\|הַכּ֨וֹת]] [[H2568\|חָמֵ֤שׁ]] [[H0176A\|אוֹ]][[H9014\|־]] [[H8337\|שֵׁשׁ֙]] [[H6471\|פְּעָמִ֔ים]] [[H0227A\|אָ֛ז]] [[H5221\|הִכִּ֥יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כַּלֵּ֑ה]] [[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H7969\|שָׁלֹ֥שׁ]] [[H6471\|פְּעָמִ֖ים]] [[H5221\|תַּכֶּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic DOUBTING|DOUBTING]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROOF|REPROOF]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ But the man of God was angry with him and said, “You should have struck the gr
 | times  |**<big>&#8207;[[H6471\|פְּעָמִ֖ים]]&#8207; </big>**| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will strike down  |**<big>&#8207;[[H5221\|תַּכֶּ֥ה]]&#8207; </big>**| ta.Keh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aram  |**<big>&#8207;[[H0758I\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aram  |**<big>&#8207;[[H0758I\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
 
 

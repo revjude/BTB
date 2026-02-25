@@ -1,8 +1,79 @@
+---
+title: Ruth 4:10
+type: Verse
+kjv: "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day."
+bsb: "Moreover, I have acquired Ruth the Moabitess, Mahlon’s widow, as my wife, to raise up the name of the deceased through his inheritance, so that his name will not disappear from among his brothers or from the gate of his home. You are witnesses today.”"
+hebrew: "וְגַ֣ם אֶת־ ר֣וּת הַמֹּאֲבִיָּה֩ אֵ֨שֶׁת מַחְל֜וֹן קָנִ֧יתִי לִ֣י לְאִשָּׁ֗ה לְהָקִ֤ים שֵׁם־ הַמֵּת֙ עַל־ נַ֣חֲלָת֔וֹ וְלֹא־ יִכָּרֵ֧ת שֵׁם־ הַמֵּ֛ת מֵעִ֥ם אֶחָ֖יו וּמִשַּׁ֣עַר מְקוֹמ֑וֹ עֵדִ֥ים אַתֶּ֖ם הַיּֽוֹם׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MAHLON|MAHLON]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7327]]"
+- "[[H9009]]"
+- "[[H4125]]"
+- "[[H0802H]]"
+- "[[H4248]]"
+- "[[H7069]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6965I]]"
+- "[[H8034]]"
+- "[[H4191]]"
+- "[[H5921A]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3772I]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0251H]]"
+- "[[H8179G]]"
+- "[[H4725]]"
+- "[[H5707]]"
+- "[[H0859D]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:10**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye [are] witnesses this day.
 <small><sub>**BSB:**</sub></small>
 Moreover, I have acquired Ruth the Moabitess, Mahlon’s widow, as my wife, to raise up the name of the deceased through his inheritance, so that his name will not disappear from among his brothers or from the gate of his home. You are witnesses today.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7327\|ר֣וּת]] [[H9009\|הַ]][[H4125\|מֹּאֲבִיָּה֩]] [[H0802H\|אֵ֨שֶׁת]] [[H4248\|מַחְל֜וֹן]] [[H7069\|קָנִ֧יתִי]] [[H9005\|לִ֣]][[H9030\|י]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֗ה]] [[H9005\|לְ]][[H6965I\|הָקִ֤ים]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5159\|נַ֣חֲלָת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3772I\|יִכָּרֵ֧ת]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּ֛ת]] [[H9006\|מֵ]][[H5973B\|עִ֥ם]] [[H0251H\|אֶחָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9006\|מִ]][[H8179G\|שַּׁ֣עַר]] [[H4725\|מְקוֹמ֑]][[H9023\|וֹ]] [[H5707\|עֵדִ֥ים]] [[H0859D\|אַתֶּ֖ם]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MAHLON|MAHLON]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic RUTH|RUTH]] • [[topic WIFE|WIFE]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.9|<< Ruth 4:9]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.11|Ruth 4:11 >>]]</td></tr></table>
 

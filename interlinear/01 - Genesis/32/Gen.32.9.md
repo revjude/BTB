@@ -1,8 +1,66 @@
+---
+title: Genesis 32:9
+type: Verse
+kjv: "And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:"
+bsb: "Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’"
+hebrew: "וַיֹּאמֶר֮ יַעֲקֹב֒ אֱלֹהֵי֙ אָבִ֣י אַבְרָהָ֔ם וֵאלֹהֵ֖י אָבִ֣י יִצְחָ֑ק יְהוָ֞ה הָאֹמֵ֣ר אֵלַ֗י שׁ֧וּב לְאַרְצְךָ֛ וּלְמוֹלַדְתְּךָ֖ וְאֵיטִ֥יבָה עִמָּֽךְ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0085]]"
+- "[[H9002]]"
+- "[[H3327]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H4138]]"
+- "[[H3190]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:9**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:
 <small><sub>**BSB:**</sub></small>
 Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H3290\|יַעֲקֹב֒]] [[H0430G\|אֱלֹהֵי֙]] [[H0001G\|אָבִ֣]][[H9020\|י]] [[H0085\|אַבְרָהָ֔ם]] [[H9002\|וֵ]][[H0430G\|אלֹהֵ֖י]] [[H0001G\|אָבִ֣]][[H9020\|י]] [[H3327\|יִצְחָ֑ק]] [[H3068G\|יְהוָ֞ה]] [[H9009\|הָ]][[H0559\|אֹמֵ֣ר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H7725G\|שׁ֧וּב]] [[H9005\|לְ]][[H0776G\|אַרְצְ]][[H9021\|ךָ֛]] [[H9002\|וּ]][[H9005\|לְ]][[H4138\|מוֹלַדְתְּ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3190\|אֵיטִ֥יבָה]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.8|<< Genesis 32:8]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.10|Genesis 32:10 >>]]</td></tr></table>
 

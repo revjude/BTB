@@ -1,10 +1,61 @@
+---
+title: Acts 6:1
+type: Verse
+kjv: "And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration."
+bsb: "In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food."
+greek: "Ἐν δὲ ταῖς ἡμέραις ταύταις πληθυνόντων τῶν μαθητῶν ἐγένετο γογγυσμὸς τῶν Ἑλληνιστῶν πρὸς τοὺς Ἑβραίους, ὅτι παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ αἱ χῆραι αὐτῶν."
+pericope: "[[Acts.6.1 The Choosing of the Seven|The Choosing of the Seven]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DEACON|DEACON]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G4129]]"
+- "[[G3101]]"
+- "[[G1096]]"
+- "[[G1112]]"
+- "[[G1675]]"
+- "[[G4314]]"
+- "[[G1445]]"
+- "[[G3754H]]"
+- "[[G3865]]"
+- "[[G1248]]"
+- "[[G2522]]"
+- "[[G5503]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 6:1**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
 <small><sub>**BSB:**</sub></small>
 In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
-<small><sub>**Literal:**</sub></small>
-In now <the> days these when are multiplying the disciples there arose a grumbling of the Hellenists against the Hebrews, because were being overlooked in the distribution <the> daily the widows of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.42|<< Acts 5:42]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.2|Acts 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3778\|ταύταις]]  [[G4129\|πληθυνόντων]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G1096\|ἐγένετο]]  [[G1112\|γογγυσμὸς]]  [[G3588\|τῶν]]  [[G1675\|Ἑλληνιστῶν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G1445\|Ἑβραίους,]]  [[G3754H\|ὅτι]]  [[G3865\|παρεθεωροῦντο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1248\|διακονίᾳ]]  [[G3588\|τῇ]]  [[G2522\|καθημερινῇ]]  [[G3588\|αἱ]]  [[G5503\|χῆραι]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic DEACON|DEACON]] • [[topic HEBREW|HEBREW]] • [[topic POOR|POOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.42|<< Acts 5:42]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.2|Acts 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

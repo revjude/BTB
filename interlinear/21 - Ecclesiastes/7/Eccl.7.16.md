@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 7:16
+type: Verse
+kjv: "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?"
+bsb: "Do not be overly righteous, and do not make yourself too wise. Why should you destroy yourself?"
+hebrew: "אַל־ תְּהִ֤י צַדִּיק֙ הַרְבֵּ֔ה וְאַל־ תִּתְחַכַּ֖ם יוֹתֵ֑ר לָ֖מָּה תִּשּׁוֹמֵֽם׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H6662]]"
+- "[[H7235A]]"
+- "[[H9002]]"
+- "[[H2449]]"
+- "[[H3148]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H8074G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:16**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?
 <small><sub>**BSB:**</sub></small>
 Do not be overly righteous, and do not make yourself too wise. Why should you destroy yourself?
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִ֤י]] [[H6662\|צַדִּיק֙]] [[H7235A\|הַרְבֵּ֔ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2449\|תִּתְחַכַּ֖ם]] [[H3148\|יוֹתֵ֑ר]] [[H9005\|לָ֖]][[H4100\|מָּה]] [[H8074G\|תִּשּׁוֹמֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.15|<< Ecclesiastes 7:15]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.17|Ecclesiastes 7:17 >>]]</td></tr></table>
 

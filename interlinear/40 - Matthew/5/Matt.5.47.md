@@ -1,10 +1,64 @@
+---
+title: Matthew 5:47
+type: Verse
+kjv: "And if ye salute your brethren only, what do ye more than others? do not even the publicans so?"
+bsb: "And if you greet only your brothers, what are you doing more than others? Do not even Gentiles do the same?"
+jesus_said: "And if ye salute your brethren only, what do ye more than others? do not even the publicans so?"
+greek: "καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν;"
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G0782]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G3441]]"
+- "[[G5101]]"
+- "[[G4053]]"
+- "[[G4160G]]"
+- "[[G3780]]"
+- "[[G1482]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(O)
+- N(K)O
+- no
+---
+
 **Matthew 5:47**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if ye salute your brethren only, what do ye more [than others]? do not even the publicans so?
 <small><sub>**BSB:**</sub></small>
 And if you greet only your brothers, what are you doing more than others? Do not even Gentiles do the same?
-<small><sub>**Literal:**</sub></small>
-And if you shall greet the brothers of you only, what excessive do you? Surely also the Gentiles the same do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.46|<< Matthew 5:46]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.48|Matthew 5:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G0782\|ἀσπάσησθε]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G4771\|ὑμῶν]]  [[G3441\|μόνον,]]  [[G5101\|τί]]  [[G4053\|περισσὸν]]  [[G4160G\|ποιεῖτε;]]  [[G3780\|οὐχὶ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1482\|ἐθνικοὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G4160G\|ποιοῦσιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LOVE|LOVE]] • [[topic PUBLICANS|PUBLICANS]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.46|<< Matthew 5:46]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.48|Matthew 5:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

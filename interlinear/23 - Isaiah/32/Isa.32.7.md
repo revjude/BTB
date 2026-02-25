@@ -1,8 +1,67 @@
+---
+title: Isaiah 32:7
+type: Verse
+kjv: "The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right."
+bsb: "The weapons of the scoundrel are destructive; he hatches plots to destroy the poor with lies, even when the plea of the needy is just."
+hebrew: "וְכֵלַ֖י כֵּלָ֣יו רָעִ֑ים ה֚וּא זִמּ֣וֹת יָעָ֔ץ לְחַבֵּ֤ל עֲנִיִּים֙ בְּאִמְרֵי־ שֶׁ֔קֶר וּבְדַבֵּ֥ר אֶבְי֖וֹן מִשְׁפָּֽט׃"
+pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3596]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H7451H]]"
+- "[[H1931]]"
+- "[[H2154]]"
+- "[[H3289]]"
+- "[[H9005]]"
+- "[[H2254B]]"
+- "[[H6035]]"
+- "[[H6041]]"
+- "[[H9003]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H1696G]]"
+- "[[H0034]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 32:7**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The instruments also of the churl [are] evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
 <small><sub>**BSB:**</sub></small>
 The weapons of the scoundrel are destructive; he hatches plots to destroy the poor with lies, even when the plea of the needy is just.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3596\|כֵלַ֖י]] [[H3627\|כֵּלָ֣י]][[H9023\|ו]] [[H7451H\|רָעִ֑ים]] [[H1931\|ה֚וּא]] [[H2154\|זִמּ֣וֹת]] [[H3289\|יָעָ֔ץ]] [[H9005\|לְ]][[H2254B\|חַבֵּ֤ל]] [[H6041\|עֲנִיִּים֙]] [[H9003\|בְּ]][[H0561\|אִמְרֵי]][[H9014\|־]] [[H8267\|שֶׁ֔קֶר]] [[H9002\|וּ]][[H9003\|בְ]][[H1696G\|דַבֵּ֥ר]] [[H0034\|אֶבְי֖וֹן]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic POOR|POOR]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Listen and Hear
+type: Pericope
 pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 28
 book/chapter: "[[Isa.28|Isaiah 28]]"
-genre:
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.28.23]]"
 - "[[Isa.28.24]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.28.29]]"
 ---
 
-[[Isa.28|Isaiah 28:23 - Isaiah 28:29]]
+<small>[[Isa.28|Isaiah 28:23-29]]</small>
 *Listen and Hear*
 
 [[Isa.28.23|23]] Give ye ear, and hear my voice; hearken, and hear my speech.

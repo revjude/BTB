@@ -1,8 +1,62 @@
+---
+title: Psalm 78:53
+type: Verse
+kjv: "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies."
+bsb: "He led them safely, so they did not fear, but the sea engulfed their enemies."
+hebrew: "וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת־ א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6342]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H3680]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:53**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
 <small><sub>**BSB:**</sub></small>
 He led them safely, so they did not fear, but the sea engulfed their enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5148\|יַּנְחֵ֣]][[H9038\|ם]] [[H9005\|לָ֭]][[H0983\|בֶטַח]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6342\|פָחָ֑דוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0341\|א֝וֹיְבֵי]][[H9028\|הֶ֗ם]] [[H3680\|כִּסָּ֥ה]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RED SEA|RED SEA]] • [[topic SHEPHERD|SHEPHERD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.52|<< Psalms 78:52]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.54|Psalms 78:54 >>]]</td></tr></table>
 

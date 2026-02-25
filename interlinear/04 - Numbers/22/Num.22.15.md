@@ -1,8 +1,59 @@
+---
+title: Numbers 22:15
+type: Verse
+kjv: "And Balak sent yet again princes, more, and more honourable than they."
+bsb: "Then Balak sent other princes, more numerous and more distinguished than the first messengers."
+hebrew: "וַיֹּ֥סֶף ע֖וֹד בָּלָ֑ק שְׁלֹ֣חַ שָׂרִ֔ים רַבִּ֥ים וְנִכְבָּדִ֖ים מֵאֵֽלֶּה׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAK|BALAK]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H1111]]"
+- "[[H7971G]]"
+- "[[H8269]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H3513G]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:15**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak sent yet again princes, more, and more honourable than they.
 <small><sub>**BSB:**</sub></small>
 Then Balak sent other princes, more numerous and more distinguished than the first messengers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֥סֶף]] [[H5750\|ע֖וֹד]] [[H1111\|בָּלָ֑ק]] [[H7971G\|שְׁלֹ֣חַ]] [[H8269\|שָׂרִ֔ים]] [[H7227A\|רַבִּ֥ים]] [[H9002\|וְ]][[H3513G\|נִכְבָּדִ֖ים]] [[H9006\|מֵ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAK|BALAK]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.14|<< Numbers 22:14]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.16|Numbers 22:16 >>]]</td></tr></table>
 

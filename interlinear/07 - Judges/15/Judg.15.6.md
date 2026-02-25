@@ -1,8 +1,69 @@
+---
+title: Judges 15:6
+type: Verse
+kjv: "Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire."
+bsb: "“Who did this?” the Philistines demanded. “It was Samson, the son-in-law of the Timnite,” they were told. “For his wife was given to his companion.” So the Philistines went up and burned her and her father to death."
+hebrew: "וַיֹּאמְר֣וּ פְלִשְׁתִּים֮ מִ֣י עָ֣שָׂה זֹאת֒ וַיֹּאמְר֗וּ שִׁמְשׁוֹן֙ חֲתַ֣ן הַתִּמְנִ֔י כִּ֚י לָקַ֣ח אֶת־ אִשְׁתּ֔וֹ וַֽיִּתְּנָ֖הּ לְמֵרֵעֵ֑הוּ וַיַּעֲל֣וּ פְלִשְׁתִּ֔ים וַיִּשְׂרְפ֥וּ אוֹתָ֛הּ וְאֶת־ אָבִ֖יהָ בָּאֵֽשׁ׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6430G]]"
+- "[[H4310]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H8123]]"
+- "[[H2860]]"
+- "[[H9009]]"
+- "[[H8554]]"
+- "[[H3588A]]"
+- "[[H3947I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H5414O]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H4828]]"
+- "[[H5927G]]"
+- "[[H8313]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:6**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire.
 <small><sub>**BSB:**</sub></small>
 “Who did this?” the Philistines demanded. “It was Samson, the son-in-law of the Timnite,” they were told. “For his wife was given to his companion.” So the Philistines went up and burned her and her father to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H6430G\|פְלִשְׁתִּים֮]] [[H4310\|מִ֣י]] [[H6213A\|עָ֣שָׂה]] [[H2063\|זֹאת֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H8123\|שִׁמְשׁוֹן֙]] [[H2860\|חֲתַ֣ן]] [[H9009\|הַ]][[H8554\|תִּמְנִ֔י]] [[H3588A\|כִּ֚י]] [[H3947I\|לָקַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H5414O\|יִּתְּנָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H4828\|מֵרֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וַ]][[H5927G\|יַּעֲל֣וּ]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H9001\|וַ]][[H8313\|יִּשְׂרְפ֥וּ]] [[H0853\|אוֹתָ֛]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9024\|הָ]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMSON|SAMSON]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.5|<< Judges 15:5]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.7|Judges 15:7 >>]]</td></tr></table>
 

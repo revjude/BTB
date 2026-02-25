@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 6:18
+type: Verse
+kjv: "But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have built!"
+bsb: "But will God indeed dwell with man upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built."
+hebrew: "כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֧ב אֱלֹהִ֛ים אֶת־ הָאָדָ֖ם עַל־ הָאָ֑רֶץ הִ֠נֵּה שָׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֙יִם֙ לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי־ הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9008]]"
+- "[[H0552]]"
+- "[[H3427]]"
+- "[[H0430G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H2009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3557]]"
+- "[[H9031]]"
+- "[[H0637]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:18**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have built!
 <small><sub>**BSB:**</sub></small>
 But will God indeed dwell with man upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H9008\|הַֽ]][[H0552\|אֻמְנָ֔ם]] [[H3427\|יֵשֵׁ֧ב]] [[H0430G\|אֱלֹהִ֛ים]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H2009\|הִ֠נֵּה]] [[H8064\|שָׁמַ֜יִם]] [[H9002\|וּ]][[H8064\|שְׁמֵ֤י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H3808\|לֹ֣א]] [[H3557\|יְכַלְכְּל֔וּ]][[H9031\|ךָ]] [[H0637\|אַ֕ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.17|<< 2 Chronicles 6:17]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.19|2 Chronicles 6:19 >>]]</td></tr></table>
 

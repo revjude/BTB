@@ -1,10 +1,56 @@
+---
+title: James 1:22
+type: Verse
+kjv: "But be ye doers of the word, and not hearers only, deceiving your own selves."
+bsb: "Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves."
+greek: "Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ μόνον ἀκροαταὶ παραλογιζόμενοι ἑαυτούς."
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOER|DOER]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4163]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3441]]"
+- "[[G0202]]"
+- "[[G3884]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **James 1:22**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But be ye doers of the word, and not hearers only, deceiving your own selves.
 <small><sub>**BSB:**</sub></small>
 Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves.
-<small><sub>**Literal:**</sub></small>
-do be however doers of [the] word and not only hearers deceiving yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.21|<< James 1:21]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.23|James 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Γίνεσθε]]  [[G1161\|δὲ]]  [[G4163\|ποιηταὶ]]  [[G3056\|λόγου]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3441\|μόνον]]  [[G0202\|ἀκροαταὶ]]  [[G3884\|παραλογιζόμενοι]]  [[G1438\|ἑαυτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOER|DOER]] • [[topic HEARERS|HEARERS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.21|<< James 1:21]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.23|James 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

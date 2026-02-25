@@ -1,8 +1,49 @@
+---
+title: Job 39:3
+type: Verse
+kjv: "They bow themselves, they bring forth their young ones, they cast out their sorrows."
+bsb: "They crouch down and bring forth their young; they deliver their newborn."
+hebrew: "תִּ֭כְרַעְנָה יַלְדֵיהֶ֣ן תְּפַלַּ֑חְנָה חֶבְלֵיהֶ֥ם תְּשַׁלַּֽחְנָה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3766]]"
+- "[[H3206]]"
+- "[[H9029]]"
+- "[[H6398]]"
+- "[[H2256B]]"
+- "[[H9028]]"
+- "[[H7971H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:3**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They bow themselves, they bring forth their young ones, they cast out their sorrows.
 <small><sub>**BSB:**</sub></small>
 They crouch down and bring forth their young; they deliver their newborn.
+<small><sub>**Hebrew:**</sub></small>
+[[H3766\|תִּ֭כְרַעְנָה]] [[H3206\|יַלְדֵי]][[H9029\|הֶ֣ן]] [[H6398\|תְּפַלַּ֑חְנָה]] [[H2256B\|חֶבְלֵי]][[H9028\|הֶ֥ם]] [[H7971H\|תְּשַׁלַּֽחְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.2|<< Job 39:2]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.4|Job 39:4 >>]]</td></tr></table>
 

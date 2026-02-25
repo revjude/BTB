@@ -1,8 +1,69 @@
+---
+title: Genesis 31:5
+type: Verse
+kjv: "And said unto them, I see your father’s countenance, that it is not toward me as before; but the God of my father hath been with me."
+bsb: "and he told them, “I can see from your father’s countenance that his attitude toward me has changed; but the God of my father has been with me."
+hebrew: "וַיֹּ֣אמֶר לָהֶ֗ן רֹאֶ֤ה אָנֹכִי֙ אֶת־ פְּנֵ֣י אֲבִיכֶ֔ן כִּֽי־ אֵינֶ֥נּוּ אֵלַ֖י כִּתְמֹ֣ל שִׁלְשֹׁ֑ם וֵֽאלֹהֵ֣י אָבִ֔י הָיָ֖ה עִמָּדִֽי׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H7200G]]"
+- "[[H0595]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H0001G]]"
+- "[[H9027]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H5978]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:5**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto them, I see your father’s countenance, that it [is] not toward me as before; but the God of my father hath been with me.
 <small><sub>**BSB:**</sub></small>
 and he told them, “I can see from your father’s countenance that his attitude toward me has changed; but the God of my father has been with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9039\|הֶ֗ן]] [[H7200G\|רֹאֶ֤ה]] [[H0595\|אָנֹכִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H0001G\|אֲבִי]][[H9027\|כֶ֔ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9004\|כִּ]][[H8543\|תְמֹ֣ל]] [[H8032\|שִׁלְשֹׁ֑ם]] [[H9002\|וֵֽ]][[H0430G\|אלֹהֵ֣י]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H1961\|הָיָ֖ה]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.4|<< Genesis 31:4]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.6|Genesis 31:6 >>]]</td></tr></table>
 

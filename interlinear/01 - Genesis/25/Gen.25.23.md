@@ -1,8 +1,71 @@
+---
+title: Genesis 25:23
+type: Verse
+kjv: "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+bsb: "and He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה לָ֗הּ שְׁנֵ֤י גוֹיִם֙ בְּבִטְנֵ֔ךְ וּשְׁנֵ֣י לְאֻמִּ֔ים מִמֵּעַ֖יִךְ יִפָּרֵ֑דוּ וּלְאֹם֙ מִלְאֹ֣ם יֶֽאֱמָ֔ץ וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H8147]]"
+- "[[H1471A]]"
+- "[[H9003]]"
+- "[[H0990H]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H3816]]"
+- "[[H9006]]"
+- "[[H4578]]"
+- "[[H6504]]"
+- "[[H0553]]"
+- "[[H7227A]]"
+- "[[H5647G]]"
+- "[[H6810]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 25:23**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto her, Two nations [are] in thy womb, and two manner of people shall be separated from thy bowels; and [the one] people shall be stronger than [the other] people; and the elder shall serve the younger.
 <small><sub>**BSB:**</sub></small>
 and He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לָ֗]][[H9034\|הּ]] [[H8147\|שְׁנֵ֤י]] [[H1471A\|גוֹיִם֙]] [[H9003\|בְּ]][[H0990H\|בִטְנֵ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H8147\|שְׁנֵ֣י]] [[H3816\|לְאֻמִּ֔ים]] [[H9006\|מִ]][[H4578\|מֵּעַ֖יִ]][[H9022\|ךְ]] [[H6504\|יִפָּרֵ֑דוּ]] [[H9002\|וּ]][[H3816\|לְאֹם֙]] [[H9006\|מִ]][[H3816\|לְאֹ֣ם]] [[H0553\|יֶֽאֱמָ֔ץ]] [[H9002\|וְ]][[H7227A\|רַ֖ב]] [[H5647G\|יַעֲבֹ֥ד]] [[H6810\|צָעִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.22|<< Genesis 25:22]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.24|Genesis 25:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

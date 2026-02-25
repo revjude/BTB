@@ -7,7 +7,7 @@
 
 - Prophecy concerning [[Gen.49.27|Ge 49:27]]
 
-- Descendants of [[Gen.46.21|Ge 46:21]]; [[Num.26.38|Nu 26:38]]-[[Num.26.41|41]]
+- Descendants of [[Gen.46.21|Ge 46:21]]; [[Num.26.38|Nu 26:38-41]]
 
 2. TRIBE OF
 
@@ -17,13 +17,13 @@ Census of
 
 - On the plain of Moab [[Num.26.41|Nu 26:41]]
 
-- Clans of [[Num.26.38|Nu 26:38]]-[[Num.26.40|40]]; [[1Chr.7.6|1Ch 7:6]]-[[1Chr.7.12|12]]; [[1Chr.8|8]]
+- Clans of [[Num.26.38|Nu 26:38-40]]; [[1Chr.7.6|1Ch 7:6-12]]; [[1Chr.8|8]]
 
 - Position of, in camp and march [[Num.2.18|Nu 2:18]],[[Num.2.22|22]]
 
 - Moses' benediction upon [[Deut.32.12|De 32:12]]
 
-- Allotment in the land of Canaan [[Josh.18.11|Jos 18:11]]-[[Josh.18.28|28]]
+- Allotment in the land of Canaan [[Josh.18.11|Jos 18:11-28]]
 
 - Reallotment [[Ezek.48.23|Eze 48:23]]
 

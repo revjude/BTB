@@ -1,8 +1,71 @@
+---
+title: Psalm 51:4
+type: Verse
+kjv: "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest."
+bsb: "Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge."
+hebrew: "לְךָ֤ לְבַדְּךָ֨׀ חָטָאתִי֮ וְהָרַ֥ע בְּעֵינֶ֗יךָ עָ֫שִׂ֥יתִי לְ֭מַעַן תִּצְדַּ֥ק בְּדָבְרֶ֗ךָ תִּזְכֶּ֥ה בְשָׁפְטֶֽךָ׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0905H]]"
+- "[[H9015]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H6663]]"
+- "[[H1696I]]"
+- "[[H9041]]"
+- "[[H2135]]"
+- "[[H8199]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:4**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest.
 <small><sub>**BSB:**</sub></small>
 Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9031\|ךָ֤]] [[H9005\|לְ]][[H0905H\|בַדְּ]][[H9031\|ךָ֨]][[H9015\|׀]] [[H2398\|חָטָאתִי֮]] [[H9002\|וְ]][[H9009\|הָ]][[H7451H\|רַ֥ע]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֗י]][[H9021\|ךָ]] [[H6213A\|עָ֫שִׂ֥יתִי]] [[H4616\|לְ֭מַעַן]] [[H6663\|תִּצְדַּ֥ק]] [[H9003\|בְּ]][[H1696I\|דָבְרֶ֗]][[H9041\|ךָ]] [[H2135\|תִּזְכֶּ֥ה]] [[H9003\|בְ]][[H8199\|שָׁפְטֶֽ]][[H9041\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic DESIRE|DESIRE]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.3|<< Psalms 51:3]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.5|Psalms 51:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

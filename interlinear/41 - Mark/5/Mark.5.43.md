@@ -1,10 +1,54 @@
+---
+title: Mark 5:43
+type: Verse
+kjv: "And he charged them straitly that no man should know it; and commanded that something should be given her to eat."
+bsb: "Then Jesus gave strict orders that no one should know about this, and He told them to give her something to eat."
+greek: "καὶ διεστείλατο αὐτοῖς πολλὰ ἵνα μηδεὶς γνοῖ τοῦτο, καὶ εἶπεν δοθῆναι αὐτῇ φαγεῖν.¶"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1291]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G2443]]"
+- "[[G3367]]"
+- "[[G1097]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1325]]"
+- "[[G5315]]"
+texts:
+- NKO
+---
+
 **Mark 5:43**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
 <small><sub>**BSB:**</sub></small>
 Then Jesus gave strict orders that no one should know about this, and He told them to give her something to eat.
-<small><sub>**Literal:**</sub></small>
-And He instructed to them strictly that no one may know this, and He commanded to be given to her to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.42|<< Mark 5:42]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.1|Mark 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1291\|διεστείλατο]]  [[G0846\|αὐτοῖς]]  [[G4183\|πολλὰ]]  [[G2443\|ἵνα]]  [[G3367\|μηδεὶς]]  [[G1097\|γνοῖ]]  [[G3778\|τοῦτο,]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G1325\|δοθῆναι]]  [[G0846\|αὐτῇ]]  [[G5315\|φαγεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.42|<< Mark 5:42]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.1|Mark 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

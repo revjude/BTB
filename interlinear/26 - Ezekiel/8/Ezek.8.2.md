@@ -1,8 +1,64 @@
+---
+title: Ezekiel 8:2
+type: Verse
+kjv: "Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber."
+bsb: "Then I looked and saw a figure like that of a man. From His waist down His appearance was like fire, and from His waist up He was as bright as the gleam of amber."
+hebrew: "וָאֶרְאֶ֗ה וְהִנֵּ֤ה דְמוּת֙ כְּמַרְאֵה־ אֵ֔שׁ מִמַּרְאֵ֥ה מָתְנָ֛יו וּלְמַ֖טָּה אֵ֑שׁ וּמִמָּתְנָ֣יו וּלְמַ֔עְלָה כְּמַרְאֵה־ זֹ֖הַר כְּעֵ֥ין הַחַשְׁמַֽלָה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMBER|AMBER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1823]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H4975]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H2096]]"
+- "[[H5869I]]"
+- "[[H9009]]"
+- "[[H2830]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:2**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw a figure like that of a man. From His waist down His appearance was like fire, and from His waist up He was as bright as the gleam of amber.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֶרְאֶ֗ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H1823\|דְמוּת֙]] [[H9004\|כְּ]][[H4758\|מַרְאֵה]][[H9014\|־]] [[H0784\|אֵ֔שׁ]] [[H9006\|מִ]][[H4758\|מַּרְאֵ֥ה]] [[H4975\|מָתְנָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H4295\|מַ֖טָּה]] [[H0784\|אֵ֑שׁ]] [[H9002\|וּ]][[H9006\|מִ]][[H4975\|מָּתְנָ֣י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9004\|כְּ]][[H4758\|מַרְאֵה]][[H9014\|־]] [[H2096\|זֹ֖הַר]] [[H9004\|כְּ]][[H5869I\|עֵ֥ין]] [[H9009\|הַ]][[H2830\|חַשְׁמַֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBER|AMBER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.1|<< Ezekiel 8:1]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.3|Ezekiel 8:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

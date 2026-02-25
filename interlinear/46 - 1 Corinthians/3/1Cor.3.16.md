@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 3:16
+type: Verse
+kjv: "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"
+bsb: "Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?"
+greek: "Οὐκ οἴδατε ὅτι ναὸς θεοῦ ἐστε, καὶ τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν;"
+pericope: "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3485]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3611]]"
+- "[[G1722]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:16**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye not that ye are the temple of God, and [that] the Spirit of God dwelleth in you?
 <small><sub>**BSB:**</sub></small>
 Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?
-<small><sub>**Literal:**</sub></small>
-Surely you know that temple of God you yourselves are, and the Spirit <the> of God dwells in you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.15|<< 1 Corinthians 3:15]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.17|1 Corinthians 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐκ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G3485\|ναὸς]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστε,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3611\|οἰκεῖ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.15|<< 1 Corinthians 3:15]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.17|1 Corinthians 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

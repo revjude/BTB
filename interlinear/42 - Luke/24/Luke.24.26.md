@@ -1,10 +1,58 @@
+---
+title: Luke 24:26
+type: Verse
+kjv: "Ought not Christ to have suffered these things, and to enter into his glory?"
+bsb: "Was it not necessary for the Christ to suffer these things and then to enter His glory?”"
+jesus_said: "Ought not Christ to have suffered these things, and to enter into his glory?"
+greek: "οὐχὶ ταῦτα ἔδει παθεῖν τὸν χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;"
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3780]]"
+- "[[G3778]]"
+- "[[G1163]]"
+- "[[G3958]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G1391]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 24:26**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ought not Christ to have suffered these things, and to enter into his glory?
 <small><sub>**BSB:**</sub></small>
 Was it not necessary for the Christ to suffer these things and then to enter His glory?”
-<small><sub>**Literal:**</sub></small>
-Surely these things it was necessary for to suffer the Christ and to enter into the glory of Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.25|<< Luke 24:25]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.27|Luke 24:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχὶ]]  [[G3778\|ταῦτα]]  [[G1163\|ἔδει]]  [[G3958\|παθεῖν]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic SUFFERING|SUFFERING]] • [[topic TROUBLE|TROUBLE]] • [[topic TYPES|TYPES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.25|<< Luke 24:25]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.27|Luke 24:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

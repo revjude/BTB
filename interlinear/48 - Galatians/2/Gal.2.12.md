@@ -1,10 +1,63 @@
+---
+title: Galatians 2:12
+type: Verse
+kjv: "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision."
+bsb: "For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group."
+greek: "πρὸ τοῦ γὰρ ἐλθεῖν τινας ἀπὸ Ἰακώβου μετὰ τῶν ἐθνῶν συνήσθιεν· ὅτε δὲ ἦλθον, ὑπέστελλεν καὶ ἀφώριζεν ἑαυτὸν φοβούμενος τοὺς ἐκ περιτομῆς·"
+pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+strongs:
+- "[[G4253]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G5100]]"
+- "[[G0575]]"
+- "[[G2385I]]"
+- "[[G3326]]"
+- "[[G1484]]"
+- "[[G4906]]"
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G5288]]"
+- "[[G2532]]"
+- "[[G0873]]"
+- "[[G1438]]"
+- "[[G5399]]"
+- "[[G1537]]"
+- "[[G4061]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Galatians 2:12**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
 <small><sub>**BSB:**</sub></small>
 For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group.
-<small><sub>**Literal:**</sub></small>
-Before <the> for to come certain ones from James with the Gentiles he was eating; when however they came, he was drawing back and he was separating himself being afraid of those of [the] circumcision;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.11|<< Galatians 2:11]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.13|Galatians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G1063\|γὰρ]]  [[G2064\|ἐλθεῖν]]  [[G5100\|τινας]]  [[G0575\|ἀπὸ]]  [[G2385I\|Ἰακώβου]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G4906\|συνήσθιεν·]]  [[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G2064\|ἦλθον,]]  [[G5288\|ὑπέστελλεν]]  [[G2532\|καὶ]]  [[G0873\|ἀφώριζεν]]  [[G1438\|ἑαυτὸν]]  [[G5399\|φοβούμενος]]  [[G3588\|τοὺς]]  [[G1537\|ἐκ]]  [[G4061\|περιτομῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic COWARDICE|COWARDICE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAMES|JAMES]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.11|<< Galatians 2:11]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.13|Galatians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

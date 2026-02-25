@@ -1,10 +1,50 @@
+---
+title: Romans 12:9
+type: Verse
+kjv: "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good."
+bsb: "Love must be sincere. Detest what is evil; cling to what is good."
+greek: "Ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ·"
+pericope: "[[Rom.12.9 Love, Zeal, Hope, Hospitality|Love, Zeal, Hope, Hospitality]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SINCERITY|SINCERITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G0505]]"
+- "[[G0655]]"
+- "[[G4190]]"
+- "[[G2853]]"
+- "[[G0018]]"
+texts:
+- NKO
+---
+
 **Romans 12:9**<big><big>[[Rom.12.9 Love, Zeal, Hope, Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Let] love be without dissimulation. Abhor that which is evil; cleave to that which is good.
 <small><sub>**BSB:**</sub></small>
 Love must be sincere. Detest what is evil; cling to what is good.
-<small><sub>**Literal:**</sub></small>
-<the> [Let] love [be] unfeigned. abhorring <the> evil, cleaving to <the> good;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.8|<< Romans 12:8]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.10|Romans 12:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G0026\|ἀγάπη]]  [[G0505\|ἀνυπόκριτος.]]  [[G0655\|ἀποστυγοῦντες]]  [[G3588\|τὸ]]  [[G4190\|πονηρόν,]]  [[G2853\|κολλώμενοι]]  [[G3588\|τῷ]]  [[G0018\|ἀγαθῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic RELIGION|RELIGION]] • [[topic SINCERITY|SINCERITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.8|<< Romans 12:8]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.10|Romans 12:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 12:9** is...
 > $\quad$ alluding to: [[LXX.Amos.5.15|Amos 5:15]]

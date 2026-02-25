@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Five Thousand
+type: Pericope
 pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: John
 chapter: 6
 book/chapter: "[[John.6|John 6]]"
-genre:
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 15
 verses:
 - "[[John.6.1]]"
 - "[[John.6.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[John.6.15]]"
 ---
 
-[[John.6|John 6:1 - John 6:15]]
+<small>[[John.6|John 6:1-15]]</small>
 *The Feeding of the Five Thousand*
 
 [[John.6.1|1]] After these things Jesus went over the sea of Galilee, which is \[the sea\] of Tiberias.

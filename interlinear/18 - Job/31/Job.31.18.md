@@ -1,8 +1,58 @@
+---
+title: Job 31:18
+type: Verse
+kjv: "(For from my youth he was brought up with me, as with a father, and I have guided her from my mother’s womb;)"
+bsb: "though from my youth I reared him as would a father, and from my mother’s womb I guided the widow—"
+hebrew: "כִּ֣י מִ֭נְּעוּרַי גְּדֵלַ֣נִי כְאָ֑ב וּמִבֶּ֖טֶן אִמִּ֣י אַנְחֶֽנָּה׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H9020]]"
+- "[[H1431]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H5148]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:18**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For from my youth he was brought up with me, as [with] a father, and I have guided her from my mother’s womb;)
 <small><sub>**BSB:**</sub></small>
 though from my youth I reared him as would a father, and from my mother’s womb I guided the widow—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9006\|מִ֭]][[H5271A\|נְּעוּרַ]][[H9020\|י]] [[H1431\|גְּדֵלַ֣]][[H9030\|נִי]] [[H9004\|כְ]][[H0001G\|אָ֑ב]] [[H9002\|וּ]][[H9006\|מִ]][[H0990H\|בֶּ֖טֶן]] [[H0517\|אִמִּ֣]][[H9020\|י]] [[H5148\|אַנְחֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.17|<< Job 31:17]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.19|Job 31:19 >>]]</td></tr></table>
 

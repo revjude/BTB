@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 13:6
+type: Verse
+kjv: "So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand."
+bsb: "So Amnon lay down and feigned illness. When the king came to see him, Amnon said, “Please let my sister Tamar come and make a couple of cakes in my sight, so that I may eat from her hand.”"
+hebrew: "וַיִּשְׁכַּ֥ב אַמְנ֖וֹן וַיִּתְחָ֑ל וַיָּבֹ֨א הַמֶּ֜לֶךְ לִרְאֹת֗וֹ וַיֹּ֨אמֶר אַמְנ֤וֹן אֶל־ הַמֶּ֙לֶךְ֙ תָּֽבוֹא־ נָ֞א תָּמָ֣ר אֲחֹתִ֗י וּתְלַבֵּ֤ב לְעֵינַי֙ שְׁתֵּ֣י לְבִב֔וֹת וְאֶבְרֶ֖ה מִיָּדָֽהּ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901G]]"
+- "[[H0550G]]"
+- "[[H2470H]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H8559H]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3823B]]"
+- "[[H5869H]]"
+- "[[H8147]]"
+- "[[H3834]]"
+- "[[H1262]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:6**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
 <small><sub>**BSB:**</sub></small>
 So Amnon lay down and feigned illness. When the king came to see him, Amnon said, “Please let my sister Tamar come and make a couple of cakes in my sight, so that I may eat from her hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֥ב]] [[H0550G\|אַמְנ֖וֹן]] [[H9001\|וַ]][[H2470H\|יִּתְחָ֑ל]] [[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לִ]][[H7200G\|רְאֹת֗]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0550G\|אַמְנ֤וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0935G\|תָּֽבוֹא]][[H9014\|־]] [[H4994\|נָ֞א]] [[H8559H\|תָּמָ֣ר]] [[H0269\|אֲחֹתִ֗]][[H9020\|י]] [[H9002\|וּ]][[H3823B\|תְלַבֵּ֤ב]] [[H9005\|לְ]][[H5869H\|עֵינַ]][[H9020\|י֙]] [[H8147\|שְׁתֵּ֣י]] [[H3834\|לְבִב֔וֹת]] [[H9002\|וְ]][[H1262\|אֶבְרֶ֖ה]] [[H9006\|מִ]][[H3027G\|יָּדָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BREAD|BREAD]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.5|<< 2 Samuel 13:5]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.7|2 Samuel 13:7 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 37:40
+type: Verse
+kjv: "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him."
+bsb: "The LORD helps and delivers them; He rescues and saves them from the wicked, because they take refuge in Him."
+hebrew: "וַֽיַּעְזְרֵ֥ם יְהוָ֗ה וַֽיְפַ֫לְּטֵ֥ם יְפַלְּטֵ֣ם מֵ֭רְשָׁעִים וְיוֹשִׁיעֵ֑ם כִּי־ חָ֥סוּ בֽוֹ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5826]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H6403]]"
+- "[[H9006]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:40**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.
 <small><sub>**BSB:**</sub></small>
 The LORD helps and delivers them; He rescues and saves them from the wicked, because they take refuge in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5826\|יַּעְזְרֵ֥]][[H9038\|ם]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַֽ]][[H6403\|יְפַ֫לְּטֵ֥]][[H9038\|ם]] [[H6403\|יְפַלְּטֵ֣]][[H9038\|ם]] [[H9006\|מֵ֭]][[H7563\|רְשָׁעִים]] [[H9002\|וְ]][[H3467\|יוֹשִׁיעֵ֑]][[H9038\|ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H2620\|חָ֥סוּ]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.39|<< Psalms 37:39]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.0|Psalms 38:0 >>]]</td></tr></table>
 

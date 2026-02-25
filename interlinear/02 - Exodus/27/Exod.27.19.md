@@ -1,8 +1,60 @@
+---
+title: Exodus 27:19
+type: Verse
+kjv: "All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass."
+bsb: "All the utensils of the tabernacle for every use, including all its tent pegs and the tent pegs of the courtyard, shall be made of bronze."
+hebrew: "לְכֹל֙ כְּלֵ֣י הַמִּשְׁכָּ֔ן בְּכֹ֖ל עֲבֹדָת֑וֹ וְכָל־ יְתֵדֹתָ֛יו וְכָל־ יִתְדֹ֥ת הֶחָצֵ֖ר נְחֹֽשֶׁת׃ ס"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H9003]]"
+- "[[H5656H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3489]]"
+- "[[H2691A]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 27:19**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, [shall be of] brass.
 <small><sub>**BSB:**</sub></small>
 All the utensils of the tabernacle for every use, including all its tent pegs and the tent pegs of the courtyard, shall be made of bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3605\|כֹל֙]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֔ן]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H5656H\|עֲבֹדָת֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3489\|יְתֵדֹתָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3489\|יִתְדֹ֥ת]] [[H9009\|הֶ]][[H2691A\|חָצֵ֖ר]] [[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.18|<< Exodus 27:18]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.20|Exodus 27:20 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ All the utensils of the tabernacle for every use, including all its tent pegs an
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tent pegs of  |**<big>&#8207;[[H3489\|יִתְדֹ֥ת]]&#8207; </big>**| yit.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2691A\|חָצֵ֖ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] bronze  |**<big>&#8207;[[H5178A\|נְחֹֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] bronze  |**<big>&#8207;[[H5178A\|נְחֹֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.18|<< Exodus 27:18]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.20|Exodus 27:20 >>]]</td></tr></table>
 
 

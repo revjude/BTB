@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Appeal for Onesimus
+type: Pericope
 pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Philemon
 chapter: 1
 book/chapter: "[[Phlm.1|Philemon 1]]"
-genre:
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - personal letter
+verse_count: 15
 verses:
 - "[[Phlm.1.8]]"
 - "[[Phlm.1.9]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Phlm.1.22]]"
 ---
 
-[[Phlm.1|Philemon 1:8 - Philemon 1:22]]
+<small>[[Phlm.1|Philemon 1:8-22]]</small>
 *Paul’s Appeal for Onesimus*
 
 [[Phlm.1.8|8]] Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,

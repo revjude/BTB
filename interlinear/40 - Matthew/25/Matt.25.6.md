@@ -1,10 +1,67 @@
+---
+title: Matthew 25:6
+type: Verse
+kjv: "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+bsb: "At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’"
+jesus_said: "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+greek: "Μέσης δὲ νυκτὸς κραυγὴ γέγονεν· ἰδοὺ ὁ νυμφίος ἔρχεται, ἐξέρχεσθε εἰς ἀπάντησιν αὐτοῦ."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3319]]"
+- "[[G1161]]"
+- "[[G3571]]"
+- "[[G2906]]"
+- "[[G1096]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3566]]"
+- "[[G2064]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G0529]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:6**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.
 <small><sub>**BSB:**</sub></small>
 At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’
-<small><sub>**Literal:**</sub></small>
-At middle then of [the] night a cry there was: Behold the bridegroom comes do go forth to meet him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.5|<< Matthew 25:5]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.7|Matthew 25:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3319\|Μέσης]]  [[G1161\|δὲ]]  [[G3571\|νυκτὸς]]  [[G2906\|κραυγὴ]]  [[G1096\|γέγονεν·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος]]  [[G2064\|ἔρχεται,]]  [[G1831\|ἐξέρχεσθε]]  [[G1519\|εἰς]]  [[G0529\|ἀπάντησιν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.5|<< Matthew 25:5]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.7|Matthew 25:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

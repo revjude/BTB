@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ Our Foundation
+type: Pericope
 pericope: "[[1Cor.3.10 Christ Our Foundation|Christ Our Foundation]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 3
 book/chapter: "[[1Cor.3|1 Corinthians 3]]"
-genre:
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[1Cor.3.10]]"
 - "[[1Cor.3.11]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Cor.3.15]]"
 ---
 
-[[1Cor.3|1 Corinthians 3:10 - 1 Corinthians 3:15]]
+<small>[[1Cor.3|1 Corinthians 3:10-15]]</small>
 *Christ Our Foundation*
 
 [[1Cor.3.10|10]] According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon.

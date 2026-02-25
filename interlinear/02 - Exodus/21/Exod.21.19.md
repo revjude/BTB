@@ -1,8 +1,66 @@
+---
+title: Exodus 21:19
+type: Verse
+kjv: "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed."
+bsb: "then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed."
+hebrew: "אִם־ יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־ מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃ ס"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H5921A]]"
+- "[[H4938B]]"
+- "[[H9023]]"
+- "[[H5352]]"
+- "[[H9009]]"
+- "[[H5221]]"
+- "[[H7535]]"
+- "[[H7674]]"
+- "[[H5414N]]"
+- "[[H9002]]"
+- "[[H7495]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 21:19**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he rise again, and walk abroad upon his staff, then shall he that smote [him] be quit: only he shall pay [for] the loss of his time, and shall cause [him] to be thoroughly healed.
 <small><sub>**BSB:**</sub></small>
 then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6965B\|יָק֞וּם]] [[H9001\|וְ]][[H1980I\|הִתְהַלֵּ֥ךְ]] [[H9003\|בַּ]][[H2351\|ח֛וּץ]] [[H5921A\|עַל]][[H9014\|־]] [[H4938B\|מִשְׁעַנְתּ֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H5352\|נִקָּ֣ה]] [[H9009\|הַ]][[H5221\|מַּכֶּ֑ה]] [[H7535\|רַ֥ק]] [[H7674\|שִׁבְתּ֛]][[H9023\|וֹ]] [[H5414N\|יִתֵּ֖ן]] [[H9002\|וְ]][[H7495\|רַפֹּ֥א]] [[H7495\|יְרַפֵּֽא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
@@ -20,7 +78,7 @@ then the one who struck him shall go unpunished, as long as the other can get up
 | sitting still his  |**<big>&#8207;[[H7674\|שִׁבְתּ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| shiv.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will pay for  |**<big>&#8207;[[H5414N\|יִתֵּ֖ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and certainly \<to heal>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7495\|רַפֹּ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Po'<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will have [him] healed  |**<big>&#8207;[[H7495\|יְרַפֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ra.Pe'<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will have [him] healed  |**<big>&#8207;[[H7495\|יְרַפֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ra.Pe'<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.18|<< Exodus 21:18]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.20|Exodus 21:20 >>]]</td></tr></table>
 
 

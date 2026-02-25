@@ -1,8 +1,71 @@
+---
+title: Isaiah 57:8
+type: Verse
+kjv: "Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it."
+bsb: "Behind the door and doorpost you have set up your memorial. Forsaking Me, you uncovered your bed; you climbed up and opened it wide. And you have made a pact with those whose bed you have loved; you have gazed upon their nakedness."
+hebrew: "וְאַחַ֤ר הַדֶּ֙לֶת֙ וְהַמְּזוּזָ֔ה שַׂ֖מְתְּ זִכְרוֹנֵ֑ךְ כִּ֣י מֵאִתִּ֞י גִּלִּ֣ית וַֽתַּעֲלִ֗י הִרְחַ֤בְתְּ מִשְׁכָּבֵךְ֙ וַתִּכְרָת־ לָ֣ךְ מֵהֶ֔ם אָהַ֥בְתְּ מִשְׁכָּבָ֖ם יָ֥ד חָזִֽית׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1817C]]"
+- "[[H4201]]"
+- "[[H7760A]]"
+- "[[H2146]]"
+- "[[H9022]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H1540I]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H7337]]"
+- "[[H4904]]"
+- "[[H3772H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9038]]"
+- "[[H0157G]]"
+- "[[H9028]]"
+- "[[H3027N]]"
+- "[[H2372]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:8**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered [thyself to another] than me, and art gone up; thou hast enlarged thy bed, and made thee [a covenant] with them; thou lovedst their bed where thou sawest [it].
 <small><sub>**BSB:**</sub></small>
 Behind the door and doorpost you have set up your memorial. Forsaking Me, you uncovered your bed; you climbed up and opened it wide. And you have made a pact with those whose bed you have loved; you have gazed upon their nakedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֤ר]] [[H9009\|הַ]][[H1817C\|דֶּ֙לֶת֙]] [[H9002\|וְ]][[H9009\|הַ]][[H4201\|מְּזוּזָ֔ה]] [[H7760A\|שַׂ֖מְתְּ]] [[H2146\|זִכְרוֹנֵ֑]][[H9022\|ךְ]] [[H3588A\|כִּ֣י]] [[H9006\|מֵ]][[H0854\|אִתִּ֞]][[H9030\|י]] [[H1540I\|גִּלִּ֣ית]] [[H9001\|וַֽ]][[H5927G\|תַּעֲלִ֗י]] [[H7337\|הִרְחַ֤בְתְּ]] [[H4904\|מִשְׁכָּבֵ]][[H9022\|ךְ֙]] [[H9001\|וַ]][[H3772H\|תִּכְרָת]][[H9014\|־]] [[H9005\|לָ֣]][[H9032\|ךְ]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H0157G\|אָהַ֥בְתְּ]] [[H4904\|מִשְׁכָּבָ֖]][[H9028\|ם]] [[H3027N\|יָ֥ד]] [[H2372\|חָזִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.7|<< Isaiah 57:7]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.9|Isaiah 57:9 >>]]</td></tr></table>
 

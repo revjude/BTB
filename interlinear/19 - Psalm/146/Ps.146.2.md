@@ -1,8 +1,53 @@
+---
+title: Psalm 146:2
+type: Verse
+kjv: "While I live will I praise the LORD: I will sing praises unto my God while I have any being."
+bsb: "I will praise the LORD all my life; I will sing praises to my God while I have my being."
+hebrew: "אֲהַלְלָ֣ה יְהוָ֣ה בְּחַיָּ֑י אֲזַמְּרָ֖ה לֵֽאלֹהַ֣י בְּעוֹדִֽי׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1984B]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H2167]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:2**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While I live will I praise the LORD: I will sing praises unto my God while I have any being.
 <small><sub>**BSB:**</sub></small>
 I will praise the LORD all my life; I will sing praises to my God while I have my being.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|אֲהַלְלָ֣ה]] [[H3068G\|יְהוָ֣ה]] [[H9003\|בְּ]][[H2416E\|חַיָּ֑]][[H9020\|י]] [[H2167\|אֲזַמְּרָ֖ה]] [[H9005\|לֵֽ]][[H0430G\|אלֹהַ֣]][[H9020\|י]] [[H9003\|בְּ]][[H5750\|עוֹדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.1|<< Psalms 146:1]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.3|Psalms 146:3 >>]]</td></tr></table>
 

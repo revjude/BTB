@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Renews His Oath to Bathsheba
+type: Pericope
 pericope: "[[1Kgs.1.28 David Renews His Oath to Bathsheba|David Renews His Oath to Bathsheba]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 1
 book/chapter: "[[1Kgs.1|1 Kings 1]]"
-genre:
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.1.28]]"
 - "[[1Kgs.1.29]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.1.31]]"
 ---
 
-[[1Kgs.1|1 Kings 1:28 - 1 Kings 1:31]]
+<small>[[1Kgs.1|1 Kings 1:28-31]]</small>
 *David Renews His Oath to Bathsheba*
 
 [[1Kgs.1.28|28]] Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king.

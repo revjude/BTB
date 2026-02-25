@@ -1,8 +1,61 @@
+---
+title: Leviticus 18:20
+type: Verse
+kjv: "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her."
+bsb: "You must not lie carnally with your neighbor’s wife and thus defile yourself with her."
+hebrew: "וְאֶל־ אֵ֙שֶׁת֙ עֲמִֽיתְךָ֔ לֹא־ תִתֵּ֥ן שְׁכָבְתְּךָ֖ לְזָ֑רַע לְטָמְאָה־ בָֽהּ׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic ADULTERY|ADULTERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H5997]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H5414O]]"
+- "[[H7903]]"
+- "[[H9005]]"
+- "[[H2233I]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:20**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.
 <small><sub>**BSB:**</sub></small>
 You must not lie carnally with your neighbor’s wife and thus defile yourself with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אֵ֙שֶׁת֙]] [[H5997\|עֲמִֽיתְ]][[H9021\|ךָ֔]] [[H3808\|לֹא]][[H9014\|־]] [[H5414O\|תִתֵּ֥ן]] [[H7903\|שְׁכָבְתְּ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H2233I\|זָ֑רַע]] [[H9005\|לְ]][[H2930A\|טָמְאָה]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic ADULTERY|ADULTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.19|<< Leviticus 18:19]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.21|Leviticus 18:21 >>]]</td></tr></table>
 

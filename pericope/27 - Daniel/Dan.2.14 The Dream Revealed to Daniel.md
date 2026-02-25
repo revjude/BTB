@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Dream Revealed to Daniel
+type: Pericope
 pericope: "[[Dan.2.14 The Dream Revealed to Daniel|The Dream Revealed to Daniel]]"
-verse_count: 10
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 2
 book/chapter: "[[Dan.2|Daniel 2]]"
-genre:
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 10
 verses:
 - "[[Dan.2.14]]"
 - "[[Dan.2.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Dan.2.23]]"
 ---
 
-[[Dan.2|Daniel 2:14 - Daniel 2:23]]
+<small>[[Dan.2|Daniel 2:14-23]]</small>
 *The Dream Revealed to Daniel*
 
 [[Dan.2.14|14]] Then Daniel answered with counsel and wisdom to Arioch the captain of the king’s guard, which was gone forth to slay the wise \[men\] of Babylon:

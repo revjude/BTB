@@ -1,6 +1,60 @@
+---
+title: LXX Judges 4:3
+type: Verse
+lxx: "And the sons of Israel cried out to the lord, because nine hundred chariots of iron were his. And he afflicted  Israel by might for twenty years."
+greek: "και εκέκραξαν οι υιοί Ισραήλ προς κύριον ότι εννακόσια άρματα σιδηρά ην αυτώ και αυτός έθλιψε τον Ισραήλ κατά κράτος έικοσι έτη"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G3754]]"
+- "[[G7246]]"
+- "[[G0716]]"
+- "[[G4603]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2346]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G2596]]"
+- "[[G2904]]"
+- "[[G1501]]"
+- "[[G2094]]"
+---
+
 **LXX Judges 4:3** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel cried out to \[the\] <span class="smallcaps">lord</span>, because nine hundred chariots of iron \[were\] his. And he afflicted  Israel by might for twenty years. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2896\|εκέκραξαν]] [[G3588\|οι]] [[G5207\|υιοί]] [[G2474\|Ισραήλ]] [[G4314\|προς]] [[G2962\|κύριον]] [[G3754\|ότι]] [[G7246\|εννακόσια]] [[G0716\|άρματα]] [[G4603\|σιδηρά]] [[G1510\|ην]] [[G1473\|αυτώ]] [[G2532\|και]] [[G1473\|αυτός]] [[G2346\|έθλιψε]] [[G3588\|τον]] [[G2474\|Ισραήλ]] [[G2596\|κατά]] [[G2904\|κράτος]] [[G1501\|έικοσι]] [[G2094\|έτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic IRON|IRON]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
 
@@ -28,6 +82,6 @@ And the sons of Israel cried out to \[the\] <span class="smallcaps">lord</span>,
 | might | **<big>[[G2904\|κράτος]]</big>** |
 | for twenty | **<big>[[G1501\|έικοσι]]</big>** |
 | years. | **<big>[[G2094\|έτη]]</big>** |
-[[Judg.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
 
 

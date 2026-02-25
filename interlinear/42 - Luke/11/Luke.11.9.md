@@ -1,10 +1,56 @@
+---
+title: Luke 11:9
+type: Verse
+kjv: "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+bsb: "So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you."
+jesus_said: "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you."
+greek: "κἀγὼ κἀγὼ ὑμῖν λέγω· αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν."
+pericope: "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G0154]]"
+- "[[G1325]]"
+- "[[G2212]]"
+- "[[G2147]]"
+- "[[G2925]]"
+- "[[G0455]]"
+texts:
+- NKO
+---
+
 **Luke 11:9**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
 <small><sub>**BSB:**</sub></small>
 So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.
-<small><sub>**Literal:**</sub></small>
-And I myself to you say; do ask and it will be given to you; do seek and you will find; do knock and it will be opened to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.8|<< Luke 11:8]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.10|Luke 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω·]]  [[G0154\|αἰτεῖτε,]]  [[G2532\|καὶ]]  [[G1325\|δοθήσεται]]  [[G4771\|ὑμῖν·]]  [[G2212\|ζητεῖτε,]]  [[G2532\|καὶ]]  [[G2147\|εὑρήσετε·]]  [[G2925\|κρούετε,]]  [[G2532\|καὶ]]  [[G0455\|ἀνοιγήσεται]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.8|<< Luke 11:8]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.10|Luke 11:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

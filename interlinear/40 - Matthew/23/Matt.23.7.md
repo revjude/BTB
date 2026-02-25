@@ -1,10 +1,58 @@
+---
+title: Matthew 23:7
+type: Verse
+kjv: "And greetings in the markets, and to be called of men, Rabbi, Rabbi."
+bsb: "the greetings in the marketplaces, and the title of ‘Rabbi’ by which they are addressed."
+jesus_said: "And greetings in the markets, and to be called of men, Rabbi, Rabbi."
+greek: "καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ καλεῖσθαι ὑπὸ τῶν ἀνθρώπων ῥαββί ῥαββί."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RABBI|RABBI]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0783]]"
+- "[[G1722]]"
+- "[[G0058]]"
+- "[[G2564G]]"
+- "[[G5259G]]"
+- "[[G0444]]"
+- "[[G4461]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 23:7**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And greetings in the markets, and to be called of men, Rabbi, Rabbi.
 <small><sub>**BSB:**</sub></small>
 the greetings in the marketplaces, and the title of ‘Rabbi’ by which they are addressed.
-<small><sub>**Literal:**</sub></small>
-and the greetings in the marketplaces and to be called by <the> men Rabbi Rabbi.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.6|<< Matthew 23:6]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.8|Matthew 23:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0783\|ἀσπασμοὺς]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G0058\|ἀγοραῖς]]  [[G2532\|καὶ]]  [[G2564G\|καλεῖσθαι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G4461\|ῥαββί]]  [[G4461\|ῥαββί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic PRIDE|PRIDE]] • [[topic RABBI|RABBI]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.6|<< Matthew 23:6]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.8|Matthew 23:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

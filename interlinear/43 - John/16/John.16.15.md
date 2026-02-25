@@ -1,10 +1,60 @@
+---
+title: John 16:15
+type: Verse
+kjv: "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you."
+bsb: "Everything that belongs to the Father is Mine. That is why I said that the Spirit will take from what is Mine and disclose it to you."
+jesus_said: "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you."
+greek: "Πάντα ὅσα ἔχει ὁ πατὴρ ἐμά ἐστιν· διὰ τοῦτο εἶπον ὅτι ἐκ τοῦ ἐμοῦ λαμβάνει καὶ ἀναγγελεῖ ὑμῖν."
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G0312]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 16:15**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew [it] unto you.
 <small><sub>**BSB:**</sub></small>
 Everything that belongs to the Father is Mine. That is why I said that the Spirit will take from what is Mine and disclose it to you.
-<small><sub>**Literal:**</sub></small>
-All things as much as has the Father Mine are; because of this I said that from that which [is] Mine He receives and will disclose to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.14|<< John 16:14]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.16|John 16:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πάντα]]  [[G3745\|ὅσα]]  [[G2192\|ἔχει]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1473\|ἐμά]]  [[G1510\|ἐστιν·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2036\|εἶπον]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G1473\|ἐμοῦ]]  [[G2983\|λαμβάνει]]  [[G2532\|καὶ]]  [[G0312\|ἀναγγελεῖ]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.14|<< John 16:14]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.16|John 16:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

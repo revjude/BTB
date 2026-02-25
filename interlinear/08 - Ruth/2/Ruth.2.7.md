@@ -1,8 +1,65 @@
+---
+title: Ruth 2:7
+type: Verse
+kjv: "And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house."
+bsb: "She has said, ‘Please let me glean and gather among the sheaves after the harvesters.’ So she came out and has continued from morning until now, except that she rested a short time in the shelter.”"
+hebrew: "וַתֹּ֗אמֶר אֲלַקֳטָה־ נָּא֙ וְאָסַפְתִּ֣י בָֽעֳמָרִ֔ים אַחֲרֵ֖י הַקּוֹצְרִ֑ים וַתָּב֣וֹא וַֽתַּעֲמ֗וֹד מֵאָ֤ז הַבֹּ֙קֶר֙ וְעַד־ עַ֔תָּה זֶ֛ה שִׁבְתָּ֥הּ הַבַּ֖יִת מְעָֽט׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic RUTH|RUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3950]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0622]]"
+- "[[H9003]]"
+- "[[H6016A]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H7114B]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H2088]]"
+- "[[H3427]]"
+- "[[H9044]]"
+- "[[H1004B]]"
+- "[[H4592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:7**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.
 <small><sub>**BSB:**</sub></small>
 She has said, ‘Please let me glean and gather among the sheaves after the harvesters.’ So she came out and has continued from morning until now, except that she rested a short time in the shelter.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H3950\|אֲלַקֳטָה]][[H9014\|־]] [[H4994\|נָּא֙]] [[H9001\|וְ]][[H0622\|אָסַפְתִּ֣י]] [[H9003\|בָֽ]][[H6016A\|עֳמָרִ֔ים]] [[H0310A\|אַחֲרֵ֖י]] [[H9009\|הַ]][[H7114B\|קּוֹצְרִ֑ים]] [[H9001\|וַ]][[H0935G\|תָּב֣וֹא]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמ֗וֹד]] [[H9006\|מֵ]][[H0227B\|אָ֤ז]] [[H9009\|הַ]][[H1242\|בֹּ֙קֶר֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6258\|עַ֔תָּה]] [[H2088\|זֶ֛ה]] [[H3427\|שִׁבְתָּ֥]][[H9044\|הּ]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H4592\|מְעָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RUTH|RUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.6|<< Ruth 2:6]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.8|Ruth 2:8 >>]]</td></tr></table>
 

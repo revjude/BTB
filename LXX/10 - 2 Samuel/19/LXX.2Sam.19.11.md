@@ -1,6 +1,78 @@
+---
+title: LXX 2 Samuel 19:11
+type: Verse
+lxx: "And  king David sent to Zadok and to Abiathar the priests, saying, Speak to the elders of Judah! saying, Why have you become last  to return the king to  his house? And the word of all Israel came to the king."
+greek: "και ο βασιλεύς Δαυίδ απέστειλε προς Σαδώκ και προς Αβιαθάρ τους ιερείς λέγων λαλήσατε προς τους πρεσβυτέρους Ιούδα λέγοντες ινατί γίνεσθε έσχατοι του επιστρέψαι τον βασιλέα εις τον οίκον αυτού και ο λόγος παντός Ισραήλ ήλθε προς τον βασιλέα"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4622]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G4524]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G0008]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G3004]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4245]]"
+- "[[G2448]]"
+- "[[G3004]]"
+- "[[G2444]]"
+- "[[G1096]]"
+- "[[G2078]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3956]]"
+- "[[G2474]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+---
+
 **LXX 2 Samuel 19:11** 
 <small><sub>**LXX:**</sub></small>
 And  king David sent to Zadok and to Abiathar the priests, saying, Speak to the elders of Judah! saying, Why have you become last  to return the king to  his house? And the word of all Israel came to the king. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G4622\|Δαυίδ]] [[G0649\|απέστειλε]] [[G4314\|προς]] [[G4524\|Σαδώκ]] [[G2532\|και]] [[G4314\|προς]] [[G0008\|Αβιαθάρ]] [[G3588\|τους]] [[G2409\|ιερείς]] [[G3004\|λέγων]] [[G2980\|λαλήσατε]] [[G4314\|προς]] [[G3588\|τους]] [[G4245\|πρεσβυτέρους]] [[G2448\|Ιούδα]] [[G3004\|λέγοντες]] [[G2444\|ινατί]] [[G1096\|γίνεσθε]] [[G2078\|έσχατοι]] [[G3588\|του]] [[G1994\|επιστρέψαι]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|ο]] [[G3056\|λόγος]] [[G3956\|παντός]] [[G2474\|Ισραήλ]] [[G2064\|ήλθε]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDAH|JUDAH]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.10|<< 2 Samuel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.12|2 Samuel 19:12 >>]]</td></tr></table>
 
@@ -44,6 +116,6 @@ And  king David sent to Zadok and to Abiathar the priests, saying, Speak to the 
 | to | **<big>[[G4314\|προς]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | king. | **<big>[[G0935\|βασιλέα]]</big>** |
-[[2Sam.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.10|<< 2 Samuel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.12|2 Samuel 19:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.10|<< 2 Samuel 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.12|2 Samuel 19:12 >>]]</td></tr></table>
 
 

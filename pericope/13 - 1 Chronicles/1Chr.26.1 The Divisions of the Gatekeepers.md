@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Divisions of the Gatekeepers
+type: Pericope
 pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 26
 book/chapter: "[[1Chr.26|1 Chronicles 26]]"
-genre:
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 19
 verses:
 - "[[1Chr.26.1]]"
 - "[[1Chr.26.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[1Chr.26.19]]"
 ---
 
-[[1Chr.26|1 Chronicles 26:1 - 1 Chronicles 26:19]]
+<small>[[1Chr.26|1 Chronicles 26:1-19]]</small>
 *The Divisions of the Gatekeepers*
 
 [[1Chr.26.1|1]] Concerning the divisions of the porters: Of the Korhites \[was\] Meshelemiah the son of Kore, of the sons of Asaph.

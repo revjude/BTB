@@ -1,8 +1,59 @@
+---
+title: Proverbs 14:21
+type: Verse
+kjv: "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he."
+bsb: "He who despises his neighbor sins, but blessed is he who shows kindness to the poor."
+hebrew: "בָּז־ לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן עֲנָוִ֣ים אַשְׁרָֽיו׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H0936]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H2603A]]"
+- "[[H6041]]"
+- "[[H6035]]"
+- "[[H0835]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 14:21**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy [is] he.
 <small><sub>**BSB:**</sub></small>
 He who despises his neighbor sins, but blessed is he who shows kindness to the poor.
+<small><sub>**Hebrew:**</sub></small>
+[[H0936\|בָּז]][[H9014\|־]] [[H9005\|לְ]][[H7453\|רֵעֵ֥]][[H9023\|הוּ]] [[H2398\|חוֹטֵ֑א]] [[H9002\|וּ]][[H2603A\|מְחוֹנֵ֖ן]] [[H6035\|עֲנָוִ֣ים]] [[H0835\|אַשְׁרָֽי]][[H9043\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic KINDNESS|KINDNESS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MERCY|MERCY]] • [[topic POOR|POOR]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.20|<< Proverbs 14:20]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.22|Proverbs 14:22 >>]]</td></tr></table>
 

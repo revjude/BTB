@@ -1,8 +1,76 @@
+---
+title: Jeremiah 52:31
+type: Verse
+kjv: "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,"
+bsb: "On the twenty-fifth day of the twelfth month of the thirty-seventh year of the exile of Jehoiachin king of Judah, in the first year of the reign of Evil-merodach king of Babylon, he pardoned Jehoiachin king of Judah and released him from prison."
+hebrew: "וַיְהִי֩ בִשְׁלֹשִׁ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְגָלוּת֙ יְהוֹיָכִ֣ן מֶֽלֶךְ־ יְהוּדָ֔ה בִּשְׁנֵ֤ים עָשָׂר֙ חֹ֔דֶשׁ בְּעֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה לַחֹ֑דֶשׁ נָשָׂ֡א אֱוִ֣יל מְרֹדַךְ֩ מֶ֨לֶךְ בָּבֶ֜ל בִּשְׁנַ֣ת מַלְכֻת֗וֹ אֶת־ רֹאשׁ֙ יְהוֹיָכִ֣ין מֶֽלֶךְ־ יְהוּדָ֔ה וַיֹּצֵ֥א אוֹת֖וֹ מִבֵּ֥ית הַכְּלֽוּא׃"
+pericope: "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EVIL-MERODACH|EVIL-MERODACH]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H1546]]"
+- "[[H3078]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H2320G]]"
+- "[[H6242]]"
+- "[[H2568]]"
+- "[[H5375Q]]"
+- "[[H0192]]"
+- "[[H0894]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H7218H]]"
+- "[[H3318H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H3628]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 52:31**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the [first] year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,
 <small><sub>**BSB:**</sub></small>
 On the twenty-fifth day of the twelfth month of the thirty-seventh year of the exile of Jehoiachin king of Judah, in the first year of the reign of Evil-merodach king of Babylon, he pardoned Jehoiachin king of Judah and released him from prison.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בִ]][[H7970\|שְׁלֹשִׁ֨ים]] [[H9002\|וָ]][[H7651\|שֶׁ֜בַע]] [[H8141\|שָׁנָ֗ה]] [[H9005\|לְ]][[H1546\|גָלוּת֙]] [[H3078\|יְהוֹיָכִ֣ן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֤ים]] [[H6240\|עָשָׂר֙]] [[H2320G\|חֹ֔דֶשׁ]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H5375Q\|נָשָׂ֡א]] [[H0192\|אֱוִ֣יל]] [[H0192\|מְרֹדַךְ֩]] [[H4428G\|מֶ֨לֶךְ]] [[H0894\|בָּבֶ֜ל]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H4438\|מַלְכֻת֗]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218H\|רֹאשׁ֙]] [[H3078\|יְהוֹיָכִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H3318H\|יֹּצֵ֥א]] [[H0853\|אוֹת֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H1004B\|בֵּ֥ית]] [[H9009\|הַ]][[H3628\|כְּלֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL-MERODACH|EVIL-MERODACH]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.30|<< Jeremiah 52:30]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.32|Jeremiah 52:32 >>]]</td></tr></table>
 
@@ -40,7 +108,7 @@ On the twenty-fifth day of the twelfth month of the thirty-seventh year of the e
 | \<the> imprisonment  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3628\|כְּלֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.30|<< Jeremiah 52:30]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.32|Jeremiah 52:32 >>]]</td></tr></table>
 
-[^1]: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: \<the> imprisonment  | **<big>[[H9009|הַ]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9016|׃]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<the> imprisonment  | **<big>[[H9009|הַ]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9016|׃]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַכְּלֽיּא\׃</big></span>**
 

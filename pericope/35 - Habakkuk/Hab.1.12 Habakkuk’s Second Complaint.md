@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Habakkuk’s Second Complaint
+type: Pericope
 pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Habakkuk
 chapter: 1
 book/chapter: "[[Hab.1|Habakkuk 1]]"
-genre:
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - dialogue
 - theodicy
+verse_count: 6
 verses:
 - "[[Hab.1.12]]"
 - "[[Hab.1.13]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Hab.1.17]]"
 ---
 
-[[Hab.1|Habakkuk 1:12 - Habakkuk 1:17]]
+<small>[[Hab.1|Habakkuk 1:12-17]]</small>
 *Habakkuk’s Second Complaint*
 
 [[Hab.1.12|12]] \[Art\] thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.

@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 35:22
+type: Verse
+kjv: "Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo."
+bsb: "Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the Plain of Megiddo."
+hebrew: "וְלֹֽא־ הֵסֵב֩ יֹאשִׁיָּ֨הוּ פָנָ֜יו מִמֶּ֗נּוּ כִּ֤י לְהִלָּחֵֽם־ בּוֹ֙ הִתְחַפֵּ֔שׂ וְלֹ֥א שָׁמַ֛ע אֶל־ דִּבְרֵ֥י נְכ֖וֹ מִפִּ֣י אֱלֹהִ֑ים וַיָּבֹ֕א לְהִלָּחֵ֖ם בְּבִקְעַ֥ת מְגִדּֽוֹ׃"
+pericope: "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic NECHO|NECHO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5437G]]"
+- "[[H2977G]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H2664]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H5224G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1237K]]"
+- "[[H4023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:22**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
 <small><sub>**BSB:**</sub></small>
 Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the Plain of Megiddo.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5437G\|הֵסֵב֩]] [[H2977G\|יֹאשִׁיָּ֨הוּ]] [[H6440G\|פָנָ֜י]][[H9023\|ו]] [[H4480A\|מִמֶּ֗]][[H9033\|נּוּ]] [[H3588A\|כִּ֤י]] [[H9005\|לְ]][[H3898A\|הִלָּחֵֽם]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H2664\|הִתְחַפֵּ֔שׂ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֛ע]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H5224G\|נְכ֖וֹ]] [[H9006\|מִ]][[H6310G\|פִּ֣י]] [[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H0935G\|יָּבֹ֕א]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H9003\|בְּ]][[H1237K\|בִקְעַ֥ת]] [[H4023\|מְגִדּֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic JOSIAH|JOSIAH]] • [[topic MEGIDDO|MEGIDDO]] • [[topic NECHO|NECHO]] • [[topic PHARAOH|PHARAOH]] • [[topic RASHNESS|RASHNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.21|<< 2 Chronicles 35:21]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.23|2 Chronicles 35:23 >>]]</td></tr></table>
 

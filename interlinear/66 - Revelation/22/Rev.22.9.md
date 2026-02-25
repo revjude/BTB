@@ -1,10 +1,63 @@
+---
+title: Revelation 22:9
+type: Verse
+kjv: "Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God."
+bsb: "But he said to me, “Do not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”"
+greek: "καὶ λέγει μοι· ὅρα μή, σύνδουλός σού γὰρ εἰμι καὶ τῶν ἀδελφῶν σου τῶν προφητῶν καὶ τῶν τηρούντων τοὺς λόγους τοῦ βιβλίου τούτου· τῷ θεῷ προσκύνησον.¶"
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3708]]"
+- "[[G3361]]"
+- "[[G4889]]"
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4396]]"
+- "[[G5083G]]"
+- "[[G3056]]"
+- "[[G0975]]"
+- "[[G3778]]"
+- "[[G2316]]"
+- "[[G4352]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 22:9**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith he unto me, See [thou do it] not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
 <small><sub>**BSB:**</sub></small>
 But he said to me, “Do not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”
-<small><sub>**Literal:**</sub></small>
-And he says to me; do see that you [do] not, Fellow servant of you for I am and with the brothers of you the prophets and with those keeping the words of the book this; <the> God do worship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.8|<< Revelation 22:8]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.10|Revelation 22:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G3708\|ὅρα]]  [[G3361\|μή,]]  [[G4889\|σύνδουλός]]  [[G4771\|σού]]  [[G1063\|γὰρ]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G4771\|σου]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5083G\|τηρούντων]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3588\|τοῦ]]  [[G0975\|βιβλίου]]  [[G3778\|τούτου·]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G4352\|προσκύνησον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOMAGE|HOMAGE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.8|<< Revelation 22:8]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.10|Revelation 22:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

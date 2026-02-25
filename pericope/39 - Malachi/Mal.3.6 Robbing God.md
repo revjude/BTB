@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Robbing God
+type: Pericope
 pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 3
 book/chapter: "[[Mal.3|Malachi 3]]"
-genre:
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 7
 verses:
 - "[[Mal.3.6]]"
 - "[[Mal.3.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mal.3.12]]"
 ---
 
-[[Mal.3|Malachi 3:6 - Malachi 3:12]]
+<small>[[Mal.3|Malachi 3:6-12]]</small>
 *Robbing God*
 
 [[Mal.3.6|6]] For I \[am\] the LORD, I change not; therefore ye sons of Jacob are not consumed.

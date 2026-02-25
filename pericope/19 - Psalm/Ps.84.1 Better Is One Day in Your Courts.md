@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Better Is One Day in Your Courts
+type: Pericope
 pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 84
 book/chapter: "[[Ps.84|Psalm 84]]"
-genre:
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.84.0]]"
 - "[[Ps.84.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.84.12]]"
 ---
 
-[[Ps.84|Psalm 84:1 - Psalm 84:12]]
+<small>[[Ps.84|Psalm 84:1-12]]</small>
 *Better Is One Day in Your Courts*
 
 [[Ps.84.0|0]] To the chief Musician upon Gittith, A Psalm for the sons of Korah.

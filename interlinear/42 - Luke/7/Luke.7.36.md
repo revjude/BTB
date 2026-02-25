@@ -1,10 +1,60 @@
+---
+title: Luke 7:36
+type: Verse
+kjv: "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat."
+bsb: "Then one of the Pharisees invited Jesus to eat with him, and He entered the Pharisee’s house and reclined at the table."
+greek: "Ἠρώτα δέ τις αὐτὸν τῶν Φαρισαίων ἵνα φάγῃ μετ᾽ αὐτοῦ. καὶ εἰσελθὼν εἰς τὸν οἶκον τοῦ Φαρισαίου κατεκλίθη."
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G2065]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G2443]]"
+- "[[G5315]]"
+- "[[G3326]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G2625]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:36**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat.
 <small><sub>**BSB:**</sub></small>
 Then one of the Pharisees invited Jesus to eat with him, and He entered the Pharisee’s house and reclined at the table.
-<small><sub>**Literal:**</sub></small>
-Was asking now one Him of the Pharisees that He may eat with him. and having entered into the house of the Pharisee He was sat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.35|<< Luke 7:35]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.37|Luke 7:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2065\|Ἠρώτα]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0846\|αὐτὸν]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G2443\|ἵνα]]  [[G5315\|φάγῃ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθὼν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G5330\|Φαρισαίου]]  [[G2625\|κατεκλίθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.35|<< Luke 7:35]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.37|Luke 7:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

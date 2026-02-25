@@ -1,8 +1,70 @@
+---
+title: Exodus 38:23
+type: Verse
+kjv: "And with him was Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen."
+bsb: "With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen."
+hebrew: "וְאִתּ֗וֹ אָהֳלִיאָ֞ב בֶּן־ אֲחִיסָמָ֛ךְ לְמַטֵּה־ דָ֖ן חָרָ֣שׁ וְחֹשֵׁ֑ב וְרֹקֵ֗ם בַּתְּכֵ֙לֶת֙ וּבָֽאַרְגָּמָ֔ן וּבְתוֹלַ֥עַת הַשָּׁנִ֖י וּבַשֵּֽׁשׁ׃ ס"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AHISAMACH|AHISAMACH]]"
+- "[[topic AHOLIAB|AHOLIAB]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0171]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0294]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1835G]]"
+- "[[H2796]]"
+- "[[H2803G]]"
+- "[[H7551]]"
+- "[[H9003]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H9009]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 38:23**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with him [was] Aholiab, son of Ahisamach, of the tribe of Dan, an engraver, and a cunning workman, and an embroiderer in blue, and in purple, and in scarlet, and fine linen.
 <small><sub>**BSB:**</sub></small>
 With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H0171\|אָהֳלִיאָ֞ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0294\|אֲחִיסָמָ֛ךְ]] [[H9005\|לְ]][[H4294H\|מַטֵּה]][[H9014\|־]] [[H1835G\|דָ֖ן]] [[H2796\|חָרָ֣שׁ]] [[H9002\|וְ]][[H2803G\|חֹשֵׁ֑ב]] [[H9002\|וְ]][[H7551\|רֹקֵ֗ם]] [[H9003\|בַּ]][[H8504\|תְּכֵ֙לֶת֙]] [[H9002\|וּ]][[H9003\|בָֽ]][[H0713\|אַרְגָּמָ֔ן]] [[H9002\|וּ]][[H9003\|בְ]][[H8438B\|תוֹלַ֥עַת]] [[H9009\|הַ]][[H8144\|שָּׁנִ֖י]] [[H9002\|וּ]][[H9003\|בַ]][[H8336B\|שֵּֽׁשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHISAMACH|AHISAMACH]] • [[topic AHOLIAB|AHOLIAB]] • [[topic COLORS|COLORS]] • [[topic EMBROIDERY|EMBROIDERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.22|<< Exodus 38:22]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.24|Exodus 38:24 >>]]</td></tr></table>
 
@@ -21,7 +83,7 @@ With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designe
 | and in the purple  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H0713\|אַרְגָּמָ֔ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> 'ar.ga.Man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and in [the] scarlet stuff of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8438B\|תוֹלַ֥עַת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.La.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the scarlet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8144\|שָּׁנִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in the fine linen  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8336B\|שֵּֽׁשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Shesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in the fine linen  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8336B\|שֵּֽׁשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Shesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.22|<< Exodus 38:22]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.24|Exodus 38:24 >>]]</td></tr></table>
 
 

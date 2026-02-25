@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abraham Justified by Faith
+type: Pericope
 pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Romans
 chapter: 4
 book/chapter: "[[Rom.4|Romans 4]]"
-genre:
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 12
 verses:
 - "[[Rom.4.1]]"
 - "[[Rom.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Rom.4.12]]"
 ---
 
-[[Rom.4|Romans 4:1 - Romans 4:12]]
+<small>[[Rom.4|Romans 4:1-12]]</small>
 *Abraham Justified by Faith*
 
 [[Rom.4.1|1]] What shall we say then that Abraham our father, as pertaining to the flesh, hath found?

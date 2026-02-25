@@ -1,10 +1,64 @@
+---
+title: Matthew 28:20
+type: Verse
+kjv: "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen."
+bsb: "and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
+jesus_said: "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world."
+greek: "διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ᾽ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ἀμήν¶"
+pericope: "[[Matt.28.16 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1321]]"
+- "[[G0846]]"
+- "[[G5083G]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G1781]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G3326]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2193]]"
+- "[[G4930]]"
+- "[[G0165G]]"
+- "[[G0281]]"
+texts:
+- NKO
+- KO
+---
+
 **Matthew 28:20**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, [even] unto the end of the world. Amen.
 <small><sub>**BSB:**</sub></small>
 and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”
-<small><sub>**Literal:**</sub></small>
-teaching them to observe all things as much as I commanded you; And behold I myself with you am all the days until the completion of the age. Amen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.19|<< Matthew 28:19]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.1|Mark 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1321\|διδάσκοντες]]  [[G0846\|αὐτοὺς]]  [[G5083G\|τηρεῖν]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G1781\|ἐνετειλάμην]]  [[G4771\|ὑμῖν·]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1510\|εἰμι]]  [[G3956\|πάσας]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G4930\|συντελείας]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος.]]  [[G0281\|ἀμήν¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.19|<< Matthew 28:19]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.1|Mark 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Hebrews 11:23
+type: Verse
+kjv: "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment."
+bsb: "By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict."
+greek: "Πίστει Μωϋσῆς γεννηθεὶς ἐκρύβη τρίμηνον ὑπὸ τῶν πατέρων αὐτοῦ διότι εἶδον ἀστεῖον τὸ παιδίον καὶ οὐκ ἐφοβήθησαν τὸ διάταγμα τοῦ βασιλέως.¶"
+pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[G4102G]]"
+- "[[G3475]]"
+- "[[G1080]]"
+- "[[G2928]]"
+- "[[G5150]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G1360]]"
+- "[[G1492H]]"
+- "[[G0791]]"
+- "[[G3813]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5399]]"
+- "[[G1297]]"
+- "[[G0935]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:23**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Moses, when he was born, was hid three months of his parents, because they saw [he was] a proper child; and they were not afraid of the king’s commandment.
 <small><sub>**BSB:**</sub></small>
 By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.
-<small><sub>**Literal:**</sub></small>
-By faith Moses having been born he was hidden three months by the parents of him because they saw [was] beautiful the little child and not they did fear the edict of the king.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.22|<< Hebrews 11:22]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.24|Hebrews 11:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G3475\|Μωϋσῆς]]  [[G1080\|γεννηθεὶς]]  [[G2928\|ἐκρύβη]]  [[G5150\|τρίμηνον]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G3962\|πατέρων]]  [[G0846\|αὐτοῦ]]  [[G1360\|διότι]]  [[G1492H\|εἶδον]]  [[G0791\|ἀστεῖον]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G5399\|ἐφοβήθησαν]]  [[G3588\|τὸ]]  [[G1297\|διάταγμα]]  [[G3588\|τοῦ]]  [[G0935\|βασιλέως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.22|<< Hebrews 11:22]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.24|Hebrews 11:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:23** is...
 > $\quad$ alluding to: [[LXX.Exod.2.2|Exod 2:2]]

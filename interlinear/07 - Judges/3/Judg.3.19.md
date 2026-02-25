@@ -1,8 +1,80 @@
+---
+title: Judges 3:19
+type: Verse
+kjv: "But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him."
+bsb: "But upon reaching the idols near Gilgal, he himself turned back and said, “I have a secret message for you, O king.” “Silence,” said the king, and all his attendants left him."
+hebrew: "וְה֣וּא שָׁ֗ב מִן־ הַפְּסִילִים֙ אֲשֶׁ֣ר אֶת־ הַגִּלְגָּ֔ל וַיֹּ֕אמֶר דְּבַר־ סֵ֥תֶר לִ֛י אֵלֶ֖יךָ הַמֶּ֑לֶךְ וַיֹּ֣אמֶר הָ֔ס וַיֵּֽצְאוּ֙ מֵֽעָלָ֔יו כָּל־ הָעֹמְדִ֖ים עָלָֽיו׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAGGER|DAGGER]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic QUARRIES|QUARRIES]]"
+- "[[topic REGICIDE|REGICIDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7725I]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6456]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H1537G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1697G]]"
+- "[[H5643A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H2013]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H5975H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:19**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he himself turned again from the quarries that [were] by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him.
 <small><sub>**BSB:**</sub></small>
 But upon reaching the idols near Gilgal, he himself turned back and said, “I have a secret message for you, O king.” “Silence,” said the king, and all his attendants left him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֣וּא]] [[H7725I\|שָׁ֗ב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6456\|פְּסִילִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H5643A\|סֵ֥תֶר]] [[H9005\|לִ֛]][[H9030\|י]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2013\|הָ֔ס]] [[H9001\|וַ]][[H3318G\|יֵּֽצְאוּ֙]] [[H9006\|מֵֽ]][[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5975H\|עֹמְדִ֖ים]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DAGGER|DAGGER]] • [[topic DECEPTION|DECEPTION]] • [[topic EGLON|EGLON]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic QUARRIES|QUARRIES]] • [[topic REGICIDE|REGICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.18|<< Judges 3:18]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.20|Judges 3:20 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Numbers 24:8
+type: Verse
+kjv: "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
+bsb: "God brought him out of Egypt with strength like a wild ox, to devour hostile nations and crush their bones, to pierce them with arrows."
+hebrew: "אֵ֚ל מוֹצִיא֣וֹ מִמִּצְרַ֔יִם כְּתוֹעֲפֹ֥ת רְאֵ֖ם ל֑וֹ יֹאכַ֞ל גּוֹיִ֣ם צָרָ֗יו וְעַצְמֹתֵיהֶ֛ם יְגָרֵ֖ם וְחִצָּ֥יו יִמְחָֽץ׃"
+pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]"
+strongs:
+- "[[H0410G]]"
+- "[[H3318H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9004]]"
+- "[[H8443]]"
+- "[[H7214]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H1471A]]"
+- "[[H6862C]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6106G]]"
+- "[[H9028]]"
+- "[[H1633B]]"
+- "[[H2671]]"
+- "[[H4272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:8**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce [them] through with his arrows.
 <small><sub>**BSB:**</sub></small>
 God brought him out of Egypt with strength like a wild ox, to devour hostile nations and crush their bones, to pierce them with arrows.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵ֚ל]] [[H3318H\|מוֹצִיא֣]][[H9033\|וֹ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9004\|כְּ]][[H8443\|תוֹעֲפֹ֥ת]] [[H7214\|רְאֵ֖ם]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0398\|יֹאכַ֞ל]] [[H1471A\|גּוֹיִ֣ם]] [[H6862C\|צָרָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H6106G\|עַצְמֹתֵי]][[H9028\|הֶ֛ם]] [[H1633B\|יְגָרֵ֖ם]] [[H9002\|וְ]][[H2671\|חִצָּ֥י]][[H9023\|ו]] [[H4272\|יִמְחָֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic BALAAM|BALAAM]] • [[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.7|<< Numbers 24:7]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.9|Numbers 24:9 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Joshua 11:12
+type: Verse
+kjv: "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."
+bsb: "Joshua captured all these kings and their cities and put them to the sword. He devoted them to destruction, as Moses the LORD’s servant had commanded."
+hebrew: "וְֽאֶת־ כָּל־ עָרֵ֣י הַמְּלָכִֽים־ הָ֠אֵלֶּה וְֽאֶת־ כָּל־ מַלְכֵיהֶ֞ם לָכַ֧ד יְהוֹשֻׁ֛עַ וַיַּכֵּ֥ם לְפִי־ חֶ֖רֶב הֶחֱרִ֣ים אוֹתָ֑ם כַּאֲשֶׁ֣ר צִוָּ֔ה מֹשֶׁ֖ה עֶ֥בֶד יְהוָֽה׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H9028]]"
+- "[[H3920]]"
+- "[[H3091G]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H2763A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:12**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, [and] he utterly destroyed them, as Moses the servant of the LORD commanded.
 <small><sub>**BSB:**</sub></small>
 Joshua captured all these kings and their cities and put them to the sword. He devoted them to destruction, as Moses the LORD’s servant had commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H4428G\|מְּלָכִֽים]][[H9014\|־]] [[H9009\|הָ֠]][[H0428\|אֵלֶּה]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4428G\|מַלְכֵי]][[H9028\|הֶ֞ם]] [[H3920\|לָכַ֧ד]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9038\|ם]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H2763A\|הֶחֱרִ֣ים]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֔ה]] [[H4872\|מֹשֶׁ֖ה]] [[H5650\|עֶ֥בֶד]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic JABIN|JABIN]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.11|<< Joshua 11:11]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.13|Joshua 11:13 >>]]</td></tr></table>
 

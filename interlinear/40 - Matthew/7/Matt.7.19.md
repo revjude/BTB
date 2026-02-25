@@ -1,10 +1,56 @@
+---
+title: Matthew 7:19
+type: Verse
+kjv: "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
+bsb: "Every tree that does not bear good fruit is cut down and thrown into the fire."
+jesus_said: "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
+greek: "πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται."
+pericope: "[[Matt.7.15 A Tree and Its Fruit|A Tree and Its Fruit]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3956]]"
+- "[[G1186]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G2590]]"
+- "[[G2570G]]"
+- "[[G1581]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G4442]]"
+- "[[G0906G]]"
+texts:
+- NKO
+---
+
 **Matthew 7:19**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
 <small><sub>**BSB:**</sub></small>
 Every tree that does not bear good fruit is cut down and thrown into the fire.
-<small><sub>**Literal:**</sub></small>
-Every tree not producing fruit good is cut down and into fire is thrown.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.18|<< Matthew 7:18]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.20|Matthew 7:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶν]]  [[G1186\|δένδρον]]  [[G3361\|μὴ]]  [[G4160G\|ποιοῦν]]  [[G2590\|καρπὸν]]  [[G2570G\|καλὸν]]  [[G1581\|ἐκκόπτεται]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4442\|πῦρ]]  [[G0906G\|βάλλεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.18|<< Matthew 7:18]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.20|Matthew 7:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Proverbs 31:27
+type: Verse
+kjv: "She looketh well to the ways of her household, and eateth not the bread of idleness."
+bsb: "She watches over the affairs of her household and does not eat the bread of idleness."
+hebrew: "צ֭וֹפִיָּה הֲלִיכ֣וֹת בֵּיתָ֑הּ וְלֶ֥חֶם עַ֝צְל֗וּת לֹ֣א תֹאכֵֽל׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6822]]"
+- "[[H1979]]"
+- "[[H1004M]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H6104]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:27**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She looketh well to the ways of her household, and eateth not the bread of idleness.
 <small><sub>**BSB:**</sub></small>
 She watches over the affairs of her household and does not eat the bread of idleness.
+<small><sub>**Hebrew:**</sub></small>
+[[H6822\|צ֭וֹפִיָּה]] [[H1979\|הֲלִיכ֣וֹת]] [[H1004M\|בֵּיתָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H3899H\|לֶ֥חֶם]] [[H6104\|עַ֝צְל֗וּת]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic FAMILY|FAMILY]] • [[topic FRUGALITY|FRUGALITY]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.26|<< Proverbs 31:26]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.28|Proverbs 31:28 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Leviticus 8:12
+type: Verse
+kjv: "And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him."
+bsb: "He also poured some of the anointing oil on Aaron’s head and anointed him to consecrate him."
+hebrew: "וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3332G]]"
+- "[[H9006]]"
+- "[[H8081]]"
+- "[[H9009]]"
+- "[[H4888A]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H0175]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:12**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he poured of the anointing oil upon Aaron’s head, and anointed him, to sanctify him.
 <small><sub>**BSB:**</sub></small>
 He also poured some of the anointing oil on Aaron’s head and anointed him to consecrate him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3332G\|יִּצֹק֙]] [[H9006\|מִ]][[H8081\|שֶּׁ֣מֶן]] [[H9009\|הַ]][[H4888A\|מִּשְׁחָ֔ה]] [[H5921A\|עַ֖ל]] [[H7218A\|רֹ֣אשׁ]] [[H0175\|אַהֲרֹ֑ן]] [[H9001\|וַ]][[H4886\|יִּמְשַׁ֥ח]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H6942G\|קַדְּשֽׁ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.11|<< Leviticus 8:11]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.13|Leviticus 8:13 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Song of Solomon 5:11
+type: Verse
+kjv: "His head is as the most fine gold, his locks are bushy, and black as a raven."
+bsb: "His head is purest gold; his hair is wavy and black as a raven."
+hebrew: "רֹאשׁ֖וֹ כֶּ֣תֶם פָּ֑ז קְוּצּוֹתָיו֙ תַּלְתַּלִּ֔ים שְׁחֹר֖וֹת כָּעוֹרֵֽב׃"
+pericope: "[[Song.5.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic RAVEN|RAVEN]]"
+strongs:
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H3800]]"
+- "[[H6337]]"
+- "[[H6977]]"
+- "[[H8534]]"
+- "[[H7838]]"
+- "[[H9004]]"
+- "[[H6158]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:11**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His head [is as] the most fine gold, his locks [are] bushy, [and] black as a raven.
 <small><sub>**BSB:**</sub></small>
 His head is purest gold; his hair is wavy and black as a raven.
+<small><sub>**Hebrew:**</sub></small>
+[[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H3800\|כֶּ֣תֶם]] [[H6337\|פָּ֑ז]] [[H6977\|קְוּצּוֹתָי]][[H9023\|ו֙]] [[H8534\|תַּלְתַּלִּ֔ים]] [[H7838\|שְׁחֹר֖וֹת]] [[H9004\|כָּ]][[H6158\|עוֹרֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAVEN|RAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.10|<< Song of Solomon 5:10]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.12|Song of Solomon 5:12 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Leviticus 5:3
+type: Verse
+kjv: "Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty."
+bsb: "Or if he touches human uncleanness—anything by which one becomes unclean—even if he is unaware of it, when he realizes it, he is guilty."
+hebrew: "א֣וֹ כִ֤י יִגַּע֙ בְּטֻמְאַ֣ת אָדָ֔ם לְכֹל֙ טֻמְאָת֔וֹ אֲשֶׁ֥ר יִטְמָ֖א בָּ֑הּ וְנֶעְלַ֣ם מִמֶּ֔נּוּ וְה֥וּא יָדַ֖ע וְאָשֵֽׁם׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H0176A]]"
+- "[[H3588A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H2932]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2930A]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H5956]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3045]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:3**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if he touch the uncleanness of man, whatsoever uncleanness [it be] that a man shall be defiled withal, and it be hid from him; when he knoweth [of it], then he shall be guilty.
 <small><sub>**BSB:**</sub></small>
 Or if he touches human uncleanness—anything by which one becomes unclean—even if he is unaware of it, when he realizes it, he is guilty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H3588A\|כִ֤י]] [[H5060\|יִגַּע֙]] [[H9003\|בְּ]][[H2932\|טֻמְאַ֣ת]] [[H0120G\|אָדָ֔ם]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H2932\|טֻמְאָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2930A\|יִטְמָ֖א]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5956\|נֶעְלַ֣ם]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3045\|יָדַ֖ע]] [[H9001\|וְ]][[H0816\|אָשֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.2|<< Leviticus 5:2]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.4|Leviticus 5:4 >>]]</td></tr></table>
 

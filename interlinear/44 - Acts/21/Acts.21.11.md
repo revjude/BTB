@@ -1,10 +1,79 @@
+---
+title: Acts 21:11
+type: Verse
+kjv: "And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles."
+bsb: "Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit says: ‘In this way the Jews of Jerusalem will bind the owner of this belt and hand him over to the Gentiles.’”"
+greek: "καὶ ἐλθὼν πρὸς ἡμᾶς καὶ ἄρας τὴν ζώνην τοῦ Παύλου, δήσας τε ἑαυτοῦ τοὺς πόδας καὶ τὰς χεῖρας εἶπεν· τάδε λέγει τὸ πνεῦμα τὸ ἅγιον· τὸν ἄνδρα οὗ ἐστιν ἡ ζώνη αὕτη, οὕτως δήσουσιν ἐν Ἰερουσαλὴμ οἱ Ἰουδαῖοι καὶ παραδώσουσιν εἰς χεῖρας ἐθνῶν."
+pericope: "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2223]]"
+- "[[G3972G]]"
+- "[[G1210]]"
+- "[[G5037]]"
+- "[[G1438]]"
+- "[[G4228]]"
+- "[[G5495]]"
+- "[[G2036]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G0435G]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G3779]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2453]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G1484]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 21:11**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver [him] into the hands of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit says: ‘In this way the Jews of Jerusalem will bind the owner of this belt and hand him over to the Gentiles.’”
-<small><sub>**Literal:**</sub></small>
-and having come to us and having taken the belt <the> of Paul, having bound both of himself the feet and the hands he said; Thus says the Spirit <the> Holy; The man of whom is <the> belt this, in this way will bind in Jerusalem the Jews and will deliver [him] into [the] hands of [the] Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.10|<< Acts 21:10]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.12|Acts 21:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G0142\|ἄρας]]  [[G3588\|τὴν]]  [[G2223\|ζώνην]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου,]]  [[G1210\|δήσας]]  [[G5037\|τε]]  [[G1438\|ἑαυτοῦ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2036\|εἶπεν·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον·]]  [[G3588\|τὸν]]  [[G0435G\|ἄνδρα]]  [[G3739\|οὗ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G2223\|ζώνη]]  [[G3778\|αὕτη,]]  [[G3779\|οὕτως]]  [[G1210\|δήσουσιν]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G2532\|καὶ]]  [[G3860\|παραδώσουσιν]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G1484\|ἐθνῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GIRDLE|GIRDLE]] • [[topic LUKE|LUKE]] • [[topic PANTOMIME|PANTOMIME]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RASHNESS|RASHNESS]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.10|<< Acts 21:10]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.12|Acts 21:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

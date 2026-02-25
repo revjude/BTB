@@ -1,8 +1,81 @@
+---
+title: 2 Samuel 14:11
+type: Verse
+kjv: "Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the LORD liveth, there shall not one hair of thy son fall to the earth."
+bsb: "“Please,” she replied, “may the king invoke the LORD your God to prevent the avenger of blood from increasing the devastation, so that my son may not be destroyed!” “As surely as the LORD lives,” he vowed, “not a hair of your son’s head will fall to the ground.”"
+hebrew: "וַתֹּאמֶר֩ יִזְכָּר־ נָ֨א הַמֶּ֜לֶךְ אֶת־ יְהוָ֣ה אֱלֹהֶ֗יךָ מֵהַרְבַּ֞ת גֹּאֵ֤ל הַדָּם֙ לְשַׁחֵ֔ת וְלֹ֥א יַשְׁמִ֖ידוּ אֶת־ בְּנִ֑י וַיֹּ֙אמֶר֙ חַי־ יְהוָ֔ה אִם־ יִפֹּ֛ל מִשַּׂעֲרַ֥ת בְּנֵ֖ךְ אָֽרְצָה׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H7235A]]"
+- "[[H1350H]]"
+- "[[H1818]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8045]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H2416A]]"
+- "[[H0518H]]"
+- "[[H5307G]]"
+- "[[H8185]]"
+- "[[H9022]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Samuel 14:11**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, [As] the LORD liveth, there shall not one hair of thy son fall to the earth.
 <small><sub>**BSB:**</sub></small>
 “Please,” she replied, “may the king invoke the LORD your God to prevent the avenger of blood from increasing the devastation, so that my son may not be destroyed!” “As surely as the LORD lives,” he vowed, “not a hair of your son’s head will fall to the ground.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמֶר֩]] [[H2142\|יִזְכָּר]][[H9014\|־]] [[H4994\|נָ֨א]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9006\|מֵ]][[H7235A\|הַרְבַּ֞ת]] [[H1350H\|גֹּאֵ֤ל]] [[H9009\|הַ]][[H1818\|דָּם֙]] [[H9005\|לְ]][[H7843\|שַׁחֵ֔ת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8045\|יַשְׁמִ֖ידוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H5307G\|יִפֹּ֛ל]] [[H9006\|מִ]][[H8185\|שַּׂעֲרַ֥ת]] [[H1121A\|בְּנֵ֖]][[H9022\|ךְ]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PARABLES|PARABLES]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.10|<< 2 Samuel 14:10]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.12|2 Samuel 14:12 >>]]</td></tr></table>
 

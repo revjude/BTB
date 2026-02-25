@@ -1,10 +1,57 @@
+---
+title: Matthew 2:7
+type: Verse
+kjv: "Then Herod, when he had privily called the wise men, inquired of them diligently what time the star appeared."
+bsb: "Then Herod called the Magi secretly and learned from them the exact time the star had appeared."
+greek: "Τότε Ἡρῴδης λάθρᾳ καλέσας τοὺς μάγους ἠκρίβωσεν παρ᾽ αὐτῶν τὸν χρόνον τοῦ φαινομένου ἀστέρος,"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G5119]]"
+- "[[G2264G]]"
+- "[[G2977]]"
+- "[[G2564G]]"
+- "[[G3588]]"
+- "[[G3097]]"
+- "[[G0198]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G5550]]"
+- "[[G5316]]"
+- "[[G0792]]"
+texts:
+- NKO
+---
+
 **Matthew 2:7**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Herod, when he had privily called the wise men, inquired of them diligently what time the star appeared.
 <small><sub>**BSB:**</sub></small>
 Then Herod called the Magi secretly and learned from them the exact time the star had appeared.
-<small><sub>**Literal:**</sub></small>
-Then Herod secretly having called the Magi inquired exactly of them the time of the appearing star,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.6|<< Matthew 2:6]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.8|Matthew 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G2264G\|Ἡρῴδης]]  [[G2977\|λάθρᾳ]]  [[G2564G\|καλέσας]]  [[G3588\|τοὺς]]  [[G3097\|μάγους]]  [[G0198\|ἠκρίβωσεν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|τὸν]]  [[G5550\|χρόνον]]  [[G3588\|τοῦ]]  [[G5316\|φαινομένου]]  [[G0792\|ἀστέρος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.6|<< Matthew 2:6]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.8|Matthew 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

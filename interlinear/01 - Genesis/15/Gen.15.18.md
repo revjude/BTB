@@ -1,8 +1,73 @@
+---
+title: Genesis 15:18
+type: Verse
+kjv: "In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:"
+bsb: "On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates—"
+hebrew: "בַּיּ֣וֹם הַה֗וּא כָּרַ֧ת יְהוָ֛ה אֶת־ אַבְרָ֖ם בְּרִ֣ית לֵאמֹ֑ר לְזַרְעֲךָ֗ נָתַ֙תִּי֙ אֶת־ הָאָ֣רֶץ הַזֹּ֔את מִנְּהַ֣ר מִצְרַ֔יִם עַד־ הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־ פְּרָֽת׃"
+pericope: "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3772H]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0087]]"
+- "[[H1285]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H5104H]]"
+- "[[H4714G]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H6578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:18**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
 <small><sub>**BSB:**</sub></small>
 On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates—
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H3772H\|כָּרַ֧ת]] [[H3068G\|יְהוָ֛ה]] [[H0854\|אֶת]][[H9014\|־]] [[H0087\|אַבְרָ֖ם]] [[H1285\|בְּרִ֣ית]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֗]] [[H5414G\|נָתַ֙תִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9006\|מִ]][[H5104H\|נְּהַ֣ר]] [[H4714G\|מִצְרַ֔יִם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָ֥ר]] [[H9009\|הַ]][[H1419A\|גָּדֹ֖ל]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CANAAN|CANAAN]] • [[topic CANAANITES|CANAANITES]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic EGYPT|EGYPT]] • [[topic EUPHRATES|EUPHRATES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.17|<< Genesis 15:17]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.19|Genesis 15:19 >>]]</td></tr></table>
 

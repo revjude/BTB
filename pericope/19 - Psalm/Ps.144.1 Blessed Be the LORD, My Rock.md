@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Blessed Be the LORD, My Rock
+type: Pericope
 pericope: "[[Ps.144.1 Blessed Be the LORD, My Rock|Blessed Be the LORD, My Rock]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 144
 book/chapter: "[[Ps.144|Psalm 144]]"
-genre:
+chronological_order: 390
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 16
 verses:
 - "[[Ps.144.0]]"
 - "[[Ps.144.1]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ps.144.15]]"
 ---
 
-[[Ps.144|Psalm 144:1 - Psalm 144:15]]
+<small>[[Ps.144|Psalm 144:1-15]]</small>
 *Blessed Be the LORD, My Rock*
 
 [[Ps.144.0|0]] \[A Psalm\] of David.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Remnant Shall Return
+type: Pericope
 pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 10
 book/chapter: "[[Isa.10|Isaiah 10]]"
-genre:
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.10.20]]"
 - "[[Isa.10.21]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.10.34]]"
 ---
 
-[[Isa.10|Isaiah 10:20 - Isaiah 10:34]]
+<small>[[Isa.10|Isaiah 10:20-34]]</small>
 *A Remnant Shall Return*
 
 [[Isa.10.20|20]] And it shall come to pass in that day, \[that\] the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the LORD, the Holy One of Israel, in truth.

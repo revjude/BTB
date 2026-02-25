@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Israel’s Neighbors
+type: Pericope
 pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 1
 book/chapter: "[[Amos.1|Amos 1]]"
-genre:
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 15
 verses:
 - "[[Amos.1.1]]"
 - "[[Amos.1.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Amos.1.15]]"
 ---
 
-[[Amos.1|Amos 1:1 - Amos 1:15]]
+<small>[[Amos.1|Amos 1:1-15]]</small>
 *Judgment on Israel’s Neighbors*
 
 [[Amos.1.1|1]] The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.

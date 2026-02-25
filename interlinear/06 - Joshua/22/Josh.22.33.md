@@ -1,8 +1,72 @@
+---
+title: Joshua 22:33
+type: Verse
+kjv: "And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt."
+bsb: "The Israelites were satisfied with the report, and they blessed God and spoke no more about going to war against them to destroy the land where the Reubenites and Gadites lived."
+hebrew: "וַיִּיטַ֣ב הַדָּבָ֗ר בְּעֵינֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְבָרֲכ֥וּ אֱלֹהִ֖ים בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֣א אָמְר֗וּ לַעֲל֤וֹת עֲלֵיהֶם֙ לַצָּבָ֔א לְשַׁחֵת֙ אֶת־ הָאָ֔רֶץ אֲשֶׁ֛ר בְּנֵי־ רְאוּבֵ֥ן וּבְנֵי־ גָ֖ד יֹשְׁבִ֥ים בָּֽהּ׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HASTE|HASTE]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5927J]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H6635H]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7205]]"
+- "[[H1410G]]"
+- "[[H3427]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:33**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
 <small><sub>**BSB:**</sub></small>
 The Israelites were satisfied with the report, and they blessed God and spoke no more about going to war against them to destroy the land where the Reubenites and Gadites lived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3190\|יִּיטַ֣ב]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H9003\|בְּ]][[H5869A\|עֵינֵי֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H1288\|יְבָרֲכ֥וּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0559\|אָמְר֗וּ]] [[H9005\|לַ]][[H5927J\|עֲל֤וֹת]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H9005\|לַ]][[H6635H\|צָּבָ֔א]] [[H9005\|לְ]][[H7843\|שַׁחֵת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֛ר]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֥ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H3427\|יֹשְׁבִ֥ים]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HASTE|HASTE]] • [[topic MOTIVE|MOTIVE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.32|<< Joshua 22:32]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.34|Joshua 22:34 >>]]</td></tr></table>
 

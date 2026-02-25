@@ -1,8 +1,75 @@
+---
+title: Daniel 5:11
+type: Verse
+kjv: "There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;"
+bsb: "There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king,"
+aramaic: "אִיתַ֨י גְּבַ֜ר בְּמַלְכוּתָ֗ךְ דִּ֠י ר֣וּחַ אֱלָהִ֣ין קַדִּישִׁין֮ בֵּהּ֒ וּבְיוֹמֵ֣י אֲב֗וּךְ נַהִיר֧וּ וְשָׂכְלְתָנ֛וּ וְחָכְמָ֥ה כְּחָכְמַת־ אֱלָהִ֖ין הִשְׁתְּכַ֣חַת בֵּ֑הּ וּמַלְכָּ֤א נְבֻֽכַדְנֶצַּר֙ אֲב֔וּךְ רַ֧ב חַרְטֻמִּ֣ין אָֽשְׁפִ֗ין כַּשְׂדָּאִין֙ גָּזְרִ֔ין הֲקִימֵ֖הּ אֲב֥וּךְ מַלְכָּֽא׃"
+pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0383]]"
+- "[[H1400]]"
+- "[[H9003]]"
+- "[[H4437]]"
+- "[[H9021]]"
+- "[[H1768]]"
+- "[[H7308]]"
+- "[[H0426]]"
+- "[[H6922]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3118]]"
+- "[[H0002]]"
+- "[[H5094B]]"
+- "[[H7924]]"
+- "[[H2452]]"
+- "[[H9004]]"
+- "[[H9014]]"
+- "[[H7912]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5020]]"
+- "[[H7229]]"
+- "[[H2749]]"
+- "[[H0826]]"
+- "[[H3779]]"
+- "[[H1505]]"
+- "[[H6966I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:11**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, [I say], thy father, made master of the magicians, astrologers, Chaldeans, [and] soothsayers;
 <small><sub>**BSB:**</sub></small>
 There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king,
+<small><sub>**Aramaic:**</sub></small>
+[[H0383\|אִיתַ֨י]] [[H1400\|גְּבַ֜ר]] [[H9003\|בְּ]][[H4437\|מַלְכוּתָ֗]][[H9021\|ךְ]] [[H1768\|דִּ֠י]] [[H7308\|ר֣וּחַ]] [[H0426\|אֱלָהִ֣ין]] [[H6922\|קַדִּישִׁין֮]] [[H9003\|בֵּ]][[H9033\|הּ֒]] [[H9002\|וּ]][[H9003\|בְ]][[H3118\|יוֹמֵ֣י]] [[H0002\|אֲב֗]][[H9021\|וּךְ]] [[H5094B\|נַהִיר֧וּ]] [[H9002\|וְ]][[H7924\|שָׂכְלְתָנ֛וּ]] [[H9002\|וְ]][[H2452\|חָכְמָ֥ה]] [[H9004\|כְּ]][[H2452\|חָכְמַת]][[H9014\|־]] [[H0426\|אֱלָהִ֖ין]] [[H7912\|הִשְׁתְּכַ֣חַת]] [[H9003\|בֵּ֑]][[H9033\|הּ]] [[H9002\|וּ]][[H4430\|מַלְכָּ֤]][[H9010\|א]] [[H5020\|נְבֻֽכַדְנֶצַּר֙]] [[H0002\|אֲב֔]][[H9021\|וּךְ]] [[H7229\|רַ֧ב]] [[H2749\|חַרְטֻמִּ֣ין]] [[H0826\|אָֽשְׁפִ֗ין]] [[H3779\|כַּשְׂדָּאִין֙]] [[H1505\|גָּזְרִ֔ין]] [[H6966I\|הֲקִימֵ֖]][[H9033\|הּ]] [[H0002\|אֲב֥]][[H9021\|וּךְ]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic DANIEL|DANIEL]] • [[topic INFLUENCE|INFLUENCE]] • [[topic QUEEN|QUEEN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.10|<< Daniel 5:10]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.12|Daniel 5:12 >>]]</td></tr></table>
 

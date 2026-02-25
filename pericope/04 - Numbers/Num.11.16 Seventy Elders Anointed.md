@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Seventy Elders Anointed
+type: Pericope
 pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 11
 book/chapter: "[[Num.11|Numbers 11]]"
-genre:
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 15
 verses:
 - "[[Num.11.16]]"
 - "[[Num.11.17]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Num.11.30]]"
 ---
 
-[[Num.11|Numbers 11:16 - Numbers 11:30]]
+<small>[[Num.11|Numbers 11:16-30]]</small>
 *Seventy Elders Anointed*
 
 [[Num.11.16|16]] And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee.

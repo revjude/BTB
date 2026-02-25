@@ -1,8 +1,66 @@
+---
+title: Numbers 32:38
+type: Verse
+kjv: "And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded."
+bsb: "as well as Nebo and Baal-meon (whose names were changed), and Sibmah. And they renamed the cities they rebuilt."
+hebrew: "וְאֶת־ נְב֞וֹ וְאֶת־ בַּ֧עַל מְע֛וֹן מֽוּסַבֹּ֥ת שֵׁ֖ם וְאֶת־ שִׂבְמָ֑ה וַיִּקְרְא֣וּ בְשֵׁמֹ֔ת אֶת־ שְׁמ֥וֹת הֶעָרִ֖ים אֲשֶׁ֥ר בָּנֽוּ׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BAAL-MEON|BAAL-MEON]]"
+- "[[topic BEON|BEON]]"
+- "[[topic BETH-BAAL-MEON|BETH-BAAL-MEON]]"
+- "[[topic NEBO|NEBO]]"
+- "[[topic SHIBMAH|SHIBMAH]]"
+- "[[topic SIBMAH|SIBMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5015A]]"
+- "[[H1186]]"
+- "[[H5437G]]"
+- "[[H8034]]"
+- "[[H7643H]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:38**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.
 <small><sub>**BSB:**</sub></small>
 as well as Nebo and Baal-meon (whose names were changed), and Sibmah. And they renamed the cities they rebuilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5015A\|נְב֞וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1186\|בַּ֧עַל]] [[H1186\|מְע֛וֹן]] [[H5437G\|מֽוּסַבֹּ֥ת]] [[H8034\|שֵׁ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7643H\|שִׂבְמָ֑ה]] [[H9001\|וַ]][[H7121H\|יִּקְרְא֣וּ]] [[H9003\|בְ]][[H8034\|שֵׁמֹ֔ת]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֥וֹת]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic BAAL-MEON|BAAL-MEON]] • [[topic BEON|BEON]] • [[topic BETH-BAAL-MEON|BETH-BAAL-MEON]] • [[topic NEBO|NEBO]] • [[topic SHIBMAH|SHIBMAH]] • [[topic SIBMAH|SIBMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.37|<< Numbers 32:37]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.39|Numbers 32:39 >>]]</td></tr></table>
 

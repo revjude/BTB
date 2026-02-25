@@ -1,10 +1,63 @@
+---
+title: Hebrews 12:3
+type: Verse
+kjv: "For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds."
+bsb: "Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart."
+greek: "ἀναλογίσασθε γὰρ τὸν τοιαύτην ὑπομεμενηκότα ὑπὸ τῶν ἁμαρτωλῶν εἰς ἑαυτὸν ἀντιλογίαν, ἵνα μὴ κάμητε ταῖς ψυχαῖς ὑμῶν ἐκλυόμενοι."
+pericope: "[[Heb.12.1 A Call to Endurance|A Call to Endurance]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G0357]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G5278]]"
+- "[[G5259G]]"
+- "[[G0268]]"
+- "[[G1519]]"
+- "[[G1438]]"
+- "[[G0485]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G2577G]]"
+- "[[G5590G]]"
+- "[[G4771]]"
+- "[[G1590]]"
+texts:
+- NKO
+- N(k)(O)
+---
+
 **Hebrews 12:3**<big><big>[[Heb.12.1 A Call to Endurance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.
 <small><sub>**BSB:**</sub></small>
 Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.
-<small><sub>**Literal:**</sub></small>
-do consider fully for the [One] such great having endured from <the> sinners against Himself hostility, so that not you may grow weary in the souls of you fainting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.2|<< Hebrews 12:2]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.4|Hebrews 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0357\|ἀναλογίσασθε]]  [[G1063\|γὰρ]]  [[G3588\|τὸν]]  [[G5108\|τοιαύτην]]  [[G5278\|ὑπομεμενηκότα]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0268\|ἁμαρτωλῶν]]  [[G1519\|εἰς]]  [[G1438\|ἑαυτὸν]]  [[G0485\|ἀντιλογίαν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2577G\|κάμητε]]  [[G3588\|ταῖς]]  [[G5590G\|ψυχαῖς]]  [[G4771\|ὑμῶν]]  [[G1590\|ἐκλυόμενοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EXAMPLE|EXAMPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.2|<< Hebrews 12:2]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.4|Hebrews 12:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

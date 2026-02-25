@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Defeats Ammon and Aram
+type: Pericope
 pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 10
 book/chapter: "[[2Sam.10|2 Samuel 10]]"
-genre:
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 11
 verses:
 - "[[2Sam.10.9]]"
 - "[[2Sam.10.10]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Sam.10.19]]"
 ---
 
-[[2Sam.10|2 Samuel 10:9 - 2 Samuel 10:19]]
+<small>[[2Sam.10|2 Samuel 10:9-19]]</small>
 *David Defeats Ammon and Aram*
 
 [[2Sam.10.9|9]] When Joab saw that the front of the battle was against him before and behind, he chose of all the choice \[men\] of Israel, and put \[them\] in array against the Syrians:

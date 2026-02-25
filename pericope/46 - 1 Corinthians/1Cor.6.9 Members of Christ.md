@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Members of Christ
+type: Pericope
 pericope: "[[1Cor.6.9 Members of Christ|Members of Christ]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 6
 book/chapter: "[[1Cor.6|1 Corinthians 6]]"
-genre:
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[1Cor.6.9]]"
 - "[[1Cor.6.10]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Cor.6.17]]"
 ---
 
-[[1Cor.6|1 Corinthians 6:9 - 1 Corinthians 6:17]]
+<small>[[1Cor.6|1 Corinthians 6:9-17]]</small>
 *Members of Christ*
 
 [[1Cor.6.9|9]] Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,

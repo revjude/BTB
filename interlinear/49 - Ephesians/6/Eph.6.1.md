@@ -1,10 +1,52 @@
+---
+title: Ephesians 6:1
+type: Verse
+kjv: "Children, obey your parents in the Lord: for this is right."
+bsb: "Children, obey your parents in the Lord, for this is right."
+greek: "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν ὑμῶν ἐν κυρίῳ· τοῦτο γάρ ἐστιν δίκαιον."
+pericope: "[[Eph.6.1 Children and Parents|Children and Parents]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G5219]]"
+- "[[G1118]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:1**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Children, obey your parents in the Lord: for this is right.
 <small><sub>**BSB:**</sub></small>
 Children, obey your parents in the Lord, for this is right.
-<small><sub>**Literal:**</sub></small>
-you who [are] Children, do obey the parents of you in [the] Lord; this for is right.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.33|<< Ephesians 5:33]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.2|Ephesians 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὰ]]  [[G5043\|τέκνα,]]  [[G5219\|ὑπακούετε]]  [[G3588\|τοῖς]]  [[G1118\|γονεῦσιν]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ·]]  [[G3778\|τοῦτο]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G1342\|δίκαιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic REWARD|REWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.33|<< Ephesians 5:33]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.2|Ephesians 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

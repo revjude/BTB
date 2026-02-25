@@ -1,8 +1,59 @@
+---
+title: Isaiah 41:4
+type: Verse
+kjv: "Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he."
+bsb: "Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD—the first and the last—I am He.”"
+hebrew: "מִֽי־ פָעַ֣ל וְעָשָׂ֔ה קֹרֵ֥א הַדֹּר֖וֹת מֵרֹ֑אשׁ אֲנִ֤י יְהוָה֙ רִאשׁ֔וֹן וְאֶת־ אַחֲרֹנִ֖ים אֲנִי־ הֽוּא׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALPHA|ALPHA]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H6466]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H7121G]]"
+- "[[H9009]]"
+- "[[H1755]]"
+- "[[H9006]]"
+- "[[H7218J]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H7223G]]"
+- "[[H0854]]"
+- "[[H0314]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:4**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath wrought and done [it], calling the generations from the beginning? I the LORD, the first, and with the last; I [am] he.
 <small><sub>**BSB:**</sub></small>
 Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD—the first and the last—I am He.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H6466\|פָעַ֣ל]] [[H9002\|וְ]][[H6213A\|עָשָׂ֔ה]] [[H7121G\|קֹרֵ֥א]] [[H9009\|הַ]][[H1755\|דֹּר֖וֹת]] [[H9006\|מֵ]][[H7218J\|רֹ֑אשׁ]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H7223G\|רִאשׁ֔וֹן]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H0314\|אַחֲרֹנִ֖ים]] [[H0589\|אֲנִי]][[H9014\|־]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALPHA|ALPHA]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.3|<< Isaiah 41:3]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.5|Isaiah 41:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

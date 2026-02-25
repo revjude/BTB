@@ -1,10 +1,56 @@
+---
+title: Luke 4:28
+type: Verse
+kjv: "And all they in the synagogue, when they heard these things, were filled with wrath,"
+bsb: "On hearing this, all the people in the synagogue were enraged."
+greek: "Καὶ ἐπλήσθησαν πάντες θυμοῦ ἐν τῇ συναγωγῇ ἀκούοντες ταῦτα·"
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4130]]"
+- "[[G3956]]"
+- "[[G2372]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G0191]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 4:28**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all they in the synagogue, when they heard these things, were filled with wrath,
 <small><sub>**BSB:**</sub></small>
 On hearing this, all the people in the synagogue were enraged.
-<small><sub>**Literal:**</sub></small>
-And were filled all with anger in the synagogue hearing these things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.27|<< Luke 4:27]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.29|Luke 4:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4130\|ἐπλήσθησαν]]  [[G3956\|πάντες]]  [[G2372\|θυμοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G0191\|ἀκούοντες]]  [[G3778\|ταῦτα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REPROOF|REPROOF]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.27|<< Luke 4:27]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.29|Luke 4:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

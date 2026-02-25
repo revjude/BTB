@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 5:24
+type: Verse
+kjv: "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines."
+bsb: "As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has gone out before you to strike the camp of the Philistines.”"
+hebrew: "וִ֠יהִי כְּֽשָׁמְעֲךָ֞ אֶת־ ק֧וֹל צְעָדָ֛ה בְּרָאשֵׁ֥י הַבְּכָאִ֖ים אָ֣ז תֶּחֱרָ֑ץ כִּ֣י אָ֗ז יָצָ֤א יְהוָה֙ לְפָנֶ֔יךָ לְהַכּ֖וֹת בְּמַחֲנֵ֥ה פְלִשְׁתִּֽים׃"
+pericope: "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MULBERRY TREE|MULBERRY TREE]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9041]]"
+- "[[H9004]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H6807A]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H1057]]"
+- "[[H0227A]]"
+- "[[H2782]]"
+- "[[H3588A]]"
+- "[[H3318G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H5221]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 5:24**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.
 <small><sub>**BSB:**</sub></small>
 As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has gone out before you to strike the camp of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ֠]][[H1961\|יהִי]] [[H9004\|כְּֽ]][[H8085G\|שָׁמְעֲ]][[H9041\|ךָ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֧וֹל]] [[H6807A\|צְעָדָ֛ה]] [[H9003\|בְּ]][[H7218I\|רָאשֵׁ֥י]] [[H9009\|הַ]][[H1057\|בְּכָאִ֖ים]] [[H0227A\|אָ֣ז]] [[H2782\|תֶּחֱרָ֑ץ]] [[H3588A\|כִּ֣י]] [[H0227A\|אָ֗ז]] [[H3318G\|יָצָ֤א]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9005\|לְ]][[H5221\|הַכּ֖וֹת]] [[H9003\|בְּ]][[H4264\|מַחֲנֵ֥ה]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GOD|GOD]] • [[topic MULBERRY TREE|MULBERRY TREE]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.23|<< 2 Samuel 5:23]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.25|2 Samuel 5:25 >>]]</td></tr></table>
 
@@ -27,8 +91,8 @@ As soon as you hear the sound of marching in the tops of the balsam trees, move 
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.23|<< 2 Samuel 5:23]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.25|2 Samuel 5:25 >>]]</td></tr></table>
 
-[^1]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^3]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: when hearing you  | **<big>[[H9003|בְּ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9041|ךָ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: when hearing you  | **<big>[[H9003|בְּ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9041|ךָ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: when hearing you  | **<big>[[H9003|בְּ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9041|ךָ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בְּֽשָׁמְעֲ/ךָ֞</big></span>**
 

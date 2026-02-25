@@ -1,10 +1,55 @@
+---
+title: Ephesians 6:15
+type: Verse
+kjv: "And your feet shod with the preparation of the gospel of peace;"
+bsb: "and with your feet fitted with the readiness of the gospel of peace."
+greek: "καὶ ὑποδησάμενοι τοὺς πόδας ἐν ἑτοιμασίᾳ τοῦ εὐαγγελίου τῆς εἰρήνης·"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5265]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1722]]"
+- "[[G2091]]"
+- "[[G2098]]"
+- "[[G1515]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:15**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And your feet shod with the preparation of the gospel of peace;
 <small><sub>**BSB:**</sub></small>
 and with your feet fitted with the readiness of the gospel of peace.
-<small><sub>**Literal:**</sub></small>
-and having shod the feet with [the] readiness of the gospel <the> of peace;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.14|<< Ephesians 6:14]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.16|Ephesians 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5265\|ὑποδησάμενοι]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G1722\|ἐν]]  [[G2091\|ἑτοιμασίᾳ]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOSPEL|GOSPEL]] • [[topic SATAN|SATAN]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAR|WAR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.14|<< Ephesians 6:14]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.16|Ephesians 6:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 6:15** is...
 > $\quad$ alluding to: [[LXX.Isa.52.7|Isa 52:7]]

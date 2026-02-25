@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 23:10
+type: Verse
+kjv: "Then said David, O LORD God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake."
+bsb: "And David said, “O LORD, God of Israel, Your servant has heard that Saul intends to come to Keilah and destroy the city on my account."
+hebrew: "וַיֹּאמֶר֮ דָּוִד֒ יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שָׁמֹ֤עַ שָׁמַע֙ עַבְדְּךָ֔ כִּֽי־ מְבַקֵּ֥שׁ שָׁא֖וּל לָב֣וֹא אֶל־ קְעִילָ֑ה לְשַׁחֵ֥ת לָעִ֖יר בַּעֲבוּרִֽי׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic KEILAH|KEILAH]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H8085G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H7084]]"
+- "[[H7843]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:10**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said David, O LORD God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.
 <small><sub>**BSB:**</sub></small>
 And David said, “O LORD, God of Israel, Your servant has heard that Saul intends to come to Keilah and destroy the city on my account.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H1732\|דָּוִד֒]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8085G\|שָׁמֹ֤עַ]] [[H8085G\|שָׁמַע֙]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1245\|מְבַקֵּ֥שׁ]] [[H7586G\|שָׁא֖וּל]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H7084\|קְעִילָ֑ה]] [[H9005\|לְ]][[H7843\|שַׁחֵ֥ת]] [[H9005\|לָ]][[H5892B\|עִ֖יר]] [[H9003\|בַּ]][[H5668\|עֲבוּרִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic KEILAH|KEILAH]] • [[topic MALICE|MALICE]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.9|<< 1 Samuel 23:9]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.11|1 Samuel 23:11 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Zechariah 13:3
+type: Verse
+kjv: "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth."
+bsb: "And if anyone still prophesies, his father and mother who bore him will say to him, ‘You shall not remain alive, because you have spoken falsely in the name of the LORD.’ When he prophesies, his father and mother who bore him will pierce him through."
+hebrew: "וְהָיָ֗ה כִּֽי־ יִנָּבֵ֣א אִישׁ֮ עוֹד֒ וְאָמְר֣וּ אֵ֠לָיו אָבִ֨יו וְאִמּ֤וֹ יֹֽלְדָיו֙ לֹ֣א תִֽחְיֶ֔ה כִּ֛י שֶׁ֥קֶר דִּבַּ֖רְתָּ בְּשֵׁ֣ם יְהוָ֑ה וּדְקָרֻ֜הוּ אָבִ֧יהוּ וְאִמּ֛וֹ יֹלְדָ֖יו בְּהִנָּבְאֽוֹ׃"
+pericope: "[[Zech.13.1 An End to Idolatry|An End to Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 13
+book/chapter: "[[Zech.13|Zechariah 13]]"
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5012]]"
+- "[[H0376I]]"
+- "[[H5750]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H3205]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H8267]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H1856]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 13:3**<big><big>[[Zech.13.1 An End to Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth.
 <small><sub>**BSB:**</sub></small>
 And if anyone still prophesies, his father and mother who bore him will say to him, ‘You shall not remain alive, because you have spoken falsely in the name of the LORD.’ When he prophesies, his father and mother who bore him will pierce him through.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5012\|יִנָּבֵ֣א]] [[H0376I\|אִישׁ֮]] [[H5750\|עוֹד֒]] [[H9001\|וְ]][[H0559\|אָמְר֣וּ]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H0001G\|אָבִ֨י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֤]][[H9023\|וֹ]] [[H3205\|יֹֽלְדָי]][[H9033\|ו֙]] [[H3808\|לֹ֣א]] [[H2421\|תִֽחְיֶ֔ה]] [[H3588A\|כִּ֛י]] [[H8267\|שֶׁ֥קֶר]] [[H1696G\|דִּבַּ֖רְתָּ]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וּ]][[H1856\|דְקָרֻ֜]][[H9033\|הוּ]] [[H0001G\|אָבִ֧י]][[H9023\|הוּ]] [[H9002\|וְ]][[H0517\|אִמּ֛]][[H9023\|וֹ]] [[H3205\|יֹלְדָ֖י]][[H9033\|ו]] [[H9003\|בְּ]][[H5012\|הִנָּבְאֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.2|<< Zechariah 13:2]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.4|Zechariah 13:4 >>]]</td></tr></table>
 

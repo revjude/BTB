@@ -1,10 +1,64 @@
+---
+title: Luke 11:27
+type: Verse
+kjv: "And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the paps which thou hast sucked."
+bsb: "As Jesus was saying these things, a woman in the crowd raised her voice and said, “Blessed is the womb that bore You, and blessed are the breasts that nursed You!”"
+greek: "Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα, ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· μακαρία ἡ κοιλία ἡ βαστάσασά σε, καὶ μαστοὶ οὓς ἐθήλασας."
+pericope: "[[Luke.11.27 True Blessedness|True Blessedness]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1869]]"
+- "[[G5100]]"
+- "[[G5456G]]"
+- "[[G1135G]]"
+- "[[G1537]]"
+- "[[G3793]]"
+- "[[G2036]]"
+- "[[G3107]]"
+- "[[G2836]]"
+- "[[G0941]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3149]]"
+- "[[G3739]]"
+- "[[G2337]]"
+texts:
+- NKO
+---
+
 **Luke 11:27**<big><big>[[Luke.11.27 True Blessedness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed [is] the womb that bare thee, and the paps which thou hast sucked.
 <small><sub>**BSB:**</sub></small>
 As Jesus was saying these things, a woman in the crowd raised her voice and said, “Blessed is the womb that bore You, and blessed are the breasts that nursed You!”
-<small><sub>**Literal:**</sub></small>
-It came to pass then while <the> [is] saying He these things, having lifted up one [her] voice a woman from the crowd said to Him; Blessed [is] the womb which having borne You, and [the] breasts at which You nursed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.26|<< Luke 11:26]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.28|Luke 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3004G\|λέγειν]]  [[G0846\|αὐτὸν]]  [[G3778\|ταῦτα,]]  [[G1869\|ἐπάρασά]]  [[G5100\|τις]]  [[G5456G\|φωνὴν]]  [[G1135G\|γυνὴ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3107\|μακαρία]]  [[G3588\|ἡ]]  [[G2836\|κοιλία]]  [[G3588\|ἡ]]  [[G0941\|βαστάσασά]]  [[G4771\|σε,]]  [[G2532\|καὶ]]  [[G3149\|μαστοὶ]]  [[G3739\|οὓς]]  [[G2337\|ἐθήλασας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.26|<< Luke 11:26]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.28|Luke 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

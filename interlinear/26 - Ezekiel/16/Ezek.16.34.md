@@ -1,8 +1,64 @@
+---
+title: Ezekiel 16:34
+type: Verse
+kjv: "And the contrary is in thee from other women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary."
+bsb: "So your prostitution is the opposite of that of other women: No one solicited your favors, and you paid a fee instead of receiving one; so you are the very opposite!"
+hebrew: "וַיְהִי־ בָ֨ךְ הֵ֤פֶךְ מִן־ הַנָּשִׁים֙ בְּתַזְנוּתַ֔יִךְ וְאַחֲרַ֖יִךְ לֹ֣א זוּנָּ֑ה וּבְתִתֵּ֣ךְ אֶתְנָ֗ן וְאֶתְנַ֛ן לֹ֥א נִתַּן־ לָ֖ךְ וַתְּהִ֥י לְהֶֽפֶךְ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H2016]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H8457]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3808]]"
+- "[[H2181]]"
+- "[[H5414G]]"
+- "[[H9042]]"
+- "[[H0868]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:34**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the contrary is in thee from [other] women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary.
 <small><sub>**BSB:**</sub></small>
 So your prostitution is the opposite of that of other women: No one solicited your favors, and you paid a fee instead of receiving one; so you are the very opposite!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H9003\|בָ֨]][[H9032\|ךְ]] [[H2016\|הֵ֤פֶךְ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁים֙]] [[H9003\|בְּ]][[H8457\|תַזְנוּתַ֔יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H0310A\|אַחֲרַ֖יִ]][[H9032\|ךְ]] [[H3808\|לֹ֣א]] [[H2181\|זוּנָּ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5414G\|תִתֵּ֣]][[H9042\|ךְ]] [[H0868\|אֶתְנָ֗ן]] [[H9002\|וְ]][[H0868\|אֶתְנַ֛ן]] [[H3808\|לֹ֥א]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H9005\|לְ]][[H2016\|הֶֽפֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.33|<< Ezekiel 16:33]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.35|Ezekiel 16:35 >>]]</td></tr></table>
 

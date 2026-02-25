@@ -7,5 +7,5 @@
 
 → Prudence of, on the occasion of Noah's drunkenness [[Gen.9.23|Ge 9:23]],[[Gen.9.27|27]]
 
-→ Descendants of [[Gen.10.2|Ge 10:2]]-[[Gen.10.5|5]]; [[1Chr.1.5|1Ch 1:5]]-[[1Chr.1.7|7]]
+→ Descendants of [[Gen.10.2|Ge 10:2-5]]; [[1Chr.1.5|1Ch 1:5-7]]
 

@@ -1,10 +1,51 @@
+---
+title: Galatians 4:19
+type: Verse
+kjv: "My little children, of whom I travail in birth again until Christ be formed in you,"
+bsb: "My children, for whom I am again in the pains of childbirth until Christ is formed in you,"
+greek: "τέκνα μου, οὓς πάλιν ὠδίνω μέχρις οὗ μορφωθῇ Χριστὸς ἐν ὑμῖν."
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5043]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G3825]]"
+- "[[G5605]]"
+- "[[G3360]]"
+- "[[G3445]]"
+- "[[G5547]]"
+- "[[G1722]]"
+- "[[G4771]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Galatians 4:19**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 My little children, of whom I travail in birth again until Christ be formed in you,
 <small><sub>**BSB:**</sub></small>
 My children, for whom I am again in the pains of childbirth until Christ is formed in you,
-<small><sub>**Literal:**</sub></small>
-Children of mine, of whom again I travail until that may have been formed Christ in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.18|<< Galatians 4:18]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.20|Galatians 4:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5043\|τέκνα]]  [[G3165\|μου,]]  [[G3739\|οὓς]]  [[G3825\|πάλιν]]  [[G5605\|ὠδίνω]]  [[G3360\|μέχρις]]  [[G3739\|οὗ]]  [[G3445\|μορφωθῇ]]  [[G5547\|Χριστὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.18|<< Galatians 4:18]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.20|Galatians 4:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

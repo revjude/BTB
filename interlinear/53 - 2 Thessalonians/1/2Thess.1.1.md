@@ -1,10 +1,60 @@
+---
+title: 2 Thessalonians 1:1
+type: Verse
+kjv: "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+bsb: "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+greek: "Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ ἡμῶν καὶ κυρίῳ Ἰησοῦ Χριστῷ·"
+pericope: "[[2Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 1
+book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G4610]]"
+- "[[G5095]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2331]]"
+- "[[G1722]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 1:1**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
-<small><sub>**Literal:**</sub></small>
-Paul and Silvanus and Timothy To the church of [the] Thessalonians in God [the] Father of us and in the Lord Jesus Christ:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.28|<< 1 Thessalonians 5:28]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.2|2 Thessalonians 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G2532\|καὶ]]  [[G4610\|Σιλουανὸς]]  [[G2532\|καὶ]]  [[G5095\|Τιμόθεος]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G2331\|Θεσσαλονικέων]]  [[G1722\|ἐν]]  [[G2316\|θεῷ]]  [[G3962\|πατρὶ]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G2962G\|κυρίῳ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic SILAS|SILAS]] • [[topic THESSALONICA|THESSALONICA]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.28|<< 1 Thessalonians 5:28]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.2|2 Thessalonians 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

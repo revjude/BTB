@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 35:14
+type: Verse
+kjv: "And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron."
+bsb: "Afterward, they made preparations for themselves and for the priests, since the priests, the descendants of Aaron, were offering up burnt offerings and fat until nightfall. So the Levites made preparations for themselves and for the priests, the descendants of Aaron."
+hebrew: "וְאַחַ֗ר הֵכִ֤ינוּ לָהֶם֙ וְלַכֹּ֣הֲנִ֔ים כִּ֤י הַכֹּהֲנִים֙ בְּנֵ֣י אַהֲרֹ֔ן בְּהַֽעֲל֛וֹת הָעוֹלָ֥ה וְהַחֲלָבִ֖ים עַד־ לָ֑יְלָה וְהַלְוִיִּם֙ הֵכִ֣ינוּ לָהֶ֔ם וְלַכֹּהֲנִ֖ים בְּנֵ֥י אַהֲרֹֽן׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H9003]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H2459]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:14**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron [were busied] in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
 <small><sub>**BSB:**</sub></small>
 Afterward, they made preparations for themselves and for the priests, since the priests, the descendants of Aaron, were offering up burnt offerings and fat until nightfall. So the Levites made preparations for themselves and for the priests, the descendants of Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֗ר]] [[H3559A\|הֵכִ֤ינוּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9002\|וְ]][[H9005\|לַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִים֙]] [[H1121G\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֔ן]] [[H9003\|בְּ]][[H5927I\|הַֽעֲל֛וֹת]] [[H9009\|הָ]][[H5930A\|עוֹלָ֥ה]] [[H9002\|וְ]][[H9009\|הַ]][[H2459\|חֲלָבִ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H3915\|לָ֑יְלָה]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H3559A\|הֵכִ֣ינוּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H9005\|לַ]][[H3548\|כֹּהֲנִ֖ים]] [[H1121G\|בְּנֵ֥י]] [[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.13|<< 2 Chronicles 35:13]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.15|2 Chronicles 35:15 >>]]</td></tr></table>
 

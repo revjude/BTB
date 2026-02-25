@@ -1,8 +1,53 @@
+---
+title: Psalm 119:100
+type: Verse
+kjv: "I understand more than the ancients, because I keep thy precepts."
+bsb: "I discern more than the elders, for I obey Your precepts."
+hebrew: "מִזְּקֵנִ֥ים אֶתְבּוֹנָ֑ן כִּ֖י פִקּוּדֶ֣יךָ נָצָֽרְתִּי׃"
+pericope: "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H2205H]]"
+- "[[H0995]]"
+- "[[H3588A]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:100**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I understand more than the ancients, because I keep thy precepts.
 <small><sub>**BSB:**</sub></small>
 I discern more than the elders, for I obey Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H2205H\|זְּקֵנִ֥ים]] [[H0995\|אֶתְבּוֹנָ֑ן]] [[H3588A\|כִּ֖י]] [[H6490\|פִקּוּדֶ֣י]][[H9021\|ךָ]] [[H5341\|נָצָֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.100|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.99|<< Psalms 119:99]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.101|Psalms 119:101 >>]]</td></tr></table>
 

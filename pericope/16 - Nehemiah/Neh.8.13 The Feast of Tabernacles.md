@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Tabernacles
+type: Pericope
 pericope: "[[Neh.8.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 8
 book/chapter: "[[Neh.8|Nehemiah 8]]"
-genre:
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 6
 verses:
 - "[[Neh.8.13]]"
 - "[[Neh.8.14]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Neh.8.18]]"
 ---
 
-[[Neh.8|Nehemiah 8:13 - Nehemiah 8:18]]
+<small>[[Neh.8|Nehemiah 8:13-18]]</small>
 *The Feast of Tabernacles*
 
 [[Neh.8.13|13]] And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.

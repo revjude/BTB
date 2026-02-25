@@ -1,10 +1,66 @@
+---
+title: Hebrews 6:10
+type: Verse
+kjv: "For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister."
+bsb: "For God is not unjust. He will not forget your work and the love you have shown for His name as you have ministered to the saints and continue to do so."
+greek: "οὐ γὰρ ἄδικος ὁ θεὸς ἐπιλαθέσθαι τοῦ ἔργου ὑμῶν καὶ τοῦ κόπου τῆς ἀγάπης ἧς ἐνεδείξασθε εἰς τὸ ὄνομα αὐτοῦ διακονήσαντες τοῖς ἁγίοις καὶ διακονοῦντες."
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G0094]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1950]]"
+- "[[G2041]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2873]]"
+- "[[G0026]]"
+- "[[G3739]]"
+- "[[G1731]]"
+- "[[G1519]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G1247]]"
+- "[[G0040H]]"
+texts:
+- NKO
+- K
+---
+
 **Hebrews 6:10**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God [is] not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.
 <small><sub>**BSB:**</sub></small>
 For God is not unjust. He will not forget your work and the love you have shown for His name as you have ministered to the saints and continue to do so.
-<small><sub>**Literal:**</sub></small>
-Not for unjust [is] <the> God to forget the work of you and the labor the love that you have shown toward the name of Him having ministered to the saints and [still] ministering.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.9|<< Hebrews 6:9]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.11|Hebrews 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0094\|ἄδικος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1950\|ἐπιλαθέσθαι]]  [[G3588\|τοῦ]]  [[G2041\|ἔργου]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2873\|κόπου]]  [[G3588\|τῆς]]  [[G0026\|ἀγάπης]]  [[G3739\|ἧς]]  [[G1731\|ἐνεδείξασθε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G1247\|διακονήσαντες]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G2532\|καὶ]]  [[G1247\|διακονοῦντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic DILIGENCE|DILIGENCE]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.9|<< Hebrews 6:9]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.11|Hebrews 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

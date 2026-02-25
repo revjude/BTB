@@ -1,8 +1,58 @@
+---
+title: Job 9:33
+type: Verse
+kjv: "Neither is there any daysman betwixt us, that might lay his hand upon us both."
+bsb: "Nor is there a mediator between us, to lay his hand upon us both."
+hebrew: "לֹ֣א יֵשׁ־ בֵּינֵ֣ינוּ מוֹכִ֑יחַ יָשֵׁ֖ת יָד֣וֹ עַל־ שְׁנֵֽינוּ׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DAYSMAN|DAYSMAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3808]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H0996G]]"
+- "[[H9035]]"
+- "[[H3198]]"
+- "[[H7896H]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:33**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither is there any daysman betwixt us, [that] might lay his hand upon us both.
 <small><sub>**BSB:**</sub></small>
 Nor is there a mediator between us, to lay his hand upon us both.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H3426\|יֵשׁ]][[H9014\|־]] [[H0996G\|בֵּינֵ֣י]][[H9035\|נוּ]] [[H3198\|מוֹכִ֑יחַ]] [[H7896H\|יָשֵׁ֖ת]] [[H3027G\|יָד֣]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DAYSMAN|DAYSMAN]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.32|<< Job 9:32]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.34|Job 9:34 >>]]</td></tr></table>
 

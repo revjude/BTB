@@ -1,8 +1,56 @@
+---
+title: Isaiah 57:14
+type: Verse
+kjv: "And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people."
+bsb: "And it will be said, “Build it up, build it up, prepare the way, take every obstacle out of the way of My people.”"
+hebrew: "וְאָמַ֥ר סֹֽלּוּ־ סֹ֖לּוּ פַּנּוּ־ דָ֑רֶךְ הָרִ֥ימוּ מִכְשׁ֖וֹל מִדֶּ֥רֶךְ עַמִּֽי׃ ס"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5549]]"
+- "[[H9014]]"
+- "[[H6437G]]"
+- "[[H1870K]]"
+- "[[H7311A]]"
+- "[[H4383]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 57:14**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people.
 <small><sub>**BSB:**</sub></small>
 And it will be said, “Build it up, build it up, prepare the way, take every obstacle out of the way of My people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֥ר]] [[H5549\|סֹֽלּוּ]][[H9014\|־]] [[H5549\|סֹ֖לּוּ]] [[H6437G\|פַּנּוּ]][[H9014\|־]] [[H1870K\|דָ֑רֶךְ]] [[H7311A\|הָרִ֥ימוּ]] [[H4383\|מִכְשׁ֖וֹל]] [[H9006\|מִ]][[H1870K\|דֶּ֥רֶךְ]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STUMBLING|STUMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.13|<< Isaiah 57:13]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.15|Isaiah 57:15 >>]]</td></tr></table>
 
@@ -16,7 +64,7 @@ And it will be said, “Build it up, build it up, prepare the way, take every ob
 | lift up  |**<big>&#8207;[[H7311A\|הָרִ֥ימוּ]]&#8207; </big>**| ha.Ri.mu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | obstacle[s]  |**<big>&#8207;[[H4383\|מִכְשׁ֖וֹל]]&#8207; </big>**| mikh.Shol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] way of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1870K\|דֶּ֥רֶךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  |**<big>&#8207;[[H5971A\|עַמִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.13|<< Isaiah 57:13]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.15|Isaiah 57:15 >>]]</td></tr></table>
 
 

@@ -1,8 +1,60 @@
+---
+title: Numbers 26:41
+type: Verse
+kjv: "These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred."
+bsb: "These were the clans of Benjamin, and their registration numbered 45,600."
+hebrew: "אֵ֥לֶּה בְנֵי־ בִנְיָמִ֖ן לְמִשְׁפְּחֹתָ֑ם וּפְקֻ֣דֵיהֶ֔ם חֲמִשָּׁ֧ה וְאַרְבָּעִ֛ים אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃ ס"
+pericope: "[[Num.26.38 The Tribe of Benjamin|The Tribe of Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6485A]]"
+- "[[H2568]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 26:41**<big><big>[[Num.26.38 The Tribe of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Benjamin after their families: and they that were numbered of them [were] forty and five thousand and six hundred.
 <small><sub>**BSB:**</sub></small>
 These were the clans of Benjamin, and their registration numbered 45,600.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֥לֶּה]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֖ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H9002\|וּ]][[H6485A\|פְקֻ֣דֵי]][[H9028\|הֶ֔ם]] [[H2568\|חֲמִשָּׁ֧ה]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.42|Numbers 26:42 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ These were the clans of Benjamin, and their registration numbered 45,600.
 | and forty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0705\|אַרְבָּעִ֛ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שֵׁ֥שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.42|Numbers 26:42 >>]]</td></tr></table>
 
 

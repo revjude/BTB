@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Penalty
+type: Pericope
 pericope: "[[Deut.1.34 Israel’s Penalty|Israel’s Penalty]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.1.34]]"
 - "[[Deut.1.35]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.1.40]]"
 ---
 
-[[Deut.1|Deuteronomy 1:34 - Deuteronomy 1:40]]
+<small>[[Deut.1|Deuteronomy 1:34-40]]</small>
 *Israel’s Penalty*
 
 [[Deut.1.34|34]] And the LORD heard the voice of your words, and was wroth, and sware, saying,

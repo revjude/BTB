@@ -1,8 +1,53 @@
+---
+title: Numbers 21:31
+type: Verse
+kjv: "Thus Israel dwelt in the land of the Amorites."
+bsb: "So Israel lived in the land of the Amorites."
+hebrew: "וַיֵּ֙שֶׁב֙ יִשְׂרָאֵ֔ל בְּאֶ֖רֶץ הָאֱמֹרִֽי׃"
+pericope: "[[Num.21.31 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:31**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Israel dwelt in the land of the Amorites.
 <small><sub>**BSB:**</sub></small>
 So Israel lived in the land of the Amorites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֙שֶׁב֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H9009\|הָ]][[H0567\|אֱמֹרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.30|<< Numbers 21:30]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.32|Numbers 21:32 >>]]</td></tr></table>
 

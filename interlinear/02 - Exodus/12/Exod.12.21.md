@@ -1,8 +1,72 @@
+---
+title: Exodus 12:21
+type: Verse
+kjv: "Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
+bsb: "Then Moses summoned all the elders of Israel and told them, “Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb."
+hebrew: "וַיִּקְרָ֥א מֹשֶׁ֛ה לְכָל־ זִקְנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם מִֽשְׁכ֗וּ וּקְח֨וּ לָכֶ֥ם צֹ֛אן לְמִשְׁפְּחֹתֵיכֶ֖ם וְשַׁחֲט֥וּ הַפָּֽסַח׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4900]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H9036]]"
+- "[[H6629G]]"
+- "[[H4940]]"
+- "[[H9026]]"
+- "[[H7819A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:21**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
 <small><sub>**BSB:**</sub></small>
 Then Moses summoned all the elders of Israel and told them, “Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H4872\|מֹשֶׁ֛ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2205G\|זִקְנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H4900\|מִֽשְׁכ֗וּ]] [[H9002\|וּ]][[H3947G\|קְח֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H6629G\|צֹ֛אן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H7819A\|שַׁחֲט֥וּ]] [[H9009\|הַ]][[H6453\|פָּֽסַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.20|<< Exodus 12:20]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.22|Exodus 12:22 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Isaiah 56:1
+type: Verse
+kjv: "Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed."
+bsb: "This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה שִׁמְר֥וּ מִשְׁפָּ֖ט וַעֲשׂ֣וּ צְדָקָ֑ה כִּֽי־ קְרוֹבָ֤ה יְשֽׁוּעָתִי֙ לָב֔וֹא וְצִדְקָתִ֖י לְהִגָּלֽוֹת׃"
+pericope: "[[Isa.56.1 Salvation for Foreigners|Salvation for Foreigners]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 56
+book/chapter: "[[Isa.56|Isaiah 56]]"
+chronological_order: 695
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H8104G]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H6666]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7138]]"
+- "[[H3444]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H1540H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 56:1**<big><big>[[Isa.56.1 Salvation for Foreigners|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Keep ye judgment, and do justice: for my salvation [is] near to come, and my righteousness to be revealed.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H8104G\|שִׁמְר֥וּ]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9002\|וַ]][[H6213A\|עֲשׂ֣וּ]] [[H6666\|צְדָקָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7138\|קְרוֹבָ֤ה]] [[H3444\|יְשֽׁוּעָתִ]][[H9020\|י֙]] [[H9005\|לָ]][[H0935G\|ב֔וֹא]] [[H9002\|וְ]][[H6666\|צִדְקָתִ֖]][[H9020\|י]] [[H9005\|לְ]][[H1540H\|הִגָּלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTICE|JUSTICE]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.13|<< Isaiah 55:13]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.2|Isaiah 56:2 >>]]</td></tr></table>
 

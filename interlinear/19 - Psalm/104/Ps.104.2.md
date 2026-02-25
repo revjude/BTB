@@ -1,8 +1,54 @@
+---
+title: Psalm 104:2
+type: Verse
+kjv: "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:"
+bsb: "He wraps Himself in light as with a garment; He stretches out the heavens like a tent,"
+hebrew: "עֹֽטֶה־ א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H5844A]]"
+- "[[H9014]]"
+- "[[H0216]]"
+- "[[H9004]]"
+- "[[H8008]]"
+- "[[H5186]]"
+- "[[H8064]]"
+- "[[H3407]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:2**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who coverest [thyself] with light as [with] a garment: who stretchest out the heavens like a curtain:
 <small><sub>**BSB:**</sub></small>
 He wraps Himself in light as with a garment; He stretches out the heavens like a tent,
+<small><sub>**Hebrew:**</sub></small>
+[[H5844A\|עֹֽטֶה]][[H9014\|־]] [[H0216\|א֭וֹר]] [[H9004\|כַּ]][[H8008\|שַּׂלְמָ֑ה]] [[H5186\|נוֹטֶ֥ה]] [[H8064\|שָׁ֝מַ֗יִם]] [[H9004\|כַּ]][[H3407\|יְרִיעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.1|<< Psalms 104:1]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.3|Psalms 104:3 >>]]</td></tr></table>
 

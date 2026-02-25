@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 11:9
+type: Verse
+kjv: "So David waxed greater and greater: for the LORD of hosts was with him."
+bsb: "And David became greater and greater, for the LORD of Hosts was with him."
+hebrew: "וַיֵּ֥לֶךְ דָּוִ֖יד הָל֣וֹךְ וְגָד֑וֹל וַיהוָ֥ה צְבָא֖וֹת עִמּֽוֹ׃ פ"
+pericope: "[[1Chr.11.4 David Conquers Jerusalem|David Conquers Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980L]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:9**<big><big>[[1Chr.11.4 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David waxed greater and greater: for the LORD of hosts [was] with him.
 <small><sub>**BSB:**</sub></small>
 And David became greater and greater, for the LORD of Hosts was with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980L\|יֵּ֥לֶךְ]] [[H1732\|דָּוִ֖יד]] [[H1980L\|הָל֣וֹךְ]] [[H9002\|וְ]][[H1431\|גָד֑וֹל]] [[H9002\|וַ]][[H3068G\|יהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.8|<< 1 Chronicles 11:8]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.10|1 Chronicles 11:10 >>]]</td></tr></table>
 
@@ -14,7 +57,7 @@ And David became greater and greater, for the LORD of Hosts was with him.
 | and becoming great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1431\|גָד֑וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Dol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֥ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.8|<< 1 Chronicles 11:8]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.10|1 Chronicles 11:10 >>]]</td></tr></table>
 
 

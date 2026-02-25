@@ -1,8 +1,72 @@
+---
+title: Ezekiel 4:6
+type: Verse
+kjv: "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year."
+bsb: "When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year."
+hebrew: "וְכִלִּיתָ֣ אֶת־ אֵ֗לֶּה וְשָׁ֨כַבְתָּ֜ עַל־ צִדְּךָ֤ הַיְמָנִי֙ שֵׁנִ֔ית וְנָשָׂ֖אתָ אֶת־ עֲוֹ֣ן בֵּית־ יְהוּדָ֑ה אַרְבָּעִ֣ים י֔וֹם י֧וֹם לַשָּׁנָ֛ה י֥וֹם לַשָּׁנָ֖ה נְתַתִּ֥יו לָֽךְ׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic FORTY|FORTY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H6654]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3227A]]"
+- "[[H3233G]]"
+- "[[H8145]]"
+- "[[H5375J]]"
+- "[[H5771I]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H0705]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H8141]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 4:6**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
 <small><sub>**BSB:**</sub></small>
 When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615G\|כִלִּיתָ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֗לֶּה]] [[H9001\|וְ]][[H7901G\|שָׁ֨כַבְתָּ֜]] [[H5921A\|עַל]][[H9014\|־]] [[H6654\|צִדְּ]][[H9021\|ךָ֤]] [[H9009\|הַ]][[H3233G\|יְמָנִי֙]] [[H8145\|שֵׁנִ֔ית]] [[H9001\|וְ]][[H5375J\|נָשָׂ֖אתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771I\|עֲוֹ֣ן]] [[H1004M\|בֵּית]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H0705\|אַרְבָּעִ֣ים]] [[H3117G\|י֔וֹם]] [[H3117G\|י֧וֹם]] [[H9005\|לַ]][[H8141\|שָּׁנָ֛ה]] [[H3117G\|י֥וֹם]] [[H9005\|לַ]][[H8141\|שָּׁנָ֖ה]] [[H5414G\|נְתַתִּ֥י]][[H9033\|ו]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORTY|FORTY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.5|<< Ezekiel 4:5]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.7|Ezekiel 4:7 >>]]</td></tr></table>
 
@@ -31,7 +95,7 @@ When you have completed these days, lie down again, but on your right side, and 
 | to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.5|<< Ezekiel 4:5]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.7|Ezekiel 4:7 >>]]</td></tr></table>
 
-[^1]: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: \<the> right  | **<big>[[H9009|הַ]]</big><big>[[H3227A|יְמוֹנִי]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<the> right  | **<big>[[H9009|הַ]]</big><big>[[H3227A|יְמוֹנִי]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַיְמָונִי֙</big></span>**
 

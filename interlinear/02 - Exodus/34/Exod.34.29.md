@@ -1,8 +1,81 @@
+---
+title: Exodus 34:29
+type: Verse
+kjv: "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him."
+bsb: "And when Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was unaware that his face had become radiant from speaking with the LORD."
+hebrew: "וַיְהִ֗י בְּרֶ֤דֶת מֹשֶׁה֙ מֵהַ֣ר סִינַ֔י וּשְׁנֵ֨י לֻחֹ֤ת הָֽעֵדֻת֙ בְּיַד־ מֹשֶׁ֔ה בְּרִדְתּ֖וֹ מִן־ הָהָ֑ר וּמֹשֶׁ֣ה לֹֽא־ יָדַ֗ע כִּ֥י קָרַ֛ן ע֥וֹר פָּנָ֖יו בְּדַבְּר֥וֹ אִתּֽוֹ׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3381]]"
+- "[[H4872]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H3871]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H9043]]"
+- "[[H4480A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H7160]]"
+- "[[H5785]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:29**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
 <small><sub>**BSB:**</sub></small>
 And when Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was unaware that his face had become radiant from speaking with the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H3381\|רֶ֤דֶת]] [[H4872\|מֹשֶׁה֙]] [[H9006\|מֵ]][[H2022G\|הַ֣ר]] [[H5514G\|סִינַ֔י]] [[H9002\|וּ]][[H8147\|שְׁנֵ֨י]] [[H3871\|לֻחֹ֤ת]] [[H9009\|הָֽ]][[H5715\|עֵדֻת֙]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9003\|בְּ]][[H3381\|רִדְתּ֖]][[H9043\|וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֑ר]] [[H9002\|וּ]][[H4872\|מֹשֶׁ֣ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֗ע]] [[H3588A\|כִּ֥י]] [[H7160\|קָרַ֛ן]] [[H5785\|ע֥וֹר]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H1696G\|דַבְּר֥]][[H9043\|וֹ]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic DECALOGUE|DECALOGUE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic REVERENCE|REVERENCE]] • [[topic TABLE|TABLE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.28|<< Exodus 34:28]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.30|Exodus 34:30 >>]]</td></tr></table>
 

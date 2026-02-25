@@ -1,8 +1,63 @@
+---
+title: Psalm 22:27
+type: Verse
+kjv: "All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee."
+bsb: "All the ends of the earth will remember and turn to the LORD. All the families of the nations will bow down before Him."
+hebrew: "יִזְכְּר֤וּ׀ וְיָשֻׁ֣בוּ אֶל־ יְ֭הוָה כָּל־ אַפְסֵי־ אָ֑רֶץ וְיִֽשְׁתַּחֲו֥וּ לְ֝פָנֶ֗יךָ כָּֽל־ מִשְׁפְּח֥וֹת גּוֹיִֽם׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H2142]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H4940]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:27**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.
 <small><sub>**BSB:**</sub></small>
 All the ends of the earth will remember and turn to the LORD. All the families of the nations will bow down before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|יִזְכְּר֤וּ]][[H9015\|׀]] [[H9002\|וְ]][[H7725O\|יָשֻׁ֣בוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H3605\|כָּל]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7812\|יִֽשְׁתַּחֲו֥וּ]] [[H9005\|לְ֝]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H4940\|מִשְׁפְּח֥וֹת]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.26|<< Psalms 22:26]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.28|Psalms 22:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

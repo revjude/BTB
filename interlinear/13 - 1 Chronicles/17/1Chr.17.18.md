@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 17:18
+type: Verse
+kjv: "What can David speak more to thee for the honour of thy servant? for thou knowest thy servant."
+bsb: "What more can David say to You for honoring Your servant? For You know Your servant,"
+hebrew: "מַה־ יּוֹסִ֨יף ע֥וֹד דָּוִ֛יד אֵלֶ֖יךָ לְכָב֣וֹד אֶת־ עַבְדֶּ֑ךָ וְאַתָּ֖ה אֶֽת־ עַבְדְּךָ֥ יָדָֽעְתָּ׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3254H]]"
+- "[[H5750]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H3519]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:18**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What can David [speak] more to thee for the honour of thy servant? for thou knowest thy servant.
 <small><sub>**BSB:**</sub></small>
 What more can David say to You for honoring Your servant? For You know Your servant,
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H3254H\|יּוֹסִ֨יף]] [[H5750\|ע֥וֹד]] [[H1732\|דָּוִ֛יד]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9005\|לְ]][[H3519\|כָב֣וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H3045\|יָדָֽעְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.17|<< 1 Chronicles 17:17]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.19|1 Chronicles 17:19 >>]]</td></tr></table>
 

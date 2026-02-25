@@ -1,10 +1,60 @@
+---
+title: Luke 1:59
+type: Verse
+kjv: "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father."
+bsb: "On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah."
+greek: "Καὶ ἐγένετο ἐν τῇ ἡμέρᾳ τῇ ὀγδόῃ ἦλθον περιτεμεῖν τὸ παιδίον καὶ ἐκάλουν αὐτὸ ἐπὶ τῷ ὀνόματι τοῦ πατρὸς αὐτοῦ Ζαχαρίαν."
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3590]]"
+- "[[G2064]]"
+- "[[G4059]]"
+- "[[G3813]]"
+- "[[G2564G]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G3962]]"
+- "[[G2197H]]"
+texts:
+- NKO
+---
+
 **Luke 1:59**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
 <small><sub>**BSB:**</sub></small>
 On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah.
-<small><sub>**Literal:**</sub></small>
-And it came to pass on <the> day the eighth they came to circumcise the child and were calling it after the name of the father of him Zechariah.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.58|<< Luke 1:58]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.60|Luke 1:60 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῇ]]  [[G3590\|ὀγδόῃ]]  [[G2064\|ἦλθον]]  [[G4059\|περιτεμεῖν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G2532\|καὶ]]  [[G2564G\|ἐκάλουν]]  [[G0846\|αὐτὸ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G2197H\|Ζαχαρίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.58|<< Luke 1:58]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.60|Luke 1:60 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

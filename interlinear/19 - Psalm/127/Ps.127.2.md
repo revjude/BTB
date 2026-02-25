@@ -1,8 +1,68 @@
+---
+title: Psalm 127:2
+type: Verse
+kjv: "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
+bsb: "In vain you rise early and stay up late, toiling for bread to eat—for He gives sleep to His beloved."
+hebrew: "שָׁ֤וְא לָכֶ֨ם׀ מַשְׁכִּ֪ימֵי ק֡וּם מְאַֽחֲרֵי־ שֶׁ֗בֶת אֹ֭כְלֵי לֶ֣חֶם הָעֲצָבִ֑ים כֵּ֤ן יִתֵּ֖ן לִֽידִיד֣וֹ שֵׁנָֽא׃"
+pericope: "[[Ps.127.1 Children Are a Heritage from the LORD|Children Are a Heritage from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 127
+book/chapter: "[[Ps.127|Psalm 127]]"
+chronological_order: 447
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic CARE|CARE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SLEEP|SLEEP]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H7723H]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9015]]"
+- "[[H7925]]"
+- "[[H6965B]]"
+- "[[H0309]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9009]]"
+- "[[H6089A]]"
+- "[[H3651C]]"
+- "[[H5414G]]"
+- "[[H3039A]]"
+- "[[H9023]]"
+- "[[H8142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 127:2**<big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] vain for you to rise up early, to sit up late, to eat the bread of sorrows: [for] so he giveth his beloved sleep.
 <small><sub>**BSB:**</sub></small>
 In vain you rise early and stay up late, toiling for bread to eat—for He gives sleep to His beloved.
+<small><sub>**Hebrew:**</sub></small>
+[[H7723H\|שָׁ֤וְא]] [[H9005\|לָ]][[H9036\|כֶ֨ם]][[H9015\|׀]] [[H7925\|מַשְׁכִּ֪ימֵי]] [[H6965B\|ק֡וּם]] [[H0309\|מְאַֽחֲרֵי]][[H9014\|־]] [[H3427\|שֶׁ֗בֶת]] [[H0398\|אֹ֭כְלֵי]] [[H3899H\|לֶ֣חֶם]] [[H9009\|הָ]][[H6089A\|עֲצָבִ֑ים]] [[H3651C\|כֵּ֤ן]] [[H5414G\|יִתֵּ֖ן]] [[H9005\|לִֽ]][[H3039A\|ידִיד֣]][[H9023\|וֹ]] [[H8142\|שֵׁנָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BREAD|BREAD]] • [[topic CARE|CARE]] • [[topic GOD|GOD]] • [[topic SLEEP|SLEEP]] • [[topic VANITY|VANITY]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.1|<< Psalms 127:1]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.3|Psalms 127:3 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Isaiah 40:22
+type: Verse
+kjv: "It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:"
+bsb: "He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in."
+hebrew: "הַיֹּשֵׁב֙ עַל־ ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם כָּאֹ֖הֶל לָשָֽׁבֶת׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRASSHOPPER|GRASSHOPPER]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2329]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H2284]]"
+- "[[H5186]]"
+- "[[H1852]]"
+- "[[H8064]]"
+- "[[H9001]]"
+- "[[H4969]]"
+- "[[H9038]]"
+- "[[H0168G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:22**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] he that sitteth upon the circle of the earth, and the inhabitants thereof [are] as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
 <small><sub>**BSB:**</sub></small>
 He sits enthroned above the circle of the earth; its dwellers are like grasshoppers. He stretches out the heavens like a curtain, and spreads them out like a tent to dwell in.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3427\|יֹּשֵׁב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H2329\|ח֣וּג]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3427\|יֹשְׁבֶ֖י]][[H9024\|הָ]] [[H9004\|כַּ]][[H2284\|חֲגָבִ֑ים]] [[H9009\|הַ]][[H5186\|נּוֹטֶ֤ה]] [[H9004\|כַ]][[H1852\|דֹּק֙]] [[H8064\|שָׁמַ֔יִם]] [[H9001\|וַ]][[H4969\|יִּמְתָּחֵ֥]][[H9038\|ם]] [[H9004\|כָּ]][[H0168G\|אֹ֖הֶל]] [[H9005\|לָ]][[H3427\|שָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic CURTAINS|CURTAINS]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic GRASSHOPPER|GRASSHOPPER]] • [[topic HEAVEN|HEAVEN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.21|<< Isaiah 40:21]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.23|Isaiah 40:23 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Job 1:4
+type: Verse
+kjv: "And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them."
+bsb: "Job’s sons would take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them."
+hebrew: "וְהָלְכ֤וּ בָנָיו֙ וְעָשׂ֣וּ מִשְׁתֶּ֔ה בֵּ֖ית אִ֣ישׁ יוֹמ֑וֹ וְשָׁלְח֗וּ וְקָרְאוּ֙ לִשְׁלֹ֣שֶׁת אַחְיֽוֹתֵיהֶ֔ם לֶאֱכֹ֥ל וְלִשְׁתּ֖וֹת עִמָּהֶֽם׃"
+pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H4960]]"
+- "[[H1004B]]"
+- "[[H0376I]]"
+- "[[H3117G]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H7969]]"
+- "[[H0269]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 1:4**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his sons went and feasted [in their] houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 <small><sub>**BSB:**</sub></small>
 Job’s sons would take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980G\|הָלְכ֤וּ]] [[H1121A\|בָנָי]][[H9023\|ו֙]] [[H9001\|וְ]][[H6213A\|עָשׂ֣וּ]] [[H4960\|מִשְׁתֶּ֔ה]] [[H1004B\|בֵּ֖ית]] [[H0376I\|אִ֣ישׁ]] [[H3117G\|יוֹמ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H7971G\|שָׁלְח֗וּ]] [[H9001\|וְ]][[H7121G\|קָרְאוּ֙]] [[H9005\|לִ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H0269\|אַחְיֽוֹתֵי]][[H9028\|הֶ֔ם]] [[H9005\|לֶ]][[H0398\|אֱכֹ֥ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8354\|שְׁתּ֖וֹת]] [[H5973A\|עִמָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.3|<< Job 1:3]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.5|Job 1:5 >>]]</td></tr></table>
 

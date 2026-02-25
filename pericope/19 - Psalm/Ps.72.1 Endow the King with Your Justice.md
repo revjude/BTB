@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Endow the King with Your Justice
+type: Pericope
 pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 72
 book/chapter: "[[Ps.72|Psalm 72]]"
-genre:
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.72.0]]"
 - "[[Ps.72.1]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.72.20]]"
 ---
 
-[[Ps.72|Psalm 72:1 - Psalm 72:20]]
+<small>[[Ps.72|Psalm 72:1-20]]</small>
 *Endow the King with Your Justice*
 
 [[Ps.72.0|0]] \[A Psalm\] for Solomon.

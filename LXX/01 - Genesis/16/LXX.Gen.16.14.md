@@ -1,6 +1,55 @@
+---
+title: LXX Genesis 16:14
+type: Verse
+lxx: "Because of this she called the well, Well of which I Beheld Face to Face. Behold, it is between Kadesh and between Bared."
+greek: "ένεκε τούτου εκάλεσε το φρέαρ φρέαρ ου ενώπιον είδον ιδού αναμέσον Κάδης και αναμέσον Βερέδ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEER-LAHAI-ROI|BEER-LAHAI-ROI]]"
+- "[[topic BERED|BERED]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+strongs:
+- "[[G1752]]"
+- "[[G3778]]"
+- "[[G2564]]"
+- "[[G3588]]"
+- "[[G5421]]"
+- "[[G5421]]"
+- "[[G3739]]"
+- "[[G1799]]"
+- "[[G1492]]"
+- "[[G2400]]"
+- "[[G6271]]"
+- "[[H6946]]"
+- "[[G2532]]"
+- "[[G6271]]"
+- "[[H1260]]"
+---
+
 **LXX Genesis 16:14** 
 <small><sub>**LXX:**</sub></small>
 Because of this she called the well, Well of which I Beheld Face to Face. Behold, \[it is\] between Kadesh and between Bared. 
+<small><sub>**Greek:**</sub></small>
+[[G1752\|ένεκε]] [[G3778\|τούτου]] [[G2564\|εκάλεσε]] [[G3588\|το]] [[G5421\|φρέαρ]] [[G5421\|φρέαρ]] [[G3739\|ου]] [[G1799\|ενώπιον]] [[G1492\|είδον]] [[G2400\|ιδού]] [[G6271\|αναμέσον]] [[H6946\|Κάδης]] [[G2532\|και]] [[G6271\|αναμέσον]] [[H1260\|Βερέδ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-LAHAI-ROI|BEER-LAHAI-ROI]] • [[topic BERED|BERED]] • [[topic LAHAI-ROI|LAHAI-ROI]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.13|<< Genesis 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.15|Genesis 16:15 >>]]</td></tr></table>
 
@@ -21,6 +70,6 @@ Because of this she called the well, Well of which I Beheld Face to Face. Behold
 | and | **<big>[[G2532\|και]]</big>** |
 | between | **<big>[[G6271\|αναμέσον]]</big>** |
 | Bared. | **<big>[[H1260\|Βερέδ]]</big>** |
-[[Gen.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.13|<< Genesis 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.15|Genesis 16:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.13|<< Genesis 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.15|Genesis 16:15 >>]]</td></tr></table>
 
 

@@ -1,8 +1,64 @@
+---
+title: Leviticus 6:21
+type: Verse
+kjv: "In a pan it shall be made with oil; and when it is baken, thou shalt bring it in: and the baken pieces of the meat offering shalt thou offer for a sweet savour unto the LORD."
+bsb: "It shall be prepared with oil on a griddle; you are to bring it well-kneaded and present it as a grain offering broken in pieces, a pleasing aroma to the LORD."
+hebrew: "עַֽל־ מַחֲבַ֗ת בַּשֶּׁ֛מֶן תֵּעָשֶׂ֖ה מֻרְבֶּ֣כֶת תְּבִיאֶ֑נָּה תֻּפִינֵי֙ מִנְחַ֣ת פִּתִּ֔ים תַּקְרִ֥יב רֵֽיחַ־ נִיחֹ֖חַ לַיהוָֽה׃"
+pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4227]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H6213H]]"
+- "[[H7246]]"
+- "[[H0935P]]"
+- "[[H9034]]"
+- "[[H8601]]"
+- "[[H4503G]]"
+- "[[H6595A]]"
+- "[[H7126H]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:21**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In a pan it shall be made with oil; [and when it is] baken, thou shalt bring it in: [and] the baken pieces of the meat offering shalt thou offer [for] a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 It shall be prepared with oil on a griddle; you are to bring it well-kneaded and present it as a grain offering broken in pieces, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַֽל]][[H9014\|־]] [[H4227\|מַחֲבַ֗ת]] [[H9003\|בַּ]][[H8081\|שֶּׁ֛מֶן]] [[H6213H\|תֵּעָשֶׂ֖ה]] [[H7246\|מֻרְבֶּ֣כֶת]] [[H0935P\|תְּבִיאֶ֑]][[H9034\|נָּה]] [[H8601\|תֻּפִינֵי֙]] [[H4503G\|מִנְחַ֣ת]] [[H6595A\|פִּתִּ֔ים]] [[H7126H\|תַּקְרִ֥יב]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.20|<< Leviticus 6:20]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.22|Leviticus 6:22 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 3:7
+type: Verse
+kjv: "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
+bsb: "So neither he who plants nor he who waters is anything, but only God, who makes things grow."
+greek: "ὥστε οὔτε ὁ φυτεύων ἐστίν τι οὔτε ὁ ποτίζων, ἀλλ᾽ ὁ αὐξάνων θεός·"
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARTNERSHIP|PARTNERSHIP]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3777]]"
+- "[[G3588]]"
+- "[[G5452]]"
+- "[[G1510]]"
+- "[[G5100]]"
+- "[[G4222]]"
+- "[[G0235]]"
+- "[[G0837]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:7**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
 <small><sub>**BSB:**</sub></small>
 So neither he who plants nor he who waters is anything, but only God, who makes things grow.
-<small><sub>**Literal:**</sub></small>
-So neither the [one] planting is anything nor the [one] watering, but [only] the [One] giving growth — God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.6|<< 1 Corinthians 3:6]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.8|1 Corinthians 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3777\|οὔτε]]  [[G3588\|ὁ]]  [[G5452\|φυτεύων]]  [[G1510\|ἐστίν]]  [[G5100\|τι]]  [[G3777\|οὔτε]]  [[G3588\|ὁ]]  [[G4222\|ποτίζων,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G0837\|αὐξάνων]]  [[G2316\|θεός·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARTNERSHIP|PARTNERSHIP]] • [[topic POWER|POWER]] • [[topic REGENERATION|REGENERATION]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.6|<< 1 Corinthians 3:6]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.8|1 Corinthians 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

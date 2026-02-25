@@ -1,8 +1,56 @@
+---
+title: Ezekiel 40:39
+type: Verse
+kjv: "And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering."
+bsb: "Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered."
+hebrew: "וּבְאֻלָ֣ם הַשַּׁ֗עַר שְׁנַ֤יִם שֻׁלְחָנוֹת֙ מִפּ֔וֹ וּשְׁנַ֥יִם שֻׁלְחָנ֖וֹת מִפֹּ֑ה לִשְׁח֤וֹט אֲלֵיהֶם֙ הָעוֹלָ֔ה וְהַחַטָּ֖את וְהָאָשָֽׁם׃"
+pericope: "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0197J]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H8147]]"
+- "[[H7979]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H9005]]"
+- "[[H7819A]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5930A]]"
+- "[[H2403H]]"
+- "[[H0817]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:39**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the porch of the gate [were] two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.
 <small><sub>**BSB:**</sub></small>
 Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H0197J\|אֻלָ֣ם]] [[H9009\|הַ]][[H8179G\|שַּׁ֗עַר]] [[H8147\|שְׁנַ֤יִם]] [[H7979\|שֻׁלְחָנוֹת֙]] [[H9006\|מִ]][[H6311\|פּ֔וֹ]] [[H9002\|וּ]][[H8147\|שְׁנַ֥יִם]] [[H7979\|שֻׁלְחָנ֖וֹת]] [[H9006\|מִ]][[H6311\|פֹּ֑ה]] [[H9005\|לִ]][[H7819A\|שְׁח֤וֹט]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9009\|הָ]][[H5930A\|עוֹלָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H2403H\|חַטָּ֖את]] [[H9002\|וְ]][[H9009\|הָ]][[H0817\|אָשָֽׁם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.38|<< Ezekiel 40:38]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.40|Ezekiel 40:40 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 30:39
+type: Verse
+kjv: "And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted."
+bsb: "they mated in front of the branches. And they bore young that were streaked or speckled or spotted."
+hebrew: "וַיֶּחֱמ֥וּ הַצֹּ֖אן אֶל־ הַמַּקְל֑וֹת וַתֵּלַ֣דְןָ הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּטְלֻאִֽים׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3179]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4731]]"
+- "[[H3205]]"
+- "[[H6124]]"
+- "[[H5348]]"
+- "[[H9002]]"
+- "[[H2921]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:39**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted.
 <small><sub>**BSB:**</sub></small>
 they mated in front of the branches. And they bore young that were streaked or speckled or spotted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3179\|יֶּחֱמ֥וּ]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4731\|מַּקְל֑וֹת]] [[H9001\|וַ]][[H3205\|תֵּלַ֣דְןָ]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H6124\|עֲקֻדִּ֥ים]] [[H5348\|נְקֻדִּ֖ים]] [[H9002\|וּ]][[H2921\|טְלֻאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SHEEP|SHEEP]] • [[topic SON-IN-LAW|SON-IN-LAW]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.38|<< Genesis 30:38]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.40|Genesis 30:40 >>]]</td></tr></table>
 

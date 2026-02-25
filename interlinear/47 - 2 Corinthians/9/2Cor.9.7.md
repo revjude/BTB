@@ -1,10 +1,61 @@
+---
+title: 2 Corinthians 9:7
+type: Verse
+kjv: "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+bsb: "Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver."
+greek: "ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός.¶"
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G1538]]"
+- "[[G2531]]"
+- "[[G4255]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G3361]]"
+- "[[G1537]]"
+- "[[G3077]]"
+- "[[G2228]]"
+- "[[G0318]]"
+- "[[G2431]]"
+- "[[G1063]]"
+- "[[G1395]]"
+- "[[G0025]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 9:7**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Every man according as he purposeth in his heart, [so let him give]; not grudgingly, or of necessity: for God loveth a cheerful giver.
 <small><sub>**BSB:**</sub></small>
 Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver.
-<small><sub>**Literal:**</sub></small>
-each even as he himself has purposed in the heart, not out of regret or of necessity; a cheerful for giver loves <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.6|<< 2 Corinthians 9:6]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.8|2 Corinthians 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1538\|ἕκαστος]]  [[G2531\|καθὼς]]  [[G4255\|προῄρηται]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ,]]  [[G3361\|μὴ]]  [[G1537\|ἐκ]]  [[G3077\|λύπης]]  [[G2228\|ἢ]]  [[G1537\|ἐξ]]  [[G0318\|ἀνάγκης·]]  [[G2431\|ἱλαρὸν]]  [[G1063\|γὰρ]]  [[G1395\|δότην]]  [[G0025\|ἀγαπᾷ]]  [[G3588\|ὁ]]  [[G2316\|θεός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic GIVING|GIVING]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.6|<< 2 Corinthians 9:6]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.8|2 Corinthians 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 9:7** is...
 > $\quad$ referencing: [[LXX.Prov.22.8|Prov 22:8]]

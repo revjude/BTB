@@ -1,8 +1,59 @@
+---
+title: Judges 18:15
+type: Verse
+kjv: "And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and saluted him."
+bsb: "So they turned aside there and went to the home of the young Levite, the house of Micah, and greeted him."
+hebrew: "וַיָּס֣וּרוּ שָׁ֔מָּה וַיָּבֹ֛אוּ אֶל־ בֵּֽית־ הַנַּ֥עַר הַלֵּוִ֖י בֵּ֣ית מִיכָ֑ה וַיִּשְׁאֲלוּ־ ל֖וֹ לְשָׁלֽוֹם׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H3881]]"
+- "[[H4318G]]"
+- "[[H7592]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:15**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned thitherward, and came to the house of the young man the Levite, [even] unto the house of Micah, and saluted him.
 <small><sub>**BSB:**</sub></small>
 So they turned aside there and went to the home of the young Levite, the house of Micah, and greeted him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493I\|יָּס֣וּרוּ]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֛אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֥עַר]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H1004B\|בֵּ֣ית]] [[H4318G\|מִיכָ֑ה]] [[H9001\|וַ]][[H7592\|יִּשְׁאֲלוּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H7965I\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.14|<< Judges 18:14]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.16|Judges 18:16 >>]]</td></tr></table>
 

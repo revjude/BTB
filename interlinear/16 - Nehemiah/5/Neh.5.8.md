@@ -1,8 +1,85 @@
+---
+title: Nehemiah 5:8
+type: Verse
+kjv: "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer."
+bsb: "and said, “We have done our best to buy back our Jewish brothers who were sold to foreigners, but now you are selling your own brothers, that they may be sold back to us!” But they remained silent, for they could find nothing to say."
+hebrew: "וָאֹמְרָ֣ה לָהֶ֗ם אֲנַ֣חְנוּ קָ֠נִינוּ אֶת־ אַחֵ֨ינוּ הַיְּהוּדִ֜ים הַנִּמְכָּרִ֤ים לַגּוֹיִם֙ כְּדֵ֣י בָ֔נוּ וְגַם־ אַתֶּ֛ם תִּמְכְּר֥וּ אֶת־ אֲחֵיכֶ֖ם וְנִמְכְּרוּ־ לָ֑נוּ וַֽיַּחֲרִ֔ישׁוּ וְלֹ֥א מָצְא֖וּ דָּבָֽר׃ ס"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0587]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H4376]]"
+- "[[H1471A]]"
+- "[[H9004]]"
+- "[[H1767]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0859D]]"
+- "[[H9026]]"
+- "[[H2790B]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 5:8**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing [to answer].
 <small><sub>**BSB:**</sub></small>
 and said, “We have done our best to buy back our Jewish brothers who were sold to foreigners, but now you are selling your own brothers, that they may be sold back to us!” But they remained silent, for they could find nothing to say.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמְרָ֣]][[H9012\|ה]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H0587\|אֲנַ֣חְנוּ]] [[H7069\|קָ֠נִינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אַחֵ֨י]][[H9025\|נוּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֜ים]] [[H9009\|הַ]][[H4376\|נִּמְכָּרִ֤ים]] [[H9005\|לַ]][[H1471A\|גּוֹיִם֙]] [[H9004\|כְּ]][[H1767\|דֵ֣י]] [[H9003\|בָ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0859D\|אַתֶּ֛ם]] [[H4376\|תִּמְכְּר֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אֲחֵי]][[H9026\|כֶ֖ם]] [[H9001\|וְ]][[H4376\|נִמְכְּרוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9001\|וַֽ]][[H2790B\|יַּחֲרִ֔ישׁוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|מָצְא֖וּ]] [[H1697G\|דָּבָֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEREST|INTEREST]] • [[topic KINDNESS|KINDNESS]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RICH, THE|RICH, THE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.7|<< Nehemiah 5:7]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.9|Nehemiah 5:9 >>]]</td></tr></table>
 
@@ -29,7 +106,7 @@ and said, “We have done our best to buy back our Jewish brothers who were sold
 | and they were silent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2790B\|יַּחֲרִ֔ישׁוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Ri.shu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they found  |**<big>&#8207;[[H4672\|מָצְא֖וּ]]&#8207; </big>**| ma.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a word  |**<big>&#8207;[[H1697G\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a word  |**<big>&#8207;[[H1697G\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.7|<< Nehemiah 5:7]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.9|Nehemiah 5:9 >>]]</td></tr></table>
 
 

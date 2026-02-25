@@ -1,8 +1,56 @@
+---
+title: Job 34:10
+type: Verse
+kjv: "Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity."
+bsb: "Therefore listen to me, O men of understanding. Far be it from God to do wrong, and from the Almighty to act unjustly."
+hebrew: "לָכֵ֤ן׀ אַ֥נֲשֵׁ֥י לֵבָ֗ב שִׁמְע֫וּ לִ֥י חָלִ֖לָה לָאֵ֥ל מֵרֶ֗שַׁע וְשַׁדַּ֥י מֵעָֽוֶל׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H0582]]"
+- "[[H3824]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H2486]]"
+- "[[H0410G]]"
+- "[[H9006]]"
+- "[[H7562]]"
+- "[[H9002]]"
+- "[[H7706]]"
+- "[[H5766A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:10**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hearken unto me, ye men of understanding: far be it from God, [that he should do] wickedness; and [from] the Almighty, [that he should commit] iniquity.
 <small><sub>**BSB:**</sub></small>
 Therefore listen to me, O men of understanding. Far be it from God to do wrong, and from the Almighty to act unjustly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֤ן]][[H9015\|׀]] [[H0582\|אַ֥נֲשֵׁ֥י]] [[H3824\|לֵבָ֗ב]] [[H8085G\|שִׁמְע֫וּ]] [[H9005\|לִ֥]][[H9030\|י]] [[H2486\|חָלִ֖לָה]] [[H9005\|לָ]][[H0410G\|אֵ֥ל]] [[H9006\|מֵ]][[H7562\|רֶ֗שַׁע]] [[H9002\|וְ]][[H7706\|שַׁדַּ֥י]] [[H9006\|מֵ]][[H5766A\|עָֽוֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.9|<< Job 34:9]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.11|Job 34:11 >>]]</td></tr></table>
 

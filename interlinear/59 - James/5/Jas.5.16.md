@@ -1,10 +1,64 @@
+---
+title: James 5:16
+type: Verse
+kjv: "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+bsb: "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail."
+greek: "ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε· πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη."
+pericope: "[[Jas.5.13 The Prayer of Faith|The Prayer of Faith]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1843]]"
+- "[[G3767]]"
+- "[[G0240]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2532]]"
+- "[[G2172]]"
+- "[[G5228]]"
+- "[[G3704]]"
+- "[[G2390]]"
+- "[[G4183]]"
+- "[[G2480]]"
+- "[[G1162]]"
+- "[[G1342]]"
+- "[[G1754]]"
+texts:
+- NKO
+- NO
+- N(k)O
+- NK(o)
+---
+
 **James 5:16**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Confess [your] faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 <small><sub>**BSB:**</sub></small>
 Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail.
-<small><sub>**Literal:**</sub></small>
-do confess therefore to one another the sins and do pray for one another, so that you may be healed; Much prevails [the] prayer of a righteous [man] being made effective.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.15|<< James 5:15]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.17|James 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1843\|ἐξομολογεῖσθε]]  [[G3767\|οὖν]]  [[G0240\|ἀλλήλοις]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G2532\|καὶ]]  [[G2172\|εὔχεσθε]]  [[G5228\|ὑπὲρ]]  [[G0240\|ἀλλήλων,]]  [[G3704\|ὅπως]]  [[G2390\|ἰαθῆτε·]]  [[G4183\|πολὺ]]  [[G2480\|ἰσχύει]]  [[G1162\|δέησις]]  [[G1342\|δικαίου]]  [[G1754\|ἐνεργουμένη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.15|<< James 5:15]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.17|James 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

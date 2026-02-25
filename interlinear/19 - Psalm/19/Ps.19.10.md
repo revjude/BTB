@@ -1,8 +1,56 @@
+---
+title: Psalm 19:10
+type: Verse
+kjv: "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb."
+bsb: "They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb."
+hebrew: "הַֽנֶּחֱמָדִ֗ים מִ֭זָּהָב וּמִפַּ֣ז רָ֑ב וּמְתוּקִ֥ים מִ֝דְּבַ֗שׁ וְנֹ֣פֶת צוּפִֽים׃"
+pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 19
+book/chapter: "[[Ps.19|Psalm 19]]"
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H2530A]]"
+- "[[H9006]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H6337]]"
+- "[[H7227A]]"
+- "[[H4966]]"
+- "[[H1706]]"
+- "[[H5317]]"
+- "[[H6688]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 19:10**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 More to be desired [are they] than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
 <small><sub>**BSB:**</sub></small>
 They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H2530A\|נֶּחֱמָדִ֗ים]] [[H9006\|מִ֭]][[H2091\|זָּהָב]] [[H9002\|וּ]][[H9006\|מִ]][[H6337\|פַּ֣ז]] [[H7227A\|רָ֑ב]] [[H9002\|וּ]][[H4966\|מְתוּקִ֥ים]] [[H9006\|מִ֝]][[H1706\|דְּבַ֗שׁ]] [[H9002\|וְ]][[H5317\|נֹ֣פֶת]] [[H6688\|צוּפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.9|<< Psalms 19:9]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.11|Psalms 19:11 >>]]</td></tr></table>
 

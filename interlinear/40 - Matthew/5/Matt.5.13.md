@@ -1,10 +1,75 @@
+---
+title: Matthew 5:13
+type: Verse
+kjv: "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+bsb: "You are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men."
+jesus_said: "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."
+greek: "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς· ἐὰν δὲ τὸ ἅλας μωρανθῇ, ἐν τίνι ἁλισθήσεται; εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθὲν ἔξω καὶ καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων.¶"
+pericope: "[[Matt.5.13 Salt and Light|Salt and Light]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALT|SALT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0217]]"
+- "[[G1093G]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3471]]"
+- "[[G1722]]"
+- "[[G5101]]"
+- "[[G0233]]"
+- "[[G1519]]"
+- "[[G3762]]"
+- "[[G2480]]"
+- "[[G2089]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G0906G]]"
+- "[[G1854]]"
+- "[[G2532]]"
+- "[[G2662]]"
+- "[[G5259H]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 5:13**<big><big>[[Matt.5.13 Salt and Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
 <small><sub>**BSB:**</sub></small>
 You are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.
-<small><sub>**Literal:**</sub></small>
-You yourselves are the salt of the earth; if however the salt shall become tasteless, with what will it be salted? For no [thing] it is useful any longer only except for being cast out and is to be trampled upon by <the> men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.12|<< Matthew 5:12]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.14|Matthew 5:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Ὑμεῖς]]  [[G1510\|ἐστε]]  [[G3588\|τὸ]]  [[G0217\|ἅλας]]  [[G3588\|τῆς]]  [[G1093G\|γῆς·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G0217\|ἅλας]]  [[G3471\|μωρανθῇ,]]  [[G1722\|ἐν]]  [[G5101\|τίνι]]  [[G0233\|ἁλισθήσεται;]]  [[G1519\|εἰς]]  [[G3762\|οὐδὲν]]  [[G2480\|ἰσχύει]]  [[G2089\|ἔτι]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G0906G\|βληθὲν]]  [[G1854\|ἔξω]]  [[G2532\|καὶ]]  [[G2662\|καταπατεῖσθαι]]  [[G5259H\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALT|SALT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.12|<< Matthew 5:12]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.14|Matthew 5:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

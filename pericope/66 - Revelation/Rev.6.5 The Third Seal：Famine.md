@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Third Seal：Famine
+type: Pericope
 pericope: "[[Rev.6.5 The Third Seal：Famine|The Third Seal：Famine]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 6
 book/chapter: "[[Rev.6|Revelation 6]]"
-genre:
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 2
 verses:
 - "[[Rev.6.5]]"
 - "[[Rev.6.6]]"
 ---
 
-[[Rev.6|Revelation 6:5 - Revelation 6:6]]
+<small>[[Rev.6|Revelation 6:5-6]]</small>
 *The Third Seal：Famine*
 
 [[Rev.6.5|5]] And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.

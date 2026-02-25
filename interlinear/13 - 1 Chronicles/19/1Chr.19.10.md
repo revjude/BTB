@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 19:10
+type: Verse
+kjv: "Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians."
+bsb: "When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans."
+hebrew: "וַיַּ֣רְא יוֹאָ֗ב כִּֽי־ הָיְתָ֧ה פְנֵי־ הַמִּלְחָמָ֛ה אֵלָ֖יו פָּנִ֣ים וְאָח֑וֹר וַיִּבְחַ֗ר מִכָּל־ בָּחוּר֙ בְּיִשְׂרָאֵ֔ל וַֽיַּעֲרֹ֖ךְ לִקְרַ֥את אֲרָֽם׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3097G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0268]]"
+- "[[H0977]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H0758I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:10**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put [them] in array against the Syrians.
 <small><sub>**BSB:**</sub></small>
 When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H3097G\|יוֹאָ֗ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֧ה]] [[H6440G\|פְנֵי]][[H9014\|־]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֛ה]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H6440G\|פָּנִ֣ים]] [[H9002\|וְ]][[H0268\|אָח֑וֹר]] [[H9001\|וַ]][[H0977\|יִּבְחַ֗ר]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0977\|בָּחוּר֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַֽ]][[H6186A\|יַּעֲרֹ֖ךְ]] [[H9005\|לִ]][[H7122H\|קְרַ֥את]] [[H0758I\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.9|<< 1 Chronicles 19:9]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.11|1 Chronicles 19:11 >>]]</td></tr></table>
 

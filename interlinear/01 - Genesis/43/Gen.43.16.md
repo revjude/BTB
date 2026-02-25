@@ -1,8 +1,73 @@
+---
+title: Genesis 43:16
+type: Verse
+kjv: "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon."
+bsb: "When Joseph saw Benjamin with his brothers, he said to the steward of his house, “Take these men to my house. Slaughter an animal and prepare it, for they shall dine with me at noon.”"
+hebrew: "וַיַּ֨רְא יוֹסֵ֣ף אִתָּם֮ אֶת־ בִּנְיָמִין֒ וַיֹּ֙אמֶר֙ לַֽאֲשֶׁ֣ר עַל־ בֵּית֔וֹ הָבֵ֥א אֶת־ הָאֲנָשִׁ֖ים הַבָּ֑יְתָה וּטְבֹ֤חַ טֶ֙בַח֙ וְהָכֵ֔ן כִּ֥י אִתִּ֛י יֹאכְל֥וּ הָאֲנָשִׁ֖ים בַּֽצָּהֳרָֽיִם׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DINNER|DINNER]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3130G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2873]]"
+- "[[H2874]]"
+- "[[H3559A]]"
+- "[[H3588A]]"
+- "[[H9030]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H6672A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:16**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring [these] men home, and slay, and make ready; for [these] men shall dine with me at noon.
 <small><sub>**BSB:**</sub></small>
 When Joseph saw Benjamin with his brothers, he said to the steward of his house, “Take these men to my house. Slaughter an animal and prepare it, for they shall dine with me at noon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֨רְא]] [[H3130G\|יוֹסֵ֣ף]] [[H0854\|אִתָּ]][[H9038\|ם֮]] [[H0853\|אֶת]][[H9014\|־]] [[H1144G\|בִּנְיָמִין֒]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לַֽ]][[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H0935P\|הָבֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9002\|וּ]][[H2873\|טְבֹ֤חַ]] [[H2874\|טֶ֙בַח֙]] [[H9002\|וְ]][[H3559A\|הָכֵ֔ן]] [[H3588A\|כִּ֥י]] [[H0854\|אִתִּ֛]][[H9030\|י]] [[H0398\|יֹאכְל֥וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9003\|בַּֽ]][[H6672A\|צָּהֳרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DINNER|DINNER]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.15|<< Genesis 43:15]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.17|Genesis 43:17 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Isaiah 26:1
+type: Verse
+kjv: "In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks."
+bsb: "In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts."
+hebrew: "בַּיּ֣וֹם הַה֔וּא יוּשַׁ֥ר הַשִּׁיר־ הַזֶּ֖ה בְּאֶ֣רֶץ יְהוּדָ֑ה עִ֣יר עָז־ לָ֔נוּ יְשׁוּעָ֥ה יָשִׁ֖ית חוֹמ֥וֹת וָחֵֽל׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BULWARK|BULWARK]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7891]]"
+- "[[H7892A]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H5892B]]"
+- "[[H5794]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3444]]"
+- "[[H7896G]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H2426]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:1**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall this song be sung in the land of Judah; We have a strong city; salvation will [God] appoint [for] walls and bulwarks.
 <small><sub>**BSB:**</sub></small>
 In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H7891\|יוּשַׁ֥ר]] [[H9009\|הַ]][[H7892A\|שִּׁיר]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֑ה]] [[H5892B\|עִ֣יר]] [[H5794\|עָז]][[H9014\|־]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H3444\|יְשׁוּעָ֥ה]] [[H7896G\|יָשִׁ֖ית]] [[H2346G\|חוֹמ֥וֹת]] [[H9002\|וָ]][[H2426\|חֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULWARK|BULWARK]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.12|<< Isaiah 25:12]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.2|Isaiah 26:2 >>]]</td></tr></table>
 

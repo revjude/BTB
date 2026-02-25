@@ -1,8 +1,52 @@
+---
+title: Isaiah 13:1
+type: Verse
+kjv: "The burden of Babylon, which Isaiah the son of Amoz did see."
+bsb: "This is the burden against Babylon that Isaiah son of Amoz received:"
+hebrew: "מַשָּׂ֖א בָּבֶ֑ל אֲשֶׁ֣ר חָזָ֔ה יְשַׁעְיָ֖הוּ בֶּן־ אָמֽוֹץ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMOZ|AMOZ]]"
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H4853B]]"
+- "[[H0894]]"
+- "[[H0834A]]"
+- "[[H2372]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:1**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Babylon, which Isaiah the son of Amoz did see.
 <small><sub>**BSB:**</sub></small>
 This is the burden against Babylon that Isaiah son of Amoz received:
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H0894\|בָּבֶ֑ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H2372\|חָזָ֔ה]] [[H3470A\|יְשַׁעְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0531\|אָמֽוֹץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMOZ|AMOZ]] • [[topic BURDEN|BURDEN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.6|<< Isaiah 12:6]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.2|Isaiah 13:2 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Joshua 24:14
+type: Verse
+kjv: "Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD."
+bsb: "Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside the gods your fathers served beyond the Euphrates and in Egypt, and serve the LORD."
+hebrew: "וְעַתָּ֞ה יְר֧אוּ אֶת־ יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת־ אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת־ יְהוָֽה׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HARAN|HARAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5647H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8549H]]"
+- "[[H0571G]]"
+- "[[H5493G]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5676H]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:14**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside the gods your fathers served beyond the Euphrates and in Egypt, and serve the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H3372H\|יְר֧אוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וְ]][[H5647H\|עִבְד֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H8549H\|תָמִ֣ים]] [[H9002\|וּ]][[H9003\|בֶֽ]][[H0571G\|אֱמֶ֑ת]] [[H9002\|וְ]][[H5493G\|הָסִ֣ירוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהִ֗ים]] [[H0834A\|אֲשֶׁר֩]] [[H5647H\|עָבְד֨וּ]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֜ם]] [[H9003\|בְּ]][[H5676H\|עֵ֤בֶר]] [[H9009\|הַ]][[H5104G\|נָּהָר֙]] [[H9002\|וּ]][[H9003\|בְ]][[H4714G\|מִצְרַ֔יִם]] [[H9002\|וְ]][[H5647H\|עִבְד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARAN|HARAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic SHECHEM|SHECHEM]] • [[topic SINCERITY|SINCERITY]] • [[topic TRUTH|TRUTH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.13|<< Joshua 24:13]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.15|Joshua 24:15 >>]]</td></tr></table>
 

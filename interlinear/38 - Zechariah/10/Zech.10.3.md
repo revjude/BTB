@@ -1,8 +1,69 @@
+---
+title: Zechariah 10:3
+type: Verse
+kjv: "Mine anger was kindled against the shepherds, and I punished the goats: for the LORD of hosts hath visited his flock the house of Judah, and hath made them as his goodly horse in the battle."
+bsb: "“My anger burns against the shepherds, and I will punish the leaders. For the LORD of Hosts attends to His flock, the house of Judah; He will make them like His royal steed in battle."
+hebrew: "עַל־ הָֽרֹעִים֙ חָרָ֣ה אַפִּ֔י וְעַל־ הָעַתּוּדִ֖ים אֶפְק֑וֹד כִּֽי־ פָקַד֩ יְהוָ֨ה צְבָא֤וֹת אֶת־ עֶדְרוֹ֙ אֶת־ בֵּ֣ית יְהוּדָ֔ה וְשָׂ֣ם אוֹתָ֔ם כְּס֥וּס הוֹד֖וֹ בַּמִּלְחָמָֽה׃"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H6260]]"
+- "[[H6485I]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0853]]"
+- "[[H5739]]"
+- "[[H9023]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H5483M]]"
+- "[[H1935]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 10:3**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine anger was kindled against the shepherds, and I punished the goats: for the LORD of hosts hath visited his flock the house of Judah, and hath made them as his goodly horse in the battle.
 <small><sub>**BSB:**</sub></small>
 “My anger burns against the shepherds, and I will punish the leaders. For the LORD of Hosts attends to His flock, the house of Judah; He will make them like His royal steed in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H7462B\|רֹעִים֙]] [[H2734\|חָרָ֣ה]] [[H0639G\|אַפִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6260\|עַתּוּדִ֖ים]] [[H6485I\|אֶפְק֑וֹד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6485I\|פָקַד֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֤וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5739\|עֶדְר]][[H9023\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וְ]][[H7760A\|שָׂ֣ם]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9004\|כְּ]][[H5483M\|ס֥וּס]] [[H1935\|הוֹד֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.2|<< Zechariah 10:2]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.4|Zechariah 10:4 >>]]</td></tr></table>
 

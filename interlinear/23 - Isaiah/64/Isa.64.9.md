@@ -1,8 +1,61 @@
+---
+title: Isaiah 64:9
+type: Verse
+kjv: "Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people."
+bsb: "Do not be angry, O LORD, beyond measure; do not remember our iniquity forever. Oh, look upon us, we pray; we are all Your people!"
+hebrew: "אַל־ תִּקְצֹ֤ף יְהוָה֙ עַד־ מְאֹ֔ד וְאַל־ לָעַ֖ד תִּזְכֹּ֣ר עָוֹ֑ן הֵ֥ן הַבֶּט־ נָ֖א עַמְּךָ֥ כֻלָּֽנוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7107]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H2142]]"
+- "[[H5771G]]"
+- "[[H2005]]"
+- "[[H5027]]"
+- "[[H4994]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:9**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we [are] all thy people.
 <small><sub>**BSB:**</sub></small>
 Do not be angry, O LORD, beyond measure; do not remember our iniquity forever. Oh, look upon us, we pray; we are all Your people!
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7107\|תִּקְצֹ֤ף]] [[H3068G\|יְהוָה֙]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H9005\|לָ]][[H5703\|עַ֖ד]] [[H2142\|תִּזְכֹּ֣ר]] [[H5771G\|עָוֹ֑ן]] [[H2005\|הֵ֥ן]] [[H5027\|הַבֶּט]][[H9014\|־]] [[H4994\|נָ֖א]] [[H5971A\|עַמְּ]][[H9021\|ךָ֥]] [[H3605\|כֻלָּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.8|<< Isaiah 64:8]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.10|Isaiah 64:10 >>]]</td></tr></table>
 

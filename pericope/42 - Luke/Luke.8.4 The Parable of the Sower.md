@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Sower
+type: Pericope
 pericope: "[[Luke.8.4 The Parable of the Sower|The Parable of the Sower]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Luke
 chapter: 8
 book/chapter: "[[Luke.8|Luke 8]]"
-genre:
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 12
 verses:
 - "[[Luke.8.4]]"
 - "[[Luke.8.5]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Luke.8.15]]"
 ---
 
-[[Luke.8|Luke 8:4 - Luke 8:15]]
+<small>[[Luke.8|Luke 8:4-15]]</small>
 *The Parable of the Sower*
 
 [[Luke.8.4|4]] And when much people were gathered together, and were come to him out of every city, he spake by a parable:

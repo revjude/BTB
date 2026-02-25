@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Settles in Goshen
+type: Pericope
 pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 47
 book/chapter: "[[Gen.47|Genesis 47]]"
-genre:
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 12
 verses:
 - "[[Gen.47.1]]"
 - "[[Gen.47.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Gen.47.12]]"
 ---
 
-[[Gen.47|Genesis 47:1 - Genesis 47:12]]
+<small>[[Gen.47|Genesis 47:1-12]]</small>
 *Jacob Settles in Goshen*
 
 [[Gen.47.1|1]] Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they \[are\] in the land of Goshen.

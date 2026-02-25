@@ -1,6 +1,47 @@
+---
+title: LXX 2 Chronicles 25:6
+type: Verse
+lxx: "And he hired from Israel a hundred thousand mighty ones in strength for a hundred talents of silver."
+greek: "και εμισθώσατο από Ισραήλ εκατόν χιλιάδας δυνατούς ισχύϊ εκατόν ταλάντων αργυρίου"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3409]]"
+- "[[G0575]]"
+- "[[G2474]]"
+- "[[G1540]]"
+- "[[G5505]]"
+- "[[G1415]]"
+- "[[G2479]]"
+- "[[G1540]]"
+- "[[G5007]]"
+- "[[G0694]]"
+---
+
 **LXX 2 Chronicles 25:6** 
 <small><sub>**LXX:**</sub></small>
 And he hired from Israel a hundred thousand mighty ones in strength for a hundred talents of silver. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3409\|εμισθώσατο]] [[G0575\|από]] [[G2474\|Ισραήλ]] [[G1540\|εκατόν]] [[G5505\|χιλιάδας]] [[G1415\|δυνατούς]] [[G2479\|ισχύϊ]] [[G1540\|εκατόν]] [[G5007\|ταλάντων]] [[G0694\|αργυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
 
@@ -17,6 +58,6 @@ And he hired from Israel a hundred thousand mighty ones in strength for a hundre
 | for a hundred | **<big>[[G1540\|εκατόν]]</big>** |
 | talents | **<big>[[G5007\|ταλάντων]]</big>** |
 | of silver. | **<big>[[G0694\|αργυρίου]]</big>** |
-[[2Chr.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
 
 

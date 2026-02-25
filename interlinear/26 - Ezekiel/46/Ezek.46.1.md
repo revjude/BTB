@@ -1,8 +1,67 @@
+---
+title: Ezekiel 46:1
+type: Verse
+kjv: "Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened."
+bsb: "“This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened."
+hebrew: "כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ שַׁ֜עַר הֶחָצֵ֤ר הַפְּנִימִית֙ הַפֹּנֶ֣ה קָדִ֔ים יִהְיֶ֣ה סָג֔וּר שֵׁ֖שֶׁת יְמֵ֣י הַֽמַּעֲשֶׂ֑ה וּבְי֤וֹם הַשַּׁבָּת֙ יִפָּתֵ֔חַ וּבְי֥וֹם הַחֹ֖דֶשׁ יִפָּתֵֽחַ׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H6437G]]"
+- "[[H6921]]"
+- "[[H1961]]"
+- "[[H5462]]"
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H4639G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7676]]"
+- "[[H6605A]]"
+- "[[H2320H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:1**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.
 <small><sub>**BSB:**</sub></small>
 “This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H8179G\|שַׁ֜עַר]] [[H9009\|הֶ]][[H2691A\|חָצֵ֤ר]] [[H9009\|הַ]][[H6442\|פְּנִימִית֙]] [[H9009\|הַ]][[H6437G\|פֹּנֶ֣ה]] [[H6921\|קָדִ֔ים]] [[H1961\|יִהְיֶ֣ה]] [[H5462\|סָג֔וּר]] [[H8337\|שֵׁ֖שֶׁת]] [[H3117G\|יְמֵ֣י]] [[H9009\|הַֽ]][[H4639G\|מַּעֲשֶׂ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֤וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּת֙]] [[H6605A\|יִפָּתֵ֔חַ]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H2320H\|חֹ֖דֶשׁ]] [[H6605A\|יִפָּתֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.25|<< Ezekiel 45:25]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.2|Ezekiel 46:2 >>]]</td></tr></table>
 

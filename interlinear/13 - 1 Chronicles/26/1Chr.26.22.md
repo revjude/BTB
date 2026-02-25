@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 26:22
+type: Verse
+kjv: "The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD."
+bsb: "the sons of Jehieli, Zetham, and his brother Joel. They were in charge of the treasuries of the house of the LORD."
+hebrew: "בְּנֵ֖י יְחִֽיאֵלִ֑י זֵתָם֙ וְיוֹאֵ֣ל אָחִ֔יו עַל־ אֹצְר֖וֹת בֵּ֥ית יְהוָֽה׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEHIELI|JEHIELI]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic ZETHAM|ZETHAM]]"
+strongs:
+- "[[H1121A]]"
+- "[[H3172]]"
+- "[[H2241]]"
+- "[[H9002]]"
+- "[[H3100O]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:22**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Jehieli; Zetham, and Joel his brother, [which were] over the treasures of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 the sons of Jehieli, Zetham, and his brother Joel. They were in charge of the treasuries of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֖י]] [[H3172\|יְחִֽיאֵלִ֑י]] [[H2241\|זֵתָם֙]] [[H9002\|וְ]][[H3100O\|יוֹאֵ֣ל]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H0214\|אֹצְר֖וֹת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHIELI|JEHIELI]] • [[topic JOEL|JOEL]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic ZETHAM|ZETHAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.21|<< 1 Chronicles 26:21]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.23|1 Chronicles 26:23 >>]]</td></tr></table>
 

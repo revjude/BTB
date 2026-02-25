@@ -1,6 +1,59 @@
+---
+title: LXX 2 Samuel 20:19
+type: Verse
+lxx: "I am peaceable of ones supporting Israel. But you seek to kill a city, even a mother-city in Israel. Why do you swallow down the inheritance of the lord?"
+greek: "εγώ ειμι ειρηνικά στηριγμάτων Ισραήλ συ δε ζητείς θανατώσαι πόλιν και μητρόπολιν εν Ισραήλ ινατί καταπίνεις κληρονομίαν κυρίου"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1516]]"
+- "[[G9176]]"
+- "[[G2474]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G2212]]"
+- "[[G2289]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G3390]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G2444]]"
+- "[[G2666]]"
+- "[[G2817]]"
+- "[[G2962]]"
+---
+
 **LXX 2 Samuel 20:19** 
 <small><sub>**LXX:**</sub></small>
 I am peaceable of ones supporting Israel. But you seek to kill a city, even a mother-city in Israel. Why do you swallow down \[the\] inheritance of \[the\] <span class="smallcaps">lord</span>? 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|εγώ]] [[G1510\|ειμι]] [[G1516\|ειρηνικά]] [[G9176\|στηριγμάτων]] [[G2474\|Ισραήλ]] [[G1473\|συ]] [[G1161\|δε]] [[G2212\|ζητείς]] [[G2289\|θανατώσαι]] [[G4172\|πόλιν]] [[G2532\|και]] [[G3390\|μητρόπολιν]] [[G1722\|εν]] [[G2474\|Ισραήλ]] [[G2444\|ινατί]] [[G2666\|καταπίνεις]] [[G2817\|κληρονομίαν]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.18|<< 2 Samuel 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.20|2 Samuel 20:20 >>]]</td></tr></table>
 
@@ -23,6 +76,6 @@ I am peaceable of ones supporting Israel. But you seek to kill a city, even a mo
 | do you swallow down | **<big>[[G2666\|καταπίνεις]]</big>** |
 | \[the\] inheritance | **<big>[[G2817\|κληρονομίαν]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
-[[2Sam.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.18|<< 2 Samuel 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.20|2 Samuel 20:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.18|<< 2 Samuel 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.20|2 Samuel 20:20 >>]]</td></tr></table>
 
 

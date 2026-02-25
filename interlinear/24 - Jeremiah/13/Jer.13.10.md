@@ -1,8 +1,80 @@
+---
+title: Jeremiah 13:10
+type: Verse
+kjv: "This evil people, which refuse to hear my words, which walk in the imagination of their heart, and walk after other gods, to serve them, and to worship them, shall even be as this girdle, which is good for nothing."
+bsb: "These evil people, who refuse to listen to My words, who follow the stubbornness of their own hearts, and who go after other gods to serve and worship them, they will be like this loincloth—of no use at all."
+hebrew: "הָעָם֩ הַזֶּ֨ה הָרָ֜ע הַֽמֵּאֲנִ֣ים׀ לִשְׁמ֣וֹעַ אֶת־ דְּבָרַ֗י הַהֹֽלְכִים֙ בִּשְׁרִר֣וּת לִבָּ֔ם וַיֵּלְכ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים לְעָבְדָ֖ם וּלְהִשְׁתַּחֲוֹ֣ת לָהֶ֑ם וִיהִי֙ כָּאֵז֣וֹר הַזֶּ֔ה אֲשֶׁ֥ר לֹא־ יִצְלַ֖ח לַכֹּֽל׃"
+pericope: "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H7451H]]"
+- "[[H3987]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H1980N]]"
+- "[[H9003]]"
+- "[[H8307]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H7812]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0232]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:10**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This evil people, which refuse to hear my words, which walk in the imagination of their heart, and walk after other gods, to serve them, and to worship them, shall even be as this girdle, which is good for nothing.
 <small><sub>**BSB:**</sub></small>
 These evil people, who refuse to listen to My words, who follow the stubbornness of their own hearts, and who go after other gods to serve and worship them, they will be like this loincloth—of no use at all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H5971A\|עָם֩]] [[H9009\|הַ]][[H2088\|זֶּ֨ה]] [[H9009\|הָ]][[H7451H\|רָ֜ע]] [[H9009\|הַֽ]][[H3987\|מֵּאֲנִ֣ים]][[H9015\|׀]] [[H9005\|לִ]][[H8085G\|שְׁמ֣וֹעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרַ֗]][[H9020\|י]] [[H9009\|הַ]][[H1980N\|הֹֽלְכִים֙]] [[H9003\|בִּ]][[H8307\|שְׁרִר֣וּת]] [[H3820A\|לִבָּ֔]][[H9028\|ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֗וּ]] [[H0310A\|אַֽחֲרֵי֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9005\|לְ]][[H5647H\|עָבְדָ֖]][[H9038\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H7812\|הִשְׁתַּחֲוֹ֣ת]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וִ]][[H1961\|יהִי֙]] [[H9004\|כָּ]][[H0232\|אֵז֣וֹר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6743B\|יִצְלַ֖ח]] [[H9005\|לַ]][[H3605\|כֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIRDLE|GIRDLE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.9|<< Jeremiah 13:9]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.11|Jeremiah 13:11 >>]]</td></tr></table>
 

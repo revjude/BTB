@@ -1,8 +1,70 @@
+---
+title: Jeremiah 26:10
+type: Verse
+kjv: "When the princes of Judah heard these things, then they came up from the king’s house unto the house of the LORD, and sat down in the entry of the new gate of the LORD’S house."
+bsb: "When the officials of Judah heard these things, they went up from the king’s palace to the house of the LORD and sat there at the entrance of the New Gate."
+hebrew: "וַֽיִּשְׁמְע֣וּ׀ שָׂרֵ֣י יְהוּדָ֗ה אֵ֚ת הַדְּבָרִ֣ים הָאֵ֔לֶּה וַיַּעֲל֥וּ מִבֵּית־ הַמֶּ֖לֶךְ בֵּ֣ית יְהוָ֑ה וַיֵּֽשְׁב֛וּ בְּפֶ֥תַח שַֽׁעַר־ יְהוָ֖ה הֶחָדָֽשׁ׃ ס"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H1004P]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H2319G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 26:10**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the princes of Judah heard these things, then they came up from the king’s house unto the house of the LORD, and sat down in the entry of the new gate of the LORD’S [house].
 <small><sub>**BSB:**</sub></small>
 When the officials of Judah heard these things, they went up from the king’s palace to the house of the LORD and sat there at the entrance of the New Gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֣וּ]][[H9015\|׀]] [[H8269\|שָׂרֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H0853\|אֵ֚ת]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וַ]][[H5927G\|יַּעֲל֥וּ]] [[H9006\|מִ]][[H1004P\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3427\|יֵּֽשְׁב֛וּ]] [[H9003\|בְּ]][[H6607\|פֶ֥תַח]] [[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הֶ]][[H2319G\|חָדָֽשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.9|<< Jeremiah 26:9]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.11|Jeremiah 26:11 >>]]</td></tr></table>
 
@@ -23,7 +85,7 @@ When the officials of Judah heard these things, they went up from the king’s p
 | at [the] entrance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6607\|פֶ֥תַח]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gate of  |**<big>&#8207;[[H8179G\|שַֽׁעַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.'ar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> new  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2319G\|חָדָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> new  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2319G\|חָדָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Dash<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.9|<< Jeremiah 26:9]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.11|Jeremiah 26:11 >>]]</td></tr></table>
 
 

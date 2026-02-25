@@ -1,8 +1,55 @@
+---
+title: Genesis 28:10
+type: Verse
+kjv: "And Jacob went out from Beersheba, and went toward Haran."
+bsb: "Meanwhile Jacob left Beersheba and set out for Haran."
+hebrew: "וַיֵּצֵ֥א יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיֵּ֖לֶךְ חָרָֽנָה׃"
+pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318I]]"
+- "[[H3290]]"
+- "[[H9006]]"
+- "[[H0884]]"
+- "[[H1980G]]"
+- "[[H2771A]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:10**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob went out from Beersheba, and went toward Haran.
 <small><sub>**BSB:**</sub></small>
 Meanwhile Jacob left Beersheba and set out for Haran.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318I\|יֵּצֵ֥א]] [[H3290\|יַעֲקֹ֖ב]] [[H9006\|מִ]][[H0884\|בְּאֵ֣ר]] [[H0884\|שָׁ֑בַע]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H2771A\|חָרָֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic BETH-EL|BETH-EL]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.9|<< Genesis 28:9]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.11|Genesis 28:11 >>]]</td></tr></table>
 

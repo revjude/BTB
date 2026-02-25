@@ -1,8 +1,66 @@
+---
+title: Exodus 40:30
+type: Verse
+kjv: "And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal."
+bsb: "He placed the basin between the Tent of Meeting and the altar and put water in it for washing;"
+hebrew: "וַיָּ֙שֶׂם֙ אֶת־ הַכִּיֹּ֔ר בֵּֽין־ אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם לְרָחְצָֽה׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3595]]"
+- "[[H0996G]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H5414H]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H7364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:30**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the laver between the tent of the congregation and the altar, and put water there, to wash [withal].
 <small><sub>**BSB:**</sub></small>
 He placed the basin between the Tent of Meeting and the altar and put water in it for washing;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּ֙שֶׂם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3595\|כִּיֹּ֔ר]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֥ן]] [[H8033G\|שָׁ֛מָּ]][[H9011\|ה]] [[H4325G\|מַ֖יִם]] [[H9005\|לְ]][[H7364\|רָחְצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic LAVER|LAVER]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.29|<< Exodus 40:29]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.31|Exodus 40:31 >>]]</td></tr></table>
 

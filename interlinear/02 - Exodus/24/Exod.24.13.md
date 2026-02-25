@@ -1,8 +1,61 @@
+---
+title: Exodus 24:13
+type: Verse
+kjv: "And Moses rose up, and his minister Joshua: and Moses went up into the mount of God."
+bsb: "So Moses set out with Joshua his attendant and went up on the mountain of God."
+hebrew: "וַיָּ֣קָם מֹשֶׁ֔ה וִיהוֹשֻׁ֖עַ מְשָׁרְת֑וֹ וַיַּ֥עַל מֹשֶׁ֖ה אֶל־ הַ֥ר הָאֱלֹהִֽים׃"
+pericope: "[[Exod.24.12 Moses on the Mountain|Moses on the Mountain]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:13**<big><big>[[Exod.24.12 Moses on the Mountain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses rose up, and his minister Joshua: and Moses went up into the mount of God.
 <small><sub>**BSB:**</sub></small>
 So Moses set out with Joshua his attendant and went up on the mountain of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֖עַ]] [[H8334\|מְשָׁרְת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5927G\|יַּ֥עַל]] [[H4872\|מֹשֶׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic LAW|LAW]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.12|<< Exodus 24:12]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.14|Exodus 24:14 >>]]</td></tr></table>
 

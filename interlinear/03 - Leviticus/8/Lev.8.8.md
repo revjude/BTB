@@ -1,8 +1,61 @@
+---
+title: Leviticus 8:8
+type: Verse
+kjv: "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim."
+bsb: "Then he put the breastpiece on him and placed the Urim and Thummim in the breastpiece."
+hebrew: "וַיָּ֥שֶׂם עָלָ֖יו אֶת־ הַחֹ֑שֶׁן וַיִּתֵּן֙ אֶל־ הַחֹ֔שֶׁן אֶת־ הָאוּרִ֖ים וְאֶת־ הַתֻּמִּֽים׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic URIM AND THUMMIM|URIM AND THUMMIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2833]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H0224]]"
+- "[[H9002]]"
+- "[[H8550]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:8**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.
 <small><sub>**BSB:**</sub></small>
 Then he put the breastpiece on him and placed the Urim and Thummim in the breastpiece.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760H\|יָּ֥שֶׂם]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2833\|חֹ֑שֶׁן]] [[H9001\|וַ]][[H5414H\|יִּתֵּן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2833\|חֹ֔שֶׁן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0224\|אוּרִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8550\|תֻּמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic PRIEST|PRIEST]] • [[topic URIM AND THUMMIM|URIM AND THUMMIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.7|<< Leviticus 8:7]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.9|Leviticus 8:9 >>]]</td></tr></table>
 

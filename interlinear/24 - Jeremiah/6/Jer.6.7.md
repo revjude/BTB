@@ -1,8 +1,66 @@
+---
+title: Jeremiah 6:7
+type: Verse
+kjv: "As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually is grief and wounds."
+bsb: "As a well gushes its water, so she pours out her evil. Violence and destruction resound in her; sickness and wounds are ever before Me."
+hebrew: "כְּהָקִ֥יר בַּ֙יִר֙ מֵימֶ֔יהָ כֵּ֖ן הֵקֵ֣רָה רָעָתָ֑הּ חָמָ֣ס וָ֠שֹׁד יִשָּׁ֨מַע בָּ֧הּ עַל־ פָּנַ֛י תָּמִ֖יד חֳלִ֥י וּמַכָּֽה׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9004]]"
+- "[[H6979B]]"
+- "[[H0953A]]"
+- "[[H0875]]"
+- "[[H4325G]]"
+- "[[H9024]]"
+- "[[H3651C]]"
+- "[[H7451I]]"
+- "[[H2555]]"
+- "[[H9002]]"
+- "[[H7701]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H8548]]"
+- "[[H2483]]"
+- "[[H4347]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 6:7**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually [is] grief and wounds.
 <small><sub>**BSB:**</sub></small>
 As a well gushes its water, so she pours out her evil. Violence and destruction resound in her; sickness and wounds are ever before Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H6979B\|הָקִ֥יר]] [[H0875\|בַּ֙יִר֙]] [[H4325G\|מֵימֶ֔י]][[H9024\|הָ]] [[H3651C\|כֵּ֖ן]] [[H6979B\|הֵקֵ֣רָה]] [[H7451I\|רָעָתָ֑]][[H9024\|הּ]] [[H2555\|חָמָ֣ס]] [[H9002\|וָ֠]][[H7701\|שֹׁד]] [[H8085G\|יִשָּׁ֨מַע]] [[H9003\|בָּ֧]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנַ֛]][[H9020\|י]] [[H8548\|תָּמִ֖יד]] [[H2483\|חֳלִ֥י]] [[H9002\|וּ]][[H4347\|מַכָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 

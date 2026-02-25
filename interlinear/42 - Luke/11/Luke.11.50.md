@@ -1,10 +1,66 @@
+---
+title: Luke 11:50
+type: Verse
+kjv: "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;"
+bsb: "As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,"
+jesus_said: "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;"
+greek: "ἵνα ἐκζητηθῇ τὸ αἷμα πάντων τῶν προφητῶν τὸ ἐκκεχυμένον ἀπὸ καταβολῆς κόσμου ἀπὸ τῆς γενεᾶς ταύτης,"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G2443]]"
+- "[[G1567]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G3956]]"
+- "[[G4396]]"
+- "[[G1632]]"
+- "[[G0575]]"
+- "[[G2602]]"
+- "[[G2889]]"
+- "[[G1074]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 11:50**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;
 <small><sub>**BSB:**</sub></small>
 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,
-<small><sub>**Literal:**</sub></small>
-so that may be charged the blood of all the prophets which poured out from [the] foundation of [the] world against <the> generation this,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.49|<< Luke 11:49]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.51|Luke 11:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1567\|ἐκζητηθῇ]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G3588\|τὸ]]  [[G1632\|ἐκκεχυμένον]]  [[G0575\|ἀπὸ]]  [[G2602\|καταβολῆς]]  [[G2889\|κόσμου]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3778\|ταύτης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LAWYER|LAWYER]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.49|<< Luke 11:49]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.51|Luke 11:51 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 11:50** is...
 > $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]

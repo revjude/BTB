@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 15:22
+type: Verse
+kjv: "Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike, as the roebuck, and as the hart."
+bsb: "Eat it within your gates; both the ceremonially unclean and clean may eat it as they would a gazelle or a deer."
+hebrew: "בִּשְׁעָרֶ֖יךָ תֹּאכֲלֶ֑נּוּ הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃"
+pericope: "[[Deut.15.19 Firstborn Animals|Firstborn Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H8179H]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H2931]]"
+- "[[H9002]]"
+- "[[H2889]]"
+- "[[H3162B]]"
+- "[[H9004]]"
+- "[[H6643B]]"
+- "[[H0354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:22**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt eat it within thy gates: the unclean and the clean [person shall eat it] alike, as the roebuck, and as the hart.
 <small><sub>**BSB:**</sub></small>
 Eat it within your gates; both the ceremonially unclean and clean may eat it as they would a gazelle or a deer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8179H\|שְׁעָרֶ֖י]][[H9021\|ךָ]] [[H0398\|תֹּאכֲלֶ֑]][[H9033\|נּוּ]] [[H9009\|הַ]][[H2931\|טָּמֵ֤א]] [[H9002\|וְ]][[H9009\|הַ]][[H2889\|טָּהוֹר֙]] [[H3162B\|יַחְדָּ֔ו]] [[H9004\|כַּ]][[H6643B\|צְּבִ֖י]] [[H9002\|וְ]][[H9004\|כָ]][[H0354\|אַיָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.21|<< Deuteronomy 15:21]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.23|Deuteronomy 15:23 >>]]</td></tr></table>
 

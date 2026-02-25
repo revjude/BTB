@@ -1,8 +1,72 @@
+---
+title: Numbers 30:12
+type: Verse
+kjv: "But if her husband hath utterly made them void on the day he heard them; then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her."
+bsb: "But if her husband nullifies them on the day he hears of them, then nothing that came from her lips, whether her vows or pledges, shall stand. Her husband has nullified them, and the LORD will absolve her."
+hebrew: "וְאִם־ הָפֵר֩ יָפֵ֨ר אֹתָ֥ם׀ אִישָׁהּ֮ בְּי֣וֹם שָׁמְעוֹ֒ כָּל־ מוֹצָ֨א שְׂפָתֶ֧יהָ לִנְדָרֶ֛יהָ וּלְאִסַּ֥ר נַפְשָׁ֖הּ לֹ֣א יָק֑וּם אִישָׁ֣הּ הֲפֵרָ֔ם וַיהוָ֖ה יִֽסְלַֽח־ לָֽהּ׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6565A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8085G]]"
+- "[[H9043]]"
+- "[[H3605]]"
+- "[[H4161]]"
+- "[[H8193G]]"
+- "[[H9005]]"
+- "[[H5088]]"
+- "[[H0632]]"
+- "[[H5315I]]"
+- "[[H3808]]"
+- "[[H6965I]]"
+- "[[H3068G]]"
+- "[[H5545]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:12**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if her husband hath utterly made them void on the day he heard [them; then] whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her.
 <small><sub>**BSB:**</sub></small>
 But if her husband nullifies them on the day he hears of them, then nothing that came from her lips, whether her vows or pledges, shall stand. Her husband has nullified them, and the LORD will absolve her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H6565A\|הָפֵר֩]] [[H6565A\|יָפֵ֨ר]] [[H0853\|אֹתָ֥]][[H9038\|ם]][[H9015\|׀]] [[H0376H\|אִישָׁ]][[H9024\|הּ֮]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H8085G\|שָׁמְע]][[H9043\|וֹ֒]] [[H3605\|כָּל]][[H9014\|־]] [[H4161\|מוֹצָ֨א]] [[H8193G\|שְׂפָתֶ֧י]][[H9024\|הָ]] [[H9005\|לִ]][[H5088\|נְדָרֶ֛י]][[H9024\|הָ]] [[H9002\|וּ]][[H9005\|לְ]][[H0632\|אִסַּ֥ר]] [[H5315I\|נַפְשָׁ֖]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H6965I\|יָק֑וּם]] [[H0376H\|אִישָׁ֣]][[H9024\|הּ]] [[H6565A\|הֲפֵרָ֔]][[H9038\|ם]] [[H9002\|וַ]][[H3068G\|יהוָ֖ה]] [[H5545\|יִֽסְלַֽח]][[H9014\|־]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.11|<< Numbers 30:11]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.13|Numbers 30:13 >>]]</td></tr></table>
 

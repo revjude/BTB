@@ -1,8 +1,70 @@
+---
+title: Jeremiah 12:4
+type: Verse
+kjv: "How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end."
+bsb: "How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.”"
+hebrew: "עַד־ מָתַי֙ תֶּאֱבַ֣ל הָאָ֔רֶץ וְעֵ֥שֶׂב כָּל־ הַשָּׂדֶ֖ה יִיבָ֑שׁ מֵרָעַ֣ת יֹֽשְׁבֵי־ בָ֗הּ סָפְתָ֤ה בְהֵמוֹת֙ וָע֔וֹף כִּ֣י אָמְר֔וּ לֹ֥א יִרְאֶ֖ה אֶת־ אַחֲרִיתֵֽנוּ׃"
+pericope: "[[Jer.12.1 The Prosperity of the Wicked|The Prosperity of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H0056]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H6212]]"
+- "[[H3605]]"
+- "[[H7704G]]"
+- "[[H3001]]"
+- "[[H9006]]"
+- "[[H7451I]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5595]]"
+- "[[H0929]]"
+- "[[H5775]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0319]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:4**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end.
 <small><sub>**BSB:**</sub></small>
 How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַי֙]] [[H0056\|תֶּאֱבַ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H6212\|עֵ֥שֶׂב]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H3001\|יִיבָ֑שׁ]] [[H9006\|מֵ]][[H7451I\|רָעַ֣ת]] [[H3427\|יֹֽשְׁבֵי]][[H9014\|־]] [[H9003\|בָ֗]][[H9034\|הּ]] [[H5595\|סָפְתָ֤ה]] [[H0929\|בְהֵמוֹת֙]] [[H9002\|וָ]][[H5775\|ע֔וֹף]] [[H3588A\|כִּ֣י]] [[H0559\|אָמְר֔וּ]] [[H3808\|לֹ֥א]] [[H7200G\|יִרְאֶ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0319\|אַחֲרִיתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.3|<< Jeremiah 12:3]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.5|Jeremiah 12:5 >>]]</td></tr></table>
 

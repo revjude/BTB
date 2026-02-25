@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Sword of Judgment
+type: Pericope
 pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 21
 book/chapter: "[[Ezek.21|Ezekiel 21]]"
-genre:
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 32
 verses:
 - "[[Ezek.21.1]]"
 - "[[Ezek.21.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Ezek.21.32]]"
 ---
 
-[[Ezek.21|Ezekiel 21:1 - Ezekiel 21:32]]
+<small>[[Ezek.21|Ezekiel 21:1-32]]</small>
 *God’s Sword of Judgment*
 
 [[Ezek.21.1|1]] And the word of the LORD came unto me, saying,

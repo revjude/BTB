@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Philistines Gather against Israel
+type: Pericope
 pericope: "[[1Sam.28.1 The Philistines Gather against Israel|The Philistines Gather against Israel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 28
 book/chapter: "[[1Sam.28|1 Samuel 28]]"
-genre:
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.28.1]]"
 - "[[1Sam.28.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.28.6]]"
 ---
 
-[[1Sam.28|1 Samuel 28:1 - 1 Samuel 28:6]]
+<small>[[1Sam.28|1 Samuel 28:1-6]]</small>
 *The Philistines Gather against Israel*
 
 [[1Sam.28.1|1]] And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.

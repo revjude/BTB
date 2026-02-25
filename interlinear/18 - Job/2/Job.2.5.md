@@ -1,8 +1,64 @@
+---
+title: Job 2:5
+type: Verse
+kjv: "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face."
+bsb: "But stretch out Your hand and strike his flesh and bones, and he will surely curse You to Your face.”"
+hebrew: "אוּלָם֙ שְֽׁלַֽח־ נָ֣א יָֽדְךָ֔ וְגַ֥ע אֶל־ עַצְמ֖וֹ וְאֶל־ בְּשָׂר֑וֹ אִם־ לֹ֥א אֶל־ פָּנֶ֖יךָ יְבָרֲכֶֽךָּ׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0199]]"
+- "[[H7971K]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H6106G]]"
+- "[[H9023]]"
+- "[[H1320]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H6440H]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:5**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 <small><sub>**BSB:**</sub></small>
 But stretch out Your hand and strike his flesh and bones, and he will surely curse You to Your face.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0199\|אוּלָם֙]] [[H7971K\|שְֽׁלַֽח]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H5060\|גַ֥ע]] [[H0413\|אֶל]][[H9014\|־]] [[H6106G\|עַצְמ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1320\|בְּשָׂר֑]][[H9023\|וֹ]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H1288\|יְבָרֲכֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MOTIVE|MOTIVE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.4|<< Job 2:4]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.6|Job 2:6 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Psalm 135:18
+type: Verse
+kjv: "They that make them are like unto them: so is every one that trusteth in them."
+bsb: "Those who make them become like them, as do all who trust in them."
+hebrew: "כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֭ל אֲשֶׁר־ בֹּטֵ֣חַ בָּהֶֽם׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3644G]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:18**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that make them are like unto them: [so is] every one that trusteth in them.
 <small><sub>**BSB:**</sub></small>
 Those who make them become like them, as do all who trust in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3644G\|כְּ֭מוֹ]][[H9038\|הֶם]] [[H1961\|יִהְי֣וּ]] [[H6213H\|עֹשֵׂי]][[H9038\|הֶ֑ם]] [[H3605\|כֹּ֭ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0982\|בֹּטֵ֣חַ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.17|<< Psalms 135:17]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.19|Psalms 135:19 >>]]</td></tr></table>
 

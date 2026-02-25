@@ -1,8 +1,56 @@
+---
+title: Proverbs 19:22
+type: Verse
+kjv: "The desire of a man is his kindness: and a poor man is better than a liar."
+bsb: "The desire of a man is loving devotion; better to be poor than a liar."
+hebrew: "תַּאֲוַ֣ת אָדָ֣ם חַסְדּ֑וֹ וְטֽוֹב־ רָ֝שׁ מֵאִ֥ישׁ כָּזָֽב׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H8378]]"
+- "[[H0120G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9014]]"
+- "[[H7326]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H3577]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:22**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The desire of a man [is] his kindness: and a poor man [is] better than a liar.
 <small><sub>**BSB:**</sub></small>
 The desire of a man is loving devotion; better to be poor than a liar.
+<small><sub>**Hebrew:**</sub></small>
+[[H8378\|תַּאֲוַ֣ת]] [[H0120G\|אָדָ֣ם]] [[H2617A\|חַסְדּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H2896A\|טֽוֹב]][[H9014\|־]] [[H7326\|רָ֝שׁ]] [[H9006\|מֵ]][[H0376G\|אִ֥ישׁ]] [[H3577\|כָּזָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic KINDNESS|KINDNESS]] • [[topic POOR|POOR]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.21|<< Proverbs 19:21]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.23|Proverbs 19:23 >>]]</td></tr></table>
 

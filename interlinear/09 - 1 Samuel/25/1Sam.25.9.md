@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 25:9
+type: Verse
+kjv: "And when David’s young men came, they spake to Nabal according to all those words in the name of David, and ceased."
+bsb: "When David’s young men arrived, they relayed all these words to Nabal on behalf of David. Then they waited."
+hebrew: "וַיָּבֹ֙אוּ֙ נַעֲרֵ֣י דָוִ֔ד וַיְדַבְּר֧וּ אֶל־ נָבָ֛ל כְּכָל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה בְּשֵׁ֣ם דָּוִ֑ד וַיָּנֽוּחוּ׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5288]]"
+- "[[H1732]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5037]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H5117]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:9**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David’s young men came, they spake to Nabal according to all those words in the name of David, and ceased.
 <small><sub>**BSB:**</sub></small>
 When David’s young men arrived, they relayed all these words to Nabal on behalf of David. Then they waited.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H5288\|נַעֲרֵ֣י]] [[H1732\|דָוִ֔ד]] [[H9001\|וַ]][[H1696G\|יְדַבְּר֧וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5037\|נָבָ֛ל]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H5117\|יָּנֽוּחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.8|<< 1 Samuel 25:8]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.10|1 Samuel 25:10 >>]]</td></tr></table>
 

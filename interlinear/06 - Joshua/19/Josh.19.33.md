@@ -1,8 +1,68 @@
+---
+title: Joshua 19:33
+type: Verse
+kjv: "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:"
+bsb: "Their border started at Heleph and the great tree of Zaanannim, passing Adami-nekeb and Jabneel as far as Lakkum and ending at the Jordan."
+hebrew: "וַיְהִ֣י גְבוּלָ֗ם מֵחֵ֨לֶף מֵֽאֵל֜וֹן בְּצַעֲנַנִּ֗ים וַאֲדָמִ֥י הַנֶּ֛קֶב וְיַבְנְאֵ֖ל עַד־ לַקּ֑וּם וַיְהִ֥י תֹצְאֹתָ֖יו הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.19.32 Naphtali’s Inheritance|Naphtali’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADAMAH|ADAMAH]]"
+- "[[topic ALLON|ALLON]]"
+- "[[topic HELEPH|HELEPH]]"
+- "[[topic JABNEEL|JABNEEL]]"
+- "[[topic LAKUM|LAKUM]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic NEKEB|NEKEB]]"
+- "[[topic ZAANAIM|ZAANAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1366G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H2501]]"
+- "[[H0438G]]"
+- "[[H9003]]"
+- "[[H6815]]"
+- "[[H9002]]"
+- "[[H0129]]"
+- "[[H9009]]"
+- "[[H5346]]"
+- "[[H2995H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3946]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:33**<big><big>[[Josh.19.32 Naphtali’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:
 <small><sub>**BSB:**</sub></small>
 Their border started at Heleph and the great tree of Zaanannim, passing Adami-nekeb and Jabneel as far as Lakkum and ending at the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H1366G\|גְבוּלָ֗]][[H9028\|ם]] [[H9006\|מֵ]][[H2501\|חֵ֨לֶף]] [[H9006\|מֵֽ]][[H0438G\|אֵל֜וֹן]] [[H9003\|בְּ]][[H6815\|צַעֲנַנִּ֗ים]] [[H9002\|וַ]][[H0129\|אֲדָמִ֥י]] [[H9009\|הַ]][[H5346\|נֶּ֛קֶב]] [[H9002\|וְ]][[H2995H\|יַבְנְאֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H3946\|לַקּ֑וּם]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H8444\|תֹצְאֹתָ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAMAH|ADAMAH]] • [[topic ALLON|ALLON]] • [[topic HELEPH|HELEPH]] • [[topic JABNEEL|JABNEEL]] • [[topic LAKUM|LAKUM]] • [[topic NAPHTALI|NAPHTALI]] • [[topic NEKEB|NEKEB]] • [[topic ZAANAIM|ZAANAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.32|<< Joshua 19:32]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.34|Joshua 19:34 >>]]</td></tr></table>
 

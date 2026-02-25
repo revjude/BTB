@@ -1,8 +1,69 @@
+---
+title: Jeremiah 20:10
+type: Verse
+kjv: "For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him."
+bsb: "For I have heard the whispering of many: “Terror is on every side! Report him; let us report him!” All my trusted friends watch for my fall: “Perhaps he will be deceived so that we may prevail against him and take our vengeance upon him.”"
+hebrew: "כִּ֣י שָׁמַ֜עְתִּי דִּבַּ֣ת רַבִּים֮ מָג֣וֹר מִסָּבִיב֒ הַגִּ֙ידוּ֙ וְנַגִּידֶ֔נּוּ כֹּ֚ל אֱנ֣וֹשׁ שְׁלוֹמִ֔י שֹׁמְרֵ֖י צַלְעִ֑י אוּלַ֤י יְפֻתֶּה֙ וְנ֣וּכְלָה ל֔וֹ וְנִקְחָ֥ה נִקְמָתֵ֖נוּ מִמֶּֽנּוּ׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H1681]]"
+- "[[H7227A]]"
+- "[[H4032]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H5046]]"
+- "[[H9002]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H7965J]]"
+- "[[H9020]]"
+- "[[H8104I]]"
+- "[[H6761]]"
+- "[[H0194]]"
+- "[[H6601B]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H5360]]"
+- "[[H9025]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:10**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I heard the defaming of many, fear on every side. Report, [say they], and we will report it. All my familiars watched for my halting, [saying], Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 <small><sub>**BSB:**</sub></small>
 For I have heard the whispering of many: “Terror is on every side! Report him; let us report him!” All my trusted friends watch for my fall: “Perhaps he will be deceived so that we may prevail against him and take our vengeance upon him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H8085G\|שָׁמַ֜עְתִּי]] [[H1681\|דִּבַּ֣ת]] [[H7227A\|רַבִּים֮]] [[H4032\|מָג֣וֹר]] [[H9006\|מִ]][[H5439H\|סָּבִיב֒]] [[H5046\|הַגִּ֙ידוּ֙]] [[H9002\|וְ]][[H5046\|נַגִּידֶ֔]][[H9033\|נּוּ]] [[H3605\|כֹּ֚ל]] [[H0582\|אֱנ֣וֹשׁ]] [[H7965J\|שְׁלוֹמִ֔]][[H9020\|י]] [[H8104I\|שֹׁמְרֵ֖י]] [[H6761\|צַלְעִ֑]][[H9020\|י]] [[H0194\|אוּלַ֤י]] [[H6601B\|יְפֻתֶּה֙]] [[H9002\|וְ]][[H3201\|נ֣וּכְלָה]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3947G\|נִקְחָ֥ה]] [[H5360\|נִקְמָתֵ֖]][[H9025\|נוּ]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic MALICE|MALICE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.9|<< Jeremiah 20:9]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.11|Jeremiah 20:11 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ananias and Sapphira
+type: Pericope
 pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Acts
 chapter: 5
 book/chapter: "[[Acts.5|Acts 5]]"
-genre:
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 11
 verses:
 - "[[Acts.5.1]]"
 - "[[Acts.5.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Acts.5.11]]"
 ---
 
-[[Acts.5|Acts 5:1 - Acts 5:11]]
+<small>[[Acts.5|Acts 5:1-11]]</small>
 *Ananias and Sapphira*
 
 [[Acts.5.1|1]] But a certain man named Ananias, with Sapphira his wife, sold a possession,

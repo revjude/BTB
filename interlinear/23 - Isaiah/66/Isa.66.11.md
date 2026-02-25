@@ -1,8 +1,59 @@
+---
+title: Isaiah 66:11
+type: Verse
+kjv: "That ye may suck, and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory."
+bsb: "so that you may nurse and be satisfied at her comforting breasts; you may drink deeply and delight yourselves in her glorious abundance."
+hebrew: "לְמַ֤עַן תִּֽינְקוּ֙ וּשְׂבַעְתֶּ֔ם מִשֹּׁ֖ד תַּנְחֻמֶ֑יהָ לְמַ֧עַן תָּמֹ֛צּוּ וְהִתְעַנַּגְתֶּ֖ם מִזִּ֥יז כְּבוֹדָֽהּ׃ ס"
+pericope: "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H4616]]"
+- "[[H3243]]"
+- "[[H9001]]"
+- "[[H7646]]"
+- "[[H9006]]"
+- "[[H7699B]]"
+- "[[H8575]]"
+- "[[H9024]]"
+- "[[H4711]]"
+- "[[H6026]]"
+- "[[H2123B]]"
+- "[[H3519]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 66:11**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That ye may suck, and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.
 <small><sub>**BSB:**</sub></small>
 so that you may nurse and be satisfied at her comforting breasts; you may drink deeply and delight yourselves in her glorious abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֤עַן]] [[H3243\|תִּֽינְקוּ֙]] [[H9001\|וּ]][[H7646\|שְׂבַעְתֶּ֔ם]] [[H9006\|מִ]][[H7699B\|שֹּׁ֖ד]] [[H8575\|תַּנְחֻמֶ֑י]][[H9024\|הָ]] [[H4616\|לְמַ֧עַן]] [[H4711\|תָּמֹ֛צּוּ]] [[H9001\|וְ]][[H6026\|הִתְעַנַּגְתֶּ֖ם]] [[H9006\|מִ]][[H2123B\|זִּ֥יז]] [[H3519\|כְּבוֹדָֽ]][[H9024\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.10|<< Isaiah 66:10]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.12|Isaiah 66:12 >>]]</td></tr></table>
 
@@ -17,7 +68,7 @@ so that you may nurse and be satisfied at her comforting breasts; you may drink 
 | you may suck  |**<big>&#8207;[[H4711\|תָּמֹ֛צּוּ]]&#8207; </big>**| ta.Mo.tzu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will take delight  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6026\|הִתְעַנַּגְתֶּ֖ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.'a.nag.Tem<small><sup>[[HVtq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] nipple of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2123B\|זִּ֥יז]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ziz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| abundance its  |**<big>&#8207;[[H3519\|כְּבוֹדָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ke.vo.Da<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| abundance its  |**<big>&#8207;[[H3519\|כְּבוֹדָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ke.vo.Da<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.10|<< Isaiah 66:10]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.12|Isaiah 66:12 >>]]</td></tr></table>
 
 

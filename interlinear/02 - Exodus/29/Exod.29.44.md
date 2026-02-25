@@ -1,8 +1,62 @@
+---
+title: Exodus 29:44
+type: Verse
+kjv: "And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest’s office."
+bsb: "So I will consecrate the Tent of Meeting and the altar, and I will consecrate Aaron and his sons to serve Me as priests."
+hebrew: "וְקִדַּשְׁתִּ֛י אֶת־ אֹ֥הֶל מוֹעֵ֖ד וְאֶת־ הַמִּזְבֵּ֑חַ וְאֶת־ אַהֲרֹ֧ן וְאֶת־ בָּנָ֛יו אֲקַדֵּ֖שׁ לְכַהֵ֥ן לִֽי׃"
+pericope: "[[Exod.29.38 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3547]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:44**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
 So I will consecrate the Tent of Meeting and the altar, and I will consecrate Aaron and his sons to serve Me as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6942G\|קִדַּשְׁתִּ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0175\|אַהֲרֹ֧ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֛י]][[H9023\|ו]] [[H6942G\|אֲקַדֵּ֖שׁ]] [[H9005\|לְ]][[H3547\|כַהֵ֥ן]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.43|<< Exodus 29:43]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.45|Exodus 29:45 >>]]</td></tr></table>
 

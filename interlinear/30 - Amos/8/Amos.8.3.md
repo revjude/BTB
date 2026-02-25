@@ -1,8 +1,61 @@
+---
+title: Amos 8:3
+type: Verse
+kjv: "And the songs of the temple shall be howlings in that day, saith the Lord GOD: there shall be many dead bodies in every place; they shall cast them forth with silence."
+bsb: "“In that day,” declares the Lord GOD, “the songs of the temple will turn to wailing. Many will be the corpses, strewn in silence everywhere!”"
+hebrew: "וְהֵילִ֜ילוּ שִׁיר֤וֹת הֵיכָל֙ בַּיּ֣וֹם הַה֔וּא נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה רַ֣ב הַפֶּ֔גֶר בְּכָל־ מָק֖וֹם הִשְׁלִ֥יךְ הָֽס׃ פ"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3213]]"
+- "[[H7892A]]"
+- "[[H1964G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7227A]]"
+- "[[H6297]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H7993]]"
+- "[[H2013]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Amos 8:3**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the songs of the temple shall be howlings in that day, saith the Lord GOD: [there shall be] many dead bodies in every place; they shall cast [them] forth with silence.
 <small><sub>**BSB:**</sub></small>
 “In that day,” declares the Lord GOD, “the songs of the temple will turn to wailing. Many will be the corpses, strewn in silence everywhere!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3213\|הֵילִ֜ילוּ]] [[H7892A\|שִׁיר֤וֹת]] [[H1964G\|הֵיכָל֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H7227A\|רַ֣ב]] [[H9009\|הַ]][[H6297\|פֶּ֔גֶר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4725\|מָק֖וֹם]] [[H7993\|הִשְׁלִ֥יךְ]] [[H2013\|הָֽס]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.2|<< Amos 8:2]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.4|Amos 8:4 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ And the songs of the temple shall be howlings in that day, saith the Lord GOD: [
 | in every  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | place  |**<big>&#8207;[[H4725\|מָק֖וֹם]]&#8207; </big>**| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone will throw  |**<big>&#8207;[[H7993\|הִשְׁלִ֥יךְ]]&#8207; </big>**| hish.Likh<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hush!  |**<big>&#8207;[[H2013\|הָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Has<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hush!  |**<big>&#8207;[[H2013\|הָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Has<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.2|<< Amos 8:2]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.4|Amos 8:4 >>]]</td></tr></table>
 
 

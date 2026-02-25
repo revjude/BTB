@@ -1,8 +1,55 @@
+---
+title: Joshua 15:36
+type: Verse
+kjv: "And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:"
+bsb: "Shaaraim, Adithaim, and Gederah (or Gederothaim)—fourteen cities, along with their villages."
+hebrew: "וְשַׁעֲרַ֙יִם֙ וַעֲדִיתַ֔יִם וְהַגְּדֵרָ֖ה וּגְדֵרֹתָ֑יִם עָרִ֥ים אַרְבַּֽע־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADITHAIM|ADITHAIM]]"
+- "[[topic GEDEROTHAIM|GEDEROTHAIM]]"
+- "[[topic SHAARAIM|SHAARAIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H8189G]]"
+- "[[H5723]]"
+- "[[H9009]]"
+- "[[H1449]]"
+- "[[H1453]]"
+- "[[H5892B]]"
+- "[[H0702]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:36**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:
 <small><sub>**BSB:**</sub></small>
 Shaaraim, Adithaim, and Gederah (or Gederothaim)—fourteen cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8189G\|שַׁעֲרַ֙יִם֙]] [[H9002\|וַ]][[H5723\|עֲדִיתַ֔יִם]] [[H9002\|וְ]][[H9009\|הַ]][[H1449\|גְּדֵרָ֖ה]] [[H9002\|וּ]][[H1453\|גְדֵרֹתָ֑יִם]] [[H5892B\|עָרִ֥ים]] [[H0702\|אַרְבַּֽע]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADITHAIM|ADITHAIM]] • [[topic GEDEROTHAIM|GEDEROTHAIM]] • [[topic SHAARAIM|SHAARAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.35|<< Joshua 15:35]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.37|Joshua 15:37 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Ezekiel 42:20
+type: Verse
+kjv: "He measured it by the four sides: it had a wall round about, five hundred reeds long, and five hundred broad, to make a separation between the sanctuary and the profane place."
+bsb: "So he measured the area on all four sides. It had a wall all around, five hundred cubits long and five hundred cubits wide, to separate the holy from the common."
+hebrew: "לְאַרְבַּ֨ע רוּח֜וֹת מְדָד֗וֹ ח֤וֹמָה לוֹ֙ סָבִ֣יב׀ סָבִ֔יב אֹ֚רֶךְ חֲמֵ֣שׁ מֵא֔וֹת וְרֹ֖חַב חֲמֵ֣שׁ מֵא֑וֹת לְהַבְדִּ֕יל בֵּ֥ין הַקֹּ֖דֶשׁ לְחֹֽל׃"
+pericope: "[[Ezek.42.15 The Outer Measurements|The Outer Measurements]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+strongs:
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H7307I]]"
+- "[[H4058]]"
+- "[[H9033]]"
+- "[[H2346G]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H0753]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H0914]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H2455]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:20**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He measured it by the four sides: it had a wall round about, five hundred [reeds] long, and five hundred broad, to make a separation between the sanctuary and the profane place.
 <small><sub>**BSB:**</sub></small>
 So he measured the area on all four sides. It had a wall all around, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H0702\|אַרְבַּ֨ע]] [[H7307I\|רוּח֜וֹת]] [[H4058\|מְדָד֗]][[H9033\|וֹ]] [[H2346G\|ח֤וֹמָה]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֔יב]] [[H0753\|אֹ֚רֶךְ]] [[H2568\|חֲמֵ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H2568\|חֲמֵ֣שׁ]] [[H3967\|מֵא֑וֹת]] [[H9005\|לְ]][[H0914\|הַבְדִּ֕יל]] [[H0996G\|בֵּ֥ין]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9005\|לְ]][[H2455\|חֹֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SANCTUARY|SANCTUARY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.19|<< Ezekiel 42:19]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.1|Ezekiel 43:1 >>]]</td></tr></table>
 

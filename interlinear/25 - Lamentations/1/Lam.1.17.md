@@ -1,8 +1,63 @@
+---
+title: Lamentations 1:17
+type: Verse
+kjv: "Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them."
+bsb: "Zion stretches out her hands, but there is no one to comfort her. The LORD has decreed against Jacob that his neighbors become his foes. Jerusalem has become an unclean thing among them."
+hebrew: "פֵּֽרְשָׂ֨ה צִיּ֜וֹן בְּיָדֶ֗יהָ אֵ֤ין מְנַחֵם֙ לָ֔הּ צִוָּ֧ה יְהוָ֛ה לְיַעֲקֹ֖ב סְבִיבָ֣יו צָרָ֑יו הָיְתָ֧ה יְרוּשָׁלִַ֛ם לְנִדָּ֖ה בֵּינֵיהֶֽם׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+strongs:
+- "[[H6566]]"
+- "[[H6726]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H0369]]"
+- "[[H5162G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H3290]]"
+- "[[H5439J]]"
+- "[[H9033]]"
+- "[[H6862C]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3389]]"
+- "[[H5079]]"
+- "[[H0996G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:17**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zion spreadeth forth her hands, [and there is] none to comfort her: the LORD hath commanded concerning Jacob, [that] his adversaries [should be] round about him: Jerusalem is as a menstruous woman among them.
 <small><sub>**BSB:**</sub></small>
 Zion stretches out her hands, but there is no one to comfort her. The LORD has decreed against Jacob that his neighbors become his foes. Jerusalem has become an unclean thing among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H6566\|פֵּֽרְשָׂ֨ה]] [[H6726\|צִיּ֜וֹן]] [[H9003\|בְּ]][[H3027G\|יָדֶ֗י]][[H9024\|הָ]] [[H0369\|אֵ֤ין]] [[H5162G\|מְנַחֵם֙]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H5439J\|סְבִיבָ֣י]][[H9033\|ו]] [[H6862C\|צָרָ֑י]][[H9023\|ו]] [[H1961\|הָיְתָ֧ה]] [[H3389\|יְרוּשָׁלִַ֛ם]] [[H9005\|לְ]][[H5079\|נִדָּ֖ה]] [[H0996G\|בֵּינֵי]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MENSTRUATION|MENSTRUATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.16|<< Lamentations 1:16]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.18|Lamentations 1:18 >>]]</td></tr></table>
 
@@ -22,7 +77,7 @@ Zion stretches out her hands, but there is no one to comfort her. The LORD has d
 | it has become  |**<big>&#8207;[[H1961\|הָיְתָ֧ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֛ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> an impure thing  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5079\|נִדָּ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ni.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| between them  |**<big>&#8207;[[H0996G\|בֵּינֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.nei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| between them  |**<big>&#8207;[[H0996G\|בֵּינֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.nei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.16|<< Lamentations 1:16]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.18|Lamentations 1:18 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Suffering Servant
+type: Pericope
 pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 53
 book/chapter: "[[Isa.53|Isaiah 53]]"
-genre:
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.53.1]]"
 - "[[Isa.53.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.53.8]]"
 ---
 
-[[Isa.53|Isaiah 53:1 - Isaiah 53:8]]
+<small>[[Isa.53|Isaiah 53:1-8]]</small>
 *The Suffering Servant*
 
 [[Isa.53.1|1]] Who hath believed our report? and to whom is the arm of the LORD revealed?

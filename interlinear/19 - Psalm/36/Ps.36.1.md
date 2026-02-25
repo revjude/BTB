@@ -1,8 +1,61 @@
+---
+title: Psalm 36:1
+type: Verse
+kjv: "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes."
+bsb: "For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes."
+hebrew: "נְאֻֽם־ פֶּ֣שַׁע לָ֭רָשָׁע בְּקֶ֣רֶב לִבִּ֑י אֵֽין־ פַּ֥חַד אֱ֝לֹהִ֗ים לְנֶ֣גֶד עֵינָֽיו׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H0369]]"
+- "[[H6343]]"
+- "[[H0430G]]"
+- "[[H5048]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:1**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The transgression of the wicked saith within my heart, [that there is] no fear of God before his eyes.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H5002\|נְאֻֽם]][[H9014\|־]] [[H6588\|פֶּ֣שַׁע]] [[H9005\|לָ֭]][[H7563\|רָשָׁע]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H0369\|אֵֽין]][[H9014\|־]] [[H6343\|פַּ֥חַד]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H9005\|לְ]][[H5048\|נֶ֣גֶד]] [[H5869A\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GODLESSNESS|GODLESSNESS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.0|<< Psalms 36:0]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.2|Psalms 36:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

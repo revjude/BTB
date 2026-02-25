@@ -1,10 +1,64 @@
+---
+title: Luke 2:7
+type: Verse
+kjv: "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+bsb: "And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn."
+greek: "καὶ ἔτεκεν τὸν υἱὸν αὐτῆς τὸν πρωτότοκον καὶ ἐσπαργάνωσεν αὐτὸν καὶ ἀνέκλινεν αὐτὸν ἐν τῇ φάτνῃ, διότι οὐκ ἦν αὐτοῖς τόπος ἐν τῷ καταλύματι.¶"
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INN|INN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANGER|MANGER]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SWADDLE|SWADDLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G5088]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G4416]]"
+- "[[G4683]]"
+- "[[G0347]]"
+- "[[G1722]]"
+- "[[G5336]]"
+- "[[G1360]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5117]]"
+- "[[G2646]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 2:7**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
 <small><sub>**BSB:**</sub></small>
 And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn.
-<small><sub>**Literal:**</sub></small>
-And she brought forth the son of her the firstborn and wrapped in swaddling cloths him and she laid Him in <the> a manger, because not there was for them a place in the inn.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.6|<< Luke 2:6]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.8|Luke 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5088\|ἔτεκεν]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτῆς]]  [[G3588\|τὸν]]  [[G4416\|πρωτότοκον]]  [[G2532\|καὶ]]  [[G4683\|ἐσπαργάνωσεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0347\|ἀνέκλινεν]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5336\|φάτνῃ,]]  [[G1360\|διότι]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G0846\|αὐτοῖς]]  [[G5117\|τόπος]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2646\|καταλύματι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHILDREN|CHILDREN]] • [[topic INN|INN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MANGER|MANGER]] • [[topic MARY|MARY]] • [[topic SWADDLE|SWADDLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.6|<< Luke 2:6]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.8|Luke 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

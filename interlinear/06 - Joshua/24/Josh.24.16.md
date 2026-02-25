@@ -1,8 +1,58 @@
+---
+title: Joshua 24:16
+type: Verse
+kjv: "And the people answered and said, God forbid that we should forsake the LORD, to serve other gods;"
+bsb: "The people replied, “Far be it from us to forsake the LORD to serve other gods!"
+hebrew: "וַיַּ֤עַן הָעָם֙ וַיֹּ֔אמֶר חָלִ֣ילָה לָּ֔נוּ מֵעֲזֹ֖ב אֶת־ יְהוָ֑ה לַעֲבֹ֖ד אֱלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H2486]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:16**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people answered and said, God forbid that we should forsake the LORD, to serve other gods;
 <small><sub>**BSB:**</sub></small>
 The people replied, “Far be it from us to forsake the LORD to serve other gods!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H2486\|חָלִ֣ילָה]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9006\|מֵ]][[H5800A\|עֲזֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHECHEM|SHECHEM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.15|<< Joshua 24:15]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.17|Joshua 24:17 >>]]</td></tr></table>
 

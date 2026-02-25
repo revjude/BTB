@@ -1,10 +1,54 @@
+---
+title: Acts 9:30
+type: Verse
+kjv: "Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus."
+bsb: "When the brothers learned of this, they took him down to Caesarea and sent him off to Tarsus."
+greek: "ἐπιγνόντες δὲ οἱ ἀδελφοὶ κατήγαγον αὐτὸν εἰς Καισάρειαν καὶ ἐξαπέστειλαν αὐτὸν εἰς Ταρσόν.¶"
+pericope: "[[Acts.9.26 Saul in Jerusalem|Saul in Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic TARSUS|TARSUS]]"
+strongs:
+- "[[G1921]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2609]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G2532]]"
+- "[[G1821]]"
+- "[[G5019]]"
+texts:
+- NKO
+---
+
 **Acts 9:30**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Which] when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 <small><sub>**BSB:**</sub></small>
 When the brothers learned of this, they took him down to Caesarea and sent him off to Tarsus.
-<small><sub>**Literal:**</sub></small>
-Having known [it] however the brothers brought down him to Caesarea and sent away him to Tarsus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.29|<< Acts 9:29]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.31|Acts 9:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1921\|ἐπιγνόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G2609\|κατήγαγον]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν]]  [[G2532\|καὶ]]  [[G1821\|ἐξαπέστειλαν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G5019\|Ταρσόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SYRIA|SYRIA]] • [[topic TARSUS|TARSUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.29|<< Acts 9:29]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.31|Acts 9:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

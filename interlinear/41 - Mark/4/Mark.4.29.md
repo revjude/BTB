@@ -1,10 +1,58 @@
+---
+title: Mark 4:29
+type: Verse
+kjv: "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
+bsb: "And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”"
+jesus_said: "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
+greek: "ὅταν δὲ παραδοῖ ὁ καρπός, εὐθὺς ἀποστέλλει τὸ δρέπανον ὅτι παρέστηκεν ὁ θερισμός.¶"
+pericope: "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SICKLE|SICKLE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G3860]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G2112]]"
+- "[[G0649]]"
+- "[[G1407]]"
+- "[[G3754H]]"
+- "[[G3936]]"
+- "[[G2326]]"
+texts:
+- NKO
+---
+
 **Mark 4:29**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.
 <small><sub>**BSB:**</sub></small>
 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”
-<small><sub>**Literal:**</sub></small>
-When then it may produce the fruit, immediately he sends the sickle for has come the harvest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.28|<< Mark 4:28]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.30|Mark 4:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G3860\|παραδοῖ]]  [[G3588\|ὁ]]  [[G2590\|καρπός,]]  [[G2112\|εὐθὺς]]  [[G0649\|ἀποστέλλει]]  [[G3588\|τὸ]]  [[G1407\|δρέπανον]]  [[G3754H\|ὅτι]]  [[G3936\|παρέστηκεν]]  [[G3588\|ὁ]]  [[G2326\|θερισμός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic REGENERATION|REGENERATION]] • [[topic SERMON|SERMON]] • [[topic SICKLE|SICKLE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.28|<< Mark 4:28]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.30|Mark 4:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 4:29** is...
 > $\quad$ referencing: [[LXX.Joel.3.13|Joel 3:13]]

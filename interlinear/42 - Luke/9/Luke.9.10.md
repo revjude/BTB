@@ -1,10 +1,63 @@
+---
+title: Luke 9:10
+type: Verse
+kjv: "And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida."
+bsb: "Then the apostles returned and reported to Jesus all that they had done. Taking them away privately, He withdrew to a town called Bethsaida."
+greek: "Καὶ ὑποστρέψαντες οἱ ἀπόστολοι διηγήσαντο αὐτῷ ὅσα ἐποίησαν. καὶ παραλαβὼν αὐτοὺς ὑπεχώρησεν κατ᾽ ἰδίαν εἰς τόπον ἔρημον πόλιν καλουμένην Βηθσαϊδά."
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5290]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G1334]]"
+- "[[G0846]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G3880]]"
+- "[[G5298]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G2048]]"
+- "[[G4172]]"
+- "[[G2564G]]"
+- "[[G0966]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Luke 9:10**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.
 <small><sub>**BSB:**</sub></small>
 Then the apostles returned and reported to Jesus all that they had done. Taking them away privately, He withdrew to a town called Bethsaida.
-<small><sub>**Literal:**</sub></small>
-And having returned the apostles related to Him as much as they had done. And having taken them He withdrew by in private into place solitary a town being called Bethsaida.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.9|<< Luke 9:9]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.11|Luke 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5290\|ὑποστρέψαντες]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G1334\|διηγήσαντο]]  [[G0846\|αὐτῷ]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίησαν.]]  [[G2532\|καὶ]]  [[G3880\|παραλαβὼν]]  [[G0846\|αὐτοὺς]]  [[G5298\|ὑπεχώρησεν]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G1519\|εἰς]]  [[G5117\|τόπον]]  [[G2048\|ἔρημον]]  [[G4172\|πόλιν]]  [[G2564G\|καλουμένην]]  [[G0966\|Βηθσαϊδά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHSAIDA|BETHSAIDA]] • [[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.9|<< Luke 9:9]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.11|Luke 9:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

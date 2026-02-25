@@ -1,10 +1,54 @@
+---
+title: John 21:21
+type: Verse
+kjv: "Peter seeing him saith to Jesus, Lord, and what shall this man do?"
+bsb: "When Peter saw him, he asked, “Lord, what about him?”"
+greek: "τοῦτον οὖν ἰδὼν ὁ Πέτρος λέγει τῷ Ἰησοῦ· κύριε, οὗτος δὲ τί;"
+pericope: "[[John.21.20 Jesus and the Beloved Disciple|Jesus and the Beloved Disciple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G1161]]"
+- "[[G5101]]"
+texts:
+- NKO
+- NO
+---
+
 **John 21:21**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter seeing him saith to Jesus, Lord, and what [shall] this man [do]?
 <small><sub>**BSB:**</sub></small>
 When Peter saw him, he asked, “Lord, what about him?”
-<small><sub>**Literal:**</sub></small>
-Him therefore having seen <the> Peter says <the> to Jesus; Lord, this man and what about?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.20|<< John 21:20]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.22|John 21:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G3767\|οὖν]]  [[G1492H\|ἰδὼν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ·]]  [[G2962G\|κύριε,]]  [[G3778\|οὗτος]]  [[G1161\|δὲ]]  [[G5101\|τί;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.20|<< John 21:20]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.22|John 21:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

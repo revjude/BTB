@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Earth Is the LORD’s
+type: Pericope
 pericope: "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 24
 book/chapter: "[[Ps.24|Psalm 24]]"
-genre:
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.24.0]]"
 - "[[Ps.24.1]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.24.10]]"
 ---
 
-[[Ps.24|Psalm 24:1 - Psalm 24:10]]
+<small>[[Ps.24|Psalm 24:1-10]]</small>
 *The Earth Is the LORD’s*
 
 [[Ps.24.0|0]] A Psalm of David.

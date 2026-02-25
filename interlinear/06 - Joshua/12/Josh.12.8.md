@@ -1,8 +1,58 @@
+---
+title: Joshua 12:8
+type: Verse
+kjv: "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+bsb: "the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev—the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):"
+hebrew: "בָּהָ֣ר וּבַשְּׁפֵלָ֗ה וּבָֽעֲרָבָה֙ וּבָ֣אֲשֵׁד֔וֹת וּבַמִּדְבָּ֖ר וּבַנֶּ֑גֶב הַֽחִתִּי֙ הָֽאֱמֹרִ֔י וְהַֽכְּנַעֲנִי֙ הַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִֽי׃ פ"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic HIVITES|HIVITES]]"
+strongs:
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H9002]]"
+- "[[H8219]]"
+- "[[H6160G]]"
+- "[[H0794]]"
+- "[[H4057B]]"
+- "[[H5045G]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H0567]]"
+- "[[H3669A]]"
+- "[[H6522]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 12:8**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:
 <small><sub>**BSB:**</sub></small>
 the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev—the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H2022H\|הָ֣ר]] [[H9002\|וּ]][[H9003\|בַ]][[H8219\|שְּׁפֵלָ֗ה]] [[H9002\|וּ]][[H9003\|בָֽ]][[H6160G\|עֲרָבָה֙]] [[H9002\|וּ]][[H9003\|בָ֣]][[H0794\|אֲשֵׁד֔וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H4057B\|מִּדְבָּ֖ר]] [[H9002\|וּ]][[H9003\|בַ]][[H5045G\|נֶּ֑גֶב]] [[H9009\|הַֽ]][[H2850\|חִתִּי֙]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H9002\|וְ]][[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9009\|הַ]][[H6522\|פְּרִזִּ֔י]] [[H9009\|הַ]][[H2340\|חִוִּ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִֽי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic HIVITES|HIVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.7|<< Joshua 12:7]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.9|Joshua 12:9 >>]]</td></tr></table>
 
@@ -19,7 +69,7 @@ the hill country, the foothills, the Arabah, the slopes, the wilderness, and the
 | and the Canaanite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3669A\|כְּנַעֲנִי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ke.na.'a.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Perizzite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6522\|פְּרִזִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ri.Zi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Hivite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2340\|חִוִּ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the Jebusite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבוּסִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Jebusite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבוּסִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.7|<< Joshua 12:7]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.9|Joshua 12:9 >>]]</td></tr></table>
 
 

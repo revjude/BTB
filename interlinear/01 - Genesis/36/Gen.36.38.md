@@ -1,8 +1,57 @@
+---
+title: Genesis 36:38
+type: Verse
+kjv: "And Saul died, and Baalhanan the son of Achbor reigned in his stead."
+bsb: "When Shaul died, Baal-hanan son of Achbor reigned in his place."
+hebrew: "וַיָּ֖מָת שָׁא֑וּל וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו בַּ֥עַל חָנָ֖ן בֶּן־ עַכְבּֽוֹר׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BAAL-HANAN|BAAL-HANAN]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H7586I]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H1177G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5907G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:38**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul died, and Baalhanan the son of Achbor reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 When Shaul died, Baal-hanan son of Achbor reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H7586I\|שָׁא֑וּל]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H1177G\|בַּ֥עַל]] [[H1177G\|חָנָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5907G\|עַכְבּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-HANAN|BAAL-HANAN]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.37|<< Genesis 36:37]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.39|Genesis 36:39 >>]]</td></tr></table>
 

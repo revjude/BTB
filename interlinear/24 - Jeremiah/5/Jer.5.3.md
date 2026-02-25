@@ -1,8 +1,71 @@
+---
+title: Jeremiah 5:3
+type: Verse
+kjv: "O LORD, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return."
+bsb: "O LORD, do not Your eyes look for truth? You struck them, but they felt no pain. You finished them off, but they refused to accept discipline. They have made their faces harder than stone and refused to repent."
+hebrew: "יְהֹוָ֗ה עֵינֶיךָ֮ הֲל֣וֹא לֶאֱמוּנָה֒ הִכִּ֤יתָה אֹתָם֙ וְֽלֹא־ חָ֔לוּ כִּלִּיתָ֕ם מֵאֲנ֖וּ קַ֣חַת מוּסָ֑ר חִזְּק֤וּ פְנֵיהֶם֙ מִסֶּ֔לַע מֵאֲנ֖וּ לָשֽׁוּב׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H3068G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H0530]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H2342I]]"
+- "[[H3615H]]"
+- "[[H3985]]"
+- "[[H3947G]]"
+- "[[H4148G]]"
+- "[[H2388G]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5553H]]"
+- "[[H7725O]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:3**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, [are] not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, [but] they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.
 <small><sub>**BSB:**</sub></small>
 O LORD, do not Your eyes look for truth? You struck them, but they felt no pain. You finished them off, but they refused to accept discipline. They have made their faces harder than stone and refused to repent.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהֹוָ֗ה]] [[H5869A\|עֵינֶי]][[H9021\|ךָ֮]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H9005\|לֶ]][[H0530\|אֱמוּנָה֒]] [[H5221\|הִכִּ֤יתָה]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H2342I\|חָ֔לוּ]] [[H3615H\|כִּלִּיתָ֕]][[H9038\|ם]] [[H3985\|מֵאֲנ֖וּ]] [[H3947G\|קַ֣חַת]] [[H4148G\|מוּסָ֑ר]] [[H2388G\|חִזְּק֤וּ]] [[H6440H\|פְנֵי]][[H9028\|הֶם֙]] [[H9006\|מִ]][[H5553H\|סֶּ֔לַע]] [[H3985\|מֵאֲנ֖וּ]] [[H9005\|לָ]][[H7725O\|שֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SELF-WILL|SELF-WILL]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.2|<< Jeremiah 5:2]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.4|Jeremiah 5:4 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 8:37
+type: Verse
+kjv: "And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:"
+bsb: "Moza was the father of Binea. Raphah was his son, Eleasah his son, and Azel his son."
+hebrew: "וּמוֹצָ֖א הוֹלִ֣יד אֶת־ בִּנְעָ֑א רָפָ֥ה בְנ֛וֹ אֶלְעָשָׂ֥ה בְנ֖וֹ אָצֵ֥ל בְּנֽוֹ׃"
+pericope: "[[1Chr.8.33 The Family of Saul|The Family of Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AZEL|AZEL]]"
+- "[[topic BINEA|BINEA]]"
+- "[[topic ELEASAH|ELEASAH]]"
+- "[[topic MOZA|MOZA]]"
+- "[[topic RAPHA|RAPHA]]"
+- "[[topic REPHAIAH|REPHAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4162H]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1150]]"
+- "[[H7498G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0501H]]"
+- "[[H0682A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:37**<big><big>[[1Chr.8.33 The Family of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moza begat Binea: Rapha [was] his son, Eleasah his son, Azel his son:
 <small><sub>**BSB:**</sub></small>
 Moza was the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4162H\|מוֹצָ֖א]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1150\|בִּנְעָ֑א]] [[H7498G\|רָפָ֥ה]] [[H1121A\|בְנ֛]][[H9023\|וֹ]] [[H0501H\|אֶלְעָשָׂ֥ה]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H0682A\|אָצֵ֥ל]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZEL|AZEL]] • [[topic BINEA|BINEA]] • [[topic ELEASAH|ELEASAH]] • [[topic MOZA|MOZA]] • [[topic RAPHA|RAPHA]] • [[topic REPHAIAH|REPHAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.36|<< 1 Chronicles 8:36]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.38|1 Chronicles 8:38 >>]]</td></tr></table>
 

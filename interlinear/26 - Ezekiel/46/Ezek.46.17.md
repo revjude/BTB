@@ -1,8 +1,69 @@
+---
+title: Ezekiel 46:17
+type: Verse
+kjv: "But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them."
+bsb: "But if he gives a gift from his inheritance to one of his servants, it will belong to that servant until the year of freedom; then it will revert to the prince. His inheritance belongs only to his sons; it shall be theirs."
+hebrew: "וְכִֽי־ יִתֵּ֨ן מַתָּנָ֜ה מִנַּחֲלָת֗וֹ לְאַחַד֙ מֵֽעֲבָדָ֔יו וְהָ֤יְתָה לּוֹ֙ עַד־ שְׁנַ֣ת הַדְּר֔וֹר וְשָׁבַ֖ת לַנָּשִׂ֑יא אַ֚ךְ נַחֲלָת֔וֹ בָּנָ֖יו לָהֶ֥ם תִּהְיֶֽה׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H4979]]"
+- "[[H9006]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H5650]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H1865]]"
+- "[[H7725I]]"
+- "[[H5387A]]"
+- "[[H0389]]"
+- "[[H1121A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:17**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons’ for them.
 <small><sub>**BSB:**</sub></small>
 But if he gives a gift from his inheritance to one of his servants, it will belong to that servant until the year of freedom; then it will revert to the prince. His inheritance belongs only to his sons; it shall be theirs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5414G\|יִתֵּ֨ן]] [[H4979\|מַתָּנָ֜ה]] [[H9006\|מִ]][[H5159\|נַּחֲלָת֗]][[H9023\|וֹ]] [[H9005\|לְ]][[H0259\|אַחַד֙]] [[H9006\|מֵֽ]][[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H1961\|הָ֤יְתָה]] [[H9005\|לּ]][[H9033\|וֹ֙]] [[H5704\|עַד]][[H9014\|־]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H1865\|דְּר֔וֹר]] [[H9001\|וְ]][[H7725I\|שָׁבַ֖ת]] [[H9005\|לַ]][[H5387A\|נָּשִׂ֑יא]] [[H0389\|אַ֚ךְ]] [[H5159\|נַחֲלָת֔]][[H9023\|וֹ]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H1961\|תִּהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JUBILEE|JUBILEE]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.16|<< Ezekiel 46:16]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.18|Ezekiel 46:18 >>]]</td></tr></table>
 

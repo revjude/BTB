@@ -1,10 +1,56 @@
+---
+title: John 15:12
+type: Verse
+kjv: "This is my commandment, That ye love one another, as I have loved you."
+bsb: "This is My commandment, that you love one another as I have loved you."
+jesus_said: "This is my commandment, That ye love one another, as I have loved you."
+greek: "αὕτη ἐστὶν ἡ ἐντολὴ ἡ ἐμὴ ἵνα ἀγαπᾶτε ἀλλήλους καθὼς ἠγάπησα ὑμᾶς."
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G0025]]"
+- "[[G0240]]"
+- "[[G2531]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **John 15:12**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is my commandment, That ye love one another, as I have loved you.
 <small><sub>**BSB:**</sub></small>
 This is My commandment, that you love one another as I have loved you.
-<small><sub>**Literal:**</sub></small>
-This is <the> commandment <the> of Mine that you may love one another even as I loved you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.11|<< John 15:11]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.13|John 15:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G1785\|ἐντολὴ]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G2443\|ἵνα]]  [[G0025\|ἀγαπᾶτε]]  [[G0240\|ἀλλήλους]]  [[G2531\|καθὼς]]  [[G0025\|ἠγάπησα]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.11|<< John 15:11]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.13|John 15:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

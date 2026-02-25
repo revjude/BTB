@@ -1,8 +1,71 @@
+---
+title: 1 Kings 18:5
+type: Verse
+kjv: "And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts."
+bsb: "Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.”"
+hebrew: "וַיֹּ֤אמֶר אַחְאָב֙ אֶל־ עֹ֣בַדְיָ֔הוּ לֵ֤ךְ בָּאָ֙רֶץ֙ אֶל־ כָּל־ מַעְיְנֵ֣י הַמַּ֔יִם וְאֶ֖ל כָּל־ הַנְּחָלִ֑ים אוּלַ֣י׀ נִמְצָ֣א חָצִ֗יר וּנְחַיֶּה֙ ס֣וּס וָפֶ֔רֶד וְל֥וֹא נַכְרִ֖ית מֵהַבְּהֵמָֽה׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBADIAH|OBADIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0256G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5662G]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3605]]"
+- "[[H4599]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H5158N]]"
+- "[[H0194]]"
+- "[[H9015]]"
+- "[[H4672]]"
+- "[[H2682A]]"
+- "[[H2421]]"
+- "[[H5483M]]"
+- "[[H6505]]"
+- "[[H3808]]"
+- "[[H3772J]]"
+- "[[H9006]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:5**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.
 <small><sub>**BSB:**</sub></small>
 Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0256G\|אַחְאָב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5662G\|עֹ֣בַדְיָ֔הוּ]] [[H1980G\|לֵ֤ךְ]] [[H9003\|בָּ]][[H0776G\|אָ֙רֶץ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4599\|מַעְיְנֵ֣י]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5158N\|נְּחָלִ֑ים]] [[H0194\|אוּלַ֣י]][[H9015\|׀]] [[H4672\|נִמְצָ֣א]] [[H2682A\|חָצִ֗יר]] [[H9002\|וּ]][[H2421\|נְחַיֶּה֙]] [[H5483M\|ס֣וּס]] [[H9002\|וָ]][[H6505\|פֶ֔רֶד]] [[H9002\|וְ]][[H3808\|ל֥וֹא]] [[H3772J\|נַכְרִ֖ית]] [[H9006\|מֵ]][[H9009\|הַ]][[H0929\|בְּהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic ISRAEL|ISRAEL]] • [[topic OBADIAH|OBADIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.4|<< 1 Kings 18:4]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.6|1 Kings 18:6 >>]]</td></tr></table>
 

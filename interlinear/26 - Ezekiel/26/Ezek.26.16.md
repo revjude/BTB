@@ -1,8 +1,72 @@
+---
+title: Ezekiel 26:16
+type: Verse
+kjv: "Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at every moment, and be astonished at thee."
+bsb: "All the princes of the sea will descend from their thrones, remove their robes, and strip off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled over you."
+hebrew: "וְֽיָרְד֞וּ מֵעַ֣ל כִּסְאוֹתָ֗ם כֹּ֚ל נְשִׂיאֵ֣י הַיָּ֔ם וְהֵסִ֙ירוּ֙ אֶת־ מְעִ֣ילֵיהֶ֔ם וְאֶת־ בִּגְדֵ֥י רִקְמָתָ֖ם יִפְשֹׁ֑טוּ חֲרָד֤וֹת׀ יִלְבָּ֙שׁוּ֙ עַל־ הָאָ֣רֶץ יֵשֵׁ֔בוּ וְחָֽרְדוּ֙ לִרְגָעִ֔ים וְשָׁמְמ֖וּ עָלָֽיִךְ׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H5387A]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4598]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H7553]]"
+- "[[H6584]]"
+- "[[H2731]]"
+- "[[H9015]]"
+- "[[H3847]]"
+- "[[H0776H]]"
+- "[[H3427]]"
+- "[[H2729]]"
+- "[[H9005]]"
+- "[[H7281]]"
+- "[[H8074H]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:16**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at [every] moment, and be astonished at thee.
 <small><sub>**BSB:**</sub></small>
 All the princes of the sea will descend from their thrones, remove their robes, and strip off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled over you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H3381\|יָרְד֞וּ]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3678G\|כִּסְאוֹתָ֗]][[H9028\|ם]] [[H3605\|כֹּ֚ל]] [[H5387A\|נְשִׂיאֵ֣י]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H9001\|וְ]][[H5493G\|הֵסִ֙ירוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4598\|מְעִ֣ילֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵ֥י]] [[H7553\|רִקְמָתָ֖]][[H9028\|ם]] [[H6584\|יִפְשֹׁ֑טוּ]] [[H2731\|חֲרָד֤וֹת]][[H9015\|׀]] [[H3847\|יִלְבָּ֙שׁוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֣רֶץ]] [[H3427\|יֵשֵׁ֔בוּ]] [[H9001\|וְ]][[H2729\|חָֽרְדוּ֙]] [[H9005\|לִ]][[H7281\|רְגָעִ֔ים]] [[H9001\|וְ]][[H8074H\|שָׁמְמ֖וּ]] [[H5921A\|עָלָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMBROIDERY|EMBROIDERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
 

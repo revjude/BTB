@@ -1,8 +1,65 @@
+---
+title: Daniel 2:8
+type: Verse
+kjv: "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me."
+bsb: "The king replied, “I know for sure that you are stalling for time because you see that my word is final."
+aramaic: "עָנֵ֤ה מַלְכָּא֙ וְאָמַ֔ר מִן־ יַצִּיב֙ יָדַ֣ע אֲנָ֔ה דִּ֥י עִדָּנָ֖א אַנְתּ֣וּן זָבְנִ֑ין כָּל־ קֳבֵל֙ דִּ֣י חֲזֵית֔וֹן דִּ֥י אַזְדָּ֖א מִנִּ֥י מִלְּתָֽא׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6032]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H3330]]"
+- "[[H3046]]"
+- "[[H0576B]]"
+- "[[H1768]]"
+- "[[H5732]]"
+- "[[H0608]]"
+- "[[H2084]]"
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H6903H]]"
+- "[[H2370]]"
+- "[[H0230]]"
+- "[[H9030]]"
+- "[[H4406]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:8**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
 <small><sub>**BSB:**</sub></small>
 The king replied, “I know for sure that you are stalling for time because you see that my word is final.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עָנֵ֤ה]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H0560\|אָמַ֔ר]] [[H4481\|מִן]][[H9014\|־]] [[H3330\|יַצִּיב֙]] [[H3046\|יָדַ֣ע]] [[H0576B\|אֲנָ֔ה]] [[H1768\|דִּ֥י]] [[H5732\|עִדָּנָ֖]][[H9010\|א]] [[H0608\|אַנְתּ֣וּן]] [[H2084\|זָבְנִ֑ין]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵל֙]] [[H1768\|דִּ֣י]] [[H2370\|חֲזֵית֔וֹן]] [[H1768\|דִּ֥י]] [[H0230\|אַזְדָּ֖א]] [[H4481\|מִנִּ֥]][[H9030\|י]] [[H4406\|מִלְּתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.7|<< Daniel 2:7]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.9|Daniel 2:9 >>]]</td></tr></table>
 

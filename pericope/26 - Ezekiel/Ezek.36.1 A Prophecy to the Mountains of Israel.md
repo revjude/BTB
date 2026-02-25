@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy to the Mountains of Israel
+type: Pericope
 pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 36
 book/chapter: "[[Ezek.36|Ezekiel 36]]"
-genre:
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 15
 verses:
 - "[[Ezek.36.1]]"
 - "[[Ezek.36.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ezek.36.15]]"
 ---
 
-[[Ezek.36|Ezekiel 36:1 - Ezekiel 36:15]]
+<small>[[Ezek.36|Ezekiel 36:1-15]]</small>
 *A Prophecy to the Mountains of Israel*
 
 [[Ezek.36.1|1]] Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:

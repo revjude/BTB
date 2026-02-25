@@ -1,10 +1,61 @@
+---
+title: John 20:13
+type: Verse
+kjv: "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him."
+bsb: "“Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.”"
+greek: "καὶ λέγουσιν αὐτῇ ἐκεῖνοι· γύναι, τί κλαίεις; λέγει αὐτοῖς· ὅτι ἦραν τὸν κύριόν μου, καὶ οὐκ οἶδα ποῦ ἔθηκαν αὐτόν.¶"
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1565]]"
+- "[[G1135G]]"
+- "[[G5101]]"
+- "[[G2799]]"
+- "[[G3754H]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4226]]"
+- "[[G5087]]"
+texts:
+- NKO
+---
+
 **John 20:13**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.
 <small><sub>**BSB:**</sub></small>
 “Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.”
-<small><sub>**Literal:**</sub></small>
-And say to her they; Woman, why weep you? She says to them; Because they have taken away the Lord of mine, and not I know where they have laid Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.12|<< John 20:12]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.14|John 20:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῇ]]  [[G1565\|ἐκεῖνοι·]]  [[G1135G\|γύναι,]]  [[G5101\|τί]]  [[G2799\|κλαίεις;]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3754H\|ὅτι]]  [[G0142\|ἦραν]]  [[G3588\|τὸν]]  [[G2962G\|κύριόν]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα]]  [[G4226\|ποῦ]]  [[G5087\|ἔθηκαν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.12|<< John 20:12]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.14|John 20:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

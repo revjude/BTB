@@ -1,8 +1,55 @@
+---
+title: Obadiah 1:3
+type: Verse
+kjv: "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?"
+bsb: "The pride of your heart has deceived you, O dwellers in the clefts of the rocks whose habitation is the heights, who say in your heart, ‘Who can bring me down to the ground?’"
+hebrew: "זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי־ סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H2087]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H5377]]"
+- "[[H9031]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H2288]]"
+- "[[H9014]]"
+- "[[H5553H]]"
+- "[[H4791]]"
+- "[[H7675]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H3381]]"
+- "[[H9030]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:3**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation [is] high; that saith in his heart, Who shall bring me down to the ground?
 <small><sub>**BSB:**</sub></small>
 The pride of your heart has deceived you, O dwellers in the clefts of the rocks whose habitation is the heights, who say in your heart, ‘Who can bring me down to the ground?’
+<small><sub>**Hebrew:**</sub></small>
+[[H2087\|זְד֤וֹן]] [[H3820A\|לִבְּ]][[H9021\|ךָ֙]] [[H5377\|הִשִּׁיאֶ֔]][[H9031\|ךָ]] [[H7931\|שֹׁכְנִ֥י]] [[H9003\|בְ]][[H2288\|חַגְוֵי]][[H9014\|־]] [[H5553H\|סֶּ֖לַע]] [[H4791\|מְר֣וֹם]] [[H7675\|שִׁבְתּ֑]][[H9023\|וֹ]] [[H0559\|אֹמֵ֣ר]] [[H9003\|בְּ]][[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H4310\|מִ֥י]] [[H3381\|יוֹרִדֵ֖]][[H9030\|נִי]] [[H0776H\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.2|<< Obadiah 1:2]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.4|Obadiah 1:4 >>]]</td></tr></table>
 

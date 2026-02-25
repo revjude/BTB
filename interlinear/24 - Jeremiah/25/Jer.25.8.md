@@ -1,8 +1,59 @@
+---
+title: Jeremiah 25:8
+type: Verse
+kjv: "Therefore thus saith the LORD of hosts; Because ye have not heard my words,"
+bsb: "Therefore this is what the LORD of Hosts says: ‘Because you have not obeyed My words,"
+hebrew: "לָכֵ֕ן כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת יַ֕עַן אֲשֶׁ֥ר לֹֽא־ שְׁמַעְתֶּ֖ם אֶת־ דְּבָרָֽי׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:8**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts; Because ye have not heard my words,
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD of Hosts says: ‘Because you have not obeyed My words,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֕ן]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H3282\|יַ֕עַן]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שְׁמַעְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.7|<< Jeremiah 25:7]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.9|Jeremiah 25:9 >>]]</td></tr></table>
 

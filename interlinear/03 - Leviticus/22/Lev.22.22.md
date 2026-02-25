@@ -1,8 +1,74 @@
+---
+title: Leviticus 22:22
+type: Verse
+kjv: "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD."
+bsb: "You are not to present to the LORD any animal that is blind, injured, or maimed, or anything with a running sore, a festering rash, or a scab; you must not put any of these on the altar as a food offering to the LORD."
+hebrew: "עַוֶּרֶת֩ א֨וֹ שָׁב֜וּר אוֹ־ חָר֣וּץ אֽוֹ־ יַבֶּ֗לֶת א֤וֹ גָרָב֙ א֣וֹ יַלֶּ֔פֶת לֹא־ תַקְרִ֥יבוּ אֵ֖לֶּה לַיהוָ֑ה וְאִשֶּׁ֗ה לֹא־ תִתְּנ֥וּ מֵהֶ֛ם עַל־ הַמִּזְבֵּ֖חַ לַיהוָֽה׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAB|SCAB]]"
+- "[[topic SCURVY|SCURVY]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WEN|WEN]]"
+strongs:
+- "[[H5788B]]"
+- "[[H0176A]]"
+- "[[H7667]]"
+- "[[H9014]]"
+- "[[H2742A]]"
+- "[[H2990]]"
+- "[[H1618]]"
+- "[[H3217]]"
+- "[[H3808]]"
+- "[[H7126H]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0801]]"
+- "[[H5414G]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:22**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.
 <small><sub>**BSB:**</sub></small>
 You are not to present to the LORD any animal that is blind, injured, or maimed, or anything with a running sore, a festering rash, or a scab; you must not put any of these on the altar as a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5788B\|עַוֶּרֶת֩]] [[H0176A\|א֨וֹ]] [[H7667\|שָׁב֜וּר]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2742A\|חָר֣וּץ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H2990\|יַבֶּ֗לֶת]] [[H0176A\|א֤וֹ]] [[H1618\|גָרָב֙]] [[H0176A\|א֣וֹ]] [[H3217\|יַלֶּ֔פֶת]] [[H3808\|לֹא]][[H9014\|־]] [[H7126H\|תַקְרִ֥יבוּ]] [[H0428\|אֵ֖לֶּה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וְ]][[H0801\|אִשֶּׁ֗ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|תִתְּנ֥וּ]] [[H9006\|מֵ]][[H9038\|הֶ֛ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DEDICATION|DEDICATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAB|SCAB]] • [[topic SCURVY|SCURVY]] • [[topic VOWS|VOWS]] • [[topic WEN|WEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.21|<< Leviticus 22:21]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.23|Leviticus 22:23 >>]]</td></tr></table>
 

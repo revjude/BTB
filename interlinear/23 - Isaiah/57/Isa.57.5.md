@@ -1,8 +1,59 @@
+---
+title: Isaiah 57:5
+type: Verse
+kjv: "Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?"
+bsb: "who burn with lust among the oaks, under every luxuriant tree, who slaughter your children in the valleys, under the clefts of the rocks?"
+hebrew: "הַנֵּֽחָמִים֙ בָּֽאֵלִ֔ים תַּ֖חַת כָּל־ עֵ֣ץ רַעֲנָ֑ן שֹׁחֲטֵ֤י הַיְלָדִים֙ בַּנְּחָלִ֔ים תַּ֖חַת סְעִפֵ֥י הַסְּלָעִֽים׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9009]]"
+- "[[H2552]]"
+- "[[H9003]]"
+- "[[H0352D]]"
+- "[[H8478G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H7819A]]"
+- "[[H3206]]"
+- "[[H5158N]]"
+- "[[H5585]]"
+- "[[H5553H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:5**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
 <small><sub>**BSB:**</sub></small>
 who burn with lust among the oaks, under every luxuriant tree, who slaughter your children in the valleys, under the clefts of the rocks?
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2552\|נֵּֽחָמִים֙]] [[H9003\|בָּֽ]][[H0352D\|אֵלִ֔ים]] [[H8478G\|תַּ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֣ץ]] [[H7488B\|רַעֲנָ֑ן]] [[H7819A\|שֹׁחֲטֵ֤י]] [[H9009\|הַ]][[H3206\|יְלָדִים֙]] [[H9003\|בַּ]][[H5158N\|נְּחָלִ֔ים]] [[H8478G\|תַּ֖חַת]] [[H5585\|סְעִפֵ֥י]] [[H9009\|הַ]][[H5553H\|סְּלָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.4|<< Isaiah 57:4]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.6|Isaiah 57:6 >>]]</td></tr></table>
 

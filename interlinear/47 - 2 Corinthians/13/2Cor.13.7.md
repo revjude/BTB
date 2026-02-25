@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 13:7
+type: Verse
+kjv: "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates."
+bsb: "Now we pray to God that you will not do anything wrong—not that we will appear to have stood the test, but that you will do what is right, even if we appear to have failed."
+greek: "εὐχόμεθα δὲ πρὸς τὸν θεὸν μὴ ποιῆσαι ὑμᾶς κακὸν μηδέν, οὐχ ἵνα ἡμεῖς δόκιμοι φανῶμεν, ἀλλ᾽ ἵνα ὑμεῖς τὸ καλὸν ποιῆτε, ἡμεῖς δὲ ὡς ἀδόκιμοι ὦμεν."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2172]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G2556G]]"
+- "[[G3367]]"
+- "[[G3756]]"
+- "[[G2443]]"
+- "[[G3165]]"
+- "[[G1384]]"
+- "[[G5316]]"
+- "[[G0235]]"
+- "[[G2570G]]"
+- "[[G5613]]"
+- "[[G0096]]"
+- "[[G1510]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **2 Corinthians 13:7**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
 <small><sub>**BSB:**</sub></small>
 Now we pray to God that you will not do anything wrong—not that we will appear to have stood the test, but that you will do what is right, even if we appear to have failed.
-<small><sub>**Literal:**</sub></small>
-We pray now to <the> God not to do you wrong nothing, not that we ourselves approved may appear, but that you yourselves what [is] right may do, we ourselves though as unapproved may appear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.6|<< 2 Corinthians 13:6]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.8|2 Corinthians 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2172\|εὐχόμεθα]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3361\|μὴ]]  [[G4160G\|ποιῆσαι]]  [[G4771\|ὑμᾶς]]  [[G2556G\|κακὸν]]  [[G3367\|μηδέν,]]  [[G3756\|οὐχ]]  [[G2443\|ἵνα]]  [[G3165\|ἡμεῖς]]  [[G1384\|δόκιμοι]]  [[G5316\|φανῶμεν,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G3588\|τὸ]]  [[G2570G\|καλὸν]]  [[G4160G\|ποιῆτε,]]  [[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G5613\|ὡς]]  [[G0096\|ἀδόκιμοι]]  [[G1510\|ὦμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPROBACY|REPROBACY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.6|<< 2 Corinthians 13:6]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.8|2 Corinthians 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

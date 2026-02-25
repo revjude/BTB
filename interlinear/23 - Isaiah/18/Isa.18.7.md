@@ -1,8 +1,76 @@
+---
+title: Isaiah 18:7
+type: Verse
+kjv: "In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion."
+bsb: "At that time gifts will be brought to the LORD of Hosts—from a people tall and smooth-skinned, from a people widely feared, from a powerful nation of strange speech, whose land is divided by rivers—to Mount Zion, the place of the Name of the LORD of Hosts."
+hebrew: "בָּעֵת֩ הַהִ֨יא יֽוּבַל־ שַׁ֜י לַיהוָ֣ה צְבָא֗וֹת עַ֚ם מְמֻשָּׁ֣ךְ וּמוֹרָ֔ט וּמֵעַ֥ם נוֹרָ֖א מִן־ ה֣וּא וָהָ֑לְאָה גּ֣וֹי׀ קַו־ קָ֣ו וּמְבוּסָ֗ה אֲשֶׁ֨ר בָּזְא֤וּ נְהָרִים֙ אַרְצ֔וֹ אֶל־ מְק֛וֹם שֵׁם־ יְהוָ֥ה צְבָא֖וֹת הַר־ צִיּֽוֹן׃ ס"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2986]]"
+- "[[H9014]]"
+- "[[H7862]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5971A]]"
+- "[[H4900]]"
+- "[[H9002]]"
+- "[[H4803]]"
+- "[[H9006]]"
+- "[[H3372G]]"
+- "[[H4480A]]"
+- "[[H1973]]"
+- "[[H1471A]]"
+- "[[H9015]]"
+- "[[H6978]]"
+- "[[H4001]]"
+- "[[H0834A]]"
+- "[[H0958]]"
+- "[[H5104H]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H8034]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 18:7**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion.
 <small><sub>**BSB:**</sub></small>
 At that time gifts will be brought to the LORD of Hosts—from a people tall and smooth-skinned, from a people widely feared, from a powerful nation of strange speech, whose land is divided by rivers—to Mount Zion, the place of the Name of the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵת֩]] [[H9009\|הַ]][[H1931\|הִ֨יא]] [[H2986\|יֽוּבַל]][[H9014\|־]] [[H7862\|שַׁ֜י]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H5971A\|עַ֚ם]] [[H4900\|מְמֻשָּׁ֣ךְ]] [[H9002\|וּ]][[H4803\|מוֹרָ֔ט]] [[H9002\|וּ]][[H9006\|מֵ]][[H5971A\|עַ֥ם]] [[H3372G\|נוֹרָ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H9002\|וָ]][[H1973\|הָ֑לְאָה]] [[H1471A\|גּ֣וֹי]][[H9015\|׀]] [[H6978\|קַו]][[H9014\|־]] [[H6978\|קָ֣ו]] [[H9002\|וּ]][[H4001\|מְבוּסָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0958\|בָּזְא֤וּ]] [[H5104H\|נְהָרִים֙]] [[H0776G\|אַרְצ֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְק֛וֹם]] [[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H2022G\|הַר]][[H9014\|־]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.6|<< Isaiah 18:6]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.1|Isaiah 19:1 >>]]</td></tr></table>
 
@@ -36,7 +104,7 @@ At that time gifts will be brought to the LORD of Hosts—from a people tall and
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mountain of  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.6|<< Isaiah 18:6]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.1|Isaiah 19:1 >>]]</td></tr></table>
 
 

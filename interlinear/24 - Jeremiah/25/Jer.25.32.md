@@ -1,8 +1,63 @@
+---
+title: Jeremiah 25:32
+type: Verse
+kjv: "Thus saith the LORD of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth."
+bsb: "This is what the LORD of Hosts says: “Behold! Disaster is spreading from nation to nation; a mighty storm is rising from the ends of the earth.”"
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנֵּ֥ה רָעָ֛ה יֹצֵ֖את מִגּ֣וֹי אֶל־ גּ֑וֹי וְסַ֣עַר גָּד֔וֹל יֵע֖וֹר מִיַּרְכְּתֵי־ אָֽרֶץ׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2009]]"
+- "[[H7451C]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H5591A]]"
+- "[[H1419A]]"
+- "[[H5782]]"
+- "[[H3411]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:32**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Behold! Disaster is spreading from nation to nation; a mighty storm is rising from the ends of the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H2009\|הִנֵּ֥ה]] [[H7451C\|רָעָ֛ה]] [[H3318G\|יֹצֵ֖את]] [[H9006\|מִ]][[H1471A\|גּ֣וֹי]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּ֑וֹי]] [[H9002\|וְ]][[H5591A\|סַ֣עַר]] [[H1419A\|גָּד֔וֹל]] [[H5782\|יֵע֖וֹר]] [[H9006\|מִ]][[H3411\|יַּרְכְּתֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.31|<< Jeremiah 25:31]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.33|Jeremiah 25:33 >>]]</td></tr></table>
 

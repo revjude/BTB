@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 34:2
+type: Verse
+kjv: "And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left."
+bsb: "And he did what was right in the eyes of the LORD and walked in the ways of his father David; he did not turn aside to the right or to the left."
+hebrew: "וַיַּ֥עַשׂ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה וַיֵּ֗לֶךְ בְּדַרְכֵי֙ דָּוִ֣יד אָבִ֔יו וְלֹא־ סָ֖ר יָמִ֥ין וּשְׂמֹֽאול׃"
+pericope: "[[2Chr.34.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493I]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:2**<big><big>[[2Chr.34.1 Josiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, and walked in the ways of David his father, and declined [neither] to the right hand, nor to the left.
 <small><sub>**BSB:**</sub></small>
 And he did what was right in the eyes of the LORD and walked in the ways of his father David; he did not turn aside to the right or to the left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1980I\|יֵּ֗לֶךְ]] [[H9003\|בְּ]][[H1870G\|דַרְכֵי֙]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5493I\|סָ֖ר]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹֽאול]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JOSIAH|JOSIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.1|<< 2 Chronicles 34:1]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.3|2 Chronicles 34:3 >>]]</td></tr></table>
 

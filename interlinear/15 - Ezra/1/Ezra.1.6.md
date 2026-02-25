@@ -1,8 +1,64 @@
+---
+title: Ezra 1:6
+type: Verse
+kjv: "And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered."
+bsb: "And all their neighbors supported them with articles of silver and gold, with goods and livestock, and with valuables, in addition to all their freewill offerings."
+hebrew: "וְכָל־ סְבִיבֹֽתֵיהֶם֙ חִזְּק֣וּ בִֽידֵיהֶ֔ם בִּכְלֵי־ כֶ֧סֶף בַּזָּהָ֛ב בָּרְכ֥וּשׁ וּבַבְּהֵמָ֖ה וּבַמִּגְדָּנ֑וֹת לְבַ֖ד עַל־ כָּל־ הִתְנַדֵּֽב׃ ס"
+pericope: "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5439G]]"
+- "[[H9038]]"
+- "[[H2388G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H3627]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H7399]]"
+- "[[H0929]]"
+- "[[H4030]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5921A]]"
+- "[[H5068]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 1:6**<big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all they that [were] about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all [that] was willingly offered.
 <small><sub>**BSB:**</sub></small>
 And all their neighbors supported them with articles of silver and gold, with goods and livestock, and with valuables, in addition to all their freewill offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5439G\|סְבִיבֹֽתֵי]][[H9038\|הֶם֙]] [[H2388G\|חִזְּק֣וּ]] [[H9003\|בִֽ]][[H3027G\|ידֵי]][[H9028\|הֶ֔ם]] [[H9003\|בִּ]][[H3627\|כְלֵי]][[H9014\|־]] [[H3701G\|כֶ֧סֶף]] [[H9003\|בַּ]][[H2091\|זָּהָ֛ב]] [[H9003\|בָּ]][[H7399\|רְכ֥וּשׁ]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָ֖ה]] [[H9002\|וּ]][[H9003\|בַ]][[H4030\|מִּגְדָּנ֑וֹת]] [[H9005\|לְ]][[H0905J\|בַ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5068\|הִתְנַדֵּֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ And all their neighbors supported them with articles of silver and gold, with go
 | \<to> besides  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905J\|בַ֖ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on>  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all of  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ering of freewill offerings  |**<big>&#8207;[[H5068\|הִתְנַדֵּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hit.na.Dev<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ering of freewill offerings  |**<big>&#8207;[[H5068\|הִתְנַדֵּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hit.na.Dev<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
 

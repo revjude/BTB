@@ -1,8 +1,58 @@
+---
+title: Jeremiah 2:33
+type: Verse
+kjv: "Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways."
+bsb: "How skillfully you pursue love! Even the most immoral of women could learn from your ways."
+hebrew: "מַה־ תֵּיטִ֥בִי דַּרְכֵּ֖ךְ לְבַקֵּ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַּ֣ם אֶת־ הָרָע֔וֹת לִמַּ֖דְתְּ אֶת־ דְּרָכָֽיִךְ׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3190]]"
+- "[[H1870G]]"
+- "[[H9022]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H0160]]"
+- "[[H3651C]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H3925G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 2:33**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
 <small><sub>**BSB:**</sub></small>
 How skillfully you pursue love! Even the most immoral of women could learn from your ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H3190\|תֵּיטִ֥בִי]] [[H1870G\|דַּרְכֵּ֖]][[H9022\|ךְ]] [[H9005\|לְ]][[H1245\|בַקֵּ֣שׁ]] [[H0160\|אַהֲבָ֑ה]] [[H9005\|לָ]][[H3651C\|כֵן֙]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רָע֔וֹת]] [[H3925G\|לִמַּ֖דְתְּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דְּרָכָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.32|<< Jeremiah 2:32]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.34|Jeremiah 2:34 >>]]</td></tr></table>
 

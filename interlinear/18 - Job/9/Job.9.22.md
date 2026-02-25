@@ -1,8 +1,54 @@
+---
+title: Job 9:22
+type: Verse
+kjv: "This is one thing, therefore I said it, He destroyeth the perfect and the wicked."
+bsb: "It is all the same, and so I say, ‘He destroys both the blameless and the wicked.’"
+hebrew: "אַחַ֗ת הִ֥יא עַל־ כֵּ֥ן אָמַ֑רְתִּי תָּ֥ם וְ֝רָשָׁ֗ע ה֣וּא מְכַלֶּֽה׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0259]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H3615H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:22**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] one [thing], therefore I said [it], He destroyeth the perfect and the wicked.
 <small><sub>**BSB:**</sub></small>
 It is all the same, and so I say, ‘He destroys both the blameless and the wicked.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0259\|אַחַ֗ת]] [[H1931\|הִ֥יא]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H0559\|אָמַ֑רְתִּי]] [[H8535\|תָּ֥ם]] [[H9002\|וְ֝]][[H7563\|רָשָׁ֗ע]] [[H1931\|ה֣וּא]] [[H3615H\|מְכַלֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.21|<< Job 9:21]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.23|Job 9:23 >>]]</td></tr></table>
 

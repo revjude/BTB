@@ -1,10 +1,63 @@
+---
+title: Hebrews 12:24
+type: Verse
+kjv: "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel."
+bsb: "to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel."
+greek: "καὶ διαθήκης νέας μεσίτῃ Ἰησοῦ καὶ αἵματι ῥαντισμοῦ κρεῖττον λαλοῦντι παρὰ τὸν Ἅβελ.¶"
+pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SPRINKLING|SPRINKLING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1242]]"
+- "[[G3501]]"
+- "[[G3316]]"
+- "[[G2424G]]"
+- "[[G0129G]]"
+- "[[G4473]]"
+- "[[G2908]]"
+- "[[G2980]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G0006]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 12:24**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than [that of] Abel.
 <small><sub>**BSB:**</sub></small>
 to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
-<small><sub>**Literal:**</sub></small>
-and of a covenant new [the] mediator to Jesus and to [the] blood of sprinkling better thing speaking than that of Abel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.23|<< Hebrews 12:23]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.25|Hebrews 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1242\|διαθήκης]]  [[G3501\|νέας]]  [[G3316\|μεσίτῃ]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G0129G\|αἵματι]]  [[G4473\|ῥαντισμοῦ]]  [[G2908\|κρεῖττον]]  [[G2980\|λαλοῦντι]]  [[G3844\|παρὰ]]  [[G3588\|τὸν]]  [[G0006\|Ἅβελ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVERENCE|REVERENCE]] • [[topic SPRINKLING|SPRINKLING]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.23|<< Hebrews 12:23]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.25|Hebrews 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

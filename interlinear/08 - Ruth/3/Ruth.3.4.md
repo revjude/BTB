@@ -1,8 +1,68 @@
+---
+title: Ruth 3:4
+type: Verse
+kjv: "And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do."
+bsb: "When he lies down, note the place where he lies. Then go in and uncover his feet, and lie down, and he will explain to you what you should do.”"
+hebrew: "וִיהִ֣י בְשָׁכְב֗וֹ וְיָדַ֙עַתְּ֙ אֶת־ הַמָּקוֹם֙ אֲשֶׁ֣ר יִשְׁכַּב־ שָׁ֔ם וּבָ֛את וְגִלִּ֥ית מַרְגְּלֹתָ֖יו וְשָׁכָ֑בְתְּ וְהוּא֙ יַגִּ֣יד לָ֔ךְ אֵ֖ת אֲשֶׁ֥ר תַּעַשִֽׂין׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7901G]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H8033G]]"
+- "[[H0935G]]"
+- "[[H1540I]]"
+- "[[H4772]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+- L(abh)
+---
+
 **Ruth 3:4**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.
 <small><sub>**BSB:**</sub></small>
 When he lies down, note the place where he lies. Then go in and uncover his feet, and lie down, and he will explain to you what you should do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H1961\|יהִ֣י]] [[H9003\|בְ]][[H7901G\|שָׁכְב֗]][[H9043\|וֹ]] [[H9001\|וְ]][[H3045\|יָדַ֙עַתְּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7901G\|יִשְׁכַּב]][[H9014\|־]] [[H8033G\|שָׁ֔ם]] [[H9001\|וּ]][[H0935G\|בָ֛את]] [[H9001\|וְ]][[H1540I\|גִלִּ֥ית]] [[H4772\|מַרְגְּלֹתָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H7901G\|שָׁכָ֑בְתְּ]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5046\|יַגִּ֣יד]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H0853\|אֵ֖ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|תַּעַשִֽׂי]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic RUTH|RUTH]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 

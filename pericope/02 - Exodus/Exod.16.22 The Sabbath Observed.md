@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sabbath Observed
+type: Pericope
 pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 16
 book/chapter: "[[Exod.16|Exodus 16]]"
-genre:
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.16.22]]"
 - "[[Exod.16.23]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.16.30]]"
 ---
 
-[[Exod.16|Exodus 16:22 - Exodus 16:30]]
+<small>[[Exod.16|Exodus 16:22-30]]</small>
 *The Sabbath Observed*
 
 [[Exod.16.22|22]] And it came to pass, \[that\] on the sixth day they gathered twice as much bread, two omers for one \[man\]: and all the rulers of the congregation came and told Moses.

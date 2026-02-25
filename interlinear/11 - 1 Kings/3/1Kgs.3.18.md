@@ -1,8 +1,70 @@
+---
+title: 1 Kings 3:18
+type: Verse
+kjv: "And it came to pass the third day after that I was delivered, that this woman was delivered also: and we were together; there was no stranger with us in the house, save we two in the house."
+bsb: "On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us."
+hebrew: "וַיְהִ֞י בַּיּ֤וֹם הַשְּׁלִישִׁי֙ לְלִדְתִּ֔י וַתֵּ֖לֶד גַּם־ הָאִשָּׁ֣ה הַזֹּ֑את וַאֲנַ֣חְנוּ יַחְדָּ֗ו אֵֽין־ זָ֤ר אִתָּ֙נוּ֙ בַּבַּ֔יִת זוּלָתִ֥י שְׁתַּֽיִם־ אֲנַ֖חְנוּ בַּבָּֽיִת׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H3162B]]"
+- "[[H0369]]"
+- "[[H2114A]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H1004B]]"
+- "[[H2108]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:18**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the third day after that I was delivered, that this woman was delivered also: and we [were] together; [there was] no stranger with us in the house, save we two in the house.
 <small><sub>**BSB:**</sub></small>
 On the third day after I gave birth, this woman also had a baby. We were alone, with no one in the house but the two of us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁי֙]] [[H9005\|לְ]][[H3205\|לִדְתִּ֔]][[H9030\|י]] [[H9001\|וַ]][[H3205\|תֵּ֖לֶד]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H3162B\|יַחְדָּ֗ו]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2114A\|זָ֤ר]] [[H0854\|אִתָּ֙]][[H9035\|נוּ֙]] [[H9003\|בַּ]][[H1004B\|בַּ֔יִת]] [[H2108\|זוּלָתִ֥י]] [[H8147\|שְׁתַּֽיִם]][[H9014\|־]] [[H0587\|אֲנַ֖חְנוּ]] [[H9003\|בַּ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.17|<< 1 Kings 3:17]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.19|1 Kings 3:19 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ruth 3:9
+type: Verse
+kjv: "And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman."
+bsb: "“Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment over me, for you are a kinsman-redeemer.”"
+hebrew: "וַיֹּ֖אמֶר מִי־ אָ֑תּ וַתֹּ֗אמֶר אָנֹכִי֙ ר֣וּת אֲמָתֶ֔ךָ וּפָרַשְׂתָּ֤ כְנָפֶ֙ךָ֙ עַל־ אֲמָ֣תְךָ֔ כִּ֥י גֹאֵ֖ל אָֽתָּה׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic COURTSHIP|COURTSHIP]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H0859C]]"
+- "[[H0595]]"
+- "[[H7327]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H5921A]]"
+- "[[H3588A]]"
+- "[[H1350A]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:9**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Who [art] thou? And she answered, I [am] Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou [art] a near kinsman.
 <small><sub>**BSB:**</sub></small>
 “Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment over me, for you are a kinsman-redeemer.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4310\|מִי]][[H9014\|־]] [[H0859C\|אָ֑תּ]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H0595\|אָנֹכִי֙]] [[H7327\|ר֣וּת]] [[H0519\|אֲמָתֶ֔]][[H9021\|ךָ]] [[H9001\|וּ]][[H6566\|פָרַשְׂתָּ֤]] [[H3671\|כְנָפֶ֙]][[H9021\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0519\|אֲמָ֣תְ]][[H9021\|ךָ֔]] [[H3588A\|כִּ֥י]] [[H1350A\|גֹאֵ֖ל]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic COURTSHIP|COURTSHIP]] • [[topic RUTH|RUTH]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.8|<< Ruth 3:8]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.10|Ruth 3:10 >>]]</td></tr></table>
 

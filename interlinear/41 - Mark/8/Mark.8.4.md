@@ -1,10 +1,57 @@
+---
+title: Mark 8:4
+type: Verse
+kjv: "And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?"
+bsb: "His disciples replied, “Where in this desolate place could anyone find enough bread to feed all these people?”"
+greek: "Καὶ ἀπεκρίθησαν αὐτῷ οἱ μαθηταὶ αὐτοῦ ὅτι πόθεν τούτους δυνήσεταί τις ὧδε χορτάσαι ἄρτων ἐπ᾽ ἐρημίας;"
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G3754G]]"
+- "[[G4159]]"
+- "[[G3778]]"
+- "[[G1410]]"
+- "[[G5100]]"
+- "[[G5602]]"
+- "[[G5526]]"
+- "[[G0740]]"
+- "[[G1909]]"
+- "[[G2047]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 8:4**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples answered him, From whence can a man satisfy these [men] with bread here in the wilderness?
 <small><sub>**BSB:**</sub></small>
 His disciples replied, “Where in this desolate place could anyone find enough bread to feed all these people?”
-<small><sub>**Literal:**</sub></small>
-And answered Him the disciples of Him that From where these will be able anyone here to satisfy with bread in this desolate place?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.3|<< Mark 8:3]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.5|Mark 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀπεκρίθησαν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G4159\|πόθεν]]  [[G3778\|τούτους]]  [[G1410\|δυνήσεταί]]  [[G5100\|τις]]  [[G5602\|ὧδε]]  [[G5526\|χορτάσαι]]  [[G0740\|ἄρτων]]  [[G1909\|ἐπ᾽]]  [[G2047\|ἐρημίας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.3|<< Mark 8:3]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.5|Mark 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

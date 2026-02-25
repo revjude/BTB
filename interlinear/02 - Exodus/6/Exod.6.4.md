@@ -1,8 +1,67 @@
+---
+title: Exodus 6:4
+type: Verse
+kjv: "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers."
+bsb: "I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners."
+hebrew: "וְגַ֨ם הֲקִמֹ֤תִי אֶת־ בְּרִיתִי֙ אִתָּ֔ם לָתֵ֥ת לָהֶ֖ם אֶת־ אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻרֵיהֶ֖ם אֲשֶׁר־ גָּ֥רוּ בָֽהּ׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H4033]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:4**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.
 <small><sub>**BSB:**</sub></small>
 I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֨ם]] [[H6965I\|הֲקִמֹ֤תִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ]][[H9020\|י֙]] [[H0854\|אִתָּ֔]][[H9038\|ם]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H0853\|אֵ֛ת]] [[H0776G\|אֶ֥רֶץ]] [[H4033\|מְגֻרֵי]][[H9028\|הֶ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1481A\|גָּ֥רוּ]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.3|<< Exodus 6:3]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.5|Exodus 6:5 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 20:7
+type: Verse
+kjv: "The just man walketh in his integrity: his children are blessed after him."
+bsb: "The righteous man walks with integrity; blessed are his children after him."
+hebrew: "מִתְהַלֵּ֣ךְ בְּתֻמּ֣וֹ צַדִּ֑יק אַשְׁרֵ֖י בָנָ֣יו אַחֲרָֽיו׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8537]]"
+- "[[H9023]]"
+- "[[H6662]]"
+- "[[H0835]]"
+- "[[H1121A]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:7**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The just [man] walketh in his integrity: his children [are] blessed after him.
 <small><sub>**BSB:**</sub></small>
 The righteous man walks with integrity; blessed are his children after him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980I\|מִתְהַלֵּ֣ךְ]] [[H9003\|בְּ]][[H8537\|תֻמּ֣]][[H9023\|וֹ]] [[H6662\|צַדִּ֑יק]] [[H0835\|אַשְׁרֵ֖י]] [[H1121A\|בָנָ֣י]][[H9023\|ו]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.6|<< Proverbs 20:6]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.8|Proverbs 20:8 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Ephesians 3:12
+type: Verse
+kjv: "In whom we have boldness and access with confidence by the faith of him."
+bsb: "In Him and through faith in Him we may enter God’s presence with boldness and confidence."
+greek: "ἐν ᾧ ἔχομεν τὴν παρρησίαν καὶ τὴν προσαγωγὴν ἐν πεποιθήσει διὰ τῆς πίστεως αὐτοῦ."
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G3954]]"
+- "[[G2532]]"
+- "[[G4318]]"
+- "[[G4006]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 3:12**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In whom we have boldness and access with confidence by the faith of him.
 <small><sub>**BSB:**</sub></small>
 In Him and through faith in Him we may enter God’s presence with boldness and confidence.
-<small><sub>**Literal:**</sub></small>
-in whom we have <the> boldness and <the> access in confidence through the faith from Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.11|<< Ephesians 3:11]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.13|Ephesians 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2192\|ἔχομεν]]  [[G3588\|τὴν]]  [[G3954\|παρρησίαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4318\|προσαγωγὴν]]  [[G1722\|ἐν]]  [[G4006\|πεποιθήσει]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic BOLDNESS|BOLDNESS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.11|<< Ephesians 3:11]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.13|Ephesians 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

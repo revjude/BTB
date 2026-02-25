@@ -1,10 +1,56 @@
+---
+title: Hebrews 13:16
+type: Verse
+kjv: "But to do good and to communicate forget not: for with such sacrifices God is well pleased."
+bsb: "And do not neglect to do good and to share with others, for with such sacrifices God is pleased."
+greek: "τῆς δὲ εὐποιΐας καὶ κοινωνίας μὴ ἐπιλανθάνεσθε· τοιαύταις γὰρ θυσίαις εὐαρεστεῖται ὁ θεός.¶"
+pericope: "[[Heb.13.15 Sacrifice, Obedience, and Prayer|Sacrifice, Obedience, and Prayer]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2140]]"
+- "[[G2532]]"
+- "[[G2842]]"
+- "[[G3361]]"
+- "[[G1950]]"
+- "[[G5108]]"
+- "[[G1063]]"
+- "[[G2378]]"
+- "[[G2100]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:16**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to do good and to communicate forget not: for with such sacrifices God is well pleased.
 <small><sub>**BSB:**</sub></small>
 And do not neglect to do good and to share with others, for with such sacrifices God is pleased.
-<small><sub>**Literal:**</sub></small>
-<the> And the good and of sharing not do be forgetful; with such for sacrifices is well pleased <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.15|<< Hebrews 13:15]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.17|Hebrews 13:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῆς]]  [[G1161\|δὲ]]  [[G2140\|εὐποιΐας]]  [[G2532\|καὶ]]  [[G2842\|κοινωνίας]]  [[G3361\|μὴ]]  [[G1950\|ἐπιλανθάνεσθε·]]  [[G5108\|τοιαύταις]]  [[G1063\|γὰρ]]  [[G2378\|θυσίαις]]  [[G2100\|εὐαρεστεῖται]]  [[G3588\|ὁ]]  [[G2316\|θεός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.15|<< Hebrews 13:15]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.17|Hebrews 13:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

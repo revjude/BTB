@@ -1,10 +1,67 @@
+---
+title: Revelation 10:8
+type: Verse
+kjv: "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth."
+bsb: "Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the small scroll that lies open in the hand of the angel standing on the sea and on the land.”"
+greek: "Καὶ ἡ φωνὴ ἣν ἤκουσα ἐκ τοῦ οὐρανοῦ πάλιν λαλοῦσαν μετ᾽ ἐμοῦ καὶ λέγουσαν· ὕπαγε λάβε τὸ βιβλίον τὸ ἠνεῳγμένον ἐν τῇ χειρὶ τοῦ ἀγγέλου τοῦ ἑστῶτος ἐπὶ τῆς θαλάσσης καὶ ἐπὶ τῆς γῆς."
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SEA|SEA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G3825]]"
+- "[[G2980]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3004G]]"
+- "[[G5217]]"
+- "[[G2983]]"
+- "[[G0975]]"
+- "[[G0455]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G0032G]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G1093H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 10:8**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the voice which I heard from heaven spake unto me again, and said, Go [and] take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the small scroll that lies open in the hand of the angel standing on the sea and on the land.”
-<small><sub>**Literal:**</sub></small>
-And the voice that I heard out of <the> heaven again was speaking with me and saying; do go do take the little scroll which opened in the hand of the angel who standing upon the sea and upon the land.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.7|<< Revelation 10:7]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.9|Revelation 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ἡ]]  [[G5456G\|φωνὴ]]  [[G3739\|ἣν]]  [[G0191\|ἤκουσα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3825\|πάλιν]]  [[G2980\|λαλοῦσαν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσαν·]]  [[G5217\|ὕπαγε]]  [[G2983\|λάβε]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G3588\|τὸ]]  [[G0455\|ἠνεῳγμένον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G3588\|τοῦ]]  [[G2476\|ἑστῶτος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SEA|SEA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.7|<< Revelation 10:7]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.9|Revelation 10:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 10:8** is...
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]

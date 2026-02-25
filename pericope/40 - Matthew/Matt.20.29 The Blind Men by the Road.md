@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blind Men by the Road
+type: Pericope
 pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 20
 book/chapter: "[[Matt.20|Matthew 20]]"
-genre:
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.20.29]]"
 - "[[Matt.20.30]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.20.34]]"
 ---
 
-[[Matt.20|Matthew 20:29 - Matthew 20:34]]
+<small>[[Matt.20|Matthew 20:29-34]]</small>
 *The Blind Men by the Road*
 
 [[Matt.20.29|29]] And as they departed from Jericho, a great multitude followed him.

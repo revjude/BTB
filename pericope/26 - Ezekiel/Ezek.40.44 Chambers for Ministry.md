@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Chambers for Ministry
+type: Pericope
 pericope: "[[Ezek.40.44 Chambers for Ministry|Chambers for Ministry]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.40.44]]"
 - "[[Ezek.40.45]]"
 - "[[Ezek.40.46]]"
 ---
 
-[[Ezek.40|Ezekiel 40:44 - Ezekiel 40:46]]
+<small>[[Ezek.40|Ezekiel 40:44-46]]</small>
 *Chambers for Ministry*
 
 [[Ezek.40.44|44]] And without the inner gate \[were\] the chambers of the singers in the inner court, which \[was\] at the side of the north gate; and their prospect \[was\] toward the south: one at the side of the east gate \[having\] the prospect toward the north.

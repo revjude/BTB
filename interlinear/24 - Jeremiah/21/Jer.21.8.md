@@ -1,8 +1,63 @@
+---
+title: Jeremiah 21:8
+type: Verse
+kjv: "And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death."
+bsb: "Furthermore, you are to tell this people that this is what the LORD says: ‘Behold, I set before you the way of life and the way of death."
+hebrew: "וְאֶל־ הָעָ֤ם הַזֶּה֙ תֹּאמַ֔ר כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנְנִ֤י נֹתֵן֙ לִפְנֵיכֶ֔ם אֶת־ דֶּ֥רֶךְ הַחַיִּ֖ים וְאֶת־ דֶּ֥רֶךְ הַמָּֽוֶת׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H2416E]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:8**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.
 <small><sub>**BSB:**</sub></small>
 Furthermore, you are to tell this people that this is what the LORD says: ‘Behold, I set before you the way of life and the way of death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0559\|תֹּאמַ֔ר]] [[H3541\|כֹּ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H5414H\|נֹתֵן֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H2416E\|חַיִּ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H4194\|מָּֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.7|<< Jeremiah 21:7]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.9|Jeremiah 21:9 >>]]</td></tr></table>
 

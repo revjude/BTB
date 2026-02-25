@@ -1,10 +1,58 @@
+---
+title: Revelation 13:13
+type: Verse
+kjv: "And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,"
+bsb: "And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people."
+greek: "καὶ ποιεῖ σημεῖα μεγάλα ἵνα καὶ πῦρ ποιῇ ἐκ τοῦ οὐρανοῦ καταβαίνειν εἰς τὴν γῆν ἐνώπιον τῶν ἀνθρώπων."
+pericope: "[[Rev.13.11 The Beast from the Earth|The Beast from the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G4592]]"
+- "[[G3173]]"
+- "[[G2443]]"
+- "[[G4442]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G1799]]"
+- "[[G0444]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 13:13**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
 <small><sub>**BSB:**</sub></small>
 And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people.
-<small><sub>**Literal:**</sub></small>
-And it works signs great so that even fire it may cause out of <the> heaven to come down to the earth in the presence <the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.12|<< Revelation 13:12]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.14|Revelation 13:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ποιεῖ]]  [[G4592\|σημεῖα]]  [[G3173\|μεγάλα]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4442\|πῦρ]]  [[G4160G\|ποιῇ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2597\|καταβαίνειν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic MIRACLES|MIRACLES]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.12|<< Revelation 13:12]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.14|Revelation 13:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

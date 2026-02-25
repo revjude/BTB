@@ -1,8 +1,66 @@
+---
+title: Ezra 2:61
+type: Verse
+kjv: "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+bsb: "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name)."
+hebrew: "וּמִבְּנֵי֙ הַכֹּ֣הֲנִ֔ים בְּנֵ֥י חֳבַיָּ֖ה בְּנֵ֣י הַקּ֑וֹץ בְּנֵ֣י בַרְזִלַּ֗י אֲשֶׁ֣ר לָ֠קַח מִבְּנ֞וֹת בַּרְזִלַּ֤י הַגִּלְעָדִי֙ אִשָּׁ֔ה וַיִּקָּרֵ֖א עַל־ שְׁמָֽם׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic HABAIAH|HABAIAH]]"
+- "[[topic HAKKOZ|HAKKOZ]]"
+- "[[topic KOZ|KOZ]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2252]]"
+- "[[H6976I]]"
+- "[[H1271I]]"
+- "[[H0834A]]"
+- "[[H3947I]]"
+- "[[H1323G]]"
+- "[[H1569]]"
+- "[[H0802H]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:61**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:
 <small><sub>**BSB:**</sub></small>
 And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵי֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H1121G\|בְּנֵ֥י]] [[H2252\|חֳבַיָּ֖ה]] [[H1121G\|בְּנֵ֣י]] [[H6976I\|הַקּ֑וֹץ]] [[H1121G\|בְּנֵ֣י]] [[H1271I\|בַרְזִלַּ֗י]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947I\|לָ֠קַח]] [[H9006\|מִ]][[H1323G\|בְּנ֞וֹת]] [[H1271I\|בַּרְזִלַּ֤י]] [[H9009\|הַ]][[H1569\|גִּלְעָדִי֙]] [[H0802H\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H7121H\|יִּקָּרֵ֖א]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic HABAIAH|HABAIAH]] • [[topic HAKKOZ|HAKKOZ]] • [[topic KOZ|KOZ]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.60|<< Ezra 2:60]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.62|Ezra 2:62 >>]]</td></tr></table>
 

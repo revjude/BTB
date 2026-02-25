@@ -1,8 +1,52 @@
+---
+title: Proverbs 12:10
+type: Verse
+kjv: "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
+bsb: "A righteous man regards the life of his animal, but the tender mercies of the wicked are only cruelty."
+hebrew: "יוֹדֵ֣עַ צַ֭דִּיק נֶ֣פֶשׁ בְּהֶמְתּ֑וֹ וְֽרַחֲמֵ֥י רְ֝שָׁעִ֗ים אַכְזָרִֽי׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MERCY|MERCY]]"
+strongs:
+- "[[H3045]]"
+- "[[H6662]]"
+- "[[H5315H]]"
+- "[[H0929]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7356B]]"
+- "[[H7563]]"
+- "[[H0394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:10**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A righteous [man] regardeth the life of his beast: but the tender mercies of the wicked [are] cruel.
 <small><sub>**BSB:**</sub></small>
 A righteous man regards the life of his animal, but the tender mercies of the wicked are only cruelty.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יוֹדֵ֣עַ]] [[H6662\|צַ֭דִּיק]] [[H5315H\|נֶ֣פֶשׁ]] [[H0929\|בְּהֶמְתּ֑]][[H9023\|וֹ]] [[H9002\|וְֽ]][[H7356B\|רַחֲמֵ֥י]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H0394\|אַכְזָרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic MALICE|MALICE]] • [[topic MERCY|MERCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.9|<< Proverbs 12:9]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.11|Proverbs 12:11 >>]]</td></tr></table>
 

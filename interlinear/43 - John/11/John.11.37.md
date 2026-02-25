@@ -1,10 +1,61 @@
+---
+title: John 11:37
+type: Verse
+kjv: "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?"
+bsb: "But some of them asked, “Could not this man who opened the eyes of the blind also have kept Lazarus from dying?”"
+greek: "τινὲς δὲ ἐξ αὐτῶν εἶπαν· οὐκ ἐδύνατο οὗτος ὁ ἀνοίξας τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ ποιῆσαι ἵνα καὶ οὗτος μὴ ἀποθάνῃ;¶"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0455]]"
+- "[[G3788]]"
+- "[[G5185]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G0599]]"
+texts:
+- NKO
+---
+
 **John 11:37**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
 <small><sub>**BSB:**</sub></small>
 But some of them asked, “Could not this man who opened the eyes of the blind also have kept Lazarus from dying?”
-<small><sub>**Literal:**</sub></small>
-Some however of them said; Surely was able this [man] who having opened the eyes of the blind to have caused that also this one not may have died?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.36|<< John 11:36]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.38|John 11:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G2036\|εἶπαν·]]  [[G3756\|οὐκ]]  [[G1410\|ἐδύνατο]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G0455\|ἀνοίξας]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G3588\|τοῦ]]  [[G5185\|τυφλοῦ]]  [[G4160G\|ποιῆσαι]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G3361\|μὴ]]  [[G0599\|ἀποθάνῃ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.36|<< John 11:36]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.38|John 11:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

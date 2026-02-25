@@ -1,6 +1,62 @@
+---
+title: LXX Isaiah 14:8
+type: Verse
+lxx: "And the trees  of Lebanon shall be gladdened against you, and the cedar  of Lebanon, saying, From of which time you were laid low, there ascended not  one felling us."
+greek: "και τα ξύλα του Λιβάνου ευφράνθησαν επί σοι και η κέδρος του Λιβάνου αφ΄ ου συ κεκοίμησαι ουκ ανέβη ο κόπτων ημάς"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3586]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G2165]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2748]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2837]]"
+- "[[G3756]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G2875]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 14:8** 
 <small><sub>**LXX:**</sub></small>
 And the trees  of Lebanon shall be gladdened against you, and the cedar  of Lebanon, \[saying\], From of which \[time\] you were laid \[low\], there ascended not  one felling us. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τα]] [[G3586\|ξύλα]] [[G3588\|του]] [[H3844\|Λιβάνου]] [[G2165\|ευφράνθησαν]] [[G1909\|επί]] [[G1473\|σοι]] [[G2532\|και]] [[G3588\|η]] [[G2748\|κέδρος]] [[G3588\|του]] [[H3844\|Λιβάνου]] [[G0575\|αφ΄]] [[G3739\|ου]] [[G1473\|συ]] [[G2837\|κεκοίμησαι]] [[G3756\|ουκ]] [[G0305\|ανέβη]] [[G3588\|ο]] [[G2875\|κόπτων]] [[G1473\|ημάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CEDAR|CEDAR]] • [[topic ISAIAH|ISAIAH]] • [[topic LEBANON|LEBANON]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.7|<< Isaiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.9|Isaiah 14:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,6 +87,6 @@ And the trees  of Lebanon shall be gladdened against you, and the cedar  of Leba
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | one felling | **<big>[[G2875\|κόπτων]]</big>** |
 | us. | **<big>[[G1473\|ημάς]]</big>** |
-[[Isa.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.7|<< Isaiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.9|Isaiah 14:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.7|<< Isaiah 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.9|Isaiah 14:9 >>]]</td></tr></table>
 
 

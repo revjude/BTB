@@ -1,8 +1,73 @@
+---
+title: Ezekiel 20:44
+type: Verse
+kjv: "And ye shall know that I am the LORD, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord GOD."
+bsb: "Then you will know, O house of Israel, that I am the LORD, when I have dealt with you for the sake of My name and not according to your wicked ways and corrupt acts, declares the Lord GOD.”"
+hebrew: "וִֽידַעְתֶּם֙ כִּֽי־ אֲנִ֣י יְהוָ֔ה בַּעֲשׂוֹתִ֥י אִתְּכֶ֖ם לְמַ֣עַן שְׁמִ֑י לֹא֩ כְדַרְכֵיכֶ֨ם הָרָעִ֜ים וְכַעֲלִילֽוֹתֵיכֶ֤ם הַנִּשְׁחָתוֹת֙ בֵּ֣ית יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6213A]]"
+- "[[H9040]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H5949]]"
+- "[[H7843]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 20:44**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] the LORD, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 Then you will know, O house of Israel, that I am the LORD, when I have dealt with you for the sake of My name and not according to your wicked ways and corrupt acts, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִֽ]][[H3045\|ידַעְתֶּם֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בַּ]][[H6213A\|עֲשׂוֹתִ֥]][[H9040\|י]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמִ֑]][[H9020\|י]] [[H3808\|לֹא֩]] [[H9004\|כְ]][[H1870G\|דַרְכֵי]][[H9026\|כֶ֨ם]] [[H9009\|הָ]][[H7451H\|רָעִ֜ים]] [[H9002\|וְ]][[H9004\|כַ]][[H5949\|עֲלִילֽוֹתֵי]][[H9026\|כֶ֤ם]] [[H9009\|הַ]][[H7843\|נִּשְׁחָתוֹת֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.43|<< Ezekiel 20:43]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.45|Ezekiel 20:45 >>]]</td></tr></table>
 
@@ -25,7 +90,7 @@ Then you will know, O house of Israel, that I am the LORD, when I have dealt wit
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.43|<< Ezekiel 20:43]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.45|Ezekiel 20:45 >>]]</td></tr></table>
 
 

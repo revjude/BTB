@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:35
+type: Verse
+kjv: "Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the LORD."
+bsb: "Nevertheless, the high places were not taken away; the people continued sacrificing and burning incense there. Jotham rebuilt the Upper Gate of the house of the LORD."
+hebrew: "רַ֤ק הַבָּמוֹת֙ לֹ֣א סָ֔רוּ ע֗וֹד הָעָ֛ם מְזַבְּחִ֥ים וּֽמְקַטְּרִ֖ים בַּבָּמ֑וֹת ה֗וּא בָּנָ֛ה אֶת־ שַׁ֥עַר בֵּית־ יְהוָ֖ה הָעֶלְיֽוֹן׃"
+pericope: "[[2Kgs.15.32 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H3808]]"
+- "[[H5493G]]"
+- "[[H5750]]"
+- "[[H5971A]]"
+- "[[H2076]]"
+- "[[H9002]]"
+- "[[H6999H]]"
+- "[[H9003]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H5945A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:35**<big><big>[[2Kgs.15.32 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the high places were not taken away; the people continued sacrificing and burning incense there. Jotham rebuilt the Upper Gate of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֤ק]] [[H9009\|הַ]][[H1116\|בָּמוֹת֙]] [[H3808\|לֹ֣א]] [[H5493G\|סָ֔רוּ]] [[H5750\|ע֗וֹד]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H2076\|מְזַבְּחִ֥ים]] [[H9002\|וּֽ]][[H6999H\|מְקַטְּרִ֖ים]] [[H9003\|בַּ]][[H1116\|בָּמ֑וֹת]] [[H1931\|ה֗וּא]] [[H1129\|בָּנָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H8179G\|שַׁ֥עַר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הָ]][[H5945A\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.34|<< 2 Kings 15:34]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.36|2 Kings 15:36 >>]]</td></tr></table>
 

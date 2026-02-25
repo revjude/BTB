@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Is Exalted
+type: Pericope
 pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 33
 book/chapter: "[[Isa.33|Isaiah 33]]"
-genre:
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 24
 verses:
 - "[[Isa.33.1]]"
 - "[[Isa.33.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Isa.33.24]]"
 ---
 
-[[Isa.33|Isaiah 33:1 - Isaiah 33:24]]
+<small>[[Isa.33|Isaiah 33:1-24]]</small>
 *The LORD Is Exalted*
 
 [[Isa.33.1|1]] Woe to thee that spoilest, and thou \[wast\] not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; \[and\] when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.

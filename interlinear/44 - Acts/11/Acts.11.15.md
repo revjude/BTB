@@ -1,10 +1,56 @@
+---
+title: Acts 11:15
+type: Verse
+kjv: "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
+bsb: "As I began to speak, the Holy Spirit fell upon them, just as He had fallen upon us at the beginning."
+greek: "ἐν δὲ τῷ ἄρξασθαί με λαλεῖν ἐπέπεσεν τὸ πνεῦμα τὸ ἅγιον ἐπ᾽ αὐτούς, ὥσπερ καὶ ἐφ᾽ ἡμᾶς ἐν ἀρχῇ."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0757]]"
+- "[[G3165]]"
+- "[[G2980]]"
+- "[[G1968]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G5618]]"
+- "[[G2532]]"
+- "[[G0746]]"
+texts:
+- NKO
+---
+
 **Acts 11:15**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.
 <small><sub>**BSB:**</sub></small>
 As I began to speak, the Holy Spirit fell upon them, just as He had fallen upon us at the beginning.
-<small><sub>**Literal:**</sub></small>
-In then <the> beginning me to speak fell the Spirit <the> Holy upon them, even as also upon us in [the] beginning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.14|<< Acts 11:14]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.16|Acts 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G0757\|ἄρξασθαί]]  [[G3165\|με]]  [[G2980\|λαλεῖν]]  [[G1968\|ἐπέπεσεν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς,]]  [[G5618\|ὥσπερ]]  [[G2532\|καὶ]]  [[G1909\|ἐφ᾽]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G0746\|ἀρχῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.14|<< Acts 11:14]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.16|Acts 11:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

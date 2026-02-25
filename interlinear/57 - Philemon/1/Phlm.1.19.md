@@ -1,10 +1,50 @@
+---
+title: Philemon 1:19
+type: Verse
+kjv: "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides."
+bsb: "I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self."
+greek: "Ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις."
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G1473]]"
+- "[[G3972G]]"
+- "[[G1125]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0661]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G4359]]"
+texts:
+- NKO
+---
+
 **Philemon 1:19**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I Paul have written [it] with mine own hand, I will repay [it]: albeit I do not say to thee how thou owest unto me even thine own self besides.
 <small><sub>**BSB:**</sub></small>
 I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self.
-<small><sub>**Literal:**</sub></small>
-I myself Paul did write <the> with my own hand, I myself will repay [it]; that not I may say to you that even yourself to me you owe also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.18|<< Philemon 1:18]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.20|Philemon 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγὼ]]  [[G3972G\|Παῦλος]]  [[G1125\|ἔγραψα]]  [[G3588\|τῇ]]  [[G1473\|ἐμῇ]]  [[G5495\|χειρί,]]  [[G1473\|ἐγὼ]]  [[G0661\|ἀποτίσω·]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3004G\|λέγω]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G4771\|σεαυτόν]]  [[G3165\|μοι]]  [[G4359\|προσοφείλεις.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.18|<< Philemon 1:18]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.20|Philemon 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

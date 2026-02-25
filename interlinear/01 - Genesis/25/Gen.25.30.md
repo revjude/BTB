@@ -1,8 +1,73 @@
+---
+title: Genesis 25:30
+type: Verse
+kjv: "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+bsb: "He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.)"
+hebrew: "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶֽל־ יַעֲקֹ֗ב הַלְעִיטֵ֤נִי נָא֙ מִן־ הָאָדֹ֤ם הָאָדֹם֙ הַזֶּ֔ה כִּ֥י עָיֵ֖ף אָנֹ֑כִי עַל־ כֵּ֥ן קָרָֽא־ שְׁמ֖וֹ אֱדֽוֹם׃"
+pericope: "[[Gen.25.29 Esau Sells His Birthright|Esau Sells His Birthright]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6215G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H3938]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0122B]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H5889]]"
+- "[[H0595]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0123H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:30**<big><big>[[Gen.25.29 Esau Sells His Birthright|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau said to Jacob, Feed me, I pray thee, with that same red [pottage]; for I [am] faint: therefore was his name called Edom.
 <small><sub>**BSB:**</sub></small>
 He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H6215G\|עֵשָׂ֜ו]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H3938\|הַלְעִיטֵ֤]][[H9030\|נִי]] [[H4994\|נָא֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0122B\|אָדֹ֤ם]] [[H9009\|הָ]][[H0122B\|אָדֹם֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֥י]] [[H5889\|עָיֵ֖ף]] [[H0595\|אָנֹ֑כִי]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H7121H\|קָרָֽא]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H0123H\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EDOM|EDOM]] • [[topic ESAU|ESAU]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GLUTTONY|GLUTTONY]] • [[topic JACOB|JACOB]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.29|<< Genesis 25:29]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.31|Genesis 25:31 >>]]</td></tr></table>
 

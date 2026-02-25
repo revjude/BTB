@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 18:11
+type: Verse
+kjv: "And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver it into the hand of the king."
+bsb: "And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and triumph, for the LORD will deliver it into the hand of the king.”"
+hebrew: "וְכָל־ הַ֨נְּבִאִ֔ים נִבְּאִ֥ים כֵּ֖ן לֵאמֹ֑ר עֲלֵ֞ה רָמֹ֤ת גִּלְעָד֙ וְהַצְלַ֔ח וְנָתַ֥ן יְהוָ֖ה בְּיַ֥ד הַמֶּֽלֶךְ׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H6743B]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:11**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver [it] into the hand of the king.
 <small><sub>**BSB:**</sub></small>
 And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and triumph, for the LORD will deliver it into the hand of the king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ֨]][[H5030\|נְּבִאִ֔ים]] [[H5012\|נִבְּאִ֥ים]] [[H3651C\|כֵּ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5927G\|עֲלֵ֞ה]] [[H7418G\|רָמֹ֤ת]] [[H1568M\|גִּלְעָד֙]] [[H9002\|וְ]][[H6743B\|הַצְלַ֔ח]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.10|<< 2 Chronicles 18:10]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.12|2 Chronicles 18:12 >>]]</td></tr></table>
 

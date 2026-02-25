@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Make a Joyful Noise
+type: Pericope
 pericope: "[[Ps.100.1 Make a Joyful Noise|Make a Joyful Noise]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 100
 book/chapter: "[[Ps.100|Psalm 100]]"
-genre:
+chronological_order: 527
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.100.0]]"
 - "[[Ps.100.1]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.100.5]]"
 ---
 
-[[Ps.100|Psalm 100:1 - Psalm 100:5]]
+<small>[[Ps.100|Psalm 100:1-5]]</small>
 *Make a Joyful Noise*
 
 [[Ps.100.0|0]] A Psalm of praise.

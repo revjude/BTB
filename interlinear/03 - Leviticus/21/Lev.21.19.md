@@ -1,8 +1,58 @@
+---
+title: Leviticus 21:19
+type: Verse
+kjv: "Or a man that is brokenfooted, or brokenhanded,"
+bsb: "no man who has a broken foot or hand,"
+hebrew: "א֣וֹ אִ֔ישׁ אֲשֶׁר־ יִהְיֶ֥ה ב֖וֹ שֶׁ֣בֶר רָ֑גֶל א֖וֹ שֶׁ֥בֶר יָֽד׃"
+pericope: "[[Lev.21.16 Restrictions against Those with Blemishes|Restrictions against Those with Blemishes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[H0176A]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7667]]"
+- "[[H7272]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:19**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or a man that is brokenfooted, or brokenhanded,
 <small><sub>**BSB:**</sub></small>
 no man who has a broken foot or hand,
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H7667\|שֶׁ֣בֶר]] [[H7272\|רָ֑גֶל]] [[H0176A\|א֖וֹ]] [[H7667\|שֶׁ֥בֶר]] [[H3027G\|יָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic PRIEST|PRIEST]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.18|<< Leviticus 21:18]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.20|Leviticus 21:20 >>]]</td></tr></table>
 

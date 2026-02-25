@@ -1,10 +1,61 @@
+---
+title: Acts 18:7
+type: Verse
+kjv: "And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
+bsb: "So Paul left the synagogue and went next door to the house of Titus Justus, a worshiper of God."
+greek: "Καὶ μεταβὰς ἐκεῖθεν εἰσῆλθεν εἰς οἰκίαν τινὸς ὀνόματι Τιτίου Ἰούστου σεβομένου τὸν θεόν, οὗ ἡ οἰκία ἦν συνομοροῦσα τῇ συναγωγῇ."
+pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JUSTUS|JUSTUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3327]]"
+- "[[G1564]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3614G]]"
+- "[[G5100]]"
+- "[[G3686]]"
+- "[[G6084]]"
+- "[[G2459G]]"
+- "[[G4576]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4927]]"
+- "[[G4864]]"
+texts:
+- NKO
+- N(k)O
+- N(O)
+---
+
 **Acts 18:7**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he departed thence, and entered into a certain [man’s] house, named Justus, [one] that worshipped God, whose house joined hard to the synagogue.
 <small><sub>**BSB:**</sub></small>
 So Paul left the synagogue and went next door to the house of Titus Justus, a worshiper of God.
-<small><sub>**Literal:**</sub></small>
-And having departed from there he entered to [the] house of a certain one named Titius Justus worshiping the God, of whom the house was adjoining to the synagogue.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.6|<< Acts 18:6]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.8|Acts 18:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3327\|μεταβὰς]]  [[G1564\|ἐκεῖθεν]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3614G\|οἰκίαν]]  [[G5100\|τινὸς]]  [[G3686\|ὀνόματι]]  [[G6084\|Τιτίου]]  [[G2459G\|Ἰούστου]]  [[G4576\|σεβομένου]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G3739\|οὗ]]  [[G3588\|ἡ]]  [[G3614G\|οἰκία]]  [[G1510\|ἦν]]  [[G4927\|συνομοροῦσα]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTUS|JUSTUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.6|<< Acts 18:6]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.8|Acts 18:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

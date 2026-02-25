@@ -1,10 +1,66 @@
+---
+title: Ephesians 4:14
+type: Verse
+kjv: "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+bsb: "Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming."
+greek: "ἵνα μηκέτι ὦμεν νήπιοι κλυδωνιζόμενοι καὶ περιφερόμενοι παντὶ ἀνέμῳ τῆς διδασκαλίας ἐν τῇ κυβείᾳ τῶν ἀνθρώπων ἐν πανουργίᾳ πρὸς τὴν μεθοδείαν τῆς πλάνης,"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[G2443]]"
+- "[[G3371]]"
+- "[[G1510]]"
+- "[[G3516]]"
+- "[[G2831]]"
+- "[[G2532]]"
+- "[[G4064]]"
+- "[[G3956]]"
+- "[[G0417]]"
+- "[[G3588]]"
+- "[[G1319]]"
+- "[[G1722]]"
+- "[[G2940]]"
+- "[[G0444]]"
+- "[[G3834]]"
+- "[[G4314]]"
+- "[[G3180]]"
+- "[[G4106]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:14**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That we [henceforth] be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, [and] cunning craftiness, whereby they lie in wait to deceive;
 <small><sub>**BSB:**</sub></small>
 Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming.
-<small><sub>**Literal:**</sub></small>
-so that no longer we may be infants being tossed by waves and being carried about by every wind <the> of teaching in the cunning <the> of men in craftiness with a view to the scheming <the> of deceit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.13|<< Ephesians 4:13]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.15|Ephesians 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3371\|μηκέτι]]  [[G1510\|ὦμεν]]  [[G3516\|νήπιοι]]  [[G2831\|κλυδωνιζόμενοι]]  [[G2532\|καὶ]]  [[G4064\|περιφερόμενοι]]  [[G3956\|παντὶ]]  [[G0417\|ἀνέμῳ]]  [[G3588\|τῆς]]  [[G1319\|διδασκαλίας]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2940\|κυβείᾳ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G1722\|ἐν]]  [[G3834\|πανουργίᾳ]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G3180\|μεθοδείαν]]  [[G3588\|τῆς]]  [[G4106\|πλάνης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DECEIT|DECEIT]] • [[topic DECISION|DECISION]] • [[topic DOCTRINES|DOCTRINES]] • [[topic INSTABILITY|INSTABILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WIND|WIND]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.13|<< Ephesians 4:13]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.15|Ephesians 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

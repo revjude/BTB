@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezekiel’s Wife Dies
+type: Pericope
 pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 24
 book/chapter: "[[Ezek.24|Ezekiel 24]]"
-genre:
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 13
 verses:
 - "[[Ezek.24.15]]"
 - "[[Ezek.24.16]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ezek.24.27]]"
 ---
 
-[[Ezek.24|Ezekiel 24:15 - Ezekiel 24:27]]
+<small>[[Ezek.24|Ezekiel 24:15-27]]</small>
 *Ezekiel’s Wife Dies*
 
 [[Ezek.24.15|15]] Also the word of the LORD came unto me, saying,

@@ -1,8 +1,65 @@
+---
+title: Psalm 146:6
+type: Verse
+kjv: "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:"
+bsb: "the Maker of heaven and earth, the sea, and everything in them. He remains faithful forever."
+hebrew: "עֹשֶׂ֤ה׀ שָׁ֘מַ֤יִם וָאָ֗רֶץ אֶת־ הַיָּ֥ם וְאֶת־ כָּל־ אֲשֶׁר־ בָּ֑ם הַשֹּׁמֵ֖ר אֱמֶ֣ת לְעוֹלָֽם׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H6213H]]"
+- "[[H9015]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H8104G]]"
+- "[[H0571G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:6**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:
 <small><sub>**BSB:**</sub></small>
 the Maker of heaven and earth, the sea, and everything in them. He remains faithful forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|עֹשֶׂ֤ה]][[H9015\|׀]] [[H8064\|שָׁ֘מַ֤יִם]] [[H9002\|וָ]][[H0776G\|אָ֗רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H9009\|הַ]][[H8104G\|שֹּׁמֵ֖ר]] [[H0571G\|אֱמֶ֣ת]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.5|<< Psalms 146:5]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.7|Psalms 146:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

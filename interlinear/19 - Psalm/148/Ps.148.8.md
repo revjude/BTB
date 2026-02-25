@@ -1,8 +1,56 @@
+---
+title: Psalm 148:8
+type: Verse
+kjv: "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:"
+bsb: "lightning and hail, snow and clouds, powerful wind fulfilling His word,"
+hebrew: "אֵ֣שׁ וּ֭בָרָד שֶׁ֣לֶג וְקִיט֑וֹר ר֥וּחַ סְ֝עָרָ֗ה עֹשָׂ֥ה דְבָרֽוֹ׃"
+pericope: "[[Ps.148.1 Praise the LORD from the Heavens|Praise the LORD from the Heavens]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 148
+book/chapter: "[[Ps.148|Psalm 148]]"
+chronological_order: 896
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H1259]]"
+- "[[H7950]]"
+- "[[H7008]]"
+- "[[H7307H]]"
+- "[[H5591B]]"
+- "[[H6213A]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 148:8**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
 <small><sub>**BSB:**</sub></small>
 lightning and hail, snow and clouds, powerful wind fulfilling His word,
+<small><sub>**Hebrew:**</sub></small>
+[[H0784\|אֵ֣שׁ]] [[H9002\|וּ֭]][[H1259\|בָרָד]] [[H7950\|שֶׁ֣לֶג]] [[H9002\|וְ]][[H7008\|קִיט֑וֹר]] [[H7307H\|ר֥וּחַ]] [[H5591B\|סְ֝עָרָ֗ה]] [[H6213A\|עֹשָׂ֥ה]] [[H1697G\|דְבָרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.7|<< Psalms 148:7]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.9|Psalms 148:9 >>]]</td></tr></table>
 

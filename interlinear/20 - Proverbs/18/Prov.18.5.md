@@ -1,8 +1,53 @@
+---
+title: Proverbs 18:5
+type: Verse
+kjv: "It is not good to accept the person of the wicked, to overthrow the righteous in judgment."
+bsb: "Showing partiality to the wicked is not good, nor is depriving the innocent of justice."
+hebrew: "שְׂאֵ֣ת פְּנֵי־ רָשָׁ֣ע לֹא־ ט֑וֹב לְהַטּ֥וֹת צַ֝דִּ֗יק בַּמִּשְׁפָּֽט׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic JUSTICE|JUSTICE]]"
+strongs:
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:5**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] not good to accept the person of the wicked, to overthrow the righteous in judgment.
 <small><sub>**BSB:**</sub></small>
 Showing partiality to the wicked is not good, nor is depriving the innocent of justice.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375Q\|שְׂאֵ֣ת]] [[H6440N\|פְּנֵי]][[H9014\|־]] [[H7563\|רָשָׁ֣ע]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H9005\|לְ]][[H5186\|הַטּ֥וֹת]] [[H6662\|צַ֝דִּ֗יק]] [[H9003\|בַּ]][[H4941H\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic JUSTICE|JUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.4|<< Proverbs 18:4]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.6|Proverbs 18:6 >>]]</td></tr></table>
 

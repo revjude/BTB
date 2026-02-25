@@ -1,10 +1,56 @@
+---
+title: Acts 22:4
+type: Verse
+kjv: "And I persecuted this way unto the death, binding and delivering into prisons both men and women."
+bsb: "I persecuted this Way even to the death, detaining both men and women and throwing them into prison,"
+greek: "ὃς ταύτην τὴν ὁδὸν ἐδίωξα ἄχρι θανάτου δεσμεύων καὶ παραδιδοὺς εἰς φυλακὰς ἄνδρας τε καὶ γυναῖκας,"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WAY|WAY]]"
+strongs:
+- "[[G3739]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1377]]"
+- "[[G0891]]"
+- "[[G2288]]"
+- "[[G1195]]"
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G0435G]]"
+- "[[G5037]]"
+- "[[G1135G]]"
+texts:
+- NKO
+---
+
 **Acts 22:4**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I persecuted this way unto the death, binding and delivering into prisons both men and women.
 <small><sub>**BSB:**</sub></small>
 I persecuted this Way even to the death, detaining both men and women and throwing them into prison,
-<small><sub>**Literal:**</sub></small>
-who this <the> Way persecuted as far as death binding and betraying to prisons men both and women,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.3|<< Acts 22:3]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.5|Acts 22:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G1377\|ἐδίωξα]]  [[G0891\|ἄχρι]]  [[G2288\|θανάτου]]  [[G1195\|δεσμεύων]]  [[G2532\|καὶ]]  [[G3860\|παραδιδοὺς]]  [[G1519\|εἰς]]  [[G5438G\|φυλακὰς]]  [[G0435G\|ἄνδρας]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic PAUL|PAUL]] • [[topic WAY|WAY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.3|<< Acts 22:3]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.5|Acts 22:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

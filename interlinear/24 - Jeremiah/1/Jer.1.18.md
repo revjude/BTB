@@ -1,8 +1,70 @@
+---
+title: Jeremiah 1:18
+type: Verse
+kjv: "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land."
+bsb: "Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its officials, its priests, and the people of the land."
+hebrew: "וַאֲנִ֞י הִנֵּ֧ה נְתַתִּ֣יךָ הַיּ֗וֹם לְעִ֨יר מִבְצָ֜ר וּלְעַמּ֥וּד בַּרְזֶ֛ל וּלְחֹמ֥וֹת נְחֹ֖שֶׁת עַל־ כָּל־ הָאָ֑רֶץ לְמַלְכֵ֤י יְהוּדָה֙ לְשָׂרֶ֔יהָ לְכֹהֲנֶ֖יהָ וּלְעַ֥ם הָאָֽרֶץ׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H5982G]]"
+- "[[H1270]]"
+- "[[H2346G]]"
+- "[[H5178A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H3548]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:18**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.
 <small><sub>**BSB:**</sub></small>
 Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its officials, its priests, and the people of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H2009\|הִנֵּ֧ה]] [[H5414I\|נְתַתִּ֣י]][[H9031\|ךָ]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H9005\|לְ]][[H5892B\|עִ֨יר]] [[H4013\|מִבְצָ֜ר]] [[H9002\|וּ]][[H9005\|לְ]][[H5982G\|עַמּ֥וּד]] [[H1270\|בַּרְזֶ֛ל]] [[H9002\|וּ]][[H9005\|לְ]][[H2346G\|חֹמ֥וֹת]] [[H5178A\|נְחֹ֖שֶׁת]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֤י]] [[H3063G\|יְהוּדָה֙]] [[H9005\|לְ]][[H8269\|שָׂרֶ֔י]][[H9024\|הָ]] [[H9005\|לְ]][[H3548\|כֹהֲנֶ֖י]][[H9024\|הָ]] [[H9002\|וּ]][[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic IRON|IRON]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.17|<< Jeremiah 1:17]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.19|Jeremiah 1:19 >>]]</td></tr></table>
 

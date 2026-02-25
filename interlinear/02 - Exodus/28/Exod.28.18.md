@@ -1,8 +1,58 @@
+---
+title: Exodus 28:18
+type: Verse
+kjv: "And the second row shall be an emerald, a sapphire, and a diamond."
+bsb: "in the second row a turquoise, a sapphire, and a diamond;"
+hebrew: "וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic DIAMOND|DIAMOND]]"
+- "[[topic EMERALD|EMERALD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SAPPHIRE|SAPPHIRE]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2905]]"
+- "[[H8145]]"
+- "[[H5306]]"
+- "[[H5601]]"
+- "[[H3095]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:18**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the second row [shall be] an emerald, a sapphire, and a diamond.
 <small><sub>**BSB:**</sub></small>
 in the second row a turquoise, a sapphire, and a diamond;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H2905\|טּ֖וּר]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑י]] [[H5306\|נֹ֥פֶךְ]] [[H5601\|סַפִּ֖יר]] [[H9002\|וְ]][[H3095\|יָהֲלֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic DIAMOND|DIAMOND]] • [[topic EMERALD|EMERALD]] • [[topic PRIEST|PRIEST]] • [[topic SAPPHIRE|SAPPHIRE]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.17|<< Exodus 28:17]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.19|Exodus 28:19 >>]]</td></tr></table>
 

@@ -1,10 +1,52 @@
+---
+title: Matthew 3:1
+type: Verse
+kjv: "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+bsb: "In those days John the Baptist came, preaching in the wilderness of Judea"
+greek: "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται Ἰωάννης ὁ βαπτιστὴς κηρύσσων ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας"
+pericope: "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDEA|JUDEA]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3854]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G2784]]"
+- "[[G2048]]"
+- "[[G2449]]"
+texts:
+- NKO
+---
+
 **Matthew 3:1**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In those days came John the Baptist, preaching in the wilderness of Judaea,
 <small><sub>**BSB:**</sub></small>
 In those days John the Baptist came, preaching in the wilderness of Judea
-<small><sub>**Literal:**</sub></small>
-In then the days those comes John the Baptist preaching in the wilderness <the> of Judea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.23|<< Matthew 2:23]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.2|Matthew 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις]]  [[G3854\|παραγίνεται]]  [[G2491G\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0910\|βαπτιστὴς]]  [[G2784\|κηρύσσων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic JUDEA|JUDEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.23|<< Matthew 2:23]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.2|Matthew 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

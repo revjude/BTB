@@ -1,8 +1,65 @@
+---
+title: Joel 1:14
+type: Verse
+kjv: "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,"
+bsb: "Consecrate a fast; proclaim a solemn assembly! Gather the elders and all the residents of the land to the house of the LORD your God, and cry out to the LORD."
+hebrew: "קַדְּשׁוּ־ צוֹם֙ קִרְא֣וּ עֲצָרָ֔ה אִסְפ֣וּ זְקֵנִ֗ים כֹּ֚ל יֹשְׁבֵ֣י הָאָ֔רֶץ בֵּ֖ית יְהוָ֣ה אֱלֹהֵיכֶ֑ם וְזַעֲק֖וּ אֶל־ יְהוָֽה׃"
+pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H6942G]]"
+- "[[H9014]]"
+- "[[H6685]]"
+- "[[H7121G]]"
+- "[[H6116]]"
+- "[[H0622]]"
+- "[[H2205G]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:14**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify ye a fast, call a solemn assembly, gather the elders [and] all the inhabitants of the land [into] the house of the LORD your God, and cry unto the LORD,
 <small><sub>**BSB:**</sub></small>
 Consecrate a fast; proclaim a solemn assembly! Gather the elders and all the residents of the land to the house of the LORD your God, and cry out to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H6942G\|קַדְּשׁוּ]][[H9014\|־]] [[H6685\|צוֹם֙]] [[H7121G\|קִרְא֣וּ]] [[H6116\|עֲצָרָ֔ה]] [[H0622\|אִסְפ֣וּ]] [[H2205G\|זְקֵנִ֗ים]] [[H3605\|כֹּ֚ל]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H1004Q\|בֵּ֖ית]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H2199\|זַעֲק֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.13|<< Joel 1:13]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.15|Joel 1:15 >>]]</td></tr></table>
 

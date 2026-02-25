@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cyrus Restores the Holy Vessels
+type: Pericope
 pericope: "[[Ezra.1.7 Cyrus Restores the Holy Vessels|Cyrus Restores the Holy Vessels]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 1
 book/chapter: "[[Ezra.1|Ezra 1]]"
-genre:
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 5
 verses:
 - "[[Ezra.1.7]]"
 - "[[Ezra.1.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ezra.1.11]]"
 ---
 
-[[Ezra.1|Ezra 1:7 - Ezra 1:11]]
+<small>[[Ezra.1|Ezra 1:7-11]]</small>
 *Cyrus Restores the Holy Vessels*
 
 [[Ezra.1.7|7]] Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;

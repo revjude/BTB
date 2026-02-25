@@ -1,8 +1,52 @@
+---
+title: Proverbs 10:10
+type: Verse
+kjv: "He that winketh with the eye causeth sorrow: but a prating fool shall fall."
+bsb: "He who winks the eye causes grief, and foolish lips will come to ruin."
+hebrew: "קֹ֣רֵֽץ עַ֭יִן יִתֵּ֣ן עַצָּ֑בֶת וֶאֱוִ֥יל שְׂ֝פָתַ֗יִם יִלָּבֵֽט׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONNIVANCE|CONNIVANCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic INNUENDO|INNUENDO]]"
+strongs:
+- "[[H7169]]"
+- "[[H5869A]]"
+- "[[H5414G]]"
+- "[[H6094]]"
+- "[[H9002]]"
+- "[[H0191]]"
+- "[[H8193H]]"
+- "[[H3832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:10**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that winketh with the eye causeth sorrow: but a prating fool shall fall.
 <small><sub>**BSB:**</sub></small>
 He who winks the eye causes grief, and foolish lips will come to ruin.
+<small><sub>**Hebrew:**</sub></small>
+[[H7169\|קֹ֣רֵֽץ]] [[H5869A\|עַ֭יִן]] [[H5414G\|יִתֵּ֣ן]] [[H6094\|עַצָּ֑בֶת]] [[H9002\|וֶ]][[H0191\|אֱוִ֥יל]] [[H8193H\|שְׂ֝פָתַ֗יִם]] [[H3832\|יִלָּבֵֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONNIVANCE|CONNIVANCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FOOL|FOOL]] • [[topic INNUENDO|INNUENDO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.9|<< Proverbs 10:9]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.11|Proverbs 10:11 >>]]</td></tr></table>
 

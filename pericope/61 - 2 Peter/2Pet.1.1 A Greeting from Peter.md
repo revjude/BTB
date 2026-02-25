@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Greeting from Peter
+type: Pericope
 pericope: "[[2Pet.1.1 A Greeting from Peter|A Greeting from Peter]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 1
 book/chapter: "[[2Pet.1|2 Peter 1]]"
-genre:
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 2
 verses:
 - "[[2Pet.1.1]]"
 - "[[2Pet.1.2]]"
 ---
 
-[[2Pet.1|2 Peter 1:1 - 2 Peter 1:2]]
+<small>[[2Pet.1|2 Peter 1:1-2]]</small>
 *A Greeting from Peter*
 
 [[2Pet.1.1|1]] Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:

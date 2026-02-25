@@ -1,8 +1,50 @@
+---
+title: Job 41:6
+type: Verse
+kjv: "Shall the companions make a banquet of him? shall they part him among the merchants?"
+bsb: "Will traders barter for him or divide him among the merchants?"
+hebrew: "יִכְר֣וּ עָ֭לָיו חַבָּרִ֑ים יֶ֝חֱצ֗וּהוּ בֵּ֣ין כְּֽנַעֲנִֽים׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H3739A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2271]]"
+- "[[H2673]]"
+- "[[H0996H]]"
+- "[[H3669B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:6**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall the companions make a banquet of him? shall they part him among the merchants?
 <small><sub>**BSB:**</sub></small>
 Will traders barter for him or divide him among the merchants?
+<small><sub>**Hebrew:**</sub></small>
+[[H3739A\|יִכְר֣וּ]] [[H5921A\|עָ֭לָי]][[H9033\|ו]] [[H2271\|חַבָּרִ֑ים]] [[H2673\|יֶ֝חֱצ֗וּ]][[H9033\|הוּ]] [[H0996H\|בֵּ֣ין]] [[H3669B\|כְּֽנַעֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.5|<< Job 41:5]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.7|Job 41:7 >>]]</td></tr></table>
 

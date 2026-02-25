@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Obedience of the Rechabites
+type: Pericope
 pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 35
 book/chapter: "[[Jer.35|Jeremiah 35]]"
-genre:
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.35.1]]"
 - "[[Jer.35.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.35.11]]"
 ---
 
-[[Jer.35|Jeremiah 35:1 - Jeremiah 35:11]]
+<small>[[Jer.35|Jeremiah 35:1-11]]</small>
 *The Obedience of the Rechabites*
 
 [[Jer.35.1|1]] The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,

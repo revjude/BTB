@@ -1,10 +1,59 @@
+---
+title: John 18:34
+type: Verse
+kjv: "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?"
+bsb: "“Are you saying this on your own,” Jesus asked, “or did others tell you about Me?”"
+jesus_said: "Sayest thou this thing of thyself, or did others tell it thee of me?"
+greek: "ἀπεκρίθη αὐτῷ ὁ Ἰησοῦς· ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ;"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G2228]]"
+- "[[G0243]]"
+- "[[G2036]]"
+- "[[G4012]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 18:34**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
 <small><sub>**BSB:**</sub></small>
 “Are you saying this on your own,” Jesus asked, “or did others tell you about Me?”
-<small><sub>**Literal:**</sub></small>
-Answered to him <the> Jesus; Of yourself you yourself this say or others did say [it] to you concerning Me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.33|<< John 18:33]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.35|John 18:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0575\|ἀπὸ]]  [[G4771\|σεαυτοῦ]]  [[G4771\|σὺ]]  [[G3778\|τοῦτο]]  [[G3004G\|λέγεις]]  [[G2228\|ἢ]]  [[G0243\|ἄλλοι]]  [[G2036\|εἶπόν]]  [[G4771\|σοι]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PLEADING|PLEADING]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.33|<< John 18:33]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.35|John 18:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

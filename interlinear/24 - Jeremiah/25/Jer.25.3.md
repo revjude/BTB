@@ -1,8 +1,76 @@
+---
+title: Jeremiah 25:3
+type: Verse
+kjv: "From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that is the three and twentieth year, the word of the LORD hath come unto me, and I have spoken unto you, rising early and speaking; but ye have not hearkened."
+bsb: "“From the thirteenth year of Josiah son of Amon king of Judah until this very day—twenty-three years—the word of the LORD has come to me, and I have spoken to you again and again, but you have not listened."
+hebrew: "מִן־ שְׁלֹ֣שׁ עֶשְׂרֵ֣ה שָׁנָ֡ה לְיֹאשִׁיָּ֣הוּ בֶן־ אָמוֹן֩ מֶ֨לֶךְ יְהוּדָ֜ה וְעַ֣ד׀ הַיּ֣וֹם הַזֶּ֗ה זֶ֚ה שָׁלֹ֤שׁ וְעֶשְׂרִים֙ שָׁנָ֔ה הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלָ֑י וָאֲדַבֵּ֧ר אֲלֵיכֶ֛ם אַשְׁכֵּ֥ים וְדַבֵּ֖ר וְלֹ֥א שְׁמַעְתֶּֽם׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H2977G]]"
+- "[[H1121A]]"
+- "[[H0526H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H6242]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9036]]"
+- "[[H7925]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:3**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that [is] the three and twentieth year, the word of the LORD hath come unto me, and I have spoken unto you, rising early and speaking; but ye have not hearkened.
 <small><sub>**BSB:**</sub></small>
 “From the thirteenth year of Josiah son of Amon king of Judah until this very day—twenty-three years—the word of the LORD has come to me, and I have spoken to you again and again, but you have not listened.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H7969\|שְׁלֹ֣שׁ]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֡ה]] [[H9005\|לְ]][[H2977G\|יֹאשִׁיָּ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0526H\|אָמוֹן֩]] [[H4428G\|מֶ֨לֶךְ]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H5704\|עַ֣ד]][[H9015\|׀]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H2088\|זֶ֚ה]] [[H7969\|שָׁלֹ֤שׁ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H8141\|שָׁנָ֔ה]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9001\|וָ]][[H1696G\|אֲדַבֵּ֧ר]] [[H0413\|אֲלֵי]][[H9036\|כֶ֛ם]] [[H7925\|אַשְׁכֵּ֥ים]] [[H9002\|וְ]][[H1696G\|דַבֵּ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שְׁמַעְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHETS|PROPHETS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.2|<< Jeremiah 25:2]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.4|Jeremiah 25:4 >>]]</td></tr></table>
 

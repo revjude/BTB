@@ -1,10 +1,58 @@
+---
+title: Matthew 22:32
+type: Verse
+kjv: "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living."
+bsb: "‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”"
+jesus_said: "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living."
+greek: "ἐγώ εἰμι ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ; οὐκ ἔστιν ὁ θεὸς θεὸς νεκρῶν ἀλλὰ ζώντων.¶"
+pericope: "[[Matt.22.23 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G2464]]"
+- "[[G2384G]]"
+- "[[G3756]]"
+- "[[G3498]]"
+- "[[G0235]]"
+- "[[G2198]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 22:32**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 <small><sub>**BSB:**</sub></small>
 ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”
-<small><sub>**Literal:**</sub></small>
-I myself am the God of Abraham and the God of Isaac and the God of Jacob?’ Not He is the God God of [the] dead but of [the] living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.31|<< Matthew 22:31]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.33|Matthew 22:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2384G\|Ἰακώβ;]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2316\|θεὸς]]  [[G3498\|νεκρῶν]]  [[G0235\|ἀλλὰ]]  [[G2198\|ζώντων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.31|<< Matthew 22:31]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.33|Matthew 22:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 22:32** is...
 > $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 47:5
+type: Verse
+kjv: "Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over."
+bsb: "Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot."
+hebrew: "וַיָּ֣מָד אֶ֔לֶף נַ֕חַל אֲשֶׁ֥ר לֹֽא־ אוּכַ֖ל לַעֲבֹ֑ר כִּֽי־ גָא֤וּ הַמַּ֙יִם֙ מֵ֣י שָׂ֔חוּ נַ֖חַל אֲשֶׁ֥ר לֹֽא־ יֵעָבֵֽר׃"
+pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0505G]]"
+- "[[H5158A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H3588A]]"
+- "[[H1342]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H7813]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:5**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward he measured a thousand; [and it was] a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
 <small><sub>**BSB:**</sub></small>
 Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֣מָד]] [[H0505G\|אֶ֔לֶף]] [[H5158A\|נַ֕חַל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|אוּכַ֖ל]] [[H9005\|לַ]][[H5674A\|עֲבֹ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1342\|גָא֤וּ]] [[H9009\|הַ]][[H4325G\|מַּ֙יִם֙]] [[H4325G\|מֵ֣י]] [[H7813\|שָׂ֔חוּ]] [[H5158A\|נַ֖חַל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5674A\|יֵעָבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EZEKIEL|EZEKIEL]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.4|<< Ezekiel 47:4]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.6|Ezekiel 47:6 >>]]</td></tr></table>
 

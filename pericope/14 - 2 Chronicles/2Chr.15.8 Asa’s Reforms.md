@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Asa’s Reforms
+type: Pericope
 pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 15
 book/chapter: "[[2Chr.15|2 Chronicles 15]]"
-genre:
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 12
 verses:
 - "[[2Chr.15.8]]"
 - "[[2Chr.15.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Chr.15.19]]"
 ---
 
-[[2Chr.15|2 Chronicles 15:8 - 2 Chronicles 15:19]]
+<small>[[2Chr.15|2 Chronicles 15:8-19]]</small>
 *Asa’s Reforms*
 
 [[2Chr.15.8|8]] And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that \[was\] before the porch of the LORD.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woes to the Wicked
+type: Pericope
 pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 5
 book/chapter: "[[Isa.5|Isaiah 5]]"
-genre:
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 23
 verses:
 - "[[Isa.5.8]]"
 - "[[Isa.5.9]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Isa.5.30]]"
 ---
 
-[[Isa.5|Isaiah 5:8 - Isaiah 5:30]]
+<small>[[Isa.5|Isaiah 5:8-30]]</small>
 *Woes to the Wicked*
 
 [[Isa.5.8|8]] Woe unto them that join house to house, \[that\] lay field to field, till \[there be\] no place, that they may be placed alone in the midst of the earth!

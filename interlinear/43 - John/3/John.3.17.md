@@ -1,10 +1,60 @@
+---
+title: John 3:17
+type: Verse
+kjv: "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+bsb: "For God did not send His Son into the world to condemn the world, but to save the world through Him."
+jesus_said: "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+greek: "οὐ γὰρ ἀπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ εἰς τὸν κόσμον ἵνα κρίνῃ τὸν κόσμον, ἀλλ᾽ ἵνα σωθῇ ὁ κόσμος δι᾽ αὐτοῦ."
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G2443]]"
+- "[[G2919]]"
+- "[[G0235]]"
+- "[[G4982]]"
+- "[[G1223]]"
+texts:
+- NKO
+- ko
+---
+
 **John 3:17**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 <small><sub>**BSB:**</sub></small>
 For God did not send His Son into the world to condemn the world, but to save the world through Him.
-<small><sub>**Literal:**</sub></small>
-Not for sent <the> God the Son of Him into the world that He may judge the world, but that may be saved the world through Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.16|<< John 3:16]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.18|John 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0649\|ἀπέστειλεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2443\|ἵνα]]  [[G2919\|κρίνῃ]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G4982\|σωθῇ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.16|<< John 3:16]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.18|John 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

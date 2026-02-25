@@ -1,10 +1,68 @@
+---
+title: Matthew 24:3
+type: Verse
+kjv: "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?"
+bsb: "While Jesus was sitting on the Mount of Olives, the disciples came to Him privately. “Tell us,” they said, “when will these things happen, and what will be the sign of Your coming and of the end of the age?”"
+greek: "Καθημένου δὲ αὐτοῦ ἐπὶ τοῦ ὄρους τῶν ἐλαιῶν προσῆλθον αὐτῷ οἱ μαθηταὶ κατ᾽ ἰδίαν λέγοντες· εἰπὲ ἡμῖν πότε ταῦτα ἔσται καὶ τί τὸ σημεῖον τῆς σῆς παρουσίας καὶ τῆς συντελείας τοῦ αἰῶνος;¶"
+pericope: "[[Matt.24.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[G2521]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1638]]"
+- "[[G4334]]"
+- "[[G3101]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G3004G]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G4219]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G4592]]"
+- "[[G4771]]"
+- "[[G3952]]"
+- "[[G4930]]"
+- "[[G0165G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 24:3**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what [shall be] the sign of thy coming, and of the end of the world?
 <small><sub>**BSB:**</sub></small>
 While Jesus was sitting on the Mount of Olives, the disciples came to Him privately. “Tell us,” they said, “when will these things happen, and what will be the sign of Your coming and of the end of the age?”
-<small><sub>**Literal:**</sub></small>
-When was sitting now He upon the Mount <the> of Olives came to to Him the disciples in private saying; do tell us when these things will be And what [is] the sign <the> of Your coming and of the consummation of the age?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.2|<< Matthew 24:2]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.4|Matthew 24:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2521\|Καθημένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν]]  [[G4334\|προσῆλθον]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G3004G\|λέγοντες·]]  [[G2036\|εἰπὲ]]  [[G3165\|ἡμῖν]]  [[G4219\|πότε]]  [[G3778\|ταῦτα]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G3588\|τῆς]]  [[G4771\|σῆς]]  [[G3952\|παρουσίας]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G4930\|συντελείας]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]] • [[topic SIGN|SIGN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.2|<< Matthew 24:2]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.4|Matthew 24:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

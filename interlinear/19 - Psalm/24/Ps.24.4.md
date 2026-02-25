@@ -1,8 +1,72 @@
+---
+title: Psalm 24:4
+type: Verse
+kjv: "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
+bsb: "He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully."
+hebrew: "נְקִ֥י כַפַּ֗יִם וּֽבַר־ לֵ֫בָ֥ב אֲשֶׁ֤ר׀ לֹא־ נָשָׂ֣א לַשָּׁ֣וְא נַפְשִׁ֑י וְלֹ֖א נִשְׁבַּ֣ע לְמִרְמָֽה׃"
+pericope: "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 24
+book/chapter: "[[Ps.24|Psalm 24]]"
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H5355A]]"
+- "[[H3709G]]"
+- "[[H9002]]"
+- "[[H1249]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H5375O]]"
+- "[[H9005]]"
+- "[[H7723G]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H7650]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 24:4**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.
 <small><sub>**BSB:**</sub></small>
 He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully.
+<small><sub>**Hebrew:**</sub></small>
+[[H5355A\|נְקִ֥י]] [[H3709G\|כַפַּ֗יִם]] [[H9002\|וּֽ]][[H1249\|בַר]][[H9014\|־]] [[H3824\|לֵ֫בָ֥ב]] [[H0834A\|אֲשֶׁ֤ר]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H5375O\|נָשָׂ֣א]] [[H9005\|לַ]][[H7723G\|שָּׁ֣וְא]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H7650\|נִשְׁבַּ֣ע]] [[H9005\|לְ]][[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PENITENT|PENITENT]] • [[topic PURITY|PURITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SEEKERS|SEEKERS]] • [[topic VANITY|VANITY]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.3|<< Psalms 24:3]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.5|Psalms 24:5 >>]]</td></tr></table>
 

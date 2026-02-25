@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 15:14
+type: Verse
+kjv: "And if Christ be not risen, then is our preaching vain, and your faith is also vain."
+bsb: "And if Christ has not been raised, our preaching is worthless, and so is your faith."
+greek: "εἰ δὲ Χριστὸς οὐκ ἐγήγερται, κενὸν ἄρα καὶ τὸ κήρυγμα ἡμῶν, κενὴ δὲ καὶ ἡ πίστις ὑμῶν."
+pericope: "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G1453]]"
+- "[[G2756]]"
+- "[[G0686]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2782]]"
+- "[[G3165]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+texts:
+- NKO
+- no
+- k
+- NK(O)
+---
+
 **1 Corinthians 15:14**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if Christ be not risen, then [is] our preaching vain, and your faith [is] also vain.
 <small><sub>**BSB:**</sub></small>
 And if Christ has not been raised, our preaching is worthless, and so is your faith.
-<small><sub>**Literal:**</sub></small>
-if then Christ not has been raised, [is] void then also the preaching of us, void now also the faith of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.13|<< 1 Corinthians 15:13]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.15|1 Corinthians 15:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G5547\|Χριστὸς]]  [[G3756\|οὐκ]]  [[G1453\|ἐγήγερται,]]  [[G2756\|κενὸν]]  [[G0686\|ἄρα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2782\|κήρυγμα]]  [[G3165\|ἡμῶν,]]  [[G2756\|κενὴ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.13|<< 1 Corinthians 15:13]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.15|1 Corinthians 15:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

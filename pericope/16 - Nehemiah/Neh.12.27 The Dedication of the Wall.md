@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Dedication of the Wall
+type: Pericope
 pericope: "[[Neh.12.27 The Dedication of the Wall|The Dedication of the Wall]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 12
 book/chapter: "[[Neh.12|Nehemiah 12]]"
-genre:
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 17
 verses:
 - "[[Neh.12.27]]"
 - "[[Neh.12.28]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Neh.12.43]]"
 ---
 
-[[Neh.12|Nehemiah 12:27 - Nehemiah 12:43]]
+<small>[[Neh.12|Nehemiah 12:27-43]]</small>
 *The Dedication of the Wall*
 
 [[Neh.12.27|27]] And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, \[with\] cymbals, psalteries, and with harps.

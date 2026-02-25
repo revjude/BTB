@@ -1,10 +1,64 @@
+---
+title: 1 John 1:5
+type: Verse
+kjv: "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all."
+bsb: "And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all."
+greek: "καὶ ἔστιν αὕτη ἡ ἀγγελία ἣν ἀκηκόαμεν ἀπ᾽ αὐτοῦ καὶ ἀναγγέλλομεν ὑμῖν ὅτι ὁ θεὸς φῶς ἐστιν καὶ σκοτία ἐν αὐτῷ οὐκ ἔστιν οὐδεμία."
+pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0031]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G0312]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2316]]"
+- "[[G5457]]"
+- "[[G4653]]"
+- "[[G1722]]"
+- "[[G3756]]"
+- "[[G3762]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 John 1:5**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
 <small><sub>**BSB:**</sub></small>
 And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all.
-<small><sub>**Literal:**</sub></small>
-And is this the message that we have heard from Him and we preach to you that <the> God light is and darkness in Him not is none.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.4|<< 1 John 1:4]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.6|1 John 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἔστιν]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G0031\|ἀγγελία]]  [[G3739\|ἣν]]  [[G0191\|ἀκηκόαμεν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0312\|ἀναγγέλλομεν]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5457\|φῶς]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G4653\|σκοτία]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3762\|οὐδεμία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic LIGHT|LIGHT]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.4|<< 1 John 1:4]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.6|1 John 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

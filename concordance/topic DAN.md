@@ -13,7 +13,7 @@
 
 Census of [[Num.1.39|Nu 1:39]]; [[Num.26.42|26:42]],[[Num.26.43|43]]
 
-- Inheritance of, according to the allotment of Joshua  [[Josh.19.40|Jos 19:40]]-[[Josh.19.47|47]]
+- Inheritance of, according to the allotment of Joshua  [[Josh.19.40|Jos 19:40-47]]
 
 - Of Ezekiel [[Ezek.48.1|Eze 48:1]]
 
@@ -23,7 +23,7 @@ Census of [[Num.1.39|Nu 1:39]]; [[Num.26.42|26:42]],[[Num.26.43|43]]
 
 - Fail to conquer the Amorites [[Judg.1.34|Jud 1:34]],[[Judg.1.35|35]]
 
-- Conquests by [[Josh.19.47|Jos 19:47]]; [[Judg.18.27|Jud 18:27]]-[[Judg.18.29|29]]
+- Conquests by [[Josh.19.47|Jos 19:47]]; [[Judg.18.27|Jud 18:27-29]]
 
 - Deborah rebukes, for their cowardice [[Judg.5.17|Jud 5:17]]
 

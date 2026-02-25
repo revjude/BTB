@@ -1,10 +1,67 @@
+---
+title: Mark 12:2
+type: Verse
+kjv: "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard."
+bsb: "At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard."
+jesus_said: "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard."
+greek: "καὶ ἀπέστειλεν πρὸς τοὺς γεωργοὺς τῷ καιρῷ δοῦλον ἵνα παρὰ τῶν γεωργῶν λάβῃ ἀπὸ τῶν καρπῶν τοῦ ἀμπελῶνος."
+pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SEASONS|SEASONS]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1092]]"
+- "[[G2540]]"
+- "[[G1401]]"
+- "[[G2443]]"
+- "[[G3844]]"
+- "[[G2983]]"
+- "[[G0575]]"
+- "[[G2590]]"
+- "[[G0290]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 12:2**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.
 <small><sub>**BSB:**</sub></small>
 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard.
-<small><sub>**Literal:**</sub></small>
-And he sent to the farmers at the due time a servant that from the farmers he may receive from the fruits of the vineyard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.1|<< Mark 12:1]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.3|Mark 12:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G1092\|γεωργοὺς]]  [[G3588\|τῷ]]  [[G2540\|καιρῷ]]  [[G1401\|δοῦλον]]  [[G2443\|ἵνα]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G1092\|γεωργῶν]]  [[G2983\|λάβῃ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2590\|καρπῶν]]  [[G3588\|τοῦ]]  [[G0290\|ἀμπελῶνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic REPROOF|REPROOF]] • [[topic SEASONS|SEASONS]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.1|<< Mark 12:1]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.3|Mark 12:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

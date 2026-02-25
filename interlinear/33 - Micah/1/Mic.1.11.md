@@ -1,8 +1,61 @@
+---
+title: Micah 1:11
+type: Verse
+kjv: "Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing."
+bsb: "Depart in shameful nakedness, O dwellers of Shaphir. The dwellers of Zaanan will not come out. Beth-ezel is in mourning; its support is taken from you."
+hebrew: "עִבְרִ֥י לָכֶ֛ם יוֹשֶׁ֥בֶת שָׁפִ֖יר עֶרְיָה־ בֹ֑שֶׁת לֹ֤א יָֽצְאָה֙ יוֹשֶׁ֣בֶת צַֽאֲנָ֔ן מִסְפַּד֙ בֵּ֣ית הָאֵ֔צֶל יִקַּ֥ח מִכֶּ֖ם עֶמְדָּתֽוֹ׃"
+pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BETH-EZEL|BETH-EZEL]]"
+- "[[topic SAPHIR|SAPHIR]]"
+- "[[topic ZAANAN|ZAANAN]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3427]]"
+- "[[H8208]]"
+- "[[H6181]]"
+- "[[H9014]]"
+- "[[H1322]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H6630]]"
+- "[[H4553]]"
+- "[[H1018]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H5979]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:11**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing.
 <small><sub>**BSB:**</sub></small>
 Depart in shameful nakedness, O dwellers of Shaphir. The dwellers of Zaanan will not come out. Beth-ezel is in mourning; its support is taken from you.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|עִבְרִ֥י]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H3427\|יוֹשֶׁ֥בֶת]] [[H8208\|שָׁפִ֖יר]] [[H6181\|עֶרְיָה]][[H9014\|־]] [[H1322\|בֹ֑שֶׁת]] [[H3808\|לֹ֤א]] [[H3318G\|יָֽצְאָה֙]] [[H3427\|יוֹשֶׁ֣בֶת]] [[H6630\|צַֽאֲנָ֔ן]] [[H4553\|מִסְפַּד֙]] [[H1018\|בֵּ֣ית]] [[H1018\|הָאֵ֔צֶל]] [[H3947G\|יִקַּ֥ח]] [[H9006\|מִ]][[H9036\|כֶּ֖ם]] [[H5979\|עֶמְדָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EZEL|BETH-EZEL]] • [[topic SAPHIR|SAPHIR]] • [[topic ZAANAN|ZAANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.10|<< Micah 1:10]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.12|Micah 1:12 >>]]</td></tr></table>
 

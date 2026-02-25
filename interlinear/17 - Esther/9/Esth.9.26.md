@@ -1,8 +1,63 @@
+---
+title: Esther 9:26
+type: Verse
+kjv: "Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and of that which they had seen concerning this matter, and which had come unto them,"
+bsb: "Therefore these days are called Purim, from the word Pur. Because of all the instructions in this letter, and because of all they had seen and experienced,"
+hebrew: "עַל־ כֵּ֡ן קָֽרְאוּ֩ לַיָּמִ֨ים הָאֵ֤לֶּה פוּרִים֙ עַל־ שֵׁ֣ם הַפּ֔וּר עַל־ כֵּ֕ן עַל־ כָּל־ דִּבְרֵ֖י הָאִגֶּ֣רֶת הַזֹּ֑את וּמָֽה־ רָא֣וּ עַל־ כָּ֔כָה וּמָ֥ה הִגִּ֖יעַ אֲלֵיהֶֽם׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H6332]]"
+- "[[H8034]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H0107]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H7200G]]"
+- "[[H3602]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:26**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and [of that] which they had seen concerning this matter, and which had come unto them,
 <small><sub>**BSB:**</sub></small>
 Therefore these days are called Purim, from the word Pur. Because of all the instructions in this letter, and because of all they had seen and experienced,
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H7121G\|קָֽרְאוּ֩]] [[H9005\|לַ]][[H3117G\|יָּמִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֤לֶּה]] [[H6332\|פוּרִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H9009\|הַ]][[H6332\|פּ֔וּר]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֕ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H9009\|הָ]][[H0107\|אִגֶּ֣רֶת]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וּ]][[H4100\|מָֽה]][[H9014\|־]] [[H7200G\|רָא֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3602\|כָּ֔כָה]] [[H9002\|וּ]][[H4100\|מָ֥ה]] [[H5060\|הִגִּ֖יעַ]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.25|<< Esther 9:25]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.27|Esther 9:27 >>]]</td></tr></table>
 

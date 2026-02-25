@@ -1,10 +1,67 @@
+---
+title: Matthew 19:12
+type: Verse
+kjv: "For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it."
+bsb: "For there are eunuchs who were born that way; others were made that way by men; and still others live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”"
+jesus_said: "For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it."
+greek: "εἰσὶν γὰρ εὐνοῦχοι οἵτινες ἐκ κοιλίας μητρὸς ἐγεννήθησαν οὕτως, καὶ εἰσὶν εὐνοῦχοι οἵτινες εὐνουχίσθησαν ὑπὸ τῶν ἀνθρώπων, καὶ εἰσὶν εὐνοῦχοι οἵτινες εὐνούχισαν ἑαυτοὺς διὰ τὴν βασιλείαν τῶν οὐρανῶν. ὁ δυνάμενος χωρεῖν χωρείτω.¶"
+pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASCETICISM|ASCETICISM]]"
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G2135]]"
+- "[[G3748]]"
+- "[[G1537]]"
+- "[[G2836]]"
+- "[[G3384]]"
+- "[[G1080]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G2134]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1438]]"
+- "[[G1223]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G1410]]"
+- "[[G5562]]"
+texts:
+- NKO
+---
+
 **Matthew 19:12**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there are some eunuchs, which were so born from [their] mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive [it], let him receive [it].
 <small><sub>**BSB:**</sub></small>
 For there are eunuchs who were born that way; others were made that way by men; and still others live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”
-<small><sub>**Literal:**</sub></small>
-There are for eunuchs who from [the] womb of [their] mother were born thus, and there are eunuchs who were made eunuchs by <the> men, and there are eunuchs who made eunuchs of themselves for the sake of the kingdom of the heavens. The [one] being able to receive [it] he should receive [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.11|<< Matthew 19:11]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.13|Matthew 19:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|εἰσὶν]]  [[G1063\|γὰρ]]  [[G2135\|εὐνοῦχοι]]  [[G3748\|οἵτινες]]  [[G1537\|ἐκ]]  [[G2836\|κοιλίας]]  [[G3384\|μητρὸς]]  [[G1080\|ἐγεννήθησαν]]  [[G3779\|οὕτως,]]  [[G2532\|καὶ]]  [[G1510\|εἰσὶν]]  [[G2135\|εὐνοῦχοι]]  [[G3748\|οἵτινες]]  [[G2134\|εὐνουχίσθησαν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G2532\|καὶ]]  [[G1510\|εἰσὶν]]  [[G2135\|εὐνοῦχοι]]  [[G3748\|οἵτινες]]  [[G2134\|εὐνούχισαν]]  [[G1438\|ἑαυτοὺς]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]  [[G3588\|ὁ]]  [[G1410\|δυνάμενος]]  [[G5562\|χωρεῖν]]  [[G5562\|χωρείτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCETICISM|ASCETICISM]] • [[topic CELIBACY|CELIBACY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DIVORCE|DIVORCE]] • [[topic EUNUCH|EUNUCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.11|<< Matthew 19:11]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.13|Matthew 19:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

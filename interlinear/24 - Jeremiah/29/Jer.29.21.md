@@ -1,8 +1,82 @@
+---
+title: Jeremiah 29:21
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;"
+bsb: "This is what the LORD of Hosts, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying to you lies in My name: “I will deliver them to Nebuchadnezzar king of Babylon, and he will kill them before your very eyes."
+hebrew: "כֹּֽה־ אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אֶל־ אַחְאָ֤ב בֶּן־ קֽוֹלָיָה֙ וְאֶל־ צִדְקִיָּ֣הוּ בֶן־ מַֽעֲשֵׂיָ֔ה הַֽנִּבְּאִ֥ים לָכֶ֛ם בִּשְׁמִ֖י שָׁ֑קֶר הִנְנִ֣י׀ נֹתֵ֣ן אֹתָ֗ם בְּיַד֙ נְבֽוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֔ל וְהִכָּ֖ם לְעֵינֵיכֶֽם׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic KOLAIAH|KOLAIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H0256H]]"
+- "[[H1121A]]"
+- "[[H6964H]]"
+- "[[H9002]]"
+- "[[H6667K]]"
+- "[[H4641Y]]"
+- "[[H9009]]"
+- "[[H5012]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H8267]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:21**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying to you lies in My name: “I will deliver them to Nebuchadnezzar king of Babylon, and he will kill them before your very eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0413\|אֶל]][[H9014\|־]] [[H0256H\|אַחְאָ֤ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6964H\|קֽוֹלָיָה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6667K\|צִדְקִיָּ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H4641Y\|מַֽעֲשֵׂיָ֔ה]] [[H9009\|הַֽ]][[H5012\|נִּבְּאִ֥ים]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9003\|בִּ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H8267\|שָׁ֑קֶר]] [[H2005\|הִנְ]][[H9040\|נִ֣י]][[H9015\|׀]] [[H5414G\|נֹתֵ֣ן]] [[H0853\|אֹתָ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H5019\|נְבֽוּכַדְרֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וְ]][[H5221\|הִכָּ֖]][[H9038\|ם]] [[H9005\|לְ]][[H5869A\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic KOLAIAH|KOLAIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 

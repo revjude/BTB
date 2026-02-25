@@ -1,8 +1,51 @@
+---
+title: Jeremiah 48:3
+type: Verse
+kjv: "A voice of crying shall be from Horonaim, spoiling and great destruction."
+bsb: "A voice cries out from Horonaim: ‘Devastation and great destruction!’"
+hebrew: "ק֥וֹל צְעָקָ֖ה מֵחֹֽרוֹנָ֑יִם שֹׁ֖ד וָשֶׁ֥בֶר גָּדֽוֹל׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HORONAIM|HORONAIM]]"
+strongs:
+- "[[H6963A]]"
+- "[[H6818]]"
+- "[[H9006]]"
+- "[[H2773]]"
+- "[[H7701]]"
+- "[[H9002]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:3**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of crying [shall be] from Horonaim, spoiling and great destruction.
 <small><sub>**BSB:**</sub></small>
 A voice cries out from Horonaim: ‘Devastation and great destruction!’
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֥וֹל]] [[H6818\|צְעָקָ֖ה]] [[H9006\|מֵ]][[H2773\|חֹֽרוֹנָ֑יִם]] [[H7701\|שֹׁ֖ד]] [[H9002\|וָ]][[H7667\|שֶׁ֥בֶר]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORONAIM|HORONAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.2|<< Jeremiah 48:2]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.4|Jeremiah 48:4 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 27:3
+type: Verse
+kjv: "And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I am of perfect beauty."
+bsb: "Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many coasts, that this is what the Lord GOD says: You have said, O Tyre, ‘I am perfect in beauty.’"
+hebrew: "וְאָמַרְתָּ֣ לְצ֗וֹר הַיֹּשֶׁ֙בֶת֙ עַל־ מְבוֹאֹ֣ת יָ֔ם רֹכֶ֙לֶת֙ הָֽעַמִּ֔ים אֶל־ אִיִּ֖ים רַבִּ֑ים כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צ֕וֹר אַ֣תְּ אָמַ֔רְתְּ אֲנִ֖י כְּלִ֥ילַת יֹֽפִי׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CITIES|CITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6865]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3997]]"
+- "[[H3220G]]"
+- "[[H7402]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H0339]]"
+- "[[H7227A]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0859C]]"
+- "[[H0589]]"
+- "[[H3632]]"
+- "[[H3308]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 27:3**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto Tyrus, O thou that art situate at the entry of the sea, [which art] a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I [am] of perfect beauty.
 <small><sub>**BSB:**</sub></small>
 Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many coasts, that this is what the Lord GOD says: You have said, O Tyre, ‘I am perfect in beauty.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H9005\|לְ]][[H6865\|צ֗וֹר]] [[H9009\|הַ]][[H3427\|יֹּשֶׁ֙בֶת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3997\|מְבוֹאֹ֣ת]] [[H3220G\|יָ֔ם]] [[H7402\|רֹכֶ֙לֶת֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0339\|אִיִּ֖ים]] [[H7227A\|רַבִּ֑ים]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H6865\|צ֕וֹר]] [[H0859C\|אַ֣תְּ]] [[H0559\|אָמַ֔רְתְּ]] [[H0589\|אֲנִ֖י]] [[H3632\|כְּלִ֥ילַת]] [[H3308\|יֹֽפִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -35,7 +94,7 @@ Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many
 | beauty  |**<big>&#8207;[[H3308\|יֹֽפִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yo.fi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
 
-[^1]: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
-[^2]: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
+[^1]: that sits  | **<big>[[H9009|הַ]]</big><big>[[H3427|יֹּשַׁבְתִּי]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
+[^2]: that sits  | **<big>[[H9009|הַ]]</big><big>[[H3427|יֹּשַׁבְתִּי]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַיֹּשֶׁ֙בֶת֙י</big></span>**
 

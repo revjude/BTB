@@ -1,8 +1,79 @@
+---
+title: Nehemiah 8:10
+type: Verse
+kjv: "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength."
+bsb: "Then Nehemiah told them, “Go and eat what is rich, drink what is sweet, and send out portions to those who have nothing prepared, since today is holy to our Lord. Do not grieve, for the joy of the LORD is your strength.”"
+hebrew: "וַיֹּ֣אמֶר לָהֶ֡ם לְכוּ֩ אִכְל֨וּ מַשְׁמַנִּ֜ים וּשְׁת֣וּ מַֽמְתַקִּ֗ים וְשִׁלְח֤וּ מָנוֹת֙ לְאֵ֣ין נָכ֣וֹן ל֔וֹ כִּֽי־ קָד֥וֹשׁ הַיּ֖וֹם לַאֲדֹנֵ֑ינוּ וְאַל־ תֵּ֣עָצֵ֔בוּ כִּֽי־ חֶדְוַ֥ת יְהוָ֖ה הִ֥יא מָֽעֻזְּכֶֽם׃"
+pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H0398]]"
+- "[[H4924C]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H4477]]"
+- "[[H7971G]]"
+- "[[H4490]]"
+- "[[H0369]]"
+- "[[H3559A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6918G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0113]]"
+- "[[H9025]]"
+- "[[H0408]]"
+- "[[H6087A]]"
+- "[[H2304]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H4581]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:10**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for [this] day [is] holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.
 <small><sub>**BSB:**</sub></small>
 Then Nehemiah told them, “Go and eat what is rich, drink what is sweet, and send out portions to those who have nothing prepared, since today is holy to our Lord. Do not grieve, for the joy of the LORD is your strength.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֡ם]] [[H1980G\|לְכוּ֩]] [[H0398\|אִכְל֨וּ]] [[H4924C\|מַשְׁמַנִּ֜ים]] [[H9002\|וּ]][[H8354\|שְׁת֣וּ]] [[H4477\|מַֽמְתַקִּ֗ים]] [[H9002\|וְ]][[H7971G\|שִׁלְח֤וּ]] [[H4490\|מָנוֹת֙]] [[H9005\|לְ]][[H0369\|אֵ֣ין]] [[H3559A\|נָכ֣וֹן]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6918G\|קָד֥וֹשׁ]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לַ]][[H0113\|אֲדֹנֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H6087A\|תֵּ֣עָצֵ֔בוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2304\|חֶדְוַ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H1931\|הִ֥יא]] [[H4581\|מָֽעֻזְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic FEASTS|FEASTS]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.9|<< Nehemiah 8:9]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.11|Nehemiah 8:11 >>]]</td></tr></table>
 

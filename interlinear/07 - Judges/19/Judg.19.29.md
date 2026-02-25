@@ -1,8 +1,67 @@
+---
+title: Judges 19:29
+type: Verse
+kjv: "And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, together with her bones, into twelve pieces, and sent her into all the coasts of Israel."
+bsb: "When he reached his house, he picked up a knife, took hold of his concubine, cut her limb by limb into twelve pieces, and sent her throughout the territory of Israel."
+hebrew: "וַיָּבֹ֣א אֶל־ בֵּית֗וֹ וַיִּקַּ֤ח אֶת־ הַֽמַּאֲכֶ֙לֶת֙ וַיַּחֲזֵ֣ק בְּפִֽילַגְשׁ֔וֹ וַֽיְנַתְּחֶ֙הָ֙ לַעֲצָמֶ֔יהָ לִשְׁנֵ֥ים עָשָׂ֖ר נְתָחִ֑ים וַֽיְשַׁלְּחֶ֔הָ בְּכֹ֖ל גְּב֥וּל יִשְׂרָאֵֽל׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3979]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H6370]]"
+- "[[H5408]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H6106G]]"
+- "[[H9024]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H5409]]"
+- "[[H7971G]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:29**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, [together] with her bones, into twelve pieces, and sent her into all the coasts of Israel.
 <small><sub>**BSB:**</sub></small>
 When he reached his house, he picked up a knife, took hold of his concubine, cut her limb by limb into twelve pieces, and sent her throughout the territory of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3979\|מַּאֲכֶ֙לֶת֙]] [[H9001\|וַ]][[H2388H\|יַּחֲזֵ֣ק]] [[H9003\|בְּ]][[H6370\|פִֽילַגְשׁ֔]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H5408\|יְנַתְּחֶ֙]][[H9034\|הָ֙]] [[H9005\|לַ]][[H6106G\|עֲצָמֶ֔י]][[H9024\|הָ]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H5409\|נְתָחִ֑ים]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּחֶ֔]][[H9034\|הָ]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H1366H\|גְּב֥וּל]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.28|<< Judges 19:28]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.30|Judges 19:30 >>]]</td></tr></table>
 

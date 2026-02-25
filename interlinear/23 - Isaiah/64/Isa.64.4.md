@@ -1,8 +1,61 @@
+---
+title: Isaiah 64:4
+type: Verse
+kjv: "For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him."
+bsb: "From ancient times no one has heard, no ear has perceived, no eye has seen any God besides You, who acts on behalf of those who wait for Him."
+hebrew: "וּמֵעוֹלָ֥ם לֹא־ שָׁמְע֖וּ לֹ֣א הֶאֱזִ֑ינוּ עַ֣יִן לֹֽא־ רָאָ֗תָה אֱלֹהִים֙ זוּלָ֣תְךָ֔ יַעֲשֶׂ֖ה לִמְחַכֵּה־ לֽוֹ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0238]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H2108]]"
+- "[[H9031]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H2442]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:4**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For since the beginning of the world [men] have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, [what] he hath prepared for him that waiteth for him.
 <small><sub>**BSB:**</sub></small>
 From ancient times no one has heard, no ear has perceived, no eye has seen any God besides You, who acts on behalf of those who wait for Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H5769J\|עוֹלָ֥ם]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמְע֖וּ]] [[H3808\|לֹ֣א]] [[H0238\|הֶאֱזִ֑ינוּ]] [[H5869A\|עַ֣יִן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|רָאָ֗תָה]] [[H0430G\|אֱלֹהִים֙]] [[H2108\|זוּלָ֣תְ]][[H9031\|ךָ֔]] [[H6213A\|יַעֲשֶׂ֖ה]] [[H9005\|לִ]][[H2442\|מְחַכֵּה]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.3|<< Isaiah 64:3]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.5|Isaiah 64:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

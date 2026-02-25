@@ -1,8 +1,68 @@
+---
+title: Judges 6:17
+type: Verse
+kjv: "And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me."
+bsb: "Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me."
+hebrew: "וַיֹּ֣אמֶר אֵלָ֔יו אִם־ נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ וְעָשִׂ֤יתָ לִּי֙ א֔וֹת שָׁאַתָּ֖ה מְדַבֵּ֥ר עִמִּֽי׃"
+pericope: "[[Judg.6.11 The Call of Gideon|The Call of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0226G]]"
+- "[[H9007]]"
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:17**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me.
 <small><sub>**BSB:**</sub></small>
 Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0518A\|אִם]][[H9014\|־]] [[H4994\|נָ֛א]] [[H4672\|מָצָ֥אתִי]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H6213A\|עָשִׂ֤יתָ]] [[H9005\|לִּ]][[H9030\|י֙]] [[H0226G\|א֔וֹת]] [[H9007\|שָׁ]][[H0859A\|אַתָּ֖ה]] [[H1696G\|מְדַבֵּ֥ר]] [[H5973A\|עִמִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMMUNION|COMMUNION]] • [[topic EXCUSES|EXCUSES]] • [[topic GOD|GOD]] • [[topic JUDGE|JUDGE]] • [[topic MIRACLES|MIRACLES]] • [[topic SIGN|SIGN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.16|<< Judges 6:16]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.18|Judges 6:18 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Good Servant of Jesus Christ
+type: Pericope
 pericope: "[[1Tim.4.6 A Good Servant of Jesus Christ|A Good Servant of Jesus Christ]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 4
 book/chapter: "[[1Tim.4|1 Timothy 4]]"
-genre:
+chronological_order: 1129
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 11
 verses:
 - "[[1Tim.4.6]]"
 - "[[1Tim.4.7]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Tim.4.16]]"
 ---
 
-[[1Tim.4|1 Timothy 4:6 - 1 Timothy 4:16]]
+<small>[[1Tim.4|1 Timothy 4:6-16]]</small>
 *A Good Servant of Jesus Christ*
 
 [[1Tim.4.6|6]] If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.

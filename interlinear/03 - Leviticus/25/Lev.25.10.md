@@ -1,8 +1,77 @@
+---
+title: Leviticus 25:10
+type: Verse
+kjv: "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+bsb: "So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan."
+hebrew: "וְקִדַּשְׁתֶּ֗ם אֵ֣ת שְׁנַ֤ת הַחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם דְּר֛וֹר בָּאָ֖רֶץ לְכָל־ יֹשְׁבֶ֑יהָ יוֹבֵ֥ל הִוא֙ תִּהְיֶ֣ה לָכֶ֔ם וְשַׁבְתֶּ֗ם אִ֚ישׁ אֶל־ אֲחֻזָּת֔וֹ וְאִ֥ישׁ אֶל־ מִשְׁפַּחְתּ֖וֹ תָּשֻֽׁבוּ׃"
+pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H2572]]"
+- "[[H7121I]]"
+- "[[H1865]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9024]]"
+- "[[H3104]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H7725G]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H0272]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:10**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall hallow the fiftieth year, and proclaim liberty throughout [all] the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
 <small><sub>**BSB:**</sub></small>
 So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6942G\|קִדַּשְׁתֶּ֗ם]] [[H0853\|אֵ֣ת]] [[H8141\|שְׁנַ֤ת]] [[H9009\|הַ]][[H2572\|חֲמִשִּׁים֙]] [[H8141\|שָׁנָ֔ה]] [[H9001\|וּ]][[H7121I\|קְרָאתֶ֥ם]] [[H1865\|דְּר֛וֹר]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3427\|יֹשְׁבֶ֑י]][[H9024\|הָ]] [[H3104\|יוֹבֵ֥ל]] [[H1931\|הִוא֙]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּ֗ם]] [[H0376I\|אִ֚ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0272\|אֲחֻזָּת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H4940\|מִשְׁפַּחְתּ֖]][[H9023\|וֹ]] [[H7725G\|תָּשֻֽׁבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic JUBILEE|JUBILEE]] • [[topic LIBERTY|LIBERTY]] • [[topic SANITATION|SANITATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.9|<< Leviticus 25:9]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.11|Leviticus 25:11 >>]]</td></tr></table>
 

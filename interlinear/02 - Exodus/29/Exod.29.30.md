@@ -1,8 +1,68 @@
+---
+title: Exodus 29:30
+type: Verse
+kjv: "And that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy place."
+bsb: "The son who succeeds him as priest and enters the Tent of Meeting to minister in the Holy Place must wear them for seven days."
+hebrew: "שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־ אֹ֥הֶל מוֹעֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3847]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H6944J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:30**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy [place].
 <small><sub>**BSB:**</sub></small>
 The son who succeeds him as priest and enters the Tent of Meeting to minister in the Holy Place must wear them for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֗ים]] [[H3847\|יִלְבָּשָׁ֧]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H8478H\|תַּחְתָּ֖י]][[H9033\|ו]] [[H9006\|מִ]][[H1121A\|בָּנָ֑י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H0935G\|יָבֹ֛א]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9005\|לְ]][[H8334\|שָׁרֵ֥ת]] [[H9003\|בַּ]][[H6944J\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.29|<< Exodus 29:29]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.31|Exodus 29:31 >>]]</td></tr></table>
 

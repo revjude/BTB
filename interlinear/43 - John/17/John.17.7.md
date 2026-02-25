@@ -1,10 +1,55 @@
+---
+title: John 17:7
+type: Verse
+kjv: "Now they have known that all things whatsoever thou hast given me are of thee."
+bsb: "Now they know that everything You have given Me comes from You."
+jesus_said: "Now they have known that all things whatsoever thou hast given me are of thee."
+greek: "νῦν ἔγνωκαν ὅτι πάντα ὅσα δέδωκάς μοι παρὰ σοῦ εἰσιν·"
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3568]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3844]]"
+- "[[G4771]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **John 17:7**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now they have known that all things whatsoever thou hast given me are of thee.
 <small><sub>**BSB:**</sub></small>
 Now they know that everything You have given Me comes from You.
-<small><sub>**Literal:**</sub></small>
-Now they have known that all things as much as You have given Me of You are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.6|<< John 17:6]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.8|John 17:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G1097\|ἔγνωκαν]]  [[G3754G\|ὅτι]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι]]  [[G3844\|παρὰ]]  [[G4771\|σοῦ]]  [[G1510\|εἰσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.6|<< John 17:6]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.8|John 17:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

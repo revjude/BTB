@@ -1,8 +1,71 @@
+---
+title: Numbers 31:28
+type: Verse
+kjv: "And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:"
+bsb: "Set aside a tribute for the LORD from what belongs to the soldiers who went into battle: one out of every five hundred, whether persons, cattle, donkeys, or sheep."
+hebrew: "וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן־ הָאָדָם֙ וּמִן־ הַבָּקָ֔ר וּמִן־ הַחֲמֹרִ֖ים וּמִן־ הַצֹּֽאן׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7311A]]"
+- "[[H4371]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H3318G]]"
+- "[[H6635H]]"
+- "[[H0259]]"
+- "[[H5315J]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H2543]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:28**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, [both] of the persons, and of the beeves, and of the asses, and of the sheep:
 <small><sub>**BSB:**</sub></small>
 Set aside a tribute for the LORD from what belongs to the soldiers who went into battle: one out of every five hundred, whether persons, cattle, donkeys, or sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7311A\|הֲרֵמֹתָ֨]] [[H4371\|מֶ֜כֶס]] [[H9005\|לַֽ]][[H3068G\|יהוָ֗ה]] [[H9006\|מֵ]][[H0854\|אֵ֞ת]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H9009\|הַ]][[H3318G\|יֹּצְאִ֣ים]] [[H9005\|לַ]][[H6635H\|צָּבָ֔א]] [[H0259\|אֶחָ֣ד]] [[H5315J\|נֶ֔פֶשׁ]] [[H9006\|מֵ]][[H2568\|חֲמֵ֖שׁ]] [[H9009\|הַ]][[H3967\|מֵּא֑וֹת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָם֙]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֔ר]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹרִ֖ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PRIEST|PRIEST]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.27|<< Numbers 31:27]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.29|Numbers 31:29 >>]]</td></tr></table>
 

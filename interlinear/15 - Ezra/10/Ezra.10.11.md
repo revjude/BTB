@@ -1,8 +1,68 @@
+---
+title: Ezra 10:11
+type: Verse
+kjv: "Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives."
+bsb: "Now, therefore, make a confession to the LORD, the God of your fathers, and do His will. Separate yourselves from the people of the land and from your foreign wives.”"
+hebrew: "וְעַתָּ֗ה תְּנ֥וּ תוֹדָ֛ה לַיהוָ֥ה אֱלֹהֵֽי־ אֲבֹתֵיכֶ֖ם וַעֲשׂ֣וּ רְצוֹנ֑וֹ וְהִבָּֽדְלוּ֙ מֵעַמֵּ֣י הָאָ֔רֶץ וּמִן־ הַנָּשִׁ֖ים הַנָּכְרִיּֽוֹת׃"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5414I]]"
+- "[[H8426]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H6213A]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H0914]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4480A]]"
+- "[[H0802H]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 10:11**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, make a confession to the LORD, the God of your fathers, and do His will. Separate yourselves from the people of the land and from your foreign wives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5414I\|תְּנ֥וּ]] [[H8426\|תוֹדָ֛ה]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֖ם]] [[H9002\|וַ]][[H6213A\|עֲשׂ֣וּ]] [[H7522\|רְצוֹנ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0914\|הִבָּֽדְלוּ֙]] [[H9006\|מֵ]][[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0802H\|נָּשִׁ֖ים]] [[H9009\|הַ]][[H5237\|נָּכְרִיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.10|<< Ezra 10:10]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.12|Ezra 10:12 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Covenant with David
+type: Pericope
 pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 17
 book/chapter: "[[1Chr.17|1 Chronicles 17]]"
-genre:
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 15
 verses:
 - "[[1Chr.17.1]]"
 - "[[1Chr.17.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Chr.17.15]]"
 ---
 
-[[1Chr.17|1 Chronicles 17:1 - 1 Chronicles 17:15]]
+<small>[[1Chr.17|1 Chronicles 17:1-15]]</small>
 *God’s Covenant with David*
 
 [[1Chr.17.1|1]] Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD \[remaineth\] under curtains.

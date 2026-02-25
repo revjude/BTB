@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Artaxerxes’ Letter for Ezra
+type: Pericope
 pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 7
 book/chapter: "[[Ezra.7|Ezra 7]]"
-genre:
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 16
 verses:
 - "[[Ezra.7.11]]"
 - "[[Ezra.7.12]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ezra.7.26]]"
 ---
 
-[[Ezra.7|Ezra 7:11 - Ezra 7:26]]
+<small>[[Ezra.7|Ezra 7:11-26]]</small>
 *Artaxerxes’ Letter for Ezra*
 
 [[Ezra.7.11|11]] Now this \[is\] the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, \[even\] a scribe of the words of the commandments of the LORD, and of his statutes to Israel.

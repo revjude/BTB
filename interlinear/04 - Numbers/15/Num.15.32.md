@@ -1,8 +1,61 @@
+---
+title: Numbers 15:32
+type: Verse
+kjv: "And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day."
+bsb: "While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day."
+hebrew: "וַיִּהְי֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וַֽיִּמְצְא֗וּ אִ֛ישׁ מְקֹשֵׁ֥שׁ עֵצִ֖ים בְּי֥וֹם הַשַּׁבָּֽת׃"
+pericope: "[[Num.15.32 A Sabbath-Breaker Stoned|A Sabbath-Breaker Stoned]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4672]]"
+- "[[H0376G]]"
+- "[[H7197A]]"
+- "[[H6086I]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:32**<big><big>[[Num.15.32 A Sabbath-Breaker Stoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day.
 <small><sub>**BSB:**</sub></small>
 While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַֽ]][[H4672\|יִּמְצְא֗וּ]] [[H0376G\|אִ֛ישׁ]] [[H7197A\|מְקֹשֵׁ֥שׁ]] [[H6086I\|עֵצִ֖ים]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEGISLATION|LEGISLATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.31|<< Numbers 15:31]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.33|Numbers 15:33 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 20:11
+type: Verse
+kjv: "But the LORD is with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: their everlasting confusion shall never be forgotten."
+bsb: "But the LORD is with me like a fearsome warrior. Therefore, my persecutors will stumble and will not prevail. Since they have not succeeded, they will be utterly put to shame, with an everlasting disgrace that will never be forgotten."
+hebrew: "וַֽיהוָ֤ה אוֹתִי֙ כְּגִבּ֣וֹר עָרִ֔יץ עַל־ כֵּ֛ן רֹדְפַ֥י יִכָּשְׁל֖וּ וְלֹ֣א יֻכָ֑לוּ בֹּ֤שׁוּ מְאֹד֙ כִּֽי־ לֹ֣א הִשְׂכִּ֔ילוּ כְּלִמַּ֥ת עוֹלָ֖ם לֹ֥א תִשָּׁכֵֽחַ׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H1368]]"
+- "[[H6184]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7291]]"
+- "[[H3782]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H0954]]"
+- "[[H3966]]"
+- "[[H3588A]]"
+- "[[H7919A]]"
+- "[[H3639]]"
+- "[[H5769G]]"
+- "[[H7911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:11**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD [is] with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: [their] everlasting confusion shall never be forgotten.
 <small><sub>**BSB:**</sub></small>
 But the LORD is with me like a fearsome warrior. Therefore, my persecutors will stumble and will not prevail. Since they have not succeeded, they will be utterly put to shame, with an everlasting disgrace that will never be forgotten.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֤ה]] [[H0854\|אוֹתִ]][[H9030\|י֙]] [[H9004\|כְּ]][[H1368\|גִבּ֣וֹר]] [[H6184\|עָרִ֔יץ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H7291\|רֹדְפַ֥]][[H9030\|י]] [[H3782\|יִכָּשְׁל֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3201\|יֻכָ֑לוּ]] [[H0954\|בֹּ֤שׁוּ]] [[H3966\|מְאֹד֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H7919A\|הִשְׂכִּ֔ילוּ]] [[H3639\|כְּלִמַּ֥ת]] [[H5769G\|עוֹלָ֖ם]] [[H3808\|לֹ֥א]] [[H7911\|תִשָּׁכֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.10|<< Jeremiah 20:10]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.12|Jeremiah 20:12 >>]]</td></tr></table>
 

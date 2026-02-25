@@ -1,8 +1,52 @@
+---
+title: Job 19:10
+type: Verse
+kjv: "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree."
+bsb: "He tears me down on every side until I am gone; He uproots my hope like a tree."
+hebrew: "יִתְּצֵ֣נִי סָ֭בִיב וָאֵלַ֑ךְ וַיַּסַּ֥ע כָּ֝עֵ֗ץ תִּקְוָתִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5422]]"
+- "[[H9030]]"
+- "[[H5439H]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H5265]]"
+- "[[H9004]]"
+- "[[H6086H]]"
+- "[[H8615B]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:10**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.
 <small><sub>**BSB:**</sub></small>
 He tears me down on every side until I am gone; He uproots my hope like a tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H5422\|יִתְּצֵ֣]][[H9030\|נִי]] [[H5439H\|סָ֭בִיב]] [[H9001\|וָ]][[H1980G\|אֵלַ֑ךְ]] [[H9001\|וַ]][[H5265\|יַּסַּ֥ע]] [[H9004\|כָּ֝]][[H6086H\|עֵ֗ץ]] [[H8615B\|תִּקְוָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.9|<< Job 19:9]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.11|Job 19:11 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Leviticus 7:27
+type: Verse
+kjv: "Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people."
+bsb: "If anyone eats blood, that person must be cut off from his people.’”"
+hebrew: "כָּל־ נֶ֖פֶשׁ אֲשֶׁר־ תֹּאכַ֣ל כָּל־ דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ׃ פ"
+pericope: "[[Lev.7.22 Fat and Blood Forbidden|Fat and Blood Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315I]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H1818]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 7:27**<big><big>[[Lev.7.22 Fat and Blood Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever soul [it be] that eateth any manner of blood, even that soul shall be cut off from his people.
 <small><sub>**BSB:**</sub></small>
 If anyone eats blood, that person must be cut off from his people.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H5315I\|נֶ֖פֶשׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0398\|תֹּאכַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1818\|דָּ֑ם]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֛ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מֵֽ]][[H5971B\|עַמֶּֽי]][[H9024\|הָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.26|<< Leviticus 7:26]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.28|Leviticus 7:28 >>]]</td></tr></table>
 
@@ -17,7 +72,7 @@ If anyone eats blood, that person must be cut off from his people.’”
 | and it will be cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|נִכְרְתָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nikh.re.Tah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the person  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5315J\|נֶּ֥פֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִ֖וא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hiv'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from kinspeople\<s> its  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5971B\|עַמֶּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> 'a.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from kinspeople\<s> its  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5971B\|עַמֶּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> 'a.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.26|<< Leviticus 7:26]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.28|Leviticus 7:28 >>]]</td></tr></table>
 
 

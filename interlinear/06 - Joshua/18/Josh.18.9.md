@@ -1,8 +1,64 @@
+---
+title: Joshua 18:9
+type: Verse
+kjv: "And the men went and passed through the land, and described it by cities into seven parts in a book, and came again to Joshua to the host at Shiloh."
+bsb: "So the men departed and went throughout the land, mapping it city by city into seven portions. Then they returned with the document to Joshua at the camp in Shiloh."
+hebrew: "וַיֵּלְכ֤וּ הָֽאֲנָשִׁים֙ וַיַּעַבְר֣וּ בָאָ֔רֶץ וַיִּכְתְּב֧וּהָ לֶֽעָרִ֛ים לְשִׁבְעָ֥ה חֲלָקִ֖ים עַל־ סֵ֑פֶר וַיָּבֹ֧אוּ אֶל־ יְהוֹשֻׁ֛עַ אֶל־ הַֽמַּחֲנֶ֖ה שִׁלֹֽה׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CIVIL ENGINEERING|CIVIL ENGINEERING]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3789]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H7651]]"
+- "[[H2506A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H3091G]]"
+- "[[H4264]]"
+- "[[H7887]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:9**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men went and passed through the land, and described it by cities into seven parts in a book, and came [again] to Joshua to the host at Shiloh.
 <small><sub>**BSB:**</sub></small>
 So the men departed and went throughout the land, mapping it city by city into seven portions. Then they returned with the document to Joshua at the camp in Shiloh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֤וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֣וּ]] [[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H3789\|יִּכְתְּב֧וּ]][[H9034\|הָ]] [[H9005\|לֶֽ]][[H5892B\|עָרִ֛ים]] [[H9005\|לְ]][[H7651\|שִׁבְעָ֥ה]] [[H2506A\|חֲלָקִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֑פֶר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֧אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H7887\|שִׁלֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL ENGINEERING|CIVIL ENGINEERING]] • [[topic SHILOH|SHILOH]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.8|<< Joshua 18:8]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.10|Joshua 18:10 >>]]</td></tr></table>
 

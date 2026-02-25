@@ -1,10 +1,64 @@
+---
+title: Acts 19:26
+type: Verse
+kjv: "Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:"
+bsb: "And you can see and hear that not only in Ephesus, but in nearly the whole province of Asia, this Paul has persuaded a great number of people to turn away. He says that man-made gods are no gods at all."
+greek: "καὶ θεωρεῖτε καὶ ἀκούετε ὅτι οὐ μόνον Ἐφέσου ἀλλὰ σχεδὸν πάσης τῆς Ἀσίας ὁ Παῦλος οὗτος πείσας μετέστησεν ἱκανὸν ὄχλον λέγων ὅτι οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2334]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G2181]]"
+- "[[G0235]]"
+- "[[G4975]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0773]]"
+- "[[G3972G]]"
+- "[[G3778]]"
+- "[[G3982]]"
+- "[[G3179]]"
+- "[[G2425]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G5495]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Acts 19:26**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:
 <small><sub>**BSB:**</sub></small>
 And you can see and hear that not only in Ephesus, but in nearly the whole province of Asia, this Paul has persuaded a great number of people to turn away. He says that man-made gods are no gods at all.
-<small><sub>**Literal:**</sub></small>
-And you see and hear that not only in Ephesus but almost in all <the> of Asia <the> Paul this having persuaded [them] he has turned away a great many people saying that not they are gods <the> through hands being made.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.25|<< Acts 19:25]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.27|Acts 19:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2334\|θεωρεῖτε]]  [[G2532\|καὶ]]  [[G0191\|ἀκούετε]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G2181\|Ἐφέσου]]  [[G0235\|ἀλλὰ]]  [[G4975\|σχεδὸν]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G0773\|Ἀσίας]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3778\|οὗτος]]  [[G3982\|πείσας]]  [[G3179\|μετέστησεν]]  [[G2425\|ἱκανὸν]]  [[G3793\|ὄχλον]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|εἰσὶν]]  [[G2316\|θεοὶ]]  [[G3588\|οἱ]]  [[G1223\|διὰ]]  [[G5495\|χειρῶν]]  [[G1096\|γινόμενοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.25|<< Acts 19:25]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.27|Acts 19:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

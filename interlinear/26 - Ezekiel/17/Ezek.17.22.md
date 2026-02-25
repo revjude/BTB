@@ -1,8 +1,70 @@
+---
+title: Ezekiel 17:22
+type: Verse
+kjv: "Thus saith the Lord GOD; I will also take of the highest branch of the high cedar, and will set it; I will crop off from the top of his young twigs a tender one, and will plant it upon an high mountain and eminent:"
+bsb: "This is what the Lord GOD says: ‘I will take a shoot from the lofty top of the cedar, and I will set it out. I will pluck a tender sprig from its topmost shoots, and I will plant it on a high and lofty mountain."
+hebrew: "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה וְלָקַ֣חְתִּי אָ֗נִי מִצַּמֶּ֧רֶת הָאֶ֛רֶז הָרָמָ֖ה וְנָתָ֑תִּי מֵרֹ֤אשׁ יֹֽנְקוֹתָיו֙ רַ֣ךְ אֶקְטֹ֔ף וְשָׁתַ֣לְתִּי אָ֔נִי עַ֥ל הַר־ גָּבֹ֖הַ וְתָלֽוּל׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0589]]"
+- "[[H9006]]"
+- "[[H6788]]"
+- "[[H9009]]"
+- "[[H0730]]"
+- "[[H7311A]]"
+- "[[H5414H]]"
+- "[[H7218I]]"
+- "[[H3127]]"
+- "[[H9023]]"
+- "[[H7390]]"
+- "[[H6998]]"
+- "[[H8362]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H1364]]"
+- "[[H9002]]"
+- "[[H8524]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:22**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; I will also take of the highest branch of the high cedar, and will set [it]; I will crop off from the top of his young twigs a tender one, and will plant [it] upon an high mountain and eminent:
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘I will take a shoot from the lofty top of the cedar, and I will set it out. I will pluck a tender sprig from its topmost shoots, and I will plant it on a high and lofty mountain.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וְ]][[H3947G\|לָקַ֣חְתִּי]] [[H0589\|אָ֗נִי]] [[H9006\|מִ]][[H6788\|צַּמֶּ֧רֶת]] [[H9009\|הָ]][[H0730\|אֶ֛רֶז]] [[H9009\|הָ]][[H7311A\|רָמָ֖ה]] [[H9001\|וְ]][[H5414H\|נָתָ֑תִּי]] [[H9006\|מֵ]][[H7218I\|רֹ֤אשׁ]] [[H3127\|יֹֽנְקוֹתָי]][[H9023\|ו֙]] [[H7390\|רַ֣ךְ]] [[H6998\|אֶקְטֹ֔ף]] [[H9001\|וְ]][[H8362\|שָׁתַ֣לְתִּי]] [[H0589\|אָ֔נִי]] [[H5921A\|עַ֥ל]] [[H2022G\|הַר]][[H9014\|־]] [[H1364\|גָּבֹ֖הַ]] [[H9002\|וְ]][[H8524\|תָלֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.21|<< Ezekiel 17:21]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.23|Ezekiel 17:23 >>]]</td></tr></table>
 

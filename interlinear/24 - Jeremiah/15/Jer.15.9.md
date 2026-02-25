@@ -1,8 +1,74 @@
+---
+title: Jeremiah 15:9
+type: Verse
+kjv: "She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while it was yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD."
+bsb: "The mother of seven will grow faint; she will breathe her last breath. Her sun will set while it is still day; she will be disgraced and humiliated. And the rest I will put to the sword in the presence of their enemies,” declares the LORD."
+hebrew: "אֻמְלְלָ֞ה יֹלֶ֣דֶת הַשִּׁבְעָ֗ה נָפְחָ֥ה נַפְשָׁ֛הּ בָּ֥א שִׁמְשָׁ֛הּ בְּעֹ֥ד יוֹמָ֖ם בּ֣וֹשָׁה וְחָפֵ֑רָה וּשְׁאֵֽרִיתָ֗ם לַחֶ֧רֶב אֶתֵּ֛ן לִפְנֵ֥י אֹיְבֵיהֶ֖ם נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SUN|SUN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0535]]"
+- "[[H3205]]"
+- "[[H9009]]"
+- "[[H7651]]"
+- "[[H5301]]"
+- "[[H5315I]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H8121]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H3119]]"
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H2659]]"
+- "[[H7611]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H2719]]"
+- "[[H5414G]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 15:9**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while [it was] yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 The mother of seven will grow faint; she will breathe her last breath. Her sun will set while it is still day; she will be disgraced and humiliated. And the rest I will put to the sword in the presence of their enemies,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0535\|אֻמְלְלָ֞ה]] [[H3205\|יֹלֶ֣דֶת]] [[H9009\|הַ]][[H7651\|שִּׁבְעָ֗ה]] [[H5301\|נָפְחָ֥ה]] [[H5315I\|נַפְשָׁ֛]][[H9024\|הּ]] [[H0935G\|בָּ֥א]] [[H8121\|שִׁמְשָׁ֛]][[H9024\|הּ]] [[H9003\|בְּ]][[H5750\|עֹ֥ד]] [[H3119\|יוֹמָ֖ם]] [[H0954\|בּ֣וֹשָׁה]] [[H9002\|וְ]][[H2659\|חָפֵ֑רָה]] [[H9002\|וּ]][[H7611\|שְׁאֵֽרִיתָ֗]][[H9028\|ם]] [[H9005\|לַ]][[H2719\|חֶ֧רֶב]] [[H5414G\|אֶתֵּ֛ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SEVEN|SEVEN]] • [[topic SUN|SUN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.8|<< Jeremiah 15:8]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.10|Jeremiah 15:10 >>]]</td></tr></table>
 
@@ -25,7 +91,7 @@ The mother of seven will grow faint; she will breathe her last breath. Her sun w
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies their  |**<big>&#8207;[[H0341\|אֹיְבֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.8|<< Jeremiah 15:8]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.10|Jeremiah 15:10 >>]]</td></tr></table>
 
 [^1]: it went  | **<big>[[H0935G|בָּאָה]]</big> ** | ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | K

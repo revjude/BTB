@@ -1,8 +1,56 @@
+---
+title: Job 27:23
+type: Verse
+kjv: "Men shall clap their hands at him, and shall hiss him out of his place."
+bsb: "It claps its hands at him and hisses him out of his place."
+hebrew: "יִשְׂפֹּ֣ק עָלֵ֣ימוֹ כַפֵּ֑ימוֹ וְיִשְׁרֹ֥ק עָ֝לָ֗יו מִמְּקֹמֽוֹ׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5606A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3709G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8319]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:23**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Men] shall clap their hands at him, and shall hiss him out of his place.
 <small><sub>**BSB:**</sub></small>
 It claps its hands at him and hisses him out of his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H5606A\|יִשְׂפֹּ֣ק]] [[H5921A\|עָלֵ֣י]][[H9038\|מוֹ]] [[H3709G\|כַפֵּ֑י]][[H9028\|מוֹ]] [[H9002\|וְ]][[H8319\|יִשְׁרֹ֥ק]] [[H5921A\|עָ֝לָ֗י]][[H9033\|ו]] [[H9006\|מִ]][[H4725\|מְּקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.22|<< Job 27:22]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.1|Job 28:1 >>]]</td></tr></table>
 

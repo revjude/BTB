@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 3:6
+type: Verse
+kjv: "And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul."
+bsb: "During the war between the house of Saul and the house of David, Abner had continued to strengthen his position in the house of Saul."
+hebrew: "וַיְהִ֗י בִּֽהְיוֹת֙ הַמִּלְחָמָ֔ה בֵּ֚ין בֵּ֣ית שָׁא֔וּל וּבֵ֖ין בֵּ֣ית דָּוִ֑ד וְאַבְנֵ֛ר הָיָ֥ה מִתְחַזֵּ֖ק בְּבֵ֥ית שָׁאֽוּל׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H0996G]]"
+- "[[H1004M]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H0074]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:6**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.
 <small><sub>**BSB:**</sub></small>
 During the war between the house of Saul and the house of David, Abner had continued to strengthen his position in the house of Saul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּֽ]][[H1961\|הְיוֹת֙]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֔ה]] [[H0996G\|בֵּ֚ין]] [[H1004M\|בֵּ֣ית]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H0074\|אַבְנֵ֛ר]] [[H1961\|הָיָ֥ה]] [[H2388G\|מִתְחַזֵּ֖ק]] [[H9003\|בְּ]][[H1004M\|בֵ֥ית]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.5|<< 2 Samuel 3:5]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.7|2 Samuel 3:7 >>]]</td></tr></table>
 

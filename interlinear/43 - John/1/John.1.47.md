@@ -1,10 +1,67 @@
+---
+title: John 1:47
+type: Verse
+kjv: "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
+bsb: "When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.”"
+jesus_said: "Behold an Israelite indeed, in whom is no guile!"
+greek: "Εἶδεν ὁ Ἰησοῦς τὸν Ναθαναὴλ ἐρχόμενον πρὸς αὐτὸν καὶ λέγει περὶ αὐτοῦ· ἴδε ἀληθῶς Ἰσραηλίτης ἐν ᾧ δόλος οὐκ ἔστιν."
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATHANAEL|NATHANAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic SINCERITY|SINCERITY]]"
+strongs:
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3482]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G4012]]"
+- "[[G2396]]"
+- "[[G0230]]"
+- "[[G2475]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1388]]"
+- "[[G3756]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 1:47**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
 <small><sub>**BSB:**</sub></small>
 When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.”
-<small><sub>**Literal:**</sub></small>
-Saw <the> Jesus <the> Nathanael coming to Him and He says concerning him; Behold truly an Israelite in whom deceit not there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.46|<< John 1:46]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.48|John 1:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Εἶδεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὸν]]  [[G3482\|Ναθαναὴλ]]  [[G2064\|ἐρχόμενον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ·]]  [[G2396\|ἴδε]]  [[G0230\|ἀληθῶς]]  [[G2475\|Ἰσραηλίτης]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1388\|δόλος]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HOLINESS|HOLINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATHANAEL|NATHANAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]] • [[topic PHILIP|PHILIP]] • [[topic SINCERITY|SINCERITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.46|<< John 1:46]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.48|John 1:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

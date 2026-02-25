@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 16:38
+type: Verse
+kjv: "And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:"
+bsb: "along with Obed-edom and his sixty-eight relatives. Obed-edom son of Jeduthun, and also Hosah, were to be gatekeepers."
+hebrew: "וְעֹבֵ֥ד אֱדֹ֛ם וַאֲחֵיהֶ֖ם שִׁשִּׁ֣ים וּשְׁמוֹנָ֑ה וְעֹבֵ֨ד אֱדֹ֧ם בֶּן־ יְדִית֛וּן וְחֹסָ֖ה לְשֹׁעֲרִֽים׃"
+pericope: "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOSAH|HOSAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H5654]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H8346]]"
+- "[[H8083]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3038G]]"
+- "[[H2621H]]"
+- "[[H9005]]"
+- "[[H7778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:38**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah [to be] porters:
 <small><sub>**BSB:**</sub></small>
 along with Obed-edom and his sixty-eight relatives. Obed-edom son of Jeduthun, and also Hosah, were to be gatekeepers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹ֛ם]] [[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H8346\|שִׁשִּׁ֣ים]] [[H9002\|וּ]][[H8083\|שְׁמוֹנָ֑ה]] [[H9002\|וְ]][[H5654\|עֹבֵ֨ד]] [[H5654\|אֱדֹ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3038G\|יְדִית֛וּן]] [[H9002\|וְ]][[H2621H\|חֹסָ֖ה]] [[H9005\|לְ]][[H7778\|שֹׁעֲרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HOSAH|HOSAH]] • [[topic MUSIC|MUSIC]] • [[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.37|<< 1 Chronicles 16:37]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.39|1 Chronicles 16:39 >>]]</td></tr></table>
 

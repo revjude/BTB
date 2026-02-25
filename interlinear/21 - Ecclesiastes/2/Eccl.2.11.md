@@ -1,8 +1,72 @@
+---
+title: Ecclesiastes 2:11
+type: Verse
+kjv: "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun."
+bsb: "Yet when I considered all the works that my hands had accomplished and what I had toiled to achieve, I found everything to be futile, a pursuit of the wind; there was nothing to be gained under the sun."
+hebrew: "וּפָנִ֣יתִֽי אֲנִ֗י בְּכָל־ מַעֲשַׂי֙ שֶֽׁעָשׂ֣וּ יָדַ֔י וּבֶֽעָמָ֖ל שֶׁעָמַ֣לְתִּי לַעֲשׂ֑וֹת וְהִנֵּ֨ה הַכֹּ֥ל הֶ֙בֶל֙ וּרְע֣וּת ר֔וּחַ וְאֵ֥ין יִתְר֖וֹן תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4639G]]"
+- "[[H9020]]"
+- "[[H9007]]"
+- "[[H6213A]]"
+- "[[H3027G]]"
+- "[[H9002]]"
+- "[[H5999]]"
+- "[[H5998]]"
+- "[[H9005]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H1892]]"
+- "[[H7469]]"
+- "[[H7307H]]"
+- "[[H0369]]"
+- "[[H3504]]"
+- "[[H8478G]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:11**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all [was] vanity and vexation of spirit, and [there was] no profit under the sun.
 <small><sub>**BSB:**</sub></small>
 Yet when I considered all the works that my hands had accomplished and what I had toiled to achieve, I found everything to be futile, a pursuit of the wind; there was nothing to be gained under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6437G\|פָנִ֣יתִֽי]] [[H0589\|אֲנִ֗י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4639G\|מַעֲשַׂ]][[H9020\|י֙]] [[H9007\|שֶֽׁ]][[H6213A\|עָשׂ֣וּ]] [[H3027G\|יָדַ֔]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בֶֽ]][[H5999\|עָמָ֖ל]] [[H9007\|שֶׁ]][[H5998\|עָמַ֣לְתִּי]] [[H9005\|לַ]][[H6213A\|עֲשׂ֑וֹת]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H1892\|הֶ֙בֶל֙]] [[H9002\|וּ]][[H7469\|רְע֣וּת]] [[H7307H\|ר֔וּחַ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H3504\|יִתְר֖וֹן]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic INDUSTRY|INDUSTRY]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic VANITY|VANITY]] • [[topic WINE|WINE]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.10|<< Ecclesiastes 2:10]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.12|Ecclesiastes 2:12 >>]]</td></tr></table>
 

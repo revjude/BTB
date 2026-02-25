@@ -1,8 +1,65 @@
+---
+title: Genesis 20:14
+type: Verse
+kjv: "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife."
+bsb: "So Abimelech brought sheep and cattle, menservants and maidservants, and he gave them to Abraham and restored his wife Sarah to him."
+hebrew: "וַיִּקַּ֨ח אֲבִימֶ֜לֶךְ צֹ֣אן וּבָקָ֗ר וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַיִּתֵּ֖ן לְאַבְרָהָ֑ם וַיָּ֣שֶׁב ל֔וֹ אֵ֖ת שָׂרָ֥ה אִשְׁתּֽוֹ׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0040G]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H5650]]"
+- "[[H8198]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H8283]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:14**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave [them] unto Abraham, and restored him Sarah his wife.
 <small><sub>**BSB:**</sub></small>
 So Abimelech brought sheep and cattle, menservants and maidservants, and he gave them to Abraham and restored his wife Sarah to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H0040G\|אֲבִימֶ֜לֶךְ]] [[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֗ר]] [[H9002\|וַ]][[H5650\|עֲבָדִים֙]] [[H9002\|וּ]][[H8198\|שְׁפָחֹ֔ת]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֖ן]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֑ם]] [[H9001\|וַ]][[H7725G\|יָּ֣שֶׁב]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֵ֖ת]] [[H8283\|שָׂרָ֥ה]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.13|<< Genesis 20:13]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.15|Genesis 20:15 >>]]</td></tr></table>
 

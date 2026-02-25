@@ -1,6 +1,51 @@
+---
+title: LXX 2 Chronicles 26:12
+type: Verse
+lxx: "All the number of the rulers of the families of the mighty ones for war -- two thousand six hundred."
+greek: "πας ο αριθμός των αρχόντων των πατριών των δυνατών εις πόλεμον δισχίλιοι εξακόσιοι"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0706]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G3965]]"
+- "[[G3588]]"
+- "[[G1415]]"
+- "[[G1519]]"
+- "[[G4171]]"
+- "[[G1367]]"
+- "[[G1812]]"
+---
+
 **LXX 2 Chronicles 26:12** 
 <small><sub>**LXX:**</sub></small>
 All the number of the rulers of the families of the mighty ones for war -- two thousand six hundred. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πας]] [[G3588\|ο]] [[G0706\|αριθμός]] [[G3588\|των]] [[G0758\|αρχόντων]] [[G3588\|των]] [[G3965\|πατριών]] [[G3588\|των]] [[G1415\|δυνατών]] [[G1519\|εις]] [[G4171\|πόλεμον]] [[G1367\|δισχίλιοι]] [[G1812\|εξακόσιοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.11|<< 2 Chronicles 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.13|2 Chronicles 26:13 >>]]</td></tr></table>
 
@@ -19,6 +64,6 @@ All the number of the rulers of the families of the mighty ones for war -- two t
 | war -- | **<big>[[G4171\|πόλεμον]]</big>** |
 | two thousand | **<big>[[G1367\|δισχίλιοι]]</big>** |
 | six hundred. | **<big>[[G1812\|εξακόσιοι]]</big>** |
-[[2Chr.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.11|<< 2 Chronicles 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.13|2 Chronicles 26:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.11|<< 2 Chronicles 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.13|2 Chronicles 26:13 >>]]</td></tr></table>
 
 

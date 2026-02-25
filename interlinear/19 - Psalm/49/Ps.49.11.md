@@ -1,8 +1,60 @@
+---
+title: Psalm 49:11
+type: Verse
+kjv: "Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names."
+bsb: "Their graves are their eternal homes—their dwellings for endless generations—even though their lands were their namesakes."
+hebrew: "קִרְבָּ֤ם בָּתֵּ֨ימוֹ׀ לְֽעוֹלָ֗ם מִ֭שְׁכְּנֹתָם לְדֹ֣ר וָדֹ֑ר קָֽרְא֥וּ בִ֝שְׁמוֹתָ֗ם עֲלֵ֣י אֲדָמֽוֹת׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7130H]]"
+- "[[H9028]]"
+- "[[H1004B]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H4908]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H7121H]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:11**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their inward thought [is, that] their houses [shall continue] for ever, [and] their dwelling places to all generations; they call [their] lands after their own names.
 <small><sub>**BSB:**</sub></small>
 Their graves are their eternal homes—their dwellings for endless generations—even though their lands were their namesakes.
+<small><sub>**Hebrew:**</sub></small>
+[[H7130H\|קִרְבָּ֤]][[H9028\|ם]] [[H1004B\|בָּתֵּ֨י]][[H9028\|מוֹ]][[H9015\|׀]] [[H9005\|לְֽ]][[H5769G\|עוֹלָ֗ם]] [[H4908\|מִ֭שְׁכְּנֹתָ]][[H9028\|ם]] [[H9005\|לְ]][[H1755\|דֹ֣ר]] [[H9002\|וָ]][[H1755\|דֹ֑ר]] [[H7121H\|קָֽרְא֥וּ]] [[H9003\|בִ֝]][[H8034\|שְׁמוֹתָ֗]][[H9028\|ם]] [[H5921A\|עֲלֵ֣י]] [[H0127G\|אֲדָמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic PRIDE|PRIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.10|<< Psalms 49:10]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.12|Psalms 49:12 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Luke 6:7
+type: Verse
+kjv: "And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him."
+bsb: "Looking for a reason to accuse Jesus, the scribes and Pharisees were watching Him closely to see if He would heal on the Sabbath."
+greek: "παρετηροῦντο δὲ αὐτὸν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ."
+pericope: "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TECHNICALITIES|TECHNICALITIES]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3906]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G2323]]"
+- "[[G2443]]"
+- "[[G2147]]"
+- "[[G2723]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 6:7**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.
 <small><sub>**BSB:**</sub></small>
 Looking for a reason to accuse Jesus, the scribes and Pharisees were watching Him closely to see if He would heal on the Sabbath.
-<small><sub>**Literal:**</sub></small>
-Were closely watching now Him the scribes and the Pharisees whether on the Sabbath He heals that they may find [reason] to accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.6|<< Luke 6:6]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.8|Luke 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3906\|παρετηροῦντο]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4521\|σαββάτῳ]]  [[G2323\|θεραπεύει]]  [[G2443\|ἵνα]]  [[G2147\|εὕρωσιν]]  [[G2723\|κατηγορεῖν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic TECHNICALITIES|TECHNICALITIES]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.6|<< Luke 6:6]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.8|Luke 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

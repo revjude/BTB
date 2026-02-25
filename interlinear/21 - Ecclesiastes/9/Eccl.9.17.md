@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 9:17
+type: Verse
+kjv: "The words of wise men are heard in quiet more than the cry of him that ruleth among fools."
+bsb: "The calm words of the wise are heeded over the shouts of a ruler among fools."
+hebrew: "דִּבְרֵ֣י חֲכָמִ֔ים בְּנַ֖חַת נִשְׁמָעִ֑ים מִזַּעֲקַ֥ת מוֹשֵׁ֖ל בַּכְּסִילִֽים׃"
+pericope: "[[Eccl.9.13 Wisdom Is Better than Strength|Wisdom Is Better than Strength]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1697G]]"
+- "[[H2450]]"
+- "[[H9003]]"
+- "[[H5183A]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H2201]]"
+- "[[H4910]]"
+- "[[H3684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:17**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of wise [men are] heard in quiet more than the cry of him that ruleth among fools.
 <small><sub>**BSB:**</sub></small>
 The calm words of the wise are heeded over the shouts of a ruler among fools.
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּבְרֵ֣י]] [[H2450\|חֲכָמִ֔ים]] [[H9003\|בְּ]][[H5183A\|נַ֖חַת]] [[H8085G\|נִשְׁמָעִ֑ים]] [[H9006\|מִ]][[H2201\|זַּעֲקַ֥ת]] [[H4910\|מוֹשֵׁ֖ל]] [[H9003\|בַּ]][[H3684\|כְּסִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic WAR|WAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 

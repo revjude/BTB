@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 27:10
+type: Verse
+kjv: "And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites."
+bsb: "who would ask him, “What have you raided today?” And David would reply, “The Negev of Judah,” or “The Negev of Jerahmeel,” or “The Negev of the Kenites.”"
+hebrew: "וַיֹּ֣אמֶר אָכִ֔ישׁ אַל־ פְּשַׁטְתֶּ֖ם הַיּ֑וֹם וַיֹּ֣אמֶר דָּוִ֗ד עַל־ נֶ֤גֶב יְהוּדָה֙ וְעַל־ נֶ֣גֶב הַיַּרְחְמְאֵלִ֔י וְאֶל־ נֶ֖גֶב הַקֵּינִֽי׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0397]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6584]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H5045G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3397]]"
+- "[[H7017]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:10**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
 <small><sub>**BSB:**</sub></small>
 who would ask him, “What have you raided today?” And David would reply, “The Negev of Judah,” or “The Negev of Jerahmeel,” or “The Negev of the Kenites.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0397\|אָכִ֔ישׁ]] [[H0413\|אַל]][[H9014\|־]] [[H6584\|פְּשַׁטְתֶּ֖ם]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֗ד]] [[H5921A\|עַל]][[H9014\|־]] [[H5045G\|נֶ֤גֶב]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5045G\|נֶ֣גֶב]] [[H9009\|הַ]][[H3397\|יַּרְחְמְאֵלִ֔י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5045G\|נֶ֖גֶב]] [[H9009\|הַ]][[H7017\|קֵּינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PHILISTINES|PHILISTINES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
 

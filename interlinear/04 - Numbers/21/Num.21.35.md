@@ -1,8 +1,65 @@
+---
+title: Numbers 21:35
+type: Verse
+kjv: "So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land."
+bsb: "So they struck down Og, along with his sons and his whole army, until no remnant was left. And they took possession of his land."
+hebrew: "וַיַּכּ֨וּ אֹת֤וֹ וְאֶת־ בָּנָיו֙ וְאֶת־ כָּל־ עַמּ֔וֹ עַד־ בִּלְתִּ֥י הִשְׁאִֽיר־ ל֖וֹ שָׂרִ֑יד וַיִּֽירְשׁ֖וּ אֶת־ אַרְצֽוֹ׃"
+pericope: "[[Num.21.31 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EDREI|EDREI]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H5704]]"
+- "[[H1115]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H8300]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:35**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land.
 <small><sub>**BSB:**</sub></small>
 So they struck down Og, along with his sons and his whole army, until no remnant was left. And they took possession of his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֨וּ]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H1115\|בִּלְתִּ֥י]] [[H7604\|הִשְׁאִֽיר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8300\|שָׂרִ֑יד]] [[H9001\|וַ]][[H3423H\|יִּֽירְשׁ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDREI|EDREI]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.34|<< Numbers 21:34]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.1|Numbers 22:1 >>]]</td></tr></table>
 

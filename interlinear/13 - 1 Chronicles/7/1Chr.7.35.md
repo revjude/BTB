@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 7:35
+type: Verse
+kjv: "And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal."
+bsb: "The sons of his brother Helem: Zophah, Imna, Shelesh, and Amal."
+hebrew: "וּבֶן־ הֵ֖לֶם אָחִ֑יו צוֹפַ֥ח וְיִמְנָ֖ע וְשֵׁ֥לֶשׁ וְעָמָֽל׃"
+pericope: "[[1Chr.7.30 The Descendants of Asher|The Descendants of Asher]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMAL|AMAL]]"
+- "[[topic HELEM|HELEM]]"
+- "[[topic IMNA|IMNA]]"
+- "[[topic SHELESH|SHELESH]]"
+- "[[topic ZOPHAH|ZOPHAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1987]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H6690]]"
+- "[[H3234]]"
+- "[[H8028]]"
+- "[[H6000]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:35**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.
 <small><sub>**BSB:**</sub></small>
 The sons of his brother Helem: Zophah, Imna, Shelesh, and Amal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H1987\|הֵ֖לֶם]] [[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H6690\|צוֹפַ֥ח]] [[H9002\|וְ]][[H3234\|יִמְנָ֖ע]] [[H9002\|וְ]][[H8028\|שֵׁ֥לֶשׁ]] [[H9002\|וְ]][[H6000\|עָמָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAL|AMAL]] • [[topic HELEM|HELEM]] • [[topic IMNA|IMNA]] • [[topic SHELESH|SHELESH]] • [[topic ZOPHAH|ZOPHAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.34|<< 1 Chronicles 7:34]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.36|1 Chronicles 7:36 >>]]</td></tr></table>
 

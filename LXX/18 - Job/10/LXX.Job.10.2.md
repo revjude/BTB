@@ -1,6 +1,53 @@
+---
+title: LXX Job 10:2
+type: Verse
+lxx: "And I will say to the lord, Teach me not to be impious! and why have you so judged me?"
+greek: "και ερώ προς κύριον μη με ασεβείν δίδασκε και διατί με ούτως έκρινας"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G3361]]"
+- "[[G1473]]"
+- "[[G0764]]"
+- "[[G1321]]"
+- "[[G2532]]"
+- "[[G1302]]"
+- "[[G1473]]"
+- "[[G3779]]"
+- "[[G2919]]"
+---
+
 **LXX Job 10:2** 
 <small><sub>**LXX:**</sub></small>
 And I will say to \[the\] <span class="smallcaps">lord</span>, Teach me not to be impious! and why have you so judged me? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2046\|ερώ]] [[G4314\|προς]] [[G2962\|κύριον]] [[G3361\|μη]] [[G1473\|με]] [[G0764\|ασεβείν]] [[G1321\|δίδασκε]] [[G2532\|και]] [[G1302\|διατί]] [[G1473\|με]] [[G3779\|ούτως]] [[G2919\|έκρινας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic MAN|MAN]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.1|<< Job 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.3|Job 10:3 >>]]</td></tr></table>
 
@@ -19,6 +66,6 @@ And I will say to \[the\] <span class="smallcaps">lord</span>, Teach me not to b
 | me | **<big>[[G1473\|με]]</big>** |
 | have you so | **<big>[[G3779\|ούτως]]</big>** |
 | judged | **<big>[[G2919\|έκρινας]]</big>** |
-[[Job.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.1|<< Job 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.3|Job 10:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.1|<< Job 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.3|Job 10:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 4:31
+type: Verse
+kjv: "(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them."
+bsb: "For the LORD your God is a merciful God; He will not abandon you or destroy you or forget the covenant with your fathers, which He swore to them by oath."
+hebrew: "כִּ֣י אֵ֤ל רַחוּם֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א יַרְפְּךָ֖ וְלֹ֣א יַשְׁחִיתֶ֑ךָ וְלֹ֤א יִשְׁכַּח֙ אֶת־ בְּרִ֣ית אֲבֹתֶ֔יךָ אֲשֶׁ֥ר נִשְׁבַּ֖ע לָהֶֽם׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0410G]]"
+- "[[H7349]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7503]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H7843]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H0001G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:31**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For the LORD thy God [is] a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.
 <small><sub>**BSB:**</sub></small>
 For the LORD your God is a merciful God; He will not abandon you or destroy you or forget the covenant with your fathers, which He swore to them by oath.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0410G\|אֵ֤ל]] [[H7349\|רַחוּם֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H3808\|לֹ֥א]] [[H7503\|יַרְפְּ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7843\|יַשְׁחִיתֶ֑]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7911\|יִשְׁכַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִ֣ית]] [[H0001G\|אֲבֹתֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.30|<< Deuteronomy 4:30]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.32|Deuteronomy 4:32 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mission of John the Baptist
+type: Pericope
 pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Mark.1.1]]"
 - "[[Mark.1.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Mark.1.11]]"
 ---
 
-[[Mark.1|Mark 1:1 - Mark 1:11]]
+<small>[[Mark.1|Mark 1:1-11]]</small>
 *The Mission of John the Baptist*
 
 [[Mark.1.1|1]] The beginning of the gospel of Jesus Christ, the Son of God;

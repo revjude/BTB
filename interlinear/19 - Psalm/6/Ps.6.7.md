@@ -1,8 +1,55 @@
+---
+title: Psalm 6:7
+type: Verse
+kjv: "Mine eye is consumed because of grief; it waxeth old because of all mine enemies."
+bsb: "My eyes fail from grief; they grow dim because of all my foes."
+hebrew: "עָֽשְׁשָׁ֣ה מִכַּ֣עַס עֵינִ֑י עָֽ֝תְקָ֗ה בְּכָל־ צוֹרְרָֽי׃"
+pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 6
+book/chapter: "[[Ps.6|Psalm 6]]"
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H6244]]"
+- "[[H9006]]"
+- "[[H3708A]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H6275]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6887D]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 6:7**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye is consumed because of grief; it waxeth old because of all mine enemies.
 <small><sub>**BSB:**</sub></small>
 My eyes fail from grief; they grow dim because of all my foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H6244\|עָֽשְׁשָׁ֣ה]] [[H9006\|מִ]][[H3708A\|כַּ֣עַס]] [[H5869A\|עֵינִ֑]][[H9020\|י]] [[H6275\|עָֽ֝תְקָ֗ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6887D\|צוֹרְרָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.6|<< Psalms 6:6]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.8|Psalms 6:8 >>]]</td></tr></table>
 

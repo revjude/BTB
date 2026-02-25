@@ -1,8 +1,70 @@
+---
+title: Judges 4:18
+type: Verse
+kjv: "And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle."
+bsb: "Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket."
+hebrew: "וַתֵּצֵ֣א יָעֵל֮ לִקְרַ֣את סִֽיסְרָא֒ וַתֹּ֣אמֶר אֵלָ֗יו סוּרָ֧ה אֲדֹנִ֛י סוּרָ֥ה אֵלַ֖י אַל־ תִּירָ֑א וַיָּ֤סַר אֵלֶ֙יהָ֙ הָאֹ֔הֱלָה וַתְּכַסֵּ֖הוּ בַּשְּׂמִיכָֽה׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3278]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H5516G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5493I]]"
+- "[[H9012]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9030]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9011]]"
+- "[[H3680]]"
+- "[[H9003]]"
+- "[[H8063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:18**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.
 <small><sub>**BSB:**</sub></small>
 Jael went out to greet Sisera and said to him, “Come in, my lord. Come in with me. Do not be afraid.” So he entered her tent, and she covered him with a blanket.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|תֵּצֵ֣א]] [[H3278\|יָעֵל֮]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H5516G\|סִֽיסְרָא֒]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5493I\|סוּרָ֧]][[H9012\|ה]] [[H0113\|אֲדֹנִ֛]][[H9020\|י]] [[H5493I\|סוּרָ֥]][[H9012\|ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֑א]] [[H9001\|וַ]][[H5493I\|יָּ֤סַר]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H9009\|הָ]][[H0168G\|אֹ֔הֱלָ]][[H9011\|ה]] [[H9001\|וַ]][[H3680\|תְּכַסֵּ֖]][[H9033\|הוּ]] [[H9003\|בַּ]][[H8063\|שְּׂמִיכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.19|Judges 4:19 >>]]</td></tr></table>
 

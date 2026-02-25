@@ -1,8 +1,55 @@
+---
+title: Psalm 80:5
+type: Verse
+kjv: "Thou feedest them with the bread of tears; and givest them tears to drink in great measure."
+bsb: "You fed them with the bread of tears and made them drink the full measure of their tears."
+hebrew: "הֶ֭אֱכַלְתָּם לֶ֣חֶם דִּמְעָ֑ה וַ֝תַּשְׁקֵ֗מוֹ בִּדְמָע֥וֹת שָׁלִֽישׁ׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEARS|TEARS]]"
+strongs:
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H3899H]]"
+- "[[H1832]]"
+- "[[H9001]]"
+- "[[H8248H]]"
+- "[[H9003]]"
+- "[[H7991A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:5**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou feedest them with the bread of tears; and givest them tears to drink in great measure.
 <small><sub>**BSB:**</sub></small>
 You fed them with the bread of tears and made them drink the full measure of their tears.
+<small><sub>**Hebrew:**</sub></small>
+[[H0398\|הֶ֭אֱכַלְתָּ]][[H9038\|ם]] [[H3899H\|לֶ֣חֶם]] [[H1832\|דִּמְעָ֑ה]] [[H9001\|וַ֝]][[H8248H\|תַּשְׁקֵ֗]][[H9038\|מוֹ]] [[H9003\|בִּ]][[H1832\|דְמָע֥וֹת]] [[H7991A\|שָׁלִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic TEARS|TEARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.4|<< Psalms 80:4]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.6|Psalms 80:6 >>]]</td></tr></table>
 

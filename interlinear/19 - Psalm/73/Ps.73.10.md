@@ -1,8 +1,65 @@
+---
+title: Psalm 73:10
+type: Verse
+kjv: "Therefore his people return hither: and waters of a full cup are wrung out to them."
+bsb: "So their people return to this place and drink up waters in abundance."
+hebrew: "לָכֵ֤ן׀ יָשׁ֣וּב עַמּ֣וֹ הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽמוֹ׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H7725G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H1988]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H4392]]"
+- "[[H4680]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 73:10**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore his people return hither: and waters of a full [cup] are wrung out to them.
 <small><sub>**BSB:**</sub></small>
 So their people return to this place and drink up waters in abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֤ן]][[H9015\|׀]] [[H7725G\|יָשׁ֣וּב]] [[H5971A\|עַמּ֣]][[H9023\|וֹ]] [[H1988\|הֲלֹ֑ם]] [[H9002\|וּ]][[H4325G\|מֵ֥י]] [[H4392\|מָ֝לֵ֗א]] [[H4680\|יִמָּ֥צוּ]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.9|<< Psalms 73:9]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.11|Psalms 73:11 >>]]</td></tr></table>
 

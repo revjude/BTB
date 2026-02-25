@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 19:2
+type: Verse
+kjv: "And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him."
+bsb: "And David said, “I will show kindness to Hanun son of Nahash, because his father showed kindness to me.” So David sent messengers to console Hanun concerning his father. But when David’s servants arrived in the land of the Ammonites to console him,"
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜יד אֶֽעֱשֶׂה־ חֶ֣סֶד׀ עִם־ חָנ֣וּן בֶּן־ נָחָ֗שׁ כִּֽי־ עָשָׂ֨ה אָבִ֤יו עִמִּי֙ חֶ֔סֶד וַיִּשְׁלַ֥ח דָּוִ֛יד מַלְאָכִ֖ים לְנַחֲמ֣וֹ עַל־ אָבִ֑יו וַיָּבֹאוּ֩ עַבְדֵ֨י דָוִ֜יד אֶל־ אֶ֧רֶץ בְּנֵי־ עַמּ֛וֹן אֶל־ חָנ֖וּן לְנַחֲמֽוֹ׃"
+pericope: "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H9015]]"
+- "[[H5973A]]"
+- "[[H2586G]]"
+- "[[H1121A]]"
+- "[[H5176H]]"
+- "[[H3588A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9030]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H0935G]]"
+- "[[H5650]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:2**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him.
 <small><sub>**BSB:**</sub></small>
 And David said, “I will show kindness to Hanun son of Nahash, because his father showed kindness to me.” So David sent messengers to console Hanun concerning his father. But when David’s servants arrived in the land of the Ammonites to console him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜יד]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H2617A\|חֶ֣סֶד]][[H9015\|׀]] [[H5973A\|עִם]][[H9014\|־]] [[H2586G\|חָנ֣וּן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5176H\|נָחָ֗שׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|עָשָׂ֨ה]] [[H0001G\|אָבִ֤י]][[H9023\|ו]] [[H5973A\|עִמִּ]][[H9030\|י֙]] [[H2617A\|חֶ֔סֶד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H1732\|דָּוִ֛יד]] [[H4397G\|מַלְאָכִ֖ים]] [[H9005\|לְ]][[H5162G\|נַחֲמ֣]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹאוּ֩]] [[H5650\|עַבְדֵ֨י]] [[H1732\|דָוִ֜יד]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֧רֶץ]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5983\|עַמּ֛וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H2586G\|חָנ֖וּן]] [[H9005\|לְ]][[H5162G\|נַחֲמֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic NAHASH|NAHASH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.1|<< 1 Chronicles 19:1]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.3|1 Chronicles 19:3 >>]]</td></tr></table>
 

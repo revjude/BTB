@@ -1,8 +1,65 @@
+---
+title: Daniel 4:10
+type: Verse
+kjv: "Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof was great."
+bsb: "In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great."
+aramaic: "וְחֶזְוֵ֥י רֵאשִׁ֖י עַֽל־ מִשְׁכְּבִ֑י חָזֵ֣ה הֲוֵ֔ית וַאֲל֥וּ אִילָ֛ן בְּג֥וֹא אַרְעָ֖א וְרוּמֵ֥הּ שַׂגִּֽיא׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2376]]"
+- "[[H7217]]"
+- "[[H9020]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4903]]"
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H0431]]"
+- "[[H0363]]"
+- "[[H9003]]"
+- "[[H1459]]"
+- "[[H0772I]]"
+- "[[H9010]]"
+- "[[H7314]]"
+- "[[H9023]]"
+- "[[H7690]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:10**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus [were] the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof [was] great.
 <small><sub>**BSB:**</sub></small>
 In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H2376\|חֶזְוֵ֥י]] [[H7217\|רֵאשִׁ֖]][[H9020\|י]] [[H5922\|עַֽל]][[H9014\|־]] [[H4903\|מִשְׁכְּבִ֑]][[H9020\|י]] [[H2370\|חָזֵ֣ה]] [[H1934\|הֲוֵ֔ית]] [[H9002\|וַ]][[H0431\|אֲל֥וּ]] [[H0363\|אִילָ֛ן]] [[H9003\|בְּ]][[H1459\|ג֥וֹא]] [[H0772I\|אַרְעָ֖]][[H9010\|א]] [[H9002\|וְ]][[H7314\|רוּמֵ֥]][[H9023\|הּ]] [[H7690\|שַׂגִּֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TREE|TREE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.9|<< Daniel 4:9]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.11|Daniel 4:11 >>]]</td></tr></table>
 

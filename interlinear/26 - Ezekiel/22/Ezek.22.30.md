@@ -1,8 +1,71 @@
+---
+title: Ezekiel 22:30
+type: Verse
+kjv: "And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none."
+bsb: "I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one."
+hebrew: "וָאֲבַקֵּ֣שׁ מֵהֶ֡ם אִ֣ישׁ גֹּֽדֵר־ גָּדֵר֩ וְעֹמֵ֨ד בַּפֶּ֧רֶץ לְפָנַ֛י בְּעַ֥ד הָאָ֖רֶץ לְבִלְתִּ֣י שַׁחֲתָ֑הּ וְלֹ֖א מָצָֽאתִי׃"
+pericope: "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CRIME|CRIME]]"
+- "[[topic FENCE|FENCE]]"
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H1443]]"
+- "[[H9014]]"
+- "[[H1447]]"
+- "[[H9002]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H6556]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1115]]"
+- "[[H7843]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:30**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
 <small><sub>**BSB:**</sub></small>
 I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1245\|אֲבַקֵּ֣שׁ]] [[H9006\|מֵ]][[H9038\|הֶ֡ם]] [[H0376G\|אִ֣ישׁ]] [[H1443\|גֹּֽדֵר]][[H9014\|־]] [[H1447\|גָּדֵר֩]] [[H9002\|וְ]][[H5975G\|עֹמֵ֨ד]] [[H9003\|בַּ]][[H6556\|פֶּ֧רֶץ]] [[H9005\|לְ]][[H6440G\|פָנַ֛]][[H9020\|י]] [[H1157\|בְּעַ֥ד]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֣י]] [[H7843\|שַׁחֲתָ֑]][[H9034\|הּ]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H4672\|מָצָֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIME|CRIME]] • [[topic FENCE|FENCE]] • [[topic HEDGE|HEDGE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.29|<< Ezekiel 22:29]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.31|Ezekiel 22:31 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Luke 20:5
+type: Verse
+kjv: "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?"
+bsb: "They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’"
+greek: "οἱ δὲ συνελογίσαντο πρὸς ἑαυτοὺς λέγοντες ὅτι ἐὰν εἴπωμεν· ἐξ οὐρανοῦ, ἐρεῖ· διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ;"
+pericope: "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4817]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G4483]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 20:5**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
 <small><sub>**BSB:**</sub></small>
 They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’
-<small><sub>**Literal:**</sub></small>
-<the> And they reasoned among themselves saying that If we shall say: From heaven, He will say; Because of why therefore not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.4|<< Luke 20:4]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.6|Luke 20:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4817\|συνελογίσαντο]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτοὺς]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπωμεν·]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ,]]  [[G4483\|ἐρεῖ·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπιστεύσατε]]  [[G0846\|αὐτῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic REASONING|REASONING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.4|<< Luke 20:4]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.6|Luke 20:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

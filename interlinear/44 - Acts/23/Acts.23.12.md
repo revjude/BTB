@@ -1,10 +1,64 @@
+---
+title: Acts 23:12
+type: Verse
+kjv: "And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul."
+bsb: "When daylight came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul."
+greek: "Γενομένης δὲ ἡμέρας ποιήσαντες συστροφὴν οἱ Ἰουδαῖοι ἀνεθεμάτισαν ἑαυτοὺς λέγοντες μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀποκτείνωσιν τὸν Παῦλον."
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G4160G]]"
+- "[[G4963]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G0332]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G3383]]"
+- "[[G5315]]"
+- "[[G4095]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0615]]"
+- "[[G3972G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 23:12**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
 <small><sub>**BSB:**</sub></small>
 When daylight came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul.
-<small><sub>**Literal:**</sub></small>
-When it was becoming then day having made a conspiracy the Jews put under an oath themselves declaring neither to eat nor to drink until that they may kill <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.11|<< Acts 23:11]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.13|Acts 23:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Γενομένης]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρας]]  [[G4160G\|ποιήσαντες]]  [[G4963\|συστροφὴν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G0332\|ἀνεθεμάτισαν]]  [[G1438\|ἑαυτοὺς]]  [[G3004G\|λέγοντες]]  [[G3383\|μήτε]]  [[G5315\|φαγεῖν]]  [[G3383\|μήτε]]  [[G4095\|πιεῖν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0615\|ἀποκτείνωσιν]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OATH|OATH]] • [[topic PAUL|PAUL]] • [[topic REVENGE|REVENGE]] • [[topic VOWS|VOWS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.11|<< Acts 23:11]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.13|Acts 23:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

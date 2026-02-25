@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 5:9
+type: Verse
+kjv: "Wherefore we labour, that, whether present or absent, we may be accepted of him."
+bsb: "So we aspire to please Him, whether we are at home in this body or away from it."
+greek: "διὸ καὶ φιλοτιμούμεθα, εἴτε ἐνδημοῦντες εἴτε ἐκδημοῦντες, εὐάρεστοι αὐτῷ εἶναι·"
+pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MAN|MAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G2532]]"
+- "[[G5389]]"
+- "[[G1535]]"
+- "[[G1736]]"
+- "[[G1553]]"
+- "[[G2101]]"
+- "[[G0846]]"
+- "[[G1511]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 5:9**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore we labour, that, whether present or absent, we may be accepted of him.
 <small><sub>**BSB:**</sub></small>
 So we aspire to please Him, whether we are at home in this body or away from it.
-<small><sub>**Literal:**</sub></small>
-Therefore also we are ambitious, whether being at home or being away, well-pleasing to Him to be;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.8|<< 2 Corinthians 5:8]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.10|2 Corinthians 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G2532\|καὶ]]  [[G5389\|φιλοτιμούμεθα,]]  [[G1535\|εἴτε]]  [[G1736\|ἐνδημοῦντες]]  [[G1535\|εἴτε]]  [[G1553\|ἐκδημοῦντες,]]  [[G2101\|εὐάρεστοι]]  [[G0846\|αὐτῷ]]  [[G1511\|εἶναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAN|MAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.8|<< 2 Corinthians 5:8]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.10|2 Corinthians 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

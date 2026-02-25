@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 16:2
+type: Verse
+kjv: "Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there."
+bsb: "You are to offer to the LORD your God the Passover sacrifice from the herd or flock in the place the LORD will choose as a dwelling for His Name."
+hebrew: "וְזָבַ֥חְתָּ פֶּ֛סַח לַיהוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר בַּמָּקוֹם֙ אֲשֶׁר־ יִבְחַ֣ר יְהוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃"
+pericope: "[[Deut.16.1 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0977]]"
+- "[[H7931]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:2**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
 <small><sub>**BSB:**</sub></small>
 You are to offer to the LORD your God the Passover sacrifice from the herd or flock in the place the LORD will choose as a dwelling for His Name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2076\|זָבַ֥חְתָּ]] [[H6453\|פֶּ֛סַח]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֑ר]] [[H9003\|בַּ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0977\|יִבְחַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H7931\|שַׁכֵּ֥ן]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.1|<< Deuteronomy 16:1]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.3|Deuteronomy 16:3 >>]]</td></tr></table>
 

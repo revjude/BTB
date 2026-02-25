@@ -1,10 +1,72 @@
+---
+title: 2 Corinthians 4:6
+type: Verse
+kjv: "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+bsb: "For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ."
+greek: "ὅτι ὁ θεὸς ὁ εἰπὼν ἐκ σκότους φῶς λάμψει, ὃς ἔλαμψεν ἐν ταῖς καρδίαις ἡμῶν πρὸς φωτισμὸν τῆς γνώσεως τῆς δόξης τοῦ θεοῦ ἐν προσώπῳ Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[2Cor.4.1 The Light of the Gospel|The Light of the Gospel]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic TREASURE|TREASURE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G4655]]"
+- "[[G5457]]"
+- "[[G2989]]"
+- "[[G3739]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G3165]]"
+- "[[G4314]]"
+- "[[G5462]]"
+- "[[G1108]]"
+- "[[G1391]]"
+- "[[G4383]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 4:6**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God, who commanded the light to shine out of darkness, hath shined in our hearts, to [give] the light of the knowledge of the glory of God in the face of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-For [it is] <the> God <the> having said Out of darkness light will shine, who shone in the hearts of us for [the] radiance of the knowledge of the glory <the> of God in [the] face of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.5|<< 2 Corinthians 4:5]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.7|2 Corinthians 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G2036\|εἰπὼν]]  [[G1537\|ἐκ]]  [[G4655\|σκότους]]  [[G5457\|φῶς]]  [[G2989\|λάμψει,]]  [[G3739\|ὃς]]  [[G2989\|ἔλαμψεν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G3165\|ἡμῶν]]  [[G4314\|πρὸς]]  [[G5462\|φωτισμὸν]]  [[G3588\|τῆς]]  [[G1108\|γνώσεως]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G4383\|προσώπῳ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DARKNESS|DARKNESS]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic MAN|MAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REGENERATION|REGENERATION]] • [[topic TREASURE|TREASURE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.5|<< 2 Corinthians 4:5]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.7|2 Corinthians 4:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 4:6** is...
 > $\quad$ referencing: [[LXX.Gen.1.3|Gen 1:3-4]]

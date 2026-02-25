@@ -1,8 +1,53 @@
+---
+title: Obadiah 1:19
+type: Verse
+kjv: "And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead."
+bsb: "Those from the Negev will possess the mountains of Esau; those from the foothills will possess the land of the Philistines. They will occupy the fields of Ephraim and Samaria, and Benjamin will possess Gilead."
+hebrew: "וְיָרְשׁ֨וּ הַנֶּ֜גֶב אֶת־ הַ֣ר עֵשָׂ֗ו וְהַשְּׁפֵלָה֙ אֶת־ פְּלִשְׁתִּ֔ים וְיָרְשׁוּ֙ אֶת־ שְׂדֵ֣ה אֶפְרַ֔יִם וְאֵ֖ת שְׂדֵ֣ה שֹׁמְר֑וֹן וּבִנְיָמִ֖ן אֶת־ הַגִּלְעָֽד׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9009]]"
+- "[[H5045G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H6215I]]"
+- "[[H9002]]"
+- "[[H8219]]"
+- "[[H6430G]]"
+- "[[H7704G]]"
+- "[[H0669G]]"
+- "[[H8111]]"
+- "[[H1144G]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:19**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they of] the south shall possess the mount of Esau; and [they of] the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin [shall possess] Gilead.
 <small><sub>**BSB:**</sub></small>
 Those from the Negev will possess the mountains of Esau; those from the foothills will possess the land of the Philistines. They will occupy the fields of Ephraim and Samaria, and Benjamin will possess Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3423H\|יָרְשׁ֨וּ]] [[H9009\|הַ]][[H5045G\|נֶּ֜גֶב]] [[H0853\|אֶת]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H6215I\|עֵשָׂ֗ו]] [[H9002\|וְ]][[H9009\|הַ]][[H8219\|שְּׁפֵלָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וְ]][[H3423H\|יָרְשׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שְׂדֵ֣ה]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H7704G\|שְׂדֵ֣ה]] [[H8111\|שֹׁמְר֑וֹן]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.18|<< Obadiah 1:18]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.20|Obadiah 1:20 >>]]</td></tr></table>
 

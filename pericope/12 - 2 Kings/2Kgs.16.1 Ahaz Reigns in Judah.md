@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahaz Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 16
 book/chapter: "[[2Kgs.16|2 Kings 16]]"
-genre:
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[2Kgs.16.1]]"
 - "[[2Kgs.16.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Kgs.16.9]]"
 ---
 
-[[2Kgs.16|2 Kings 16:1 - 2 Kings 16:9]]
+<small>[[2Kgs.16|2 Kings 16:1-9]]</small>
 *Ahaz Reigns in Judah*
 
 [[2Kgs.16.1|1]] In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.

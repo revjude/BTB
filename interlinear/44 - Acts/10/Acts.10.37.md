@@ -1,10 +1,58 @@
+---
+title: Acts 10:37
+type: Verse
+kjv: "That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;"
+bsb: "You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed:"
+greek: "ὑμεῖς οἴδατε τὸ γενόμενον ῥῆμα καθ᾽ ὅλης τῆς Ἰουδαίας, ἀρξάμενος ἀπὸ τῆς Γαλιλαίας μετὰ τὸ βάπτισμα ὃ ἐκήρυξεν Ἰωάννης,"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G4487]]"
+- "[[G2596]]"
+- "[[G3650]]"
+- "[[G2449]]"
+- "[[G0757]]"
+- "[[G0575]]"
+- "[[G1056G]]"
+- "[[G3326]]"
+- "[[G0908]]"
+- "[[G3739]]"
+- "[[G2784]]"
+- "[[G2491G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 10:37**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That word, [I say], ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;
 <small><sub>**BSB:**</sub></small>
 You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed:
-<small><sub>**Literal:**</sub></small>
-You yourselves know the having come declaration through all <the> Judea, having begun from <the> Galilee after the baptism that proclaimed John:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.36|<< Acts 10:36]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.38|Acts 10:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G6063\|οἴδατε]]  [[G3588\|τὸ]]  [[G1096\|γενόμενον]]  [[G4487\|ῥῆμα]]  [[G2596\|καθ᾽]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας,]]  [[G0757\|ἀρξάμενος]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G3739\|ὃ]]  [[G2784\|ἐκήρυξεν]]  [[G2491G\|Ἰωάννης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.36|<< Acts 10:36]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.38|Acts 10:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Zechariah 2:2
+type: Verse
+kjv: "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof."
+bsb: "“Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”"
+hebrew: "וָאֹמַ֕ר אָ֖נָה אַתָּ֣ה הֹלֵ֑ךְ וַיֹּ֣אמֶר אֵלַ֗י לָמֹד֙ אֶת־ יְר֣וּשָׁלִַ֔ם לִרְא֥וֹת כַּמָּֽה־ רָחְבָּ֖הּ וְכַמָּ֥ה אָרְכָּֽהּ׃"
+pericope: "[[Zech.2.1 The Vision of the Measuring Line|The Vision of the Measuring Line]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0575]]"
+- "[[H0859A]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H7200G]]"
+- "[[H9004]]"
+- "[[H4100]]"
+- "[[H7341]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0753]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 2:2**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what [is] the breadth thereof, and what [is] the length thereof.
 <small><sub>**BSB:**</sub></small>
 “Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H0575\|אָ֖נָה]] [[H0859A\|אַתָּ֣ה]] [[H1980G\|הֹלֵ֑ךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H9005\|לָ]][[H4058\|מֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H9004\|כַּ]][[H4100\|מָּֽה]][[H9014\|־]] [[H7341\|רָחְבָּ֖]][[H9024\|הּ]] [[H9002\|וְ]][[H9004\|כַ]][[H4100\|מָּ֥ה]] [[H0753\|אָרְכָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.1|<< Zechariah 2:1]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.3|Zechariah 2:3 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: John 4:9
+type: Verse
+kjv: "Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans."
+bsb: "“You are a Jew,” said the woman. “How can You ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.)"
+greek: "λέγει οὖν αὐτῷ ἡ γυνὴ ἡ Σαμαρῖτις· πῶς σὺ Ἰουδαῖος ὢν παρ᾽ ἐμοῦ πεῖν αἰτεῖς γυναικὸς Σαμαρίτιδος οὔσης; οὐ γὰρ συγχρῶνται Ἰουδαῖοι Σαμαρίταις.¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G4542]]"
+- "[[G4459]]"
+- "[[G4771]]"
+- "[[G2453]]"
+- "[[G1510]]"
+- "[[G3844]]"
+- "[[G1473]]"
+- "[[G4095]]"
+- "[[G0154]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G4798]]"
+- "[[G4541]]"
+texts:
+- NKO
+---
+
 **John 4:9**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 <small><sub>**BSB:**</sub></small>
 “You are a Jew,” said the woman. “How can You ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.)
-<small><sub>**Literal:**</sub></small>
-Says therefore to Him the woman <the> Samaritan; How You yourself a Jew being from me to drink you do ask a woman Samaritan being? Not for have association Jews with Samaritans.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.8|<< John 4:8]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.10|John 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G3588\|ἡ]]  [[G4542\|Σαμαρῖτις·]]  [[G4459\|πῶς]]  [[G4771\|σὺ]]  [[G2453\|Ἰουδαῖος]]  [[G1510\|ὢν]]  [[G3844\|παρ᾽]]  [[G1473\|ἐμοῦ]]  [[G4095\|πεῖν]]  [[G0154\|αἰτεῖς]]  [[G1135G\|γυναικὸς]]  [[G4542\|Σαμαρίτιδος]]  [[G1510\|οὔσης;]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G4798\|συγχρῶνται]]  [[G2453\|Ἰουδαῖοι]]  [[G4541\|Σαμαρίταις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.8|<< John 4:8]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.10|John 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

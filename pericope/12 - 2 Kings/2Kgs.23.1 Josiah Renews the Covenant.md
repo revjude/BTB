@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Renews the Covenant
+type: Pericope
 pericope: "[[2Kgs.23.1 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 23
 book/chapter: "[[2Kgs.23|2 Kings 23]]"
-genre:
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 3
 verses:
 - "[[2Kgs.23.1]]"
 - "[[2Kgs.23.2]]"
 - "[[2Kgs.23.3]]"
 ---
 
-[[2Kgs.23|2 Kings 23:1 - 2 Kings 23:3]]
+<small>[[2Kgs.23|2 Kings 23:1-3]]</small>
 *Josiah Renews the Covenant*
 
 [[2Kgs.23.1|1]] And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.

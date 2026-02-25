@@ -1,8 +1,67 @@
+---
+title: Numbers 16:37
+type: Verse
+kjv: "Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed."
+bsb: "“Tell Eleazar son of Aaron the priest to remove the censers from the flames and to scatter the coals far away, because the censers are holy."
+hebrew: "אֱמֹ֨ר אֶל־ אֶלְעָזָ֜ר בֶּן־ אַהֲרֹ֣ן הַכֹּהֵ֗ן וְיָרֵ֤ם אֶת־ הַמַּחְתֹּת֙ מִבֵּ֣ין הַשְּׂרֵפָ֔ה וְאֶת־ הָאֵ֖שׁ זְרֵה־ הָ֑לְאָה כִּ֖י קָדֵֽשׁוּ׃"
+pericope: "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H0853]]"
+- "[[H4289]]"
+- "[[H9006]]"
+- "[[H0996G]]"
+- "[[H8316]]"
+- "[[H0784]]"
+- "[[H2219]]"
+- "[[H1973]]"
+- "[[H3588A]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:37**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed.
 <small><sub>**BSB:**</sub></small>
 “Tell Eleazar son of Aaron the priest to remove the censers from the flames and to scatter the coals far away, because the censers are holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֜ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0175\|אַהֲרֹ֣ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H7311A\|יָרֵ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4289\|מַּחְתֹּת֙]] [[H9006\|מִ]][[H0996G\|בֵּ֣ין]] [[H9009\|הַ]][[H8316\|שְּׂרֵפָ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֖שׁ]] [[H2219\|זְרֵה]][[H9014\|־]] [[H1973\|הָ֑לְאָה]] [[H3588A\|כִּ֖י]] [[H6942G\|קָדֵֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CENSER|CENSER]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.36|<< Numbers 16:36]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.38|Numbers 16:38 >>]]</td></tr></table>
 

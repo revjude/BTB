@@ -1,8 +1,70 @@
+---
+title: Exodus 35:31
+type: Verse
+kjv: "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;"
+bsb: "And He has filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship,"
+hebrew: "וַיְמַלֵּ֥א אֹת֖וֹ ר֣וּחַ אֱלֹהִ֑ים בְּחָכְמָ֛ה בִּתְבוּנָ֥ה וּבְדַ֖עַת וּבְכָל־ מְלָאכָֽה׃"
+pericope: "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H8394]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:31**<big><big>[[Exod.35.30 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;
 <small><sub>**BSB:**</sub></small>
 And He has filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4390\|יְמַלֵּ֥א]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H7307G\|ר֣וּחַ]] [[H0430G\|אֱלֹהִ֑ים]] [[H9003\|בְּ]][[H2451\|חָכְמָ֛ה]] [[H9003\|בִּ]][[H8394\|תְבוּנָ֥ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1847\|דַ֖עַת]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BEZALEL|BEZALEL]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic GENIUS|GENIUS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic PROPHETS|PROPHETS]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.30|<< Exodus 35:30]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.32|Exodus 35:32 >>]]</td></tr></table>
 

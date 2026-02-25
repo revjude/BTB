@@ -1,8 +1,61 @@
+---
+title: Psalm 138:8
+type: Verse
+kjv: "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands."
+bsb: "The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures forever—do not abandon the works of Your hands."
+hebrew: "יְהוָה֮ יִגְמֹ֪ר בַּ֫עֲדִ֥י יְ֭הוָה חַסְדְּךָ֣ לְעוֹלָ֑ם מַעֲשֵׂ֖י יָדֶ֣יךָ אַל־ תֶּֽרֶף׃"
+pericope: "[[Ps.138.1 A Thankful Heart|A Thankful Heart]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 138
+book/chapter: "[[Ps.138|Psalm 138]]"
+chronological_order: 385
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[H3068G]]"
+- "[[H1584]]"
+- "[[H1157]]"
+- "[[H9030]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7503]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 138:8**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will perfect [that which] concerneth me: thy mercy, O LORD, [endureth] for ever: forsake not the works of thine own hands.
 <small><sub>**BSB:**</sub></small>
 The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures forever—do not abandon the works of Your hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֮]] [[H1584\|יִגְמֹ֪ר]] [[H1157\|בַּ֫עֲדִ֥]][[H9030\|י]] [[H3068G\|יְ֭הוָה]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H4639G\|מַעֲשֵׂ֖י]] [[H3027G\|יָדֶ֣י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H7503\|תֶּֽרֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic MAN|MAN]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.7|<< Psalms 138:7]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.0|Psalms 139:0 >>]]</td></tr></table>
 

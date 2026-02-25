@@ -1,8 +1,77 @@
+---
+title: Jeremiah 3:8
+type: Verse
+kjv: "And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also."
+bsb: "She saw that because faithless Israel had committed adultery, I gave her a certificate of divorce and sent her away. Yet that unfaithful sister Judah had no fear and prostituted herself as well."
+hebrew: "וָאֵ֗רֶא כִּ֤י עַל־ כָּל־ אֹדוֹת֙ אֲשֶׁ֤ר נִֽאֲפָה֙ מְשֻׁבָ֣ה יִשְׂרָאֵ֔ל שִׁלַּחְתִּ֕יהָ וָאֶתֵּ֛ן אֶת־ סֵ֥פֶר כְּרִיתֻתֶ֖יהָ אֵלֶ֑יהָ וְלֹ֨א יָֽרְאָ֜ה בֹּֽגֵדָ֤ה יְהוּדָה֙ אֲחוֹתָ֔הּ וַתֵּ֖לֶךְ וַתִּ֥זֶן גַּם־ הִֽיא׃"
+pericope: "[[Jer.3.6 Judah Follows Israel’s Example|Judah Follows Israel’s Example]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0182]]"
+- "[[H0834A]]"
+- "[[H5003]]"
+- "[[H4878]]"
+- "[[H3478]]"
+- "[[H7971I]]"
+- "[[H9034]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H5612A]]"
+- "[[H3748]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H0898]]"
+- "[[H3063G]]"
+- "[[H0269]]"
+- "[[H1980G]]"
+- "[[H2181]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:8**<big><big>[[Jer.3.6 Judah Follows Israel’s Example|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also.
 <small><sub>**BSB:**</sub></small>
 She saw that because faithless Israel had committed adultery, I gave her a certificate of divorce and sent her away. Yet that unfaithful sister Judah had no fear and prostituted herself as well.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֗רֶא]] [[H3588A\|כִּ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0182\|אֹדוֹת֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H5003\|נִֽאֲפָה֙]] [[H4878\|מְשֻׁבָ֣ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7971I\|שִׁלַּחְתִּ֕י]][[H9034\|הָ]] [[H9001\|וָ]][[H5414G\|אֶתֵּ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H5612A\|סֵ֥פֶר]] [[H3748\|כְּרִיתֻתֶ֖י]][[H9024\|הָ]] [[H0413\|אֵלֶ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H3372G\|יָֽרְאָ֜ה]] [[H0898\|בֹּֽגֵדָ֤ה]] [[H3063G\|יְהוּדָה֙]] [[H0269\|אֲחוֹתָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H1980G\|תֵּ֖לֶךְ]] [[H9001\|וַ]][[H2181\|תִּ֥זֶן]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DIVORCE|DIVORCE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.7|<< Jeremiah 3:7]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.9|Jeremiah 3:9 >>]]</td></tr></table>
 

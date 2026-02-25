@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 14:44
+type: Verse
+kjv: "And Saul answered, God do so and more also: for thou shalt surely die, Jonathan."
+bsb: "And Saul declared, “May God punish me, and ever so severely, if you, Jonathan, do not surely die!”"
+hebrew: "וַיֹּ֣אמֶר שָׁא֔וּל כֹּֽה־ יַעֲשֶׂ֥ה אֱלֹהִ֖ים וְכֹ֣ה יוֹסִ֑ף כִּֽי־ מ֥וֹת תָּמ֖וּת יוֹנָתָֽן׃"
+pericope: "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H3129N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:44**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul answered, God do so and more also: for thou shalt surely die, Jonathan.
 <small><sub>**BSB:**</sub></small>
 And Saul declared, “May God punish me, and ever so severely, if you, Jonathan, do not surely die!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7586G\|שָׁא֔וּל]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יוֹסִ֑ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4191\|מ֥וֹת]] [[H4191\|תָּמ֖וּת]] [[H3129N\|יוֹנָתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JONATHAN|JONATHAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.43|<< 1 Samuel 14:43]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.45|1 Samuel 14:45 >>]]</td></tr></table>
 

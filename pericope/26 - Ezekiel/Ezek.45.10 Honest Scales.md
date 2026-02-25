@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Honest Scales
+type: Pericope
 pericope: "[[Ezek.45.10 Honest Scales|Honest Scales]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 45
 book/chapter: "[[Ezek.45|Ezekiel 45]]"
-genre:
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.45.10]]"
 - "[[Ezek.45.11]]"
 - "[[Ezek.45.12]]"
 ---
 
-[[Ezek.45|Ezekiel 45:10 - Ezekiel 45:12]]
+<small>[[Ezek.45|Ezekiel 45:10-12]]</small>
 *Honest Scales*
 
 [[Ezek.45.10|10]] Ye shall have just balances, and a just ephah, and a just bath.

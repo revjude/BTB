@@ -1,8 +1,80 @@
+---
+title: Jeremiah 41:9
+type: Verse
+kjv: "Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, was it which Asa the king had made for fear of Baasha king of Israel: and Ishmael the son of Nethaniah filled it with them that were slain."
+bsb: "Now the cistern into which Ishmael had thrown all the bodies of the men he had struck down along with Gedaliah was a large one that King Asa had made for fear of Baasha king of Israel. Ishmael son of Nethaniah filled it with the slain."
+hebrew: "וְהַבּ֗וֹר אֲשֶׁר֩ הִשְׁלִ֨יךְ שָׁ֤ם יִשְׁמָעֵאל֙ אֵ֣ת׀ כָּל־ פִּגְרֵ֣י הָאֲנָשִׁ֗ים אֲשֶׁ֤ר הִכָּה֙ בְּיַד־ גְּדַלְיָ֔הוּ ה֗וּא אֲשֶׁ֤ר עָשָׂה֙ הַמֶּ֣לֶךְ אָסָ֔א מִפְּנֵ֖י בַּעְשָׁ֣א מֶֽלֶךְ־ יִשְׂרָאֵ֑ל אֹת֗וֹ מִלֵּ֛א יִשְׁמָעֵ֥אל בֶּן־ נְתַנְיָ֖הוּ חֲלָלִֽים׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H0834A]]"
+- "[[H7993]]"
+- "[[H8033G]]"
+- "[[H3458H]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6297]]"
+- "[[H0582]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H1436B]]"
+- "[[H1931]]"
+- "[[H6213H]]"
+- "[[H4428G]]"
+- "[[H0609G]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1201]]"
+- "[[H3478]]"
+- "[[H9033]]"
+- "[[H4390]]"
+- "[[H1121A]]"
+- "[[H5418G]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:9**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, [was] it which Asa the king had made for fear of Baasha king of Israel: [and] Ishmael the son of Nethaniah filled it with [them that were] slain.
 <small><sub>**BSB:**</sub></small>
 Now the cistern into which Ishmael had thrown all the bodies of the men he had struck down along with Gedaliah was a large one that King Asa had made for fear of Baasha king of Israel. Ishmael son of Nethaniah filled it with the slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H0953A\|בּ֗וֹר]] [[H0834A\|אֲשֶׁר֩]] [[H7993\|הִשְׁלִ֨יךְ]] [[H8033G\|שָׁ֤ם]] [[H3458H\|יִשְׁמָעֵאל֙]] [[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H6297\|פִּגְרֵ֣י]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H5221\|הִכָּה֙]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֔הוּ]] [[H1931\|ה֗וּא]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשָׂה֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0609G\|אָסָ֔א]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H1201\|בַּעְשָׁ֣א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H4390\|מִלֵּ֛א]] [[H3458H\|יִשְׁמָעֵ֥אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֖הוּ]] [[H2491A\|חֲלָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic BAASHA|BAASHA]] • [[topic GEDALIAH|GEDALIAH]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.8|<< Jeremiah 41:8]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.10|Jeremiah 41:10 >>]]</td></tr></table>
 

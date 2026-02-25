@@ -1,8 +1,73 @@
+---
+title: Jeremiah 45:5
+type: Verse
+kjv: "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest."
+bsb: "But as for you, do you seek great things for yourself? Stop seeking! For I will bring disaster on every living creature, declares the LORD, but wherever you go, I will grant your life as a spoil of war.”"
+hebrew: "וְאַתָּ֛ה תְּבַקֶּשׁ־ לְךָ֥ גְדֹל֖וֹת אַל־ תְּבַקֵּ֑שׁ כִּ֡י הִנְנִי֩ מֵבִ֨יא רָעָ֤ה עַל־ כָּל־ בָּשָׂר֙ נְאֻם־ יְהוָ֔ה וְנָתַתִּ֨י לְךָ֤ אֶֽת־ נַפְשְׁךָ֙ לְשָׁלָ֔ל עַ֥ל כָּל־ הַמְּקֹמ֖וֹת אֲשֶׁ֥ר תֵּֽלֶךְ־ שָֽׁם׃ ס"
+pericope: "[[Jer.45.1 Jeremiah’s Message to Baruch|Jeremiah’s Message to Baruch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 45
+book/chapter: "[[Jer.45|Jeremiah 45]]"
+chronological_order: 768
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1245]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1419A]]"
+- "[[H0408]]"
+- "[[H3588A]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H7998]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 45:5**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seekest thou great things for thyself? seek [them] not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.
 <small><sub>**BSB:**</sub></small>
 But as for you, do you seek great things for yourself? Stop seeking! For I will bring disaster on every living creature, declares the LORD, but wherever you go, I will grant your life as a spoil of war.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H1245\|תְּבַקֶּשׁ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H1419A\|גְדֹל֖וֹת]] [[H0408\|אַל]][[H9014\|־]] [[H1245\|תְּבַקֵּ֑שׁ]] [[H3588A\|כִּ֡י]] [[H2005\|הִנְ]][[H9040\|נִי֩]] [[H0935P\|מֵבִ֨יא]] [[H7451C\|רָעָ֤ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂר֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֨י]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H7998\|שָׁלָ֔ל]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מְּקֹמ֖וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|תֵּֽלֶךְ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.4|<< Jeremiah 45:4]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.1|Jeremiah 46:1 >>]]</td></tr></table>
 
@@ -33,7 +98,7 @@ But as for you, do you seek great things for yourself? Stop seeking! For I will 
 | the places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מְּקֹמ֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.ko.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will go  |**<big>&#8207;[[H1980G\|תֵּֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.lekh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.4|<< Jeremiah 45:4]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.1|Jeremiah 46:1 >>]]</td></tr></table>
 
 

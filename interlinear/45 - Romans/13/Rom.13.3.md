@@ -1,10 +1,63 @@
+---
+title: Romans 13:3
+type: Verse
+kjv: "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:"
+bsb: "For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Then do what is right, and you will have his approval."
+greek: "οἱ γὰρ ἄρχοντες οὐκ εἰσὶν φόβος τῷ ἀγαθῷ ἔργῳ ἀλλὰ τῷ κακῷ. θέλεις δὲ μὴ φοβεῖσθαι τὴν ἐξουσίαν; τὸ ἀγαθὸν ποίει καὶ ἕξεις ἔπαινον ἐξ αὐτῆς·"
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G0758]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5401]]"
+- "[[G0018]]"
+- "[[G2041]]"
+- "[[G0235]]"
+- "[[G2556G]]"
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G1849]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G1868]]"
+- "[[G1537]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 13:3**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
 <small><sub>**BSB:**</sub></small>
 For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Then do what is right, and you will have his approval.
-<small><sub>**Literal:**</sub></small>
-The for rulers not are a terror to the good work but to the evil. Do you desire now not to fear the authority? The good do perform and you will have praise from him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.2|<< Romans 13:2]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.4|Romans 13:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1063\|γὰρ]]  [[G0758\|ἄρχοντες]]  [[G3756\|οὐκ]]  [[G1510\|εἰσὶν]]  [[G5401\|φόβος]]  [[G3588\|τῷ]]  [[G0018\|ἀγαθῷ]]  [[G2041\|ἔργῳ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G2556G\|κακῷ.]]  [[G2309\|θέλεις]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G5399\|φοβεῖσθαι]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν;]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθὸν]]  [[G4160G\|ποίει]]  [[G2532\|καὶ]]  [[G2192\|ἕξεις]]  [[G1868\|ἔπαινον]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.2|<< Romans 13:2]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.4|Romans 13:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

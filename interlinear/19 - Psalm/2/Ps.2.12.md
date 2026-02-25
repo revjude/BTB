@@ -1,8 +1,65 @@
+---
+title: Psalm 2:12
+type: Verse
+kjv: "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him."
+bsb: "Kiss the Son, lest He be angry and you perish in your rebellion, when His wrath ignites in an instant. Blessed are all who take refuge in Him."
+hebrew: "נַשְּׁקוּ־ בַ֡ר פֶּן־ יֶאֱנַ֤ף׀ וְתֹ֬אבְדוּ דֶ֗רֶךְ כִּֽי־ יִבְעַ֣ר כִּמְעַ֣ט אַפּ֑וֹ אַ֝שְׁרֵ֗י כָּל־ ח֥וֹסֵי בֽוֹ׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H5401A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H6435]]"
+- "[[H0599]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H0006]]"
+- "[[H1870L]]"
+- "[[H3588A]]"
+- "[[H1197A]]"
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H0835]]"
+- "[[H3605]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:12**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kiss the Son, lest he be angry, and ye perish [from] the way, when his wrath is kindled but a little. Blessed [are] all they that put their trust in him.
 <small><sub>**BSB:**</sub></small>
 Kiss the Son, lest He be angry and you perish in your rebellion, when His wrath ignites in an instant. Blessed are all who take refuge in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5401A\|נַשְּׁקוּ]][[H9014\|־]] [[H1121A\|בַ֡ר]] [[H6435\|פֶּן]][[H9014\|־]] [[H0599\|יֶאֱנַ֤ף]][[H9015\|׀]] [[H9002\|וְ]][[H0006\|תֹ֬אבְדוּ]] [[H1870L\|דֶ֗רֶךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1197A\|יִבְעַ֣ר]] [[H9004\|כִּ]][[H4592\|מְעַ֣ט]] [[H0639G\|אַפּ֑]][[H9023\|וֹ]] [[H0835\|אַ֝שְׁרֵ֗י]] [[H3605\|כָּל]][[H9014\|־]] [[H2620\|ח֥וֹסֵי]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.11|<< Psalms 2:11]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.0|Psalms 3:0 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Numbers 35:6
+type: Verse
+kjv: "And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities."
+bsb: "Six of the cities you give the Levites are to be appointed as cities of refuge, to which a manslayer may flee. In addition to these, give the Levites forty-two other cities."
+hebrew: "וְאֵ֣ת הֶֽעָרִ֗ים אֲשֶׁ֤ר תִּתְּנוּ֙ לַלְוִיִּ֔ם אֵ֚ת שֵׁשׁ־ עָרֵ֣י הַמִּקְלָ֔ט אֲשֶׁ֣ר תִּתְּנ֔וּ לָנֻ֥ס שָׁ֖מָּה הָרֹצֵ֑חַ וַעֲלֵיהֶ֣ם תִּתְּנ֔וּ אַרְבָּעִ֥ים וּשְׁתַּ֖יִם עִֽיר׃"
+pericope: "[[Num.35.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H4733]]"
+- "[[H5414K]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7523]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0705]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:6**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And among the cities which ye shall give unto the Levites [there shall be] six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.
 <small><sub>**BSB:**</sub></small>
 Six of the cities you give the Levites are to be appointed as cities of refuge, to which a manslayer may flee. In addition to these, give the Levites forty-two other cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H5414G\|תִּתְּנוּ֙]] [[H9005\|לַ]][[H3881\|לְוִיִּ֔ם]] [[H0853\|אֵ֚ת]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H4733\|מִּקְלָ֔ט]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414K\|תִּתְּנ֔וּ]] [[H9005\|לָ]][[H5127\|נֻ֥ס]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9009\|הָ]][[H7523\|רֹצֵ֑חַ]] [[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H5414G\|תִּתְּנ֔וּ]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֖יִם]] [[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.5|<< Numbers 35:5]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.7|Numbers 35:7 >>]]</td></tr></table>
 

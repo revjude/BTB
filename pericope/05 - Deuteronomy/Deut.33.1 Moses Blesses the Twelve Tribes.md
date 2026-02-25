@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Blesses the Twelve Tribes
+type: Pericope
 pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 33
 book/chapter: "[[Deut.33|Deuteronomy 33]]"
-genre:
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 29
 verses:
 - "[[Deut.33.1]]"
 - "[[Deut.33.2]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Deut.33.29]]"
 ---
 
-[[Deut.33|Deuteronomy 33:1 - Deuteronomy 33:29]]
+<small>[[Deut.33|Deuteronomy 33:1-29]]</small>
 *Moses Blesses the Twelve Tribes*
 
 [[Deut.33.1|1]] And this \[is\] the blessing, wherewith Moses the man of God blessed the children of Israel before his death.

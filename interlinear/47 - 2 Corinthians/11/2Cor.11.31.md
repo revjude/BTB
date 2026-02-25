@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 11:31
+type: Verse
+kjv: "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not."
+bsb: "The God and Father of the Lord Jesus, who is forever worthy of praise, knows that I am not lying."
+greek: "Ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ οἶδεν, ὁ ὢν εὐλογητὸς εἰς τοὺς αἰῶνας, ὅτι οὐ ψεύδομαι.¶"
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G6063]]"
+- "[[G1510]]"
+- "[[G2128]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G5574]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 11:31**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.
 <small><sub>**BSB:**</sub></small>
 The God and Father of the Lord Jesus, who is forever worthy of praise, knows that I am not lying.
-<small><sub>**Literal:**</sub></small>
-The God and Father of the Lord of us Jesus Christ knows, who is being blessed to the ages, that not I am lying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.30|<< 2 Corinthians 11:30]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.32|2 Corinthians 11:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G6063\|οἶδεν,]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G2128\|εὐλογητὸς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας,]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G5574\|ψεύδομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.30|<< 2 Corinthians 11:30]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.32|2 Corinthians 11:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

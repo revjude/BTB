@@ -1,10 +1,50 @@
+---
+title: Mark 11:16
+type: Verse
+kjv: "And would not suffer that any man should carry any vessel through the temple."
+bsb: "And He would not allow anyone to carry merchandise through the temple courts."
+greek: "καὶ οὐκ ἤφιεν ἵνα τις διενέγκῃ σκεῦος διὰ τοῦ ἱεροῦ."
+pericope: "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0863I]]"
+- "[[G2443]]"
+- "[[G5100]]"
+- "[[G1308]]"
+- "[[G4632]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2411]]"
+texts:
+- NKO
+---
+
 **Mark 11:16**<big><big>[[Mark.11.15 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And would not suffer that any man should carry [any] vessel through the temple.
 <small><sub>**BSB:**</sub></small>
 And He would not allow anyone to carry merchandise through the temple courts.
-<small><sub>**Literal:**</sub></small>
-And not He was permiting that anyone may carry a vessel through the temple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.15|<< Mark 11:15]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.17|Mark 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0863I\|ἤφιεν]]  [[G2443\|ἵνα]]  [[G5100\|τις]]  [[G1308\|διενέγκῃ]]  [[G4632\|σκεῦος]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.15|<< Mark 11:15]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.17|Mark 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

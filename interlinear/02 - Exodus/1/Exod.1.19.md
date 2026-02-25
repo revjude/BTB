@@ -1,8 +1,70 @@
+---
+title: Exodus 1:19
+type: Verse
+kjv: "And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them."
+bsb: "The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.”"
+hebrew: "וַתֹּאמַ֤רְןָ הַֽמְיַלְּדֹת֙ אֶל־ פַּרְעֹ֔ה כִּ֣י לֹ֧א כַנָּשִׁ֛ים הַמִּצְרִיֹּ֖ת הָֽעִבְרִיֹּ֑ת כִּֽי־ חָי֣וֹת הֵ֔נָּה בְּטֶ֨רֶם תָּב֧וֹא אֲלֵהֶ֛ן הַמְיַלֶּ֖דֶת וְיָלָֽדוּ׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIDWIFERY|MIDWIFERY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547I]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H0802G]]"
+- "[[H4713]]"
+- "[[H5680]]"
+- "[[H2422]]"
+- "[[H2007]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H0935G]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:19**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.
 <small><sub>**BSB:**</sub></small>
 The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמַ֤רְןָ]] [[H9009\|הַֽ]][[H3205\|מְיַלְּדֹת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547I\|פַּרְעֹ֔ה]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֧א]] [[H9004\|כַ]][[H0802G\|נָּשִׁ֛ים]] [[H9009\|הַ]][[H4713\|מִּצְרִיֹּ֖ת]] [[H9009\|הָֽ]][[H5680\|עִבְרִיֹּ֑ת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2422\|חָי֣וֹת]] [[H2007\|הֵ֔נָּה]] [[H9003\|בְּ]][[H2962\|טֶ֨רֶם]] [[H0935G\|תָּב֧וֹא]] [[H0413\|אֲלֵ]][[H9039\|הֶ֛ן]] [[H9009\|הַ]][[H3205\|מְיַלֶּ֖דֶת]] [[H9001\|וְ]][[H3205\|יָלָֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MIDWIFERY|MIDWIFERY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.18|<< Exodus 1:18]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.20|Exodus 1:20 >>]]</td></tr></table>
 

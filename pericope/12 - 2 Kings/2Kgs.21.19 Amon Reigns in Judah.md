@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amon Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.21.19 Amon Reigns in Judah|Amon Reigns in Judah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 21
 book/chapter: "[[2Kgs.21|2 Kings 21]]"
-genre:
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[2Kgs.21.19]]"
 - "[[2Kgs.21.20]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Kgs.21.26]]"
 ---
 
-[[2Kgs.21|2 Kings 21:19 - 2 Kings 21:26]]
+<small>[[2Kgs.21|2 Kings 21:19-26]]</small>
 *Amon Reigns in Judah*
 
 [[2Kgs.21.19|19]] Amon \[was\] twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother’s name \[was\] Meshullemeth, the daughter of Haruz of Jotbah.

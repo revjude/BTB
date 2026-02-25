@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 3:17
+type: Verse
+kjv: "And he said, What is the thing that the LORD hath said unto thee? I pray thee hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee."
+bsb: "“What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.”"
+hebrew: "וַיֹּ֗אמֶר מָ֤ה הַדָּבָר֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־ נָ֥א תְכַחֵ֖ד מִמֶּ֑נִּי כֹּ֣ה יַעֲשֶׂה־ לְּךָ֤ אֱלֹהִים֙ וְכֹ֣ה יוֹסִ֔יף אִם־ תְּכַחֵ֤ד מִמֶּ֙נִּי֙ דָּבָ֔ר מִכָּל־ הַדָּבָ֖ר אֲשֶׁר־ דִּבֶּ֥ר אֵלֶֽיךָ׃"
+pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IMPRECATION|IMPRECATION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3582]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H0518A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:17**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What [is] the thing that [the LORD] hath said unto thee? I pray thee hide [it] not from me: God do so to thee, and more also, if thou hide [any] thing from me of all the things that he said unto thee.
 <small><sub>**BSB:**</sub></small>
 “What was the message He gave you?” Eli asked. “Do not hide it from me. May God punish you, and ever so severely, if you hide from me anything He said to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H4100\|מָ֤ה]] [[H9009\|הַ]][[H1697I\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֥א]] [[H3582\|תְכַחֵ֖ד]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H3541\|כֹּ֣ה]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֤]] [[H0430G\|אֱלֹהִים֙]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יוֹסִ֔יף]] [[H0518A\|אִם]][[H9014\|־]] [[H3582\|תְּכַחֵ֤ד]] [[H4480A\|מִמֶּ֙]][[H9030\|נִּי֙]] [[H1697I\|דָּבָ֔ר]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IMPRECATION|IMPRECATION]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.16|<< 1 Samuel 3:16]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.18|1 Samuel 3:18 >>]]</td></tr></table>
 

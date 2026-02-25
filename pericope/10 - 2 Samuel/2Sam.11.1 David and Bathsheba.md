@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David and Bathsheba
+type: Pericope
 pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 11
 book/chapter: "[[2Sam.11|2 Samuel 11]]"
-genre:
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 13
 verses:
 - "[[2Sam.11.1]]"
 - "[[2Sam.11.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Sam.11.13]]"
 ---
 
-[[2Sam.11|2 Samuel 11:1 - 2 Samuel 11:13]]
+<small>[[2Sam.11|2 Samuel 11:1-13]]</small>
 *David and Bathsheba*
 
 [[2Sam.11.1|1]] And it came to pass, after the year was expired, at the time when kings go forth \[to battle\], that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.

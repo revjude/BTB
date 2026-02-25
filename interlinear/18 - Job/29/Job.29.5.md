@@ -1,8 +1,50 @@
+---
+title: Job 29:5
+type: Verse
+kjv: "When the Almighty was yet with me, when my children were about me;"
+bsb: "when the Almighty was still with me and my children were around me,"
+hebrew: "בְּע֣וֹד שַׁ֭דַּי עִמָּדִ֑י סְבִ֖יבוֹתַ֣י נְעָרָֽי׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H7706]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H5439G]]"
+- "[[H5288]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:5**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the Almighty [was] yet with me, [when] my children [were] about me;
 <small><sub>**BSB:**</sub></small>
 when the Almighty was still with me and my children were around me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5750\|ע֣וֹד]] [[H7706\|שַׁ֭דַּי]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H5439G\|סְבִ֖יבוֹתַ֣]][[H9030\|י]] [[H5288\|נְעָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.4|<< Job 29:4]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.6|Job 29:6 >>]]</td></tr></table>
 

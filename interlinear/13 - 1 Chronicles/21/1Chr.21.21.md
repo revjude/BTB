@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 21:21
+type: Verse
+kjv: "And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with his face to the ground."
+bsb: "David came to Ornan, and when Ornan looked out and saw David, he left the threshing floor and bowed facedown before David."
+hebrew: "וַיָּבֹ֥א דָוִ֖יד עַד־ אָרְנָ֑ן וַיַּבֵּ֤ט אָרְנָן֙ וַיַּ֣רְא אֶת־ דָּוִ֔יד וַיֵּצֵא֙ מִן־ הַגֹּ֔רֶן וַיִּשְׁתַּ֧חוּ לְדָוִ֛יד אַפַּ֖יִם אָֽרְצָה׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORNAN|ORNAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0771]]"
+- "[[H5027]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1637]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H0639I]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:21**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with [his] face to the ground.
 <small><sub>**BSB:**</sub></small>
 David came to Ornan, and when Ornan looked out and saw David, he left the threshing floor and bowed facedown before David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H1732\|דָוִ֖יד]] [[H5704\|עַד]][[H9014\|־]] [[H0771\|אָרְנָ֑ן]] [[H9001\|וַ]][[H5027\|יַּבֵּ֤ט]] [[H0771\|אָרְנָן֙]] [[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֔יד]] [[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1637\|גֹּ֔רֶן]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֧חוּ]] [[H9005\|לְ]][[H1732\|דָוִ֛יד]] [[H0639I\|אַפַּ֖יִם]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic ORNAN|ORNAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.20|<< 1 Chronicles 21:20]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.22|1 Chronicles 21:22 >>]]</td></tr></table>
 

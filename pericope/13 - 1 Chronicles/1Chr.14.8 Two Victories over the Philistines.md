@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Two Victories over the Philistines
+type: Pericope
 pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 14
 book/chapter: "[[1Chr.14|1 Chronicles 14]]"
-genre:
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 10
 verses:
 - "[[1Chr.14.8]]"
 - "[[1Chr.14.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Chr.14.17]]"
 ---
 
-[[1Chr.14|1 Chronicles 14:8 - 1 Chronicles 14:17]]
+<small>[[1Chr.14|1 Chronicles 14:8-17]]</small>
 *Two Victories over the Philistines*
 
 [[1Chr.14.8|8]] And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard \[of it\], and went out against them.

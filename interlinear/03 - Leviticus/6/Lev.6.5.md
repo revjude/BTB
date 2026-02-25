@@ -1,8 +1,80 @@
+---
+title: Leviticus 6:5
+type: Verse
+kjv: "Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering."
+bsb: "or anything else about which he has sworn falsely. He must make restitution in full, add a fifth of the value, and pay it to the owner on the day he acknowledges his guilt."
+hebrew: "א֠וֹ מִכֹּ֞ל אֲשֶׁר־ יִשָּׁבַ֣ע עָלָיו֮ לַשֶּׁקֶר֒ וְשִׁלַּ֤ם אֹתוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִשִׁתָ֖יו יֹסֵ֣ף עָלָ֑יו לַאֲשֶׁ֨ר ה֥וּא ל֛וֹ יִתְּנֶ֖נּוּ בְּי֥וֹם אַשְׁמָתֽוֹ׃"
+pericope: "[[Lev.6.1 Sins Requiring a Guilt Offering|Sins Requiring a Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FINE|FINE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7650]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H9001]]"
+- "[[H7999A]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H7218J]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2549]]"
+- "[[H3254H]]"
+- "[[H1931]]"
+- "[[H5414G]]"
+- "[[H3117G]]"
+- "[[H0819]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:5**<big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, [and] give it unto him to whom it appertaineth, in the day of his trespass offering.
 <small><sub>**BSB:**</sub></small>
 or anything else about which he has sworn falsely. He must make restitution in full, add a fifth of the value, and pay it to the owner on the day he acknowledges his guilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֠וֹ]] [[H9006\|מִ]][[H3605\|כֹּ֞ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|יִשָּׁבַ֣ע]] [[H5921A\|עָלָי]][[H9033\|ו֮]] [[H9005\|לַ]][[H8267\|שֶּׁקֶר֒]] [[H9001\|וְ]][[H7999A\|שִׁלַּ֤ם]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H7218J\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9002\|וַ]][[H2549\|חֲמִשִׁתָ֖י]][[H9023\|ו]] [[H3254H\|יֹסֵ֣ף]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֨ר]] [[H1931\|ה֥וּא]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H5414G\|יִתְּנֶ֖]][[H9033\|נּוּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0819\|אַשְׁמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FINE|FINE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OATH|OATH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PERJURY|PERJURY]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.4|<< Leviticus 6:4]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.6|Leviticus 6:6 >>]]</td></tr></table>
 

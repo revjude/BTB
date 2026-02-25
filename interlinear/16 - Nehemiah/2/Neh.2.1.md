@@ -1,8 +1,68 @@
+---
+title: Nehemiah 2:1
+type: Verse
+kjv: "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence."
+bsb: "Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence,"
+hebrew: "וַיְהִ֣י׀ בְּחֹ֣דֶשׁ נִיסָ֗ן שְׁנַ֥ת עֶשְׂרִ֛ים לְאַרְתַּחְשַׁ֥סְתְּא הַמֶּ֖לֶךְ יַ֣יִן לְפָנָ֑יו וָאֶשָּׂ֤א אֶת־ הַיַּ֙יִן֙ וָאֶתְּנָ֣ה לַמֶּ֔לֶךְ וְלֹא־ הָיִ֥יתִי רַ֖ע לְפָנָֽיו׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BUTLER|BUTLER]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H5212]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9005]]"
+- "[[H0783A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3196]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7451A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:1**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, [that] wine [was] before him: and I took up the wine, and gave [it] unto the king. Now I had not been [beforetime] sad in his presence.
 <small><sub>**BSB:**</sub></small>
 Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בְּ]][[H2320G\|חֹ֣דֶשׁ]] [[H5212\|נִיסָ֗ן]] [[H8141\|שְׁנַ֥ת]] [[H6242\|עֶשְׂרִ֛ים]] [[H9005\|לְ]][[H0783A\|אַרְתַּחְשַׁ֥סְתְּא]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3196\|יַ֣יִן]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וָ]][[H5375G\|אֶשָּׂ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3196\|יַּ֙יִן֙]] [[H9001\|וָ]][[H5414G\|אֶתְּנָ֣]][[H9012\|ה]] [[H9005\|לַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיִ֥יתִי]] [[H7451A\|רַ֖ע]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUTLER|BUTLER]] • [[topic COUNTRY|COUNTRY]] • [[topic MONTH|MONTH]] • [[topic NEHEMIAH|NEHEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.11|<< Nehemiah 1:11]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.2|Nehemiah 2:2 >>]]</td></tr></table>
 

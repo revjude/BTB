@@ -1,8 +1,68 @@
+---
+title: Numbers 6:14
+type: Verse
+kjv: "And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,"
+bsb: "and he is to present an offering to the LORD of an unblemished year-old male lamb as a burnt offering, an unblemished year-old female lamb as a sin offering, and an unblemished ram as a peace offering—"
+hebrew: "וְהִקְרִ֣יב אֶת־ קָרְבָּנ֣וֹ לַיהוָ֡ה כֶּבֶשׂ֩ בֶּן־ שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־ שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־ אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H8549G]]"
+- "[[H0259]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H3535]]"
+- "[[H1323G]]"
+- "[[H9024]]"
+- "[[H2403H]]"
+- "[[H0352A]]"
+- "[[H8002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:14**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,
 <small><sub>**BSB:**</sub></small>
 and he is to present an offering to the LORD of an unblemished year-old male lamb as a burnt offering, an unblemished year-old female lamb as a sin offering, and an unblemished ram as a peace offering—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֣יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנ֣]][[H9023\|וֹ]] [[H9005\|לַ]][[H3068G\|יהוָ֡ה]] [[H3532\|כֶּבֶשׂ֩]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8141\|שְׁנָת֨]][[H9023\|וֹ]] [[H8549G\|תָמִ֤ים]] [[H0259\|אֶחָד֙]] [[H9005\|לְ]][[H5930A\|עֹלָ֔ה]] [[H9002\|וְ]][[H3535\|כַבְשָׂ֨ה]] [[H0259\|אַחַ֧ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H8141\|שְׁנָתָ֛]][[H9024\|הּ]] [[H8549G\|תְּמִימָ֖ה]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H9002\|וְ]][[H0352A\|אַֽיִל]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H8549G\|תָּמִ֖ים]] [[H9005\|לִ]][[H8002\|שְׁלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.13|<< Numbers 6:13]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.15|Numbers 6:15 >>]]</td></tr></table>
 

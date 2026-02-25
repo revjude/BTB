@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Children of God
+type: Pericope
 pericope: "[[1John.3.1 Children of God|Children of God]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 3
 book/chapter: "[[1John.3|1 John 3]]"
-genre:
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 10
 verses:
 - "[[1John.3.1]]"
 - "[[1John.3.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1John.3.10]]"
 ---
 
-[[1John.3|1 John 3:1 - 1 John 3:10]]
+<small>[[1John.3|1 John 3:1-10]]</small>
 *Children of God*
 
 [[1John.3.1|1]] Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.

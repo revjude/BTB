@@ -1,8 +1,64 @@
+---
+title: 1 Kings 9:22
+type: Verse
+kjv: "But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen."
+bsb: "But Solomon did not consign any of the Israelites to slavery, because they were his men of war, his servants, his officers, his captains, and the commanders of his chariots and cavalry."
+hebrew: "וּמִבְּנֵי֙ יִשְׂרָאֵ֔ל לֹֽא־ נָתַ֥ן שְׁלֹמֹ֖ה עָ֑בֶד כִּי־ הֵ֞ם אַנְשֵׁ֣י הַמִּלְחָמָ֗ה וַעֲבָדָיו֙ וְשָׂרָ֣יו וְשָׁלִשָׁ֔יו וְשָׂרֵ֥י רִכְבּ֖וֹ וּפָרָשָֽׁיו׃ ס"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic OFFICER|OFFICER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414I]]"
+- "[[H8010]]"
+- "[[H5650]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H7991C]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 9:22**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the children of Israel did Solomon make no bondmen: but they [were] men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 <small><sub>**BSB:**</sub></small>
 But Solomon did not consign any of the Israelites to slavery, because they were his men of war, his servants, his officers, his captains, and the commanders of his chariots and cavalry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵי֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414I\|נָתַ֥ן]] [[H8010\|שְׁלֹמֹ֖ה]] [[H5650\|עָ֑בֶד]] [[H3588A\|כִּי]][[H9014\|־]] [[H1992\|הֵ֞ם]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וַ]][[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H8269\|שָׂרָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H7991C\|שָׁלִשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H7393G\|רִכְבּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6571B\|פָרָשָֽׁי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic OFFICER|OFFICER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.21|<< 1 Kings 9:21]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.23|1 Kings 9:23 >>]]</td></tr></table>
 
@@ -23,7 +79,7 @@ But Solomon did not consign any of the Israelites to slavery, because they were 
 | and officers his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7991C\|שָׁלִשָׁ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.li.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] commanders of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chariotry his  |**<big>&#8207;[[H7393G\|רִכְבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| rikh.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and horsemen his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6571B\|פָרָשָֽׁי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.ra.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and horsemen his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6571B\|פָרָשָֽׁי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.ra.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.21|<< 1 Kings 9:21]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.23|1 Kings 9:23 >>]]</td></tr></table>
 
 

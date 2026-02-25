@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 12:10
+type: Verse
+kjv: "Instead of which king Rehoboam made shields of brass, and committed them to the hands of the chief of the guard, that kept the entrance of the king’s house."
+bsb: "Then King Rehoboam made bronze shields in their place and committed them to the care of the captains of the guard on duty at the entrance to the royal palace."
+hebrew: "וַיַּ֨עַשׂ הַמֶּ֤לֶךְ רְחַבְעָם֙ תַּחְתֵּיהֶ֔ם מָגִנֵּ֖י נְחֹ֑שֶׁת וְהִפְקִ֗יד עַל־ יַד֙ שָׂרֵ֣י הָרָצִ֔ים הַשֹּׁ֣מְרִ֔ים פֶּ֖תַח בֵּ֥ית הַמֶּֽלֶךְ׃"
+pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H8478H]]"
+- "[[H9038]]"
+- "[[H4043]]"
+- "[[H5178A]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H8269]]"
+- "[[H7323H]]"
+- "[[H8104H]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:10**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Instead of which king Rehoboam made shields of brass, and committed [them] to the hands of the chief of the guard, that kept the entrance of the king’s house.
 <small><sub>**BSB:**</sub></small>
 Then King Rehoboam made bronze shields in their place and committed them to the care of the captains of the guard on duty at the entrance to the royal palace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H7346\|רְחַבְעָם֙]] [[H8478H\|תַּחְתֵּי]][[H9038\|הֶ֔ם]] [[H4043\|מָגִנֵּ֖י]] [[H5178A\|נְחֹ֑שֶׁת]] [[H9001\|וְ]][[H6485J\|הִפְקִ֗יד]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יַד֙]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הָ]][[H7323H\|רָצִ֔ים]] [[H9009\|הַ]][[H8104H\|שֹּׁ֣מְרִ֔ים]] [[H6607\|פֶּ֖תַח]] [[H1004B\|בֵּ֥ית]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic GOD|GOD]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.9|<< 2 Chronicles 12:9]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.11|2 Chronicles 12:11 >>]]</td></tr></table>
 

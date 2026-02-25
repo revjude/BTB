@@ -1,10 +1,73 @@
+---
+title: Luke 14:31
+type: Verse
+kjv: "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?"
+bsb: "Or what king on his way to war with another king will not first sit down and consider whether he can engage with ten thousand men the one coming against him with twenty thousand?"
+jesus_said: "Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?"
+greek: "ἢ τίς βασιλεὺς πορευόμενος ἑτέρῳ βασιλεῖ συμβαλεῖν εἰς πόλεμον οὐχὶ καθίσας πρῶτον βουλεύσεται εἰ δυνατός ἐστιν ἐν δέκα χιλιάσιν ὑπαντῆσαι τῷ μετὰ εἴκοσι χιλιάδων ἐρχομένῳ ἐπ᾽ αὐτόν;"
+pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G0935]]"
+- "[[G4198]]"
+- "[[G2087]]"
+- "[[G4820]]"
+- "[[G1519]]"
+- "[[G4171]]"
+- "[[G3780]]"
+- "[[G2523]]"
+- "[[G4413G]]"
+- "[[G1011]]"
+- "[[G1487G]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1176]]"
+- "[[G5505]]"
+- "[[G5221]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G1501]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 14:31**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?
 <small><sub>**BSB:**</sub></small>
 Or what king on his way to war with another king will not first sit down and consider whether he can engage with ten thousand men the one coming against him with twenty thousand?
-<small><sub>**Literal:**</sub></small>
-Or what king proceeding with another king to engage in war not having sat down first will take counsel whether able he is with ten thousand to meet the [one] with twenty thousand coming against him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.30|<< Luke 14:30]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.32|Luke 14:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G5101\|τίς]]  [[G0935\|βασιλεὺς]]  [[G4198\|πορευόμενος]]  [[G2087\|ἑτέρῳ]]  [[G0935\|βασιλεῖ]]  [[G4820\|συμβαλεῖν]]  [[G1519\|εἰς]]  [[G4171\|πόλεμον]]  [[G3780\|οὐχὶ]]  [[G2523\|καθίσας]]  [[G4413G\|πρῶτον]]  [[G1011\|βουλεύσεται]]  [[G1487G\|εἰ]]  [[G1415\|δυνατός]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G1176\|δέκα]]  [[G5505\|χιλιάσιν]]  [[G5221\|ὑπαντῆσαι]]  [[G3588\|τῷ]]  [[G3326\|μετὰ]]  [[G1501\|εἴκοσι]]  [[G5505\|χιλιάδων]]  [[G2064\|ἐρχομένῳ]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.30|<< Luke 14:30]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.32|Luke 14:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

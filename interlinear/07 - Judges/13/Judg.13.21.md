@@ -1,8 +1,61 @@
+---
+title: Judges 13:21
+type: Verse
+kjv: "But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he was an angel of the LORD."
+bsb: "And when the angel of the LORD did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the LORD."
+hebrew: "וְלֹא־ יָ֤סַף עוֹד֙ מַלְאַ֣ךְ יְהוָ֔ה לְהֵרָאֹ֖ה אֶל־ מָנ֣וֹחַ וְאֶל־ אִשְׁתּ֑וֹ אָ֚ז יָדַ֣ע מָנ֔וֹחַ כִּֽי־ מַלְאַ֥ךְ יְהוָ֖ה הֽוּא׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MANOAH|MANOAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7200L]]"
+- "[[H0413]]"
+- "[[H4495]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0227A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:21**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he [was] an angel of the LORD.
 <small><sub>**BSB:**</sub></small>
 And when the angel of the LORD did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|יָ֤סַף]] [[H5750\|עוֹד֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H7200L\|הֵרָאֹ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4495\|מָנ֣וֹחַ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אִשְׁתּ֑]][[H9023\|וֹ]] [[H0227A\|אָ֚ז]] [[H3045\|יָדַ֣ע]] [[H4495\|מָנ֔וֹחַ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4397H\|מַלְאַ֥ךְ]] [[H3068G\|יְהוָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MANOAH|MANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.20|<< Judges 13:20]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.22|Judges 13:22 >>]]</td></tr></table>
 

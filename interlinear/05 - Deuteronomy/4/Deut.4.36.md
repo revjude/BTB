@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 4:36
+type: Verse
+kjv: "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire."
+bsb: "He let you hear His voice from heaven to discipline you, and on earth He showed you His great fire, and you heard His words out of the fire."
+hebrew: "מִן־ הַשָּׁמַ֛יִם הִשְׁמִֽיעֲךָ֥ אֶת־ קֹל֖וֹ לְיַסְּרֶ֑ךָּ וְעַל־ הָאָ֗רֶץ הֶרְאֲךָ֙ אֶת־ אִשּׁ֣וֹ הַגְּדוֹלָ֔ה וּדְבָרָ֥יו שָׁמַ֖עְתָּ מִתּ֥וֹךְ הָאֵֽשׁ׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3256]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H7200G]]"
+- "[[H0784]]"
+- "[[H1419A]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:36**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.
 <small><sub>**BSB:**</sub></small>
 He let you hear His voice from heaven to discipline you, and on earth He showed you His great fire, and you heard His words out of the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֛יִם]] [[H8085G\|הִשְׁמִֽיעֲ]][[H9031\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|קֹל֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H3256\|יַסְּרֶ֑]][[H9031\|ךָּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H7200G\|הֶרְאֲ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0784\|אִשּׁ֣]][[H9023\|וֹ]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֔ה]] [[H9002\|וּ]][[H1697G\|דְבָרָ֥י]][[H9023\|ו]] [[H8085G\|שָׁמַ֖עְתָּ]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H9009\|הָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.35|<< Deuteronomy 4:35]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.37|Deuteronomy 4:37 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 8:8
+type: Verse
+kjv: "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it."
+bsb: "As no man has power over the wind to contain it, so no one has authority over his day of death. As no one can be discharged in wartime, so wickedness will not release those who practice it."
+hebrew: "אֵ֣ין אָדָ֞ם שַׁלִּ֤יט בָּר֙וּחַ֙ לִכְל֣וֹא אֶת־ הָר֔וּחַ וְאֵ֤ין שִׁלְטוֹן֙ בְּי֣וֹם הַמָּ֔וֶת וְאֵ֥ין מִשְׁלַ֖חַת בַּמִּלְחָמָ֑ה וְלֹֽא־ יְמַלֵּ֥ט רֶ֖שַׁע אֶת־ בְּעָלָֽיו׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H0369]]"
+- "[[H0120G]]"
+- "[[H7989]]"
+- "[[H9003]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H3607]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H7983]]"
+- "[[H3117G]]"
+- "[[H4194]]"
+- "[[H4917]]"
+- "[[H4421]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H7562]]"
+- "[[H1167J]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:8**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no man that hath power over the spirit to retain the spirit; neither [hath he] power in the day of death: and [there is] no discharge in [that] war; neither shall wickedness deliver those that are given to it.
 <small><sub>**BSB:**</sub></small>
 As no man has power over the wind to contain it, so no one has authority over his day of death. As no one can be discharged in wartime, so wickedness will not release those who practice it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֣ין]] [[H0120G\|אָדָ֞ם]] [[H7989\|שַׁלִּ֤יט]] [[H9003\|בָּ]][[H7307G\|ר֙וּחַ֙]] [[H9005\|לִ]][[H3607\|כְל֣וֹא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7307G\|ר֔וּחַ]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H7983\|שִׁלְטוֹן֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H4194\|מָּ֔וֶת]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H4917\|מִשְׁלַ֖חַת]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4422\|יְמַלֵּ֥ט]] [[H7562\|רֶ֖שַׁע]] [[H0853\|אֶת]][[H9014\|־]] [[H1167J\|בְּעָלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.7|<< Ecclesiastes 8:7]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.9|Ecclesiastes 8:9 >>]]</td></tr></table>
 

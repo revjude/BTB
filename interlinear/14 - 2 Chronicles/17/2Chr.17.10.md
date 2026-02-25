@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 17:10
+type: Verse
+kjv: "And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat."
+bsb: "And the dread of the LORD fell upon all the kingdoms of the lands that surrounded Judah, so that they did not make war against Jehoshaphat."
+hebrew: "וַיְהִ֣י׀ פַּ֣חַד יְהוָ֗ה עַ֚ל כָּל־ מַמְלְכ֣וֹת הָֽאֲרָצ֔וֹת אֲשֶׁ֖ר סְבִיב֣וֹת יְהוּדָ֑ה וְלֹ֥א נִלְחֲמ֖וּ עִם־ יְהוֹשָׁפָֽט׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H6343]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H3092I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:10**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fear of the LORD fell upon all the kingdoms of the lands that [were] round about Judah, so that they made no war against Jehoshaphat.
 <small><sub>**BSB:**</sub></small>
 And the dread of the LORD fell upon all the kingdoms of the lands that surrounded Judah, so that they did not make war against Jehoshaphat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H6343\|פַּ֣חַד]] [[H3068G\|יְהוָ֗ה]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הָֽ]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁ֖ר]] [[H5439G\|סְבִיב֣וֹת]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3898A\|נִלְחֲמ֖וּ]] [[H5973A\|עִם]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic RULERS|RULERS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.9|<< 2 Chronicles 17:9]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.11|2 Chronicles 17:11 >>]]</td></tr></table>
 

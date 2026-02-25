@@ -1,8 +1,58 @@
+---
+title: Genesis 24:58
+type: Verse
+kjv: "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go."
+bsb: "They called Rebekah and asked her, “Will you go with this man?” “I will go,” she replied."
+hebrew: "וַיִּקְרְא֤וּ לְרִבְקָה֙ וַיֹּאמְר֣וּ אֵלֶ֔יהָ הֲתֵלְכִ֖י עִם־ הָאִ֣ישׁ הַזֶּ֑ה וַתֹּ֖אמֶר אֵלֵֽךְ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H7259]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9008]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:58**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.
 <small><sub>**BSB:**</sub></small>
 They called Rebekah and asked her, “Will you go with this man?” “I will go,” she replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרְא֤וּ]] [[H9005\|לְ]][[H7259\|רִבְקָה֙]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H9008\|הֲ]][[H1980G\|תֵלְכִ֖י]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H1980G\|אֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.57|<< Genesis 24:57]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.59|Genesis 24:59 >>]]</td></tr></table>
 

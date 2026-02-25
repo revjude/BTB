@@ -1,8 +1,64 @@
+---
+title: Isaiah 59:9
+type: Verse
+kjv: "Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness."
+bsb: "Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom."
+hebrew: "עַל־ כֵּ֗ן רָחַ֤ק מִשְׁפָּט֙ מִמֶּ֔נּוּ וְלֹ֥א תַשִּׂיגֵ֖נוּ צְדָקָ֑ה נְקַוֶּ֤ה לָאוֹר֙ וְהִנֵּה־ חֹ֔שֶׁךְ לִנְגֹה֖וֹת בָּאֲפֵל֥וֹת נְהַלֵּֽךְ׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7368]]"
+- "[[H4941H]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5381]]"
+- "[[H6666]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H2009]]"
+- "[[H2822]]"
+- "[[H5054]]"
+- "[[H9003]]"
+- "[[H0653]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:9**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, [but] we walk in darkness.
 <small><sub>**BSB:**</sub></small>
 Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H7368\|רָחַ֤ק]] [[H4941H\|מִשְׁפָּט֙]] [[H4480A\|מִמֶּ֔]][[H9035\|נּוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5381\|תַשִּׂיגֵ֖]][[H9035\|נוּ]] [[H6666\|צְדָקָ֑ה]] [[H6960A\|נְקַוֶּ֤ה]] [[H9005\|לָ]][[H0216\|אוֹר֙]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H2822\|חֹ֔שֶׁךְ]] [[H9005\|לִ]][[H5054\|נְגֹה֖וֹת]] [[H9003\|בָּ]][[H0653\|אֲפֵל֥וֹת]] [[H1980I\|נְהַלֵּֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.8|<< Isaiah 59:8]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.10|Isaiah 59:10 >>]]</td></tr></table>
 

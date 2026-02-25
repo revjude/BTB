@@ -1,8 +1,65 @@
+---
+title: Joshua 21:11
+type: Verse
+kjv: "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it."
+bsb: "They gave them Kiriath-arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the father of Anak.)"
+hebrew: "וַיִּתְּנ֨וּ לָהֶ֜ם אֶת־ קִרְיַת֩ אַרְבַּ֨ע אֲבִ֧י הָֽעֲנ֛וֹק הִ֥יא חֶבְר֖וֹן בְּהַ֣ר יְהוּדָ֑ה וְאֶת־ מִגְרָשֶׁ֖הָ סְבִיבֹתֶֽיהָ׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ANAK|ANAK]]"
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7153]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H6061]]"
+- "[[H1931]]"
+- "[[H2275A]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:11**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave them the city of Arba the father of Anak, which [city is] Hebron, in the hill [country] of Judah, with the suburbs thereof round about it.
 <small><sub>**BSB:**</sub></small>
 They gave them Kiriath-arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the father of Anak.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנ֨וּ]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7153\|קִרְיַת֩]] [[H7153\|אַרְבַּ֨ע]] [[H0001G\|אֲבִ֧י]] [[H9009\|הָֽ]][[H6061\|עֲנ֛וֹק]] [[H1931\|הִ֥יא]] [[H2275A\|חֶבְר֖וֹן]] [[H9003\|בְּ]][[H2022H\|הַ֣ר]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֖]][[H9024\|הָ]] [[H5439G\|סְבִיבֹתֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAK|ANAK]] • [[topic ANATHOTH|ANATHOTH]] • [[topic HEBRON|HEBRON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.10|<< Joshua 21:10]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.12|Joshua 21:12 >>]]</td></tr></table>
 

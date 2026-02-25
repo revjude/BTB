@@ -1,10 +1,58 @@
+---
+title: Luke 17:34
+type: Verse
+kjv: "I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left."
+bsb: "I tell you, on that night two people will be in one bed: one will be taken and the other left."
+jesus_said: "I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left."
+greek: "Λέγω ὑμῖν· ταύτῃ τῇ νυκτὶ ἔσονται δύο ἐπὶ κλίνης μιᾶς· ὁ εἷς παραλημφθήσεται, καὶ ὁ ἕτερος ἀφεθήσεται."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G1510]]"
+- "[[G1417]]"
+- "[[G1909]]"
+- "[[G2825]]"
+- "[[G1520]]"
+- "[[G3880]]"
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G0863G]]"
+texts:
+- NKO
+---
+
 **Luke 17:34**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I tell you, in that night there shall be two [men] in one bed; the one shall be taken, and the other shall be left.
 <small><sub>**BSB:**</sub></small>
 I tell you, on that night two people will be in one bed: one will be taken and the other left.
-<small><sub>**Literal:**</sub></small>
-I say to you; in that <the> night there will be two upon bed one: The one will be taken, and the other will be left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.33|<< Luke 17:33]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.35|Luke 17:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G4771\|ὑμῖν·]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G1510\|ἔσονται]]  [[G1417\|δύο]]  [[G1909\|ἐπὶ]]  [[G2825\|κλίνης]]  [[G1520\|μιᾶς·]]  [[G3588\|ὁ]]  [[G1520\|εἷς]]  [[G3880\|παραλημφθήσεται,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2087\|ἕτερος]]  [[G0863G\|ἀφεθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.33|<< Luke 17:33]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.35|Luke 17:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

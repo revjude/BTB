@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Angel to Lead
+type: Pericope
 pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 23
 book/chapter: "[[Exod.23|Exodus 23]]"
-genre:
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 14
 verses:
 - "[[Exod.23.20]]"
 - "[[Exod.23.21]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Exod.23.33]]"
 ---
 
-[[Exod.23|Exodus 23:20 - Exodus 23:33]]
+<small>[[Exod.23|Exodus 23:20-33]]</small>
 *God’s Angel to Lead*
 
 [[Exod.23.20|20]] Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.

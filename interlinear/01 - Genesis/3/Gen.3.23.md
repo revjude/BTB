@@ -1,8 +1,66 @@
+---
+title: Genesis 3:23
+type: Verse
+kjv: "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+bsb: "Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken."
+hebrew: "וַֽיְשַׁלְּחֵ֛הוּ יְהוָ֥ה אֱלֹהִ֖ים מִגַּן־ עֵ֑דֶן לַֽעֲבֹד֙ אֶת־ הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר לֻקַּ֖ח מִשָּֽׁם׃"
+pericope: "[[Gen.3.21 The Expulsion from Paradise|The Expulsion from Paradise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BANISHMENT|BANISHMENT]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GROUND|GROUND]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H1588M]]"
+- "[[H9014]]"
+- "[[H5731B]]"
+- "[[H9005]]"
+- "[[H5647I]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:23**<big><big>[[Gen.3.21 The Expulsion from Paradise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 <small><sub>**BSB:**</sub></small>
 Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יְשַׁלְּחֵ֛]][[H9033\|הוּ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H9006\|מִ]][[H1588M\|גַּן]][[H9014\|־]] [[H5731B\|עֵ֑דֶן]] [[H9005\|לַֽ]][[H5647I\|עֲבֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3947G\|לֻקַּ֖ח]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic AGRICULTURE|AGRICULTURE]] • [[topic BANISHMENT|BANISHMENT]] • [[topic EDEN|EDEN]] • [[topic GROUND|GROUND]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.22|<< Genesis 3:22]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.24|Genesis 3:24 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Numbers 20:17
+type: Verse
+kjv: "Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king’s high way, we will not turn to the right hand nor to the left, until we have passed thy borders."
+bsb: "Please let us pass through your land. We will not go through any field or vineyard, or drink water from any well. We will stay on the King’s Highway; we will not turn to the right or to the left until we have passed through your territory.”"
+hebrew: "נַעְבְּרָה־ נָּ֣א בְאַרְצֶ֗ךָ לֹ֤א נַעֲבֹר֙ בְּשָׂדֶ֣ה וּבְכֶ֔רֶם וְלֹ֥א נִשְׁתֶּ֖ה מֵ֣י בְאֵ֑ר דֶּ֧רֶךְ הַמֶּ֣לֶךְ נֵלֵ֗ךְ לֹ֤א נִטֶּה֙ יָמִ֣ין וּשְׂמֹ֔אול עַ֥ד אֲשֶֽׁר־ נַעֲבֹ֖ר גְּבוּלֶֽךָ׃"
+pericope: "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ROADS|ROADS]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H3754]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H0875]]"
+- "[[H1870I]]"
+- "[[H9009]]"
+- "[[H4428I]]"
+- "[[H1980G]]"
+- "[[H5186]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:17**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us pass, I pray thee, through thy country: we will not pass through the fields, or through the vineyards, neither will we drink [of] the water of the wells: we will go by the king’s [high] way, we will not turn to the right hand nor to the left, until we have passed thy borders.
 <small><sub>**BSB:**</sub></small>
 Please let us pass through your land. We will not go through any field or vineyard, or drink water from any well. We will stay on the King’s Highway; we will not turn to the right or to the left until we have passed through your territory.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|נַעְבְּרָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9003\|בְ]][[H0776G\|אַרְצֶ֗]][[H9021\|ךָ]] [[H3808\|לֹ֤א]] [[H5674A\|נַעֲבֹר֙]] [[H9003\|בְּ]][[H7704G\|שָׂדֶ֣ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3754\|כֶ֔רֶם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8354\|נִשְׁתֶּ֖ה]] [[H4325G\|מֵ֣י]] [[H0875\|בְאֵ֑ר]] [[H1870I\|דֶּ֧רֶךְ]] [[H9009\|הַ]][[H4428I\|מֶּ֣לֶךְ]] [[H1980G\|נֵלֵ֗ךְ]] [[H3808\|לֹ֤א]] [[H5186\|נִטֶּה֙]] [[H3225G\|יָמִ֣ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֔אול]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5674A\|נַעֲבֹ֖ר]] [[H1366H\|גְּבוּלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic ISRAEL|ISRAEL]] • [[topic ROADS|ROADS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 

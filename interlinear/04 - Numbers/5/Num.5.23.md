@@ -1,8 +1,67 @@
+---
+title: Numbers 5:23
+type: Verse
+kjv: "And the priest shall write these curses in a book, and he shall blot them out with the bitter water:"
+bsb: "And the priest shall write these curses on a scroll and wash them off into the bitter water."
+hebrew: "וְ֠כָתַב אֶת־ הָאָלֹ֥ת הָאֵ֛לֶּה הַכֹּהֵ֖ן בַּסֵּ֑פֶר וּמָחָ֖ה אֶל־ מֵ֥י הַמָּרִֽים׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0423]]"
+- "[[H0428]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H4229A]]"
+- "[[H0413]]"
+- "[[H4325G]]"
+- "[[H4751]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:23**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall write these curses in a book, and he shall blot [them] out with the bitter water:
 <small><sub>**BSB:**</sub></small>
 And the priest shall write these curses on a scroll and wash them off into the bitter water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H3789\|כָתַב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0423\|אָלֹ֥ת]] [[H9009\|הָ]][[H0428\|אֵ֛לֶּה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9003\|בַּ]][[H5612H\|סֵּ֑פֶר]] [[H9001\|וּ]][[H4229A\|מָחָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מֵ֥י]] [[H9009\|הַ]][[H4751\|מָּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.22|<< Numbers 5:22]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.24|Numbers 5:24 >>]]</td></tr></table>
 

@@ -1,6 +1,82 @@
+---
+title: LXX Genesis 31:33
+type: Verse
+lxx: "And entering, Laban searched in the house of Leah, and he did not find. And he came forth from out of the house of Leah, and he searched the house of Jacob, and in the house of the two maidservants, and he did not find. And he entered also into the house of Rachel."
+greek: "εισελθών δε Λάβαν ηρεύνησεν εις τον οίκον Λείας και ουχ εύρεν και εξήλθεν εκ του οίκου Λείας και ηρεύνησε τον οίκον Ιακώβ και εν τω οίκω των δύο παιδισκών και ουχ εύρεν εισήλθε δε και εις τον οίκον Ραχήλ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic TENT|TENT]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1525]]"
+- "[[G1161]]"
+- "[[H3837b]]"
+- "[[G2045]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[H3812]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[H3812]]"
+- "[[G2532]]"
+- "[[G2045]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2384]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G3814]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G1525]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G4478]]"
+---
+
 **LXX Genesis 31:33** 
 <small><sub>**LXX:**</sub></small>
 And entering, Laban searched in the house of Leah, and he did not find. And he came forth from out of the house of Leah, and he searched the house of Jacob, and in the house of the two maidservants, and he did not find. And he entered also into the house of Rachel. 
+<small><sub>**Greek:**</sub></small>
+[[G1525\|εισελθών]] [[G1161\|δε]] [[H3837b\|Λάβαν]] [[G2045\|ηρεύνησεν]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[H3812\|Λείας]] [[G2532\|και]] [[G3756\|ουχ]] [[G2147\|εύρεν]] [[G2532\|και]] [[G1831\|εξήλθεν]] [[G1537\|εκ]] [[G3588\|του]] [[G3624\|οίκου]] [[H3812\|Λείας]] [[G2532\|και]] [[G2045\|ηρεύνησε]] [[G3588\|τον]] [[G3624\|οίκον]] [[G2384\|Ιακώβ]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G3588\|των]] [[G1417\|δύο]] [[G3814\|παιδισκών]] [[G2532\|και]] [[G3756\|ουχ]] [[G2147\|εύρεν]] [[G1525\|εισήλθε]] [[G1161\|δε]] [[G2532\|και]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[G4478\|Ραχήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic TENT|TENT]] • [[topic TERAPHIM|TERAPHIM]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.32|<< Genesis 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.34|Genesis 31:34 >>]]</td></tr></table>
 
@@ -43,6 +119,6 @@ And entering, Laban searched in the house of Leah, and he did not find. And he c
 | the | **<big>[[G3588\|τον]]</big>** |
 | house | **<big>[[G3624\|οίκον]]</big>** |
 | of Rachel. | **<big>[[G4478\|Ραχήλ]]</big>** |
-[[Gen.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.32|<< Genesis 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.34|Genesis 31:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.32|<< Genesis 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.34|Genesis 31:34 >>]]</td></tr></table>
 
 

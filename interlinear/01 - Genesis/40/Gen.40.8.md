@@ -1,8 +1,68 @@
+---
+title: Genesis 40:8
+type: Verse
+kjv: "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."
+bsb: "“We both had dreams,” they replied, “but there is no one to interpret them.” Then Joseph said to them, “Don’t interpretations belong to God? Tell me your dreams.”"
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־ נָ֖א לִֽי׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2472]]"
+- "[[H2492B]]"
+- "[[H9002]]"
+- "[[H6622]]"
+- "[[H0369]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3130G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H6623]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:8**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, We have dreamed a dream, and [there is] no interpreter of it. And Joseph said unto them, [Do] not interpretations [belong] to God? tell me [them], I pray you.
 <small><sub>**BSB:**</sub></small>
 “We both had dreams,” they replied, “but there is no one to interpret them.” Then Joseph said to them, “Don’t interpretations belong to God? Tell me your dreams.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2472\|חֲל֣וֹם]] [[H2492B\|חָלַ֔מְנוּ]] [[H9002\|וּ]][[H6622\|פֹתֵ֖ר]] [[H0369\|אֵ֣ין]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H3130G\|יוֹסֵ֗ף]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִים֙]] [[H6623\|פִּתְרֹנִ֔ים]] [[H5608A\|סַפְּרוּ]][[H9014\|־]] [[H4994\|נָ֖א]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic INTERPRETER|INTERPRETER]] • [[topic JOSEPH|JOSEPH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.7|<< Genesis 40:7]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.9|Genesis 40:9 >>]]</td></tr></table>
 

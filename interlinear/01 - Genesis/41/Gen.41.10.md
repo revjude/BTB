@@ -1,8 +1,69 @@
+---
+title: Genesis 41:10
+type: Verse
+kjv: "Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, both me and the chief baker:"
+bsb: "Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard."
+hebrew: "פַּרְעֹ֖ה קָצַ֣ף עַל־ עֲבָדָ֑יו וַיִּתֵּ֨ן אֹתִ֜י בְּמִשְׁמַ֗ר בֵּ֚ית שַׂ֣ר הַטַּבָּחִ֔ים אֹתִ֕י וְאֵ֖ת שַׂ֥ר הָאֹפִֽים׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H6547H]]"
+- "[[H7107]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4929]]"
+- "[[H1004B]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2876]]"
+- "[[H9002]]"
+- "[[H0644]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:10**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pharaoh was wroth with his servants, and put me in ward in the captain of the guard’s house, [both] me and the chief baker:
 <small><sub>**BSB:**</sub></small>
 Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard.
+<small><sub>**Hebrew:**</sub></small>
+[[H6547H\|פַּרְעֹ֖ה]] [[H7107\|קָצַ֣ף]] [[H5921A\|עַל]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֨ן]] [[H0853\|אֹתִ֜]][[H9030\|י]] [[H9003\|בְּ]][[H4929\|מִשְׁמַ֗ר]] [[H1004B\|בֵּ֚ית]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H2876\|טַּבָּחִ֔ים]] [[H0853\|אֹתִ֕]][[H9030\|י]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H8269\|שַׂ֥ר]] [[H9009\|הָ]][[H0644\|אֹפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.9|<< Genesis 41:9]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.11|Genesis 41:11 >>]]</td></tr></table>
 

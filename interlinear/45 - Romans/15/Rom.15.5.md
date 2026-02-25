@@ -1,10 +1,64 @@
+---
+title: Romans 15:5
+type: Verse
+kjv: "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
+bsb: "Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus,"
+greek: "Ὁ δὲ θεὸς τῆς ὑπομονῆς καὶ τῆς παρακλήσεως δῴη ὑμῖν τὸ αὐτὸ φρονεῖν ἐν ἀλλήλοις κατὰ Χριστὸν Ἰησοῦν"
+pericope: "[[Rom.15.1 Accept One Another|Accept One Another]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G5281]]"
+- "[[G2532]]"
+- "[[G3874]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G0846]]"
+- "[[G5426]]"
+- "[[G1722]]"
+- "[[G0240]]"
+- "[[G2596]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Romans 15:5**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus,
-<small><sub>**Literal:**</sub></small>
-The now God <the> of endurance and <the> encouragement would He give you the same to be of mind with one another according to Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.4|<< Romans 15:4]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.6|Romans 15:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G5281\|ὑπομονῆς]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3874\|παρακλήσεως]]  [[G1325\|δῴη]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G5426\|φρονεῖν]]  [[G1722\|ἐν]]  [[G0240\|ἀλλήλοις]]  [[G2596\|κατὰ]]  [[G5547\|Χριστὸν]]  [[G2424G\|Ἰησοῦν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.4|<< Romans 15:4]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.6|Romans 15:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

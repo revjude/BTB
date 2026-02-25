@@ -1,8 +1,62 @@
+---
+title: Ezekiel 23:18
+type: Verse
+kjv: "So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister."
+bsb: "When Oholibah openly prostituted herself and exposed her nakedness, I turned away from her in disgust, just as I had turned away from her sister."
+hebrew: "וַתְּגַל֙ תַּזְנוּתֶ֔יהָ וַתְּגַ֖ל אֶת־ עֶרְוָתָ֑הּ וַתֵּ֤קַע נַפְשִׁי֙ מֵֽעָלֶ֔יהָ כַּאֲשֶׁ֛ר נָקְעָ֥ה נַפְשִׁ֖י מֵעַ֥ל אֲחוֹתָֽהּ׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1540I]]"
+- "[[H8457]]"
+- "[[H9024]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6172]]"
+- "[[H3363]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5361]]"
+- "[[H0269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:18**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister.
 <small><sub>**BSB:**</sub></small>
 When Oholibah openly prostituted herself and exposed her nakedness, I turned away from her in disgust, just as I had turned away from her sister.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1540I\|תְּגַל֙]] [[H8457\|תַּזְנוּתֶ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H1540I\|תְּגַ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H6172\|עֶרְוָתָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H3363\|תֵּ֤קַע]] [[H5315I\|נַפְשִׁ]][[H9020\|י֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H5361\|נָקְעָ֥ה]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0269\|אֲחוֹתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.17|<< Ezekiel 23:17]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.19|Ezekiel 23:19 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Matthew 3:17
+type: Verse
+kjv: "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+bsb: "And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”"
+greek: "καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητὸς ἐν ᾧ εὐδόκησα.¶"
+pericope: "[[Matt.3.13 The Baptism of Jesus|The Baptism of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVELATION|REVELATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2106]]"
+texts:
+- NKO
+---
+
 **Matthew 3:17**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”
-<small><sub>**Literal:**</sub></small>
-And behold a voice out of the heavens saying; This is the Son of Mine the beloved in whom I was well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.16|<< Matthew 3:16]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.1|Matthew 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G5456G\|φωνὴ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G3004G\|λέγουσα·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητὸς]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2106\|εὐδόκησα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVELATION|REVELATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.16|<< Matthew 3:16]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.1|Matthew 4:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 3:17** is...
 > $\quad$ possibly alluding to: [[LXX.Gen.22.2|Gen 22:2]]

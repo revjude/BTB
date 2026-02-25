@@ -1,8 +1,67 @@
+---
+title: Genesis 38:26
+type: Verse
+kjv: "And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more."
+bsb: "Judah recognized the items and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again."
+hebrew: "וַיַּכֵּ֣ר יְהוּדָ֗ה וַיֹּ֙אמֶר֙ צָֽדְקָ֣ה מִמֶּ֔נִּי כִּֽי־ עַל־ כֵּ֥ן לֹא־ נְתַתִּ֖יהָ לְשֵׁלָ֣ה בְנִ֑י וְלֹֽא־ יָסַ֥ף ע֖וֹד לְדַעְתָּֽה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHELAH|SHELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5234A]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H6663]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3588C]]"
+- "[[H9014]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H7956]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:26**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah acknowledged [them], and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
 <small><sub>**BSB:**</sub></small>
 Judah recognized the items and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5234A\|יַּכֵּ֣ר]] [[H3063G\|יְהוּדָ֗ה]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H6663\|צָֽדְקָ֣ה]] [[H4480A\|מִמֶּ֔]][[H9030\|נִּי]] [[H3588C\|כִּֽי]][[H9014\|־]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֥ן]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|נְתַתִּ֖י]][[H9034\|הָ]] [[H9005\|לְ]][[H7956\|שֵׁלָ֣ה]] [[H1121A\|בְנִ֑]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יָסַ֥ף]] [[H5750\|ע֖וֹד]] [[H9005\|לְ]][[H3045\|דַעְתָּֽ]][[H9034\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDAH|JUDAH]] • [[topic SHELAH|SHELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.25|<< Genesis 38:25]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.27|Genesis 38:27 >>]]</td></tr></table>
 

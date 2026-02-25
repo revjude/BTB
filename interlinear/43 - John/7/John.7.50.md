@@ -1,10 +1,55 @@
+---
+title: John 7:50
+type: Verse
+kjv: "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)"
+bsb: "Nicodemus, who had gone to Jesus earlier and who himself was one of them, asked,"
+greek: "λέγει Νικόδημος πρὸς αὐτούς, ὁ ἐλθὼν νυκτὸς πρὸς αὐτὸν τὸ πρότερον, εἷς ὢν ἐξ αὐτῶν·"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3530]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G3571]]"
+- "[[G4387]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G1537]]"
+texts:
+- NKO
+- K
+- N
+- NO
+---
+
 **John 7:50**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
 <small><sub>**BSB:**</sub></small>
 Nicodemus, who had gone to Jesus earlier and who himself was one of them, asked,
-<small><sub>**Literal:**</sub></small>
-Says Nicodemus to them, the [one] having come at night to Him the former one being of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.49|<< John 7:49]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.51|John 7:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G3530\|Νικόδημος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς,]]  [[G3588\|ὁ]]  [[G2064\|ἐλθὼν]]  [[G3571\|νυκτὸς]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G4387\|πρότερον,]]  [[G1520\|εἷς]]  [[G1510\|ὢν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NICODEMUS|NICODEMUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.49|<< John 7:49]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.51|John 7:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

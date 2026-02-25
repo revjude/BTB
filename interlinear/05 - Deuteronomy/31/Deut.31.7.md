@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 31:7
+type: Verse
+kjv: "And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it."
+bsb: "Then Moses called for Joshua and said to him in the presence of all Israel, “Be strong and courageous, for you will go with this people into the land that the LORD swore to their fathers to give them, and you shall give it to them as an inheritance."
+hebrew: "וַיִּקְרָ֨א מֹשֶׁ֜ה לִֽיהוֹשֻׁ֗עַ וַיֹּ֨אמֶר אֵלָ֜יו לְעֵינֵ֣י כָל־ יִשְׂרָאֵ֘ל חֲזַ֣ק וֶאֱמָץ֒ כִּ֣י אַתָּ֗ה תָּבוֹא֙ אֶת־ הָעָ֣ם הַזֶּ֔ה אֶל־ הָאָ֕רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהוָ֛ה לַאֲבֹתָ֖ם לָתֵ֣ת לָהֶ֑ם וְאַתָּ֖ה תַּנְחִילֶ֥נָּה אוֹתָֽם׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H3091G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H5157]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:7**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it.
 <small><sub>**BSB:**</sub></small>
 Then Moses called for Joshua and said to him in the presence of all Israel, “Be strong and courageous, for you will go with this people into the land that the LORD swore to their fathers to give them, and you shall give it to them as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H4872\|מֹשֶׁ֜ה]] [[H9005\|לִֽ]][[H3091G\|יהוֹשֻׁ֗עַ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H2388G\|חֲזַ֣ק]] [[H9002\|וֶ]][[H0553\|אֱמָץ֒]] [[H3588A\|כִּ֣י]] [[H0859A\|אַתָּ֗ה]] [[H0935G\|תָּבוֹא֙]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֧ע]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לַ]][[H0001G\|אֲבֹתָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H5157\|תַּנְחִילֶ֥]][[H9034\|נָּה]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.6|<< Deuteronomy 31:6]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.8|Deuteronomy 31:8 >>]]</td></tr></table>
 

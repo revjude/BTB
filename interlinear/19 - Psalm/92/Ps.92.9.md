@@ -1,8 +1,57 @@
+---
+title: Psalm 92:9
+type: Verse
+kjv: "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered."
+bsb: "For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers will be scattered."
+hebrew: "כִּ֤י הִנֵּ֪ה אֹיְבֶ֡יךָ׀ יְֽהוָ֗ה כִּֽי־ הִנֵּ֣ה אֹיְבֶ֣יךָ יֹאבֵ֑דוּ יִ֝תְפָּרְד֗וּ כָּל־ פֹּ֥עֲלֵי אָֽוֶן׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9014]]"
+- "[[H0006]]"
+- "[[H6504]]"
+- "[[H3605]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:9**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.
 <small><sub>**BSB:**</sub></small>
 For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers will be scattered.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2009\|הִנֵּ֪ה]] [[H0341\|אֹיְבֶ֡י]][[H9021\|ךָ]][[H9015\|׀]] [[H3068G\|יְֽהוָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֣ה]] [[H0341\|אֹיְבֶ֣י]][[H9021\|ךָ]] [[H0006\|יֹאבֵ֑דוּ]] [[H6504\|יִ֝תְפָּרְד֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H6466\|פֹּ֥עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.8|<< Psalms 92:8]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.10|Psalms 92:10 >>]]</td></tr></table>
 

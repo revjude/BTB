@@ -1,8 +1,61 @@
+---
+title: Genesis 28:3
+type: Verse
+kjv: "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;"
+bsb: "May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples."
+hebrew: "וְאֵ֤ל שַׁדַּי֙ יְבָרֵ֣ךְ אֹֽתְךָ֔ וְיַפְרְךָ֖ וְיַרְבֶּ֑ךָ וְהָיִ֖יתָ לִקְהַ֥ל עַמִּֽים׃"
+pericope: "[[Gen.28.1 Jacob’s Departure|Jacob’s Departure]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0410G]]"
+- "[[H7706]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H6509]]"
+- "[[H7235A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6951]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:3**<big><big>[[Gen.28.1 Jacob’s Departure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;
 <small><sub>**BSB:**</sub></small>
 May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0410G\|אֵ֤ל]] [[H7706\|שַׁדַּי֙]] [[H1288\|יְבָרֵ֣ךְ]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֔]] [[H9002\|וְ]][[H6509\|יַפְרְ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H7235A\|יַרְבֶּ֑]][[H9031\|ךָ]] [[H9001\|וְ]][[H1961\|הָיִ֖יתָ]] [[H9005\|לִ]][[H6951\|קְהַ֥ל]] [[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.2|<< Genesis 28:2]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.4|Genesis 28:4 >>]]</td></tr></table>
 

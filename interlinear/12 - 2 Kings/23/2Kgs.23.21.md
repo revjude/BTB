@@ -1,8 +1,63 @@
+---
+title: 2 Kings 23:21
+type: Verse
+kjv: "And the king commanded all the people, saying, Keep the passover unto the LORD your God, as it is written in the book of this covenant."
+bsb: "The king commanded all the people, “Keep the Passover of the LORD your God, as it is written in this Book of the Covenant.”"
+hebrew: "וַיְצַ֤ו הַמֶּ֙לֶךְ֙ אֶת־ כָּל־ הָעָ֣ם לֵאמֹ֔ר עֲשׂ֣וּ פֶ֔סַח לַֽיהוָ֖ה אֱלֹֽהֵיכֶ֑ם כַּכָּת֕וּב עַ֛ל סֵ֥פֶר הַבְּרִ֖ית הַזֶּֽה׃"
+pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6213A]]"
+- "[[H6453]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1285]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:21**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded all the people, saying, Keep the passover unto the LORD your God, as [it is] written in the book of this covenant.
 <small><sub>**BSB:**</sub></small>
 The king commanded all the people, “Keep the Passover of the LORD your God, as it is written in this Book of the Covenant.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H6213A\|עֲשׂ֣וּ]] [[H6453\|פֶ֔סַח]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֑ם]] [[H9004\|כַּ]][[H3789\|כָּת֕וּב]] [[H5921A\|עַ֛ל]] [[H5612H\|סֵ֥פֶר]] [[H9009\|הַ]][[H1285\|בְּרִ֖ית]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.20|<< 2 Kings 23:20]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.22|2 Kings 23:22 >>]]</td></tr></table>
 

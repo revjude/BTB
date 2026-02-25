@@ -1,10 +1,66 @@
+---
+title: Acts 17:13
+type: Verse
+kjv: "But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people."
+bsb: "But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds."
+greek: "Ὡς δὲ ἔγνωσαν οἱ ἀπὸ τῆς Θεσσαλονίκης Ἰουδαῖοι ὅτι καὶ ἐν τῇ Βεροίᾳ κατηγγέλη ὑπὸ τοῦ Παύλου ὁ λόγος τοῦ θεοῦ, ἦλθον κἀκεῖ κἀκεῖ σαλεύοντες καὶ ταράσσοντες τοὺς ὄχλους."
+pericope: "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEREA|BEREA]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G2332]]"
+- "[[G2453]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G0960]]"
+- "[[G2605]]"
+- "[[G5259G]]"
+- "[[G3972G]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G2064]]"
+- "[[G1563]]"
+- "[[G4531]]"
+- "[[G5015]]"
+- "[[G3793]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 17:13**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.
 <small><sub>**BSB:**</sub></small>
 But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.
-<small><sub>**Literal:**</sub></small>
-When however knew those from <the> Thessalonica Jews that also in <the> Berea was proclaimed by <the> Paul the word <the> of God, they came there also stirring up and agitating the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.12|<< Acts 17:12]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.14|Acts 17:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G1097\|ἔγνωσαν]]  [[G3588\|οἱ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2332\|Θεσσαλονίκης]]  [[G2453\|Ἰουδαῖοι]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0960\|Βεροίᾳ]]  [[G2605\|κατηγγέλη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2064\|ἦλθον]]  [[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G4531\|σαλεύοντες]]  [[G2532\|καὶ]]  [[G5015\|ταράσσοντες]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREA|BEREA]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic THESSALONICA|THESSALONICA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.12|<< Acts 17:12]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.14|Acts 17:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

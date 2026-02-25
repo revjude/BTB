@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Firstborn Animals
+type: Pericope
 pericope: "[[Deut.15.19 Firstborn Animals|Firstborn Animals]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 15
 book/chapter: "[[Deut.15|Deuteronomy 15]]"
-genre:
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 5
 verses:
 - "[[Deut.15.19]]"
 - "[[Deut.15.20]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Deut.15.23]]"
 ---
 
-[[Deut.15|Deuteronomy 15:19 - Deuteronomy 15:23]]
+<small>[[Deut.15|Deuteronomy 15:19-23]]</small>
 *Firstborn Animals*
 
 [[Deut.15.19|19]] All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.

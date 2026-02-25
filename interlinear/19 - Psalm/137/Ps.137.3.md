@@ -1,8 +1,64 @@
+---
+title: Psalm 137:3
+type: Verse
+kjv: "For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion."
+bsb: "for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.”"
+hebrew: "כִּ֤י שָׁ֨ם שְֽׁאֵל֪וּנוּ שׁוֹבֵ֡ינוּ דִּבְרֵי־ שִׁ֭יר וְתוֹלָלֵ֣ינוּ שִׂמְחָ֑ה שִׁ֥ירוּ לָ֝֗נוּ מִשִּׁ֥יר צִיּֽוֹן׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H7592]]"
+- "[[H9035]]"
+- "[[H7617]]"
+- "[[H1697M]]"
+- "[[H9014]]"
+- "[[H7892A]]"
+- "[[H9002]]"
+- "[[H8437]]"
+- "[[H9025]]"
+- "[[H8057]]"
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:3**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there they that carried us away captive required of us a song; and they that wasted us [required of us] mirth, [saying], Sing us [one] of the songs of Zion.
 <small><sub>**BSB:**</sub></small>
 for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8033G\|שָׁ֨ם]] [[H7592\|שְֽׁאֵל֪וּ]][[H9035\|נוּ]] [[H7617\|שׁוֹבֵ֡י]][[H9035\|נוּ]] [[H1697M\|דִּבְרֵי]][[H9014\|־]] [[H7892A\|שִׁ֭יר]] [[H9002\|וְ]][[H8437\|תוֹלָלֵ֣י]][[H9025\|נוּ]] [[H8057\|שִׂמְחָ֑ה]] [[H7891\|שִׁ֥ירוּ]] [[H9005\|לָ֝֗]][[H9035\|נוּ]] [[H9006\|מִ]][[H7892A\|שִּׁ֥יר]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COUNTRY|COUNTRY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MUSIC|MUSIC]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.2|<< Psalms 137:2]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.4|Psalms 137:4 >>]]</td></tr></table>
 

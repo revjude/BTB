@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 7:3
+type: Verse
+kjv: "And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, saying, For he is good; for his mercy endureth for ever."
+bsb: "When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they bowed down on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD: “For He is good; His loving devotion endures forever.”"
+hebrew: "וְכֹ֣ל׀ בְּנֵ֣י יִשְׂרָאֵ֗ל רֹאִים֙ בְּרֶ֣דֶת הָאֵ֔שׁ וּכְב֥וֹד יְהוָ֖ה עַל־ הַבָּ֑יִת וַיִּכְרְעוּ֩ אַפַּ֨יִם אַ֤רְצָה עַל־ הָרִֽצְפָה֙ וַיִּֽשְׁתַּֽחֲו֔וּ וְהוֹד֤וֹת לַיהוָה֙ כִּ֣י ט֔וֹב כִּ֥י לְעוֹלָ֖ם חַסְדּֽוֹ׃"
+pericope: "[[2Chr.7.1 Fire from Heaven|Fire from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BOWING|BOWING]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9001]]"
+- "[[H3766]]"
+- "[[H0639I]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7531A]]"
+- "[[H7812]]"
+- "[[H3034]]"
+- "[[H9005]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:3**<big><big>[[2Chr.7.1 Fire from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, [saying], For [he is] good; for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they bowed down on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD: “For He is good; His loving devotion endures forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H7200G\|רֹאִים֙]] [[H9003\|בְּ]][[H3381\|רֶ֣דֶת]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H3519\|כְב֥וֹד]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9001\|וַ]][[H3766\|יִּכְרְעוּ֩]] [[H0639I\|אַפַּ֨יִם]] [[H0776H\|אַ֤רְצָ]][[H9011\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H7531A\|רִֽצְפָה֙]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּֽחֲו֔וּ]] [[H9002\|וְ]][[H3034\|הוֹד֤וֹת]] [[H9005\|לַ]][[H3068G\|יהוָה֙]] [[H3588A\|כִּ֣י]] [[H2896A\|ט֔וֹב]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOWING|BOWING]] • [[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAISE|PRAISE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.2|<< 2 Chronicles 7:2]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.4|2 Chronicles 7:4 >>]]</td></tr></table>
 

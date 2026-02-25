@@ -1,8 +1,72 @@
+---
+title: Ezekiel 9:9
+type: Verse
+kjv: "Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not."
+bsb: "He replied, “The iniquity of the house of Israel and Judah is exceedingly great. The land is full of bloodshed, and the city is full of perversity. For they say, ‘The LORD has forsaken the land; the LORD does not see.’"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י עֲוֹ֨ן בֵּֽית־ יִשְׂרָאֵ֤ל וִֽיהוּדָה֙ גָּדוֹל֙ בִּמְאֹ֣ד מְאֹ֔ד וַתִּמָּלֵ֤א הָאָ֙רֶץ֙ דָּמִ֔ים וְהָעִ֖יר מָלְאָ֣ה מֻטֶּ֑ה כִּ֣י אָמְר֗וּ עָזַ֤ב יְהוָה֙ אֶת־ הָאָ֔רֶץ וְאֵ֥ין יְהוָ֖ה רֹאֶֽה׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5771H]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H1419A]]"
+- "[[H9003]]"
+- "[[H3966]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1818]]"
+- "[[H5892B]]"
+- "[[H4297]]"
+- "[[H3588A]]"
+- "[[H5800A]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0369]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 9:9**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, The iniquity of the house of Israel and Judah [is] exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.
 <small><sub>**BSB:**</sub></small>
 He replied, “The iniquity of the house of Israel and Judah is exceedingly great. The land is full of bloodshed, and the city is full of perversity. For they say, ‘The LORD has forsaken the land; the LORD does not see.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H5771H\|עֲוֹ֨ן]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H9002\|וִֽ]][[H3063G\|יהוּדָה֙]] [[H1419A\|גָּדוֹל֙]] [[H9003\|בִּ]][[H3966\|מְאֹ֣ד]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H4390\|תִּמָּלֵ֤א]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H1818\|דָּמִ֔ים]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H4390\|מָלְאָ֣ה]] [[H4297\|מֻטֶּ֑ה]] [[H3588A\|כִּ֣י]] [[H0559\|אָמְר֗וּ]] [[H5800A\|עָזַ֤ב]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H3068G\|יְהוָ֖ה]] [[H7200G\|רֹאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.8|<< Ezekiel 9:8]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.10|Ezekiel 9:10 >>]]</td></tr></table>
 

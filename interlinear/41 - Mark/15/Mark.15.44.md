@@ -1,10 +1,58 @@
+---
+title: Mark 15:44
+type: Verse
+kjv: "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead."
+bsb: "Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion to ask if this was so."
+greek: "ὁ δὲ Πιλᾶτος ἐθαύμασεν εἰ ἤδη τέθνηκεν, καὶ προσκαλεσάμενος τὸν κεντυρίωνα ἐπηρώτησεν αὐτὸν εἰ πάλαι ἀπέθανεν."
+pericope: "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4091]]"
+- "[[G2296]]"
+- "[[G1487G]]"
+- "[[G2235]]"
+- "[[G2348]]"
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G2760]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3819]]"
+- "[[G0599]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 15:44**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Pilate marvelled if he were already dead: and calling [unto him] the centurion, he asked him whether he had been any while dead.
 <small><sub>**BSB:**</sub></small>
 Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion to ask if this was so.
-<small><sub>**Literal:**</sub></small>
-<the> And Pilate wondered if already He has died, And having called to [him] the centurion he questioned him whether of old He had died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.43|<< Mark 15:43]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.45|Mark 15:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4091\|Πιλᾶτος]]  [[G2296\|ἐθαύμασεν]]  [[G1487G\|εἰ]]  [[G2235\|ἤδη]]  [[G2348\|τέθνηκεν,]]  [[G2532\|καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τὸν]]  [[G2760\|κεντυρίωνα]]  [[G1905\|ἐπηρώτησεν]]  [[G0846\|αὐτὸν]]  [[G1487G\|εἰ]]  [[G3819\|πάλαι]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENTURION|CENTURION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.43|<< Mark 15:43]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.45|Mark 15:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

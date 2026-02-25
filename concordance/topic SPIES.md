@@ -13,7 +13,7 @@
 
 → Used by David [[1Sam.26.4|1Sa 26:4]]
 
-→ Used at the court of Absalom  [[2Sam.15.10|2Sa 15:10]]; [[2Sam.17.1|17:1]]-[[2Sam.17.17|17]]
+→ Used at the court of Absalom  [[2Sam.15.10|2Sa 15:10]]; [[2Sam.17.1|17:1-17]]
 
 → Pharisees acted as [[Luke.20.20|Lu 20:20]]
 

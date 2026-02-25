@@ -1,8 +1,51 @@
+---
+title: Isaiah 13:12
+type: Verse
+kjv: "I will make a man more precious than fine gold; even a man than the golden wedge of Ophir."
+bsb: "I will make man scarcer than pure gold, and mankind rarer than the gold of Ophir."
+hebrew: "אוֹקִ֥יר אֱנ֖וֹשׁ מִפָּ֑ז וְאָדָ֖ם מִכֶּ֥תֶם אוֹפִֽיר׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic OPHIR|OPHIR]]"
+strongs:
+- "[[H3365]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H6337]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H3800]]"
+- "[[H0211H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:12**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make a man more precious than fine gold; even a man than the golden wedge of Ophir.
 <small><sub>**BSB:**</sub></small>
 I will make man scarcer than pure gold, and mankind rarer than the gold of Ophir.
+<small><sub>**Hebrew:**</sub></small>
+[[H3365\|אוֹקִ֥יר]] [[H0582\|אֱנ֖וֹשׁ]] [[H9006\|מִ]][[H6337\|פָּ֑ז]] [[H9002\|וְ]][[H0120G\|אָדָ֖ם]] [[H9006\|מִ]][[H3800\|כֶּ֥תֶם]] [[H0211H\|אוֹפִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic OPHIR|OPHIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.11|<< Isaiah 13:11]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.13|Isaiah 13:13 >>]]</td></tr></table>
 

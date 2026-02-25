@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Futility of Pleasure
+type: Pericope
 pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 2
 book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
-genre:
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 11
 verses:
 - "[[Eccl.2.1]]"
 - "[[Eccl.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Eccl.2.11]]"
 ---
 
-[[Eccl.2|Ecclesiastes 2:1 - Ecclesiastes 2:11]]
+<small>[[Eccl.2|Ecclesiastes 2:1-11]]</small>
 *The Futility of Pleasure*
 
 [[Eccl.2.1|1]] I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also \[is\] vanity.

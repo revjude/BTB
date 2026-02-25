@@ -1,10 +1,59 @@
+---
+title: Matthew 17:19
+type: Verse
+kjv: "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+bsb: "Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”"
+greek: "Τότε προσελθόντες οἱ μαθηταὶ τῷ Ἰησοῦ κατ᾽ ἰδίαν εἶπον· διὰ τί ἡμεῖς οὐκ ἠδυνήθημεν ἐκβαλεῖν αὐτό;¶"
+pericope: "[[Matt.17.19 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5119]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2424G]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G2036]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1544]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 17:19**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came the disciples to Jesus apart, and said, Why could not we cast him out?
 <small><sub>**BSB:**</sub></small>
 Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”
-<small><sub>**Literal:**</sub></small>
-Then having come the disciples <the> to Jesus in private they said; Because of why we ourselves not were able to cast out it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.18|<< Matthew 17:18]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.20|Matthew 17:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4334\|προσελθόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G2036\|εἶπον·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3165\|ἡμεῖς]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθημεν]]  [[G1544\|ἐκβαλεῖν]]  [[G0846\|αὐτό;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.18|<< Matthew 17:18]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.20|Matthew 17:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

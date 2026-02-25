@@ -1,8 +1,82 @@
+---
+title: Daniel 12:7
+type: Verse
+kjv: "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished."
+bsb: "And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.”"
+hebrew: "וָאֶשְׁמַ֞ע אֶת־ הָאִ֣ישׁ׀ לְב֣וּשׁ הַבַּדִּ֗ים אֲשֶׁ֣ר מִמַּעַל֮ לְמֵימֵ֣י הַיְאֹר֒ וַיָּ֨רֶם יְמִינ֤וֹ וּשְׂמֹאלוֹ֙ אֶל־ הַשָּׁמַ֔יִם וַיִּשָּׁבַ֖ע בְּחֵ֣י הָעוֹלָ֑ם כִּי֩ לְמוֹעֵ֨ד מֽוֹעֲדִ֜ים וָחֵ֗צִי וּכְכַלּ֛וֹת נַפֵּ֥ץ יַד־ עַם־ קֹ֖דֶשׁ תִּכְלֶ֥ינָה כָל־ אֵֽלֶּה׃"
+pericope: "[[Dan.12.1 The End Times|The End Times]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 12
+book/chapter: "[[Dan.12|Daniel 12]]"
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9015]]"
+- "[[H3847]]"
+- "[[H0906]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9005]]"
+- "[[H4325G]]"
+- "[[H2975H]]"
+- "[[H7311A]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H0413]]"
+- "[[H8064]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H2416A]]"
+- "[[H5769G]]"
+- "[[H3588A]]"
+- "[[H4150G]]"
+- "[[H2677]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H5310A]]"
+- "[[H3027H]]"
+- "[[H5971A]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 12:7**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I heard the man clothed in linen, which [was] upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that [it shall be] for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these [things] shall be finished.
 <small><sub>**BSB:**</sub></small>
 And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8085G\|אֶשְׁמַ֞ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]][[H9015\|׀]] [[H3847\|לְב֣וּשׁ]] [[H9009\|הַ]][[H0906\|בַּדִּ֗ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9006\|מִ]][[H4605\|מַּעַל֮]] [[H9005\|לְ]][[H4325G\|מֵימֵ֣י]] [[H9009\|הַ]][[H2975H\|יְאֹר֒]] [[H9001\|וַ]][[H7311A\|יָּ֨רֶם]] [[H3225G\|יְמִינ֤]][[H9023\|וֹ]] [[H9002\|וּ]][[H8040G\|שְׂמֹאל]][[H9023\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H7650\|יִּשָּׁבַ֖ע]] [[H9003\|בְּ]][[H2416A\|חֵ֣י]] [[H9009\|הָ]][[H5769G\|עוֹלָ֑ם]] [[H3588A\|כִּי֩]] [[H9005\|לְ]][[H4150G\|מוֹעֵ֨ד]] [[H4150G\|מֽוֹעֲדִ֜ים]] [[H9002\|וָ]][[H2677\|חֵ֗צִי]] [[H9002\|וּ]][[H9004\|כְ]][[H3615G\|כַלּ֛וֹת]] [[H5310A\|נַפֵּ֥ץ]] [[H3027H\|יַד]][[H9014\|־]] [[H5971A\|עַם]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H3615G\|תִּכְלֶ֥ינָה]] [[H3605\|כָל]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic OATH|OATH]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.6|<< Daniel 12:6]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.8|Daniel 12:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 22:27
+type: Verse
+kjv: "Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain."
+bsb: "Her officials within her are like wolves tearing their prey, shedding blood, and destroying lives for dishonest gain."
+hebrew: "שָׂרֶ֣יהָ בְקִרְבָּ֔הּ כִּזְאֵבִ֖ים טֹ֣רְפֵי טָ֑רֶף לִשְׁפָּךְ־ דָּם֙ לְאַבֵּ֣ד נְפָשׁ֔וֹת לְמַ֖עַן בְּצֹ֥עַ בָּֽצַע׃"
+pericope: "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CRIME|CRIME]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9004]]"
+- "[[H2061]]"
+- "[[H2963]]"
+- "[[H2964]]"
+- "[[H9005]]"
+- "[[H8210H]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H0006]]"
+- "[[H5315H]]"
+- "[[H4616]]"
+- "[[H1214I]]"
+- "[[H1215]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:27**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her princes in the midst thereof [are] like wolves ravening the prey, to shed blood, [and] to destroy souls, to get dishonest gain.
 <small><sub>**BSB:**</sub></small>
 Her officials within her are like wolves tearing their prey, shedding blood, and destroying lives for dishonest gain.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שָׂרֶ֣י]][[H9024\|הָ]] [[H9003\|בְ]][[H7130G\|קִרְבָּ֔]][[H9024\|הּ]] [[H9004\|כִּ]][[H2061\|זְאֵבִ֖ים]] [[H2963\|טֹ֣רְפֵי]] [[H2964\|טָ֑רֶף]] [[H9005\|לִ]][[H8210H\|שְׁפָּךְ]][[H9014\|־]] [[H1818\|דָּם֙]] [[H9005\|לְ]][[H0006\|אַבֵּ֣ד]] [[H5315H\|נְפָשׁ֔וֹת]] [[H4616\|לְמַ֖עַן]] [[H1214I\|בְּצֹ֥עַ]] [[H1215\|בָּֽצַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIME|CRIME]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RULERS|RULERS]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
 

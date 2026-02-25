@@ -1,8 +1,75 @@
+---
+title: Numbers 14:35
+type: Verse
+kjv: "I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die."
+bsb: "I, the LORD, have spoken, and I will surely do these things to this entire wicked congregation, which has conspired against Me. They will meet their end in the wilderness, and there they will die.”"
+hebrew: "אֲנִ֣י יְהוָה֮ דִּבַּרְתִּי֒ אִם־ לֹ֣א׀ זֹ֣את אֶֽעֱשֶׂ֗ה לְכָל־ הָעֵדָ֤ה הָֽרָעָה֙ הַזֹּ֔את הַנּוֹעָדִ֖ים עָלָ֑י בַּמִּדְבָּ֥ר הַזֶּ֛ה יִתַּ֖מּוּ וְשָׁ֥ם יָמֻֽתוּ׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9015]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H7451H]]"
+- "[[H3259]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H2088]]"
+- "[[H8552]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:35**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.
 <small><sub>**BSB:**</sub></small>
 I, the LORD, have spoken, and I will surely do these things to this entire wicked congregation, which has conspired against Me. They will meet their end in the wilderness, and there they will die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָה֮]] [[H1696G\|דִּבַּרְתִּי֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]][[H9015\|׀]] [[H2063\|זֹ֣את]] [[H6213A\|אֶֽעֱשֶׂ֗ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָ֤ה]] [[H9009\|הָֽ]][[H7451H\|רָעָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9009\|הַ]][[H3259\|נּוֹעָדִ֖ים]] [[H5921A\|עָלָ֑]][[H9030\|י]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H8552\|יִתַּ֖מּוּ]] [[H9002\|וְ]][[H8033G\|שָׁ֥ם]] [[H4191\|יָמֻֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.34|<< Numbers 14:34]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.36|Numbers 14:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

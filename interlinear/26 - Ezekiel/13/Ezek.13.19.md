@@ -1,8 +1,73 @@
+---
+title: Ezekiel 13:19
+type: Verse
+kjv: "And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?"
+bsb: "You have profaned Me among My people for handfuls of barley and scraps of bread. By lying to My people who would listen, you have killed those who should not have died and spared those who should not have lived."
+hebrew: "וַתְּחַלֶּלְ֨נָה אֹתִ֜י אֶל־ עַמִּ֗י בְּשַׁעֲלֵ֣י שְׂעֹרִים֮ וּבִפְת֣וֹתֵי לֶחֶם֒ לְהָמִ֤ית נְפָשׁוֹת֙ אֲשֶׁ֣ר לֹֽא־ תְמוּתֶ֔נָה וּלְחַיּ֥וֹת נְפָשׁ֖וֹת אֲשֶׁ֣ר לֹא־ תִֽחְיֶ֑ינָה בְּכַ֨זֶּבְכֶ֔ם לְעַמִּ֖י שֹׁמְעֵ֥י כָזָֽב׃ ס"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H8168]]"
+- "[[H8184]]"
+- "[[H9002]]"
+- "[[H6595B]]"
+- "[[H3899H]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H5315G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H3576]]"
+- "[[H9046]]"
+- "[[H8085G]]"
+- "[[H3577]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 13:19**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear [your] lies?
 <small><sub>**BSB:**</sub></small>
 You have profaned Me among My people for handfuls of barley and scraps of bread. By lying to My people who would listen, you have killed those who should not have died and spared those who should not have lived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2490H\|תְּחַלֶּלְ֨נָה]] [[H0853\|אֹתִ֜]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַמִּ֗]][[H9020\|י]] [[H9003\|בְּ]][[H8168\|שַׁעֲלֵ֣י]] [[H8184\|שְׂעֹרִים֮]] [[H9002\|וּ]][[H9003\|בִ]][[H6595B\|פְת֣וֹתֵי]] [[H3899H\|לֶחֶם֒]] [[H9005\|לְ]][[H4191\|הָמִ֤ית]] [[H5315G\|נְפָשׁוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4191\|תְמוּתֶ֔נָה]] [[H9002\|וּ]][[H9005\|לְ]][[H2421\|חַיּ֥וֹת]] [[H5315G\|נְפָשׁ֖וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2421\|תִֽחְיֶ֑ינָה]] [[H9003\|בְּ]][[H3576\|כַ֨זֶּבְ]][[H9046\|כֶ֔ם]] [[H9005\|לְ]][[H5971A\|עַמִּ֖]][[H9020\|י]] [[H8085G\|שֹׁמְעֵ֥י]] [[H3577\|כָזָֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.18|<< Ezekiel 13:18]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.20|Ezekiel 13:20 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ You have profaned Me among My people for handfuls of barley and scraps of bread.
 | when speak falsehood you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3576\|כַ֨זֶּבְ]]&#8207;&#8207;[[H9046\|כֶ֔ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kha.zev.<small><sup>[[HVpcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to people my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עַמִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] listen to  |**<big>&#8207;[[H8085G\|שֹׁמְעֵ֥י]]&#8207; </big>**| sho.me.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<of> falsehood  |**<big>&#8207;[[H3577\|כָזָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> falsehood  |**<big>&#8207;[[H3577\|כָזָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.18|<< Ezekiel 13:18]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.20|Ezekiel 13:20 >>]]</td></tr></table>
 
 

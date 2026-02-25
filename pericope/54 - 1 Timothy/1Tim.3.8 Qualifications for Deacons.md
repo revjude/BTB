@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Qualifications for Deacons
+type: Pericope
 pericope: "[[1Tim.3.8 Qualifications for Deacons|Qualifications for Deacons]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 3
 book/chapter: "[[1Tim.3|1 Timothy 3]]"
-genre:
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 6
 verses:
 - "[[1Tim.3.8]]"
 - "[[1Tim.3.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Tim.3.13]]"
 ---
 
-[[1Tim.3|1 Timothy 3:8 - 1 Timothy 3:13]]
+<small>[[1Tim.3|1 Timothy 3:8-13]]</small>
 *Qualifications for Deacons*
 
 [[1Tim.3.8|8]] Likewise \[must\] the deacons \[be\] grave, not doubletongued, not given to much wine, not greedy of filthy lucre;

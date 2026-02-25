@@ -1,8 +1,75 @@
+---
+title: Jeremiah 49:16
+type: Verse
+kjv: "Thy terribleness hath deceived thee, and the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD."
+bsb: "The terror you cause and the pride of your heart have deceived you, O dwellers in the clefts of the rocks, O occupiers of the mountain summit. Though you elevate your nest like the eagle, even from there I will bring you down,” declares the LORD."
+hebrew: "תִּֽפְלַצְתְּךָ֞ הִשִּׁ֤יא אֹתָךְ֙ זְד֣וֹן לִבֶּ֔ךָ שֹֽׁכְנִי֙ בְּחַגְוֵ֣י הַסֶּ֔לַע תֹּפְשִׂ֖י מְר֣וֹם גִּבְעָ֑ה כִּֽי־ תַגְבִּ֤יהַ כַּנֶּ֙שֶׁר֙ קִנֶּ֔ךָ מִשָּׁ֥ם אֽוֹרִידְךָ֖ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SECURITY|SECURITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H8606]]"
+- "[[H9021]]"
+- "[[H5377]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H2087]]"
+- "[[H3820A]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H2288]]"
+- "[[H9009]]"
+- "[[H5553H]]"
+- "[[H8610]]"
+- "[[H4791]]"
+- "[[H1389I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1361]]"
+- "[[H9004]]"
+- "[[H5404]]"
+- "[[H7064]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3381]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:16**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy terribleness hath deceived thee, [and] the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 The terror you cause and the pride of your heart have deceived you, O dwellers in the clefts of the rocks, O occupiers of the mountain summit. Though you elevate your nest like the eagle, even from there I will bring you down,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8606\|תִּֽפְלַצְתְּ]][[H9021\|ךָ֞]] [[H5377\|הִשִּׁ֤יא]] [[H0853\|אֹתָ]][[H9031\|ךְ֙]] [[H2087\|זְד֣וֹן]] [[H3820A\|לִבֶּ֔]][[H9021\|ךָ]] [[H7931\|שֹֽׁכְנִי֙]] [[H9003\|בְּ]][[H2288\|חַגְוֵ֣י]] [[H9009\|הַ]][[H5553H\|סֶּ֔לַע]] [[H8610\|תֹּפְשִׂ֖י]] [[H4791\|מְר֣וֹם]] [[H1389I\|גִּבְעָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1361\|תַגְבִּ֤יהַ]] [[H9004\|כַּ]][[H5404\|נֶּ֙שֶׁר֙]] [[H7064\|קִנֶּ֔]][[H9021\|ךָ]] [[H9006\|מִ]][[H8033G\|שָּׁ֥ם]] [[H3381\|אֽוֹרִידְ]][[H9031\|ךָ֖]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAGLE|EAGLE]] • [[topic EDOMITES|EDOMITES]] • [[topic HEART|HEART]] • [[topic PRIDE|PRIDE]] • [[topic ROCK|ROCK]] • [[topic SECURITY|SECURITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.15|<< Jeremiah 49:15]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.17|Jeremiah 49:17 >>]]</td></tr></table>
 

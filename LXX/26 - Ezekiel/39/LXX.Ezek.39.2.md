@@ -1,6 +1,53 @@
+---
+title: LXX Ezekiel 39:2
+type: Verse
+lxx: "And I will gather you, and I will lead you down, and I will haul you from the extreme north, and I will lead you upon the mountains of Israel."
+greek: "και συνάξω σε και κατάξω σε και αναβιβάσω σε επ΄ εσχάτου βορρά και ανάξω σε επί τα όρη Ισραήλ"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2609]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0307]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G2078]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G0321]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2474]]"
+---
+
 **LXX Ezekiel 39:2** 
 <small><sub>**LXX:**</sub></small>
 And I will gather you, and I will lead you down, and I will haul you from \[the\] extreme north, and I will lead you upon the mountains of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4863\|συνάξω]] [[G1473\|σε]] [[G2532\|και]] [[G2609\|κατάξω]] [[G1473\|σε]] [[G2532\|και]] [[G0307\|αναβιβάσω]] [[G1473\|σε]] [[G1909\|επ΄]] [[G2078\|εσχάτου]] [[G1005\|βορρά]] [[G2532\|και]] [[G0321\|ανάξω]] [[G1473\|σε]] [[G1909\|επί]] [[G3588\|τα]] [[G3735\|όρη]] [[G2474\|Ισραήλ]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
 
@@ -24,6 +71,6 @@ And I will gather you, and I will lead you down, and I will haul you from \[the\
 | the | **<big>[[G3588\|τα]]</big>** |
 | mountains | **<big>[[G3735\|όρη]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Ezek.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
 
 

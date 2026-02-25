@@ -1,10 +1,63 @@
+---
+title: John 11:19
+type: Verse
+kjv: "And many of the Jews came to Martha and Mary, to comfort them concerning their brother."
+bsb: "and many of the Jews had come to Martha and Mary to console them in the loss of their brother."
+greek: "καὶ Πολλοὶ δὲ ἐκ τῶν Ἰουδαίων ἐληλύθεισαν πρὸς τὴν περὶ Μάρθαν καὶ Μαριὰμ ἵνα παραμυθήσωνται αὐτὰς περὶ τοῦ ἀδελφοῦ αὐτῶν.¶"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4012]]"
+- "[[G3136]]"
+- "[[G3137J]]"
+- "[[G2443]]"
+- "[[G3888]]"
+- "[[G0846]]"
+- "[[G0080]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **John 11:19**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many of the Jews came to Martha and Mary, to comfort them concerning their brother.
 <small><sub>**BSB:**</sub></small>
 and many of the Jews had come to Martha and Mary to console them in the loss of their brother.
-<small><sub>**Literal:**</sub></small>
-and Many now of the Jews had come unto <the> concerning Martha and Mary that they may console them concerning the brother of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.18|<< John 11:18]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.20|John 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4183\|Πολλοὶ]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2064\|ἐληλύθεισαν]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G4012\|περὶ]]  [[G3136\|Μάρθαν]]  [[G2532\|καὶ]]  [[G3137J\|Μαριὰμ]]  [[G2443\|ἵνα]]  [[G3888\|παραμυθήσωνται]]  [[G0846\|αὐτὰς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.18|<< John 11:18]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.20|John 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Potter and the Clay
+type: Pericope
 pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 18
 book/chapter: "[[Jer.18|Jeremiah 18]]"
-genre:
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 17
 verses:
 - "[[Jer.18.1]]"
 - "[[Jer.18.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Jer.18.17]]"
 ---
 
-[[Jer.18|Jeremiah 18:1 - Jeremiah 18:17]]
+<small>[[Jer.18|Jeremiah 18:1-17]]</small>
 *The Potter and the Clay*
 
 [[Jer.18.1|1]] The word which came to Jeremiah from the LORD, saying,

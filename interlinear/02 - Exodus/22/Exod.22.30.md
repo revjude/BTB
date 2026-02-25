@@ -1,8 +1,67 @@
+---
+title: Exodus 22:30
+type: Verse
+kjv: "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
+bsb: "You shall do likewise with your cattle and your sheep. Let them stay with their mothers for seven days, but on the eighth day you are to give them to Me."
+hebrew: "כֵּֽן־ תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־ אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־ לִֽי׃"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H7794]]"
+- "[[H9021]]"
+- "[[H6629G]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:30**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise shalt thou do with thine oxen, [and] with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
 <small><sub>**BSB:**</sub></small>
 You shall do likewise with your cattle and your sheep. Let them stay with their mothers for seven days, but on the eighth day you are to give them to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּֽן]][[H9014\|־]] [[H6213A\|תַּעֲשֶׂ֥ה]] [[H9005\|לְ]][[H7794\|שֹׁרְ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H6629G\|צֹאנֶ֑]][[H9021\|ךָ]] [[H7651\|שִׁבְעַ֤ת]] [[H3117G\|יָמִים֙]] [[H1961\|יִהְיֶ֣ה]] [[H5973A\|עִם]][[H9014\|־]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֖י]] [[H5414G\|תִּתְּנ]][[H9033\|וֹ]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.29|<< Exodus 22:29]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.31|Exodus 22:31 >>]]</td></tr></table>
 

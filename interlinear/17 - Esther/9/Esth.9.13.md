@@ -1,8 +1,70 @@
+---
+title: Esther 9:13
+type: Verse
+kjv: "Then said Esther, If it please the king, let it be granted to the Jews which are in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows."
+bsb: "Esther replied, “If it pleases the king, may the Jews in Susa also have tomorrow to carry out today’s edict, and may the bodies of Haman’s ten sons be hanged on the gallows.”"
+hebrew: "וַתֹּ֤אמֶר אֶסְתֵּר֙ אִם־ עַל־ הַמֶּ֣לֶךְ ט֔וֹב יִנָּתֵ֣ן גַּם־ מָחָ֗ר לַיְּהוּדִים֙ אֲשֶׁ֣ר בְּשׁוּשָׁ֔ן לַעֲשׂ֖וֹת כְּדָ֣ת הַיּ֑וֹם וְאֵ֛ת עֲשֶׂ֥רֶת בְּנֵֽי־ הָמָ֖ן יִתְל֥וּ עַל־ הָעֵֽץ׃"
+pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic GALLOWS|GALLOWS]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0635]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2896A]]"
+- "[[H5414Q]]"
+- "[[H1571]]"
+- "[[H4279]]"
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1881]]"
+- "[[H3117L]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6235]]"
+- "[[H1121A]]"
+- "[[H2001]]"
+- "[[H8518]]"
+- "[[H6086J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:13**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Esther, If it please the king, let it be granted to the Jews which [are] in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.
 <small><sub>**BSB:**</sub></small>
 Esther replied, “If it pleases the king, may the Jews in Susa also have tomorrow to carry out today’s edict, and may the bodies of Haman’s ten sons be hanged on the gallows.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H0635\|אֶסְתֵּר֙]] [[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2896A\|ט֔וֹב]] [[H5414Q\|יִנָּתֵ֣ן]] [[H1571\|גַּם]][[H9014\|־]] [[H4279\|מָחָ֗ר]] [[H9005\|לַ]][[H3064\|יְּהוּדִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7800\|שׁוּשָׁ֔ן]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9004\|כְּ]][[H1881\|דָ֣ת]] [[H9009\|הַ]][[H3117L\|יּ֑וֹם]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H6235\|עֲשֶׂ֥רֶת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H2001\|הָמָ֖ן]] [[H8518\|יִתְל֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6086J\|עֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLOWS|GALLOWS]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.12|<< Esther 9:12]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.14|Esther 9:14 >>]]</td></tr></table>
 

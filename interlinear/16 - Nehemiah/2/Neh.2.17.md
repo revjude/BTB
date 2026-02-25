@@ -1,8 +1,70 @@
+---
+title: Nehemiah 2:17
+type: Verse
+kjv: "Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."
+bsb: "Then I said to them, “You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace.”"
+hebrew: "וָאוֹמַ֣ר אֲלֵהֶ֗ם אַתֶּ֤ם רֹאִים֙ הָרָעָה֙ אֲשֶׁ֣ר אֲנַ֣חְנוּ בָ֔הּ אֲשֶׁ֤ר יְרוּשָׁלִַ֙ם֙ חֲרֵבָ֔ה וּשְׁעָרֶ֖יהָ נִצְּת֣וּ בָאֵ֑שׁ לְכ֗וּ וְנִבְנֶה֙ אֶת־ חוֹמַ֣ת יְרוּשָׁלִַ֔ם וְלֹא־ נִהְיֶ֥ה ע֖וֹד חֶרְפָּֽה׃"
+pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0859D]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0587]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3389]]"
+- "[[H2720B]]"
+- "[[H9002]]"
+- "[[H8179G]]"
+- "[[H9024]]"
+- "[[H3341]]"
+- "[[H0784]]"
+- "[[H1980K]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H2781]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:17**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I unto them, Ye see the distress that we [are] in, how Jerusalem [lieth] waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
 <small><sub>**BSB:**</sub></small>
 Then I said to them, “You see the trouble we are in. Jerusalem lies in ruins, and its gates have been burned down. Come, let us rebuild the wall of Jerusalem, so that we will no longer be a disgrace.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אוֹמַ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H0859D\|אַתֶּ֤ם]] [[H7200G\|רֹאִים֙]] [[H9009\|הָ]][[H7451C\|רָעָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0587\|אֲנַ֣חְנוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H0834A\|אֲשֶׁ֤ר]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H2720B\|חֲרֵבָ֔ה]] [[H9002\|וּ]][[H8179G\|שְׁעָרֶ֖י]][[H9024\|הָ]] [[H3341\|נִצְּת֣וּ]] [[H9003\|בָ]][[H0784\|אֵ֑שׁ]] [[H1980K\|לְכ֗וּ]] [[H9002\|וְ]][[H1129\|נִבְנֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2346G\|חוֹמַ֣ת]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|נִהְיֶ֥ה]] [[H5750\|ע֖וֹד]] [[H2781\|חֶרְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.16|<< Nehemiah 2:16]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.18|Nehemiah 2:18 >>]]</td></tr></table>
 

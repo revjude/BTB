@@ -1,8 +1,56 @@
+---
+title: Job 3:24
+type: Verse
+kjv: "For my sighing cometh before I eat, and my roarings are poured out like the waters."
+bsb: "I sigh when food is put before me, and my groans pour out like water."
+hebrew: "כִּֽי־ לִפְנֵ֣י לַ֭חְמִי אַנְחָתִ֣י תָבֹ֑א וַֽיִּתְּכ֥וּ כַ֝מַּ֗יִם שַׁאֲגֹתָֽי׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3899H]]"
+- "[[H9020]]"
+- "[[H0585]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H5413]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H7581]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:24**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my sighing cometh before I eat, and my roarings are poured out like the waters.
 <small><sub>**BSB:**</sub></small>
 I sigh when food is put before me, and my groans pour out like water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3899H\|לַ֭חְמִ]][[H9020\|י]] [[H0585\|אַנְחָתִ֣]][[H9020\|י]] [[H0935G\|תָבֹ֑א]] [[H9001\|וַֽ]][[H5413\|יִּתְּכ֥וּ]] [[H9004\|כַ֝]][[H4325G\|מַּ֗יִם]] [[H7581\|שַׁאֲגֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.23|<< Job 3:23]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.25|Job 3:25 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Judges 19:26
+type: Verse
+kjv: "Then came the woman in the dawning of the day, and fell down at the door of the man’s house where her lord was, till it was light."
+bsb: "Early that morning, the woman went back to the house where her master was staying, collapsed at the doorway, and lay there until it was light."
+hebrew: "וַתָּבֹ֥א הָאִשָּׁ֖ה לִפְנ֣וֹת הַבֹּ֑קֶר וַתִּפֹּ֞ל פֶּ֧תַח בֵּית־ הָאִ֛ישׁ אֲשֶׁר־ אֲדוֹנֶ֥יהָ שָּׁ֖ם עַד־ הָאֽוֹר׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9005]]"
+- "[[H6437G]]"
+- "[[H1242]]"
+- "[[H5307J]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0113]]"
+- "[[H9024]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:26**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the woman in the dawning of the day, and fell down at the door of the man’s house where her lord [was], till it was light.
 <small><sub>**BSB:**</sub></small>
 Early that morning, the woman went back to the house where her master was staying, collapsed at the doorway, and lay there until it was light.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹ֥א]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֖ה]] [[H9005\|לִ]][[H6437G\|פְנ֣וֹת]] [[H9009\|הַ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וַ]][[H5307J\|תִּפֹּ֞ל]] [[H6607\|פֶּ֧תַח]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֛ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0113\|אֲדוֹנֶ֥י]][[H9024\|הָ]] [[H8033G\|שָּׁ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 

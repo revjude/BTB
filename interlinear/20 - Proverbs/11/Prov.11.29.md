@@ -1,8 +1,55 @@
+---
+title: Proverbs 11:29
+type: Verse
+kjv: "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart."
+bsb: "He who brings trouble on his house will inherit the wind, and the fool will be servant to the wise of heart."
+hebrew: "עוֹכֵ֣ר בֵּ֭יתוֹ יִנְחַל־ ר֑וּחַ וְעֶ֥בֶד אֱ֝וִ֗יל לַחֲכַם־ לֵֽב׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5916]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H5157]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H0191]]"
+- "[[H9005]]"
+- "[[H2450]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:29**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that troubleth his own house shall inherit the wind: and the fool [shall be] servant to the wise of heart.
 <small><sub>**BSB:**</sub></small>
 He who brings trouble on his house will inherit the wind, and the fool will be servant to the wise of heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H5916\|עוֹכֵ֣ר]] [[H1004M\|בֵּ֭ית]][[H9023\|וֹ]] [[H5157\|יִנְחַל]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וְ]][[H5650\|עֶ֥בֶד]] [[H0191\|אֱ֝וִ֗יל]] [[H9005\|לַ]][[H2450\|חֲכַם]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.28|<< Proverbs 11:28]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.30|Proverbs 11:30 >>]]</td></tr></table>
 

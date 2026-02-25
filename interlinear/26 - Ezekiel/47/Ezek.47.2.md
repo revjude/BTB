@@ -1,8 +1,72 @@
+---
+title: Ezekiel 47:2
+type: Verse
+kjv: "Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side."
+bsb: "Next he brought me out through the north gate and led me around the outside to the outer gate facing east, and there I saw the water trickling out from the south side."
+hebrew: "וַיּוֹצִאֵנִי֮ דֶּֽרֶךְ־ שַׁ֣עַר צָפוֹנָה֒ וַיְסִבֵּ֙נִי֙ דֶּ֣רֶךְ ח֔וּץ אֶל־ שַׁ֣עַר הַח֔וּץ דֶּ֖רֶךְ הַפּוֹנֶ֣ה קָדִ֑ים וְהִנֵּה־ מַ֣יִם מְפַכִּ֔ים מִן־ הַכָּתֵ֖ף הַיְמָנִֽית׃"
+pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H1870K]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H5437H]]"
+- "[[H1870J]]"
+- "[[H2351]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H6437G]]"
+- "[[H6921]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4325G]]"
+- "[[H6379]]"
+- "[[H4480A]]"
+- "[[H3802]]"
+- "[[H3233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:2**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then brought he me out of the way of the gate northward, and led me about the way without unto the utter gate by the way that looketh eastward; and, behold, there ran out waters on the right side.
 <small><sub>**BSB:**</sub></small>
 Next he brought me out through the north gate and led me around the outside to the outer gate facing east, and there I saw the water trickling out from the south side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִאֵ]][[H9030\|נִי֮]] [[H1870K\|דֶּֽרֶךְ]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]] [[H6828G\|צָפוֹנָ]][[H9011\|ה֒]] [[H9001\|וַ]][[H5437H\|יְסִבֵּ֙]][[H9030\|נִי֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H2351\|ח֔וּץ]] [[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H2351\|ח֔וּץ]] [[H1870J\|דֶּ֖רֶךְ]] [[H9009\|הַ]][[H6437G\|פּוֹנֶ֣ה]] [[H6921\|קָדִ֑ים]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H6379\|מְפַכִּ֔ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3802\|כָּתֵ֖ף]] [[H9009\|הַ]][[H3233H\|יְמָנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EZEKIEL|EZEKIEL]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.1|<< Ezekiel 47:1]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.3|Ezekiel 47:3 >>]]</td></tr></table>
 

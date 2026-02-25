@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Three Feasts of Pilgrimage
+type: Pericope
 pericope: "[[Exod.23.14 The Three Feasts of Pilgrimage|The Three Feasts of Pilgrimage]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 23
 book/chapter: "[[Exod.23|Exodus 23]]"
-genre:
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.23.14]]"
 - "[[Exod.23.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.23.19]]"
 ---
 
-[[Exod.23|Exodus 23:14 - Exodus 23:19]]
+<small>[[Exod.23|Exodus 23:14-19]]</small>
 *The Three Feasts of Pilgrimage*
 
 [[Exod.23.14|14]] Three times thou shalt keep a feast unto me in the year.

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Miscellaneous Laws
+type: Pericope
 pericope: "[[Deut.23.15 Miscellaneous Laws|Miscellaneous Laws]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 23
 book/chapter: "[[Deut.23|Deuteronomy 23]]"
-genre:
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.23.15]]"
 - "[[Deut.23.16]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.23.25]]"
 ---
 
-[[Deut.23|Deuteronomy 23:15 - Deuteronomy 23:25]]
+<small>[[Deut.23|Deuteronomy 23:15-25]]</small>
 *Miscellaneous Laws*
 
 [[Deut.23.15|15]] Thou shalt not deliver unto his master the servant which is escaped from his master unto thee:

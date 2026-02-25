@@ -1,8 +1,59 @@
+---
+title: Psalm 49:18
+type: Verse
+kjv: "Though while he lived he blessed his soul: and men will praise thee, when thou doest well to thyself."
+bsb: "Though in his lifetime he blesses his soul—and men praise you when you prosper—"
+hebrew: "כִּֽי־ נַ֭פְשׁוֹ בְּחַיָּ֣יו יְבָרֵ֑ךְ וְ֝יוֹדֻ֗ךָ כִּי־ תֵיטִ֥יב לָֽךְ׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H1288]]"
+- "[[H9002]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H3190]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:18**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though while he lived he blessed his soul: and [men] will praise thee, when thou doest well to thyself.
 <small><sub>**BSB:**</sub></small>
 Though in his lifetime he blesses his soul—and men praise you when you prosper—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5315G\|נַ֭פְשׁ]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2416E\|חַיָּ֣י]][[H9023\|ו]] [[H1288\|יְבָרֵ֑ךְ]] [[H9002\|וְ֝]][[H3034\|יוֹדֻ֗]][[H9031\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3190\|תֵיטִ֥יב]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.17|<< Psalms 49:17]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.19|Psalms 49:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

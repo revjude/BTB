@@ -1,8 +1,70 @@
+---
+title: Joshua 1:4
+type: Verse
+kjv: "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast."
+bsb: "Your territory shall extend from the wilderness and Lebanon to the great River Euphrates—all the land of the Hittites—and west as far as the Great Sea."
+hebrew: "מֵהַמִּדְבָּר֩ וְהַלְּבָנ֨וֹן הַזֶּ֜ה וְֽעַד־ הַנָּהָ֧ר הַגָּד֣וֹל נְהַר־ פְּרָ֗ת כֹּ֚ל אֶ֣רֶץ הַֽחִתִּ֔ים וְעַד־ הַיָּ֥ם הַגָּד֖וֹל מְב֣וֹא הַשָּׁ֑מֶשׁ יִֽהְיֶ֖ה גְּבוּלְכֶֽם׃"
+pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H3844G]]"
+- "[[H2088]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5104H]]"
+- "[[H1419J]]"
+- "[[H6578]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H2850]]"
+- "[[H3220G]]"
+- "[[H3996]]"
+- "[[H8121]]"
+- "[[H1961]]"
+- "[[H1366H]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:4**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.
 <small><sub>**BSB:**</sub></small>
 Your territory shall extend from the wilderness and Lebanon to the great River Euphrates—all the land of the Hittites—and west as far as the Great Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H9009\|הַ]][[H4057B\|מִּדְבָּר֩]] [[H9002\|וְ]][[H9009\|הַ]][[H3844G\|לְּבָנ֨וֹן]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H9002\|וְֽ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָ֧ר]] [[H9009\|הַ]][[H1419J\|גָּד֣וֹל]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָ֗ת]] [[H3605\|כֹּ֚ל]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַֽ]][[H2850\|חִתִּ֔ים]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הַ]][[H1419J\|גָּד֖וֹל]] [[H3996\|מְב֣וֹא]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H1961\|יִֽהְיֶ֖ה]] [[H1366H\|גְּבוּלְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CANAAN|CANAAN]] • [[topic CANAANITES|CANAANITES]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic EUPHRATES|EUPHRATES]] • [[topic HITTITES|HITTITES]] • [[topic LEBANON|LEBANON]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.3|<< Joshua 1:3]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.5|Joshua 1:5 >>]]</td></tr></table>
 

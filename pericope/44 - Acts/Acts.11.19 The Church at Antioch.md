@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Church at Antioch
+type: Pericope
 pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Acts
 chapter: 11
 book/chapter: "[[Acts.11|Acts 11]]"
-genre:
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 12
 verses:
 - "[[Acts.11.19]]"
 - "[[Acts.11.20]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Acts.11.30]]"
 ---
 
-[[Acts.11|Acts 11:19 - Acts 11:30]]
+<small>[[Acts.11|Acts 11:19-30]]</small>
 *The Church at Antioch*
 
 [[Acts.11.19|19]] Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.

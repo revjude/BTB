@@ -1,8 +1,60 @@
+---
+title: Jeremiah 4:20
+type: Verse
+kjv: "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, and my curtains in a moment."
+bsb: "Disaster after disaster is proclaimed, for the whole land is laid waste. My tents are destroyed in an instant, my curtains in a moment."
+hebrew: "שֶׁ֤בֶר עַל־ שֶׁ֙בֶר֙ נִקְרָ֔א כִּ֥י שֻׁדְּדָ֖ה כָּל־ הָאָ֑רֶץ פִּתְאֹם֙ שֻׁדְּד֣וּ אֹהָלַ֔י רֶ֖גַע יְרִיעֹתָֽי׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7667]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7121I]]"
+- "[[H3588A]]"
+- "[[H7703]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6597]]"
+- "[[H0168G]]"
+- "[[H9020]]"
+- "[[H7281]]"
+- "[[H3407]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:20**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, [and] my curtains in a moment.
 <small><sub>**BSB:**</sub></small>
 Disaster after disaster is proclaimed, for the whole land is laid waste. My tents are destroyed in an instant, my curtains in a moment.
+<small><sub>**Hebrew:**</sub></small>
+[[H7667\|שֶׁ֤בֶר]] [[H5921A\|עַל]][[H9014\|־]] [[H7667\|שֶׁ֙בֶר֙]] [[H7121I\|נִקְרָ֔א]] [[H3588A\|כִּ֥י]] [[H7703\|שֻׁדְּדָ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H6597\|פִּתְאֹם֙]] [[H7703\|שֻׁדְּד֣וּ]] [[H0168G\|אֹהָלַ֔]][[H9020\|י]] [[H7281\|רֶ֖גַע]] [[H3407\|יְרִיעֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CURTAINS|CURTAINS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.19|<< Jeremiah 4:19]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.21|Jeremiah 4:21 >>]]</td></tr></table>
 

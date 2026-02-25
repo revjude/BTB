@@ -1,8 +1,58 @@
+---
+title: Job 42:5
+type: Verse
+kjv: "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+bsb: "My ears had heard of You, but now my eyes have seen You."
+hebrew: "לְשֵֽׁמַע־ אֹ֥זֶן שְׁמַעְתִּ֑יךָ וְ֝עַתָּ֗ה עֵינִ֥י רָאָֽתְךָ׃"
+pericope: "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOB|JOB]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H8088B]]"
+- "[[H9014]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:5**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard of thee by the hearing of the ear: but now mine eye seeth thee.
 <small><sub>**BSB:**</sub></small>
 My ears had heard of You, but now my eyes have seen You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H8088B\|שֵֽׁמַע]][[H9014\|־]] [[H0241G\|אֹ֥זֶן]] [[H8085G\|שְׁמַעְתִּ֑י]][[H9031\|ךָ]] [[H9002\|וְ֝]][[H6258\|עַתָּ֗ה]] [[H5869A\|עֵינִ֥]][[H9020\|י]] [[H7200G\|רָאָֽתְ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JOB|JOB]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.4|<< Job 42:4]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.6|Job 42:6 >>]]</td></tr></table>
 

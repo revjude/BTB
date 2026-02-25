@@ -1,8 +1,65 @@
+---
+title: Hosea 9:15
+type: Verse
+kjv: "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters."
+bsb: "All their evil appears at Gilgal, for there I hated them. I will drive them from My house for the wickedness of their deeds. I will no longer love them; all their leaders are rebellious."
+hebrew: "כָּל־ רָעָתָ֤ם בַּגִּלְגָּל֙ כִּֽי־ שָׁ֣ם שְׂנֵאתִ֔ים עַ֚ל רֹ֣עַ מַֽעַלְלֵיהֶ֔ם מִבֵּיתִ֖י אֲגָרְשֵׁ֑ם לֹ֤א אוֹסֵף֙ אַהֲבָתָ֔ם כָּל־ שָׂרֵיהֶ֖ם סֹרְרִֽים׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1537G]]"
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H8130]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H1644H]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H0160]]"
+- "[[H8269]]"
+- "[[H5637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:15**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All their wickedness [is] in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes [are] revolters.
 <small><sub>**BSB:**</sub></small>
 All their evil appears at Gilgal, for there I hated them. I will drive them from My house for the wickedness of their deeds. I will no longer love them; all their leaders are rebellious.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H7451I\|רָעָתָ֤]][[H9028\|ם]] [[H9003\|בַּ]][[H1537G\|גִּלְגָּל֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H8130\|שְׂנֵאתִ֔י]][[H9038\|ם]] [[H5921A\|עַ֚ל]] [[H7455\|רֹ֣עַ]] [[H4611\|מַֽעַלְלֵי]][[H9028\|הֶ֔ם]] [[H9006\|מִ]][[H1004B\|בֵּיתִ֖]][[H9020\|י]] [[H1644H\|אֲגָרְשֵׁ֑]][[H9038\|ם]] [[H3808\|לֹ֤א]] [[H3254G\|אוֹסֵף֙]] [[H0160\|אַהֲבָתָ֔]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵי]][[H9028\|הֶ֖ם]] [[H5637\|סֹרְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GILGAL|GILGAL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 

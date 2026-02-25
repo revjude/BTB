@@ -1,8 +1,64 @@
+---
+title: Isaiah 52:4
+type: Verse
+kjv: "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause."
+bsb: "For this is what the Lord GOD says: “At first My people went down to Egypt to live, then Assyria oppressed them without cause."
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה מִצְרַ֛יִם יָֽרַד־ עַמִּ֥י בָרִֽאשֹׁנָ֖ה לָג֣וּר שָׁ֑ם וְאַשּׁ֖וּר בְּאֶ֥פֶס עֲשָׁקֽוֹ׃"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H4714G]]"
+- "[[H3381]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H9002]]"
+- "[[H0804G]]"
+- "[[H0657A]]"
+- "[[H6231]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:4**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: “At first My people went down to Egypt to live, then Assyria oppressed them without cause.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H4714G\|מִצְרַ֛יִם]] [[H3381\|יָֽרַד]][[H9014\|־]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H9003\|בָ]][[H7223G\|רִֽאשֹׁנָ֖ה]] [[H9005\|לָ]][[H1481A\|ג֣וּר]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H0804G\|אַשּׁ֖וּר]] [[H9003\|בְּ]][[H0657A\|אֶ֥פֶס]] [[H6231\|עֲשָׁקֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.3|<< Isaiah 52:3]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.5|Isaiah 52:5 >>]]</td></tr></table>
 

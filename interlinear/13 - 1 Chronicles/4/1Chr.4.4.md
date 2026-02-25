@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 4:4
+type: Verse
+kjv: "And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Bethlehem."
+bsb: "Penuel was the father of Gedor, and Ezer was the father of Hushah. These were the descendants of Hur, the firstborn of Ephrathah and the father of Bethlehem."
+hebrew: "וּפְנוּאֵל֙ אֲבִ֣י גְדֹ֔ר וְעֵ֖זֶר אֲבִ֣י חוּשָׁ֑ה אֵ֤לֶּה בְנֵי־ חוּר֙ בְּכ֣וֹר אֶפְרָ֔תָה אֲבִ֖י בֵּ֥ית לָֽחֶם׃"
+pericope: "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EPHRATAH|EPHRATAH]]"
+- "[[topic EZER|EZER]]"
+- "[[topic GEDOR|GEDOR]]"
+- "[[topic HUR|HUR]]"
+- "[[topic HUSHAH|HUSHAH]]"
+- "[[topic PENUEL|PENUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6439H]]"
+- "[[H0001G]]"
+- "[[H1446G]]"
+- "[[H5829G]]"
+- "[[H2364]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2354G]]"
+- "[[H1060]]"
+- "[[H0672G]]"
+- "[[H1035G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:4**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Penuel the father of Gedor, and Ezer the father of Hushah. These [are] the sons of Hur, the firstborn of Ephratah, the father of Bethlehem.
 <small><sub>**BSB:**</sub></small>
 Penuel was the father of Gedor, and Ezer was the father of Hushah. These were the descendants of Hur, the firstborn of Ephrathah and the father of Bethlehem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6439H\|פְנוּאֵל֙]] [[H0001G\|אֲבִ֣י]] [[H1446G\|גְדֹ֔ר]] [[H9002\|וְ]][[H5829G\|עֵ֖זֶר]] [[H0001G\|אֲבִ֣י]] [[H2364\|חוּשָׁ֑ה]] [[H0428\|אֵ֤לֶּה]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H2354G\|חוּר֙]] [[H1060\|בְּכ֣וֹר]] [[H0672G\|אֶפְרָ֔תָה]] [[H0001G\|אֲבִ֖י]] [[H1035G\|בֵּ֥ית]] [[H1035G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRATAH|EPHRATAH]] • [[topic EZER|EZER]] • [[topic GEDOR|GEDOR]] • [[topic HUR|HUR]] • [[topic HUSHAH|HUSHAH]] • [[topic PENUEL|PENUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.3|<< 1 Chronicles 4:3]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.5|1 Chronicles 4:5 >>]]</td></tr></table>
 

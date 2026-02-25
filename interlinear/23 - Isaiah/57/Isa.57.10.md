@@ -1,8 +1,58 @@
+---
+title: Isaiah 57:10
+type: Verse
+kjv: "Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved."
+bsb: "You are wearied by your many journeys, but you did not say, “There is no hope!” You found renewal of your strength; therefore you did not grow weak."
+hebrew: "בְּרֹ֤ב דַּרְכֵּךְ֙ יָגַ֔עַתְּ לֹ֥א אָמַ֖רְתְּ נוֹאָ֑שׁ חַיַּ֤ת יָדֵךְ֙ מָצָ֔את עַל־ כֵּ֖ן לֹ֥א חָלִֽית׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H1870L]]"
+- "[[H9022]]"
+- "[[H3021]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H2976]]"
+- "[[H2416C]]"
+- "[[H3027H]]"
+- "[[H4672]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H2470A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:10**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art wearied in the greatness of thy way; [yet] saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.
 <small><sub>**BSB:**</sub></small>
 You are wearied by your many journeys, but you did not say, “There is no hope!” You found renewal of your strength; therefore you did not grow weak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7230\|רֹ֤ב]] [[H1870L\|דַּרְכֵּ]][[H9022\|ךְ֙]] [[H3021\|יָגַ֔עַתְּ]] [[H3808\|לֹ֥א]] [[H0559\|אָמַ֖רְתְּ]] [[H2976\|נוֹאָ֑שׁ]] [[H2416C\|חַיַּ֤ת]] [[H3027H\|יָדֵ]][[H9022\|ךְ֙]] [[H4672\|מָצָ֔את]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H3808\|לֹ֥א]] [[H2470A\|חָלִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.9|<< Isaiah 57:9]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.11|Isaiah 57:11 >>]]</td></tr></table>
 

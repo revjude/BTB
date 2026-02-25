@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sarah Laughs at the Promise
+type: Pericope
 pericope: "[[Gen.18.9 Sarah Laughs at the Promise|Sarah Laughs at the Promise]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 18
 book/chapter: "[[Gen.18|Genesis 18]]"
-genre:
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.18.9]]"
 - "[[Gen.18.10]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.18.15]]"
 ---
 
-[[Gen.18|Genesis 18:9 - Genesis 18:15]]
+<small>[[Gen.18|Genesis 18:9-15]]</small>
 *Sarah Laughs at the Promise*
 
 [[Gen.18.9|9]] And they said unto him, Where \[is\] Sarah thy wife? And he said, Behold, in the tent.

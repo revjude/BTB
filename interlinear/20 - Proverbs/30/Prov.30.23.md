@@ -1,8 +1,56 @@
+---
+title: Proverbs 30:23
+type: Verse
+kjv: "For an odious woman when she is married; and an handmaid that is heir to her mistress."
+bsb: "an unloved woman who marries, and a maidservant who supplants her mistress."
+hebrew: "תַּ֣חַת שְׂ֭נוּאָה כִּ֣י תִבָּעֵ֑ל וְ֝שִׁפְחָ֗ה כִּֽי־ תִירַ֥שׁ גְּבִרְתָּֽהּ׃ פ"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H8478H]]"
+- "[[H8130]]"
+- "[[H3588A]]"
+- "[[H1166I]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H9014]]"
+- "[[H3423H]]"
+- "[[H1404]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 30:23**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For an odious [woman] when she is married; and an handmaid that is heir to her mistress.
 <small><sub>**BSB:**</sub></small>
 an unloved woman who marries, and a maidservant who supplants her mistress.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּ֣חַת]] [[H8130\|שְׂ֭נוּאָה]] [[H3588A\|כִּ֣י]] [[H1166I\|תִבָּעֵ֑ל]] [[H9002\|וְ֝]][[H8198\|שִׁפְחָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3423H\|תִירַ֥שׁ]] [[H1404\|גְּבִרְתָּֽ]][[H9024\|הּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic RIDDLE|RIDDLE]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.22|<< Proverbs 30:22]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.24|Proverbs 30:24 >>]]</td></tr></table>
 
@@ -15,7 +63,7 @@ an unloved woman who marries, and a maidservant who supplants her mistress.
 | and a female servant  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8198\|שִׁפְחָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shif.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she will dispossess  |**<big>&#8207;[[H3423H\|תִירַ֥שׁ]]&#8207; </big>**| ti.Rash<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mistress her  |**<big>&#8207;[[H1404\|גְּבִרְתָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ge.vir.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mistress her  |**<big>&#8207;[[H1404\|גְּבִרְתָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ge.vir.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.22|<< Proverbs 30:22]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.24|Proverbs 30:24 >>]]</td></tr></table>
 
 

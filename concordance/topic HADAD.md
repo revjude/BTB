@@ -15,5 +15,5 @@
 
 4. A prince of Edom
 
-- Adversary of Solomon [[1Kgs.11.14|1Ki 11:14]]-[[1Kgs.11.22|22]],[[1Kgs.11.25|25]]
+- Adversary of Solomon [[1Kgs.11.14|1Ki 11:14-22]],[[1Kgs.11.25|25]]
 

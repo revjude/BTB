@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 21:13
+type: Verse
+kjv: "And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged."
+bsb: "So David had the bones of Saul and his son Jonathan brought from there, and they also gathered the bones of those who had been hanged."
+hebrew: "וַיַּ֤עַל מִשָּׁם֙ אֶת־ עַצְמ֣וֹת שָׁא֔וּל וְאֶת־ עַצְמ֖וֹת יְהוֹנָתָ֣ן בְּנ֑וֹ וַיַּ֣אַסְפ֔וּ אֶת־ עַצְמ֖וֹת הַמּוּקָעִֽים׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3083H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0622]]"
+- "[[H9009]]"
+- "[[H3363]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 21:13**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 <small><sub>**BSB:**</sub></small>
 So David had the bones of Saul and his son Jonathan brought from there, and they also gathered the bones of those who had been hanged.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927H\|יַּ֤עַל]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמ֣וֹת]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמ֖וֹת]] [[H3083H\|יְהוֹנָתָ֣ן]] [[H1121A\|בְּנ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0622\|יַּ֣אַסְפ֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמ֖וֹת]] [[H9009\|הַ]][[H3363\|מּוּקָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.12|<< 2 Samuel 21:12]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.14|2 Samuel 21:14 >>]]</td></tr></table>
 

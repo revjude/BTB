@@ -1,8 +1,60 @@
+---
+title: Psalm 84:6
+type: Verse
+kjv: "Who passing through the valley of Baca make it a well; the rain also filleth the pools."
+bsb: "As they pass through the Valley of Baca, they make it a place of springs; even the autumn rain covers it with pools."
+hebrew: "עֹבְרֵ֤י׀ בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם־ בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACA|BACA]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MULBERRY TREE|MULBERRY TREE]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6010L]]"
+- "[[H9009]]"
+- "[[H1056]]"
+- "[[H4599]]"
+- "[[H7896G]]"
+- "[[H9033]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1293]]"
+- "[[H5844A]]"
+- "[[H4175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:6**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Who] passing through the valley of Baca make it a well; the rain also filleth the pools.
 <small><sub>**BSB:**</sub></small>
 As they pass through the Valley of Baca, they make it a place of springs; even the autumn rain covers it with pools.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|עֹבְרֵ֤י]][[H9015\|׀]] [[H9003\|בְּ]][[H6010L\|עֵ֣מֶק]] [[H9009\|הַ֭]][[H1056\|בָּכָא]] [[H4599\|מַעְיָ֣ן]] [[H7896G\|יְשִׁית֑וּ]][[H9033\|הוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1293\|בְּ֝רָכ֗וֹת]] [[H5844A\|יַעְטֶ֥ה]] [[H4175\|מוֹרֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACA|BACA]] • [[topic CHURCH|CHURCH]] • [[topic MULBERRY TREE|MULBERRY TREE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.5|<< Psalms 84:5]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.7|Psalms 84:7 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 9:1
+type: Verse
+kjv: "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?"
+bsb: "Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”"
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔ד הֲכִ֣י יֶשׁ־ ע֔וֹד אֲשֶׁ֥ר נוֹתַ֖ר לְבֵ֣ית שָׁא֑וּל וְאֶעֱשֶׂ֤ה עִמּוֹ֙ חֶ֔סֶד בַּעֲב֖וּר יְהוֹנָתָֽן׃"
+pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9008]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H0834A]]"
+- "[[H3498]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H2617A]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H3083H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 9:1**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?
 <small><sub>**BSB:**</sub></small>
 Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H9008\|הֲ]][[H3588A\|כִ֣י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H5750\|ע֔וֹד]] [[H0834A\|אֲשֶׁ֥ר]] [[H3498\|נוֹתַ֖ר]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H7586G\|שָׁא֑וּל]] [[H9002\|וְ]][[H6213A\|אֶעֱשֶׂ֤ה]] [[H5973A\|עִמּ]][[H9033\|וֹ֙]] [[H2617A\|חֶ֔סֶד]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H3083H\|יְהוֹנָתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic KINDNESS|KINDNESS]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.18|<< 2 Samuel 8:18]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.2|2 Samuel 9:2 >>]]</td></tr></table>
 

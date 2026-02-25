@@ -1,8 +1,71 @@
+---
+title: Genesis 15:7
+type: Verse
+kjv: "And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it."
+bsb: "The LORD also told him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.”"
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים לָ֧תֶת לְךָ֛ אֶת־ הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ׃"
+pericope: "[[Gen.15.1 God’s Covenant with Abram|God’s Covenant with Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHALDEA|CHALDEA]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic UR|UR]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0218B]]"
+- "[[H3778]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:7**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, I [am] the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.
 <small><sub>**BSB:**</sub></small>
 The LORD also told him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H3318H\|הוֹצֵאתִ֙י]][[H9031\|ךָ֙]] [[H9006\|מֵ]][[H0218B\|א֣וּר]] [[H3778\|כַּשְׂדִּ֔ים]] [[H9005\|לָ֧]][[H5414G\|תֶת]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHALDEA|CHALDEA]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic LAND|LAND]] • [[topic UR|UR]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.6|<< Genesis 15:6]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.8|Genesis 15:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,56 @@
+---
+title: Judges 19:7
+type: Verse
+kjv: "And when the man rose up to depart, his father in law urged him: therefore he lodged there again."
+bsb: "The man got up to depart, but his father-in-law persuaded him, so he stayed there that night."
+hebrew: "וַיָּ֥קָם הָאִ֖ישׁ לָלֶ֑כֶת וַיִּפְצַר־ בּוֹ֙ חֹתְנ֔וֹ וַיָּ֖שָׁב וַיָּ֥לֶן שָֽׁם׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H6484]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2859A]]"
+- "[[H9023]]"
+- "[[H7725J]]"
+- "[[H3885A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:7**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the man rose up to depart, his father in law urged him: therefore he lodged there again.
 <small><sub>**BSB:**</sub></small>
 The man got up to depart, but his father-in-law persuaded him, so he stayed there that night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֥קָם]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H9005\|לָ]][[H1980G\|לֶ֑כֶת]] [[H9001\|וַ]][[H6484\|יִּפְצַר]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H2859A\|חֹתְנ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H7725J\|יָּ֖שָׁב]] [[H9001\|וַ]][[H3885A\|יָּ֥לֶן]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FATHER-IN-LAW|FATHER-IN-LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.6|<< Judges 19:6]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.8|Judges 19:8 >>]]</td></tr></table>
 

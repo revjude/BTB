@@ -1,8 +1,62 @@
+---
+title: Psalm 16:8
+type: Verse
+kjv: "I have set the LORD always before me: because he is at my right hand, I shall not be moved."
+bsb: "I have set the LORD always before me. Because He is at my right hand, I will not be shaken."
+hebrew: "שִׁוִּ֬יתִי יְהוָ֣ה לְנֶגְדִּ֣י תָמִ֑יד כִּ֥י מִֽ֝ימִינִ֗י בַּל־ אֶמּֽוֹט׃"
+pericope: "[[Ps.16.1 The Presence of the LORD|The Presence of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 16
+book/chapter: "[[Ps.16|Psalm 16]]"
+chronological_order: 350
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H7737B]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H8548]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H3225G]]"
+- "[[H9020]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 16:8**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set the LORD always before me: because [he is] at my right hand, I shall not be moved.
 <small><sub>**BSB:**</sub></small>
 I have set the LORD always before me. Because He is at my right hand, I will not be shaken.
+<small><sub>**Hebrew:**</sub></small>
+[[H7737B\|שִׁוִּ֬יתִי]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לְ]][[H5048\|נֶגְדִּ֣]][[H9030\|י]] [[H8548\|תָמִ֑יד]] [[H3588A\|כִּ֥י]] [[H9006\|מִֽ֝]][[H3225G\|ימִינִ֗]][[H9020\|י]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|אֶמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.7|<< Psalms 16:7]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.9|Psalms 16:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

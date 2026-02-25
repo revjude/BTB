@@ -1,10 +1,78 @@
+---
+title: Revelation 2:2
+type: Verse
+kjv: "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:"
+bsb: "I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles."
+jesus_said: "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:"
+greek: "οἶδα τὰ ἔργα σου καὶ τὸν κόπον σου καὶ τὴν ὑπομονήν σου καὶ ὅτι οὐ δύνῃ βαστάσαι κακοὺς καὶ ἐπείρασας τοὺς λέγοντας ἑαυτοὺς ειναι ἀποστόλους καὶ οὐκ εἰσίν, καὶ εὗρες αὐτοὺς ψευδεῖς."
+pericope: "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2873]]"
+- "[[G5281]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0941]]"
+- "[[G2556G]]"
+- "[[G3985H]]"
+- "[[G3004G]]"
+- "[[G1438]]"
+- "[[G1511]]"
+- "[[G0652]]"
+- "[[G1510]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G5571]]"
+texts:
+- NKO
+- k
+- N(k)O
+- no
+---
+
 **Revelation 2:2**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:
 <small><sub>**BSB:**</sub></small>
 I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles.
-<small><sub>**Literal:**</sub></small>
-I know the works of you and the labor of you and the endurance of you and that not you are able to tolerate evil [ones] And you have tested those saying themselves to be apostles and not are, and you have found them false.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.1|<< Revelation 2:1]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.3|Revelation 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2873\|κόπον]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5281\|ὑπομονήν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G1410\|δύνῃ]]  [[G0941\|βαστάσαι]]  [[G2556G\|κακοὺς]]  [[G2532\|καὶ]]  [[G3985H\|ἐπείρασας]]  [[G3588\|τοὺς]]  [[G3004G\|λέγοντας]]  [[G1438\|ἑαυτοὺς]]  [[G1511\|ειναι]]  [[G0652\|ἀποστόλους]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|εἰσίν,]]  [[G2532\|καὶ]]  [[G2147\|εὗρες]]  [[G0846\|αὐτοὺς]]  [[G5571\|ψευδεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic COMPANY|COMPANY]] • [[topic DECISION|DECISION]] • [[topic EPHESUS|EPHESUS]] • [[topic HEART|HEART]] • [[topic HERESY|HERESY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.1|<< Revelation 2:1]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.3|Revelation 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

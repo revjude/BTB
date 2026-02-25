@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Longing to Visit
+type: Pericope
 pericope: "[[1Thess.2.17 Paul’s Longing to Visit|Paul’s Longing to Visit]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 2
 book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
-genre:
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 4
 verses:
 - "[[1Thess.2.17]]"
 - "[[1Thess.2.18]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Thess.2.20]]"
 ---
 
-[[1Thess.2|1 Thessalonians 2:17 - 1 Thessalonians 2:20]]
+<small>[[1Thess.2|1 Thessalonians 2:17-20]]</small>
 *Paul’s Longing to Visit*
 
 [[1Thess.2.17|17]] But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.

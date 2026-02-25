@@ -1,10 +1,62 @@
+---
+title: Luke 13:32
+type: Verse
+kjv: "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+bsb: "But Jesus replied, “Go tell that fox, ‘Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.’"
+jesus_said: "Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+greek: "Καὶ εἶπεν αὐτοῖς· πορευθέντες εἴπατε τῇ ἀλώπεκι ταύτῃ· ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον καὶ τῇ τρίτῃ τελειοῦμαι."
+pericope: "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FOX|FOX]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4198]]"
+- "[[G3588]]"
+- "[[G0258]]"
+- "[[G3778]]"
+- "[[G2400]]"
+- "[[G1544]]"
+- "[[G1140]]"
+- "[[G2392]]"
+- "[[G0658]]"
+- "[[G4594]]"
+- "[[G0839]]"
+- "[[G5154]]"
+- "[[G5048]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 13:32**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third [day] I shall be perfected.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Go tell that fox, ‘Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.’
-<small><sub>**Literal:**</sub></small>
-And He said to them; Having gone do say to the fox that; Behold I cast out demons and cures I complete today and tomorrow and on the third [day] I am perfected.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.31|<< Luke 13:31]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.33|Luke 13:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4198\|πορευθέντες]]  [[G2036\|εἴπατε]]  [[G3588\|τῇ]]  [[G0258\|ἀλώπεκι]]  [[G3778\|ταύτῃ·]]  [[G2400\|ἰδοὺ]]  [[G1544\|ἐκβάλλω]]  [[G1140\|δαιμόνια]]  [[G2532\|καὶ]]  [[G2392\|ἰάσεις]]  [[G0658\|ἀποτελῶ]]  [[G4594\|σήμερον]]  [[G2532\|καὶ]]  [[G0839\|αὔριον]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G5048\|τελειοῦμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOX|FOX]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.31|<< Luke 13:31]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.33|Luke 13:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

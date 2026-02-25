@@ -1,10 +1,56 @@
+---
+title: Luke 13:18
+type: Verse
+kjv: "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?"
+bsb: "Then Jesus asked, “What is the kingdom of God like? To what can I compare it?"
+jesus_said: "Unto what is the kingdom of God like? and whereunto shall I resemble it?"
+greek: "Ἔλεγεν οὖν· τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ, καὶ τίνι ὁμοιώσω αὐτήν;"
+pericope: "[[Luke.13.18 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G5101]]"
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3666]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 13:18**<big><big>[[Luke.13.18 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?
 <small><sub>**BSB:**</sub></small>
 Then Jesus asked, “What is the kingdom of God like? To what can I compare it?
-<small><sub>**Literal:**</sub></small>
-He was saying then: To what like is the kingdom <the> of God? And to what will I liken it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.17|<< Luke 13:17]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.19|Luke 13:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G3767\|οὖν·]]  [[G5101\|τίνι]]  [[G3664\|ὁμοία]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G5101\|τίνι]]  [[G3666\|ὁμοιώσω]]  [[G0846\|αὐτήν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.17|<< Luke 13:17]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.19|Luke 13:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

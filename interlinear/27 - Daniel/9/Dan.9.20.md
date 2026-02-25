@@ -1,8 +1,65 @@
+---
+title: Daniel 9:20
+type: Verse
+kjv: "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;"
+bsb: "While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—"
+hebrew: "וְע֨וֹד אֲנִ֤י מְדַבֵּר֙ וּמִתְפַּלֵּ֔ל וּמִתְוַדֶּה֙ חַטָּאתִ֔י וְחַטַּ֖את עַמִּ֣י יִשְׂרָאֵ֑ל וּמַפִּ֣יל תְּחִנָּתִ֗י לִפְנֵי֙ יְהוָ֣ה אֱלֹהַ֔י עַ֖ל הַר־ קֹ֥דֶשׁ אֱלֹהָֽי׃"
+pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H6419]]"
+- "[[H3034]]"
+- "[[H2403B]]"
+- "[[H9020]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H5307N]]"
+- "[[H8467]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:20**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whiles I [was] speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;
 <small><sub>**BSB:**</sub></small>
 While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5750\|ע֨וֹד]] [[H0589\|אֲנִ֤י]] [[H1696G\|מְדַבֵּר֙]] [[H9002\|וּ]][[H6419\|מִתְפַּלֵּ֔ל]] [[H9002\|וּ]][[H3034\|מִתְוַדֶּה֙]] [[H2403B\|חַטָּאתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2403B\|חַטַּ֖את]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H5307N\|מַפִּ֣יל]] [[H8467\|תְּחִנָּתִ֗]][[H9020\|י]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהַ֔]][[H9020\|י]] [[H5921A\|עַ֖ל]] [[H2022G\|הַר]][[H9014\|־]] [[H6944G\|קֹ֥דֶשׁ]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.19|<< Daniel 9:19]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.21|Daniel 9:21 >>]]</td></tr></table>
 

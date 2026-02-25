@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Blesses Ephraim and Manasseh
+type: Pericope
 pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 48
 book/chapter: "[[Gen.48|Genesis 48]]"
-genre:
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 22
 verses:
 - "[[Gen.48.1]]"
 - "[[Gen.48.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Gen.48.22]]"
 ---
 
-[[Gen.48|Genesis 48:1 - Genesis 48:22]]
+<small>[[Gen.48|Genesis 48:1-22]]</small>
 *Jacob Blesses Ephraim and Manasseh*
 
 [[Gen.48.1|1]] And it came to pass after these things, that \[one\] told Joseph, Behold, thy father \[is\] sick: and he took with him his two sons, Manasseh and Ephraim.

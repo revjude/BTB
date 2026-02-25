@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hoshea the Last King of Israel
+type: Pericope
 pericope: "[[2Kgs.17.1 Hoshea the Last King of Israel|Hoshea the Last King of Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 17
 book/chapter: "[[2Kgs.17|2 Kings 17]]"
-genre:
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.17.1]]"
 - "[[2Kgs.17.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.17.4]]"
 ---
 
-[[2Kgs.17|2 Kings 17:1 - 2 Kings 17:4]]
+<small>[[2Kgs.17|2 Kings 17:1-4]]</small>
 *Hoshea the Last King of Israel*
 
 [[2Kgs.17.1|1]] In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.

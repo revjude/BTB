@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 2:21
+type: Verse
+kjv: "A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:"
+bsb: "They were a people great and many, as tall as the Anakites. But the LORD destroyed them from before the Ammonites, who drove them out and settled in their place,"
+hebrew: "עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִ֑ים וַיַּשְׁמִידֵ֤ם יְהוָה֙ מִפְּנֵיהֶ֔ם וַיִּירָשֻׁ֖ם וַיֵּשְׁב֥וּ תַחְתָּֽם׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ZAMZUMMIMS|ZAMZUMMIMS]]"
+strongs:
+- "[[H5971A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H7311A]]"
+- "[[H9004]]"
+- "[[H6062]]"
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H3423H]]"
+- "[[H3427]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:21**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:
 <small><sub>**BSB:**</sub></small>
 They were a people great and many, as tall as the Anakites. But the LORD destroyed them from before the Ammonites, who drove them out and settled in their place,
+<small><sub>**Hebrew:**</sub></small>
+[[H5971A\|עַ֣ם]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וְ]][[H7227A\|רַ֛ב]] [[H9002\|וָ]][[H7311A\|רָ֖ם]] [[H9004\|כָּ]][[H6062\|עֲנָקִ֑ים]] [[H9001\|וַ]][[H8045\|יַּשְׁמִידֵ֤]][[H9038\|ם]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H3423H\|יִּירָשֻׁ֖]][[H9038\|ם]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֥וּ]] [[H8478H\|תַחְתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZAMZUMMIMS|ZAMZUMMIMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.20|<< Deuteronomy 2:20]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.22|Deuteronomy 2:22 >>]]</td></tr></table>
 

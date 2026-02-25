@@ -1,8 +1,63 @@
+---
+title: Leviticus 13:10
+type: Verse
+kjv: "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;"
+bsb: "The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,"
+hebrew: "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־ לְבָנָה֙ בָּע֔וֹר וְהִ֕יא הָפְכָ֖ה שֵׂעָ֣ר לָבָ֑ן וּמִֽחְיַ֛ת בָּשָׂ֥ר חַ֖י בַּשְׂאֵֽת׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7613]]"
+- "[[H9014]]"
+- "[[H3836]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H1931]]"
+- "[[H2015]]"
+- "[[H8181]]"
+- "[[H4241]]"
+- "[[H1320]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:10**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall see [him]: and, behold, [if] the rising [be] white in the skin, and it have turned the hair white, and [there be] quick raw flesh in the rising;
 <small><sub>**BSB:**</sub></small>
 The priest will examine him, and if there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H7613\|שְׂאֵת]][[H9014\|־]] [[H3836\|לְבָנָה֙]] [[H9003\|בָּ]][[H5785\|ע֔וֹר]] [[H9002\|וְ]][[H1931\|הִ֕יא]] [[H2015\|הָפְכָ֖ה]] [[H8181\|שֵׂעָ֣ר]] [[H3836\|לָבָ֑ן]] [[H9002\|וּ]][[H4241\|מִֽחְיַ֛ת]] [[H1320\|בָּשָׂ֥ר]] [[H2416A\|חַ֖י]] [[H9003\|בַּ]][[H7613\|שְׂאֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.9|<< Leviticus 13:9]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.11|Leviticus 13:11 >>]]</td></tr></table>
 

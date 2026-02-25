@@ -1,10 +1,61 @@
+---
+title: Luke 1:80
+type: Verse
+kjv: "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel."
+bsb: "And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel."
+greek: "Τὸ δὲ παιδίον ηὔξανεν καὶ ἐκραταιοῦτο πνεύματι καὶ ἦν ἐν ταῖς ἐρήμοις ἕως ἡμέρας ἀναδείξεως αὐτοῦ πρὸς τὸν Ἰσραήλ.¶"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3813]]"
+- "[[G0837]]"
+- "[[G2532]]"
+- "[[G2901]]"
+- "[[G4151G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2048]]"
+- "[[G2193]]"
+- "[[G2250]]"
+- "[[G0323]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Luke 1:80**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.
 <small><sub>**BSB:**</sub></small>
 And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.
-<small><sub>**Literal:**</sub></small>
-<the> And the child was continuing to grow and he was strengthened in spirit and he was in the deserted places until [the] day of appearance of him to <the> Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.79|<< Luke 1:79]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.1|Luke 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸ]]  [[G1161\|δὲ]]  [[G3813\|παιδίον]]  [[G0837\|ηὔξανεν]]  [[G2532\|καὶ]]  [[G2901\|ἐκραταιοῦτο]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2048\|ἐρήμοις]]  [[G2193\|ἕως]]  [[G2250\|ἡμέρας]]  [[G0323\|ἀναδείξεως]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.79|<< Luke 1:79]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.1|Luke 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

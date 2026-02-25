@@ -1,8 +1,70 @@
+---
+title: Nehemiah 7:61
+type: Verse
+kjv: "And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they were of Israel."
+bsb: "The following came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove that their families were descended from Israel:"
+hebrew: "וְאֵ֗לֶּה הָֽעוֹלִים֙ מִתֵּ֥ל מֶ֙לַח֙ תֵּ֣ל חַרְשָׁ֔א כְּר֥וּב אַדּ֖וֹן וְאִמֵּ֑ר וְלֹ֣א יָכְל֗וּ לְהַגִּ֤יד בֵּית־ אֲבוֹתָם֙ וְזַרְעָ֔ם אִ֥ם מִיִּשְׂרָאֵ֖ל הֵֽם׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ADDAN|ADDAN]]"
+- "[[topic CHERUB|CHERUB]]"
+- "[[topic IMMER|IMMER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic TEL-HARSA|TEL-HARSA]]"
+- "[[topic TEL-MELAH|TEL-MELAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H8528]]"
+- "[[H8521]]"
+- "[[H3743]]"
+- "[[H0114]]"
+- "[[H0564I]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2233H]]"
+- "[[H0518A]]"
+- "[[H3478]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:61**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [were] they which went up [also] from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they [were] of Israel.
 <small><sub>**BSB:**</sub></small>
 The following came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove that their families were descended from Israel:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H9009\|הָֽ]][[H5927G\|עוֹלִים֙]] [[H9006\|מִ]][[H8528\|תֵּ֥ל]] [[H8528\|מֶ֙לַח֙]] [[H8521\|תֵּ֣ל]] [[H8521\|חַרְשָׁ֔א]] [[H3743\|כְּר֥וּב]] [[H0114\|אַדּ֖וֹן]] [[H9002\|וְ]][[H0564I\|אִמֵּ֑ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3201\|יָכְל֗וּ]] [[H9005\|לְ]][[H5046\|הַגִּ֤יד]] [[H1004M\|בֵּית]][[H9014\|־]] [[H0001G\|אֲבוֹתָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H2233H\|זַרְעָ֔]][[H9028\|ם]] [[H0518A\|אִ֥ם]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֖ל]] [[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADDAN|ADDAN]] • [[topic CHERUB|CHERUB]] • [[topic IMMER|IMMER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic TEL-HARSA|TEL-HARSA]] • [[topic TEL-MELAH|TEL-MELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.60|<< Nehemiah 7:60]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.62|Nehemiah 7:62 >>]]</td></tr></table>
 

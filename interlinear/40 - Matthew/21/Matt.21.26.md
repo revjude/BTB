@@ -1,10 +1,55 @@
+---
+title: Matthew 21:26
+type: Verse
+kjv: "But if we shall say, Of men; we fear the people; for all hold John as a prophet."
+bsb: "But if we say, ‘From men,’ we are afraid of the people, for they all regard John as a prophet.”"
+greek: "ἐὰν δὲ εἴπωμεν· ἐξ ἀνθρώπων, φοβούμεθα τὸν ὄχλον· πάντες γὰρ ὡς προφήτην ἔχουσιν τὸν Ἰωάννην.¶"
+pericope: "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G0444]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G5613]]"
+- "[[G4396]]"
+- "[[G2192]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Matthew 21:26**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if we shall say, Of men; we fear the people; for all hold John as a prophet.
 <small><sub>**BSB:**</sub></small>
 But if we say, ‘From men,’ we are afraid of the people, for they all regard John as a prophet.”
-<small><sub>**Literal:**</sub></small>
-If however we shall say; From men, we fear the multitude; all for as a prophet hold <the> John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.25|<< Matthew 21:25]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.27|Matthew 21:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2036\|εἴπωμεν·]]  [[G1537\|ἐξ]]  [[G0444\|ἀνθρώπων,]]  [[G5399\|φοβούμεθα]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον·]]  [[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G5613\|ὡς]]  [[G4396\|προφήτην]]  [[G2192\|ἔχουσιν]]  [[G3588\|τὸν]]  [[G2491G\|Ἰωάννην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.25|<< Matthew 21:25]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.27|Matthew 21:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

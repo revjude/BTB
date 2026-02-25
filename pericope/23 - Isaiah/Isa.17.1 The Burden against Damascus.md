@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Damascus
+type: Pericope
 pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 17
 book/chapter: "[[Isa.17|Isaiah 17]]"
-genre:
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 14
 verses:
 - "[[Isa.17.1]]"
 - "[[Isa.17.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Isa.17.14]]"
 ---
 
-[[Isa.17|Isaiah 17:1 - Isaiah 17:14]]
+<small>[[Isa.17|Isaiah 17:1-14]]</small>
 *The Burden against Damascus*
 
 [[Isa.17.1|1]] The burden of Damascus. Behold, Damascus is taken away from \[being\] a city, and it shall be a ruinous heap.

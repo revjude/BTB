@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 7:22
+type: Verse
+kjv: "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others."
+bsb: "For you know in your heart that many times you yourself have cursed others."
+hebrew: "כִּ֛י גַּם־ פְּעָמִ֥ים רַבּ֖וֹת יָדַ֣ע לִבֶּ֑ךָ אֲשֶׁ֥ר גַּם־ אַתָּ֖ה קִלַּ֥לְתָּ אֲחֵרִֽים׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6471]]"
+- "[[H7227A]]"
+- "[[H3045]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0859C]]"
+- "[[H0859A]]"
+- "[[H7043]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 7:22**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
 <small><sub>**BSB:**</sub></small>
 For you know in your heart that many times you yourself have cursed others.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H1571\|גַּם]][[H9014\|־]] [[H6471\|פְּעָמִ֥ים]] [[H7227A\|רַבּ֖וֹת]] [[H3045\|יָדַ֣ע]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אַתָּ֖ה]] [[H7043\|קִלַּ֥לְתָּ]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.21|<< Ecclesiastes 7:21]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.23|Ecclesiastes 7:23 >>]]</td></tr></table>
 

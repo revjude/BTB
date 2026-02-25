@@ -1,8 +1,65 @@
+---
+title: 2 Kings 16:11
+type: Verse
+kjv: "And Urijah the priest built an altar according to all that king Ahaz had sent from Damascus: so Urijah the priest made it against king Ahaz came from Damascus."
+bsb: "And Uriah the priest built the altar according to all the instructions King Ahaz had sent from Damascus, and he completed it before King Ahaz returned."
+hebrew: "וַיִּ֛בֶן אוּרִיָּ֥ה הַכֹּהֵ֖ן אֶת־ הַמִּזְבֵּ֑חַ כְּכֹ֣ל אֲשֶׁר־ שָׁלַח֩ הַמֶּ֨לֶךְ אָחָ֜ז מִדַּמֶּ֗שֶׂק כֵּ֤ן עָשָׂה֙ אוּרִיָּ֣ה הַכֹּהֵ֔ן עַד־ בּ֥וֹא הַמֶּֽלֶךְ־ אָחָ֖ז מִדַּמָּֽשֶׂק׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0223G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H9006]]"
+- "[[H1834]]"
+- "[[H3651C]]"
+- "[[H6213H]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:11**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Urijah the priest built an altar according to all that king Ahaz had sent from Damascus: so Urijah the priest made [it] against king Ahaz came from Damascus.
 <small><sub>**BSB:**</sub></small>
 And Uriah the priest built the altar according to all the instructions King Ahaz had sent from Damascus, and he completed it before King Ahaz returned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֛בֶן]] [[H0223G\|אוּרִיָּ֥ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9004\|כְּ]][[H3605\|כֹ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַח֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0271G\|אָחָ֜ז]] [[H9006\|מִ]][[H1834\|דַּמֶּ֗שֶׂק]] [[H3651C\|כֵּ֤ן]] [[H6213H\|עָשָׂה֙]] [[H0223G\|אוּרִיָּ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בּ֥וֹא]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9014\|־]] [[H0271G\|אָחָ֖ז]] [[H9006\|מִ]][[H1834\|דַּמָּֽשֶׂק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.10|<< 2 Kings 16:10]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.12|2 Kings 16:12 >>]]</td></tr></table>
 

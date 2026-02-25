@@ -1,8 +1,56 @@
+---
+title: Psalm 34:2
+type: Verse
+kjv: "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad."
+bsb: "My soul boasts in the LORD; let the oppressed hear and rejoice."
+hebrew: "בַּ֭יהוָה תִּתְהַלֵּ֣ל נַפְשִׁ֑י יִשְׁמְע֖וּ עֲנָוִ֣ים וְיִשְׂמָֽחוּ׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H1984H]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H8085G]]"
+- "[[H6035]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:2**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul shall make her boast in the LORD: the humble shall hear [thereof], and be glad.
 <small><sub>**BSB:**</sub></small>
 My soul boasts in the LORD; let the oppressed hear and rejoice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H3068G\|יהוָה]] [[H1984H\|תִּתְהַלֵּ֣ל]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H8085G\|יִשְׁמְע֖וּ]] [[H6035\|עֲנָוִ֣ים]] [[H9002\|וְ]][[H8055\|יִשְׂמָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FAITH|FAITH]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.1|<< Psalms 34:1]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.3|Psalms 34:3 >>]]</td></tr></table>
 

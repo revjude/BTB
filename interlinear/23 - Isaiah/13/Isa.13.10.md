@@ -1,8 +1,67 @@
+---
+title: Isaiah 13:10
+type: Verse
+kjv: "For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine."
+bsb: "For the stars of heaven and their constellations will not give their light. The rising sun will be darkened, and the moon will not give its light."
+hebrew: "כִּֽי־ כוֹכְבֵ֤י הַשָּׁמַ֙יִם֙ וּכְסִ֣ילֵיהֶ֔ם לֹ֥א יָהֵ֖לּוּ אוֹרָ֑ם חָשַׁ֤ךְ הַשֶּׁ֙מֶשׁ֙ בְּצֵאת֔וֹ וְיָרֵ֖חַ לֹֽא־ יַגִּ֥יהַ אוֹרֽוֹ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic CONSTELLATIONS|CONSTELLATIONS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic MOON|MOON]]"
+- "[[topic ORION|ORION]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3556]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3685H]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H1984A]]"
+- "[[H0216]]"
+- "[[H2821]]"
+- "[[H8121]]"
+- "[[H9003]]"
+- "[[H3318K]]"
+- "[[H9043]]"
+- "[[H3394]]"
+- "[[H5050]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:10**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
 <small><sub>**BSB:**</sub></small>
 For the stars of heaven and their constellations will not give their light. The rising sun will be darkened, and the moon will not give its light.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3556\|כוֹכְבֵ֤י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וּ]][[H3685H\|כְסִ֣ילֵי]][[H9028\|הֶ֔ם]] [[H3808\|לֹ֥א]] [[H1984A\|יָהֵ֖לּוּ]] [[H0216\|אוֹרָ֑]][[H9028\|ם]] [[H2821\|חָשַׁ֤ךְ]] [[H9009\|הַ]][[H8121\|שֶּׁ֙מֶשׁ֙]] [[H9003\|בְּ]][[H3318K\|צֵאת֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H3394\|יָרֵ֖חַ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5050\|יַגִּ֥יהַ]] [[H0216\|אוֹרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic CONSTELLATIONS|CONSTELLATIONS]] • [[topic DARKNESS|DARKNESS]] • [[topic ECLIPSE|ECLIPSE]] • [[topic MOON|MOON]] • [[topic ORION|ORION]] • [[topic STARS|STARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.9|<< Isaiah 13:9]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.11|Isaiah 13:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

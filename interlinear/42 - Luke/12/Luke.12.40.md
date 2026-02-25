@@ -1,10 +1,59 @@
+---
+title: Luke 12:40
+type: Verse
+kjv: "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not."
+bsb: "You also must be ready, because the Son of Man will come at an hour you do not expect.”"
+jesus_said: "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not."
+greek: "καὶ ὑμεῖς οὖν γίνεσθε ἕτοιμοι, ὅτι ᾗ ὥρᾳ οὐ δοκεῖτε ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται.¶"
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G1096]]"
+- "[[G2092]]"
+- "[[G3754H]]"
+- "[[G3739]]"
+- "[[G5610]]"
+- "[[G3756]]"
+- "[[G1380]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2064]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 12:40**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.
 <small><sub>**BSB:**</sub></small>
 You also must be ready, because the Son of Man will come at an hour you do not expect.”
-<small><sub>**Literal:**</sub></small>
-Also you yourselves therefore do be ready, for in the hour not you expect the Son <the> of Man comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.39|<< Luke 12:39]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.41|Luke 12:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3767\|οὖν]]  [[G1096\|γίνεσθε]]  [[G2092\|ἕτοιμοι,]]  [[G3754H\|ὅτι]]  [[G3739\|ᾗ]]  [[G5610\|ὥρᾳ]]  [[G3756\|οὐ]]  [[G1380\|δοκεῖτε]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2064\|ἔρχεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERVANT|SERVANT]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.39|<< Luke 12:39]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.41|Luke 12:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

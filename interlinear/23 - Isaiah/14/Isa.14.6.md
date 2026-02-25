@@ -1,8 +1,58 @@
+---
+title: Isaiah 14:6
+type: Verse
+kjv: "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth."
+bsb: "It struck the peoples in anger with unceasing blows; it subdued the nations in rage with relentless persecution."
+hebrew: "מַכֶּ֤ה עַמִּים֙ בְּעֶבְרָ֔ה מַכַּ֖ת בִּלְתִּ֣י סָרָ֑ה רֹדֶ֤ה בָאַף֙ גּוֹיִ֔ם מֻרְדָּ֖ף בְּלִ֥י חָשָֽׂךְ׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5221]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H5678]]"
+- "[[H4347]]"
+- "[[H1115]]"
+- "[[H5627]]"
+- "[[H7287A]]"
+- "[[H0639G]]"
+- "[[H1471A]]"
+- "[[H4783]]"
+- "[[H1097]]"
+- "[[H2820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:6**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, [and] none hindereth.
 <small><sub>**BSB:**</sub></small>
 It struck the peoples in anger with unceasing blows; it subdued the nations in rage with relentless persecution.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|מַכֶּ֤ה]] [[H5971A\|עַמִּים֙]] [[H9003\|בְּ]][[H5678\|עֶבְרָ֔ה]] [[H4347\|מַכַּ֖ת]] [[H1115\|בִּלְתִּ֣י]] [[H5627\|סָרָ֑ה]] [[H7287A\|רֹדֶ֤ה]] [[H9003\|בָ]][[H0639G\|אַף֙]] [[H1471A\|גּוֹיִ֔ם]] [[H4783\|מֻרְדָּ֖ף]] [[H1097\|בְּלִ֥י]] [[H2820\|חָשָֽׂךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic NATION|NATION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.5|<< Isaiah 14:5]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.7|Isaiah 14:7 >>]]</td></tr></table>
 

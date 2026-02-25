@@ -1,8 +1,63 @@
+---
+title: Jeremiah 12:9
+type: Verse
+kjv: "Mine heritage is unto me as a speckled bird, the birds round about are against her; come ye, assemble all the beasts of the field, come to devour."
+bsb: "Is not My inheritance to Me like a speckled bird of prey with other birds of prey circling against her? Go, gather all the beasts of the field; bring them to devour her."
+hebrew: "הַעַ֨יִט צָב֤וּעַ נַחֲלָתִי֙ לִ֔י הַעַ֖יִט סָבִ֣יב עָלֶ֑יהָ לְכ֗וּ אִסְפ֛וּ כָּל־ חַיַּ֥ת הַשָּׂדֶ֖ה הֵתָ֥יוּ לְאָכְלָֽה׃"
+pericope: "[[Jer.12.5 God’s Answer to Jeremiah|God’s Answer to Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9008]]"
+- "[[H5861]]"
+- "[[H6641]]"
+- "[[H5159]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5439G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H1980G]]"
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704I]]"
+- "[[H0857]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:9**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine heritage [is] unto me [as] a speckled bird, the birds round about [are] against her; come ye, assemble all the beasts of the field, come to devour.
 <small><sub>**BSB:**</sub></small>
 Is not My inheritance to Me like a speckled bird of prey with other birds of prey circling against her? Go, gather all the beasts of the field; bring them to devour her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5861\|עַ֨יִט]] [[H6641\|צָב֤וּעַ]] [[H5159\|נַחֲלָתִ]][[H9020\|י֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H9008\|הַ]][[H5861\|עַ֖יִט]] [[H5439G\|סָבִ֣יב]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H1980G\|לְכ֗וּ]] [[H0622\|אִסְפ֛וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶ֖ה]] [[H0857\|הֵתָ֥יוּ]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.8|<< Jeremiah 12:8]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.10|Jeremiah 12:10 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Day
+type: Pericope
 pericope: "[[Gen.1.3 The First Day|The First Day]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,13 +24,14 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 3
 verses:
 - "[[Gen.1.3]]"
 - "[[Gen.1.4]]"
 - "[[Gen.1.5]]"
 ---
 
-[[Gen.1|Genesis 1:3 - Genesis 1:5]]
+<small>[[Gen.1|Genesis 1:3-5]]</small>
 *The First Day*
 
 [[Gen.1.3|3]] And God said, Let there be light: and there was light.

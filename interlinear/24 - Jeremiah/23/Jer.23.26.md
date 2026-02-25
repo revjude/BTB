@@ -1,8 +1,60 @@
+---
+title: Jeremiah 23:26
+type: Verse
+kjv: "How long shall this be in the heart of the prophets that prophesy lies? yea, they are prophets of the deceit of their own heart;"
+bsb: "How long will this continue in the hearts of these prophets who prophesy falsehood, these prophets of the delusion of their own minds?"
+hebrew: "עַד־ מָתַ֗י הֲיֵ֛שׁ בְּלֵ֥ב הַנְּבִאִ֖ים נִבְּאֵ֣י הַשָּׁ֑קֶר וּנְבִיאֵ֖י תַּרְמִ֥ת לִבָּֽם׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H8267]]"
+- "[[H9002]]"
+- "[[H8649B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:26**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long shall [this] be in the heart of the prophets that prophesy lies? yea, [they are] prophets of the deceit of their own heart;
 <small><sub>**BSB:**</sub></small>
 How long will this continue in the hearts of these prophets who prophesy falsehood, these prophets of the delusion of their own minds?
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֗י]] [[H9008\|הֲ]][[H3426\|יֵ֛שׁ]] [[H9003\|בְּ]][[H3820A\|לֵ֥ב]] [[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H5012\|נִבְּאֵ֣י]] [[H9009\|הַ]][[H8267\|שָּׁ֑קֶר]] [[H9002\|וּ]][[H5030\|נְבִיאֵ֖י]] [[H8649B\|תַּרְמִ֥ת]] [[H3820A\|לִבָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.25|<< Jeremiah 23:25]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.27|Jeremiah 23:27 >>]]</td></tr></table>
 

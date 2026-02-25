@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jotham’s Parable
+type: Pericope
 pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 9
 book/chapter: "[[Judg.9|Judges 9]]"
-genre:
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 15
 verses:
 - "[[Judg.9.7]]"
 - "[[Judg.9.8]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Judg.9.21]]"
 ---
 
-[[Judg.9|Judges 9:7 - Judges 9:21]]
+<small>[[Judg.9|Judges 9:7-21]]</small>
 *Jotham’s Parable*
 
 [[Judg.9.7|7]] And when they told \[it\] to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you.

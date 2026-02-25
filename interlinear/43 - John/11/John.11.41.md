@@ -1,10 +1,67 @@
+---
+title: John 11:41
+type: Verse
+kjv: "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me."
+bsb: "So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me."
+jesus_said: "Father, I thank thee that thou hast heard me."
+greek: "ἦραν οὖν τὸν λίθον οὗ ἦν ὁ τεθνηκὼς κειμένος. ὁ δὲ Ἰησοῦς ἦρεν τοὺς ὀφθαλμοὺς ἄνω καὶ εἶπεν· πάτερ, εὐχαριστῶ σοι ὅτι ἤκουσάς μου."
+pericope: "[[John.11.38 Jesus Raises Lazarus|Jesus Raises Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G0142]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G3757]]"
+- "[[G1510]]"
+- "[[G2348]]"
+- "[[G2749]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G3788]]"
+- "[[G0507]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3962]]"
+- "[[G2168]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0191]]"
+- "[[G3165]]"
+texts:
+- NKO
+- K
+---
+
 **John 11:41**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they took away the stone [from the place] where the dead was laid. And Jesus lifted up [his] eyes, and said, Father, I thank thee that thou hast heard me.
 <small><sub>**BSB:**</sub></small>
 So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me.
-<small><sub>**Literal:**</sub></small>
-They took away therefore the stone where was who having died laid. <the> Now Jesus lifted <the> [His] eyes upwards and said; Father, I thank You that You have heard Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.40|<< John 11:40]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.42|John 11:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0142\|ἦραν]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G3037\|λίθον]]  [[G3757\|οὗ]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G2348\|τεθνηκὼς]]  [[G2749\|κειμένος.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0142\|ἦρεν]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0507\|ἄνω]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3962\|πάτερ,]]  [[G2168\|εὐχαριστῶ]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G0191\|ἤκουσάς]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.40|<< John 11:40]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.42|John 11:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

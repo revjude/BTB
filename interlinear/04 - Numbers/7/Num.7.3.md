@@ -1,8 +1,71 @@
+---
+title: Numbers 7:3
+type: Verse
+kjv: "And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle."
+bsb: "They brought as their offering before the LORD six covered carts and twelve oxen—an ox from each leader and a cart from every two leaders—and presented them before the tabernacle."
+hebrew: "וַיָּבִ֨יאוּ אֶת־ קָרְבָּנָ֜ם לִפְנֵ֣י יְהוָ֗ה שֵׁשׁ־ עֶגְלֹ֥ת צָב֙ וּשְׁנֵ֣י עָשָׂ֣ר בָּקָ֔ר עֲגָלָ֛ה עַל־ שְׁנֵ֥י הַנְּשִׂאִ֖ים וְשׁ֣וֹר לְאֶחָ֑ד וַיַּקְרִ֥יבוּ אוֹתָ֖ם לִפְנֵ֥י הַמִּשְׁכָּֽן׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic WAGON|WAGON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H8337]]"
+- "[[H5699]]"
+- "[[H6632A]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H1241]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H7794]]"
+- "[[H0259]]"
+- "[[H7126H]]"
+- "[[H9038]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:3**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
 <small><sub>**BSB:**</sub></small>
 They brought as their offering before the LORD six covered carts and twelve oxen—an ox from each leader and a cart from every two leaders—and presented them before the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֨יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנָ֜]][[H9028\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H5699\|עֶגְלֹ֥ת]] [[H6632A\|צָב֙]] [[H9002\|וּ]][[H8147\|שְׁנֵ֣י]] [[H6240\|עָשָׂ֣ר]] [[H1241\|בָּקָ֔ר]] [[H5699\|עֲגָלָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H5387A\|נְּשִׂאִ֖ים]] [[H9002\|וְ]][[H7794\|שׁ֣וֹר]] [[H9005\|לְ]][[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H7126H\|יַּקְרִ֥יבוּ]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic WAGON|WAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.2|<< Numbers 7:2]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.4|Numbers 7:4 >>]]</td></tr></table>
 

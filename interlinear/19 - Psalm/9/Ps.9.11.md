@@ -1,8 +1,57 @@
+---
+title: Psalm 9:11
+type: Verse
+kjv: "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings."
+bsb: "Sing praises to the LORD, who dwells in Zion; proclaim His deeds among the nations."
+hebrew: "זַמְּר֗וּ לַ֭יהוָה יֹשֵׁ֣ב צִיּ֑וֹן הַגִּ֥ידוּ בָ֝עַמִּ֗ים עֲלִֽילוֹתָֽיו׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H2167]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3427]]"
+- "[[H6726]]"
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H5949]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:11**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.
 <small><sub>**BSB:**</sub></small>
 Sing praises to the LORD, who dwells in Zion; proclaim His deeds among the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H2167\|זַמְּר֗וּ]] [[H9005\|לַ֭]][[H3068G\|יהוָה]] [[H3427\|יֹשֵׁ֣ב]] [[H6726\|צִיּ֑וֹן]] [[H5046\|הַגִּ֥ידוּ]] [[H9003\|בָ֝]][[H5971A\|עַמִּ֗ים]] [[H5949\|עֲלִֽילוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.10|<< Psalms 9:10]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.12|Psalms 9:12 >>]]</td></tr></table>
 

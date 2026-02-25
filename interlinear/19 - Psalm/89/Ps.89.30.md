@@ -1,8 +1,62 @@
+---
+title: Psalm 89:30
+type: Verse
+kjv: "If his children forsake my law, and walk not in my judgments;"
+bsb: "If his sons forsake My law and do not walk in My judgments,"
+hebrew: "אִם־ יַֽעַזְב֣וּ בָ֭נָיו תּוֹרָתִ֑י וּ֝בְמִשְׁפָּטַ֗י לֹ֣א יֵלֵכֽוּן׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8451]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:30**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If his children forsake my law, and walk not in my judgments;
 <small><sub>**BSB:**</sub></small>
 If his sons forsake My law and do not walk in My judgments,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5800A\|יַֽעַזְב֣וּ]] [[H1121A\|בָ֭נָי]][[H9023\|ו]] [[H8451\|תּוֹרָתִ֑]][[H9020\|י]] [[H9002\|וּ֝]][[H9003\|בְ]][[H4941G\|מִשְׁפָּטַ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H1980I\|יֵלֵכֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.29|<< Psalms 89:29]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.31|Psalms 89:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

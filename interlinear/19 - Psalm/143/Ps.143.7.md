@@ -1,8 +1,63 @@
+---
+title: Psalm 143:7
+type: Verse
+kjv: "Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit."
+bsb: "Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit."
+hebrew: "מַ֘הֵ֤ר עֲנֵ֨נִי׀ יְהוָה֮ כָּלְתָ֪ה ר֫וּחִ֥י אַל־ תַּסְתֵּ֣ר פָּנֶ֣יךָ מִמֶּ֑נִּי וְ֝נִמְשַׁ֗לְתִּי עִם־ יֹ֥רְדֵי בֽוֹר׃"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H4116A]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H3615G]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9001]]"
+- "[[H4911A]]"
+- "[[H5973A]]"
+- "[[H3381]]"
+- "[[H0953A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 143:7**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.
 <small><sub>**BSB:**</sub></small>
 Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.
+<small><sub>**Hebrew:**</sub></small>
+[[H4116A\|מַ֘הֵ֤ר]] [[H6030B\|עֲנֵ֨]][[H9030\|נִי]][[H9015\|׀]] [[H3068G\|יְהוָה֮]] [[H3615G\|כָּלְתָ֪ה]] [[H7307G\|ר֫וּחִ֥]][[H9020\|י]] [[H0408\|אַל]][[H9014\|־]] [[H5641\|תַּסְתֵּ֣ר]] [[H6440H\|פָּנֶ֣י]][[H9021\|ךָ]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H9001\|וְ֝]][[H4911A\|נִמְשַׁ֗לְתִּי]] [[H5973A\|עִם]][[H9014\|־]] [[H3381\|יֹ֥רְדֵי]] [[H0953A\|בֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.6|<< Psalms 143:6]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.8|Psalms 143:8 >>]]</td></tr></table>
 

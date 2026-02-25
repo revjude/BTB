@@ -1,8 +1,76 @@
+---
+title: Ezra 9:2
+type: Verse
+kjv: "For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass."
+bsb: "Indeed, the Israelites have taken some of their daughters as wives for themselves and their sons, so that the holy seed has been mixed with the people of the land. And the leaders and officials have taken the lead in this unfaithfulness!”"
+hebrew: "כִּֽי־ נָשְׂא֣וּ מִבְּנֹֽתֵיהֶ֗ם לָהֶם֙ וְלִבְנֵיהֶ֔ם וְהִתְעָֽרְבוּ֙ זֶ֣רַע הַקֹּ֔דֶשׁ בְּעַמֵּ֖י הָאֲרָצ֑וֹת וְיַ֧ד הַשָּׂרִ֣ים וְהַסְּגָנִ֗ים הָֽיְתָ֛ה בַּמַּ֥עַל הַזֶּ֖ה רִאשׁוֹנָֽה׃ ס"
+pericope: "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PERIZZITES|PERIZZITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5375U]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9001]]"
+- "[[H6148]]"
+- "[[H2233H]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H3027H]]"
+- "[[H8269]]"
+- "[[H5461]]"
+- "[[H1961]]"
+- "[[H4604]]"
+- "[[H2088]]"
+- "[[H7223I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 9:2**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of [those] lands: yea, the hand of the princes and rulers hath been chief in this trespass.
 <small><sub>**BSB:**</sub></small>
 Indeed, the Israelites have taken some of their daughters as wives for themselves and their sons, so that the holy seed has been mixed with the people of the land. And the leaders and officials have taken the lead in this unfaithfulness!”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5375U\|נָשְׂא֣וּ]] [[H9006\|מִ]][[H1323G\|בְּנֹֽתֵי]][[H9028\|הֶ֗ם]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H6148\|הִתְעָֽרְבוּ֙]] [[H2233H\|זֶ֣רַע]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9003\|בְּ]][[H5971A\|עַמֵּ֖י]] [[H9009\|הָ]][[H0776G\|אֲרָצ֑וֹת]] [[H9002\|וְ]][[H3027H\|יַ֧ד]] [[H9009\|הַ]][[H8269\|שָּׂרִ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5461\|סְּגָנִ֗ים]] [[H1961\|הָֽיְתָ֛ה]] [[H9003\|בַּ]][[H4604\|מַּ֥עַל]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H7223I\|רִאשׁוֹנָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic CANAANITES|CANAANITES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JEBUSITES|JEBUSITES]] • [[topic LEVITES|LEVITES]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOABITES|MOABITES]] • [[topic PERIZZITES|PERIZZITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.1|<< Ezra 9:1]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.3|Ezra 9:3 >>]]</td></tr></table>
 
@@ -24,7 +92,7 @@ Indeed, the Israelites have taken some of their daughters as wives for themselve
 | it has been  |**<big>&#8207;[[H1961\|הָֽיְתָ֛ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the unfaithfulness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4604\|מַּ֥עַל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ma.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| first  |**<big>&#8207;[[H7223I\|רִאשׁוֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| first  |**<big>&#8207;[[H7223I\|רִאשׁוֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.1|<< Ezra 9:1]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.3|Ezra 9:3 >>]]</td></tr></table>
 
 

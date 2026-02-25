@@ -1,8 +1,71 @@
+---
+title: Proverbs 30:4
+type: Verse
+kjv: "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son’s name, if thou canst tell?"
+bsb: "Who has ascended to heaven and come down? Who has gathered the wind in His hands? Who has bound up the waters in His cloak? Who has established all the ends of the earth? What is His name, and what is the name of His Son—surely you know!"
+hebrew: "מִ֤י עָלָֽה־ שָׁמַ֨יִם׀ וַיֵּרַ֡ד מִ֤י אָֽסַף־ ר֨וּחַ׀ בְּחָפְנָ֡יו מִ֤י צָֽרַר־ מַ֨יִם׀ בַּשִּׂמְלָ֗ה מִ֭י הֵקִ֣ים כָּל־ אַפְסֵי־ אָ֑רֶץ מַה־ שְּׁמ֥וֹ וּמַֽה־ שֶּׁם־ בְּ֝נ֗וֹ כִּ֣י תֵדָֽע׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H4310]]"
+- "[[H5927G]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0622]]"
+- "[[H7307H]]"
+- "[[H9003]]"
+- "[[H2651]]"
+- "[[H9023]]"
+- "[[H6887B]]"
+- "[[H4325G]]"
+- "[[H8071]]"
+- "[[H6965I]]"
+- "[[H3605]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H4100]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:4**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what [is] his name, and what [is] his son’s name, if thou canst tell?
 <small><sub>**BSB:**</sub></small>
 Who has ascended to heaven and come down? Who has gathered the wind in His hands? Who has bound up the waters in His cloak? Who has established all the ends of the earth? What is His name, and what is the name of His Son—surely you know!
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H5927G\|עָלָֽה]][[H9014\|־]] [[H8064\|שָׁמַ֨יִם]][[H9015\|׀]] [[H9001\|וַ]][[H3381\|יֵּרַ֡ד]] [[H4310\|מִ֤י]] [[H0622\|אָֽסַף]][[H9014\|־]] [[H7307H\|ר֨וּחַ]][[H9015\|׀]] [[H9003\|בְּ]][[H2651\|חָפְנָ֡י]][[H9023\|ו]] [[H4310\|מִ֤י]] [[H6887B\|צָֽרַר]][[H9014\|־]] [[H4325G\|מַ֨יִם]][[H9015\|׀]] [[H9003\|בַּ]][[H8071\|שִּׂמְלָ֗ה]] [[H4310\|מִ֭י]] [[H6965I\|הֵקִ֣ים]] [[H3605\|כָּל]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H4100\|מַה]][[H9014\|־]] [[H8034\|שְּׁמ֥]][[H9023\|וֹ]] [[H9002\|וּ]][[H4100\|מַֽה]][[H9014\|־]] [[H8034\|שֶּׁם]][[H9014\|־]] [[H1121A\|בְּ֝נ֗]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H3045\|תֵדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENTS|CONTINENTS]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.3|<< Proverbs 30:3]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.5|Proverbs 30:5 >>]]</td></tr></table>
 

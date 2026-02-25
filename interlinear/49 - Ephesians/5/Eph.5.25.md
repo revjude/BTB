@@ -1,10 +1,59 @@
+---
+title: Ephesians 5:25
+type: Verse
+kjv: "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
+bsb: "Husbands, love your wives, just as Christ loved the church and gave Himself up for her"
+greek: "Οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας ἑαυτῶν καθὼς καὶ ὁ Χριστὸς ἠγάπησεν τὴν ἐκκλησίαν καὶ ἑαυτὸν παρέδωκεν ὑπὲρ αὐτῆς"
+pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G0025]]"
+- "[[G1135H]]"
+- "[[G1438]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G1577]]"
+- "[[G3860]]"
+- "[[G5228]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Ephesians 5:25**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 <small><sub>**BSB:**</sub></small>
 Husbands, love your wives, just as Christ loved the church and gave Himself up for her
-<small><sub>**Literal:**</sub></small>
-you who [are] Husbands, do love the wives of your own even as also <the> Christ loved the church and Himself gave up for her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.24|<< Ephesians 5:24]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.26|Ephesians 5:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G0435H\|ἄνδρες,]]  [[G0025\|ἀγαπᾶτε]]  [[G3588\|τὰς]]  [[G1135H\|γυναῖκας]]  [[G1438\|ἑαυτῶν]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G0025\|ἠγάπησεν]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G2532\|καὶ]]  [[G1438\|ἑαυτὸν]]  [[G3860\|παρέδωκεν]]  [[G5228\|ὑπὲρ]]  [[G0846\|αὐτῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic HUSBAND|HUSBAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SUFFERING|SUFFERING]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.24|<< Ephesians 5:24]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.26|Ephesians 5:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

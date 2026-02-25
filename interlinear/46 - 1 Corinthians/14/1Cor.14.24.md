@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 14:24
+type: Verse
+kjv: "But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:"
+bsb: "But if an unbeliever or uninstructed person comes in while everyone is prophesying, he will be convicted and called to account by all,"
+greek: "ἐὰν δὲ πάντες προφητεύωσιν, εἰσέλθῃ δέ τις ἄπιστος ἢ ἰδιώτης, ἐλέγχεται ὑπὸ πάντων, ἀνακρίνεται ὑπὸ πάντων,"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G4395]]"
+- "[[G1525]]"
+- "[[G5100]]"
+- "[[G0571]]"
+- "[[G2228]]"
+- "[[G2399]]"
+- "[[G1651]]"
+- "[[G5259G]]"
+- "[[G0350]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:24**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if all prophesy, and there come in one that believeth not, or [one] unlearned, he is convinced of all, he is judged of all:
 <small><sub>**BSB:**</sub></small>
 But if an unbeliever or uninstructed person comes in while everyone is prophesying, he will be convicted and called to account by all,
-<small><sub>**Literal:**</sub></small>
-If however all shall prophesy, shall come in then some unbeliever or uninstructed, he is convicted by all, he is examined by all,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.23|<< 1 Corinthians 14:23]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.25|1 Corinthians 14:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G4395\|προφητεύωσιν,]]  [[G1525\|εἰσέλθῃ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0571\|ἄπιστος]]  [[G2228\|ἢ]]  [[G2399\|ἰδιώτης,]]  [[G1651\|ἐλέγχεται]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων,]]  [[G0350\|ἀνακρίνεται]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.23|<< 1 Corinthians 14:23]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.25|1 Corinthians 14:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

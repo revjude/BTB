@@ -1,8 +1,69 @@
+---
+title: Jeremiah 34:13
+type: Verse
+kjv: "Thus saith the LORD, the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,"
+bsb: "“This is what the LORD, the God of Israel, says: I made a covenant with your forefathers when I brought them out of the land of Egypt, out of the house of slavery, saying:"
+hebrew: "כֹּֽה־ אָמַ֥ר יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל אָנֹכִ֗י כָּרַ֤תִּֽי בְרִית֙ אֶת־ אֲב֣וֹתֵיכֶ֔ם בְּי֨וֹם הוֹצִאִ֤י אוֹתָם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִבֵּ֥ית עֲבָדִ֖ים לֵאמֹֽר׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0595]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H0854]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3318H]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004M]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:13**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD, the God of Israel, says: I made a covenant with your forefathers when I brought them out of the land of Egypt, out of the house of slavery, saying:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0595\|אָנֹכִ֗י]] [[H3772H\|כָּרַ֤תִּֽי]] [[H1285\|בְרִית֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲב֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H3318H\|הוֹצִאִ֤]][[H9040\|י]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9006\|מִ]][[H1004M\|בֵּ֥ית]] [[H5650\|עֲבָדִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.12|<< Jeremiah 34:12]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.14|Jeremiah 34:14 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple Destroyed
+type: Pericope
 pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 52
 book/chapter: "[[Jer.52|Jeremiah 52]]"
-genre:
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 12
 verses:
 - "[[Jer.52.12]]"
 - "[[Jer.52.13]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Jer.52.23]]"
 ---
 
-[[Jer.52|Jeremiah 52:12 - Jeremiah 52:23]]
+<small>[[Jer.52|Jeremiah 52:12-23]]</small>
 *The Temple Destroyed*
 
 [[Jer.52.12|12]] Now in the fifth month, in the tenth \[day\] of the month, which \[was\] the nineteenth year of Nebuchadrezzar king of Babylon, came Nebuzaradan, captain of the guard, \[which\] served the king of Babylon, into Jerusalem,

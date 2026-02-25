@@ -1,8 +1,69 @@
+---
+title: Genesis 20:5
+type: Verse
+kjv: "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this."
+bsb: "Didn’t Abraham tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this in the integrity of my heart and the innocence of my hands.”"
+hebrew: "הֲלֹ֨א ה֤וּא אָֽמַר־ לִי֙ אֲחֹ֣תִי הִ֔וא וְהִֽיא־ גַם־ הִ֥וא אָֽמְרָ֖ה אָחִ֣י ה֑וּא בְּתָם־ לְבָבִ֛י וּבְנִקְיֹ֥ן כַּפַּ֖י עָשִׂ֥יתִי זֹֽאת׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0251G]]"
+- "[[H9003]]"
+- "[[H8537]]"
+- "[[H3824]]"
+- "[[H5356A]]"
+- "[[H3709G]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:5**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.
 <small><sub>**BSB:**</sub></small>
 Didn’t Abraham tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this in the integrity of my heart and the innocence of my hands.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֨א]] [[H1931\|ה֤וּא]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H0269\|אֲחֹ֣תִ]][[H9020\|י]] [[H1931\|הִ֔וא]] [[H9002\|וְ]][[H1931\|הִֽיא]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H1931\|הִ֥וא]] [[H0559\|אָֽמְרָ֖ה]] [[H0251G\|אָחִ֣]][[H9020\|י]] [[H1931\|ה֑וּא]] [[H9003\|בְּ]][[H8537\|תָם]][[H9014\|־]] [[H3824\|לְבָבִ֛]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H5356A\|נִקְיֹ֥ן]] [[H3709G\|כַּפַּ֖]][[H9020\|י]] [[H6213A\|עָשִׂ֥יתִי]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.4|<< Genesis 20:4]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.6|Genesis 20:6 >>]]</td></tr></table>
 

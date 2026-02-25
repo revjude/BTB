@@ -1,8 +1,71 @@
+---
+title: 2 Kings 4:25
+type: Verse
+kjv: "So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:"
+bsb: "So she set out and went to the man of God at Mount Carmel. When the man of God saw her at a distance, he said to his servant Gehazi, “Look, there is the Shunammite woman."
+hebrew: "וַתֵּ֗לֶךְ וַתָּב֛וֹא אֶל־ אִ֥ישׁ הָאֱלֹהִ֖ים אֶל־ הַ֣ר הַכַּרְמֶ֑ל וַ֠יְהִי כִּרְא֨וֹת אִישׁ־ הָאֱלֹהִ֤ים אֹתָהּ֙ מִנֶּ֔גֶד וַיֹּ֙אמֶר֙ אֶל־ גֵּיחֲזִ֣י נַעֲר֔וֹ הִנֵּ֖ה הַשּׁוּנַמִּ֥ית הַלָּֽז׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H2022G]]"
+- "[[H3760H]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H0559]]"
+- "[[H1522]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H7767]]"
+- "[[H1975]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:25**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, [yonder is] that Shunammite:
 <small><sub>**BSB:**</sub></small>
 So she set out and went to the man of God at Mount Carmel. When the man of God saw her at a distance, he said to his servant Gehazi, “Look, there is the Shunammite woman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|תֵּ֗לֶךְ]] [[H9001\|וַ]][[H0935G\|תָּב֛וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H9009\|הַ]][[H3760H\|כַּרְמֶ֑ל]] [[H9001\|וַ֠]][[H1961\|יְהִי]] [[H9004\|כִּ]][[H7200G\|רְא֨וֹת]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֤ים]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H9006\|מִ]][[H5048\|נֶּ֔גֶד]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1522\|גֵּיחֲזִ֣י]] [[H5288\|נַעֲר֔]][[H9023\|וֹ]] [[H2009\|הִנֵּ֖ה]] [[H9009\|הַ]][[H7767\|שּׁוּנַמִּ֥ית]] [[H1975\|הַלָּֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CARMEL|CARMEL]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.24|<< 2 Kings 4:24]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.26|2 Kings 4:26 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Exodus 3:20
+type: Verse
+kjv: "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go."
+bsb: "So I will stretch out My hand and strike the Egyptians with all the wonders I will perform among them. And after that, he will release you."
+hebrew: "וְשָׁלַחְתִּ֤י אֶת־ יָדִי֙ וְהִכֵּיתִ֣י אֶת־ מִצְרַ֔יִם בְּכֹל֙ נִפְלְאֹתַ֔י אֲשֶׁ֥ר אֶֽעֱשֶׂ֖ה בְּקִרְבּ֑וֹ וְאַחֲרֵי־ כֵ֖ן יְשַׁלַּ֥ח אֶתְכֶֽם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971K]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H5221]]"
+- "[[H4713]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6381]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:20**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.
 <small><sub>**BSB:**</sub></small>
 So I will stretch out My hand and strike the Egyptians with all the wonders I will perform among them. And after that, he will release you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971K\|שָׁלַחְתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדִ]][[H9020\|י֙]] [[H9001\|וְ]][[H5221\|הִכֵּיתִ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H4713\|מִצְרַ֔יִם]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H6381\|נִפְלְאֹתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|אֶֽעֱשֶׂ֖ה]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H7971K\|יְשַׁלַּ֥ח]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.19|<< Exodus 3:19]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.21|Exodus 3:21 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Genesis 9:16
+type: Verse
+kjv: "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
+bsb: "And whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and every living creature of every kind that is on the earth.”"
+hebrew: "וְהָיְתָ֥ה הַקֶּ֖שֶׁת בֶּֽעָנָ֑ן וּרְאִיתִ֗יהָ לִזְכֹּר֙ בְּרִ֣ית עוֹלָ֔ם בֵּ֣ין אֱלֹהִ֔ים וּבֵין֙ כָּל־ נֶ֣פֶשׁ חַיָּ֔ה בְּכָל־ בָּשָׂ֖ר אֲשֶׁ֥ר עַל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic RAINBOW|RAINBOW]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H7198]]"
+- "[[H9003]]"
+- "[[H6051]]"
+- "[[H7200G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H2142]]"
+- "[[H1285]]"
+- "[[H5769G]]"
+- "[[H0996G]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H1320]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:16**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that [is] upon the earth.
 <small><sub>**BSB:**</sub></small>
 And whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and every living creature of every kind that is on the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9009\|הַ]][[H7198\|קֶּ֖שֶׁת]] [[H9003\|בֶּֽ]][[H6051\|עָנָ֑ן]] [[H9001\|וּ]][[H7200G\|רְאִיתִ֗י]][[H9034\|הָ]] [[H9005\|לִ]][[H2142\|זְכֹּר֙]] [[H1285\|בְּרִ֣ית]] [[H5769G\|עוֹלָ֔ם]] [[H0996G\|בֵּ֣ין]] [[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H0996G\|בֵין֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5315K\|נֶ֣פֶשׁ]] [[H2416A\|חַיָּ֔ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֖ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BOW|BOW]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic RAIN|RAIN]] • [[topic RAINBOW|RAINBOW]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.15|<< Genesis 9:15]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.17|Genesis 9:17 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Ezekiel 6:8
+type: Verse
+kjv: "Yet will I leave a remnant, that ye may have some that shall escape the sword among the nations, when ye shall be scattered through the countries."
+bsb: "Yet I will leave a remnant, for some of you will escape the sword when you are scattered among the nations and throughout the lands."
+hebrew: "וְהוֹתַרְתִּ֗י בִּהְי֥וֹת לָכֶ֛ם פְּלִ֥יטֵי חֶ֖רֶב בַּגּוֹיִ֑ם בְּהִזָּרֽוֹתֵיכֶ֖ם בָּאֲרָצֽוֹת׃"
+pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6412A]]"
+- "[[H2719]]"
+- "[[H1471A]]"
+- "[[H2219]]"
+- "[[H9046]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:8**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet will I leave a remnant, that ye may have [some] that shall escape the sword among the nations, when ye shall be scattered through the countries.
 <small><sub>**BSB:**</sub></small>
 Yet I will leave a remnant, for some of you will escape the sword when you are scattered among the nations and throughout the lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3498\|הוֹתַרְתִּ֗י]] [[H9003\|בִּ]][[H1961\|הְי֥וֹת]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H6412A\|פְּלִ֥יטֵי]] [[H2719\|חֶ֖רֶב]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H9003\|בְּ]][[H2219\|הִזָּרֽוֹתֵי]][[H9046\|כֶ֖ם]] [[H9003\|בָּ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.7|<< Ezekiel 6:7]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.9|Ezekiel 6:9 >>]]</td></tr></table>
 

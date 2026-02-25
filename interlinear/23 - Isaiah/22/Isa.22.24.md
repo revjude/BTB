@@ -1,8 +1,63 @@
+---
+title: Isaiah 22:24
+type: Verse
+kjv: "And they shall hang upon him all the glory of his father’s house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons."
+bsb: "So they will hang on him all the glory of his father’s house: the descendants and the offshoots—all the lesser vessels, from bowls to every kind of jar."
+hebrew: "וְתָל֨וּ עָלָ֜יו כֹּ֣ל׀ כְּב֣וֹד בֵּית־ אָבִ֗יו הַצֶּֽאֱצָאִים֙ וְהַצְּפִע֔וֹת כֹּ֖ל כְּלֵ֣י הַקָּטָ֑ן מִכְּלֵי֙ הָֽאַגָּנ֔וֹת וְעַ֖ד כָּל־ כְּלֵ֥י הַנְּבָלִֽים׃"
+pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H8518]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H3519]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H6631]]"
+- "[[H9002]]"
+- "[[H6849]]"
+- "[[H3627]]"
+- "[[H6996A]]"
+- "[[H9006]]"
+- "[[H0101]]"
+- "[[H5704]]"
+- "[[H5035A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:24**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall hang upon him all the glory of his father’s house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons.
 <small><sub>**BSB:**</sub></small>
 So they will hang on him all the glory of his father’s house: the descendants and the offshoots—all the lesser vessels, from bowls to every kind of jar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8518\|תָל֨וּ]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H3519\|כְּב֣וֹד]] [[H1004M\|בֵּית]][[H9014\|־]] [[H0001G\|אָבִ֗י]][[H9023\|ו]] [[H9009\|הַ]][[H6631\|צֶּֽאֱצָאִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6849\|צְּפִע֔וֹת]] [[H3605\|כֹּ֖ל]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H6996A\|קָּטָ֑ן]] [[H9006\|מִ]][[H3627\|כְּלֵי֙]] [[H9009\|הָֽ]][[H0101\|אַגָּנ֔וֹת]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֥י]] [[H9009\|הַ]][[H5035A\|נְּבָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.23|<< Isaiah 22:23]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.25|Isaiah 22:25 >>]]</td></tr></table>
 

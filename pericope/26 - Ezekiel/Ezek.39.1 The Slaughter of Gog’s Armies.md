@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Slaughter of Gog’s Armies
+type: Pericope
 pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 39
 book/chapter: "[[Ezek.39|Ezekiel 39]]"
-genre:
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 20
 verses:
 - "[[Ezek.39.1]]"
 - "[[Ezek.39.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ezek.39.20]]"
 ---
 
-[[Ezek.39|Ezekiel 39:1 - Ezekiel 39:20]]
+<small>[[Ezek.39|Ezekiel 39:1-20]]</small>
 *The Slaughter of Gog’s Armies*
 
 [[Ezek.39.1|1]] Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I \[am\] against thee, O Gog, the chief prince of Meshech and Tubal:

@@ -1,8 +1,63 @@
+---
+title: Hosea 2:2
+type: Verse
+kjv: "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;"
+bsb: "Rebuke your mother, rebuke her, for she is not My wife, and I am not her husband. Let her remove the adultery from her face and the unfaithfulness from between her breasts."
+hebrew: "רִ֤יבוּ בְאִמְּכֶם֙ רִ֔יבוּ כִּֽי־ הִיא֙ לֹ֣א אִשְׁתִּ֔י וְאָנֹכִ֖י לֹ֣א אִישָׁ֑הּ וְתָסֵ֤ר זְנוּנֶ֙יהָ֙ מִפָּנֶ֔יה וְנַאֲפוּפֶ֖יהָ מִבֵּ֥ין שָׁדֶֽיהָ׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H7378]]"
+- "[[H9003]]"
+- "[[H0517]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H0802H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H5493G]]"
+- "[[H2183]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H5005]]"
+- "[[H0996G]]"
+- "[[H7699A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:2**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Plead with your mother, plead: for she [is] not my wife, neither [am] I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;
 <small><sub>**BSB:**</sub></small>
 Rebuke your mother, rebuke her, for she is not My wife, and I am not her husband. Let her remove the adultery from her face and the unfaithfulness from between her breasts.
+<small><sub>**Hebrew:**</sub></small>
+[[H7378\|רִ֤יבוּ]] [[H9003\|בְ]][[H0517\|אִמְּ]][[H9026\|כֶם֙]] [[H7378\|רִ֔יבוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|הִיא֙]] [[H3808\|לֹ֣א]] [[H0802H\|אִשְׁתִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H3808\|לֹ֣א]] [[H0376H\|אִישָׁ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H5493G\|תָסֵ֤ר]] [[H2183\|זְנוּנֶ֙י]][[H9024\|הָ֙]] [[H9006\|מִ]][[H6440H\|פָּנֶ֔י]][[H9024\|ה]] [[H9002\|וְ]][[H5005\|נַאֲפוּפֶ֖י]][[H9024\|הָ]] [[H9006\|מִ]][[H0996G\|בֵּ֥ין]] [[H7699A\|שָׁדֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.1|<< Hosea 2:1]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.3|Hosea 2:3 >>]]</td></tr></table>
 

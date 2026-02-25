@@ -1,8 +1,59 @@
+---
+title: Nehemiah 4:8
+type: Verse
+kjv: "And conspired all of them together to come and to fight against Jerusalem, and to hinder it."
+bsb: "and all of them conspired to come and fight against Jerusalem and create a hindrance."
+hebrew: "וַיִּקְשְׁר֤וּ כֻלָּם֙ יַחְדָּ֔ו לָב֖וֹא לְהִלָּחֵ֣ם בִּירוּשָׁלִָ֑ם וְלַעֲשׂ֥וֹת ל֖וֹ תּוֹעָֽה׃"
+pericope: "[[Neh.4.1 The Work Ridiculed|The Work Ridiculed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7194]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3162B]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H8442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:8**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And conspired all of them together to come [and] to fight against Jerusalem, and to hinder it.
 <small><sub>**BSB:**</sub></small>
 and all of them conspired to come and fight against Jerusalem and create a hindrance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7194\|יִּקְשְׁר֤וּ]] [[H3605\|כֻלָּ]][[H9028\|ם֙]] [[H3162B\|יַחְדָּ֔ו]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8442\|תּוֹעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ASHDOD|ASHDOD]] • [[topic CHARACTER|CHARACTER]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.7|<< Nehemiah 4:7]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.9|Nehemiah 4:9 >>]]</td></tr></table>
 

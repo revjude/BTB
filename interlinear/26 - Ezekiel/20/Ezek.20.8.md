@@ -1,8 +1,76 @@
+---
+title: Ezekiel 20:8
+type: Verse
+kjv: "But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt."
+bsb: "But they rebelled against Me and refused to listen. None of them cast away the abominations before their eyes, and they did not forsake the idols of Egypt. So I resolved to pour out My wrath upon them and vent My anger against them in the land of Egypt."
+hebrew: "וַיַּמְרוּ־ בִ֗י וְלֹ֤א אָבוּ֙ לִּשְׁמֹ֣עַ אֵלַ֔י אִ֣ישׁ אֶת־ שִׁקּוּצֵ֤י עֵֽינֵיהֶם֙ לֹ֣א הִשְׁלִ֔יכוּ וְאֶת־ גִּלּוּלֵ֥י מִצְרַ֖יִם לֹ֣א עָזָ֑בוּ וָאֹמַ֞ר לִשְׁפֹּ֧ךְ חֲמָתִ֣י עֲלֵיהֶ֗ם לְכַלּ֤וֹת אַפִּי֙ בָּהֶ֔ם בְּת֖וֹךְ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H8251]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H7993]]"
+- "[[H1544]]"
+- "[[H4714G]]"
+- "[[H5800A]]"
+- "[[H0559]]"
+- "[[H8210G]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3615J]]"
+- "[[H0639G]]"
+- "[[H8432]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:8**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 But they rebelled against Me and refused to listen. None of them cast away the abominations before their eyes, and they did not forsake the idols of Egypt. So I resolved to pour out My wrath upon them and vent My anger against them in the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4784\|יַּמְרוּ]][[H9014\|־]] [[H9003\|בִ֗]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0014\|אָבוּ֙]] [[H9005\|לִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H8251\|שִׁקּוּצֵ֤י]] [[H5869A\|עֵֽינֵי]][[H9028\|הֶם֙]] [[H3808\|לֹ֣א]] [[H7993\|הִשְׁלִ֔יכוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1544\|גִּלּוּלֵ֥י]] [[H4714G\|מִצְרַ֖יִם]] [[H3808\|לֹ֣א]] [[H5800A\|עָזָ֑בוּ]] [[H9001\|וָ]][[H0559\|אֹמַ֞ר]] [[H9005\|לִ]][[H8210G\|שְׁפֹּ֧ךְ]] [[H2534\|חֲמָתִ֣]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H9005\|לְ]][[H3615J\|כַלּ֤וֹת]] [[H0639G\|אַפִּ]][[H9020\|י֙]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.7|<< Ezekiel 20:7]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.9|Ezekiel 20:9 >>]]</td></tr></table>
 

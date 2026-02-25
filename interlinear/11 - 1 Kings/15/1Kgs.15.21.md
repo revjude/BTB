@@ -1,8 +1,62 @@
+---
+title: 1 Kings 15:21
+type: Verse
+kjv: "And it came to pass, when Baasha heard thereof, that he left off building of Ramah, and dwelt in Tirzah."
+bsb: "When Baasha learned of this, he stopped fortifying Ramah and withdrew to Tirzah."
+hebrew: "וַֽיְהִי֙ כִּשְׁמֹ֣עַ בַּעְשָׁ֔א וַיֶּחְדַּ֕ל מִבְּנ֖וֹת אֶת־ הָֽרָמָ֑ה וַיֵּ֖שֶׁב בְּתִרְצָֽה׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H1201]]"
+- "[[H2308]]"
+- "[[H9006]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8656H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:21**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Baasha heard [thereof], that he left off building of Ramah, and dwelt in Tirzah.
 <small><sub>**BSB:**</sub></small>
 When Baasha learned of this, he stopped fortifying Ramah and withdrew to Tirzah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H1201\|בַּעְשָׁ֔א]] [[H9001\|וַ]][[H2308\|יֶּחְדַּ֕ל]] [[H9006\|מִ]][[H1129\|בְּנ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H7414G\|רָמָ֑ה]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H9003\|בְּ]][[H8656H\|תִרְצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RAMAH|RAMAH]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.20|<< 1 Kings 15:20]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.22|1 Kings 15:22 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment to Continue
+type: Pericope
 pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 15
 book/chapter: "[[Jer.15|Jeremiah 15]]"
-genre:
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.15.1]]"
 - "[[Jer.15.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.15.9]]"
 ---
 
-[[Jer.15|Jeremiah 15:1 - Jeremiah 15:9]]
+<small>[[Jer.15|Jeremiah 15:1-9]]</small>
 *Judgment to Continue*
 
 [[Jer.15.1|1]] Then said the LORD unto me, Though Moses and Samuel stood before me, \[yet\] my mind \[could\] not \[be\] toward this people: cast \[them\] out of my sight, and let them go forth.

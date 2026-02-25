@@ -1,10 +1,64 @@
+---
+title: Luke 3:7
+type: Verse
+kjv: "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?"
+bsb: "Then John said to the crowds coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?"
+greek: "Ἔλεγεν οὖν τοῖς ἐκπορευομένοις ὄχλοις βαπτισθῆναι ὑπ᾽ αὐτοῦ· γεννήματα ἐχιδνῶν, τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς;"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic VIPER|VIPER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G1607]]"
+- "[[G3793]]"
+- "[[G0907]]"
+- "[[G5259G]]"
+- "[[G0846]]"
+- "[[G1081G]]"
+- "[[G2191]]"
+- "[[G5101]]"
+- "[[G5263]]"
+- "[[G4771]]"
+- "[[G5343]]"
+- "[[G0575]]"
+- "[[G3195]]"
+- "[[G3709]]"
+texts:
+- NKO
+---
+
 **Luke 3:7**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?
 <small><sub>**BSB:**</sub></small>
 Then John said to the crowds coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?
-<small><sub>**Literal:**</sub></small>
-He was saying therefore to the coming out crowds to be baptized by him; Offspring of vipers, who forewarned you to flee from the soon coming wrath?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.6|<< Luke 3:6]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.8|Luke 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G3767\|οὖν]]  [[G3588\|τοῖς]]  [[G1607\|ἐκπορευομένοις]]  [[G3793\|ὄχλοις]]  [[G0907\|βαπτισθῆναι]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ·]]  [[G1081G\|γεννήματα]]  [[G2191\|ἐχιδνῶν,]]  [[G5101\|τίς]]  [[G5263\|ὑπέδειξεν]]  [[G4771\|ὑμῖν]]  [[G5343\|φυγεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G3195\|μελλούσης]]  [[G3709\|ὀργῆς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]] • [[topic SADDUCEES|SADDUCEES]] • [[topic VIPER|VIPER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.6|<< Luke 3:6]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.8|Luke 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

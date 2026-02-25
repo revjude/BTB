@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 10:12
+type: Verse
+kjv: "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise."
+bsb: "We do not dare to classify or compare ourselves with some who commend themselves. When they measure themselves by themselves and compare themselves with themselves, they show their ignorance."
+greek: "Οὐ γὰρ τολμῶμεν ἐγκρῖναι ἢ συγκρῖναι ἑαυτούς τισιν τῶν ἑαυτοὺς συνιστανόντων· ἀλλ᾽ αὐτοὶ ἐν ἑαυτοῖς ἑαυτοὺς μετροῦντες καὶ συγκρίνοντες ἑαυτοὺς ἑαυτοῖς οὐ συνιᾶσιν."
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G5111]]"
+- "[[G1469]]"
+- "[[G2228]]"
+- "[[G4793]]"
+- "[[G1438]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G4921]]"
+- "[[G0235]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3354]]"
+- "[[G2532]]"
+- "[[G4920]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:12**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
 <small><sub>**BSB:**</sub></small>
 We do not dare to classify or compare ourselves with some who commend themselves. When they measure themselves by themselves and compare themselves with themselves, they show their ignorance.
-<small><sub>**Literal:**</sub></small>
-Not for dare we to classify or to compare ourselves [with] some <the> themselves commending; but these by themselves themselves measuring and comparing themselves with themselves not understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.11|<< 2 Corinthians 10:11]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.13|2 Corinthians 10:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐ]]  [[G1063\|γὰρ]]  [[G5111\|τολμῶμεν]]  [[G1469\|ἐγκρῖναι]]  [[G2228\|ἢ]]  [[G4793\|συγκρῖναι]]  [[G1438\|ἑαυτούς]]  [[G5100\|τισιν]]  [[G3588\|τῶν]]  [[G1438\|ἑαυτοὺς]]  [[G4921\|συνιστανόντων·]]  [[G0235\|ἀλλ᾽]]  [[G0846\|αὐτοὶ]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G1438\|ἑαυτοὺς]]  [[G3354\|μετροῦντες]]  [[G2532\|καὶ]]  [[G4793\|συγκρίνοντες]]  [[G1438\|ἑαυτοὺς]]  [[G1438\|ἑαυτοῖς]]  [[G3756\|οὐ]]  [[G4920\|συνιᾶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic PRIDE|PRIDE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.11|<< 2 Corinthians 10:11]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.13|2 Corinthians 10:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

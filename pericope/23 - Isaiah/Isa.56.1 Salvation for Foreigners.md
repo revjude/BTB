@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Salvation for Foreigners
+type: Pericope
 pericope: "[[Isa.56.1 Salvation for Foreigners|Salvation for Foreigners]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 56
 book/chapter: "[[Isa.56|Isaiah 56]]"
-genre:
+chronological_order: 695
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.56.1]]"
 - "[[Isa.56.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.56.8]]"
 ---
 
-[[Isa.56|Isaiah 56:1 - Isaiah 56:8]]
+<small>[[Isa.56|Isaiah 56:1-8]]</small>
 *Salvation for Foreigners*
 
 [[Isa.56.1|1]] Thus saith the LORD, Keep ye judgment, and do justice: for my salvation \[is\] near to come, and my righteousness to be revealed.

@@ -1,8 +1,56 @@
+---
+title: Psalm 137:5
+type: Verse
+kjv: "If I forget thee, O Jerusalem, let my right hand forget her cunning."
+bsb: "If I forget you, O Jerusalem, may my right hand cease to function."
+hebrew: "אִֽם־ אֶשְׁכָּחֵ֥ךְ יְֽרוּשָׁלִָ֗ם תִּשְׁכַּ֥ח יְמִינִֽי׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H9032]]"
+- "[[H3389]]"
+- "[[H3225G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:5**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I forget thee, O Jerusalem, let my right hand forget [her cunning].
 <small><sub>**BSB:**</sub></small>
 If I forget you, O Jerusalem, may my right hand cease to function.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִֽם]][[H9014\|־]] [[H7911\|אֶשְׁכָּחֵ֥]][[H9032\|ךְ]] [[H3389\|יְֽרוּשָׁלִָ֗ם]] [[H7911\|תִּשְׁכַּ֥ח]] [[H3225G\|יְמִינִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COUNTRY|COUNTRY]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MUSIC|MUSIC]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.4|<< Psalms 137:4]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.6|Psalms 137:6 >>]]</td></tr></table>
 

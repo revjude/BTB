@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 14:2
+type: Verse
+kjv: "And Asa did that which was good and right in the eyes of the LORD his God:"
+bsb: "And Asa did what was good and right in the eyes of the LORD his God."
+hebrew: "וַיַּ֤עַשׂ אָסָא֙ הַטּ֣וֹב וְהַיָּשָׁ֔ר בְּעֵינֵ֖י יְהוָ֥ה אֱלֹהָֽיו׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0609G]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:2**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Asa did [that which was] good and right in the eyes of the LORD his God:
 <small><sub>**BSB:**</sub></small>
 And Asa did what was good and right in the eyes of the LORD his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H0609G\|אָסָא֙]] [[H9009\|הַ]][[H2896A\|טּ֣וֹב]] [[H9002\|וְ]][[H9009\|הַ]][[H3477G\|יָּשָׁ֔ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.1|<< 2 Chronicles 14:1]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.3|2 Chronicles 14:3 >>]]</td></tr></table>
 

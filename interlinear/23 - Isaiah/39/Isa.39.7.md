@@ -1,8 +1,61 @@
+---
+title: Isaiah 39:7
+type: Verse
+kjv: "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+bsb: "And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”"
+hebrew: "וּמִבָּנֶ֜יךָ אֲשֶׁ֨ר יֵצְא֧וּ מִמְּךָ֛ אֲשֶׁ֥ר תּוֹלִ֖יד יִקָּ֑חוּ וְהָיוּ֙ סָרִיסִ֔ים בְּהֵיכַ֖ל מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[Isa.39.1 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H3205]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5631]]"
+- "[[H9003]]"
+- "[[H1964H]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 39:7**<big><big>[[Isa.39.1 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 <small><sub>**BSB:**</sub></small>
 And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121A\|בָּנֶ֜י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318G\|יֵצְא֧וּ]] [[H4480A\|מִמְּ]][[H9031\|ךָ֛]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|תּוֹלִ֖יד]] [[H3947G\|יִקָּ֑חוּ]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H5631\|סָרִיסִ֔ים]] [[H9003\|בְּ]][[H1964H\|הֵיכַ֖ל]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.6|<< Isaiah 39:6]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.8|Isaiah 39:8 >>]]</td></tr></table>
 

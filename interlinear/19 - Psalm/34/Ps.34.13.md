@@ -1,8 +1,57 @@
+---
+title: Psalm 34:13
+type: Verse
+kjv: "Keep thy tongue from evil, and thy lips from speaking guile."
+bsb: "Keep your tongue from evil and your lips from deceitful speech."
+hebrew: "נְצֹ֣ר לְשׁוֹנְךָ֣ מֵרָ֑ע וּ֝שְׂפָתֶ֗יךָ מִדַּבֵּ֥ר מִרְמָֽה׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H5341]]"
+- "[[H3956G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H8193G]]"
+- "[[H1696G]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:13**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thy tongue from evil, and thy lips from speaking guile.
 <small><sub>**BSB:**</sub></small>
 Keep your tongue from evil and your lips from deceitful speech.
+<small><sub>**Hebrew:**</sub></small>
+[[H5341\|נְצֹ֣ר]] [[H3956G\|לְשׁוֹנְ]][[H9021\|ךָ֣]] [[H9006\|מֵ]][[H7451H\|רָ֑ע]] [[H9002\|וּ֝]][[H8193G\|שְׂפָתֶ֗י]][[H9021\|ךָ]] [[H9006\|מִ]][[H1696G\|דַּבֵּ֥ר]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic LONGEVITY|LONGEVITY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.12|<< Psalms 34:12]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.14|Psalms 34:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

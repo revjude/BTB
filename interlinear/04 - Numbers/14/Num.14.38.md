@@ -1,8 +1,71 @@
+---
+title: Numbers 14:38
+type: Verse
+kjv: "But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still."
+bsb: "Of those men who had gone to spy out the land, only Joshua son of Nun and Caleb son of Jephunneh remained alive."
+hebrew: "וִיהוֹשֻׁ֣עַ בִּן־ נ֔וּן וְכָלֵ֖ב בֶּן־ יְפֻנֶּ֑ה חָיוּ֙ מִן־ הָאֲנָשִׁ֣ים הָהֵ֔ם הַֽהֹלְכִ֖ים לָת֥וּר אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Num.14.36 The Plague on the Ten Spies|The Plague on the Ten Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H3612G]]"
+- "[[H3312G]]"
+- "[[H2421]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1992]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H8446]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:38**<big><big>[[Num.14.36 The Plague on the Ten Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Joshua the son of Nun, and Caleb the son of Jephunneh, [which were] of the men that went to search the land, lived [still].
 <small><sub>**BSB:**</sub></small>
 Of those men who had gone to spy out the land, only Joshua son of Nun and Caleb son of Jephunneh remained alive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֔וּן]] [[H9002\|וְ]][[H3612G\|כָלֵ֖ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּ֑ה]] [[H2421\|חָיוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H9009\|הַֽ]][[H1980G\|הֹלְכִ֖ים]] [[H9005\|לָ]][[H8446\|ת֥וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic DECISION|DECISION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.37|<< Numbers 14:37]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.39|Numbers 14:39 >>]]</td></tr></table>
 

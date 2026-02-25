@@ -1,8 +1,61 @@
+---
+title: Ezekiel 35:8
+type: Verse
+kjv: "And I will fill his mountains with his slain men: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword."
+bsb: "I will fill its mountains with the slain; those killed by the sword will fall on your hills, in your valleys, and in all your ravines."
+hebrew: "וּמִלֵּאתִ֥י אֶת־ הָרָ֖יו חֲלָלָ֑יו גִּבְעוֹתֶ֤יךָ וְגֵאוֹתֶ֙יךָ֙ וְכָל־ אֲפִיקֶ֔יךָ חַלְלֵי־ חֶ֖רֶב יִפְּל֥וּ בָהֶֽם׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H9023]]"
+- "[[H2491A]]"
+- "[[H1389I]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1516R]]"
+- "[[H3605]]"
+- "[[H0650]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:8**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fill his mountains with his slain [men]: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.
 <small><sub>**BSB:**</sub></small>
 I will fill its mountains with the slain; those killed by the sword will fall on your hills, in your valleys, and in all your ravines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4390\|מִלֵּאתִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H2022G\|הָרָ֖י]][[H9023\|ו]] [[H2491A\|חֲלָלָ֑י]][[H9023\|ו]] [[H1389I\|גִּבְעוֹתֶ֤י]][[H9021\|ךָ]] [[H9002\|וְ]][[H1516R\|גֵאוֹתֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0650\|אֲפִיקֶ֔י]][[H9021\|ךָ]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H5307J\|יִפְּל֥וּ]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.7|<< Ezekiel 35:7]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.9|Ezekiel 35:9 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Numbers 9:21
+type: Verse
+kjv: "And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed."
+bsb: "Sometimes the cloud remained only from evening until morning, and when it lifted in the morning, they would set out. Whether it was by day or by night, when the cloud was taken up, they would set out."
+hebrew: "וְיֵ֞שׁ אֲשֶׁר־ יִהְיֶ֤ה הֶֽעָנָן֙ מֵעֶ֣רֶב עַד־ בֹּ֔קֶר וְנַעֲלָ֧ה הֶֽעָנָ֛ן בַּבֹּ֖קֶר וְנָסָ֑עוּ א֚וֹ יוֹמָ֣ם וָלַ֔יְלָה וְנַעֲלָ֥ה הֶעָנָ֖ן וְנָסָֽעוּ׃"
+pericope: "[[Num.9.15 The Cloud above the Tabernacle|The Cloud above the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H9006]]"
+- "[[H6153]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H9003]]"
+- "[[H5265]]"
+- "[[H0176A]]"
+- "[[H3119]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Numbers 9:21**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] it was, when the cloud abode from even unto the morning, and [that] the cloud was taken up in the morning, then they journeyed: whether [it was] by day or by night that the cloud was taken up, they journeyed.
 <small><sub>**BSB:**</sub></small>
 Sometimes the cloud remained only from evening until morning, and when it lifted in the morning, they would set out. Whether it was by day or by night, when the cloud was taken up, they would set out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3426\|יֵ֞שׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|יִהְיֶ֤ה]] [[H9009\|הֶֽ]][[H6051\|עָנָן֙]] [[H9006\|מֵ]][[H6153\|עֶ֣רֶב]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּ֔קֶר]] [[H9001\|וְ]][[H5927H\|נַעֲלָ֧ה]] [[H9009\|הֶֽ]][[H6051\|עָנָ֛ן]] [[H9003\|בַּ]][[H1242\|בֹּ֖קֶר]] [[H9001\|וְ]][[H5265\|נָסָ֑עוּ]] [[H0176A\|א֚וֹ]] [[H3119\|יוֹמָ֣ם]] [[H9002\|וָ]][[H3915\|לַ֔יְלָה]] [[H9001\|וְ]][[H5927H\|נַעֲלָ֥ה]] [[H9009\|הֶ]][[H6051\|עָנָ֖ן]] [[H9001\|וְ]][[H5265\|נָסָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 

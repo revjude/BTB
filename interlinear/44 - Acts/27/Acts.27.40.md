@@ -1,10 +1,59 @@
+---
+title: Acts 27:40
+type: Verse
+kjv: "And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore."
+bsb: "Cutting away the anchors, they left them in the sea as they loosened the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach."
+greek: "καὶ τὰς ἀγκύρας περιελόντες εἴων εἰς τὴν θάλασσαν, ἅμα ἀνέντες τὰς ζευκτηρίας τῶν πηδαλίων καὶ ἐπάραντες τὸν ἀρτέμωνα τῇ πνεούσῃ κατεῖχον εἰς τὸν αἰγιαλόν."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic HELM|HELM]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0045]]"
+- "[[G4014]]"
+- "[[G1439]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G0260]]"
+- "[[G0447]]"
+- "[[G2202]]"
+- "[[G4079]]"
+- "[[G1869]]"
+- "[[G0736]]"
+- "[[G4154]]"
+- "[[G2722]]"
+- "[[G0123]]"
+texts:
+- NKO
+---
+
 **Acts 27:40**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had taken up the anchors, they committed [themselves] unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore.
 <small><sub>**BSB:**</sub></small>
 Cutting away the anchors, they left them in the sea as they loosened the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach.
-<small><sub>**Literal:**</sub></small>
-And the anchors having cut away they were leaving [them] in the sea, at the same time having loosened the ropes of the rudders And having hoisted the foresail to the blowing [wind] they were making for the shore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.39|<< Acts 27:39]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.41|Acts 27:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G0045\|ἀγκύρας]]  [[G4014\|περιελόντες]]  [[G1439\|εἴων]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G0260\|ἅμα]]  [[G0447\|ἀνέντες]]  [[G3588\|τὰς]]  [[G2202\|ζευκτηρίας]]  [[G3588\|τῶν]]  [[G4079\|πηδαλίων]]  [[G2532\|καὶ]]  [[G1869\|ἐπάραντες]]  [[G3588\|τὸν]]  [[G0736\|ἀρτέμωνα]]  [[G3588\|τῇ]]  [[G4154\|πνεούσῃ]]  [[G2722\|κατεῖχον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0123\|αἰγιαλόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELM|HELM]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.39|<< Acts 27:39]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.41|Acts 27:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

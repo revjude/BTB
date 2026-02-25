@@ -1,8 +1,59 @@
+---
+title: Numbers 8:14
+type: Verse
+kjv: "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine."
+bsb: "In this way you shall separate the Levites from the rest of the Israelites, and the Levites will belong to Me."
+hebrew: "וְהִבְדַּלְתָּ֙ אֶת־ הַלְוִיִּ֔ם מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0914]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:14**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine.
 <small><sub>**BSB:**</sub></small>
 In this way you shall separate the Levites from the rest of the Israelites, and the Levites will belong to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0914\|הִבְדַּלְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9006\|מִ]][[H8432\|תּ֖וֹךְ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H1961\|הָ֥יוּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.13|<< Numbers 8:13]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.15|Numbers 8:15 >>]]</td></tr></table>
 

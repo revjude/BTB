@@ -1,8 +1,66 @@
+---
+title: Jonah 1:10
+type: Verse
+kjv: "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them."
+bsb: "Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them."
+hebrew: "וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדוֹלָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה־ זֹּ֣את עָשִׂ֑יתָ כִּֽי־ יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי־ מִלִּפְנֵ֤י יְהוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם׃"
+pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3374]]"
+- "[[H1419A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H1272]]"
+- "[[H5046]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:10**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.
 <small><sub>**BSB:**</sub></small>
 Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּֽירְא֤וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H3374\|יִרְאָ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֣את]] [[H6213A\|עָשִׂ֑יתָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3045\|יָדְע֣וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440H\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H1931\|ה֣וּא]] [[H1272\|בֹרֵ֔חַ]] [[H3588A\|כִּ֥י]] [[H5046\|הִגִּ֖יד]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.9|<< Jonah 1:9]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.11|Jonah 1:11 >>]]</td></tr></table>
 

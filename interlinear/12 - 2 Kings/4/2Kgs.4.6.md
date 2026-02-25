@@ -1,8 +1,68 @@
+---
+title: 2 Kings 4:6
+type: Verse
+kjv: "And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, There is not a vessel more. And the oil stayed."
+bsb: "When all the jars were full, she said to her son, “Bring me another.” But he replied, “There are no more jars.” Then the oil stopped flowing."
+hebrew: "וַיְהִ֣י׀ כִּמְלֹ֣את הַכֵּלִ֗ים וַתֹּ֤אמֶר אֶל־ בְּנָהּ֙ הַגִּ֨ישָׁה אֵלַ֥י עוֹד֙ כֶּ֔לִי וַיֹּ֣אמֶר אֵלֶ֔יהָ אֵ֥ין ע֖וֹד כֶּ֑לִי וַֽיַּעֲמֹ֖ד הַשָּֽׁמֶן׃"
+pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H5066H]]"
+- "[[H9012]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H9034]]"
+- "[[H0369]]"
+- "[[H5975G]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:6**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, [There is] not a vessel more. And the oil stayed.
 <small><sub>**BSB:**</sub></small>
 When all the jars were full, she said to her son, “Bring me another.” But he replied, “There are no more jars.” Then the oil stopped flowing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9004\|כִּ]][[H4390\|מְלֹ֣את]] [[H9009\|הַ]][[H3627\|כֵּלִ֗ים]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בְּנָ]][[H9024\|הּ֙]] [[H5066H\|הַגִּ֨ישָׁ]][[H9012\|ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H5750\|עוֹד֙]] [[H3627\|כֶּ֔לִי]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H0369\|אֵ֥ין]] [[H5750\|ע֖וֹד]] [[H3627\|כֶּ֑לִי]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֖ד]] [[H9009\|הַ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic OIL|OIL]] • [[topic POOR|POOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.5|<< 2 Kings 4:5]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.7|2 Kings 4:7 >>]]</td></tr></table>
 

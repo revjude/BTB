@@ -1,10 +1,52 @@
+---
+title: Matthew 21:14
+type: Verse
+kjv: "And the blind and the lame came to him in the temple; and he healed them."
+bsb: "The blind and the lame came to Him at the temple, and He healed them."
+greek: "καὶ προσῆλθον αὐτῷ τυφλοὶ καὶ χωλοὶ ἐν τῷ ἱερῷ, καὶ ἐθεράπευσεν αὐτούς."
+pericope: "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G5185]]"
+- "[[G5560]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G2323]]"
+texts:
+- NKO
+---
+
 **Matthew 21:14**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the blind and the lame came to him in the temple; and he healed them.
 <small><sub>**BSB:**</sub></small>
 The blind and the lame came to Him at the temple, and He healed them.
-<small><sub>**Literal:**</sub></small>
-And came to Him blind and lame in the temple, and He healed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.13|<< Matthew 21:13]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.15|Matthew 21:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσῆλθον]]  [[G0846\|αὐτῷ]]  [[G5185\|τυφλοὶ]]  [[G2532\|καὶ]]  [[G5560\|χωλοὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ,]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMENESS|LAMENESS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.13|<< Matthew 21:13]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.15|Matthew 21:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

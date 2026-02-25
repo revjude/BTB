@@ -1,8 +1,59 @@
+---
+title: Proverbs 28:1
+type: Verse
+kjv: "The wicked flee when no man pursueth: but the righteous are bold as a lion."
+bsb: "The wicked flee when no one pursues, but the righteous are as bold as a lion."
+hebrew: "נָ֣סוּ וְאֵין־ רֹדֵ֣ף רָשָׁ֑ע וְ֝צַדִּיקִ֗ים כִּכְפִ֥יר יִבְטָֽח׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5127]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H7291]]"
+- "[[H7563]]"
+- "[[H6662]]"
+- "[[H9004]]"
+- "[[H3715A]]"
+- "[[H0982]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:1**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked flee when no man pursueth: but the righteous are bold as a lion.
 <small><sub>**BSB:**</sub></small>
 The wicked flee when no one pursues, but the righteous are as bold as a lion.
+<small><sub>**Hebrew:**</sub></small>
+[[H5127\|נָ֣סוּ]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H7291\|רֹדֵ֣ף]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וְ֝]][[H6662\|צַדִּיקִ֗ים]] [[H9004\|כִּ]][[H3715A\|כְפִ֥יר]] [[H0982\|יִבְטָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLDNESS|BOLDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COURAGE|COURAGE]] • [[topic COWARDICE|COWARDICE]] • [[topic REMORSE|REMORSE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.27|<< Proverbs 27:27]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.2|Proverbs 28:2 >>]]</td></tr></table>
 

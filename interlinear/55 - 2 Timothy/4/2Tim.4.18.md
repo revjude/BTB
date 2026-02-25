@@ -1,10 +1,63 @@
+---
+title: 2 Timothy 4:18
+type: Verse
+kjv: "And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen."
+bsb: "And the Lord will rescue me from every evil action and bring me safely into His heavenly kingdom. To Him be the glory forever and ever. Amen."
+greek: "καὶ ῥύσεταί με ὁ κύριος ἀπὸ παντὸς ἔργου πονηροῦ καὶ σώσει εἰς τὴν βασιλείαν αὐτοῦ τὴν ἐπουράνιον· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[2Tim.4.16 The Lord Remains Faithful|The Lord Remains Faithful]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G4506]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G4190]]"
+- "[[G4982]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G0846]]"
+- "[[G2032]]"
+- "[[G3739]]"
+- "[[G1391]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- k
+- NKO
+---
+
 **2 Timothy 4:18**<big><big>[[2Tim.4.16 The Lord Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord shall deliver me from every evil work, and will preserve [me] unto his heavenly kingdom: to whom [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 And the Lord will rescue me from every evil action and bring me safely into His heavenly kingdom. To Him be the glory forever and ever. Amen.
-<small><sub>**Literal:**</sub></small>
-and Will deliver me the Lord from every deed evil and will bring [me] safely into the kingdom of Him <the> heavenly; to whom [is] the glory unto the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.17|<< 2 Timothy 4:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.19|2 Timothy 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4506\|ῥύσεταί]]  [[G3165\|με]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0575\|ἀπὸ]]  [[G3956\|παντὸς]]  [[G2041\|ἔργου]]  [[G4190\|πονηροῦ]]  [[G2532\|καὶ]]  [[G4982\|σώσει]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G2032\|ἐπουράνιον·]]  [[G3739\|ᾧ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic POWER|POWER]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.17|<< 2 Timothy 4:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.19|2 Timothy 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

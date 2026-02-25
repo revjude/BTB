@@ -1,8 +1,60 @@
+---
+title: Jeremiah 31:3
+type: Verse
+kjv: "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee."
+bsb: "The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; therefore I have drawn you with loving devotion."
+hebrew: "מֵרָח֕וֹק יְהוָ֖ה נִרְאָ֣ה לִ֑י וְאַהֲבַ֤ת עוֹלָם֙ אֲהַבְתִּ֔יךְ עַל־ כֵּ֖ן מְשַׁכְתִּ֥יךְ חָֽסֶד׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H3068G]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0160]]"
+- "[[H5769G]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4900]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:3**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath appeared of old unto me, [saying], Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.
 <small><sub>**BSB:**</sub></small>
 The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; therefore I have drawn you with loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H7350\|רָח֕וֹק]] [[H3068G\|יְהוָ֖ה]] [[H7200G\|נִרְאָ֣ה]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וְ]][[H0160\|אַהֲבַ֤ת]] [[H5769G\|עוֹלָם֙]] [[H0157G\|אֲהַבְתִּ֔י]][[H9032\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H4900\|מְשַׁכְתִּ֥י]][[H9032\|ךְ]] [[H2617A\|חָֽסֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.2|<< Jeremiah 31:2]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.4|Jeremiah 31:4 >>]]</td></tr></table>
 

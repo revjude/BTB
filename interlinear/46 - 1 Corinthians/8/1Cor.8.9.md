@@ -1,10 +1,61 @@
+---
+title: 1 Corinthians 8:9
+type: Verse
+kjv: "But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak."
+bsb: "Be careful, however, that your freedom does not become a stumbling block to the weak."
+greek: "βλέπετε δὲ μή πως ἡ ἐξουσία ὑμῶν αὕτη πρόσκομμα γένηται τοῖς ἀσθενέσιν."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic NEOPHYTES|NEOPHYTES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G0991]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G4348]]"
+- "[[G1096]]"
+- "[[G0772G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 8:9**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.
 <small><sub>**BSB:**</sub></small>
 Be careful, however, that your freedom does not become a stumbling block to the weak.
-<small><sub>**Literal:**</sub></small>
-do be careful however lest perhaps the right of you this an occasion of stumbling may become to those weak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.8|<< 1 Corinthians 8:8]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.10|1 Corinthians 8:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπετε]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G3588\|ἡ]]  [[G1849\|ἐξουσία]]  [[G4771\|ὑμῶν]]  [[G3778\|αὕτη]]  [[G4348\|πρόσκομμα]]  [[G1096\|γένηται]]  [[G3588\|τοῖς]]  [[G0772G\|ἀσθενέσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXAMPLE|EXAMPLE]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic NEOPHYTES|NEOPHYTES]] • [[topic PRUDENCE|PRUDENCE]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.8|<< 1 Corinthians 8:8]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.10|1 Corinthians 8:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: 1 Kings 7:1
+type: Verse
+kjv: "But Solomon was building his own house thirteen years, and he finished all his house."
+bsb: "Solomon, however, took thirteen years to complete the construction of his entire palace."
+hebrew: "וְאֶת־ בֵּיתוֹ֙ בָּנָ֣ה שְׁלֹמֹ֔ה שְׁלֹ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה וַיְכַ֖ל אֶת־ כָּל־ בֵּיתֽוֹ׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H1129]]"
+- "[[H8010]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:1**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Solomon was building his own house thirteen years, and he finished all his house.
 <small><sub>**BSB:**</sub></small>
 Solomon, however, took thirteen years to complete the construction of his entire palace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּית]][[H9023\|וֹ֙]] [[H1129\|בָּנָ֣ה]] [[H8010\|שְׁלֹמֹ֔ה]] [[H7969\|שְׁלֹ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3615G\|יְכַ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.38|<< 1 Kings 6:38]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.2|1 Kings 7:2 >>]]</td></tr></table>
 

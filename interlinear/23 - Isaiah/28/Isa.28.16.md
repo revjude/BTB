@@ -1,8 +1,71 @@
+---
+title: Isaiah 28:16
+type: Verse
+kjv: "Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste."
+bsb: "So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone, a sure foundation; the one who believes will never be shaken."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֛י יִסַּ֥ד בְּצִיּ֖וֹן אָ֑בֶן אֶ֣בֶן בֹּ֜חַן פִּנַּ֤ת יִקְרַת֙ מוּסָ֣ד מוּסָּ֔ד הַֽמַּאֲמִ֖ין לֹ֥א יָחִֽישׁ׃"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3245]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H0068G]]"
+- "[[H0976]]"
+- "[[H6438H]]"
+- "[[H3368]]"
+- "[[H4143]]"
+- "[[H9009]]"
+- "[[H0539]]"
+- "[[H3808]]"
+- "[[H2363A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:16**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner [stone], a sure foundation: he that believeth shall not make haste.
 <small><sub>**BSB:**</sub></small>
 So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone, a sure foundation; the one who believes will never be shaken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֛י]] [[H3245\|יִסַּ֥ד]] [[H9003\|בְּ]][[H6726\|צִיּ֖וֹן]] [[H0068G\|אָ֑בֶן]] [[H0068G\|אֶ֣בֶן]] [[H0976\|בֹּ֜חַן]] [[H6438H\|פִּנַּ֤ת]] [[H3368\|יִקְרַת֙]] [[H4143\|מוּסָ֣ד]] [[H3245\|מוּסָּ֔ד]] [[H9009\|הַֽ]][[H0539\|מַּאֲמִ֖ין]] [[H3808\|לֹ֥א]] [[H2363A\|יָחִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORNERSTONE|CORNERSTONE]] • [[topic FAITH|FAITH]] • [[topic HOUSE|HOUSE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHECY|PROPHECY]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

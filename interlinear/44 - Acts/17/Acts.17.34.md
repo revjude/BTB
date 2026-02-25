@@ -1,10 +1,62 @@
+---
+title: Acts 17:34
+type: Verse
+kjv: "Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them."
+bsb: "But some joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them."
+greek: "Τινὲς δὲ ἄνδρες κολληθέντες αὐτῷ ἐπίστευσαν, ἐν οἷς καὶ Διονύσιος ὁ Ἀρεοπαγίτης καὶ γυνὴ ὀνόματι Δάμαρις καὶ ἕτεροι σὺν αὐτοῖς.¶"
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic DAMARIS|DAMARIS]]"
+- "[[topic DIONYSIUS|DIONYSIUS]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G0435G]]"
+- "[[G2853]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G1354]]"
+- "[[G3588]]"
+- "[[G0698]]"
+- "[[G1135G]]"
+- "[[G3686]]"
+- "[[G1152]]"
+- "[[G2087]]"
+- "[[G4862]]"
+texts:
+- NKO
+---
+
 **Acts 17:34**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit certain men clave unto him, and believed: among the which [was] Dionysius the Areopagite, and a woman named Damaris, and others with them.
 <small><sub>**BSB:**</sub></small>
 But some joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them.
-<small><sub>**Literal:**</sub></small>
-Some however men having joined themselves to him believed, among whom also [were] Dionysius the Areopagite and a woman named Damaris and others with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.33|<< Acts 17:33]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.1|Acts 18:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|Τινὲς]]  [[G1161\|δὲ]]  [[G0435G\|ἄνδρες]]  [[G2853\|κολληθέντες]]  [[G0846\|αὐτῷ]]  [[G4100\|ἐπίστευσαν,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G2532\|καὶ]]  [[G1354\|Διονύσιος]]  [[G3588\|ὁ]]  [[G0698\|Ἀρεοπαγίτης]]  [[G2532\|καὶ]]  [[G1135G\|γυνὴ]]  [[G3686\|ὀνόματι]]  [[G1152\|Δάμαρις]]  [[G2532\|καὶ]]  [[G2087\|ἕτεροι]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic DAMARIS|DAMARIS]] • [[topic DIONYSIUS|DIONYSIUS]] • [[topic GREECE|GREECE]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.33|<< Acts 17:33]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.1|Acts 18:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

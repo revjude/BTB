@@ -1,10 +1,59 @@
+---
+title: John 17:2
+type: Verse
+kjv: "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him."
+bsb: "For You granted Him authority over all people, so that He may give eternal life to all those You have given Him."
+jesus_said: "As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him."
+greek: "καθὼς ἔδωκας αὐτῷ ἐξουσίαν πάσης σαρκός, ἵνα πᾶν ὃ δέδωκας αὐτῷ, δώσῃ αὐτοῖς ζωὴν αἰώνιον."
+pericope: "[[John.17.1 Prayer for the Son|Prayer for the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2531]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1849]]"
+- "[[G3956]]"
+- "[[G4561]]"
+- "[[G2443]]"
+- "[[G3739]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 17:2**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
 <small><sub>**BSB:**</sub></small>
 For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.
-<small><sub>**Literal:**</sub></small>
-Even as You gave to Him authority over all flesh, so that all whom You have given to Him, He may give to them life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.1|<< John 17:1]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.3|John 17:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1325\|ἔδωκας]]  [[G0846\|αὐτῷ]]  [[G1849\|ἐξουσίαν]]  [[G3956\|πάσης]]  [[G4561\|σαρκός,]]  [[G2443\|ἵνα]]  [[G3956\|πᾶν]]  [[G3739\|ὃ]]  [[G1325\|δέδωκας]]  [[G0846\|αὐτῷ,]]  [[G1325\|δώσῃ]]  [[G0846\|αὐτοῖς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic POWER|POWER]] • [[topic PRAYER|PRAYER]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.1|<< John 17:1]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.3|John 17:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

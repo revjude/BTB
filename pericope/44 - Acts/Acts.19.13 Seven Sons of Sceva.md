@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Seven Sons of Sceva
+type: Pericope
 pericope: "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 19
 book/chapter: "[[Acts.19|Acts 19]]"
-genre:
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.19.13]]"
 - "[[Acts.19.14]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.19.20]]"
 ---
 
-[[Acts.19|Acts 19:13 - Acts 19:20]]
+<small>[[Acts.19|Acts 19:13-20]]</small>
 *Seven Sons of Sceva*
 
 [[Acts.19.13|13]] Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.

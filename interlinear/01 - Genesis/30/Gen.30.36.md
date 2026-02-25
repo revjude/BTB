@@ -1,8 +1,66 @@
+---
+title: Genesis 30:36
+type: Verse
+kjv: "And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks."
+bsb: "Then he put a three-day journey between himself and Jacob, while Jacob was shepherding the rest of Laban’s flocks."
+hebrew: "וַיָּ֗שֶׂם דֶּ֚רֶךְ שְׁלֹ֣שֶׁת יָמִ֔ים בֵּינ֖וֹ וּבֵ֣ין יַעֲקֹ֑ב וְיַעֲקֹ֗ב רֹעֶ֛ה אֶת־ צֹ֥אן לָבָ֖ן הַנּוֹתָרֹֽת׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H1870L]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H0996G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H3837A]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:36**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.
 <small><sub>**BSB:**</sub></small>
 Then he put a three-day journey between himself and Jacob, while Jacob was shepherding the rest of Laban’s flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּ֗שֶׂם]] [[H1870L\|דֶּ֚רֶךְ]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H0996G\|בֵּינ֖]][[H9033\|וֹ]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H3290\|יַעֲקֹ֗ב]] [[H7462B\|רֹעֶ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H3837A\|לָבָ֖ן]] [[H9009\|הַ]][[H3498\|נּוֹתָרֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.35|<< Genesis 30:35]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.37|Genesis 30:37 >>]]</td></tr></table>
 

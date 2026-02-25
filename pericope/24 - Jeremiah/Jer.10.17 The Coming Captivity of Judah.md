@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Coming Captivity of Judah
+type: Pericope
 pericope: "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 10
 book/chapter: "[[Jer.10|Jeremiah 10]]"
-genre:
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.10.17]]"
 - "[[Jer.10.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.10.25]]"
 ---
 
-[[Jer.10|Jeremiah 10:17 - Jeremiah 10:25]]
+<small>[[Jer.10|Jeremiah 10:17-25]]</small>
 *The Coming Captivity of Judah*
 
 [[Jer.10.17|17]] Gather up thy wares out of the land, O inhabitant of the fortress.

@@ -1,8 +1,68 @@
+---
+title: Judges 16:26
+type: Verse
+kjv: "And Samson said unto the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house standeth, that I may lean upon them."
+bsb: "Samson said to the servant who held his hand, “Lead me where I can feel the pillars supporting the temple, so I can lean against them.”"
+hebrew: "וַיֹּ֨אמֶר שִׁמְשׁ֜וֹן אֶל־ הַנַּ֨עַר הַמַּחֲזִ֣יק בְּיָדוֹ֮ הַנִּ֣יחָה אוֹתִי֒ וַהֲמִשֵׁ֙נִי֙ אֶת־ הָֽעַמֻּדִ֔ים אֲשֶׁ֥ר הַבַּ֖יִת נָכ֣וֹן עֲלֵיהֶ֑ם וְאֶשָּׁעֵ֖ן עֲלֵיהֶֽם׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8123]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5117]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3237]]"
+- "[[H4184]]"
+- "[[H5982G]]"
+- "[[H0834A]]"
+- "[[H1004B]]"
+- "[[H3559H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H8172]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 16:26**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson said unto the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house standeth, that I may lean upon them.
 <small><sub>**BSB:**</sub></small>
 Samson said to the servant who held his hand, “Lead me where I can feel the pillars supporting the temple, so I can lean against them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H8123\|שִׁמְשׁ֜וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֨עַר]] [[H9009\|הַ]][[H2388H\|מַּחֲזִ֣יק]] [[H9003\|בְּ]][[H3027G\|יָד]][[H9023\|וֹ֮]] [[H5117\|הַנִּ֣יחָ]][[H9012\|ה]] [[H0853\|אוֹתִ]][[H9030\|י֒]] [[H9002\|וַ]][[H4184\|הֲמִשֵׁ֙]][[H9030\|נִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5982G\|עַמֻּדִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H3559H\|נָכ֣וֹן]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H8172\|אֶשָּׁעֵ֖ן]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.25|<< Judges 16:25]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.27|Judges 16:27 >>]]</td></tr></table>
 
@@ -27,8 +87,8 @@ Samson said to the servant who held his hand, “Lead me where I can feel the pi
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.25|<< Judges 16:25]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.27|Judges 16:27 >>]]</td></tr></table>
 
-[^1]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
-[^2]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
-[^3]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^1]: and let touch me  | **<big>[[H9002|וְ]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9030|נִי]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: and let touch me  | **<big>[[H9002|וְ]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9030|נִי]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: and let touch me  | **<big>[[H9002|וְ]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9030|נִי]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וַהֲימִשֵׁ֙/נִי֙</big></span>**
 

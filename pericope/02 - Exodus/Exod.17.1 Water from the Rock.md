@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Water from the Rock
+type: Pericope
 pericope: "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 17
 book/chapter: "[[Exod.17|Exodus 17]]"
-genre:
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.17.1]]"
 - "[[Exod.17.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.17.7]]"
 ---
 
-[[Exod.17|Exodus 17:1 - Exodus 17:7]]
+<small>[[Exod.17|Exodus 17:1-7]]</small>
 *Water from the Rock*
 
 [[Exod.17.1|1]] And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and \[there was\] no water for the people to drink.

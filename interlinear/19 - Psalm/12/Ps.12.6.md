@@ -1,8 +1,58 @@
+---
+title: Psalm 12:6
+type: Verse
+kjv: "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times."
+bsb: "The words of the LORD are flawless, like silver refined in a furnace, like gold purified sevenfold."
+hebrew: "אִֽמֲר֣וֹת יְהוָה֮ אֲמָר֪וֹת טְהֹ֫ר֥וֹת כֶּ֣סֶף צָ֭רוּף בַּעֲלִ֣יל לָאָ֑רֶץ מְ֝זֻקָּ֗ק שִׁבְעָתָֽיִם׃"
+pericope: "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0565A]]"
+- "[[H3068G]]"
+- "[[H2889]]"
+- "[[H3701G]]"
+- "[[H6884]]"
+- "[[H9003]]"
+- "[[H5948]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H2212]]"
+- "[[H7659]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 12:6**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of the LORD [are] pure words: [as] silver tried in a furnace of earth, purified seven times.
 <small><sub>**BSB:**</sub></small>
 The words of the LORD are flawless, like silver refined in a furnace, like gold purified sevenfold.
+<small><sub>**Hebrew:**</sub></small>
+[[H0565A\|אִֽמֲר֣וֹת]] [[H3068G\|יְהוָה֮]] [[H0565A\|אֲמָר֪וֹת]] [[H2889\|טְהֹ֫ר֥וֹת]] [[H3701G\|כֶּ֣סֶף]] [[H6884\|צָ֭רוּף]] [[H9003\|בַּ]][[H5948\|עֲלִ֣יל]] [[H9005\|לָ]][[H0776H\|אָ֑רֶץ]] [[H2212\|מְ֝זֻקָּ֗ק]] [[H7659\|שִׁבְעָתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FURNACE|FURNACE]] • [[topic PURITY|PURITY]] • [[topic SEVEN|SEVEN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.5|<< Psalms 12:5]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.7|Psalms 12:7 >>]]</td></tr></table>
 

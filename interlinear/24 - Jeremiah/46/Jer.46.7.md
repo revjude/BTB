@@ -1,8 +1,54 @@
+---
+title: Jeremiah 46:7
+type: Verse
+kjv: "Who is this that cometh up as a flood, whose waters are moved as the rivers?"
+bsb: "Who is this, rising like the Nile, like rivers whose waters churn?"
+hebrew: "מִי־ זֶ֖ה כַּיְאֹ֣ר יַֽעֲלֶ֑ה כַּנְּהָר֕וֹת יִֽתְגָּעֲשׁ֖וּ מֵימָֽיו׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9004]]"
+- "[[H2975G]]"
+- "[[H5927G]]"
+- "[[H5104H]]"
+- "[[H1607]]"
+- "[[H4325G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:7**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] this [that] cometh up as a flood, whose waters are moved as the rivers?
 <small><sub>**BSB:**</sub></small>
 Who is this, rising like the Nile, like rivers whose waters churn?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H9004\|כַּ]][[H2975G\|יְאֹ֣ר]] [[H5927G\|יַֽעֲלֶ֑ה]] [[H9004\|כַּ]][[H5104H\|נְּהָר֕וֹת]] [[H1607\|יִֽתְגָּעֲשׁ֖וּ]] [[H4325G\|מֵימָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.6|<< Jeremiah 46:6]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.8|Jeremiah 46:8 >>]]</td></tr></table>
 

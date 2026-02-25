@@ -1,8 +1,78 @@
+---
+title: Joshua 22:16
+type: Verse
+kjv: "Thus saith the whole congregation of the LORD, What trespass is this that ye have committed against the God of Israel, to turn away this day from following the LORD, in that ye have builded you an altar, that ye might rebel this day against the LORD?"
+bsb: "“This is what the whole congregation of the LORD says: ‘What is this breach of faith you have committed today against the God of Israel by turning away from the LORD and building for yourselves an altar, that you might rebel against the LORD this day?"
+hebrew: "כֹּ֣ה אָמְר֞וּ כֹּ֣ל׀ עֲדַ֣ת יְהוָ֗ה מָֽה־ הַמַּ֤עַל הַזֶּה֙ אֲשֶׁ֤ר מְעַלְתֶּם֙ בֵּאלֹהֵ֣י יִשְׂרָאֵ֔ל לָשׁ֣וּב הַיּ֔וֹם מֵאַחֲרֵ֖י יְהוָ֑ה בִּבְנֽוֹתְכֶ֤ם לָכֶם֙ מִזְבֵּ֔חַ לִמְרָדְכֶ֥ם הַיּ֖וֹם בַּיהוָֽה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H5712]]"
+- "[[H3068G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4604]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H3117L]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H1129]]"
+- "[[H9046]]"
+- "[[H9036]]"
+- "[[H4196]]"
+- "[[H4775]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:16**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the whole congregation of the LORD, What trespass [is] this that ye have committed against the God of Israel, to turn away this day from following the LORD, in that ye have builded you an altar, that ye might rebel this day against the LORD?
 <small><sub>**BSB:**</sub></small>
 “This is what the whole congregation of the LORD says: ‘What is this breach of faith you have committed today against the God of Israel by turning away from the LORD and building for yourselves an altar, that you might rebel against the LORD this day?
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]] [[H0559\|אָמְר֞וּ]] [[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H5712\|עֲדַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H4100\|מָֽה]][[H9014\|־]] [[H9009\|הַ]][[H4604\|מַּ֤עַל]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H4603\|מְעַלְתֶּם֙]] [[H9003\|בֵּ]][[H0430G\|אלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לָ]][[H7725G\|שׁ֣וּב]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֖י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בִּ]][[H1129\|בְנֽוֹתְ]][[H9046\|כֶ֤ם]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H4196\|מִזְבֵּ֔חַ]] [[H9005\|לִ]][[H4775\|מְרָדְ]][[H9036\|כֶ֥ם]] [[H9009\|הַ]][[H3117L\|יּ֖וֹם]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPROOF|REPROOF]] • [[topic REUBENITES|REUBENITES]] • [[topic REVERENCE|REVERENCE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.15|<< Joshua 22:15]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.17|Joshua 22:17 >>]]</td></tr></table>
 

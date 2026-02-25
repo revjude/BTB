@@ -1,8 +1,63 @@
+---
+title: 1 Kings 20:4
+type: Verse
+kjv: "And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have."
+bsb: "And the king of Israel replied, “Just as you say, my lord the king: I am yours, along with all that I have.”"
+hebrew: "וַיַּ֤עַן מֶֽלֶךְ־ יִשְׂרָאֵל֙ וַיֹּ֔אמֶר כִּדְבָרְךָ֖ אֲדֹנִ֣י הַמֶּ֑לֶךְ לְךָ֥ אֲנִ֖י וְכָל־ אֲשֶׁר־ לִֽי׃"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic FLATTERY|FLATTERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H9021]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:4**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel answered and said, My lord, O king, according to thy saying, I [am] thine, and all that I have.
 <small><sub>**BSB:**</sub></small>
 And the king of Israel replied, “Just as you say, my lord the king: I am yours, along with all that I have.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H9004\|כִּ]][[H1697H\|דְבָרְ]][[H9021\|ךָ֖]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H0589\|אֲנִ֖י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic FLATTERY|FLATTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.3|<< 1 Kings 20:3]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.5|1 Kings 20:5 >>]]</td></tr></table>
 

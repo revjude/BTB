@@ -1,8 +1,55 @@
+---
+title: Job 6:14
+type: Verse
+kjv: "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+bsb: "A despairing man should have the kindness of his friend, even if he forsakes the fear of the Almighty."
+hebrew: "לַמָּ֣ס מֵרֵעֵ֣הוּ חָ֑סֶד וְיִרְאַ֖ת שַׁדַּ֣י יַעֲזֽוֹב׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SYMPATHY|SYMPATHY]]"
+strongs:
+- "[[H9005]]"
+- "[[H4523]]"
+- "[[H9006]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H3374]]"
+- "[[H7706]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:14**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that is afflicted pity [should be shewed] from his friend; but he forsaketh the fear of the Almighty.
 <small><sub>**BSB:**</sub></small>
 A despairing man should have the kindness of his friend, even if he forsakes the fear of the Almighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H4523\|מָּ֣ס]] [[H9006\|מֵ]][[H7453\|רֵעֵ֣]][[H9023\|הוּ]] [[H2617A\|חָ֑סֶד]] [[H9002\|וְ]][[H3374\|יִרְאַ֖ת]] [[H7706\|שַׁדַּ֣י]] [[H5800A\|יַעֲזֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SYMPATHY|SYMPATHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.13|<< Job 6:13]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.15|Job 6:15 >>]]</td></tr></table>
 

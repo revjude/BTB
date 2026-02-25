@@ -1,8 +1,66 @@
+---
+title: Genesis 28:16
+type: Verse
+kjv: "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not."
+bsb: "When Jacob woke up, he said, “Surely the LORD is in this place, and I was unaware of it.”"
+hebrew: "וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒ וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה וְאָנֹכִ֖י לֹ֥א יָדָֽעְתִּי׃"
+pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3364]]"
+- "[[H3290]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0403]]"
+- "[[H3426]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:16**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew [it] not.
 <small><sub>**BSB:**</sub></small>
 When Jacob woke up, he said, “Surely the LORD is in this place, and I was unaware of it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3364\|יִּיקַ֣ץ]] [[H3290\|יַעֲקֹב֮]] [[H9006\|מִ]][[H8142\|שְּׁנָת]][[H9023\|וֹ֒]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0403\|אָכֵן֙]] [[H3426\|יֵ֣שׁ]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בַּ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H3808\|לֹ֥א]] [[H3045\|יָדָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.15|<< Genesis 28:15]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.17|Genesis 28:17 >>]]</td></tr></table>
 

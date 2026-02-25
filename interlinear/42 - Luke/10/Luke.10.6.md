@@ -1,10 +1,64 @@
+---
+title: Luke 10:6
+type: Verse
+kjv: "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again."
+bsb: "If a man of peace is there, your peace will rest on him; if not, it will return to you."
+jesus_said: "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again."
+greek: "καὶ ἐὰν μέν ἐκεῖ ᾖ υἱὸς εἰρήνης, ἐπαναπαήσεται ἐπ᾽ αὐτὸν ἡ εἰρήνη ὑμῶν· εἰ δὲ μή γε, ἐφ᾽ ὑμᾶς ἀνακάμψει."
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GUEST|GUEST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G3303]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G1515]]"
+- "[[G1879]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1065]]"
+- "[[G0344]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 10:6**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.
 <small><sub>**BSB:**</sub></small>
 If a man of peace is there, your peace will rest on him; if not, it will return to you.
-<small><sub>**Literal:**</sub></small>
-And if indeed there shall be a son of peace, will rest upon him the peace of you; lest however except yet to you it will return.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.5|<< Luke 10:5]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.7|Luke 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G3303\|μέν]]  [[G1563\|ἐκεῖ]]  [[G1510\|ᾖ]]  [[G5207\|υἱὸς]]  [[G1515\|εἰρήνης,]]  [[G1879\|ἐπαναπαήσεται]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|ἡ]]  [[G1515\|εἰρήνη]]  [[G4771\|ὑμῶν·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G1065\|γε,]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G0344\|ἀνακάμψει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GUEST|GUEST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.5|<< Luke 10:5]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.7|Luke 10:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

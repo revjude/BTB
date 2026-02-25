@@ -1,10 +1,64 @@
+---
+title: Luke 24:1
+type: Verse
+kjv: "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+bsb: "On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared."
+greek: "Τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα καί τινές σὺν αὐταῖς."
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SPICES|SPICES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G3722]]"
+- "[[G0901]]"
+- "[[G1909]]"
+- "[[G3418]]"
+- "[[G2064]]"
+- "[[G5342]]"
+- "[[G3739]]"
+- "[[G2090]]"
+- "[[G0759]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G4862]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 24:1**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now upon the first [day] of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain [others] with them.
 <small><sub>**BSB:**</sub></small>
 On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.
-<small><sub>**Literal:**</sub></small>
-The however on [the] first [day] of the week dawn very early to the tomb they came bringing that they had prepared spices and certain with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.56|<< Luke 23:56]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.2|Luke 24:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1161\|δὲ]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G3722\|ὄρθρου]]  [[G0901\|βαθέως]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3418\|μνῆμα]]  [[G2064\|ἦλθον]]  [[G5342\|φέρουσαι]]  [[G3739\|ἃ]]  [[G2090\|ἡτοίμασαν]]  [[G0759\|ἀρώματα]]  [[G2532\|καί]]  [[G5100\|τινές]]  [[G4862\|σὺν]]  [[G0846\|αὐταῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RISING|RISING]] • [[topic SPICES|SPICES]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.56|<< Luke 23:56]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.2|Luke 24:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

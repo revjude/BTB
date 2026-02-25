@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rejection at Nazareth
+type: Pericope
 pericope: "[[Matt.13.53 The Rejection at Nazareth|The Rejection at Nazareth]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.13.53]]"
 - "[[Matt.13.54]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.13.58]]"
 ---
 
-[[Matt.13|Matthew 13:53 - Matthew 13:58]]
+<small>[[Matt.13|Matthew 13:53-58]]</small>
 *The Rejection at Nazareth*
 
 [[Matt.13.53|53]] And it came to pass, \[that\] when Jesus had finished these parables, he departed thence.

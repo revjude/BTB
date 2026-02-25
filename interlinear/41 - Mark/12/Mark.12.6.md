@@ -1,10 +1,70 @@
+---
+title: Mark 12:6
+type: Verse
+kjv: "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son."
+bsb: "Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said."
+jesus_said: "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son."
+greek: "ἔτι οὖν ἕνα εἶχεν υἱὸν ἀγαπητόν αὐτοῦ· ἀπέστειλεν καὶ αὐτὸν ἔσχατον πρὸς αὐτοὺς λέγων ὅτι ἐντραπήσονται τὸν υἱόν μου."
+pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2089]]"
+- "[[G3767]]"
+- "[[G1520]]"
+- "[[G2192]]"
+- "[[G5207]]"
+- "[[G0027]]"
+- "[[G0846]]"
+- "[[G0649]]"
+- "[[G2532]]"
+- "[[G2078]]"
+- "[[G4314]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1788]]"
+- "[[G3588]]"
+- "[[G3165]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Mark 12:6**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.
 <small><sub>**BSB:**</sub></small>
 Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said.
-<small><sub>**Literal:**</sub></small>
-Yet therefore one did have son beloved of him; he sent and him last to them saying that They will have respect for the son of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.5|<< Mark 12:5]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.7|Mark 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|ἔτι]]  [[G3767\|οὖν]]  [[G1520\|ἕνα]]  [[G2192\|εἶχεν]]  [[G5207\|υἱὸν]]  [[G0027\|ἀγαπητόν]]  [[G0846\|αὐτοῦ·]]  [[G0649\|ἀπέστειλεν]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸν]]  [[G2078\|ἔσχατον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G1788\|ἐντραπήσονται]]  [[G3588\|τὸν]]  [[G5207\|υἱόν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.5|<< Mark 12:5]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.7|Mark 12:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

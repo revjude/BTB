@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Arrives on His Wedding Day
+type: Pericope
 pericope: "[[Song.3.6 Solomon Arrives on His Wedding Day|Solomon Arrives on His Wedding Day]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 3
 book/chapter: "[[Song.3|Song of Solomon 3]]"
-genre:
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 6
 verses:
 - "[[Song.3.6]]"
 - "[[Song.3.7]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Song.3.11]]"
 ---
 
-[[Song.3|Song of Solomon 3:6 - Song of Solomon 3:11]]
+<small>[[Song.3|Song of Solomon 3:6-11]]</small>
 *Solomon Arrives on His Wedding Day*
 
 [[Song.3.6|6]] Who \[is\] this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?

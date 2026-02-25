@@ -1,8 +1,73 @@
+---
+title: Nahum 1:15
+type: Verse
+kjv: "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off."
+bsb: "Look to the mountains—the feet of one who brings good news, who proclaims peace! Celebrate your feasts, O Judah; fulfill your vows. For the wicked will never again march through you; they will be utterly cut off."
+hebrew: "הִנֵּ֨ה עַל־ הֶהָרִ֜ים רַגְלֵ֤י מְבַשֵּׂר֙ מַשְׁמִ֣יעַ שָׁל֔וֹם חָגִּ֧י יְהוּדָ֛ה חַגַּ֖יִךְ שַׁלְּמִ֣י נְדָרָ֑יִךְ כִּי֩ לֹ֨א יוֹסִ֥יף ע֛וֹד לַֽעֲבָר בָּ֥ךְ בְּלִיַּ֖עַל כֻּלֹּ֥ה נִכְרָֽת׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H2009]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H7272]]"
+- "[[H1319]]"
+- "[[H8085I]]"
+- "[[H7965G]]"
+- "[[H2287]]"
+- "[[H3063G]]"
+- "[[H2282]]"
+- "[[H9022]]"
+- "[[H7999A]]"
+- "[[H5088]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H1100I]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Nahum 1:15**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.
 <small><sub>**BSB:**</sub></small>
 Look to the mountains—the feet of one who brings good news, who proclaims peace! Celebrate your feasts, O Judah; fulfill your vows. For the wicked will never again march through you; they will be utterly cut off.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֜ים]] [[H7272\|רַגְלֵ֤י]] [[H1319\|מְבַשֵּׂר֙]] [[H8085I\|מַשְׁמִ֣יעַ]] [[H7965G\|שָׁל֔וֹם]] [[H2287\|חָגִּ֧י]] [[H3063G\|יְהוּדָ֛ה]] [[H2282\|חַגַּ֖יִ]][[H9022\|ךְ]] [[H7999A\|שַׁלְּמִ֣י]] [[H5088\|נְדָרָ֑יִ]][[H9022\|ךְ]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H3254G\|יוֹסִ֥יף]] [[H5750\|ע֛וֹד]] [[H9005\|לַֽ]][[H5674A\|עֲבָר]] [[H9003\|בָּ֥]][[H9032\|ךְ]] [[H1100I\|בְּלִיַּ֖עַל]] [[H3605\|כֻּלֹּ֥]][[H9023\|ה]] [[H3772I\|נִכְרָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic VOWS|VOWS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.14|<< Nahum 1:14]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.1|Nahum 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

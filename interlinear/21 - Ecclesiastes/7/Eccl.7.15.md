@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 7:15
+type: Verse
+kjv: "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness."
+bsb: "In my futile life I have seen both of these: A righteous man perishing in his righteousness, and a wicked man living long in his wickedness."
+hebrew: "אֶת־ הַכֹּ֥ל רָאִ֖יתִי בִּימֵ֣י הֶבְלִ֑י יֵ֤שׁ צַדִּיק֙ אֹבֵ֣ד בְּצִדְק֔וֹ וְיֵ֣שׁ רָשָׁ֔ע מַאֲרִ֖יךְ בְּרָעָתֽוֹ׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1892]]"
+- "[[H9020]]"
+- "[[H3426]]"
+- "[[H6662]]"
+- "[[H0006]]"
+- "[[H6664G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H0748]]"
+- "[[H7451I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:15**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All [things] have I seen in the days of my vanity: there is a just [man] that perisheth in his righteousness, and there is a wicked [man] that prolongeth [his life] in his wickedness.
 <small><sub>**BSB:**</sub></small>
 In my futile life I have seen both of these: A righteous man perishing in his righteousness, and a wicked man living long in his wickedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H7200G\|רָאִ֖יתִי]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H1892\|הֶבְלִ֑]][[H9020\|י]] [[H3426\|יֵ֤שׁ]] [[H6662\|צַדִּיק֙]] [[H0006\|אֹבֵ֣ד]] [[H9003\|בְּ]][[H6664G\|צִדְק֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3426\|יֵ֣שׁ]] [[H7563\|רָשָׁ֔ע]] [[H0748\|מַאֲרִ֖יךְ]] [[H9003\|בְּ]][[H7451I\|רָעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.14|<< Ecclesiastes 7:14]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.16|Ecclesiastes 7:16 >>]]</td></tr></table>
 

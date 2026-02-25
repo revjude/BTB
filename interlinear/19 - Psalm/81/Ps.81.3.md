@@ -1,8 +1,55 @@
+---
+title: Psalm 81:3
+type: Verse
+kjv: "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day."
+bsb: "Sound the ram’s horn at the New Moon, and at the full moon on the day of our Feast."
+hebrew: "תִּקְע֣וּ בַחֹ֣דֶשׁ שׁוֹפָ֑ר בַּ֝כֵּ֗סֶה לְי֣וֹם חַגֵּֽנוּ׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H2320H]]"
+- "[[H7782]]"
+- "[[H3677]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H2282]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:3**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.
 <small><sub>**BSB:**</sub></small>
 Sound the ram’s horn at the New Moon, and at the full moon on the day of our Feast.
+<small><sub>**Hebrew:**</sub></small>
+[[H8628\|תִּקְע֣וּ]] [[H9003\|בַ]][[H2320H\|חֹ֣דֶשׁ]] [[H7782\|שׁוֹפָ֑ר]] [[H9003\|בַּ֝]][[H3677\|כֵּ֗סֶה]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H2282\|חַגֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PASSOVER|PASSOVER]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.2|<< Psalms 81:2]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.4|Psalms 81:4 >>]]</td></tr></table>
 

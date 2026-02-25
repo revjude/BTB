@@ -1,10 +1,61 @@
+---
+title: Luke 4:43
+type: Verse
+kjv: "And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent."
+bsb: "But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.”"
+jesus_said: "I must preach the kingdom of God to other cities also: for therefore am I sent."
+greek: "ὁ δὲ εἶπεν πρὸς αὐτοὺς ὅτι καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ, ὅτι ἐπὶ τοῦτο ἀπεστάλην."
+pericope: "[[Luke.4.42 Jesus Preaches in Judea|Jesus Preaches in Judea]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G4172]]"
+- "[[G2097]]"
+- "[[G3165]]"
+- "[[G1163]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3754H]]"
+- "[[G1909]]"
+- "[[G3778]]"
+- "[[G0649]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:43**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.”
-<small><sub>**Literal:**</sub></small>
-<the> But He said to them that Also to the other towns to evangelise Me it behooves of the kingdom <the> of God, because for this have I been sent forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.42|<< Luke 4:42]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.44|Luke 4:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G2087\|ἑτέραις]]  [[G4172\|πόλεσιν]]  [[G2097\|εὐαγγελίσασθαί]]  [[G3165\|με]]  [[G1163\|δεῖ]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3754H\|ὅτι]]  [[G1909\|ἐπὶ]]  [[G3778\|τοῦτο]]  [[G0649\|ἀπεστάλην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.42|<< Luke 4:42]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.44|Luke 4:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

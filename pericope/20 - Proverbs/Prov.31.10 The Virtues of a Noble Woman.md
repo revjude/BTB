@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Virtues of a Noble Woman
+type: Pericope
 pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 31
 book/chapter: "[[Prov.31|Proverbs 31]]"
-genre:
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 22
 verses:
 - "[[Prov.31.10]]"
 - "[[Prov.31.11]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Prov.31.31]]"
 ---
 
-[[Prov.31|Proverbs 31:10 - Proverbs 31:31]]
+<small>[[Prov.31|Proverbs 31:10-31]]</small>
 *The Virtues of a Noble Woman*
 
 [[Prov.31.10|10]] Who can find a virtuous woman? for her price \[is\] far above rubies.

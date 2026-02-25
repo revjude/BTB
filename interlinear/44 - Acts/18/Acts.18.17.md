@@ -1,10 +1,61 @@
+---
+title: Acts 18:17
+type: Verse
+kjv: "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
+bsb: "At this, the crowd seized Sosthenes the synagogue leader and beat him in front of the judgment seat. But none of this was of concern to Gallio."
+greek: "Ἐπιλαβόμενοι δὲ πάντες οἱ Ἕλληνες Σωσθένην τὸν ἀρχισυνάγωγον ἔτυπτον ἔμπροσθεν τοῦ βήματος· καὶ οὐδὲν τούτων τῷ Γαλλίωνι ἔμελεν.¶"
+pericope: "[[Acts.18.12 Paul before Gallio|Paul before Gallio]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GALLIO|GALLIO]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic NOLLE PROSEQUI|NOLLE PROSEQUI]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SOSTHENES|SOSTHENES]]"
+strongs:
+- "[[G1949]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1672]]"
+- "[[G4988]]"
+- "[[G0752]]"
+- "[[G5180]]"
+- "[[G1715]]"
+- "[[G0968]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G3778]]"
+- "[[G1058]]"
+- "[[G3199]]"
+texts:
+- NKO
+- K
+- NK(O)
+---
+
 **Acts 18:17**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat [him] before the judgment seat. And Gallio cared for none of those things.
 <small><sub>**BSB:**</sub></small>
 At this, the crowd seized Sosthenes the synagogue leader and beat him in front of the judgment seat. But none of this was of concern to Gallio.
-<small><sub>**Literal:**</sub></small>
-Having seized then all [of them] the Greeks Sosthenes the ruler of the synagogue they were beating [him] before the judgment seat; And no [thing] about these things <the> to Gallio was concerning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.16|<< Acts 18:16]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.18|Acts 18:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1949\|Ἐπιλαβόμενοι]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G1672\|Ἕλληνες]]  [[G4988\|Σωσθένην]]  [[G3588\|τὸν]]  [[G0752\|ἀρχισυνάγωγον]]  [[G5180\|ἔτυπτον]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G0968\|βήματος·]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G3778\|τούτων]]  [[G3588\|τῷ]]  [[G1058\|Γαλλίωνι]]  [[G3199\|ἔμελεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLIO|GALLIO]] • [[topic GREECE|GREECE]] • [[topic NOLLE PROSEQUI|NOLLE PROSEQUI]] • [[topic PAUL|PAUL]] • [[topic SCOURGING|SCOURGING]] • [[topic SOSTHENES|SOSTHENES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.16|<< Acts 18:16]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.18|Acts 18:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

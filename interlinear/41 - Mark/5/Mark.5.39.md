@@ -1,10 +1,58 @@
+---
+title: Mark 5:39
+type: Verse
+kjv: "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth."
+bsb: "He went inside and asked, “Why all this commotion and weeping? The child is not dead, but asleep.”"
+jesus_said: "Why make ye this ado, and weep? the damsel is not dead, but sleepeth."
+greek: "καὶ εἰσελθὼν λέγει αὐτοῖς· τί θορυβεῖσθε καὶ κλαίετε; τὸ παιδίον οὐκ ἀπέθανεν ἀλλὰ καθεύδει."
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SLEEP|SLEEP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G2350]]"
+- "[[G2799]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G3756]]"
+- "[[G0599]]"
+- "[[G0235]]"
+- "[[G2518]]"
+texts:
+- NKO
+---
+
 **Mark 5:39**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.
 <small><sub>**BSB:**</sub></small>
 He went inside and asked, “Why all this commotion and weeping? The child is not dead, but asleep.”
-<small><sub>**Literal:**</sub></small>
-And having entered He says to them; Why make you commotion and weep? The child not is dead but sleeps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.38|<< Mark 5:38]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.40|Mark 5:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1525\|εἰσελθὼν]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G2350\|θορυβεῖσθε]]  [[G2532\|καὶ]]  [[G2799\|κλαίετε;]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G3756\|οὐκ]]  [[G0599\|ἀπέθανεν]]  [[G0235\|ἀλλὰ]]  [[G2518\|καθεύδει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SLEEP|SLEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.38|<< Mark 5:38]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.40|Mark 5:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

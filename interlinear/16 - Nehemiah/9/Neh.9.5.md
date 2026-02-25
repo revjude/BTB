@@ -1,8 +1,86 @@
+---
+title: Nehemiah 9:5
+type: Verse
+kjv: "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise."
+bsb: "Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise."
+hebrew: "וַיֹּאמְר֣וּ הַלְוִיִּ֡ם יֵשׁ֣וּעַ וְ֠קַדְמִיאֵל בָּנִ֨י חֲשַׁבְנְיָ֜ה שֵׁרֵֽבְיָ֤ה הֽוֹדִיָּה֙ שְׁבַנְיָ֣ה פְתַֽחְיָ֔ה ק֗וּמוּ בָּרֲכוּ֙ אֶת־ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם מִן־ הָעוֹלָ֖ם עַד־ הָעוֹלָ֑ם וִיבָֽרְכוּ֙ שֵׁ֣ם כְּבוֹדֶ֔ךָ וּמְרוֹמַ֥ם עַל־ כָּל־ בְּרָכָ֖ה וּתְהִלָּֽה׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BANI|BANI]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HASHABNIAH|HASHABNIAH]]"
+- "[[topic HODIAH|HODIAH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic KADMIEL|KADMIEL]]"
+- "[[topic PETHAHIAH|PETHAHIAH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SHEBANIAH|SHEBANIAH]]"
+- "[[topic SHEREBIAH|SHEREBIAH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3442J]]"
+- "[[H9002]]"
+- "[[H6934]]"
+- "[[H1137M]]"
+- "[[H2813H]]"
+- "[[H8274G]]"
+- "[[H1941G]]"
+- "[[H7645H]]"
+- "[[H6611I]]"
+- "[[H6965I]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H4480A]]"
+- "[[H5769G]]"
+- "[[H5704]]"
+- "[[H8034]]"
+- "[[H3519]]"
+- "[[H9021]]"
+- "[[H7311A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1293]]"
+- "[[H8416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:5**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, [and] Pethahiah, said, Stand up [and] bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.
 <small><sub>**BSB:**</sub></small>
 Then the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—said, “Stand up and bless the LORD your God from everlasting to everlasting: Blessed be Your glorious name, and may it be exalted above all blessing and praise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֡ם]] [[H3442J\|יֵשׁ֣וּעַ]] [[H9002\|וְ֠]][[H6934\|קַדְמִיאֵל]] [[H1137M\|בָּנִ֨י]] [[H2813H\|חֲשַׁבְנְיָ֜ה]] [[H8274G\|שֵׁרֵֽבְיָ֤ה]] [[H1941G\|הֽוֹדִיָּה֙]] [[H7645H\|שְׁבַנְיָ֣ה]] [[H6611I\|פְתַֽחְיָ֔ה]] [[H6965I\|ק֗וּמוּ]] [[H1288\|בָּרֲכוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5769G\|עוֹלָ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H5769G\|עוֹלָ֑ם]] [[H9002\|וִ]][[H1288\|יבָֽרְכוּ֙]] [[H8034\|שֵׁ֣ם]] [[H3519\|כְּבוֹדֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H7311A\|מְרוֹמַ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1293\|בְּרָכָ֖ה]] [[H9002\|וּ]][[H8416\|תְהִלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BANI|BANI]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HASHABNIAH|HASHABNIAH]] • [[topic HODIAH|HODIAH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic KADMIEL|KADMIEL]] • [[topic PETHAHIAH|PETHAHIAH]] • [[topic PRAISE|PRAISE]] • [[topic SHEBANIAH|SHEBANIAH]] • [[topic SHEREBIAH|SHEREBIAH]] • [[topic SIN|SIN]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.4|<< Nehemiah 9:4]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.6|Nehemiah 9:6 >>]]</td></tr></table>
 

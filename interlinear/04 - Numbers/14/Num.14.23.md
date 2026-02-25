@@ -1,8 +1,65 @@
+---
+title: Numbers 14:23
+type: Verse
+kjv: "Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:"
+bsb: "not one will ever see the land that I swore to give their fathers. None of those who have treated Me with contempt will see it."
+hebrew: "אִם־ יִרְאוּ֙ אֶת־ הָאָ֔רֶץ אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לַאֲבֹתָ֑ם וְכָל־ מְנַאֲצַ֖י לֹ֥א יִרְאֽוּהָ׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5006]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:23**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
 <small><sub>**BSB:**</sub></small>
 not one will ever see the land that I swore to give their fathers. None of those who have treated Me with contempt will see it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518I\|אִם]][[H9014\|־]] [[H7200G\|יִרְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖עְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5006\|מְנַאֲצַ֖]][[H9030\|י]] [[H3808\|לֹ֥א]] [[H7200G\|יִרְאֽוּ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.22|<< Numbers 14:22]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.24|Numbers 14:24 >>]]</td></tr></table>
 

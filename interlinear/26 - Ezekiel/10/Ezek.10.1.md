@@ -1,8 +1,64 @@
+---
+title: Ezekiel 10:1
+type: Verse
+kjv: "Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne."
+bsb: "And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire."
+hebrew: "וָאֶרְאֶ֗ה וְהִנֵּ֤ה אֶל־ הָרָקִ֙יעַ֙ אֲשֶׁר֙ עַל־ רֹ֣אשׁ הַכְּרֻבִ֔ים כְּאֶ֣בֶן סַפִּ֔יר כְּמַרְאֵ֖ה דְּמ֣וּת כִּסֵּ֑א נִרְאָ֖ה עֲלֵיהֶֽם׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7549]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H3742]]"
+- "[[H9004]]"
+- "[[H0068G]]"
+- "[[H5601]]"
+- "[[H4758]]"
+- "[[H1823]]"
+- "[[H3678G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:1**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 <small><sub>**BSB:**</sub></small>
 And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֶרְאֶ֗ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7549\|רָקִ֙יעַ֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֔ים]] [[H9004\|כְּ]][[H0068G\|אֶ֣בֶן]] [[H5601\|סַפִּ֔יר]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֖ה]] [[H1823\|דְּמ֣וּת]] [[H3678G\|כִּסֵּ֑א]] [[H7200G\|נִרְאָ֖ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.11|<< Ezekiel 9:11]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.2|Ezekiel 10:2 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 23:19
+type: Verse
+kjv: "Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon?"
+bsb: "Then the Ziphites came up to Saul at Gibeah and said, “Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah south of Jeshimon?"
+hebrew: "וַיַּעֲל֤וּ זִפִים֙ אֶל־ שָׁא֔וּל הַגִּבְעָ֖תָה לֵאמֹ֑ר הֲל֣וֹא דָ֠וִד מִסְתַּתֵּ֨ר עִמָּ֤נוּ בַמְּצָדוֹת֙ בַּחֹ֔רְשָׁה בְּגִבְעַת֙ הַֽחֲכִילָ֔ה אֲשֶׁ֖ר מִימִ֥ין הַיְשִׁימֽוֹן׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HACHILAH|HACHILAH]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H2130]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1732]]"
+- "[[H5641]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H4679]]"
+- "[[H2793G]]"
+- "[[H1389I]]"
+- "[[H2444]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H3225H]]"
+- "[[H3452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:19**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which [is] on the south of Jeshimon?
 <small><sub>**BSB:**</sub></small>
 Then the Ziphites came up to Saul at Gibeah and said, “Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah south of Jeshimon?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֤וּ]] [[H2130\|זִפִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֖תָ]][[H9011\|ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H1732\|דָ֠וִד]] [[H5641\|מִסְתַּתֵּ֨ר]] [[H5973A\|עִמָּ֤]][[H9035\|נוּ]] [[H9003\|בַ]][[H4679\|מְּצָדוֹת֙]] [[H9003\|בַּ]][[H2793G\|חֹ֔רְשָׁה]] [[H9003\|בְּ]][[H1389I\|גִבְעַת֙]] [[H9009\|הַֽ]][[H2444\|חֲכִילָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מִ]][[H3225H\|ימִ֥ין]] [[H9009\|הַ]][[H3452G\|יְשִׁימֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HACHILAH|HACHILAH]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.18|<< 1 Samuel 23:18]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.20|1 Samuel 23:20 >>]]</td></tr></table>
 

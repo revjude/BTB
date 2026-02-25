@@ -1,8 +1,61 @@
+---
+title: Jeremiah 37:8
+type: Verse
+kjv: "And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire."
+bsb: "Then the Chaldeans will return and fight against this city. They will capture it and burn it down."
+hebrew: "וְשָׁ֙בוּ֙ הַכַּשְׂדִּ֔ים וְנִלְחֲמ֖וּ עַל־ הָעִ֣יר הַזֹּ֑את וּלְכָדֻ֖הָ וּשְׂרָפֻ֥הָ בָאֵֽשׁ׃ ס"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 37:8**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
 <small><sub>**BSB:**</sub></small>
 Then the Chaldeans will return and fight against this city. They will capture it and burn it down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שָׁ֙בוּ֙]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9001\|וְ]][[H3898A\|נִלְחֲמ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וּ]][[H3920\|לְכָדֻ֖]][[H9034\|הָ]] [[H9001\|וּ]][[H8313\|שְׂרָפֻ֥]][[H9034\|הָ]] [[H9003\|בָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.7|<< Jeremiah 37:7]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.9|Jeremiah 37:9 >>]]</td></tr></table>
 
@@ -16,7 +69,7 @@ Then the Chaldeans will return and fight against this city. They will capture it
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֑את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will capture it  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3920\|לְכָדֻ֖]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> le.kha.Du.<small><sup>[[HVqq3cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will burn it  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8313\|שְׂרָפֻ֥]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.ra.Fu.<small><sup>[[HVqq3cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> fire  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fire  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.7|<< Jeremiah 37:7]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.9|Jeremiah 37:9 >>]]</td></tr></table>
 
 

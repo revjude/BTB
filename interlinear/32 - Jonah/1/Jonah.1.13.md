@@ -1,8 +1,63 @@
+---
+title: Jonah 1:13
+type: Verse
+kjv: "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them."
+bsb: "Nevertheless, the men rowed hard to get back to dry land, but they could not, for the sea was raging against them more and more."
+hebrew: "וַיַּחְתְּר֣וּ הָאֲנָשִׁ֗ים לְהָשִׁ֛יב אֶל־ הַיַּבָּשָׁ֖ה וְלֹ֣א יָכֹ֑לוּ כִּ֣י הַיָּ֔ם הוֹלֵ֥ךְ וְסֹעֵ֖ר עֲלֵיהֶֽם׃"
+pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2864]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3004]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3588A]]"
+- "[[H3220G]]"
+- "[[H1980L]]"
+- "[[H5590]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:13**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the men rowed hard to bring [it] to the land; but they could not: for the sea wrought, and was tempestuous against them.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the men rowed hard to get back to dry land, but they could not, for the sea was raging against them more and more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2864\|יַּחְתְּר֣וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9005\|לְ]][[H7725G\|הָשִׁ֛יב]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3004\|יַּבָּשָׁ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3201\|יָכֹ֑לוּ]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H1980L\|הוֹלֵ֥ךְ]] [[H9002\|וְ]][[H5590\|סֹעֵ֖ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SHIP|SHIP]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.12|<< Jonah 1:12]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.14|Jonah 1:14 >>]]</td></tr></table>
 

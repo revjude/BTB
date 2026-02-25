@@ -1,8 +1,73 @@
+---
+title: Daniel 5:5
+type: Verse
+kjv: "In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote."
+bsb: "At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing,"
+aramaic: "בַּהּ־ שַׁעֲתָ֗ה נְפַ֙קָה֙ אֶצְבְּעָן֙ דִּ֣י יַד־ אֱנָ֔שׁ וְכָֽתְבָן֙ לָקֳבֵ֣ל נֶבְרַשְׁתָּ֔א עַל־ גִּירָ֕א דִּֽי־ כְתַ֥ל הֵיכְלָ֖א דִּ֣י מַלְכָּ֑א וּמַלְכָּ֣א חָזֵ֔ה פַּ֥ס יְדָ֖ה דִּ֥י כָתְבָֽה׃"
+pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic PLASTER|PLASTER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9014]]"
+- "[[H8160]]"
+- "[[H9010]]"
+- "[[H5312]]"
+- "[[H0677]]"
+- "[[H1768]]"
+- "[[H3028]]"
+- "[[H0606]]"
+- "[[H9002]]"
+- "[[H3790]]"
+- "[[H9005]]"
+- "[[H6903G]]"
+- "[[H5043]]"
+- "[[H5922]]"
+- "[[H1528]]"
+- "[[H3797]]"
+- "[[H1965H]]"
+- "[[H4430]]"
+- "[[H2370]]"
+- "[[H6447]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 5:5**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.
 <small><sub>**BSB:**</sub></small>
 At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing,
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בַּ]][[H9034\|הּ]][[H9014\|־]] [[H8160\|שַׁעֲתָ֗]][[H9010\|ה]] [[H5312\|נְפַ֙קָה֙]] [[H0677\|אֶצְבְּעָן֙]] [[H1768\|דִּ֣י]] [[H3028\|יַד]][[H9014\|־]] [[H0606\|אֱנָ֔שׁ]] [[H9002\|וְ]][[H3790\|כָֽתְבָן֙]] [[H9005\|לָ]][[H6903G\|קֳבֵ֣ל]] [[H5043\|נֶבְרַשְׁתָּ֔]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H1528\|גִּירָ֕]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H3797\|כְתַ֥ל]] [[H1965H\|הֵיכְלָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H9002\|וּ]][[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H2370\|חָזֵ֔ה]] [[H6447\|פַּ֥ס]] [[H3028\|יְדָ֖]][[H9010\|ה]] [[H1768\|דִּ֥י]] [[H3790\|כָתְבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HEATHEN|HEATHEN]] • [[topic HOUSE|HOUSE]] • [[topic PALACE|PALACE]] • [[topic PLASTER|PLASTER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.4|<< Daniel 5:4]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.6|Daniel 5:6 >>]]</td></tr></table>
 

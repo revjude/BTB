@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Message at the Temple Gate
+type: Pericope
 pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 7
 book/chapter: "[[Jer.7|Jeremiah 7]]"
-genre:
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.7.1]]"
 - "[[Jer.7.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.7.15]]"
 ---
 
-[[Jer.7|Jeremiah 7:1 - Jeremiah 7:15]]
+<small>[[Jer.7|Jeremiah 7:1-15]]</small>
 *Jeremiah’s Message at the Temple Gate*
 
 [[Jer.7.1|1]] The word that came to Jeremiah from the LORD, saying,

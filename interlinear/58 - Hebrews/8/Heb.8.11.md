@@ -1,10 +1,70 @@
+---
+title: Hebrews 8:11
+type: Verse
+kjv: "And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest."
+bsb: "No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest."
+greek: "καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην αὐτοῦ καὶ ἕκαστος τὸν ἀδελφὸν αὐτοῦ λέγων· γνῶθι τὸν κύριον, ὅτι πάντες εἰδήσουσίν με, ἀπὸ μικροῦ αὐτῶν ἕως μεγάλου αὐτῶν·"
+pericope: "[[Heb.8.6 The New Covenant|The New Covenant]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1321]]"
+- "[[G1538]]"
+- "[[G3588]]"
+- "[[G4177]]"
+- "[[G0846]]"
+- "[[G0080]]"
+- "[[G3004G]]"
+- "[[G1097]]"
+- "[[G2962G]]"
+- "[[G3754H]]"
+- "[[G3956]]"
+- "[[G1492I]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3398]]"
+- "[[G2193]]"
+- "[[G3173]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Hebrews 8:11**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 <small><sub>**BSB:**</sub></small>
 No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest.
-<small><sub>**Literal:**</sub></small>
-And certainly not shall they teach each the comrade of him and each the brother of him saying; do know the Lord,’ because all will know Me, from [the] least of them to [the] greatest of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.10|<< Hebrews 8:10]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.12|Hebrews 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1321\|διδάξωσιν]]  [[G1538\|ἕκαστος]]  [[G3588\|τὸν]]  [[G4177\|πολίτην]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1538\|ἕκαστος]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων·]]  [[G1097\|γνῶθι]]  [[G3588\|τὸν]]  [[G2962G\|κύριον,]]  [[G3754H\|ὅτι]]  [[G3956\|πάντες]]  [[G1492I\|εἰδήσουσίν]]  [[G3165\|με,]]  [[G0575\|ἀπὸ]]  [[G3398\|μικροῦ]]  [[G0846\|αὐτῶν]]  [[G2193\|ἕως]]  [[G3173\|μεγάλου]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.10|<< Hebrews 8:10]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.12|Hebrews 8:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 8:11** is...
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]

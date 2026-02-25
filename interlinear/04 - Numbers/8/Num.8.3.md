@@ -1,8 +1,64 @@
+---
+title: Numbers 8:3
+type: Verse
+kjv: "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses."
+bsb: "And Aaron did so; he set up the lamps facing toward the front of the lampstand, just as the LORD had commanded Moses."
+hebrew: "וַיַּ֤עַשׂ כֵּן֙ אַהֲרֹ֔ן אֶל־ מוּל֙ פְּנֵ֣י הַמְּנוֹרָ֔ה הֶעֱלָ֖ה נֵרֹתֶ֑יהָ כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Num.8.1 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4136]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4501]]"
+- "[[H5927H]]"
+- "[[H5216A]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:3**<big><big>[[Num.8.1 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 And Aaron did so; he set up the lamps facing toward the front of the lampstand, just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H3651C\|כֵּן֙]] [[H0175\|אַהֲרֹ֔ן]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מוּל֙]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H4501\|מְּנוֹרָ֔ה]] [[H5927H\|הֶעֱלָ֖ה]] [[H5216A\|נֵרֹתֶ֑י]][[H9024\|הָ]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.2|<< Numbers 8:2]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.4|Numbers 8:4 >>]]</td></tr></table>
 

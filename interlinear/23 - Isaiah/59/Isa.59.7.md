@@ -1,8 +1,63 @@
+---
+title: Isaiah 59:7
+type: Verse
+kjv: "Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths."
+bsb: "Their feet run to evil; they are swift to shed innocent blood. Their thoughts are sinful thoughts; ruin and destruction lie in their wake."
+hebrew: "רַגְלֵיהֶם֙ לָרַ֣ע יָרֻ֔צוּ וִֽימַהֲר֔וּ לִשְׁפֹּ֖ךְ דָּ֣ם נָקִ֑י מַחְשְׁבֽוֹתֵיהֶם֙ מַחְשְׁב֣וֹת אָ֔וֶן שֹׁ֥ד וָשֶׁ֖בֶר בִּמְסִלּוֹתָֽם׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7272]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7451B]]"
+- "[[H7323G]]"
+- "[[H9002]]"
+- "[[H4116A]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H4284]]"
+- "[[H0205G]]"
+- "[[H7701]]"
+- "[[H7667]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:7**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their feet run to evil, and they make haste to shed innocent blood: their thoughts [are] thoughts of iniquity; wasting and destruction [are] in their paths.
 <small><sub>**BSB:**</sub></small>
 Their feet run to evil; they are swift to shed innocent blood. Their thoughts are sinful thoughts; ruin and destruction lie in their wake.
+<small><sub>**Hebrew:**</sub></small>
+[[H7272\|רַגְלֵי]][[H9028\|הֶם֙]] [[H9005\|לָ]][[H7451B\|רַ֣ע]] [[H7323G\|יָרֻ֔צוּ]] [[H9002\|וִֽ]][[H4116A\|ימַהֲר֔וּ]] [[H9005\|לִ]][[H8210H\|שְׁפֹּ֖ךְ]] [[H1818\|דָּ֣ם]] [[H5355A\|נָקִ֑י]] [[H4284\|מַחְשְׁבֽוֹתֵי]][[H9028\|הֶם֙]] [[H4284\|מַחְשְׁב֣וֹת]] [[H0205G\|אָ֔וֶן]] [[H7701\|שֹׁ֥ד]] [[H9002\|וָ]][[H7667\|שֶׁ֖בֶר]] [[H9003\|בִּ]][[H4546\|מְסִלּוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MALICE|MALICE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.6|<< Isaiah 59:6]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.8|Isaiah 59:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

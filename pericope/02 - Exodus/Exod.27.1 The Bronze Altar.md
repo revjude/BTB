@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bronze Altar
+type: Pericope
 pericope: "[[Exod.27.1 The Bronze Altar|The Bronze Altar]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 27
 book/chapter: "[[Exod.27|Exodus 27]]"
-genre:
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 8
 verses:
 - "[[Exod.27.1]]"
 - "[[Exod.27.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Exod.27.8]]"
 ---
 
-[[Exod.27|Exodus 27:1 - Exodus 27:8]]
+<small>[[Exod.27|Exodus 27:1-8]]</small>
 *The Bronze Altar*
 
 [[Exod.27.1|1]] And thou shalt make an altar \[of\] shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof \[shall be\] three cubits.

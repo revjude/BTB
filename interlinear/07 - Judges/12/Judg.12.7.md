@@ -1,8 +1,59 @@
+---
+title: Judges 12:7
+type: Verse
+kjv: "And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead."
+bsb: "Jephthah judged Israel six years, and when he died, he was buried in one of the cities of Gilead."
+hebrew: "וַיִּשְׁפֹּ֥ט יִפְתָּ֛ח אֶת־ יִשְׂרָאֵ֖ל שֵׁ֣שׁ שָׁנִ֑ים וַיָּ֗מָת יִפְתָּח֙ הַגִּלְעָדִ֔י וַיִּקָּבֵ֖ר בְּעָרֵ֥י גִלְעָֽד׃ פ"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H3316H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H4191]]"
+- "[[H9009]]"
+- "[[H1569]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 12:7**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in [one of] the cities of Gilead.
 <small><sub>**BSB:**</sub></small>
 Jephthah judged Israel six years, and when he died, he was buried in one of the cities of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֥ט]] [[H3316H\|יִפְתָּ֛ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H8337\|שֵׁ֣שׁ]] [[H8141\|שָׁנִ֑ים]] [[H9001\|וַ]][[H4191\|יָּ֗מָת]] [[H3316H\|יִפְתָּח֙]] [[H9009\|הַ]][[H1569\|גִּלְעָדִ֔י]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֖ר]] [[H9003\|בְּ]][[H5892B\|עָרֵ֥י]] [[H1568G\|גִלְעָֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.6|<< Judges 12:6]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.8|Judges 12:8 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ Jephthah judged Israel six years, and when he died, he was buried in one of the 
 | the Gileadite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1569\|גִּלְעָדִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'a.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he was buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקָּבֵ֖ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Ver<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] cities of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עָרֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  |**<big>&#8207;[[H1568G\|גִלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568G\|גִלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.6|<< Judges 12:6]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.8|Judges 12:8 >>]]</td></tr></table>
 
 

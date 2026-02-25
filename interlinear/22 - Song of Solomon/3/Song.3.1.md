@@ -1,8 +1,55 @@
+---
+title: Song of Solomon 3:1
+type: Verse
+kjv: "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not."
+bsb: "On my bed at night I sought the one I love; I sought him, but did not find him."
+hebrew: "עַל־ מִשְׁכָּבִי֙ בַּלֵּיל֔וֹת בִּקַּ֕שְׁתִּי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃"
+pericope: "[[Song.3.1 The Bride’s Dream|The Bride’s Dream]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4904]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9007]]"
+- "[[H0157G]]"
+- "[[H5315G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 3:1**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
 <small><sub>**BSB:**</sub></small>
 On my bed at night I sought the one I love; I sought him, but did not find him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H4904\|מִשְׁכָּבִ]][[H9020\|י֙]] [[H9003\|בַּ]][[H3915\|לֵּיל֔וֹת]] [[H1245\|בִּקַּ֕שְׁתִּי]] [[H0853\|אֵ֥ת]] [[H9007\|שֶׁ]][[H0157G\|אָהֲבָ֖ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H1245\|בִּקַּשְׁתִּ֖י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|מְצָאתִֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.17|<< Song of Solomon 2:17]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.2|Song of Solomon 3:2 >>]]</td></tr></table>
 

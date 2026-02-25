@@ -1,8 +1,51 @@
+---
+title: Micah 5:11
+type: Verse
+kjv: "And I will cut off the cities of thy land, and throw down all thy strong holds:"
+bsb: "I will remove the cities of your land and tear down all your strongholds."
+hebrew: "וְהִכְרַתִּ֖י עָרֵ֣י אַרְצֶ֑ךָ וְהָרַסְתִּ֖י כָּל־ מִבְצָרֶֽיךָ׃"
+pericope: "[[Mic.5.7 The Remnant of Jacob|The Remnant of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 5
+book/chapter: "[[Mic.5|Micah 5]]"
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H5892B]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H2040]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 5:11**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cut off the cities of thy land, and throw down all thy strong holds:
 <small><sub>**BSB:**</sub></small>
 I will remove the cities of your land and tear down all your strongholds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772I\|הִכְרַתִּ֖י]] [[H5892B\|עָרֵ֣י]] [[H0776G\|אַרְצֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H2040\|הָרַסְתִּ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H4013\|מִבְצָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.10|<< Micah 5:10]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.12|Micah 5:12 >>]]</td></tr></table>
 

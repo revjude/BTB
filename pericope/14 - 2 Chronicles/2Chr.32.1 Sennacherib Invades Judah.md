@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib Invades Judah
+type: Pericope
 pericope: "[[2Chr.32.1 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 32
 book/chapter: "[[2Chr.32|2 Chronicles 32]]"
-genre:
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.32.1]]"
 - "[[2Chr.32.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.32.8]]"
 ---
 
-[[2Chr.32|2 Chronicles 32:1 - 2 Chronicles 32:8]]
+<small>[[2Chr.32|2 Chronicles 32:1-8]]</small>
 *Sennacherib Invades Judah*
 
 [[2Chr.32.1|1]] After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.

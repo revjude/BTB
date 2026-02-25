@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Come Quickly to Me
+type: Pericope
 pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 141
 book/chapter: "[[Ps.141|Psalm 141]]"
-genre:
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.141.0]]"
 - "[[Ps.141.1]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.141.10]]"
 ---
 
-[[Ps.141|Psalm 141:1 - Psalm 141:10]]
+<small>[[Ps.141|Psalm 141:1-10]]</small>
 *Come Quickly to Me*
 
 [[Ps.141.0|0]] A Psalm of David.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kings Defeated East of the Jordan
+type: Pericope
 pericope: "[[Josh.12.1 The Kings Defeated East of the Jordan|The Kings Defeated East of the Jordan]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 12
 book/chapter: "[[Josh.12|Joshua 12]]"
-genre:
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 6
 verses:
 - "[[Josh.12.1]]"
 - "[[Josh.12.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Josh.12.6]]"
 ---
 
-[[Josh.12|Joshua 12:1 - Joshua 12:6]]
+<small>[[Josh.12|Joshua 12:1-6]]</small>
 *The Kings Defeated East of the Jordan*
 
 [[Josh.12.1|1]] Now these \[are\] the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:

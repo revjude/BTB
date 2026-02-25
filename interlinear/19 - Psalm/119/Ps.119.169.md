@@ -1,8 +1,55 @@
+---
+title: Psalm 119:169
+type: Verse
+kjv: "Let my cry come near before thee, O LORD: give me understanding according to thy word."
+bsb: "May my cry come before You, O LORD; give me understanding according to Your word."
+hebrew: "תִּקְרַ֤ב רִנָּתִ֣י לְפָנֶ֣יךָ יְהוָ֑ה כִּדְבָרְךָ֥ הֲבִינֵֽנִי׃"
+pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7126G]]"
+- "[[H7440]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H0995]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:169**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let my cry come near before thee, O LORD: give me understanding according to thy word.
 <small><sub>**BSB:**</sub></small>
 May my cry come before You, O LORD; give me understanding according to Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|תִּקְרַ֤ב]] [[H7440\|רִנָּתִ֣]][[H9020\|י]] [[H9005\|לְ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כִּ]][[H1697G\|דְבָרְ]][[H9021\|ךָ֥]] [[H0995\|הֲבִינֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.169|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.168|<< Psalms 119:168]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.170|Psalms 119:170 >>]]</td></tr></table>
 

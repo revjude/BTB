@@ -1,6 +1,75 @@
+---
+title: LXX Genesis 4:4
+type: Verse
+lxx: "And Abel brought also himself from the first-born  of his sheep, and from  his fatlings. And God looked upon Abel and upon  his gifts."
+greek: "και Άβελ ήνεγκε και αυτός από των πρωτοτόκων των προβάτων αυτού και από των στεάτων αυτών και επείδεν ο θεός επί Άβελ και επί τοις δώροις αυτού"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G0006]]"
+- "[[G5342]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4416]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G9155]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1896]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G0006]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1435]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 4:4** 
 <small><sub>**LXX:**</sub></small>
 And Abel brought also himself from the first-born  of his sheep, and from  his fatlings. And God looked upon Abel and upon  his gifts. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0006\|Άβελ]] [[G5342\|ήνεγκε]] [[G2532\|και]] [[G1473\|αυτός]] [[G0575\|από]] [[G3588\|των]] [[G4416\|πρωτοτόκων]] [[G3588\|των]] [[G4263\|προβάτων]] [[G1473\|αυτού]] [[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G9155\|στεάτων]] [[G1473\|αυτών]] [[G2532\|και]] [[G1896\|επείδεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G1909\|επί]] [[G0006\|Άβελ]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|τοις]] [[G1435\|δώροις]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CAIN|CAIN]] • [[topic CONSECRATION|CONSECRATION]] • [[topic ENVY|ENVY]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic RELIGION|RELIGION]] • [[topic SHEEP|SHEEP]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -32,6 +101,6 @@ And Abel brought also himself from the first-born  of his sheep, and from  his f
 | upon | **<big>[[G1909\|επί]]</big>** |
 | \<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | his gifts. | **<big>[[G1435\|δώροις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Gen.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
 
 

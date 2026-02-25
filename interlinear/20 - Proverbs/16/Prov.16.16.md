@@ -1,8 +1,52 @@
+---
+title: Proverbs 16:16
+type: Verse
+kjv: "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+bsb: "How much better to acquire wisdom than gold! To gain understanding is more desirable than silver."
+hebrew: "קְֽנֹה־ חָכְמָ֗ה מַה־ טּ֥וֹב מֵחָר֑וּץ וּקְנ֥וֹת בִּ֝ינָ֗ה נִבְחָ֥ר מִכָּֽסֶף׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7069]]"
+- "[[H9014]]"
+- "[[H2451]]"
+- "[[H4100]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H2742D]]"
+- "[[H9002]]"
+- "[[H0998]]"
+- "[[H0977]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:16**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much better [is it] to get wisdom than gold! and to get understanding rather to be chosen than silver!
 <small><sub>**BSB:**</sub></small>
 How much better to acquire wisdom than gold! To gain understanding is more desirable than silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H7069\|קְֽנֹה]][[H9014\|־]] [[H2451\|חָכְמָ֗ה]] [[H4100\|מַה]][[H9014\|־]] [[H2896A\|טּ֥וֹב]] [[H9006\|מֵ]][[H2742D\|חָר֑וּץ]] [[H9002\|וּ]][[H7069\|קְנ֥וֹת]] [[H0998\|בִּ֝ינָ֗ה]] [[H0977\|נִבְחָ֥ר]] [[H9006\|מִ]][[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.15|<< Proverbs 16:15]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.17|Proverbs 16:17 >>]]</td></tr></table>
 

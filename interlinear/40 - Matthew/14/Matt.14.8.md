@@ -1,10 +1,67 @@
+---
+title: Matthew 14:8
+type: Verse
+kjv: "And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger."
+bsb: "Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”"
+greek: "ἡ δὲ προβιβασθεῖσα ὑπὸ τῆς μητρὸς αὐτῆς· δός μοι φησὶν ὧδε ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ."
+pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CHARGER|CHARGER]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4264]]"
+- "[[G5259G]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G5346]]"
+- "[[G5602]]"
+- "[[G1909]]"
+- "[[G4094]]"
+- "[[G2776]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+texts:
+- NKO
+---
+
 **Matthew 14:8**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger.
 <small><sub>**BSB:**</sub></small>
 Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”
-<small><sub>**Literal:**</sub></small>
-<the> And having been urged on by the mother of her; do give to me she says here on a platter the head of John the Baptist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.7|<< Matthew 14:7]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.9|Matthew 14:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G4264\|προβιβασθεῖσα]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτῆς·]]  [[G1325\|δός]]  [[G3165\|μοι]]  [[G5346\|φησὶν]]  [[G5602\|ὧδε]]  [[G1909\|ἐπὶ]]  [[G4094\|πίνακι]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G2491G\|Ἰωάννου]]  [[G3588\|τοῦ]]  [[G0910\|βαπτιστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CHARGER|CHARGER]] • [[topic COMPLICITY|COMPLICITY]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic OATH|OATH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.7|<< Matthew 14:7]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.9|Matthew 14:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

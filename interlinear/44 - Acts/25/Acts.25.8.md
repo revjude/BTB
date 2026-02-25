@@ -1,10 +1,57 @@
+---
+title: Acts 25:8
+type: Verse
+kjv: "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all."
+bsb: "Then Paul made his defense: “I have committed no offense against the law of the Jews or against the temple or against Caesar.”"
+greek: "τοῦ Παύλου ἀπολογουμένου αὐτοῦ ὅτι οὔτε εἰς τὸν νόμον τῶν Ἰουδαίων οὔτε εἰς τὸ ἱερὸν οὔτε εἰς Καίσαρά τι ἥμαρτον.¶"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G0626]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3777]]"
+- "[[G1519]]"
+- "[[G3551]]"
+- "[[G2453]]"
+- "[[G2411]]"
+- "[[G2541]]"
+- "[[G5100]]"
+- "[[G0264]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Acts 25:8**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all.
 <small><sub>**BSB:**</sub></small>
 Then Paul made his defense: “I have committed no offense against the law of the Jews or against the temple or against Caesar.”
-<small><sub>**Literal:**</sub></small>
-<the> Paul was presenting a defense of him that Neither [I sinned] against the law of the Jews nor [I sinned] against the temple nor against Caesar [in] anything have I sinned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.7|<< Acts 25:7]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.9|Acts 25:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G0626\|ἀπολογουμένου]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G3777\|οὔτε]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G3777\|οὔτε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G3777\|οὔτε]]  [[G1519\|εἰς]]  [[G2541\|Καίσαρά]]  [[G5100\|τι]]  [[G0264\|ἥμαρτον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.7|<< Acts 25:7]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.9|Acts 25:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 7:8
+type: Verse
+kjv: "Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt."
+bsb: "So at that time Solomon and all Israel with him—a very great assembly of people from Lebo-hamath to the Brook of Egypt—kept the feast for seven days."
+hebrew: "וַיַּ֣עַשׂ שְׁלֹמֹ֣ה אֶת־ הֶ֠חָג בָּעֵ֨ת הַהִ֜יא שִׁבְעַ֤ת יָמִים֙ וְכָל־ יִשְׂרָאֵ֣ל עִמּ֔וֹ קָהָ֖ל גָּד֣וֹל מְאֹ֑ד מִלְּב֥וֹא חֲמָ֖ת עַד־ נַ֥חַל מִצְרָֽיִם׃"
+pericope: "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2282]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H6951]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H9006]]"
+- "[[H0935O]]"
+- "[[H2574G]]"
+- "[[H5704]]"
+- "[[H5158L]]"
+- "[[H4714J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:8**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt.
 <small><sub>**BSB:**</sub></small>
 So at that time Solomon and all Israel with him—a very great assembly of people from Lebo-hamath to the Brook of Egypt—kept the feast for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H8010\|שְׁלֹמֹ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֠]][[H2282\|חָג]] [[H9003\|בָּ]][[H6256\|עֵ֨ת]] [[H9009\|הַ]][[H1931\|הִ֜יא]] [[H7651\|שִׁבְעַ֤ת]] [[H3117G\|יָמִים֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H6951\|קָהָ֖ל]] [[H1419A\|גָּד֣וֹל]] [[H3966\|מְאֹ֑ד]] [[H9006\|מִ]][[H0935O\|לְּב֥וֹא]] [[H2574G\|חֲמָ֖ת]] [[H5704\|עַד]][[H9014\|־]] [[H5158L\|נַ֥חַל]] [[H4714J\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic DEDICATION|DEDICATION]] • [[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.7|<< 2 Chronicles 7:7]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.9|2 Chronicles 7:9 >>]]</td></tr></table>
 

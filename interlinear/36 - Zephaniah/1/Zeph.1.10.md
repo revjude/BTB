@@ -1,8 +1,63 @@
+---
+title: Zephaniah 1:10
+type: Verse
+kjv: "And it shall come to pass in that day, saith the LORD, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills."
+bsb: "On that day,” declares the LORD, “a cry will go up from the Fish Gate, a wail from the Second District, and a loud crashing from the hills."
+hebrew: "וְהָיָה֩ בַיּ֨וֹם הַה֜וּא נְאֻם־ יְהוָ֗ה ק֤וֹל צְעָקָה֙ מִשַּׁ֣עַר הַדָּגִ֔ים וִֽילָלָ֖ה מִן־ הַמִּשְׁנֶ֑ה וְשֶׁ֥בֶר גָּד֖וֹל מֵהַגְּבָעֽוֹת׃"
+pericope: "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FISH GATE|FISH GATE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6963A]]"
+- "[[H6818]]"
+- "[[H9006]]"
+- "[[H8179G]]"
+- "[[H1709G]]"
+- "[[H9002]]"
+- "[[H3215]]"
+- "[[H4480A]]"
+- "[[H4932G]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H1389I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:10**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, saith the LORD, [that there shall be] the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
 <small><sub>**BSB:**</sub></small>
 On that day,” declares the LORD, “a cry will go up from the Fish Gate, a wail from the Second District, and a loud crashing from the hills.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H6963A\|ק֤וֹל]] [[H6818\|צְעָקָה֙]] [[H9006\|מִ]][[H8179G\|שַּׁ֣עַר]] [[H9009\|הַ]][[H1709G\|דָּגִ֔ים]] [[H9002\|וִֽ]][[H3215\|ילָלָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4932G\|מִּשְׁנֶ֑ה]] [[H9002\|וְ]][[H7667\|שֶׁ֥בֶר]] [[H1419A\|גָּד֖וֹל]] [[H9006\|מֵ]][[H9009\|הַ]][[H1389I\|גְּבָעֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH GATE|FISH GATE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.9|<< Zephaniah 1:9]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.11|Zephaniah 1:11 >>]]</td></tr></table>
 

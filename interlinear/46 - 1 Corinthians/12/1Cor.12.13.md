@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 12:13
+type: Verse
+kjv: "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit."
+bsb: "For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink."
+greek: "καὶ γὰρ ἐν ἑνὶ πνεύματι ἡμεῖς πάντες εἰς ἓν σῶμα ἐβαπτίσθημεν, εἴτε Ἰουδαῖοι εἴτε Ἕλληνες εἴτε δοῦλοι εἴτε ἐλεύθεροι, καὶ πάντες εἰς ἓν πνεῦμα ἐποτίσθημεν."
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G4151G]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G4983]]"
+- "[[G0907]]"
+- "[[G1535]]"
+- "[[G2453]]"
+- "[[G1672]]"
+- "[[G1401]]"
+- "[[G1658]]"
+- "[[G4222]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 12:13**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
 <small><sub>**BSB:**</sub></small>
 For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink.
-<small><sub>**Literal:**</sub></small>
-Also for in one Spirit we ourselves all into one body were baptized, whether Jews or Greeks whether slaves or free, and all into one Spirit we were made to drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.12|<< 1 Corinthians 12:12]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.14|1 Corinthians 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G4151G\|πνεύματι]]  [[G3165\|ἡμεῖς]]  [[G3956\|πάντες]]  [[G1519\|εἰς]]  [[G1520\|ἓν]]  [[G4983\|σῶμα]]  [[G0907\|ἐβαπτίσθημεν,]]  [[G1535\|εἴτε]]  [[G2453\|Ἰουδαῖοι]]  [[G1535\|εἴτε]]  [[G1672\|Ἕλληνες]]  [[G1535\|εἴτε]]  [[G1401\|δοῦλοι]]  [[G1535\|εἴτε]]  [[G1658\|ἐλεύθεροι,]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G1519\|εἰς]]  [[G1520\|ἓν]]  [[G4151G\|πνεῦμα]]  [[G4222\|ἐποτίσθημεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GREECE|GREECE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.12|<< 1 Corinthians 12:12]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.14|1 Corinthians 12:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

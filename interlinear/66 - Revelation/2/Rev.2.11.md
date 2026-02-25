@@ -1,10 +1,63 @@
+---
+title: Revelation 2:11
+type: Verse
+kjv: "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death."
+bsb: "He who has an ear, let him hear what the Spirit says to the churches. The one who overcomes will not be harmed by the second death."
+jesus_said: "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death."
+greek: "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις· ὁ νικῶν οὐ μὴ ἀδικηθῇ ἐκ τοῦ θανάτου τοῦ δευτέρου.¶"
+pericope: "[[Rev.2.8 To the Church in Smyrna|To the Church in Smyrna]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G5101]]"
+- "[[G4151G]]"
+- "[[G3004G]]"
+- "[[G1577]]"
+- "[[G3528]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0091]]"
+- "[[G1537]]"
+- "[[G2288]]"
+- "[[G1208]]"
+texts:
+- NKO
+---
+
 **Revelation 2:11**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches. The one who overcomes will not be harmed by the second death.
-<small><sub>**Literal:**</sub></small>
-The [one] having an ear he should hear what the Spirit says to the churches; The [one] overcoming certainly not may be injured by the death <the> second.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.10|<< Revelation 2:10]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.12|Revelation 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|οὖς]]  [[G0191\|ἀκουσάτω]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3004G\|λέγει]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις·]]  [[G3588\|ὁ]]  [[G3528\|νικῶν]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0091\|ἀδικηθῇ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G3588\|τοῦ]]  [[G1208\|δευτέρου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic HELL|HELL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.10|<< Revelation 2:10]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.12|Revelation 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

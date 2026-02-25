@@ -1,8 +1,63 @@
+---
+title: Ezekiel 32:4
+type: Verse
+kjv: "Then will I leave thee upon the land, I will cast thee forth upon the open field, and will cause all the fowls of the heaven to remain upon thee, and I will fill the beasts of the whole earth with thee."
+bsb: "I will abandon you on the land and hurl you into the open field. I will cause all the birds of the air to settle upon you, and all the beasts of the earth to eat their fill of you."
+hebrew: "וּנְטַשְׁתִּ֣יךָ בָאָ֔רֶץ עַל־ פְּנֵ֥י הַשָּׂדֶ֖ה אֲטִילֶ֑ךָ וְהִשְׁכַּנְתִּ֤י עָלֶ֙יךָ֙ כָּל־ ע֣וֹף הַשָּׁמַ֔יִם וְהִשְׂבַּעְתִּ֥י מִמְּךָ֖ חַיַּ֥ת כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5203]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H2904]]"
+- "[[H7931]]"
+- "[[H3605]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H7646]]"
+- "[[H4480A]]"
+- "[[H2416C]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:4**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I leave thee upon the land, I will cast thee forth upon the open field, and will cause all the fowls of the heaven to remain upon thee, and I will fill the beasts of the whole earth with thee.
 <small><sub>**BSB:**</sub></small>
 I will abandon you on the land and hurl you into the open field. I will cause all the birds of the air to settle upon you, and all the beasts of the earth to eat their fill of you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5203\|נְטַשְׁתִּ֣י]][[H9031\|ךָ]] [[H9003\|בָ]][[H0776H\|אָ֔רֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H2904\|אֲטִילֶ֑]][[H9031\|ךָ]] [[H9001\|וְ]][[H7931\|הִשְׁכַּנְתִּ֤י]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וְ]][[H7646\|הִשְׂבַּעְתִּ֥י]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H2416C\|חַיַּ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.3|<< Ezekiel 32:3]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.5|Ezekiel 32:5 >>]]</td></tr></table>
 

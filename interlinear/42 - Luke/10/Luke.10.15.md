@@ -1,10 +1,62 @@
+---
+title: Luke 10:15
+type: Verse
+kjv: "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell."
+bsb: "And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades!"
+jesus_said: "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell."
+greek: "καὶ σὺ Καφαρναοὺμ μὴ ἕως τοῦ οὐρανοῦ ὑψωθήσῃ; ἕως τοῦ ᾅδου καταβήσῃ.¶"
+pericope: "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2584]]"
+- "[[G3361]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G5312]]"
+- "[[G0086]]"
+- "[[G2597]]"
+texts:
+- NKO
+- N(k)O
+- k
+- no
+---
+
 **Luke 10:15**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
 <small><sub>**BSB:**</sub></small>
 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades!
-<small><sub>**Literal:**</sub></small>
-And you yourself Capernaum not to <the> heaven will you be lifted up? to <the> Hades you will be brought down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.14|<< Luke 10:14]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.16|Luke 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G2584\|Καφαρναοὺμ]]  [[G3361\|μὴ]]  [[G2193\|ἕως]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G5312\|ὑψωθήσῃ;]]  [[G2193\|ἕως]]  [[G3588\|τοῦ]]  [[G0086\|ᾅδου]]  [[G2597\|καταβήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.14|<< Luke 10:14]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.16|Luke 10:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 10:15** is...
 > $\quad$ alluding to: [[LXX.Isa.14.13|Isa 14:13]] ☩ [[LXX.Isa.14.15|Isa 14:15]]

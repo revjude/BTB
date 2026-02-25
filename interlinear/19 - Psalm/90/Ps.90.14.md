@@ -1,8 +1,58 @@
+---
+title: Psalm 90:14
+type: Verse
+kjv: "O satisfy us early with thy mercy; that we may rejoice and be glad all our days."
+bsb: "Satisfy us in the morning with Your loving devotion, that we may sing for joy and be glad all our days."
+hebrew: "שַׂבְּעֵ֣נוּ בַבֹּ֣קֶר חַסְדֶּ֑ךָ וּֽנְרַנְּנָ֥ה וְ֝נִשְׂמְחָ֗ה בְּכָל־ יָמֵֽינוּ׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H7646]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7442B]]"
+- "[[H8055]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:14**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
 <small><sub>**BSB:**</sub></small>
 Satisfy us in the morning with Your loving devotion, that we may sing for joy and be glad all our days.
+<small><sub>**Hebrew:**</sub></small>
+[[H7646\|שַׂבְּעֵ֣]][[H9035\|נוּ]] [[H9003\|בַ]][[H1242\|בֹּ֣קֶר]] [[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H9002\|וּֽ]][[H7442B\|נְרַנְּנָ֥ה]] [[H9002\|וְ֝]][[H8055\|נִשְׂמְחָ֗ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3117G\|יָמֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PENITENT|PENITENT]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.13|<< Psalms 90:13]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.15|Psalms 90:15 >>]]</td></tr></table>
 

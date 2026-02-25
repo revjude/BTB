@@ -1,8 +1,61 @@
+---
+title: Psalm 51:1
+type: Verse
+kjv: "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+bsb: "For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba. Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions."
+hebrew: "חָנֵּ֣נִי אֱלֹהִ֣ים כְּחַסְדֶּ֑ךָ כְּרֹ֥ב רַ֝חֲמֶ֗יךָ מְחֵ֣ה פְשָׁעָֽי׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9004]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H7230]]"
+- "[[H7356B]]"
+- "[[H4229A]]"
+- "[[H6588]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:1**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba. Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|חָנֵּ֣]][[H9030\|נִי]] [[H0430G\|אֱלֹהִ֣ים]] [[H9004\|כְּ]][[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H9004\|כְּ]][[H7230\|רֹ֥ב]] [[H7356B\|רַ֝חֲמֶ֗י]][[H9021\|ךָ]] [[H4229A\|מְחֵ֣ה]] [[H6588\|פְשָׁעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic DESIRE|DESIRE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRAYER|PRAYER]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.0|<< Psalms 51:0]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.2|Psalms 51:2 >>]]</td></tr></table>
 

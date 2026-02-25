@@ -1,8 +1,52 @@
+---
+title: Isaiah 13:15
+type: Verse
+kjv: "Every one that is found shall be thrust through; and every one that is joined unto them shall fall by the sword."
+bsb: "Whoever is caught will be stabbed, and whoever is captured will die by the sword."
+hebrew: "כָּל־ הַנִּמְצָ֖א יִדָּקֵ֑ר וְכָל־ הַנִּסְפֶּ֖ה יִפּ֥וֹל בֶּחָֽרֶב׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4672]]"
+- "[[H1856]]"
+- "[[H9002]]"
+- "[[H5595]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:15**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that is found shall be thrust through; and every one that is joined [unto them] shall fall by the sword.
 <small><sub>**BSB:**</sub></small>
 Whoever is caught will be stabbed, and whoever is captured will die by the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4672\|נִּמְצָ֖א]] [[H1856\|יִדָּקֵ֑ר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H5595\|נִּסְפֶּ֖ה]] [[H5307J\|יִפּ֥וֹל]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.14|<< Isaiah 13:14]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.16|Isaiah 13:16 >>]]</td></tr></table>
 

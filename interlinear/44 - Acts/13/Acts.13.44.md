@@ -1,10 +1,56 @@
+---
+title: Acts 13:44
+type: Verse
+kjv: "And the next sabbath day came almost the whole city together to hear the word of God."
+bsb: "On the following Sabbath, nearly the whole city gathered to hear the word of the Lord."
+greek: "τῷ δὲ ἐρχομένῳ σαββάτῳ σχεδὸν πᾶσα ἡ πόλις συνήχθη ἀκοῦσαι τὸν λόγον τοῦ κυρίου."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G4521]]"
+- "[[G4975]]"
+- "[[G3956]]"
+- "[[G4172]]"
+- "[[G4863]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- NK(o)
+- N(K)O
+---
+
 **Acts 13:44**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the next sabbath day came almost the whole city together to hear the word of God.
 <small><sub>**BSB:**</sub></small>
 On the following Sabbath, nearly the whole city gathered to hear the word of the Lord.
-<small><sub>**Literal:**</sub></small>
-On the now coming Sabbath almost all the city was gathered together to hear the word <the> of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.43|<< Acts 13:43]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.45|Acts 13:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G2064\|ἐρχομένῳ]]  [[G4521\|σαββάτῳ]]  [[G4975\|σχεδὸν]]  [[G3956\|πᾶσα]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G4863\|συνήχθη]]  [[G0191\|ἀκοῦσαι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic LAW|LAW]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.43|<< Acts 13:43]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.45|Acts 13:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

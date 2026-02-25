@@ -1,10 +1,59 @@
+---
+title: Ephesians 2:13
+type: Verse
+kjv: "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ."
+bsb: "But now in Christ Jesus you who once were far away have been brought near through the blood of Christ."
+greek: "νυνὶ δὲ ἐν Χριστῷ Ἰησοῦ ὑμεῖς οἵ ποτε ὄντες μακρὰν ἐγενήθητε ἐγγὺς ἐν τῷ αἵματι τοῦ Χριστοῦ."
+pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G4218]]"
+- "[[G1510]]"
+- "[[G3112]]"
+- "[[G1096]]"
+- "[[G1451]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:13**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
 <small><sub>**BSB:**</sub></small>
 But now in Christ Jesus you who once were far away have been brought near through the blood of Christ.
-<small><sub>**Literal:**</sub></small>
-Now however in Christ Jesus you yourselves the [ones] once being far off have become near by the blood <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.12|<< Ephesians 2:12]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.14|Ephesians 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G4771\|ὑμεῖς]]  [[G3739\|οἵ]]  [[G4218\|ποτε]]  [[G1510\|ὄντες]]  [[G3112\|μακρὰν]]  [[G1096\|ἐγενήθητε]]  [[G1451\|ἐγγὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0129G\|αἵματι]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.12|<< Ephesians 2:12]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.14|Ephesians 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

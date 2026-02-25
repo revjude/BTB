@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 15:23
+type: Verse
+kjv: "And Berechiah and Elkanah were doorkeepers for the ark."
+bsb: "Berechiah and Elkanah were to be guardians of the ark."
+hebrew: "וּבֶֽרֶכְיָה֙ וְאֶלְקָנָ֔ה שֹׁעֲרִ֖ים לָאָרֽוֹן׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BERECHIAH|BERECHIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H1296H]]"
+- "[[H0511M]]"
+- "[[H7778]]"
+- "[[H9005]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:23**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Berechiah and Elkanah [were] doorkeepers for the ark.
 <small><sub>**BSB:**</sub></small>
 Berechiah and Elkanah were to be guardians of the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1296H\|בֶֽרֶכְיָה֙]] [[H9002\|וְ]][[H0511M\|אֶלְקָנָ֔ה]] [[H7778\|שֹׁעֲרִ֖ים]] [[H9005\|לָ]][[H0727\|אָרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERECHIAH|BERECHIAH]] • [[topic DAVID|DAVID]] • [[topic ELKANAH|ELKANAH]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.22|<< 1 Chronicles 15:22]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.24|1 Chronicles 15:24 >>]]</td></tr></table>
 

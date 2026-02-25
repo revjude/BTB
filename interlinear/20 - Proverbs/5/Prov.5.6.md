@@ -1,8 +1,56 @@
+---
+title: Proverbs 5:6
+type: Verse
+kjv: "Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them."
+bsb: "She does not consider the path of life; she does not know that her ways are unstable."
+hebrew: "אֹ֣רַח חַ֭יִּים פֶּן־ תְּפַלֵּ֑ס נָע֥וּ מַ֝עְגְּלֹתֶ֗יהָ לֹ֣א תֵדָֽע׃ פ"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0734]]"
+- "[[H2416E]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H6424]]"
+- "[[H5128]]"
+- "[[H4570]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 5:6**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest thou shouldest ponder the path of life, her ways are moveable, [that] thou canst not know [them].
 <small><sub>**BSB:**</sub></small>
 She does not consider the path of life; she does not know that her ways are unstable.
+<small><sub>**Hebrew:**</sub></small>
+[[H0734\|אֹ֣רַח]] [[H2416E\|חַ֭יִּים]] [[H6435\|פֶּן]][[H9014\|־]] [[H6424\|תְּפַלֵּ֑ס]] [[H5128\|נָע֥וּ]] [[H4570\|מַ֝עְגְּלֹתֶ֗י]][[H9024\|הָ]] [[H3808\|לֹ֣א]] [[H3045\|תֵדָֽע]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.5|<< Proverbs 5:5]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.7|Proverbs 5:7 >>]]</td></tr></table>
 
@@ -15,7 +63,7 @@ She does not consider the path of life; she does not know that her ways are unst
 | they wander  |**<big>&#8207;[[H5128\|נָע֥וּ]]&#8207; </big>**| na.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tracks her  |**<big>&#8207;[[H4570\|מַ֝עְגְּלֹתֶ֗י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ma'.ge.lo.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she knows  |**<big>&#8207;[[H3045\|תֵדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| te.Da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she knows  |**<big>&#8207;[[H3045\|תֵדָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| te.Da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.5|<< Proverbs 5:5]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.7|Proverbs 5:7 >>]]</td></tr></table>
 
 

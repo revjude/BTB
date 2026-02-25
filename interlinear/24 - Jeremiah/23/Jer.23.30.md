@@ -1,8 +1,63 @@
+---
+title: Jeremiah 23:30
+type: Verse
+kjv: "Therefore, behold, I am against the prophets, saith the LORD, that steal my words every one from his neighbour."
+bsb: "“Therefore behold,” declares the LORD, “I am against the prophets who steal from one another words they attribute to Me.”"
+hebrew: "לָכֵ֛ן הִנְנִ֥י עַל־ הַנְּבִאִ֖ים נְאֻם־ יְהוָ֑ה מְגַנְּבֵ֣י דְבָרַ֔י אִ֖ישׁ מֵאֵ֥ת רֵעֵֽהוּ׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H1589]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:30**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I [am] against the prophets, saith the LORD, that steal my words every one from his neighbour.
 <small><sub>**BSB:**</sub></small>
 “Therefore behold,” declares the LORD, “I am against the prophets who steal from one another words they attribute to Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H1589\|מְגַנְּבֵ֣י]] [[H1697G\|דְבָרַ֔]][[H9020\|י]] [[H0376I\|אִ֖ישׁ]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.29|<< Jeremiah 23:29]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.31|Jeremiah 23:31 >>]]</td></tr></table>
 

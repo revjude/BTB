@@ -1,8 +1,57 @@
+---
+title: Isaiah 56:8
+type: Verse
+kjv: "The Lord GOD which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him."
+bsb: "Thus declares the Lord GOD, who gathers the dispersed of Israel: “I will gather to them still others besides those already gathered.”"
+hebrew: "נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה מְקַבֵּ֖ץ נִדְחֵ֣י יִשְׂרָאֵ֑ל ע֛וֹד אֲקַבֵּ֥ץ עָלָ֖יו לְנִקְבָּצָֽיו׃"
+pericope: "[[Isa.56.1 Salvation for Foreigners|Salvation for Foreigners]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 56
+book/chapter: "[[Isa.56|Isaiah 56]]"
+chronological_order: 695
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6908]]"
+- "[[H5080]]"
+- "[[H3478]]"
+- "[[H5750]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 56:8**<big><big>[[Isa.56.1 Salvation for Foreigners|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord GOD which gathereth the outcasts of Israel saith, Yet will I gather [others] to him, beside those that are gathered unto him.
 <small><sub>**BSB:**</sub></small>
 Thus declares the Lord GOD, who gathers the dispersed of Israel: “I will gather to them still others besides those already gathered.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H6908\|מְקַבֵּ֖ץ]] [[H5080\|נִדְחֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5750\|ע֛וֹד]] [[H6908\|אֲקַבֵּ֥ץ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9005\|לְ]][[H6908\|נִקְבָּצָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.7|<< Isaiah 56:7]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.9|Isaiah 56:9 >>]]</td></tr></table>
 

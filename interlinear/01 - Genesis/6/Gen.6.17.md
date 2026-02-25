@@ -1,8 +1,76 @@
+---
+title: Genesis 6:17
+type: Verse
+kjv: "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
+bsb: "And behold, I will bring floodwaters upon the earth to destroy every creature under the heavens that has the breath of life. Everything on the earth will perish."
+hebrew: "וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת־ הַמַּבּ֥וּל מַ֙יִם֙ עַל־ הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל־ בָּשָׂ֗ר אֲשֶׁר־ בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר־ בָּאָ֖רֶץ יִגְוָֽע׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3999]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7307H]]"
+- "[[H2416E]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H8064]]"
+- "[[H1478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:17**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein [is] the breath of life, from under heaven; [and] every thing that [is] in the earth shall die.
 <small><sub>**BSB:**</sub></small>
 And behold, I will bring floodwaters upon the earth to destroy every creature under the heavens that has the breath of life. Everything on the earth will perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H2009\|הִנְ]][[H9040\|נִי֩]] [[H0935P\|מֵבִ֨יא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3999\|מַּבּ֥וּל]] [[H4325G\|מַ֙יִם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לְ]][[H7843\|שַׁחֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֗ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H7307H\|ר֣וּחַ]] [[H2416E\|חַיִּ֔ים]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H3605\|כֹּ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H1478\|יִגְוָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic COMMUNION|COMMUNION]] • [[topic FAITH|FAITH]] • [[topic FLOOD|FLOOD]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.16|<< Genesis 6:16]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.18|Genesis 6:18 >>]]</td></tr></table>
 

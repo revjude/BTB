@@ -5,7 +5,7 @@
 
 → In valleys [[Ps.65.13|Ps 65:13]]; [[Mark.4.28|Mr 4:28]]
 
-→ A product of Egypt [[Gen.41.47|Ge 41:47]]-[[Gen.41.49|49]]
+→ A product of Egypt [[Gen.41.47|Ge 41:47-49]]
 
 → Palestine [[Deut.33.28|De 33:28]]; [[Ezek.27.17|Eze 27:17]]
 

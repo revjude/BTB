@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 21:1
+type: Verse
+kjv: "If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:"
+bsb: "If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,"
+hebrew: "כִּי־ יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ׃"
+pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INQUEST|INQUEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2491A]]"
+- "[[H9003]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H5307J]]"
+- "[[H7704G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4310]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:1**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If [one] be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, [and] it be not known who hath slain him:
 <small><sub>**BSB:**</sub></small>
 If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H4672\|יִמָּצֵ֣א]] [[H2491A\|חָלָ֗ל]] [[H9003\|בָּ]][[H0127G\|אֲדָמָה֙]] [[H0834A\|אֲשֶׁר֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֤ן]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֔]][[H9034\|הּ]] [[H5307J\|נֹפֵ֖ל]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֑ה]] [[H3808\|לֹ֥א]] [[H3045\|נוֹדַ֖ע]] [[H4310\|מִ֥י]] [[H5221\|הִכָּֽה]][[H9033\|וּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INQUEST|INQUEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.20|<< Deuteronomy 20:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.2|Deuteronomy 21:2 >>]]</td></tr></table>
 

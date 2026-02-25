@@ -1,8 +1,51 @@
+---
+title: Job 35:15
+type: Verse
+kjv: "But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:"
+bsb: "and further, that in His anger He has not punished or taken much notice of folly!"
+hebrew: "וְעַתָּ֗ה כִּי־ אַ֭יִן פָּקַ֣ד אַפּ֑וֹ וְלֹֽא־ יָדַ֖ע בַּפַּ֣שׁ מְאֹֽד׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H6485H]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H6580]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:15**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now, because [it is] not [so], he hath visited in his anger; yet he knoweth [it] not in great extremity:
 <small><sub>**BSB:**</sub></small>
 and further, that in His anger He has not punished or taken much notice of folly!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אַ֭יִן]] [[H6485H\|פָּקַ֣ד]] [[H0639G\|אַפּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֖ע]] [[H9003\|בַּ]][[H6580\|פַּ֣שׁ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.14|<< Job 35:14]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.16|Job 35:16 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Jeremiah 48:9
+type: Verse
+kjv: "Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein."
+bsb: "Put salt on Moab, for she will be laid waste; her cities will become desolate, with no one to dwell in them."
+hebrew: "תְּנוּ־ צִ֣יץ לְמוֹאָ֔ב כִּ֥י נָצֹ֖א תֵּצֵ֑א וְעָרֶ֙יהָ֙ לְשַׁמָּ֣ה תִֽהְיֶ֔ינָה מֵאֵ֥ין יוֹשֵׁ֖ב בָּהֵֽן׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H6731B]]"
+- "[[H9005]]"
+- "[[H4124G]]"
+- "[[H3588A]]"
+- "[[H5323]]"
+- "[[H3318G]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9024]]"
+- "[[H8047G]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:9**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.
 <small><sub>**BSB:**</sub></small>
 Put salt on Moab, for she will be laid waste; her cities will become desolate, with no one to dwell in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תְּנוּ]][[H9014\|־]] [[H6731B\|צִ֣יץ]] [[H9005\|לְ]][[H4124G\|מוֹאָ֔ב]] [[H3588A\|כִּ֥י]] [[H5323\|נָצֹ֖א]] [[H3318G\|תֵּצֵ֑א]] [[H9002\|וְ]][[H5892B\|עָרֶ֙י]][[H9024\|הָ֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֣ה]] [[H1961\|תִֽהְיֶ֔ינָה]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בָּ]][[H9039\|הֵֽן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.8|<< Jeremiah 48:8]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.10|Jeremiah 48:10 >>]]</td></tr></table>
 

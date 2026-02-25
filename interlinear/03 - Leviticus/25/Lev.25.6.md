@@ -1,8 +1,68 @@
+---
+title: Leviticus 25:6
+type: Verse
+kjv: "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,"
+bsb: "Whatever the land yields during the Sabbath year shall be food for you—for yourself, your manservant and maidservant, the hired hand or foreigner who stays with you,"
+hebrew: "וְ֠הָיְתָה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאָכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתוֹשָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic HOLIDAY|HOLIDAY]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7676]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0402]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0519]]"
+- "[[H7916]]"
+- "[[H8453A]]"
+- "[[H1481A]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:6**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
 <small><sub>**BSB:**</sub></small>
 Whatever the land yields during the Sabbath year shall be food for you—for yourself, your manservant and maidservant, the hired hand or foreigner who stays with you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H1961\|הָיְתָה]] [[H7676\|שַׁבַּ֨ת]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H0402\|אָכְלָ֔ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9002\|וּ]][[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H9005\|לַ]][[H0519\|אֲמָתֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לִ]][[H7916\|שְׂכִֽירְ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H8453A\|תוֹשָׁ֣בְ]][[H9021\|ךָ֔]] [[H9009\|הַ]][[H1481A\|גָּרִ֖ים]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic HOLIDAY|HOLIDAY]] • [[topic SANITATION|SANITATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.5|<< Leviticus 25:5]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.7|Leviticus 25:7 >>]]</td></tr></table>
 

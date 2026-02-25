@@ -1,6 +1,64 @@
+---
+title: Psalm 60:0
+type: Verse
+kjv: "To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand."
+hebrew: "לַ֭מְנַצֵּחַ עַל־ שׁוּשַׁ֣ן עֵד֑וּת מִכְתָּ֖ם לְדָוִ֣ד לְלַמֵּֽד׃ בְּהַצּוֹת֨וֹ׀ אֶ֥ת אֲרַ֣ם נַהֲרַיִם֮ וְאֶת־ אֲרַ֪ם צ֫וֹבָ֥ה וַיָּ֤שָׁב יוֹאָ֗ב וַיַּ֣ךְ אֶת־ אֱד֣וֹם בְּגֵיא־ מֶ֑לַח שְׁנֵ֖ים עָשָׂ֣ר אָֽלֶף׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7799]]"
+- "[[H5715]]"
+- "[[H4387]]"
+- "[[H1732]]"
+- "[[H3925G]]"
+- "[[H9016]]"
+- "[[H9003]]"
+- "[[H5327A]]"
+- "[[H9043]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H0763H]]"
+- "[[H9002]]"
+- "[[H0760]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3097G]]"
+- "[[H5221]]"
+- "[[H0123G]]"
+- "[[H1516J]]"
+- "[[H4417H]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+texts:
+- L
+---
+
 **Psalms 60:0**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ֭]][[H5329\|מְנַצֵּחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H7799\|שׁוּשַׁ֣ן]] [[H5715\|עֵד֑וּת]] [[H4387\|מִכְתָּ֖ם]] [[H9005\|לְ]][[H1732\|דָוִ֣ד]] [[H9005\|לְ]][[H3925G\|לַמֵּֽד]][[H9016\|׃]] [[H9003\|בְּ]][[H5327A\|הַצּוֹת֨]][[H9043\|וֹ]][[H9015\|׀]] [[H0853\|אֶ֥ת]] [[H0763H\|אֲרַ֣ם]] [[H0763H\|נַהֲרַיִם֮]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0760\|אֲרַ֪ם]] [[H0760\|צ֫וֹבָ֥ה]] [[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H3097G\|יוֹאָ֗ב]] [[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H0123G\|אֱד֣וֹם]] [[H9003\|בְּ]][[H1516J\|גֵיא]][[H9014\|־]] [[H4417H\|מֶ֑לַח]] [[H8147\|שְׁנֵ֖ים]] [[H6240\|עָשָׂ֣ר]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.17|<< Psalms 59:17]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.1|Psalms 60:1 >>]]</td></tr></table>
 

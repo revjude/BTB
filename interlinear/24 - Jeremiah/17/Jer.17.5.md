@@ -1,8 +1,69 @@
+---
+title: Jeremiah 17:5
+type: Verse
+kjv: "Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD."
+bsb: "This is what the LORD says: “Cursed is the man who trusts in mankind, who makes mere flesh his strength and turns his heart from the LORD."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה אָר֤וּר הַגֶּ֙בֶר֙ אֲשֶׁ֣ר יִבְטַ֣ח בָּֽאָדָ֔ם וְשָׂ֥ם בָּשָׂ֖ר זְרֹע֑וֹ וּמִן־ יְהוָ֖ה יָס֥וּר לִבּֽוֹ׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0779]]"
+- "[[H9009]]"
+- "[[H1397]]"
+- "[[H0834A]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H0120G]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H1320]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5493I]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:5**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Cursed [be] the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Cursed is the man who trusts in mankind, who makes mere flesh his strength and turns his heart from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0779\|אָר֤וּר]] [[H9009\|הַ]][[H1397\|גֶּ֙בֶר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0982\|יִבְטַ֣ח]] [[H9003\|בָּֽ]][[H0120G\|אָדָ֔ם]] [[H9001\|וְ]][[H7760A\|שָׂ֥ם]] [[H1320\|בָּשָׂ֖ר]] [[H2220\|זְרֹע֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5493I\|יָס֥וּר]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic HEART|HEART]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.4|<< Jeremiah 17:4]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.6|Jeremiah 17:6 >>]]</td></tr></table>
 

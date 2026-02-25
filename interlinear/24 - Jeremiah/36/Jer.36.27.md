@@ -1,8 +1,67 @@
+---
+title: Jeremiah 36:27
+type: Verse
+kjv: "Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,"
+bsb: "After the king had burned the scroll containing the words that Baruch had written at Jeremiah’s dictation, the word of the LORD came to Jeremiah:"
+hebrew: "וַיְהִ֥י דְבַר־ יְהוָ֖ה אֶֽל־ יִרְמְיָ֑הוּ אַחֲרֵ֣י׀ שְׂרֹ֣ף הַמֶּ֗לֶךְ אֶת־ הַמְּגִלָּה֙ וְאֶת־ הַדְּבָרִ֔ים אֲשֶׁ֨ר כָּתַ֥ב בָּר֛וּךְ מִפִּ֥י יִרְמְיָ֖הוּ לֵאמֹֽר׃"
+pericope: "[[Jer.36.27 Jeremiah Rewrites the Scroll|Jeremiah Rewrites the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H0310A]]"
+- "[[H9015]]"
+- "[[H8313]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H4039]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3789]]"
+- "[[H1263J]]"
+- "[[H9006]]"
+- "[[H6310I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:27**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 After the king had burned the scroll containing the words that Baruch had written at Jeremiah’s dictation, the word of the LORD came to Jeremiah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֑הוּ]] [[H0310A\|אַחֲרֵ֣י]][[H9015\|׀]] [[H8313\|שְׂרֹ֣ף]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4039\|מְּגִלָּה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H3789\|כָּתַ֥ב]] [[H1263J\|בָּר֛וּךְ]] [[H9006\|מִ]][[H6310I\|פִּ֥י]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.26|<< Jeremiah 36:26]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.28|Jeremiah 36:28 >>]]</td></tr></table>
 

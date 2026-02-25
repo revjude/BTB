@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 4:32
+type: Verse
+kjv: "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?"
+bsb: "Indeed, ask now from one end of the heavens to the other about the days that long preceded you, from the day that God created man on earth: Has anything as great as this ever happened or been reported?"
+hebrew: "כִּ֣י שְׁאַל־ נָא֩ לְיָמִ֨ים רִֽאשֹׁנִ֜ים אֲשֶׁר־ הָי֣וּ לְפָנֶ֗יךָ לְמִן־ הַיּוֹם֙ אֲשֶׁר֩ בָּרָ֨א אֱלֹהִ֤ים׀ אָדָם֙ עַל־ הָאָ֔רֶץ וּלְמִקְצֵ֥ה הַשָּׁמַ֖יִם וְעַד־ קְצֵ֣ה הַשָּׁמָ֑יִם הֲנִֽהְיָ֗ה כַּדָּבָ֤ר הַגָּדוֹל֙ הַזֶּ֔ה א֖וֹ הֲנִשְׁמַ֥ע כָּמֹֽהוּ׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H7223H]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1254A]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H0120G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H8064]]"
+- "[[H5704]]"
+- "[[H9008]]"
+- "[[H9004]]"
+- "[[H1697O]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H0176A]]"
+- "[[H8085G]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:32**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and [ask] from the one side of heaven unto the other, whether there hath been [any such thing] as this great thing [is], or hath been heard like it?
 <small><sub>**BSB:**</sub></small>
 Indeed, ask now from one end of the heavens to the other about the days that long preceded you, from the day that God created man on earth: Has anything as great as this ever happened or been reported?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7592\|שְׁאַל]][[H9014\|־]] [[H4994\|נָא֩]] [[H9005\|לְ]][[H3117G\|יָמִ֨ים]] [[H7223H\|רִֽאשֹׁנִ֜ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H0834A\|אֲשֶׁר֩]] [[H1254A\|בָּרָ֨א]] [[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H0120G\|אָדָם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H9005\|לְ]][[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9008\|הֲ]][[H1961\|נִֽהְיָ֗ה]] [[H9004\|כַּ]][[H1697O\|דָּבָ֤ר]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0176A\|א֖וֹ]] [[H9008\|הֲ]][[H8085G\|נִשְׁמַ֥ע]] [[H3644G\|כָּמֹֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MAN|MAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.31|<< Deuteronomy 4:31]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.33|Deuteronomy 4:33 >>]]</td></tr></table>
 

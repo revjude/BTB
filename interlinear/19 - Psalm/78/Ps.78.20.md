@@ -1,8 +1,75 @@
+---
+title: Psalm 78:20
+type: Verse
+kjv: "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?"
+bsb: "When He struck the rock, water gushed out and torrents raged. But can He also give bread or supply His people with meat?”"
+hebrew: "הֵ֤ן הִכָּה־ צ֨וּר׀ וַיָּז֣וּבוּ מַיִם֮ וּנְחָלִ֪ים יִ֫שְׁטֹ֥פוּ הֲגַם־ לֶ֭חֶם י֣וּכַל תֵּ֑ת אִם־ יָכִ֖ין שְׁאֵ֣ר לְעַמּֽוֹ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H5221]]"
+- "[[H9014]]"
+- "[[H6697H]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H2100G]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H5158A]]"
+- "[[H7857]]"
+- "[[H9008]]"
+- "[[H1571]]"
+- "[[H3899H]]"
+- "[[H3201]]"
+- "[[H5414G]]"
+- "[[H0518H]]"
+- "[[H3559A]]"
+- "[[H7607]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:20**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
 <small><sub>**BSB:**</sub></small>
 When He struck the rock, water gushed out and torrents raged. But can He also give bread or supply His people with meat?”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H5221\|הִכָּה]][[H9014\|־]] [[H6697H\|צ֨וּר]][[H9015\|׀]] [[H9001\|וַ]][[H2100G\|יָּז֣וּבוּ]] [[H4325G\|מַיִם֮]] [[H9002\|וּ]][[H5158A\|נְחָלִ֪ים]] [[H7857\|יִ֫שְׁטֹ֥פוּ]] [[H9008\|הֲ]][[H1571\|גַם]][[H9014\|־]] [[H3899H\|לֶ֭חֶם]] [[H3201\|י֣וּכַל]] [[H5414G\|תֵּ֑ת]] [[H0518H\|אִם]][[H9014\|־]] [[H3559A\|יָכִ֖ין]] [[H7607\|שְׁאֵ֣ר]] [[H9005\|לְ]][[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic ROCK|ROCK]] • [[topic SCOFFING|SCOFFING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.19|<< Psalms 78:19]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.21|Psalms 78:21 >>]]</td></tr></table>
 

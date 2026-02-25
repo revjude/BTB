@@ -1,10 +1,61 @@
+---
+title: Romans 8:18
+type: Verse
+kjv: "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
+bsb: "I consider that our present sufferings are not comparable to the glory that will be revealed in us."
+greek: "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς."
+pericope: "[[Rom.8.18 Future Glory|Future Glory]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3049]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G0514]]"
+- "[[G3588]]"
+- "[[G3804]]"
+- "[[G3568]]"
+- "[[G2540]]"
+- "[[G4314]]"
+- "[[G3195]]"
+- "[[G1391]]"
+- "[[G0601]]"
+- "[[G1519]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 8:18**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I reckon that the sufferings of this present time [are] not worthy [to be compared] with the glory which shall be revealed in us.
 <small><sub>**BSB:**</sub></small>
 I consider that our present sufferings are not comparable to the glory that will be revealed in us.
-<small><sub>**Literal:**</sub></small>
-I reckon for that not comparable the sufferings of the present time [are] to the coming glory to be revealed to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.17|<< Romans 8:17]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.19|Romans 8:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3049\|Λογίζομαι]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G0514\|ἄξια]]  [[G3588\|τὰ]]  [[G3804\|παθήματα]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G2540\|καιροῦ]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G3195\|μέλλουσαν]]  [[G1391\|δόξαν]]  [[G0601\|ἀποκαλυφθῆναι]]  [[G1519\|εἰς]]  [[G3165\|ἡμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GLORY|GLORY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.17|<< Romans 8:17]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.19|Romans 8:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,54 @@
+---
+title: Luke 23:50
+type: Verse
+kjv: "And, behold, there was a man named Joseph, a counseller; and he was a good man, and a just:"
+bsb: "Now there was a Council member named Joseph, a good and righteous man,"
+greek: "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων, καὶ ἀνὴρ ἀγαθὸς καὶ δίκαιος·"
+pericope: "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COUNSELLOR|COUNSELLOR]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G3686]]"
+- "[[G2501I]]"
+- "[[G1010]]"
+- "[[G5225]]"
+- "[[G0018]]"
+- "[[G1342]]"
+texts:
+- NKO
+- n
+---
+
 **Luke 23:50**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, [there was] a man named Joseph, a counseller; [and he was] a good man, and a just:
 <small><sub>**BSB:**</sub></small>
 Now there was a Council member named Joseph, a good and righteous man,
-<small><sub>**Literal:**</sub></small>
-And behold a man named Joseph a Council member being also a man good and righteous;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.49|<< Luke 23:49]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.51|Luke 23:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἀνὴρ]]  [[G3686\|ὀνόματι]]  [[G2501I\|Ἰωσὴφ]]  [[G1010\|βουλευτὴς]]  [[G5225\|ὑπάρχων,]]  [[G2532\|καὶ]]  [[G0435G\|ἀνὴρ]]  [[G0018\|ἀγαθὸς]]  [[G2532\|καὶ]]  [[G1342\|δίκαιος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSELLOR|COUNSELLOR]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.49|<< Luke 23:49]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.51|Luke 23:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

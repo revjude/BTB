@@ -1,10 +1,71 @@
+---
+title: Philippians 2:15
+type: Verse
+kjv: "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
+bsb: "so that you may be blameless and pure, children of God without fault in a crooked and perverse generation, in which you shine as lights in the world"
+greek: "ἵνα γένησθε ἄμεμπτοι καὶ ἀκέραιοι, τέκνα θεοῦ ἄμωμα ἐν μέσον γενεᾶς σκολιᾶς καὶ διεστραμμένης ἐν οἷς φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ,"
+pericope: "[[Phil.2.12 Lights in the World|Lights in the World]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G1096]]"
+- "[[G0273]]"
+- "[[G2532]]"
+- "[[G0185]]"
+- "[[G5043]]"
+- "[[G2316]]"
+- "[[G0299]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1074]]"
+- "[[G4646]]"
+- "[[G1294]]"
+- "[[G3739]]"
+- "[[G5316]]"
+- "[[G5613]]"
+- "[[G5458]]"
+- "[[G2889]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Philippians 2:15**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
 <small><sub>**BSB:**</sub></small>
 so that you may be blameless and pure, children of God without fault in a crooked and perverse generation, in which you shine as lights in the world
-<small><sub>**Literal:**</sub></small>
-so that you may be blameless and innocent, children of God blameless in [the] midst of a generation crooked and perverted among whom you shine as lights in [the] world,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.14|<< Philippians 2:14]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.16|Philippians 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1096\|γένησθε]]  [[G0273\|ἄμεμπτοι]]  [[G2532\|καὶ]]  [[G0185\|ἀκέραιοι,]]  [[G5043\|τέκνα]]  [[G2316\|θεοῦ]]  [[G0299\|ἄμωμα]]  [[G1722\|ἐν]]  [[G3319\|μέσον]]  [[G1074\|γενεᾶς]]  [[G4646\|σκολιᾶς]]  [[G2532\|καὶ]]  [[G1294\|διεστραμμένης]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G5316\|φαίνεσθε]]  [[G5613\|ὡς]]  [[G5458\|φωστῆρες]]  [[G1722\|ἐν]]  [[G2889\|κόσμῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic INFLUENCE|INFLUENCE]] • [[topic LIGHT|LIGHT]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STRIFE|STRIFE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.14|<< Philippians 2:14]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.16|Philippians 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

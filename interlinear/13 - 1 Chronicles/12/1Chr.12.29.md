@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 12:29
+type: Verse
+kjv: "And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul."
+bsb: "From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time."
+hebrew: "וּמִן־ בְּנֵ֧י בִנְיָמִ֛ן אֲחֵ֥י שָׁא֖וּל שְׁלֹ֣שֶׁת אֲלָפִ֑ים וְעַד־ הֵ֙נָּה֙ מַרְבִּיתָ֔ם שֹׁמְרִ֕ים מִשְׁמֶ֖רֶת בֵּ֥ית שָׁאֽוּל׃ ס"
+pericope: "[[1Chr.12.23 David’s Army Grows at Hebron|David’s Army Grows at Hebron]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H0251H]]"
+- "[[H7586G]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H4768]]"
+- "[[H9028]]"
+- "[[H8104G]]"
+- "[[H4931]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:29**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.
 <small><sub>**BSB:**</sub></small>
 From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵ֧י]] [[H1144G\|בִנְיָמִ֛ן]] [[H0251H\|אֲחֵ֥י]] [[H7586G\|שָׁא֖וּל]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֑ים]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֙נָּה֙]] [[H4768\|מַרְבִּיתָ֔]][[H9028\|ם]] [[H8104G\|שֹׁמְרִ֕ים]] [[H4931\|מִשְׁמֶ֖רֶת]] [[H1004M\|בֵּ֥ית]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.28|<< 1 Chronicles 12:28]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.30|1 Chronicles 12:30 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to th
 | [were] keeping  |**<big>&#8207;[[H8104G\|שֹׁמְרִ֕ים]]&#8207; </big>**| sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] duty of  |**<big>&#8207;[[H4931\|מִשְׁמֶ֖רֶת]]&#8207; </big>**| mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Saul  |**<big>&#8207;[[H7586G\|שָׁאֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Saul  |**<big>&#8207;[[H7586G\|שָׁאֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.28|<< 1 Chronicles 12:28]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.30|1 Chronicles 12:30 >>]]</td></tr></table>
 
 

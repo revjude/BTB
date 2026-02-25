@@ -1,10 +1,58 @@
+---
+title: Acts 18:9
+type: Verse
+kjv: "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+bsb: "One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking; do not be silent."
+jesus_said: "Be not afraid, but speak, and hold not thy peace:"
+greek: "Εἶπεν δὲ ὁ κύριος ἐν νυκτὶ δι᾽ ὁράματος τῷ Παύλῳ· μὴ φοβοῦ ἀλλὰ λάλει καὶ μὴ σιωπήσῃς,"
+pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1722]]"
+- "[[G3571]]"
+- "[[G1223]]"
+- "[[G3705]]"
+- "[[G3972G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G0235]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G4623]]"
+texts:
+- NKO
+---
+
 **Acts 18:9**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
 <small><sub>**BSB:**</sub></small>
 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking; do not be silent.
-<small><sub>**Literal:**</sub></small>
-Said now the Lord in [the] night through a vision <the> to Paul; Not do fear but do continue speaking and not may be silent,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.8|<< Acts 18:8]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.10|Acts 18:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1722\|ἐν]]  [[G3571\|νυκτὶ]]  [[G1223\|δι᾽]]  [[G3705\|ὁράματος]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ]]  [[G0235\|ἀλλὰ]]  [[G2980\|λάλει]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4623\|σιωπήσῃς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.8|<< Acts 18:8]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.10|Acts 18:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

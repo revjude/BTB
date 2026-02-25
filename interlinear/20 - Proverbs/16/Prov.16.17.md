@@ -1,8 +1,53 @@
+---
+title: Proverbs 16:17
+type: Verse
+kjv: "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul."
+bsb: "The highway of the upright leads away from evil; he who guards his way protects his life."
+hebrew: "מְסִלַּ֣ת יְ֭שָׁרִים ס֣וּר מֵרָ֑ע שֹׁמֵ֥ר נַ֝פְשׁ֗וֹ נֹצֵ֥ר דַּרְכּֽוֹ׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H4546]]"
+- "[[H3477G]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H7451H]]"
+- "[[H8104H]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H5341]]"
+- "[[H1870G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:17**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The highway of the upright [is] to depart from evil: he that keepeth his way preserveth his soul.
 <small><sub>**BSB:**</sub></small>
 The highway of the upright leads away from evil; he who guards his way protects his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H4546\|מְסִלַּ֣ת]] [[H3477G\|יְ֭שָׁרִים]] [[H5493H\|ס֣וּר]] [[H9006\|מֵ]][[H7451H\|רָ֑ע]] [[H8104H\|שֹׁמֵ֥ר]] [[H5315H\|נַ֝פְשׁ֗]][[H9023\|וֹ]] [[H5341\|נֹצֵ֥ר]] [[H1870G\|דַּרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGHWAYS|HIGHWAYS]] • [[topic HOLINESS|HOLINESS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 

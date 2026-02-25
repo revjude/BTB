@@ -1,8 +1,55 @@
+---
+title: Song of Solomon 4:2
+type: Verse
+kjv: "Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them."
+bsb: "Your teeth are like a flock of newly shorn sheep coming up from the washing; each has its twin, and not one of them is lost."
+hebrew: "שִׁנַּ֙יִךְ֙ כְּעֵ֣דֶר הַקְּצוּב֔וֹת שֶׁעָל֖וּ מִן־ הָרַחְצָ֑ה שֶׁכֻּלָּם֙ מַתְאִימ֔וֹת וְשַׁכֻּלָ֖ה אֵ֥ין בָּהֶֽם׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H8127G]]"
+- "[[H9022]]"
+- "[[H9004]]"
+- "[[H5739]]"
+- "[[H9009]]"
+- "[[H7094]]"
+- "[[H9007]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7367]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H8382]]"
+- "[[H9002]]"
+- "[[H7909]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:2**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy teeth [are] like a flock [of sheep that are even] shorn, which came up from the washing; whereof every one bear twins, and none [is] barren among them.
 <small><sub>**BSB:**</sub></small>
 Your teeth are like a flock of newly shorn sheep coming up from the washing; each has its twin, and not one of them is lost.
+<small><sub>**Hebrew:**</sub></small>
+[[H8127G\|שִׁנַּ֙יִ]][[H9022\|ךְ֙]] [[H9004\|כְּ]][[H5739\|עֵ֣דֶר]] [[H9009\|הַ]][[H7094\|קְּצוּב֔וֹת]] [[H9007\|שֶׁ]][[H5927G\|עָל֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7367\|רַחְצָ֑ה]] [[H9007\|שֶׁ]][[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H8382\|מַתְאִימ֔וֹת]] [[H9002\|וְ]][[H7909\|שַׁכֻּלָ֖ה]] [[H0369\|אֵ֥ין]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.1|<< Song of Solomon 4:1]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.3|Song of Solomon 4:3 >>]]</td></tr></table>
 

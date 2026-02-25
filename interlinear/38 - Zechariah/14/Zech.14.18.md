@@ -1,8 +1,71 @@
+---
+title: Zechariah 14:18
+type: Verse
+kjv: "And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles."
+bsb: "And if the people of Egypt will not go up and enter in, then the rain will not fall on them; this will be the plague with which the LORD strikes the nations who do not go up to celebrate the Feast of Tabernacles."
+hebrew: "וְאִם־ מִשְׁפַּ֨חַת מִצְרַ֧יִם לֹֽא־ תַעֲלֶ֛ה וְלֹ֥א בָאָ֖ה וְלֹ֣א עֲלֵיהֶ֑ם תִּֽהְיֶ֣ה הַמַּגֵּפָ֗ה אֲשֶׁ֨ר יִגֹּ֤ף יְהוָה֙ אֶת־ הַגּוֹיִ֔ם אֲשֶׁר֙ לֹ֣א יַֽעֲל֔וּ לָחֹ֖ג אֶת־ חַ֥ג הַסֻּכּֽוֹת׃"
+pericope: "[[Zech.14.16 All Nations Will Worship the King|All Nations Will Worship the King]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4940]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4046]]"
+- "[[H0834A]]"
+- "[[H5062]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H1471A]]"
+- "[[H9005]]"
+- "[[H2287]]"
+- "[[H2282]]"
+- "[[H5521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:18**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the family of Egypt go not up, and come not, that [have] no [rain]; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles.
 <small><sub>**BSB:**</sub></small>
 And if the people of Egypt will not go up and enter in, then the rain will not fall on them; this will be the plague with which the LORD strikes the nations who do not go up to celebrate the Feast of Tabernacles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4940\|מִשְׁפַּ֨חַת]] [[H4714G\|מִצְרַ֧יִם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|תַעֲלֶ֛ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0935G\|בָאָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H1961\|תִּֽהְיֶ֣ה]] [[H9009\|הַ]][[H4046\|מַּגֵּפָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5062\|יִגֹּ֤ף]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H5927G\|יַֽעֲל֔וּ]] [[H9005\|לָ]][[H2287\|חֹ֖ג]] [[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H5521\|סֻּכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.17|<< Zechariah 14:17]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.19|Zechariah 14:19 >>]]</td></tr></table>
 

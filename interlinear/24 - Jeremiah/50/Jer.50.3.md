@@ -1,8 +1,64 @@
+---
+title: Jeremiah 50:3
+type: Verse
+kjv: "For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast."
+bsb: "For a nation from the north will come against her; it will make her land a desolation. No one will live in it; both man and beast will flee.”"
+hebrew: "כִּ֣י עָלָה֩ עָלֶ֨יהָ גּ֜וֹי מִצָּפ֗וֹן הֽוּא־ יָשִׁ֤ית אֶת־ אַרְצָהּ֙ לְשַׁמָּ֔ה וְלֹֽא־ יִהְיֶ֥ה יוֹשֵׁ֖ב בָּ֑הּ מֵאָדָ֥ם וְעַד־ בְּהֵמָ֖ה נָ֥דוּ הָלָֽכוּ׃"
+pericope: "[[Jer.50.1 A Prophecy against Babylon|A Prophecy against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3588A]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H7896G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0120G]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H5110]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:3**<big><big>[[Jer.50.1 A Prophecy against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.
 <small><sub>**BSB:**</sub></small>
 For a nation from the north will come against her; it will make her land a desolation. No one will live in it; both man and beast will flee.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5927G\|עָלָה֩]] [[H5921A\|עָלֶ֨י]][[H9034\|הָ]] [[H1471A\|גּ֜וֹי]] [[H9006\|מִ]][[H6828G\|צָּפ֗וֹן]] [[H1931\|הֽוּא]][[H9014\|־]] [[H7896G\|יָשִׁ֤ית]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ]][[H9024\|הּ֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9006\|מֵ]][[H0120G\|אָדָ֥ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָ֖ה]] [[H5110\|נָ֥דוּ]] [[H1980G\|הָלָֽכוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.2|<< Jeremiah 50:2]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.4|Jeremiah 50:4 >>]]</td></tr></table>
 

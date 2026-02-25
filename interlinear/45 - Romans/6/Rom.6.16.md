@@ -1,10 +1,61 @@
+---
+title: Romans 6:16
+type: Verse
+kjv: "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?"
+bsb: "Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?"
+greek: "οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην;"
+pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3739]]"
+- "[[G3936]]"
+- "[[G1438]]"
+- "[[G1401]]"
+- "[[G1519]]"
+- "[[G5218]]"
+- "[[G1510]]"
+- "[[G5219]]"
+- "[[G2273]]"
+- "[[G0266]]"
+- "[[G2288]]"
+- "[[G2228]]"
+- "[[G1343]]"
+texts:
+- NKO
+---
+
 **Romans 6:16**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
 <small><sub>**BSB:**</sub></small>
 Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?
-<small><sub>**Literal:**</sub></small>
-Not know you that to whom you yield yourselves [as] slaves for obedience, slaves you are to him whom you obey, whether of sin to death or of obedience to righteousness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.15|<< Romans 6:15]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.17|Romans 6:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G3739\|ᾧ]]  [[G3936\|παριστάνετε]]  [[G1438\|ἑαυτοὺς]]  [[G1401\|δούλους]]  [[G1519\|εἰς]]  [[G5218\|ὑπακοήν,]]  [[G1401\|δοῦλοί]]  [[G1510\|ἐστε]]  [[G3739\|ᾧ]]  [[G5219\|ὑπακούετε,]]  [[G2273\|ἤτοι]]  [[G0266\|ἁμαρτίας]]  [[G1519\|εἰς]]  [[G2288\|θάνατον]]  [[G2228\|ἢ]]  [[G5218\|ὑπακοῆς]]  [[G1519\|εἰς]]  [[G1343\|δικαιοσύνην;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSECRATION|CONSECRATION]] • [[topic DEATH|DEATH]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.15|<< Romans 6:15]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.17|Romans 6:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

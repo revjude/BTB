@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rescue of Peter
+type: Pericope
 pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Acts
 chapter: 12
 book/chapter: "[[Acts.12|Acts 12]]"
-genre:
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 15
 verses:
 - "[[Acts.12.5]]"
 - "[[Acts.12.6]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Acts.12.19]]"
 ---
 
-[[Acts.12|Acts 12:5 - Acts 12:19]]
+<small>[[Acts.12|Acts 12:5-19]]</small>
 *The Rescue of Peter*
 
 [[Acts.12.5|5]] Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.

@@ -1,10 +1,59 @@
+---
+title: Mark 1:9
+type: Verse
+kjv: "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan."
+bsb: "In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan."
+greek: "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ τῆς Γαλιλαίας καὶ ἐβαπτίσθη εἰς τὸν Ἰορδάνην ὑπὸ Ἰωάννου."
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JORDAN|JORDAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2064]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G3478]]"
+- "[[G1056G]]"
+- "[[G0907]]"
+- "[[G1519]]"
+- "[[G2446]]"
+- "[[G5259G]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Mark 1:9**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
 <small><sub>**BSB:**</sub></small>
 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
-<small><sub>**Literal:**</sub></small>
-And it came to pass in those <the> days [that] came Jesus from Nazareth <the> of Galilee and was baptized in the Jordan by John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.8|<< Mark 1:8]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.10|Mark 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G2064\|ἦλθεν]]  [[G2424G\|Ἰησοῦς]]  [[G0575\|ἀπὸ]]  [[G3478\|Ναζαρὲτ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G2532\|καὶ]]  [[G0907\|ἐβαπτίσθη]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2446\|Ἰορδάνην]]  [[G5259G\|ὑπὸ]]  [[G2491G\|Ἰωάννου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JORDAN|JORDAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.8|<< Mark 1:8]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.10|Mark 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

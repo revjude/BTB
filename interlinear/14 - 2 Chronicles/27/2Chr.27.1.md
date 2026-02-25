@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 27:1
+type: Verse
+kjv: "Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also was Jerushah, the daughter of Zadok."
+bsb: "Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ יוֹתָ֣ם בְּמָלְכ֔וֹ וְשֵׁשׁ־ עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּֽירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְרוּשָׁ֖ה בַּת־ צָדֽוֹק׃"
+pericope: "[[2Chr.27.1 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 27
+book/chapter: "[[2Chr.27|2 Chronicles 27]]"
+chronological_order: 608
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JERUSHA|JERUSHA]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H3147H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3388]]"
+- "[[H1323G]]"
+- "[[H6659H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 27:1**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jotham [was] twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also [was] Jerushah, the daughter of Zadok.
 <small><sub>**BSB:**</sub></small>
 Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H3147H\|יוֹתָ֣ם]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3388\|יְרוּשָׁ֖ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H6659H\|צָדֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSHA|JERUSHA]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.23|<< 2 Chronicles 26:23]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.2|2 Chronicles 27:2 >>]]</td></tr></table>
 

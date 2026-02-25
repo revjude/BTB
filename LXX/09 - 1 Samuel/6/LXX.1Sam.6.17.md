@@ -1,6 +1,70 @@
+---
+title: LXX 1 Samuel 6:17
+type: Verse
+lxx: "And these are the gold buttocks which the Philistines gave back for the torment to the lord --  for Ashdod one,  Gaza one,  Ashkelon one,  Gath one,  Ekron one."
+greek: "και αύται αι έδραι αι χρυσαί ας απέδωκαν οι αλλόφυλοι υπέρ της βασάνου τω κυρίω της Αζώτου μίαν της Γάζης μίαν της Ασκάλωνος μίαν της Γεθ μίαν της Ακαρών μίαν"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic ASHKELON|ASHKELON]]"
+- "[[topic GATH|GATH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TUMOR|TUMOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G7045]]"
+- "[[G3588]]"
+- "[[G5552]]"
+- "[[G3739]]"
+- "[[G0591]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G0931]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G0108]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G1048]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[H0831]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[H1661]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[H6138]]"
+- "[[G1520]]"
+---
+
 **LXX 1 Samuel 6:17** 
 <small><sub>**LXX:**</sub></small>
 And these are the gold buttocks which the Philistines gave back for the torment to the <span class="smallcaps">lord</span> --  for Ashdod one,  Gaza one,  Ashkelon one,  Gath one,  Ekron one. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3778\|αύται]] [[G3588\|αι]] [[G7045\|έδραι]] [[G3588\|αι]] [[G5552\|χρυσαί]] [[G3739\|ας]] [[G0591\|απέδωκαν]] [[G3588\|οι]] [[G0246\|αλλόφυλοι]] [[G5228\|υπέρ]] [[G3588\|της]] [[G0931\|βασάνου]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G3588\|της]] [[G0108\|Αζώτου]] [[G1520\|μίαν]] [[G3588\|της]] [[G1048\|Γάζης]] [[G1520\|μίαν]] [[G3588\|της]] [[H0831\|Ασκάλωνος]] [[G1520\|μίαν]] [[G3588\|της]] [[H1661\|Γεθ]] [[G1520\|μίαν]] [[G3588\|της]] [[H6138\|Ακαρών]] [[G1520\|μίαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHDOD|ASHDOD]] • [[topic ASHKELON|ASHKELON]] • [[topic GATH|GATH]] • [[topic MIRACLES|MIRACLES]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TUMOR|TUMOR]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
 
@@ -36,6 +100,6 @@ And these are the gold buttocks which the Philistines gave back for the torment 
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | Ekron | **<big>[[H6138\|Ακαρών]]</big>** |
 | one. | **<big>[[G1520\|μίαν]]</big>** |
-[[1Sam.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
 
 

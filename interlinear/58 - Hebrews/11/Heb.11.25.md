@@ -1,10 +1,61 @@
+---
+title: Hebrews 11:25
+type: Verse
+kjv: "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
+bsb: "He chose to suffer oppression with God’s people rather than to experience the fleeting enjoyment of sin."
+greek: "μᾶλλον ἑλόμενος συγκακουχεῖσθαι τῷ λαῷ τοῦ θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν·"
+pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3123H]]"
+- "[[G0138]]"
+- "[[G4778]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2316]]"
+- "[[G2228]]"
+- "[[G4340]]"
+- "[[G2192]]"
+- "[[G0266]]"
+- "[[G0619]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:25**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
 <small><sub>**BSB:**</sub></small>
 He chose to suffer oppression with God’s people rather than to experience the fleeting enjoyment of sin.
-<small><sub>**Literal:**</sub></small>
-rather having chosen to suffer affliction with the people <the> of God than [the] temporary to have of sin enjoyment;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.24|<< Hebrews 11:24]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.26|Hebrews 11:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3123H\|μᾶλλον]]  [[G0138\|ἑλόμενος]]  [[G4778\|συγκακουχεῖσθαι]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2228\|ἢ]]  [[G4340\|πρόσκαιρον]]  [[G2192\|ἔχειν]]  [[G0266\|ἁμαρτίας]]  [[G0619\|ἀπόλαυσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PLEASURE|PLEASURE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic YOUNG MEN|YOUNG MEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.24|<< Hebrews 11:24]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.26|Hebrews 11:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:25** is...
 > $\quad$ alluding to: [[LXX.Exod.2.11|Exod 2:11]]

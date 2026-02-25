@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 13:12
+type: Verse
+kjv: "Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering."
+bsb: "I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not sought the favor of the LORD.’ So I felt compelled to offer the burnt offering.”"
+hebrew: "וָאֹמַ֗ר עַ֠תָּה יֵרְד֨וּ פְלִשְׁתִּ֤ים אֵלַי֙ הַגִּלְגָּ֔ל וּפְנֵ֥י יְהוָ֖ה לֹ֣א חִלִּ֑יתִי וָֽאֶתְאַפַּ֔ק וָאַעֲלֶ֖ה הָעֹלָֽה׃ ס"
+pericope: "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6258]]"
+- "[[H3381]]"
+- "[[H6430G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H1537G]]"
+- "[[H9002]]"
+- "[[H6440L]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H2470B]]"
+- "[[H0662]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 13:12**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering.
 <small><sub>**BSB:**</sub></small>
 I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not sought the favor of the LORD.’ So I felt compelled to offer the burnt offering.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H6258\|עַ֠תָּה]] [[H3381\|יֵרְד֨וּ]] [[H6430G\|פְלִשְׁתִּ֤ים]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֔ל]] [[H9002\|וּ]][[H6440L\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֣א]] [[H2470B\|חִלִּ֑יתִי]] [[H9001\|וָֽ]][[H0662\|אֶתְאַפַּ֔ק]] [[H9001\|וָ]][[H5927I\|אַעֲלֶ֖ה]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.11|<< 1 Samuel 13:11]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.13|1 Samuel 13:13 >>]]</td></tr></table>
 
@@ -20,7 +79,7 @@ I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not
 | I have entreated  |**<big>&#8207;[[H2470B\|חִלִּ֑יתִי]]&#8207; </big>**| chi.Li.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I forced myself  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H0662\|אֶתְאַפַּ֔ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'et.'a.Pak<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I offered up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5927I\|אַעֲלֶ֖ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.'a.Leh<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.11|<< 1 Samuel 13:11]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.13|1 Samuel 13:13 >>]]</td></tr></table>
 
 

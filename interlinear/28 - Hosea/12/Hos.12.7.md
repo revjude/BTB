@@ -1,8 +1,55 @@
+---
+title: Hosea 12:7
+type: Verse
+kjv: "He is a merchant, the balances of deceit are in his hand: he loveth to oppress."
+bsb: "A merchant loves to defraud with dishonest scales in his hands."
+hebrew: "כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H3667B]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3976]]"
+- "[[H4820]]"
+- "[[H9005]]"
+- "[[H6231]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:7**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He is] a merchant, the balances of deceit [are] in his hand: he loveth to oppress.
 <small><sub>**BSB:**</sub></small>
 A merchant loves to defraud with dishonest scales in his hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3667B\|כְּנַ֗עַן]] [[H9003\|בְּ]][[H3027G\|יָד֛]][[H9023\|וֹ]] [[H3976\|מֹאזְנֵ֥י]] [[H4820\|מִרְמָ֖ה]] [[H9005\|לַ]][[H6231\|עֲשֹׁ֥ק]] [[H0157G\|אָהֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic COMMERCE|COMMERCE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEASURE|MEASURE]] • [[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.6|<< Hosea 12:6]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.8|Hosea 12:8 >>]]</td></tr></table>
 

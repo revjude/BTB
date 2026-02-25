@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 18:1
+type: Verse
+kjv: "Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab."
+bsb: "Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage."
+hebrew: "וַיְהִ֧י לִֽיהוֹשָׁפָ֛ט עֹ֥שֶׁר וְכָב֖וֹד לָרֹ֑ב וַיִּתְחַתֵּ֖ן לְאַחְאָֽב׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3092I]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H7230]]"
+- "[[H2859B]]"
+- "[[H0256G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:1**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.
 <small><sub>**BSB:**</sub></small>
 Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H9005\|לִֽ]][[H3092I\|יהוֹשָׁפָ֛ט]] [[H6239\|עֹ֥שֶׁר]] [[H9002\|וְ]][[H3519\|כָב֖וֹד]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H9001\|וַ]][[H2859B\|יִּתְחַתֵּ֖ן]] [[H9005\|לְ]][[H0256G\|אַחְאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.19|<< 2 Chronicles 17:19]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.2|2 Chronicles 18:2 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Obadiah 1:8
+type: Verse
+kjv: "Shall I not in that day, saith the LORD, even destroy the wise men out of Edom, and understanding out of the mount of Esau?"
+bsb: "In that day, declares the LORD, will I not destroy the wise men of Edom and the men of understanding in the mountains of Esau?"
+hebrew: "הֲל֛וֹא בַּיּ֥וֹם הַה֖וּא נְאֻם יְהוָ֑ה וְהַאֲבַדְתִּ֤י חֲכָמִים֙ מֵֽאֱד֔וֹם וּתְבוּנָ֖ה מֵהַ֥ר עֵשָֽׂו׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H2450]]"
+- "[[H9006]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H8394]]"
+- "[[H2022G]]"
+- "[[H6215I]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Obadiah 1:8**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I not in that day, saith the LORD, even destroy the wise [men] out of Edom, and understanding out of the mount of Esau?
 <small><sub>**BSB:**</sub></small>
 In that day, declares the LORD, will I not destroy the wise men of Edom and the men of understanding in the mountains of Esau?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֛וֹא]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H5002\|נְאֻם]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H0006\|הַאֲבַדְתִּ֤י]] [[H2450\|חֲכָמִים֙]] [[H9006\|מֵֽ]][[H0123G\|אֱד֔וֹם]] [[H9002\|וּ]][[H8394\|תְבוּנָ֖ה]] [[H9006\|מֵ]][[H2022G\|הַ֥ר]] [[H6215I\|עֵשָֽׂו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.7|<< Obadiah 1:7]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.9|Obadiah 1:9 >>]]</td></tr></table>
 

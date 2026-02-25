@@ -1,8 +1,72 @@
+---
+title: Jeremiah 16:15
+type: Verse
+kjv: "But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers."
+bsb: "Instead they will say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of the north and all the other lands to which He had banished them.’ For I will return them to their land that I gave to their forefathers."
+hebrew: "כִּ֣י אִם־ חַי־ יְהוָ֗ה אֲשֶׁ֨ר הֶעֱלָ֜ה אֶת־ בְּנֵ֤י יִשְׂרָאֵל֙ מֵאֶ֣רֶץ צָפ֔וֹן וּמִכֹּל֙ הָֽאֲרָצ֔וֹת אֲשֶׁ֥ר הִדִּיחָ֖ם שָׁ֑מָּה וַהֲשִֽׁבֹתִים֙ עַל־ אַדְמָתָ֔ם אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבוֹתָֽם׃ ס"
+pericope: "[[Jer.16.14 God Will Restore Israel|God Will Restore Israel]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISPERSION|DISPERSION]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5080]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 16:15**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
 <small><sub>**BSB:**</sub></small>
 Instead they will say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of the north and all the other lands to which He had banished them.’ For I will return them to their land that I gave to their forefathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5927H\|הֶעֱלָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֔וֹן]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּל֙]] [[H9009\|הָֽ]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H5080\|הִדִּיחָ֖]][[H9038\|ם]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9001\|וַ]][[H7725G\|הֲשִֽׁבֹתִי]][[H9038\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISPERSION|DISPERSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.14|<< Jeremiah 16:14]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.16|Jeremiah 16:16 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ Instead they will say, ‘As surely as the LORD lives, who brought the Israelite
 | land their  |**<big>&#8207;[[H0127G\|אַדְמָתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'ad.ma.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I gave  |**<big>&#8207;[[H5414G\|נָתַ֖תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to ancestors their  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0001G\|אֲבוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to ancestors their  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0001G\|אֲבוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.14|<< Jeremiah 16:14]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.16|Jeremiah 16:16 >>]]</td></tr></table>
 
 

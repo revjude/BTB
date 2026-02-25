@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 7:17
+type: Verse
+kjv: "And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;"
+bsb: "And as for you, if you walk before Me as your father David walked, doing all I have commanded you, and if you keep My statutes and ordinances,"
+hebrew: "וְאַתָּ֞ה אִם־ תֵּלֵ֣ךְ לְפָנַ֗י כַּאֲשֶׁ֤ר הָלַךְ֙ דָּוִ֣יד אָבִ֔יךָ וְלַעֲשׂ֕וֹת כְּכֹ֖ל אֲשֶׁ֣ר צִוִּיתִ֑יךָ וְחֻקַּ֥י וּמִשְׁפָּטַ֖י תִּשְׁמֽוֹר׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H8104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:17**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;
 <small><sub>**BSB:**</sub></small>
 And as for you, if you walk before Me as your father David walked, doing all I have commanded you, and if you keep My statutes and ordinances,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H0518A\|אִם]][[H9014\|־]] [[H1980I\|תֵּלֵ֣ךְ]] [[H9005\|לְ]][[H6440G\|פָנַ֗]][[H9020\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H1980I\|הָלַךְ֙]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֕וֹת]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֑י]][[H9031\|ךָ]] [[H9002\|וְ]][[H2706G\|חֻקַּ֥]][[H9020\|י]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H8104G\|תִּשְׁמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.16|<< 2 Chronicles 7:16]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.18|2 Chronicles 7:18 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Numbers 21:29
+type: Verse
+kjv: "Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites."
+bsb: "Woe to you, O Moab! You are destroyed, O people of Chemosh! He gave up his sons as refugees, and his daughters into captivity to Sihon king of the Amorites."
+hebrew: "אוֹי־ לְךָ֣ מוֹאָ֔ב אָבַ֖דְתָּ עַם־ כְּמ֑וֹשׁ נָתַ֨ן בָּנָ֤יו פְּלֵיטִם֙ וּבְנֹתָ֣יו בַּשְּׁבִ֔ית לְמֶ֥לֶךְ אֱמֹרִ֖י סִיחֽוֹן׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic AR|AR]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H0188]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4124G]]"
+- "[[H0006]]"
+- "[[H5971A]]"
+- "[[H3645]]"
+- "[[H5414I]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6412B]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9003]]"
+- "[[H7622]]"
+- "[[H4428G]]"
+- "[[H0567]]"
+- "[[H5511]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:29**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to thee, Moab! thou art undone, O people of Chemosh: he hath given his sons that escaped, and his daughters, into captivity unto Sihon king of the Amorites.
 <small><sub>**BSB:**</sub></small>
 Woe to you, O Moab! You are destroyed, O people of Chemosh! He gave up his sons as refugees, and his daughters into captivity to Sihon king of the Amorites.
+<small><sub>**Hebrew:**</sub></small>
+[[H0188\|אוֹי]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H4124G\|מוֹאָ֔ב]] [[H0006\|אָבַ֖דְתָּ]] [[H5971A\|עַם]][[H9014\|־]] [[H3645\|כְּמ֑וֹשׁ]] [[H5414I\|נָתַ֨ן]] [[H1121A\|בָּנָ֤י]][[H9023\|ו]] [[H6412B\|פְּלֵיטִם֙]] [[H9002\|וּ]][[H1323G\|בְנֹתָ֣י]][[H9023\|ו]] [[H9003\|בַּ]][[H7622\|שְּׁבִ֔ית]] [[H9005\|לְ]][[H4428G\|מֶ֥לֶךְ]] [[H0567\|אֱמֹרִ֖י]] [[H5511\|סִיחֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic AR|AR]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic MOABITES|MOABITES]] • [[topic SIHON|SIHON]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.28|<< Numbers 21:28]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.30|Numbers 21:30 >>]]</td></tr></table>
 

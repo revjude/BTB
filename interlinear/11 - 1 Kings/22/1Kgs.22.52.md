@@ -1,8 +1,66 @@
+---
+title: 1 Kings 22:52
+type: Verse
+kjv: "And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:"
+bsb: "And he did evil in the sight of the LORD and walked in the ways of his father and mother and of Jeroboam son of Nebat, who had caused Israel to sin."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיֵּ֗לֶךְ בְּדֶ֤רֶךְ אָבִיו֙ וּבְדֶ֣רֶךְ אִמּ֔וֹ וּבְדֶ֙רֶךְ֙ יָרָבְעָ֣ם בֶּן־ נְבָ֔ט אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.22.51 Ahaziah Reigns in Israel|Ahaziah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5028]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:52**<big><big>[[1Kgs.22.51 Ahaziah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD and walked in the ways of his father and mother and of Jeroboam son of Nebat, who had caused Israel to sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1980I\|יֵּ֗לֶךְ]] [[H9003\|בְּ]][[H1870G\|דֶ֤רֶךְ]] [[H0001G\|אָבִי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9003\|בְ]][[H1870G\|דֶ֣רֶךְ]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H1870G\|דֶ֙רֶךְ֙]] [[H3379G\|יָרָבְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֔ט]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHILDREN|CHILDREN]] • [[topic INFLUENCE|INFLUENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.51|<< 1 Kings 22:51]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.53|1 Kings 22:53 >>]]</td></tr></table>
 

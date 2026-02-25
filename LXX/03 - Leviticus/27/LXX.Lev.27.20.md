@@ -1,6 +1,60 @@
+---
+title: LXX Leviticus 27:20
+type: Verse
+lxx: "And if he should not ransom the field, and should give back the field to another man, no longer shall he ransom it."
+greek: "εάν δε μη λυτρώται τον αγρόν και απόδωται τον αγρόν ανθρώπω ετέρω ουκέτι μη λυτρώσηται αυτόν"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G3084]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G2532]]"
+- "[[G0591]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G0444]]"
+- "[[G2087]]"
+- "[[G3765]]"
+- "[[G3361]]"
+- "[[G3084]]"
+- "[[G1473]]"
+---
+
 **LXX Leviticus 27:20** 
 <small><sub>**LXX:**</sub></small>
 And if he should not ransom the field, and should give back the field to another man, no longer shall he ransom it. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G3361\|μη]] [[G3084\|λυτρώται]] [[G3588\|τον]] [[G0068\|αγρόν]] [[G2532\|και]] [[G0591\|απόδωται]] [[G3588\|τον]] [[G0068\|αγρόν]] [[G0444\|ανθρώπω]] [[G2087\|ετέρω]] [[G3765\|ουκέτι]] [[G3361\|μη]] [[G3084\|λυτρώσηται]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.19|<< Leviticus 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.21|Leviticus 27:21 >>]]</td></tr></table>
 
@@ -20,6 +74,6 @@ And if he should not ransom the field, and should give back the field to another
 | no longer | **<big>[[G3765\|ουκέτι]]</big>** **<big>[[G3361\|μη]]</big>** |
 | shall he ransom | **<big>[[G3084\|λυτρώσηται]]</big>** |
 | it. | **<big>[[G1473\|αυτόν]]</big>** |
-[[Lev.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.19|<< Leviticus 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.21|Leviticus 27:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.19|<< Leviticus 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.21|Leviticus 27:21 >>]]</td></tr></table>
 
 

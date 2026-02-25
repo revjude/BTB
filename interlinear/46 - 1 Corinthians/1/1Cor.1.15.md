@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 1:15
+type: Verse
+kjv: "Lest any should say that I had baptized in mine own name."
+bsb: "so no one can say that you were baptized into my name."
+greek: "ἵνα μή τις εἴπῃ ὅτι εἰς τὸ ἐμὸν ὄνομα ἐβαπτίσθητε."
+pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3686]]"
+- "[[G0907]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Corinthians 1:15**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Lest any should say that I had baptized in mine own name.
 <small><sub>**BSB:**</sub></small>
 so no one can say that you were baptized into my name.
-<small><sub>**Literal:**</sub></small>
-so that not anyone may say that into <the> my name you were baptized.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.14|<< 1 Corinthians 1:14]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.16|1 Corinthians 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G2036\|εἴπῃ]]  [[G3754G\|ὅτι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1473\|ἐμὸν]]  [[G3686\|ὄνομα]]  [[G0907\|ἐβαπτίσθητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.14|<< 1 Corinthians 1:14]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.16|1 Corinthians 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Numbers 26:47
+type: Verse
+kjv: "These are the families of the sons of Asher according to those that were numbered of them; who were fifty and three thousand and four hundred."
+bsb: "These were the clans of Asher, and their registration numbered 53,400."
+hebrew: "אֵ֛לֶּה מִשְׁפְּחֹ֥ת בְּנֵי־ אָשֵׁ֖ר לִפְקֻדֵיהֶ֑ם שְׁלֹשָׁ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃ ס"
+pericope: "[[Num.26.44 The Tribe of Asher|The Tribe of Asher]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ASHER|ASHER]]"
+strongs:
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0836]]"
+- "[[H9005]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H7969]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 26:47**<big><big>[[Num.26.44 The Tribe of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of the sons of Asher according to those that were numbered of them; [who were] fifty and three thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
 These were the clans of Asher, and their registration numbered 53,400.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H0836\|אָשֵׁ֖ר]] [[H9005\|לִ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H7969\|שְׁלֹשָׁ֧ה]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.46|<< Numbers 26:46]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.48|Numbers 26:48 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ These were the clans of Asher, and their registration numbered 53,400.
 | and fifty  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2572\|חֲמִשִּׁ֛ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֥ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.46|<< Numbers 26:46]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.48|Numbers 26:48 >>]]</td></tr></table>
 
 

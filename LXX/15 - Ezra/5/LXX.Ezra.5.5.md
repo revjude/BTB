@@ -1,6 +1,63 @@
+---
+title: LXX Ezra 5:5
+type: Verse
+lxx: "But the eyes  of God became upon the captivity of Judah, and they did not cause them to cease work until the decree  was carried to Darius. And then it was given to the tribute-gatherer concerning this."
+greek: "και οι οφθαλμοί του θεού εγένοντο επί την αιχμαλωσίαν Ιούδα και ου κατήργησαν αυτούς έως γνώμη τω Δαρείω απηνέχθη και τότε δίδωσι τω φορολόγω περί τούτου"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0161]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2673]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G1106]]"
+- "[[G3588]]"
+- "[[H1868]]"
+- "[[G0667]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G9661]]"
+- "[[G4012]]"
+- "[[G3778]]"
+---
+
 **LXX Ezra 5:5** 
 <small><sub>**LXX:**</sub></small>
 But the eyes  of God became upon the captivity of Judah, and they did not cause them to cease work until \[the\] decree  \[was\] carried to Darius. And then it was given to the tribute-gatherer concerning this. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G3588\|του]] [[G2316\|θεού]] [[G1096\|εγένοντο]] [[G1909\|επί]] [[G3588\|την]] [[G0161\|αιχμαλωσίαν]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G3756\|ου]] [[G2673\|κατήργησαν]] [[G1473\|αυτούς]] [[G2193\|έως]] [[G1106\|γνώμη]] [[G3588\|τω]] [[H1868\|Δαρείω]] [[G0667\|απηνέχθη]] [[G2532\|και]] [[G5119\|τότε]] [[G1325\|δίδωσι]] [[G3588\|τω]] [[G9661\|φορολόγω]] [[G4012\|περί]] [[G3778\|τούτου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
 
@@ -30,6 +87,6 @@ But the eyes  of God became upon the captivity of Judah, and they did not cause 
 | tribute-gatherer | **<big>[[G9661\|φορολόγω]]</big>** |
 | concerning | **<big>[[G4012\|περί]]</big>** |
 | this. | **<big>[[G3778\|τούτου]]</big>** |
-[[Ezra.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
 
 

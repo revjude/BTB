@@ -1,10 +1,68 @@
+---
+title: Luke 13:16
+type: Verse
+kjv: "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+bsb: "Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?”"
+jesus_said: "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+greek: "ταύτην δὲ θυγατέρα Ἀβραὰμ οὖσαν ἣν ἔδησεν ὁ σατανᾶς ἰδοὺ δέκα καὶ ὀκτὼ ἔτη, οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου;¶"
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G2364]]"
+- "[[G0011]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G1210]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G2400]]"
+- "[[G1176]]"
+- "[[G2532]]"
+- "[[G3638]]"
+- "[[G2094]]"
+- "[[G3756]]"
+- "[[G1163]]"
+- "[[G3089]]"
+- "[[G0575]]"
+- "[[G1199]]"
+- "[[G2250]]"
+- "[[G4521]]"
+texts:
+- NKO
+---
+
 **Luke 13:16**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?
 <small><sub>**BSB:**</sub></small>
 Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?”
-<small><sub>**Literal:**</sub></small>
-This now a daughter of Abraham being whom has bound <the> Satan behold ten and eight years, not she was being able to be loosed from <the> bond this on the day of the Sabbath?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.15|<< Luke 13:15]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.17|Luke 13:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταύτην]]  [[G1161\|δὲ]]  [[G2364\|θυγατέρα]]  [[G0011\|Ἀβραὰμ]]  [[G1510\|οὖσαν]]  [[G3739\|ἣν]]  [[G1210\|ἔδησεν]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G2400\|ἰδοὺ]]  [[G1176\|δέκα]]  [[G2532\|καὶ]]  [[G3638\|ὀκτὼ]]  [[G2094\|ἔτη,]]  [[G3756\|οὐκ]]  [[G1163\|ἔδει]]  [[G3089\|λυθῆναι]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G1199\|δεσμοῦ]]  [[G3778\|τούτου]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τοῦ]]  [[G4521\|σαββάτου;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.15|<< Luke 13:15]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.17|Luke 13:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

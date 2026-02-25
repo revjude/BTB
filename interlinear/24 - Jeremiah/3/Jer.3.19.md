@@ -1,8 +1,74 @@
+---
+title: Jeremiah 3:19
+type: Verse
+kjv: "But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me."
+bsb: "Then I said, ‘How I long to make you My sons and give you a desirable land, the most beautiful inheritance of all the nations!’ I thought you would call Me ‘Father’ and never turn away from following Me."
+hebrew: "וְאָנֹכִ֣י אָמַ֗רְתִּי אֵ֚יךְ אֲשִׁיתֵ֣ךְ בַּבָּנִ֔ים וְאֶתֶּן־ לָךְ֙ אֶ֣רֶץ חֶמְדָּ֔ה נַחֲלַ֥ת צְבִ֖י צִבְא֣וֹת גּוֹיִ֑ם וָאֹמַ֗ר אָבִי֙ תִּקְרְאִי לִ֔י וּמֵאַחֲרַ֖י לֹ֥א תָשֽׁוּבִי׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H0559]]"
+- "[[H0349A]]"
+- "[[H7896G]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H1121A]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H2532A]]"
+- "[[H5159]]"
+- "[[H6643A]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H7121H]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 3:19**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me.
 <small><sub>**BSB:**</sub></small>
 Then I said, ‘How I long to make you My sons and give you a desirable land, the most beautiful inheritance of all the nations!’ I thought you would call Me ‘Father’ and never turn away from following Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H0559\|אָמַ֗רְתִּי]] [[H0349A\|אֵ֚יךְ]] [[H7896G\|אֲשִׁיתֵ֣]][[H9032\|ךְ]] [[H9003\|בַּ]][[H1121A\|בָּנִ֔ים]] [[H9002\|וְ]][[H5414G\|אֶתֶּן]][[H9014\|־]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H0776G\|אֶ֣רֶץ]] [[H2532A\|חֶמְדָּ֔ה]] [[H5159\|נַחֲלַ֥ת]] [[H6643A\|צְבִ֖י]] [[H6643A\|צִבְא֣וֹת]] [[H1471A\|גּוֹיִ֑ם]] [[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H7121H\|תִּקְרְאִי]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וּ]][[H9006\|מֵ]][[H0310A\|אַחֲרַ֖]][[H9030\|י]] [[H3808\|לֹ֥א]] [[H7725I\|תָשֽׁוּבִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.18|<< Jeremiah 3:18]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.20|Jeremiah 3:20 >>]]</td></tr></table>
 
@@ -32,6 +98,6 @@ Then I said, ‘How I long to make you My sons and give you a desirable land, th
 
 [^1]: you will call  | **<big>[[H7121H|תִּקְרְאוּ]]</big> ** | tik.re.'u-<small><sup>[[HVqi2mp]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>תִּקְרְאִו\־</big></span>**
-[^3]: you will turn away  | **<big>[[H9016|׃]]</big><big>[[H7725I|תָשׁוּבוּ]]</big> ** | ta.shu.vu<small><sup>[[HVqi2mp]]</sup></small> | K
+[^3]: you will turn away  | **<big>[[H7725I|תָשׁוּבוּ]]</big><big>[[H9016|׃]]</big> ** | ta.shu.vu<small><sup>[[HVqi2mp]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>תָשֽׁוּבִו\׃</big></span>**
 

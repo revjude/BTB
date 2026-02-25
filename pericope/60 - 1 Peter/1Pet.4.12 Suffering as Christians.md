@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Suffering as Christians
+type: Pericope
 pericope: "[[1Pet.4.12 Suffering as Christians|Suffering as Christians]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 4
 book/chapter: "[[1Pet.4|1 Peter 4]]"
-genre:
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 8
 verses:
 - "[[1Pet.4.12]]"
 - "[[1Pet.4.13]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Pet.4.19]]"
 ---
 
-[[1Pet.4|1 Peter 4:12 - 1 Peter 4:19]]
+<small>[[1Pet.4|1 Peter 4:12-19]]</small>
 *Suffering as Christians*
 
 [[1Pet.4.12|12]] Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:

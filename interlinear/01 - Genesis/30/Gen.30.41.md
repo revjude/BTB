@@ -1,8 +1,69 @@
+---
+title: Genesis 30:41
+type: Verse
+kjv: "And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods."
+bsb: "Whenever the stronger females of the flock were in heat, Jacob would place the branches in the troughs, in full view of the animals, so that they would breed in front of the branches."
+hebrew: "וְהָיָ֗ה בְּכָל־ יַחֵם֮ הַצֹּ֣אן הַמְקֻשָּׁרוֹת֒ וְשָׂ֨ם יַעֲקֹ֧ב אֶת־ הַמַּקְל֛וֹת לְעֵינֵ֥י הַצֹּ֖אן בָּרֳהָטִ֑ים לְיַחְמֵ֖נָּה בַּמַּקְלֽוֹת׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3179]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H7194]]"
+- "[[H7760H]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H4731]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H7298A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:41**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods.
 <small><sub>**BSB:**</sub></small>
 Whenever the stronger females of the flock were in heat, Jacob would place the branches in the troughs, in full view of the animals, so that they would breed in front of the branches.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3179\|יַחֵם֮]] [[H9009\|הַ]][[H6629G\|צֹּ֣אן]] [[H9009\|הַ]][[H7194\|מְקֻשָּׁרוֹת֒]] [[H9001\|וְ]][[H7760H\|שָׂ֨ם]] [[H3290\|יַעֲקֹ֧ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4731\|מַּקְל֛וֹת]] [[H9005\|לְ]][[H5869A\|עֵינֵ֥י]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H9003\|בָּ]][[H7298A\|רֳהָטִ֑ים]] [[H9005\|לְ]][[H3179\|יַחְמֵ֖]][[H9034\|נָּה]] [[H9003\|בַּ]][[H4731\|מַּקְלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SON-IN-LAW|SON-IN-LAW]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.40|<< Genesis 30:40]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.42|Genesis 30:42 >>]]</td></tr></table>
 

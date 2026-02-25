@@ -1,10 +1,55 @@
+---
+title: Philippians 3:11
+type: Verse
+kjv: "If by any means I might attain unto the resurrection of the dead."
+bsb: "and so, somehow, to attain to the resurrection from the dead."
+greek: "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν."
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G4458]]"
+- "[[G2658]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1815]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Philippians 3:11**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If by any means I might attain unto the resurrection of the dead.
 <small><sub>**BSB:**</sub></small>
 and so, somehow, to attain to the resurrection from the dead.
-<small><sub>**Literal:**</sub></small>
-if somehow I shall attain to the resurrection that out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.10|<< Philippians 3:10]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.12|Philippians 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G4458\|πως]]  [[G2658\|καταντήσω]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1815\|ἐξανάστασιν]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.10|<< Philippians 3:10]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.12|Philippians 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

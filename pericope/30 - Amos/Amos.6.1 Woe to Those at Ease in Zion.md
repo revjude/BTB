@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to Those at Ease in Zion
+type: Pericope
 pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 6
 book/chapter: "[[Amos.6|Amos 6]]"
-genre:
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 7
 verses:
 - "[[Amos.6.1]]"
 - "[[Amos.6.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Amos.6.7]]"
 ---
 
-[[Amos.6|Amos 6:1 - Amos 6:7]]
+<small>[[Amos.6|Amos 6:1-7]]</small>
 *Woe to Those at Ease in Zion*
 
 [[Amos.6.1|1]] Woe to them \[that are\] at ease in Zion, and trust in the mountain of Samaria, \[which are\] named chief of the nations, to whom the house of Israel came!

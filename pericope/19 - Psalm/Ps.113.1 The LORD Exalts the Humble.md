@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Exalts the Humble
+type: Pericope
 pericope: "[[Ps.113.1 The LORD Exalts the Humble|The LORD Exalts the Humble]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 113
 book/chapter: "[[Ps.113|Psalm 113]]"
-genre:
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.113.1]]"
 - "[[Ps.113.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.113.9]]"
 ---
 
-[[Ps.113|Psalm 113:1 - Psalm 113:9]]
+<small>[[Ps.113|Psalm 113:1-9]]</small>
 *The LORD Exalts the Humble*
 
 [[Ps.113.1|1]] Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.

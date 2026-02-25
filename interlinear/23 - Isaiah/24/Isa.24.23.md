@@ -1,8 +1,66 @@
+---
+title: Isaiah 24:23
+type: Verse
+kjv: "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously."
+bsb: "The moon will be confounded and the sun will be ashamed; for the LORD of Hosts will reign on Mount Zion and in Jerusalem, and before His elders with great glory."
+hebrew: "וְחָֽפְרָה֙ הַלְּבָנָ֔ה וּבוֹשָׁ֖ה הַֽחַמָּ֑ה כִּֽי־ מָלַ֞ךְ יְהוָ֣ה צְבָא֗וֹת בְּהַ֤ר צִיּוֹן֙ וּבִיר֣וּשָׁלִַ֔ם וְנֶ֥גֶד זְקֵנָ֖יו כָּבֽוֹד׃ פ"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOON|MOON]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2659]]"
+- "[[H9009]]"
+- "[[H3842]]"
+- "[[H0954]]"
+- "[[H2535]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4427A]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H5048]]"
+- "[[H2205G]]"
+- "[[H9023]]"
+- "[[H3519]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 24:23**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.
 <small><sub>**BSB:**</sub></small>
 The moon will be confounded and the sun will be ashamed; for the LORD of Hosts will reign on Mount Zion and in Jerusalem, and before His elders with great glory.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2659\|חָֽפְרָה֙]] [[H9009\|הַ]][[H3842\|לְּבָנָ֔ה]] [[H9001\|וּ]][[H0954\|בוֹשָׁ֖ה]] [[H9009\|הַֽ]][[H2535\|חַמָּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4427A\|מָלַ֞ךְ]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H9003\|בְּ]][[H2022G\|הַ֤ר]] [[H6726\|צִיּוֹן֙]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9002\|וְ]][[H5048\|נֶ֥גֶד]] [[H2205G\|זְקֵנָ֖י]][[H9023\|ו]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic MOON|MOON]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.22|<< Isaiah 24:22]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.1|Isaiah 25:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -25,7 +83,7 @@ The moon will be confounded and the sun will be ashamed; for the LORD of Hosts w
 | and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|יר֣וּשָׁלִַ֔ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5048\|נֶ֥גֶד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | elders his  |**<big>&#8207;[[H2205G\|זְקֵנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ze.ke.Na<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| glory  |**<big>&#8207;[[H3519\|כָּבֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory  |**<big>&#8207;[[H3519\|כָּבֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.22|<< Isaiah 24:22]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.1|Isaiah 25:1 >>]]</td></tr></table>
 
 

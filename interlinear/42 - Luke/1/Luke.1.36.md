@@ -1,10 +1,67 @@
+---
+title: Luke 1:36
+type: Verse
+kjv: "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren."
+bsb: "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month."
+greek: "καὶ ἰδοὺ Ἐλισάβετ ἡ συγγενίς σου καὶ αὐτὴ συνείληφεν υἱὸν ἐν γήρει αὐτῆς, καὶ οὗτος μὴν ἕκτος ἐστὶν αὐτῇ τῇ καλουμένῃ στείρᾳ"
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1665]]"
+- "[[G3588]]"
+- "[[G6080]]"
+- "[[G4771]]"
+- "[[G0846]]"
+- "[[G4815]]"
+- "[[G5207]]"
+- "[[G1722]]"
+- "[[G1094]]"
+- "[[G3778]]"
+- "[[G3376]]"
+- "[[G1623]]"
+- "[[G1510]]"
+- "[[G2564G]]"
+- "[[G4723]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:36**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.
 <small><sub>**BSB:**</sub></small>
 Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month.
-<small><sub>**Literal:**</sub></small>
-And behold Elizabeth the relative of you also she has conceived a son in old age of her, and this month [the] sixth is to her who [was] called barren<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.35|<< Luke 1:35]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.37|Luke 1:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1665\|Ἐλισάβετ]]  [[G3588\|ἡ]]  [[G6080\|συγγενίς]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G4815\|συνείληφεν]]  [[G5207\|υἱὸν]]  [[G1722\|ἐν]]  [[G1094\|γήρει]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G3376\|μὴν]]  [[G1623\|ἕκτος]]  [[G1510\|ἐστὶν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G2564G\|καλουμένῃ]]  [[G4723\|στείρᾳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.35|<< Luke 1:35]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.37|Luke 1:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

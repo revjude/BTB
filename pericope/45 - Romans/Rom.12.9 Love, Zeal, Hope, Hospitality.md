@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love, Zeal, Hope, Hospitality
+type: Pericope
 pericope: "[[Rom.12.9 Love, Zeal, Hope, Hospitality|Love, Zeal, Hope, Hospitality]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Romans
 chapter: 12
 book/chapter: "[[Rom.12|Romans 12]]"
-genre:
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 5
 verses:
 - "[[Rom.12.9]]"
 - "[[Rom.12.10]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Rom.12.13]]"
 ---
 
-[[Rom.12|Romans 12:9 - Romans 12:13]]
+<small>[[Rom.12|Romans 12:9-13]]</small>
 *Love, Zeal, Hope, Hospitality*
 
 [[Rom.12.9|9]] \[Let\] love be without dissimulation. Abhor that which is evil; cleave to that which is good.

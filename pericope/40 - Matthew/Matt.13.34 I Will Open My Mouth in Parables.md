@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Open My Mouth in Parables
+type: Pericope
 pericope: "[[Matt.13.34 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 2
 verses:
 - "[[Matt.13.34]]"
 - "[[Matt.13.35]]"
 ---
 
-[[Matt.13|Matthew 13:34 - Matthew 13:35]]
+<small>[[Matt.13|Matthew 13:34-35]]</small>
 *I Will Open My Mouth in Parables*
 
 [[Matt.13.34|34]] All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:

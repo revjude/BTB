@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Jesus
+type: Pericope
 pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 2
 book/chapter: "[[Luke.2|Luke 2]]"
-genre:
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.2.1]]"
 - "[[Luke.2.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.2.7]]"
 ---
 
-[[Luke.2|Luke 2:1 - Luke 2:7]]
+<small>[[Luke.2|Luke 2:1-7]]</small>
 *The Birth of Jesus*
 
 [[Luke.2.1|1]] And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.

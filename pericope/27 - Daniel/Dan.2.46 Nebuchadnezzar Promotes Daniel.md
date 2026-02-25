@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar Promotes Daniel
+type: Pericope
 pericope: "[[Dan.2.46 Nebuchadnezzar Promotes Daniel|Nebuchadnezzar Promotes Daniel]]"
-verse_count: 4
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 2
 book/chapter: "[[Dan.2|Daniel 2]]"
-genre:
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 4
 verses:
 - "[[Dan.2.46]]"
 - "[[Dan.2.47]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Dan.2.49]]"
 ---
 
-[[Dan.2|Daniel 2:46 - Daniel 2:49]]
+<small>[[Dan.2|Daniel 2:46-49]]</small>
 *Nebuchadnezzar Promotes Daniel*
 
 [[Dan.2.46|46]] Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.

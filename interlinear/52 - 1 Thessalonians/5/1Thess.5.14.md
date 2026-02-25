@@ -1,10 +1,61 @@
+---
+title: 1 Thessalonians 5:14
+type: Verse
+kjv: "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."
+bsb: "And we urge you, brothers, to admonish the unruly, encourage the fainthearted, help the weak, and be patient with everyone."
+greek: "Παρακαλοῦμεν δὲ ὑμᾶς, ἀδελφοί, νουθετεῖτε τοὺς ἀτάκτους, παραμυθεῖσθε τοὺς ὀλιγοψύχους, ἀντέχεσθε τῶν ἀσθενῶν, μακροθυμεῖτε πρὸς πάντας."
+pericope: "[[1Thess.5.12 Christian Living|Christian Living]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G3560]]"
+- "[[G3588]]"
+- "[[G0813]]"
+- "[[G3888]]"
+- "[[G3642]]"
+- "[[G0472]]"
+- "[[G0772G]]"
+- "[[G3114]]"
+- "[[G4314]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:14**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all [men].
 <small><sub>**BSB:**</sub></small>
 And we urge you, brothers, to admonish the unruly, encourage the fainthearted, help the weak, and be patient with everyone.
-<small><sub>**Literal:**</sub></small>
-We exhort now you, brothers, do admonish the unruly, do encourage the fainthearted, do help the weak, do be patient toward all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.13|<< 1 Thessalonians 5:13]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.15|1 Thessalonians 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλοῦμεν]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G3560\|νουθετεῖτε]]  [[G3588\|τοὺς]]  [[G0813\|ἀτάκτους,]]  [[G3888\|παραμυθεῖσθε]]  [[G3588\|τοὺς]]  [[G3642\|ὀλιγοψύχους,]]  [[G0472\|ἀντέχεσθε]]  [[G3588\|τῶν]]  [[G0772G\|ἀσθενῶν,]]  [[G3114\|μακροθυμεῖτε]]  [[G4314\|πρὸς]]  [[G3956\|πάντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.13|<< 1 Thessalonians 5:13]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.15|1 Thessalonians 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

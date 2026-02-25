@@ -1,8 +1,63 @@
+---
+title: Numbers 17:4
+type: Verse
+kjv: "And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you."
+bsb: "Place the staffs in the Tent of Meeting in front of the Testimony, where I meet with you."
+hebrew: "וְהִנַּחְתָּ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד לִפְנֵי֙ הָֽעֵד֔וּת אֲשֶׁ֛ר אִוָּעֵ֥ד לָכֶ֖ם שָֽׁמָּה׃"
+pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H0834A]]"
+- "[[H3259]]"
+- "[[H9036]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 17:4**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.
 <small><sub>**BSB:**</sub></small>
 Place the staffs in the Tent of Meeting in front of the Testimony, where I meet with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5117\|הִנַּחְתָּ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הָֽ]][[H5715\|עֵד֔וּת]] [[H0834A\|אֲשֶׁ֛ר]] [[H3259\|אִוָּעֵ֥ד]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic MIRACLES|MIRACLES]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.3|<< Numbers 17:3]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.5|Numbers 17:5 >>]]</td></tr></table>
 

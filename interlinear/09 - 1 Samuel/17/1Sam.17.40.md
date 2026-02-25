@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 17:40
+type: Verse
+kjv: "And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine."
+bsb: "And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag. And with his sling in hand, he approached the Philistine."
+hebrew: "וַיִּקַּ֨ח מַקְל֜וֹ בְּיָד֗וֹ וַיִּבְחַר־ ל֣וֹ חֲמִשָּׁ֣ה חַלֻּקֵֽי־ אֲבָנִ֣ים׀ מִן־ הַנַּ֡חַל וַיָּ֣שֶׂם אֹ֠תָם בִּכְלִ֨י הָרֹעִ֧ים אֲשֶׁר־ ל֛וֹ וּבַיַּלְק֖וּט וְקַלְּע֣וֹ בְיָד֑וֹ וַיִּגַּ֖שׁ אֶל־ הַפְּלִשְׁתִּֽי׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SLING|SLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4731]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H0977]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2568]]"
+- "[[H2512]]"
+- "[[H0068G]]"
+- "[[H9015]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5158A]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3627]]"
+- "[[H7462B]]"
+- "[[H0834A]]"
+- "[[H9002]]"
+- "[[H3219]]"
+- "[[H7050A]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:40**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling [was] in his hand: and he drew near to the Philistine.
 <small><sub>**BSB:**</sub></small>
 And David took his staff in his hand, selected five smooth stones from the brook, and put them in the pouch of his shepherd’s bag. And with his sling in hand, he approached the Philistine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H4731\|מַקְל֜]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027G\|יָד֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H0977\|יִּבְחַר]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H2568\|חֲמִשָּׁ֣ה]] [[H2512\|חַלֻּקֵֽי]][[H9014\|־]] [[H0068G\|אֲבָנִ֣ים]][[H9015\|׀]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5158A\|נַּ֡חַל]] [[H9001\|וַ]][[H7760H\|יָּ֣שֶׂם]] [[H0853\|אֹ֠תָ]][[H9038\|ם]] [[H9003\|בִּ]][[H3627\|כְלִ֨י]] [[H9009\|הָ]][[H7462B\|רֹעִ֧ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9002\|וּ]][[H9003\|בַ]][[H3219\|יַּלְק֖וּט]] [[H9002\|וְ]][[H7050A\|קַלְּע֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5066G\|יִּגַּ֖שׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic SLING|SLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.39|<< 1 Samuel 17:39]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.41|1 Samuel 17:41 >>]]</td></tr></table>
 

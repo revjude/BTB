@@ -1,8 +1,70 @@
+---
+title: Leviticus 14:16
+type: Verse
+kjv: "And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:"
+bsb: "dip his right forefinger into the oil in his left palm, and sprinkle some of the oil with his finger seven times before the LORD."
+hebrew: "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־ אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־ הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־ כַּפּ֖וֹ הַשְּׂמָאלִ֑ית וְהִזָּ֨ה מִן־ הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2881]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H3233G]]"
+- "[[H4480A]]"
+- "[[H8081]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H8042G]]"
+- "[[H5137A]]"
+- "[[H9003]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:16**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall dip his right finger in the oil that [is] in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:
 <small><sub>**BSB:**</sub></small>
 dip his right forefinger into the oil in his left palm, and sprinkle some of the oil with his finger seven times before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2881\|טָבַ֤ל]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0676\|אֶצְבָּע֣]][[H9023\|וֹ]] [[H9009\|הַ]][[H3233G\|יְמָנִ֔ית]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8081\|שֶּׁ֕מֶן]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּפּ֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H8042G\|שְּׂמָאלִ֑ית]] [[H9001\|וְ]][[H5137A\|הִזָּ֨ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8081\|שֶּׁ֧מֶן]] [[H9003\|בְּ]][[H0676\|אֶצְבָּע֛]][[H9023\|וֹ]] [[H7651\|שֶׁ֥בַע]] [[H6471\|פְּעָמִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.15|<< Leviticus 14:15]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.17|Leviticus 14:17 >>]]</td></tr></table>
 

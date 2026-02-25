@@ -1,10 +1,60 @@
+---
+title: Matthew 9:36
+type: Verse
+kjv: "But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd."
+bsb: "When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd."
+greek: "Ἰδὼν δὲ τοὺς ὄχλους ἐσπλαγχνίσθη περὶ αὐτῶν ὅτι ἦσαν ἐσκυλμένοι καὶ ἐρριμμένοι ὡσεὶ πρόβατα μὴ ἔχοντα ποιμένα.¶"
+pericope: "[[Matt.9.35 The Lord of the Harvest|The Lord of the Harvest]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G4697]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G4660]]"
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G5616]]"
+- "[[G4263]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G4166]]"
+texts:
+- NKO
+- N(K)O
+- NK(o)
+---
+
 **Matthew 9:36**<big><big>[[Matt.9.35 The Lord of the Harvest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
 <small><sub>**BSB:**</sub></small>
 When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.
-<small><sub>**Literal:**</sub></small>
-Having seen now the crowds He was moved with compassion for them because they were troubled and cast away as sheep not having a shepherd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.35|<< Matthew 9:35]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.37|Matthew 9:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G4697\|ἐσπλαγχνίσθη]]  [[G4012\|περὶ]]  [[G0846\|αὐτῶν]]  [[G3754H\|ὅτι]]  [[G1510\|ἦσαν]]  [[G4660\|ἐσκυλμένοι]]  [[G2532\|καὶ]]  [[G4496\|ἐρριμμένοι]]  [[G5616\|ὡσεὶ]]  [[G4263\|πρόβατα]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντα]]  [[G4166\|ποιμένα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SHEEP|SHEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.35|<< Matthew 9:35]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.37|Matthew 9:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 9:36** is...
 > $\quad$ referencing: [[LXX.Num.27.17|Num 27:17]] ☩ [[LXX.2Chr.18.16|2Chr 18:16]]

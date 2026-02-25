@@ -1,6 +1,83 @@
+---
+title: LXX Jeremiah 17:25
+type: Verse
+lxx: "that there shall enter through the gates  of this city kings and rulers sitting upon the throne of David, and mounting upon their chariots and horses, they and  their rulers, the men of Judah, and the ones dwelling in Jerusalem. And this city shall be settled into the eon."
+greek: "και εισελεύσονται διά των πυλών της πόλεως ταύτης βασιλείς και άρχοντες καθήμενοι επί θρόνου Δαυίδ και επιβεβηκότες εφ΄ άρμασι και ίπποις αυτών αυτοί και οι άρχοντες αυτών άνδρες Ιούδα και οι κατοικούντες εν Ιερουσαλήμ και κατοικισθήσεται η πόλις αύτη εις τον αιώνα"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G0758]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G1138]]"
+- "[[G2532]]"
+- "[[G1910]]"
+- "[[G1909]]"
+- "[[G0716]]"
+- "[[G2532]]"
+- "[[G2462]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G1473]]"
+- "[[G0435]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G6052]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+---
+
 **LXX Jeremiah 17:25** 
 <small><sub>**LXX:**</sub></small>
 that there shall enter through the gates  of this city kings and rulers sitting upon \[the\] throne of David, and mounting upon their chariots and horses, they and  their rulers, \[the\] men of Judah, and the ones dwelling in Jerusalem. And this city shall be settled into the eon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1525\|εισελεύσονται]] [[G1223\|διά]] [[G3588\|των]] [[G4439\|πυλών]] [[G3588\|της]] [[G4172\|πόλεως]] [[G3778\|ταύτης]] [[G0935\|βασιλείς]] [[G2532\|και]] [[G0758\|άρχοντες]] [[G2521\|καθήμενοι]] [[G1909\|επί]] [[G2362\|θρόνου]] [[G1138\|Δαυίδ]] [[G2532\|και]] [[G1910\|επιβεβηκότες]] [[G1909\|εφ΄]] [[G0716\|άρμασι]] [[G2532\|και]] [[G2462\|ίπποις]] [[G1473\|αυτών]] [[G1473\|αυτοί]] [[G2532\|και]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G1473\|αυτών]] [[G0435\|άνδρες]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G6052\|κατοικισθήσεται]] [[G3588\|η]] [[G4172\|πόλις]] [[G3778\|αύτη]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARIOT|CHARIOT]] • [[topic REWARD|REWARD]] • [[topic SABBATH|SABBATH]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
 
@@ -45,6 +122,6 @@ that there shall enter through the gates  of this city kings and rulers sitting 
 | into | **<big>[[G1519\|εις]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | eon. | **<big>[[G0165\|αιώνα]]</big>** |
-[[Jer.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: 2 Kings 4:19
+type: Verse
+kjv: "And he said unto his father, My head, my head. And he said to a lad, Carry him to his mother."
+bsb: "“My head! My head!” he complained to his father. So his father told a servant, “Carry him to his mother.”"
+hebrew: "וַיֹּ֥אמֶר אֶל־ אָבִ֖יו רֹאשִׁ֣י׀ רֹאשִׁ֑י וַיֹּ֙אמֶר֙ אֶל־ הַנַּ֔עַר שָׂאֵ֖הוּ אֶל־ אִמּֽוֹ׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic SUNSTROKE|SUNSTROKE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:19**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his father, My head, my head. And he said to a lad, Carry him to his mother.
 <small><sub>**BSB:**</sub></small>
 “My head! My head!” he complained to his father. So his father told a servant, “Carry him to his mother.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H7218A\|רֹאשִׁ֣]][[H9020\|י]][[H9015\|׀]] [[H7218A\|רֹאשִׁ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H5375H\|שָׂאֵ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic SUNSTROKE|SUNSTROKE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.18|<< 2 Kings 4:18]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.20|2 Kings 4:20 >>]]</td></tr></table>
 

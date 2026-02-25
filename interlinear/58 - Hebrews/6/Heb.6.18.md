@@ -1,10 +1,69 @@
+---
+title: Hebrews 6:18
+type: Verse
+kjv: "That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:"
+bsb: "Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged."
+greek: "ἵνα διὰ δύο πραγμάτων ἀμεταθέτων, ἐν οἷς ἀδύνατον ψεύσασθαι τὸν θεόν, ἰσχυρὰν παράκλησιν ἔχωμεν οἱ καταφυγόντες κρατῆσαι τῆς προκειμένης ἐλπίδος·"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REFUGE|REFUGE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2443]]"
+- "[[G1223]]"
+- "[[G1417]]"
+- "[[G4229]]"
+- "[[G0276]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G0102]]"
+- "[[G5574]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2478]]"
+- "[[G3874]]"
+- "[[G2192]]"
+- "[[G2703]]"
+- "[[G2902]]"
+- "[[G4295]]"
+- "[[G1680]]"
+texts:
+- NKO
+- n
+---
+
 **Hebrews 6:18**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That by two immutable things, in which [it was] impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
 <small><sub>**BSB:**</sub></small>
 Thus by two unchangeable things in which it is impossible for God to lie, we who have fled to take hold of the hope set before us may be strongly encouraged.
-<small><sub>**Literal:**</sub></small>
-so that through two things unchangeable, in which [it is] impossible to lie <the> [for] God, strong encouragement we may have <the> having fled for refuge to take hold of what is being set before [us] hope;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.17|<< Hebrews 6:17]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.19|Hebrews 6:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1223\|διὰ]]  [[G1417\|δύο]]  [[G4229\|πραγμάτων]]  [[G0276\|ἀμεταθέτων,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G0102\|ἀδύνατον]]  [[G5574\|ψεύσασθαι]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G2478\|ἰσχυρὰν]]  [[G3874\|παράκλησιν]]  [[G2192\|ἔχωμεν]]  [[G3588\|οἱ]]  [[G2703\|καταφυγόντες]]  [[G2902\|κρατῆσαι]]  [[G3588\|τῆς]]  [[G4295\|προκειμένης]]  [[G1680\|ἐλπίδος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COVENANT|COVENANT]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REFUGE|REFUGE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.17|<< Hebrews 6:17]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.19|Hebrews 6:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Leviticus 1:4
+type: Verse
+kjv: "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+bsb: "He is to lay his hand on the head of the burnt offering, so it can be accepted on his behalf to make atonement for him."
+hebrew: "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H7521]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3722A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:4**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.
 <small><sub>**BSB:**</sub></small>
 He is to lay his hand on the head of the burnt offering, so it can be accepted on his behalf to make atonement for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5564\|סָמַ֣ךְ]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H5921A\|עַ֖ל]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הָ]][[H5930A\|עֹלָ֑ה]] [[H9001\|וְ]][[H7521\|נִרְצָ֥ה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic HAND|HAND]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.3|<< Leviticus 1:3]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.5|Leviticus 1:5 >>]]</td></tr></table>
 

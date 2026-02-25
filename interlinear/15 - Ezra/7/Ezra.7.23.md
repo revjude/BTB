@@ -1,8 +1,66 @@
+---
+title: Ezra 7:23
+type: Verse
+kjv: "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?"
+bsb: "Whatever is commanded by the God of heaven must be done diligently for His house. For why should wrath fall on the realm of the king and his sons?"
+aramaic: "כָּל־ דִּ֗י מִן־ טַ֙עַם֙ אֱלָ֣הּ שְׁמַיָּ֔א יִתְעֲבֵד֙ אַדְרַזְדָּ֔א לְבֵ֖ית אֱלָ֣הּ שְׁמַיָּ֑א דִּֽי־ לְמָ֤ה לֶֽהֱוֵא֙ קְצַ֔ף עַל־ מַלְכ֥וּת מַלְכָּ֖א וּבְנֽוֹהִי׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H1768]]"
+- "[[H4481]]"
+- "[[H2942]]"
+- "[[H0426]]"
+- "[[H8065]]"
+- "[[H9010]]"
+- "[[H5648]]"
+- "[[H0149]]"
+- "[[H9005]]"
+- "[[H1005]]"
+- "[[H4101]]"
+- "[[H1934]]"
+- "[[H7109]]"
+- "[[H5922]]"
+- "[[H4437]]"
+- "[[H4430]]"
+- "[[H9002]]"
+- "[[H1247]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:23**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
 <small><sub>**BSB:**</sub></small>
 Whatever is commanded by the God of heaven must be done diligently for His house. For why should wrath fall on the realm of the king and his sons?
+<small><sub>**Aramaic:**</sub></small>
+[[H3606\|כָּל]][[H9014\|־]] [[H1768\|דִּ֗י]] [[H4481\|מִן]][[H9014\|־]] [[H2942\|טַ֙עַם֙]] [[H0426\|אֱלָ֣הּ]] [[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H5648\|יִתְעֲבֵד֙]] [[H0149\|אַדְרַזְדָּ֔א]] [[H9005\|לְ]][[H1005\|בֵ֖ית]] [[H0426\|אֱלָ֣הּ]] [[H8065\|שְׁמַיָּ֑]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H4101\|מָ֤ה]] [[H1934\|לֶֽהֱוֵא֙]] [[H7109\|קְצַ֔ף]] [[H5922\|עַל]][[H9014\|־]] [[H4437\|מַלְכ֥וּת]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H9002\|וּ]][[H1247\|בְנֽוֹ]][[H9023\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.22|<< Ezra 7:22]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.24|Ezra 7:24 >>]]</td></tr></table>
 

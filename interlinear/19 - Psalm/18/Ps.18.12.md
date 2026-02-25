@@ -1,8 +1,58 @@
+---
+title: Psalm 18:12
+type: Verse
+kjv: "At the brightness that was before him his thick clouds passed, hail stones and coals of fire."
+bsb: "From the brightness of His presence His clouds advanced—hailstones and coals of fire."
+hebrew: "מִנֹּ֗גַהּ נֶ֫גְדּ֥וֹ עָבָ֥יו עָבְר֑וּ בָּ֝רָ֗ד וְגַֽחֲלֵי־ אֵֽשׁ׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9006]]"
+- "[[H5051]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H5645]]"
+- "[[H9023]]"
+- "[[H5674A]]"
+- "[[H1259]]"
+- "[[H9002]]"
+- "[[H1513]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:12**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the brightness [that was] before him his thick clouds passed, hail [stones] and coals of fire.
 <small><sub>**BSB:**</sub></small>
 From the brightness of His presence His clouds advanced—hailstones and coals of fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H5051\|נֹּ֗גַהּ]] [[H5048\|נֶ֫גְדּ֥]][[H9033\|וֹ]] [[H5645\|עָבָ֥י]][[H9023\|ו]] [[H5674A\|עָבְר֑וּ]] [[H1259\|בָּ֝רָ֗ד]] [[H9002\|וְ]][[H1513\|גַֽחֲלֵי]][[H9014\|־]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.11|<< Psalms 18:11]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.13|Psalms 18:13 >>]]</td></tr></table>
 

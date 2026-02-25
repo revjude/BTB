@@ -1,8 +1,63 @@
+---
+title: Psalm 143:3
+type: Verse
+kjv: "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead."
+bsb: "For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead."
+hebrew: "כִּ֥י רָ֘דַ֤ף אוֹיֵ֨ב׀ נַפְשִׁ֗י דִּכָּ֣א לָ֭אָרֶץ חַיָּתִ֑י הוֹשִׁיבַ֥נִי בְ֝מַחֲשַׁכִּ֗ים כְּמֵתֵ֥י עוֹלָֽם׃"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7291]]"
+- "[[H0341]]"
+- "[[H9015]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H1792]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H2416C]]"
+- "[[H3427]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4285]]"
+- "[[H9004]]"
+- "[[H4191]]"
+- "[[H5769J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 143:3**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.
 <small><sub>**BSB:**</sub></small>
 For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H7291\|רָ֘דַ֤ף]] [[H0341\|אוֹיֵ֨ב]][[H9015\|׀]] [[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H1792\|דִּכָּ֣א]] [[H9005\|לָ֭]][[H0776H\|אָרֶץ]] [[H2416C\|חַיָּתִ֑]][[H9020\|י]] [[H3427\|הוֹשִׁיבַ֥]][[H9030\|נִי]] [[H9003\|בְ֝]][[H4285\|מַחֲשַׁכִּ֗ים]] [[H9004\|כְּ]][[H4191\|מֵתֵ֥י]] [[H5769J\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COLORS|COLORS]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.2|<< Psalms 143:2]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.4|Psalms 143:4 >>]]</td></tr></table>
 

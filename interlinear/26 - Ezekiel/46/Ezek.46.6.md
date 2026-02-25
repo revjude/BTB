@@ -1,8 +1,58 @@
+---
+title: Ezekiel 46:6
+type: Verse
+kjv: "And in the day of the new moon it shall be a young bullock without blemish, and six lambs, and a ram: they shall be without blemish."
+bsb: "On the day of the New Moon he shall offer a young, unblemished bull, six lambs, and a ram without blemish."
+hebrew: "וּבְי֣וֹם הַחֹ֔דֶשׁ פַּ֥ר בֶּן־ בָּקָ֖ר תְּמִימִ֑ם וְשֵׁ֧שֶׁת כְּבָשִׂ֛ם וָאַ֖יִל תְּמִימִ֥ם יִהְיֽוּ׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H2320H]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H8549G]]"
+- "[[H8337]]"
+- "[[H3532]]"
+- "[[H0352A]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:6**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the day of the new moon [it shall be] a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.
 <small><sub>**BSB:**</sub></small>
 On the day of the New Moon he shall offer a young, unblemished bull, six lambs, and a ram without blemish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H2320H\|חֹ֔דֶשׁ]] [[H6499\|פַּ֥ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֖ר]] [[H8549G\|תְּמִימִ֑ם]] [[H9002\|וְ]][[H8337\|שֵׁ֧שֶׁת]] [[H3532\|כְּבָשִׂ֛ם]] [[H9002\|וָ]][[H0352A\|אַ֖יִל]] [[H8549G\|תְּמִימִ֥ם]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.5|<< Ezekiel 46:5]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.7|Ezekiel 46:7 >>]]</td></tr></table>
 

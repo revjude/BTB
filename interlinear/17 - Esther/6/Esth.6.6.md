@@ -1,8 +1,67 @@
+---
+title: Esther 6:6
+type: Verse
+kjv: "So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?"
+bsb: "Haman entered, and the king asked him, “What should be done for the man whom the king is delighted to honor?” Now Haman thought to himself, “Whom would the king be delighted to honor more than me?”"
+hebrew: "וַיָּבוֹא֮ הָמָן֒ וַיֹּ֤אמֶר לוֹ֙ הַמֶּ֔לֶךְ מַה־ לַעֲשׂ֕וֹת בָּאִ֕ישׁ אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֣ץ בִּיקָר֑וֹ וַיֹּ֤אמֶר הָמָן֙ בְּלִבּ֔וֹ לְמִ֞י יַחְפֹּ֥ץ הַמֶּ֛לֶךְ לַעֲשׂ֥וֹת יְקָ֖ר יוֹתֵ֥ר מִמֶּֽנִּי׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H2001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H2654A]]"
+- "[[H3366]]"
+- "[[H9023]]"
+- "[[H3820A]]"
+- "[[H4310]]"
+- "[[H3148]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:6**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?
 <small><sub>**BSB:**</sub></small>
 Haman entered, and the king asked him, “What should be done for the man whom the king is delighted to honor?” Now Haman thought to himself, “Whom would the king be delighted to honor more than me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבוֹא֮]] [[H2001\|הָמָן֒]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לַ]][[H6213A\|עֲשׂ֕וֹת]] [[H9003\|בָּ]][[H0376G\|אִ֕ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2654A\|חָפֵ֣ץ]] [[H9003\|בִּ]][[H3366\|יקָר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H2001\|הָמָן֙]] [[H9003\|בְּ]][[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H4310\|מִ֞י]] [[H2654A\|יַחְפֹּ֥ץ]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H3366\|יְקָ֖ר]] [[H3148\|יוֹתֵ֥ר]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.5|<< Esther 6:5]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.7|Esther 6:7 >>]]</td></tr></table>
 

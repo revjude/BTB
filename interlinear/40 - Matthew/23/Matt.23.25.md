@@ -1,10 +1,67 @@
+---
+title: Matthew 23:25
+type: Verse
+kjv: "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess."
+bsb: "Woe to you, scribes and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence."
+jesus_said: "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess."
+greek: "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου καὶ τῆς παροψίδος, ἔσωθεν δὲ γέμουσιν ἐξ ἁρπαγῆς καὶ ἀκρασίας."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUP|CUP]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G2511]]"
+- "[[G3588]]"
+- "[[G1855]]"
+- "[[G4221]]"
+- "[[G3953]]"
+- "[[G2081]]"
+- "[[G1161]]"
+- "[[G1073]]"
+- "[[G1537]]"
+- "[[G0724]]"
+- "[[G0192]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Matthew 23:25**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.
-<small><sub>**Literal:**</sub></small>
-Woe to you, scribes and Pharisees hypocrites! For you cleanse the outside of the cup and of the dish, inwardly however they are full of greed and self-indulgence.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.24|<< Matthew 23:24]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.26|Matthew 23:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G2511\|καθαρίζετε]]  [[G3588\|τὸ]]  [[G1855\|ἔξωθεν]]  [[G3588\|τοῦ]]  [[G4221\|ποτηρίου]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3953\|παροψίδος,]]  [[G2081\|ἔσωθεν]]  [[G1161\|δὲ]]  [[G1073\|γέμουσιν]]  [[G1537\|ἐξ]]  [[G0724\|ἁρπαγῆς]]  [[G2532\|καὶ]]  [[G0192\|ἀκρασίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CUP|CUP]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic EXTORTION|EXTORTION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.24|<< Matthew 23:24]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.26|Matthew 23:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

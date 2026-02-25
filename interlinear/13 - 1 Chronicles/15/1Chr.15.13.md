@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 15:13
+type: Verse
+kjv: "For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order."
+bsb: "It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.”"
+hebrew: "כִּ֛י לְמַבָּרִ֥אשׁוֹנָ֖ה לֹ֣א אַתֶּ֑ם פָּרַ֨ץ יְהוָ֤ה אֱלֹהֵ֙ינוּ֙ בָּ֔נוּ כִּי־ לֹ֥א דְרַשְׁנֻ֖הוּ כַּמִּשְׁפָּֽט׃"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FORM|FORM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H3808]]"
+- "[[H0859D]]"
+- "[[H6555]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9035]]"
+- "[[H9014]]"
+- "[[H1875]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:13**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For because ye [did it] not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order.
 <small><sub>**BSB:**</sub></small>
 It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H9005\|לְ]][[H4100\|מַ]][[H9003\|בָּ]][[H7223G\|רִ֥אשׁוֹנָ֖ה]] [[H3808\|לֹ֣א]] [[H0859D\|אַתֶּ֑ם]] [[H6555\|פָּרַ֨ץ]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H9003\|בָּ֔]][[H9035\|נוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H1875\|דְרַשְׁנֻ֖]][[H9033\|הוּ]] [[H9004\|כַּ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FORM|FORM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.12|<< 1 Chronicles 15:12]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.14|1 Chronicles 15:14 >>]]</td></tr></table>
 

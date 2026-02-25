@@ -1,8 +1,70 @@
+---
+title: Jeremiah 9:2
+type: Verse
+kjv: "Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men."
+bsb: "If only I had a traveler’s lodge in the wilderness, I would abandon my people and depart from them, for they are all adulterers, a crowd of faithless people."
+hebrew: "מִֽי־ יִתְּנֵ֣נִי בַמִּדְבָּ֗ר מְלוֹן֙ אֹֽרְחִ֔ים וְאֶֽעֶזְבָה֙ אֶת־ עַמִּ֔י וְאֵלְכָ֖ה מֵֽאִתָּ֑ם כִּ֤י כֻלָּם֙ מְנָ֣אֲפִ֔ים עֲצֶ֖רֶת בֹּגְדִֽים׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4411]]"
+- "[[H0732]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5003]]"
+- "[[H6116]]"
+- "[[H0898]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:2**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they [be] all adulterers, an assembly of treacherous men.
 <small><sub>**BSB:**</sub></small>
 If only I had a traveler’s lodge in the wilderness, I would abandon my people and depart from them, for they are all adulterers, a crowd of faithless people.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתְּנֵ֣]][[H9030\|נִי]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֗ר]] [[H4411\|מְלוֹן֙]] [[H0732\|אֹֽרְחִ֔ים]] [[H9002\|וְ]][[H5800A\|אֶֽעֶזְבָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H1980G\|אֵלְכָ֖ה]] [[H9006\|מֵֽ]][[H0854\|אִתָּ֑]][[H9038\|ם]] [[H3588A\|כִּ֤י]] [[H3605\|כֻלָּ]][[H9028\|ם֙]] [[H5003\|מְנָ֣אֲפִ֔ים]] [[H6116\|עֲצֶ֖רֶת]] [[H0898\|בֹּגְדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMPANY|COMPANY]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SIN|SIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.1|<< Jeremiah 9:1]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.3|Jeremiah 9:3 >>]]</td></tr></table>
 

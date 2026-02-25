@@ -1,8 +1,62 @@
+---
+title: Isaiah 3:1
+type: Verse
+kjv: "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,"
+bsb: "For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water,"
+hebrew: "כִּי֩ הִנֵּ֨ה הָאָד֜וֹן יְהוָ֣ה צְבָא֗וֹת מֵסִ֤יר מִירוּשָׁלִַ֙ם֙ וּמִ֣יהוּדָ֔ה מַשְׁעֵ֖ן וּמַשְׁעֵנָ֑ה כֹּ֚ל מִשְׁעַן־ לֶ֔חֶם וְכֹ֖ל מִשְׁעַן־ מָֽיִם׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H0113]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H4937B]]"
+- "[[H4938A]]"
+- "[[H3605]]"
+- "[[H4937A]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:1**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,
 <small><sub>**BSB:**</sub></small>
 For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H2009\|הִנֵּ֨ה]] [[H9009\|הָ]][[H0113\|אָד֜וֹן]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H5493G\|מֵסִ֤יר]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H9002\|וּ]][[H9006\|מִ֣]][[H3063G\|יהוּדָ֔ה]] [[H4937B\|מַשְׁעֵ֖ן]] [[H9002\|וּ]][[H4938A\|מַשְׁעֵנָ֑ה]] [[H3605\|כֹּ֚ל]] [[H4937A\|מִשְׁעַן]][[H9014\|־]] [[H3899H\|לֶ֔חֶם]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H4937A\|מִשְׁעַן]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic FOOD|FOOD]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.22|<< Isaiah 2:22]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.2|Isaiah 3:2 >>]]</td></tr></table>
 

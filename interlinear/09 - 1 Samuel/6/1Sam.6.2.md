@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 6:2
+type: Verse
+kjv: "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place."
+bsb: "the Philistines summoned the priests and diviners, saying, “What shall we do with the ark of the LORD? Tell us how to send it back to its place.”"
+hebrew: "וַיִּקְרְא֣וּ פְלִשְׁתִּ֗ים לַכֹּהֲנִ֤ים וְלַקֹּֽסְמִים֙ לֵאמֹ֔ר מַֽה־ נַּעֲשֶׂ֖ה לַאֲר֣וֹן יְהוָ֑ה הוֹדִעֻ֕נוּ בַּמֶּ֖ה נְשַׁלְּחֶ֥נּוּ לִמְקוֹמֽוֹ׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H7080]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H3045]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:2**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place.
 <small><sub>**BSB:**</sub></small>
 the Philistines summoned the priests and diviners, saying, “What shall we do with the ark of the LORD? Tell us how to send it back to its place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרְא֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֤ים]] [[H9002\|וְ]][[H9005\|לַ]][[H7080\|קֹּֽסְמִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|נַּעֲשֶׂ֖ה]] [[H9005\|לַ]][[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֑ה]] [[H3045\|הוֹדִעֻ֕]][[H9035\|נוּ]] [[H9003\|בַּ]][[H4100\|מֶּ֖ה]] [[H7971G\|נְשַׁלְּחֶ֥]][[H9033\|נּוּ]] [[H9005\|לִ]][[H4725\|מְקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.1|<< 1 Samuel 6:1]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.3|1 Samuel 6:3 >>]]</td></tr></table>
 

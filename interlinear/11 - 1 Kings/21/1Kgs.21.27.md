@@ -1,8 +1,69 @@
+---
+title: 1 Kings 21:27
+type: Verse
+kjv: "And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly."
+bsb: "When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ אַחְאָ֜ב אֶת־ הַדְּבָרִ֤ים הָאֵ֙לֶּה֙ וַיִּקְרַ֣ע בְּגָדָ֔יו וַיָּֽשֶׂם־ שַׂ֥ק עַל־ בְּשָׂר֖וֹ וַיָּצ֑וֹם וַיִּשְׁכַּ֣ב בַּשָּׂ֔ק וַיְהַלֵּ֖ךְ אַֽט׃ ס"
+pericope: "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0256G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H7760H]]"
+- "[[H8242]]"
+- "[[H5921A]]"
+- "[[H1320]]"
+- "[[H6684]]"
+- "[[H7901G]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H0328B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 21:27**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Ahab heard those words, that he rent his clothes, and put sackcloth upon his flesh, and fasted, and lay in sackcloth, and went softly.
 <small><sub>**BSB:**</sub></small>
 When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H0256G\|אַחְאָ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H9001\|וַ]][[H7167\|יִּקְרַ֣ע]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H7760H\|יָּֽשֶׂם]][[H9014\|־]] [[H8242\|שַׂ֥ק]] [[H5921A\|עַל]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H6684\|יָּצ֑וֹם]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֣ב]] [[H9003\|בַּ]][[H8242\|שָּׂ֔ק]] [[H9001\|וַ]][[H1980G\|יְהַלֵּ֖ךְ]] [[H0328B\|אַֽט]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ELIJAH|ELIJAH]] • [[topic FASTING|FASTING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.26|<< 1 Kings 21:26]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.28|1 Kings 21:28 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. 
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901G\|יִּשְׁכַּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the sackcloth  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8242\|שָּׂ֔ק]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went about  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יְהַלֵּ֖ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ha.Lekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dejectedly  |**<big>&#8207;[[H0328B\|אַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dejectedly  |**<big>&#8207;[[H0328B\|אַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.26|<< 1 Kings 21:26]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.28|1 Kings 21:28 >>]]</td></tr></table>
 
 

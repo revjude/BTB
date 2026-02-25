@@ -1,8 +1,69 @@
+---
+title: Jeremiah 28:3
+type: Verse
+kjv: "Within two full years will I bring again into this place all the vessels of the LORD’S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:"
+bsb: "Within two years I will restore to this place all the articles of the house of the LORD that Nebuchadnezzar king of Babylon removed from here and carried to Babylon."
+hebrew: "בְּע֣וֹד׀ שְׁנָתַ֣יִם יָמִ֗ים אֲנִ֤י מֵשִׁיב֙ אֶל־ הַמָּק֣וֹם הַזֶּ֔ה אֶֽת־ כָּל־ כְּלֵ֖י בֵּ֣ית יְהוָ֑ה אֲשֶׁ֨ר לָקַ֜ח נְבוּכַדנֶאצַּ֤ר מֶֽלֶךְ־ בָּבֶל֙ מִן־ הַמָּק֣וֹם הַזֶּ֔ה וַיְבִיאֵ֖ם בָּבֶֽל׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H9015]]"
+- "[[H8141]]"
+- "[[H3117G]]"
+- "[[H0589]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H4480A]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:3**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Within two full years will I bring again into this place all the vessels of the LORD’S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:
 <small><sub>**BSB:**</sub></small>
 Within two years I will restore to this place all the articles of the house of the LORD that Nebuchadnezzar king of Babylon removed from here and carried to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5750\|ע֣וֹד]][[H9015\|׀]] [[H8141\|שְׁנָתַ֣יִם]] [[H3117G\|יָמִ֗ים]] [[H0589\|אֲנִ֤י]] [[H7725G\|מֵשִׁיב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֖י]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3947G\|לָקַ֜ח]] [[H5019\|נְבוּכַדנֶאצַּ֤ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9038\|ם]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.2|<< Jeremiah 28:2]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.4|Jeremiah 28:4 >>]]</td></tr></table>
 

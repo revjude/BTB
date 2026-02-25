@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wicked Man’s Portion
+type: Pericope
 pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 27
 book/chapter: "[[Job.27|Job 27]]"
-genre:
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 17
 verses:
 - "[[Job.27.7]]"
 - "[[Job.27.8]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Job.27.23]]"
 ---
 
-[[Job.27|Job 27:7 - Job 27:23]]
+<small>[[Job.27|Job 27:7-23]]</small>
 *The Wicked Man’s Portion*
 
 [[Job.27.7|7]] Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.

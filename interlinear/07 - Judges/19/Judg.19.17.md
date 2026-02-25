@@ -1,8 +1,64 @@
+---
+title: Judges 19:17
+type: Verse
+kjv: "And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?"
+bsb: "When he looked up and saw the traveler in the city square, the old man asked, “Where are you going, and where have you come from?”"
+hebrew: "וַיִּשָּׂ֣א עֵינָ֗יו וַיַּ֛רְא אֶת־ הָאִ֥ישׁ הָאֹרֵ֖חַ בִּרְחֹ֣ב הָעִ֑יר וַיֹּ֨אמֶר הָאִ֧ישׁ הַזָּקֵ֛ן אָ֥נָה תֵלֵ֖ךְ וּמֵאַ֥יִן תָּבֽוֹא׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0732]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H5892B]]"
+- "[[H0559]]"
+- "[[H2205H]]"
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:17**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Whither goest thou? and whence comest thou?
 <small><sub>**BSB:**</sub></small>
 When he looked up and saw the traveler in the city square, the old man asked, “Where are you going, and where have you come from?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375M\|יִּשָּׂ֣א]] [[H5869A\|עֵינָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּ֛רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הָ]][[H0732\|אֹרֵ֖חַ]] [[H9003\|בִּ]][[H7339\|רְחֹ֣ב]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הָ]][[H0376G\|אִ֧ישׁ]] [[H9009\|הַ]][[H2205H\|זָּקֵ֛ן]] [[H0575\|אָ֥נָה]] [[H1980G\|תֵלֵ֖ךְ]] [[H9002\|וּ]][[H9006\|מֵ]][[H0370\|אַ֥יִן]] [[H0935G\|תָּבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GIBEAH|GIBEAH]] • [[topic HOSPITALITY|HOSPITALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.16|<< Judges 19:16]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.18|Judges 19:18 >>]]</td></tr></table>
 

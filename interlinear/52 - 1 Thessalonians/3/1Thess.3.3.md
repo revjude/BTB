@@ -1,10 +1,54 @@
+---
+title: 1 Thessalonians 3:3
+type: Verse
+kjv: "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
+bsb: "so that none of you would be shaken by these trials. For you know that we are destined for this."
+greek: "τὸ μηδένα σαίνεσθαι ἐν ταῖς θλίψεσιν ταύταις· αὐτοὶ γὰρ οἴδατε ὅτι εἰς τοῦτο κείμεθα·"
+pericope: "[[1Thess.3.1 Timothy’s Visit|Timothy’s Visit]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3367]]"
+- "[[G4525]]"
+- "[[G1722]]"
+- "[[G2347]]"
+- "[[G3778]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1519]]"
+- "[[G2749]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **1 Thessalonians 3:3**<big><big>[[1Thess.3.1 Timothy’s Visit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
 <small><sub>**BSB:**</sub></small>
 so that none of you would be shaken by these trials. For you know that we are destined for this.
-<small><sub>**Literal:**</sub></small>
-<the> no one [is] to be moved by <the> tribulations these; Yourselves for you know that for this we are destined;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.2|<< 1 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.4|1 Thessalonians 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G3367\|μηδένα]]  [[G4525\|σαίνεσθαι]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2347\|θλίψεσιν]]  [[G3778\|ταύταις·]]  [[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G2749\|κείμεθα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.2|<< 1 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.4|1 Thessalonians 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

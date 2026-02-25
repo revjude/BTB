@@ -1,10 +1,66 @@
+---
+title: Matthew 24:45
+type: Verse
+kjv: "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+bsb: "Who then is the faithful and wise servant, whom the master has put in charge of his household, to give the others their food at the proper time?"
+jesus_said: "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+greek: "Τίς ἄρα ἐστὶν ὁ πιστὸς δοῦλος καὶ φρόνιμος ὃν κατέστησεν ὁ κύριος αὐτοῦ ἐπὶ τῆς οἰκετείας αὐτοῦ τοῦ δοῦναι αὐτοῖς τὴν τροφὴν ἐν καιρῷ;"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5101]]"
+- "[[G0686]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4103]]"
+- "[[G1401]]"
+- "[[G2532]]"
+- "[[G5429]]"
+- "[[G3739]]"
+- "[[G2525]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G6064]]"
+- "[[G1325]]"
+- "[[G5160]]"
+- "[[G1722]]"
+- "[[G2540]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Matthew 24:45**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
 <small><sub>**BSB:**</sub></small>
 Who then is the faithful and wise servant, whom the master has put in charge of his household, to give the others their food at the proper time?
-<small><sub>**Literal:**</sub></small>
-Who then is the faithful servant and wise whom has set the master of him over the household of him <the> to give to them the food in season?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.44|<< Matthew 24:44]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.46|Matthew 24:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τίς]]  [[G0686\|ἄρα]]  [[G1510\|ἐστὶν]]  [[G3588\|ὁ]]  [[G4103\|πιστὸς]]  [[G1401\|δοῦλος]]  [[G2532\|καὶ]]  [[G5429\|φρόνιμος]]  [[G3739\|ὃν]]  [[G2525\|κατέστησεν]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G6064\|οἰκετείας]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G1325\|δοῦναι]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὴν]]  [[G5160\|τροφὴν]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.44|<< Matthew 24:44]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.46|Matthew 24:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

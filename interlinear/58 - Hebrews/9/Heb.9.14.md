@@ -1,10 +1,78 @@
+---
+title: Hebrews 9:14
+type: Verse
+kjv: "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
+bsb: "how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!"
+greek: "πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ἡμῶν ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι;¶"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4214]]"
+- "[[G3123G]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G0166]]"
+- "[[G1438]]"
+- "[[G4374]]"
+- "[[G0299]]"
+- "[[G2316]]"
+- "[[G2511]]"
+- "[[G4893]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3498]]"
+- "[[G2041]]"
+- "[[G1519]]"
+- "[[G3000]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 9:14**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 <small><sub>**BSB:**</sub></small>
 how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!
-<small><sub>**Literal:**</sub></small>
-how much more the blood <the> of Christ, who through [the] Spirit eternal Himself offered unblemished <the> to God, will purify the conscience of us from dead works in order <the> to serve God [the] living?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.13|<< Hebrews 9:13]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.15|Hebrews 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4214\|πόσῳ]]  [[G3123G\|μᾶλλον]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3739\|ὃς]]  [[G1223\|διὰ]]  [[G4151G\|πνεύματος]]  [[G0166\|αἰωνίου]]  [[G1438\|ἑαυτὸν]]  [[G4374\|προσήνεγκεν]]  [[G0299\|ἄμωμον]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G2511\|καθαριεῖ]]  [[G3588\|τὴν]]  [[G4893\|συνείδησιν]]  [[G3165\|ἡμῶν]]  [[G0575\|ἀπὸ]]  [[G3498\|νεκρῶν]]  [[G2041\|ἔργων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3000\|λατρεύειν]]  [[G2316\|θεῷ]]  [[G2198\|ζῶντι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic PURITY|PURITY]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TRINITY|TRINITY]] • [[topic TYPES|TYPES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.13|<< Hebrews 9:13]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.15|Hebrews 9:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 9:14** is...
 > $\quad$ possibly alluding to: [[LXX.Num.14.36|Num 14:36]]

@@ -1,10 +1,66 @@
+---
+title: Luke 12:6
+type: Verse
+kjv: "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
+bsb: "Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God."
+jesus_said: "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
+greek: "οὐχὶ πέντε στρουθία πωλοῦνται ἀσσαρίων δύο; καὶ ἓν ἐξ αὐτῶν οὐκ ἔστιν ἐπιλελησμένον ἐνώπιον τοῦ θεοῦ·"
+pericope: "[[Luke.12.4 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic FARTHING|FARTHING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SPARROW|SPARROW]]"
+strongs:
+- "[[G3780]]"
+- "[[G4002]]"
+- "[[G4765]]"
+- "[[G4453]]"
+- "[[G0787]]"
+- "[[G1417]]"
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1950]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 12:6**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Are not five sparrows sold for two farthings, and not one of them is forgotten before God?
 <small><sub>**BSB:**</sub></small>
 Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God.
-<small><sub>**Literal:**</sub></small>
-Surely five sparrows are being sold for assarion two? And one of them not is forgotten before <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.5|<< Luke 12:5]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.7|Luke 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχὶ]]  [[G4002\|πέντε]]  [[G4765\|στρουθία]]  [[G4453\|πωλοῦνται]]  [[G0787\|ἀσσαρίων]]  [[G1417\|δύο;]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1950\|ἐπιλελησμένον]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic FARTHING|FARTHING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SPARROW|SPARROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.5|<< Luke 12:5]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.7|Luke 12:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

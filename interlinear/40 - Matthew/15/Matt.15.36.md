@@ -1,10 +1,61 @@
+---
+title: Matthew 15:36
+type: Verse
+kjv: "And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude."
+bsb: "Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people."
+greek: "καὶ ἔλαβεν τοὺς ἑπτὰ ἄρτους καὶ τοὺς ἰχθύας, καὶ εὐχαριστήσας ἔκλασεν καὶ ἐδίδου τοῖς μαθηταῖς αὐτοῦ, οἱ δὲ μαθηταὶ τοῖς ὄχλοις."
+pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0740]]"
+- "[[G2486]]"
+- "[[G2168]]"
+- "[[G2806]]"
+- "[[G1325]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3793]]"
+texts:
+- k
+- N(k)O
+- NKO
+- no
+- ko
+---
+
 **Matthew 15:36**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took the seven loaves and the fishes, and gave thanks, and brake [them], and gave to his disciples, and the disciples to the multitude.
 <small><sub>**BSB:**</sub></small>
 Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.
-<small><sub>**Literal:**</sub></small>
-and having taken the seven loaves and the fish, and having given thanks He broke [them] and was giving to the disciples of him <the> and the disciples to the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.35|<< Matthew 15:35]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.37|Matthew 15:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|ἔλαβεν]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G2486\|ἰχθύας,]]  [[G2532\|καὶ]]  [[G2168\|εὐχαριστήσας]]  [[G2806\|ἔκλασεν]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδου]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.35|<< Matthew 15:35]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.37|Matthew 15:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

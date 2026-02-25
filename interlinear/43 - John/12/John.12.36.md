@@ -1,10 +1,63 @@
+---
+title: John 12:36
+type: Verse
+kjv: "While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them."
+bsb: "While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them."
+jesus_said: "While ye have light, believe in the light, that ye may be the children of light."
+greek: "ὡς τὸ φῶς ἔχετε, πιστεύετε εἰς τὸ φῶς, ἵνα υἱοὶ φωτὸς γένησθε. ταῦτα ἐλάλησεν ὁ Ἰησοῦς, καὶ ἀπελθὼν ἐκρύβη ἀπ᾽ αὐτῶν.¶"
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G2192]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G2443]]"
+- "[[G5207]]"
+- "[[G1096]]"
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G2928]]"
+- "[[G0575]]"
+- "[[G0846]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **John 12:36**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
 <small><sub>**BSB:**</sub></small>
 While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them.
-<small><sub>**Literal:**</sub></small>
-While the light you have, do believe in the light, so that sons of light you may become. These things spoke <the> Jesus, and having gone away He was hidden from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.35|<< John 12:35]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.37|John 12:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G2192\|ἔχετε,]]  [[G4100\|πιστεύετε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5457\|φῶς,]]  [[G2443\|ἵνα]]  [[G5207\|υἱοὶ]]  [[G5457\|φωτὸς]]  [[G1096\|γένησθε.]]  [[G3778\|ταῦτα]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G0565\|ἀπελθὼν]]  [[G2928\|ἐκρύβη]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic LIGHT|LIGHT]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.35|<< John 12:35]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.37|John 12:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

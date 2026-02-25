@@ -1,8 +1,59 @@
+---
+title: Isaiah 13:14
+type: Verse
+kjv: "And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land."
+bsb: "Like a hunted gazelle, like a sheep without a shepherd, each will return to his own people, each will flee to his native land."
+hebrew: "וְהָיָה֙ כִּצְבִ֣י מֻדָּ֔ח וּכְצֹ֖אן וְאֵ֣ין מְקַבֵּ֑ץ אִ֤ישׁ אֶל־ עַמּוֹ֙ יִפְנ֔וּ וְאִ֥ישׁ אֶל־ אַרְצ֖וֹ יָנֽוּסוּ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6643B]]"
+- "[[H5080]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H0369]]"
+- "[[H6908]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H6437G]]"
+- "[[H0776G]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:14**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
 <small><sub>**BSB:**</sub></small>
 Like a hunted gazelle, like a sheep without a shepherd, each will return to his own people, each will flee to his native land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9004\|כִּ]][[H6643B\|צְבִ֣י]] [[H5080\|מֻדָּ֔ח]] [[H9002\|וּ]][[H9004\|כְ]][[H6629G\|צֹ֖אן]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6908\|מְקַבֵּ֑ץ]] [[H0376I\|אִ֤ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַמּ]][[H9023\|וֹ֙]] [[H6437G\|יִפְנ֔וּ]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצ֖]][[H9023\|וֹ]] [[H5127\|יָנֽוּסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.13|<< Isaiah 13:13]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.15|Isaiah 13:15 >>]]</td></tr></table>
 

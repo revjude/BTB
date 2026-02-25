@@ -1,8 +1,79 @@
+---
+title: Exodus 23:31
+type: Verse
+kjv: "And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee."
+bsb: "And I will establish your borders from the Red Sea to the Sea of the Philistines, and from the desert to the Euphrates. For I will deliver the inhabitants into your hand, and you will drive them out before you."
+hebrew: "וְשַׁתִּ֣י אֶת־ גְּבֻלְךָ֗ מִיַּם־ סוּף֙ וְעַד־ יָ֣ם פְּלִשְׁתִּ֔ים וּמִמִּדְבָּ֖ר עַד־ הַנָּהָ֑ר כִּ֣י׀ אֶתֵּ֣ן בְּיֶדְכֶ֗ם אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ וְגֵרַשְׁתָּ֖מוֹ מִפָּנֶֽיךָ׃"
+pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7896G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H5488G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H6430I]]"
+- "[[H4057B]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H1644G]]"
+- "[[H9038]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:31**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
 <small><sub>**BSB:**</sub></small>
 And I will establish your borders from the Red Sea to the Sea of the Philistines, and from the desert to the Euphrates. For I will deliver the inhabitants into your hand, and you will drive them out before you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7896G\|שַׁתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H1366G\|גְּבֻלְ]][[H9021\|ךָ֗]] [[H9006\|מִ]][[H3220G\|יַּם]][[H9014\|־]] [[H5488G\|סוּף֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3220G\|יָ֣ם]] [[H6430I\|פְּלִשְׁתִּ֔ים]] [[H9002\|וּ]][[H9006\|מִ]][[H4057B\|מִּדְבָּ֖ר]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H5104G\|נָּהָ֑ר]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H5414G\|אֶתֵּ֣ן]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶ֗ם]] [[H0853\|אֵ֚ת]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H1644G\|גֵרַשְׁתָּ֖]][[H9038\|מוֹ]] [[H9006\|מִ]][[H6440G\|פָּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic CANAANITES|CANAANITES]] • [[topic EUPHRATES|EUPHRATES]] • [[topic GOD|GOD]] • [[topic LAND|LAND]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic PHILISTINES|PHILISTINES]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.30|<< Exodus 23:30]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.32|Exodus 23:32 >>]]</td></tr></table>
 

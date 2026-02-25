@@ -1,8 +1,53 @@
+---
+title: Nehemiah 11:23
+type: Verse
+kjv: "For it was the king’s commandment concerning them, that a certain portion should be for the singers, due for every day."
+bsb: "For there was a command from the king concerning the singers, an ordinance regulating their daily activities."
+hebrew: "כִּֽי־ מִצְוַ֥ת הַמֶּ֖לֶךְ עֲלֵיהֶ֑ם וַאֲמָנָ֥ה עַל־ הַמְשֹׁרְרִ֖ים דְּבַר־ י֥וֹם בְּיוֹמֽוֹ׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0548]]"
+- "[[H7891]]"
+- "[[H1697N]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H3117J]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:23**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it was] the king’s commandment concerning them, that a certain portion should be for the singers, due for every day.
 <small><sub>**BSB:**</sub></small>
 For there was a command from the king concerning the singers, an ordinance regulating their daily activities.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4687\|מִצְוַ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וַ]][[H0548\|אֲמָנָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֖ים]] [[H1697N\|דְּבַר]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.22|<< Nehemiah 11:22]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.24|Nehemiah 11:24 >>]]</td></tr></table>
 

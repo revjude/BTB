@@ -1,10 +1,66 @@
+---
+title: Colossians 1:27
+type: Verse
+kjv: "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:"
+bsb: "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory."
+greek: "οἷς ἠθέλησεν ὁ θεὸς γνωρίσαι, τί τὸ πλοῦτος τῆς δόξης τοῦ μυστηρίου τούτου ἐν τοῖς ἔθνεσιν, ὅ ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης·"
+pericope: "[[Col.1.24 Paul’s Suffering for the Church|Paul’s Suffering for the Church]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3739]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1107]]"
+- "[[G5101]]"
+- "[[G4149]]"
+- "[[G1391]]"
+- "[[G3466]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G4771]]"
+- "[[G1680]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 1:27**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom God would make known what [is] the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
 <small><sub>**BSB:**</sub></small>
 To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
-<small><sub>**Literal:**</sub></small>
-to whom has willed <the> God to make known what the riches of the glory of the mystery this among the Gentiles, which is Christ in you, the hope <the> of glory;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.26|<< Colossians 1:26]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.28|Colossians 1:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἷς]]  [[G2309\|ἠθέλησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1107\|γνωρίσαι,]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4149\|πλοῦτος]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G3466\|μυστηρίου]]  [[G3778\|τούτου]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G5547\|Χριστὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3588\|ἡ]]  [[G1680\|ἐλπὶς]]  [[G3588\|τῆς]]  [[G1391\|δόξης·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOSPEL|GOSPEL]] • [[topic HOPE|HOPE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREACHING|PREACHING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.26|<< Colossians 1:26]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.28|Colossians 1:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

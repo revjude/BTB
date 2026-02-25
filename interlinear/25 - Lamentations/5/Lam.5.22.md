@@ -1,8 +1,52 @@
+---
+title: Lamentations 5:22
+type: Verse
+kjv: "But thou hast utterly rejected us; thou art very wroth against us."
+bsb: "unless You have utterly rejected us and remain angry with us beyond measure."
+hebrew: "כִּ֚י אִם־ מָאֹ֣ס מְאַסְתָּ֔נוּ קָצַ֥פְתָּ עָלֵ֖ינוּ עַד־ מְאֹֽד׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H3988A]]"
+- "[[H9035]]"
+- "[[H7107]]"
+- "[[H5921A]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:22**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast utterly rejected us; thou art very wroth against us.
 <small><sub>**BSB:**</sub></small>
 unless You have utterly rejected us and remain angry with us beyond measure.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֚י]] [[H0518B\|אִם]][[H9014\|־]] [[H3988A\|מָאֹ֣ס]] [[H3988A\|מְאַסְתָּ֔]][[H9035\|נוּ]] [[H7107\|קָצַ֥פְתָּ]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.21|<< Lamentations 5:21]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.1|Ezekiel 1:1 >>]]</td></tr></table>
 

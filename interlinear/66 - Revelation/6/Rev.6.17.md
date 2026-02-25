@@ -1,10 +1,60 @@
+---
+title: Revelation 6:17
+type: Verse
+kjv: "For the great day of his wrath is come; and who shall be able to stand?"
+bsb: "For the great day of Their wrath has come, and who is able to withstand it?”"
+greek: "ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν, καὶ τίς δύναται σταθῆναι;¶"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3173]]"
+- "[[G3709]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G1410]]"
+- "[[G2476]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 6:17**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the great day of his wrath is come; and who shall be able to stand?
 <small><sub>**BSB:**</sub></small>
 For the great day of Their wrath has come, and who is able to withstand it?”
-<small><sub>**Literal:**</sub></small>
-because has come the day <the> great of the wrath of them, and who is able to stand?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.16|<< Revelation 6:16]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.1|Revelation 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2064\|ἦλθεν]]  [[G3588\|ἡ]]  [[G2250\|ἡμέρα]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G3588\|τῆς]]  [[G3709\|ὀργῆς]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G1410\|δύναται]]  [[G2476\|σταθῆναι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ESCAPE|ESCAPE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.16|<< Revelation 6:16]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.1|Revelation 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

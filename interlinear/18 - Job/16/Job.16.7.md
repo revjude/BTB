@@ -1,8 +1,51 @@
+---
+title: Job 16:7
+type: Verse
+kjv: "But now he hath made me weary: thou hast made desolate all my company."
+bsb: "Surely He has now exhausted me; You have devastated all my family."
+hebrew: "אַךְ־ עַתָּ֥ה הֶלְאָ֑נִי הֲ֝שִׁמּ֗וֹתָ כָּל־ עֲדָתִֽי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H3811]]"
+- "[[H9030]]"
+- "[[H8074G]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:7**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now he hath made me weary: thou hast made desolate all my company.
 <small><sub>**BSB:**</sub></small>
 Surely He has now exhausted me; You have devastated all my family.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H6258\|עַתָּ֥ה]] [[H3811\|הֶלְאָ֑]][[H9030\|נִי]] [[H8074G\|הֲ֝שִׁמּ֗וֹתָ]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.6|<< Job 16:6]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.8|Job 16:8 >>]]</td></tr></table>
 

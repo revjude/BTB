@@ -1,8 +1,65 @@
+---
+title: Ezekiel 11:24
+type: Verse
+kjv: "Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me."
+bsb: "And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the vision given by the Spirit of God. After the vision had gone up from me,"
+hebrew: "וְר֣וּחַ נְשָׂאַ֗תְנִי וַתְּבִיאֵ֤נִי כַשְׂדִּ֙ימָה֙ אֶל־ הַגּוֹלָ֔ה בַּמַּרְאֶ֖ה בְּר֣וּחַ אֱלֹהִ֑ים וַיַּ֙עַל֙ מֵֽעָלַ֔י הַמַּרְאֶ֖ה אֲשֶׁ֥ר רָאִֽיתִי׃"
+pericope: "[[Ezek.11.22 God’s Glory Leaves Jerusalem|God’s Glory Leaves Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H5375G]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H3778]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H9003]]"
+- "[[H4758]]"
+- "[[H0430G]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:24**<big><big>[[Ezek.11.22 God’s Glory Leaves Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 <small><sub>**BSB:**</sub></small>
 And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the vision given by the Spirit of God. After the vision had gone up from me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|ר֣וּחַ]] [[H5375G\|נְשָׂאַ֗תְ]][[H9030\|נִי]] [[H9001\|וַ]][[H0935P\|תְּבִיאֵ֤]][[H9030\|נִי]] [[H3778\|כַשְׂדִּ֙ימָ]][[H9011\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1473\|גּוֹלָ֔ה]] [[H9003\|בַּ]][[H4758\|מַּרְאֶ֖ה]] [[H9003\|בְּ]][[H7307G\|ר֣וּחַ]] [[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H5927G\|יַּ֙עַל֙]] [[H9006\|מֵֽ]][[H5921A\|עָלַ֔]][[H9030\|י]] [[H9009\|הַ]][[H4758\|מַּרְאֶ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|רָאִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.23|<< Ezekiel 11:23]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.25|Ezekiel 11:25 >>]]</td></tr></table>
 

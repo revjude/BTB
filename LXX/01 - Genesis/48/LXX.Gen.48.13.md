@@ -1,6 +1,69 @@
+---
+title: LXX Genesis 48:13
+type: Verse
+lxx: "And Joseph taking his two sons,  with Ephraim at the right, but from the left of Israel,  and Manasseh at the left, but from the right of Israel, and he approached them to him."
+greek: "λαβών δε Ιωσήφ τους δύο υιός αυτού τον τε Εφραίμ εν τη δεξιά εξ αριστερών δε Ισραήλ τον δε Μανασσή εν τη αριστερά εκ δεξιών δε Ισραήλ και ήγγισεν αυτούς αυτώ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[G2983]]"
+- "[[G1161]]"
+- "[[G2501]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G2187]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G1537]]"
+- "[[G0710]]"
+- "[[G1161]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3128]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0710]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G1161]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G1448]]"
+- "[[G1473]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 48:13** 
 <small><sub>**LXX:**</sub></small>
 And Joseph taking his two sons,  with Ephraim at the right, but from \[the\] left of Israel,  and Manasseh at the left, but from \[the\] right of Israel, and he approached them to him. 
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβών]] [[G1161\|δε]] [[G2501\|Ιωσήφ]] [[G3588\|τους]] [[G1417\|δύο]] [[G5207\|υιός]] [[G1473\|αυτού]] [[G3588\|τον]] [[G5037\|τε]] [[G2187\|Εφραίμ]] [[G1722\|εν]] [[G3588\|τη]] [[G1188\|δεξιά]] [[G1537\|εξ]] [[G0710\|αριστερών]] [[G1161\|δε]] [[G2474\|Ισραήλ]] [[G3588\|τον]] [[G1161\|δε]] [[G3128\|Μανασσή]] [[G1722\|εν]] [[G3588\|τη]] [[G0710\|αριστερά]] [[G1537\|εκ]] [[G1188\|δεξιών]] [[G1161\|δε]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G1448\|ήγγισεν]] [[G1473\|αυτούς]] [[G1473\|αυτώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.48.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.12|<< Genesis 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.14|Genesis 48:14 >>]]</td></tr></table>
 
@@ -36,6 +99,6 @@ And Joseph taking his two sons,  with Ephraim at the right, but from \[the\] lef
 | and | **<big>[[G2532\|και]]</big>** |
 | he approached them | **<big>[[G1448\|ήγγισεν]]</big>** **<big>[[G1473\|αυτούς]]</big>** |
 | to him. | **<big>[[G1473\|αυτώ]]</big>** |
-[[Gen.48.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.12|<< Genesis 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.14|Genesis 48:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.12|<< Genesis 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.14|Genesis 48:14 >>]]</td></tr></table>
 
 

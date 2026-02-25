@@ -1,10 +1,58 @@
+---
+title: Acts 8:25
+type: Verse
+kjv: "And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans."
+bsb: "And after Peter and John had testified and spoken the word of the Lord, they returned to Jerusalem, preaching the gospel in many of the Samaritan villages."
+greek: "οἱ μὲν οὖν διαμαρτυράμενοι καὶ λαλήσαντες τὸν λόγον τοῦ κυρίου ὑπέστρεφον εἰς Ἱεροσόλυμα, πολλάς τε κώμας τῶν Σαμαριτῶν εὐηγγελίζοντο.¶"
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PETER|PETER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1263]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G4183]]"
+- "[[G5037]]"
+- "[[G2968]]"
+- "[[G4541]]"
+- "[[G2097]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 8:25**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.
 <small><sub>**BSB:**</sub></small>
 And after Peter and John had testified and spoken the word of the Lord, they returned to Jerusalem, preaching the gospel in many of the Samaritan villages.
-<small><sub>**Literal:**</sub></small>
-They indeed therefore having earnestly testified and having spoken the word of the Lord were travelling back to Jerusalem, to many then villages of the Samaritans they were evangelising.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.24|<< Acts 8:24]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.26|Acts 8:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1263\|διαμαρτυράμενοι]]  [[G2532\|καὶ]]  [[G2980\|λαλήσαντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G5290\|ὑπέστρεφον]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα,]]  [[G4183\|πολλάς]]  [[G5037\|τε]]  [[G2968\|κώμας]]  [[G3588\|τῶν]]  [[G4541\|Σαμαριτῶν]]  [[G2097\|εὐηγγελίζοντο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PETER|PETER]] • [[topic SAMARIA|SAMARIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.24|<< Acts 8:24]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.26|Acts 8:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

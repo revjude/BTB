@@ -1,8 +1,80 @@
+---
+title: Exodus 10:7
+type: Verse
+kjv: "And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?"
+bsb: "Pharaoh’s officials asked him, “How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt lies in ruins?”"
+hebrew: "וַיֹּאמְרוּ֩ עַבְדֵ֨י פַרְעֹ֜ה אֵלָ֗יו עַד־ מָתַי֙ יִהְיֶ֨ה זֶ֥ה לָ֙נוּ֙ לְמוֹקֵ֔שׁ שַׁלַּח֙ אֶת־ הָ֣אֲנָשִׁ֔ים וְיַֽעַבְד֖וּ אֶת־ יְהוָ֣ה אֱלֹהֵיהֶ֑ם הֲטֶ֣רֶם תֵּדַ֔ע כִּ֥י אָבְדָ֖ה מִצְרָֽיִם׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H6547J]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H1961]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4170]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9008]]"
+- "[[H2962]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:7**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?
 <small><sub>**BSB:**</sub></small>
 Pharaoh’s officials asked him, “How long will this man be a snare to us? Let the people go, so that they may worship the LORD their God. Do you not yet realize that Egypt lies in ruins?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֩]] [[H5650\|עַבְדֵ֨י]] [[H6547J\|פַרְעֹ֜ה]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַי֙]] [[H1961\|יִהְיֶ֨ה]] [[H2088\|זֶ֥ה]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H9005\|לְ]][[H4170\|מוֹקֵ֔שׁ]] [[H7971H\|שַׁלַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0582\|אֲנָשִׁ֔ים]] [[H9002\|וְ]][[H5647H\|יַֽעַבְד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H9008\|הֲ]][[H2962\|טֶ֣רֶם]] [[H3045\|תֵּדַ֔ע]] [[H3588A\|כִּ֥י]] [[H0006\|אָבְדָ֖ה]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.6|<< Exodus 10:6]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.8|Exodus 10:8 >>]]</td></tr></table>
 

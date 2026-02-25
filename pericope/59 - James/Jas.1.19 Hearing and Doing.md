@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hearing and Doing
+type: Pericope
 pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: James
 chapter: 1
 book/chapter: "[[Jas.1|James 1]]"
-genre:
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 9
 verses:
 - "[[Jas.1.19]]"
 - "[[Jas.1.20]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jas.1.27]]"
 ---
 
-[[Jas.1|James 1:19 - James 1:27]]
+<small>[[Jas.1|James 1:19-27]]</small>
 *Hearing and Doing*
 
 [[Jas.1.19|19]] Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:

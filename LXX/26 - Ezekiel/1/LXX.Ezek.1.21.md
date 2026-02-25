@@ -1,6 +1,68 @@
+---
+title: LXX Ezekiel 1:21
+type: Verse
+lxx: "In  their going, the wheels went; and in  their standing, the wheels stood; and in  their lifting away from the earth, the wheels lifted away with them; for spirit of life was in the wheels."
+greek: "εν τω πορεύεσθαι αυτά επορεύοντο και εν τω εστάναι αυτά ειστήκεισαν και εν τω εξαίρειν αυτα από της γης εξήροντο συν αυτοίς ότι πνεύμα ζωής ην εν τοις τροχοίς"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2476]]"
+- "[[G1473]]"
+- "[[G2476]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1808]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1808]]"
+- "[[G4862]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G4151]]"
+- "[[G2222]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5164]]"
+---
+
 **LXX Ezekiel 1:21** 
 <small><sub>**LXX:**</sub></small>
 In  their going, \[the wheels\] went; and in  their standing, \[the wheels\] stood; and in  their lifting away from the earth, \[the wheels\] lifted away with them; for spirit of life was in the wheels. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τω]] [[G4198\|πορεύεσθαι]] [[G1473\|αυτά]] [[G4198\|επορεύοντο]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G2476\|εστάναι]] [[G1473\|αυτά]] [[G2476\|ειστήκεισαν]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G1808\|εξαίρειν]] [[G1473\|αυτα]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G1808\|εξήροντο]] [[G4862\|συν]] [[G1473\|αυτοίς]] [[G3754\|ότι]] [[G4151\|πνεύμα]] [[G2222\|ζωής]] [[G1510\|ην]] [[G1722\|εν]] [[G3588\|τοις]] [[G5164\|τροχοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
@@ -32,6 +94,6 @@ In  their going, \[the wheels\] went; and in  their standing, \[the wheels\] sto
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τοις]]</big>** |
 | wheels. | **<big>[[G5164\|τροχοίς]]</big>** |
-[[Ezek.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.20|<< Ezekiel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.22|Ezekiel 1:22 >>]]</td></tr></table>
 
 

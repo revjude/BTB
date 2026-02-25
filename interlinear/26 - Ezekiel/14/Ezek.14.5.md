@@ -1,8 +1,61 @@
+---
+title: Ezekiel 14:5
+type: Verse
+kjv: "That I may take the house of Israel in their own heart, because they are all estranged from me through their idols."
+bsb: "so that I may take hold of the hearts of the people of Israel. For because of their idols, they are all estranged from Me.’"
+hebrew: "לְמַ֛עַן תְּפֹ֥שׂ אֶת־ בֵּֽית־ יִשְׂרָאֵ֖ל בְּלִבָּ֑ם אֲשֶׁ֤ר נָזֹ֙רוּ֙ מֵֽעָלַ֔י בְּגִלּֽוּלֵיהֶ֖ם כֻּלָּֽם׃ ס"
+pericope: "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H4616]]"
+- "[[H8610]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H2114A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1544]]"
+- "[[H3605]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 14:5**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
 <small><sub>**BSB:**</sub></small>
 so that I may take hold of the hearts of the people of Israel. For because of their idols, they are all estranged from Me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֛עַן]] [[H8610\|תְּפֹ֥שׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H2114A\|נָזֹ֙רוּ֙]] [[H9006\|מֵֽ]][[H5921A\|עָלַ֔]][[H9030\|י]] [[H9003\|בְּ]][[H1544\|גִלּֽוּלֵי]][[H9028\|הֶ֖ם]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.4|<< Ezekiel 14:4]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.6|Ezekiel 14:6 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ so that I may take hold of the hearts of the people of Israel. For because of th
 | they have become estranged  |**<big>&#8207;[[H2114A\|נָזֹ֙רוּ֙]]&#8207; </big>**| na.Zo.ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> me  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5921A\|עָלַ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by idols their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1544\|גִלּֽוּלֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> gi.lu.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| all of them  |**<big>&#8207;[[H3605\|כֻּלָּֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all of them  |**<big>&#8207;[[H3605\|כֻּלָּֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.4|<< Ezekiel 14:4]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.6|Ezekiel 14:6 >>]]</td></tr></table>
 
 

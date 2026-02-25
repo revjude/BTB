@@ -1,10 +1,64 @@
+---
+title: Matthew 24:32
+type: Verse
+kjv: "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
+bsb: "Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near."
+jesus_said: "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:"
+greek: "Ἀπὸ δὲ τῆς συκῆς μάθετε τὴν παραβολήν· ὅταν ἤδη ὁ κλάδος αὐτῆς γένηται ἁπαλὸς καὶ τὰ φύλλα ἐκφύῃ, γινώσκετε ὅτι ἐγγὺς τὸ θέρος."
+pericope: "[[Matt.24.32 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FIG TREE|FIG TREE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SEASONS|SEASONS]]"
+- "[[topic SUMMER|SUMMER]]"
+strongs:
+- "[[G0575]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4808]]"
+- "[[G3129]]"
+- "[[G3850]]"
+- "[[G3752]]"
+- "[[G2235]]"
+- "[[G2798]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G0527]]"
+- "[[G2532]]"
+- "[[G5444]]"
+- "[[G1631]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1451]]"
+- "[[G2330]]"
+texts:
+- NKO
+---
+
 **Matthew 24:32**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer [is] nigh:
 <small><sub>**BSB:**</sub></small>
 Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.
-<small><sub>**Literal:**</sub></small>
-From now the fig tree do learn the parable: When already the branch of it may become tender and the leaves may it put forth, you know that near [is] the summer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.31|<< Matthew 24:31]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.33|Matthew 24:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|Ἀπὸ]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G4808\|συκῆς]]  [[G3129\|μάθετε]]  [[G3588\|τὴν]]  [[G3850\|παραβολήν·]]  [[G3752\|ὅταν]]  [[G2235\|ἤδη]]  [[G3588\|ὁ]]  [[G2798\|κλάδος]]  [[G0846\|αὐτῆς]]  [[G1096\|γένηται]]  [[G0527\|ἁπαλὸς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5444\|φύλλα]]  [[G1631\|ἐκφύῃ,]]  [[G1097\|γινώσκετε]]  [[G3754G\|ὅτι]]  [[G1451\|ἐγγὺς]]  [[G3588\|τὸ]]  [[G2330\|θέρος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIG TREE|FIG TREE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SEASONS|SEASONS]] • [[topic SUMMER|SUMMER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.31|<< Matthew 24:31]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.33|Matthew 24:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

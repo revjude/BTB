@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua’s Charge to Leaders
+type: Pericope
 pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 23
 book/chapter: "[[Josh.23|Joshua 23]]"
-genre:
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 16
 verses:
 - "[[Josh.23.1]]"
 - "[[Josh.23.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Josh.23.16]]"
 ---
 
-[[Josh.23|Joshua 23:1 - Joshua 23:16]]
+<small>[[Josh.23|Joshua 23:1-16]]</small>
 *Joshua’s Charge to Leaders*
 
 [[Josh.23.1|1]] And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old \[and\] stricken in age.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Great Misery
+type: Pericope
 pericope: "[[Mic.7.1 Israel’s Great Misery|Israel’s Great Misery]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 7
 book/chapter: "[[Mic.7|Micah 7]]"
-genre:
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 6
 verses:
 - "[[Mic.7.1]]"
 - "[[Mic.7.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mic.7.6]]"
 ---
 
-[[Mic.7|Micah 7:1 - Micah 7:6]]
+<small>[[Mic.7|Micah 7:1-6]]</small>
 *Israel’s Great Misery*
 
 [[Mic.7.1|1]] Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: \[there is\] no cluster to eat: my soul desired the firstripe fruit.

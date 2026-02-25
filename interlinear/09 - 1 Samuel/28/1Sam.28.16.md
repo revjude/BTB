@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 28:16
+type: Verse
+kjv: "Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?"
+bsb: "“Why do you consult me,” asked Samuel, “since the LORD has turned away from you and become your enemy?"
+hebrew: "וַיֹּ֣אמֶר שְׁמוּאֵ֔ל וְלָ֖מָּה תִּשְׁאָלֵ֑נִי וַיהוָ֛ה סָ֥ר מֵעָלֶ֖יךָ וַיְהִ֥י עָרֶֽךָ׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7592]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H5493I]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H1961]]"
+- "[[H6145]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:16**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?
 <small><sub>**BSB:**</sub></small>
 “Why do you consult me,” asked Samuel, “since the LORD has turned away from you and become your enemy?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H9002\|וְ]][[H9005\|לָ֖]][[H4100\|מָּה]] [[H7592\|תִּשְׁאָלֵ֑]][[H9030\|נִי]] [[H9002\|וַ]][[H3068G\|יהוָ֛ה]] [[H5493I\|סָ֥ר]] [[H9006\|מֵ]][[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H6145\|עָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.15|<< 1 Samuel 28:15]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.17|1 Samuel 28:17 >>]]</td></tr></table>
 

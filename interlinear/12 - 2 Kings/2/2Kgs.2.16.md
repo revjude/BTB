@@ -1,8 +1,75 @@
+---
+title: 2 Kings 2:16
+type: Verse
+kjv: "And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send."
+bsb: "“Look now,” they said to Elisha, “we your servants have fifty valiant men. Please let them go and search for your master. Perhaps the Spirit of the LORD has taken him up and put him on one of the mountains or in one of the valleys.” “Do not send them,” Elisha replied."
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֡יו הִנֵּה־ נָ֣א יֵֽשׁ־ אֶת־ עֲבָדֶיךָ֩ חֲמִשִּׁ֨ים אֲנָשִׁ֜ים בְּנֵֽי־ חַ֗יִל יֵ֣לְכוּ נָא֮ וִיבַקְשׁ֣וּ אֶת־ אֲדֹנֶיךָ֒ פֶּן־ נְשָׂאוֹ֙ ר֣וּחַ יְהוָ֔ה וַיַּשְׁלִכֵ֙הוּ֙ בְּאַחַ֣ד הֶהָרִ֔ים א֖וֹ בְּאַחַ֣ת הַגֵּאָי֑וֹת וַיֹּ֖אמֶר לֹ֥א תִשְׁלָֽחוּ׃"
+pericope: "[[2Kgs.2.15 Elisha Succeeds Elijah|Elisha Succeeds Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3426]]"
+- "[[H0854]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2572]]"
+- "[[H0582]]"
+- "[[H1121K]]"
+- "[[H2428G]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H0113]]"
+- "[[H6435]]"
+- "[[H5375H]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H0176A]]"
+- "[[H1516R]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 2:16**<big><big>[[2Kgs.2.15 Elisha Succeeds Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.
 <small><sub>**BSB:**</sub></small>
 “Look now,” they said to Elisha, “we your servants have fifty valiant men. Please let them go and search for your master. Perhaps the Spirit of the LORD has taken him up and put him on one of the mountains or in one of the valleys.” “Do not send them,” Elisha replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֡י]][[H9033\|ו]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3426\|יֵֽשׁ]][[H9014\|־]] [[H0854\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדֶי]][[H9021\|ךָ֩]] [[H2572\|חֲמִשִּׁ֨ים]] [[H0582\|אֲנָשִׁ֜ים]] [[H1121K\|בְּנֵֽי]][[H9014\|־]] [[H2428G\|חַ֗יִל]] [[H1980G\|יֵ֣לְכוּ]] [[H4994\|נָא֮]] [[H9002\|וִ]][[H1245\|יבַקְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנֶי]][[H9021\|ךָ֒]] [[H6435\|פֶּן]][[H9014\|־]] [[H5375H\|נְשָׂא]][[H9033\|וֹ֙]] [[H7307G\|ר֣וּחַ]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7993\|יַּשְׁלִכֵ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H9009\|הֶ]][[H2022G\|הָרִ֔ים]] [[H0176A\|א֖וֹ]] [[H9003\|בְּ]][[H0259\|אַחַ֣ת]] [[H9009\|הַ]][[H1516R\|גֵּאָי֑וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H3808\|לֹ֥א]] [[H7971G\|תִשְׁלָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.15|<< 2 Kings 2:15]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.17|2 Kings 2:17 >>]]</td></tr></table>
 

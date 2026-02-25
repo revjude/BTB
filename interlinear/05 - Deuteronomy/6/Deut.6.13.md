@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 6:13
+type: Verse
+kjv: "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name."
+bsb: "Fear the LORD your God, serve Him only, and take your oaths in His name."
+hebrew: "אֶת־ יְהוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א וְאֹת֣וֹ תַעֲבֹ֑ד וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3372H]]"
+- "[[H9002]]"
+- "[[H9033]]"
+- "[[H5647G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:13**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.
 <small><sub>**BSB:**</sub></small>
 Fear the LORD your God, serve Him only, and take your oaths in His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H3372H\|תִּירָ֖א]] [[H9002\|וְ]][[H0853\|אֹת֣]][[H9033\|וֹ]] [[H5647G\|תַעֲבֹ֑ד]] [[H9002\|וּ]][[H9003\|בִ]][[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H7650\|תִּשָּׁבֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OATH|OATH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.12|<< Deuteronomy 6:12]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.14|Deuteronomy 6:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

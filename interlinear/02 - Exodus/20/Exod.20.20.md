@@ -1,8 +1,73 @@
+---
+title: Exodus 20:20
+type: Verse
+kjv: "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+bsb: "“Do not be afraid,” Moses replied. “For God has come to test you, so that the fear of Him may be before you, to keep you from sinning.”"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־ הָעָם֮ אַל־ תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל־ פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃"
+pericope: "[[Exod.20.18 Moses Comforts the People|Moses Comforts the People]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H5254G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3374]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H1115]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 20:20**<big><big>[[Exod.20.18 Moses Comforts the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid,” Moses replied. “For God has come to test you, so that the fear of Him may be before you, to keep you from sinning.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָאוּ֒]] [[H3588A\|כִּ֗י]] [[H9005\|לְ]][[H9003\|בַֽ]][[H5668\|עֲבוּר֙]] [[H5254G\|נַסּ֣וֹת]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0935G\|בָּ֖א]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וּ]][[H9003\|בַ]][[H5668\|עֲב֗וּר]] [[H1961\|תִּהְיֶ֧ה]] [[H3374\|יִרְאָת֛]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵי]][[H9026\|כֶ֖ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H2398\|תֶחֱטָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.19|<< Exodus 20:19]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.21|Exodus 20:21 >>]]</td></tr></table>
 

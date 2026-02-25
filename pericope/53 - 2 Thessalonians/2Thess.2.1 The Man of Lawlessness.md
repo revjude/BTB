@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Man of Lawlessness
+type: Pericope
 pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: 2 Thessalonians
 chapter: 2
 book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
-genre:
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 12
 verses:
 - "[[2Thess.2.1]]"
 - "[[2Thess.2.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Thess.2.12]]"
 ---
 
-[[2Thess.2|2 Thessalonians 2:1 - 2 Thessalonians 2:12]]
+<small>[[2Thess.2|2 Thessalonians 2:1-12]]</small>
 *The Man of Lawlessness*
 
 [[2Thess.2.1|1]] Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and \[by\] our gathering together unto him,

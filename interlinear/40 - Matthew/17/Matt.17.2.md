@@ -1,10 +1,62 @@
+---
+title: Matthew 17:2
+type: Verse
+kjv: "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+bsb: "There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light."
+greek: "καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ ἐγένετο λευκὰ ὡς τὸ φῶς."
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic FACE|FACE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3339]]"
+- "[[G1715]]"
+- "[[G0846]]"
+- "[[G2989]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G5613]]"
+- "[[G2246]]"
+- "[[G1161]]"
+- "[[G2440]]"
+- "[[G1096]]"
+- "[[G3022]]"
+- "[[G5457]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 17:2**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.
 <small><sub>**BSB:**</sub></small>
 There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.
-<small><sub>**Literal:**</sub></small>
-And He was transfigured before them, and shone the face of Him like the sun, <the> and the clothes of Him he became white as the light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.1|<< Matthew 17:1]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.3|Matthew 17:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3339\|μετεμορφώθη]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2989\|ἔλαμψεν]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος,]]  [[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο]]  [[G3022\|λευκὰ]]  [[G5613\|ὡς]]  [[G3588\|τὸ]]  [[G5457\|φῶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic FACE|FACE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.1|<< Matthew 17:1]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.3|Matthew 17:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

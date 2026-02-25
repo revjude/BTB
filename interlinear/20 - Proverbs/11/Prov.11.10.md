@@ -1,8 +1,52 @@
+---
+title: Proverbs 11:10
+type: Verse
+kjv: "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting."
+bsb: "When the righteous thrive, the city rejoices, and when the wicked perish, there are shouts of joy."
+hebrew: "בְּט֣וּב צַ֭דִּיקִים תַּעֲלֹ֣ץ קִרְיָ֑ה וּבַאֲבֹ֖ד רְשָׁעִ֣ים רִנָּֽה׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H2898]]"
+- "[[H6662]]"
+- "[[H5970]]"
+- "[[H7151]]"
+- "[[H9002]]"
+- "[[H0006]]"
+- "[[H7563]]"
+- "[[H7440]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:10**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, [there is] shouting.
 <small><sub>**BSB:**</sub></small>
 When the righteous thrive, the city rejoices, and when the wicked perish, there are shouts of joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2898\|ט֣וּב]] [[H6662\|צַ֭דִּיקִים]] [[H5970\|תַּעֲלֹ֣ץ]] [[H7151\|קִרְיָ֑ה]] [[H9002\|וּ]][[H9003\|בַ]][[H0006\|אֲבֹ֖ד]] [[H7563\|רְשָׁעִ֣ים]] [[H7440\|רִנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.9|<< Proverbs 11:9]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.11|Proverbs 11:11 >>]]</td></tr></table>
 

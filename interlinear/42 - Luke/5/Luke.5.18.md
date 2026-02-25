@@ -1,10 +1,59 @@
+---
+title: Luke 5:18
+type: Verse
+kjv: "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
+bsb: "Just then some men came carrying a paralyzed man on a mat. They tried to bring him inside to set him before Jesus,"
+greek: "καὶ ἰδοὺ ἄνδρες φέροντες ἐπὶ κλίνης ἄνθρωπον ὃς ἦν παραλελυμένος, καὶ ἐζήτουν αὐτὸν εἰσενεγκεῖν καὶ θεῖναι αὐτὸν ἐνώπιον αὐτοῦ."
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G5342]]"
+- "[[G1909]]"
+- "[[G2825]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3886]]"
+- "[[G2212]]"
+- "[[G0846]]"
+- "[[G1533]]"
+- "[[G5087]]"
+- "[[G1799]]"
+texts:
+- NKO
+---
+
 **Luke 5:18**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, men brought in a bed a man which was taken with a palsy: and they sought [means] to bring him in, and to lay [him] before him.
 <small><sub>**BSB:**</sub></small>
 Just then some men came carrying a paralyzed man on a mat. They tried to bring him inside to set him before Jesus,
-<small><sub>**Literal:**</sub></small>
-And behold men carrying upon a mat a man who was paralyzed, and they were seeking him to bring in and to place him before Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.17|<< Luke 5:17]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.19|Luke 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἄνδρες]]  [[G5342\|φέροντες]]  [[G1909\|ἐπὶ]]  [[G2825\|κλίνης]]  [[G0444\|ἄνθρωπον]]  [[G3739\|ὃς]]  [[G1510\|ἦν]]  [[G3886\|παραλελυμένος,]]  [[G2532\|καὶ]]  [[G2212\|ἐζήτουν]]  [[G0846\|αὐτὸν]]  [[G1533\|εἰσενεγκεῖν]]  [[G2532\|καὶ]]  [[G5087\|θεῖναι]]  [[G0846\|αὐτὸν]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.17|<< Luke 5:17]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.19|Luke 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

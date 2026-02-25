@@ -1,8 +1,57 @@
+---
+title: Numbers 7:51
+type: Verse
+kjv: "One young bullock, one ram, one lamb of the first year, for a burnt offering:"
+bsb: "one young bull, one ram, and one male lamb a year old for a burnt offering;"
+hebrew: "פַּ֣ר אֶחָ֞ד בֶּן־ בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־ אֶחָ֥ד בֶּן־ שְׁנָת֖וֹ לְעֹלָֽה׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H6499]]"
+- "[[H0259]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:51**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One young bullock, one ram, one lamb of the first year, for a burnt offering:
 <small><sub>**BSB:**</sub></small>
 one young bull, one ram, and one male lamb a year old for a burnt offering;
+<small><sub>**Hebrew:**</sub></small>
+[[H6499\|פַּ֣ר]] [[H0259\|אֶחָ֞ד]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֗ר]] [[H0352A\|אַ֧יִל]] [[H0259\|אֶחָ֛ד]] [[H3532\|כֶּֽבֶשׂ]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8141\|שְׁנָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.50|<< Numbers 7:50]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.52|Numbers 7:52 >>]]</td></tr></table>
 

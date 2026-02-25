@@ -1,8 +1,67 @@
+---
+title: Leviticus 25:41
+type: Verse
+kjv: "And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return."
+bsb: "Then he and his children are to be released, and he may return to his clan and to the property of his fathers."
+hebrew: "וְיָצָא֙ מֵֽעִמָּ֔ךְ ה֖וּא וּבָנָ֣יו עִמּ֑וֹ וְשָׁב֙ אֶל־ מִשְׁפַּחְתּ֔וֹ וְאֶל־ אֲחֻזַּ֥ת אֲבֹתָ֖יו יָשֽׁוּב׃"
+pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9032]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4940]]"
+- "[[H0272]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:41**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] shall he depart from thee, [both] he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
 <small><sub>**BSB:**</sub></small>
 Then he and his children are to be released, and he may return to his clan and to the property of his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318G\|יָצָא֙]] [[H9006\|מֵֽ]][[H5973B\|עִמָּ֔]][[H9032\|ךְ]] [[H1931\|ה֖וּא]] [[H9002\|וּ]][[H1121A\|בָנָ֣י]][[H9023\|ו]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H7725G\|שָׁב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4940\|מִשְׁפַּחְתּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0272\|אֲחֻזַּ֥ת]] [[H0001G\|אֲבֹתָ֖י]][[H9023\|ו]] [[H7725G\|יָשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.40|<< Leviticus 25:40]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.42|Leviticus 25:42 >>]]</td></tr></table>
 

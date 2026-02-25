@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Return of Property
+type: Pericope
 pericope: "[[Lev.25.13 Return of Property|Return of Property]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 5
 verses:
 - "[[Lev.25.13]]"
 - "[[Lev.25.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Lev.25.17]]"
 ---
 
-[[Lev.25|Leviticus 25:13 - Leviticus 25:17]]
+<small>[[Lev.25|Leviticus 25:13-17]]</small>
 *Return of Property*
 
 [[Lev.25.13|13]] In the year of this jubile ye shall return every man unto his possession.

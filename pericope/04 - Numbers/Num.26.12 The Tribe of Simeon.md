@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Simeon
+type: Pericope
 pericope: "[[Num.26.12 The Tribe of Simeon|The Tribe of Simeon]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,13 +25,14 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 3
 verses:
 - "[[Num.26.12]]"
 - "[[Num.26.13]]"
 - "[[Num.26.14]]"
 ---
 
-[[Num.26|Numbers 26:12 - Numbers 26:14]]
+<small>[[Num.26|Numbers 26:12-14]]</small>
 *The Tribe of Simeon*
 
 [[Num.26.12|12]] The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:

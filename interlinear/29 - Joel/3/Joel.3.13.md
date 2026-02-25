@@ -1,8 +1,61 @@
+---
+title: Joel 3:13
+type: Verse
+kjv: "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great."
+bsb: "Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full; the wine vats overflow because their wickedness is great."
+hebrew: "שִׁלְח֣וּ מַגָּ֔ל כִּ֥י בָשַׁ֖ל קָצִ֑יר בֹּ֤אֽוּ רְדוּ֙ כִּֽי־ מָ֣לְאָה גַּ֔ת הֵשִׁ֙יקוּ֙ הַיְקָבִ֔ים כִּ֥י רַבָּ֖ה רָעָתָֽם׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic SICKLE|SICKLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7971K]]"
+- "[[H4038]]"
+- "[[H3588A]]"
+- "[[H1310]]"
+- "[[H7105A]]"
+- "[[H0935G]]"
+- "[[H7287B]]"
+- "[[H9014]]"
+- "[[H4390]]"
+- "[[H1660]]"
+- "[[H7783]]"
+- "[[H9009]]"
+- "[[H3342]]"
+- "[[H7227A]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:13**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness [is] great.
 <small><sub>**BSB:**</sub></small>
 Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full; the wine vats overflow because their wickedness is great.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971K\|שִׁלְח֣וּ]] [[H4038\|מַגָּ֔ל]] [[H3588A\|כִּ֥י]] [[H1310\|בָשַׁ֖ל]] [[H7105A\|קָצִ֑יר]] [[H0935G\|בֹּ֤אֽוּ]] [[H7287B\|רְדוּ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָ֣לְאָה]] [[H1660\|גַּ֔ת]] [[H7783\|הֵשִׁ֙יקוּ֙]] [[H9009\|הַ]][[H3342\|יְקָבִ֔ים]] [[H3588A\|כִּ֥י]] [[H7227A\|רַבָּ֖ה]] [[H7451I\|רָעָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic JOEL|JOEL]] • [[topic SICKLE|SICKLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.12|<< Joel 3:12]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.14|Joel 3:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

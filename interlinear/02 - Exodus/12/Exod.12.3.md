@@ -1,8 +1,70 @@
+---
+title: Exodus 12:3
+type: Verse
+kjv: "Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:"
+bsb: "Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household."
+hebrew: "דַּבְּר֗וּ אֶֽל־ כָּל־ עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־ אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H6218]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H9038]]"
+- "[[H0376I]]"
+- "[[H7716]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:3**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak ye unto all the congregation of Israel, saying, In the tenth [day] of this month they shall take to them every man a lamb, according to the house of [their] fathers, a lamb for an house:
 <small><sub>**BSB:**</sub></small>
 Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבְּר֗וּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֤ת]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9003\|בֶּ]][[H6218\|עָשֹׂ֖ר]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H3947G\|יִקְח֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H0376I\|אִ֛ישׁ]] [[H7716\|שֶׂ֥ה]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבֹ֖ת]] [[H7716\|שֶׂ֥ה]] [[H9005\|לַ]][[H1004M\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.2|<< Exodus 12:2]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.4|Exodus 12:4 >>]]</td></tr></table>
 

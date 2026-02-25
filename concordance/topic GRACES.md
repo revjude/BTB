@@ -1,7 +1,7 @@
 
 **GRACES**
 
-→ (Christian) [[Matt.5.3|Mt 5:3]]-[[Matt.5.11|11]]; [[Rom.5.3|Ro 5:3]]-[[Rom.5.5|5]]; [[1Cor.13.1|1Co 13:1]]-[[1Cor.13.8|8]],[[1Cor.13.13|13]]; [[Gal.5.22|Ga  5:22]],[[Gal.5.23|23]]; [[2Pet.1.5|2Pe 1:5]]-[[2Pet.1.9|9]]
+→ (Christian) [[Matt.5.3|Mt 5:3-11]]; [[Rom.5.3|Ro 5:3-5]]; [[1Cor.13.1|1Co 13:1-8]],[[1Cor.13.13|13]]; [[Gal.5.22|Ga  5:22]],[[Gal.5.23|23]]; [[2Pet.1.5|2Pe 1:5-9]]
 
 → See [[topic CHARACTER|CHARACTER]]
 

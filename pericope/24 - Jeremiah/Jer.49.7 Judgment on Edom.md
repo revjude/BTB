@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Edom
+type: Pericope
 pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 49
 book/chapter: "[[Jer.49|Jeremiah 49]]"
-genre:
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 16
 verses:
 - "[[Jer.49.7]]"
 - "[[Jer.49.8]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Jer.49.22]]"
 ---
 
-[[Jer.49|Jeremiah 49:7 - Jeremiah 49:22]]
+<small>[[Jer.49|Jeremiah 49:7-22]]</small>
 *Judgment on Edom*
 
 [[Jer.49.7|7]] Concerning Edom, thus saith the LORD of hosts; \[Is\] wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?

@@ -1,8 +1,55 @@
+---
+title: Psalm 36:10
+type: Verse
+kjv: "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart."
+bsb: "Extend Your loving devotion to those who know You, and Your righteousness to the upright in heart."
+hebrew: "מְשֹׁ֣ךְ חַ֭סְדְּךָ לְיֹדְעֶ֑יךָ וְ֝צִדְקָֽתְךָ֗ לְיִשְׁרֵי־ לֵֽב׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H4900]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H3477G]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:10**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.
 <small><sub>**BSB:**</sub></small>
 Extend Your loving devotion to those who know You, and Your righteousness to the upright in heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H4900\|מְשֹׁ֣ךְ]] [[H2617A\|חַ֭סְדְּ]][[H9021\|ךָ]] [[H9005\|לְ]][[H3045\|יֹדְעֶ֑י]][[H9031\|ךָ]] [[H9002\|וְ֝]][[H6666\|צִדְקָֽתְ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H3477G\|יִשְׁרֵי]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.9|<< Psalms 36:9]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.11|Psalms 36:11 >>]]</td></tr></table>
 

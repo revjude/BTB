@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Woman and the Dragon
+type: Pericope
 pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 12
 book/chapter: "[[Rev.12|Revelation 12]]"
-genre:
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.12.1]]"
 - "[[Rev.12.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.12.6]]"
 ---
 
-[[Rev.12|Revelation 12:1 - Revelation 12:6]]
+<small>[[Rev.12|Revelation 12:1-6]]</small>
 *The Woman and the Dragon*
 
 [[Rev.12.1|1]] And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:

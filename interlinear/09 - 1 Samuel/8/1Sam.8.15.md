@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 8:15
+type: Verse
+kjv: "And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants."
+bsb: "He will take a tenth of your grain and grape harvest and give it to his officials and servants."
+hebrew: "וְזַרְעֵיכֶ֥ם וְכַרְמֵיכֶ֖ם יַעְשֹׂ֑ר וְנָתַ֥ן לְסָרִיסָ֖יו וְלַעֲבָדָֽיו׃"
+pericope: "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONARCHY|MONARCHY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H2233G]]"
+- "[[H9026]]"
+- "[[H3754]]"
+- "[[H6237]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5631]]"
+- "[[H9023]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:15**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.
 <small><sub>**BSB:**</sub></small>
 He will take a tenth of your grain and grape harvest and give it to his officials and servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2233G\|זַרְעֵי]][[H9026\|כֶ֥ם]] [[H9002\|וְ]][[H3754\|כַרְמֵי]][[H9026\|כֶ֖ם]] [[H6237\|יַעְשֹׂ֑ר]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H9005\|לְ]][[H5631\|סָרִיסָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לַ]][[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MONARCHY|MONARCHY]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.14|<< 1 Samuel 8:14]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.16|1 Samuel 8:16 >>]]</td></tr></table>
 

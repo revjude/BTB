@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Treasurers, Officers, and Judges
+type: Pericope
 pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 26
 book/chapter: "[[1Chr.26|1 Chronicles 26]]"
-genre:
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 13
 verses:
 - "[[1Chr.26.20]]"
 - "[[1Chr.26.21]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Chr.26.32]]"
 ---
 
-[[1Chr.26|1 Chronicles 26:20 - 1 Chronicles 26:32]]
+<small>[[1Chr.26|1 Chronicles 26:20-32]]</small>
 *The Treasurers, Officers, and Judges*
 
 [[1Chr.26.20|20]] And of the Levites, Ahijah \[was\] over the treasures of the house of God, and over the treasures of the dedicated things.

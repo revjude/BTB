@@ -1,8 +1,71 @@
+---
+title: Jeremiah 29:22
+type: Verse
+kjv: "And of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;"
+bsb: "Because of them, all the exiles of Judah who are in Babylon will use this curse: ‘May the LORD make you like Zedekiah and Ahab, whom the king of Babylon roasted in the fire!’"
+hebrew: "וְלֻקַּ֤ח מֵהֶם֙ קְלָלָ֔ה לְכֹל֙ גָּל֣וּת יְהוּדָ֔ה אֲשֶׁ֥ר בְּבָבֶ֖ל לֵאמֹ֑ר יְשִֽׂמְךָ֤ יְהוָה֙ כְּצִדְקִיָּ֣הוּ וּכְאֶחָ֔ב אֲשֶׁר־ קָלָ֥ם מֶֽלֶךְ־ בָּבֶ֖ל בָּאֵֽשׁ׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AHAB|AHAB]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947J]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H7045]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1546]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0894]]"
+- "[[H0559]]"
+- "[[H7760A]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H6667K]]"
+- "[[H9002]]"
+- "[[H0256H]]"
+- "[[H9014]]"
+- "[[H7033]]"
+- "[[H4428G]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:22**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of them shall be taken up a curse by all the captivity of Judah which [are] in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;
 <small><sub>**BSB:**</sub></small>
 Because of them, all the exiles of Judah who are in Babylon will use this curse: ‘May the LORD make you like Zedekiah and Ahab, whom the king of Babylon roasted in the fire!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947J\|לֻקַּ֤ח]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H7045\|קְלָלָ֔ה]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H1546\|גָּל֣וּת]] [[H3063G\|יְהוּדָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H0894\|בָבֶ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7760A\|יְשִֽׂמְ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H9004\|כְּ]][[H6667K\|צִדְקִיָּ֣הוּ]] [[H9002\|וּ]][[H9004\|כְ]][[H0256H\|אֶחָ֔ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7033\|קָלָ֥]][[H9038\|ם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AHAB|AHAB]] • [[topic FIRE|FIRE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.21|<< Jeremiah 29:21]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.23|Jeremiah 29:23 >>]]</td></tr></table>
 

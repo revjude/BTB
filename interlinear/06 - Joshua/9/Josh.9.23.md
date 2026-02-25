@@ -1,8 +1,63 @@
+---
+title: Joshua 9:23
+type: Verse
+kjv: "Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God."
+bsb: "Now therefore you are under a curse and will perpetually serve as woodcutters and water carriers for the house of my God.”"
+hebrew: "וְעַתָּ֖ה אֲרוּרִ֣ים אַתֶּ֑ם וְלֹֽא־ יִכָּרֵ֨ת מִכֶּ֜ם עֶ֗בֶד וְחֹטְבֵ֥י עֵצִ֛ים וְשֹֽׁאֲבֵי־ מַ֖יִם לְבֵ֥ית אֱלֹהָֽי׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0779]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772G]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H5650]]"
+- "[[H2404]]"
+- "[[H6086G]]"
+- "[[H7579]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:23**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore ye [are] cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.
 <small><sub>**BSB:**</sub></small>
 Now therefore you are under a curse and will perpetually serve as woodcutters and water carriers for the house of my God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H0779\|אֲרוּרִ֣ים]] [[H0859D\|אַתֶּ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3772G\|יִכָּרֵ֨ת]] [[H9006\|מִ]][[H9036\|כֶּ֜ם]] [[H5650\|עֶ֗בֶד]] [[H9002\|וְ]][[H2404\|חֹטְבֵ֥י]] [[H6086G\|עֵצִ֛ים]] [[H9002\|וְ]][[H7579\|שֹֽׁאֲבֵי]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H9005\|לְ]][[H1004Q\|בֵ֥ית]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONTRACTS|CONTRACTS]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.22|<< Joshua 9:22]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.24|Joshua 9:24 >>]]</td></tr></table>
 

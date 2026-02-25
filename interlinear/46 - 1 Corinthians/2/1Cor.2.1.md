@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 2:1
+type: Verse
+kjv: "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."
+bsb: "When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God."
+greek: "Κἀγὼ Κἀγὼ ἐλθὼν πρὸς ὑμᾶς, ἀδελφοί, ἦλθον οὐ καθ᾽ ὑπεροχὴν λόγου ἢ σοφίας καταγγέλλων ὑμῖν τὸ μυστήριον τοῦ θεοῦ."
+pericope: "[[1Cor.2.1 Paul’s Message by the Spirit’s Power|Paul’s Message by the Spirit’s Power]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G3756]]"
+- "[[G2596]]"
+- "[[G5247]]"
+- "[[G3056]]"
+- "[[G2228]]"
+- "[[G4678]]"
+- "[[G2605]]"
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 2:1**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 <small><sub>**BSB:**</sub></small>
 When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God.
-<small><sub>**Literal:**</sub></small>
-And I myself having come to you, brothers, came not according to excellency of speech or wisdom proclaiming to you the mystery <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.31|<< 1 Corinthians 1:31]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.2|1 Corinthians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2064\|ἐλθὼν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G2064\|ἦλθον]]  [[G3756\|οὐ]]  [[G2596\|καθ᾽]]  [[G5247\|ὑπεροχὴν]]  [[G3056\|λόγου]]  [[G2228\|ἢ]]  [[G4678\|σοφίας]]  [[G2605\|καταγγέλλων]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.31|<< 1 Corinthians 1:31]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.2|1 Corinthians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

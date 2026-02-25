@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prophet’s Hope
+type: Pericope
 pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 3
 book/chapter: "[[Lam.3|Lamentations 3]]"
-genre:
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 18
 verses:
 - "[[Lam.3.19]]"
 - "[[Lam.3.20]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lam.3.36]]"
 ---
 
-[[Lam.3|Lamentations 3:19 - Lamentations 3:36]]
+<small>[[Lam.3|Lamentations 3:19-36]]</small>
 *The Prophet’s Hope*
 
 [[Lam.3.19|19]] Remembering mine affliction and my misery, the wormwood and the gall.

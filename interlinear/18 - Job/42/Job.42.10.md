@@ -1,8 +1,65 @@
+---
+title: Job 42:10
+type: Verse
+kjv: "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before."
+bsb: "After Job had prayed for his friends, the LORD restored his prosperity and doubled his former possessions."
+hebrew: "וַֽיהוָ֗ה שָׁ֚ב אֶת־ שְׁב֣וּת אִיּ֔וֹב בְּהִֽתְפַּֽלְל֖וֹ בְּעַ֣ד רֵעֵ֑הוּ וַ֧יֹּסֶף יְהוָ֛ה אֶת־ כָּל־ אֲשֶׁ֥ר לְאִיּ֖וֹב לְמִשְׁנֶֽה׃"
+pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOB|JOB]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H0347]]"
+- "[[H9003]]"
+- "[[H6419]]"
+- "[[H9043]]"
+- "[[H1157]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4932H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 42:10**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.
 <small><sub>**BSB:**</sub></small>
 After Job had prayed for his friends, the LORD restored his prosperity and doubled his former possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֗ה]] [[H7725H\|שָׁ֚ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֣וּת]] [[H0347\|אִיּ֔וֹב]] [[H9003\|בְּ]][[H6419\|הִֽתְפַּֽלְל֖]][[H9043\|וֹ]] [[H1157\|בְּעַ֣ד]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וַ֧]][[H3254H\|יֹּסֶף]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לְ]][[H0347\|אִיּ֖וֹב]] [[H9005\|לְ]][[H4932H\|מִשְׁנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOB|JOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.9|<< Job 42:9]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.11|Job 42:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,60 @@
+---
+title: John 9:8
+type: Verse
+kjv: "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?"
+bsb: "At this, his neighbors and those who had formerly seen him begging began to ask, “Isn’t this the man who used to sit and beg?”"
+greek: "Οἱ οὖν γείτονες καὶ οἱ θεωροῦντες αὐτὸν τὸ πρότερον ὅτι προσαίτης ἦν, ἔλεγον· οὐχ οὗτός ἐστιν ὁ καθήμενος καὶ προσαιτῶν;"
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G1069]]"
+- "[[G2532]]"
+- "[[G2334]]"
+- "[[G0846]]"
+- "[[G4387]]"
+- "[[G3754G]]"
+- "[[G6075]]"
+- "[[G1510]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G2521]]"
+- "[[G4319]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 9:8**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?
 <small><sub>**BSB:**</sub></small>
 At this, his neighbors and those who had formerly seen him begging began to ask, “Isn’t this the man who used to sit and beg?”
-<small><sub>**Literal:**</sub></small>
-The therefore neighbours and those having seen him <the> before that a beggar he was, were saying; Surely this is the [one] sitting and begging?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.7|<< John 9:7]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.9|John 9:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3767\|οὖν]]  [[G1069\|γείτονες]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2334\|θεωροῦντες]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G4387\|πρότερον]]  [[G3754G\|ὅτι]]  [[G6075\|προσαίτης]]  [[G1510\|ἦν,]]  [[G3004G\|ἔλεγον·]]  [[G3756\|οὐχ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G2532\|καὶ]]  [[G4319\|προσαιτῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BEGGARS|BEGGARS]] • [[topic CONVERTS|CONVERTS]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.7|<< John 9:7]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.9|John 9:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

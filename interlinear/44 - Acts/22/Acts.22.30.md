@@ -1,10 +1,69 @@
+---
+title: Acts 22:30
+type: Verse
+kjv: "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them."
+bsb: "The next day the commander, wanting to learn the real reason Paul was accused by the Jews, released him and ordered the chief priests and the whole Sanhedrin to assemble. Then he brought Paul down and had him stand before them."
+greek: "Τῇ δὲ ἐπαύριον βουλόμενος γνῶναι τὸ ἀσφαλές, τὸ τί κατηγορεῖται ὑπὸ τῶν Ἰουδαίων, ἔλυσεν αὐτὸν ἀπὸ τῶν δεσμῶν καὶ ἐκέλευσεν συνελθεῖν τοὺς ἀρχιερεῖς καὶ πᾶν τὸ συνέδριον αὐτῶν, καὶ καταγαγὼν τὸν Παῦλον ἔστησεν εἰς αὐτούς.¶"
+pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1887]]"
+- "[[G1014]]"
+- "[[G1097]]"
+- "[[G0804]]"
+- "[[G5101]]"
+- "[[G2723]]"
+- "[[G5259G]]"
+- "[[G2453]]"
+- "[[G3089]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G1199]]"
+- "[[G2532]]"
+- "[[G2753]]"
+- "[[G4905]]"
+- "[[G0749]]"
+- "[[G3956]]"
+- "[[G4892]]"
+- "[[G2609]]"
+- "[[G3972G]]"
+- "[[G2476]]"
+- "[[G1519]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Acts 22:30**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from [his] bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.
 <small><sub>**BSB:**</sub></small>
 The next day the commander, wanting to learn the real reason Paul was accused by the Jews, released him and ordered the chief priests and the whole Sanhedrin to assemble. Then he brought Paul down and had him stand before them.
-<small><sub>**Literal:**</sub></small>
-On the now next day desiring to know <the> for certain <the> why he is accused by the Jews, he unbound him from the chains and commanded to assemble the chief priests and all the council of them, And having brought down <the> Paul he set [him] among them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.29|<< Acts 22:29]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.1|Acts 23:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1161\|δὲ]]  [[G1887\|ἐπαύριον]]  [[G1014\|βουλόμενος]]  [[G1097\|γνῶναι]]  [[G3588\|τὸ]]  [[G0804\|ἀσφαλές,]]  [[G3588\|τὸ]]  [[G5101\|τί]]  [[G2723\|κατηγορεῖται]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G3089\|ἔλυσεν]]  [[G0846\|αὐτὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1199\|δεσμῶν]]  [[G2532\|καὶ]]  [[G2753\|ἐκέλευσεν]]  [[G4905\|συνελθεῖν]]  [[G3588\|τοὺς]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2609\|καταγαγὼν]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2476\|ἔστησεν]]  [[G1519\|εἰς]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRIEST|PRIEST]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.29|<< Acts 22:29]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.1|Acts 23:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

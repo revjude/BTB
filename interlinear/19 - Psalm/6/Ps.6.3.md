@@ -1,8 +1,55 @@
+---
+title: Psalm 6:3
+type: Verse
+kjv: "My soul is also sore vexed: but thou, O LORD, how long?"
+bsb: "My soul is deeply distressed. How long, O LORD, how long?"
+hebrew: "וְ֭נַפְשִׁי נִבְהֲלָ֣ה מְאֹ֑ד וְאַתָּ֥ה יְ֝הוָ֗ה עַד־ מָתָֽי׃"
+pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 6
+book/chapter: "[[Ps.6|Psalm 6]]"
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0926]]"
+- "[[H3966]]"
+- "[[H0859C]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 6:3**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul is also sore vexed: but thou, O LORD, how long?
 <small><sub>**BSB:**</sub></small>
 My soul is deeply distressed. How long, O LORD, how long?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H5315G\|נַפְשִׁ]][[H9020\|י]] [[H0926\|נִבְהֲלָ֣ה]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H0859C\|אַתָּ֥ה]] [[H3068G\|יְ֝הוָ֗ה]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.2|<< Psalms 6:2]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.4|Psalms 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -21,7 +68,7 @@ My soul is deeply distressed. How long, O LORD, how long?
 | when?  |**<big>&#8207;[[H4970\|מָתָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.2|<< Psalms 6:2]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.4|Psalms 6:4 >>]]</td></tr></table>
 
-[^1]: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
-[^2]: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^1]: and you  | **<big>[[H9002|וְ]]</big><big>[[H0859C|אַתְּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: and you  | **<big>[[H9002|וְ]]</big><big>[[H0859C|אַתְּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְאַתָּ֥</big></span>**
 

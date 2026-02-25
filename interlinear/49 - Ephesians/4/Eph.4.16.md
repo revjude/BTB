@@ -1,10 +1,68 @@
+---
+title: Ephesians 4:16
+type: Verse
+kjv: "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+bsb: "From Him the whole body, fitted and held together by every supporting ligament, grows and builds itself up in love through the work of each individual part."
+greek: "ἐξ οὗ πᾶν τὸ σῶμα συναρμολογούμενον καὶ συμβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας κατ᾽ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους τὴν αὔξησιν τοῦ σώματος ποιεῖται εἰς οἰκοδομὴν ἑαυτοῦ ἐν ἀγάπῃ.¶"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PHYSIOLOGY|PHYSIOLOGY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G4883]]"
+- "[[G2532]]"
+- "[[G4822]]"
+- "[[G1223]]"
+- "[[G0860]]"
+- "[[G2024]]"
+- "[[G2596]]"
+- "[[G1753]]"
+- "[[G1722]]"
+- "[[G3358]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G3313]]"
+- "[[G0838]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G3619]]"
+- "[[G1438]]"
+- "[[G0026]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:16**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 <small><sub>**BSB:**</sub></small>
 From Him the whole body, fitted and held together by every supporting ligament, grows and builds itself up in love through the work of each individual part.
-<small><sub>**Literal:**</sub></small>
-from whom all the body being joined together and being held together through every ligament of [its] supply according to [the] working in [the] measure individual of each part the increase of the body makes for itself to [the] building up of itself in love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.15|<< Ephesians 4:15]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.17|Ephesians 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐξ]]  [[G3739\|οὗ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G4883\|συναρμολογούμενον]]  [[G2532\|καὶ]]  [[G4822\|συμβιβαζόμενον]]  [[G1223\|διὰ]]  [[G3956\|πάσης]]  [[G0860\|ἁφῆς]]  [[G3588\|τῆς]]  [[G2024\|ἐπιχορηγίας]]  [[G2596\|κατ᾽]]  [[G1753\|ἐνέργειαν]]  [[G1722\|ἐν]]  [[G3358\|μέτρῳ]]  [[G1520\|ἑνὸς]]  [[G1538\|ἑκάστου]]  [[G3313\|μέρους]]  [[G3588\|τὴν]]  [[G0838\|αὔξησιν]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G4160G\|ποιεῖται]]  [[G1519\|εἰς]]  [[G3619\|οἰκοδομὴν]]  [[G1438\|ἑαυτοῦ]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PHYSIOLOGY|PHYSIOLOGY]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.15|<< Ephesians 4:15]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.17|Ephesians 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

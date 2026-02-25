@@ -1,8 +1,66 @@
+---
+title: Judges 18:25
+type: Verse
+kjv: "And the children of Dan said unto him, Let not thy voice be heard among us, lest angry fellows run upon thee, and thou lose thy life, with the lives of thy household."
+bsb: "The Danites said to him, “Do not raise your voice against us, or angry men will attack you, and you and your family will lose your lives.”"
+hebrew: "וַיֹּאמְר֤וּ אֵלָיו֙ בְּנֵי־ דָ֔ן אַל־ תַּשְׁמַ֥ע קוֹלְךָ֖ עִמָּ֑נוּ פֶּֽן־ יִפְגְּע֣וּ בָכֶ֗ם אֲנָשִׁים֙ מָ֣רֵי נֶ֔פֶשׁ וְאָסַפְתָּ֥ה נַפְשְׁךָ֖ וְנֶ֥פֶשׁ בֵּיתֶֽךָ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1835G]]"
+- "[[H0408]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H6435]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H0582]]"
+- "[[H4751]]"
+- "[[H5315L]]"
+- "[[H0622]]"
+- "[[H5315H]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:25**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Dan said unto him, Let not thy voice be heard among us, lest angry fellows run upon thee, and thou lose thy life, with the lives of thy household.
 <small><sub>**BSB:**</sub></small>
 The Danites said to him, “Do not raise your voice against us, or angry men will attack you, and you and your family will lose your lives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָ֔ן]] [[H0408\|אַל]][[H9014\|־]] [[H8085G\|תַּשְׁמַ֥ע]] [[H6963A\|קוֹלְ]][[H9021\|ךָ֖]] [[H5973A\|עִמָּ֑]][[H9035\|נוּ]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H6293\|יִפְגְּע֣וּ]] [[H9003\|בָ]][[H9036\|כֶ֗ם]] [[H0582\|אֲנָשִׁים֙]] [[H4751\|מָ֣רֵי]] [[H5315L\|נֶ֔פֶשׁ]] [[H9001\|וְ]][[H0622\|אָסַפְתָּ֥ה]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H5315H\|נֶ֥פֶשׁ]] [[H1004M\|בֵּיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.24|<< Judges 18:24]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.26|Judges 18:26 >>]]</td></tr></table>
 

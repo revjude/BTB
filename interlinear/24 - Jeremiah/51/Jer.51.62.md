@@ -1,8 +1,71 @@
+---
+title: Jeremiah 51:62
+type: Verse
+kjv: "Then shalt thou say, O LORD, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever."
+bsb: "and say, ‘O LORD, You have promised to cut off this place so that no one will remain—neither man nor beast. Indeed, it will be desolate forever.’"
+hebrew: "וְאָמַרְתָּ֗ יְהוָה֙ אַתָּ֨ה דִבַּ֜רְתָּ אֶל־ הַמָּק֤וֹם הַזֶּה֙ לְהַכְרִית֔וֹ לְבִלְתִּ֤י הֱיֽוֹת־ בּוֹ֙ יוֹשֵׁ֔ב לְמֵאָדָ֖ם וְעַד־ בְּהֵמָ֑ה כִּֽי־ שִׁמְמ֥וֹת עוֹלָ֖ם תִּֽהְיֶֽה׃"
+pericope: "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H9033]]"
+- "[[H1115]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3427]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H3588A]]"
+- "[[H8077A]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:62**<big><big>[[Jer.51.59 Jeremiah’s Message to Seraiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou say, O LORD, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever.
 <small><sub>**BSB:**</sub></small>
 and say, ‘O LORD, You have promised to cut off this place so that no one will remain—neither man nor beast. Indeed, it will be desolate forever.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H3068G\|יְהוָה֙]] [[H0859A\|אַתָּ֨ה]] [[H1696G\|דִבַּ֜רְתָּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9005\|לְ]][[H3772I\|הַכְרִית֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֤י]] [[H1961\|הֱיֽוֹת]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H3427\|יוֹשֵׁ֔ב]] [[H9005\|לְ]][[H9006\|מֵ]][[H0120G\|אָדָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8077A\|שִׁמְמ֥וֹת]] [[H5769G\|עוֹלָ֖ם]] [[H1961\|תִּֽהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSIA|PERSIA]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.61|<< Jeremiah 51:61]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.63|Jeremiah 51:63 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Judges 5:14
+type: Verse
+kjv: "Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer."
+bsb: "Some came from Ephraim, with their roots in Amalek; Benjamin came with your people after you. The commanders came down from Machir, the bearers of the marshal’s staff from Zebulun."
+hebrew: "מִנִּ֣י אֶפְרַ֗יִם שָׁרְשָׁם֙ בַּעֲמָלֵ֔ק אַחֲרֶ֥יךָ בִנְיָמִ֖ין בַּֽעֲמָמֶ֑יךָ מִנִּ֣י מָכִ֗יר יָֽרְדוּ֙ מְחֹ֣קְקִ֔ים וּמִ֨זְּבוּלֻ֔ן מֹשְׁכִ֖ים בְּשֵׁ֥בֶט סֹפֵֽר׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PEN|PEN]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H4480A]]"
+- "[[H0669G]]"
+- "[[H8328]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H6002G]]"
+- "[[H0310A]]"
+- "[[H9031]]"
+- "[[H1144G]]"
+- "[[H5971B]]"
+- "[[H9021]]"
+- "[[H4353G]]"
+- "[[H3381]]"
+- "[[H2710]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2074]]"
+- "[[H4900]]"
+- "[[H7626G]]"
+- "[[H5608B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:14**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of Ephraim [was there] a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
 <small><sub>**BSB:**</sub></small>
 Some came from Ephraim, with their roots in Amalek; Benjamin came with your people after you. The commanders came down from Machir, the bearers of the marshal’s staff from Zebulun.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִנִּ֣י]] [[H0669G\|אֶפְרַ֗יִם]] [[H8328\|שָׁרְשָׁ]][[H9028\|ם֙]] [[H9003\|בַּ]][[H6002G\|עֲמָלֵ֔ק]] [[H0310A\|אַחֲרֶ֥י]][[H9031\|ךָ]] [[H1144G\|בִנְיָמִ֖ין]] [[H9003\|בַּֽ]][[H5971B\|עֲמָמֶ֑י]][[H9021\|ךָ]] [[H4480A\|מִנִּ֣י]] [[H4353G\|מָכִ֗יר]] [[H3381\|יָֽרְדוּ֙]] [[H2710\|מְחֹ֣קְקִ֔ים]] [[H9002\|וּ]][[H9006\|מִ֨]][[H2074\|זְּבוּלֻ֔ן]] [[H4900\|מֹשְׁכִ֖ים]] [[H9003\|בְּ]][[H7626G\|שֵׁ֥בֶט]] [[H5608B\|סֹפֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BENJAMIN|BENJAMIN]] • [[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PEN|PEN]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.13|<< Judges 5:13]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.15|Judges 5:15 >>]]</td></tr></table>
 

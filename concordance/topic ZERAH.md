@@ -15,5 +15,5 @@
 
 6. A Levite [[1Chr.6.41|1Ch 6:41]]
 
-7. King of Ethiopia [[2Chr.14.9|2Ch 14:9]]-[[2Chr.14.15|15]]
+7. King of Ethiopia [[2Chr.14.9|2Ch 14:9-15]]
 

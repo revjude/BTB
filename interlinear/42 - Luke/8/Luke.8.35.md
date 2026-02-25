@@ -1,10 +1,65 @@
+---
+title: Luke 8:35
+type: Verse
+kjv: "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+bsb: "So the people went out to see what had happened. They came to Jesus and found the man whom the demons had left, sitting at Jesus’ feet, clothed and in his right mind; and they were afraid."
+greek: "ἐξῆλθον δὲ ἰδεῖν τὸ γεγονὸς καὶ ἦλθον πρὸς τὸν Ἰησοῦν καὶ εὗρον καθήμενον τὸν ἄνθρωπον ἀφ᾽ οὗ τὰ δαιμόνια ἐξῆλθεν ἱματισμένον καὶ σωφρονοῦντα παρὰ τοὺς πόδας τοῦ Ἰησοῦ, καὶ ἐφοβήθησαν."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G2147]]"
+- "[[G2521]]"
+- "[[G0444]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1140]]"
+- "[[G2439]]"
+- "[[G4993]]"
+- "[[G3844]]"
+- "[[G4228]]"
+- "[[G5399]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:35**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
 <small><sub>**BSB:**</sub></small>
 So the people went out to see what had happened. They came to Jesus and found the man whom the demons had left, sitting at Jesus’ feet, clothed and in his right mind; and they were afraid.
-<small><sub>**Literal:**</sub></small>
-They went out then to see that having happened and they came to <the> Jesus and found sitting the man from whom the demons had gone out clothed and being of sound mind at the feet <the> of Jesus, And they were afraid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.34|<< Luke 8:34]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.36|Luke 8:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξῆλθον]]  [[G1161\|δὲ]]  [[G1492H\|ἰδεῖν]]  [[G3588\|τὸ]]  [[G1096\|γεγονὸς]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G2147\|εὗρον]]  [[G2521\|καθήμενον]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G0575\|ἀφ᾽]]  [[G3739\|οὗ]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G1831\|ἐξῆλθεν]]  [[G2439\|ἱματισμένον]]  [[G2532\|καὶ]]  [[G4993\|σωφρονοῦντα]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ,]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.34|<< Luke 8:34]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.36|Luke 8:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

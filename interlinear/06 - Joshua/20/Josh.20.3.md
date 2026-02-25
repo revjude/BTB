@@ -1,8 +1,64 @@
+---
+title: Joshua 20:3
+type: Verse
+kjv: "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood."
+bsb: "so that anyone who kills another unintentionally or accidentally may flee there. These will be your refuge from the avenger of blood."
+hebrew: "לָנ֥וּס שָׁ֙מָּה֙ רוֹצֵ֔חַ מַכֵּה־ נֶ֥פֶשׁ בִּשְׁגָגָ֖ה בִּבְלִי־ דָ֑עַת וְהָי֤וּ לָכֶם֙ לְמִקְלָ֔ט מִגֹּאֵ֖ל הַדָּֽם׃"
+pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9005]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7523]]"
+- "[[H5221]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H9003]]"
+- "[[H7684]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H4733]]"
+- "[[H9006]]"
+- "[[H1350H]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 20:3**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the slayer that killeth [any] person unawares [and] unwittingly may flee thither: and they shall be your refuge from the avenger of blood.
 <small><sub>**BSB:**</sub></small>
 so that anyone who kills another unintentionally or accidentally may flee there. These will be your refuge from the avenger of blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H5127\|נ֥וּס]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H7523\|רוֹצֵ֔חַ]] [[H5221\|מַכֵּה]][[H9014\|־]] [[H5315J\|נֶ֥פֶשׁ]] [[H9003\|בִּ]][[H7684\|שְׁגָגָ֖ה]] [[H9003\|בִּ]][[H1097\|בְלִי]][[H9014\|־]] [[H1847\|דָ֑עַת]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H4733\|מִקְלָ֔ט]] [[H9006\|מִ]][[H1350H\|גֹּאֵ֖ל]] [[H9009\|הַ]][[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COMMUNION|COMMUNION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.2|<< Joshua 20:2]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.4|Joshua 20:4 >>]]</td></tr></table>
 

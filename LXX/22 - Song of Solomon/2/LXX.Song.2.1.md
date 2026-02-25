@@ -1,9 +1,46 @@
+---
+title: LXX Song of Solomon 2:1
+type: Verse
+lxx: "I am a flower of the plain; a lily of the valleys."
+greek: "εγώ άνθος του πεδίου κρίνον των κοιλάδων"
+original_language: Greek
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- septuagint
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ROSE|ROSE]]"
+- "[[topic SHARON|SHARON]]"
+strongs:
+- "[[G1473]]"
+- "[[G0438]]"
+- "[[G3588]]"
+- "[[G8676]]"
+- "[[G2918]]"
+- "[[G3588]]"
+- "[[G8038]]"
+---
+
 **LXX Song of Solomon 2:1** 
 
 ***The Beloved Man***
 
 <small><sub>**LXX:**</sub></small>
 I \[am\] a flower of the plain; a lily of the valleys. 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|εγώ]] [[G0438\|άνθος]] [[G3588\|του]] [[G8676\|πεδίου]] [[G2918\|κρίνον]] [[G3588\|των]] [[G8038\|κοιλάδων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ROSE|ROSE]] • [[topic SHARON|SHARON]]</small>
 <small><sub>**MT:**</sub></small>
 [[Song.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.17|<< Song of Solomon 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.2|Song of Solomon 2:2 >>]]</td></tr></table>
 
@@ -16,6 +53,6 @@ I \[am\] a flower of the plain; a lily of the valleys.
 | a lily | **<big>[[G2918\|κρίνον]]</big>** |
 | of the | **<big>[[G3588\|των]]</big>** |
 | valleys. | **<big>[[G8038\|κοιλάδων]]</big>** |
-[[Song.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.17|<< Song of Solomon 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.2|Song of Solomon 2:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.17|<< Song of Solomon 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.2|Song of Solomon 2:2 >>]]</td></tr></table>
 
 

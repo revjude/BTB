@@ -1,10 +1,66 @@
+---
+title: Luke 24:47
+type: Verse
+kjv: "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+bsb: "and in His name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem."
+jesus_said: "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+greek: "καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη ἀρξάμενοι ἀπὸ Ἰερουσαλήμ."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2784]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G3341]]"
+- "[[G1519]]"
+- "[[G0859]]"
+- "[[G0266]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G0757]]"
+- "[[G0575]]"
+- "[[G2419]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 24:47**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 and in His name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem.
-<small><sub>**Literal:**</sub></small>
-and to be proclaimed in the name of Him repentance to forgiveness of sins to all <the> nations having begun from Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.46|<< Luke 24:46]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.48|Luke 24:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2784\|κηρυχθῆναι]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G0846\|αὐτοῦ]]  [[G3341\|μετάνοιαν]]  [[G1519\|εἰς]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν]]  [[G1519\|εἰς]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G0757\|ἀρξάμενοι]]  [[G0575\|ἀπὸ]]  [[G2419\|Ἰερουσαλήμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MISSIONS|MISSIONS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic SUFFERING|SUFFERING]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.46|<< Luke 24:46]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.48|Luke 24:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

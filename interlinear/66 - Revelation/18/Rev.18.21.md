@@ -1,10 +1,60 @@
+---
+title: Revelation 18:21
+type: Verse
+kjv: "And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all."
+bsb: "Then a mighty angel picked up a stone the size of a great millstone and cast it into the sea, saying: “With such violence the great city of Babylon will be cast down, never to be seen again."
+greek: "Καὶ ἦρεν εἷς ἄγγελος ἰσχυρὸς λίθον ὡς μύλινον μέγαν καὶ ἔβαλεν εἰς τὴν θάλασσαν λέγων· οὕτως ὁρμήματι βληθήσεται Βαβυλὼν ἡ μεγάλη πόλις καὶ οὐ μὴ εὑρεθῇ ἔτι."
+pericope: "[[Rev.18.21 The Doom of Babylon|The Doom of Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G1520]]"
+- "[[G0032G]]"
+- "[[G2478]]"
+- "[[G3037]]"
+- "[[G5613]]"
+- "[[G6061]]"
+- "[[G3173]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G3004G]]"
+- "[[G3779]]"
+- "[[G3731]]"
+- "[[G0897]]"
+- "[[G4172]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G2089]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 18:21**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a mighty angel took up a stone like a great millstone, and cast [it] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.
 <small><sub>**BSB:**</sub></small>
 Then a mighty angel picked up a stone the size of a great millstone and cast it into the sea, saying: “With such violence the great city of Babylon will be cast down, never to be seen again.
-<small><sub>**Literal:**</sub></small>
-And took up one angel a mighty stone like a millstone great and cast [it] into the sea saying: Thus with violence will be cast down Babylon the great city and certainly not may be found any longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.20|<< Revelation 18:20]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.22|Revelation 18:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0142\|ἦρεν]]  [[G1520\|εἷς]]  [[G0032G\|ἄγγελος]]  [[G2478\|ἰσχυρὸς]]  [[G3037\|λίθον]]  [[G5613\|ὡς]]  [[G6061\|μύλινον]]  [[G3173\|μέγαν]]  [[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G3004G\|λέγων·]]  [[G3779\|οὕτως]]  [[G3731\|ὁρμήματι]]  [[G0906G\|βληθήσεται]]  [[G0897\|Βαβυλὼν]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G4172\|πόλις]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2147\|εὑρεθῇ]]  [[G2089\|ἔτι.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.20|<< Revelation 18:20]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.22|Revelation 18:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:21** is...
 > $\quad$ alluding to: [[LXX.Jer.51.63|Jer 51:63-64]]

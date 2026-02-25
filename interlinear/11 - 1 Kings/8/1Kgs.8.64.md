@@ -1,8 +1,71 @@
+---
+title: 1 Kings 8:64
+type: Verse
+kjv: "The same day did the king hallow the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that was before the LORD was too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings."
+bsb: "On that same day the king consecrated the middle of the courtyard in front of the house of the LORD, and there he offered the burnt offerings, the grain offerings, and the fat of the peace offerings, since the bronze altar before the LORD was too small to contain all these offerings."
+hebrew: "בַּיּ֣וֹם הַה֗וּא קִדַּ֨שׁ הַמֶּ֜לֶךְ אֶת־ תּ֣וֹךְ הֶחָצֵ֗ר אֲשֶׁר֙ לִפְנֵ֣י בֵית־ יְהוָ֔ה כִּי־ עָ֣שָׂה שָׁ֗ם אֶת־ הָֽעֹלָה֙ וְאֶת־ הַמִּנְחָ֔ה וְאֵ֖ת חֶלְבֵ֣י הַשְּׁלָמִ֑ים כִּֽי־ מִזְבַּ֤ח הַנְּחֹ֙שֶׁת֙ אֲשֶׁ֣ר לִפְנֵ֣י יְהוָ֔ה קָטֹ֗ן מֵֽהָכִיל֙ אֶת־ הָעֹלָ֣ה וְאֶת־ הַמִּנְחָ֔ה וְאֵ֖ת חֶלְבֵ֥י הַשְּׁלָמִֽים׃"
+pericope: "[[1Kgs.8.62 Sacrifices of Dedication|Sacrifices of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6942G]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H2691A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H6213I]]"
+- "[[H8033G]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H2459]]"
+- "[[H8002]]"
+- "[[H4196]]"
+- "[[H5178A]]"
+- "[[H6996B]]"
+- "[[H9006]]"
+- "[[H3557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:64**<big><big>[[1Kgs.8.62 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.
 <small><sub>**BSB:**</sub></small>
 On that same day the king consecrated the middle of the courtyard in front of the house of the LORD, and there he offered the burnt offerings, the grain offerings, and the fat of the peace offerings, since the bronze altar before the LORD was too small to contain all these offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H6942G\|קִדַּ֨שׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H9009\|הֶ]][[H2691A\|חָצֵ֗ר]] [[H0834A\|אֲשֶׁר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H6213I\|עָ֣שָׂה]] [[H8033G\|שָׁ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5930A\|עֹלָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֔ה]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H2459\|חֶלְבֵ֣י]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֑ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הַ]][[H5178A\|נְּחֹ֙שֶׁת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6996B\|קָטֹ֗ן]] [[H9006\|מֵֽ]][[H3557\|הָכִיל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֣ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֔ה]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H2459\|חֶלְבֵ֥י]] [[H9009\|הַ]][[H8002\|שְּׁלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.63|<< 1 Kings 8:63]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.65|1 Kings 8:65 >>]]</td></tr></table>
 

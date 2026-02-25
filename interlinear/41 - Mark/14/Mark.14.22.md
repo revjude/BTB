@@ -1,10 +1,64 @@
+---
+title: Mark 14:22
+type: Verse
+kjv: "And as they did eat, Jesus took bread, and blessed, and brake it, and gave to them, and said, Take, eat: this is my body."
+bsb: "While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take it; this is My body.”"
+jesus_said: "Take, eat: this is my body."
+greek: "καὶ ἐσθιόντων αὐτῶν, λαβὼν ὁ Ἰησοῦς ἄρτον, εὐλογήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς καὶ εἶπεν· λάβετε φάγετε, τοῦτό ἐστιν τὸ σῶμά μου."
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2068]]"
+- "[[G0846]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0740]]"
+- "[[G2127]]"
+- "[[G2806]]"
+- "[[G1325]]"
+- "[[G2036]]"
+- "[[G5315]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4983]]"
+- "[[G3165]]"
+texts:
+- NKO
+- ko
+- K
+---
+
 **Mark 14:22**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they did eat, Jesus took bread, and blessed, and brake [it], and gave to them, and said, Take, eat: this is my body.
 <small><sub>**BSB:**</sub></small>
 While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take it; this is My body.”
-<small><sub>**Literal:**</sub></small>
-And when are eating they, having taken <the> Jesus bread, having spoken a blessing He broke and He gave [it] to them and said; do take do eat this is the body of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.21|<< Mark 14:21]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.23|Mark 14:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2068\|ἐσθιόντων]]  [[G0846\|αὐτῶν,]]  [[G2983\|λαβὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0740\|ἄρτον,]]  [[G2127\|εὐλογήσας]]  [[G2806\|ἔκλασεν]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G2983\|λάβετε]]  [[G5315\|φάγετε,]]  [[G3778\|τοῦτό]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.21|<< Mark 14:21]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.23|Mark 14:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

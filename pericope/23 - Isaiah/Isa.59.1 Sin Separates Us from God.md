@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sin Separates Us from God
+type: Pericope
 pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 59
 book/chapter: "[[Isa.59|Isaiah 59]]"
-genre:
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 17
 verses:
 - "[[Isa.59.1]]"
 - "[[Isa.59.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Isa.59.17]]"
 ---
 
-[[Isa.59|Isaiah 59:1 - Isaiah 59:17]]
+<small>[[Isa.59|Isaiah 59:1-17]]</small>
 *Sin Separates Us from God*
 
 [[Isa.59.1|1]] Behold, the LORD’S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:

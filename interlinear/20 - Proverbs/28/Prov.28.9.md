@@ -1,8 +1,52 @@
+---
+title: Proverbs 28:9
+type: Verse
+kjv: "He that turneth away his ear from hearing the law, even his prayer shall be abomination."
+bsb: "Whoever turns his ear away from hearing the law, even his prayer is detestable."
+hebrew: "מֵסִ֣יר אָ֭זְנוֹ מִשְּׁמֹ֣עַ תּוֹרָ֑ה גַּֽם־ תְּ֝פִלָּת֗וֹ תּוֹעֵבָֽה׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5493H]]"
+- "[[H0241G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H8085G]]"
+- "[[H8451]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H8441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:9**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that turneth away his ear from hearing the law, even his prayer [shall be] abomination.
 <small><sub>**BSB:**</sub></small>
 Whoever turns his ear away from hearing the law, even his prayer is detestable.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493H\|מֵסִ֣יר]] [[H0241G\|אָ֭זְנ]][[H9023\|וֹ]] [[H9006\|מִ]][[H8085G\|שְּׁמֹ֣עַ]] [[H8451\|תּוֹרָ֑ה]] [[H1571\|גַּֽם]][[H9014\|־]] [[H8605\|תְּ֝פִלָּת֗]][[H9023\|וֹ]] [[H8441\|תּוֹעֵבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.8|<< Proverbs 28:8]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.10|Proverbs 28:10 >>]]</td></tr></table>
 

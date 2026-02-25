@@ -1,8 +1,67 @@
+---
+title: Esther 10:2
+type: Verse
+kjv: "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?"
+bsb: "And all of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?"
+hebrew: "וְכָל־ מַעֲשֵׂ֤ה תָקְפּוֹ֙ וּגְב֣וּרָת֔וֹ וּפָרָשַׁת֙ גְּדֻלַּ֣ת מָרְדֳּכַ֔י אֲשֶׁ֥ר גִּדְּל֖וֹ הַמֶּ֑לֶךְ הֲלוֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֙פֶר֙ דִּבְרֵ֣י הַיָּמִ֔ים לְמַלְכֵ֖י מָדַ֥י וּפָרָֽס׃"
+pericope: "[[Esth.10.1 Tribute to Xerxes and Mordecai|Tribute to Xerxes and Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 10
+book/chapter: "[[Esth.10|Esther 10]]"
+chronological_order: 908
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4639G]]"
+- "[[H8633]]"
+- "[[H9023]]"
+- "[[H1369]]"
+- "[[H6575]]"
+- "[[H1420]]"
+- "[[H4782H]]"
+- "[[H0834A]]"
+- "[[H1431]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4074H]]"
+- "[[H6539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 10:2**<big><big>[[Esth.10.1 Tribute to Xerxes and Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, [are] they not written in the book of the chronicles of the kings of Media and Persia?
 <small><sub>**BSB:**</sub></small>
 And all of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֤ה]] [[H8633\|תָקְפּ]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H1369\|גְב֣וּרָת֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H6575\|פָרָשַׁת֙]] [[H1420\|גְּדֻלַּ֣ת]] [[H4782H\|מָרְדֳּכַ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H1431\|גִּדְּל֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֙פֶר֙]] [[H1697O\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֖י]] [[H4074H\|מָדַ֥י]] [[H9002\|וּ]][[H6539\|פָרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.1|<< Esther 10:1]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.3|Esther 10:3 >>]]</td></tr></table>
 

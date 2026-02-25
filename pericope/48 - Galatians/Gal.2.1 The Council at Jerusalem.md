@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Council at Jerusalem
+type: Pericope
 pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 2
 book/chapter: "[[Gal.2|Galatians 2]]"
-genre:
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 10
 verses:
 - "[[Gal.2.1]]"
 - "[[Gal.2.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gal.2.10]]"
 ---
 
-[[Gal.2|Galatians 2:1 - Galatians 2:10]]
+<small>[[Gal.2|Galatians 2:1-10]]</small>
 *The Council at Jerusalem*
 
 [[Gal.2.1|1]] Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with \[me\] also.

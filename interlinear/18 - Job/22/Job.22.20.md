@@ -1,8 +1,49 @@
+---
+title: Job 22:20
+type: Verse
+kjv: "Whereas our substance is not cut down, but the remnant of them the fire consumeth."
+bsb: "‘Surely our foes are destroyed, and fire has consumed their excess.’"
+hebrew: "אִם־ לֹ֣א נִכְחַ֣ד קִימָ֑נוּ וְ֝יִתְרָ֗ם אָ֣כְלָה אֵֽשׁ׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H3582]]"
+- "[[H7009]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:20**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas our substance is not cut down, but the remnant of them the fire consumeth.
 <small><sub>**BSB:**</sub></small>
 ‘Surely our foes are destroyed, and fire has consumed their excess.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3582\|נִכְחַ֣ד]] [[H7009\|קִימָ֑]][[H9025\|נוּ]] [[H9002\|וְ֝]][[H3499A\|יִתְרָ֗]][[H9028\|ם]] [[H0398\|אָ֣כְלָה]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.19|<< Job 22:19]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.21|Job 22:21 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Zephaniah 1:8
+type: Verse
+kjv: "And it shall come to pass in the day of the LORD’S sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel."
+bsb: "“On the Day of the LORD’s sacrifice I will punish the princes, the sons of the king, and all who are dressed in foreign apparel."
+hebrew: "וְהָיָ֗ה בְּיוֹם֙ זֶ֣בַח יְהוָ֔ה וּפָקַדְתִּ֥י עַל־ הַשָּׂרִ֖ים וְעַל־ בְּנֵ֣י הַמֶּ֑לֶךְ וְעַ֥ל כָּל־ הַלֹּבְשִׁ֖ים מַלְבּ֥וּשׁ נָכְרִֽי׃"
+pericope: "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2077]]"
+- "[[H3068G]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H3847]]"
+- "[[H4403]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:8**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in the day of the LORD’S sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel.
 <small><sub>**BSB:**</sub></small>
 “On the Day of the LORD’s sacrifice I will punish the princes, the sons of the king, and all who are dressed in foreign apparel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H2077\|זֶ֣בַח]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וּ]][[H6485H\|פָקַדְתִּ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֖ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3847\|לֹּבְשִׁ֖ים]] [[H4403\|מַלְבּ֥וּשׁ]] [[H5237\|נָכְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic DRESS|DRESS]] • [[topic RULERS|RULERS]] • [[topic SACRIFICES|SACRIFICES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.7|<< Zephaniah 1:7]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.9|Zephaniah 1:9 >>]]</td></tr></table>
 

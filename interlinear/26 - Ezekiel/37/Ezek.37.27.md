@@ -1,8 +1,58 @@
+---
+title: Ezekiel 37:27
+type: Verse
+kjv: "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people."
+bsb: "My dwelling place will be with them; I will be their God, and they will be My people."
+hebrew: "וְהָיָ֤ה מִשְׁכָּנִי֙ עֲלֵיהֶ֔ם וְהָיִ֥יתִי לָהֶ֖ם לֵֽאלֹהִ֑ים וְהֵ֖מָּה יִֽהְיוּ־ לִ֥י לְעָֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4908]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:27**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
 My dwelling place will be with them; I will be their God, and they will be My people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H4908\|מִשְׁכָּנִ]][[H9020\|י֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H1961\|הָיִ֥יתִי]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֑ים]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.26|<< Ezekiel 37:26]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.28|Ezekiel 37:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,53 @@
+---
+title: Acts 27:16
+type: Verse
+kjv: "And running under a certain island which is called Clauda, we had much work to come by the boat:"
+bsb: "Passing to the lee of a small island called Cauda, we barely managed to secure the lifeboat."
+greek: "νησίον δέ τι ὑποδραμόντες καλούμενον Καῦδα ἰσχύσαμεν μόλις περικρατεῖς γενέσθαι τῆς σκάφης,"
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDA|CLAUDA]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3519]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G5295]]"
+- "[[G2564G]]"
+- "[[G2802]]"
+- "[[G2480]]"
+- "[[G3433]]"
+- "[[G4031]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G4627]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 27:16**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And running under a certain island which is called Clauda, we had much work to come by the boat:
 <small><sub>**BSB:**</sub></small>
 Passing to the lee of a small island called Cauda, we barely managed to secure the lifeboat.
-<small><sub>**Literal:**</sub></small>
-An Island then certain having run under being called Cauda we were able with difficulty control to gain of the lifeboat,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.15|<< Acts 27:15]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.17|Acts 27:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3519\|νησίον]]  [[G1161\|δέ]]  [[G5100\|τι]]  [[G5295\|ὑποδραμόντες]]  [[G2564G\|καλούμενον]]  [[G2802\|Καῦδα]]  [[G2480\|ἰσχύσαμεν]]  [[G3433\|μόλις]]  [[G4031\|περικρατεῖς]]  [[G1096\|γενέσθαι]]  [[G3588\|τῆς]]  [[G4627\|σκάφης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDA|CLAUDA]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.15|<< Acts 27:15]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.17|Acts 27:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

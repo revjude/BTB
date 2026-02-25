@@ -1,8 +1,59 @@
+---
+title: Psalm 25:10
+type: Verse
+kjv: "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies."
+bsb: "All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees."
+hebrew: "כָּל־ אָרְח֣וֹת יְ֭הוָה חֶ֣סֶד וֶאֱמֶ֑ת לְנֹצְרֵ֥י בְ֝רִית֗וֹ וְעֵדֹתָֽיו׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0734]]"
+- "[[H3068G]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H9005]]"
+- "[[H5341]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H5713B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:10**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the paths of the LORD [are] mercy and truth unto such as keep his covenant and his testimonies.
 <small><sub>**BSB:**</sub></small>
 All the LORD’s ways are loving and faithful to those who keep His covenant and His decrees.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0734\|אָרְח֣וֹת]] [[H3068G\|יְ֭הוָה]] [[H2617A\|חֶ֣סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶ֑ת]] [[H9005\|לְ]][[H5341\|נֹצְרֵ֥י]] [[H1285\|בְ֝רִית֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H5713B\|עֵדֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.9|<< Psalms 25:9]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.11|Psalms 25:11 >>]]</td></tr></table>
 

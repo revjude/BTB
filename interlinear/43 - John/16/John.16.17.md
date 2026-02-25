@@ -1,10 +1,65 @@
+---
+title: John 16:17
+type: Verse
+kjv: "Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?"
+bsb: "Then some of His disciples asked one another, “Why is He telling us, ‘In a little while you will not see Me, and then after a little while you will see Me’ and ‘Because I am going to the Father’?”"
+greek: "εἶπαν οὖν ἐκ τῶν μαθητῶν αὐτοῦ πρὸς ἀλλήλους· τί ἐστιν τοῦτο ὃ λέγει ἡμῖν· μικρὸν καὶ οὐ θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ με; καὶ ὅτι ἐγὼ ὑπάγω πρὸς τὸν πατέρα;"
+pericope: "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3398]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2334]]"
+- "[[G3825]]"
+- "[[G3700]]"
+- "[[G3754H]]"
+- "[[G1473]]"
+- "[[G5217]]"
+- "[[G3962]]"
+texts:
+- NKO
+- k
+---
+
 **John 16:17**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said [some] of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?
 <small><sub>**BSB:**</sub></small>
 Then some of His disciples asked one another, “Why is He telling us, ‘In a little while you will not see Me, and then after a little while you will see Me’ and ‘Because I am going to the Father’?”
-<small><sub>**Literal:**</sub></small>
-Said therefore [some] of the disciples of him to one another; What is this that He says to us; A little [while] and not you do behold Me, and again a little [while] and you will behold Me’? and Because I myself I am going to the Father’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.16|<< John 16:16]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.18|John 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G3778\|τοῦτο]]  [[G3739\|ὃ]]  [[G3004G\|λέγει]]  [[G3165\|ἡμῖν·]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2334\|θεωρεῖτέ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3700\|ὄψεσθέ]]  [[G3165\|με;]]  [[G2532\|καὶ]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.16|<< John 16:16]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.18|John 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

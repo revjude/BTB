@@ -1,8 +1,60 @@
+---
+title: Leviticus 22:19
+type: Verse
+kjv: "Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
+bsb: "must offer an unblemished male from the cattle, sheep, or goats in order for it to be accepted on your behalf."
+hebrew: "לִֽרְצֹנְכֶ֑ם תָּמִ֣ים זָכָ֔ר בַּבָּקָ֕ר בַּכְּשָׂבִ֖ים וּבָֽעִזִּֽים׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9005]]"
+- "[[H7522]]"
+- "[[H9026]]"
+- "[[H8549G]]"
+- "[[H2145]]"
+- "[[H9003]]"
+- "[[H1241]]"
+- "[[H3775]]"
+- "[[H9002]]"
+- "[[H5795]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:19**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Ye shall offer] at your own will a male without blemish, of the beeves, of the sheep, or of the goats.
 <small><sub>**BSB:**</sub></small>
 must offer an unblemished male from the cattle, sheep, or goats in order for it to be accepted on your behalf.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִֽ]][[H7522\|רְצֹנְ]][[H9026\|כֶ֑ם]] [[H8549G\|תָּמִ֣ים]] [[H2145\|זָכָ֔ר]] [[H9003\|בַּ]][[H1241\|בָּקָ֕ר]] [[H9003\|בַּ]][[H3775\|כְּשָׂבִ֖ים]] [[H9002\|וּ]][[H9003\|בָֽ]][[H5795\|עִזִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic DEDICATION|DEDICATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic STRANGERS|STRANGERS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.18|<< Leviticus 22:18]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.20|Leviticus 22:20 >>]]</td></tr></table>
 

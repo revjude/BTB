@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Execution of Joab
+type: Pericope
 pericope: "[[1Kgs.2.28 The Execution of Joab|The Execution of Joab]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 2
 book/chapter: "[[1Kgs.2|1 Kings 2]]"
-genre:
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.2.28]]"
 - "[[1Kgs.2.29]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.2.35]]"
 ---
 
-[[1Kgs.2|1 Kings 2:28 - 1 Kings 2:35]]
+<small>[[1Kgs.2|1 Kings 2:28-35]]</small>
 *The Execution of Joab*
 
 [[1Kgs.2.28|28]] Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.

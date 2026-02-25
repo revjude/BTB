@@ -1,10 +1,51 @@
+---
+title: Revelation 18:18
+type: Verse
+kjv: "And cried when they saw the smoke of her burning, saying, What city is like unto this great city!"
+bsb: "and cry out at the sight of the smoke rising from the fire that consumes her. “What city was ever like this great city?” they will exclaim."
+greek: "καὶ ἔκραζον βλέποντες τὸν καπνὸν τῆς πυρώσεως αὐτῆς λέγοντες· τίς ὁμοία τῇ πόλει τῇ μεγάλῃ;"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G0991]]"
+- "[[G3588]]"
+- "[[G2586]]"
+- "[[G4451]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3664]]"
+- "[[G4172]]"
+- "[[G3173]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 18:18**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cried when they saw the smoke of her burning, saying, What [city is] like unto this great city!
 <small><sub>**BSB:**</sub></small>
 and cry out at the sight of the smoke rising from the fire that consumes her. “What city was ever like this great city?” they will exclaim.
-<small><sub>**Literal:**</sub></small>
-and were crying out seeing the smoke of the burning of her saying; What [is] like as the city <the> great?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.17|<< Revelation 18:17]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.19|Revelation 18:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|ἔκραζον]]  [[G0991\|βλέποντες]]  [[G3588\|τὸν]]  [[G2586\|καπνὸν]]  [[G3588\|τῆς]]  [[G4451\|πυρώσεως]]  [[G0846\|αὐτῆς]]  [[G3004G\|λέγοντες·]]  [[G5101\|τίς]]  [[G3664\|ὁμοία]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G3588\|τῇ]]  [[G3173\|μεγάλῃ;]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.17|<< Revelation 18:17]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.19|Revelation 18:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:18** is...
 > $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]

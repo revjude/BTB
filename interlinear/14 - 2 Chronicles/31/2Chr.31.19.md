@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 31:19
+type: Verse
+kjv: "Also of the sons of Aaron the priests, which were in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites."
+bsb: "As for the priests, the descendants of Aaron, who lived on the farmlands around each of their cities or in any other city, men were designated by name to distribute a portion to every male among the priests and to every Levite listed by the genealogies."
+hebrew: "וְלִבְנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֜ים בִּשְׂדֵ֨י מִגְרַ֤שׁ עָרֵיהֶם֙ בְּכָל־ עִ֣יר וָעִ֔יר אֲנָשִׁ֕ים אֲשֶׁ֥ר נִקְּב֖וּ בְּשֵׁמ֑וֹת לָתֵ֣ת מָנ֗וֹת לְכָל־ זָכָר֙ בַּכֹּ֣הֲנִ֔ים וּלְכָל־ הִתְיַחֵ֖שׂ בַּלְוִיִּֽם׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H4054]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H5344A]]"
+- "[[H8034]]"
+- "[[H5414G]]"
+- "[[H4490]]"
+- "[[H2145]]"
+- "[[H3187]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:19**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also of the sons of Aaron the priests, [which were] in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites.
 <small><sub>**BSB:**</sub></small>
 As for the priests, the descendants of Aaron, who lived on the farmlands around each of their cities or in any other city, men were designated by name to distribute a portion to every male among the priests and to every Levite listed by the genealogies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵי֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֜ים]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֨י]] [[H4054\|מִגְרַ֤שׁ]] [[H5892B\|עָרֵי]][[H9028\|הֶם֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H9002\|וָ]][[H5892B\|עִ֔יר]] [[H0582\|אֲנָשִׁ֕ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5344A\|נִקְּב֖וּ]] [[H9003\|בְּ]][[H8034\|שֵׁמ֑וֹת]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H4490\|מָנ֗וֹת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2145\|זָכָר֙]] [[H9003\|בַּ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3187\|הִתְיַחֵ֖שׂ]] [[H9003\|בַּ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.18|<< 2 Chronicles 31:18]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.20|2 Chronicles 31:20 >>]]</td></tr></table>
 

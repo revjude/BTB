@@ -1,8 +1,61 @@
+---
+title: Song of Solomon 7:8
+type: Verse
+kjv: "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;"
+bsb: "I said, “I will climb the palm tree; I will take hold of its fruit.” May your breasts be like clusters of the vine, the fragrance of your breath like apples,"
+hebrew: "אָמַ֙רְתִּי֙ אֶעֱלֶ֣ה בְתָמָ֔ר אֹֽחֲזָ֖ה בְּסַנְסִנָּ֑יו וְיִֽהְיוּ־ נָ֤א שָׁדַ֙יִךְ֙ כְּאֶשְׁכְּל֣וֹת הַגֶּ֔פֶן וְרֵ֥יחַ אַפֵּ֖ךְ כַּתַּפּוּחִֽים׃"
+pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic APPLE|APPLE]]"
+strongs:
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H8558]]"
+- "[[H0270]]"
+- "[[H5577]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H7699A]]"
+- "[[H9022]]"
+- "[[H9004]]"
+- "[[H0811]]"
+- "[[H9009]]"
+- "[[H1612]]"
+- "[[H7381]]"
+- "[[H0639H]]"
+- "[[H8598]]"
+- "[[H9016]]"
+texts:
+- L
+- L(b)
+---
+
 **Song of Solomon 7:8**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;
 <small><sub>**BSB:**</sub></small>
 I said, “I will climb the palm tree; I will take hold of its fruit.” May your breasts be like clusters of the vine, the fragrance of your breath like apples,
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֙רְתִּי֙]] [[H5927G\|אֶעֱלֶ֣ה]] [[H9003\|בְ]][[H8558\|תָמָ֔ר]] [[H0270\|אֹֽחֲזָ֖ה]] [[H9003\|בְּ]][[H5577\|סַנְסִנָּ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H4994\|נָ֤א]] [[H7699A\|שָׁדַ֙יִ]][[H9022\|ךְ֙]] [[H9004\|כְּ]][[H0811\|אֶשְׁכְּל֣וֹת]] [[H9009\|הַ]][[H1612\|גֶּ֔פֶן]] [[H9002\|וְ]][[H7381\|רֵ֥יחַ]] [[H0639H\|אַפֵּ֖]][[H9022\|ךְ]] [[H9004\|כַּ]][[H8598\|תַּפּוּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPLE|APPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.7|<< Song of Solomon 7:7]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.9|Song of Solomon 7:9 >>]]</td></tr></table>
 

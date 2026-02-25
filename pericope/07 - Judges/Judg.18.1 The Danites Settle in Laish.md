@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Danites Settle in Laish
+type: Pericope
 pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 18
 book/chapter: "[[Judg.18|Judges 18]]"
-genre:
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 13
 verses:
 - "[[Judg.18.1]]"
 - "[[Judg.18.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Judg.18.13]]"
 ---
 
-[[Judg.18|Judges 18:1 - Judges 18:13]]
+<small>[[Judg.18|Judges 18:1-13]]</small>
 *The Danites Settle in Laish*
 
 [[Judg.18.1|1]] In those days \[there was\] no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day \[all their\] inheritance had not fallen unto them among the tribes of Israel.

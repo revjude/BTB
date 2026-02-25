@@ -1,8 +1,73 @@
+---
+title: Genesis 40:20
+type: Verse
+kjv: "And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants."
+bsb: "On the third day, which was Pharaoh’s birthday, he held a feast for all his officials, and in their presence he lifted up the heads of the chief cupbearer and the chief baker."
+hebrew: "וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־ פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכָל־ עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־ רֹ֣אשׁ׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־ רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHDAY|BIRTHDAY]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HANGING|HANGING]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6547H]]"
+- "[[H6213H]]"
+- "[[H4960]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5375G]]"
+- "[[H7218A]]"
+- "[[H8269]]"
+- "[[H4945A]]"
+- "[[H9002]]"
+- "[[H0644]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+- LAH(b)
+---
+
 **Genesis 40:20**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the third day, [which was] Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
 <small><sub>**BSB:**</sub></small>
 On the third day, which was Pharaoh’s birthday, he held a feast for all his officials, and in their presence he lifted up the heads of the chief cupbearer and the chief baker.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֗י]] [[H3117G\|י֚וֹם]] [[H3205\|הֻלֶּ֣דֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H6547H\|פַּרְעֹ֔ה]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H4960\|מִשְׁתֶּ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5375G\|יִּשָּׂ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]][[H9015\|׀]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H4945A\|מַּשְׁקִ֗ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹ֛אשׁ]] [[H8269\|שַׂ֥ר]] [[H9009\|הָ]][[H0644\|אֹפִ֖ים]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHDAY|BIRTHDAY]] • [[topic DREAM|DREAM]] • [[topic FEASTS|FEASTS]] • [[topic HANGING|HANGING]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.19|<< Genesis 40:19]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.21|Genesis 40:21 >>]]</td></tr></table>
 

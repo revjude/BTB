@@ -1,10 +1,63 @@
+---
+title: Mark 7:15
+type: Verse
+kjv: "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man."
+bsb: "Nothing that enters a man from the outside can defile him; but the things that come out of a man, these are what defile him.”"
+jesus_said: "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man."
+greek: "οὐδέν ἐστιν ἔξωθεν τοῦ ἀνθρώπου εἰσπορευόμενον εἰς αὐτὸν ὃ δύναται κοινῶσαι αὐτόν, ἀλλὰ τὰ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενά ἀπ᾽ αὐτοῦ ἐκεῖνά ἐστιν τὰ κοινοῦντα τὸν ἄνθρωπον.¶"
+pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G1855]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G1410]]"
+- "[[G2840]]"
+- "[[G0235]]"
+- "[[G1537]]"
+- "[[G1607]]"
+- "[[G0575]]"
+- "[[G1565]]"
+texts:
+- NKO
+- NO
+- k
+- ko
+---
+
 **Mark 7:15**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.
 <small><sub>**BSB:**</sub></small>
 Nothing that enters a man from the outside can defile him; but the things that come out of a man, these are what defile him.”
-<small><sub>**Literal:**</sub></small>
-No [thing] there is outside of the man entering into him which is able to defile him but the [things] out of the man proceeding from of him that are those which are defiling the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.14|<< Mark 7:14]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.16|Mark 7:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|οὐδέν]]  [[G1510\|ἐστιν]]  [[G1855\|ἔξωθεν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1531\|εἰσπορευόμενον]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G3739\|ὃ]]  [[G1410\|δύναται]]  [[G2840\|κοινῶσαι]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὰ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1607\|ἐκπορευόμενά]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G1565\|ἐκεῖνά]]  [[G1510\|ἐστιν]]  [[G3588\|τὰ]]  [[G2840\|κοινοῦντα]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.14|<< Mark 7:14]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.16|Mark 7:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

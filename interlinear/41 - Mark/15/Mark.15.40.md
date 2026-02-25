@@ -1,10 +1,65 @@
+---
+title: Mark 15:40
+type: Verse
+kjv: "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+bsb: "And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome."
+greek: "ἦσαν δὲ καὶ γυναῖκες ἀπὸ μακρόθεν θεωροῦσαι ἐν αἷς ἦν καὶ Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ τοῦ Ἰακώβου τοῦ μικροῦ καὶ Ἰωσῆτος μήτηρ καὶ Σαλώμη,"
+pericope: "[[Mark.15.33 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSES|JOSES]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SALOME|SALOME]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2334]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3137I]]"
+- "[[G3588]]"
+- "[[G3094]]"
+- "[[G3137G]]"
+- "[[G2385I]]"
+- "[[G3398]]"
+- "[[G2500G]]"
+- "[[G3384]]"
+- "[[G4539]]"
+texts:
+- NKO
+- ko
+- k
+---
+
 **Mark 15:40**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;
 <small><sub>**BSB:**</sub></small>
 And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.
-<small><sub>**Literal:**</sub></small>
-There were then also women from afar off looking on among whom was also Mary <the> Magdalene and Mary the <the> of James the least and of Joses mother and Salome,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.39|<< Mark 15:39]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.41|Mark 15:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκες]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2334\|θεωροῦσαι]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2532\|καὶ]]  [[G3137G\|Μαρία]]  [[G3588\|ἡ]]  [[G3588\|τοῦ]]  [[G2385I\|Ἰακώβου]]  [[G3588\|τοῦ]]  [[G3398\|μικροῦ]]  [[G2532\|καὶ]]  [[G2500G\|Ἰωσῆτος]]  [[G3384\|μήτηρ]]  [[G2532\|καὶ]]  [[G4539\|Σαλώμη,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSES|JOSES]] • [[topic MARY|MARY]] • [[topic SALOME|SALOME]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.39|<< Mark 15:39]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.41|Mark 15:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

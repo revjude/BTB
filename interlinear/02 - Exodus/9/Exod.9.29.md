@@ -1,8 +1,83 @@
+---
+title: Exodus 9:29
+type: Verse
+kjv: "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’S."
+bsb: "Moses said to him, “When I have left the city, I will spread out my hands to the LORD. The thunder will cease, and there will be no more hail, so that you may know that the earth is the LORD’s."
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ מֹשֶׁ֔ה כְּצֵאתִי֙ אֶת־ הָעִ֔יר אֶפְרֹ֥שׂ אֶת־ כַּפַּ֖י אֶל־ יְהוָ֑ה הַקֹּל֣וֹת יֶחְדָּל֗וּן וְהַבָּרָד֙ לֹ֣א יִֽהְיֶה־ ע֔וֹד לְמַ֣עַן תֵּדַ֔ע כִּ֥י לַיהוָ֖ה הָאָֽרֶץ׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H3318G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H6963I]]"
+- "[[H2308]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H1259]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:29**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; [and] the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth [is] the LORD’S.
 <small><sub>**BSB:**</sub></small>
 Moses said to him, “When I have left the city, I will spread out my hands to the LORD. The thunder will cease, and there will be no more hail, so that you may know that the earth is the LORD’s.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כְּ]][[H3318G\|צֵאתִ]][[H9040\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H6566\|אֶפְרֹ֥שׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H3709G\|כַּפַּ֖]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9009\|הַ]][[H6963I\|קֹּל֣וֹת]] [[H2308\|יֶחְדָּל֗וּ]][[H9013\|ן]] [[H9002\|וְ]][[H9009\|הַ]][[H1259\|בָּרָד֙]] [[H3808\|לֹ֣א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H5750\|ע֔וֹד]] [[H4616\|לְמַ֣עַן]] [[H3045\|תֵּדַ֔ע]] [[H3588A\|כִּ֥י]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HAIL|HAIL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.28|<< Exodus 9:28]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.30|Exodus 9:30 >>]]</td></tr></table>
 

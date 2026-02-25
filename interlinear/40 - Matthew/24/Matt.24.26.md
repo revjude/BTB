@@ -1,10 +1,57 @@
+---
+title: Matthew 24:26
+type: Verse
+kjv: "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
+bsb: "So if they tell you, ‘There He is, in the wilderness,’ do not go out, or, ‘Here He is, in the inner rooms,’ do not believe it."
+jesus_said: "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not."
+greek: "ἐὰν οὖν εἴπωσιν ὑμῖν· ἰδοὺ ἐν τῇ ἐρήμῳ ἐστίν, μὴ ἐξέλθητε· ἰδοὺ ἐν τοῖς ταμείοις, μὴ πιστεύσητε."
+pericope: "[[Matt.24.26 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G2400]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G1510]]"
+- "[[G3361]]"
+- "[[G1831]]"
+- "[[G5009]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **Matthew 24:26**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, [he is] in the secret chambers; believe [it] not.
 <small><sub>**BSB:**</sub></small>
 So if they tell you, ‘There He is, in the wilderness,’ do not go out, or, ‘Here He is, in the inner rooms,’ do not believe it.
-<small><sub>**Literal:**</sub></small>
-If therefore they shall say to you; Behold in the wilderness He is, not shall go forth; [or] ‘Behold in the inner rooms, not shall believe [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.25|<< Matthew 24:25]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.27|Matthew 24:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G2036\|εἴπωσιν]]  [[G4771\|ὑμῖν·]]  [[G2400\|ἰδοὺ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G1510\|ἐστίν,]]  [[G3361\|μὴ]]  [[G1831\|ἐξέλθητε·]]  [[G2400\|ἰδοὺ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5009\|ταμείοις,]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.25|<< Matthew 24:25]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.27|Matthew 24:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

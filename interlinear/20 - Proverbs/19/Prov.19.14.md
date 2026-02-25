@@ -1,8 +1,51 @@
+---
+title: Proverbs 19:14
+type: Verse
+kjv: "House and riches are the inheritance of fathers: and a prudent wife is from the LORD."
+bsb: "Houses and wealth are inherited from fathers, but a prudent wife is from the LORD."
+hebrew: "בַּ֣יִת וָ֭הוֹן נַחֲלַ֣ת אָב֑וֹת וּ֝מֵיְהוָ֗ה אִשָּׁ֥ה מַשְׂכָּֽלֶת׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H1952]]"
+- "[[H5159]]"
+- "[[H0001G]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H0802H]]"
+- "[[H7919A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:14**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 House and riches [are] the inheritance of fathers: and a prudent wife [is] from the LORD.
 <small><sub>**BSB:**</sub></small>
 Houses and wealth are inherited from fathers, but a prudent wife is from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1004B\|בַּ֣יִת]] [[H9002\|וָ֭]][[H1952\|הוֹן]] [[H5159\|נַחֲלַ֣ת]] [[H0001G\|אָב֑וֹת]] [[H9002\|וּ֝]][[H9006\|מֵ]][[H3068G\|יְהוָ֗ה]] [[H0802H\|אִשָּׁ֥ה]] [[H7919A\|מַשְׂכָּֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.13|<< Proverbs 19:13]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.15|Proverbs 19:15 >>]]</td></tr></table>
 

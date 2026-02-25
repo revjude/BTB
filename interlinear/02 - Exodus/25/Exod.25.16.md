@@ -1,8 +1,59 @@
+---
+title: Exodus 25:16
+type: Verse
+kjv: "And thou shalt put into the ark the testimony which I shall give thee."
+bsb: "And place inside the ark the Testimony, which I will give you."
+hebrew: "וְנָתַתָּ֖ אֶל־ הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃"
+pericope: "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H0853]]"
+- "[[H5715]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:16**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put into the ark the testimony which I shall give thee.
 <small><sub>**BSB:**</sub></small>
 And place inside the ark the Testimony, which I will give you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרֹ֑ן]] [[H0853\|אֵ֚ת]] [[H9009\|הָ]][[H5715\|עֵדֻ֔ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|אֶתֵּ֖ן]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic LAW|LAW]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.15|<< Exodus 25:15]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.17|Exodus 25:17 >>]]</td></tr></table>
 

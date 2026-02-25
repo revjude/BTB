@@ -1,8 +1,72 @@
+---
+title: Numbers 22:20
+type: Verse
+kjv: "And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do."
+bsb: "That night God came to Balaam and said, “Since these men have come to summon you, get up and go with them, but you must only do what I tell you.”"
+hebrew: "וַיָּבֹ֨א אֱלֹהִ֥ים׀ אֶל־ בִּלְעָם֮ לַיְלָה֒ וַיֹּ֣אמֶר ל֗וֹ אִם־ לִקְרֹ֤א לְךָ֙ בָּ֣אוּ הָאֲנָשִׁ֔ים ק֖וּם לֵ֣ךְ אִתָּ֑ם וְאַ֗ךְ אֶת־ הַדָּבָ֛ר אֲשֶׁר־ אֲדַבֵּ֥ר אֵלֶ֖יךָ אֹת֥וֹ תַעֲשֶֽׂה׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H3915]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0518A]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:20**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, [and] go with them; but yet the word which I shall say unto thee, that shalt thou do.
 <small><sub>**BSB:**</sub></small>
 That night God came to Balaam and said, “Since these men have come to summon you, get up and go with them, but you must only do what I tell you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H0430G\|אֱלֹהִ֥ים]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָם֮]] [[H3915\|לַיְלָה֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0518A\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H7121G\|קְרֹ֤א]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0935G\|בָּ֣אוּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֔ים]] [[H6965B\|ק֖וּם]] [[H1980G\|לֵ֣ךְ]] [[H0854\|אִתָּ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0389\|אַ֗ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|אֲדַבֵּ֥ר]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H6213A\|תַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.19|<< Numbers 22:19]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.21|Numbers 22:21 >>]]</td></tr></table>
 

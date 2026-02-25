@@ -1,8 +1,69 @@
+---
+title: Daniel 6:23
+type: Verse
+kjv: "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God."
+bsb: "The king was overjoyed and gave orders to lift Daniel out of the den, and when Daniel was lifted out of the den, no wounds whatsoever were found on him, because he had trusted in his God."
+aramaic: "בֵּאדַ֣יִן מַלְכָּ֗א שַׂגִּיא֙ טְאֵ֣ב עֲל֔וֹהִי וּלְדָ֣נִיֵּ֔אל אֲמַ֖ר לְהַנְסָקָ֣ה מִן־ גֻּבָּ֑א וְהֻסַּ֨ק דָּנִיֵּ֜אל מִן־ גֻּבָּ֗א וְכָל־ חֲבָל֙ לָא־ הִשְׁתְּכַ֣ח בֵּ֔הּ דִּ֖י הֵימִ֥ן בֵּאלָהֵֽהּ׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LION|LION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H7690]]"
+- "[[H2868]]"
+- "[[H5922]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H0560]]"
+- "[[H5559]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H1358]]"
+- "[[H3606]]"
+- "[[H2257]]"
+- "[[H3809]]"
+- "[[H7912]]"
+- "[[H1768]]"
+- "[[H0540]]"
+- "[[H0426]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:23**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
 <small><sub>**BSB:**</sub></small>
 The king was overjoyed and gave orders to lift Daniel out of the den, and when Daniel was lifted out of the den, no wounds whatsoever were found on him, because he had trusted in his God.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֣יִן]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H7690\|שַׂגִּיא֙]] [[H2868\|טְאֵ֣ב]] [[H5922\|עֲל֔וֹ]][[H9033\|הִי]] [[H9002\|וּ]][[H9005\|לְ]][[H1841H\|דָ֣נִיֵּ֔אל]] [[H0560\|אֲמַ֖ר]] [[H9005\|לְ]][[H5559\|הַנְסָקָ֣ה]] [[H4481\|מִן]][[H9014\|־]] [[H1358\|גֻּבָּ֑]][[H9010\|א]] [[H9002\|וְ]][[H5559\|הֻסַּ֨ק]] [[H1841H\|דָּנִיֵּ֜אל]] [[H4481\|מִן]][[H9014\|־]] [[H1358\|גֻּבָּ֗]][[H9010\|א]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H2257\|חֲבָל֙]] [[H3809\|לָא]][[H9014\|־]] [[H7912\|הִשְׁתְּכַ֣ח]] [[H9003\|בֵּ֔]][[H9033\|הּ]] [[H1768\|דִּ֖י]] [[H0540\|הֵימִ֥ן]] [[H9003\|בֵּ]][[H0426\|אלָהֵֽ]][[H9023\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic LION|LION]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.22|<< Daniel 6:22]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.24|Daniel 6:24 >>]]</td></tr></table>
 

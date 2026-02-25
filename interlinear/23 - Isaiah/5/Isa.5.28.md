@@ -1,8 +1,61 @@
+---
+title: Isaiah 5:28
+type: Verse
+kjv: "Whose arrows are sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:"
+bsb: "Their arrows are sharpened, and all their bows are strung. The hooves of their horses are like flint; their chariot wheels are like a whirlwind."
+hebrew: "אֲשֶׁ֤ר חִצָּיו֙ שְׁנוּנִ֔ים וְכָל־ קַשְּׁתֹתָ֖יו דְּרֻכ֑וֹת פַּרְס֤וֹת סוּסָיו֙ כַּצַּ֣ר נֶחְשָׁ֔בוּ וְגַלְגִּלָּ֖יו כַּסּוּפָֽה׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0834A]]"
+- "[[H2671]]"
+- "[[H9023]]"
+- "[[H8150]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7198]]"
+- "[[H1869]]"
+- "[[H6541]]"
+- "[[H5483M]]"
+- "[[H9004]]"
+- "[[H6862D]]"
+- "[[H2803J]]"
+- "[[H1534]]"
+- "[[H5492A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:28**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose arrows [are] sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:
 <small><sub>**BSB:**</sub></small>
 Their arrows are sharpened, and all their bows are strung. The hooves of their horses are like flint; their chariot wheels are like a whirlwind.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H2671\|חִצָּי]][[H9023\|ו֙]] [[H8150\|שְׁנוּנִ֔ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7198\|קַשְּׁתֹתָ֖י]][[H9023\|ו]] [[H1869\|דְּרֻכ֑וֹת]] [[H6541\|פַּרְס֤וֹת]] [[H5483M\|סוּסָי]][[H9023\|ו֙]] [[H9004\|כַּ]][[H6862D\|צַּ֣ר]] [[H2803J\|נֶחְשָׁ֔בוּ]] [[H9002\|וְ]][[H1534\|גַלְגִּלָּ֖י]][[H9023\|ו]] [[H9004\|כַּ]][[H5492A\|סּוּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HORSE|HORSE]] • [[topic ISAIAH|ISAIAH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.27|<< Isaiah 5:27]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.29|Isaiah 5:29 >>]]</td></tr></table>
 

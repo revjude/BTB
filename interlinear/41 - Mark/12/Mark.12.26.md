@@ -1,10 +1,70 @@
+---
+title: Mark 12:26
+type: Verse
+kjv: "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
+bsb: "But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?"
+jesus_said: "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
+greek: "περὶ δὲ τῶν νεκρῶν ὅτι ἐγείρονται, οὐκ ἀνέγνωτε ἐν τῇ βίβλῳ Μωϋσέως ἐπὶ τοῦ βάτου πῶς εἶπεν αὐτῷ ὁ θεὸς λέγων· ἐγὼ ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ;"
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3498]]"
+- "[[G3754G]]"
+- "[[G1453]]"
+- "[[G3756]]"
+- "[[G0314]]"
+- "[[G1722]]"
+- "[[G0976]]"
+- "[[G3475]]"
+- "[[G1909]]"
+- "[[G0942]]"
+- "[[G4459]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G2464]]"
+- "[[G2384G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 12:26**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob?
 <small><sub>**BSB:**</sub></small>
 But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
-<small><sub>**Literal:**</sub></small>
-Concerning now the dead that they rise, surely you have read in the book of Moses on the bush how spoke to him <the> God saying; I myself [am] the God of Abraham and the God of Isaac and the God of Jacob’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.25|<< Mark 12:25]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.27|Mark 12:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν]]  [[G3754G\|ὅτι]]  [[G1453\|ἐγείρονται,]]  [[G3756\|οὐκ]]  [[G0314\|ἀνέγνωτε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0976\|βίβλῳ]]  [[G3475\|Μωϋσέως]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0942\|βάτου]]  [[G4459\|πῶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3004G\|λέγων·]]  [[G1473\|ἐγὼ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2384G\|Ἰακώβ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.25|<< Mark 12:25]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.27|Mark 12:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:26** is...
 > $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]

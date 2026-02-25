@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 25:2
+type: Verse
+kjv: "And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel."
+bsb: "Now there was a man in Maon whose business was in Carmel. He was a very wealthy man with a thousand goats and three thousand sheep, which he was shearing in Carmel."
+hebrew: "וְאִ֨ישׁ בְּמָע֜וֹן וּמַעֲשֵׂ֣הוּ בַכַּרְמֶ֗ל וְהָאִישׁ֙ גָּד֣וֹל מְאֹ֔ד וְל֛וֹ צֹ֥אן שְׁלֹֽשֶׁת־ אֲלָפִ֖ים וְאֶ֣לֶף עִזִּ֑ים וַיְהִ֛י בִּגְזֹ֥ז אֶת־ צֹאנ֖וֹ בַּכַּרְמֶֽל׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic MAON|MAON]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H4584G]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H3760G]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6629G]]"
+- "[[H7969]]"
+- "[[H9014]]"
+- "[[H0505G]]"
+- "[[H5795]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1494]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:2**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] a man in Maon, whose possessions [were] in Carmel; and the man [was] very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.
 <small><sub>**BSB:**</sub></small>
 Now there was a man in Maon whose business was in Carmel. He was a very wealthy man with a thousand goats and three thousand sheep, which he was shearing in Carmel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H9003\|בְּ]][[H4584G\|מָע֜וֹן]] [[H9002\|וּ]][[H4639G\|מַעֲשֵׂ֣]][[H9023\|הוּ]] [[H9003\|בַ]][[H3760G\|כַּרְמֶ֗ל]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H1419A\|גָּד֣וֹל]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H9005\|ל֛]][[H9033\|וֹ]] [[H6629G\|צֹ֥אן]] [[H7969\|שְׁלֹֽשֶׁת]][[H9014\|־]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וְ]][[H0505G\|אֶ֣לֶף]] [[H5795\|עִזִּ֑ים]] [[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9003\|בִּ]][[H1494\|גְזֹ֥ז]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנ֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3760G\|כַּרְמֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARMEL|CARMEL]] • [[topic GOAT|GOAT]] • [[topic MAON|MAON]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.1|<< 1 Samuel 25:1]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.3|1 Samuel 25:3 >>]]</td></tr></table>
 

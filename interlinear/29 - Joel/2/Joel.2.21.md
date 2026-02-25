@@ -1,8 +1,56 @@
+---
+title: Joel 2:21
+type: Verse
+kjv: "Fear not, O land; be glad and rejoice: for the LORD will do great things."
+bsb: "Do not be afraid, O land; rejoice and be glad, for the LORD has done great things."
+hebrew: "אַל־ תִּֽירְאִ֖י אֲדָמָ֑ה גִּ֣ילִי וּשְׂמָ֔חִי כִּֽי־ הִגְדִּ֥יל יְהוָ֖ה לַעֲשֽׂוֹת׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H0127G]]"
+- "[[H1523]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H3588A]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:21**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear not, O land; be glad and rejoice: for the LORD will do great things.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid, O land; rejoice and be glad, for the LORD has done great things.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאִ֖י]] [[H0127G\|אֲדָמָ֑ה]] [[H1523\|גִּ֣ילִי]] [[H9002\|וּ]][[H8055\|שְׂמָ֔חִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1431\|הִגְדִּ֥יל]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H6213A\|עֲשֽׂוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.20|<< Joel 2:20]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.22|Joel 2:22 >>]]</td></tr></table>
 

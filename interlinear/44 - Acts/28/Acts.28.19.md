@@ -1,10 +1,55 @@
+---
+title: Acts 28:19
+type: Verse
+kjv: "But when the Jews spake against it, I was constrained to appeal unto Caesar; not that I had ought to accuse my nation of."
+bsb: "But when the Jews objected, I was compelled to appeal to Caesar, even though I have no charge to bring against my nation."
+greek: "ἀντιλεγόντων δὲ τῶν Ἰουδαίων ἠναγκάσθην ἐπικαλέσασθαι Καίσαρα οὐχ ὡς τοῦ ἔθνους μου ἔχων τι κατηγορεῖν."
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0483]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G0315]]"
+- "[[G1941]]"
+- "[[G2541]]"
+- "[[G3756]]"
+- "[[G5613]]"
+- "[[G1484]]"
+- "[[G3165]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G2723]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:19**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Jews spake against [it], I was constrained to appeal unto Caesar; not that I had ought to accuse my nation of.
 <small><sub>**BSB:**</sub></small>
 But when the Jews objected, I was compelled to appeal to Caesar, even though I have no charge to bring against my nation.
-<small><sub>**Literal:**</sub></small>
-When were objecting however the Jews I was compelled to appeal to Caesar not as if the nation of mine having anything to lay against.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.18|<< Acts 28:18]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.20|Acts 28:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0483\|ἀντιλεγόντων]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G0315\|ἠναγκάσθην]]  [[G1941\|ἐπικαλέσασθαι]]  [[G2541\|Καίσαρα]]  [[G3756\|οὐχ]]  [[G5613\|ὡς]]  [[G3588\|τοῦ]]  [[G1484\|ἔθνους]]  [[G3165\|μου]]  [[G2192\|ἔχων]]  [[G5100\|τι]]  [[G2723\|κατηγορεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.18|<< Acts 28:18]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.20|Acts 28:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

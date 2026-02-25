@@ -1,10 +1,61 @@
+---
+title: John 11:33
+type: Verse
+kjv: "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,"
+bsb: "When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled."
+greek: "Ἰησοῦς οὖν ὡς εἶδεν αὐτὴν κλαίουσαν καὶ τοὺς συνελθόντας αὐτῇ Ἰουδαίους κλαίοντας, ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτὸν"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G2424G]]"
+- "[[G3767]]"
+- "[[G5613]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G2799]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4905]]"
+- "[[G2453]]"
+- "[[G1690]]"
+- "[[G4151G]]"
+- "[[G5015]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **John 11:33**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,
 <small><sub>**BSB:**</sub></small>
 When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled.
-<small><sub>**Literal:**</sub></small>
-Jesus therefore when He saw her weeping and the having come with her Jews weeping, He was deeply moved <the> in spirit and troubled Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.32|<< John 11:32]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.34|John 11:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G3767\|οὖν]]  [[G5613\|ὡς]]  [[G1492H\|εἶδεν]]  [[G0846\|αὐτὴν]]  [[G2799\|κλαίουσαν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4905\|συνελθόντας]]  [[G0846\|αὐτῇ]]  [[G2453\|Ἰουδαίους]]  [[G2799\|κλαίοντας,]]  [[G1690\|ἐνεβριμήσατο]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G5015\|ἐτάραξεν]]  [[G1438\|ἑαυτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]] • [[topic WEEPING|WEEPING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.32|<< John 11:32]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.34|John 11:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

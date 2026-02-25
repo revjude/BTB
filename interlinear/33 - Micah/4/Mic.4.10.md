@@ -1,8 +1,70 @@
+---
+title: Micah 4:10
+type: Verse
+kjv: "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies."
+bsb: "Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will leave the city and camp in the open fields. You will go to Babylon; there you will be rescued; there the LORD will redeem you from the hand of your enemies!"
+hebrew: "ח֧וּלִי וָגֹ֛חִי בַּת־ צִיּ֖וֹן כַּיּֽוֹלֵדָ֑ה כִּֽי־ עַתָּה֩ תֵצְאִ֨י מִקִּרְיָ֜ה וְשָׁכַ֣נְתְּ בַּשָּׂדֶ֗ה וּבָ֤את עַד־ בָּבֶל֙ שָׁ֣ם תִּנָּצֵ֔לִי שָׁ֚ם יִגְאָלֵ֣ךְ יְהוָ֔ה מִכַּ֖ף אֹיְבָֽיִךְ׃"
+pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2342I]]"
+- "[[H9002]]"
+- "[[H1518]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H9004]]"
+- "[[H3205]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H7151]]"
+- "[[H9001]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H0894]]"
+- "[[H8033G]]"
+- "[[H5337]]"
+- "[[H1350A]]"
+- "[[H9032]]"
+- "[[H3068G]]"
+- "[[H3709G]]"
+- "[[H0341]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:10**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go [even] to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.
 <small><sub>**BSB:**</sub></small>
 Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will leave the city and camp in the open fields. You will go to Babylon; there you will be rescued; there the LORD will redeem you from the hand of your enemies!
+<small><sub>**Hebrew:**</sub></small>
+[[H2342I\|ח֧וּלִי]] [[H9002\|וָ]][[H1518\|גֹ֛חִי]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֖וֹן]] [[H9004\|כַּ]][[H3205\|יּֽוֹלֵדָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַתָּה֩]] [[H3318G\|תֵצְאִ֨י]] [[H9006\|מִ]][[H7151\|קִּרְיָ֜ה]] [[H9001\|וְ]][[H7931\|שָׁכַ֣נְתְּ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֗ה]] [[H9001\|וּ]][[H0935G\|בָ֤את]] [[H5704\|עַד]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H8033G\|שָׁ֣ם]] [[H5337\|תִּנָּצֵ֔לִי]] [[H8033G\|שָׁ֚ם]] [[H1350A\|יִגְאָלֵ֣]][[H9032\|ךְ]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מִ]][[H3709G\|כַּ֖ף]] [[H0341\|אֹיְבָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.9|<< Micah 4:9]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.11|Micah 4:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

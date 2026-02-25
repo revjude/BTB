@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 29:32
+type: Verse
+kjv: "And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the LORD."
+bsb: "The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD."
+hebrew: "וַיְהִ֞י מִסְפַּ֣ר הָעֹלָה֮ אֲשֶׁ֣ר הֵבִ֣יאוּ הַקָּהָל֒ בָּקָ֣ר שִׁבְעִ֔ים אֵילִ֥ים מֵאָ֖ה כְּבָשִׂ֣ים מָאתָ֑יִם לְעֹלָ֥ה לַיהוָ֖ה כָּל־ אֵֽלֶּה׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H6951]]"
+- "[[H1241]]"
+- "[[H7657]]"
+- "[[H0352A]]"
+- "[[H3967]]"
+- "[[H3532]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:32**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, [and] two hundred lambs: all these [were] for a burnt offering to the LORD.
 <small><sub>**BSB:**</sub></small>
 The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H4557\|מִסְפַּ֣ר]] [[H9009\|הָ]][[H5930A\|עֹלָה֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H0935P\|הֵבִ֣יאוּ]] [[H9009\|הַ]][[H6951\|קָּהָל֒]] [[H1241\|בָּקָ֣ר]] [[H7657\|שִׁבְעִ֔ים]] [[H0352A\|אֵילִ֥ים]] [[H3967\|מֵאָ֖ה]] [[H3532\|כְּבָשִׂ֣ים]] [[H3967\|מָאתָ֑יִם]] [[H9005\|לְ]][[H5930A\|עֹלָ֥ה]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.31|<< 2 Chronicles 29:31]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.33|2 Chronicles 29:33 >>]]</td></tr></table>
 

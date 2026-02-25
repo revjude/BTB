@@ -1,8 +1,67 @@
+---
+title: Isaiah 59:14
+type: Verse
+kjv: "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter."
+bsb: "So justice is turned away, and righteousness stands at a distance. For truth has stumbled in the public square, and honesty cannot enter."
+hebrew: "וְהֻסַּ֤ג אָחוֹר֙ מִשְׁפָּ֔ט וּצְדָקָ֖ה מֵרָח֣וֹק תַּעֲמֹ֑ד כִּֽי־ כָשְׁלָ֤ה בָֽרְחוֹב֙ אֱמֶ֔ת וּנְכֹחָ֖ה לֹא־ תוּכַ֥ל לָבֽוֹא׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5253]]"
+- "[[H0268]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H5975G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H0571H]]"
+- "[[H5229]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:14**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.
 <small><sub>**BSB:**</sub></small>
 So justice is turned away, and righteousness stands at a distance. For truth has stumbled in the public square, and honesty cannot enter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5253\|הֻסַּ֤ג]] [[H0268\|אָחוֹר֙]] [[H4941H\|מִשְׁפָּ֔ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9006\|מֵ]][[H7350\|רָח֣וֹק]] [[H5975G\|תַּעֲמֹ֑ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3782\|כָשְׁלָ֤ה]] [[H9003\|בָֽ]][[H7339\|רְחוֹב֙]] [[H0571H\|אֱמֶ֔ת]] [[H9002\|וּ]][[H5229\|נְכֹחָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|תוּכַ֥ל]] [[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic JUSTICE|JUSTICE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.13|<< Isaiah 59:13]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.15|Isaiah 59:15 >>]]</td></tr></table>
 

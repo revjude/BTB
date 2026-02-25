@@ -1,8 +1,67 @@
+---
+title: 1 Kings 22:35
+type: Verse
+kjv: "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot."
+bsb: "The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died."
+hebrew: "וַתַּעֲלֶ֤ה הַמִּלְחָמָה֙ בַּיּ֣וֹם הַה֔וּא וְהַמֶּ֗לֶךְ הָיָ֧ה מָעֳמָ֛ד בַּמֶּרְכָּבָ֖ה נֹ֣כַח אֲרָ֑ם וַיָּ֣מָת בָּעֶ֔רֶב וַיִּ֥צֶק דַּֽם־ הַמַּכָּ֖ה אֶל־ חֵ֥יק הָרָֽכֶב׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H5975G]]"
+- "[[H4818]]"
+- "[[H5227]]"
+- "[[H0758I]]"
+- "[[H4191]]"
+- "[[H6153]]"
+- "[[H3332G]]"
+- "[[H1818]]"
+- "[[H9014]]"
+- "[[H4347]]"
+- "[[H0413]]"
+- "[[H2436I]]"
+- "[[H7393G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:35**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.
 <small><sub>**BSB:**</sub></small>
 The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|תַּעֲלֶ֤ה]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H1961\|הָיָ֧ה]] [[H5975G\|מָעֳמָ֛ד]] [[H9003\|בַּ]][[H4818\|מֶּרְכָּבָ֖ה]] [[H5227\|נֹ֣כַח]] [[H0758I\|אֲרָ֑ם]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H9003\|בָּ]][[H6153\|עֶ֔רֶב]] [[H9001\|וַ]][[H3332G\|יִּ֥צֶק]] [[H1818\|דַּֽם]][[H9014\|־]] [[H9009\|הַ]][[H4347\|מַּכָּ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2436I\|חֵ֥יק]] [[H9009\|הָ]][[H7393G\|רָֽכֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.34|<< 1 Kings 22:34]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.36|1 Kings 22:36 >>]]</td></tr></table>
 

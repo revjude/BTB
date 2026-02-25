@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 30:19
+type: Verse
+kjv: "And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any thing that they had taken to them: David recovered all."
+bsb: "Nothing was missing, young or old, son or daughter, or any of the plunder the Amalekites had taken. David brought everything back."
+hebrew: "וְלֹ֣א נֶעְדַּר־ לָ֠הֶם מִן־ הַקָּטֹ֨ן וְעַד־ הַגָּד֜וֹל וְעַד־ בָּנִ֤ים וּבָנוֹת֙ וּמִשָּׁלָ֔ל וְעַ֛ד כָּל־ אֲשֶׁ֥ר לָקְח֖וּ לָהֶ֑ם הַכֹּ֖ל הֵשִׁ֥יב דָּוִֽד׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5737C]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6996B]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9006]]"
+- "[[H7998]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H7725G]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:19**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any [thing] that they had taken to them: David recovered all.
 <small><sub>**BSB:**</sub></small>
 Nothing was missing, young or old, son or daughter, or any of the plunder the Amalekites had taken. David brought everything back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5737C\|נֶעְדַּר]][[H9014\|־]] [[H9005\|לָ֠]][[H9038\|הֶם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6996B\|קָּטֹ֨ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1419A\|גָּד֜וֹל]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1121A\|בָּנִ֤ים]] [[H9002\|וּ]][[H1323G\|בָנוֹת֙]] [[H9002\|וּ]][[H9006\|מִ]][[H7998\|שָּׁלָ֔ל]] [[H9002\|וְ]][[H5704\|עַ֛ד]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H3947G\|לָקְח֖וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9009\|הַ]][[H3605\|כֹּ֖ל]] [[H7725G\|הֵשִׁ֥יב]] [[H1732\|דָּוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.18|<< 1 Samuel 30:18]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.20|1 Samuel 30:20 >>]]</td></tr></table>
 

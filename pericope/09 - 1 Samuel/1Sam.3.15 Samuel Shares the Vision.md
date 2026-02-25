@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel Shares the Vision
+type: Pericope
 pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 3
 book/chapter: "[[1Sam.3|1 Samuel 3]]"
-genre:
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[1Sam.3.15]]"
 - "[[1Sam.3.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Sam.3.21]]"
 ---
 
-[[1Sam.3|1 Samuel 3:15 - 1 Samuel 3:21]]
+<small>[[1Sam.3|1 Samuel 3:15-21]]</small>
 *Samuel Shares the Vision*
 
 [[1Sam.3.15|15]] And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision.

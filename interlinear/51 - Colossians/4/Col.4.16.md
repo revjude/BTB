@@ -1,10 +1,55 @@
+---
+title: Colossians 4:16
+type: Verse
+kjv: "And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea."
+bsb: "After this letter has been read among you, make sure that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea."
+greek: "καὶ ὅταν ἀναγνωσθῇ παρ᾽ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε."
+pericope: "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G0314]]"
+- "[[G3844]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1992]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G2994]]"
+- "[[G1577]]"
+- "[[G1537]]"
+- "[[G2993]]"
+texts:
+- NKO
+---
+
 **Colossians 4:16**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the [epistle] from Laodicea.
 <small><sub>**BSB:**</sub></small>
 After this letter has been read among you, make sure that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea.
-<small><sub>**Literal:**</sub></small>
-And when may be read among you the letter, do cause that also in the of [the] Laodiceans church it may be read, and the [one] from Laodicea that also you yourselves may read.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.15|<< Colossians 4:15]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.17|Colossians 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G0314\|ἀναγνωσθῇ]]  [[G3844\|παρ᾽]]  [[G4771\|ὑμῖν]]  [[G3588\|ἡ]]  [[G1992\|ἐπιστολή,]]  [[G4160G\|ποιήσατε]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2994\|Λαοδικέων]]  [[G1577\|ἐκκλησίᾳ]]  [[G0314\|ἀναγνωσθῇ,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G2993\|Λαοδικείας]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G0314\|ἀναγνῶτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAODICEA|LAODICEA]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.15|<< Colossians 4:15]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.17|Colossians 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: 2 Timothy 3:17
+type: Verse
+kjv: "That the man of God may be perfect, throughly furnished unto all good works."
+bsb: "so that the man of God may be complete, fully equipped for every good work."
+greek: "ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος.¶"
+pericope: "[[2Tim.3.10 All Scripture Is God-Breathed|All Scripture Is God-Breathed]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2443]]"
+- "[[G0739]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0444]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G0018]]"
+- "[[G1822]]"
+texts:
+- NKO
+---
+
 **2 Timothy 3:17**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the man of God may be perfect, throughly furnished unto all good works.
 <small><sub>**BSB:**</sub></small>
 so that the man of God may be complete, fully equipped for every good work.
-<small><sub>**Literal:**</sub></small>
-so that complete may be the <the> of God man, toward every work good fully equipped.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.16|<< 2 Timothy 3:16]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.1|2 Timothy 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G0739\|ἄρτιος]]  [[G1510\|ᾖ]]  [[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0444\|ἄνθρωπος,]]  [[G4314\|πρὸς]]  [[G3956\|πᾶν]]  [[G2041\|ἔργον]]  [[G0018\|ἀγαθὸν]]  [[G1822\|ἐξηρτισμένος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERFECTION|PERFECTION]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.16|<< 2 Timothy 3:16]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.1|2 Timothy 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

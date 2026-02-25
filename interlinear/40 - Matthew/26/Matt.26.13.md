@@ -1,10 +1,63 @@
+---
+title: Matthew 26:13
+type: Verse
+kjv: "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+bsb: "Truly I tell you, wherever this gospel is preached in all the world, what she has done will also be told in memory of her.”"
+jesus_said: "Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her."
+greek: "Ἀμὴν λέγω ὑμῖν· ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.¶"
+pericope: "[[Matt.26.6 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3699]]"
+- "[[G1437]]"
+- "[[G2784]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G2889]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G3422]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 26:13**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, [there] shall also this, that this woman hath done, be told for a memorial of her.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, wherever this gospel is preached in all the world, what she has done will also be told in memory of her.”
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; wherever if shall be proclaimed <the> gospel this in all the world, will be spoken of also that which did this [woman] for a memorial of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.12|<< Matthew 26:12]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.14|Matthew 26:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3699\|ὅπου]]  [[G1437\|ἐὰν]]  [[G2784\|κηρυχθῇ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3778\|τοῦτο]]  [[G1722\|ἐν]]  [[G3650\|ὅλῳ]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ,]]  [[G2980\|λαληθήσεται]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G4160G\|ἐποίησεν]]  [[G3778\|αὕτη]]  [[G1519\|εἰς]]  [[G3422\|μνημόσυνον]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.12|<< Matthew 26:12]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.14|Matthew 26:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

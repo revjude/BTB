@@ -1,8 +1,63 @@
+---
+title: Jeremiah 50:42
+type: Verse
+kjv: "They shall hold the bow and the lance: they are cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, every one put in array, like a man to the battle, against thee, O daughter of Babylon."
+bsb: "They grasp the bow and spear; they are cruel and merciless. Their voice roars like the sea, and they ride upon horses, lined up like men in formation against you, O Daughter of Babylon."
+hebrew: "קֶ֣שֶׁת וְכִידֹ֞ן יַחֲזִ֗יקוּ אַכְזָרִ֥י הֵ֙מָּה֙ וְלֹ֣א יְרַחֵ֔מוּ קוֹלָם֙ כַּיָּ֣ם יֶהֱמֶ֔ה וְעַל־ סוּסִ֖ים יִרְכָּ֑בוּ עָר֗וּךְ כְּאִישׁ֙ לַמִּלְחָמָ֔ה עָלַ֖יִךְ בַּת־ בָּבֶֽל׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H7198]]"
+- "[[H9002]]"
+- "[[H3591]]"
+- "[[H2388H]]"
+- "[[H0394]]"
+- "[[H1992]]"
+- "[[H3808]]"
+- "[[H7355]]"
+- "[[H6963H]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H3220G]]"
+- "[[H1993]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5483M]]"
+- "[[H7392]]"
+- "[[H6186A]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9032]]"
+- "[[H1323G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:42**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall hold the bow and the lance: they [are] cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, [every one] put in array, like a man to the battle, against thee, O daughter of Babylon.
 <small><sub>**BSB:**</sub></small>
 They grasp the bow and spear; they are cruel and merciless. Their voice roars like the sea, and they ride upon horses, lined up like men in formation against you, O Daughter of Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H7198\|קֶ֣שֶׁת]] [[H9002\|וְ]][[H3591\|כִידֹ֞ן]] [[H2388H\|יַחֲזִ֗יקוּ]] [[H0394\|אַכְזָרִ֥י]] [[H1992\|הֵ֙מָּה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7355\|יְרַחֵ֔מוּ]] [[H6963H\|קוֹלָ]][[H9028\|ם֙]] [[H9004\|כַּ]][[H3220G\|יָּ֣ם]] [[H1993\|יֶהֱמֶ֔ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5483M\|סוּסִ֖ים]] [[H7392\|יִרְכָּ֑בוּ]] [[H6186A\|עָר֗וּךְ]] [[H9004\|כְּ]][[H0376G\|אִישׁ֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H1323G\|בַּת]][[H9014\|־]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.41|<< Jeremiah 50:41]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.43|Jeremiah 50:43 >>]]</td></tr></table>
 

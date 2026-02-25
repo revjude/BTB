@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Prayer
+type: Pericope
 pericope: "[[Isa.37.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 37
 book/chapter: "[[Isa.37|Isaiah 37]]"
-genre:
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.37.14]]"
 - "[[Isa.37.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.37.20]]"
 ---
 
-[[Isa.37|Isaiah 37:14 - Isaiah 37:20]]
+<small>[[Isa.37|Isaiah 37:14-20]]</small>
 *Hezekiah’s Prayer*
 
 [[Isa.37.14|14]] And Hezekiah received the letter from the hand of the messengers, and read it: and Hezekiah went up unto the house of the LORD, and spread it before the LORD.

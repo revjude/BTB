@@ -1,10 +1,57 @@
+---
+title: John 8:3
+type: Verse
+kjv: "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,"
+bsb: "The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them"
+greek: "ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι πρὸς αὐτὸν γυναῖκα ἐν μοιχείᾳ κατειλημμένην καὶ στήσαντες αὐτὴν ἐν μέσῳ"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0071]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1135G]]"
+- "[[G1722]]"
+- "[[G3430]]"
+- "[[G2638]]"
+- "[[G2476]]"
+- "[[G3319]]"
+texts:
+- KO
+- K
+- K(o)
+---
+
 **John 8:3**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
 <small><sub>**BSB:**</sub></small>
 The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them
-<small><sub>**Literal:**</sub></small>
-Bring now the scribes and the Pharisees to him a woman in adultery having been grasped and having set her in [the] midst<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.2|<< John 8:2]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.4|John 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0071\|ἄγουσιν]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G1135G\|γυναῖκα]]  [[G1722\|ἐν]]  [[G3430\|μοιχείᾳ]]  [[G2638\|κατειλημμένην]]  [[G2532\|καὶ]]  [[G2476\|στήσαντες]]  [[G0846\|αὐτὴν]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SCRIBE (S)|SCRIBE (S)]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.2|<< John 8:2]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.4|John 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

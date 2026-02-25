@@ -1,10 +1,61 @@
+---
+title: Matthew 11:11
+type: Verse
+kjv: "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he."
+bsb: "Truly I tell you, among those born of women there has risen no one greater than John the Baptist. Yet even the least in the kingdom of heaven is greater than he."
+jesus_said: "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he."
+greek: "Ἀμὴν λέγω ὑμῖν· οὐκ ἐγήγερται ἐν γεννητοῖς γυναικῶν μείζων Ἰωάννου τοῦ βαπτιστοῦ· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τῶν οὐρανῶν μείζων αὐτοῦ ἐστιν."
+pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1453]]"
+- "[[G1722]]"
+- "[[G1084]]"
+- "[[G1135G]]"
+- "[[G3173]]"
+- "[[G2491G]]"
+- "[[G3588]]"
+- "[[G0910]]"
+- "[[G1161]]"
+- "[[G3398]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G0846]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 11:11**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, among those born of women there has risen no one greater than John the Baptist. Yet even the least in the kingdom of heaven is greater than he.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; not has been raised among [those] born of women one greater than John the Baptist; <the> Yet the least in the kingdom of the heavens greater than he is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.10|<< Matthew 11:10]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.12|Matthew 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐκ]]  [[G1453\|ἐγήγερται]]  [[G1722\|ἐν]]  [[G1084\|γεννητοῖς]]  [[G1135G\|γυναικῶν]]  [[G3173\|μείζων]]  [[G2491G\|Ἰωάννου]]  [[G3588\|τοῦ]]  [[G0910\|βαπτιστοῦ·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3398\|μικρότερος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G3173\|μείζων]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.10|<< Matthew 11:10]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.12|Matthew 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

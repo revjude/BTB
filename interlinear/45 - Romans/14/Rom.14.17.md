@@ -1,10 +1,67 @@
+---
+title: Romans 14:17
+type: Verse
+kjv: "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost."
+bsb: "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace, and joy in the Holy Spirit."
+greek: "οὐ γάρ ἐστιν ἡ βασιλεία τοῦ θεοῦ βρῶσις καὶ πόσις ἀλλὰ δικαιοσύνη καὶ εἰρήνη καὶ χαρὰ ἐν πνεύματι ἁγίῳ·"
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOY|JOY]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1035]]"
+- "[[G2532]]"
+- "[[G4213]]"
+- "[[G0235]]"
+- "[[G1343]]"
+- "[[G1515]]"
+- "[[G5479]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Romans 14:17**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace, and joy in the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-Not for is the kingdom <the> of God eating and drinking but righteousness and peace and joy in [the] Spirit Holy;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.16|<< Romans 14:16]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.18|Romans 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1035\|βρῶσις]]  [[G2532\|καὶ]]  [[G4213\|πόσις]]  [[G0235\|ἀλλὰ]]  [[G1343\|δικαιοσύνη]]  [[G2532\|καὶ]]  [[G1515\|εἰρήνη]]  [[G2532\|καὶ]]  [[G5479\|χαρὰ]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOY|JOY]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SPIRITUALITY|SPIRITUALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.16|<< Romans 14:16]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.18|Romans 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Apostles before the Sanhedrin
+type: Pericope
 pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 5
 book/chapter: "[[Acts.5|Acts 5]]"
-genre:
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.5.24]]"
 - "[[Acts.5.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.5.32]]"
 ---
 
-[[Acts.5|Acts 5:24 - Acts 5:32]]
+<small>[[Acts.5|Acts 5:24-32]]</small>
 *The Apostles before the Sanhedrin*
 
 [[Acts.5.24|24]] Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.

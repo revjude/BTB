@@ -1,8 +1,77 @@
+---
+title: Numbers 31:30
+type: Verse
+kjv: "And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD."
+bsb: "From the Israelites’ half, take one out of every fifty, whether persons, cattle, donkeys, sheep, or other animals, and give them to the Levites who keep charge of the tabernacle of the LORD.”"
+hebrew: "וּמִמַּחֲצִ֨ת בְּנֵֽי־ יִשְׂרָאֵ֜ל תִּקַּ֣ח׀ אֶחָ֣ד׀ אָחֻ֣ז מִן־ הַחֲמִשִּׁ֗ים מִן־ הָאָדָ֧ם מִן־ הַבָּקָ֛ר מִן־ הַחֲמֹרִ֥ים וּמִן־ הַצֹּ֖אן מִכָּל־ הַבְּהֵמָ֑ה וְנָתַתָּ֤ה אֹתָם֙ לַלְוִיִּ֔ם שֹׁמְרֵ֕י מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן יְהוָֽה׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4276]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H9015]]"
+- "[[H0259]]"
+- "[[H0270]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2572]]"
+- "[[H0120G]]"
+- "[[H1241]]"
+- "[[H2543]]"
+- "[[H6629G]]"
+- "[[H3605]]"
+- "[[H0929]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H4908]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:30**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD.
 <small><sub>**BSB:**</sub></small>
 From the Israelites’ half, take one out of every fifty, whether persons, cattle, donkeys, sheep, or other animals, and give them to the Levites who keep charge of the tabernacle of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H4276\|מַּחֲצִ֨ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H3947G\|תִּקַּ֣ח]][[H9015\|׀]] [[H0259\|אֶחָ֣ד]][[H9015\|׀]] [[H0270\|אָחֻ֣ז]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2572\|חֲמִשִּׁ֗ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֧ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֛ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹרִ֥ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֑ה]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֤ה]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9005\|לַ]][[H3881\|לְוִיִּ֔ם]] [[H8104H\|שֹׁמְרֵ֕י]] [[H4931\|מִשְׁמֶ֖רֶת]] [[H4908\|מִשְׁכַּ֥ן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic LEVITES|LEVITES]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.29|<< Numbers 31:29]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.31|Numbers 31:31 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Acts 9:21
+type: Verse
+kjv: "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?"
+bsb: "All who heard him were astounded and asked, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?”"
+greek: "ἐξίσταντο δὲ πάντες οἱ ἀκούοντες καὶ ἔλεγον· οὐχ οὗτός ἐστιν ὁ πορθήσας εἰς Ἰερουσαλὴμ τοὺς ἐπικαλουμένους τὸ ὄνομα τοῦτο; καὶ ὧδε εἰς τοῦτο ἐληλύθει ἵνα δεδεμένους αὐτοὺς ἀγάγῃ ἐπὶ τοὺς ἀρχιερεῖς.¶"
+pericope: "[[Acts.9.20 Saul Preaches at Damascus|Saul Preaches at Damascus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1839]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4199]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G1941]]"
+- "[[G3686]]"
+- "[[G5602]]"
+- "[[G2064]]"
+- "[[G2443]]"
+- "[[G1210]]"
+- "[[G0846]]"
+- "[[G0071]]"
+- "[[G1909]]"
+- "[[G0749]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 9:21**<big><big>[[Acts.9.20 Saul Preaches at Damascus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But all that heard [him] were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?
 <small><sub>**BSB:**</sub></small>
 All who heard him were astounded and asked, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?”
-<small><sub>**Literal:**</sub></small>
-Were amazed then all those hearing and were saying; Surely this is the [one] having caused havoc in Jerusalem those calling on <the> name this? And here for this he had come that bound them he may bring to the chief priests.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.20|<< Acts 9:20]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.22|Acts 9:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1839\|ἐξίσταντο]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0191\|ἀκούοντες]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G3756\|οὐχ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G4199\|πορθήσας]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3588\|τοὺς]]  [[G1941\|ἐπικαλουμένους]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3778\|τοῦτο;]]  [[G2532\|καὶ]]  [[G5602\|ὧδε]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G2064\|ἐληλύθει]]  [[G2443\|ἵνα]]  [[G1210\|δεδεμένους]]  [[G0846\|αὐτοὺς]]  [[G0071\|ἀγάγῃ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0749\|ἀρχιερεῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic SYRIA|SYRIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.20|<< Acts 9:20]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.22|Acts 9:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

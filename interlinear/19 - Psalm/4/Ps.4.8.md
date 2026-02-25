@@ -1,8 +1,60 @@
+---
+title: Psalm 4:8
+type: Verse
+kjv: "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety."
+bsb: "I will lie down and sleep in peace, for You alone, O LORD, make me dwell in safety."
+hebrew: "בְּשָׁל֣וֹם יַחְדָּו֮ אֶשְׁכְּבָ֪ה וְאִ֫ישָׁ֥ן כִּֽי־ אַתָּ֣ה יְהוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תּוֹשִׁיבֵֽנִי׃"
+pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 4
+book/chapter: "[[Ps.4|Psalm 4]]"
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H3162B]]"
+- "[[H7901G]]"
+- "[[H9002]]"
+- "[[H3462]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0910]]"
+- "[[H0983]]"
+- "[[H3427]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 4:8**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.
 <small><sub>**BSB:**</sub></small>
 I will lie down and sleep in peace, for You alone, O LORD, make me dwell in safety.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7965G\|שָׁל֣וֹם]] [[H3162B\|יַחְדָּו֮]] [[H7901G\|אֶשְׁכְּבָ֪ה]] [[H9002\|וְ]][[H3462\|אִ֫ישָׁ֥ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לְ]][[H0910\|בָדָ֑ד]] [[H9005\|לָ֝]][[H0983\|בֶ֗טַח]] [[H3427\|תּוֹשִׁיבֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.7|<< Psalms 4:7]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.0|Psalms 5:0 >>]]</td></tr></table>
 

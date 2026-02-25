@@ -1,6 +1,58 @@
+---
+title: LXX Numbers 2:31
+type: Verse
+lxx: "All the ones being numbered of the camp of Dan -- a hundred and fifty-seven thousand and six hundred; they shall lift away last according to their order."
+greek: "πάντες οι επεσκεμμένοι της παρεμβολής Δαν εκατόν και πεντηκονταεπτά χιλιάδες και εξακόσιοι έσχατοι εξαρούσι κατά τάγμα αυτών"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAN|DAN]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1980]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[H1835]]"
+- "[[G1540]]"
+- "[[G2532]]"
+- "[[G8702]]"
+- "[[G5505]]"
+- "[[G2532]]"
+- "[[G1812]]"
+- "[[G2078]]"
+- "[[G1808]]"
+- "[[G2596]]"
+- "[[G5001]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 2:31** 
 <small><sub>**LXX:**</sub></small>
 All the ones being numbered of the camp of Dan -- a hundred and fifty-seven thousand and six hundred; they shall lift away last according to their order. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]] [[G3588\|οι]] [[G1980\|επεσκεμμένοι]] [[G3588\|της]] [[G3925\|παρεμβολής]] [[H1835\|Δαν]] [[G1540\|εκατόν]] [[G2532\|και]] [[G8702\|πεντηκονταεπτά]] [[G5505\|χιλιάδες]] [[G2532\|και]] [[G1812\|εξακόσιοι]] [[G2078\|έσχατοι]] [[G1808\|εξαρούσι]] [[G2596\|κατά]] [[G5001\|τάγμα]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAN|DAN]] • [[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
@@ -22,6 +74,6 @@ All the ones being numbered of the camp of Dan -- a hundred and fifty-seven thou
 | they shall lift away | **<big>[[G1808\|εξαρούσι]]</big>** |
 | according to | **<big>[[G2596\|κατά]]</big>** |
 | their order. | **<big>[[G5001\|τάγμα]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Num.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
 

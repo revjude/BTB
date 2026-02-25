@@ -1,10 +1,64 @@
+---
+title: 1 John 3:9
+type: Verse
+kjv: "Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God."
+bsb: "Anyone born of God refuses to practice sin, because God’s seed abides in him; he cannot go on sinning, because he has been born of God."
+greek: "πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ ἁμαρτίαν οὐ ποιεῖ, ὅτι σπέρμα αὐτοῦ ἐν αὐτῷ μένει· καὶ οὐ δύναται ἁμαρτάνειν, ὅτι ἐκ τοῦ θεοῦ γεγέννηται."
+pericope: "[[1John.3.1 Children of God|Children of God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1080]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G0266]]"
+- "[[G3756]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G4690H]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3306]]"
+- "[[G2532]]"
+- "[[G1410]]"
+- "[[G0264]]"
+texts:
+- NKO
+---
+
 **1 John 3:9**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
 <small><sub>**BSB:**</sub></small>
 Anyone born of God refuses to practice sin, because God’s seed abides in him; he cannot go on sinning, because he has been born of God.
-<small><sub>**Literal:**</sub></small>
-Anyone who born of <the> God sin not practices, because seed of Him in him abides; and not he is able to continue sinning, because of <the> God he has been born.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.8|<< 1 John 3:8]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.10|1 John 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G1080\|γεγεννημένος]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0266\|ἁμαρτίαν]]  [[G3756\|οὐ]]  [[G4160G\|ποιεῖ,]]  [[G3754H\|ὅτι]]  [[G4690H\|σπέρμα]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3306\|μένει·]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G0264\|ἁμαρτάνειν,]]  [[G3754H\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1080\|γεγέννηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic PERFECTION|PERFECTION]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic SINLESSNESS|SINLESSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.8|<< 1 John 3:8]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.10|1 John 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

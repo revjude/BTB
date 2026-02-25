@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 24:18
+type: Verse
+kjv: "And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite."
+bsb: "And that day Gad came to David and said to him, “Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.”"
+hebrew: "וַיָּבֹא־ גָ֥ד אֶל־ דָּוִ֖ד בַּיּ֣וֹם הַה֑וּא וַיֹּ֣אמֶר ל֗וֹ עֲלֵה֙ הָקֵ֤ם לַֽיהוָה֙ מִזְבֵּ֔חַ בְּגֹ֖רֶן אֲרַ֥וְנָה הַיְבֻסִֽי׃"
+pericope: "[[2Sam.24.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H1410H]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H6965H]]"
+- "[[H3068G]]"
+- "[[H4196]]"
+- "[[H1637]]"
+- "[[H0728]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 24:18**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.
 <small><sub>**BSB:**</sub></small>
 And that day Gad came to David and said to him, “Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא]][[H9014\|־]] [[H1410H\|גָ֥ד]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H5927G\|עֲלֵה֙]] [[H6965H\|הָקֵ֤ם]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H4196\|מִזְבֵּ֔חַ]] [[H9003\|בְּ]][[H1637\|גֹ֖רֶן]] [[H0728\|אֲרַ֥וְנָה]] [[H9009\|הַ]][[H2983G\|יְבֻסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARAUNAH|ARAUNAH]] • [[topic GAD|GAD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ORNAN|ORNAN]] • [[topic PLAGUE|PLAGUE]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.17|<< 2 Samuel 24:17]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.19|2 Samuel 24:19 >>]]</td></tr></table>
 

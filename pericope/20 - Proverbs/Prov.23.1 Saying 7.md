@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 7
+type: Pericope
 pericope: "[[Prov.23.1 Saying 7|Saying 7]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 23
 book/chapter: "[[Prov.23|Proverbs 23]]"
-genre:
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 3
 verses:
 - "[[Prov.23.1]]"
 - "[[Prov.23.2]]"
 - "[[Prov.23.3]]"
 ---
 
-[[Prov.23|Proverbs 23:1 - Proverbs 23:3]]
+<small>[[Prov.23|Proverbs 23:1-3]]</small>
 *Saying 7*
 
 [[Prov.23.1|1]] When thou sittest to eat with a ruler, consider diligently what \[is\] before thee:

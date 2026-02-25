@@ -1,8 +1,67 @@
+---
+title: Exodus 30:6
+type: Verse
+kjv: "And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee."
+bsb: "Place the altar in front of the veil that is before the ark of the Testimony—before the mercy seat that is over the Testimony—where I will meet with you."
+hebrew: "וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־ הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H6532]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H3727]]"
+- "[[H3259]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:6**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put it before the vail that [is] by the ark of the testimony, before the mercy seat that [is] over the testimony, where I will meet with thee.
 <small><sub>**BSB:**</sub></small>
 Place the altar in front of the veil that is before the ark of the Testimony—before the mercy seat that is over the Testimony—where I will meet with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֤ה]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H6532\|פָּרֹ֔כֶת]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H0727\|אֲרֹ֣ן]] [[H9009\|הָ]][[H5715\|עֵדֻ֑ת]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H3727\|כַּפֹּ֗רֶת]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H5715\|עֵדֻ֔ת]] [[H0834A\|אֲשֶׁ֛ר]] [[H3259\|אִוָּעֵ֥ד]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARK|ARK]] • [[topic INCENSE|INCENSE]] • [[topic MERCY-SEAT|MERCY-SEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.5|<< Exodus 30:5]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.7|Exodus 30:7 >>]]</td></tr></table>
 

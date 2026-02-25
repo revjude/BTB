@@ -1,8 +1,68 @@
+---
+title: Isaiah 47:8
+type: Verse
+kjv: "Therefore hear now this, thou that art given to pleasures, that dwellest carelessly, that sayest in thine heart, I am, and none else beside me; I shall not sit as a widow, neither shall I know the loss of children:"
+bsb: "So now hear this, O lover of luxury who sits securely, who says to herself, ‘I am, and there is none besides me. I will never be a widow or know the loss of children.’"
+hebrew: "וְעַתָּ֞ה שִׁמְעִי־ זֹ֤את עֲדִינָה֙ הַיּוֹשֶׁ֣בֶת לָבֶ֔טַח הָאֹֽמְרָה֙ בִּלְבָ֔בָהּ אֲנִ֖י וְאַפְסִ֣י ע֑וֹד לֹ֤א אֵשֵׁב֙ אַלְמָנָ֔ה וְלֹ֥א אֵדַ֖ע שְׁכֽוֹל׃"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H5719]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9024]]"
+- "[[H0589]]"
+- "[[H0657A]]"
+- "[[H9040]]"
+- "[[H5750]]"
+- "[[H3808]]"
+- "[[H0490]]"
+- "[[H3045]]"
+- "[[H7908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 47:8**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hear now this, [thou that art] given to pleasures, that dwellest carelessly, that sayest in thine heart, I [am], and none else beside me; I shall not sit [as] a widow, neither shall I know the loss of children:
 <small><sub>**BSB:**</sub></small>
 So now hear this, O lover of luxury who sits securely, who says to herself, ‘I am, and there is none besides me. I will never be a widow or know the loss of children.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H8085G\|שִׁמְעִי]][[H9014\|־]] [[H2063\|זֹ֤את]] [[H5719\|עֲדִינָה֙]] [[H9009\|הַ]][[H3427\|יּוֹשֶׁ֣בֶת]] [[H9005\|לָ]][[H0983\|בֶ֔טַח]] [[H9009\|הָ]][[H0559\|אֹֽמְרָה֙]] [[H9003\|בִּ]][[H3824\|לְבָ֔בָ]][[H9024\|הּ]] [[H0589\|אֲנִ֖י]] [[H9002\|וְ]][[H0657A\|אַפְסִ֣]][[H9040\|י]] [[H5750\|ע֑וֹד]] [[H3808\|לֹ֤א]] [[H3427\|אֵשֵׁב֙]] [[H0490\|אַלְמָנָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|אֵדַ֖ע]] [[H7908\|שְׁכֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic PLEASURE|PLEASURE]] • [[topic PRIDE|PRIDE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.7|<< Isaiah 47:7]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.9|Isaiah 47:9 >>]]</td></tr></table>
 

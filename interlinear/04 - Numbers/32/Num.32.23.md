@@ -1,8 +1,69 @@
+---
+title: Numbers 32:23
+type: Verse
+kjv: "But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out."
+bsb: "But if you do not do this, you will certainly sin against the LORD—and be assured that your sin will find you out."
+hebrew: "וְאִם־ לֹ֤א תַעֲשׂוּן֙ כֵּ֔ן הִנֵּ֥ה חֲטָאתֶ֖ם לַיהוָ֑ה וּדְעוּ֙ חַטַּאתְכֶ֔ם אֲשֶׁ֥ר תִּמְצָ֖א אֶתְכֶֽם׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3045]]"
+- "[[H2403B]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:23**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out.
 <small><sub>**BSB:**</sub></small>
 But if you do not do this, you will certainly sin against the LORD—and be assured that your sin will find you out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H6213A\|תַעֲשׂוּ]][[H9013\|ן֙]] [[H3651C\|כֵּ֔ן]] [[H2009\|הִנֵּ֥ה]] [[H2398\|חֲטָאתֶ֖ם]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וּ]][[H3045\|דְעוּ֙]] [[H2403B\|חַטַּאתְ]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H4672\|תִּמְצָ֖א]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic SIN|SIN]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.22|<< Numbers 32:22]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.24|Numbers 32:24 >>]]</td></tr></table>
 

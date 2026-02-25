@@ -1,10 +1,63 @@
+---
+title: Luke 22:34
+type: Verse
+kjv: "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me."
+bsb: "But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.”"
+jesus_said: "I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me."
+greek: "ὁ δὲ εἶπεν· λέγω σοι, Πέτρε, οὐ μή φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ μή εἰδέναι.¶"
+pericope: "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G4074G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G5455]]"
+- "[[G4594]]"
+- "[[G0220]]"
+- "[[G2193]]"
+- "[[G5151]]"
+- "[[G3165]]"
+- "[[G0533]]"
+- "[[G6063]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 22:34**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.”
-<small><sub>**Literal:**</sub></small>
-<the> And He said; I tell you Peter, certainly not will crow today [the] rooster until three times Me you may deny not to know<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.33|<< Luke 22:33]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.35|Luke 22:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3004G\|λέγω]]  [[G4771\|σοι,]]  [[G4074G\|Πέτρε,]]  [[G3756\|οὐ]]  [[G3361\|μή]]  [[G5455\|φωνήσει]]  [[G4594\|σήμερον]]  [[G0220\|ἀλέκτωρ]]  [[G2193\|ἕως]]  [[G5151\|τρίς]]  [[G3165\|με]]  [[G0533\|ἀπαρνήσῃ]]  [[G3361\|μή]]  [[G6063\|εἰδέναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.33|<< Luke 22:33]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.35|Luke 22:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

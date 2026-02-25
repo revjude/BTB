@@ -1,8 +1,55 @@
+---
+title: Ezekiel 44:20
+type: Verse
+kjv: "Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads."
+bsb: "They must not shave their heads or let their hair grow long, but must carefully trim their hair."
+hebrew: "וְרֹאשָׁם֙ לֹ֣א יְגַלֵּ֔חוּ וּפֶ֖רַע לֹ֣א יְשַׁלֵּ֑חוּ כָּס֥וֹם יִכְסְמ֖וּ אֶת־ רָאשֵׁיהֶֽם׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHAVING|SHAVING]]"
+strongs:
+- "[[H9002]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H1548]]"
+- "[[H6545]]"
+- "[[H7971G]]"
+- "[[H3697]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:20**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads.
 <small><sub>**BSB:**</sub></small>
 They must not shave their heads or let their hair grow long, but must carefully trim their hair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7218A\|רֹאשָׁ]][[H9028\|ם֙]] [[H3808\|לֹ֣א]] [[H1548\|יְגַלֵּ֔חוּ]] [[H9002\|וּ]][[H6545\|פֶ֖רַע]] [[H3808\|לֹ֣א]] [[H7971G\|יְשַׁלֵּ֑חוּ]] [[H3697\|כָּס֥וֹם]] [[H3697\|יִכְסְמ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רָאשֵׁי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SHAVING|SHAVING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.19|<< Ezekiel 44:19]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.21|Ezekiel 44:21 >>]]</td></tr></table>
 

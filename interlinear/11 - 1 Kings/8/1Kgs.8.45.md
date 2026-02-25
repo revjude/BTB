@@ -1,8 +1,60 @@
+---
+title: 1 Kings 8:45
+type: Verse
+kjv: "Then hear thou in heaven their prayer and their supplication, and maintain their cause."
+bsb: "then may You hear from heaven their prayer and their plea, and may You uphold their cause."
+hebrew: "וְשָׁמַעְתָּ֙ הַשָּׁמַ֔יִם אֶת־ תְּפִלָּתָ֖ם וְאֶת־ תְּחִנָּתָ֑ם וְעָשִׂ֖יתָ מִשְׁפָּטָֽם׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8467]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:45**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then hear thou in heaven their prayer and their supplication, and maintain their cause.
 <small><sub>**BSB:**</sub></small>
 then may You hear from heaven their prayer and their plea, and may You uphold their cause.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁמַעְתָּ֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H8605\|תְּפִלָּתָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8467\|תְּחִנָּתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H6213A\|עָשִׂ֖יתָ]] [[H4941H\|מִשְׁפָּטָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.44|<< 1 Kings 8:44]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.46|1 Kings 8:46 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 14:11
+type: Verse
+kjv: "And both of them discovered themselves unto the garrison of the Philistines: and the Philistines said, Behold, the Hebrews come forth out of the holes where they had hid themselves."
+bsb: "So the two of them showed themselves to the outpost of the Philistines, who exclaimed, “Look, the Hebrews are coming out of the holes in which they were hiding!”"
+hebrew: "וַיִּגָּל֣וּ שְׁנֵיהֶ֔ם אֶל־ מַצַּ֖ב פְּלִשְׁתִּ֑ים וַיֹּאמְר֣וּ פְלִשְׁתִּ֔ים הִנֵּ֤ה עִבְרִים֙ יֹֽצְאִ֔ים מִן־ הַחֹרִ֖ים אֲשֶׁ֥ר הִתְחַבְּאוּ־ שָֽׁם׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1540H]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4673]]"
+- "[[H6430G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H5680]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2356]]"
+- "[[H0834A]]"
+- "[[H2244]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:11**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And both of them discovered themselves unto the garrison of the Philistines: and the Philistines said, Behold, the Hebrews come forth out of the holes where they had hid themselves.
 <small><sub>**BSB:**</sub></small>
 So the two of them showed themselves to the outpost of the Philistines, who exclaimed, “Look, the Hebrews are coming out of the holes in which they were hiding!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1540H\|יִּגָּל֣וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4673\|מַצַּ֖ב]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H2009\|הִנֵּ֤ה]] [[H5680\|עִבְרִים֙]] [[H3318G\|יֹֽצְאִ֔ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2356\|חֹרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H2244\|הִתְחַבְּאוּ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JONATHAN|JONATHAN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.10|<< 1 Samuel 14:10]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.12|1 Samuel 14:12 >>]]</td></tr></table>
 

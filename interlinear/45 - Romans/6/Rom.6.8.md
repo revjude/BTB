@@ -1,10 +1,53 @@
+---
+title: Romans 6:8
+type: Verse
+kjv: "Now if we be dead with Christ, we believe that we shall also live with him:"
+bsb: "Now if we died with Christ, we believe that we will also live with Him."
+greek: "εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ,"
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G0599]]"
+- "[[G4862]]"
+- "[[G5547]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G4800]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Romans 6:8**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now if we be dead with Christ, we believe that we shall also live with him:
 <small><sub>**BSB:**</sub></small>
 Now if we died with Christ, we believe that we will also live with Him.
-<small><sub>**Literal:**</sub></small>
-If now we died with Christ, we believe that also we will live with Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.7|<< Romans 6:7]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.9|Romans 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G0599\|ἀπεθάνομεν]]  [[G4862\|σὺν]]  [[G5547\|Χριστῷ,]]  [[G4100\|πιστεύομεν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G4800\|συζήσομεν]]  [[G0846\|αὐτῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOLINESS|HOLINESS]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.7|<< Romans 6:7]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.9|Romans 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

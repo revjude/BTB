@@ -1,8 +1,64 @@
+---
+title: Ezra 9:4
+type: Verse
+kjv: "Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice."
+bsb: "Then everyone who trembled at the words of the God of Israel gathered around me because of the unfaithfulness of the exiles, while I sat there in horror until the evening offering."
+hebrew: "וְאֵלַ֣י יֵאָסְפ֗וּ כֹּ֤ל חָרֵד֙ בְּדִבְרֵ֣י אֱלֹהֵֽי־ יִשְׂרָאֵ֔ל עַ֖ל מַ֣עַל הַגּוֹלָ֑ה וַאֲנִי֙ יֹשֵׁ֣ב מְשׁוֹמֵ֔ם עַ֖ד לְמִנְחַ֥ת הָעָֽרֶב׃"
+pericope: "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H2730]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H4604]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H0589]]"
+- "[[H3427]]"
+- "[[H8074H]]"
+- "[[H5704]]"
+- "[[H9005]]"
+- "[[H4503G]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:4**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
 <small><sub>**BSB:**</sub></small>
 Then everyone who trembled at the words of the God of Israel gathered around me because of the unfaithfulness of the exiles, while I sat there in horror until the evening offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֵלַ֣]][[H9030\|י]] [[H0622\|יֵאָסְפ֗וּ]] [[H3605\|כֹּ֤ל]] [[H2730\|חָרֵד֙]] [[H9003\|בְּ]][[H1697G\|דִבְרֵ֣י]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5921A\|עַ֖ל]] [[H4604\|מַ֣עַל]] [[H9009\|הַ]][[H1473\|גּוֹלָ֑ה]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H3427\|יֹשֵׁ֣ב]] [[H8074H\|מְשׁוֹמֵ֔ם]] [[H5704\|עַ֖ד]] [[H9005\|לְ]][[H4503G\|מִנְחַ֥ת]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.3|<< Ezra 9:3]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.5|Ezra 9:5 >>]]</td></tr></table>
 

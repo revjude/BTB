@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 11:17
+type: Verse
+kjv: "And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that is at the gate!"
+bsb: "David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”"
+hebrew: "וַיִּתְאָ֥יו דָּוִ֖יד וַיֹּאמַ֑ר מִ֚י יַשְׁקֵ֣נִי מַ֔יִם מִבּ֥וֹר בֵּֽית־ לֶ֖חֶם אֲשֶׁ֥ר בַּשָּֽׁעַר׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0183]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H8248H]]"
+- "[[H9030]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H0953A]]"
+- "[[H1035G]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **1 Chronicles 11:17**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that [is] at the gate!
 <small><sub>**BSB:**</sub></small>
 David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0183\|יִּתְאָ֥יו]] [[H1732\|דָּוִ֖יד]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H4310\|מִ֚י]] [[H8248H\|יַשְׁקֵ֣]][[H9030\|נִי]] [[H4325G\|מַ֔יִם]] [[H9006\|מִ]][[H0953A\|בּ֥וֹר]] [[H1035G\|בֵּֽית]][[H9014\|־]] [[H1035G\|לֶ֖חֶם]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בַּ]][[H8179G\|שָּֽׁעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.16|<< 1 Chronicles 11:16]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.18|1 Chronicles 11:18 >>]]</td></tr></table>
 

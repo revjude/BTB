@@ -1,8 +1,67 @@
+---
+title: Jeremiah 25:1
+type: Verse
+kjv: "The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon;"
+bsb: "This is the word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon."
+hebrew: "הַדָּבָ֞ר אֲשֶׁר־ הָיָ֤ה עַֽל־ יִרְמְיָ֙הוּ֙ עַל־ כָּל־ עַ֣ם יְהוּדָ֔ה בַּשָּׁנָה֙ הָֽרְבִעִ֔ית לִיהוֹיָקִ֥ים בֶּן־ יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה הִ֗יא הַשָּׁנָה֙ הָרִ֣אשֹׁנִ֔ית לִנְבֽוּכַדְרֶאצַּ֖ר מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H3414L]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7243]]"
+- "[[H9005]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H1931]]"
+- "[[H7224]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:1**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that [was] the first year of Nebuchadrezzar king of Babylon;
 <small><sub>**BSB:**</sub></small>
 This is the word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֞ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֤ה]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H3063G\|יְהוּדָ֔ה]] [[H9003\|בַּ]][[H8141\|שָּׁנָה֙]] [[H9009\|הָֽ]][[H7243\|רְבִעִ֔ית]] [[H9005\|לִ]][[H3079\|יהוֹיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H1931\|הִ֗יא]] [[H9009\|הַ]][[H8141\|שָּׁנָה֙]] [[H9009\|הָ]][[H7224\|רִ֣אשֹׁנִ֔ית]] [[H9005\|לִ]][[H5019\|נְבֽוּכַדְרֶאצַּ֖ר]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.10|<< Jeremiah 24:10]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.2|Jeremiah 25:2 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Exodus 12:9
+type: Verse
+kjv: "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof."
+bsb: "Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire—its head and legs and inner parts."
+hebrew: "אַל־ תֹּאכְל֤וּ מִמֶּ֙נּוּ֙ נָ֔א וּבָשֵׁ֥ל מְבֻשָּׁ֖ל בַּמָּ֑יִם כִּ֣י אִם־ צְלִי־ אֵ֔שׁ רֹאשׁ֥וֹ עַל־ כְּרָעָ֖יו וְעַל־ קִרְבּֽוֹ׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4995]]"
+- "[[H9002]]"
+- "[[H1311]]"
+- "[[H1310]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H6748]]"
+- "[[H0784]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3767]]"
+- "[[H7130H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:9**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eat not of it raw, nor sodden at all with water, but roast [with] fire; his head with his legs, and with the purtenance thereof.
 <small><sub>**BSB:**</sub></small>
 Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire—its head and legs and inner parts.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0398\|תֹּאכְל֤וּ]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H4995\|נָ֔א]] [[H9002\|וּ]][[H1311\|בָשֵׁ֥ל]] [[H1310\|מְבֻשָּׁ֖ל]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H6748\|צְלִי]][[H9014\|־]] [[H0784\|אֵ֔שׁ]] [[H7218A\|רֹאשׁ֥]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3767\|כְּרָעָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7130H\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.8|<< Exodus 12:8]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.10|Exodus 12:10 >>]]</td></tr></table>
 

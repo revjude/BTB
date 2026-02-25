@@ -1,8 +1,54 @@
+---
+title: Psalm 14:6
+type: Verse
+kjv: "Ye have shamed the counsel of the poor, because the LORD is his refuge."
+bsb: "You sinners frustrate the plans of the oppressed, yet the LORD is their shelter."
+hebrew: "עֲצַת־ עָנִ֥י תָבִ֑ישׁוּ כִּ֖י יְהוָ֣ה מַחְסֵֽהוּ׃"
+pericope: "[[Ps.14.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 14
+book/chapter: "[[Ps.14|Psalm 14]]"
+chronological_order: 348
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H6098]]"
+- "[[H9014]]"
+- "[[H6041]]"
+- "[[H0954]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H4268]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 14:6**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have shamed the counsel of the poor, because the LORD [is] his refuge.
 <small><sub>**BSB:**</sub></small>
 You sinners frustrate the plans of the oppressed, yet the LORD is their shelter.
+<small><sub>**Hebrew:**</sub></small>
+[[H6098\|עֲצַת]][[H9014\|־]] [[H6041\|עָנִ֥י]] [[H0954\|תָבִ֑ישׁוּ]] [[H3588A\|כִּ֖י]] [[H3068G\|יְהוָ֣ה]] [[H4268\|מַחְסֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14.5|<< Psalms 14:5]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.7|Psalms 14:7 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To You I Lift Up My Soul
+type: Pericope
 pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 25
 book/chapter: "[[Ps.25|Psalm 25]]"
-genre:
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 23
 verses:
 - "[[Ps.25.0]]"
 - "[[Ps.25.1]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ps.25.22]]"
 ---
 
-[[Ps.25|Psalm 25:1 - Psalm 25:22]]
+<small>[[Ps.25|Psalm 25:1-22]]</small>
 *To You I Lift Up My Soul*
 
 [[Ps.25.0|0]] \[A Psalm\] of David.

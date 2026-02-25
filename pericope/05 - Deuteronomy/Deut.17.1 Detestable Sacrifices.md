@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Detestable Sacrifices
+type: Pericope
 pericope: "[[Deut.17.1 Detestable Sacrifices|Detestable Sacrifices]]"
-verse_count: 1
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 17
 book/chapter: "[[Deut.17|Deuteronomy 17]]"
-genre:
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,11 +26,12 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 1
 verses:
 - "[[Deut.17.1]]"
 ---
 
-[[Deut.17|Deuteronomy 17:1 - Deuteronomy 17:1]]
+<small>[[Deut.17|Deuteronomy 17:1-1]]</small>
 *Detestable Sacrifices*
 
 [[Deut.17.1|1]] Thou shalt not sacrifice unto the LORD thy God \[any\] bullock, or sheep, wherein is blemish, \[or\] any evilfavouredness: for that \[is\] an abomination unto the LORD thy God.

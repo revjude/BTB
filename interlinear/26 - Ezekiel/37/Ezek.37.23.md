@@ -1,8 +1,72 @@
+---
+title: Ezekiel 37:23
+type: Verse
+kjv: "Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God."
+bsb: "They will no longer defile themselves with their idols or detestable images, or with any of their transgressions. I will save them from all their apostasies by which they sinned, and I will cleanse them. Then they will be My people, and I will be their God."
+hebrew: "וְלֹ֧א יִֽטַמְּא֣וּ ע֗וֹד בְּגִלּֽוּלֵיהֶם֙ וּבְשִׁקּ֣וּצֵיהֶ֔ם וּבְכֹ֖ל פִּשְׁעֵיהֶ֑ם וְהוֹשַׁעְתִּ֣י אֹתָ֗ם מִכֹּ֤ל מוֹשְׁבֹֽתֵיהֶם֙ אֲשֶׁ֣ר חָטְא֣וּ בָהֶ֔ם וְטִהַרְתִּ֤י אוֹתָם֙ וְהָיוּ־ לִ֣י לְעָ֔ם וַאֲנִ֕י אֶהְיֶ֥ה לָהֶ֖ם לֵאלֹהִֽים׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H1544]]"
+- "[[H9028]]"
+- "[[H8251]]"
+- "[[H3605]]"
+- "[[H6588]]"
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H4186]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H2891]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H0589]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:23**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
 <small><sub>**BSB:**</sub></small>
 They will no longer defile themselves with their idols or detestable images, or with any of their transgressions. I will save them from all their apostasies by which they sinned, and I will cleanse them. Then they will be My people, and I will be their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֧א]] [[H2930A\|יִֽטַמְּא֣וּ]] [[H5750\|ע֗וֹד]] [[H9003\|בְּ]][[H1544\|גִלּֽוּלֵי]][[H9028\|הֶם֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8251\|שִׁקּ֣וּצֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H6588\|פִּשְׁעֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H3467\|הוֹשַׁעְתִּ֣י]] [[H0853\|אֹתָ֗]][[H9038\|ם]] [[H9006\|מִ]][[H3605\|כֹּ֤ל]] [[H4186\|מוֹשְׁבֹֽתֵי]][[H9028\|הֶם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטְא֣וּ]] [[H9003\|בָ]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H2891\|טִהַרְתִּ֤י]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9001\|וְ]][[H1961\|הָיוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָ֔ם]] [[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H1961\|אֶהְיֶ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.22|<< Ezekiel 37:22]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.24|Ezekiel 37:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

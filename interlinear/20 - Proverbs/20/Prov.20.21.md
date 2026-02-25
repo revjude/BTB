@@ -1,8 +1,52 @@
+---
+title: Proverbs 20:21
+type: Verse
+kjv: "An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed."
+bsb: "An inheritance gained quickly will not be blessed in the end."
+hebrew: "נַ֭חֲלָה מְבֹהֶ֣לֶת בָּרִאשֹׁנָ֑ה וְ֝אַחֲרִיתָ֗הּ לֹ֣א תְבֹרָֽךְ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+strongs:
+- "[[H5159]]"
+- "[[H0973B]]"
+- "[[H0926]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 20:21**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An inheritance [may be] gotten hastily at the beginning; but the end thereof shall not be blessed.
 <small><sub>**BSB:**</sub></small>
 An inheritance gained quickly will not be blessed in the end.
+<small><sub>**Hebrew:**</sub></small>
+[[H5159\|נַ֭חֲלָה]] [[H0926\|מְבֹהֶ֣לֶת]] [[H9003\|בָּ]][[H7223G\|רִאשֹׁנָ֑ה]] [[H9002\|וְ֝]][[H0319\|אַחֲרִיתָ֗]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H1288\|תְבֹרָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.20|<< Proverbs 20:20]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.22|Proverbs 20:22 >>]]</td></tr></table>
 

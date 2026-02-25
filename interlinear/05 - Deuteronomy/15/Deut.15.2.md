@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 15:2
+type: Verse
+kjv: "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the LORD’S release."
+bsb: "This is the manner of remission: Every creditor shall cancel what he has loaned to his neighbor. He is not to collect anything from his neighbor or brother, because the LORD’s time of release has been proclaimed."
+hebrew: "וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כָּל־ בַּ֙עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ לֹֽא־ יִגֹּ֤שׂ אֶת־ רֵעֵ֙הוּ֙ וְאֶת־ אָחִ֔יו כִּֽי־ קָרָ֥א שְׁמִטָּ֖ה לַֽיהוָֽה׃"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H8059]]"
+- "[[H8058]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1167K]]"
+- "[[H4874]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5383]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H3808]]"
+- "[[H5065]]"
+- "[[H0853]]"
+- "[[H0251I]]"
+- "[[H3588A]]"
+- "[[H7121I]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:2**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the manner of the release: Every creditor that lendeth [ought] unto his neighbour shall release [it]; he shall not exact [it] of his neighbour, or of his brother; because it is called the LORD’S release.
 <small><sub>**BSB:**</sub></small>
 This is the manner of remission: Every creditor shall cancel what he has loaned to his neighbor. He is not to collect anything from his neighbor or brother, because the LORD’s time of release has been proclaimed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶה֮]] [[H1697O\|דְּבַ֣ר]] [[H9009\|הַ]][[H8059\|שְּׁמִטָּה֒]] [[H8058\|שָׁמ֗וֹט]] [[H3605\|כָּל]][[H9014\|־]] [[H1167K\|בַּ֙עַל֙]] [[H4874\|מַשֵּׁ֣ה]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5383\|יַשֶּׁ֖ה]] [[H9003\|בְּ]][[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5065\|יִגֹּ֤שׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אָחִ֔י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7121I\|קָרָ֥א]] [[H8059\|שְׁמִטָּ֖ה]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREDITOR|CREDITOR]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.1|<< Deuteronomy 15:1]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.3|Deuteronomy 15:3 >>]]</td></tr></table>
 

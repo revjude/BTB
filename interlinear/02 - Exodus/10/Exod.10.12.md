@@ -1,8 +1,73 @@
+---
+title: Exodus 10:12
+type: Verse
+kjv: "And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left."
+bsb: "Then the LORD said to Moses, “Stretch out your hand over the land of Egypt, so that the locusts may swarm over it and devour every plant in the land—everything that the hail has left behind.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה נְטֵ֨ה יָדְךָ֜ עַל־ אֶ֤רֶץ מִצְרַ֙יִם֙ בָּֽאַרְבֶּ֔ה וְיַ֖עַל עַל־ אֶ֣רֶץ מִצְרָ֑יִם וְיֹאכַל֙ אֶת־ כָּל־ עֵ֣שֶׂב הָאָ֔רֶץ אֵ֛ת כָּל־ אֲשֶׁ֥ר הִשְׁאִ֖יר הַבָּרָֽד׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H0697]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H6212]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7604]]"
+- "[[H1259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:12**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, [even] all that the hail hath left.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Stretch out your hand over the land of Egypt, so that the locusts may swarm over it and devour every plant in the land—everything that the hail has left behind.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H5186\|נְטֵ֨ה]] [[H3027G\|יָדְ]][[H9021\|ךָ֜]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֤רֶץ]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9003\|בָּֽ]][[H0697\|אַרְבֶּ֔ה]] [[H9002\|וְ]][[H5927G\|יַ֖עַל]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H0398\|יֹאכַל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6212\|עֵ֣שֶׂב]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H7604\|הִשְׁאִ֖יר]] [[H9009\|הַ]][[H1259\|בָּרָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.11|<< Exodus 10:11]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.13|Exodus 10:13 >>]]</td></tr></table>
 

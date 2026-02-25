@@ -1,8 +1,60 @@
+---
+title: Ezekiel 40:28
+type: Verse
+kjv: "And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;"
+bsb: "Next he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others."
+hebrew: "וַיְבִיאֵ֛נִי אֶל־ חָצֵ֥ר הַפְּנִימִ֖י בְּשַׁ֣עַר הַדָּר֑וֹם וַיָּ֙מָד֙ אֶת־ הַשַּׁ֣עַר הַדָּר֔וֹם כַּמִּדּ֖וֹת הָאֵֽלֶּה׃"
+pericope: "[[Ezek.40.28 The Gates of the Inner Court|The Gates of the Inner Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H6442]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1864]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H4060A]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:28**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;
 <small><sub>**BSB:**</sub></small>
 Next he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יְבִיאֵ֛]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֖י]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H1864\|דָּר֑וֹם]] [[H9001\|וַ]][[H4058\|יָּ֙מָד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שַּׁ֣עַר]] [[H9009\|הַ]][[H1864\|דָּר֔וֹם]] [[H9004\|כַּ]][[H4060A\|מִּדּ֖וֹת]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.27|<< Ezekiel 40:27]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.29|Ezekiel 40:29 >>]]</td></tr></table>
 

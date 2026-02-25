@@ -1,8 +1,57 @@
+---
+title: Psalm 62:7
+type: Verse
+kjv: "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God."
+bsb: "My salvation and my honor rest on God, my strong rock; my refuge is in God."
+hebrew: "עַל־ אֱ֭לֹהִים יִשְׁעִ֣י וּכְבוֹדִ֑י צוּר־ עֻזִּ֥י מַ֝חְסִ֗י בֵּֽאלֹהִֽים׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H3468]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H6697H]]"
+- "[[H5797]]"
+- "[[H4268]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:7**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In God [is] my salvation and my glory: the rock of my strength, [and] my refuge, [is] in God.
 <small><sub>**BSB:**</sub></small>
 My salvation and my honor rest on God, my strong rock; my refuge is in God.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H0430G\|אֱ֭לֹהִים]] [[H3468\|יִשְׁעִ֣]][[H9020\|י]] [[H9002\|וּ]][[H3519\|כְבוֹדִ֑]][[H9020\|י]] [[H6697H\|צוּר]][[H9014\|־]] [[H5797\|עֻזִּ֥]][[H9020\|י]] [[H4268\|מַ֝חְסִ֗]][[H9020\|י]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.6|<< Psalms 62:6]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.8|Psalms 62:8 >>]]</td></tr></table>
 

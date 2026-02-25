@@ -1,8 +1,66 @@
+---
+title: Judges 14:9
+type: Verse
+kjv: "And he took thereof in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion."
+bsb: "So he scooped some honey into his hands and ate it as he went along. And when he returned to his father and mother, he gave some to them and they ate it. But he did not tell them that he had taken the honey from the lion’s carcass."
+hebrew: "וַיִּרְדֵּ֣הוּ אֶל־ כַּפָּ֗יו וַיֵּ֤לֶךְ הָלוֹךְ֙ וְאָכֹ֔ל וַיֵּ֙לֶךְ֙ אֶל־ אָבִ֣יו וְאֶל־ אִמּ֔וֹ וַיִּתֵּ֥ן לָהֶ֖ם וַיֹּאכֵ֑לוּ וְלֹֽא־ הִגִּ֣יד לָהֶ֔ם כִּ֛י מִגְּוִיַּ֥ת הָאַרְיֵ֖ה רָדָ֥ה הַדְּבָֽשׁ׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LION|LION]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7287B]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H1980H]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H0001G]]"
+- "[[H0517]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H1472]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H1706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:9**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took thereof in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion.
 <small><sub>**BSB:**</sub></small>
 So he scooped some honey into his hands and ate it as he went along. And when he returned to his father and mother, he gave some to them and they ate it. But he did not tell them that he had taken the honey from the lion’s carcass.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7287B\|יִּרְדֵּ֣]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3709G\|כַּפָּ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H1980H\|הָלוֹךְ֙]] [[H9002\|וְ]][[H0398\|אָכֹ֔ל]] [[H9001\|וַ]][[H1980G\|יֵּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H0398\|יֹּאכֵ֑לוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5046\|הִגִּ֣יד]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H3588A\|כִּ֛י]] [[H9006\|מִ]][[H1472\|גְּוִיַּ֥ת]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֖ה]] [[H7287B\|רָדָ֥ה]] [[H9009\|הַ]][[H1706\|דְּבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.8|<< Judges 14:8]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.10|Judges 14:10 >>]]</td></tr></table>
 

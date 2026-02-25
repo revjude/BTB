@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark Enters the Temple
+type: Pericope
 pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 8
 book/chapter: "[[1Kgs.8|1 Kings 8]]"
-genre:
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 11
 verses:
 - "[[1Kgs.8.1]]"
 - "[[1Kgs.8.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Kgs.8.11]]"
 ---
 
-[[1Kgs.8|1 Kings 8:1 - 1 Kings 8:11]]
+<small>[[1Kgs.8|1 Kings 8:1-11]]</small>
 *The Ark Enters the Temple*
 
 [[1Kgs.8.1|1]] Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which \[is\] Zion.

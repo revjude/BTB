@@ -1,8 +1,80 @@
+---
+title: Numbers 21:34
+type: Verse
+kjv: "And the LORD said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon."
+bsb: "But the LORD said to Moses, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ מֹשֶׁה֙ אַל־ תִּירָ֣א אֹת֔וֹ כִּ֣י בְיָדְךָ֞ נָתַ֧תִּי אֹת֛וֹ וְאֶת־ כָּל־ עַמּ֖וֹ וְאֶת־ אַרְצ֑וֹ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֣ר עָשִׂ֗יתָ לְסִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּֽוֹן׃"
+pericope: "[[Num.21.31 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EDREI|EDREI]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H0776G]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H2809]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:34**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.
 <small><sub>**BSB:**</sub></small>
 But the LORD said to Moses, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֣א]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H3027H\|יָדְ]][[H9021\|ךָ֞]] [[H5414G\|נָתַ֧תִּי]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֗יתָ]] [[H9005\|לְ]][[H5511\|סִיחֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDREI|EDREI]] • [[topic FAITH|FAITH]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.33|<< Numbers 21:33]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.35|Numbers 21:35 >>]]</td></tr></table>
 

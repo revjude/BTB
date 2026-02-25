@@ -1,10 +1,63 @@
+---
+title: Hebrews 11:8
+type: Verse
+kjv: "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went."
+bsb: "By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going."
+greek: "Πίστει ὁ καλούμενος Ἀβραὰμ ὑπήκουσεν ἐξελθεῖν εἰς τὸν τόπον ὃν ἤμελλεν λαμβάνειν εἰς κληρονομίαν καὶ ἐξῆλθεν μὴ ἐπιστάμενος ποῦ ἔρχεται.¶"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CALL|CALL]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G4102G]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G0011]]"
+- "[[G5219]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G2983]]"
+- "[[G2817]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1987]]"
+- "[[G4226]]"
+- "[[G2064]]"
+texts:
+- NKO
+- o
+- k
+---
+
 **Hebrews 11:8**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
 <small><sub>**BSB:**</sub></small>
 By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.
-<small><sub>**Literal:**</sub></small>
-By faith the [one] being called Abraham obeyed to go out into <the> a place that he was going to receive for an inheritance and went out not knowing where he is going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.7|<< Hebrews 11:7]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.9|Hebrews 11:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G3588\|ὁ]]  [[G2564G\|καλούμενος]]  [[G0011\|Ἀβραὰμ]]  [[G5219\|ὑπήκουσεν]]  [[G1831\|ἐξελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3739\|ὃν]]  [[G3195\|ἤμελλεν]]  [[G2983\|λαμβάνειν]]  [[G1519\|εἰς]]  [[G2817\|κληρονομίαν]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G3361\|μὴ]]  [[G1987\|ἐπιστάμενος]]  [[G4226\|ποῦ]]  [[G2064\|ἔρχεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CALL|CALL]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.7|<< Hebrews 11:7]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.9|Hebrews 11:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:8** is...
 > $\quad$ alluding to: [[LXX.Gen.12.1|Gen 12:1-2]]

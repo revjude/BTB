@@ -1,8 +1,59 @@
+---
+title: Genesis 22:15
+type: Verse
+kjv: "And the angel of the LORD called unto Abraham out of heaven the second time,"
+bsb: "And the angel of the LORD called to Abraham from heaven a second time,"
+hebrew: "וַיִּקְרָ֛א מַלְאַ֥ךְ יְהוָ֖ה אֶל־ אַבְרָהָ֑ם שֵׁנִ֖ית מִן־ הַשָּׁמָֽיִם׃"
+pericope: "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H8145]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:15**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD called unto Abraham out of heaven the second time,
 <small><sub>**BSB:**</sub></small>
 And the angel of the LORD called to Abraham from heaven a second time,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֛א]] [[H4397H\|מַלְאַ֥ךְ]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0085\|אַבְרָהָ֑ם]] [[H8145\|שֵׁנִ֖ית]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.14|<< Genesis 22:14]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.16|Genesis 22:16 >>]]</td></tr></table>
 

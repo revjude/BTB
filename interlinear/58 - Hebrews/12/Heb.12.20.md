@@ -1,10 +1,58 @@
+---
+title: Hebrews 12:20
+type: Verse
+kjv: "(For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:"
+bsb: "For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”"
+greek: "οὐκ ἔφερον γὰρ τὸ διαστελλόμενον· κἂν κἂν θηρίον θίγῃ τοῦ ὄρους, λιθοβοληθήσεται ἢ βολίδι κατατοξευθήσεται,"
+pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3756]]"
+- "[[G5342]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1291]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2342]]"
+- "[[G2345]]"
+- "[[G3735]]"
+- "[[G3036]]"
+- "[[G2228]]"
+- "[[G1002]]"
+- "[[G2700]]"
+texts:
+- NKO
+- K
+---
+
 **Hebrews 12:20**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:
 <small><sub>**BSB:**</sub></small>
 For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”
-<small><sub>**Literal:**</sub></small>
-not [able] they were bearing for which is being commanded: If even a beast shall touch the mountain, it will be stoned or with arrow will be shot down<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.19|<< Hebrews 12:19]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.21|Hebrews 12:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G5342\|ἔφερον]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G1291\|διαστελλόμενον·]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G2342\|θηρίον]]  [[G2345\|θίγῃ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους,]]  [[G3036\|λιθοβοληθήσεται]]  [[G2228\|ἢ]]  [[G1002\|βολίδι]]  [[G2700\|κατατοξευθήσεται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.19|<< Hebrews 12:19]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.21|Hebrews 12:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 12:20** is...
 > $\quad$ referencing: [[LXX.Exod.19.12|Exod 19:12-13]]

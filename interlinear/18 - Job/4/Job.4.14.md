@@ -1,8 +1,53 @@
+---
+title: Job 4:14
+type: Verse
+kjv: "Fear came upon me, and trembling, which made all my bones to shake."
+bsb: "fear and trembling came over me and made all my bones shudder."
+hebrew: "פַּ֣חַד קְ֭רָאַנִי וּרְעָדָ֑ה וְרֹ֖ב עַצְמוֹתַ֣י הִפְחִֽיד׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H6343]]"
+- "[[H7122H]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7461A]]"
+- "[[H7230]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H6342]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:14**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear came upon me, and trembling, which made all my bones to shake.
 <small><sub>**BSB:**</sub></small>
 fear and trembling came over me and made all my bones shudder.
+<small><sub>**Hebrew:**</sub></small>
+[[H6343\|פַּ֣חַד]] [[H7122H\|קְ֭רָאַ]][[H9030\|נִי]] [[H9002\|וּ]][[H7461A\|רְעָדָ֑ה]] [[H9002\|וְ]][[H7230\|רֹ֖ב]] [[H6106G\|עַצְמוֹתַ֣]][[H9020\|י]] [[H6342\|הִפְחִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.13|<< Job 4:13]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.15|Job 4:15 >>]]</td></tr></table>
 

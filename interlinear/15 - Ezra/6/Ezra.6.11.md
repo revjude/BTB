@@ -1,8 +1,67 @@
+---
+title: Ezra 6:11
+type: Verse
+kjv: "Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this."
+bsb: "I also decree that if any man interferes with this directive, a beam is to be torn from his house and raised up, and he is to be impaled on it. And his own house shall be made a pile of rubble for this offense."
+aramaic: "וּמִנִּי֮ שִׂ֣ים טְעֵם֒ דִּ֣י כָל־ אֱנָ֗שׁ דִּ֤י יְהַשְׁנֵא֙ פִּתְגָמָ֣א דְנָ֔ה יִתְנְסַ֥ח אָע֙ מִן־ בַּיְתֵ֔הּ וּזְקִ֖יף יִתְמְחֵ֣א עֲלֹ֑הִי וּבַיְתֵ֛הּ נְוָל֥וּ יִתְעֲבֵ֖ד עַל־ דְּנָֽה׃"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H0606]]"
+- "[[H8133]]"
+- "[[H6600]]"
+- "[[H9010]]"
+- "[[H1836]]"
+- "[[H5256]]"
+- "[[H0636]]"
+- "[[H1005]]"
+- "[[H9024]]"
+- "[[H2211]]"
+- "[[H4223]]"
+- "[[H5922]]"
+- "[[H9033]]"
+- "[[H5122]]"
+- "[[H5648]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:11**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
 <small><sub>**BSB:**</sub></small>
 I also decree that if any man interferes with this directive, a beam is to be torn from his house and raised up, and he is to be impaled on it. And his own house shall be made a pile of rubble for this offense.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4481\|מִנִּ]][[H9030\|י֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H0606\|אֱנָ֗שׁ]] [[H1768\|דִּ֤י]] [[H8133\|יְהַשְׁנֵא֙]] [[H6600\|פִּתְגָמָ֣]][[H9010\|א]] [[H1836\|דְנָ֔ה]] [[H5256\|יִתְנְסַ֥ח]] [[H0636\|אָע֙]] [[H4481\|מִן]][[H9014\|־]] [[H1005\|בַּיְתֵ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H2211\|זְקִ֖יף]] [[H4223\|יִתְמְחֵ֣א]] [[H5922\|עֲלֹ֑]][[H9033\|הִי]] [[H9002\|וּ]][[H1005\|בַיְתֵ֛]][[H9024\|הּ]] [[H5122\|נְוָל֥וּ]] [[H5648\|יִתְעֲבֵ֖ד]] [[H5922\|עַל]][[H9014\|־]] [[H1836\|דְּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
 

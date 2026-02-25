@@ -1,6 +1,63 @@
+---
+title: LXX Zechariah 6:5
+type: Verse
+lxx: "And the angel answered, the one speaking with me. And he said, These are the four winds of the heaven, and they go forth to stand beside the Lord of all the earth,"
+greek: "και απεκρίθη ο άγγελος ο λαλών εν εμοί και είπεν ταύτά εστιν οι τέσσαρες άνεμοι του ουρανού και εκπορεύονται παραστήναι τω κυρίω πάσης της γης"
+original_language: Greek
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G0032]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G0417]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1607]]"
+- "[[G3936]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Zechariah 6:5** 
 <small><sub>**LXX:**</sub></small>
 And the angel answered, the one speaking with me. And he said, These are the four winds of the heaven, and they go forth to stand beside the Lord of all the earth, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0611\|απεκρίθη]] [[G3588\|ο]] [[G0032\|άγγελος]] [[G3588\|ο]] [[G2980\|λαλών]] [[G1722\|εν]] [[G1473\|εμοί]] [[G2532\|και]] [[G2036\|είπεν]] [[G3778\|ταύτά]] [[G1510\|εστιν]] [[G3588\|οι]] [[G5064\|τέσσαρες]] [[G0417\|άνεμοι]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2532\|και]] [[G1607\|εκπορεύονται]] [[G3936\|παραστήναι]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G3956\|πάσης]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic VISION|VISION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zech.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
 
@@ -31,6 +88,6 @@ And the angel answered, the one speaking with me. And he said, These are the fou
 | of all | **<big>[[G3956\|πάσης]]</big>** |
 | the | **<big>[[G3588\|της]]</big>** |
 | earth, | **<big>[[G1093\|γης]]</big>** |
-[[Zech.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
 
 

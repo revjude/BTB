@@ -1,10 +1,55 @@
+---
+title: Acts 27:5
+type: Verse
+kjv: "And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia."
+bsb: "And when we had sailed across the open sea off the coast of Cilicia and Pamphylia, we came to Myra in Lycia."
+greek: "τό τε πέλαγος τὸ κατὰ τὴν Κιλικίαν καὶ Παμφυλίαν διαπλεύσαντες κατήλθομεν εἰς Μύρα τῆς Λυκίας."
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CILICIA|CILICIA]]"
+- "[[topic LYCIA|LYCIA]]"
+- "[[topic MYRA|MYRA]]"
+- "[[topic PAMPHYLIA|PAMPHYLIA]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G3989]]"
+- "[[G2596]]"
+- "[[G2791]]"
+- "[[G2532]]"
+- "[[G3828]]"
+- "[[G1277]]"
+- "[[G2718]]"
+- "[[G1519]]"
+- "[[G3460]]"
+- "[[G3073]]"
+texts:
+- NKO
+---
+
 **Acts 27:5**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, [a city] of Lycia.
 <small><sub>**BSB:**</sub></small>
 And when we had sailed across the open sea off the coast of Cilicia and Pamphylia, we came to Myra in Lycia.
-<small><sub>**Literal:**</sub></small>
-<the> And then <the> along <the> Cilicia and Pamphylia having sailed across [the sea] we came to Myra <the> of Lycia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.4|<< Acts 27:4]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.6|Acts 27:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τό]]  [[G5037\|τε]]  [[G3989\|πέλαγος]]  [[G3588\|τὸ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G2791\|Κιλικίαν]]  [[G2532\|καὶ]]  [[G3828\|Παμφυλίαν]]  [[G1277\|διαπλεύσαντες]]  [[G2718\|κατήλθομεν]]  [[G1519\|εἰς]]  [[G3460\|Μύρα]]  [[G3588\|τῆς]]  [[G3073\|Λυκίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CILICIA|CILICIA]] • [[topic LYCIA|LYCIA]] • [[topic MYRA|MYRA]] • [[topic PAMPHYLIA|PAMPHYLIA]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.4|<< Acts 27:4]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.6|Acts 27:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

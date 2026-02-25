@@ -1,8 +1,72 @@
+---
+title: Genesis 28:6
+type: Verse
+kjv: "When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;"
+bsb: "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,”"
+hebrew: "וַיַּ֣רְא עֵשָׂ֗ו כִּֽי־ בֵרַ֣ךְ יִצְחָק֮ אֶֽת־ יַעֲקֹב֒ וְשִׁלַּ֤ח אֹתוֹ֙ פַּדֶּ֣נָֽה אֲרָ֔ם לָקַֽחַת־ ל֥וֹ מִשָּׁ֖ם אִשָּׁ֑ה בְּבָרֲכ֣וֹ אֹת֔וֹ וַיְצַ֤ו עָלָיו֙ לֵאמֹ֔ר לֹֽא־ תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃"
+pericope: "[[Gen.28.6 Esau Marries Mahalath|Esau Marries Mahalath]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6215G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1288]]"
+- "[[H3327]]"
+- "[[H0853]]"
+- "[[H3290]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H6307]]"
+- "[[H9011]]"
+- "[[H0758L]]"
+- "[[H9005]]"
+- "[[H3947I]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0802H]]"
+- "[[H9003]]"
+- "[[H9043]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H1323G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:6**<big><big>[[Gen.28.6 Esau Marries Mahalath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;
 <small><sub>**BSB:**</sub></small>
 Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H6215G\|עֵשָׂ֗ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1288\|בֵרַ֣ךְ]] [[H3327\|יִצְחָק֮]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹב֒]] [[H9001\|וְ]][[H7971G\|שִׁלַּ֤ח]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H6307\|פַּדֶּ֣נָֽ]][[H9011\|ה]] [[H0758L\|אֲרָ֔ם]] [[H9005\|לָ]][[H3947I\|קַֽחַת]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H0802H\|אִשָּׁ֑ה]] [[H9003\|בְּ]][[H1288\|בָרֲכ֣]][[H9043\|וֹ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3947I\|תִקַּ֥ח]] [[H0802H\|אִשָּׁ֖ה]] [[H9006\|מִ]][[H1323G\|בְּנ֥וֹת]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.5|<< Genesis 28:5]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.7|Genesis 28:7 >>]]</td></tr></table>
 

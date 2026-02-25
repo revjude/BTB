@@ -1,8 +1,69 @@
+---
+title: Ecclesiastes 4:1
+type: Verse
+kjv: "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter."
+bsb: "Again I looked, and I considered all the oppression taking place under the sun. I saw the tears of the oppressed, and they had no comforter; the power lay in the hands of their oppressors, and there was no comforter."
+hebrew: "וְשַׁ֣בְתִּֽי אֲנִ֗י וָאֶרְאֶה֙ אֶת־ כָּל־ הָ֣עֲשֻׁקִ֔ים אֲשֶׁ֥ר נַעֲשִׂ֖ים תַּ֣חַת הַשָּׁ֑מֶשׁ וְהִנֵּ֣ה׀ דִּמְעַ֣ת הָעֲשֻׁקִ֗ים וְאֵ֤ין לָהֶם֙ מְנַחֵ֔ם וּמִיַּ֤ד עֹֽשְׁקֵיהֶם֙ כֹּ֔חַ וְאֵ֥ין לָהֶ֖ם מְנַחֵֽם׃"
+pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H0589]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H6217]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H8478G]]"
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H1832]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5162G]]"
+- "[[H9006]]"
+- "[[H3027I]]"
+- "[[H6231]]"
+- "[[H3581B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:1**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I returned, and considered all the oppressions that are done under the sun: and behold the tears of [such as were] oppressed, and they had no comforter; and on the side of their oppressors [there was] power; but they had no comforter.
 <small><sub>**BSB:**</sub></small>
 Again I looked, and I considered all the oppression taking place under the sun. I saw the tears of the oppressed, and they had no comforter; the power lay in the hands of their oppressors, and there was no comforter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725J\|שַׁ֣בְתִּֽי]] [[H0589\|אֲנִ֗י]] [[H9001\|וָ]][[H7200G\|אֶרְאֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H6217\|עֲשֻׁקִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|נַעֲשִׂ֖ים]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H1832\|דִּמְעַ֣ת]] [[H9009\|הָ]][[H6217\|עֲשֻׁקִ֗ים]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H5162G\|מְנַחֵ֔ם]] [[H9002\|וּ]][[H9006\|מִ]][[H3027I\|יַּ֤ד]] [[H6231\|עֹֽשְׁקֵי]][[H9038\|הֶם֙]] [[H3581B\|כֹּ֔חַ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H5162G\|מְנַחֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.22|<< Ecclesiastes 3:22]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.2|Ecclesiastes 4:2 >>]]</td></tr></table>
 

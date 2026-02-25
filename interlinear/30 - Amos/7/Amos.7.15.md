@@ -1,8 +1,64 @@
+---
+title: Amos 7:15
+type: Verse
+kjv: "And the LORD took me as I followed the flock, and the LORD said unto me, Go, prophesy unto my people Israel."
+bsb: "But the LORD took me from following the flock and said to me, ‘Go, prophesy to My people Israel.’"
+hebrew: "וַיִּקָּחֵ֣נִי יְהוָ֔ה מֵאַחֲרֵ֖י הַצֹּ֑אן וַיֹּ֤אמֶר אֵלַי֙ יְהוָ֔ה לֵ֥ךְ הִנָּבֵ֖א אֶל־ עַמִּ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Amos.7.10 Amaziah Accuses Amos|Amaziah Accuses Amos]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMAZIAH|AMAZIAH]]"
+- "[[topic AMOS|AMOS]]"
+- "[[topic CALL|CALL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H1980G]]"
+- "[[H5012]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 7:15**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD took me as I followed the flock, and the LORD said unto me, Go, prophesy unto my people Israel.
 <small><sub>**BSB:**</sub></small>
 But the LORD took me from following the flock and said to me, ‘Go, prophesy to My people Israel.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקָּחֵ֣]][[H9030\|נִי]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֖י]] [[H9009\|הַ]][[H6629G\|צֹּ֑אן]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H3068G\|יְהוָ֔ה]] [[H1980G\|לֵ֥ךְ]] [[H5012\|הִנָּבֵ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAZIAH|AMAZIAH]] • [[topic AMOS|AMOS]] • [[topic CALL|CALL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.14|<< Amos 7:14]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.16|Amos 7:16 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: 2 Timothy 2:8
+type: Verse
+kjv: "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+bsb: "Remember Jesus Christ, raised from the dead, descended from David, as proclaimed by my gospel,"
+greek: "Μνημόνευε Ἰησοῦν Χριστὸν ἐγηγερμένον ἐκ νεκρῶν ἐκ σπέρματος Δαυὶδ κατὰ τὸ εὐαγγέλιόν μου·"
+pericope: "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3421]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G4690G]]"
+- "[[G1138]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:8**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
 <small><sub>**BSB:**</sub></small>
 Remember Jesus Christ, raised from the dead, descended from David, as proclaimed by my gospel,
-<small><sub>**Literal:**</sub></small>
-do remember Jesus Christ raised out from [the] dead from [the] seed of David according to <the> gospel of mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.7|<< 2 Timothy 2:7]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.9|2 Timothy 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3421\|Μνημόνευε]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G1453\|ἐγηγερμένον]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1537\|ἐκ]]  [[G4690G\|σπέρματος]]  [[G1138\|Δαυὶδ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιόν]]  [[G3165\|μου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.7|<< 2 Timothy 2:7]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.9|2 Timothy 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

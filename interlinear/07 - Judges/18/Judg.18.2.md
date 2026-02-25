@@ -1,8 +1,79 @@
+---
+title: Judges 18:2
+type: Verse
+kjv: "And the children of Dan sent of their family five men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there."
+bsb: "So the Danites sent out five men from their clans, men of valor from Zorah and Eshtaol, to spy out the land and explore it. “Go and explore the land,” they told them. The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night."
+hebrew: "וַיִּשְׁלְח֣וּ בְנֵי־ דָ֣ן׀ מִֽמִּשְׁפַּחְתָּ֡ם חֲמִשָּׁ֣ה אֲנָשִׁ֣ים מִקְצוֹתָם֩ אֲנָשִׁ֨ים בְּנֵי־ חַ֜יִל מִצָּרְעָ֣ה וּמֵֽאֶשְׁתָּאֹ֗ל לְרַגֵּ֤ל אֶת־ הָאָ֙רֶץ֙ וּלְחָקְרָ֔הּ וַיֹּאמְר֣וּ אֲלֵהֶ֔ם לְכ֖וּ חִקְר֣וּ אֶת־ הָאָ֑רֶץ וַיָּבֹ֤אוּ הַר־ אֶפְרַ֙יִם֙ עַד־ בֵּ֣ית מִיכָ֔ה וַיָּלִ֖ינוּ שָֽׁם׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ESHTAOL|ESHTAOL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1835G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H2568]]"
+- "[[H0582]]"
+- "[[H7098]]"
+- "[[H2428G]]"
+- "[[H6881]]"
+- "[[H9002]]"
+- "[[H0847]]"
+- "[[H9005]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2713]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H5704]]"
+- "[[H1004B]]"
+- "[[H4318G]]"
+- "[[H3885A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:2**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Dan sent of their family five men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there.
 <small><sub>**BSB:**</sub></small>
 So the Danites sent out five men from their clans, men of valor from Zorah and Eshtaol, to spy out the land and explore it. “Go and explore the land,” they told them. The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלְח֣וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H1835G\|דָ֣ן]][[H9015\|׀]] [[H9006\|מִֽ]][[H4940\|מִּשְׁפַּחְתָּ֡]][[H9028\|ם]] [[H2568\|חֲמִשָּׁ֣ה]] [[H0582\|אֲנָשִׁ֣ים]] [[H9006\|מִ]][[H7098\|קְצוֹתָ]][[H9028\|ם֩]] [[H0582\|אֲנָשִׁ֨ים]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2428G\|חַ֜יִל]] [[H9006\|מִ]][[H6881\|צָּרְעָ֣ה]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H0847\|אֶשְׁתָּאֹ֗ל]] [[H9005\|לְ]][[H7270\|רַגֵּ֤ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H2713\|חָקְרָ֔]][[H9034\|הּ]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H1980G\|לְכ֖וּ]] [[H2713\|חִקְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H5704\|עַד]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H4318G\|מִיכָ֔ה]] [[H9001\|וַ]][[H3885A\|יָּלִ֖ינוּ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ESHTAOL|ESHTAOL]] • [[topic JONATHAN|JONATHAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.1|<< Judges 18:1]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.3|Judges 18:3 >>]]</td></tr></table>
 

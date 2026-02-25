@@ -1,8 +1,60 @@
+---
+title: Exodus 10:29
+type: Verse
+kjv: "And Moses said, Thou hast spoken well, I will see thy face again no more."
+bsb: "“As you say,” Moses replied, “I will never see your face again.”"
+hebrew: "וַיֹּ֥אמֶר מֹשֶׁ֖ה כֵּ֣ן דִּבַּ֑רְתָּ לֹא־ אֹסִ֥ף ע֖וֹד רְא֥וֹת פָּנֶֽיךָ׃ פ"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H3651A]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 10:29**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, Thou hast spoken well, I will see thy face again no more.
 <small><sub>**BSB:**</sub></small>
 “As you say,” Moses replied, “I will never see your face again.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H4872\|מֹשֶׁ֖ה]] [[H3651A\|כֵּ֣ן]] [[H1696G\|דִּבַּ֑רְתָּ]] [[H3808\|לֹא]][[H9014\|־]] [[H3254G\|אֹסִ֥ף]] [[H5750\|ע֖וֹד]] [[H7200G\|רְא֥וֹת]] [[H6440H\|פָּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.28|<< Exodus 10:28]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.1|Exodus 11:1 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ And Moses said, Thou hast spoken well, I will see thy face again no more.
 | I will repeat  |**<big>&#8207;[[H3254G\|אֹסִ֥ף]]&#8207; </big>**| 'o.Sif<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to see  |**<big>&#8207;[[H7200G\|רְא֥וֹת]]&#8207; </big>**| re.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face your  |**<big>&#8207;[[H6440H\|פָּנֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face your  |**<big>&#8207;[[H6440H\|פָּנֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.28|<< Exodus 10:28]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.1|Exodus 11:1 >>]]</td></tr></table>
 
 

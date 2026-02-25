@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 24:14
+type: Verse
+kjv: "Thou shalt not oppress an hired servant that is poor and needy, whether he be of thy brethren, or of thy strangers that are in thy land within thy gates:"
+bsb: "Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns."
+hebrew: "לֹא־ תַעֲשֹׁ֥ק שָׂכִ֖יר עָנִ֣י וְאֶבְי֑וֹן מֵאַחֶ֕יךָ א֧וֹ מִגֵּרְךָ֛ אֲשֶׁ֥ר בְּאַרְצְךָ֖ בִּשְׁעָרֶֽיךָ׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H7916]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H9006]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H8179H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:14**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not oppress an hired servant [that is] poor and needy, [whether he be] of thy brethren, or of thy strangers that [are] in thy land within thy gates:
 <small><sub>**BSB:**</sub></small>
 Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H6231\|תַעֲשֹׁ֥ק]] [[H7916\|שָׂכִ֖יר]] [[H6041\|עָנִ֣י]] [[H9002\|וְ]][[H0034\|אֶבְי֑וֹן]] [[H9006\|מֵ]][[H0251I\|אַחֶ֕י]][[H9021\|ךָ]] [[H0176A\|א֧וֹ]] [[H9006\|מִ]][[H1616\|גֵּרְ]][[H9021\|ךָ֛]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H0776G\|אַרְצְ]][[H9021\|ךָ֖]] [[H9003\|בִּ]][[H8179H\|שְׁעָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic LABOR|LABOR]] • [[topic MASTER|MASTER]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.13|<< Deuteronomy 24:13]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.15|Deuteronomy 24:15 >>]]</td></tr></table>
 

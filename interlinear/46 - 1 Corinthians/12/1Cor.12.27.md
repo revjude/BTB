@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 12:27
+type: Verse
+kjv: "Now ye are the body of Christ, and members in particular."
+bsb: "Now you are the body of Christ, and each of you is a member of it."
+greek: "Ὑμεῖς δέ ἐστε σῶμα Χριστοῦ καὶ μέλη ἐκ μέρους."
+pericope: "[[1Cor.12.27 The Greater Gifts|The Greater Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G4983]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G3196]]"
+- "[[G1537]]"
+- "[[G3313]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:27**<big><big>[[1Cor.12.27 The Greater Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now ye are the body of Christ, and members in particular.
 <small><sub>**BSB:**</sub></small>
 Now you are the body of Christ, and each of you is a member of it.
-<small><sub>**Literal:**</sub></small>
-You yourselves now are [the] body of Christ and members in particular.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.26|<< 1 Corinthians 12:26]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.28|1 Corinthians 12:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Ὑμεῖς]]  [[G1161\|δέ]]  [[G1510\|ἐστε]]  [[G4983\|σῶμα]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G3196\|μέλη]]  [[G1537\|ἐκ]]  [[G3313\|μέρους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.26|<< 1 Corinthians 12:26]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.28|1 Corinthians 12:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

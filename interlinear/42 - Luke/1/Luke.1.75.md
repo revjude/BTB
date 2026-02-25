@@ -1,10 +1,64 @@
+---
+title: Luke 1:75
+type: Verse
+kjv: "In holiness and righteousness before him, all the days of our life."
+bsb: "in holiness and righteousness before Him all the days of our lives."
+greek: "ἐν ὁσιότητι καὶ δικαιοσύνῃ ἐνώπιον αὐτοῦ πάσαις ταῖς ἡμέραις τὴς ζωῆς ἡμῶν.¶"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3742]]"
+- "[[G2532]]"
+- "[[G1343]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2222]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 1:75**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In holiness and righteousness before him, all the days of our life.
 <small><sub>**BSB:**</sub></small>
 in holiness and righteousness before Him all the days of our lives.
-<small><sub>**Literal:**</sub></small>
-in holiness and righteousness before Him all the days of the life of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.74|<< Luke 1:74]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.76|Luke 1:76 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3742\|ὁσιότητι]]  [[G2532\|καὶ]]  [[G1343\|δικαιοσύνῃ]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάσαις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τὴς]]  [[G2222\|ζωῆς]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.74|<< Luke 1:74]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.76|Luke 1:76 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

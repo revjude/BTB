@@ -1,8 +1,59 @@
+---
+title: Isaiah 10:29
+type: Verse
+kjv: "They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled."
+bsb: "They have crossed at the ford: “We will spend the night at Geba.” Ramah trembles; Gibeah of Saul flees."
+hebrew: "עָֽבְרוּ֙ מַעְבָּרָ֔ה גֶּ֖בַע מָל֣וֹן לָ֑נוּ חָֽרְדָה֙ הָֽרָמָ֔ה גִּבְעַ֥ת שָׁא֖וּל נָֽסָה׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H5674A]]"
+- "[[H4569B]]"
+- "[[H1387G]]"
+- "[[H4411]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H2729]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H1390H]]"
+- "[[H7586G]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:29**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
 <small><sub>**BSB:**</sub></small>
 They have crossed at the ford: “We will spend the night at Geba.” Ramah trembles; Gibeah of Saul flees.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|עָֽבְרוּ֙]] [[H4569B\|מַעְבָּרָ֔ה]] [[H1387G\|גֶּ֖בַע]] [[H4411\|מָל֣וֹן]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H2729\|חָֽרְדָה֙]] [[H9009\|הָֽ]][[H7414G\|רָמָ֔ה]] [[H1390H\|גִּבְעַ֥ת]] [[H7586G\|שָׁא֖וּל]] [[H5127\|נָֽסָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GEBA|GEBA]] • [[topic GIBEAH|GIBEAH]] • [[topic ISAIAH|ISAIAH]] • [[topic RAMAH|RAMAH]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.28|<< Isaiah 10:28]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.30|Isaiah 10:30 >>]]</td></tr></table>
 

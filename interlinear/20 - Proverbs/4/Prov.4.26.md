@@ -1,8 +1,53 @@
+---
+title: Proverbs 4:26
+type: Verse
+kjv: "Ponder the path of thy feet, and let all thy ways be established."
+bsb: "Make a level path for your feet, and all your ways will be sure."
+hebrew: "פַּ֭לֵּס מַעְגַּ֣ל רַגְלֶ֑ךָ וְֽכָל־ דְּרָכֶ֥יךָ יִכֹּֽנוּ׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6424]]"
+- "[[H4570]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H3559H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:26**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ponder the path of thy feet, and let all thy ways be established.
 <small><sub>**BSB:**</sub></small>
 Make a level path for your feet, and all your ways will be sure.
+<small><sub>**Hebrew:**</sub></small>
+[[H6424\|פַּ֭לֵּס]] [[H4570\|מַעְגַּ֣ל]] [[H7272\|רַגְלֶ֑]][[H9021\|ךָ]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכֶ֥י]][[H9021\|ךָ]] [[H3559H\|יִכֹּֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.25|<< Proverbs 4:25]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.27|Proverbs 4:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

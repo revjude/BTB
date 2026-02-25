@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bridegroom
+type: Pericope
 pericope: "[[Song.6.4 The Bridegroom|The Bridegroom]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 6
 book/chapter: "[[Song.6|Song of Solomon 6]]"
-genre:
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 6
 verses:
 - "[[Song.6.4]]"
 - "[[Song.6.5]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Song.6.9]]"
 ---
 
-[[Song.6|Song of Solomon 6:4 - Song of Solomon 6:9]]
+<small>[[Song.6|Song of Solomon 6:4-9]]</small>
 *The Bridegroom*
 
 [[Song.6.4|4]] Thou \[art\] beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as \[an army\] with banners.

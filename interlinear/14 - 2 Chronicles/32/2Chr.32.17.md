@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 32:17
+type: Verse
+kjv: "He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand."
+bsb: "He also wrote letters mocking the LORD, the God of Israel, and saying against Him: “Just as the gods of the nations did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.”"
+hebrew: "וּסְפָרִ֣ים כָּתַ֔ב לְחָרֵ֕ף לַיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְלֵֽאמֹ֨ר עָלָ֜יו לֵאמֹ֗ר כֵּֽאלֹהֵ֞י גּוֹיֵ֤ הָאֲרָצוֹת֙ אֲשֶׁ֨ר לֹא־ הִצִּ֤ילוּ עַמָּם֙ מִיָּדִ֔י כֵּ֣ן לֹֽא־ יַצִּ֞יל אֱלֹהֵ֧י יְחִזְקִיָּ֛הוּ עַמּ֖וֹ מִיָּדִֽי׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5612A]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H2778A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0430]]"
+- "[[H1471A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5337]]"
+- "[[H5971A]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H3651C]]"
+- "[[H2396G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:17**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of [other] lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand.
 <small><sub>**BSB:**</sub></small>
 He also wrote letters mocking the LORD, the God of Israel, and saying against Him: “Just as the gods of the nations did not deliver their people from my hand, so the God of Hezekiah will not deliver His people from my hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H5612A\|סְפָרִ֣ים]] [[H3789\|כָּתַ֔ב]] [[H9005\|לְ]][[H2778A\|חָרֵ֕ף]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H9005\|לֵֽ]][[H0559\|אמֹ֨ר]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9004\|כֵּֽ]][[H0430\|אלֹהֵ֞י]] [[H1471A\|גּוֹיֵ֤]] [[H9009\|הָ]][[H0776G\|אֲרָצוֹת֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5337\|הִצִּ֤ילוּ]] [[H5971A\|עַמָּ]][[H9028\|ם֙]] [[H9006\|מִ]][[H3027H\|יָּדִ֔]][[H9020\|י]] [[H3651C\|כֵּ֣ן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5337\|יַצִּ֞יל]] [[H0430G\|אֱלֹהֵ֧י]] [[H2396G\|יְחִזְקִיָּ֛הוּ]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.16|<< 2 Chronicles 32:16]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.18|2 Chronicles 32:18 >>]]</td></tr></table>
 

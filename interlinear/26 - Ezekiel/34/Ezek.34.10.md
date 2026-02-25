@@ -1,8 +1,75 @@
+---
+title: Ezekiel 34:10
+type: Verse
+kjv: "Thus saith the Lord GOD; Behold, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them."
+bsb: "This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I will demand from them My flock and remove them from tending the flock, so that they can no longer feed themselves. For I will deliver My flock from their mouths, and it will no longer be food for them.’"
+hebrew: "כֹּה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֨י אֶֽל־ הָרֹעִ֜ים וְֽדָרַשְׁתִּ֧י אֶת־ צֹאנִ֣י מִיָּדָ֗ם וְהִשְׁבַּתִּים֙ מֵרְע֣וֹת צֹ֔אן וְלֹא־ יִרְע֥וּ ע֛וֹד הָרֹעִ֖ים אוֹתָ֑ם וְהִצַּלְתִּ֤י צֹאנִי֙ מִפִּיהֶ֔ם וְלֹֽא־ תִהְיֶ֥יןָ לָהֶ֖ם לְאָכְלָֽה׃ ס"
+pericope: "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9001]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H6629G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H7673A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5750]]"
+- "[[H5337]]"
+- "[[H6310G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0402]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 34:10**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Behold, I [am] against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I will demand from them My flock and remove them from tending the flock, so that they can no longer feed themselves. For I will deliver My flock from their mouths, and it will no longer be food for them.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הָ]][[H7462B\|רֹעִ֜ים]] [[H9001\|וְֽ]][[H1875\|דָרַשְׁתִּ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנִ֣]][[H9020\|י]] [[H9006\|מִ]][[H3027G\|יָּדָ֗]][[H9028\|ם]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּי]][[H9038\|ם֙]] [[H9006\|מֵ]][[H7462B\|רְע֣וֹת]] [[H6629G\|צֹ֔אן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7462B\|יִרְע֥וּ]] [[H5750\|ע֛וֹד]] [[H9009\|הָ]][[H7462B\|רֹעִ֖ים]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּ֤י]] [[H6629G\|צֹאנִ]][[H9020\|י֙]] [[H9006\|מִ]][[H6310G\|פִּי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|תִהְיֶ֥יןָ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.9|<< Ezekiel 34:9]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.11|Ezekiel 34:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -37,7 +104,7 @@ This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I wil
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will become  |**<big>&#8207;[[H1961\|תִהְיֶ֥יןָ]]&#8207; </big>**| tih.Yei.na<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> food  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0402\|אָכְלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'okh.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> food  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0402\|אָכְלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'okh.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.9|<< Ezekiel 34:9]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.11|Ezekiel 34:11 >>]]</td></tr></table>
 
 

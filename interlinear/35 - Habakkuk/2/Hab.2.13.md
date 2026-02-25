@@ -1,8 +1,60 @@
+---
+title: Habakkuk 2:13
+type: Verse
+kjv: "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"
+bsb: "Is it not indeed from the LORD of Hosts that the labor of the people only feeds the fire, and the nations weary themselves in vain?"
+hebrew: "הֲל֣וֹא הִנֵּ֔ה מֵאֵ֖ת יְהוָ֣ה צְבָא֑וֹת וְיִֽיגְע֤וּ עַמִּים֙ בְּדֵי־ אֵ֔שׁ וּלְאֻמִּ֖ים בְּדֵי־ רִ֥יק יִעָֽפוּ׃"
+pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2009]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H3021]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H1767]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H3816]]"
+- "[[H7385]]"
+- "[[H3286]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:13**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [is it] not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?
 <small><sub>**BSB:**</sub></small>
 Is it not indeed from the LORD of Hosts that the labor of the people only feeds the fire, and the nations weary themselves in vain?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H2009\|הִנֵּ֔ה]] [[H9006\|מֵ]][[H0854\|אֵ֖ת]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9002\|וְ]][[H3021\|יִֽיגְע֤וּ]] [[H5971A\|עַמִּים֙]] [[H9003\|בְּ]][[H1767\|דֵי]][[H9014\|־]] [[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H3816\|לְאֻמִּ֖ים]] [[H9003\|בְּ]][[H1767\|דֵי]][[H9014\|־]] [[H7385\|רִ֥יק]] [[H3286\|יִעָֽפוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.12|<< Habakkuk 2:12]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.14|Habakkuk 2:14 >>]]</td></tr></table>
 

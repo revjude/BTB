@@ -1,8 +1,75 @@
+---
+title: 1 Kings 10:29
+type: Verse
+kjv: "And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means."
+bsb: "A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram."
+hebrew: "וַֽ֠תַּעֲלֶה וַתֵּצֵ֨א מֶרְכָּבָ֤ה מִמִּצְרַ֙יִם֙ בְּשֵׁ֣שׁ מֵא֣וֹת כֶּ֔סֶף וְס֖וּס בַּחֲמִשִּׁ֣ים וּמֵאָ֑ה וְ֠כֵן לְכָל־ מַלְכֵ֧י הַחִתִּ֛ים וּלְמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם יֹצִֽאוּ׃ פ"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H3318H]]"
+- "[[H4818]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H2572]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H0758I]]"
+- "[[H3027J]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 10:29**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
 <small><sub>**BSB:**</sub></small>
 A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H5927H\|תַּעֲלֶה]] [[H9001\|וַ]][[H3318H\|תֵּצֵ֨א]] [[H4818\|מֶרְכָּבָ֤ה]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H9003\|בְּ]][[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֣וֹת]] [[H3701G\|כֶּ֔סֶף]] [[H9002\|וְ]][[H5483M\|ס֖וּס]] [[H9003\|בַּ]][[H2572\|חֲמִשִּׁ֣ים]] [[H9002\|וּ]][[H3967\|מֵאָ֑ה]] [[H9002\|וְ֠]][[H3651C\|כֵן]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4428G\|מַלְכֵ֧י]] [[H9009\|הַ]][[H2850\|חִתִּ֛ים]] [[H9002\|וּ]][[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H0758I\|אֲרָ֖ם]] [[H9003\|בְּ]][[H3027J\|יָדָ֥]][[H9028\|ם]] [[H3318H\|יֹצִֽאוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic COMMERCE|COMMERCE]] • [[topic EGYPT|EGYPT]] • [[topic EXPORTS|EXPORTS]] • [[topic HITTITES|HITTITES]] • [[topic HORSE|HORSE]] • [[topic IMPORTS|IMPORTS]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.28|<< 1 Kings 10:28]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.1|1 Kings 11:1 >>]]</td></tr></table>
 
@@ -25,7 +92,7 @@ A chariot could be imported from Egypt for six hundred shekels of silver, and a 
 | and to [the] kings of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מַלְכֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֖ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by hand their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יָדָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they brought [them] out  |**<big>&#8207;[[H3318H\|יֹצִֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Tzi.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they brought [them] out  |**<big>&#8207;[[H3318H\|יֹצִֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Tzi.'u<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.28|<< 1 Kings 10:28]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.1|1 Kings 11:1 >>]]</td></tr></table>
 
 

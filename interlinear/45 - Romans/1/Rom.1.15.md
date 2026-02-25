@@ -1,10 +1,52 @@
+---
+title: Romans 1:15
+type: Verse
+kjv: "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also."
+bsb: "That is why I am so eager to preach the gospel also to you who are in Rome."
+greek: "οὕτως τὸ κατ᾽ ἐμὲ πρόθυμον καὶ ὑμῖν τοῖς ἐν Ῥώμῃ εὐαγγελίσασθαι."
+pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ROME|ROME]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G4289]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4516]]"
+- "[[G2097]]"
+texts:
+- NKO
+---
+
 **Romans 1:15**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
 <small><sub>**BSB:**</sub></small>
 That is why I am so eager to preach the gospel also to you who are in Rome.
-<small><sub>**Literal:**</sub></small>
-Thus <the> as to me myself [there is] readiness also to you who [are] in Rome to evangelise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.14|<< Romans 1:14]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.16|Romans 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G3588\|τὸ]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμὲ]]  [[G4289\|πρόθυμον]]  [[G2532\|καὶ]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G4516\|Ῥώμῃ]]  [[G2097\|εὐαγγελίσασθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ROME|ROME]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.14|<< Romans 1:14]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.16|Romans 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

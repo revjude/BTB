@@ -1,10 +1,57 @@
+---
+title: Mark 14:33
+type: Verse
+kjv: "And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;"
+bsb: "He took with Him Peter, James, and John, and began to be deeply troubled and distressed."
+greek: "καὶ παραλαμβάνει τὸν Πέτρον καὶ τὸν Ἰάκωβον καὶ τὸν Ἰωάννην μετ᾽ αὐτοῦ καὶ ἤρξατο ἐκθαμβεῖσθαι καὶ ἀδημονεῖν."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3880]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G0757]]"
+- "[[G1568]]"
+- "[[G0085]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 14:33**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;
 <small><sub>**BSB:**</sub></small>
 He took with Him Peter, James, and John, and began to be deeply troubled and distressed.
-<small><sub>**Literal:**</sub></small>
-And He takes <the> Peter and <the> James and <the> John with Him and He began to be greatly awe-struck and to be deeply distressed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.32|<< Mark 14:32]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.34|Mark 14:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3880\|παραλαμβάνει]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2385G\|Ἰάκωβον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2491H\|Ἰωάννην]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G1568\|ἐκθαμβεῖσθαι]]  [[G2532\|καὶ]]  [[G0085\|ἀδημονεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.32|<< Mark 14:32]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.34|Mark 14:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

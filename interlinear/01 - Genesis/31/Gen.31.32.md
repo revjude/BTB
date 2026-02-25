@@ -1,8 +1,73 @@
+---
+title: Genesis 31:32
+type: Verse
+kjv: "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them."
+bsb: "If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the idols."
+hebrew: "עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת־ אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר־ לְךָ֛ מָ֥ה עִמָּדִ֖י וְקַֽח־ לָ֑ךְ וְלֹֽא־ יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+strongs:
+- "[[H5973A]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H5048]]"
+- "[[H0251H]]"
+- "[[H9025]]"
+- "[[H5234A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4100]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H9032]]"
+- "[[H3045]]"
+- "[[H3290]]"
+- "[[H3588A]]"
+- "[[H7354]]"
+- "[[H1589]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:32**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what [is] thine with me, and take [it] to thee. For Jacob knew not that Rachel had stolen them.
 <small><sub>**BSB:**</sub></small>
 If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִ֠ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|תִּמְצָ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֶי]][[H9021\|ךָ֮]] [[H3808\|לֹ֣א]] [[H2421\|יִֽחְיֶה֒]] [[H5048\|נֶ֣גֶד]] [[H0251H\|אַחֵ֧י]][[H9025\|נוּ]] [[H5234A\|הַֽכֶּר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H4100\|מָ֥ה]] [[H5978\|עִמָּדִ֖]][[H9030\|י]] [[H9002\|וְ]][[H3947G\|קַֽח]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֣ע]] [[H3290\|יַעֲקֹ֔ב]] [[H3588A\|כִּ֥י]] [[H7354\|רָחֵ֖ל]] [[H1589\|גְּנָבָֽתַ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic LABAN|LABAN]] • [[topic TERAPHIM|TERAPHIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.31|<< Genesis 31:31]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.33|Genesis 31:33 >>]]</td></tr></table>
 

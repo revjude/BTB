@@ -1,6 +1,68 @@
+---
+title: LXX Psalm 72:16
+type: Verse
+lxx: "There will be a support on the earth upon the tops of the mountains. His fruit shall be elevated above Lebanon, and of the city shall blossom as grass of the earth."
+greek: "έσται στήριγμα εν τη γη επ΄ άκρων των ορέων υπεραρθήσεται υπέρ τον Λίβανον ο καρπός αυτού και εξανθήσουσιν εκ πόλεως ωσεί χόρτος της γης"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORN|CORN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1510]]"
+- "[[G9176]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1909]]"
+- "[[G6208]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G5229]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G7296]]"
+- "[[G1537]]"
+- "[[G4172]]"
+- "[[G5616]]"
+- "[[G5528]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Psalm 72:16** 
 <small><sub>**LXX:**</sub></small>
 There will be a support on the earth upon \[the\] tops of the mountains. His fruit shall be elevated above Lebanon, and of \[the\] city shall blossom as grass of the earth. 
+<small><sub>**Greek:**</sub></small>
+[[G1510\|έσται]] [[G9176\|στήριγμα]] [[G1722\|εν]] [[G3588\|τη]] [[G1093\|γη]] [[G1909\|επ΄]] [[G6208\|άκρων]] [[G3588\|των]] [[G3735\|ορέων]] [[G5229\|υπεραρθήσεται]] [[G5228\|υπέρ]] [[G3588\|τον]] [[H3844\|Λίβανον]] [[G3588\|ο]] [[G2590\|καρπός]] [[G1473\|αυτού]] [[G2532\|και]] [[G7296\|εξανθήσουσιν]] [[G1537\|εκ]] [[G4172\|πόλεως]] [[G5616\|ωσεί]] [[G5528\|χόρτος]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic CHURCH|CHURCH]] • [[topic CORN|CORN]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.72.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.15|<< Psalm 72:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.17|Psalm 72:17 >>]]</td></tr></table>
 
@@ -29,6 +91,6 @@ There will be a support on the earth upon \[the\] tops of the mountains. His fru
 | grass | **<big>[[G5528\|χόρτος]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | earth. | **<big>[[G1093\|γης]]</big>** |
-[[Ps.72.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.15|<< Psalm 72:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.17|Psalm 72:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.15|<< Psalm 72:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.17|Psalm 72:17 >>]]</td></tr></table>
 
 

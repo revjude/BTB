@@ -1,8 +1,83 @@
+---
+title: Ezekiel 36:5
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey."
+bsb: "Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ אִם־ לֹ֠א בְּאֵ֨שׁ קִנְאָתִ֥י דִבַּ֛רְתִּי עַל־ שְׁאֵרִ֥ית הַגּוֹיִ֖ם וְעַל־ אֱד֣וֹם כֻּלָּ֑א אֲשֶׁ֣ר נָתְנֽוּ־ אֶת־ אַרְצִ֣י׀ לָ֠הֶם לְמ֨וֹרָשָׁ֜ה בְּשִׂמְחַ֤ת כָּל־ לֵבָב֙ בִּשְׁאָ֣ט נֶ֔פֶשׁ לְמַ֥עַן מִגְרָשָׁ֖הּ לָבַֽז׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H7611]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H0123G]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H9038]]"
+- "[[H4181]]"
+- "[[H8057]]"
+- "[[H3824]]"
+- "[[H7589]]"
+- "[[H5315I]]"
+- "[[H4616]]"
+- "[[H4054]]"
+- "[[H0957]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:5**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all [their] heart, with despiteful minds, to cast it out for a prey.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֠א]] [[H9003\|בְּ]][[H0784\|אֵ֨שׁ]] [[H7068\|קִנְאָתִ֥]][[H9020\|י]] [[H1696G\|דִבַּ֛רְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֥ית]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0123G\|אֱד֣וֹם]] [[H3605\|כֻּלָּ֑]][[H9024\|א]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתְנֽוּ]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצִ֣]][[H9020\|י]][[H9015\|׀]] [[H9005\|לָ֠]][[H9038\|הֶם]] [[H9005\|לְ]][[H4181\|מ֨וֹרָשָׁ֜ה]] [[H9003\|בְּ]][[H8057\|שִׂמְחַ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3824\|לֵבָב֙]] [[H9003\|בִּ]][[H7589\|שְׁאָ֣ט]] [[H5315I\|נֶ֔פֶשׁ]] [[H4616\|לְמַ֥עַן]] [[H4054\|מִגְרָשָׁ֖]][[H9024\|הּ]] [[H9005\|לָ]][[H0957\|בַֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.4|<< Ezekiel 36:4]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.6|Ezekiel 36:6 >>]]</td></tr></table>
 

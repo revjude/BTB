@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 21:6
+type: Verse
+kjv: "And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:"
+bsb: "Then all the elders of the city nearest the victim shall wash their hands by the stream over the heifer whose neck has been broken,"
+hebrew: "וְכֹ֗ל זִקְנֵי֙ הָעִ֣יר הַהִ֔וא הַקְּרֹבִ֖ים אֶל־ הֶחָלָ֑ל יִרְחֲצוּ֙ אֶת־ יְדֵיהֶ֔ם עַל־ הָעֶגְלָ֖ה הָעֲרוּפָ֥ה בַנָּֽחַל׃"
+pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+- "[[topic INQUEST|INQUEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic WASHING|WASHING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2205G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1931]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2491A]]"
+- "[[H7364]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H5697A]]"
+- "[[H6202]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:6**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the elders of that city, [that are] next unto the slain [man], shall wash their hands over the heifer that is beheaded in the valley:
 <small><sub>**BSB:**</sub></small>
 Then all the elders of the city nearest the victim shall wash their hands by the stream over the heifer whose neck has been broken,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H2205G\|זִקְנֵי֙]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9009\|הַ]][[H7138\|קְּרֹבִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2491A\|חָלָ֑ל]] [[H7364\|יִרְחֲצוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5697A\|עֶגְלָ֖ה]] [[H9009\|הָ]][[H6202\|עֲרוּפָ֥ה]] [[H9003\|בַ]][[H5158N\|נָּֽחַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INNOCENCY|INNOCENCY]] • [[topic INQUEST|INQUEST]] • [[topic PURIFICATION|PURIFICATION]] • [[topic WASHING|WASHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.5|<< Deuteronomy 21:5]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.7|Deuteronomy 21:7 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 22:36
+type: Verse
+kjv: "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country."
+bsb: "As the sun was setting, the cry rang out in the army: “Every man to his own city, and every man to his own land!”"
+hebrew: "וַיַּעֲבֹ֤ר הָרִנָּה֙ בַּֽמַּחֲנֶ֔ה כְּבֹ֥א הַשֶּׁ֖מֶשׁ לֵאמֹ֑ר אִ֥ישׁ אֶל־ עִיר֖וֹ וְאִ֥ישׁ אֶל־ אַרְצֽוֹ׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H7440]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H9004]]"
+- "[[H0935K]]"
+- "[[H8121]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:36**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.
 <small><sub>**BSB:**</sub></small>
 As the sun was setting, the cry rang out in the army: “Every man to his own city, and every man to his own land!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֤ר]] [[H9009\|הָ]][[H7440\|רִנָּה֙]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9004\|כְּ]][[H0935K\|בֹ֥א]] [[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.35|<< 1 Kings 22:35]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.37|1 Kings 22:37 >>]]</td></tr></table>
 

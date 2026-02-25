@@ -1,8 +1,68 @@
+---
+title: Ezekiel 34:25
+type: Verse
+kjv: "And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods."
+bsb: "I will make with them a covenant of peace and rid the land of wild animals, so that they may dwell securely in the wilderness and sleep in the forest."
+hebrew: "וְכָרַתִּ֤י לָהֶם֙ בְּרִ֣ית שָׁל֔וֹם וְהִשְׁבַּתִּ֥י חַיָּֽה־ רָעָ֖ה מִן־ הָאָ֑רֶץ וְיָשְׁב֤וּ בַמִּדְבָּר֙ לָבֶ֔טַח וְיָשְׁנ֖וּ בַּיְּעָרִֽים׃"
+pericope: "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H7965G]]"
+- "[[H7673A]]"
+- "[[H2416C]]"
+- "[[H9014]]"
+- "[[H7451A]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0983]]"
+- "[[H3462]]"
+- "[[H3293A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:25**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods.
 <small><sub>**BSB:**</sub></small>
 I will make with them a covenant of peace and rid the land of wild animals, so that they may dwell securely in the wilderness and sleep in the forest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772H\|כָרַתִּ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1285\|בְּרִ֣ית]] [[H7965G\|שָׁל֔וֹם]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֥י]] [[H2416C\|חַיָּֽה]][[H9014\|־]] [[H7451A\|רָעָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H3427\|יָשְׁב֤וּ]] [[H9003\|בַ]][[H4057B\|מִּדְבָּר֙]] [[H9005\|לָ]][[H0983\|בֶ֔טַח]] [[H9001\|וְ]][[H3462\|יָשְׁנ֖וּ]] [[H9003\|בַּ]][[H3293A\|יְּעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.24|<< Ezekiel 34:24]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.26|Ezekiel 34:26 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: Mark 3:23
+type: Verse
+kjv: "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?"
+bsb: "So Jesus called them together and began to speak to them in parables: “How can Satan drive out Satan?"
+jesus_said: "How can Satan cast out Satan?"
+greek: "Καὶ προσκαλεσάμενος αὐτοὺς ἐν παραβολαῖς ἔλεγεν αὐτοῖς· πῶς δύναται σατανᾶς σατανᾶν ἐκβάλλειν;"
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G3004G]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G4567]]"
+- "[[G1544]]"
+texts:
+- NKO
+---
+
 **Mark 3:23**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called them [unto him], and said unto them in parables, How can Satan cast out Satan?
 <small><sub>**BSB:**</sub></small>
 So Jesus called them together and began to speak to them in parables: “How can Satan drive out Satan?
-<small><sub>**Literal:**</sub></small>
-And having called to [Him] them in parables He was speaking to them: How is able Satan Satan to cast out?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.22|<< Mark 3:22]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.24|Mark 3:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G4459\|πῶς]]  [[G1410\|δύναται]]  [[G4567\|σατανᾶς]]  [[G4567\|σατανᾶν]]  [[G1544\|ἐκβάλλειν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.22|<< Mark 3:22]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.24|Mark 3:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

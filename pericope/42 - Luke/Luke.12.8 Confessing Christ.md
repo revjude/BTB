@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Confessing Christ
+type: Pericope
 pericope: "[[Luke.12.8 Confessing Christ|Confessing Christ]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.12.8]]"
 - "[[Luke.12.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.12.12]]"
 ---
 
-[[Luke.12|Luke 12:8 - Luke 12:12]]
+<small>[[Luke.12|Luke 12:8-12]]</small>
 *Confessing Christ*
 
 [[Luke.12.8|8]] Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:

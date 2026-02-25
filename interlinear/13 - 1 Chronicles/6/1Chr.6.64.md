@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 6:64
+type: Verse
+kjv: "And the children of Israel gave to the Levites these cities with their suburbs."
+bsb: "So the Israelites gave to the Levites these cities and their pasturelands."
+hebrew: "וַיִּתְּנ֥וּ בְנֵי־ יִשְׂרָאֵ֖ל לַלְוִיִּ֑ם אֶת־ הֶעָרִ֖ים וְאֶת־ מִגְרְשֵׁיהֶֽם׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:64**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel gave to the Levites [these] cities with their suburbs.
 <small><sub>**BSB:**</sub></small>
 So the Israelites gave to the Levites these cities and their pasturelands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנ֥וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרְשֵׁי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.63|<< 1 Chronicles 6:63]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.65|1 Chronicles 6:65 >>]]</td></tr></table>
 

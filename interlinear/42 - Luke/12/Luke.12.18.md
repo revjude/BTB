@@ -1,10 +1,68 @@
+---
+title: Luke 12:18
+type: Verse
+kjv: "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+bsb: "Then he said, ‘This is what I will do: I will tear down my barns and will build bigger ones, and there I will store up all my grain and my goods."
+jesus_said: "And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods."
+greek: "καὶ εἶπεν· τοῦτο ποιήσω· καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω καὶ συνάξω ἐκεῖ πάντα τὸν σῖτον μου καὶ τὰ ἀγαθά μου"
+pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARN|BARN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-INDULGENCE|SELF-INDULGENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G2507]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G0596]]"
+- "[[G3173]]"
+- "[[G3618]]"
+- "[[G4863]]"
+- "[[G1563]]"
+- "[[G3956]]"
+- "[[G4621]]"
+- "[[G0018]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 12:18**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.
 <small><sub>**BSB:**</sub></small>
 Then he said, ‘This is what I will do: I will tear down my barns and will build bigger ones, and there I will store up all my grain and my goods.
-<small><sub>**Literal:**</sub></small>
-And he said; This will I do: I will tear down my <the> barns and greater will build and will store up there all the grain of mine and the goods of mine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.17|<< Luke 12:17]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.19|Luke 12:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιήσω·]]  [[G2507\|καθελῶ]]  [[G3165\|μου]]  [[G3588\|τὰς]]  [[G0596\|ἀποθήκας]]  [[G2532\|καὶ]]  [[G3173\|μείζονας]]  [[G3618\|οἰκοδομήσω]]  [[G2532\|καὶ]]  [[G4863\|συνάξω]]  [[G1563\|ἐκεῖ]]  [[G3956\|πάντα]]  [[G3588\|τὸν]]  [[G4621\|σῖτον]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0018\|ἀγαθά]]  [[G3165\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARN|BARN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FOOL|FOOL]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RICH, THE|RICH, THE]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-INDULGENCE|SELF-INDULGENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.17|<< Luke 12:17]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.19|Luke 12:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

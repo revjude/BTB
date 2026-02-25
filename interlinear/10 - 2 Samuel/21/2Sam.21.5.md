@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 21:5
+type: Verse
+kjv: "And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel,"
+bsb: "And they answered the king, “As for the man who consumed us and plotted against us to exterminate us from existing within any border of Israel,"
+hebrew: "וַיֹּֽאמְרוּ֙ אֶל־ הַמֶּ֔לֶךְ הָאִישׁ֙ אֲשֶׁ֣ר כִּלָּ֔נוּ וַאֲשֶׁ֖ר דִּמָּה־ לָ֑נוּ נִשְׁמַ֕דְנוּ מֵֽהִתְיַצֵּ֖ב בְּכָל־ גְּבֻ֥ל יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H3615H]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1819]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H9006]]"
+- "[[H3320]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 21:5**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered the king, The man that consumed us, and that devised against us [that] we should be destroyed from remaining in any of the coasts of Israel,
 <small><sub>**BSB:**</sub></small>
 And they answered the king, “As for the man who consumed us and plotted against us to exterminate us from existing within any border of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3615H\|כִּלָּ֔]][[H9035\|נוּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֖ר]] [[H1819\|דִּמָּה]][[H9014\|־]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H8045\|נִשְׁמַ֕דְנוּ]] [[H9006\|מֵֽ]][[H3320\|הִתְיַצֵּ֖ב]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבֻ֥ל]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GIBEON|GIBEON]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.4|<< 2 Samuel 21:4]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.6|2 Samuel 21:6 >>]]</td></tr></table>
 

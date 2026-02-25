@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Glory Exits the Temple
+type: Pericope
 pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 10
 book/chapter: "[[Ezek.10|Ezekiel 10]]"
-genre:
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 22
 verses:
 - "[[Ezek.10.1]]"
 - "[[Ezek.10.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Ezek.10.22]]"
 ---
 
-[[Ezek.10|Ezekiel 10:1 - Ezekiel 10:22]]
+<small>[[Ezek.10|Ezekiel 10:1-22]]</small>
 *God’s Glory Exits the Temple*
 
 [[Ezek.10.1|1]] Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.

@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 29:21
+type: Verse
+kjv: "And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:"
+bsb: "The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel."
+hebrew: "וַיִּזְבְּח֣וּ לַיהוָ֣ה׀ זְ֠בָחִים וַיַּעֲל֨וּ עֹל֜וֹת לַיהוָ֗ה לְֽמָחֳרַת֮ הַיּ֣וֹם הַהוּא֒ פָּרִ֨ים אֶ֜לֶף אֵילִ֥ים אֶ֛לֶף כְּבָשִׂ֥ים אֶ֖לֶף וְנִסְכֵּיהֶ֑ם וּזְבָחִ֥ים לָרֹ֖ב לְכָל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.29.21 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H2077]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H4283]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H6499]]"
+- "[[H0505G]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9028]]"
+- "[[H7230]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:21**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, [even] a thousand bullocks, a thousand rams, [and] a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:
 <small><sub>**BSB:**</sub></small>
 The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבְּח֣וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]][[H9015\|׀]] [[H2077\|זְ֠בָחִים]] [[H9001\|וַ]][[H5927I\|יַּעֲל֨וּ]] [[H5930A\|עֹל֜וֹת]] [[H9005\|לַ]][[H3068G\|יהוָ֗ה]] [[H9005\|לְֽ]][[H4283\|מָחֳרַת֮]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|הוּא֒]] [[H6499\|פָּרִ֨ים]] [[H0505G\|אֶ֜לֶף]] [[H0352A\|אֵילִ֥ים]] [[H0505G\|אֶ֛לֶף]] [[H3532\|כְּבָשִׂ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֑ם]] [[H9002\|וּ]][[H2077\|זְבָחִ֥ים]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.20|<< 1 Chronicles 29:20]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.22|1 Chronicles 29:22 >>]]</td></tr></table>
 

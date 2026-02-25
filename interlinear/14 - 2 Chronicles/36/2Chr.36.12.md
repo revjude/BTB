@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 36:12
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD."
+bsb: "And he did evil in the sight of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke for the LORD."
+hebrew: "וַיַּ֣עַשׂ הָרַ֔ע בְּעֵינֵ֖י יְהוָ֣ה אֱלֹהָ֑יו לֹ֣א נִכְנַ֗ע מִלִּפְנֵ֛י יִרְמְיָ֥הוּ הַנָּבִ֖יא מִפִּ֥י יְהוָֽה׃"
+pericope: "[[2Chr.36.11 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3665]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:12**<big><big>[[2Chr.36.11 Zedekiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD his God, [and] humbled not himself before Jeremiah the prophet [speaking] from the mouth of the LORD.
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke for the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֔ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֖י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H3665\|נִכְנַ֗ע]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֛י]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9006\|מִ]][[H6310G\|פִּ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic PROPHETS|PROPHETS]] • [[topic RULERS|RULERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.11|<< 2 Chronicles 36:11]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.13|2 Chronicles 36:13 >>]]</td></tr></table>
 

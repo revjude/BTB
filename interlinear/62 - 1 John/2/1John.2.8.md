@@ -1,10 +1,62 @@
+---
+title: 1 John 2:8
+type: Verse
+kjv: "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth."
+bsb: "Then again, I am also writing to you a new commandment, which is true in Him and also in you. For the darkness is fading and the true light is already shining."
+greek: "πάλιν ἐντολὴν καινὴν γράφω ὑμῖν ὅ ἐστιν ἀληθὲς ἐν αὐτῷ καὶ ἐν ὑμῖν, ὅτι ἡ σκοτία παράγεται καὶ τὸ φῶς τὸ ἀληθινὸν ἤδη φαίνει."
+pericope: "[[1John.2.7 A New Commandment|A New Commandment]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3825]]"
+- "[[G1785]]"
+- "[[G2537]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G0227]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G4653]]"
+- "[[G3855]]"
+- "[[G5457]]"
+- "[[G0228]]"
+- "[[G2235]]"
+- "[[G5316]]"
+texts:
+- NKO
+---
+
 **1 John 2:8**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.
 <small><sub>**BSB:**</sub></small>
 Then again, I am also writing to you a new commandment, which is true in Him and also in you. For the darkness is fading and the true light is already shining.
-<small><sub>**Literal:**</sub></small>
-Again a commandment new I am writing to you which is true in Him and in you, because the darkness is passing away and the light <the> true already shines.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.7|<< 1 John 2:7]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.9|1 John 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|πάλιν]]  [[G1785\|ἐντολὴν]]  [[G2537\|καινὴν]]  [[G1125\|γράφω]]  [[G4771\|ὑμῖν]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G0227\|ἀληθὲς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3754H\|ὅτι]]  [[G3588\|ἡ]]  [[G4653\|σκοτία]]  [[G3855\|παράγεται]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G3588\|τὸ]]  [[G0228\|ἀληθινὸν]]  [[G2235\|ἤδη]]  [[G5316\|φαίνει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic GOSPEL|GOSPEL]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.7|<< 1 John 2:7]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.9|1 John 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

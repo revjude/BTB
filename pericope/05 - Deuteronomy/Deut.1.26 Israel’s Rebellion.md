@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Rebellion
+type: Pericope
 pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.1.26]]"
 - "[[Deut.1.27]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.1.33]]"
 ---
 
-[[Deut.1|Deuteronomy 1:26 - Deuteronomy 1:33]]
+<small>[[Deut.1|Deuteronomy 1:26-33]]</small>
 *Israel’s Rebellion*
 
 [[Deut.1.26|26]] Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Justice and Mercy
+type: Pericope
 pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 7
 book/chapter: "[[Zech.7|Zechariah 7]]"
-genre:
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 14
 verses:
 - "[[Zech.7.1]]"
 - "[[Zech.7.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Zech.7.14]]"
 ---
 
-[[Zech.7|Zechariah 7:1 - Zechariah 7:14]]
+<small>[[Zech.7|Zechariah 7:1-14]]</small>
 *A Call to Justice and Mercy*
 
 [[Zech.7.1|1]] And it came to pass in the fourth year of king Darius, \[that\] the word of the LORD came unto Zechariah in the fourth \[day\] of the ninth month, \[even\] in Chisleu;

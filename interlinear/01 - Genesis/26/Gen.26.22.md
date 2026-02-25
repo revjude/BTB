@@ -1,8 +1,81 @@
+---
+title: Genesis 26:22
+type: Verse
+kjv: "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land."
+bsb: "He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”"
+hebrew: "וַיַּעְתֵּ֣ק מִשָּׁ֗ם וַיַּחְפֹּר֙ בְּאֵ֣ר אַחֶ֔רֶת וְלֹ֥א רָב֖וּ עָלֶ֑יהָ וַיִּקְרָ֤א שְׁמָהּ֙ רְחֹב֔וֹת וַיֹּ֗אמֶר כִּֽי־ עַתָּ֞ה הִרְחִ֧יב יְהוָ֛ה לָ֖נוּ וּפָרִ֥ינוּ בָאָֽרֶץ׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GERAR|GERAR]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REHOBOTH|REHOBOTH]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6275]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2658]]"
+- "[[H0875]]"
+- "[[H0312]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7378]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H7344G]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H7337]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H6509]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:22**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land.
 <small><sub>**BSB:**</sub></small>
 He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6275\|יַּעְתֵּ֣ק]] [[H9006\|מִ]][[H8033G\|שָּׁ֗ם]] [[H9001\|וַ]][[H2658\|יַּחְפֹּר֙]] [[H0875\|בְּאֵ֣ר]] [[H0312\|אַחֶ֔רֶת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7378\|רָב֖וּ]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֤א]] [[H8034\|שְׁמָ]][[H9024\|הּ֙]] [[H7344G\|רְחֹב֔וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַתָּ֞ה]] [[H7337\|הִרְחִ֧יב]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9001\|וּ]][[H6509\|פָרִ֥ינוּ]] [[H9003\|בָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GERAR|GERAR]] • [[topic ISAAC|ISAAC]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic PROPERTY|PROPERTY]] • [[topic REHOBOTH|REHOBOTH]] • [[topic STRIFE|STRIFE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.21|<< Genesis 26:21]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.23|Genesis 26:23 >>]]</td></tr></table>
 

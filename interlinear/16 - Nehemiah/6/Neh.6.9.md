@@ -1,8 +1,64 @@
+---
+title: Nehemiah 6:9
+type: Verse
+kjv: "For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands."
+bsb: "For they were all trying to frighten us, saying, “Their hands will be weakened in the work, and it will never be finished.” But now, my God, strengthen my hands."
+hebrew: "כִּ֣י כֻלָּ֗ם מְיָֽרְאִ֤ים אוֹתָ֙נוּ֙ לֵאמֹ֔ר יִרְפּ֧וּ יְדֵיהֶ֛ם מִן־ הַמְּלָאכָ֖ה וְלֹ֣א תֵעָשֶׂ֑ה וְעַתָּ֖ה חַזֵּ֥ק אֶת־ יָדָֽי׃"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3372G]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7503]]"
+- "[[H3027G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H6258]]"
+- "[[H2388G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:9**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, [O God], strengthen my hands.
 <small><sub>**BSB:**</sub></small>
 For they were all trying to frighten us, saying, “Their hands will be weakened in the work, and it will never be finished.” But now, my God, strengthen my hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3605\|כֻלָּ֗]][[H9028\|ם]] [[H3372G\|מְיָֽרְאִ֤ים]] [[H0853\|אוֹתָ֙]][[H9035\|נוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7503\|יִרְפּ֧וּ]] [[H3027G\|יְדֵי]][[H9028\|הֶ֛ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6213A\|תֵעָשֶׂ֑ה]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H2388G\|חַזֵּ֥ק]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.8|<< Nehemiah 6:8]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.10|Nehemiah 6:10 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: John 12:30
+type: Verse
+kjv: "Jesus answered and said, This voice came not because of me, but for your sakes."
+bsb: "In response, Jesus said, “This voice was not for My benefit, but yours."
+jesus_said: "This voice came not because of me, but for your sakes."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν· οὐ δι᾽ ἐμὲ ἡ φωνὴ αὕτη γέγονεν ἀλλὰ δι᾽ ὑμᾶς."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G5456G]]"
+- "[[G3778]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **John 12:30**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said, This voice came not because of me, but for your sakes.
 <small><sub>**BSB:**</sub></small>
 In response, Jesus said, “This voice was not for My benefit, but yours.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said: Not because of Me myself <the> voice this has come but because of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.29|<< John 12:29]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.31|John 12:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐ]]  [[G1223\|δι᾽]]  [[G1473\|ἐμὲ]]  [[G3588\|ἡ]]  [[G5456G\|φωνὴ]]  [[G3778\|αὕτη]]  [[G1096\|γέγονεν]]  [[G0235\|ἀλλὰ]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOICE|VOICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.29|<< John 12:29]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.31|John 12:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

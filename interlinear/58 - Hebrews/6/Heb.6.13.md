@@ -1,10 +1,56 @@
+---
+title: Hebrews 6:13
+type: Verse
+kjv: "For when God made promise to Abraham, because he could swear by no greater, he sware by himself,"
+bsb: "When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself,"
+greek: "τῷ γὰρ Ἀβραὰμ ἐπαγγειλάμενος ὁ θεός, ἐπεὶ κατ᾽ οὐδενὸς εἶχεν μείζονος ὀμόσαι, ὤμοσεν καθ᾽ ἑαυτοῦ"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G0011]]"
+- "[[G1861]]"
+- "[[G2316]]"
+- "[[G1893]]"
+- "[[G2596]]"
+- "[[G3762]]"
+- "[[G2192]]"
+- "[[G3173]]"
+- "[[G3660]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:13**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when God made promise to Abraham, because he could swear by no greater, he sware by himself,
 <small><sub>**BSB:**</sub></small>
 When God made His promise to Abraham, since He had no one greater to swear by, He swore by Himself,
-<small><sub>**Literal:**</sub></small>
-<the> For to Abraham having made His promise <the> God, since by no [one] He had greater to swear, He swore by Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.12|<< Hebrews 6:12]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.14|Hebrews 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G1063\|γὰρ]]  [[G0011\|Ἀβραὰμ]]  [[G1861\|ἐπαγγειλάμενος]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G1893\|ἐπεὶ]]  [[G2596\|κατ᾽]]  [[G3762\|οὐδενὸς]]  [[G2192\|εἶχεν]]  [[G3173\|μείζονος]]  [[G3660\|ὀμόσαι,]]  [[G3660\|ὤμοσεν]]  [[G2596\|καθ᾽]]  [[G1438\|ἑαυτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COVENANT|COVENANT]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic OATH|OATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.12|<< Hebrews 6:12]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.14|Hebrews 6:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 6:13** is...
 > $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]

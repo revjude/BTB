@@ -1,8 +1,59 @@
+---
+title: Lamentations 4:7
+type: Verse
+kjv: "Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:"
+bsb: "Her dignitaries were brighter than snow, whiter than milk; their bodies were more ruddy than rubies, their appearance like sapphires."
+hebrew: "זַכּ֤וּ נְזִירֶ֙יהָ֙ מִשֶּׁ֔לֶג צַח֖וּ מֵחָלָ֑ב אָ֤דְמוּ עֶ֙צֶם֙ מִפְּנִינִ֔ים סַפִּ֖יר גִּזְרָתָֽם׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic RUBY|RUBY]]"
+- "[[topic SNOW|SNOW]]"
+strongs:
+- "[[H2141]]"
+- "[[H5139]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H7950]]"
+- "[[H6705]]"
+- "[[H2461]]"
+- "[[H0119]]"
+- "[[H6106I]]"
+- "[[H6443]]"
+- "[[H5601]]"
+- "[[H1508]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 4:7**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing [was] of sapphire:
 <small><sub>**BSB:**</sub></small>
 Her dignitaries were brighter than snow, whiter than milk; their bodies were more ruddy than rubies, their appearance like sapphires.
+<small><sub>**Hebrew:**</sub></small>
+[[H2141\|זַכּ֤וּ]] [[H5139\|נְזִירֶ֙י]][[H9024\|הָ֙]] [[H9006\|מִ]][[H7950\|שֶּׁ֔לֶג]] [[H6705\|צַח֖וּ]] [[H9006\|מֵ]][[H2461\|חָלָ֑ב]] [[H0119\|אָ֤דְמוּ]] [[H6106I\|עֶ֙צֶם֙]] [[H9006\|מִ]][[H6443\|פְּנִינִ֔ים]] [[H5601\|סַפִּ֖יר]] [[H1508\|גִּזְרָתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic RUBY|RUBY]] • [[topic SNOW|SNOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
@@ -17,7 +68,7 @@ Her dignitaries were brighter than snow, whiter than milk; their bodies were mor
 | bone  |**<big>&#8207;[[H6106I\|עֶ֙צֶם֙]]&#8207; </big>**| 'e.tzem<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than corals  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6443\|פְּנִינִ֔ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.ni.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] sapphire  |**<big>&#8207;[[H5601\|סַפִּ֖יר]]&#8207; </big>**| sa.Pir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| polishing their  |**<big>&#8207;[[H1508\|גִּזְרָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| giz.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| polishing their  |**<big>&#8207;[[H1508\|גִּזְרָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| giz.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
 

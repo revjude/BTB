@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Decree of Darius
+type: Pericope
 pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
-verse_count: 12
+original_language: Aramaic
 testament: Old
 book: Ezra
 chapter: 6
 book/chapter: "[[Ezra.6|Ezra 6]]"
-genre:
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 12
 verses:
 - "[[Ezra.6.1]]"
 - "[[Ezra.6.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezra.6.12]]"
 ---
 
-[[Ezra.6|Ezra 6:1 - Ezra 6:12]]
+<small>[[Ezra.6|Ezra 6:1-12]]</small>
 *The Decree of Darius*
 
 [[Ezra.6.1|1]] Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.

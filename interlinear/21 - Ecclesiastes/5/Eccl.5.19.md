@@ -1,8 +1,72 @@
+---
+title: Ecclesiastes 5:19
+type: Verse
+kjv: "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God."
+bsb: "Furthermore, God has given riches and wealth to every man, and He has enabled him to enjoy them, to accept his lot, and to rejoice in his labor. This is a gift from God."
+hebrew: "גַּ֣ם כָּֽל־ הָאָדָ֡ם אֲשֶׁ֣ר נָֽתַן־ ל֣וֹ הָאֱלֹהִים֩ עֹ֨שֶׁר וּנְכָסִ֜ים וְהִשְׁלִיט֨וֹ לֶאֱכֹ֤ל מִמֶּ֙נּוּ֙ וְלָשֵׂ֣את אֶת־ חֶלְק֔וֹ וְלִשְׂמֹ֖חַ בַּעֲמָל֑וֹ זֹ֕ה מַתַּ֥ת אֱלֹהִ֖ים הִֽיא׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H5233]]"
+- "[[H9001]]"
+- "[[H7980]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H2506A]]"
+- "[[H9023]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H5999]]"
+- "[[H2090]]"
+- "[[H4991]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:19**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this [is] the gift of God.
 <small><sub>**BSB:**</sub></small>
 Furthermore, God has given riches and wealth to every man, and He has enabled him to enjoy them, to accept his lot, and to rejoice in his labor. This is a gift from God.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֡ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֩]] [[H6239\|עֹ֨שֶׁר]] [[H9002\|וּ]][[H5233\|נְכָסִ֜ים]] [[H9001\|וְ]][[H7980\|הִשְׁלִיט֨]][[H9033\|וֹ]] [[H9005\|לֶ]][[H0398\|אֱכֹ֤ל]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H9002\|וְ]][[H9005\|לָ]][[H5375H\|שֵׂ֣את]] [[H0853\|אֶת]][[H9014\|־]] [[H2506A\|חֶלְק֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|לִ]][[H8055\|שְׂמֹ֖חַ]] [[H9003\|בַּ]][[H5999\|עֲמָל֑]][[H9023\|וֹ]] [[H2090\|זֹ֕ה]] [[H4991\|מַתַּ֥ת]] [[H0430G\|אֱלֹהִ֖ים]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.18|<< Ecclesiastes 5:18]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.20|Ecclesiastes 5:20 >>]]</td></tr></table>
 

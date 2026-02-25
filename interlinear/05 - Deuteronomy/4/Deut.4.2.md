@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 4:2
+type: Verse
+kjv: "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you."
+bsb: "You must not add to or subtract from what I command you, so that you may keep the commandments of the LORD your God that I am giving you."
+hebrew: "לֹ֣א תֹסִ֗פוּ עַל־ הַדָּבָר֙ אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם וְלֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ לִשְׁמֹ֗ר אֶת־ מִצְוֹת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֥ה אֶתְכֶֽם׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H1639]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:2**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not add unto the word which I command you, neither shall ye diminish [ought] from it, that ye may keep the commandments of the LORD your God which I command you.
 <small><sub>**BSB:**</sub></small>
 You must not add to or subtract from what I command you, so that you may keep the commandments of the LORD your God that I am giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H3254H\|תֹסִ֗פוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H0595\|אָנֹכִי֙]] [[H6680\|מְצַוֶּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1639\|תִגְרְע֖וּ]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9005\|לִ]][[H8104G\|שְׁמֹ֗ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹת֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.1|<< Deuteronomy 4:1]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.3|Deuteronomy 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

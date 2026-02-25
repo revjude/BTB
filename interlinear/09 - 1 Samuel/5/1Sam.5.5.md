@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 5:5
+type: Verse
+kjv: "Therefore neither the priests of Dagon, nor any that come into Dagon’s house, tread on the threshold of Dagon in Ashdod unto this day."
+bsb: "That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold."
+hebrew: "עַל־ כֵּ֡ן לֹֽא־ יִדְרְכוּ֩ כֹהֲנֵ֨י דָג֜וֹן וְכָֽל־ הַבָּאִ֧ים בֵּית־ דָּג֛וֹן עַל־ מִפְתַּ֥ן דָּג֖וֹן בְּאַשְׁדּ֑וֹד עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ ס"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H1869]]"
+- "[[H3548]]"
+- "[[H1712]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H1004Q]]"
+- "[[H4670]]"
+- "[[H9003]]"
+- "[[H0795]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 5:5**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore neither the priests of Dagon, nor any that come into Dagon’s house, tread on the threshold of Dagon in Ashdod unto this day.
 <small><sub>**BSB:**</sub></small>
 That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1869\|יִדְרְכוּ֩]] [[H3548\|כֹהֲנֵ֨י]] [[H1712\|דָג֜וֹן]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּאִ֧ים]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H1712\|דָּג֛וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H4670\|מִפְתַּ֥ן]] [[H1712\|דָּג֖וֹן]] [[H9003\|בְּ]][[H0795\|אַשְׁדּ֑וֹד]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.4|<< 1 Samuel 5:4]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.6|1 Samuel 5:6 >>]]</td></tr></table>
 
@@ -24,7 +76,7 @@ That is why, to this day, the priests of Dagon and all who enter the temple of D
 | in Ashdod  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0795\|אַשְׁדּ֑וֹד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ash.Dod<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.4|<< 1 Samuel 5:4]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.6|1 Samuel 5:6 >>]]</td></tr></table>
 
 

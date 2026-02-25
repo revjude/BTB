@@ -1,10 +1,70 @@
+---
+title: Acts 8:1
+type: Verse
+kjv: "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles."
+bsb: "And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria."
+greek: "Σαῦλος δὲ ἦν συνευδοκῶν τῇ ἀναιρέσει αὐτοῦ.¶ Ἐγένετο δὲ ἐν ἐκείνῃ τῇ ἡμέρᾳ διωγμὸς μέγας ἐπὶ τὴν ἐκκλησίαν τὴν ἐν Ἱεροσολύμοις· πάντες δὲ διεσπάρησαν κατὰ τὰς χώρας τῆς Ἰουδαίας καὶ Σαμαρείας πλὴν τῶν ἀποστόλων.¶"
+pericope: "[[Acts.8.1 Saul Persecutes the Church|Saul Persecutes the Church]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic STEPHEN|STEPHEN]]"
+strongs:
+- "[[G4569G]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G4909]]"
+- "[[G3588]]"
+- "[[G0336]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G2250]]"
+- "[[G1375]]"
+- "[[G3173]]"
+- "[[G1909]]"
+- "[[G1577]]"
+- "[[G2414]]"
+- "[[G3956]]"
+- "[[G1289]]"
+- "[[G2596]]"
+- "[[G5561]]"
+- "[[G2449]]"
+- "[[G2532]]"
+- "[[G4540]]"
+- "[[G4133]]"
+- "[[G0652]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 8:1**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 <small><sub>**BSB:**</sub></small>
 And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.
-<small><sub>**Literal:**</sub></small>
-Saul now was there consenting to the killing of him. Arose then on that [very] <the> day a persecution great against the church which [was] in Jerusalem; All then were scattered throughout the regions <the> of Judea and Samaria except the apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.60|<< Acts 7:60]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.2|Acts 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4569G\|Σαῦλος]]  [[G1161\|δὲ]]  [[G1510\|ἦν]]  [[G4909\|συνευδοκῶν]]  [[G3588\|τῇ]]  [[G0336\|ἀναιρέσει]]  [[G0846\|αὐτοῦ.¶]]  [[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1375\|διωγμὸς]]  [[G3173\|μέγας]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G3588\|τὴν]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις·]]  [[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G1289\|διεσπάρησαν]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G5561\|χώρας]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G4540\|Σαμαρείας]]  [[G4133\|πλὴν]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic STEPHEN|STEPHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.60|<< Acts 7:60]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.2|Acts 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

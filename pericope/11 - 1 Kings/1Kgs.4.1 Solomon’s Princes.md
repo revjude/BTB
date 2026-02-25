@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Princes
+type: Pericope
 pericope: "[[1Kgs.4.1 Solomon’s Princes|Solomon’s Princes]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 4
 book/chapter: "[[1Kgs.4|1 Kings 4]]"
-genre:
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.4.1]]"
 - "[[1Kgs.4.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.4.6]]"
 ---
 
-[[1Kgs.4|1 Kings 4:1 - 1 Kings 4:6]]
+<small>[[1Kgs.4|1 Kings 4:1-6]]</small>
 *Solomon’s Princes*
 
 [[1Kgs.4.1|1]] So king Solomon was king over all Israel.

@@ -1,8 +1,56 @@
+---
+title: Psalm 106:40
+type: Verse
+kjv: "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance."
+bsb: "So the anger of the LORD burned against His people, and He abhorred His own inheritance."
+hebrew: "וַיִּֽחַר־ אַ֣ף יְהוָ֣ה בְּעַמּ֑וֹ וַ֝יְתָעֵ֗ב אֶת־ נַחֲלָתֽוֹ׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H8581]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:40**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.
 <small><sub>**BSB:**</sub></small>
 So the anger of the LORD burned against His people, and He abhorred His own inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֣ף]] [[H3068G\|יְהוָ֣ה]] [[H9003\|בְּ]][[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9001\|וַ֝]][[H8581\|יְתָעֵ֗ב]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.39|<< Psalms 106:39]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.41|Psalms 106:41 >>]]</td></tr></table>
 

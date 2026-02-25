@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day the Sun Stood Still
+type: Pericope
 pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 10
 book/chapter: "[[Josh.10|Joshua 10]]"
-genre:
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 15
 verses:
 - "[[Josh.10.1]]"
 - "[[Josh.10.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Josh.10.15]]"
 ---
 
-[[Josh.10|Joshua 10:1 - Joshua 10:15]]
+<small>[[Josh.10|Joshua 10:1-15]]</small>
 *The Day the Sun Stood Still*
 
 [[Josh.10.1|1]] Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;

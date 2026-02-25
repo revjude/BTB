@@ -1,8 +1,69 @@
+---
+title: Jeremiah 19:5
+type: Verse
+kjv: "They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spake it, neither came it into my mind:"
+bsb: "They have built high places to Baal on which to burn their children in the fire as offerings to Baal—something I never commanded or mentioned, nor did it even enter My mind."
+hebrew: "וּבָנ֞וּ אֶת־ בָּמ֣וֹת הַבַּ֗עַל לִשְׂרֹ֧ף אֶת־ בְּנֵיהֶ֛ם בָּאֵ֖שׁ עֹל֣וֹת לַבָּ֑עַל אֲשֶׁ֤ר לֹֽא־ צִוִּ֙יתִי֙ וְלֹ֣א דִבַּ֔רְתִּי וְלֹ֥א עָלְתָ֖ה עַל־ לִבִּֽי׃ פ"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H9005]]"
+- "[[H8313]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5930A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6680]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 19:5**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have built also the high places of Baal, to burn their sons with fire [for] burnt offerings unto Baal, which I commanded not, nor spake [it], neither came [it] into my mind:
 <small><sub>**BSB:**</sub></small>
 They have built high places to Baal on which to burn their children in the fire as offerings to Baal—something I never commanded or mentioned, nor did it even enter My mind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1129\|בָנ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמ֣וֹת]] [[H9009\|הַ]][[H1168A\|בַּ֗עַל]] [[H9005\|לִ]][[H8313\|שְׂרֹ֧ף]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֛ם]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H5930A\|עֹל֣וֹת]] [[H9005\|לַ]][[H1168A\|בָּ֑עַל]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6680\|צִוִּ֙יתִי֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1696G\|דִבַּ֔רְתִּי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5927G\|עָלְתָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לִבִּֽ]][[H9020\|י]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.4|<< Jeremiah 19:4]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.6|Jeremiah 19:6 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ They have built high places to Baal on which to burn their children in the fire 
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came up  |**<big>&#8207;[[H5927G\|עָלְתָ֖ה]]&#8207; </big>**| 'al.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart my  |**<big>&#8207;[[H3820A\|לִבִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart my  |**<big>&#8207;[[H3820A\|לִבִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.4|<< Jeremiah 19:4]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.6|Jeremiah 19:6 >>]]</td></tr></table>
 
 

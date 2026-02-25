@@ -1,8 +1,42 @@
+---
+title: Job 9:1
+type: Verse
+kjv: "Then Job answered and said,"
+bsb: "Then Job answered:"
+hebrew: "וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0347]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:1**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Job answered and said,
 <small><sub>**BSB:**</sub></small>
 Then Job answered:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H0347\|אִיּ֗וֹב]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.22|<< Job 8:22]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.2|Job 9:2 >>]]</td></tr></table>
 

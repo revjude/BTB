@@ -1,8 +1,68 @@
+---
+title: Ezekiel 28:12
+type: Verse
+kjv: "Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty."
+bsb: "“Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty."
+hebrew: "בֶּן־ אָדָ֕ם שָׂ֥א קִינָ֖ה עַל־ מֶ֣לֶךְ צ֑וֹר וְאָמַ֣רְתָּ לּ֗וֹ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה אַתָּה֙ חוֹתֵ֣ם תָּכְנִ֔ית מָלֵ֥א חָכְמָ֖ה וּכְלִ֥יל יֹֽפִי׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5375G]]"
+- "[[H7015]]"
+- "[[H5921A]]"
+- "[[H4428G]]"
+- "[[H6865]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0859A]]"
+- "[[H2856]]"
+- "[[H8508]]"
+- "[[H4392]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H3632]]"
+- "[[H3308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:12**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty.
 <small><sub>**BSB:**</sub></small>
 “Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H5375G\|שָׂ֥א]] [[H7015\|קִינָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H6865\|צ֑וֹר]] [[H9001\|וְ]][[H0559\|אָמַ֣רְתָּ]] [[H9005\|לּ֗]][[H9033\|וֹ]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H0859A\|אַתָּה֙]] [[H2856\|חוֹתֵ֣ם]] [[H8508\|תָּכְנִ֔ית]] [[H4392\|מָלֵ֥א]] [[H2451\|חָכְמָ֖ה]] [[H9002\|וּ]][[H3632\|כְלִ֥יל]] [[H3308\|יֹֽפִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAMENTATIONS|LAMENTATIONS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.11|<< Ezekiel 28:11]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.13|Ezekiel 28:13 >>]]</td></tr></table>
 

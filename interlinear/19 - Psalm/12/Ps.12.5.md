@@ -1,8 +1,62 @@
+---
+title: Psalm 12:5
+type: Verse
+kjv: "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him."
+bsb: "“For the cause of the oppressed and for the groaning of the needy, I will now arise,” says the LORD. “I will bring safety to him who yearns.”"
+hebrew: "מִשֹּׁ֥ד עֲנִיִּים֮ מֵאַנְקַ֪ת אֶבְי֫וֹנִ֥ים עַתָּ֣ה אָ֭קוּם יֹאמַ֣ר יְהוָ֑ה אָשִׁ֥ית בְּ֝יֵ֗שַׁע יָפִ֥יחַֽ לֽוֹ׃"
+pericope: "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9006]]"
+- "[[H7701]]"
+- "[[H6041]]"
+- "[[H0603]]"
+- "[[H0034]]"
+- "[[H6258]]"
+- "[[H6965B]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7896H]]"
+- "[[H9003]]"
+- "[[H3468]]"
+- "[[H6315]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 12:5**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set [him] in safety [from him that] puffeth at him.
 <small><sub>**BSB:**</sub></small>
 “For the cause of the oppressed and for the groaning of the needy, I will now arise,” says the LORD. “I will bring safety to him who yearns.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H7701\|שֹּׁ֥ד]] [[H6041\|עֲנִיִּים֮]] [[H9006\|מֵ]][[H0603\|אַנְקַ֪ת]] [[H0034\|אֶבְי֫וֹנִ֥ים]] [[H6258\|עַתָּ֣ה]] [[H6965B\|אָ֭קוּם]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H7896H\|אָשִׁ֥ית]] [[H9003\|בְּ֝]][[H3468\|יֵ֗שַׁע]] [[H6315\|יָפִ֥יחַֽ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INJUSTICE|INJUSTICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.4|<< Psalms 12:4]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.6|Psalms 12:6 >>]]</td></tr></table>
 

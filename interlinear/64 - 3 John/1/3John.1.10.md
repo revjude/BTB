@@ -1,10 +1,62 @@
+---
+title: 3 John 1:10
+type: Verse
+kjv: "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church."
+bsb: "So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church."
+greek: "διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ, λόγοις πονηροῖς φλυαρῶν ἡμᾶς· καὶ μὴ ἀρκούμενος ἐπὶ τούτοις, οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφούς, καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.¶"
+pericope: "[[3John.1.9 Diotrephes and Demetrius|Diotrephes and Demetrius]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G5279]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3056]]"
+- "[[G4190]]"
+- "[[G5396]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G0714]]"
+- "[[G1909]]"
+- "[[G3777]]"
+- "[[G1926]]"
+- "[[G0080]]"
+- "[[G1014]]"
+- "[[G2967]]"
+- "[[G1537]]"
+- "[[G1577]]"
+- "[[G1544]]"
+texts:
+- NKO
+---
+
 **3 John 1:10**<big><big>[[3John.1.9 Diotrephes and Demetrius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth [them] out of the church.
 <small><sub>**BSB:**</sub></small>
 So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church.
-<small><sub>**Literal:**</sub></small>
-Because of this, if I shall come, I will bring to remembrance of him the works which he is doing, with words evil prating against us; and not being satisfied with these, neither himself he receives the brothers, and those purposing he forbids and from the church he casts [them] out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.9|<< 3 John 1:9]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.11|3 John 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο,]]  [[G1437\|ἐὰν]]  [[G2064\|ἔλθω,]]  [[G5279\|ὑπομνήσω]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3739\|ἃ]]  [[G4160G\|ποιεῖ,]]  [[G3056\|λόγοις]]  [[G4190\|πονηροῖς]]  [[G5396\|φλυαρῶν]]  [[G3165\|ἡμᾶς·]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0714\|ἀρκούμενος]]  [[G1909\|ἐπὶ]]  [[G3778\|τούτοις,]]  [[G3777\|οὔτε]]  [[G0846\|αὐτὸς]]  [[G1926\|ἐπιδέχεται]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφούς,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1014\|βουλομένους]]  [[G2967\|κωλύει]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G1544\|ἐκβάλλει.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.9|<< 3 John 1:9]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.11|3 John 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,62 @@
+---
+title: Revelation 11:2
+type: Verse
+kjv: "But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months."
+bsb: "But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months."
+greek: "καὶ τὴν αὐλὴν τὴν ἔξωθεν τοῦ ναοῦ ἔκβαλε ἔξωθεν, καὶ μὴ αὐτὴν μετρήσῃς, ὅτι ἐδόθη τοῖς ἔθνεσιν· καὶ τὴν πόλιν τὴν ἁγίαν πατήσουσιν μῆνας τεσσεράκοντα καὶ δύο.¶"
+pericope: "[[Rev.11.1 The Two Witnesses|The Two Witnesses]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0833]]"
+- "[[G1855]]"
+- "[[G3485]]"
+- "[[G1544]]"
+- "[[G3361]]"
+- "[[G0846]]"
+- "[[G3354]]"
+- "[[G3754H]]"
+- "[[G1325]]"
+- "[[G1484]]"
+- "[[G4172]]"
+- "[[G0040G]]"
+- "[[G3961]]"
+- "[[G3376]]"
+- "[[G5062]]"
+- "[[G1417]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Revelation 11:2**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty [and] two months.
 <small><sub>**BSB:**</sub></small>
 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months.
-<small><sub>**Literal:**</sub></small>
-And the courtyard <the> outside the temple do leave outside, and not it may measure, because it has been given [up] to the nations; and the city <the> holy they will trample upon months forty and two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.1|<< Revelation 11:1]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.3|Revelation 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0833\|αὐλὴν]]  [[G3588\|τὴν]]  [[G1855\|ἔξωθεν]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G1544\|ἔκβαλε]]  [[G1855\|ἔξωθεν,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὴν]]  [[G3354\|μετρήσῃς,]]  [[G3754H\|ὅτι]]  [[G1325\|ἐδόθη]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν·]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G3588\|τὴν]]  [[G0040G\|ἁγίαν]]  [[G3961\|πατήσουσιν]]  [[G3376\|μῆνας]]  [[G5062\|τεσσεράκοντα]]  [[G2532\|καὶ]]  [[G1417\|δύο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.1|<< Revelation 11:1]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.3|Revelation 11:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:2** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]

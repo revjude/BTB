@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: How Many Are Your Works, O LORD!
+type: Pericope
 pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 104
 book/chapter: "[[Ps.104|Psalm 104]]"
-genre:
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 35
 verses:
 - "[[Ps.104.1]]"
 - "[[Ps.104.2]]"
@@ -56,7 +63,7 @@ verses:
 - "[[Ps.104.35]]"
 ---
 
-[[Ps.104|Psalm 104:1 - Psalm 104:35]]
+<small>[[Ps.104|Psalm 104:1-35]]</small>
 *How Many Are Your Works, O LORD!*
 
 [[Ps.104.1|1]] Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.

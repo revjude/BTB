@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Military Census
+type: Pericope
 pericope: "[[1Chr.21.1 David’s Military Census|David’s Military Census]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 21
 book/chapter: "[[1Chr.21|1 Chronicles 21]]"
-genre:
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.21.1]]"
 - "[[1Chr.21.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.21.6]]"
 ---
 
-[[1Chr.21|1 Chronicles 21:1 - 1 Chronicles 21:6]]
+<small>[[1Chr.21|1 Chronicles 21:1-6]]</small>
 *David’s Military Census*
 
 [[1Chr.21.1|1]] And Satan stood up against Israel, and provoked David to number Israel.

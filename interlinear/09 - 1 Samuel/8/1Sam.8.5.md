@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 8:5
+type: Verse
+kjv: "And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations."
+bsb: "“Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”"
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֗יו הִנֵּה֙ אַתָּ֣ה זָקַ֔נְתָּ וּבָנֶ֕יךָ לֹ֥א הָלְכ֖וּ בִּדְרָכֶ֑יךָ עַתָּ֗ה שִֽׂימָה־ לָּ֥נוּ מֶ֛לֶךְ לְשָׁפְטֵ֖נוּ כְּכָל־ הַגּוֹיִֽם׃"
+pericope: "[[1Sam.8.1 Israel Demands a King|Israel Demands a King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIA|ABIA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H0859A]]"
+- "[[H2204]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H6258]]"
+- "[[H7760L]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4428G]]"
+- "[[H8199]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:5**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.
 <small><sub>**BSB:**</sub></small>
 “Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H2009\|הִנֵּה֙]] [[H0859A\|אַתָּ֣ה]] [[H2204\|זָקַ֔נְתָּ]] [[H9002\|וּ]][[H1121A\|בָנֶ֕י]][[H9021\|ךָ]] [[H3808\|לֹ֥א]] [[H1980I\|הָלְכ֖וּ]] [[H9003\|בִּ]][[H1870G\|דְרָכֶ֑י]][[H9021\|ךָ]] [[H6258\|עַתָּ֗ה]] [[H7760L\|שִֽׂימָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לָּ֥]][[H9035\|נוּ]] [[H4428G\|מֶ֛לֶךְ]] [[H9005\|לְ]][[H8199\|שָׁפְטֵ֖]][[H9035\|נוּ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIA|ABIA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.4|<< 1 Samuel 8:4]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.6|1 Samuel 8:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

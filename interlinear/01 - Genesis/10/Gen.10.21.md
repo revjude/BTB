@@ -1,8 +1,62 @@
+---
+title: Genesis 10:21
+type: Verse
+kjv: "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born."
+bsb: "And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber."
+hebrew: "וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ ה֑וּא אֲבִי֙ כָּל־ בְּנֵי־ עֵ֔בֶר אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃"
+pericope: "[[Gen.10.21 The Semites|The Semites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EBER|EBER]]"
+- "[[topic GRANDFATHER|GRANDFATHER]]"
+- "[[topic JAPHETH|JAPHETH]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8035]]"
+- "[[H3205]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H0001G]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H5677G]]"
+- "[[H0251G]]"
+- "[[H3315]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:21**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born.
 <small><sub>**BSB:**</sub></small>
 And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H8035\|שֵׁ֥ם]] [[H3205\|יֻלַּ֖ד]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֑וּא]] [[H0001G\|אֲבִי֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H5677G\|עֵ֔בֶר]] [[H0251G\|אֲחִ֖י]] [[H3315\|יֶ֥פֶת]] [[H9009\|הַ]][[H1419K\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBER|EBER]] • [[topic GRANDFATHER|GRANDFATHER]] • [[topic JAPHETH|JAPHETH]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 

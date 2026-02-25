@@ -1,8 +1,68 @@
+---
+title: Isaiah 11:10
+type: Verse
+kjv: "And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious."
+bsb: "On that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious."
+hebrew: "וְהָיָה֙ בַּיּ֣וֹם הַה֔וּא שֹׁ֣רֶשׁ יִשַׁ֗י אֲשֶׁ֤ר עֹמֵד֙ לְנֵ֣ס עַמִּ֔ים אֵלָ֖יו גּוֹיִ֣ם יִדְרֹ֑שׁוּ וְהָיְתָ֥ה מְנֻחָת֖וֹ כָּבֽוֹד׃ פ"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ENSIGN|ENSIGN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8328]]"
+- "[[H3448]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5251H]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1471A]]"
+- "[[H1875]]"
+- "[[H4496H]]"
+- "[[H9023]]"
+- "[[H3519]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 11:10**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
 <small><sub>**BSB:**</sub></small>
 On that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H8328\|שֹׁ֣רֶשׁ]] [[H3448\|יִשַׁ֗י]] [[H0834A\|אֲשֶׁ֤ר]] [[H5975G\|עֹמֵד֙]] [[H9005\|לְ]][[H5251H\|נֵ֣ס]] [[H5971A\|עַמִּ֔ים]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H1471A\|גּוֹיִ֣ם]] [[H1875\|יִדְרֹ֑שׁוּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H4496H\|מְנֻחָת֖]][[H9023\|וֹ]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ENSIGN|ENSIGN]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,7 +86,7 @@ On that day the Root of Jesse will stand as a banner for the peoples. The nation
 | they will seek  |**<big>&#8207;[[H1875\|יִדְרֹ֑שׁוּ]]&#8207; </big>**| yid.Ro.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | resting place his  |**<big>&#8207;[[H4496H\|מְנֻחָת֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| me.nu.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| glory  |**<big>&#8207;[[H3519\|כָּבֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| glory  |**<big>&#8207;[[H3519\|כָּבֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.9|<< Isaiah 11:9]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.11|Isaiah 11:11 >>]]</td></tr></table>
 
 

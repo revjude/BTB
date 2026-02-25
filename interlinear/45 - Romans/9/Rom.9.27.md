@@ -1,10 +1,57 @@
+---
+title: Romans 9:27
+type: Verse
+kjv: "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+bsb: "Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved."
+greek: "Ἠσαΐας δὲ κράζει ὑπὲρ τοῦ Ἰσραήλ· ἐὰν ᾖ ὁ ἀριθμὸς τῶν υἱῶν Ἰσραὴλ ὡς ἡ ἄμμος τῆς θαλάσσης, τὸ ὑπόλειμμα σωθήσεται·"
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2268]]"
+- "[[G1161]]"
+- "[[G2896]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G1437]]"
+- "[[G1510]]"
+- "[[G0706]]"
+- "[[G5207]]"
+- "[[G5613]]"
+- "[[G0285]]"
+- "[[G2281]]"
+- "[[G9577]]"
+- "[[G4982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 9:27**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
 <small><sub>**BSB:**</sub></small>
 Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved.
-<small><sub>**Literal:**</sub></small>
-Isaiah also cries out concerning <the> Israel: Though shall be the number of the sons of Israel as the sand of the sea, [only] the vestige will be saved;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.26|<< Romans 9:26]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.28|Romans 9:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2268\|Ἠσαΐας]]  [[G1161\|δὲ]]  [[G2896\|κράζει]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ·]]  [[G1437\|ἐὰν]]  [[G1510\|ᾖ]]  [[G3588\|ὁ]]  [[G0706\|ἀριθμὸς]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G2474\|Ἰσραὴλ]]  [[G5613\|ὡς]]  [[G3588\|ἡ]]  [[G0285\|ἄμμος]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης,]]  [[G3588\|τὸ]]  [[G9577\|ὑπόλειμμα]]  [[G4982\|σωθήσεται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.26|<< Romans 9:26]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.28|Romans 9:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 9:27** is...
 > $\quad$ alluding to: [[LXX.Hos.1.10|Hos 1:10]]

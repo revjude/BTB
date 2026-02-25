@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Mourns for Absalom
+type: Pericope
 pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 18
 book/chapter: "[[2Sam.18|2 Samuel 18]]"
-genre:
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 15
 verses:
 - "[[2Sam.18.19]]"
 - "[[2Sam.18.20]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Sam.18.33]]"
 ---
 
-[[2Sam.18|2 Samuel 18:19 - 2 Samuel 18:33]]
+<small>[[2Sam.18|2 Samuel 18:19-33]]</small>
 *David Mourns for Absalom*
 
 [[2Sam.18.19|19]] Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.

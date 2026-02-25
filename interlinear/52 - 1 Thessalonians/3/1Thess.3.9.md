@@ -1,10 +1,59 @@
+---
+title: 1 Thessalonians 3:9
+type: Verse
+kjv: "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;"
+bsb: "How can we adequately thank God for you in return for our great joy over you in His presence?"
+greek: "τίνα γὰρ εὐχαριστίαν δυνάμεθα τῷ θεῷ ἀνταποδοῦναι περὶ ὑμῶν ἐπὶ πάσῃ τῇ χαρᾷ ᾗ χαίρομεν δι᾽ ὑμᾶς ἔμπροσθεν τοῦ θεοῦ ἡμῶν,"
+pericope: "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G2169]]"
+- "[[G1410]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0467]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G5479]]"
+- "[[G3739]]"
+- "[[G5463]]"
+- "[[G1223]]"
+- "[[G1715]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 3:9**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;
 <small><sub>**BSB:**</sub></small>
 How can we adequately thank God for you in return for our great joy over you in His presence?
-<small><sub>**Literal:**</sub></small>
-What for thanksgiving are we able <the> to God to give concerning you in return for all the joy that we rejoice because of you before the God of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.8|<< 1 Thessalonians 3:8]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.10|1 Thessalonians 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίνα]]  [[G1063\|γὰρ]]  [[G2169\|εὐχαριστίαν]]  [[G1410\|δυνάμεθα]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G0467\|ἀνταποδοῦναι]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G1909\|ἐπὶ]]  [[G3956\|πάσῃ]]  [[G3588\|τῇ]]  [[G5479\|χαρᾷ]]  [[G3739\|ᾗ]]  [[G5463\|χαίρομεν]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.8|<< 1 Thessalonians 3:8]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.10|1 Thessalonians 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark Rests on Ararat
+type: Pericope
 pericope: "[[Gen.8.1 The Ark Rests on Ararat|The Ark Rests on Ararat]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 8
 book/chapter: "[[Gen.8|Genesis 8]]"
-genre:
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.8.1]]"
 - "[[Gen.8.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.8.5]]"
 ---
 
-[[Gen.8|Genesis 8:1 - Genesis 8:5]]
+<small>[[Gen.8|Genesis 8:1-5]]</small>
 *The Ark Rests on Ararat*
 
 [[Gen.8.1|1]] And God remembered Noah, and every living thing, and all the cattle that \[was\] with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;

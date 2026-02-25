@@ -1,10 +1,63 @@
+---
+title: Ephesians 1:10
+type: Verse
+kjv: "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:"
+bsb: "as a plan for the fullness of time, to bring all things in heaven and on earth together in Christ."
+greek: "εἰς οἰκονομίαν τοῦ πληρώματος τῶν καιρῶν, ἀνακεφαλαιώσασθαι τὰ πάντα ἐν τῷ Χριστῷ, τὰ τε ἐπὶ τοῖς οὐρανοῖς καὶ τὰ ἐπὶ τῆς γῆς, ἐν αὐτῷ,"
+pericope: "[[Eph.1.3 Spiritual Blessings|Spiritual Blessings]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[G1519]]"
+- "[[G3622]]"
+- "[[G3588]]"
+- "[[G4138]]"
+- "[[G2540]]"
+- "[[G0346]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G5037]]"
+- "[[G1909]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Ephesians 1:10**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; [even] in him:
 <small><sub>**BSB:**</sub></small>
 as a plan for the fullness of time, to bring all things in heaven and on earth together in Christ.
-<small><sub>**Literal:**</sub></small>
-for [the] administration of the fullness of the times, to bring together the all things in <the> Christ, the [things] then in the heavens and the [things] upon the earth, {11} in Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.9|<< Ephesians 1:9]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.11|Ephesians 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3622\|οἰκονομίαν]]  [[G3588\|τοῦ]]  [[G4138\|πληρώματος]]  [[G3588\|τῶν]]  [[G2540\|καιρῶν,]]  [[G0346\|ἀνακεφαλαιώσασθαι]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5547\|Χριστῷ,]]  [[G3588\|τὰ]]  [[G5037\|τε]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]] • [[topic TIME|TIME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.9|<< Ephesians 1:9]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.11|Ephesians 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

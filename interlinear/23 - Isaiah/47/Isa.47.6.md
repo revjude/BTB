@@ -1,8 +1,63 @@
+---
+title: Isaiah 47:6
+type: Verse
+kjv: "I was wroth with my people, I have polluted mine inheritance, and given them into thine hand: thou didst shew them no mercy; upon the ancient hast thou very heavily laid thy yoke."
+bsb: "I was angry with My people; I profaned My heritage, and I placed them under your control. You showed them no mercy; even on the elderly you laid a most heavy yoke."
+hebrew: "קָצַ֣פְתִּי עַל־ עַמִּ֗י חִלַּ֙לְתִּי֙ נַחֲלָתִ֔י וָאֶתְּנֵ֖ם בְּיָדֵ֑ךְ לֹא־ שַׂ֤מְתְּ לָהֶם֙ רַחֲמִ֔ים עַל־ זָקֵ֕ן הִכְבַּ֥דְתְּ עֻלֵּ֖ךְ מְאֹֽד׃"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H7107]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H2490H]]"
+- "[[H5159]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9022]]"
+- "[[H3808]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H7356B]]"
+- "[[H2205H]]"
+- "[[H3513H]]"
+- "[[H5923]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 47:6**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was wroth with my people, I have polluted mine inheritance, and given them into thine hand: thou didst shew them no mercy; upon the ancient hast thou very heavily laid thy yoke.
 <small><sub>**BSB:**</sub></small>
 I was angry with My people; I profaned My heritage, and I placed them under your control. You showed them no mercy; even on the elderly you laid a most heavy yoke.
+<small><sub>**Hebrew:**</sub></small>
+[[H7107\|קָצַ֣פְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמִּ֗]][[H9020\|י]] [[H2490H\|חִלַּ֙לְתִּי֙]] [[H5159\|נַחֲלָתִ֔]][[H9020\|י]] [[H9001\|וָ]][[H5414G\|אֶתְּנֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדֵ֑]][[H9022\|ךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H7760A\|שַׂ֤מְתְּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H7356B\|רַחֲמִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H2205H\|זָקֵ֕ן]] [[H3513H\|הִכְבַּ֥דְתְּ]] [[H5923\|עֻלֵּ֖]][[H9022\|ךְ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.5|<< Isaiah 47:5]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.7|Isaiah 47:7 >>]]</td></tr></table>
 

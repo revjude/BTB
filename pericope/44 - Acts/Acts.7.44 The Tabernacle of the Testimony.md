@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tabernacle of the Testimony
+type: Pericope
 pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.7.44]]"
 - "[[Acts.7.45]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.7.53]]"
 ---
 
-[[Acts.7|Acts 7:44 - Acts 7:53]]
+<small>[[Acts.7|Acts 7:44-53]]</small>
 *The Tabernacle of the Testimony*
 
 [[Acts.7.44|44]] Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.

@@ -1,8 +1,58 @@
+---
+title: Nehemiah 4:21
+type: Verse
+kjv: "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared."
+bsb: "So we continued the work, while half of the men held spears from the break of dawn until the stars came out."
+hebrew: "וַאֲנַ֖חְנוּ עֹשִׂ֣ים בַּמְּלָאכָ֑ה וְחֶצְיָ֗ם מַחֲזִיקִים֙ בָּֽרְמָחִ֔ים מֵעֲל֣וֹת הַשַּׁ֔חַר עַ֖ד צֵ֥את הַכּוֹכָבִֽים׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H2677]]"
+- "[[H9028]]"
+- "[[H2388H]]"
+- "[[H7420]]"
+- "[[H9006]]"
+- "[[H5927L]]"
+- "[[H9009]]"
+- "[[H7837]]"
+- "[[H5704]]"
+- "[[H3318G]]"
+- "[[H3556]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:21**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.
 <small><sub>**BSB:**</sub></small>
 So we continued the work, while half of the men held spears from the break of dawn until the stars came out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0587\|אֲנַ֖חְנוּ]] [[H6213A\|עֹשִׂ֣ים]] [[H9003\|בַּ]][[H4399\|מְּלָאכָ֑ה]] [[H9002\|וְ]][[H2677\|חֶצְיָ֗]][[H9028\|ם]] [[H2388H\|מַחֲזִיקִים֙]] [[H9003\|בָּֽ]][[H7420\|רְמָחִ֔ים]] [[H9006\|מֵ]][[H5927L\|עֲל֣וֹת]] [[H9009\|הַ]][[H7837\|שַּׁ֔חַר]] [[H5704\|עַ֖ד]] [[H3318G\|צֵ֥את]] [[H9009\|הַ]][[H3556\|כּוֹכָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.20|<< Nehemiah 4:20]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.22|Nehemiah 4:22 >>]]</td></tr></table>
 

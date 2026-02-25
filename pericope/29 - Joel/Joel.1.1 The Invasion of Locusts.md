@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Invasion of Locusts
+type: Pericope
 pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 1
 book/chapter: "[[Joel.1|Joel 1]]"
-genre:
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Joel.1.1]]"
 - "[[Joel.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Joel.1.7]]"
 ---
 
-[[Joel.1|Joel 1:1 - Joel 1:7]]
+<small>[[Joel.1|Joel 1:1-7]]</small>
 *The Invasion of Locusts*
 
 [[Joel.1.1|1]] The word of the LORD that came to Joel the son of Pethuel.

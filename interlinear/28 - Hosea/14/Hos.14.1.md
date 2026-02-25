@@ -1,8 +1,54 @@
+---
+title: Hosea 14:1
+type: Verse
+kjv: "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity."
+bsb: "Return, O Israel, to the LORD your God, for you have stumbled by your iniquity."
+hebrew: "שׁ֚וּבָה יִשְׂרָאֵ֔ל עַ֖ד יְהוָ֣ה אֱלֹהֶ֑יךָ כִּ֥י כָשַׁ֖לְתָּ בַּעֲוֹנֶֽךָ׃"
+pericope: "[[Hos.14.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:1**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.
 <small><sub>**BSB:**</sub></small>
 Return, O Israel, to the LORD your God, for you have stumbled by your iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|שׁ֚וּבָ]][[H9012\|ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5704\|עַ֖ד]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H3782\|כָשַׁ֖לְתָּ]] [[H9003\|בַּ]][[H5771G\|עֲוֹנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.16|<< Hosea 13:16]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.2|Hosea 14:2 >>]]</td></tr></table>
 

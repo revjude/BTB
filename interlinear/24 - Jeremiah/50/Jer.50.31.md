@@ -1,8 +1,59 @@
+---
+title: Jeremiah 50:31
+type: Verse
+kjv: "Behold, I am against thee, O thou most proud, saith the Lord GOD of hosts: for thy day is come, the time that I will visit thee."
+bsb: "“Behold, I am against you, O arrogant one,” declares the Lord GOD of Hosts, “for your day has come, the time when I will punish you."
+hebrew: "הִנְנִ֤י אֵלֶ֙יךָ֙ זָד֔וֹן נְאֻם־ אֲדֹנָ֥י יְהוִ֖ה צְבָא֑וֹת כִּ֛י בָּ֥א יוֹמְךָ֖ עֵ֥ת פְּקַדְתִּֽיךָ׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2087]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H6256]]"
+- "[[H6485H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:31**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, [O thou] most proud, saith the Lord GOD of hosts: for thy day is come, the time [that] I will visit thee.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am against you, O arrogant one,” declares the Lord GOD of Hosts, “for your day has come, the time when I will punish you.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H2087\|זָד֔וֹן]] [[H5002\|נְאֻם]][[H9014\|־]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H6635B\|צְבָא֑וֹת]] [[H3588A\|כִּ֛י]] [[H0935G\|בָּ֥א]] [[H3117G\|יוֹמְ]][[H9021\|ךָ֖]] [[H6256\|עֵ֥ת]] [[H6485H\|פְּקַדְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.30|<< Jeremiah 50:30]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.32|Jeremiah 50:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

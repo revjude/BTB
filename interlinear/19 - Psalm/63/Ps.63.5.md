@@ -1,8 +1,62 @@
+---
+title: Psalm 63:5
+type: Verse
+kjv: "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:"
+bsb: "My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You."
+hebrew: "כְּמ֤וֹ חֵ֣לֶב וָ֭דֶשֶׁן תִּשְׂבַּ֣ע נַפְשִׁ֑י וְשִׂפְתֵ֥י רְ֝נָנ֗וֹת יְהַלֶּל־ פִּֽי׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3644G]]"
+- "[[H2459]]"
+- "[[H9002]]"
+- "[[H1880]]"
+- "[[H7646]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H8193G]]"
+- "[[H7445]]"
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:5**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul shall be satisfied as [with] marrow and fatness; and my mouth shall praise [thee] with joyful lips:
 <small><sub>**BSB:**</sub></small>
 My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3644G\|כְּמ֤וֹ]] [[H2459\|חֵ֣לֶב]] [[H9002\|וָ֭]][[H1880\|דֶשֶׁן]] [[H7646\|תִּשְׂבַּ֣ע]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H8193G\|שִׂפְתֵ֥י]] [[H7445\|רְ֝נָנ֗וֹת]] [[H1984B\|יְהַלֶּל]][[H9014\|־]] [[H6310G\|פִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic JOY|JOY]] • [[topic LOVE|LOVE]] • [[topic MEDITATION|MEDITATION]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.4|<< Psalms 63:4]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.6|Psalms 63:6 >>]]</td></tr></table>
 

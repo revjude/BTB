@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Babylon
+type: Pericope
 pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 51
 book/chapter: "[[Jer.51|Jeremiah 51]]"
-genre:
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 14
 verses:
 - "[[Jer.51.1]]"
 - "[[Jer.51.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Jer.51.14]]"
 ---
 
-[[Jer.51|Jeremiah 51:1 - Jeremiah 51:14]]
+<small>[[Jer.51|Jeremiah 51:1-14]]</small>
 *Judgment on Babylon*
 
 [[Jer.51.1|1]] Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;

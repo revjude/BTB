@@ -9,7 +9,7 @@
 
 → Exported from Havilah [[Gen.2.12|Ge 2:12]]
 
-→ Used in the breastplate [[Exod.28.9|Ex 28:9]]-[[Exod.28.12|12]],[[Exod.28.20|20]]; [[Exod.39.6|39:6]],[[Exod.39.13|13]]
+→ Used in the breastplate [[Exod.28.9|Ex 28:9-12]],[[Exod.28.20|20]]; [[Exod.39.6|39:6]],[[Exod.39.13|13]]
 
 → Contributed by Israelites for the priests' garments [[Exod.25.7|Ex 25:7]]; [[Exod.35.9|35:9]]
 

@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 19:15
+type: Verse
+kjv: "And Saul sent the messengers again to see David, saying, Bring him up to me in the bed, that I may slay him."
+bsb: "But Saul sent the messengers back to see David and told them, “Bring him up to me in his bed so I can kill him.”"
+hebrew: "וַיִּשְׁלַ֤ח שָׁאוּל֙ אֶת־ הַמַּלְאָכִ֔ים לִרְא֥וֹת אֶת־ דָּוִ֖ד לֵאמֹ֑ר הַעֲל֨וּ אֹת֧וֹ בַמִּטָּ֛ה אֵלַ֖י לַהֲמִתֽוֹ׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MICHAL|MICHAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4296]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:15**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sent the messengers [again] to see David, saying, Bring him up to me in the bed, that I may slay him.
 <small><sub>**BSB:**</sub></small>
 But Saul sent the messengers back to see David and told them, “Bring him up to me in his bed so I can kill him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H7586G\|שָׁאוּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֔ים]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5927G\|הַעֲל֨וּ]] [[H0853\|אֹת֧]][[H9033\|וֹ]] [[H9003\|בַ]][[H4296\|מִּטָּ֛ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9005\|לַ]][[H4191\|הֲמִתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MICHAL|MICHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.14|<< 1 Samuel 19:14]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.16|1 Samuel 19:16 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Evil in High Places
+type: Pericope
 pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 11
 book/chapter: "[[Ezek.11|Ezekiel 11]]"
-genre:
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.11.1]]"
 - "[[Ezek.11.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.11.12]]"
 ---
 
-[[Ezek.11|Ezekiel 11:1 - Ezekiel 11:12]]
+<small>[[Ezek.11|Ezekiel 11:1-12]]</small>
 *Evil in High Places*
 
 [[Ezek.11.1|1]] Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.

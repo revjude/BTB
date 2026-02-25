@@ -1,8 +1,56 @@
+---
+title: Zechariah 14:3
+type: Verse
+kjv: "Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle."
+bsb: "Then the LORD will go out to fight against those nations, as He fights in the day of battle."
+hebrew: "וְיָצָ֣א יְהוָ֔ה וְנִלְחַ֖ם בַּגּוֹיִ֣ם הָהֵ֑ם כְּי֥וֹם הִֽלָּחֲמ֖ו בְּי֥וֹם קְרָֽב׃"
+pericope: "[[Zech.14.1 The Destroyers of Jerusalem Destroyed|The Destroyers of Jerusalem Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3068G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H9043]]"
+- "[[H7128]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Zechariah 14:3**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.
 <small><sub>**BSB:**</sub></small>
 Then the LORD will go out to fight against those nations, as He fights in the day of battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318G\|יָצָ֣א]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H3898A\|נִלְחַ֖ם]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H9004\|כְּ]][[H3117G\|י֥וֹם]] [[H3898A\|הִֽלָּחֲמ֖]][[H9043\|ו]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H7128\|קְרָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.2|<< Zechariah 14:2]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.4|Zechariah 14:4 >>]]</td></tr></table>
 

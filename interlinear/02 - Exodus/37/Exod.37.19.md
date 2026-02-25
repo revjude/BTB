@@ -1,8 +1,65 @@
+---
+title: Exodus 37:19
+type: Verse
+kjv: "Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick."
+bsb: "There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand."
+hebrew: "שְׁלֹשָׁ֣ה גְ֠בִעִים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶרַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בְּקָנֶ֥ה אֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־ הַמְּנֹרָֽה׃"
+pericope: "[[Exod.37.17 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALMOND|ALMOND]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H7969]]"
+- "[[H1375]]"
+- "[[H8246]]"
+- "[[H9003]]"
+- "[[H7070G]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H3730]]"
+- "[[H9002]]"
+- "[[H6525]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H8337]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4501]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:19**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick.
 <small><sub>**BSB:**</sub></small>
 There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שְׁלֹשָׁ֣ה]] [[H1375\|גְ֠בִעִים]] [[H8246\|מְֽשֻׁקָּדִ֞ים]] [[H9003\|בַּ]][[H7070G\|קָּנֶ֣ה]] [[H9009\|הָ]][[H0259\|אֶחָד֮]] [[H3730\|כַּפְתֹּ֣ר]] [[H9002\|וָ]][[H6525\|פֶרַח֒]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H1375\|גְבִעִ֗ים]] [[H8246\|מְשֻׁקָּדִ֛ים]] [[H9003\|בְּ]][[H7070G\|קָנֶ֥ה]] [[H0259\|אֶחָ֖ד]] [[H3730\|כַּפְתֹּ֣ר]] [[H9002\|וָ]][[H6525\|פָ֑רַח]] [[H3651C\|כֵּ֚ן]] [[H9005\|לְ]][[H8337\|שֵׁ֣שֶׁת]] [[H9009\|הַ]][[H7070G\|קָּנִ֔ים]] [[H9009\|הַ]][[H3318G\|יֹּצְאִ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4501\|מְּנֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMOND|ALMOND]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.18|<< Exodus 37:18]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.20|Exodus 37:20 >>]]</td></tr></table>
 

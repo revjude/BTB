@@ -1,10 +1,74 @@
+---
+title: Matthew 27:29
+type: Verse
+kjv: "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
+bsb: "And they twisted together a crown of thorns and set it on His head. They put a staff in His right hand, knelt down before Him, and mocked Him, saying, “Hail, King of the Jews!”"
+greek: "καὶ πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ κάλαμον ἐν τῇ δεξιᾷ αὐτοῦ, καὶ γονυπετήσαντες ἔμπροσθεν αὐτοῦ ἐνέπαιξαν αὐτῷ λέγοντες· χαῖρε ὁ βασιλεῦ τῶν Ἰουδαίων."
+pericope: "[[Matt.27.27 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CROWN|CROWN]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REED|REED]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic THORN|THORN]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[G2532]]"
+- "[[G4120]]"
+- "[[G4735]]"
+- "[[G1537]]"
+- "[[G0173]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G2563]]"
+- "[[G1722]]"
+- "[[G1188]]"
+- "[[G1120]]"
+- "[[G1715]]"
+- "[[G1702]]"
+- "[[G3004G]]"
+- "[[G5463]]"
+- "[[G0935]]"
+- "[[G2453]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 27:29**<big><big>[[Matt.27.27 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had platted a crown of thorns, they put [it] upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
 <small><sub>**BSB:**</sub></small>
 And they twisted together a crown of thorns and set it on His head. They put a staff in His right hand, knelt down before Him, and mocked Him, saying, “Hail, King of the Jews!”
-<small><sub>**Literal:**</sub></small>
-And having twisted together a crown of thorns they put [it] on the head of Him and a reed in the right hand of Him, and having bowed the knees before Him they mocked Him saying; Hail the King of the Jews!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.28|<< Matthew 27:28]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.30|Matthew 27:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4120\|πλέξαντες]]  [[G4735\|στέφανον]]  [[G1537\|ἐξ]]  [[G0173\|ἀκανθῶν]]  [[G2007\|ἐπέθηκαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2563\|κάλαμον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1188\|δεξιᾷ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G1120\|γονυπετήσαντες]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτοῦ]]  [[G1702\|ἐνέπαιξαν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγοντες·]]  [[G5463\|χαῖρε]]  [[G3588\|ὁ]]  [[G0935\|βασιλεῦ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROWN|CROWN]] • [[topic CRUELTY|CRUELTY]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REED|REED]] • [[topic SARCASM|SARCASM]] • [[topic SCOFFING|SCOFFING]] • [[topic SOLDIERS|SOLDIERS]] • [[topic THORN|THORN]] • [[topic TREASON|TREASON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.28|<< Matthew 27:28]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.30|Matthew 27:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Believe Moses and Aaron
+type: Pericope
 pericope: "[[Exod.4.27 The People Believe Moses and Aaron|The People Believe Moses and Aaron]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 4
 book/chapter: "[[Exod.4|Exodus 4]]"
-genre:
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.4.27]]"
 - "[[Exod.4.28]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.4.31]]"
 ---
 
-[[Exod.4|Exodus 4:27 - Exodus 4:31]]
+<small>[[Exod.4|Exodus 4:27-31]]</small>
 *The People Believe Moses and Aaron*
 
 [[Exod.4.27|27]] And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.

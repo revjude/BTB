@@ -1,8 +1,63 @@
+---
+title: Micah 7:6
+type: Verse
+kjv: "For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies are the men of his own house."
+bsb: "For a son dishonors his father, a daughter rises against her mother, and a daughter-in-law against her mother-in-law. A man’s enemies are the members of his own household."
+hebrew: "כִּֽי־ בֵן֙ מְנַבֵּ֣ל אָ֔ב בַּ֚ת קָמָ֣ה בְאִמָּ֔הּ כַּלָּ֖ה בַּחֲמֹתָ֑הּ אֹיְבֵ֥י אִ֖ישׁ אַנְשֵׁ֥י בֵיתֽוֹ׃"
+pericope: "[[Mic.7.1 Israel’s Great Misery|Israel’s Great Misery]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H5034A]]"
+- "[[H0001G]]"
+- "[[H1323G]]"
+- "[[H6965J]]"
+- "[[H9003]]"
+- "[[H0517]]"
+- "[[H9024]]"
+- "[[H3618H]]"
+- "[[H2545]]"
+- "[[H0341]]"
+- "[[H0376G]]"
+- "[[H0582]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:6**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies [are] the men of his own house.
 <small><sub>**BSB:**</sub></small>
 For a son dishonors his father, a daughter rises against her mother, and a daughter-in-law against her mother-in-law. A man’s enemies are the members of his own household.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1121A\|בֵן֙]] [[H5034A\|מְנַבֵּ֣ל]] [[H0001G\|אָ֔ב]] [[H1323G\|בַּ֚ת]] [[H6965J\|קָמָ֣ה]] [[H9003\|בְ]][[H0517\|אִמָּ֔]][[H9024\|הּ]] [[H3618H\|כַּלָּ֖ה]] [[H9003\|בַּ]][[H2545\|חֲמֹתָ֑]][[H9024\|הּ]] [[H0341\|אֹיְבֵ֥י]] [[H0376G\|אִ֖ישׁ]] [[H0582\|אַנְשֵׁ֥י]] [[H1004M\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic SIN|SIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.5|<< Micah 7:5]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.7|Micah 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

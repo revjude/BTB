@@ -3,15 +3,15 @@
 
 → (Assassinating a king)
 
-→ Of Ehud [[Judg.3.16|Jud 3:16]]-[[Judg.3.23|23]]
+→ Of Ehud [[Judg.3.16|Jud 3:16-23]]
 
 → Of King Saul  [[2Sam.1.16|2Sa 1:16]]
 
-→ Of Ish-bosheth [[2Sam.4.5|2Sa 4:5]]-[[2Sam.4.8|8]]
+→ Of Ish-bosheth [[2Sam.4.5|2Sa 4:5-8]]
 
-→ Of Nadab [[1Kgs.15.27|1Ki 15:27]]-[[1Kgs.15.29|29]]
+→ Of Nadab [[1Kgs.15.27|1Ki 15:27-29]]
 
-→ Of Elah [[1Kgs.16.9|1Ki 16:9]]-[[1Kgs.16.11|11]]
+→ Of Elah [[1Kgs.16.9|1Ki 16:9-11]]
 
 → Of Joram [[2Kgs.9.24|2Ki 9:24]]
 

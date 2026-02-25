@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Naaman Cured of Leprosy
+type: Pericope
 pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 5
 book/chapter: "[[2Kgs.5|2 Kings 5]]"
-genre:
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[2Kgs.5.1]]"
 - "[[2Kgs.5.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Kgs.5.14]]"
 ---
 
-[[2Kgs.5|2 Kings 5:1 - 2 Kings 5:14]]
+<small>[[2Kgs.5|2 Kings 5:1-14]]</small>
 *Naaman Cured of Leprosy*
 
 [[2Kgs.5.1|1]] Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, \[but he was\] a leper.

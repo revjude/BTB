@@ -1,8 +1,54 @@
+---
+title: Job 27:20
+type: Verse
+kjv: "Terrors take hold on him as waters, a tempest stealeth him away in the night."
+bsb: "Terrors overtake him like a flood; a tempest sweeps him away in the night."
+hebrew: "תַּשִּׂיגֵ֣הוּ כַ֭מַּיִם בַּלָּה֑וֹת לַ֝֗יְלָה גְּנָבַ֥תּוּ סוּפָֽה׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5381]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H1091]]"
+- "[[H3915]]"
+- "[[H1589]]"
+- "[[H5492A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:20**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Terrors take hold on him as waters, a tempest stealeth him away in the night.
 <small><sub>**BSB:**</sub></small>
 Terrors overtake him like a flood; a tempest sweeps him away in the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H5381\|תַּשִּׂיגֵ֣]][[H9033\|הוּ]] [[H9004\|כַ֭]][[H4325G\|מַּיִם]] [[H1091\|בַּלָּה֑וֹת]] [[H3915\|לַ֝֗יְלָה]] [[H1589\|גְּנָבַ֥תּ]][[H9033\|וּ]] [[H5492A\|סוּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.19|<< Job 27:19]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.21|Job 27:21 >>]]</td></tr></table>
 

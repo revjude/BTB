@@ -1,8 +1,65 @@
+---
+title: Daniel 2:48
+type: Verse
+kjv: "Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon."
+bsb: "Then the king promoted Daniel and gave him many generous gifts. He made him ruler over the entire province of Babylon and chief administrator over all the wise men of Babylon."
+aramaic: "אֱדַ֨יִן מַלְכָּ֜א לְדָנִיֵּ֣אל רַבִּ֗י וּמַתְּנָ֨ן רַבְרְבָ֤ן שַׂגִּיאָן֙ יְהַב־ לֵ֔הּ וְהַ֨שְׁלְטֵ֔הּ עַ֖ל כָּל־ מְדִינַ֣ת בָּבֶ֑ל וְרַב־ סִגְנִ֔ין עַ֖ל כָּל־ חַכִּימֵ֥י בָבֶֽל׃"
+pericope: "[[Dan.2.46 Nebuchadnezzar Promotes Daniel|Nebuchadnezzar Promotes Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H7236]]"
+- "[[H9002]]"
+- "[[H4978]]"
+- "[[H7260]]"
+- "[[H7690]]"
+- "[[H3052]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H7981]]"
+- "[[H5922]]"
+- "[[H3606]]"
+- "[[H4083]]"
+- "[[H0895]]"
+- "[[H7229]]"
+- "[[H5460]]"
+- "[[H2445]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:48**<big><big>[[Dan.2.46 Nebuchadnezzar Promotes Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise [men] of Babylon.
 <small><sub>**BSB:**</sub></small>
 Then the king promoted Daniel and gave him many generous gifts. He made him ruler over the entire province of Babylon and chief administrator over all the wise men of Babylon.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֨יִן]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9005\|לְ]][[H1841H\|דָנִיֵּ֣אל]] [[H7236\|רַבִּ֗י]] [[H9002\|וּ]][[H4978\|מַתְּנָ֨ן]] [[H7260\|רַבְרְבָ֤ן]] [[H7690\|שַׂגִּיאָן֙]] [[H3052\|יְהַב]][[H9014\|־]] [[H9005\|לֵ֔]][[H9033\|הּ]] [[H9002\|וְ]][[H7981\|הַ֨שְׁלְטֵ֔]][[H9033\|הּ]] [[H5922\|עַ֖ל]] [[H3606\|כָּל]][[H9014\|־]] [[H4083\|מְדִינַ֣ת]] [[H0895\|בָּבֶ֑ל]] [[H9002\|וְ]][[H7229\|רַב]][[H9014\|־]] [[H5460\|סִגְנִ֔ין]] [[H5922\|עַ֖ל]] [[H3606\|כָּל]][[H9014\|־]] [[H2445\|חַכִּימֵ֥י]] [[H0895\|בָבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANIEL|DANIEL]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.47|<< Daniel 2:47]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.49|Daniel 2:49 >>]]</td></tr></table>
 

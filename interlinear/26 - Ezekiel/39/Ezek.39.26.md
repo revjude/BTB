@@ -1,8 +1,61 @@
+---
+title: Ezekiel 39:26
+type: Verse
+kjv: "After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made them afraid."
+bsb: "They will forget their disgrace and all the treachery they committed against Me, when they dwell securely in their land, with no one to frighten them."
+hebrew: "וְנָשׂוּ֙ אֶת־ כְּלִמָּתָ֔ם וְאֶת־ כָּל־ מַעֲלָ֖ם אֲשֶׁ֣ר מָעֲלוּ־ בִ֑י בְּשִׁבְתָּ֧ם עַל־ אַדְמָתָ֛ם לָבֶ֖טַח וְאֵ֥ין מַחֲרִֽיד׃"
+pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5375I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3639]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4604]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H3427]]"
+- "[[H9048]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:26**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made [them] afraid.
 <small><sub>**BSB:**</sub></small>
 They will forget their disgrace and all the treachery they committed against Me, when they dwell securely in their land, with no one to frighten them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375I\|נָשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3639\|כְּלִמָּתָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4604\|מַעֲלָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H4603\|מָעֲלוּ]][[H9014\|־]] [[H9003\|בִ֑]][[H9030\|י]] [[H9003\|בְּ]][[H3427\|שִׁבְתָּ֧]][[H9048\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֛]][[H9028\|ם]] [[H9005\|לָ]][[H0983\|בֶ֖טַח]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H2729\|מַחֲרִֽיד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.25|<< Ezekiel 39:25]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.27|Ezekiel 39:27 >>]]</td></tr></table>
 

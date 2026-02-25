@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Numbering of the Levite Clans
+type: Pericope
 pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 4
 book/chapter: "[[Num.4|Numbers 4]]"
-genre:
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 16
 verses:
 - "[[Num.4.34]]"
 - "[[Num.4.35]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Num.4.49]]"
 ---
 
-[[Num.4|Numbers 4:34 - Numbers 4:49]]
+<small>[[Num.4|Numbers 4:34-49]]</small>
 *The Numbering of the Levite Clans*
 
 [[Num.4.34|34]] And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,

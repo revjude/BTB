@@ -1,10 +1,57 @@
+---
+title: John 4:28
+type: Verse
+kjv: "The woman then left her waterpot, and went her way into the city, and saith to the men,"
+bsb: "Then the woman left her water jar, went back into the town, and said to the people,"
+greek: "Ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς ἡ γυνὴ καὶ ἀπῆλθεν εἰς τὴν πόλιν καὶ λέγει τοῖς ἀνθρώποις·"
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G0863G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5201]]"
+- "[[G0846]]"
+- "[[G1135G]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G3004G]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **John 4:28**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman then left her waterpot, and went her way into the city, and saith to the men,
 <small><sub>**BSB:**</sub></small>
 Then the woman left her water jar, went back into the town, and said to the people,
-<small><sub>**Literal:**</sub></small>
-Left then the water pot of her the woman and went away into the city and says to the men;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.27|<< John 4:27]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.29|John 4:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0863G\|Ἀφῆκεν]]  [[G3767\|οὖν]]  [[G3588\|τὴν]]  [[G5201\|ὑδρίαν]]  [[G0846\|αὐτῆς]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.27|<< John 4:27]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.29|John 4:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

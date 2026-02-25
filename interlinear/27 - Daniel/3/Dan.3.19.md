@@ -1,8 +1,79 @@
+---
+title: Daniel 3:19
+type: Verse
+kjv: "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated."
+bsb: "At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual,"
+aramaic: "בֵּאדַ֨יִן נְבוּכַדְנֶצַּ֜ר הִתְמְלִ֣י חֱמָ֗א וּצְלֵ֤ם אַנְפּ֙וֹהִי֙ אֶשְׁתַּנִּ֔י עַל־ שַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ עָנֵ֤ה וְאָמַר֙ לְמֵזֵ֣א לְאַתּוּנָ֔א חַ֨ד־ שִׁבְעָ֔ה עַ֛ל דִּ֥י חֲזֵ֖ה לְמֵזְיֵֽהּ׃"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H5020]]"
+- "[[H4391]]"
+- "[[H2528]]"
+- "[[H9002]]"
+- "[[H6755]]"
+- "[[H0600]]"
+- "[[H9023]]"
+- "[[H8133]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H5665]]"
+- "[[H6032]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H0228]]"
+- "[[H0861]]"
+- "[[H9010]]"
+- "[[H2298]]"
+- "[[H7655]]"
+- "[[H1768]]"
+- "[[H2370]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 3:19**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: [therefore] he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
 <small><sub>**BSB:**</sub></small>
 At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual,
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֨יִן]] [[H5020\|נְבוּכַדְנֶצַּ֜ר]] [[H4391\|הִתְמְלִ֣י]] [[H2528\|חֱמָ֗א]] [[H9002\|וּ]][[H6755\|צְלֵ֤ם]] [[H0600\|אַנְפּ֙וֹ]][[H9023\|הִי֙]] [[H8133\|אֶשְׁתַּנִּ֔י]] [[H5922\|עַל]][[H9014\|־]] [[H7715\|שַׁדְרַ֥ךְ]] [[H4336\|מֵישַׁ֖ךְ]] [[H9002\|וַ]][[H5665\|עֲבֵ֣ד]] [[H5665\|נְג֑וֹ]] [[H6032\|עָנֵ֤ה]] [[H9002\|וְ]][[H0560\|אָמַר֙]] [[H9005\|לְ]][[H0228\|מֵזֵ֣א]] [[H9005\|לְ]][[H0861\|אַתּוּנָ֔]][[H9010\|א]] [[H2298\|חַ֨ד]][[H9014\|־]] [[H7655\|שִׁבְעָ֔ה]] [[H5922\|עַ֛ל]] [[H1768\|דִּ֥י]] [[H2370\|חֲזֵ֖ה]] [[H9005\|לְ]][[H0228\|מֵזְיֵֽ]][[H9033\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ANGER|ANGER]] • [[topic COERCION|COERCION]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 

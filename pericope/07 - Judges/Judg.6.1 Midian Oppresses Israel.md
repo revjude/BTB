@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Midian Oppresses Israel
+type: Pericope
 pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 6
 book/chapter: "[[Judg.6|Judges 6]]"
-genre:
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 10
 verses:
 - "[[Judg.6.1]]"
 - "[[Judg.6.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Judg.6.10]]"
 ---
 
-[[Judg.6|Judges 6:1 - Judges 6:10]]
+<small>[[Judg.6|Judges 6:1-10]]</small>
 *Midian Oppresses Israel*
 
 [[Judg.6.1|1]] And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.

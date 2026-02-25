@@ -1,10 +1,65 @@
+---
+title: Romans 15:4
+type: Verse
+kjv: "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
+bsb: "For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope."
+greek: "ὅσα γὰρ προεγράφη πάντα εἰς τὴν ἡμετέραν διδασκαλίαν ἐγράφη, ἵνα διὰ τῆς ὑπομονῆς καὶ διὰ τῆς παρακλήσεως τῶν γραφῶν τὴν ἐλπίδα ἔχωμεν.¶"
+pericope: "[[Rom.15.1 Accept One Another|Accept One Another]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3745]]"
+- "[[G1063]]"
+- "[[G4270]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G1319]]"
+- "[[G1125]]"
+- "[[G2443]]"
+- "[[G1223]]"
+- "[[G5281]]"
+- "[[G2532]]"
+- "[[G3874]]"
+- "[[G1124]]"
+- "[[G1680]]"
+- "[[G2192]]"
+texts:
+- NKO
+- O
+- N(k)O
+---
+
 **Romans 15:4**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 <small><sub>**BSB:**</sub></small>
 For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.
-<small><sub>**Literal:**</sub></small>
-As much as for was written in the past all things for <the> our own instruction was written, so that through <the> endurance and through the encouragement of the Scriptures <the> hope we may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.3|<< Romans 15:3]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.5|Romans 15:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3745\|ὅσα]]  [[G1063\|γὰρ]]  [[G4270\|προεγράφη]]  [[G3956\|πάντα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1473\|ἡμετέραν]]  [[G1319\|διδασκαλίαν]]  [[G1125\|ἐγράφη,]]  [[G2443\|ἵνα]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5281\|ὑπομονῆς]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3874\|παρακλήσεως]]  [[G3588\|τῶν]]  [[G1124\|γραφῶν]]  [[G3588\|τὴν]]  [[G1680\|ἐλπίδα]]  [[G2192\|ἔχωμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOPE|HOPE]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.3|<< Romans 15:3]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.5|Romans 15:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

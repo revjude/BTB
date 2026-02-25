@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 13:16
+type: Verse
+kjv: "And she said unto him, There is no cause: this evil in sending me away is greater than the other that thou didst unto me. But he would not hearken unto her."
+bsb: "“No,” she replied, “sending me away is worse than this great wrong you have already done to me!” But he refused to listen to her."
+hebrew: "וַתֹּ֣אמֶר ל֗וֹ אַל־ אוֹדֹ֞ת הָרָעָ֤ה הַגְּדוֹלָה֙ הַזֹּ֔את מֵאַחֶ֛רֶת אֲשֶׁר־ עָשִׂ֥יתָ עִמִּ֖י לְשַׁלְּחֵ֑נִי וְלֹ֥א אָבָ֖ה לִשְׁמֹ֥עַֽ לָֽהּ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0182]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H0312]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H7971G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H8085G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:16**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto him, [There is] no cause: this evil in sending me away [is] greater than the other that thou didst unto me. But he would not hearken unto her.
 <small><sub>**BSB:**</sub></small>
 “No,” she replied, “sending me away is worse than this great wrong you have already done to me!” But he refused to listen to her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H0182\|אוֹדֹ֞ת]] [[H9009\|הָ]][[H7451I\|רָעָ֤ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9006\|מֵ]][[H0312\|אַחֶ֛רֶת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֥יתָ]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H7971G\|שַׁלְּחֵ֑]][[H9030\|נִי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֥עַֽ]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.15|<< 2 Samuel 13:15]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.17|2 Samuel 13:17 >>]]</td></tr></table>
 

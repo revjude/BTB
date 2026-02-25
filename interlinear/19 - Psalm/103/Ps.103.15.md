@@ -1,8 +1,55 @@
+---
+title: Psalm 103:15
+type: Verse
+kjv: "As for man, his days are as grass: as a flower of the field, so he flourisheth."
+bsb: "As for man, his days are like grass—he blooms like a flower of the field;"
+hebrew: "אֱ֭נוֹשׁ כֶּחָצִ֣יר יָמָ֑יו כְּצִ֥יץ הַ֝שָּׂדֶ֗ה כֵּ֣ן יָצִֽיץ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H0582]]"
+- "[[H9004]]"
+- "[[H2682A]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H6731A]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H3651C]]"
+- "[[H6692A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:15**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] man, his days [are] as grass: as a flower of the field, so he flourisheth.
 <small><sub>**BSB:**</sub></small>
 As for man, his days are like grass—he blooms like a flower of the field;
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אֱ֭נוֹשׁ]] [[H9004\|כֶּ]][[H2682A\|חָצִ֣יר]] [[H3117G\|יָמָ֑י]][[H9023\|ו]] [[H9004\|כְּ]][[H6731A\|צִ֥יץ]] [[H9009\|הַ֝]][[H7704G\|שָּׂדֶ֗ה]] [[H3651C\|כֵּ֣ן]] [[H6692A\|יָצִֽיץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.14|<< Psalms 103:14]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.16|Psalms 103:16 >>]]</td></tr></table>
 

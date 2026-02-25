@@ -1,8 +1,55 @@
+---
+title: Psalm 139:13
+type: Verse
+kjv: "For thou hast possessed my reins: thou hast covered me in my mother’s womb."
+bsb: "For You formed my inmost being; You knit me together in my mother’s womb."
+hebrew: "כִּֽי־ אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H7069]]"
+- "[[H3629]]"
+- "[[H9020]]"
+- "[[H5526C]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:13**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast possessed my reins: thou hast covered me in my mother’s womb.
 <small><sub>**BSB:**</sub></small>
 For You formed my inmost being; You knit me together in my mother’s womb.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַ֭תָּה]] [[H7069\|קָנִ֣יתָ]] [[H3629\|כִלְיֹתָ֑]][[H9020\|י]] [[H5526C\|תְּ֝סֻכֵּ֗]][[H9030\|נִי]] [[H9003\|בְּ]][[H0990H\|בֶ֣טֶן]] [[H0517\|אִמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.12|<< Psalms 139:12]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.14|Psalms 139:14 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 60:22
+type: Verse
+kjv: "A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time."
+bsb: "The least of you will become a thousand, and the smallest a mighty nation. I am the LORD; in its time I will accomplish it quickly."
+hebrew: "הַקָּטֹן֙ יִֽהְיֶ֣ה לָאֶ֔לֶף וְהַצָּעִ֖יר לְג֣וֹי עָצ֑וּם אֲנִ֥י יְהוָ֖ה בְּעִתָּ֥הּ אֲחִישֶֽׁנָּה׃ ס"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+strongs:
+- "[[H9009]]"
+- "[[H6996B]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0505H]]"
+- "[[H9002]]"
+- "[[H6810]]"
+- "[[H1471A]]"
+- "[[H6099]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9024]]"
+- "[[H2363A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 60:22**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.
 <small><sub>**BSB:**</sub></small>
 The least of you will become a thousand, and the smallest a mighty nation. I am the LORD; in its time I will accomplish it quickly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6996B\|קָּטֹן֙]] [[H1961\|יִֽהְיֶ֣ה]] [[H9005\|לָ]][[H0505H\|אֶ֔לֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H6810\|צָּעִ֖יר]] [[H9005\|לְ]][[H1471A\|ג֣וֹי]] [[H6099\|עָצ֑וּם]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H6256\|עִתָּ֥]][[H9024\|הּ]] [[H2363A\|אֲחִישֶֽׁ]][[H9034\|נָּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.21|<< Isaiah 60:21]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.1|Isaiah 61:1 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ The least of you will become a thousand, and the smallest a mighty nation. I am 
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at appropriate time its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עִתָּ֥]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'i.Ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will hasten it  |**<big>&#8207;[[H2363A\|אֲחִישֶֽׁ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.chi.She.<small><sup>[[HVhi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will hasten it  |**<big>&#8207;[[H2363A\|אֲחִישֶֽׁ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.chi.She.<small><sup>[[HVhi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.21|<< Isaiah 60:21]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.1|Isaiah 61:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,67 @@
+---
+title: Numbers 9:1
+type: Verse
+kjv: "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
+bsb: "In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai:"
+hebrew: "וַיְדַבֵּ֣ר יְהוָ֣ה אֶל־ מֹשֶׁ֣ה בְמִדְבַּר־ סִ֠ינַי בַּשָּׁנָ֨ה הַשֵּׁנִ֜ית לְצֵאתָ֨ם מֵאֶ֧רֶץ מִצְרַ֛יִם בַּחֹ֥דֶשׁ הָרִאשׁ֖וֹן לֵאמֹֽר׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H2320G]]"
+- "[[H7223G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:1**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 <small><sub>**BSB:**</sub></small>
 In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H3068G\|יְהוָ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9003\|בְ]][[H4057B\|מִדְבַּר]][[H9014\|־]] [[H5514H\|סִ֠ינַי]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֨ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֜ית]] [[H9005\|לְ]][[H3318G\|צֵאתָ֨]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֧רֶץ]] [[H4714G\|מִצְרַ֛יִם]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.26|<< Numbers 8:26]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.2|Numbers 9:2 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Luke 12:49
+type: Verse
+kjv: "I am come to send fire on the earth; and what will I, if it be already kindled?"
+bsb: "I have come to ignite a fire on the earth, and how I wish it were already kindled!"
+jesus_said: "I am come to send fire on the earth; and what will I, if it be already kindled?"
+greek: "Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν καὶ τί θέλω εἰ ἤδη ἀνήφθη."
+pericope: "[[Luke.12.49 Not Peace but Division|Not Peace but Division]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4442]]"
+- "[[G2064]]"
+- "[[G0906G]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G2309]]"
+- "[[G1487J]]"
+- "[[G2235]]"
+- "[[G0381]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 12:49**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am come to send fire on the earth; and what will I, if it be already kindled?
 <small><sub>**BSB:**</sub></small>
 I have come to ignite a fire on the earth, and how I wish it were already kindled!
-<small><sub>**Literal:**</sub></small>
-Fire I came to cast upon the earth and how I wish if already it be kindled!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.48|<< Luke 12:48]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.50|Luke 12:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4442\|Πῦρ]]  [[G2064\|ἦλθον]]  [[G0906G\|βαλεῖν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G5101\|τί]]  [[G2309\|θέλω]]  [[G1487J\|εἰ]]  [[G2235\|ἤδη]]  [[G0381\|ἀνήφθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.48|<< Luke 12:48]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.50|Luke 12:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

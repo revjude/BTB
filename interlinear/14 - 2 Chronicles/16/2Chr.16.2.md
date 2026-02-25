@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 16:2
+type: Verse
+kjv: "Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,"
+bsb: "So Asa withdrew the silver and gold from the treasuries of the house of the LORD and the royal palace, and he sent it with this message to Ben-hadad king of Aram, who was ruling in Damascus:"
+hebrew: "וַיֹּצֵ֨א אָסָ֜א כֶּ֣סֶף וְזָהָ֗ב מֵאֹֽצְר֛וֹת בֵּ֥ית יְהוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַיִּשְׁלַ֗ח אֶל־ בֶּן־ הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם הַיּוֹשֵׁ֥ב בְּדַרְמֶ֖שֶׂק לֵאמֹֽר׃"
+pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0609G]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H9006]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1130G]]"
+- "[[H0758I]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1834]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:2**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
 <small><sub>**BSB:**</sub></small>
 So Asa withdrew the silver and gold from the treasuries of the house of the LORD and the royal palace, and he sent it with this message to Ben-hadad king of Aram, who was ruling in Damascus:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יֹּצֵ֨א]] [[H0609G\|אָסָ֜א]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֗ב]] [[H9006\|מֵ]][[H0214\|אֹֽצְר֛וֹת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וּ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H0413\|אֶל]][[H9014\|־]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַד֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֔ם]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁ֥ב]] [[H9003\|בְּ]][[H1834\|דַרְמֶ֖שֶׂק]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BAASHA|BAASHA]] • [[topic BEN-HADAD|BEN-HADAD]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.1|<< 2 Chronicles 16:1]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.3|2 Chronicles 16:3 >>]]</td></tr></table>
 

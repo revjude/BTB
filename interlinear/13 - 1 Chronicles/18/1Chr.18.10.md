@@ -1,8 +1,81 @@
+---
+title: 1 Chronicles 18:10
+type: Verse
+kjv: "He sent Hadoram his son to king David, to inquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass."
+bsb: "he sent his son Hadoram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Tou. Hadoram brought all kinds of articles of gold and silver and bronze,"
+hebrew: "וַיִּשְׁלַ֣ח אֶת־ הֲדֽוֹרָם־ בְּנ֣וֹ אֶל־ הַמֶּֽלֶךְ־ דָּ֠וִיד לִשְׁאָל ל֨וֹ לְשָׁל֜וֹם וּֽלְבָרֲכ֗וֹ עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֙זֶר֙ וַיַּכֵּ֔הוּ כִּי־ אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עוּ הָיָ֣ה הֲדַדְעָ֑זֶר וְכֹ֗ל כְּלֵ֛י זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃"
+pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic HADORAM|HADORAM]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TOI|TOI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1913G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H7592]]"
+- "[[H9033]]"
+- "[[H7965I]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H1928]]"
+- "[[H5221]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H8583]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Chronicles 18:10**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent Hadoram his son to king David, to inquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and [with him] all manner of vessels of gold and silver and brass.
 <small><sub>**BSB:**</sub></small>
 he sent his son Hadoram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Tou. Hadoram brought all kinds of articles of gold and silver and bronze,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1913G\|הֲדֽוֹרָם]][[H9014\|־]] [[H1121A\|בְּנ֣]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9014\|־]] [[H1732\|דָּ֠וִיד]] [[H9005\|לִ]][[H7592\|שְׁאָל]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H9005\|לְ]][[H7965I\|שָׁל֜וֹם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H1288\|בָרֲכ֗]][[H9033\|וֹ]] [[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H3898A\|נִלְחַ֤ם]] [[H9003\|בַּ]][[H1928\|הֲדַדְעֶ֙זֶר֙]] [[H9001\|וַ]][[H5221\|יַּכֵּ֔]][[H9033\|הוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H4421\|מִלְחֲמ֥וֹת]] [[H8583\|תֹּ֖עוּ]] [[H1961\|הָיָ֣ה]] [[H1928\|הֲדַדְעָ֑זֶר]] [[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H3627\|כְּלֵ֛י]] [[H2091\|זָהָ֥ב]] [[H9002\|וָ]][[H3701G\|כֶ֖סֶף]] [[H9002\|וּ]][[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic HADORAM|HADORAM]] • [[topic HAMATH|HAMATH]] • [[topic JORAM|JORAM]] • [[topic MOABITES|MOABITES]] • [[topic SILVER|SILVER]] • [[topic TOI|TOI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.9|<< 1 Chronicles 18:9]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.11|1 Chronicles 18:11 >>]]</td></tr></table>
 

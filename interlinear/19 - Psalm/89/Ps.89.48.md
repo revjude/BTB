@@ -1,8 +1,62 @@
+---
+title: Psalm 89:48
+type: Verse
+kjv: "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah."
+bsb: "What man can live and never see death? Can he deliver his soul from the power of Sheol? Selah"
+hebrew: "מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה־ מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד־ שְׁא֣וֹל סֶֽלָה׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H4310]]"
+- "[[H1397]]"
+- "[[H2421]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H4422]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7585]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:48**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man [is he that] liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.
 <small><sub>**BSB:**</sub></small>
 What man can live and never see death? Can he deliver his soul from the power of Sheol? Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H1397\|גֶ֣בֶר]] [[H2421\|יִֽ֭חְיֶה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|יִרְאֶה]][[H9014\|־]] [[H4194\|מָּ֑וֶת]] [[H4422\|יְמַלֵּ֨ט]] [[H5315G\|נַפְשׁ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027H\|יַּד]][[H9014\|־]] [[H7585\|שְׁא֣וֹל]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic HELL|HELL]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.47|<< Psalms 89:47]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.49|Psalms 89:49 >>]]</td></tr></table>
 

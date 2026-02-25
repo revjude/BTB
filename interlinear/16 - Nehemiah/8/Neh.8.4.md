@@ -1,8 +1,97 @@
+---
+title: Nehemiah 8:4
+type: Verse
+kjv: "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam."
+bsb: "Ezra the scribe stood on a high wooden platform built for this occasion. At his right side stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, and at his left were Pedaiah, Mishael, Malchijah, Hashum, Hash-baddanah, Zechariah, and Meshullam."
+hebrew: "וַֽיַּעֲמֹ֞ד עֶזְרָ֣א הַסֹּפֵ֗ר עַֽל־ מִגְדַּל־ עֵץ֮ אֲשֶׁ֣ר עָשׂ֣וּ לַדָּבָר֒ וַיַּֽעֲמֹ֣ד אֶצְל֡וֹ מַתִּתְיָ֡ה וְשֶׁ֡מַע וַ֠עֲנָיָה וְאוּרִיָּ֧ה וְחִלְקִיָּ֛ה וּמַעֲשֵׂיָ֖ה עַל־ יְמִינ֑וֹ וּמִשְּׂמֹאל֗וֹ פְּ֠דָיָה וּמִֽישָׁאֵ֧ל וּמַלְכִּיָּ֛ה וְחָשֻׁ֥ם וְחַשְׁבַּדָּ֖נָה זְכַרְיָ֥ה מְשֻׁלָּֽם׃ פ"
+pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ANAIAH|ANAIAH]]"
+- "[[topic ANANIAH|ANANIAH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HASHBADANA|HASHBADANA]]"
+- "[[topic HASHUM|HASHUM]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic MALCHIAH|MALCHIAH]]"
+- "[[topic MATTITHIAH|MATTITHIAH]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PEDAIAH|PEDAIAH]]"
+- "[[topic PULPIT|PULPIT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SHEMA|SHEMA]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic URIJAH|URIJAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H5830G]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4026M]]"
+- "[[H6086G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H1697M]]"
+- "[[H0681]]"
+- "[[H9033]]"
+- "[[H4993J]]"
+- "[[H9002]]"
+- "[[H8087J]]"
+- "[[H6043G]]"
+- "[[H0223I]]"
+- "[[H2518K]]"
+- "[[H4641Q]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H8040G]]"
+- "[[H6305K]]"
+- "[[H4332H]]"
+- "[[H4441P]]"
+- "[[H2828H]]"
+- "[[H2806]]"
+- "[[H2148U]]"
+- "[[H4918T]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 8:4**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, [and] Meshullam.
 <small><sub>**BSB:**</sub></small>
 Ezra the scribe stood on a high wooden platform built for this occasion. At his right side stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah, and at his left were Pedaiah, Mishael, Malchijah, Hashum, Hash-baddanah, Zechariah, and Meshullam.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֞ד]] [[H5830G\|עֶזְרָ֣א]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֗ר]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4026M\|מִגְדַּל]][[H9014\|־]] [[H6086G\|עֵץ֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשׂ֣וּ]] [[H9005\|לַ]][[H1697M\|דָּבָר֒]] [[H9001\|וַ]][[H5975G\|יַּֽעֲמֹ֣ד]] [[H0681\|אֶצְל֡]][[H9033\|וֹ]] [[H4993J\|מַתִּתְיָ֡ה]] [[H9002\|וְ]][[H8087J\|שֶׁ֡מַע]] [[H9002\|וַ֠]][[H6043G\|עֲנָיָה]] [[H9002\|וְ]][[H0223I\|אוּרִיָּ֧ה]] [[H9002\|וְ]][[H2518K\|חִלְקִיָּ֛ה]] [[H9002\|וּ]][[H4641Q\|מַעֲשֵׂיָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יְמִינ֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H8040G\|שְּׂמֹאל֗]][[H9023\|וֹ]] [[H6305K\|פְּ֠דָיָה]] [[H9002\|וּ]][[H4332H\|מִֽישָׁאֵ֧ל]] [[H9002\|וּ]][[H4441P\|מַלְכִּיָּ֛ה]] [[H9002\|וְ]][[H2828H\|חָשֻׁ֥ם]] [[H9002\|וְ]][[H2806\|חַשְׁבַּדָּ֖נָה]] [[H2148U\|זְכַרְיָ֥ה]] [[H4918T\|מְשֻׁלָּֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAIAH|ANAIAH]] • [[topic ANANIAH|ANANIAH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FEASTS|FEASTS]] • [[topic HASHBADANA|HASHBADANA]] • [[topic HASHUM|HASHUM]] • [[topic HILKIAH|HILKIAH]] • [[topic LAW|LAW]] • [[topic MAASEIAH|MAASEIAH]] • [[topic MALCHIAH|MALCHIAH]] • [[topic MATTITHIAH|MATTITHIAH]] • [[topic MESHULLAM|MESHULLAM]] • [[topic MISHAEL|MISHAEL]] • [[topic PEDAIAH|PEDAIAH]] • [[topic PULPIT|PULPIT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SHEMA|SHEMA]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic URIJAH|URIJAH]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.3|<< Nehemiah 8:3]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.5|Nehemiah 8:5 >>]]</td></tr></table>
 
@@ -34,7 +123,7 @@ Ezra the scribe stood on a high wooden platform built for this occasion. At his 
 | and Hashum  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2828H\|חָשֻׁ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Shum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Hashbaddanah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2806\|חַשְׁבַּדָּ֖נָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chash.ba.Da.nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zechariah  |**<big>&#8207;[[H2148U\|זְכַרְיָ֥ה]]&#8207; </big>**| ze.khar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Meshullam  |**<big>&#8207;[[H4918T\|מְשֻׁלָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.shu.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Meshullam  |**<big>&#8207;[[H4918T\|מְשֻׁלָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.shu.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.3|<< Nehemiah 8:3]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.5|Nehemiah 8:5 >>]]</td></tr></table>
 
 

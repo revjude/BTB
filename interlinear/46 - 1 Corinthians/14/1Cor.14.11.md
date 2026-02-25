@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 14:11
+type: Verse
+kjv: "Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh shall be a barbarian unto me."
+bsb: "If, then, I do not know the meaning of someone’s language, I am a foreigner to the speaker, and he is a foreigner to me."
+greek: "ἐὰν οὖν μὴ εἰδῶ τὴν δύναμιν τῆς φωνῆς, ἔσομαι τῷ λαλοῦντι βάρβαρος καὶ ὁ λαλῶν ἐν ἐμοὶ βάρβαρος·"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BARBARIAN|BARBARIAN]]"
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G3361]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G5456G]]"
+- "[[G1510]]"
+- "[[G2980]]"
+- "[[G0915]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:11**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh [shall be] a barbarian unto me.
 <small><sub>**BSB:**</sub></small>
 If, then, I do not know the meaning of someone’s language, I am a foreigner to the speaker, and he is a foreigner to me.
-<small><sub>**Literal:**</sub></small>
-If therefore not I shall know the power of the sound, I will be to the [one] speaking a foreigner and the [one] speaking to me myself a foreigner;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.10|<< 1 Corinthians 14:10]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.12|1 Corinthians 14:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G3361\|μὴ]]  [[G6063\|εἰδῶ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς,]]  [[G1510\|ἔσομαι]]  [[G3588\|τῷ]]  [[G2980\|λαλοῦντι]]  [[G0915\|βάρβαρος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G0915\|βάρβαρος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARBARIAN|BARBARIAN]] • [[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.10|<< 1 Corinthians 14:10]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.12|1 Corinthians 14:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

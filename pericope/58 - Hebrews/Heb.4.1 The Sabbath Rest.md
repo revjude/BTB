@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sabbath Rest
+type: Pericope
 pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 4
 book/chapter: "[[Heb.4|Hebrews 4]]"
-genre:
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 11
 verses:
 - "[[Heb.4.1]]"
 - "[[Heb.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Heb.4.11]]"
 ---
 
-[[Heb.4|Hebrews 4:1 - Hebrews 4:11]]
+<small>[[Heb.4|Hebrews 4:1-11]]</small>
 *The Sabbath Rest*
 
 [[Heb.4.1|1]] Let us therefore fear, lest, a promise being left \[us\] of entering into his rest, any of you should seem to come short of it.

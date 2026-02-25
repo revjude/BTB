@@ -1,8 +1,70 @@
+---
+title: Esther 4:14
+type: Verse
+kjv: "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?"
+bsb: "For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s house will perish. And who knows if perhaps you have come to the kingdom for such a time as this?”"
+hebrew: "כִּ֣י אִם־ הַחֲרֵ֣שׁ תַּחֲרִישִׁי֮ בָּעֵ֣ת הַזֹּאת֒ רֶ֣וַח וְהַצָּלָ֞ה יַעֲמ֤וֹד לַיְּהוּדִים֙ מִמָּק֣וֹם אַחֵ֔ר וְאַ֥תְּ וּבֵית־ אָבִ֖יךְ תֹּאבֵ֑דוּ וּמִ֣י יוֹדֵ֔עַ אִם־ לְעֵ֣ת כָּזֹ֔את הִגַּ֖עַתְּ לַמַּלְכֽוּת׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H2790B]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H7305]]"
+- "[[H9002]]"
+- "[[H2020]]"
+- "[[H5975I]]"
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H0312]]"
+- "[[H0859C]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9022]]"
+- "[[H0006]]"
+- "[[H4310]]"
+- "[[H3045]]"
+- "[[H0518A]]"
+- "[[H9004]]"
+- "[[H5060]]"
+- "[[H4438]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:14**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if thou altogether holdest thy peace at this time, [then] shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father’s house shall be destroyed: and who knoweth whether thou art come to the kingdom for [such] a time as this?
 <small><sub>**BSB:**</sub></small>
 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s house will perish. And who knows if perhaps you have come to the kingdom for such a time as this?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H2790B\|הַחֲרֵ֣שׁ]] [[H2790B\|תַּחֲרִישִׁי֮]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H2063\|זֹּאת֒]] [[H7305\|רֶ֣וַח]] [[H9002\|וְ]][[H2020\|הַצָּלָ֞ה]] [[H5975I\|יַעֲמ֤וֹד]] [[H9005\|לַ]][[H3064\|יְּהוּדִים֙]] [[H9006\|מִ]][[H4725\|מָּק֣וֹם]] [[H0312\|אַחֵ֔ר]] [[H9002\|וְ]][[H0859C\|אַ֥תְּ]] [[H9002\|וּ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9022\|ךְ]] [[H0006\|תֹּאבֵ֑דוּ]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H3045\|יוֹדֵ֔עַ]] [[H0518A\|אִם]][[H9014\|־]] [[H9005\|לְ]][[H6256\|עֵ֣ת]] [[H9004\|כָּ]][[H2063\|זֹ֔את]] [[H5060\|הִגַּ֖עַתְּ]] [[H9005\|לַ]][[H4438\|מַּלְכֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.13|<< Esther 4:13]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.15|Esther 4:15 >>]]</td></tr></table>
 

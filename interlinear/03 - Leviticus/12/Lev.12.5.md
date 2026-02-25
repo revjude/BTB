@@ -1,8 +1,65 @@
+---
+title: Leviticus 12:5
+type: Verse
+kjv: "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+bsb: "If, however, she gives birth to a daughter, the woman will be unclean for two weeks as she is during her menstruation. Then she must continue in purification from her bleeding for sixty-six days."
+hebrew: "וְאִם־ נְקֵבָ֣ה תֵלֵ֔ד וְטָמְאָ֥ה שְׁבֻעַ֖יִם כְּנִדָּתָ֑הּ וְשִׁשִּׁ֥ים יוֹם֙ וְשֵׁ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב עַל־ דְּמֵ֥י טָהֳרָֽה׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5347]]"
+- "[[H3205]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H7620H]]"
+- "[[H9004]]"
+- "[[H5079]]"
+- "[[H9024]]"
+- "[[H8346]]"
+- "[[H3117G]]"
+- "[[H8337]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H1818]]"
+- "[[H2892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:5**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
 <small><sub>**BSB:**</sub></small>
 If, however, she gives birth to a daughter, the woman will be unclean for two weeks as she is during her menstruation. Then she must continue in purification from her bleeding for sixty-six days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5347\|נְקֵבָ֣ה]] [[H3205\|תֵלֵ֔ד]] [[H9001\|וְ]][[H2930A\|טָמְאָ֥ה]] [[H7620H\|שְׁבֻעַ֖יִם]] [[H9004\|כְּ]][[H5079\|נִדָּתָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֥ים]] [[H3117G\|יוֹם֙]] [[H9002\|וְ]][[H8337\|שֵׁ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H3427\|תֵּשֵׁ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H1818\|דְּמֵ֥י]] [[H2892A\|טָהֳרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.4|<< Leviticus 12:4]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.6|Leviticus 12:6 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Job 42:16
+type: Verse
+kjv: "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, even four generations."
+bsb: "After this, Job lived 140 years and saw his children and their children to the fourth generation."
+hebrew: "וַיְחִ֤י אִיּוֹב֙ אַֽחֲרֵי־ זֹ֔את מֵאָ֥ה וְאַרְבָּעִ֖ים שָׁנָ֑ה וַיִּרְאֶ֗ה אֶת־ בָּנָיו֙ וְאֶת־ בְּנֵ֣י בָנָ֔יו אַרְבָּעָ֖ה דֹּרֽוֹת׃"
+pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0347]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0702]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 42:16**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, [even] four generations.
 <small><sub>**BSB:**</sub></small>
 After this, Job lived 140 years and saw his children and their children to the fourth generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֤י]] [[H0347\|אִיּוֹב֙]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H2063\|זֹ֔את]] [[H3967\|מֵאָ֥ה]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H7200G\|יִּרְאֶ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H1121A\|בָנָ֔י]][[H9023\|ו]] [[H0702\|אַרְבָּעָ֖ה]] [[H1755\|דֹּרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.15|<< Job 42:15]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.17|Job 42:17 >>]]</td></tr></table>
 

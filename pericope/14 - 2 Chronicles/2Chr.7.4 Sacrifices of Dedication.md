@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sacrifices of Dedication
+type: Pericope
 pericope: "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 7
 book/chapter: "[[2Chr.7|2 Chronicles 7]]"
-genre:
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.7.4]]"
 - "[[2Chr.7.5]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.7.10]]"
 ---
 
-[[2Chr.7|2 Chronicles 7:4 - 2 Chronicles 7:10]]
+<small>[[2Chr.7|2 Chronicles 7:4-10]]</small>
 *Sacrifices of Dedication*
 
 [[2Chr.7.4|4]] Then the king and all the people offered sacrifices before the LORD.

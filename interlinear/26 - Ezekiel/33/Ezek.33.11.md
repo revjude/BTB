@@ -1,8 +1,84 @@
+---
+title: Ezekiel 33:11
+type: Verse
+kjv: "Say unto them, As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?"
+bsb: "Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’"
+hebrew: "אֱמֹ֨ר אֲלֵיהֶ֜ם חַי־ אָ֣נִי׀ נְאֻ֣ם׀ אֲדֹנָ֣י יְהוִ֗ה אִם־ אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י אִם־ בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה תָמ֖וּתוּ בֵּ֥ית יִשְׂרָאֵֽל׃ פ"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518H]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H4194]]"
+- "[[H9009]]"
+- "[[H7563]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9026]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4191]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 33:11**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto them, [As] I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?
 <small><sub>**BSB:**</sub></small>
 Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֨ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֣נִי]][[H9015\|׀]] [[H5002\|נְאֻ֣ם]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H0518H\|אִם]][[H9014\|־]] [[H2654A\|אֶחְפֹּץ֙]] [[H9003\|בְּ]][[H4194\|מ֣וֹת]] [[H9009\|הָ]][[H7563\|רָשָׁ֔ע]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H7725O\|שׁ֥וּב]] [[H7563\|רָשָׁ֛ע]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H2421\|חָיָ֑ה]] [[H7725O\|שׁ֣וּבוּ]] [[H7725O\|שׁ֜וּבוּ]] [[H9006\|מִ]][[H1870G\|דַּרְכֵי]][[H9026\|כֶ֧ם]] [[H9009\|הָ]][[H7451H\|רָעִ֛ים]] [[H9002\|וְ]][[H9005\|לָ֥]][[H4100\|מָּה]] [[H4191\|תָמ֖וּתוּ]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.10|<< Ezekiel 33:10]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.12|Ezekiel 33:12 >>]]</td></tr></table>
 
@@ -32,7 +108,7 @@ Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure i
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you die  |**<big>&#8207;[[H4191\|תָמ֖וּתוּ]]&#8207; </big>**| ta.Mu.tu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.10|<< Ezekiel 33:10]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.12|Ezekiel 33:12 >>]]</td></tr></table>
 
 

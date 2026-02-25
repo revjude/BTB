@@ -1,8 +1,47 @@
+---
+title: 1 Chronicles 6:1
+type: Verse
+kjv: "The sons of Levi; Gershon, Kohath, and Merari."
+bsb: "The sons of Levi: Gershon, Kohath, and Merari."
+hebrew: "בְּנֵ֖י לֵוִ֑י גֵּרְשׁ֕וֹן קְהָ֖ת וּמְרָרִֽי׃"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GERSHON|GERSHON]]"
+strongs:
+- "[[H1121A]]"
+- "[[H3878]]"
+- "[[H1648]]"
+- "[[H6955]]"
+- "[[H9002]]"
+- "[[H4847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:1**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Levi; Gershon, Kohath, and Merari.
 <small><sub>**BSB:**</sub></small>
 The sons of Levi: Gershon, Kohath, and Merari.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֖י]] [[H3878\|לֵוִ֑י]] [[H1648\|גֵּרְשׁ֕וֹן]] [[H6955\|קְהָ֖ת]] [[H9002\|וּ]][[H4847\|מְרָרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.26|<< 1 Chronicles 5:26]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.2|1 Chronicles 6:2 >>]]</td></tr></table>
 

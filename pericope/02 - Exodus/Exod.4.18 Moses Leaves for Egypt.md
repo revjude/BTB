@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Leaves for Egypt
+type: Pericope
 pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 4
 book/chapter: "[[Exod.4|Exodus 4]]"
-genre:
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.4.18]]"
 - "[[Exod.4.19]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.4.26]]"
 ---
 
-[[Exod.4|Exodus 4:18 - Exodus 4:26]]
+<small>[[Exod.4|Exodus 4:18-26]]</small>
 *Moses Leaves for Egypt*
 
 [[Exod.4.18|18]] And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which \[are\] in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.

@@ -1,8 +1,50 @@
+---
+title: Song of Solomon 2:6
+type: Verse
+kjv: "His left hand is under my head, and his right hand doth embrace me."
+bsb: "His left hand is under my head, and his right arm embraces me."
+hebrew: "שְׂמֹאלוֹ֙ תַּ֣חַת לְרֹאשִׁ֔י וִימִינ֖וֹ תְּחַבְּקֵֽנִי׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ARM|ARM]]"
+strongs:
+- "[[H8040G]]"
+- "[[H9023]]"
+- "[[H8478G]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H2263]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:6**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His left hand [is] under my head, and his right hand doth embrace me.
 <small><sub>**BSB:**</sub></small>
 His left hand is under my head, and his right arm embraces me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8040G\|שְׂמֹאל]][[H9023\|וֹ֙]] [[H8478G\|תַּ֣חַת]] [[H9005\|לְ]][[H7218A\|רֹאשִׁ֔]][[H9020\|י]] [[H9002\|וִ]][[H3225G\|ימִינ֖]][[H9023\|וֹ]] [[H2263\|תְּחַבְּקֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.5|<< Song of Solomon 2:5]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.7|Song of Solomon 2:7 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vows of the Covenant
+type: Pericope
 pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 10
 book/chapter: "[[Neh.10|Nehemiah 10]]"
-genre:
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 12
 verses:
 - "[[Neh.10.28]]"
 - "[[Neh.10.29]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Neh.10.39]]"
 ---
 
-[[Neh.10|Nehemiah 10:28 - Nehemiah 10:39]]
+<small>[[Neh.10|Nehemiah 10:28-39]]</small>
 *The Vows of the Covenant*
 
 [[Neh.10.28|28]] And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;

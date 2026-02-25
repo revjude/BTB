@@ -1,10 +1,63 @@
+---
+title: Romans 16:19
+type: Verse
+kjv: "For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil."
+bsb: "Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil."
+greek: "ἡ γὰρ ὑμῶν ὑπακοὴ εἰς πάντας ἀφίκετο· τὸ ἐφ᾽ ὑμῖν οὖν χαίρω. θέλω δὲ ὑμᾶς σοφοὺς μὲν εἶναι εἰς τὸ ἀγαθὸν ἀκεραίους δὲ εἰς τὸ κακόν."
+pericope: "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G5218]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G0864]]"
+- "[[G1909]]"
+- "[[G3767]]"
+- "[[G5463]]"
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G4680]]"
+- "[[G3303]]"
+- "[[G1511]]"
+- "[[G0018]]"
+- "[[G0185]]"
+- "[[G2556G]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **Romans 16:19**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For your obedience is come abroad unto all [men]. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.
 <small><sub>**BSB:**</sub></small>
 Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil.
-<small><sub>**Literal:**</sub></small>
-The for of you obedience to all has reached; <the> Over you therefore I rejoice. I wish however you wise indeed to be to <the> good innocent however to <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.18|<< Romans 16:18]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.20|Romans 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῶν]]  [[G5218\|ὑπακοὴ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G0864\|ἀφίκετο·]]  [[G3588\|τὸ]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμῖν]]  [[G3767\|οὖν]]  [[G5463\|χαίρω.]]  [[G2309\|θέλω]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G4680\|σοφοὺς]]  [[G3303\|μὲν]]  [[G1511\|εἶναι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθὸν]]  [[G0185\|ἀκεραίους]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2556G\|κακόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.18|<< Romans 16:18]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.20|Romans 16:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 23:17
+type: Verse
+kjv: "Because I was not cut off before the darkness, neither hath he covered the darkness from my face."
+bsb: "Yet I am not silenced by the darkness, by the thick darkness that covers my face."
+hebrew: "כִּֽי־ לֹ֣א נִ֭צְמַתִּי מִפְּנֵי־ חֹ֑שֶׁךְ וּ֝מִפָּנַ֗י כִּסָּה־ אֹֽפֶל׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H6789]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H3680]]"
+- "[[H0652]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:17**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because I was not cut off before the darkness, [neither] hath he covered the darkness from my face.
 <small><sub>**BSB:**</sub></small>
 Yet I am not silenced by the darkness, by the thick darkness that covers my face.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H6789\|נִ֭צְמַתִּי]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H2822\|חֹ֑שֶׁךְ]] [[H9002\|וּ֝]][[H9006\|מִ]][[H6440H\|פָּנַ֗]][[H9020\|י]] [[H3680\|כִּסָּה]][[H9014\|־]] [[H0652\|אֹֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.16|<< Job 23:16]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.1|Job 24:1 >>]]</td></tr></table>
 

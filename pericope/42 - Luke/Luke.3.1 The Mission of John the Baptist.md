@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mission of John the Baptist
+type: Pericope
 pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
-verse_count: 20
+original_language: Greek
 testament: New
 book: Luke
 chapter: 3
 book/chapter: "[[Luke.3|Luke 3]]"
-genre:
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 20
 verses:
 - "[[Luke.3.1]]"
 - "[[Luke.3.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Luke.3.20]]"
 ---
 
-[[Luke.3|Luke 3:1 - Luke 3:20]]
+<small>[[Luke.3|Luke 3:1-20]]</small>
 *The Mission of John the Baptist*
 
 [[Luke.3.1|1]] Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,

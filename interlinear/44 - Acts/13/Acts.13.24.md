@@ -1,10 +1,58 @@
+---
+title: Acts 13:24
+type: Verse
+kjv: "When John had first preached before his coming the baptism of repentance to all the people of Israel."
+bsb: "Before the arrival of Jesus, John preached a baptism of repentance to all the people of Israel."
+greek: "προκηρύξαντος Ἰωάννου πρὸ προσώπου τῆς εἰσόδου αὐτοῦ βάπτισμα μετανοίας παντὶ τῷ λαῷ Ἰσραήλ."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4296]]"
+- "[[G2491G]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G1529]]"
+- "[[G0846]]"
+- "[[G0908]]"
+- "[[G3341]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Acts 13:24**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When John had first preached before his coming the baptism of repentance to all the people of Israel.
 <small><sub>**BSB:**</sub></small>
 Before the arrival of Jesus, John preached a baptism of repentance to all the people of Israel.
-<small><sub>**Literal:**</sub></small>
-When was proclaiming John before [the] face of the coming of Him a baptism of repentance to all the people of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.23|<< Acts 13:23]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.25|Acts 13:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4296\|προκηρύξαντος]]  [[G2491G\|Ἰωάννου]]  [[G4253\|πρὸ]]  [[G4383\|προσώπου]]  [[G3588\|τῆς]]  [[G1529\|εἰσόδου]]  [[G0846\|αὐτοῦ]]  [[G0908\|βάπτισμα]]  [[G3341\|μετανοίας]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G2474\|Ἰσραήλ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic JOHN|JOHN]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.23|<< Acts 13:23]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.25|Acts 13:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

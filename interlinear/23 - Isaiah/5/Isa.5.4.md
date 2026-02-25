@@ -1,8 +1,67 @@
+---
+title: Isaiah 5:4
+type: Verse
+kjv: "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?"
+bsb: "What more could have been done for My vineyard than I have done for it? Why, when I expected sweet grapes, did it bring forth sour fruit?"
+hebrew: "מַה־ לַּעֲשׂ֥וֹת עוֹד֙ לְכַרְמִ֔י וְלֹ֥א עָשִׂ֖יתִי בּ֑וֹ מַדּ֧וּעַ קִוֵּ֛יתִי לַעֲשׂ֥וֹת עֲנָבִ֖ים וַיַּ֥עַשׂ בְּאֻשִֽׁים׃"
+pericope: "[[Isa.5.1 The Song of the Vineyard|The Song of the Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H5750]]"
+- "[[H3754]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H6960A]]"
+- "[[H6213H]]"
+- "[[H6025]]"
+- "[[H9001]]"
+- "[[H0891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:4**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?
 <small><sub>**BSB:**</sub></small>
 What more could have been done for My vineyard than I have done for it? Why, when I expected sweet grapes, did it bring forth sour fruit?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H9005\|לַּ]][[H6213A\|עֲשׂ֥וֹת]] [[H5750\|עוֹד֙]] [[H9005\|לְ]][[H3754\|כַרְמִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6213A\|עָשִׂ֖יתִי]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H4069\|מַדּ֧וּעַ]] [[H6960A\|קִוֵּ֛יתִי]] [[H9005\|לַ]][[H6213H\|עֲשׂ֥וֹת]] [[H6025\|עֲנָבִ֖ים]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0891\|בְּאֻשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REASONING|REASONING]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.3|<< Isaiah 5:3]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.5|Isaiah 5:5 >>]]</td></tr></table>
 

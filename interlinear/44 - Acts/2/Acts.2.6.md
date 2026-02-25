@@ -1,10 +1,64 @@
+---
+title: Acts 2:6
+type: Verse
+kjv: "Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language."
+bsb: "And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language."
+greek: "γενομένης δὲ τῆς φωνῆς ταύτης συνῆλθεν τὸ πλῆθος καὶ συνεχύθη, ὅτι ἤκουον εἷς ἕκαστος τῇ ἰδίᾳ διαλέκτῳ λαλούντων αὐτῶν."
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5456H]]"
+- "[[G3778]]"
+- "[[G4905]]"
+- "[[G4128]]"
+- "[[G2532]]"
+- "[[G4797]]"
+- "[[G3754H]]"
+- "[[G0191]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G2398]]"
+- "[[G1258]]"
+- "[[G2980]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 2:6**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
 <small><sub>**BSB:**</sub></small>
 And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language.
-<small><sub>**Literal:**</sub></small>
-When was happening now <the> sound this came together the multitude and was confounded, because was hearing one each in their own language speaking them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.5|<< Acts 2:5]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.7|Acts 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|γενομένης]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G5456H\|φωνῆς]]  [[G3778\|ταύτης]]  [[G4905\|συνῆλθεν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G2532\|καὶ]]  [[G4797\|συνεχύθη,]]  [[G3754H\|ὅτι]]  [[G0191\|ἤκουον]]  [[G1520\|εἷς]]  [[G1538\|ἕκαστος]]  [[G3588\|τῇ]]  [[G2398\|ἰδίᾳ]]  [[G1258\|διαλέκτῳ]]  [[G2980\|λαλούντων]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic ORATOR|ORATOR]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.5|<< Acts 2:5]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.7|Acts 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Proverbs 23:20
+type: Verse
+kjv: "Be not among winebibbers; among riotous eaters of flesh:"
+bsb: "Do not join those who drink too much wine or gorge themselves on meat."
+hebrew: "אַל־ תְּהִ֥י בְסֹֽבְאֵי־ יָ֑יִן בְּזֹלֲלֵ֖י בָשָׂ֣ר לָֽמוֹ׃"
+pericope: "[[Prov.23.19 Saying 16|Saying 16]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5433A]]"
+- "[[H3196]]"
+- "[[H2151B]]"
+- "[[H1320]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:20**<big><big>[[Prov.23.19 Saying 16|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not among winebibbers; among riotous eaters of flesh:
 <small><sub>**BSB:**</sub></small>
 Do not join those who drink too much wine or gorge themselves on meat.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִ֥י]] [[H9003\|בְ]][[H5433A\|סֹֽבְאֵי]][[H9014\|־]] [[H3196\|יָ֑יִן]] [[H9003\|בְּ]][[H2151B\|זֹלֲלֵ֖י]] [[H1320\|בָשָׂ֣ר]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic COMPANY|COMPANY]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FRUGALITY|FRUGALITY]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.19|<< Proverbs 23:19]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.21|Proverbs 23:21 >>]]</td></tr></table>
 

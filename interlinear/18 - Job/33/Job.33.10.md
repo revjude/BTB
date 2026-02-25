@@ -1,8 +1,51 @@
+---
+title: Job 33:10
+type: Verse
+kjv: "Behold, he findeth occasions against me, he counteth me for his enemy,"
+bsb: "Yet God finds occasions against me; He counts me as His enemy."
+hebrew: "הֵ֣ן תְּ֭נוּאוֹת עָלַ֣י יִמְצָ֑א יַחְשְׁבֵ֖נִי לְאוֹיֵ֣ב לֽוֹ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H2005]]"
+- "[[H8569]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H4672]]"
+- "[[H2803J]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:10**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he findeth occasions against me, he counteth me for his enemy,
 <small><sub>**BSB:**</sub></small>
 Yet God finds occasions against me; He counts me as His enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H8569\|תְּ֭נוּאוֹת]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H4672\|יִמְצָ֑א]] [[H2803J\|יַחְשְׁבֵ֖]][[H9030\|נִי]] [[H9005\|לְ]][[H0341\|אוֹיֵ֣ב]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.9|<< Job 33:9]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.11|Job 33:11 >>]]</td></tr></table>
 

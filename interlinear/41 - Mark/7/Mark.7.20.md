@@ -1,10 +1,52 @@
+---
+title: Mark 7:20
+type: Verse
+kjv: "And he said, That which cometh out of the man, that defileth the man."
+bsb: "He continued: “What comes out of a man, that is what defiles him."
+jesus_said: "That which cometh out of the man, that defileth the man."
+greek: "ἔλεγεν δὲ ὅτι τὸ ἐκ τοῦ ἀνθρώπου ἐκπορευόμενον, ἐκεῖνο κοινοῖ τὸν ἄνθρωπον."
+pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G0444]]"
+- "[[G1607]]"
+- "[[G1565]]"
+- "[[G2840]]"
+texts:
+- NKO
+---
+
 **Mark 7:20**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, That which cometh out of the man, that defileth the man.
 <small><sub>**BSB:**</sub></small>
 He continued: “What comes out of a man, that is what defiles him.
-<small><sub>**Literal:**</sub></small>
-He was saying now that That out of the man going forth, that [is what] defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.19|<< Mark 7:19]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.21|Mark 7:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1607\|ἐκπορευόμενον,]]  [[G1565\|ἐκεῖνο]]  [[G2840\|κοινοῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.19|<< Mark 7:19]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.21|Mark 7:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

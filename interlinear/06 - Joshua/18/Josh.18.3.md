@@ -1,8 +1,65 @@
+---
+title: Joshua 18:3
+type: Verse
+kjv: "And Joshua said unto the children of Israel, How long are ye slack to go to possess the land, which the LORD God of your fathers hath given you?"
+bsb: "So Joshua said to the Israelites, “How long will you put off entering and possessing the land that the LORD, the God of your fathers, has given you?"
+hebrew: "וַיֹּ֥אמֶר יְהוֹשֻׁ֖עַ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֑ל עַד־ אָ֙נָה֙ אַתֶּ֣ם מִתְרַפִּ֔ים לָבוֹא֙ לָרֶ֣שֶׁת אֶת־ הָאָ֔רֶץ אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵ֥י אֲבֽוֹתֵיכֶֽם׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H0575]]"
+- "[[H0859D]]"
+- "[[H7503]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:3**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the children of Israel, How long [are] ye slack to go to possess the land, which the LORD God of your fathers hath given you?
 <small><sub>**BSB:**</sub></small>
 So Joshua said to the Israelites, “How long will you put off entering and possessing the land that the LORD, the God of your fathers, has given you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֙נָה֙]] [[H0859D\|אַתֶּ֣ם]] [[H7503\|מִתְרַפִּ֔ים]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר֙]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.2|<< Joshua 18:2]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.4|Joshua 18:4 >>]]</td></tr></table>
 

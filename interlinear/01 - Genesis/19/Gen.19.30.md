@@ -1,8 +1,68 @@
+---
+title: Genesis 19:30
+type: Verse
+kjv: "And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters."
+bsb: "Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave."
+hebrew: "וַיַּעַל֩ ל֨וֹט מִצּ֜וֹעַר וַיֵּ֣שֶׁב בָּהָ֗ר וּשְׁתֵּ֤י בְנֹתָיו֙ עִמּ֔וֹ כִּ֥י יָרֵ֖א לָשֶׁ֣בֶת בְּצ֑וֹעַר וַיֵּ֙שֶׁב֙ בַּמְּעָרָ֔ה ה֖וּא וּשְׁתֵּ֥י בְנֹתָֽיו׃"
+pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3876]]"
+- "[[H9006]]"
+- "[[H6820]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H3372G]]"
+- "[[H9005]]"
+- "[[H4631]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:30**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
 <small><sub>**BSB:**</sub></small>
 Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעַל֩]] [[H3876\|ל֨וֹט]] [[H9006\|מִ]][[H6820\|צּ֜וֹעַר]] [[H9001\|וַ]][[H3427\|יֵּ֣שֶׁב]] [[H9003\|בָּ]][[H2022G\|הָ֗ר]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֤י]] [[H1323G\|בְנֹתָי]][[H9023\|ו֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H3588A\|כִּ֥י]] [[H3372G\|יָרֵ֖א]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H9003\|בְּ]][[H6820\|צ֑וֹעַר]] [[H9001\|וַ]][[H3427\|יֵּ֙שֶׁב֙]] [[H9003\|בַּ]][[H4631\|מְּעָרָ֔ה]] [[H1931\|ה֖וּא]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֥י]] [[H1323G\|בְנֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic CHILDREN|CHILDREN]] • [[topic DOUBTING|DOUBTING]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.29|<< Genesis 19:29]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.31|Genesis 19:31 >>]]</td></tr></table>
 

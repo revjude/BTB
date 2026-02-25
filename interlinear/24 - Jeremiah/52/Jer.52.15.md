@@ -1,8 +1,68 @@
+---
+title: Jeremiah 52:15
+type: Verse
+kjv: "Then Nebuzaradan the captain of the guard carried away captive certain of the poor of the people, and the residue of the people that remained in the city, and those that fell away, that fell to the king of Babylon, and the rest of the multitude."
+bsb: "Then Nebuzaradan captain of the guard carried into exile some of the poorest people and those who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the craftsmen."
+hebrew: "וּמִדַּלּ֨וֹת הָעָ֜ם וְֽאֶת־ יֶ֥תֶר הָעָ֣ם׀ הַנִּשְׁאָרִ֣ים בָּעִ֗יר וְאֶת־ הַנֹּֽפְלִים֙ אֲשֶׁ֤ר נָֽפְלוּ֙ אֶל־ מֶ֣לֶךְ בָּבֶ֔ל וְאֵ֖ת יֶ֣תֶר הָֽאָמ֑וֹן הֶגְלָ֕ה נְבוּזַרְאֲדָ֖ן רַב־ טַבָּחִֽים׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1803B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3499A]]"
+- "[[H9015]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H5307H]]"
+- "[[H0834A]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0525]]"
+- "[[H1540K]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:15**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuzaradan the captain of the guard carried away captive [certain] of the poor of the people, and the residue of the people that remained in the city, and those that fell away, that fell to the king of Babylon, and the rest of the multitude.
 <small><sub>**BSB:**</sub></small>
 Then Nebuzaradan captain of the guard carried into exile some of the poorest people and those who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the craftsmen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1803B\|דַּלּ֨וֹת]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3499A\|יֶ֥תֶר]] [[H9009\|הָ]][[H5971A\|עָ֣ם]][[H9015\|׀]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֣ים]] [[H9003\|בָּ]][[H5892B\|עִ֗יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5307H\|נֹּֽפְלִים֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H5307H\|נָֽפְלוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָֽ]][[H0525\|אָמ֑וֹן]] [[H1540K\|הֶגְלָ֕ה]] [[H5018\|נְבוּזַרְאֲדָ֖ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.14|<< Jeremiah 52:14]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.16|Jeremiah 52:16 >>]]</td></tr></table>
 

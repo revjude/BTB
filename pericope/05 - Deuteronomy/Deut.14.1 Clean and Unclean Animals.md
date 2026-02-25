@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Clean and Unclean Animals
+type: Pericope
 pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 14
 book/chapter: "[[Deut.14|Deuteronomy 14]]"
-genre:
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 21
 verses:
 - "[[Deut.14.1]]"
 - "[[Deut.14.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Deut.14.21]]"
 ---
 
-[[Deut.14|Deuteronomy 14:1 - Deuteronomy 14:21]]
+<small>[[Deut.14|Deuteronomy 14:1-21]]</small>
 *Clean and Unclean Animals*
 
 [[Deut.14.1|1]] Ye \[are\] the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.

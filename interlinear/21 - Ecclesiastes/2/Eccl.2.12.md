@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 2:12
+type: Verse
+kjv: "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done."
+bsb: "Then I turned to consider wisdom and madness and folly; for what more can the king’s successor do than what has already been accomplished?"
+hebrew: "וּפָנִ֤יתִֽי אֲנִי֙ לִרְא֣וֹת חָכְמָ֔ה וְהוֹלֵל֖וֹת וְסִכְל֑וּת כִּ֣י׀ מֶ֣ה הָאָדָ֗ם שֶׁיָּבוֹא֙ אַחֲרֵ֣י הַמֶּ֔לֶךְ אֵ֥ת אֲשֶׁר־ כְּבָ֖ר עָשֽׂוּהוּ׃"
+pericope: "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H7200H]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H1947]]"
+- "[[H5531B]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9007]]"
+- "[[H0935G]]"
+- "[[H0310A]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3528]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:12**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I turned myself to behold wisdom, and madness, and folly: for what [can] the man [do] that cometh after the king? [even] that which hath been already done.
 <small><sub>**BSB:**</sub></small>
 Then I turned to consider wisdom and madness and folly; for what more can the king’s successor do than what has already been accomplished?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6437G\|פָנִ֤יתִֽי]] [[H0589\|אֲנִי֙]] [[H9005\|לִ]][[H7200H\|רְא֣וֹת]] [[H2451\|חָכְמָ֔ה]] [[H9002\|וְ]][[H1947\|הוֹלֵל֖וֹת]] [[H9002\|וְ]][[H5531B\|סִכְל֑וּת]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H4100\|מֶ֣ה]] [[H9009\|הָ]][[H0120G\|אָדָ֗ם]] [[H9007\|שֶׁ]][[H0935G\|יָּבוֹא֙]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3528\|כְּבָ֖ר]] [[H6213A\|עָשֽׂוּ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.11|<< Ecclesiastes 2:11]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.13|Ecclesiastes 2:13 >>]]</td></tr></table>
 

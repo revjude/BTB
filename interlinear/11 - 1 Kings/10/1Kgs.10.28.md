@@ -1,8 +1,68 @@
+---
+title: 1 Kings 10:28
+type: Verse
+kjv: "And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price."
+bsb: "Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue."
+hebrew: "וּמוֹצָ֧א הַסּוּסִ֛ים אֲשֶׁ֥ר לִשְׁלֹמֹ֖ה מִמִּצְרָ֑יִם וּמִקְוֵ֕ה סֹחֲרֵ֣י הַמֶּ֔לֶךְ יִקְח֥וּ מִקְוֵ֖ה בִּמְחִֽיר׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic KING|KING]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic YARN|YARN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4161]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H4723A]]"
+- "[[H5503]]"
+- "[[H4428G]]"
+- "[[H3947H]]"
+- "[[H9003]]"
+- "[[H4242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:28**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.
 <small><sub>**BSB:**</sub></small>
 Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4161\|מוֹצָ֧א]] [[H9009\|הַ]][[H5483M\|סּוּסִ֛ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֖ה]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9002\|וּ]][[H9006\|מִ]][[H4723A\|קְוֵ֕ה]] [[H5503\|סֹחֲרֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3947H\|יִקְח֥וּ]] [[H9006\|מִ]][[H4723A\|קְוֵ֖ה]] [[H9003\|בִּ]][[H4242\|מְחִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic COMMERCE|COMMERCE]] • [[topic EGYPT|EGYPT]] • [[topic EXPORTS|EXPORTS]] • [[topic HORSE|HORSE]] • [[topic IMPORTS|IMPORTS]] • [[topic KING|KING]] • [[topic LINEN|LINEN]] • [[topic MERCHANT|MERCHANT]] • [[topic SOLOMON|SOLOMON]] • [[topic YARN|YARN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.27|<< 1 Kings 10:27]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.29|1 Kings 10:29 >>]]</td></tr></table>
 

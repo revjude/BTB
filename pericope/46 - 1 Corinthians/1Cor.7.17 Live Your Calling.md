@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Live Your Calling
+type: Pericope
 pericope: "[[1Cor.7.17 Live Your Calling|Live Your Calling]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 7
 book/chapter: "[[1Cor.7|1 Corinthians 7]]"
-genre:
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.7.17]]"
 - "[[1Cor.7.18]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.7.24]]"
 ---
 
-[[1Cor.7|1 Corinthians 7:17 - 1 Corinthians 7:24]]
+<small>[[1Cor.7|1 Corinthians 7:17-24]]</small>
 *Live Your Calling*
 
 [[1Cor.7.17|17]] But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.

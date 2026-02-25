@@ -1,8 +1,54 @@
+---
+title: Malachi 3:6
+type: Verse
+kjv: "For I am the LORD, I change not; therefore ye sons of Jacob are not consumed."
+bsb: "“Because I, the LORD, do not change, you descendants of Jacob have not been destroyed."
+hebrew: "כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי־ יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם׃"
+pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MALACHI|MALACHI]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H8138A]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H3615H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:6**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD, I change not; therefore ye sons of Jacob are not consumed.
 <small><sub>**BSB:**</sub></small>
 “Because I, the LORD, do not change, you descendants of Jacob have not been destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֣א]] [[H8138A\|שָׁנִ֑יתִי]] [[H9002\|וְ]][[H0859D\|אַתֶּ֥ם]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H3808\|לֹ֥א]] [[H3615H\|כְלִיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MALACHI|MALACHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.5|<< Malachi 3:5]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.7|Malachi 3:7 >>]]</td></tr></table>
 

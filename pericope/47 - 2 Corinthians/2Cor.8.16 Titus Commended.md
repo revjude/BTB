@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Titus Commended
+type: Pericope
 pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 8
 book/chapter: "[[2Cor.8|2 Corinthians 8]]"
-genre:
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 9
 verses:
 - "[[2Cor.8.16]]"
 - "[[2Cor.8.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Cor.8.24]]"
 ---
 
-[[2Cor.8|2 Corinthians 8:16 - 2 Corinthians 8:24]]
+<small>[[2Cor.8|2 Corinthians 8:16-24]]</small>
 *Titus Commended*
 
 [[2Cor.8.16|16]] But thanks \[be\] to God, which put the same earnest care into the heart of Titus for you.

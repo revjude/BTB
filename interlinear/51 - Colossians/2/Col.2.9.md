@@ -1,10 +1,49 @@
+---
+title: Colossians 2:9
+type: Verse
+kjv: "For in him dwelleth all the fulness of the Godhead bodily."
+bsb: "For in Christ all the fullness of the Deity dwells in bodily form."
+greek: "ὅτι ἐν αὐτῷ κατοικεῖ πᾶν τὸ πλήρωμα τῆς θεότητος σωματικῶς,"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic PERFECTION|PERFECTION]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2730]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4138]]"
+- "[[G2320]]"
+- "[[G4985]]"
+texts:
+- NKO
+---
+
 **Colossians 2:9**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For in him dwelleth all the fulness of the Godhead bodily.
 <small><sub>**BSB:**</sub></small>
 For in Christ all the fullness of the Deity dwells in bodily form.
-<small><sub>**Literal:**</sub></small>
-For in Him dwells all the fullness of the Deity bodily,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.8|<< Colossians 2:8]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.10|Colossians 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2730\|κατοικεῖ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4138\|πλήρωμα]]  [[G3588\|τῆς]]  [[G2320\|θεότητος]]  [[G4985\|σωματικῶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERFECTION|PERFECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.8|<< Colossians 2:8]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.10|Colossians 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

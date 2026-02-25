@@ -1,8 +1,67 @@
+---
+title: Micah 2:12
+type: Verse
+kjv: "I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men."
+bsb: "I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture—a noisy throng."
+hebrew: "אָסֹ֨ף אֶאֱסֹ֜ף יַעֲקֹ֣ב כֻּלָּ֗ךְ קַבֵּ֤ץ אֲקַבֵּץ֙ שְׁאֵרִ֣ית יִשְׂרָאֵ֔ל יַ֥חַד אֲשִׂימֶ֖נּוּ כְּצֹ֣אן בָּצְרָ֑ה כְּעֵ֙דֶר֙ בְּת֣וֹךְ הַדָּֽבְר֔וֹ תְּהִימֶ֖נָה מֵאָדָֽם׃"
+pericope: "[[Mic.2.12 The Remnant of Israel|The Remnant of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BOZRAH|BOZRAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H0622]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H9031]]"
+- "[[H6908]]"
+- "[[H7611]]"
+- "[[H3478]]"
+- "[[H3162A]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H1223]]"
+- "[[H5739]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H1699A]]"
+- "[[H9023]]"
+- "[[H1949]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:12**<big><big>[[Mic.2.12 The Remnant of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of [the multitude of] men.
 <small><sub>**BSB:**</sub></small>
 I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture—a noisy throng.
+<small><sub>**Hebrew:**</sub></small>
+[[H0622\|אָסֹ֨ף]] [[H0622\|אֶאֱסֹ֜ף]] [[H3290\|יַעֲקֹ֣ב]] [[H3605\|כֻּלָּ֗]][[H9031\|ךְ]] [[H6908\|קַבֵּ֤ץ]] [[H6908\|אֲקַבֵּץ֙]] [[H7611\|שְׁאֵרִ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3162A\|יַ֥חַד]] [[H7760A\|אֲשִׂימֶ֖]][[H9033\|נּוּ]] [[H9004\|כְּ]][[H6629G\|צֹ֣אן]] [[H1223\|בָּצְרָ֑ה]] [[H9004\|כְּ]][[H5739\|עֵ֙דֶר֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H1699A\|דָּֽבְר֔]][[H9023\|וֹ]] [[H1949\|תְּהִימֶ֖נָה]] [[H9006\|מֵ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOZRAH|BOZRAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MICAH|MICAH]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.11|<< Micah 2:11]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.13|Micah 2:13 >>]]</td></tr></table>
 

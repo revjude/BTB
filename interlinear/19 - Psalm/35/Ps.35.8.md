@@ -1,8 +1,61 @@
+---
+title: Psalm 35:8
+type: Verse
+kjv: "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall."
+bsb: "May ruin befall them by surprise; may the net they hid ensnare them; may they fall into the hazard they created."
+hebrew: "תְּבוֹאֵ֣הוּ שׁוֹאָה֮ לֹֽא־ יֵ֫דָ֥ע וְרִשְׁתּ֣וֹ אֲשֶׁר־ טָמַ֣ן תִּלְכְּד֑וֹ בְּ֝שׁוֹאָ֗ה יִפָּל־ בָּֽהּ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic NET|NET]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9033]]"
+- "[[H7722B]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H7568]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2934]]"
+- "[[H3920]]"
+- "[[H9003]]"
+- "[[H5307G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:8**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.
 <small><sub>**BSB:**</sub></small>
 May ruin befall them by surprise; may the net they hid ensnare them; may they fall into the hazard they created.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|תְּבוֹאֵ֣]][[H9033\|הוּ]] [[H7722B\|שׁוֹאָה֮]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יֵ֫דָ֥ע]] [[H9002\|וְ]][[H7568\|רִשְׁתּ֣]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2934\|טָמַ֣ן]] [[H3920\|תִּלְכְּד֑]][[H9033\|וֹ]] [[H9003\|בְּ֝]][[H7722B\|שׁוֹאָ֗ה]] [[H5307G\|יִפָּל]][[H9014\|־]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic NET|NET]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.7|<< Psalms 35:7]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.9|Psalms 35:9 >>]]</td></tr></table>
 

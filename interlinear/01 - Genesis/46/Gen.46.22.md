@@ -1,8 +1,57 @@
+---
+title: Genesis 46:22
+type: Verse
+kjv: "These are the sons of Rachel, which were born to Jacob: all the souls were fourteen."
+bsb: "These are the sons of Rachel born to Jacob—fourteen in all."
+hebrew: "אֵ֚לֶּה בְּנֵ֣י רָחֵ֔ל אֲשֶׁ֥ר יֻלַּ֖ד לְיַעֲקֹ֑ב כָּל־ נֶ֖פֶשׁ אַרְבָּעָ֥ה עָשָֽׂר׃"
+pericope: "[[Gen.46.19 The Children of Rachel|The Children of Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H7354]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:22**<big><big>[[Gen.46.19 The Children of Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Rachel, which were born to Jacob: all the souls [were] fourteen.
 <small><sub>**BSB:**</sub></small>
 These are the sons of Rachel born to Jacob—fourteen in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H7354\|רָחֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יֻלַּ֖ד]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֑ב]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נֶ֖פֶשׁ]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.21|<< Genesis 46:21]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.23|Genesis 46:23 >>]]</td></tr></table>
 

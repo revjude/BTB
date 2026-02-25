@@ -1,8 +1,71 @@
+---
+title: 2 Kings 24:14
+type: Verse
+kjv: "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land."
+bsb: "He carried into exile all Jerusalem—all the commanders and mighty men of valor, all the craftsmen and metalsmiths—ten thousand captives in all. Only the poorest people of the land remained."
+hebrew: "וְהִגְלָ֣ה אֶת־ כָּל־ יְ֠רוּשָׁלִַם וְֽאֶת־ כָּל־ הַשָּׂרִ֞ים וְאֵ֣ת׀ כָּל־ גִּבּוֹרֵ֣י הַחַ֗יִל עֲשֶׂ֤רֶת אֲלָפִים֙ גּוֹלֶ֔ה וְכָל־ הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר לֹ֣א נִשְׁאַ֔ר זוּלַ֖ת דַּלַּ֥ת עַם־ הָאָֽרֶץ׃"
+pericope: "[[2Kgs.24.10 The Captivity of Jerusalem|The Captivity of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SMITH|SMITH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1540K]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9015]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H1473]]"
+- "[[H2796]]"
+- "[[H4525]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H2108]]"
+- "[[H1803B]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 24:14**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, [even] ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 <small><sub>**BSB:**</sub></small>
 He carried into exile all Jerusalem—all the commanders and mighty men of valor, all the craftsmen and metalsmiths—ten thousand captives in all. Only the poorest people of the land remained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1540K\|הִגְלָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3389\|יְ֠רוּשָׁלִַם]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֞ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H1368\|גִּבּוֹרֵ֣י]] [[H9009\|הַ]][[H2428G\|חַ֗יִל]] [[H6235\|עֲשֶׂ֤רֶת]] [[H0505G\|אֲלָפִים֙]] [[H1473\|גּוֹלֶ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶ]][[H2796\|חָרָ֖שׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H4525\|מַּסְגֵּ֑ר]] [[H3808\|לֹ֣א]] [[H7604\|נִשְׁאַ֔ר]] [[H2108\|זוּלַ֖ת]] [[H1803B\|דַּלַּ֥ת]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic SMITH|SMITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.13|<< 2 Kings 24:13]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.15|2 Kings 24:15 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Plague：Frogs
+type: Pericope
 pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 8
 book/chapter: "[[Exod.8|Exodus 8]]"
-genre:
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.8.1]]"
 - "[[Exod.8.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.8.15]]"
 ---
 
-[[Exod.8|Exodus 8:1 - Exodus 8:15]]
+<small>[[Exod.8|Exodus 8:1-15]]</small>
 *The Second Plague：Frogs*
 
 [[Exod.8.1|1]] And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.

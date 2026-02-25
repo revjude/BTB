@@ -1,8 +1,55 @@
+---
+title: Joel 2:15
+type: Verse
+kjv: "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:"
+bsb: "Blow the ram’s horn in Zion, consecrate a fast, proclaim a sacred assembly."
+hebrew: "תִּקְע֥וּ שׁוֹפָ֖ר בְּצִיּ֑וֹן קַדְּשׁוּ־ צ֖וֹם קִרְא֥וּ עֲצָרָֽה׃"
+pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H6942G]]"
+- "[[H9014]]"
+- "[[H6685]]"
+- "[[H7121G]]"
+- "[[H6116]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:15**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:
 <small><sub>**BSB:**</sub></small>
 Blow the ram’s horn in Zion, consecrate a fast, proclaim a sacred assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H8628\|תִּקְע֥וּ]] [[H7782\|שׁוֹפָ֖ר]] [[H9003\|בְּ]][[H6726\|צִיּ֑וֹן]] [[H6942G\|קַדְּשׁוּ]][[H9014\|־]] [[H6685\|צ֖וֹם]] [[H7121G\|קִרְא֥וּ]] [[H6116\|עֲצָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORSHIP|WORSHIP]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.14|<< Joel 2:14]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.16|Joel 2:16 >>]]</td></tr></table>
 

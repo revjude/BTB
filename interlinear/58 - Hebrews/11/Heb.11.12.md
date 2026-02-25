@@ -1,10 +1,60 @@
+---
+title: Hebrews 11:12
+type: Verse
+kjv: "Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable."
+bsb: "And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore."
+greek: "διὸ καὶ ἀφ᾽ ἑνὸς ἐγεννήθησαν, καὶ ταῦτα νενεκρωμένου, καθὼς τὰ ἄστρα τοῦ οὐρανοῦ τῷ πλήθει καὶ ὡς ἡ ἄμμος ἡ παρὰ τὸ χεῖλος τῆς θαλάσσης ἡ ἀναρίθμητος.¶"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G1352]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1520]]"
+- "[[G1080]]"
+- "[[G3778]]"
+- "[[G3499]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G0798]]"
+- "[[G3772]]"
+- "[[G4128]]"
+- "[[G5613]]"
+- "[[G0285]]"
+- "[[G3844]]"
+- "[[G5491]]"
+- "[[G2281]]"
+- "[[G0382]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 11:12**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore sprang there even of one, and him as good as dead, [so many] as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.
 <small><sub>**BSB:**</sub></small>
 And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.
-<small><sub>**Literal:**</sub></small>
-Therefore also from one man were born, and he as good as dead, even as the stars <the> of heaven <the> in multitude and as the sand <the> by the shore of the sea <the> countless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.11|<< Hebrews 11:11]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.13|Hebrews 11:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G2532\|καὶ]]  [[G0575\|ἀφ᾽]]  [[G1520\|ἑνὸς]]  [[G1080\|ἐγεννήθησαν,]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3499\|νενεκρωμένου,]]  [[G2531\|καθὼς]]  [[G3588\|τὰ]]  [[G0798\|ἄστρα]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3588\|τῷ]]  [[G4128\|πλήθει]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G3588\|ἡ]]  [[G0285\|ἄμμος]]  [[G3588\|ἡ]]  [[G3844\|παρὰ]]  [[G3588\|τὸ]]  [[G5491\|χεῖλος]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G3588\|ἡ]]  [[G0382\|ἀναρίθμητος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.11|<< Hebrews 11:11]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.13|Hebrews 11:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:12** is...
 > $\quad$ alluding to: [[LXX.Gen.22.17|Gen 22:17]]

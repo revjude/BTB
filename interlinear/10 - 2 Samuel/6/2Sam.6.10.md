@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 6:10
+type: Verse
+kjv: "So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obededom the Gittite."
+bsb: "So he was unwilling to move the ark of the LORD to the City of David; instead, he took it aside to the house of Obed-edom the Gittite."
+hebrew: "וְלֹֽא־ אָבָ֣ה דָוִ֗ד לְהָסִ֥יר אֵלָ֛יו אֶת־ אֲר֥וֹן יְהוָ֖ה עַל־ עִ֣יר דָּוִ֑ד וַיַּטֵּ֣הוּ דָוִ֔ד בֵּ֥ית עֹבֵֽד־ אֱד֖וֹם הַגִּתִּֽי׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H5493G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H1004B]]"
+- "[[H5654]]"
+- "[[H9009]]"
+- "[[H1663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:10**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obededom the Gittite.
 <small><sub>**BSB:**</sub></small>
 So he was unwilling to move the ark of the LORD to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָבָ֣ה]] [[H1732\|דָוִ֗ד]] [[H9005\|לְ]][[H5493G\|הָסִ֥יר]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H5186\|יַּטֵּ֣]][[H9033\|הוּ]] [[H1732\|דָוִ֔ד]] [[H1004B\|בֵּ֥ית]] [[H5654\|עֹבֵֽד]][[H9014\|־]] [[H5654\|אֱד֖וֹם]] [[H9009\|הַ]][[H1663\|גִּתִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.9|<< 2 Samuel 6:9]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.11|2 Samuel 6:11 >>]]</td></tr></table>
 

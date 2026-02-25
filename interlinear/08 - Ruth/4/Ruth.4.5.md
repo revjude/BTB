@@ -1,8 +1,75 @@
+---
+title: Ruth 4:5
+type: Verse
+kjv: "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance."
+bsb: "Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the Moabitess, you must also acquire the widow of the deceased in order to raise up the name of the deceased on his inheritance.”"
+hebrew: "וַיֹּ֣אמֶר בֹּ֔עַז בְּיוֹם־ קְנוֹתְךָ֥ הַשָּׂדֶ֖ה מִיַּ֣ד נָעֳמִ֑י וּ֠מֵאֵת ר֣וּת הַמּוֹאֲבִיָּ֤ה אֵֽשֶׁת־ הַמֵּת֙ קָנִ֔יתָה לְהָקִ֥ים שֵׁם־ הַמֵּ֖ת עַל־ נַחֲלָתֽוֹ׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1162G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H7069]]"
+- "[[H9041]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H5281]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H7327]]"
+- "[[H4125]]"
+- "[[H0802H]]"
+- "[[H4191]]"
+- "[[H9005]]"
+- "[[H6965I]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ruth 4:5**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy [it] also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
 <small><sub>**BSB:**</sub></small>
 Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the Moabitess, you must also acquire the widow of the deceased in order to raise up the name of the deceased on his inheritance.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1162G\|בֹּ֔עַז]] [[H9003\|בְּ]][[H3117G\|יוֹם]][[H9014\|־]] [[H7069\|קְנוֹתְ]][[H9041\|ךָ֥]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9006\|מִ]][[H3027G\|יַּ֣ד]] [[H5281\|נָעֳמִ֑י]] [[H9002\|וּ֠]][[H9006\|מֵ]][[H0854\|אֵת]] [[H7327\|ר֣וּת]] [[H9009\|הַ]][[H4125\|מּוֹאֲבִיָּ֤ה]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּת֙]] [[H7069\|קָנִ֔יתָה]] [[H9005\|לְ]][[H6965I\|הָקִ֥ים]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּ֖ת]] [[H5921A\|עַל]][[H9014\|־]] [[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DOWRY|DOWRY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.4|<< Ruth 4:4]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.6|Ruth 4:6 >>]]</td></tr></table>
 

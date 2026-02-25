@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem’s Final Warning
+type: Pericope
 pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 6
 book/chapter: "[[Jer.6|Jeremiah 6]]"
-genre:
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 21
 verses:
 - "[[Jer.6.1]]"
 - "[[Jer.6.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Jer.6.21]]"
 ---
 
-[[Jer.6|Jeremiah 6:1 - Jeremiah 6:21]]
+<small>[[Jer.6|Jeremiah 6:1-21]]</small>
 *Jerusalem’s Final Warning*
 
 [[Jer.6.1|1]] O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.

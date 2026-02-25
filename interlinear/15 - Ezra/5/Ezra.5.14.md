@@ -1,8 +1,76 @@
+---
+title: Ezra 5:14
+type: Verse
+kjv: "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto one, whose name was Sheshbazzar, whom he had made governor;"
+bsb: "He also removed from the temple of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor"
+aramaic: "וְ֠אַף מָאנַיָּ֣א דִֽי־ בֵית־ אֱלָהָא֮ דִּ֣י דַהֲבָ֣ה וְכַסְפָּא֒ דִּ֣י נְבוּכַדְנֶצַּ֗ר הַנְפֵּק֙ מִן־ הֵֽיכְלָא֙ דִּ֣י בִֽירוּשְׁלֶ֔ם וְהֵיבֵ֣ל הִמּ֔וֹ לְהֵיכְלָ֖א דִּ֣י בָבֶ֑ל הַנְפֵּ֨ק הִמּ֜וֹ כּ֣וֹרֶשׁ מַלְכָּ֗א מִן־ הֵֽיכְלָא֙ דִּ֣י בָבֶ֔ל וִיהִ֙יבוּ֙ לְשֵׁשְׁבַּצַּ֣ר שְׁמֵ֔הּ דִּ֥י פֶחָ֖ה שָׂמֵֽהּ׃"
+pericope: "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SHESHBAZZAR|SHESHBAZZAR]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0638]]"
+- "[[H3984]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H1722]]"
+- "[[H3702]]"
+- "[[H5020]]"
+- "[[H5312]]"
+- "[[H4481]]"
+- "[[H1965G]]"
+- "[[H9003]]"
+- "[[H3390]]"
+- "[[H2987]]"
+- "[[H1994]]"
+- "[[H9005]]"
+- "[[H0895]]"
+- "[[H3567]]"
+- "[[H4430]]"
+- "[[H3052]]"
+- "[[H8340]]"
+- "[[H8036]]"
+- "[[H9024]]"
+- "[[H6347]]"
+- "[[H7761I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 5:14**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;
 <small><sub>**BSB:**</sub></small>
 He also removed from the temple of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ֠]][[H0638\|אַף]] [[H3984\|מָאנַיָּ֣]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H1005\|בֵית]][[H9014\|־]] [[H0426\|אֱלָהָ]][[H9010\|א֮]] [[H1768\|דִּ֣י]] [[H1722\|דַהֲבָ֣]][[H9010\|ה]] [[H9002\|וְ]][[H3702\|כַסְפָּ]][[H9010\|א֒]] [[H1768\|דִּ֣י]] [[H5020\|נְבוּכַדְנֶצַּ֗ר]] [[H5312\|הַנְפֵּק֙]] [[H4481\|מִן]][[H9014\|־]] [[H1965G\|הֵֽיכְלָ]][[H9010\|א֙]] [[H1768\|דִּ֣י]] [[H9003\|בִֽ]][[H3390\|ירוּשְׁלֶ֔ם]] [[H9002\|וְ]][[H2987\|הֵיבֵ֣ל]] [[H1994\|הִמּ֔וֹ]] [[H9005\|לְ]][[H1965G\|הֵיכְלָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H0895\|בָבֶ֑ל]] [[H5312\|הַנְפֵּ֨ק]] [[H1994\|הִמּ֜וֹ]] [[H3567\|כּ֣וֹרֶשׁ]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H4481\|מִן]][[H9014\|־]] [[H1965G\|הֵֽיכְלָ]][[H9010\|א֙]] [[H1768\|דִּ֣י]] [[H0895\|בָבֶ֔ל]] [[H9002\|וִ]][[H3052\|יהִ֙יבוּ֙]] [[H9005\|לְ]][[H8340\|שֵׁשְׁבַּצַּ֣ר]] [[H8036\|שְׁמֵ֔]][[H9024\|הּ]] [[H1768\|דִּ֥י]] [[H6347\|פֶחָ֖ה]] [[H7761I\|שָׂמֵֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PERSIA|PERSIA]] • [[topic SHESHBAZZAR|SHESHBAZZAR]] • [[topic SILVER|SILVER]] • [[topic TEMPLE|TEMPLE]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.13|<< Ezra 5:13]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.15|Ezra 5:15 >>]]</td></tr></table>
 

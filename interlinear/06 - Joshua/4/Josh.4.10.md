@@ -1,8 +1,69 @@
+---
+title: Joshua 4:10
+type: Verse
+kjv: "For the priests which bare the ark stood in the midst of Jordan, until every thing was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over."
+bsb: "Now the priests who carried the ark remained standing in the middle of the Jordan until the people had completed everything the LORD had commanded Joshua to tell them, just as Moses had directed Joshua. The people hurried across,"
+hebrew: "וְהַכֹּהֲנִ֞ים נֹשְׂאֵ֣י הָאָר֗וֹן עֹמְדִים֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ עַ֣ד תֹּ֣ם כָּֽל־ הַ֠דָּבָר אֲשֶׁר־ צִוָּ֨ה יְהוָ֤ה אֶת־ יְהוֹשֻׁ֙עַ֙ לְדַבֵּ֣ר אֶל־ הָעָ֔ם כְּכֹ֛ל אֲשֶׁר־ צִוָּ֥ה מֹשֶׁ֖ה אֶת־ יְהוֹשֻׁ֑עַ וַיְמַהֲר֥וּ הָעָ֖ם וַֽיַּעֲבֹֽרוּ׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3383]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H4872]]"
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:10**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the priests which bare the ark stood in the midst of Jordan, until every thing was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over.
 <small><sub>**BSB:**</sub></small>
 Now the priests who carried the ark remained standing in the middle of the Jordan until the people had completed everything the LORD had commanded Joshua to tell them, just as Moses had directed Joshua. The people hurried across,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֞ים]] [[H5375H\|נֹשְׂאֵ֣י]] [[H9009\|הָ]][[H0727\|אָר֗וֹן]] [[H5975G\|עֹמְדִים֮]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H5704\|עַ֣ד]] [[H8552\|תֹּ֣ם]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ֠]][[H1697I\|דָּבָר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9004\|כְּ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H4872\|מֹשֶׁ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H9001\|וַ]][[H4116A\|יְמַהֲר֥וּ]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֹֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.9|<< Joshua 4:9]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.11|Joshua 4:11 >>]]</td></tr></table>
 

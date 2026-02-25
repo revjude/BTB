@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 14:14
+type: Verse
+kjv: "For if I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful."
+bsb: "For if I pray in a tongue, my spirit prays, but my mind is unfruitful."
+greek: "ἐὰν γὰρ προσεύχωμαι γλώσσῃ, τὸ πνεῦμά μου προσεύχεται, ὁ δὲ νοῦς μου ἄκαρπός ἐστιν."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G1437]]"
+- "[[G1063]]"
+- "[[G4336]]"
+- "[[G1100]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G3563]]"
+- "[[G0175]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:14**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if I pray in an [unknown] tongue, my spirit prayeth, but my understanding is unfruitful.
 <small><sub>**BSB:**</sub></small>
 For if I pray in a tongue, my spirit prays, but my mind is unfruitful.
-<small><sub>**Literal:**</sub></small>
-If for I shall pray in a tongue, the spirit of mine prays, <the> but the mind of mine unfruitful is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.13|<< 1 Corinthians 14:13]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.15|1 Corinthians 14:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1063\|γὰρ]]  [[G4336\|προσεύχωμαι]]  [[G1100\|γλώσσῃ,]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G3165\|μου]]  [[G4336\|προσεύχεται,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3563\|νοῦς]]  [[G3165\|μου]]  [[G0175\|ἄκαρπός]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MAN|MAN]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.13|<< 1 Corinthians 14:13]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.15|1 Corinthians 14:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

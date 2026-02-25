@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 9:21
+type: Verse
+kjv: "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+bsb: "To those without the law I became like one without the law (though I am not outside the law of God but am under the law of Christ), to win those without the law."
+greek: "τοῖς ἀνόμοις ὡς ἄνομος, μὴ ὢν ἄνομος θεοῦ ἀλλ᾽ ἔννομος Χριστοῦ, ἵνα κερδάνω τοὺς ἀνόμους."
+pericope: "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TACT|TACT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G0459]]"
+- "[[G5613]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G1772]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G2770]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **1 Corinthians 9:21**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
 <small><sub>**BSB:**</sub></small>
 To those without the law I became like one without the law (though I am not outside the law of God but am under the law of Christ), to win those without the law.
-<small><sub>**Literal:**</sub></small>
-To those outside [the] Law like outside [the] Law — not being outside [the] law of God but under [the] law of Christ — so that I may win those outside [the] Law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.20|<< 1 Corinthians 9:20]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.22|1 Corinthians 9:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῖς]]  [[G0459\|ἀνόμοις]]  [[G5613\|ὡς]]  [[G0459\|ἄνομος,]]  [[G3361\|μὴ]]  [[G1510\|ὢν]]  [[G0459\|ἄνομος]]  [[G2316\|θεοῦ]]  [[G0235\|ἀλλ᾽]]  [[G1772\|ἔννομος]]  [[G5547\|Χριστοῦ,]]  [[G2443\|ἵνα]]  [[G2770\|κερδάνω]]  [[G3588\|τοὺς]]  [[G0459\|ἀνόμους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TACT|TACT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.20|<< 1 Corinthians 9:20]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.22|1 Corinthians 9:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

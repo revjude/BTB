@@ -1,10 +1,58 @@
+---
+title: Romans 8:4
+type: Verse
+kjv: "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit."
+bsb: "so that the righteous standard of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit."
+greek: "ἵνα τὸ δικαίωμα τοῦ νόμου πληρωθῇ ἐν ἡμῖν τοῖς μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα."
+pericope: "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+strongs:
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1345]]"
+- "[[G3551]]"
+- "[[G4137]]"
+- "[[G1722]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G4043]]"
+- "[[G0235]]"
+- "[[G4151G]]"
+texts:
+- NKO
+---
+
 **Romans 8:4**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
 <small><sub>**BSB:**</sub></small>
 so that the righteous standard of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
-<small><sub>**Literal:**</sub></small>
-so that the righteousness of the law may be fulfilled in us <the> not according to [the] flesh walking but according to [the] Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.3|<< Romans 8:3]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.5|Romans 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G1345\|δικαίωμα]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G4137\|πληρωθῇ]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G3588\|τοῖς]]  [[G3361\|μὴ]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα]]  [[G4043\|περιπατοῦσιν]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G4151G\|πνεῦμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SPIRITUALITY|SPIRITUALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.3|<< Romans 8:3]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.5|Romans 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

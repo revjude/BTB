@@ -1,8 +1,58 @@
+---
+title: Proverbs 31:26
+type: Verse
+kjv: "She openeth her mouth with wisdom; and in her tongue is the law of kindness."
+bsb: "She opens her mouth with wisdom, and faithful instruction is on her tongue."
+hebrew: "פִּ֭יהָ פָּתְחָ֣ה בְחָכְמָ֑ה וְתֽוֹרַת־ חֶ֝֗סֶד עַל־ לְשׁוֹנָֽהּ׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H6605A]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H5921A]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:26**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.
 <small><sub>**BSB:**</sub></small>
 She opens her mouth with wisdom, and faithful instruction is on her tongue.
+<small><sub>**Hebrew:**</sub></small>
+[[H6310G\|פִּ֭י]][[H9024\|הָ]] [[H6605A\|פָּתְחָ֣ה]] [[H9003\|בְ]][[H2451\|חָכְמָ֑ה]] [[H9002\|וְ]][[H8451\|תֽוֹרַת]][[H9014\|־]] [[H2617A\|חֶ֝֗סֶד]] [[H5921A\|עַל]][[H9014\|־]] [[H3956G\|לְשׁוֹנָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic KINDNESS|KINDNESS]] • [[topic POETRY|POETRY]] • [[topic SPEAKING|SPEAKING]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.25|<< Proverbs 31:25]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.27|Proverbs 31:27 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Hebrews 6:4
+type: Verse
+kjv: "For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,"
+bsb: "It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit,"
+greek: "ἀδύνατον γὰρ τοὺς ἅπαξ φωτισθέντας, γευσαμένους τε τῆς δωρεᾶς τῆς ἐπουρανίου καὶ μετόχους γενηθέντας πνεύματος ἁγίου"
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[G0102]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0530]]"
+- "[[G5461]]"
+- "[[G1089]]"
+- "[[G5037]]"
+- "[[G1431]]"
+- "[[G2032]]"
+- "[[G2532]]"
+- "[[G3353]]"
+- "[[G1096]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:4**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [it is] impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit,
-<small><sub>**Literal:**</sub></small>
-[It is] impossible for to those once having been enlightened, having tasted then of the gift <the> heavenly and partakers having become of [the] Spirit Holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.3|<< Hebrews 6:3]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.5|Hebrews 6:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0102\|ἀδύνατον]]  [[G1063\|γὰρ]]  [[G3588\|τοὺς]]  [[G0530\|ἅπαξ]]  [[G5461\|φωτισθέντας,]]  [[G1089\|γευσαμένους]]  [[G5037\|τε]]  [[G3588\|τῆς]]  [[G1431\|δωρεᾶς]]  [[G3588\|τῆς]]  [[G2032\|ἐπουρανίου]]  [[G2532\|καὶ]]  [[G3353\|μετόχους]]  [[G1096\|γενηθέντας]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic REPROBACY|REPROBACY]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.3|<< Hebrews 6:3]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.5|Hebrews 6:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

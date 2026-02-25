@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 22:4
+type: Verse
+kjv: "Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
+bsb: "If you see your brother’s donkey or ox fallen on the road, you must not ignore it; you must help him lift it up."
+hebrew: "לֹא־ תִרְאֶה֩ אֶת־ חֲמ֨וֹר אָחִ֜יךָ א֤וֹ שׁוֹרוֹ֙ נֹפְלִ֣ים בַּדֶּ֔רֶךְ וְהִתְעַלַּמְתָּ֖ מֵהֶ֑ם הָקֵ֥ם תָּקִ֖ים עִמּֽוֹ׃ ס"
+pericope: "[[Deut.22.1 Various Laws|Various Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H2543]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H7794]]"
+- "[[H9023]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H9001]]"
+- "[[H5956]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H6965H]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 22:4**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift [them] up again.
 <small><sub>**BSB:**</sub></small>
 If you see your brother’s donkey or ox fallen on the road, you must not ignore it; you must help him lift it up.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H7200G\|תִרְאֶה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H2543\|חֲמ֨וֹר]] [[H0251I\|אָחִ֜י]][[H9021\|ךָ]] [[H0176A\|א֤וֹ]] [[H7794\|שׁוֹר]][[H9023\|וֹ֙]] [[H5307J\|נֹפְלִ֣ים]] [[H9003\|בַּ]][[H1870K\|דֶּ֔רֶךְ]] [[H9001\|וְ]][[H5956\|הִתְעַלַּמְתָּ֖]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H6965H\|הָקֵ֥ם]] [[H6965H\|תָּקִ֖ים]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BROTHER|BROTHER]] • [[topic KINDNESS|KINDNESS]] • [[topic NEIGHBOR|NEIGHBOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.3|<< Deuteronomy 22:3]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.5|Deuteronomy 22:5 >>]]</td></tr></table>
 
@@ -21,7 +83,7 @@ If you see your brother’s donkey or ox fallen on the road, you must not ignore
 | from \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to raise>  |**<big>&#8207;[[H6965H\|הָקֵ֥ם]]&#8207; </big>**| ha.Kem<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will raise [it] up  |**<big>&#8207;[[H6965H\|תָּקִ֖ים]]&#8207; </big>**| ta.Kim<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.3|<< Deuteronomy 22:3]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.5|Deuteronomy 22:5 >>]]</td></tr></table>
 
 

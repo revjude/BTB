@@ -1,10 +1,65 @@
+---
+title: Matthew 18:13
+type: Verse
+kjv: "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
+bsb: "And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray."
+jesus_said: "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray."
+greek: "καὶ ἐὰν γένηται εὑρεῖν αὐτό, ἀμὴν λέγω ὑμῖν ὅτι χαίρει ἐπ᾽ αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα τοῖς μὴ πεπλανημένοις."
+pericope: "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOST SHEEP|LOST SHEEP]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G1096]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G5463]]"
+- "[[G1909]]"
+- "[[G3123G]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G1768]]"
+- "[[G1767]]"
+- "[[G3361]]"
+- "[[G4105]]"
+texts:
+- NKO
+---
+
 **Matthew 18:13**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if so be that he find it, verily I say unto you, he rejoiceth more of that [sheep], than of the ninety and nine which went not astray.
 <small><sub>**BSB:**</sub></small>
 And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray.
-<small><sub>**Literal:**</sub></small>
-And if he may happen to find it, Amen I say to you that he rejoices over it more than over the ninety nine which not gone astray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.12|<< Matthew 18:12]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.14|Matthew 18:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G1096\|γένηται]]  [[G2147\|εὑρεῖν]]  [[G0846\|αὐτό,]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G5463\|χαίρει]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G3123G\|μᾶλλον]]  [[G2228\|ἢ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G1768\|ἐνενήκοντα]]  [[G1767\|ἐννέα]]  [[G3588\|τοῖς]]  [[G3361\|μὴ]]  [[G4105\|πεπλανημένοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic LOST SHEEP|LOST SHEEP]] • [[topic PENITENT|PENITENT]] • [[topic SHEEP|SHEEP]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.12|<< Matthew 18:12]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.14|Matthew 18:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

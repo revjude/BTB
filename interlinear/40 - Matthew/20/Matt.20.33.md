@@ -1,10 +1,54 @@
+---
+title: Matthew 20:33
+type: Verse
+kjv: "They say unto him, Lord, that our eyes may be opened."
+bsb: "“Lord,” they answered, “let our eyes be opened.”"
+greek: "λέγουσιν αὐτῷ· κύριε, ἵνα ἀνοιγῶσιν οἱ ὀφθαλμοὶ ἡμῶν."
+pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G2443]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 20:33**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They say unto him, Lord, that our eyes may be opened.
 <small><sub>**BSB:**</sub></small>
 “Lord,” they answered, “let our eyes be opened.”
-<small><sub>**Literal:**</sub></small>
-They say to Him; Lord, that may be opened the eyes of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.32|<< Matthew 20:32]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.34|Matthew 20:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G2443\|ἵνα]]  [[G0455\|ἀνοιγῶσιν]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοὶ]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.32|<< Matthew 20:32]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.34|Matthew 20:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

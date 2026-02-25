@@ -1,8 +1,61 @@
+---
+title: Jeremiah 33:15
+type: Verse
+kjv: "In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land."
+bsb: "In those days and at that time I will cause to sprout for David a righteous Branch, and He will administer justice and righteousness in the land."
+hebrew: "בַּיָּמִ֤ים הָהֵם֙ וּבָעֵ֣ת הַהִ֔יא אַצְמִ֥יחַ לְדָוִ֖ד צֶ֣מַח צְדָקָ֑ה וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָֽרֶץ׃"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H6779]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H6780]]"
+- "[[H6666]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:15**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.
 <small><sub>**BSB:**</sub></small>
 In those days and at that time I will cause to sprout for David a righteous Branch, and He will administer justice and righteousness in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H1992\|הֵם֙]] [[H9002\|וּ]][[H9003\|בָ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H6779\|אַצְמִ֥יחַ]] [[H9005\|לְ]][[H1732\|דָוִ֖ד]] [[H6780\|צֶ֣מַח]] [[H6666\|צְדָקָ֑ה]] [[H9001\|וְ]][[H6213A\|עָשָׂ֛ה]] [[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.14|<< Jeremiah 33:14]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.16|Jeremiah 33:16 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Ezra 2:34
+type: Verse
+kjv: "The children of Jericho, three hundred forty and five."
+bsb: "the men of Jericho, 345;"
+hebrew: "בְּנֵ֣י יְרֵח֔וֹ שְׁלֹ֥שׁ מֵא֖וֹת אַרְבָּעִ֥ים וַחֲמִשָּֽׁה׃ ס"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic JERICHO|JERICHO]]"
+strongs:
+- "[[H1121G]]"
+- "[[H3405G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H0705]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 2:34**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Jericho, three hundred forty and five.
 <small><sub>**BSB:**</sub></small>
 the men of Jericho, 345;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H3405G\|יְרֵח֔וֹ]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERICHO|JERICHO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.33|<< Ezra 2:33]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.35|Ezra 2:35 >>]]</td></tr></table>
 
@@ -13,7 +54,7 @@ the men of Jericho, 345;
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.33|<< Ezra 2:33]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.35|Ezra 2:35 >>]]</td></tr></table>
 
 

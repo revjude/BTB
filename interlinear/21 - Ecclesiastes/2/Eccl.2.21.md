@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 2:21
+type: Verse
+kjv: "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil."
+bsb: "When there is a man who has labored with wisdom, knowledge, and skill, and he must give his portion to a man who has not worked for it, this too is futile and a great evil."
+hebrew: "כִּי־ יֵ֣שׁ אָדָ֗ם שֶׁעֲמָל֛וֹ בְּחָכְמָ֥ה וּבְדַ֖עַת וּבְכִשְׁר֑וֹן וּלְאָדָ֞ם שֶׁלֹּ֤א עָֽמַל־ בּוֹ֙ יִתְּנֶ֣נּוּ חֶלְק֔וֹ גַּם־ זֶ֥ה הֶ֖בֶל וְרָעָ֥ה רַבָּֽה׃"
+pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H0120G]]"
+- "[[H9007]]"
+- "[[H5999]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H3788]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H5998]]"
+- "[[H9033]]"
+- "[[H5414H]]"
+- "[[H2506A]]"
+- "[[H1571]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H7451I]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:21**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there is a man whose labour [is] in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it [for] his portion. This also [is] vanity and a great evil.
 <small><sub>**BSB:**</sub></small>
 When there is a man who has labored with wisdom, knowledge, and skill, and he must give his portion to a man who has not worked for it, this too is futile and a great evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H0120G\|אָדָ֗ם]] [[H9007\|שֶׁ]][[H5999\|עֲמָל֛]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2451\|חָכְמָ֥ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1847\|דַ֖עַת]] [[H9002\|וּ]][[H9003\|בְ]][[H3788\|כִשְׁר֑וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H0120G\|אָדָ֞ם]] [[H9007\|שֶׁ]][[H3808\|לֹּ֤א]] [[H5998\|עָֽמַל]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H5414H\|יִתְּנֶ֣]][[H9033\|נּוּ]] [[H2506A\|חֶלְק֔]][[H9023\|וֹ]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֖בֶל]] [[H9002\|וְ]][[H7451I\|רָעָ֥ה]] [[H7227A\|רַבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDUSTRY|INDUSTRY]] • [[topic PROPERTY|PROPERTY]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.20|<< Ecclesiastes 2:20]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.22|Ecclesiastes 2:22 >>]]</td></tr></table>
 

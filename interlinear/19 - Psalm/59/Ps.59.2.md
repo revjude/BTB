@@ -1,8 +1,55 @@
+---
+title: Psalm 59:2
+type: Verse
+kjv: "Deliver me from the workers of iniquity, and save me from bloody men."
+bsb: "Deliver me from workers of iniquity, and save me from men of bloodshed."
+hebrew: "הַ֭צִּילֵנִי מִפֹּ֣עֲלֵי אָ֑וֶן וּֽמֵאַנְשֵׁ֥י דָ֝מִ֗ים הוֹשִׁיעֵֽנִי׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H1818]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:2**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me from the workers of iniquity, and save me from bloody men.
 <small><sub>**BSB:**</sub></small>
 Deliver me from workers of iniquity, and save me from men of bloodshed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הַ֭צִּילֵ]][[H9030\|נִי]] [[H9006\|מִ]][[H6466\|פֹּ֣עֲלֵי]] [[H0205G\|אָ֑וֶן]] [[H9002\|וּֽ]][[H9006\|מֵ]][[H0582\|אַנְשֵׁ֥י]] [[H1818\|דָ֝מִ֗ים]] [[H3467\|הוֹשִׁיעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.1|<< Psalms 59:1]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.3|Psalms 59:3 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Waters of Marah
+type: Pericope
 pericope: "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 15
 book/chapter: "[[Exod.15|Exodus 15]]"
-genre:
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.15.22]]"
 - "[[Exod.15.23]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.15.27]]"
 ---
 
-[[Exod.15|Exodus 15:22 - Exodus 15:27]]
+<small>[[Exod.15|Exodus 15:22-27]]</small>
 *The Waters of Marah*
 
 [[Exod.15.22|22]] So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.

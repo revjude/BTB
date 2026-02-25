@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 29:7
+type: Verse
+kjv: "Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place unto the God of Israel."
+bsb: "They also shut the doors of the portico and extinguished the lamps. They did not burn incense or present burnt offerings in the Holy Place of the God of Israel."
+hebrew: "גַּ֣ם סָֽגְר֞וּ דַּלְת֣וֹת הָאוּלָ֗ם וַיְכַבּוּ֙ אֶת־ הַנֵּר֔וֹת וּקְטֹ֖רֶת לֹ֣א הִקְטִ֑ירוּ וְעֹלָה֙ לֹא־ הֶעֱל֣וּ בַקֹּ֔דֶשׁ לֵאלֹהֵ֖י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H1571]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H9009]]"
+- "[[H0197J]]"
+- "[[H9001]]"
+- "[[H3518]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5216A]]"
+- "[[H9002]]"
+- "[[H7004]]"
+- "[[H3808]]"
+- "[[H6999A]]"
+- "[[H5930A]]"
+- "[[H5927I]]"
+- "[[H9003]]"
+- "[[H6944J]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:7**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy [place] unto the God of Israel.
 <small><sub>**BSB:**</sub></small>
 They also shut the doors of the portico and extinguished the lamps. They did not burn incense or present burnt offerings in the Holy Place of the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H5462\|סָֽגְר֞וּ]] [[H1817C\|דַּלְת֣וֹת]] [[H9009\|הָ]][[H0197J\|אוּלָ֗ם]] [[H9001\|וַ]][[H3518\|יְכַבּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5216A\|נֵּר֔וֹת]] [[H9002\|וּ]][[H7004\|קְטֹ֖רֶת]] [[H3808\|לֹ֣א]] [[H6999A\|הִקְטִ֑ירוּ]] [[H9002\|וְ]][[H5930A\|עֹלָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5927I\|הֶעֱל֣וּ]] [[H9003\|בַ]][[H6944J\|קֹּ֔דֶשׁ]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֖י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.6|<< 2 Chronicles 29:6]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.8|2 Chronicles 29:8 >>]]</td></tr></table>
 

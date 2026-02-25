@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 25:13
+type: Verse
+kjv: "But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil."
+bsb: "Meanwhile the troops that Amaziah had dismissed from battle raided the cities of Judah, from Samaria to Beth-horon. They struck down 3,000 people and carried off a great deal of plunder."
+hebrew: "וּבְנֵ֣י הַגְּד֗וּד אֲשֶׁ֨ר הֵשִׁ֤יב אֲמַצְיָ֙הוּ֙ מִלֶּ֤כֶת עִמּוֹ֙ לַמִּלְחָמָ֔ה וַֽיִּפְשְׁטוּ֙ בְּעָרֵ֣י יְהוּדָ֔ה מִשֹּׁמְר֖וֹן וְעַד־ בֵּ֣ית חוֹר֑וֹן וַיַּכּ֤וּ מֵהֶם֙ שְׁלֹ֣שֶׁת אֲלָפִ֔ים וַיָּבֹ֖זּוּ בִּזָּ֥ה רַבָּֽה׃ ס"
+pericope: "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BETH-HORON|BETH-HORON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H1416]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H0558G]]"
+- "[[H9006]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9001]]"
+- "[[H6584]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H8111]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1032G]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H0962]]"
+- "[[H0961]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:13**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil.
 <small><sub>**BSB:**</sub></small>
 Meanwhile the troops that Amaziah had dismissed from battle raided the cities of Judah, from Samaria to Beth-horon. They struck down 3,000 people and carried off a great deal of plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H9009\|הַ]][[H1416\|גְּד֗וּד]] [[H0834A\|אֲשֶׁ֨ר]] [[H7725G\|הֵשִׁ֤יב]] [[H0558G\|אֲמַצְיָ֙הוּ֙]] [[H9006\|מִ]][[H1980G\|לֶּ֤כֶת]] [[H5973A\|עִמּ]][[H9033\|וֹ֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַֽ]][[H6584\|יִּפְשְׁטוּ֙]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9006\|מִ]][[H8111\|שֹּׁמְר֖וֹן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1032G\|בֵּ֣ית]] [[H1032G\|חוֹר֑וֹן]] [[H9001\|וַ]][[H5221\|יַּכּ֤וּ]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֔ים]] [[H9001\|וַ]][[H0962\|יָּבֹ֖זּוּ]] [[H0961\|בִּזָּ֥ה]] [[H7227A\|רַבָּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-HORON|BETH-HORON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.12|<< 2 Chronicles 25:12]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.14|2 Chronicles 25:14 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ Meanwhile the troops that Amaziah had dismissed from battle raided the cities of
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֔ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they plundered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0962\|יָּבֹ֖זּוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.zu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | plunder  |**<big>&#8207;[[H0961\|בִּזָּ֥ה]]&#8207; </big>**| bi.Zah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| much  |**<big>&#8207;[[H7227A\|רַבָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| much  |**<big>&#8207;[[H7227A\|רַבָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.12|<< 2 Chronicles 25:12]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.14|2 Chronicles 25:14 >>]]</td></tr></table>
 
 

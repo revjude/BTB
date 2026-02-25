@@ -1,8 +1,81 @@
+---
+title: Esther 1:14
+type: Verse
+kjv: "And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and which sat the first in the kingdom;)"
+bsb: "His closest advisors were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media who had personal access to the king and ranked highest in the kingdom."
+hebrew: "וְהַקָּרֹ֣ב אֵלָ֗יו כַּרְשְׁנָ֤א שֵׁתָר֙ אַדְמָ֣תָא תַרְשִׁ֔ישׁ מֶ֥רֶס מַרְסְנָ֖א מְמוּכָ֑ן שִׁבְעַ֞ת שָׂרֵ֣י׀ פָּרַ֣ס וּמָדַ֗י רֹאֵי֙ פְּנֵ֣י הַמֶּ֔לֶךְ הַיֹּשְׁבִ֥ים רִאשֹׁנָ֖ה בַּמַּלְכֽוּת׃"
+pericope: "[[Esth.1.13 Queen Vashti Deposed|Queen Vashti Deposed]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic ADMATHA|ADMATHA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CARSHENA|CARSHENA]]"
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MEMUCAN|MEMUCAN]]"
+- "[[topic MERES|MERES]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SHETHAR|SHETHAR]]"
+- "[[topic TARSHISH|TARSHISH]]"
+- "[[topic VASHTI|VASHTI]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3771]]"
+- "[[H8369]]"
+- "[[H0133]]"
+- "[[H8659H]]"
+- "[[H4825]]"
+- "[[H4826]]"
+- "[[H4462]]"
+- "[[H7651]]"
+- "[[H8269]]"
+- "[[H9015]]"
+- "[[H6539]]"
+- "[[H4074H]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H4428G]]"
+- "[[H3427]]"
+- "[[H7223G]]"
+- "[[H9003]]"
+- "[[H4438]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:14**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the next unto him [was] Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, [and] Memucan, the seven princes of Persia and Media, which saw the king’s face, [and] which sat the first in the kingdom;)
 <small><sub>**BSB:**</sub></small>
 His closest advisors were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media who had personal access to the king and ranked highest in the kingdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7138\|קָּרֹ֣ב]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3771\|כַּרְשְׁנָ֤א]] [[H8369\|שֵׁתָר֙]] [[H0133\|אַדְמָ֣תָא]] [[H8659H\|תַרְשִׁ֔ישׁ]] [[H4825\|מֶ֥רֶס]] [[H4826\|מַרְסְנָ֖א]] [[H4462\|מְמוּכָ֑ן]] [[H7651\|שִׁבְעַ֞ת]] [[H8269\|שָׂרֵ֣י]][[H9015\|׀]] [[H6539\|פָּרַ֣ס]] [[H9002\|וּ]][[H4074H\|מָדַ֗י]] [[H7200G\|רֹאֵי֙]] [[H6440H\|פְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֥ים]] [[H7223G\|רִאשֹׁנָ֖ה]] [[H9003\|בַּ]][[H4438\|מַּלְכֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADMATHA|ADMATHA]] • [[topic BABYLON|BABYLON]] • [[topic CARSHENA|CARSHENA]] • [[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic DIVORCE|DIVORCE]] • [[topic FAMILY|FAMILY]] • [[topic HUSBAND|HUSBAND]] • [[topic MEMUCAN|MEMUCAN]] • [[topic MERES|MERES]] • [[topic PERSIA|PERSIA]] • [[topic QUEEN|QUEEN]] • [[topic SEVEN|SEVEN]] • [[topic SHETHAR|SHETHAR]] • [[topic TARSHISH|TARSHISH]] • [[topic VASHTI|VASHTI]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.13|<< Esther 1:13]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.15|Esther 1:15 >>]]</td></tr></table>
 

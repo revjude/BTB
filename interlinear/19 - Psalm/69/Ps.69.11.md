@@ -1,8 +1,57 @@
+---
+title: Psalm 69:11
+type: Verse
+kjv: "I made sackcloth also my garment; and I became a proverb to them."
+bsb: "I made sackcloth my clothing, and I was sport to them."
+hebrew: "וָאֶתְּנָ֣ה לְבוּשִׁ֣י שָׂ֑ק וָאֱהִ֖י לָהֶ֣ם לְמָשָֽׁל׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9012]]"
+- "[[H3830]]"
+- "[[H9020]]"
+- "[[H8242]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4912]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:11**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I made sackcloth also my garment; and I became a proverb to them.
 <small><sub>**BSB:**</sub></small>
 I made sackcloth my clothing, and I was sport to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414I\|אֶתְּנָ֣]][[H9012\|ה]] [[H3830\|לְבוּשִׁ֣]][[H9020\|י]] [[H8242\|שָׂ֑ק]] [[H9001\|וָ]][[H1961\|אֱהִ֖י]] [[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H9005\|לְ]][[H4912\|מָשָֽׁל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.10|<< Psalms 69:10]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.12|Psalms 69:12 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 29:29
+type: Verse
+kjv: "And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped."
+bsb: "When the offerings were completed, the king and all those present with him bowed down and worshiped."
+hebrew: "וּכְכַלּ֖וֹת לְהַעֲל֑וֹת כָּרְע֗וּ הַמֶּ֛לֶךְ וְכָֽל־ הַנִּמְצְאִ֥ים אִתּ֖וֹ וַיִּֽשְׁתַּחֲוֽוּ׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H5927I]]"
+- "[[H3766]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:29**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.
 <small><sub>**BSB:**</sub></small>
 When the offerings were completed, the king and all those present with him bowed down and worshiped.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H3615G\|כַלּ֖וֹת]] [[H9005\|לְ]][[H5927I\|הַעֲל֑וֹת]] [[H3766\|כָּרְע֗וּ]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H4672\|נִּמְצְאִ֥ים]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲוֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.28|<< 2 Chronicles 29:28]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.30|2 Chronicles 29:30 >>]]</td></tr></table>
 

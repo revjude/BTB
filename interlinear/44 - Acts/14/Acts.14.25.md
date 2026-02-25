@@ -1,10 +1,51 @@
+---
+title: Acts 14:25
+type: Verse
+kjv: "And when they had preached the word in Perga, they went down into Attalia:"
+bsb: "And when they had spoken the word in Perga, they went down to Attalia."
+greek: "καὶ λαλήσαντες ἐν Πέργῃ τὸν λόγον κατέβησαν εἰς Ἀττάλειαν·"
+pericope: "[[Acts.14.21 Strengthening the Disciples|Strengthening the Disciples]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATTALIA|ATTALIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERGA|PERGA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G1722]]"
+- "[[G4011]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G0825]]"
+texts:
+- NKO
+---
+
 **Acts 14:25**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had preached the word in Perga, they went down into Attalia:
 <small><sub>**BSB:**</sub></small>
 And when they had spoken the word in Perga, they went down to Attalia.
-<small><sub>**Literal:**</sub></small>
-and having spoken in Perga the word they went down to Attalia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.24|<< Acts 14:24]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.26|Acts 14:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2980\|λαλήσαντες]]  [[G1722\|ἐν]]  [[G4011\|Πέργῃ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G2597\|κατέβησαν]]  [[G1519\|εἰς]]  [[G0825\|Ἀττάλειαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATTALIA|ATTALIA]] • [[topic PAUL|PAUL]] • [[topic PERGA|PERGA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.24|<< Acts 14:24]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.26|Acts 14:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

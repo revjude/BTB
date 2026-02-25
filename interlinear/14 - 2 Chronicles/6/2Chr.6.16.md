@@ -1,8 +1,81 @@
+---
+title: 2 Chronicles 6:16
+type: Verse
+kjv: "Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me."
+bsb: "Therefore now, O LORD, God of Israel, keep for Your servant, my father David, what You promised when You said: ‘You will never fail to have a man to sit before Me on the throne of Israel, if only your descendants guard their way to walk in My law as you have walked before Me.’"
+hebrew: "וְעַתָּ֞ה יְהוָ֣ה׀ אֱלֹהֵ֣י יִשְׂרָאֵ֗ל שְׁ֠מֹר לְעַבְדְּךָ֨ דָוִ֤יד אָבִי֙ אֵת֩ אֲשֶׁ֨ר דִּבַּ֤רְתָּ לּוֹ֙ לֵאמֹ֔ר לֹא־ יִכָּרֵ֨ת לְךָ֥ אִישׁ֙ מִלְּפָנַ֔י יוֹשֵׁ֖ב עַל־ כִּסֵּ֣א יִשְׂרָאֵ֑ל רַ֠ק אִם־ יִשְׁמְר֨וּ בָנֶ֜יךָ אֶת־ דַּרְכָּ֗ם לָלֶ֙כֶת֙ בְּת֣וֹרָתִ֔י כַּאֲשֶׁ֥ר הָלַ֖כְתָּ לְפָנָֽי׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H8104H]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772J]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H7535]]"
+- "[[H0518A]]"
+- "[[H8104J]]"
+- "[[H1121G]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:16**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.
 <small><sub>**BSB:**</sub></small>
 Therefore now, O LORD, God of Israel, keep for Your servant, my father David, what You promised when You said: ‘You will never fail to have a man to sit before Me on the throne of Israel, if only your descendants guard their way to walk in My law as you have walked before Me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H8104H\|שְׁ֠מֹר]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֨]] [[H1732\|דָוִ֤יד]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696I\|דִּבַּ֤רְתָּ]] [[H9005\|לּ]][[H9033\|וֹ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3772J\|יִכָּרֵ֨ת]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H0376G\|אִישׁ֙]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H3427\|יוֹשֵׁ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H7535\|רַ֠ק]] [[H0518A\|אִם]][[H9014\|־]] [[H8104J\|יִשְׁמְר֨וּ]] [[H1121G\|בָנֶ֜י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּ֗]][[H9028\|ם]] [[H9005\|לָ]][[H1980I\|לֶ֙כֶת֙]] [[H9003\|בְּ]][[H8451\|ת֣וֹרָתִ֔]][[H9020\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1980I\|הָלַ֖כְתָּ]] [[H9005\|לְ]][[H6440G\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.15|<< 2 Chronicles 6:15]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.17|2 Chronicles 6:17 >>]]</td></tr></table>
 

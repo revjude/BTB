@@ -1,8 +1,55 @@
+---
+title: Isaiah 43:8
+type: Verse
+kjv: "Bring forth the blind people that have eyes, and the deaf that have ears."
+bsb: "Bring out a people who have eyes but are blind, and who have ears but are deaf."
+hebrew: "הוֹצִ֥יא עַם־ עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאָזְנַ֥יִם לָֽמוֹ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3318H]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H5787]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H3426]]"
+- "[[H2795]]"
+- "[[H0241G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:8**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring forth the blind people that have eyes, and the deaf that have ears.
 <small><sub>**BSB:**</sub></small>
 Bring out a people who have eyes but are blind, and who have ears but are deaf.
+<small><sub>**Hebrew:**</sub></small>
+[[H3318H\|הוֹצִ֥יא]] [[H5971A\|עַם]][[H9014\|־]] [[H5787\|עִוֵּ֖ר]] [[H9002\|וְ]][[H5869A\|עֵינַ֣יִם]] [[H3426\|יֵ֑שׁ]] [[H9002\|וְ]][[H2795\|חֵרְשִׁ֖ים]] [[H9002\|וְ]][[H0241G\|אָזְנַ֥יִם]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.7|<< Isaiah 43:7]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.9|Isaiah 43:9 >>]]</td></tr></table>
 

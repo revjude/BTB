@@ -1,10 +1,58 @@
+---
+title: Acts 11:2
+type: Verse
+kjv: "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,"
+bsb: "So when Peter went up to Jerusalem, the circumcised believers took issue with him"
+greek: "Καὶ Ὅτε δὲ ἀνέβη Πέτρος εἰς Ἰερουσαλήμ, διεκρίνοντο πρὸς αὐτὸν οἱ ἐκ περιτομῆς"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G0305]]"
+- "[[G4074G]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G1252]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G4061]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 11:2**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,
 <small><sub>**BSB:**</sub></small>
 So when Peter went up to Jerusalem, the circumcised believers took issue with him
-<small><sub>**Literal:**</sub></small>
-and When also went up Peter to Jerusalem, were contending with him those of [the] circumcision<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.1|<< Acts 11:1]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.3|Acts 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|Ὅτε]]  [[G1161\|δὲ]]  [[G0305\|ἀνέβη]]  [[G4074G\|Πέτρος]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G1252\|διεκρίνοντο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G1537\|ἐκ]]  [[G4061\|περιτομῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.1|<< Acts 11:1]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.3|Acts 11:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

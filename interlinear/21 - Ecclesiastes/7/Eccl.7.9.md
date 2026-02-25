@@ -1,8 +1,57 @@
+---
+title: Ecclesiastes 7:9
+type: Verse
+kjv: "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools."
+bsb: "Do not be quickly provoked in your spirit, for anger settles in the lap of a fool."
+hebrew: "אַל־ תְּבַהֵ֥ל בְּרֽוּחֲךָ֖ לִכְע֑וֹס כִּ֣י כַ֔עַס בְּחֵ֥יק כְּסִילִ֖ים יָנֽוּחַ׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0926]]"
+- "[[H9003]]"
+- "[[H7307J]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H3588A]]"
+- "[[H3708A]]"
+- "[[H2436G]]"
+- "[[H3684]]"
+- "[[H5117]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:9**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 <small><sub>**BSB:**</sub></small>
 Do not be quickly provoked in your spirit, for anger settles in the lap of a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0926\|תְּבַהֵ֥ל]] [[H9003\|בְּ]][[H7307J\|רֽוּחֲ]][[H9021\|ךָ֖]] [[H9005\|לִ]][[H3707\|כְע֑וֹס]] [[H3588A\|כִּ֣י]] [[H3708A\|כַ֔עַס]] [[H9003\|בְּ]][[H2436G\|חֵ֥יק]] [[H3684\|כְּסִילִ֖ים]] [[H5117\|יָנֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic FOOL|FOOL]] • [[topic PATIENCE|PATIENCE]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.8|<< Ecclesiastes 7:8]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.10|Ecclesiastes 7:10 >>]]</td></tr></table>
 

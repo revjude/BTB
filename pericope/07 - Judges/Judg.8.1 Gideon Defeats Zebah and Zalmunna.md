@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gideon Defeats Zebah and Zalmunna
+type: Pericope
 pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 8
 book/chapter: "[[Judg.8|Judges 8]]"
-genre:
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 21
 verses:
 - "[[Judg.8.1]]"
 - "[[Judg.8.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Judg.8.21]]"
 ---
 
-[[Judg.8|Judges 8:1 - Judges 8:21]]
+<small>[[Judg.8|Judges 8:1-21]]</small>
 *Gideon Defeats Zebah and Zalmunna*
 
 [[Judg.8.1|1]] And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.

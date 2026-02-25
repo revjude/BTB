@@ -1,10 +1,78 @@
+---
+title: Revelation 2:7
+type: Verse
+kjv: "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."
+bsb: "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God."
+jesus_said: "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."
+greek: "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις· τῷ νικῶντι δώσω αὐτῷ φαγεῖν ἐκ τοῦ ξύλου τῆς ζωῆς ὅ ἐστιν ἐν μέσῶ τῷ παραδείσῳ τοῦ θεοῦ μου.¶"
+pericope: "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PARADISE|PARADISE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G5101]]"
+- "[[G4151G]]"
+- "[[G3004G]]"
+- "[[G1577]]"
+- "[[G3528]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G5315]]"
+- "[[G1537]]"
+- "[[G3586]]"
+- "[[G2222]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3857]]"
+- "[[G2316]]"
+- "[[G3165]]"
+texts:
+- NKO
+- K
+- N(k)O
+- O
+---
+
 **Revelation 2:7**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God.
-<small><sub>**Literal:**</sub></small>
-The [one] having an ear he should hear what the Spirit says to the churches; To the [one] overcoming I will give to him to eat of the tree <the> of life which is in midst the paradise <the> of God of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.6|<< Revelation 2:6]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.8|Revelation 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|οὖς]]  [[G0191\|ἀκουσάτω]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3004G\|λέγει]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις·]]  [[G3588\|τῷ]]  [[G3528\|νικῶντι]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ]]  [[G5315\|φαγεῖν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3586\|ξύλου]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3319\|μέσῶ]]  [[G3588\|τῷ]]  [[G3857\|παραδείσῳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic EPHESUS|EPHESUS]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PARADISE|PARADISE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PROPHETS|PROPHETS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.6|<< Revelation 2:6]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.8|Revelation 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 2:7** is...
 > $\quad$ possibly alluding to: [[LXX.Gen.2.9|Gen 2:9]]

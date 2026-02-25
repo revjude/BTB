@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 17:4
+type: Verse
+kjv: "But sought to the LORD God of his father, and walked in his commandments, and not after the doings of Israel."
+bsb: "but he sought the God of his father and walked by His commandments rather than the practices of Israel."
+hebrew: "כִּ֠י לֵֽאלֹהֵ֤י אָבִיו֙ דָּרָ֔שׁ וּבְמִצְוֹתָ֖יו הָלָ֑ךְ וְלֹ֖א כְּמַעֲשֵׂ֥ה יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1875]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4687]]"
+- "[[H1980I]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H4639K]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:4**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But sought to the [LORD] God of his father, and walked in his commandments, and not after the doings of Israel.
 <small><sub>**BSB:**</sub></small>
 but he sought the God of his father and walked by His commandments rather than the practices of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H9005\|לֵֽ]][[H0430G\|אלֹהֵ֤י]] [[H0001G\|אָבִי]][[H9023\|ו֙]] [[H1875\|דָּרָ֔שׁ]] [[H9002\|וּ]][[H9003\|בְ]][[H4687\|מִצְוֹתָ֖י]][[H9023\|ו]] [[H1980I\|הָלָ֑ךְ]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H9004\|כְּ]][[H4639K\|מַעֲשֵׂ֥ה]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.3|<< 2 Chronicles 17:3]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.5|2 Chronicles 17:5 >>]]</td></tr></table>
 

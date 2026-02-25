@@ -1,8 +1,69 @@
+---
+title: Genesis 41:13
+type: Verse
+kjv: "And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged."
+bsb: "And it happened to us just as he had interpreted: I was restored to my position, and the other man was hanged.”"
+hebrew: "וַיְהִ֛י כַּאֲשֶׁ֥ר פָּֽתַר־ לָ֖נוּ כֵּ֣ן הָיָ֑ה אֹתִ֛י הֵשִׁ֥יב עַל־ כַּנִּ֖י וְאֹת֥וֹ תָלָֽה׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6622]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3651C]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H7725H]]"
+- "[[H5921A]]"
+- "[[H3653]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9033]]"
+- "[[H8518]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:13**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.
 <small><sub>**BSB:**</sub></small>
 And it happened to us just as he had interpreted: I was restored to my position, and the other man was hanged.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6622\|פָּֽתַר]][[H9014\|־]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H3651C\|כֵּ֣ן]] [[H1961\|הָיָ֑ה]] [[H0853\|אֹתִ֛]][[H9030\|י]] [[H7725H\|הֵשִׁ֥יב]] [[H5921A\|עַל]][[H9014\|־]] [[H3653\|כַּנִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֹת֥]][[H9033\|וֹ]] [[H8518\|תָלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.12|<< Genesis 41:12]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.14|Genesis 41:14 >>]]</td></tr></table>
 

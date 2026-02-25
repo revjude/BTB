@@ -1,8 +1,57 @@
+---
+title: Job 39:12
+type: Verse
+kjv: "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?"
+bsb: "Can you trust him to bring in your grain and gather it to your threshing floor?"
+hebrew: "הֲתַאֲמִ֣ין בּ֭וֹ כִּי־ יָשִׁ֣יב זַרְעֶ֑ךָ וְֽגָרְנְךָ֥ יֶאֱסֹֽף׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BARN|BARN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]"
+strongs:
+- "[[H9008]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H2233G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1637]]"
+- "[[H0622]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 39:12**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou believe him, that he will bring home thy seed, and gather [it into] thy barn?
 <small><sub>**BSB:**</sub></small>
 Can you trust him to bring in your grain and gather it to your threshing floor?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H0539\|תַאֲמִ֣ין]] [[H9003\|בּ֭]][[H9033\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H7725G\|יָשִׁ֣יב]] [[H2233G\|זַרְעֶ֑]][[H9021\|ךָ]] [[H9002\|וְֽ]][[H1637\|גָרְנְ]][[H9021\|ךָ֥]] [[H0622\|יֶאֱסֹֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARN|BARN]] • [[topic GOD|GOD]] • [[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.11|<< Job 39:11]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.13|Job 39:13 >>]]</td></tr></table>
 

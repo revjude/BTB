@@ -1,8 +1,53 @@
+---
+title: Ecclesiastes 10:8
+type: Verse
+kjv: "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him."
+bsb: "He who digs a pit may fall into it, and he who breaches a wall may be bitten by a snake."
+hebrew: "חֹפֵ֥ר גּוּמָּ֖ץ בּ֣וֹ יִפּ֑וֹל וּפֹרֵ֥ץ גָּדֵ֖ר יִשְּׁכֶ֥נּוּ נָחָֽשׁ׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FENCE|FENCE]]"
+- "[[topic PIT|PIT]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H2658]]"
+- "[[H1475]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H6555]]"
+- "[[H1447]]"
+- "[[H5391A]]"
+- "[[H5175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:8**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.
 <small><sub>**BSB:**</sub></small>
 He who digs a pit may fall into it, and he who breaches a wall may be bitten by a snake.
+<small><sub>**Hebrew:**</sub></small>
+[[H2658\|חֹפֵ֥ר]] [[H1475\|גּוּמָּ֖ץ]] [[H9003\|בּ֣]][[H9033\|וֹ]] [[H5307G\|יִפּ֑וֹל]] [[H9002\|וּ]][[H6555\|פֹרֵ֥ץ]] [[H1447\|גָּדֵ֖ר]] [[H5391A\|יִשְּׁכֶ֥]][[H9033\|נּוּ]] [[H5175\|נָחָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FENCE|FENCE]] • [[topic PIT|PIT]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.7|<< Ecclesiastes 10:7]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.9|Ecclesiastes 10:9 >>]]</td></tr></table>
 

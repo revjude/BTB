@@ -1,8 +1,52 @@
+---
+title: Proverbs 18:15
+type: Verse
+kjv: "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge."
+bsb: "The heart of the discerning acquires knowledge, and the ear of the wise seeks it out."
+hebrew: "לֵ֣ב נָ֭בוֹן יִקְנֶה־ דָּ֑עַת וְאֹ֥זֶן חֲ֝כָמִ֗ים תְּבַקֶּשׁ־ דָּֽעַת׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3820A]]"
+- "[[H0995]]"
+- "[[H7069]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H2450]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:15**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.
 <small><sub>**BSB:**</sub></small>
 The heart of the discerning acquires knowledge, and the ear of the wise seeks it out.
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לֵ֣ב]] [[H0995\|נָ֭בוֹן]] [[H7069\|יִקְנֶה]][[H9014\|־]] [[H1847\|דָּ֑עַת]] [[H9002\|וְ]][[H0241G\|אֹ֥זֶן]] [[H2450\|חֲ֝כָמִ֗ים]] [[H1245\|תְּבַקֶּשׁ]][[H9014\|־]] [[H1847\|דָּֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KNOWLEDGE|KNOWLEDGE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.14|<< Proverbs 18:14]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.16|Proverbs 18:16 >>]]</td></tr></table>
 

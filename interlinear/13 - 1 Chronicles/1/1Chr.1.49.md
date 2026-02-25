@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 1:49
+type: Verse
+kjv: "And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead."
+bsb: "When Shaul died, Baal-hanan son of Achbor reigned in his place."
+hebrew: "וַיָּ֖מָת שָׁא֑וּל וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו בַּ֥עַל חָנָ֖ן בֶּן־ עַכְבּֽוֹר׃"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ACHBOR|ACHBOR]]"
+- "[[topic BAAL-HANAN|BAAL-HANAN]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic KING|KING]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SHAUL|SHAUL]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H7586I]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H1177G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5907G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:49**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 When Shaul died, Baal-hanan son of Achbor reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H7586I\|שָׁא֑וּל]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H1177G\|בַּ֥עַל]] [[H1177G\|חָנָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5907G\|עַכְבּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHBOR|ACHBOR]] • [[topic BAAL-HANAN|BAAL-HANAN]] • [[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic KING|KING]] • [[topic SAUL|SAUL]] • [[topic SHAUL|SHAUL]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.48|<< 1 Chronicles 1:48]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.50|1 Chronicles 1:50 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 80:7
+type: Verse
+kjv: "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved."
+bsb: "Restore us, O God of Hosts, and cause Your face to shine upon us, that we may be saved."
+hebrew: "אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H7725H]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H0215]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:7**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.
 <small><sub>**BSB:**</sub></small>
 Restore us, O God of Hosts, and cause Your face to shine upon us, that we may be saved.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֣ים]] [[H6635B\|צְבָא֣וֹת]] [[H7725H\|הֲשִׁיבֵ֑]][[H9035\|נוּ]] [[H9002\|וְ]][[H0215\|הָאֵ֥ר]] [[H6440H\|פָּ֝נֶ֗י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3467\|נִוָּשֵֽׁעָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.6|<< Psalms 80:6]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.8|Psalms 80:8 >>]]</td></tr></table>
 

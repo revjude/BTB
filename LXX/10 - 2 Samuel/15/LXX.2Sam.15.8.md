@@ -1,6 +1,68 @@
+---
+title: LXX 2 Samuel 15:8
+type: Verse
+lxx: "For your servant vowed a vow in  my living in Geshur in Syria, saying, If in returning the lord shall return me to Jerusalem, then I will serve to the lord."
+greek: "ότι ευχήν ηύξατο ο δούλός σου εν τω οικείν με εν Γεσούρ εν Συρία λέγων εάν επιστρέφων επιστρέψη με ο κύριος εις Ιερουσαλήμ και λατρεύσω τω κυρίω"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G3754]]"
+- "[[G2171]]"
+- "[[G2172]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3611]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[H1650]]"
+- "[[G1722]]"
+- "[[G4947]]"
+- "[[G3004]]"
+- "[[G1437]]"
+- "[[G1994]]"
+- "[[G1994]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G3000]]"
+- "[[G3588]]"
+- "[[G2962]]"
+---
+
 **LXX 2 Samuel 15:8** 
 <small><sub>**LXX:**</sub></small>
 For your servant vowed a vow in  my living in Geshur in Syria, saying, If in returning the <span class="smallcaps">lord</span> shall return me to Jerusalem, then I will serve to the <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G2171\|ευχήν]] [[G2172\|ηύξατο]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[G1722\|εν]] [[G3588\|τω]] [[G3611\|οικείν]] [[G1473\|με]] [[G1722\|εν]] [[H1650\|Γεσούρ]] [[G1722\|εν]] [[G4947\|Συρία]] [[G3004\|λέγων]] [[G1437\|εάν]] [[G1994\|επιστρέφων]] [[G1994\|επιστρέψη]] [[G1473\|με]] [[G3588\|ο]] [[G2962\|κύριος]] [[G1519\|εις]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G3000\|λατρεύσω]] [[G3588\|τω]] [[G2962\|κυρίω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COVENANT|COVENANT]] • [[topic SYRIA|SYRIA]] • [[topic USURPATION|USURPATION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
 
@@ -32,6 +94,6 @@ For your servant vowed a vow in  my living in Geshur in Syria, saying, If in ret
 | I will serve | **<big>[[G3000\|λατρεύσω]]</big>** |
 | to the | **<big>[[G3588\|τω]]</big>** |
 | <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
-[[2Sam.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
 
 

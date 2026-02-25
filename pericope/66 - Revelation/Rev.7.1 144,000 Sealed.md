@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: 144,000 Sealed
+type: Pericope
 pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 7
 book/chapter: "[[Rev.7|Revelation 7]]"
-genre:
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.7.1]]"
 - "[[Rev.7.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.7.8]]"
 ---
 
-[[Rev.7|Revelation 7:1 - Revelation 7:8]]
+<small>[[Rev.7|Revelation 7:1-8]]</small>
 *144,000 Sealed*
 
 [[Rev.7.1|1]] And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.

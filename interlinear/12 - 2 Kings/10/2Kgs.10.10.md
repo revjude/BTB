@@ -1,8 +1,68 @@
+---
+title: 2 Kings 10:10
+type: Verse
+kjv: "Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done that which he spake by his servant Elijah."
+bsb: "Know, then, that not a word the LORD has spoken against the house of Ahab will fail, for the LORD has done what He promised through His servant Elijah.”"
+hebrew: "דְּע֣וּ אֵפ֗וֹא כִּי֩ לֹ֨א יִפֹּ֜ל מִדְּבַ֤ר יְהוָה֙ אַ֔רְצָה אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה עַל־ בֵּ֣ית אַחְאָ֑ב וַיהוָ֣ה עָשָׂ֔ה אֵ֚ת אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד עַבְדּ֥וֹ אֵלִיָּֽהוּ׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H3045]]"
+- "[[H0645]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:10**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done [that] which he spake by his servant Elijah.
 <small><sub>**BSB:**</sub></small>
 Know, then, that not a word the LORD has spoken against the house of Ahab will fail, for the LORD has done what He promised through His servant Elijah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|דְּע֣וּ]] [[H0645\|אֵפ֗וֹא]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H5307G\|יִפֹּ֜ל]] [[H9006\|מִ]][[H1697G\|דְּבַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0776G\|אַ֔רְצָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0256G\|אַחְאָ֑ב]] [[H9002\|וַ]][[H3068G\|יהוָ֣ה]] [[H6213A\|עָשָׂ֔ה]] [[H0853\|אֵ֚ת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֔ר]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H5650\|עַבְדּ֥]][[H9023\|וֹ]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.9|<< 2 Kings 10:9]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.11|2 Kings 10:11 >>]]</td></tr></table>
 

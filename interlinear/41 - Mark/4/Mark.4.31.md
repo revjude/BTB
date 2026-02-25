@@ -1,10 +1,61 @@
+---
+title: Mark 4:31
+type: Verse
+kjv: "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
+bsb: "It is like a mustard seed, which is the smallest of all seeds sown upon the earth."
+jesus_said: "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
+greek: "ὡς κόκκῳ σινάπεως ὃς ὅταν σπαρῇ ἐπὶ τῆς γῆς, μικρότερον ὂν πάντων τῶν σπερμάτων τῶν ἐπὶ τῆς γῆς."
+pericope: "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5613]]"
+- "[[G2848]]"
+- "[[G4615]]"
+- "[[G3739]]"
+- "[[G3752]]"
+- "[[G4687]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+- "[[G3398]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G4690G]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Mark 4:31**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [It is] like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:
 <small><sub>**BSB:**</sub></small>
 It is like a mustard seed, which is the smallest of all seeds sown upon the earth.
-<small><sub>**Literal:**</sub></small>
-As a grain of mustard which when it may be sown upon the earth, smaller than is all the seeds which [are] upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.30|<< Mark 4:30]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.32|Mark 4:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G2848\|κόκκῳ]]  [[G4615\|σινάπεως]]  [[G3739\|ὃς]]  [[G3752\|ὅταν]]  [[G4687\|σπαρῇ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093I\|γῆς,]]  [[G3398\|μικρότερον]]  [[G1510\|ὂν]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4690G\|σπερμάτων]]  [[G3588\|τῶν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093I\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.30|<< Mark 4:30]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.32|Mark 4:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Portions for the Priests and Levites
+type: Pericope
 pericope: "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.48.8]]"
 - "[[Ezek.48.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.48.14]]"
 ---
 
-[[Ezek.48|Ezekiel 48:8 - Ezekiel 48:14]]
+<small>[[Ezek.48|Ezekiel 48:8-14]]</small>
 *The Portions for the Priests and Levites*
 
 [[Ezek.48.8|8]] And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand \[reeds in\] breadth, and \[in\] length as one of the \[other\] parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.

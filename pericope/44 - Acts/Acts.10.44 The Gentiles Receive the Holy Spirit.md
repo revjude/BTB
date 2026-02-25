@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Gentiles Receive the Holy Spirit
+type: Pericope
 pericope: "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 10
 book/chapter: "[[Acts.10|Acts 10]]"
-genre:
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.10.44]]"
 - "[[Acts.10.45]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.10.48]]"
 ---
 
-[[Acts.10|Acts 10:44 - Acts 10:48]]
+<small>[[Acts.10|Acts 10:44-48]]</small>
 *The Gentiles Receive the Holy Spirit*
 
 [[Acts.10.44|44]] While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.

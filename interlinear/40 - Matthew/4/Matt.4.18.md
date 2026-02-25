@@ -1,10 +1,72 @@
+---
+title: Matthew 4:18
+type: Verse
+kjv: "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers."
+bsb: "As Jesus was walking beside the Sea of Galilee, He saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the sea, for they were fishermen."
+greek: "Περιπατῶν δὲ ὁ Ἰησοῦς παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν δύο ἀδελφούς, Σίμωνα τὸν λεγόμενον Πέτρον καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ βάλλοντας ἀμφίβληστρον εἰς τὴν θάλασσαν· ἦσαν γὰρ ἁλιεῖς."
+pericope: "[[Matt.4.18 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NET|NET]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G4043]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3844]]"
+- "[[G2281]]"
+- "[[G1056H]]"
+- "[[G1492H]]"
+- "[[G1417]]"
+- "[[G0080]]"
+- "[[G4613O]]"
+- "[[G3004H]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G0406]]"
+- "[[G0846]]"
+- "[[G0906G]]"
+- "[[G0293]]"
+- "[[G1519]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0231]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 4:18**<big><big>[[Matt.4.18 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 <small><sub>**BSB:**</sub></small>
 As Jesus was walking beside the Sea of Galilee, He saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the sea, for they were fishermen.
-<small><sub>**Literal:**</sub></small>
-Walking now <the> Jesus beside the Sea <the> of Galilee He saw two brothers, Simon the [one] being named Peter and Andrew the brother of him casting a net into the sea; they were for fishermen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.17|<< Matthew 4:17]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.19|Matthew 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4043\|Περιπατῶν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G3588\|τῆς]]  [[G1056H\|Γαλιλαίας]]  [[G1492H\|εἶδεν]]  [[G1417\|δύο]]  [[G0080\|ἀδελφούς,]]  [[G4613O\|Σίμωνα]]  [[G3588\|τὸν]]  [[G3004H\|λεγόμενον]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G0406\|Ἀνδρέαν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G0906G\|βάλλοντας]]  [[G0293\|ἀμφίβληστρον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G0231\|ἁλιεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic FAITH|FAITH]] • [[topic FISHERMEN|FISHERMEN]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NET|NET]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.17|<< Matthew 4:17]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.19|Matthew 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

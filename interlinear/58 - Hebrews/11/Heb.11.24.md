@@ -1,10 +1,56 @@
+---
+title: Hebrews 11:24
+type: Verse
+kjv: "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;"
+bsb: "By faith Moses, when he was grown, refused to be called the son of Pharaoh’s daughter."
+greek: "Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ,"
+pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4102G]]"
+- "[[G3475]]"
+- "[[G3173]]"
+- "[[G1096]]"
+- "[[G0720]]"
+- "[[G3004H]]"
+- "[[G5207]]"
+- "[[G2364]]"
+- "[[G5328H]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:24**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;
 <small><sub>**BSB:**</sub></small>
 By faith Moses, when he was grown, refused to be called the son of Pharaoh’s daughter.
-<small><sub>**Literal:**</sub></small>
-By faith Moses grown having become he refused to be named [the] son of [the] daughter of Pharaoh,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.23|<< Hebrews 11:23]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.25|Hebrews 11:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G3475\|Μωϋσῆς]]  [[G3173\|μέγας]]  [[G1096\|γενόμενος]]  [[G0720\|ἠρνήσατο]]  [[G3004H\|λέγεσθαι]]  [[G5207\|υἱὸς]]  [[G2364\|θυγατρὸς]]  [[G5328H\|Φαραώ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic YOUNG MEN|YOUNG MEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.23|<< Hebrews 11:23]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.25|Hebrews 11:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

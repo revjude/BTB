@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bronze Basin
+type: Pericope
 pericope: "[[Exod.30.17 The Bronze Basin|The Bronze Basin]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 30
 book/chapter: "[[Exod.30|Exodus 30]]"
-genre:
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.30.17]]"
 - "[[Exod.30.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.30.21]]"
 ---
 
-[[Exod.30|Exodus 30:17 - Exodus 30:21]]
+<small>[[Exod.30|Exodus 30:17-21]]</small>
 *The Bronze Basin*
 
 [[Exod.30.17|17]] And the LORD spake unto Moses, saying,

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day Is Near
+type: Pericope
 pericope: "[[Rom.13.11 The Day Is Near|The Day Is Near]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Romans
 chapter: 13
 book/chapter: "[[Rom.13|Romans 13]]"
-genre:
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 4
 verses:
 - "[[Rom.13.11]]"
 - "[[Rom.13.12]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Rom.13.14]]"
 ---
 
-[[Rom.13|Romans 13:11 - Romans 13:14]]
+<small>[[Rom.13|Romans 13:11-14]]</small>
 *The Day Is Near*
 
 [[Rom.13.11|11]] And that, knowing the time, that now \[it is\] high time to awake out of sleep: for now \[is\] our salvation nearer than when we believed.

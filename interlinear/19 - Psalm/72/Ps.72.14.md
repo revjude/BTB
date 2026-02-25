@@ -1,8 +1,64 @@
+---
+title: Psalm 72:14
+type: Verse
+kjv: "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight."
+bsb: "He will redeem them from oppression and violence, for their blood is precious in his sight."
+hebrew: "מִתּ֣וֹךְ וּ֭מֵחָמָס יִגְאַ֣ל נַפְשָׁ֑ם וְיֵיקַ֖ר דָּמָ֣ם בְּעֵינָֽיו׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9006]]"
+- "[[H8496]]"
+- "[[H9002]]"
+- "[[H2555]]"
+- "[[H1350A]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H3365]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:14**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.
 <small><sub>**BSB:**</sub></small>
 He will redeem them from oppression and violence, for their blood is precious in his sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H8496\|תּ֣וֹךְ]] [[H9002\|וּ֭]][[H9006\|מֵ]][[H2555\|חָמָס]] [[H1350A\|יִגְאַ֣ל]] [[H5315H\|נַפְשָׁ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3365\|יֵיקַ֖ר]] [[H1818\|דָּמָ֣]][[H9028\|ם]] [[H9003\|בְּ]][[H5869H\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DECEIT|DECEIT]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.13|<< Psalms 72:13]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.15|Psalms 72:15 >>]]</td></tr></table>
 

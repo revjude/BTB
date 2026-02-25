@@ -1,8 +1,54 @@
+---
+title: Psalm 3:1
+type: Verse
+kjv: "LORD, how are they increased that trouble me! many are they that rise up against me."
+bsb: "A Psalm of David, when he fled from his son Absalom. O LORD, how my foes have increased! How many rise up against me!"
+hebrew: "יְ֭הוָה מָֽה־ רַבּ֣וּ צָרָ֑י רַ֝בִּ֗ים קָמִ֥ים עָלָֽי׃"
+pericope: "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3068G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7231]]"
+- "[[H6862C]]"
+- "[[H9020]]"
+- "[[H7227A]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 3:1**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, how are they increased that trouble me! many [are] they that rise up against me.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David, when he fled from his son Absalom. O LORD, how my foes have increased! How many rise up against me!
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H4100\|מָֽה]][[H9014\|־]] [[H7231\|רַבּ֣וּ]] [[H6862C\|צָרָ֑]][[H9020\|י]] [[H7227A\|רַ֝בִּ֗ים]] [[H6965J\|קָמִ֥ים]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.0|<< Psalms 3:0]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.2|Psalms 3:2 >>]]</td></tr></table>
 

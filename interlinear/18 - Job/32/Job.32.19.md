@@ -1,8 +1,54 @@
+---
+title: Job 32:19
+type: Verse
+kjv: "Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles."
+bsb: "Behold, my belly is like unvented wine; it is about to burst like a new wineskin."
+hebrew: "הִנֵּֽה־ בִטְנִ֗י כְּיַ֥יִן לֹא־ יִפָּתֵ֑חַ כְּאֹב֥וֹת חֲ֝דָשִׁ֗ים יִבָּקֵֽעַ׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H0990G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H3196]]"
+- "[[H3808]]"
+- "[[H6605A]]"
+- "[[H0178]]"
+- "[[H2319H]]"
+- "[[H1234]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:19**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my belly [is] as wine [which] hath no vent; it is ready to burst like new bottles.
 <small><sub>**BSB:**</sub></small>
 Behold, my belly is like unvented wine; it is about to burst like a new wineskin.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּֽה]][[H9014\|־]] [[H0990G\|בִטְנִ֗]][[H9020\|י]] [[H9004\|כְּ]][[H3196\|יַ֥יִן]] [[H3808\|לֹא]][[H9014\|־]] [[H6605A\|יִפָּתֵ֑חַ]] [[H9004\|כְּ]][[H0178\|אֹב֥וֹת]] [[H2319H\|חֲ֝דָשִׁ֗ים]] [[H1234\|יִבָּקֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.18|<< Job 32:18]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.20|Job 32:20 >>]]</td></tr></table>
 

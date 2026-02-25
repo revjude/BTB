@@ -1,10 +1,51 @@
+---
+title: 3 John 1:4
+type: Verse
+kjv: "I have no greater joy than to hear that my children walk in truth."
+bsb: "I have no greater joy than to hear that my children are walking in the truth."
+greek: "μειζοτέραν τούτων οὐκ ἔχω χαρὰν ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν τῇ ἀληθείᾳ περιπατοῦντα."
+pericope: "[[3John.1.1 A Greeting from the Elder|A Greeting from the Elder]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G3173]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G5479]]"
+- "[[G2443]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G5043]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G4043]]"
+texts:
+- NKO
+- NK(O)
+- no
+---
+
 **3 John 1:4**<big><big>[[3John.1.1 A Greeting from the Elder|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have no greater joy than to hear that my children walk in truth.
 <small><sub>**BSB:**</sub></small>
 I have no greater joy than to hear that my children are walking in the truth.
-<small><sub>**Literal:**</sub></small>
-Greater than these things not I have joy that I may hear of <the> my children in the truth walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.3|<< 3 John 1:3]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.5|3 John 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3173\|μειζοτέραν]]  [[G3778\|τούτων]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω]]  [[G5479\|χαρὰν]]  [[G2443\|ἵνα]]  [[G0191\|ἀκούω]]  [[G3588\|τὰ]]  [[G1473\|ἐμὰ]]  [[G5043\|τέκνα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G4043\|περιπατοῦντα.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.3|<< 3 John 1:3]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.5|3 John 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

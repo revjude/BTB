@@ -1,10 +1,61 @@
+---
+title: Mark 11:15
+type: Verse
+kjv: "And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;"
+bsb: "When they arrived in Jerusalem, Jesus entered the temple courts and began to drive out those who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves."
+greek: "καὶ ἔρχονται εἰς Ἱεροσόλυμα, καὶ εἰσελθὼν ὁ Ἰησοῦς εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας καὶ τοὺς ἀγοράζοντας ἐν τῷ ἱερῷ, καὶ τὰς τραπέζας τῶν κολλυβιστῶν καὶ τὰς καθέδρας τῶν πωλούντων τὰς περιστερὰς κατέστρεψεν"
+pericope: "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic MONEY CHANGERS|MONEY CHANGERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2411]]"
+- "[[G0757]]"
+- "[[G1544]]"
+- "[[G4453]]"
+- "[[G0059]]"
+- "[[G1722]]"
+- "[[G5132]]"
+- "[[G2855]]"
+- "[[G2515]]"
+- "[[G4058]]"
+- "[[G2690]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **Mark 11:15**<big><big>[[Mark.11.15 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;
 <small><sub>**BSB:**</sub></small>
 When they arrived in Jerusalem, Jesus entered the temple courts and began to drive out those who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.
-<small><sub>**Literal:**</sub></small>
-And they come to Jerusalem, And having entered <the> Jesus into the temple He began to cast out those selling and those buying in the temple, and the tables of the money changers and the seats of those selling the doves He overturned<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.14|<< Mark 11:14]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.16|Mark 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἔρχονται]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα,]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G0757\|ἤρξατο]]  [[G1544\|ἐκβάλλειν]]  [[G3588\|τοὺς]]  [[G4453\|πωλοῦντας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0059\|ἀγοράζοντας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ,]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5132\|τραπέζας]]  [[G3588\|τῶν]]  [[G2855\|κολλυβιστῶν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G2515\|καθέδρας]]  [[G3588\|τῶν]]  [[G4453\|πωλούντων]]  [[G3588\|τὰς]]  [[G4058\|περιστερὰς]]  [[G2690\|κατέστρεψεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY CHANGERS|MONEY CHANGERS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.14|<< Mark 11:14]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.16|Mark 11:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

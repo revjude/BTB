@@ -1,8 +1,64 @@
+---
+title: Exodus 40:33
+type: Verse
+kjv: "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work."
+bsb: "And Moses set up the courtyard around the tabernacle and the altar, and he hung the curtain for the entrance to the courtyard. So Moses finished the work."
+hebrew: "וַיָּ֣קֶם אֶת־ הֶחָצֵ֗ר סָבִיב֙ לַמִּשְׁכָּ֣ן וְלַמִּזְבֵּ֔חַ וַיִּתֵּ֕ן אֶת־ מָסַ֖ךְ שַׁ֣עַר הֶחָצֵ֑ר וַיְכַ֥ל מֹשֶׁ֖ה אֶת־ הַמְּלָאכָֽה׃ פ"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H4908]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H5414H]]"
+- "[[H4539]]"
+- "[[H8179G]]"
+- "[[H3615G]]"
+- "[[H4872]]"
+- "[[H4399]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 40:33**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
 <small><sub>**BSB:**</sub></small>
 And Moses set up the courtyard around the tabernacle and the altar, and he hung the curtain for the entrance to the courtyard. So Moses finished the work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965H\|יָּ֣קֶם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֗ר]] [[H5439G\|סָבִיב֙]] [[H9005\|לַ]][[H4908\|מִּשְׁכָּ֣ן]] [[H9002\|וְ]][[H9005\|לַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֕ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4539\|מָסַ֖ךְ]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הֶ]][[H2691A\|חָצֵ֑ר]] [[H9001\|וַ]][[H3615G\|יְכַ֥ל]] [[H4872\|מֹשֶׁ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.32|<< Exodus 40:32]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.34|Exodus 40:34 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ And Moses set up the courtyard around the tabernacle and the altar, and he hung 
 | and he finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַ֥ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Khal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the work  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4399\|מְּלָאכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the work  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4399\|מְּלָאכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.32|<< Exodus 40:32]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.34|Exodus 40:34 >>]]</td></tr></table>
 
 

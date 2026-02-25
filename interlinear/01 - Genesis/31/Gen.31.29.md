@@ -1,8 +1,73 @@
+---
+title: Genesis 31:29
+type: Verse
+kjv: "It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad."
+bsb: "I have power to do you great harm, but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’"
+hebrew: "יֶשׁ־ לְאֵ֣ל יָדִ֔י לַעֲשׂ֥וֹת עִמָּכֶ֖ם רָ֑ע וֵֽאלֹהֵ֨י אֲבִיכֶ֜ם אֶ֣מֶשׁ׀ אָמַ֧ר אֵלַ֣י לֵאמֹ֗ר הִשָּׁ֧מֶר לְךָ֛ מִדַּבֵּ֥ר עִֽם־ יַעֲקֹ֖ב מִטּ֥וֹב עַד־ רָֽע׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H0410L]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0570]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H8104J]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H1696G]]"
+- "[[H3290]]"
+- "[[H2896A]]"
+- "[[H5704]]"
+- "[[H7451A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:29**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
 <small><sub>**BSB:**</sub></small>
 I have power to do you great harm, but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|לְ]][[H0410L\|אֵ֣ל]] [[H3027H\|יָדִ֔]][[H9020\|י]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H5973A\|עִמָּ]][[H9036\|כֶ֖ם]] [[H7451B\|רָ֑ע]] [[H9002\|וֵֽ]][[H0430G\|אלֹהֵ֨י]] [[H0001G\|אֲבִי]][[H9026\|כֶ֜ם]] [[H0570\|אֶ֣מֶשׁ]][[H9015\|׀]] [[H0559\|אָמַ֧ר]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H8104J\|הִשָּׁ֧מֶר]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9006\|מִ]][[H1696G\|דַּבֵּ֥ר]] [[H5973A\|עִֽם]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H9006\|מִ]][[H2896A\|טּ֥וֹב]] [[H5704\|עַד]][[H9014\|־]] [[H7451A\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic GOD|GOD]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.28|<< Genesis 31:28]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.30|Genesis 31:30 >>]]</td></tr></table>
 

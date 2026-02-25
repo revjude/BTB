@@ -1,8 +1,76 @@
+---
+title: Genesis 27:33
+type: Verse
+kjv: "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed."
+bsb: "Isaac began to tremble violently and said, “Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!”"
+hebrew: "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־ מְאֹד֒ וַיֹּ֡אמֶר מִֽי־ אֵפ֡וֹא ה֣וּא הַצָּֽד־ צַיִד֩ וַיָּ֨בֵא לִ֜י וָאֹכַ֥ל מִכֹּ֛ל בְּטֶ֥רֶם תָּב֖וֹא וָאֲבָרֲכֵ֑הוּ גַּם־ בָּר֖וּךְ יִהְיֶֽה׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2729]]"
+- "[[H3327]]"
+- "[[H2731]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0645]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H6679A]]"
+- "[[H6718A]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H0935G]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H1571]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:33**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac trembled very exceedingly, and said, Who? where [is] he that hath taken venison, and brought [it] me, and I have eaten of all before thou camest, and have blessed him? yea, [and] he shall be blessed.
 <small><sub>**BSB:**</sub></small>
 Isaac began to tremble violently and said, “Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2729\|יֶּחֱרַ֨ד]] [[H3327\|יִצְחָ֣ק]] [[H2731\|חֲרָדָה֮]] [[H1419A\|גְּדֹלָ֣ה]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹד֒]] [[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H4310\|מִֽי]][[H9014\|־]] [[H0645\|אֵפ֡וֹא]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H6679A\|צָּֽד]][[H9014\|־]] [[H6718A\|צַיִד֩]] [[H9001\|וַ]][[H0935P\|יָּ֨בֵא]] [[H9005\|לִ֜]][[H9030\|י]] [[H9001\|וָ]][[H0398\|אֹכַ֥ל]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H9003\|בְּ]][[H2962\|טֶ֥רֶם]] [[H0935G\|תָּב֖וֹא]] [[H9001\|וָ]][[H1288\|אֲבָרֲכֵ֑]][[H9033\|הוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1288\|בָּר֖וּךְ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMILY|FAMILY]] • [[topic HUNTING|HUNTING]] • [[topic ISAAC|ISAAC]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.32|<< Genesis 27:32]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.34|Genesis 27:34 >>]]</td></tr></table>
 

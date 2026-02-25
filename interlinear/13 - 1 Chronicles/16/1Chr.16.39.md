@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 16:39
+type: Verse
+kjv: "And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon,"
+bsb: "And David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon"
+hebrew: "וְאֵ֣ת׀ צָד֣וֹק הַכֹּהֵ֗ן וְאֶחָיו֙ הַכֹּ֣הֲנִ֔ים לִפְנֵ֖י מִשְׁכַּ֣ן יְהוָ֑ה בַּבָּמָ֖ה אֲשֶׁ֥ר בְּגִבְעֽוֹן׃"
+pericope: "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H6659G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4908]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:39**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that [was] at Gibeon,
 <small><sub>**BSB:**</sub></small>
 And David left Zadok the priest and his fellow priests before the tabernacle of the LORD at the high place in Gibeon
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H6659G\|צָד֣וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H0251H\|אֶחָי]][[H9023\|ו֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H4908\|מִשְׁכַּ֣ן]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בַּ]][[H1116\|בָּמָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1391\|גִבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GIBEON|GIBEON]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic MUSIC|MUSIC]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.38|<< 1 Chronicles 16:38]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.40|1 Chronicles 16:40 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Leviticus 16:10
+type: Verse
+kjv: "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
+bsb: "But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to make atonement by sending it into the wilderness as the scapegoat."
+hebrew: "וְהַשָּׂעִ֗יר אֲשֶׁר֩ עָלָ֨ה עָלָ֤יו הַגּוֹרָל֙ לַעֲזָאזֵ֔ל יָֽעֳמַד־ חַ֛י לִפְנֵ֥י יְהוָ֖ה לְכַפֵּ֣ר עָלָ֑יו לְשַׁלַּ֥ח אֹת֛וֹ לַעֲזָאזֵ֖ל הַמִּדְבָּֽרָה׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic AZAZEL|AZAZEL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8163B]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H5799]]"
+- "[[H5975H]]"
+- "[[H9014]]"
+- "[[H2416A]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3722A]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:10**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, [and] to let him go for a scapegoat into the wilderness.
 <small><sub>**BSB:**</sub></small>
 But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to make atonement by sending it into the wilderness as the scapegoat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H8163B\|שָּׂעִ֗יר]] [[H0834A\|אֲשֶׁר֩]] [[H5927G\|עָלָ֨ה]] [[H5921A\|עָלָ֤י]][[H9033\|ו]] [[H9009\|הַ]][[H1486\|גּוֹרָל֙]] [[H9005\|לַ]][[H5799\|עֲזָאזֵ֔ל]] [[H5975H\|יָֽעֳמַד]][[H9014\|־]] [[H2416A\|חַ֛י]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3722A\|כַפֵּ֣ר]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9005\|לְ]][[H7971G\|שַׁלַּ֥ח]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9005\|לַ]][[H5799\|עֲזָאזֵ֖ל]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic AZAZEL|AZAZEL]] • [[topic CHURCH|CHURCH]] • [[topic LOT, THE|LOT, THE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.9|<< Leviticus 16:9]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.11|Leviticus 16:11 >>]]</td></tr></table>
 

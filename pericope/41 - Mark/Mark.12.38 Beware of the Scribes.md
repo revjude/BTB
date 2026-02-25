@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Beware of the Scribes
+type: Pericope
 pericope: "[[Mark.12.38 Beware of the Scribes|Beware of the Scribes]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Mark.12.38]]"
 - "[[Mark.12.39]]"
 - "[[Mark.12.40]]"
 ---
 
-[[Mark.12|Mark 12:38 - Mark 12:40]]
+<small>[[Mark.12|Mark 12:38-40]]</small>
 *Beware of the Scribes*
 
 [[Mark.12.38|38]] And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and \[love\] salutations in the marketplaces,

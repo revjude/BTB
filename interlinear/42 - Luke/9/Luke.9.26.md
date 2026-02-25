@@ -1,10 +1,65 @@
+---
+title: Luke 9:26
+type: Verse
+kjv: "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels."
+bsb: "If anyone is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory and in the glory of the Father and of the holy angels."
+jesus_said: "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels."
+greek: "ὃς γὰρ ἂν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους, τοῦτον ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται ὅταν ἔλθῃ ἐν τῇ δόξῃ αὐτοῦ καὶ τοῦ πατρὸς καὶ τῶν ἁγίων ἀγγέλων."
+pericope: "[[Luke.9.23 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SHAME|SHAME]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G1870]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3752]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G0040G]]"
+- "[[G0032G]]"
+texts:
+- NKO
+---
+
 **Luke 9:26**<big><big>[[Luke.9.23 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and [in his] Father’s, and of the holy angels.
 <small><sub>**BSB:**</sub></small>
 If anyone is ashamed of Me and My words, the Son of Man will be ashamed of him when He comes in His glory and in the glory of the Father and of the holy angels.
-<small><sub>**Literal:**</sub></small>
-Who[ever] for maybe may have been ashamed of Me and <the> My words, him the Son <the> of Man will be ashamed of when He may come in the glory of Himself and of the Father and of the holy angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.25|<< Luke 9:25]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.27|Luke 9:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G0302\|ἂν]]  [[G1870\|ἐπαισχυνθῇ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1473\|ἐμοὺς]]  [[G3056\|λόγους,]]  [[G3778\|τοῦτον]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1870\|ἐπαισχυνθήσεται]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθῃ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0040G\|ἁγίων]]  [[G0032G\|ἀγγέλων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SHAME|SHAME]] • [[topic STOICISM|STOICISM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.25|<< Luke 9:25]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.27|Luke 9:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

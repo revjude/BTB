@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of Idolatry in the Temple
+type: Pericope
 pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 8
 book/chapter: "[[Ezek.8|Ezekiel 8]]"
-genre:
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 18
 verses:
 - "[[Ezek.8.1]]"
 - "[[Ezek.8.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ezek.8.18]]"
 ---
 
-[[Ezek.8|Ezekiel 8:1 - Ezekiel 8:18]]
+<small>[[Ezek.8|Ezekiel 8:1-18]]</small>
 *The Vision of Idolatry in the Temple*
 
 [[Ezek.8.1|1]] And it came to pass in the sixth year, in the sixth \[month\], in the fifth \[day\] of the month, \[as\] I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.

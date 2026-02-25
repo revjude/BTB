@@ -1,8 +1,66 @@
+---
+title: Job 2:13
+type: Verse
+kjv: "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great."
+bsb: "Then they sat on the ground with him for seven days and seven nights, but no one spoke a word to him because they saw how intense his suffering was."
+hebrew: "וַיֵּשְׁב֤וּ אִתּוֹ֙ לָאָ֔רֶץ שִׁבְעַ֥ת יָמִ֖ים וְשִׁבְעַ֣ת לֵיל֑וֹת וְאֵין־ דֹּבֵ֤ר אֵלָיו֙ דָּבָ֔ר כִּ֣י רָא֔וּ כִּֽי־ גָדַ֥ל הַכְּאֵ֖ב מְאֹֽד׃"
+pericope: "[[Job.2.11 Job’s Three Friends|Job’s Three Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JOB|JOB]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SYMPATHY|SYMPATHY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H1431]]"
+- "[[H9009]]"
+- "[[H3511]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:13**<big><big>[[Job.2.11 Job’s Three Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that [his] grief was very great.
 <small><sub>**BSB:**</sub></small>
 Then they sat on the ground with him for seven days and seven nights, but no one spoke a word to him because they saw how intense his suffering was.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁב֤וּ]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H9005\|לָ]][[H0776H\|אָ֔רֶץ]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H9002\|וְ]][[H7651\|שִׁבְעַ֣ת]] [[H3915\|לֵיל֑וֹת]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H1696G\|דֹּבֵ֤ר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H1697G\|דָּבָ֔ר]] [[H3588A\|כִּ֣י]] [[H7200G\|רָא֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1431\|גָדַ֥ל]] [[H9009\|הַ]][[H3511\|כְּאֵ֖ב]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JOB|JOB]] • [[topic SEVEN|SEVEN]] • [[topic SYMPATHY|SYMPATHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.12|<< Job 2:12]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.1|Job 3:1 >>]]</td></tr></table>
 

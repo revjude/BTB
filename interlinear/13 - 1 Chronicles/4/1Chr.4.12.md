@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 4:12
+type: Verse
+kjv: "And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These are the men of Rechah."
+bsb: "Eshton was the father of Beth-rapha, of Paseah, and of Tehinnah the father of Ir-nahash. These were the men of Recah."
+hebrew: "וְאֶשְׁתּ֗וֹן הוֹלִ֞יד אֶת־ בֵּ֤ית רָפָא֙ וְאֶת־ פָּסֵ֔חַ וְאֶת־ תְּחִנָּ֖ה אֲבִ֣י עִ֣יר נָחָ֑שׁ אֵ֖לֶּה אַנְשֵׁ֥י רֵכָֽה׃ ס"
+pericope: "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BETH-RAPHA|BETH-RAPHA]]"
+- "[[topic ESHTON|ESHTON]]"
+- "[[topic IR-NAHASH|IR-NAHASH]]"
+- "[[topic PASEAH|PASEAH]]"
+- "[[topic RECHAH|RECHAH]]"
+- "[[topic TEHINNAH|TEHINNAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0850]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1051]]"
+- "[[H6454G]]"
+- "[[H8468]]"
+- "[[H0001G]]"
+- "[[H5892H]]"
+- "[[H5176K]]"
+- "[[H0428]]"
+- "[[H0582]]"
+- "[[H7397B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:12**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These [are] the men of Rechah.
 <small><sub>**BSB:**</sub></small>
 Eshton was the father of Beth-rapha, of Paseah, and of Tehinnah the father of Ir-nahash. These were the men of Recah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0850\|אֶשְׁתּ֗וֹן]] [[H3205\|הוֹלִ֞יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1051\|בֵּ֤ית]] [[H1051\|רָפָא֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6454G\|פָּסֵ֔חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8468\|תְּחִנָּ֖ה]] [[H0001G\|אֲבִ֣י]] [[H5892H\|עִ֣יר]] [[H5176K\|נָחָ֑שׁ]] [[H0428\|אֵ֖לֶּה]] [[H0582\|אַנְשֵׁ֥י]] [[H7397B\|רֵכָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-RAPHA|BETH-RAPHA]] • [[topic ESHTON|ESHTON]] • [[topic IR-NAHASH|IR-NAHASH]] • [[topic PASEAH|PASEAH]] • [[topic RECHAH|RECHAH]] • [[topic TEHINNAH|TEHINNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.11|<< 1 Chronicles 4:11]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.13|1 Chronicles 4:13 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ Eshton was the father of Beth-rapha, of Paseah, and of Tehinnah the father of Ir
 | nahash  |**<big>&#8207;[[H5176K\|נָחָ֑שׁ]]&#8207; </big>**| na.Chash<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Recah  |**<big>&#8207;[[H7397B\|רֵכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| re.Khah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Recah  |**<big>&#8207;[[H7397B\|רֵכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| re.Khah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.11|<< 1 Chronicles 4:11]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.13|1 Chronicles 4:13 >>]]</td></tr></table>
 
 

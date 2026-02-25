@@ -1,8 +1,53 @@
+---
+title: Psalm 105:13
+type: Verse
+kjv: "When they went from one nation to another, from one kingdom to another people;"
+bsb: "they wandered from nation to nation, from one kingdom to another."
+hebrew: "וַֽ֭יִּתְהַלְּכוּ מִגּ֣וֹי אֶל־ גּ֑וֹי מִ֝מַּמְלָכָ֗ה אֶל־ עַ֥ם אַחֵֽר׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4467]]"
+- "[[H5971A]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:13**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they went from one nation to another, from [one] kingdom to another people;
 <small><sub>**BSB:**</sub></small>
 they wandered from nation to nation, from one kingdom to another.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H1980I\|יִּתְהַלְּכוּ]] [[H9006\|מִ]][[H1471A\|גּ֣וֹי]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּ֑וֹי]] [[H9006\|מִ֝]][[H4467\|מַּמְלָכָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.12|<< Psalms 105:12]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.14|Psalms 105:14 >>]]</td></tr></table>
 

@@ -1,7 +1,7 @@
 
 **MOUNTAIN**
 
-→ Melted [[Ps.97.5|Ps 97:5]]; [[Deut.4.11|De 4:11]]; [[Deut.5.23|5:23]]; [[Judg.5.5|Jud 5:5]]; [[Isa.64.1|Isa 64:1]]-[[Isa.64.3|3]]; [[Mic.1.4|Mic 1:4]]; [[Nah.1.5|Na 1:5]]
+→ Melted [[Ps.97.5|Ps 97:5]]; [[Deut.4.11|De 4:11]]; [[Deut.5.23|5:23]]; [[Judg.5.5|Jud 5:5]]; [[Isa.64.1|Isa 64:1-3]]; [[Mic.1.4|Mic 1:4]]; [[Nah.1.5|Na 1:5]]
 
 → Overturning and removing of [[Job.9.5|Job 9:5]]; [[Job.14.18|14:18]]; [[Job.28.9|28:9]]; [[Ezek.38.20|Eze 38:20]]
 
@@ -19,7 +19,7 @@
 
 → Jesus goes up into, for prayer [[Matt.14.23|Mt 14:23]]; [[Luke.6.12|Lu 6:12]]; [[Luke.9.28|9:28]]
 
-→ Is transfigured upon [[Matt.17.1|Mt 17:1]]-[[Matt.17.9|9]]; [[Mark.9.2|Mr 9:2]]-[[Mark.9.10|10]]
+→ Is transfigured upon [[Matt.17.1|Mt 17:1-9]]; [[Mark.9.2|Mr 9:2-10]]
 
 → Signals from [[Isa.13.2|Isa 13:2]]; [[Isa.18.3|18:3]]; [[Isa.30.17|30:17]]
 

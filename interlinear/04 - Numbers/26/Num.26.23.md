@@ -1,8 +1,56 @@
+---
+title: Numbers 26:23
+type: Verse
+kjv: "Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:"
+bsb: "These were the descendants of Issachar by their clans: The Tolaite clan from Tola, the Punite clan from Puvah,"
+hebrew: "בְּנֵ֤י יִשָּׂשכָר֙ לְמִשְׁפְּחֹתָ֔ם תּוֹלָ֕ע מִשְׁפַּ֖חַת הַתּוֹלָעִ֑י לְפֻוָ֕ה מִשְׁפַּ֖חַת הַפּוּנִֽי׃"
+pericope: "[[Num.26.23 The Tribe of Issachar|The Tribe of Issachar]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PHUVAH|PHUVAH]]"
+- "[[topic TOLA|TOLA]]"
+strongs:
+- "[[H1121G]]"
+- "[[H3485G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H8439G]]"
+- "[[H9009]]"
+- "[[H8440]]"
+- "[[H6312G]]"
+- "[[H6324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:23**<big><big>[[Num.26.23 The Tribe of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the sons of Issachar after their families: [of] Tola, the family of the Tolaites: of Pua, the family of the Punites:
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Issachar by their clans: The Tolaite clan from Tola, the Punite clan from Puvah,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֤י]] [[H3485G\|יִשָּׂשכָר֙]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֔]][[H9028\|ם]] [[H8439G\|תּוֹלָ֕ע]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H8440\|תּוֹלָעִ֑י]] [[H9005\|לְ]][[H6312G\|פֻוָ֕ה]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H6324\|פּוּנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHUVAH|PHUVAH]] • [[topic TOLA|TOLA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.22|<< Numbers 26:22]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.24|Numbers 26:24 >>]]</td></tr></table>
 

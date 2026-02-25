@@ -1,8 +1,62 @@
+---
+title: Exodus 38:25
+type: Verse
+kjv: "And the silver of them that were numbered of the congregation was an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:"
+bsb: "The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—"
+hebrew: "וְכֶ֛סֶף פְּקוּדֵ֥י הָעֵדָ֖ה מְאַ֣ת כִּכָּ֑ר וְאֶלֶף֩ וּשְׁבַ֨ע מֵא֜וֹת וַחֲמִשָּׁ֧ה וְשִׁבְעִ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SILVER|SILVER]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TALENT|TALENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H6485A]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H3967]]"
+- "[[H3603H]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H2568]]"
+- "[[H7657]]"
+- "[[H8255]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:25**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the silver of them that were numbered of the congregation [was] an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
 The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3701G\|כֶ֛סֶף]] [[H6485A\|פְּקוּדֵ֥י]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H3967\|מְאַ֣ת]] [[H3603H\|כִּכָּ֑ר]] [[H9002\|וְ]][[H0505G\|אֶלֶף֩]] [[H9002\|וּ]][[H7651\|שְׁבַ֨ע]] [[H3967\|מֵא֜וֹת]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֧ה]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֛ים]] [[H8255\|שֶׁ֖קֶל]] [[H9003\|בְּ]][[H8255\|שֶׁ֥קֶל]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SILVER|SILVER]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TALENT|TALENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.24|<< Exodus 38:24]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.26|Exodus 38:26 >>]]</td></tr></table>
 

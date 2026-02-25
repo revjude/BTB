@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 18:13
+type: Verse
+kjv: "Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people."
+bsb: "Therefore Saul sent David away and gave him command of a thousand men. David led the troops out to battle and back,"
+hebrew: "וַיְסִרֵ֤הוּ שָׁאוּל֙ מֵֽעִמּ֔וֹ וַיְשִׂמֵ֥הוּ ל֖וֹ שַׂר־ אָ֑לֶף וַיֵּצֵ֥א וַיָּבֹ֖א לִפְנֵ֥י הָעָֽם׃ פ"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H9033]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H0505G]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 18:13**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.
 <small><sub>**BSB:**</sub></small>
 Therefore Saul sent David away and gave him command of a thousand men. David led the troops out to battle and back,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|יְסִרֵ֤]][[H9033\|הוּ]] [[H7586G\|שָׁאוּל֙]] [[H9006\|מֵֽ]][[H5973B\|עִמּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7760A\|יְשִׂמֵ֥]][[H9033\|הוּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8269\|שַׂר]][[H9014\|־]] [[H0505G\|אָ֑לֶף]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTAIN|CAPTAIN]] • [[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.12|<< 1 Samuel 18:12]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.14|1 Samuel 18:14 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ Therefore Saul sent David away and gave him command of a thousand men. David led
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֖א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.12|<< 1 Samuel 18:12]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.14|1 Samuel 18:14 >>]]</td></tr></table>
 
 

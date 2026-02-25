@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 12:15
+type: Verse
+kjv: "But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers."
+bsb: "But if you disobey the LORD and rebel against His command, then the hand of the LORD will be against you as it was against your fathers."
+hebrew: "וְאִם־ לֹ֤א תִשְׁמְעוּ֙ בְּק֣וֹל יְהוָ֔ה וּמְרִיתֶ֖ם אֶת־ פִּ֣י יְהוָ֑ה וְהָיְתָ֧ה יַד־ יְהוָ֛ה בָּכֶ֖ם וּבַאֲבֹתֵיכֶֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H0853]]"
+- "[[H6310I]]"
+- "[[H1961]]"
+- "[[H3027H]]"
+- "[[H9036]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:15**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as [it was] against your fathers.
 <small><sub>**BSB:**</sub></small>
 But if you disobey the LORD and rebel against His command, then the hand of the LORD will be against you as it was against your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H8085H\|תִשְׁמְעוּ֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וּ]][[H4784\|מְרִיתֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֧ה]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H9036\|כֶ֖ם]] [[H9002\|וּ]][[H9003\|בַ]][[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.14|<< 1 Samuel 12:14]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.16|1 Samuel 12:16 >>]]</td></tr></table>
 

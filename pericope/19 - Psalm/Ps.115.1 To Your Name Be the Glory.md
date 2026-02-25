@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To Your Name Be the Glory
+type: Pericope
 pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 115
 book/chapter: "[[Ps.115|Psalm 115]]"
-genre:
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.115.1]]"
 - "[[Ps.115.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.115.18]]"
 ---
 
-[[Ps.115|Psalm 115:1 - Psalm 115:18]]
+<small>[[Ps.115|Psalm 115:1-18]]</small>
 *To Your Name Be the Glory*
 
 [[Ps.115.1|1]] Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, \[and\] for thy truth’s sake.

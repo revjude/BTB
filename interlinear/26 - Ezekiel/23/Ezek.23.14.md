@@ -1,8 +1,64 @@
+---
+title: Ezekiel 23:14
+type: Verse
+kjv: "And that she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,"
+bsb: "But Oholibah carried her prostitution even further. She saw the men portrayed on the wall, images of the Chaldeans, engraved in vermilion,"
+hebrew: "וַתּ֖וֹסֶף אֶל־ תַּזְנוּתֶ֑יהָ וַתֵּ֗רֶא אַנְשֵׁי֙ מְחֻקֶּ֣ה עַל־ הַקִּ֔יר צַלְמֵ֣י כַשְׂדִּ֔ים חֲקֻקִ֖ים בַּשָּׁשַֽׁר׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PAINTING|PAINTING]]"
+- "[[topic VERMILION|VERMILION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8457]]"
+- "[[H9024]]"
+- "[[H7200G]]"
+- "[[H0582]]"
+- "[[H2707]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7023]]"
+- "[[H6754]]"
+- "[[H3778]]"
+- "[[H2710]]"
+- "[[H9003]]"
+- "[[H8350]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 23:14**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,
 <small><sub>**BSB:**</sub></small>
 But Oholibah carried her prostitution even further. She saw the men portrayed on the wall, images of the Chaldeans, engraved in vermilion,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|תּ֖וֹסֶף]] [[H0413\|אֶל]][[H9014\|־]] [[H8457\|תַּזְנוּתֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H7200G\|תֵּ֗רֶא]] [[H0582\|אַנְשֵׁי֙]] [[H2707\|מְחֻקֶּ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7023\|קִּ֔יר]] [[H6754\|צַלְמֵ֣י]] [[H3778\|כַשְׂדִּ֔ים]] [[H2710\|חֲקֻקִ֖ים]] [[H9003\|בַּ]][[H8350\|שָּׁשַֽׁר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic PAINTING|PAINTING]] • [[topic VERMILION|VERMILION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 

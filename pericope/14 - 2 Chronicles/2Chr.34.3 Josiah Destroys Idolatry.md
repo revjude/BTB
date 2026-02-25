@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Destroys Idolatry
+type: Pericope
 pericope: "[[2Chr.34.3 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 34
 book/chapter: "[[2Chr.34|2 Chronicles 34]]"
-genre:
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.34.3]]"
 - "[[2Chr.34.4]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.34.7]]"
 ---
 
-[[2Chr.34|2 Chronicles 34:3 - 2 Chronicles 34:7]]
+<small>[[2Chr.34|2 Chronicles 34:3-7]]</small>
 *Josiah Destroys Idolatry*
 
 [[2Chr.34.3|3]] For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.

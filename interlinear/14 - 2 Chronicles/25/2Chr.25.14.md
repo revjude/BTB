@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 25:14
+type: Verse
+kjv: "Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them."
+bsb: "When Amaziah returned from the slaughter of the Edomites, he brought back the gods of the Seirites, set them up as his own gods, bowed before them, and burned sacrifices to them."
+hebrew: "וַיְהִ֗י אַחֲרֵ֨י ב֤וֹא אֲמַצְיָ֙הוּ֙ מֵֽהַכּ֣וֹת אֶת־ אֲדוֹמִ֔ים וַיָּבֵ֗א אֶת־ אֱלֹהֵי֙ בְּנֵ֣י שֵׂעִ֔יר וַיַּֽעֲמִידֵ֥ם ל֖וֹ לֵאלֹהִ֑ים וְלִפְנֵיהֶ֥ם יִֽשְׁתַּחֲוֶ֖ה וְלָהֶ֥ם יְקַטֵּֽר׃"
+pericope: "[[2Chr.25.14 Amaziah Rebuked for Idolatry|Amaziah Rebuked for Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H0935G]]"
+- "[[H0558G]]"
+- "[[H9006]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0130]]"
+- "[[H0935P]]"
+- "[[H0430]]"
+- "[[H1121G]]"
+- "[[H8165A]]"
+- "[[H5975G]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H7812]]"
+- "[[H6999H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:14**<big><big>[[2Chr.25.14 Amaziah Rebuked for Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up [to be] his gods, and bowed down himself before them, and burned incense unto them.
 <small><sub>**BSB:**</sub></small>
 When Amaziah returned from the slaughter of the Edomites, he brought back the gods of the Seirites, set them up as his own gods, bowed before them, and burned sacrifices to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחֲרֵ֨י]] [[H0935G\|ב֤וֹא]] [[H0558G\|אֲמַצְיָ֙הוּ֙]] [[H9006\|מֵֽ]][[H5221\|הַכּ֣וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H0130\|אֲדוֹמִ֔ים]] [[H9001\|וַ]][[H0935P\|יָּבֵ֗א]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵי֙]] [[H1121G\|בְּנֵ֣י]] [[H8165A\|שֵׂעִ֔יר]] [[H9001\|וַ]][[H5975G\|יַּֽעֲמִידֵ֥]][[H9038\|ם]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0430\|אלֹהִ֑ים]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֥ם]] [[H7812\|יִֽשְׁתַּחֲוֶ֖ה]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H6999H\|יְקַטֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.13|<< 2 Chronicles 25:13]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.15|2 Chronicles 25:15 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 10:3
+type: Verse
+kjv: "Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court."
+bsb: "Now when the man went in, the cherubim were standing on the south side of the temple, and a cloud filled the inner court."
+hebrew: "וְהַכְּרֻבִ֗ים עֹֽמְדִ֛ים מִימִ֥ין לַבַּ֖יִת בְּבֹא֣וֹ הָאִ֑ישׁ וְהֶעָנָ֣ן מָלֵ֔א אֶת־ הֶחָצֵ֖ר הַפְּנִימִֽית׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H3225H]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H0376G]]"
+- "[[H6051]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:3**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 <small><sub>**BSB:**</sub></small>
 Now when the man went in, the cherubim were standing on the south side of the temple, and a cloud filled the inner court.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3742\|כְּרֻבִ֗ים]] [[H5975G\|עֹֽמְדִ֛ים]] [[H9006\|מִ]][[H3225H\|ימִ֥ין]] [[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H9003\|בְּ]][[H0935G\|בֹא֣]][[H9043\|וֹ]] [[H9009\|הָ]][[H0376G\|אִ֑ישׁ]] [[H9002\|וְ]][[H9009\|הֶ]][[H6051\|עָנָ֣ן]] [[H4390\|מָלֵ֔א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֖ר]] [[H9009\|הַ]][[H6442\|פְּנִימִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Song of Solomon 6:10
+type: Verse
+kjv: "Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?"
+bsb: "Who is this who shines like the dawn, as fair as the moon, as bright as the sun, as majestic as the stars in procession?"
+hebrew: "מִי־ זֹ֥את הַנִּשְׁקָפָ֖ה כְּמוֹ־ שָׁ֑חַר יָפָ֣ה כַלְּבָנָ֗ה בָּרָה֙ כַּֽחַמָּ֔ה אֲיֻמָּ֖ה כַּנִּדְגָּלֽוֹת׃ ס"
+pericope: "[[Song.6.10 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STANDARD|STANDARD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H8259]]"
+- "[[H3644G]]"
+- "[[H7837]]"
+- "[[H3303]]"
+- "[[H9004]]"
+- "[[H3842]]"
+- "[[H1249]]"
+- "[[H2535]]"
+- "[[H0366]]"
+- "[[H1713B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:10**<big><big>[[Song.6.10 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] she [that] looketh forth as the morning, fair as the moon, clear as the sun, [and] terrible as [an army] with banners?
 <small><sub>**BSB:**</sub></small>
 Who is this who shines like the dawn, as fair as the moon, as bright as the sun, as majestic as the stars in procession?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H2063\|זֹ֥את]] [[H9009\|הַ]][[H8259\|נִּשְׁקָפָ֖ה]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H7837\|שָׁ֑חַר]] [[H3303\|יָפָ֣ה]] [[H9004\|כַ]][[H3842\|לְּבָנָ֗ה]] [[H1249\|בָּרָה֙]] [[H9004\|כַּֽ]][[H2535\|חַמָּ֔ה]] [[H0366\|אֲיֻמָּ֖ה]] [[H9004\|כַּ]][[H1713B\|נִּדְגָּלֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MOON|MOON]] • [[topic STANDARD|STANDARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
@@ -18,7 +67,7 @@ Who is this who shines like the dawn, as fair as the moon, as bright as the sun,
 | pure  |**<big>&#8207;[[H1249\|בָּרָה֙]]&#8207; </big>**| ba.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the sun  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H2535\|חַמָּ֔ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | majestic  |**<big>&#8207;[[H0366\|אֲיֻמָּ֖ה]]&#8207; </big>**| 'a.yu.Mah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> hosts with banners  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1713B\|נִּדְגָּלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> nid.ga.Lot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> hosts with banners  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1713B\|נִּדְגָּלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> nid.ga.Lot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
 

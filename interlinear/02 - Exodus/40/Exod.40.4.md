@@ -1,8 +1,55 @@
+---
+title: Exodus 40:4
+type: Verse
+kjv: "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof."
+bsb: "Then bring in the table and set out its arrangement; bring in the lampstand as well, and set up its lamps."
+hebrew: "וְהֵבֵאתָ֙ אֶת־ הַשֻּׁלְחָ֔ן וְעָרַכְתָּ֖ אֶת־ עֶרְכּ֑וֹ וְהֵבֵאתָ֙ אֶת־ הַמְּנֹרָ֔ה וְהַעֲלֵיתָ֖ אֶת־ נֵרֹתֶֽיהָ׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7979]]"
+- "[[H6186A]]"
+- "[[H6187]]"
+- "[[H9023]]"
+- "[[H4501]]"
+- "[[H5927H]]"
+- "[[H5216A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:4**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.
 <small><sub>**BSB:**</sub></small>
 Then bring in the table and set out its arrangement; bring in the lampstand as well, and set up its lamps.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבֵאתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָ֔ן]] [[H9001\|וְ]][[H6186A\|עָרַכְתָּ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H6187\|עֶרְכּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H0935P\|הֵבֵאתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4501\|מְּנֹרָ֔ה]] [[H9001\|וְ]][[H5927H\|הַעֲלֵיתָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H5216A\|נֵרֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.3|<< Exodus 40:3]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.5|Exodus 40:5 >>]]</td></tr></table>
 

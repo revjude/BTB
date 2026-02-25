@@ -1,8 +1,61 @@
+---
+title: Psalm 78:14
+type: Verse
+kjv: "In the daytime also he led them with a cloud, and all the night with a light of fire."
+bsb: "He led them with a cloud by day and with a light of fire all night."
+hebrew: "וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכָל־ הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H6051]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H0216]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:14**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the daytime also he led them with a cloud, and all the night with a light of fire.
 <small><sub>**BSB:**</sub></small>
 He led them with a cloud by day and with a light of fire all night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5148\|יַּנְחֵ֣]][[H9038\|ם]] [[H9003\|בֶּ]][[H6051\|עָנָ֣ן]] [[H3119\|יוֹמָ֑ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ֝]][[H3915\|לַּ֗יְלָה]] [[H9003\|בְּ]][[H0216\|א֣וֹר]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.13|<< Psalms 78:13]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.15|Psalms 78:15 >>]]</td></tr></table>
 

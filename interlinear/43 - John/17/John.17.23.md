@@ -1,10 +1,66 @@
+---
+title: John 17:23
+type: Verse
+kjv: "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me."
+bsb: "I in them and You in Me—that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me."
+jesus_said: "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me."
+greek: "ἐγὼ ἐν αὐτοῖς καὶ σὺ ἐν ἐμοί, ἵνα ὦσιν τετελειωμένοι εἰς ἕν, καὶ ἵνα γινώσκῃ ὁ κόσμος ὅτι σύ με ἀπέστειλας καὶ ἠγάπησας αὐτοὺς καθὼς ἐμὲ ἠγάπησας.¶"
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1510]]"
+- "[[G5048]]"
+- "[[G1519]]"
+- "[[G1520]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G0649]]"
+- "[[G0025]]"
+- "[[G2531]]"
+texts:
+- NKO
+- k
+---
+
 **John 17:23**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
 <small><sub>**BSB:**</sub></small>
 I in them and You in Me—that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me.
-<small><sub>**Literal:**</sub></small>
-I myself in them and You in Me myself — that they may be perfected in unity, and so that may know the world that You yourself Me sent and You loved them even as Me myself You loved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.22|<< John 17:22]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.24|John 17:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί,]]  [[G2443\|ἵνα]]  [[G1510\|ὦσιν]]  [[G5048\|τετελειωμένοι]]  [[G1519\|εἰς]]  [[G1520\|ἕν,]]  [[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G1097\|γινώσκῃ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3754G\|ὅτι]]  [[G4771\|σύ]]  [[G3165\|με]]  [[G0649\|ἀπέστειλας]]  [[G2532\|καὶ]]  [[G0025\|ἠγάπησας]]  [[G0846\|αὐτοὺς]]  [[G2531\|καθὼς]]  [[G1473\|ἐμὲ]]  [[G0025\|ἠγάπησας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.22|<< John 17:22]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.24|John 17:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

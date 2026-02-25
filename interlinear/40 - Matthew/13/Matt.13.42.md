@@ -1,10 +1,68 @@
+---
+title: Matthew 13:42
+type: Verse
+kjv: "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."
+bsb: "And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth."
+jesus_said: "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."
+greek: "καὶ βαλοῦσιν αὐτοὺς εἰς τὴν κάμινον τοῦ πυρός· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων."
+pericope: "[[Matt.13.36 The Parable of the Weeds Explained|The Parable of the Weeds Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GNASHING OF TEETH|GNASHING OF TEETH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TARES|TARES]]"
+- "[[topic TEETH|TEETH]]"
+- "[[topic WAILING|WAILING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2575]]"
+- "[[G4442]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G2805]]"
+- "[[G1030]]"
+- "[[G3599]]"
+texts:
+- NKO
+---
+
 **Matthew 13:42**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth.
-<small><sub>**Literal:**</sub></small>
-and they will cast them into the furnace of the fire; there will be the weeping and the gnashing <the> of teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.41|<< Matthew 13:41]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.43|Matthew 13:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906G\|βαλοῦσιν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2575\|κάμινον]]  [[G3588\|τοῦ]]  [[G4442\|πυρός·]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G2805\|κλαυθμὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1030\|βρυγμὸς]]  [[G3588\|τῶν]]  [[G3599\|ὀδόντων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FIRE|FIRE]] • [[topic FURNACE|FURNACE]] • [[topic GNASHING OF TEETH|GNASHING OF TEETH]] • [[topic GOSPEL|GOSPEL]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic SORROW|SORROW]] • [[topic TARES|TARES]] • [[topic TEETH|TEETH]] • [[topic WAILING|WAILING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.41|<< Matthew 13:41]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.43|Matthew 13:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 13:42** is...
 > $\quad$ referencing: [[LXX.Dan.3.6|Dan 3:6]]

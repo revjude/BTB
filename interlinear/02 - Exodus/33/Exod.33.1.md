@@ -1,8 +1,74 @@
+---
+title: Exodus 33:1
+type: Verse
+kjv: "And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:"
+bsb: "Then the LORD said to Moses, “Leave this place, you and the people you brought up out of the land of Egypt, and go to the land that I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’"
+hebrew: "וַיְדַבֵּ֨ר יְהוָ֤ה אֶל־ מֹשֶׁה֙ לֵ֣ךְ עֲלֵ֣ה מִזֶּ֔ה אַתָּ֣ה וְהָעָ֔ם אֲשֶׁ֥ר הֶֽעֱלִ֖יתָ מֵאֶ֣רֶץ מִצְרָ֑יִם אֶל־ הָאָ֗רֶץ אֲשֶׁ֣ר נִ֠שְׁבַּעְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶֽנָּה׃"
+pericope: "[[Exod.33.1 The Command to Leave Sinai|The Command to Leave Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H1980G]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H3290]]"
+- "[[H0559]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:1**<big><big>[[Exod.33.1 The Command to Leave Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Depart, [and] go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Leave this place, you and the people you brought up out of the land of Egypt, and go to the land that I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H1980G\|לֵ֣ךְ]] [[H5927G\|עֲלֵ֣ה]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5927H\|הֶֽעֱלִ֖יתָ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִ֠שְׁבַּעְתִּי]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֨ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֤ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹב֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H5414G\|אֶתְּנֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.35|<< Exodus 32:35]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.2|Exodus 33:2 >>]]</td></tr></table>
 

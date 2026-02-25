@@ -1,8 +1,54 @@
+---
+title: Ezekiel 31:7
+type: Verse
+kjv: "Thus was he fair in his greatness, in the length of his branches: for his root was by great waters."
+bsb: "It was beautiful in its greatness, in the length of its limbs, for its roots extended to abundant waters."
+hebrew: "וַיְּיִ֣ף בְּגָדְל֔וֹ בְּאֹ֖רֶךְ דָּֽלִיּוֹתָ֑יו כִּֽי־ הָיָ֥ה שָׁרְשׁ֖וֹ אֶל־ מַ֥יִם רַבִּֽים׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3302]]"
+- "[[H9003]]"
+- "[[H1433]]"
+- "[[H9023]]"
+- "[[H0753]]"
+- "[[H1808]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H8328]]"
+- "[[H0413]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:7**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus was he fair in his greatness, in the length of his branches: for his root was by great waters.
 <small><sub>**BSB:**</sub></small>
 It was beautiful in its greatness, in the length of its limbs, for its roots extended to abundant waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3302\|יְּיִ֣ף]] [[H9003\|בְּ]][[H1433\|גָדְל֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H0753\|אֹ֖רֶךְ]] [[H1808\|דָּֽלִיּוֹתָ֑י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H8328\|שָׁרְשׁ֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.6|<< Ezekiel 31:6]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.8|Ezekiel 31:8 >>]]</td></tr></table>
 

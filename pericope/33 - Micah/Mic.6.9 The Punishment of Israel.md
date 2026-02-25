@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Punishment of Israel
+type: Pericope
 pericope: "[[Mic.6.9 The Punishment of Israel|The Punishment of Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 6
 book/chapter: "[[Mic.6|Micah 6]]"
-genre:
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 8
 verses:
 - "[[Mic.6.9]]"
 - "[[Mic.6.10]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mic.6.16]]"
 ---
 
-[[Mic.6|Micah 6:9 - Micah 6:16]]
+<small>[[Mic.6|Micah 6:9-16]]</small>
 *The Punishment of Israel*
 
 [[Mic.6.9|9]] The LORD’S voice crieth unto the city, and \[the man of\] wisdom shall see thy name: hear ye the rod, and who hath appointed it.

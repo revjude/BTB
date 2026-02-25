@@ -1,8 +1,64 @@
+---
+title: Genesis 17:16
+type: Verse
+kjv: "And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her."
+bsb: "And I will bless her and will surely give you a son by her. I will bless her, and she will be the mother of nations; kings of peoples will descend from her.”"
+hebrew: "וּבֵרַכְתִּ֣י אֹתָ֔הּ וְגַ֨ם נָתַ֧תִּי מִמֶּ֛נָּה לְךָ֖ בֵּ֑ן וּבֵֽרַכְתִּ֙יהָ֙ וְהָֽיְתָ֣ה לְגוֹיִ֔ם מַלְכֵ֥י עַמִּ֖ים מִמֶּ֥נָּה יִהְיֽוּ׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H5414G]]"
+- "[[H4480A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H1961]]"
+- "[[H1471A]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:16**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be [a mother] of nations; kings of people shall be of her.
 <small><sub>**BSB:**</sub></small>
 And I will bless her and will surely give you a son by her. I will bless her, and she will be the mother of nations; kings of peoples will descend from her.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1288\|בֵרַכְתִּ֣י]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H5414G\|נָתַ֧תִּי]] [[H4480A\|מִמֶּ֛]][[H9034\|נָּה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H1121A\|בֵּ֑ן]] [[H9001\|וּ]][[H1288\|בֵֽרַכְתִּ֙י]][[H9034\|הָ֙]] [[H9001\|וְ]][[H1961\|הָֽיְתָ֣ה]] [[H9005\|לְ]][[H1471A\|גוֹיִ֔ם]] [[H4428G\|מַלְכֵ֥י]] [[H5971A\|עַמִּ֖ים]] [[H4480A\|מִמֶּ֥]][[H9034\|נָּה]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic ISAAC|ISAAC]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.15|<< Genesis 17:15]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.17|Genesis 17:17 >>]]</td></tr></table>
 

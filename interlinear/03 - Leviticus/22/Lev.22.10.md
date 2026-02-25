@@ -1,8 +1,56 @@
+---
+title: Leviticus 22:10
+type: Verse
+kjv: "There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing."
+bsb: "No one outside a priest’s family may eat the sacred offering, nor may the guest of a priest or his hired hand eat it."
+hebrew: "וְכָל־ זָ֖ר לֹא־ יֹ֣אכַל קֹ֑דֶשׁ תּוֹשַׁ֥ב כֹּהֵ֛ן וְשָׂכִ֖יר לֹא־ יֹ֥אכַל קֹֽדֶשׁ׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H6944G]]"
+- "[[H8453A]]"
+- "[[H3548]]"
+- "[[H7916]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:10**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall no stranger eat [of] the holy thing: a sojourner of the priest, or an hired servant, shall not eat [of] the holy thing.
 <small><sub>**BSB:**</sub></small>
 No one outside a priest’s family may eat the sacred offering, nor may the guest of a priest or his hired hand eat it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2114A\|זָ֖ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹ֣אכַל]] [[H6944G\|קֹ֑דֶשׁ]] [[H8453A\|תּוֹשַׁ֥ב]] [[H3548\|כֹּהֵ֛ן]] [[H9002\|וְ]][[H7916\|שָׂכִ֖יר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹ֥אכַל]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.9|<< Leviticus 22:9]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.11|Leviticus 22:11 >>]]</td></tr></table>
 

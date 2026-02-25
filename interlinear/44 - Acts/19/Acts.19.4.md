@@ -1,10 +1,65 @@
+---
+title: Acts 19:4
+type: Verse
+kjv: "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
+bsb: "Paul explained: “John’s baptism was a baptism of repentance. He told the people to believe in the One coming after him, that is, in Jesus.”"
+greek: "Εἶπεν δὲ Παῦλος· Ἰωάννης μὲν ἐβάπτισεν βάπτισμα μετανοίας τῷ λαῷ λέγων εἰς τὸν ἐρχόμενον μετ᾽ αὐτὸν ἵνα πιστεύσωσιν, τοῦτ᾽ ἔστιν εἰς τὸν Χριστὸν Ἰησοῦν."
+pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G2491G]]"
+- "[[G3303]]"
+- "[[G0907]]"
+- "[[G0908]]"
+- "[[G3341]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3004G]]"
+- "[[G1519]]"
+- "[[G2064]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 19:4**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 Paul explained: “John’s baptism was a baptism of repentance. He told the people to believe in the One coming after him, that is, in Jesus.”
-<small><sub>**Literal:**</sub></small>
-Said then Paul; John indeed baptized a baptism of repentance to the people telling about the [One] coming after him that they may believe, That is in <the> Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.3|<< Acts 19:3]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.5|Acts 19:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3972G\|Παῦλος·]]  [[G2491G\|Ἰωάννης]]  [[G3303\|μὲν]]  [[G0907\|ἐβάπτισεν]]  [[G0908\|βάπτισμα]]  [[G3341\|μετανοίας]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G3004G\|λέγων]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2064\|ἐρχόμενον]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύσωσιν,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONFESSION|CONFESSION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.3|<< Acts 19:3]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.5|Acts 19:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

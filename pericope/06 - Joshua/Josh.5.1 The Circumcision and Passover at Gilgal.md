@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Circumcision and Passover at Gilgal
+type: Pericope
 pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 5
 book/chapter: "[[Josh.5|Joshua 5]]"
-genre:
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 12
 verses:
 - "[[Josh.5.1]]"
 - "[[Josh.5.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Josh.5.12]]"
 ---
 
-[[Josh.5|Joshua 5:1 - Joshua 5:12]]
+<small>[[Josh.5|Joshua 5:1-12]]</small>
 *The Circumcision and Passover at Gilgal*
 
 [[Josh.5.1|1]] And it came to pass, when all the kings of the Amorites, which \[were\] on the side of Jordan westward, and all the kings of the Canaanites, which \[were\] by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.

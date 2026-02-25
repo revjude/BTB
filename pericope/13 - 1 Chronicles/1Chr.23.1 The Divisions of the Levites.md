@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Divisions of the Levites
+type: Pericope
 pericope: "[[1Chr.23.1 The Divisions of the Levites|The Divisions of the Levites]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 23
 book/chapter: "[[1Chr.23|1 Chronicles 23]]"
-genre:
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.23.1]]"
 - "[[1Chr.23.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.23.6]]"
 ---
 
-[[1Chr.23|1 Chronicles 23:1 - 1 Chronicles 23:6]]
+<small>[[1Chr.23|1 Chronicles 23:1-6]]</small>
 *The Divisions of the Levites*
 
 [[1Chr.23.1|1]] So when David was old and full of days, he made Solomon his son king over Israel.

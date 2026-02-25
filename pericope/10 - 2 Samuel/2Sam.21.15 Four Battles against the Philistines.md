@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Four Battles against the Philistines
+type: Pericope
 pericope: "[[2Sam.21.15 Four Battles against the Philistines|Four Battles against the Philistines]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 21
 book/chapter: "[[2Sam.21|2 Samuel 21]]"
-genre:
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.21.15]]"
 - "[[2Sam.21.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.21.22]]"
 ---
 
-[[2Sam.21|2 Samuel 21:15 - 2 Samuel 21:22]]
+<small>[[2Sam.21|2 Samuel 21:15-22]]</small>
 *Four Battles against the Philistines*
 
 [[2Sam.21.15|15]] Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.

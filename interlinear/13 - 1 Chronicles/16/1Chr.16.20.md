@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 16:20
+type: Verse
+kjv: "And when they went from nation to nation, and from one kingdom to another people;"
+bsb: "they wandered from nation to nation, from one kingdom to another."
+hebrew: "וַיִּֽתְהַלְּכוּ֙ מִגּ֣וֹי אֶל־ גּ֔וֹי וּמִמַּמְלָכָ֖ה אֶל־ עַ֥ם אַחֵֽר׃"
+pericope: "[[1Chr.16.7 David’s Psalms of Thanksgiving|David’s Psalms of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H5971A]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:20**<big><big>[[1Chr.16.7 David’s Psalms of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] they went from nation to nation, and from [one] kingdom to another people;
 <small><sub>**BSB:**</sub></small>
 they wandered from nation to nation, from one kingdom to another.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יִּֽתְהַלְּכוּ֙]] [[H9006\|מִ]][[H1471A\|גּ֣וֹי]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּ֔וֹי]] [[H9002\|וּ]][[H9006\|מִ]][[H4467\|מַּמְלָכָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.19|<< 1 Chronicles 16:19]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.21|1 Chronicles 16:21 >>]]</td></tr></table>
 

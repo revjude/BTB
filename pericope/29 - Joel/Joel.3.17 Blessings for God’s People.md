@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Blessings for God’s People
+type: Pericope
 pericope: "[[Joel.3.17 Blessings for God’s People|Blessings for God’s People]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 3
 book/chapter: "[[Joel.3|Joel 3]]"
-genre:
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Joel.3.17]]"
 - "[[Joel.3.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Joel.3.21]]"
 ---
 
-[[Joel.3|Joel 3:17 - Joel 3:21]]
+<small>[[Joel.3|Joel 3:17-21]]</small>
 *Blessings for God’s People*
 
 [[Joel.3.17|17]] So shall ye know that I \[am\] the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.

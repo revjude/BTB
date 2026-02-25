@@ -1,8 +1,67 @@
+---
+title: Jeremiah 11:16
+type: Verse
+kjv: "The LORD called thy name, A green olive tree, fair, and of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken."
+bsb: "The LORD once called you a flourishing olive tree, beautiful with well-formed fruit. But with a mighty roar He will set it on fire, and its branches will be consumed."
+hebrew: "זַ֤יִת רַֽעֲנָן֙ יְפֵ֣ה פְרִי־ תֹ֔אַר קָרָ֥א יְהוָ֖ה שְׁמֵ֑ךְ לְק֣וֹל׀ הֲמוּלָּ֣ה גְדֹלָ֗ה הִצִּ֥ית אֵשׁ֙ עָלֶ֔יהָ וְרָע֖וּ דָּלִיּוֹתָֽיו׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2132H]]"
+- "[[H7488B]]"
+- "[[H3303]]"
+- "[[H6529]]"
+- "[[H9014]]"
+- "[[H8389]]"
+- "[[H7121H]]"
+- "[[H3068G]]"
+- "[[H8034]]"
+- "[[H9022]]"
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H9015]]"
+- "[[H1999]]"
+- "[[H1419A]]"
+- "[[H3341]]"
+- "[[H0784]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H7489B]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:16**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD called thy name, A green olive tree, fair, [and] of goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.
 <small><sub>**BSB:**</sub></small>
 The LORD once called you a flourishing olive tree, beautiful with well-formed fruit. But with a mighty roar He will set it on fire, and its branches will be consumed.
+<small><sub>**Hebrew:**</sub></small>
+[[H2132H\|זַ֤יִת]] [[H7488B\|רַֽעֲנָן֙]] [[H3303\|יְפֵ֣ה]] [[H6529\|פְרִי]][[H9014\|־]] [[H8389\|תֹ֔אַר]] [[H7121H\|קָרָ֥א]] [[H3068G\|יְהוָ֖ה]] [[H8034\|שְׁמֵ֑]][[H9022\|ךְ]] [[H9005\|לְ]][[H6963H\|ק֣וֹל]][[H9015\|׀]] [[H1999\|הֲמוּלָּ֣ה]] [[H1419A\|גְדֹלָ֗ה]] [[H3341\|הִצִּ֥ית]] [[H0784\|אֵשׁ֙]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וְ]][[H7489B\|רָע֖וּ]] [[H1808\|דָּלִיּוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.15|<< Jeremiah 11:15]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.17|Jeremiah 11:17 >>]]</td></tr></table>
 

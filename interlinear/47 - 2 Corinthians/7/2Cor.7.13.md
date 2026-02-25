@@ -1,10 +1,64 @@
+---
+title: 2 Corinthians 7:13
+type: Verse
+kjv: "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all."
+bsb: "On account of this, we are encouraged. In addition to our own encouragement, we were even more delighted by the joy of Titus. For his spirit has been refreshed by all of you."
+greek: "διὰ τοῦτο παρακεκλήμεθα.¶ Ἐπὶ δὲ τῇ παρακλήσει ἡμῶν περισσοτέρως δὲ μᾶλλον ἐχάρημεν ἐπὶ τῇ χαρᾷ Τίτου, ὅτι ἀναπέπαυται τὸ πνεῦμα αὐτοῦ ἀπὸ πάντων ὑμῶν,"
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3870]]"
+- "[[G1909]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3874]]"
+- "[[G3165]]"
+- "[[G4056]]"
+- "[[G3123G]]"
+- "[[G5463]]"
+- "[[G5479]]"
+- "[[G5103]]"
+- "[[G3754H]]"
+- "[[G0373]]"
+- "[[G4151G]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **2 Corinthians 7:13**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
 <small><sub>**BSB:**</sub></small>
 On account of this, we are encouraged. In addition to our own encouragement, we were even more delighted by the joy of Titus. For his spirit has been refreshed by all of you.
-<small><sub>**Literal:**</sub></small>
-On account of this we have been comforted. Besides also the comfort of us [the] more abundantly now rather we have rejoiced at the joy of Titus, because has been refreshed the spirit of him by all of you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.12|<< 2 Corinthians 7:12]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.14|2 Corinthians 7:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3870\|παρακεκλήμεθα.¶]]  [[G1909\|Ἐπὶ]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G3874\|παρακλήσει]]  [[G3165\|ἡμῶν]]  [[G4056\|περισσοτέρως]]  [[G1161\|δὲ]]  [[G3123G\|μᾶλλον]]  [[G5463\|ἐχάρημεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G5479\|χαρᾷ]]  [[G5103\|Τίτου,]]  [[G3754H\|ὅτι]]  [[G0373\|ἀναπέπαυται]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic JOY|JOY]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.12|<< 2 Corinthians 7:12]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.14|2 Corinthians 7:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

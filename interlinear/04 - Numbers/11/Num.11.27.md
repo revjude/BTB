@@ -1,8 +1,67 @@
+---
+title: Numbers 11:27
+type: Verse
+kjv: "And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp."
+bsb: "A young man ran and reported to Moses, “Eldad and Medad are prophesying in the camp.”"
+hebrew: "וַיָּ֣רָץ הַנַּ֔עַר וַיַּגֵּ֥ד לְמֹשֶׁ֖ה וַיֹּאמַ֑ר אֶלְדָּ֣ד וּמֵידָ֔ד מִֽתְנַבְּאִ֖ים בַּֽמַּחֲנֶֽה׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic ELDAD|ELDAD]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MEDAD|MEDAD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7323G]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H0419]]"
+- "[[H9002]]"
+- "[[H4312]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:27**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 <small><sub>**BSB:**</sub></small>
 A young man ran and reported to Moses, “Eldad and Medad are prophesying in the camp.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7323G\|יָּ֣רָץ]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H9001\|וַ]][[H5046\|יַּגֵּ֥ד]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0419\|אֶלְדָּ֣ד]] [[H9002\|וּ]][[H4312\|מֵידָ֔ד]] [[H5012\|מִֽתְנַבְּאִ֖ים]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic ELDAD|ELDAD]] • [[topic INSPIRATION|INSPIRATION]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MEDAD|MEDAD]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic TROUBLE|TROUBLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.26|<< Numbers 11:26]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.28|Numbers 11:28 >>]]</td></tr></table>
 

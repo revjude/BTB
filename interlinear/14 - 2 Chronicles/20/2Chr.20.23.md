@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 20:23
+type: Verse
+kjv: "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another."
+bsb: "The Ammonites and Moabites rose up against the inhabitants of Mount Seir, devoting them to destruction. And when they had finished off the inhabitants of Seir, they helped to destroy one another."
+hebrew: "וַ֠יַּֽעַמְדוּ בְּנֵ֨י עַמּ֧וֹן וּמוֹאָ֛ב עַל־ יֹשְׁבֵ֥י הַר־ שֵׂעִ֖יר לְהַחֲרִ֣ים וּלְהַשְׁמִ֑יד וּכְכַלּוֹתָם֙ בְּיוֹשְׁבֵ֣י שֵׂעִ֔יר עָזְר֥וּ אִישׁ־ בְּרֵעֵ֖הוּ לְמַשְׁחִֽית׃"
+pericope: "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PANIC|PANIC]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975I]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9002]]"
+- "[[H4124G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H2022G]]"
+- "[[H8165G]]"
+- "[[H9005]]"
+- "[[H2763A]]"
+- "[[H8045]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9048]]"
+- "[[H9003]]"
+- "[[H5826]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:23**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy [them]: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.
 <small><sub>**BSB:**</sub></small>
 The Ammonites and Moabites rose up against the inhabitants of Mount Seir, devoting them to destruction. And when they had finished off the inhabitants of Seir, they helped to destroy one another.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H5975I\|יַּֽעַמְדוּ]] [[H1121G\|בְּנֵ֨י]] [[H5983\|עַמּ֧וֹן]] [[H9002\|וּ]][[H4124G\|מוֹאָ֛ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H2022G\|הַר]][[H9014\|־]] [[H8165G\|שֵׂעִ֖יר]] [[H9005\|לְ]][[H2763A\|הַחֲרִ֣ים]] [[H9002\|וּ]][[H9005\|לְ]][[H8045\|הַשְׁמִ֑יד]] [[H9002\|וּ]][[H9004\|כְ]][[H3615G\|כַלּוֹתָ]][[H9048\|ם֙]] [[H9003\|בְּ]][[H3427\|יוֹשְׁבֵ֣י]] [[H8165G\|שֵׂעִ֔יר]] [[H5826\|עָזְר֥וּ]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9003\|בְּ]][[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H9005\|לְ]][[H4889\|מַשְׁחִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PANIC|PANIC]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.22|<< 2 Chronicles 20:22]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.24|2 Chronicles 20:24 >>]]</td></tr></table>
 

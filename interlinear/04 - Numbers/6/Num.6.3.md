@@ -1,8 +1,66 @@
+---
+title: Numbers 6:3
+type: Verse
+kjv: "He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried."
+bsb: "he is to abstain from wine and strong drink. He must not drink vinegar made from wine or strong drink, and he must not drink any grape juice or eat fresh grapes or raisins."
+hebrew: "מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכָל־ מִשְׁרַ֤ת עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic PROHIBITION|PROHIBITION]]"
+- "[[topic VINEGAR|VINEGAR]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9006]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H7941]]"
+- "[[H5144B]]"
+- "[[H2558]]"
+- "[[H3808]]"
+- "[[H8354]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4952]]"
+- "[[H6025]]"
+- "[[H3892]]"
+- "[[H3002]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:3**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall separate [himself] from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
 <small><sub>**BSB:**</sub></small>
 he is to abstain from wine and strong drink. He must not drink vinegar made from wine or strong drink, and he must not drink any grape juice or eat fresh grapes or raisins.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3196\|יַּ֤יִן]] [[H9002\|וְ]][[H7941\|שֵׁכָר֙]] [[H5144B\|יַזִּ֔יר]] [[H2558\|חֹ֥מֶץ]] [[H3196\|יַ֛יִן]] [[H9002\|וְ]][[H2558\|חֹ֥מֶץ]] [[H7941\|שֵׁכָ֖ר]] [[H3808\|לֹ֣א]] [[H8354\|יִשְׁתֶּ֑ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4952\|מִשְׁרַ֤ת]] [[H6025\|עֲנָבִים֙]] [[H3808\|לֹ֣א]] [[H8354\|יִשְׁתֶּ֔ה]] [[H9002\|וַ]][[H6025\|עֲנָבִ֛ים]] [[H3892\|לַחִ֥ים]] [[H9002\|וִ]][[H3002\|יבֵשִׁ֖ים]] [[H3808\|לֹ֥א]] [[H0398\|יֹאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic FOOD|FOOD]] • [[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic PROHIBITION|PROHIBITION]] • [[topic VINEGAR|VINEGAR]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.2|<< Numbers 6:2]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.4|Numbers 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

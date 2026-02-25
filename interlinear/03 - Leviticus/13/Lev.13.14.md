@@ -1,8 +1,54 @@
+---
+title: Leviticus 13:14
+type: Verse
+kjv: "But when raw flesh appeareth in him, he shall be unclean."
+bsb: "But whenever raw flesh appears on someone, he will be unclean."
+hebrew: "וּבְי֨וֹם הֵרָא֥וֹת בּ֛וֹ בָּשָׂ֥ר חַ֖י יִטְמָֽא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H1320]]"
+- "[[H2416A]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:14**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when raw flesh appeareth in him, he shall be unclean.
 <small><sub>**BSB:**</sub></small>
 But whenever raw flesh appears on someone, he will be unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֨וֹם]] [[H7200G\|הֵרָא֥וֹת]] [[H9003\|בּ֛]][[H9033\|וֹ]] [[H1320\|בָּשָׂ֥ר]] [[H2416A\|חַ֖י]] [[H2930A\|יִטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.13|<< Leviticus 13:13]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.15|Leviticus 13:15 >>]]</td></tr></table>
 

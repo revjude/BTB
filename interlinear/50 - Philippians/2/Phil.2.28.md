@@ -1,10 +1,53 @@
+---
+title: Philippians 2:28
+type: Verse
+kjv: "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful."
+bsb: "Therefore I am all the more eager to send him, so that when you see him again you may rejoice, and I may be less anxious."
+greek: "σπουδαιοτέρως οὖν ἔπεμψα αὐτόν, ἵνα ἰδόντες αὐτὸν πάλιν χαρῆτε, κἀγὼ κἀγὼ ἀλυπότερος ὦ."
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G4708]]"
+- "[[G3767]]"
+- "[[G3992]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+- "[[G3825]]"
+- "[[G5463]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0253]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Philippians 2:28**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.
 <small><sub>**BSB:**</sub></small>
 Therefore I am all the more eager to send him, so that when you see him again you may rejoice, and I may be less anxious.
-<small><sub>**Literal:**</sub></small>
-All the more speedily therefore I have sent him, that having seen him again you may rejoice, and I myself less anxious may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.27|<< Philippians 2:27]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.29|Philippians 2:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4708\|σπουδαιοτέρως]]  [[G3767\|οὖν]]  [[G3992\|ἔπεμψα]]  [[G0846\|αὐτόν,]]  [[G2443\|ἵνα]]  [[G1492H\|ἰδόντες]]  [[G0846\|αὐτὸν]]  [[G3825\|πάλιν]]  [[G5463\|χαρῆτε,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0253\|ἀλυπότερος]]  [[G1510\|ὦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.27|<< Philippians 2:27]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.29|Philippians 2:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

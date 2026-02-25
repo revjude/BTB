@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 14:12
+type: Verse
+kjv: "Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church."
+bsb: "It is the same with you. Since you are eager to have spiritual gifts, strive to excel in gifts that build up the church."
+greek: "οὕτως καὶ ὑμεῖς, ἐπεὶ ζηλωταί ἐστε πνευμάτων, πρὸς τὴν οἰκοδομὴν τῆς ἐκκλησίας ζητεῖτε ἵνα περισσεύητε.¶"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1893]]"
+- "[[G2207]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3619]]"
+- "[[G1577]]"
+- "[[G2212]]"
+- "[[G2443]]"
+- "[[G4052]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:12**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so ye, forasmuch as ye are zealous of spiritual [gifts], seek that ye may excel to the edifying of the church.
 <small><sub>**BSB:**</sub></small>
 It is the same with you. Since you are eager to have spiritual gifts, strive to excel in gifts that build up the church.
-<small><sub>**Literal:**</sub></small>
-So also you yourselves, since zealous you are of spiritual gifts, for the edification of the church do seek that you may exceed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.11|<< 1 Corinthians 14:11]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.13|1 Corinthians 14:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς,]]  [[G1893\|ἐπεὶ]]  [[G2207\|ζηλωταί]]  [[G1510\|ἐστε]]  [[G4151G\|πνευμάτων,]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G3619\|οἰκοδομὴν]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G2212\|ζητεῖτε]]  [[G2443\|ἵνα]]  [[G4052\|περισσεύητε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.11|<< 1 Corinthians 14:11]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.13|1 Corinthians 14:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

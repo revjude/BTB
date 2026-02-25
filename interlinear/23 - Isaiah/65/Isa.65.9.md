@@ -1,8 +1,61 @@
+---
+title: Isaiah 65:9
+type: Verse
+kjv: "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there."
+bsb: "And I will bring forth descendants from Jacob, and heirs from Judah; My elect will possess My mountains, and My servants will dwell there."
+hebrew: "וְהוֹצֵאתִ֤י מִֽיַּעֲקֹב֙ זֶ֔רַע וּמִיהוּדָ֖ה יוֹרֵ֣שׁ הָרָ֑י וִירֵשׁ֣וּהָ בְחִירַ֔י וַעֲבָדַ֖י יִשְׁכְּנוּ־ שָֽׁמָּה׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H3290]]"
+- "[[H2233H]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H3423G]]"
+- "[[H2022G]]"
+- "[[H9020]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H0972]]"
+- "[[H5650]]"
+- "[[H7931]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:9**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.
 <small><sub>**BSB:**</sub></small>
 And I will bring forth descendants from Jacob, and heirs from Judah; My elect will possess My mountains, and My servants will dwell there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֤י]] [[H9006\|מִֽ]][[H3290\|יַּעֲקֹב֙]] [[H2233H\|זֶ֔רַע]] [[H9002\|וּ]][[H9006\|מִ]][[H3063G\|יהוּדָ֖ה]] [[H3423G\|יוֹרֵ֣שׁ]] [[H2022G\|הָרָ֑]][[H9020\|י]] [[H9001\|וִ]][[H3423H\|ירֵשׁ֣וּ]][[H9034\|הָ]] [[H0972\|בְחִירַ֔]][[H9020\|י]] [[H9002\|וַ]][[H5650\|עֲבָדַ֖]][[H9020\|י]] [[H7931\|יִשְׁכְּנוּ]][[H9014\|־]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.8|<< Isaiah 65:8]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.10|Isaiah 65:10 >>]]</td></tr></table>
 

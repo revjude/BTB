@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 8:9
+type: Verse
+kjv: "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar."
+bsb: "If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar."
+hebrew: "אִם־ חוֹמָ֣ה הִ֔יא נִבְנֶ֥ה עָלֶ֖יהָ טִ֣ירַת כָּ֑סֶף וְאִם־ דֶּ֣לֶת הִ֔יא נָצ֥וּר עָלֶ֖יהָ ל֥וּחַ אָֽרֶז׃"
+pericope: "[[Song.8.8 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H2918]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H1817C]]"
+- "[[H6696A]]"
+- "[[H3871]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:9**<big><big>[[Song.8.8 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If she [be] a wall, we will build upon her a palace of silver: and if she [be] a door, we will inclose her with boards of cedar.
 <small><sub>**BSB:**</sub></small>
 If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2346G\|חוֹמָ֣ה]] [[H1931\|הִ֔יא]] [[H1129\|נִבְנֶ֥ה]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H2918\|טִ֣ירַת]] [[H3701G\|כָּ֑סֶף]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1817C\|דֶּ֣לֶת]] [[H1931\|הִ֔יא]] [[H6696A\|נָצ֥וּר]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H3871\|ל֥וּחַ]] [[H0730\|אָֽרֶז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.8|<< Song of Solomon 8:8]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.10|Song of Solomon 8:10 >>]]</td></tr></table>
 

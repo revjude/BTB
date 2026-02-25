@@ -1,10 +1,58 @@
+---
+title: John 12:15
+type: Verse
+kjv: "Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt."
+bsb: "“Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”"
+greek: "μὴ φοβοῦ θυγάτηρ Σιών· ἰδοὺ ὁ βασιλεύς σου ἔρχεται καθήμενος ἐπὶ πῶλον ὄνου."
+pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic COLT|COLT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2364]]"
+- "[[G4622]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G4454]]"
+- "[[G3688]]"
+texts:
+- NKO
+---
+
 **John 12:15**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”
-<small><sub>**Literal:**</sub></small>
-Not do fear daughter of Zion; Behold the King of you comes sitting on a colt of a donkey.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.14|<< John 12:14]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.16|John 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G5399\|φοβοῦ]]  [[G2364\|θυγάτηρ]]  [[G4622\|Σιών·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεύς]]  [[G4771\|σου]]  [[G2064\|ἔρχεται]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G4454\|πῶλον]]  [[G3688\|ὄνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic COLT|COLT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.14|<< John 12:14]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.16|John 12:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 12:15** is...
 > $\quad$ referencing: [[LXX.Isa.35.4|Isa 35:4]] ☩ [[LXX.Isa.40.9|Isa 40:9]] ☩ [[LXX.Zech.9.9|Zech 9:9]]

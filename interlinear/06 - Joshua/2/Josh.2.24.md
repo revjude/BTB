@@ -1,8 +1,65 @@
+---
+title: Joshua 2:24
+type: Verse
+kjv: "And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us."
+bsb: "“The LORD has surely delivered the entire land into our hands,” they said to Joshua. “Indeed, all who dwell in the land are melting in fear of us.”"
+hebrew: "וַיֹּאמְרוּ֙ אֶל־ יְהוֹשֻׁ֔עַ כִּֽי־ נָתַ֧ן יְהוָ֛ה בְּיָדֵ֖נוּ אֶת־ כָּל־ הָאָ֑רֶץ וְגַם־ נָמֹ֛גוּ כָּל־ יֹשְׁבֵ֥י הָאָ֖רֶץ מִפָּנֵֽינוּ׃ ס"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9025]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H4127]]"
+- "[[H3427]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 2:24**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto Joshua, Truly the LORD hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.
 <small><sub>**BSB:**</sub></small>
 “The LORD has surely delivered the entire land into our hands,” they said to Joshua. “Indeed, all who dwell in the land are melting in fear of us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H3027H\|יָדֵ֖]][[H9025\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H4127\|נָמֹ֛גוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H6440I\|פָּנֵֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FAITH|FAITH]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.23|<< Joshua 2:23]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.1|Joshua 3:1 >>]]</td></tr></table>
 
@@ -23,7 +80,7 @@ And they said unto Joshua, Truly the LORD hath delivered into our hands all the 
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֥י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because of us  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פָּנֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because of us  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פָּנֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.23|<< Joshua 2:23]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.1|Joshua 3:1 >>]]</td></tr></table>
 
 

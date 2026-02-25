@@ -1,8 +1,57 @@
+---
+title: Psalm 111:5
+type: Verse
+kjv: "He hath given meat unto them that fear him: he will ever be mindful of his covenant."
+bsb: "He provides food for those who fear Him; He remembers His covenant forever."
+hebrew: "טֶ֭רֶף נָתַ֣ן לִֽירֵאָ֑יו יִזְכֹּ֖ר לְעוֹלָ֣ם בְּרִיתֽוֹ׃"
+pericope: "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 111
+book/chapter: "[[Ps.111|Psalm 111]]"
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H2964]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H2142]]"
+- "[[H5769G]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 111:5**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath given meat unto them that fear him: he will ever be mindful of his covenant.
 <small><sub>**BSB:**</sub></small>
 He provides food for those who fear Him; He remembers His covenant forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H2964\|טֶ֭רֶף]] [[H5414G\|נָתַ֣ן]] [[H9005\|לִֽ]][[H3373\|ירֵאָ֑י]][[H9023\|ו]] [[H2142\|יִזְכֹּ֖ר]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H1285\|בְּרִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.4|<< Psalms 111:4]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.6|Psalms 111:6 >>]]</td></tr></table>
 

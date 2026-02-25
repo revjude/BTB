@@ -1,8 +1,69 @@
+---
+title: 1 Kings 9:12
+type: Verse
+kjv: "And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not."
+bsb: "So Hiram went out from Tyre to inspect the towns that Solomon had given him, but he was not pleased with them."
+hebrew: "וַיֵּצֵ֤א חִירָם֙ מִצֹּ֔ר לִרְאוֹת֙ אֶת־ הֶ֣עָרִ֔ים אֲשֶׁ֥ר נָתַן־ ל֖וֹ שְׁלֹמֹ֑ה וְלֹ֥א יָשְׁר֖וּ בְּעֵינָֽיו׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H2438G]]"
+- "[[H9006]]"
+- "[[H6865]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H8010]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3474]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:12**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
 <small><sub>**BSB:**</sub></small>
 So Hiram went out from Tyre to inspect the towns that Solomon had given him, but he was not pleased with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H2438G\|חִירָם֙]] [[H9006\|מִ]][[H6865\|צֹּ֔ר]] [[H9005\|לִ]][[H7200G\|רְאוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַן]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3474\|יָשְׁר֖וּ]] [[H9003\|בְּ]][[H5869I\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic ELIJAH|ELIJAH]] • [[topic GALILEE|GALILEE]] • [[topic HIRAM|HIRAM]] • [[topic SOLOMON|SOLOMON]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.11|<< 1 Kings 9:11]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.13|1 Kings 9:13 >>]]</td></tr></table>
 

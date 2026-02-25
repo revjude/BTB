@@ -1,8 +1,81 @@
+---
+title: 2 Samuel 13:5
+type: Verse
+kjv: "And Jonadab said unto him, Lay thee down on thy bed, and make thyself sick: and when thy father cometh to see thee, say unto him, I pray thee, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand."
+bsb: "Jonadab told him, “Lie down on your bed and pretend you are ill. When your father comes to see you, say to him, ‘Please let my sister Tamar come and give me something to eat. Let her prepare it in my sight so I may watch her and eat it from her hand.’”"
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ יְה֣וֹנָדָ֔ב שְׁכַ֥ב עַל־ מִשְׁכָּבְךָ֖ וְהִתְחָ֑ל וּבָ֧א אָבִ֣יךָ לִרְאוֹתֶ֗ךָ וְאָמַרְתָּ֣ אֵלָ֡יו תָּ֣בֹא נָא֩ תָמָ֨ר אֲחוֹתִ֜י וְתַבְרֵ֣נִי לֶ֗חֶם וְעָשְׂתָ֤ה לְעֵינַי֙ אֶת־ הַבִּרְיָ֔ה לְמַ֙עַן֙ אֲשֶׁ֣ר אֶרְאֶ֔ה וְאָכַלְתִּ֖י מִיָּדָֽהּ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3082H]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4904]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2470H]]"
+- "[[H0935G]]"
+- "[[H0001G]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H4994]]"
+- "[[H8559H]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H1262]]"
+- "[[H9030]]"
+- "[[H3899H]]"
+- "[[H6213H]]"
+- "[[H5869H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1279]]"
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:5**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonadab said unto him, Lay thee down on thy bed, and make thyself sick: and when thy father cometh to see thee, say unto him, I pray thee, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see [it], and eat [it] at her hand.
 <small><sub>**BSB:**</sub></small>
 Jonadab told him, “Lie down on your bed and pretend you are ill. When your father comes to see you, say to him, ‘Please let my sister Tamar come and give me something to eat. Let her prepare it in my sight so I may watch her and eat it from her hand.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3082H\|יְה֣וֹנָדָ֔ב]] [[H7901G\|שְׁכַ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H4904\|מִשְׁכָּבְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H2470H\|הִתְחָ֑ל]] [[H9001\|וּ]][[H0935G\|בָ֧א]] [[H0001G\|אָבִ֣י]][[H9021\|ךָ]] [[H9005\|לִ]][[H7200G\|רְאוֹתֶ֗]][[H9031\|ךָ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֡י]][[H9033\|ו]] [[H0935G\|תָּ֣בֹא]] [[H4994\|נָא֩]] [[H8559H\|תָמָ֨ר]] [[H0269\|אֲחוֹתִ֜]][[H9020\|י]] [[H9002\|וְ]][[H1262\|תַבְרֵ֣]][[H9030\|נִי]] [[H3899H\|לֶ֗חֶם]] [[H9001\|וְ]][[H6213H\|עָשְׂתָ֤ה]] [[H9005\|לְ]][[H5869H\|עֵינַ]][[H9020\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1279\|בִּרְיָ֔ה]] [[H4616\|לְמַ֙עַן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|אֶרְאֶ֔ה]] [[H9001\|וְ]][[H0398\|אָכַלְתִּ֖י]] [[H9006\|מִ]][[H3027G\|יָּדָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JONADAB|JONADAB]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.4|<< 2 Samuel 13:4]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.6|2 Samuel 13:6 >>]]</td></tr></table>
 

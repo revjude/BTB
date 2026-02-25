@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 28:18
+type: Verse
+kjv: "Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day."
+bsb: "Because you did not obey the LORD or carry out His burning anger against Amalek, the LORD has done this to you today."
+hebrew: "כַּאֲשֶׁ֤ר לֹֽא־ שָׁמַ֙עְתָּ֙ בְּק֣וֹל יְהוָ֔ה וְלֹֽא־ עָשִׂ֥יתָ חֲרוֹן־ אַפּ֖וֹ בַּעֲמָלֵ֑ק עַל־ כֵּן֙ הַדָּבָ֣ר הַזֶּ֔ה עָשָֽׂה־ לְךָ֥ יְהוָ֖ה הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H6002G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:18**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day.
 <small><sub>**BSB:**</sub></small>
 Because you did not obey the LORD or carry out His burning anger against Amalek, the LORD has done this to you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שָׁמַ֙עְתָּ֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6213A\|עָשִׂ֥יתָ]] [[H2740\|חֲרוֹן]][[H9014\|־]] [[H0639G\|אַפּ֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H6002G\|עֲמָלֵ֑ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H6213A\|עָשָֽׂה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic ANGER|ANGER]] • [[topic APOSTASY|APOSTASY]] • [[topic CHILDREN|CHILDREN]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.17|<< 1 Samuel 28:17]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.19|1 Samuel 28:19 >>]]</td></tr></table>
 

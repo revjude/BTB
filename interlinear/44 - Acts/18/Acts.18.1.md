@@ -1,10 +1,53 @@
+---
+title: Acts 18:1
+type: Verse
+kjv: "After these things Paul departed from Athens, and came to Corinth;"
+bsb: "After this, Paul left Athens and went to Corinth."
+greek: "Μετὰ δὲ ταῦτα χωρισθεὶς ὁ Παῦλος ἐκ τῶν Ἀθηνῶν ἦλθεν εἰς Κόρινθον,"
+pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISCILLA|PRISCILLA]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G5563]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1537]]"
+- "[[G0116]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2882]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 18:1**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After these things Paul departed from Athens, and came to Corinth;
 <small><sub>**BSB:**</sub></small>
 After this, Paul left Athens and went to Corinth.
-<small><sub>**Literal:**</sub></small>
-And after now these things having departed <the> Paul from <the> Athens he came to Corinth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.34|<< Acts 17:34]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.2|Acts 18:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G5563\|χωρισθεὶς]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0116\|Ἀθηνῶν]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G2882\|Κόρινθον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]] • [[topic PAUL|PAUL]] • [[topic PRISCILLA|PRISCILLA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.34|<< Acts 17:34]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.2|Acts 18:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

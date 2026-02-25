@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 29:23
+type: Verse
+kjv: "Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him."
+bsb: "So Solomon sat on the throne of the LORD as king in place of his father David. He prospered, and all Israel obeyed him."
+hebrew: "וַיֵּ֣שֶׁב שְׁ֠לֹמֹה עַל־ כִּסֵּ֨א יְהוָ֧ה׀ לְמֶ֛לֶךְ תַּֽחַת־ דָּוִ֥יד אָבִ֖יו וַיַּצְלַ֑ח וַיִּשְׁמְע֥וּ אֵלָ֖יו כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.29.21 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H8010]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H8478H]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6743B]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:23**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.
 <small><sub>**BSB:**</sub></small>
 So Solomon sat on the throne of the LORD as king in place of his father David. He prospered, and all Israel obeyed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֣שֶׁב]] [[H8010\|שְׁ֠לֹמֹה]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֨א]] [[H3068G\|יְהוָ֧ה]][[H9015\|׀]] [[H9005\|לְ]][[H4428G\|מֶ֛לֶךְ]] [[H8478H\|תַּֽחַת]][[H9014\|־]] [[H1732\|דָּוִ֥יד]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H6743B\|יַּצְלַ֑ח]] [[H9001\|וַ]][[H8085H\|יִּשְׁמְע֥וּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.22|<< 1 Chronicles 29:22]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.24|1 Chronicles 29:24 >>]]</td></tr></table>
 

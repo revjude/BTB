@@ -1,10 +1,60 @@
+---
+title: Acts 10:41
+type: Verse
+kjv: "Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead."
+bsb: "not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead."
+greek: "οὐ παντὶ τῷ λαῷ, ἀλλὰ μάρτυσιν τοῖς προκεχειροτονημένοις ὑπὸ τοῦ θεοῦ ἡμῖν, οἵτινες συνεφάγομεν καὶ συνεπίομεν αὐτῷ μετὰ τὸ ἀναστῆναι αὐτὸν ἐκ νεκρῶν·"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3756]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0235]]"
+- "[[G3144]]"
+- "[[G4401]]"
+- "[[G5259G]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G3748]]"
+- "[[G4906]]"
+- "[[G2532]]"
+- "[[G4844]]"
+- "[[G0846]]"
+- "[[G3326]]"
+- "[[G0450]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **Acts 10:41**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not to all the people, but unto witnesses chosen before of God, [even] to us, who did eat and drink with him after he rose from the dead.
 <small><sub>**BSB:**</sub></small>
 not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead.
-<small><sub>**Literal:**</sub></small>
-not [revealed] to all the people, but to [the] witnesses who chosen beforehand by <the> God to us who we ate with and we drank with Him after <the> rising of Him out from [the] dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.40|<< Acts 10:40]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.42|Acts 10:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ,]]  [[G0235\|ἀλλὰ]]  [[G3144\|μάρτυσιν]]  [[G3588\|τοῖς]]  [[G4401\|προκεχειροτονημένοις]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῖν,]]  [[G3748\|οἵτινες]]  [[G4906\|συνεφάγομεν]]  [[G2532\|καὶ]]  [[G4844\|συνεπίομεν]]  [[G0846\|αὐτῷ]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G0450\|ἀναστῆναι]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.40|<< Acts 10:40]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.42|Acts 10:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

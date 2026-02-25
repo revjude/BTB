@@ -1,8 +1,55 @@
+---
+title: Proverbs 6:31
+type: Verse
+kjv: "But if he be found, he shall restore sevenfold; he shall give all the substance of his house."
+bsb: "Yet if caught, he must pay sevenfold; he must give up all the wealth of his house."
+hebrew: "וְ֭נִמְצָא יְשַׁלֵּ֣ם שִׁבְעָתָ֑יִם אֶת־ כָּל־ ה֖וֹן בֵּית֣וֹ יִתֵּֽן׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FINE|FINE]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4672]]"
+- "[[H7999A]]"
+- "[[H7659]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1952]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:31**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [if] he be found, he shall restore sevenfold; he shall give all the substance of his house.
 <small><sub>**BSB:**</sub></small>
 Yet if caught, he must pay sevenfold; he must give up all the wealth of his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H4672\|נִמְצָא]] [[H7999A\|יְשַׁלֵּ֣ם]] [[H7659\|שִׁבְעָתָ֑יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1952\|ה֖וֹן]] [[H1004B\|בֵּית֣]][[H9023\|וֹ]] [[H5414G\|יִתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FINE|FINE]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.30|<< Proverbs 6:30]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.32|Proverbs 6:32 >>]]</td></tr></table>
 

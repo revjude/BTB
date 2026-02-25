@@ -1,8 +1,59 @@
+---
+title: Hosea 9:13
+type: Verse
+kjv: "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer."
+bsb: "I have seen Ephraim, like Tyre, planted in a meadow. But Ephraim will bring out his children for slaughter."
+hebrew: "אֶפְרַ֛יִם כַּאֲשֶׁר־ רָאִ֥יתִי לְצ֖וֹר שְׁתוּלָ֣ה בְנָוֶ֑ה וְאֶפְרַ֕יִם לְהוֹצִ֥יא אֶל־ הֹרֵ֖ג בָּנָֽיו׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic TYRE|TYRE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0669G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H6865]]"
+- "[[H8362]]"
+- "[[H9003]]"
+- "[[H5116A]]"
+- "[[H9002]]"
+- "[[H3318H]]"
+- "[[H0413]]"
+- "[[H2026]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:13**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim, as I saw Tyrus, [is] planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.
 <small><sub>**BSB:**</sub></small>
 I have seen Ephraim, like Tyre, planted in a meadow. But Ephraim will bring out his children for slaughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H0669G\|אֶפְרַ֛יִם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|רָאִ֥יתִי]] [[H9005\|לְ]][[H6865\|צ֖וֹר]] [[H8362\|שְׁתוּלָ֣ה]] [[H9003\|בְ]][[H5116A\|נָוֶ֑ה]] [[H9002\|וְ]][[H0669G\|אֶפְרַ֕יִם]] [[H9005\|לְ]][[H3318H\|הוֹצִ֥יא]] [[H0413\|אֶל]][[H9014\|־]] [[H2026\|הֹרֵ֖ג]] [[H1121A\|בָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic TYRE|TYRE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.12|<< Hosea 9:12]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.14|Hosea 9:14 >>]]</td></tr></table>
 

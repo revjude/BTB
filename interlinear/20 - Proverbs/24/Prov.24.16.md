@@ -1,8 +1,55 @@
+---
+title: Proverbs 24:16
+type: Verse
+kjv: "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief."
+bsb: "For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times."
+hebrew: "כִּ֤י שֶׁ֨בַע׀ יִפּ֣וֹל צַדִּ֣יק וָקָ֑ם וּ֝רְשָׁעִ֗ים יִכָּשְׁל֥וּ בְרָעָֽה׃"
+pericope: "[[Prov.24.15 Saying 27|Saying 27]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7651]]"
+- "[[H9015]]"
+- "[[H5307G]]"
+- "[[H6662]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:16**<big><big>[[Prov.24.15 Saying 27|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a just [man] falleth seven times, and riseth up again: but the wicked shall fall into mischief.
 <small><sub>**BSB:**</sub></small>
 For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7651\|שֶׁ֨בַע]][[H9015\|׀]] [[H5307G\|יִפּ֣וֹל]] [[H6662\|צַדִּ֣יק]] [[H9001\|וָ]][[H6965B\|קָ֑ם]] [[H9002\|וּ֝]][[H7563\|רְשָׁעִ֗ים]] [[H3782\|יִכָּשְׁל֥וּ]] [[H9003\|בְ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.15|<< Proverbs 24:15]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.17|Proverbs 24:17 >>]]</td></tr></table>
 

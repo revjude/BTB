@@ -1,8 +1,70 @@
+---
+title: Ecclesiastes 2:10
+type: Verse
+kjv: "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour."
+bsb: "Anything my eyes desired, I did not deny myself. I refused my heart no pleasure. For my heart took delight in all my work, and this was the reward for all my labor."
+hebrew: "וְכֹל֙ אֲשֶׁ֣ר שָֽׁאֲל֣וּ עֵינַ֔י לֹ֥א אָצַ֖לְתִּי מֵהֶ֑ם לֹֽא־ מָנַ֨עְתִּי אֶת־ לִבִּ֜י מִכָּל־ שִׂמְחָ֗ה כִּֽי־ לִבִּ֤י שָׂמֵ֙חַ֙ מִכָּל־ עֲמָלִ֔י וְזֶֽה־ הָיָ֥ה חֶלְקִ֖י מִכָּל־ עֲמָלִֽי׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SELF-INDULGENCE|SELF-INDULGENCE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H0680]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9014]]"
+- "[[H4513]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H8057]]"
+- "[[H3588A]]"
+- "[[H8056]]"
+- "[[H5999]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H2506A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:10**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
 <small><sub>**BSB:**</sub></small>
 Anything my eyes desired, I did not deny myself. I refused my heart no pleasure. For my heart took delight in all my work, and this was the reward for all my labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7592\|שָֽׁאֲל֣וּ]] [[H5869A\|עֵינַ֔]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H0680\|אָצַ֖לְתִּי]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4513\|מָנַ֨עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבִּ֜]][[H9020\|י]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H8057\|שִׂמְחָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3820A\|לִבִּ֤]][[H9020\|י]] [[H8056\|שָׂמֵ֙חַ֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5999\|עֲמָלִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2088\|זֶֽה]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H2506A\|חֶלְקִ֖]][[H9020\|י]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5999\|עֲמָלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPICUREANS|EPICUREANS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic JOY|JOY]] • [[topic PLEASURE|PLEASURE]] • [[topic SELF-INDULGENCE|SELF-INDULGENCE]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.9|<< Ecclesiastes 2:9]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.11|Ecclesiastes 2:11 >>]]</td></tr></table>
 

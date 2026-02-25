@@ -1,10 +1,60 @@
+---
+title: Acts 8:14
+type: Verse
+kjv: "Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:"
+bsb: "When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them."
+greek: "Ἀκούσαντες δὲ οἱ ἐν Ἱεροσολύμοις ἀπόστολοι ὅτι δέδεκται ἡ Σαμάρεια τὸν λόγον τοῦ θεοῦ, ἀπέστειλαν πρὸς αὐτοὺς τὸν Πέτρον καὶ Ἰωάννην·"
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2414]]"
+- "[[G0652]]"
+- "[[G3754G]]"
+- "[[G1209]]"
+- "[[G4540]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 8:14**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:
 <small><sub>**BSB:**</sub></small>
 When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them.
-<small><sub>**Literal:**</sub></small>
-Having heard now the in Jerusalem apostles that has received <the> Samaria the word <the> of God, they sent to them <the> Peter and John;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.13|<< Acts 8:13]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.15|Acts 8:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσαντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις]]  [[G0652\|ἀπόστολοι]]  [[G3754G\|ὅτι]]  [[G1209\|δέδεκται]]  [[G3588\|ἡ]]  [[G4540\|Σαμάρεια]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0649\|ἀπέστειλαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic PHILIP|PHILIP]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.13|<< Acts 8:13]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.15|Acts 8:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

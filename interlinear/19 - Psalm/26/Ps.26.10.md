@@ -1,8 +1,55 @@
+---
+title: Psalm 26:10
+type: Verse
+kjv: "In whose hands is mischief, and their right hand is full of bribes."
+bsb: "in whose hands are wicked schemes, whose right hands are full of bribes."
+hebrew: "אֲשֶׁר־ בִּידֵיהֶ֥ם זִמָּ֑ה וִֽ֝ימִינָ֗ם מָ֣לְאָה שֹּֽׁחַד׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H2154]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H4390]]"
+- "[[H7810]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:10**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In whose hands [is] mischief, and their right hand is full of bribes.
 <small><sub>**BSB:**</sub></small>
 in whose hands are wicked schemes, whose right hands are full of bribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בִּ]][[H3027G\|ידֵי]][[H9028\|הֶ֥ם]] [[H2154\|זִמָּ֑ה]] [[H9002\|וִֽ֝]][[H3225G\|ימִינָ֗]][[H9028\|ם]] [[H4390\|מָ֣לְאָה]] [[H7810\|שֹּֽׁחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic HOMICIDE|HOMICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.9|<< Psalms 26:9]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.11|Psalms 26:11 >>]]</td></tr></table>
 

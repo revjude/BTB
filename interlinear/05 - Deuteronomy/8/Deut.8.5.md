@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 8:5
+type: Verse
+kjv: "Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the LORD thy God chasteneth thee."
+bsb: "So know in your heart that just as a man disciplines his son, so the LORD your God disciplines you."
+hebrew: "וְיָדַעְתָּ֖ עִם־ לְבָבֶ֑ךָ כִּ֗י כַּאֲשֶׁ֨ר יְיַסֵּ֥ר אִישׁ֙ אֶת־ בְּנ֔וֹ יְהוָ֥ה אֱלֹהֶ֖יךָ מְיַסְּרֶֽךָּ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3256]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:5**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also consider in thine heart, that, as a man chasteneth his son, [so] the LORD thy God chasteneth thee.
 <small><sub>**BSB:**</sub></small>
 So know in your heart that just as a man disciplines his son, so the LORD your God disciplines you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדַעְתָּ֖]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H3256\|יְיַסֵּ֥ר]] [[H0376I\|אִישׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H3256\|מְיַסְּרֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.4|<< Deuteronomy 8:4]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.6|Deuteronomy 8:6 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 1:22
+type: Verse
+kjv: "And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come."
+bsb: "Then all of you approached me and said, “Let us send men ahead of us to search out the land and bring us word of what route to follow and which cities to enter.”"
+hebrew: "וַתִּקְרְב֣וּן אֵלַי֮ כֻּלְּכֶם֒ וַתֹּאמְר֗וּ נִשְׁלְחָ֤ה אֲנָשִׁים֙ לְפָנֵ֔ינוּ וְיַחְפְּרוּ־ לָ֖נוּ אֶת־ הָאָ֑רֶץ וְיָשִׁ֤בוּ אֹתָ֙נוּ֙ דָּבָ֔ר אֶת־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר נַעֲלֶה־ בָּ֔הּ וְאֵת֙ הֶֽעָרִ֔ים אֲשֶׁ֥ר נָבֹ֖א אֲלֵיהֶֽן׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H0559]]"
+- "[[H7971G]]"
+- "[[H0582]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H2658]]"
+- "[[H9014]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7725G]]"
+- "[[H1697G]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5892B]]"
+- "[[H0935G]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:22**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.
 <small><sub>**BSB:**</sub></small>
 Then all of you approached me and said, “Let us send men ahead of us to search out the land and bring us word of what route to follow and which cities to enter.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|תִּקְרְב֣וּ]][[H9013\|ן]] [[H0413\|אֵלַ]][[H9030\|י֮]] [[H3605\|כֻּלְּ]][[H9026\|כֶם֒]] [[H9001\|וַ]][[H0559\|תֹּאמְר֗וּ]] [[H7971G\|נִשְׁלְחָ֤ה]] [[H0582\|אֲנָשִׁים֙]] [[H9005\|לְ]][[H6440G\|פָנֵ֔י]][[H9025\|נוּ]] [[H9002\|וְ]][[H2658\|יַחְפְּרוּ]][[H9014\|־]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7725G\|יָשִׁ֤בוּ]] [[H0853\|אֹתָ֙]][[H9035\|נוּ֙]] [[H1697G\|דָּבָ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5927G\|נַעֲלֶה]][[H9014\|־]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0935G\|נָבֹ֖א]] [[H0413\|אֲלֵי]][[H9039\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 

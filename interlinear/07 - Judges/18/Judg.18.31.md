@@ -1,8 +1,62 @@
+---
+title: Judges 18:31
+type: Verse
+kjv: "And they set them up Micah’s graven image, which he made, all the time that the house of God was in Shiloh."
+bsb: "So they set up for themselves Micah’s graven image, and it was there the whole time the house of God was in Shiloh."
+hebrew: "וַיָּשִׂ֣ימוּ לָהֶ֔ם אֶת־ פֶּ֥סֶל מִיכָ֖ה אֲשֶׁ֣ר עָשָׂ֑ה כָּל־ יְמֵ֛י הֱי֥וֹת בֵּית־ הָאֱלֹהִ֖ים בְּשִׁלֹֽה׃ פ"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6459]]"
+- "[[H4318G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H1961]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 18:31**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set them up Micah’s graven image, which he made, all the time that the house of God was in Shiloh.
 <small><sub>**BSB:**</sub></small>
 So they set up for themselves Micah’s graven image, and it was there the whole time the house of God was in Shiloh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּשִׂ֣ימוּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6459\|פֶּ֥סֶל]] [[H4318G\|מִיכָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשָׂ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֛י]] [[H1961\|הֱי֥וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H7887\|שִׁלֹֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SHILOH|SHILOH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.30|<< Judges 18:30]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.1|Judges 19:1 >>]]</td></tr></table>
 
@@ -20,7 +74,7 @@ So they set up for themselves Micah’s graven image, and it was there the whole
 | [the] being of  |**<big>&#8207;[[H1961\|הֱי֥וֹת]]&#8207; </big>**| he.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| at Shiloh  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7887\|שִׁלֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shi.Loh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at Shiloh  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7887\|שִׁלֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shi.Loh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.30|<< Judges 18:30]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.1|Judges 19:1 >>]]</td></tr></table>
 
 

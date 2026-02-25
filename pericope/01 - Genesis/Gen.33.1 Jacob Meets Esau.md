@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Meets Esau
+type: Pericope
 pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 33
 book/chapter: "[[Gen.33|Genesis 33]]"
-genre:
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.33.1]]"
 - "[[Gen.33.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.33.17]]"
 ---
 
-[[Gen.33|Genesis 33:1 - Genesis 33:17]]
+<small>[[Gen.33|Genesis 33:1-17]]</small>
 *Jacob Meets Esau*
 
 [[Gen.33.1|1]] And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.

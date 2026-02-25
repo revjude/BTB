@@ -1,8 +1,65 @@
+---
+title: Daniel 9:10
+type: Verse
+kjv: "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets."
+bsb: "and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets."
+hebrew: "וְלֹ֣א שָׁמַ֔עְנוּ בְּק֖וֹל יְהוָ֣ה אֱלֹהֵ֑ינוּ לָלֶ֤כֶת בְּתֽוֹרֹתָיו֙ אֲשֶׁ֣ר נָתַ֣ן לְפָנֵ֔ינוּ בְּיַ֖ד עֲבָדָ֥יו הַנְּבִיאִֽים׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H8451]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H6440G]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:10**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.
 <small><sub>**BSB:**</sub></small>
 and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085H\|שָׁמַ֔עְנוּ]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9005\|לָ]][[H1980I\|לֶ֤כֶת]] [[H9003\|בְּ]][[H8451\|תֽוֹרֹתָי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414H\|נָתַ֣ן]] [[H9005\|לְ]][[H6440G\|פָנֵ֔י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H5650\|עֲבָדָ֥י]][[H9023\|ו]] [[H9009\|הַ]][[H5030\|נְּבִיאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.9|<< Daniel 9:9]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.11|Daniel 9:11 >>]]</td></tr></table>
 

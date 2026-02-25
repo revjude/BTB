@@ -1,10 +1,61 @@
+---
+title: John 10:10
+type: Verse
+kjv: "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+bsb: "The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness."
+jesus_said: "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+greek: "ὁ κλέπτης οὐκ ἔρχεται εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ· ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3588]]"
+- "[[G2812]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2443]]"
+- "[[G2813]]"
+- "[[G2532]]"
+- "[[G2380]]"
+- "[[G0622]]"
+- "[[G1473]]"
+- "[[G2222]]"
+- "[[G2192]]"
+- "[[G4053]]"
+texts:
+- NKO
+---
+
 **John 10:10**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have [it] more abundantly.
 <small><sub>**BSB:**</sub></small>
 The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness.
-<small><sub>**Literal:**</sub></small>
-The thief not comes only except that he shall steal and shall kill and shall destroy; I myself came that life they may have and excessive may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.9|<< John 10:9]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.11|John 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2812\|κλέπτης]]  [[G3756\|οὐκ]]  [[G2064\|ἔρχεται]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G2443\|ἵνα]]  [[G2813\|κλέψῃ]]  [[G2532\|καὶ]]  [[G2380\|θύσῃ]]  [[G2532\|καὶ]]  [[G0622\|ἀπολέσῃ·]]  [[G1473\|ἐγὼ]]  [[G2064\|ἦλθον]]  [[G2443\|ἵνα]]  [[G2222\|ζωὴν]]  [[G2192\|ἔχωσιν]]  [[G2532\|καὶ]]  [[G4053\|περισσὸν]]  [[G2192\|ἔχωσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REGENERATION|REGENERATION]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.9|<< John 10:9]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.11|John 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

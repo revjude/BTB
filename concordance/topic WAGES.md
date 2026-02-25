@@ -1,9 +1,9 @@
 
 **WAGES**
 
-→ Of Jacob [[Gen.29.15|Ge 29:15]]-[[Gen.29.30|30]]; [[Gen.30.28|30:28]]-[[Gen.30.34|34]]; [[Gen.31.7|31:7]],[[Gen.31.41|41]]
+→ Of Jacob [[Gen.29.15|Ge 29:15-30]]; [[Gen.30.28|30:28-34]]; [[Gen.31.7|31:7]],[[Gen.31.41|41]]
 
-→ Parable concerning [[Matt.20.1|Mt 20:1]]-[[Matt.20.15|15]]
+→ Parable concerning [[Matt.20.1|Mt 20:1-15]]
 
 → See [[topic MASTER|MASTER]]
 

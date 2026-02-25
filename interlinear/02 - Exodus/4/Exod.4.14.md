@@ -1,8 +1,83 @@
+---
+title: Exodus 4:14
+type: Verse
+kjv: "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+bsb: "Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart."
+hebrew: "וַיִּֽחַר־ אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֙אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֙יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי כִּֽי־ דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה־ הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ׃"
+pericope: "[[Exod.4.10 The Appointment of Aaron|The Appointment of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H1696G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H2009]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9031]]"
+- "[[H7200G]]"
+- "[[H8055]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:14**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against Moses, and he said, [Is] not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
 <small><sub>**BSB:**</sub></small>
 Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֨ף]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בְּ]][[H4872\|מֹשֶׁ֗ה]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9008\|הֲ]][[H3808\|לֹ֨א]] [[H0175\|אַהֲרֹ֤ן]] [[H0251G\|אָחִ֙י]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H3881\|לֵּוִ֔י]] [[H3045\|יָדַ֕עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1696G\|דַבֵּ֥ר]] [[H1696G\|יְדַבֵּ֖ר]] [[H1931\|ה֑וּא]] [[H9002\|וְ]][[H1571\|גַ֤ם]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|הוּא֙]] [[H3318G\|יֹצֵ֣א]] [[H9005\|לִ]][[H7122G\|קְרָאתֶ֔]][[H9031\|ךָ]] [[H9001\|וְ]][[H7200G\|רָאֲ]][[H9031\|ךָ֖]] [[H9001\|וְ]][[H8055\|שָׂמַ֥ח]] [[H9003\|בְּ]][[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EXCUSES|EXCUSES]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.13|<< Exodus 4:13]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.15|Exodus 4:15 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: 2 Corinthians 12:13
+type: Verse
+kjv: "For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong."
+bsb: "In what way were you inferior to the other churches, except that I was not a burden to you? Forgive me this wrong!"
+greek: "τί γάρ ἐστιν ὃ ἡσσώθητε ὑπὲρ τὰς λοιπὰς ἐκκλησίας, εἰ μὴ ὅτι αὐτὸς ἐγὼ οὐ κατενάρκησα ὑμῶν; χαρίσασθέ μοι τὴν ἀδικίαν ταύτην.¶"
+pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2274]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G1577]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3754G]]"
+- "[[G0846]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2655]]"
+- "[[G4771]]"
+- "[[G5483]]"
+- "[[G3165]]"
+- "[[G0093]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 12:13**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what is it wherein ye were inferior to other churches, except [it be] that I myself was not burdensome to you? forgive me this wrong.
 <small><sub>**BSB:**</sub></small>
 In what way were you inferior to the other churches, except that I was not a burden to you? Forgive me this wrong!
-<small><sub>**Literal:**</sub></small>
-In what for is it that you were inferior beyond the rest [of the] churches, only except that myself I myself not did burden you? do forgive me <the> wrong this!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.12|<< 2 Corinthians 12:12]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.14|2 Corinthians 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3739\|ὃ]]  [[G2274\|ἡσσώθητε]]  [[G5228\|ὑπὲρ]]  [[G3588\|τὰς]]  [[G3062\|λοιπὰς]]  [[G1577\|ἐκκλησίας,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3754G\|ὅτι]]  [[G0846\|αὐτὸς]]  [[G1473\|ἐγὼ]]  [[G3756\|οὐ]]  [[G2655\|κατενάρκησα]]  [[G4771\|ὑμῶν;]]  [[G5483\|χαρίσασθέ]]  [[G3165\|μοι]]  [[G3588\|τὴν]]  [[G0093\|ἀδικίαν]]  [[G3778\|ταύτην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.12|<< 2 Corinthians 12:12]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.14|2 Corinthians 12:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

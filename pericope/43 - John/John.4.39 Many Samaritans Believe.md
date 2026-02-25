@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Many Samaritans Believe
+type: Pericope
 pericope: "[[John.4.39 Many Samaritans Believe|Many Samaritans Believe]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: John
 chapter: 4
 book/chapter: "[[John.4|John 4]]"
-genre:
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 4
 verses:
 - "[[John.4.39]]"
 - "[[John.4.40]]"
@@ -22,7 +29,7 @@ verses:
 - "[[John.4.42]]"
 ---
 
-[[John.4|John 4:39 - John 4:42]]
+<small>[[John.4|John 4:39-42]]</small>
 *Many Samaritans Believe*
 
 [[John.4.39|39]] And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.

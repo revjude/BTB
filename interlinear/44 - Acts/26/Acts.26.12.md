@@ -1,10 +1,58 @@
+---
+title: Acts 26:12
+type: Verse
+kjv: "Whereupon as I went to Damascus with authority and commission from the chief priests,"
+bsb: "In this pursuit I was on my way to Damascus with the authority and commission of the chief priests."
+greek: "ἐν οἷς καὶ πορευόμενος εἰς τὴν Δαμασκὸν μετ᾽ ἐξουσίας καὶ ἐπιτροπῆς τῆς παρὰ τῶν ἀρχιερέων"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1154]]"
+- "[[G3326]]"
+- "[[G1849]]"
+- "[[G2011]]"
+- "[[G3844]]"
+- "[[G0749]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 26:12**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereupon as I went to Damascus with authority and commission from the chief priests,
 <small><sub>**BSB:**</sub></small>
 In this pursuit I was on my way to Damascus with the authority and commission of the chief priests.
-<small><sub>**Literal:**</sub></small>
-during which and journeying to <the> Damascus with [the] authority and commission which [is] from the chief priests<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.11|<< Acts 26:11]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.13|Acts 26:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G2532\|καὶ]]  [[G4198\|πορευόμενος]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1154\|Δαμασκὸν]]  [[G3326\|μετ᾽]]  [[G1849\|ἐξουσίας]]  [[G2532\|καὶ]]  [[G2011\|ἐπιτροπῆς]]  [[G3588\|τῆς]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DEFENSE|DEFENSE]] • [[topic PAUL|PAUL]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.11|<< Acts 26:11]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.13|Acts 26:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

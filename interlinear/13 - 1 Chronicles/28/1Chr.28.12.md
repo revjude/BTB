@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 28:12
+type: Verse
+kjv: "And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:"
+bsb: "The plans contained everything David had in mind for the courts of the house of the LORD, for all the surrounding rooms, for the treasuries of the house of God and of the dedicated things,"
+hebrew: "וְתַבְנִ֗ית כֹּל֩ אֲשֶׁ֨ר הָיָ֤ה בָר֙וּחַ֙ עִמּ֔וֹ לְחַצְר֧וֹת בֵּית־ יְהוָ֛ה וּלְכָל־ הַלְּשָׁכ֖וֹת סָבִ֑יב לְאֹֽצְרוֹת֙ בֵּ֣ית הָאֱלֹהִ֔ים וּלְאֹצְר֖וֹת הַקֳּדָשִֽׁים׃"
+pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H8403]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7307G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H5439G]]"
+- "[[H0214]]"
+- "[[H0430G]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:12**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:
 <small><sub>**BSB:**</sub></small>
 The plans contained everything David had in mind for the courts of the house of the LORD, for all the surrounding rooms, for the treasuries of the house of God and of the dedicated things,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8403\|תַבְנִ֗ית]] [[H3605\|כֹּל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֤ה]] [[H9003\|בָ]][[H7307G\|ר֙וּחַ֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H2691A\|חַצְר֧וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֖וֹת]] [[H5439G\|סָבִ֑יב]] [[H9005\|לְ]][[H0214\|אֹֽצְרוֹת֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H0214\|אֹצְר֖וֹת]] [[H9009\|הַ]][[H6944G\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHETS|PROPHETS]] • [[topic REVELATION|REVELATION]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.11|<< 1 Chronicles 28:11]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.13|1 Chronicles 28:13 >>]]</td></tr></table>
 

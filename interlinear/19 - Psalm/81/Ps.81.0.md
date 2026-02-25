@@ -1,6 +1,45 @@
+---
+title: Psalm 81:0
+type: Verse
+kjv: "To the chief Musician upon Gittith, A Psalm of Asaph."
+hebrew: "לַמְנַצֵּ֬חַ׀ עַֽל־ הַגִּתִּ֬ית לְאָסָֽף׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1665]]"
+- "[[H0623H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:0**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Gittith, [A Psalm] of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֬חַ]][[H9015\|׀]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H1665\|גִּתִּ֬ית]] [[H9005\|לְ]][[H0623H\|אָסָֽף]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.19|<< Psalms 80:19]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.1|Psalms 81:1 >>]]</td></tr></table>
 

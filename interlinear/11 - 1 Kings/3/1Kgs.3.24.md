@@ -1,8 +1,60 @@
+---
+title: 1 Kings 3:24
+type: Verse
+kjv: "And the king said, Bring me a sword. And they brought a sword before the king."
+bsb: "The king continued, “Bring me a sword.” So they brought him a sword,"
+hebrew: "וַיֹּ֥אמֶר הַמֶּ֖לֶךְ קְח֣וּ לִי־ חָ֑רֶב וַיָּבִ֥אוּ הַחֶ֖רֶב לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3947J]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H0935P]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:24**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, Bring me a sword. And they brought a sword before the king.
 <small><sub>**BSB:**</sub></small>
 The king continued, “Bring me a sword.” So they brought him a sword,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3947J\|קְח֣וּ]] [[H9005\|לִ]][[H9030\|י]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H9001\|וַ]][[H0935P\|יָּבִ֥אוּ]] [[H9009\|הַ]][[H2719\|חֶ֖רֶב]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TACT|TACT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.23|<< 1 Kings 3:23]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.25|1 Kings 3:25 >>]]</td></tr></table>
 

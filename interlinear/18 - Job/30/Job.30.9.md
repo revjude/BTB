@@ -1,8 +1,52 @@
+---
+title: Job 30:9
+type: Verse
+kjv: "And now am I their song, yea, I am their byword."
+bsb: "And now they mock me in song; I have become a byword among them."
+hebrew: "וְ֭עַתָּה נְגִינָתָ֣ם הָיִ֑יתִי וָאֱהִ֖י לָהֶ֣ם לְמִלָּֽה׃"
+pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5058]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:9**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now am I their song, yea, I am their byword.
 <small><sub>**BSB:**</sub></small>
 And now they mock me in song; I have become a byword among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H6258\|עַתָּה]] [[H5058\|נְגִינָתָ֣]][[H9028\|ם]] [[H1961\|הָיִ֑יתִי]] [[H9001\|וָ]][[H1961\|אֱהִ֖י]] [[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H9005\|לְ]][[H4405\|מִלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.8|<< Job 30:8]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.10|Job 30:10 >>]]</td></tr></table>
 

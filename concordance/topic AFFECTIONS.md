@@ -3,11 +3,11 @@
 
 → Should be supremely set upon God [[Deut.6.5|De 6:5]]; [[Mark.12.30|Mr 12:30]]
 
-→ Should be set upon the commandments of God [[Ps.19.8|Ps 19:8]]-[[Ps.19.10|10]];  [[Ps.119.20|119:20]],[[Ps.119.97|97]],[[Ps.119.103|103]],[[Ps.119.167|167]]
+→ Should be set upon the commandments of God [[Ps.19.8|Ps 19:8-10]];  [[Ps.119.20|119:20]],[[Ps.119.97|97]],[[Ps.119.103|103]],[[Ps.119.167|167]]
 
 → Should be set upon the house and worship of God [[1Chr.29.3|1Ch  29:3]]; [[Ps.26.8|Ps 26:8]]; [[Ps.27.4|27:4]]; [[Ps.84.1|84:1]],[[Ps.84.2|2]]
 
-→ Should be set upon the people of God [[Ps.16.3|Ps 16:3]]; [[Rom.12.10|Ro 12:10]];  [[2Cor.7.13|2Co 7:13]]-[[2Cor.7.16|16]]; [[1Thess.2.8|1Th 2:8]]
+→ Should be set upon the people of God [[Ps.16.3|Ps 16:3]]; [[Rom.12.10|Ro 12:10]];  [[2Cor.7.13|2Co 7:13-16]]; [[1Thess.2.8|1Th 2:8]]
 
 → Should be set upon heavenly things [[Col.3.1|Col 3:1]],[[Col.3.2|2]]
 

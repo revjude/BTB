@@ -1,8 +1,47 @@
+---
+title: 1 Chronicles 6:43
+type: Verse
+kjv: "The son of Jahath, the son of Gershom, the son of Levi."
+bsb: "the son of Jahath, the son of Gershom, the son of Levi."
+hebrew: "בֶּן־ יַ֥חַת בֶּן־ גֵּרְשֹׁ֖ם בֶּן־ לֵוִֽי׃ ס"
+pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GERSHON|GERSHON]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3189I]]"
+- "[[H1647H]]"
+- "[[H3878]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:43**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Jahath, the son of Gershom, the son of Levi.
 <small><sub>**BSB:**</sub></small>
 the son of Jahath, the son of Gershom, the son of Levi.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H3189I\|יַ֥חַת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1647H\|גֵּרְשֹׁ֖ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3878\|לֵוִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.42|<< 1 Chronicles 6:42]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.44|1 Chronicles 6:44 >>]]</td></tr></table>
 
@@ -13,7 +52,7 @@ the son of Jahath, the son of Gershom, the son of Levi.
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gershom  |**<big>&#8207;[[H1647H\|גֵּרְשֹׁ֖ם]]&#8207; </big>**| ge.re.Shom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Levi  |**<big>&#8207;[[H3878\|לֵוִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Levi  |**<big>&#8207;[[H3878\|לֵוִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.42|<< 1 Chronicles 6:42]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.44|1 Chronicles 6:44 >>]]</td></tr></table>
 
 

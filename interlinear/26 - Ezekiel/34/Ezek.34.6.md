@@ -1,8 +1,62 @@
+---
+title: Ezekiel 34:6
+type: Verse
+kjv: "My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek after them."
+bsb: "My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’"
+hebrew: "יִשְׁגּ֤וּ צֹאנִי֙ בְּכָל־ הֶ֣הָרִ֔ים וְעַ֖ל כָּל־ גִּבְעָ֣ה רָמָ֑ה וְעַ֨ל כָּל־ פְּנֵ֤י הָאָ֙רֶץ֙ נָפֹ֣צוּ צֹאנִ֔י וְאֵ֥ין דּוֹרֵ֖שׁ וְאֵ֥ין מְבַקֵּֽשׁ׃"
+pericope: "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H7686]]"
+- "[[H6629G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H1389I]]"
+- "[[H7311A]]"
+- "[[H6440J]]"
+- "[[H0776G]]"
+- "[[H6327A]]"
+- "[[H0369]]"
+- "[[H1875]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:6**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek [after them].
 <small><sub>**BSB:**</sub></small>
 My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’
+<small><sub>**Hebrew:**</sub></small>
+[[H7686\|יִשְׁגּ֤וּ]] [[H6629G\|צֹאנִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶ֣]][[H2022G\|הָרִ֔ים]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1389I\|גִּבְעָ֣ה]] [[H7311A\|רָמָ֑ה]] [[H9002\|וְ]][[H5921A\|עַ֨ל]] [[H3605\|כָּל]][[H9014\|־]] [[H6440J\|פְּנֵ֤י]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H6327A\|נָפֹ֣צוּ]] [[H6629G\|צֹאנִ֔]][[H9020\|י]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H1875\|דּוֹרֵ֖שׁ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H1245\|מְבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.5|<< Ezekiel 34:5]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.7|Ezekiel 34:7 >>]]</td></tr></table>
 

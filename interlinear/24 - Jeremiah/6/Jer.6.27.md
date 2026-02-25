@@ -1,8 +1,58 @@
+---
+title: Jeremiah 6:27
+type: Verse
+kjv: "I have set thee for a tower and a fortress among my people, that thou mayest know and try their way."
+bsb: "“I have appointed you to examine My people like ore, so you may know and try their ways."
+hebrew: "בָּח֛וֹן נְתַתִּ֥יךָ בְעַמִּ֖י מִבְצָ֑ר וְתֵדַ֕ע וּבָחַנְתָּ֖ אֶת־ דַּרְכָּֽם׃"
+pericope: "[[Jer.6.22 An Invasion from the North|An Invasion from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0969]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H4013]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H9001]]"
+- "[[H0974]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:27**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set thee [for] a tower [and] a fortress among my people, that thou mayest know and try their way.
 <small><sub>**BSB:**</sub></small>
 “I have appointed you to examine My people like ore, so you may know and try their ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H0969\|בָּח֛וֹן]] [[H5414I\|נְתַתִּ֥י]][[H9031\|ךָ]] [[H9003\|בְ]][[H5971A\|עַמִּ֖]][[H9020\|י]] [[H4013\|מִבְצָ֑ר]] [[H9002\|וְ]][[H3045\|תֵדַ֕ע]] [[H9001\|וּ]][[H0974\|בָחַנְתָּ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.26|<< Jeremiah 6:26]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.28|Jeremiah 6:28 >>]]</td></tr></table>
 

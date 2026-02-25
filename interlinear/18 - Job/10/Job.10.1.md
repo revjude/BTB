@@ -1,8 +1,53 @@
+---
+title: Job 10:1
+type: Verse
+kjv: "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."
+bsb: "“I loathe my own life; I will express my complaint and speak in the bitterness of my soul."
+hebrew: "נָֽקְטָ֥ה נַפְשִׁ֗י בְּחַ֫יָּ֥י אֶֽעֶזְבָ֣ה עָלַ֣י שִׂיחִ֑י אֲ֝דַבְּרָה֗ בְּמַ֣ר נַפְשִֽׁי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H5354]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H5800C]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7879]]"
+- "[[H1696G]]"
+- "[[H4751]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:1**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 <small><sub>**BSB:**</sub></small>
 “I loathe my own life; I will express my complaint and speak in the bitterness of my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H5354\|נָֽקְטָ֥ה]] [[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H9003\|בְּ]][[H2416E\|חַ֫יָּ֥]][[H9020\|י]] [[H5800C\|אֶֽעֶזְבָ֣ה]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H7879\|שִׂיחִ֑]][[H9020\|י]] [[H1696G\|אֲ֝דַבְּרָה֗]] [[H9003\|בְּ]][[H4751\|מַ֣ר]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.35|<< Job 9:35]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.2|Job 10:2 >>]]</td></tr></table>
 

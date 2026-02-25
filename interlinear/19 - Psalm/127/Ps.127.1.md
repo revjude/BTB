@@ -1,8 +1,61 @@
+---
+title: Psalm 127:1
+type: Verse
+kjv: "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain."
+bsb: "A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain."
+hebrew: "אִם־ יְהוָ֤ה׀ לֹא־ יִבְנֶ֬ה בַ֗יִת שָׁ֤וְא׀ עָמְל֣וּ בוֹנָ֣יו בּ֑וֹ אִם־ יְהוָ֥ה לֹֽא־ יִשְׁמָר־ עִ֝֗יר שָׁ֤וְא׀ שָׁקַ֬ד שׁוֹמֵֽר׃"
+pericope: "[[Ps.127.1 Children Are a Heritage from the LORD|Children Are a Heritage from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 127
+book/chapter: "[[Ps.127|Psalm 127]]"
+chronological_order: 447
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H0518J]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H7723H]]"
+- "[[H5998]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8104H]]"
+- "[[H5892B]]"
+- "[[H8245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 127:1**<big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh [but] in vain.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518J\|אִם]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H1129\|יִבְנֶ֬ה]] [[H1004B\|בַ֗יִת]] [[H7723H\|שָׁ֤וְא]][[H9015\|׀]] [[H5998\|עָמְל֣וּ]] [[H1129\|בוֹנָ֣י]][[H9033\|ו]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H0518J\|אִם]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8104H\|יִשְׁמָר]][[H9014\|־]] [[H5892B\|עִ֝֗יר]] [[H7723H\|שָׁ֤וְא]][[H9015\|׀]] [[H8245\|שָׁקַ֬ד]] [[H8104H\|שׁוֹמֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PROSPERITY|PROSPERITY]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.0|<< Psalms 127:0]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.2|Psalms 127:2 >>]]</td></tr></table>
 

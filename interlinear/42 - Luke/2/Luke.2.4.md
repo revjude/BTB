@@ -1,10 +1,66 @@
+---
+title: Luke 2:4
+type: Verse
+kjv: "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)"
+bsb: "So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David."
+greek: "ἀνέβη δὲ καὶ Ἰωσὴφ ἀπὸ τῆς Γαλιλαίας ἐκ πόλεως Ναζαρὲθ εἰς τὴν Ἰουδαίαν εἰς πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ, διὰ τὸ εἶναι αὐτὸν ἐξ οἴκου καὶ πατριᾶς Δαυίδ,"
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G0305]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2501G]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+- "[[G1537]]"
+- "[[G4172]]"
+- "[[G3478]]"
+- "[[G1519]]"
+- "[[G2449]]"
+- "[[G1138]]"
+- "[[G3748]]"
+- "[[G2564G]]"
+- "[[G0965]]"
+- "[[G1223]]"
+- "[[G1511]]"
+- "[[G0846]]"
+- "[[G3624H]]"
+- "[[G3965]]"
+texts:
+- NKO
+---
+
 **Luke 2:4**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 <small><sub>**BSB:**</sub></small>
 So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David.
-<small><sub>**Literal:**</sub></small>
-Went up then also Joseph from <the> Galilee out of [the] town of Nazareth to <the> Judea to [the] City of David which is called Bethlehem, because of <the> being him from [the] house and family of David,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.3|<< Luke 2:3]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.5|Luke 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0305\|ἀνέβη]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2501G\|Ἰωσὴφ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G1537\|ἐκ]]  [[G4172\|πόλεως]]  [[G3478\|Ναζαρὲθ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2449\|Ἰουδαίαν]]  [[G1519\|εἰς]]  [[G4172\|πόλιν]]  [[G1138\|Δαυὶδ]]  [[G3748\|ἥτις]]  [[G2564G\|καλεῖται]]  [[G0965\|Βηθλέεμ,]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐξ]]  [[G3624H\|οἴκου]]  [[G2532\|καὶ]]  [[G3965\|πατριᾶς]]  [[G1138\|Δαυίδ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic NAZARETH|NAZARETH]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.3|<< Luke 2:3]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.5|Luke 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

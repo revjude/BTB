@@ -1,8 +1,63 @@
+---
+title: Jeremiah 46:19
+type: Verse
+kjv: "O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant."
+bsb: "Pack your bags for exile, O daughter dwelling in Egypt! For Memphis will be laid waste, destroyed and uninhabited."
+hebrew: "כְּלֵ֤י גוֹלָה֙ עֲשִׂ֣י לָ֔ךְ יוֹשֶׁ֖בֶת בַּת־ מִצְרָ֑יִם כִּֽי־ נֹף֙ לְשַׁמָּ֣ה תִֽהְיֶ֔ה וְנִצְּתָ֖ה מֵאֵ֥ין יוֹשֵֽׁב׃ ס"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic MEMPHIS|MEMPHIS]]"
+- "[[topic NOPH|NOPH]]"
+strongs:
+- "[[H3627]]"
+- "[[H1473]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3427]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H5297]]"
+- "[[H8047G]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H3341]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 46:19**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant.
 <small><sub>**BSB:**</sub></small>
 Pack your bags for exile, O daughter dwelling in Egypt! For Memphis will be laid waste, destroyed and uninhabited.
+<small><sub>**Hebrew:**</sub></small>
+[[H3627\|כְּלֵ֤י]] [[H1473\|גוֹלָה֙]] [[H6213H\|עֲשִׂ֣י]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3427\|יוֹשֶׁ֖בֶת]] [[H1323G\|בַּת]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5297\|נֹף֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֣ה]] [[H1961\|תִֽהְיֶ֔ה]] [[H9001\|וְ]][[H3341\|נִצְּתָ֖ה]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic MEMPHIS|MEMPHIS]] • [[topic NOPH|NOPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.18|<< Jeremiah 46:18]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.20|Jeremiah 46:20 >>]]</td></tr></table>
 
@@ -21,7 +76,7 @@ Pack your bags for exile, O daughter dwelling in Egypt! For Memphis will be laid
 | it will become  |**<big>&#8207;[[H1961\|תִֽהְיֶ֔ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be made desolate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3341\|נִצְּתָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.tze.Tah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from not  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| inhabitant  |**<big>&#8207;[[H3427\|יוֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| inhabitant  |**<big>&#8207;[[H3427\|יוֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.18|<< Jeremiah 46:18]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.20|Jeremiah 46:20 >>]]</td></tr></table>
 
 

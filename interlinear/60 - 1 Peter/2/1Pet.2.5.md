@@ -1,10 +1,66 @@
+---
+title: 1 Peter 2:5
+type: Verse
+kjv: "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+bsb: "you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ."
+greek: "καὶ αὐτοὶ ὡς λίθοι ζῶντες οἰκοδομεῖσθε οἶκος πνευματικὸς εἰς ἱεράτευμα ἅγιον ἀνενέγκαι πνευματικὰς θυσίας εὐπροσδέκτους τῷ θεῷ διὰ Ἰησοῦ Χριστοῦ."
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G3037]]"
+- "[[G2198]]"
+- "[[G3618]]"
+- "[[G3624G]]"
+- "[[G4152]]"
+- "[[G1519]]"
+- "[[G2406]]"
+- "[[G0040G]]"
+- "[[G0399]]"
+- "[[G2378]]"
+- "[[G2144]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- no
+- NK
+---
+
 **1 Peter 2:5**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-also you yourselves as stones living are being built up as a house spiritual into a priesthood holy to offer spiritual sacrifices acceptable <the> to God through Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.4|<< 1 Peter 2:4]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.6|1 Peter 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G5613\|ὡς]]  [[G3037\|λίθοι]]  [[G2198\|ζῶντες]]  [[G3618\|οἰκοδομεῖσθε]]  [[G3624G\|οἶκος]]  [[G4152\|πνευματικὸς]]  [[G1519\|εἰς]]  [[G2406\|ἱεράτευμα]]  [[G0040G\|ἅγιον]]  [[G0399\|ἀνενέγκαι]]  [[G4152\|πνευματικὰς]]  [[G2378\|θυσίας]]  [[G2144\|εὐπροσδέκτους]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.4|<< 1 Peter 2:4]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.6|1 Peter 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

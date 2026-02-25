@@ -1,8 +1,52 @@
+---
+title: Judges 9:47
+type: Verse
+kjv: "And it was told Abimelech, that all the men of the tower of Shechem were gathered together."
+bsb: "And when Abimelech was told that all the leaders in the tower of Shechem were gathered there,"
+hebrew: "וַיֻּגַּ֖ד לַאֲבִימֶ֑לֶךְ כִּ֣י הִֽתְקַבְּצ֔וּ כָּֽל־ בַּעֲלֵ֖י מִֽגְדַּל־ שְׁכֶֽם׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0040H]]"
+- "[[H3588A]]"
+- "[[H6908]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1167G]]"
+- "[[H4026M]]"
+- "[[H7927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:47**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Abimelech, that all the men of the tower of Shechem were gathered together.
 <small><sub>**BSB:**</sub></small>
 And when Abimelech was told that all the leaders in the tower of Shechem were gathered there,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֖ד]] [[H9005\|לַ]][[H0040H\|אֲבִימֶ֑לֶךְ]] [[H3588A\|כִּ֣י]] [[H6908\|הִֽתְקַבְּצ֔וּ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H1167G\|בַּעֲלֵ֖י]] [[H4026M\|מִֽגְדַּל]][[H9014\|־]] [[H7927G\|שְׁכֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.46|<< Judges 9:46]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.48|Judges 9:48 >>]]</td></tr></table>
 

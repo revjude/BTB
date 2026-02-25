@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 18:16
+type: Verse
+kjv: "But all Israel and Judah loved David, because he went out and came in before them."
+bsb: "But all Israel and Judah loved David, because he was leading them out to battle and back."
+hebrew: "וְכָל־ יִשְׂרָאֵל֙ וִיהוּדָ֔ה אֹהֵ֖ב אֶת־ דָּוִ֑ד כִּֽי־ ה֛וּא יוֹצֵ֥א וָבָ֖א לִפְנֵיהֶֽם׃ פ"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 18:16**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all Israel and Judah loved David, because he went out and came in before them.
 <small><sub>**BSB:**</sub></small>
 But all Israel and Judah loved David, because he was leading them out to battle and back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וִ]][[H3063G\|יהוּדָ֔ה]] [[H0157G\|אֹהֵ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|ה֛וּא]] [[H3318G\|יוֹצֵ֥א]] [[H9002\|וָ]][[H0935G\|בָ֖א]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.15|<< 1 Samuel 18:15]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.17|1 Samuel 18:17 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ But all Israel and Judah loved David, because he was leading them out to battle 
 | he  |**<big>&#8207;[[H1931\|ה֛וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] going out  |**<big>&#8207;[[H3318G\|יוֹצֵ֥א]]&#8207; </big>**| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [was] coming  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0935G\|בָ֖א]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Va'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.15|<< 1 Samuel 18:15]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.17|1 Samuel 18:17 >>]]</td></tr></table>
 
 

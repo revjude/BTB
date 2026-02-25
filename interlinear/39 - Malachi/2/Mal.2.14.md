@@ -1,8 +1,69 @@
+---
+title: Malachi 2:14
+type: Verse
+kjv: "Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant."
+bsb: "Yet you ask, “Why?” It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant."
+hebrew: "וַאֲמַרְתֶּ֖ם עַל־ מָ֑ה עַ֡ל כִּי־ יְהוָה֩ הֵעִ֨יד בֵּינְךָ֜ וּבֵ֣ין׀ אֵ֣שֶׁת נְעוּרֶ֗יךָ אֲשֶׁ֤ר אַתָּה֙ בָּגַ֣דְתָּה בָּ֔הּ וְהִ֥יא חֲבֶרְתְּךָ֖ וְאֵ֥שֶׁת בְּרִיתֶֽךָ׃"
+pericope: "[[Mal.2.10 Judah’s Unfaithfulness|Judah’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4100]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H5749B]]"
+- "[[H0996G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H0802H]]"
+- "[[H5271A]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H0898]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H1931]]"
+- "[[H2278]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:14**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet [is] she thy companion, and the wife of thy covenant.
 <small><sub>**BSB:**</sub></small>
 Yet you ask, “Why?” It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מָ֑ה]] [[H5921A\|עַ֡ל]] [[H3588A\|כִּי]][[H9014\|־]] [[H3068G\|יְהוָה֩]] [[H5749B\|הֵעִ֨יד]] [[H0996G\|בֵּינְ]][[H9031\|ךָ֜]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]][[H9015\|׀]] [[H0802H\|אֵ֣שֶׁת]] [[H5271A\|נְעוּרֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0859A\|אַתָּה֙]] [[H0898\|בָּגַ֣דְתָּה]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H1931\|הִ֥יא]] [[H2278\|חֲבֶרְתְּ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H0802H\|אֵ֥שֶׁת]] [[H1285\|בְּרִיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.13|<< Malachi 2:13]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.15|Malachi 2:15 >>]]</td></tr></table>
 

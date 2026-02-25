@@ -1,8 +1,52 @@
+---
+title: Job 13:10
+type: Verse
+kjv: "He will surely reprove you, if ye do secretly accept persons."
+bsb: "Surely He would rebuke you if you secretly showed partiality."
+hebrew: "הוֹכֵ֣חַ יוֹכִ֣יחַ אֶתְכֶ֑ם אִם־ בַּ֝סֵּ֗תֶר פָּנִ֥ים תִּשָּׂאֽוּן׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3198]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H6440H]]"
+- "[[H5375Q]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:10**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will surely reprove you, if ye do secretly accept persons.
 <small><sub>**BSB:**</sub></small>
 Surely He would rebuke you if you secretly showed partiality.
+<small><sub>**Hebrew:**</sub></small>
+[[H3198\|הוֹכֵ֣חַ]] [[H3198\|יוֹכִ֣יחַ]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H0518A\|אִם]][[H9014\|־]] [[H9003\|בַּ֝]][[H5643A\|סֵּ֗תֶר]] [[H6440H\|פָּנִ֥ים]] [[H5375Q\|תִּשָּׂאֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.9|<< Job 13:9]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.11|Job 13:11 >>]]</td></tr></table>
 

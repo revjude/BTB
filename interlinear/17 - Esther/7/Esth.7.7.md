@@ -1,8 +1,72 @@
+---
+title: Esther 7:7
+type: Verse
+kjv: "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."
+bsb: "In his fury, the king arose from drinking his wine and went to the palace garden, while Haman stayed behind to beg Queen Esther for his life, for he realized that the king was planning a terrible fate for him."
+hebrew: "וְהַמֶּ֜לֶךְ קָ֤ם בַּחֲמָתוֹ֙ מִמִּשְׁתֵּ֣ה הַיַּ֔יִן אֶל־ גִּנַּ֖ת הַבִּיתָ֑ן וְהָמָ֣ן עָמַ֗ד לְבַקֵּ֤שׁ עַל־ נַפְשׁוֹ֙ מֵֽאֶסְתֵּ֣ר הַמַּלְכָּ֔ה כִּ֣י רָאָ֔ה כִּֽי־ כָלְתָ֥ה אֵלָ֛יו הָרָעָ֖ה מֵאֵ֥ת הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.7.7 The Hanging of Haman|The Hanging of Haman]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6965B]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H4960]]"
+- "[[H3196]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1594]]"
+- "[[H1055]]"
+- "[[H2001]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H5921A]]"
+- "[[H5315H]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H3615I]]"
+- "[[H9033]]"
+- "[[H7451C]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 7:7**<big><big>[[Esth.7.7 The Hanging of Haman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king arising from the banquet of wine in his wrath [went] into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 <small><sub>**BSB:**</sub></small>
 In his fury, the king arose from drinking his wine and went to the palace garden, while Haman stayed behind to beg Queen Esther for his life, for he realized that the king was planning a terrible fate for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H6965B\|קָ֤ם]] [[H9003\|בַּ]][[H2534\|חֲמָת]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H4960\|מִּשְׁתֵּ֣ה]] [[H9009\|הַ]][[H3196\|יַּ֔יִן]] [[H0413\|אֶל]][[H9014\|־]] [[H1594\|גִּנַּ֖ת]] [[H9009\|הַ]][[H1055\|בִּיתָ֑ן]] [[H9002\|וְ]][[H2001\|הָמָ֣ן]] [[H5975G\|עָמַ֗ד]] [[H9005\|לְ]][[H1245\|בַקֵּ֤שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נַפְשׁ]][[H9023\|וֹ֙]] [[H9006\|מֵֽ]][[H0635\|אֶסְתֵּ֣ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֔ה]] [[H3588A\|כִּ֣י]] [[H7200G\|רָאָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3615I\|כָלְתָ֥ה]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic FEASTS|FEASTS]] • [[topic PALACE|PALACE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.6|<< Esther 7:6]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.8|Esther 7:8 >>]]</td></tr></table>
 

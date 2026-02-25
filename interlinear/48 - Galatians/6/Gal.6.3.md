@@ -1,10 +1,52 @@
+---
+title: Galatians 6:3
+type: Verse
+kjv: "For if a man think himself to be something, when he is nothing, he deceiveth himself."
+bsb: "If anyone thinks he is something when he is nothing, he deceives himself."
+greek: "εἰ γὰρ δοκεῖ τις εἶναί τι μηδὲν ὤν, φρεναπατᾷ ἑαυτόν·"
+pericope: "[[Gal.6.1 Carry One Another’s Burdens|Carry One Another’s Burdens]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G1380]]"
+- "[[G5100]]"
+- "[[G1511]]"
+- "[[G3367]]"
+- "[[G1510]]"
+- "[[G5422]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **Galatians 6:3**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if a man think himself to be something, when he is nothing, he deceiveth himself.
 <small><sub>**BSB:**</sub></small>
 If anyone thinks he is something when he is nothing, he deceives himself.
-<small><sub>**Literal:**</sub></small>
-If for thinks [himself] anyone to be something nothing being, he deceives himself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.2|<< Galatians 6:2]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.4|Galatians 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1380\|δοκεῖ]]  [[G5100\|τις]]  [[G1511\|εἶναί]]  [[G5100\|τι]]  [[G3367\|μηδὲν]]  [[G1510\|ὤν,]]  [[G5422\|φρεναπατᾷ]]  [[G1438\|ἑαυτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.2|<< Galatians 6:2]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.4|Galatians 6:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 19:2
+type: Verse
+kjv: "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD."
+bsb: "Jehu son of Hanani the seer went out to confront him and said to King Jehoshaphat, “Should you help the wicked and love those who hate the LORD? Because of this, the wrath of the LORD is upon you."
+hebrew: "וַיֵּצֵ֣א אֶל־ פָּנָ֗יו יֵה֣וּא בֶן־ חֲנָ֘נִי֮ הַחֹזֶה֒ וַיֹּ֙אמֶר֙ אֶל־ הַמֶּ֣לֶךְ יְהוֹשָׁפָ֔ט הֲלָרָשָׁ֣ע לַעְזֹ֔ר וּלְשֹׂנְאֵ֥י יְהוָ֖ה תֶּאֱהָ֑ב וּבָזֹאת֙ עָלֶ֣יךָ קֶּ֔צֶף מִלִּפְנֵ֖י יְהוָֽה׃"
+pericope: "[[2Chr.19.1 Jehoshaphat Reproved by Jehu|Jehoshaphat Reproved by Jehu]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HANANI|HANANI]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H3058G]]"
+- "[[H1121A]]"
+- "[[H2607G]]"
+- "[[H9009]]"
+- "[[H2374]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3092I]]"
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H5826]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H3068G]]"
+- "[[H0157G]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H7110A]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 19:2**<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore [is] wrath upon thee from before the LORD.
 <small><sub>**BSB:**</sub></small>
 Jehu son of Hanani the seer went out to confront him and said to King Jehoshaphat, “Should you help the wicked and love those who hate the LORD? Because of this, the wrath of the LORD is upon you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פָּנָ֗י]][[H9023\|ו]] [[H3058G\|יֵה֣וּא]] [[H1121A\|בֶן]][[H9014\|־]] [[H2607G\|חֲנָ֘נִי֮]] [[H9009\|הַ]][[H2374\|חֹזֶה֒]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H3092I\|יְהוֹשָׁפָ֔ט]] [[H9008\|הֲ]][[H9005\|לָ]][[H7563\|רָשָׁ֣ע]] [[H9005\|לַ]][[H5826\|עְזֹ֔ר]] [[H9002\|וּ]][[H9005\|לְ]][[H8130\|שֹׂנְאֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0157G\|תֶּאֱהָ֑ב]] [[H9002\|וּ]][[H9003\|בָ]][[H2063\|זֹאת֙]] [[H5921A\|עָלֶ֣י]][[H9031\|ךָ]] [[H7110A\|קֶּ֔צֶף]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HANANI|HANANI]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JEHU|JEHU]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.1|<< 2 Chronicles 19:1]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.3|2 Chronicles 19:3 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 16:34
+type: Verse
+kjv: "O give thanks unto the LORD; for he is good; for his mercy endureth for ever."
+bsb: "Give thanks to the LORD, for He is good; His loving devotion endures forever."
+hebrew: "הוֹד֤וּ לַיהוָה֙ כִּ֣י ט֔וֹב כִּ֥י לְעוֹלָ֖ם חַסְדּֽוֹ׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3034]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:34**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O give thanks unto the LORD; for [he is] good; for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 Give thanks to the LORD, for He is good; His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|הוֹד֤וּ]] [[H9005\|לַ]][[H3068G\|יהוָה֙]] [[H3588A\|כִּ֣י]] [[H2896A\|ט֔וֹב]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.33|<< 1 Chronicles 16:33]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.35|1 Chronicles 16:35 >>]]</td></tr></table>
 

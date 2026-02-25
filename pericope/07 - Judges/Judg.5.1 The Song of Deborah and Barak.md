@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song of Deborah and Barak
+type: Pericope
 pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 5
 book/chapter: "[[Judg.5|Judges 5]]"
-genre:
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 31
 verses:
 - "[[Judg.5.1]]"
 - "[[Judg.5.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Judg.5.31]]"
 ---
 
-[[Judg.5|Judges 5:1 - Judges 5:31]]
+<small>[[Judg.5|Judges 5:1-31]]</small>
 *The Song of Deborah and Barak*
 
 [[Judg.5.1|1]] Then sang Deborah and Barak the son of Abinoam on that day, saying,

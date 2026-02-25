@@ -1,10 +1,59 @@
+---
+title: Acts 16:7
+type: Verse
+kjv: "After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not."
+bsb: "And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them."
+greek: "ἐλθόντες δὲ κατὰ τὴν Μυσίαν ἐπείραζον εἰς τὴν Βιθυνίαν πορευθῆναι, καὶ οὐκ εἴασεν αὐτοὺς τὸ πνεῦμα Ἰησοῦ."
+pericope: "[[Acts.16.6 Paul’s Vision of the Macedonian|Paul’s Vision of the Macedonian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BITHYNIA|BITHYNIA]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MYSIA|MYSIA]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3465]]"
+- "[[G3985I]]"
+- "[[G1519]]"
+- "[[G0978]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1439]]"
+- "[[G0846]]"
+- "[[G4151G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 16:7**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.
 <small><sub>**BSB:**</sub></small>
 And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them.
-<small><sub>**Literal:**</sub></small>
-having come then down to <the> Mysia they were attempting into <the> Bithynia to go, and not did allow them the Spirit of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.6|<< Acts 16:6]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.8|Acts 16:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλθόντες]]  [[G1161\|δὲ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3465\|Μυσίαν]]  [[G3985I\|ἐπείραζον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0978\|Βιθυνίαν]]  [[G4198\|πορευθῆναι,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1439\|εἴασεν]]  [[G0846\|αὐτοὺς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BITHYNIA|BITHYNIA]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MYSIA|MYSIA]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.6|<< Acts 16:6]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.8|Acts 16:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

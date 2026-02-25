@@ -1,8 +1,41 @@
+---
+title: Song of Solomon 1:1
+type: Verse
+kjv: "The song of songs, which is Solomon’s."
+bsb: "This is Solomon’s Song of Songs."
+hebrew: "שִׁ֥יר הַשִּׁירִ֖ים אֲשֶׁ֥ר לִשְׁלֹמֹֽה׃"
+pericope: "[[Song.1.1 The Bride Confesses Her Love|The Bride Confesses Her Love]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H7892A]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:1**<big><big>[[Song.1.1 The Bride Confesses Her Love|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The song of songs, which [is] Solomon’s.
 <small><sub>**BSB:**</sub></small>
 This is Solomon’s Song of Songs.
+<small><sub>**Hebrew:**</sub></small>
+[[H7892A\|שִׁ֥יר]] [[H9009\|הַ]][[H7892A\|שִּׁירִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.14|<< Ecclesiastes 12:14]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.2|Song of Solomon 1:2 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 9:23
+type: Verse
+kjv: "If the scourge slay suddenly, he will laugh at the trial of the innocent."
+bsb: "When the scourge brings sudden death, He mocks the despair of the innocent."
+hebrew: "אִם־ שׁ֭וֹט יָמִ֣ית פִּתְאֹ֑ם לְמַסַּ֖ת נְקִיִּ֣ם יִלְעָֽג׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SCOURGING|SCOURGING]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7752]]"
+- "[[H4191]]"
+- "[[H6597]]"
+- "[[H9005]]"
+- "[[H4531A]]"
+- "[[H5355A]]"
+- "[[H3932]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:23**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the scourge slay suddenly, he will laugh at the trial of the innocent.
 <small><sub>**BSB:**</sub></small>
 When the scourge brings sudden death, He mocks the despair of the innocent.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7752\|שׁ֭וֹט]] [[H4191\|יָמִ֣ית]] [[H6597\|פִּתְאֹ֑ם]] [[H9005\|לְ]][[H4531A\|מַסַּ֖ת]] [[H5355A\|נְקִיִּ֣ם]] [[H3932\|יִלְעָֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic SCOURGING|SCOURGING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.22|<< Job 9:22]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.24|Job 9:24 >>]]</td></tr></table>
 

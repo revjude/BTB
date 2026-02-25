@@ -1,8 +1,59 @@
+---
+title: Micah 4:6
+type: Verse
+kjv: "In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;"
+bsb: "“On that day,” declares the LORD, “I will gather the lame; I will assemble the outcast, even those whom I have afflicted."
+hebrew: "בַּיּ֨וֹם הַה֜וּא נְאֻם־ יְהוָ֗ה אֹֽסְפָה֙ הַצֹּ֣לֵעָ֔ה וְהַנִּדָּחָ֖ה אֲקַבֵּ֑צָה וַאֲשֶׁ֖ר הֲרֵעֹֽתִי׃"
+pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0622]]"
+- "[[H6760]]"
+- "[[H9002]]"
+- "[[H5080]]"
+- "[[H6908]]"
+- "[[H0834A]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:6**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
 <small><sub>**BSB:**</sub></small>
 “On that day,” declares the LORD, “I will gather the lame; I will assemble the outcast, even those whom I have afflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0622\|אֹֽסְפָה֙]] [[H9009\|הַ]][[H6760\|צֹּ֣לֵעָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H5080\|נִּדָּחָ֖ה]] [[H6908\|אֲקַבֵּ֑צָה]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֖ר]] [[H7489A\|הֲרֵעֹֽתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 

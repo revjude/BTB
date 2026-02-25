@@ -1,10 +1,70 @@
+---
+title: Colossians 2:2
+type: Verse
+kjv: "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;"
+bsb: "that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely Christ,"
+greek: "ἵνα παρακληθῶσιν αἱ καρδίαι αὐτῶν συμβιβασθέντες ἐν ἀγάπῃ καὶ εἰς πᾶν τὸ πλοῦτος τῆς πληροφορίας τῆς συνέσεως εἰς ἐπίγνωσιν τοῦ μυστηρίου τοῦ θεοῦ καὶ πατρὸς καὶ τοῦ Χριστοῦ,"
+pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2443]]"
+- "[[G3870]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G4822]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G4149]]"
+- "[[G4136]]"
+- "[[G4907]]"
+- "[[G1922]]"
+- "[[G3466]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+- o
+- K
+- KO
+---
+
 **Colossians 2:2**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 <small><sub>**BSB:**</sub></small>
 that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely Christ,
-<small><sub>**Literal:**</sub></small>
-that may be encouraged the hearts of them being knit together in love and to all the richness of the full assurance <the> of understanding to [the] knowledge of the mystery <the> of God and Father and the Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.1|<< Colossians 2:1]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.3|Colossians 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3870\|παρακληθῶσιν]]  [[G3588\|αἱ]]  [[G2588\|καρδίαι]]  [[G0846\|αὐτῶν]]  [[G4822\|συμβιβασθέντες]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4149\|πλοῦτος]]  [[G3588\|τῆς]]  [[G4136\|πληροφορίας]]  [[G3588\|τῆς]]  [[G4907\|συνέσεως]]  [[G1519\|εἰς]]  [[G1922\|ἐπίγνωσιν]]  [[G3588\|τοῦ]]  [[G3466\|μυστηρίου]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOVE|LOVE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic TRINITY|TRINITY]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.1|<< Colossians 2:1]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.3|Colossians 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

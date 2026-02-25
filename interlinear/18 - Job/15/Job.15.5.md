@@ -1,8 +1,51 @@
+---
+title: Job 15:5
+type: Verse
+kjv: "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty."
+bsb: "For your iniquity instructs your mouth, and you choose the language of the crafty."
+hebrew: "כִּ֤י יְאַלֵּ֣ף עֲוֹנְךָ֣ פִ֑יךָ וְ֝תִבְחַ֗ר לְשׁ֣וֹן עֲרוּמִֽים׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0502]]"
+- "[[H5771G]]"
+- "[[H9021]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H0977]]"
+- "[[H3956G]]"
+- "[[H6175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:5**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.
 <small><sub>**BSB:**</sub></small>
 For your iniquity instructs your mouth, and you choose the language of the crafty.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0502\|יְאַלֵּ֣ף]] [[H5771G\|עֲוֹנְ]][[H9021\|ךָ֣]] [[H6310G\|פִ֑י]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H0977\|תִבְחַ֗ר]] [[H3956G\|לְשׁ֣וֹן]] [[H6175\|עֲרוּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.4|<< Job 15:4]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.6|Job 15:6 >>]]</td></tr></table>
 

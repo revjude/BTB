@@ -1,8 +1,70 @@
+---
+title: Jeremiah 25:33
+type: Verse
+kjv: "And the slain of the LORD shall be at that day from one end of the earth even unto the other end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground."
+bsb: "Those slain by the LORD on that day will be spread from one end of the earth to the other. They will not be mourned, gathered, or buried. They will be like dung lying on the ground."
+hebrew: "וְהָי֞וּ חַֽלְלֵ֤י יְהוָה֙ בַּיּ֣וֹם הַה֔וּא מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־ קְצֵ֣ה הָאָ֑רֶץ לֹ֣א יִסָּפְד֗וּ וְלֹ֤א יֵאָֽסְפוּ֙ וְלֹ֣א יִקָּבֵ֔רוּ לְדֹ֛מֶן עַל־ פְּנֵ֥י הָאֲדָמָ֖ה יִֽהְיֽוּ׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2491A]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5594]]"
+- "[[H0622]]"
+- "[[H6912]]"
+- "[[H9005]]"
+- "[[H1828]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:33**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the slain of the LORD shall be at that day from [one] end of the earth even unto the [other] end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.
 <small><sub>**BSB:**</sub></small>
 Those slain by the LORD on that day will be spread from one end of the earth to the other. They will not be mourned, gathered, or buried. They will be like dung lying on the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֞וּ]] [[H2491A\|חַֽלְלֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3808\|לֹ֣א]] [[H5594\|יִסָּפְד֗וּ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0622\|יֵאָֽסְפוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6912\|יִקָּבֵ֔רוּ]] [[H9005\|לְ]][[H1828\|דֹ֛מֶן]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H1961\|יִֽהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic SIN|SIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.32|<< Jeremiah 25:32]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.34|Jeremiah 25:34 >>]]</td></tr></table>
 

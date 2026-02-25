@@ -1,10 +1,70 @@
+---
+title: Luke 24:49
+type: Verse
+kjv: "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+bsb: "And behold, I am sending the promise of My Father upon you. But remain in the city until you have been clothed with power from on high.”"
+jesus_said: "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+greek: "καὶ ἰδοὺ ἐγὼ ἀποστέλλω τὴν ἐπαγγελίαν τοῦ πατρός μου ἐφ᾽ ὑμᾶς. ὑμεῖς δὲ καθίσατε ἐν τῇ πόλει Ἱερουσαλήμ ἕως οὗ ἐνδύσησθε ἐξ ὕψους δύναμιν.¶"
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G1860]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G2523]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G2419]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G1746]]"
+- "[[G1537]]"
+- "[[G5311]]"
+- "[[G1411]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **Luke 24:49**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
 <small><sub>**BSB:**</sub></small>
 And behold, I am sending the promise of My Father upon you. But remain in the city until you have been clothed with power from on high.”
-<small><sub>**Literal:**</sub></small>
-And behold I myself am sending the promise of the Father of Mine upon you. you yourselves however do remain in the city Jerusalem until that you may be clothed with from on high power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.48|<< Luke 24:48]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.50|Luke 24:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς.]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G2523\|καθίσατε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G2419\|Ἱερουσαλήμ]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G1746\|ἐνδύσησθε]]  [[G1537\|ἐξ]]  [[G5311\|ὕψους]]  [[G1411\|δύναμιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.48|<< Luke 24:48]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.50|Luke 24:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

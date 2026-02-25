@@ -1,8 +1,52 @@
+---
+title: Lamentations 4:18
+type: Verse
+kjv: "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come."
+bsb: "They stalked our every step, so that we could not walk in our streets. Our end drew near, our time ran out, for our end had come!"
+hebrew: "צָד֣וּ צְעָדֵ֔ינוּ מִלֶּ֖כֶת בִּרְחֹבֹתֵ֑ינוּ קָרַ֥ב קִצֵּ֛ינוּ מָלְא֥וּ יָמֵ֖ינוּ כִּי־ בָ֥א קִצֵּֽינוּ׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H6679A]]"
+- "[[H6806]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H7126G]]"
+- "[[H7093]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 4:18**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
 <small><sub>**BSB:**</sub></small>
 They stalked our every step, so that we could not walk in our streets. Our end drew near, our time ran out, for our end had come!
+<small><sub>**Hebrew:**</sub></small>
+[[H6679A\|צָד֣וּ]] [[H6806\|צְעָדֵ֔י]][[H9025\|נוּ]] [[H9006\|מִ]][[H1980I\|לֶּ֖כֶת]] [[H9003\|בִּ]][[H7339\|רְחֹבֹתֵ֑י]][[H9025\|נוּ]] [[H7126G\|קָרַ֥ב]] [[H7093\|קִצֵּ֛י]][[H9025\|נוּ]] [[H4390\|מָלְא֥וּ]] [[H3117G\|יָמֵ֖י]][[H9025\|נוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֥א]] [[H7093\|קִצֵּֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.17|<< Lamentations 4:17]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.19|Lamentations 4:19 >>]]</td></tr></table>
 
@@ -18,7 +62,7 @@ They stalked our every step, so that we could not walk in our streets. Our end d
 | days our  |**<big>&#8207;[[H3117G\|יָמֵ֖י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ya.Mei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had come  |**<big>&#8207;[[H0935G\|בָ֥א]]&#8207; </big>**| va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| end our  |**<big>&#8207;[[H7093\|קִצֵּֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki.Tzei.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| end our  |**<big>&#8207;[[H7093\|קִצֵּֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki.Tzei.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.17|<< Lamentations 4:17]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.19|Lamentations 4:19 >>]]</td></tr></table>
 
 

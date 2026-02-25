@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 10:20
+type: Verse
+kjv: "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter."
+bsb: "Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech."
+hebrew: "גַּ֣ם בְּמַדָּֽעֲךָ֗ מֶ֚לֶךְ אַל־ תְּקַלֵּ֔ל וּבְחַדְרֵי֙ מִשְׁכָּ֣בְךָ֔ אַל־ תְּקַלֵּ֖ל עָשִׁ֑יר כִּ֣י ע֤וֹף הַשָּׁמַ֙יִם֙ יוֹלִ֣יךְ אֶת־ הַקּ֔וֹל וּבַ֥עַל כְּנָפַ֖יִם יַגֵּ֥יד דָּבָֽר׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic KING|KING]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H4093]]"
+- "[[H9021]]"
+- "[[H4428G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7043]]"
+- "[[H9002]]"
+- "[[H2315]]"
+- "[[H4904]]"
+- "[[H6223]]"
+- "[[H3588A]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H1167I]]"
+- "[[H3671]]"
+- "[[H5046]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 10:20**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
 <small><sub>**BSB:**</sub></small>
 Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H9003\|בְּ]][[H4093\|מַדָּֽעֲ]][[H9021\|ךָ֗]] [[H4428G\|מֶ֚לֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H7043\|תְּקַלֵּ֔ל]] [[H9002\|וּ]][[H9003\|בְ]][[H2315\|חַדְרֵי֙]] [[H4904\|מִשְׁכָּ֣בְ]][[H9021\|ךָ֔]] [[H0408\|אַל]][[H9014\|־]] [[H7043\|תְּקַלֵּ֖ל]] [[H6223\|עָשִׁ֑יר]] [[H3588A\|כִּ֣י]] [[H5775\|ע֤וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H1980J\|יוֹלִ֣יךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6963A\|קּ֔וֹל]] [[H9002\|וּ]][[H1167I\|בַ֥עַל]] [[H3671\|כְּנָפַ֖יִם]] [[H5046\|יַגֵּ֥יד]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic KING|KING]] • [[topic REVERENCE|REVERENCE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
@@ -30,6 +90,6 @@ Do not curse the king even in your thoughts, or curse the rich even in your bedr
 | [the] matter  |**<big>&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
-[^1]: of the wings  | **<big>[[H3671|כְּנָפַיִם]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.na.fa.yim<small><sup>[[HNcbda]]</sup></small> | K
+[^1]: of the wings  | **<big>[[H9009|הַ]]</big><big>[[H3671|כְּנָפַיִם]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.na.fa.yim<small><sup>[[HNcbda]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>הכְּנָפַ֖יִם</big></span>**
 

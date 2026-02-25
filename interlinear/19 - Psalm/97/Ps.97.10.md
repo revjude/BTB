@@ -1,8 +1,62 @@
+---
+title: Psalm 97:10
+type: Verse
+kjv: "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked."
+bsb: "Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked."
+hebrew: "אֹהֲבֵ֥י יְהוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H8130]]"
+- "[[H7451B]]"
+- "[[H8104H]]"
+- "[[H5315H]]"
+- "[[H2623]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7563]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:10**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.
 <small><sub>**BSB:**</sub></small>
 Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אֹהֲבֵ֥י]] [[H3068G\|יְהוָ֗ה]] [[H8130\|שִׂנְא֫וּ]] [[H7451B\|רָ֥ע]] [[H8104H\|שֹׁ֭מֵר]] [[H5315H\|נַפְשׁ֣וֹת]] [[H2623\|חֲסִידָ֑י]][[H9023\|ו]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H5337\|יַצִּילֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HATRED|HATRED]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.9|<< Psalms 97:9]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.11|Psalms 97:11 >>]]</td></tr></table>
 

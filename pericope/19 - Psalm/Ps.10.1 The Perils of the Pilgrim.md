@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Perils of the Pilgrim
+type: Pericope
 pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 10
 book/chapter: "[[Ps.10|Psalm 10]]"
-genre:
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.10.1]]"
 - "[[Ps.10.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.10.18]]"
 ---
 
-[[Ps.10|Psalm 10:1 - Psalm 10:18]]
+<small>[[Ps.10|Psalm 10:1-18]]</small>
 *The Perils of the Pilgrim*
 
 [[Ps.10.1|1]] Why standest thou afar off, O LORD? \[why\] hidest thou \[thyself\] in times of trouble?

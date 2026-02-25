@@ -1,8 +1,59 @@
+---
+title: Isaiah 48:2
+type: Verse
+kjv: "For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts is his name."
+bsb: "who indeed call yourselves after the holy city and lean on the God of Israel; the LORD of Hosts is His name."
+hebrew: "כִּֽי־ מֵעִ֤יר הַקֹּ֙דֶשׁ֙ נִקְרָ֔אוּ וְעַל־ אֱלֹהֵ֥י יִשְׂרָאֵ֖ל נִסְמָ֑כוּ יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃ ס"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H7121H]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5564]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 48:2**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts [is] his name.
 <small><sub>**BSB:**</sub></small>
 who indeed call yourselves after the holy city and lean on the God of Israel; the LORD of Hosts is His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מֵ]][[H5892B\|עִ֤יר]] [[H9009\|הַ]][[H6944G\|קֹּ֙דֶשׁ֙]] [[H7121H\|נִקְרָ֔אוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5564\|נִסְמָ֑כוּ]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.1|<< Isaiah 48:1]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.3|Isaiah 48:3 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ who indeed call yourselves after the holy city and lean on the God of Israel; th
 | they have supported themselves  |**<big>&#8207;[[H5564\|נִסְמָ֑כוּ]]&#8207; </big>**| nis.Ma.khu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.1|<< Isaiah 48:1]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.3|Isaiah 48:3 >>]]</td></tr></table>
 
 

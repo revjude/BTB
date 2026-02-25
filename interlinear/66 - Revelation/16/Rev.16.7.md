@@ -1,10 +1,60 @@
+---
+title: Revelation 16:7
+type: Verse
+kjv: "And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments."
+bsb: "And I heard the altar reply: “Yes, Lord God Almighty, true and just are Your judgments.”"
+greek: "Καὶ ἤκουσα ἄλλου ἐκ τοῦ θυσιαστηρίου λέγοντος· ναὶ κύριε ὁ θεὸς ὁ παντοκράτωρ, ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις σου.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G0243]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3004G]]"
+- "[[G3483]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3841]]"
+- "[[G0228]]"
+- "[[G1342]]"
+- "[[G2920]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 16:7**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous [are] thy judgments.
 <small><sub>**BSB:**</sub></small>
 And I heard the altar reply: “Yes, Lord God Almighty, true and just are Your judgments.”
-<small><sub>**Literal:**</sub></small>
-And I heard other from the altar saying: Yes Lord O God <the> Almighty, true and righteous [are] the judgments of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.6|<< Revelation 16:6]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.8|Revelation 16:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G0243\|ἄλλου]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2379\|θυσιαστηρίου]]  [[G3004G\|λέγοντος·]]  [[G3483\|ναὶ]]  [[G2962G\|κύριε]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3841\|παντοκράτωρ,]]  [[G0228\|ἀληθιναὶ]]  [[G2532\|καὶ]]  [[G1342\|δίκαιαι]]  [[G3588\|αἱ]]  [[G2920\|κρίσεις]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TEMPLE|TEMPLE]] • [[topic TRUTH|TRUTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.6|<< Revelation 16:6]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.8|Revelation 16:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

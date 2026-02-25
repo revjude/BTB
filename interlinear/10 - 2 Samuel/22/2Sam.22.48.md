@@ -1,8 +1,48 @@
+---
+title: 2 Samuel 22:48
+type: Verse
+kjv: "It is God that avengeth me, and that bringeth down the people under me,"
+bsb: "the God who avenges me and brings down nations beneath me,"
+hebrew: "הָאֵ֕ל הַנֹּתֵ֥ן נְקָמֹ֖ת לִ֑י וּמוֹרִ֥יד עַמִּ֖ים תַּחְתֵּֽנִי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H5414G]]"
+- "[[H5360]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H5971A]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:48**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] God that avengeth me, and that bringeth down the people under me,
 <small><sub>**BSB:**</sub></small>
 the God who avenges me and brings down nations beneath me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0410G\|אֵ֕ל]] [[H9009\|הַ]][[H5414G\|נֹּתֵ֥ן]] [[H5360\|נְקָמֹ֖ת]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ]][[H3381\|מוֹרִ֥יד]] [[H5971A\|עַמִּ֖ים]] [[H8478G\|תַּחְתֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.47|<< 2 Samuel 22:47]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.49|2 Samuel 22:49 >>]]</td></tr></table>
 

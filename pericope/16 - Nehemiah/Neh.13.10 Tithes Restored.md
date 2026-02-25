@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Tithes Restored
+type: Pericope
 pericope: "[[Neh.13.10 Tithes Restored|Tithes Restored]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 13
 book/chapter: "[[Neh.13|Nehemiah 13]]"
-genre:
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 5
 verses:
 - "[[Neh.13.10]]"
 - "[[Neh.13.11]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Neh.13.14]]"
 ---
 
-[[Neh.13|Nehemiah 13:10 - Nehemiah 13:14]]
+<small>[[Neh.13|Nehemiah 13:10-14]]</small>
 *Tithes Restored*
 
 [[Neh.13.10|10]] And I perceived that the portions of the Levites had not been given \[them\]: for the Levites and the singers, that did the work, were fled every one to his field.

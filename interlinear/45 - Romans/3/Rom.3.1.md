@@ -1,10 +1,51 @@
+---
+title: Romans 3:1
+type: Verse
+kjv: "What advantage then hath the Jew? or what profit is there of circumcision?"
+bsb: "What, then, is the advantage of being a Jew? Or what is the value of circumcision?"
+greek: "Τί οὖν τὸ περισσὸν τοῦ Ἰουδαίου, ἢ τίς ἡ ὠφέλεια τῆς περιτομῆς;"
+pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4053]]"
+- "[[G2453]]"
+- "[[G2228]]"
+- "[[G5622]]"
+- "[[G4061]]"
+texts:
+- NKO
+---
+
 **Romans 3:1**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What advantage then hath the Jew? or what profit [is there] of circumcision?
 <small><sub>**BSB:**</sub></small>
 What, then, is the advantage of being a Jew? Or what is the value of circumcision?
-<small><sub>**Literal:**</sub></small>
-What then [is] the superiority of the Jew? Or what [is] the benefit of the circumcision?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.29|<< Romans 2:29]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.2|Romans 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G3588\|τὸ]]  [[G4053\|περισσὸν]]  [[G3588\|τοῦ]]  [[G2453\|Ἰουδαίου,]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G5622\|ὠφέλεια]]  [[G3588\|τῆς]]  [[G4061\|περιτομῆς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic LAW|LAW]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.29|<< Romans 2:29]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.2|Romans 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

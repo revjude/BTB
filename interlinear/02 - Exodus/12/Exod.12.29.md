@@ -1,8 +1,80 @@
+---
+title: Exodus 12:29
+type: Verse
+kjv: "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle."
+bsb: "Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock."
+hebrew: "וַיְהִ֣י׀ בַּחֲצִ֣י הַלַּ֗יְלָה וַֽיהוָה֮ הִכָּ֣ה כָל־ בְּכוֹר֮ בְּאֶ֣רֶץ מִצְרַיִם֒ מִבְּכֹ֤ר פַּרְעֹה֙ הַיֹּשֵׁ֣ב עַל־ כִּסְא֔וֹ עַ֚ד בְּכ֣וֹר הַשְּׁבִ֔י אֲשֶׁ֖ר בְּבֵ֣ית הַבּ֑וֹר וְכֹ֖ל בְּכ֥וֹר בְּהֵמָֽה׃"
+pericope: "[[Exod.12.29 The Tenth Plague：Death of the Firstborn|The Tenth Plague：Death of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9006]]"
+- "[[H6547J]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H7628A]]"
+- "[[H0834A]]"
+- "[[H1004B]]"
+- "[[H0953A]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:29**<big><big>[[Exod.12.29 The Tenth Plague：Death of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that [was] in the dungeon; and all the firstborn of cattle.
 <small><sub>**BSB:**</sub></small>
 Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H3915\|לַּ֗יְלָה]] [[H9002\|וַֽ]][[H3068G\|יהוָה֮]] [[H5221\|הִכָּ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H1060\|בְּכוֹר֮]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H9006\|מִ]][[H1060\|בְּכֹ֤ר]] [[H6547J\|פַּרְעֹה֙]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֔]][[H9023\|וֹ]] [[H5704\|עַ֚ד]] [[H1060\|בְּכ֣וֹר]] [[H9009\|הַ]][[H7628A\|שְּׁבִ֔י]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H0953A\|בּ֑וֹר]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H1060\|בְּכ֥וֹר]] [[H0929\|בְּהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic CHILDREN|CHILDREN]] • [[topic CRIMINALS|CRIMINALS]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic MIRACLES|MIRACLES]] • [[topic PASSOVER|PASSOVER]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.28|<< Exodus 12:28]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.30|Exodus 12:30 >>]]</td></tr></table>
 

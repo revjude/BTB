@@ -1,8 +1,57 @@
+---
+title: 1 Kings 1:10
+type: Verse
+kjv: "But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not."
+bsb: "But he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon."
+hebrew: "וְֽאֶת־ נָתָן֩ הַנָּבִ֨יא וּבְנָיָ֜הוּ וְאֶת־ הַגִּבּוֹרִ֛ים וְאֶת־ שְׁלֹמֹ֥ה אָחִ֖יו לֹ֥א קָרָֽא׃"
+pericope: "[[1Kgs.1.5 Adonijah Usurps the Kingdom|Adonijah Usurps the Kingdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5416H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1141G]]"
+- "[[H1368]]"
+- "[[H8010]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H7121G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:10**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.
 <small><sub>**BSB:**</sub></small>
 But he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H5416H\|נָתָן֩]] [[H9009\|הַ]][[H5030\|נָּבִ֨יא]] [[H9002\|וּ]][[H1141G\|בְנָיָ֜הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1368\|גִּבּוֹרִ֛ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֥ה]] [[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H3808\|לֹ֥א]] [[H7121G\|קָרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.9|<< 1 Kings 1:9]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.11|1 Kings 1:11 >>]]</td></tr></table>
 

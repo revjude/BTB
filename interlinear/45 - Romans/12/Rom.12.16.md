@@ -1,10 +1,61 @@
+---
+title: Romans 12:16
+type: Verse
+kjv: "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
+bsb: "Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited."
+greek: "τὸ αὐτὸ εἰς ἀλλήλους φρονοῦντες, μὴ τὰ ὑψηλὰ φρονοῦντες, ἀλλὰ τοῖς ταπεινοῖς συναπαγόμενοι. μὴ γίνεσθε φρόνιμοι παρ᾽ ἑαυτοῖς."
+pericope: "[[Rom.12.14 Forgiveness|Forgiveness]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G5426]]"
+- "[[G3361]]"
+- "[[G5308]]"
+- "[[G0235]]"
+- "[[G5011]]"
+- "[[G4879]]"
+- "[[G1096]]"
+- "[[G5429]]"
+- "[[G3844]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **Romans 12:16**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Be] of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 <small><sub>**BSB:**</sub></small>
 Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited.
-<small><sub>**Literal:**</sub></small>
-the same thing toward one another minding, not the [things] haughty minding, but with the lowly going along. Not do be wise in yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.15|<< Romans 12:15]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.17|Romans 12:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G5426\|φρονοῦντες,]]  [[G3361\|μὴ]]  [[G3588\|τὰ]]  [[G5308\|ὑψηλὰ]]  [[G5426\|φρονοῦντες,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τοῖς]]  [[G5011\|ταπεινοῖς]]  [[G4879\|συναπαγόμενοι.]]  [[G3361\|μὴ]]  [[G1096\|γίνεσθε]]  [[G5429\|φρόνιμοι]]  [[G3844\|παρ᾽]]  [[G1438\|ἑαυτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONCEIT|CONCEIT]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic HUMILITY|HUMILITY]] • [[topic LOVE|LOVE]] • [[topic PRIDE|PRIDE]] • [[topic RELIGION|RELIGION]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.15|<< Romans 12:15]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.17|Romans 12:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 12:16** is...
 > $\quad$ referencing: [[LXX.Prov.3.7|Prov 3:7]]

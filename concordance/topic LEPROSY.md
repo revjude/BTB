@@ -1,11 +1,11 @@
 
 **LEPROSY**
 
-→ Law concerning [[Lev.13|Le 13]]; [[Lev.14|14]]; [[Lev.22.4|22:4]]; [[Num.5.1|Nu 5:1]]-[[Num.5.3|3]]; [[Num.12.14|12:14]]; [[Deut.24.8|De  24:8]]; [[Matt.8.4|Mt 8:4]]; [[Luke.5.14|Lu 5:14]]; [[Luke.17.14|17:14]]
+→ Law concerning [[Lev.13|Le 13]]; [[Lev.14|14]]; [[Lev.22.4|22:4]]; [[Num.5.1|Nu 5:1-3]]; [[Num.12.14|12:14]]; [[Deut.24.8|De  24:8]]; [[Matt.8.4|Mt 8:4]]; [[Luke.5.14|Lu 5:14]]; [[Luke.17.14|17:14]]
 
 → Sent as a judgment on
 
-- Miriam [[Num.12.1|Nu 12:1]]-[[Num.12.10|10]]
+- Miriam [[Num.12.1|Nu 12:1-10]]
 
 - Gehazi [[2Kgs.5.27|2Ki 5:27]]
 
@@ -27,9 +27,9 @@
 
 - Miriam [[Num.12.13|Nu 12:13]],[[Num.12.14|14]]
 
-- Naaman [[2Kgs.5.8|2Ki 5:8]]-[[2Kgs.5.14|14]]
+- Naaman [[2Kgs.5.8|2Ki 5:8-14]]
 
-- By Jesus [[Matt.8.3|Mt 8:3]]; [[Mark.1.40|Mr 1:40]]-[[Mark.1.42|42]]; [[Luke.5.13|Lu 5:13]]; [[Luke.17.12|17:12]]-[[Luke.17.14|14]]
+- By Jesus [[Matt.8.3|Mt 8:3]]; [[Mark.1.40|Mr 1:40-42]]; [[Luke.5.13|Lu 5:13]]; [[Luke.17.12|17:12-14]]
 
 - Disciples empowered to heal [[Matt.10.8|Mt 10:8]]
 

@@ -1,8 +1,75 @@
+---
+title: 1 Kings 9:6
+type: Verse
+kjv: "But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:"
+bsb: "But if indeed you or your sons turn away from following Me and do not keep the commandments and statutes I have set before you, and if you go off to serve and worship other gods,"
+hebrew: "אִם־ שׁ֨וֹב תְּשֻׁב֜וּן אַתֶּ֤ם וּבְנֵיכֶם֙ מֵֽאַחֲרַ֔י וְלֹ֤א תִשְׁמְרוּ֙ מִצְוֹתַ֣י חֻקֹּתַ֔י אֲשֶׁ֥ר נָתַ֖תִּי לִפְנֵיכֶ֑ם וַהֲלַכְתֶּ֗ם וַעֲבַדְתֶּם֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וְהִשְׁתַּחֲוִיתֶ֖ם לָהֶֽם׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H9013]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H2708]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H7812]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:6**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] if ye shall at all turn from following me, ye or your children, and will not keep my commandments [and] my statutes which I have set before you, but go and serve other gods, and worship them:
 <small><sub>**BSB:**</sub></small>
 But if indeed you or your sons turn away from following Me and do not keep the commandments and statutes I have set before you, and if you go off to serve and worship other gods,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7725I\|שׁ֨וֹב]] [[H7725I\|תְּשֻׁב֜וּ]][[H9013\|ן]] [[H0859D\|אַתֶּ֤ם]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9026\|כֶם֙]] [[H9006\|מֵֽ]][[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8104G\|תִשְׁמְרוּ֙]] [[H4687\|מִצְוֹתַ֣]][[H9020\|י]] [[H2708\|חֻקֹּתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414H\|נָתַ֖תִּי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H1980G\|הֲלַכְתֶּ֗ם]] [[H9001\|וַ]][[H5647H\|עֲבַדְתֶּם֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וְ]][[H7812\|הִשְׁתַּחֲוִיתֶ֖ם]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PROBATION|PROBATION]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.5|<< 1 Kings 9:5]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.7|1 Kings 9:7 >>]]</td></tr></table>
 

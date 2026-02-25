@@ -1,10 +1,55 @@
+---
+title: Ephesians 6:2
+type: Verse
+kjv: "Honour thy father and mother; (which is the first commandment with promise;)"
+bsb: "“Honor your father and mother” (which is the first commandment with a promise),"
+greek: "τίμα τὸν πατέρα σου καὶ τὴν μητέρα, ἥτις ἐστὶν ἐντολὴ πρώτη ἐν ἐπαγγελίᾳ,"
+pericope: "[[Eph.6.1 Children and Parents|Children and Parents]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G1785]]"
+- "[[G4413G]]"
+- "[[G1722]]"
+- "[[G1860]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:2**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Honour thy father and mother; (which is the first commandment with promise;)
 <small><sub>**BSB:**</sub></small>
 “Honor your father and mother” (which is the first commandment with a promise),
-<small><sub>**Literal:**</sub></small>
-do honor the Father of you and <the> mother, which is [the] commandment first with a promise,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.1|<< Ephesians 6:1]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.3|Ephesians 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5091\|τίμα]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα,]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G1785\|ἐντολὴ]]  [[G4413G\|πρώτη]]  [[G1722\|ἐν]]  [[G1860\|ἐπαγγελίᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REWARD|REWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.1|<< Ephesians 6:1]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.3|Ephesians 6:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 6:2** is...
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Deut.5.16|Deut 5:16]]

@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 32:36
+type: Verse
+kjv: "For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left."
+bsb: "For the LORD will vindicate His people and have compassion on His servants when He sees that their strength is gone and no one remains, slave or free."
+hebrew: "כִּֽי־ יָדִ֤ין יְהוָה֙ עַמּ֔וֹ וְעַל־ עֲבָדָ֖יו יִתְנֶחָ֑ם כִּ֤י יִרְאֶה֙ כִּי־ אָ֣זְלַת יָ֔ד וְאֶ֖פֶס עָצ֥וּר וְעָזֽוּב׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1777]]"
+- "[[H3068G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H5162G]]"
+- "[[H7200G]]"
+- "[[H0235]]"
+- "[[H3027H]]"
+- "[[H0657A]]"
+- "[[H6113]]"
+- "[[H5800C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:36**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall judge his people, and repent himself for his servants, when he seeth that [their] power is gone, and [there is] none shut up, or left.
 <small><sub>**BSB:**</sub></small>
 For the LORD will vindicate His people and have compassion on His servants when He sees that their strength is gone and no one remains, slave or free.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1777\|יָדִ֤ין]] [[H3068G\|יְהוָה֙]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H5162G\|יִתְנֶחָ֑ם]] [[H3588A\|כִּ֤י]] [[H7200G\|יִרְאֶה֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H0235\|אָ֣זְלַת]] [[H3027H\|יָ֔ד]] [[H9002\|וְ]][[H0657A\|אֶ֖פֶס]] [[H6113\|עָצ֥וּר]] [[H9002\|וְ]][[H5800C\|עָזֽוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.35|<< Deuteronomy 32:35]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.37|Deuteronomy 32:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

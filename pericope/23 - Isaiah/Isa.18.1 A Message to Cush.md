@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Message to Cush
+type: Pericope
 pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 18
 book/chapter: "[[Isa.18|Isaiah 18]]"
-genre:
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.18.1]]"
 - "[[Isa.18.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.18.7]]"
 ---
 
-[[Isa.18|Isaiah 18:1 - Isaiah 18:7]]
+<small>[[Isa.18|Isaiah 18:1-7]]</small>
 *A Message to Cush*
 
 [[Isa.18.1|1]] Woe to the land shadowing with wings, which \[is\] beyond the rivers of Ethiopia:

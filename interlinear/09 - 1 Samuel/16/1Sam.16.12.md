@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 16:12
+type: Verse
+kjv: "And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this is he."
+bsb: "So Jesse sent for his youngest son and brought him in. He was ruddy, with beautiful eyes and a handsome appearance. And the LORD said, “Rise and anoint him, for he is the one.”"
+hebrew: "וַיִּשְׁלַ֤ח וַיְבִיאֵ֙הוּ֙ וְה֣וּא אַדְמוֹנִ֔י עִם־ יְפֵ֥ה עֵינַ֖יִם וְט֣וֹב רֹ֑אִי פ וַיֹּ֧אמֶר יְהוָ֛ה ק֥וּם מְשָׁחֵ֖הוּ כִּֽי־ זֶ֥ה הֽוּא׃"
+pericope: "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H0132]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3303]]"
+- "[[H5869A]]"
+- "[[H2896A]]"
+- "[[H7210]]"
+- "[[H9017]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6965B]]"
+- "[[H4886]]"
+- "[[H3588A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:12**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent, and brought him in. Now he [was] ruddy, [and] withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this [is] he.
 <small><sub>**BSB:**</sub></small>
 So Jesse sent for his youngest son and brought him in. He was ruddy, with beautiful eyes and a handsome appearance. And the LORD said, “Rise and anoint him, for he is the one.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֙]][[H9033\|הוּ֙]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H0132\|אַדְמוֹנִ֔י]] [[H5973A\|עִם]][[H9014\|־]] [[H3303\|יְפֵ֥ה]] [[H5869A\|עֵינַ֖יִם]] [[H9002\|וְ]][[H2896A\|ט֣וֹב]] [[H7210\|רֹ֑אִי]] [[H9017\|פ]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3068G\|יְהוָ֛ה]] [[H6965B\|ק֥וּם]] [[H4886\|מְשָׁחֵ֖]][[H9033\|הוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BEAUTY|BEAUTY]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL|ISRAEL]] • [[topic JESSE|JESSE]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.11|<< 1 Samuel 16:11]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.13|1 Samuel 16:13 >>]]</td></tr></table>
 
@@ -16,7 +75,7 @@ So Jesse sent for his youngest son and brought him in. He was ruddy, with beauti
 | beautiful of  |**<big>&#8207;[[H3303\|יְפֵ֥ה]]&#8207; </big>**| ye.Peh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes  |**<big>&#8207;[[H5869A\|עֵינַ֖יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and good of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Tov<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| appearance  |**<big>&#8207;[[H7210\|רֹ֑אִי]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Ro.'i<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appearance  |**<big>&#8207;[[H7210\|רֹ֑אִי]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Ro.'i<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arise  |**<big>&#8207;[[H6965B\|ק֥וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

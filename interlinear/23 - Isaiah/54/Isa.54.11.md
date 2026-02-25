@@ -1,8 +1,61 @@
+---
+title: Isaiah 54:11
+type: Verse
+kjv: "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
+bsb: "“O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires."
+hebrew: "עֲנִיָּ֥ה סֹעֲרָ֖ה לֹ֣א נֻחָ֑מָה הִנֵּ֨ה אָנֹכִ֜י מַרְבִּ֤יץ בַּפּוּךְ֙ אֲבָנַ֔יִךְ וִיסַדְתִּ֖יךְ בַּסַּפִּירִֽים׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SAPPHIRE|SAPPHIRE]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H6041]]"
+- "[[H5590]]"
+- "[[H3808]]"
+- "[[H5162G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H7257]]"
+- "[[H9003]]"
+- "[[H6320]]"
+- "[[H0068G]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H3245]]"
+- "[[H9032]]"
+- "[[H5601]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:11**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.
 <small><sub>**BSB:**</sub></small>
 “O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires.
+<small><sub>**Hebrew:**</sub></small>
+[[H6041\|עֲנִיָּ֥ה]] [[H5590\|סֹעֲרָ֖ה]] [[H3808\|לֹ֣א]] [[H5162G\|נֻחָ֑מָה]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H7257\|מַרְבִּ֤יץ]] [[H9003\|בַּ]][[H6320\|פּוּךְ֙]] [[H0068G\|אֲבָנַ֔יִ]][[H9022\|ךְ]] [[H9001\|וִ]][[H3245\|יסַדְתִּ֖י]][[H9032\|ךְ]] [[H9003\|בַּ]][[H5601\|סַּפִּירִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SAPPHIRE|SAPPHIRE]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.10|<< Isaiah 54:10]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.12|Isaiah 54:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

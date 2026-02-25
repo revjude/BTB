@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 5:8
+type: Verse
+kjv: "They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about thither."
+bsb: "So they called together all the rulers of the Philistines and asked, “What shall we do with the ark of the God of Israel?” “It must be moved to Gath,” they replied. So they carried away the ark of the God of Israel."
+hebrew: "וַיִּשְׁלְח֡וּ וַיַּאַסְפוּ֩ אֶת־ כָּל־ סַרְנֵ֨י פְלִשְׁתִּ֜ים אֲלֵיהֶ֗ם וַיֹּֽאמְרוּ֙ מַֽה־ נַּעֲשֶׂ֗ה לַֽאֲרוֹן֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ גַּ֣ת יִסֹּ֔ב אֲר֖וֹן אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וַיַּסֵּ֕בּוּ אֶת־ אֲר֖וֹן אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ ס"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GATH|GATH]]"
+- "[[topic LORD|LORD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1661]]"
+- "[[H5437G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 5:8**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about [thither].
 <small><sub>**BSB:**</sub></small>
 So they called together all the rulers of the Philistines and asked, “What shall we do with the ark of the God of Israel?” “It must be moved to Gath,” they replied. So they carried away the ark of the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלְח֡וּ]] [[H9001\|וַ]][[H0622\|יַּאַסְפוּ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5633A\|סַרְנֵ֨י]] [[H6430G\|פְלִשְׁתִּ֜ים]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|נַּעֲשֶׂ֗ה]] [[H9005\|לַֽ]][[H0727\|אֲרוֹן֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H1661\|גַּ֣ת]] [[H5437G\|יִסֹּ֔ב]] [[H0727\|אֲר֖וֹן]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5437G\|יַּסֵּ֕בּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֖וֹן]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATH|GATH]] • [[topic LORD|LORD]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.7|<< 1 Samuel 5:7]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.9|1 Samuel 5:9 >>]]</td></tr></table>
 
@@ -31,7 +86,7 @@ So they called together all the rulers of the Philistines and asked, “What sha
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ark of  |**<big>&#8207;[[H0727\|אֲר֖וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.7|<< 1 Samuel 5:7]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.9|1 Samuel 5:9 >>]]</td></tr></table>
 
 

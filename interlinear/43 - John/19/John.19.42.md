@@ -1,10 +1,56 @@
+---
+title: John 19:42
+type: Verse
+kjv: "There laid they Jesus therefore because of the Jews’ preparation day; for the sepulchre was nigh at hand."
+bsb: "And because it was the Jewish day of Preparation and the tomb was nearby, they placed Jesus there."
+greek: "ἐκεῖ οὖν διὰ τὴν παρασκευὴν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν τὸ μνημεῖον, ἔθηκαν τὸν Ἰησοῦν.¶"
+pericope: "[[John.19.38 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DAY|DAY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PREPARATION DAY|PREPARATION DAY]]"
+strongs:
+- "[[G1563]]"
+- "[[G3767]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3904]]"
+- "[[G2453]]"
+- "[[G3754H]]"
+- "[[G1451]]"
+- "[[G1510]]"
+- "[[G3419]]"
+- "[[G5087]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **John 19:42**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There laid they Jesus therefore because of the Jews’ preparation [day]; for the sepulchre was nigh at hand.
 <small><sub>**BSB:**</sub></small>
 And because it was the Jewish day of Preparation and the tomb was nearby, they placed Jesus there.
-<small><sub>**Literal:**</sub></small>
-There therefore on account of the Preparation of the Jews, because near was the tomb, they laid <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.41|<< John 19:41]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.1|John 20:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1563\|ἐκεῖ]]  [[G3767\|οὖν]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3904\|παρασκευὴν]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G3754H\|ὅτι]]  [[G1451\|ἐγγὺς]]  [[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον,]]  [[G5087\|ἔθηκαν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DAY|DAY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PREPARATION DAY|PREPARATION DAY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.41|<< John 19:41]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.1|John 20:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

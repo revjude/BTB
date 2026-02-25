@@ -1,10 +1,60 @@
+---
+title: Titus 3:12
+type: Verse
+kjv: "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
+bsb: "As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there."
+greek: "Ὅταν πέμψω Ἀρτεμᾶν πρὸς σὲ ἢ Τύχικον, σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν· ἐκεῖ γὰρ κέκρικα παραχειμάσαι."
+pericope: "[[Titus.3.12 Final Remarks and Greetings|Final Remarks and Greetings]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ARTEMAS|ARTEMAS]]"
+- "[[topic NICOPOLIS|NICOPOLIS]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic TYCHICUS|TYCHICUS]]"
+- "[[topic WINTER|WINTER]]"
+strongs:
+- "[[G3752]]"
+- "[[G3992]]"
+- "[[G0734]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2228]]"
+- "[[G5190]]"
+- "[[G4704]]"
+- "[[G2064]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3533]]"
+- "[[G1563]]"
+- "[[G1063]]"
+- "[[G2919]]"
+- "[[G3914]]"
+texts:
+- NKO
+---
+
 **Titus 3:12**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.
 <small><sub>**BSB:**</sub></small>
 As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there.
-<small><sub>**Literal:**</sub></small>
-When I may send Artemas to you or Tychicus, do be diligent to come to me into Nicopolis; there for I have decided to winter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.11|<< Titus 3:11]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.13|Titus 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G3992\|πέμψω]]  [[G0734\|Ἀρτεμᾶν]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2228\|ἢ]]  [[G5190\|Τύχικον,]]  [[G4704\|σπούδασον]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρός]]  [[G3165\|με]]  [[G1519\|εἰς]]  [[G3533\|Νικόπολιν·]]  [[G1563\|ἐκεῖ]]  [[G1063\|γὰρ]]  [[G2919\|κέκρικα]]  [[G3914\|παραχειμάσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTEMAS|ARTEMAS]] • [[topic NICOPOLIS|NICOPOLIS]] • [[topic TITUS|TITUS]] • [[topic TYCHICUS|TYCHICUS]] • [[topic WINTER|WINTER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.11|<< Titus 3:11]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.13|Titus 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

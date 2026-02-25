@@ -1,6 +1,49 @@
+---
+title: LXX Ezekiel 41:23
+type: Verse
+lxx: "And there were two doorways to the temple; and to the holy place two doorways to the two doorways to the turnings;"
+greek: "και δύο θυρώματα τω ναώ και τω αγίω δύο θυρώματα τοις δυσί θυρώμασι τοις στροφωτοίς"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G1417]]"
+- "[[G7699]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1417]]"
+- "[[G7699]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G7699]]"
+- "[[G3588]]"
+- "[[G9211]]"
+---
+
 **LXX Ezekiel 41:23** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] two doorways to the temple; and to the holy place two doorways to the two doorways to the turnings; 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1417\|δύο]] [[G7699\|θυρώματα]] [[G3588\|τω]] [[G3485\|ναώ]] [[G2532\|και]] [[G3588\|τω]] [[G0039\|αγίω]] [[G1417\|δύο]] [[G7699\|θυρώματα]] [[G3588\|τοις]] [[G1417\|δυσί]] [[G7699\|θυρώμασι]] [[G3588\|τοις]] [[G9211\|στροφωτοίς]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
 
@@ -21,6 +64,6 @@ And \[there were\] two doorways to the temple; and to the holy place two doorway
 | doorways | **<big>[[G7699\|θυρώμασι]]</big>** |
 | to the | **<big>[[G3588\|τοις]]</big>** |
 | turnings; | **<big>[[G9211\|στροφωτοίς]]</big>** |
-[[Ezek.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
 
 

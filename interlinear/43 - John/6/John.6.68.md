@@ -1,10 +1,59 @@
+---
+title: John 6:68
+type: Verse
+kjv: "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+bsb: "Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life."
+greek: "ἀπεκρίθη οὖν αὐτῷ Σίμων Πέτρος· κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις,"
+pericope: "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2962G]]"
+- "[[G4314]]"
+- "[[G5101]]"
+- "[[G0565]]"
+- "[[G4487]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2192]]"
+texts:
+- NKO
+- K
+---
+
 **John 6:68**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 <small><sub>**BSB:**</sub></small>
 Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life.
-<small><sub>**Literal:**</sub></small>
-Answered therefore Him Simon Peter; Lord, to whom will we go? declarations of life eternal You have,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.67|<< John 6:67]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.69|John 6:69 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος·]]  [[G2962G\|κύριε,]]  [[G4314\|πρὸς]]  [[G5101\|τίνα]]  [[G0565\|ἀπελευσόμεθα;]]  [[G4487\|ῥήματα]]  [[G2222\|ζωῆς]]  [[G0166\|αἰωνίου]]  [[G2192\|ἔχεις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PETER|PETER]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.67|<< John 6:67]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.69|John 6:69 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

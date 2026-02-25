@@ -1,8 +1,75 @@
+---
+title: Daniel 6:14
+type: Verse
+kjv: "Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him."
+bsb: "As soon as the king heard this, he was deeply distressed and set his mind on delivering Daniel, and he labored until sundown to rescue him."
+aramaic: "אֱדַ֨יִן מַלְכָּ֜א כְּדִ֧י מִלְּתָ֣א שְׁמַ֗ע שַׂגִּיא֙ בְּאֵ֣שׁ עֲל֔וֹהִי וְעַ֧ל דָּנִיֵּ֛אל שָׂ֥ם בָּ֖ל לְשֵׁיזָבוּתֵ֑הּ וְעַד֙ מֶֽעָלֵ֣י שִׁמְשָׁ֔א הֲוָ֥א מִשְׁתַּדַּ֖ר לְהַצָּלוּתֵֽהּ׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DECREES|DECREES]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KING|KING]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9004]]"
+- "[[H1768]]"
+- "[[H4406]]"
+- "[[H8086]]"
+- "[[H7690]]"
+- "[[H0888]]"
+- "[[H5922]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1841H]]"
+- "[[H7761H]]"
+- "[[H1079]]"
+- "[[H9005]]"
+- "[[H7804]]"
+- "[[H5705]]"
+- "[[H4606]]"
+- "[[H8122]]"
+- "[[H1934]]"
+- "[[H7712]]"
+- "[[H5338]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:14**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king, when he heard [these] words, was sore displeased with himself, and set [his] heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.
 <small><sub>**BSB:**</sub></small>
 As soon as the king heard this, he was deeply distressed and set his mind on delivering Daniel, and he labored until sundown to rescue him.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֨יִן]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9004\|כְּ]][[H1768\|דִ֧י]] [[H4406\|מִלְּתָ֣]][[H9010\|א]] [[H8086\|שְׁמַ֗ע]] [[H7690\|שַׂגִּיא֙]] [[H0888\|בְּאֵ֣שׁ]] [[H5922\|עֲל֔וֹ]][[H9033\|הִי]] [[H9002\|וְ]][[H5922\|עַ֧ל]] [[H1841H\|דָּנִיֵּ֛אל]] [[H7761H\|שָׂ֥ם]] [[H1079\|בָּ֖ל]] [[H9005\|לְ]][[H7804\|שֵׁיזָבוּתֵ֑]][[H9033\|הּ]] [[H9002\|וְ]][[H5705\|עַד֙]] [[H4606\|מֶֽעָלֵ֣י]] [[H8122\|שִׁמְשָׁ֔]][[H9010\|א]] [[H1934\|הֲוָ֥א]] [[H7712\|מִשְׁתַּדַּ֖ר]] [[H9005\|לְ]][[H5338\|הַצָּלוּתֵֽ]][[H9033\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic CONSTITUTION|CONSTITUTION]] • [[topic DANIEL|DANIEL]] • [[topic DECREES|DECREES]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic KING|KING]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.13|<< Daniel 6:13]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.15|Daniel 6:15 >>]]</td></tr></table>
 

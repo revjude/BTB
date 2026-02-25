@@ -1,10 +1,53 @@
+---
+title: John 7:25
+type: Verse
+kjv: "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?"
+bsb: "Then some of the people of Jerusalem began to say, “Isn’t this the man they are trying to kill?"
+greek: "ἔλεγον οὖν τινες ἐκ τῶν Ἱεροσολυμιτῶν· οὐχ οὗτός ἐστιν ὃν ζητοῦσιν ἀποκτεῖναι;"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2415]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2212]]"
+- "[[G0615]]"
+texts:
+- NKO
+---
+
 **John 7:25**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said some of them of Jerusalem, Is not this he, whom they seek to kill?
 <small><sub>**BSB:**</sub></small>
 Then some of the people of Jerusalem began to say, “Isn’t this the man they are trying to kill?
-<small><sub>**Literal:**</sub></small>
-Were saying therefore some of those of Jerusalem; Not this is he whom they seek to kill?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.24|<< John 7:24]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.26|John 7:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G5100\|τινες]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2415\|Ἱεροσολυμιτῶν·]]  [[G3756\|οὐχ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3739\|ὃν]]  [[G2212\|ζητοῦσιν]]  [[G0615\|ἀποκτεῖναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.24|<< John 7:24]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.26|John 7:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

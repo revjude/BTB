@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 27:22
+type: Verse
+kjv: "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel."
+bsb: "and over Dan was Azarel son of Jeroham. These were the leaders of the tribes of Israel."
+hebrew: "לְדָ֕ן עֲזַרְאֵ֖ל בֶּן־ יְרֹחָ֑ם אֵ֕לֶּה שָׂרֵ֖י שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.27.16 The Leaders of the Twelve Tribes|The Leaders of the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic AZAREEL|AZAREEL]]"
+- "[[topic JEROHAM|JEROHAM]]"
+strongs:
+- "[[H9005]]"
+- "[[H1835G]]"
+- "[[H5832H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3395L]]"
+- "[[H0428]]"
+- "[[H8269]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:22**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Dan, Azareel the son of Jeroham. These [were] the princes of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 and over Dan was Azarel son of Jeroham. These were the leaders of the tribes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1835G\|דָ֕ן]] [[H5832H\|עֲזַרְאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3395L\|יְרֹחָ֑ם]] [[H0428\|אֵ֕לֶּה]] [[H8269\|שָׂרֵ֖י]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic AZAREEL|AZAREEL]] • [[topic JEROHAM|JEROHAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.21|<< 1 Chronicles 27:21]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.23|1 Chronicles 27:23 >>]]</td></tr></table>
 

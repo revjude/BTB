@@ -1,8 +1,55 @@
+---
+title: Job 7:4
+type: Verse
+kjv: "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
+bsb: "When I lie down I think: ‘When will I get up?’ But the night drags on, and I toss and turn until dawn."
+hebrew: "אִם־ שָׁכַ֗בְתִּי וְאָמַ֗רְתִּי מָתַ֣י אָ֭קוּם וּמִדַּד־ עָ֑רֶב וְשָׂבַ֖עְתִּי נְדֻדִ֣ים עֲדֵי־ נָֽשֶׁף׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7901G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4970]]"
+- "[[H6965B]]"
+- "[[H4058]]"
+- "[[H6153]]"
+- "[[H7646]]"
+- "[[H5076]]"
+- "[[H5704]]"
+- "[[H5399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:4**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.
 <small><sub>**BSB:**</sub></small>
 When I lie down I think: ‘When will I get up?’ But the night drags on, and I toss and turn until dawn.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7901G\|שָׁכַ֗בְתִּי]] [[H9001\|וְ]][[H0559\|אָמַ֗רְתִּי]] [[H4970\|מָתַ֣י]] [[H6965B\|אָ֭קוּם]] [[H9001\|וּ]][[H4058\|מִדַּד]][[H9014\|־]] [[H6153\|עָ֑רֶב]] [[H9001\|וְ]][[H7646\|שָׂבַ֖עְתִּי]] [[H5076\|נְדֻדִ֣ים]] [[H5704\|עֲדֵי]][[H9014\|־]] [[H5399\|נָֽשֶׁף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.3|<< Job 7:3]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.5|Job 7:5 >>]]</td></tr></table>
 

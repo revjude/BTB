@@ -1,8 +1,62 @@
+---
+title: 1 Kings 20:17
+type: Verse
+kjv: "And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria."
+bsb: "And the young officers of the district governors marched out first. Now Ben-hadad had sent out scouts, who reported to him, “Men are marching out of Samaria.”"
+hebrew: "וַיֵּצְא֗וּ נַעֲרֵ֛י שָׂרֵ֥י הַמְּדִינ֖וֹת בָּרִֽאשֹׁנָ֑ה וַיִּשְׁלַ֣ח בֶּן־ הֲדַ֗ד וַיַּגִּ֤ידוּ לוֹ֙ לֵאמֹ֔ר אֲנָשִׁ֕ים יָצְא֖וּ מִשֹּׁמְרֽוֹן׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H5288]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H7971G]]"
+- "[[H1130G]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:17**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria.
 <small><sub>**BSB:**</sub></small>
 And the young officers of the district governors marched out first. Now Ben-hadad had sent out scouts, who reported to him, “Men are marching out of Samaria.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֗וּ]] [[H5288\|נַעֲרֵ֛י]] [[H8269\|שָׂרֵ֥י]] [[H9009\|הַ]][[H4082\|מְּדִינ֖וֹת]] [[H9003\|בָּ]][[H7223G\|רִֽאשֹׁנָ֑ה]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַ֗ד]] [[H9001\|וַ]][[H5046\|יַּגִּ֤ידוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0582\|אֲנָשִׁ֕ים]] [[H3318G\|יָצְא֖וּ]] [[H9006\|מִ]][[H8111\|שֹּׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.16|<< 1 Kings 20:16]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.18|1 Kings 20:18 >>]]</td></tr></table>
 

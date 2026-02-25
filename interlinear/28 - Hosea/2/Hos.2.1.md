@@ -1,8 +1,53 @@
+---
+title: Hosea 2:1
+type: Verse
+kjv: "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah."
+bsb: "“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’"
+hebrew: "אִמְר֥וּ לַאֲחֵיכֶ֖ם עַמִּ֑י וְלַאֲחֽוֹתֵיכֶ֖ם רֻחָֽמָה׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMMI|AMMI]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NAME|NAME]]"
+- "[[topic RUHAMAH|RUHAMAH]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0269]]"
+- "[[H7355]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:1**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 <small><sub>**BSB:**</sub></small>
 “Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אִמְר֥וּ]] [[H9005\|לַ]][[H0251I\|אֲחֵי]][[H9026\|כֶ֖ם]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9002\|וְ]][[H9005\|לַ]][[H0269\|אֲחֽוֹתֵי]][[H9026\|כֶ֖ם]] [[H7355\|רֻחָֽמָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMI|AMMI]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NAME|NAME]] • [[topic RUHAMAH|RUHAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.11|<< Hosea 1:11]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.2|Hosea 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

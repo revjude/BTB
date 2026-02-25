@@ -1,8 +1,62 @@
+---
+title: Nehemiah 13:30
+type: Verse
+kjv: "Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;"
+bsb: "Thus I purified the priests and Levites from everything foreign, and I assigned specific duties to each of the priests and Levites."
+hebrew: "וְטִֽהַרְתִּ֖ים מִכָּל־ נֵכָ֑ר וָאַעֲמִ֧ידָה מִשְׁמָר֛וֹת לַכֹּהֲנִ֥ים וְלַלְוִיִּ֖ם אִ֥ישׁ בִּמְלַאכְתּֽוֹ׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic FUEL|FUEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5236]]"
+- "[[H5975H]]"
+- "[[H9012]]"
+- "[[H4931]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:30**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;
 <small><sub>**BSB:**</sub></small>
 Thus I purified the priests and Levites from everything foreign, and I assigned specific duties to each of the priests and Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2891\|טִֽהַרְתִּ֖י]][[H9038\|ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5236\|נֵכָ֑ר]] [[H9001\|וָ]][[H5975H\|אַעֲמִ֧ידָ]][[H9012\|ה]] [[H4931\|מִשְׁמָר֛וֹת]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֥ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֖ם]] [[H0376I\|אִ֥ישׁ]] [[H9003\|בִּ]][[H4399\|מְלַאכְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic FUEL|FUEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.29|<< Nehemiah 13:29]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.31|Nehemiah 13:31 >>]]</td></tr></table>
 

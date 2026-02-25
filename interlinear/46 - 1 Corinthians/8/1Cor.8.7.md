@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 8:7
+type: Verse
+kjv: "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled."
+bsb: "But not everyone has this knowledge. Some people are still so accustomed to idols that they eat such food as if it were sacrificed to an idol. And since their conscience is weak, it is defiled."
+greek: "ἀλλ᾽ οὐκ ἐν πᾶσιν ἡ γνῶσις· τινὲς δὲ τῇ συνηθείᾳ ἕως ἄρτι τοῦ εἰδώλου ὡς εἰδωλόθυτον ἐσθίουσιν, καὶ ἡ συνείδησις αὐτῶν ἀσθενὴς οὖσα μολύνεται."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1108]]"
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G4914]]"
+- "[[G2193]]"
+- "[[G0737]]"
+- "[[G1497]]"
+- "[[G5613]]"
+- "[[G1494]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4893]]"
+- "[[G0846]]"
+- "[[G0772G]]"
+- "[[G1510]]"
+- "[[G3435]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Corinthians 8:7**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit [there is] not in every man that knowledge: for some with conscience of the idol unto this hour eat [it] as a thing offered unto an idol; and their conscience being weak is defiled.
 <small><sub>**BSB:**</sub></small>
 But not everyone has this knowledge. Some people are still so accustomed to idols that they eat such food as if it were sacrificed to an idol. And since their conscience is weak, it is defiled.
-<small><sub>**Literal:**</sub></small>
-But not in all [is] this knowledge; Some now <the> by custom until now of the idol as of an idol-sacrifice eat, and the conscience of them weak being it is defiled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.6|<< 1 Corinthians 8:6]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.8|1 Corinthians 8:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G3588\|ἡ]]  [[G1108\|γνῶσις·]]  [[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G4914\|συνηθείᾳ]]  [[G2193\|ἕως]]  [[G0737\|ἄρτι]]  [[G3588\|τοῦ]]  [[G1497\|εἰδώλου]]  [[G5613\|ὡς]]  [[G1494\|εἰδωλόθυτον]]  [[G2068\|ἐσθίουσιν,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4893\|συνείδησις]]  [[G0846\|αὐτῶν]]  [[G0772G\|ἀσθενὴς]]  [[G1510\|οὖσα]]  [[G3435\|μολύνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.6|<< 1 Corinthians 8:6]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.8|1 Corinthians 8:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Psalm 45:9
+type: Verse
+kjv: "Kings’ daughters were among thy honourable women: upon thy right hand did stand the queen in gold of Ophir."
+bsb: "The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir."
+hebrew: "בְּנ֣וֹת מְ֭לָכִים בְּיִקְּרוֹתֶ֑יךָ נִצְּבָ֥ה שֵׁגַ֥ל לִֽ֝ימִינְךָ֗ בְּכֶ֣תֶם אוֹפִֽיר׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic OPHIR|OPHIR]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1323G]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H3368]]"
+- "[[H9021]]"
+- "[[H5324]]"
+- "[[H7694]]"
+- "[[H9005]]"
+- "[[H3225G]]"
+- "[[H3800]]"
+- "[[H0211H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:9**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kings’ daughters [were] among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.
 <small><sub>**BSB:**</sub></small>
 The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir.
+<small><sub>**Hebrew:**</sub></small>
+[[H1323G\|בְּנ֣וֹת]] [[H4428G\|מְ֭לָכִים]] [[H9003\|בְּ]][[H3368\|יִקְּרוֹתֶ֑י]][[H9021\|ךָ]] [[H5324\|נִצְּבָ֥ה]] [[H7694\|שֵׁגַ֥ל]] [[H9005\|לִֽ֝]][[H3225G\|ימִינְ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H3800\|כֶ֣תֶם]] [[H0211H\|אוֹפִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOLD|GOLD]] • [[topic HAND|HAND]] • [[topic OPHIR|OPHIR]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.8|<< Psalms 45:8]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.10|Psalms 45:10 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Nehemiah 7:64
+type: Verse
+kjv: "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood."
+bsb: "These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean."
+hebrew: "אֵ֗לֶּה בִּקְשׁ֧וּ כְתָבָ֛ם הַמִּתְיַחְשִׂ֖ים וְלֹ֣א נִמְצָ֑א וַיְגֹֽאֲל֖וּ מִן־ הַכְּהֻנָּֽה׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H0428]]"
+- "[[H1245]]"
+- "[[H3791]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H3187]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9001]]"
+- "[[H1351]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3550]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:64**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These sought their register [among] those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.
 <small><sub>**BSB:**</sub></small>
 These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֗לֶּה]] [[H1245\|בִּקְשׁ֧וּ]] [[H3791\|כְתָבָ֛]][[H9028\|ם]] [[H9009\|הַ]][[H3187\|מִּתְיַחְשִׂ֖ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|נִמְצָ֑א]] [[H9001\|וַ]][[H1351\|יְגֹֽאֲל֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3550\|כְּהֻנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.63|<< Nehemiah 7:63]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.65|Nehemiah 7:65 >>]]</td></tr></table>
 

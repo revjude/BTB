@@ -1,8 +1,60 @@
+---
+title: Exodus 28:23
+type: Verse
+kjv: "And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate."
+bsb: "You are also to make two gold rings and fasten them to the two corners of the breastpiece."
+hebrew: "וְעָשִׂ֙יתָ֙ עַל־ הַחֹ֔שֶׁן שְׁתֵּ֖י טַבְּע֣וֹת זָהָ֑ב וְנָתַתָּ֗ אֶת־ שְׁתֵּי֙ הַטַּבָּע֔וֹת עַל־ שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2833]]"
+- "[[H8147]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H7098]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:23**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.
 <small><sub>**BSB:**</sub></small>
 You are also to make two gold rings and fasten them to the two corners of the breastpiece.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֙יתָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2833\|חֹ֔שֶׁן]] [[H8147\|שְׁתֵּ֖י]] [[H2885\|טַבְּע֣וֹת]] [[H2091\|זָהָ֑ב]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֗]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּי֙]] [[H9009\|הַ]][[H2885\|טַּבָּע֔וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֖י]] [[H7098\|קְצ֥וֹת]] [[H9009\|הַ]][[H2833\|חֹֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.22|<< Exodus 28:22]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.24|Exodus 28:24 >>]]</td></tr></table>
 

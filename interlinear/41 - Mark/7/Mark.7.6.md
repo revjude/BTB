@@ -1,10 +1,76 @@
+---
+title: Mark 7:6
+type: Verse
+kjv: "He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me."
+bsb: "Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written: ‘These people honor Me with their lips, but their hearts are far from Me."
+jesus_said: "Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me."
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς ὅτι· καλῶς ἐπροφήτευσεν Ἠσαΐας περὶ ὑμῶν τῶν ὑποκριτῶν, ὡς γέγραπται ὅτι οὗτος ὁ λαὸς τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽ ἐμοῦ."
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2573]]"
+- "[[G4395]]"
+- "[[G2268]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G5273]]"
+- "[[G5613]]"
+- "[[G1125]]"
+- "[[G3778]]"
+- "[[G2992]]"
+- "[[G5491]]"
+- "[[G3165]]"
+- "[[G5091]]"
+- "[[G2588]]"
+- "[[G4206]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+- ko
+- no
+---
+
 **Mark 7:6**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with [their] lips, but their heart is far from me.
 <small><sub>**BSB:**</sub></small>
 Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written: ‘These people honor Me with their lips, but their hearts are far from Me.
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said to them that: Rightly prophesied Isaiah concerning you <the> hypocrites, as it has been written that This <the> people with the lips Me honors, <the> but the heart of them far away is kept from Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.5|<< Mark 7:5]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.7|Mark 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι·]]  [[G2573\|καλῶς]]  [[G4395\|ἐπροφήτευσεν]]  [[G2268\|Ἠσαΐας]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G3588\|τῶν]]  [[G5273\|ὑποκριτῶν,]]  [[G5613\|ὡς]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G3588\|τοῖς]]  [[G5491\|χείλεσίν]]  [[G3165\|με]]  [[G5091\|τιμᾷ,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G2588\|καρδία]]  [[G0846\|αὐτῶν]]  [[G4206\|πόρρω]]  [[G0568\|ἀπέχει]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PROPHECY|PROPHECY]] • [[topic PURIFICATION|PURIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.5|<< Mark 7:5]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.7|Mark 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 7:6** is...
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]

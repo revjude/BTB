@@ -1,8 +1,68 @@
+---
+title: Jeremiah 33:21
+type: Verse
+kjv: "Then may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers."
+bsb: "then My covenant may also be broken with David My servant and with My ministers the Levites who are priests, so that David will not have a son to reign on his throne."
+hebrew: "גַּם־ בְּרִיתִ֤י תֻפַר֙ אֶת־ דָּוִ֣ד עַבְדִּ֔י מִהְיֽוֹת־ ל֥וֹ בֵ֖ן מֹלֵ֣ךְ עַל־ כִּסְא֑וֹ וְאֶת־ הַלְוִיִּ֥ם הַכֹּהֲנִ֖ים מְשָׁרְתָֽי׃"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H6565A]]"
+- "[[H0854]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1121G]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3548]]"
+- "[[H8334]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:21**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers.
 <small><sub>**BSB:**</sub></small>
 then My covenant may also be broken with David My servant and with My ministers the Levites who are priests, so that David will not have a son to reign on his throne.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H1285\|בְּרִיתִ֤]][[H9020\|י]] [[H6565A\|תֻפַר֙]] [[H0854\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H9006\|מִ]][[H1961\|הְיֽוֹת]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1121G\|בֵ֖ן]] [[H4427A\|מֹלֵ֣ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֥ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H8334\|מְשָׁרְתָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.20|<< Jeremiah 33:20]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.22|Jeremiah 33:22 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Judges 15:18
+type: Verse
+kjv: "And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?"
+bsb: "And being very thirsty, Samson cried out to the LORD, “You have accomplished this great deliverance through Your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”"
+hebrew: "וַיִּצְמָא֮ מְאֹד֒ וַיִּקְרָ֤א אֶל־ יְהוָה֙ וַיֹּאמַ֔ר אַתָּה֙ נָתַ֣תָּ בְיַֽד־ עַבְדְּךָ֔ אֶת־ הַתְּשׁוּעָ֥ה הַגְּדֹלָ֖ה הַזֹּ֑את וְעַתָּה֙ אָמ֣וּת בַּצָּמָ֔א וְנָפַלְתִּ֖י בְּיַ֥ד הָעֲרֵלִֽים׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LEHI|LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6770]]"
+- "[[H3966]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0859A]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8668H]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H4191]]"
+- "[[H6772]]"
+- "[[H5307G]]"
+- "[[H6189]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:18**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?
 <small><sub>**BSB:**</sub></small>
 And being very thirsty, Samson cried out to the LORD, “You have accomplished this great deliverance through Your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6770\|יִּצְמָא֮]] [[H3966\|מְאֹד֒]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H0559\|יֹּאמַ֔ר]] [[H0859A\|אַתָּה֙]] [[H5414G\|נָתַ֣תָּ]] [[H9003\|בְ]][[H3027H\|יַֽד]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8668H\|תְּשׁוּעָ֥ה]] [[H9009\|הַ]][[H1419A\|גְּדֹלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H4191\|אָמ֣וּת]] [[H9003\|בַּ]][[H6772\|צָּמָ֔א]] [[H9001\|וְ]][[H5307G\|נָפַלְתִּ֖י]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הָ]][[H6189\|עֲרֵלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEHI|LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.17|<< Judges 15:17]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.19|Judges 15:19 >>]]</td></tr></table>
 

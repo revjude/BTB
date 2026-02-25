@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Defeat of the Beast and False Prophet
+type: Pericope
 pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 19
 book/chapter: "[[Rev.19|Revelation 19]]"
-genre:
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.19.17]]"
 - "[[Rev.19.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.19.21]]"
 ---
 
-[[Rev.19|Revelation 19:17 - Revelation 19:21]]
+<small>[[Rev.19|Revelation 19:17-21]]</small>
 *Defeat of the Beast and False Prophet*
 
 [[Rev.19.17|17]] And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;

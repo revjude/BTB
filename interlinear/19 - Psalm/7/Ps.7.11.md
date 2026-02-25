@@ -1,8 +1,57 @@
+---
+title: Psalm 7:11
+type: Verse
+kjv: "God judgeth the righteous, and God is angry with the wicked every day."
+bsb: "God is a righteous judge and a God who feels indignation each day."
+hebrew: "אֱ֭לֹהִים שׁוֹפֵ֣ט צַדִּ֑יק וְ֝אֵ֗ל זֹעֵ֥ם בְּכָל־ יֽוֹם׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0430G]]"
+- "[[H8199]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H0410G]]"
+- "[[H2194]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:11**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God judgeth the righteous, and God is angry [with the wicked] every day.
 <small><sub>**BSB:**</sub></small>
 God is a righteous judge and a God who feels indignation each day.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱ֭לֹהִים]] [[H8199\|שׁוֹפֵ֣ט]] [[H6662\|צַדִּ֑יק]] [[H9002\|וְ֝]][[H0410G\|אֵ֗ל]] [[H2194\|זֹעֵ֥ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3117G\|יֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.10|<< Psalms 7:10]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.12|Psalms 7:12 >>]]</td></tr></table>
 

@@ -1,10 +1,66 @@
+---
+title: Colossians 1:6
+type: Verse
+kjv: "Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:"
+bsb: "that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and truly understood the grace of God."
+greek: "τοῦ παρόντος εἰς ὑμᾶς, καθὼς καὶ ἐν παντὶ τῷ κόσμῳ καὶ ἐστὶν καρποφορούμενον καὶ αὐξανόμενον καθὼς καὶ ἐν ὑμῖν ἀφ᾽ ἧς ἡμέρας ἠκούσατε καὶ ἐπέγνωτε τὴν χάριν τοῦ θεοῦ ἐν ἀληθείᾳ,"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3918]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2889]]"
+- "[[G1510]]"
+- "[[G2592]]"
+- "[[G0837]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G0191]]"
+- "[[G1921]]"
+- "[[G5485]]"
+- "[[G2316]]"
+- "[[G0225]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **Colossians 1:6**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which is come unto you, as [it is] in all the world; and bringeth forth fruit, as [it doth] also in you, since the day ye heard [of it], and knew the grace of God in truth:
 <small><sub>**BSB:**</sub></small>
 that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and truly understood the grace of God.
-<small><sub>**Literal:**</sub></small>
-which is being present unto you, even as also in all the world and it is bearing fruit and increasing even as also among you from the day you heard and you knew the grace <the> of God in truth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.5|<< Colossians 1:5]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.7|Colossians 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G3918\|παρόντος]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς,]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G2532\|καὶ]]  [[G1510\|ἐστὶν]]  [[G2592\|καρποφορούμενον]]  [[G2532\|καὶ]]  [[G0837\|αὐξανόμενον]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G2250\|ἡμέρας]]  [[G0191\|ἠκούσατε]]  [[G2532\|καὶ]]  [[G1921\|ἐπέγνωτε]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G0225\|ἀληθείᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic SALVATION|SALVATION]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.5|<< Colossians 1:5]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.7|Colossians 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

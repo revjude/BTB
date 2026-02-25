@@ -1,8 +1,71 @@
+---
+title: 1 Kings 13:33
+type: Verse
+kjv: "After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became one of the priests of the high places."
+bsb: "Even after these events, Jeroboam did not repent of his evil ways, but again he appointed priests for the high places from every class of people. He ordained anyone who desired to be a priest of the high places."
+hebrew: "אַחַר֙ הַדָּבָ֣ר הַזֶּ֔ה לֹֽא־ שָׁ֥ב יָרָבְעָ֖ם מִדַּרְכּ֣וֹ הָרָעָ֑ה וַ֠יָּשָׁב וַיַּ֜עַשׂ מִקְצ֤וֹת הָעָם֙ כֹּהֲנֵ֣י בָמ֔וֹת הֶֽחָפֵץ֙ יְמַלֵּ֣א אֶת־ יָד֔וֹ וִיהִ֖י כֹּהֲנֵ֥י בָמֽוֹת׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725O]]"
+- "[[H3379G]]"
+- "[[H9006]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H7451H]]"
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H6213H]]"
+- "[[H7098]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H1116]]"
+- "[[H2655]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H3027R]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:33**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became [one] of the priests of the high places.
 <small><sub>**BSB:**</sub></small>
 Even after these events, Jeroboam did not repent of his evil ways, but again he appointed priests for the high places from every class of people. He ordained anyone who desired to be a priest of the high places.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחַר֙]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725O\|שָׁ֥ב]] [[H3379G\|יָרָבְעָ֖ם]] [[H9006\|מִ]][[H1870L\|דַּרְכּ֣]][[H9023\|וֹ]] [[H9009\|הָ]][[H7451H\|רָעָ֑ה]] [[H9001\|וַ֠]][[H7725J\|יָּשָׁב]] [[H9001\|וַ]][[H6213H\|יַּ֜עַשׂ]] [[H9006\|מִ]][[H7098\|קְצ֤וֹת]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H3548\|כֹּהֲנֵ֣י]] [[H1116\|בָמ֔וֹת]] [[H9009\|הֶֽ]][[H2655\|חָפֵץ֙]] [[H4390\|יְמַלֵּ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3027R\|יָד֔]][[H9023\|וֹ]] [[H9002\|וִ]][[H1961\|יהִ֖י]] [[H3548\|כֹּהֲנֵ֥י]] [[H1116\|בָמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEROBOAM|JEROBOAM]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.32|<< 1 Kings 13:32]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.34|1 Kings 13:34 >>]]</td></tr></table>
 

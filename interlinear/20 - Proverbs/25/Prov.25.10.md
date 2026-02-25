@@ -1,8 +1,54 @@
+---
+title: Proverbs 25:10
+type: Verse
+kjv: "Lest he that heareth it put thee to shame, and thine infamy turn not away."
+bsb: "lest he who hears you bring shame upon you, and your infamy never go away."
+hebrew: "פֶּֽן־ יְחַסֶּדְךָ֥ שֹׁמֵ֑עַ וְ֝דִבָּתְךָ֗ לֹ֣א תָשֽׁוּב׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]]"
+- "[[topic COMPROMISE|COMPROMISE]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H2616B]]"
+- "[[H9031]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H1681]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:10**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest he that heareth [it] put thee to shame, and thine infamy turn not away.
 <small><sub>**BSB:**</sub></small>
 lest he who hears you bring shame upon you, and your infamy never go away.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּֽן]][[H9014\|־]] [[H2616B\|יְחַסֶּדְ]][[H9031\|ךָ֥]] [[H8085G\|שֹׁמֵ֑עַ]] [[H9002\|וְ֝]][[H1681\|דִבָּתְ]][[H9021\|ךָ֗]] [[H3808\|לֹ֣א]] [[H7725G\|תָשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]] • [[topic COMPROMISE|COMPROMISE]] • [[topic LAWSUITS|LAWSUITS]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.9|<< Proverbs 25:9]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.11|Proverbs 25:11 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 39:27
+type: Verse
+kjv: "When I have brought them again from the people, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations;"
+bsb: "When I bring them back from the peoples and gather them out of the lands of their enemies, I will show My holiness in them in the sight of many nations."
+hebrew: "בְּשׁוֹבְבִ֤י אוֹתָם֙ מִן־ הָ֣עַמִּ֔ים וְקִבַּצְתִּ֣י אֹתָ֔ם מֵֽאַרְצ֖וֹת אֹֽיְבֵיהֶ֑ם וְנִקְדַּ֣שְׁתִּי בָ֔ם לְעֵינֵ֖י הַגּוֹיִ֥ם רַבִּֽים׃"
+pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9003]]"
+- "[[H7725G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H6942K]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:27**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I have brought them again from the people, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations;
 <small><sub>**BSB:**</sub></small>
 When I bring them back from the peoples and gather them out of the lands of their enemies, I will show My holiness in them in the sight of many nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7725G\|שׁוֹבְבִ֤]][[H9040\|י]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֣י]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9006\|מֵֽ]][[H0776G\|אַרְצ֖וֹת]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H6942K\|נִקְדַּ֣שְׁתִּי]] [[H9003\|בָ֔]][[H9038\|ם]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.26|<< Ezekiel 39:26]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.28|Ezekiel 39:28 >>]]</td></tr></table>
 

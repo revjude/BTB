@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 10:7
+type: Verse
+kjv: "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s."
+bsb: "You are looking at outward appearances. If anyone is confident that he belongs to Christ, he should remind himself that we belong to Christ just as much as he does."
+greek: "Τὰ κατὰ πρόσωπον βλέπετε. εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι, τοῦτο λογιζέσθω πάλιν ἐφ᾽ ἑαυτοῦ ὅτι καθὼς αὐτὸς Χριστοῦ, οὕτως καὶ ἡμεῖς Χριστοῦ."
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G0991]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G3982]]"
+- "[[G1438]]"
+- "[[G5547]]"
+- "[[G1511]]"
+- "[[G3778]]"
+- "[[G3049]]"
+- "[[G3825]]"
+- "[[G1909]]"
+- "[[G3754G]]"
+- "[[G2531]]"
+- "[[G0846]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **2 Corinthians 10:7**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he [is] Christ’s, even so [are] we Christ’s.
 <small><sub>**BSB:**</sub></small>
 You are looking at outward appearances. If anyone is confident that he belongs to Christ, he should remind himself that we belong to Christ just as much as he does.
-<small><sub>**Literal:**</sub></small>
-The [things] according to appearance are you looking. If anyone is persuaded in himself of Christ to be, this he should reckon again within himself that even as he [is] of Christ, so also [are] we ourselves of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.6|<< 2 Corinthians 10:6]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.8|2 Corinthians 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὰ]]  [[G2596\|κατὰ]]  [[G4383\|πρόσωπον]]  [[G0991\|βλέπετε.]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G3982\|πέποιθεν]]  [[G1438\|ἑαυτῷ]]  [[G5547\|Χριστοῦ]]  [[G1511\|εἶναι,]]  [[G3778\|τοῦτο]]  [[G3049\|λογιζέσθω]]  [[G3825\|πάλιν]]  [[G1909\|ἐφ᾽]]  [[G1438\|ἑαυτοῦ]]  [[G3754G\|ὅτι]]  [[G2531\|καθὼς]]  [[G0846\|αὐτὸς]]  [[G5547\|Χριστοῦ,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.6|<< 2 Corinthians 10:6]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.8|2 Corinthians 10:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

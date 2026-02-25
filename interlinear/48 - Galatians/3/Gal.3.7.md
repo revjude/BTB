@@ -1,10 +1,52 @@
+---
+title: Galatians 3:7
+type: Verse
+kjv: "Know ye therefore that they which are of faith, the same are the children of Abraham."
+bsb: "Understand, then, that those who have faith are sons of Abraham."
+greek: "γινώσκετε ἄρα ὅτι οἱ ἐκ πίστεως οὗτοι υἱοί εἰσιν Ἀβραάμ."
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1097]]"
+- "[[G0686]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G3778]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **Galatians 3:7**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye therefore that they which are of faith, the same are the children of Abraham.
 <small><sub>**BSB:**</sub></small>
 Understand, then, that those who have faith are sons of Abraham.
-<small><sub>**Literal:**</sub></small>
-do know then that those of faith these sons are of Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.6|<< Galatians 3:6]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.8|Galatians 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|γινώσκετε]]  [[G0686\|ἄρα]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G3778\|οὗτοι]]  [[G5207\|υἱοί]]  [[G1510\|εἰσιν]]  [[G0011\|Ἀβραάμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.6|<< Galatians 3:6]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.8|Galatians 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

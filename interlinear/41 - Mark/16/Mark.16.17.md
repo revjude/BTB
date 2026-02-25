@@ -1,10 +1,64 @@
+---
+title: Mark 16:17
+type: Verse
+kjv: "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
+bsb: "And these signs will accompany those who believe: In My name they will drive out demons; they will speak in new tongues;"
+jesus_said: "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
+greek: "Σημεῖα δὲ τοῖς πιστεύσασιν ταῦτα παρακολουθήσει· ἐν τῷ ὀνόματί μου δαιμόνια ἐκβαλοῦσιν, γλώσσαις λαλήσουσιν καιναῖς,"
+pericope: "[[Mark.16.14 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G4592]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G3778]]"
+- "[[G3877]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1140]]"
+- "[[G1544]]"
+- "[[G1100]]"
+- "[[G2980]]"
+- "[[G2537]]"
+texts:
+- KO
+- K(o)
+- K
+---
+
 **Mark 16:17**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
 <small><sub>**BSB:**</sub></small>
 And these signs will accompany those who believe: In My name they will drive out demons; they will speak in new tongues;
-<small><sub>**Literal:**</sub></small>
-Signs now with those having believed these will accompany: In the name of Me demons they will cast out, with tongues they will speak new,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.16|<< Mark 16:16]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.18|Mark 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4592\|Σημεῖα]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύσασιν]]  [[G3778\|ταῦτα]]  [[G3877\|παρακολουθήσει·]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G1140\|δαιμόνια]]  [[G1544\|ἐκβαλοῦσιν,]]  [[G1100\|γλώσσαις]]  [[G2980\|λαλήσουσιν]]  [[G2537\|καιναῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHARISM|CHARISM]] • [[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.16|<< Mark 16:16]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.18|Mark 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

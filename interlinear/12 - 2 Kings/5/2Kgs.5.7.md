@@ -1,8 +1,83 @@
+---
+title: 2 Kings 5:7
+type: Verse
+kjv: "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me."
+bsb: "When the king of Israel read the letter, he tore his clothes and asked, “Am I God, killing and giving life, that this man expects me to cure a leper? Surely you can see that he is seeking a quarrel with me!”"
+hebrew: "וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ־ יִשְׂרָאֵ֨ל אֶת־ הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֙אמֶר֙ הַאֱלֹהִ֥ים אָ֙נִי֙ לְהָמִ֣ית וּֽלְהַחֲי֔וֹת כִּֽי־ זֶה֙ שֹׁלֵ֣חַ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתּ֑וֹ כִּ֤י אַךְ־ דְּעֽוּ־ נָא֙ וּרְא֔וּ כִּֽי־ מִתְאַנֶּ֥ה ה֖וּא לִֽי׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7121J]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H3588A]]"
+- "[[H2088]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0622]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H6883]]"
+- "[[H0389]]"
+- "[[H3045]]"
+- "[[H4994]]"
+- "[[H7200G]]"
+- "[[H0579]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:7**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, [Am] I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.
 <small><sub>**BSB:**</sub></small>
 When the king of Israel read the letter, he tore his clothes and asked, “Am I God, killing and giving life, that this man expects me to cure a leper? Surely you can see that he is seeking a quarrel with me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9004\|כִּ]][[H7121J\|קְרֹא֩]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֨ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5612A\|סֵּ֜פֶר]] [[H9001\|וַ]][[H7167\|יִּקְרַ֣ע]] [[H0899B\|בְּגָדָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9008\|הַ]][[H0430G\|אֱלֹהִ֥ים]] [[H0589\|אָ֙נִי֙]] [[H9005\|לְ]][[H4191\|הָמִ֣ית]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2421\|הַחֲי֔וֹת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2088\|זֶה֙]] [[H7971G\|שֹׁלֵ֣חַ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9005\|לֶ]][[H0622\|אֱסֹ֥ף]] [[H0376G\|אִ֖ישׁ]] [[H9006\|מִ]][[H6883\|צָּֽרַעְתּ֑]][[H9023\|וֹ]] [[H3588A\|כִּ֤י]] [[H0389\|אַךְ]][[H9014\|־]] [[H3045\|דְּעֽוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H9002\|וּ]][[H7200G\|רְא֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0579\|מִתְאַנֶּ֥ה]] [[H1931\|ה֖וּא]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic MOTIVE|MOTIVE]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.6|<< 2 Kings 5:6]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.8|2 Kings 5:8 >>]]</td></tr></table>
 

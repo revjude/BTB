@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 6:22
+type: Verse
+kjv: "And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:"
+bsb: "Before our eyes the LORD inflicted great and devastating signs and wonders on Egypt, on Pharaoh, and on all his household."
+hebrew: "וַיִּתֵּ֣ן יְהוָ֡ה אוֹתֹ֣ת וּ֠מֹפְתִים גְּדֹלִ֨ים וְרָעִ֧ים׀ בְּמִצְרַ֛יִם בְּפַרְעֹ֥ה וּבְכָל־ בֵּית֖וֹ לְעֵינֵֽינוּ׃"
+pericope: "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H1419A]]"
+- "[[H7451A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H6547J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:22**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
 <small><sub>**BSB:**</sub></small>
 Before our eyes the LORD inflicted great and devastating signs and wonders on Egypt, on Pharaoh, and on all his household.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֣ן]] [[H3068G\|יְהוָ֡ה]] [[H0226G\|אוֹתֹ֣ת]] [[H9002\|וּ֠]][[H4159\|מֹפְתִים]] [[H1419A\|גְּדֹלִ֨ים]] [[H9002\|וְ]][[H7451A\|רָעִ֧ים]][[H9015\|׀]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֛יִם]] [[H9003\|בְּ]][[H6547J\|פַרְעֹ֥ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H5869J\|עֵינֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.21|<< Deuteronomy 6:21]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.23|Deuteronomy 6:23 >>]]</td></tr></table>
 

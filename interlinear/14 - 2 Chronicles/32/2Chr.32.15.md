@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 32:15
+type: Verse
+kjv: "Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?"
+bsb: "So now, do not let Hezekiah deceive you, and do not let him mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!”"
+hebrew: "וְעַתָּ֡ה אַל־ יַשִּׁיא֩ אֶתְכֶ֨ם חִזְקִיָּ֜הוּ וְאַל־ יַסִּ֨ית אֶתְכֶ֣ם כָּזֹאת֮ וְאַל־ תַּאֲמִ֣ינוּ לוֹ֒ כִּי־ לֹ֣א יוּכַ֗ל כָּל־ אֱל֙וֹהַ֙ כָּל־ גּ֣וֹי וּמַמְלָכָ֔ה לְהַצִּ֥יל עַמּ֛וֹ מִיָּדִ֖י וּמִיַּ֣ד אֲבוֹתָ֑י אַ֚ף כִּ֣י אֱֽלֹהֵיכֶ֔ם לֹא־ יַצִּ֥ילוּ אֶתְכֶ֖ם מִיָּדִֽי׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5377]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H2396G]]"
+- "[[H5496]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3605]]"
+- "[[H0433]]"
+- "[[H1471A]]"
+- "[[H4467]]"
+- "[[H5337]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H0001G]]"
+- "[[H0637]]"
+- "[[H0430]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:15**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?
 <small><sub>**BSB:**</sub></small>
 So now, do not let Hezekiah deceive you, and do not let him mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or from the hand of my fathers. How much less will your God deliver you from my hand!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H0408\|אַל]][[H9014\|־]] [[H5377\|יַשִּׁיא֩]] [[H0853\|אֶתְ]][[H9036\|כֶ֨ם]] [[H2396G\|חִזְקִיָּ֜הוּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5496\|יַסִּ֨ית]] [[H0853\|אֶתְ]][[H9036\|כֶ֣ם]] [[H9004\|כָּ]][[H2063\|זֹאת֮]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0539\|תַּאֲמִ֣ינוּ]] [[H9005\|ל]][[H9033\|וֹ֒]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3201\|יוּכַ֗ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0433\|אֱל֙וֹהַ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1471A\|גּ֣וֹי]] [[H9002\|וּ]][[H4467\|מַמְלָכָ֔ה]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027H\|יָּדִ֖]][[H9020\|י]] [[H9002\|וּ]][[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H0001G\|אֲבוֹתָ֑]][[H9020\|י]] [[H0637\|אַ֚ף]] [[H3588A\|כִּ֣י]] [[H0430\|אֱֽלֹהֵי]][[H9026\|כֶ֔ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5337\|יַצִּ֥ילוּ]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.14|<< 2 Chronicles 32:14]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.16|2 Chronicles 32:16 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Mark 10:13
+type: Verse
+kjv: "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them."
+bsb: "Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them."
+greek: "Καὶ προσέφερον αὐτῷ παιδία ἵνα αὐτῶν ἅψηται· οἱ δὲ μαθηταὶ ἐπετίμησαν αὐτοῖς προσφέρουσιν."
+pericope: "[[Mark.10.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G3813]]"
+- "[[G2443]]"
+- "[[G0681]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3101]]"
+- "[[G2008]]"
+texts:
+- NKO
+- N(k)O
+- KO
+---
+
 **Mark 10:13**<big><big>[[Mark.10.13 Jesus Blesses the Children|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they brought young children to him, that he should touch them: and [his] disciples rebuked those that brought [them].
 <small><sub>**BSB:**</sub></small>
 Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them.
-<small><sub>**Literal:**</sub></small>
-And they were bringing to Him little children that them He may touch; <the> But the disciples rebuked those bringing [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.12|<< Mark 10:12]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.14|Mark 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4374\|προσέφερον]]  [[G0846\|αὐτῷ]]  [[G3813\|παιδία]]  [[G2443\|ἵνα]]  [[G0846\|αὐτῶν]]  [[G0681\|ἅψηται·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G2008\|ἐπετίμησαν]]  [[G0846\|αὐτοῖς]]  [[G4374\|προσφέρουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.12|<< Mark 10:12]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.14|Mark 10:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

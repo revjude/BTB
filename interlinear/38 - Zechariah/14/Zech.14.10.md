@@ -1,8 +1,80 @@
+---
+title: Zechariah 14:10
+type: Verse
+kjv: "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king’s winepresses."
+bsb: "All the land from Geba to Rimmon south of Jerusalem will be turned into a plain, but Jerusalem will be raised up and will remain in her place, from the Benjamin Gate to the site of the First Gate to the Corner Gate, and from the Tower of Hananel to the royal winepresses."
+hebrew: "יִסּ֨וֹב כָּל־ הָאָ֤רֶץ כָּעֲרָבָה֙ מִגֶּ֣בַע לְרִמּ֔וֹן נֶ֖גֶב יְרֽוּשָׁלִָ֑ם וְֽרָאֲמָה֩ וְיָשְׁבָ֨ה תַחְתֶּ֜יהָ לְמִשַּׁ֣עַר בִּנְיָמִ֗ן עַד־ מְק֞וֹם שַׁ֤עַר הָֽרִאשׁוֹן֙ עַד־ שַׁ֣עַר הַפִּנִּ֔ים וּמִגְדַּ֣ל חֲנַנְאֵ֔ל עַ֖ד יִקְבֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Zech.14.1 The Destroyers of Jerusalem Destroyed|The Destroyers of Jerusalem Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HANANEEL|HANANEEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RIMMON|RIMMON]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H5437G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H6160G]]"
+- "[[H9006]]"
+- "[[H1387G]]"
+- "[[H9005]]"
+- "[[H7417G]]"
+- "[[H5045H]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H7213]]"
+- "[[H3427]]"
+- "[[H8478I]]"
+- "[[H9034]]"
+- "[[H8179G]]"
+- "[[H1144M]]"
+- "[[H5704]]"
+- "[[H4725]]"
+- "[[H7223H]]"
+- "[[H6434]]"
+- "[[H9002]]"
+- "[[H4026G]]"
+- "[[H2606]]"
+- "[[H3342]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:10**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and [from] the tower of Hananeel unto the king’s winepresses.
 <small><sub>**BSB:**</sub></small>
 All the land from Geba to Rimmon south of Jerusalem will be turned into a plain, but Jerusalem will be raised up and will remain in her place, from the Benjamin Gate to the site of the First Gate to the Corner Gate, and from the Tower of Hananel to the royal winepresses.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437G\|יִסּ֨וֹב]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9004\|כָּ]][[H6160G\|עֲרָבָה֙]] [[H9006\|מִ]][[H1387G\|גֶּ֣בַע]] [[H9005\|לְ]][[H7417G\|רִמּ֔וֹן]] [[H5045H\|נֶ֖גֶב]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H9001\|וְֽ]][[H7213\|רָאֲמָה֩]] [[H9001\|וְ]][[H3427\|יָשְׁבָ֨ה]] [[H8478I\|תַחְתֶּ֜י]][[H9034\|הָ]] [[H9005\|לְ]][[H9006\|מִ]][[H8179G\|שַּׁ֣עַר]] [[H1144M\|בִּנְיָמִ֗ן]] [[H5704\|עַד]][[H9014\|־]] [[H4725\|מְק֞וֹם]] [[H8179G\|שַׁ֤עַר]] [[H9009\|הָֽ]][[H7223H\|רִאשׁוֹן֙]] [[H5704\|עַד]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H6434\|פִּנִּ֔ים]] [[H9002\|וּ]][[H4026G\|מִגְדַּ֣ל]] [[H2606\|חֲנַנְאֵ֔ל]] [[H5704\|עַ֖ד]] [[H3342\|יִקְבֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CHURCH|CHURCH]] • [[topic GEBA|GEBA]] • [[topic GENTILES|GENTILES]] • [[topic HANANEEL|HANANEEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RIMMON|RIMMON]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.9|<< Zechariah 14:9]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.11|Zechariah 14:11 >>]]</td></tr></table>
 

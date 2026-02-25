@@ -1,10 +1,47 @@
+---
+title: Acts 28:12
+type: Verse
+kjv: "And landing at Syracuse, we tarried there three days."
+bsb: "Putting in at Syracuse, we stayed there three days."
+greek: "καὶ καταχθέντες εἰς Συρακούσας ἐπεμείναμεν ἡμέρας τρεῖς,"
+pericope: "[[Acts.28.11 Paul Arrives in Italy|Paul Arrives in Italy]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRACUSE|SYRACUSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2609]]"
+- "[[G1519]]"
+- "[[G4946]]"
+- "[[G1961]]"
+- "[[G2250]]"
+- "[[G5140]]"
+texts:
+- NKO
+---
+
 **Acts 28:12**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And landing at Syracuse, we tarried [there] three days.
 <small><sub>**BSB:**</sub></small>
 Putting in at Syracuse, we stayed there three days.
-<small><sub>**Literal:**</sub></small>
-And having put in at Syracuse we stayed days three,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.11|<< Acts 28:11]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.13|Acts 28:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2609\|καταχθέντες]]  [[G1519\|εἰς]]  [[G4946\|Συρακούσας]]  [[G1961\|ἐπεμείναμεν]]  [[G2250\|ἡμέρας]]  [[G5140\|τρεῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic SYRACUSE|SYRACUSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.11|<< Acts 28:11]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.13|Acts 28:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

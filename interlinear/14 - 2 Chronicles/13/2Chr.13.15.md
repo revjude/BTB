@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 13:15
+type: Verse
+kjv: "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah."
+bsb: "and the men of Judah raised the battle cry. And when they raised the cry, God routed Jeroboam and all Israel before Abijah and Judah."
+hebrew: "וַיָּרִ֖יעוּ אִ֣ישׁ יְהוּדָ֑ה וַיְהִ֗י בְּהָרִ֙יעַ֙ אִ֣ישׁ יְהוּדָ֔ה וְהָאֱלֹהִ֗ים נָגַ֤ף אֶת־ יָֽרָבְעָם֙ וְכָל־ יִשְׂרָאֵ֔ל לִפְנֵ֥י אֲבִיָּ֖ה וִיהוּדָֽה׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7321]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5062]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3379G]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0029I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:15**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah.
 <small><sub>**BSB:**</sub></small>
 and the men of Judah raised the battle cry. And when they raised the cry, God routed Jeroboam and all Israel before Abijah and Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7321\|יָּרִ֖יעוּ]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H7321\|הָרִ֙יעַ֙]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H5062\|נָגַ֤ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3379G\|יָֽרָבְעָם֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0029I\|אֲבִיָּ֖ה]] [[H9002\|וִ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.14|<< 2 Chronicles 13:14]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.16|2 Chronicles 13:16 >>]]</td></tr></table>
 

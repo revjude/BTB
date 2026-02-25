@@ -1,8 +1,67 @@
+---
+title: Exodus 29:35
+type: Verse
+kjv: "And thus shalt thou do unto Aaron, and to his sons, according to all things which I have commanded thee: seven days shalt thou consecrate them."
+bsb: "This is what you are to do for Aaron and his sons based on all that I have commanded you, taking seven days to ordain them."
+hebrew: "וְעָשִׂ֜יתָ לְאַהֲרֹ֤ן וּלְבָנָיו֙ כָּ֔כָה כְּכֹ֥ל אֲשֶׁר־ צִוִּ֖יתִי אֹתָ֑כָה שִׁבְעַ֥ת יָמִ֖ים תְּמַלֵּ֥א יָדָֽם׃"
+pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3602]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H4390]]"
+- "[[H3027R]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:35**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus shalt thou do unto Aaron, and to his sons, according to all [things] which I have commanded thee: seven days shalt thou consecrate them.
 <small><sub>**BSB:**</sub></small>
 This is what you are to do for Aaron and his sons based on all that I have commanded you, taking seven days to ordain them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשִׂ֜יתָ]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֤ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָי]][[H9023\|ו֙]] [[H3602\|כָּ֔כָה]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אֹתָ֑]][[H9031\|כָה]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H4390\|תְּמַלֵּ֥א]] [[H3027R\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.34|<< Exodus 29:34]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.36|Exodus 29:36 >>]]</td></tr></table>
 

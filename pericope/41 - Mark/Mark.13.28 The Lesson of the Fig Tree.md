@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lesson of the Fig Tree
+type: Pericope
 pericope: "[[Mark.13.28 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 13
 book/chapter: "[[Mark.13|Mark 13]]"
-genre:
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.13.28]]"
 - "[[Mark.13.29]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.13.31]]"
 ---
 
-[[Mark.13|Mark 13:28 - Mark 13:31]]
+<small>[[Mark.13|Mark 13:28-31]]</small>
 *The Lesson of the Fig Tree*
 
 [[Mark.13.28|28]] Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:

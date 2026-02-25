@@ -1,10 +1,58 @@
+---
+title: Acts 4:5
+type: Verse
+kjv: "And it came to pass on the morrow, that their rulers, and elders, and scribes,"
+bsb: "The next day the rulers, elders, and scribes assembled in Jerusalem,"
+greek: "Ἐγένετο δὲ ἐπὶ τὴν αὔριον συναχθῆναι αὐτῶν τοὺς ἄρχοντας καὶ τοὺς πρεσβυτέρους καὶ τοὺς γραμματεῖς ἐν Ἰερουσαλὴμ"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0839]]"
+- "[[G4863]]"
+- "[[G0846]]"
+- "[[G0758]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G1122]]"
+- "[[G1722]]"
+- "[[G2419]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 4:5**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that their rulers, and elders, and scribes,
 <small><sub>**BSB:**</sub></small>
 The next day the rulers, elders, and scribes assembled in Jerusalem,
-<small><sub>**Literal:**</sub></small>
-It came to pass then on the next day assembling their <the> rulers and <the> elders and <the> scribes [6] in Jerusalem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.4|<< Acts 4:4]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.6|Acts 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G0839\|αὔριον]]  [[G4863\|συναχθῆναι]]  [[G0846\|αὐτῶν]]  [[G3588\|τοὺς]]  [[G0758\|ἄρχοντας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4245G\|πρεσβυτέρους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1122\|γραμματεῖς]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλὴμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.4|<< Acts 4:4]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.6|Acts 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

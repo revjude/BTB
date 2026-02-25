@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Witness of Scripture
+type: Pericope
 pericope: "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: John
 chapter: 5
 book/chapter: "[[John.5|John 5]]"
-genre:
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 9
 verses:
 - "[[John.5.39]]"
 - "[[John.5.40]]"
@@ -27,7 +34,7 @@ verses:
 - "[[John.5.47]]"
 ---
 
-[[John.5|John 5:39 - John 5:47]]
+<small>[[John.5|John 5:39-47]]</small>
 *The Witness of Scripture*
 
 [[John.5.39|39]] Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.

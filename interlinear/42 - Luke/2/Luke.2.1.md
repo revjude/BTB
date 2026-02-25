@@ -1,10 +1,63 @@
+---
+title: Luke 2:1
+type: Verse
+kjv: "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed."
+bsb: "Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire."
+greek: "Ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις ἐξῆλθεν δόγμα παρὰ Καίσαρος Αὐγούστου ἀπογράφεσθαι πᾶσαν τὴν οἰκουμένην."
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AUGUSTUS|AUGUSTUS]]"
+- "[[topic CAESAR|CAESAR]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G1831]]"
+- "[[G1378]]"
+- "[[G3844]]"
+- "[[G2541]]"
+- "[[G0828]]"
+- "[[G0583]]"
+- "[[G3956]]"
+- "[[G3625]]"
+texts:
+- NKO
+---
+
 **Luke 2:1**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.
 <small><sub>**BSB:**</sub></small>
 Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in the days those went out a decree from Caesar Augustus to register all the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.80|<< Luke 1:80]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.2|Luke 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις]]  [[G1831\|ἐξῆλθεν]]  [[G1378\|δόγμα]]  [[G3844\|παρὰ]]  [[G2541\|Καίσαρος]]  [[G0828\|Αὐγούστου]]  [[G0583\|ἀπογράφεσθαι]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AUGUSTUS|AUGUSTUS]] • [[topic CAESAR|CAESAR]] • [[topic CENSUS|CENSUS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]] • [[topic TAX|TAX]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.80|<< Luke 1:80]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.2|Luke 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

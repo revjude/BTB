@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 3:12
+type: Verse
+kjv: "And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites."
+bsb: "So at that time we took possession of this land. To the Reubenites and Gadites I gave the land beyond Aroer along the Arnon Valley, and half the hill country of Gilead, along with its cities."
+hebrew: "וְאֶת־ הָאָ֧רֶץ הַזֹּ֛את יָרַ֖שְׁנוּ בָּעֵ֣ת הַהִ֑וא מֵעֲרֹעֵ֞ר אֲשֶׁר־ עַל־ נַ֣חַל אַרְנֹ֗ן וַחֲצִ֤י הַֽר־ הַגִּלְעָד֙ וְעָרָ֔יו נָתַ֕תִּי לָרֻֽאוּבֵנִ֖י וְלַגָּדִֽי׃"
+pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AROER|AROER]]"
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GAD|GAD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3423H]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H6177H]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H2677]]"
+- "[[H2022H]]"
+- "[[H1568G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H7206]]"
+- "[[H1425]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:12**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this land, [which] we possessed at that time, from Aroer, which [is] by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
 <small><sub>**BSB:**</sub></small>
 So at that time we took possession of this land. To the Reubenites and Gadites I gave the land beyond Aroer along the Arnon Valley, and half the hill country of Gilead, along with its cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H3423H\|יָרַ֖שְׁנוּ]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑וא]] [[H9006\|מֵ]][[H6177H\|עֲרֹעֵ֞ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H5158N\|נַ֣חַל]] [[H0769\|אַרְנֹ֗ן]] [[H9002\|וַ]][[H2677\|חֲצִ֤י]] [[H2022H\|הַֽר]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָד֙]] [[H9002\|וְ]][[H5892B\|עָרָ֔י]][[H9023\|ו]] [[H5414G\|נָתַ֕תִּי]] [[H9005\|לָ]][[H7206\|רֻֽאוּבֵנִ֖י]] [[H9002\|וְ]][[H9005\|לַ]][[H1425\|גָּדִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AROER|AROER]] • [[topic BASHAN|BASHAN]] • [[topic GAD|GAD]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.11|<< Deuteronomy 3:11]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.13|Deuteronomy 3:13 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Judges 16:28
+type: Verse
+kjv: "And Samson called unto the LORD, and said, O Lord GOD, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes."
+bsb: "Then Samson called out to the LORD: “O Lord GOD, please remember me. Strengthen me, O God, just once more, so that with one vengeful blow I may pay back the Philistines for my two eyes.”"
+hebrew: "וַיִּקְרָ֥א שִׁמְשׁ֛וֹן אֶל־ יְהוָ֖ה וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֡ה זָכְרֵ֣נִי נָא֩ וְחַזְּקֵ֨נִי נָ֜א אַ֣ךְ הַפַּ֤עַם הַזֶּה֙ הָאֱלֹהִ֔ים וְאִנָּקְמָ֧ה נְקַם־ אַחַ֛ת מִשְּׁתֵ֥י עֵינַ֖י מִפְּלִשְׁתִּֽים׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H8123]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H2388G]]"
+- "[[H0389]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H2088]]"
+- "[[H0430G]]"
+- "[[H5358]]"
+- "[[H5359]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H8147]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:28**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson called unto the LORD, and said, O Lord GOD, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
 <small><sub>**BSB:**</sub></small>
 Then Samson called out to the LORD: “O Lord GOD, please remember me. Strengthen me, O God, just once more, so that with one vengeful blow I may pay back the Philistines for my two eyes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H8123\|שִׁמְשׁ֛וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יֱהֹוִ֡ה]] [[H2142\|זָכְרֵ֣]][[H9030\|נִי]] [[H4994\|נָא֩]] [[H9002\|וְ]][[H2388G\|חַזְּקֵ֨]][[H9030\|נִי]] [[H4994\|נָ֜א]] [[H0389\|אַ֣ךְ]] [[H9009\|הַ]][[H6471\|פַּ֤עַם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H5358\|אִנָּקְמָ֧ה]] [[H5359\|נְקַם]][[H9014\|־]] [[H0259\|אַחַ֛ת]] [[H9006\|מִ]][[H8147\|שְּׁתֵ֥י]] [[H5869A\|עֵינַ֖]][[H9020\|י]] [[H9006\|מִ]][[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic PRAYER|PRAYER]] • [[topic REVENGE|REVENGE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.27|<< Judges 16:27]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.29|Judges 16:29 >>]]</td></tr></table>
 

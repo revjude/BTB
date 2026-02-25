@@ -1,8 +1,59 @@
+---
+title: Psalm 21:3
+type: Verse
+kjv: "For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head."
+bsb: "For You welcomed him with rich blessings; You placed on his head a crown of pure gold."
+hebrew: "כִּֽי־ תְ֭קַדְּמֶנּוּ בִּרְכ֣וֹת ט֑וֹב תָּשִׁ֥ית לְ֝רֹאשׁ֗וֹ עֲטֶ֣רֶת פָּֽז׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6923]]"
+- "[[H9033]]"
+- "[[H1293]]"
+- "[[H2896B]]"
+- "[[H7896G]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5850]]"
+- "[[H6337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 21:3**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
 <small><sub>**BSB:**</sub></small>
 For You welcomed him with rich blessings; You placed on his head a crown of pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6923\|תְ֭קַדְּמֶ]][[H9033\|נּוּ]] [[H1293\|בִּרְכ֣וֹת]] [[H2896B\|ט֑וֹב]] [[H7896G\|תָּשִׁ֥ית]] [[H9005\|לְ֝]][[H7218A\|רֹאשׁ֗]][[H9023\|וֹ]] [[H5850\|עֲטֶ֣רֶת]] [[H6337\|פָּֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CROWN|CROWN]] • [[topic GOD|GOD]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.2|<< Psalms 21:2]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.4|Psalms 21:4 >>]]</td></tr></table>
 

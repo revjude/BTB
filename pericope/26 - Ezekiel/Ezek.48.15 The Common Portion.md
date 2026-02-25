@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Common Portion
+type: Pericope
 pericope: "[[Ezek.48.15 The Common Portion|The Common Portion]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.48.15]]"
 - "[[Ezek.48.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.48.20]]"
 ---
 
-[[Ezek.48|Ezekiel 48:15 - Ezekiel 48:20]]
+<small>[[Ezek.48|Ezekiel 48:15-20]]</small>
 *The Common Portion*
 
 [[Ezek.48.15|15]] And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane \[place\] for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.

@@ -1,10 +1,64 @@
+---
+title: Matthew 2:1
+type: Verse
+kjv: "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+bsb: "After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem,"
+greek: "Τοῦ δὲ Ἰησοῦ γεννηθέντος ἐν Βηθλέεμ τῆς Ἰουδαίας ἐν ἡμέραις Ἡρῴδου τοῦ βασιλέως ἰδοὺ μάγοι ἀπὸ ἀνατολῶν παρεγένοντο εἰς Ἱεροσόλυμα"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G1080]]"
+- "[[G1722]]"
+- "[[G0965]]"
+- "[[G2449]]"
+- "[[G2250]]"
+- "[[G2264G]]"
+- "[[G0935]]"
+- "[[G2400]]"
+- "[[G3097]]"
+- "[[G0575]]"
+- "[[G0395]]"
+- "[[G3854]]"
+- "[[G1519]]"
+- "[[G2414]]"
+texts:
+- NKO
+---
+
 **Matthew 2:1**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 <small><sub>**BSB:**</sub></small>
 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem,
-<small><sub>**Literal:**</sub></small>
-<the> Now Jesus having been born in Bethlehem <the> of Judea in [the] days of Herod the king behold Magi from [the] east arrived in Jerusalem<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.25|<< Matthew 1:25]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.2|Matthew 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦ]]  [[G1080\|γεννηθέντος]]  [[G1722\|ἐν]]  [[G0965\|Βηθλέεμ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G1722\|ἐν]]  [[G2250\|ἡμέραις]]  [[G2264G\|Ἡρῴδου]]  [[G3588\|τοῦ]]  [[G0935\|βασιλέως]]  [[G2400\|ἰδοὺ]]  [[G3097\|μάγοι]]  [[G0575\|ἀπὸ]]  [[G0395\|ἀνατολῶν]]  [[G3854\|παρεγένοντο]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic SEEKERS|SEEKERS]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.25|<< Matthew 1:25]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.2|Matthew 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

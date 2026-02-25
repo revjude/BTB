@@ -1,6 +1,54 @@
+---
+title: LXX Psalm 104:12
+type: Verse
+lxx: "by them the winged creatures of the heaven shall encamp; from between the rocks they shall give out a sound;"
+greek: "επ΄ αυτά τα πετεινά του ουρανού κατασκηνώσει εκ μέσου των πετρών δώσουσι φωνήν"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4071]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2681]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G4073]]"
+- "[[G1325]]"
+- "[[G5456]]"
+---
+
 **LXX Psalm 104:12** 
 <small><sub>**LXX:**</sub></small>
 by them the winged creatures of the heaven shall encamp; from between the rocks they shall give out a sound; 
+<small><sub>**Greek:**</sub></small>
+[[G1909\|επ΄]] [[G1473\|αυτά]] [[G3588\|τα]] [[G4071\|πετεινά]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2681\|κατασκηνώσει]] [[G1537\|εκ]] [[G3319\|μέσου]] [[G3588\|των]] [[G4073\|πετρών]] [[G1325\|δώσουσι]] [[G5456\|φωνήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.104.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.11|<< Psalm 104:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.13|Psalm 104:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -23,6 +71,6 @@ by them the winged creatures of the heaven shall encamp; from between the rocks 
 | rocks | **<big>[[G4073\|πετρών]]</big>** |
 | they shall give out | **<big>[[G1325\|δώσουσι]]</big>** |
 | a sound; | **<big>[[G5456\|φωνήν]]</big>** |
-[[Ps.104.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.11|<< Psalm 104:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.13|Psalm 104:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.11|<< Psalm 104:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.13|Psalm 104:13 >>]]</td></tr></table>
 
 

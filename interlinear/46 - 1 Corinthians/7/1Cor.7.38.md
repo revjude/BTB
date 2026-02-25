@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 7:38
+type: Verse
+kjv: "So then he that giveth her in marriage doeth well; but he that giveth her not in marriage doeth better."
+bsb: "So then, he who marries the virgin does well, but he who does not marry her does even better."
+greek: "ὥστε καὶ ὁ δὲ γαμίζων τὴν ἑαυτοῦ παρθένον καλῶς ποιεῖ, καὶ ὁ μὴ γαμίζων κρεῖσσον ποιήσει.¶"
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G5620]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1061]]"
+- "[[G1438]]"
+- "[[G3933]]"
+- "[[G2573]]"
+- "[[G4160G]]"
+- "[[G3361]]"
+- "[[G2908]]"
+texts:
+- NKO
+- o
+- N(k)O
+- NO
+---
+
 **1 Corinthians 7:38**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then he that giveth [her] in marriage doeth well; but he that giveth [her] not in marriage doeth better.
 <small><sub>**BSB:**</sub></small>
 So then, he who marries the virgin does well, but he who does not marry her does even better.
-<small><sub>**Literal:**</sub></small>
-So then also the [one] now giving in marriage <the> his own virgin well does, and the [one] not giving in marriage better will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.37|<< 1 Corinthians 7:37]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.39|1 Corinthians 7:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1061\|γαμίζων]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G3933\|παρθένον]]  [[G2573\|καλῶς]]  [[G4160G\|ποιεῖ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G1061\|γαμίζων]]  [[G2908\|κρεῖσσον]]  [[G4160G\|ποιήσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.37|<< 1 Corinthians 7:37]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.39|1 Corinthians 7:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

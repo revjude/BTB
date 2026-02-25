@@ -1,10 +1,66 @@
+---
+title: Luke 1:28
+type: Verse
+kjv: "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women."
+bsb: "The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.”"
+greek: "Καὶ εἰσελθὼν ὁ ἄγγελος πρὸς αὐτὴν εἶπεν· χαῖρε, κεχαριτωμένη· ὁ κύριος μετὰ σοῦ εὐλογημένη σὺ ἐν γυναιξίν."
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G5463]]"
+- "[[G5487]]"
+- "[[G2962G]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G2127]]"
+- "[[G1722]]"
+- "[[G1135G]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 1:28**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel came in unto her, and said, Hail, [thou that art] highly favoured, the Lord [is] with thee: blessed [art] thou among women.
 <small><sub>**BSB:**</sub></small>
 The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.”
-<small><sub>**Literal:**</sub></small>
-And having come <the> angel to her he said; Greetings! you graciously favored; The Lord [is] with you. blessed [are] you yourself among women.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.27|<< Luke 1:27]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.29|Luke 1:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσελθὼν]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὴν]]  [[G2036\|εἶπεν·]]  [[G5463\|χαῖρε,]]  [[G5487\|κεχαριτωμένη·]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3326\|μετὰ]]  [[G4771\|σοῦ]]  [[G2127\|εὐλογημένη]]  [[G4771\|σὺ]]  [[G1722\|ἐν]]  [[G1135G\|γυναιξίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GABRIEL|GABRIEL]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.27|<< Luke 1:27]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.29|Luke 1:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 8:2
+type: Verse
+kjv: "And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month."
+bsb: "And all the men of Israel came together to King Solomon at the feast in the seventh month, the month of Ethanim."
+hebrew: "וַיִּקָּ֨הֲל֜וּ אֶל־ הַמֶּ֤לֶךְ שְׁלֹמֹה֙ כָּל־ אִ֣ישׁ יִשְׂרָאֵ֔ל בְּיֶ֥רַח הָאֵֽתָנִ֖ים בֶּחָ֑ג ה֖וּא הַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃"
+pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3391]]"
+- "[[H0388]]"
+- "[[H2282]]"
+- "[[H1931]]"
+- "[[H2320G]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:2**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which [is] the seventh month.
 <small><sub>**BSB:**</sub></small>
 And all the men of Israel came together to King Solomon at the feast in the seventh month, the month of Ethanim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יִּקָּ֨הֲל֜וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H8010\|שְׁלֹמֹה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H3391\|יֶ֥רַח]] [[H9009\|הָ]][[H0388\|אֵֽתָנִ֖ים]] [[H9003\|בֶּ]][[H2282\|חָ֑ג]] [[H1931\|ה֖וּא]] [[H9009\|הַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHANIM|ETHANIM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.1|<< 1 Kings 8:1]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.3|1 Kings 8:3 >>]]</td></tr></table>
 

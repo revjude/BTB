@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 9:13
+type: Verse
+kjv: "And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God."
+bsb: "and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God."
+hebrew: "וַאֲחֵיהֶ֗ם רָאשִׁים֙ לְבֵ֣ית אֲבוֹתָ֔ם אֶ֕לֶף וּשְׁבַ֥ע מֵא֖וֹת וְשִׁשִּׁ֑ים גִּבּ֣וֹרֵי חֵ֔יל מְלֶ֖אכֶת עֲבוֹדַ֥ת בֵּית־ הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H7218H]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H8346]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:13**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
 <small><sub>**BSB:**</sub></small>
 and 1,760 of their relatives, the heads of their families, able men for the work of the service of the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֗ם]] [[H7218H\|רָאשִׁים֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H0505G\|אֶ֕לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֑ים]] [[H1368\|גִּבּ֣וֹרֵי]] [[H2428G\|חֵ֔יל]] [[H4399\|מְלֶ֖אכֶת]] [[H5656H\|עֲבוֹדַ֥ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.12|<< 1 Chronicles 9:12]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.14|1 Chronicles 9:14 >>]]</td></tr></table>
 

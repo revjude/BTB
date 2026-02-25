@@ -1,10 +1,69 @@
+---
+title: Mark 12:7
+type: Verse
+kjv: "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours."
+bsb: "But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’"
+jesus_said: "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours."
+greek: "ἐκεῖνοι δὲ οἱ γεωργοὶ πρὸς ἑαυτοὺς εἶπαν ὅτι οὗτός ἐστιν ὁ κληρονόμος· δεῦτε ἀποκτείνωμεν αὐτόν, καὶ ἡμῶν ἔσται ἡ κληρονομία."
+pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1092]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2818]]"
+- "[[G1205]]"
+- "[[G0615]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G2817]]"
+texts:
+- NKO
+---
+
 **Mark 12:7**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.
 <small><sub>**BSB:**</sub></small>
 But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’
-<small><sub>**Literal:**</sub></small>
-Those however <the> farmers to themselves they said that This is the heir; come let us kill him, and ours will be the inheritance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.6|<< Mark 12:6]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.8|Mark 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|ἐκεῖνοι]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1092\|γεωργοὶ]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτοὺς]]  [[G2036\|εἶπαν]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2818\|κληρονόμος·]]  [[G1205\|δεῦτε]]  [[G0615\|ἀποκτείνωμεν]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G3165\|ἡμῶν]]  [[G1510\|ἔσται]]  [[G3588\|ἡ]]  [[G2817\|κληρονομία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.6|<< Mark 12:6]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.8|Mark 12:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

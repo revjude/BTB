@@ -1,8 +1,56 @@
+---
+title: Numbers 2:22
+type: Verse
+kjv: "Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni."
+bsb: "Next will be the tribe of Benjamin. The leader of the Benjamites is Abidan son of Gideoni,"
+hebrew: "וּמַטֵּ֖ה בִּנְיָמִ֑ן וְנָשִׂיא֙ לִבְנֵ֣י בִנְיָמִ֔ן אֲבִידָ֖ן בֶּן־ גִּדְעֹנִֽי׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GIDEONI|GIDEONI]]"
+strongs:
+- "[[H9002]]"
+- "[[H4294H]]"
+- "[[H1144G]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0027]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:22**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the tribe of Benjamin: and the captain of the sons of Benjamin [shall be] Abidan the son of Gideoni.
 <small><sub>**BSB:**</sub></small>
 Next will be the tribe of Benjamin. The leader of the Benjamites is Abidan son of Gideoni,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4294H\|מַטֵּ֖ה]] [[H1144G\|בִּנְיָמִ֑ן]] [[H9002\|וְ]][[H5387A\|נָשִׂיא֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H1144G\|בִנְיָמִ֔ן]] [[H0027\|אֲבִידָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1441\|גִּדְעֹנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic GIDEONI|GIDEONI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.21|<< Numbers 2:21]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.23|Numbers 2:23 >>]]</td></tr></table>
 

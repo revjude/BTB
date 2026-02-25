@@ -1,8 +1,55 @@
+---
+title: Psalm 44:25
+type: Verse
+kjv: "For our soul is bowed down to the dust: our belly cleaveth unto the earth."
+bsb: "For our soul has sunk to the dust; our bodies cling to the earth."
+hebrew: "כִּ֤י שָׁ֣חָה לֶעָפָ֣ר נַפְשֵׁ֑נוּ דָּבְקָ֖ה לָאָ֣רֶץ בִּטְנֵֽנוּ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BELLY|BELLY]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7743]]"
+- "[[H9005]]"
+- "[[H6083]]"
+- "[[H5315G]]"
+- "[[H9025]]"
+- "[[H1692]]"
+- "[[H0776H]]"
+- "[[H0990G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:25**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For our soul is bowed down to the dust: our belly cleaveth unto the earth.
 <small><sub>**BSB:**</sub></small>
 For our soul has sunk to the dust; our bodies cling to the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7743\|שָׁ֣חָה]] [[H9005\|לֶ]][[H6083\|עָפָ֣ר]] [[H5315G\|נַפְשֵׁ֑]][[H9025\|נוּ]] [[H1692\|דָּבְקָ֖ה]] [[H9005\|לָ]][[H0776H\|אָ֣רֶץ]] [[H0990G\|בִּטְנֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BELLY|BELLY]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.24|<< Psalms 44:24]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.26|Psalms 44:26 >>]]</td></tr></table>
 

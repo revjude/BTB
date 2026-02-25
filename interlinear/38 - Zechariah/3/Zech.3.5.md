@@ -1,8 +1,61 @@
+---
+title: Zechariah 3:5
+type: Verse
+kjv: "And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by."
+bsb: "Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by."
+hebrew: "וָאֹמַ֕ר יָשִׂ֛ימוּ צָנִ֥יף טָה֖וֹר עַל־ רֹאשׁ֑וֹ וַיָּשִׂימוּ֩ הַצָּנִ֨יף הַטָּה֜וֹר עַל־ רֹאשׁ֗וֹ וַיַּלְבִּשֻׁ֙הוּ֙ בְּגָדִ֔ים וּמַלְאַ֥ךְ יְהוָ֖ה עֹמֵֽד׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7760H]]"
+- "[[H6797]]"
+- "[[H2889]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3847]]"
+- "[[H9033]]"
+- "[[H0899B]]"
+- "[[H9002]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:5**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by.
 <small><sub>**BSB:**</sub></small>
 Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H7760H\|יָשִׂ֛ימוּ]] [[H6797\|צָנִ֥יף]] [[H2889\|טָה֖וֹר]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7760H\|יָּשִׂימוּ֩]] [[H9009\|הַ]][[H6797\|צָּנִ֨יף]] [[H9009\|הַ]][[H2889\|טָּה֜וֹר]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H3847\|יַּלְבִּשֻׁ֙]][[H9033\|הוּ֙]] [[H0899B\|בְּגָדִ֔ים]] [[H9002\|וּ]][[H4397H\|מַלְאַ֥ךְ]] [[H3068G\|יְהוָ֖ה]] [[H5975G\|עֹמֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.4|<< Zechariah 3:4]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.6|Zechariah 3:6 >>]]</td></tr></table>
 

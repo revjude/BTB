@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 28:6
+type: Verse
+kjv: "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the LORD God of their fathers."
+bsb: "For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This happened because they had forsaken the LORD, the God of their fathers."
+hebrew: "וַיַּהֲרֹג֩ פֶּ֨קַח בֶּן־ רְמַלְיָ֜הוּ בִּֽיהוּדָ֗ה מֵאָ֨ה וְעֶשְׂרִ֥ים אֶ֛לֶף בְּי֥וֹם אֶחָ֖ד הַכֹּ֣ל בְּנֵי־ חָ֑יִל בְּעָזְבָ֕ם אֶת־ יְהוָ֖ה אֱלֹהֵ֥י אֲבוֹתָֽם׃"
+pericope: "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REMALIAH|REMALIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H6492]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7425]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H2428G]]"
+- "[[H5800A]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:6**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, [which were] all valiant men; because they had forsaken the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
 For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This happened because they had forsaken the LORD, the God of their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2026\|יַּהֲרֹג֩]] [[H6492\|פֶּ֨קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָ֜הוּ]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֗ה]] [[H3967\|מֵאָ֨ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֛לֶף]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָ֖ד]] [[H9009\|הַ]][[H3605\|כֹּ֣ל]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2428G\|חָ֑יִל]] [[H9003\|בְּ]][[H5800A\|עָזְבָ֕]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHAZ|AHAZ]] • [[topic PEKAH|PEKAH]] • [[topic REMALIAH|REMALIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.5|<< 2 Chronicles 28:5]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.7|2 Chronicles 28:7 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Ezekiel 11:10
+type: Verse
+kjv: "Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I am the LORD."
+bsb: "You will fall by the sword, and I will judge you even to the borders of Israel. Then you will know that I am the LORD."
+hebrew: "בַּחֶ֣רֶב תִּפֹּ֔לוּ עַל־ גְּב֥וּל יִשְׂרָאֵ֖ל אֶשְׁפּ֣וֹט אֶתְכֶ֑ם וִֽידַעְתֶּ֖ם כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H3478]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:10**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 You will fall by the sword, and I will judge you even to the borders of Israel. Then you will know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|תִּפֹּ֔לוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1366G\|גְּב֥וּל]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H8199\|אֶשְׁפּ֣וֹט]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CALDRON|CALDRON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PELATIAH|PELATIAH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.9|<< Ezekiel 11:9]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.11|Ezekiel 11:11 >>]]</td></tr></table>
 

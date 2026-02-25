@@ -1,8 +1,70 @@
+---
+title: Exodus 11:2
+type: Verse
+kjv: "Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold."
+bsb: "Now announce to the people that men and women alike should ask their neighbors for articles of silver and gold.”"
+hebrew: "דַּבֶּר־ נָ֖א בְּאָזְנֵ֣י הָעָ֑ם וְיִשְׁאֲל֞וּ אִ֣ישׁ׀ מֵאֵ֣ת רֵעֵ֗הוּ וְאִשָּׁה֙ מֵאֵ֣ת רְעוּתָ֔הּ כְּלֵי־ כֶ֖סֶף וּכְלֵ֥י זָהָֽב׃"
+pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEWELS|JEWELS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H7592]]"
+- "[[H0376I]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H0802G]]"
+- "[[H7468]]"
+- "[[H9024]]"
+- "[[H3627]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 11:2**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.
 <small><sub>**BSB:**</sub></small>
 Now announce to the people that men and women alike should ask their neighbors for articles of silver and gold.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֶּר]][[H9014\|־]] [[H4994\|נָ֖א]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9002\|וְ]][[H7592\|יִשְׁאֲל֞וּ]] [[H0376I\|אִ֣ישׁ]][[H9015\|׀]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H9002\|וְ]][[H0802G\|אִשָּׁה֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H7468\|רְעוּתָ֔]][[H9024\|הּ]] [[H3627\|כְּלֵי]][[H9014\|־]] [[H3701G\|כֶ֖סֶף]] [[H9002\|וּ]][[H3627\|כְלֵ֥י]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic GOLD|GOLD]] • [[topic ISRAEL|ISRAEL]] • [[topic JEWELS|JEWELS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.1|<< Exodus 11:1]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.3|Exodus 11:3 >>]]</td></tr></table>
 

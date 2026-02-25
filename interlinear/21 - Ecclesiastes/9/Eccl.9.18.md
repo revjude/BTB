@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 9:18
+type: Verse
+kjv: "Wisdom is better than weapons of war: but one sinner destroyeth much good."
+bsb: "Wisdom is better than weapons of war, but one sinner destroys much good."
+hebrew: "טוֹבָ֥ה חָכְמָ֖ה מִכְּלֵ֣י קְרָ֑ב וְחוֹטֶ֣א אֶחָ֔ד יְאַבֵּ֥ד טוֹבָ֥ה הַרְבֵּֽה׃"
+pericope: "[[Eccl.9.13 Wisdom Is Better than Strength|Wisdom Is Better than Strength]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2896A]]"
+- "[[H2451]]"
+- "[[H9006]]"
+- "[[H3627]]"
+- "[[H7128]]"
+- "[[H9002]]"
+- "[[H2398]]"
+- "[[H0259]]"
+- "[[H0006]]"
+- "[[H2896C]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:18**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] better than weapons of war: but one sinner destroyeth much good.
 <small><sub>**BSB:**</sub></small>
 Wisdom is better than weapons of war, but one sinner destroys much good.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|טוֹבָ֥ה]] [[H2451\|חָכְמָ֖ה]] [[H9006\|מִ]][[H3627\|כְּלֵ֣י]] [[H7128\|קְרָ֑ב]] [[H9002\|וְ]][[H2398\|חוֹטֶ֣א]] [[H0259\|אֶחָ֔ד]] [[H0006\|יְאַבֵּ֥ד]] [[H2896C\|טוֹבָ֥ה]] [[H7235A\|הַרְבֵּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic WAR|WAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.17|<< Ecclesiastes 9:17]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.1|Ecclesiastes 10:1 >>]]</td></tr></table>
 

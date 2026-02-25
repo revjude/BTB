@@ -1,8 +1,62 @@
+---
+title: Judges 2:23
+type: Verse
+kjv: "Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua."
+bsb: "That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua."
+hebrew: "וַיַּנַּ֤ח יְהוָה֙ אֶת־ הַגּוֹיִ֣ם הָאֵ֔לֶּה לְבִלְתִּ֥י הוֹרִישָׁ֖ם מַהֵ֑ר וְלֹ֥א נְתָנָ֖ם בְּיַד־ יְהוֹשֻֽׁעַ׃ פ"
+pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H4118B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3091G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 2:23**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.
 <small><sub>**BSB:**</sub></small>
 That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5117\|יַּנַּ֤ח]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H3423H\|הוֹרִישָׁ֖]][[H9038\|ם]] [[H4118B\|מַהֵ֑ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5414G\|נְתָנָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H3091G\|יְהוֹשֻֽׁעַ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.22|<< Judges 2:22]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.1|Judges 3:1 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ That is why the LORD had left those nations in place and had not driven them out
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gave them  |**<big>&#8207;[[H5414G\|נְתָנָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ne.ta.Na<small><sup>[[HVqp3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻֽׁעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻֽׁעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.22|<< Judges 2:22]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.1|Judges 3:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,69 @@
+---
+title: Exodus 32:25
+type: Verse
+kjv: "And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)"
+bsb: "Moses saw that the people were out of control, for Aaron had let them run wild and become a laughingstock to their enemies."
+hebrew: "וַיַּ֤רְא מֹשֶׁה֙ אֶת־ הָעָ֔ם כִּ֥י פָרֻ֖עַ ה֑וּא כִּֽי־ פְרָעֹ֣ה אַהֲרֹ֔ן לְשִׁמְצָ֖ה בְּקָמֵיהֶֽם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SHAME|SHAME]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H6544B]]"
+- "[[H1931]]"
+- "[[H9033]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H8103]]"
+- "[[H9003]]"
+- "[[H6965J]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:25**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Moses saw that the people [were] naked; (for Aaron had made them naked unto [their] shame among their enemies:)
 <small><sub>**BSB:**</sub></small>
 Moses saw that the people were out of control, for Aaron had let them run wild and become a laughingstock to their enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּ֥י]] [[H6544B\|פָרֻ֖עַ]] [[H1931\|ה֑וּא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6544B\|פְרָעֹ֣]][[H9033\|ה]] [[H0175\|אַהֲרֹ֔ן]] [[H9005\|לְ]][[H8103\|שִׁמְצָ֖ה]] [[H9003\|בְּ]][[H6965J\|קָמֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DANCING|DANCING]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROOF|REPROOF]] • [[topic SHAME|SHAME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.24|<< Exodus 32:24]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.26|Exodus 32:26 >>]]</td></tr></table>
 

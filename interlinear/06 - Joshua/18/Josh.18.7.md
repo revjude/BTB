@@ -1,8 +1,77 @@
+---
+title: Joshua 18:7
+type: Verse
+kjv: "But the Levites have no part among you; for the priesthood of the LORD is their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them."
+bsb: "The Levites, however, have no portion among you, because their inheritance is the priesthood of the LORD. And Gad, Reuben, and half the tribe of Manasseh have already received the inheritance that Moses the servant of the LORD gave them beyond the Jordan to the east.”"
+hebrew: "כִּ֠י אֵֽין־ חֵ֤לֶק לַלְוִיִּם֙ בְּקִרְבְּכֶ֔ם כִּֽי־ כְהֻנַּ֥ת יְהוָ֖ה נַחֲלָת֑וֹ וְגָ֡ד וּרְאוּבֵ֡ן וַחֲצִי֩ שֵׁ֨בֶט הַֽמְנַשֶּׁ֜ה לָקְח֣וּ נַחֲלָתָ֗ם מֵעֵ֤בֶר לַיַּרְדֵּן֙ מִזְרָ֔חָה אֲשֶׁר֙ נָתַ֣ן לָהֶ֔ם מֹשֶׁ֖ה עֶ֥בֶד יְהוָֽה׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H2506A]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H3550]]"
+- "[[H3068G]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1410G]]"
+- "[[H7205]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4519G]]"
+- "[[H3947H]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:7**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Levites have no part among you; for the priesthood of the LORD [is] their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.
 <small><sub>**BSB:**</sub></small>
 The Levites, however, have no portion among you, because their inheritance is the priesthood of the LORD. And Gad, Reuben, and half the tribe of Manasseh have already received the inheritance that Moses the servant of the LORD gave them beyond the Jordan to the east.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2506A\|חֵ֤לֶק]] [[H9005\|לַ]][[H3881\|לְוִיִּם֙]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3550\|כְהֻנַּ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H5159\|נַחֲלָת֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1410G\|גָ֡ד]] [[H9002\|וּ]][[H7205\|רְאוּבֵ֡ן]] [[H9002\|וַ]][[H2677\|חֲצִי֩]] [[H7626H\|שֵׁ֨בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֜ה]] [[H3947H\|לָקְח֣וּ]] [[H5159\|נַחֲלָתָ֗]][[H9028\|ם]] [[H9006\|מֵ]][[H5676H\|עֵ֤בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּן֙]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁר֙]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H4872\|מֹשֶׁ֖ה]] [[H5650\|עֶ֥בֶד]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic REUBENITES|REUBENITES]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.6|<< Joshua 18:6]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.8|Joshua 18:8 >>]]</td></tr></table>
 

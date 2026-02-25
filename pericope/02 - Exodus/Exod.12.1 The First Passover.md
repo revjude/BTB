@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Passover
+type: Pericope
 pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 12
 book/chapter: "[[Exod.12|Exodus 12]]"
-genre:
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 13
 verses:
 - "[[Exod.12.1]]"
 - "[[Exod.12.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Exod.12.13]]"
 ---
 
-[[Exod.12|Exodus 12:1 - Exodus 12:13]]
+<small>[[Exod.12|Exodus 12:1-13]]</small>
 *The First Passover*
 
 [[Exod.12.1|1]] And the LORD spake unto Moses and Aaron in the land of Egypt, saying,

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses at the Burning Bush
+type: Pericope
 pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 3
 book/chapter: "[[Exod.3|Exodus 3]]"
-genre:
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 22
 verses:
 - "[[Exod.3.1]]"
 - "[[Exod.3.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Exod.3.22]]"
 ---
 
-[[Exod.3|Exodus 3:1 - Exodus 3:22]]
+<small>[[Exod.3|Exodus 3:1-22]]</small>
 *Moses at the Burning Bush*
 
 [[Exod.3.1|1]] Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, \[even\] to Horeb.

@@ -1,8 +1,59 @@
+---
+title: Ezra 4:21
+type: Verse
+kjv: "Give ye now commandment to cause these men to cease, and that this city be not builded, until another commandment shall be given from me."
+bsb: "Now, therefore, issue an order for these men to stop, so that this city will not be rebuilt until I so order."
+aramaic: "כְּעַן֙ שִׂ֣ימוּ טְּעֵ֔ם לְבַטָּלָ֖א גֻּבְרַיָּ֣א אִלֵּ֑ךְ וְקִרְיְתָ֥א דָךְ֙ לָ֣א תִתְבְּנֵ֔א עַד־ מִנִּ֖י טַעְמָ֥א יִתְּשָֽׂם׃"
+pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H3705]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H9005]]"
+- "[[H0989]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H9002]]"
+- "[[H7149]]"
+- "[[H1791]]"
+- "[[H3809]]"
+- "[[H1124]]"
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:21**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ye now commandment to cause these men to cease, and that this city be not builded, until [another] commandment shall be given from me.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, issue an order for these men to stop, so that this city will not be rebuilt until I so order.
+<small><sub>**Aramaic:**</sub></small>
+[[H3705\|כְּעַן֙]] [[H7761G\|שִׂ֣ימוּ]] [[H2942\|טְּעֵ֔ם]] [[H9005\|לְ]][[H0989\|בַטָּלָ֖א]] [[H1400\|גֻּבְרַיָּ֣]][[H9010\|א]] [[H0479\|אִלֵּ֑ךְ]] [[H9002\|וְ]][[H7149\|קִרְיְתָ֥]][[H9010\|א]] [[H1791\|דָךְ֙]] [[H3809\|לָ֣א]] [[H1124\|תִתְבְּנֵ֔א]] [[H5705\|עַד]][[H9014\|־]] [[H4481\|מִנִּ֖]][[H9030\|י]] [[H2942\|טַעְמָ֥]][[H9010\|א]] [[H7761G\|יִתְּשָֽׂם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.20|<< Ezra 4:20]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.22|Ezra 4:22 >>]]</td></tr></table>
 

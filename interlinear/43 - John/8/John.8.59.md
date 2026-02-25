@@ -1,10 +1,62 @@
+---
+title: John 8:59
+type: Verse
+kjv: "Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by."
+bsb: "At this, they picked up stones to throw at Him. But Jesus was hidden and went out of the temple area."
+greek: "ἦραν οὖν λίθους ἵνα βάλωσιν ἐπ᾽ αὐτόν. Ἰησοῦς δὲ ἐκρύβη καὶ ἐξῆλθεν ἐκ τοῦ ἱεροῦ διελθὼν διὰ μέσου αὐτῶν καὶ παρῆγεν οὕτως.¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0142]]"
+- "[[G3767]]"
+- "[[G3037]]"
+- "[[G2443]]"
+- "[[G0906G]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G1161]]"
+- "[[G2928]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G1330]]"
+- "[[G1223]]"
+- "[[G3319]]"
+- "[[G3855]]"
+- "[[G3779]]"
+texts:
+- NKO
+- K
+---
+
 **John 8:59**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
 <small><sub>**BSB:**</sub></small>
 At this, they picked up stones to throw at Him. But Jesus was hidden and went out of the temple area.
-<small><sub>**Literal:**</sub></small>
-They took up therefore stones that they might cast at Him. Jesus however hid Himself and He went forth out of the temple having passed through through midst of them and He was passing by thus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.58|<< John 8:58]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.1|John 9:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0142\|ἦραν]]  [[G3767\|οὖν]]  [[G3037\|λίθους]]  [[G2443\|ἵνα]]  [[G0906G\|βάλωσιν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν.]]  [[G2424G\|Ἰησοῦς]]  [[G1161\|δὲ]]  [[G2928\|ἐκρύβη]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G1330\|διελθὼν]]  [[G1223\|διὰ]]  [[G3319\|μέσου]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3855\|παρῆγεν]]  [[G3779\|οὕτως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.58|<< John 8:58]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.1|John 9:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

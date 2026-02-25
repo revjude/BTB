@@ -1,8 +1,71 @@
+---
+title: Genesis 19:5
+type: Verse
+kjv: "And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them."
+bsb: "They called out to Lot, saying, “Where are the men who came to you tonight? Send them out to us so we can have relations with them!”"
+hebrew: "וַיִּקְרְא֤וּ אֶל־ לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־ בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3876]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0346]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9031]]"
+- "[[H3915]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:5**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called unto Lot, and said unto him, Where [are] the men which came in to thee this night? bring them out unto us, that we may know them.
 <small><sub>**BSB:**</sub></small>
 They called out to Lot, saying, “Where are the men who came to you tonight? Send them out to us so we can have relations with them!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121I\|יִּקְרְא֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3876\|לוֹט֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0346\|אַיֵּ֧ה]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥אוּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H3318H\|הוֹצִיאֵ֣]][[H9038\|ם]] [[H0413\|אֵלֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H3045\|נֵדְעָ֖ה]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.4|<< Genesis 19:4]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.6|Genesis 19:6 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Leviticus 24:6
+type: Verse
+kjv: "And thou shalt set them in two rows, six on a row, upon the pure table before the LORD."
+bsb: "and set them in two rows—six per row—on the table of pure gold before the LORD."
+hebrew: "וְשַׂמְתָּ֥ אוֹתָ֛ם שְׁתַּ֥יִם מַֽעֲרָכ֖וֹת שֵׁ֣שׁ הַֽמַּעֲרָ֑כֶת עַ֛ל הַשֻּׁלְחָ֥ן הַטָּהֹ֖ר לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.24.5 The Showbread|The Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H8147]]"
+- "[[H4635]]"
+- "[[H8337]]"
+- "[[H9009]]"
+- "[[H5921A]]"
+- "[[H7979]]"
+- "[[H2889]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:6**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.
 <small><sub>**BSB:**</sub></small>
 and set them in two rows—six per row—on the table of pure gold before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתָּ֥]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H8147\|שְׁתַּ֥יִם]] [[H4635\|מַֽעֲרָכ֖וֹת]] [[H8337\|שֵׁ֣שׁ]] [[H9009\|הַֽ]][[H4635\|מַּעֲרָ֑כֶת]] [[H5921A\|עַ֛ל]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָ֥ן]] [[H9009\|הַ]][[H2889\|טָּהֹ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.5|<< Leviticus 24:5]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.7|Leviticus 24:7 >>]]</td></tr></table>
 

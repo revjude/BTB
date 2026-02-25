@@ -1,8 +1,60 @@
+---
+title: Hosea 8:4
+type: Verse
+kjv: "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off."
+bsb: "They set up kings, but not by Me. They make princes, but without My approval. With their silver and gold they make themselves idols, to their own destruction."
+hebrew: "הֵ֤ם הִמְלִיכוּ֙ וְלֹ֣א מִמֶּ֔נִּי הֵשִׂ֖ירוּ וְלֹ֣א יָדָ֑עְתִּי כַּסְפָּ֣ם וּזְהָבָ֗ם עָשׂ֤וּ לָהֶם֙ עֲצַבִּ֔ים לְמַ֖עַן יִכָּרֵֽת׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H1992]]"
+- "[[H4427A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H7786]]"
+- "[[H3045]]"
+- "[[H3701G]]"
+- "[[H9028]]"
+- "[[H2091]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6091]]"
+- "[[H4616]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:4**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have set up kings, but not by me: they have made princes, and I knew [it] not: of their silver and their gold have they made them idols, that they may be cut off.
 <small><sub>**BSB:**</sub></small>
 They set up kings, but not by Me. They make princes, but without My approval. With their silver and gold they make themselves idols, to their own destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֤ם]] [[H4427A\|הִמְלִיכוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4480A\|מִמֶּ֔]][[H9030\|נִּי]] [[H7786\|הֵשִׂ֖ירוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|יָדָ֑עְתִּי]] [[H3701G\|כַּסְפָּ֣]][[H9028\|ם]] [[H9002\|וּ]][[H2091\|זְהָבָ֗]][[H9028\|ם]] [[H6213H\|עָשׂ֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H6091\|עֲצַבִּ֔ים]] [[H4616\|לְמַ֖עַן]] [[H3772I\|יִכָּרֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOL|IDOL]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.3|<< Hosea 8:3]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.5|Hosea 8:5 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Malachi 1:7
+type: Verse
+kjv: "Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD is contemptible."
+bsb: "By presenting defiled food on My altar. But you ask, ‘How have we defiled You?’ By saying that the table of the LORD is contemptible."
+hebrew: "מַגִּישִׁ֤ים עַֽל־ מִזְבְּחִי֙ לֶ֣חֶם מְגֹאָ֔ל וַאֲמַרְתֶּ֖ם בַּמֶּ֣ה גֵֽאַלְנ֑וּךָ בֶּאֱמָרְכֶ֕ם שֻׁלְחַ֥ן יְהוָ֖ה נִבְזֶ֥ה הֽוּא׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H5066H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9020]]"
+- "[[H3899G]]"
+- "[[H1351]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H9031]]"
+- "[[H9046]]"
+- "[[H7979]]"
+- "[[H3068G]]"
+- "[[H0959]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:7**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD [is] contemptible.
 <small><sub>**BSB:**</sub></small>
 By presenting defiled food on My altar. But you ask, ‘How have we defiled You?’ By saying that the table of the LORD is contemptible.
+<small><sub>**Hebrew:**</sub></small>
+[[H5066H\|מַגִּישִׁ֤ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4196\|מִזְבְּחִ]][[H9020\|י֙]] [[H3899G\|לֶ֣חֶם]] [[H1351\|מְגֹאָ֔ל]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H9003\|בַּ]][[H4100\|מֶּ֣ה]] [[H1351\|גֵֽאַלְנ֑וּ]][[H9031\|ךָ]] [[H9003\|בֶּ]][[H0559\|אֱמָרְ]][[H9046\|כֶ֕ם]] [[H7979\|שֻׁלְחַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H0959\|נִבְזֶ֥ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic TABLE|TABLE]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.6|<< Malachi 1:6]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.8|Malachi 1:8 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Proverbs 28:13
+type: Verse
+kjv: "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy."
+bsb: "He who conceals his sins will not prosper, but whoever confesses and renounces them will find mercy."
+hebrew: "מְכַסֶּ֣ה פְ֭שָׁעָיו לֹ֣א יַצְלִ֑יחַ וּמוֹדֶ֖ה וְעֹזֵ֣ב יְרֻחָֽם׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3680]]"
+- "[[H6588]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H9002]]"
+- "[[H3034]]"
+- "[[H5800A]]"
+- "[[H7355]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:13**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that covereth his sins shall not prosper: but whoso confesseth and forsaketh [them] shall have mercy.
 <small><sub>**BSB:**</sub></small>
 He who conceals his sins will not prosper, but whoever confesses and renounces them will find mercy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3680\|מְכַסֶּ֣ה]] [[H6588\|פְ֭שָׁעָי]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H6743B\|יַצְלִ֑יחַ]] [[H9002\|וּ]][[H3034\|מוֹדֶ֖ה]] [[H9002\|וְ]][[H5800A\|עֹזֵ֣ב]] [[H7355\|יְרֻחָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.12|<< Proverbs 28:12]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.14|Proverbs 28:14 >>]]</td></tr></table>
 

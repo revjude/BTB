@@ -1,10 +1,58 @@
+---
+title: Luke 21:32
+type: Verse
+kjv: "Verily I say unto you, This generation shall not pass away, till all be fulfilled."
+bsb: "Truly I tell you, this generation will not pass away until all these things have happened."
+jesus_said: "Verily I say unto you, This generation shall not pass away, till all be fulfilled."
+greek: "Ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη ἕως ἂν πάντα γένηται."
+pericope: "[[Luke.21.29 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3928]]"
+- "[[G3588]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G3956]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Luke 21:32**<big><big>[[Luke.21.29 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, This generation shall not pass away, till all be fulfilled.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, this generation will not pass away until all these things have happened.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you that certainly not may have passed away <the> generation this until when all [these things] may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.31|<< Luke 21:31]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.33|Luke 21:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3928\|παρέλθῃ]]  [[G3588\|ἡ]]  [[G1074\|γενεὰ]]  [[G3778\|αὕτη]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G3956\|πάντα]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.31|<< Luke 21:31]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.33|Luke 21:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

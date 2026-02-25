@@ -1,8 +1,63 @@
+---
+title: Leviticus 14:20
+type: Verse
+kjv: "And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean."
+bsb: "and offer it on the altar, with the grain offering, to make atonement for him, and he will be clean."
+hebrew: "וְהֶעֱלָ֧ה הַכֹּהֵ֛ן אֶת־ הָעֹלָ֥ה וְאֶת־ הַמִּנְחָ֖ה הַמִּזְבֵּ֑חָה וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן וְטָהֵֽר׃ ס"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2891]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 14:20**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean.
 <small><sub>**BSB:**</sub></small>
 and offer it on the altar, with the grain offering, to make atonement for him, and he will be clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927I\|הֶעֱלָ֧ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֥ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֖ה]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חָ]][[H9011\|ה]] [[H9001\|וְ]][[H3722A\|כִפֶּ֥ר]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9001\|וְ]][[H2891\|טָהֵֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.19|<< Leviticus 14:19]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.21|Leviticus 14:21 >>]]</td></tr></table>
 
@@ -18,7 +73,7 @@ and offer it on the altar, with the grain offering, to make atonement for him, a
 | and he will make atonement  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כִפֶּ֥ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Per<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will be clean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2891\|טָהֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.Her<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will be clean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2891\|טָהֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.Her<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.19|<< Leviticus 14:19]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.21|Leviticus 14:21 >>]]</td></tr></table>
 
 

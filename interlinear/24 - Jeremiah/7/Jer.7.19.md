@@ -1,8 +1,63 @@
+---
+title: Jeremiah 7:19
+type: Verse
+kjv: "Do they provoke me to anger? saith the LORD: do they not provoke themselves to the confusion of their own faces?"
+bsb: "But am I the One they are provoking? declares the LORD. Is it not themselves they spite, to their own shame?"
+hebrew: "הַאֹתִ֛י הֵ֥ם מַכְעִסִ֖ים נְאֻם־ יְהוָ֑ה הֲל֣וֹא אֹתָ֔ם לְמַ֖עַן בֹּ֥שֶׁת פְּנֵיהֶֽם׃ ס"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9008]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H1992]]"
+- "[[H3707]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9038]]"
+- "[[H4616]]"
+- "[[H1322]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 7:19**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do they provoke me to anger? saith the LORD: [do they] not [provoke] themselves to the confusion of their own faces?
 <small><sub>**BSB:**</sub></small>
 But am I the One they are provoking? declares the LORD. Is it not themselves they spite, to their own shame?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0853\|אֹתִ֛]][[H9030\|י]] [[H1992\|הֵ֥ם]] [[H3707\|מַכְעִסִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H4616\|לְמַ֖עַן]] [[H1322\|בֹּ֥שֶׁת]] [[H6440L\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.18|<< Jeremiah 7:18]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.20|Jeremiah 7:20 >>]]</td></tr></table>
 
@@ -17,7 +72,7 @@ But am I the One they are provoking? declares the LORD. Is it not themselves the
 | \<obj.> themselves  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֖עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] shame of  |**<big>&#8207;[[H1322\|בֹּ֥שֶׁת]]&#8207; </big>**| Bo.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| faces their  |**<big>&#8207;[[H6440L\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| faces their  |**<big>&#8207;[[H6440L\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.18|<< Jeremiah 7:18]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.20|Jeremiah 7:20 >>]]</td></tr></table>
 
 

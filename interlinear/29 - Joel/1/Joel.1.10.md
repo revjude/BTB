@@ -1,8 +1,53 @@
+---
+title: Joel 1:10
+type: Verse
+kjv: "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth."
+bsb: "The field is ruined; the land mourns. For the grain is destroyed, the new wine is dried up, and the oil fails."
+hebrew: "שֻׁדַּ֣ד שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י שֻׁדַּ֣ד דָּגָ֔ן הוֹבִ֥ישׁ תִּיר֖וֹשׁ אֻמְלַ֥ל יִצְהָֽר׃"
+pericope: "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H7703]]"
+- "[[H7704G]]"
+- "[[H0056]]"
+- "[[H0127G]]"
+- "[[H3588A]]"
+- "[[H1715]]"
+- "[[H3001]]"
+- "[[H8492]]"
+- "[[H0535]]"
+- "[[H3323]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:10**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.
 <small><sub>**BSB:**</sub></small>
 The field is ruined; the land mourns. For the grain is destroyed, the new wine is dried up, and the oil fails.
+<small><sub>**Hebrew:**</sub></small>
+[[H7703\|שֻׁדַּ֣ד]] [[H7704G\|שָׂדֶ֔ה]] [[H0056\|אָבְלָ֖ה]] [[H0127G\|אֲדָמָ֑ה]] [[H3588A\|כִּ֚י]] [[H7703\|שֻׁדַּ֣ד]] [[H1715\|דָּגָ֔ן]] [[H3001\|הוֹבִ֥ישׁ]] [[H8492\|תִּיר֖וֹשׁ]] [[H0535\|אֻמְלַ֥ל]] [[H3323\|יִצְהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.9|<< Joel 1:9]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.11|Joel 1:11 >>]]</td></tr></table>
 

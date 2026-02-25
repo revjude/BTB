@@ -1,8 +1,60 @@
+---
+title: 2 Kings 3:10
+type: Verse
+kjv: "And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!"
+bsb: "“Alas,” said the king of Israel, “for the LORD has summoned these three kings to deliver them into the hand of Moab!”"
+hebrew: "וַיֹּ֖אמֶר מֶ֣לֶךְ יִשְׂרָאֵ֑ל אֲהָ֕הּ כִּֽי־ קָרָ֣א יְהוָ֗ה לִשְׁלֹ֙שֶׁת֙ הַמְּלָכִ֣ים הָאֵ֔לֶּה לָתֵ֥ת אוֹתָ֖ם בְּיַד־ מוֹאָֽב׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0162]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:10**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!
 <small><sub>**BSB:**</sub></small>
 “Alas,” said the king of Israel, “for the LORD has summoned these three kings to deliver them into the hand of Moab!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0162\|אֲהָ֕הּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7121G\|קָרָ֣א]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לִ]][[H7969\|שְׁלֹ֙שֶׁת֙]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.9|<< 2 Kings 3:9]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.11|2 Kings 3:11 >>]]</td></tr></table>
 

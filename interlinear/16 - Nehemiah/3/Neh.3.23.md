@@ -1,8 +1,62 @@
+---
+title: Nehemiah 3:23
+type: Verse
+kjv: "After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house."
+bsb: "Beyond them, Benjamin and Hasshub made repairs in front of their house, and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house."
+hebrew: "אַחֲרָ֨יו הֶחֱזִ֧יק בִּנְיָמִ֛ן וְחַשּׁ֖וּב נֶ֣גֶד בֵּיתָ֑ם ס אַחֲרָ֣יו הֶחֱזִ֗יק עֲזַרְיָ֧ה בֶן־ מַעֲשֵׂיָ֛ה בֶּן־ עֲנָֽנְיָ֖ה אֵ֥צֶל בֵּיתֽוֹ׃ ס"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ANANIAH|ANANIAH]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic HASHUB|HASHUB]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H1144J]]"
+- "[[H9002]]"
+- "[[H2815I]]"
+- "[[H5048]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H9018]]"
+- "[[H5838W]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H4641P]]"
+- "[[H6055G]]"
+- "[[H0681]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:23**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
 <small><sub>**BSB:**</sub></small>
 Beyond them, Benjamin and Hasshub made repairs in front of their house, and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרָ֨י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֧יק]] [[H1144J\|בִּנְיָמִ֛ן]] [[H9002\|וְ]][[H2815I\|חַשּׁ֖וּב]] [[H5048\|נֶ֣גֶד]] [[H1004B\|בֵּיתָ֑]][[H9028\|ם]] [[H9018\|ס]] [[H0310A\|אַחֲרָ֣י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֗יק]] [[H5838W\|עֲזַרְיָ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H4641P\|מַעֲשֵׂיָ֛ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6055G\|עֲנָֽנְיָ֖ה]] [[H0681\|אֵ֥צֶל]] [[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAH|ANANIAH]] • [[topic BENJAMIN|BENJAMIN]] • [[topic HASHUB|HASHUB]] • [[topic MAASEIAH|MAASEIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.22|<< Nehemiah 3:22]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.24|Nehemiah 3:24 >>]]</td></tr></table>
 
@@ -13,7 +67,7 @@ Beyond them, Benjamin and Hasshub made repairs in front of their house, and next
 | Benjamin  |**<big>&#8207;[[H1144J\|בִּנְיָמִ֛ן]]&#8207; </big>**| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Hasshub  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2815I\|חַשּׁ֖וּב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Shuv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own house their  |**<big>&#8207;[[H1004B\|בֵּיתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own house their  |**<big>&#8207;[[H1004B\|בֵּיתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.Ta<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֗יק]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Azariah  |**<big>&#8207;[[H5838W\|עֲזַרְיָ֧ה]]&#8207; </big>**| 'a.zar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -22,7 +76,7 @@ Beyond them, Benjamin and Hasshub made repairs in front of their house, and next
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ananiah  |**<big>&#8207;[[H6055G\|עֲנָֽנְיָ֖ה]]&#8207; </big>**| 'a.na.ne.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beside  |**<big>&#8207;[[H0681\|אֵ֥צֶל]]&#8207; </big>**| 'E.tzel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own house his  |**<big>&#8207;[[H1004B\|בֵּיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own house his  |**<big>&#8207;[[H1004B\|בֵּיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.22|<< Nehemiah 3:22]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.24|Nehemiah 3:24 >>]]</td></tr></table>
 
 

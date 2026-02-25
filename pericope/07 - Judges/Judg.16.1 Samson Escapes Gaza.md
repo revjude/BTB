@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson Escapes Gaza
+type: Pericope
 pericope: "[[Judg.16.1 Samson Escapes Gaza|Samson Escapes Gaza]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 16
 book/chapter: "[[Judg.16|Judges 16]]"
-genre:
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 3
 verses:
 - "[[Judg.16.1]]"
 - "[[Judg.16.2]]"
 - "[[Judg.16.3]]"
 ---
 
-[[Judg.16|Judges 16:1 - Judges 16:3]]
+<small>[[Judg.16|Judges 16:1-3]]</small>
 *Samson Escapes Gaza*
 
 [[Judg.16.1|1]] Then went Samson to Gaza, and saw there an harlot, and went in unto her.

@@ -1,10 +1,55 @@
+---
+title: Mark 13:31
+type: Verse
+kjv: "Heaven and earth shall pass away: but my words shall not pass away."
+bsb: "Heaven and earth will pass away, but My words will never pass away."
+jesus_said: "Heaven and earth shall pass away: but my words shall not pass away."
+greek: "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται.¶"
+pericope: "[[Mark.13.28 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G3928]]"
+- "[[G1161]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G3361]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Mark 13:31**<big><big>[[Mark.13.28 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Heaven and earth shall pass away: but my words shall not pass away.
 <small><sub>**BSB:**</sub></small>
 Heaven and earth will pass away, but My words will never pass away.
-<small><sub>**Literal:**</sub></small>
-The heaven and the earth will pass away, <the> but the words of Mine certainly not will pass away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.30|<< Mark 13:30]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.32|Mark 13:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3772\|οὐρανὸς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3928\|παρελεύσονται,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3056\|λόγοι]]  [[G3165\|μου]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3928\|παρελεύσονται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.30|<< Mark 13:30]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.32|Mark 13:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 13:31** is...
 > $\quad$ alluding to: [[LXX.Isa.40.8|Isa 40:8]]

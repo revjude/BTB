@@ -1,8 +1,53 @@
+---
+title: Proverbs 11:19
+type: Verse
+kjv: "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death."
+bsb: "Genuine righteousness leads to life, but the pursuit of evil brings death."
+hebrew: "כֵּן־ צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3651A]]"
+- "[[H9014]]"
+- "[[H6666]]"
+- "[[H9005]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H7451I]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:19**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As righteousness [tendeth] to life: so he that pursueth evil [pursueth it] to his own death.
 <small><sub>**BSB:**</sub></small>
 Genuine righteousness leads to life, but the pursuit of evil brings death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651A\|כֵּן]][[H9014\|־]] [[H6666\|צְדָקָ֥ה]] [[H9005\|לְ]][[H2416E\|חַיִּ֑ים]] [[H9002\|וּ]][[H7291\|מְרַדֵּ֖ף]] [[H7451I\|רָעָ֣ה]] [[H9005\|לְ]][[H4194\|מוֹתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.18|<< Proverbs 11:18]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.20|Proverbs 11:20 >>]]</td></tr></table>
 

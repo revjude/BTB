@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joab Reproves David
+type: Pericope
 pericope: "[[2Sam.19.1 Joab Reproves David|Joab Reproves David]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 19
 book/chapter: "[[2Sam.19|2 Samuel 19]]"
-genre:
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 7
 verses:
 - "[[2Sam.19.1]]"
 - "[[2Sam.19.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Sam.19.7]]"
 ---
 
-[[2Sam.19|2 Samuel 19:1 - 2 Samuel 19:7]]
+<small>[[2Sam.19|2 Samuel 19:1-7]]</small>
 *Joab Reproves David*
 
 [[2Sam.19.1|1]] And it was told Joab, Behold, the king weepeth and mourneth for Absalom.

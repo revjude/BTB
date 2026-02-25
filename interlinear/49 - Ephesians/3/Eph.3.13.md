@@ -1,10 +1,55 @@
+---
+title: Ephesians 3:13
+type: Verse
+kjv: "Wherefore I desire that ye faint not at my tribulations for you, which is your glory."
+bsb: "So I ask you not to be discouraged because of my sufferings for you, which are your glory."
+greek: "διὸ αἰτοῦμαι μὴ ἐγκακεῖν ἐν ταῖς θλίψεσίν μου ὑπὲρ ὑμῶν, ἥτις ἐστὶν δόξα ὑμῶν.¶"
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1352]]"
+- "[[G0154]]"
+- "[[G3361]]"
+- "[[G1573]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2347]]"
+- "[[G3165]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G1391]]"
+texts:
+- NKO
+---
+
 **Ephesians 3:13**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore I desire that ye faint not at my tribulations for you, which is your glory.
 <small><sub>**BSB:**</sub></small>
 So I ask you not to be discouraged because of my sufferings for you, which are your glory.
-<small><sub>**Literal:**</sub></small>
-Therefore I implore [you] not to lose heart at the tribulations of mine for you, which is glory of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.12|<< Ephesians 3:12]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.14|Ephesians 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G0154\|αἰτοῦμαι]]  [[G3361\|μὴ]]  [[G1573\|ἐγκακεῖν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2347\|θλίψεσίν]]  [[G3165\|μου]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν,]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G1391\|δόξα]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.12|<< Ephesians 3:12]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.14|Ephesians 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

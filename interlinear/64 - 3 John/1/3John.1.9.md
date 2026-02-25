@@ -1,10 +1,48 @@
+---
+title: 3 John 1:9
+type: Verse
+kjv: "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not."
+bsb: "I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction."
+greek: "Ἔγραψά τι τῇ ἐκκλησίᾳ· ἀλλ᾽ ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης οὐκ ἐπιδέχεται ἡμᾶς."
+pericope: "[[3John.1.9 Diotrephes and Demetrius|Diotrephes and Demetrius]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G1125]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G0235]]"
+- "[[G5383]]"
+- "[[G0846]]"
+- "[[G1361]]"
+- "[[G3756]]"
+- "[[G1926]]"
+- "[[G3165]]"
+texts:
+- NKO
+- no
+---
+
 **3 John 1:9**<big><big>[[3John.1.9 Diotrephes and Demetrius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 <small><sub>**BSB:**</sub></small>
 I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction.
-<small><sub>**Literal:**</sub></small>
-I have written something to the church; but the [one] loving to be first among them Diotrephes not welcomes us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.8|<< 3 John 1:8]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.10|3 John 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|Ἔγραψά]]  [[G5100\|τι]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ·]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G5383\|φιλοπρωτεύων]]  [[G0846\|αὐτῶν]]  [[G1361\|Διοτρέφης]]  [[G3756\|οὐκ]]  [[G1926\|ἐπιδέχεται]]  [[G3165\|ἡμᾶς.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.8|<< 3 John 1:8]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.10|3 John 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

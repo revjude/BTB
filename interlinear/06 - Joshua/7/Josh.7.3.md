@@ -1,8 +1,68 @@
+---
+title: Joshua 7:3
+type: Verse
+kjv: "And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few."
+bsb: "On returning to Joshua, they reported, “There is no need to send all the people; two or three thousand men are enough to go up and attack Ai. Since the people of Ai are so few, you need not wear out all our people there.”"
+hebrew: "וַיָּשֻׁ֣בוּ אֶל־ יְהוֹשֻׁ֗עַ וַיֹּאמְר֣וּ אֵלָיו֮ אַל־ יַ֣עַל כָּל־ הָעָם֒ כְּאַלְפַּ֣יִם אִ֗ישׁ א֚וֹ כִּשְׁלֹ֣שֶׁת אֲלָפִ֣ים אִ֔ישׁ יַעֲל֖וּ וְיַכּ֣וּ אֶת־ הָעָ֑י אַל־ תְּיַגַּע־ שָׁ֙מָּה֙ אֶת־ כָּל־ הָעָ֔ם כִּ֥י מְעַ֖ט הֵֽמָּה׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H5927G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H7969]]"
+- "[[H9002]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H5857G]]"
+- "[[H3021]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H4592]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:3**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; [and] make not all the people to labour thither; for they [are but] few.
 <small><sub>**BSB:**</sub></small>
 On returning to Joshua, they reported, “There is no need to send all the people; two or three thousand men are enough to go up and attack Ai. Since the people of Ai are so few, you need not wear out all our people there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֣בוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָי]][[H9033\|ו֮]] [[H0408\|אַל]][[H9014\|־]] [[H5927G\|יַ֣עַל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֒]] [[H9004\|כְּ]][[H0505G\|אַלְפַּ֣יִם]] [[H0376G\|אִ֗ישׁ]] [[H0176A\|א֚וֹ]] [[H9004\|כִּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֣ים]] [[H0376G\|אִ֔ישׁ]] [[H5927G\|יַעֲל֖וּ]] [[H9002\|וְ]][[H5221\|יַכּ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עָ֑י]] [[H0408\|אַל]][[H9014\|־]] [[H3021\|תְּיַגַּע]][[H9014\|־]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּ֥י]] [[H4592\|מְעַ֖ט]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.2|<< Joshua 7:2]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.4|Joshua 7:4 >>]]</td></tr></table>
 

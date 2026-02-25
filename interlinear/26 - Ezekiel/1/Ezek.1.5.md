@@ -1,8 +1,57 @@
+---
+title: Ezekiel 1:5
+type: Verse
+kjv: "Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man."
+bsb: "and within it was the form of four living creatures. And this was their appearance: They had a human form,"
+hebrew: "וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵֽיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H1823]]"
+- "[[H0702]]"
+- "[[H2416C]]"
+- "[[H2088]]"
+- "[[H4758]]"
+- "[[H9029]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:5**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also out of the midst thereof [came] the likeness of four living creatures. And this [was] their appearance; they had the likeness of a man.
 <small><sub>**BSB:**</sub></small>
 and within it was the form of four living creatures. And this was their appearance: They had a human form,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ֨]][[H8432\|תּוֹכָ֔]][[H9024\|הּ]] [[H1823\|דְּמ֖וּת]] [[H0702\|אַרְבַּ֣ע]] [[H2416C\|חַיּ֑וֹת]] [[H9002\|וְ]][[H2088\|זֶה֙]] [[H4758\|מַרְאֵֽי]][[H9029\|הֶ֔ן]] [[H1823\|דְּמ֥וּת]] [[H0120G\|אָדָ֖ם]] [[H9005\|לָ]][[H9039\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.4|<< Ezekiel 1:4]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.6|Ezekiel 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

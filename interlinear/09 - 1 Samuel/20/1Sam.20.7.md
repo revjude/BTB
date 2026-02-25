@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 20:7
+type: Verse
+kjv: "If he say thus, It is well; thy servant shall have peace: but if he be very wroth, then be sure that evil is determined by him."
+bsb: "If he says, ‘Good,’ then your servant is safe, but if he is enraged, you will know he has evil intentions."
+hebrew: "אִם־ כֹּ֥ה יֹאמַ֛ר ט֖וֹב שָׁל֣וֹם לְעַבְדֶּ֑ךָ וְאִם־ חָרֹ֤ה יֶֽחֱרֶה֙ ל֔וֹ דַּ֕ע כִּֽי־ כָלְתָ֥ה הָרָעָ֖ה מֵעִמּֽוֹ׃"
+pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H7965I]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2734]]"
+- "[[H9033]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3615I]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:7**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he say thus, [It is] well; thy servant shall have peace: but if he be very wroth, [then] be sure that evil is determined by him.
 <small><sub>**BSB:**</sub></small>
 If he says, ‘Good,’ then your servant is safe, but if he is enraged, you will know he has evil intentions.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3541\|כֹּ֥ה]] [[H0559\|יֹאמַ֛ר]] [[H2896A\|ט֖וֹב]] [[H7965I\|שָׁל֣וֹם]] [[H9005\|לְ]][[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H2734\|חָרֹ֤ה]] [[H2734\|יֶֽחֱרֶה֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3045\|דַּ֕ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3615I\|כָלְתָ֥ה]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9006\|מֵ]][[H5973B\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.6|<< 1 Samuel 20:6]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.8|1 Samuel 20:8 >>]]</td></tr></table>
 

@@ -1,8 +1,87 @@
+---
+title: Deuteronomy 15:9
+type: Verse
+kjv: "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee."
+bsb: "Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin."
+hebrew: "הִשָּׁ֣מֶר לְךָ֡ פֶּן־ יִהְיֶ֣ה דָבָר֩ עִם־ לְבָבְךָ֨ בְלִיַּ֜עַל לֵאמֹ֗ר קָֽרְבָ֣ה שְׁנַֽת־ הַשֶּׁבַע֮ שְׁנַ֣ת הַשְּׁמִטָּה֒ וְרָעָ֣ה עֵֽינְךָ֗ בְּאָחִ֙יךָ֙ הָֽאֶבְי֔וֹן וְלֹ֥א תִתֵּ֖ן ל֑וֹ וְקָרָ֤א עָלֶ֙יךָ֙ אֶל־ יְהוָ֔ה וְהָיָ֥ה בְךָ֖ חֵֽטְא׃"
+pericope: "[[Deut.15.7 Generosity in Lending and Giving|Generosity in Lending and Giving]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H5973A]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H1100I]]"
+- "[[H0559]]"
+- "[[H7126G]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7651]]"
+- "[[H8059]]"
+- "[[H9001]]"
+- "[[H7489A]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H0251I]]"
+- "[[H0034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H7121G]]"
+- "[[H5921A]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H2399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:9**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.
 <small><sub>**BSB:**</sub></small>
 Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|הִשָּׁ֣מֶר]] [[H9005\|לְ]][[H9031\|ךָ֡]] [[H6435\|פֶּן]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H1697G\|דָבָר֩]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֨]] [[H1100I\|בְלִיַּ֜עַל]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7126G\|קָֽרְבָ֣ה]] [[H8141\|שְׁנַֽת]][[H9014\|־]] [[H9009\|הַ]][[H7651\|שֶּׁבַע֮]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H8059\|שְּׁמִטָּה֒]] [[H9001\|וְ]][[H7489A\|רָעָ֣ה]] [[H5869A\|עֵֽינְ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H0251I\|אָחִ֙י]][[H9021\|ךָ֙]] [[H9009\|הָֽ]][[H0034\|אֶבְי֔וֹן]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5414G\|תִתֵּ֖ן]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H7121G\|קָרָ֤א]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9003\|בְ]][[H9031\|ךָ֖]] [[H2399\|חֵֽטְא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LENDING|LENDING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic REVERENCE|REVERENCE]] • [[topic REWARD|REWARD]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.8|<< Deuteronomy 15:8]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.10|Deuteronomy 15:10 >>]]</td></tr></table>
 

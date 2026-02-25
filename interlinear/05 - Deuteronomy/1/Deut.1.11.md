@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 1:11
+type: Verse
+kjv: "(The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)"
+bsb: "May the LORD, the God of your fathers, increase you a thousand times over and bless you as He has promised."
+hebrew: "יְהוָ֞ה אֱלֹהֵ֣י אֲבֽוֹתֵכֶ֗ם יֹסֵ֧ף עֲלֵיכֶ֛ם כָּכֶ֖ם אֶ֣לֶף פְּעָמִ֑ים וִיבָרֵ֣ךְ אֶתְכֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃"
+pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H0505G]]"
+- "[[H6471]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:11**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (The LORD God of your fathers make you a thousand times so many more as ye [are], and bless you, as he hath promised you!)
 <small><sub>**BSB:**</sub></small>
 May the LORD, the God of your fathers, increase you a thousand times over and bless you as He has promised.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֽוֹתֵ]][[H9026\|כֶ֗ם]] [[H3254H\|יֹסֵ֧ף]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H9004\|כָּ]][[H9036\|כֶ֖ם]] [[H0505G\|אֶ֣לֶף]] [[H6471\|פְּעָמִ֑ים]] [[H9002\|וִ]][[H1288\|יבָרֵ֣ךְ]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696I\|דִּבֶּ֥ר]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.10|<< Deuteronomy 1:10]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.12|Deuteronomy 1:12 >>]]</td></tr></table>
 

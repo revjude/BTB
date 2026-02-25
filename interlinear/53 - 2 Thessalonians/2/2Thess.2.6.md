@@ -1,10 +1,52 @@
+---
+title: 2 Thessalonians 2:6
+type: Verse
+kjv: "And now ye know what withholdeth that he might be revealed in his time."
+bsb: "And you know what is now restraining him, so that he may be revealed at the proper time."
+greek: "καὶ νῦν τὸ κατέχον οἴδατε εἰς τὸ ἀποκαλυφθῆναι αὐτὸν ἐν τῷ ἑαυτοῦ καιρῷ."
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G3588]]"
+- "[[G2722]]"
+- "[[G6063]]"
+- "[[G1519]]"
+- "[[G0601]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G2540]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Thessalonians 2:6**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now ye know what withholdeth that he might be revealed in his time.
 <small><sub>**BSB:**</sub></small>
 And you know what is now restraining him, so that he may be revealed at the proper time.
-<small><sub>**Literal:**</sub></small>
-And now that which is restraining you know for <the> to be revealed him in <the> his own time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.5|<< 2 Thessalonians 2:5]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.7|2 Thessalonians 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G3588\|τὸ]]  [[G2722\|κατέχον]]  [[G6063\|οἴδατε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0601\|ἀποκαλυφθῆναι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1438\|ἑαυτοῦ]]  [[G2540\|καιρῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.5|<< 2 Thessalonians 2:5]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.7|2 Thessalonians 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

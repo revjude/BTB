@@ -1,9 +1,9 @@
 
 **ABLUTION**
 
-→ General scriptures concerning [[Exod.19.10|Ex 19:10]],[[Exod.19.14|14]]; [[Matt.15.2|Mt 15:2]];  [[Mark.7.2|Mr 7:2]]-[[Mark.7.5|5]],[[Mark.7.8|8]],[[Mark.7.9|9]]; [[Luke.11.38|Lu 11:38]]; [[Heb.9.10|Heb 9:10]]
+→ General scriptures concerning [[Exod.19.10|Ex 19:10]],[[Exod.19.14|14]]; [[Matt.15.2|Mt 15:2]];  [[Mark.7.2|Mr 7:2-5]],[[Mark.7.8|8]],[[Mark.7.9|9]]; [[Luke.11.38|Lu 11:38]]; [[Heb.9.10|Heb 9:10]]
 
-→ Of priests [[Exod.29.4|Ex 29:4]]; [[Exod.36.18|36:18]]-[[Exod.36.21|21]]; [[Exod.40.12|40:12]],[[Exod.40.31|31]],[[Exod.40.32|32]]; [[Lev.8.6|Le 8:6]];  [[Lev.16.4|16:4]],[[Lev.16.24|24]],[[Lev.16.26|26]],[[Lev.16.28|28]]; [[Num.19.7|Nu 19:7]]-[[Num.19.10|10]],[[Num.19.19|19]]; [[2Chr.4.6|2Ch 4:6]]
+→ Of priests [[Exod.29.4|Ex 29:4]]; [[Exod.36.18|36:18-21]]; [[Exod.40.12|40:12]],[[Exod.40.31|31]],[[Exod.40.32|32]]; [[Lev.8.6|Le 8:6]];  [[Lev.16.4|16:4]],[[Lev.16.24|24]],[[Lev.16.26|26]],[[Lev.16.28|28]]; [[Num.19.7|Nu 19:7-10]],[[Num.19.19|19]]; [[2Chr.4.6|2Ch 4:6]]
 
 → Of burnt offerings [[Lev.1.9|Le 1:9]],[[Lev.1.13|13]]; [[Lev.9.14|9:14]]; [[2Chr.4.6|2Ch 4:6]]
 
@@ -15,7 +15,7 @@
 
 → Of the feet [[Gen.18.4|Ge 18:4]]; [[Gen.19.2|19:2]]; [[Gen.24.32|24:32]]; [[Gen.43.24|43:24]]; [[Exod.30.19|Ex 30:19]],[[Exod.30.21|21]];  [[Exod.40.31|40:31]]; [[Judg.19.21|Jud 19:21]]; [[2Sam.11.8|2Sa 11:8]]; [[Song.5.3|So 5:3]]; [[Luke.7.38|Lu 7:38]],[[Luke.7.44|44]]; [[John.13.5|Joh 13:5]]
 
-→ Of the hands [[Exod.30.18|Ex 30:18]]-[[Exod.30.21|21]]; [[Exod.40.30|40:30]]-[[Exod.40.32|32]]
+→ Of the hands [[Exod.30.18|Ex 30:18-21]]; [[Exod.40.30|40:30-32]]
 
 → Of the hands, as a token of innocency [[Deut.21.6|De 21:6]]; [[Ps.26.6|Ps 26:6]];  [[Matt.27.24|Mt 27:24]]
 
@@ -23,7 +23,7 @@
 
 - Of lepers [[Lev.14.8|Le 14:8]],[[Lev.14.9|9]]
 
-- Those having bloody issue [[Lev.15.5|Le 15:5]]-[[Lev.15.13|13]]
+- Those having bloody issue [[Lev.15.5|Le 15:5-13]]
 
 - Those having eaten that which died [[Lev.17.15|Le 17:15]],[[Lev.17.16|16]]
 

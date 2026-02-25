@@ -1,7 +1,7 @@
 
 **ABDON**
 
-1. A judge of Israel, in the time of the judges [[Judg.12.13|Jud  12:13]]-[[Judg.12.15|15]]
+1. A judge of Israel, in the time of the judges [[Judg.12.13|Jud  12:13-15]]
 
 2. A Levitical city [[Josh.21.30|Jos 21:30]]; [[1Chr.6.74|1Ch 6:74]]
 

@@ -1,8 +1,64 @@
+---
+title: Job 16:4
+type: Verse
+kjv: "I also could speak as ye do: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you."
+bsb: "I could also speak like you if you were in my place; I could heap up words against you and shake my head at you."
+hebrew: "גַּ֤ם׀ אָנֹכִי֮ כָּכֶ֪ם אֲדַ֫בֵּ֥רָה ל֤וּ־ יֵ֪שׁ נַפְשְׁכֶ֡ם תַּ֤חַת נַפְשִׁ֗י אַחְבִּ֣ירָה עֲלֵיכֶ֣ם בְּמִלִּ֑ים וְאָנִ֥יעָה עֲ֝לֵיכֶ֗ם בְּמ֣וֹ רֹאשִֽׁי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H1571]]"
+- "[[H9015]]"
+- "[[H0595]]"
+- "[[H9004]]"
+- "[[H9036]]"
+- "[[H1696G]]"
+- "[[H3863]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H8478H]]"
+- "[[H9020]]"
+- "[[H2266]]"
+- "[[H5921A]]"
+- "[[H9003]]"
+- "[[H4405]]"
+- "[[H9002]]"
+- "[[H5128]]"
+- "[[H1119]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:4**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I also could speak as ye [do]: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
 <small><sub>**BSB:**</sub></small>
 I could also speak like you if you were in my place; I could heap up words against you and shake my head at you.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]][[H9015\|׀]] [[H0595\|אָנֹכִי֮]] [[H9004\|כָּ]][[H9036\|כֶ֪ם]] [[H1696G\|אֲדַ֫בֵּ֥רָה]] [[H3863\|ל֤וּ]][[H9014\|־]] [[H3426\|יֵ֪שׁ]] [[H5315I\|נַפְשְׁ]][[H9026\|כֶ֡ם]] [[H8478H\|תַּ֤חַת]] [[H5315I\|נַפְשִׁ֗]][[H9020\|י]] [[H2266\|אַחְבִּ֣ירָה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֣ם]] [[H9003\|בְּ]][[H4405\|מִלִּ֑ים]] [[H9002\|וְ]][[H5128\|אָנִ֥יעָה]] [[H5921A\|עֲ֝לֵי]][[H9036\|כֶ֗ם]] [[H1119\|בְּמ֣וֹ]] [[H7218A\|רֹאשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.3|<< Job 16:3]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.5|Job 16:5 >>]]</td></tr></table>
 

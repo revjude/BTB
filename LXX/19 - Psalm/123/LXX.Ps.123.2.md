@@ -1,6 +1,70 @@
+---
+title: LXX Psalm 123:2
+type: Verse
+lxx: "Behold, as eyes of servants are to the hands  of their masters; as the eyes of the maidservant to the hands  of her lady; so  our eyes are to the lord  our God, until of which time he should pity us."
+greek: "ιδού ως οφθαλμοί δούλων εις χείρας των κυρίων αυτών ως οφθαλμοί παιδίσκης εις χείρας της κυρίας αυτής ούτως οι οφθαλμοί ημών προς κύριον τον θεόν ημών έως ου οικτειρήσαι ημάς"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 123
+book/chapter: "[[Ps.123|Psalm 123]]"
+chronological_order: 885
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G2400]]"
+- "[[G5613]]"
+- "[[G3788]]"
+- "[[G1401]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G3788]]"
+- "[[G3814]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G2959]]"
+- "[[G1473]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G3627]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 123:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, as eyes of servants \[are\] to \[the\] hands  of their masters; as \[the\] eyes of \[the\] maidservant to \[the\] hands  of her lady; so  our eyes \[are\] to \[the\] <span class="smallcaps">lord</span>  our God, until of which \[time\] he should pity us. 
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ιδού]] [[G5613\|ως]] [[G3788\|οφθαλμοί]] [[G1401\|δούλων]] [[G1519\|εις]] [[G5495\|χείρας]] [[G3588\|των]] [[G2962\|κυρίων]] [[G1473\|αυτών]] [[G5613\|ως]] [[G3788\|οφθαλμοί]] [[G3814\|παιδίσκης]] [[G1519\|εις]] [[G5495\|χείρας]] [[G3588\|της]] [[G2959\|κυρίας]] [[G1473\|αυτής]] [[G3779\|ούτως]] [[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G1473\|ημών]] [[G4314\|προς]] [[G2962\|κύριον]] [[G3588\|τον]] [[G2316\|θεόν]] [[G1473\|ημών]] [[G2193\|έως]] [[G3739\|ου]] [[G3627\|οικτειρήσαι]] [[G1473\|ημάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic SERVANT|SERVANT]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.123.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.1|<< Psalm 123:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.123.3|Psalm 123:3 >>]]</td></tr></table>
 
@@ -32,6 +96,6 @@ Behold, as eyes of servants \[are\] to \[the\] hands  of their masters; as \[the
 | of which \[time\] | **<big>[[G3739\|ου]]</big>** |
 | he should pity | **<big>[[G3627\|οικτειρήσαι]]</big>** |
 | us. | **<big>[[G1473\|ημάς]]</big>** |
-[[Ps.123.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.1|<< Psalm 123:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.123.3|Psalm 123:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.1|<< Psalm 123:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.123.3|Psalm 123:3 >>]]</td></tr></table>
 
 

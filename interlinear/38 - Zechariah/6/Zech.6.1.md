@@ -1,8 +1,61 @@
+---
+title: Zechariah 6:1
+type: Verse
+kjv: "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass."
+bsb: "And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze."
+hebrew: "וָאָשֻׁ֗ב וָאֶשָּׂ֤א עֵינַי֙ וָֽאֶרְאֶ֔ה וְהִנֵּ֨ה אַרְבַּ֤ע מַרְכָּבוֹת֙ יֹֽצְא֔וֹת מִבֵּ֖ין שְׁנֵ֣י הֶֽהָרִ֑ים וְהֶהָרִ֖ים הָרֵ֥י נְחֹֽשֶׁת׃"
+pericope: "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H5375M]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0702]]"
+- "[[H4818]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H0996G]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:1**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains [were] mountains of brass.
 <small><sub>**BSB:**</sub></small>
 And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7725J\|אָשֻׁ֗ב]] [[H9001\|וָ]][[H5375M\|אֶשָּׂ֤א]] [[H5869A\|עֵינַ]][[H9020\|י֙]] [[H9001\|וָֽ]][[H7200G\|אֶרְאֶ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0702\|אַרְבַּ֤ע]] [[H4818\|מַרְכָּבוֹת֙]] [[H3318G\|יֹֽצְא֔וֹת]] [[H9006\|מִ]][[H0996G\|בֵּ֖ין]] [[H8147\|שְׁנֵ֣י]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֑ים]] [[H9002\|וְ]][[H9009\|הֶ]][[H2022G\|הָרִ֖ים]] [[H2022G\|הָרֵ֥י]] [[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.11|<< Zechariah 5:11]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.2|Zechariah 6:2 >>]]</td></tr></table>
 

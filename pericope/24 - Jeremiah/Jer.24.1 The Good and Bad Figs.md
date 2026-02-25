@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Good and Bad Figs
+type: Pericope
 pericope: "[[Jer.24.1 The Good and Bad Figs|The Good and Bad Figs]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 24
 book/chapter: "[[Jer.24|Jeremiah 24]]"
-genre:
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.24.1]]"
 - "[[Jer.24.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.24.10]]"
 ---
 
-[[Jer.24|Jeremiah 24:1 - Jeremiah 24:10]]
+<small>[[Jer.24|Jeremiah 24:1-10]]</small>
 *The Good and Bad Figs*
 
 [[Jer.24.1|1]] The LORD shewed me, and, behold, two baskets of figs \[were\] set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.

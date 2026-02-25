@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 6:20
+type: Verse
+kjv: "That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place."
+bsb: "May Your eyes be open toward this temple day and night, toward the place where You said You would put Your Name, so that You may hear the prayer that Your servant prays toward this place."
+hebrew: "לִהְיוֹת֩ עֵינֶ֨יךָ פְתֻח֜וֹת אֶל־ הַבַּ֤יִת הַזֶּה֙ יוֹמָ֣ם וָלַ֔יְלָה אֶל־ הַ֨מָּק֔וֹם אֲשֶׁ֣ר אָמַ֔רְתָּ לָשׂ֥וּם שִׁמְךָ֖ שָׁ֑ם לִשְׁמ֙וֹעַ֙ אֶל־ הַתְּפִלָּ֔ה אֲשֶׁ֣ר יִתְפַּלֵּ֣ל עַבְדְּךָ֔ אֶל־ הַמָּק֖וֹם הַזֶּֽה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H6605A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H7760A]]"
+- "[[H8034]]"
+- "[[H8033G]]"
+- "[[H8085G]]"
+- "[[H8605]]"
+- "[[H6419]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:20**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place.
 <small><sub>**BSB:**</sub></small>
 May Your eyes be open toward this temple day and night, toward the place where You said You would put Your Name, so that You may hear the prayer that Your servant prays toward this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1961\|הְיוֹת֩]] [[H5869A\|עֵינֶ֨י]][[H9021\|ךָ]] [[H6605A\|פְתֻח֜וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H3119\|יוֹמָ֣ם]] [[H9002\|וָ]][[H3915\|לַ֔יְלָה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ֨]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֔רְתָּ]] [[H9005\|לָ]][[H7760A\|שׂ֥וּם]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H8033G\|שָׁ֑ם]] [[H9005\|לִ]][[H8085G\|שְׁמ֙וֹעַ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8605\|תְּפִלָּ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H6419\|יִתְפַּלֵּ֣ל]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.19|<< 2 Chronicles 6:19]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.21|2 Chronicles 6:21 >>]]</td></tr></table>
 

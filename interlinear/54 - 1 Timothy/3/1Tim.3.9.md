@@ -1,10 +1,54 @@
+---
+title: 1 Timothy 3:9
+type: Verse
+kjv: "Holding the mystery of the faith in a pure conscience."
+bsb: "They must hold to the mystery of the faith with a clear conscience."
+greek: "ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει."
+pericope: "[[1Tim.3.8 Qualifications for Deacons|Qualifications for Deacons]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DEACON|DEACON]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PURITY|PURITY]]"
+strongs:
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G2513]]"
+- "[[G4893]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:9**<big><big>[[1Tim.3.8 Qualifications for Deacons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Holding the mystery of the faith in a pure conscience.
 <small><sub>**BSB:**</sub></small>
 They must hold to the mystery of the faith with a clear conscience.
-<small><sub>**Literal:**</sub></small>
-holding to the mystery of the faith with clear a conscience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.8|<< 1 Timothy 3:8]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.10|1 Timothy 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2192\|ἔχοντας]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G1722\|ἐν]]  [[G2513\|καθαρᾷ]]  [[G4893\|συνειδήσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DEACON|DEACON]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PURITY|PURITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.8|<< 1 Timothy 3:8]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.10|1 Timothy 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

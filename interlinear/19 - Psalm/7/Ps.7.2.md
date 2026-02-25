@@ -1,8 +1,56 @@
+---
+title: Psalm 7:2
+type: Verse
+kjv: "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver."
+bsb: "or they will shred my soul like a lion and tear me to pieces with no one to rescue me."
+hebrew: "פֶּן־ יִטְרֹ֣ף כְּאַרְיֵ֣ה נַפְשִׁ֑י פֹּ֝רֵ֗ק וְאֵ֣ין מַצִּֽיל׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H2963]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H6561]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:2**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest he tear my soul like a lion, rending [it] in pieces, while [there is] none to deliver.
 <small><sub>**BSB:**</sub></small>
 or they will shred my soul like a lion and tear me to pieces with no one to rescue me.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H2963\|יִטְרֹ֣ף]] [[H9004\|כְּ]][[H0738B\|אַרְיֵ֣ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H6561\|פֹּ֝רֵ֗ק]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.1|<< Psalms 7:1]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.3|Psalms 7:3 >>]]</td></tr></table>
 

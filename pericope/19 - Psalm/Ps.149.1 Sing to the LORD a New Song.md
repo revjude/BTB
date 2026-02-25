@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sing to the LORD a New Song
+type: Pericope
 pericope: "[[Ps.149.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 149
 book/chapter: "[[Ps.149|Psalm 149]]"
-genre:
+chronological_order: 897
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.149.1]]"
 - "[[Ps.149.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.149.9]]"
 ---
 
-[[Ps.149|Psalm 149:1 - Psalm 149:9]]
+<small>[[Ps.149|Psalm 149:1-9]]</small>
 *Sing to the LORD a New Song*
 
 [[Ps.149.1|1]] Praise ye the LORD. Sing unto the LORD a new song, \[and\] his praise in the congregation of saints.

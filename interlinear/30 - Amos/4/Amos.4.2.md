@@ -1,8 +1,66 @@
+---
+title: Amos 4:2
+type: Verse
+kjv: "The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks."
+bsb: "The Lord GOD has sworn by His holiness: “Behold, the days are coming when you will be taken away with hooks, and your posterity with fishhooks."
+hebrew: "נִשְׁבַּ֨ע אֲדֹנָ֤י יְהוִה֙ בְּקָדְשׁ֔וֹ כִּ֛י הִנֵּ֥ה יָמִ֖ים בָּאִ֣ים עֲלֵיכֶ֑ם וְנִשָּׂ֤א אֶתְכֶם֙ בְּצִנּ֔וֹת וְאַחֲרִיתְכֶ֖ן בְּסִיר֥וֹת דּוּגָֽה׃"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FISHHOOK|FISHHOOK]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H7650]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H6793A]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H9027]]"
+- "[[H5518B]]"
+- "[[H1729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 4:2**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord GOD hath sworn by his holiness, that, lo, the days shall come upon you, that he will take you away with hooks, and your posterity with fishhooks.
 <small><sub>**BSB:**</sub></small>
 The Lord GOD has sworn by His holiness: “Behold, the days are coming when you will be taken away with hooks, and your posterity with fishhooks.
+<small><sub>**Hebrew:**</sub></small>
+[[H7650\|נִשְׁבַּ֨ע]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H9003\|בְּ]][[H6944G\|קָדְשׁ֔]][[H9023\|וֹ]] [[H3588A\|כִּ֛י]] [[H2009\|הִנֵּ֥ה]] [[H3117G\|יָמִ֖ים]] [[H0935G\|בָּאִ֣ים]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H5375G\|נִשָּׂ֤א]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בְּ]][[H6793A\|צִנּ֔וֹת]] [[H9002\|וְ]][[H0319\|אַחֲרִיתְ]][[H9027\|כֶ֖ן]] [[H9003\|בְּ]][[H5518B\|סִיר֥וֹת]] [[H1729\|דּוּגָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FISHHOOK|FISHHOOK]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.1|<< Amos 4:1]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.3|Amos 4:3 >>]]</td></tr></table>
 

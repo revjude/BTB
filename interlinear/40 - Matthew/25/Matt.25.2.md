@@ -1,10 +1,63 @@
+---
+title: Matthew 25:2
+type: Verse
+kjv: "And five of them were wise, and five were foolish."
+bsb: "Five of them were foolish, and five were wise."
+jesus_said: "And five of them were wise, and five were foolish."
+greek: "πέντε δὲ ἐξ αὐτῶν ἦσαν μωραὶ καὶ αἱ πέντε φρόνιμοι·"
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G4002]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3474]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5429]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:2**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And five of them were wise, and five [were] foolish.
 <small><sub>**BSB:**</sub></small>
 Five of them were foolish, and five were wise.
-<small><sub>**Literal:**</sub></small>
-Five now of them were foolish and the [other] five wise;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.1|<< Matthew 25:1]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.3|Matthew 25:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4002\|πέντε]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1510\|ἦσαν]]  [[G3474\|μωραὶ]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4002\|πέντε]]  [[G5429\|φρόνιμοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.1|<< Matthew 25:1]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.3|Matthew 25:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

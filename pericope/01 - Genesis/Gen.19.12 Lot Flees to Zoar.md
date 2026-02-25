@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lot Flees to Zoar
+type: Pericope
 pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 19
 book/chapter: "[[Gen.19|Genesis 19]]"
-genre:
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 12
 verses:
 - "[[Gen.19.12]]"
 - "[[Gen.19.13]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Gen.19.23]]"
 ---
 
-[[Gen.19|Genesis 19:12 - Genesis 19:23]]
+<small>[[Gen.19|Genesis 19:12-23]]</small>
 *Lot Flees to Zoar*
 
 [[Gen.19.12|12]] And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring \[them\] out of this place:

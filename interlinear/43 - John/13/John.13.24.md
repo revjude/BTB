@@ -1,10 +1,58 @@
+---
+title: John 13:24
+type: Verse
+kjv: "Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake."
+bsb: "So Simon Peter motioned to him to ask Jesus which one He was talking about."
+greek: "νεύει οὖν τούτῳ Σίμων Πέτρος καὶ λέγει αὐτῷ πυθέσθαι τίς ἂν εἴη περὶ οὗ λέγει."
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G3506]]"
+- "[[G3767]]"
+- "[[G3778]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4441]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G1510]]"
+- "[[G4012]]"
+- "[[G3739]]"
+texts:
+- NKO
+- o
+- NK(o)
+---
+
 **John 13:24**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.
 <small><sub>**BSB:**</sub></small>
 So Simon Peter motioned to him to ask Jesus which one He was talking about.
-<small><sub>**Literal:**</sub></small>
-Motions therefore to him Simon Peter and says to him to ask who maybe it would be about whom He is speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.23|<< John 13:23]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.25|John 13:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3506\|νεύει]]  [[G3767\|οὖν]]  [[G3778\|τούτῳ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G4441\|πυθέσθαι]]  [[G5101\|τίς]]  [[G0302\|ἂν]]  [[G1510\|εἴη]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G3004G\|λέγει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.23|<< John 13:23]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.25|John 13:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

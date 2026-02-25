@@ -1,8 +1,66 @@
+---
+title: Leviticus 25:47
+type: Verse
+kjv: "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:"
+bsb: "If a foreigner residing among you prospers, but your countryman dwelling near him becomes destitute and sells himself to the foreigner or to a member of his clan,"
+hebrew: "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H5381]]"
+- "[[H3027I]]"
+- "[[H1616]]"
+- "[[H8453A]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H4134]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H9033]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H0176A]]"
+- "[[H6133]]"
+- "[[H4940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:47**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a sojourner or stranger wax rich by thee, and thy brother [that dwelleth] by him wax poor, and sell himself unto the stranger [or] sojourner by thee, or to the stock of the stranger’s family:
 <small><sub>**BSB:**</sub></small>
 If a foreigner residing among you prospers, but your countryman dwelling near him becomes destitute and sells himself to the foreigner or to a member of his clan,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֣י]] [[H5381\|תַשִּׂ֗יג]] [[H3027I\|יַ֣ד]] [[H1616\|גֵּ֤ר]] [[H9002\|וְ]][[H8453A\|תוֹשָׁב֙]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9001\|וּ]][[H4134\|מָ֥ךְ]] [[H0251I\|אָחִ֖י]][[H9021\|ךָ]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H4376\|נִמְכַּ֗ר]] [[H9005\|לְ]][[H1616\|גֵ֤ר]] [[H8453A\|תּוֹשָׁב֙]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H0176A\|א֥וֹ]] [[H9005\|לְ]][[H6133\|עֵ֖קֶר]] [[H4940\|מִשְׁפַּ֥חַת]] [[H1616\|גֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.46|<< Leviticus 25:46]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.48|Leviticus 25:48 >>]]</td></tr></table>
 

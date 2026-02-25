@@ -1,8 +1,63 @@
+---
+title: Jeremiah 51:50
+type: Verse
+kjv: "Ye that have escaped the sword, go away, stand not still: remember the LORD afar off, and let Jerusalem come into your mind."
+bsb: "You who have escaped the sword, depart and do not linger! Remember the LORD from far away, and let Jerusalem come to mind.”"
+hebrew: "פְּלֵטִ֣ים מֵחֶ֔רֶב הִלְכ֖וּ אַֽל־ תַּעֲמֹ֑דוּ זִכְר֤וּ מֵֽרָחוֹק֙ אֶת־ יְהוָ֔ה וִירֽוּשָׁלִַ֖ם תַּעֲלֶ֥ה עַל־ לְבַבְכֶֽם׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6412B]]"
+- "[[H9006]]"
+- "[[H2719]]"
+- "[[H1980G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H2142]]"
+- "[[H7350]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:50**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that have escaped the sword, go away, stand not still: remember the LORD afar off, and let Jerusalem come into your mind.
 <small><sub>**BSB:**</sub></small>
 You who have escaped the sword, depart and do not linger! Remember the LORD from far away, and let Jerusalem come to mind.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6412B\|פְּלֵטִ֣ים]] [[H9006\|מֵ]][[H2719\|חֶ֔רֶב]] [[H1980G\|הִלְכ֖וּ]] [[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹ֑דוּ]] [[H2142\|זִכְר֤וּ]] [[H9006\|מֵֽ]][[H7350\|רָחוֹק֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וִ]][[H3389\|ירֽוּשָׁלִַ֖ם]] [[H5927G\|תַּעֲלֶ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PERSIA|PERSIA]] • [[topic RESIGNATION|RESIGNATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.49|<< Jeremiah 51:49]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.51|Jeremiah 51:51 >>]]</td></tr></table>
 

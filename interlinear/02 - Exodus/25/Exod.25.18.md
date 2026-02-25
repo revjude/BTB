@@ -1,8 +1,62 @@
+---
+title: Exodus 25:18
+type: Verse
+kjv: "And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat."
+bsb: "Make two cherubim of hammered gold at the ends of the mercy seat,"
+hebrew: "וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃"
+pericope: "[[Exod.25.17 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BEATEN WORK|BEATEN WORK]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H8147]]"
+- "[[H3742]]"
+- "[[H2091]]"
+- "[[H4749]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H3727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:18**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make two cherubims [of] gold, [of] beaten work shalt thou make them, in the two ends of the mercy seat.
 <small><sub>**BSB:**</sub></small>
 Make two cherubim of hammered gold at the ends of the mercy seat,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֛יתָ]] [[H8147\|שְׁנַ֥יִם]] [[H3742\|כְּרֻבִ֖ים]] [[H2091\|זָהָ֑ב]] [[H4749\|מִקְשָׁה֙]] [[H6213H\|תַּעֲשֶׂ֣ה]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9006\|מִ]][[H8147\|שְּׁנֵ֖י]] [[H7098\|קְצ֥וֹת]] [[H9009\|הַ]][[H3727\|כַּפֹּֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEATEN WORK|BEATEN WORK]] • [[topic CHERUBIM|CHERUBIM]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.17|<< Exodus 25:17]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.19|Exodus 25:19 >>]]</td></tr></table>
 

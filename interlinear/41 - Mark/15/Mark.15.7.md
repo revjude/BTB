@@ -1,10 +1,57 @@
+---
+title: Mark 15:7
+type: Verse
+kjv: "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection."
+bsb: "And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection."
+greek: "ἦν δὲ ὁ λεγόμενος Βαραββᾶς μετὰ τῶν στασιαστῶν δεδεμένος οἵτινες ἐν τῇ στάσει φόνον πεποιήκεισαν."
+pericope: "[[Mark.15.6 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INSURRECTION|INSURRECTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3004H]]"
+- "[[G0912]]"
+- "[[G3326]]"
+- "[[G4955]]"
+- "[[G1210]]"
+- "[[G3748]]"
+- "[[G1722]]"
+- "[[G4714]]"
+- "[[G5408]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Mark 15:7**<big><big>[[Mark.15.6 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was [one] named Barabbas, [which lay] bound with them that had made insurrection with him, who had committed murder in the insurrection.
 <small><sub>**BSB:**</sub></small>
 And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection.
-<small><sub>**Literal:**</sub></small>
-There was then the [one] being named Barabbas with the rebels bound who in the insurrection murder had committed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.6|<< Mark 15:6]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.8|Mark 15:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G0912\|Βαραββᾶς]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G4955\|στασιαστῶν]]  [[G1210\|δεδεμένος]]  [[G3748\|οἵτινες]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4714\|στάσει]]  [[G5408\|φόνον]]  [[G4160G\|πεποιήκεισαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic CITIZENS|CITIZENS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INSURRECTION|INSURRECTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.6|<< Mark 15:6]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.8|Mark 15:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

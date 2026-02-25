@@ -1,8 +1,60 @@
+---
+title: Numbers 4:45
+type: Verse
+kjv: "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses."
+bsb: "These were counted from the Merarite clans, whom Moses and Aaron numbered at the LORD’s command through Moses."
+hebrew: "אֵ֣לֶּה פְקוּדֵ֔י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־ פִּ֥י יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H4847]]"
+- "[[H0834A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:45**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [be] those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 These were counted from the Merarite clans, whom Moses and Aaron numbered at the LORD’s command through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H6485A\|פְקוּדֵ֔י]] [[H4940\|מִשְׁפְּחֹ֖ת]] [[H1121G\|בְּנֵ֣י]] [[H4847\|מְרָרִ֑י]] [[H0834A\|אֲשֶׁ֨ר]] [[H6485A\|פָּקַ֤ד]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.44|<< Numbers 4:44]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.46|Numbers 4:46 >>]]</td></tr></table>
 

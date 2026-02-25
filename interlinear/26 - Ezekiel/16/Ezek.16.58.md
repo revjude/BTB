@@ -1,8 +1,56 @@
+---
+title: Ezekiel 16:58
+type: Verse
+kjv: "Thou hast borne thy lewdness and thine abominations, saith the LORD."
+bsb: "You will bear the consequences of your lewdness and your abominations, declares the LORD."
+hebrew: "אֶת־ זִמָּתֵ֥ךְ וְאֶת־ תּוֹעֲבוֹתַ֖יִךְ אַ֣תְּ נְשָׂאתִ֑ים נְאֻ֖ם יְהוָֽה׃ ס"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2154]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H8441]]"
+- "[[H0859C]]"
+- "[[H5375H]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 16:58**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast borne thy lewdness and thine abominations, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 You will bear the consequences of your lewdness and your abominations, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H2154\|זִמָּתֵ֥]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8441\|תּוֹעֲבוֹתַ֖יִ]][[H9022\|ךְ]] [[H0859C\|אַ֣תְּ]] [[H5375H\|נְשָׂאתִ֑י]][[H9038\|ם]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.57|<< Ezekiel 16:57]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.59|Ezekiel 16:59 >>]]</td></tr></table>
 
@@ -15,7 +63,7 @@ You will bear the consequences of your lewdness and your abominations, declares 
 | you  |**<big>&#8207;[[H0859C\|אַ֣תְּ]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will bear them  |**<big>&#8207;[[H5375H\|נְשָׂאתִ֑י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ne.sa.Ti<small><sup>[[HVqp2fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.57|<< Ezekiel 16:57]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.59|Ezekiel 16:59 >>]]</td></tr></table>
 
 

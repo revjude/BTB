@@ -1,10 +1,56 @@
+---
+title: John 18:9
+type: Verse
+kjv: "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none."
+bsb: "This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”"
+greek: "ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν ὅτι οὓς δέδωκάς μοι οὐκ ἀπώλεσα ἐξ αὐτῶν οὐδένα."
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G0622]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3762]]"
+texts:
+- NKO
+---
+
 **John 18:9**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
 <small><sub>**BSB:**</sub></small>
 This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”
-<small><sub>**Literal:**</sub></small>
-so that may be fulfilled the word that He had spoken that Those whom You have given Me not I lost of them not [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.8|<< John 18:8]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.10|John 18:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3739\|ὃν]]  [[G2036\|εἶπεν]]  [[G3754G\|ὅτι]]  [[G3739\|οὓς]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι]]  [[G3756\|οὐκ]]  [[G0622\|ἀπώλεσα]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3762\|οὐδένα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.8|<< John 18:8]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.10|John 18:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

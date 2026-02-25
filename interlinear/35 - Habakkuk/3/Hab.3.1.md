@@ -1,8 +1,52 @@
+---
+title: Habakkuk 3:1
+type: Verse
+kjv: "A prayer of Habakkuk the prophet upon Shigionoth."
+bsb: "This is a prayer of Habakkuk the prophet, according to Shigionoth:"
+hebrew: "תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic HABAKKUK|HABAKKUK]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHIGGAION|SHIGGAION]]"
+strongs:
+- "[[H8605]]"
+- "[[H9005]]"
+- "[[H2265]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5921A]]"
+- "[[H7692H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:1**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A prayer of Habakkuk the prophet upon Shigionoth.
 <small><sub>**BSB:**</sub></small>
 This is a prayer of Habakkuk the prophet, according to Shigionoth:
+<small><sub>**Hebrew:**</sub></small>
+[[H8605\|תְּפִלָּ֖ה]] [[H9005\|לַ]][[H2265\|חֲבַקּ֣וּק]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H5921A\|עַ֖ל]] [[H7692H\|שִׁגְיֹנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HABAKKUK|HABAKKUK]] • [[topic MUSIC|MUSIC]] • [[topic SHIGGAION|SHIGGAION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.20|<< Habakkuk 2:20]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.2|Habakkuk 3:2 >>]]</td></tr></table>
 

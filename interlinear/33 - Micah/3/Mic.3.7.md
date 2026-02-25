@@ -1,8 +1,61 @@
+---
+title: Micah 3:7
+type: Verse
+kjv: "Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God."
+bsb: "Then the seers will be ashamed and the diviners will be disgraced. They will all cover their mouths because there is no answer from God.”"
+hebrew: "וּבֹ֣שׁוּ הַחֹזִ֗ים וְחָֽפְרוּ֙ הַקֹּ֣סְמִ֔ים וְעָט֥וּ עַל־ שָׂפָ֖ם כֻּלָּ֑ם כִּ֛י אֵ֥ין מַעֲנֵ֖ה אֱלֹהִֽים׃"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0954]]"
+- "[[H9009]]"
+- "[[H2374]]"
+- "[[H2659]]"
+- "[[H7080]]"
+- "[[H5844A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8222]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4617]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 3:7**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for [there is] no answer of God.
 <small><sub>**BSB:**</sub></small>
 Then the seers will be ashamed and the diviners will be disgraced. They will all cover their mouths because there is no answer from God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0954\|בֹ֣שׁוּ]] [[H9009\|הַ]][[H2374\|חֹזִ֗ים]] [[H9001\|וְ]][[H2659\|חָֽפְרוּ֙]] [[H9009\|הַ]][[H7080\|קֹּ֣סְמִ֔ים]] [[H9001\|וְ]][[H5844A\|עָט֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H8222\|שָׂפָ֖ם]] [[H3605\|כֻּלָּ֑]][[H9028\|ם]] [[H3588A\|כִּ֛י]] [[H0369\|אֵ֥ין]] [[H4617\|מַעֲנֵ֖ה]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PROPHETS|PROPHETS]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.6|<< Micah 3:6]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.8|Micah 3:8 >>]]</td></tr></table>
 

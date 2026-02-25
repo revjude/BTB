@@ -1,8 +1,60 @@
+---
+title: Genesis 37:21
+type: Verse
+kjv: "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him."
+bsb: "When Reuben heard this, he tried to rescue Joseph from their hands. “Let us not take his life,” he said."
+hebrew: "וַיִּשְׁמַ֣ע רְאוּבֵ֔ן וַיַּצִּלֵ֖הוּ מִיָּדָ֑ם וַיֹּ֕אמֶר לֹ֥א נַכֶּ֖נּוּ נָֽפֶשׁ׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H7205]]"
+- "[[H5337]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5221]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:21**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben heard [it], and he delivered him out of their hands; and said, Let us not kill him.
 <small><sub>**BSB:**</sub></small>
 When Reuben heard this, he tried to rescue Joseph from their hands. “Let us not take his life,” he said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H7205\|רְאוּבֵ֔ן]] [[H9001\|וַ]][[H5337\|יַּצִּלֵ֖]][[H9033\|הוּ]] [[H9006\|מִ]][[H3027G\|יָּדָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3808\|לֹ֥א]] [[H5221\|נַכֶּ֖]][[H9033\|נּוּ]] [[H5315H\|נָֽפֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.20|<< Genesis 37:20]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.22|Genesis 37:22 >>]]</td></tr></table>
 

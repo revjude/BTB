@@ -1,8 +1,69 @@
+---
+title: Isaiah 60:7
+type: Verse
+kjv: "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory."
+bsb: "All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve you and go up on My altar with acceptance; I will adorn My glorious house."
+hebrew: "כָּל־ צֹ֤אן קֵדָר֙ יִקָּ֣בְצוּ לָ֔ךְ אֵילֵ֥י נְבָי֖וֹת יְשָׁרְת֑וּנֶךְ יַעֲל֤וּ עַל־ רָצוֹן֙ מִזְבְּחִ֔י וּבֵ֥ית תִּפְאַרְתִּ֖י אֲפָאֵֽר׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KEDAR|KEDAR]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NEBAIOTH|NEBAIOTH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H6938]]"
+- "[[H6908]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0352A]]"
+- "[[H5032]]"
+- "[[H8334]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H7522]]"
+- "[[H4196]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1004Q]]"
+- "[[H8597]]"
+- "[[H6286A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:7**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.
 <small><sub>**BSB:**</sub></small>
 All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve you and go up on My altar with acceptance; I will adorn My glorious house.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H6629G\|צֹ֤אן]] [[H6938\|קֵדָר֙]] [[H6908\|יִקָּ֣בְצוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H0352A\|אֵילֵ֥י]] [[H5032\|נְבָי֖וֹת]] [[H8334\|יְשָׁרְת֑וּ]][[H9032\|נֶךְ]] [[H5927G\|יַעֲל֤וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7522\|רָצוֹן֙]] [[H4196\|מִזְבְּחִ֔]][[H9020\|י]] [[H9002\|וּ]][[H1004Q\|בֵ֥ית]] [[H8597\|תִּפְאַרְתִּ֖]][[H9020\|י]] [[H6286A\|אֲפָאֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KEDAR|KEDAR]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NEBAIOTH|NEBAIOTH]] • [[topic SHEEP|SHEEP]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.6|<< Isaiah 60:6]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.8|Isaiah 60:8 >>]]</td></tr></table>
 

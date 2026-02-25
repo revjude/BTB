@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 5:9
+type: Verse
+kjv: "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead."
+bsb: "They also settled in the east as far as the edge of the desert that extends to the Euphrates River, because their livestock had increased in the land of Gilead."
+hebrew: "וְלַמִּזְרָ֗ח יָשַׁב֙ עַד־ לְב֣וֹא מִדְבָּ֔רָה לְמִן־ הַנָּהָ֖ר פְּרָ֑ת כִּ֧י מִקְנֵיהֶ֛ם רָב֖וּ בְּאֶ֥רֶץ גִּלְעָֽד׃"
+pericope: "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic GILEAD|GILEAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4217H]]"
+- "[[H3427]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935I]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H3588A]]"
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H7235A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:9**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.
 <small><sub>**BSB:**</sub></small>
 They also settled in the east as far as the edge of the desert that extends to the Euphrates River, because their livestock had increased in the land of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H4217H\|מִּזְרָ֗ח]] [[H3427\|יָשַׁב֙]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H0935I\|ב֣וֹא]] [[H4057B\|מִדְבָּ֔רָ]][[H9011\|ה]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָ֖ר]] [[H6578\|פְּרָ֑ת]] [[H3588A\|כִּ֧י]] [[H4735\|מִקְנֵי]][[H9028\|הֶ֛ם]] [[H7235A\|רָב֖וּ]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic GILEAD|GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.8|<< 1 Chronicles 5:8]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.10|1 Chronicles 5:10 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Revelation 16:5
+type: Verse
+kjv: "And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus."
+bsb: "And I heard the angel of the waters say: “Righteous are You, O Holy One, who is and was, because You have brought these judgments."
+greek: "καὶ ἤκουσα τοῦ ἀγγέλου τῶν ὑδάτων λέγοντος· δίκαιος κύριε εἶ, ὁ ὢν καὶ ὁ ἦν καὶ ὁ ὅσιος, ὅτι ταῦτα ἔκρινας,"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WATER|WATER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G5204]]"
+- "[[G3004G]]"
+- "[[G1342]]"
+- "[[G2962G]]"
+- "[[G1510]]"
+- "[[G3741]]"
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G2919]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 16:5**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.
 <small><sub>**BSB:**</sub></small>
 And I heard the angel of the waters say: “Righteous are You, O Holy One, who is and was, because You have brought these judgments.
-<small><sub>**Literal:**</sub></small>
-And I heard the angel of the waters saying: Righteous O Lord are, you who [are] being and who was being and O holy One, because these things You have judged,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.4|<< Revelation 16:4]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.6|Revelation 16:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G3588\|τῶν]]  [[G5204\|ὑδάτων]]  [[G3004G\|λέγοντος·]]  [[G1342\|δίκαιος]]  [[G2962G\|κύριε]]  [[G1510\|εἶ,]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3741\|ὅσιος,]]  [[G3754H\|ὅτι]]  [[G3778\|ταῦτα]]  [[G2919\|ἔκρινας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TEMPLE|TEMPLE]] • [[topic WATER|WATER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.4|<< Revelation 16:4]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.6|Revelation 16:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

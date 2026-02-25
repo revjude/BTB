@@ -1,8 +1,55 @@
+---
+title: Proverbs 19:24
+type: Verse
+kjv: "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again."
+bsb: "The slacker buries his hand in the dish; he will not even bring it back to his mouth."
+hebrew: "טָ֘מַ֤ן עָצֵ֣ל יָ֭דוֹ בַּצַּלָּ֑חַת גַּם־ אֶל־ פִּ֝֗יהוּ לֹ֣א יְשִׁיבֶֽנָּה׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H2934]]"
+- "[[H6102]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6747]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H6310G]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:24**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A slothful [man] hideth his hand in [his] bosom, and will not so much as bring it to his mouth again.
 <small><sub>**BSB:**</sub></small>
 The slacker buries his hand in the dish; he will not even bring it back to his mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2934\|טָ֘מַ֤ן]] [[H6102\|עָצֵ֣ל]] [[H3027G\|יָ֭ד]][[H9023\|וֹ]] [[H9003\|בַּ]][[H6747\|צַּלָּ֑חַת]] [[H1571\|גַּם]][[H9014\|־]] [[H0413\|אֶל]][[H9014\|־]] [[H6310G\|פִּ֝֗י]][[H9023\|הוּ]] [[H3808\|לֹ֣א]] [[H7725G\|יְשִׁיבֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.23|<< Proverbs 19:23]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.25|Proverbs 19:25 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 25:9
+type: Verse
+kjv: "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this."
+bsb: "Amaziah asked the man of God, “What should I do about the hundred talents I have given to the troops of Israel?” And the man of God replied, “The LORD is able to give you much more than this.”"
+hebrew: "וַיֹּ֤אמֶר אֲמַצְיָ֙הוּ֙ לְאִ֣ישׁ הָאֱלֹהִ֔ים וּמַֽה־ לַּעֲשׂוֹת֙ לִמְאַ֣ת הַכִּכָּ֔ר אֲשֶׁ֥ר נָתַ֖תִּי לִגְד֣וּד יִשְׂרָאֵ֑ל וַיֹּ֙אמֶר֙ אִ֣ישׁ הָֽאֱלֹהִ֔ים יֵ֚שׁ לַֽיהוָ֔ה לָ֥תֶת לְךָ֖ הַרְבֵּ֥ה מִזֶּֽה׃"
+pericope: "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0558G]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3967]]"
+- "[[H3603H]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H1416]]"
+- "[[H3478]]"
+- "[[H3426]]"
+- "[[H3068G]]"
+- "[[H9031]]"
+- "[[H7235A]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:9**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this.
 <small><sub>**BSB:**</sub></small>
 Amaziah asked the man of God, “What should I do about the hundred talents I have given to the troops of Israel?” And the man of God replied, “The LORD is able to give you much more than this.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0558G\|אֲמַצְיָ֙הוּ֙]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H4100\|מַֽה]][[H9014\|־]] [[H9005\|לַּ]][[H6213A\|עֲשׂוֹת֙]] [[H9005\|לִ]][[H3967\|מְאַ֣ת]] [[H9009\|הַ]][[H3603H\|כִּכָּ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לִ]][[H1416\|גְד֣וּד]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H3426\|יֵ֚שׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9005\|לָ֥]][[H5414G\|תֶת]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H7235A\|הַרְבֵּ֥ה]] [[H9006\|מִ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.8|<< 2 Chronicles 25:8]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.10|2 Chronicles 25:10 >>]]</td></tr></table>
 

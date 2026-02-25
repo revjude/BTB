@@ -1,8 +1,64 @@
+---
+title: Esther 2:11
+type: Verse
+kjv: "And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her."
+bsb: "And every day Mordecai would walk back and forth in front of the court of the harem to learn about Esther’s welfare and what was happening to her."
+hebrew: "וּבְכָל־ י֣וֹם וָי֔וֹם מָרְדֳּכַי֙ מִתְהַלֵּ֔ךְ לִפְנֵ֖י חֲצַ֣ר בֵּית־ הַנָּשִׁ֑ים לָדַ֙עַת֙ אֶת־ שְׁל֣וֹם אֶסְתֵּ֔ר וּמַה־ יֵּעָשֶׂ֖ה בָּֽהּ׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H3117J]]"
+- "[[H4782H]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2691A]]"
+- "[[H1004P]]"
+- "[[H9009]]"
+- "[[H0802H]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H7965K]]"
+- "[[H0635]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:11**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her.
 <small><sub>**BSB:**</sub></small>
 And every day Mordecai would walk back and forth in front of the court of the harem to learn about Esther’s welfare and what was happening to her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H9002\|וָ]][[H3117J\|י֔וֹם]] [[H4782H\|מָרְדֳּכַי֙]] [[H1980I\|מִתְהַלֵּ֔ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H2691A\|חֲצַ֣ר]] [[H1004P\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H0802H\|נָּשִׁ֑ים]] [[H9005\|לָ]][[H3045\|דַ֙עַת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7965K\|שְׁל֣וֹם]] [[H0635\|אֶסְתֵּ֔ר]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H6213A\|יֵּעָשֶׂ֖ה]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.10|<< Esther 2:10]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.12|Esther 2:12 >>]]</td></tr></table>
 

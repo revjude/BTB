@@ -1,8 +1,65 @@
+---
+title: Numbers 28:3
+type: Verse
+kjv: "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering."
+bsb: "And tell them that this is the food offering you are to present to the LORD as a regular burnt offering each day: two unblemished year-old male lambs."
+hebrew: "וְאָמַרְתָּ֣ לָהֶ֔ם זֶ֚ה הָֽאִשֶּׁ֔ה אֲשֶׁ֥ר תַּקְרִ֖יבוּ לַיהוָ֑ה כְּבָשִׂ֨ים בְּנֵֽי־ שָׁנָ֧ה תְמִימִ֛ם שְׁנַ֥יִם לַיּ֖וֹם עֹלָ֥ה תָמִֽיד׃"
+pericope: "[[Num.28.1 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic LAMB|LAMB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H0801]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H3068G]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H8549G]]"
+- "[[H8147]]"
+- "[[H3117J]]"
+- "[[H5930A]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:3**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say unto them, This [is] the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, [for] a continual burnt offering.
 <small><sub>**BSB:**</sub></small>
 And tell them that this is the food offering you are to present to the LORD as a regular burnt offering each day: two unblemished year-old male lambs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H2088\|זֶ֚ה]] [[H9009\|הָֽ]][[H0801\|אִשֶּׁ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7126H\|תַּקְרִ֖יבוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H3532\|כְּבָשִׂ֨ים]] [[H1121L\|בְּנֵֽי]][[H9014\|־]] [[H8141\|שָׁנָ֧ה]] [[H8549G\|תְמִימִ֛ם]] [[H8147\|שְׁנַ֥יִם]] [[H9005\|לַ]][[H3117J\|יּ֖וֹם]] [[H5930A\|עֹלָ֥ה]] [[H8548\|תָמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAILY OFFERING|DAILY OFFERING]] • [[topic LAMB|LAMB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.2|<< Numbers 28:2]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.4|Numbers 28:4 >>]]</td></tr></table>
 

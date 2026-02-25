@@ -1,10 +1,60 @@
+---
+title: Philippians 2:25
+type: Verse
+kjv: "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants."
+bsb: "But I thought it necessary to send back to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger and minister to my needs."
+greek: "Ἀναγκαῖον δὲ ἡγησάμην Ἐπαφρόδιτον τὸν ἀδελφὸν καὶ συνεργὸν καὶ συστρατιώτην μου, ὑμῶν δὲ ἀπόστολον καὶ λειτουργὸν τῆς χρείας μου, πέμψαι πρὸς ὑμᾶς·"
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPAPHRODITUS|EPAPHRODITUS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+strongs:
+- "[[G0316]]"
+- "[[G1161]]"
+- "[[G2233]]"
+- "[[G1891]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G4904]]"
+- "[[G4961]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G0652]]"
+- "[[G3011]]"
+- "[[G5532]]"
+- "[[G3992]]"
+- "[[G4314]]"
+texts:
+- NKO
+---
+
 **Philippians 2:25**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
 <small><sub>**BSB:**</sub></small>
 But I thought it necessary to send back to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger and minister to my needs.
-<small><sub>**Literal:**</sub></small>
-Necessary now I esteemed [it] Epaphroditus the brother and fellow worker and fellow soldier of mine, of you now messenger and minister of the need of mine, to send to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.24|<< Philippians 2:24]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.26|Philippians 2:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0316\|Ἀναγκαῖον]]  [[G1161\|δὲ]]  [[G2233\|ἡγησάμην]]  [[G1891\|Ἐπαφρόδιτον]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G2532\|καὶ]]  [[G4904\|συνεργὸν]]  [[G2532\|καὶ]]  [[G4961\|συστρατιώτην]]  [[G3165\|μου,]]  [[G4771\|ὑμῶν]]  [[G1161\|δὲ]]  [[G0652\|ἀπόστολον]]  [[G2532\|καὶ]]  [[G3011\|λειτουργὸν]]  [[G3588\|τῆς]]  [[G5532\|χρείας]]  [[G3165\|μου,]]  [[G3992\|πέμψαι]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EPAPHRODITUS|EPAPHRODITUS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILIPPI|PHILIPPI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.24|<< Philippians 2:24]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.26|Philippians 2:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Mark 2:1
+type: Verse
+kjv: "And again he entered into Capernaum, after some days; and it was noised that he was in the house."
+bsb: "A few days later Jesus went back to Capernaum. And when the people heard that He was home,"
+greek: "Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ δι᾽ ἡμερῶν καὶ ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν."
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3825]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G1223]]"
+- "[[G2250]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3624G]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 2:1**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again he entered into Capernaum, after [some] days; and it was noised that he was in the house.
 <small><sub>**BSB:**</sub></small>
 A few days later Jesus went back to Capernaum. And when the people heard that He was home,
-<small><sub>**Literal:**</sub></small>
-And He was entering again into Capernaum after [some] days and it was heard that in [the] house He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.45|<< Mark 1:45]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.2|Mark 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσελθὼν]]  [[G3825\|πάλιν]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναοὺμ]]  [[G1223\|δι᾽]]  [[G2250\|ἡμερῶν]]  [[G2532\|καὶ]]  [[G0191\|ἠκούσθη]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3624G\|οἴκῳ]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.45|<< Mark 1:45]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.2|Mark 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

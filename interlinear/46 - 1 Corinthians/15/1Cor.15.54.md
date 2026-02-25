@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 15:54
+type: Verse
+kjv: "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
+bsb: "When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”"
+greek: "ὅταν δὲ τὸ φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσηται τὴν ἀθανασίαν, τότε γενήσεται ὁ λόγος ὁ γεγραμμένος· κατεπόθη ὁ θάνατος εἰς νῖκος."
+pericope: "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5349]]"
+- "[[G3778]]"
+- "[[G1746]]"
+- "[[G0861]]"
+- "[[G2532]]"
+- "[[G2349]]"
+- "[[G0110]]"
+- "[[G5119]]"
+- "[[G1096]]"
+- "[[G3056]]"
+- "[[G1125]]"
+- "[[G2666]]"
+- "[[G2288]]"
+- "[[G1519]]"
+- "[[G3534]]"
+texts:
+- NKO
+- o
+---
+
 **1 Corinthians 15:54**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.
 <small><sub>**BSB:**</sub></small>
 When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”
-<small><sub>**Literal:**</sub></small>
-When now <the> perishable this may have put on [the] imperishable and <the> mortal this may have put on <the> immortality, then will come to pass the word which written: Has been swallowed up <the> death in victory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.53|<< 1 Corinthians 15:53]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.55|1 Corinthians 15:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G5349\|φθαρτὸν]]  [[G3778\|τοῦτο]]  [[G1746\|ἐνδύσηται]]  [[G0861\|ἀφθαρσίαν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2349\|θνητὸν]]  [[G3778\|τοῦτο]]  [[G1746\|ἐνδύσηται]]  [[G3588\|τὴν]]  [[G0110\|ἀθανασίαν,]]  [[G5119\|τότε]]  [[G1096\|γενήσεται]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|ὁ]]  [[G1125\|γεγραμμένος·]]  [[G2666\|κατεπόθη]]  [[G3588\|ὁ]]  [[G2288\|θάνατος]]  [[G1519\|εἰς]]  [[G3534\|νῖκος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.53|<< 1 Corinthians 15:53]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.55|1 Corinthians 15:55 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 15:54** is...
 > $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]

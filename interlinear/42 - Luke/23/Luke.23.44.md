@@ -1,10 +1,62 @@
+---
+title: Luke 23:44
+type: Verse
+kjv: "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour."
+bsb: "It was now about the sixth hour, and darkness came over all the land until the ninth hour."
+greek: "Καὶ ἦν δὲ ἤδη ὡσεὶ ὥρα ἕκτη, καὶ σκότος ἐγένετο ἐφ᾽ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης"
+pericope: "[[Luke.23.44 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G2235]]"
+- "[[G5616]]"
+- "[[G5610]]"
+- "[[G1623]]"
+- "[[G4655]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G2193]]"
+- "[[G1766]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Luke 23:44**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.
 <small><sub>**BSB:**</sub></small>
 It was now about the sixth hour, and darkness came over all the land until the ninth hour.
-<small><sub>**Literal:**</sub></small>
-And it was now already about [the] hour sixth, and darkness came over all the land until [the] hour ninth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.43|<< Luke 23:43]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.45|Luke 23:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G2235\|ἤδη]]  [[G5616\|ὡσεὶ]]  [[G5610\|ὥρα]]  [[G1623\|ἕκτη,]]  [[G2532\|καὶ]]  [[G4655\|σκότος]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐφ᾽]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G2193\|ἕως]]  [[G5610\|ὥρας]]  [[G1766\|ἐνάτης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SUN|SUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.43|<< Luke 23:43]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.45|Luke 23:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

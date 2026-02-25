@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 7:4
+type: Verse
+kjv: "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife."
+bsb: "The wife does not have authority over her own body, but the husband. Likewise the husband does not have authority over his own body, but the wife."
+greek: "ἡ γυνὴ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλ᾽ ὁ ἀνήρ· ὁμοίως δὲ καὶ ὁ ἀνὴρ τοῦ ἰδίου σώματος οὐκ ἐξουσιάζει ἀλλ᾽ ἡ γυνή."
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G2398]]"
+- "[[G4983]]"
+- "[[G3756]]"
+- "[[G1850]]"
+- "[[G0235]]"
+- "[[G0435H]]"
+- "[[G3668]]"
+- "[[G1161]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:4**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.
 <small><sub>**BSB:**</sub></small>
 The wife does not have authority over her own body, but the husband. Likewise the husband does not have authority over his own body, but the wife.
-<small><sub>**Literal:**</sub></small>
-The wife <the> [her] own body not has authority over but the husband; likewise now also the husband <the> [his] own body not has authority over but the wife.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.3|<< 1 Corinthians 7:3]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.5|1 Corinthians 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G4983\|σώματος]]  [[G3756\|οὐκ]]  [[G1850\|ἐξουσιάζει]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G0435H\|ἀνήρ·]]  [[G3668\|ὁμοίως]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνὴρ]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G4983\|σώματος]]  [[G3756\|οὐκ]]  [[G1850\|ἐξουσιάζει]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G1135H\|γυνή.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.3|<< 1 Corinthians 7:3]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.5|1 Corinthians 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

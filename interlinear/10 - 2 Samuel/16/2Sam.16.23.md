@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 16:23
+type: Verse
+kjv: "And the counsel of Ahithophel, which he counselled in those days, was as if a man had inquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom."
+bsb: "Now in those days the advice of Ahithophel was like the consultation of the word of God. Such was the regard that both David and Absalom had for Ahithophel’s advice."
+hebrew: "וַעֲצַ֣ת אֲחִיתֹ֗פֶל אֲשֶׁ֤ר יָעַץ֙ בַּיָּמִ֣ים הָהֵ֔ם כַּאֲשֶׁ֥ר יִשְׁאַל־אִ֖ישׁ בִּדְבַ֣ר הָאֱלֹהִ֑ים כֵּ֚ן כָּל־ עֲצַ֣ת אֲחִיתֹ֔פֶל גַּם־ לְדָוִ֖ד גַּ֥ם לְאַבְשָׁלֹֽם׃ ס"
+pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic COUNSELLOR|COUNSELLOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6098]]"
+- "[[H0302]]"
+- "[[H0834A]]"
+- "[[H3289]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H1697G]]"
+- "[[H0430G]]"
+- "[[H3651C]]"
+- "[[H3605]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H0053]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 16:23**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the counsel of Ahithophel, which he counselled in those days, [was] as if a man had inquired at the oracle of God: so [was] all the counsel of Ahithophel both with David and with Absalom.
 <small><sub>**BSB:**</sub></small>
 Now in those days the advice of Ahithophel was like the consultation of the word of God. Such was the regard that both David and Absalom had for Ahithophel’s advice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6098\|עֲצַ֣ת]] [[H0302\|אֲחִיתֹ֗פֶל]] [[H0834A\|אֲשֶׁ֤ר]] [[H3289\|יָעַץ֙]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7592\|יִשְׁאַל]][[H9014\|־]][[H0376G\|אִ֖ישׁ]] [[H9003\|בִּ]][[H1697G\|דְבַ֣ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H3651C\|כֵּ֚ן]] [[H3605\|כָּל]][[H9014\|־]] [[H6098\|עֲצַ֣ת]] [[H0302\|אֲחִיתֹ֔פֶל]] [[H1571\|גַּם]][[H9014\|־]] [[H9005\|לְ]][[H1732\|דָוִ֖ד]] [[H1571\|גַּ֥ם]] [[H9005\|לְ]][[H0053\|אַבְשָׁלֹֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic COUNSELLOR|COUNSELLOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.22|<< 2 Samuel 16:22]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.1|2 Samuel 17:1 >>]]</td></tr></table>
 
@@ -25,7 +84,7 @@ Now in those days the advice of Ahithophel was like the consultation of the word
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֖ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as well as  |**<big>&#8207;[[H1571\|גַּ֥ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.22|<< 2 Samuel 16:22]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.1|2 Samuel 17:1 >>]]</td></tr></table>
 
 [^1]: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> | K

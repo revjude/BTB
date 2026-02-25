@@ -1,8 +1,58 @@
+---
+title: Psalm 18:14
+type: Verse
+kjv: "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them."
+bsb: "He shot His arrows and scattered the foes; He hurled lightning and routed them."
+hebrew: "וַיִּשְׁלַ֣ח חִ֭צָּיו וַיְפִיצֵ֑ם וּבְרָקִ֥ים רָ֝ב וַיְהֻמֵּֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2671]]"
+- "[[H9023]]"
+- "[[H6327A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1300B]]"
+- "[[H7232]]"
+- "[[H2000]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:14**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.
 <small><sub>**BSB:**</sub></small>
 He shot His arrows and scattered the foes; He hurled lightning and routed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H2671\|חִ֭צָּי]][[H9023\|ו]] [[H9001\|וַ]][[H6327A\|יְפִיצֵ֑]][[H9038\|ם]] [[H9002\|וּ]][[H1300B\|בְרָקִ֥ים]] [[H7232\|רָ֝ב]] [[H9001\|וַ]][[H2000\|יְהֻמֵּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIGHTNING|LIGHTNING]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.13|<< Psalms 18:13]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.15|Psalms 18:15 >>]]</td></tr></table>
 

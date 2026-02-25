@@ -1,8 +1,72 @@
+---
+title: Jeremiah 26:16
+type: Verse
+kjv: "Then said the princes and all the people unto the priests and to the prophets; This man is not worthy to die: for he hath spoken to us in the name of the LORD our God."
+bsb: "Then the officials and all the people told the priests and prophets, “This man is not worthy of death, for he has spoken to us in the name of the LORD our God!”"
+hebrew: "וַיֹּאמְר֤וּ הַשָּׂרִים֙ וְכָל־ הָעָ֔ם אֶל־ הַכֹּהֲנִ֖ים וְאֶל־ הַנְּבִיאִ֑ים אֵין־ לָאִ֤ישׁ הַזֶּה֙ מִשְׁפַּט־ מָ֔וֶת כִּ֗י בְּשֵׁ֛ם יְהוָ֥ה אֱלֹהֵ֖ינוּ דִּבֶּ֥ר אֵלֵֽינוּ׃"
+pericope: "[[Jer.26.16 Jeremiah Spared from Death|Jeremiah Spared from Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H4941G]]"
+- "[[H4194]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1696G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:16**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes and all the people unto the priests and to the prophets; This man [is] not worthy to die: for he hath spoken to us in the name of the LORD our God.
 <small><sub>**BSB:**</sub></small>
 Then the officials and all the people told the priests and prophets, “This man is not worthy of death, for he has spoken to us in the name of the LORD our God!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֑ים]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H4941G\|מִשְׁפַּט]][[H9014\|־]] [[H4194\|מָ֔וֶת]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H8034\|שֵׁ֛ם]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H1696G\|דִּבֶּ֥ר]] [[H0413\|אֵלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.15|<< Jeremiah 26:15]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.17|Jeremiah 26:17 >>]]</td></tr></table>
 

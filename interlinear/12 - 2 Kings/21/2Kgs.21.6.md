@@ -1,8 +1,68 @@
+---
+title: 2 Kings 21:6
+type: Verse
+kjv: "And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the LORD, to provoke him to anger."
+bsb: "He sacrificed his own son in the fire, practiced sorcery and divination, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger."
+hebrew: "וְהֶעֱבִ֤יר אֶת־ בְּנוֹ֙ בָּאֵ֔שׁ וְעוֹנֵ֣ן וְנִחֵ֔שׁ וְעָ֥שָׂה א֖וֹב וְיִדְּעֹנִ֑ים הִרְבָּ֗ה לַעֲשׂ֥וֹת הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִֽיס׃"
+pericope: "[[2Kgs.21.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6049B]]"
+- "[[H5172]]"
+- "[[H6213A]]"
+- "[[H0178]]"
+- "[[H9002]]"
+- "[[H3049]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H3707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:6**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the LORD, to provoke [him] to anger.
 <small><sub>**BSB:**</sub></small>
 He sacrificed his own son in the fire, practiced sorcery and divination, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הֶעֱבִ֤יר]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנ]][[H9023\|וֹ֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9001\|וְ]][[H6049B\|עוֹנֵ֣ן]] [[H9001\|וְ]][[H5172\|נִחֵ֔שׁ]] [[H9001\|וְ]][[H6213A\|עָ֥שָׂה]] [[H0178\|א֖וֹב]] [[H9002\|וְ]][[H3049\|יִדְּעֹנִ֑ים]] [[H7235A\|הִרְבָּ֗ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3707\|הַכְעִֽיס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic MOLECH|MOLECH]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.5|<< 2 Kings 21:5]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.7|2 Kings 21:7 >>]]</td></tr></table>
 

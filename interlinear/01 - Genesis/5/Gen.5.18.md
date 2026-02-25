@@ -1,8 +1,57 @@
+---
+title: Genesis 5:18
+type: Verse
+kjv: "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+bsb: "When Jared was 162 years old, he became the father of Enoch."
+hebrew: "וַֽיְחִי־ יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־ חֲנֽוֹךְ׃"
+pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic JARED|JARED]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9014]]"
+- "[[H3382G]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H8141]]"
+- "[[H3967]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H2585H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:18**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jared lived an hundred sixty and two years, and he begat Enoch:
 <small><sub>**BSB:**</sub></small>
 When Jared was 162 years old, he became the father of Enoch.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִי]][[H9014\|־]] [[H3382G\|יֶ֕רֶד]] [[H8147\|שְׁתַּ֧יִם]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֛ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H3967\|מְאַ֣ת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H2585H\|חֲנֽוֹךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENOCH|ENOCH]] • [[topic JARED|JARED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.17|<< Genesis 5:17]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.19|Genesis 5:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

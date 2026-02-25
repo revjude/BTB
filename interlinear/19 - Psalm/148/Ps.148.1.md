@@ -1,8 +1,57 @@
+---
+title: Psalm 148:1
+type: Verse
+kjv: "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights."
+bsb: "Hallelujah! Praise the LORD from the heavens; praise Him in the highest places."
+hebrew: "הַ֥לְלוּ יָ֨הּ׀ הַֽלְל֣וּ אֶת־ יְ֭הוָה מִן־ הַשָּׁמַ֑יִם הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים׃"
+pericope: "[[Ps.148.1 Praise the LORD from the Heavens|Praise the LORD from the Heavens]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 148
+book/chapter: "[[Ps.148|Psalm 148]]"
+chronological_order: 896
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HALLELUJAH|HALLELUJAH]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1984B]]"
+- "[[H3050]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4791]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 148:1**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.
 <small><sub>**BSB:**</sub></small>
 Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַ֥לְלוּ]] [[H3050\|יָ֨הּ]][[H9015\|׀]] [[H1984B\|הַֽלְל֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֑יִם]] [[H1984B\|הַֽ֝לְל֗וּ]][[H9033\|הוּ]] [[H9003\|בַּ]][[H4791\|מְּרוֹמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HALLELUJAH|HALLELUJAH]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.20|<< Psalms 147:20]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.2|Psalms 148:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

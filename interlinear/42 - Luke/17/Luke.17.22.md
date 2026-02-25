@@ -1,10 +1,58 @@
+---
+title: Luke 17:22
+type: Verse
+kjv: "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it."
+bsb: "Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it."
+jesus_said: "The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it."
+greek: "Εἶπεν δὲ πρὸς τοὺς μαθητάς· ἐλεύσονται ἡμέραι ὅτε ἐπιθυμήσετε μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ἰδεῖν καὶ οὐκ ὄψεσθε."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2064]]"
+- "[[G2250]]"
+- "[[G3753]]"
+- "[[G1937]]"
+- "[[G1520]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3700]]"
+texts:
+- NKO
+---
+
 **Luke 17:22**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see [it].
 <small><sub>**BSB:**</sub></small>
 Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it.
-<small><sub>**Literal:**</sub></small>
-He said then to the disciples; Will come days when you will desire one of the days of the Son <the> of Man to see and not you will behold [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.21|<< Luke 17:21]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.23|Luke 17:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητάς·]]  [[G2064\|ἐλεύσονται]]  [[G2250\|ἡμέραι]]  [[G3753\|ὅτε]]  [[G1937\|ἐπιθυμήσετε]]  [[G1520\|μίαν]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1492H\|ἰδεῖν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G3700\|ὄψεσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.21|<< Luke 17:21]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.23|Luke 17:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

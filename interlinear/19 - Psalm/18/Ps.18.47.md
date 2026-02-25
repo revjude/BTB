@@ -1,8 +1,50 @@
+---
+title: Psalm 18:47
+type: Verse
+kjv: "It is God that avengeth me, and subdueth the people under me."
+bsb: "the God who avenges me and subdues nations beneath me,"
+hebrew: "הָאֵ֗ל הַנּוֹתֵ֣ן נְקָמ֣וֹת לִ֑י וַיַּדְבֵּ֖ר עַמִּ֣ים תַּחְתָּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H5414G]]"
+- "[[H5360]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H1696H]]"
+- "[[H5971A]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:47**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] God that avengeth me, and subdueth the people under me.
 <small><sub>**BSB:**</sub></small>
 the God who avenges me and subdues nations beneath me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0410G\|אֵ֗ל]] [[H9009\|הַ]][[H5414G\|נּוֹתֵ֣ן]] [[H5360\|נְקָמ֣וֹת]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וַ]][[H1696H\|יַּדְבֵּ֖ר]] [[H5971A\|עַמִּ֣ים]] [[H8478G\|תַּחְתָּֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.46|<< Psalms 18:46]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.48|Psalms 18:48 >>]]</td></tr></table>
 

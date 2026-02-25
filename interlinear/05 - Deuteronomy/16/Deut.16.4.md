@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 16:4
+type: Verse
+kjv: "And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrificedst the first day at even, remain all night until the morning."
+bsb: "No leaven is to be found in all your land for seven days, and none of the meat you sacrifice in the evening of the first day shall remain until morning."
+hebrew: "וְלֹֽא־ יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכָל־ גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־ יָלִ֣ין מִן־ הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃"
+pericope: "[[Deut.16.1 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7603]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H9021]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3885A]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1320]]"
+- "[[H0834A]]"
+- "[[H2076]]"
+- "[[H6153]]"
+- "[[H7223G]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:4**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there [any thing] of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.
 <small><sub>**BSB:**</sub></small>
 No leaven is to be found in all your land for seven days, and none of the meat you sacrifice in the evening of the first day shall remain until morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יֵרָאֶ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H7603\|שְׂאֹ֛ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבֻלְ]][[H9021\|ךָ֖]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3885A\|יָלִ֣ין]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1320\|בָּשָׂ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H2076\|תִּזְבַּ֥ח]] [[H9003\|בָּ]][[H6153\|עֶ֛רֶב]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H9005\|לַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 

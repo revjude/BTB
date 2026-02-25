@@ -1,8 +1,54 @@
+---
+title: Psalm 37:31
+type: Verse
+kjv: "The law of his God is in his heart; none of his steps shall slide."
+bsb: "The law of his God is in his heart; his steps do not falter."
+hebrew: "תּוֹרַ֣ת אֱלֹהָ֣יו בְּלִבּ֑וֹ לֹ֖א תִמְעַ֣ד אֲשֻׁרָיו׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H8451]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H3808]]"
+- "[[H4571]]"
+- "[[H0838A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:31**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The law of his God [is] in his heart; none of his steps shall slide.
 <small><sub>**BSB:**</sub></small>
 The law of his God is in his heart; his steps do not falter.
+<small><sub>**Hebrew:**</sub></small>
+[[H8451\|תּוֹרַ֣ת]] [[H0430G\|אֱלֹהָ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H3808\|לֹ֖א]] [[H4571\|תִמְעַ֣ד]] [[H0838A\|אֲשֻׁרָי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.30|<< Psalms 37:30]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.32|Psalms 37:32 >>]]</td></tr></table>
 

@@ -27,11 +27,11 @@
 
 - Sharon [[Isa.65.10|Isa 65:10]]
 
-- Jacob' s management of [[Gen.30.32|Ge 30:32]]-[[Gen.30.40|40]]
+- Jacob' s management of [[Gen.30.32|Ge 30:32-40]]
 
 → Milk of, used for food [[Deut.32.14|De 32:14]]
 
-→ Shearing of [[Gen.31.19|Ge 31:19]]; [[Gen.38.12|38:12]]-[[Gen.38.17|17]]; [[Isa.53.7|Isa 53:7]]
+→ Shearing of [[Gen.31.19|Ge 31:19]]; [[Gen.38.12|38:12-17]]; [[Isa.53.7|Isa 53:7]]
 
 → Feasting at the time of shearing [[1Sam.25.11|1Sa 25:11]],[[1Sam.25.36|36]]; [[2Sam.13.23|2Sa  13:23]]
 
@@ -45,9 +45,9 @@
 
 - Of lost sinners [[Matt.9.36|Mt 9:36]]; [[Matt.10.6|10:6]]
 
-- Of the righteous [[Jer.50.17|Jer 50:17]]; [[Ezek.34|Eze 34]]; [[Matt.26.31|Mt 26:31]]; [[Mark.14.27|Mr 14:27]];  [[John.10.1|Joh 10:1]]-[[John.10.16|16]]
+- Of the righteous [[Jer.50.17|Jer 50:17]]; [[Ezek.34|Eze 34]]; [[Matt.26.31|Mt 26:31]]; [[Mark.14.27|Mr 14:27]];  [[John.10.1|Joh 10:1-16]]
 
 - Of the defenselessness of servants of God (Greek: diakonoi) [[Matt.10.16|Mt 10:16]]
 
-- Parable of the lost [[Matt.18.11|Mt 18:11]]-[[Matt.18.13|13]]; [[Luke.15.4|Lu 15:4]]-[[Luke.15.7|7]]
+- Parable of the lost [[Matt.18.11|Mt 18:11-13]]; [[Luke.15.4|Lu 15:4-7]]
 

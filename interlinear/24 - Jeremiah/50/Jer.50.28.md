@@ -1,8 +1,58 @@
+---
+title: Jeremiah 50:28
+type: Verse
+kjv: "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple."
+bsb: "Listen to the fugitives and refugees from the land of Babylon, declaring in Zion the vengeance of the LORD our God, the vengeance for His temple."
+hebrew: "ק֥וֹל נָסִ֛ים וּפְלֵטִ֖ים מֵאֶ֣רֶץ בָּבֶ֑ל לְהַגִּ֣יד בְּצִיּ֗וֹן אֶת־ נִקְמַת֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ נִקְמַ֖ת הֵיכָלֽוֹ׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H6963A]]"
+- "[[H5127]]"
+- "[[H9002]]"
+- "[[H6412B]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H0894]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5360]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1964G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:28**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple.
 <small><sub>**BSB:**</sub></small>
 Listen to the fugitives and refugees from the land of Babylon, declaring in Zion the vengeance of the LORD our God, the vengeance for His temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֥וֹל]] [[H5127\|נָסִ֛ים]] [[H9002\|וּ]][[H6412B\|פְלֵטִ֖ים]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H0894\|בָּבֶ֑ל]] [[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9003\|בְּ]][[H6726\|צִיּ֗וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H5360\|נִקְמַת֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H5360\|נִקְמַ֖ת]] [[H1964G\|הֵיכָלֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.27|<< Jeremiah 50:27]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.29|Jeremiah 50:29 >>]]</td></tr></table>
 

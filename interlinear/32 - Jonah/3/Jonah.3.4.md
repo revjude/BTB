@@ -1,8 +1,66 @@
+---
+title: Jonah 3:4
+type: Verse
+kjv: "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+bsb: "On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”"
+hebrew: "וַיָּ֤חֶל יוֹנָה֙ לָב֣וֹא בָעִ֔יר מַהֲלַ֖ךְ י֣וֹם אֶחָ֑ד וַיִּקְרָא֙ וַיֹּאמַ֔ר ע֚וֹד אַרְבָּעִ֣ים י֔וֹם וְנִֽינְוֵ֖ה נֶהְפָּֽכֶת׃"
+pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DAY|DAY]]"
+- "[[topic FORTY|FORTY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H3124]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H4109]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H7121I]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H0705]]"
+- "[[H9002]]"
+- "[[H5210]]"
+- "[[H2015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 3:4**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.
 <small><sub>**BSB:**</sub></small>
 On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2490C\|יָּ֤חֶל]] [[H3124\|יוֹנָה֙]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H9003\|בָ]][[H5892B\|עִ֔יר]] [[H4109\|מַהֲלַ֖ךְ]] [[H3117G\|י֣וֹם]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H7121I\|יִּקְרָא֙]] [[H9001\|וַ]][[H0559\|יֹּאמַ֔ר]] [[H5750\|ע֚וֹד]] [[H0705\|אַרְבָּעִ֣ים]] [[H3117G\|י֔וֹם]] [[H9002\|וְ]][[H5210\|נִֽינְוֵ֖ה]] [[H2015\|נֶהְפָּֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DAY|DAY]] • [[topic FORTY|FORTY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic NINEVEH|NINEVEH]] • [[topic ORATOR|ORATOR]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.3|<< Jonah 3:3]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.5|Jonah 3:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

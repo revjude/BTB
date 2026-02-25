@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Trumpets
+type: Pericope
 pericope: "[[Num.29.1 The Feast of Trumpets|The Feast of Trumpets]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 29
 book/chapter: "[[Num.29|Numbers 29]]"
-genre:
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.29.1]]"
 - "[[Num.29.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.29.6]]"
 ---
 
-[[Num.29|Numbers 29:1 - Numbers 29:6]]
+<small>[[Num.29|Numbers 29:1-6]]</small>
 *The Feast of Trumpets*
 
 [[Num.29.1|1]] And in the seventh month, on the first \[day\] of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.

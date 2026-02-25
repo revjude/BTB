@@ -1,10 +1,63 @@
+---
+title: Matthew 10:10
+type: Verse
+kjv: "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+bsb: "Take no bag for the road, or second tunic, or sandals, or staff; for the worker is worthy of his provisions."
+jesus_said: "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+greek: "μὴ πήραν εἰς ὁδὸν μηδὲ δύο χιτῶνας μηδὲ ὑποδήματα μηδὲ ῥάβδον· ἄξιος γὰρ ὁ ἐργάτης τῆς τροφῆς αὐτοῦ ἐστιν."
+pericope: "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G3361]]"
+- "[[G4082]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G3366]]"
+- "[[G1417]]"
+- "[[G5509]]"
+- "[[G5266]]"
+- "[[G4464]]"
+- "[[G0514]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2040]]"
+- "[[G5160]]"
+- "[[G0846]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 10:10**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nor scrip for [your] journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.
 <small><sub>**BSB:**</sub></small>
 Take no bag for the road, or second tunic, or sandals, or staff; for the worker is worthy of his provisions.
-<small><sub>**Literal:**</sub></small>
-nor provision-bag for [the] way nor [take] two tunics nor sandals nor a staff; worthy [is] for the workman of the provisions of him is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.9|<< Matthew 10:9]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.11|Matthew 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G4082\|πήραν]]  [[G1519\|εἰς]]  [[G3598\|ὁδὸν]]  [[G3366\|μηδὲ]]  [[G1417\|δύο]]  [[G5509\|χιτῶνας]]  [[G3366\|μηδὲ]]  [[G5266\|ὑποδήματα]]  [[G3366\|μηδὲ]]  [[G4464\|ῥάβδον·]]  [[G0514\|ἄξιος]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2040\|ἐργάτης]]  [[G3588\|τῆς]]  [[G5160\|τροφῆς]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.9|<< Matthew 10:9]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.11|Matthew 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

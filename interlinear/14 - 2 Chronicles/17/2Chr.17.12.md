@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 17:12
+type: Verse
+kjv: "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store."
+bsb: "Jehoshaphat grew stronger and stronger, and he built fortresses and store cities in Judah"
+hebrew: "וַיְהִ֧י יְהוֹשָׁפָ֛ט הֹלֵ֥ךְ וְגָדֵ֖ל עַד־ לְמָ֑עְלָה וַיִּ֧בֶן בִּֽיהוּדָ֛ה בִּירָנִיּ֖וֹת וְעָרֵ֥י מִסְכְּנֽוֹת׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CASTLE|CASTLE]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3092I]]"
+- "[[H1980L]]"
+- "[[H9002]]"
+- "[[H1432]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H1003]]"
+- "[[H5892B]]"
+- "[[H4543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:12**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.
 <small><sub>**BSB:**</sub></small>
 Jehoshaphat grew stronger and stronger, and he built fortresses and store cities in Judah
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H3092I\|יְהוֹשָׁפָ֛ט]] [[H1980L\|הֹלֵ֥ךְ]] [[H9002\|וְ]][[H1432\|גָדֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9001\|וַ]][[H1129\|יִּ֧בֶן]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֛ה]] [[H1003\|בִּירָנִיּ֖וֹת]] [[H9002\|וְ]][[H5892B\|עָרֵ֥י]] [[H4543\|מִסְכְּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CASTLE|CASTLE]] • [[topic CITIES|CITIES]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.11|<< 2 Chronicles 17:11]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.13|2 Chronicles 17:13 >>]]</td></tr></table>
 

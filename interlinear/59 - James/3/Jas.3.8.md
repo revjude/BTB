@@ -1,10 +1,53 @@
+---
+title: James 3:8
+type: Verse
+kjv: "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
+bsb: "but no man can tame the tongue. It is a restless evil, full of deadly poison."
+greek: "τὴν δὲ γλῶσσαν οὐδεὶς δαμάσαι δύναται ἀνθρώπων· ἀκατάστατον κακόν, μεστὴ ἰοῦ θανατηφόρου."
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1100]]"
+- "[[G3762]]"
+- "[[G1150]]"
+- "[[G1410]]"
+- "[[G0444]]"
+- "[[G0182]]"
+- "[[G2556G]]"
+- "[[G3324]]"
+- "[[G2447]]"
+- "[[G2287]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **James 3:8**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the tongue can no man tame; [it is] an unruly evil, full of deadly poison.
 <small><sub>**BSB:**</sub></small>
 but no man can tame the tongue. It is a restless evil, full of deadly poison.
-<small><sub>**Literal:**</sub></small>
-the but tongue no [one] to subdue is able of men; [it is] an unruly evil, full of poison deadly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.7|<< James 3:7]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.9|James 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὴν]]  [[G1161\|δὲ]]  [[G1100\|γλῶσσαν]]  [[G3762\|οὐδεὶς]]  [[G1150\|δαμάσαι]]  [[G1410\|δύναται]]  [[G0444\|ἀνθρώπων·]]  [[G0182\|ἀκατάστατον]]  [[G2556G\|κακόν,]]  [[G3324\|μεστὴ]]  [[G2447\|ἰοῦ]]  [[G2287\|θανατηφόρου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.7|<< James 3:7]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.9|James 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

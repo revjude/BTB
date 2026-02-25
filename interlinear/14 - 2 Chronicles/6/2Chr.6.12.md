@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 6:12
+type: Verse
+kjv: "And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands:"
+bsb: "Then Solomon stood before the altar of the LORD in front of the whole assembly of Israel and spread out his hands."
+hebrew: "וַֽיַּעֲמֹ֗ד לִפְנֵי֙ מִזְבַּ֣ח יְהוָ֔ה נֶ֖גֶד כָּל־ קְהַ֣ל יִשְׂרָאֵ֑ל וַיִּפְרֹ֖שׂ כַּפָּֽיו׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H5048]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6951]]"
+- "[[H3478]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:12**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands:
 <small><sub>**BSB:**</sub></small>
 Then Solomon stood before the altar of the LORD in front of the whole assembly of Israel and spread out his hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֗ד]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H4196\|מִזְבַּ֣ח]] [[H3068G\|יְהוָ֔ה]] [[H5048\|נֶ֖גֶד]] [[H3605\|כָּל]][[H9014\|־]] [[H6951\|קְהַ֣ל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H6566\|יִּפְרֹ֖שׂ]] [[H3709G\|כַּפָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.11|<< 2 Chronicles 6:11]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.13|2 Chronicles 6:13 >>]]</td></tr></table>
 

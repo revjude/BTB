@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zelophehad’s Daughters Marry
+type: Pericope
 pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 36
 book/chapter: "[[Num.36|Numbers 36]]"
-genre:
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 13
 verses:
 - "[[Num.36.1]]"
 - "[[Num.36.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Num.36.13]]"
 ---
 
-[[Num.36|Numbers 36:1 - Numbers 36:13]]
+<small>[[Num.36|Numbers 36:1-13]]</small>
 *Zelophehad’s Daughters Marry*
 
 [[Num.36.1|1]] And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:

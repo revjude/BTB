@@ -1,8 +1,49 @@
+---
+title: Isaiah 46:5
+type: Verse
+kjv: "To whom will ye liken me, and make me equal, and compare me, that we may be like?"
+bsb: "To whom will you liken Me or count Me equal? To whom will you compare Me, that we should be alike?"
+hebrew: "לְמִ֥י תְדַמְי֖וּנִי וְתַשְׁו֑וּ וְתַמְשִׁל֖וּנִי וְנִדְמֶֽה׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H4310]]"
+- "[[H1819]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7737A]]"
+- "[[H4911A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:5**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom will ye liken me, and make [me] equal, and compare me, that we may be like?
 <small><sub>**BSB:**</sub></small>
 To whom will you liken Me or count Me equal? To whom will you compare Me, that we should be alike?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4310\|מִ֥י]] [[H1819\|תְדַמְי֖וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H7737A\|תַשְׁו֑וּ]] [[H9002\|וְ]][[H4911A\|תַמְשִׁל֖וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H1819\|נִדְמֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.4|<< Isaiah 46:4]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.6|Isaiah 46:6 >>]]</td></tr></table>
 

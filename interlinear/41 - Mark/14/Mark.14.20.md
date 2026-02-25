@@ -1,10 +1,60 @@
+---
+title: Mark 14:20
+type: Verse
+kjv: "And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish."
+bsb: "He answered, “It is one of the Twelve—the one who is dipping his hand into the bowl with Me."
+jesus_said: "It is one of the twelve, that dippeth with me in the dish."
+greek: "ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· εἷς ἐκ τῶν δώδεκα, ὁ ἐμβαπτόμενος μετ᾽ ἐμοῦ εἰς τὸ ἓν τρύβλιον."
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1427]]"
+- "[[G1686]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5165]]"
+texts:
+- NKO
+- k
+- ko
+- O
+---
+
 **Mark 14:20**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered and said unto them, [It is] one of the twelve, that dippeth with me in the dish.
 <small><sub>**BSB:**</sub></small>
 He answered, “It is one of the Twelve—the one who is dipping his hand into the bowl with Me.
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said to them; [It is] one of from the Twelve, who is dipping with Me in the one bowl.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.19|<< Mark 14:19]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.21|Mark 14:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα,]]  [[G3588\|ὁ]]  [[G1686\|ἐμβαπτόμενος]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1520\|ἓν]]  [[G5165\|τρύβλιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.19|<< Mark 14:19]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.21|Mark 14:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

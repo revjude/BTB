@@ -1,8 +1,70 @@
+---
+title: Jeremiah 33:5
+type: Verse
+kjv: "They come to fight with the Chaldeans, but it is to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city."
+bsb: "The Chaldeans are coming to fight and to fill those places with the corpses of the men I will strike down in My anger and in My wrath. I have hidden My face from this city because of all its wickedness."
+hebrew: "בָּאִ֗ים לְהִלָּחֵם֙ אֶת־ הַכַּשְׂדִּ֔ים וּלְמַלְאָם֙ אֶת־ פִּגְרֵ֣י הָאָדָ֔ם אֲשֶׁר־ הִכֵּ֥יתִי בְאַפִּ֖י וּבַחֲמָתִ֑י וַאֲשֶׁ֨ר הִסְתַּ֤רְתִּי פָנַי֙ מֵהָעִ֣יר הַזֹּ֔את עַ֖ל כָּל־ רָעָתָֽם׃"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H9038]]"
+- "[[H6297]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H2534]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:5**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They come to fight with the Chaldeans, but [it is] to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city.
 <small><sub>**BSB:**</sub></small>
 The Chaldeans are coming to fight and to fill those places with the corpses of the men I will strike down in My anger and in My wrath. I have hidden My face from this city because of all its wickedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בָּאִ֗ים]] [[H9005\|לְ]][[H3898A\|הִלָּחֵם֙]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H4390\|מַלְאָ]][[H9038\|ם֙]] [[H0854\|אֶת]][[H9014\|־]] [[H6297\|פִּגְרֵ֣י]] [[H9009\|הָ]][[H0120G\|אָדָ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5221\|הִכֵּ֥יתִי]] [[H9003\|בְ]][[H0639G\|אַפִּ֖]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בַ]][[H2534\|חֲמָתִ֑]][[H9020\|י]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H5641\|הִסְתַּ֤רְתִּי]] [[H6440H\|פָנַ]][[H9020\|י֙]] [[H9006\|מֵ]][[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H7451I\|רָעָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.4|<< Jeremiah 33:4]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.6|Jeremiah 33:6 >>]]</td></tr></table>
 

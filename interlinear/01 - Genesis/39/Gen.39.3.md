@@ -1,8 +1,64 @@
+---
+title: Genesis 39:3
+type: Verse
+kjv: "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand."
+bsb: "When his master saw that the LORD was with him and made him prosper in all he did,"
+hebrew: "וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר־ ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H6743B]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:3**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his master saw that the LORD [was] with him, and that the LORD made all that he did to prosper in his hand.
 <small><sub>**BSB:**</sub></small>
 When his master saw that the LORD was with him and made him prosper in all he did,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H6213A\|עֹשֶׂ֔ה]] [[H3068G\|יְהוָ֖ה]] [[H6743B\|מַצְלִ֥יחַ]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.2|<< Genesis 39:2]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.4|Genesis 39:4 >>]]</td></tr></table>
 

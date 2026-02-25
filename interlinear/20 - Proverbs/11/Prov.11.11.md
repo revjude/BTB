@@ -1,8 +1,52 @@
+---
+title: Proverbs 11:11
+type: Verse
+kjv: "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
+bsb: "By the blessing of the upright a city is built up, but by the mouth of the wicked it is torn down."
+hebrew: "בְּבִרְכַּ֣ת יְ֭שָׁרִים תָּר֣וּם קָ֑רֶת וּבְפִ֥י רְ֝שָׁעִ֗ים תֵּהָרֵֽס׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H1293]]"
+- "[[H3477G]]"
+- "[[H7311A]]"
+- "[[H7176]]"
+- "[[H9002]]"
+- "[[H6310G]]"
+- "[[H7563]]"
+- "[[H2040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:11**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.
 <small><sub>**BSB:**</sub></small>
 By the blessing of the upright a city is built up, but by the mouth of the wicked it is torn down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1293\|בִרְכַּ֣ת]] [[H3477G\|יְ֭שָׁרִים]] [[H7311A\|תָּר֣וּם]] [[H7176\|קָ֑רֶת]] [[H9002\|וּ]][[H9003\|בְ]][[H6310G\|פִ֥י]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H2040\|תֵּהָרֵֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.10|<< Proverbs 11:10]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.12|Proverbs 11:12 >>]]</td></tr></table>
 

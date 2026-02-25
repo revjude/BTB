@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 16:14
+type: Verse
+kjv: "But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him."
+bsb: "Now the Spirit of the LORD departed from Saul, and a spirit of distress from the LORD began to torment him."
+hebrew: "וְר֧וּחַ יְהוָ֛ה סָ֖רָה מֵעִ֣ם שָׁא֑וּל וּבִֽעֲתַ֥תּוּ רֽוּחַ־ רָעָ֖ה מֵאֵ֥ת יְהוָֽה׃"
+pericope: "[[1Sam.16.14 David Serves Saul|David Serves Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H7586G]]"
+- "[[H9001]]"
+- "[[H1204]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H7451A]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:14**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.
 <small><sub>**BSB:**</sub></small>
 Now the Spirit of the LORD departed from Saul, and a spirit of distress from the LORD began to torment him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|ר֧וּחַ]] [[H3068G\|יְהוָ֛ה]] [[H5493H\|סָ֖רָה]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וּ]][[H1204\|בִֽעֲתַ֥תּ]][[H9033\|וּ]] [[H7307G\|רֽוּחַ]][[H9014\|־]] [[H7451A\|רָעָ֖ה]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INSANITY|INSANITY]] • [[topic REPROBACY|REPROBACY]] • [[topic SATAN|SATAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.13|<< 1 Samuel 16:13]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.15|1 Samuel 16:15 >>]]</td></tr></table>
 

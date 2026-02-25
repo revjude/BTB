@@ -1,8 +1,54 @@
+---
+title: Job 9:18
+type: Verse
+kjv: "He will not suffer me to take my breath, but filleth me with bitterness."
+bsb: "He does not let me catch my breath, but overwhelms me with bitterness."
+hebrew: "לֹֽא־ יִ֭תְּנֵנִי הָשֵׁ֣ב רוּחִ֑י כִּ֥י יַ֝שְׂבִּעַ֗נִי מַמְּרֹרִֽים׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414K]]"
+- "[[H9030]]"
+- "[[H7725G]]"
+- "[[H7307H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7646]]"
+- "[[H4472]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:18**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will not suffer me to take my breath, but filleth me with bitterness.
 <small><sub>**BSB:**</sub></small>
 He does not let me catch my breath, but overwhelms me with bitterness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|יִ֭תְּנֵ]][[H9030\|נִי]] [[H7725G\|הָשֵׁ֣ב]] [[H7307H\|רוּחִ֑]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H7646\|יַ֝שְׂבִּעַ֗]][[H9030\|נִי]] [[H4472\|מַמְּרֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.17|<< Job 9:17]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.19|Job 9:19 >>]]</td></tr></table>
 

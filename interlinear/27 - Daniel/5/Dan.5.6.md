@@ -1,8 +1,66 @@
+---
+title: Daniel 5:6
+type: Verse
+kjv: "Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another."
+bsb: "his face grew pale and his thoughts so alarmed him that his hips gave way and his knees knocked together."
+aramaic: "אֱדַ֤יִן מַלְכָּא֙ זִיוֹ֣הִי שְׁנ֔וֹהִי וְרַעיֹנֹ֖הִי יְבַהֲלוּנֵּ֑הּ וְקִטְרֵ֤י חַרְצֵהּ֙ מִשְׁתָּרַ֔יִן וְאַ֨רְכֻבָּתֵ֔הּ דָּ֥א לְדָ֖א נָֽקְשָֽׁן׃"
+pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H2122]]"
+- "[[H9023]]"
+- "[[H8133]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H7476]]"
+- "[[H0927]]"
+- "[[H7001]]"
+- "[[H2783]]"
+- "[[H8271]]"
+- "[[H0755]]"
+- "[[H1668]]"
+- "[[H9005]]"
+- "[[H5368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:6**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
 <small><sub>**BSB:**</sub></small>
 his face grew pale and his thoughts so alarmed him that his hips gave way and his knees knocked together.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֤יִן]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H2122\|זִיוֹ֣]][[H9023\|הִי]] [[H8133\|שְׁנ֔וֹ]][[H9033\|הִי]] [[H9002\|וְ]][[H7476\|רַעיֹנֹ֖]][[H9023\|הִי]] [[H0927\|יְבַהֲלוּנֵּ֑]][[H9033\|הּ]] [[H9002\|וְ]][[H7001\|קִטְרֵ֤י]] [[H2783\|חַרְצֵ]][[H9023\|הּ֙]] [[H8271\|מִשְׁתָּרַ֔יִן]] [[H9002\|וְ]][[H0755\|אַ֨רְכֻבָּתֵ֔]][[H9023\|הּ]] [[H1668\|דָּ֥א]] [[H9005\|לְ]][[H1668\|דָ֖א]] [[H5368\|נָֽקְשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic CONVICTION|CONVICTION]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic REVERENCE|REVERENCE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.5|<< Daniel 5:5]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.7|Daniel 5:7 >>]]</td></tr></table>
 

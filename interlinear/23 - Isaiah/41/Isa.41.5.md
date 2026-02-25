@@ -1,8 +1,54 @@
+---
+title: Isaiah 41:5
+type: Verse
+kjv: "The isles saw it, and feared; the ends of the earth were afraid, drew near, and came."
+bsb: "The islands see and fear; the ends of the earth tremble. They approach and come forward."
+hebrew: "רָא֤וּ אִיִּים֙ וְיִירָ֔אוּ קְצ֥וֹת הָאָ֖רֶץ יֶחֱרָ֑דוּ קָרְב֖וּ וַיֶּאֱתָיֽוּן׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISLAND|ISLAND]]"
+strongs:
+- "[[H7200G]]"
+- "[[H0339]]"
+- "[[H9002]]"
+- "[[H3372G]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2729]]"
+- "[[H7126G]]"
+- "[[H9001]]"
+- "[[H0857]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:5**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The isles saw [it], and feared; the ends of the earth were afraid, drew near, and came.
 <small><sub>**BSB:**</sub></small>
 The islands see and fear; the ends of the earth tremble. They approach and come forward.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָא֤וּ]] [[H0339\|אִיִּים֙]] [[H9002\|וְ]][[H3372G\|יִירָ֔אוּ]] [[H7098\|קְצ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H2729\|יֶחֱרָ֑דוּ]] [[H7126G\|קָרְב֖וּ]] [[H9001\|וַ]][[H0857\|יֶּאֱתָיֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISLAND|ISLAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.4|<< Isaiah 41:4]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.6|Isaiah 41:6 >>]]</td></tr></table>
 

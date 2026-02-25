@@ -1,10 +1,63 @@
+---
+title: Matthew 15:14
+type: Verse
+kjv: "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+bsb: "Disregard them! They are blind guides. If a blind man leads a blind man, both will fall into a pit.”"
+jesus_said: "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+greek: "ἄφετε αὐτούς· τυφλοί εἰσιν ὁδηγοί τυφλῶν. τυφλὸς δὲ τυφλὸν ἐὰν ὁδηγῇ, ἀμφότεροι εἰς βόθυνον πεσοῦνται."
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0863G]]"
+- "[[G0846]]"
+- "[[G5185]]"
+- "[[G1510]]"
+- "[[G3595]]"
+- "[[G1161]]"
+- "[[G1437]]"
+- "[[G3594]]"
+- "[[G0297]]"
+- "[[G1519]]"
+- "[[G0999]]"
+- "[[G4098]]"
+texts:
+- NKO
+---
+
 **Matthew 15:14**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
 <small><sub>**BSB:**</sub></small>
 Disregard them! They are blind guides. If a blind man leads a blind man, both will fall into a pit.”
-<small><sub>**Literal:**</sub></small>
-do leave them! Blind they are guides of the blind. Blind now blind if they shall lead, both into a pit will fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.13|<< Matthew 15:13]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.15|Matthew 15:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0863G\|ἄφετε]]  [[G0846\|αὐτούς·]]  [[G5185\|τυφλοί]]  [[G1510\|εἰσιν]]  [[G3595\|ὁδηγοί]]  [[G5185\|τυφλῶν.]]  [[G5185\|τυφλὸς]]  [[G1161\|δὲ]]  [[G5185\|τυφλὸν]]  [[G1437\|ἐὰν]]  [[G3594\|ὁδηγῇ,]]  [[G0297\|ἀμφότεροι]]  [[G1519\|εἰς]]  [[G0999\|βόθυνον]]  [[G4098\|πεσοῦνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.13|<< Matthew 15:13]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.15|Matthew 15:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

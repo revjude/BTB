@@ -1,10 +1,67 @@
+---
+title: Luke 11:7
+type: Verse
+kjv: "And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee."
+bsb: "And suppose the one inside answers, ‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’"
+jesus_said: "And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee."
+greek: "κἀκεῖνος κἀκεῖνος ἔσωθεν ἀποκριθεὶς εἴπῃ· μή μοι κόπους πάρεχε. ἤδη ἡ θύρα κέκλεισται, καὶ τὰ παιδία μου μετ᾽ ἐμοῦ εἰς τὴν κοίτην εἰσίν· οὐ δύναμαι ἀναστὰς δοῦναί σοι."
+pericope: "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G2081]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G3361]]"
+- "[[G3165]]"
+- "[[G2873]]"
+- "[[G3930]]"
+- "[[G2235]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G2808]]"
+- "[[G3813]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2845]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0450]]"
+- "[[G1325]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 11:7**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee.
 <small><sub>**BSB:**</sub></small>
 And suppose the one inside answers, ‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’
-<small><sub>**Literal:**</sub></small>
-And he from within answering may say; Not me trouble do cause. already the door has been shut, and the children of mine with me in the bed are; not I am able having risen up to give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.6|<< Luke 11:6]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.8|Luke 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖνος]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G2081\|ἔσωθεν]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἴπῃ·]]  [[G3361\|μή]]  [[G3165\|μοι]]  [[G2873\|κόπους]]  [[G3930\|πάρεχε.]]  [[G2235\|ἤδη]]  [[G3588\|ἡ]]  [[G2374\|θύρα]]  [[G2808\|κέκλεισται,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3813\|παιδία]]  [[G3165\|μου]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2845\|κοίτην]]  [[G1510\|εἰσίν·]]  [[G3756\|οὐ]]  [[G1410\|δύναμαι]]  [[G0450\|ἀναστὰς]]  [[G1325\|δοῦναί]]  [[G4771\|σοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.6|<< Luke 11:6]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.8|Luke 11:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

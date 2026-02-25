@@ -1,10 +1,64 @@
+---
+title: 1 Peter 5:12
+type: Verse
+kjv: "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand."
+bsb: "Through Silvanus, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it."
+greek: "Διὰ Σιλουανοῦ ὑμῖν τοῦ πιστοῦ ἀδελφοῦ, ὡς λογίζομαι, δι᾽ ὀλίγων ἔγραψα παρακαλῶν καὶ ἐπιμαρτυρῶν ταύτην εἶναι ἀληθῆ χάριν τοῦ θεοῦ, εἰς ἣν στῆτε.¶"
+pericope: "[[1Pet.5.10 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G1223]]"
+- "[[G4610]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4103]]"
+- "[[G0080]]"
+- "[[G5613]]"
+- "[[G3049]]"
+- "[[G3641]]"
+- "[[G1125]]"
+- "[[G3870]]"
+- "[[G2532]]"
+- "[[G1957]]"
+- "[[G3778]]"
+- "[[G1511]]"
+- "[[G0227]]"
+- "[[G5485]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G2476]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Peter 5:12**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
 <small><sub>**BSB:**</sub></small>
 Through Silvanus, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.
-<small><sub>**Literal:**</sub></small>
-Through Silvanus to you the faithful brother as I regard [him], through few [words] I have written exhorting and testifying this to be [the] true grace <the> of God, in which do stand firm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.11|<< 1 Peter 5:11]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.13|1 Peter 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|Διὰ]]  [[G4610\|Σιλουανοῦ]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῦ]]  [[G4103\|πιστοῦ]]  [[G0080\|ἀδελφοῦ,]]  [[G5613\|ὡς]]  [[G3049\|λογίζομαι,]]  [[G1223\|δι᾽]]  [[G3641\|ὀλίγων]]  [[G1125\|ἔγραψα]]  [[G3870\|παρακαλῶν]]  [[G2532\|καὶ]]  [[G1957\|ἐπιμαρτυρῶν]]  [[G3778\|ταύτην]]  [[G1511\|εἶναι]]  [[G0227\|ἀληθῆ]]  [[G5485\|χάριν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G2476\|στῆτε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic SILAS|SILAS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.11|<< 1 Peter 5:11]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.13|1 Peter 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

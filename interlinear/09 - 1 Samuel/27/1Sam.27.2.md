@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 27:2
+type: Verse
+kjv: "And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath."
+bsb: "So David set out with his six hundred men and went to Achish son of Maoch, the king of Gath."
+hebrew: "וַיָּ֣קָם דָּוִ֔ד וַיַּעֲבֹ֣ר ה֔וּא וְשֵׁשׁ־ מֵא֥וֹת אִ֖ישׁ אֲשֶׁ֣ר עִמּ֑וֹ אֶל־ אָכִ֥ישׁ בֶּן־ מָע֖וֹךְ מֶ֥לֶךְ גַּֽת׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GATH|GATH]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1732]]"
+- "[[H5674A]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H0397]]"
+- "[[H1121A]]"
+- "[[H4582]]"
+- "[[H4428G]]"
+- "[[H1661]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:2**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David arose, and he passed over with the six hundred men that [were] with him unto Achish, the son of Maoch, king of Gath.
 <small><sub>**BSB:**</sub></small>
 So David set out with his six hundred men and went to Achish son of Maoch, the king of Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H1931\|ה֔וּא]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִ֥ישׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4582\|מָע֖וֹךְ]] [[H4428G\|מֶ֥לֶךְ]] [[H1661\|גַּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATH|GATH]] • [[topic MAACHAH|MAACHAH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.1|<< 1 Samuel 27:1]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.3|1 Samuel 27:3 >>]]</td></tr></table>
 

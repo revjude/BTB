@@ -1,10 +1,57 @@
+---
+title: Mark 2:20
+type: Verse
+kjv: "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+bsb: "But the time will come when the bridegroom will be taken from them; then they will fast."
+jesus_said: "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+greek: "ἐλεύσονται δὲ ἡμέραι ὅταν ἀπαρθῇ ἀπ᾽ αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν ἐν ἐκείνῃ τῇ ἡμέρᾳ.¶"
+pericope: "[[Mark.2.18 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G3752]]"
+- "[[G0522]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3566]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G3522]]"
+- "[[G1722]]"
+- "[[G1565]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 2:20**<big><big>[[Mark.2.18 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 <small><sub>**BSB:**</sub></small>
 But the time will come when the bridegroom will be taken from them; then they will fast.
-<small><sub>**Literal:**</sub></small>
-Will come however [the] days when may have been taken away from them the bridegroom, and then they will fast in that <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλεύσονται]]  [[G1161\|δὲ]]  [[G2250\|ἡμέραι]]  [[G3752\|ὅταν]]  [[G0522\|ἀπαρθῇ]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος,]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G3522\|νηστεύσουσιν]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,80 @@
+---
+title: 1 Kings 11:38
+type: Verse
+kjv: "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee."
+bsb: "If you listen to all that I command you, walk in My ways, and do what is right in My sight in order to keep My statutes and commandments as My servant David did, then I will be with you. I will build you a lasting dynasty just as I built for David, and I will give Israel to you."
+hebrew: "וְהָיָ֗ה אִם־ תִּשְׁמַע֮ אֶת־ כָּל־ אֲשֶׁ֣ר אֲצַוֶּךָ֒ וְהָלַכְתָּ֣ בִדְרָכַ֗י וְעָשִׂ֨יתָ הַיָּשָׁ֤ר בְּעֵינַי֙ לִשְׁמ֤וֹר חֻקּוֹתַי֙ וּמִצְוֹתַ֔י כַּאֲשֶׁ֥ר עָשָׂ֖ה דָּוִ֣ד עַבְדִּ֑י וְהָיִ֣יתִי עִמָּ֗ךְ וּבָנִ֨יתִי לְךָ֤ בַֽיִת־ נֶאֱמָן֙ כַּאֲשֶׁ֣ר בָּנִ֣יתִי לְדָוִ֔ד וְנָתַתִּ֥י לְךָ֖ אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H2708]]"
+- "[[H9002]]"
+- "[[H4687]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H1129]]"
+- "[[H1004M]]"
+- "[[H0539]]"
+- "[[H5414G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:38**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do [that is] right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.
 <small><sub>**BSB:**</sub></small>
 If you listen to all that I command you, walk in My ways, and do what is right in My sight in order to keep My statutes and commandments as My servant David did, then I will be with you. I will build you a lasting dynasty just as I built for David, and I will give Israel to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H8085G\|תִּשְׁמַע֮]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|אֲצַוֶּ]][[H9031\|ךָ֒]] [[H9001\|וְ]][[H1980I\|הָלַכְתָּ֣]] [[H9003\|בִ]][[H1870G\|דְרָכַ֗]][[H9020\|י]] [[H9001\|וְ]][[H6213A\|עָשִׂ֨יתָ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֤ר]] [[H9003\|בְּ]][[H5869I\|עֵינַ]][[H9020\|י֙]] [[H9005\|לִ]][[H8104G\|שְׁמ֤וֹר]] [[H2708\|חֻקּוֹתַ]][[H9020\|י֙]] [[H9002\|וּ]][[H4687\|מִצְוֹתַ֔]][[H9020\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדִּ֑]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָיִ֣יתִי]] [[H5973A\|עִמָּ֗]][[H9032\|ךְ]] [[H9001\|וּ]][[H1129\|בָנִ֨יתִי]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H1004M\|בַֽיִת]][[H9014\|־]] [[H0539\|נֶאֱמָן֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1129\|בָּנִ֣יתִי]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.37|<< 1 Kings 11:37]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.39|1 Kings 11:39 >>]]</td></tr></table>
 

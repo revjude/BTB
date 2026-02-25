@@ -21,7 +21,7 @@
 
 → Proverb of [[Eccl.9.4|Ec 9:4]]
 
-→ Parable of [[Ezek.19.1|Eze 19:1]]-[[Ezek.19.9|9]]
+→ Parable of [[Ezek.19.1|Eze 19:1-9]]
 
 → Kept in captivity [[Dan.6|Da 6]]
 
@@ -29,7 +29,7 @@
 
 → Killed by
 
-- Samson [[Judg.14.5|Jud 14:5]]-[[Judg.14.9|9]]
+- Samson [[Judg.14.5|Jud 14:5-9]]
 
 - David [[1Sam.17.34|1Sa 17:34]],[[1Sam.17.36|36]]
 
@@ -37,11 +37,11 @@
 
 - Saints [[Heb.11.33|Heb 11:33]]
 
-→ Disobedient prophet killed by [[1Kgs.13.24|1Ki 13:24]]-[[1Kgs.13.28|28]]
+→ Disobedient prophet killed by [[1Kgs.13.24|1Ki 13:24-28]]
 
 → An unnamed person killed by [[1Kgs.20.36|1Ki 20:36]]
 
-→ Used for the torture of criminals [[Dan.6.16|Da 6:16]]-[[Dan.6.24|24]]; [[Dan.7.12|7:12]]; [[2Tim.4.17|2Ti 4:17]]
+→ Used for the torture of criminals [[Dan.6.16|Da 6:16-24]]; [[Dan.7.12|7:12]]; [[2Tim.4.17|2Ti 4:17]]
 
 → FIGURATIVE
 

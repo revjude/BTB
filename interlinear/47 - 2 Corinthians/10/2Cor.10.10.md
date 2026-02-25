@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 10:10
+type: Verse
+kjv: "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible."
+bsb: "For some say, “His letters are weighty and forceful, but his physical presence is unimpressive, and his speaking is of no account.”"
+greek: "ὅτι αἱ ἐπιστολαὶ μέν φησιν βαρεῖαι καὶ ἰσχυραί, ἡ δὲ παρουσία τοῦ σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος."
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G1992]]"
+- "[[G3303]]"
+- "[[G5346]]"
+- "[[G0926]]"
+- "[[G2532]]"
+- "[[G2478]]"
+- "[[G1161]]"
+- "[[G3952]]"
+- "[[G4983]]"
+- "[[G0772G]]"
+- "[[G3056]]"
+- "[[G1848]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:10**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [his] letters, say they, [are] weighty and powerful; but [his] bodily presence [is] weak, and [his] speech contemptible.
 <small><sub>**BSB:**</sub></small>
 For some say, “His letters are weighty and forceful, but his physical presence is unimpressive, and his speaking is of no account.”
-<small><sub>**Literal:**</sub></small>
-For the letters indeed they say [are] weighty and strong, <the> however the presence of the body weak and the speech ignored.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.9|<< 2 Corinthians 10:9]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.11|2 Corinthians 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|αἱ]]  [[G1992\|ἐπιστολαὶ]]  [[G3303\|μέν]]  [[G5346\|φησιν]]  [[G0926\|βαρεῖαι]]  [[G2532\|καὶ]]  [[G2478\|ἰσχυραί,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G3952\|παρουσία]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G0772G\|ἀσθενὴς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G1848\|ἐξουθενημένος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.9|<< 2 Corinthians 10:9]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.11|2 Corinthians 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

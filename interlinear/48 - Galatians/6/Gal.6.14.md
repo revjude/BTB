@@ -1,10 +1,63 @@
+---
+title: Galatians 6:14
+type: Verse
+kjv: "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world."
+bsb: "But as for me, may I never boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world."
+greek: "ἐμοὶ δὲ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι᾽ οὗ ἐμοὶ κόσμος ἐσταύρωται κἀγὼ κἀγὼ τῷ κόσμῳ."
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CROSS|CROSS]]"
+- "[[topic CRUCIFIXION|CRUCIFIXION]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G2744]]"
+- "[[G1487H]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G2889]]"
+- "[[G4717]]"
+- "[[G2532]]"
+texts:
+- NKO
+- k
+---
+
 **Galatians 6:14**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
 <small><sub>**BSB:**</sub></small>
 But as for me, may I never boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
-<small><sub>**Literal:**</sub></small>
-For me myself however never would it be to boast only except in the cross of the Lord of us Jesus Christ, through which to me myself [the] world has been crucified and I myself <the> to [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.13|<< Galatians 6:13]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.15|Galatians 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐμοὶ]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο]]  [[G2744\|καυχᾶσθαι]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4716\|σταυρῷ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G1473\|ἐμοὶ]]  [[G2889\|κόσμος]]  [[G4717\|ἐσταύρωται]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROSS|CROSS]] • [[topic CRUCIFIXION|CRUCIFIXION]] • [[topic HUMILITY|HUMILITY]] • [[topic LOVE|LOVE]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.13|<< Galatians 6:13]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.15|Galatians 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

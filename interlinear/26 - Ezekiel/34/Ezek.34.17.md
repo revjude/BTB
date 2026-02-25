@@ -1,8 +1,62 @@
+---
+title: Ezekiel 34:17
+type: Verse
+kjv: "And as for you, O my flock, thus saith the Lord GOD; Behold, I judge between cattle and cattle, between the rams and the he goats."
+bsb: "This is what the Lord GOD says to you, My flock: ‘I will judge between one sheep and another, between the rams and the goats."
+hebrew: "וְאַתֵּ֣נָה צֹאנִ֔י כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י שֹׁפֵט֙ בֵּֽין־ שֶׂ֣ה לָשֶׂ֔ה לָאֵילִ֖ים וְלָעַתּוּדִֽים׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859E]]"
+- "[[H6629G]]"
+- "[[H9020]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H7716]]"
+- "[[H9005]]"
+- "[[H0352A]]"
+- "[[H6260]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:17**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] you, O my flock, thus saith the Lord GOD; Behold, I judge between cattle and cattle, between the rams and the he goats.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says to you, My flock: ‘I will judge between one sheep and another, between the rams and the goats.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859E\|אַתֵּ֣נָה]] [[H6629G\|צֹאנִ֔]][[H9020\|י]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H8199\|שֹׁפֵט֙]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H7716\|שֶׂ֣ה]] [[H9005\|לָ]][[H7716\|שֶׂ֔ה]] [[H9005\|לָ]][[H0352A\|אֵילִ֖ים]] [[H9002\|וְ]][[H9005\|לָ]][[H6260\|עַתּוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.16|<< Ezekiel 34:16]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.18|Ezekiel 34:18 >>]]</td></tr></table>
 

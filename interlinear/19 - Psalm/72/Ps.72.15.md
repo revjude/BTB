@@ -1,8 +1,65 @@
+---
+title: Psalm 72:15
+type: Verse
+kjv: "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised."
+bsb: "Long may he live! May gold from Sheba be given him. May people ever pray for him; may they bless him all day long."
+hebrew: "וִיחִ֗י וְיִתֶּן־ לוֹ֮ מִזְּהַ֪ב שְׁ֫בָ֥א וְיִתְפַּלֵּ֣ל בַּעֲד֣וֹ תָמִ֑יד כָּל־ הַ֝יּ֗וֹם יְבָרֲכֶֽנְהֽוּ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHEBA|SHEBA]]"
+strongs:
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H2091]]"
+- "[[H7614J]]"
+- "[[H6419]]"
+- "[[H1157]]"
+- "[[H8548]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:15**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; [and] daily shall he be praised.
 <small><sub>**BSB:**</sub></small>
 Long may he live! May gold from Sheba be given him. May people ever pray for him; may they bless him all day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H2421\|יחִ֗י]] [[H9002\|וְ]][[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֮]] [[H9006\|מִ]][[H2091\|זְּהַ֪ב]] [[H7614J\|שְׁ֫בָ֥א]] [[H9002\|וְ]][[H6419\|יִתְפַּלֵּ֣ל]] [[H1157\|בַּעֲד֣]][[H9033\|וֹ]] [[H8548\|תָמִ֑יד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֝]][[H3117G\|יּ֗וֹם]] [[H1288\|יְבָרֲכֶֽ]][[H9033\|נְהֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]] • [[topic SHEBA|SHEBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.14|<< Psalms 72:14]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.16|Psalms 72:16 >>]]</td></tr></table>
 

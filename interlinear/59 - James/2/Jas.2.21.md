@@ -1,10 +1,61 @@
+---
+title: James 2:21
+type: Verse
+kjv: "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+bsb: "Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?"
+greek: "Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη ἀνενέγκας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπὶ τὸ θυσιαστήριον;"
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G1344]]"
+- "[[G0399]]"
+- "[[G2464]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2379]]"
+texts:
+- NKO
+---
+
 **James 2:21**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 <small><sub>**BSB:**</sub></small>
 Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?
-<small><sub>**Literal:**</sub></small>
-Abraham the father of us not by works was justified having offered Isaac the son of him upon the altar?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.20|<< James 2:20]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.22|James 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0011\|Ἀβραὰμ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3165\|ἡμῶν]]  [[G3756\|οὐκ]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G1344\|ἐδικαιώθη]]  [[G0399\|ἀνενέγκας]]  [[G2464\|Ἰσαὰκ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G2379\|θυσιαστήριον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISAAC|ISAAC]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.20|<< James 2:20]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.22|James 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 2:21** is...
 > $\quad$ alluding to: [[LXX.Gen.22.9|Gen 22:9]]

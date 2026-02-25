@@ -1,8 +1,80 @@
+---
+title: Nehemiah 1:9
+type: Verse
+kjv: "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
+bsb: "but if you return to Me and keep and practice My commandments, then even if your exiles have been banished to the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for My Name.’"
+hebrew: "וְשַׁבְתֶּ֣ם אֵלַ֔י וּשְׁמַרְתֶּם֙ מִצְוֹתַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם אִם־ יִהְיֶ֨ה נִֽדַּחֲכֶ֜ם בִּקְצֵ֤ה הַשָּׁמַ֙יִם֙ מִשָּׁ֣ם אֲקַבְּצֵ֔ם וַהֲבִֽיאוֹתִים֙ אֶל־ הַמָּק֔וֹם אֲשֶׁ֣ר בָּחַ֔רְתִּי לְשַׁכֵּ֥ן אֶת־ שְׁמִ֖י שָֽׁם׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5080]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H6908]]"
+- "[[H0935P]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9005]]"
+- "[[H7931]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Nehemiah 1:9**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [if] ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, [yet] will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.
 <small><sub>**BSB:**</sub></small>
 but if you return to Me and keep and practice My commandments, then even if your exiles have been banished to the farthest horizon, I will gather them from there and bring them to the place I have chosen as a dwelling for My Name.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725O\|שַׁבְתֶּ֣ם]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּם֙]] [[H4687\|מִצְוֹתַ֔]][[H9020\|י]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֖ם]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H0518A\|אִם]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H5080\|נִֽדַּחֲ]][[H9036\|כֶ֜ם]] [[H9003\|בִּ]][[H7097A\|קְצֵ֤ה]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9006\|מִ]][[H8033G\|שָּׁ֣ם]] [[H6908\|אֲקַבְּצֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H0935P\|הֲבִֽיאוֹתִי]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֔רְתִּי]] [[H9005\|לְ]][[H7931\|שַׁכֵּ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic COUNTRY|COUNTRY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.8|<< Nehemiah 1:8]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.10|Nehemiah 1:10 >>]]</td></tr></table>
 

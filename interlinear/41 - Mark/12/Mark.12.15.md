@@ -1,10 +1,59 @@
+---
+title: Mark 12:15
+type: Verse
+kjv: "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it."
+bsb: "But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.”"
+jesus_said: "Why tempt ye me? bring me a penny, that I may see it."
+greek: "δῶμεν ἢ μὴ δῶμεν;¶ Ὁ δὲ εἰδὼς αὐτῶν τὴν ὑπόκρισιν εἶπεν αὐτοῖς· τί με πειράζετε; φέρετέ μοι δηνάριον ἵνα ἴδω."
+pericope: "[[Mark.12.13 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G1325]]"
+- "[[G2228]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G6063]]"
+- "[[G0846]]"
+- "[[G5272]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3985H]]"
+- "[[G5342]]"
+- "[[G1220]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **Mark 12:15**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see [it].
 <small><sub>**BSB:**</sub></small>
 But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.”
-<small><sub>**Literal:**</sub></small>
-shall we pay or not shall we pay? (15) <the> And knowing of them the hypocrisy He said to them; Why Me do you test? do bring Me a denarius that I may see [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.14|<< Mark 12:14]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.16|Mark 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δῶμεν]]  [[G2228\|ἢ]]  [[G3361\|μὴ]]  [[G1325\|δῶμεν;¶]]  [[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G6063\|εἰδὼς]]  [[G0846\|αὐτῶν]]  [[G3588\|τὴν]]  [[G5272\|ὑπόκρισιν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G3985H\|πειράζετε;]]  [[G5342\|φέρετέ]]  [[G3165\|μοι]]  [[G1220\|δηνάριον]]  [[G2443\|ἵνα]]  [[G1492H\|ἴδω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.14|<< Mark 12:14]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.16|Mark 12:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

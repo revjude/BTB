@@ -1,8 +1,68 @@
+---
+title: Exodus 18:18
+type: Verse
+kjv: "Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone."
+bsb: "Surely you and these people with you will wear yourselves out, because the task is too heavy for you. You cannot handle it alone."
+hebrew: "נָבֹ֣ל תִּבֹּ֔ל גַּם־ אַתָּ֕ה גַּם־ הָעָ֥ם הַזֶּ֖ה אֲשֶׁ֣ר עִמָּ֑ךְ כִּֽי־ כָבֵ֤ד מִמְּךָ֙ הַדָּבָ֔ר לֹא־ תוּכַ֥ל עֲשֹׂ֖הוּ לְבַדֶּֽךָ׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H5034B]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H3515]]"
+- "[[H4480A]]"
+- "[[H1697I]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:18**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt surely wear away, both thou, and this people that [is] with thee: for this thing [is] too heavy for thee; thou art not able to perform it thyself alone.
 <small><sub>**BSB:**</sub></small>
 Surely you and these people with you will wear yourselves out, because the task is too heavy for you. You cannot handle it alone.
+<small><sub>**Hebrew:**</sub></small>
+[[H5034B\|נָבֹ֣ל]] [[H5034B\|תִּבֹּ֔ל]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אַתָּ֕ה]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H5973A\|עִמָּ֑]][[H9031\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3515\|כָבֵ֤ד]] [[H4480A\|מִמְּ]][[H9031\|ךָ֙]] [[H9009\|הַ]][[H1697I\|דָּבָ֔ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|תוּכַ֥ל]] [[H6213A\|עֲשֹׂ֖]][[H9033\|הוּ]] [[H9005\|לְ]][[H0905H\|בַדֶּֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.17|<< Exodus 18:17]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.19|Exodus 18:19 >>]]</td></tr></table>
 

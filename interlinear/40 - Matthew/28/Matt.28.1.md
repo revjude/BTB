@@ -1,10 +1,57 @@
+---
+title: Matthew 28:1
+type: Verse
+kjv: "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+bsb: "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb."
+greek: "Ὀψὲ δὲ σαββάτων τῇ ἐπιφωσκούσῃ εἰς μίαν σαββάτων ἦλθεν Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία θεωρῆσαι τὸν τάφον."
+pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G3796]]"
+- "[[G1161]]"
+- "[[G4521]]"
+- "[[G3588]]"
+- "[[G2020]]"
+- "[[G1519]]"
+- "[[G1520]]"
+- "[[G2064]]"
+- "[[G3137I]]"
+- "[[G3094]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G3137G]]"
+- "[[G2334]]"
+- "[[G5028]]"
+texts:
+- NKO
+---
+
 **Matthew 28:1**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the end of the sabbath, as it began to dawn toward the first [day] of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 <small><sub>**BSB:**</sub></small>
 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
-<small><sub>**Literal:**</sub></small>
-Late then of [the] Sabbaths when dawning toward [the] first [day] of [the] week came Mary <the> Magdalene and the other Mary to see the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.66|<< Matthew 27:66]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.2|Matthew 28:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3796\|Ὀψὲ]]  [[G1161\|δὲ]]  [[G4521\|σαββάτων]]  [[G3588\|τῇ]]  [[G2020\|ἐπιφωσκούσῃ]]  [[G1519\|εἰς]]  [[G1520\|μίαν]]  [[G4521\|σαββάτων]]  [[G2064\|ἦλθεν]]  [[G3137I\|Μαριὰμ]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0243\|ἄλλη]]  [[G3137G\|Μαρία]]  [[G2334\|θεωρῆσαι]]  [[G3588\|τὸν]]  [[G5028\|τάφον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.66|<< Matthew 27:66]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.2|Matthew 28:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

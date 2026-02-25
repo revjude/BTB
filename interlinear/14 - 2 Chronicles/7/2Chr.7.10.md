@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 7:10
+type: Verse
+kjv: "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people."
+bsb: "On the twenty-third day of the seventh month, Solomon sent the people away to their homes, joyful and glad of heart for the good things that the LORD had done for David, for Solomon, and for His people Israel."
+hebrew: "וּבְי֨וֹם עֶשְׂרִ֤ים וּשְׁלֹשָׁה֙ לַחֹ֣דֶשׁ הַשְּׁבִיעִ֔י שִׁלַּ֥ח אֶת־ הָעָ֖ם לְאָהֳלֵיהֶ֑ם שְׂמֵחִים֙ וְט֣וֹבֵי לֵ֔ב עַל־ הַטּוֹבָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ לְדָוִ֣יד וְלִשְׁלֹמֹ֔ה וּלְיִשְׂרָאֵ֖ל עַמּֽוֹ׃"
+pericope: "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6242]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0168H]]"
+- "[[H9028]]"
+- "[[H8056]]"
+- "[[H2896A]]"
+- "[[H3820A]]"
+- "[[H5921A]]"
+- "[[H2896C]]"
+- "[[H0834A]]"
+- "[[H6213I]]"
+- "[[H3068G]]"
+- "[[H1732]]"
+- "[[H8010]]"
+- "[[H3478]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:10**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people.
 <small><sub>**BSB:**</sub></small>
 On the twenty-third day of the seventh month, Solomon sent the people away to their homes, joyful and glad of heart for the good things that the LORD had done for David, for Solomon, and for His people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֨וֹם]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁה֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H7971G\|שִׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לְ]][[H0168H\|אָהֳלֵי]][[H9028\|הֶ֑ם]] [[H8056\|שְׂמֵחִים֙]] [[H9002\|וְ]][[H2896A\|ט֣וֹבֵי]] [[H3820A\|לֵ֔ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213I\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H1732\|דָוִ֣יד]] [[H9002\|וְ]][[H9005\|לִ]][[H8010\|שְׁלֹמֹ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic JOY|JOY]] • [[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.9|<< 2 Chronicles 7:9]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.11|2 Chronicles 7:11 >>]]</td></tr></table>
 

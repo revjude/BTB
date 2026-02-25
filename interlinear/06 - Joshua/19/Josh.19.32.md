@@ -1,8 +1,50 @@
+---
+title: Joshua 19:32
+type: Verse
+kjv: "The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families."
+bsb: "The sixth lot came out for the clans of the tribe of Naphtali:"
+hebrew: "לִבְנֵ֣י נַפְתָּלִ֔י יָצָ֖א הַגּוֹרָ֣ל הַשִּׁשִּׁ֑י לִבְנֵ֥י נַפְתָּלִ֖י לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Josh.19.32 Naphtali’s Inheritance|Naphtali’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H5321G]]"
+- "[[H3318J]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H8345]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:32**<big><big>[[Josh.19.32 Naphtali’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sixth lot came out to the children of Naphtali, [even] for the children of Naphtali according to their families.
 <small><sub>**BSB:**</sub></small>
 The sixth lot came out for the clans of the tribe of Naphtali:
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H5321G\|נַפְתָּלִ֔י]] [[H3318J\|יָצָ֖א]] [[H9009\|הַ]][[H1486\|גּוֹרָ֣ל]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֑י]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H5321G\|נַפְתָּלִ֖י]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.31|<< Joshua 19:31]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.33|Joshua 19:33 >>]]</td></tr></table>
 

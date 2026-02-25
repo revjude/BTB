@@ -1,8 +1,60 @@
+---
+title: 2 Kings 17:1
+type: Verse
+kjv: "In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years."
+bsb: "In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years."
+hebrew: "בִּשְׁנַת֙ שְׁתֵּ֣ים עֶשְׂרֵ֔ה לְאָחָ֖ז מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ הוֹשֵׁ֨עַ בֶּן־ אֵלָ֧ה בְשֹׁמְר֛וֹן עַל־ יִשְׂרָאֵ֖ל תֵּ֥שַׁע שָׁנִֽים׃"
+pericope: "[[2Kgs.17.1 Hoshea the Last King of Israel|Hoshea the Last King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELAH|ELAH]]"
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H0271G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H1954G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0425I]]"
+- "[[H8111]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H8672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:1**<big><big>[[2Kgs.17.1 Hoshea the Last King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 <small><sub>**BSB:**</sub></small>
 In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֙]] [[H8147\|שְׁתֵּ֣ים]] [[H6240\|עֶשְׂרֵ֔ה]] [[H9005\|לְ]][[H0271G\|אָחָ֖ז]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H1954G\|הוֹשֵׁ֨עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0425I\|אֵלָ֧ה]] [[H9003\|בְ]][[H8111\|שֹׁמְר֛וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H8672\|תֵּ֥שַׁע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAH|ELAH]] • [[topic HOSHEA|HOSHEA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.20|<< 2 Kings 16:20]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.2|2 Kings 17:2 >>]]</td></tr></table>
 

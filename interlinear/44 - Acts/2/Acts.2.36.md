@@ -1,10 +1,67 @@
+---
+title: Acts 2:36
+type: Verse
+kjv: "Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ."
+bsb: "Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!”"
+greek: "ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ κύριον αὐτὸν καὶ χριστὸν ἐποίησεν ὁ θεός, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.¶"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0806]]"
+- "[[G3767]]"
+- "[[G1097]]"
+- "[[G3956]]"
+- "[[G3624H]]"
+- "[[G2474]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G0846]]"
+- "[[G5547]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G4717]]"
+texts:
+- NKO
+---
+
 **Acts 2:36**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.
 <small><sub>**BSB:**</sub></small>
 Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!”
-<small><sub>**Literal:**</sub></small>
-Assuredly therefore should know all [the] house of Israel that both Lord Him and Christ has made <the> God — this <the> Jesus whom you yourselves crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.35|<< Acts 2:35]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.37|Acts 2:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0806\|ἀσφαλῶς]]  [[G3767\|οὖν]]  [[G1097\|γινωσκέτω]]  [[G3956\|πᾶς]]  [[G3624H\|οἶκος]]  [[G2474\|Ἰσραὴλ]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G2962G\|κύριον]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G5547\|χριστὸν]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G4717\|ἐσταυρώσατε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CROSS|CROSS]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.35|<< Acts 2:35]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.37|Acts 2:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

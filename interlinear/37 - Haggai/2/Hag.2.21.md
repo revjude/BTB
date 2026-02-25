@@ -1,8 +1,55 @@
+---
+title: Haggai 2:21
+type: Verse
+kjv: "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;"
+bsb: "“Tell Zerubbabel governor of Judah that I am about to shake the heavens and the earth:"
+hebrew: "אֱמֹ֕ר אֶל־ זְרֻבָּבֶ֥ל פַּֽחַת־ יְהוּדָ֖ה לֵאמֹ֑ר אֲנִ֣י מַרְעִ֔ישׁ אֶת־ הַשָּׁמַ֖יִם וְאֶת־ הָאָֽרֶץ׃"
+pericope: "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2216]]"
+- "[[H6346]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0589]]"
+- "[[H7493]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:21**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;
 <small><sub>**BSB:**</sub></small>
 “Tell Zerubbabel governor of Judah that I am about to shake the heavens and the earth:
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֕ר]] [[H0413\|אֶל]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֥ל]] [[H6346\|פַּֽחַת]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0589\|אֲנִ֣י]] [[H7493\|מַרְעִ֔ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.20|<< Haggai 2:20]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.22|Haggai 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

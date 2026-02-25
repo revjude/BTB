@@ -1,8 +1,71 @@
+---
+title: Hosea 2:18
+type: Verse
+kjv: "And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely."
+bsb: "On that day I will make a covenant for them with the beasts of the field and the birds of the air and the creatures that crawl on the ground. And I will abolish bow and sword and battle in the land, and will make them lie down in safety."
+hebrew: "וְכָרַתִּ֨י לָהֶ֤ם בְּרִית֙ בַּיּ֣וֹם הַה֔וּא עִם־ חַיַּ֤ת הַשָּׂדֶה֙ וְעִם־ ע֣וֹף הַשָּׁמַ֔יִם וְרֶ֖מֶשׂ הָֽאֲדָמָ֑ה וְקֶ֨שֶׁת וְחֶ֤רֶב וּמִלְחָמָה֙ אֶשְׁבּ֣וֹר מִן־ הָאָ֔רֶץ וְהִשְׁכַּבְתִּ֖ים לָבֶֽטַח׃"
+pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H7431]]"
+- "[[H0127G]]"
+- "[[H7198]]"
+- "[[H2719]]"
+- "[[H4421]]"
+- "[[H7665]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H7901G]]"
+- "[[H0983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:18**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and [with] the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.
 <small><sub>**BSB:**</sub></small>
 On that day I will make a covenant for them with the beasts of the field and the birds of the air and the creatures that crawl on the ground. And I will abolish bow and sword and battle in the land, and will make them lie down in safety.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772H\|כָרַתִּ֨י]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H1285\|בְּרִית֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H5973A\|עִם]][[H9014\|־]] [[H2416C\|חַיַּ֤ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H7431\|רֶ֖מֶשׂ]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֑ה]] [[H9002\|וְ]][[H7198\|קֶ֨שֶׁת]] [[H9002\|וְ]][[H2719\|חֶ֤רֶב]] [[H9002\|וּ]][[H4421\|מִלְחָמָה֙]] [[H7665\|אֶשְׁבּ֣וֹר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H7901G\|הִשְׁכַּבְתִּ֖י]][[H9038\|ם]] [[H9005\|לָ]][[H0983\|בֶֽטַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.17|<< Hosea 2:17]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.19|Hosea 2:19 >>]]</td></tr></table>
 

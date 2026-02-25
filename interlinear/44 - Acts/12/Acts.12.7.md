@@ -1,10 +1,73 @@
+---
+title: Acts 12:7
+type: Verse
+kjv: "And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands."
+bsb: "Suddenly an angel of the Lord appeared and a light shone in the cell. He tapped Peter on the side and woke him up, saying, “Get up quickly.” And the chains fell off his wrists."
+greek: "καὶ ἰδοὺ ἄγγελος κυρίου ἐπέστη καὶ φῶς ἔλαμψεν ἐν τῷ οἰκήματι· πατάξας δὲ τὴν πλευρὰν τοῦ Πέτρου ἤγειρεν αὐτὸν λέγων· ἀνάστα ἐν τάχει. καὶ ἐξέπεσαν αὐτοῦ αἱ ἁλύσεις ἐκ τῶν χειρῶν."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G2186]]"
+- "[[G5457]]"
+- "[[G2989]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3612]]"
+- "[[G3960]]"
+- "[[G1161]]"
+- "[[G4125]]"
+- "[[G4074G]]"
+- "[[G1453]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0450]]"
+- "[[G5034]]"
+- "[[G1601]]"
+- "[[G0254]]"
+- "[[G1537]]"
+- "[[G5495]]"
+texts:
+- NKO
+---
+
 **Acts 12:7**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, the angel of the Lord came upon [him], and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from [his] hands.
 <small><sub>**BSB:**</sub></small>
 Suddenly an angel of the Lord appeared and a light shone in the cell. He tapped Peter on the side and woke him up, saying, “Get up quickly.” And the chains fell off his wrists.
-<small><sub>**Literal:**</sub></small>
-And behold an angel of [the] Lord stood by and a light shone in the cell; Having struck then the side <the> of Peter he woke up him saying; do rise up with speed. And fell of him the chains off the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.6|<< Acts 12:6]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.8|Acts 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G2186\|ἐπέστη]]  [[G2532\|καὶ]]  [[G5457\|φῶς]]  [[G2989\|ἔλαμψεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3612\|οἰκήματι·]]  [[G3960\|πατάξας]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G4125\|πλευρὰν]]  [[G3588\|τοῦ]]  [[G4074G\|Πέτρου]]  [[G1453\|ἤγειρεν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγων·]]  [[G0450\|ἀνάστα]]  [[G1722\|ἐν]]  [[G5034\|τάχει.]]  [[G2532\|καὶ]]  [[G1601\|ἐξέπεσαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|αἱ]]  [[G0254\|ἁλύσεις]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHAINS|CHAINS]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.6|<< Acts 12:6]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.8|Acts 12:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

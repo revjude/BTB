@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 8:11
+type: Verse
+kjv: "And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint them for himself, for his chariots, and to be his horsemen; and some shall run before his chariots."
+bsb: "He said, “This will be the manner of the king who will reign over you: He will take your sons and appoint them to serve his own chariots and horses, and to run in front of his chariots."
+hebrew: "וַיֹּ֕אמֶר זֶ֗ה יִֽהְיֶה֙ מִשְׁפַּ֣ט הַמֶּ֔לֶךְ אֲשֶׁ֥ר יִמְלֹ֖ךְ עֲלֵיכֶ֑ם אֶת־ בְּנֵיכֶ֣ם יִקָּ֗ח וְשָׂ֥ם לוֹ֙ בְּמֶרְכַּבְתּ֣וֹ וּבְפָרָשָׁ֔יו וְרָצ֖וּ לִפְנֵ֥י מֶרְכַּבְתּֽוֹ׃"
+pericope: "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FOOTMAN|FOOTMAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONARCHY|MONARCHY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H4941J]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H3947G]]"
+- "[[H7760L]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4818]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6571A]]"
+- "[[H7323G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:11**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint [them] for himself, for his chariots, and [to be] his horsemen; and [some] shall run before his chariots.
 <small><sub>**BSB:**</sub></small>
 He said, “This will be the manner of the king who will reign over you: He will take your sons and appoint them to serve his own chariots and horses, and to run in front of his chariots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2088\|זֶ֗ה]] [[H1961\|יִֽהְיֶה֙]] [[H4941J\|מִשְׁפַּ֣ט]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H4427A\|יִמְלֹ֖ךְ]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֣ם]] [[H3947G\|יִקָּ֗ח]] [[H9001\|וְ]][[H7760L\|שָׂ֥ם]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H4818\|מֶרְכַּבְתּ֣]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H6571A\|פָרָשָׁ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7323G\|רָצ֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4818\|מֶרְכַּבְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOTMAN|FOOTMAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MONARCHY|MONARCHY]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.10|<< 1 Samuel 8:10]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.12|1 Samuel 8:12 >>]]</td></tr></table>
 

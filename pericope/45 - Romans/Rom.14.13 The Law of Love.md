@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law of Love
+type: Pericope
 pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Romans
 chapter: 14
 book/chapter: "[[Rom.14|Romans 14]]"
-genre:
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 11
 verses:
 - "[[Rom.14.13]]"
 - "[[Rom.14.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rom.14.23]]"
 ---
 
-[[Rom.14|Romans 14:13 - Romans 14:23]]
+<small>[[Rom.14|Romans 14:13-23]]</small>
 *The Law of Love*
 
 [[Rom.14.13|13]] Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in \[his\] brother’s way.

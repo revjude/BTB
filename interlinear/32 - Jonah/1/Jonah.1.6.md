@@ -1,8 +1,69 @@
+---
+title: Jonah 1:6
+type: Verse
+kjv: "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not."
+bsb: "The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”"
+hebrew: "וַיִּקְרַ֤ב אֵלָיו֙ רַ֣ב הַחֹבֵ֔ל וַיֹּ֥אמֶר ל֖וֹ מַה־ לְּךָ֣ נִרְדָּ֑ם ק֚וּם קְרָ֣א אֶל־ אֱלֹהֶ֔יךָ אוּלַ֞י יִתְעַשֵּׁ֧ת הָאֱלֹהִ֛ים לָ֖נוּ וְלֹ֥א נֹאבֵֽד׃"
+pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7227B]]"
+- "[[H9009]]"
+- "[[H2259]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H7290]]"
+- "[[H6965B]]"
+- "[[H7121G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0194]]"
+- "[[H6245B]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:6**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.
 <small><sub>**BSB:**</sub></small>
 The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|יִּקְרַ֤ב]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H7227B\|רַ֣ב]] [[H9009\|הַ]][[H2259\|חֹבֵ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֣]] [[H7290\|נִרְדָּ֑ם]] [[H6965B\|ק֚וּם]] [[H7121G\|קְרָ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0194\|אוּלַ֞י]] [[H6245B\|יִתְעַשֵּׁ֧ת]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0006\|נֹאבֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JONAH|JONAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.5|<< Jonah 1:5]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.7|Jonah 1:7 >>]]</td></tr></table>
 

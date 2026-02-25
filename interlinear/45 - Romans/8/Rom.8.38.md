@@ -1,10 +1,57 @@
+---
+title: Romans 8:38
+type: Verse
+kjv: "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,"
+bsb: "For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers,"
+greek: "πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις"
+pericope: "[[Rom.8.35 More than Conquerors|More than Conquerors]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3982]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3777]]"
+- "[[G2288]]"
+- "[[G2222]]"
+- "[[G0032G]]"
+- "[[G0746]]"
+- "[[G1764]]"
+- "[[G3195]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **Romans 8:38**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 <small><sub>**BSB:**</sub></small>
 For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers,
-<small><sub>**Literal:**</sub></small>
-I have been persuaded for that neither death nor life nor angels nor principalities nor things being present nor things to come nor powers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.37|<< Romans 8:37]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.39|Romans 8:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|πέπεισμαι]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3777\|οὔτε]]  [[G2288\|θάνατος]]  [[G3777\|οὔτε]]  [[G2222\|ζωὴ]]  [[G3777\|οὔτε]]  [[G0032G\|ἄγγελοι]]  [[G3777\|οὔτε]]  [[G0746\|ἀρχαὶ]]  [[G3777\|οὔτε]]  [[G1764\|ἐνεστῶτα]]  [[G3777\|οὔτε]]  [[G3195\|μέλλοντα]]  [[G3777\|οὔτε]]  [[G1411\|δυνάμεις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.37|<< Romans 8:37]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.39|Romans 8:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

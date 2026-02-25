@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abner Joins David
+type: Pericope
 pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 3
 book/chapter: "[[2Sam.3|2 Samuel 3]]"
-genre:
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 16
 verses:
 - "[[2Sam.3.6]]"
 - "[[2Sam.3.7]]"
@@ -35,7 +42,7 @@ verses:
 - "[[2Sam.3.21]]"
 ---
 
-[[2Sam.3|2 Samuel 3:6 - 2 Samuel 3:21]]
+<small>[[2Sam.3|2 Samuel 3:6-21]]</small>
 *Abner Joins David*
 
 [[2Sam.3.6|6]] And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.

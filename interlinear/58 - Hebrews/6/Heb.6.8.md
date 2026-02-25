@@ -1,10 +1,56 @@
+---
+title: Hebrews 6:8
+type: Verse
+kjv: "But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned."
+bsb: "But land that produces thorns and thistles is worthless, and its curse is imminent. In the end it will be burned."
+greek: "ἐκφέρουσα δὲ ἀκάνθας καὶ τριβόλους ἀδόκιμος καὶ κατάρας ἐγγύς, ἧς τὸ τέλος εἰς καῦσιν.¶"
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1627]]"
+- "[[G1161]]"
+- "[[G0173]]"
+- "[[G2532]]"
+- "[[G5146]]"
+- "[[G0096]]"
+- "[[G2671]]"
+- "[[G1451]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G1519]]"
+- "[[G2740]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:8**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that which beareth thorns and briers [is] rejected, and [is] nigh unto cursing; whose end [is] to be burned.
 <small><sub>**BSB:**</sub></small>
 But land that produces thorns and thistles is worthless, and its curse is imminent. In the end it will be burned.
-<small><sub>**Literal:**</sub></small>
-[That] bringing forth however thorns and thistles [is] worthless and a curse near to, of which the end [is] unto burning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.7|<< Hebrews 6:7]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.9|Hebrews 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1627\|ἐκφέρουσα]]  [[G1161\|δὲ]]  [[G0173\|ἀκάνθας]]  [[G2532\|καὶ]]  [[G5146\|τριβόλους]]  [[G0096\|ἀδόκιμος]]  [[G2532\|καὶ]]  [[G2671\|κατάρας]]  [[G1451\|ἐγγύς,]]  [[G3739\|ἧς]]  [[G3588\|τὸ]]  [[G5056\|τέλος]]  [[G1519\|εἰς]]  [[G2740\|καῦσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic REPROBACY|REPROBACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.7|<< Hebrews 6:7]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.9|Hebrews 6:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 6:8** is...
 > $\quad$ alluding to: [[LXX.Gen.3.18|Gen 3:18]]

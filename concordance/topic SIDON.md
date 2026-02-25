@@ -31,9 +31,9 @@
 
 - The sailors of [[Ezek.27.8|Eze 27:8]]
 
-- Prophecies concerning [[Jer.25.15|Jer 25:15]]-[[Jer.25.22|22]]; [[Jer.27.3|27:3]]-[[Jer.27.11|11]]; [[Jer.47.4|47:4]];  [[Ezek.28.21|Eze 28:21]]-[[Ezek.28.23|23]]; [[Ezek.32.30|32:30]]; [[Joel.3.4|Joe 3:4]]-[[Joel.3.8|8]]
+- Prophecies concerning [[Jer.25.15|Jer 25:15-22]]; [[Jer.27.3|27:3-11]]; [[Jer.47.4|47:4]];  [[Ezek.28.21|Eze 28:21-23]]; [[Ezek.32.30|32:30]]; [[Joel.3.4|Joe 3:4-8]]
 
-- Jesus visits the region of, and heals the daughter of the non-Jewish,  Syro-Phoenician woman [[Matt.15.21|Mt 15:21]]-[[Matt.15.28|28]]; [[Mark.7.24|Mr 7:24]]-[[Mark.7.31|31]]
+- Jesus visits the region of, and heals the daughter of the non-Jewish,  Syro-Phoenician woman [[Matt.15.21|Mt 15:21-28]]; [[Mark.7.24|Mr 7:24-31]]
 
 - Visited by Paul [[Acts.27.3|Ac 27:3]]
 

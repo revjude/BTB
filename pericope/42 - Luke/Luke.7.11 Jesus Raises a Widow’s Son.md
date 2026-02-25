@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Raises a Widow’s Son
+type: Pericope
 pericope: "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 7
 book/chapter: "[[Luke.7|Luke 7]]"
-genre:
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.7.11]]"
 - "[[Luke.7.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.7.17]]"
 ---
 
-[[Luke.7|Luke 7:11 - Luke 7:17]]
+<small>[[Luke.7|Luke 7:11-17]]</small>
 *Jesus Raises a Widow’s Son*
 
 [[Luke.7.11|11]] And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.

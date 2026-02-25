@@ -1,8 +1,67 @@
+---
+title: Psalm 109:16
+type: Verse
+kjv: "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart."
+bsb: "For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death."
+hebrew: "יַ֗עַן אֲשֶׁ֤ר׀ לֹ֥א זָכַר֮ עֲשׂ֪וֹת חָ֥סֶד וַיִּרְדֹּ֡ף אִישׁ־ עָנִ֣י וְ֭אֶבְיוֹן וְנִכְאֵ֨ה לֵבָ֬ב לְמוֹתֵֽת׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H6213A]]"
+- "[[H2617A]]"
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H0376I]]"
+- "[[H9014]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H3512A]]"
+- "[[H3824]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:16**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.
 <small><sub>**BSB:**</sub></small>
 For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֤ר]][[H9015\|׀]] [[H3808\|לֹ֥א]] [[H2142\|זָכַר֮]] [[H6213A\|עֲשׂ֪וֹת]] [[H2617A\|חָ֥סֶד]] [[H9001\|וַ]][[H7291\|יִּרְדֹּ֡ף]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H6041\|עָנִ֣י]] [[H9002\|וְ֭]][[H0034\|אֶבְיוֹן]] [[H9002\|וְ]][[H3512A\|נִכְאֵ֨ה]] [[H3824\|לֵבָ֬ב]] [[H9005\|לְ]][[H4191\|מוֹתֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARACTER|CHARACTER]] • [[topic MALICE|MALICE]] • [[topic POOR|POOR]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.15|<< Psalms 109:15]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.17|Psalms 109:17 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Exodus 1:7
+type: Verse
+kjv: "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them."
+bsb: "but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them."
+hebrew: "וּבְנֵ֣י יִשְׂרָאֵ֗ל פָּר֧וּ וַֽיִּשְׁרְצ֛וּ וַיִּרְבּ֥וּ וַיַּֽעַצְמ֖וּ בִּמְאֹ֣ד מְאֹ֑ד וַתִּמָּלֵ֥א הָאָ֖רֶץ אֹתָֽם׃ פ"
+pericope: "[[Exod.1.1 The Israelites Multiply in Egypt|The Israelites Multiply in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6509]]"
+- "[[H9001]]"
+- "[[H8317]]"
+- "[[H7235A]]"
+- "[[H6105A]]"
+- "[[H9003]]"
+- "[[H3966]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 1:7**<big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
 <small><sub>**BSB:**</sub></small>
 but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H6509\|פָּר֧וּ]] [[H9001\|וַֽ]][[H8317\|יִּשְׁרְצ֛וּ]] [[H9001\|וַ]][[H7235A\|יִּרְבּ֥וּ]] [[H9001\|וַ]][[H6105A\|יַּֽעַצְמ֖וּ]] [[H9003\|בִּ]][[H3966\|מְאֹ֣ד]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H4390\|תִּמָּלֵ֥א]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0854\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.6|<< Exodus 1:6]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.8|Exodus 1:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -22,7 +76,7 @@ but the Israelites were fruitful and increased rapidly; they multiplied and beca
 | muchness  |**<big>&#8207;[[H3966\|מְאֹ֑ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it was filled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4390\|תִּמָּלֵ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ma.Le'<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with them  |**<big>&#8207;[[H0854\|אֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'o.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  |**<big>&#8207;[[H0854\|אֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'o.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.6|<< Exodus 1:6]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.8|Exodus 1:8 >>]]</td></tr></table>
 
 

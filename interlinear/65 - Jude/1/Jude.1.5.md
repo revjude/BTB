@@ -1,10 +1,57 @@
+---
+title: Jude 1:5
+type: Verse
+kjv: "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not."
+bsb: "Although you are fully aware of this, I want to remind you that after Jesus had delivered His people out of the land of Egypt, He destroyed those who did not believe."
+greek: "Ὑπομνῆσαι δὲ ὑμᾶς βούλομαι, εἰδότας ὑμᾶς πάντα, ὅτι ὁ κύριος ἅπαξ λαὸν ἐκ γῆς Αἰγύπτου σώσας τὸ δεύτερον τοὺς μὴ πιστεύσαντας ἀπώλεσεν."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G5279]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1014]]"
+- "[[G6063]]"
+- "[[G3956]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G0530]]"
+- "[[G2992]]"
+- "[[G1537]]"
+- "[[G1093H]]"
+- "[[G0125]]"
+- "[[G4982]]"
+- "[[G1208]]"
+- "[[G3361]]"
+- "[[G4100]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(K)O
+- NK
+- NK(O)
+---
+
 **Jude 1:5**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 <small><sub>**BSB:**</sub></small>
 Although you are fully aware of this, I want to remind you that after Jesus had delivered His people out of the land of Egypt, He destroyed those who did not believe.
-<small><sub>**Literal:**</sub></small>
-To remind now you I want, knowing you everything, that <the> Lord once a people out of [the] land of Egypt having saved <the> afterward those not having believed He destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.4|<< Jude 1:4]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.6|Jude 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5279\|Ὑπομνῆσαι]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G1014\|βούλομαι,]]  [[G6063\|εἰδότας]]  [[G4771\|ὑμᾶς]]  [[G3956\|πάντα,]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0530\|ἅπαξ]]  [[G2992\|λαὸν]]  [[G1537\|ἐκ]]  [[G1093H\|γῆς]]  [[G0125\|Αἰγύπτου]]  [[G4982\|σώσας]]  [[G3588\|τὸ]]  [[G1208\|δεύτερον]]  [[G3588\|τοὺς]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσαντας]]  [[G0622\|ἀπώλεσεν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.4|<< Jude 1:4]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.6|Jude 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jude 1:5** is...
 > $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Num.14.32|Num 14:32]]

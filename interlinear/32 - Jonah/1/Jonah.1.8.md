@@ -1,8 +1,71 @@
+---
+title: Jonah 1:8
+type: Verse
+kjv: "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?"
+bsb: "“Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”"
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֔יו הַגִּידָה־ נָּ֣א לָ֔נוּ בַּאֲשֶׁ֛ר לְמִי־ הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ מַה־ מְּלַאכְתְּךָ֙ וּמֵאַ֣יִן תָּב֔וֹא מָ֣ה אַרְצֶ֔ךָ וְאֵֽי־ מִזֶּ֥ה עַ֖ם אָֽתָּה׃"
+pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H4310]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H2063]]"
+- "[[H4100]]"
+- "[[H4399]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H5971A]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:8**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, Tell us, we pray thee, for whose cause this evil [is] upon us; What [is] thine occupation? and whence comest thou? what [is] thy country? and of what people [art] thou?
 <small><sub>**BSB:**</sub></small>
 “Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H5046\|הַגִּידָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֛ר]] [[H9005\|לְ]][[H4310\|מִי]][[H9014\|־]] [[H9009\|הָ]][[H7451I\|רָעָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H4100\|מַה]][[H9014\|־]] [[H4399\|מְּלַאכְתְּ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H0370\|אַ֣יִן]] [[H0935G\|תָּב֔וֹא]] [[H4100\|מָ֣ה]] [[H0776G\|אַרְצֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H0335\|אֵֽי]][[H9014\|־]] [[H9006\|מִ]][[H2088\|זֶּ֥ה]] [[H5971A\|עַ֖ם]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 

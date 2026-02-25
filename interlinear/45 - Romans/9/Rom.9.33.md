@@ -1,10 +1,66 @@
+---
+title: Romans 9:33
+type: Verse
+kjv: "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."
+bsb: "as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”"
+greek: "καθὼς γέγραπται· ἰδοὺ τίθημι ἐν Σιὼν λίθον προσκόμματος καὶ πέτραν σκανδάλου, καὶ πᾶς ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ καταισχυνθήσεται.¶"
+pericope: "[[Rom.9.30 Israel’s Unbelief|Israel’s Unbelief]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic STONES|STONES]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G2400]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G4622]]"
+- "[[G3037]]"
+- "[[G4348]]"
+- "[[G2532]]"
+- "[[G4073]]"
+- "[[G4625]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2617]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 9:33**<big><big>[[Rom.9.30 Israel’s Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
 <small><sub>**BSB:**</sub></small>
 as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”
-<small><sub>**Literal:**</sub></small>
-even as it has been written: Behold I lay in Zion a stone of stumbling and a rock of offense, and everyone who is believing on Him never will be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.32|<< Romans 9:32]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.1|Romans 10:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G2400\|ἰδοὺ]]  [[G5087\|τίθημι]]  [[G1722\|ἐν]]  [[G4622\|Σιὼν]]  [[G3037\|λίθον]]  [[G4348\|προσκόμματος]]  [[G2532\|καὶ]]  [[G4073\|πέτραν]]  [[G4625\|σκανδάλου,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G3756\|οὐ]]  [[G2617\|καταισχυνθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic STONES|STONES]] • [[topic STUMBLING|STUMBLING]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.32|<< Romans 9:32]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.1|Romans 10:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 9:33** is...
 > $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Isa.28.16|Isa 28:16]]

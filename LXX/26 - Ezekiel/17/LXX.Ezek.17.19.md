@@ -1,6 +1,68 @@
+---
+title: LXX Ezekiel 17:19
+type: Verse
+lxx: "On account of this say! Thus says Adonai the lord; As I live, surely  swearing by my oath which he disgraced, and  my covenant which he violated, that I will impute it on his head."
+greek: "διά τούτο ειπέ τάδε λέγει Αδωναϊ κύριος ζω εγώ εάν την ορκωμοσίαν μου ην ητίμωσε και την διαθήκην μου ην παρέβη και δώσω αυτήν εις κεφαλήν αυτού"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G2198]]"
+- "[[G1473]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G3728]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G0821]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G3845]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2776]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 17:19** 
 <small><sub>**LXX:**</sub></small>
 On account of this say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; \[As\] I live, surely  swearing by my oath which he disgraced, and  my covenant which he violated, \[that\] I will impute it on his head. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G2036\|ειπέ]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G2198\|ζω]] [[G1473\|εγώ]] [[G1437\|εάν]] [[G3588\|την]] [[G3728\|ορκωμοσίαν]] [[G1473\|μου]] [[G3739\|ην]] [[G0821\|ητίμωσε]] [[G2532\|και]] [[G3588\|την]] [[G1242\|διαθήκην]] [[G1473\|μου]] [[G3739\|ην]] [[G3845\|παρέβη]] [[G2532\|και]] [[G1325\|δώσω]] [[G1473\|αυτήν]] [[G1519\|εις]] [[G2776\|κεφαλήν]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COVENANT|COVENANT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
 
@@ -29,6 +91,6 @@ On account of this say! Thus says Adonai \[the\] <span class="smallcaps">lord</s
 | it | **<big>[[G1473\|αυτήν]]</big>** |
 | on | **<big>[[G1519\|εις]]</big>** |
 | his head. | **<big>[[G2776\|κεφαλήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Ezek.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
 
 

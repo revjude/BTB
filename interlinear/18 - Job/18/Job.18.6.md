@@ -1,8 +1,53 @@
+---
+title: Job 18:6
+type: Verse
+kjv: "The light shall be dark in his tabernacle, and his candle shall be put out with him."
+bsb: "The light in his tent grows dark, and the lamp beside him goes out."
+hebrew: "א֭וֹר חָשַׁ֣ךְ בְּאָהֳל֑וֹ וְ֝נֵר֗וֹ עָלָ֥יו יִדְעָֽךְ׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LAMP|LAMP]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0216]]"
+- "[[H2821]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5216A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1846]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:6**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The light shall be dark in his tabernacle, and his candle shall be put out with him.
 <small><sub>**BSB:**</sub></small>
 The light in his tent grows dark, and the lamp beside him goes out.
+<small><sub>**Hebrew:**</sub></small>
+[[H0216\|א֭וֹר]] [[H2821\|חָשַׁ֣ךְ]] [[H9003\|בְּ]][[H0168G\|אָהֳל֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H5216A\|נֵר֗]][[H9023\|וֹ]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H1846\|יִדְעָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAMP|LAMP]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.5|<< Job 18:5]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.7|Job 18:7 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Jeremiah 17:2
+type: Verse
+kjv: "Whilst their children remember their altars and their groves by the green trees upon the high hills."
+bsb: "Even their children remember their altars and Asherah poles by the green trees and on the high hills."
+hebrew: "כִּזְכֹּ֤ר בְּנֵיהֶם֙ מִזְבְּחוֹתָ֔ם וַאֲשֵׁרֵיהֶ֖ם עַל־ עֵ֣ץ רַֽעֲנָ֑ן עַ֖ל גְּבָע֥וֹת הַגְּבֹהֽוֹת׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9004]]"
+- "[[H2142]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H0842]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H1389I]]"
+- "[[H9009]]"
+- "[[H1364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:2**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whilst their children remember their altars and their groves by the green trees upon the high hills.
 <small><sub>**BSB:**</sub></small>
 Even their children remember their altars and Asherah poles by the green trees and on the high hills.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H2142\|זְכֹּ֤ר]] [[H1121A\|בְּנֵי]][[H9028\|הֶם֙]] [[H4196\|מִזְבְּחוֹתָ֔]][[H9028\|ם]] [[H9002\|וַ]][[H0842\|אֲשֵׁרֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6086H\|עֵ֣ץ]] [[H7488B\|רַֽעֲנָ֑ן]] [[H5921A\|עַ֖ל]] [[H1389I\|גְּבָע֥וֹת]] [[H9009\|הַ]][[H1364\|גְּבֹהֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic GROVES|GROVES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.1|<< Jeremiah 17:1]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.3|Jeremiah 17:3 >>]]</td></tr></table>
 

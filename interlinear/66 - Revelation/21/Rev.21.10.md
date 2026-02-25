@@ -1,10 +1,65 @@
+---
+title: Revelation 21:10
+type: Verse
+kjv: "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,"
+bsb: "And he carried me away in the Spirit to a mountain great and high, and showed me the holy city of Jerusalem coming down out of heaven from God,"
+greek: "καὶ ἀπήνεγκέν με ἐν πνεύματι ἐπὶ ὄρος μέγα καὶ ὑψηλὸν καὶ ἔδειξέν μοι τὴν πόλιν τὴν μεγάλην τὴν ἁγίαν Ἰερουσαλὴμ καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ,"
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0667]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G1909]]"
+- "[[G3735]]"
+- "[[G3173]]"
+- "[[G5308]]"
+- "[[G1166]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0040G]]"
+- "[[G2419]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G0575]]"
+- "[[G2316]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 21:10**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
 <small><sub>**BSB:**</sub></small>
 And he carried me away in the Spirit to a mountain great and high, and showed me the holy city of Jerusalem coming down out of heaven from God,
-<small><sub>**Literal:**</sub></small>
-And he carried away me in [the] Spirit to a mountain great and high and he showed me the city <the> great <the> holy Jerusalem descending out of <the> heaven from <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.9|<< Revelation 21:9]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.11|Revelation 21:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0667\|ἀπήνεγκέν]]  [[G3165\|με]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G1909\|ἐπὶ]]  [[G3735\|ὄρος]]  [[G3173\|μέγα]]  [[G2532\|καὶ]]  [[G5308\|ὑψηλὸν]]  [[G2532\|καὶ]]  [[G1166\|ἔδειξέν]]  [[G3165\|μοι]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G3588\|τὴν]]  [[G3173\|μεγάλην]]  [[G3588\|τὴν]]  [[G0040G\|ἁγίαν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2597\|καταβαίνουσαν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.9|<< Revelation 21:9]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.11|Revelation 21:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:10** is...
 > $\quad$ alluding to: [[LXX.Ezek.40.2|Ezek 40:2]]

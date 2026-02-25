@@ -1,10 +1,66 @@
+---
+title: Luke 7:32
+type: Verse
+kjv: "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+bsb: "They are like children sitting in the marketplace and calling out to one another: ‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’"
+jesus_said: "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+greek: "ὅμοιοί εἰσιν παιδίοις τοῖς ἐν ἀγορᾷ καθημένοις καὶ προσφωνοῦσιν ἀλλήλοις ἃ καὶ λέγει· ηὐλήσαμεν ὑμῖν, καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν ὑμῖν καὶ οὐκ ἐκλαύσατε."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G3813]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G0058]]"
+- "[[G2521]]"
+- "[[G2532]]"
+- "[[G4377]]"
+- "[[G0240]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G0832]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3738]]"
+- "[[G2354]]"
+- "[[G2799]]"
+texts:
+- NKO
+- no
+- k
+- N(k)(o)
+---
+
 **Luke 7:32**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.
 <small><sub>**BSB:**</sub></small>
 They are like children sitting in the marketplace and calling out to one another: ‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’
-<small><sub>**Literal:**</sub></small>
-Like are they to little children <the> in the marketplace sitting and calling to each other one and says: We piped to you, and not you did dance; we sang a dirge to you and not you did weep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.31|<< Luke 7:31]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.33|Luke 7:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3664\|ὅμοιοί]]  [[G1510\|εἰσιν]]  [[G3813\|παιδίοις]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G0058\|ἀγορᾷ]]  [[G2521\|καθημένοις]]  [[G2532\|καὶ]]  [[G4377\|προσφωνοῦσιν]]  [[G0240\|ἀλλήλοις]]  [[G3739\|ἃ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει·]]  [[G0832\|ηὐλήσαμεν]]  [[G4771\|ὑμῖν,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G3738\|ὠρχήσασθε·]]  [[G2354\|ἐθρηνήσαμεν]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2799\|ἐκλαύσατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.31|<< Luke 7:31]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.33|Luke 7:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

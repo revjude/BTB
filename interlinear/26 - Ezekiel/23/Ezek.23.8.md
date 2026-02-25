@@ -1,8 +1,66 @@
+---
+title: Ezekiel 23:8
+type: Verse
+kjv: "Neither left she her whoredoms brought from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her."
+bsb: "She did not give up the prostitution she began in Egypt, when men slept with her in her youth, caressed her virgin bosom, and poured out their lust upon her."
+hebrew: "וְאֶת־ תַּזְנוּתֶ֤יהָ מִמִּצְרַ֙יִם֙ לֹ֣א עָזָ֔בָה כִּ֤י אוֹתָהּ֙ שָׁכְב֣וּ בִנְעוּרֶ֔יהָ וְהֵ֥מָּה עִשּׂ֖וּ דַּדֵּ֣י בְתוּלֶ֑יהָ וַיִּשְׁפְּכ֥וּ תַזְנוּתָ֖ם עָלֶֽיהָ׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8457]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H3588A]]"
+- "[[H9034]]"
+- "[[H7901I]]"
+- "[[H9003]]"
+- "[[H5271A]]"
+- "[[H1992]]"
+- "[[H6213B]]"
+- "[[H1717]]"
+- "[[H1331]]"
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:8**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither left she her whoredoms [brought] from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her.
 <small><sub>**BSB:**</sub></small>
 She did not give up the prostitution she began in Egypt, when men slept with her in her youth, caressed her virgin bosom, and poured out their lust upon her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנוּתֶ֤י]][[H9024\|הָ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H3808\|לֹ֣א]] [[H5800A\|עָזָ֔בָה]] [[H3588A\|כִּ֤י]] [[H0853\|אוֹתָ]][[H9034\|הּ֙]] [[H7901I\|שָׁכְב֣וּ]] [[H9003\|בִ]][[H5271A\|נְעוּרֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H1992\|הֵ֥מָּה]] [[H6213B\|עִשּׂ֖וּ]] [[H1717\|דַּדֵּ֣י]] [[H1331\|בְתוּלֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H8210G\|יִּשְׁפְּכ֥וּ]] [[H8457\|תַזְנוּתָ֖]][[H9028\|ם]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.7|<< Ezekiel 23:7]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.9|Ezekiel 23:9 >>]]</td></tr></table>
 

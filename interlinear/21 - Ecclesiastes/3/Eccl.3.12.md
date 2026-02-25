@@ -1,8 +1,57 @@
+---
+title: Ecclesiastes 3:12
+type: Verse
+kjv: "I know that there is no good in them, but for a man to rejoice, and to do good in his life."
+bsb: "I know that there is nothing better for them than to rejoice and do good while they live,"
+hebrew: "יָדַ֕עְתִּי כִּ֛י אֵ֥ין ט֖וֹב בָּ֑ם כִּ֣י אִם־ לִשְׂמ֔וֹחַ וְלַעֲשׂ֥וֹת ט֖וֹב בְּחַיָּֽיו׃"
+pericope: "[[Eccl.3.9 God’s Works Remain Forever|God’s Works Remain Forever]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+strongs:
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H8055]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:12**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that [there is] no good in them, but for [a man] to rejoice, and to do good in his life.
 <small><sub>**BSB:**</sub></small>
 I know that there is nothing better for them than to rejoice and do good while they live,
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֕עְתִּי]] [[H3588A\|כִּ֛י]] [[H0369\|אֵ֥ין]] [[H2896A\|ט֖וֹב]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H8055\|שְׂמ֔וֹחַ]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H2896A\|ט֖וֹב]] [[H9003\|בְּ]][[H2416E\|חַיָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic HAPPINESS|HAPPINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.11|<< Ecclesiastes 3:11]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.13|Ecclesiastes 3:13 >>]]</td></tr></table>
 

@@ -3,7 +3,7 @@
 
 1. A Korhite Levite
 
-- Doorkeeper of the ark of the covenant [[1Chr.15.18|1Ch 15:18]],[[1Chr.15.24|24]]; [[1Chr.26.4|26:4]]-[[1Chr.26.8|8]]
+- Doorkeeper of the ark of the covenant [[1Chr.15.18|1Ch 15:18]],[[1Chr.15.24|24]]; [[1Chr.26.4|26:4-8]]
 
 - David leaves the ark of the covenant with [[2Sam.6.10|2Sa 6:10]]; [[1Chr.13.13|1Ch 13:13]],[[1Chr.13.14|14]]
 

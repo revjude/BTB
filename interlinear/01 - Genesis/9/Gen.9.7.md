@@ -1,8 +1,55 @@
+---
+title: Genesis 9:7
+type: Verse
+kjv: "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
+bsb: "But as for you, be fruitful and multiply; spread out across the earth and multiply upon it.”"
+hebrew: "וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ שִׁרְצ֥וּ בָאָ֖רֶץ וּרְבוּ־ בָֽהּ׃ ס"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic PROPAGATION|PROPAGATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H6509]]"
+- "[[H7235A]]"
+- "[[H8317]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 9:7**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
 <small><sub>**BSB:**</sub></small>
 But as for you, be fruitful and multiply; spread out across the earth and multiply upon it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H6509\|פְּר֣וּ]] [[H9002\|וּ]][[H7235A\|רְב֑וּ]] [[H8317\|שִׁרְצ֥וּ]] [[H9003\|בָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וּ]][[H7235A\|רְבוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic PROPAGATION|PROPAGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.6|<< Genesis 9:6]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.8|Genesis 9:8 >>]]</td></tr></table>
 
@@ -14,7 +61,7 @@ But as for you, be fruitful and multiply; spread out across the earth and multip
 | swarm  |**<big>&#8207;[[H8317\|שִׁרְצ֥וּ]]&#8207; </big>**| shir.Tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the earth  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and multiply  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7235A\|רְבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.vu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.6|<< Genesis 9:6]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.8|Genesis 9:8 >>]]</td></tr></table>
 
 

@@ -1,8 +1,65 @@
+---
+title: Numbers 20:4
+type: Verse
+kjv: "And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?"
+bsb: "Why have you brought the LORD’s assembly into this wilderness for us and our livestock to die here?"
+hebrew: "וְלָמָ֤ה הֲבֵאתֶם֙ אֶת־ קְהַ֣ל יְהוָ֔ה אֶל־ הַמִּדְבָּ֖ר הַזֶּ֑ה לָמ֣וּת שָׁ֔ם אֲנַ֖חְנוּ וּבְעִירֵֽנוּ׃"
+pericope: "[[Num.20.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6951]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H2088]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H0587]]"
+- "[[H1165]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:4**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?
 <small><sub>**BSB:**</sub></small>
 Why have you brought the LORD’s assembly into this wilderness for us and our livestock to die here?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָ֤ה]] [[H0935P\|הֲבֵאתֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6951\|קְהַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9005\|לָ]][[H4191\|מ֣וּת]] [[H8033G\|שָׁ֔ם]] [[H0587\|אֲנַ֖חְנוּ]] [[H9002\|וּ]][[H1165\|בְעִירֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.3|<< Numbers 20:3]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.5|Numbers 20:5 >>]]</td></tr></table>
 

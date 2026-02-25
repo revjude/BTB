@@ -1,8 +1,71 @@
+---
+title: Genesis 14:17
+type: Verse
+kjv: "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king’s dale."
+bsb: "After Abram returned from defeating Chedorlaomer and the kings allied with him, the king of Sodom went out to meet him in the Valley of Shaveh (that is, the King’s Valley)."
+hebrew: "וַיֵּצֵ֣א מֶֽלֶךְ־ סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־ כְּדָרְ־לָעֹ֔מֶר וְאֶת־ הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־ עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic KING'S DALE|KING'S DALE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHAVEH|SHAVEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4428L]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H0310A]]"
+- "[[H7725G]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H3540]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H0413]]"
+- "[[H6010O]]"
+- "[[H7740]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- LBH(A)
+---
+
 **Genesis 14:17**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that [were] with him, at the valley of Shaveh, which [is] the king’s dale.
 <small><sub>**BSB:**</sub></small>
 After Abram returned from defeating Chedorlaomer and the kings allied with him, the king of Sodom went out to meet him in the Valley of Shaveh (that is, the King’s Valley).
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H4428L\|מֶֽלֶךְ]][[H9014\|־]] [[H5467\|סְדֹם֮]] [[H9005\|לִ]][[H7122G\|קְרָאת]][[H9033\|וֹ֒]] [[H0310A\|אַחֲרֵ֣י]] [[H7725G\|שׁוּב֗]][[H9043\|וֹ]] [[H9006\|מֵֽ]][[H5221\|הַכּוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3540\|כְּדָרְ]][[H9014\|־לָעֹ֔מֶר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428L\|מְּלָכִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H6010O\|עֵ֣מֶק]] [[H7740\|שָׁוֵ֔ה]] [[H1931\|ה֖וּא]] [[H6010O\|עֵ֥מֶק]] [[H9009\|הַ]][[H4428L\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic KING'S DALE|KING'S DALE]] • [[topic RULERS|RULERS]] • [[topic SHAVEH|SHAVEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.16|<< Genesis 14:16]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.18|Genesis 14:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

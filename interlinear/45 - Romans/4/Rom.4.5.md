@@ -1,10 +1,60 @@
+---
+title: Romans 4:5
+type: Verse
+kjv: "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
+bsb: "However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness."
+greek: "τῷ δὲ μὴ ἐργαζομένῳ, πιστεύοντι δὲ ἐπὶ τὸν δικαιοῦντα τὸν ἀσεβῆ, λογίζεται ἡ πίστις αὐτοῦ εἰς δικαιοσύνην."
+pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2038]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G1344]]"
+- "[[G0765]]"
+- "[[G3049]]"
+- "[[G4102G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1343]]"
+texts:
+- NKO
+---
+
 **Romans 4:5**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.
 <small><sub>**BSB:**</sub></small>
 However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness.
-<small><sub>**Literal:**</sub></small>
-To the [one] however not working, believing however on the [One] justifying the ungodly, is reckoned the faith of him for righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.4|<< Romans 4:4]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.6|Romans 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G2038\|ἐργαζομένῳ,]]  [[G4100\|πιστεύοντι]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G1344\|δικαιοῦντα]]  [[G3588\|τὸν]]  [[G0765\|ἀσεβῆ,]]  [[G3049\|λογίζεται]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G1343\|δικαιοσύνην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.4|<< Romans 4:4]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.6|Romans 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Belshazzar’s Feast
+type: Pericope
 pericope: "[[Dan.5.1 Belshazzar’s Feast|Belshazzar’s Feast]]"
-verse_count: 4
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 5
 book/chapter: "[[Dan.5|Daniel 5]]"
-genre:
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 4
 verses:
 - "[[Dan.5.1]]"
 - "[[Dan.5.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Dan.5.4]]"
 ---
 
-[[Dan.5|Daniel 5:1 - Daniel 5:4]]
+<small>[[Dan.5|Daniel 5:1-4]]</small>
 *Belshazzar’s Feast*
 
 [[Dan.5.1|1]] Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.

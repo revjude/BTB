@@ -1,8 +1,66 @@
+---
+title: 1 Kings 21:1
+type: Verse
+kjv: "And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria."
+bsb: "Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria."
+hebrew: "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה כֶּ֧רֶם הָיָ֛ה לְנָב֥וֹת הַיִּזְרְעֵאלִ֖י אֲשֶׁ֣ר בְּיִזְרְעֶ֑אל אֵ֚צֶל הֵיכַ֣ל אַחְאָ֔ב מֶ֖לֶךְ שֹׁמְרֽוֹן׃"
+pericope: "[[1Kgs.21.1 Naboth’s Vineyard|Naboth’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H3754]]"
+- "[[H9005]]"
+- "[[H5022]]"
+- "[[H3158H]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3157H]]"
+- "[[H0681]]"
+- "[[H1964H]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:1**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, [that] Naboth the Jezreelite had a vineyard, which [was] in Jezreel, hard by the palace of Ahab king of Samaria.
 <small><sub>**BSB:**</sub></small>
 Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחַר֙]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H3754\|כֶּ֧רֶם]] [[H1961\|הָיָ֛ה]] [[H9005\|לְ]][[H5022\|נָב֥וֹת]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֖י]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3157H\|יִזְרְעֶ֑אל]] [[H0681\|אֵ֚צֶל]] [[H1964H\|הֵיכַ֣ל]] [[H0256G\|אַחְאָ֔ב]] [[H4428G\|מֶ֖לֶךְ]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic JEZREEL|JEZREEL]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic PALACE|PALACE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.43|<< 1 Kings 20:43]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.2|1 Kings 21:2 >>]]</td></tr></table>
 

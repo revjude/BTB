@@ -1,10 +1,56 @@
+---
+title: Luke 3:12
+type: Verse
+kjv: "Then came also publicans to be baptized, and said unto him, Master, what shall we do?"
+bsb: "Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?”"
+greek: "ἦλθον δὲ καὶ τελῶναι βαπτισθῆναι καὶ εἶπαν πρὸς αὐτόν· διδάσκαλε, τί ποιήσωμεν;"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5057]]"
+- "[[G0907]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 3:12**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came also publicans to be baptized, and said unto him, Master, what shall we do?
 <small><sub>**BSB:**</sub></small>
 Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?”
-<small><sub>**Literal:**</sub></small>
-Came then also tax collectors to be baptized and they said to him; Teacher, what shall we do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.11|<< Luke 3:11]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.13|Luke 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθον]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5057\|τελῶναι]]  [[G0907\|βαπτισθῆναι]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1320\|διδάσκαλε,]]  [[G5101\|τί]]  [[G4160G\|ποιήσωμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HONESTY|HONESTY]] • [[topic PUBLICANS|PUBLICANS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.11|<< Luke 3:11]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.13|Luke 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

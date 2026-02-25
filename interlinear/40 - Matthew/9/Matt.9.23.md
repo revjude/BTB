@@ -1,10 +1,57 @@
+---
+title: Matthew 9:23
+type: Verse
+kjv: "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,"
+bsb: "When Jesus entered the house of the synagogue leader, He saw the flute players and the noisy crowd."
+greek: "καὶ ἐλθὼν ὁ Ἰησοῦς εἰς τὴν οἰκίαν τοῦ ἄρχοντος καὶ ἰδὼν τοὺς αὐλητὰς καὶ τὸν ὄχλον θορυβούμενον"
+pericope: "[[Matt.9.18 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G3614G]]"
+- "[[G0758]]"
+- "[[G1492H]]"
+- "[[G0834]]"
+- "[[G3793]]"
+- "[[G2350]]"
+texts:
+- NKO
+---
+
 **Matthew 9:23**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,
 <small><sub>**BSB:**</sub></small>
 When Jesus entered the house of the synagogue leader, He saw the flute players and the noisy crowd.
-<small><sub>**Literal:**</sub></small>
-And having come <the> Jesus into the house of the ruler and having seen the flute players and the crowd making a commotion<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.22|<< Matthew 9:22]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.24|Matthew 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3588\|τοῦ]]  [[G0758\|ἄρχοντος]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G3588\|τοὺς]]  [[G0834\|αὐλητὰς]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2350\|θορυβούμενον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOURNING|MOURNING]] • [[topic MUSIC|MUSIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.22|<< Matthew 9:22]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.24|Matthew 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

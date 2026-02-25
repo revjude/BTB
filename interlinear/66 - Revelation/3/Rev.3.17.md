@@ -1,10 +1,73 @@
+---
+title: Revelation 3:17
+type: Verse
+kjv: "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:"
+bsb: "You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked."
+jesus_said: "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:"
+greek: "ὅτι λέγεις ὅτι πλούσιός εἰμι καὶ πεπλούτηκα καὶ οὐδὲν χρείαν ἔχω, καὶ οὐκ οἶδας ὅτι σὺ εἶ ὁ ταλαίπωρος καὶ ὁ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,"
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SECURITY|SECURITY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4145]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4147]]"
+- "[[G3762]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G5005]]"
+- "[[G1652]]"
+- "[[G4434]]"
+- "[[G5185]]"
+- "[[G1131]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **Revelation 3:17**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
 <small><sub>**BSB:**</sub></small>
 You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked.
-<small><sub>**Literal:**</sub></small>
-For you say that Rich I am and I have grown rich and [of] no [thing] need I have, And not do you understand that you yourself are <the> wretched and <the> miserable and poor and blind and naked,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.16|<< Revelation 3:16]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.18|Revelation 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3004G\|λέγεις]]  [[G3754G\|ὅτι]]  [[G4145\|πλούσιός]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G4147\|πεπλούτηκα]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G5532\|χρείαν]]  [[G2192\|ἔχω,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G6063\|οἶδας]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5005\|ταλαίπωρος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1652\|ἐλεεινὸς]]  [[G2532\|καὶ]]  [[G4434\|πτωχὸς]]  [[G2532\|καὶ]]  [[G5185\|τυφλὸς]]  [[G2532\|καὶ]]  [[G1131\|γυμνός,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic LAODICEA|LAODICEA]] • [[topic PRIDE|PRIDE]] • [[topic SALVATION|SALVATION]] • [[topic SECURITY|SECURITY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.16|<< Revelation 3:16]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.18|Revelation 3:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 3:17** is...
 > $\quad$ possibly alluding to: [[LXX.Hos.12.8|Hos 12:8]]

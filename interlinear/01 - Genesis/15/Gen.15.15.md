@@ -1,8 +1,62 @@
+---
+title: Genesis 15:15
+type: Verse
+kjv: "And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age."
+bsb: "You, however, will go to your fathers in peace and be buried at a ripe old age."
+hebrew: "וְאַתָּ֛ה תָּב֥וֹא אֶל־ אֲבֹתֶ֖יךָ בְּשָׁל֑וֹם תִּקָּבֵ֖ר בְּשֵׂיבָ֥ה טוֹבָֽה׃"
+pericope: "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H6912]]"
+- "[[H7872]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:15**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
 <small><sub>**BSB:**</sub></small>
 You, however, will go to your fathers in peace and be buried at a ripe old age.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H0935G\|תָּב֥וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אֲבֹתֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H7965G\|שָׁל֑וֹם]] [[H6912\|תִּקָּבֵ֖ר]] [[H9003\|בְּ]][[H7872\|שֵׂיבָ֥ה]] [[H2896A\|טוֹבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COVENANT|COVENANT]] • [[topic DEATH|DEATH]] • [[topic OLD AGE|OLD AGE]] • [[topic SIGN|SIGN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.14|<< Genesis 15:14]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.16|Genesis 15:16 >>]]</td></tr></table>
 

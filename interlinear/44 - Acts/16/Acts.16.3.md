@@ -1,10 +1,71 @@
+---
+title: Acts 16:3
+type: Verse
+kjv: "Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek."
+bsb: "Paul wanted Timothy to accompany him, so he took him and circumcised him on account of the Jews in that area, for they all knew that his father was a Greek."
+greek: "τοῦτον ἠθέλησεν ὁ Παῦλος σὺν αὐτῷ ἐξελθεῖν, καὶ λαβὼν περιέτεμεν αὐτὸν διὰ τοὺς Ἰουδαίους τοὺς ὄντας ἐν τοῖς τόποις ἐκείνοις· ᾔδεισαν γὰρ ἅπαντες ὅτι Ἕλλην ὁ πατὴρ αὐτοῦ ὑπῆρχεν."
+pericope: "[[Acts.16.1 Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G3778]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G4059]]"
+- "[[G1223]]"
+- "[[G2453]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G5117]]"
+- "[[G1565]]"
+- "[[G1492I]]"
+- "[[G1063]]"
+- "[[G0537]]"
+- "[[G3754G]]"
+- "[[G1672]]"
+- "[[G3962]]"
+- "[[G5225]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 16:3**<big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.
 <small><sub>**BSB:**</sub></small>
 Paul wanted Timothy to accompany him, so he took him and circumcised him on account of the Jews in that area, for they all knew that his father was a Greek.
-<small><sub>**Literal:**</sub></small>
-This one wanted <the> Paul with him to go forth, and having taken he circumcised him on account of the Jews those being in the parts those; they knew for all that a Greek the father of him was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.2|<< Acts 16:2]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.4|Acts 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G2309\|ἠθέλησεν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1831\|ἐξελθεῖν,]]  [[G2532\|καὶ]]  [[G2983\|λαβὼν]]  [[G4059\|περιέτεμεν]]  [[G0846\|αὐτὸν]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G2453\|Ἰουδαίους]]  [[G3588\|τοὺς]]  [[G1510\|ὄντας]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5117\|τόποις]]  [[G1565\|ἐκείνοις·]]  [[G1492I\|ᾔδεισαν]]  [[G1063\|γὰρ]]  [[G0537\|ἅπαντες]]  [[G3754G\|ὅτι]]  [[G1672\|Ἕλλην]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ]]  [[G5225\|ὑπῆρχεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.2|<< Acts 16:2]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.4|Acts 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,75 @@
+---
+title: Genesis 39:11
+type: Verse
+kjv: "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within."
+bsb: "One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside."
+hebrew: "וַיְהִי֙ כְּהַיּ֣וֹם הַזֶּ֔ה וַיָּבֹ֥א הַבַּ֖יְתָה לַעֲשׂ֣וֹת מְלַאכְתּ֑וֹ וְאֵ֨ין אִ֜ישׁ מֵאַנְשֵׁ֥י הַבַּ֛יִת שָׁ֖ם בַּבָּֽיִת׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:11**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass about this time, that [Joseph] went into the house to do his business; and [there was] none of the men of the house there within.
 <small><sub>**BSB:**</sub></small>
 One day, however, Joseph went into the house to attend to his work, and not a single household servant was inside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H9009\|הַ]][[H1004B\|בַּ֖יְתָ]][[H9011\|ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H4399\|מְלַאכְתּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0369\|אֵ֨ין]] [[H0376I\|אִ֜ישׁ]] [[H9006\|מֵ]][[H0582\|אַנְשֵׁ֥י]] [[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H8033G\|שָׁ֖ם]] [[H9003\|בַּ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.10|<< Genesis 39:10]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.12|Genesis 39:12 >>]]</td></tr></table>
 

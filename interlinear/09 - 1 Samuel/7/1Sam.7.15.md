@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 7:15
+type: Verse
+kjv: "And Samuel judged Israel all the days of his life."
+bsb: "So Samuel judged Israel all the days of his life."
+hebrew: "וַיִּשְׁפֹּ֤ט שְׁמוּאֵל֙ אֶת־ יִשְׂרָאֵ֔ל כֹּ֖ל יְמֵ֥י חַיָּֽיו׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:15**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel judged Israel all the days of his life.
 <small><sub>**BSB:**</sub></small>
 So Samuel judged Israel all the days of his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֤ט]] [[H8050G\|שְׁמוּאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.14|<< 1 Samuel 7:14]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.16|1 Samuel 7:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,68 @@
+---
+title: Hosea 3:1
+type: Verse
+kjv: "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine."
+bsb: "Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ע֚וֹד לֵ֣ךְ אֱֽהַב־ אִשָּׁ֔ה אֲהֻ֥בַת רֵ֖עַ וּמְנָאָ֑פֶת כְּאַהֲבַ֤ת יְהוָה֙ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְהֵ֗ם פֹּנִים֙ אֶל־ אֱלֹהִ֣ים אֲחֵרִ֔ים וְאֹהֲבֵ֖י אֲשִׁישֵׁ֥י עֲנָבִֽים׃"
+pericope: "[[Hos.3.1 Hosea Redeems His Wife|Hosea Redeems His Wife]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 3
+book/chapter: "[[Hos.3|Hosea 3]]"
+chronological_order: 644
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FLAGON|FLAGON]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H1980G]]"
+- "[[H0157G]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H7453]]"
+- "[[H9002]]"
+- "[[H5003]]"
+- "[[H9004]]"
+- "[[H0160]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1992]]"
+- "[[H6437G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H0809]]"
+- "[[H6025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 3:1**<big><big>[[Hos.3.1 Hosea Redeems His Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the LORD unto me, Go yet, love a woman beloved of [her] friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H5750\|ע֚וֹד]] [[H1980G\|לֵ֣ךְ]] [[H0157G\|אֱֽהַב]][[H9014\|־]] [[H0802G\|אִשָּׁ֔ה]] [[H0157G\|אֲהֻ֥בַת]] [[H7453\|רֵ֖עַ]] [[H9002\|וּ]][[H5003\|מְנָאָ֑פֶת]] [[H9004\|כְּ]][[H0160\|אַהֲבַ֤ת]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H1992\|הֵ֗ם]] [[H6437G\|פֹּנִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9002\|וְ]][[H0157G\|אֹהֲבֵ֖י]] [[H0809\|אֲשִׁישֵׁ֥י]] [[H6025\|עֲנָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAGON|FLAGON]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 

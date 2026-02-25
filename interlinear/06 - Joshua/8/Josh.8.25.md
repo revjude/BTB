@@ -1,8 +1,63 @@
+---
+title: Joshua 8:25
+type: Verse
+kjv: "And so it was, that all that fell that day, both of men and women, were twelve thousand, even all the men of Ai."
+bsb: "A total of twelve thousand men and women fell that day—all the people of Ai."
+hebrew: "וַיְהִי֩ כָל־ הַנֹּ֨פְלִ֜ים בַּיּ֤וֹם הַהוּא֙ מֵאִ֣ישׁ וְעַד־ אִשָּׁ֔ה שְׁנֵ֥ים עָשָׂ֖ר אָ֑לֶף כֹּ֖ל אַנְשֵׁ֥י הָעָֽי׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AI|AI]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0802G]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H0582]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:25**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] it was, [that] all that fell that day, both of men and women, [were] twelve thousand, [even] all the men of Ai.
 <small><sub>**BSB:**</sub></small>
 A total of twelve thousand men and women fell that day—all the people of Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H5307J\|נֹּ֨פְלִ֜ים]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H9006\|מֵ]][[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּׁ֔ה]] [[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H0505G\|אָ֑לֶף]] [[H3605\|כֹּ֖ל]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AI|AI]] • [[topic MASSACRE|MASSACRE]] • [[topic STRATEGY|STRATEGY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.24|<< Joshua 8:24]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.26|Joshua 8:26 >>]]</td></tr></table>
 

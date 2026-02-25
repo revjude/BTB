@@ -1,8 +1,64 @@
+---
+title: Hosea 8:7
+type: Verse
+kjv: "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up."
+bsb: "For they sow the wind, and they shall reap the whirlwind. There is no standing grain; what sprouts fails to yield flour. Even if it should produce, the foreigners would swallow it up."
+hebrew: "כִּ֛י ר֥וּחַ יִזְרָ֖עוּ וְסוּפָ֣תָה יִקְצֹ֑רוּ קָמָ֣ה אֵֽין־ ל֗וֹ צֶ֚מַח בְּלִ֣י יַֽעֲשֶׂה־ קֶּ֔מַח אוּלַ֣י יַֽעֲשֶׂ֔ה זָרִ֖ים יִבְלָעֻֽהוּ׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WHIRLWIND|WHIRLWIND]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7307H]]"
+- "[[H2232]]"
+- "[[H9002]]"
+- "[[H5492A]]"
+- "[[H9011]]"
+- "[[H7114B]]"
+- "[[H7054]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6780]]"
+- "[[H1097]]"
+- "[[H6213A]]"
+- "[[H7058]]"
+- "[[H0194]]"
+- "[[H2114A]]"
+- "[[H1104]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:7**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.
 <small><sub>**BSB:**</sub></small>
 For they sow the wind, and they shall reap the whirlwind. There is no standing grain; what sprouts fails to yield flour. Even if it should produce, the foreigners would swallow it up.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H7307H\|ר֥וּחַ]] [[H2232\|יִזְרָ֖עוּ]] [[H9002\|וְ]][[H5492A\|סוּפָ֣תָ]][[H9011\|ה]] [[H7114B\|יִקְצֹ֑רוּ]] [[H7054\|קָמָ֣ה]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H6780\|צֶ֚מַח]] [[H1097\|בְּלִ֣י]] [[H6213A\|יַֽעֲשֶׂה]][[H9014\|־]] [[H7058\|קֶּ֔מַח]] [[H0194\|אוּלַ֣י]] [[H6213A\|יַֽעֲשֶׂ֔ה]] [[H2114A\|זָרִ֖ים]] [[H1104\|יִבְלָעֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SIN|SIN]] • [[topic SOWER|SOWER]] • [[topic WHIRLWIND|WHIRLWIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.6|<< Hosea 8:6]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.8|Hosea 8:8 >>]]</td></tr></table>
 

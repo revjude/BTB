@@ -1,6 +1,61 @@
+---
+title: LXX Numbers 35:34
+type: Verse
+lxx: "And you shall not defile the land upon which you dwell upon it, of which I should encamp among you. For I am the lord encamping in the midst of the sons of Israel."
+greek: "και ου μιανείτε την γην εφ΄ ης κατοικείτε επ΄ αυτής εφ΄ ης εγώ κατασκηνώ εν υμίν εγώ γαρ ειμι κύριος κατασκηνών εν μέσω των υιών Ισραήλ"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3392]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2681]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2962]]"
+- "[[G2681]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+---
+
 **LXX Numbers 35:34** 
 <small><sub>**LXX:**</sub></small>
 And you shall not defile the land upon which you dwell upon it, of which I should encamp among you. For I am \[the\] <span class="smallcaps">lord</span> encamping in \[the\] midst of the sons of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3756\|ου]] [[G3392\|μιανείτε]] [[G3588\|την]] [[G1093\|γην]] [[G1909\|εφ΄]] [[G3739\|ης]] [[G2730\|κατοικείτε]] [[G1909\|επ΄]] [[G1473\|αυτής]] [[G1909\|εφ΄]] [[G3739\|ης]] [[G1473\|εγώ]] [[G2681\|κατασκηνώ]] [[G1722\|εν]] [[G1473\|υμίν]] [[G1473\|εγώ]] [[G1063\|γαρ]] [[G1510\|ειμι]] [[G2962\|κύριος]] [[G2681\|κατασκηνών]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|των]] [[G5207\|υιών]] [[G2474\|Ισραήλ]]
 <small><sub>**MT:**</sub></small>
 [[Num.35.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.33|<< Numbers 35:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.1|Numbers 36:1 >>]]</td></tr></table>
 
@@ -31,6 +86,6 @@ And you shall not defile the land upon which you dwell upon it, of which I shoul
 | of the | **<big>[[G3588\|των]]</big>** |
 | sons | **<big>[[G5207\|υιών]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Num.35.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.33|<< Numbers 35:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.1|Numbers 36:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.33|<< Numbers 35:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.1|Numbers 36:1 >>]]</td></tr></table>
 
 

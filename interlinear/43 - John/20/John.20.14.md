@@ -1,10 +1,60 @@
+---
+title: John 20:14
+type: Verse
+kjv: "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+bsb: "When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus."
+greek: "Καὶ ταῦτα εἰποῦσα ἐστράφη εἰς τὰ ὀπίσω καὶ θεωρεῖ τὸν Ἰησοῦν ἑστῶτα καὶ οὐκ ᾔδει ὅτι ὁ Ἰησοῦς ἐστιν."
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G4762]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G2334]]"
+- "[[G2424G]]"
+- "[[G2476]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+texts:
+- k
+- NKO
+---
+
 **John 20:14**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
 <small><sub>**BSB:**</sub></small>
 When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.
-<small><sub>**Literal:**</sub></small>
-and These things having said she turned to the back and she sees <the> Jesus already standing [there] and not knew that <the> Jesus it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.13|<< John 20:13]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.15|John 20:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|ταῦτα]]  [[G2036\|εἰποῦσα]]  [[G4762\|ἐστράφη]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3694\|ὀπίσω]]  [[G2532\|καὶ]]  [[G2334\|θεωρεῖ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2476\|ἑστῶτα]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1492I\|ᾔδει]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.13|<< John 20:13]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.15|John 20:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Colossians 2:5
+type: Verse
+kjv: "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ."
+bsb: "For although I am absent from you in body, I am present with you in spirit, and I delight to see your orderly condition and firm faith in Christ."
+greek: "εἰ γὰρ καὶ τῇ σαρκὶ ἄπειμι, ἀλλὰ τῷ πνεύματι σὺν ὑμῖν εἰμι, χαίρων καὶ βλέπων ὑμῶν τὴν τάξιν καὶ τὸ στερέωμα τῆς εἰς Χριστὸν πίστεως ὑμῶν.¶"
+pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1487M]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G0548]]"
+- "[[G0235]]"
+- "[[G4151G]]"
+- "[[G4862]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5463]]"
+- "[[G0991]]"
+- "[[G5010]]"
+- "[[G4733]]"
+- "[[G1519]]"
+- "[[G5547]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Colossians 2:5**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 <small><sub>**BSB:**</sub></small>
 For although I am absent from you in body, I am present with you in spirit, and I delight to see your orderly condition and firm faith in Christ.
-<small><sub>**Literal:**</sub></small>
-If truly even in the flesh I am absent, yet <the> in spirit with you I am, rejoicing and seeing your <the> good order and the firmness of the in Christ faith of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.4|<< Colossians 2:4]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.6|Colossians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487M\|εἰ]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G4561\|σαρκὶ]]  [[G0548\|ἄπειμι,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G4862\|σὺν]]  [[G4771\|ὑμῖν]]  [[G1510\|εἰμι,]]  [[G5463\|χαίρων]]  [[G2532\|καὶ]]  [[G0991\|βλέπων]]  [[G4771\|ὑμῶν]]  [[G3588\|τὴν]]  [[G5010\|τάξιν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4733\|στερέωμα]]  [[G3588\|τῆς]]  [[G1519\|εἰς]]  [[G5547\|Χριστὸν]]  [[G4102G\|πίστεως]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DECISION|DECISION]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.4|<< Colossians 2:4]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.6|Colossians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

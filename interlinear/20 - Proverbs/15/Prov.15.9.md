@@ -1,8 +1,52 @@
+---
+title: Proverbs 15:9
+type: Verse
+kjv: "The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness."
+bsb: "The LORD detests the way of the wicked, but He loves those who pursue righteousness."
+hebrew: "תּוֹעֲבַ֣ת יְ֭הוָה דֶּ֣רֶךְ רָשָׁ֑ע וּמְרַדֵּ֖ף צְדָקָ֣ה יֶאֱהָֽב׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H1870G]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H6666]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:9**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the wicked [is] an abomination unto the LORD: but he loveth him that followeth after righteousness.
 <small><sub>**BSB:**</sub></small>
 The LORD detests the way of the wicked, but He loves those who pursue righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H1870G\|דֶּ֣רֶךְ]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וּ]][[H7291\|מְרַדֵּ֖ף]] [[H6666\|צְדָקָ֣ה]] [[H0157G\|יֶאֱהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.8|<< Proverbs 15:8]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.10|Proverbs 15:10 >>]]</td></tr></table>
 

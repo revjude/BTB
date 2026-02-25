@@ -1,10 +1,74 @@
+---
+title: Acts 21:20
+type: Verse
+kjv: "And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:"
+bsb: "When they heard this, they glorified God. Then they said to Paul, “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law."
+greek: "οἱ δὲ ἀκούσαντες ἐδόξαζον τὸν θεόν, εἶπόν τε αὐτῷ· θεωρεῖς ἀδελφέ, πόσαι μυριάδες εἰσὶν ἐν τοῖς Ἰουδαίοις τῶν πεπιστευκότων καὶ πάντες ζηλωταὶ τοῦ νόμου ὑπάρχουσιν."
+pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G1392]]"
+- "[[G2316]]"
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G2334]]"
+- "[[G0080]]"
+- "[[G4214]]"
+- "[[G3461]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2453]]"
+- "[[G4100]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2207]]"
+- "[[G3551]]"
+- "[[G5225]]"
+texts:
+- NKO
+- N(K)O
+- NK(o)
+- NO
+---
+
 **Acts 21:20**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they heard [it], they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
 <small><sub>**BSB:**</sub></small>
 When they heard this, they glorified God. Then they said to Paul, “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law.
-<small><sub>**Literal:**</sub></small>
-Those then having heard were glorifying <the> God, They said then to him; You see brother, how many myriads there are among the Jews who having believed and all zealous ones for the law are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.19|<< Acts 21:19]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.21|Acts 21:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G1392\|ἐδόξαζον]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G2036\|εἶπόν]]  [[G5037\|τε]]  [[G0846\|αὐτῷ·]]  [[G2334\|θεωρεῖς]]  [[G0080\|ἀδελφέ,]]  [[G4214\|πόσαι]]  [[G3461\|μυριάδες]]  [[G1510\|εἰσὶν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G3588\|τῶν]]  [[G4100\|πεπιστευκότων]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G2207\|ζηλωταὶ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G5225\|ὑπάρχουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BROTHER|BROTHER]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.19|<< Acts 21:19]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.21|Acts 21:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

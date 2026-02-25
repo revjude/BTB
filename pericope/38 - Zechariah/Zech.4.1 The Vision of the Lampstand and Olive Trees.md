@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Lampstand and Olive Trees
+type: Pericope
 pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 4
 book/chapter: "[[Zech.4|Zechariah 4]]"
-genre:
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 14
 verses:
 - "[[Zech.4.1]]"
 - "[[Zech.4.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Zech.4.14]]"
 ---
 
-[[Zech.4|Zechariah 4:1 - Zechariah 4:14]]
+<small>[[Zech.4|Zechariah 4:1-14]]</small>
 *The Vision of the Lampstand and Olive Trees*
 
 [[Zech.4.1|1]] And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,

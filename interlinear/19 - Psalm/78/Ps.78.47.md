@@ -1,8 +1,56 @@
+---
+title: Psalm 78:47
+type: Verse
+kjv: "He destroyed their vines with hail, and their sycomore trees with frost."
+bsb: "He killed their vines with hailstones and their sycamore-figs with sleet."
+hebrew: "יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּֽחֲנָמַֽל׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SYCAMORE|SYCAMORE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2026]]"
+- "[[H9003]]"
+- "[[H1259]]"
+- "[[H1612]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8256]]"
+- "[[H2602]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:47**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He destroyed their vines with hail, and their sycomore trees with frost.
 <small><sub>**BSB:**</sub></small>
 He killed their vines with hailstones and their sycamore-figs with sleet.
+<small><sub>**Hebrew:**</sub></small>
+[[H2026\|יַהֲרֹ֣ג]] [[H9003\|בַּ]][[H1259\|בָּרָ֣ד]] [[H1612\|גַּפְנָ֑]][[H9028\|ם]] [[H9002\|וְ֝]][[H8256\|שִׁקְמוֹתָ֗]][[H9028\|ם]] [[H9003\|בַּֽ]][[H2602\|חֲנָמַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic SYCAMORE|SYCAMORE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.46|<< Psalms 78:46]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.48|Psalms 78:48 >>]]</td></tr></table>
 

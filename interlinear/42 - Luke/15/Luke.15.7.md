@@ -1,10 +1,75 @@
+---
+title: Luke 15:7
+type: Verse
+kjv: "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+bsb: "I tell you that in the same way there will be more joy in heaven over one sinner who repents than over ninety-nine righteous ones who do not need to repent."
+jesus_said: "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+greek: "Λέγω ὑμῖν ὅτι οὕτως χαρὰ ἐν τῷ οὐρανῷ ἔσται ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι ἢ ἐπὶ ἐνενήκοντα ἐννέα δικαίοις οἵτινες οὐ χρείαν ἔχουσιν μετανοίας.¶"
+pericope: "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOST SHEEP|LOST SHEEP]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3779]]"
+- "[[G5479]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G1520]]"
+- "[[G0268]]"
+- "[[G3340]]"
+- "[[G2228]]"
+- "[[G1768]]"
+- "[[G1767]]"
+- "[[G1342]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G3341]]"
+texts:
+- NKO
+---
+
 **Luke 15:7**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 <small><sub>**BSB:**</sub></small>
 I tell you that in the same way there will be more joy in heaven over one sinner who repents than over ninety-nine righteous ones who do not need to repent.
-<small><sub>**Literal:**</sub></small>
-I say to you that in the same way joy in <the> heaven there will be over one sinner repenting rather than over ninety nine righteous ones who no need have of repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.6|<< Luke 15:6]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.8|Luke 15:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3779\|οὕτως]]  [[G5479\|χαρὰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G1510\|ἔσται]]  [[G1909\|ἐπὶ]]  [[G1520\|ἑνὶ]]  [[G0268\|ἁμαρτωλῷ]]  [[G3340\|μετανοοῦντι]]  [[G2228\|ἢ]]  [[G1909\|ἐπὶ]]  [[G1768\|ἐνενήκοντα]]  [[G1767\|ἐννέα]]  [[G1342\|δικαίοις]]  [[G3748\|οἵτινες]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχουσιν]]  [[G3341\|μετανοίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic LOST SHEEP|LOST SHEEP]] • [[topic PENITENT|PENITENT]] • [[topic PHARISEES|PHARISEES]] • [[topic PRAISE|PRAISE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SHEEP|SHEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.6|<< Luke 15:6]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.8|Luke 15:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

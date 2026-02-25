@@ -1,8 +1,71 @@
+---
+title: Numbers 21:9
+type: Verse
+kjv: "And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived."
+bsb: "So Moses made a bronze snake and mounted it on a pole. If anyone who was bitten looked at the bronze snake, he would live."
+hebrew: "וַיַּ֤עַשׂ מֹשֶׁה֙ נְחַ֣שׁ נְחֹ֔שֶׁת וַיְשִׂמֵ֖הוּ עַל־ הַנֵּ֑ס וְהָיָ֗ה אִם־ נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־ אִ֔ישׁ וְהִבִּ֛יט אֶל־ נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃"
+pericope: "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BRAZEN SERPENT|BRAZEN SERPENT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H4872]]"
+- "[[H5175]]"
+- "[[H5178A]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5251H]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H5391A]]"
+- "[[H0853]]"
+- "[[H0376I]]"
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:9**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 <small><sub>**BSB:**</sub></small>
 So Moses made a bronze snake and mounted it on a pole. If anyone who was bitten looked at the bronze snake, he would live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H4872\|מֹשֶׁה֙]] [[H5175\|נְחַ֣שׁ]] [[H5178A\|נְחֹ֔שֶׁת]] [[H9001\|וַ]][[H7760A\|יְשִׂמֵ֖]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5251H\|נֵּ֑ס]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H5391A\|נָשַׁ֤ךְ]] [[H9009\|הַ]][[H5175\|נָּחָשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0376I\|אִ֔ישׁ]] [[H9001\|וְ]][[H5027\|הִבִּ֛יט]] [[H0413\|אֶל]][[H9014\|־]] [[H5175\|נְחַ֥שׁ]] [[H9009\|הַ]][[H5178A\|נְּחֹ֖שֶׁת]] [[H9001\|וָ]][[H2421\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRAZEN SERPENT|BRAZEN SERPENT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic SALVATION|SALVATION]] • [[topic SERPENT|SERPENT]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.8|<< Numbers 21:8]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.10|Numbers 21:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sixth Day
+type: Pericope
 pericope: "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.1.24]]"
 - "[[Gen.1.25]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.1.31]]"
 ---
 
-[[Gen.1|Genesis 1:24 - Genesis 1:31]]
+<small>[[Gen.1|Genesis 1:24-31]]</small>
 *The Sixth Day*
 
 [[Gen.1.24|24]] And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.

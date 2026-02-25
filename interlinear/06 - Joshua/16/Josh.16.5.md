@@ -1,8 +1,60 @@
+---
+title: Joshua 16:5
+type: Verse
+kjv: "And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;"
+bsb: "This was the territory of the descendants of Ephraim by their clans: The border of their inheritance went from Ataroth-addar in the east to Upper Beth-horon"
+hebrew: "וַיְהִ֛י גְּב֥וּל בְּנֵֽי־ אֶפְרַ֖יִם לְמִשְׁפְּחֹתָ֑ם וַיְהִ֞י גְּב֤וּל נַחֲלָתָם֙ מִזְרָ֔חָה עַטְר֣וֹת אַדָּ֔ר עַד־ בֵּ֥ית חוֹרֹ֖ן עֶלְיֽוֹן׃"
+pericope: "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 16
+book/chapter: "[[Josh.16|Joshua 16]]"
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ATAROTH|ATAROTH]]"
+- "[[topic BETH-HORON|BETH-HORON]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1366H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1366G]]"
+- "[[H5159]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H5853]]"
+- "[[H5704]]"
+- "[[H1032H]]"
+- "[[H5945G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 16:5**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border of the children of Ephraim according to their families was [thus]: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;
 <small><sub>**BSB:**</sub></small>
 This was the territory of the descendants of Ephraim by their clans: The border of their inheritance went from Ataroth-addar in the east to Upper Beth-horon
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H1366H\|גְּב֥וּל]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H0669G\|אֶפְרַ֖יִם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H1366G\|גְּב֤וּל]] [[H5159\|נַחֲלָתָ]][[H9028\|ם֙]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H5853\|עַטְר֣וֹת]] [[H5853\|אַדָּ֔ר]] [[H5704\|עַד]][[H9014\|־]] [[H1032H\|בֵּ֥ית]] [[H1032H\|חוֹרֹ֖ן]] [[H5945G\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATAROTH|ATAROTH]] • [[topic BETH-HORON|BETH-HORON]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.4|<< Joshua 16:4]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.6|Joshua 16:6 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Isaiah 37:4
+type: Verse
+kjv: "It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that is left."
+bsb: "Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.”"
+hebrew: "אוּלַ֡י יִשְׁמַע֩ יְהוָ֨ה אֱלֹהֶ֜יךָ אֵ֣ת׀ דִּבְרֵ֣י רַב־ שָׁקֵ֗ה אֲשֶׁר֩ שְׁלָח֨וֹ מֶֽלֶךְ־ אַשּׁ֤וּר׀ אֲדֹנָיו֙ לְחָרֵף֙ אֱלֹהִ֣ים חַ֔י וְהוֹכִ֙יחַ֙ בַּדְּבָרִ֔ים אֲשֶׁ֥ר שָׁמַ֖ע יְהוָ֣ה אֱלֹהֶ֑יךָ וְנָשָׂ֣אתָ תְפִלָּ֔ה בְּעַ֥ד הַשְּׁאֵרִ֖ית הַנִּמְצָאָֽה׃"
+pericope: "[[Isa.37.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H0194]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H1697G]]"
+- "[[H7262]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2778A]]"
+- "[[H2416A]]"
+- "[[H9001]]"
+- "[[H3198]]"
+- "[[H9003]]"
+- "[[H5375G]]"
+- "[[H8605]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H7611]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:4**<big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up [thy] prayer for the remnant that is left.
 <small><sub>**BSB:**</sub></small>
 Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0194\|אוּלַ֡י]] [[H8085G\|יִשְׁמַע֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H0853\|אֵ֣ת]][[H9015\|׀]] [[H1697G\|דִּבְרֵ֣י]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֗ה]] [[H0834A\|אֲשֶׁר֩]] [[H7971G\|שְׁלָח֨]][[H9033\|וֹ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֤וּר]][[H9015\|׀]] [[H0113\|אֲדֹנָי]][[H9023\|ו֙]] [[H9005\|לְ]][[H2778A\|חָרֵף֙]] [[H0430G\|אֱלֹהִ֣ים]] [[H2416A\|חַ֔י]] [[H9001\|וְ]][[H3198\|הוֹכִ֙יחַ֙]] [[H9003\|בַּ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שָׁמַ֖ע]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5375G\|נָשָׂ֣אתָ]] [[H8605\|תְפִלָּ֔ה]] [[H1157\|בְּעַ֥ד]] [[H9009\|הַ]][[H7611\|שְּׁאֵרִ֖ית]] [[H9009\|הַ]][[H4672\|נִּמְצָאָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.3|<< Isaiah 37:3]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.5|Isaiah 37:5 >>]]</td></tr></table>
 

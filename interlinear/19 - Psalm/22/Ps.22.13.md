@@ -1,8 +1,56 @@
+---
+title: Psalm 22:13
+type: Verse
+kjv: "They gaped upon me with their mouths, as a ravening and a roaring lion."
+bsb: "They open their jaws against me like lions that roar and maul."
+hebrew: "פָּצ֣וּ עָלַ֣י פִּיהֶ֑ם אַ֝רְיֵ֗ה טֹרֵ֥ף וְשֹׁאֵֽג׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LION|LION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H6475]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H0738B]]"
+- "[[H2963]]"
+- "[[H9002]]"
+- "[[H7580]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:13**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gaped upon me [with] their mouths, [as] a ravening and a roaring lion.
 <small><sub>**BSB:**</sub></small>
 They open their jaws against me like lions that roar and maul.
+<small><sub>**Hebrew:**</sub></small>
+[[H6475\|פָּצ֣וּ]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H6310G\|פִּי]][[H9028\|הֶ֑ם]] [[H0738B\|אַ֝רְיֵ֗ה]] [[H2963\|טֹרֵ֥ף]] [[H9002\|וְ]][[H7580\|שֹׁאֵֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LION|LION]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.12|<< Psalms 22:12]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.14|Psalms 22:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,62 @@
+---
+title: Jeremiah 7:21
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh."
+bsb: "This is what the LORD of Hosts, the God of Israel, says: Add your burnt offerings to your other sacrifices and eat the meat yourselves!"
+hebrew: "כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עֹלוֹתֵיכֶ֛ם סְפ֥וּ עַל־ זִבְחֵיכֶ֖ם וְאִכְל֥וּ בָשָֽׂר׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5930A]]"
+- "[[H9026]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2077]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:21**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts, the God of Israel, says: Add your burnt offerings to your other sacrifices and eat the meat yourselves!
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5930A\|עֹלוֹתֵי]][[H9026\|כֶ֛ם]] [[H3254H\|סְפ֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2077\|זִבְחֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H0398\|אִכְל֥וּ]] [[H1320\|בָשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.20|<< Jeremiah 7:20]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.22|Jeremiah 7:22 >>]]</td></tr></table>
 

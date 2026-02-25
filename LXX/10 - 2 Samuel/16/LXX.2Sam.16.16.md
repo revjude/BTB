@@ -1,6 +1,60 @@
+---
+title: LXX 2 Samuel 16:16
+type: Verse
+lxx: "And it came to pass when Hushai the chief friend of David came to Absalom, that Hushai said to Absalom, As lives the king! As lives the king!"
+greek: "και εγένετο ότε ήλθε Χουσί ο αρχιεταίρος Δαυίδ προς Αβεσαλώμ και είπε Χουσί τω Αβεσαλώμ ζήτω ο βασιλεύς ζήτω ο βασιλεύς"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HUSHAI|HUSHAI]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3753]]"
+- "[[G2064]]"
+- "[[H2365]]"
+- "[[G3588]]"
+- "[[G6552]]"
+- "[[G4622]]"
+- "[[G4314]]"
+- "[[H0053]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H2365]]"
+- "[[G3588]]"
+- "[[H0053]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G0935]]"
+---
+
 **LXX 2 Samuel 16:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when Hushai the chief friend of David came to Absalom, that Hushai said \[to\] Absalom, As lives the king! As lives the king! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3753\|ότε]] [[G2064\|ήλθε]] [[H2365\|Χουσί]] [[G3588\|ο]] [[G6552\|αρχιεταίρος]] [[G4622\|Δαυίδ]] [[G4314\|προς]] [[H0053\|Αβεσαλώμ]] [[G2532\|και]] [[G2036\|είπε]] [[H2365\|Χουσί]] [[G3588\|τω]] [[H0053\|Αβεσαλώμ]] [[G2198\|ζήτω]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2198\|ζήτω]] [[G3588\|ο]] [[G0935\|βασιλεύς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HUSHAI|HUSHAI]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.15|<< 2 Samuel 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.17|2 Samuel 16:17 >>]]</td></tr></table>
 
@@ -26,6 +80,6 @@ And it came to pass when Hushai the chief friend of David came to Absalom, that 
 | As lives | **<big>[[G2198\|ζήτω]]</big>** |
 | the | **<big>[[G3588\|ο]]</big>** |
 | king! | **<big>[[G0935\|βασιλεύς]]</big>** |
-[[2Sam.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.15|<< 2 Samuel 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.17|2 Samuel 16:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.15|<< 2 Samuel 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.17|2 Samuel 16:17 >>]]</td></tr></table>
 
 

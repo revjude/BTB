@@ -1,10 +1,56 @@
+---
+title: Mark 5:16
+type: Verse
+kjv: "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine."
+bsb: "Those who had seen it described what had happened to the demon-possessed man and also to the pigs."
+greek: "καὶ διηγήσαντο δὲ αὐτοῖς οἱ ἰδόντες πῶς ἐγένετο τῷ δαιμονιζομένῳ καὶ περὶ τῶν χοίρων."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1334]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1492H]]"
+- "[[G4459]]"
+- "[[G1096]]"
+- "[[G1139]]"
+- "[[G4012]]"
+- "[[G5519]]"
+texts:
+- NKO
+- o
+---
+
 **Mark 5:16**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that saw [it] told them how it befell to him that was possessed with the devil, and [also] concerning the swine.
 <small><sub>**BSB:**</sub></small>
 Those who had seen it described what had happened to the demon-possessed man and also to the pigs.
-<small><sub>**Literal:**</sub></small>
-And related now to them those having seen [it] how it happened to the [one] being demonised and concerning the pigs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.15|<< Mark 5:15]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.17|Mark 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1334\|διηγήσαντο]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|οἱ]]  [[G1492H\|ἰδόντες]]  [[G4459\|πῶς]]  [[G1096\|ἐγένετο]]  [[G3588\|τῷ]]  [[G1139\|δαιμονιζομένῳ]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G5519\|χοίρων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.15|<< Mark 5:15]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.17|Mark 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,74 @@
+---
+title: Luke 8:13
+type: Verse
+kjv: "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+bsb: "The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away."
+jesus_said: "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+greek: "οἱ δὲ ἐπὶ τῆς πέτρας, οἳ ὅταν ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν λόγον· καὶ οὗτοι ῥίζαν οὐκ ἔχουσιν, οἳ πρὸς καιρὸν πιστεύουσιν καὶ ἐν καιρῷ πειρασμοῦ ἀφίστανται."
+pericope: "[[Luke.8.4 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G4073]]"
+- "[[G3739]]"
+- "[[G3752]]"
+- "[[G0191]]"
+- "[[G3326]]"
+- "[[G5479]]"
+- "[[G1209]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G4491]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G2540]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G3986H]]"
+- "[[G0868]]"
+texts:
+- NKO
+---
+
 **Luke 8:13**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They on the rock [are they], which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
 <small><sub>**BSB:**</sub></small>
 The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away.
-<small><sub>**Literal:**</sub></small>
-Those now upon the rock, those who when they may hear with joy receive the word; and these a root not have, who for a time believe and in time of testing fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.12|<< Luke 8:12]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.14|Luke 8:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G4073\|πέτρας,]]  [[G3739\|οἳ]]  [[G3752\|ὅταν]]  [[G0191\|ἀκούσωσιν]]  [[G3326\|μετὰ]]  [[G5479\|χαρᾶς]]  [[G1209\|δέχονται]]  [[G3588\|τὸν]]  [[G3056\|λόγον·]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G4491\|ῥίζαν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν,]]  [[G3739\|οἳ]]  [[G4314\|πρὸς]]  [[G2540\|καιρὸν]]  [[G4100\|πιστεύουσιν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ]]  [[G3986H\|πειρασμοῦ]]  [[G0868\|ἀφίστανται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic AGRICULTURE|AGRICULTURE]] • [[topic APOSTASY|APOSTASY]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic HEARERS|HEARERS]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.12|<< Luke 8:12]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.14|Luke 8:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Joshua 11:18
+type: Verse
+kjv: "Joshua made war a long time with all those kings."
+bsb: "Joshua waged war against all these kings for a long period of time."
+hebrew: "יָמִ֣ים רַבִּ֗ים עָשָׂ֧ה יְהוֹשֻׁ֛עַ אֶת־ כָּל־ הַמְּלָכִ֥ים הָאֵ֖לֶּה מִלְחָמָֽה׃"
+pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SEIR|SEIR]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H6213H]]"
+- "[[H3091G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:18**<big><big>[[Josh.11.16 Joshua Takes the Whole Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joshua made war a long time with all those kings.
 <small><sub>**BSB:**</sub></small>
 Joshua waged war against all these kings for a long period of time.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֗ים]] [[H6213H\|עָשָׂ֧ה]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0854\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEIR|SEIR]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.17|<< Joshua 11:17]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.19|Joshua 11:19 >>]]</td></tr></table>
 

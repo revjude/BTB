@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abishag Cares for David
+type: Pericope
 pericope: "[[1Kgs.1.1 Abishag Cares for David|Abishag Cares for David]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 1
 book/chapter: "[[1Kgs.1|1 Kings 1]]"
-genre:
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.1.1]]"
 - "[[1Kgs.1.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.1.4]]"
 ---
 
-[[1Kgs.1|1 Kings 1:1 - 1 Kings 1:4]]
+<small>[[1Kgs.1|1 Kings 1:1-4]]</small>
 *Abishag Cares for David*
 
 [[1Kgs.1.1|1]] Now king David was old \[and\] stricken in years; and they covered him with clothes, but he gat no heat.

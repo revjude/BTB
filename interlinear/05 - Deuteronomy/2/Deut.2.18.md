@@ -1,8 +1,56 @@
+---
+title: Deuteronomy 2:18
+type: Verse
+kjv: "Thou art to pass over through Ar, the coast of Moab, this day:"
+bsb: "“Today you are going to cross the border of Moab at Ar."
+hebrew: "אַתָּ֨ה עֹבֵ֥ר הַיּ֛וֹם אֶת־ גְּב֥וּל מוֹאָ֖ב אֶת־ עָֽר׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AR|AR]]"
+- "[[topic MOAB|MOAB]]"
+strongs:
+- "[[H0859A]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H4124G]]"
+- "[[H6144]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:18**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art to pass over through Ar, the coast of Moab, this day:
 <small><sub>**BSB:**</sub></small>
 “Today you are going to cross the border of Moab at Ar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֨ה]] [[H5674A\|עֹבֵ֥ר]] [[H9009\|הַ]][[H3117G\|יּ֛וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H1366G\|גְּב֥וּל]] [[H4124G\|מוֹאָ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H6144\|עָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AR|AR]] • [[topic MOAB|MOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.17|<< Deuteronomy 2:17]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.19|Deuteronomy 2:19 >>]]</td></tr></table>
 

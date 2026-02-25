@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 12:7
+type: Verse
+kjv: "And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;"
+bsb: "Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul."
+hebrew: "וַיֹּ֧אמֶר נָתָ֛ן אֶל־ דָּוִ֖ד אַתָּ֣ה הָאִ֑ישׁ כֹּה־ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אָנֹכִ֞י מְשַׁחְתִּ֤יךָֽ לְמֶ֙לֶךְ֙ עַל־ יִשְׂרָאֵ֔ל וְאָנֹכִ֥י הִצַּלְתִּ֖יךָ מִיַּ֥ד שָׁאֽוּל׃"
+pericope: "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5416H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0595]]"
+- "[[H4886]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7586G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:7**<big><big>[[2Sam.12.1 Nathan Rebukes David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nathan said to David, Thou [art] the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;
 <small><sub>**BSB:**</sub></small>
 Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H5416H\|נָתָ֛ן]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H0859A\|אַתָּ֣ה]] [[H9009\|הָ]][[H0376G\|אִ֑ישׁ]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0595\|אָנֹכִ֞י]] [[H4886\|מְשַׁחְתִּ֤י]][[H9031\|ךָֽ]] [[H9005\|לְ]][[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0595\|אָנֹכִ֥י]] [[H5337\|הִצַּלְתִּ֖י]][[H9031\|ךָ]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic DAVID|DAVID]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATHAN|NATHAN]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.6|<< 2 Samuel 12:6]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.8|2 Samuel 12:8 >>]]</td></tr></table>
 

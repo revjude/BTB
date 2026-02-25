@@ -1,8 +1,57 @@
+---
+title: Habakkuk 2:10
+type: Verse
+kjv: "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul."
+bsb: "You have plotted shame for your house by cutting off many peoples and forfeiting your life."
+hebrew: "יָעַ֥צְתָּ בֹּ֖שֶׁת לְבֵיתֶ֑ךָ קְצוֹת־ עַמִּ֥ים רַבִּ֖ים וְחוֹטֵ֥א נַפְשֶֽׁךָ׃"
+pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3289]]"
+- "[[H1322]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H7096]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H2398]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:10**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast consulted shame to thy house by cutting off many people, and hast sinned [against] thy soul.
 <small><sub>**BSB:**</sub></small>
 You have plotted shame for your house by cutting off many peoples and forfeiting your life.
+<small><sub>**Hebrew:**</sub></small>
+[[H3289\|יָעַ֥צְתָּ]] [[H1322\|בֹּ֖שֶׁת]] [[H9005\|לְ]][[H1004M\|בֵיתֶ֑]][[H9021\|ךָ]] [[H7096\|קְצוֹת]][[H9014\|־]] [[H5971A\|עַמִּ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H9002\|וְ]][[H2398\|חוֹטֵ֥א]] [[H5315H\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.9|<< Habakkuk 2:9]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.11|Habakkuk 2:11 >>]]</td></tr></table>
 

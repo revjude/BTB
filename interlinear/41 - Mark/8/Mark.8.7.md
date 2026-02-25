@@ -1,10 +1,54 @@
+---
+title: Mark 8:7
+type: Verse
+kjv: "And they had a few small fishes: and he blessed, and commanded to set them also before them."
+bsb: "They also had a few small fish, and Jesus blessed them and ordered that these be set before them as well."
+greek: "καὶ εἶχον ἰχθύδια ὀλίγα· καὶ εὐλογήσας αὐτὰ εἶπεν καὶ ταῦτα παρατιθέναι."
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G2485]]"
+- "[[G3641]]"
+- "[[G2127]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G3908]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 8:7**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they had a few small fishes: and he blessed, and commanded to set them also before [them].
 <small><sub>**BSB:**</sub></small>
 They also had a few small fish, and Jesus blessed them and ordered that these be set before them as well.
-<small><sub>**Literal:**</sub></small>
-And they had small fish a few; And having blessed them He ordered also these to be set before [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.6|<< Mark 8:6]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.8|Mark 8:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|εἶχον]]  [[G2485\|ἰχθύδια]]  [[G3641\|ὀλίγα·]]  [[G2532\|καὶ]]  [[G2127\|εὐλογήσας]]  [[G0846\|αὐτὰ]]  [[G2036\|εἶπεν]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3908\|παρατιθέναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.6|<< Mark 8:6]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.8|Mark 8:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

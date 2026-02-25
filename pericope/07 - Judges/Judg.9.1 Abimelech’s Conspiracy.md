@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abimelech’s Conspiracy
+type: Pericope
 pericope: "[[Judg.9.1 Abimelech’s Conspiracy|Abimelech’s Conspiracy]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 9
 book/chapter: "[[Judg.9|Judges 9]]"
-genre:
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 6
 verses:
 - "[[Judg.9.1]]"
 - "[[Judg.9.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Judg.9.6]]"
 ---
 
-[[Judg.9|Judges 9:1 - Judges 9:6]]
+<small>[[Judg.9|Judges 9:1-6]]</small>
 *Abimelech’s Conspiracy*
 
 [[Judg.9.1|1]] And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,

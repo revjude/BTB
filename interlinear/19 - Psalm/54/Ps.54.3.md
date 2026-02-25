@@ -1,8 +1,63 @@
+---
+title: Psalm 54:3
+type: Verse
+kjv: "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah."
+bsb: "For strangers rise up against me, and ruthless men seek my life—men with no regard for God. Selah"
+hebrew: "כִּ֤י זָרִ֨ים׀ קָ֤מוּ עָלַ֗י וְֽ֭עָרִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י לֹ֤א שָׂ֨מוּ אֱלֹהִ֖ים לְנֶגְדָּ֣ם סֶֽלָה׃"
+pericope: "[[Ps.54.1 Save Me by Your Name|Save Me by Your Name]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 54
+book/chapter: "[[Ps.54|Psalm 54]]"
+chronological_order: 314
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2114A]]"
+- "[[H9015]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6184]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7760A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9038]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 54:3**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.
 <small><sub>**BSB:**</sub></small>
 For strangers rise up against me, and ruthless men seek my life—men with no regard for God. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2114A\|זָרִ֨ים]][[H9015\|׀]] [[H6965J\|קָ֤מוּ]] [[H5921A\|עָלַ֗]][[H9030\|י]] [[H9002\|וְֽ֭]][[H6184\|עָרִיצִים]] [[H1245\|בִּקְשׁ֣וּ]] [[H5315H\|נַפְשִׁ֑]][[H9020\|י]] [[H3808\|לֹ֤א]] [[H7760A\|שָׂ֨מוּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לְ]][[H5048\|נֶגְדָּ֣]][[H9038\|ם]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GODLESSNESS|GODLESSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.2|<< Psalms 54:2]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.4|Psalms 54:4 >>]]</td></tr></table>
 

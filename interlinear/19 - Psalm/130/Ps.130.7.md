@@ -1,8 +1,61 @@
+---
+title: Psalm 130:7
+type: Verse
+kjv: "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption."
+bsb: "O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance."
+hebrew: "יַחֵ֥ל יִשְׂרָאֵ֗ל אֶל־ יְה֫וָה כִּֽי־ עִם־ יְהוָ֥ה הַחֶ֑סֶד וְהַרְבֵּ֖ה עִמּ֣וֹ פְדֽוּת׃"
+pericope: "[[Ps.130.1 Out of the Depths|Out of the Depths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 130
+book/chapter: "[[Ps.130|Psalm 130]]"
+chronological_order: 891
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H3176H]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H9033]]"
+- "[[H6304]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 130:7**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Israel hope in the LORD: for with the LORD [there is] mercy, and with him [is] plenteous redemption.
 <small><sub>**BSB:**</sub></small>
 O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3176H\|יַחֵ֥ל]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְה֫וָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H9009\|הַ]][[H2617A\|חֶ֑סֶד]] [[H9002\|וְ]][[H7235A\|הַרְבֵּ֖ה]] [[H5973A\|עִמּ֣]][[H9033\|וֹ]] [[H6304\|פְדֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.6|<< Psalms 130:6]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130.8|Psalms 130:8 >>]]</td></tr></table>
 

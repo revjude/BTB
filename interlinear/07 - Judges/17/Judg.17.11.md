@@ -1,8 +1,59 @@
+---
+title: Judges 17:11
+type: Verse
+kjv: "And the Levite was content to dwell with the man; and the young man was unto him as one of his sons."
+bsb: "and agreed to stay with him, and the young man became like a son to Micah."
+hebrew: "וַיּ֥וֹאֶל הַלֵּוִ֖י לָשֶׁ֣בֶת אֶת־ הָאִ֑ישׁ וַיְהִ֤י הַנַּ֙עַר֙ ל֔וֹ כְּאַחַ֖ד מִבָּנָֽיו׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2974]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H1961]]"
+- "[[H5288]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:11**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.
 <small><sub>**BSB:**</sub></small>
 and agreed to stay with him, and the young man became like a son to Micah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2974\|יּ֥וֹאֶל]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9004\|כְּ]][[H0259\|אַחַ֖ד]] [[H9006\|מִ]][[H1121A\|בָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.10|<< Judges 17:10]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.12|Judges 17:12 >>]]</td></tr></table>
 

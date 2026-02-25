@@ -1,8 +1,57 @@
+---
+title: Psalm 64:3
+type: Verse
+kjv: "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+bsb: "who sharpen their tongues like swords and aim their bitter words like arrows,"
+hebrew: "אֲשֶׁ֤ר שָׁנְנ֣וּ כַחֶ֣רֶב לְשׁוֹנָ֑ם דָּרְכ֥וּ חִ֝צָּ֗ם דָּבָ֥ר מָֽר׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0834A]]"
+- "[[H8150]]"
+- "[[H9004]]"
+- "[[H2719]]"
+- "[[H3956G]]"
+- "[[H9028]]"
+- "[[H1869]]"
+- "[[H2671]]"
+- "[[H1697G]]"
+- "[[H4751]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:3**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who whet their tongue like a sword, [and] bend [their bows to shoot] their arrows, [even] bitter words:
 <small><sub>**BSB:**</sub></small>
 who sharpen their tongues like swords and aim their bitter words like arrows,
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H8150\|שָׁנְנ֣וּ]] [[H9004\|כַ]][[H2719\|חֶ֣רֶב]] [[H3956G\|לְשׁוֹנָ֑]][[H9028\|ם]] [[H1869\|דָּרְכ֥וּ]] [[H2671\|חִ֝צָּ֗]][[H9028\|ם]] [[H1697G\|דָּבָ֥ר]] [[H4751\|מָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.2|<< Psalms 64:2]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.4|Psalms 64:4 >>]]</td></tr></table>
 

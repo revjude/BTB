@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zephaniah Prophesies Judgment on Judah
+type: Pericope
 pericope: "[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|Zephaniah Prophesies Judgment on Judah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 1
 book/chapter: "[[Zeph.1|Zephaniah 1]]"
-genre:
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 6
 verses:
 - "[[Zeph.1.1]]"
 - "[[Zeph.1.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Zeph.1.6]]"
 ---
 
-[[Zeph.1|Zephaniah 1:1 - Zephaniah 1:6]]
+<small>[[Zeph.1|Zephaniah 1:1-6]]</small>
 *Zephaniah Prophesies Judgment on Judah*
 
 [[Zeph.1.1|1]] The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.

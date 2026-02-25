@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon’s Punishment
+type: Pericope
 pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
-verse_count: 39
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 51
 book/chapter: "[[Jer.51|Jeremiah 51]]"
-genre:
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 39
 verses:
 - "[[Jer.51.20]]"
 - "[[Jer.51.21]]"
@@ -59,7 +66,7 @@ verses:
 - "[[Jer.51.58]]"
 ---
 
-[[Jer.51|Jeremiah 51:20 - Jeremiah 51:58]]
+<small>[[Jer.51|Jeremiah 51:20-58]]</small>
 *Babylon’s Punishment*
 
 [[Jer.51.20|20]] Thou \[art\] my battle axe \[and\] weapons of war: for with thee will I break in pieces the nations, and with thee will I destroy kingdoms;

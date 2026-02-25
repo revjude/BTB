@@ -1,8 +1,65 @@
+---
+title: 2 Kings 18:36
+type: Verse
+kjv: "But the people held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not."
+bsb: "But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”"
+hebrew: "וְהֶחֱרִ֣ישׁוּ הָעָ֔ם וְלֹֽא־ עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּי־ מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א תַעֲנֻֽהוּ׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2790B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H3588A]]"
+- "[[H4687]]"
+- "[[H4428G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:36**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the people held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.
 <small><sub>**BSB:**</sub></small>
 But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2790B\|הֶחֱרִ֣ישׁוּ]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6030B\|עָנ֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H1697G\|דָּבָ֑ר]] [[H3588A\|כִּי]][[H9014\|־]] [[H4687\|מִצְוַ֨ת]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H1931\|הִ֛יא]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H3808\|לֹ֥א]] [[H6030B\|תַעֲנֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.35|<< 2 Kings 18:35]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.37|2 Kings 18:37 >>]]</td></tr></table>
 

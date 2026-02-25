@@ -1,10 +1,76 @@
+---
+title: Revelation 2:20
+type: Verse
+kjv: "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols."
+bsb: "But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants to be sexually immoral and to eat food sacrificed to idols."
+jesus_said: "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols."
+greek: "ἀλλ᾽ ἔχω κατὰ σοῦ ὀλίγα ὅτι ἀφεῖς τὴν γυναῖκα σοῦ Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα."
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+strongs:
+- "[[G0235]]"
+- "[[G2192]]"
+- "[[G2596]]"
+- "[[G4771]]"
+- "[[G3641]]"
+- "[[G3754G]]"
+- "[[G0863I]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G2403]]"
+- "[[G3004H]]"
+- "[[G1438]]"
+- "[[G4398]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G4105]]"
+- "[[G1473]]"
+- "[[G1401]]"
+- "[[G4203]]"
+- "[[G5315]]"
+- "[[G1494]]"
+texts:
+- NKO
+- K
+- N(k)O
+- O
+- N(k)(o)
+- no
+---
+
 **Revelation 2:20**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
 <small><sub>**BSB:**</sub></small>
 But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants to be sexually immoral and to eat food sacrificed to idols.
-<small><sub>**Literal:**</sub></small>
-But I have against you few things that you permit the woman of you Jezebel, the [one] calling herself a prophetess and she teaches and she misleads <the> My servants to commit sexual immorality and to eat idol-sacrifices.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.19|<< Revelation 2:19]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.21|Revelation 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2192\|ἔχω]]  [[G2596\|κατὰ]]  [[G4771\|σοῦ]]  [[G3641\|ὀλίγα]]  [[G3754G\|ὅτι]]  [[G0863I\|ἀφεῖς]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα]]  [[G4771\|σοῦ]]  [[G2403\|Ἰεζάβελ,]]  [[G3588\|ἡ]]  [[G3004H\|λέγουσα]]  [[G1438\|ἑαυτὴν]]  [[G4398\|προφῆτιν]]  [[G2532\|καὶ]]  [[G1321\|διδάσκει]]  [[G2532\|καὶ]]  [[G4105\|πλανᾷ]]  [[G3588\|τοὺς]]  [[G1473\|ἐμοὺς]]  [[G1401\|δούλους]]  [[G4203\|πορνεῦσαι]]  [[G2532\|καὶ]]  [[G5315\|φαγεῖν]]  [[G1494\|εἰδωλόθυτα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFECTIONS|AFFECTIONS]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JEZEBEL|JEZEBEL]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETESSES|PROPHETESSES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.19|<< Revelation 2:19]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.21|Revelation 2:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 2:20** is...
 > $\quad$ possibly alluding to: [[LXX.1Kgs.16.31|1Kgs 16:31]] ☩ [[LXX.1Kgs.21.23|1Kgs 21:23]] ☩ [[LXX.2Kgs.9.33|2Kgs 9:33]]

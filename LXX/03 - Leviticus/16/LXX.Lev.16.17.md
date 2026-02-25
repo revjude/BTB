@@ -1,6 +1,75 @@
+---
+title: LXX Leviticus 16:17
+type: Verse
+lxx: "And every man shall not be in the tent of the testimony, of his entering to atone in the holy place, until whenever he should come forth. And he shall atone for himself, and  his house, and for all the congregation of Israel."
+greek: "και πας άνθρωπος ουκ έσται εν τη σκηνή του μαρτυρίου εισπορευομένου αυτού εξιλάσασθαι εν τω αγίω έως αν εξέλθη και εξιλάσεται περί εαυτού και του οίκου αυτού και περί πάσης συναγωγής Ισραήλ"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G1531]]"
+- "[[G1473]]"
+- "[[G7331]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G7331]]"
+- "[[G4012]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G4864]]"
+- "[[G2474]]"
+---
+
 **LXX Leviticus 16:17** 
 <small><sub>**LXX:**</sub></small>
 And every man shall not be in the tent of the testimony, of his entering to atone in the holy \[place\], until whenever he should come forth. And he shall atone for himself, and  his house, and for all \[the\] congregation of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πας]] [[G0444\|άνθρωπος]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G1722\|εν]] [[G3588\|τη]] [[G4633\|σκηνή]] [[G3588\|του]] [[G3142\|μαρτυρίου]] [[G1531\|εισπορευομένου]] [[G1473\|αυτού]] [[G7331\|εξιλάσασθαι]] [[G1722\|εν]] [[G3588\|τω]] [[G0039\|αγίω]] [[G2193\|έως]] [[G0302\|αν]] [[G1831\|εξέλθη]] [[G2532\|και]] [[G7331\|εξιλάσεται]] [[G4012\|περί]] [[G1438\|εαυτού]] [[G2532\|και]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|αυτού]] [[G2532\|και]] [[G4012\|περί]] [[G3956\|πάσης]] [[G4864\|συναγωγής]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.16|<< Leviticus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.18|Leviticus 16:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -40,6 +109,6 @@ And every man shall not be in the tent of the testimony, of his entering to aton
 | all | **<big>[[G3956\|πάσης]]</big>** |
 | \[the\] congregation | **<big>[[G4864\|συναγωγής]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Lev.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.16|<< Leviticus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.18|Leviticus 16:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.16|<< Leviticus 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.18|Leviticus 16:18 >>]]</td></tr></table>
 
 

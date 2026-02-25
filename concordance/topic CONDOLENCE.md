@@ -9,7 +9,7 @@
 
 - The three friends of, to Job [[Job.2.11|Job 2:11]]
 
-- Jesus, to Mary and Martha [[John.11.23|Joh 11:23]]-[[John.11.35|35]]
+- Jesus, to Mary and Martha [[John.11.23|Joh 11:23-35]]
 
 - See [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTION, COMFORT IN]]
 

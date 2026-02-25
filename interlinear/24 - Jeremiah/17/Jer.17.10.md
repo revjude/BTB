@@ -1,8 +1,63 @@
+---
+title: Jeremiah 17:10
+type: Verse
+kjv: "I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings."
+bsb: "I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve."
+hebrew: "אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כִּדְרָכָ֔יו כִּפְרִ֖י מַעֲלָלָֽיו׃ ס"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H2713]]"
+- "[[H3820A]]"
+- "[[H0974]]"
+- "[[H3629]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H6529]]"
+- "[[H4611]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:10**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the LORD search the heart, [I] try the reins, even to give every man according to his ways, [and] according to the fruit of his doings.
 <small><sub>**BSB:**</sub></small>
 I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֧י]] [[H3068G\|יְהוָ֛ה]] [[H2713\|חֹקֵ֥ר]] [[H3820A\|לֵ֖ב]] [[H0974\|בֹּחֵ֣ן]] [[H3629\|כְּלָי֑וֹת]] [[H9002\|וְ]][[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H9005\|לְ]][[H0376I\|אִישׁ֙]] [[H9004\|כִּ]][[H1870G\|דְרָכָ֔י]][[H9023\|ו]] [[H9004\|כִּ]][[H6529\|פְרִ֖י]] [[H4611\|מַעֲלָלָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.9|<< Jeremiah 17:9]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.11|Jeremiah 17:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -22,11 +77,11 @@ I, the LORD, search the heart; I examine the mind to reward a man according to h
 | to everyone  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0376I\|אִישׁ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to ways his  [^3]|**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1870G\|דְרָכָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | according to [the] fruit of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6529\|פְרִ֖י]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> f.Ri<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| deeds his  |**<big>&#8207;[[H4611\|מַעֲלָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.'a.la.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| deeds his  |**<big>&#8207;[[H4611\|מַעֲלָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.'a.la.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.9|<< Jeremiah 17:9]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.11|Jeremiah 17:11 >>]]</td></tr></table>
 
-[^1]: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
-[^2]: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
-[^3]: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^1]: according to way his  | **<big>[[H9004|כְּ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9023|וֹ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^2]: according to way his  | **<big>[[H9004|כְּ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9023|וֹ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^3]: according to way his  | **<big>[[H9004|כְּ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9023|וֹ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>כִּדְרָכָ֔/ו</big></span>**
 

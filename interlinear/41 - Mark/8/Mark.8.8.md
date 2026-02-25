@@ -1,10 +1,52 @@
+---
+title: Mark 8:8
+type: Verse
+kjv: "So they did eat, and were filled: and they took up of the broken meat that was left seven baskets."
+bsb: "The people ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over."
+greek: "καὶ ἔφαγον δέ καὶ ἐχορτάσθησαν, καὶ ἦραν περισσεύματα κλασμάτων ἑπτὰ σπυρίδας."
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5315]]"
+- "[[G1161]]"
+- "[[G5526]]"
+- "[[G0142]]"
+- "[[G4051]]"
+- "[[G2801]]"
+- "[[G2033]]"
+- "[[G4711]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Mark 8:8**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So they did eat, and were filled: and they took up of the broken [meat] that was left seven baskets.
 <small><sub>**BSB:**</sub></small>
 The people ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.
-<small><sub>**Literal:**</sub></small>
-And they ate now and were satisfied, And they took up overflow of fragments seven baskets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.7|<< Mark 8:7]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.9|Mark 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5315\|ἔφαγον]]  [[G1161\|δέ]]  [[G2532\|καὶ]]  [[G5526\|ἐχορτάσθησαν,]]  [[G2532\|καὶ]]  [[G0142\|ἦραν]]  [[G4051\|περισσεύματα]]  [[G2801\|κλασμάτων]]  [[G2033\|ἑπτὰ]]  [[G4711\|σπυρίδας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.7|<< Mark 8:7]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.9|Mark 8:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Psalm 35:10
+type: Verse
+kjv: "All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?"
+bsb: "All my bones will exclaim, “Who is like You, O LORD, who delivers the afflicted from the aggressor, the poor and needy from the robber?”"
+hebrew: "כָּ֥ל עַצְמוֹתַ֨י׀ תֹּאמַרְנָה֮ יְהוָ֗ה מִ֥י כָ֫מ֥וֹךָ מַצִּ֣יל עָ֭נִי מֵחָזָ֣ק מִמֶּ֑נּוּ וְעָנִ֥י וְ֝אֶבְי֗וֹן מִגֹּזְלֽוֹ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic POOR|POOR]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3605]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H4310]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H5337]]"
+- "[[H6041]]"
+- "[[H9006]]"
+- "[[H2389]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H1497]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:10**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?
 <small><sub>**BSB:**</sub></small>
 All my bones will exclaim, “Who is like You, O LORD, who delivers the afflicted from the aggressor, the poor and needy from the robber?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּ֥ל]] [[H6106G\|עַצְמוֹתַ֨]][[H9020\|י]][[H9015\|׀]] [[H0559\|תֹּאמַרְנָה֮]] [[H3068G\|יְהוָ֗ה]] [[H4310\|מִ֥י]] [[H3644G\|כָ֫מ֥וֹ]][[H9031\|ךָ]] [[H5337\|מַצִּ֣יל]] [[H6041\|עָ֭נִי]] [[H9006\|מֵ]][[H2389\|חָזָ֣ק]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H6041\|עָנִ֥י]] [[H9002\|וְ֝]][[H0034\|אֶבְי֗וֹן]] [[H9006\|מִ]][[H1497\|גֹּזְלֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic FAITH|FAITH]] • [[topic POOR|POOR]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.9|<< Psalms 35:9]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.11|Psalms 35:11 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Defeats the Ammonites
+type: Pericope
 pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 11
 book/chapter: "[[1Sam.11|1 Samuel 11]]"
-genre:
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.11.1]]"
 - "[[1Sam.11.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.11.11]]"
 ---
 
-[[1Sam.11|1 Samuel 11:1 - 1 Samuel 11:11]]
+<small>[[1Sam.11|1 Samuel 11:1-11]]</small>
 *Saul Defeats the Ammonites*
 
 [[1Sam.11.1|1]] Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.

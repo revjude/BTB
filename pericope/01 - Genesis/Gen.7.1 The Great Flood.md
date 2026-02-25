@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Great Flood
+type: Pericope
 pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 7
 book/chapter: "[[Gen.7|Genesis 7]]"
-genre:
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 24
 verses:
 - "[[Gen.7.1]]"
 - "[[Gen.7.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Gen.7.24]]"
 ---
 
-[[Gen.7|Genesis 7:1 - Genesis 7:24]]
+<small>[[Gen.7|Genesis 7:1-24]]</small>
 *The Great Flood*
 
 [[Gen.7.1|1]] And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.

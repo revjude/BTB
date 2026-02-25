@@ -1,8 +1,61 @@
+---
+title: Joshua 21:3
+type: Verse
+kjv: "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs."
+bsb: "So by the command of the LORD, the Israelites gave the Levites these cities and their pasturelands out of their own inheritance:"
+hebrew: "וַיִּתְּנ֨וּ בְנֵי־ יִשְׂרָאֵ֧ל לַלְוִיִּ֛ם מִנַּחֲלָתָ֖ם אֶל־ פִּ֣י יְהוָ֑ה אֶת־ הֶעָרִ֥ים הָאֵ֖לֶּה וְאֶת־ מִגְרְשֵׁיהֶֽן׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H5159]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:3**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs.
 <small><sub>**BSB:**</sub></small>
 So by the command of the LORD, the Israelites gave the Levites these cities and their pasturelands out of their own inheritance:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתְּנ֨וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֧ל]] [[H9005\|לַ]][[H3881\|לְוִיִּ֛ם]] [[H9006\|מִ]][[H5159\|נַּחֲלָתָ֖]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרְשֵׁי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.2|<< Joshua 21:2]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.4|Joshua 21:4 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Proverbs 3:10
+type: Verse
+kjv: "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+bsb: "then your barns will be filled with plenty, and your vats will overflow with new wine."
+hebrew: "וְיִמָּלְא֣וּ אֲסָמֶ֣יךָ שָׂבָ֑ע וְ֝תִיר֗וֹשׁ יְקָבֶ֥יךָ יִפְרֹֽצוּ׃ פ"
+pericope: "[[Prov.3.1 Trust in the LORD with All Your Heart|Trust in the LORD with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BARN|BARN]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H0618]]"
+- "[[H9021]]"
+- "[[H7647]]"
+- "[[H8492]]"
+- "[[H3342]]"
+- "[[H6555]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 3:10**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
 <small><sub>**BSB:**</sub></small>
 then your barns will be filled with plenty, and your vats will overflow with new wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H4390\|יִמָּלְא֣וּ]] [[H0618\|אֲסָמֶ֣י]][[H9021\|ךָ]] [[H7647\|שָׂבָ֑ע]] [[H9002\|וְ֝]][[H8492\|תִיר֗וֹשׁ]] [[H3342\|יְקָבֶ֥י]][[H9021\|ךָ]] [[H6555\|יִפְרֹֽצוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BARN|BARN]] • [[topic CHILDREN|CHILDREN]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.9|<< Proverbs 3:9]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.11|Proverbs 3:11 >>]]</td></tr></table>
 
@@ -13,7 +61,7 @@ then your barns will be filled with plenty, and your vats will overflow with new
 | plenty  |**<big>&#8207;[[H7647\|שָׂבָ֑ע]]&#8207; </big>**| sa.Va'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and new wine  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8492\|תִיר֗וֹשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ti.Ro.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wine vats your  |**<big>&#8207;[[H3342\|יְקָבֶ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ye.ka.Vei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will burst open  |**<big>&#8207;[[H6555\|יִפְרֹֽצוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yif.Ro.tzu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will burst open  |**<big>&#8207;[[H6555\|יִפְרֹֽצוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yif.Ro.tzu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.9|<< Proverbs 3:9]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.11|Proverbs 3:11 >>]]</td></tr></table>
 
 

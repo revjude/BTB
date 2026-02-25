@@ -1,8 +1,64 @@
+---
+title: Judges 2:22
+type: Verse
+kjv: "That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep it, or not."
+bsb: "In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”"
+hebrew: "לְמַ֛עַן נַסּ֥וֹת בָּ֖ם אֶת־ יִשְׂרָאֵ֑ל הֲשֹׁמְרִ֣ים הֵם֩ אֶת־ דֶּ֨רֶךְ יְהוָ֜ה לָלֶ֣כֶת בָּ֗ם כַּאֲשֶׁ֛ר שָׁמְר֥וּ אֲבוֹתָ֖ם אִם־ לֹֽא׃"
+pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H4616]]"
+- "[[H5254G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H8104J]]"
+- "[[H1992]]"
+- "[[H1870G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8104G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:22**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep [it], or not.
 <small><sub>**BSB:**</sub></small>
 In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֛עַן]] [[H5254G\|נַסּ֥וֹת]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9008\|הֲ]][[H8104J\|שֹׁמְרִ֣ים]] [[H1992\|הֵם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דֶּ֨רֶךְ]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בָּ֗]][[H9038\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H8104G\|שָׁמְר֥וּ]] [[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BAAL|BAAL]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.21|<< Judges 2:21]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.23|Judges 2:23 >>]]</td></tr></table>
 

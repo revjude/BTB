@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Death and Resurrection
+type: Pericope
 pericope: "[[Hos.13.9 Death and Resurrection|Death and Resurrection]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 13
 book/chapter: "[[Hos.13|Hosea 13]]"
-genre:
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 6
 verses:
 - "[[Hos.13.9]]"
 - "[[Hos.13.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Hos.13.14]]"
 ---
 
-[[Hos.13|Hosea 13:9 - Hosea 13:14]]
+<small>[[Hos.13|Hosea 13:9-14]]</small>
 *Death and Resurrection*
 
 [[Hos.13.9|9]] O Israel, thou hast destroyed thyself; but in me \[is\] thine help.

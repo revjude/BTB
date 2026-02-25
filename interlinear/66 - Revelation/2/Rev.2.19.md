@@ -1,10 +1,59 @@
+---
+title: Revelation 2:19
+type: Verse
+kjv: "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+bsb: "I know your deeds—your love, your faith, your service, your perseverance—and your latest deeds are greater than your first."
+jesus_said: "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+greek: "οἶδά σου τὰ ἔργα καὶ τὴν ἀγάπην καὶ τὴν πίστιν καὶ τὴν διακονίαν καὶ τὴν ὑπομονήν σου καὶ τὰ ἔργα σου καὶ τὰ ἔσχατα πλείονα τῶν πρώτων."
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G6063]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2532]]"
+- "[[G0026]]"
+- "[[G4102G]]"
+- "[[G1248]]"
+- "[[G5281]]"
+- "[[G2078]]"
+- "[[G4119]]"
+- "[[G4413G]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 2:19**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last [to be] more than the first.
 <small><sub>**BSB:**</sub></small>
 I know your deeds—your love, your faith, your service, your perseverance—and your latest deeds are greater than your first.
-<small><sub>**Literal:**</sub></small>
-I know your <the> works and <the> love and <the> faith and <the> service and the perseverance of you and the works of you and the latter [are] greater than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.18|<< Revelation 2:18]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.20|Revelation 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδά]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5281\|ὑπομονήν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2078\|ἔσχατα]]  [[G4119\|πλείονα]]  [[G3588\|τῶν]]  [[G4413G\|πρώτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.18|<< Revelation 2:18]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.20|Revelation 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

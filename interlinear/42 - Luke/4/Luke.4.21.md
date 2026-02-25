@@ -1,10 +1,60 @@
+---
+title: Luke 4:21
+type: Verse
+kjv: "And he began to say unto them, This day is this scripture fulfilled in your ears."
+bsb: "and He began by saying, “Today this Scripture is fulfilled in your hearing.”"
+jesus_said: "This day is this scripture fulfilled in your ears."
+greek: "ἤρξατο δὲ λέγειν πρὸς αὐτοὺς ὅτι σήμερον πεπλήρωται ἡ γραφὴ αὕτη ἐν τοῖς ὠσὶν ὑμῶν."
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0757]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G4594]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3775]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 4:21**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he began to say unto them, This day is this scripture fulfilled in your ears.
 <small><sub>**BSB:**</sub></small>
 and He began by saying, “Today this Scripture is fulfilled in your hearing.”
-<small><sub>**Literal:**</sub></small>
-He began then to say to them that Today has been fulfilled <the> Scripture this in the hearing of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.20|<< Luke 4:20]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.22|Luke 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0757\|ἤρξατο]]  [[G1161\|δὲ]]  [[G3004G\|λέγειν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3754G\|ὅτι]]  [[G4594\|σήμερον]]  [[G4137\|πεπλήρωται]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G3778\|αὕτη]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3775\|ὠσὶν]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.20|<< Luke 4:20]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.22|Luke 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

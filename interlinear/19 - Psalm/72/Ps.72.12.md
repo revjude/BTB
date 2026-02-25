@@ -1,8 +1,60 @@
+---
+title: Psalm 72:12
+type: Verse
+kjv: "For he shall deliver the needy when he crieth; the poor also, and him that hath no helper."
+bsb: "For he will deliver the needy who cry out and the afflicted who have no helper."
+hebrew: "כִּֽי־ יַ֭צִּיל אֶבְי֣וֹן מְשַׁוֵּ֑עַ וְ֝עָנִ֗י וְֽאֵין־ עֹזֵ֥ר לֽוֹ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5337]]"
+- "[[H0034]]"
+- "[[H7768]]"
+- "[[H9002]]"
+- "[[H6041]]"
+- "[[H0369]]"
+- "[[H5826]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:12**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall deliver the needy when he crieth; the poor also, and [him] that hath no helper.
 <small><sub>**BSB:**</sub></small>
 For he will deliver the needy who cry out and the afflicted who have no helper.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5337\|יַ֭צִּיל]] [[H0034\|אֶבְי֣וֹן]] [[H7768\|מְשַׁוֵּ֑עַ]] [[H9002\|וְ֝]][[H6041\|עָנִ֗י]] [[H9002\|וְֽ]][[H0369\|אֵין]][[H9014\|־]] [[H5826\|עֹזֵ֥ר]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.11|<< Psalms 72:11]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.13|Psalms 72:13 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Genesis 2:5
+type: Verse
+kjv: "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground."
+bsb: "Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground."
+hebrew: "וְכֹ֣ל׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָאָ֔רֶץ וְכָל־ עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל־ הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת־ הָֽאֲדָמָֽה׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VEGETATION|VEGETATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H7880]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H2962]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H6212]]"
+- "[[H6779]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H4305]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H0120G]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H5647I]]"
+- "[[H0853]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:5**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and [there was] not a man to till the ground.
 <small><sub>**BSB:**</sub></small>
 Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H7880\|שִׂ֣יחַ]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H2962\|טֶ֚רֶם]] [[H1961\|יִֽהְיֶ֣ה]] [[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6212\|עֵ֥שֶׂב]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H2962\|טֶ֣רֶם]] [[H6779\|יִצְמָ֑ח]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H4305\|הִמְטִ֜יר]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0120G\|אָדָ֣ם]] [[H0369\|אַ֔יִן]] [[H9005\|לַֽ]][[H5647I\|עֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VEGETATION|VEGETATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.4|<< Genesis 2:4]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.6|Genesis 2:6 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Isaiah 19:5
+type: Verse
+kjv: "And the waters shall fail from the sea, and the river shall be wasted and dried up."
+bsb: "The waters of the Nile will dry up, and the riverbed will be parched and empty."
+hebrew: "וְנִשְּׁתוּ־ מַ֖יִם מֵֽהַיָּ֑ם וְנָהָ֖ר יֶחֱרַ֥ב וְיָבֵֽשׁ׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic NILE|NILE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5405]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H5104H]]"
+- "[[H2717A]]"
+- "[[H3001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:5**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters shall fail from the sea, and the river shall be wasted and dried up.
 <small><sub>**BSB:**</sub></small>
 The waters of the Nile will dry up, and the riverbed will be parched and empty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5405\|נִשְּׁתוּ]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9002\|וְ]][[H5104H\|נָהָ֖ר]] [[H2717A\|יֶחֱרַ֥ב]] [[H9001\|וְ]][[H3001\|יָבֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic NILE|NILE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.4|<< Isaiah 19:4]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.6|Isaiah 19:6 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 28:12
+type: Verse
+kjv: "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+bsb: "The LORD will open the heavens, His abundant storehouse, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations, but borrow from none."
+hebrew: "יִפְתַּ֣ח יְהוָ֣ה׀ לְ֠ךָ אֶת־ אוֹצָר֨וֹ הַטּ֜וֹב אֶת־ הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר־ אַרְצְךָ֙ בְּעִתּ֔וֹ וּלְבָרֵ֕ךְ אֵ֖ת כָּל־ מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֙יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H6605A]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H8064]]"
+- "[[H5414G]]"
+- "[[H4306]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H3605]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9001]]"
+- "[[H3867B]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:12**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.
 <small><sub>**BSB:**</sub></small>
 The LORD will open the heavens, His abundant storehouse, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations, but borrow from none.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|יִפְתַּ֣ח]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H9005\|לְ֠]][[H9031\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H0214\|אוֹצָר֨]][[H9023\|וֹ]] [[H9009\|הַ]][[H2896A\|טּ֜וֹב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H4306\|מְטַֽר]][[H9014\|־]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H6256\|עִתּ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H1288\|בָרֵ֕ךְ]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H3867B\|הִלְוִ֙יתָ֙]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֔ים]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H3808\|לֹ֥א]] [[H3867B\|תִלְוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.11|<< Deuteronomy 28:11]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.13|Deuteronomy 28:13 >>]]</td></tr></table>
 

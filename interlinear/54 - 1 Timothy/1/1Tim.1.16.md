@@ -1,10 +1,69 @@
+---
+title: 1 Timothy 1:16
+type: Verse
+kjv: "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
+bsb: "But for this very reason I was shown mercy, so that in me, the worst of sinners, Christ Jesus might display His perfect patience as an example to those who would believe in Him for eternal life."
+greek: "ἀλλὰ διὰ τοῦτο ἠλεήθην, ἵνα ἐν ἐμοὶ πρώτῳ ἐνδείξηται Χριστὸς Ἰησοῦς τὴν ἅπασαν μακροθυμίαν πρὸς ὑποτύπωσιν τῶν μελλόντων πιστεύειν ἐπ᾽ αὐτῷ εἰς ζωὴν αἰώνιον.¶"
+pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1653]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G4413J]]"
+- "[[G1731]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G0537]]"
+- "[[G3115]]"
+- "[[G4314]]"
+- "[[G5296]]"
+- "[[G3195]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Timothy 1:16**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.
 <small><sub>**BSB:**</sub></small>
 But for this very reason I was shown mercy, so that in me, the worst of sinners, Christ Jesus might display His perfect patience as an example to those who would believe in Him for eternal life.
-<small><sub>**Literal:**</sub></small>
-But because of this I was shown mercy, that in me myself [the] foremost may display Christ Jesus <the> [his] perfect patience as a pattern for those being about to believe on Him to life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.15|<< 1 Timothy 1:15]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.17|1 Timothy 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1653\|ἠλεήθην,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G4413J\|πρώτῳ]]  [[G1731\|ἐνδείξηται]]  [[G5547\|Χριστὸς]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὴν]]  [[G0537\|ἅπασαν]]  [[G3115\|μακροθυμίαν]]  [[G4314\|πρὸς]]  [[G5296\|ὑποτύπωσιν]]  [[G3588\|τῶν]]  [[G3195\|μελλόντων]]  [[G4100\|πιστεύειν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic FAITH|FAITH]] • [[topic LIFE|LIFE]] • [[topic LONGSUFFERING|LONGSUFFERING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.15|<< 1 Timothy 1:15]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.17|1 Timothy 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

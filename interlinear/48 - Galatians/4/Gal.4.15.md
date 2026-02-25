@@ -1,10 +1,58 @@
+---
+title: Galatians 4:15
+type: Verse
+kjv: "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me."
+bsb: "What then has become of your blessing? For I can testify that, if it were possible, you would have torn out your eyes and given them to me."
+greek: "Ποῦ οὖν ἦν ὁ μακαρισμὸς ὑμῶν; μαρτυρῶ γὰρ ὑμῖν ὅτι, εἰ δυνατόν, τοὺς ὀφθαλμοὺς ὑμῶν ἐξορύξαντες ἂν ἐδώκατέ μοι."
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G4226]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3108]]"
+- "[[G4771]]"
+- "[[G3140]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1487G]]"
+- "[[G1415]]"
+- "[[G3788]]"
+- "[[G1846]]"
+- "[[G0302]]"
+- "[[G1325]]"
+- "[[G3165]]"
+texts:
+- N(K)O
+- NKO
+- k
+---
+
 **Galatians 4:15**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Where is then the blessedness ye spake of? for I bear you record, that, if [it had been] possible, ye would have plucked out your own eyes, and have given them to me.
 <small><sub>**BSB:**</sub></small>
 What then has become of your blessing? For I can testify that, if it were possible, you would have torn out your eyes and given them to me.
-<small><sub>**Literal:**</sub></small>
-Where then was the blessedness of you? I bear witness for to you that, if possible, the eyes of you having gouged out then would you have given [them] to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.14|<< Galatians 4:14]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.16|Galatians 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4226\|Ποῦ]]  [[G3767\|οὖν]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G3108\|μακαρισμὸς]]  [[G4771\|ὑμῶν;]]  [[G3140\|μαρτυρῶ]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι,]]  [[G1487G\|εἰ]]  [[G1415\|δυνατόν,]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G4771\|ὑμῶν]]  [[G1846\|ἐξορύξαντες]]  [[G0302\|ἂν]]  [[G1325\|ἐδώκατέ]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.14|<< Galatians 4:14]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.16|Galatians 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: 1 John 4:15
+type: Verse
+kjv: "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
+bsb: "If anyone confesses that Jesus is the Son of God, God abides in him, and he in God."
+greek: "ὃς ἐὰν ὁμολογήσῃ ὅτι Ἰησοῦς Χριστός ἐστιν ὁ υἱὸς τοῦ θεοῦ, ὁ θεὸς ἐν αὐτῷ μένει καὶ αὐτὸς ἐν τῷ θεῷ."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G3670]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3306]]"
+- "[[G2532]]"
+texts:
+- NKO
+- N(k)O
+- O
+---
+
 **1 John 4:15**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
 <small><sub>**BSB:**</sub></small>
 If anyone confesses that Jesus is the Son of God, God abides in him, and he in God.
-<small><sub>**Literal:**</sub></small>
-Who[ever] maybe shall confess that Jesus Christ is the Son <the> of God, <the> God in him abides and he in <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.14|<< 1 John 4:14]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.16|1 John 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G3670\|ὁμολογήσῃ]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3306\|μένει]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFESSION|CONFESSION]] • [[topic GOD|GOD]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.14|<< 1 John 4:14]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.16|1 John 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

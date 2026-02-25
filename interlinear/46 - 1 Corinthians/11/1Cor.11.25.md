@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 11:25
+type: Verse
+kjv: "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
+bsb: "In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.”"
+jesus_said: "This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
+greek: "ὡσαύτως καὶ τὸ ποτήριον μετὰ τὸ δειπνῆσαι λέγων· τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐστὶν ἐν τῷ ἐμῷ αἵματι· τοῦτο ποιεῖτε, ὁσάκις ἐὰν πίνητε, εἰς τὴν ἐμὴν ἀνάμνησιν."
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic TESTAMENT|TESTAMENT]]"
+strongs:
+- "[[G5615]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G3326]]"
+- "[[G1172]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G2537]]"
+- "[[G1242]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G0129G]]"
+- "[[G4160G]]"
+- "[[G3740]]"
+- "[[G1437]]"
+- "[[G4095]]"
+- "[[G1519]]"
+- "[[G0364]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 11:25**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After the same manner also [he took] the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink [it], in remembrance of me.
 <small><sub>**BSB:**</sub></small>
 In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.”
-<small><sub>**Literal:**</sub></small>
-Likewise also the cup after <the> having supped saying; This <the> cup the new covenant is in <the> My blood; this do perform, as often as when you shall drink [it], in <the> of Me remembrance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.24|<< 1 Corinthians 11:24]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.26|1 Corinthians 11:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5615\|ὡσαύτως]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G1172\|δειπνῆσαι]]  [[G3004G\|λέγων·]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3588\|ἡ]]  [[G2537\|καινὴ]]  [[G1242\|διαθήκη]]  [[G1510\|ἐστὶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1473\|ἐμῷ]]  [[G0129G\|αἵματι·]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιεῖτε,]]  [[G3740\|ὁσάκις]]  [[G1437\|ἐὰν]]  [[G4095\|πίνητε,]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G0364\|ἀνάμνησιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic MEMORIAL|MEMORIAL]] • [[topic TESTAMENT|TESTAMENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.24|<< 1 Corinthians 11:24]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.26|1 Corinthians 11:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

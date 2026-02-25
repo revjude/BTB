@@ -1,8 +1,66 @@
+---
+title: Exodus 30:33
+type: Verse
+kjv: "Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people."
+bsb: "Anyone who mixes perfume like it or puts it on an outsider shall be cut off from his people.’”"
+hebrew: "אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־ זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING OIL|ANOINTING OIL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H0376I]]"
+- "[[H0834A]]"
+- "[[H7543]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5414H]]"
+- "[[H4480A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 30:33**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever compoundeth [any] like it, or whosoever putteth [any] of it upon a stranger, shall even be cut off from his people.
 <small><sub>**BSB:**</sub></small>
 Anyone who mixes perfume like it or puts it on an outsider shall be cut off from his people.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֚ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7543\|יִרְקַ֣ח]] [[H3644G\|כָּמֹ֔]][[H9033\|הוּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H5414H\|יִתֵּ֛ן]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2114A\|זָ֑ר]] [[H9001\|וְ]][[H3772I\|נִכְרַ֖ת]] [[H9006\|מֵ]][[H5971A\|עַמָּֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING OIL|ANOINTING OIL]] • [[topic CHURCH|CHURCH]] • [[topic OIL|OIL]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.32|<< Exodus 30:32]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.34|Exodus 30:34 >>]]</td></tr></table>
 
@@ -18,7 +76,7 @@ Anyone who mixes perfume like it or puts it on an outsider shall be cut off from
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a stranger  |**<big>&#8207;[[H2114A\|זָ֑ר]]&#8207; </big>**| Zar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will be cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|נִכְרַ֖ת]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nikh.Rat<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from kinspeople\<s> his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5971A\|עַמָּֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from kinspeople\<s> his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5971A\|עַמָּֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.32|<< Exodus 30:32]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.34|Exodus 30:34 >>]]</td></tr></table>
 
 

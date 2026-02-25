@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Satan Bound
+type: Pericope
 pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 20
 book/chapter: "[[Rev.20|Revelation 20]]"
-genre:
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.20.1]]"
 - "[[Rev.20.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.20.6]]"
 ---
 
-[[Rev.20|Revelation 20:1 - Revelation 20:6]]
+<small>[[Rev.20|Revelation 20:1-6]]</small>
 *Satan Bound*
 
 [[Rev.20.1|1]] And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.

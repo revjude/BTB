@@ -1,10 +1,58 @@
+---
+title: Hebrews 2:12
+type: Verse
+kjv: "Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee."
+bsb: "He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.”"
+greek: "λέγων· ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου, ἐν μέσῳ ἐκκλησίας ὑμνήσω σε."
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0518]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1577]]"
+- "[[G5214]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:12**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.
 <small><sub>**BSB:**</sub></small>
 He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.”
-<small><sub>**Literal:**</sub></small>
-saying: I will declare the name of You to the brothers of Mine, in [the] midst of [the] congregation I will sing praises of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.11|<< Hebrews 2:11]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.13|Hebrews 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G0518\|ἀπαγγελῶ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G4771\|σου]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς]]  [[G3165\|μου,]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G1577\|ἐκκλησίας]]  [[G5214\|ὑμνήσω]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BROTHER|BROTHER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.11|<< Hebrews 2:11]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.13|Hebrews 2:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 2:12** is...
 > $\quad$ referencing: [[LXX.Ps.22.22|Ps 22:22]]

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sabbath Laws
+type: Pericope
 pericope: "[[Exod.23.10 Sabbath Laws|Sabbath Laws]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 23
 book/chapter: "[[Exod.23|Exodus 23]]"
-genre:
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 4
 verses:
 - "[[Exod.23.10]]"
 - "[[Exod.23.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Exod.23.13]]"
 ---
 
-[[Exod.23|Exodus 23:10 - Exodus 23:13]]
+<small>[[Exod.23|Exodus 23:10-13]]</small>
 *Sabbath Laws*
 
 [[Exod.23.10|10]] And six years thou shalt sow thy land, and shalt gather in the fruits thereof:

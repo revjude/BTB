@@ -1,8 +1,55 @@
+---
+title: Numbers 10:5
+type: Verse
+kjv: "When ye blow an alarm, then the camps that lie on the east parts shall go forward."
+bsb: "When you sound short blasts, the camps that lie on the east side are to set out."
+hebrew: "וּתְקַעְתֶּ֖ם תְּרוּעָ֑ה וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים קֵֽדְמָה׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H8643]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H2583]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:5**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye blow an alarm, then the camps that lie on the east parts shall go forward.
 <small><sub>**BSB:**</sub></small>
 When you sound short blasts, the camps that lie on the east side are to set out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8628\|תְקַעְתֶּ֖ם]] [[H8643\|תְּרוּעָ֑ה]] [[H9001\|וְ]][[H5265\|נָֽסְעוּ֙]] [[H9009\|הַֽ]][[H4264\|מַּחֲנ֔וֹת]] [[H9009\|הַ]][[H2583\|חֹנִ֖ים]] [[H6924B\|קֵֽדְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.4|<< Numbers 10:4]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.6|Numbers 10:6 >>]]</td></tr></table>
 

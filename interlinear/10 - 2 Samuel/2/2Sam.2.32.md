@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 2:32
+type: Verse
+kjv: "And they took up Asahel, and buried him in the sepulchre of his father, which was in Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day."
+bsb: "And they took Asahel and buried him in his father’s tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak."
+hebrew: "וַיִּשְׂאוּ֙ אֶת־ עֲשָׂהאֵ֔ל וַֽיִּקְבְּרֻ֙הוּ֙ בְּקֶ֣בֶר אָבִ֔יו אֲשֶׁ֖ר בֵּ֣ית לָ֑חֶם וַיֵּלְכ֣וּ כָל־ הַלַּ֗יְלָה יוֹאָב֙ וַֽאֲנָשָׁ֔יו וַיֵּאֹ֥ר לָהֶ֖ם בְּחֶבְרֽוֹן׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6214G]]"
+- "[[H6912]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1035G]]"
+- "[[H1980I]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H0215]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2275A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:32**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took up Asahel, and buried him in the sepulchre of his father, which [was in] Bethlehem. And Joab and his men went all night, and they came to Hebron at break of day.
 <small><sub>**BSB:**</sub></small>
 And they took Asahel and buried him in his father’s tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|יִּשְׂאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6214G\|עֲשָׂהאֵ֔ל]] [[H9001\|וַֽ]][[H6912\|יִּקְבְּרֻ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H6913\|קֶ֣בֶר]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֖ר]] [[H1035G\|בֵּ֣ית]] [[H1035G\|לָ֑חֶם]] [[H9001\|וַ]][[H1980I\|יֵּלְכ֣וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֗יְלָה]] [[H3097G\|יוֹאָב֙]] [[H9002\|וַֽ]][[H0582\|אֲנָשָׁ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0215\|יֵּאֹ֥ר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H2275A\|חֶבְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ASAHEL|ASAHEL]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.31|<< 2 Samuel 2:31]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.1|2 Samuel 3:1 >>]]</td></tr></table>
 

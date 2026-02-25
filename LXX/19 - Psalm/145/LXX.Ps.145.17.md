@@ -1,6 +1,53 @@
+---
+title: LXX Psalm 145:17
+type: Verse
+lxx: "The lord is just in all  his ways, and sacred in all  his works."
+greek: "δίκαιος κύριος εν πάσαις ταις οδοίς αυτού και όσιος εν πάσι τοις έργοις αυτού"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G1342]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3741]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 145:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] just in all  his ways, and sacred in all  his works. 
+<small><sub>**Greek:**</sub></small>
+[[G1342\|δίκαιος]] [[G2962\|κύριος]] [[G1722\|εν]] [[G3956\|πάσαις]] [[G3588\|ταις]] [[G3598\|οδοίς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3741\|όσιος]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G2041\|έργοις]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.145.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.16|<< Psalm 145:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.18|Psalm 145:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -21,6 +68,6 @@
 | all | **<big>[[G3956\|πάσι]]</big>** |
 | \<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | his works. | **<big>[[G2041\|έργοις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Ps.145.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.16|<< Psalm 145:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.18|Psalm 145:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.16|<< Psalm 145:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.18|Psalm 145:18 >>]]</td></tr></table>
 
 

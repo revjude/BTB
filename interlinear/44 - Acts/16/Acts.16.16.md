@@ -1,10 +1,67 @@
+---
+title: Acts 16:16
+type: Verse
+kjv: "And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:"
+bsb: "One day as we were going to the place of prayer, we were met by a slave girl with a spirit of divination, who earned a large income for her masters by fortune-telling."
+greek: "Ἐγένετο δὲ πορευομένων ἡμῶν εἰς τὴν προσευχήν, παιδίσκην τινὰ ἔχουσαν πνεῦμα πύθωνα ὑπαντῆσαι ἡμῖν, ἥτις ἐργασίαν πολλὴν παρεῖχεν τοῖς κυρίοις αὐτῆς μαντευομένη."
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic VENTRILOQUISM|VENTRILOQUISM]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4198]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G3814]]"
+- "[[G5100]]"
+- "[[G2192]]"
+- "[[G4151G]]"
+- "[[G4436]]"
+- "[[G5221]]"
+- "[[G3748]]"
+- "[[G2039]]"
+- "[[G4183]]"
+- "[[G3930]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G3132]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 16:16**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:
 <small><sub>**BSB:**</sub></small>
 One day as we were going to the place of prayer, we were met by a slave girl with a spirit of divination, who earned a large income for her masters by fortune-telling.
-<small><sub>**Literal:**</sub></small>
-It happened now going of us to the [place of] prayer, a girl certain having a spirit Python meeting by us, who gain much was bringing the masters of her by fortune-telling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.15|<< Acts 16:15]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.17|Acts 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G4198\|πορευομένων]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4335\|προσευχήν,]]  [[G3814\|παιδίσκην]]  [[G5100\|τινὰ]]  [[G2192\|ἔχουσαν]]  [[G4151G\|πνεῦμα]]  [[G4436\|πύθωνα]]  [[G5221\|ὑπαντῆσαι]]  [[G3165\|ἡμῖν,]]  [[G3748\|ἥτις]]  [[G2039\|ἐργασίαν]]  [[G4183\|πολλὴν]]  [[G3930\|παρεῖχεν]]  [[G3588\|τοῖς]]  [[G2962H\|κυρίοις]]  [[G0846\|αὐτῆς]]  [[G3132\|μαντευομένη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORCERY|SORCERY]] • [[topic VENTRILOQUISM|VENTRILOQUISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.15|<< Acts 16:15]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.17|Acts 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

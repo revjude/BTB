@@ -1,10 +1,60 @@
+---
+title: Acts 19:10
+type: Verse
+kjv: "And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks."
+bsb: "This continued for two years, so that everyone who lived in the province of Asia, Jews and Greeks alike, heard the word of the Lord."
+greek: "τοῦτο δὲ ἐγένετο ἐπὶ ἔτη δύο, ὥστε πάντας τοὺς κατοικοῦντας τὴν Ἀσίαν ἀκοῦσαι τὸν λόγον τοῦ κυρίου Ἰησοῦ, Ἰουδαίους τε καὶ Ἕλληνας."
+pericope: "[[Acts.19.8 Paul Ministers in Ephesus|Paul Ministers in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic TYRANNUS|TYRANNUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G2094]]"
+- "[[G1417]]"
+- "[[G5620]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G0773]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1672]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 19:10**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 <small><sub>**BSB:**</sub></small>
 This continued for two years, so that everyone who lived in the province of Asia, Jews and Greeks alike, heard the word of the Lord.
-<small><sub>**Literal:**</sub></small>
-This then continued for years two, so that all those inhabiting <the> Asia hearing the word of the Lord Jesus Jews both and Greeks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.9|<< Acts 19:9]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.11|Acts 19:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G2094\|ἔτη]]  [[G1417\|δύο,]]  [[G5620\|ὥστε]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2730\|κατοικοῦντας]]  [[G3588\|τὴν]]  [[G0773\|Ἀσίαν]]  [[G0191\|ἀκοῦσαι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ,]]  [[G2453\|Ἰουδαίους]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλληνας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TYRANNUS|TYRANNUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.9|<< Acts 19:9]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.11|Acts 19:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

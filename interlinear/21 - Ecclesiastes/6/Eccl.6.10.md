@@ -1,8 +1,64 @@
+---
+title: Ecclesiastes 6:10
+type: Verse
+kjv: "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he."
+bsb: "Whatever exists was named long ago, and it is known what man is; but he cannot contend with one stronger than he."
+hebrew: "מַה־ שֶּֽׁהָיָ֗ה כְּבָר֙ נִקְרָ֣א שְׁמ֔וֹ וְנוֹדָ֖ע אֲשֶׁר־ ה֣וּא אָדָ֑ם וְלֹא־ יוּכַ֣ל לָדִ֔ין עִ֥ם שֶׁתַּקִּ֖יף מִמֶּֽנּוּ׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H3528]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H1777]]"
+- "[[H5973A]]"
+- "[[H8630]]"
+- "[[H8623]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 6:10**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which hath been is named already, and it is known that it [is] man: neither may he contend with him that is mightier than he.
 <small><sub>**BSB:**</sub></small>
 Whatever exists was named long ago, and it is known what man is; but he cannot contend with one stronger than he.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶּֽׁ]][[H1961\|הָיָ֗ה]] [[H3528\|כְּבָר֙]] [[H7121H\|נִקְרָ֣א]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3045\|נוֹדָ֖ע]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H0120G\|אָדָ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֣ל]] [[H9005\|לָ]][[H1777\|דִ֔ין]] [[H5973A\|עִ֥ם]] [[H9007\|שֶׁ]][[H8623\|תַּקִּ֖יף]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
@@ -25,7 +81,7 @@ Whatever exists was named long ago, and it is known what man is; but he cannot c
 | more than him  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
-[^1]: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
-[^2]: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
+[^1]: [one] who to make mighty  | **<big>[[H9007|שֶׁ]]</big><big>[[H8630|הַתְקִיף]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
+[^2]: [one] who to make mighty  | **<big>[[H9007|שֶׁ]]</big><big>[[H8630|הַתְקִיף]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>שֶׁהתַּקִּ֖יף</big></span>**
 

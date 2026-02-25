@@ -1,10 +1,61 @@
+---
+title: Acts 20:38
+type: Verse
+kjv: "Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship."
+bsb: "They were especially grieved by his statement that they would never see his face again. Then they accompanied him to the ship."
+greek: "ὀδυνώμενοι μάλιστα ἐπὶ τῷ λόγῳ ᾧ εἰρήκει ὅτι οὐκέτι οὐκέτι μέλλουσιν τὸ πρόσωπον αὐτοῦ θεωρεῖν. προέπεμπον δὲ αὐτὸν εἰς τὸ πλοῖον.¶"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G3600]]"
+- "[[G3122]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3195]]"
+- "[[G4383]]"
+- "[[G0846]]"
+- "[[G2334]]"
+- "[[G4311]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G4143]]"
+texts:
+- NKO
+---
+
 **Acts 20:38**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
 <small><sub>**BSB:**</sub></small>
 They were especially grieved by his statement that they would never see his face again. Then they accompanied him to the ship.
-<small><sub>**Literal:**</sub></small>
-sorrowing especially over the word that he had spoken that no longer they are about the face of him to see. They were accompanying then him to the ship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.37|<< Acts 20:37]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.1|Acts 21:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3600\|ὀδυνώμενοι]]  [[G3122\|μάλιστα]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3739\|ᾧ]]  [[G2036\|εἰρήκει]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3195\|μέλλουσιν]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G0846\|αὐτοῦ]]  [[G2334\|θεωρεῖν.]]  [[G4311\|προέπεμπον]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.37|<< Acts 20:37]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.1|Acts 21:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

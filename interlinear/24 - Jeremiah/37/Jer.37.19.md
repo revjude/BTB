@@ -1,8 +1,65 @@
+---
+title: Jeremiah 37:19
+type: Verse
+kjv: "Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?"
+bsb: "Where are your prophets who prophesied to you, claiming, ‘The king of Babylon will not come against you or this land’?"
+hebrew: "וְאַיֵּה֙ נְבִ֣יאֵיכֶ֔ם אֲשֶׁר־ נִבְּא֥וּ לָכֶ֖ם לֵאמֹ֑ר לֹֽא־ יָבֹ֤א מֶֽלֶךְ־ בָּבֶל֙ עֲלֵיכֶ֔ם וְעַ֖ל הָאָ֥רֶץ הַזֹּֽאת׃"
+pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0335]]"
+- "[[H9043]]"
+- "[[H0346]]"
+- "[[H5030]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5012]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Jeremiah 37:19**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?
 <small><sub>**BSB:**</sub></small>
 Where are your prophets who prophesied to you, claiming, ‘The king of Babylon will not come against you or this land’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0346\|אַיֵּה֙]] [[H5030\|נְבִ֣יאֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5012\|נִבְּא֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|יָבֹ֤א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.18|<< Jeremiah 37:18]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.20|Jeremiah 37:20 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ Where are your prophets who prophesied to you, claiming, ‘The king of Babylon 
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.18|<< Jeremiah 37:18]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.20|Jeremiah 37:20 >>]]</td></tr></table>
 
-[^1]: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and where [is]? he  | **<big>[[H9002|וְ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9043|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and where [is]? he  | **<big>[[H9002|וְ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9043|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְאַיֵּ/ו֙</big></span>**
 

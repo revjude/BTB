@@ -1,10 +1,66 @@
+---
+title: Revelation 20:2
+type: Verse
+kjv: "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+bsb: "He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years."
+greek: "καὶ ἐκράτησεν τὸν δράκοντα, ὁ ὄφις ὁ ἀρχαῖος, ὅς ἐστιν διάβολος καὶ ὁ Σατανᾶς. ὁ πλανῶν τὴν οἰκουμένην ὅλην, καὶ ἔδησεν αὐτὸν χίλια ἔτη"
+pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2902]]"
+- "[[G3588]]"
+- "[[G1404]]"
+- "[[G3789]]"
+- "[[G0744]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1228]]"
+- "[[G4567]]"
+- "[[G4105]]"
+- "[[G3625]]"
+- "[[G3650]]"
+- "[[G1210]]"
+- "[[G0846]]"
+- "[[G5507]]"
+- "[[G2094]]"
+texts:
+- NKO
+- N(k)O
+- no
+- O
+---
+
 **Revelation 20:2**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
 <small><sub>**BSB:**</sub></small>
 He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years.
-<small><sub>**Literal:**</sub></small>
-And he seized the dragon, the serpent <the> ancient, who is [the] devil and <the> Satan; who is deceiving the world all and bound him for a thousand years<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.1|<< Revelation 20:1]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.3|Revelation 20:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2902\|ἐκράτησεν]]  [[G3588\|τὸν]]  [[G1404\|δράκοντα,]]  [[G3588\|ὁ]]  [[G3789\|ὄφις]]  [[G3588\|ὁ]]  [[G0744\|ἀρχαῖος,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G1228\|διάβολος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4567\|Σατανᾶς.]]  [[G3588\|ὁ]]  [[G4105\|πλανῶν]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην]]  [[G3650\|ὅλην,]]  [[G2532\|καὶ]]  [[G1210\|ἔδησεν]]  [[G0846\|αὐτὸν]]  [[G5507\|χίλια]]  [[G2094\|ἔτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]] • [[topic YEAR|YEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.1|<< Revelation 20:1]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.3|Revelation 20:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

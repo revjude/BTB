@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plague on the Firstborn Foretold
+type: Pericope
 pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 11
 book/chapter: "[[Exod.11|Exodus 11]]"
-genre:
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.11.1]]"
 - "[[Exod.11.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.11.10]]"
 ---
 
-[[Exod.11|Exodus 11:1 - Exodus 11:10]]
+<small>[[Exod.11|Exodus 11:1-10]]</small>
 *The Plague on the Firstborn Foretold*
 
 [[Exod.11.1|1]] And the LORD said unto Moses, Yet will I bring one plague \[more\] upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let \[you\] go, he shall surely thrust you out hence altogether.

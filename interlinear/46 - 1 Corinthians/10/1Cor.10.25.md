@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 10:25
+type: Verse
+kjv: "Whatsoever is sold in the shambles, that eat, asking no question for conscience sake:"
+bsb: "Eat anything sold in the meat market without raising questions of conscience,"
+greek: "Πᾶν τὸ ἐν μακέλλῳ πωλούμενον ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν·"
+pericope: "[[1Cor.10.23 All to God’s Glory|All to God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3111]]"
+- "[[G4453]]"
+- "[[G2068]]"
+- "[[G3367]]"
+- "[[G0350]]"
+- "[[G1223]]"
+- "[[G4893]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:25**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whatsoever is sold in the shambles, [that] eat, asking no question for conscience sake:
 <small><sub>**BSB:**</sub></small>
 Eat anything sold in the meat market without raising questions of conscience,
-<small><sub>**Literal:**</sub></small>
-Everything <the> in the meat market being sold do eat nothing inquiring on account of <the> conscience;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.24|<< 1 Corinthians 10:24]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.26|1 Corinthians 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶν]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G3111\|μακέλλῳ]]  [[G4453\|πωλούμενον]]  [[G2068\|ἐσθίετε]]  [[G3367\|μηδὲν]]  [[G0350\|ἀνακρίνοντες]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G4893\|συνείδησιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXPEDIENCY|EXPEDIENCY]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.24|<< 1 Corinthians 10:24]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.26|1 Corinthians 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

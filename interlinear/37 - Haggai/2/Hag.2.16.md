@@ -1,8 +1,57 @@
+---
+title: Haggai 2:16
+type: Verse
+kjv: "Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."
+bsb: "from that time, when one came expecting a heap of twenty ephahs of grain, there were but ten. When one came to the winepress to draw out fifty baths, there were but twenty."
+hebrew: "מִֽהְיוֹתָ֥ם בָּא֙ אֶל־ עֲרֵמַ֣ת עֶשְׂרִ֔ים וְהָיְתָ֖ה עֲשָׂרָ֑ה בָּ֣א אֶל־ הַיֶּ֗קֶב לַחְשֹׂף֙ חֲמִשִּׁ֣ים פּוּרָ֔ה וְהָיְתָ֖ה עֶשְׂרִֽים׃"
+pericope: "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+strongs:
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H9048]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6194]]"
+- "[[H6242]]"
+- "[[H9001]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H3342]]"
+- "[[H9005]]"
+- "[[H2834]]"
+- "[[H2572]]"
+- "[[H6333]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:16**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since those [days] were, when [one] came to an heap of twenty [measures], there were [but] ten: when [one] came to the pressfat for to draw out fifty [vessels] out of the press, there were [but] twenty.
 <small><sub>**BSB:**</sub></small>
 from that time, when one came expecting a heap of twenty ephahs of grain, there were but ten. When one came to the winepress to draw out fifty baths, there were but twenty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִֽ]][[H1961\|הְיוֹתָ֥]][[H9048\|ם]] [[H0935G\|בָּא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6194\|עֲרֵמַ֣ת]] [[H6242\|עֶשְׂרִ֔ים]] [[H9001\|וְ]][[H1961\|הָיְתָ֖ה]] [[H6235\|עֲשָׂרָ֑ה]] [[H0935G\|בָּ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3342\|יֶּ֗קֶב]] [[H9005\|לַ]][[H2834\|חְשֹׂף֙]] [[H2572\|חֲמִשִּׁ֣ים]] [[H6333\|פּוּרָ֔ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֖ה]] [[H6242\|עֶשְׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKEWARMNESS|LUKEWARMNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.15|<< Haggai 2:15]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.17|Haggai 2:17 >>]]</td></tr></table>
 

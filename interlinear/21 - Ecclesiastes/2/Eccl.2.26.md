@@ -1,8 +1,71 @@
+---
+title: Ecclesiastes 2:26
+type: Verse
+kjv: "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit."
+bsb: "To the man who is pleasing in His sight, He gives wisdom and knowledge and joy, but to the sinner He assigns the task of gathering and accumulating that which he will hand over to one who pleases God. This too is futile and a pursuit of the wind."
+hebrew: "כִּ֤י לְאָדָם֙ שֶׁטּ֣וֹב לְפָנָ֔יו נָתַ֛ן חָכְמָ֥ה וְדַ֖עַת וְשִׂמְחָ֑ה וְלַחוֹטֶא֩ נָתַ֨ן עִנְיָ֜ן לֶאֱס֣וֹף וְלִכְנ֗וֹס לָתֵת֙ לְטוֹב֙ לִפְנֵ֣י הָֽאֱלֹהִ֔ים גַּם־ זֶ֥ה הֶ֖בֶל וּרְע֥וּת רֽוּחַ׃"
+pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H9007]]"
+- "[[H2896A]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H8057]]"
+- "[[H2398]]"
+- "[[H6045]]"
+- "[[H0622]]"
+- "[[H3664]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H7469]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:26**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [God] giveth to a man that [is] good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to [him that is] good before God. This also [is] vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
 To the man who is pleasing in His sight, He gives wisdom and knowledge and joy, but to the sinner He assigns the task of gathering and accumulating that which he will hand over to one who pleases God. This too is futile and a pursuit of the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9005\|לְ]][[H0120G\|אָדָם֙]] [[H9007\|שֶׁ]][[H2896A\|טּ֣וֹב]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H5414G\|נָתַ֛ן]] [[H2451\|חָכְמָ֥ה]] [[H9002\|וְ]][[H1847\|דַ֖עַת]] [[H9002\|וְ]][[H8057\|שִׂמְחָ֑ה]] [[H9002\|וְ]][[H9005\|לַ]][[H2398\|חוֹטֶא֩]] [[H5414G\|נָתַ֨ן]] [[H6045\|עִנְיָ֜ן]] [[H9005\|לֶ]][[H0622\|אֱס֣וֹף]] [[H9002\|וְ]][[H9005\|לִ]][[H3664\|כְנ֗וֹס]] [[H9005\|לָ]][[H5414G\|תֵת֙]] [[H9005\|לְ]][[H2896A\|טוֹב֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֖בֶל]] [[H9002\|וּ]][[H7469\|רְע֥וּת]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JOY|JOY]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.25|<< Ecclesiastes 2:25]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.1|Ecclesiastes 3:1 >>]]</td></tr></table>
 

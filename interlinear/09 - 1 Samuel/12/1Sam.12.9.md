@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 12:9
+type: Verse
+kjv: "And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."
+bsb: "But they forgot the LORD their God, and He sold them into the hand of Sisera the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them."
+hebrew: "וַֽיִּשְׁכְּח֖וּ אֶת־ יְהוָ֣ה אֱלֹהֵיהֶ֑ם וַיִּמְכֹּ֣ר אֹתָ֡ם בְּיַ֣ד סִֽיסְרָא֩ שַׂר־ צְבָ֨א חָצ֜וֹר וּבְיַד־ פְּלִשְׁתִּ֗ים וּבְיַד֙ מֶ֣לֶךְ מוֹאָ֔ב וַיִּֽלָּחֲמ֖וּ בָּֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H4376]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H5516G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H2674G]]"
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H4428G]]"
+- "[[H4124G]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:9**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
 <small><sub>**BSB:**</sub></small>
 But they forgot the LORD their God, and He sold them into the hand of Sisera the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7911\|יִּשְׁכְּח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H4376\|יִּמְכֹּ֣ר]] [[H0853\|אֹתָ֡]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H5516G\|סִֽיסְרָא֩]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֨א]] [[H2674G\|חָצ֜וֹר]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֗ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HAZOR|HAZOR]] • [[topic PRAYER|PRAYER]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.8|<< 1 Samuel 12:8]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.10|1 Samuel 12:10 >>]]</td></tr></table>
 

@@ -13,7 +13,7 @@
 
 → Omitted in mourning [[2Sam.12.20|2Sa 12:20]]; [[2Sam.14.2|14:2]]; [[Isa.61.3|Isa 61:3]]; [[Dan.10.3|Da 10:3]]
 
-→ God Preserves those who receive [[Ps.18.50|Ps 18:50]]; [[Ps.20.6|20:6]]; [[Ps.89.20|89:20]]-[[Ps.89.23|23]]
+→ God Preserves those who receive [[Ps.18.50|Ps 18:50]]; [[Ps.20.6|20:6]]; [[Ps.89.20|89:20-23]]
 
 → Saints receive [[Isa.61.3|Isa 61:3]]; [[1John.2.20|1Jo  2:20]]
 
@@ -31,7 +31,7 @@
 
 - Solomon [[1Kgs.1.39|1Ki 1:39]]; [[1Chr.29.22|1Ch 29:22]]
 
-- Jehu [[1Kgs.19.16|1Ki 19:16]]; [[2Kgs.9.1|2Ki 9:1]]-[[2Kgs.9.3|3]],[[2Kgs.9.6|6]],[[2Kgs.9.12|12]]
+- Jehu [[1Kgs.19.16|1Ki 19:16]]; [[2Kgs.9.1|2Ki 9:1-3]],[[2Kgs.9.6|6]],[[2Kgs.9.12|12]]
 
 - Hazael [[1Kgs.19.15|1Ki 19:15]]
 
@@ -45,7 +45,7 @@
 
 - OF THE TABERNACLE [[Exod.30.26|Ex 30:26]]; [[Exod.40.9|40:9]]; [[Lev.8.10|Le 8:10]]; [[Num.7.1|Nu 7:1]]
 
-- Altars of [[Exod.30.26|Ex 30:26]]-[[Exod.30.28|28]]; [[Exod.40.10|40:10]]; [[Lev.8.11|Le 8:11]]; [[Num.7.1|Nu 7:1]]
+- Altars of [[Exod.30.26|Ex 30:26-28]]; [[Exod.40.10|40:10]]; [[Lev.8.11|Le 8:11]]; [[Num.7.1|Nu 7:1]]
 
 - Vessels of [[Exod.30.27|Ex 30:27]],[[Exod.30.28|28]]; [[Exod.40.9|40:9]],[[Exod.40.10|10]]; [[Lev.8.10|Le 8:10]],[[Lev.8.11|11]]; [[Num.7.1|Nu 7:1]]
 
@@ -59,9 +59,9 @@
 
 - Of spiritual gifts [[2Cor.1.21|2Co 1:21]]; [[1John.2.20|1Jo  2:20]],[[1John.2.27|27]]
 
-→ TYPIFIED [[Exod.40.13|Ex 40:13]]-[[Exod.40.15|15]]; [[Lev.8.12|Le 8:12]]; [[1Sam.16.13|1Sa 16:13]]; [[1Kgs.19.16|1Ki 19:16]]
+→ TYPIFIED [[Exod.40.13|Ex 40:13-15]]; [[Lev.8.12|Le 8:12]]; [[1Sam.16.13|1Sa 16:13]]; [[1Kgs.19.16|1Ki 19:16]]
 
 → SYMBOLICAL
 
-- Of Jesus [[Matt.26.7|Mt 26:7]]-[[Matt.26.12|12]]; [[John.12.3|Joh 12:3]]-[[John.12.7|7]]
+- Of Jesus [[Matt.26.7|Mt 26:7-12]]; [[John.12.3|Joh 12:3-7]]
 

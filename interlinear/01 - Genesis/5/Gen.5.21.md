@@ -1,8 +1,56 @@
+---
+title: Genesis 5:21
+type: Verse
+kjv: "And Enoch lived sixty and five years, and begat Methuselah:"
+bsb: "When Enoch was 65 years old, he became the father of Methuselah."
+hebrew: "וַֽיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־ מְתוּשָֽׁלַח׃"
+pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic METHUSELAH|METHUSELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H2585H]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H8141]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4968]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:21**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Enoch lived sixty and five years, and begat Methuselah:
 <small><sub>**BSB:**</sub></small>
 When Enoch was 65 years old, he became the father of Methuselah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִ֣י]] [[H2585H\|חֲנ֔וֹךְ]] [[H2568\|חָמֵ֥שׁ]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H4968\|מְתוּשָֽׁלַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENOCH|ENOCH]] • [[topic METHUSELAH|METHUSELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.20|<< Genesis 5:20]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.22|Genesis 5:22 >>]]</td></tr></table>
 

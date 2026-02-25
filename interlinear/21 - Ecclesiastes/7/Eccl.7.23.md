@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 7:23
+type: Verse
+kjv: "All this have I proved by wisdom: I said, I will be wise; but it was far from me."
+bsb: "All this I tested by wisdom, saying, “I resolve to be wise.” But it was beyond me."
+hebrew: "כָּל־ זֹ֖ה נִסִּ֣יתִי בַֽחָכְמָ֑ה אָמַ֣רְתִּי אֶחְכָּ֔מָה וְהִ֖יא רְחוֹקָ֥ה מִמֶּֽנִּי׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2090]]"
+- "[[H5254G]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H0559]]"
+- "[[H2449]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7350]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:23**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All this have I proved by wisdom: I said, I will be wise; but it [was] far from me.
 <small><sub>**BSB:**</sub></small>
 All this I tested by wisdom, saying, “I resolve to be wise.” But it was beyond me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H2090\|זֹ֖ה]] [[H5254G\|נִסִּ֣יתִי]] [[H9003\|בַֽ]][[H2451\|חָכְמָ֑ה]] [[H0559\|אָמַ֣רְתִּי]] [[H2449\|אֶחְכָּ֔מָה]] [[H9002\|וְ]][[H1931\|הִ֖יא]] [[H7350\|רְחוֹקָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.22|<< Ecclesiastes 7:22]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.24|Ecclesiastes 7:24 >>]]</td></tr></table>
 

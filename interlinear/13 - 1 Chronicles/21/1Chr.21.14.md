@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 21:14
+type: Verse
+kjv: "So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men."
+bsb: "So the LORD sent a plague upon Israel, and seventy thousand men of Israel fell dead."
+hebrew: "וַיִּתֵּ֧ן יְהוָ֛ה דֶּ֖בֶר בְּיִשְׂרָאֵ֑ל וַיִּפֹּל֙ מִיִּשְׂרָאֵ֔ל שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[1Chr.21.14 A Plague on Israel|A Plague on Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H1698]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H5307J]]"
+- "[[H9006]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:14**<big><big>[[1Chr.21.14 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men.
 <small><sub>**BSB:**</sub></small>
 So the LORD sent a plague upon Israel, and seventy thousand men of Israel fell dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H1698\|דֶּ֖בֶר]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5307J\|יִּפֹּל֙]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֔ל]] [[H7657\|שִׁבְעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.13|<< 1 Chronicles 21:13]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.15|1 Chronicles 21:15 >>]]</td></tr></table>
 

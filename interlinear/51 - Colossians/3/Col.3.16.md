@@ -1,10 +1,74 @@
+---
+title: Colossians 3:16
+type: Verse
+kjv: "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
+bsb: "Let the word of Christ richly dwell within you as you teach and admonish one another with all wisdom, and as you sing psalms, hymns, and spiritual songs with gratitude in your hearts to God."
+greek: "Ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως, ἐν πάσῃ σοφίᾳ, διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς, καὶ ὕμνοις, καὶ ᾠδαῖς πνευματικαῖς ἐν τῇ χάριτι ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ θεῷ·"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G5547]]"
+- "[[G1774]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4146]]"
+- "[[G3956]]"
+- "[[G4678]]"
+- "[[G1321]]"
+- "[[G2532]]"
+- "[[G3560]]"
+- "[[G1438]]"
+- "[[G5568]]"
+- "[[G5215]]"
+- "[[G5603]]"
+- "[[G4152]]"
+- "[[G5485]]"
+- "[[G0103]]"
+- "[[G2588]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **Colossians 3:16**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 <small><sub>**BSB:**</sub></small>
 Let the word of Christ richly dwell within you as you teach and admonish one another with all wisdom, and as you sing psalms, hymns, and spiritual songs with gratitude in your hearts to God.
-<small><sub>**Literal:**</sub></small>
-The word <the> of Christ should dwell in you richly, in all wisdom teaching and admonishing yourselves in psalms, and in hymns, and in songs spiritual with <the> grace singing in the hearts of you <the> to God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.15|<< Colossians 3:15]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.17|Colossians 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1774\|ἐνοικείτω]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4146\|πλουσίως,]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4678\|σοφίᾳ,]]  [[G1321\|διδάσκοντες]]  [[G2532\|καὶ]]  [[G3560\|νουθετοῦντες]]  [[G1438\|ἑαυτοὺς]]  [[G5568\|ψαλμοῖς,]]  [[G2532\|καὶ]]  [[G5215\|ὕμνοις,]]  [[G2532\|καὶ]]  [[G5603\|ᾠδαῖς]]  [[G4152\|πνευματικαῖς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5485\|χάριτι]]  [[G0103\|ᾄδοντες]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOSPEL|GOSPEL]] • [[topic MUSIC|MUSIC]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.15|<< Colossians 3:15]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.17|Colossians 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

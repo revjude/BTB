@@ -1,8 +1,65 @@
+---
+title: Isaiah 59:13
+type: Verse
+kjv: "In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood."
+bsb: "rebelling and denying the LORD, turning away from our God, speaking oppression and revolt, conceiving and uttering lies from the heart."
+hebrew: "פָּשֹׁ֤עַ וְכַחֵשׁ֙ בַּֽיהוָ֔ה וְנָס֖וֹג מֵאַחַ֣ר אֱלֹהֵ֑ינוּ דַּבֶּר־ עֹ֣שֶׁק וְסָרָ֔ה הֹר֧וֹ וְהֹג֛וֹ מִלֵּ֖ב דִּבְרֵי־ שָֽׁקֶר׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H6586]]"
+- "[[H9002]]"
+- "[[H3584]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H5253]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H6233]]"
+- "[[H5627]]"
+- "[[H2029]]"
+- "[[H1897]]"
+- "[[H3820A]]"
+- "[[H1697G]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:13**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 <small><sub>**BSB:**</sub></small>
 rebelling and denying the LORD, turning away from our God, speaking oppression and revolt, conceiving and uttering lies from the heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H6586\|פָּשֹׁ֤עַ]] [[H9002\|וְ]][[H3584\|כַחֵשׁ֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H5253\|נָס֖וֹג]] [[H9006\|מֵ]][[H0310A\|אַחַ֣ר]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H1696G\|דַּבֶּר]][[H9014\|־]] [[H6233\|עֹ֣שֶׁק]] [[H9002\|וְ]][[H5627\|סָרָ֔ה]] [[H2029\|הֹר֧וֹ]] [[H9002\|וְ]][[H1897\|הֹג֛וֹ]] [[H9006\|מִ]][[H3820A\|לֵּ֖ב]] [[H1697G\|דִּבְרֵי]][[H9014\|־]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 

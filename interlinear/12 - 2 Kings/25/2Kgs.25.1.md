@@ -1,8 +1,76 @@
+---
+title: 2 Kings 25:1
+type: Verse
+kjv: "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about."
+bsb: "So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it."
+hebrew: "וַיְהִי֩ בִשְׁנַ֨ת הַתְּשִׁיעִ֜ית לְמָלְכ֗וֹ בַּחֹ֣דֶשׁ הָעֲשִׂירִי֮ בֶּעָשׂ֣וֹר לַחֹדֶשׁ֒ בָּ֠א נְבֻכַדְנֶאצַּ֨ר מֶֽלֶךְ־ בָּבֶ֜ל ה֧וּא וְכָל־ חֵיל֛וֹ עַל־ יְרוּשָׁלִַ֖ם וַיִּ֣חַן עָלֶ֑יהָ וַיִּבְנ֥וּ עָלֶ֖יהָ דָּיֵ֥ק סָבִֽיב׃"
+pericope: "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FORT|FORT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8671]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H6218]]"
+- "[[H0935G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2428A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H2583]]"
+- "[[H9034]]"
+- "[[H1129]]"
+- "[[H1785]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:1**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the ninth year of his reign, in the tenth month, in the tenth [day] of the month, [that] Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
 <small><sub>**BSB:**</sub></small>
 So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בִ]][[H8141\|שְׁנַ֨ת]] [[H9009\|הַ]][[H8671\|תְּשִׁיעִ֜ית]] [[H9005\|לְ]][[H4427A\|מָלְכ֗]][[H9033\|וֹ]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H6224\|עֲשִׂירִי֮]] [[H9003\|בֶּ]][[H6218\|עָשׂ֣וֹר]] [[H9005\|לַ]][[H2320G\|חֹדֶשׁ֒]] [[H0935G\|בָּ֠א]] [[H5019\|נְבֻכַדְנֶאצַּ֨ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H1931\|ה֧וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2428A\|חֵיל֛]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9001\|וַ]][[H2583\|יִּ֣חַן]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H1129\|יִּבְנ֥וּ]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H1785\|דָּיֵ֥ק]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FORT|FORT]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic PROPHECY|PROPHECY]] • [[topic SIEGE|SIEGE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.20|<< 2 Kings 24:20]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.2|2 Kings 25:2 >>]]</td></tr></table>
 

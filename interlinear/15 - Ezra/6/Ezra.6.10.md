@@ -1,8 +1,63 @@
+---
+title: Ezra 6:10
+type: Verse
+kjv: "That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."
+bsb: "Then they will be able to offer sacrifices of a sweet aroma to the God of heaven and to pray for the lives of the king and his sons."
+aramaic: "דִּֽי־ לֶהֱוֹ֧ן מְהַקְרְבִ֛ין נִיחוֹחִ֖ין לֶאֱלָ֣הּ שְׁמַיָּ֑א וּמְצַלַּ֕יִן לְחַיֵּ֥י מַלְכָּ֖א וּבְנֽוֹהִי׃"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KING|KING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1934]]"
+- "[[H7127]]"
+- "[[H5208]]"
+- "[[H9005]]"
+- "[[H0426]]"
+- "[[H8065]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H6739]]"
+- "[[H2417]]"
+- "[[H4430]]"
+- "[[H1247]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:10**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
 <small><sub>**BSB:**</sub></small>
 Then they will be able to offer sacrifices of a sweet aroma to the God of heaven and to pray for the lives of the king and his sons.
+<small><sub>**Aramaic:**</sub></small>
+[[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|לֶהֱוֹ֧ן]] [[H7127\|מְהַקְרְבִ֛ין]] [[H5208\|נִיחוֹחִ֖ין]] [[H9005\|לֶ]][[H0426\|אֱלָ֣הּ]] [[H8065\|שְׁמַיָּ֑]][[H9010\|א]] [[H9002\|וּ]][[H6739\|מְצַלַּ֕יִן]] [[H9005\|לְ]][[H2417\|חַיֵּ֥י]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H9002\|וּ]][[H1247\|בְנֽוֹ]][[H9023\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CITIZENS|CITIZENS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KING|KING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOYALTY|LOYALTY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.9|<< Ezra 6:9]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.11|Ezra 6:11 >>]]</td></tr></table>
 

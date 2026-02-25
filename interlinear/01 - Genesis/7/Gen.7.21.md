@@ -1,8 +1,64 @@
+---
+title: Genesis 7:21
+type: Verse
+kjv: "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:"
+bsb: "And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind."
+hebrew: "וַיִּגְוַ֞ע כָּל־ בָּשָׂ֣ר׀ הָרֹמֵ֣שׂ עַל־ הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל־ הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־ הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1478]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H5775]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H2416C]]"
+- "[[H8318]]"
+- "[[H8317]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:21**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:
 <small><sub>**BSB:**</sub></small>
 And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1478\|יִּגְוַ֞ע]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֣ר]][[H9015\|׀]] [[H9009\|הָ]][[H7430\|רֹמֵ֣שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9003\|בָּ]][[H5775\|ע֤וֹף]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָה֙]] [[H9002\|וּ]][[H9003\|בַ֣]][[H2416C\|חַיָּ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8318\|שֶּׁ֖רֶץ]] [[H9009\|הַ]][[H8317\|שֹּׁרֵ֣ץ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic RAIN|RAIN]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.20|<< Genesis 7:20]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.22|Genesis 7:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

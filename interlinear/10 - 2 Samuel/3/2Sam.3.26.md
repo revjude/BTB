@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 3:26
+type: Verse
+kjv: "And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not."
+bsb: "As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it."
+hebrew: "וַיֵּצֵ֤א יוֹאָב֙ מֵעִ֣ם דָּוִ֔ד וַיִּשְׁלַ֤ח מַלְאָכִים֙ אַחֲרֵ֣י אַבְנֵ֔ר וַיָּשִׁ֥בוּ אֹת֖וֹ מִבּ֣וֹר הַסִּרָ֑ה וְדָוִ֖ד לֹ֥א יָדָֽע׃"
+pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SIRAH|SIRAH]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3097G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H1732]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0310A]]"
+- "[[H0074]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0953B]]"
+- "[[H9009]]"
+- "[[H5626]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:26**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew [it] not.
 <small><sub>**BSB:**</sub></small>
 As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H3097G\|יוֹאָב֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H4397G\|מַלְאָכִים֙]] [[H0310A\|אַחֲרֵ֣י]] [[H0074\|אַבְנֵ֔ר]] [[H9001\|וַ]][[H7725G\|יָּשִׁ֥בוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H0953B\|בּ֣וֹר]] [[H9009\|הַ]][[H5626\|סִּרָ֑ה]] [[H9002\|וְ]][[H1732\|דָוִ֖ד]] [[H3808\|לֹ֥א]] [[H3045\|יָדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SIRAH|SIRAH]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.25|<< 2 Samuel 3:25]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.27|2 Samuel 3:27 >>]]</td></tr></table>
 

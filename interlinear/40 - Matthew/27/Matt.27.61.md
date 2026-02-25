@@ -1,10 +1,55 @@
+---
+title: Matthew 27:61
+type: Verse
+kjv: "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre."
+bsb: "Mary Magdalene and the other Mary were sitting there opposite the tomb."
+greek: "ἦν δὲ ἐκεῖ Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία καθήμεναι ἀπέναντι τοῦ τάφου.¶"
+pericope: "[[Matt.27.57 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G3137I]]"
+- "[[G3588]]"
+- "[[G3094]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G3137G]]"
+- "[[G2521]]"
+- "[[G0561]]"
+- "[[G5028]]"
+texts:
+- NKO
+---
+
 **Matthew 27:61**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene and the other Mary were sitting there opposite the tomb.
-<small><sub>**Literal:**</sub></small>
-Was now there Mary <the> Magdalene and the other Mary sitting opposite the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.60|<< Matthew 27:60]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.62|Matthew 27:62 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G3137I\|Μαριὰμ]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0243\|ἄλλη]]  [[G3137G\|Μαρία]]  [[G2521\|καθήμεναι]]  [[G0561\|ἀπέναντι]]  [[G3588\|τοῦ]]  [[G5028\|τάφου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.60|<< Matthew 27:60]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.62|Matthew 27:62 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

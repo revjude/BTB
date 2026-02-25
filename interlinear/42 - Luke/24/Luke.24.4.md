@@ -1,10 +1,60 @@
+---
+title: Luke 24:4
+type: Verse
+kjv: "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+bsb: "While they were puzzling over this, suddenly two men in radiant apparel stood beside them."
+greek: "Καὶ ἐγένετο ἐν τῷ ἀπορεῖσθαι αὐτὰς περὶ τούτου καὶ ἰδοὺ ἄνδρες δύο ἐπέστησαν αὐταῖς ἐν ἐσθῆτι ἀστραπτούσῃ."
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0639]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G1417]]"
+- "[[G2186]]"
+- "[[G2066]]"
+- "[[G0797]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:4**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:
 <small><sub>**BSB:**</sub></small>
 While they were puzzling over this, suddenly two men in radiant apparel stood beside them.
-<small><sub>**Literal:**</sub></small>
-And it came to pass while <the> perplexing they about this that behold men two stood by them in garment dazzling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.3|<< Luke 24:3]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.5|Luke 24:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0639\|ἀπορεῖσθαι]]  [[G0846\|αὐτὰς]]  [[G4012\|περὶ]]  [[G3778\|τούτου]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἄνδρες]]  [[G1417\|δύο]]  [[G2186\|ἐπέστησαν]]  [[G0846\|αὐταῖς]]  [[G1722\|ἐν]]  [[G2066\|ἐσθῆτι]]  [[G0797\|ἀστραπτούσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.3|<< Luke 24:3]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.5|Luke 24:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

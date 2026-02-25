@@ -1,6 +1,61 @@
+---
+title: LXX Exodus 16:28
+type: Verse
+lxx: "And the lord said to Moses, For how long will you not listen to  my commandments, and  my law?"
+greek: "είπε δε κύριος προς Μωυσήν έως τίνος ου βούλεσθε εισακούειν τας εντολάς μου και τον νόμον μου"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G3475]]"
+- "[[G2193]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G1014]]"
+- "[[G1522]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 16:28** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, For how \[long\] will you not listen to  my commandments, and  my law? 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G2962\|κύριος]] [[G4314\|προς]] [[G3475\|Μωυσήν]] [[G2193\|έως]] [[G5100\|τίνος]] [[G3756\|ου]] [[G1014\|βούλεσθε]] [[G1522\|εισακούειν]] [[G3588\|τας]] [[G1785\|εντολάς]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|τον]] [[G3551\|νόμον]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.27|<< Exodus 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.29|Exodus 16:29 >>]]</td></tr></table>
 
@@ -19,6 +74,6 @@ And \[the\] <span class="smallcaps">lord</span> said to Moses, For how \[long\] 
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | my law? | **<big>[[G3551\|νόμον]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Exod.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.27|<< Exodus 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.29|Exodus 16:29 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.27|<< Exodus 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.29|Exodus 16:29 >>]]</td></tr></table>
 
 

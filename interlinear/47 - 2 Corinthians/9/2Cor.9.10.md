@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 9:10
+type: Verse
+kjv: "Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)"
+bsb: "Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness."
+greek: "ὁ δὲ ἐπιχορηγῶν σπόρον τῷ σπείροντι καὶ ἄρτον εἰς βρῶσιν χορηγήσει καὶ πληθυνεῖ τὸν σπόρον ὑμῶν καὶ αὐξήσει τὰ γενήματα τῆς δικαιοσύνης ὑμῶν."
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2023]]"
+- "[[G4703]]"
+- "[[G4687]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G1519]]"
+- "[[G1035]]"
+- "[[G5524]]"
+- "[[G4129]]"
+- "[[G4771]]"
+- "[[G0837]]"
+- "[[G6013]]"
+- "[[G1343]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 9:10**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now he that ministereth seed to the sower both minister bread for [your] food, and multiply your seed sown, and increase the fruits of your righteousness;)
 <small><sub>**BSB:**</sub></small>
 Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness.
-<small><sub>**Literal:**</sub></small>
-The [One] now supplying seed to him sowing and bread for food will supply and will multiply the seed for sowing of you and will increase the fruits of the righteousness of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.9|<< 2 Corinthians 9:9]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.11|2 Corinthians 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2023\|ἐπιχορηγῶν]]  [[G4703\|σπόρον]]  [[G3588\|τῷ]]  [[G4687\|σπείροντι]]  [[G2532\|καὶ]]  [[G0740\|ἄρτον]]  [[G1519\|εἰς]]  [[G1035\|βρῶσιν]]  [[G5524\|χορηγήσει]]  [[G2532\|καὶ]]  [[G4129\|πληθυνεῖ]]  [[G3588\|τὸν]]  [[G4703\|σπόρον]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G0837\|αὐξήσει]]  [[G3588\|τὰ]]  [[G6013\|γενήματα]]  [[G3588\|τῆς]]  [[G1343\|δικαιοσύνης]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic BREAD|BREAD]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.9|<< 2 Corinthians 9:9]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.11|2 Corinthians 9:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 9:10** is...
 > $\quad$ referencing: [[LXX.Isa.55.10|Isa 55:10]]

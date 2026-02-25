@@ -1,8 +1,59 @@
+---
+title: Haggai 1:4
+type: Verse
+kjv: "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?"
+bsb: "“Is it a time for you yourselves to live in your paneled houses, while this house lies in ruins?”"
+hebrew: "הַעֵ֤ת לָכֶם֙ אַתֶּ֔ם לָשֶׁ֖בֶת בְּבָתֵּיכֶ֣ם סְפוּנִ֑ים וְהַבַּ֥יִת הַזֶּ֖ה חָרֵֽב׃"
+pericope: "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9008]]"
+- "[[H6256]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0859D]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H5603]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H2720B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 1:4**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] time for you, O ye, to dwell in your cieled houses, and this house [lie] waste?
 <small><sub>**BSB:**</sub></small>
 “Is it a time for you yourselves to live in your paneled houses, while this house lies in ruins?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H6256\|עֵ֤ת]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0859D\|אַתֶּ֔ם]] [[H9005\|לָ]][[H3427\|שֶׁ֖בֶת]] [[H9003\|בְּ]][[H1004B\|בָתֵּי]][[H9026\|כֶ֣ם]] [[H5603\|סְפוּנִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H2720B\|חָרֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.3|<< Haggai 1:3]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.5|Haggai 1:5 >>]]</td></tr></table>
 

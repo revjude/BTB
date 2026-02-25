@@ -1,10 +1,63 @@
+---
+title: Mark 10:17
+type: Verse
+kjv: "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?"
+bsb: "As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”"
+greek: "Καὶ ἐκπορευομένου αὐτοῦ εἰς ὁδὸν προσδραμὼν εἷς καὶ γονυπετήσας αὐτὸν ἐπηρώτα αὐτόν· διδάσκαλε ἀγαθέ, τί ποιήσω ἵνα ζωὴν αἰώνιον κληρονομήσω;¶"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1607]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G4370]]"
+- "[[G1520]]"
+- "[[G1120]]"
+- "[[G1905]]"
+- "[[G1320]]"
+- "[[G0018]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2816]]"
+texts:
+- NKO
+---
+
 **Mark 10:17**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?
 <small><sub>**BSB:**</sub></small>
 As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”
-<small><sub>**Literal:**</sub></small>
-And when is going forth He on [the] journey having run up one and he having knelt down to Him he was asking Him; Teacher good, what shall I do that life eternal I may inherit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.16|<< Mark 10:16]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.18|Mark 10:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1607\|ἐκπορευομένου]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3598\|ὁδὸν]]  [[G4370\|προσδραμὼν]]  [[G1520\|εἷς]]  [[G2532\|καὶ]]  [[G1120\|γονυπετήσας]]  [[G0846\|αὐτὸν]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτόν·]]  [[G1320\|διδάσκαλε]]  [[G0018\|ἀγαθέ,]]  [[G5101\|τί]]  [[G4160G\|ποιήσω]]  [[G2443\|ἵνα]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2816\|κληρονομήσω;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.16|<< Mark 10:16]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.18|Mark 10:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

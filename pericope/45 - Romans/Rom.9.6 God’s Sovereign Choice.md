@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Sovereign Choice
+type: Pericope
 pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
-verse_count: 24
+original_language: Greek
 testament: New
 book: Romans
 chapter: 9
 book/chapter: "[[Rom.9|Romans 9]]"
-genre:
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 24
 verses:
 - "[[Rom.9.6]]"
 - "[[Rom.9.7]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Rom.9.29]]"
 ---
 
-[[Rom.9|Romans 9:6 - Romans 9:29]]
+<small>[[Rom.9|Romans 9:6-29]]</small>
 *God’s Sovereign Choice*
 
 [[Rom.9.6|6]] Not as though the word of God hath taken none effect. For they \[are\] not all Israel, which are of Israel:

@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love Fulfills the Law
+type: Pericope
 pericope: "[[Rom.13.8 Love Fulfills the Law|Love Fulfills the Law]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Romans
 chapter: 13
 book/chapter: "[[Rom.13|Romans 13]]"
-genre:
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 3
 verses:
 - "[[Rom.13.8]]"
 - "[[Rom.13.9]]"
 - "[[Rom.13.10]]"
 ---
 
-[[Rom.13|Romans 13:8 - Romans 13:10]]
+<small>[[Rom.13|Romans 13:8-10]]</small>
 *Love Fulfills the Law*
 
 [[Rom.13.8|8]] Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.

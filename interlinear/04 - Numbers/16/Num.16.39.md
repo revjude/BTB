@@ -1,8 +1,64 @@
+---
+title: Numbers 16:39
+type: Verse
+kjv: "And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad plates for a covering of the altar:"
+bsb: "So Eleazar the priest took the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,"
+hebrew: "וַיִּקַּ֞ח אֶלְעָזָ֣ר הַכֹּהֵ֗ן אֵ֚ת מַחְתּ֣וֹת הַנְּחֹ֔שֶׁת אֲשֶׁ֥ר הִקְרִ֖יבוּ הַשְּׂרֻפִ֑ים וַֽיְרַקְּע֖וּם צִפּ֥וּי לַמִּזְבֵּֽחַ׃"
+pericope: "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H4289]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H8313]]"
+- "[[H7554]]"
+- "[[H9038]]"
+- "[[H6826]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:39**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad [plates for] a covering of the altar:
 <small><sub>**BSB:**</sub></small>
 So Eleazar the priest took the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H0853\|אֵ֚ת]] [[H4289\|מַחְתּ֣וֹת]] [[H9009\|הַ]][[H5178A\|נְּחֹ֔שֶׁת]] [[H0834A\|אֲשֶׁ֥ר]] [[H7126H\|הִקְרִ֖יבוּ]] [[H9009\|הַ]][[H8313\|שְּׂרֻפִ֑ים]] [[H9001\|וַֽ]][[H7554\|יְרַקְּע֖וּ]][[H9038\|ם]] [[H6826\|צִפּ֥וּי]] [[H9005\|לַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CENSER|CENSER]] • [[topic ISRAEL|ISRAEL]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.38|<< Numbers 16:38]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.40|Numbers 16:40 >>]]</td></tr></table>
 

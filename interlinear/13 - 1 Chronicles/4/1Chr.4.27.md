@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 4:27
+type: Verse
+kjv: "And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah."
+bsb: "Shimei had sixteen sons and six daughters, but his brothers did not have many children, so their whole clan did not become as numerous as the sons of Judah."
+hebrew: "וּלְשִׁמְעִ֞י בָּנִ֨ים שִׁשָּׁ֤ה עָשָׂר֙ וּבָנ֣וֹת שֵׁ֔שׁ וּלְאֶחָ֕יו אֵ֖ין בָּנִ֣ים רַבִּ֑ים וְכֹל֙ מִשְׁפַּחְתָּ֔ם לֹ֥א הִרְבּ֖וּ עַד־ בְּנֵ֥י יְהוּדָֽה׃ ס"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8096K]]"
+- "[[H1121A]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H1323G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H7227A]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H7235A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:27**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.
 <small><sub>**BSB:**</sub></small>
 Shimei had sixteen sons and six daughters, but his brothers did not have many children, so their whole clan did not become as numerous as the sons of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H8096K\|שִׁמְעִ֞י]] [[H1121A\|בָּנִ֨ים]] [[H8337\|שִׁשָּׁ֤ה]] [[H6240\|עָשָׂר֙]] [[H9002\|וּ]][[H1323G\|בָנ֣וֹת]] [[H8337\|שֵׁ֔שׁ]] [[H9002\|וּ]][[H9005\|לְ]][[H0251G\|אֶחָ֕י]][[H9023\|ו]] [[H0369\|אֵ֖ין]] [[H1121A\|בָּנִ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H4940\|מִשְׁפַּחְתָּ֔]][[H9028\|ם]] [[H3808\|לֹ֥א]] [[H7235A\|הִרְבּ֖וּ]] [[H5704\|עַד]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHIMEI|SHIMEI]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.26|<< 1 Chronicles 4:26]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.28|1 Chronicles 4:28 >>]]</td></tr></table>
 
@@ -24,7 +79,7 @@ Shimei had sixteen sons and six daughters, but his brothers did not have many ch
 | they increased  |**<big>&#8207;[[H7235A\|הִרְבּ֖וּ]]&#8207; </big>**| hir.Bu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | up to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.26|<< 1 Chronicles 4:26]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.28|1 Chronicles 4:28 >>]]</td></tr></table>
 
 

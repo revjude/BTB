@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zimri Reigns in Israel
+type: Pericope
 pericope: "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 16
 book/chapter: "[[1Kgs.16|1 Kings 16]]"
-genre:
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.16.15]]"
 - "[[1Kgs.16.16]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.16.20]]"
 ---
 
-[[1Kgs.16|1 Kings 16:15 - 1 Kings 16:20]]
+<small>[[1Kgs.16|1 Kings 16:15-20]]</small>
 *Zimri Reigns in Israel*
 
 [[1Kgs.16.15|15]] In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people \[were\] encamped against Gibbethon, which \[belonged\] to the Philistines.

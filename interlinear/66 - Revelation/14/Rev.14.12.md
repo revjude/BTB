@@ -1,10 +1,55 @@
+---
+title: Revelation 14:12
+type: Verse
+kjv: "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
+bsb: "Here is a call for the perseverance of the saints, who keep the commandments of God and the faith of Jesus."
+greek: "Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν ὧδε, οἱ τηροῦντες τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν Ἰησοῦ.¶"
+pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G5602]]"
+- "[[G3588]]"
+- "[[G5281]]"
+- "[[G0040H]]"
+- "[[G1510]]"
+- "[[G5083G]]"
+- "[[G1785]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 14:12**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.
 <small><sub>**BSB:**</sub></small>
 Here is a call for the perseverance of the saints, who keep the commandments of God and the faith of Jesus.
-<small><sub>**Literal:**</sub></small>
-Here the endurance of the saints is here those keeping the commandments <the> of God and the faith of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.11|<< Revelation 14:11]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.13|Revelation 14:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5602\|Ὧδε]]  [[G3588\|ἡ]]  [[G5281\|ὑπομονὴ]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G1510\|ἐστίν]]  [[G5602\|ὧδε,]]  [[G3588\|οἱ]]  [[G5083G\|τηροῦντες]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATIENCE|PATIENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.11|<< Revelation 14:11]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.13|Revelation 14:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

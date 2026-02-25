@@ -1,8 +1,68 @@
+---
+title: Jeremiah 5:1
+type: Verse
+kjv: "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it."
+bsb: "“Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city."
+hebrew: "שׁוֹטְט֞וּ בְּחוּצ֣וֹת יְרוּשָׁלִַ֗ם וּרְאוּ־ נָ֤א וּדְעוּ֙ וּבַקְשׁ֣וּ בִרְחוֹבוֹתֶ֔יהָ אִם־ תִּמְצְא֣וּ אִ֔ישׁ אִם־ יֵ֛שׁ עֹשֶׂ֥ה מִשְׁפָּ֖ט מְבַקֵּ֣שׁ אֱמוּנָ֑ה וְאֶסְלַ֖ח לָֽהּ׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7751A]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3045]]"
+- "[[H1245]]"
+- "[[H7339]]"
+- "[[H9024]]"
+- "[[H0518A]]"
+- "[[H4672]]"
+- "[[H0376G]]"
+- "[[H3426]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H0530]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:1**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be [any] that executeth judgment, that seeketh the truth; and I will pardon it.
 <small><sub>**BSB:**</sub></small>
 “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H7751A\|שׁוֹטְט֞וּ]] [[H9003\|בְּ]][[H2351\|חוּצ֣וֹת]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9002\|וּ]][[H7200G\|רְאוּ]][[H9014\|־]] [[H4994\|נָ֤א]] [[H9002\|וּ]][[H3045\|דְעוּ֙]] [[H9002\|וּ]][[H1245\|בַקְשׁ֣וּ]] [[H9003\|בִ]][[H7339\|רְחוֹבוֹתֶ֔י]][[H9024\|הָ]] [[H0518A\|אִם]][[H9014\|־]] [[H4672\|תִּמְצְא֣וּ]] [[H0376G\|אִ֔ישׁ]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵ֛שׁ]] [[H6213A\|עֹשֶׂ֥ה]] [[H4941H\|מִשְׁפָּ֖ט]] [[H1245\|מְבַקֵּ֣שׁ]] [[H0530\|אֱמוּנָ֑ה]] [[H9002\|וְ]][[H5545\|אֶסְלַ֖ח]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.31|<< Jeremiah 4:31]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.2|Jeremiah 5:2 >>]]</td></tr></table>
 

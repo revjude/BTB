@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 12:16
+type: Verse
+kjv: "Only ye shall not eat the blood; ye shall pour it upon the earth as water."
+bsb: "but you must not eat the blood; pour it on the ground like water."
+hebrew: "רַ֥ק הַדָּ֖ם לֹ֣א תֹאכֵ֑לוּ עַל־ הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776H]]"
+- "[[H8210G]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:16**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only ye shall not eat the blood; ye shall pour it upon the earth as water.
 <small><sub>**BSB:**</sub></small>
 but you must not eat the blood; pour it on the ground like water.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֥ק]] [[H9009\|הַ]][[H1818\|דָּ֖ם]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכֵ֑לוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֥רֶץ]] [[H8210G\|תִּשְׁפְּכֶ֖]][[H9033\|נּוּ]] [[H9004\|כַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.15|<< Deuteronomy 12:15]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.17|Deuteronomy 12:17 >>]]</td></tr></table>
 

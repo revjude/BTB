@@ -1,8 +1,63 @@
+---
+title: Isaiah 14:3
+type: Verse
+kjv: "And it shall come to pass in the day that the LORD shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,"
+bsb: "On the day that the LORD gives you rest from your pain and torment, and from the hard labor into which you were forced,"
+hebrew: "וְהָיָ֗ה בְּי֨וֹם הָנִ֤יחַ יְהוָה֙ לְךָ֔ מֵֽעָצְבְּךָ֖ וּמֵרָגְזֶ֑ךָ וּמִן־ הָעֲבֹדָ֥ה הַקָּשָׁ֖ה אֲשֶׁ֥ר עֻבַּד־ בָּֽךְ׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H6090A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7267]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5656G]]"
+- "[[H7186]]"
+- "[[H0834A]]"
+- "[[H5647G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:3**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in the day that the LORD shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,
 <small><sub>**BSB:**</sub></small>
 On the day that the LORD gives you rest from your pain and torment, and from the hard labor into which you were forced,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H5117\|הָנִ֤יחַ]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9006\|מֵֽ]][[H6090A\|עָצְבְּ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9006\|מֵ]][[H7267\|רָגְזֶ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5656G\|עֲבֹדָ֥ה]] [[H9009\|הַ]][[H7186\|קָּשָׁ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5647G\|עֻבַּד]][[H9014\|־]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.2|<< Isaiah 14:2]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.4|Isaiah 14:4 >>]]</td></tr></table>
 

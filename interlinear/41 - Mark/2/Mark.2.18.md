@@ -1,10 +1,59 @@
+---
+title: Mark 2:18
+type: Verse
+kjv: "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?"
+bsb: "Now John’s disciples and the Pharisees were often fasting. So people came to Jesus and asked, “Why don’t Your disciples fast like John’s disciples and those of the Pharisees?”"
+greek: "Καὶ ἦσαν οἱ μαθηταὶ Ἰωάννου καὶ οἱ τῶν Φαρισαῖοι νηστεύοντες καὶ ἔρχονται καὶ λέγουσιν αὐτῷ· διὰ τί οἱ μαθηταὶ Ἰωάννου καὶ οἱ μαθηταὶ τῶν Φαρισαίων νηστεύουσιν, οἱ δὲ σοὶ μαθηταὶ οὐ νηστεύουσιν;¶"
+pericope: "[[Mark.2.18 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2491G]]"
+- "[[G5330]]"
+- "[[G3522]]"
+- "[[G2064]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3756]]"
+texts:
+- NKO
+- K
+- N(k)O
+- no
+---
+
 **Mark 2:18**<big><big>[[Mark.2.18 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?
 <small><sub>**BSB:**</sub></small>
 Now John’s disciples and the Pharisees were often fasting. So people came to Jesus and asked, “Why don’t Your disciples fast like John’s disciples and those of the Pharisees?”
-<small><sub>**Literal:**</sub></small>
-And were the disciples of John and the of the Pharisees fasting And they come and they say to Him; Because of why the disciples of John and the disciples of the Pharisees fast, <the> but Your disciples not fast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.17|<< Mark 2:17]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.19|Mark 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1510\|ἦσαν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2491G\|Ἰωάννου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαῖοι]]  [[G3522\|νηστεύοντες]]  [[G2532\|καὶ]]  [[G2064\|ἔρχονται]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2491G\|Ἰωάννου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G3522\|νηστεύουσιν,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4771\|σοὶ]]  [[G3101\|μαθηταὶ]]  [[G3756\|οὐ]]  [[G3522\|νηστεύουσιν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.17|<< Mark 2:17]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.19|Mark 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

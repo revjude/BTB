@@ -1,10 +1,54 @@
+---
+title: Revelation 17:13
+type: Verse
+kjv: "These have one mind, and shall give their power and strength unto the beast."
+bsb: "These kings have one purpose: to yield their power and authority to the beast."
+greek: "οὗτοι μίαν γνώμην ἔχουσιν καὶ τὴν δύναμιν καὶ τὴν ἐξουσίαν αὐτῶν τῷ θηρίῳ διδόασιν."
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1520]]"
+- "[[G1106]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G1849]]"
+- "[[G0846]]"
+- "[[G2342]]"
+- "[[G1325]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Revelation 17:13**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These have one mind, and shall give their power and strength unto the beast.
 <small><sub>**BSB:**</sub></small>
 These kings have one purpose: to yield their power and authority to the beast.
-<small><sub>**Literal:**</sub></small>
-These one mind have and the power and the authority of them to the beast they give up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.12|<< Revelation 17:12]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.14|Revelation 17:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G1520\|μίαν]]  [[G1106\|γνώμην]]  [[G2192\|ἔχουσιν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G0846\|αὐτῶν]]  [[G3588\|τῷ]]  [[G2342\|θηρίῳ]]  [[G1325\|διδόασιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.12|<< Revelation 17:12]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.14|Revelation 17:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

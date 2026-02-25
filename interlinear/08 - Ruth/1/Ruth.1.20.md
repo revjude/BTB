@@ -1,8 +1,59 @@
+---
+title: Ruth 1:20
+type: Verse
+kjv: "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me."
+bsb: "“Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me."
+hebrew: "וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־ תִּקְרֶ֥אנָה לִ֖י נָעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּי־ הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃"
+pericope: "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9039]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5281]]"
+- "[[H4755]]"
+- "[[H3588A]]"
+- "[[H4843]]"
+- "[[H7706]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:20**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.
 <small><sub>**BSB:**</sub></small>
 “Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9039\|הֶ֔ן]] [[H0408\|אַל]][[H9014\|־]] [[H7121H\|תִּקְרֶ֥אנָה]] [[H9005\|לִ֖]][[H9030\|י]] [[H5281\|נָעֳמִ֑י]] [[H7121H\|קְרֶ֤אןָ]] [[H9005\|לִ]][[H9030\|י֙]] [[H4755\|מָרָ֔א]] [[H3588A\|כִּי]][[H9014\|־]] [[H4843\|הֵמַ֥ר]] [[H7706\|שַׁדַּ֛י]] [[H9005\|לִ֖]][[H9030\|י]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.19|<< Ruth 1:19]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.21|Ruth 1:21 >>]]</td></tr></table>
 

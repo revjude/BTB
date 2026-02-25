@@ -1,8 +1,81 @@
+---
+title: 2 Samuel 14:2
+type: Verse
+kjv: "And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:"
+bsb: "So Joab sent to Tekoa to bring a wise woman from there. He told her, “Please pretend to be a mourner; put on clothes for mourning and do not anoint yourself with oil. Act like a woman who has mourned for the dead a long time."
+hebrew: "וַיִּשְׁלַ֤ח יוֹאָב֙ תְּק֔וֹעָה וַיִּקַּ֥ח מִשָּׁ֖ם אִשָּׁ֣ה חֲכָמָ֑ה וַיֹּ֣אמֶר אֵ֠לֶיהָ הִֽתְאַבְּלִי־ נָ֞א וְלִבְשִׁי־ נָ֣א בִגְדֵי־ אֵ֗בֶל וְאַל־ תָּס֙וּכִי֙ שֶׁ֔מֶן וְהָיִ֕ית כְּאִשָּׁ֗ה זֶ֚ה יָמִ֣ים רַבִּ֔ים מִתְאַבֶּ֖לֶת עַל־ מֵֽת׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TEKOAH|TEKOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3097G]]"
+- "[[H8620]]"
+- "[[H9011]]"
+- "[[H3947J]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0802G]]"
+- "[[H2450]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0056]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H3847]]"
+- "[[H0899B]]"
+- "[[H0060]]"
+- "[[H0408]]"
+- "[[H5480]]"
+- "[[H8081]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2088]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:2**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
 <small><sub>**BSB:**</sub></small>
 So Joab sent to Tekoa to bring a wise woman from there. He told her, “Please pretend to be a mourner; put on clothes for mourning and do not anoint yourself with oil. Act like a woman who has mourned for the dead a long time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3097G\|יוֹאָב֙]] [[H8620\|תְּק֔וֹעָ]][[H9011\|ה]] [[H9001\|וַ]][[H3947J\|יִּקַּ֥ח]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H0802G\|אִשָּׁ֣ה]] [[H2450\|חֲכָמָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵ֠לֶי]][[H9034\|הָ]] [[H0056\|הִֽתְאַבְּלִי]][[H9014\|־]] [[H4994\|נָ֞א]] [[H9002\|וְ]][[H3847\|לִבְשִׁי]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0899B\|בִגְדֵי]][[H9014\|־]] [[H0060\|אֵ֗בֶל]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5480\|תָּס֙וּכִי֙]] [[H8081\|שֶׁ֔מֶן]] [[H9001\|וְ]][[H1961\|הָיִ֕ית]] [[H9004\|כְּ]][[H0802G\|אִשָּׁ֗ה]] [[H2088\|זֶ֚ה]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H0056\|מִתְאַבֶּ֖לֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic ANOINTING|ANOINTING]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic MOURNING|MOURNING]] • [[topic TACT|TACT]] • [[topic TEKOAH|TEKOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.1|<< 2 Samuel 14:1]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.3|2 Samuel 14:3 >>]]</td></tr></table>
 

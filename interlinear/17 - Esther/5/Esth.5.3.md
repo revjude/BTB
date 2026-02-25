@@ -1,8 +1,59 @@
+---
+title: Esther 5:3
+type: Verse
+kjv: "Then said the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom."
+bsb: "“What is it, Queen Esther?” the king inquired. “What is your request? Even up to half the kingdom, it will be given to you.”"
+hebrew: "וַיֹּ֤אמֶר לָהּ֙ הַמֶּ֔לֶךְ מַה־ לָּ֖ךְ אֶסְתֵּ֣ר הַמַּלְכָּ֑ה וּמַה־ בַּקָּשָׁתֵ֛ךְ עַד־ חֲצִ֥י הַמַּלְכ֖וּת וְיִנָּ֥תֵֽן לָֽךְ׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H9002]]"
+- "[[H1246]]"
+- "[[H9022]]"
+- "[[H5704]]"
+- "[[H2677]]"
+- "[[H4438]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:3**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the king unto her, What wilt thou, queen Esther? and what [is] thy request? it shall be even given thee to the half of the kingdom.
 <small><sub>**BSB:**</sub></small>
 “What is it, Queen Esther?” the king inquired. “What is your request? Even up to half the kingdom, it will be given to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ֖]][[H9032\|ךְ]] [[H0635\|אֶסְתֵּ֣ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֑ה]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H1246\|בַּקָּשָׁתֵ֛]][[H9022\|ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4438\|מַּלְכ֖וּת]] [[H9002\|וְ]][[H5414G\|יִנָּ֥תֵֽן]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.2|<< Esther 5:2]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.4|Esther 5:4 >>]]</td></tr></table>
 

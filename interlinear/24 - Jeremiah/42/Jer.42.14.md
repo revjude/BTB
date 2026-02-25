@@ -1,8 +1,63 @@
+---
+title: Jeremiah 42:14
+type: Verse
+kjv: "Saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell:"
+bsb: "and if you say, ‘No, but we will go to the land of Egypt and live there, where we will not see war or hear the sound of the ram’s horn or hunger for bread,’"
+hebrew: "לֵאמֹ֗ר לֹ֚א כִּ֣י אֶ֤רֶץ מִצְרַ֙יִם֙ נָב֔וֹא אֲשֶׁ֤ר לֹֽא־ נִרְאֶה֙ מִלְחָמָ֔ה וְק֥וֹל שׁוֹפָ֖ר לֹ֣א נִשְׁמָ֑ע וְלַלֶּ֥חֶם לֹֽא־ נִרְעָ֖ב וְשָׁ֥ם נֵשֵֽׁב׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0935G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H8085G]]"
+- "[[H3899H]]"
+- "[[H7456]]"
+- "[[H8033G]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:14**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell:
 <small><sub>**BSB:**</sub></small>
 and if you say, ‘No, but we will go to the land of Egypt and live there, where we will not see war or hear the sound of the ram’s horn or hunger for bread,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3808\|לֹ֚א]] [[H3588A\|כִּ֣י]] [[H0776G\|אֶ֤רֶץ]] [[H4714G\|מִצְרַ֙יִם֙]] [[H0935G\|נָב֔וֹא]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|נִרְאֶה֙]] [[H4421\|מִלְחָמָ֔ה]] [[H9002\|וְ]][[H6963H\|ק֥וֹל]] [[H7782\|שׁוֹפָ֖ר]] [[H3808\|לֹ֣א]] [[H8085G\|נִשְׁמָ֑ע]] [[H9002\|וְ]][[H9005\|לַ]][[H3899H\|לֶּ֥חֶם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7456\|נִרְעָ֖ב]] [[H9002\|וְ]][[H8033G\|שָׁ֥ם]] [[H3427\|נֵשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 

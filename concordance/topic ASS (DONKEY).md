@@ -5,7 +5,7 @@
 
 - Herds of [[Gen.12.16|Ge 12:16]]; [[Gen.24.35|24:35]]; [[Gen.32.5|32:5]]; [[Gen.34.28|34:28]]; [[Num.31.34|Nu 31:34]],[[Num.31.45|45]];  [[1Chr.5.21|1Ch 5:21]]; [[Ezra.2.67|Ezr 2:67]]; [[Neh.7.69|Ne 7:69]]
 
-- Used for riding [[Gen.22.3|Ge 22:3]]; [[Num.22.21|Nu 22:21]]-[[Num.22.33|33]]; [[Josh.15.18|Jos 15:18]]; [[Judg.1.14|Jud  1:14]]; [[Judg.5.10|5:10]]; [[1Sam.25.23|1Sa 25:23]]; [[2Chr.28.15|2Ch 28:15]]; [[Zech.9.9|Zec 9:9]]
+- Used for riding [[Gen.22.3|Ge 22:3]]; [[Num.22.21|Nu 22:21-33]]; [[Josh.15.18|Jos 15:18]]; [[Judg.1.14|Jud  1:14]]; [[Judg.5.10|5:10]]; [[1Sam.25.23|1Sa 25:23]]; [[2Chr.28.15|2Ch 28:15]]; [[Zech.9.9|Zec 9:9]]
 
 - By Jesus [[Matt.21.2|Mt 21:2]],[[Matt.21.5|5]]; [[Luke.13.15|Lu 13:15]]; [[John.12.14|Joh 12:14]],[[John.12.15|15]]; [[Zech.9.9|Zec 9:9]]
 
@@ -21,7 +21,7 @@
 
 - Bridles for [[Prov.26.3|Pr 26:3]]
 
-- Jawbone of, used by Samson with which to kill Philistines  [[Judg.15.15|Jud 15:15]]-[[Judg.15.17|17]]
+- Jawbone of, used by Samson with which to kill Philistines  [[Judg.15.15|Jud 15:15-17]]
 
 - FIRSTLINGS OF redeemed [[Exod.13.13|Ex 13:13]]; [[Exod.34.20|34:20]]
 

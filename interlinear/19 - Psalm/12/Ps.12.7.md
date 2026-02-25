@@ -1,8 +1,58 @@
+---
+title: Psalm 12:7
+type: Verse
+kjv: "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever."
+bsb: "You, O LORD, will keep us; You will forever guard us from this generation."
+hebrew: "אַתָּֽה־ יְהוָ֥ה תִּשְׁמְרֵ֑ם תִּצְּרֶ֓נּוּ׀ מִן־ הַדּ֖וֹר ז֣וּ לְעוֹלָֽם׃"
+pericope: "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8104H]]"
+- "[[H9038]]"
+- "[[H5341]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1755]]"
+- "[[H2098]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 12:7**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.
 <small><sub>**BSB:**</sub></small>
 You, O LORD, will keep us; You will forever guard us from this generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּֽה]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H8104H\|תִּשְׁמְרֵ֑]][[H9038\|ם]] [[H5341\|תִּצְּרֶ֓]][[H9033\|נּוּ]][[H9015\|׀]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1755\|דּ֖וֹר]] [[H2098\|ז֣וּ]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.6|<< Psalms 12:6]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.8|Psalms 12:8 >>]]</td></tr></table>
 

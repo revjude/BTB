@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Grave Assigned
+type: Pericope
 pericope: "[[Isa.53.9 A Grave Assigned|A Grave Assigned]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 53
 book/chapter: "[[Isa.53|Isaiah 53]]"
-genre:
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.53.9]]"
 - "[[Isa.53.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.53.12]]"
 ---
 
-[[Isa.53|Isaiah 53:9 - Isaiah 53:12]]
+<small>[[Isa.53|Isaiah 53:9-12]]</small>
 *A Grave Assigned*
 
 [[Isa.53.9|9]] And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither \[was any\] deceit in his mouth.

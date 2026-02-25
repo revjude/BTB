@@ -1,8 +1,71 @@
+---
+title: Exodus 15:11
+type: Verse
+kjv: "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?"
+bsb: "Who among the gods is like You, O LORD? Who is like You—majestic in holiness, revered with praises, performing wonders?"
+hebrew: "מִֽי־ כָמֹ֤כָה בָּֽאֵלִם֙ יְהוָ֔ה מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ נוֹרָ֥א תְהִלֹּ֖ת עֹ֥שֵׂה פֶֽלֶא׃"
+pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPIC|EPIC]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0410K]]"
+- "[[H3068G]]"
+- "[[H0142]]"
+- "[[H6944G]]"
+- "[[H3372H]]"
+- "[[H8416]]"
+- "[[H6213A]]"
+- "[[H6382]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:11**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] like unto thee, O LORD, among the gods? who [is] like thee, glorious in holiness, fearful [in] praises, doing wonders?
 <small><sub>**BSB:**</sub></small>
 Who among the gods is like You, O LORD? Who is like You—majestic in holiness, revered with praises, performing wonders?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H3644G\|כָמֹ֤]][[H9031\|כָה]] [[H9003\|בָּֽ]][[H0410K\|אֵלִם֙]] [[H3068G\|יְהוָ֔ה]] [[H4310\|מִ֥י]] [[H3644G\|כָּמֹ֖]][[H9031\|כָה]] [[H0142\|נֶאְדָּ֣ר]] [[H9003\|בַּ]][[H6944G\|קֹּ֑דֶשׁ]] [[H3372H\|נוֹרָ֥א]] [[H8416\|תְהִלֹּ֖ת]] [[H6213A\|עֹ֥שֵׂה]] [[H6382\|פֶֽלֶא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPIC|EPIC]] • [[topic FAITH|FAITH]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RED SEA|RED SEA]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.10|<< Exodus 15:10]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.12|Exodus 15:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

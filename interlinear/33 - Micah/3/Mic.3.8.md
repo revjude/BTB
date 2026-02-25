@@ -1,8 +1,64 @@
+---
+title: Micah 3:8
+type: Verse
+kjv: "But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin."
+bsb: "As for me, however, I am filled with power by the Spirit of the LORD, with justice and courage, to declare to Jacob his transgression and to Israel his sin."
+hebrew: "וְאוּלָ֗ם אָנֹכִ֞י מָלֵ֤אתִי כֹ֙חַ֙ אֶת־ ר֣וּחַ יְהוָ֔ה וּמִשְׁפָּ֖ט וּגְבוּרָ֑ה לְהַגִּ֤יד לְיַֽעֲקֹב֙ פִּשְׁע֔וֹ וּלְיִשְׂרָאֵ֖ל חַטָּאתֽוֹ׃ ס"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H0595]]"
+- "[[H4390]]"
+- "[[H3581B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H4941H]]"
+- "[[H1369]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H3290]]"
+- "[[H6588]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Micah 3:8**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.
 <small><sub>**BSB:**</sub></small>
 As for me, however, I am filled with power by the Spirit of the LORD, with justice and courage, to declare to Jacob his transgression and to Israel his sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0199\|אוּלָ֗ם]] [[H0595\|אָנֹכִ֞י]] [[H4390\|מָלֵ֤אתִי]] [[H3581B\|כֹ֙חַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֣וּחַ]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֖ט]] [[H9002\|וּ]][[H1369\|גְבוּרָ֑ה]] [[H9005\|לְ]][[H5046\|הַגִּ֤יד]] [[H9005\|לְ]][[H3290\|יַֽעֲקֹב֙]] [[H6588\|פִּשְׁע֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H2403B\|חַטָּאתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic POWER|POWER]] • [[topic PROPHETS|PROPHETS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.7|<< Micah 3:7]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.9|Micah 3:9 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ As for me, however, I am filled with power by the Spirit of the LORD, with justi
 | to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַֽעֲקֹב֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgression its  |**<big>&#8207;[[H6588\|פִּשְׁע֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| pish.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to Israel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sin its  |**<big>&#8207;[[H2403B\|חַטָּאתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.ta.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sin its  |**<big>&#8207;[[H2403B\|חַטָּאתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.ta.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.7|<< Micah 3:7]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.9|Micah 3:9 >>]]</td></tr></table>
 
 

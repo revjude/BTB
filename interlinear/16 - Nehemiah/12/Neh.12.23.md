@@ -1,8 +1,58 @@
+---
+title: Nehemiah 12:23
+type: Verse
+kjv: "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib."
+bsb: "As for the descendants of Levi, the family heads up to the days of Johanan son of Eliashib were recorded in the Book of the Chronicles."
+hebrew: "בְּנֵ֤י לֵוִי֙ רָאשֵׁ֣י הָֽאָב֔וֹת כְּתוּבִ֕ים עַל־ סֵ֖פֶר דִּבְרֵ֣י הַיָּמִ֑ים וְעַד־ יְמֵ֖י יֽוֹחָנָ֥ן בֶּן־ אֶלְיָשִֽׁיב׃"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H3110L]]"
+- "[[H1121A]]"
+- "[[H0475N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:23**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Levi, the chief of the fathers, [were] written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
 <small><sub>**BSB:**</sub></small>
 As for the descendants of Levi, the family heads up to the days of Johanan son of Eliashib were recorded in the Book of the Chronicles.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֤י]] [[H3878\|לֵוִי֙]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָֽ]][[H0001G\|אָב֔וֹת]] [[H3789\|כְּתוּבִ֕ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֖פֶר]] [[H1697O\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3117G\|יְמֵ֖י]] [[H3110L\|יֽוֹחָנָ֥ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0475N\|אֶלְיָשִֽׁיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.22|<< Nehemiah 12:22]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.24|Nehemiah 12:24 >>]]</td></tr></table>
 

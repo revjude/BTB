@@ -1,8 +1,67 @@
+---
+title: Judges 17:8
+type: Verse
+kjv: "And the man departed out of the city from Bethlehemjudah to sojourn where he could find a place: and he came to mount Ephraim to the house of Micah, as he journeyed."
+bsb: "This man left the city of Bethlehem in Judah to settle where he could find a place. And as he traveled, he came to Micah’s house in the hill country of Ephraim."
+hebrew: "וַיֵּ֨לֶךְ הָאִ֜ישׁ מֵהָעִ֗יר מִבֵּ֥ית לֶ֙חֶם֙ יְהוּדָ֔ה לָג֖וּר בַּאֲשֶׁ֣ר יִמְצָ֑א וַיָּבֹ֧א הַר־ אֶפְרַ֛יִם עַד־ בֵּ֥ית מִיכָ֖ה לַעֲשׂ֥וֹת דַּרְכּֽוֹ׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H4672]]"
+- "[[H0935G]]"
+- "[[H2022H]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H5704]]"
+- "[[H1004B]]"
+- "[[H4318G]]"
+- "[[H6213J]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:8**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man departed out of the city from Bethlehemjudah to sojourn where he could find [a place]: and he came to mount Ephraim to the house of Micah, as he journeyed.
 <small><sub>**BSB:**</sub></small>
 This man left the city of Bethlehem in Judah to settle where he could find a place. And as he traveled, he came to Micah’s house in the hill country of Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H9009\|הָ]][[H0376G\|אִ֜ישׁ]] [[H9006\|מֵ]][[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H9006\|מִ]][[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֙חֶם֙]] [[H3063G\|יְהוּדָ֔ה]] [[H9005\|לָ]][[H1481A\|ג֖וּר]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֣ר]] [[H4672\|יִמְצָ֑א]] [[H9001\|וַ]][[H0935G\|יָּבֹ֧א]] [[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרַ֛יִם]] [[H5704\|עַד]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H4318G\|מִיכָ֖ה]] [[H9005\|לַ]][[H6213J\|עֲשׂ֥וֹת]] [[H1870L\|דַּרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.7|<< Judges 17:7]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.9|Judges 17:9 >>]]</td></tr></table>
 

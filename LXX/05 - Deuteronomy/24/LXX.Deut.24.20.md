@@ -1,6 +1,64 @@
+---
+title: LXX Deuteronomy 24:20
+type: Verse
+lxx: "And if one should pick olives, you shall not turn back to glean  after you; it shall be to the foreigner and to the orphan and to the widow."
+greek: "εάν δε ελαιολογήσης ουκ επαναστρέψεις καλαμήσασθαι τα οπίσω σου τω προσηλύτω και τω ορφανώ και τη χήρα έσται"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GLEANING|GLEANING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G7174]]"
+- "[[G3756]]"
+- "[[G7362]]"
+- "[[G7777]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4339]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3737]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5503]]"
+- "[[G1510]]"
+---
+
 **LXX Deuteronomy 24:20** 
 <small><sub>**LXX:**</sub></small>
 And if one should pick olives, you shall not turn back to glean  after you; it shall be to the foreigner and to the orphan and to the widow. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G7174\|ελαιολογήσης]] [[G3756\|ουκ]] [[G7362\|επαναστρέψεις]] [[G7777\|καλαμήσασθαι]] [[G3588\|τα]] [[G3694\|οπίσω]] [[G1473\|σου]] [[G3588\|τω]] [[G4339\|προσηλύτω]] [[G2532\|και]] [[G3588\|τω]] [[G3737\|ορφανώ]] [[G2532\|και]] [[G3588\|τη]] [[G5503\|χήρα]] [[G1510\|έσται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GLEANING|GLEANING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OLIVE|OLIVE]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.19|<< Deuteronomy 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.21|Deuteronomy 24:21 >>]]</td></tr></table>
 
@@ -23,6 +81,6 @@ And if one should pick olives, you shall not turn back to glean  after you; it s
 | to the | **<big>[[G3588\|τη]]</big>** |
 | widow | **<big>[[G5503\|χήρα]]</big>** |
 | it shall be | **<big>[[G1510\|έσται]]</big>** |
-[[Deut.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.19|<< Deuteronomy 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.21|Deuteronomy 24:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.19|<< Deuteronomy 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.21|Deuteronomy 24:21 >>]]</td></tr></table>
 
 

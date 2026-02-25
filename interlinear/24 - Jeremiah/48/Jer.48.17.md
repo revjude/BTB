@@ -1,8 +1,56 @@
+---
+title: Jeremiah 48:17
+type: Verse
+kjv: "All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, and the beautiful rod!"
+bsb: "Mourn for him, all you who surround him, everyone who knows his name; tell how the mighty scepter is shattered—the glorious staff!"
+hebrew: "נֻ֤דוּ לוֹ֙ כָּל־ סְבִיבָ֔יו וְכֹ֖ל יֹדְעֵ֣י שְׁמ֑וֹ אִמְר֗וּ אֵיכָ֤ה נִשְׁבַּר֙ מַטֵּה־ עֹ֔ז מַקֵּ֖ל תִּפְאָרָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H5110]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5439G]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0349B]]"
+- "[[H7665]]"
+- "[[H4294G]]"
+- "[[H5797]]"
+- "[[H4731]]"
+- "[[H8597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:17**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, [and] the beautiful rod!
 <small><sub>**BSB:**</sub></small>
 Mourn for him, all you who surround him, everyone who knows his name; tell how the mighty scepter is shattered—the glorious staff!
+<small><sub>**Hebrew:**</sub></small>
+[[H5110\|נֻ֤דוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5439G\|סְבִיבָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H3045\|יֹדְעֵ֣י]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H0559\|אִמְר֗וּ]] [[H0349B\|אֵיכָ֤ה]] [[H7665\|נִשְׁבַּר֙]] [[H4294G\|מַטֵּה]][[H9014\|־]] [[H5797\|עֹ֔ז]] [[H4731\|מַקֵּ֖ל]] [[H8597\|תִּפְאָרָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.16|<< Jeremiah 48:16]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.18|Jeremiah 48:18 >>]]</td></tr></table>
 

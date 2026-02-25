@@ -1,10 +1,63 @@
+---
+title: Luke 14:20
+type: Verse
+kjv: "And another said, I have married a wife, and therefore I cannot come."
+bsb: "Still another said, ‘I have married a wife, so I cannot come.’"
+jesus_said: "And another said, I have married a wife, and therefore I cannot come."
+greek: "καὶ ἕτερος εἶπεν· γυναῖκα ἔγημα καὶ διὰ τοῦτο οὐ δύναμαι ἐλθεῖν."
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G2036]]"
+- "[[G1135H]]"
+- "[[G1060]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **Luke 14:20**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And another said, I have married a wife, and therefore I cannot come.
 <small><sub>**BSB:**</sub></small>
 Still another said, ‘I have married a wife, so I cannot come.’
-<small><sub>**Literal:**</sub></small>
-And another said; A wife I have married and because of this not I am able to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.19|<< Luke 14:19]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.21|Luke 14:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2087\|ἕτερος]]  [[G2036\|εἶπεν·]]  [[G1135H\|γυναῖκα]]  [[G1060\|ἔγημα]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3756\|οὐ]]  [[G1410\|δύναμαι]]  [[G2064\|ἐλθεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic EXCUSES|EXCUSES]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.19|<< Luke 14:19]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.21|Luke 14:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

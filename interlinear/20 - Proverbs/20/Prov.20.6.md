@@ -1,8 +1,57 @@
+---
+title: Proverbs 20:6
+type: Verse
+kjv: "Most men will proclaim every one his own goodness: but a faithful man who can find?"
+bsb: "Many a man proclaims his loving devotion, but who can find a trustworthy man?"
+hebrew: "רָב־ אָדָ֗ם יִ֭קְרָא אִ֣ישׁ חַסְדּ֑וֹ וְאִ֥ישׁ אֱ֝מוּנִ֗ים מִ֣י יִמְצָֽא׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROFESSION|PROFESSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H7230]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7121I]]"
+- "[[H0376I]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0529]]"
+- "[[H4310]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:6**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Most men will proclaim every one his own goodness: but a faithful man who can find?
 <small><sub>**BSB:**</sub></small>
 Many a man proclaims his loving devotion, but who can find a trustworthy man?
+<small><sub>**Hebrew:**</sub></small>
+[[H7230\|רָב]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H7121I\|יִ֭קְרָא]] [[H0376I\|אִ֣ישׁ]] [[H2617A\|חַסְדּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0529\|אֱ֝מוּנִ֗ים]] [[H4310\|מִ֣י]] [[H4672\|יִמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic PRIDE|PRIDE]] • [[topic PROFESSION|PROFESSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.5|<< Proverbs 20:5]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.7|Proverbs 20:7 >>]]</td></tr></table>
 

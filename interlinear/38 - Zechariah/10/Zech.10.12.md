@@ -1,8 +1,55 @@
+---
+title: Zechariah 10:12
+type: Verse
+kjv: "And I will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD."
+bsb: "I will strengthen them in the LORD, and in His name they will walk,” declares the LORD."
+hebrew: "וְגִבַּרְתִּים֙ בַּֽיהוָ֔ה וּבִשְׁמ֖וֹ יִתְהַלָּ֑כוּ נְאֻ֖ם יְהוָֽה׃ ס"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1396]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1980I]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Zechariah 10:12**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will strengthen them in the LORD, and in His name they will walk,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1396\|גִבַּרְתִּי]][[H9038\|ם֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וּ]][[H9003\|בִ]][[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H1980I\|יִתְהַלָּ֑כוּ]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.11|<< Zechariah 10:11]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.1|Zechariah 11:1 >>]]</td></tr></table>
 
@@ -13,7 +60,7 @@ I will strengthen them in the LORD, and in His name they will walk,” declares 
 | and in name his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8034\|שְׁמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will go about  |**<big>&#8207;[[H1980I\|יִתְהַלָּ֑כוּ]]&#8207; </big>**| yit.ha.La.khu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.11|<< Zechariah 10:11]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.1|Zechariah 11:1 >>]]</td></tr></table>
 
 

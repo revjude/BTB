@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to Rebellious Israel
+type: Pericope
 pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 5
 book/chapter: "[[Amos.5|Amos 5]]"
-genre:
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 12
 verses:
 - "[[Amos.5.16]]"
 - "[[Amos.5.17]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Amos.5.27]]"
 ---
 
-[[Amos.5|Amos 5:16 - Amos 5:27]]
+<small>[[Amos.5|Amos 5:16-27]]</small>
 *Woe to Rebellious Israel*
 
 [[Amos.5.16|16]] Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing \[shall be\] in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.

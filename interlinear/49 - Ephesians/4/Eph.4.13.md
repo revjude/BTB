@@ -1,10 +1,63 @@
+---
+title: Ephesians 4:13
+type: Verse
+kjv: "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+bsb: "until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ."
+greek: "μέχρι καταντήσωμεν οἱ πάντες εἰς τὴν ἑνότητα τῆς πίστεως καὶ τῆς ἐπιγνώσεως τοῦ υἱοῦ τοῦ θεοῦ, εἰς ἄνδρα τέλειον, εἰς μέτρον ἡλικίας τοῦ πληρώματος τοῦ Χριστοῦ·"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3360]]"
+- "[[G2658]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G1775]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G1922]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G0435G]]"
+- "[[G5046]]"
+- "[[G3358]]"
+- "[[G2244]]"
+- "[[G4138]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:13**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 <small><sub>**BSB:**</sub></small>
 until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ.
-<small><sub>**Literal:**</sub></small>
-until we may attain <the> all to the unity of the faith and of the knowledge of the Son <the> of God, unto a man a complete, to [the] measure of [the] stature of the fullness <the> of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.12|<< Ephesians 4:12]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.14|Ephesians 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3360\|μέχρι]]  [[G2658\|καταντήσωμεν]]  [[G3588\|οἱ]]  [[G3956\|πάντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1775\|ἑνότητα]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1922\|ἐπιγνώσεως]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G1519\|εἰς]]  [[G0435G\|ἄνδρα]]  [[G5046\|τέλειον,]]  [[G1519\|εἰς]]  [[G3358\|μέτρον]]  [[G2244\|ἡλικίας]]  [[G3588\|τοῦ]]  [[G4138\|πληρώματος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.12|<< Ephesians 4:12]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.14|Ephesians 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

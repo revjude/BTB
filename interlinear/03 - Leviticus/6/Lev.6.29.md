@@ -1,8 +1,56 @@
+---
+title: Leviticus 6:29
+type: Verse
+kjv: "All the males among the priests shall eat thereof: it is most holy."
+bsb: "Any male among the priests may eat it; it is most holy."
+hebrew: "כָּל־ זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכַ֣ל אֹתָ֑הּ קֹ֥דֶשׁ קָֽדָשִׁ֖ים הִֽוא׃"
+pericope: "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9003]]"
+- "[[H3548]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:29**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the males among the priests shall eat thereof: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
 Any male among the priests may eat it; it is most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֥ר]] [[H9003\|בַּ]][[H3548\|כֹּהֲנִ֖ים]] [[H0398\|יֹאכַ֣ל]] [[H0853\|אֹתָ֑]][[H9034\|הּ]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.28|<< Leviticus 6:28]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.30|Leviticus 6:30 >>]]</td></tr></table>
 

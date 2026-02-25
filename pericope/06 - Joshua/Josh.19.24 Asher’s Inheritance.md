@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Asher’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 8
 verses:
 - "[[Josh.19.24]]"
 - "[[Josh.19.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Josh.19.31]]"
 ---
 
-[[Josh.19|Joshua 19:24 - Joshua 19:31]]
+<small>[[Josh.19|Joshua 19:24-31]]</small>
 *Asher’s Inheritance*
 
 [[Josh.19.24|24]] And the fifth lot came out for the tribe of the children of Asher according to their families.

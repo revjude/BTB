@@ -1,6 +1,53 @@
+---
+title: LXX Numbers 28:22
+type: Verse
+lxx: "and a young he-goat from the goats -- one for a sin offering to atone for you,"
+greek: "και χίμαρον εξ αιγών ένα περί αμαρτίας εξιλάσασθαι περί υμών"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G9733]]"
+- "[[G1537]]"
+- "[[G6167]]"
+- "[[G1520]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G7331]]"
+- "[[G4012]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 28:22** 
 <small><sub>**LXX:**</sub></small>
 and a young he-goat from \[the\] goats -- one for a sin \[offering\] to atone for you, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G9733\|χίμαρον]] [[G1537\|εξ]] [[G6167\|αιγών]] [[G1520\|ένα]] [[G4012\|περί]] [[G0266\|αμαρτίας]] [[G7331\|εξιλάσασθαι]] [[G4012\|περί]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.21|<< Numbers 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.23|Numbers 28:23 >>]]</td></tr></table>
 
@@ -16,6 +63,6 @@ and a young he-goat from \[the\] goats -- one for a sin \[offering\] to atone fo
 | to atone | **<big>[[G7331\|εξιλάσασθαι]]</big>** |
 | for | **<big>[[G4012\|περί]]</big>** |
 | you, | **<big>[[G1473\|υμών]]</big>** |
-[[Num.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.21|<< Numbers 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.23|Numbers 28:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.21|<< Numbers 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.23|Numbers 28:23 >>]]</td></tr></table>
 
 

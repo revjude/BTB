@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 5:9
+type: Verse
+kjv: "And it was so, that, after they had carried it about, the hand of the LORD was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts."
+bsb: "But after they had moved the ark to Gath, the LORD’s hand was also against that city, throwing it into great confusion and afflicting the men of the city, both young and old, with an outbreak of tumors."
+hebrew: "וַיְהִ֞י אַחֲרֵ֣י׀ הֵסַ֣בּוּ אֹת֗וֹ וַתְּהִ֨י יַד־ יְהוָ֤ה׀ בָּעִיר֙ מְהוּמָה֙ גְּדוֹלָ֣ה מְאֹ֔ד וַיַּךְ֙ אֶת־ אַנְשֵׁ֣י הָעִ֔יר מִקָּטֹ֖ן וְעַד־ גָּד֑וֹל וַיִּשָּׂתְר֥וּ לָהֶ֖ם טְחֹרִֽים׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TUMOR|TUMOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9015]]"
+- "[[H5437G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H4103]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H5221]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H9006]]"
+- "[[H6996H]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1419K]]"
+- "[[H8368]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6076B]]"
+- "[[H9016]]"
+- "[[H2914]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 5:9**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that, after they had carried it about, the hand of the LORD was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts.
 <small><sub>**BSB:**</sub></small>
 But after they had moved the ark to Gath, the LORD’s hand was also against that city, throwing it into great confusion and afflicting the men of the city, both young and old, with an outbreak of tumors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H0310A\|אַחֲרֵ֣י]][[H9015\|׀]] [[H5437G\|הֵסַ֣בּוּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H9003\|בָּ]][[H5892B\|עִיר֙]] [[H4103\|מְהוּמָה֙]] [[H1419A\|גְּדוֹלָ֣ה]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9006\|מִ]][[H6996H\|קָּטֹ֖ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419K\|גָּד֑וֹל]] [[H9001\|וַ]][[H8368\|יִּשָּׂתְר֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H2914\|טְחֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic MIRACLES|MIRACLES]] • [[topic TUMOR|TUMOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
 
@@ -31,6 +95,6 @@ But after they had moved the ark to Gath, the LORD’s hand was also against tha
 | tumors  [^1]|**<big>&#8207;[[H2914\|טְחֹרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
 
-[^1]: tumors  | **<big>[[H9016|׃]]</big><big>[[H6076B|עֳפָלִים]]</big> ** | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^1]: tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9016|׃]]</big> ** | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>עְפֹלִֽים\׃</big></span>**
 

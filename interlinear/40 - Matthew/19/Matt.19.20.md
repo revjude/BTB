@@ -1,10 +1,63 @@
+---
+title: Matthew 19:20
+type: Verse
+kjv: "The young man saith unto him, All these things have I kept from my youth up: what lack I yet?"
+bsb: "“All these I have kept,” said the young man. “What do I still lack?”"
+greek: "Λέγει αὐτῷ ὁ νεανίσκος· πάντα ταῦτα ἐφύλαξα ἐκ νεότητός μου, τί ἔτι ὑστερῶ;¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3495]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G5442G]]"
+- "[[G1537]]"
+- "[[G3503]]"
+- "[[G3165]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G5302]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Matthew 19:20**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
 <small><sub>**BSB:**</sub></small>
 “All these I have kept,” said the young man. “What do I still lack?”
-<small><sub>**Literal:**</sub></small>
-Says to him the young man; All these I have kept from youth of me What yet do I lack?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.19|<< Matthew 19:19]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.21|Matthew 19:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G3495\|νεανίσκος·]]  [[G3956\|πάντα]]  [[G3778\|ταῦτα]]  [[G5442G\|ἐφύλαξα]]  [[G1537\|ἐκ]]  [[G3503\|νεότητός]]  [[G3165\|μου,]]  [[G5101\|τί]]  [[G2089\|ἔτι]]  [[G5302\|ὑστερῶ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.19|<< Matthew 19:19]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.21|Matthew 19:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

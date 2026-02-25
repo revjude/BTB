@@ -1,8 +1,60 @@
+---
+title: Exodus 37:15
+type: Verse
+kjv: "And he made the staves of shittim wood, and overlaid them with gold, to bear the table."
+bsb: "He made the poles of acacia wood for carrying the table and overlaid them with gold."
+hebrew: "וַיַּ֤עַשׂ אֶת־ הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב לָשֵׂ֖את אֶת־ הַשֻּׁלְחָֽן׃"
+pericope: "[[Exod.37.10 The Table of Showbread|The Table of Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H6823]]"
+- "[[H9038]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H5375H]]"
+- "[[H7979]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:15**<big><big>[[Exod.37.10 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the staves [of] shittim wood, and overlaid them with gold, to bear the table.
 <small><sub>**BSB:**</sub></small>
 He made the poles of acacia wood for carrying the table and overlaid them with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0905G\|בַּדִּים֙]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֔ים]] [[H9001\|וַ]][[H6823\|יְצַ֥ף]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H2091\|זָהָ֑ב]] [[H9005\|לָ]][[H5375H\|שֵׂ֖את]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.14|<< Exodus 37:14]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.16|Exodus 37:16 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 61:7
+type: Verse
+kjv: "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
+bsb: "May he sit enthroned in God’s presence forever; appoint Your loving devotion and Your faithfulness to guard him."
+hebrew: "יֵשֵׁ֣ב ע֭וֹלָם לִפְנֵ֣י אֱלֹהִ֑ים חֶ֥סֶד וֶ֝אֱמֶ֗ת מַ֣ן יִנְצְרֻֽהוּ׃"
+pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 61
+book/chapter: "[[Ps.61|Psalm 61]]"
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3427]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H4487]]"
+- "[[H5341]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 61:7**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall abide before God for ever: O prepare mercy and truth, [which] may preserve him.
 <small><sub>**BSB:**</sub></small>
 May he sit enthroned in God’s presence forever; appoint Your loving devotion and Your faithfulness to guard him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|יֵשֵׁ֣ב]] [[H5769G\|ע֭וֹלָם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0430G\|אֱלֹהִ֑ים]] [[H2617A\|חֶ֥סֶד]] [[H9002\|וֶ֝]][[H0571G\|אֱמֶ֗ת]] [[H4487\|מַ֣ן]] [[H5341\|יִנְצְרֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.6|<< Psalms 61:6]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.8|Psalms 61:8 >>]]</td></tr></table>
 

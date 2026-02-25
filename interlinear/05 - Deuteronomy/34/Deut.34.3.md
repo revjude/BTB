@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 34:3
+type: Verse
+kjv: "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar."
+bsb: "the Negev, and the region from the Valley of Jericho (the City of Palms) all the way to Zoar."
+hebrew: "וְאֶת־ הַנֶּ֗גֶב וְֽאֶת־ הַכִּכָּ֞ר בִּקְעַ֧ת יְרֵח֛וֹ עִ֥יר הַתְּמָרִ֖ים עַד־ צֹֽעַר׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic PISGAH|PISGAH]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5045G]]"
+- "[[H3603G]]"
+- "[[H1237G]]"
+- "[[H3405H]]"
+- "[[H5899]]"
+- "[[H5704]]"
+- "[[H6820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:3**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar.
 <small><sub>**BSB:**</sub></small>
 the Negev, and the region from the Valley of Jericho (the City of Palms) all the way to Zoar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5045G\|נֶּ֗גֶב]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3603G\|כִּכָּ֞ר]] [[H1237G\|בִּקְעַ֧ת]] [[H3405H\|יְרֵח֛וֹ]] [[H5899\|עִ֥יר]] [[H9009\|הַ]][[H5899\|תְּמָרִ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H6820\|צֹֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JERICHO|JERICHO]] • [[topic MOSES|MOSES]] • [[topic PALM TREE|PALM TREE]] • [[topic PISGAH|PISGAH]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.2|<< Deuteronomy 34:2]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.4|Deuteronomy 34:4 >>]]</td></tr></table>
 

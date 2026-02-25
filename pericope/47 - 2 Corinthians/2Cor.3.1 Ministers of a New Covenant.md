@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ministers of a New Covenant
+type: Pericope
 pericope: "[[2Cor.3.1 Ministers of a New Covenant|Ministers of a New Covenant]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 3
 book/chapter: "[[2Cor.3|2 Corinthians 3]]"
-genre:
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 6
 verses:
 - "[[2Cor.3.1]]"
 - "[[2Cor.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Cor.3.6]]"
 ---
 
-[[2Cor.3|2 Corinthians 3:1 - 2 Corinthians 3:6]]
+<small>[[2Cor.3|2 Corinthians 3:1-6]]</small>
 *Ministers of a New Covenant*
 
 [[2Cor.3.1|1]] Do we begin again to commend ourselves? or need we, as some \[others\], epistles of commendation to you, or \[letters\] of commendation from you?

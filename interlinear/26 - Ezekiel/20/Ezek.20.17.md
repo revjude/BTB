@@ -1,8 +1,60 @@
+---
+title: Ezekiel 20:17
+type: Verse
+kjv: "Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness."
+bsb: "Yet I looked on them with pity and did not destroy them or bring them to an end in the wilderness."
+hebrew: "וַתָּ֧חָס עֵינִ֛י עֲלֵיהֶ֖ם מִֽשַּׁחֲתָ֑ם וְלֹֽא־ עָשִׂ֧יתִי אוֹתָ֛ם כָּלָ֖ה בַּמִּדְבָּֽר׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H2347]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H7843]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H3617]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:17**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.
 <small><sub>**BSB:**</sub></small>
 Yet I looked on them with pity and did not destroy them or bring them to an end in the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2347\|תָּ֧חָס]] [[H5869A\|עֵינִ֛]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9006\|מִֽ]][[H7843\|שַּׁחֲתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6213H\|עָשִׂ֧יתִי]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H3617\|כָּלָ֖ה]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.16|<< Ezekiel 20:16]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.18|Ezekiel 20:18 >>]]</td></tr></table>
 

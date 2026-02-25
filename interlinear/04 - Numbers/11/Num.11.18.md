@@ -1,8 +1,73 @@
+---
+title: Numbers 11:18
+type: Verse
+kjv: "And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat."
+bsb: "And say to the people: Consecrate yourselves for tomorrow, and you will eat meat, because you have cried out in the hearing of the LORD, saying: ‘Who will feed us meat? For we were better off in Egypt!’ Therefore the LORD will give you meat, and you will eat."
+hebrew: "וְאֶל־ הָעָ֨ם תֹּאמַ֜ר הִתְקַדְּשׁ֣וּ לְמָחָר֮ וַאֲכַלְתֶּ֣ם בָּשָׂר֒ כִּ֡י בְּכִיתֶם֩ בְּאָזְנֵ֨י יְהוָ֜ה לֵאמֹ֗ר מִ֤י יַאֲכִלֵ֙נוּ֙ בָּשָׂ֔ר כִּי־ ט֥וֹב לָ֖נוּ בְּמִצְרָ֑יִם וְנָתַ֨ן יְהוָ֥ה לָכֶ֛ם בָּשָׂ֖ר וַאֲכַלְתֶּֽם׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H6942G]]"
+- "[[H9005]]"
+- "[[H4279]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H1058]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H3068G]]"
+- "[[H4310]]"
+- "[[H9035]]"
+- "[[H2895]]"
+- "[[H4714G]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:18**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for [it was] well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat.
 <small><sub>**BSB:**</sub></small>
 And say to the people: Consecrate yourselves for tomorrow, and you will eat meat, because you have cried out in the hearing of the LORD, saying: ‘Who will feed us meat? For we were better off in Egypt!’ Therefore the LORD will give you meat, and you will eat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H0559\|תֹּאמַ֜ר]] [[H6942G\|הִתְקַדְּשׁ֣וּ]] [[H9005\|לְ]][[H4279\|מָחָר֮]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֣ם]] [[H1320\|בָּשָׂר֒]] [[H3588A\|כִּ֡י]] [[H1058\|בְּכִיתֶם֩]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֨י]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4310\|מִ֤י]] [[H0398\|יַאֲכִלֵ֙]][[H9035\|נוּ֙]] [[H1320\|בָּשָׂ֔ר]] [[H3588A\|כִּי]][[H9014\|־]] [[H2895\|ט֥וֹב]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H5414G\|נָתַ֨ן]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H1320\|בָּשָׂ֖ר]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic INSPIRATION|INSPIRATION]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SANITATION|SANITATION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.17|<< Numbers 11:17]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.19|Numbers 11:19 >>]]</td></tr></table>
 

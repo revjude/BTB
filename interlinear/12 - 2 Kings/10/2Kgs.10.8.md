@@ -1,8 +1,69 @@
+---
+title: 2 Kings 10:8
+type: Verse
+kjv: "And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning."
+bsb: "When the messenger arrived, he told Jehu, “They have brought the heads of the sons of the king.” And Jehu ordered, “Pile them in two heaps at the entrance of the gate until morning.”"
+hebrew: "וַיָּבֹ֤א הַמַּלְאָךְ֙ וַיַּגֶּד־ ל֣וֹ לֵאמֹ֔ר הֵבִ֖יאוּ רָאשֵׁ֣י בְנֵֽי־ הַמֶּ֑לֶךְ וַיֹּ֗אמֶר שִׂ֣ימוּ אֹתָ֞ם שְׁנֵ֧י צִבֻּרִ֛ים פֶּ֥תַח הַשַּׁ֖עַר עַד־ הַבֹּֽקֶר׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0935P]]"
+- "[[H7218A]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H8147]]"
+- "[[H6652]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:8**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a messenger, and told him, saying, They have brought the heads of the king’s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.
 <small><sub>**BSB:**</sub></small>
 When the messenger arrived, he told Jehu, “They have brought the heads of the sons of the king.” And Jehu ordered, “Pile them in two heaps at the entrance of the gate until morning.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H9009\|הַ]][[H4397G\|מַּלְאָךְ֙]] [[H9001\|וַ]][[H5046\|יַּגֶּד]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935P\|הֵבִ֖יאוּ]] [[H7218A\|רָאשֵׁ֣י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7760H\|שִׂ֣ימוּ]] [[H0853\|אֹתָ֞]][[H9038\|ם]] [[H8147\|שְׁנֵ֧י]] [[H6652\|צִבֻּרִ֛ים]] [[H6607\|פֶּ֥תַח]] [[H9009\|הַ]][[H8179G\|שַּׁ֖עַר]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CHILDREN|CHILDREN]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic GATES|GATES]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.7|<< 2 Kings 10:7]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.9|2 Kings 10:9 >>]]</td></tr></table>
 

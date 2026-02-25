@@ -1,8 +1,70 @@
+---
+title: Numbers 36:6
+type: Verse
+kjv: "This is the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry."
+bsb: "This is what the LORD has commanded concerning the daughters of Zelophehad: They may marry anyone they please, provided they marry within a clan of the tribe of their father."
+hebrew: "זֶ֣ה הַדָּבָ֞ר אֲשֶׁר־ צִוָּ֣ה יְהוָ֗ה לִבְנ֤וֹת צְלָפְחָד֙ לֵאמֹ֔ר לַטּ֥וֹב בְּעֵינֵיהֶ֖ם תִּהְיֶ֣ינָה לְנָשִׁ֑ים אַ֗ךְ לְמִשְׁפַּ֛חַת מַטֵּ֥ה אֲבִיהֶ֖ם תִּהְיֶ֥ינָה לְנָשִֽׁים׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H1323G]]"
+- "[[H6765]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H0389]]"
+- "[[H4940]]"
+- "[[H4294H]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:6**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD has commanded concerning the daughters of Zelophehad: They may marry anyone they please, provided they marry within a clan of the tribe of their father.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֞ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לִ]][[H1323G\|בְנ֤וֹת]] [[H6765\|צְלָפְחָד֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לַ]][[H2896A\|טּ֥וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9028\|הֶ֖ם]] [[H1961\|תִּהְיֶ֣ינָה]] [[H9005\|לְ]][[H0802H\|נָשִׁ֑ים]] [[H0389\|אַ֗ךְ]] [[H9005\|לְ]][[H4940\|מִשְׁפַּ֛חַת]] [[H4294H\|מַטֵּ֥ה]] [[H0001G\|אֲבִי]][[H9028\|הֶ֖ם]] [[H1961\|תִּהְיֶ֥ינָה]] [[H9005\|לְ]][[H0802H\|נָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.5|<< Numbers 36:5]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.7|Numbers 36:7 >>]]</td></tr></table>
 

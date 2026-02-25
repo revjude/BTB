@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Speaks of His Creation
+type: Pericope
 pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 39
 book/chapter: "[[Job.39|Job 39]]"
-genre:
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 30
 verses:
 - "[[Job.39.1]]"
 - "[[Job.39.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Job.39.30]]"
 ---
 
-[[Job.39|Job 39:1 - Job 39:30]]
+<small>[[Job.39|Job 39:1-30]]</small>
 *The LORD Speaks of His Creation*
 
 [[Job.39.1|1]] Knowest thou the time when the wild goats of the rock bring forth? \[or\] canst thou mark when the hinds do calve?

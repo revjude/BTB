@@ -1,6 +1,69 @@
+---
+title: LXX Isaiah 11:9
+type: Verse
+lxx: "And in no way shall they do evil nor be able to destroy any one upon  my holy mountain. For the whole area is filled up  to know the lord, as much water to cover up the sea."
+greek: "και ου μη κακοποιήσωσιν ουδέ μη δύνωνται απολέσαι ουδένα επί το όρος το άγιόν μου ότι ενεπλήσθη η σύμπασα του γνώναι τον κύριον ως ύδωρ πολύ κατακαλύψαι θαλάσσας"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASP|ASP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G2554]]"
+- "[[G8565]]"
+- "[[G1410]]"
+- "[[G0622]]"
+- "[[G3762]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G1705]]"
+- "[[G3588]]"
+- "[[G9270]]"
+- "[[G3588]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G5613]]"
+- "[[G5204]]"
+- "[[G4183]]"
+- "[[G2619]]"
+- "[[G2281]]"
+---
+
 **LXX Isaiah 11:9** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall they do evil nor be able to destroy any one upon  my holy mountain. For the whole \[area\] is filled up  to know the <span class="smallcaps">lord</span>, as much water to cover up \[the\] sea. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3364\|ου μη]] [[G2554\|κακοποιήσωσιν]] [[G8565\|ουδέ μη]] [[G1410\|δύνωνται]] [[G0622\|απολέσαι]] [[G3762\|ουδένα]] [[G1909\|επί]] [[G3588\|το]] [[G3735\|όρος]] [[G3588\|το]] [[G0039\|άγιόν]] [[G1473\|μου]] [[G3754\|ότι]] [[G1705\|ενεπλήσθη]] [[G3588\|η]] [[G9270\|σύμπασα]] [[G3588\|του]] [[G1097\|γνώναι]] [[G3588\|τον]] [[G2962\|κύριον]] [[G5613\|ως]] [[G5204\|ύδωρ]] [[G4183\|πολύ]] [[G2619\|κατακαλύψαι]] [[G2281\|θαλάσσας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASP|ASP]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.8|<< Isaiah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.10|Isaiah 11:10 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ And in no way shall they do evil nor be able to destroy any one upon  my holy mo
 | much | **<big>[[G4183\|πολύ]]</big>** |
 | to cover up | **<big>[[G2619\|κατακαλύψαι]]</big>** |
 | \[the\] sea. | **<big>[[G2281\|θαλάσσας]]</big>** |
-[[Isa.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.8|<< Isaiah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.10|Isaiah 11:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.8|<< Isaiah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.10|Isaiah 11:10 >>]]</td></tr></table>
 
 

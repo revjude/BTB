@@ -1,8 +1,61 @@
+---
+title: Ezra 6:1
+type: Verse
+kjv: "Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon."
+bsb: "Thus King Darius ordered a search of the archives stored in the treasury of Babylon."
+aramaic: "בֵּאדַ֛יִן דָּרְיָ֥וֶשׁ מַלְכָּ֖א שָׂ֣ם טְעֵ֑ם וּבַקַּ֣רוּ׀ בְּבֵ֣ית סִפְרַיָּ֗א דִּ֧י גִנְזַיָּ֛א מְהַחֲתִ֥ין תַּמָּ֖ה בְּבָבֶֽל׃"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H1868G]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H9002]]"
+- "[[H1240]]"
+- "[[H9015]]"
+- "[[H1005]]"
+- "[[H5609]]"
+- "[[H1768]]"
+- "[[H1596]]"
+- "[[H5182]]"
+- "[[H8536]]"
+- "[[H0895]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:1**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 <small><sub>**BSB:**</sub></small>
 Thus King Darius ordered a search of the archives stored in the treasury of Babylon.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֛יִן]] [[H1868G\|דָּרְיָ֥וֶשׁ]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H7761G\|שָׂ֣ם]] [[H2942\|טְעֵ֑ם]] [[H9002\|וּ]][[H1240\|בַקַּ֣רוּ]][[H9015\|׀]] [[H9003\|בְּ]][[H1005\|בֵ֣ית]] [[H5609\|סִפְרַיָּ֗]][[H9010\|א]] [[H1768\|דִּ֧י]] [[H1596\|גִנְזַיָּ֛]][[H9010\|א]] [[H5182\|מְהַחֲתִ֥ין]] [[H8536\|תַּמָּ֖ה]] [[H9003\|בְּ]][[H0895\|בָבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RULERS|RULERS]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.17|<< Ezra 5:17]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.2|Ezra 6:2 >>]]</td></tr></table>
 

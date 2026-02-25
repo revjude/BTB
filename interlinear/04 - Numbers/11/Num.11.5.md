@@ -1,8 +1,68 @@
+---
+title: Numbers 11:5
+type: Verse
+kjv: "We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:"
+bsb: "We remember the fish we ate freely in Egypt, along with the cucumbers, melons, leeks, onions, and garlic."
+hebrew: "זָכַ֙רְנוּ֙ אֶת־ הַדָּגָ֔ה אֲשֶׁר־ נֹאכַ֥ל בְּמִצְרַ֖יִם חִנָּ֑ם אֵ֣ת הַקִּשֻּׁאִ֗ים וְאֵת֙ הָֽאֲבַטִּחִ֔ים וְאֶת־ הֶחָצִ֥יר וְאֶת־ הַבְּצָלִ֖ים וְאֶת־ הַשּׁוּמִֽים׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CUCUMBER|CUCUMBER]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic GARLIC|GARLIC]]"
+- "[[topic LEEK|LEEK]]"
+- "[[topic MELON|MELON]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic ONION|ONION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1710]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H2600]]"
+- "[[H7180]]"
+- "[[H9002]]"
+- "[[H0020]]"
+- "[[H2682B]]"
+- "[[H1211]]"
+- "[[H7762]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:5**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
 <small><sub>**BSB:**</sub></small>
 We remember the fish we ate freely in Egypt, along with the cucumbers, melons, leeks, onions, and garlic.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכַ֙רְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1710\|דָּגָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0398\|נֹאכַ֥ל]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֖יִם]] [[H2600\|חִנָּ֑ם]] [[H0853\|אֵ֣ת]] [[H9009\|הַ]][[H7180\|קִּשֻּׁאִ֗ים]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הָֽ]][[H0020\|אֲבַטִּחִ֔ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2682B\|חָצִ֥יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1211\|בְּצָלִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7762\|שּׁוּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUCUMBER|CUCUMBER]] • [[topic EGYPT|EGYPT]] • [[topic GARLIC|GARLIC]] • [[topic LEEK|LEEK]] • [[topic MELON|MELON]] • [[topic MURMURING|MURMURING]] • [[topic ONION|ONION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.4|<< Numbers 11:4]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.6|Numbers 11:6 >>]]</td></tr></table>
 

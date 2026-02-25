@@ -1,8 +1,54 @@
+---
+title: Psalm 102:11
+type: Verse
+kjv: "My days are like a shadow that declineth; and I am withered like grass."
+bsb: "My days are like lengthening shadows, and I wither away like grass."
+hebrew: "יָ֭מַי כְּצֵ֣ל נָט֑וּי וַ֝אֲנִ֗י כָּעֵ֥שֶׂב אִיבָֽשׁ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H6738]]"
+- "[[H5186]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H6212]]"
+- "[[H3001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:11**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My days [are] like a shadow that declineth; and I am withered like grass.
 <small><sub>**BSB:**</sub></small>
 My days are like lengthening shadows, and I wither away like grass.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|יָ֭מַ]][[H9020\|י]] [[H9004\|כְּ]][[H6738\|צֵ֣ל]] [[H5186\|נָט֑וּי]] [[H9002\|וַ֝]][[H0589\|אֲנִ֗י]] [[H9004\|כָּ]][[H6212\|עֵ֥שֶׂב]] [[H3001\|אִיבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.10|<< Psalms 102:10]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.12|Psalms 102:12 >>]]</td></tr></table>
 

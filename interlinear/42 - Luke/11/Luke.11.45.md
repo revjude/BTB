@@ -1,10 +1,60 @@
+---
+title: Luke 11:45
+type: Verse
+kjv: "Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also."
+bsb: "One of the experts in the law told Him, “Teacher, when You say these things, You insult us as well.”"
+greek: "Ἀποκριθεὶς δέ τις τῶν νομικῶν λέγει αὐτῷ· διδάσκαλε, ταῦτα λέγων καὶ ἡμᾶς ὑβρίζεις.¶"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G3544]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G5195]]"
+texts:
+- NKO
+---
+
 **Luke 11:45**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
 <small><sub>**BSB:**</sub></small>
 One of the experts in the law told Him, “Teacher, when You say these things, You insult us as well.”
-<small><sub>**Literal:**</sub></small>
-Answering now one of the lawyers says to Him; Teacher, these things saying also us You insult.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.44|<< Luke 11:44]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.46|Luke 11:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3588\|τῶν]]  [[G3544\|νομικῶν]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G3778\|ταῦτα]]  [[G3004G\|λέγων]]  [[G2532\|καὶ]]  [[G3165\|ἡμᾶς]]  [[G5195\|ὑβρίζεις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.44|<< Luke 11:44]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.46|Luke 11:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

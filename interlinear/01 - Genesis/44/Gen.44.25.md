@@ -1,8 +1,57 @@
+---
+title: Genesis 44:25
+type: Verse
+kjv: "And our father said, Go again, and buy us a little food."
+bsb: "Then our father said, ‘Go back and buy us some food.’"
+hebrew: "וַיֹּ֖אמֶר אָבִ֑ינוּ שֻׁ֖בוּ שִׁבְרוּ־ לָ֥נוּ מְעַט־ אֹֽכֶל׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H7725J]]"
+- "[[H7666]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4592]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:25**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And our father said, Go again, [and] buy us a little food.
 <small><sub>**BSB:**</sub></small>
 Then our father said, ‘Go back and buy us some food.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0001G\|אָבִ֑י]][[H9025\|נוּ]] [[H7725J\|שֻׁ֖בוּ]] [[H7666\|שִׁבְרוּ]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H4592\|מְעַט]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.24|<< Genesis 44:24]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.26|Genesis 44:26 >>]]</td></tr></table>
 

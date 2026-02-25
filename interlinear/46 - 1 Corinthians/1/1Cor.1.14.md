@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 1:14
+type: Verse
+kjv: "I thank God that I baptized none of you, but Crispus and Gaius;"
+bsb: "I thank God that I did not baptize any of you except Crispus and Gaius,"
+greek: "εὐχαριστῶ τῷ θεῷ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,"
+pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CRISPUS|CRISPUS]]"
+- "[[topic GAIUS|GAIUS]]"
+strongs:
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G4771]]"
+- "[[G0907]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2921]]"
+- "[[G2532]]"
+- "[[G1050I]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:14**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I thank God that I baptized none of you, but Crispus and Gaius;
 <small><sub>**BSB:**</sub></small>
 I thank God that I did not baptize any of you except Crispus and Gaius,
-<small><sub>**Literal:**</sub></small>
-I thank <the> God that no [one] of you I baptized only except Crispus and Gaius,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.13|<< 1 Corinthians 1:13]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.15|1 Corinthians 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|εὐχαριστῶ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδένα]]  [[G4771\|ὑμῶν]]  [[G0907\|ἐβάπτισα]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G2921\|Κρίσπον]]  [[G2532\|καὶ]]  [[G1050I\|Γάϊον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CRISPUS|CRISPUS]] • [[topic GAIUS|GAIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.13|<< 1 Corinthians 1:13]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.15|1 Corinthians 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

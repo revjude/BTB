@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 24:12
+type: Verse
+kjv: "The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee."
+bsb: "May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you."
+hebrew: "יִשְׁפֹּ֤ט יְהוָה֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּנְקָמַ֥נִי יְהוָ֖ה מִמֶּ֑ךָּ וְיָדִ֖י לֹ֥א תִֽהְיֶה־ בָּֽךְ׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H8199]]"
+- "[[H3068G]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H5358]]"
+- "[[H4480A]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:12**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee.
 <small><sub>**BSB:**</sub></small>
 May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H8199\|יִשְׁפֹּ֤ט]] [[H3068G\|יְהוָה֙]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶ֔]][[H9031\|ךָ]] [[H9001\|וּ]][[H5358\|נְקָמַ֥]][[H9030\|נִי]] [[H3068G\|יְהוָ֖ה]] [[H4480A\|מִמֶּ֑]][[H9031\|ךָּ]] [[H9002\|וְ]][[H3027G\|יָדִ֖]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H1961\|תִֽהְיֶה]][[H9014\|־]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic MERCY|MERCY]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.11|<< 1 Samuel 24:11]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.13|1 Samuel 24:13 >>]]</td></tr></table>
 

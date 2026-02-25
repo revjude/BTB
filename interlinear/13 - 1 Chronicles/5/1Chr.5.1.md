@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 5:1
+type: Verse
+kjv: "Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father’s bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright."
+bsb: "These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright."
+hebrew: "וּבְנֵ֨י רְאוּבֵ֥ן בְּכֽוֹר־ יִשְׂרָאֵל֮ כִּ֣י ה֣וּא הַבְּכוֹר֒ וּֽבְחַלְּלוֹ֙ יְצוּעֵ֣י אָבִ֔יו נִתְּנָה֙ בְּכֹ֣רָת֔וֹ לִבְנֵ֥י יוֹסֵ֖ף בֶּן־ יִשְׂרָאֵ֑ל וְלֹ֥א לְהִתְיַחֵ֖שׂ לַבְּכֹרָֽה׃"
+pericope: "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H7205]]"
+- "[[H1060]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H2490H]]"
+- "[[H9043]]"
+- "[[H3326A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H5414O]]"
+- "[[H1062]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H3808]]"
+- "[[H3187]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:1**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sons of Reuben the firstborn of Israel, (for he [was] the firstborn; but, forasmuch as he defiled his father’s bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 <small><sub>**BSB:**</sub></small>
 These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֨י]] [[H7205\|רְאוּבֵ֥ן]] [[H1060\|בְּכֽוֹר]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֮]] [[H3588A\|כִּ֣י]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H1060\|בְּכוֹר֒]] [[H9002\|וּֽ]][[H9003\|בְ]][[H2490H\|חַלְּל]][[H9043\|וֹ֙]] [[H3326A\|יְצוּעֵ֣י]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H5414O\|נִתְּנָה֙]] [[H1062\|בְּכֹ֣רָת֔]][[H9023\|וֹ]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H3130G\|יוֹסֵ֖ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9005\|לְ]][[H3187\|הִתְיַחֵ֖שׂ]] [[H9005\|לַ]][[H1062\|בְּכֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic INCEST|INCEST]] • [[topic JUDAH|JUDAH]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.43|<< 1 Chronicles 4:43]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.2|1 Chronicles 5:2 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Numbers 7:54
+type: Verse
+kjv: "On the eighth day offered Gamaliel the son of Pedahzur, prince of the children of Manasseh:"
+bsb: "On the eighth day Gamaliel son of Pedahzur, the leader of the Manassites, drew near."
+hebrew: "בַּיּוֹם֙ הַשְּׁמִינִ֔י נָשִׂ֖יא לִבְנֵ֣י מְנַשֶּׁ֑ה גַּמְלִיאֵ֖ל בֶּן־ פְּדָה־ צֽוּר׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PEDAHZUR|PEDAHZUR]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H4519G]]"
+- "[[H1583]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H6301]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:54**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the eighth day [offered] Gamaliel the son of Pedahzur, prince of the children of Manasseh:
 <small><sub>**BSB:**</sub></small>
 On the eighth day Gamaliel son of Pedahzur, the leader of the Manassites, drew near.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֔י]] [[H5387A\|נָשִׂ֖יא]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H1583\|גַּמְלִיאֵ֖ל]] [[H1121G\|בֶּן]][[H9014\|־]] [[H6301\|פְּדָה]][[H9014\|־]] [[H6301\|צֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PEDAHZUR|PEDAHZUR]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.53|<< Numbers 7:53]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.55|Numbers 7:55 >>]]</td></tr></table>
 

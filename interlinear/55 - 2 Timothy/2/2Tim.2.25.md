@@ -1,10 +1,63 @@
+---
+title: 2 Timothy 2:25
+type: Verse
+kjv: "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;"
+bsb: "He must gently reprove those who oppose him, in the hope that God may grant them repentance leading to a knowledge of the truth."
+greek: "ἐν πραΰτητι παιδεύοντα τοὺς ἀντιδιατιθεμένους, μήποτε μήποτε δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν εἰς ἐπίγνωσιν ἀληθείας,"
+pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G1722]]"
+- "[[G4236]]"
+- "[[G3811]]"
+- "[[G3588]]"
+- "[[G0475]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G3341]]"
+- "[[G1519]]"
+- "[[G1922]]"
+- "[[G0225]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Timothy 2:25**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;
 <small><sub>**BSB:**</sub></small>
 He must gently reprove those who oppose him, in the hope that God may grant them repentance leading to a knowledge of the truth.
-<small><sub>**Literal:**</sub></small>
-in gentleness disciplining those opposing, otherwise he may give to them <the> God repentance unto a knowledge of [the] truth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.24|<< 2 Timothy 2:24]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.26|2 Timothy 2:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G4236\|πραΰτητι]]  [[G3811\|παιδεύοντα]]  [[G3588\|τοὺς]]  [[G0475\|ἀντιδιατιθεμένους,]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G1325\|δώῃ]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3341\|μετάνοιαν]]  [[G1519\|εἰς]]  [[G1922\|ἐπίγνωσιν]]  [[G0225\|ἀληθείας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GENTLENESS|GENTLENESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STRIFE|STRIFE]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.24|<< 2 Timothy 2:24]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.26|2 Timothy 2:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

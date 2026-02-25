@@ -1,8 +1,53 @@
+---
+title: Proverbs 29:15
+type: Verse
+kjv: "The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame."
+bsb: "A rod of correction imparts wisdom, but a child left to himself disgraces his mother."
+hebrew: "שֵׁ֣בֶט וְ֭תוֹכַחַת יִתֵּ֣ן חָכְמָ֑ה וְנַ֥עַר מְ֝שֻׁלָּ֗ח מֵבִ֥ישׁ אִמּֽוֹ׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H7626G]]"
+- "[[H9002]]"
+- "[[H8433B]]"
+- "[[H5414G]]"
+- "[[H2451]]"
+- "[[H5288]]"
+- "[[H7971H]]"
+- "[[H0954]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:15**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rod and reproof give wisdom: but a child left [to himself] bringeth his mother to shame.
 <small><sub>**BSB:**</sub></small>
 A rod of correction imparts wisdom, but a child left to himself disgraces his mother.
+<small><sub>**Hebrew:**</sub></small>
+[[H7626G\|שֵׁ֣בֶט]] [[H9002\|וְ֭]][[H8433B\|תוֹכַחַת]] [[H5414G\|יִתֵּ֣ן]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וְ]][[H5288\|נַ֥עַר]] [[H7971H\|מְ֝שֻׁלָּ֗ח]] [[H0954\|מֵבִ֥ישׁ]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.14|<< Proverbs 29:14]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.16|Proverbs 29:16 >>]]</td></tr></table>
 

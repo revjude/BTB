@@ -1,10 +1,72 @@
+---
+title: Matthew 13:22
+type: Verse
+kjv: "He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful."
+bsb: "The seed sown among the thorns is the one who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, and it becomes unfruitful."
+jesus_said: "He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful."
+greek: "ὁ δὲ εἰς τὰς ἀκάνθας σπαρείς, οὗτός ἐστιν ὁ τὸν λόγον ἀκούων, καὶ ἡ μέριμνα τοῦ αἰῶνος τούτου καὶ ἡ ἀπάτη τοῦ πλούτου συμπνίγει τὸν λόγον, καὶ ἄκαρπος γίνεται."
+pericope: "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CARE|CARE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic THORN|THORN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G0173]]"
+- "[[G4687]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3056]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G3308]]"
+- "[[G0165G]]"
+- "[[G0539]]"
+- "[[G4149]]"
+- "[[G4846]]"
+- "[[G0175]]"
+- "[[G1096]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 13:22**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
 <small><sub>**BSB:**</sub></small>
 The seed sown among the thorns is the one who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, and it becomes unfruitful.
-<small><sub>**Literal:**</sub></small>
-That which now among the thorns having been sown, this is the [one] the word hearing, and the care of the age this and the deceit <the> of riches choke the word, and unfruitful it becomes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.21|<< Matthew 13:21]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.23|Matthew 13:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G0173\|ἀκάνθας]]  [[G4687\|σπαρείς,]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0191\|ἀκούων,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3308\|μέριμνα]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3778\|τούτου]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0539\|ἀπάτη]]  [[G3588\|τοῦ]]  [[G4149\|πλούτου]]  [[G4846\|συμπνίγει]]  [[G3588\|τὸν]]  [[G3056\|λόγον,]]  [[G2532\|καὶ]]  [[G0175\|ἄκαρπος]]  [[G1096\|γίνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CARE|CARE]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FAITH|FAITH]] • [[topic HEARERS|HEARERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICHES|RICHES]] • [[topic SERMON|SERMON]] • [[topic TEMPTATION|TEMPTATION]] • [[topic THORN|THORN]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.21|<< Matthew 13:21]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.23|Matthew 13:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

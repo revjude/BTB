@@ -1,8 +1,58 @@
+---
+title: Genesis 44:5
+type: Verse
+kjv: "Is not this it in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing."
+bsb: "Is this not the cup my master drinks from and uses for divination? What you have done is wicked!’”"
+hebrew: "הֲל֣וֹא זֶ֗ה אֲשֶׁ֨ר יִשְׁתֶּ֤ה אֲדֹנִי֙ בּ֔וֹ וְה֕וּא נַחֵ֥שׁ יְנַחֵ֖שׁ בּ֑וֹ הֲרֵעֹתֶ֖ם אֲשֶׁ֥ר עֲשִׂיתֶֽם׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H8354]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5172]]"
+- "[[H7489A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:5**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not this [it] in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.
 <small><sub>**BSB:**</sub></small>
 Is this not the cup my master drinks from and uses for divination? What you have done is wicked!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H2088\|זֶ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H8354\|יִשְׁתֶּ֤ה]] [[H0113\|אֲדֹנִ]][[H9020\|י֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H1931\|ה֕וּא]] [[H5172\|נַחֵ֥שׁ]] [[H5172\|יְנַחֵ֖שׁ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H7489A\|הֲרֵעֹתֶ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עֲשִׂיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.4|<< Genesis 44:4]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.6|Genesis 44:6 >>]]</td></tr></table>
 

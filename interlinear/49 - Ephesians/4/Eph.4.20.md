@@ -1,10 +1,48 @@
+---
+title: Ephesians 4:20
+type: Verse
+kjv: "But ye have not so learned Christ;"
+bsb: "But this is not the way you came to know Christ."
+greek: "ὑμεῖς δὲ οὐχ οὕτως ἐμάθετε τὸν Χριστόν,"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G3779]]"
+- "[[G3129]]"
+- "[[G3588]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:20**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye have not so learned Christ;
 <small><sub>**BSB:**</sub></small>
 But this is not the way you came to know Christ.
-<small><sub>**Literal:**</sub></small>
-you yourselves however not this way learned <the> Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.19|<< Ephesians 4:19]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.21|Ephesians 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G3756\|οὐχ]]  [[G3779\|οὕτως]]  [[G3129\|ἐμάθετε]]  [[G3588\|τὸν]]  [[G5547\|Χριστόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HOLINESS|HOLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.19|<< Ephesians 4:19]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.21|Ephesians 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,68 @@
+---
+title: Luke 4:4
+type: Verse
+kjv: "And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God."
+bsb: "But Jesus answered, “It is written: ‘Man shall not live on bread alone.’”"
+jesus_said: "It is written, That man shall not live by bread alone, but by every word of God."
+greek: "καὶ ἀπεκρίθη πρὸς αὐτὸν ὁ Ἰησοῦς λέγων· γέγραπται ὅτι οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ἀλλ᾽ ἐπὶ παντὶ ῥήματι θεοῦ.¶"
+pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1909]]"
+- "[[G0740]]"
+- "[[G3441]]"
+- "[[G2198]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G3956]]"
+- "[[G4487]]"
+- "[[G2316]]"
+texts:
+- NKO
+- no
+- k
+- KO
+---
+
 **Luke 4:4**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It is written: ‘Man shall not live on bread alone.’”
-<small><sub>**Literal:**</sub></small>
-And answered to him <the> Jesus saying: It has been written that Not on bread alone will live the man’ but upon everything declaration of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.3|<< Luke 4:3]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.5|Luke 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀπεκρίθη]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1909\|ἐπ᾽]]  [[G0740\|ἄρτῳ]]  [[G3441\|μόνῳ]]  [[G2198\|ζήσεται]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπὶ]]  [[G3956\|παντὶ]]  [[G4487\|ῥήματι]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.3|<< Luke 4:3]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.5|Luke 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 4:4** is...
 > $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]

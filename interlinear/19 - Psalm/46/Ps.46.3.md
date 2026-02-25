@@ -1,8 +1,56 @@
+---
+title: Psalm 46:3
+type: Verse
+kjv: "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah."
+bsb: "though their waters roar and foam and the mountains quake in the surge. Selah"
+hebrew: "יֶהֱמ֣וּ יֶחְמְר֣וּ מֵימָ֑יו יִֽרְעֲשֽׁוּ־ הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H1993]]"
+- "[[H2560A]]"
+- "[[H4325G]]"
+- "[[H9023]]"
+- "[[H7493]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H9003]]"
+- "[[H1346]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:3**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] the waters thereof roar [and] be troubled, [though] the mountains shake with the swelling thereof. Selah.
 <small><sub>**BSB:**</sub></small>
 though their waters roar and foam and the mountains quake in the surge. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H1993\|יֶהֱמ֣וּ]] [[H2560A\|יֶחְמְר֣וּ]] [[H4325G\|מֵימָ֑י]][[H9023\|ו]] [[H7493\|יִֽרְעֲשֽׁוּ]][[H9014\|־]] [[H2022G\|הָרִ֖ים]] [[H9003\|בְּ]][[H1346\|גַאֲוָת֣]][[H9023\|וֹ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.2|<< Psalms 46:2]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.4|Psalms 46:4 >>]]</td></tr></table>
 

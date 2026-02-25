@@ -1,8 +1,64 @@
+---
+title: Exodus 33:10
+type: Verse
+kjv: "And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door."
+bsb: "When all the people saw the pillar of cloud standing at the entrance to the tent, they would stand up and worship, each one at the entrance to his own tent."
+hebrew: "וְרָאָ֤ה כָל־ הָעָם֙ אֶת־ עַמּ֣וּד הֶֽעָנָ֔ן עֹמֵ֖ד פֶּ֣תַח הָאֹ֑הֶל וְקָ֤ם כָּל־ הָעָם֙ וְהִֽשְׁתַּחֲוּ֔וּ אִ֖ישׁ פֶּ֥תַח אָהֳלֽוֹ׃"
+pericope: "[[Exod.33.7 The Tent of Meeting|The Tent of Meeting]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H5982G]]"
+- "[[H6051]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H6965B]]"
+- "[[H7812]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:10**<big><big>[[Exod.33.7 The Tent of Meeting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people saw the cloudy pillar stand [at] the tabernacle door: and all the people rose up and worshipped, every man [in] his tent door.
 <small><sub>**BSB:**</sub></small>
 When all the people saw the pillar of cloud standing at the entrance to the tent, they would stand up and worship, each one at the entrance to his own tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֤ה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמּ֣וּד]] [[H9009\|הֶֽ]][[H6051\|עָנָ֔ן]] [[H5975G\|עֹמֵ֖ד]] [[H6607\|פֶּ֣תַח]] [[H9009\|הָ]][[H0168G\|אֹ֑הֶל]] [[H9001\|וְ]][[H6965B\|קָ֤ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9001\|וְ]][[H7812\|הִֽשְׁתַּחֲוּ֔וּ]] [[H0376I\|אִ֖ישׁ]] [[H6607\|פֶּ֥תַח]] [[H0168G\|אָהֳלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.9|<< Exodus 33:9]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.11|Exodus 33:11 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Hosea 11:4
+type: Verse
+kjv: "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them."
+bsb: "I led them with cords of kindness, with ropes of love; I lifted the yoke from their necks and bent down to feed them."
+hebrew: "בְּחַבְלֵ֨י אָדָ֤ם אֶמְשְׁכֵם֙ בַּעֲבֹת֣וֹת אַהֲבָ֔ה וָאֶהְיֶ֥ה לָהֶ֛ם כִּמְרִ֥ימֵי עֹ֖ל עַ֣ל לְחֵיהֶ֑ם וְאַ֥ט אֵלָ֖יו אוֹכִֽיל׃"
+pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ROPE|ROPE]]"
+strongs:
+- "[[H9003]]"
+- "[[H2256M]]"
+- "[[H0120G]]"
+- "[[H4900]]"
+- "[[H9038]]"
+- "[[H5688]]"
+- "[[H0160]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9004]]"
+- "[[H7311A]]"
+- "[[H5923]]"
+- "[[H5921A]]"
+- "[[H3895H]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5186]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:4**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.
 <small><sub>**BSB:**</sub></small>
 I led them with cords of kindness, with ropes of love; I lifted the yoke from their necks and bent down to feed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2256M\|חַבְלֵ֨י]] [[H0120G\|אָדָ֤ם]] [[H4900\|אֶמְשְׁכֵ]][[H9038\|ם֙]] [[H9003\|בַּ]][[H5688\|עֲבֹת֣וֹת]] [[H0160\|אַהֲבָ֔ה]] [[H9001\|וָ]][[H1961\|אֶהְיֶ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9004\|כִּ]][[H7311A\|מְרִ֥ימֵי]] [[H5923\|עֹ֖ל]] [[H5921A\|עַ֣ל]] [[H3895H\|לְחֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H5186\|אַ֥ט]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H0398\|אוֹכִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic GOD|GOD]] • [[topic ROPE|ROPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.3|<< Hosea 11:3]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.5|Hosea 11:5 >>]]</td></tr></table>
 

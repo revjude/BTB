@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 21:20
+type: Verse
+kjv: "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard."
+bsb: "and say to the elders, “This son of ours is stubborn and rebellious; he does not obey us. He is a glutton and a drunkard.”"
+hebrew: "וְאָמְר֞וּ אֶל־ זִקְנֵ֣י עִיר֗וֹ בְּנֵ֤נוּ זֶה֙ סוֹרֵ֣ר וּמֹרֶ֔ה אֵינֶ֥נּוּ שֹׁמֵ֖עַ בְּקֹלֵ֑נוּ זוֹלֵ֖ל וְסֹבֵֽא׃"
+pericope: "[[Deut.21.18 A Rebellious Son|A Rebellious Son]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DRUNKARD|DRUNKARD]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H9025]]"
+- "[[H2088]]"
+- "[[H5637]]"
+- "[[H9002]]"
+- "[[H4784]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H2151B]]"
+- "[[H5433B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:20**<big><big>[[Deut.21.18 A Rebellious Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall say unto the elders of his city, This our son [is] stubborn and rebellious, he will not obey our voice; [he is] a glutton, and a drunkard.
 <small><sub>**BSB:**</sub></small>
 and say to the elders, “This son of ours is stubborn and rebellious; he does not obey us. He is a glutton and a drunkard.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמְר֞וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2205G\|זִקְנֵ֣י]] [[H5892B\|עִיר֗]][[H9023\|וֹ]] [[H1121A\|בְּנֵ֤]][[H9025\|נוּ]] [[H2088\|זֶה֙]] [[H5637\|סוֹרֵ֣ר]] [[H9002\|וּ]][[H4784\|מֹרֶ֔ה]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H8085H\|שֹׁמֵ֖עַ]] [[H9003\|בְּ]][[H6963A\|קֹלֵ֑]][[H9025\|נוּ]] [[H2151B\|זוֹלֵ֖ל]] [[H9002\|וְ]][[H5433B\|סֹבֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic DRUNKARD|DRUNKARD]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GLUTTONY|GLUTTONY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.19|<< Deuteronomy 21:19]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.21|Deuteronomy 21:21 >>]]</td></tr></table>
 

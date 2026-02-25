@@ -1,8 +1,65 @@
+---
+title: Psalm 42:8
+type: Verse
+kjv: "Yet the LORD will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life."
+bsb: "The LORD decrees His loving devotion by day, and at night His song is with me as a prayer to the God of my life."
+hebrew: "יוֹמָ֤ם׀ יְצַוֶּ֬ה יְהוָ֨ה׀ חַסְדּ֗וֹ וּ֭בַלַּיְלָה שִׁיר֣וֹ עִמִּ֑י תְּ֝פִלָּ֗ה לְאֵ֣ל חַיָּֽי׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+strongs:
+- "[[H3119]]"
+- "[[H9015]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H7892A]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H8605]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 42:8**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] the LORD will command his lovingkindness in the daytime, and in the night his song [shall be] with me, [and] my prayer unto the God of my life.
 <small><sub>**BSB:**</sub></small>
 The LORD decrees His loving devotion by day, and at night His song is with me as a prayer to the God of my life.
+<small><sub>**Hebrew:**</sub></small>
+[[H3119\|יוֹמָ֤ם]][[H9015\|׀]] [[H6680\|יְצַוֶּ֬ה]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H2617A\|חַסְדּ֗]][[H9023\|וֹ]] [[H9002\|וּ֭]][[H9003\|בַ]][[H3915\|לַּיְלָה]] [[H7892A\|שִׁיר֣]][[H9023\|וֹ]] [[H5973A\|עִמִּ֑]][[H9030\|י]] [[H8605\|תְּ֝פִלָּ֗ה]] [[H9005\|לְ]][[H0410G\|אֵ֣ל]] [[H2416E\|חַיָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PRAYERFULNESS|PRAYERFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.7|<< Psalms 42:7]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.9|Psalms 42:9 >>]]</td></tr></table>
 
@@ -20,7 +77,7 @@ The LORD decrees His loving devotion by day, and at night His song is with me as
 | life my  |**<big>&#8207;[[H2416E\|חַיָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Ya<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.7|<< Psalms 42:7]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.9|Psalms 42:9 >>]]</td></tr></table>
 
-[^1]: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: song his  | **<big>[[H7892A|שִׁירָ]]</big><big>[[H9023|הּ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: song his  | **<big>[[H7892A|שִׁירָ]]</big><big>[[H9023|הּ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>שִׁירֹ֣ה</big></span>**
 

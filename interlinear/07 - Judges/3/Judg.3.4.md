@@ -1,8 +1,62 @@
+---
+title: Judges 3:4
+type: Verse
+kjv: "And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses."
+bsb: "These nations were left to test the Israelites, to find out whether they would keep the commandments of the LORD, which He had given their fathers through Moses."
+hebrew: "וַֽיִּהְי֕וּ לְנַסּ֥וֹת בָּ֖ם אֶת־ יִשְׂרָאֵ֑ל לָדַ֗עַת הֲיִשְׁמְעוּ֙ אֶת־ מִצְוֹ֣ת יְהוָ֔ה אֲשֶׁר־ צִוָּ֥ה אֶת־ אֲבוֹתָ֖ם בְּיַד־ מֹשֶֽׁה׃"
+pericope: "[[Judg.3.1 Nations Left to Test Israel|Nations Left to Test Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5254G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3045]]"
+- "[[H9008]]"
+- "[[H8085H]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3027H]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:4**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 These nations were left to test the Israelites, to find out whether they would keep the commandments of the LORD, which He had given their fathers through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יִּהְי֕וּ]] [[H9005\|לְ]][[H5254G\|נַסּ֥וֹת]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לָ]][[H3045\|דַ֗עַת]] [[H9008\|הֲ]][[H8085H\|יִשְׁמְעוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.3|<< Judges 3:3]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.5|Judges 3:5 >>]]</td></tr></table>
 

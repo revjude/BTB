@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 19:25
+type: Verse
+kjv: "And it came to pass, when he was come to Jerusalem to meet the king, that the king said unto him, Wherefore wentest not thou with me, Mephibosheth?"
+bsb: "And he came from Jerusalem to meet the king, who asked him, “Mephibosheth, why did you not go with me?”"
+hebrew: "וַיְהִ֛י כִּי־ בָ֥א יְרוּשָׁלִַ֖ם לִקְרַ֣את הַמֶּ֑לֶךְ וַיֹּ֤אמֶר לוֹ֙ הַמֶּ֔לֶךְ לָ֛מָּה לֹא־ הָלַ֥כְתָּ עִמִּ֖י מְפִיבֹֽשֶׁת׃"
+pericope: "[[2Sam.19.24 Mephibosheth Excused|Mephibosheth Excused]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H4648G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:25**<big><big>[[2Sam.19.24 Mephibosheth Excused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he was come to Jerusalem to meet the king, that the king said unto him, Wherefore wentest not thou with me, Mephibosheth?
 <small><sub>**BSB:**</sub></small>
 And he came from Jerusalem to meet the king, who asked him, “Mephibosheth, why did you not go with me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֥א]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לָ֛]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H1980G\|הָלַ֥כְתָּ]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H4648G\|מְפִיבֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.24|<< 2 Samuel 19:24]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.26|2 Samuel 19:26 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Matthew 26:31
+type: Verse
+kjv: "Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
+bsb: "Then Jesus said to them, “This very night you will all fall away on account of Me. For it is written: ‘I will strike the Shepherd, and the sheep of the flock will be scattered.’"
+jesus_said: "All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad."
+greek: "Τότε λέγει αὐτοῖς ὁ Ἰησοῦς· πάντες ὑμεῖς σκανδαλισθήσεσθε ἐν ἐμοὶ ἐν τῇ νυκτὶ ταύτῃ· γέγραπται γάρ· πατάξω τὸν ποιμένα, καὶ διασκορπισθήσονται τὰ πρόβατα τῆς ποίμνης."
+pericope: "[[Matt.26.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G4624]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3571]]"
+- "[[G3778]]"
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G3960]]"
+- "[[G4166]]"
+- "[[G2532]]"
+- "[[G1287]]"
+- "[[G4263]]"
+- "[[G4167]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 26:31**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “This very night you will all fall away on account of Me. For it is written: ‘I will strike the Shepherd, and the sheep of the flock will be scattered.’
-<small><sub>**Literal:**</sub></small>
-Then says to them <the> Jesus; All you yourselves will fall away because of Me myself during <the> night this; It has been written for: I will strike the shepherd, and they will be scattered the sheep of the flock.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.30|<< Matthew 26:30]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.32|Matthew 26:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3956\|πάντες]]  [[G4771\|ὑμεῖς]]  [[G4624\|σκανδαλισθήσεσθε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G3778\|ταύτῃ·]]  [[G1125\|γέγραπται]]  [[G1063\|γάρ·]]  [[G3960\|πατάξω]]  [[G3588\|τὸν]]  [[G4166\|ποιμένα,]]  [[G2532\|καὶ]]  [[G1287\|διασκορπισθήσονται]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα]]  [[G3588\|τῆς]]  [[G4167\|ποίμνης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.30|<< Matthew 26:30]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.32|Matthew 26:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 26:31** is...
 > $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]

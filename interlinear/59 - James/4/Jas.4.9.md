@@ -1,10 +1,56 @@
+---
+title: James 4:9
+type: Verse
+kjv: "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+bsb: "Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom."
+greek: "ταλαιπωρήσατε καὶ πενθήσατε καὶ κλαύσατε· ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν."
+pericope: "[[Jas.4.7 Drawing Near to God|Drawing Near to God]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5003]]"
+- "[[G2532]]"
+- "[[G3996]]"
+- "[[G2799]]"
+- "[[G3588]]"
+- "[[G1071]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3997]]"
+- "[[G6060]]"
+- "[[G5479]]"
+- "[[G2726]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **James 4:9**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and [your] joy to heaviness.
 <small><sub>**BSB:**</sub></small>
 Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom.
-<small><sub>**Literal:**</sub></small>
-do be grieved and do mourn and do weep; The laughter of you to mourning should be turned and the joy to gloom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.8|<< James 4:8]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.10|James 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5003\|ταλαιπωρήσατε]]  [[G2532\|καὶ]]  [[G3996\|πενθήσατε]]  [[G2532\|καὶ]]  [[G2799\|κλαύσατε·]]  [[G3588\|ὁ]]  [[G1071\|γέλως]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G3997\|πένθος]]  [[G6060\|μετατραπήτω]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G1519\|εἰς]]  [[G2726\|κατήφειαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JOY|JOY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.8|<< James 4:8]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.10|James 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

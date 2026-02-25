@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Adonijah Learns of Solomon’s Kingship
+type: Pericope
 pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 1
 book/chapter: "[[1Kgs.1|1 Kings 1]]"
-genre:
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 13
 verses:
 - "[[1Kgs.1.41]]"
 - "[[1Kgs.1.42]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Kgs.1.53]]"
 ---
 
-[[1Kgs.1|1 Kings 1:41 - 1 Kings 1:53]]
+<small>[[1Kgs.1|1 Kings 1:41-53]]</small>
 *Adonijah Learns of Solomon’s Kingship*
 
 [[1Kgs.1.41|41]] And Adonijah and all the guests that \[were\] with him heard \[it\] as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore \[is this\] noise of the city being in an uproar?

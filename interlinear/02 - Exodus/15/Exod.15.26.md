@@ -1,8 +1,83 @@
+---
+title: Exodus 15:26
+type: Verse
+kjv: "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee."
+bsb: "saying, “If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.”"
+hebrew: "וַיֹּאמֶר֩ אִם־ שָׁמ֨וֹעַ תִּשְׁמַ֜ע לְק֣וֹל׀ יְהוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֹתָ֔יו וְשָׁמַרְתָּ֖ כָּל־ חֻקָּ֑יו כָּֽל־ הַמַּֽחֲלָ֞ה אֲשֶׁר־ שַׂ֤מְתִּי בְמִצְרַ֙יִם֙ לֹא־ אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהוָ֖ה רֹפְאֶֽךָ׃ ס"
+pericope: "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H0238]]"
+- "[[H4687]]"
+- "[[H8104G]]"
+- "[[H3605]]"
+- "[[H2706G]]"
+- "[[H4245B]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H7495]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 15:26**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I [am] the LORD that healeth thee.
 <small><sub>**BSB:**</sub></small>
 saying, “If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H0518A\|אִם]][[H9014\|־]] [[H8085G\|שָׁמ֨וֹעַ]] [[H8085G\|תִּשְׁמַ֜ע]] [[H9005\|לְ]][[H6963A\|ק֣וֹל]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9009\|הַ]][[H3477G\|יָּשָׁ֤ר]] [[H9003\|בְּ]][[H5869I\|עֵינָי]][[H9023\|ו֙]] [[H6213A\|תַּעֲשֶׂ֔ה]] [[H9001\|וְ]][[H0238\|הַֽאֲזַנְתָּ֙]] [[H9005\|לְ]][[H4687\|מִצְוֹתָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H8104G\|שָׁמַרְתָּ֖]] [[H3605\|כָּל]][[H9014\|־]] [[H2706G\|חֻקָּ֑י]][[H9023\|ו]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H4245B\|מַּֽחֲלָ֞ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שַׂ֤מְתִּי]] [[H9003\|בְ]][[H4714G\|מִצְרַ֙יִם֙]] [[H3808\|לֹא]][[H9014\|־]] [[H7760H\|אָשִׂ֣ים]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H7495\|רֹפְאֶֽ]][[H9031\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DILIGENCE|DILIGENCE]] • [[topic DISEASE|DISEASE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.25|<< Exodus 15:25]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.27|Exodus 15:27 >>]]</td></tr></table>
 
@@ -34,7 +109,7 @@ saying, “If you will listen carefully to the voice of the LORD your God, and d
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who] heals you  |**<big>&#8207;[[H7495\|רֹפְאֶֽ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.fe.'E.<small><sup>[[HVqrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who] heals you  |**<big>&#8207;[[H7495\|רֹפְאֶֽ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.fe.'E.<small><sup>[[HVqrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.25|<< Exodus 15:25]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.27|Exodus 15:27 >>]]</td></tr></table>
 
 

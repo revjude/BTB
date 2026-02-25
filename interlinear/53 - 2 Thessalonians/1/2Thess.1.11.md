@@ -1,10 +1,62 @@
+---
+title: 2 Thessalonians 1:11
+type: Verse
+kjv: "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:"
+bsb: "To this end, we always pray for you, that our God will count you worthy of His calling, and that He will powerfully fulfill your every good desire and work of faith,"
+greek: "εἰς ὃ καὶ προσευχόμεθα πάντοτε περὶ ὑμῶν ἵνα ὑμᾶς ἀξιώσῃ τῆς κλήσεως ὁ θεὸς ἡμῶν καὶ πληρώσῃ πᾶσαν εὐδοκίαν ἀγαθωσύνης καὶ ἔργον πίστεως ἐν δυνάμει,"
+pericope: "[[2Thess.1.5 Christ’s Coming|Christ’s Coming]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 1
+book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G3842]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G0515]]"
+- "[[G3588]]"
+- "[[G2821]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G2107]]"
+- "[[G0019]]"
+- "[[G2041]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 1:11**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore also we pray always for you, that our God would count you worthy of [this] calling, and fulfil all the good pleasure of [his] goodness, and the work of faith with power:
 <small><sub>**BSB:**</sub></small>
 To this end, we always pray for you, that our God will count you worthy of His calling, and that He will powerfully fulfill your every good desire and work of faith,
-<small><sub>**Literal:**</sub></small>
-for which also we pray always for you that you He may count worthy of the calling of the God of us and He may fulfill every good pleasure of goodness and work of faith with power,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.10|<< 2 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.12|2 Thessalonians 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G4336\|προσευχόμεθα]]  [[G3842\|πάντοτε]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G2443\|ἵνα]]  [[G4771\|ὑμᾶς]]  [[G0515\|ἀξιώσῃ]]  [[G3588\|τῆς]]  [[G2821\|κλήσεως]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G4137\|πληρώσῃ]]  [[G3956\|πᾶσαν]]  [[G2107\|εὐδοκίαν]]  [[G0019\|ἀγαθωσύνης]]  [[G2532\|καὶ]]  [[G2041\|ἔργον]]  [[G4102G\|πίστεως]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.10|<< 2 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.12|2 Thessalonians 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

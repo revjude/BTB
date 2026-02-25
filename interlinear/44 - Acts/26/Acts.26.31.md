@@ -1,10 +1,57 @@
+---
+title: Acts 26:31
+type: Verse
+kjv: "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds."
+bsb: "On their way out, they said to one another, “This man has done nothing worthy of death or imprisonment.”"
+greek: "καὶ ἀναχωρήσαντες ἐλάλουν πρὸς ἀλλήλους λέγοντες ὅτι οὐδὲν θανάτου ἢ δεσμῶν ἄξιόν τι πράσσει ὁ ἄνθρωπος οὗτος."
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0402]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G2288]]"
+- "[[G2228]]"
+- "[[G1199]]"
+- "[[G0514]]"
+- "[[G5100]]"
+- "[[G4238]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 26:31**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.
 <small><sub>**BSB:**</sub></small>
 On their way out, they said to one another, “This man has done nothing worthy of death or imprisonment.”
-<small><sub>**Literal:**</sub></small>
-and having withdrawn they were speaking to one another saying that No [thing] of death or of chains worthy any is doing <the> man this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.30|<< Acts 26:30]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.32|Acts 26:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0402\|ἀναχωρήσαντες]]  [[G2980\|ἐλάλουν]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδὲν]]  [[G2288\|θανάτου]]  [[G2228\|ἢ]]  [[G1199\|δεσμῶν]]  [[G0514\|ἄξιόν]]  [[G5100\|τι]]  [[G4238\|πράσσει]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3778\|οὗτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.30|<< Acts 26:30]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.32|Acts 26:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

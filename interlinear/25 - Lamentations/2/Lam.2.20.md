@@ -1,8 +1,70 @@
+---
+title: Lamentations 2:20
+type: Verse
+kjv: "Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?"
+bsb: "Look, O LORD, and consider: Whom have You ever treated like this? Should women eat their offspring, the infants they have nurtured? Should priests and prophets be killed in the sanctuary of the Lord?"
+hebrew: "רְאֵ֤ה יְהוָה֙ וְֽהַבִּ֔יטָה לְמִ֖י עוֹלַ֣לְתָּ כֹּ֑ה אִם־ תֹּאכַ֨לְנָה נָשִׁ֤ים פִּרְיָם֙ עֹלֲלֵ֣י טִפֻּחִ֔ים אִם־ יֵהָרֵ֛ג בְּמִקְדַּ֥שׁ אֲדֹנָ֖י כֹּהֵ֥ן וְנָבִֽיא׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+strongs:
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5027]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H4310]]"
+- "[[H5953A]]"
+- "[[H3541]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H0802G]]"
+- "[[H6529]]"
+- "[[H9028]]"
+- "[[H5768]]"
+- "[[H2949]]"
+- "[[H2026]]"
+- "[[H9003]]"
+- "[[H4720]]"
+- "[[H0136]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:20**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, [and] children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
 <small><sub>**BSB:**</sub></small>
 Look, O LORD, and consider: Whom have You ever treated like this? Should women eat their offspring, the infants they have nurtured? Should priests and prophets be killed in the sanctuary of the Lord?
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רְאֵ֤ה]] [[H3068G\|יְהוָה֙]] [[H9002\|וְֽ]][[H5027\|הַבִּ֔יטָ]][[H9012\|ה]] [[H9005\|לְ]][[H4310\|מִ֖י]] [[H5953A\|עוֹלַ֣לְתָּ]] [[H3541\|כֹּ֑ה]] [[H0518H\|אִם]][[H9014\|־]] [[H0398\|תֹּאכַ֨לְנָה]] [[H0802G\|נָשִׁ֤ים]] [[H6529\|פִּרְיָ]][[H9028\|ם֙]] [[H5768\|עֹלֲלֵ֣י]] [[H2949\|טִפֻּחִ֔ים]] [[H0518H\|אִם]][[H9014\|־]] [[H2026\|יֵהָרֵ֛ג]] [[H9003\|בְּ]][[H4720\|מִקְדַּ֥שׁ]] [[H0136\|אֲדֹנָ֖י]] [[H3548\|כֹּהֵ֥ן]] [[H9002\|וְ]][[H5030\|נָבִֽיא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANNIBALISM|CANNIBALISM]] • [[topic CHURCH|CHURCH]] • [[topic FAMINE|FAMINE]] • [[topic MEASURE|MEASURE]] • [[topic NATION|NATION]] • [[topic SANCTUARY|SANCTUARY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.19|<< Lamentations 2:19]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.21|Lamentations 2:21 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ Look, O LORD, and consider: Whom have You ever treated like this? Should women e
 | in [the] sanctuary of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4720\|מִקְדַּ֥שׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mik.Dash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֖י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | priest  |**<big>&#8207;[[H3548\|כֹּהֵ֥ן]]&#8207; </big>**| ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and prophet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5030\|נָבִֽיא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and prophet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5030\|נָבִֽיא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.19|<< Lamentations 2:19]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.21|Lamentations 2:21 >>]]</td></tr></table>
 
 

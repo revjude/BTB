@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Children of Light
+type: Pericope
 pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 5
 book/chapter: "[[Eph.5|Ephesians 5]]"
-genre:
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Eph.5.8]]"
 - "[[Eph.5.9]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Eph.5.20]]"
 ---
 
-[[Eph.5|Ephesians 5:8 - Ephesians 5:20]]
+<small>[[Eph.5|Ephesians 5:8-20]]</small>
 *Children of Light*
 
 [[Eph.5.8|8]] For ye were sometimes darkness, but now \[are ye\] light in the Lord: walk as children of light:

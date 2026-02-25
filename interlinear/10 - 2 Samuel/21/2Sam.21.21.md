@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 21:21
+type: Verse
+kjv: "And when he defied Israel, Jonathan the son of Shimea the brother of David slew him."
+bsb: "and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him."
+hebrew: "וַיְחָרֵ֖ף אֶת־ יִשְׂרָאֵ֑ל וַיַּכֵּ֙הוּ֙ יְה֣וֹנָתָ֔ן בֶּן־ שִׁמְעָ֖ה אֲחִ֥י דָוִֽד׃"
+pericope: "[[2Sam.21.15 Four Battles against the Philistines|Four Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2778A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H3083O]]"
+- "[[H1121A]]"
+- "[[H8096Y]]"
+- "[[H8093]]"
+- "[[H0251G]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 21:21**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he defied Israel, Jonathan the son of Shimea the brother of David slew him.
 <small><sub>**BSB:**</sub></small>
 and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2778A\|יְחָרֵ֖ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5221\|יַּכֵּ֙]][[H9033\|הוּ֙]] [[H3083O\|יְה֣וֹנָתָ֔ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8093\|שִׁמְעָ֖ה]] [[H0251G\|אֲחִ֥י]] [[H1732\|דָוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic GOLIATH|GOLIATH]] • [[topic JONATHAN|JONATHAN]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.20|<< 2 Samuel 21:20]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.22|2 Samuel 21:22 >>]]</td></tr></table>
 

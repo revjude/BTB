@@ -1,8 +1,62 @@
+---
+title: Judges 13:14
+type: Verse
+kjv: "She may not eat of any thing that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean thing: all that I commanded her let her observe."
+bsb: "She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.”"
+hebrew: "מִכֹּ֣ל אֲשֶׁר־ יֵצֵא֩ מִגֶּ֨פֶן הַיַּ֜יִן לֹ֣א תֹאכַ֗ל וְיַ֤יִן וְשֵׁכָר֙ אַל־ תֵּ֔שְׁתְּ וְכָל־ טֻמְאָ֖ה אַל־ תֹּאכַ֑ל כֹּ֥ל אֲשֶׁר־ צִוִּיתִ֖יהָ תִּשְׁמֹֽר׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3318M]]"
+- "[[H1612]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H7941]]"
+- "[[H0408]]"
+- "[[H8354]]"
+- "[[H2932]]"
+- "[[H6680]]"
+- "[[H9034]]"
+- "[[H8104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:14**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She may not eat of any [thing] that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean [thing]: all that I commanded her let her observe.
 <small><sub>**BSB:**</sub></small>
 She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318M\|יֵצֵא֩]] [[H9006\|מִ]][[H1612\|גֶּ֨פֶן]] [[H9009\|הַ]][[H3196\|יַּ֜יִן]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכַ֗ל]] [[H9002\|וְ]][[H3196\|יַ֤יִן]] [[H9002\|וְ]][[H7941\|שֵׁכָר֙]] [[H0408\|אַל]][[H9014\|־]] [[H8354\|תֵּ֔שְׁתְּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2932\|טֻמְאָ֖ה]] [[H0408\|אַל]][[H9014\|־]] [[H0398\|תֹּאכַ֑ל]] [[H3605\|כֹּ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוִּיתִ֖י]][[H9034\|הָ]] [[H8104G\|תִּשְׁמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.13|<< Judges 13:13]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.15|Judges 13:15 >>]]</td></tr></table>
 

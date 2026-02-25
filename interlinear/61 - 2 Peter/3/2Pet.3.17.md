@@ -1,10 +1,59 @@
+---
+title: 2 Peter 3:17
+type: Verse
+kjv: "Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness."
+bsb: "Therefore, beloved, since you already know these things, be on your guard so that you will not be carried away by the error of the lawless and fall from your secure standing."
+greek: "ὑμεῖς οὖν, ἀγαπητοί, προγινώσκοντες φυλάσσεσθε ἵνα μὴ τῇ τῶν ἀθέσμων πλάνῃ συναπαχθέντες ἐκπέσητε τοῦ ἰδίου στηριγμοῦ,"
+pericope: "[[2Pet.3.14 Final Exhortations|Final Exhortations]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G0027]]"
+- "[[G4267]]"
+- "[[G5442I]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G0113]]"
+- "[[G4106]]"
+- "[[G4879]]"
+- "[[G1601]]"
+- "[[G2398]]"
+- "[[G4740]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:17**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye therefore, beloved, seeing ye know [these things] before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.
 <small><sub>**BSB:**</sub></small>
 Therefore, beloved, since you already know these things, be on your guard so that you will not be carried away by the error of the lawless and fall from your secure standing.
-<small><sub>**Literal:**</sub></small>
-you yourselves therefore, beloved, knowing [this] beforehand do beware that not by the of the lawless error having been led away you may fall from the [your] own steadfastness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.16|<< 2 Peter 3:16]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.18|2 Peter 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G3767\|οὖν,]]  [[G0027\|ἀγαπητοί,]]  [[G4267\|προγινώσκοντες]]  [[G5442I\|φυλάσσεσθε]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3588\|τῇ]]  [[G3588\|τῶν]]  [[G0113\|ἀθέσμων]]  [[G4106\|πλάνῃ]]  [[G4879\|συναπαχθέντες]]  [[G1601\|ἐκπέσητε]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G4740\|στηριγμοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.16|<< 2 Peter 3:16]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.18|2 Peter 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

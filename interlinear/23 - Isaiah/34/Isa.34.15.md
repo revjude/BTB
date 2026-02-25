@@ -1,8 +1,60 @@
+---
+title: Isaiah 34:15
+type: Verse
+kjv: "There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate."
+bsb: "There the owl will make her nest; she will lay and hatch her eggs and gather her brood under her shadow. Even there the birds of prey will gather, each with its mate."
+hebrew: "שָׁ֣מָּה קִנְּנָ֤ה קִפּוֹז֙ וַתְּמַלֵּ֔ט וּבָקְעָ֖ה וְדָגְרָ֣ה בְצִלָּ֑הּ אַךְ־ שָׁ֛ם נִקְבְּצ֥וּ דַיּ֖וֹת אִשָּׁ֥ה רְעוּתָֽהּ׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic VULTURE|VULTURE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7077]]"
+- "[[H7091]]"
+- "[[H9001]]"
+- "[[H4422]]"
+- "[[H1234]]"
+- "[[H1716]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H9024]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H6908]]"
+- "[[H1772]]"
+- "[[H0802I]]"
+- "[[H7468]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:15**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.
 <small><sub>**BSB:**</sub></small>
 There the owl will make her nest; she will lay and hatch her eggs and gather her brood under her shadow. Even there the birds of prey will gather, each with its mate.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣מָּ]][[H9011\|ה]] [[H7077\|קִנְּנָ֤ה]] [[H7091\|קִפּוֹז֙]] [[H9001\|וַ]][[H4422\|תְּמַלֵּ֔ט]] [[H9001\|וּ]][[H1234\|בָקְעָ֖ה]] [[H9001\|וְ]][[H1716\|דָגְרָ֣ה]] [[H9003\|בְ]][[H6738\|צִלָּ֑]][[H9024\|הּ]] [[H0389\|אַךְ]][[H9014\|־]] [[H8033G\|שָׁ֛ם]] [[H6908\|נִקְבְּצ֥וּ]] [[H1772\|דַיּ֖וֹת]] [[H0802I\|אִשָּׁ֥ה]] [[H7468\|רְעוּתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VULTURE|VULTURE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.14|<< Isaiah 34:14]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.16|Isaiah 34:16 >>]]</td></tr></table>
 

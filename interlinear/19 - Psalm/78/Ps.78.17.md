@@ -1,8 +1,61 @@
+---
+title: Psalm 78:17
+type: Verse
+kjv: "And they sinned yet more against him by provoking the most High in the wilderness."
+bsb: "But they continued to sin against Him, rebelling in the desert against the Most High."
+hebrew: "וַיּוֹסִ֣יפוּ ע֭וֹד לַחֲטֹא־ ל֑וֹ לַֽמְר֥וֹת עֶ֝לְי֗וֹן בַּצִּיָּֽה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H4784]]"
+- "[[H5945B]]"
+- "[[H9003]]"
+- "[[H6723]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:17**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sinned yet more against him by provoking the most High in the wilderness.
 <small><sub>**BSB:**</sub></small>
 But they continued to sin against Him, rebelling in the desert against the Most High.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יּוֹסִ֣יפוּ]] [[H5750\|ע֭וֹד]] [[H9005\|לַ]][[H2398\|חֲטֹא]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9005\|לַֽ]][[H4784\|מְר֥וֹת]] [[H5945B\|עֶ֝לְי֗וֹן]] [[H9003\|בַּ]][[H6723\|צִּיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.16|<< Psalms 78:16]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.18|Psalms 78:18 >>]]</td></tr></table>
 

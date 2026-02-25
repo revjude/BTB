@@ -1,13 +1,13 @@
 
 **LAVER**
 
-→ Directions for making [[Exod.30.18|Ex 30:18]]-[[Exod.30.20|20]]
+→ Directions for making [[Exod.30.18|Ex 30:18-20]]
 
 → Situation of, in the tabernacle, tent of the congregation, and  the altar [[Exod.40.7|Ex 40:7]]
 
 → Sanctified [[Exod.30.28|Ex 30:28]]; [[Exod.40.11|40:11]]; [[Lev.8.11|Le 8:11]]
 
-→ Used for washing [[Exod.40.30|Ex 40:30]]-[[Exod.40.32|32]]
+→ Used for washing [[Exod.40.30|Ex 40:30-32]]
 
 → Brazen (bronze), made by Solomon for the temple [[1Kgs.7|1Ki  7]]
 

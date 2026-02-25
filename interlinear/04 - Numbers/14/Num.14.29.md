@@ -1,8 +1,75 @@
+---
+title: Numbers 14:29
+type: Verse
+kjv: "Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,"
+bsb: "Your bodies will fall in this wilderness—all who were numbered in the census, everyone twenty years of age or older—because you have grumbled against Me."
+hebrew: "בַּמִּדְבָּ֣ר הַ֠זֶּה יִפְּל֨וּ פִגְרֵיכֶ֜ם וְכָל־ פְּקֻדֵיכֶם֙ לְכָל־ מִסְפַּרְכֶ֔ם מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה אֲשֶׁ֥ר הֲלִֽינֹתֶ֖ם עָלָֽי׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5307J]]"
+- "[[H6297]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6485A]]"
+- "[[H9005]]"
+- "[[H4557]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H3885B]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:29**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,
 <small><sub>**BSB:**</sub></small>
 Your bodies will fall in this wilderness—all who were numbered in the census, everyone twenty years of age or older—because you have grumbled against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4057B\|מִּדְבָּ֣ר]] [[H9009\|הַ֠]][[H2088\|זֶּה]] [[H5307J\|יִפְּל֨וּ]] [[H6297\|פִגְרֵי]][[H9026\|כֶ֜ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6485A\|פְּקֻדֵי]][[H9026\|כֶם֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4557\|מִסְפַּרְ]][[H9026\|כֶ֔ם]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3885B\|הֲלִֽינֹתֶ֖ם]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.28|<< Numbers 14:28]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.30|Numbers 14:30 >>]]</td></tr></table>
 

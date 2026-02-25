@@ -1,10 +1,56 @@
+---
+title: Revelation 18:14
+type: Verse
+kjv: "And the fruits that thy soul lusted after are departed from thee, and all things which were dainty and goodly are departed from thee, and thou shalt find them no more at all."
+bsb: "And they will say: “The fruit of your soul’s desire has departed from you; all your luxury and splendor have vanished, never to be seen again.”"
+greek: "καὶ ἡ ὀπώρα σου τῆς ἐπιθυμίας τῆς ψυχῆς ἀπῆλθεν ἀπὸ σοῦ, καὶ πάντα τὰ λιπαρὰ καὶ τὰ λαμπρὰ ἀπώλετο ἀπὸ σοῦ, καὶ οὐκέτι οὐκέτι οὐ μὴ αὐτὰ εὑρήσουσιν."
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3703]]"
+- "[[G4771]]"
+- "[[G1939]]"
+- "[[G5590G]]"
+- "[[G0565]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3045]]"
+- "[[G2986]]"
+- "[[G0622]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3361]]"
+- "[[G0846]]"
+- "[[G2147]]"
+texts:
+- NKO
+- N(k)O
+- N(K)(o)
+---
+
 **Revelation 18:14**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the fruits that thy soul lusted after are departed from thee, and all things which were dainty and goodly are departed from thee, and thou shalt find them no more at all.
 <small><sub>**BSB:**</sub></small>
 And they will say: “The fruit of your soul’s desire has departed from you; all your luxury and splendor have vanished, never to be seen again.”
-<small><sub>**Literal:**</sub></small>
-And the ripe fruit of you of the desire of the soul are departed from you, and all the sumptuous things and the splendid things were destroyed from you, and no longer certainly not them they will find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.13|<< Revelation 18:13]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.15|Revelation 18:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3703\|ὀπώρα]]  [[G4771\|σου]]  [[G3588\|τῆς]]  [[G1939\|ἐπιθυμίας]]  [[G3588\|τῆς]]  [[G5590G\|ψυχῆς]]  [[G0565\|ἀπῆλθεν]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ,]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3045\|λιπαρὰ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2986\|λαμπρὰ]]  [[G0622\|ἀπώλετο]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ,]]  [[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὰ]]  [[G2147\|εὑρήσουσιν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.13|<< Revelation 18:13]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.15|Revelation 18:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

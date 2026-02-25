@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Nineveh
+type: Pericope
 pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Nahum
 chapter: 1
 book/chapter: "[[Nah.1|Nahum 1]]"
-genre:
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 15
 verses:
 - "[[Nah.1.1]]"
 - "[[Nah.1.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Nah.1.15]]"
 ---
 
-[[Nah.1|Nahum 1:1 - Nahum 1:15]]
+<small>[[Nah.1|Nahum 1:1-15]]</small>
 *The Burden against Nineveh*
 
 [[Nah.1.1|1]] The burden of Nineveh. The book of the vision of Nahum the Elkoshite.

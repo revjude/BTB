@@ -1,8 +1,53 @@
+---
+title: Judges 20:29
+type: Verse
+kjv: "And Israel set liers in wait round about Gibeah."
+bsb: "So Israel set up an ambush around Gibeah."
+hebrew: "וַיָּ֤שֶׂם יִשְׂרָאֵל֙ אֹֽרְבִ֔ים אֶל־ הַגִּבְעָ֖ה סָבִֽיב׃ פ"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H3478]]"
+- "[[H0693]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 20:29**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel set liers in wait round about Gibeah.
 <small><sub>**BSB:**</sub></small>
 So Israel set up an ambush around Gibeah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּ֤שֶׂם]] [[H3478\|יִשְׂרָאֵל֙]] [[H0693\|אֹֽרְבִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֖ה]] [[H5439G\|סָבִֽיב]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.28|<< Judges 20:28]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.30|Judges 20:30 >>]]</td></tr></table>
 
@@ -13,7 +58,7 @@ So Israel set up an ambush around Gibeah.
 | ambushers  |**<big>&#8207;[[H0693\|אֹֽרְבִ֔ים]]&#8207; </big>**| 'o.re.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Gibeah  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1390H\|גִּבְעָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> giv.'Ah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| round about  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| round about  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.28|<< Judges 20:28]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.30|Judges 20:30 >>]]</td></tr></table>
 
 

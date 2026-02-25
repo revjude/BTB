@@ -1,8 +1,58 @@
+---
+title: Isaiah 45:17
+type: Verse
+kjv: "But Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end."
+bsb: "But Israel will be saved by the LORD with an everlasting salvation; you will not be put to shame or humiliated, to ages everlasting."
+hebrew: "יִשְׂרָאֵל֙ נוֹשַׁ֣ע בַּיהוָ֔ה תְּשׁוּעַ֖ת עוֹלָמִ֑ים לֹא־ תֵבֹ֥שׁוּ וְלֹא־ תִכָּלְמ֖וּ עַד־ ע֥וֹלְמֵי עַֽד׃ פ"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H3478]]"
+- "[[H3467]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H8668G]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H3637]]"
+- "[[H5704]]"
+- "[[H5703]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 45:17**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end.
 <small><sub>**BSB:**</sub></small>
 But Israel will be saved by the LORD with an everlasting salvation; you will not be put to shame or humiliated, to ages everlasting.
+<small><sub>**Hebrew:**</sub></small>
+[[H3478\|יִשְׂרָאֵל֙]] [[H3467\|נוֹשַׁ֣ע]] [[H9003\|בַּ]][[H3068G\|יהוָ֔ה]] [[H8668G\|תְּשׁוּעַ֖ת]] [[H5769G\|עוֹלָמִ֑ים]] [[H3808\|לֹא]][[H9014\|־]] [[H0954\|תֵבֹ֥שׁוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3637\|תִכָּלְמ֖וּ]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|ע֥וֹלְמֵי]] [[H5703\|עַֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.16|<< Isaiah 45:16]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.18|Isaiah 45:18 >>]]</td></tr></table>
 
@@ -19,7 +69,7 @@ But Israel will be saved by the LORD with an everlasting salvation; you will not
 | you will be put to shame  |**<big>&#8207;[[H3637\|תִכָּלְמ֖וּ]]&#8207; </big>**| ti.kal.Mu<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | everlastingness\<es> of  |**<big>&#8207;[[H5769G\|ע֥וֹלְמֵי]]&#8207; </big>**| ol.mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5703\|עַֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5703\|עַֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.16|<< Isaiah 45:16]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.18|Isaiah 45:18 >>]]</td></tr></table>
 
 

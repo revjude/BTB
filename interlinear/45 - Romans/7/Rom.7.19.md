@@ -1,10 +1,54 @@
+---
+title: Romans 7:19
+type: Verse
+kjv: "For the good that I would I do not: but the evil which I would not, that I do."
+bsb: "For I do not do the good I want to do. Instead, I keep on doing the evil I do not want to do."
+greek: "οὐ γὰρ ὃ θέλω ποιῶ ἀγαθόν, ἀλλ᾽ ὃ οὐ θέλω κακὸν τοῦτο πράσσω."
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G3739]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G0018]]"
+- "[[G0235]]"
+- "[[G2556G]]"
+- "[[G3778]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Romans 7:19**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the good that I would I do not: but the evil which I would not, that I do.
 <small><sub>**BSB:**</sub></small>
 For I do not do the good I want to do. Instead, I keep on doing the evil I do not want to do.
-<small><sub>**Literal:**</sub></small>
-Not for that I desire I do good, but that not I do want evil this I practice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.18|<< Romans 7:18]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.20|Romans 7:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3739\|ὃ]]  [[G2309\|θέλω]]  [[G4160G\|ποιῶ]]  [[G0018\|ἀγαθόν,]]  [[G0235\|ἀλλ᾽]]  [[G3739\|ὃ]]  [[G3756\|οὐ]]  [[G2309\|θέλω]]  [[G2556G\|κακὸν]]  [[G3778\|τοῦτο]]  [[G4238\|πράσσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.18|<< Romans 7:18]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.20|Romans 7:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Psalm 147:11
+type: Verse
+kjv: "The LORD taketh pleasure in them that fear him, in those that hope in his mercy."
+bsb: "The LORD is pleased with those who fear Him, who hope in His loving devotion."
+hebrew: "רוֹצֶ֣ה יְ֭הוָה אֶת־ יְרֵאָ֑יו אֶת־ הַֽמְיַחֲלִ֥ים לְחַסְדּֽוֹ׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H7521]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:11**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD taketh pleasure in them that fear him, in those that hope in his mercy.
 <small><sub>**BSB:**</sub></small>
 The LORD is pleased with those who fear Him, who hope in His loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H7521\|רוֹצֶ֣ה]] [[H3068G\|יְ֭הוָה]] [[H0853\|אֶת]][[H9014\|־]] [[H3373\|יְרֵאָ֑י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3176H\|מְיַחֲלִ֥ים]] [[H9005\|לְ]][[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.10|<< Psalms 147:10]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.12|Psalms 147:12 >>]]</td></tr></table>
 

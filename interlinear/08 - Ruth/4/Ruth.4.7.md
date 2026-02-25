@@ -1,8 +1,74 @@
+---
+title: Ruth 4:7
+type: Verse
+kjv: "Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel."
+bsb: "Now in former times in Israel, concerning the redemption or exchange of property, to make any matter legally binding a man would remove his sandal and give it to the other party, and this was a confirmation in Israel."
+hebrew: "וְזֹאת֩ לְפָנִ֨ים בְּיִשְׂרָאֵ֜ל עַל־ הַגְּאוּלָּ֤ה וְעַל־ הַתְּמוּרָה֙ לְקַיֵּ֣ם כָּל־ דָּבָ֔ר שָׁלַ֥ף אִ֛ישׁ נַעֲל֖וֹ וְנָתַ֣ן לְרֵעֵ֑הוּ וְזֹ֥את הַתְּעוּדָ֖ה בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1353]]"
+- "[[H8545]]"
+- "[[H6965I]]"
+- "[[H3605]]"
+- "[[H1697L]]"
+- "[[H8025]]"
+- "[[H0376I]]"
+- "[[H5275]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H7453]]"
+- "[[H8584]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:7**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now this [was the manner] in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave [it] to his neighbour: and this [was] a testimony in Israel.
 <small><sub>**BSB:**</sub></small>
 Now in former times in Israel, concerning the redemption or exchange of property, to make any matter legally binding a man would remove his sandal and give it to the other party, and this was a confirmation in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2063\|זֹאת֩]] [[H9005\|לְ]][[H6440G\|פָנִ֨ים]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֜ל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1353\|גְּאוּלָּ֤ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8545\|תְּמוּרָה֙]] [[H9005\|לְ]][[H6965I\|קַיֵּ֣ם]] [[H3605\|כָּל]][[H9014\|־]] [[H1697L\|דָּבָ֔ר]] [[H8025\|שָׁלַ֥ף]] [[H0376I\|אִ֛ישׁ]] [[H5275\|נַעֲל֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H5414G\|נָתַ֣ן]] [[H9005\|לְ]][[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9002\|וְ]][[H2063\|זֹ֥את]] [[H9009\|הַ]][[H8584\|תְּעוּדָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic DOWRY|DOWRY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SHOE|SHOE]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.6|<< Ruth 4:6]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.8|Ruth 4:8 >>]]</td></tr></table>
 

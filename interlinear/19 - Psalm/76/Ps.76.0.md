@@ -1,6 +1,44 @@
+---
+title: Psalm 76:0
+type: Verse
+kjv: "To the chief Musician on Neginoth, A Psalm or Song of Asaph."
+hebrew: "לַמְנַצֵּ֥חַ בִּנְגִינֹ֑ת מִזְמ֖וֹר לְאָסָ֣ף שִֽׁיר׃"
+pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9003]]"
+- "[[H5058]]"
+- "[[H4210]]"
+- "[[H0623H]]"
+- "[[H7892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 76:0**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician on Neginoth, A Psalm [or] Song of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H9003\|בִּ]][[H5058\|נְגִינֹ֑ת]] [[H4210\|מִזְמ֖וֹר]] [[H9005\|לְ]][[H0623H\|אָסָ֣ף]] [[H7892A\|שִֽׁיר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.10|<< Psalms 75:10]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.1|Psalms 76:1 >>]]</td></tr></table>
 

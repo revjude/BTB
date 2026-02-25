@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 24:21
+type: Verse
+kjv: "Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah."
+bsb: "As for Rehabiah, from his sons: The first was Isshiah."
+hebrew: "לִרְחַבְיָ֑הוּ לִבְנֵ֣י רְחַבְיָ֔הוּ הָרֹ֖אשׁ יִשִּׁיָּֽה׃"
+pericope: "[[1Chr.24.20 The Rest of the Levites|The Rest of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISHIAH|ISHIAH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic REHABIAH|REHABIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H7345]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H3449J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:21**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning Rehabiah: of the sons of Rehabiah, the first [was] Isshiah.
 <small><sub>**BSB:**</sub></small>
 As for Rehabiah, from his sons: The first was Isshiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7345\|רְחַבְיָ֑הוּ]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H7345\|רְחַבְיָ֔הוּ]] [[H9009\|הָ]][[H7218H\|רֹ֖אשׁ]] [[H3449J\|יִשִּׁיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISHIAH|ISHIAH]] • [[topic LOT, THE|LOT, THE]] • [[topic REHABIAH|REHABIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.20|<< 1 Chronicles 24:20]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.22|1 Chronicles 24:22 >>]]</td></tr></table>
 

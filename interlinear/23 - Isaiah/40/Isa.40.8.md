@@ -1,8 +1,61 @@
+---
+title: Isaiah 40:8
+type: Verse
+kjv: "The grass withereth, the flower fadeth: but the word of our God shall stand for ever."
+bsb: "The grass withers and the flowers fall, but the word of our God stands forever.”"
+hebrew: "יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר־ אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם׃ ס"
+pericope: "[[Isa.40.6 The Enduring Word|The Enduring Word]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3001]]"
+- "[[H2682A]]"
+- "[[H5034B]]"
+- "[[H6731A]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 40:8**<big><big>[[Isa.40.6 The Enduring Word|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The grass withereth, the flower fadeth: but the word of our God shall stand for ever.
 <small><sub>**BSB:**</sub></small>
 The grass withers and the flowers fall, but the word of our God stands forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3001\|יָבֵ֥שׁ]] [[H2682A\|חָצִ֖יר]] [[H5034B\|נָ֣בֵֽל]] [[H6731A\|צִ֑יץ]] [[H9002\|וּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H6965I\|יָק֥וּם]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.7|<< Isaiah 40:7]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.9|Isaiah 40:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -19,7 +72,7 @@ The grass withers and the flowers fall, but the word of our God stands forever.�
 | and [the] word of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֖י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will stand  |**<big>&#8207;[[H6965I\|יָק֥וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.7|<< Isaiah 40:7]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.9|Isaiah 40:9 >>]]</td></tr></table>
 
 

@@ -1,8 +1,70 @@
+---
+title: Isaiah 14:13
+type: Verse
+kjv: "For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:"
+bsb: "You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north."
+hebrew: "וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי־ אֵ֖ל אָרִ֣ים כִּסְאִ֑י וְאֵשֵׁ֥ב בְּהַר־ מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9005]]"
+- "[[H3556]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H7311A]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H3427]]"
+- "[[H2022G]]"
+- "[[H4150I]]"
+- "[[H3411]]"
+- "[[H6828H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:13**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
 <small><sub>**BSB:**</sub></small>
 You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H0559\|אָמַ֤רְתָּ]] [[H9003\|בִֽ]][[H3824\|לְבָבְ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H5927G\|אֶֽעֱלֶ֔ה]] [[H9006\|מִ]][[H4605\|מַּ֥עַל]] [[H9005\|לְ]][[H3556\|כֽוֹכְבֵי]][[H9014\|־]] [[H0410G\|אֵ֖ל]] [[H7311A\|אָרִ֣ים]] [[H3678G\|כִּסְאִ֑]][[H9020\|י]] [[H9002\|וְ]][[H3427\|אֵשֵׁ֥ב]] [[H9003\|בְּ]][[H2022G\|הַר]][[H9014\|־]] [[H4150I\|מוֹעֵ֖ד]] [[H9003\|בְּ]][[H3411\|יַרְכְּתֵ֥י]] [[H6828H\|צָפֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PRIDE|PRIDE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.12|<< Isaiah 14:12]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.14|Isaiah 14:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

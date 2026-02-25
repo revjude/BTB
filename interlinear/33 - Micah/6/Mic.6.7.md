@@ -1,8 +1,63 @@
+---
+title: Micah 6:7
+type: Verse
+kjv: "Will the LORD be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?"
+bsb: "Would the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I present my firstborn for my transgression, the fruit of my body for the sin of my soul?"
+hebrew: "הֲיִרְצֶ֤ה יְהוָה֙ בְּאַלְפֵ֣י אֵילִ֔ים בְּרִֽבְב֖וֹת נַֽחֲלֵי־ שָׁ֑מֶן הַאֶתֵּ֤ן בְּכוֹרִי֙ פִּשְׁעִ֔י פְּרִ֥י בִטְנִ֖י חַטַּ֥את נַפְשִֽׁי׃"
+pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9008]]"
+- "[[H7521]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0505G]]"
+- "[[H0352A]]"
+- "[[H7233]]"
+- "[[H5158A]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H5414G]]"
+- "[[H1060]]"
+- "[[H9020]]"
+- "[[H6588]]"
+- "[[H6529]]"
+- "[[H0990J]]"
+- "[[H2403B]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:7**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will the LORD be pleased with thousands of rams, [or] with ten thousands of rivers of oil? shall I give my firstborn [for] my transgression, the fruit of my body [for] the sin of my soul?
 <small><sub>**BSB:**</sub></small>
 Would the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I present my firstborn for my transgression, the fruit of my body for the sin of my soul?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H7521\|יִרְצֶ֤ה]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H0505G\|אַלְפֵ֣י]] [[H0352A\|אֵילִ֔ים]] [[H9003\|בְּ]][[H7233\|רִֽבְב֖וֹת]] [[H5158A\|נַֽחֲלֵי]][[H9014\|־]] [[H8081\|שָׁ֑מֶן]] [[H9008\|הַ]][[H5414G\|אֶתֵּ֤ן]] [[H1060\|בְּכוֹרִ]][[H9020\|י֙]] [[H6588\|פִּשְׁעִ֔]][[H9020\|י]] [[H6529\|פְּרִ֥י]] [[H0990J\|בִטְנִ֖]][[H9020\|י]] [[H2403B\|חַטַּ֥את]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FORMALISM|FORMALISM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.6|<< Micah 6:6]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.8|Micah 6:8 >>]]</td></tr></table>
 

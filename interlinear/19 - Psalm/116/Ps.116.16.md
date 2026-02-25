@@ -1,8 +1,59 @@
+---
+title: Psalm 116:16
+type: Verse
+kjv: "O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds."
+bsb: "Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant; You have broken my bonds."
+hebrew: "אָֽנָּ֣ה יְהוָה֮ כִּֽי־ אֲנִ֪י עַ֫בְדֶּ֥ךָ אֲֽנִי־ עַ֭בְדְּךָ בֶּן־ אֲמָתֶ֑ךָ פִּ֝תַּ֗חְתָּ לְמוֹסֵרָֽי׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0577]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H0519]]"
+- "[[H6605A]]"
+- "[[H9005]]"
+- "[[H4147]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:16**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, truly I [am] thy servant; I [am] thy servant, [and] the son of thine handmaid: thou hast loosed my bonds.
 <small><sub>**BSB:**</sub></small>
 Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant; You have broken my bonds.
+<small><sub>**Hebrew:**</sub></small>
+[[H0577\|אָֽנָּ֣ה]] [[H3068G\|יְהוָה֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֪י]] [[H5650\|עַ֫בְדֶּ֥]][[H9021\|ךָ]] [[H0589\|אֲֽנִי]][[H9014\|־]] [[H5650\|עַ֭בְדְּ]][[H9021\|ךָ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0519\|אֲמָתֶ֑]][[H9021\|ךָ]] [[H6605A\|פִּ֝תַּ֗חְתָּ]] [[H9005\|לְ]][[H4147\|מוֹסֵרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic SERVANT|SERVANT]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.15|<< Psalms 116:15]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.17|Psalms 116:17 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Lamentations 4:4
+type: Verse
+kjv: "The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them."
+bsb: "The nursing infant’s tongue clings in thirst to the roof of his mouth. Little children beg for bread, but no one gives them any."
+hebrew: "דָּבַ֨ק לְשׁ֥וֹן יוֹנֵ֛ק אֶל־ חכּ֖וֹ בַּצָּמָ֑א עֽוֹלָלִים֙ שָׁ֣אֲלוּ לֶ֔חֶם פֹּרֵ֖שׂ אֵ֥ין לָהֶֽם׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H1692]]"
+- "[[H3956G]]"
+- "[[H3243]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2441]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6772]]"
+- "[[H5768]]"
+- "[[H7592]]"
+- "[[H3899G]]"
+- "[[H6566]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- L(abh)
+---
+
 **Lamentations 4:4**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, [and] no man breaketh [it] unto them.
 <small><sub>**BSB:**</sub></small>
 The nursing infant’s tongue clings in thirst to the roof of his mouth. Little children beg for bread, but no one gives them any.
+<small><sub>**Hebrew:**</sub></small>
+[[H1692\|דָּבַ֨ק]] [[H3956G\|לְשׁ֥וֹן]] [[H3243\|יוֹנֵ֛ק]] [[H0413\|אֶל]][[H9014\|־]] [[H2441\|חכּ֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H6772\|צָּמָ֑א]] [[H5768\|עֽוֹלָלִים֙]] [[H7592\|שָׁ֣אֲלוּ]] [[H3899G\|לֶ֔חֶם]] [[H6566\|פֹּרֵ֖שׂ]] [[H0369\|אֵ֥ין]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.3|<< Lamentations 4:3]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.5|Lamentations 4:5 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ The nursing infant’s tongue clings in thirst to the roof of his mouth. Little 
 | bread  |**<big>&#8207;[[H3899G\|לֶ֔חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] breaks [it]  |**<big>&#8207;[[H6566\|פֹּרֵ֖שׂ]]&#8207; </big>**| po.Res<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.3|<< Lamentations 4:3]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.5|Lamentations 4:5 >>]]</td></tr></table>
 
 [^1]: ABH spelled: **<span class="ashebrew"><big>חִכּ֖וֹ</big></span>**

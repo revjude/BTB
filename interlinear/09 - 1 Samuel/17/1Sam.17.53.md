@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 17:53
+type: Verse
+kjv: "And the children of Israel returned from chasing after the Philistines, and they spoiled their tents."
+bsb: "When the Israelites returned from their pursuit of the Philistines, they plundered their camps."
+hebrew: "וַיָּשֻׁ֙בוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מִדְּלֹ֖ק אַחֲרֵ֣י פְלִשְׁתִּ֑ים וַיָּשֹׁ֖סּוּ אֶת־ מַחֲנֵיהֶֽם׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DECISION|DECISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H1814]]"
+- "[[H0310A]]"
+- "[[H6430G]]"
+- "[[H8155]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:53**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.
 <small><sub>**BSB:**</sub></small>
 When the Israelites returned from their pursuit of the Philistines, they plundered their camps.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֙בוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H1814\|דְּלֹ֖ק]] [[H0310A\|אַחֲרֵ֣י]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H8155\|יָּשֹׁ֖סּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DECISION|DECISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.52|<< 1 Samuel 17:52]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.54|1 Samuel 17:54 >>]]</td></tr></table>
 

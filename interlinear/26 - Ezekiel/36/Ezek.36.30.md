@@ -1,8 +1,65 @@
+---
+title: Ezekiel 36:30
+type: Verse
+kjv: "And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen."
+bsb: "I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine."
+hebrew: "וְהִרְבֵּיתִי֙ אֶת־ פְּרִ֣י הָעֵ֔ץ וּתְנוּבַ֖ת הַשָּׂדֶ֑ה לְמַ֗עַן אֲ֠שֶׁר לֹ֣א תִקְח֥וּ ע֛וֹד חֶרְפַּ֥ת רָעָ֖ב בַּגּוֹיִֽם׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H6086H]]"
+- "[[H9002]]"
+- "[[H8570]]"
+- "[[H7704G]]"
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3947H]]"
+- "[[H5750]]"
+- "[[H2781]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:30**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.
 <small><sub>**BSB:**</sub></small>
 I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7235A\|הִרְבֵּיתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H6086H\|עֵ֔ץ]] [[H9002\|וּ]][[H8570\|תְנוּבַ֖ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H4616\|לְמַ֗עַן]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹ֣א]] [[H3947H\|תִקְח֥וּ]] [[H5750\|ע֛וֹד]] [[H2781\|חֶרְפַּ֥ת]] [[H7458\|רָעָ֖ב]] [[H9003\|בַּ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.29|<< Ezekiel 36:29]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.31|Ezekiel 36:31 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 7:22
+type: Verse
+kjv: "And Ephraim their father mourned many days, and his brethren came to comfort him."
+bsb: "Their father Ephraim mourned for many days, and his relatives came to comfort him."
+hebrew: "וַיִּתְאַבֵּ֛ל אֶפְרַ֥יִם אֲבִיהֶ֖ם יָמִ֣ים רַבִּ֑ים וַיָּבֹ֥אוּ אֶחָ֖יו לְנַחֲמֽוֹ׃"
+pericope: "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BERIAH|BERIAH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0056]]"
+- "[[H0669G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H0935G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:22**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephraim their father mourned many days, and his brethren came to comfort him.
 <small><sub>**BSB:**</sub></small>
 Their father Ephraim mourned for many days, and his relatives came to comfort him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0056\|יִּתְאַבֵּ֛ל]] [[H0669G\|אֶפְרַ֥יִם]] [[H0001G\|אֲבִי]][[H9028\|הֶ֖ם]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9005\|לְ]][[H5162G\|נַחֲמֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERIAH|BERIAH]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.21|<< 1 Chronicles 7:21]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.23|1 Chronicles 7:23 >>]]</td></tr></table>
 

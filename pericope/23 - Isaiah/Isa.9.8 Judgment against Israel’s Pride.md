@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment against Israel’s Pride
+type: Pericope
 pericope: "[[Isa.9.8 Judgment against Israel’s Pride|Judgment against Israel’s Pride]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 9
 book/chapter: "[[Isa.9|Isaiah 9]]"
-genre:
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.9.8]]"
 - "[[Isa.9.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.9.12]]"
 ---
 
-[[Isa.9|Isaiah 9:8 - Isaiah 9:12]]
+<small>[[Isa.9|Isaiah 9:8-12]]</small>
 *Judgment against Israel’s Pride*
 
 [[Isa.9.8|8]] The Lord sent a word into Jacob, and it hath lighted upon Israel.

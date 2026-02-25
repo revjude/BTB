@@ -1,6 +1,58 @@
+---
+title: LXX 1 Samuel 3:2
+type: Verse
+lxx: "And it came to pass in  that day that Eli slept in  his own place, and  his eyes began to be darkened, and he was not able to see."
+greek: "και εγένετο εν τη ημέρα εκείνη και Ηλί εκάθευδεν εν τω τόπω αυτού και οι οφθαλμοί αυτού ήρξαντο αμαυρούσθαι και ουκ εδύνατο βλέπειν"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G2242]]"
+- "[[G2518]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G0756]]"
+- "[[G6253]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0991]]"
+---
+
 **LXX 1 Samuel 3:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that day that Eli slept in  his \[own\] place, and  his eyes began to be darkened, and he was not able to see. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G2532\|και]] [[G2242\|Ηλί]] [[G2518\|εκάθευδεν]] [[G1722\|εν]] [[G3588\|τω]] [[G5117\|τόπω]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G1473\|αυτού]] [[G0756\|ήρξαντο]] [[G6253\|αμαυρούσθαι]] [[G2532\|και]] [[G3756\|ουκ]] [[G1410\|εδύνατο]] [[G0991\|βλέπειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.1|<< 1 Samuel 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.3|1 Samuel 3:3 >>]]</td></tr></table>
 
@@ -26,6 +78,6 @@ And it came to pass in  that day that Eli slept in  his \[own\] place, and  his 
 | he was not | **<big>[[G3756\|ουκ]]</big>** |
 | able | **<big>[[G1410\|εδύνατο]]</big>** |
 | to see. | **<big>[[G0991\|βλέπειν]]</big>** |
-[[1Sam.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.1|<< 1 Samuel 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.3|1 Samuel 3:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.1|<< 1 Samuel 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.3|1 Samuel 3:3 >>]]</td></tr></table>
 
 

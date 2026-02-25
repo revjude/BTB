@@ -9,11 +9,11 @@
 
 → Of Babylon [[Jer.51.12|Jer 51:12]]
 
-→ On towers  [[2Kgs.9.17|2Ki 9:17]]; [[2Chr.20.24|2Ch 20:24]]; [[Isa.21.5|Isa 21:5]]-[[Isa.21.12|12]]; [[Jer.31.6|Jer 31:6]]
+→ On towers  [[2Kgs.9.17|2Ki 9:17]]; [[2Chr.20.24|2Ch 20:24]]; [[Isa.21.5|Isa 21:5-12]]; [[Jer.31.6|Jer 31:6]]
 
 → At the gates of the temple [[2Kgs.11.6|2Ki 11:6]],[[2Kgs.11.7|7]]
 
-→ Alarm of, given by trumpets [[Ezek.33.3|Eze 33:3]]-[[Ezek.33.6|6]]
+→ Alarm of, given by trumpets [[Ezek.33.3|Eze 33:3-6]]
 
 → Unfaithfulness in the discharge of duty of, punished by death [[Ezek.33.6|Eze 33:6]]; [[Matt.28.14|Mt 28:14]]; [[Acts.12.19|Ac 12:19]]
 

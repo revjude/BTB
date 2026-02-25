@@ -1,9 +1,78 @@
+---
+title: LXX Joshua 11:16
+type: Verse
+lxx: "And Joshua took all  this land -- the mountainous area, and the whole land of Negev, and all the land of Goshen, and the plain, and the land towards the west, and the mountain of Israel, and the low lands, the ones towards the mountain;"
+greek: "και έλαβεν Ιησούς πάσαν την γην ταύτην την ορεινήν και την πάσαν γην Ναγέβ και πάσαν την γην Γοσόμ και την πεδινήν και την προς δυσμαίς και το όρος Ισραήλ και τα ταπεινά τα προς τω όρει"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOSHEN|GOSHEN]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[H3091]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G3714]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G1093]]"
+- "[[H5045]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[H1657]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3977]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G1424]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5011]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3735]]"
+---
+
 **LXX Joshua 11:16** 
 
 ***Further Conquests of Joshua***
 
 <small><sub>**LXX:**</sub></small>
 And Joshua took all  this land -- the mountainous area, and the whole land of Negev, and all the land of Goshen, and the plain, and the \[land\] towards \[the\] west, and the mountain of Israel, and the low \[lands\], the ones towards the mountain; 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβεν]] [[H3091\|Ιησούς]] [[G3956\|πάσαν]] [[G3588\|την]] [[G1093\|γην]] [[G3779\|ταύτην]] [[G3588\|την]] [[G3714\|ορεινήν]] [[G2532\|και]] [[G3588\|την]] [[G3956\|πάσαν]] [[G1093\|γην]] [[H5045\|Ναγέβ]] [[G2532\|και]] [[G3956\|πάσαν]] [[G3588\|την]] [[G1093\|γην]] [[H1657\|Γοσόμ]] [[G2532\|και]] [[G3588\|την]] [[G3977\|πεδινήν]] [[G2532\|και]] [[G3588\|την]] [[G4314\|προς]] [[G1424\|δυσμαίς]] [[G2532\|και]] [[G3588\|το]] [[G3735\|όρος]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G3588\|τα]] [[G5011\|ταπεινά]] [[G3588\|τα]] [[G4314\|προς]] [[G3588\|τω]] [[G3735\|όρει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic GOSHEN|GOSHEN]] • [[topic SEIR|SEIR]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.15|<< Joshua 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.17|Joshua 11:17 >>]]</td></tr></table>
 
@@ -44,6 +113,6 @@ And Joshua took all  this land -- the mountainous area, and the whole land of Ne
 | towards | **<big>[[G4314\|προς]]</big>** |
 | the | **<big>[[G3588\|τω]]</big>** |
 | mountain; | **<big>[[G3735\|όρει]]</big>** |
-[[Josh.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.15|<< Joshua 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.17|Joshua 11:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.15|<< Joshua 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.17|Joshua 11:17 >>]]</td></tr></table>
 
 

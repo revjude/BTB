@@ -1,10 +1,57 @@
+---
+title: Hebrews 7:15
+type: Verse
+kjv: "And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,"
+bsb: "And this point is even more clear if another priest like Melchizedek appears,"
+greek: "Καὶ περισσότερον ἔτι κατάδηλόν ἐστιν, εἰ κατὰ τὴν ὁμοιότητα Μελχισέδεκ ἀνίσταται ἱερεὺς ἕτερος,"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4054]]"
+- "[[G2089]]"
+- "[[G2612]]"
+- "[[G1510]]"
+- "[[G1487G]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3665]]"
+- "[[G3198]]"
+- "[[G0450]]"
+- "[[G2409]]"
+- "[[G2087]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:15**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,
 <small><sub>**BSB:**</sub></small>
 And this point is even more clear if another priest like Melchizedek appears,
-<small><sub>**Literal:**</sub></small>
-And more excessive yet evident it is, if according to the likeness of Melchizedek arises a priest another,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.14|<< Hebrews 7:14]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.16|Hebrews 7:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4054\|περισσότερον]]  [[G2089\|ἔτι]]  [[G2612\|κατάδηλόν]]  [[G1510\|ἐστιν,]]  [[G1487G\|εἰ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3665\|ὁμοιότητα]]  [[G3198\|Μελχισέδεκ]]  [[G0450\|ἀνίσταται]]  [[G2409\|ἱερεὺς]]  [[G2087\|ἕτερος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.14|<< Hebrews 7:14]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.16|Hebrews 7:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

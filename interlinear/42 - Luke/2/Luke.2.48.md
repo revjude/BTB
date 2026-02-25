@@ -1,10 +1,65 @@
+---
+title: Luke 2:48
+type: Verse
+kjv: "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing."
+bsb: "When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.”"
+greek: "καὶ ἰδόντες αὐτὸν ἐξεπλάγησαν, καὶ εἶπεν πρὸς αὐτὸν ἡ μήτηρ αὐτοῦ· τέκνον, τί ἐποίησας ἡμῖν οὕτως; ἰδοὺ ὁ πατήρ σου κἀγὼ κἀγὼ ὀδυνώμενοι ἐζητοῦμέν σε.¶"
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G1605]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G5043]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G3779]]"
+- "[[G2400]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G3600]]"
+- "[[G2212]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 2:48**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
 <small><sub>**BSB:**</sub></small>
 When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.”
-<small><sub>**Literal:**</sub></small>
-And having seen Him they were astonished, and said to Him the mother of Him: Child why You did to us thus? Behold the father of You and I myself distressing were seeking You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.47|<< Luke 2:47]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.49|Luke 2:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G0846\|αὐτὸν]]  [[G1605\|ἐξεπλάγησαν,]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ·]]  [[G5043\|τέκνον,]]  [[G5101\|τί]]  [[G4160G\|ἐποίησας]]  [[G3165\|ἡμῖν]]  [[G3779\|οὕτως;]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G4771\|σου]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3600\|ὀδυνώμενοι]]  [[G2212\|ἐζητοῦμέν]]  [[G4771\|σε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARY|MARY]] • [[topic PARENTS|PARENTS]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.47|<< Luke 2:47]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.49|Luke 2:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

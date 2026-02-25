@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar Confesses God’s Kingdom
+type: Pericope
 pericope: "[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|Nebuchadnezzar Confesses God’s Kingdom]]"
-verse_count: 3
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 4
 book/chapter: "[[Dan.4|Daniel 4]]"
-genre:
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 3
 verses:
 - "[[Dan.4.1]]"
 - "[[Dan.4.2]]"
 - "[[Dan.4.3]]"
 ---
 
-[[Dan.4|Daniel 4:1 - Daniel 4:3]]
+<small>[[Dan.4|Daniel 4:1-3]]</small>
 *Nebuchadnezzar Confesses God’s Kingdom*
 
 [[Dan.4.1|1]] Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.

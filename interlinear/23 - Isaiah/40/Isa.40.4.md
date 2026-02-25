@@ -1,8 +1,65 @@
+---
+title: Isaiah 40:4
+type: Verse
+kjv: "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:"
+bsb: "Every valley shall be lifted up, and every mountain and hill made low; the uneven ground will become smooth, and the rugged land a plain."
+hebrew: "כָּל־ גֶּיא֙ יִנָּשֵׂ֔א וְכָל־ הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר וְהָרְכָסִ֖ים לְבִקְעָֽה׃"
+pericope: "[[Isa.40.1 Prepare the Way for the LORD|Prepare the Way for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic STRAIGHT|STRAIGHT]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1516R]]"
+- "[[H5375G]]"
+- "[[H9002]]"
+- "[[H2022G]]"
+- "[[H1389I]]"
+- "[[H8213]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H6121B]]"
+- "[[H9005]]"
+- "[[H4334]]"
+- "[[H7406]]"
+- "[[H1237K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:4**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:
 <small><sub>**BSB:**</sub></small>
 Every valley shall be lifted up, and every mountain and hill made low; the uneven ground will become smooth, and the rugged land a plain.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H1516R\|גֶּיא֙]] [[H5375G\|יִנָּשֵׂ֔א]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H9002\|וְ]][[H1389I\|גִבְעָ֖ה]] [[H8213\|יִשְׁפָּ֑לוּ]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9009\|הֶֽ]][[H6121B\|עָקֹב֙]] [[H9005\|לְ]][[H4334\|מִישׁ֔וֹר]] [[H9002\|וְ]][[H9009\|הָ]][[H7406\|רְכָסִ֖ים]] [[H9005\|לְ]][[H1237K\|בִקְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HIGHWAYS|HIGHWAYS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic STRAIGHT|STRAIGHT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.3|<< Isaiah 40:3]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.5|Isaiah 40:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

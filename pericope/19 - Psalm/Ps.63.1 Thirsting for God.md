@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thirsting for God
+type: Pericope
 pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 63
 book/chapter: "[[Ps.63|Psalm 63]]"
-genre:
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.63.0]]"
 - "[[Ps.63.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.63.11]]"
 ---
 
-[[Ps.63|Psalm 63:1 - Psalm 63:11]]
+<small>[[Ps.63|Psalm 63:1-11]]</small>
 *Thirsting for God*
 
 [[Ps.63.0|0]] A Psalm of David, when he was in the wilderness of Judah.

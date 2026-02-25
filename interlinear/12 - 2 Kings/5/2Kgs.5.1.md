@@ -1,8 +1,72 @@
+---
+title: 2 Kings 5:1
+type: Verse
+kjv: "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."
+bsb: "Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper."
+hebrew: "וְ֠נַעֲמָן שַׂר־ צְבָ֨א מֶֽלֶךְ־ אֲרָ֜ם הָיָ֣ה אִישׁ֩ גָּד֨וֹל לִפְנֵ֤י אֲדֹנָיו֙ וּנְשֻׂ֣א פָנִ֔ים כִּֽי־ ב֛וֹ נָֽתַן־ יְהוָ֥ה תְּשׁוּעָ֖ה לַאֲרָ֑ם וְהָאִ֗ישׁ הָיָ֛ה גִּבּ֥וֹר חַ֖יִל מְצֹרָֽע׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H5283I]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H8668H]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H6879]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:1**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.
 <small><sub>**BSB:**</sub></small>
 Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H5283I\|נַעֲמָן]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֨א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָ֜ם]] [[H1961\|הָיָ֣ה]] [[H0376G\|אִישׁ֩]] [[H1419A\|גָּד֨וֹל]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H0113\|אֲדֹנָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H5375Q\|נְשֻׂ֣א]] [[H6440N\|פָנִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|ב֛]][[H9033\|וֹ]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H8668H\|תְּשׁוּעָ֖ה]] [[H9005\|לַ]][[H0758I\|אֲרָ֑ם]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H1961\|הָיָ֛ה]] [[H1368\|גִּבּ֥וֹר]] [[H2428G\|חַ֖יִל]] [[H6879\|מְצֹרָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic ELISHA|ELISHA]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.44|<< 2 Kings 4:44]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.2|2 Kings 5:2 >>]]</td></tr></table>
 

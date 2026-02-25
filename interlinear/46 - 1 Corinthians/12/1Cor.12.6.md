@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 12:6
+type: Verse
+kjv: "And there are diversities of operations, but it is the same God which worketh all in all."
+bsb: "There are different ways of working, but the same God works all things in all people."
+greek: "καὶ διαιρέσεις ἐνεργημάτων εἰσίν, ὁ δὲ αὐτὸς ἐστιν θεὸς ὁ ἐνεργῶν τὰ πάντα ἐν πᾶσιν.¶"
+pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1243]]"
+- "[[G1755]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G1754]]"
+- "[[G3956]]"
+- "[[G1722]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **1 Corinthians 12:6**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there are diversities of operations, but it is the same God which worketh all in all.
 <small><sub>**BSB:**</sub></small>
 There are different ways of working, but the same God works all things in all people.
-<small><sub>**Literal:**</sub></small>
-and varieties of workings there are, the but same is God who is working the all things in everyone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.5|<< 1 Corinthians 12:5]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.7|1 Corinthians 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1243\|διαιρέσεις]]  [[G1755\|ἐνεργημάτων]]  [[G1510\|εἰσίν,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἐστιν]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G1754\|ἐνεργῶν]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MIRACLES|MIRACLES]] • [[topic REGENERATION|REGENERATION]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.5|<< 1 Corinthians 12:5]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.7|1 Corinthians 12:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

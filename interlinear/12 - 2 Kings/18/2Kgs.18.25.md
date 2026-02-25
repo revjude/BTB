@@ -1,8 +1,69 @@
+---
+title: 2 Kings 18:25
+type: Verse
+kjv: "Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it."
+bsb: "So now, was it apart from the LORD that I have come up against this place to destroy it? The LORD Himself said to me, ‘Go up against this land and destroy it.’”"
+hebrew: "עַתָּה֙ הֲמִבַּלְעֲדֵ֣י יְהוָ֔ה עָלִ֛יתִי עַל־ הַמָּק֥וֹם הַזֶּ֖ה לְהַשְׁחִת֑וֹ יְהוָה֙ אָמַ֣ר אֵלַ֔י עֲלֵ֛ה עַל־ הָאָ֥רֶץ הַזֹּ֖את וְהַשְׁחִיתָֽהּ׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6258]]"
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H1107]]"
+- "[[H3068G]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:25**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.
 <small><sub>**BSB:**</sub></small>
 So now, was it apart from the LORD that I have come up against this place to destroy it? The LORD Himself said to me, ‘Go up against this land and destroy it.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּה֙]] [[H9008\|הֲ]][[H9006\|מִ]][[H1107\|בַּלְעֲדֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H5927G\|עָלִ֛יתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9005\|לְ]][[H7843\|הַשְׁחִת֑]][[H9033\|וֹ]] [[H3068G\|יְהוָה֙]] [[H0559\|אָמַ֣ר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H5927G\|עֲלֵ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9002\|וְ]][[H7843\|הַשְׁחִיתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.24|<< 2 Kings 18:24]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.26|2 Kings 18:26 >>]]</td></tr></table>
 

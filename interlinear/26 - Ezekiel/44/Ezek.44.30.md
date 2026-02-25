@@ -1,8 +1,64 @@
+---
+title: Ezekiel 44:30
+type: Verse
+kjv: "And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house."
+bsb: "The best of all the firstfruits and of every contribution from all your offerings will belong to the priests. You are to give your first batch of dough to the priest, so that a blessing may rest upon your homes."
+hebrew: "וְרֵאשִׁית֩ כָּל־ בִּכּ֨וּרֵי כֹ֜ל וְכָל־ תְּר֣וּמַת כֹּ֗ל מִכֹּל֙ תְּרוּמ֣וֹתֵיכֶ֔ם לַכֹּהֲנִ֖ים יִֽהְיֶ֑ה וְרֵאשִׁ֤ית עֲרִסֽוֹתֵיכֶם֙ תִּתְּנ֣וּ לַכֹּהֵ֔ן לְהָנִ֥יחַ בְּרָכָ֖ה אֶל־ בֵּיתֶֽךָ׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DOUGH|DOUGH]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H7225G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1061]]"
+- "[[H8641]]"
+- "[[H9006]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H1961]]"
+- "[[H6182]]"
+- "[[H5414G]]"
+- "[[H5117]]"
+- "[[H1293]]"
+- "[[H0413]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:30**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the first of all the firstfruits of all [things], and every oblation of all, of every [sort] of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house.
 <small><sub>**BSB:**</sub></small>
 The best of all the firstfruits and of every contribution from all your offerings will belong to the priests. You are to give your first batch of dough to the priest, so that a blessing may rest upon your homes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7225G\|רֵאשִׁית֩]] [[H3605\|כָּל]][[H9014\|־]] [[H1061\|בִּכּ֨וּרֵי]] [[H3605\|כֹ֜ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8641\|תְּר֣וּמַת]] [[H3605\|כֹּ֗ל]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H8641\|תְּרוּמ֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֖ים]] [[H1961\|יִֽהְיֶ֑ה]] [[H9002\|וְ]][[H7225G\|רֵאשִׁ֤ית]] [[H6182\|עֲרִסֽוֹתֵי]][[H9026\|כֶם֙]] [[H5414G\|תִּתְּנ֣וּ]] [[H9005\|לַ]][[H3548\|כֹּהֵ֔ן]] [[H9005\|לְ]][[H5117\|הָנִ֥יחַ]] [[H1293\|בְּרָכָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUGH|DOUGH]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.29|<< Ezekiel 44:29]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.31|Ezekiel 44:31 >>]]</td></tr></table>
 

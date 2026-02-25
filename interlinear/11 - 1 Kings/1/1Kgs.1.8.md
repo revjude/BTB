@@ -1,8 +1,67 @@
+---
+title: 1 Kings 1:8
+type: Verse
+kjv: "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah."
+bsb: "But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah."
+hebrew: "וְצָד֣וֹק הַ֠כֹּהֵן וּבְנָיָ֨הוּ בֶן־ יְהוֹיָדָ֜ע וְנָתָ֤ן הַנָּבִיא֙ וְשִׁמְעִ֣י וְרֵעִ֔י וְהַגִּבּוֹרִ֖ים אֲשֶׁ֣ר לְדָוִ֑ד לֹ֥א הָי֖וּ עִם־ אֲדֹנִיָּֽהוּ׃"
+pericope: "[[1Kgs.1.5 Adonijah Usurps the Kingdom|Adonijah Usurps the Kingdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic REI|REI]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H6659G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H8096I]]"
+- "[[H7472]]"
+- "[[H1368]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H0138G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:8**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which [belonged] to David, were not with Adonijah.
 <small><sub>**BSB:**</sub></small>
 But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6659G\|צָד֣וֹק]] [[H9009\|הַ֠]][[H3548\|כֹּהֵן]] [[H9002\|וּ]][[H1141G\|בְנָיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֜ע]] [[H9002\|וְ]][[H5416H\|נָתָ֤ן]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H9002\|וְ]][[H8096I\|שִׁמְעִ֣י]] [[H9002\|וְ]][[H7472\|רֵעִ֔י]] [[H9002\|וְ]][[H9009\|הַ]][[H1368\|גִּבּוֹרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H1732\|דָוִ֑ד]] [[H3808\|לֹ֥א]] [[H1961\|הָי֖וּ]] [[H5973A\|עִם]][[H9014\|־]] [[H0138G\|אֲדֹנִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic REI|REI]] • [[topic SHIMEI|SHIMEI]] • [[topic USURPATION|USURPATION]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.7|<< 1 Kings 1:7]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.9|1 Kings 1:9 >>]]</td></tr></table>
 

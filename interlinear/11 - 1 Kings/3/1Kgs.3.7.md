@@ -1,8 +1,70 @@
+---
+title: 1 Kings 3:7
+type: Verse
+kjv: "And now, O LORD my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in."
+bsb: "And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in."
+hebrew: "וְעַתָּה֙ יְהוָ֣ה אֱלֹהָ֔י אַתָּה֙ הִמְלַ֣כְתָּ אֶֽת־ עַבְדְּךָ֔ תַּ֖חַת דָּוִ֣ד אָבִ֑י וְאָֽנֹכִי֙ נַ֣עַר קָטֹ֔ן לֹ֥א אֵדַ֖ע צֵ֥את וָבֹֽא׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H4427A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H8478H]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H0595]]"
+- "[[H5288]]"
+- "[[H6996B]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:7**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, O LORD my God, thou hast made thy servant king instead of David my father: and I [am but] a little child: I know not [how] to go out or come in.
 <small><sub>**BSB:**</sub></small>
 And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔]][[H9020\|י]] [[H0859A\|אַתָּה֙]] [[H4427A\|הִמְלַ֣כְתָּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H8478H\|תַּ֖חַת]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9002\|וְ]][[H0595\|אָֽנֹכִי֙]] [[H5288\|נַ֣עַר]] [[H6996B\|קָטֹ֔ן]] [[H3808\|לֹ֥א]] [[H3045\|אֵדַ֖ע]] [[H3318G\|צֵ֥את]] [[H9002\|וָ]][[H0935G\|בֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.6|<< 1 Kings 3:6]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.8|1 Kings 3:8 >>]]</td></tr></table>
 

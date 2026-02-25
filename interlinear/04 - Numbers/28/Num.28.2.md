@@ -1,8 +1,63 @@
+---
+title: Numbers 28:2
+type: Verse
+kjv: "Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season."
+bsb: "“Command the Israelites and say to them: See that you present to Me at its appointed time the food for My food offerings, as a pleasing aroma to Me."
+hebrew: "צַ֚ו אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אֶת־ קָרְבָּנִ֨י לַחְמִ֜י לְאִשַּׁ֗י רֵ֚יחַ נִֽיחֹחִ֔י תִּשְׁמְר֕וּ לְהַקְרִ֥יב לִ֖י בְּמוֹעֲדֽוֹ׃"
+pericope: "[[Num.28.1 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7133A]]"
+- "[[H9020]]"
+- "[[H3899G]]"
+- "[[H9005]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H8104J]]"
+- "[[H7126H]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4150G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:2**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, and say unto them, My offering, [and] my bread for my sacrifices made by fire, [for] a sweet savour unto me, shall ye observe to offer unto me in their due season.
 <small><sub>**BSB:**</sub></small>
 “Command the Israelites and say to them: See that you present to Me at its appointed time the food for My food offerings, as a pleasing aroma to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|צַ֚ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנִ֨]][[H9020\|י]] [[H3899G\|לַחְמִ֜]][[H9020\|י]] [[H9005\|לְ]][[H0801\|אִשַּׁ֗]][[H9020\|י]] [[H7381\|רֵ֚יחַ]] [[H5207\|נִֽיחֹחִ֔]][[H9020\|י]] [[H8104J\|תִּשְׁמְר֕וּ]] [[H9005\|לְ]][[H7126H\|הַקְרִ֥יב]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בְּ]][[H4150G\|מוֹעֲדֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.1|<< Numbers 28:1]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.3|Numbers 28:3 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Judges 15:11
+type: Verse
+kjv: "Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them."
+bsb: "In response, three thousand men of Judah went to the cave at the rock of Etam, and they asked Samson, “Do you not realize that the Philistines rule over us? What have you done to us?” “I have done to them what they did to me,” he replied."
+hebrew: "וַיֵּרְד֡וּ שְׁלֹשֶׁת֩ אֲלָפִ֨ים אִ֜ישׁ מִֽיהוּדָ֗ה אֶל־ סְעִיף֮ סֶ֣לַע עֵיטָם֒ וַיֹּאמְר֣וּ לְשִׁמְשׁ֗וֹן הֲלֹ֤א יָדַ֙עְתָּ֙ כִּֽי־ מֹשְׁלִ֥ים בָּ֙נוּ֙ פְּלִשְׁתִּ֔ים וּמַה־ זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ וַיֹּ֣אמֶר לָהֶ֔ם כַּאֲשֶׁר֙ עָ֣שׂוּ לִ֔י כֵּ֖ן עָשִׂ֥יתִי לָהֶֽם׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ETAM|ETAM]]"
+- "[[topic LEHI|LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5585]]"
+- "[[H5553H]]"
+- "[[H5862G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H8123]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9030]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:11**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines [are] rulers over us? what [is] this [that] thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them.
 <small><sub>**BSB:**</sub></small>
 In response, three thousand men of Judah went to the cave at the rock of Etam, and they asked Samson, “Do you not realize that the Philistines rule over us? What have you done to us?” “I have done to them what they did to me,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֡וּ]] [[H7969\|שְׁלֹשֶׁת֩]] [[H0505G\|אֲלָפִ֨ים]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5585\|סְעִיף֮]] [[H5553H\|סֶ֣לַע]] [[H5862G\|עֵיטָם֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לְ]][[H8123\|שִׁמְשׁ֗וֹן]] [[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H3045\|יָדַ֙עְתָּ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4910\|מֹשְׁלִ֥ים]] [[H9003\|בָּ֙]][[H9035\|נוּ֙]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֖את]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לָּ֑]][[H9035\|נוּ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֙]] [[H6213A\|עָ֣שׂוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H3651C\|כֵּ֖ן]] [[H6213A\|עָשִׂ֥יתִי]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETAM|ETAM]] • [[topic LEHI|LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.10|<< Judges 15:10]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.12|Judges 15:12 >>]]</td></tr></table>
 

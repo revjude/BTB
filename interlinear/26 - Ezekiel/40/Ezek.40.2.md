@@ -1,8 +1,62 @@
+---
+title: Ezekiel 40:2
+type: Verse
+kjv: "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south."
+bsb: "In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city."
+hebrew: "בְּמַרְא֣וֹת אֱלֹהִ֔ים הֱבִיאַ֖נִי אֶל־ אֶ֣רֶץ יִשְׂרָאֵ֑ל וַיְנִיחֵ֗נִי אֶל־ הַ֤ר גָּבֹ֙הַּ֙ מְאֹ֔ד וְעָלָ֥יו כְּמִבְנֵה־ עִ֖יר מִנֶּֽגֶב׃"
+pericope: "[[Ezek.40.1 The Man with a Measuring Rod|The Man with a Measuring Rod]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9003]]"
+- "[[H4759A]]"
+- "[[H0430G]]"
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H2022G]]"
+- "[[H1364]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4011]]"
+- "[[H5892B]]"
+- "[[H9006]]"
+- "[[H5045H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:2**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
 <small><sub>**BSB:**</sub></small>
 In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H4759A\|מַרְא֣וֹת]] [[H0430G\|אֱלֹהִ֔ים]] [[H0935P\|הֱבִיאַ֖]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5117\|יְנִיחֵ֗]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֤ר]] [[H1364\|גָּבֹ֙הַּ֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H9004\|כְּ]][[H4011\|מִבְנֵה]][[H9014\|־]] [[H5892B\|עִ֖יר]] [[H9006\|מִ]][[H5045H\|נֶּֽגֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.1|<< Ezekiel 40:1]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.3|Ezekiel 40:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

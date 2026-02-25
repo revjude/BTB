@@ -1,10 +1,69 @@
+---
+title: Luke 16:23
+type: Verse
+kjv: "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
+bsb: "In Hades, where he was in torment, he looked up and saw Abraham from afar, with Lazarus by his side."
+jesus_said: "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
+greek: "καὶ ἐν τῷ ᾅδῃ ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ, ὑπάρχων ἐν βασάνοις ὁρᾷ τὸν Ἀβραὰμ ἀπὸ μακρόθεν καὶ Λάζαρον ἐν τοῖς κόλποις αὐτοῦ."
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0086]]"
+- "[[G1869]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G5225]]"
+- "[[G0931]]"
+- "[[G3708]]"
+- "[[G0011]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2976G]]"
+- "[[G2859]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 16:23**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
 <small><sub>**BSB:**</sub></small>
 In Hades, where he was in torment, he looked up and saw Abraham from afar, with Lazarus by his side.
-<small><sub>**Literal:**</sub></small>
-And in <the> Hades having lifted up the eyes of him, being in torment he sees <the> Abraham from afar and Lazarus in the bosom of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.22|<< Luke 16:22]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.24|Luke 16:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0086\|ᾅδῃ]]  [[G1869\|ἐπάρας]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτοῦ,]]  [[G5225\|ὑπάρχων]]  [[G1722\|ἐν]]  [[G0931\|βασάνοις]]  [[G3708\|ὁρᾷ]]  [[G3588\|τὸν]]  [[G0011\|Ἀβραὰμ]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2532\|καὶ]]  [[G2976G\|Λάζαρον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2859\|κόλποις]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SORROW|SORROW]] • [[topic TORMENTS|TORMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.22|<< Luke 16:22]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.24|Luke 16:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,48 @@
+---
+title: LXX Proverbs 23:13
+type: Verse
+lxx: "You should not be at a distance to correct the simple; for if you strike him with a rod in no way should he die."
+greek: "μη απόσχη νήπιον παιδεύειν ότι εάν πατάξης αυτόν ράβδω ου μη αποθάνη"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G3361]]"
+- "[[G0568]]"
+- "[[G3516]]"
+- "[[G3811]]"
+- "[[G3754]]"
+- "[[G1437]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G4464]]"
+- "[[G3364]]"
+- "[[G0599]]"
+---
+
 **LXX Proverbs 23:13** 
 <small><sub>**LXX:**</sub></small>
 You should not be at a distance to correct \[the\] simple; for if you strike him \[with\] a rod in no way should he die. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G0568\|απόσχη]] [[G3516\|νήπιον]] [[G3811\|παιδεύειν]] [[G3754\|ότι]] [[G1437\|εάν]] [[G3960\|πατάξης]] [[G1473\|αυτόν]] [[G4464\|ράβδω]] [[G3364\|ου μη]] [[G0599\|αποθάνη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HELL|HELL]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
 
@@ -17,6 +59,6 @@ You should not be at a distance to correct \[the\] simple; for if you strike him
 | \[with\] a rod | **<big>[[G4464\|ράβδω]]</big>** |
 | in no way | **<big>[[G3364\|ου μη]]</big>** |
 | should he die. | **<big>[[G0599\|αποθάνη]]</big>** |
-[[Prov.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
 
 

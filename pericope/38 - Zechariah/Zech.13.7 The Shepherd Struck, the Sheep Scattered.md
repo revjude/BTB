@@ -1,29 +1,36 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Shepherd Struck, the Sheep Scattered
+type: Pericope
 pericope: "[[Zech.13.7 The Shepherd Struck, the Sheep Scattered|The Shepherd Struck, the Sheep Scattered]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 13
 book/chapter: "[[Zech.13|Zechariah 13]]"
-genre:
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 3
 verses:
 - "[[Zech.13.7]]"
 - "[[Zech.13.8]]"
 - "[[Zech.13.9]]"
 ---
 
-[[Zech.13|Zechariah 13:7 - Zechariah 13:9]]
+<small>[[Zech.13|Zechariah 13:7-9]]</small>
 *The Shepherd Struck, the Sheep Scattered*
 
 [[Zech.13.7|7]] Awake, O sword, against my shepherd, and against the man \[that is\] my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.

@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 4:17
+type: Verse
+kjv: "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah."
+bsb: "The king had them cast in clay molds in the plain of the Jordan between Succoth and Zeredah."
+hebrew: "בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בַּעֲבִ֖י הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צְרֵדָֽתָה׃"
+pericope: "[[2Chr.4.11 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 4
+book/chapter: "[[2Chr.4|2 Chronicles 4]]"
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic MOLDING|MOLDING]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic ZEREDATHAH|ZEREDATHAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3603H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H3332H]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H5672]]"
+- "[[H0127G]]"
+- "[[H0996G]]"
+- "[[H5523G]]"
+- "[[H9002]]"
+- "[[H6868H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 4:17**<big><big>[[2Chr.4.11 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah.
 <small><sub>**BSB:**</sub></small>
 The king had them cast in clay molds in the plain of the Jordan between Succoth and Zeredah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3603H\|כִכַּ֤ר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H3332H\|יְצָקָ֣]][[H9038\|ם]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9003\|בַּ]][[H5672\|עֲבִ֖י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H0996G\|בֵּ֥ין]] [[H5523G\|סֻכּ֖וֹת]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H6868H\|צְרֵדָֽתָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JORDAN|JORDAN]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic MOLDING|MOLDING]] • [[topic SUCCOTH|SUCCOTH]] • [[topic ZEREDATHAH|ZEREDATHAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.16|<< 2 Chronicles 4:16]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.18|2 Chronicles 4:18 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Daniel 4:13
+type: Verse
+kjv: "I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;"
+bsb: "As I lay on my bed, I also saw in the visions of my mind a watcher, a holy one, coming down from heaven."
+aramaic: "חָזֵ֥ה הֲוֵ֛ית בְּחֶזְוֵ֥י רֵאשִׁ֖י עַֽל־ מִשְׁכְּבִ֑י וַאֲלוּ֙ עִ֣יר וְקַדִּ֔ישׁ מִן־ שְׁמַיָּ֖א נָחִֽת׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H2376]]"
+- "[[H7217]]"
+- "[[H9020]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4903]]"
+- "[[H9002]]"
+- "[[H0431]]"
+- "[[H5894]]"
+- "[[H6922]]"
+- "[[H4481]]"
+- "[[H8065]]"
+- "[[H9010]]"
+- "[[H5182]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:13**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;
 <small><sub>**BSB:**</sub></small>
 As I lay on my bed, I also saw in the visions of my mind a watcher, a holy one, coming down from heaven.
+<small><sub>**Aramaic:**</sub></small>
+[[H2370\|חָזֵ֥ה]] [[H1934\|הֲוֵ֛ית]] [[H9003\|בְּ]][[H2376\|חֶזְוֵ֥י]] [[H7217\|רֵאשִׁ֖]][[H9020\|י]] [[H5922\|עַֽל]][[H9014\|־]] [[H4903\|מִשְׁכְּבִ֑]][[H9020\|י]] [[H9002\|וַ]][[H0431\|אֲלוּ֙]] [[H5894\|עִ֣יר]] [[H9002\|וְ]][[H6922\|קַדִּ֔ישׁ]] [[H4481\|מִן]][[H9014\|־]] [[H8065\|שְׁמַיָּ֖]][[H9010\|א]] [[H5182\|נָחִֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.12|<< Daniel 4:12]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.14|Daniel 4:14 >>]]</td></tr></table>
 

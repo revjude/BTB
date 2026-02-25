@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pharaoh’s First Refusal
+type: Pericope
 pericope: "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 5
 book/chapter: "[[Exod.5|Exodus 5]]"
-genre:
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.5.1]]"
 - "[[Exod.5.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.5.5]]"
 ---
 
-[[Exod.5|Exodus 5:1 - Exodus 5:5]]
+<small>[[Exod.5|Exodus 5:1-5]]</small>
 *Pharaoh’s First Refusal*
 
 [[Exod.5.1|1]] And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.

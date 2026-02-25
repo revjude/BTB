@@ -1,10 +1,54 @@
+---
+title: John 8:56
+type: Verse
+kjv: "Your father Abraham rejoiced to see my day: and he saw it, and was glad."
+bsb: "Your father Abraham rejoiced that he would see My day. He saw it and was glad.”"
+jesus_said: "Your father Abraham rejoiced to see my day: and he saw it, and was glad."
+greek: "Ἀβραὰμ ὁ πατὴρ ὑμῶν ἠγαλλιάσατο ἵνα ἴδῃ τὴν ἡμέραν τὴν ἐμὴν καὶ εἶδεν καὶ ἐχάρη."
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G0021]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+- "[[G2250]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5463]]"
+texts:
+- NKO
+---
+
 **John 8:56**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Your father Abraham rejoiced to see my day: and he saw [it], and was glad.
 <small><sub>**BSB:**</sub></small>
 Your father Abraham rejoiced that he would see My day. He saw it and was glad.”
-<small><sub>**Literal:**</sub></small>
-Abraham the father of you rejoiced in that he may see <the> day <the> of Mine and he saw and rejoiced.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.55|<< John 8:55]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.57|John 8:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0011\|Ἀβραὰμ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G0021\|ἠγαλλιάσατο]]  [[G2443\|ἵνα]]  [[G1492H\|ἴδῃ]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G2532\|καὶ]]  [[G1492H\|εἶδεν]]  [[G2532\|καὶ]]  [[G5463\|ἐχάρη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.55|<< John 8:55]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.57|John 8:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

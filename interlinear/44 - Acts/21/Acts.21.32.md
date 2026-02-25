@@ -1,10 +1,62 @@
+---
+title: Acts 21:32
+type: Verse
+kjv: "Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul."
+bsb: "Immediately he took some soldiers and centurions and ran down to the crowd. When the people saw the commander and the soldiers, they stopped beating Paul."
+greek: "ὃς ἐξαυτῆς παραλαβὼν στρατιώτας καὶ ἑκατοντάρχας κατέδραμεν ἐπ᾽ αὐτούς. οἱ δὲ ἰδόντες τὸν χιλίαρχον καὶ τοὺς στρατιώτας ἐπαύσαντο τύπτοντες τὸν Παῦλον."
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1824]]"
+- "[[G3880]]"
+- "[[G4757]]"
+- "[[G2532]]"
+- "[[G1543]]"
+- "[[G2701]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G5506]]"
+- "[[G3973]]"
+- "[[G5180]]"
+- "[[G3972G]]"
+texts:
+- NKO
+---
+
 **Acts 21:32**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.
 <small><sub>**BSB:**</sub></small>
 Immediately he took some soldiers and centurions and ran down to the crowd. When the people saw the commander and the soldiers, they stopped beating Paul.
-<small><sub>**Literal:**</sub></small>
-who at once having taken with [him] soldiers and centurions ran down upon them. <the> And having seen the commander and the soldiers they stopped beating <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.31|<< Acts 21:31]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.33|Acts 21:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1824\|ἐξαυτῆς]]  [[G3880\|παραλαβὼν]]  [[G4757\|στρατιώτας]]  [[G2532\|καὶ]]  [[G1543\|ἑκατοντάρχας]]  [[G2701\|κατέδραμεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1492H\|ἰδόντες]]  [[G3588\|τὸν]]  [[G5506\|χιλίαρχον]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4757\|στρατιώτας]]  [[G3973\|ἐπαύσαντο]]  [[G5180\|τύπτοντες]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic SCOURGING|SCOURGING]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.31|<< Acts 21:31]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.33|Acts 21:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

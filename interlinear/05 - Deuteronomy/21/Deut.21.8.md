@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 21:8
+type: Verse
+kjv: "Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them."
+bsb: "Accept this atonement, O LORD, for Your people Israel whom You have redeemed, and do not hold the shedding of innocent blood against them.” And the bloodshed will be atoned for."
+hebrew: "כַּפֵּר֩ לְעַמְּךָ֨ יִשְׂרָאֵ֤ל אֲשֶׁר־ פָּדִ֙יתָ֙ יְהוָ֔ה וְאַל־ תִּתֵּן֙ דָּ֣ם נָקִ֔י בְּקֶ֖רֶב עַמְּךָ֣ יִשְׂרָאֵ֑ל וְנִכַּפֵּ֥ר לָהֶ֖ם הַדָּֽם׃"
+pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INQUEST|INQUEST]]"
+strongs:
+- "[[H3722A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6299]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H5414H]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9001]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:8**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.
 <small><sub>**BSB:**</sub></small>
 Accept this atonement, O LORD, for Your people Israel whom You have redeemed, and do not hold the shedding of innocent blood against them.” And the bloodshed will be atoned for.
+<small><sub>**Hebrew:**</sub></small>
+[[H3722A\|כַּפֵּר֩]] [[H9005\|לְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֨]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6299\|פָּדִ֙יתָ֙]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5414H\|תִּתֵּן֙]] [[H1818\|דָּ֣ם]] [[H5355A\|נָקִ֔י]] [[H9003\|בְּ]][[H7130G\|קֶ֖רֶב]] [[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H3722A\|נִכַּפֵּ֥ר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INQUEST|INQUEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
 

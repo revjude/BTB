@@ -1,8 +1,65 @@
+---
+title: Ezekiel 17:8
+type: Verse
+kjv: "It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine."
+bsb: "It had been planted in good soil by abundant waters in order to yield branches and bear fruit and become a splendid vine.’"
+hebrew: "אֶל־ שָׂ֥דֶה טּ֛וֹב אֶל־ מַ֥יִם רַבִּ֖ים הִ֣יא שְׁתוּלָ֑ה לַעֲשׂ֤וֹת עָנָף֙ וְלָשֵׂ֣את פֶּ֔רִי לִהְי֖וֹת לְגֶ֥פֶן אַדָּֽרֶת׃ ס"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7704B]]"
+- "[[H2896A]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H1931]]"
+- "[[H8362]]"
+- "[[H9005]]"
+- "[[H6213H]]"
+- "[[H6057]]"
+- "[[H9002]]"
+- "[[H5375H]]"
+- "[[H6529]]"
+- "[[H1961]]"
+- "[[H1612]]"
+- "[[H0155]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 17:8**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine.
 <small><sub>**BSB:**</sub></small>
 It had been planted in good soil by abundant waters in order to yield branches and bear fruit and become a splendid vine.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H7704B\|שָׂ֥דֶה]] [[H2896A\|טּ֛וֹב]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H7227A\|רַבִּ֖ים]] [[H1931\|הִ֣יא]] [[H8362\|שְׁתוּלָ֑ה]] [[H9005\|לַ]][[H6213H\|עֲשׂ֤וֹת]] [[H6057\|עָנָף֙]] [[H9002\|וְ]][[H9005\|לָ]][[H5375H\|שֵׂ֣את]] [[H6529\|פֶּ֔רִי]] [[H9005\|לִ]][[H1961\|הְי֖וֹת]] [[H9005\|לְ]][[H1612\|גֶ֥פֶן]] [[H0155\|אַדָּֽרֶת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.7|<< Ezekiel 17:7]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.9|Ezekiel 17:9 >>]]</td></tr></table>
 
@@ -22,7 +79,7 @@ It had been planted in good soil by abundant waters in order to yield branches a
 | fruit  |**<big>&#8207;[[H6529\|פֶּ֔רִי]]&#8207; </big>**| Pe.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to become  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1961\|הְי֖וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a vine of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1612\|גֶ֥פֶן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ge.fen<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| splendor  |**<big>&#8207;[[H0155\|אַדָּֽרֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Da.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| splendor  |**<big>&#8207;[[H0155\|אַדָּֽרֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Da.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.7|<< Ezekiel 17:7]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.9|Ezekiel 17:9 >>]]</td></tr></table>
 
 

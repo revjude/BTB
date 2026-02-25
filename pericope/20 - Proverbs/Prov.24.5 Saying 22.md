@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 22
+type: Pericope
 pericope: "[[Prov.24.5 Saying 22|Saying 22]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 24
 book/chapter: "[[Prov.24|Proverbs 24]]"
-genre:
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 2
 verses:
 - "[[Prov.24.5]]"
 - "[[Prov.24.6]]"
 ---
 
-[[Prov.24|Proverbs 24:5 - Proverbs 24:6]]
+<small>[[Prov.24|Proverbs 24:5-6]]</small>
 *Saying 22*
 
 [[Prov.24.5|5]] A wise man \[is\] strong; yea, a man of knowledge increaseth strength.

@@ -1,10 +1,56 @@
+---
+title: Hebrews 7:13
+type: Verse
+kjv: "For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar."
+bsb: "He of whom these things are said belonged to a different tribe, from which no one has ever served at the altar."
+greek: "ἐφ᾽ ὃν γὰρ λέγεται ταῦτα, φυλῆς ἑτέρας μετέσχηκεν, ἀφ᾽ ἧς οὐδεὶς προσέσχηκεν τῷ θυσιαστηρίῳ."
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G5443]]"
+- "[[G2087]]"
+- "[[G3348]]"
+- "[[G0575]]"
+- "[[G3762]]"
+- "[[G4337]]"
+- "[[G3588]]"
+- "[[G2379]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:13**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
 <small><sub>**BSB:**</sub></small>
 He of whom these things are said belonged to a different tribe, from which no one has ever served at the altar.
-<small><sub>**Literal:**</sub></small>
-[He] concerning whom for are spoken these things to a tribe another has belonged to, from which no [one] has served at the altar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.12|<< Hebrews 7:12]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.14|Hebrews 7:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|ἐφ᾽]]  [[G3739\|ὃν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγεται]]  [[G3778\|ταῦτα,]]  [[G5443\|φυλῆς]]  [[G2087\|ἑτέρας]]  [[G3348\|μετέσχηκεν,]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G3762\|οὐδεὶς]]  [[G4337\|προσέσχηκεν]]  [[G3588\|τῷ]]  [[G2379\|θυσιαστηρίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.12|<< Hebrews 7:12]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.14|Hebrews 7:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

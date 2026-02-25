@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fifth Plague：Livestock
+type: Pericope
 pericope: "[[Exod.9.1 The Fifth Plague：Livestock|The Fifth Plague：Livestock]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 9
 book/chapter: "[[Exod.9|Exodus 9]]"
-genre:
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.9.1]]"
 - "[[Exod.9.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.9.7]]"
 ---
 
-[[Exod.9|Exodus 9:1 - Exodus 9:7]]
+<small>[[Exod.9|Exodus 9:1-7]]</small>
 *The Fifth Plague：Livestock*
 
 [[Exod.9.1|1]] Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.

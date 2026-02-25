@@ -1,10 +1,64 @@
+---
+title: Matthew 11:10
+type: Verse
+kjv: "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+bsb: "This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’"
+jesus_said: "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+greek: "οὗτός γάρ ἐστιν περὶ οὗ γέγραπται· ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου.¶"
+pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MESSENGER|MESSENGER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G1125]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G0032H]]"
+- "[[G3165]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G4771]]"
+- "[[G2680]]"
+- "[[G3598]]"
+- "[[G1715]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 11:10**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this is [he], of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 <small><sub>**BSB:**</sub></small>
 This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
-<small><sub>**Literal:**</sub></small>
-For this for is [he] concerning whom it has been written: Behold I myself send the messenger of Mine before [the] face of You who will prepare the way of You before You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.9|<< Matthew 11:9]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.11|Matthew 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G1125\|γέγραπται·]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G3588\|τὸν]]  [[G0032H\|ἄγγελόν]]  [[G3165\|μου]]  [[G4253\|πρὸ]]  [[G4383\|προσώπου]]  [[G4771\|σου]]  [[G3739\|ὃς]]  [[G2680\|κατασκευάσει]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν]]  [[G4771\|σου]]  [[G1715\|ἔμπροσθέν]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MESSENGER|MESSENGER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.9|<< Matthew 11:9]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.11|Matthew 11:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 11:10** is...
 > $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Mal.3.1|Mal 3:1]]

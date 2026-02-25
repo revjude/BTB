@@ -1,8 +1,69 @@
+---
+title: Joshua 17:18
+type: Verse
+kjv: "But the mountain shall be thine; for it is a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong."
+bsb: "because the hill country will be yours as well. It is a forest; clear it, and its farthest limits will be yours. Although the Canaanites have iron chariots and although they are strong, you can drive them out.”"
+hebrew: "כִּ֣י הַ֤ר יִֽהְיֶה־ לָּךְ֙ כִּֽי־ יַ֣עַר ה֔וּא וּבֵ֣רֵאת֔וֹ וְהָיָ֥ה לְךָ֖ תֹּֽצְאֹתָ֑יו כִּֽי־ תוֹרִ֣ישׁ אֶת־ הַֽכְּנַעֲנִ֗י כִּ֣י רֶ֤כֶב בַּרְזֶל֙ ל֔וֹ כִּ֥י חָזָ֖ק הֽוּא׃ פ"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ZABDI|ZABDI]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2022H]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3293A]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H1254A]]"
+- "[[H9033]]"
+- "[[H9031]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H7393G]]"
+- "[[H1270]]"
+- "[[H2389]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 17:18**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the mountain shall be thine; for it [is] a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, [and] though they [be] strong.
 <small><sub>**BSB:**</sub></small>
 because the hill country will be yours as well. It is a forest; clear it, and its farthest limits will be yours. Although the Canaanites have iron chariots and although they are strong, you can drive them out.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H2022H\|הַ֤ר]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ]][[H9032\|ךְ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3293A\|יַ֣עַר]] [[H1931\|ה֔וּא]] [[H9001\|וּ]][[H1254A\|בֵ֣רֵאת֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H8444\|תֹּֽצְאֹתָ֑י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3423H\|תוֹרִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֗י]] [[H3588A\|כִּ֣י]] [[H7393G\|רֶ֤כֶב]] [[H1270\|בַּרְזֶל֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3588A\|כִּ֥י]] [[H2389\|חָזָ֖ק]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic CANAANITES|CANAANITES]] • [[topic CHARIOT|CHARIOT]] • [[topic COWARDICE|COWARDICE]] • [[topic EPHRAIM|EPHRAIM]] • [[topic IRON|IRON]] • [[topic ZABDI|ZABDI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
@@ -29,7 +90,7 @@ because the hill country will be yours as well. It is a forest; clear it, and it
 | [belongs] to \<the> him  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] strong  |**<big>&#8207;[[H2389\|חָזָ֖ק]]&#8207; </big>**| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
 

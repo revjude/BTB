@@ -1,10 +1,64 @@
+---
+title: Acts 7:2
+type: Verse
+kjv: "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,"
+bsb: "And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,"
+greek: "ὁ δὲ ἔφη· ἄνδρες ἀδελφοὶ καὶ πατέρες, ἀκούσατε. ὁ θεὸς τῆς δόξης ὤφθη τῷ πατρὶ ἡμῶν Ἀβραὰμ ὄντι ἐν τῇ Μεσοποταμίᾳ πρὶν ἢ κατοικῆσαι αὐτὸν ἐν Χαρράν,"
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MESOPOTAMIA|MESOPOTAMIA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5346]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G0191]]"
+- "[[G2316]]"
+- "[[G1391]]"
+- "[[G3700]]"
+- "[[G3165]]"
+- "[[G0011]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3318]]"
+- "[[G4250]]"
+- "[[G2228]]"
+- "[[G2730]]"
+- "[[G0846]]"
+- "[[G5488]]"
+texts:
+- NKO
+---
+
 **Acts 7:2**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 <small><sub>**BSB:**</sub></small>
 And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,
-<small><sub>**Literal:**</sub></small>
-<the> And he was speaking: Men brothers and fathers, do listen. The God <the> of glory appeared to the father of us Abraham being in <the> Mesopotamia before than dwelling of his in Haran,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.1|<< Acts 7:1]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.3|Acts 7:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5346\|ἔφη·]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοὶ]]  [[G2532\|καὶ]]  [[G3962\|πατέρες,]]  [[G0191\|ἀκούσατε.]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3700\|ὤφθη]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G3165\|ἡμῶν]]  [[G0011\|Ἀβραὰμ]]  [[G1510\|ὄντι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3318\|Μεσοποταμίᾳ]]  [[G4250\|πρὶν]]  [[G2228\|ἢ]]  [[G2730\|κατοικῆσαι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G5488\|Χαρράν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MESOPOTAMIA|MESOPOTAMIA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.1|<< Acts 7:1]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.3|Acts 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:2** is...
 > $\quad$ alluding to: [[LXX.Gen.15.7|Gen 15:7]] ☩ [[LXX.Neh.9.7|Neh 9:7]]

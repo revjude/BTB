@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Choice of Life or Death
+type: Pericope
 pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 30
 book/chapter: "[[Deut.30|Deuteronomy 30]]"
-genre:
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.30.11]]"
 - "[[Deut.30.12]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.30.20]]"
 ---
 
-[[Deut.30|Deuteronomy 30:11 - Deuteronomy 30:20]]
+<small>[[Deut.30|Deuteronomy 30:11-20]]</small>
 *The Choice of Life or Death*
 
 [[Deut.30.11|11]] For this commandment which I command thee this day, it \[is\] not hidden from thee, neither \[is\] it far off.

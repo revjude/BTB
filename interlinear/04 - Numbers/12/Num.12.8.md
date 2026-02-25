@@ -1,8 +1,75 @@
+---
+title: Numbers 12:8
+type: Verse
+kjv: "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?"
+bsb: "I speak with him face to face, clearly and not in riddles; he sees the form of the LORD. Why then were you unafraid to speak against My servant Moses?”"
+hebrew: "פֶּ֣ה אֶל־ פֶּ֞ה אֲדַבֶּר־ בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֙וּעַ֙ לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H6310G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H4758]]"
+- "[[H3808]]"
+- "[[H2420]]"
+- "[[H8544]]"
+- "[[H3068G]]"
+- "[[H5027]]"
+- "[[H4069]]"
+- "[[H3372G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:8**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
 <small><sub>**BSB:**</sub></small>
 I speak with him face to face, clearly and not in riddles; he sees the form of the LORD. Why then were you unafraid to speak against My servant Moses?”
+<small><sub>**Hebrew:**</sub></small>
+[[H6310G\|פֶּ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6310G\|פֶּ֞ה]] [[H1696G\|אֲדַבֶּר]][[H9014\|־]] [[H9003\|בּ֗]][[H9033\|וֹ]] [[H9002\|וּ]][[H4758\|מַרְאֶה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H2420\|חִידֹ֔ת]] [[H9002\|וּ]][[H8544\|תְמֻנַ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H5027\|יַבִּ֑יט]] [[H9002\|וּ]][[H4069\|מַדּ֙וּעַ֙]] [[H3808\|לֹ֣א]] [[H3372G\|יְרֵאתֶ֔ם]] [[H9005\|לְ]][[H1696G\|דַבֵּ֖ר]] [[H9003\|בְּ]][[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H9003\|בְ]][[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CITIZENS|CITIZENS]] • [[topic COMMUNION|COMMUNION]] • [[topic ENVY|ENVY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.7|<< Numbers 12:7]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.9|Numbers 12:9 >>]]</td></tr></table>
 

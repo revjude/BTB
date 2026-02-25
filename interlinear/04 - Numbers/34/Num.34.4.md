@@ -1,8 +1,70 @@
+---
+title: Numbers 34:4
+type: Verse
+kjv: "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:"
+bsb: "cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-barnea. Then it will go on to Hazar-addar and proceed to Azmon,"
+hebrew: "וְנָסַ֣ב לָכֶם֩ הַגְּב֨וּל מִנֶּ֜גֶב לְמַעֲלֵ֤ה עַקְרַבִּים֙ וְעָ֣בַר צִ֔נָה וְהָיוּ֙ תּֽוֹצְאֹתָ֔יו מִנֶּ֖גֶב לְקָדֵ֣שׁ בַּרְנֵ֑עַ וְיָצָ֥א חֲצַר־ אַדָּ֖ר וְעָבַ֥ר עַצְמֹֽנָה׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AKRABBIM|AKRABBIM]]"
+- "[[topic AZMON|AZMON]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HAZAR-ADDAR|HAZAR-ADDAR]]"
+- "[[topic ZIN|ZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H9006]]"
+- "[[H5045H]]"
+- "[[H4610]]"
+- "[[H5674A]]"
+- "[[H6790]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H6947]]"
+- "[[H3318I]]"
+- "[[H2692]]"
+- "[[H9014]]"
+- "[[H6111]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Numbers 34:4**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
 <small><sub>**BSB:**</sub></small>
 cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-barnea. Then it will go on to Hazar-addar and proceed to Azmon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5437G\|נָסַ֣ב]] [[H9005\|לָ]][[H9036\|כֶם֩]] [[H9009\|הַ]][[H1366G\|גְּב֨וּל]] [[H9006\|מִ]][[H5045H\|נֶּ֜גֶב]] [[H9005\|לְ]][[H4610\|מַעֲלֵ֤ה]] [[H4610\|עַקְרַבִּים֙]] [[H9001\|וְ]][[H5674A\|עָ֣בַר]] [[H6790\|צִ֔נָ]][[H9011\|ה]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H8444\|תּֽוֹצְאֹתָ֔י]][[H9023\|ו]] [[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H9005\|לְ]][[H6947\|קָדֵ֣שׁ]] [[H6947\|בַּרְנֵ֑עַ]] [[H9001\|וְ]][[H3318I\|יָצָ֥א]] [[H2692\|חֲצַר]][[H9014\|־]] [[H2692\|אַדָּ֖ר]] [[H9001\|וְ]][[H5674A\|עָבַ֥ר]] [[H6111\|עַצְמֹֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AKRABBIM|AKRABBIM]] • [[topic AZMON|AZMON]] • [[topic CANAANITES|CANAANITES]] • [[topic HAZAR-ADDAR|HAZAR-ADDAR]] • [[topic ZIN|ZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
@@ -28,7 +90,7 @@ cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-b
 | Azmon towards  |**<big>&#8207;[[H6111\|עַצְמֹֽנָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'atz.Mo.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
-[^1]: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
-[^2]: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^1]: and it will be  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it will be  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻה֙</big></span>**
 

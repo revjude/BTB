@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 11:23
+type: Verse
+kjv: "And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear."
+bsb: "He also struck down an Egyptian, a huge man five cubits tall. Although the Egyptian had a spear like a weaver’s beam in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear."
+hebrew: "וְהֽוּא־ הִכָּה֩ אֶת־ הָאִ֨ישׁ הַמִּצְרִ֜י אִ֥ישׁ מִדָּ֣ה׀ חָמֵ֣שׁ בָּאַמָּ֗ה וּבְיַ֨ד הַמִּצְרִ֤י חֲנִית֙ כִּמְנ֣וֹר אֹרְגִ֔ים וַיֵּ֥רֶד אֵלָ֖יו בַּשָּׁ֑בֶט וַיִּגְזֹ֤ל אֶֽת־ הַחֲנִית֙ מִיַּ֣ד הַמִּצְרִ֔י וַיַּהַרְגֵ֖הוּ בַּחֲנִיתֽוֹ׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic WEAVING|WEAVING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H4713]]"
+- "[[H4060A]]"
+- "[[H9015]]"
+- "[[H2568]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H3027G]]"
+- "[[H2595]]"
+- "[[H9004]]"
+- "[[H4500]]"
+- "[[H0707]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7626G]]"
+- "[[H1497]]"
+- "[[H9006]]"
+- "[[H2026]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:23**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew an Egyptian, a man of [great] stature, five cubits high; and in the Egyptian’s hand [was] a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
 <small><sub>**BSB:**</sub></small>
 He also struck down an Egyptian, a huge man five cubits tall. Although the Egyptian had a spear like a weaver’s beam in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H5221\|הִכָּה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֨ישׁ]] [[H9009\|הַ]][[H4713\|מִּצְרִ֜י]] [[H0376G\|אִ֥ישׁ]] [[H4060A\|מִדָּ֣ה]][[H9015\|׀]] [[H2568\|חָמֵ֣שׁ]] [[H9003\|בָּ]][[H0520A\|אַמָּ֗ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יַ֨ד]] [[H9009\|הַ]][[H4713\|מִּצְרִ֤י]] [[H2595\|חֲנִית֙]] [[H9004\|כִּ]][[H4500\|מְנ֣וֹר]] [[H0707\|אֹרְגִ֔ים]] [[H9001\|וַ]][[H3381\|יֵּ֥רֶד]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H9003\|בַּ]][[H7626G\|שָּׁ֑בֶט]] [[H9001\|וַ]][[H1497\|יִּגְזֹ֤ל]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2595\|חֲנִית֙]] [[H9006\|מִ]][[H3027G\|יַּ֣ד]] [[H9009\|הַ]][[H4713\|מִּצְרִ֔י]] [[H9001\|וַ]][[H2026\|יַּהַרְגֵ֖]][[H9033\|הוּ]] [[H9003\|בַּ]][[H2595\|חֲנִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]] • [[topic WEAVING|WEAVING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.22|<< 1 Chronicles 11:22]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.24|1 Chronicles 11:24 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:5
+type: Verse
+kjv: "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
+bsb: "The righteousness of the blameless directs their path, but the wicked fall by their own wickedness."
+hebrew: "צִדְקַ֣ת תָּ֭מִים תְּיַשֵּׁ֣ר דַּרְכּ֑וֹ וּ֝בְרִשְׁעָת֗וֹ יִפֹּ֥ל רָשָֽׁע׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6666]]"
+- "[[H8549H]]"
+- "[[H3474]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7564]]"
+- "[[H5307G]]"
+- "[[H7563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:5**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.
 <small><sub>**BSB:**</sub></small>
 The righteousness of the blameless directs their path, but the wicked fall by their own wickedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H6666\|צִדְקַ֣ת]] [[H8549H\|תָּ֭מִים]] [[H3474\|תְּיַשֵּׁ֣ר]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H7564\|רִשְׁעָת֗]][[H9023\|וֹ]] [[H5307G\|יִפֹּ֥ל]] [[H7563\|רָשָֽׁע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.4|<< Proverbs 11:4]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.6|Proverbs 11:6 >>]]</td></tr></table>
 

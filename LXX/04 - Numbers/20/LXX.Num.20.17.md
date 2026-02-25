@@ -1,6 +1,73 @@
+---
+title: LXX Numbers 20:17
+type: Verse
+lxx: "We shall go through  your land. We will not go through the fields, nor through the vineyards, nor shall we drink water from out of your cistern. We shall go by the royal way. We shall not turn aside to the right nor left, until whenever we should have gone by  your borders."
+greek: "παρελευσόμεθα διά της γης σου ου διελευσόμεθα δι΄ αγρών ουδέ δι΄ αμπελώνων ουδέ πιόμεθα ύδωρ εκ λάκκου σου οδώ βασιλική πορευσόμεθα ουκ εκκλινούμεν δεξιά ουδέ ευώνυμα έως αν παρέλθωμεν τα όριά σου"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ROADS|ROADS]]"
+strongs:
+- "[[G3928]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1330]]"
+- "[[G1223]]"
+- "[[G0068]]"
+- "[[G3761]]"
+- "[[G1223]]"
+- "[[G0290]]"
+- "[[G3761]]"
+- "[[G4095]]"
+- "[[G5204]]"
+- "[[G1537]]"
+- "[[G8154]]"
+- "[[G1473]]"
+- "[[G3598]]"
+- "[[G0937]]"
+- "[[G4198]]"
+- "[[G3756]]"
+- "[[G1578]]"
+- "[[G1188]]"
+- "[[G3761]]"
+- "[[G2176]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G3928]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 20:17** 
 <small><sub>**LXX:**</sub></small>
 We shall go through  your land. We will not go through \[the\] fields, nor through \[the\] vineyards, nor shall we drink water from out of your cistern. We shall go \[by the\] royal way. We shall not turn aside to \[the\] right nor left, until whenever we should have gone by  your borders. 
+<small><sub>**Greek:**</sub></small>
+[[G3928\|παρελευσόμεθα]] [[G1223\|διά]] [[G3588\|της]] [[G1093\|γης]] [[G1473\|σου]] [[G3756\|ου]] [[G1330\|διελευσόμεθα]] [[G1223\|δι΄]] [[G0068\|αγρών]] [[G3761\|ουδέ]] [[G1223\|δι΄]] [[G0290\|αμπελώνων]] [[G3761\|ουδέ]] [[G4095\|πιόμεθα]] [[G5204\|ύδωρ]] [[G1537\|εκ]] [[G8154\|λάκκου]] [[G1473\|σου]] [[G3598\|οδώ]] [[G0937\|βασιλική]] [[G4198\|πορευσόμεθα]] [[G3756\|ουκ]] [[G1578\|εκκλινούμεν]] [[G1188\|δεξιά]] [[G3761\|ουδέ]] [[G2176\|ευώνυμα]] [[G2193\|έως]] [[G0302\|αν]] [[G3928\|παρέλθωμεν]] [[G3588\|τα]] [[G3725\|όριά]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic ISRAEL|ISRAEL]] • [[topic ROADS|ROADS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
@@ -35,6 +102,6 @@ We shall go through  your land. We will not go through \[the\] fields, nor throu
 | we should have gone by | **<big>[[G3928\|παρέλθωμεν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | your borders. | **<big>[[G3725\|όριά]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Num.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.16|<< Numbers 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.18|Numbers 20:18 >>]]</td></tr></table>
 
 

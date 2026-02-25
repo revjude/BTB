@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abram and Lot Part Ways
+type: Pericope
 pericope: "[[Gen.13.1 Abram and Lot Part Ways|Abram and Lot Part Ways]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 13
 book/chapter: "[[Gen.13|Genesis 13]]"
-genre:
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.13.1]]"
 - "[[Gen.13.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.13.9]]"
 ---
 
-[[Gen.13|Genesis 13:1 - Genesis 13:9]]
+<small>[[Gen.13|Genesis 13:1-9]]</small>
 *Abram and Lot Part Ways*
 
 [[Gen.13.1|1]] And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.

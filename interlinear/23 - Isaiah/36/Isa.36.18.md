@@ -1,8 +1,66 @@
+---
+title: Isaiah 36:18
+type: Verse
+kjv: "Beware lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?"
+bsb: "Do not let Hezekiah mislead you when he says, ‘The LORD will deliver us.’ Has the god of any nation ever delivered his land from the hand of the king of Assyria?"
+hebrew: "פֶּן־ יַסִּ֨ית אֶתְכֶ֤ם חִזְקִיָּ֙הוּ֙ לֵאמֹ֔ר יְהוָ֖ה יַצִּילֵ֑נוּ הַהִצִּ֜ילוּ אֱלֹהֵ֤י הַגּוֹיִם֙ אִ֣ישׁ אֶת־ אַרְצ֔וֹ מִיַּ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H5496]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H9008]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0376I]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:18**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Beware] lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?
 <small><sub>**BSB:**</sub></small>
 Do not let Hezekiah mislead you when he says, ‘The LORD will deliver us.’ Has the god of any nation ever delivered his land from the hand of the king of Assyria?
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H5496\|יַסִּ֨ית]] [[H0853\|אֶתְ]][[H9036\|כֶ֤ם]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָ֖ה]] [[H5337\|יַצִּילֵ֑]][[H9035\|נוּ]] [[H9008\|הַ]][[H5337\|הִצִּ֜ילוּ]] [[H0430\|אֱלֹהֵ֤י]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצ֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027H\|יַּ֖ד]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.17|<< Isaiah 36:17]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.19|Isaiah 36:19 >>]]</td></tr></table>
 

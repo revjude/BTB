@@ -1,10 +1,65 @@
+---
+title: Matthew 8:24
+type: Verse
+kjv: "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep."
+bsb: "Suddenly a violent storm came up on the sea, so that the boat was engulfed by the waves. But Jesus was sleeping."
+greek: "καὶ ἰδοὺ σεισμὸς μέγας ἐγένετο ἐν τῇ θαλάσσῃ ὥστε τὸ πλοῖον καλύπτεσθαι ὑπὸ τῶν κυμάτων· αὐτὸς δὲ ἐκάθευδεν."
+pericope: "[[Matt.8.23 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REST|REST]]"
+- "[[topic SEA|SEA]]"
+- "[[topic SLEEP|SLEEP]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G4578]]"
+- "[[G3173]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G5620]]"
+- "[[G4143]]"
+- "[[G2572]]"
+- "[[G5259G]]"
+- "[[G2949]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G2518]]"
+texts:
+- NKO
+---
+
 **Matthew 8:24**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.
 <small><sub>**BSB:**</sub></small>
 Suddenly a violent storm came up on the sea, so that the boat was engulfed by the waves. But Jesus was sleeping.
-<small><sub>**Literal:**</sub></small>
-And behold a storm great arose in the sea so that the boat being swamped by the waves; He Himself however was sleeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.23|<< Matthew 8:23]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.25|Matthew 8:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G4578\|σεισμὸς]]  [[G3173\|μέγας]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ]]  [[G5620\|ὥστε]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G2572\|καλύπτεσθαι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2949\|κυμάτων·]]  [[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G2518\|ἐκάθευδεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic REST|REST]] • [[topic SEA|SEA]] • [[topic SLEEP|SLEEP]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.23|<< Matthew 8:23]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.25|Matthew 8:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judges Raised Up
+type: Pericope
 pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 2
 book/chapter: "[[Judg.2|Judges 2]]"
-genre:
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.2.16]]"
 - "[[Judg.2.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.2.23]]"
 ---
 
-[[Judg.2|Judges 2:16 - Judges 2:23]]
+<small>[[Judg.2|Judges 2:16-23]]</small>
 *Judges Raised Up*
 
 [[Judg.2.16|16]] Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.

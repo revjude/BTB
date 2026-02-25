@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 26:8
+type: Verse
+kjv: "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time."
+bsb: "Abishai said to David, “Today God has delivered your enemy into your hand. Now, therefore, please let me thrust the spear through him into the ground with one stroke. I will not need to strike him twice!”"
+hebrew: "וַיֹּ֤אמֶר אֲבִישַׁי֙ אֶל־ דָּוִ֔ד סִגַּ֨ר אֱלֹהִ֥ים הַיּ֛וֹם אֶת־ אוֹיִבְךָ֖ בְּיָדֶ֑ךָ וְעַתָּה֩ אַכֶּ֨נּוּ נָ֜א בַּחֲנִ֤ית וּבָאָ֙רֶץ֙ פַּ֣עַם אַחַ֔ת וְלֹ֥א אֶשְׁנֶ֖ה לֽוֹ׃"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0052]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H5462]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H4994]]"
+- "[[H2595]]"
+- "[[H0776H]]"
+- "[[H6471]]"
+- "[[H0259]]"
+- "[[H3808]]"
+- "[[H8138B]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:8**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not [smite] him the second time.
 <small><sub>**BSB:**</sub></small>
 Abishai said to David, “Today God has delivered your enemy into your hand. Now, therefore, please let me thrust the spear through him into the ground with one stroke. I will not need to strike him twice!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0052\|אֲבִישַׁי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H5462\|סִגַּ֨ר]] [[H0430G\|אֱלֹהִ֥ים]] [[H9009\|הַ]][[H3117L\|יּ֛וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אוֹיִבְ]][[H9021\|ךָ֖]] [[H9003\|בְּ]][[H3027H\|יָדֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H6258\|עַתָּה֩]] [[H5221\|אַכֶּ֨]][[H9033\|נּוּ]] [[H4994\|נָ֜א]] [[H9003\|בַּ]][[H2595\|חֲנִ֤ית]] [[H9002\|וּ]][[H9003\|בָ]][[H0776H\|אָ֙רֶץ֙]] [[H6471\|פַּ֣עַם]] [[H0259\|אַחַ֔ת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8138B\|אֶשְׁנֶ֖ה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic CITIZENS|CITIZENS]] • [[topic COURAGE|COURAGE]] • [[topic LOYALTY|LOYALTY]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.7|<< 1 Samuel 26:7]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.9|1 Samuel 26:9 >>]]</td></tr></table>
 

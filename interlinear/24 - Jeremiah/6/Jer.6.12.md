@@ -1,8 +1,61 @@
+---
+title: Jeremiah 6:12
+type: Verse
+kjv: "And their houses shall be turned unto others, with their fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the LORD."
+bsb: "Their houses will be turned over to others, their fields and wives as well, for I will stretch out My hand against the inhabitants of the land,” declares the LORD."
+hebrew: "וְנָסַ֤בּוּ בָֽתֵּיהֶם֙ לַאֲחֵרִ֔ים שָׂד֥וֹת וְנָשִׁ֖ים יַחְדָּ֑ו כִּֽי־ אַטֶּ֧ה אֶת־ יָדִ֛י עַל־ יֹשְׁבֵ֥י הָאָ֖רֶץ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H5437J]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0312]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H3162B]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:12**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their houses shall be turned unto others, [with their] fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Their houses will be turned over to others, their fields and wives as well, for I will stretch out My hand against the inhabitants of the land,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5437J\|נָסַ֤בּוּ]] [[H1004B\|בָֽתֵּי]][[H9028\|הֶם֙]] [[H9005\|לַ]][[H0312\|אֲחֵרִ֔ים]] [[H7704G\|שָׂד֥וֹת]] [[H9002\|וְ]][[H0802H\|נָשִׁ֖ים]] [[H3162B\|יַחְדָּ֑ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5186\|אַטֶּ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדִ֛]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.11|<< Jeremiah 6:11]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.13|Jeremiah 6:13 >>]]</td></tr></table>
 

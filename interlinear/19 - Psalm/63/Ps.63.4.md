@@ -1,8 +1,55 @@
+---
+title: Psalm 63:4
+type: Verse
+kjv: "Thus will I bless thee while I live: I will lift up my hands in thy name."
+bsb: "So I will bless You as long as I live; in Your name I will lift my hands."
+hebrew: "כֵּ֣ן אֲבָרֶכְךָ֣ בְחַיָּ֑י בְּ֝שִׁמְךָ אֶשָּׂ֥א כַפָּֽי׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3651C]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5375P]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:4**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I bless thee while I live: I will lift up my hands in thy name.
 <small><sub>**BSB:**</sub></small>
 So I will bless You as long as I live; in Your name I will lift my hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֣ן]] [[H1288\|אֲבָרֶכְ]][[H9031\|ךָ֣]] [[H9003\|בְ]][[H2416E\|חַיָּ֑]][[H9020\|י]] [[H9003\|בְּ֝]][[H8034\|שִׁמְ]][[H9021\|ךָ]] [[H5375P\|אֶשָּׂ֥א]] [[H3709G\|כַפָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.3|<< Psalms 63:3]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.5|Psalms 63:5 >>]]</td></tr></table>
 

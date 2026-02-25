@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fifth Day
+type: Pericope
 pericope: "[[Gen.1.20 The Fifth Day|The Fifth Day]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.1.20]]"
 - "[[Gen.1.21]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.1.23]]"
 ---
 
-[[Gen.1|Genesis 1:20 - Genesis 1:23]]
+<small>[[Gen.1|Genesis 1:20-23]]</small>
 *The Fifth Day*
 
 [[Gen.1.20|20]] And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl \[that\] may fly above the earth in the open firmament of heaven.

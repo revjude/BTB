@@ -1,8 +1,70 @@
+---
+title: Ezekiel 5:12
+type: Verse
+kjv: "A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them."
+bsb: "A third of your people will die by plague or be consumed by famine within you, a third will fall by the sword outside your walls, and a third I will scatter to every wind and unleash a sword behind them."
+hebrew: "שְׁלִשִׁתֵ֞יךְ בַּדֶּ֣בֶר יָמ֗וּתוּ וּבָֽרָעָב֙ יִכְל֣וּ בְתוֹכֵ֔ךְ וְהַ֨שְּׁלִשִׁ֔ית בַּחֶ֖רֶב יִפְּל֣וּ סְבִיבוֹתָ֑יִךְ וְהַשְּׁלִישִׁית֙ לְכָל־ ר֣וּחַ אֱזָרֶ֔ה וְחֶ֖רֶב אָרִ֥יק אַחֲרֵיהֶֽם׃"
+pericope: "[[Ezek.5.11 Famine, Sword, and Dispersion|Famine, Sword, and Dispersion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7992]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H1698]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H7458]]"
+- "[[H3615H]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H5439G]]"
+- "[[H9032]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H2219]]"
+- "[[H7324]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:12**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them.
 <small><sub>**BSB:**</sub></small>
 A third of your people will die by plague or be consumed by famine within you, a third will fall by the sword outside your walls, and a third I will scatter to every wind and unleash a sword behind them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7992\|שְׁלִשִׁתֵ֞]][[H9022\|יךְ]] [[H9003\|בַּ]][[H1698\|דֶּ֣בֶר]] [[H4191\|יָמ֗וּתוּ]] [[H9002\|וּ]][[H9003\|בָֽ]][[H7458\|רָעָב֙]] [[H3615H\|יִכְל֣וּ]] [[H9003\|בְ]][[H8432\|תוֹכֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H9009\|הַ֨]][[H7992\|שְּׁלִשִׁ֔ית]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H5307J\|יִפְּל֣וּ]] [[H5439G\|סְבִיבוֹתָ֑יִ]][[H9032\|ךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H7992\|שְּׁלִישִׁית֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H7307H\|ר֣וּחַ]] [[H2219\|אֱזָרֶ֔ה]] [[H9002\|וְ]][[H2719\|חֶ֖רֶב]] [[H7324\|אָרִ֥יק]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.11|<< Ezekiel 5:11]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.13|Ezekiel 5:13 >>]]</td></tr></table>
 

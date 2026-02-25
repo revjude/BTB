@@ -1,8 +1,65 @@
+---
+title: Numbers 8:11
+type: Verse
+kjv: "And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD."
+bsb: "Aaron is to present the Levites before the LORD as a wave offering from the sons of Israel, so that they may perform the service of the LORD."
+hebrew: "וְהֵנִיף֩ אַהֲרֹ֨ן אֶת־ הַלְוִיִּ֤ם תְּנוּפָה֙ לִפְנֵ֣י יְהוָ֔ה מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָי֕וּ לַעֲבֹ֖ד אֶת־ עֲבֹדַ֥ת יְהוָֽה׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5130B]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:11**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall offer the Levites before the LORD [for] an offering of the children of Israel, that they may execute the service of the LORD.
 <small><sub>**BSB:**</sub></small>
 Aaron is to present the Levites before the LORD as a wave offering from the sons of Israel, so that they may perform the service of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5130B\|הֵנִיף֩]] [[H0175\|אַהֲרֹ֨ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֤ם]] [[H8573\|תְּנוּפָה֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מֵ]][[H0854\|אֵ֖ת]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H1961\|הָי֕וּ]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.10|<< Numbers 8:10]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.12|Numbers 8:12 >>]]</td></tr></table>
 

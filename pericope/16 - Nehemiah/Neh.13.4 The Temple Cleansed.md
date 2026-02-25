@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple Cleansed
+type: Pericope
 pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 13
 book/chapter: "[[Neh.13|Nehemiah 13]]"
-genre:
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 6
 verses:
 - "[[Neh.13.4]]"
 - "[[Neh.13.5]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Neh.13.9]]"
 ---
 
-[[Neh.13|Nehemiah 13:4 - Nehemiah 13:9]]
+<small>[[Neh.13|Nehemiah 13:4-9]]</small>
 *The Temple Cleansed*
 
 [[Neh.13.4|4]] And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, \[was\] allied unto Tobiah:

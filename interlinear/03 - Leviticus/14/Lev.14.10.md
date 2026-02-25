@@ -1,8 +1,71 @@
+---
+title: Leviticus 14:10
+type: Verse
+kjv: "And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil."
+bsb: "On the eighth day he is to bring two unblemished male lambs, an unblemished ewe lamb a year old, a grain offering of three-tenths of an ephah of fine flour mixed with olive oil, and one log of olive oil."
+hebrew: "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יִקַּ֤ח שְׁנֵֽי־ כְבָשִׂים֙ תְּמִימִ֔ים וְכַבְשָׂ֥ה אַחַ֛ת בַּת־ שְׁנָתָ֖הּ תְּמִימָ֑ה וּשְׁלֹשָׁ֣ה עֶשְׂרֹנִ֗ים סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן וְלֹ֥ג אֶחָ֖ד שָֽׁמֶן׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic LOG|LOG]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic OIL|OIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H3532]]"
+- "[[H8549G]]"
+- "[[H3535]]"
+- "[[H0259]]"
+- "[[H1323G]]"
+- "[[H8141]]"
+- "[[H9024]]"
+- "[[H7969]]"
+- "[[H6241]]"
+- "[[H5560]]"
+- "[[H4503G]]"
+- "[[H1101A]]"
+- "[[H8081]]"
+- "[[H3849]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:10**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour [for] a meat offering, mingled with oil, and one log of oil.
 <small><sub>**BSB:**</sub></small>
 On the eighth day he is to bring two unblemished male lambs, an unblemished ewe lamb a year old, a grain offering of three-tenths of an ephah of fine flour mixed with olive oil, and one log of olive oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֗י]] [[H3947G\|יִקַּ֤ח]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H3532\|כְבָשִׂים֙]] [[H8549G\|תְּמִימִ֔ים]] [[H9002\|וְ]][[H3535\|כַבְשָׂ֥ה]] [[H0259\|אַחַ֛ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H8141\|שְׁנָתָ֖]][[H9024\|הּ]] [[H8549G\|תְּמִימָ֑ה]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H6241\|עֶשְׂרֹנִ֗ים]] [[H5560\|סֹ֤לֶת]] [[H4503G\|מִנְחָה֙]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שֶּׁ֔מֶן]] [[H9002\|וְ]][[H3849\|לֹ֥ג]] [[H0259\|אֶחָ֖ד]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOG|LOG]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic OIL|OIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.9|<< Leviticus 14:9]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.11|Leviticus 14:11 >>]]</td></tr></table>
 

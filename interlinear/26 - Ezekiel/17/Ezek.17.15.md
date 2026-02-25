@@ -1,8 +1,75 @@
+---
+title: Ezekiel 17:15
+type: Verse
+kjv: "But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such things? or shall he break the covenant, and be delivered?"
+bsb: "But this king rebelled against Babylon by sending his envoys to Egypt to ask for horses and a large army. Will he flourish? Will the one who does such things escape? Can he break a covenant and yet escape?’"
+hebrew: "וַיִּמְרָד־ בּ֗וֹ לִשְׁלֹ֤חַ מַלְאָכָיו֙ מִצְרַ֔יִם לָֽתֶת־ ל֥וֹ סוּסִ֖ים וְעַם־ רָ֑ב הֲיִצְלָ֤ח הֲיִמָּלֵט֙ הָעֹשֵׂ֣ה אֵ֔לֶּה וְהֵפֵ֥ר בְּרִ֖ית וְנִמְלָֽט׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4775]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H9023]]"
+- "[[H4714G]]"
+- "[[H5414G]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H5971K]]"
+- "[[H7227A]]"
+- "[[H9008]]"
+- "[[H6743B]]"
+- "[[H4422]]"
+- "[[H9009]]"
+- "[[H6213A]]"
+- "[[H0428]]"
+- "[[H6565A]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:15**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such [things]? or shall he break the covenant, and be delivered?
 <small><sub>**BSB:**</sub></small>
 But this king rebelled against Babylon by sending his envoys to Egypt to ask for horses and a large army. Will he flourish? Will the one who does such things escape? Can he break a covenant and yet escape?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4775\|יִּמְרָד]][[H9014\|־]] [[H9003\|בּ֗]][[H9033\|וֹ]] [[H9005\|לִ]][[H7971G\|שְׁלֹ֤חַ]] [[H4397G\|מַלְאָכָי]][[H9023\|ו֙]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H5483M\|סוּסִ֖ים]] [[H9002\|וְ]][[H5971K\|עַם]][[H9014\|־]] [[H7227A\|רָ֑ב]] [[H9008\|הֲ]][[H6743B\|יִצְלָ֤ח]] [[H9008\|הֲ]][[H4422\|יִמָּלֵט֙]] [[H9009\|הָ]][[H6213A\|עֹשֵׂ֣ה]] [[H0428\|אֵ֔לֶּה]] [[H9001\|וְ]][[H6565A\|הֵפֵ֥ר]] [[H1285\|בְּרִ֖ית]] [[H9001\|וְ]][[H4422\|נִמְלָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic AMBASSADORS|AMBASSADORS]] • [[topic CITIZENS|CITIZENS]] • [[topic COVENANT|COVENANT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HORSE|HORSE]] • [[topic PHARAOH|PHARAOH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.14|<< Ezekiel 17:14]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.16|Ezekiel 17:16 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Judges 11:19
+type: Verse
+kjv: "And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place."
+bsb: "And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’"
+hebrew: "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־ סִיח֥וֹן מֶֽלֶךְ־ הָאֱמֹרִ֖י מֶ֣לֶךְ חֶשְׁבּ֑וֹן וַיֹּ֤אמֶר לוֹ֙ יִשְׂרָאֵ֔ל נַעְבְּרָה־ נָּ֥א בְאַרְצְךָ֖ עַד־ מְקוֹמִֽי׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3478]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H2809]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5674A]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H4725]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:19**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.
 <small><sub>**BSB:**</sub></small>
 And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3478\|יִשְׂרָאֵל֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H5511\|סִיח֥וֹן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H4428G\|מֶ֣לֶךְ]] [[H2809\|חֶשְׁבּ֑וֹן]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5674A\|נַעְבְּרָה]][[H9014\|־]] [[H4994\|נָּ֥א]] [[H9003\|בְ]][[H0776G\|אַרְצְ]][[H9021\|ךָ֖]] [[H5704\|עַד]][[H9014\|־]] [[H4725\|מְקוֹמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.18|<< Judges 11:18]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.20|Judges 11:20 >>]]</td></tr></table>
 

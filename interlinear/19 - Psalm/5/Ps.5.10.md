@@ -1,8 +1,61 @@
+---
+title: Psalm 5:10
+type: Verse
+kjv: "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee."
+bsb: "Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You."
+hebrew: "הַֽאֲשִׁימֵ֨ם׀ אֱֽלֹהִ֗ים יִפְּלוּ֮ מִֽמֹּעֲצ֪וֹתֵ֫יהֶ֥ם בְּרֹ֣ב פִּ֭שְׁעֵיהֶם הַדִּיחֵ֑מוֹ כִּי־ מָ֥רוּ בָֽךְ׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0816]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H4156]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H6588]]"
+- "[[H5080]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4784]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:10**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.
 <small><sub>**BSB:**</sub></small>
 Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0816\|הַֽאֲשִׁימֵ֨]][[H9038\|ם]][[H9015\|׀]] [[H0430G\|אֱֽלֹהִ֗ים]] [[H5307G\|יִפְּלוּ֮]] [[H9006\|מִֽ]][[H4156\|מֹּעֲצ֪וֹתֵ֫י]][[H9028\|הֶ֥ם]] [[H9003\|בְּ]][[H7230\|רֹ֣ב]] [[H6588\|פִּ֭שְׁעֵי]][[H9028\|הֶם]] [[H5080\|הַדִּיחֵ֑]][[H9038\|מוֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H4784\|מָ֥רוּ]] [[H9003\|בָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.9|<< Psalms 5:9]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.11|Psalms 5:11 >>]]</td></tr></table>
 

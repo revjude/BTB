@@ -1,10 +1,67 @@
+---
+title: Acts 10:2
+type: Verse
+kjv: "A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway."
+bsb: "He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly."
+greek: "εὐσεβὴς καὶ φοβούμενος τὸν θεὸν σὺν παντὶ τῷ οἴκῳ αὐτοῦ, ποιῶν τε ἐλεημοσύνας πολλὰς τῷ λαῷ καὶ δεόμενος τοῦ θεοῦ διὰ παντός·"
+pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G2152]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4862]]"
+- "[[G3956]]"
+- "[[G3624H]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G5037]]"
+- "[[G1654]]"
+- "[[G4183]]"
+- "[[G2992]]"
+- "[[G1189]]"
+- "[[G1223]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 10:2**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [A] devout [man], and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
 <small><sub>**BSB:**</sub></small>
 He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly.
-<small><sub>**Literal:**</sub></small>
-devout and fearing <the> God with all the household of him, doing also alms many to the people and praying <the> to God through all [times];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.1|<< Acts 10:1]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.3|Acts 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2152\|εὐσεβὴς]]  [[G2532\|καὶ]]  [[G5399\|φοβούμενος]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G4862\|σὺν]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G3624H\|οἴκῳ]]  [[G0846\|αὐτοῦ,]]  [[G4160G\|ποιῶν]]  [[G5037\|τε]]  [[G1654\|ἐλεημοσύνας]]  [[G4183\|πολλὰς]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G2532\|καὶ]]  [[G1189\|δεόμενος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1223\|διὰ]]  [[G3956\|παντός·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHARACTER|CHARACTER]] • [[topic FAMILY|FAMILY]] • [[topic HEATHEN|HEATHEN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic POOR|POOR]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.1|<< Acts 10:1]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.3|Acts 10:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

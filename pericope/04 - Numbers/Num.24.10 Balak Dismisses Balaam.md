@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balak Dismisses Balaam
+type: Pericope
 pericope: "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 24
 book/chapter: "[[Num.24|Numbers 24]]"
-genre:
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.24.10]]"
 - "[[Num.24.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.24.14]]"
 ---
 
-[[Num.24|Numbers 24:10 - Numbers 24:14]]
+<small>[[Num.24|Numbers 24:10-14]]</small>
 *Balak Dismisses Balaam*
 
 [[Num.24.10|10]] And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed \[them\] these three times.

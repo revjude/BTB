@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Remember God’s Words
+type: Pericope
 pericope: "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 11
 book/chapter: "[[Deut.11|Deuteronomy 11]]"
-genre:
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.11.18]]"
 - "[[Deut.11.19]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.11.25]]"
 ---
 
-[[Deut.11|Deuteronomy 11:18 - Deuteronomy 11:25]]
+<small>[[Deut.11|Deuteronomy 11:18-25]]</small>
 *Remember God’s Words*
 
 [[Deut.11.18|18]] Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.

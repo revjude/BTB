@@ -1,8 +1,71 @@
+---
+title: Joshua 6:17
+type: Verse
+kjv: "And the city shall be accursed, even it, and all that are therein, to the LORD: only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent."
+bsb: "Now the city and everything in it must be devoted to the LORD for destruction. Only Rahab the prostitute and all those with her in her house will live, because she hid the spies we sent."
+hebrew: "וְהָיְתָ֨ה הָעִ֥יר חֵ֛רֶם הִ֥יא וְכָל־ אֲשֶׁר־ בָּ֖הּ לַֽיהוָ֑ה רַק֩ רָחָ֨ב הַזּוֹנָ֜ה תִּֽחְיֶ֗ה הִ֚יא וְכָל־ אֲשֶׁ֣ר אִתָּ֣הּ בַּבַּ֔יִת כִּ֣י הֶחְבְּאַ֔תָה אֶת־ הַמַּלְאָכִ֖ים אֲשֶׁ֥ר שָׁלָֽחְנוּ׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACCURSED|ACCURSED]]"
+- "[[topic ARK|ARK]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2764A]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7535]]"
+- "[[H7343]]"
+- "[[H2181]]"
+- "[[H2421]]"
+- "[[H0854]]"
+- "[[H1004B]]"
+- "[[H3588A]]"
+- "[[H2244]]"
+- "[[H0853]]"
+- "[[H4397G]]"
+- "[[H7971G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:17**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the city shall be accursed, [even] it, and all that [are] therein, to the LORD: only Rahab the harlot shall live, she and all that [are] with her in the house, because she hid the messengers that we sent.
 <small><sub>**BSB:**</sub></small>
 Now the city and everything in it must be devoted to the LORD for destruction. Only Rahab the prostitute and all those with her in her house will live, because she hid the spies we sent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֨ה]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H2764A\|חֵ֛רֶם]] [[H1931\|הִ֥יא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H7535\|רַק֩]] [[H7343\|רָחָ֨ב]] [[H9009\|הַ]][[H2181\|זּוֹנָ֜ה]] [[H2421\|תִּֽחְיֶ֗ה]] [[H1931\|הִ֚יא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתָּ֣]][[H9034\|הּ]] [[H9003\|בַּ]][[H1004B\|בַּ֔יִת]] [[H3588A\|כִּ֣י]] [[H2244\|הֶחְבְּאַ֔תָה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|שָׁלָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCURSED|ACCURSED]] • [[topic ARK|ARK]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic RAHAB|RAHAB]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.16|<< Joshua 6:16]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.18|Joshua 6:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

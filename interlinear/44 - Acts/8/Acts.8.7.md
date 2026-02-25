@@ -1,10 +1,59 @@
+---
+title: Acts 8:7
+type: Verse
+kjv: "For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed."
+bsb: "With loud shrieks, unclean spirits came out of many who were possessed, and many of the paralyzed and lame were healed."
+greek: "πολλοὶ γὰρ τῶν ἐχόντων πνεύματα ἀκάθαρτα βοῶντα φωνῇ μεγάλῃ ἐξήρχοντο, πολλοὶ δὲ παραλελυμένοι καὶ χωλοὶ ἐθεραπεύθησαν·"
+pericope: "[[Acts.8.4 Philip in Samaria|Philip in Samaria]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic PARALYSIS|PARALYSIS]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G0994]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G3886]]"
+- "[[G2532]]"
+- "[[G5560]]"
+- "[[G2323]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 8:7**<big><big>[[Acts.8.4 Philip in Samaria|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For unclean spirits, crying with loud voice, came out of many that were possessed [with them]: and many taken with palsies, and that were lame, were healed.
 <small><sub>**BSB:**</sub></small>
 With loud shrieks, unclean spirits came out of many who were possessed, and many of the paralyzed and lame were healed.
-<small><sub>**Literal:**</sub></small>
-many for of those having spirits unclean crying voice in a loud were coming out, many now paralyzed and lame were healed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.6|<< Acts 8:6]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.8|Acts 8:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G1063\|γὰρ]]  [[G3588\|τῶν]]  [[G2192\|ἐχόντων]]  [[G4151G\|πνεύματα]]  [[G0169\|ἀκάθαρτα]]  [[G0994\|βοῶντα]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G1831\|ἐξήρχοντο,]]  [[G4183\|πολλοὶ]]  [[G1161\|δὲ]]  [[G3886\|παραλελυμένοι]]  [[G2532\|καὶ]]  [[G5560\|χωλοὶ]]  [[G2323\|ἐθεραπεύθησαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic PARALYSIS|PARALYSIS]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.6|<< Acts 8:6]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.8|Acts 8:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

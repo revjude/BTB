@@ -1,10 +1,65 @@
+---
+title: Acts 7:16
+type: Verse
+kjv: "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem."
+bsb: "Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver."
+greek: "καὶ μετετέθησαν εἰς Συχὲμ καὶ ἐτέθησαν ἐν τῷ μνήματι ᾧ ὠνήσατο Ἀβραὰμ τιμῆς ἀργυρίου παρὰ τῶν υἱῶν Ἑμμὼρ ἐν Συχέμ."
+pericope: "[[Acts.7.15 Israel Oppressed in Egypt|Israel Oppressed in Egypt]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic COURT|COURT]]"
+- "[[topic EMMOR|EMMOR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MACHPELAH|MACHPELAH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3346]]"
+- "[[G1519]]"
+- "[[G4966]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3418]]"
+- "[[G3739]]"
+- "[[G5608]]"
+- "[[G0011]]"
+- "[[G5092]]"
+- "[[G0694]]"
+- "[[G3844]]"
+- "[[G5207]]"
+- "[[G1697]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 7:16**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor [the father] of Sychem.
 <small><sub>**BSB:**</sub></small>
 Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.
-<small><sub>**Literal:**</sub></small>
-and they were carried over into Shechem and were placed in the tomb which bought Abraham for a sum of silver from the sons of Hamor in Shechem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.15|<< Acts 7:15]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.17|Acts 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3346\|μετετέθησαν]]  [[G1519\|εἰς]]  [[G4966\|Συχὲμ]]  [[G2532\|καὶ]]  [[G5087\|ἐτέθησαν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3418\|μνήματι]]  [[G3739\|ᾧ]]  [[G5608\|ὠνήσατο]]  [[G0011\|Ἀβραὰμ]]  [[G5092\|τιμῆς]]  [[G0694\|ἀργυρίου]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G1697\|Ἑμμὼρ]]  [[G1722\|ἐν]]  [[G4966\|Συχέμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic COURT|COURT]] • [[topic EMMOR|EMMOR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAMOR|HAMOR]] • [[topic JOSEPH|JOSEPH]] • [[topic MACHPELAH|MACHPELAH]] • [[topic MONEY|MONEY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.15|<< Acts 7:15]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.17|Acts 7:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:16** is...
 > $\quad$ alluding to: [[LXX.Josh.24.32|Josh 24:32]]

@@ -1,10 +1,63 @@
+---
+title: 2 Timothy 1:16
+type: Verse
+kjv: "The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:"
+bsb: "May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains."
+greek: "δῴη ἔλεος ὁ κύριος τῷ Ὀνησιφόρου οἴκῳ· ὅτι πολλάκις με ἀνέψυξεν καὶ τὴν ἅλυσίν μου οὐκ ἐπαισχύνθη,"
+pericope: "[[2Tim.1.13 Holding to Sound Teaching|Holding to Sound Teaching]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ONESIPHORUS|ONESIPHORUS]]"
+- "[[topic ROME|ROME]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1325]]"
+- "[[G1656]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3683]]"
+- "[[G3624H]]"
+- "[[G3754H]]"
+- "[[G4178]]"
+- "[[G3165]]"
+- "[[G0404]]"
+- "[[G2532]]"
+- "[[G0254]]"
+- "[[G3756]]"
+- "[[G1870]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Timothy 1:16**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
 <small><sub>**BSB:**</sub></small>
 May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains.
-<small><sub>**Literal:**</sub></small>
-would grant mercy the Lord to the of Onesiphorus household; because often me he refreshed and the chain of mine not he was ashamed of,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.15|<< 2 Timothy 1:15]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.17|2 Timothy 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δῴη]]  [[G1656\|ἔλεος]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G3683\|Ὀνησιφόρου]]  [[G3624H\|οἴκῳ·]]  [[G3754H\|ὅτι]]  [[G4178\|πολλάκις]]  [[G3165\|με]]  [[G0404\|ἀνέψυξεν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0254\|ἅλυσίν]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1870\|ἐπαισχύνθη,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CHAINS|CHAINS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KINDNESS|KINDNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ONESIPHORUS|ONESIPHORUS]] • [[topic ROME|ROME]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.15|<< 2 Timothy 1:15]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.17|2 Timothy 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

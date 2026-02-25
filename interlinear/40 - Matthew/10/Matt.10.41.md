@@ -1,10 +1,52 @@
+---
+title: Matthew 10:41
+type: Verse
+kjv: "He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward."
+bsb: "Whoever receives a prophet because he is a prophet will receive a prophet’s reward, and whoever receives a righteous man because he is a righteous man will receive a righteous man’s reward."
+jesus_said: "He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward."
+greek: "ὁ δεχόμενος προφήτην εἰς ὄνομα προφήτου μισθὸν προφήτου λήμψεται, καὶ ὁ δεχόμενος δίκαιον εἰς ὄνομα δικαίου μισθὸν δικαίου λήμψεται."
+pericope: "[[Matt.10.40 The Reward of Service|The Reward of Service]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1209]]"
+- "[[G4396]]"
+- "[[G1519]]"
+- "[[G3686]]"
+- "[[G3408]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Matthew 10:41**<big><big>[[Matt.10.40 The Reward of Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.
 <small><sub>**BSB:**</sub></small>
 Whoever receives a prophet because he is a prophet will receive a prophet’s reward, and whoever receives a righteous man because he is a righteous man will receive a righteous man’s reward.
-<small><sub>**Literal:**</sub></small>
-The [one] receiving a prophet in [the] name of a prophet [the] reward of a prophet will receive, and the [one] receiving a righteous [man] in [the] name of a righteous [man] [the] reward of a righteous [man] will receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.40|<< Matthew 10:40]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.42|Matthew 10:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1209\|δεχόμενος]]  [[G4396\|προφήτην]]  [[G1519\|εἰς]]  [[G3686\|ὄνομα]]  [[G4396\|προφήτου]]  [[G3408\|μισθὸν]]  [[G4396\|προφήτου]]  [[G2983\|λήμψεται,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1209\|δεχόμενος]]  [[G1342\|δίκαιον]]  [[G1519\|εἰς]]  [[G3686\|ὄνομα]]  [[G1342\|δικαίου]]  [[G3408\|μισθὸν]]  [[G1342\|δικαίου]]  [[G2983\|λήμψεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.40|<< Matthew 10:40]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.42|Matthew 10:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

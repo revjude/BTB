@@ -1,8 +1,71 @@
+---
+title: Genesis 27:30
+type: Verse
+kjv: "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
+bsb: "As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt."
+hebrew: "וַיְהִ֗י כַּאֲשֶׁ֨ר כִּלָּ֣ה יִצְחָק֮ לְבָרֵ֣ךְ אֶֽת־ יַעֲקֹב֒ וַיְהִ֗י אַ֣ךְ יָצֹ֤א יָצָא֙ יַעֲקֹ֔ב מֵאֵ֥ת פְּנֵ֖י יִצְחָ֣ק אָבִ֑יו וְעֵשָׂ֣ו אָחִ֔יו בָּ֖א מִצֵּידֽוֹ׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3615G]]"
+- "[[H3327]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0389]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H6440H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6215G]]"
+- "[[H0251G]]"
+- "[[H0935G]]"
+- "[[H6718A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:30**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 <small><sub>**BSB:**</sub></small>
 As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H3615G\|כִּלָּ֣ה]] [[H3327\|יִצְחָק֮]] [[H9005\|לְ]][[H1288\|בָרֵ֣ךְ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹב֒]] [[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0389\|אַ֣ךְ]] [[H3318G\|יָצֹ֤א]] [[H3318G\|יָצָא֙]] [[H3290\|יַעֲקֹ֔ב]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H6440H\|פְּנֵ֖י]] [[H3327\|יִצְחָ֣ק]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H6215G\|עֵשָׂ֣ו]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H0935G\|בָּ֖א]] [[H9006\|מִ]][[H6718A\|צֵּידֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMILY|FAMILY]] • [[topic HUNTING|HUNTING]] • [[topic ISAAC|ISAAC]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.29|<< Genesis 27:29]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.31|Genesis 27:31 >>]]</td></tr></table>
 

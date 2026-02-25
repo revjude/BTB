@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Worship before the Ark
+type: Pericope
 pericope: "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 16
 book/chapter: "[[1Chr.16|1 Chronicles 16]]"
-genre:
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.16.37]]"
 - "[[1Chr.16.38]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.16.43]]"
 ---
 
-[[1Chr.16|1 Chronicles 16:37 - 1 Chronicles 16:43]]
+<small>[[1Chr.16|1 Chronicles 16:37-43]]</small>
 *Worship before the Ark*
 
 [[1Chr.16.37|37]] So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required:

@@ -1,10 +1,59 @@
+---
+title: Luke 1:54
+type: Verse
+kjv: "He hath holpen his servant Israel, in remembrance of his mercy;"
+bsb: "He has helped His servant Israel, remembering to be merciful,"
+greek: "ἀντελάβετο Ἰσραὴλ παιδὸς αὐτοῦ μνησθῆναι ἐλέους,"
+pericope: "[[Luke.1.46 Mary’s Song|Mary’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MAGNIFICAT|MAGNIFICAT]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G0482]]"
+- "[[G2474]]"
+- "[[G3816]]"
+- "[[G0846]]"
+- "[[G3403]]"
+- "[[G1656]]"
+texts:
+- NKO
+---
+
 **Luke 1:54**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He hath holpen his servant Israel, in remembrance of [his] mercy;
 <small><sub>**BSB:**</sub></small>
 He has helped His servant Israel, remembering to be merciful,
-<small><sub>**Literal:**</sub></small>
-He has helped Israel [the] servant of Him remembering mercy,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.53|<< Luke 1:53]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.55|Luke 1:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0482\|ἀντελάβετο]]  [[G2474\|Ἰσραὴλ]]  [[G3816\|παιδὸς]]  [[G0846\|αὐτοῦ]]  [[G3403\|μνησθῆναι]]  [[G1656\|ἐλέους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MAGNIFICAT|MAGNIFICAT]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.53|<< Luke 1:53]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.55|Luke 1:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

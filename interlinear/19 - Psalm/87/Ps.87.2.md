@@ -1,8 +1,55 @@
+---
+title: Psalm 87:2
+type: Verse
+kjv: "The LORD loveth the gates of Zion more than all the dwellings of Jacob."
+bsb: "The LORD loves the gates of Zion more than all the dwellings of Jacob."
+hebrew: "אֹהֵ֣ב יְ֭הוָה שַׁעֲרֵ֣י צִיּ֑וֹן מִ֝כֹּ֗ל מִשְׁכְּנ֥וֹת יַעֲקֹֽב׃"
+pericope: "[[Ps.87.1 The LORD Loves the Gates of Zion|The LORD Loves the Gates of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 87
+book/chapter: "[[Ps.87|Psalm 87]]"
+chronological_order: 515
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H8179G]]"
+- "[[H6726]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4908]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 87:2**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD loveth the gates of Zion more than all the dwellings of Jacob.
 <small><sub>**BSB:**</sub></small>
 The LORD loves the gates of Zion more than all the dwellings of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אֹהֵ֣ב]] [[H3068G\|יְ֭הוָה]] [[H8179G\|שַׁעֲרֵ֣י]] [[H6726\|צִיּ֑וֹן]] [[H9006\|מִ֝]][[H3605\|כֹּ֗ל]] [[H4908\|מִשְׁכְּנ֥וֹת]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.1|<< Psalms 87:1]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.3|Psalms 87:3 >>]]</td></tr></table>
 

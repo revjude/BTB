@@ -1,8 +1,70 @@
+---
+title: Isaiah 29:14
+type: Verse
+kjv: "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+bsb: "Therefore I will again confound these people with wonder upon wonder. The wisdom of the wise will vanish, and the intelligence of the intelligent will be hidden.”"
+hebrew: "לָכֵ֗ן הִנְנִ֥י יוֹסִ֛ף לְהַפְלִ֥יא אֶת־ הָֽעָם־ הַזֶּ֖ה הַפְלֵ֣א וָפֶ֑לֶא וְאָֽבְדָה֙ חָכְמַ֣ת חֲכָמָ֔יו וּבִינַ֥ת נְבֹנָ֖יו תִּסְתַּתָּֽר׃ ס"
+pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3254G]]"
+- "[[H6381]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H6382]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H2451]]"
+- "[[H2450]]"
+- "[[H9023]]"
+- "[[H0998]]"
+- "[[H0995]]"
+- "[[H9033]]"
+- "[[H5641]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 29:14**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I will proceed to do a marvellous work among this people, [even] a marvellous work and a wonder: for the wisdom of their wise [men] shall perish, and the understanding of their prudent [men] shall be hid.
 <small><sub>**BSB:**</sub></small>
 Therefore I will again confound these people with wonder upon wonder. The wisdom of the wise will vanish, and the intelligence of the intelligent will be hidden.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H3254G\|יוֹסִ֛ף]] [[H9005\|לְ]][[H6381\|הַפְלִ֥יא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H6381\|הַפְלֵ֣א]] [[H9002\|וָ]][[H6382\|פֶ֑לֶא]] [[H9001\|וְ]][[H0006\|אָֽבְדָה֙]] [[H2451\|חָכְמַ֣ת]] [[H2450\|חֲכָמָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H0998\|בִינַ֥ת]] [[H0995\|נְבֹנָ֖י]][[H9033\|ו]] [[H5641\|תִּסְתַּתָּֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic ISAIAH|ISAIAH]] • [[topic MIRACLES|MIRACLES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WISDOM|WISDOM]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.13|<< Isaiah 29:13]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.15|Isaiah 29:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,7 +88,7 @@ Therefore I will again confound these people with wonder upon wonder. The wisdom
 | wise [people] its  |**<big>&#8207;[[H2450\|חֲכָמָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| cha.kha.Ma<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] understanding of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0998\|בִינַ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | understanding [people] its  |**<big>&#8207;[[H0995\|נְבֹנָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ne.vo.Na<small><sup>[[HVNrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will hide itself  |**<big>&#8207;[[H5641\|תִּסְתַּתָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tis.ta.Tar<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will hide itself  |**<big>&#8207;[[H5641\|תִּסְתַּתָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tis.ta.Tar<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.13|<< Isaiah 29:13]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.15|Isaiah 29:15 >>]]</td></tr></table>
 
 

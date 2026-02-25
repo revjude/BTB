@@ -1,8 +1,55 @@
+---
+title: Job 30:18
+type: Verse
+kjv: "By the great force of my disease is my garment changed: it bindeth me about as the collar of my coat."
+bsb: "With great force He grasps my garment; He seizes me by the collar of my tunic."
+hebrew: "בְּרָב־ כֹּ֭חַ יִתְחַפֵּ֣שׂ לְבוּשִׁ֑י כְּפִ֖י כֻתָּנְתִּ֣י יַֽאַזְרֵֽנִי׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PAIN|PAIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H7227A]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H2664]]"
+- "[[H3830]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H6310H]]"
+- "[[H3801]]"
+- "[[H0247]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:18**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the great force [of my disease] is my garment changed: it bindeth me about as the collar of my coat.
 <small><sub>**BSB:**</sub></small>
 With great force He grasps my garment; He seizes me by the collar of my tunic.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7227A\|רָב]][[H9014\|־]] [[H3581B\|כֹּ֭חַ]] [[H2664\|יִתְחַפֵּ֣שׂ]] [[H3830\|לְבוּשִׁ֑]][[H9020\|י]] [[H9004\|כְּ]][[H6310H\|פִ֖י]] [[H3801\|כֻתָּנְתִּ֣]][[H9020\|י]] [[H0247\|יַֽאַזְרֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PAIN|PAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.17|<< Job 30:17]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.19|Job 30:19 >>]]</td></tr></table>
 

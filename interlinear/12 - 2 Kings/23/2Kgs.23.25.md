@@ -1,8 +1,68 @@
+---
+title: 2 Kings 23:25
+type: Verse
+kjv: "And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him."
+bsb: "Neither before nor after Josiah was there any king like him, who turned to the LORD with all his heart and with all his soul and with all his strength, according to all the Law of Moses."
+hebrew: "וְכָמֹהוּ֩ לֹֽא־ הָיָ֨ה לְפָנָ֜יו מֶ֗לֶךְ אֲשֶׁר־ שָׁ֤ב אֶל־ יְהוָה֙ בְּכָל־ לְבָב֤וֹ וּבְכָל־ נַפְשׁוֹ֙ וּבְכָל־ מְאֹד֔וֹ כְּכֹ֖ל תּוֹרַ֣ת מֹשֶׁ֑ה וְאַחֲרָ֖יו לֹֽא־ קָ֥ם כָּמֹֽהוּ׃"
+pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H3966]]"
+- "[[H9004]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H0310A]]"
+- "[[H6965B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:25**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there [any] like him.
 <small><sub>**BSB:**</sub></small>
 Neither before nor after Josiah was there any king like him, who turned to the LORD with all his heart and with all his soul and with all his strength, according to all the Law of Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3644G\|כָמֹ]][[H9033\|הוּ֩]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H9005\|לְ]][[H6440G\|פָנָ֜י]][[H9023\|ו]] [[H4428G\|מֶ֗לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7725G\|שָׁ֤ב]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָב֤]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשׁ]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H3966\|מְאֹד֔]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H8451\|תּוֹרַ֣ת]] [[H4872\|מֹשֶׁ֑ה]] [[H9002\|וְ]][[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6965B\|קָ֥ם]] [[H3644G\|כָּמֹֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.24|<< 2 Kings 23:24]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.26|2 Kings 23:26 >>]]</td></tr></table>
 

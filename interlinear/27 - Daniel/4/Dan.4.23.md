@@ -1,8 +1,85 @@
+---
+title: Daniel 4:23
+type: Verse
+kjv: "And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;"
+bsb: "And you, O king, saw a watcher, a holy one, coming down from heaven and saying: ‘Cut down the tree and destroy it, but leave the stump with its roots in the ground, with a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven, and graze with the beasts of the field till seven times pass him by.’"
+aramaic: "וְדִ֣י חֲזָ֣ה מַלְכָּ֡א עִ֣יר וְקַדִּ֣ישׁ נָחִ֣ת׀ מִן־ שְׁמַיָּ֡א וְאָמַר֩ גֹּ֨דּוּ אִֽילָנָ֜א וְחַבְּל֗וּהִי בְּרַ֨ם עִקַּ֤ר שָׁרְשׁ֙וֹהִי֙ בְּאַרְעָ֣א שְׁבֻ֔קוּ וּבֶאֱסוּר֙ דִּֽי־ פַרְזֶ֣ל וּנְחָ֔שׁ בְּדִתְאָ֖א דִּ֣י בָרָ֑א וּבְטַ֧ל שְׁמַיָּ֣א יִצְטַבַּ֗ע וְעִם־ חֵיוַ֤ת בָּרָא֙ חֲלָקֵ֔הּ עַ֛ד דִּֽי־ שִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֥וּן עֲלֽוֹהִי׃"
+pericope: "[[Dan.4.19 Daniel Interprets the Second Dream|Daniel Interprets the Second Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1768]]"
+- "[[H2370]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5894]]"
+- "[[H6922]]"
+- "[[H5182]]"
+- "[[H9015]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H8065]]"
+- "[[H0560]]"
+- "[[H1414]]"
+- "[[H0363]]"
+- "[[H2255]]"
+- "[[H9033]]"
+- "[[H1297]]"
+- "[[H6136]]"
+- "[[H8330]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0772G]]"
+- "[[H7662]]"
+- "[[H0613]]"
+- "[[H6523]]"
+- "[[H5174]]"
+- "[[H1883]]"
+- "[[H1251]]"
+- "[[H2920]]"
+- "[[H6647]]"
+- "[[H5974]]"
+- "[[H2423]]"
+- "[[H2508]]"
+- "[[H5705]]"
+- "[[H7655]]"
+- "[[H5732]]"
+- "[[H2499]]"
+- "[[H5922]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:23**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and [let] his portion [be] with the beasts of the field, till seven times pass over him;
 <small><sub>**BSB:**</sub></small>
 And you, O king, saw a watcher, a holy one, coming down from heaven and saying: ‘Cut down the tree and destroy it, but leave the stump with its roots in the ground, with a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven, and graze with the beasts of the field till seven times pass him by.’
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H1768\|דִ֣י]] [[H2370\|חֲזָ֣ה]] [[H4430\|מַלְכָּ֡]][[H9010\|א]] [[H5894\|עִ֣יר]] [[H9002\|וְ]][[H6922\|קַדִּ֣ישׁ]] [[H5182\|נָחִ֣ת]][[H9015\|׀]] [[H4481\|מִן]][[H9014\|־]] [[H8065\|שְׁמַיָּ֡]][[H9010\|א]] [[H9002\|וְ]][[H0560\|אָמַר֩]] [[H1414\|גֹּ֨דּוּ]] [[H0363\|אִֽילָנָ֜]][[H9010\|א]] [[H9002\|וְ]][[H2255\|חַבְּל֗וּ]][[H9033\|הִי]] [[H1297\|בְּרַ֨ם]] [[H6136\|עִקַּ֤ר]] [[H8330\|שָׁרְשׁ֙וֹ]][[H9023\|הִי֙]] [[H9003\|בְּ]][[H0772G\|אַרְעָ֣]][[H9010\|א]] [[H7662\|שְׁבֻ֔קוּ]] [[H9002\|וּ]][[H9003\|בֶ]][[H0613\|אֱסוּר֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H6523\|פַרְזֶ֣ל]] [[H9002\|וּ]][[H5174\|נְחָ֔שׁ]] [[H9003\|בְּ]][[H1883\|דִתְאָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H1251\|בָרָ֑]][[H9010\|א]] [[H9002\|וּ]][[H9003\|בְ]][[H2920\|טַ֧ל]] [[H8065\|שְׁמַיָּ֣]][[H9010\|א]] [[H6647\|יִצְטַבַּ֗ע]] [[H9002\|וְ]][[H5974\|עִם]][[H9014\|־]] [[H2423\|חֵיוַ֤ת]] [[H1251\|בָּרָ]][[H9010\|א֙]] [[H2508\|חֲלָקֵ֔]][[H9023\|הּ]] [[H5705\|עַ֛ד]] [[H1768\|דִּֽי]][[H9014\|־]] [[H7655\|שִׁבְעָ֥ה]] [[H5732\|עִדָּנִ֖ין]] [[H2499\|יַחְלְפ֥וּן]] [[H5922\|עֲלֽוֹ]][[H9033\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.22|<< Daniel 4:22]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.24|Daniel 4:24 >>]]</td></tr></table>
 

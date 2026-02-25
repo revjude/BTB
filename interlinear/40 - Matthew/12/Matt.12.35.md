@@ -1,10 +1,58 @@
+---
+title: Matthew 12:35
+type: Verse
+kjv: "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+bsb: "The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure."
+jesus_said: "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+greek: "Ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας ἐκβάλλει τά ἀγαθά, καὶ ὁ πονηρὸς ἄνθρωπος ἐκ τοῦ πονηροῦ θησαυροῦ ἐκβάλλει πονηρά.¶"
+pericope: "[[Matt.12.33 Good and Bad Fruit|Good and Bad Fruit]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G0444]]"
+- "[[G1537]]"
+- "[[G2344]]"
+- "[[G2588]]"
+- "[[G1544]]"
+- "[[G2532]]"
+- "[[G4190]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 12:35**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.
 <small><sub>**BSB:**</sub></small>
 The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure.
-<small><sub>**Literal:**</sub></small>
-The good man out of <the> good treasure <the> of [his] heart puts forth <the> good things, and the evil man out of <the> [his] evil treasure puts forth evil things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.34|<< Matthew 12:34]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.36|Matthew 12:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G0018\|ἀγαθὸς]]  [[G0444\|ἄνθρωπος]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0018\|ἀγαθοῦ]]  [[G2344\|θησαυροῦ]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G1544\|ἐκβάλλει]]  [[G3588\|τά]]  [[G0018\|ἀγαθά,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4190\|πονηρὸς]]  [[G0444\|ἄνθρωπος]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ]]  [[G2344\|θησαυροῦ]]  [[G1544\|ἐκβάλλει]]  [[G4190\|πονηρά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERSATION|CONVERSATION]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.34|<< Matthew 12:34]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.36|Matthew 12:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

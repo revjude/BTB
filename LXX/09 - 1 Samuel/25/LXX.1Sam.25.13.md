@@ -1,6 +1,69 @@
+---
+title: LXX 1 Samuel 25:13
+type: Verse
+lxx: "And David said to his men, each man tie on  his sword! And David even himself tied on  his sword. And they ascended after David, about four hundred men, and two hundred stayed by the equipment."
+greek: "και είπε Δαυίδ τοις ανδράσιν αυτού ζώσασθε έκαστος την μάχαιραν αυτού και Δαυίδ και αυτός εζώσατο την μάχαιραν αυτού και ανέβησαν οπίσω Δαυίδ ως τετρακόσιοι άνδρες και διακόσιοι εκάθισαν επί των σκευών"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G2224]]"
+- "[[G1538]]"
+- "[[G3588]]"
+- "[[G3162]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2224]]"
+- "[[G3588]]"
+- "[[G3162]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3694]]"
+- "[[G4622]]"
+- "[[G5613]]"
+- "[[G5071]]"
+- "[[G0435]]"
+- "[[G2532]]"
+- "[[G1250]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4632]]"
+---
+
 **LXX 1 Samuel 25:13** 
 <small><sub>**LXX:**</sub></small>
 And David said \[to\] his men, each \[man\] tie on  his sword! And David even himself tied on  his sword. And they ascended after David, about four hundred men, and two hundred stayed by the equipment. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4622\|Δαυίδ]] [[G3588\|τοις]] [[G0435\|ανδράσιν]] [[G1473\|αυτού]] [[G2224\|ζώσασθε]] [[G1538\|έκαστος]] [[G3588\|την]] [[G3162\|μάχαιραν]] [[G1473\|αυτού]] [[G2532\|και]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[G1473\|αυτός]] [[G2224\|εζώσατο]] [[G3588\|την]] [[G3162\|μάχαιραν]] [[G1473\|αυτού]] [[G2532\|και]] [[G0305\|ανέβησαν]] [[G3694\|οπίσω]] [[G4622\|Δαυίδ]] [[G5613\|ως]] [[G5071\|τετρακόσιοι]] [[G0435\|άνδρες]] [[G2532\|και]] [[G1250\|διακόσιοι]] [[G2523\|εκάθισαν]] [[G1909\|επί]] [[G3588\|των]] [[G4632\|σκευών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.12|<< 1 Samuel 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.14|1 Samuel 25:14 >>]]</td></tr></table>
 
@@ -34,6 +97,6 @@ And David said \[to\] his men, each \[man\] tie on  his sword! And David even hi
 | by | **<big>[[G1909\|επί]]</big>** |
 | the | **<big>[[G3588\|των]]</big>** |
 | equipment. | **<big>[[G4632\|σκευών]]</big>** |
-[[1Sam.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.12|<< 1 Samuel 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.14|1 Samuel 25:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.12|<< 1 Samuel 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.14|1 Samuel 25:14 >>]]</td></tr></table>
 
 

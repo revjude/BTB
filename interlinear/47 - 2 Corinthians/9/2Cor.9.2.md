@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 9:2
+type: Verse
+kjv: "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many."
+bsb: "For I know your eagerness to help, and I have been boasting to the Macedonians that since last year you in Achaia were prepared to give. And your zeal has stirred most of them to do likewise."
+greek: "οἶδα γὰρ τὴν προθυμίαν ὑμῶν ἣν ὑπὲρ ὑμῶν καυχῶμαι Μακεδόσιν, ὅτι Ἀχαΐα παρεσκεύασται ἀπὸ πέρυσι, καὶ τὸ ἐξ ὑμῶν ζῆλος ἠρέθισεν τοὺς πλείονας."
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4288]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G5228]]"
+- "[[G2744]]"
+- "[[G3110]]"
+- "[[G3754G]]"
+- "[[G0882]]"
+- "[[G3903]]"
+- "[[G0575]]"
+- "[[G4070]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G2205]]"
+- "[[G2042]]"
+- "[[G4119]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **2 Corinthians 9:2**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.
 <small><sub>**BSB:**</sub></small>
 For I know your eagerness to help, and I have been boasting to the Macedonians that since last year you in Achaia were prepared to give. And your zeal has stirred most of them to do likewise.
-<small><sub>**Literal:**</sub></small>
-I know for the readiness of you which concerning you I boast of to Macedonians, that Achaia has prepared itself from a year ago, and <the> from your zeal has been provoking the greater number.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.1|<< 2 Corinthians 9:1]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.3|2 Corinthians 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G1063\|γὰρ]]  [[G3588\|τὴν]]  [[G4288\|προθυμίαν]]  [[G4771\|ὑμῶν]]  [[G3739\|ἣν]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G2744\|καυχῶμαι]]  [[G3110\|Μακεδόσιν,]]  [[G3754G\|ὅτι]]  [[G0882\|Ἀχαΐα]]  [[G3903\|παρεσκεύασται]]  [[G0575\|ἀπὸ]]  [[G4070\|πέρυσι,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G2205\|ζῆλος]]  [[G2042\|ἠρέθισεν]]  [[G3588\|τοὺς]]  [[G4119\|πλείονας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.1|<< 2 Corinthians 9:1]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.3|2 Corinthians 9:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

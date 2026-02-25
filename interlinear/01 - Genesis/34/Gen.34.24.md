@@ -1,8 +1,62 @@
+---
+title: Genesis 34:24
+type: Verse
+kjv: "And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city."
+bsb: "All the men who went out of the city gate listened to Hamor and his son Shechem, and every male of the city was circumcised."
+hebrew: "וַיִּשְׁמְע֤וּ אֶל־ חֲמוֹר֙ וְאֶל־ שְׁכֶ֣ם בְּנ֔וֹ כָּל־ יֹצְאֵ֖י שַׁ֣עַר עִיר֑וֹ וַיִּמֹּ֙לוּ֙ כָּל־ זָכָ֔ר כָּל־ יֹצְאֵ֖י שַׁ֥עַר עִירֽוֹ׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2544]]"
+- "[[H9002]]"
+- "[[H7927H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H3318G]]"
+- "[[H8179G]]"
+- "[[H5892B]]"
+- "[[H4135A]]"
+- "[[H2145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:24**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
 <small><sub>**BSB:**</sub></small>
 All the men who went out of the city gate listened to Hamor and his son Shechem, and every male of the city was circumcised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְע֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2544\|חֲמוֹר֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7927H\|שְׁכֶ֣ם]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H3318G\|יֹצְאֵ֖י]] [[H8179G\|שַׁ֣עַר]] [[H5892B\|עִיר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H4135A\|יִּמֹּ֙לוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H3605\|כָּל]][[H9014\|־]] [[H3318G\|יֹצְאֵ֖י]] [[H8179G\|שַׁ֥עַר]] [[H5892B\|עִירֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.23|<< Genesis 34:23]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.25|Genesis 34:25 >>]]</td></tr></table>
 

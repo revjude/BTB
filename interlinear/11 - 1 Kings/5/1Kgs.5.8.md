@@ -1,8 +1,71 @@
+---
+title: 1 Kings 5:8
+type: Verse
+kjv: "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir."
+bsb: "Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber."
+hebrew: "וַיִּשְׁלַ֤ח חִירָם֙ אֶל־ שְׁלֹמֹ֣ה לֵאמֹ֔ר שָׁמַ֕עְתִּי אֵ֥ת אֲשֶׁר־ שָׁלַ֖חְתָּ אֵלָ֑י אֲנִ֤י אֶֽעֱשֶׂה֙ אֶת־ כָּל־ חֶפְצְךָ֔ בַּעֲצֵ֥י אֲרָזִ֖ים וּבַעֲצֵ֥י בְרוֹשִֽׁים׃"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2438G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H2656]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H9002]]"
+- "[[H1265]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:8**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: [and] I will do all thy desire concerning timber of cedar, and concerning timber of fir.
 <small><sub>**BSB:**</sub></small>
 Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H2438G\|חִירָם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֣ה]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H8085G\|שָׁמַ֕עְתִּי]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֖חְתָּ]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H0589\|אֲנִ֤י]] [[H6213A\|אֶֽעֱשֶׂה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2656\|חֶפְצְ]][[H9021\|ךָ֔]] [[H9003\|בַּ]][[H6086G\|עֲצֵ֥י]] [[H0730\|אֲרָזִ֖ים]] [[H9002\|וּ]][[H9003\|בַ]][[H6086G\|עֲצֵ֥י]] [[H1265\|בְרוֹשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic COMMERCE|COMMERCE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.7|<< 1 Kings 5:7]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.9|1 Kings 5:9 >>]]</td></tr></table>
 

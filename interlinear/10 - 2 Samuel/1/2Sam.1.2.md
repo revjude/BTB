@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 1:2
+type: Verse
+kjv: "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance."
+bsb: "On the third day a man with torn clothes and dust on his head arrived from Saul’s camp. When he came to David, he fell to the ground to pay him homage."
+hebrew: "וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י וְהִנֵּה֩ אִ֨ישׁ בָּ֤א מִן־ הַֽמַּחֲנֶה֙ מֵעִ֣ם שָׁא֔וּל וּבְגָדָ֣יו קְרֻעִ֔ים וַאֲדָמָ֖ה עַל־ רֹאשׁ֑וֹ וַיְהִי֙ בְּבֹא֣וֹ אֶל־ דָּוִ֔ד וַיִּפֹּ֥ל אַ֖רְצָה וַיִּשְׁתָּֽחוּ׃"
+pericope: "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DUST|DUST]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0376G]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H7586G]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H7167]]"
+- "[[H0127G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H5307G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:2**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and [so] it was, when he came to David, that he fell to the earth, and did obeisance.
 <small><sub>**BSB:**</sub></small>
 On the third day a man with torn clothes and dust on his head arrived from Saul’s camp. When he came to David, he fell to the ground to pay him homage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֗י]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H0376G\|אִ֨ישׁ]] [[H0935G\|בָּ֤א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶה֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וּ]][[H0899B\|בְגָדָ֣י]][[H9023\|ו]] [[H7167\|קְרֻעִ֔ים]] [[H9002\|וַ]][[H0127G\|אֲדָמָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בְּ]][[H0935G\|בֹא֣]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H0776H\|אַ֖רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H7812\|יִּשְׁתָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DUST|DUST]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.1|<< 2 Samuel 1:1]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.3|2 Samuel 1:3 >>]]</td></tr></table>
 

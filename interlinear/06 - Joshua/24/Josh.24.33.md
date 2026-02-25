@@ -1,8 +1,62 @@
+---
+title: Joshua 24:33
+type: Verse
+kjv: "And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim."
+bsb: "Eleazar son of Aaron also died, and they buried him at Gibeah, which had been given to his son Phinehas in the hill country of Ephraim."
+hebrew: "וְאֶלְעָזָ֥ר בֶּֽן־ אַהֲרֹ֖ן מֵ֑ת וַיִּקְבְּר֣וּ אֹת֗וֹ בְּגִבְעַת֙ פִּֽינְחָ֣ס בְּנ֔וֹ אֲשֶׁ֥ר נִתַּן־ ל֖וֹ בְּהַ֥ר אֶפְרָֽיִם׃"
+pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1390H]]"
+- "[[H6372G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:33**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the son of Aaron died; and they buried him in a hill [that pertained to] Phinehas his son, which was given him in mount Ephraim.
 <small><sub>**BSB:**</sub></small>
 Eleazar son of Aaron also died, and they buried him at Gibeah, which had been given to his son Phinehas in the hill country of Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0499G\|אֶלְעָזָ֥ר]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H4191\|מֵ֑ת]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9003\|בְּ]][[H1390H\|גִבְעַת֙]] [[H6372G\|פִּֽינְחָ֣ס]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2022H\|הַ֥ר]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic PHINEHAS|PHINEHAS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.32|<< Joshua 24:32]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.1|Judges 1:1 >>]]</td></tr></table>
 

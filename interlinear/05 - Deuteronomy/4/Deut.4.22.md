@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 4:22
+type: Verse
+kjv: "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land."
+bsb: "For I will not be crossing the Jordan, because I must die in this land. But you shall cross over and take possession of that good land."
+hebrew: "כִּ֣י אָנֹכִ֥י מֵת֙ בָּאָ֣רֶץ הַזֹּ֔את אֵינֶ֥נִּי עֹבֵ֖ר אֶת־ הַיַּרְדֵּ֑ן וְאַתֶּם֙ עֹֽבְרִ֔ים וִֽירִשְׁתֶּ֕ם אֶת־ הָאָ֥רֶץ הַטּוֹבָ֖ה הַזֹּֽאת׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:22**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.
 <small><sub>**BSB:**</sub></small>
 For I will not be crossing the Jordan, because I must die in this land. But you shall cross over and take possession of that good land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0595\|אָנֹכִ֥י]] [[H4191\|מֵת֙]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0369\|אֵינֶ֥]][[H9040\|נִּי]] [[H5674A\|עֹבֵ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H5674A\|עֹֽבְרִ֔ים]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֕ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.21|<< Deuteronomy 4:21]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.23|Deuteronomy 4:23 >>]]</td></tr></table>
 

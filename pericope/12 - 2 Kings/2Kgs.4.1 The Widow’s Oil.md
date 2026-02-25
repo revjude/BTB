@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Widow’s Oil
+type: Pericope
 pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 4
 book/chapter: "[[2Kgs.4|2 Kings 4]]"
-genre:
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.4.1]]"
 - "[[2Kgs.4.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.4.7]]"
 ---
 
-[[2Kgs.4|2 Kings 4:1 - 2 Kings 4:7]]
+<small>[[2Kgs.4|2 Kings 4:1-7]]</small>
 *The Widow’s Oil*
 
 [[2Kgs.4.1|1]] Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.

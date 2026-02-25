@@ -1,10 +1,78 @@
+---
+title: Acts 15:22
+type: Verse
+kjv: "Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:"
+bsb: "Then the apostles and elders, with the whole church, decided to select men from among them to send to Antioch with Paul and Barnabas. They chose Judas called Barsabbas and Silas, two leaders among the brothers,"
+greek: "Τότε ἔδοξεν τοῖς ἀποστόλοις καὶ τοῖς πρεσβυτέροις σὺν ὅλῃ τῇ ἐκκλησίᾳ ἐκλεξαμένους ἄνδρας ἐξ αὐτῶν πέμψαι εἰς Ἀντιόχειαν σὺν τῷ Παύλῳ καὶ Βαρναβᾷ, Ἰούδαν τὸν καλούμενον Βαρσαββᾶν καὶ Σιλᾶν, ἄνδρας ἡγουμένους ἐν τοῖς ἀδελφοῖς,"
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic BARSABAS|BARSABAS]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G5119]]"
+- "[[G1380]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G4862]]"
+- "[[G3650]]"
+- "[[G1577]]"
+- "[[G1586]]"
+- "[[G0435G]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3992]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+- "[[G3972G]]"
+- "[[G0921G]]"
+- "[[G2455M]]"
+- "[[G2564G]]"
+- "[[G0923]]"
+- "[[G4609]]"
+- "[[G2233]]"
+- "[[G1722]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:22**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; [namely], Judas surnamed Barsabas, and Silas, chief men among the brethren:
 <small><sub>**BSB:**</sub></small>
 Then the apostles and elders, with the whole church, decided to select men from among them to send to Antioch with Paul and Barnabas. They chose Judas called Barsabbas and Silas, two leaders among the brothers,
-<small><sub>**Literal:**</sub></small>
-Then it seemed good to the apostles and to the elders with all the church having chosen men out from them to send to Antioch with <the> Paul and Barnabas, Judas who is being called Barsabbas and Silas, men leading among the brothers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.21|<< Acts 15:21]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.23|Acts 15:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G1380\|ἔδοξεν]]  [[G3588\|τοῖς]]  [[G0652\|ἀποστόλοις]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4245G\|πρεσβυτέροις]]  [[G4862\|σὺν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G1586\|ἐκλεξαμένους]]  [[G0435G\|ἄνδρας]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3992\|πέμψαι]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2532\|καὶ]]  [[G0921G\|Βαρναβᾷ,]]  [[G2455M\|Ἰούδαν]]  [[G3588\|τὸν]]  [[G2564G\|καλούμενον]]  [[G0923\|Βαρσαββᾶν]]  [[G2532\|καὶ]]  [[G4609\|Σιλᾶν,]]  [[G0435G\|ἄνδρας]]  [[G2233\|ἡγουμένους]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic BARSABAS|BARSABAS]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.21|<< Acts 15:21]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.23|Acts 15:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

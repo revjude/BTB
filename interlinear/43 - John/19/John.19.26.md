@@ -1,10 +1,63 @@
+---
+title: John 19:26
+type: Verse
+kjv: "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!"
+bsb: "When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.”"
+jesus_said: "Woman, behold thy son!"
+greek: "Ἰησοῦς οὖν ἰδὼν τὴν μητέρα καὶ τὸν μαθητὴν παρεστῶτα ὃν ἠγάπα, λέγει τῇ μητρί αὐτοῦ· γύναι, ἴδε ὁ υἱός σου."
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G2424G]]"
+- "[[G3767]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G2532]]"
+- "[[G3101]]"
+- "[[G3936]]"
+- "[[G3739]]"
+- "[[G0025]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1135G]]"
+- "[[G2396]]"
+- "[[G5207]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 19:26**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!
 <small><sub>**BSB:**</sub></small>
 When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.”
-<small><sub>**Literal:**</sub></small>
-Jesus therefore having seen <the> [His] mother and the disciple already standing by whom He was loving says to the mother of him: Woman, behold the son of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.25|<< John 19:25]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.27|John 19:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G3767\|οὖν]]  [[G1492H\|ἰδὼν]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3101\|μαθητὴν]]  [[G3936\|παρεστῶτα]]  [[G3739\|ὃν]]  [[G0025\|ἠγάπα,]]  [[G3004G\|λέγει]]  [[G3588\|τῇ]]  [[G3384\|μητρί]]  [[G0846\|αὐτοῦ·]]  [[G1135G\|γύναι,]]  [[G2396\|ἴδε]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.25|<< John 19:25]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.27|John 19:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

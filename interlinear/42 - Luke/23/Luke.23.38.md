@@ -1,10 +1,66 @@
+---
+title: Luke 23:38
+type: Verse
+kjv: "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS."
+bsb: "Above Him was posted an inscription: THIS IS THE KING OF THE JEWS."
+greek: "ἦν δὲ καὶ ἐπιγραφὴ γεγραμμένη ἐπ᾽ αὐτῷ γράμμασιν Ἑλληνικοῖς καὶ Ῥωμαϊκοῖς καὶ Ἑβραϊκοῖς· ἐστιν ὁ βασιλεὺς τῶν Ἰουδαίων οὗτος.¶"
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INSCRIPTIONS|INSCRIPTIONS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic LATIN|LATIN]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1923]]"
+- "[[G1125]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1121]]"
+- "[[G1673]]"
+- "[[G4513]]"
+- "[[G1444]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2453]]"
+- "[[G3778]]"
+texts:
+- NKO
+- K(o)
+- K
+---
+
 **Luke 23:38**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 Above Him was posted an inscription: THIS IS THE KING OF THE JEWS.
-<small><sub>**Literal:**</sub></small>
-There was now also an inscription written over Him writings in Greek and in Latin and in Hebrew; is the King of the Jews This [is].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.37|<< Luke 23:37]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.39|Luke 23:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1923\|ἐπιγραφὴ]]  [[G1125\|γεγραμμένη]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G1121\|γράμμασιν]]  [[G1673\|Ἑλληνικοῖς]]  [[G2532\|καὶ]]  [[G4513\|Ῥωμαϊκοῖς]]  [[G2532\|καὶ]]  [[G1444\|Ἑβραϊκοῖς·]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G3778\|οὗτος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INSCRIPTIONS|INSCRIPTIONS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LANGUAGE|LANGUAGE]] • [[topic LATIN|LATIN]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.37|<< Luke 23:37]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.39|Luke 23:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

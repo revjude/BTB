@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 28:26
+type: Verse
+kjv: "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+bsb: "Your corpses will be food for all the birds of the air and beasts of the earth, with no one to scare them away."
+hebrew: "וְהָיְתָ֤ה נִבְלָֽתְךָ֙ לְמַאֲכָ֔ל לְכָל־ ע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֣ת הָאָ֑רֶץ וְאֵ֖ין מַחֲרִֽיד׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5038]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3978]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H0776H]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:26**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray [them] away.
 <small><sub>**BSB:**</sub></small>
 Your corpses will be food for all the birds of the air and beasts of the earth, with no one to scare them away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5038\|נִבְלָֽתְ]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H3978\|מַאֲכָ֔ל]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֣ת]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H2729\|מַחֲרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.25|<< Deuteronomy 28:25]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.27|Deuteronomy 28:27 >>]]</td></tr></table>
 

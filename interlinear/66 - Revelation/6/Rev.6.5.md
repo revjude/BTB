@@ -1,10 +1,69 @@
+---
+title: Revelation 6:5
+type: Verse
+kjv: "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+bsb: "And when the Lamb opened the third seal, I heard the third living creature say, “Come!” Then I looked and saw a black horse, and its rider held in his hand a pair of scales."
+greek: "Καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν τρίτην, ἤκουσα τοῦ τρίτου ζῴου λέγοντος· ἔρχου καὶ βλέπε. καὶ εἶδον καὶ ἰδοὺ ἵππος μέλας καὶ ὁ καθήμενος ἐπ᾽ αὐτὸν ἔχων ζυγὸν ἐν τῇ χειρὶ αὐτοῦ."
+pericope: "[[Rev.6.5 The Third Seal：Famine|The Third Seal：Famine]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4973]]"
+- "[[G5154]]"
+- "[[G0191]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G2064]]"
+- "[[G0991]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G2462]]"
+- "[[G3189]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G2218]]"
+- "[[G1722]]"
+- "[[G5495]]"
+texts:
+- NKO
+- K
+- NK(O)
+- N(k)O
+---
+
 **Revelation 6:5**<big><big>[[Rev.6.5 The Third Seal：Famine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the third seal, I heard the third living creature say, “Come!” Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
-<small><sub>**Literal:**</sub></small>
-And when He opened the seal <the> third I heard the third living creature saying; do come and do heed. And I saw and behold a horse black and the [one] sitting on it having a pair of scales in the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.4|<< Revelation 6:4]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.6|Revelation 6:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὴν]]  [[G4973\|σφραγῖδα]]  [[G3588\|τὴν]]  [[G5154\|τρίτην,]]  [[G0191\|ἤκουσα]]  [[G3588\|τοῦ]]  [[G5154\|τρίτου]]  [[G2226\|ζῴου]]  [[G3004G\|λέγοντος·]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G0991\|βλέπε.]]  [[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2462\|ἵππος]]  [[G3189\|μέλας]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G2192\|ἔχων]]  [[G2218\|ζυγὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FAMINE|FAMINE]] • [[topic HORSE|HORSE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.4|<< Revelation 6:4]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.6|Revelation 6:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

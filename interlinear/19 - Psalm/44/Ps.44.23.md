@@ -1,8 +1,58 @@
+---
+title: Psalm 44:23
+type: Verse
+kjv: "Awake, why sleepest thou, O Lord? arise, cast us not off for ever."
+bsb: "Wake up, O Lord! Why are You sleeping? Arise! Do not reject us forever."
+hebrew: "ע֤וּרָה׀ לָ֖מָּה תִישַׁ֥ן׀ אֲדֹנָ֑י הָ֝קִ֗יצָה אַל־ תִּזְנַ֥ח לָנֶֽצַח׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H5782]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3462]]"
+- "[[H0136]]"
+- "[[H6974]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2186A]]"
+- "[[H5331]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:23**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, why sleepest thou, O Lord? arise, cast [us] not off for ever.
 <small><sub>**BSB:**</sub></small>
 Wake up, O Lord! Why are You sleeping? Arise! Do not reject us forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|ע֤וּרָ]][[H9012\|ה]][[H9015\|׀]] [[H9005\|לָ֖]][[H4100\|מָּה]] [[H3462\|תִישַׁ֥ן]][[H9015\|׀]] [[H0136\|אֲדֹנָ֑י]] [[H6974\|הָ֝קִ֗יצָ]][[H9012\|ה]] [[H0408\|אַל]][[H9014\|־]] [[H2186A\|תִּזְנַ֥ח]] [[H9005\|לָ]][[H5331\|נֶֽצַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.22|<< Psalms 44:22]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.24|Psalms 44:24 >>]]</td></tr></table>
 

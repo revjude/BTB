@@ -1,10 +1,68 @@
+---
+title: 2 Timothy 1:3
+type: Verse
+kjv: "I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;"
+bsb: "I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers."
+greek: "Χάριν ἔχω τῷ θεῷ, ᾧ λατρεύω ἀπὸ προγόνων ἐν καθαρᾷ συνειδήσει, ὡς ἀδιάλειπτον ἔχω τὴν περὶ σοῦ μνείαν ἐν ταῖς δεήσεσίν μου νυκτὸς καὶ ἡμέρας"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5485]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G3000]]"
+- "[[G0575]]"
+- "[[G4269]]"
+- "[[G1722]]"
+- "[[G2513]]"
+- "[[G4893]]"
+- "[[G5613]]"
+- "[[G0088]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G3417]]"
+- "[[G1162]]"
+- "[[G3165]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:3**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I thank God, whom I serve from [my] forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;
 <small><sub>**BSB:**</sub></small>
 I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers.
-<small><sub>**Literal:**</sub></small>
-Thankful I am <the> to God, whom I serve from [my] forefathers with a pure conscience, as unceasingly I have the of you remembrance in the prayers of mine night and day<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.2|<< 2 Timothy 1:2]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.4|2 Timothy 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5485\|Χάριν]]  [[G2192\|ἔχω]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G3739\|ᾧ]]  [[G3000\|λατρεύω]]  [[G0575\|ἀπὸ]]  [[G4269\|προγόνων]]  [[G1722\|ἐν]]  [[G2513\|καθαρᾷ]]  [[G4893\|συνειδήσει,]]  [[G5613\|ὡς]]  [[G0088\|ἀδιάλειπτον]]  [[G2192\|ἔχω]]  [[G3588\|τὴν]]  [[G4012\|περὶ]]  [[G4771\|σοῦ]]  [[G3417\|μνείαν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1162\|δεήσεσίν]]  [[G3165\|μου]]  [[G3571\|νυκτὸς]]  [[G2532\|καὶ]]  [[G2250\|ἡμέρας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic PURITY|PURITY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TIMOTHY|TIMOTHY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.2|<< 2 Timothy 1:2]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.4|2 Timothy 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

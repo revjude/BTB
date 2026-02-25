@@ -1,10 +1,66 @@
+---
+title: Acts 25:23
+type: Verse
+kjv: "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth."
+bsb: "The next day Agrippa and Bernice came with great pomp and entered the auditorium, along with the commanders and leading men of the city. And Festus ordered that Paul be brought in."
+greek: "Τῇ οὖν ἐπαύριον ἐλθόντος τοῦ Ἀγρίππα καὶ τῆς Βερνίκης μετὰ πολλῆς φαντασίας καὶ εἰσελθόντων εἰς τὸ ἀκροατήριον σύν τε τοῖς χιλιάρχοις καὶ ἀνδράσιν τοῖς κατ᾽ ἐξοχὴν οὖσιν τῆς πόλεως καὶ κελεύσαντος τοῦ Φήστου ἤχθη ὁ Παῦλος.¶"
+pericope: "[[Acts.25.23 Paul before Agrippa and Bernice|Paul before Agrippa and Bernice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G1887]]"
+- "[[G2064]]"
+- "[[G0067]]"
+- "[[G2532]]"
+- "[[G0959]]"
+- "[[G3326]]"
+- "[[G4183]]"
+- "[[G5325]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0201]]"
+- "[[G4862]]"
+- "[[G5037]]"
+- "[[G5506]]"
+- "[[G0435G]]"
+- "[[G2596]]"
+- "[[G1851]]"
+- "[[G1510]]"
+- "[[G4172]]"
+- "[[G2753]]"
+- "[[G5347]]"
+- "[[G0071]]"
+- "[[G3972G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 25:23**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth.
 <small><sub>**BSB:**</sub></small>
 The next day Agrippa and Bernice came with great pomp and entered the auditorium, along with the commanders and leading men of the city. And Festus ordered that Paul be brought in.
-<small><sub>**Literal:**</sub></small>
-On the therefore next day when was coming <the> Agrippa and <the> Bernice with great pomp and having entered into the audience hall with both to the commanders and to men who in prominence being in the city and when was commanding <the> Festus was brought in <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.22|<< Acts 25:22]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.24|Acts 25:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G3767\|οὖν]]  [[G1887\|ἐπαύριον]]  [[G2064\|ἐλθόντος]]  [[G3588\|τοῦ]]  [[G0067\|Ἀγρίππα]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G0959\|Βερνίκης]]  [[G3326\|μετὰ]]  [[G4183\|πολλῆς]]  [[G5325\|φαντασίας]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθόντων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0201\|ἀκροατήριον]]  [[G4862\|σύν]]  [[G5037\|τε]]  [[G3588\|τοῖς]]  [[G5506\|χιλιάρχοις]]  [[G2532\|καὶ]]  [[G0435G\|ἀνδράσιν]]  [[G3588\|τοῖς]]  [[G2596\|κατ᾽]]  [[G1851\|ἐξοχὴν]]  [[G1510\|οὖσιν]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G2532\|καὶ]]  [[G2753\|κελεύσαντος]]  [[G3588\|τοῦ]]  [[G5347\|Φήστου]]  [[G0071\|ἤχθη]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.22|<< Acts 25:22]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.24|Acts 25:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

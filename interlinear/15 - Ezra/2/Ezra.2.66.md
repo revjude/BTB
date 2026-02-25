@@ -1,8 +1,52 @@
+---
+title: Ezra 2:66
+type: Verse
+kjv: "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+bsb: "They had 736 horses, 245 mules,"
+hebrew: "סוּסֵיהֶ֕ם שְׁבַ֥ע מֵא֖וֹת שְׁלֹשִׁ֣ים וְשִׁשָּׁ֑ה פִּרְדֵיהֶ֕ם מָאתַ֖יִם אַרְבָּעִ֥ים וַחֲמִשָּֽׁה׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic MULE|MULE]]"
+strongs:
+- "[[H5483M]]"
+- "[[H9028]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H6505]]"
+- "[[H0705]]"
+- "[[H2568]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:66**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their horses [were] seven hundred thirty and six; their mules, two hundred forty and five;
 <small><sub>**BSB:**</sub></small>
 They had 736 horses, 245 mules,
+<small><sub>**Hebrew:**</sub></small>
+[[H5483M\|סוּסֵי]][[H9028\|הֶ֕ם]] [[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֑ה]] [[H6505\|פִּרְדֵי]][[H9028\|הֶ֕ם]] [[H3967\|מָאתַ֖יִם]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic MULE|MULE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.65|<< Ezra 2:65]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.67|Ezra 2:67 >>]]</td></tr></table>
 

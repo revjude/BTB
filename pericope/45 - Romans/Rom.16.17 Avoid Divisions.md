@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Avoid Divisions
+type: Pericope
 pericope: "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Romans
 chapter: 16
 book/chapter: "[[Rom.16|Romans 16]]"
-genre:
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 4
 verses:
 - "[[Rom.16.17]]"
 - "[[Rom.16.18]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Rom.16.20]]"
 ---
 
-[[Rom.16|Romans 16:17 - Romans 16:20]]
+<small>[[Rom.16|Romans 16:17-20]]</small>
 *Avoid Divisions*
 
 [[Rom.16.17|17]] Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.

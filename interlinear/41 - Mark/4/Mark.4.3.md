@@ -1,10 +1,52 @@
+---
+title: Mark 4:3
+type: Verse
+kjv: "Hearken; Behold, there went out a sower to sow:"
+bsb: "“Listen! A farmer went out to sow his seed."
+jesus_said: "Hearken; Behold, there went out a sower to sow:"
+greek: "Ἀκούετε.¶ Ἰδοὺ ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι·"
+pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0191]]"
+- "[[G2400]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G4687]]"
+texts:
+- NKO
+- ko
+---
+
 **Mark 4:3**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hearken; Behold, there went out a sower to sow:
 <small><sub>**BSB:**</sub></small>
 “Listen! A farmer went out to sow his seed.
-<small><sub>**Literal:**</sub></small>
-do listen! Behold went out the [one] sowing of the to sow;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.2|<< Mark 4:2]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.4|Mark 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούετε.¶]]  [[G2400\|Ἰδοὺ]]  [[G1831\|ἐξῆλθεν]]  [[G3588\|ὁ]]  [[G4687\|σπείρων]]  [[G3588\|τοῦ]]  [[G4687\|σπεῖραι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.2|<< Mark 4:2]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.4|Mark 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

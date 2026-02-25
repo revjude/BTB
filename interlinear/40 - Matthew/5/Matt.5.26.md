@@ -1,10 +1,66 @@
+---
+title: Matthew 5:26
+type: Verse
+kjv: "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+bsb: "Truly I tell you, you will not get out until you have paid the last penny."
+jesus_said: "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing."
+greek: "ἀμὴν λέγω σοι· οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως ἂν ἀποδῷς τὸν ἔσχατον κοδράντην.¶"
+pericope: "[[Matt.5.21 Anger and Reconciliation|Anger and Reconciliation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMPROMISE|COMPROMISE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FARTHING|FARTHING]]"
+- "[[topic IMPRISONMENT|IMPRISONMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1831]]"
+- "[[G1564]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G0591]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G2835]]"
+texts:
+- NKO
+---
+
 **Matthew 5:26**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, you will not get out until you have paid the last penny.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; certainly not you may come out from there until when you may pay the last kodranten!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.25|<< Matthew 5:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.27|Matthew 5:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|σοι·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1831\|ἐξέλθῃς]]  [[G1564\|ἐκεῖθεν]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G0591\|ἀποδῷς]]  [[G3588\|τὸν]]  [[G2078\|ἔσχατον]]  [[G2835\|κοδράντην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPROMISE|COMPROMISE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FARTHING|FARTHING]] • [[topic IMPRISONMENT|IMPRISONMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic LAWSUITS|LAWSUITS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.25|<< Matthew 5:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.27|Matthew 5:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

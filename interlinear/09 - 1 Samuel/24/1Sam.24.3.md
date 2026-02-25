@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 24:3
+type: Verse
+kjv: "And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave."
+bsb: "Soon Saul came to the sheepfolds along the road, where there was a cave, and he went in to relieve himself. And David and his men were hiding in the recesses of the cave."
+hebrew: "וַ֠יָּבֹא אֶל־ גִּדְר֨וֹת הַצֹּ֤אן עַל־ הַדֶּ֙רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ אֶת־ רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה יֹשְׁבִֽים׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic EN-GEDI|EN-GEDI]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1448]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H5921A]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H4631]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H5526B]]"
+- "[[H0853]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H1732]]"
+- "[[H0582]]"
+- "[[H9003]]"
+- "[[H3411]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:3**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came to the sheepcotes by the way, where [was] a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
 <small><sub>**BSB:**</sub></small>
 Soon Saul came to the sheepfolds along the road, where there was a cave, and he went in to relieve himself. And David and his men were hiding in the recesses of the cave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0935G\|יָּבֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H1448\|גִּדְר֨וֹת]] [[H9009\|הַ]][[H6629G\|צֹּ֤אן]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֙רֶךְ֙]] [[H9002\|וְ]][[H8033G\|שָׁ֣ם]] [[H4631\|מְעָרָ֔ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H7586G\|שָׁא֖וּל]] [[H9005\|לְ]][[H5526B\|הָסֵ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1732\|דָוִד֙]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H3411\|יַרְכְּתֵ֥י]] [[H9009\|הַ]][[H4631\|מְּעָרָ֖ה]] [[H3427\|יֹשְׁבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic EN-GEDI|EN-GEDI]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SAUL|SAUL]] • [[topic SELF-CONTROL|SELF-CONTROL]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.2|<< 1 Samuel 24:2]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.4|1 Samuel 24:4 >>]]</td></tr></table>
 

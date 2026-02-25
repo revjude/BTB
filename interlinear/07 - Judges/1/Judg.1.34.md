@@ -1,8 +1,60 @@
+---
+title: Judges 1:34
+type: Verse
+kjv: "And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:"
+bsb: "The Amorites forced the Danites into the hill country and did not allow them to come down into the plain."
+hebrew: "וַיִּלְחֲצ֧וּ הָאֱמֹרִ֛י אֶת־ בְּנֵי־ דָ֖ן הָהָ֑רָה כִּי־ לֹ֥א נְתָנ֖וֹ לָרֶ֥דֶת לָעֵֽמֶק׃"
+pericope: "[[Judg.1.27 The Failure to Complete the Conquest|The Failure to Complete the Conquest]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic DAN|DAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3905]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H1835G]]"
+- "[[H2022H]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H6010R]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:34**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:
 <small><sub>**BSB:**</sub></small>
 The Amorites forced the Danites into the hill country and did not allow them to come down into the plain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3905\|יִּלְחֲצ֧וּ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָ֖ן]] [[H9009\|הָ]][[H2022H\|הָ֑רָ]][[H9011\|ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H5414K\|נְתָנ֖]][[H9033\|וֹ]] [[H9005\|לָ]][[H3381\|רֶ֥דֶת]] [[H9005\|לָ]][[H6010R\|עֵֽמֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic DAN|DAN]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.33|<< Judges 1:33]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.35|Judges 1:35 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 10:1
+type: Verse
+kjv: "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;"
+bsb: "I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea."
+greek: "Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον,"
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G0050]]"
+- "[[G0080]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G5259H]]"
+- "[[G3507]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G2281]]"
+- "[[G1330]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 10:1**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 <small><sub>**BSB:**</sub></small>
 I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea.
-<small><sub>**Literal:**</sub></small>
-Not I want for you to be ignorant, brothers, that the fathers of us all under the cloud were and all through the sea passed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.27|<< 1 Corinthians 9:27]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.2|1 Corinthians 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐ]]  [[G2309\|θέλω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμᾶς]]  [[G0050\|ἀγνοεῖν,]]  [[G0080\|ἀδελφοί,]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G3165\|ἡμῶν]]  [[G3956\|πάντες]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G3507\|νεφέλην]]  [[G1510\|ἦσαν]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G1330\|διῆλθον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BAPTISM|BAPTISM]] • [[topic RED SEA|RED SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.27|<< 1 Corinthians 9:27]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.2|1 Corinthians 10:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 10:1** is...
 > $\quad$ alluding to: [[LXX.Exod.13.21|Exod 13:21]] ☩ [[LXX.Exod.14.22|Exod 14:22]] ☩ [[LXX.Num.9.18|Num 9:18]]

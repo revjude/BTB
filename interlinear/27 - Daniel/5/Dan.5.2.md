@@ -1,8 +1,79 @@
+---
+title: Daniel 5:2
+type: Verse
+kjv: "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein."
+bsb: "Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines."
+aramaic: "בֵּלְשַׁאצַּ֞ר אֲמַ֣ר׀ בִּטְעֵ֣ם חַמְרָ֗א לְהַיְתָיָה֙ לְמָאנֵי֙ דַּהֲבָ֣א וְכַסְפָּ֔א דִּ֤י הַנְפֵּק֙ נְבוּכַדְנֶצַּ֣ר אֲב֔וּהִי מִן־ הֵיכְלָ֖א דִּ֣י בִירוּשְׁלֶ֑ם וְיִשְׁתּ֣וֹן בְּה֗וֹן מַלְכָּא֙ וְרַבְרְבָנ֔וֹהִי שֵׁגְלָתֵ֖הּ וּלְחֵנָתֵֽהּ׃"
+pericope: "[[Dan.5.1 Belshazzar’s Feast|Belshazzar’s Feast]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic KING|KING]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1113]]"
+- "[[H0560]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2942]]"
+- "[[H2562]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H0858]]"
+- "[[H3984]]"
+- "[[H1722]]"
+- "[[H9002]]"
+- "[[H3702]]"
+- "[[H1768]]"
+- "[[H5312]]"
+- "[[H5020]]"
+- "[[H0002]]"
+- "[[H9020]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H1965G]]"
+- "[[H3390]]"
+- "[[H8355]]"
+- "[[H9038]]"
+- "[[H4430]]"
+- "[[H7261]]"
+- "[[H9023]]"
+- "[[H7695]]"
+- "[[H3904]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:2**<big><big>[[Dan.5.1 Belshazzar’s Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which [was] in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
 <small><sub>**BSB:**</sub></small>
 Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines.
+<small><sub>**Aramaic:**</sub></small>
+[[H1113\|בֵּלְשַׁאצַּ֞ר]] [[H0560\|אֲמַ֣ר]][[H9015\|׀]] [[H9003\|בִּ]][[H2942\|טְעֵ֣ם]] [[H2562\|חַמְרָ֗]][[H9010\|א]] [[H9005\|לְ]][[H0858\|הַיְתָיָה֙]] [[H9005\|לְ]][[H3984\|מָאנֵי֙]] [[H1722\|דַּהֲבָ֣]][[H9010\|א]] [[H9002\|וְ]][[H3702\|כַסְפָּ֔]][[H9010\|א]] [[H1768\|דִּ֤י]] [[H5312\|הַנְפֵּק֙]] [[H5020\|נְבוּכַדְנֶצַּ֣ר]] [[H0002\|אֲב֔]][[H9020\|וּהִי]] [[H4481\|מִן]][[H9014\|־]] [[H1965G\|הֵיכְלָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H9003\|בִ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9002\|וְ]][[H8355\|יִשְׁתּ֣וֹן]] [[H9003\|בְּ]][[H9038\|ה֗וֹן]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H7261\|רַבְרְבָנ֔וֹ]][[H9023\|הִי]] [[H7695\|שֵׁגְלָתֵ֖]][[H9023\|הּ]] [[H9002\|וּ]][[H3904\|לְחֵנָתֵֽ]][[H9023\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FEASTS|FEASTS]] • [[topic KING|KING]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SILVER|SILVER]] • [[topic TEMPLE|TEMPLE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.1|<< Daniel 5:1]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.3|Daniel 5:3 >>]]</td></tr></table>
 

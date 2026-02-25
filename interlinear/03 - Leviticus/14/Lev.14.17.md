@@ -1,8 +1,72 @@
+---
+title: Leviticus 14:17
+type: Verse
+kjv: "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:"
+bsb: "And the priest is to put some of the oil remaining in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on top of the blood of the guilt offering."
+hebrew: "וּמִיֶּ֨תֶר הַשֶּׁ֜מֶן אֲשֶׁ֣ר עַל־ כַּפּ֗וֹ יִתֵּ֤ן הַכֹּהֵן֙ עַל־ תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית וְעַל־ בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־ בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית עַ֖ל דַּ֥ם הָאָשָֽׁם׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic EAR|EAR]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic THUMB|THUMB]]"
+- "[[topic TOE|TOE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H8081]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H5414H]]"
+- "[[H3548]]"
+- "[[H8571]]"
+- "[[H0241G]]"
+- "[[H2891]]"
+- "[[H3233G]]"
+- "[[H0931]]"
+- "[[H3027G]]"
+- "[[H7272]]"
+- "[[H1818]]"
+- "[[H0817]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:17**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the rest of the oil that [is] in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:
 <small><sub>**BSB:**</sub></small>
 And the priest is to put some of the oil remaining in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on top of the blood of the guilt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H3499A\|יֶּ֨תֶר]] [[H9009\|הַ]][[H8081\|שֶּׁ֜מֶן]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּפּ֗]][[H9023\|וֹ]] [[H5414H\|יִתֵּ֤ן]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8571\|תְּנ֞וּךְ]] [[H0241G\|אֹ֤זֶן]] [[H9009\|הַ]][[H2891\|מִּטַּהֵר֙]] [[H9009\|הַ]][[H3233G\|יְמָנִ֔ית]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0931\|בֹּ֤הֶן]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H9009\|הַ]][[H3233G\|יְמָנִ֔ית]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0931\|בֹּ֥הֶן]] [[H7272\|רַגְל֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H3233G\|יְמָנִ֑ית]] [[H5921A\|עַ֖ל]] [[H1818\|דַּ֥ם]] [[H9009\|הָ]][[H0817\|אָשָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic EAR|EAR]] • [[topic OFFERINGS|OFFERINGS]] • [[topic THUMB|THUMB]] • [[topic TOE|TOE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.16|<< Leviticus 14:16]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.18|Leviticus 14:18 >>]]</td></tr></table>
 

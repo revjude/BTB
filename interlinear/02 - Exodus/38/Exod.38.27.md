@@ -1,8 +1,59 @@
+---
+title: Exodus 38:27
+type: Verse
+kjv: "And of the hundred talents of silver were cast the sockets of the sanctuary, and the sockets of the vail; an hundred sockets of the hundred talents, a talent for a socket."
+bsb: "The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base."
+hebrew: "וַיְהִ֗י מְאַת֙ כִּכַּ֣ר הַכֶּ֔סֶף לָצֶ֗קֶת אֵ֚ת אַדְנֵ֣י הַקֹּ֔דֶשׁ וְאֵ֖ת אַדְנֵ֣י הַפָּרֹ֑כֶת מְאַ֧ת אֲדָנִ֛ים לִמְאַ֥ת הַכִּכָּ֖ר כִּכָּ֥ר לָאָֽדֶן׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3967]]"
+- "[[H3603H]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9005]]"
+- "[[H3332H]]"
+- "[[H0853]]"
+- "[[H0134]]"
+- "[[H6944G]]"
+- "[[H9002]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:27**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the hundred talents of silver were cast the sockets of the sanctuary, and the sockets of the vail; an hundred sockets of the hundred talents, a talent for a socket.
 <small><sub>**BSB:**</sub></small>
 The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil—100 bases from the 100 talents, one talent per base.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H3967\|מְאַת֙]] [[H3603H\|כִּכַּ֣ר]] [[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H9005\|לָ]][[H3332H\|צֶ֗קֶת]] [[H0853\|אֵ֚ת]] [[H0134\|אַדְנֵ֣י]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H0134\|אַדְנֵ֣י]] [[H9009\|הַ]][[H6532\|פָּרֹ֑כֶת]] [[H3967\|מְאַ֧ת]] [[H0134\|אֲדָנִ֛ים]] [[H9005\|לִ]][[H3967\|מְאַ֥ת]] [[H9009\|הַ]][[H3603H\|כִּכָּ֖ר]] [[H3603H\|כִּכָּ֥ר]] [[H9005\|לָ]][[H0134\|אָֽדֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.26|<< Exodus 38:26]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.28|Exodus 38:28 >>]]</td></tr></table>
 

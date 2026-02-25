@@ -1,8 +1,57 @@
+---
+title: Ecclesiastes 11:1
+type: Verse
+kjv: "Cast thy bread upon the waters: for thou shalt find it after many days."
+bsb: "Cast your bread upon the waters, for after many days you will find it again."
+hebrew: "שַׁלַּ֥ח לַחְמְךָ֖ עַל־ פְּנֵ֣י הַמָּ֑יִם כִּֽי־ בְרֹ֥ב הַיָּמִ֖ים תִּמְצָאֶֽנּוּ׃"
+pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H7971G]]"
+- "[[H3899H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H3117G]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:1**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast thy bread upon the waters: for thou shalt find it after many days.
 <small><sub>**BSB:**</sub></small>
 Cast your bread upon the waters, for after many days you will find it again.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שַׁלַּ֥ח]] [[H3899H\|לַחְמְ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H7230\|רֹ֥ב]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H4672\|תִּמְצָאֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.20|<< Ecclesiastes 10:20]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.2|Ecclesiastes 11:2 >>]]</td></tr></table>
 

@@ -1,10 +1,51 @@
+---
+title: Hebrews 13:10
+type: Verse
+kjv: "We have an altar, whereof they have no right to eat which serve the tabernacle."
+bsb: "We have an altar from which those who serve at the tabernacle have no right to eat."
+greek: "ἔχομεν θυσιαστήριον ἐξ οὗ φαγεῖν οὐκ ἔχουσιν ἐξουσίαν οἱ τῇ σκηνῇ λατρεύοντες."
+pericope: "[[Heb.13.5 Christ’s Unchanging Nature|Christ’s Unchanging Nature]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2192]]"
+- "[[G2379]]"
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G5315]]"
+- "[[G3756]]"
+- "[[G1849]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G3000]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:10**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We have an altar, whereof they have no right to eat which serve the tabernacle.
 <small><sub>**BSB:**</sub></small>
 We have an altar from which those who serve at the tabernacle have no right to eat.
-<small><sub>**Literal:**</sub></small>
-We have an altar from which to eat not they have authority those in the tabernacle serving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.9|<< Hebrews 13:9]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.11|Hebrews 13:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2192\|ἔχομεν]]  [[G2379\|θυσιαστήριον]]  [[G1537\|ἐξ]]  [[G3739\|οὗ]]  [[G5315\|φαγεῖν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G1849\|ἐξουσίαν]]  [[G3588\|οἱ]]  [[G3588\|τῇ]]  [[G4633\|σκηνῇ]]  [[G3000\|λατρεύοντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.9|<< Hebrews 13:9]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.11|Hebrews 13:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

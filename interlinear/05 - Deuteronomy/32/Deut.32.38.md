@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 32:38
+type: Verse
+kjv: "Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection."
+bsb: "which ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you; let them give you shelter!"
+hebrew: "אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֙ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֙וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAT|FAT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0834A]]"
+- "[[H2459]]"
+- "[[H2077]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H5257A]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H5826]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H5643B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:38**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which did eat the fat of their sacrifices, [and] drank the wine of their drink offerings? let them rise up and help you, [and] be your protection.
 <small><sub>**BSB:**</sub></small>
 which ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you; let them give you shelter!
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H2459\|חֵ֤לֶב]] [[H2077\|זְבָחֵ֙י]][[H9028\|מוֹ֙]] [[H0398\|יֹאכֵ֔לוּ]] [[H8354\|יִשְׁתּ֖וּ]] [[H3196\|יֵ֣ין]] [[H5257A\|נְסִיכָ֑]][[H9028\|ם]] [[H6965B\|יָק֙וּמוּ֙]] [[H9002\|וְ]][[H5826\|יַעְזְרֻ]][[H9036\|כֶ֔ם]] [[H1961\|יְהִ֥י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H5643B\|סִתְרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAT|FAT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.37|<< Deuteronomy 32:37]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.39|Deuteronomy 32:39 >>]]</td></tr></table>
 

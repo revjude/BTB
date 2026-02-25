@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 5:8
+type: Verse
+kjv: "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord."
+bsb: "We are confident, then, and would prefer to be away from the body and at home with the Lord."
+greek: "θαρροῦμεν δὲ καὶ εὐδοκοῦμεν μᾶλλον ἐκδημῆσαι ἐκ τοῦ σώματος καὶ ἐνδημῆσαι πρὸς τὸν κύριον."
+pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G2292]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2106]]"
+- "[[G3123H]]"
+- "[[G1553]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G1736]]"
+- "[[G4314]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 5:8**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We are confident, [I say], and willing rather to be absent from the body, and to be present with the Lord.
 <small><sub>**BSB:**</sub></small>
 We are confident, then, and would prefer to be away from the body and at home with the Lord.
-<small><sub>**Literal:**</sub></small>
-We are confident now and we are pleased rather to be absent out of the body and to be at home with the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.7|<< 2 Corinthians 5:7]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.9|2 Corinthians 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2292\|θαρροῦμεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2106\|εὐδοκοῦμεν]]  [[G3123H\|μᾶλλον]]  [[G1553\|ἐκδημῆσαι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G2532\|καὶ]]  [[G1736\|ἐνδημῆσαι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LOVE|LOVE]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.7|<< 2 Corinthians 5:7]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.9|2 Corinthians 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

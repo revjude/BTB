@@ -1,8 +1,74 @@
+---
+title: Genesis 43:7
+type: Verse
+kjv: "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?"
+bsb: "They replied, “The man questioned us in detail about ourselves and our family: ‘Is your father still alive? Do you have another brother?’ And we answered him accordingly. How could we possibly know that he would say, ‘Bring your brother here’?”"
+hebrew: "וַיֹּאמְר֡וּ שָׁא֣וֹל שָֽׁאַל־ הָ֠אִישׁ לָ֣נוּ וּלְמֽוֹלַדְתֵּ֜נוּ לֵאמֹ֗ר הַע֨וֹד אֲבִיכֶ֥ם חַי֙ הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח וַנַ֨גֶּד־ ל֔וֹ עַל־ פִּ֖י הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲיָד֣וֹעַ נֵדַ֔ע כִּ֣י יֹאמַ֔ר הוֹרִ֖ידוּ אֶת־ אֲחִיכֶֽם׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H9025]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H2416A]]"
+- "[[H3426]]"
+- "[[H9036]]"
+- "[[H0251G]]"
+- "[[H5046]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H6310K]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3381]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:7**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, The man asked us straitly of our state, and of our kindred, saying, [Is] your father yet alive? have ye [another] brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?
 <small><sub>**BSB:**</sub></small>
 They replied, “The man questioned us in detail about ourselves and our family: ‘Is your father still alive? Do you have another brother?’ And we answered him accordingly. How could we possibly know that he would say, ‘Bring your brother here’?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֡וּ]] [[H7592\|שָׁא֣וֹל]] [[H7592\|שָֽׁאַל]][[H9014\|־]] [[H9009\|הָ֠]][[H0376G\|אִישׁ]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H4138\|מֽוֹלַדְתֵּ֜]][[H9025\|נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9008\|הַ]][[H5750\|ע֨וֹד]] [[H0001G\|אֲבִי]][[H9026\|כֶ֥ם]] [[H2416A\|חַי֙]] [[H9008\|הֲ]][[H3426\|יֵ֣שׁ]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H0251G\|אָ֔ח]] [[H9001\|וַ]][[H5046\|נַ֨גֶּד]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6310K\|פִּ֖י]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9008\|הֲ]][[H3045\|יָד֣וֹעַ]] [[H3045\|נֵדַ֔ע]] [[H3588A\|כִּ֣י]] [[H0559\|יֹאמַ֔ר]] [[H3381\|הוֹרִ֖ידוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֲחִי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.6|<< Genesis 43:6]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.8|Genesis 43:8 >>]]</td></tr></table>
 

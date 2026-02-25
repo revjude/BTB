@@ -1,8 +1,61 @@
+---
+title: 2 Kings 20:7
+type: Verse
+kjv: "And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered."
+bsb: "Then Isaiah said, “Prepare a poultice of figs.” So they brought it and applied it to the boil, and Hezekiah recovered."
+hebrew: "וַיֹּ֣אמֶר יְשַֽׁעְיָ֔הוּ קְח֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וַיִּקְח֛וּ וַיָּשִׂ֥ימוּ עַֽל־ הַשְּׁחִ֖ין וַיֶּֽחִי׃"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BOIL|BOIL]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FIG|FIG]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3470A]]"
+- "[[H3947J]]"
+- "[[H1690]]"
+- "[[H8384]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7822]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:7**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah said, Take a lump of figs. And they took and laid [it] on the boil, and he recovered.
 <small><sub>**BSB:**</sub></small>
 Then Isaiah said, “Prepare a poultice of figs.” So they brought it and applied it to the boil, and Hezekiah recovered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3470A\|יְשַֽׁעְיָ֔הוּ]] [[H3947J\|קְח֖וּ]] [[H1690\|דְּבֶ֣לֶת]] [[H8384\|תְּאֵנִ֑ים]] [[H9001\|וַ]][[H3947J\|יִּקְח֛וּ]] [[H9001\|וַ]][[H7760H\|יָּשִׂ֥ימוּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H7822\|שְּׁחִ֖ין]] [[H9001\|וַ]][[H2421\|יֶּֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BOIL|BOIL]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic FIG|FIG]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.6|<< 2 Kings 20:6]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.8|2 Kings 20:8 >>]]</td></tr></table>
 

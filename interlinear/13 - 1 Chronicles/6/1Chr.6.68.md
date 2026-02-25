@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 6:68
+type: Verse
+kjv: "And Jokmeam with her suburbs, and Bethhoron with her suburbs,"
+bsb: "Jokmeam, Beth-horon,"
+hebrew: "וְאֶֽת־ יָקְמְעָם֙ וְאֶת־ מִגְרָשֶׁ֔יהָ וְאֶת־ בֵּ֥ית חוֹר֖וֹן וְאֶת־ מִגְרָשֶֽׁיהָ׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JOKMEAM|JOKMEAM]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3361H]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H1032G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:68**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jokmeam with her suburbs, and Bethhoron with her suburbs,
 <small><sub>**BSB:**</sub></small>
 Jokmeam, Beth-horon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H3361H\|יָקְמְעָם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1032G\|בֵּ֥ית]] [[H1032G\|חוֹר֖וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶֽׁי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOKMEAM|JOKMEAM]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.67|<< 1 Chronicles 6:67]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.69|1 Chronicles 6:69 >>]]</td></tr></table>
 

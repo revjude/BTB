@@ -1,8 +1,66 @@
+---
+title: Genesis 39:4
+type: Verse
+kjv: "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand."
+bsb: "Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned."
+hebrew: "וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֙הוּ֙ עַל־ בֵּית֔וֹ וְכָל־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדֽוֹ׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H3130G]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9023]]"
+- "[[H8334]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H5414H]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:4**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all [that] he had he put into his hand.
 <small><sub>**BSB:**</sub></small>
 Joseph found favor in his sight and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|יִּמְצָ֨א]] [[H3130G\|יוֹסֵ֥ף]] [[H2580\|חֵ֛ן]] [[H9003\|בְּ]][[H5869H\|עֵינָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H8334\|יְשָׁ֣רֶת]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H6485J\|יַּפְקִדֵ֙]][[H9033\|הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5414H\|נָתַ֥ן]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic JOSEPH|JOSEPH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.3|<< Genesis 39:3]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.5|Genesis 39:5 >>]]</td></tr></table>
 

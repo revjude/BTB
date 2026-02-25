@@ -1,8 +1,66 @@
+---
+title: Joshua 6:6
+type: Verse
+kjv: "And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD."
+bsb: "So Joshua son of Nun summoned the priests and said, “Take up the ark of the covenant and have seven priests carry seven rams’ horns in front of the ark of the LORD.”"
+hebrew: "וַיִּקְרָ֞א יְהוֹשֻׁ֤עַ בִּן־ נוּן֙ אֶל־ הַכֹּ֣הֲנִ֔ים וַיֹּ֣אמֶר אֲלֵהֶ֔ם שְׂא֖וּ אֶת־ אֲר֣וֹן הַבְּרִ֑ית וְשִׁבְעָ֣ה כֹֽהֲנִ֗ים יִשְׂאוּ֙ שִׁבְעָ֤ה שֽׁוֹפְרוֹת֙ יוֹבְלִ֔ים לִפְנֵ֖י אֲר֥וֹן יְהוָֽה׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H5375H]]"
+- "[[H7782]]"
+- "[[H3104]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:6**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun called the priests, and said unto them, Take up the ark of the covenant, and let seven priests bear seven trumpets of rams’ horns before the ark of the LORD.
 <small><sub>**BSB:**</sub></small>
 So Joshua son of Nun summoned the priests and said, “Take up the ark of the covenant and have seven priests carry seven rams’ horns in front of the ark of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֞א]] [[H3091G\|יְהוֹשֻׁ֤עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נוּן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H5375G\|שְׂא֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֑ית]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֣ה]] [[H3548\|כֹֽהֲנִ֗ים]] [[H5375H\|יִשְׂאוּ֙]] [[H7651\|שִׁבְעָ֤ה]] [[H7782\|שֽׁוֹפְרוֹת֙]] [[H3104\|יוֹבְלִ֔ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.5|<< Joshua 6:5]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.7|Joshua 6:7 >>]]</td></tr></table>
 

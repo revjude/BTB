@@ -1,8 +1,68 @@
+---
+title: Ezekiel 43:27
+type: Verse
+kjv: "And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD."
+bsb: "At the end of these days, from the eighth day on, the priests are to present your burnt offerings and peace offerings on the altar. Then I will accept you, declares the Lord GOD.’”"
+hebrew: "וִֽיכַלּ֖וּ אֶת־ הַיָּמִ֑ים ס וְהָיָה֩ בַיּ֨וֹם הַשְּׁמִינִ֜י וָהָ֗לְאָה יַעֲשׂ֨וּ הַכֹּהֲנִ֤ים עַל־ הַמִּזְבֵּ֙חַ֙ אֶת־ עוֹלֽוֹתֵיכֶם֙ וְאֶת־ שַׁלְמֵיכֶ֔ם וְרָצִ֣אתִי אֶתְכֶ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהֹוִֽה׃ ס"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3615G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9018]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8066]]"
+- "[[H1973]]"
+- "[[H6213I]]"
+- "[[H3548]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H5930A]]"
+- "[[H9026]]"
+- "[[H8002]]"
+- "[[H7521]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:27**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when these days are expired, it shall be, [that] upon the eighth day, and [so] forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 At the end of these days, from the eighth day on, the priests are to present your burnt offerings and peace offerings on the altar. Then I will accept you, declares the Lord GOD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִֽ]][[H3615G\|יכַלּ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9018\|ס]] [[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֜י]] [[H9002\|וָ]][[H1973\|הָ֗לְאָה]] [[H6213I\|יַעֲשׂ֨וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֤ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עוֹלֽוֹתֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8002\|שַׁלְמֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H7521\|רָצִ֣אתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.26|<< Ezekiel 43:26]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.1|Ezekiel 44:1 >>]]</td></tr></table>
 
@@ -10,7 +70,7 @@ At the end of these days, from the eighth day on, the priests are to present you
 | - | - | - | - |
 | so they may complete  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3615G\|יכַלּ֖וּ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> kha.Lu<small><sup>[[HVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֑ים]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֑ים]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֨וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> eighth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8066\|שְּׁמִינִ֜י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.mi.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -27,7 +87,7 @@ At the end of these days, from the eighth day on, the priests are to present you
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.26|<< Ezekiel 43:26]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.1|Ezekiel 44:1 >>]]</td></tr></table>
 
 

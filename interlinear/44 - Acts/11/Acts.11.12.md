@@ -1,10 +1,61 @@
+---
+title: Acts 11:12
+type: Verse
+kjv: "And the spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:"
+bsb: "The Spirit told me to accompany them without hesitation. These six brothers also went with me, and we entered the man’s home."
+greek: "εἶπεν δὲ τὸ πνεῦμά μοι συνελθεῖν αὐτοῖς μηδὲν διακρίναντα. ἦλθον δὲ σὺν ἐμοὶ καὶ οἱ ἓξ ἀδελφοὶ οὗτοι, καὶ εἰσήλθομεν εἰς τὸν οἶκον τοῦ ἀνδρός."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3165]]"
+- "[[G4905]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G1252]]"
+- "[[G2064]]"
+- "[[G4862]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1803]]"
+- "[[G0080]]"
+- "[[G3778]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G0435G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 11:12**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:
 <small><sub>**BSB:**</sub></small>
 The Spirit told me to accompany them without hesitation. These six brothers also went with me, and we entered the man’s home.
-<small><sub>**Literal:**</sub></small>
-Told now the Spirit to me to go with them not having discriminated. Went now with me myself also <the> six brothers these, and we entered into the house of the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.11|<< Acts 11:11]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.13|Acts 11:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G3165\|μοι]]  [[G4905\|συνελθεῖν]]  [[G0846\|αὐτοῖς]]  [[G3367\|μηδὲν]]  [[G1252\|διακρίναντα.]]  [[G2064\|ἦλθον]]  [[G1161\|δὲ]]  [[G4862\|σὺν]]  [[G1473\|ἐμοὶ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1803\|ἓξ]]  [[G0080\|ἀδελφοὶ]]  [[G3778\|οὗτοι,]]  [[G2532\|καὶ]]  [[G1525\|εἰσήλθομεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G0435G\|ἀνδρός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.11|<< Acts 11:11]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.13|Acts 11:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

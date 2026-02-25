@@ -1,8 +1,68 @@
+---
+title: Numbers 21:3
+type: Verse
+kjv: "And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah."
+bsb: "And the LORD heard Israel’s plea and delivered up the Canaanites. Israel devoted them and their cities to destruction; so they named the place Hormah."
+hebrew: "וַיִּשְׁמַ֨ע יְהוָ֜ה בְּק֣וֹל יִשְׂרָאֵ֗ל וַיִּתֵּן֙ אֶת־ הַֽכְּנַעֲנִ֔י וַיַּחֲרֵ֥ם אֶתְהֶ֖ם וְאֶת־ עָרֵיהֶ֑ם וַיִּקְרָ֥א שֵׁם־ הַמָּק֖וֹם חָרְמָֽה׃ פ"
+pericope: "[[Num.21.1 The Defeat of Arad|The Defeat of Arad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HORMAH|HORMAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H4725]]"
+- "[[H2767]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 21:3**<big><big>[[Num.21.1 The Defeat of Arad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
 <small><sub>**BSB:**</sub></small>
 And the LORD heard Israel’s plea and delivered up the Canaanites. Israel devoted them and their cities to destruction; so they named the place Hormah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֨ע]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9001\|וַ]][[H5414G\|יִּתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H9001\|וַ]][[H2763A\|יַּחֲרֵ֥ם]] [[H0853\|אֶתְ]][[H9038\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H2767\|חָרְמָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HORMAH|HORMAH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.2|<< Numbers 21:2]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.4|Numbers 21:4 >>]]</td></tr></table>
 
@@ -22,7 +82,7 @@ And the LORD heard Israel’s plea and delivered up the Canaanites. Israel devot
 | and someone called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֖וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hormah  |**<big>&#8207;[[H2767\|חָרְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.re.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hormah  |**<big>&#8207;[[H2767\|חָרְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.re.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.2|<< Numbers 21:2]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.4|Numbers 21:4 >>]]</td></tr></table>
 
 

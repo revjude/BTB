@@ -1,8 +1,72 @@
+---
+title: Daniel 6:16
+type: Verse
+kjv: "Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee."
+bsb: "So the king gave the order, and they brought Daniel and threw him into the den of lions. The king said to Daniel, “May your God, whom you serve continually, deliver you!”"
+aramaic: "בֵּאדַ֜יִן מַלְכָּ֣א אֲמַ֗ר וְהַיְתִיו֙ לְדָ֣נִיֵּ֔אל וּרְמ֕וֹ לְגֻבָּ֖א דִּ֣י אַרְיָוָתָ֑א עָנֵ֤ה מַלְכָּא֙ וְאָמַ֣ר לְדָנִיֵּ֔אל אֱלָהָ֗ךְ דִּ֣י אַ֤נְתְּ פָּֽלַֽח־ לֵהּ֙ בִּתְדִירָ֔א ה֖וּא יְשֵׁיזְבִנָּֽךְ׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LION|LION]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H0560]]"
+- "[[H9002]]"
+- "[[H0858]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H7412]]"
+- "[[H1358]]"
+- "[[H1768]]"
+- "[[H0744]]"
+- "[[H6032]]"
+- "[[H0426]]"
+- "[[H9021]]"
+- "[[H0607]]"
+- "[[H6399]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H8411]]"
+- "[[H1932]]"
+- "[[H7804]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:16**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king commanded, and they brought Daniel, and cast [him] into the den of lions. [Now] the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
 <small><sub>**BSB:**</sub></small>
 So the king gave the order, and they brought Daniel and threw him into the den of lions. The king said to Daniel, “May your God, whom you serve continually, deliver you!”
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֜יִן]] [[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H0560\|אֲמַ֗ר]] [[H9002\|וְ]][[H0858\|הַיְתִיו֙]] [[H9005\|לְ]][[H1841H\|דָ֣נִיֵּ֔אל]] [[H9002\|וּ]][[H7412\|רְמ֕וֹ]] [[H9005\|לְ]][[H1358\|גֻבָּ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H0744\|אַרְיָוָתָ֑]][[H9010\|א]] [[H6032\|עָנֵ֤ה]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H0560\|אָמַ֣ר]] [[H9005\|לְ]][[H1841H\|דָנִיֵּ֔אל]] [[H0426\|אֱלָהָ֗]][[H9021\|ךְ]] [[H1768\|דִּ֣י]] [[H0607\|אַ֤נְתְּ]] [[H6399\|פָּֽלַֽח]][[H9014\|־]] [[H9005\|לֵ]][[H9033\|הּ֙]] [[H9003\|בִּ]][[H8411\|תְדִירָ֔]][[H9010\|א]] [[H1932\|ה֖וּא]] [[H7804\|יְשֵׁיזְבִנָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic LION|LION]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.15|<< Daniel 6:15]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.17|Daniel 6:17 >>]]</td></tr></table>
 

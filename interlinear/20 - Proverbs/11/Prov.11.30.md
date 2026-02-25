@@ -1,8 +1,52 @@
+---
+title: Proverbs 11:30
+type: Verse
+kjv: "The fruit of the righteous is a tree of life; and he that winneth souls is wise."
+bsb: "The fruit of the righteous is a tree of life, and he who wins souls is wise."
+hebrew: "פְּֽרִי־ צַ֭דִּיק עֵ֣ץ חַיִּ֑ים וְלֹקֵ֖חַ נְפָשׂ֣וֹת חָכָֽם׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H6529]]"
+- "[[H9014]]"
+- "[[H6662]]"
+- "[[H6086H]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H5315G]]"
+- "[[H2450]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:30**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fruit of the righteous [is] a tree of life; and he that winneth souls [is] wise.
 <small><sub>**BSB:**</sub></small>
 The fruit of the righteous is a tree of life, and he who wins souls is wise.
+<small><sub>**Hebrew:**</sub></small>
+[[H6529\|פְּֽרִי]][[H9014\|־]] [[H6662\|צַ֭דִּיק]] [[H6086H\|עֵ֣ץ]] [[H2416E\|חַיִּ֑ים]] [[H9002\|וְ]][[H3947G\|לֹקֵ֖חַ]] [[H5315G\|נְפָשׂ֣וֹת]] [[H2450\|חָכָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.29|<< Proverbs 11:29]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.31|Proverbs 11:31 >>]]</td></tr></table>
 

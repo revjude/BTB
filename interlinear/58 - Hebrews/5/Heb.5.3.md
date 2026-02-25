@@ -1,10 +1,55 @@
+---
+title: Hebrews 5:3
+type: Verse
+kjv: "And by reason hereof he ought, as for the people, so also for himself, to offer for sins."
+bsb: "That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people."
+greek: "καὶ δι᾽ αὐτὴν ὀφείλει, καθὼς περὶ τοῦ λαοῦ οὕτως καὶ περὶ αὐτοῦ προσφέρειν περὶ ἁμαρτιῶν."
+pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G3784]]"
+- "[[G2531]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3779]]"
+- "[[G1438]]"
+- "[[G4374]]"
+- "[[G0266]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 5:3**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And by reason hereof he ought, as for the people, so also for himself, to offer for sins.
 <small><sub>**BSB:**</sub></small>
 That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people.
-<small><sub>**Literal:**</sub></small>
-and because of this he is obligated, even as for the people so also for himself to offer sacrifices for sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.2|<< Hebrews 5:2]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.4|Hebrews 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτὴν]]  [[G3784\|ὀφείλει,]]  [[G2531\|καθὼς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G1438\|αὐτοῦ]]  [[G4374\|προσφέρειν]]  [[G4012\|περὶ]]  [[G0266\|ἁμαρτιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.2|<< Hebrews 5:2]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.4|Hebrews 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Daniel 11:35
+type: Verse
+kjv: "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed."
+bsb: "Some of the wise will fall so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time."
+hebrew: "וּמִן־ הַמַּשְׂכִּילִ֣ים יִכָּֽשְׁל֗וּ לִצְר֥וֹף בָּהֶ֛ם וּלְבָרֵ֥ר וְלַלְבֵּ֖ן עַד־ עֵ֣ת קֵ֑ץ כִּי־ ע֖וֹד לַמּוֹעֵֽד׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7919A]]"
+- "[[H3782]]"
+- "[[H9005]]"
+- "[[H6884]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1305]]"
+- "[[H3835A]]"
+- "[[H5704]]"
+- "[[H6256]]"
+- "[[H7093]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H4150G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:35**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some] of them of understanding shall fall, to try them, and to purge, and to make [them] white, [even] to the time of the end: because [it is] yet for a time appointed.
 <small><sub>**BSB:**</sub></small>
 Some of the wise will fall so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7919A\|מַּשְׂכִּילִ֣ים]] [[H3782\|יִכָּֽשְׁל֗וּ]] [[H9005\|לִ]][[H6884\|צְר֥וֹף]] [[H9003\|בָּ]][[H9038\|הֶ֛ם]] [[H9002\|וּ]][[H9005\|לְ]][[H1305\|בָרֵ֥ר]] [[H9002\|וְ]][[H9005\|לַ]][[H3835A\|לְבֵּ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H6256\|עֵ֣ת]] [[H7093\|קֵ֑ץ]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֖וֹד]] [[H9005\|לַ]][[H4150G\|מּוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.34|<< Daniel 11:34]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.36|Daniel 11:36 >>]]</td></tr></table>
 

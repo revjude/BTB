@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Your Word Is a Lamp to My Feet - MEM
+type: Pericope
 pericope: "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 119
 book/chapter: "[[Ps.119|Psalm 119]]"
-genre:
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.119.97]]"
 - "[[Ps.119.98]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.119.104]]"
 ---
 
-[[Ps.119|Psalm 119:97 - Psalm 119:104]]
+<small>[[Ps.119|Psalm 119:97-104]]</small>
 *Your Word Is a Lamp to My Feet - MEM*
 
 [[Ps.119.97|97]] O how love I thy law! it \[is\] my meditation all the day.

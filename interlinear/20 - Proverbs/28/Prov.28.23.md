@@ -1,8 +1,51 @@
+---
+title: Proverbs 28:23
+type: Verse
+kjv: "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
+bsb: "He who rebukes a man will later find more favor than one who flatters with his tongue."
+hebrew: "מ֘וֹכִ֤יחַ אָדָ֣ם אַ֭חֲרַי חֵ֣ן יִמְצָ֑א מִֽמַּחֲלִ֥יק לָשֽׁוֹן׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H3198]]"
+- "[[H0120G]]"
+- "[[H0310B]]"
+- "[[H9030]]"
+- "[[H2580]]"
+- "[[H4672]]"
+- "[[H9006]]"
+- "[[H2505B]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:23**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
 <small><sub>**BSB:**</sub></small>
 He who rebukes a man will later find more favor than one who flatters with his tongue.
+<small><sub>**Hebrew:**</sub></small>
+[[H3198\|מ֘וֹכִ֤יחַ]] [[H0120G\|אָדָ֣ם]] [[H0310B\|אַ֭חֲרַ]][[H9030\|י]] [[H2580\|חֵ֣ן]] [[H4672\|יִמְצָ֑א]] [[H9006\|מִֽ]][[H2505B\|מַּחֲלִ֥יק]] [[H3956G\|לָשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.22|<< Proverbs 28:22]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.24|Proverbs 28:24 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 29:24
+type: Verse
+kjv: "And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel."
+bsb: "And the priests slaughtered the goats and put their blood on the altar for a sin offering, to make atonement for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel."
+hebrew: "וַיִּשְׁחָטוּם֙ הַכֹּ֣הֲנִ֔ים וַֽיְחַטְּא֤וּ אֶת־ דָּמָם֙ הַמִּזְבֵּ֔חָה לְכַפֵּ֖ר עַל־ כָּל־ יִשְׂרָאֵ֑ל כִּ֤י לְכָל־ יִשְׂרָאֵל֙ אָמַ֣ר הַמֶּ֔לֶךְ הָעוֹלָ֖ה וְהַחַטָּֽאת׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:24**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded [that] the burnt offering and the sin offering [should be made] for all Israel.
 <small><sub>**BSB:**</sub></small>
 And the priests slaughtered the goats and put their blood on the altar for a sin offering, to make atonement for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7819A\|יִּשְׁחָטוּ]][[H9038\|ם֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9001\|וַֽ]][[H2398\|יְחַטְּא֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ]][[H9028\|ם֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חָ]][[H9011\|ה]] [[H9005\|לְ]][[H3722A\|כַפֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֤י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0559\|אָמַ֣ר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9009\|הָ]][[H5930A\|עוֹלָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.23|<< 2 Chronicles 29:23]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.25|2 Chronicles 29:25 >>]]</td></tr></table>
 

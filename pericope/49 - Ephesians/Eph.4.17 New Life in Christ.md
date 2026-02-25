@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: New Life in Christ
+type: Pericope
 pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 4
 book/chapter: "[[Eph.4|Ephesians 4]]"
-genre:
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 16
 verses:
 - "[[Eph.4.17]]"
 - "[[Eph.4.18]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Eph.4.32]]"
 ---
 
-[[Eph.4|Ephesians 4:17 - Ephesians 4:32]]
+<small>[[Eph.4|Ephesians 4:17-32]]</small>
 *New Life in Christ*
 
 [[Eph.4.17|17]] This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,

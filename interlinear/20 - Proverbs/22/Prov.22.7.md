@@ -1,8 +1,53 @@
+---
+title: Proverbs 22:7
+type: Verse
+kjv: "The rich ruleth over the poor, and the borrower is servant to the lender."
+bsb: "The rich rule over the poor, and the borrower is slave to the lender."
+hebrew: "עָ֭שִׁיר בְּרָשִׁ֣ים יִמְשׁ֑וֹל וְעֶ֥בֶד לֹ֝וֶ֗ה לְאִ֣ישׁ מַלְוֶֽה׃"
+pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H6223]]"
+- "[[H9003]]"
+- "[[H7326]]"
+- "[[H4910]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H3867B]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:7**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich ruleth over the poor, and the borrower [is] servant to the lender.
 <small><sub>**BSB:**</sub></small>
 The rich rule over the poor, and the borrower is slave to the lender.
+<small><sub>**Hebrew:**</sub></small>
+[[H6223\|עָ֭שִׁיר]] [[H9003\|בְּ]][[H7326\|רָשִׁ֣ים]] [[H4910\|יִמְשׁ֑וֹל]] [[H9002\|וְ]][[H5650\|עֶ֥בֶד]] [[H3867B\|לֹ֝וֶ֗ה]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H3867B\|מַלְוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.6|<< Proverbs 22:6]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.8|Proverbs 22:8 >>]]</td></tr></table>
 

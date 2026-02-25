@@ -1,8 +1,72 @@
+---
+title: Ecclesiastes 11:9
+type: Verse
+kjv: "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment."
+bsb: "Rejoice, O young man, while you are young, and let your heart be glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you to judgment."
+hebrew: "שְׂמַ֧ח בָּח֣וּר בְּיַלְדוּתֶ֗יךָ וִֽיטִֽיבְךָ֤ לִבְּךָ֙ בִּימֵ֣י בְחוּרוֹתֶ֔ךָ וְהַלֵּךְ֙ בְּדַרְכֵ֣י לִבְּךָ֔ וּבְמַרְאֵ֖י עֵינֶ֑יךָ וְדָ֕ע כִּ֧י עַל־ כָּל־ אֵ֛לֶּה יְבִֽיאֲךָ֥ הָאֱלֹהִ֖ים בַּמִּשְׁפָּֽט׃"
+pericope: "[[Eccl.11.7 Enjoy Your Years|Enjoy Your Years]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H8055]]"
+- "[[H0970]]"
+- "[[H9003]]"
+- "[[H3208]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3190]]"
+- "[[H9031]]"
+- "[[H3820A]]"
+- "[[H3117G]]"
+- "[[H0979]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H4758]]"
+- "[[H5869A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:9**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these [things] God will bring thee into judgment.
 <small><sub>**BSB:**</sub></small>
 Rejoice, O young man, while you are young, and let your heart be glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you to judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|שְׂמַ֧ח]] [[H0970\|בָּח֣וּר]] [[H9003\|בְּ]][[H3208\|יַלְדוּתֶ֗י]][[H9021\|ךָ]] [[H9002\|וִֽ]][[H3190\|יטִֽיבְ]][[H9031\|ךָ֤]] [[H3820A\|לִבְּ]][[H9021\|ךָ֙]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H0979\|בְחוּרוֹתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H1980I\|הַלֵּךְ֙]] [[H9003\|בְּ]][[H1870G\|דַרְכֵ֣י]] [[H3820A\|לִבְּ]][[H9021\|ךָ֔]] [[H9002\|וּ]][[H9003\|בְ]][[H4758\|מַרְאֵ֖י]] [[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3045\|דָ֕ע]] [[H3588A\|כִּ֧י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֛לֶּה]] [[H0935P\|יְבִֽיאֲ]][[H9031\|ךָ֥]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בַּ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SENSUALITY|SENSUALITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.8|<< Ecclesiastes 11:8]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.10|Ecclesiastes 11:10 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Ezekiel 11:4
+type: Verse
+kjv: "Therefore prophesy against them, prophesy, O son of man."
+bsb: "Therefore prophesy against them; prophesy, O son of man!”"
+hebrew: "לָכֵ֖ן הִנָּבֵ֣א עֲלֵיהֶ֑ם הִנָּבֵ֖א בֶּן־ אָדָֽם׃"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:4**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy against them, prophesy, O son of man.
 <small><sub>**BSB:**</sub></small>
 Therefore prophesy against them; prophesy, O son of man!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֖ן]] [[H5012\|הִנָּבֵ֣א]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H5012\|הִנָּבֵ֖א]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CALDRON|CALDRON]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic PELATIAH|PELATIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.3|<< Ezekiel 11:3]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.5|Ezekiel 11:5 >>]]</td></tr></table>
 

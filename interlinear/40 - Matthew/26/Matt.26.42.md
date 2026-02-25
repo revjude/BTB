@@ -1,10 +1,77 @@
+---
+title: Matthew 26:42
+type: Verse
+kjv: "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+bsb: "A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.”"
+jesus_said: "O my Father, if this cup may not pass away from me, except I drink it, thy will be done."
+greek: "Πάλιν ἐκ δευτέρου ἀπελθὼν προσηύξατο λέγων· πάτερ μου, εἰ οὐ δύναται τοῦτο τὸ ποτήριον παρελθεῖν ἀπ᾽ ἐμοῦ ἐὰν μὴ αὐτὸ πίω, γενηθήτω τὸ θέλημά σου."
+pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic SUBMISSION|SUBMISSION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G3825]]"
+- "[[G1537]]"
+- "[[G1208]]"
+- "[[G0565]]"
+- "[[G4336]]"
+- "[[G3004G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1487G]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G3928]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0846]]"
+- "[[G4095]]"
+- "[[G1096]]"
+- "[[G2307]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 26:42**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.
 <small><sub>**BSB:**</sub></small>
 A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.”
-<small><sub>**Literal:**</sub></small>
-Again for a second time having gone away He prayed saying; Father of Mine, if not is possible this <the> cup to pass from Me only unless it I shall drink, [then] should be [done] the will of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.41|<< Matthew 26:41]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.43|Matthew 26:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G1537\|ἐκ]]  [[G1208\|δευτέρου]]  [[G0565\|ἀπελθὼν]]  [[G4336\|προσηύξατο]]  [[G3004G\|λέγων·]]  [[G3962\|πάτερ]]  [[G3165\|μου,]]  [[G1487G\|εἰ]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3928\|παρελθεῖν]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G0846\|αὐτὸ]]  [[G4095\|πίω,]]  [[G1096\|γενηθήτω]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic SORROW|SORROW]] • [[topic SUBMISSION|SUBMISSION]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.41|<< Matthew 26:41]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.43|Matthew 26:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

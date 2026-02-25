@@ -1,8 +1,68 @@
+---
+title: Leviticus 27:15
+type: Verse
+kjv: "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
+bsb: "But if he who consecrated his house redeems it, he must add a fifth to the assessed value, and it will belong to him."
+hebrew: "וְאִ֨ם־ הַמַּקְדִּ֔ישׁ יִגְאַ֖ל אֶת־ בֵּית֑וֹ וְ֠יָסַף חֲמִישִׁ֧ית כֶּֽסֶף־ עֶרְכְּךָ֛ עָלָ֖יו וְהָ֥יָה לֽוֹ׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6942H]]"
+- "[[H1350A]]"
+- "[[H0853]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H2549]]"
+- "[[H3701H]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:15**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he that sanctified it will redeem his house, then he shall add the fifth [part] of the money of thy estimation unto it, and it shall be his.
 <small><sub>**BSB:**</sub></small>
 But if he who consecrated his house redeems it, he must add a fifth to the assessed value, and it will belong to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֨ם]][[H9014\|־]] [[H9009\|הַ]][[H6942H\|מַּקְדִּ֔ישׁ]] [[H1350A\|יִגְאַ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וְ֠]][[H3254H\|יָסַף]] [[H2549\|חֲמִישִׁ֧ית]] [[H3701H\|כֶּֽסֶף]][[H9014\|־]] [[H6187\|עֶרְכְּ]][[H9021\|ךָ֛]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וְ]][[H1961\|הָ֥יָה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.14|<< Leviticus 27:14]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.16|Leviticus 27:16 >>]]</td></tr></table>
 

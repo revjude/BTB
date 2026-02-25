@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 11:46
+type: Verse
+kjv: "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,"
+bsb: "Eliel the Mahavite, Jeribai and Joshaviah, the sons of Elnaam, Ithmah the Moabite,"
+hebrew: "אֱלִיאֵל֙ הַֽמַּחֲוִ֔ים וִירִיבַ֥י וְיוֹשַׁוְיָ֖ה בְּנֵ֣י אֶלְנָ֑עַם וְיִתְמָ֖ה הַמּוֹאָבִֽי׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELIEL|ELIEL]]"
+- "[[topic ELNAAM|ELNAAM]]"
+- "[[topic ITHMAH|ITHMAH]]"
+- "[[topic JERIBAI|JERIBAI]]"
+- "[[topic JOSHAVIAH|JOSHAVIAH]]"
+strongs:
+- "[[H0447J]]"
+- "[[H9009]]"
+- "[[H4233]]"
+- "[[H9002]]"
+- "[[H3403]]"
+- "[[H3145]]"
+- "[[H1121A]]"
+- "[[H0493]]"
+- "[[H3495]]"
+- "[[H4125]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:46**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,
 <small><sub>**BSB:**</sub></small>
 Eliel the Mahavite, Jeribai and Joshaviah, the sons of Elnaam, Ithmah the Moabite,
+<small><sub>**Hebrew:**</sub></small>
+[[H0447J\|אֱלִיאֵל֙]] [[H9009\|הַֽ]][[H4233\|מַּחֲוִ֔ים]] [[H9002\|וִ]][[H3403\|ירִיבַ֥י]] [[H9002\|וְ]][[H3145\|יוֹשַׁוְיָ֖ה]] [[H1121A\|בְּנֵ֣י]] [[H0493\|אֶלְנָ֑עַם]] [[H9002\|וְ]][[H3495\|יִתְמָ֖ה]] [[H9009\|הַ]][[H4125\|מּוֹאָבִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELIEL|ELIEL]] • [[topic ELNAAM|ELNAAM]] • [[topic ITHMAH|ITHMAH]] • [[topic JERIBAI|JERIBAI]] • [[topic JOSHAVIAH|JOSHAVIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.45|<< 1 Chronicles 11:45]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.47|1 Chronicles 11:47 >>]]</td></tr></table>
 

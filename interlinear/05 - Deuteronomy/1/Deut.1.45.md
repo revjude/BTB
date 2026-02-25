@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 1:45
+type: Verse
+kjv: "And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you."
+bsb: "And you returned and wept before the LORD, but He would not listen to your voice or give ear to you."
+hebrew: "וַתָּשֻׁ֥בוּ וַתִּבְכּ֖וּ לִפְנֵ֣י יְהוָ֑ה וְלֹֽא־ שָׁמַ֤ע יְהוָה֙ בְּקֹ֣לְכֶ֔ם וְלֹ֥א הֶאֱזִ֖ין אֲלֵיכֶֽם׃"
+pericope: "[[Deut.1.41 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1058]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9026]]"
+- "[[H0238]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:45**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.
 <small><sub>**BSB:**</sub></small>
 And you returned and wept before the LORD, but He would not listen to your voice or give ear to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|תָּשֻׁ֥בוּ]] [[H9001\|וַ]][[H1058\|תִּבְכּ֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמַ֤ע]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H6963A\|קֹ֣לְ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0238\|הֶאֱזִ֖ין]] [[H0413\|אֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.44|<< Deuteronomy 1:44]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.46|Deuteronomy 1:46 >>]]</td></tr></table>
 

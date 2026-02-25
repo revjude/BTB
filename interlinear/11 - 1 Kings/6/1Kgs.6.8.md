@@ -1,8 +1,59 @@
+---
+title: 1 Kings 6:8
+type: Verse
+kjv: "The door for the middle chamber was in the right side of the house: and they went up with winding stairs into the middle chamber, and out of the middle into the third."
+bsb: "The entrance to the bottom floor was on the south side of the temple. A stairway led up to the middle level, and from there to the third floor."
+hebrew: "פֶּ֗תַח הַצֵּלָע֙ הַתִּ֣יכֹנָ֔ה אֶל־ כֶּ֥תֶף הַבַּ֖יִת הַיְמָנִ֑ית וּבְלוּלִּ֗ים יַֽעֲלוּ֙ עַל־ הַתִּ֣יכֹנָ֔ה וּמִן־ הַתִּֽיכֹנָ֖ה אֶל־ הַשְּׁלִשִֽׁים׃"
+pericope: "[[1Kgs.6.5 The Chambers|The Chambers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H6763]]"
+- "[[H8484]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H1004B]]"
+- "[[H3233H]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3883]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H4480A]]"
+- "[[H7992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:8**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The door for the middle chamber [was] in the right side of the house: and they went up with winding stairs into the middle [chamber], and out of the middle into the third.
 <small><sub>**BSB:**</sub></small>
 The entrance to the bottom floor was on the south side of the temple. A stairway led up to the middle level, and from there to the third floor.
+<small><sub>**Hebrew:**</sub></small>
+[[H6607\|פֶּ֗תַח]] [[H9009\|הַ]][[H6763\|צֵּלָע֙]] [[H9009\|הַ]][[H8484\|תִּ֣יכֹנָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כֶּ֥תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9009\|הַ]][[H3233H\|יְמָנִ֑ית]] [[H9002\|וּ]][[H9003\|בְ]][[H3883\|לוּלִּ֗ים]] [[H5927G\|יַֽעֲלוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8484\|תִּ֣יכֹנָ֔ה]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8484\|תִּֽיכֹנָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7992\|שְּׁלִשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.7|<< 1 Kings 6:7]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.9|1 Kings 6:9 >>]]</td></tr></table>
 

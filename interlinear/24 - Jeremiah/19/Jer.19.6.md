@@ -1,8 +1,70 @@
+---
+title: Jeremiah 19:6
+type: Verse
+kjv: "Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter."
+bsb: "So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter."
+hebrew: "לָכֵ֞ן הִנֵּֽה־ יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וְלֹא־ יִקָּרֵא֩ לַמָּק֨וֹם הַזֶּ֥ה ע֛וֹד הַתֹּ֖פֶת וְגֵ֣יא בֶן־ הִנֹּ֑ם כִּ֖י אִם־ גֵּ֥יא הַהֲרֵגָֽה׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7121H]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5750]]"
+- "[[H8612]]"
+- "[[H1516R]]"
+- "[[H1121A]]"
+- "[[H2011H]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H2028G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:6**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.
 <small><sub>**BSB:**</sub></small>
 So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7121H\|יִקָּרֵא֩]] [[H9005\|לַ]][[H4725\|מָּק֨וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֥ה]] [[H5750\|ע֛וֹד]] [[H9009\|הַ]][[H8612\|תֹּ֖פֶת]] [[H9002\|וְ]][[H1516R\|גֵ֣יא]] [[H1121A\|בֶן]][[H9014\|־]] [[H2011H\|הִנֹּ֑ם]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H1516R\|גֵּ֥יא]] [[H9009\|הַ]][[H2028G\|הֲרֵגָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HINNOM|HINNOM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.5|<< Jeremiah 19:5]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.7|Jeremiah 19:7 >>]]</td></tr></table>
 

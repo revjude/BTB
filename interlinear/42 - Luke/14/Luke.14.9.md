@@ -1,10 +1,63 @@
+---
+title: Luke 14:9
+type: Verse
+kjv: "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room."
+bsb: "Then the host who invited both of you will come and tell you, ‘Give this man your seat.’ And in humiliation, you will have to take the last place."
+jesus_said: "And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room."
+greek: "καὶ ἐλθὼν ὁ σὲ καὶ αὐτὸν καλέσας ἐρεῖ σοι· δὸς τούτῳ τόπον. καὶ τότε ἄρξῃ μετὰ αἰσχύνης τὸν ἔσχατον τόπον κατέχειν."
+pericope: "[[Luke.14.7 The Parable of the Guests|The Parable of the Guests]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G0846]]"
+- "[[G2564G]]"
+- "[[G4483]]"
+- "[[G1325]]"
+- "[[G3778]]"
+- "[[G5117]]"
+- "[[G5119]]"
+- "[[G0757]]"
+- "[[G3326]]"
+- "[[G0152]]"
+- "[[G2078]]"
+- "[[G2722]]"
+texts:
+- NKO
+---
+
 **Luke 14:9**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.
 <small><sub>**BSB:**</sub></small>
 Then the host who invited both of you will come and tell you, ‘Give this man your seat.’ And in humiliation, you will have to take the last place.
-<small><sub>**Literal:**</sub></small>
-and having come the [one] you and him having invited he will say to you; do give to this one [your] place. and then you will begin with shame the last place to take.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.8|<< Luke 14:8]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.10|Luke 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G3588\|ὁ]]  [[G4771\|σὲ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸν]]  [[G2564G\|καλέσας]]  [[G4483\|ἐρεῖ]]  [[G4771\|σοι·]]  [[G1325\|δὸς]]  [[G3778\|τούτῳ]]  [[G5117\|τόπον.]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G0757\|ἄρξῃ]]  [[G3326\|μετὰ]]  [[G0152\|αἰσχύνης]]  [[G3588\|τὸν]]  [[G2078\|ἔσχατον]]  [[G5117\|τόπον]]  [[G2722\|κατέχειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic GUEST|GUEST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.8|<< Luke 14:8]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.10|Luke 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

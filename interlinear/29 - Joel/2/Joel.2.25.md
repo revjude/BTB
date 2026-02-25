@@ -1,8 +1,65 @@
+---
+title: Joel 2:25
+type: Verse
+kjv: "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you."
+bsb: "I will repay you for the years eaten by locusts—the swarming locust, the young locust, the destroying locust, and the devouring locust—My great army that I sent against you."
+hebrew: "וְשִׁלַּמְתִּ֤י לָכֶם֙ אֶת־ הַשָּׁנִ֔ים אֲשֶׁר֙ אָכַ֣ל הָֽאַרְבֶּ֔ה הַיֶּ֖לֶק וְהֶחָסִ֣יל וְהַגָּזָ֑ם חֵילִי֙ הַגָּד֔וֹל אֲשֶׁ֥ר שִׁלַּ֖חְתִּי בָּכֶֽם׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CANKERWORM|CANKERWORM]]"
+- "[[topic CATERPILLAR|CATERPILLAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PALMER-WORM|PALMER-WORM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H0697]]"
+- "[[H3218]]"
+- "[[H9002]]"
+- "[[H2625]]"
+- "[[H1501]]"
+- "[[H2428A]]"
+- "[[H9020]]"
+- "[[H1419A]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:25**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.
 <small><sub>**BSB:**</sub></small>
 I will repay you for the years eaten by locusts—the swarming locust, the young locust, the destroying locust, and the devouring locust—My great army that I sent against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7999A\|שִׁלַּמְתִּ֤י]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8141\|שָּׁנִ֔ים]] [[H0834A\|אֲשֶׁר֙]] [[H0398\|אָכַ֣ל]] [[H9009\|הָֽ]][[H0697\|אַרְבֶּ֔ה]] [[H9009\|הַ]][[H3218\|יֶּ֖לֶק]] [[H9002\|וְ]][[H9009\|הֶ]][[H2625\|חָסִ֣יל]] [[H9002\|וְ]][[H9009\|הַ]][[H1501\|גָּזָ֑ם]] [[H2428A\|חֵילִ]][[H9020\|י֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|שִׁלַּ֖חְתִּי]] [[H9003\|בָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANKERWORM|CANKERWORM]] • [[topic CATERPILLAR|CATERPILLAR]] • [[topic GOD|GOD]] • [[topic PALMER-WORM|PALMER-WORM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.24|<< Joel 2:24]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.26|Joel 2:26 >>]]</td></tr></table>
 

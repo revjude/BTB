@@ -1,8 +1,69 @@
+---
+title: Exodus 30:36
+type: Verse
+kjv: "And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy."
+bsb: "Grind some of it into fine powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you."
+hebrew: "וְשָֽׁחַקְתָּ֣ מִמֶּנָּה֮ הָדֵק֒ וְנָתַתָּ֨ה מִמֶּ֜נָּה לִפְנֵ֤י הָעֵדֻת֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָׁ֑מָּה קֹ֥דֶשׁ קָֽדָשִׁ֖ים תִּהְיֶ֥ה לָכֶֽם׃"
+pericope: "[[Exod.30.34 The Incense|The Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BEATEN WORK|BEATEN WORK]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7833]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H1854]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0834A]]"
+- "[[H3259]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:36**<big><big>[[Exod.30.34 The Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt beat [some] of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.
 <small><sub>**BSB:**</sub></small>
 Grind some of it into fine powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7833\|שָֽׁחַקְתָּ֣]] [[H4480A\|מִמֶּ]][[H9034\|נָּה֮]] [[H1854\|הָדֵק֒]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֨ה]] [[H4480A\|מִמֶּ֜]][[H9034\|נָּה]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הָ]][[H5715\|עֵדֻת֙]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H0834A\|אֲשֶׁ֛ר]] [[H3259\|אִוָּעֵ֥ד]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1961\|תִּהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEATEN WORK|BEATEN WORK]] • [[topic INCENSE|INCENSE]] • [[topic MERCY-SEAT|MERCY-SEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.35|<< Exodus 30:35]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.37|Exodus 30:37 >>]]</td></tr></table>
 

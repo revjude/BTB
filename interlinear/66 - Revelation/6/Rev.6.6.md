@@ -1,10 +1,67 @@
+---
+title: Revelation 6:6
+type: Verse
+kjv: "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."
+bsb: "And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine.”"
+greek: "καὶ ἤκουσα ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· χοῖνιξ σίτου δηναρίου καὶ τρεῖς χοίνικες κριθῶν δηναρίου, καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς.¶"
+pericope: "[[Rev.6.5 The Third Seal：Famine|The Third Seal：Famine]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5613]]"
+- "[[G5456G]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G5518]]"
+- "[[G4621]]"
+- "[[G1220]]"
+- "[[G5140]]"
+- "[[G2915]]"
+- "[[G1637]]"
+- "[[G3631]]"
+- "[[G3361]]"
+- "[[G0091]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Revelation 6:6**<big><big>[[Rev.6.5 The Third Seal：Famine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine.
 <small><sub>**BSB:**</sub></small>
 And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine.”
-<small><sub>**Literal:**</sub></small>
-And I heard [something] like a voice in [the] midst of the four living creatures saying; A choenix of wheat for a denarius and three choenixes of barley for a denarius, and the oil and the wine not you may injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.5|<< Revelation 6:5]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.7|Revelation 6:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴν]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G3004G\|λέγουσαν·]]  [[G5518\|χοῖνιξ]]  [[G4621\|σίτου]]  [[G1220\|δηναρίου]]  [[G2532\|καὶ]]  [[G5140\|τρεῖς]]  [[G5518\|χοίνικες]]  [[G2915\|κριθῶν]]  [[G1220\|δηναρίου,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1637\|ἔλαιον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3631\|οἶνον]]  [[G3361\|μὴ]]  [[G0091\|ἀδικήσῃς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BARLEY|BARLEY]] • [[topic FAMINE|FAMINE]] • [[topic HORSE|HORSE]] • [[topic VISION|VISION]] • [[topic WHEAT|WHEAT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.5|<< Revelation 6:5]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.7|Revelation 6:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

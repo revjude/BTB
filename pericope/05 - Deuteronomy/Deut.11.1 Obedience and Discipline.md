@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Obedience and Discipline
+type: Pericope
 pericope: "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 11
 book/chapter: "[[Deut.11|Deuteronomy 11]]"
-genre:
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.11.1]]"
 - "[[Deut.11.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.11.7]]"
 ---
 
-[[Deut.11|Deuteronomy 11:1 - Deuteronomy 11:7]]
+<small>[[Deut.11|Deuteronomy 11:1-7]]</small>
 *Obedience and Discipline*
 
 [[Deut.11.1|1]] Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.

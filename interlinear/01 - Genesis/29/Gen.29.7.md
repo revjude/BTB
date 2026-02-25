@@ -1,8 +1,61 @@
+---
+title: Genesis 29:7
+type: Verse
+kjv: "And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them."
+bsb: "“Look,” said Jacob, “it is still broad daylight; it is not yet time to gather the livestock. Water the sheep and take them back to pasture.”"
+hebrew: "וַיֹּ֗אמֶר הֵ֥ן עוֹד֙ הַיּ֣וֹם גָּד֔וֹל לֹא־ עֵ֖ת הֵאָסֵ֣ף הַמִּקְנֶ֑ה הַשְׁק֥וּ הַצֹּ֖אן וּלְכ֥וּ רְעֽוּ׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1419A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6256]]"
+- "[[H0622]]"
+- "[[H4735]]"
+- "[[H8248G]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H7462B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:7**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Lo, [it is] yet high day, neither [is it] time that the cattle should be gathered together: water ye the sheep, and go [and] feed [them].
 <small><sub>**BSB:**</sub></small>
 “Look,” said Jacob, “it is still broad daylight; it is not yet time to gather the livestock. Water the sheep and take them back to pasture.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2005\|הֵ֥ן]] [[H5750\|עוֹד֙]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H1419A\|גָּד֔וֹל]] [[H3808\|לֹא]][[H9014\|־]] [[H6256\|עֵ֖ת]] [[H0622\|הֵאָסֵ֣ף]] [[H9009\|הַ]][[H4735\|מִּקְנֶ֑ה]] [[H8248G\|הַשְׁק֥וּ]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H9002\|וּ]][[H1980G\|לְכ֥וּ]] [[H7462B\|רְעֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.6|<< Genesis 29:6]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.8|Genesis 29:8 >>]]</td></tr></table>
 

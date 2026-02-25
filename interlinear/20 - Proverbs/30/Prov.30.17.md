@@ -1,8 +1,62 @@
+---
+title: Proverbs 30:17
+type: Verse
+kjv: "The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
+bsb: "As for the eye that mocks a father and scorns obedience to a mother, may the ravens of the valley pluck it out and young vultures devour it."
+hebrew: "עַ֤יִן׀ תִּֽלְעַ֣ג לְאָב֮ וְתָב֪וּז לִֽיקֲּהַ֫ת־ אֵ֥ם יִקְּר֥וּהָ עֹרְבֵי־ נַ֑חַל וְֽיֹאכְל֥וּהָ בְנֵי־ נָֽשֶׁר׃ פ"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic RAVEN|RAVEN]]"
+strongs:
+- "[[H5869A]]"
+- "[[H9015]]"
+- "[[H3932]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H0936]]"
+- "[[H3349]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H5365]]"
+- "[[H9034]]"
+- "[[H6158]]"
+- "[[H5158N]]"
+- "[[H0398]]"
+- "[[H1121H]]"
+- "[[H5404]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 30:17**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
 <small><sub>**BSB:**</sub></small>
 As for the eye that mocks a father and scorns obedience to a mother, may the ravens of the valley pluck it out and young vultures devour it.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עַ֤יִן]][[H9015\|׀]] [[H3932\|תִּֽלְעַ֣ג]] [[H9005\|לְ]][[H0001G\|אָב֮]] [[H9002\|וְ]][[H0936\|תָב֪וּז]] [[H9005\|לִֽ]][[H3349\|יקֲּהַ֫ת]][[H9014\|־]] [[H0517\|אֵ֥ם]] [[H5365\|יִקְּר֥וּ]][[H9034\|הָ]] [[H6158\|עֹרְבֵי]][[H9014\|־]] [[H5158N\|נַ֑חַל]] [[H9002\|וְֽ]][[H0398\|יֹאכְל֥וּ]][[H9034\|הָ]] [[H1121H\|בְנֵי]][[H9014\|־]] [[H5404\|נָֽשֶׁר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic RAVEN|RAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ As for the eye that mocks a father and scorns obedience to a mother, may the rav
 | [the] wadi  |**<big>&#8207;[[H5158N\|נַ֑חַל]]&#8207; </big>**| Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will eat it  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0398\|יֹאכְל֥וּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.khe.Lu.<small><sup>[[HVqu3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] young of  |**<big>&#8207;[[H1121H\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an eagle  |**<big>&#8207;[[H5404\|נָֽשֶׁר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Na.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an eagle  |**<big>&#8207;[[H5404\|נָֽשֶׁר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Na.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
 

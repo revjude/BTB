@@ -1,8 +1,74 @@
+---
+title: Judges 19:18
+type: Verse
+kjv: "And he said unto him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from thence am I: and I went to Bethlehemjudah, but I am now going to the house of the LORD; and there is no man that receiveth me to house."
+bsb: "The Levite replied, “We are traveling from Bethlehem in Judah to the remote hill country of Ephraim, where I am from. I went to Bethlehem in Judah, and now I am going to the house of the LORD; but no one has taken me into his home,"
+hebrew: "וַיֹּ֣אמֶר אֵלָ֗יו עֹבְרִ֨ים אֲנַ֜חְנוּ מִבֵּֽית־ לֶ֣חֶם יְהוּדָה֮ עַד־ יַרְכְּתֵ֣י הַר־ אֶפְרַיִם֒ מִשָּׁ֣ם אָנֹ֔כִי וָאֵלֵ֕ךְ עַד־ בֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וְאֶת־ בֵּ֤ית יְהוָה֙ אֲנִ֣י הֹלֵ֔ךְ וְאֵ֣ין אִ֔ישׁ מְאַסֵּ֥ף אוֹתִ֖י הַבָּֽיְתָה׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5674A]]"
+- "[[H0587]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5704]]"
+- "[[H3411]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H8033G]]"
+- "[[H0595]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0589]]"
+- "[[H0369]]"
+- "[[H0376I]]"
+- "[[H0622]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:18**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, We [are] passing from Bethlehemjudah toward the side of mount Ephraim; from thence [am] I: and I went to Bethlehemjudah, but I [am now] going to the house of the LORD; and there [is] no man that receiveth me to house.
 <small><sub>**BSB:**</sub></small>
 The Levite replied, “We are traveling from Bethlehem in Judah to the remote hill country of Ephraim, where I am from. I went to Bethlehem in Judah, and now I am going to the house of the LORD; but no one has taken me into his home,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5674A\|עֹבְרִ֨ים]] [[H0587\|אֲנַ֜חְנוּ]] [[H9006\|מִ]][[H1035G\|בֵּֽית]][[H9014\|־]] [[H1035G\|לֶ֣חֶם]] [[H3063G\|יְהוּדָה֮]] [[H5704\|עַד]][[H9014\|־]] [[H3411\|יַרְכְּתֵ֣י]] [[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרַיִם֒]] [[H9006\|מִ]][[H8033G\|שָּׁ֣ם]] [[H0595\|אָנֹ֔כִי]] [[H9001\|וָ]][[H1980G\|אֵלֵ֕ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֖חֶם]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֤ית]] [[H3068G\|יְהוָה֙]] [[H0589\|אֲנִ֣י]] [[H1980G\|הֹלֵ֔ךְ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H0376I\|אִ֔ישׁ]] [[H0622\|מְאַסֵּ֥ף]] [[H0853\|אוֹתִ֖]][[H9030\|י]] [[H9009\|הַ]][[H1004B\|בָּֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic CHURCH|CHURCH]] • [[topic GIBEAH|GIBEAH]] • [[topic HOSPITALITY|HOSPITALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.17|<< Judges 19:17]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.19|Judges 19:19 >>]]</td></tr></table>
 

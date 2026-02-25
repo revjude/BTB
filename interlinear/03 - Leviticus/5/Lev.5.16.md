@@ -1,8 +1,74 @@
+---
+title: Leviticus 5:16
+type: Verse
+kjv: "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him."
+bsb: "Regarding any holy thing he has harmed, he must make restitution by adding a fifth of its value to it and giving it to the priest, who will make atonement on his behalf with the ram as a guilt offering, and he will be forgiven."
+hebrew: "וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־ הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־ חֲמִֽישִׁתוֹ֙ יוֹסֵ֣ף עָלָ֔יו וְנָתַ֥ן אֹת֖וֹ לַכֹּהֵ֑ן וְהַכֹּהֵ֗ן יְכַפֵּ֥ר עָלָ֛יו בְּאֵ֥יל הָאָשָׁ֖ם וְנִסְלַ֥ח לֽוֹ׃ פ"
+pericope: "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FINE|FINE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H7999A]]"
+- "[[H2549]]"
+- "[[H9023]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H3722A]]"
+- "[[H9003]]"
+- "[[H0352A]]"
+- "[[H0817]]"
+- "[[H5545]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 5:16**<big><big>[[Lev.5.14 Laws for Guilt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
 Regarding any holy thing he has harmed, he must make restitution by adding a fifth of its value to it and giving it to the priest, who will make atonement on his behalf with the ram as a guilt offering, and he will be forgiven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר֩]] [[H2398\|חָטָ֨א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֜דֶשׁ]] [[H7999A\|יְשַׁלֵּ֗ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2549\|חֲמִֽישִׁת]][[H9023\|וֹ֙]] [[H3254H\|יוֹסֵ֣ף]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לַ]][[H3548\|כֹּהֵ֑ן]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H3722A\|יְכַפֵּ֥ר]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9003\|בְּ]][[H0352A\|אֵ֥יל]] [[H9009\|הָ]][[H0817\|אָשָׁ֖ם]] [[H9001\|וְ]][[H5545\|נִסְלַ֥ח]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic FINE|FINE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.15|<< Leviticus 5:15]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.17|Leviticus 5:17 >>]]</td></tr></table>
 
@@ -27,7 +93,7 @@ Regarding any holy thing he has harmed, he must make restitution by adding a fif
 | by [the] ram of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0352A\|אֵ֥יל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Eil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the guilt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0817\|אָשָׁ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Sham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be forgiven  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5545\|נִסְלַ֥ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nis.Lach<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.15|<< Leviticus 5:15]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.17|Leviticus 5:17 >>]]</td></tr></table>
 
 

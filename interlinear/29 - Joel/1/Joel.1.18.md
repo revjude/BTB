@@ -1,8 +1,60 @@
+---
+title: Joel 1:18
+type: Verse
+kjv: "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate."
+bsb: "How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering."
+hebrew: "מַה־ נֶּאֶנְחָ֣ה בְהֵמָ֗ה נָבֹ֙כוּ֙ עֶדְרֵ֣י בָקָ֔ר כִּ֛י אֵ֥ין מִרְעֶ֖ה לָהֶ֑ם גַּם־ עֶדְרֵ֥י הַצֹּ֖אן נֶאְשָֽׁמוּ׃"
+pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0584]]"
+- "[[H0929]]"
+- "[[H0943]]"
+- "[[H5739]]"
+- "[[H1241]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4829]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1571]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:18**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.
 <small><sub>**BSB:**</sub></small>
 How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H0584\|נֶּאֶנְחָ֣ה]] [[H0929\|בְהֵמָ֗ה]] [[H0943\|נָבֹ֙כוּ֙]] [[H5739\|עֶדְרֵ֣י]] [[H1241\|בָקָ֔ר]] [[H3588A\|כִּ֛י]] [[H0369\|אֵ֥ין]] [[H4829\|מִרְעֶ֖ה]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H1571\|גַּם]][[H9014\|־]] [[H5739\|עֶדְרֵ֥י]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H0816\|נֶאְשָֽׁמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FAMINE|FAMINE]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.17|<< Joel 1:17]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.19|Joel 1:19 >>]]</td></tr></table>
 

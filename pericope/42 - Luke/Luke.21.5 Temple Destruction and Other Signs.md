@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temple Destruction and Other Signs
+type: Pericope
 pericope: "[[Luke.21.5 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 21
 book/chapter: "[[Luke.21|Luke 21]]"
-genre:
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.21.5]]"
 - "[[Luke.21.6]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.21.9]]"
 ---
 
-[[Luke.21|Luke 21:5 - Luke 21:9]]
+<small>[[Luke.21|Luke 21:5-9]]</small>
 *Temple Destruction and Other Signs*
 
 [[Luke.21.5|5]] And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,

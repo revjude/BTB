@@ -1,10 +1,50 @@
+---
+title: Mark 13:23
+type: Verse
+kjv: "But take ye heed: behold, I have foretold you all things."
+bsb: "So be on your guard; I have told you everything in advance."
+jesus_said: "But take ye heed: behold, I have foretold you all things."
+greek: "ὑμεῖς δὲ βλέπετε· ἰδού προείρηκα ὑμῖν πάντα.¶"
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0991]]"
+- "[[G2400]]"
+- "[[G4280]]"
+- "[[G3956]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 13:23**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But take ye heed: behold, I have foretold you all things.
 <small><sub>**BSB:**</sub></small>
 So be on your guard; I have told you everything in advance.
-<small><sub>**Literal:**</sub></small>
-You yourselves however do take heed; behold I have foretold to you all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.22|<< Mark 13:22]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.24|Mark 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G0991\|βλέπετε·]]  [[G2400\|ἰδού]]  [[G4280\|προείρηκα]]  [[G4771\|ὑμῖν]]  [[G3956\|πάντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.22|<< Mark 13:22]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.24|Mark 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: 1 Kings 3:13
+type: Verse
+kjv: "And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days."
+bsb: "Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal."
+hebrew: "וְגַ֨ם אֲשֶׁ֤ר לֹֽא־ שָׁאַ֙לְתָּ֙ נָתַ֣תִּי לָ֔ךְ גַּם־ עֹ֖שֶׁר גַּם־ כָּב֑וֹד אֲ֠שֶׁר לֹא־ הָיָ֨ה כָמ֥וֹךָ אִ֛ישׁ בַּמְּלָכִ֖ים כָּל־ יָמֶֽיךָ׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7592]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6239]]"
+- "[[H3519]]"
+- "[[H1961]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:13**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.
 <small><sub>**BSB:**</sub></small>
 Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֨ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7592\|שָׁאַ֙לְתָּ֙]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H6239\|עֹ֖שֶׁר]] [[H1571\|גַּם]][[H9014\|־]] [[H3519\|כָּב֑וֹד]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H3644G\|כָמ֥וֹ]][[H9031\|ךָ]] [[H0376I\|אִ֛ישׁ]] [[H9003\|בַּ]][[H4428G\|מְּלָכִ֖ים]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic LONGEVITY|LONGEVITY]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.12|<< 1 Kings 3:12]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.14|1 Kings 3:14 >>]]</td></tr></table>
 

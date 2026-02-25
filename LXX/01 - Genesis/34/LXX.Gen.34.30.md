@@ -1,6 +1,90 @@
+---
+title: LXX Genesis 34:30
+type: Verse
+lxx: "And Jacob said to Simeon and Levi, You have made me detested, so as for me to be wicked to all the ones dwelling the land, among both the Canaanites and among the Perizzites. And I am very few in number. And gathering against me, they shall cut me down, and I shall be obliterated, I and  my house."
+greek: "είπε δε Ιακώβ προς Συμεών και Λευί μισητόν με πεποιήκατε ώστε πονηρόν με είναι πάσι τοις κατοικούσι την γην εν τε τοις Χαναναίοις και εν τοις Φερεζαίοις εγώ δε ολιγοστός ειμι εν αριθμώ και συναχθέντες επ΄ εμέ συγκόψουσι με και εκτριβήσομαι εγώ και ο οίκός μου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2384]]"
+- "[[G4314]]"
+- "[[G4826]]"
+- "[[G2532]]"
+- "[[G3017]]"
+- "[[G8331]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G5620]]"
+- "[[G4190]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1722]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G5477]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H6522]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G8483]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G0706]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G9238]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G7160]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 34:30** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said to Simeon and Levi, You have made me detested, so as for me to be wicked to all the \[ones\] dwelling the land, among both the Canaanites and among the Perizzites. And I am very few in number. And gathering against me, they shall cut me down, and I shall be obliterated, I and  my house. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G2384\|Ιακώβ]] [[G4314\|προς]] [[G4826\|Συμεών]] [[G2532\|και]] [[G3017\|Λευί]] [[G8331\|μισητόν]] [[G1473\|με]] [[G4160\|πεποιήκατε]] [[G5620\|ώστε]] [[G4190\|πονηρόν]] [[G1473\|με]] [[G1510\|είναι]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G2730\|κατοικούσι]] [[G3588\|την]] [[G1093\|γην]] [[G1722\|εν]] [[G5037\|τε]] [[G3588\|τοις]] [[G5477\|Χαναναίοις]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τοις]] [[H6522\|Φερεζαίοις]] [[G1473\|εγώ]] [[G1161\|δε]] [[G8483\|ολιγοστός]] [[G1510\|ειμι]] [[G1722\|εν]] [[G0706\|αριθμώ]] [[G2532\|και]] [[G4863\|συναχθέντες]] [[G1909\|επ΄]] [[G1473\|εμέ]] [[G9238\|συγκόψουσι]] [[G1473\|με]] [[G2532\|και]] [[G7160\|εκτριβήσομαι]] [[G1473\|εγώ]] [[G2532\|και]] [[G3588\|ο]] [[G3624\|οίκός]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SIMEON|SIMEON]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.29|<< Genesis 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.31|Genesis 34:31 >>]]</td></tr></table>
 
@@ -47,6 +131,6 @@ And Jacob said to Simeon and Levi, You have made me detested, so as for me to be
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | my house. | **<big>[[G3624\|οίκός]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Gen.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.29|<< Genesis 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.31|Genesis 34:31 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.29|<< Genesis 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.31|Genesis 34:31 >>]]</td></tr></table>
 
 

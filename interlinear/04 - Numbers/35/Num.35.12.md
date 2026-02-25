@@ -1,8 +1,67 @@
+---
+title: Numbers 35:12
+type: Verse
+kjv: "And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment."
+bsb: "You are to have these cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly."
+hebrew: "וְהָי֨וּ לָכֶ֧ם הֶעָרִ֛ים לְמִקְלָ֖ט מִגֹּאֵ֑ל וְלֹ֤א יָמוּת֙ הָרֹצֵ֔חַ עַד־ עָמְד֛וֹ לִפְנֵ֥י הָעֵדָ֖ה לַמִּשְׁפָּֽט׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H4733]]"
+- "[[H9006]]"
+- "[[H1350H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H7523]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H9043]]"
+- "[[H6440G]]"
+- "[[H5712]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:12**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
 <small><sub>**BSB:**</sub></small>
 You are to have these cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֧ם]] [[H9009\|הֶ]][[H5892B\|עָרִ֛ים]] [[H9005\|לְ]][[H4733\|מִקְלָ֖ט]] [[H9006\|מִ]][[H1350H\|גֹּאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H4191\|יָמוּת֙]] [[H9009\|הָ]][[H7523\|רֹצֵ֔חַ]] [[H5704\|עַד]][[H9014\|־]] [[H5975G\|עָמְד֛]][[H9043\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.11|<< Numbers 35:11]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.13|Numbers 35:13 >>]]</td></tr></table>
 

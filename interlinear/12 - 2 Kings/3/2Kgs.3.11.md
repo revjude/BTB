@@ -1,8 +1,74 @@
+---
+title: 2 Kings 3:11
+type: Verse
+kjv: "But Jehoshaphat said, Is there not here a prophet of the LORD, that we may inquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here is Elisha the son of Shaphat, which poured water on the hands of Elijah."
+bsb: "But Jehoshaphat asked, “Is there no prophet of the LORD here? Let us inquire of the LORD through him.” And one of the servants of the king of Israel answered, “Elisha son of Shaphat is here. He used to pour water on the hands of Elijah.”"
+hebrew: "וַיֹּ֣אמֶר יְהוֹשָׁפָ֗ט הַאֵ֨ין פֹּ֤ה נָבִיא֙ לַֽיהוָ֔ה וְנִדְרְשָׁ֥ה אֶת־ יְהוָ֖ה מֵאוֹת֑וֹ וַ֠יַּעַן אֶחָ֞ד מֵעַבְדֵ֤י מֶֽלֶךְ־ יִשְׂרָאֵל֙ וַיֹּ֔אמֶר פֹּ֚ה אֱלִישָׁ֣ע בֶּן־ שָׁפָ֔ט אֲשֶׁר־ יָ֥צַק מַ֖יִם עַל־ יְדֵ֥י אֵלִיָּֽהוּ׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHAPHAT|SHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3092I]]"
+- "[[H9008]]"
+- "[[H0369]]"
+- "[[H6311]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H9033]]"
+- "[[H6030B]]"
+- "[[H0259]]"
+- "[[H5650]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0477]]"
+- "[[H1121A]]"
+- "[[H8202H]]"
+- "[[H0834A]]"
+- "[[H3332G]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H0452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:11**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehoshaphat said, [Is there] not here a prophet of the LORD, that we may inquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here [is] Elisha the son of Shaphat, which poured water on the hands of Elijah.
 <small><sub>**BSB:**</sub></small>
 But Jehoshaphat asked, “Is there no prophet of the LORD here? Let us inquire of the LORD through him.” And one of the servants of the king of Israel answered, “Elisha son of Shaphat is here. He used to pour water on the hands of Elijah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H9008\|הַ]][[H0369\|אֵ֨ין]] [[H6311\|פֹּ֤ה]] [[H5030\|נָבִיא֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H1875\|נִדְרְשָׁ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מֵ]][[H0853\|אוֹת֑]][[H9033\|וֹ]] [[H9001\|וַ֠]][[H6030B\|יַּעַן]] [[H0259\|אֶחָ֞ד]] [[H9006\|מֵ]][[H5650\|עַבְדֵ֤י]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H6311\|פֹּ֚ה]] [[H0477\|אֱלִישָׁ֣ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8202H\|שָׁפָ֔ט]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3332G\|יָ֥צַק]] [[H4325G\|מַ֖יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵ֥י]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELISHA|ELISHA]] • [[topic MOABITES|MOABITES]] • [[topic PROPHETS|PROPHETS]] • [[topic SHAPHAT|SHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 

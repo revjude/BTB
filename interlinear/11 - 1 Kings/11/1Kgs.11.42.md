@@ -1,8 +1,57 @@
+---
+title: 1 Kings 11:42
+type: Verse
+kjv: "And the time that Solomon reigned in Jerusalem over all Israel was forty years."
+bsb: "Thus the time that Solomon reigned in Jerusalem over all Israel was forty years."
+hebrew: "וְהַיָּמִ֗ים אֲשֶׁר֩ מָלַ֨ךְ שְׁלֹמֹ֤ה בִירוּשָׁלִַ֙ם֙ עַל־ כָּל־ יִשְׂרָאֵ֔ל אַרְבָּעִ֖ים שָׁנָֽה׃"
+pericope: "[[1Kgs.11.41 The Death of Solomon|The Death of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H8010]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:42**<big><big>[[1Kgs.11.41 The Death of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that Solomon reigned in Jerusalem over all Israel [was] forty years.
 <small><sub>**BSB:**</sub></small>
 Thus the time that Solomon reigned in Jerusalem over all Israel was forty years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H0834A\|אֲשֶׁר֩]] [[H4427A\|מָלַ֨ךְ]] [[H8010\|שְׁלֹמֹ֤ה]] [[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.41|<< 1 Kings 11:41]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.43|1 Kings 11:43 >>]]</td></tr></table>
 

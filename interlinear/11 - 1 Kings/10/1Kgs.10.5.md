@@ -1,8 +1,73 @@
+---
+title: 1 Kings 10:5
+type: Verse
+kjv: "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the LORD; there was no more spirit in her."
+bsb: "the food at his table, the seating of his servants, the service and attire of his attendants, his cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away."
+hebrew: "וּמַאֲכַ֣ל שֻׁלְחָנ֡וֹ וּמוֹשַׁ֣ב עֲבָדָיו֩ וּמַעֲמַ֨ד מְשָׁרְתָ֜יו וּמַלְבֻּֽשֵׁיהֶם֙ וּמַשְׁקָ֔יו וְעֹ֣לָת֔וֹ אֲשֶׁ֥ר יַעֲלֶ֖ה בֵּ֣ית יְהוָ֑ה וְלֹא־ הָ֥יָה בָ֛הּ ע֖וֹד רֽוּחַ׃"
+pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BUTLER|BUTLER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUPBEARER|CUPBEARER]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3978]]"
+- "[[H7979]]"
+- "[[H9023]]"
+- "[[H4186]]"
+- "[[H5650]]"
+- "[[H4612]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H4403]]"
+- "[[H9028]]"
+- "[[H4945A]]"
+- "[[H5930A]]"
+- "[[H0834A]]"
+- "[[H5927I]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5750]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 10:5**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the LORD; there was no more spirit in her.
 <small><sub>**BSB:**</sub></small>
 the food at his table, the seating of his servants, the service and attire of his attendants, his cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3978\|מַאֲכַ֣ל]] [[H7979\|שֻׁלְחָנ֡]][[H9023\|וֹ]] [[H9002\|וּ]][[H4186\|מוֹשַׁ֣ב]] [[H5650\|עֲבָדָי]][[H9023\|ו֩]] [[H9002\|וּ]][[H4612\|מַעֲמַ֨ד]] [[H8334\|מְשָׁרְתָ֜י]][[H9033\|ו]] [[H9002\|וּ]][[H4403\|מַלְבֻּֽשֵׁי]][[H9028\|הֶם֙]] [[H9002\|וּ]][[H4945A\|מַשְׁקָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5930A\|עֹ֣לָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5927I\|יַעֲלֶ֖ה]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יָה]] [[H9003\|בָ֛]][[H9034\|הּ]] [[H5750\|ע֖וֹד]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUTLER|BUTLER]] • [[topic CHURCH|CHURCH]] • [[topic CUPBEARER|CUPBEARER]] • [[topic QUEEN|QUEEN]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.4|<< 1 Kings 10:4]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.6|1 Kings 10:6 >>]]</td></tr></table>
 
@@ -28,7 +93,7 @@ the food at his table, the seating of his servants, the service and attire of hi
 | breath  |**<big>&#8207;[[H7307H\|רֽוּחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.4|<< 1 Kings 10:4]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.6|1 Kings 10:6 >>]]</td></tr></table>
 
-[^1]: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: servant his  | **<big>[[H8334|מְשָׁרְת]]</big><big>[[H9033|וֹ]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: servant his  | **<big>[[H8334|מְשָׁרְת]]</big><big>[[H9033|וֹ]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מְשָׁרְתָ֜ו</big></span>**
 

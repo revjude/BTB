@@ -1,8 +1,69 @@
+---
+title: Ezekiel 14:16
+type: Verse
+kjv: "Though these three men were in it, as I live, saith the Lord GOD, they shall deliver neither sons nor daughters; they only shall be delivered, but the land shall be desolate."
+bsb: "then as surely as I live, declares the Lord GOD, even if these three men were in it, they could not deliver their own sons or daughters. They alone would be delivered, but the land would be desolate."
+hebrew: "שְׁלֹ֨שֶׁת הָאֲנָשִׁ֣ים הָאֵלֶּה֮ בְּתוֹכָהּ֒ חַי־ אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם־ בָּנִ֥ים וְאִם־ בָּנ֖וֹת יַצִּ֑ילוּ הֵ֤מָּה לְבַדָּם֙ יִנָּצֵ֔לוּ וְהָאָ֖רֶץ תִּהְיֶ֥ה שְׁמָמָֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518H]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H5337]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H8077A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:16**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters; they only shall be delivered, but the land shall be desolate.
 <small><sub>**BSB:**</sub></small>
 then as surely as I live, declares the Lord GOD, even if these three men were in it, they could not deliver their own sons or daughters. They alone would be delivered, but the land would be desolate.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שְׁלֹ֨שֶׁת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]] [[H9009\|הָ]][[H0428\|אֵלֶּה֮]] [[H9003\|בְּ]][[H8432\|תוֹכָ]][[H9024\|הּ֒]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֗נִי]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H1121A\|בָּנִ֥ים]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H1323G\|בָּנ֖וֹת]] [[H5337\|יַצִּ֑ילוּ]] [[H1992\|הֵ֤מָּה]] [[H9005\|לְ]][[H0905H\|בַדָּ]][[H9038\|ם֙]] [[H5337\|יִנָּצֵ֔לוּ]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H1961\|תִּהְיֶ֥ה]] [[H8077A\|שְׁמָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.15|<< Ezekiel 14:15]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.17|Ezekiel 14:17 >>]]</td></tr></table>
 

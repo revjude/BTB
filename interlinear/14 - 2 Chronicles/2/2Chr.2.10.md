@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 2:10
+type: Verse
+kjv: "And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil."
+bsb: "I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”"
+hebrew: "וְהִנֵּ֣ה לַֽחֹטְבִ֣ים׀ לְֽכֹרְתֵ֣י׀ הָעֵצִ֡ים נָתַתִּי֩ חִטִּ֨ים׀ מַכּ֜וֹת לַעֲבָדֶ֗יךָ כֹּרִים֙ עֶשְׂרִ֣ים אֶ֔לֶף וּשְׂעֹרִ֕ים כֹּרִ֖ים עֶשְׂרִ֣ים אָ֑לֶף וְיַ֗יִן בַּתִּים֙ עֶשְׂרִ֣ים אֶ֔לֶף וְשֶׁ֕מֶן בַּתִּ֖ים עֶשְׂרִ֥ים אָֽלֶף׃ פ"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic COR|COR]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9005]]"
+- "[[H2404]]"
+- "[[H9015]]"
+- "[[H3772G]]"
+- "[[H9009]]"
+- "[[H6086G]]"
+- "[[H5414G]]"
+- "[[H2406]]"
+- "[[H4347]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3734A]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H8184]]"
+- "[[H3196]]"
+- "[[H1324]]"
+- "[[H8081]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:10**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil.
 <small><sub>**BSB:**</sub></small>
 I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H9005\|לַֽ]][[H2404\|חֹטְבִ֣ים]][[H9015\|׀]] [[H9005\|לְֽ]][[H3772G\|כֹרְתֵ֣י]][[H9015\|׀]] [[H9009\|הָ]][[H6086G\|עֵצִ֡ים]] [[H5414G\|נָתַתִּי֩]] [[H2406\|חִטִּ֨ים]][[H9015\|׀]] [[H4347\|מַכּ֜וֹת]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֗י]][[H9021\|ךָ]] [[H3734A\|כֹּרִים֙]] [[H6242\|עֶשְׂרִ֣ים]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וּ]][[H8184\|שְׂעֹרִ֕ים]] [[H3734A\|כֹּרִ֖ים]] [[H6242\|עֶשְׂרִ֣ים]] [[H0505G\|אָ֑לֶף]] [[H9002\|וְ]][[H3196\|יַ֗יִן]] [[H1324\|בַּתִּים֙]] [[H6242\|עֶשְׂרִ֣ים]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וְ]][[H8081\|שֶׁ֕מֶן]] [[H1324\|בַּתִּ֖ים]] [[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARLEY|BARLEY]] • [[topic COR|COR]] • [[topic HIRAM|HIRAM]] • [[topic MEASURE|MEASURE]] • [[topic SERVANT|SERVANT]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.9|<< 2 Chronicles 2:9]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.11|2 Chronicles 2:11 >>]]</td></tr></table>
 
@@ -30,7 +89,7 @@ I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 c
 | and oil  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8081\|שֶׁ֕מֶן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | baths  |**<big>&#8207;[[H1324\|בַּתִּ֖ים]]&#8207; </big>**| ba.Tim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.9|<< 2 Chronicles 2:9]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.11|2 Chronicles 2:11 >>]]</td></tr></table>
 
 

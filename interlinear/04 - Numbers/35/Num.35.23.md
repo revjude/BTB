@@ -1,8 +1,68 @@
+---
+title: Numbers 35:23
+type: Verse
+kjv: "Or with any stone, wherewith a man may die, seeing him not, and cast it upon him, that he die, and was not his enemy, neither sought his harm:"
+bsb: "or without looking drops a heavy stone that kills him, but he was not an enemy and did not intend to harm him,"
+hebrew: "א֣וֹ בְכָל־ אֶ֜בֶן אֲשֶׁר־ יָמ֥וּת בָּהּ֙ בְּלֹ֣א רְא֔וֹת וַיַּפֵּ֥ל עָלָ֖יו וַיָּמֹ֑ת וְהוּא֙ לֹא־ אוֹיֵ֣ב ל֔וֹ וְלֹ֥א מְבַקֵּ֖שׁ רָעָתֽוֹ׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0068G]]"
+- "[[H0834A]]"
+- "[[H4191]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H0341]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H7451C]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:23**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or with any stone, wherewith a man may die, seeing [him] not, and cast [it] upon him, that he die, and [was] not his enemy, neither sought his harm:
 <small><sub>**BSB:**</sub></small>
 or without looking drops a heavy stone that kills him, but he was not an enemy and did not intend to harm him,
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H0068G\|אֶ֜בֶן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4191\|יָמ֥וּת]] [[H9003\|בָּ]][[H9034\|הּ֙]] [[H9003\|בְּ]][[H3808\|לֹ֣א]] [[H7200G\|רְא֔וֹת]] [[H9001\|וַ]][[H5307G\|יַּפֵּ֥ל]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H3808\|לֹא]][[H9014\|־]] [[H0341\|אוֹיֵ֣ב]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1245\|מְבַקֵּ֖שׁ]] [[H7451C\|רָעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.22|<< Numbers 35:22]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.24|Numbers 35:24 >>]]</td></tr></table>
 

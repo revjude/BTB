@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 12:12
+type: Verse
+kjv: "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."
+bsb: "The body is a unit, though it is composed of many parts. And although its parts are many, they all form one body. So it is with Christ."
+greek: "Καθάπερ γὰρ τὸ σῶμα ἕν ἐστιν καὶ μέλη πολλὰ ἔχει, πάντα δὲ τὰ μέλη τοῦ σώματος τοῦ ἑνός πολλὰ ὄντα ἕν ἐστιν σῶμα, οὕτως καὶ ὁ Χριστός."
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2509]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3196]]"
+- "[[G4183]]"
+- "[[G2192]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3779]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 12:12**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ.
 <small><sub>**BSB:**</sub></small>
 The body is a unit, though it is composed of many parts. And although its parts are many, they all form one body. So it is with Christ.
-<small><sub>**Literal:**</sub></small>
-Just as for the body one is and members many has all now the members of the body of the one many being one are body, so also [is] <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.11|<< 1 Corinthians 12:11]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.13|1 Corinthians 12:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2509\|Καθάπερ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G1520\|ἕν]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3196\|μέλη]]  [[G4183\|πολλὰ]]  [[G2192\|ἔχει,]]  [[G3956\|πάντα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G3196\|μέλη]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τοῦ]]  [[G1520\|ἑνός]]  [[G4183\|πολλὰ]]  [[G1510\|ὄντα]]  [[G1520\|ἕν]]  [[G1510\|ἐστιν]]  [[G4983\|σῶμα,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.11|<< 1 Corinthians 12:11]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.13|1 Corinthians 12:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

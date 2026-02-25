@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song of Moses and the Lamb
+type: Pericope
 pericope: "[[Rev.15.1 The Song of Moses and the Lamb|The Song of Moses and the Lamb]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 15
 book/chapter: "[[Rev.15|Revelation 15]]"
-genre:
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.15.1]]"
 - "[[Rev.15.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.15.4]]"
 ---
 
-[[Rev.15|Revelation 15:1 - Revelation 15:4]]
+<small>[[Rev.15|Revelation 15:1-4]]</small>
 *The Song of Moses and the Lamb*
 
 [[Rev.15.1|1]] And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.

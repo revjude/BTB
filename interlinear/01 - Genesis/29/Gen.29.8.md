@@ -1,8 +1,64 @@
+---
+title: Genesis 29:8
+type: Verse
+kjv: "And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well’s mouth; then we water the sheep."
+bsb: "But they replied, “We cannot, until all the flocks have been gathered and the stone has been rolled away from the mouth of the well. Then we will water the sheep.”"
+hebrew: "וַיֹּאמְרוּ֮ לֹ֣א נוּכַל֒ עַ֣ד אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כָּל־ הָ֣עֲדָרִ֔ים וְגָֽלֲלוּ֙ אֶת־ הָאֶ֔בֶן מֵעַ֖ל פִּ֣י הַבְּאֵ֑ר וְהִשְׁקִ֖ינוּ הַצֹּֽאן׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5739]]"
+- "[[H1556]]"
+- "[[H0853]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H0875]]"
+- "[[H8248G]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:8**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, We cannot, until all the flocks be gathered together, and [till] they roll the stone from the well’s mouth; then we water the sheep.
 <small><sub>**BSB:**</sub></small>
 But they replied, “We cannot, until all the flocks have been gathered and the stone has been rolled away from the mouth of the well. Then we will water the sheep.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֮]] [[H3808\|לֹ֣א]] [[H3201\|נוּכַל֒]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁ֤ר]] [[H0622\|יֵאָֽסְפוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5739\|עֲדָרִ֔ים]] [[H9001\|וְ]][[H1556\|גָֽלֲלוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֶ֔בֶן]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6310G\|פִּ֣י]] [[H9009\|הַ]][[H0875\|בְּאֵ֑ר]] [[H9001\|וְ]][[H8248G\|הִשְׁקִ֖ינוּ]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.7|<< Genesis 29:7]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.9|Genesis 29:9 >>]]</td></tr></table>
 

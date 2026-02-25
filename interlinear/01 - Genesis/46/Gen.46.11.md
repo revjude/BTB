@@ -1,8 +1,54 @@
+---
+title: Genesis 46:11
+type: Verse
+kjv: "And the sons of Levi; Gershon, Kohath, and Merari."
+bsb: "The sons of Levi: Gershon, Kohath, and Merari."
+hebrew: "וּבְנֵ֖י לֵוִ֑י גֵּרְשׁ֕וֹן קְהָ֖ת וּמְרָרִֽי׃"
+pericope: "[[Gen.46.8 The Children of Leah|The Children of Leah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic KOHATH|KOHATH]]"
+- "[[topic MERARI|MERARI]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3878]]"
+- "[[H1648]]"
+- "[[H6955]]"
+- "[[H4847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:11**<big><big>[[Gen.46.8 The Children of Leah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Levi; Gershon, Kohath, and Merari.
 <small><sub>**BSB:**</sub></small>
 The sons of Levi: Gershon, Kohath, and Merari.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֖י]] [[H3878\|לֵוִ֑י]] [[H1648\|גֵּרְשׁ֕וֹן]] [[H6955\|קְהָ֖ת]] [[H9002\|וּ]][[H4847\|מְרָרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic KOHATH|KOHATH]] • [[topic MERARI|MERARI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.10|<< Genesis 46:10]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.12|Genesis 46:12 >>]]</td></tr></table>
 

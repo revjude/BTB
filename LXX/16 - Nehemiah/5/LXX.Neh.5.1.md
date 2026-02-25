@@ -1,9 +1,64 @@
+---
+title: LXX Nehemiah 5:1
+type: Verse
+lxx: "And the cry of the people and their wives was great against  their brethren of the Jews."
+greek: "και εγένετο η κραυγή του λαού και γυναικών αυτών μεγάλη προς τους αδελφούς αυτών τους Ιουδαίους"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2906]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G3173]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2453]]"
+---
+
 **LXX Nehemiah 5:1** 
 
 ***The Jews Quarrel Over Servitude***
 
 <small><sub>**LXX:**</sub></small>
 And the cry of the people and their wives was great against  their brethren of the Jews. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3588\|η]] [[G2906\|κραυγή]] [[G3588\|του]] [[G2992\|λαού]] [[G2532\|και]] [[G1135\|γυναικών]] [[G1473\|αυτών]] [[G3173\|μεγάλη]] [[G4314\|προς]] [[G3588\|τους]] [[G0080\|αδελφούς]] [[G1473\|αυτών]] [[G3588\|τους]] [[G2453\|Ιουδαίους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 
@@ -23,6 +78,6 @@ And the cry of the people and their wives was great against  their brethren of t
 | their brethren | **<big>[[G0080\|αδελφούς]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | of the | **<big>[[G3588\|τους]]</big>** |
 | Jews. | **<big>[[G2453\|Ιουδαίους]]</big>** |
-[[Neh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 
 

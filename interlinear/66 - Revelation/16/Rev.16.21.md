@@ -1,10 +1,65 @@
+---
+title: Revelation 16:21
+type: Verse
+kjv: "And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great."
+bsb: "And great hailstones weighing almost a hundred pounds each rained down on them from above. And men cursed God for the plague of hail, because it was so horrendous."
+greek: "καὶ χάλαζα μεγάλη ὡς ταλαντιαία καταβαίνει ἐκ τοῦ οὐρανοῦ ἐπὶ τοὺς ἀνθρώπους. καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸν θεὸν ἐκ τῆς πληγῆς τῆς χαλάζης, ὅτι μεγάλη ἐστὶν ἡ πληγὴ αὐτῆς σφόδρα.¶"
+pericope: "[[Rev.16.17 The Seventh Bowl of Wrath|The Seventh Bowl of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G5464]]"
+- "[[G3173]]"
+- "[[G5613]]"
+- "[[G5006]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1909]]"
+- "[[G0444]]"
+- "[[G0987]]"
+- "[[G2316]]"
+- "[[G4127]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G4970]]"
+texts:
+- NKO
+---
+
 **Revelation 16:21**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there fell upon men a great hail out of heaven, [every stone] about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
 <small><sub>**BSB:**</sub></small>
 And great hailstones weighing almost a hundred pounds each rained down on them from above. And men cursed God for the plague of hail, because it was so horrendous.
-<small><sub>**Literal:**</sub></small>
-And a hail great about a talent weight comes down out of <the> heaven upon the men. And blasphemed the men <the> God on account of the plague of the hail, for severe is the plague of it exceedingly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.20|<< Revelation 16:20]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.1|Revelation 17:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5464\|χάλαζα]]  [[G3173\|μεγάλη]]  [[G5613\|ὡς]]  [[G5006\|ταλαντιαία]]  [[G2597\|καταβαίνει]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους.]]  [[G2532\|καὶ]]  [[G0987\|ἐβλασφήμησαν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4127\|πληγῆς]]  [[G3588\|τῆς]]  [[G5464\|χαλάζης,]]  [[G3754H\|ὅτι]]  [[G3173\|μεγάλη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G4127\|πληγὴ]]  [[G0846\|αὐτῆς]]  [[G4970\|σφόδρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic HAIL|HAIL]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.20|<< Revelation 16:20]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.1|Revelation 17:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:21** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.9.24|Exod 9:24]] ☩ [[LXX.Exod.9.34|Exod 9:34]]

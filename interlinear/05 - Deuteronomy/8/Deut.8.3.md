@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 8:3
+type: Verse
+kjv: "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live."
+bsb: "He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD."
+hebrew: "וַֽיְעַנְּךָ֮ וַיַּרְעִבֶךָ֒ וַיַּֽאֲכִֽלְךָ֤ אֶת הַמָּן֙ אֲשֶׁ֣ר לֹא־ יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הוֹדִֽעֲךָ֗ כִּ֠י לֹ֣א עַל־ הַלֶּ֤חֶם לְבַדּוֹ֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־ כָּל־ מוֹצָ֥א פִֽי־ יְהוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6031B]]"
+- "[[H9031]]"
+- "[[H7456]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4478A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H9013]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H4616]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H3899H]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H2421]]"
+- "[[H0120G]]"
+- "[[H3605]]"
+- "[[H4161]]"
+- "[[H6310G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Deuteronomy 8:3**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every [word] that proceedeth out of the mouth of the LORD doth man live.
 <small><sub>**BSB:**</sub></small>
 He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6031B\|יְעַנְּ]][[H9031\|ךָ֮]] [[H9001\|וַ]][[H7456\|יַּרְעִבֶ]][[H9031\|ךָ֒]] [[H9001\|וַ]][[H0398\|יַּֽאֲכִֽלְ]][[H9031\|ךָ֤]] [[H0853\|אֶת]] [[H9009\|הַ]][[H4478A\|מָּן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֔עְתָּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|יָדְע֖וּ]][[H9013\|ן]] [[H0001G\|אֲבֹתֶ֑י]][[H9021\|ךָ]] [[H4616\|לְמַ֣עַן]] [[H3045\|הוֹדִֽעֲ]][[H9031\|ךָ֗]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3899H\|לֶּ֤חֶם]] [[H9005\|לְ]][[H0905H\|בַדּ]][[H9033\|וֹ֙]] [[H2421\|יִחְיֶ֣ה]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H3588A\|כִּ֛י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4161\|מוֹצָ֥א]] [[H6310G\|פִֽי]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H2421\|יִחְיֶ֥ה]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic LIFE|LIFE]] • [[topic MANNA|MANNA]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.2|<< Deuteronomy 8:2]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.4|Deuteronomy 8:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

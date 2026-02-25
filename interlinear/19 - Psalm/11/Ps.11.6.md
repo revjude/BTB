@@ -1,8 +1,59 @@
+---
+title: Psalm 11:6
+type: Verse
+kjv: "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup."
+bsb: "On the wicked He will rain down fiery coals and sulfur; a scorching wind will be their portion."
+hebrew: "יַמְטֵ֥ר עַל־ רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם׃"
+pericope: "[[Ps.11.1 In the LORD I Take Refuge|In the LORD I Take Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 11
+book/chapter: "[[Ps.11|Psalm 11]]"
+chronological_order: 345
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic CUP|CUP]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4305]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H6341A]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H1614]]"
+- "[[H7307H]]"
+- "[[H2152]]"
+- "[[H4521]]"
+- "[[H3563A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 11:6**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: [this shall be] the portion of their cup.
 <small><sub>**BSB:**</sub></small>
 On the wicked He will rain down fiery coals and sulfur; a scorching wind will be their portion.
+<small><sub>**Hebrew:**</sub></small>
+[[H4305\|יַמְטֵ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H7563\|רְשָׁעִ֗ים]] [[H6341A\|פַּ֫חִ֥ים]] [[H0784\|אֵ֣שׁ]] [[H9002\|וְ֭]][[H1614\|גָפְרִית]] [[H9002\|וְ]][[H7307H\|ר֥וּחַ]] [[H2152\|זִלְעָפ֗וֹת]] [[H4521\|מְנָ֣ת]] [[H3563A\|כּוֹסָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIMSTONE|BRIMSTONE]] • [[topic CUP|CUP]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.5|<< Psalms 11:5]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.7|Psalms 11:7 >>]]</td></tr></table>
 

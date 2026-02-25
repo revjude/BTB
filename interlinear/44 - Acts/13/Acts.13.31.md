@@ -1,10 +1,67 @@
+---
+title: Acts 13:31
+type: Verse
+kjv: "And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people."
+bsb: "and for many days He was seen by those who had accompanied Him from Galilee to Jerusalem. They are now His witnesses to our people."
+greek: "ὃς ὤφθη ἐπὶ ἡμέρας πλείους τοῖς συναναβᾶσιν αὐτῷ ἀπὸ τῆς Γαλιλαίας εἰς Ἰερουσαλήμ, οἵτινες νῦν εἰσιν μάρτυρες αὐτοῦ πρὸς τὸν λαόν."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3700]]"
+- "[[G1909]]"
+- "[[G2250]]"
+- "[[G4183]]"
+- "[[G3588]]"
+- "[[G4872]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G1056G]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G3748]]"
+- "[[G3568]]"
+- "[[G1510]]"
+- "[[G3144]]"
+- "[[G4314]]"
+- "[[G2992]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 13:31**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.
 <small><sub>**BSB:**</sub></small>
 and for many days He was seen by those who had accompanied Him from Galilee to Jerusalem. They are now His witnesses to our people.
-<small><sub>**Literal:**</sub></small>
-who appeared for days many to those having come up with Him from <the> Galilee to Jerusalem, who now are witnesses of Him to the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.30|<< Acts 13:30]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.32|Acts 13:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3700\|ὤφθη]]  [[G1909\|ἐπὶ]]  [[G2250\|ἡμέρας]]  [[G4183\|πλείους]]  [[G3588\|τοῖς]]  [[G4872\|συναναβᾶσιν]]  [[G0846\|αὐτῷ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G3748\|οἵτινες]]  [[G3568\|νῦν]]  [[G1510\|εἰσιν]]  [[G3144\|μάρτυρες]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.30|<< Acts 13:30]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.32|Acts 13:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 3:12
+type: Verse
+kjv: "And one wing of the other cherub was five cubits, reaching to the wall of the house: and the other wing was five cubits also, joining to the wing of the other cherub."
+bsb: "The wing of the second cherub also measured five cubits and touched the wall of the temple, while its other wing measured five cubits and touched the wing of the first cherub."
+hebrew: "וּכְנַ֨ף הַכְּר֤וּב הָאֶחָד֙ אַמּ֣וֹת חָמֵ֔שׁ מַגִּ֖יעַ לְקִ֣יר הַבָּ֑יִת וְהַכָּנָ֤ף הָאַחֶ֙רֶת֙ אַמּ֣וֹת חָמֵ֔שׁ דְּבֵקָ֕ה לִכְנַ֖ף הַכְּר֥וּב הָאַחֵֽר׃"
+pericope: "[[2Chr.3.10 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0259]]"
+- "[[H0520A]]"
+- "[[H2568]]"
+- "[[H5060]]"
+- "[[H9005]]"
+- "[[H7023]]"
+- "[[H1004B]]"
+- "[[H0312]]"
+- "[[H1695]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:12**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] wing of the other cherub [was] five cubits, reaching to the wall of the house: and the other wing [was] five cubits [also], joining to the wing of the other cherub.
 <small><sub>**BSB:**</sub></small>
 The wing of the second cherub also measured five cubits and touched the wall of the temple, while its other wing measured five cubits and touched the wing of the first cherub.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3671\|כְנַ֨ף]] [[H9009\|הַ]][[H3742\|כְּר֤וּב]] [[H9009\|הָ]][[H0259\|אֶחָד֙]] [[H0520A\|אַמּ֣וֹת]] [[H2568\|חָמֵ֔שׁ]] [[H5060\|מַגִּ֖יעַ]] [[H9005\|לְ]][[H7023\|קִ֣יר]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9002\|וְ]][[H9009\|הַ]][[H3671\|כָּנָ֤ף]] [[H9009\|הָ]][[H0312\|אַחֶ֙רֶת֙]] [[H0520A\|אַמּ֣וֹת]] [[H2568\|חָמֵ֔שׁ]] [[H1695\|דְּבֵקָ֕ה]] [[H9005\|לִ]][[H3671\|כְנַ֖ף]] [[H9009\|הַ]][[H3742\|כְּר֥וּב]] [[H9009\|הָ]][[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.11|<< 2 Chronicles 3:11]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.13|2 Chronicles 3:13 >>]]</td></tr></table>
 

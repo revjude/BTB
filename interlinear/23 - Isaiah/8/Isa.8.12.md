@@ -1,8 +1,63 @@
+---
+title: Isaiah 8:12
+type: Verse
+kjv: "Say ye not, A confederacy, to all them to whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid."
+bsb: "“Do not call conspiracy everything these people regard as conspiracy. Do not fear what they fear; do not live in dread."
+hebrew: "לֹא־ תֹאמְר֣וּן קֶ֔שֶׁר לְכֹ֧ל אֲשֶׁר־ יֹאמַ֛ר הָעָ֥ם הַזֶּ֖ה קָ֑שֶׁר וְאֶת־ מוֹרָא֥וֹ לֹֽא־ תִֽירְא֖וּ וְלֹ֥א תַעֲרִֽיצוּ׃"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9013]]"
+- "[[H7195]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4172A]]"
+- "[[H9023]]"
+- "[[H3372G]]"
+- "[[H6206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:12**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye not, A confederacy, to all [them to] whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
 <small><sub>**BSB:**</sub></small>
 “Do not call conspiracy everything these people regard as conspiracy. Do not fear what they fear; do not live in dread.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H0559\|תֹאמְר֣וּ]][[H9013\|ן]] [[H7195\|קֶ֔שֶׁר]] [[H9005\|לְ]][[H3605\|כֹ֧ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|יֹאמַ֛ר]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H7195\|קָ֑שֶׁר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4172A\|מוֹרָא֥]][[H9023\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3372G\|תִֽירְא֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6206\|תַעֲרִֽיצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic COMPANY|COMPANY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.11|<< Isaiah 8:11]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.13|Isaiah 8:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

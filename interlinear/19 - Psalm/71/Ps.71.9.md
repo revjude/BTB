@@ -1,8 +1,57 @@
+---
+title: Psalm 71:9
+type: Verse
+kjv: "Cast me not off in the time of old age; forsake me not when my strength faileth."
+bsb: "Do not discard me in my old age; do not forsake me when my strength fails."
+hebrew: "אַֽל־ תַּ֭שְׁלִיכֵנִי לְעֵ֣ת זִקְנָ֑ה כִּכְל֥וֹת כֹּ֝חִ֗י אַֽל־ תַּעַזְבֵֽנִי׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7993]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H2209]]"
+- "[[H9004]]"
+- "[[H3615J]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:9**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast me not off in the time of old age; forsake me not when my strength faileth.
 <small><sub>**BSB:**</sub></small>
 Do not discard me in my old age; do not forsake me when my strength fails.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H7993\|תַּ֭שְׁלִיכֵ]][[H9030\|נִי]] [[H9005\|לְ]][[H6256\|עֵ֣ת]] [[H2209\|זִקְנָ֑ה]] [[H9004\|כִּ]][[H3615J\|כְל֥וֹת]] [[H3581B\|כֹּ֝חִ֗]][[H9020\|י]] [[H0408\|אַֽל]][[H9014\|־]] [[H5800A\|תַּעַזְבֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.8|<< Psalms 71:8]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.10|Psalms 71:10 >>]]</td></tr></table>
 

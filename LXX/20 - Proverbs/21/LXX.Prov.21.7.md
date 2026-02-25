@@ -1,6 +1,44 @@
+---
+title: LXX Proverbs 21:7
+type: Verse
+lxx: "The ruin of the impious is welcomed as a guest; for they do not prefer to do the just things."
+greek: "όλεθρος ασεβέσιν επιξενωθήσεται ου γαρ βούλονται πράσσειν τα δίκαια"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G3639]]"
+- "[[G0765]]"
+- "[[G7435]]"
+- "[[G3756]]"
+- "[[G1161]]"
+- "[[G1014]]"
+- "[[G4238]]"
+- "[[G3588]]"
+- "[[G1342]]"
+---
+
 **LXX Proverbs 21:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ruin of \[the\] impious is welcomed as a guest; for they do not prefer to do the just \[things\]. 
+<small><sub>**Greek:**</sub></small>
+[[G3639\|όλεθρος]] [[G0765\|ασεβέσιν]] [[G7435\|επιξενωθήσεται]] [[G3756\|ου]] [[G1161\|γαρ]] [[G1014\|βούλονται]] [[G4238\|πράσσειν]] [[G3588\|τα]] [[G1342\|δίκαια]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 
@@ -14,6 +52,6 @@
 | to do | **<big>[[G4238\|πράσσειν]]</big>** |
 | the | **<big>[[G3588\|τα]]</big>** |
 | just \[things\]. | **<big>[[G1342\|δίκαια]]</big>** |
-[[Prov.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.6|<< Proverbs 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.8|Proverbs 21:8 >>]]</td></tr></table>
 
 

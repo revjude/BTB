@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Promise of Restoration
+type: Pericope
 pericope: "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 9
 book/chapter: "[[Amos.9|Amos 9]]"
-genre:
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 5
 verses:
 - "[[Amos.9.11]]"
 - "[[Amos.9.12]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Amos.9.15]]"
 ---
 
-[[Amos.9|Amos 9:11 - Amos 9:15]]
+<small>[[Amos.9|Amos 9:11-15]]</small>
 *A Promise of Restoration*
 
 [[Amos.9.11|11]] In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:

@@ -1,8 +1,61 @@
+---
+title: Exodus 25:36
+type: Verse
+kjv: "Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold."
+bsb: "The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold."
+hebrew: "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃"
+pericope: "[[Exod.25.31 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H3730]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7070G]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H4749]]"
+- "[[H0259]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:36**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their knops and their branches shall be of the same: all it [shall be] one beaten work [of] pure gold.
 <small><sub>**BSB:**</sub></small>
 The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3730\|כַּפְתֹּרֵי]][[H9028\|הֶ֥ם]] [[H9002\|וּ]][[H7070G\|קְנֹתָ֖]][[H9028\|ם]] [[H4480A\|מִמֶּ֣]][[H9034\|נָּה]] [[H1961\|יִהְי֑וּ]] [[H3605\|כֻּלָּ֛]][[H9024\|הּ]] [[H4749\|מִקְשָׁ֥ה]] [[H0259\|אַחַ֖ת]] [[H2091\|זָהָ֥ב]] [[H2889\|טָהֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.35|<< Exodus 25:35]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.37|Exodus 25:37 >>]]</td></tr></table>
 

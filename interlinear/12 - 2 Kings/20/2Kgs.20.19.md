@@ -1,8 +1,68 @@
+---
+title: 2 Kings 20:19
+type: Verse
+kjv: "Then said Hezekiah unto Isaiah, Good is the word of the LORD which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?"
+bsb: "But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “Will there not at least be peace and security in my lifetime?”"
+hebrew: "וַיֹּ֤אמֶר חִזְקִיָּ֙הוּ֙ אֶֽל־ יְשַֽׁעְיָ֔הוּ ט֥וֹב דְּבַר־ יְהוָ֖ה אֲשֶׁ֣ר דִּבַּ֑רְתָּ וַיֹּ֕אמֶר הֲל֛וֹא אִם־ שָׁל֥וֹם וֶאֱמֶ֖ת יִהְיֶ֥ה בְיָמָֽי׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2396G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3470A]]"
+- "[[H2896A]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0518A]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H0571I]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:19**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Hezekiah unto Isaiah, Good [is] the word of the LORD which thou hast spoken. And he said, [Is it] not [good], if peace and truth be in my days?
 <small><sub>**BSB:**</sub></small>
 But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “Will there not at least be peace and security in my lifetime?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3470A\|יְשַֽׁעְיָ֔הוּ]] [[H2896A\|ט֥וֹב]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבַּ֑רְתָּ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9008\|הֲ]][[H3808\|ל֛וֹא]] [[H0518A\|אִם]][[H9014\|־]] [[H7965G\|שָׁל֥וֹם]] [[H9002\|וֶ]][[H0571I\|אֱמֶ֖ת]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|בְ]][[H3117G\|יָמָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BABYLON|BABYLON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic NATION|NATION]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.18|<< 2 Kings 20:18]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.20|2 Kings 20:20 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 29:13
+type: Verse
+kjv: "The poor and the deceitful man meet together: the LORD lighteneth both their eyes."
+bsb: "The poor man and the oppressor have this in common: The LORD gives light to the eyes of both."
+hebrew: "רָ֤שׁ וְאִ֣ישׁ תְּכָכִ֣ים נִפְגָּ֑שׁוּ מֵ֤אִיר־ עֵינֵ֖י שְׁנֵיהֶ֣ם יְהוָֽה׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H7326]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H8496]]"
+- "[[H6298]]"
+- "[[H0215]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:13**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The poor and the deceitful man meet together: the LORD lighteneth both their eyes.
 <small><sub>**BSB:**</sub></small>
 The poor man and the oppressor have this in common: The LORD gives light to the eyes of both.
+<small><sub>**Hebrew:**</sub></small>
+[[H7326\|רָ֤שׁ]] [[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H8496\|תְּכָכִ֣ים]] [[H6298\|נִפְגָּ֑שׁוּ]] [[H0215\|מֵ֤אִיר]][[H9014\|־]] [[H5869A\|עֵינֵ֖י]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֣ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.12|<< Proverbs 29:12]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.14|Proverbs 29:14 >>]]</td></tr></table>
 

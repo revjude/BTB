@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 11:10
+type: Verse
+kjv: "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity."
+bsb: "So banish sorrow from your heart, and cast off pain from your body, for youth and vigor are fleeting."
+hebrew: "וְהָסֵ֥ר כַּ֙עַס֙ מִלִּבֶּ֔ךָ וְהַעֲבֵ֥ר רָעָ֖ה מִבְּשָׂרֶ֑ךָ כִּֽי־ הַיַּלְד֥וּת וְהַֽשַּׁחֲר֖וּת הָֽבֶל׃"
+pericope: "[[Eccl.11.7 Enjoy Your Years|Enjoy Your Years]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5493G]]"
+- "[[H3708A]]"
+- "[[H9006]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H5674C]]"
+- "[[H7451C]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3208]]"
+- "[[H7839]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:10**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth [are] vanity.
 <small><sub>**BSB:**</sub></small>
 So banish sorrow from your heart, and cast off pain from your body, for youth and vigor are fleeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5493G\|הָסֵ֥ר]] [[H3708A\|כַּ֙עַס֙]] [[H9006\|מִ]][[H3820A\|לִּבֶּ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H5674C\|הַעֲבֵ֥ר]] [[H7451C\|רָעָ֖ה]] [[H9006\|מִ]][[H1320\|בְּשָׂרֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H3208\|יַּלְד֥וּת]] [[H9002\|וְ]][[H9009\|הַֽ]][[H7839\|שַּׁחֲר֖וּת]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic VANITY|VANITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.9|<< Ecclesiastes 11:9]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.1|Ecclesiastes 12:1 >>]]</td></tr></table>
 

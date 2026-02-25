@@ -1,8 +1,63 @@
+---
+title: Isaiah 3:14
+type: Verse
+kjv: "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses."
+bsb: "The LORD brings this charge against the elders and leaders of His people: “You have devoured the vineyard; the plunder of the poor is in your houses."
+hebrew: "יְהוָה֙ בְּמִשְׁפָּ֣ט יָב֔וֹא עִם־ זִקְנֵ֥י עַמּ֖וֹ וְשָׂרָ֑יו וְאַתֶּם֙ בִּֽעַרְתֶּ֣ם הַכֶּ֔רֶם גְּזֵלַ֥ת הֶֽעָנִ֖י בְּבָתֵּיכֶֽם׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H0935G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H0859D]]"
+- "[[H1197H]]"
+- "[[H9009]]"
+- "[[H3754]]"
+- "[[H1500]]"
+- "[[H6041]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:14**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor [is] in your houses.
 <small><sub>**BSB:**</sub></small>
 The LORD brings this charge against the elders and leaders of His people: “You have devoured the vineyard; the plunder of the poor is in your houses.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H4941G\|מִשְׁפָּ֣ט]] [[H0935G\|יָב֔וֹא]] [[H5973A\|עִם]][[H9014\|־]] [[H2205G\|זִקְנֵ֥י]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H8269\|שָׂרָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H1197H\|בִּֽעַרְתֶּ֣ם]] [[H9009\|הַ]][[H3754\|כֶּ֔רֶם]] [[H1500\|גְּזֵלַ֥ת]] [[H9009\|הֶֽ]][[H6041\|עָנִ֖י]] [[H9003\|בְּ]][[H1004B\|בָתֵּי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.13|<< Isaiah 3:13]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.15|Isaiah 3:15 >>]]</td></tr></table>
 

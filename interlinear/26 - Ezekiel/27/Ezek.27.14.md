@@ -1,8 +1,58 @@
+---
+title: Ezekiel 27:14
+type: Verse
+kjv: "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules."
+bsb: "The men of Beth-togarmah exchanged horses, war horses, and mules for your wares."
+hebrew: "מִבֵּ֖ית תּוֹגַרְמָ֑ה סוּסִ֤ים וּפָֽרָשִׁים֙ וּפְרָדִ֔ים נָתְנ֖וּ עִזְבוֹנָֽיִךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic MULE|MULE]]"
+- "[[topic TOGARMAH|TOGARMAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H1004I]]"
+- "[[H8425H]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H6571A]]"
+- "[[H6505]]"
+- "[[H5414G]]"
+- "[[H5801]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:14**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.
 <small><sub>**BSB:**</sub></small>
 The men of Beth-togarmah exchanged horses, war horses, and mules for your wares.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1004I\|בֵּ֖ית]] [[H8425H\|תּוֹגַרְמָ֑ה]] [[H5483M\|סוּסִ֤ים]] [[H9002\|וּ]][[H6571A\|פָֽרָשִׁים֙]] [[H9002\|וּ]][[H6505\|פְרָדִ֔ים]] [[H5414G\|נָתְנ֖וּ]] [[H5801\|עִזְבוֹנָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic IMPORTS|IMPORTS]] • [[topic MARKET|MARKET]] • [[topic MULE|MULE]] • [[topic TOGARMAH|TOGARMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.13|<< Ezekiel 27:13]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.15|Ezekiel 27:15 >>]]</td></tr></table>
 

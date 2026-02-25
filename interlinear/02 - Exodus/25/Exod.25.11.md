@@ -1,8 +1,62 @@
+---
+title: Exodus 25:11
+type: Verse
+kjv: "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about."
+bsb: "Overlay it with pure gold both inside and out, and make a gold molding around it."
+hebrew: "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃"
+pericope: "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9002]]"
+- "[[H2351]]"
+- "[[H6213H]]"
+- "[[H5921A]]"
+- "[[H2213]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:11**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.
 <small><sub>**BSB:**</sub></small>
 Overlay it with pure gold both inside and out, and make a gold molding around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6823\|צִפִּיתָ֤]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֔וֹר]] [[H9006\|מִ]][[H1004O\|בַּ֥יִת]] [[H9002\|וּ]][[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H6823\|תְּצַפֶּ֑]][[H9033\|נּוּ]] [[H9001\|וְ]][[H6213H\|עָשִׂ֧יתָ]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H2213\|זֵ֥ר]] [[H2091\|זָהָ֖ב]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic GOLD|GOLD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.10|<< Exodus 25:10]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.12|Exodus 25:12 >>]]</td></tr></table>
 

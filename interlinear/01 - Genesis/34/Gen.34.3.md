@@ -1,8 +1,60 @@
+---
+title: Genesis 34:3
+type: Verse
+kjv: "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel."
+bsb: "And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly."
+hebrew: "וַתִּדְבַּ֣ק נַפְשׁ֔וֹ בְּדִינָ֖ה בַּֽת־ יַעֲקֹ֑ב וַיֶּֽאֱהַב֙ אֶת־ הַֽנַּעֲרָ֔ וַיְדַבֵּ֖ר עַל־ לֵ֥ב הַֽנַּעֲרָֽ׃"
+pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LOVERS|LOVERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1783]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:3**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.
 <small><sub>**BSB:**</sub></small>
 And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1692\|תִּדְבַּ֣ק]] [[H5315G\|נַפְשׁ֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H1783\|דִינָ֖ה]] [[H1323G\|בַּֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֑ב]] [[H9001\|וַ]][[H0157G\|יֶּֽאֱהַב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֔]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵ֥ב]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָֽ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVERS|LOVERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.2|<< Genesis 34:2]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.4|Genesis 34:4 >>]]</td></tr></table>
 

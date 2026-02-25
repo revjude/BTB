@@ -1,8 +1,63 @@
+---
+title: Judges 21:14
+type: Verse
+kjv: "And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabeshgilead: and yet so they sufficed them not."
+bsb: "And at that time the Benjamites returned and were given the women who were spared from Jabesh-gilead. But there were not enough women for all of them."
+hebrew: "וַיָּ֤שָׁב בִּנְיָמִן֙ בָּעֵ֣ת הַהִ֔יא וַיִּתְּנ֤וּ לָהֶם֙ הַנָּשִׁ֔ים אֲשֶׁ֣ר חִיּ֔וּ מִנְּשֵׁ֖י יָבֵ֣שׁ גִּלְעָ֑ד וְלֹֽא־ מָצְא֥וּ לָהֶ֖ם כֵּֽן׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1144G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H2421]]"
+- "[[H9006]]"
+- "[[H3003G]]"
+- "[[H1568L]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:14**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabeshgilead: and yet so they sufficed them not.
 <small><sub>**BSB:**</sub></small>
 And at that time the Benjamites returned and were given the women who were spared from Jabesh-gilead. But there were not enough women for all of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H1144G\|בִּנְיָמִן֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H9001\|וַ]][[H5414O\|יִּתְּנ֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֔ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H2421\|חִיּ֔וּ]] [[H9006\|מִ]][[H0802G\|נְּשֵׁ֖י]] [[H3003G\|יָבֵ֣שׁ]] [[H1568L\|גִּלְעָ֑ד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|מָצְא֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3651C\|כֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.13|<< Judges 21:13]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.15|Judges 21:15 >>]]</td></tr></table>
 

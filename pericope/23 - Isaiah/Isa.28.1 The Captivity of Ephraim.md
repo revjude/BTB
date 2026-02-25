@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Captivity of Ephraim
+type: Pericope
 pericope: "[[Isa.28.1 The Captivity of Ephraim|The Captivity of Ephraim]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 28
 book/chapter: "[[Isa.28|Isaiah 28]]"
-genre:
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.28.1]]"
 - "[[Isa.28.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.28.13]]"
 ---
 
-[[Isa.28|Isaiah 28:1 - Isaiah 28:13]]
+<small>[[Isa.28|Isaiah 28:1-13]]</small>
 *The Captivity of Ephraim*
 
 [[Isa.28.1|1]] Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty \[is\] a fading flower, which \[are\] on the head of the fat valleys of them that are overcome with wine!

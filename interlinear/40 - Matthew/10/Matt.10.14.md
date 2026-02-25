@@ -1,10 +1,68 @@
+---
+title: Matthew 10:14
+type: Verse
+kjv: "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet."
+bsb: "And if anyone will not welcome you or heed your words, shake the dust off your feet when you leave that home or town."
+jesus_said: "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet."
+greek: "καὶ ὃς ἂν μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν, ἐξερχόμενοι ἔξω τῆς οἰκίας ἢ τῆς πόλεως ἐκείνης ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν."
+pericope: "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUST|DUST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G3361]]"
+- "[[G1209]]"
+- "[[G4771]]"
+- "[[G3366]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1831]]"
+- "[[G1854]]"
+- "[[G3614G]]"
+- "[[G2228]]"
+- "[[G4172]]"
+- "[[G1565]]"
+- "[[G1621]]"
+- "[[G2868]]"
+- "[[G4228]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 10:14**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.
 <small><sub>**BSB:**</sub></small>
 And if anyone will not welcome you or heed your words, shake the dust off your feet when you leave that home or town.
-<small><sub>**Literal:**</sub></small>
-And who[ever] maybe unless shall receive you nor shall he hear the words of you, going forth out of the house or of the city that do shake off the dust of the feet of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.13|<< Matthew 10:13]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.15|Matthew 10:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G3361\|μὴ]]  [[G1209\|δέξηται]]  [[G4771\|ὑμᾶς]]  [[G3366\|μηδὲ]]  [[G0191\|ἀκούσῃ]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G4771\|ὑμῶν,]]  [[G1831\|ἐξερχόμενοι]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G3614G\|οἰκίας]]  [[G2228\|ἢ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G1565\|ἐκείνης]]  [[G1621\|ἐκτινάξατε]]  [[G3588\|τὸν]]  [[G2868\|κονιορτὸν]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUST|DUST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.13|<< Matthew 10:13]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.15|Matthew 10:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

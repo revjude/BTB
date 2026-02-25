@@ -1,8 +1,61 @@
+---
+title: 1 Kings 20:24
+type: Verse
+kjv: "And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:"
+bsb: "So do this: Dismiss all the kings from their positions and replace them with other officers."
+hebrew: "וְאֶת־ הַדָּבָ֥ר הַזֶּ֖ה עֲשֵׂ֑ה הָסֵ֤ר הַמְּלָכִים֙ אִ֣ישׁ מִמְּקֹמ֔וֹ וְשִׂ֥ים פַּח֖וֹת תַּחְתֵּיהֶֽם׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H6213A]]"
+- "[[H5493G]]"
+- "[[H4428G]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H7760H]]"
+- "[[H6346]]"
+- "[[H8478H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:24**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:
 <small><sub>**BSB:**</sub></small>
 So do this: Dismiss all the kings from their positions and replace them with other officers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H6213A\|עֲשֵׂ֑ה]] [[H5493G\|הָסֵ֤ר]] [[H9009\|הַ]][[H4428G\|מְּלָכִים֙]] [[H0376I\|אִ֣ישׁ]] [[H9006\|מִ]][[H4725\|מְּקֹמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H7760H\|שִׂ֥ים]] [[H6346\|פַּח֖וֹת]] [[H8478H\|תַּחְתֵּי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.23|<< 1 Kings 20:23]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.25|1 Kings 20:25 >>]]</td></tr></table>
 

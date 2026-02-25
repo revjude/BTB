@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: From Dust to Dust
+type: Pericope
 pericope: "[[Eccl.3.16 From Dust to Dust|From Dust to Dust]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 3
 book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
-genre:
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 7
 verses:
 - "[[Eccl.3.16]]"
 - "[[Eccl.3.17]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Eccl.3.22]]"
 ---
 
-[[Eccl.3|Ecclesiastes 3:16 - Ecclesiastes 3:22]]
+<small>[[Eccl.3|Ecclesiastes 3:16-22]]</small>
 *From Dust to Dust*
 
 [[Eccl.3.16|16]] And moreover I saw under the sun the place of judgment, \[that\] wickedness \[was\] there; and the place of righteousness, \[that\] iniquity \[was\] there.

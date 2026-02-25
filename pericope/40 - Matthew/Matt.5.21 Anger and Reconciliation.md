@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Anger and Reconciliation
+type: Pericope
 pericope: "[[Matt.5.21 Anger and Reconciliation|Anger and Reconciliation]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 5
 book/chapter: "[[Matt.5|Matthew 5]]"
-genre:
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.5.21]]"
 - "[[Matt.5.22]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.5.26]]"
 ---
 
-[[Matt.5|Matthew 5:21 - Matthew 5:26]]
+<small>[[Matt.5|Matthew 5:21-26]]</small>
 *Anger and Reconciliation*
 
 [[Matt.5.21|21]] Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 19
+type: Pericope
 pericope: "[[Prov.23.29 Saying 19|Saying 19]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 23
 book/chapter: "[[Prov.23|Proverbs 23]]"
-genre:
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 7
 verses:
 - "[[Prov.23.29]]"
 - "[[Prov.23.30]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Prov.23.35]]"
 ---
 
-[[Prov.23|Proverbs 23:29 - Proverbs 23:35]]
+<small>[[Prov.23|Proverbs 23:29-35]]</small>
 *Saying 19*
 
 [[Prov.23.29|29]] Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?

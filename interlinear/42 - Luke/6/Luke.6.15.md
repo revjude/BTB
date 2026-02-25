@@ -1,10 +1,58 @@
+---
+title: Luke 6:15
+type: Verse
+kjv: "Matthew and Thomas, James the son of Alphaeus, and Simon called Zelotes,"
+bsb: "Matthew and Thomas; James son of Alphaeus and Simon called the Zealot;"
+greek: "καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον τὸν τοῦ Ἁλφαίου καὶ Σίμωνα τὸν καλούμενον ζηλωτὴν"
+pericope: "[[Luke.6.12 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MATTHEW|MATTHEW]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic THOMAS|THOMAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3156]]"
+- "[[G2381]]"
+- "[[G2385H]]"
+- "[[G3588]]"
+- "[[G0256]]"
+- "[[G4613G]]"
+- "[[G2564G]]"
+- "[[G2208]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Luke 6:15**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Matthew and Thomas, James the [son] of Alphaeus, and Simon called Zelotes,
 <small><sub>**BSB:**</sub></small>
 Matthew and Thomas; James son of Alphaeus and Simon called the Zealot;
-<small><sub>**Literal:**</sub></small>
-and Matthew and Thomas and James <the [son]> <the> of Alphaeus and Simon the [one] being called Zealot<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.14|<< Luke 6:14]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.16|Luke 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3156\|Μαθθαῖον]]  [[G2532\|καὶ]]  [[G2381\|Θωμᾶν]]  [[G2532\|καὶ]]  [[G2385H\|Ἰάκωβον]]  [[G3588\|τὸν]]  [[G3588\|τοῦ]]  [[G0256\|Ἁλφαίου]]  [[G2532\|καὶ]]  [[G4613G\|Σίμωνα]]  [[G3588\|τὸν]]  [[G2564G\|καλούμενον]]  [[G2208\|ζηλωτὴν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MATTHEW|MATTHEW]] • [[topic SIMON|SIMON]] • [[topic THOMAS|THOMAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.14|<< Luke 6:14]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.16|Luke 6:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

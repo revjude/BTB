@@ -1,8 +1,49 @@
+---
+title: Exodus 23:14
+type: Verse
+kjv: "Three times thou shalt keep a feast unto me in the year."
+bsb: "Three times a year you are to celebrate a feast to Me."
+hebrew: "שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃"
+pericope: "[[Exod.23.14 The Three Feasts of Pilgrimage|The Three Feasts of Pilgrimage]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H7969]]"
+- "[[H7272]]"
+- "[[H2287]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:14**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three times thou shalt keep a feast unto me in the year.
 <small><sub>**BSB:**</sub></small>
 Three times a year you are to celebrate a feast to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שָׁלֹ֣שׁ]] [[H7272\|רְגָלִ֔ים]] [[H2287\|תָּחֹ֥ג]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בַּ]][[H8141\|שָּׁנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.13|<< Exodus 23:13]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.15|Exodus 23:15 >>]]</td></tr></table>
 

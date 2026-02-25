@@ -1,8 +1,53 @@
+---
+title: Proverbs 20:14
+type: Verse
+kjv: "It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth."
+bsb: "“Worthless, worthless!” says the buyer, but on the way out, he gloats."
+hebrew: "רַ֣ע רַ֭ע יֹאמַ֣ר הַקּוֹנֶ֑ה וְאֹזֵ֥ל ל֝֗וֹ אָ֣ז יִתְהַלָּֽל׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H7451A]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H7069]]"
+- "[[H9002]]"
+- "[[H0235]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0227A]]"
+- "[[H1984H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:14**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] naught, [it is] naught, saith the buyer: but when he is gone his way, then he boasteth.
 <small><sub>**BSB:**</sub></small>
 “Worthless, worthless!” says the buyer, but on the way out, he gloats.
+<small><sub>**Hebrew:**</sub></small>
+[[H7451A\|רַ֣ע]] [[H7451A\|רַ֭ע]] [[H0559\|יֹאמַ֣ר]] [[H9009\|הַ]][[H7069\|קּוֹנֶ֑ה]] [[H9002\|וְ]][[H0235\|אֹזֵ֥ל]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H0227A\|אָ֣ז]] [[H1984H\|יִתְהַלָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.13|<< Proverbs 20:13]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.15|Proverbs 20:15 >>]]</td></tr></table>
 

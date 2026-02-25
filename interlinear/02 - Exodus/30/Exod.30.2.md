@@ -1,8 +1,58 @@
+---
+title: Exodus 30:2
+type: Verse
+kjv: "A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same."
+bsb: "It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece."
+hebrew: "אַמָּ֨ה אָרְכּ֜וֹ וְאַמָּ֤ה רָחְבּוֹ֙ רָב֣וּעַ יִהְיֶ֔ה וְאַמָּתַ֖יִם קֹמָת֑וֹ מִמֶּ֖נּוּ קַרְנֹתָֽיו׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H7251]]"
+- "[[H1961]]"
+- "[[H6967]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H7161A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:2**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A cubit [shall be] the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits [shall be] the height thereof: the horns thereof [shall be] of the same.
 <small><sub>**BSB:**</sub></small>
 It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece.
+<small><sub>**Hebrew:**</sub></small>
+[[H0520A\|אַמָּ֨ה]] [[H0753\|אָרְכּ֜]][[H9023\|וֹ]] [[H9002\|וְ]][[H0520A\|אַמָּ֤ה]] [[H7341\|רָחְבּ]][[H9023\|וֹ֙]] [[H7251\|רָב֣וּעַ]] [[H1961\|יִהְיֶ֔ה]] [[H9002\|וְ]][[H0520A\|אַמָּתַ֖יִם]] [[H6967\|קֹמָת֑]][[H9023\|וֹ]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H7161A\|קַרְנֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.1|<< Exodus 30:1]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.3|Exodus 30:3 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Amos 9:1
+type: Verse
+kjv: "I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered."
+bsb: "I saw the Lord standing beside the altar, and He said: “Strike the tops of the pillars so that the thresholds shake. Topple them on the heads of all the people, and I will kill the rest with the sword. None of those who flee will get away; none of the fugitives will escape."
+hebrew: "רָאִ֨יתִי אֶת־ אֲדֹנָ֜י נִצָּ֣ב עַֽל־ הַמִּזְבֵּ֗חַ וַיֹּאמֶר֩ הַ֨ךְ הַכַּפְתּ֜וֹר וְיִרְעֲשׁ֣וּ הַסִּפִּ֗ים וּבְצַ֙עַם֙ בְּרֹ֣אשׁ כֻּלָּ֔ם וְאַחֲרִיתָ֖ם בַּחֶ֣רֶב אֶהֱרֹ֑ג לֹֽא־ יָנ֤וּס לָהֶם֙ נָ֔ס וְלֹֽא־ יִמָּלֵ֥ט לָהֶ֖ם פָּלִֽיט׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5221]]"
+- "[[H3730]]"
+- "[[H9002]]"
+- "[[H7493]]"
+- "[[H5592B]]"
+- "[[H1214G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H0319]]"
+- "[[H2719]]"
+- "[[H2026]]"
+- "[[H3808]]"
+- "[[H5127]]"
+- "[[H9005]]"
+- "[[H4422]]"
+- "[[H6412A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:1**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.
 <small><sub>**BSB:**</sub></small>
 I saw the Lord standing beside the altar, and He said: “Strike the tops of the pillars so that the thresholds shake. Topple them on the heads of all the people, and I will kill the rest with the sword. None of those who flee will get away; none of the fugitives will escape.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֨יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0136\|אֲדֹנָ֜י]] [[H5324\|נִצָּ֣ב]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֗חַ]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H5221\|הַ֨ךְ]] [[H9009\|הַ]][[H3730\|כַּפְתּ֜וֹר]] [[H9002\|וְ]][[H7493\|יִרְעֲשׁ֣וּ]] [[H9009\|הַ]][[H5592B\|סִּפִּ֗ים]] [[H9002\|וּ]][[H1214G\|בְצַ֙עַ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H7218A\|רֹ֣אשׁ]] [[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H9002\|וְ]][[H0319\|אַחֲרִיתָ֖]][[H9028\|ם]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H2026\|אֶהֱרֹ֑ג]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5127\|יָנ֤וּס]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H5127\|נָ֔ס]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4422\|יִמָּלֵ֥ט]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H6412A\|פָּלִֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SIN|SIN]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 

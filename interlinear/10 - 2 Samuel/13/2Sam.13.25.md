@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 13:25
+type: Verse
+kjv: "And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him."
+bsb: "“No, my son,” the king replied, “we should not all go, or we would be a burden to you.” Although Absalom urged him, he was not willing to go, but gave him his blessing."
+hebrew: "וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶל־ אַבְשָׁל֗וֹם אַל־ בְּנִי֙ אַל־ נָ֤א נֵלֵךְ֙ כֻּלָּ֔נוּ וְלֹ֥א נִכְבַּ֖ד עָלֶ֑יךָ וַיִּפְרָץ־ בּ֛וֹ וְלֹֽא־ אָבָ֥ה לָלֶ֖כֶת וַֽיְבָרֲכֵֽהוּ׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H0408]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H4994]]"
+- "[[H1980G]]"
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3513H]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H6555]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:25**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.
 <small><sub>**BSB:**</sub></small>
 “No, my son,” the king replied, “we should not all go, or we would be a burden to you.” Although Absalom urged him, he was not willing to go, but gave him his blessing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H0053\|אַבְשָׁל֗וֹם]] [[H0408\|אַל]][[H9014\|־]] [[H1121A\|בְּנִ]][[H9020\|י֙]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֤א]] [[H1980G\|נֵלֵךְ֙]] [[H3605\|כֻּלָּ֔]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3513H\|נִכְבַּ֖ד]] [[H5921A\|עָלֶ֑י]][[H9031\|ךָ]] [[H9001\|וַ]][[H6555\|יִּפְרָץ]][[H9014\|־]] [[H9003\|בּ֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָבָ֥ה]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H9001\|וַֽ]][[H1288\|יְבָרֲכֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DECEPTION|DECEPTION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]] • [[topic REVENGE|REVENGE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.24|<< 2 Samuel 13:24]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.26|2 Samuel 13:26 >>]]</td></tr></table>
 

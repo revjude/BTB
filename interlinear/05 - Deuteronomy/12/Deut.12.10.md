@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 12:10
+type: Verse
+kjv: "But when ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and when he giveth you rest from all your enemies round about, so that ye dwell in safety;"
+bsb: "When you cross the Jordan and live in the land that the LORD your God is giving you as an inheritance, and He gives you rest from all the enemies around you and you dwell securely,"
+hebrew: "וַעֲבַרְתֶּם֮ אֶת־ הַיַּרְדֵּן֒ וִֽישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֵיכֶ֖ם מַנְחִ֣יל אֶתְכֶ֑ם וְהֵנִ֨יחַ לָכֶ֧ם מִכָּל־ אֹיְבֵיכֶ֛ם מִסָּבִ֖יב וִֽישַׁבְתֶּם־ בֶּֽטַח׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5157]]"
+- "[[H9036]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0341]]"
+- "[[H5439G]]"
+- "[[H0983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:10**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [when] ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and [when] he giveth you rest from all your enemies round about, so that ye dwell in safety;
 <small><sub>**BSB:**</sub></small>
 When you cross the Jordan and live in the land that the LORD your God is giving you as an inheritance, and He gives you rest from all the enemies around you and you dwell securely,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|עֲבַרְתֶּם֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H9001\|וִֽ]][[H3427\|ישַׁבְתֶּ֣ם]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H5157\|מַנְחִ֣יל]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H5117\|הֵנִ֨יחַ]] [[H9005\|לָ]][[H9036\|כֶ֧ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹיְבֵי]][[H9026\|כֶ֛ם]] [[H9006\|מִ]][[H5439G\|סָּבִ֖יב]] [[H9001\|וִֽ]][[H3427\|ישַׁבְתֶּם]][[H9014\|־]] [[H0983\|בֶּֽטַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.9|<< Deuteronomy 12:9]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.11|Deuteronomy 12:11 >>]]</td></tr></table>
 

@@ -1,8 +1,80 @@
+---
+title: Exodus 13:5
+type: Verse
+kjv: "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
+bsb: "And when the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land He swore to your fathers that He would give you, a land flowing with milk and honey—you shall keep this service in this month."
+hebrew: "וְהָיָ֣ה כִֽי־ יְבִֽיאֲךָ֣ יְהוָ֡ה אֶל־ אֶ֣רֶץ הַֽ֠כְּנַעֲנִי וְהַחִתִּ֨י וְהָאֱמֹרִ֜י וְהַחִוִּ֣י וְהַיְבוּסִ֗י אֲשֶׁ֨ר נִשְׁבַּ֤ע לַאֲבֹתֶ֙יךָ֙ לָ֣תֶת לָ֔ךְ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָ֑שׁ וְעָבַדְתָּ֛ אֶת־ הָעֲבֹדָ֥ה הַזֹּ֖את בַּחֹ֥דֶשׁ הַזֶּֽה׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9002]]"
+- "[[H2850]]"
+- "[[H0567]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9032]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H5656G]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:5**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.
 <small><sub>**BSB:**</sub></small>
 And when the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land He swore to your fathers that He would give you, a land flowing with milk and honey—you shall keep this service in this month.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H3588A\|כִֽי]][[H9014\|־]] [[H0935P\|יְבִֽיאֲ]][[H9031\|ךָ֣]] [[H3068G\|יְהוָ֡ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַֽ֠]][[H3669A\|כְּנַעֲנִי]] [[H9002\|וְ]][[H9009\|הַ]][[H2850\|חִתִּ֨י]] [[H9002\|וְ]][[H9009\|הָ]][[H0567\|אֱמֹרִ֜י]] [[H9002\|וְ]][[H9009\|הַ]][[H2340\|חִוִּ֣י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִ֗י]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֤ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ֣]][[H5414G\|תֶת]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָ֑שׁ]] [[H9001\|וְ]][[H5647H\|עָבַדְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5656G\|עֲבֹדָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.4|<< Exodus 13:4]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.6|Exodus 13:6 >>]]</td></tr></table>
 

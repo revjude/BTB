@@ -1,10 +1,67 @@
+---
+title: Mark 6:56
+type: Verse
+kjv: "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole."
+bsb: "And wherever He went—villages and towns and countrysides—they laid the sick in the marketplaces and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed."
+greek: "καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας καὶ παρεκάλουν αὐτὸν ἵνα κἂν κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται, καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.¶"
+pericope: "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3699]]"
+- "[[G0302]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G2968]]"
+- "[[G2228]]"
+- "[[G4172]]"
+- "[[G0068G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0058]]"
+- "[[G5087]]"
+- "[[G0770H]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1437]]"
+- "[[G2899]]"
+- "[[G2440]]"
+- "[[G0681]]"
+- "[[G3745]]"
+- "[[G4982]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 6:56**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.
 <small><sub>**BSB:**</sub></small>
 And wherever He went—villages and towns and countrysides—they laid the sick in the marketplaces and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed.
-<small><sub>**Literal:**</sub></small>
-And wherever maybe He was entering into villages or into cities or into fields in the marketplaces they were laying those ailing and were begging Him that only of the fringe the clothing of Him they shall touch, and as many as maybe touched Him were being healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.55|<< Mark 6:55]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.1|Mark 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3699\|ὅπου]]  [[G0302\|ἂν]]  [[G1531\|εἰσεπορεύετο]]  [[G1519\|εἰς]]  [[G2968\|κώμας]]  [[G2228\|ἢ]]  [[G1519\|εἰς]]  [[G4172\|πόλεις]]  [[G2228\|ἢ]]  [[G1519\|εἰς]]  [[G0068G\|ἀγροὺς]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G0058\|ἀγοραῖς]]  [[G5087\|ἐτίθεσαν]]  [[G3588\|τοὺς]]  [[G0770H\|ἀσθενοῦντας]]  [[G2532\|καὶ]]  [[G3870\|παρεκάλουν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G3588\|τοῦ]]  [[G2899\|κρασπέδου]]  [[G3588\|τοῦ]]  [[G2440\|ἱματίου]]  [[G0846\|αὐτοῦ]]  [[G0681\|ἅψωνται,]]  [[G2532\|καὶ]]  [[G3745\|ὅσοι]]  [[G0302\|ἂν]]  [[G0681\|ἥψαντο]]  [[G0846\|αὐτοῦ]]  [[G4982\|ἐσῴζοντο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.55|<< Mark 6:55]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.1|Mark 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

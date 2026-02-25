@@ -1,8 +1,71 @@
+---
+title: 1 Kings 5:11
+type: Verse
+kjv: "And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year."
+bsb: "and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil."
+hebrew: "וּשְׁלֹמֹה֩ נָתַ֨ן לְחִירָ֜ם עֶשְׂרִים֩ אֶ֨לֶף כֹּ֤ר חִטִּים֙ מַכֹּ֣לֶת לְבֵית֔וֹ וְעֶשְׂרִ֥ים כֹּ֖ר שֶׁ֣מֶן כָּתִ֑ית כֹּֽה־ יִתֵּ֧ן שְׁלֹמֹ֛ה לְחִירָ֖ם שָׁנָ֥ה בְשָׁנָֽה׃ פ"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COR|COR]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H8010]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H2438G]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H3734A]]"
+- "[[H2406]]"
+- "[[H4361]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H8081]]"
+- "[[H3795]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 5:11**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon gave Hiram twenty thousand measures of wheat [for] food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.
 <small><sub>**BSB:**</sub></small>
 and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8010\|שְׁלֹמֹה֩]] [[H5414G\|נָתַ֨ן]] [[H9005\|לְ]][[H2438G\|חִירָ֜ם]] [[H6242\|עֶשְׂרִים֩]] [[H0505G\|אֶ֨לֶף]] [[H3734A\|כֹּ֤ר]] [[H2406\|חִטִּים֙]] [[H4361\|מַכֹּ֣לֶת]] [[H9005\|לְ]][[H1004M\|בֵית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H3734A\|כֹּ֖ר]] [[H8081\|שֶׁ֣מֶן]] [[H3795\|כָּתִ֑ית]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H5414G\|יִתֵּ֧ן]] [[H8010\|שְׁלֹמֹ֛ה]] [[H9005\|לְ]][[H2438G\|חִירָ֖ם]] [[H8141\|שָׁנָ֥ה]] [[H9003\|בְ]][[H8141\|שָׁנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic COMMERCE|COMMERCE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COR|COR]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic MEASURE|MEASURE]] • [[topic TEMPLE|TEMPLE]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]] • [[topic WHEAT|WHEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ and year after year Solomon would provide Hiram with 20,000 cors of wheat as foo
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֛ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Hiram  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2438G\|חִירָ֖ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> chi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a year  |**<big>&#8207;[[H8141\|שָׁנָ֥ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in a year  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in a year  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
 

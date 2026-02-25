@@ -1,10 +1,58 @@
+---
+title: Revelation 13:15
+type: Verse
+kjv: "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed."
+bsb: "The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed."
+greek: "καὶ ἐδόθη αὐτῷ δοῦναι πνεῦμα τῇ εἰκόνι τοῦ θηρίου ἵνα καὶ λαλήσῃ ἡ εἰκὼν τοῦ θηρίου, καὶ ποιήσῃ, ἵνα ὅσοι ἐὰν μὴ προσκυνήσωσιν τῇ εἰκόνι τοῦ θηρίου ἀποκτανθῶσιν."
+pericope: "[[Rev.13.11 The Beast from the Earth|The Beast from the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4151H]]"
+- "[[G3588]]"
+- "[[G1504]]"
+- "[[G2342]]"
+- "[[G2443]]"
+- "[[G2980]]"
+- "[[G4160G]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4352]]"
+- "[[G0615]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 13:15**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 <small><sub>**BSB:**</sub></small>
 The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed.
-<small><sub>**Literal:**</sub></small>
-And there was given to it to give breath to the image of the beast so that also may speak the image of the beast, and may cause that as many as might not shall worship the image of the beast shall be killed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.14|<< Revelation 13:14]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.16|Revelation 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G1325\|δοῦναι]]  [[G4151H\|πνεῦμα]]  [[G3588\|τῇ]]  [[G1504\|εἰκόνι]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G2980\|λαλήσῃ]]  [[G3588\|ἡ]]  [[G1504\|εἰκὼν]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου,]]  [[G2532\|καὶ]]  [[G4160G\|ποιήσῃ,]]  [[G2443\|ἵνα]]  [[G3745\|ὅσοι]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4352\|προσκυνήσωσιν]]  [[G3588\|τῇ]]  [[G1504\|εἰκόνι]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G0615\|ἀποκτανθῶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.14|<< Revelation 13:14]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.16|Revelation 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

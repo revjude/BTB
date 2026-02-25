@@ -1,10 +1,59 @@
+---
+title: Philippians 1:12
+type: Verse
+kjv: "But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;"
+bsb: "Now I want you to know, brothers, that my circumstances have actually served to advance the gospel."
+greek: "Γινώσκειν δὲ ὑμᾶς βούλομαι, ἀδελφοί, ὅτι τὰ κατ᾽ ἐμὲ μᾶλλον εἰς προκοπὴν τοῦ εὐαγγελίου ἐλήλυθεν,"
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ROME|ROME]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1097]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1014]]"
+- "[[G0080]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G3123H]]"
+- "[[G1519]]"
+- "[[G4297]]"
+- "[[G2098]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **Philippians 1:12**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I would ye should understand, brethren, that the things [which happened] unto me have fallen out rather unto the furtherance of the gospel;
 <small><sub>**BSB:**</sub></small>
 Now I want you to know, brothers, that my circumstances have actually served to advance the gospel.
-<small><sub>**Literal:**</sub></small>
-To know now you I want, brothers, that the [things] concerning me myself really to [the] advancement of the gospel have turned out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.11|<< Philippians 1:11]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.13|Philippians 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Γινώσκειν]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G1014\|βούλομαι,]]  [[G0080\|ἀδελφοί,]]  [[G3754G\|ὅτι]]  [[G3588\|τὰ]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμὲ]]  [[G3123H\|μᾶλλον]]  [[G1519\|εἰς]]  [[G4297\|προκοπὴν]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G2064\|ἐλήλυθεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ROME|ROME]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.11|<< Philippians 1:11]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.13|Philippians 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

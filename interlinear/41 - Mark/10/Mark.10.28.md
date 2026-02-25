@@ -1,10 +1,54 @@
+---
+title: Mark 10:28
+type: Verse
+kjv: "Then Peter began to say unto him, Lo, we have left all, and have followed thee."
+bsb: "Peter began to say to Him, “Look, we have left everything and followed You.”"
+greek: "Καὶ ἤρξατο λέγειν ὁ Πέτρος αὐτῷ· ἰδοὺ ἡμεῖς ἀφήκαμεν πάντα καὶ ἠκολουθήκαμέν σοι.¶"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G3165]]"
+- "[[G0863G]]"
+- "[[G3956]]"
+- "[[G0190]]"
+- "[[G4771]]"
+texts:
+- k
+- NKO
+- N(k)O
+---
+
 **Mark 10:28**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter began to say unto him, Lo, we have left all, and have followed thee.
 <small><sub>**BSB:**</sub></small>
 Peter began to say to Him, “Look, we have left everything and followed You.”
-<small><sub>**Literal:**</sub></small>
-and Began to say <the> Peter to Him; Behold we ourselves left all and have followed You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.27|<< Mark 10:27]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.29|Mark 10:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0757\|ἤρξατο]]  [[G3004G\|λέγειν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0846\|αὐτῷ·]]  [[G2400\|ἰδοὺ]]  [[G3165\|ἡμεῖς]]  [[G0863G\|ἀφήκαμεν]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G0190\|ἠκολουθήκαμέν]]  [[G4771\|σοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.27|<< Mark 10:27]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.29|Mark 10:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

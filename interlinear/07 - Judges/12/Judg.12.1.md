@@ -1,8 +1,80 @@
+---
+title: Judges 12:1
+type: Verse
+kjv: "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire."
+bsb: "Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!”"
+hebrew: "וַיִּצָּעֵק֙ אִ֣ישׁ אֶפְרַ֔יִם וַֽיַּעֲבֹ֖ר צָפ֑וֹנָה וַיֹּאמְר֨וּ לְיִפְתָּ֜ח מַדּ֣וּעַ׀ עָבַ֣רְתָּ׀ לְהִלָּחֵ֣ם בִּבְנֵי־ עַמּ֗וֹן וְלָ֙נוּ֙ לֹ֤א קָרָ֙אתָ֙ לָלֶ֣כֶת עִמָּ֔ךְ בֵּיתְךָ֕ נִשְׂרֹ֥ף עָלֶ֖יךָ בָּאֵֽשׁ׃"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H0376G]]"
+- "[[H0669G]]"
+- "[[H5674A]]"
+- "[[H6828H]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3316H]]"
+- "[[H4069]]"
+- "[[H9015]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H9002]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H7121G]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H8313]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:1**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
 <small><sub>**BSB:**</sub></small>
 Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יִּצָּעֵק֙]] [[H0376G\|אִ֣ישׁ]] [[H0669G\|אֶפְרַ֔יִם]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֹ֖ר]] [[H6828H\|צָפ֑וֹנָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H9005\|לְ]][[H3316H\|יִפְתָּ֜ח]] [[H4069\|מַדּ֣וּעַ]][[H9015\|׀]] [[H5674A\|עָבַ֣רְתָּ]][[H9015\|׀]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H9003\|בִּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H5983\|עַמּ֗וֹן]] [[H9002\|וְ]][[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H3808\|לֹ֤א]] [[H7121G\|קָרָ֙אתָ֙]] [[H9005\|לָ]][[H1980G\|לֶ֣כֶת]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H1004B\|בֵּיתְ]][[H9021\|ךָ֕]] [[H8313\|נִשְׂרֹ֥ף]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CITIZENS|CITIZENS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic JUDGE|JUDGE]] • [[topic STRIFE|STRIFE]] • [[topic TREASON|TREASON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.40|<< Judges 11:40]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.2|Judges 12:2 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 10:8
+type: Verse
+kjv: "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor."
+bsb: "He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless."
+hebrew: "יֵשֵׁ֤ב׀ בְּמַאְרַ֬ב חֲצֵרִ֗ים בַּֽ֭מִּסְתָּרִים יַהֲרֹ֣ג נָקִ֑י עֵ֝ינָ֗יו לְֽחֵלְכָ֥ה יִצְפֹּֽנוּ׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3993]]"
+- "[[H2691B]]"
+- "[[H4565]]"
+- "[[H2026]]"
+- "[[H5355A]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2489]]"
+- "[[H6845]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:8**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
 <small><sub>**BSB:**</sub></small>
 He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|יֵשֵׁ֤ב]][[H9015\|׀]] [[H9003\|בְּ]][[H3993\|מַאְרַ֬ב]] [[H2691B\|חֲצֵרִ֗ים]] [[H9003\|בַּֽ֭]][[H4565\|מִּסְתָּרִים]] [[H2026\|יַהֲרֹ֣ג]] [[H5355A\|נָקִ֑י]] [[H5869A\|עֵ֝ינָ֗י]][[H9023\|ו]] [[H9005\|לְֽ]][[H2489\|חֵלְכָ֥ה]] [[H6845\|יִצְפֹּֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic MALICE|MALICE]] • [[topic POOR|POOR]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.7|<< Psalms 10:7]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.9|Psalms 10:9 >>]]</td></tr></table>
 

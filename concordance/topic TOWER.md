@@ -1,7 +1,7 @@
 
 **TOWER**
 
-→ Of Babel [[Gen.11.1|Ge 11:1]]-[[Gen.11.9|9]]
+→ Of Babel [[Gen.11.1|Ge 11:1-9]]
 
 → Of Edar [[Gen.35.21|Ge 35:21]]
 

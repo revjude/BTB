@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 11:2
+type: Verse
+kjv: "And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel."
+bsb: "Even in times past, while Saul was king, you were the one who led Israel out and brought them back. And the LORD your God said, ‘You will shepherd My people Israel, and you will be ruler over them.’”"
+hebrew: "גַּם־ תְּמ֣וֹל גַּם־ שִׁלְשׁ֗וֹם גַּ֚ם בִּהְי֣וֹת שָׁא֣וּל מֶ֔לֶךְ אַתָּ֛ה הַמּוֹצִ֥יא וְהַמֵּבִ֖יא אֶת־ יִשְׂרָאֵ֑ל וַיֹּאמֶר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ לְךָ֗ אַתָּ֨ה תִרְעֶ֤ה אֶת־ עַמִּי֙ אֶת־ יִשְׂרָאֵ֔ל וְאַתָּה֙ תִּהְיֶ֣ה נָגִ֔יד עַ֖ל עַמִּ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.11.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H7586G]]"
+- "[[H4428G]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H3318H]]"
+- "[[H9002]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7462B]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:2**<big><big>[[1Chr.11.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And moreover in time past, even when Saul was king, thou [wast] he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.
 <small><sub>**BSB:**</sub></small>
 Even in times past, while Saul was king, you were the one who led Israel out and brought them back. And the LORD your God said, ‘You will shepherd My people Israel, and you will be ruler over them.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H8543\|תְּמ֣וֹל]] [[H1571\|גַּם]][[H9014\|־]] [[H8032\|שִׁלְשׁ֗וֹם]] [[H1571\|גַּ֚ם]] [[H9003\|בִּ]][[H1961\|הְי֣וֹת]] [[H7586G\|שָׁא֣וּל]] [[H4428G\|מֶ֔לֶךְ]] [[H0859A\|אַתָּ֛ה]] [[H9009\|הַ]][[H3318H\|מּוֹצִ֥יא]] [[H9002\|וְ]][[H9009\|הַ]][[H0935P\|מֵּבִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H0859A\|אַתָּ֨ה]] [[H7462B\|תִרְעֶ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H1961\|תִּהְיֶ֣ה]] [[H5057\|נָגִ֔יד]] [[H5921A\|עַ֖ל]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.1|<< 1 Chronicles 11:1]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.3|1 Chronicles 11:3 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Genesis 9:23
+type: Verse
+kjv: "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father’s nakedness."
+bsb: "Then Shem and Japheth took a garment and placed it across their shoulders, and walking backward, they covered their father’s nakedness. Their faces were turned away so that they did not see their father’s nakedness."
+hebrew: "וַיִּקַּח֩ שֵׁ֨ם וָיֶ֜פֶת אֶת־ הַשִּׂמְלָ֗ה וַיָּשִׂ֙ימוּ֙ עַל־ שְׁכֶ֣ם שְׁנֵיהֶ֔ם וַיֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית וַיְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִיהֶ֑ם וּפְנֵיהֶם֙ אֲחֹ֣רַנִּ֔ית וְעֶרְוַ֥ת אֲבִיהֶ֖ם לֹ֥א רָאֽוּ׃"
+pericope: "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HAM|HAM]]"
+- "[[topic JAPHETH|JAPHETH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8035]]"
+- "[[H9002]]"
+- "[[H3315]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8071]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H0322]]"
+- "[[H3680]]"
+- "[[H6172]]"
+- "[[H0001G]]"
+- "[[H6440H]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:23**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father’s nakedness.
 <small><sub>**BSB:**</sub></small>
 Then Shem and Japheth took a garment and placed it across their shoulders, and walking backward, they covered their father’s nakedness. Their faces were turned away so that they did not see their father’s nakedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H8035\|שֵׁ֨ם]] [[H9002\|וָ]][[H3315\|יֶ֜פֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8071\|שִּׂמְלָ֗ה]] [[H9001\|וַ]][[H7760H\|יָּשִׂ֙ימוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7926\|שְׁכֶ֣ם]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H1980I\|יֵּֽלְכוּ֙]] [[H0322\|אֲחֹ֣רַנִּ֔ית]] [[H9001\|וַ]][[H3680\|יְכַסּ֕וּ]] [[H0853\|אֵ֖ת]] [[H6172\|עֶרְוַ֣ת]] [[H0001G\|אֲבִי]][[H9028\|הֶ֑ם]] [[H9002\|וּ]][[H6440H\|פְנֵי]][[H9028\|הֶם֙]] [[H0322\|אֲחֹ֣רַנִּ֔ית]] [[H9002\|וְ]][[H6172\|עֶרְוַ֥ת]] [[H0001G\|אֲבִי]][[H9028\|הֶ֖ם]] [[H3808\|לֹ֥א]] [[H7200G\|רָאֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HAM|HAM]] • [[topic JAPHETH|JAPHETH]] • [[topic NOAH|NOAH]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.22|<< Genesis 9:22]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.24|Genesis 9:24 >>]]</td></tr></table>
 

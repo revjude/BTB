@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Uncleanness of Men
+type: Pericope
 pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 15
 book/chapter: "[[Lev.15|Leviticus 15]]"
-genre:
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 12
 verses:
 - "[[Lev.15.1]]"
 - "[[Lev.15.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Lev.15.12]]"
 ---
 
-[[Lev.15|Leviticus 15:1 - Leviticus 15:12]]
+<small>[[Lev.15|Leviticus 15:1-12]]</small>
 *The Uncleanness of Men*
 
 [[Lev.15.1|1]] And the LORD spake unto Moses and to Aaron, saying,

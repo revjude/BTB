@@ -1,8 +1,70 @@
+---
+title: Nehemiah 6:6
+type: Verse
+kjv: "Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words."
+bsb: "that read: “It is reported among the nations—and Geshem agrees—that you and the Jews are plotting to revolt, and this is why you are building the wall. According to these reports, you are to become their king,"
+hebrew: "כָּת֣וּב בָּ֗הּ בַּגּוֹיִ֤ם נִשְׁמָע֙ וְגַשְׁמ֣וּ אֹמֵ֔ר אַתָּ֤ה וְהַיְּהוּדִים֙ חֹשְׁבִ֣ים לִמְר֔וֹד עַל־ כֵּ֛ן אַתָּ֥ה בוֹנֶ֖ה הַחוֹמָ֑ה וְאַתָּ֗ה הֹוֶ֤ה לָהֶם֙ לְמֶ֔לֶךְ כַּדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic GASHMU|GASHMU]]"
+- "[[topic GESHEM|GESHEM]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H1471A]]"
+- "[[H8085I]]"
+- "[[H9002]]"
+- "[[H1654]]"
+- "[[H0559]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H2803I]]"
+- "[[H9005]]"
+- "[[H4775]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1129]]"
+- "[[H2346G]]"
+- "[[H1933B]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:6**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherein [was] written, It is reported among the heathen, and Gashmu saith [it, that] thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
 <small><sub>**BSB:**</sub></small>
 that read: “It is reported among the nations—and Geshem agrees—that you and the Jews are plotting to revolt, and this is why you are building the wall. According to these reports, you are to become their king,
+<small><sub>**Hebrew:**</sub></small>
+[[H3789\|כָּת֣וּב]] [[H9003\|בָּ֗]][[H9034\|הּ]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֤ם]] [[H8085I\|נִשְׁמָע֙]] [[H9002\|וְ]][[H1654\|גַשְׁמ֣וּ]] [[H0559\|אֹמֵ֔ר]] [[H0859A\|אַתָּ֤ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3064\|יְּהוּדִים֙]] [[H2803I\|חֹשְׁבִ֣ים]] [[H9005\|לִ]][[H4775\|מְר֔וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H0859A\|אַתָּ֥ה]] [[H1129\|בוֹנֶ֖ה]] [[H9009\|הַ]][[H2346G\|חוֹמָ֑ה]] [[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H1933B\|הֹוֶ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H4428G\|מֶ֔לֶךְ]] [[H9004\|כַּ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic GASHMU|GASHMU]] • [[topic GESHEM|GESHEM]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.5|<< Nehemiah 6:5]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.7|Nehemiah 6:7 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: What Defiles a Man
+type: Pericope
 pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 15
 book/chapter: "[[Matt.15|Matthew 15]]"
-genre:
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.15.10]]"
 - "[[Matt.15.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.15.20]]"
 ---
 
-[[Matt.15|Matthew 15:10 - Matthew 15:20]]
+<small>[[Matt.15|Matthew 15:10-20]]</small>
 *What Defiles a Man*
 
 [[Matt.15.10|10]] And he called the multitude, and said unto them, Hear, and understand:

@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 15:27
+type: Verse
+kjv: "And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen."
+bsb: "Now David was dressed in a robe of fine linen, as were all the Levites who were carrying the ark, as well as the singers and Chenaniah, the director of music for the singers. David also wore a linen ephod."
+hebrew: "וְדָוִ֞יד מְכֻרְבָּ֣ל׀ בִּמְעִ֣יל בּ֗וּץ וְכָל־ הַלְוִיִּם֙ הַנֹּשְׂאִ֣ים אֶת־ הָאָר֔וֹן וְהַמְשֹׁ֣רְרִ֔ים וּכְנַנְיָ֛ה הַשַּׂ֥ר הַמַּשָּׂ֖א הַמְשֹֽׁרְרִ֑ים וְעַל־ דָּוִ֖יד אֵפ֥וֹד בָּֽד׃"
+pericope: "[[1Chr.15.25 Moving the Ark to Jerusalem|Moving the Ark to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHENANIAH|CHENANIAH]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H3736]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4598]]"
+- "[[H0948]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H7891]]"
+- "[[H3663]]"
+- "[[H8269]]"
+- "[[H4853A]]"
+- "[[H5921A]]"
+- "[[H0646]]"
+- "[[H0906]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:27**<big><big>[[1Chr.15.25 Moving the Ark to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David [was] clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also [had] upon him an ephod of linen.
 <small><sub>**BSB:**</sub></small>
 Now David was dressed in a robe of fine linen, as were all the Levites who were carrying the ark, as well as the singers and Chenaniah, the director of music for the singers. David also wore a linen ephod.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֞יד]] [[H3736\|מְכֻרְבָּ֣ל]][[H9015\|׀]] [[H9003\|בִּ]][[H4598\|מְעִ֣יל]] [[H0948\|בּ֗וּץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H9009\|הַ]][[H5375H\|נֹּשְׂאִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָר֔וֹן]] [[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹׁ֣רְרִ֔ים]] [[H9002\|וּ]][[H3663\|כְנַנְיָ֛ה]] [[H9009\|הַ]][[H8269\|שַּׂ֥ר]] [[H9009\|הַ]][[H4853A\|מַּשָּׂ֖א]] [[H9009\|הַ]][[H7891\|מְשֹֽׁרְרִ֑ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1732\|דָּוִ֖יד]] [[H0646\|אֵפ֥וֹד]] [[H0906\|בָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHENANIAH|CHENANIAH]] • [[topic DRESS|DRESS]] • [[topic LEVITES|LEVITES]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.26|<< 1 Chronicles 15:26]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.28|1 Chronicles 15:28 >>]]</td></tr></table>
 

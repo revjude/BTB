@@ -1,8 +1,65 @@
+---
+title: Judges 20:42
+type: Verse
+kjv: "Therefore they turned their backs before the men of Israel unto the way of the wilderness; but the battle overtook them; and them which came out of the cities they destroyed in the midst of them."
+bsb: "So they fled before the men of Israel toward the wilderness, but the battle overtook them, and the men coming out of the cities struck them down there."
+hebrew: "וַיִּפְנ֞וּ לִפְנֵ֨י אִ֤ישׁ יִשְׂרָאֵל֙ אֶל־ דֶּ֣רֶךְ הַמִּדְבָּ֔ר וְהַמִּלְחָמָ֖ה הִדְבִּיקָ֑תְהוּ וַאֲשֶׁר֙ מֵהֶ֣עָרִ֔ים מַשְׁחִיתִ֥ים אוֹת֖וֹ בְּתוֹכֽוֹ׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1870J]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H1692]]"
+- "[[H9033]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:42**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they turned [their backs] before the men of Israel unto the way of the wilderness; but the battle overtook them; and them which [came] out of the cities they destroyed in the midst of them.
 <small><sub>**BSB:**</sub></small>
 So they fled before the men of Israel toward the wilderness, but the battle overtook them, and the men coming out of the cities struck them down there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֞וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H0376G\|אִ֤ישׁ]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֔ר]] [[H9002\|וְ]][[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H1692\|הִדְבִּיקָ֑תְ]][[H9033\|הוּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר֙]] [[H9006\|מֵ]][[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H7843\|מַשְׁחִיתִ֥ים]] [[H0853\|אוֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H8432\|תוֹכֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.41|<< Judges 20:41]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.43|Judges 20:43 >>]]</td></tr></table>
 

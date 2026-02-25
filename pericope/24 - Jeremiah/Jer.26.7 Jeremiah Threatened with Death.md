@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Threatened with Death
+type: Pericope
 pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 26
 book/chapter: "[[Jer.26|Jeremiah 26]]"
-genre:
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.26.7]]"
 - "[[Jer.26.8]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.26.15]]"
 ---
 
-[[Jer.26|Jeremiah 26:7 - Jeremiah 26:15]]
+<small>[[Jer.26|Jeremiah 26:7-15]]</small>
 *Jeremiah Threatened with Death*
 
 [[Jer.26.7|7]] So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the LORD.

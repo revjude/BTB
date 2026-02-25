@@ -1,8 +1,58 @@
+---
+title: Isaiah 40:13
+type: Verse
+kjv: "Who hath directed the Spirit of the LORD, or being his counseller hath taught him?"
+bsb: "Who has directed the Spirit of the LORD, or informed Him as His counselor?"
+hebrew: "מִֽי־ תִכֵּ֥ן אֶת־ ר֖וּחַ יְהוָ֑ה וְאִ֥ישׁ עֲצָת֖וֹ יוֹדִיעֶֽנּוּ׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H8505]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H6098]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:13**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath directed the Spirit of the LORD, or [being] his counseller hath taught him?
 <small><sub>**BSB:**</sub></small>
 Who has directed the Spirit of the LORD, or informed Him as His counselor?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H8505\|תִכֵּ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֖וּחַ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H6098\|עֲצָת֖]][[H9023\|וֹ]] [[H3045\|יוֹדִיעֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.12|<< Isaiah 40:12]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.14|Isaiah 40:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

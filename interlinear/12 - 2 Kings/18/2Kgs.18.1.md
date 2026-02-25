@@ -1,8 +1,60 @@
+---
+title: 2 Kings 18:1
+type: Verse
+kjv: "Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign."
+bsb: "In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah."
+hebrew: "וַֽיְהִי֙ בִּשְׁנַ֣ת שָׁלֹ֔שׁ לְהוֹשֵׁ֥עַ בֶּן־ אֵלָ֖ה מֶ֣לֶךְ יִשְׂרָאֵ֑ל מָלַ֛ךְ חִזְקִיָּ֥ה בֶן־ אָחָ֖ז מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H1954G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0425I]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H4427A]]"
+- "[[H2396G]]"
+- "[[H0271G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:1**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass in the third year of Hoshea son of Elah king of Israel, [that] Hezekiah the son of Ahaz king of Judah began to reign.
 <small><sub>**BSB:**</sub></small>
 In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁלֹ֔שׁ]] [[H9005\|לְ]][[H1954G\|הוֹשֵׁ֥עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0425I\|אֵלָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4427A\|מָלַ֛ךְ]] [[H2396G\|חִזְקִיָּ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0271G\|אָחָ֖ז]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.41|<< 2 Kings 17:41]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.2|2 Kings 18:2 >>]]</td></tr></table>
 

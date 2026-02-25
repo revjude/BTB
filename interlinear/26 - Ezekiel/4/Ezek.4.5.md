@@ -1,8 +1,65 @@
+---
+title: Ezekiel 4:5
+type: Verse
+kjv: "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel."
+bsb: "For I have assigned to you 390 days, according to the number of years of their iniquity. So you shall bear the iniquity of the house of Israel."
+hebrew: "וַאֲנִ֗י נָתַ֤תִּֽי לְךָ֙ אֶת־ שְׁנֵ֣י עֲוֹנָ֔ם לְמִסְפַּ֣ר יָמִ֔ים שְׁלֹשׁ־ מֵא֥וֹת וְתִשְׁעִ֖ים י֑וֹם וְנָשָׂ֖אתָ עֲוֹ֥ן בֵּֽית־ יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H5771I]]"
+- "[[H9028]]"
+- "[[H4557]]"
+- "[[H3117G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H8673]]"
+- "[[H9001]]"
+- "[[H5375J]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:5**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.
 <small><sub>**BSB:**</sub></small>
 For I have assigned to you 390 days, according to the number of years of their iniquity. So you shall bear the iniquity of the house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H5414G\|נָתַ֤תִּֽי]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8141\|שְׁנֵ֣י]] [[H5771I\|עֲוֹנָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H4557\|מִסְפַּ֣ר]] [[H3117G\|יָמִ֔ים]] [[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H9002\|וְ]][[H8673\|תִשְׁעִ֖ים]] [[H3117G\|י֑וֹם]] [[H9001\|וְ]][[H5375J\|נָשָׂ֖אתָ]] [[H5771I\|עֲוֹ֥ן]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.4|<< Ezekiel 4:4]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.6|Ezekiel 4:6 >>]]</td></tr></table>
 

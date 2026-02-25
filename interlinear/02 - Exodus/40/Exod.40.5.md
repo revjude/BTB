@@ -1,8 +1,63 @@
+---
+title: Exodus 40:5
+type: Verse
+kjv: "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle."
+bsb: "Place the gold altar of incense in front of the ark of the Testimony, and hang the curtain at the entrance to the tabernacle."
+hebrew: "וְנָתַתָּ֞ה אֶת־ מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲר֣וֹן הָעֵדֻ֑ת וְשַׂמְתָּ֛ אֶת־ מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H7004]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H7760A]]"
+- "[[H4539]]"
+- "[[H6607]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:5**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
 <small><sub>**BSB:**</sub></small>
 Place the gold altar of incense in front of the ark of the Testimony, and hang the curtain at the entrance to the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הַ]][[H2091\|זָּהָב֙]] [[H9005\|לִ]][[H7004\|קְטֹ֔רֶת]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H5715\|עֵדֻ֑ת]] [[H9001\|וְ]][[H7760A\|שַׂמְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H4539\|מָסַ֥ךְ]] [[H9009\|הַ]][[H6607\|פֶּ֖תַח]] [[H9005\|לַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.4|<< Exodus 40:4]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.6|Exodus 40:6 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 7:7
+type: Verse
+kjv: "In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?"
+bsb: "In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people Israel, ‘Why haven’t you built Me a house of cedar?’"
+hebrew: "בְּכֹ֥ל אֲשֶֽׁר־ הִתְהַלַּכְתִּי֮ בְּכָל־ בְּנֵ֣י יִשְׂרָאֵל֒ הֲדָבָ֣ר דִּבַּ֗רְתִּי אֶת־ אַחַד֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֣ר צִוִּ֗יתִי לִרְע֛וֹת אֶת־ עַמִּ֥י אֶת־ יִשְׂרָאֵ֖ל לֵאמֹ֑ר לָ֛מָּה לֹֽא־ בְנִיתֶ֥ם לִ֖י בֵּ֥ית אֲרָזִֽים׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H1697G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H0259]]"
+- "[[H7626J]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:7**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all [the places] wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?
 <small><sub>**BSB:**</sub></small>
 In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people Israel, ‘Why haven’t you built Me a house of cedar?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H1980I\|הִתְהַלַּכְתִּי֮]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9008\|הֲ]][[H1697G\|דָבָ֣ר]] [[H1696G\|דִּבַּ֗רְתִּי]] [[H0854\|אֶת]][[H9014\|־]] [[H0259\|אַחַד֙]] [[H7626J\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּ֗יתִי]] [[H9005\|לִ]][[H7462B\|רְע֛וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9005\|לָ֛]][[H4100\|מָּה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1129\|בְנִיתֶ֥ם]] [[H9005\|לִ֖]][[H9030\|י]] [[H1004B\|בֵּ֥ית]] [[H0730\|אֲרָזִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.6|<< 2 Samuel 7:6]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.8|2 Samuel 7:8 >>]]</td></tr></table>
 

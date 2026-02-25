@@ -1,8 +1,74 @@
+---
+title: Jeremiah 26:9
+type: Verse
+kjv: "Why hast thou prophesied in the name of the LORD, saying, This house shall be like Shiloh, and this city shall be desolate without an inhabitant? And all the people were gathered against Jeremiah in the house of the LORD."
+bsb: "How dare you prophesy in the name of the LORD that this house will become like Shiloh and this city will be desolate and deserted!” And all the people assembled against Jeremiah in the house of the LORD."
+hebrew: "מַדּוּעַ֩ נִבֵּ֨יתָ בְשֵׁם־ יְהוָ֜ה לֵאמֹ֗ר כְּשִׁלוֹ֙ יִֽהְיֶה֙ הַבַּ֣יִת הַזֶּ֔ה וְהָעִ֥יר הַזֹּ֛את תֶּחֱרַ֖ב מֵאֵ֣ין יוֹשֵׁ֑ב וַיִּקָּהֵ֧ל כָּל־ הָעָ֛ם אֶֽל־ יִרְמְיָ֖הוּ בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H4069]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H7887]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H2717B]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:9**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why hast thou prophesied in the name of the LORD, saying, This house shall be like Shiloh, and this city shall be desolate without an inhabitant? And all the people were gathered against Jeremiah in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 How dare you prophesy in the name of the LORD that this house will become like Shiloh and this city will be desolate and deserted!” And all the people assembled against Jeremiah in the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H4069\|מַדּוּעַ֩]] [[H5012\|נִבֵּ֨יתָ]] [[H9003\|בְ]][[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9004\|כְּ]][[H7887\|שִׁלוֹ֙]] [[H1961\|יִֽהְיֶה֙]] [[H9009\|הַ]][[H1004Q\|בַּ֣יִת]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H2717B\|תֶּחֱרַ֖ב]] [[H9006\|מֵ]][[H0369\|אֵ֣ין]] [[H3427\|יוֹשֵׁ֑ב]] [[H9001\|וַ]][[H6950\|יִּקָּהֵ֧ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDICTMENTS|INDICTMENTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.8|<< Jeremiah 26:8]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.10|Jeremiah 26:10 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Isaiah 44:19
+type: Verse
+kjv: "And none considereth in his heart, neither is there knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten it: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?"
+bsb: "And no one considers in his heart, no one has the knowledge or insight to say, “I burned half of it in the fire, and I baked bread on its coals; I roasted meat and I ate. Shall I make something detestable with the rest of it? Shall I bow down to a block of wood?”"
+hebrew: "וְלֹא־ יָשִׁ֣יב אֶל־ לִבּ֗וֹ וְלֹ֨א דַ֥עַת וְלֹֽא־ תְבוּנָה֮ לֵאמֹר֒ חֶצְי֞וֹ שָׂרַ֣פְתִּי בְמוֹ־ אֵ֗שׁ וְ֠אַף אָפִ֤יתִי עַל־ גֶּחָלָיו֙ לֶ֔חֶם אֶצְלֶ֥ה בָשָׂ֖ר וְאֹכֵ֑ל וְיִתְרוֹ֙ לְתוֹעֵבָ֣ה אֶעֱשֶׂ֔ה לְב֥וּל עֵ֖ץ אֶסְגּֽוֹד׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725N]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1847]]"
+- "[[H8394]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2677]]"
+- "[[H8313]]"
+- "[[H1119]]"
+- "[[H0784]]"
+- "[[H0637]]"
+- "[[H0644]]"
+- "[[H5921A]]"
+- "[[H1513]]"
+- "[[H3899H]]"
+- "[[H6740]]"
+- "[[H1320]]"
+- "[[H0398]]"
+- "[[H3499A]]"
+- "[[H8441]]"
+- "[[H6213H]]"
+- "[[H0944]]"
+- "[[H6086G]]"
+- "[[H5456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:19**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And none considereth in his heart, neither [is there] knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten [it]: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?
 <small><sub>**BSB:**</sub></small>
 And no one considers in his heart, no one has the knowledge or insight to say, “I burned half of it in the fire, and I baked bread on its coals; I roasted meat and I ate. Shall I make something detestable with the rest of it? Shall I bow down to a block of wood?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7725N\|יָשִׁ֣יב]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H1847\|דַ֥עַת]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8394\|תְבוּנָה֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H2677\|חֶצְי֞]][[H9023\|וֹ]] [[H8313\|שָׂרַ֣פְתִּי]] [[H1119\|בְמוֹ]][[H9014\|־]] [[H0784\|אֵ֗שׁ]] [[H9002\|וְ֠]][[H0637\|אַף]] [[H0644\|אָפִ֤יתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H1513\|גֶּחָלָי]][[H9023\|ו֙]] [[H3899H\|לֶ֔חֶם]] [[H6740\|אֶצְלֶ֥ה]] [[H1320\|בָשָׂ֖ר]] [[H9002\|וְ]][[H0398\|אֹכֵ֑ל]] [[H9002\|וְ]][[H3499A\|יִתְר]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H8441\|תוֹעֵבָ֣ה]] [[H6213H\|אֶעֱשֶׂ֔ה]] [[H9005\|לְ]][[H0944\|ב֥וּל]] [[H6086G\|עֵ֖ץ]] [[H5456\|אֶסְגּֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic BREAD|BREAD]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.18|<< Isaiah 44:18]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.20|Isaiah 44:20 >>]]</td></tr></table>
 

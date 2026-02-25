@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Change of Plans
+type: Pericope
 pericope: "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 1
 book/chapter: "[[2Cor.1|2 Corinthians 1]]"
-genre:
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 13
 verses:
 - "[[2Cor.1.12]]"
 - "[[2Cor.1.13]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Cor.1.24]]"
 ---
 
-[[2Cor.1|2 Corinthians 1:12 - 2 Corinthians 1:24]]
+<small>[[2Cor.1|2 Corinthians 1:12-24]]</small>
 *Paul’s Change of Plans*
 
 [[2Cor.1.12|12]] For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.

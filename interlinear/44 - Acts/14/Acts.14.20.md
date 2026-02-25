@@ -1,10 +1,61 @@
+---
+title: Acts 14:20
+type: Verse
+kjv: "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe."
+bsb: "But after the disciples had gathered around him, he got up and went back into the city. And the next day he left with Barnabas for Derbe."
+greek: "κυκλωσάντων δὲ τῶν μαθητῶν αὐτὸν ἀναστὰς εἰσῆλθεν εἰς τὴν πόλιν καὶ τῇ ἐπαύριον ἐξῆλθεν σὺν τῷ Βαρναβᾷ εἰς Δέρβην."
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic DERBE|DERBE]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2944]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G0450]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G1887]]"
+- "[[G1831]]"
+- "[[G4862]]"
+- "[[G0921G]]"
+- "[[G1191]]"
+texts:
+- NKO
+---
+
 **Acts 14:20**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
 <small><sub>**BSB:**</sub></small>
 But after the disciples had gathered around him, he got up and went back into the city. And the next day he left with Barnabas for Derbe.
-<small><sub>**Literal:**</sub></small>
-When were sorrounding however the disciples him having risen up he entered into the city And on the next day he went away with <the> Barnabas to Derbe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.19|<< Acts 14:19]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.21|Acts 14:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2944\|κυκλωσάντων]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτὸν]]  [[G0450\|ἀναστὰς]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G1887\|ἐπαύριον]]  [[G1831\|ἐξῆλθεν]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G0921G\|Βαρναβᾷ]]  [[G1519\|εἰς]]  [[G1191\|Δέρβην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic BARNABAS|BARNABAS]] • [[topic DERBE|DERBE]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.19|<< Acts 14:19]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.21|Acts 14:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

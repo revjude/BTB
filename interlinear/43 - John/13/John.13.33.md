@@ -1,10 +1,63 @@
+---
+title: John 13:33
+type: Verse
+kjv: "Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you."
+bsb: "Little children, I am with you only a little while longer. You will look for Me, and as I said to the Jews, so now I say to you: ‘Where I am going, you cannot come.’"
+jesus_said: "Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you."
+greek: "τεκνία, ἔτι μικρὸν μεθ᾽ ὑμῶν εἰμι. ζητήσετέ με, καὶ καθὼς εἶπον τοῖς Ἰουδαίοις ὅτι ὅπου ἐγὼ ὑπάγω, ὑμεῖς οὐ δύνασθε ἐλθεῖν, καὶ ὑμῖν λέγω ἄρτι.¶"
+pericope: "[[John.13.31 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5040]]"
+- "[[G2089]]"
+- "[[G3398]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G3754G]]"
+- "[[G3699]]"
+- "[[G1473]]"
+- "[[G5217]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2064]]"
+- "[[G3004G]]"
+- "[[G0737]]"
+texts:
+- NKO
+---
+
 **John 13:33**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.
 <small><sub>**BSB:**</sub></small>
 Little children, I am with you only a little while longer. You will look for Me, and as I said to the Jews, so now I say to you: ‘Where I am going, you cannot come.’
-<small><sub>**Literal:**</sub></small>
-Little children, yet a little while with you I am. You will seek Me, and even as I said to the Jews that Where I myself go you yourselves not are able to come, also to you I say now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.32|<< John 13:32]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.34|John 13:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5040\|τεκνία,]]  [[G2089\|ἔτι]]  [[G3398\|μικρὸν]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1510\|εἰμι.]]  [[G2212\|ζητήσετέ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G2531\|καθὼς]]  [[G2036\|εἶπον]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G3754G\|ὅτι]]  [[G3699\|ὅπου]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω,]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G2064\|ἐλθεῖν,]]  [[G2532\|καὶ]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω]]  [[G0737\|ἄρτι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.32|<< John 13:32]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.34|John 13:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

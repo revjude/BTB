@@ -1,10 +1,66 @@
+---
+title: 2 Timothy 3:15
+type: Verse
+kjv: "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus."
+bsb: "From infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus."
+greek: "καὶ ὅτι ἀπὸ βρέφους τὰ ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ.¶"
+pericope: "[[2Tim.3.10 All Scripture Is God-Breathed|All Scripture Is God-Breathed]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3754H]]"
+- "[[G0575]]"
+- "[[G1025]]"
+- "[[G3588]]"
+- "[[G2413]]"
+- "[[G1121]]"
+- "[[G6063]]"
+- "[[G1410]]"
+- "[[G4771]]"
+- "[[G4679]]"
+- "[[G1519]]"
+- "[[G4991]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **2 Timothy 3:15**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 From infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-and for from childhood the sacred writings you know, which are being able you to make wise unto salvation through faith <the> in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.14|<< 2 Timothy 3:14]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.16|2 Timothy 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3754H\|ὅτι]]  [[G0575\|ἀπὸ]]  [[G1025\|βρέφους]]  [[G3588\|τὰ]]  [[G2413\|ἱερὰ]]  [[G1121\|γράμματα]]  [[G6063\|οἶδας,]]  [[G3588\|τὰ]]  [[G1410\|δυνάμενά]]  [[G4771\|σε]]  [[G4679\|σοφίσαι]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν]]  [[G1223\|διὰ]]  [[G4102G\|πίστεως]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SALVATION|SALVATION]] • [[topic TIMOTHY|TIMOTHY]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.14|<< 2 Timothy 3:14]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.16|2 Timothy 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 13:3
+type: Verse
+kjv: "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you."
+bsb: "since you are demanding proof that Christ is speaking through me. He is not weak in dealing with you but is powerful among you."
+greek: "ἐπεὶ δοκιμὴν ζητεῖτε τοῦ ἐν ἐμοὶ λαλοῦντος Χριστοῦ ὃς εἰς ὑμᾶς οὐκ ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+strongs:
+- "[[G1893]]"
+- "[[G1382]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2980]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G0770G]]"
+- "[[G0235]]"
+- "[[G1414]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:3**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 <small><sub>**BSB:**</sub></small>
 since you are demanding proof that Christ is speaking through me. He is not weak in dealing with you but is powerful among you.
-<small><sub>**Literal:**</sub></small>
-since a proof you seek <the> in me myself speaking of Christ who toward you not is weak but He is powerful among you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.2|<< 2 Corinthians 13:2]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.4|2 Corinthians 13:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G1382\|δοκιμὴν]]  [[G2212\|ζητεῖτε]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G2980\|λαλοῦντος]]  [[G5547\|Χριστοῦ]]  [[G3739\|ὃς]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G3756\|οὐκ]]  [[G0770G\|ἀσθενεῖ]]  [[G0235\|ἀλλὰ]]  [[G1414\|δυνατεῖ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.2|<< 2 Corinthians 13:2]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.4|2 Corinthians 13:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Job 21:25
+type: Verse
+kjv: "And another dieth in the bitterness of his soul, and never eateth with pleasure."
+bsb: "Yet another man dies in the bitterness of his soul, having never tasted prosperity."
+hebrew: "וְזֶ֗ה יָ֭מוּת בְּנֶ֣פֶשׁ מָרָ֑ה וְלֹֽא־ אָ֝כַ֗ל בַּטּוֹבָֽה׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H5315G]]"
+- "[[H4751]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H2896C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:25**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And another dieth in the bitterness of his soul, and never eateth with pleasure.
 <small><sub>**BSB:**</sub></small>
 Yet another man dies in the bitterness of his soul, having never tasted prosperity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֗ה]] [[H4191\|יָ֭מוּת]] [[H9003\|בְּ]][[H5315G\|נֶ֣פֶשׁ]] [[H4751\|מָרָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|אָ֝כַ֗ל]] [[H9003\|בַּ]][[H2896C\|טּוֹבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.24|<< Job 21:24]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.26|Job 21:26 >>]]</td></tr></table>
 

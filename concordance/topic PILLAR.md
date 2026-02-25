@@ -1,7 +1,7 @@
 
 **PILLAR**
 
-→ Of Solomon's temple [[1Kgs.7.13|1Ki 7:13]]-[[1Kgs.7.22|22]]; [[2Kgs.25.17|2Ki 25:17]]
+→ Of Solomon's temple [[1Kgs.7.13|1Ki 7:13-22]]; [[2Kgs.25.17|2Ki 25:17]]
 
 → Broken and carried to Babylon [[2Kgs.25.13|2Ki 25:13]]; [[Jer.52.17|Jer 52:17]],[[Jer.52.20|20]],[[Jer.52.21|21]]
 
@@ -19,9 +19,9 @@
 
 → By Moses, the covenant between Jehovah and Israel [[Exod.24.4|Ex  24:4]]
 
-→ By Joshua, the crossing of the Jordan River [[Josh.4.1|Jos 4:1]]-[[Josh.4.9|9]]; with [[Deut.27.2|De 27:2]]-[[Deut.27.6|6]]; [[Josh.8.30|Jos 8:30]]
+→ By Joshua, the crossing of the Jordan River [[Josh.4.1|Jos 4:1-9]]; with [[Deut.27.2|De 27:2-6]]; [[Josh.8.30|Jos 8:30]]
 
-→ By Joshua, at Shechem [[Josh.24.25|Jos 24:25]]-[[Josh.24.27|27]]; with [[Judg.9.6|Jud 9:6]]
+→ By Joshua, at Shechem [[Josh.24.25|Jos 24:25-27]]; with [[Judg.9.6|Jud 9:6]]
 
 → By Samuel, the defeat of the Philistines [[1Sam.7.12|1Sa 7:12]]
 

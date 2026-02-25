@@ -1,8 +1,71 @@
+---
+title: Judges 9:3
+type: Verse
+kjv: "And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
+bsb: "And when his mother’s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, “He is our brother.”"
+hebrew: "וַיְדַבְּר֨וּ אֲחֵֽי־ אִמּ֜וֹ עָלָ֗יו בְּאָזְנֵי֙ כָּל־ בַּעֲלֵ֣י שְׁכֶ֔ם אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיֵּ֤ט לִבָּם֙ אַחֲרֵ֣י אֲבִימֶ֔לֶךְ כִּ֥י אָמְר֖וּ אָחִ֥ינוּ הֽוּא׃"
+pericope: "[[Judg.9.1 Abimelech’s Conspiracy|Abimelech’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0251H]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H3605]]"
+- "[[H1167G]]"
+- "[[H7927G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H5186]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H0310A]]"
+- "[[H0040H]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H0251G]]"
+- "[[H9025]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:3**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He [is] our brother.
 <small><sub>**BSB:**</sub></small>
 And when his mother’s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, “He is our brother.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבְּר֨וּ]] [[H0251H\|אֲחֵֽי]][[H9014\|־]] [[H0517\|אִמּ֜]][[H9023\|וֹ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9003\|בְּ]][[H0241I\|אָזְנֵי֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1167G\|בַּעֲלֵ֣י]] [[H7927G\|שְׁכֶ֔ם]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H5186\|יֵּ֤ט]] [[H3820A\|לִבָּ]][[H9028\|ם֙]] [[H0310A\|אַחֲרֵ֣י]] [[H0040H\|אֲבִימֶ֔לֶךְ]] [[H3588A\|כִּ֥י]] [[H0559\|אָמְר֖וּ]] [[H0251G\|אָחִ֥י]][[H9025\|נוּ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.4|Judges 9:4 >>]]</td></tr></table>
 

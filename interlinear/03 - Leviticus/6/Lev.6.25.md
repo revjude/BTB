@@ -1,8 +1,64 @@
+---
+title: Leviticus 6:25
+type: Verse
+kjv: "Speak unto Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it is most holy."
+bsb: "“Tell Aaron and his sons that this is the law of the sin offering: In the place where the burnt offering is slaughtered, the sin offering shall be slaughtered before the LORD; it is most holy."
+hebrew: "דַּבֵּ֤ר אֶֽל־ אַהֲרֹן֙ וְאֶל־ בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הַֽחַטָּ֑את בִּמְק֡וֹם אֲשֶׁר֩ תִּשָּׁחֵ֨ט הָעֹלָ֜ה תִּשָּׁחֵ֤ט הַֽחַטָּאת֙ לִפְנֵ֣י יְהוָ֔ה קֹ֥דֶשׁ קָֽדָשִׁ֖ים הִֽוא׃"
+pericope: "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H7819A]]"
+- "[[H5930A]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:25**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron and to his sons, saying, This [is] the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
 “Tell Aaron and his sons that this is the law of the sin offering: In the place where the burnt offering is slaughtered, the sin offering shall be slaughtered before the LORD; it is most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֤ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנָ֣י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֑את]] [[H9003\|בִּ]][[H4725\|מְק֡וֹם]] [[H0834A\|אֲשֶׁר֩]] [[H7819A\|תִּשָּׁחֵ֨ט]] [[H9009\|הָ]][[H5930A\|עֹלָ֜ה]] [[H7819A\|תִּשָּׁחֵ֤ט]] [[H9009\|הַֽ]][[H2403H\|חַטָּאת֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1931\|הִֽוא]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.24|<< Leviticus 6:24]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.26|Leviticus 6:26 >>]]</td></tr></table>
 

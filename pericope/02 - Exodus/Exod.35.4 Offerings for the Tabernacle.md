@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings for the Tabernacle
+type: Pericope
 pericope: "[[Exod.35.4 Offerings for the Tabernacle|Offerings for the Tabernacle]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 35
 book/chapter: "[[Exod.35|Exodus 35]]"
-genre:
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.35.4]]"
 - "[[Exod.35.5]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.35.9]]"
 ---
 
-[[Exod.35|Exodus 35:4 - Exodus 35:9]]
+<small>[[Exod.35|Exodus 35:4-9]]</small>
 *Offerings for the Tabernacle*
 
 [[Exod.35.4|4]] And Moses spake unto all the congregation of the children of Israel, saying, This \[is\] the thing which the LORD commanded, saying,

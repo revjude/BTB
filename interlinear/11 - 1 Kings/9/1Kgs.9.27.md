@@ -1,8 +1,63 @@
+---
+title: 1 Kings 9:27
+type: Verse
+kjv: "And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon."
+bsb: "And Hiram sent his servants, sailors who knew the sea, to serve in the fleet with Solomon’s servants."
+hebrew: "וַיִּשְׁלַ֨ח חִירָ֤ם בָּֽאֳנִי֙ אֶת־ עֲבָדָ֔יו אַנְשֵׁ֣י אֳנִיּ֔וֹת יֹדְעֵ֖י הַיָּ֑ם עִ֖ם עַבְדֵ֥י שְׁלֹמֹֽה׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2438G]]"
+- "[[H9003]]"
+- "[[H0590]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0582]]"
+- "[[H0591]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5973A]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:27**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
 <small><sub>**BSB:**</sub></small>
 And Hiram sent his servants, sailors who knew the sea, to serve in the fleet with Solomon’s servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H2438G\|חִירָ֤ם]] [[H9003\|בָּֽ]][[H0590\|אֳנִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H0582\|אַנְשֵׁ֣י]] [[H0591\|אֳנִיּ֔וֹת]] [[H3045\|יֹדְעֵ֖י]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H5973A\|עִ֖ם]] [[H5650\|עַבְדֵ֥י]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HIRAM|HIRAM]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.26|<< 1 Kings 9:26]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.28|1 Kings 9:28 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Readiness at Any Hour
+type: Pericope
 pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 16
 verses:
 - "[[Matt.24.36]]"
 - "[[Matt.24.37]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Matt.24.51]]"
 ---
 
-[[Matt.24|Matthew 24:36 - Matthew 24:51]]
+<small>[[Matt.24|Matthew 24:36-51]]</small>
 *Readiness at Any Hour*
 
 [[Matt.24.36|36]] But of that day and hour knoweth no \[man\], no, not the angels of heaven, but my Father only.

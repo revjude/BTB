@@ -1,8 +1,55 @@
+---
+title: Daniel 10:10
+type: Verse
+kjv: "And, behold, an hand touched me, which set me upon my knees and upon the palms of my hands."
+bsb: "Suddenly, a hand touched me and set me trembling on my hands and knees."
+hebrew: "וְהִנֵּה־ יָ֖ד נָ֣גְעָה בִּ֑י וַתְּנִיעֵ֥נִי עַל־ בִּרְכַּ֖י וְכַפּ֥וֹת יָדָֽי׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5128]]"
+- "[[H5921A]]"
+- "[[H1290]]"
+- "[[H9020]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:10**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, an hand touched me, which set me upon my knees and [upon] the palms of my hands.
 <small><sub>**BSB:**</sub></small>
 Suddenly, a hand touched me and set me trembling on my hands and knees.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H3027G\|יָ֖ד]] [[H5060\|נָ֣גְעָה]] [[H9003\|בִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H5128\|תְּנִיעֵ֥]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכַּ֖]][[H9020\|י]] [[H9002\|וְ]][[H3709G\|כַפּ֥וֹת]] [[H3027G\|יָדָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.9|<< Daniel 10:9]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.11|Daniel 10:11 >>]]</td></tr></table>
 

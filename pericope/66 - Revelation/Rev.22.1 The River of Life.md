@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The River of Life
+type: Pericope
 pericope: "[[Rev.22.1 The River of Life|The River of Life]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 22
 book/chapter: "[[Rev.22|Revelation 22]]"
-genre:
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.22.1]]"
 - "[[Rev.22.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.22.5]]"
 ---
 
-[[Rev.22|Revelation 22:1 - Revelation 22:5]]
+<small>[[Rev.22|Revelation 22:1-5]]</small>
 *The River of Life*
 
 [[Rev.22.1|1]] And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.

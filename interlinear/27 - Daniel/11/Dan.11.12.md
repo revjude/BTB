@@ -1,8 +1,51 @@
+---
+title: Daniel 11:12
+type: Verse
+kjv: "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it."
+bsb: "When the army is carried off, the king of the South will be proud in heart and will cast down tens of thousands, but he will not triumph."
+hebrew: "וְנִשָּׂ֥א הֶהָמ֖וֹן וְרָ֣ם לְבָב֑וֹ וְהִפִּ֛יל רִבֹּא֖וֹת וְלֹ֥א יָעֽוֹז׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9009]]"
+- "[[H1995A]]"
+- "[[H7311A]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H5307G]]"
+- "[[H7239]]"
+- "[[H3808]]"
+- "[[H5810]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 11:12**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down [many] ten thousands: but he shall not be strengthened [by it].
 <small><sub>**BSB:**</sub></small>
 When the army is carried off, the king of the South will be proud in heart and will cast down tens of thousands, but he will not triumph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375G\|נִשָּׂ֥א]] [[H9009\|הֶ]][[H1995A\|הָמ֖וֹן]] [[H9002\|וְ]][[H7311A\|רָ֣ם]] [[H3824\|לְבָב֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5307G\|הִפִּ֛יל]] [[H7239\|רִבֹּא֖וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5810\|יָעֽוֹז]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.11|<< Daniel 11:11]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.13|Daniel 11:13 >>]]</td></tr></table>
 

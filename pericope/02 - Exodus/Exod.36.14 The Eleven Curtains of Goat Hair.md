@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Eleven Curtains of Goat Hair
+type: Pericope
 pericope: "[[Exod.36.14 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 36
 book/chapter: "[[Exod.36|Exodus 36]]"
-genre:
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.36.14]]"
 - "[[Exod.36.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.36.19]]"
 ---
 
-[[Exod.36|Exodus 36:14 - Exodus 36:19]]
+<small>[[Exod.36|Exodus 36:14-19]]</small>
 *The Eleven Curtains of Goat Hair*
 
 [[Exod.36.14|14]] And he made curtains \[of\] goats’ \[hair\] for the tent over the tabernacle: eleven curtains he made them.

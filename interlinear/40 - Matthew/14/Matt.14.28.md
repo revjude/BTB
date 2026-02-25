@@ -1,10 +1,61 @@
+---
+title: Matthew 14:28
+type: Verse
+kjv: "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water."
+bsb: "“Lord, if it is You,” Peter replied, “command me to come to You on the water.”"
+greek: "Ἀποκριθεὶς δὲ αὐτῷ ὁ Πέτρος εἶπεν· κύριε, εἰ σὺ εἶ, κέλευσόν με ἐλθεῖν πρός σε ἐπὶ τὰ ὕδατα."
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G2753]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1909]]"
+- "[[G5204]]"
+texts:
+- NKO
+---
+
 **Matthew 14:28**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.
 <small><sub>**BSB:**</sub></small>
 “Lord, if it is You,” Peter replied, “command me to come to You on the water.”
-<small><sub>**Literal:**</sub></small>
-Answering now to Him <the> Peter said: Lord, if You yourself [it] is, do command me to come to You upon the waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.27|<< Matthew 14:27]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.29|Matthew 14:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν·]]  [[G2962G\|κύριε,]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G1510\|εἶ,]]  [[G2753\|κέλευσόν]]  [[G3165\|με]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρός]]  [[G4771\|σε]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰ]]  [[G5204\|ὕδατα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SEA|SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.27|<< Matthew 14:27]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.29|Matthew 14:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

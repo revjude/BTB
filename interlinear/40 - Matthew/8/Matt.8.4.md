@@ -1,10 +1,64 @@
+---
+title: Matthew 8:4
+type: Verse
+kjv: "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them."
+bsb: "Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”"
+jesus_said: "See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them."
+greek: "καὶ λέγει αὐτῷ ὁ Ἰησοῦς· ὅρα μηδενὶ εἴπῃς, ἀλλ᾽ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκον τὸ δῶρον ὃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.¶"
+pericope: "[[Matt.8.1 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3708]]"
+- "[[G3367]]"
+- "[[G2036]]"
+- "[[G0235]]"
+- "[[G5217]]"
+- "[[G4771]]"
+- "[[G1166]]"
+- "[[G2409]]"
+- "[[G4374]]"
+- "[[G1435]]"
+- "[[G3739]]"
+- "[[G4367]]"
+- "[[G3475]]"
+- "[[G1519]]"
+- "[[G3142]]"
+texts:
+- NKO
+---
+
 **Matthew 8:4**<big><big>[[Matt.8.1 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.
 <small><sub>**BSB:**</sub></small>
 Then Jesus instructed him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift prescribed by Moses, as a testimony to them.”
-<small><sub>**Literal:**</sub></small>
-And says to him <the> Jesus; do see that to no one may you tell, But do go yourself do show to the priest and do offer the gift that commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.3|<< Matthew 8:3]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.5|Matthew 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3708\|ὅρα]]  [[G3367\|μηδενὶ]]  [[G2036\|εἴπῃς,]]  [[G0235\|ἀλλ᾽]]  [[G5217\|ὕπαγε]]  [[G4771\|σεαυτὸν]]  [[G1166\|δεῖξον]]  [[G3588\|τῷ]]  [[G2409\|ἱερεῖ]]  [[G2532\|καὶ]]  [[G4374\|προσένεγκον]]  [[G3588\|τὸ]]  [[G1435\|δῶρον]]  [[G3739\|ὃ]]  [[G4367\|προσέταξεν]]  [[G3475\|Μωϋσῆς]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.3|<< Matthew 8:3]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.5|Matthew 8:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 8:4** is...
 > $\quad$ referencing: [[LXX.Lev.14.2|Lev 14:2-3]]

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abram and Sarai in Egypt
+type: Pericope
 pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 12
 book/chapter: "[[Gen.12|Genesis 12]]"
-genre:
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.12.10]]"
 - "[[Gen.12.11]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.12.20]]"
 ---
 
-[[Gen.12|Genesis 12:10 - Genesis 12:20]]
+<small>[[Gen.12|Genesis 12:10-20]]</small>
 *Abram and Sarai in Egypt*
 
 [[Gen.12.10|10]] And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine \[was\] grievous in the land.

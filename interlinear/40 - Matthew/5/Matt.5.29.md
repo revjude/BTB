@@ -1,10 +1,73 @@
+---
+title: Matthew 5:29
+type: Verse
+kjv: "And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+bsb: "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell."
+jesus_said: "And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+greek: "εἰ δὲ ὁ ὀφθαλμός σου ὁ δεξιὸς σκανδαλίζει σε, ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ· συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου βληθῇ εἰς γέενναν.¶"
+pericope: "[[Matt.5.27 Adultery|Adultery]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EYE|EYE]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G1188]]"
+- "[[G4624]]"
+- "[[G1807]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G0575]]"
+- "[[G4851]]"
+- "[[G1063]]"
+- "[[G2443]]"
+- "[[G0622]]"
+- "[[G1520]]"
+- "[[G3196]]"
+- "[[G3361]]"
+- "[[G3650]]"
+- "[[G4983]]"
+- "[[G1519]]"
+- "[[G1067]]"
+texts:
+- NKO
+---
+
 **Matthew 5:29**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if thy right eye offend thee, pluck it out, and cast [it] from thee: for it is profitable for thee that one of thy members should perish, and not [that] thy whole body should be cast into hell.
 <small><sub>**BSB:**</sub></small>
 If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
-<small><sub>**Literal:**</sub></small>
-If now the eye of you <the> right causes to stumble you, do pluck out it and do cast [it] from you; it is better indeed for you that may perish one of the members of you and not all the body of you may be cast into hell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.28|<< Matthew 5:28]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.30|Matthew 5:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G3588\|ὁ]]  [[G1188\|δεξιὸς]]  [[G4624\|σκανδαλίζει]]  [[G4771\|σε,]]  [[G1807\|ἔξελε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0906G\|βάλε]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ·]]  [[G4851\|συμφέρει]]  [[G1063\|γάρ]]  [[G4771\|σοι]]  [[G2443\|ἵνα]]  [[G0622\|ἀπόληται]]  [[G1520\|ἓν]]  [[G3588\|τῶν]]  [[G3196\|μελῶν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G0906G\|βληθῇ]]  [[G1519\|εἰς]]  [[G1067\|γέενναν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EYE|EYE]] • [[topic HELL|HELL]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic RELIGION|RELIGION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.28|<< Matthew 5:28]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.30|Matthew 5:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

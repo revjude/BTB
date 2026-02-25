@@ -1,8 +1,59 @@
+---
+title: Exodus 26:28
+type: Verse
+kjv: "And the middle bar in the midst of the boards shall reach from end to end."
+bsb: "The central crossbar in the middle of the frames shall extend from one end to the other."
+hebrew: "וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּת֣וֹךְ הַקְּרָשִׁ֑ים מַבְרִ֕חַ מִן־ הַקָּצֶ֖ה אֶל־ הַקָּצֶֽה׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1280]]"
+- "[[H8484]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H7175]]"
+- "[[H1272]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:28**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the middle bar in the midst of the boards shall reach from end to end.
 <small><sub>**BSB:**</sub></small>
 The central crossbar in the middle of the frames shall extend from one end to the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1280\|בְּרִ֥יחַ]] [[H9009\|הַ]][[H8484\|תִּיכֹ֖ן]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H7175\|קְּרָשִׁ֑ים]] [[H1272\|מַבְרִ֕חַ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7097A\|קָּצֶ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7097A\|קָּצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.27|<< Exodus 26:27]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.29|Exodus 26:29 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 1 Kings 14:5
+type: Verse
+kjv: "And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman."
+bsb: "But the LORD had said to Ahijah, “Behold, the wife of Jeroboam is coming to ask you about her son, for he is ill. You are to say such and such to her, because when she arrives, she will be disguised.”"
+hebrew: "וַיהוָ֞ה אָמַ֣ר אֶל־ אֲחִיָּ֗הוּ הִנֵּ֣ה אֵ֣שֶׁת יָרָבְעָ֡ם בָּאָ֣ה לִדְרֹשׁ֩ דָּבָ֨ר מֵעִמְּךָ֤ אֶל־ בְּנָהּ֙ כִּֽי־ חֹלֶ֣ה ה֔וּא כָּזֹ֥ה וְכָזֶ֖ה תְּדַבֵּ֣ר אֵלֶ֑יהָ וִיהִ֣י כְבֹאָ֔הּ וְהִ֖יא מִתְנַכֵּרָֽה׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0281H]]"
+- "[[H2009]]"
+- "[[H0802H]]"
+- "[[H3379G]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H1697I]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H2470H]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H2090]]"
+- "[[H2088]]"
+- "[[H1696G]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H9044]]"
+- "[[H5234B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:5**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he [is] sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself [to be] another [woman].
 <small><sub>**BSB:**</sub></small>
 But the LORD had said to Ahijah, “Behold, the wife of Jeroboam is coming to ask you about her son, for he is ill. You are to say such and such to her, because when she arrives, she will be disguised.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H3068G\|יהוָ֞ה]] [[H0559\|אָמַ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0281H\|אֲחִיָּ֗הוּ]] [[H2009\|הִנֵּ֣ה]] [[H0802H\|אֵ֣שֶׁת]] [[H3379G\|יָרָבְעָ֡ם]] [[H0935G\|בָּאָ֣ה]] [[H9005\|לִ]][[H1875\|דְרֹשׁ֩]] [[H1697I\|דָּבָ֨ר]] [[H9006\|מֵ]][[H5973B\|עִמְּ]][[H9031\|ךָ֤]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בְּנָ]][[H9024\|הּ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2470H\|חֹלֶ֣ה]] [[H1931\|ה֔וּא]] [[H9004\|כָּ]][[H2090\|זֹ֥ה]] [[H9002\|וְ]][[H9004\|כָ]][[H2088\|זֶ֖ה]] [[H1696G\|תְּדַבֵּ֣ר]] [[H0413\|אֵלֶ֑י]][[H9034\|הָ]] [[H9002\|וִ]][[H1961\|יהִ֣י]] [[H9004\|כְ]][[H0935G\|בֹאָ֔]][[H9044\|הּ]] [[H9002\|וְ]][[H1931\|הִ֖יא]] [[H5234B\|מִתְנַכֵּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.4|<< 1 Kings 14:4]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.6|1 Kings 14:6 >>]]</td></tr></table>
 

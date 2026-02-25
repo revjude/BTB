@@ -1,8 +1,58 @@
+---
+title: Joshua 4:22
+type: Verse
+kjv: "Then ye shall let your children know, saying, Israel came over this Jordan on dry land."
+bsb: "you are to tell them, ‘Israel crossed the Jordan on dry ground.’"
+hebrew: "וְהוֹדַעְתֶּ֖ם אֶת־ בְּנֵיכֶ֣ם לֵאמֹ֑ר בַּיַּבָּשָׁה֙ עָבַ֣ר יִשְׂרָאֵ֔ל אֶת־ הַיַּרְדֵּ֖ן הַזֶּֽה׃"
+pericope: "[[Josh.4.19 The Camp at Gilgal|The Camp at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3004]]"
+- "[[H5674A]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:22**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall let your children know, saying, Israel came over this Jordan on dry land.
 <small><sub>**BSB:**</sub></small>
 you are to tell them, ‘Israel crossed the Jordan on dry ground.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|הוֹדַעְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֣ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9003\|בַּ]][[H3004\|יַּבָּשָׁה֙]] [[H5674A\|עָבַ֣ר]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILGAL|GILGAL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.21|<< Joshua 4:21]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.23|Joshua 4:23 >>]]</td></tr></table>
 

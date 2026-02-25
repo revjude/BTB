@@ -1,8 +1,56 @@
+---
+title: Job 38:9
+type: Verse
+kjv: "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,"
+bsb: "when I made the clouds its garment and thick darkness its blanket,"
+hebrew: "בְּשׂוּמִ֣י עָנָ֣ן לְבֻשׁ֑וֹ וַ֝עֲרָפֶ֗ל חֲתֻלָּתֽוֹ׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SWADDLE|SWADDLE]]"
+strongs:
+- "[[H9003]]"
+- "[[H7760A]]"
+- "[[H9040]]"
+- "[[H6051]]"
+- "[[H3830]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6205]]"
+- "[[H2854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:9**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
 <small><sub>**BSB:**</sub></small>
 when I made the clouds its garment and thick darkness its blanket,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7760A\|שׂוּמִ֣]][[H9040\|י]] [[H6051\|עָנָ֣ן]] [[H3830\|לְבֻשׁ֑]][[H9023\|וֹ]] [[H9002\|וַ֝]][[H6205\|עֲרָפֶ֗ל]] [[H2854\|חֲתֻלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic DARKNESS|DARKNESS]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SWADDLE|SWADDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.8|<< Job 38:8]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.10|Job 38:10 >>]]</td></tr></table>
 

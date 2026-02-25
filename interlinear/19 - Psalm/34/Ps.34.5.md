@@ -1,8 +1,56 @@
+---
+title: Psalm 34:5
+type: Verse
+kjv: "They looked unto him, and were lightened: and their faces were not ashamed."
+bsb: "Those who look to Him are radiant with joy; their faces shall never be ashamed."
+hebrew: "הִבִּ֣יטוּ אֵלָ֣יו וְנָהָ֑רוּ וּ֝פְנֵיהֶ֗ם אַל־ יֶחְפָּֽרוּ׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5102B]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2659]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:5**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They looked unto him, and were lightened: and their faces were not ashamed.
 <small><sub>**BSB:**</sub></small>
 Those who look to Him are radiant with joy; their faces shall never be ashamed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5027\|הִבִּ֣יטוּ]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H9001\|וְ]][[H5102B\|נָהָ֑רוּ]] [[H9002\|וּ֝]][[H6440H\|פְנֵי]][[H9028\|הֶ֗ם]] [[H0408\|אַל]][[H9014\|־]] [[H2659\|יֶחְפָּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.4|<< Psalms 34:4]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.6|Psalms 34:6 >>]]</td></tr></table>
 

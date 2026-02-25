@@ -1,8 +1,68 @@
+---
+title: Isaiah 20:3
+type: Verse
+kjv: "And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;"
+bsb: "Then the LORD said, “Just as My servant Isaiah has gone naked and barefoot for three years as a sign and omen against Egypt and Cush,"
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה כַּאֲשֶׁ֥ר הָלַ֛ךְ עַבְדִּ֥י יְשַׁעְיָ֖הוּ עָר֣וֹם וְיָחֵ֑ף שָׁלֹ֤שׁ שָׁנִים֙ א֣וֹת וּמוֹפֵ֔ת עַל־ מִצְרַ֖יִם וְעַל־ כּֽוּשׁ׃"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1980I]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3470A]]"
+- "[[H6174]]"
+- "[[H9002]]"
+- "[[H3182]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H0226H]]"
+- "[[H4159]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H3568A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 20:3**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years [for] a sign and wonder upon Egypt and upon Ethiopia;
 <small><sub>**BSB:**</sub></small>
 Then the LORD said, “Just as My servant Isaiah has gone naked and barefoot for three years as a sign and omen against Egypt and Cush,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1980I\|הָלַ֛ךְ]] [[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H3470A\|יְשַׁעְיָ֖הוּ]] [[H6174\|עָר֣וֹם]] [[H9002\|וְ]][[H3182\|יָחֵ֑ף]] [[H7969\|שָׁלֹ֤שׁ]] [[H8141\|שָׁנִים֙]] [[H0226H\|א֣וֹת]] [[H9002\|וּ]][[H4159\|מוֹפֵ֔ת]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3568A\|כּֽוּשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISAIAH|ISAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.2|<< Isaiah 20:2]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.4|Isaiah 20:4 >>]]</td></tr></table>
 

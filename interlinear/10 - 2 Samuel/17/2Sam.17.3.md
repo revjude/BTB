@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 17:3
+type: Verse
+kjv: "And I will bring back all the people unto thee: the man whom thou seekest is as if all returned: so all the people shall be in peace."
+bsb: "and bring all the people back to you as a bride returning to her husband. You seek the life of only one man; then all the people will be at peace.”"
+hebrew: "וְאָשִׁ֥יבָה כָל־ הָעָ֖ם אֵלֶ֑יךָ כְּשׁ֣וּב הַכֹּ֔ל הָאִישׁ֙ אֲשֶׁ֣ר אַתָּ֣ה מְבַקֵּ֔שׁ כָּל־ הָעָ֖ם יִהְיֶ֥ה שָׁלֽוֹם׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H0376H]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H1245]]"
+- "[[H1961]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:3**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring back all the people unto thee: the man whom thou seekest [is] as if all returned: [so] all the people shall be in peace.
 <small><sub>**BSB:**</sub></small>
 and bring all the people back to you as a bride returning to her husband. You seek the life of only one man; then all the people will be at peace.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7725G\|אָשִׁ֥יבָה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9004\|כְּ]][[H7725G\|שׁ֣וּב]] [[H9009\|הַ]][[H3605\|כֹּ֔ל]] [[H9009\|הָ]][[H0376H\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859A\|אַתָּ֣ה]] [[H1245\|מְבַקֵּ֔שׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H1961\|יִהְיֶ֥ה]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic CITIZENS|CITIZENS]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MALICE|MALICE]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.2|<< 2 Samuel 17:2]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.4|2 Samuel 17:4 >>]]</td></tr></table>
 

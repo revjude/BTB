@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 9:14
+type: Verse
+kjv: "Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they."
+bsb: "Leave Me alone, so that I may destroy them and blot out their name from under heaven. Then I will make you into a nation mightier and greater than they are.”"
+hebrew: "הֶ֤רֶף מִמֶּ֙נִּי֙ וְאַשְׁמִידֵ֔ם וְאֶמְחֶ֣ה אֶת־ שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם וְאֶֽעֱשֶׂה֙ אֽוֹתְךָ֔ לְגוֹי־ עָצ֥וּם וָרָ֖ב מִמֶּֽנּוּ׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H7503]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8045]]"
+- "[[H9038]]"
+- "[[H4229A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H6213H]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H6099]]"
+- "[[H7227A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:14**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they.
 <small><sub>**BSB:**</sub></small>
 Leave Me alone, so that I may destroy them and blot out their name from under heaven. Then I will make you into a nation mightier and greater than they are.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7503\|הֶ֤רֶף]] [[H4480A\|מִמֶּ֙]][[H9030\|נִּי֙]] [[H9002\|וְ]][[H8045\|אַשְׁמִידֵ֔]][[H9038\|ם]] [[H9002\|וְ]][[H4229A\|אֶמְחֶ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמָ֔]][[H9028\|ם]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H6213H\|אֶֽעֱשֶׂה֙]] [[H0853\|אֽוֹתְ]][[H9031\|ךָ֔]] [[H9005\|לְ]][[H1471A\|גוֹי]][[H9014\|־]] [[H6099\|עָצ֥וּם]] [[H9002\|וָ]][[H7227A\|רָ֖ב]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
 

@@ -5,5 +5,5 @@
 
 → John testifies to Christ's messiahship, and baptizes at  [[John.1.28|Joh 1:28]]
 
-→ Jesus at [[John.10.39|Joh 10:39]]-[[John.10.42|42]]
+→ Jesus at [[John.10.39|Joh 10:39-42]]
 

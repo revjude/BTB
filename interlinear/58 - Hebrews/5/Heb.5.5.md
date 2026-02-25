@@ -1,10 +1,62 @@
+---
+title: Hebrews 5:5
+type: Verse
+kjv: "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee."
+bsb: "So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”"
+greek: "οὕτως καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα ἀλλ᾽ ὁ λαλήσας πρὸς αὐτόν· υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε."
+pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G1438]]"
+- "[[G1392]]"
+- "[[G1096]]"
+- "[[G0749]]"
+- "[[G0235]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G1080]]"
+texts:
+- NKO
+---
+
 **Hebrews 5:5**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
 So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”
-<small><sub>**Literal:**</sub></small>
-So also <the> Christ not Himself did glorify to become a high priest but the [One] having said to Him: Son of Mine are You yourself, I myself today have begotten You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.4|<< Hebrews 5:4]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.6|Hebrews 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G3756\|οὐχ]]  [[G1438\|ἑαυτὸν]]  [[G1392\|ἐδόξασεν]]  [[G1096\|γενηθῆναι]]  [[G0749\|ἀρχιερέα]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G2980\|λαλήσας]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G1510\|εἶ]]  [[G4771\|σύ,]]  [[G1473\|ἐγὼ]]  [[G4594\|σήμερον]]  [[G1080\|γεγέννηκά]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.4|<< Hebrews 5:4]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.6|Hebrews 5:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 5:5** is...
 > $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]

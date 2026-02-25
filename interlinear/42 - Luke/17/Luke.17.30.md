@@ -1,10 +1,55 @@
+---
+title: Luke 17:30
+type: Verse
+kjv: "Even thus shall it be in the day when the Son of man is revealed."
+bsb: "It will be just like that on the day the Son of Man is revealed."
+jesus_said: "Even thus shall it be in the day when the Son of man is revealed."
+greek: "κατὰ τὰ αὐτὰ ἔσται ᾗ ἡμέρᾳ ὁ υἱὸς τοῦ ἀνθρώπου ἀποκαλύπτεται.¶"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0601]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 17:30**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even thus shall it be in the day when the Son of man is revealed.
 <small><sub>**BSB:**</sub></small>
 It will be just like that on the day the Son of Man is revealed.
-<small><sub>**Literal:**</sub></small>
-According <the> to these will it be in that day the Son <the> of Man is revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.29|<< Luke 17:29]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.31|Luke 17:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G1510\|ἔσται]]  [[G3739\|ᾗ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G0601\|ἀποκαλύπτεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.29|<< Luke 17:29]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.31|Luke 17:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

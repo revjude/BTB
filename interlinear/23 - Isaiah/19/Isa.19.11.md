@@ -1,8 +1,60 @@
+---
+title: Isaiah 19:11
+type: Verse
+kjv: "Surely the princes of Zoan are fools, the counsel of the wise counsellers of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?"
+bsb: "The princes of Zoan are mere fools; Pharaoh’s wise counselors give senseless advice. How can you say to Pharaoh, “I am one of the wise, a son of eastern kings”?"
+hebrew: "אַךְ־ אֱוִלִים֙ שָׂ֣רֵי צֹ֔עַן חַכְמֵי֙ יֹעֲצֵ֣י פַרְעֹ֔ה עֵצָ֖ה נִבְעָרָ֑ה אֵ֚יךְ תֹּאמְר֣וּ אֶל־ פַּרְעֹ֔ה בֶּן־ חֲכָמִ֥ים אֲנִ֖י בֶּן־ מַלְכֵי־ קֶֽדֶם׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZOAN|ZOAN]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H0191]]"
+- "[[H8269]]"
+- "[[H6814]]"
+- "[[H2450]]"
+- "[[H6098]]"
+- "[[H6547L]]"
+- "[[H1197B]]"
+- "[[H0349A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H1121A]]"
+- "[[H0589]]"
+- "[[H4428G]]"
+- "[[H6924H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:11**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the princes of Zoan [are] fools, the counsel of the wise counsellers of Pharaoh is become brutish: how say ye unto Pharaoh, I [am] the son of the wise, the son of ancient kings?
 <small><sub>**BSB:**</sub></small>
 The princes of Zoan are mere fools; Pharaoh’s wise counselors give senseless advice. How can you say to Pharaoh, “I am one of the wise, a son of eastern kings”?
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H0191\|אֱוִלִים֙]] [[H8269\|שָׂ֣רֵי]] [[H6814\|צֹ֔עַן]] [[H2450\|חַכְמֵי֙]] [[H6098\|יֹעֲצֵ֣י]] [[H6547L\|פַרְעֹ֔ה]] [[H6098\|עֵצָ֖ה]] [[H1197B\|נִבְעָרָ֑ה]] [[H0349A\|אֵ֚יךְ]] [[H0559\|תֹּאמְר֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6547L\|פַּרְעֹ֔ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2450\|חֲכָמִ֥ים]] [[H0589\|אֲנִ֖י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4428G\|מַלְכֵי]][[H9014\|־]] [[H6924H\|קֶֽדֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SORCERY|SORCERY]] • [[topic WAR|WAR]] • [[topic ZOAN|ZOAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.10|<< Isaiah 19:10]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.12|Isaiah 19:12 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Acts 7:35
+type: Verse
+kjv: "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush."
+bsb: "This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush."
+greek: "Τοῦτον τὸν Μωϋσῆν ὃν ἠρνήσαντο εἰπόντες· τίς σε κατέστησεν ἄρχοντα καὶ δικαστήν; τοῦτον ὁ θεὸς καὶ ἄρχοντα καὶ λυτρωτὴν ἀπέσταλκεν σὺν χειρὶ ἀγγέλου τοῦ ὀφθέντος αὐτῷ ἐν τῇ βάτῳ."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3475]]"
+- "[[G3739]]"
+- "[[G0720]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G2525]]"
+- "[[G0758]]"
+- "[[G2532]]"
+- "[[G1348]]"
+- "[[G2316]]"
+- "[[G3086]]"
+- "[[G0649]]"
+- "[[G4862]]"
+- "[[G5495]]"
+- "[[G0032G]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G0942]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 7:35**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send [to be] a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
 <small><sub>**BSB:**</sub></small>
 This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.
-<small><sub>**Literal:**</sub></small>
-This <the> Moses whom they rejected having said; Who you appointed ruler and judge?’ — him [whom] <the> God [as] and ruler and redeemer has sent by [the] hand of [the] angel who having appeared to him in the bush —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.34|<< Acts 7:34]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.36|Acts 7:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτον]]  [[G3588\|τὸν]]  [[G3475\|Μωϋσῆν]]  [[G3739\|ὃν]]  [[G0720\|ἠρνήσαντο]]  [[G2036\|εἰπόντες·]]  [[G5101\|τίς]]  [[G4771\|σε]]  [[G2525\|κατέστησεν]]  [[G0758\|ἄρχοντα]]  [[G2532\|καὶ]]  [[G1348\|δικαστήν;]]  [[G3778\|τοῦτον]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G0758\|ἄρχοντα]]  [[G2532\|καὶ]]  [[G3086\|λυτρωτὴν]]  [[G0649\|ἀπέσταλκεν]]  [[G4862\|σὺν]]  [[G5495\|χειρὶ]]  [[G0032G\|ἀγγέλου]]  [[G3588\|τοῦ]]  [[G3700\|ὀφθέντος]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0942\|βάτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CALL|CALL]] • [[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.34|<< Acts 7:34]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.36|Acts 7:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:35** is...
 > $\quad$ referencing: [[LXX.Exod.2.14|Exod 2:14]]

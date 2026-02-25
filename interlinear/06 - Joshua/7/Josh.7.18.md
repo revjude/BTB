@@ -1,8 +1,63 @@
+---
+title: Joshua 7:18
+type: Verse
+kjv: "And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken."
+bsb: "And he had the family of Zabdi come forward man by man, and Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected."
+hebrew: "וַיַּקְרֵ֥ב אֶת־ בֵּית֖וֹ לַגְּבָרִ֑ים וַיִּלָּכֵ֗ד עָכָ֞ן בֶּן־ כַּרְמִ֧י בֶן־ זַבְדִּ֛י בֶּן־ זֶ֖רַח לְמַטֵּ֥ה יְהוּדָֽה׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CARMI|CARMI]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1397]]"
+- "[[H3920]]"
+- "[[H5912]]"
+- "[[H1121A]]"
+- "[[H3756H]]"
+- "[[H2067G]]"
+- "[[H2226I]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:18**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken.
 <small><sub>**BSB:**</sub></small>
 And he had the family of Zabdi come forward man by man, and Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרֵ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H9005\|לַ]][[H1397\|גְּבָרִ֑ים]] [[H9001\|וַ]][[H3920\|יִּלָּכֵ֗ד]] [[H5912\|עָכָ֞ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3756H\|כַּרְמִ֧י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2067G\|זַבְדִּ֛י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2226I\|זֶ֖רַח]] [[H9005\|לְ]][[H4294H\|מַטֵּ֥ה]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARMI|CARMI]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOT, THE|LOT, THE]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.17|<< Joshua 7:17]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.19|Joshua 7:19 >>]]</td></tr></table>
 

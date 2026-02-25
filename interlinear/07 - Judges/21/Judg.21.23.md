@@ -1,8 +1,70 @@
+---
+title: Judges 21:23
+type: Verse
+kjv: "And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them."
+bsb: "The Benjamites did as instructed and carried away the number of women they needed from the dancers they caught. They went back to their own inheritance, rebuilt their cities, and settled in them."
+hebrew: "וַיַּֽעֲשׂוּ־ כֵן֙ בְּנֵ֣י בִנְיָמִ֔ן וַיִּשְׂא֤וּ נָשִׁים֙ לְמִסְפָּרָ֔ם מִן־ הַמְּחֹלְל֖וֹת אֲשֶׁ֣ר גָּזָ֑לוּ וַיֵּלְכ֗וּ וַיָּשׁ֙וּבוּ֙ אֶל־ נַ֣חֲלָתָ֔ם וַיִּבְנוּ֙ אֶת־ הֶ֣עָרִ֔ים וַיֵּשְׁב֖וּ בָּהֶֽם׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KIDNAPPING|KIDNAPPING]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H5375U]]"
+- "[[H0802H]]"
+- "[[H9005]]"
+- "[[H4557]]"
+- "[[H9028]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2342J]]"
+- "[[H0834A]]"
+- "[[H1497]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H5159]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:23**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin did so, and took [them] wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
 <small><sub>**BSB:**</sub></small>
 The Benjamites did as instructed and carried away the number of women they needed from the dancers they caught. They went back to their own inheritance, rebuilt their cities, and settled in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּֽעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵן֙]] [[H1121G\|בְּנֵ֣י]] [[H1144G\|בִנְיָמִ֔ן]] [[H9001\|וַ]][[H5375U\|יִּשְׂא֤וּ]] [[H0802H\|נָשִׁים֙]] [[H9005\|לְ]][[H4557\|מִסְפָּרָ֔]][[H9028\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2342J\|מְּחֹלְל֖וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1497\|גָּזָ֑לוּ]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֗וּ]] [[H9001\|וַ]][[H7725G\|יָּשׁ֙וּבוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5159\|נַ֣חֲלָתָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H1129\|יִּבְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֖וּ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic KIDNAPPING|KIDNAPPING]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.22|<< Judges 21:22]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.24|Judges 21:24 >>]]</td></tr></table>
 

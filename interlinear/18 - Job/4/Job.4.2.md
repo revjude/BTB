@@ -1,8 +1,50 @@
+---
+title: Job 4:2
+type: Verse
+kjv: "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?"
+bsb: "“If one ventures a word with you, will you be wearied? Yet who can keep from speaking?"
+hebrew: "הֲנִסָּ֬ה דָבָ֣ר אֵלֶ֣יךָ תִּלְאֶ֑ה וַעְצֹ֥ר בְּ֝מִלִּ֗ין מִ֣י יוּכָֽל׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9008]]"
+- "[[H5254H]]"
+- "[[H1697G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3811]]"
+- "[[H9002]]"
+- "[[H6113]]"
+- "[[H9003]]"
+- "[[H4405]]"
+- "[[H4310]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:2**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?
 <small><sub>**BSB:**</sub></small>
 “If one ventures a word with you, will you be wearied? Yet who can keep from speaking?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H5254H\|נִסָּ֬ה]] [[H1697G\|דָבָ֣ר]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H3811\|תִּלְאֶ֑ה]] [[H9002\|וַ]][[H6113\|עְצֹ֥ר]] [[H9003\|בְּ֝]][[H4405\|מִלִּ֗ין]] [[H4310\|מִ֣י]] [[H3201\|יוּכָֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.1|<< Job 4:1]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.3|Job 4:3 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Isaiah 36:22
+type: Verse
+kjv: "Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh."
+bsb: "Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh."
+hebrew: "וַיָּבֹ֣א אֶלְיָקִ֣ים בֶּן־ חִלְקִיָּ֣הוּ אֲשֶׁר־ עַל־ הַ֠בַּיִת וְשֶׁבְנָ֨א הַסּוֹפֵ֜ר וְיוֹאָ֨ח בֶּן־ אָסָ֧ף הַמַּזְכִּ֛יר אֶל־ חִזְקִיָּ֖הוּ קְרוּעֵ֣י בְגָדִ֑ים וַיַּגִּ֣ידוּ ל֔וֹ אֵ֖ת דִּבְרֵ֥י רַב־ שָׁקֵֽה׃ ס"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H5608B]]"
+- "[[H3098G]]"
+- "[[H0623G]]"
+- "[[H2142]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H7262]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 36:22**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Eliakim, the son of Hilkiah, that [was] over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.
 <small><sub>**BSB:**</sub></small>
 Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0471G\|אֶלְיָקִ֣ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִלְקִיָּ֣הוּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֠]][[H1004Q\|בַּיִת]] [[H9002\|וְ]][[H7644\|שֶׁבְנָ֨א]] [[H9009\|הַ]][[H5608B\|סּוֹפֵ֜ר]] [[H9002\|וְ]][[H3098G\|יוֹאָ֨ח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0623G\|אָסָ֧ף]] [[H9009\|הַ]][[H2142\|מַּזְכִּ֛יר]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H7167\|קְרוּעֵ֣י]] [[H0899B\|בְגָדִ֑ים]] [[H9001\|וַ]][[H5046\|יַּגִּ֣ידוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֵ֖ת]] [[H1697G\|דִּבְרֵ֥י]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELIAKIM|ELIAKIM]] • [[topic HILKIAH|HILKIAH]] • [[topic JOAH|JOAH]] • [[topic RENDING|RENDING]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.21|<< Isaiah 36:21]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.1|Isaiah 37:1 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and As
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chief  |**<big>&#8207;[[H7262\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| commander  |**<big>&#8207;[[H7262\|שָׁקֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.Keh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| commander  |**<big>&#8207;[[H7262\|שָׁקֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sha.Keh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.21|<< Isaiah 36:21]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.1|Isaiah 37:1 >>]]</td></tr></table>
 
 

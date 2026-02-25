@@ -1,8 +1,53 @@
+---
+title: 2 Kings 14:4
+type: Verse
+kjv: "Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places."
+bsb: "Nevertheless, the high places were not taken away, and the people continued sacrificing and burning incense on the high places."
+hebrew: "רַ֥ק הַבָּמ֖וֹת לֹא־ סָ֑רוּ ע֥וֹד הָעָ֛ם מְזַבְּחִ֥ים וּֽמְקַטְּרִ֖ים בַּבָּמֽוֹת׃"
+pericope: "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493G]]"
+- "[[H5750]]"
+- "[[H5971A]]"
+- "[[H2076]]"
+- "[[H9002]]"
+- "[[H6999H]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:4**<big><big>[[2Kgs.14.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the high places were not taken away, and the people continued sacrificing and burning incense on the high places.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֥ק]] [[H9009\|הַ]][[H1116\|בָּמ֖וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H5493G\|סָ֑רוּ]] [[H5750\|ע֥וֹד]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H2076\|מְזַבְּחִ֥ים]] [[H9002\|וּֽ]][[H6999H\|מְקַטְּרִ֖ים]] [[H9003\|בַּ]][[H1116\|בָּמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.3|<< 2 Kings 14:3]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.5|2 Kings 14:5 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 6:10
+type: Verse
+kjv: "To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it."
+bsb: "To whom can I give this warning? Who will listen to me? Look, their ears are closed, so they cannot hear. See, the word of the LORD has become offensive to them; they find no pleasure in it."
+hebrew: "עַל־ מִ֨י אֲדַבְּרָ֤ה וְאָעִ֙ידָה֙ וְיִשְׁמָ֔עוּ הִנֵּה֙ עֲרֵלָ֣ה אָזְנָ֔ם וְלֹ֥א יוּכְל֖וּ לְהַקְשִׁ֑יב הִנֵּ֣ה דְבַר־ יְהוָ֗ה הָיָ֥ה לָהֶ֛ם לְחֶרְפָּ֖ה לֹ֥א יַחְפְּצוּ־ בֽוֹ׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H5749B]]"
+- "[[H8085G]]"
+- "[[H2009]]"
+- "[[H6189]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7181]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9038]]"
+- "[[H2781]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:10**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom shall I speak, and give warning, that they may hear? behold, their ear [is] uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.
 <small><sub>**BSB:**</sub></small>
 To whom can I give this warning? Who will listen to me? Look, their ears are closed, so they cannot hear. See, the word of the LORD has become offensive to them; they find no pleasure in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֨י]] [[H1696G\|אֲדַבְּרָ֤ה]] [[H9002\|וְ]][[H5749B\|אָעִ֙ידָה֙]] [[H9002\|וְ]][[H8085G\|יִשְׁמָ֔עוּ]] [[H2009\|הִנֵּה֙]] [[H6189\|עֲרֵלָ֣ה]] [[H0241G\|אָזְנָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יוּכְל֖וּ]] [[H9005\|לְ]][[H7181\|הַקְשִׁ֑יב]] [[H2009\|הִנֵּ֣ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1961\|הָיָ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לְ]][[H2781\|חֶרְפָּ֖ה]] [[H3808\|לֹ֥א]] [[H2654A\|יַחְפְּצוּ]][[H9014\|־]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.9|<< Jeremiah 6:9]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.11|Jeremiah 6:11 >>]]</td></tr></table>
 

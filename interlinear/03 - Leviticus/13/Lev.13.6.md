@@ -1,8 +1,71 @@
+---
+title: Leviticus 13:6
+type: Verse
+kjv: "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean."
+bsb: "The priest will examine him again on the seventh day, and if the sore has faded and has not spread on the skin, the priest shall pronounce him clean; it is a rash. The person must wash his clothes and be clean."
+hebrew: "וְרָאָה֩ הַכֹּהֵ֨ן אֹת֜וֹ בַּיּ֣וֹם הַשְּׁבִיעִי֮ שֵׁנִית֒ וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע וְלֹא־ פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְטִהֲר֤וֹ הַכֹּהֵן֙ מִסְפַּ֣חַת הִ֔יא וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCAB|SCAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7637]]"
+- "[[H8145]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3543A]]"
+- "[[H5061]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H5785]]"
+- "[[H2891]]"
+- "[[H4556]]"
+- "[[H1931]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:6**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look on him again the seventh day: and, behold, [if] the plague [be] somewhat dark, [and] the plague spread not in the skin, the priest shall pronounce him clean: it [is but] a scab: and he shall wash his clothes, and be clean.
 <small><sub>**BSB:**</sub></small>
 The priest will examine him again on the seventh day, and if the sore has faded and has not spread on the skin, the priest shall pronounce him clean; it is a rash. The person must wash his clothes and be clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָה֩]] [[H9009\|הַ]][[H3548\|כֹּהֵ֨ן]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִי֮]] [[H8145\|שֵׁנִית֒]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H3543A\|כֵּהָ֣ה]] [[H9009\|הַ]][[H5061\|נֶּ֔גַע]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6581\|פָשָׂ֥ה]] [[H9009\|הַ]][[H5061\|נֶּ֖גַע]] [[H9003\|בָּ]][[H5785\|ע֑וֹר]] [[H9001\|וְ]][[H2891\|טִהֲר֤]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H4556\|מִסְפַּ֣חַת]] [[H1931\|הִ֔יא]] [[H9001\|וְ]][[H3526H\|כִבֶּ֥ס]] [[H0899B\|בְּגָדָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H2891\|טָהֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]] • [[topic SCAB|SCAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.5|<< Leviticus 13:5]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.7|Leviticus 13:7 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Genesis 27:46
+type: Verse
+kjv: "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
+bsb: "Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”"
+hebrew: "וַתֹּ֤אמֶר רִבְקָה֙ אֶל־ יִצְחָ֔ק קַ֣צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת אִם־ לֹקֵ֣חַ יַ֠עֲקֹב אִשָּׁ֨ה מִבְּנֽוֹת־ חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HETH|HETH]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7259]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3327]]"
+- "[[H6973]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1323G]]"
+- "[[H2845]]"
+- "[[H0518A]]"
+- "[[H3947I]]"
+- "[[H3290]]"
+- "[[H0802H]]"
+- "[[H9004]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:46**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these [which are] of the daughters of the land, what good shall my life do me?
 <small><sub>**BSB:**</sub></small>
 Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H7259\|רִבְקָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3327\|יִצְחָ֔ק]] [[H6973\|קַ֣צְתִּי]] [[H9003\|בְ]][[H2416E\|חַיַּ֔]][[H9020\|י]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H1323G\|בְּנ֣וֹת]] [[H2845\|חֵ֑ת]] [[H0518A\|אִם]][[H9014\|־]] [[H3947I\|לֹקֵ֣חַ]] [[H3290\|יַ֠עֲקֹב]] [[H0802H\|אִשָּׁ֨ה]] [[H9006\|מִ]][[H1323G\|בְּנֽוֹת]][[H9014\|־]] [[H2845\|חֵ֤ת]] [[H9004\|כָּ]][[H0428\|אֵ֙לֶּה֙]] [[H9006\|מִ]][[H1323G\|בְּנ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H9005\|לִּ֖]][[H9030\|י]] [[H2416E\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic HETH|HETH]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.45|<< Genesis 27:45]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.1|Genesis 28:1 >>]]</td></tr></table>
 

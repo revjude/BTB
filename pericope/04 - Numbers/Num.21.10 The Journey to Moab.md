@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Journey to Moab
+type: Pericope
 pericope: "[[Num.21.10 The Journey to Moab|The Journey to Moab]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 21
 book/chapter: "[[Num.21|Numbers 21]]"
-genre:
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 11
 verses:
 - "[[Num.21.10]]"
 - "[[Num.21.11]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Num.21.20]]"
 ---
 
-[[Num.21|Numbers 21:10 - Numbers 21:20]]
+<small>[[Num.21|Numbers 21:10-20]]</small>
 *The Journey to Moab*
 
 [[Num.21.10|10]] And the children of Israel set forward, and pitched in Oboth.

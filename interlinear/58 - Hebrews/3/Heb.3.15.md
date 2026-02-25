@@ -1,10 +1,56 @@
+---
+title: Hebrews 3:15
+type: Verse
+kjv: "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation."
+bsb: "As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”"
+greek: "ἐν τῷ λέγεσθαι· σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν ὡς ἐν τῷ παραπικρασμῷ."
+pericope: "[[Heb.3.12 The Peril of Unbelief|The Peril of Unbelief]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G4594]]"
+- "[[G1437]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G3361]]"
+- "[[G4645]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G5613]]"
+- "[[G3894]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:15**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.
 <small><sub>**BSB:**</sub></small>
 As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”
-<small><sub>**Literal:**</sub></small>
-As the saying: Today if the voice of Him you shall hear, not shall harden the hearts of you as in the rebellion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.14|<< Hebrews 3:14]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.16|Hebrews 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3004G\|λέγεσθαι·]]  [[G4594\|σήμερον]]  [[G1437\|ἐὰν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούσητε,]]  [[G3361\|μὴ]]  [[G4645\|σκληρύνητε]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3894\|παραπικρασμῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.14|<< Hebrews 3:14]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.16|Hebrews 3:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:15** is...
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]

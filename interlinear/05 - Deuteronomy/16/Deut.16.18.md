@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 16:18
+type: Verse
+kjv: "Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment."
+bsb: "You are to appoint judges and officials for your tribes in every town that the LORD your God is giving you. They are to judge the people with righteous judgment."
+hebrew: "שֹׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּֽתֶּן־ לְךָ֙ בְּכָל־ שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לְךָ֖ לִשְׁבָטֶ֑יךָ וְשָׁפְט֥וּ אֶת־ הָעָ֖ם מִשְׁפַּט־ צֶֽדֶק׃"
+pericope: "[[Deut.16.18 Judges and Justice|Judges and Justice]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic GATES|GATES]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H8199]]"
+- "[[H9002]]"
+- "[[H7860]]"
+- "[[H5414H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H8179H]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H7626H]]"
+- "[[H9001]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4941G]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:18**<big><big>[[Deut.16.18 Judges and Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
 <small><sub>**BSB:**</sub></small>
 You are to appoint judges and officials for your tribes in every town that the LORD your God is giving you. They are to judge the people with righteous judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H8199\|שֹׁפְטִ֣ים]] [[H9002\|וְ]][[H7860\|שֹֽׁטְרִ֗ים]] [[H5414H\|תִּֽתֶּן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H8179H\|שְׁעָרֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לִ]][[H7626H\|שְׁבָטֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8199\|שָׁפְט֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H4941G\|מִשְׁפַּט]][[H9014\|־]] [[H6664G\|צֶֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic GATES|GATES]] • [[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.17|<< Deuteronomy 16:17]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.19|Deuteronomy 16:19 >>]]</td></tr></table>
 

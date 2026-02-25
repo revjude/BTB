@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gabriel Interprets Daniel’s Vision
+type: Pericope
 pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 8
 book/chapter: "[[Dan.8|Daniel 8]]"
-genre:
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 13
 verses:
 - "[[Dan.8.15]]"
 - "[[Dan.8.16]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Dan.8.27]]"
 ---
 
-[[Dan.8|Daniel 8:15 - Daniel 8:27]]
+<small>[[Dan.8|Daniel 8:15-27]]</small>
 *Gabriel Interprets Daniel’s Vision*
 
 [[Dan.8.15|15]] And it came to pass, when I, \[even\] I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.

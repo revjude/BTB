@@ -1,8 +1,53 @@
+---
+title: Proverbs 9:2
+type: Verse
+kjv: "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table."
+bsb: "She has prepared her meat and mixed her wine; she has also set her table."
+hebrew: "טָבְחָ֣ה טִ֭בְחָהּ מָסְכָ֣ה יֵינָ֑הּ אַ֝֗ף עָֽרְכָ֥ה שֻׁלְחָנָֽהּ׃"
+pericope: "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2873]]"
+- "[[H2874]]"
+- "[[H9024]]"
+- "[[H4537]]"
+- "[[H3196]]"
+- "[[H0637]]"
+- "[[H6186A]]"
+- "[[H7979]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:2**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.
 <small><sub>**BSB:**</sub></small>
 She has prepared her meat and mixed her wine; she has also set her table.
+<small><sub>**Hebrew:**</sub></small>
+[[H2873\|טָבְחָ֣ה]] [[H2874\|טִ֭בְחָ]][[H9024\|הּ]] [[H4537\|מָסְכָ֣ה]] [[H3196\|יֵינָ֑]][[H9024\|הּ]] [[H0637\|אַ֝֗ף]] [[H6186A\|עָֽרְכָ֥ה]] [[H7979\|שֻׁלְחָנָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SALVATION|SALVATION]] • [[topic WINE|WINE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.1|<< Proverbs 9:1]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.3|Proverbs 9:3 >>]]</td></tr></table>
 

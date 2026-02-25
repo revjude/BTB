@@ -1,10 +1,61 @@
+---
+title: Romans 2:7
+type: Verse
+kjv: "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:"
+bsb: "To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life."
+greek: "τοῖς μὲν καθ᾽ ὑπομονὴν ἔργου ἀγαθοῦ δόξαν καὶ τιμὴν καὶ ἀφθαρσίαν ζητοῦσιν ζωὴν αἰώνιον·"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G2596]]"
+- "[[G5281]]"
+- "[[G2041]]"
+- "[[G0018]]"
+- "[[G1391]]"
+- "[[G2532]]"
+- "[[G5092]]"
+- "[[G0861]]"
+- "[[G2212]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+---
+
 **Romans 2:7**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
 <small><sub>**BSB:**</sub></small>
 To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life.
-<small><sub>**Literal:**</sub></small>
-to those who indeed with endurance in work good glory and honor and immortality are seeking life eternal;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.6|<< Romans 2:6]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.8|Romans 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῖς]]  [[G3303\|μὲν]]  [[G2596\|καθ᾽]]  [[G5281\|ὑπομονὴν]]  [[G2041\|ἔργου]]  [[G0018\|ἀγαθοῦ]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G5092\|τιμὴν]]  [[G2532\|καὶ]]  [[G0861\|ἀφθαρσίαν]]  [[G2212\|ζητοῦσιν]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIFE|LIFE]] • [[topic PATIENCE|PATIENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.6|<< Romans 2:6]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.8|Romans 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

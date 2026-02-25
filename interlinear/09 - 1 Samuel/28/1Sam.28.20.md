@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 28:20
+type: Verse
+kjv: "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night."
+bsb: "Immediately Saul fell flat on the ground, terrified by the words of Samuel. And his strength was gone, because he had not eaten anything all that day and night."
+hebrew: "וַיְמַהֵ֣ר שָׁא֗וּל וַיִּפֹּ֤ל מְלֹא־ קֽוֹמָתוֹ֙ אַ֔רְצָה וַיִּרָ֥א מְאֹ֖ד מִדִּבְרֵ֣י שְׁמוּאֵ֑ל גַּם־ כֹּ֙חַ֙ לֹא־ הָ֣יָה ב֔וֹ כִּ֣י לֹ֤א אָכַל֙ לֶ֔חֶם כָּל־ הַיּ֖וֹם וְכָל־ הַלָּֽיְלָה׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H7586G]]"
+- "[[H5307G]]"
+- "[[H4393]]"
+- "[[H9014]]"
+- "[[H6967]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H9006]]"
+- "[[H1697G]]"
+- "[[H8050G]]"
+- "[[H1571]]"
+- "[[H3581B]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H0398]]"
+- "[[H3899G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:20**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.
 <small><sub>**BSB:**</sub></small>
 Immediately Saul fell flat on the ground, terrified by the words of Samuel. And his strength was gone, because he had not eaten anything all that day and night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|יְמַהֵ֣ר]] [[H7586G\|שָׁא֗וּל]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֤ל]] [[H4393\|מְלֹא]][[H9014\|־]] [[H6967\|קֽוֹמָת]][[H9023\|וֹ֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H3372G\|יִּרָ֥א]] [[H3966\|מְאֹ֖ד]] [[H9006\|מִ]][[H1697G\|דִּבְרֵ֣י]] [[H8050G\|שְׁמוּאֵ֑ל]] [[H1571\|גַּם]][[H9014\|־]] [[H3581B\|כֹּ֙חַ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֣יָה]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H0398\|אָכַל֙]] [[H3899G\|לֶ֔חֶם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לָּֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.19|<< 1 Samuel 28:19]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.21|1 Samuel 28:21 >>]]</td></tr></table>
 

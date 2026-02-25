@@ -1,8 +1,70 @@
+---
+title: Zechariah 5:9
+type: Verse
+kjv: "Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind was in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven."
+bsb: "Then I lifted up my eyes and saw two women approaching, with the wind in their wings. Their wings were like those of a stork, and they lifted up the basket between heaven and earth."
+hebrew: "וָאֶשָּׂ֨א עֵינַ֜י וָאֵ֗רֶא וְהִנֵּה֩ שְׁתַּ֨יִם נָשִׁ֤ים יֽוֹצְאוֹת֙ וְר֣וּחַ בְּכַנְפֵיהֶ֔ם וְלָהֵ֥נָּה כְנָפַ֖יִם כְּכַנְפֵ֣י הַחֲסִידָ֑ה וַתִּשֶּׂ֙אנָה֙ אֶת־ הָ֣אֵיפָ֔ה בֵּ֥ין הָאָ֖רֶץ וּבֵ֥ין הַשָּׁמָֽיִם׃"
+pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic STORK|STORK]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8147]]"
+- "[[H0802G]]"
+- "[[H3318G]]"
+- "[[H7307H]]"
+- "[[H9003]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H2624]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0374]]"
+- "[[H0996G]]"
+- "[[H0776G]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:9**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind [was] in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
 <small><sub>**BSB:**</sub></small>
 Then I lifted up my eyes and saw two women approaching, with the wind in their wings. Their wings were like those of a stork, and they lifted up the basket between heaven and earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5375M\|אֶשָּׂ֨א]] [[H5869A\|עֵינַ֜]][[H9020\|י]] [[H9001\|וָ]][[H7200G\|אֵ֗רֶא]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H8147\|שְׁתַּ֨יִם]] [[H0802G\|נָשִׁ֤ים]] [[H3318G\|יֽוֹצְאוֹת֙]] [[H9002\|וְ]][[H7307H\|ר֣וּחַ]] [[H9003\|בְּ]][[H3671\|כַנְפֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H9005\|לָ]][[H9039\|הֵ֥נָּה]] [[H3671\|כְנָפַ֖יִם]] [[H9004\|כְּ]][[H3671\|כַנְפֵ֣י]] [[H9009\|הַ]][[H2624\|חֲסִידָ֑ה]] [[H9001\|וַ]][[H5375M\|תִּשֶּׂ֙אנָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0374\|אֵיפָ֔ה]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic STORK|STORK]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.8|<< Zechariah 5:8]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.10|Zechariah 5:10 >>]]</td></tr></table>
 

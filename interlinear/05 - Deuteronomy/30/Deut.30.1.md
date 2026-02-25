@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 30:1
+type: Verse
+kjv: "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,"
+bsb: "“When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,"
+hebrew: "וְהָיָה֩ כִֽי־ יָבֹ֨אוּ עָלֶ֜יךָ כָּל־ הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל־ לְבָבֶ֔ךָ בְּכָל־ הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H1293]]"
+- "[[H9002]]"
+- "[[H7045]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H7725N]]"
+- "[[H0413]]"
+- "[[H3824]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H5080]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:1**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call [them] to mind among all the nations, whither the LORD thy God hath driven thee,
 <small><sub>**BSB:**</sub></small>
 “When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H3588A\|כִֽי]][[H9014\|־]] [[H0935G\|יָבֹ֨אוּ]] [[H5921A\|עָלֶ֜י]][[H9031\|ךָ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9009\|הַ]][[H1293\|בְּרָכָה֙]] [[H9002\|וְ]][[H9009\|הַ]][[H7045\|קְּלָלָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414H\|נָתַ֖תִּי]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725N\|הֲשֵׁבֹתָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3824\|לְבָבֶ֔]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H0834A\|אֲשֶׁ֧ר]] [[H5080\|הִדִּיחֲ]][[H9031\|ךָ֛]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.29|<< Deuteronomy 29:29]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.2|Deuteronomy 30:2 >>]]</td></tr></table>
 

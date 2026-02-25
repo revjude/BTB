@@ -1,8 +1,71 @@
+---
+title: Judges 7:3
+type: Verse
+kjv: "Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand."
+bsb: "Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and trembling may turn back and leave Mount Gilead.’” So twenty-two thousand of them turned back, but ten thousand remained."
+hebrew: "וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאָזְנֵ֤י הָעָם֙ לֵאמֹ֔ר מִֽי־ יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר מֵהַ֣ר הַגִּלְעָ֑ד וַיָּ֣שָׁב מִן־ הָעָ֗ם עֶשְׂרִ֤ים וּשְׁנַ֙יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים נִשְׁאָֽרוּ׃ ס"
+pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7121I]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H2730]]"
+- "[[H7725G]]"
+- "[[H6852]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H1568K]]"
+- "[[H9001]]"
+- "[[H4480A]]"
+- "[[H6242]]"
+- "[[H8147]]"
+- "[[H0505G]]"
+- "[[H6235]]"
+- "[[H7604]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 7:3**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore go to, proclaim in the ears of the people, saying, Whosoever [is] fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and trembling may turn back and leave Mount Gilead.’” So twenty-two thousand of them turned back, but ten thousand remained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H7121I\|קְרָ֨א]] [[H4994\|נָ֜א]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֤י]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4310\|מִֽי]][[H9014\|־]] [[H3373\|יָרֵ֣א]] [[H9002\|וְ]][[H2730\|חָרֵ֔ד]] [[H7725G\|יָשֹׁ֥ב]] [[H9002\|וְ]][[H6852\|יִצְפֹּ֖ר]] [[H9006\|מֵ]][[H2022G\|הַ֣ר]] [[H9009\|הַ]][[H1568K\|גִּלְעָ֑ד]] [[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֗ם]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֙יִם֙]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִ֖ים]] [[H7604\|נִשְׁאָֽרוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COWARDICE|COWARDICE]] • [[topic GILEAD|GILEAD]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.2|<< Judges 7:2]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.4|Judges 7:4 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and tr
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֔לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and ten  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6235\|עֲשֶׂ֥רֶת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Se.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֖ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they remained  |**<big>&#8207;[[H7604\|נִשְׁאָֽרוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nish.'A.ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they remained  |**<big>&#8207;[[H7604\|נִשְׁאָֽרוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nish.'A.ru<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.2|<< Judges 7:2]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.4|Judges 7:4 >>]]</td></tr></table>
 
 

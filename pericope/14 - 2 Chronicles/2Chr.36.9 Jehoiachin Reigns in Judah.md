@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiachin Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.36.9 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 36
 book/chapter: "[[2Chr.36|2 Chronicles 36]]"
-genre:
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 2
 verses:
 - "[[2Chr.36.9]]"
 - "[[2Chr.36.10]]"
 ---
 
-[[2Chr.36|2 Chronicles 36:9 - 2 Chronicles 36:10]]
+<small>[[2Chr.36|2 Chronicles 36:9-10]]</small>
 *Jehoiachin Reigns in Judah*
 
 [[2Chr.36.9|9]] Jehoiachin \[was\] eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did \[that which was\] evil in the sight of the LORD.

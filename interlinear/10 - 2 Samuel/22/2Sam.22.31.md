@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 22:31
+type: Verse
+kjv: "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him."
+bsb: "As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him."
+hebrew: "הָאֵ֖ל תָּמִ֣ים דַּרְכּ֑וֹ אִמְרַ֤ת יְהוָה֙ צְרוּפָ֔ה מָגֵ֣ן ה֔וּא לְכֹ֖ל הַחֹסִ֥ים בּֽוֹ׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H8549G]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H0565A]]"
+- "[[H3068G]]"
+- "[[H6884]]"
+- "[[H4043]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:31**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] God, his way [is] perfect; the word of the LORD [is] tried: he [is] a buckler to all them that trust in him.
 <small><sub>**BSB:**</sub></small>
 As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0410G\|אֵ֖ל]] [[H8549G\|תָּמִ֣ים]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H0565A\|אִמְרַ֤ת]] [[H3068G\|יְהוָה֙]] [[H6884\|צְרוּפָ֔ה]] [[H4043\|מָגֵ֣ן]] [[H1931\|ה֔וּא]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H9009\|הַ]][[H2620\|חֹסִ֥ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.30|<< 2 Samuel 22:30]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.32|2 Samuel 22:32 >>]]</td></tr></table>
 

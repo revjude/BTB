@@ -1,8 +1,76 @@
+---
+title: Judges 18:14
+type: Verse
+kjv: "Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do ye know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what ye have to do."
+bsb: "Then the five men who had gone to spy out the land of Laish said to their brothers, “Did you know that one of these houses has an ephod, household gods, a graven image, and a molten idol? Now think about what you should do.”"
+hebrew: "וַֽיַּעֲנ֞וּ חֲמֵ֣שֶׁת הָאֲנָשִׁ֗ים הַהֹלְכִים֮ לְרַגֵּל֮ אֶת־ הָאָ֣רֶץ לַיִשׁ֒ וַיֹּֽאמְרוּ֙ אֶל־ אֲחֵיהֶ֔ם הַיְדַעְתֶּ֗ם כִּ֠י יֵ֣שׁ בַּבָּתִּ֤ים הָאֵ֙לֶּה֙ אֵפ֣וֹד וּתְרָפִ֔ים וּפֶ֖סֶל וּמַסֵּכָ֑ה וְעַתָּ֖ה דְּע֥וּ מַֽה־ תַּעֲשֽׂוּ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3919A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H0251I]]"
+- "[[H9028]]"
+- "[[H9008]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0428]]"
+- "[[H0646]]"
+- "[[H9002]]"
+- "[[H8655]]"
+- "[[H6459]]"
+- "[[H4541A]]"
+- "[[H6258]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:14**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do ye know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what ye have to do.
 <small><sub>**BSB:**</sub></small>
 Then the five men who had gone to spy out the land of Laish said to their brothers, “Did you know that one of these houses has an ephod, household gods, a graven image, and a molten idol? Now think about what you should do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6030B\|יַּעֲנ֞וּ]] [[H2568\|חֲמֵ֣שֶׁת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9009\|הַ]][[H1980G\|הֹלְכִים֮]] [[H9005\|לְ]][[H7270\|רַגֵּל֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H3919A\|לַיִשׁ֒]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אֲחֵי]][[H9028\|הֶ֔ם]] [[H9008\|הַ]][[H3045\|יְדַעְתֶּ֗ם]] [[H3588A\|כִּ֠י]] [[H3426\|יֵ֣שׁ]] [[H9003\|בַּ]][[H1004B\|בָּתִּ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H0646\|אֵפ֣וֹד]] [[H9002\|וּ]][[H8655\|תְרָפִ֔ים]] [[H9002\|וּ]][[H6459\|פֶ֖סֶל]] [[H9002\|וּ]][[H4541A\|מַסֵּכָ֑ה]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H3045\|דְּע֥וּ]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|תַּעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic EPHOD|EPHOD]] • [[topic JONATHAN|JONATHAN]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.13|<< Judges 18:13]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.15|Judges 18:15 >>]]</td></tr></table>
 

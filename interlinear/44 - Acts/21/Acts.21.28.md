@@ -1,10 +1,75 @@
+---
+title: Acts 21:28
+type: Verse
+kjv: "Crying out, Men of Israel, help: This is the man, that teacheth all men every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place."
+bsb: "crying out, “Men of Israel, help us! This is the man who teaches everyone everywhere against our people and against our law and against this place. Furthermore, he has brought Greeks into the temple and defiled this holy place.”"
+greek: "κράζοντες· ἄνδρες Ἰσραηλῖται, βοηθεῖτε. οὗτός ἐστιν ὁ ἄνθρωπος ὁ κατὰ τοῦ λαοῦ καὶ τοῦ νόμου καὶ τοῦ τόπου τούτου πάντας πανταχῇ διδάσκων, ἔτι τε καὶ Ἕλληνας εἰσήγαγεν εἰς τὸ ἱερὸν καὶ κεκοίνωκεν τὸν ἅγιον τόπον τοῦτον."
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TROPHIMUS|TROPHIMUS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G2896]]"
+- "[[G0435G]]"
+- "[[G2475]]"
+- "[[G0997]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G3551]]"
+- "[[G5117]]"
+- "[[G3956]]"
+- "[[G6069]]"
+- "[[G1321]]"
+- "[[G2089]]"
+- "[[G5037]]"
+- "[[G1672]]"
+- "[[G1521]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G2840]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 21:28**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Crying out, Men of Israel, help: This is the man, that teacheth all [men] every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.
 <small><sub>**BSB:**</sub></small>
 crying out, “Men of Israel, help us! This is the man who teaches everyone everywhere against our people and against our law and against this place. Furthermore, he has brought Greeks into the temple and defiled this holy place.”
-<small><sub>**Literal:**</sub></small>
-crying out; Men Israelites, do help. This is the man who against the people and the law and <the> place this all those everywhere teaching, besides and also Greeks he has brought into the temple and has defiled <the> holy place this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.27|<< Acts 21:27]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.29|Acts 21:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2896\|κράζοντες·]]  [[G0435G\|ἄνδρες]]  [[G2475\|Ἰσραηλῖται,]]  [[G0997\|βοηθεῖτε.]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3588\|ὁ]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G5117\|τόπου]]  [[G3778\|τούτου]]  [[G3956\|πάντας]]  [[G6069\|πανταχῇ]]  [[G1321\|διδάσκων,]]  [[G2089\|ἔτι]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλληνας]]  [[G1521\|εἰσήγαγεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G2532\|καὶ]]  [[G2840\|κεκοίνωκεν]]  [[G3588\|τὸν]]  [[G0040G\|ἅγιον]]  [[G5117\|τόπον]]  [[G3778\|τοῦτον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CHURCH|CHURCH]] • [[topic FRATERNITY|FRATERNITY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPLE|TEMPLE]] • [[topic TROPHIMUS|TROPHIMUS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.27|<< Acts 21:27]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.29|Acts 21:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

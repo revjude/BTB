@@ -1,10 +1,58 @@
+---
+title: John 5:44
+type: Verse
+kjv: "How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?"
+bsb: "How can you believe if you accept glory from one another, yet do not seek the glory that comes from the only God?"
+jesus_said: "How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?"
+greek: "Πῶς δύνασθε ὑμεῖς πιστεῦσαι δόξαν παρὰ ἀλλήλων λαμβάνοντες καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ οὐ ζητεῖτε;¶"
+pericope: "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G4771]]"
+- "[[G4100]]"
+- "[[G1391]]"
+- "[[G3844]]"
+- "[[G0240]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3441]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G2212]]"
+texts:
+- NKO
+---
+
 **John 5:44**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How can ye believe, which receive honour one of another, and seek not the honour that [cometh] from God only?
 <small><sub>**BSB:**</sub></small>
 How can you believe if you accept glory from one another, yet do not seek the glory that comes from the only God?
-<small><sub>**Literal:**</sub></small>
-How are able you yourselves to believe glory from one another receiving and the glory that [is] from the only God not you seek?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.43|<< John 5:43]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.45|John 5:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|Πῶς]]  [[G1410\|δύνασθε]]  [[G4771\|ὑμεῖς]]  [[G4100\|πιστεῦσαι]]  [[G1391\|δόξαν]]  [[G3844\|παρὰ]]  [[G0240\|ἀλλήλων]]  [[G2983\|λαμβάνοντες]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G3588\|τὴν]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3441\|μόνου]]  [[G2316\|θεοῦ]]  [[G3756\|οὐ]]  [[G2212\|ζητεῖτε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.43|<< John 5:43]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.45|John 5:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

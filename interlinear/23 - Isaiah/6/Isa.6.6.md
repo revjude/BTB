@@ -1,8 +1,68 @@
+---
+title: Isaiah 6:6
+type: Verse
+kjv: "Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:"
+bsb: "Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar."
+hebrew: "וַיָּ֣עָף אֵלַ֗י אֶחָד֙ מִן־ הַשְּׂרָפִ֔ים וּבְיָד֖וֹ רִצְפָּ֑ה בְּמֶ֨לְקַחַ֔יִם לָקַ֖ח מֵעַ֥ל הַמִּזְבֵּֽחַ׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COAL|COAL]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SERAPHIM (SERAPHS)|SERAPHIM (SERAPHS)]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5774A]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8314B]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H7531B]]"
+- "[[H4457]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:6**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then flew one of the seraphims unto me, having a live coal in his hand, [which] he had taken with the tongs from off the altar:
 <small><sub>**BSB:**</sub></small>
 Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5774A\|יָּ֣עָף]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H0259\|אֶחָד֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8314B\|שְּׂרָפִ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יָד֖]][[H9023\|וֹ]] [[H7531B\|רִצְפָּ֑ה]] [[H9003\|בְּ]][[H4457\|מֶ֨לְקַחַ֔יִם]] [[H3947G\|לָקַ֖ח]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BLESSING|BLESSING]] • [[topic COAL|COAL]] • [[topic FIRE|FIRE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SERAPHIM (SERAPHS)|SERAPHIM (SERAPHS)]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.5|<< Isaiah 6:5]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.7|Isaiah 6:7 >>]]</td></tr></table>
 

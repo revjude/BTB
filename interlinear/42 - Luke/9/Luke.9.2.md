@@ -1,10 +1,52 @@
+---
+title: Luke 9:2
+type: Verse
+kjv: "And he sent them to preach the kingdom of God, and to heal the sick."
+bsb: "And He sent them out to proclaim the kingdom of God and to heal the sick."
+greek: "καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι τοὺς ἀσθενεῖς."
+pericope: "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0846]]"
+- "[[G2784]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2390]]"
+- "[[G0772H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:2**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sent them to preach the kingdom of God, and to heal the sick.
 <small><sub>**BSB:**</sub></small>
 And He sent them out to proclaim the kingdom of God and to heal the sick.
-<small><sub>**Literal:**</sub></small>
-and He sent them to proclaim the kingdom <the> of God and to heal the sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.1|<< Luke 9:1]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.3|Luke 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G0846\|αὐτοὺς]]  [[G2784\|κηρύσσειν]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G2390\|ἰᾶσθαι]]  [[G3588\|τοὺς]]  [[G0772H\|ἀσθενεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.1|<< Luke 9:1]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.3|Luke 9:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

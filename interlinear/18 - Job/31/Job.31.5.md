@@ -1,8 +1,56 @@
+---
+title: Job 31:5
+type: Verse
+kjv: "If I have walked with vanity, or if my foot hath hasted to deceit;"
+bsb: "If I have walked in falsehood or my foot has rushed to deceit,"
+hebrew: "אִם־ הָלַ֥כְתִּי עִם־ שָׁ֑וְא וַתַּ֖חַשׁ עַל־ מִרְמָ֣ה רַגְלִֽי׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H5973A]]"
+- "[[H7723G]]"
+- "[[H9001]]"
+- "[[H2363A]]"
+- "[[H5921A]]"
+- "[[H4820]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:5**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have walked with vanity, or if my foot hath hasted to deceit;
 <small><sub>**BSB:**</sub></small>
 If I have walked in falsehood or my foot has rushed to deceit,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1980I\|הָלַ֥כְתִּי]] [[H5973A\|עִם]][[H9014\|־]] [[H7723G\|שָׁ֑וְא]] [[H9001\|וַ]][[H2363A\|תַּ֖חַשׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H4820\|מִרְמָ֣ה]] [[H7272\|רַגְלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.4|<< Job 31:4]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.6|Job 31:6 >>]]</td></tr></table>
 

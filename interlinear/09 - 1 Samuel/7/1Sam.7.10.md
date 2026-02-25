@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 7:10
+type: Verse
+kjv: "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel."
+bsb: "As the Philistines drew near to fight against Israel, Samuel was offering up the burnt offering. But that day the LORD thundered loudly against the Philistines and threw them into such confusion that they fled before Israel."
+hebrew: "וַיְהִ֤י שְׁמוּאֵל֙ מַעֲלֶ֣ה הָעוֹלָ֔ה וּפְלִשְׁתִּ֣ים נִגְּשׁ֔וּ לַמִּלְחָמָ֖ה בְּיִשְׂרָאֵ֑ל וַיַּרְעֵ֣ם יְהוָ֣ה׀ בְּקוֹל־ גָּ֠דוֹל בַּיּ֨וֹם הַה֤וּא עַל־ פְּלִשְׁתִּים֙ וַיְהֻמֵּ֔ם וַיִּנָּגְפ֖וּ לִפְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8050G]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H5066G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H7481]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H6963H]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H2000]]"
+- "[[H9038]]"
+- "[[H5062]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:10**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.
 <small><sub>**BSB:**</sub></small>
 As the Philistines drew near to fight against Israel, Samuel was offering up the burnt offering. But that day the LORD thundered loudly against the Philistines and threw them into such confusion that they fled before Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H8050G\|שְׁמוּאֵל֙]] [[H5927I\|מַעֲלֶ֣ה]] [[H9009\|הָ]][[H5930A\|עוֹלָ֔ה]] [[H9002\|וּ]][[H6430G\|פְלִשְׁתִּ֣ים]] [[H5066G\|נִגְּשׁ֔וּ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H7481\|יַּרְעֵ֣ם]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H9003\|בְּ]][[H6963H\|קוֹל]][[H9014\|־]] [[H1419A\|גָּ֠דוֹל]] [[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֤וּא]] [[H5921A\|עַל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּים֙]] [[H9001\|וַ]][[H2000\|יְהֻמֵּ֔]][[H9038\|ם]] [[H9001\|וַ]][[H5062\|יִּנָּגְפ֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SAMUEL|SAMUEL]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.9|<< 1 Samuel 7:9]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.11|1 Samuel 7:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,72 @@
+---
+title: Numbers 5:20
+type: Verse
+kjv: "But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:"
+bsb: "But if you have gone astray while under your husband’s authority and have defiled yourself and lain carnally with a man other than your husband’—"
+hebrew: "וְאַ֗תְּ כִּ֥י שָׂטִ֛ית תַּ֥חַת אִישֵׁ֖ךְ וְכִ֣י נִטְמֵ֑את וַיִּתֵּ֨ן אִ֥ישׁ בָּךְ֙ אֶת־ שְׁכָבְתּ֔וֹ מִֽבַּלְעֲדֵ֖י אִישֵֽׁךְ׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859C]]"
+- "[[H3588A]]"
+- "[[H7847]]"
+- "[[H8478G]]"
+- "[[H0376H]]"
+- "[[H9022]]"
+- "[[H2930A]]"
+- "[[H9001]]"
+- "[[H5414O]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7903]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1107]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:20**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou hast gone aside [to another] instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:
 <small><sub>**BSB:**</sub></small>
 But if you have gone astray while under your husband’s authority and have defiled yourself and lain carnally with a man other than your husband’—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859C\|אַ֗תְּ]] [[H3588A\|כִּ֥י]] [[H7847\|שָׂטִ֛ית]] [[H8478G\|תַּ֥חַת]] [[H0376H\|אִישֵׁ֖]][[H9022\|ךְ]] [[H9002\|וְ]][[H3588A\|כִ֣י]] [[H2930A\|נִטְמֵ֑את]] [[H9001\|וַ]][[H5414O\|יִּתֵּ֨ן]] [[H0376G\|אִ֥ישׁ]] [[H9003\|בָּ]][[H9032\|ךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7903\|שְׁכָבְתּ֔]][[H9023\|וֹ]] [[H9006\|מִֽ]][[H1107\|בַּלְעֲדֵ֖י]] [[H0376H\|אִישֵֽׁ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.21|Numbers 5:21 >>]]</td></tr></table>
 

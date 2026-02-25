@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eyewitnesses of His Majesty
+type: Pericope
 pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 1
 book/chapter: "[[2Pet.1|2 Peter 1]]"
-genre:
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 6
 verses:
 - "[[2Pet.1.16]]"
 - "[[2Pet.1.17]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Pet.1.21]]"
 ---
 
-[[2Pet.1|2 Peter 1:16 - 2 Peter 1:21]]
+<small>[[2Pet.1|2 Peter 1:16-21]]</small>
 *Eyewitnesses of His Majesty*
 
 [[2Pet.1.16|16]] For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.

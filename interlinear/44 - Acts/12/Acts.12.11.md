@@ -1,10 +1,74 @@
+---
+title: Acts 12:11
+type: Verse
+kjv: "And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews."
+bsb: "Then Peter came to himself and said, “Now I know for sure that the Lord has sent His angel and rescued me from Herod’s grasp and from everything the Jewish people were anticipating.”"
+greek: "καὶ ὁ Πέτρος ἐν ἑαυτῷ γενόμενος εἶπεν· νῦν οἶδα ἀληθῶς ὅτι ἐξαπέστειλεν ὁ κύριος τὸν ἄγγελον αὐτοῦ καὶ ἐξείλατό με ἐκ χειρὸς Ἡρῴδου καὶ πάσης τῆς προσδοκίας τοῦ λαοῦ τῶν Ἰουδαίων."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G1096]]"
+- "[[G2036]]"
+- "[[G3568]]"
+- "[[G6063]]"
+- "[[G0230]]"
+- "[[G3754G]]"
+- "[[G1821]]"
+- "[[G2962G]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G1807]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G2264I]]"
+- "[[G3956]]"
+- "[[G4329]]"
+- "[[G2992]]"
+- "[[G2453]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 12:11**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and [from] all the expectation of the people of the Jews.
 <small><sub>**BSB:**</sub></small>
 Then Peter came to himself and said, “Now I know for sure that the Lord has sent His angel and rescued me from Herod’s grasp and from everything the Jewish people were anticipating.”
-<small><sub>**Literal:**</sub></small>
-And <the> Peter to himself having come said; Now I know truly that has sent forth the Lord the angel of Him and delivered me out of [the] hand of Herod and all the expectation of the people of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.10|<< Acts 12:10]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.12|Acts 12:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ]]  [[G1096\|γενόμενος]]  [[G2036\|εἶπεν·]]  [[G3568\|νῦν]]  [[G6063\|οἶδα]]  [[G0230\|ἀληθῶς]]  [[G3754G\|ὅτι]]  [[G1821\|ἐξαπέστειλεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1807\|ἐξείλατό]]  [[G3165\|με]]  [[G1537\|ἐκ]]  [[G5495\|χειρὸς]]  [[G2264I\|Ἡρῴδου]]  [[G2532\|καὶ]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G4329\|προσδοκίας]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.10|<< Acts 12:10]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.12|Acts 12:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

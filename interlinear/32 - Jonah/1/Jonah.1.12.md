@@ -1,8 +1,68 @@
+---
+title: Jonah 1:12
+type: Verse
+kjv: "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you."
+bsb: "“Pick me up,” he answered, “and cast me into the sea, so it may quiet down for you. For I know that I am to blame for this violent storm that has come upon you.”"
+hebrew: "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֙וּנִי֙ וַהֲטִילֻ֣נִי אֶל־ הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם כִּ֚י יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם׃"
+pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5375G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H2904]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H8367]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H9007]]"
+- "[[H9005]]"
+- "[[H5591A]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:12**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest [is] upon you.
 <small><sub>**BSB:**</sub></small>
 “Pick me up,” he answered, “and cast me into the sea, so it may quiet down for you. For I know that I am to blame for this violent storm that has come upon you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H5375G\|שָׂא֙וּ]][[H9030\|נִי֙]] [[H9002\|וַ]][[H2904\|הֲטִילֻ֣]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H9002\|וְ]][[H8367\|יִשְׁתֹּ֥ק]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9036\|כֶ֑ם]] [[H3588A\|כִּ֚י]] [[H3045\|יוֹדֵ֣עַ]] [[H0589\|אָ֔נִי]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H9007\|שֶׁ]][[H9005\|לִּ֔]][[H9030\|י]] [[H9009\|הַ]][[H5591A\|סַּ֧עַר]] [[H9009\|הַ]][[H1419A\|גָּד֛וֹל]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.11|<< Jonah 1:11]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.13|Jonah 1:13 >>]]</td></tr></table>
 

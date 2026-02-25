@@ -1,8 +1,65 @@
+---
+title: Ezekiel 39:7
+type: Verse
+kjv: "So will I make my holy name known in the midst of my people Israel; and I will not let them pollute my holy name any more: and the heathen shall know that I am the LORD, the Holy One in Israel."
+bsb: "So I will make My holy name known among My people Israel and will no longer allow it to be profaned. Then the nations will know that I am the LORD, the Holy One in Israel."
+hebrew: "וְאֶת־ שֵׁ֨ם קָדְשִׁ֜י אוֹדִ֗יעַ בְּתוֹךְ֙ עַמִּ֣י יִשְׂרָאֵ֔ל וְלֹֽא־ אַחֵ֥ל אֶת־ שֵׁם־ קָדְשִׁ֖י ע֑וֹד וְיָדְע֤וּ הַגּוֹיִם֙ כִּי־ אֲנִ֣י יְהוָ֔ה קָד֖וֹשׁ בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H5750]]"
+- "[[H9001]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6918G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:7**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I make my holy name known in the midst of my people Israel; and I will not [let them] pollute my holy name any more: and the heathen shall know that I [am] the LORD, the Holy One in Israel.
 <small><sub>**BSB:**</sub></small>
 So I will make My holy name known among My people Israel and will no longer allow it to be profaned. Then the nations will know that I am the LORD, the Holy One in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֨ם]] [[H6944G\|קָדְשִׁ֜]][[H9020\|י]] [[H3045\|אוֹדִ֗יעַ]] [[H9003\|בְּ]][[H8432\|תוֹךְ֙]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2490H\|אַחֵ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁם]][[H9014\|־]] [[H6944G\|קָדְשִׁ֖]][[H9020\|י]] [[H5750\|ע֑וֹד]] [[H9001\|וְ]][[H3045\|יָדְע֤וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6918G\|קָד֖וֹשׁ]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.6|<< Ezekiel 39:6]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.8|Ezekiel 39:8 >>]]</td></tr></table>
 

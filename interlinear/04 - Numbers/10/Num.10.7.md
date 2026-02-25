@@ -1,8 +1,56 @@
+---
+title: Numbers 10:7
+type: Verse
+kjv: "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm."
+bsb: "To convene the assembly, you are to sound long blasts, not short ones."
+hebrew: "וּבְהַקְהִ֖יל אֶת־ הַקָּהָ֑ל תִּתְקְע֖וּ וְלֹ֥א תָרִֽיעוּ׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6950]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H8628]]"
+- "[[H3808]]"
+- "[[H7321]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:7**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.
 <small><sub>**BSB:**</sub></small>
 To convene the assembly, you are to sound long blasts, not short ones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H6950\|הַקְהִ֖יל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֑ל]] [[H8628\|תִּתְקְע֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7321\|תָרִֽיעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.6|<< Numbers 10:6]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.8|Numbers 10:8 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 9:2
+type: Verse
+kjv: "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people."
+bsb: "And he had a son named Saul, choice and handsome, without equal among the Israelites—a head taller than any of the people."
+hebrew: "וְלוֹ־ הָיָ֨ה בֵ֜ן וּשְׁמ֤וֹ שָׁאוּל֙ בָּח֣וּר וָט֔וֹב וְאֵ֥ין אִ֛ישׁ מִבְּנֵ֥י יִשְׂרָאֵ֖ל ט֣וֹב מִמֶּ֑נּוּ מִשִּׁכְמ֣וֹ וָמַ֔עְלָה גָּבֹ֖הַּ מִכָּל־ הָעָֽם׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic KISH|KISH]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7586G]]"
+- "[[H0970]]"
+- "[[H2896A]]"
+- "[[H0369]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H7926]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H1364]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:2**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had a son, whose name [was] Saul, a choice young man, and a goodly: and [there was] not among the children of Israel a goodlier person than he: from his shoulders and upward [he was] higher than any of the people.
 <small><sub>**BSB:**</sub></small>
 And he had a son named Saul, choice and handsome, without equal among the Israelites—a head taller than any of the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H1121A\|בֵ֜ן]] [[H9002\|וּ]][[H8034\|שְׁמ֤]][[H9023\|וֹ]] [[H7586G\|שָׁאוּל֙]] [[H0970\|בָּח֣וּר]] [[H9002\|וָ]][[H2896A\|ט֔וֹב]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H0376G\|אִ֛ישׁ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2896A\|ט֣וֹב]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9006\|מִ]][[H7926\|שִּׁכְמ֣]][[H9023\|וֹ]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H1364\|גָּבֹ֖הַּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KISH|KISH]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.1|<< 1 Samuel 9:1]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.3|1 Samuel 9:3 >>]]</td></tr></table>
 

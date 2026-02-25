@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib’s Blasphemous Letter
+type: Pericope
 pericope: "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 19
 book/chapter: "[[2Kgs.19|2 Kings 19]]"
-genre:
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.19.8]]"
 - "[[2Kgs.19.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.19.13]]"
 ---
 
-[[2Kgs.19|2 Kings 19:8 - 2 Kings 19:13]]
+<small>[[2Kgs.19|2 Kings 19:8-13]]</small>
 *Sennacherib’s Blasphemous Letter*
 
 [[2Kgs.19.8|8]] So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.

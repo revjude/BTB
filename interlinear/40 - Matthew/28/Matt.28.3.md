@@ -1,10 +1,58 @@
+---
+title: Matthew 28:3
+type: Verse
+kjv: "His countenance was like lightning, and his raiment white as snow:"
+bsb: "His appearance was like lightning, and his clothes were white as snow."
+greek: "ἦν δὲ ἡ εἰδέα αὐτοῦ ὡς ἀστραπὴ καὶ τὸ ἔνδυμα αὐτοῦ λευκὸν ὡς χιών."
+pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2397]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G0796]]"
+- "[[G2532]]"
+- "[[G1742]]"
+- "[[G3022]]"
+- "[[G5510]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Matthew 28:3**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His countenance was like lightning, and his raiment white as snow:
 <small><sub>**BSB:**</sub></small>
 His appearance was like lightning, and his clothes were white as snow.
-<small><sub>**Literal:**</sub></small>
-Was now the appearance of him like lightning and the clothing of him white as snow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.2|<< Matthew 28:2]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.4|Matthew 28:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G2397\|εἰδέα]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G0796\|ἀστραπὴ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1742\|ἔνδυμα]]  [[G0846\|αὐτοῦ]]  [[G3022\|λευκὸν]]  [[G5613\|ὡς]]  [[G5510\|χιών.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COLORS|COLORS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHTNING|LIGHTNING]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.2|<< Matthew 28:2]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.4|Matthew 28:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mordecai Uncovers a Conspiracy
+type: Pericope
 pericope: "[[Esth.2.21 Mordecai Uncovers a Conspiracy|Mordecai Uncovers a Conspiracy]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 2
 book/chapter: "[[Esth.2|Esther 2]]"
-genre:
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 3
 verses:
 - "[[Esth.2.21]]"
 - "[[Esth.2.22]]"
 - "[[Esth.2.23]]"
 ---
 
-[[Esth.2|Esther 2:21 - Esther 2:23]]
+<small>[[Esth.2|Esther 2:21-23]]</small>
 *Mordecai Uncovers a Conspiracy*
 
 [[Esth.2.21|21]] In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.

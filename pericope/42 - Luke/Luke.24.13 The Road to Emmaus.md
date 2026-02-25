@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Road to Emmaus
+type: Pericope
 pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
-verse_count: 23
+original_language: Greek
 testament: New
 book: Luke
 chapter: 24
 book/chapter: "[[Luke.24|Luke 24]]"
-genre:
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 23
 verses:
 - "[[Luke.24.13]]"
 - "[[Luke.24.14]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Luke.24.35]]"
 ---
 
-[[Luke.24|Luke 24:13 - Luke 24:35]]
+<small>[[Luke.24|Luke 24:13-35]]</small>
 *The Road to Emmaus*
 
 [[Luke.24.13|13]] And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem \[about\] threescore furlongs.

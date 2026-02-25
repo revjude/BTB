@@ -1,8 +1,60 @@
+---
+title: Isaiah 1:21
+type: Verse
+kjv: "How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers."
+bsb: "See how the faithful city has become a harlot! She once was full of justice; righteousness resided within her, but now only murderers!"
+hebrew: "אֵיכָה֙ הָיְתָ֣ה לְזוֹנָ֔ה קִרְיָ֖ה נֶאֱמָנָ֑ה מְלֵאֲתִ֣י מִשְׁפָּ֗ט צֶ֛דֶק יָלִ֥ין בָּ֖הּ וְעַתָּ֥ה מְרַצְּחִֽים׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0349B]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H2181]]"
+- "[[H7151]]"
+- "[[H0539]]"
+- "[[H4392]]"
+- "[[H4941H]]"
+- "[[H6664G]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:21**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.
 <small><sub>**BSB:**</sub></small>
 See how the faithful city has become a harlot! She once was full of justice; righteousness resided within her, but now only murderers!
+<small><sub>**Hebrew:**</sub></small>
+[[H0349B\|אֵיכָה֙]] [[H1961\|הָיְתָ֣ה]] [[H9005\|לְ]][[H2181\|זוֹנָ֔ה]] [[H7151\|קִרְיָ֖ה]] [[H0539\|נֶאֱמָנָ֑ה]] [[H4392\|מְלֵאֲתִ֣י]] [[H4941H\|מִשְׁפָּ֗ט]] [[H6664G\|צֶ֛דֶק]] [[H3885A\|יָלִ֥ין]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H7523\|מְרַצְּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: 1 Thessalonians 1:6
+type: Verse
+kjv: "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:"
+bsb: "And you became imitators of us and of the Lord when you welcomed the message with the joy of the Holy Spirit, in spite of your great suffering."
+greek: "καὶ ὑμεῖς μιμηταὶ ἡμῶν ἐγενήθητε καὶ τοῦ κυρίου δεξάμενοι τὸν λόγον ἐν θλίψει πολλῇ μετὰ χαρᾶς πνεύματος ἁγίου,"
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3402]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1209]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G2347]]"
+- "[[G4183]]"
+- "[[G3326]]"
+- "[[G5479]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 1:6**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
 <small><sub>**BSB:**</sub></small>
 And you became imitators of us and of the Lord when you welcomed the message with the joy of the Holy Spirit, in spite of your great suffering.
-<small><sub>**Literal:**</sub></small>
-And you yourselves imitators of us became and of the Lord having received the word in tribulation much with [the] joy of [the] Spirit Holy,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.5|<< 1 Thessalonians 1:5]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.7|1 Thessalonians 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3402\|μιμηταὶ]]  [[G3165\|ἡμῶν]]  [[G1096\|ἐγενήθητε]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1209\|δεξάμενοι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G1722\|ἐν]]  [[G2347\|θλίψει]]  [[G4183\|πολλῇ]]  [[G3326\|μετὰ]]  [[G5479\|χαρᾶς]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.5|<< 1 Thessalonians 1:5]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.7|1 Thessalonians 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

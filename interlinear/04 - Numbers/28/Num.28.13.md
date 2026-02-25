@@ -1,8 +1,65 @@
+---
+title: Numbers 28:13
+type: Verse
+kjv: "And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD."
+bsb: "and a tenth of an ephah of fine flour mixed with oil as a grain offering with each lamb. This is a burnt offering, a pleasing aroma, a food offering to the LORD."
+hebrew: "וְעִשָּׂרֹ֣ן עִשָּׂר֗וֹן סֹ֤לֶת מִנְחָה֙ בְּלוּלָ֣ה בַשֶּׁ֔מֶן לַכֶּ֖בֶשׂ הָאֶחָ֑ד עֹלָה֙ רֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהוָֽה׃"
+pericope: "[[Num.28.11 The Monthly Offerings|The Monthly Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MOON|MOON]]"
+- "[[topic NEW MOON|NEW MOON]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6241]]"
+- "[[H5560]]"
+- "[[H4503G]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H9005]]"
+- "[[H3532]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H5930A]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:13**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a several tenth deal of flour mingled with oil [for] a meat offering unto one lamb; [for] a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 and a tenth of an ephah of fine flour mixed with oil as a grain offering with each lamb. This is a burnt offering, a pleasing aroma, a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6241\|עִשָּׂרֹ֣ן]] [[H6241\|עִשָּׂר֗וֹן]] [[H5560\|סֹ֤לֶת]] [[H4503G\|מִנְחָה֙]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שֶּׁ֔מֶן]] [[H9005\|לַ]][[H3532\|כֶּ֖בֶשׂ]] [[H9009\|הָ]][[H0259\|אֶחָ֑ד]] [[H5930A\|עֹלָה֙]] [[H7381\|רֵ֣יחַ]] [[H5207\|נִיחֹ֔חַ]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic MEASURE|MEASURE]] • [[topic MOON|MOON]] • [[topic NEW MOON|NEW MOON]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.12|<< Numbers 28:12]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.14|Numbers 28:14 >>]]</td></tr></table>
 

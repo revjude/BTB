@@ -1,8 +1,75 @@
+---
+title: Ezra 9:13
+type: Verse
+kjv: "And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this;"
+bsb: "After all that has come upon us because of our evil deeds and our great guilt (though You, our God, have punished us less than our iniquities deserve and have given us such a remnant as this),"
+hebrew: "וְאַֽחֲרֵי֙ כָּל־ הַבָּ֣א עָלֵ֔ינוּ בְּמַעֲשֵׂ֙ינוּ֙ הָרָעִ֔ים וּבְאַשְׁמָתֵ֖נוּ הַגְּדֹלָ֑ה כִּ֣י׀ אַתָּ֣ה אֱלֹהֵ֗ינוּ חָשַׂ֤כְתָּֽ לְמַ֙טָּה֙ מֵֽעֲוֹנֵ֔נוּ וְנָתַ֥תָּה לָּ֛נוּ פְּלֵיטָ֖ה כָּזֹֽאת׃"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H4639K]]"
+- "[[H9025]]"
+- "[[H7451H]]"
+- "[[H0819]]"
+- "[[H1419A]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H2820]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H6413]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:13**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities [deserve], and hast given us [such] deliverance as this;
 <small><sub>**BSB:**</sub></small>
 After all that has come upon us because of our evil deeds and our great guilt (though You, our God, have punished us less than our iniquities deserve and have given us such a remnant as this),
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַֽחֲרֵי֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּ֣א]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9003\|בְּ]][[H4639K\|מַעֲשֵׂ֙י]][[H9025\|נוּ֙]] [[H9009\|הָ]][[H7451H\|רָעִ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H0819\|אַשְׁמָתֵ֖]][[H9025\|נוּ]] [[H9009\|הַ]][[H1419A\|גְּדֹלָ֑ה]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H2820\|חָשַׂ֤כְתָּֽ]] [[H9005\|לְ]][[H4295\|מַ֙טָּה֙]] [[H9006\|מֵֽ]][[H5771G\|עֲוֹנֵ֔]][[H9025\|נוּ]] [[H9001\|וְ]][[H5414G\|נָתַ֥תָּה]] [[H9005\|לָּ֛]][[H9035\|נוּ]] [[H6413\|פְּלֵיטָ֖ה]] [[H9004\|כָּ]][[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.12|<< Ezra 9:12]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.14|Ezra 9:14 >>]]</td></tr></table>
 

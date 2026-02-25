@@ -1,8 +1,54 @@
+---
+title: Isaiah 13:3
+type: Verse
+kjv: "I have commanded my sanctified ones, I have also called my mighty ones for mine anger, even them that rejoice in my highness."
+bsb: "I have commanded My sanctified ones; I have even summoned My warriors to execute My wrath and exult in My triumph."
+hebrew: "אֲנִ֥י צִוֵּ֖יתִי לִמְקֻדָּשָׁ֑י גַּ֣ם קָרָ֤אתִי גִבּוֹרַי֙ לְאַפִּ֔י עַלִּיזֵ֖י גַּאֲוָתִֽי׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0589]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H9020]]"
+- "[[H1571]]"
+- "[[H7121G]]"
+- "[[H1368]]"
+- "[[H0639G]]"
+- "[[H5947]]"
+- "[[H1346]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:3**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have commanded my sanctified ones, I have also called my mighty ones for mine anger, [even] them that rejoice in my highness.
 <small><sub>**BSB:**</sub></small>
 I have commanded My sanctified ones; I have even summoned My warriors to execute My wrath and exult in My triumph.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֥י]] [[H6680\|צִוֵּ֖יתִי]] [[H9005\|לִ]][[H6942G\|מְקֻדָּשָׁ֑]][[H9020\|י]] [[H1571\|גַּ֣ם]] [[H7121G\|קָרָ֤אתִי]] [[H1368\|גִבּוֹרַ]][[H9020\|י֙]] [[H9005\|לְ]][[H0639G\|אַפִּ֔]][[H9020\|י]] [[H5947\|עַלִּיזֵ֖י]] [[H1346\|גַּאֲוָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.2|<< Isaiah 13:2]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.4|Isaiah 13:4 >>]]</td></tr></table>
 

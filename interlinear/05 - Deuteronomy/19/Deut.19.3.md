@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 19:3
+type: Verse
+kjv: "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
+bsb: "You are to build roads for yourselves and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities."
+hebrew: "תָּכִ֣ין לְךָ֮ הַדֶּרֶךְ֒ וְשִׁלַּשְׁתָּ֙ אֶת־ גְּב֣וּל אַרְצְךָ֔ אֲשֶׁ֥ר יַנְחִֽילְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ וְהָיָ֕ה לָנ֥וּס שָׁ֖מָּה כָּל־ רֹצֵֽחַ׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+- "[[topic ROADS|ROADS]]"
+strongs:
+- "[[H3559K]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H9001]]"
+- "[[H8027]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H5157]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1961]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H7523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:3**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither.
 <small><sub>**BSB:**</sub></small>
 You are to build roads for yourselves and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H3559K\|תָּכִ֣ין]] [[H9005\|לְ]][[H9031\|ךָ֮]] [[H9009\|הַ]][[H1870K\|דֶּרֶךְ֒]] [[H9001\|וְ]][[H8027\|שִׁלַּשְׁתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1366H\|גְּב֣וּל]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁ֥ר]] [[H5157\|יַנְחִֽילְ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָ֕ה]] [[H9005\|לָ]][[H5127\|נ֥וּס]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H3605\|כָּל]][[H9014\|־]] [[H7523\|רֹצֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]] • [[topic ROADS|ROADS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.2|<< Deuteronomy 19:2]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.4|Deuteronomy 19:4 >>]]</td></tr></table>
 

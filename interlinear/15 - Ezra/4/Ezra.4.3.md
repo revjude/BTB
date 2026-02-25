@@ -1,8 +1,75 @@
+---
+title: Ezra 4:3
+type: Verse
+kjv: "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us."
+bsb: "But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”"
+hebrew: "וַיֹּאמֶר֩ לָהֶ֨ם זְרֻבָּבֶ֜ל וְיֵשׁ֗וּעַ וּשְׁאָ֨ר רָאשֵׁ֤י הָֽאָבוֹת֙ לְיִשְׂרָאֵ֔ל לֹֽא־ לָ֣כֶם וָלָ֔נוּ לִבְנ֥וֹת בַּ֖יִת לֵאלֹהֵ֑ינוּ כִּי֩ אֲנַ֨חְנוּ יַ֜חַד נִבְנֶ֗ה לַֽיהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כַּאֲשֶׁ֣ר צִוָּ֔נוּ הַמֶּ֖לֶךְ כּ֥וֹרֶשׁ מֶֽלֶךְ־ פָּרָֽס׃"
+pericope: "[[Ezra.4.1 Adversaries Hinder the Work|Adversaries Hinder the Work]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2216]]"
+- "[[H9002]]"
+- "[[H3442P]]"
+- "[[H7605]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9036]]"
+- "[[H9035]]"
+- "[[H1129]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H0587]]"
+- "[[H3162A]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4428G]]"
+- "[[H3566]]"
+- "[[H6539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:3**<big><big>[[Ezra.4.1 Adversaries Hinder the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us.
 <small><sub>**BSB:**</sub></small>
 But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H2216\|זְרֻבָּבֶ֜ל]] [[H9002\|וְ]][[H3442P\|יֵשׁ֗וּעַ]] [[H9002\|וּ]][[H7605\|שְׁאָ֨ר]] [[H7218H\|רָאשֵׁ֤י]] [[H9009\|הָֽ]][[H0001G\|אָבוֹת֙]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9005\|לָ֣]][[H9036\|כֶם]] [[H9002\|וָ]][[H9005\|לָ֔]][[H9035\|נוּ]] [[H9005\|לִ]][[H1129\|בְנ֥וֹת]] [[H1004Q\|בַּ֖יִת]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֑י]][[H9025\|נוּ]] [[H3588A\|כִּי֩]] [[H0587\|אֲנַ֨חְנוּ]] [[H3162A\|יַ֜חַד]] [[H1129\|נִבְנֶ֗ה]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֔]][[H9035\|נוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3566\|כּ֥וֹרֶשׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6539\|פָּרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic JESHUA|JESHUA]] • [[topic JOSHUA|JOSHUA]] • [[topic PERSIA|PERSIA]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.2|<< Ezra 4:2]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.4|Ezra 4:4 >>]]</td></tr></table>
 

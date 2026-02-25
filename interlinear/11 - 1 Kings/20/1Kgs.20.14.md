@@ -1,8 +1,59 @@
+---
+title: 1 Kings 20:14
+type: Verse
+kjv: "And Ahab said, By whom? And he said, Thus saith the LORD, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou."
+bsb: "“By whom?” Ahab asked. And the prophet replied, “This is what the LORD says: ‘By the young officers of the district governors.’” “Who will start the battle?” asked Ahab. “You will,” answered the prophet."
+hebrew: "וַיֹּ֤אמֶר אַחְאָב֙ בְּמִ֔י וַיֹּ֙אמֶר֙ כֹּֽה־ אָמַ֣ר יְהוָ֔ה בְּנַעֲרֵ֖י שָׂרֵ֣י הַמְּדִינ֑וֹת וַיֹּ֛אמֶר מִֽי־ יֶאְסֹ֥ר הַמִּלְחָמָ֖ה וַיֹּ֥אמֶר אָֽתָּה׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0256G]]"
+- "[[H9003]]"
+- "[[H4310]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5288]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H0631]]"
+- "[[H4421]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:14**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab said, By whom? And he said, Thus saith the LORD, [Even] by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.
 <small><sub>**BSB:**</sub></small>
 “By whom?” Ahab asked. And the prophet replied, “This is what the LORD says: ‘By the young officers of the district governors.’” “Who will start the battle?” asked Ahab. “You will,” answered the prophet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0256G\|אַחְאָב֙]] [[H9003\|בְּ]][[H4310\|מִ֔י]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H5288\|נַעֲרֵ֖י]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H4082\|מְּדִינ֑וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H4310\|מִֽי]][[H9014\|־]] [[H0631\|יֶאְסֹ֥ר]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.13|<< 1 Kings 20:13]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.15|1 Kings 20:15 >>]]</td></tr></table>
 

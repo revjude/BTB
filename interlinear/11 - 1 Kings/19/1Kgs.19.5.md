@@ -1,8 +1,70 @@
+---
+title: 1 Kings 19:5
+type: Verse
+kjv: "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat."
+bsb: "Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.”"
+hebrew: "וַיִּשְׁכַּב֙ וַיִּישַׁ֔ן תַּ֖חַת רֹ֣תֶם אֶחָ֑ד וְהִנֵּֽה־ זֶ֤ה מַלְאָךְ֙ נֹגֵ֣עַ בּ֔וֹ וַיֹּ֥אמֶר ל֖וֹ ק֥וּם אֱכֽוֹל׃"
+pericope: "[[1Kgs.19.1 Elijah Flees from Jezebel|Elijah Flees from Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUNIPER|JUNIPER]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901G]]"
+- "[[H3462]]"
+- "[[H8478G]]"
+- "[[H7574]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H4397H]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6965B]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:5**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise [and] eat.
 <small><sub>**BSB:**</sub></small>
 Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901G\|יִּשְׁכַּב֙]] [[H9001\|וַ]][[H3462\|יִּישַׁ֔ן]] [[H8478G\|תַּ֖חַת]] [[H7574\|רֹ֣תֶם]] [[H0259\|אֶחָ֑ד]] [[H9002\|וְ]][[H2009\|הִנֵּֽה]][[H9014\|־]] [[H2088\|זֶ֤ה]] [[H4397H\|מַלְאָךְ֙]] [[H5060\|נֹגֵ֣עַ]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H6965B\|ק֥וּם]] [[H0398\|אֱכֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BEER-SHEBA|BEER-SHEBA]] • [[topic BLESSING|BLESSING]] • [[topic ELIJAH|ELIJAH]] • [[topic GOD|GOD]] • [[topic JUNIPER|JUNIPER]] • [[topic LIFE|LIFE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.4|<< 1 Kings 19:4]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.6|1 Kings 19:6 >>]]</td></tr></table>
 

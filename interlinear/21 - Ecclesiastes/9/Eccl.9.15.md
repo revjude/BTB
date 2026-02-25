@@ -1,8 +1,64 @@
+---
+title: Ecclesiastes 9:15
+type: Verse
+kjv: "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man."
+bsb: "Now a poor wise man was found in the city, and he saved the city by his wisdom. Yet no one remembered that poor man."
+hebrew: "וּמָ֣צָא בָ֗הּ אִ֤ישׁ מִסְכֵּן֙ חָכָ֔ם וּמִלַּט־ ה֥וּא אֶת־ הָעִ֖יר בְּחָכְמָת֑וֹ וְאָדָם֙ לֹ֣א זָכַ֔ר אֶת־ הָאִ֥ישׁ הַמִּסְכֵּ֖ן הַהּֽוּא׃"
+pericope: "[[Eccl.9.13 Wisdom Is Better than Strength|Wisdom Is Better than Strength]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H0376G]]"
+- "[[H4542]]"
+- "[[H2450]]"
+- "[[H4422]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2451]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Ecclesiastes 9:15**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.
 <small><sub>**BSB:**</sub></small>
 Now a poor wise man was found in the city, and he saved the city by his wisdom. Yet no one remembered that poor man.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4672\|מָ֣צָא]] [[H9003\|בָ֗]][[H9034\|הּ]] [[H0376G\|אִ֤ישׁ]] [[H4542\|מִסְכֵּן֙]] [[H2450\|חָכָ֔ם]] [[H9001\|וּ]][[H4422\|מִלַּט]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בְּ]][[H2451\|חָכְמָת֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0120G\|אָדָם֙]] [[H3808\|לֹ֣א]] [[H2142\|זָכַ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H4542\|מִּסְכֵּ֖ן]] [[H9009\|הַ]][[H1931\|הּֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INGRATITUDE|INGRATITUDE]] • [[topic POOR|POOR]] • [[topic WAR|WAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 

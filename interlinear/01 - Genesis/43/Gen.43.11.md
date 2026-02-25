@@ -1,8 +1,84 @@
+---
+title: Genesis 43:11
+type: Verse
+kjv: "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:"
+bsb: "Then their father Israel said to them, “If it must be so, then do this: Put some of the best products of the land in your packs and carry them down as a gift for the man—a little balm and a little honey, spices and myrrh, pistachios and almonds."
+hebrew: "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יִשְׂרָאֵ֣ל אֲבִיהֶ֗ם אִם־ כֵּ֣ן׀ אֵפוֹא֮ זֹ֣את עֲשׂוּ֒ קְח֞וּ מִזִּמְרַ֤ת הָאָ֙רֶץ֙ בִּכְלֵיכֶ֔ם וְהוֹרִ֥ידוּ לָאִ֖ישׁ מִנְחָ֑ה מְעַ֤ט צֳרִי֙ וּמְעַ֣ט דְּבַ֔שׁ נְכֹ֣את וָלֹ֔ט בָּטְנִ֖ים וּשְׁקֵדִֽים׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALMOND|ALMOND]]"
+- "[[topic BALM|BALM]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic NUT|NUT]]"
+- "[[topic SPICES|SPICES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H0645]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H2173]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H4503H]]"
+- "[[H4592]]"
+- "[[H6875]]"
+- "[[H1706]]"
+- "[[H5219]]"
+- "[[H3910]]"
+- "[[H0992]]"
+- "[[H8247]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:11**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their father Israel said unto them, If [it must be] so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
 <small><sub>**BSB:**</sub></small>
 Then their father Israel said to them, “If it must be so, then do this: Put some of the best products of the land in your packs and carry them down as a gift for the man—a little balm and a little honey, spices and myrrh, pistachios and almonds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H0001G\|אֲבִי]][[H9028\|הֶ֗ם]] [[H0518A\|אִם]][[H9014\|־]] [[H3651C\|כֵּ֣ן]][[H9015\|׀]] [[H0645\|אֵפוֹא֮]] [[H2063\|זֹ֣את]] [[H6213A\|עֲשׂוּ֒]] [[H3947G\|קְח֞וּ]] [[H9006\|מִ]][[H2173\|זִּמְרַ֤ת]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9003\|בִּ]][[H3627\|כְלֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3381\|הוֹרִ֥ידוּ]] [[H9005\|לָ]][[H0376G\|אִ֖ישׁ]] [[H4503H\|מִנְחָ֑ה]] [[H4592\|מְעַ֤ט]] [[H6875\|צֳרִי֙]] [[H9002\|וּ]][[H4592\|מְעַ֣ט]] [[H1706\|דְּבַ֔שׁ]] [[H5219\|נְכֹ֣את]] [[H9002\|וָ]][[H3910\|לֹ֔ט]] [[H0992\|בָּטְנִ֖ים]] [[H9002\|וּ]][[H8247\|שְׁקֵדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMOND|ALMOND]] • [[topic BALM|BALM]] • [[topic HONEY|HONEY]] • [[topic JACOB|JACOB]] • [[topic MYRRH|MYRRH]] • [[topic NUT|NUT]] • [[topic SPICES|SPICES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.10|<< Genesis 43:10]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.12|Genesis 43:12 >>]]</td></tr></table>
 

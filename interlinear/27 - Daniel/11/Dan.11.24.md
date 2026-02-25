@@ -1,8 +1,63 @@
+---
+title: Daniel 11:24
+type: Verse
+kjv: "He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time."
+bsb: "In a time of peace, he will invade the richest provinces and do what his fathers and forefathers never did. He will lavish plunder, loot, and wealth on his followers, and he will plot against the strongholds—but only for a time."
+hebrew: "בְּשַׁלְוָ֞ה וּבְמִשְׁמַנֵּ֣י מְדִינָה֮ יָבוֹא֒ וְעָשָׂ֗ה אֲשֶׁ֨ר לֹא־ עָשׂ֤וּ אֲבֹתָיו֙ וַאֲב֣וֹת אֲבֹתָ֔יו בִּזָּ֧ה וְשָׁלָ֛ל וּרְכ֖וּשׁ לָהֶ֣ם יִבְז֑וֹר וְעַ֧ל מִבְצָרִ֛ים יְחַשֵּׁ֥ב מַחְשְׁבֹתָ֖יו וְעַד־ עֵֽת׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9003]]"
+- "[[H7962]]"
+- "[[H9002]]"
+- "[[H4924B]]"
+- "[[H4082]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0961]]"
+- "[[H7998]]"
+- "[[H7399]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0967]]"
+- "[[H5921A]]"
+- "[[H4013]]"
+- "[[H2803I]]"
+- "[[H4284]]"
+- "[[H5704]]"
+- "[[H6256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:24**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter peaceably even upon the fattest places of the province; and he shall do [that] which his fathers have not done, nor his fathers’ fathers; he shall scatter among them the prey, and spoil, and riches: [yea], and he shall forecast his devices against the strong holds, even for a time.
 <small><sub>**BSB:**</sub></small>
 In a time of peace, he will invade the richest provinces and do what his fathers and forefathers never did. He will lavish plunder, loot, and wealth on his followers, and he will plot against the strongholds—but only for a time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7962\|שַׁלְוָ֞ה]] [[H9002\|וּ]][[H9003\|בְ]][[H4924B\|מִשְׁמַנֵּ֣י]] [[H4082\|מְדִינָה֮]] [[H0935G\|יָבוֹא֒]] [[H9001\|וְ]][[H6213A\|עָשָׂ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשׂ֤וּ]] [[H0001G\|אֲבֹתָי]][[H9023\|ו֙]] [[H9002\|וַ]][[H0001G\|אֲב֣וֹת]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H0961\|בִּזָּ֧ה]] [[H9002\|וְ]][[H7998\|שָׁלָ֛ל]] [[H9002\|וּ]][[H7399\|רְכ֖וּשׁ]] [[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H0967\|יִבְז֑וֹר]] [[H9002\|וְ]][[H5921A\|עַ֧ל]] [[H4013\|מִבְצָרִ֛ים]] [[H2803I\|יְחַשֵּׁ֥ב]] [[H4284\|מַחְשְׁבֹתָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6256\|עֵֽת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.23|<< Daniel 11:23]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.25|Daniel 11:25 >>]]</td></tr></table>
 

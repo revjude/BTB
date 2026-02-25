@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Benediction and Farewell
+type: Pericope
 pericope: "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 13
 book/chapter: "[[Heb.13|Hebrews 13]]"
-genre:
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 6
 verses:
 - "[[Heb.13.20]]"
 - "[[Heb.13.21]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Heb.13.25]]"
 ---
 
-[[Heb.13|Hebrews 13:20 - Hebrews 13:25]]
+<small>[[Heb.13|Hebrews 13:20-25]]</small>
 *Benediction and Farewell*
 
 [[Heb.13.20|20]] Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,

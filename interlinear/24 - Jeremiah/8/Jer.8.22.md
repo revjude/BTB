@@ -1,8 +1,70 @@
+---
+title: Jeremiah 8:22
+type: Verse
+kjv: "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?"
+bsb: "Is there no balm in Gilead? Is no physician there? Why then has the health of the daughter of my people not been restored?"
+hebrew: "הַצֳרִי֙ אֵ֣ין בְּגִלְעָ֔ד אִם־ רֹפֵ֖א אֵ֣ין שָׁ֑ם כִּ֗י מַדּ֙וּעַ֙ לֹ֣א עָֽלְתָ֔ה אֲרֻכַ֖ת בַּת־ עַמִּֽי׃"
+pericope: "[[Jer.8.18 Jeremiah Weeps for His People|Jeremiah Weeps for His People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BALM|BALM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MEDICINE|MEDICINE]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H6875]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H1568G]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H7495]]"
+- "[[H8033G]]"
+- "[[H3588A]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H5927H]]"
+- "[[H0724]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 8:22**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is there] no balm in Gilead; [is there] no physician there? why then is not the health of the daughter of my people recovered?
 <small><sub>**BSB:**</sub></small>
 Is there no balm in Gilead? Is no physician there? Why then has the health of the daughter of my people not been restored?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H6875\|צֳרִי֙]] [[H0369\|אֵ֣ין]] [[H9003\|בְּ]][[H1568G\|גִלְעָ֔ד]] [[H0518I\|אִם]][[H9014\|־]] [[H7495\|רֹפֵ֖א]] [[H0369\|אֵ֣ין]] [[H8033G\|שָׁ֑ם]] [[H3588A\|כִּ֗י]] [[H4069\|מַדּ֙וּעַ֙]] [[H3808\|לֹ֣א]] [[H5927H\|עָֽלְתָ֔ה]] [[H0724\|אֲרֻכַ֖ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BALM|BALM]] • [[topic CHURCH|CHURCH]] • [[topic DISEASE|DISEASE]] • [[topic GILEAD|GILEAD]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MEDICINE|MEDICINE]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PHYSICIAN|PHYSICIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.21|<< Jeremiah 8:21]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.1|Jeremiah 9:1 >>]]</td></tr></table>
 

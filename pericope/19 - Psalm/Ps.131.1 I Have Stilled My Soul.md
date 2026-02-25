@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Have Stilled My Soul
+type: Pericope
 pericope: "[[Ps.131.1 I Have Stilled My Soul|I Have Stilled My Soul]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 131
 book/chapter: "[[Ps.131|Psalm 131]]"
-genre:
+chronological_order: 892
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 4
 verses:
 - "[[Ps.131.0]]"
 - "[[Ps.131.1]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ps.131.3]]"
 ---
 
-[[Ps.131|Psalm 131:1 - Psalm 131:3]]
+<small>[[Ps.131|Psalm 131:1-3]]</small>
 *I Have Stilled My Soul*
 
 [[Ps.131.0|0]] A Song of degrees of David.

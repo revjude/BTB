@@ -1,8 +1,75 @@
+---
+title: Numbers 12:14
+type: Verse
+kjv: "And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again."
+bsb: "But the LORD answered Moses, “If her father had but spit in her face, would she not have been in disgrace for seven days? Let her be confined outside the camp for seven days; after that she may be brought back in.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה וְאָבִ֙יהָ֙ יָרֹ֤ק יָרַק֙ בְּפָנֶ֔יהָ הֲלֹ֥א תִכָּלֵ֖ם שִׁבְעַ֣ת יָמִ֑ים תִּסָּגֵ֞ר שִׁבְעַ֤ת יָמִים֙ מִח֣וּץ לַֽמַּחֲנֶ֔ה וְאַחַ֖ר תֵּאָסֵֽף׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SPITTING|SPITTING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H3417]]"
+- "[[H9003]]"
+- "[[H6440H]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3637]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H5462]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H0310A]]"
+- "[[H0622]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:14**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in [again].
 <small><sub>**BSB:**</sub></small>
 But the LORD answered Moses, “If her father had but spit in her face, would she not have been in disgrace for seven days? Let her be confined outside the camp for seven days; after that she may be brought back in.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H9002\|וְ]][[H0001G\|אָבִ֙י]][[H9024\|הָ֙]] [[H3417\|יָרֹ֤ק]] [[H3417\|יָרַק֙]] [[H9003\|בְּ]][[H6440H\|פָנֶ֔י]][[H9024\|הָ]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H3637\|תִכָּלֵ֖ם]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H5462\|תִּסָּגֵ֞ר]] [[H7651\|שִׁבְעַ֤ת]] [[H3117G\|יָמִים֙]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H0622\|תֵּאָסֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SANITATION|SANITATION]] • [[topic SPITTING|SPITTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.13|<< Numbers 12:13]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.15|Numbers 12:15 >>]]</td></tr></table>
 

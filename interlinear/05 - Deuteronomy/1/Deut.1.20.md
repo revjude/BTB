@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 1:20
+type: Verse
+kjv: "And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us."
+bsb: "I said: “You have reached the hill country of the Amorites, which the LORD our God is giving us."
+hebrew: "וָאֹמַ֖ר אֲלֵכֶ֑ם בָּאתֶם֙ עַד־ הַ֣ר הָאֱמֹרִ֔י אֲשֶׁר־ יְהוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2022H]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:20**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.
 <small><sub>**BSB:**</sub></small>
 I said: “You have reached the hill country of the Amorites, which the LORD our God is giving us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H0413\|אֲלֵ]][[H9036\|כֶ֑ם]] [[H0935G\|בָּאתֶם֙]] [[H5704\|עַד]][[H9014\|־]] [[H2022H\|הַ֣ר]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.19|<< Deuteronomy 1:19]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.21|Deuteronomy 1:21 >>]]</td></tr></table>
 

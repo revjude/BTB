@@ -1,10 +1,65 @@
+---
+title: Hebrews 11:6
+type: Verse
+kjv: "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
+bsb: "And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him."
+greek: "χωρὶς δὲ πίστεως ἀδύνατον εὐαρεστῆσαι· πιστεῦσαι γὰρ δεῖ τὸν προσερχόμενον τῷ θεῷ ὅτι ἔστιν καὶ τοῖς ἐκζητοῦσιν αὐτὸν μισθαποδότης γίνεται.¶"
+pericope: "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5565]]"
+- "[[G1161]]"
+- "[[G4102G]]"
+- "[[G0102]]"
+- "[[G2100]]"
+- "[[G4100]]"
+- "[[G1063]]"
+- "[[G1163]]"
+- "[[G3588]]"
+- "[[G4334]]"
+- "[[G2316]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1567]]"
+- "[[G0846]]"
+- "[[G3406]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:6**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But without faith [it is] impossible to please [him]: for he that cometh to God must believe that he is, and [that] he is a rewarder of them that diligently seek him.
 <small><sub>**BSB:**</sub></small>
 And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him.
-<small><sub>**Literal:**</sub></small>
-Without now faith [it is] impossible to please [Him]; To believe for it behooves the one drawing near <the> to God that He exists and [that] to those earnestly seeking out Him a rewarder He becomes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.5|<< Hebrews 11:5]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.7|Hebrews 11:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5565\|χωρὶς]]  [[G1161\|δὲ]]  [[G4102G\|πίστεως]]  [[G0102\|ἀδύνατον]]  [[G2100\|εὐαρεστῆσαι·]]  [[G4100\|πιστεῦσαι]]  [[G1063\|γὰρ]]  [[G1163\|δεῖ]]  [[G3588\|τὸν]]  [[G4334\|προσερχόμενον]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3754G\|ὅτι]]  [[G1510\|ἔστιν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1567\|ἐκζητοῦσιν]]  [[G0846\|αὐτὸν]]  [[G3406\|μισθαποδότης]]  [[G1096\|γίνεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DESIRE|DESIRE]] • [[topic DILIGENCE|DILIGENCE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.5|<< Hebrews 11:5]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.7|Hebrews 11:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,81 @@
+---
+title: Jeremiah 7:23
+type: Verse
+kjv: "But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you."
+bsb: "but this is what I commanded them: Obey Me, and I will be your God, and you will be My people. You must walk in all the ways I have commanded you, so that it may go well with you."
+hebrew: "כִּ֣י אִֽם־ אֶת־ הַדָּבָ֣ר הַ֠זֶּה צִוִּ֨יתִי אוֹתָ֤ם לֵאמֹר֙ שִׁמְע֣וּ בְקוֹלִ֔י וְהָיִ֤יתִי לָכֶם֙ לֵֽאלֹהִ֔ים וְאַתֶּ֖ם תִּֽהְיוּ־ לִ֣י לְעָ֑ם וַהֲלַכְתֶּ֗ם בְּכָל־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אֲצַוֶּ֣ה אֶתְכֶ֔ם לְמַ֖עַן יִיטַ֥ב לָכֶֽם׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H1980I]]"
+- "[[H3605]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H4616]]"
+- "[[H3190]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:23**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.
 <small><sub>**BSB:**</sub></small>
 but this is what I commanded them: Obey Me, and I will be your God, and you will be My people. You must walk in all the ways I have commanded you, so that it may go well with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִֽם]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֣ר]] [[H9009\|הַ֠]][[H2088\|זֶּה]] [[H6680\|צִוִּ֨יתִי]] [[H0853\|אוֹתָ֤]][[H9038\|ם]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H8085H\|שִׁמְע֣וּ]] [[H9003\|בְ]][[H6963A\|קוֹלִ֔]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָיִ֤יתִי]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H1961\|תִּֽהְיוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H1980I\|הֲלַכְתֶּ֗ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|אֲצַוֶּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H4616\|לְמַ֖עַן]] [[H3190\|יִיטַ֥ב]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WALKING|WALKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.22|<< Jeremiah 7:22]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.24|Jeremiah 7:24 >>]]</td></tr></table>
 

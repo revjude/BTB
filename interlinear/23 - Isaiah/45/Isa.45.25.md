@@ -1,8 +1,52 @@
+---
+title: Isaiah 45:25
+type: Verse
+kjv: "In the LORD shall all the seed of Israel be justified, and shall glory."
+bsb: "In the LORD all descendants of Israel will be justified and will exult."
+hebrew: "בַּיהוָ֛ה יִצְדְּק֥וּ וְיִֽתְהַלְל֖וּ כָּל־ זֶ֥רַע יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H6663]]"
+- "[[H9002]]"
+- "[[H1984H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:25**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the LORD shall all the seed of Israel be justified, and shall glory.
 <small><sub>**BSB:**</sub></small>
 In the LORD all descendants of Israel will be justified and will exult.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3068G\|יהוָ֛ה]] [[H6663\|יִצְדְּק֥וּ]] [[H9002\|וְ]][[H1984H\|יִֽתְהַלְל֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2233H\|זֶ֥רַע]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic JUSTIFICATION|JUSTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.24|<< Isaiah 45:24]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.1|Isaiah 46:1 >>]]</td></tr></table>
 

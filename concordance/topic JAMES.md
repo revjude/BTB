@@ -25,7 +25,7 @@ In Gethsemane [[Matt.26.37|Mt 26:37]]; [[Mark.14.33|Mr 14:33]]
 
 - Bigotry of [[Luke.9.54|Lu 9:54]]
 
-- Civil ambitions of [[Matt.20.20|Mt 20:20]]-[[Matt.20.23|23]]; [[Mark.10.35|Mr 10:35]]-[[Mark.10.41|41]]
+- Civil ambitions of [[Matt.20.20|Mt 20:20-23]]; [[Mark.10.35|Mr 10:35-41]]
 
 - Present at Lake Tiberias when Jesus revealed himself to the disciples  after his resurrection [[John.21.2|Joh 21:2]]; [[1Cor.15.7|1Co 15:7]]
 
@@ -43,7 +43,7 @@ In Gethsemane [[Matt.26.37|Mt 26:37]]; [[Mark.14.33|Mr 14:33]]
 
 - Witness of Christ's resurrection [[1Cor.15.7|1Co 15:7]]
 
-- Addresses the gathering at Jerusalem in favor of liberty for  the Gentile converts [[Acts.15.13|Ac 15:13]]-[[Acts.15.21|21]]
+- Addresses the gathering at Jerusalem in favor of liberty for  the Gentile converts [[Acts.15.13|Ac 15:13-21]]
 
 - Disciples sent by, to Antioch [[Gal.2.12|Ga 2:12]]
 

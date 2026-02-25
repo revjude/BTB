@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Aram Defeats Judah
+type: Pericope
 pericope: "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 28
 book/chapter: "[[2Chr.28|2 Chronicles 28]]"
-genre:
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.28.5]]"
 - "[[2Chr.28.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.28.15]]"
 ---
 
-[[2Chr.28|2 Chronicles 28:5 - 2 Chronicles 28:15]]
+<small>[[2Chr.28|2 Chronicles 28:5-15]]</small>
 *Aram Defeats Judah*
 
 [[2Chr.28.5|5]] Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought \[them\] to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.

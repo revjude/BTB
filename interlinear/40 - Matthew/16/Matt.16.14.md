@@ -1,10 +1,55 @@
+---
+title: Matthew 16:14
+type: Verse
+kjv: "And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets."
+bsb: "They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”"
+greek: "οἱ δὲ εἶπαν· οἱ μέν· Ἰωάννην τὸν βαπτιστήν, ἄλλοι δέ· Ἠλίαν, ἕτεροι δέ· Ἰερεμίαν ἢ ἕνα τῶν προφητῶν."
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3303]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G0243]]"
+- "[[G2243]]"
+- "[[G2087]]"
+- "[[G2408]]"
+- "[[G2228]]"
+- "[[G1520]]"
+- "[[G4396]]"
+texts:
+- NKO
+---
+
 **Matthew 16:14**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, Some [say that thou art] John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
 <small><sub>**BSB:**</sub></small>
 They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said: Some indeed, John the Baptist, others however, Elijah, others however, Jeremiah or one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.13|<< Matthew 16:13]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.15|Matthew 16:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G3588\|οἱ]]  [[G3303\|μέν·]]  [[G2491G\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G0910\|βαπτιστήν,]]  [[G0243\|ἄλλοι]]  [[G1161\|δέ·]]  [[G2243\|Ἠλίαν,]]  [[G2087\|ἕτεροι]]  [[G1161\|δέ·]]  [[G2408\|Ἰερεμίαν]]  [[G2228\|ἢ]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.13|<< Matthew 16:13]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.15|Matthew 16:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

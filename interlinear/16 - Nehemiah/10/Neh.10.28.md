@@ -1,8 +1,69 @@
+---
+title: Nehemiah 10:28
+type: Verse
+kjv: "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;"
+bsb: "“The rest of the people—the priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the land to obey the Law of God—along with their wives and all their sons and daughters who are able to understand,"
+hebrew: "וּשְׁאָ֣ר הָעָ֡ם הַכֹּהֲנִ֣ים הַ֠לְוִיִּם הַשּׁוֹעֲרִ֨ים הַמְשֹׁרְרִ֜ים הַנְּתִינִ֗ים וְֽכָל־ הַנִּבְדָּ֞ל מֵעַמֵּ֤י הָאֲרָצוֹת֙ אֶל־ תּוֹרַ֣ת הָאֱלֹהִ֔ים נְשֵׁיהֶ֖ם בְּנֵיהֶ֣ם וּבְנֹתֵיהֶ֑ם כֹּ֖ל יוֹדֵ֥עַ מֵבִֽין׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NETHINIMS|NETHINIMS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H7605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H7778]]"
+- "[[H7891]]"
+- "[[H5411]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0914]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H0413]]"
+- "[[H8451]]"
+- "[[H0430G]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H3045]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:28**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;
 <small><sub>**BSB:**</sub></small>
 “The rest of the people—the priests, Levites, gatekeepers, singers, temple servants, and all who had separated themselves from the people of the land to obey the Law of God—along with their wives and all their sons and daughters who are able to understand,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7605\|שְׁאָ֣ר]] [[H9009\|הָ]][[H5971A\|עָ֡ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9009\|הַ֠]][[H3881\|לְוִיִּם]] [[H9009\|הַ]][[H7778\|שּׁוֹעֲרִ֨ים]] [[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֜ים]] [[H9009\|הַ]][[H5411\|נְּתִינִ֗ים]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0914\|נִּבְדָּ֞ל]] [[H9006\|מֵ]][[H5971A\|עַמֵּ֤י]] [[H9009\|הָ]][[H0776G\|אֲרָצוֹת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8451\|תּוֹרַ֣ת]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0802H\|נְשֵׁי]][[H9028\|הֶ֖ם]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֣ם]] [[H9002\|וּ]][[H1323G\|בְנֹתֵי]][[H9028\|הֶ֑ם]] [[H3605\|כֹּ֖ל]] [[H3045\|יוֹדֵ֥עַ]] [[H0995\|מֵבִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic LEVITES|LEVITES]] • [[topic NETHINIMS|NETHINIMS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.27|<< Nehemiah 10:27]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.29|Nehemiah 10:29 >>]]</td></tr></table>
 

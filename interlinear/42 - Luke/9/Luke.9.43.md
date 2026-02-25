@@ -1,10 +1,59 @@
+---
+title: Luke 9:43
+type: Verse
+kjv: "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
+bsb: "And they were all astonished at the greatness of God. While everyone was marveling at all that Jesus was doing, He said to His disciples,"
+greek: "ἐξεπλήσσοντο δὲ πάντες ἐπὶ τῇ μεγαλειότητι τοῦ θεοῦ. πάντων δὲ θαυμαζόντων ἐπὶ πᾶσιν οἷς ἐποίει ὁ Ἰησοῦς, εἶπεν πρὸς τοὺς μαθητὰς αὐτοῦ·"
+pericope: "[[Luke.9.43 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1605]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3168]]"
+- "[[G2316]]"
+- "[[G2296]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3101]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 9:43**<big><big>[[Luke.9.43 The Second Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,
 <small><sub>**BSB:**</sub></small>
 And they were all astonished at the greatness of God. While everyone was marveling at all that Jesus was doing, He said to His disciples,
-<small><sub>**Literal:**</sub></small>
-Were astonished then all at the majesty <the> of God. Of all however wondering at all which was doing <the> Jesus He said to the disciples of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.42|<< Luke 9:42]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.44|Luke 9:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1605\|ἐξεπλήσσοντο]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G3168\|μεγαλειότητι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]  [[G3956\|πάντων]]  [[G1161\|δὲ]]  [[G2296\|θαυμαζόντων]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶσιν]]  [[G3739\|οἷς]]  [[G4160G\|ἐποίει]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.42|<< Luke 9:42]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.44|Luke 9:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 2 Kings 4:26
+type: Verse
+kjv: "Run now, I pray thee, to meet her, and say unto her, Is it well with thee? is it well with thy husband? is it well with the child? And she answered, It is well."
+bsb: "Please run out now to meet her and ask, ‘Are you all right? Is your husband all right? Is your child all right?’” And she answered, “Everything is all right.”"
+hebrew: "עַתָּה֮ רֽוּץ־ נָ֣א לִקְרָאתָהּ֒ וֶאֱמָר־ לָ֗הּ הֲשָׁל֥וֹם לָ֛ךְ הֲשָׁל֥וֹם לְאִישֵׁ֖ךְ הֲשָׁל֣וֹם לַיָּ֑לֶד וַתֹּ֖אמֶר שָׁלֽוֹם׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6258]]"
+- "[[H7323G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H7965I]]"
+- "[[H9032]]"
+- "[[H0376H]]"
+- "[[H9022]]"
+- "[[H3206]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:26**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Run now, I pray thee, to meet her, and say unto her, [Is it] well with thee? [is it] well with thy husband? [is it] well with the child? And she answered, [It is] well.
 <small><sub>**BSB:**</sub></small>
 Please run out now to meet her and ask, ‘Are you all right? Is your husband all right? Is your child all right?’” And she answered, “Everything is all right.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּה֮]] [[H7323G\|רֽוּץ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9005\|לִ]][[H7122G\|קְרָאתָ]][[H9034\|הּ֒]] [[H9002\|וֶ]][[H0559\|אֱמָר]][[H9014\|־]] [[H9005\|לָ֗]][[H9034\|הּ]] [[H9008\|הֲ]][[H7965I\|שָׁל֥וֹם]] [[H9005\|לָ֛]][[H9032\|ךְ]] [[H9008\|הֲ]][[H7965I\|שָׁל֥וֹם]] [[H9005\|לְ]][[H0376H\|אִישֵׁ֖]][[H9022\|ךְ]] [[H9008\|הֲ]][[H7965I\|שָׁל֣וֹם]] [[H9005\|לַ]][[H3206\|יָּ֑לֶד]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H7965I\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.25|<< 2 Kings 4:25]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.27|2 Kings 4:27 >>]]</td></tr></table>
 

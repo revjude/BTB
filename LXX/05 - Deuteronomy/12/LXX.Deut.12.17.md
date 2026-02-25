@@ -1,6 +1,92 @@
+---
+title: LXX Deuteronomy 12:17
+type: Verse
+lxx: "You shall not be able to eat in  your cities the tithe  of your grain, and  your wine, and  your olive oil, the first-born  of your oxen, and  of your sheep, and all the vows, as many as you should have vowed, and  your acknowledgment offerings, and the first-fruits  of your hands."
+greek: "ου δυνήση φαγείν εν ταις πόλεσί σου το επιδέκατον του σίτου σου και του οίνου σου και του ελαίου σου τα πρωτότοκα των βοών σου και των προβάτων σου και πάσας τας ευχάς όσας αν εύξησθε και τας ομολογίας υμών και τας απαρχάς των χειρών υμών"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic OIL|OIL]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2068]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G7400]]"
+- "[[G3588]]"
+- "[[G4621]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3631]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1637]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4416]]"
+- "[[G3588]]"
+- "[[G1016]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2171]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G2172]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3671]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0536]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 12:17** 
 <small><sub>**LXX:**</sub></small>
 You shall not be able to eat in  your cities the tithe  of your grain, and  your wine, and  your olive oil, the first-born  of your oxen, and  of your sheep, and all the vows, as many as you should have vowed, and  your acknowledgment \[offerings\], and the first-fruits  of your hands. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ου]] [[G1410\|δυνήση]] [[G2068\|φαγείν]] [[G1722\|εν]] [[G3588\|ταις]] [[G4172\|πόλεσί]] [[G1473\|σου]] [[G3588\|το]] [[G7400\|επιδέκατον]] [[G3588\|του]] [[G4621\|σίτου]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|του]] [[G3631\|οίνου]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|του]] [[G1637\|ελαίου]] [[G1473\|σου]] [[G3588\|τα]] [[G4416\|πρωτότοκα]] [[G3588\|των]] [[G1016\|βοών]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|των]] [[G4263\|προβάτων]] [[G1473\|σου]] [[G2532\|και]] [[G3956\|πάσας]] [[G3588\|τας]] [[G2171\|ευχάς]] [[G3745\|όσας]] [[G0302\|αν]] [[G2172\|εύξησθε]] [[G2532\|και]] [[G3588\|τας]] [[G3671\|ομολογίας]] [[G1473\|υμών]] [[G2532\|και]] [[G3588\|τας]] [[G0536\|απαρχάς]] [[G3588\|των]] [[G5495\|χειρών]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic OIL|OIL]] • [[topic TITHES|TITHES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.16|<< Deuteronomy 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.18|Deuteronomy 12:18 >>]]</td></tr></table>
 
@@ -43,6 +129,6 @@ You shall not be able to eat in  your cities the tithe  of your grain, and  your
 | first-fruits | **<big>[[G0536\|απαρχάς]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of your hands. | **<big>[[G5495\|χειρών]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Deut.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.16|<< Deuteronomy 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.18|Deuteronomy 12:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.16|<< Deuteronomy 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.18|Deuteronomy 12:18 >>]]</td></tr></table>
 
 

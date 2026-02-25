@@ -1,8 +1,74 @@
+---
+title: Leviticus 16:12
+type: Verse
+kjv: "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
+bsb: "Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil."
+hebrew: "וְלָקַ֣ח מְלֹֽא־ הַ֠מַּחְתָּה גַּֽחֲלֵי־ אֵ֞שׁ מֵעַ֤ל הַמִּזְבֵּ֙חַ֙ מִלִּפְנֵ֣י יְהוָ֔ה וּמְלֹ֣א חָפְנָ֔יו קְטֹ֥רֶת סַמִּ֖ים דַּקָּ֑ה וְהֵבִ֖יא מִבֵּ֥ית לַפָּרֹֽכֶת׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4393]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4289]]"
+- "[[H1513]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2651]]"
+- "[[H9023]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H1851]]"
+- "[[H0935P]]"
+- "[[H1004O]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:12**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring [it] within the vail:
 <small><sub>**BSB:**</sub></small>
 Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֣ח]] [[H4393\|מְלֹֽא]][[H9014\|־]] [[H9009\|הַ֠]][[H4289\|מַּחְתָּה]] [[H1513\|גַּֽחֲלֵי]][[H9014\|־]] [[H0784\|אֵ֞שׁ]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H4393\|מְלֹ֣א]] [[H2651\|חָפְנָ֔י]][[H9023\|ו]] [[H7004\|קְטֹ֥רֶת]] [[H5561\|סַמִּ֖ים]] [[H1851\|דַּקָּ֑ה]] [[H9001\|וְ]][[H0935P\|הֵבִ֖יא]] [[H9006\|מִ]][[H1004O\|בֵּ֥ית]] [[H9005\|לַ]][[H6532\|פָּרֹֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CENSER|CENSER]] • [[topic CHURCH|CHURCH]] • [[topic INCENSE|INCENSE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.11|<< Leviticus 16:11]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.13|Leviticus 16:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

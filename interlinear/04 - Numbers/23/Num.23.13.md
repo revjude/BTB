@@ -1,8 +1,71 @@
+---
+title: Numbers 23:13
+type: Verse
+kjv: "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
+bsb: "Then Balak said to him, “Please come with me to another place where you can see them. You will only see the outskirts of their camp—not all of them. And from there, curse them for me.”"
+hebrew: "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק לְכָה נָּ֨א אִתִּ֜י אֶל־ מָק֤וֹם אַחֵר֙ אֲשֶׁ֣ר תִּרְאֶ֣נּוּ מִשָּׁ֔ם אֶ֚פֶס קָצֵ֣הוּ תִרְאֶ֔ה וְכֻלּ֖וֹ לֹ֣א תִרְאֶ֑ה וְקָבְנוֹ־ לִ֖י מִשָּֽׁם׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1111]]"
+- "[[H1980H]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H0312]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0657A]]"
+- "[[H7097A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3808]]"
+- "[[H6895]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Numbers 23:13**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
 <small><sub>**BSB:**</sub></small>
 Then Balak said to him, “Please come with me to another place where you can see them. You will only see the outskirts of their camp—not all of them. And from there, curse them for me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H1111\|בָּלָ֗ק]] [[H1980H\|לְכָ]][[H9012\|ה]] [[H4994\|נָּ֨א]] [[H0854\|אִתִּ֜]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מָק֤וֹם]] [[H0312\|אַחֵר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|תִּרְאֶ֣]][[H9033\|נּוּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H0657A\|אֶ֚פֶס]] [[H7097A\|קָצֵ֣]][[H9023\|הוּ]] [[H7200G\|תִרְאֶ֔ה]] [[H9002\|וְ]][[H3605\|כֻלּ֖]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H7200G\|תִרְאֶ֑ה]] [[H9002\|וְ]][[H6895\|קָבְ]][[H9030\|נוֹ]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.12|<< Numbers 23:12]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.14|Numbers 23:14 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nehemiah Defends the Oppressed
+type: Pericope
 pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 5
 book/chapter: "[[Neh.5|Nehemiah 5]]"
-genre:
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 13
 verses:
 - "[[Neh.5.1]]"
 - "[[Neh.5.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Neh.5.13]]"
 ---
 
-[[Neh.5|Nehemiah 5:1 - Nehemiah 5:13]]
+<small>[[Neh.5|Nehemiah 5:1-13]]</small>
 *Nehemiah Defends the Oppressed*
 
 [[Neh.5.1|1]] And there was a great cry of the people and of their wives against their brethren the Jews.

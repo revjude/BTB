@@ -1,8 +1,76 @@
+---
+title: Daniel 1:4
+type: Verse
+kjv: "Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans."
+bsb: "young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick to understand, and qualified to serve in the king’s palace—and to teach them the language and literature of the Chaldeans."
+hebrew: "יְלָדִ֣ים אֲשֶׁ֣ר אֵֽין־ בָּהֶ֣ם כָּל־ מוּם֩ וְטוֹבֵ֨י מַרְאֶ֜ה וּמַשְׂכִּילִ֣ים בְּכָל־ חָכְמָ֗ה וְיֹ֤דְעֵי דַ֙עַת֙ וּמְבִינֵ֣י מַדָּ֔ע וַאֲשֶׁר֙ כֹּ֣חַ בָּהֶ֔ם לַעֲמֹ֖ד בְּהֵיכַ֣ל הַמֶּ֑לֶךְ וּֽלֲלַמְּדָ֥ם סֵ֖פֶר וּלְשׁ֥וֹן כַּשְׂדִּֽים׃"
+pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHALDEANS|CHALDEANS]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+strongs:
+- "[[H3206]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H3971A]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H4758]]"
+- "[[H7919A]]"
+- "[[H2451]]"
+- "[[H3045]]"
+- "[[H1847]]"
+- "[[H0995]]"
+- "[[H4093]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H1964H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3925G]]"
+- "[[H5612H]]"
+- "[[H3956H]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 1:4**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Children in whom [was] no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as [had] ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
 young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick to understand, and qualified to serve in the king’s palace—and to teach them the language and literature of the Chaldeans.
+<small><sub>**Hebrew:**</sub></small>
+[[H3206\|יְלָדִ֣ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9003\|בָּ]][[H9038\|הֶ֣ם]] [[H3605\|כָּל]][[H9014\|־]] [[H3971A\|מוּם֩]] [[H9002\|וְ]][[H2896A\|טוֹבֵ֨י]] [[H4758\|מַרְאֶ֜ה]] [[H9002\|וּ]][[H7919A\|מַשְׂכִּילִ֣ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2451\|חָכְמָ֗ה]] [[H9002\|וְ]][[H3045\|יֹ֤דְעֵי]] [[H1847\|דַ֙עַת֙]] [[H9002\|וּ]][[H0995\|מְבִינֵ֣י]] [[H4093\|מַדָּ֔ע]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר֙]] [[H3581B\|כֹּ֣חַ]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9005\|לַ]][[H5975G\|עֲמֹ֖ד]] [[H9003\|בְּ]][[H1964H\|הֵיכַ֣ל]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וּֽ]][[H9005\|לֲ]][[H3925G\|לַמְּדָ֥]][[H9038\|ם]] [[H5612H\|סֵ֖פֶר]] [[H9002\|וּ]][[H3956H\|לְשׁ֥וֹן]] [[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHALDEANS|CHALDEANS]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic SCHOOL|SCHOOL]] • [[topic STATECRAFT|STATECRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.3|<< Daniel 1:3]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.5|Daniel 1:5 >>]]</td></tr></table>
 

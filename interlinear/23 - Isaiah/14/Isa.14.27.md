@@ -1,8 +1,60 @@
+---
+title: Isaiah 14:27
+type: Verse
+kjv: "For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?"
+bsb: "The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched, so who can turn it back?"
+hebrew: "כִּֽי־ יְהוָ֧ה צְבָא֛וֹת יָעָ֖ץ וּמִ֣י יָפֵ֑ר וְיָד֥וֹ הַנְּטוּיָ֖ה וּֽמִ֥י יְשִׁיבֶֽנָּה׃ פ"
+pericope: "[[Isa.14.24 God’s Purpose against Assyria|God’s Purpose against Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3289]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H6565A]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H5186]]"
+- "[[H7725I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 14:27**<big><big>[[Isa.14.24 God’s Purpose against Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD of hosts hath purposed, and who shall disannul [it]? and his hand [is] stretched out, and who shall turn it back?
 <small><sub>**BSB:**</sub></small>
 The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched, so who can turn it back?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H3289\|יָעָ֖ץ]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H6565A\|יָפֵ֑ר]] [[H9002\|וְ]][[H3027G\|יָד֥]][[H9023\|וֹ]] [[H9009\|הַ]][[H5186\|נְּטוּיָ֖ה]] [[H9002\|וּֽ]][[H4310\|מִ֥י]] [[H7725I\|יְשִׁיבֶֽ]][[H9034\|נָּה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.26|<< Isaiah 14:26]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.28|Isaiah 14:28 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched
 | and [is] hand his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3027G\|יָד֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one] stretched out  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5186\|נְּטוּיָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.tu.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and who?  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will he turn back it  |**<big>&#8207;[[H7725I\|יְשִׁיבֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.shi.Ve.<small><sup>[[HVhi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will he turn back it  |**<big>&#8207;[[H7725I\|יְשִׁיבֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.shi.Ve.<small><sup>[[HVhi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.26|<< Isaiah 14:26]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.28|Isaiah 14:28 >>]]</td></tr></table>
 
 

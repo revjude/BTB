@@ -1,8 +1,57 @@
+---
+title: Psalm 44:12
+type: Verse
+kjv: "Thou sellest thy people for nought, and dost not increase thy wealth by their price."
+bsb: "You sell Your people for nothing; no profit do You gain from their sale."
+hebrew: "תִּמְכֹּֽר־ עַמְּךָ֥ בְלֹא־ ה֑וֹן וְלֹ֥א־ רִ֝בִּ֗יתָ בִּמְחִירֵיהֶֽם׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4376]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H1952]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H4242]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:12**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sellest thy people for nought, and dost not increase [thy wealth] by their price.
 <small><sub>**BSB:**</sub></small>
 You sell Your people for nothing; no profit do You gain from their sale.
+<small><sub>**Hebrew:**</sub></small>
+[[H4376\|תִּמְכֹּֽר]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֥]] [[H9003\|בְ]][[H3808\|לֹא]][[H9014\|־]] [[H1952\|ה֑וֹן]] [[H9002\|וְ]][[H3808\|לֹ֥א]][[H9014\|־]] [[H7235A\|רִ֝בִּ֗יתָ]] [[H9003\|בִּ]][[H4242\|מְחִירֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic MURMURING|MURMURING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.11|<< Psalms 44:11]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.13|Psalms 44:13 >>]]</td></tr></table>
 

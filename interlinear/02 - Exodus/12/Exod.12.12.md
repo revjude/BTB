@@ -1,8 +1,74 @@
+---
+title: Exodus 12:12
+type: Verse
+kjv: "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD."
+bsb: "On that night I will pass through the land of Egypt and strike down every firstborn male, both man and beast, and I will execute judgment against all the gods of Egypt. I am the LORD."
+hebrew: "וְעָבַרְתִּ֣י בְאֶֽרֶץ־ מִצְרַיִם֮ בַּלַּ֣יְלָה הַזֶּה֒ וְהִכֵּיתִ֤י כָל־ בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מֵאָדָ֖ם וְעַד־ בְּהֵמָ֑ה וּבְכָל־ אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H0430]]"
+- "[[H6213A]]"
+- "[[H8201]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:12**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 On that night I will pass through the land of Egypt and strike down every firstborn male, both man and beast, and I will execute judgment against all the gods of Egypt. I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָבַרְתִּ֣י]] [[H9003\|בְ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַיִם֮]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H2088\|זֶּה֒]] [[H9001\|וְ]][[H5221\|הִכֵּיתִ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H1060\|בְּכוֹר֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9006\|מֵ]][[H0120G\|אָדָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֥י]] [[H4714G\|מִצְרַ֛יִם]] [[H6213A\|אֶֽעֱשֶׂ֥ה]] [[H8201\|שְׁפָטִ֖ים]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.11|<< Exodus 12:11]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.13|Exodus 12:13 >>]]</td></tr></table>
 

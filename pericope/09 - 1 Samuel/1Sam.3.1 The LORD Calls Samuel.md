@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Calls Samuel
+type: Pericope
 pericope: "[[1Sam.3.1 The LORD Calls Samuel|The LORD Calls Samuel]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 3
 book/chapter: "[[1Sam.3|1 Samuel 3]]"
-genre:
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[1Sam.3.1]]"
 - "[[1Sam.3.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Sam.3.14]]"
 ---
 
-[[1Sam.3|1 Samuel 3:1 - 1 Samuel 3:14]]
+<small>[[1Sam.3|1 Samuel 3:1-14]]</small>
 *The LORD Calls Samuel*
 
 [[1Sam.3.1|1]] And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; \[there was\] no open vision.

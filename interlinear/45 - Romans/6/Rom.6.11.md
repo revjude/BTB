@@ -1,10 +1,63 @@
+---
+title: Romans 6:11
+type: Verse
+kjv: "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord."
+bsb: "So you too must count yourselves dead to sin, but alive to God in Christ Jesus."
+greek: "οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.¶"
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3049]]"
+- "[[G1438]]"
+- "[[G1511]]"
+- "[[G3498]]"
+- "[[G3303]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2198]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 6:11**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 So you too must count yourselves dead to sin, but alive to God in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-So also <you yourselves> do consider yourselves to be dead indeed <the> to sin living however <the> to God in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.10|<< Romans 6:10]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.12|Romans 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3049\|λογίζεσθε]]  [[G1438\|ἑαυτοὺς]]  [[G1511\|εἶναι]]  [[G3498\|νεκροὺς]]  [[G3303\|μὲν]]  [[G3588\|τῇ]]  [[G0266\|ἁμαρτίᾳ]]  [[G2198\|ζῶντας]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.10|<< Romans 6:10]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.12|Romans 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

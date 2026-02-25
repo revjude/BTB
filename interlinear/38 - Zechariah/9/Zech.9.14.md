@@ -1,8 +1,67 @@
+---
+title: Zechariah 9:14
+type: Verse
+kjv: "And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the Lord GOD shall blow the trumpet, and shall go with whirlwinds of the south."
+bsb: "Then the LORD will appear over them, and His arrow will go forth like lightning. The Lord GOD will sound the ram’s horn and advance in the whirlwinds of the south."
+hebrew: "וַֽיהוָה֙ עֲלֵיהֶ֣ם יֵֽרָאֶ֔ה וְיָצָ֥א כַבָּרָ֖ק חִצּ֑וֹ וַֽאדֹנָ֤י יְהֹוִה֙ בַּשּׁוֹפָ֣ר יִתְקָ֔ע וְהָלַ֖ךְ בְּסַעֲר֥וֹת תֵּימָֽן׃"
+pericope: "[[Zech.9.14 The LORD Will Save His People|The LORD Will Save His People]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WHIRLWIND|WHIRLWIND]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9004]]"
+- "[[H1300B]]"
+- "[[H2671]]"
+- "[[H9023]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H8628]]"
+- "[[H1980I]]"
+- "[[H5591B]]"
+- "[[H8486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:14**<big><big>[[Zech.9.14 The LORD Will Save His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the Lord GOD shall blow the trumpet, and shall go with whirlwinds of the south.
 <small><sub>**BSB:**</sub></small>
 Then the LORD will appear over them, and His arrow will go forth like lightning. The Lord GOD will sound the ram’s horn and advance in the whirlwinds of the south.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H7200G\|יֵֽרָאֶ֔ה]] [[H9001\|וְ]][[H3318G\|יָצָ֥א]] [[H9004\|כַ]][[H1300B\|בָּרָ֖ק]] [[H2671\|חִצּ֑]][[H9023\|וֹ]] [[H9002\|וַֽ]][[H0136\|אדֹנָ֤י]] [[H3069\|יְהֹוִה֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֣ר]] [[H8628\|יִתְקָ֔ע]] [[H9001\|וְ]][[H1980I\|הָלַ֖ךְ]] [[H9003\|בְּ]][[H5591B\|סַעֲר֥וֹת]] [[H8486\|תֵּימָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic LIGHTNING|LIGHTNING]] • [[topic TRUMPET|TRUMPET]] • [[topic WHIRLWIND|WHIRLWIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.13|<< Zechariah 9:13]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.15|Zechariah 9:15 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 30:13
+type: Verse
+kjv: "Thus saith the Lord GOD; I will also destroy the idols, and I will cause their images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt."
+bsb: "This is what the Lord GOD says: I will destroy the idols and put an end to the images in Memphis. There will no longer be a prince in Egypt, and I will instill fear in that land."
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה וְהַאֲבַדְתִּ֨י גִלּוּלִ֜ים וְהִשְׁבַּתִּ֤י אֱלִילִים֙ מִנֹּ֔ף וְנָשִׂ֥יא מֵאֶֽרֶץ־ מִצְרַ֖יִם לֹ֣א יִֽהְיֶה־ ע֑וֹד וְנָתַתִּ֥י יִרְאָ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic NOPH|NOPH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H1544]]"
+- "[[H7673A]]"
+- "[[H0457]]"
+- "[[H9006]]"
+- "[[H5297]]"
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H5414H]]"
+- "[[H3374]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:13**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; I will also destroy the idols, and I will cause [their] images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: I will destroy the idols and put an end to the images in Memphis. There will no longer be a prince in Egypt, and I will instill fear in that land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9001\|וְ]][[H0006\|הַאֲבַדְתִּ֨י]] [[H1544\|גִלּוּלִ֜ים]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֤י]] [[H0457\|אֱלִילִים֙]] [[H9006\|מִ]][[H5297\|נֹּ֔ף]] [[H9002\|וְ]][[H5387A\|נָשִׂ֥יא]] [[H9006\|מֵ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H3808\|לֹ֣א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H5750\|ע֑וֹד]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֥י]] [[H3374\|יִרְאָ֖ה]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NOPH|NOPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.12|<< Ezekiel 30:12]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.14|Ezekiel 30:14 >>]]</td></tr></table>
 

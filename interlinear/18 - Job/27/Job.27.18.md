@@ -1,8 +1,56 @@
+---
+title: Job 27:18
+type: Verse
+kjv: "He buildeth his house as a moth, and as a booth that the keeper maketh."
+bsb: "The house he built is like a moth’s cocoon, like a hut set up by a watchman."
+hebrew: "בָּנָ֣ה כָעָ֣שׁ בֵּית֑וֹ וּ֝כְסֻכָּ֗ה עָשָׂ֥ה נֹצֵֽר׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BOOTH|BOOTH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MOTH|MOTH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1129]]"
+- "[[H9004]]"
+- "[[H6211A]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5521]]"
+- "[[H6213H]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:18**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He buildeth his house as a moth, and as a booth [that] the keeper maketh.
 <small><sub>**BSB:**</sub></small>
 The house he built is like a moth’s cocoon, like a hut set up by a watchman.
+<small><sub>**Hebrew:**</sub></small>
+[[H1129\|בָּנָ֣ה]] [[H9004\|כָ]][[H6211A\|עָ֣שׁ]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H9004\|כְ]][[H5521\|סֻכָּ֗ה]] [[H6213H\|עָשָׂ֥ה]] [[H5341\|נֹצֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOTH|BOOTH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MOTH|MOTH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.17|<< Job 27:17]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.19|Job 27:19 >>]]</td></tr></table>
 

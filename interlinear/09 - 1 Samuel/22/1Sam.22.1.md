@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 22:1
+type: Verse
+kjv: "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard it, they went down thither to him."
+bsb: "So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there."
+hebrew: "וַיֵּ֤לֶךְ דָּוִד֙ מִשָּׁ֔ם וַיִּמָּלֵ֖ט אֶל־ מְעָרַ֣ת עֲדֻלָּ֑ם וַיִּשְׁמְע֤וּ אֶחָיו֙ וְכָל־ בֵּ֣ית אָבִ֔יו וַיֵּרְד֥וּ אֵלָ֖יו שָֽׁמָּה׃"
+pericope: "[[1Sam.22.1 David Flees to Adullam and Mizpeh|David Flees to Adullam and Mizpeh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic INSURGENTS|INSURGENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4422]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4631]]"
+- "[[H5725]]"
+- "[[H8085G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:1**<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard [it], they went down thither to him.
 <small><sub>**BSB:**</sub></small>
 So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H1732\|דָּוִד֙]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֖ט]] [[H0413\|אֶל]][[H9014\|־]] [[H4631\|מְעָרַ֣ת]] [[H5725\|עֲדֻלָּ֑ם]] [[H9001\|וַ]][[H8085G\|יִּשְׁמְע֤וּ]] [[H0251G\|אֶחָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H3381\|יֵּרְד֥וּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic ARMIES|ARMIES]] • [[topic CAVE|CAVE]] • [[topic INSURGENTS|INSURGENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.15|<< 1 Samuel 21:15]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.2|1 Samuel 22:2 >>]]</td></tr></table>
 

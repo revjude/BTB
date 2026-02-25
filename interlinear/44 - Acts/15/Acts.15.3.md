@@ -1,10 +1,67 @@
+---
+title: Acts 15:3
+type: Verse
+kjv: "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren."
+bsb: "Sent on their way by the church, they passed through Phoenicia and Samaria, recounting the conversion of the Gentiles and bringing great joy to all the brothers."
+greek: "Οἱ μὲν οὖν προπεμφθέντες ὑπὸ τῆς ἐκκλησίας διήρχοντο τήν τε Φοινίκην καὶ Σαμάρειαν ἐκδιηγούμενοι τὴν ἐπιστροφὴν τῶν ἐθνῶν καὶ ἐποίουν χαρὰν μεγάλην πᾶσιν τοῖς ἀδελφοῖς."
+pericope: "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G4311]]"
+- "[[G5259G]]"
+- "[[G1577]]"
+- "[[G1330]]"
+- "[[G5037]]"
+- "[[G5403]]"
+- "[[G2532]]"
+- "[[G4540]]"
+- "[[G1555]]"
+- "[[G1995]]"
+- "[[G1484]]"
+- "[[G4160G]]"
+- "[[G5479]]"
+- "[[G3173]]"
+- "[[G3956]]"
+- "[[G0080]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 15:3**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren.
 <small><sub>**BSB:**</sub></small>
 Sent on their way by the church, they passed through Phoenicia and Samaria, recounting the conversion of the Gentiles and bringing great joy to all the brothers.
-<small><sub>**Literal:**</sub></small>
-They indeed therefore having been sent forward by the church were passing through <the> both Phoenicia and Samaria relating in detail the conversion of the Gentiles and they were bringing joy great to all the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.2|<< Acts 15:2]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.4|Acts 15:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G4311\|προπεμφθέντες]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G1330\|διήρχοντο]]  [[G3588\|τήν]]  [[G5037\|τε]]  [[G5403\|Φοινίκην]]  [[G2532\|καὶ]]  [[G4540\|Σαμάρειαν]]  [[G1555\|ἐκδιηγούμενοι]]  [[G3588\|τὴν]]  [[G1995\|ἐπιστροφὴν]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίουν]]  [[G5479\|χαρὰν]]  [[G3173\|μεγάλην]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic COUNCIL|COUNCIL]] • [[topic ELDER|ELDER]] • [[topic LAW|LAW]] • [[topic PHENICIA|PHENICIA]] • [[topic SAMARIA|SAMARIA]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.2|<< Acts 15:2]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.4|Acts 15:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

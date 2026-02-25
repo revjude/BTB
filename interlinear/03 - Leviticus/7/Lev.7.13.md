@@ -1,8 +1,59 @@
+---
+title: Leviticus 7:13
+type: Verse
+kjv: "Besides the cakes, he shall offer for his offering leavened bread with the sacrifice of thanksgiving of his peace offerings."
+bsb: "Along with his peace offering of thanksgiving he is to present an offering with cakes of leavened bread."
+hebrew: "עַל־ חַלֹּת֙ לֶ֣חֶם חָמֵ֔ץ יַקְרִ֖יב קָרְבָּנ֑וֹ עַל־ זֶ֖בַח תּוֹדַ֥ת שְׁלָמָֽיו׃"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2471]]"
+- "[[H3899H]]"
+- "[[H2557A]]"
+- "[[H7126H]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H2077]]"
+- "[[H8426]]"
+- "[[H8002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:13**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Besides the cakes, he shall offer [for] his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.
 <small><sub>**BSB:**</sub></small>
 Along with his peace offering of thanksgiving he is to present an offering with cakes of leavened bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2471\|חַלֹּת֙]] [[H3899H\|לֶ֣חֶם]] [[H2557A\|חָמֵ֔ץ]] [[H7126H\|יַקְרִ֖יב]] [[H7133A\|קָרְבָּנ֑]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H2077\|זֶ֖בַח]] [[H8426\|תּוֹדַ֥ת]] [[H8002\|שְׁלָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.12|<< Leviticus 7:12]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.14|Leviticus 7:14 >>]]</td></tr></table>
 

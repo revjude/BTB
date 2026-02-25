@@ -1,8 +1,64 @@
+---
+title: Jeremiah 17:11
+type: Verse
+kjv: "As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool."
+bsb: "Like a partridge hatching eggs it did not lay is the man who makes a fortune unjustly. In the middle of his days his riches will desert him, and in the end he will be the fool.”"
+hebrew: "קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י יָמָיו֙ יַעַזְבֶ֔נּוּ וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARTRIDGE|PARTRIDGE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[H7124]]"
+- "[[H1716]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3205]]"
+- "[[H6213I]]"
+- "[[H6239]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H2677]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H5800A]]"
+- "[[H9033]]"
+- "[[H0319]]"
+- "[[H1961]]"
+- "[[H5036]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:11**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the partridge sitteth [on eggs], and hatcheth [them] not; [so] he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.
 <small><sub>**BSB:**</sub></small>
 Like a partridge hatching eggs it did not lay is the man who makes a fortune unjustly. In the middle of his days his riches will desert him, and in the end he will be the fool.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7124\|קֹרֵ֤א]] [[H1716\|דָגַר֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3205\|יָלָ֔ד]] [[H6213I\|עֹ֥שֶׂה]] [[H6239\|עֹ֖שֶׁר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H4941H\|מִשְׁפָּ֑ט]] [[H9003\|בַּ]][[H2677\|חֲצִ֤י]] [[H3117G\|יָמָי]][[H9023\|ו֙]] [[H5800A\|יַעַזְבֶ֔]][[H9033\|נּוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H0319\|אַחֲרִית֖]][[H9023\|וֹ]] [[H1961\|יִהְיֶ֥ה]] [[H5036\|נָבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARTRIDGE|PARTRIDGE]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
 
@@ -24,7 +80,7 @@ Like a partridge hatching eggs it did not lay is the man who makes a fortune unj
 | a fool  |**<big>&#8207;[[H5036\|נָבָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
 
-[^1]: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: day his  | **<big>[[H3117G|יֹמ]]</big><big>[[H9023|וֹ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: day his  | **<big>[[H3117G|יֹמ]]</big><big>[[H9023|וֹ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>יָמָו֙</big></span>**
 

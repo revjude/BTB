@@ -1,8 +1,56 @@
+---
+title: Psalm 95:4
+type: Verse
+kjv: "In his hand are the deep places of the earth: the strength of the hills is his also."
+bsb: "In His hand are the depths of the earth, and the mountain peaks belong to Him."
+hebrew: "אֲשֶׁ֣ר בְּ֭יָדוֹ מֶחְקְרֵי־ אָ֑רֶץ וְתוֹעֲפ֖וֹת הָרִ֣ים לֽוֹ׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H4278]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8443]]"
+- "[[H2022G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:4**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his hand [are] the deep places of the earth: the strength of the hills [is] his also.
 <small><sub>**BSB:**</sub></small>
 In His hand are the depths of the earth, and the mountain peaks belong to Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ֭]][[H3027G\|יָד]][[H9023\|וֹ]] [[H4278\|מֶחְקְרֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H8443\|תוֹעֲפ֖וֹת]] [[H2022G\|הָרִ֣ים]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.3|<< Psalms 95:3]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.5|Psalms 95:5 >>]]</td></tr></table>
 

@@ -1,6 +1,53 @@
+---
+title: Psalm 59:0
+type: Verse
+kjv: "To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him."
+hebrew: "לַמְנַצֵּ֣חַ אַל־ תַּשְׁחֵת֮ לְדָוִ֪ד מִ֫כְתָּ֥ם בִּשְׁלֹ֥חַ שָׁא֑וּל וַֽיִּשְׁמְר֥וּ אֶת־ הַ֝בַּ֗יִת לַהֲמִיתֽוֹ׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0516]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H4387]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H7586G]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:0**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, Altaschith, Michtam of David; when Saul sent, and they watched the house to kill him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֣חַ]] [[H0516\|אַל]][[H9014\|־]] [[H0516\|תַּשְׁחֵת֮]] [[H9005\|לְ]][[H1732\|דָוִ֪ד]] [[H4387\|מִ֫כְתָּ֥ם]] [[H9003\|בִּ]][[H7971G\|שְׁלֹ֥חַ]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַֽ]][[H8104H\|יִּשְׁמְר֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֝]][[H1004B\|בַּ֗יִת]] [[H9005\|לַ]][[H4191\|הֲמִיתֽ]][[H9033\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.11|<< Psalms 58:11]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.1|Psalms 59:1 >>]]</td></tr></table>
 

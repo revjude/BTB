@@ -1,8 +1,64 @@
+---
+title: Numbers 10:12
+type: Verse
+kjv: "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran."
+bsb: "and the Israelites set out from the Wilderness of Sinai, traveling from place to place until the cloud settled in the Wilderness of Paran."
+hebrew: "וַיִּסְע֧וּ בְנֵֽי־ יִשְׂרָאֵ֛ל לְמַסְעֵיהֶ֖ם מִמִּדְבַּ֣ר סִינָ֑י וַיִּשְׁכֹּ֥ן הֶעָנָ֖ן בְּמִדְבַּ֥ר פָּארָֽן׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PARAN|PARAN]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4550]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H7931]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H9003]]"
+- "[[H6290G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:12**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.
 <small><sub>**BSB:**</sub></small>
 and the Israelites set out from the Wilderness of Sinai, traveling from place to place until the cloud settled in the Wilderness of Paran.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לְ]][[H4550\|מַסְעֵי]][[H9028\|הֶ֖ם]] [[H9006\|מִ]][[H4057B\|מִּדְבַּ֣ר]] [[H5514H\|סִינָ֑י]] [[H9001\|וַ]][[H7931\|יִּשְׁכֹּ֥ן]] [[H9009\|הֶ]][[H6051\|עָנָ֖ן]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֥ר]] [[H6290G\|פָּארָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic ISRAEL|ISRAEL]] • [[topic PARAN|PARAN]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.11|<< Numbers 10:11]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.13|Numbers 10:13 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Ezekiel 39:8
+type: Verse
+kjv: "Behold, it is come, and it is done, saith the Lord GOD; this is the day whereof I have spoken."
+bsb: "Yes, it is coming, and it will surely happen, declares the Lord GOD. This is the day of which I have spoken."
+hebrew: "הִנֵּ֤ה בָאָה֙ וְנִֽהְיָ֔תָה נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה ה֥וּא הַיּ֖וֹם אֲשֶׁ֥ר דִּבַּֽרְתִּי׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BASHAN|BASHAN]]"
+strongs:
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:8**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, it is come, and it is done, saith the Lord GOD; this [is] the day whereof I have spoken.
 <small><sub>**BSB:**</sub></small>
 Yes, it is coming, and it will surely happen, declares the Lord GOD. This is the day of which I have spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H0935G\|בָאָה֙]] [[H9001\|וְ]][[H1961\|נִֽהְיָ֔תָה]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H1931\|ה֥וּא]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.7|<< Ezekiel 39:7]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.9|Ezekiel 39:9 >>]]</td></tr></table>
 

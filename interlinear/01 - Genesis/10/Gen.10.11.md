@@ -1,8 +1,65 @@
+---
+title: Genesis 10:11
+type: Verse
+kjv: "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+bsb: "From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah,"
+hebrew: "מִן־ הָאָ֥רֶץ הַהִ֖וא יָצָ֣א אַשּׁ֑וּר וַיִּ֙בֶן֙ אֶת־ נִ֣ינְוֵ֔ה וְאֶת־ רְחֹבֹ֥ת עִ֖יר וְאֶת־ כָּֽלַח׃"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASSHUR|ASSHUR]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic CALAH|CALAH]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic HAM|HAM]]"
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic REHOBOTH|REHOBOTH]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1931]]"
+- "[[H3318G]]"
+- "[[H0804G]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H5210]]"
+- "[[H9002]]"
+- "[[H7344I]]"
+- "[[H5893H]]"
+- "[[H3625]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:11**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 <small><sub>**BSB:**</sub></small>
 From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah,
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H3318G\|יָצָ֣א]] [[H0804G\|אַשּׁ֑וּר]] [[H9001\|וַ]][[H1129\|יִּ֙בֶן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5210\|נִ֣ינְוֵ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7344I\|רְחֹבֹ֥ת]] [[H5893H\|עִ֖יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3625\|כָּֽלַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSHUR|ASSHUR]] • [[topic ASSYRIA|ASSYRIA]] • [[topic CALAH|CALAH]] • [[topic CITIES|CITIES]] • [[topic HAM|HAM]] • [[topic NINEVEH|NINEVEH]] • [[topic REHOBOTH|REHOBOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.10|<< Genesis 10:10]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.12|Genesis 10:12 >>]]</td></tr></table>
 

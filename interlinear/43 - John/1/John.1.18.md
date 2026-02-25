@@ -1,10 +1,56 @@
+---
+title: John 1:18
+type: Verse
+kjv: "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him."
+bsb: "No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known."
+greek: "Θεὸν οὐδεὶς ἑώρακεν πώποτε· ὁ μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρός, ἐκεῖνος ἐξηγήσατο."
+pericope: "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2316]]"
+- "[[G3762]]"
+- "[[G3708]]"
+- "[[G4455]]"
+- "[[G3588]]"
+- "[[G3439]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G2859]]"
+- "[[G3962]]"
+- "[[G1565]]"
+- "[[G1834]]"
+texts:
+- NKO
+- ko
+- N(K)O
+---
+
 **John 1:18**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].
 <small><sub>**BSB:**</sub></small>
 No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known.
-<small><sub>**Literal:**</sub></small>
-God no [one] has seen ever yet; the only begotten God who is being in the bosom of the Father, He has made [Him] known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.17|<< John 1:17]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.19|John 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2316\|Θεὸν]]  [[G3762\|οὐδεὶς]]  [[G3708\|ἑώρακεν]]  [[G4455\|πώποτε·]]  [[G3588\|ὁ]]  [[G3439\|μονογενὴς]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2859\|κόλπον]]  [[G3588\|τοῦ]]  [[G3962\|πατρός,]]  [[G1565\|ἐκεῖνος]]  [[G1834\|ἐξηγήσατο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.17|<< John 1:17]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.19|John 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

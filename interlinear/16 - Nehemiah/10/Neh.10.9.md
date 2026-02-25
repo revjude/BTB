@@ -1,8 +1,59 @@
+---
+title: Nehemiah 10:9
+type: Verse
+kjv: "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;"
+bsb: "The Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel,"
+hebrew: "וְֽהַלְוִיִּ֑ם וְיֵשׁ֙וּעַ֙ בֶּן־ אֲזַנְיָ֔ה בִּנּ֕וּי מִבְּנֵ֥י חֵנָדָ֖ד קַדְמִיאֵֽל׃"
+pericope: "[[Neh.10.1 Signers of the Covenant|Signers of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AZANIAH|AZANIAH]]"
+- "[[topic BINNUI|BINNUI]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HENADAD|HENADAD]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic KADMIEL|KADMIEL]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3442J]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0245]]"
+- "[[H1131L]]"
+- "[[H9006]]"
+- "[[H2582G]]"
+- "[[H6934]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:9**<big><big>[[Neh.10.1 Signers of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
 <small><sub>**BSB:**</sub></small>
 The Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H9002\|וְ]][[H3442J\|יֵשׁ֙וּעַ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0245\|אֲזַנְיָ֔ה]] [[H1131L\|בִּנּ֕וּי]] [[H9006\|מִ]][[H1121A\|בְּנֵ֥י]] [[H2582G\|חֵנָדָ֖ד]] [[H6934\|קַדְמִיאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZANIAH|AZANIAH]] • [[topic BINNUI|BINNUI]] • [[topic DECISION|DECISION]] • [[topic HENADAD|HENADAD]] • [[topic JESHUA|JESHUA]] • [[topic KADMIEL|KADMIEL]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.8|<< Nehemiah 10:8]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.10|Nehemiah 10:10 >>]]</td></tr></table>
 

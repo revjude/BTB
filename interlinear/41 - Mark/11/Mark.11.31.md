@@ -1,10 +1,58 @@
+---
+title: Mark 11:31
+type: Verse
+kjv: "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?"
+bsb: "They deliberated among themselves what they should answer: “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’"
+greek: "καὶ διελογίζοντο πρὸς ἑαυτοὺς λέγοντες· τί εἴπωμεν ἐὰν εἴπωμεν· ἐξ οὐρανοῦ, ἐρεῖ· διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ;"
+pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1260]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G2036]]"
+- "[[G1437]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G4483]]"
+- "[[G1223]]"
+- "[[G3767]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- O
+---
+
 **Mark 11:31**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?
 <small><sub>**BSB:**</sub></small>
 They deliberated among themselves what they should answer: “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’
-<small><sub>**Literal:**</sub></small>
-And they were reasoning with themselves saying; What may we say? If we shall say; From heaven, He will say; Because of why then not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.30|<< Mark 11:30]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.32|Mark 11:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1260\|διελογίζοντο]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτοὺς]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G2036\|εἴπωμεν]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπωμεν·]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ,]]  [[G4483\|ἐρεῖ·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπιστεύσατε]]  [[G0846\|αὐτῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.30|<< Mark 11:30]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.32|Mark 11:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

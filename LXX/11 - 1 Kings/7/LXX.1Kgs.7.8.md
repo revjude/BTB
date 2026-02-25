@@ -1,6 +1,68 @@
+---
+title: LXX 1 Kings 7:8
+type: Verse
+lxx: "And  his house in which he shall sit there, one courtyard is expanding to these according to  this work. And Solomon built a house (for the daughter of Pharaoh whom Solomon took) according to  this columned porch."
+greek: "και ο οίκος αυτόυ εν ω καθήσεται εκεί αυλή μία εξελισσομένη τούτοις κατά το έργον τούτο και ωκοδόμησεν οίκον Σολομών τη θυγατρί Φαραώ ην έλαβε Σολομών κατά το αιλάμ τούτο"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2521]]"
+- "[[G1563]]"
+- "[[G0833]]"
+- "[[G1520]]"
+- "[[G7310]]"
+- "[[G3778]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3618]]"
+- "[[G3624]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G5328]]"
+- "[[G3739]]"
+- "[[G2983]]"
+- "[[G4672]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G6161]]"
+- "[[G3778]]"
+---
+
 **LXX 1 Kings 7:8** 
 <small><sub>**LXX:**</sub></small>
 And  his house in which he shall sit there, one courtyard \[is\] expanding to these according to  this work. And Solomon built a house (for the daughter of Pharaoh whom Solomon took) according to  this columned porch. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|ο]] [[G3624\|οίκος]] [[G1473\|αυτόυ]] [[G1722\|εν]] [[G3739\|ω]] [[G2521\|καθήσεται]] [[G1563\|εκεί]] [[G0833\|αυλή]] [[G1520\|μία]] [[G7310\|εξελισσομένη]] [[G3778\|τούτοις]] [[G2596\|κατά]] [[G3588\|το]] [[G2041\|έργον]] [[G3778\|τούτο]] [[G2532\|και]] [[G3618\|ωκοδόμησεν]] [[G3624\|οίκον]] [[G4672\|Σολομών]] [[G3588\|τη]] [[G2364\|θυγατρί]] [[G5328\|Φαραώ]] [[G3739\|ην]] [[G2983\|έλαβε]] [[G4672\|Σολομών]] [[G2596\|κατά]] [[G3588\|το]] [[G6161\|αιλάμ]] [[G3778\|τούτο]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
 
@@ -32,6 +94,6 @@ And  his house in which he shall sit there, one courtyard \[is\] expanding to th
 | according to | **<big>[[G2596\|κατά]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | this columned porch. | **<big>[[G6161\|αιλάμ]]</big>** **<big>[[G3778\|τούτο]]</big>** |
-[[1Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
 
 

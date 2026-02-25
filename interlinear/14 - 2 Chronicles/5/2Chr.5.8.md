@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 5:8
+type: Verse
+kjv: "For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above."
+bsb: "For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles."
+hebrew: "וַיִּהְי֤וּ הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם עַל־ מְק֖וֹם הָאָר֑וֹן וַיְכַסּ֧וּ הַכְּרוּבִ֛ים עַל־ הָאָר֥וֹן וְעַל־ בַּדָּ֖יו מִלְמָֽעְלָה׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H0727]]"
+- "[[H3680]]"
+- "[[H9002]]"
+- "[[H0905G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:8**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the cherubims spread forth [their] wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 <small><sub>**BSB:**</sub></small>
 For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֤וּ]] [[H9009\|הַ]][[H3742\|כְּרוּבִים֙]] [[H6566\|פֹּרְשִׂ֣ים]] [[H3671\|כְּנָפַ֔יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H4725\|מְק֖וֹם]] [[H9009\|הָ]][[H0727\|אָר֑וֹן]] [[H9001\|וַ]][[H3680\|יְכַסּ֧וּ]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֛ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָר֥וֹן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0905G\|בַּדָּ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.7|<< 2 Chronicles 5:7]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.9|2 Chronicles 5:9 >>]]</td></tr></table>
 

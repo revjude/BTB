@@ -1,10 +1,54 @@
+---
+title: Mark 11:27
+type: Verse
+kjv: "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,"
+bsb: "After their return to Jerusalem, Jesus was walking in the temple courts, and the chief priests, scribes, and elders came up to Him."
+greek: "Καὶ ἔρχονται πάλιν εἰς Ἱεροσόλυμα· καὶ ἐν τῷ ἱερῷ περιπατοῦντος αὐτοῦ ἔρχονται πρὸς αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς καὶ οἱ πρεσβύτεροι"
+pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3825]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G4043]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G4245G]]"
+texts:
+- NKO
+---
+
 **Mark 11:27**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,
 <small><sub>**BSB:**</sub></small>
 After their return to Jerusalem, Jesus was walking in the temple courts, and the chief priests, scribes, and elders came up to Him.
-<small><sub>**Literal:**</sub></small>
-And they come again to Jerusalem; And in the temple when is walking He they come to Him the chief priests and the scribes and the elders<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.26|<< Mark 11:26]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.28|Mark 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G3825\|πάλιν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα·]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G4043\|περιπατοῦντος]]  [[G0846\|αὐτοῦ]]  [[G2064\|ἔρχονται]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.26|<< Mark 11:26]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.28|Mark 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

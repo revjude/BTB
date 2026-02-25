@@ -1,10 +1,60 @@
+---
+title: Acts 20:19
+type: Verse
+kjv: "Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:"
+bsb: "I served the Lord with great humility and with tears, especially in the trials that came upon me through the plots of the Jews."
+greek: "δουλεύων τῷ κυρίῳ μετὰ πάσης ταπεινοφροσύνης καὶ πολλῶν δακρύων καὶ πειρασμῶν τῶν συμβάντων μοι ἐν ταῖς ἐπιβουλαῖς τῶν Ἰουδαίων·"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1398]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G5012]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G1144]]"
+- "[[G3986H]]"
+- "[[G4819]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G1917]]"
+- "[[G2453]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 20:19**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:
 <small><sub>**BSB:**</sub></small>
 I served the Lord with great humility and with tears, especially in the trials that came upon me through the plots of the Jews.
-<small><sub>**Literal:**</sub></small>
-serving the Lord with all humility and many tears and trials that were happening to me in the plots of the Jews;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.18|<< Acts 20:18]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.20|Acts 20:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1398\|δουλεύων]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G5012\|ταπεινοφροσύνης]]  [[G2532\|καὶ]]  [[G4183\|πολλῶν]]  [[G1144\|δακρύων]]  [[G2532\|καὶ]]  [[G3986H\|πειρασμῶν]]  [[G3588\|τῶν]]  [[G4819\|συμβάντων]]  [[G3165\|μοι]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1917\|ἐπιβουλαῖς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic WEEPING|WEEPING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.18|<< Acts 20:18]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.20|Acts 20:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Capture of Jerusalem and Hebron
+type: Pericope
 pericope: "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 1
 book/chapter: "[[Judg.1|Judges 1]]"
-genre:
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 19
 verses:
 - "[[Judg.1.8]]"
 - "[[Judg.1.9]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Judg.1.26]]"
 ---
 
-[[Judg.1|Judges 1:8 - Judges 1:26]]
+<small>[[Judg.1|Judges 1:8-26]]</small>
 *The Capture of Jerusalem and Hebron*
 
 [[Judg.1.8|8]] Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.

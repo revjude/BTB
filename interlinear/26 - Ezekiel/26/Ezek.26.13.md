@@ -1,8 +1,56 @@
+---
+title: Ezekiel 26:13
+type: Verse
+kjv: "And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard."
+bsb: "So I will silence the sound of your songs, and the music of your lyres will no longer be heard."
+hebrew: "וְהִשְׁבַּתִּ֖י הֲמ֣וֹן שִׁירָ֑יִךְ וְק֣וֹל כִּנּוֹרַ֔יִךְ לֹ֥א יִשָּׁמַ֖ע עֽוֹד׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H1995A]]"
+- "[[H7892A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H6963H]]"
+- "[[H3658]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:13**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard.
 <small><sub>**BSB:**</sub></small>
 So I will silence the sound of your songs, and the music of your lyres will no longer be heard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֖י]] [[H1995A\|הֲמ֣וֹן]] [[H7892A\|שִׁירָ֑יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H6963H\|ק֣וֹל]] [[H3658\|כִּנּוֹרַ֔יִ]][[H9022\|ךְ]] [[H3808\|לֹ֥א]] [[H8085G\|יִשָּׁמַ֖ע]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.12|<< Ezekiel 26:12]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.14|Ezekiel 26:14 >>]]</td></tr></table>
 

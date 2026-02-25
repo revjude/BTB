@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Power of Faith
+type: Pericope
 pericope: "[[Luke.17.5 The Power of Faith|The Power of Faith]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 17
 book/chapter: "[[Luke.17|Luke 17]]"
-genre:
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.17.5]]"
 - "[[Luke.17.6]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.17.10]]"
 ---
 
-[[Luke.17|Luke 17:5 - Luke 17:10]]
+<small>[[Luke.17|Luke 17:5-10]]</small>
 *The Power of Faith*
 
 [[Luke.17.5|5]] And the apostles said unto the Lord, Increase our faith.

@@ -1,8 +1,63 @@
+---
+title: Psalm 27:2
+type: Verse
+kjv: "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+bsb: "When the wicked came upon me to devour my flesh, my enemies and foes stumbled and fell."
+hebrew: "בִּקְרֹ֤ב עָלַ֨י׀ מְרֵעִים֮ לֶאֱכֹ֪ל אֶת־ בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ׃"
+pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H7126G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9020]]"
+- "[[H6862C]]"
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H1992]]"
+- "[[H3782]]"
+- "[[H5307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 27:2**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the wicked, [even] mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
 <small><sub>**BSB:**</sub></small>
 When the wicked came upon me to devour my flesh, my enemies and foes stumbled and fell.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H7126G\|קְרֹ֤ב]] [[H5921A\|עָלַ֨]][[H9030\|י]][[H9015\|׀]] [[H7489A\|מְרֵעִים֮]] [[H9005\|לֶ]][[H0398\|אֱכֹ֪ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂ֫רִ֥]][[H9020\|י]] [[H6862C\|צָרַ֣]][[H9020\|י]] [[H9002\|וְ]][[H0341\|אֹיְבַ֣]][[H9020\|י]] [[H9005\|לִ֑]][[H9030\|י]] [[H1992\|הֵ֖מָּה]] [[H3782\|כָשְׁל֣וּ]] [[H9002\|וְ]][[H5307G\|נָפָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TESTIMONY|TESTIMONY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.1|<< Psalms 27:1]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.3|Psalms 27:3 >>]]</td></tr></table>
 

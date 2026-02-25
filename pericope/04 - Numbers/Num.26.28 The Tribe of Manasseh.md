@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Manasseh
+type: Pericope
 pericope: "[[Num.26.28 The Tribe of Manasseh|The Tribe of Manasseh]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.26.28]]"
 - "[[Num.26.29]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.26.34]]"
 ---
 
-[[Num.26|Numbers 26:28 - Numbers 26:34]]
+<small>[[Num.26|Numbers 26:28-34]]</small>
 *The Tribe of Manasseh*
 
 [[Num.26.28|28]] The sons of Joseph after their families \[were\] Manasseh and Ephraim.

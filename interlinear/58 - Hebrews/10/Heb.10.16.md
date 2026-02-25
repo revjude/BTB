@@ -1,10 +1,66 @@
+---
+title: Hebrews 10:16
+type: Verse
+kjv: "This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;"
+bsb: "“This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.”"
+greek: "αὕτη ἡ διαθήκη ἣν διαθήσομαι πρὸς αὐτοὺς μετὰ τὰς ἡμέρας ἐκείνας, λέγει κύριος, διδοὺς νόμους μου ἐπὶ καρδίας αὐτῶν καὶ ἐπὶ τὴν διάνοιαν αὐτῶν ἐπιγράψω αὐτούς·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G3739]]"
+- "[[G1303]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G1325]]"
+- "[[G3551]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G1271]]"
+- "[[G1924]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 10:16**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [is] the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;
 <small><sub>**BSB:**</sub></small>
 “This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.”
-<small><sub>**Literal:**</sub></small>
-This [is] the covenant that I will make with them after the days those, says [the] Lord, putting [the] laws of Mine into [the] hearts of them and into the mind of them I will inscribe them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.15|<< Hebrews 10:15]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.17|Hebrews 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G1242\|διαθήκη]]  [[G3739\|ἣν]]  [[G1303\|διαθήσομαι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3326\|μετὰ]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G1565\|ἐκείνας,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος,]]  [[G1325\|διδοὺς]]  [[G3551\|νόμους]]  [[G3165\|μου]]  [[G1909\|ἐπὶ]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1271\|διάνοιαν]]  [[G0846\|αὐτῶν]]  [[G1924\|ἐπιγράψω]]  [[G0846\|αὐτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.15|<< Hebrews 10:15]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.17|Hebrews 10:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:16** is...
 > $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]

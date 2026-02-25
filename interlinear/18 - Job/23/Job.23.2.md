@@ -1,8 +1,53 @@
+---
+title: Job 23:2
+type: Verse
+kjv: "Even to day is my complaint bitter: my stroke is heavier than my groaning."
+bsb: "“Even today my complaint is bitter. His hand is heavy despite my groaning."
+hebrew: "גַּם־ הַ֭יּוֹם מְרִ֣י שִׂחִ֑י יָ֝דִ֗י כָּבְדָ֥ה עַל־ אַנְחָתִֽי׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4805H]]"
+- "[[H7879]]"
+- "[[H9020]]"
+- "[[H3027G]]"
+- "[[H3513H]]"
+- "[[H5921A]]"
+- "[[H0585]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:2**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even to day [is] my complaint bitter: my stroke is heavier than my groaning.
 <small><sub>**BSB:**</sub></small>
 “Even today my complaint is bitter. His hand is heavy despite my groaning.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ֭]][[H3117G\|יּוֹם]] [[H4805H\|מְרִ֣י]] [[H7879\|שִׂחִ֑]][[H9020\|י]] [[H3027G\|יָ֝דִ֗]][[H9020\|י]] [[H3513H\|כָּבְדָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0585\|אַנְחָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.1|<< Job 23:1]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.3|Job 23:3 >>]]</td></tr></table>
 

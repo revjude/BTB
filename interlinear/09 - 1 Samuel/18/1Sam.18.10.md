@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 18:10
+type: Verse
+kjv: "And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul’s hand."
+bsb: "The next day a spirit of distress sent from God came upon Saul, and he prophesied inside the house while David played the harp as usual. Now Saul was holding a spear,"
+hebrew: "וַיְהִ֣י מִֽמָּחֳרָ֗ת וַתִּצְלַ֣ח רוּחַ֩ אֱלֹהִ֨ים׀ רָעָ֤ה׀ אֶל־ שָׁאוּל֙ וַיִּתְנַבֵּ֣א בְתוֹךְ־ הַבַּ֔יִת וְדָוִ֛ד מְנַגֵּ֥ן בְּיָד֖וֹ כְּי֣וֹם׀ בְּי֑וֹם וְהַחֲנִ֖ית בְּיַד־ שָׁאֽוּל׃"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DART|DART]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAR|SPEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H6743A]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H7451A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H5059]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3117J]]"
+- "[[H2595]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:10**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and [there was] a javelin in Saul’s hand.
 <small><sub>**BSB:**</sub></small>
 The next day a spirit of distress sent from God came upon Saul, and he prophesied inside the house while David played the harp as usual. Now Saul was holding a spear,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֗ת]] [[H9001\|וַ]][[H6743A\|תִּצְלַ֣ח]] [[H7307G\|רוּחַ֩]] [[H0430G\|אֱלֹהִ֨ים]][[H9015\|׀]] [[H7451A\|רָעָ֤ה]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁאוּל֙]] [[H9001\|וַ]][[H5012\|יִּתְנַבֵּ֣א]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9002\|וְ]][[H1732\|דָוִ֛ד]] [[H5059\|מְנַגֵּ֥ן]] [[H9003\|בְּ]][[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3117J\|י֣וֹם]][[H9015\|׀]] [[H9003\|בְּ]][[H3117J\|י֑וֹם]] [[H9002\|וְ]][[H9009\|הַ]][[H2595\|חֲנִ֖ית]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DART|DART]] • [[topic DAVID|DAVID]] • [[topic DEMONS|DEMONS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INSANITY|INSANITY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAR|SPEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.9|<< 1 Samuel 18:9]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.11|1 Samuel 18:11 >>]]</td></tr></table>
 

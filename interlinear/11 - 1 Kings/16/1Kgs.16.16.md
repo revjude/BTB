@@ -1,8 +1,72 @@
+---
+title: 1 Kings 16:16
+type: Verse
+kjv: "And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp."
+bsb: "and the people in the camp heard that Zimri had conspired against the king and struck him down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel."
+hebrew: "וַיִּשְׁמַ֤ע הָעָם֙ הַחֹנִ֣ים לֵאמֹ֔ר קָשַׁ֣ר זִמְרִ֔י וְגַ֖ם הִכָּ֣ה אֶת־ הַמֶּ֑לֶךְ וַיַּמְלִ֣כוּ כָֽל־ יִ֠שְׂרָאֵל אֶת־ עָמְרִ֨י שַׂר־ צָבָ֧א עַל־ יִשְׂרָאֵ֛ל בַּיּ֥וֹם הַה֖וּא בַּֽמַּחֲנֶֽה׃"
+pericope: "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic OMRI|OMRI]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H2583]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7194]]"
+- "[[H2174A]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H4427A]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H6018G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H5921A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:16**<big><big>[[1Kgs.16.15 Zimri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people [that were] encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.
 <small><sub>**BSB:**</sub></small>
 and the people in the camp heard that Zimri had conspired against the king and struck him down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H9009\|הַ]][[H2583\|חֹנִ֣ים]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7194\|קָשַׁ֣ר]] [[H2174A\|זִמְרִ֔י]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H5221\|הִכָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H4427A\|יַּמְלִ֣כוּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִ֠שְׂרָאֵל]] [[H0853\|אֶת]][[H9014\|־]] [[H6018G\|עָמְרִ֨י]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צָבָ֧א]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic OMRI|OMRI]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.15|<< 1 Kings 16:15]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.17|1 Kings 16:17 >>]]</td></tr></table>
 

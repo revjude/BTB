@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 3:13
+type: Verse
+kjv: "For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not."
+bsb: "I told him that I would judge his house forever for the iniquity of which he knows, because his sons blasphemed God and he did not restrain them."
+hebrew: "וְהִגַּ֣דְתִּי ל֔וֹ כִּֽי־ שֹׁפֵ֥ט אֲנִ֛י אֶת־ בֵּית֖וֹ עַד־ עוֹלָ֑ם בַּעֲוֹ֣ן אֲשֶׁר־ יָדַ֗ע כִּֽי־ מְקַֽלְלִ֤ים לָהֶם֙ בָּנָ֔יו וְלֹ֥א כִהָ֖ה בָּֽם׃"
+pericope: "[[1Sam.3.1 The LORD Calls Samuel|The LORD Calls Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONNIVANCE|CONNIVANCE]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8199]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H7043]]"
+- "[[H9038]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3543B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:13**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.
 <small><sub>**BSB:**</sub></small>
 I told him that I would judge his house forever for the iniquity of which he knows, because his sons blasphemed God and he did not restrain them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5046\|הִגַּ֣דְתִּי]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8199\|שֹׁפֵ֥ט]] [[H0589\|אֲנִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9003\|בַּ]][[H5771G\|עֲוֹ֣ן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3045\|יָדַ֗ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7043\|מְקַֽלְלִ֤ים]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3543B\|כִהָ֖ה]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONNIVANCE|CONNIVANCE]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic PARENTS|PARENTS]] • [[topic SAMUEL|SAMUEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.12|<< 1 Samuel 3:12]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.14|1 Samuel 3:14 >>]]</td></tr></table>
 

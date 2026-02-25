@@ -1,8 +1,60 @@
+---
+title: Hosea 9:16
+type: Verse
+kjv: "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb."
+bsb: "Ephraim is struck down; their root is withered; they cannot bear fruit. Even if they bear children, I will slay the darlings of their wombs."
+hebrew: "הֻכָּ֣ה אֶפְרַ֔יִם שָׁרְשָׁ֥ם יָבֵ֖שׁ פְּרִ֣י בַֽל יַעֲשׂ֑וּן גַּ֚ם כִּ֣י יֵֽלֵד֔וּן וְהֵמַתִּ֖י מַחֲמַדֵּ֥י בִטְנָֽם׃ ס"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H5221]]"
+- "[[H0669G]]"
+- "[[H8328]]"
+- "[[H9028]]"
+- "[[H3001]]"
+- "[[H6529]]"
+- "[[H1097]]"
+- "[[H1077]]"
+- "[[H6213H]]"
+- "[[H9013]]"
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H3205]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H4261]]"
+- "[[H0990H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Hosea 9:16**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay [even] the beloved [fruit] of their womb.
 <small><sub>**BSB:**</sub></small>
 Ephraim is struck down; their root is withered; they cannot bear fruit. Even if they bear children, I will slay the darlings of their wombs.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|הֻכָּ֣ה]] [[H0669G\|אֶפְרַ֔יִם]] [[H8328\|שָׁרְשָׁ֥]][[H9028\|ם]] [[H3001\|יָבֵ֖שׁ]] [[H6529\|פְּרִ֣י]] [[H1077\|בַֽל]] [[H6213H\|יַעֲשׂ֑וּ]][[H9013\|ן]] [[H1571\|גַּ֚ם]] [[H3588A\|כִּ֣י]] [[H3205\|יֵֽלֵד֔וּ]][[H9013\|ן]] [[H9001\|וְ]][[H4191\|הֵמַתִּ֖י]] [[H4261\|מַחֲמַדֵּ֥י]] [[H0990H\|בִטְנָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.15|<< Hosea 9:15]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.17|Hosea 9:17 >>]]</td></tr></table>
 
@@ -20,7 +72,7 @@ Ephraim is struck down; their root is withered; they cannot bear fruit. Even if 
 | they [masc] will give birth !  |**<big>&#8207;[[H3205\|יֵֽלֵד֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.le.Du<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will put to death  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4191\|הֵמַתִּ֖י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.ma.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] precious things of  |**<big>&#8207;[[H4261\|מַחֲמַדֵּ֥י]]&#8207; </big>**| ma.cha.ma.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [masc] womb their  |**<big>&#8207;[[H0990H\|בִטְנָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| vit.Na<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [masc] womb their  |**<big>&#8207;[[H0990H\|בִטְנָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| vit.Na<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.15|<< Hosea 9:15]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.17|Hosea 9:17 >>]]</td></tr></table>
 
 [^1]: without  | **<big>[[H1097|בְלִי]]</big> ** | ve.li-<small><sup>[[HTn]]</sup></small> | K

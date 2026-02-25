@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 17:8
+type: Verse
+kjv: "If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;"
+bsb: "If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose."
+hebrew: "כִּ֣י יִפָּלֵא֩ מִמְּךָ֨ דָבָ֜ר לַמִּשְׁפָּ֗ט בֵּֽין־ דָּ֨ם׀ לְדָ֜ם בֵּֽין־ דִּ֣ין לְדִ֗ין וּבֵ֥ין נֶ֙גַע֙ לָנֶ֔גַע דִּבְרֵ֥י רִיבֹ֖ת בִּשְׁעָרֶ֑יךָ וְקַמְתָּ֣ וְעָלִ֔יתָ אֶל־ הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃"
+pericope: "[[Deut.17.8 Courts of Law|Courts of Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6381]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H1697L]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9015]]"
+- "[[H1779]]"
+- "[[H9002]]"
+- "[[H5061]]"
+- "[[H7379]]"
+- "[[H9003]]"
+- "[[H8179H]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:8**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, [being] matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;
 <small><sub>**BSB:**</sub></small>
 If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H6381\|יִפָּלֵא֩]] [[H4480A\|מִמְּ]][[H9031\|ךָ֨]] [[H1697L\|דָבָ֜ר]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּ֗ט]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H1818\|דָּ֨ם]][[H9015\|׀]] [[H9005\|לְ]][[H1818\|דָ֜ם]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H1779\|דִּ֣ין]] [[H9005\|לְ]][[H1779\|דִ֗ין]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H5061\|נֶ֙גַע֙]] [[H9005\|לָ]][[H5061\|נֶ֔גַע]] [[H1697L\|דִּבְרֵ֥י]] [[H7379\|רִיבֹ֖ת]] [[H9003\|בִּ]][[H8179H\|שְׁעָרֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H6965B\|קַמְתָּ֣]] [[H9001\|וְ]][[H5927G\|עָלִ֔יתָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|יִבְחַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic PLEADING|PLEADING]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.7|<< Deuteronomy 17:7]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.9|Deuteronomy 17:9 >>]]</td></tr></table>
 

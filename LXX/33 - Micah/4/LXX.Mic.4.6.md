@@ -1,9 +1,58 @@
+---
+title: LXX Micah 4:6
+type: Verse
+lxx: "In  that day, says the lord, I will gather together her being broken, and her being thrust away. I will take in even whom I thrusted away."
+greek: "εν τη ημέρα εκείνη λέγει κύριος συνάξω την συντετριμμένην και την απωσμένην εισδέξομαι και ους απωσάμην"
+original_language: Greek
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G4937]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0683]]"
+- "[[G1523]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0683]]"
+---
+
 **LXX Micah 4:6** 
 
 ***Future Promise of Nationhood***
 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span>, I will gather together \[her\] being broken, and \[her\] being thrust away. I will take in even whom I thrusted away. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G4863\|συνάξω]] [[G3588\|την]] [[G4937\|συντετριμμένην]] [[G2532\|και]] [[G3588\|την]] [[G0683\|απωσμένην]] [[G1523\|εισδέξομαι]] [[G2532\|και]] [[G3739\|ους]] [[G0683\|απωσάμην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Mic.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 
@@ -24,6 +73,6 @@ In  that day, says \[the\] <span class="smallcaps">lord</span>, I will gather to
 | even | **<big>[[G2532\|και]]</big>** |
 | whom | **<big>[[G3739\|ους]]</big>** |
 | I thrusted away. | **<big>[[G0683\|απωσάμην]]</big>** |
-[[Mic.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 
 

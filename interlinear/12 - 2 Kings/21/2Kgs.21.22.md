@@ -1,8 +1,57 @@
+---
+title: 2 Kings 21:22
+type: Verse
+kjv: "And he forsook the LORD God of his fathers, and walked not in the way of the LORD."
+bsb: "He abandoned the LORD, the God of his fathers, and did not walk in the way of the LORD."
+hebrew: "וַיַּעֲזֹ֕ב אֶת־ יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑יו וְלֹ֥א הָלַ֖ךְ בְּדֶ֥רֶךְ יְהוָֽה׃"
+pericope: "[[2Kgs.21.19 Amon Reigns in Judah|Amon Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMON|AMON]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:22**<big><big>[[2Kgs.21.19 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he forsook the LORD God of his fathers, and walked not in the way of the LORD.
 <small><sub>**BSB:**</sub></small>
 He abandoned the LORD, the God of his fathers, and did not walk in the way of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעֲזֹ֕ב]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1980I\|הָלַ֖ךְ]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMON|AMON]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.21|<< 2 Kings 21:21]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.23|2 Kings 21:23 >>]]</td></tr></table>
 

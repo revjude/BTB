@@ -1,8 +1,65 @@
+---
+title: Isaiah 34:6
+type: Verse
+kjv: "The sword of the LORD is filled with blood, it is made fat with fatness, and with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea."
+bsb: "The sword of the LORD is bathed in blood. It drips with fat—with the blood of lambs and goats, with the fat of the kidneys of rams. For the LORD has a sacrifice in Bozrah, a great slaughter in the land of Edom."
+hebrew: "חֶ֣רֶב לַיהוָ֞ה מָלְאָ֥ה דָם֙ הֻדַּ֣שְׁנָה מֵחֵ֔לֶב מִדַּ֤ם כָּרִים֙ וְעַתּוּדִ֔ים מֵחֵ֖לֶב כִּלְי֣וֹת אֵילִ֑ים כִּ֣י זֶ֤בַח לַֽיהוָה֙ בְּבָצְרָ֔ה וְטֶ֥בַח גָּד֖וֹל בְּאֶ֥רֶץ אֱדֽוֹם׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BOZRAH|BOZRAH]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4390]]"
+- "[[H1818]]"
+- "[[H1878]]"
+- "[[H9006]]"
+- "[[H2459]]"
+- "[[H3733C]]"
+- "[[H9002]]"
+- "[[H6260]]"
+- "[[H3629]]"
+- "[[H0352A]]"
+- "[[H3588A]]"
+- "[[H2077]]"
+- "[[H9003]]"
+- "[[H1224G]]"
+- "[[H2874]]"
+- "[[H1419A]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:6**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword of the LORD is filled with blood, it is made fat with fatness, [and] with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.
 <small><sub>**BSB:**</sub></small>
 The sword of the LORD is bathed in blood. It drips with fat—with the blood of lambs and goats, with the fat of the kidneys of rams. For the LORD has a sacrifice in Bozrah, a great slaughter in the land of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H2719\|חֶ֣רֶב]] [[H9005\|לַ]][[H3068G\|יהוָ֞ה]] [[H4390\|מָלְאָ֥ה]] [[H1818\|דָם֙]] [[H1878\|הֻדַּ֣שְׁנָה]] [[H9006\|מֵ]][[H2459\|חֵ֔לֶב]] [[H9006\|מִ]][[H1818\|דַּ֤ם]] [[H3733C\|כָּרִים֙]] [[H9002\|וְ]][[H6260\|עַתּוּדִ֔ים]] [[H9006\|מֵ]][[H2459\|חֵ֖לֶב]] [[H3629\|כִּלְי֣וֹת]] [[H0352A\|אֵילִ֑ים]] [[H3588A\|כִּ֣י]] [[H2077\|זֶ֤בַח]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H9003\|בְּ]][[H1224G\|בָצְרָ֔ה]] [[H9002\|וְ]][[H2874\|טֶ֥בַח]] [[H1419A\|גָּד֖וֹל]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOZRAH|BOZRAH]] • [[topic SACRIFICES|SACRIFICES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.5|<< Isaiah 34:5]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.7|Isaiah 34:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

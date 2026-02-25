@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: O God, Be Not Silent
+type: Pericope
 pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 83
 book/chapter: "[[Ps.83|Psalm 83]]"
-genre:
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 19
 verses:
 - "[[Ps.83.0]]"
 - "[[Ps.83.1]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Ps.83.18]]"
 ---
 
-[[Ps.83|Psalm 83:1 - Psalm 83:18]]
+<small>[[Ps.83|Psalm 83:1-18]]</small>
 *O God, Be Not Silent*
 
 [[Ps.83.0|0]] A Song \[or\] Psalm of Asaph.

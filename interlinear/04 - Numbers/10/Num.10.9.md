@@ -1,8 +1,72 @@
+---
+title: Numbers 10:9
+type: Verse
+kjv: "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies."
+bsb: "When you enter into battle in your land against an adversary who attacks you, sound short blasts on the trumpets, and you will be remembered before the LORD your God and saved from your enemies."
+hebrew: "וְכִֽי־ תָבֹ֨אוּ מִלְחָמָ֜ה בְּאַרְצְכֶ֗ם עַל־ הַצַּר֙ הַצֹּרֵ֣ר אֶתְכֶ֔ם וַהֲרֵעֹתֶ֖ם בַּחֲצֹצְר֑וֹת וֲנִזְכַּרְתֶּ֗ם לִפְנֵי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְנוֹשַׁעְתֶּ֖ם מֵאֹיְבֵיכֶֽם׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H6862C]]"
+- "[[H6887D]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H7321]]"
+- "[[H2689]]"
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3467]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:9**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.
 <small><sub>**BSB:**</sub></small>
 When you enter into battle in your land against an adversary who attacks you, sound short blasts on the trumpets, and you will be remembered before the LORD your God and saved from your enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H0935G\|תָבֹ֨אוּ]] [[H4421\|מִלְחָמָ֜ה]] [[H9003\|בְּ]][[H0776G\|אַרְצְ]][[H9026\|כֶ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6862C\|צַּר֙]] [[H9009\|הַ]][[H6887D\|צֹּרֵ֣ר]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וַ]][[H7321\|הֲרֵעֹתֶ֖ם]] [[H9003\|בַּ]][[H2689\|חֲצֹצְר֑וֹת]] [[H9001\|וֲ]][[H2142\|נִזְכַּרְתֶּ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H3467\|נוֹשַׁעְתֶּ֖ם]] [[H9006\|מֵ]][[H0341\|אֹיְבֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.8|<< Numbers 10:8]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.10|Numbers 10:10 >>]]</td></tr></table>
 

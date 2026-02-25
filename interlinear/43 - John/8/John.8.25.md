@@ -1,10 +1,57 @@
+---
+title: John 8:25
+type: Verse
+kjv: "Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning."
+bsb: "“Who are You?” they asked. “Just what I have been telling you from the beginning,” Jesus replied."
+jesus_said: "Even the same that I said unto you from the beginning."
+greek: "ἔλεγον οὖν αὐτῷ· σὺ τίς εἶ; καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· τὴν ἀρχὴν ὅ τι καὶ λαλῶ ὑμῖν."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0746]]"
+- "[[G3739]]"
+- "[[G5100]]"
+- "[[G2980]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **John 8:25**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, Who art thou? And Jesus saith unto them, Even [the same] that I said unto you from the beginning.
 <small><sub>**BSB:**</sub></small>
 “Who are You?” they asked. “Just what I have been telling you from the beginning,” Jesus replied.
-<small><sub>**Literal:**</sub></small>
-They were saying therefore to Him; You yourself who are? and Said to them <the> Jesus; From the beginning [which] one also I am saying to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.24|<< John 8:24]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.26|John 8:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G5101\|τίς]]  [[G1510\|εἶ;]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3588\|τὴν]]  [[G0746\|ἀρχὴν]]  [[G3739\|ὅ]]  [[G5100\|τι]]  [[G2532\|καὶ]]  [[G2980\|λαλῶ]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.24|<< John 8:24]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.26|John 8:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

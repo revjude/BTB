@@ -1,10 +1,63 @@
+---
+title: John 4:15
+type: Verse
+kjv: "The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw."
+bsb: "The woman said to Him, “Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.”"
+greek: "Λέγει πρὸς αὐτὸν ἡ γυνή· κύριε, δός μοι τοῦτο τὸ ὕδωρ ἵνα μὴ διψῶ μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic THIRST|THIRST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G2962H]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G5204]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1372]]"
+- "[[G3366]]"
+- "[[G1330]]"
+- "[[G1759]]"
+- "[[G0501]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **John 4:15**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.
 <small><sub>**BSB:**</sub></small>
 The woman said to Him, “Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.”
-<small><sub>**Literal:**</sub></small>
-Says to Him the woman; Sir, do give me this <the> water that not I may thirst nor I may come here to draw.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.14|<< John 4:14]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.16|John 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ἡ]]  [[G1135G\|γυνή·]]  [[G2962H\|κύριε,]]  [[G1325\|δός]]  [[G3165\|μοι]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1372\|διψῶ]]  [[G3366\|μηδὲ]]  [[G1330\|διέρχωμαι]]  [[G1759\|ἐνθάδε]]  [[G0501\|ἀντλεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic THIRST|THIRST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.14|<< John 4:14]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.16|John 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Proverbs 15:1
+type: Verse
+kjv: "A soft answer turneth away wrath: but grievous words stir up anger."
+bsb: "A gentle answer turns away wrath, but a harsh word stirs up anger."
+hebrew: "מַֽעֲנֶה־ רַּ֭ךְ יָשִׁ֣יב חֵמָ֑ה וּדְבַר־ עֶ֝֗צֶב יַעֲלֶה־ אָֽף׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H4617]]"
+- "[[H9014]]"
+- "[[H7390]]"
+- "[[H7725I]]"
+- "[[H2534]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H6089A]]"
+- "[[H5927H]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:1**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A soft answer turneth away wrath: but grievous words stir up anger.
 <small><sub>**BSB:**</sub></small>
 A gentle answer turns away wrath, but a harsh word stirs up anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H4617\|מַֽעֲנֶה]][[H9014\|־]] [[H7390\|רַּ֭ךְ]] [[H7725I\|יָשִׁ֣יב]] [[H2534\|חֵמָ֑ה]] [[H9002\|וּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H6089A\|עֶ֝֗צֶב]] [[H5927H\|יַעֲלֶה]][[H9014\|־]] [[H0639G\|אָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic MEEKNESS|MEEKNESS]] • [[topic SPEAKING|SPEAKING]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.35|<< Proverbs 14:35]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.2|Proverbs 15:2 >>]]</td></tr></table>
 

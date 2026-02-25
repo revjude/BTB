@@ -1,10 +1,60 @@
+---
+title: Acts 4:2
+type: Verse
+kjv: "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead."
+bsb: "greatly disturbed that they were teaching the people and proclaiming in Jesus the resurrection of the dead."
+greek: "διαπονούμενοι διὰ τὸ διδάσκειν αὐτοὺς τὸν λαὸν καὶ καταγγέλλειν ἐν τῷ Ἰησοῦ τὴν ἀνάστασιν τὴν ἐκ νεκρῶν·"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1278]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1321]]"
+- "[[G0846]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G2605]]"
+- "[[G1722]]"
+- "[[G2424G]]"
+- "[[G0386]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 4:2**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.
 <small><sub>**BSB:**</sub></small>
 greatly disturbed that they were teaching the people and proclaiming in Jesus the resurrection of the dead.
-<small><sub>**Literal:**</sub></small>
-being distressed because of <the> teaching of theirs to the people and [their] proclaiming in <the> Jesus the resurrection that out from [the] dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.1|<< Acts 4:1]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.3|Acts 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1278\|διαπονούμενοι]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G1321\|διδάσκειν]]  [[G0846\|αὐτοὺς]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G2532\|καὶ]]  [[G2605\|καταγγέλλειν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τὴν]]  [[G0386\|ἀνάστασιν]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.1|<< Acts 4:1]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.3|Acts 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Exodus 12:18
+type: Verse
+kjv: "In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even."
+bsb: "In the first month you are to eat unleavened bread, from the evening of the fourteenth day until the evening of the twenty-first day."
+hebrew: "בָּרִאשֹׁ֡ן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֤וֹם לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב תֹּאכְל֖וּ מַצֹּ֑ת עַ֠ד י֣וֹם הָאֶחָ֧ד וְעֶשְׂרִ֛ים לַחֹ֖דֶשׁ בָּעָֽרֶב׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H6153]]"
+- "[[H0398]]"
+- "[[H4682]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:18**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first [month], on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.
 <small><sub>**BSB:**</sub></small>
 In the first month you are to eat unleavened bread, from the evening of the fourteenth day until the evening of the twenty-first day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H7223G\|רִאשֹׁ֡ן]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֤וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֙דֶשׁ֙]] [[H9003\|בָּ]][[H6153\|עֶ֔רֶב]] [[H0398\|תֹּאכְל֖וּ]] [[H4682\|מַצֹּ֑ת]] [[H5704\|עַ֠ד]] [[H3117G\|י֣וֹם]] [[H9009\|הָ]][[H0259\|אֶחָ֧ד]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֛ים]] [[H9005\|לַ]][[H2320G\|חֹ֖דֶשׁ]] [[H9003\|בָּ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.17|<< Exodus 12:17]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.19|Exodus 12:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,61 @@
+---
+title: Ezekiel 48:14
+type: Verse
+kjv: "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the LORD."
+bsb: "They must not sell or exchange any of it, and they must not transfer this best part of the land, for it is holy to the LORD."
+hebrew: "וְלֹא־ יִמְכְּר֣וּ מִמֶּ֗נּוּ וְלֹ֥א יָמֵ֛ר וְלֹ֥א יַעֲבִ֖יר רֵאשִׁ֣ית הָאָ֑רֶץ כִּי־ קֹ֖דֶשׁ לַיהוָֽה׃"
+pericope: "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4376]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4171]]"
+- "[[H5674A]]"
+- "[[H7225H]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 48:14**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for [it is] holy unto the LORD.
 <small><sub>**BSB:**</sub></small>
 They must not sell or exchange any of it, and they must not transfer this best part of the land, for it is holy to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4376\|יִמְכְּר֣וּ]] [[H4480A\|מִמֶּ֗]][[H9033\|נּוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4171\|יָמֵ֛ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5674A\|יַעֲבִ֖יר]] [[H7225H\|רֵאשִׁ֣ית]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּי]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.13|<< Ezekiel 48:13]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.15|Ezekiel 48:15 >>]]</td></tr></table>
 

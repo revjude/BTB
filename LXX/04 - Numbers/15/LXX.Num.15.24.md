@@ -1,6 +1,83 @@
+---
+title: LXX Numbers 15:24
+type: Verse
+lxx: "that it shall be if from the eyes of the congregation it should happen unintentionally, then all the congregation shall offer one calf from the oxen, unblemished, for a whole burnt-offering, for a scent of pleasant aroma to the lord, and this sacrifice offering, and its libation, according to  its arrangement, and one winter yearling from out of the goats for a sin offering."
+greek: "και έσται εάν εξ οφθαλμών της συναγωγής γένηθη ακουσίως και ποιήσει πάσα η συναγωγή μόσχον ένα εκ βοών άμωμον εις ολοκαύτωμα εις οσμήν ευωδίας κυρίω και θυσίαν τούτου και σπονδήν αυτού κατά την σύνταξιν αυτού και χίμαρον εξ αιγών ένα περί αμαρτίας"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G1537]]"
+- "[[G3788]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1096]]"
+- "[[G6199]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G3448]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1016]]"
+- "[[G0299]]"
+- "[[G1519]]"
+- "[[G3646]]"
+- "[[G1519]]"
+- "[[G3744]]"
+- "[[G2175]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G2378]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G9145]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G9336]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G9733]]"
+- "[[G1537]]"
+- "[[G6167]]"
+- "[[G1520]]"
+- "[[G4012]]"
+- "[[G0266]]"
+---
+
 **LXX Numbers 15:24** 
 <small><sub>**LXX:**</sub></small>
 that it shall be if from \[the\] eyes of the congregation it should happen unintentionally, then all the congregation shall offer one calf from \[the\] oxen, unblemished, for a whole burnt-offering, for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>, and this sacrifice \[offering\], and its libation, according to  its arrangement, and one winter yearling from out of \[the\] goats for a sin \[offering\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|έσται]] [[G1437\|εάν]] [[G1537\|εξ]] [[G3788\|οφθαλμών]] [[G3588\|της]] [[G4864\|συναγωγής]] [[G1096\|γένηθη]] [[G6199\|ακουσίως]] [[G2532\|και]] [[G4160\|ποιήσει]] [[G3956\|πάσα]] [[G3588\|η]] [[G4864\|συναγωγή]] [[G3448\|μόσχον]] [[G1520\|ένα]] [[G1537\|εκ]] [[G1016\|βοών]] [[G0299\|άμωμον]] [[G1519\|εις]] [[G3646\|ολοκαύτωμα]] [[G1519\|εις]] [[G3744\|οσμήν]] [[G2175\|ευωδίας]] [[G2962\|κυρίω]] [[G2532\|και]] [[G2378\|θυσίαν]] [[G3778\|τούτου]] [[G2532\|και]] [[G9145\|σπονδήν]] [[G1473\|αυτού]] [[G2596\|κατά]] [[G3588\|την]] [[G9336\|σύνταξιν]] [[G1473\|αυτού]] [[G2532\|και]] [[G9733\|χίμαρον]] [[G1537\|εξ]] [[G6167\|αιγών]] [[G1520\|ένα]] [[G4012\|περί]] [[G0266\|αμαρτίας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.23|<< Numbers 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.25|Numbers 15:25 >>]]</td></tr></table>
 
@@ -45,6 +122,6 @@ that it shall be if from \[the\] eyes of the congregation it should happen unint
 | one | **<big>[[G1520\|ένα]]</big>** |
 | for | **<big>[[G4012\|περί]]</big>** |
 | a sin \[offering\]. | **<big>[[G0266\|αμαρτίας]]</big>** |
-[[Num.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.23|<< Numbers 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.25|Numbers 15:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.23|<< Numbers 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.25|Numbers 15:25 >>]]</td></tr></table>
 
 

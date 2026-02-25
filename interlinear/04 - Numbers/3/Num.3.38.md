@@ -1,8 +1,71 @@
+---
+title: Numbers 3:38
+type: Verse
+kjv: "But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death."
+bsb: "Moses, Aaron, and Aaron’s sons were to camp to the east of the tabernacle, toward the sunrise, before the Tent of Meeting. They were to perform the duties of the sanctuary as a service on behalf of the Israelites; but any outsider who approached the sanctuary was to be put to death."
+hebrew: "וְהַחֹנִ֣ים לִפְנֵ֣י הַמִּשְׁכָּ֡ן קֵ֣דְמָה לִפְנֵי֩ אֹֽהֶל־ מוֹעֵ֨ד׀ מִזְרָ֜חָה מֹשֶׁ֣ה׀ וְאַהֲרֹ֣ן וּבָנָ֗יו שֹֽׁמְרִים֙ מִשְׁמֶ֣רֶת הַמִּקְדָּ֔שׁ לְמִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃"
+pericope: "[[Num.3.38 Moses and Aaron|Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2583]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4908]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H0168G]]"
+- "[[H9014]]"
+- "[[H4150I]]"
+- "[[H9015]]"
+- "[[H4217H]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H4720]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H2114A]]"
+- "[[H7131]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:38**<big><big>[[Num.3.38 Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But those that encamp before the tabernacle toward the east, [even] before the tabernacle of the congregation eastward, [shall be] Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.
 <small><sub>**BSB:**</sub></small>
 Moses, Aaron, and Aaron’s sons were to camp to the east of the tabernacle, toward the sunrise, before the Tent of Meeting. They were to perform the duties of the sanctuary as a service on behalf of the Israelites; but any outsider who approached the sanctuary was to be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H2583\|חֹנִ֣ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֡ן]] [[H6924B\|קֵ֣דְמָ]][[H9011\|ה]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֨ד]][[H9015\|׀]] [[H4217H\|מִזְרָ֜חָ]][[H9011\|ה]] [[H4872\|מֹשֶׁ֣ה]][[H9015\|׀]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H1121A\|בָנָ֗י]][[H9023\|ו]] [[H8104H\|שֹֽׁמְרִים֙]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַ]][[H4720\|מִּקְדָּ֔שׁ]] [[H9005\|לְ]][[H4931\|מִשְׁמֶ֖רֶת]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H9009\|הַ]][[H2114A\|זָּ֥ר]] [[H9009\|הַ]][[H7131\|קָּרֵ֖ב]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.37|<< Numbers 3:37]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.39|Numbers 3:39 >>]]</td></tr></table>
 

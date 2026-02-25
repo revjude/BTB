@@ -1,8 +1,49 @@
+---
+title: Psalm 18:39
+type: Verse
+kjv: "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me."
+bsb: "You have armed me with strength for battle; You have subdued my foes beneath me."
+hebrew: "וַתְּאַזְּרֵ֣נִי חַ֭יִל לַמִּלְחָמָ֑ה תַּכְרִ֖יעַ קָמַ֣י תַּחְתָּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9001]]"
+- "[[H0247]]"
+- "[[H9030]]"
+- "[[H2428G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3766]]"
+- "[[H6965B]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:39**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.
 <small><sub>**BSB:**</sub></small>
 You have armed me with strength for battle; You have subdued my foes beneath me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0247\|תְּאַזְּרֵ֣]][[H9030\|נִי]] [[H2428G\|חַ֭יִל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3766\|תַּכְרִ֖יעַ]] [[H6965B\|קָמַ֣]][[H9030\|י]] [[H8478G\|תַּחְתָּֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.38|<< Psalms 18:38]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.40|Psalms 18:40 >>]]</td></tr></table>
 

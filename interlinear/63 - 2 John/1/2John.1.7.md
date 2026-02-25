@@ -1,10 +1,56 @@
+---
+title: 2 John 1:7
+type: Verse
+kjv: "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist."
+bsb: "For many deceivers have gone out into the world, refusing to confess the coming of Jesus Christ in the flesh. Any such person is the deceiver and the antichrist."
+greek: "ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί· οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος."
+pericope: "[[2John.1.7 Beware of Deceivers|Beware of Deceivers]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G3754H]]"
+- "[[G4183]]"
+- "[[G4108]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3361]]"
+- "[[G3670]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0500]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 John 1:7**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 <small><sub>**BSB:**</sub></small>
 For many deceivers have gone out into the world, refusing to confess the coming of Jesus Christ in the flesh. Any such person is the deceiver and the antichrist.
-<small><sub>**Literal:**</sub></small>
-For many deceivers have gone out into the world, those not confessing Jesus Christ coming in flesh; This is the deceiver and the antichrist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.6|<< 2 John 1:6]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.8|2 John 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G4183\|πολλοὶ]]  [[G4108\|πλάνοι]]  [[G1831\|ἐξῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G3588\|οἱ]]  [[G3361\|μὴ]]  [[G3670\|ὁμολογοῦντες]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G2064\|ἐρχόμενον]]  [[G1722\|ἐν]]  [[G4561\|σαρκί·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G4108\|πλάνος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0500\|ἀντίχριστος.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.6|<< 2 John 1:6]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.8|2 John 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

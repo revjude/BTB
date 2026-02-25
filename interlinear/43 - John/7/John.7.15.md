@@ -1,10 +1,55 @@
+---
+title: John 7:15
+type: Verse
+kjv: "And the Jews marvelled, saying, How knoweth this man letters, having never learned?"
+bsb: "The Jews were amazed and asked, “How did this man attain such learning without having studied?”"
+greek: "καὶ ἐθαύμαζον οὖν οἱ Ἰουδαῖοι λέγοντες· πῶς οὗτος γράμματα οἶδεν μὴ μεμαθηκώς;¶"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2296]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G3004G]]"
+- "[[G4459]]"
+- "[[G3778]]"
+- "[[G1121]]"
+- "[[G6063]]"
+- "[[G3361]]"
+- "[[G3129]]"
+texts:
+- k
+- NKO
+- NO
+---
+
 **John 7:15**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Jews marvelled, saying, How knoweth this man letters, having never learned?
 <small><sub>**BSB:**</sub></small>
 The Jews were amazed and asked, “How did this man attain such learning without having studied?”
-<small><sub>**Literal:**</sub></small>
-and Were marveling then the Jews saying; How this one writings knows not having studied?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.14|<< John 7:14]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.16|John 7:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2296\|ἐθαύμαζον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G3004G\|λέγοντες·]]  [[G4459\|πῶς]]  [[G3778\|οὗτος]]  [[G1121\|γράμματα]]  [[G6063\|οἶδεν]]  [[G3361\|μὴ]]  [[G3129\|μεμαθηκώς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.14|<< John 7:14]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.16|John 7:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

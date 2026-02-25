@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 17:9
+type: Verse
+kjv: "Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning,"
+bsb: "And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning"
+hebrew: "וְשַׂמְתִּ֣י מָ֠קוֹם לְעַמִּ֨י יִשְׂרָאֵ֤ל וּנְטַעְתִּ֙יהוּ֙ וְשָׁכַ֣ן תַּחְתָּ֔יו וְלֹ֥א יִרְגַּ֖ז ע֑וֹד וְלֹא־ יוֹסִ֤יפוּ בְנֵי־ עַוְלָה֙ לְבַלֹּת֔וֹ כַּאֲשֶׁ֖ר בָּרִאשׁוֹנָֽה׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760L]]"
+- "[[H4725]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H5193]]"
+- "[[H9033]]"
+- "[[H7931]]"
+- "[[H8478I]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7264]]"
+- "[[H5750]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H1121G]]"
+- "[[H5766B]]"
+- "[[H1086]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H7223H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:9**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning,
 <small><sub>**BSB:**</sub></small>
 And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760L\|שַׂמְתִּ֣י]] [[H4725\|מָ֠קוֹם]] [[H9005\|לְ]][[H5971A\|עַמִּ֨]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H9001\|וּ]][[H5193\|נְטַעְתִּ֙י]][[H9033\|הוּ֙]] [[H9001\|וְ]][[H7931\|שָׁכַ֣ן]] [[H8478I\|תַּחְתָּ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7264\|יִרְגַּ֖ז]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|יוֹסִ֤יפוּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H5766B\|עַוְלָה֙]] [[H9005\|לְ]][[H1086\|בַלֹּת֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H9003\|בָּ]][[H7223H\|רִאשׁוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.8|<< 1 Chronicles 17:8]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.10|1 Chronicles 17:10 >>]]</td></tr></table>
 

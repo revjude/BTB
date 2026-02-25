@@ -1,10 +1,61 @@
+---
+title: Matthew 14:9
+type: Verse
+kjv: "And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her."
+bsb: "The king was grieved, but because of his oaths and his guests, he ordered that her wish be granted"
+greek: "καὶ λυπηθεὶς ὁ βασιλεὺς διὰ δὲ τοὺς ὅρκους καὶ τοὺς συνανακειμένους ἐκέλευσεν δοθῆναι."
+pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3076]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1223]]"
+- "[[G1161]]"
+- "[[G3727]]"
+- "[[G4873]]"
+- "[[G2753]]"
+- "[[G1325]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 14:9**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded [it] to be given [her].
 <small><sub>**BSB:**</sub></small>
 The king was grieved, but because of his oaths and his guests, he ordered that her wish be granted
-<small><sub>**Literal:**</sub></small>
-And being grieved the king on account of now the oaths and those reclining with [him] he commanded [it] to be given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.8|<< Matthew 14:8]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.10|Matthew 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3076\|λυπηθεὶς]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G1223\|διὰ]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3727\|ὅρκους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4873\|συνανακειμένους]]  [[G2753\|ἐκέλευσεν]]  [[G1325\|δοθῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic OATH|OATH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.8|<< Matthew 14:8]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.10|Matthew 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

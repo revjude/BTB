@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Inheritance Rights of the Firstborn
+type: Pericope
 pericope: "[[Deut.21.15 Inheritance Rights of the Firstborn|Inheritance Rights of the Firstborn]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 21
 book/chapter: "[[Deut.21|Deuteronomy 21]]"
-genre:
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,13 +26,14 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 3
 verses:
 - "[[Deut.21.15]]"
 - "[[Deut.21.16]]"
 - "[[Deut.21.17]]"
 ---
 
-[[Deut.21|Deuteronomy 21:15 - Deuteronomy 21:17]]
+<small>[[Deut.21|Deuteronomy 21:15-17]]</small>
 *Inheritance Rights of the Firstborn*
 
 [[Deut.21.15|15]] If a man have two wives, one beloved, and another hated, and they have born him children, \[both\] the beloved and the hated; and \[if\] the firstborn son be hers that was hated:

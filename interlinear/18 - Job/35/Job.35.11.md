@@ -1,8 +1,54 @@
+---
+title: Job 35:11
+type: Verse
+kjv: "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+bsb: "who teaches us more than the beasts of the earth and makes us wiser than the birds of the air?’"
+hebrew: "מַ֭לְּפֵנוּ מִבַּהֲמ֣וֹת אָ֑רֶץ וּמֵע֖וֹף הַשָּׁמַ֣יִם יְחַכְּמֵֽנוּ׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0502]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H0929]]"
+- "[[H0776H]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H2449]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:11**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?
 <small><sub>**BSB:**</sub></small>
 who teaches us more than the beasts of the earth and makes us wiser than the birds of the air?’
+<small><sub>**Hebrew:**</sub></small>
+[[H0502\|מַ֭לְּפֵ]][[H9035\|נוּ]] [[H9006\|מִ]][[H0929\|בַּהֲמ֣וֹת]] [[H0776H\|אָ֑רֶץ]] [[H9002\|וּ]][[H9006\|מֵ]][[H5775\|ע֖וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H2449\|יְחַכְּמֵֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic RELIGION|RELIGION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.10|<< Job 35:10]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.12|Job 35:12 >>]]</td></tr></table>
 

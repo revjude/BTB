@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 17:2
+type: Verse
+kjv: "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken."
+bsb: "He stationed troops in every fortified city of Judah and put garrisons in the land of Judah and in the cities of Ephraim that his father Asa had captured."
+hebrew: "וַיִּ֨תֶּן־ חַ֔יִל בְּכָל־ עָרֵ֥י יְהוּדָ֖ה הַבְּצֻר֑וֹת וַיִּתֵּ֤ן נְצִיבִים֙ בְּאֶ֣רֶץ יְהוּדָ֔ה וּבְעָרֵ֣י אֶפְרַ֔יִם אֲשֶׁ֥ר לָכַ֖ד אָסָ֥א אָבִֽיו׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9014]]"
+- "[[H2428A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H1219]]"
+- "[[H5333]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H0834A]]"
+- "[[H3920]]"
+- "[[H0609G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:2**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.
 <small><sub>**BSB:**</sub></small>
 He stationed troops in every fortified city of Judah and put garrisons in the land of Judah and in the cities of Ephraim that his father Asa had captured.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּ֨תֶּן]][[H9014\|־]] [[H2428A\|חַ֔יִל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H9009\|הַ]][[H1219\|בְּצֻר֑וֹת]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֤ן]] [[H5333\|נְצִיבִים֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֣י]] [[H0669G\|אֶפְרַ֔יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3920\|לָכַ֖ד]] [[H0609G\|אָסָ֥א]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.1|<< 2 Chronicles 17:1]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.3|2 Chronicles 17:3 >>]]</td></tr></table>
 

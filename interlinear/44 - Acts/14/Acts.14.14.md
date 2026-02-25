@@ -1,10 +1,64 @@
+---
+title: Acts 14:14
+type: Verse
+kjv: "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,"
+bsb: "But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,"
+greek: "Ἀκούσαντες δὲ οἱ ἀπόστολοι Βαρναβᾶς καὶ Παῦλος διαρρήξαντες τὰ ἱμάτια αὐτῶν ἐξεπήδησαν εἰς τὸν ὄχλον κράζοντες"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G0921G]]"
+- "[[G2532]]"
+- "[[G3972G]]"
+- "[[G1284]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G6030]]"
+- "[[G1519]]"
+- "[[G3793]]"
+- "[[G2896]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 14:14**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Which] when the apostles, Barnabas and Paul, heard [of], they rent their clothes, and ran in among the people, crying out,
 <small><sub>**BSB:**</sub></small>
 But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,
-<small><sub>**Literal:**</sub></small>
-Having heard however the apostles Barnabas and Paul having torn the garments of them rushed out into the crowd crying out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.13|<< Acts 14:13]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.15|Acts 14:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσαντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G0921G\|Βαρναβᾶς]]  [[G2532\|καὶ]]  [[G3972G\|Παῦλος]]  [[G1284\|διαρρήξαντες]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτῶν]]  [[G6030\|ἐξεπήδησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2896\|κράζοντες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic HOMAGE|HOMAGE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PAUL|PAUL]] • [[topic RENDING|RENDING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.13|<< Acts 14:13]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.15|Acts 14:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

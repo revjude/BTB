@@ -1,10 +1,58 @@
+---
+title: Acts 11:11
+type: Verse
+kjv: "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me."
+bsb: "Just then three men sent to me from Caesarea stopped at the house where I was staying."
+greek: "καὶ ἰδοὺ ἐξαυτῆς τρεῖς ἄνδρες ἐπέστησαν ἐπὶ τὴν οἰκίαν ἐν ᾗ ἦμεν ἀπεσταλμένοι ἀπὸ Καισαρείας πρός με."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1824]]"
+- "[[G5140]]"
+- "[[G0435G]]"
+- "[[G2186]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G0649]]"
+- "[[G0575]]"
+- "[[G2542H]]"
+- "[[G4314]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 11:11**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.
 <small><sub>**BSB:**</sub></small>
 Just then three men sent to me from Caesarea stopped at the house where I was staying.
-<small><sub>**Literal:**</sub></small>
-and behold immediately three men stood at the house in which I was sent from Caesarea to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.10|<< Acts 11:10]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.12|Acts 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1824\|ἐξαυτῆς]]  [[G5140\|τρεῖς]]  [[G0435G\|ἄνδρες]]  [[G2186\|ἐπέστησαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G1510\|ἦμεν]]  [[G0649\|ἀπεσταλμένοι]]  [[G0575\|ἀπὸ]]  [[G2542H\|Καισαρείας]]  [[G4314\|πρός]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.10|<< Acts 11:10]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.12|Acts 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

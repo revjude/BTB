@@ -1,10 +1,61 @@
+---
+title: Hebrews 4:15
+type: Verse
+kjv: "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin."
+bsb: "For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin."
+greek: "οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ᾽ ὁμοιότητα χωρὶς ἁμαρτίας."
+pericope: "[[Heb.4.12 The Living Word|The Living Word]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2192]]"
+- "[[G0749]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G4834]]"
+- "[[G3588]]"
+- "[[G0769G]]"
+- "[[G3165]]"
+- "[[G3985G]]"
+- "[[G1161]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3665]]"
+- "[[G5565]]"
+- "[[G0266]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 4:15**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as [we are, yet] without sin.
 <small><sub>**BSB:**</sub></small>
 For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin.
-<small><sub>**Literal:**</sub></small>
-Not for have we a high priest not being able to sympathize with the weaknesses of us, tempted however in all things by [the] same way without sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.14|<< Hebrews 4:14]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.16|Hebrews 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2192\|ἔχομεν]]  [[G0749\|ἀρχιερέα]]  [[G3361\|μὴ]]  [[G1410\|δυνάμενον]]  [[G4834\|συμπαθῆσαι]]  [[G3588\|ταῖς]]  [[G0769G\|ἀσθενείαις]]  [[G3165\|ἡμῶν,]]  [[G3985G\|πεπειρασμένον]]  [[G1161\|δὲ]]  [[G2596\|κατὰ]]  [[G3956\|πάντα]]  [[G2596\|καθ᾽]]  [[G3665\|ὁμοιότητα]]  [[G5565\|χωρὶς]]  [[G0266\|ἁμαρτίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.14|<< Hebrews 4:14]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.16|Hebrews 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

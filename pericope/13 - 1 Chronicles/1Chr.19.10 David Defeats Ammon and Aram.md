@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Defeats Ammon and Aram
+type: Pericope
 pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 19
 book/chapter: "[[1Chr.19|1 Chronicles 19]]"
-genre:
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 10
 verses:
 - "[[1Chr.19.10]]"
 - "[[1Chr.19.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Chr.19.19]]"
 ---
 
-[[1Chr.19|1 Chronicles 19:10 - 1 Chronicles 19:19]]
+<small>[[1Chr.19|1 Chronicles 19:10-19]]</small>
 *David Defeats Ammon and Aram*
 
 [[1Chr.19.10|10]] Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put \[them\] in array against the Syrians.

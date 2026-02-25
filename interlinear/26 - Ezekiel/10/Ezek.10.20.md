@@ -1,8 +1,57 @@
+---
+title: Ezekiel 10:20
+type: Verse
+kjv: "This is the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they were the cherubims."
+bsb: "These were the living creatures I had seen beneath the God of Israel by the River Kebar, and I knew that they were cherubim."
+hebrew: "הִ֣יא הַחַיָּ֗ה אֲשֶׁ֥ר רָאִ֛יתִי תַּ֥חַת אֱלֹהֵֽי־ יִשְׂרָאֵ֖ל בִּֽנְהַר־ כְּבָ֑ר וָאֵדַ֕ע כִּ֥י כְרוּבִ֖ים הֵֽמָּה׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H8478G]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H5104H]]"
+- "[[H3529]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3742]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:20**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they [were] the cherubims.
 <small><sub>**BSB:**</sub></small>
 These were the living creatures I had seen beneath the God of Israel by the River Kebar, and I knew that they were cherubim.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הִ֣יא]] [[H9009\|הַ]][[H2416C\|חַיָּ֗ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|רָאִ֛יתִי]] [[H8478G\|תַּ֥חַת]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בִּֽ]][[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָ֑ר]] [[H9001\|וָ]][[H3045\|אֵדַ֕ע]] [[H3588A\|כִּ֥י]] [[H3742\|כְרוּבִ֖ים]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.19|<< Ezekiel 10:19]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.21|Ezekiel 10:21 >>]]</td></tr></table>
 

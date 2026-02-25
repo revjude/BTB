@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Number of Every Tribe
+type: Pericope
 pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 1
 book/chapter: "[[Num.1|Numbers 1]]"
-genre:
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 30
 verses:
 - "[[Num.1.17]]"
 - "[[Num.1.18]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Num.1.46]]"
 ---
 
-[[Num.1|Numbers 1:17 - Numbers 1:46]]
+<small>[[Num.1|Numbers 1:17-46]]</small>
 *The Number of Every Tribe*
 
 [[Num.1.17|17]] And Moses and Aaron took these men which are expressed by \[their\] names:

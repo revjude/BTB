@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 18:21
+type: Verse
+kjv: "Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran."
+bsb: "So Joab said to a Cushite, “Go, tell the king what you have seen.” The Cushite bowed to Joab and took off running."
+hebrew: "וַיֹּ֤אמֶר יוֹאָב֙ לַכּוּשִׁ֔י לֵ֛ךְ הַגֵּ֥ד לַמֶּ֖לֶךְ אֲשֶׁ֣ר רָאִ֑יתָה וַיִּשְׁתַּ֧חוּ כוּשִׁ֛י לְיוֹאָ֖ב וַיָּרֹֽץ׃"
+pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3097G]]"
+- "[[H9005]]"
+- "[[H3569G]]"
+- "[[H1980G]]"
+- "[[H5046]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H7812]]"
+- "[[H7323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:21**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.
 <small><sub>**BSB:**</sub></small>
 So Joab said to a Cushite, “Go, tell the king what you have seen.” The Cushite bowed to Joab and took off running.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3097G\|יוֹאָב֙]] [[H9005\|לַ]][[H3569G\|כּוּשִׁ֔י]] [[H1980G\|לֵ֛ךְ]] [[H5046\|הַגֵּ֥ד]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רָאִ֑יתָה]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֧חוּ]] [[H3569G\|כוּשִׁ֛י]] [[H9005\|לְ]][[H3097G\|יוֹאָ֖ב]] [[H9001\|וַ]][[H7323G\|יָּרֹֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
 

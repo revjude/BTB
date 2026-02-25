@@ -1,8 +1,61 @@
+---
+title: Genesis 5:1
+type: Verse
+kjv: "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+bsb: "This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness."
+hebrew: "זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃"
+pericope: "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BOOK|BOOK]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H2088]]"
+- "[[H5612H]]"
+- "[[H8435]]"
+- "[[H0121G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1254A]]"
+- "[[H0430G]]"
+- "[[H0120G]]"
+- "[[H1823]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:1**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
 <small><sub>**BSB:**</sub></small>
 This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H5612H\|סֵ֔פֶר]] [[H8435\|תּוֹלְדֹ֖ת]] [[H0121G\|אָדָ֑ם]] [[H9003\|בְּ]][[H3117G\|י֗וֹם]] [[H1254A\|בְּרֹ֤א]] [[H0430G\|אֱלֹהִים֙]] [[H0120G\|אָדָ֔ם]] [[H9003\|בִּ]][[H1823\|דְמ֥וּת]] [[H0430G\|אֱלֹהִ֖ים]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BOOK|BOOK]] • [[topic GOD|GOD]] • [[topic IMAGE|IMAGE]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.26|<< Genesis 4:26]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.2|Genesis 5:2 >>]]</td></tr></table>
 

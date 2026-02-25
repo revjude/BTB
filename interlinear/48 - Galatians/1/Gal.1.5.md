@@ -1,10 +1,41 @@
+---
+title: Galatians 1:5
+type: Verse
+kjv: "To whom be glory for ever and ever. Amen."
+bsb: "to whom be glory forever and ever. Amen."
+greek: "ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[Gal.1.1 Paul’s Greeting to the Galatians|Paul’s Greeting to the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Galatians 1:5**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 to whom be glory forever and ever. Amen.
-<small><sub>**Literal:**</sub></small>
-to whom [be] the glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.4|<< Galatians 1:4]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.6|Galatians 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.4|<< Galatians 1:4]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.6|Galatians 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

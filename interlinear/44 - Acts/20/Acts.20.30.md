@@ -1,10 +1,57 @@
+---
+title: Acts 20:30
+type: Verse
+kjv: "Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them."
+bsb: "Even from your own number, men will rise up and distort the truth to draw away disciples after them."
+greek: "καὶ ἐξ ὑμῶν αὐτῶν ἀναστήσονται ἄνδρες λαλοῦντες διεστραμμένα τοῦ ἀποσπᾶν τοὺς μαθητὰς ὀπίσω αὐτῶν."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G0846]]"
+- "[[G0450]]"
+- "[[G0435G]]"
+- "[[G2980]]"
+- "[[G1294]]"
+- "[[G3588]]"
+- "[[G0645]]"
+- "[[G3101]]"
+- "[[G3694]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 20:30**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them.
 <small><sub>**BSB:**</sub></small>
 Even from your own number, men will rise up and distort the truth to draw away disciples after them.
-<small><sub>**Literal:**</sub></small>
-and out from your own selves will rise up men speaking perverted [things] such that to draw away <the> disciples after them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.29|<< Acts 20:29]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.31|Acts 20:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G0846\|αὐτῶν]]  [[G0450\|ἀναστήσονται]]  [[G0435G\|ἄνδρες]]  [[G2980\|λαλοῦντες]]  [[G1294\|διεστραμμένα]]  [[G3588\|τοῦ]]  [[G0645\|ἀποσπᾶν]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G3694\|ὀπίσω]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.29|<< Acts 20:29]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.31|Acts 20:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

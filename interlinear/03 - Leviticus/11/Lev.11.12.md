@@ -1,8 +1,62 @@
+---
+title: Leviticus 11:12
+type: Verse
+kjv: "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+bsb: "Everything in the water that does not have fins and scales shall be detestable to you."
+hebrew: "כֹּ֣ל אֲשֶׁ֥ר אֵֽין־ ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת בַּמָּ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5579]]"
+- "[[H9002]]"
+- "[[H7193]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H8263]]"
+- "[[H1931]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:12**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever hath no fins nor scales in the waters, that [shall be] an abomination unto you.
 <small><sub>**BSB:**</sub></small>
 Everything in the water that does not have fins and scales shall be detestable to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H5579\|סְנַפִּ֥יר]] [[H9002\|וְ]][[H7193\|קַשְׂקֶ֖שֶׂת]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H8263\|שֶׁ֥קֶץ]] [[H1931\|ה֖וּא]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.11|<< Leviticus 11:11]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.13|Leviticus 11:13 >>]]</td></tr></table>
 

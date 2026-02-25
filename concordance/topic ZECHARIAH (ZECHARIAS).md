@@ -23,7 +23,7 @@
 
 → 10. High priest, and son or grandson of Jehoiada
 
-- Put to death for prophesying against Jerusalem [[2Chr.24.20|2Ch  24:20]]-[[2Chr.24.22|22]],[[2Chr.24.25|25]]; [[Matt.23.35|Mt 23:35]]; [[Luke.11.51|Lu 11:51]]
+- Put to death for prophesying against Jerusalem [[2Chr.24.20|2Ch  24:20-22]],[[2Chr.24.25|25]]; [[Matt.23.35|Mt 23:35]]; [[Luke.11.51|Lu 11:51]]
 
 → 11. A prophet during the reign of Uzziah [[2Chr.26.5|2Ch 26:5]]
 

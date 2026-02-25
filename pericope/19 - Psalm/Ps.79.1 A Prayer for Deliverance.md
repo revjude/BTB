@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prayer for Deliverance
+type: Pericope
 pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 79
 book/chapter: "[[Ps.79|Psalm 79]]"
-genre:
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.79.0]]"
 - "[[Ps.79.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.79.13]]"
 ---
 
-[[Ps.79|Psalm 79:1 - Psalm 79:13]]
+<small>[[Ps.79|Psalm 79:1-13]]</small>
 *A Prayer for Deliverance*
 
 [[Ps.79.0|0]] A Psalm of Asaph.

@@ -1,8 +1,67 @@
+---
+title: Isaiah 21:9
+type: Verse
+kjv: "And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground."
+bsb: "Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!”"
+hebrew: "וְהִנֵּה־ זֶ֥ה בָא֙ רֶ֣כֶב אִ֔ישׁ צֶ֖מֶד פָּֽרָשִׁ֑ים וַיַּ֣עַן וַיֹּ֗אמֶר נָפְלָ֤ה נָֽפְלָה֙ בָּבֶ֔ל וְכָל־ פְּסִילֵ֥י אֱלֹהֶ֖יהָ שִׁבַּ֥ר לָאָֽרֶץ׃"
+pericope: "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H7393G]]"
+- "[[H0376G]]"
+- "[[H6776]]"
+- "[[H6571B]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H5307G]]"
+- "[[H0894]]"
+- "[[H3605]]"
+- "[[H6456]]"
+- "[[H0430]]"
+- "[[H9024]]"
+- "[[H7665]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:9**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, here cometh a chariot of men, [with] a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.
 <small><sub>**BSB:**</sub></small>
 Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H0935G\|בָא֙]] [[H7393G\|רֶ֣כֶב]] [[H0376G\|אִ֔ישׁ]] [[H6776\|צֶ֖מֶד]] [[H6571B\|פָּֽרָשִׁ֑ים]] [[H9001\|וַ]][[H6030B\|יַּ֣עַן]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5307G\|נָפְלָ֤ה]] [[H5307G\|נָֽפְלָה֙]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6456\|פְּסִילֵ֥י]] [[H0430\|אֱלֹהֶ֖י]][[H9024\|הָ]] [[H7665\|שִׁבַּ֥ר]] [[H9005\|לָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]] • [[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.8|<< Isaiah 21:8]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.10|Isaiah 21:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

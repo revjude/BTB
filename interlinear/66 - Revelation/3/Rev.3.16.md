@@ -1,10 +1,63 @@
+---
+title: Revelation 3:16
+type: Verse
+kjv: "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+bsb: "So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth!"
+jesus_said: "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+greek: "οὕτως ὅτι χλιαρὸς εἶ καὶ οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου,"
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3779]]"
+- "[[G3754H]]"
+- "[[G5513]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3777]]"
+- "[[G2200]]"
+- "[[G5593]]"
+- "[[G3195]]"
+- "[[G4771]]"
+- "[[G1692]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 3:16**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
 <small><sub>**BSB:**</sub></small>
 So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth!
-<small><sub>**Literal:**</sub></small>
-So because lukewarm you are and neither hot nor cold, I am about you to spit out of the mouth of Mine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.15|<< Revelation 3:15]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.17|Revelation 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G3754H\|ὅτι]]  [[G5513\|χλιαρὸς]]  [[G1510\|εἶ]]  [[G2532\|καὶ]]  [[G3777\|οὔτε]]  [[G2200\|ζεστὸς]]  [[G3777\|οὔτε]]  [[G5593\|ψυχρός,]]  [[G3195\|μέλλω]]  [[G4771\|σε]]  [[G1692\|ἐμέσαι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματός]]  [[G3165\|μου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LAODICEA|LAODICEA]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.15|<< Revelation 3:15]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.17|Revelation 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

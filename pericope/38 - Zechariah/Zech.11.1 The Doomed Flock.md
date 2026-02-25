@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Doomed Flock
+type: Pericope
 pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 11
 book/chapter: "[[Zech.11|Zechariah 11]]"
-genre:
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 9
 verses:
 - "[[Zech.11.1]]"
 - "[[Zech.11.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Zech.11.9]]"
 ---
 
-[[Zech.11|Zechariah 11:1 - Zechariah 11:9]]
+<small>[[Zech.11|Zechariah 11:1-9]]</small>
 *The Doomed Flock*
 
 [[Zech.11.1|1]] Open thy doors, O Lebanon, that the fire may devour thy cedars.

@@ -1,10 +1,53 @@
+---
+title: Philippians 1:26
+type: Verse
+kjv: "That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again."
+bsb: "so that through my coming to you again your exultation in Christ Jesus will resound on account of me."
+greek: "ἵνα τὸ καύχημα ὑμῶν περισσεύῃ ἐν Χριστῷ Ἰησοῦ ἐν ἐμοὶ διὰ τῆς ἐμῆς παρουσίας πάλιν πρὸς ὑμᾶς."
+pericope: "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G2745]]"
+- "[[G4771]]"
+- "[[G4052]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G1223]]"
+- "[[G3952]]"
+- "[[G3825]]"
+- "[[G4314]]"
+texts:
+- NKO
+---
+
 **Philippians 1:26**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
 <small><sub>**BSB:**</sub></small>
 so that through my coming to you again your exultation in Christ Jesus will resound on account of me.
-<small><sub>**Literal:**</sub></small>
-so that the boasting of you may abound to Christ Jesus in me myself through <the> my coming again to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.25|<< Philippians 1:25]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.27|Philippians 1:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G2745\|καύχημα]]  [[G4771\|ὑμῶν]]  [[G4052\|περισσεύῃ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1473\|ἐμῆς]]  [[G3952\|παρουσίας]]  [[G3825\|πάλιν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.25|<< Philippians 1:25]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.27|Philippians 1:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

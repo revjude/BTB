@@ -1,10 +1,64 @@
+---
+title: Mark 4:1
+type: Verse
+kjv: "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land."
+bsb: "Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore."
+greek: "Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν. καὶ συνάγεται πρὸς αὐτὸν ὄχλος πλεῖστος ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα τὸ καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν."
+pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G0757]]"
+- "[[G1321]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G4863]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3793]]"
+- "[[G4118]]"
+- "[[G5620]]"
+- "[[G1519]]"
+- "[[G4143]]"
+- "[[G1684]]"
+- "[[G2521]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G1909]]"
+- "[[G1093H]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 4:1**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore.
-<small><sub>**Literal:**</sub></small>
-And again He began to teach beside the sea. And are gathered together to Him a crowd greatest so that He into a boat having climbed <the> sitting in the sea, and all the crowd close to the sea on the land was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.35|<< Mark 3:35]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.2|Mark 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3825\|πάλιν]]  [[G0757\|ἤρξατο]]  [[G1321\|διδάσκειν]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν.]]  [[G2532\|καὶ]]  [[G4863\|συνάγεται]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3793\|ὄχλος]]  [[G4118\|πλεῖστος]]  [[G5620\|ὥστε]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G4143\|πλοῖον]]  [[G1684\|ἐμβάντα]]  [[G3588\|τὸ]]  [[G2521\|καθῆσθαι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G1510\|ἦσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.35|<< Mark 3:35]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.2|Mark 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

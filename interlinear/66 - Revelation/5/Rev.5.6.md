@@ -1,10 +1,79 @@
+---
+title: Revelation 5:6
+type: Verse
+kjv: "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth."
+bsb: "Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven spirits of God sent out into all the earth."
+greek: "καὶ εἶδον καὶ ἰδού, ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων ἀρνίον ἑστηκὸς ὡς ἐσφαγμένον ἔχων κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτὰ οἵ εἰσιν τὰ ἑπτὰ πνεύματα τοῦ θεοῦ τὰ ἀπεσταλμένοι εἰς πᾶσαν τὴν γῆν."
+pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G4245G]]"
+- "[[G0721]]"
+- "[[G2476]]"
+- "[[G5613]]"
+- "[[G4969]]"
+- "[[G2192]]"
+- "[[G2768]]"
+- "[[G2033]]"
+- "[[G3788]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- K
+- NK(o)
+- N(k)O
+---
+
 **Revelation 5:6**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 <small><sub>**BSB:**</sub></small>
 Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven spirits of God sent out into all the earth.
-<small><sub>**Literal:**</sub></small>
-And I saw and behold in [the] midst of the throne and of the four living creatures and in [the] midst of the elders a Lamb standing as slain having horns seven and eyes seven which are the seven Spirits <the> of God which sent out into all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.5|<< Revelation 5:5]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.7|Revelation 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδού,]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G0721\|ἀρνίον]]  [[G2476\|ἑστηκὸς]]  [[G5613\|ὡς]]  [[G4969\|ἐσφαγμένον]]  [[G2192\|ἔχων]]  [[G2768\|κέρατα]]  [[G2033\|ἑπτὰ]]  [[G2532\|καὶ]]  [[G3788\|ὀφθαλμοὺς]]  [[G2033\|ἑπτὰ]]  [[G3739\|οἵ]]  [[G1510\|εἰσιν]]  [[G3588\|τὰ]]  [[G2033\|ἑπτὰ]]  [[G4151G\|πνεύματα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τὰ]]  [[G0649\|ἀπεσταλμένοι]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G1093G\|γῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SEVEN|SEVEN]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.5|<< Revelation 5:5]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.7|Revelation 5:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 5:6** is...
 > $\quad$ possibly alluding to: [[LXX.2Chr.16.9|2Chr 16:9]] ☩ [[LXX.Isa.53.7|Isa 53:7]] ☩ [[LXX.Zech.4.10|Zech 4:10]]

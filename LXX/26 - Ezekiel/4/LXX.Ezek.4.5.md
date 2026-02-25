@@ -1,6 +1,62 @@
+---
+title: LXX Ezekiel 4:5
+type: Verse
+lxx: "And I have appointed to you the two things for their iniquities for a number of days -- ninety and three hundred days; and you shall take the iniquities of the house of Israel."
+greek: "και εγώ δέδωκά σοι τας δύο αδικίας αυτών εις αριθμόν ημερών εννενήκοντα και τριακοσίας ημέρας και λήψη τας αδικίας του οίκου Ισραήλ"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G0093]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0706]]"
+- "[[G2250]]"
+- "[[G7249]]"
+- "[[G2532]]"
+- "[[G5145]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2474]]"
+---
+
 **LXX Ezekiel 4:5** 
 <small><sub>**LXX:**</sub></small>
 And I have appointed to you the two \[things\] for their iniquities for a number of days -- ninety and three hundred days; and you shall take the iniquities of the house of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|εγώ]] [[G1325\|δέδωκά]] [[G1473\|σοι]] [[G3588\|τας]] [[G1417\|δύο]] [[G0093\|αδικίας]] [[G1473\|αυτών]] [[G1519\|εις]] [[G0706\|αριθμόν]] [[G2250\|ημερών]] [[G7249\|εννενήκοντα]] [[G2532\|και]] [[G5145\|τριακοσίας]] [[G2250\|ημέρας]] [[G2532\|και]] [[G2983\|λήψη]] [[G3588\|τας]] [[G0093\|αδικίας]] [[G3588\|του]] [[G3624\|οίκου]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.4|<< Ezekiel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.6|Ezekiel 4:6 >>]]</td></tr></table>
 
@@ -27,6 +83,6 @@ And I have appointed to you the two \[things\] for their iniquities for a number
 | of the | **<big>[[G3588\|του]]</big>** |
 | house | **<big>[[G3624\|οίκου]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Ezek.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.4|<< Ezekiel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.6|Ezekiel 4:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.4|<< Ezekiel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.6|Ezekiel 4:6 >>]]</td></tr></table>
 
 

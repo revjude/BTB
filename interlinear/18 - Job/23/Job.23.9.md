@@ -1,8 +1,54 @@
+---
+title: Job 23:9
+type: Verse
+kjv: "On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:"
+bsb: "When He is at work in the north, I cannot behold Him; when He turns to the south, I cannot see Him."
+hebrew: "שְׂמֹ֣אול בַּעֲשֹׂת֣וֹ וְלֹא־ אָ֑חַז יַעְטֹ֥ף יָ֝מִ֗ין וְלֹ֣א אֶרְאֶֽה׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H8040G]]"
+- "[[H9003]]"
+- "[[H6213A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2372]]"
+- "[[H5848A]]"
+- "[[H3225G]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:9**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the left hand, where he doth work, but I cannot behold [him]: he hideth himself on the right hand, that I cannot see [him]:
 <small><sub>**BSB:**</sub></small>
 When He is at work in the north, I cannot behold Him; when He turns to the south, I cannot see Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H8040G\|שְׂמֹ֣אול]] [[H9003\|בַּ]][[H6213A\|עֲשֹׂת֣]][[H9043\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2372\|אָ֑חַז]] [[H5848A\|יַעְטֹ֥ף]] [[H3225G\|יָ֝מִ֗ין]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|אֶרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.8|<< Job 23:8]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.10|Job 23:10 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: James 5:14
+type: Verse
+kjv: "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+bsb: "Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord."
+greek: "ἀσθενεῖ τις ἐν ὑμῖν; προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας καὶ προσευξάσθωσαν ἐπ᾽ αὐτὸν ἀλείψαντες αὐτὸν ἐλαίῳ ἐν τῷ ὀνόματι τοῦ κυρίου."
+pericope: "[[Jas.5.13 The Prayer of Faith|The Prayer of Faith]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[G0770H]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G4245G]]"
+- "[[G1577]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G0218]]"
+- "[[G1637]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **James 5:14**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
 <small><sub>**BSB:**</sub></small>
 Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord.
-<small><sub>**Literal:**</sub></small>
-Is sick anyone among you? he should call near the elders of the church and they should pray over him having anointed him with oil in the name of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.13|<< James 5:13]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.15|James 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0770H\|ἀσθενεῖ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν;]]  [[G4341\|προσκαλεσάσθω]]  [[G3588\|τοὺς]]  [[G4245G\|πρεσβυτέρους]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G2532\|καὶ]]  [[G4336\|προσευξάσθωσαν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G0218\|ἀλείψαντες]]  [[G0846\|αὐτὸν]]  [[G1637\|ἐλαίῳ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic INTERCESSION|INTERCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.13|<< James 5:13]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.15|James 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

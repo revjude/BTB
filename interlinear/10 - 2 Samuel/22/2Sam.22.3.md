@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 22:3
+type: Verse
+kjv: "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+bsb: "My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence."
+hebrew: "אֱלֹהֵ֥י צוּרִ֖י אֶחֱסֶה־ בּ֑וֹ מָגִנִּ֞י וְקֶ֣רֶן יִשְׁעִ֗י מִשְׂגַּבִּי֙ וּמְנוּסִ֔י מֹשִׁעִ֕י מֵחָמָ֖ס תֹּשִׁעֵֽנִי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FORT|FORT]]"
+- "[[topic HORN|HORN]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H0430G]]"
+- "[[H6697H]]"
+- "[[H9020]]"
+- "[[H2620]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4043]]"
+- "[[H9002]]"
+- "[[H7161A]]"
+- "[[H3468]]"
+- "[[H4869A]]"
+- "[[H4498]]"
+- "[[H3467]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H2555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:3**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The God of my rock; in him will I trust: [he is] my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.
 <small><sub>**BSB:**</sub></small>
 My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהֵ֥י]] [[H6697H\|צוּרִ֖]][[H9020\|י]] [[H2620\|אֶחֱסֶה]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H4043\|מָגִנִּ֞]][[H9020\|י]] [[H9002\|וְ]][[H7161A\|קֶ֣רֶן]] [[H3468\|יִשְׁעִ֗]][[H9020\|י]] [[H4869A\|מִשְׂגַּבִּ]][[H9020\|י֙]] [[H9002\|וּ]][[H4498\|מְנוּסִ֔]][[H9020\|י]] [[H3467\|מֹשִׁעִ֕]][[H9030\|י]] [[H9006\|מֵ]][[H2555\|חָמָ֖ס]] [[H3467\|תֹּשִׁעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FORT|FORT]] • [[topic HORN|HORN]] • [[topic SHIELD|SHIELD]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.2|<< 2 Samuel 22:2]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.4|2 Samuel 22:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

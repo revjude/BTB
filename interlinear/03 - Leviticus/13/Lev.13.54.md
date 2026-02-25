@@ -1,8 +1,62 @@
+---
+title: Leviticus 13:54
+type: Verse
+kjv: "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:"
+bsb: "the priest is to order the contaminated article to be washed and isolated for another seven days."
+hebrew: "וְצִוָּה֙ הַכֹּהֵ֔ן וְכִ֨בְּס֔וּ אֵ֥ת אֲשֶׁר־ בּ֖וֹ הַנָּ֑גַע וְהִסְגִּיר֥וֹ שִׁבְעַת־ יָמִ֖ים שֵׁנִֽית׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3526H]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H5462]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:54**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall command that they wash [the thing] wherein the plague [is], and he shall shut it up seven days more:
 <small><sub>**BSB:**</sub></small>
 the priest is to order the contaminated article to be washed and isolated for another seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוָּה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וְ]][[H3526H\|כִ֨בְּס֔וּ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H5061\|נָּ֑גַע]] [[H9001\|וְ]][[H5462\|הִסְגִּיר֥]][[H9033\|וֹ]] [[H7651\|שִׁבְעַת]][[H9014\|־]] [[H3117G\|יָמִ֖ים]] [[H8145\|שֵׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.53|<< Leviticus 13:53]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.55|Leviticus 13:55 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon’s Idols
+type: Pericope
 pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 46
 book/chapter: "[[Isa.46|Isaiah 46]]"
-genre:
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.46.1]]"
 - "[[Isa.46.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.46.13]]"
 ---
 
-[[Isa.46|Isaiah 46:1 - Isaiah 46:13]]
+<small>[[Isa.46|Isaiah 46:1-13]]</small>
 *Babylon’s Idols*
 
 [[Isa.46.1|1]] Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages \[were\] heavy loaden; \[they are\] a burden to the weary \[beast\].

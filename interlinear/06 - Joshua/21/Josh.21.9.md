@@ -1,8 +1,59 @@
+---
+title: Joshua 21:9
+type: Verse
+kjv: "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,"
+bsb: "From the tribes of Judah and Simeon, they designated these cities by name"
+hebrew: "וַֽיִּתְּנ֗וּ מִמַּטֵּה֙ בְּנֵ֣י יְהוּדָ֔ה וּמִמַּטֵּ֖ה בְּנֵ֣י שִׁמְע֑וֹן אֵ֚ת הֶֽעָרִ֣ים הָאֵ֔לֶּה אֲשֶׁר־ יִקְרָ֥א אֶתְהֶ֖ן בְּשֵֽׁם׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H8095G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H9039]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:9**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are [here] mentioned by name,
 <small><sub>**BSB:**</sub></small>
 From the tribes of Judah and Simeon, they designated these cities by name
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5414G\|יִּתְּנ֗וּ]] [[H9006\|מִ]][[H4294H\|מַּטֵּה֙]] [[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֖ה]] [[H1121G\|בְּנֵ֣י]] [[H8095G\|שִׁמְע֑וֹן]] [[H0853\|אֵ֚ת]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|יִקְרָ֥א]] [[H0853\|אֶתְ]][[H9039\|הֶ֖ן]] [[H9003\|בְּ]][[H8034\|שֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.8|<< Joshua 21:8]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.10|Joshua 21:10 >>]]</td></tr></table>
 

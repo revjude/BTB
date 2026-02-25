@@ -1,10 +1,59 @@
+---
+title: Revelation 13:17
+type: Verse
+kjv: "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."
+bsb: "so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name."
+greek: "καὶ ἵνα μή τις δύνηται ἀγοράσαι ἢ πωλῆσαι εἰ μὴ ὁ ἔχων τὸ χάραγμα ἢ, τὸ ὄνομα τοῦ θηρίου ἢ τὸν ἀριθμὸν τοῦ ὀνόματος αὐτοῦ.¶"
+pericope: "[[Rev.13.16 The Mark of the Beast|The Mark of the Beast]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G1410]]"
+- "[[G0059]]"
+- "[[G2228]]"
+- "[[G4453]]"
+- "[[G1487H]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G5480]]"
+- "[[G3686]]"
+- "[[G2342]]"
+- "[[G0706]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- K
+---
+
 **Revelation 13:17**<big><big>[[Rev.13.16 The Mark of the Beast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
 <small><sub>**BSB:**</sub></small>
 so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name.
-<small><sub>**Literal:**</sub></small>
-and that no one may be able to buy or to sell only except the [one] having the mark — or the name of the beast or the number of the name of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.16|<< Revelation 13:16]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.18|Revelation 13:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G1410\|δύνηται]]  [[G0059\|ἀγοράσαι]]  [[G2228\|ἢ]]  [[G4453\|πωλῆσαι]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τὸ]]  [[G5480\|χάραγμα]]  [[G2228\|ἢ,]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G2228\|ἢ]]  [[G3588\|τὸν]]  [[G0706\|ἀριθμὸν]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.16|<< Revelation 13:16]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.18|Revelation 13:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

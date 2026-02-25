@@ -1,8 +1,54 @@
+---
+title: Job 15:8
+type: Verse
+kjv: "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?"
+bsb: "Do you listen in on the council of God or limit wisdom to yourself?"
+hebrew: "הַבְס֣וֹד אֱל֣וֹהַ תִּשְׁמָ֑ע וְתִגְרַ֖ע אֵלֶ֣יךָ חָכְמָֽה׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9008]]"
+- "[[H9003]]"
+- "[[H5475]]"
+- "[[H0433]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H1639]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:8**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?
 <small><sub>**BSB:**</sub></small>
 Do you listen in on the council of God or limit wisdom to yourself?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H9003\|בְ]][[H5475\|ס֣וֹד]] [[H0433\|אֱל֣וֹהַ]] [[H8085G\|תִּשְׁמָ֑ע]] [[H9002\|וְ]][[H1639\|תִגְרַ֖ע]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.7|<< Job 15:7]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.9|Job 15:9 >>]]</td></tr></table>
 

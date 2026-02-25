@@ -1,8 +1,72 @@
+---
+title: 2 Kings 23:29
+type: Verse
+kjv: "In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him."
+bsb: "During Josiah’s reign, Pharaoh Neco king of Egypt marched up to help the king of Assyria at the Euphrates River. King Josiah went out to confront him, but Neco faced him and killed him at Megiddo."
+hebrew: "בְּיָמָ֡יו עָלָה֩ פַרְעֹ֨ה נְכֹ֧ה מֶֽלֶךְ־ מִצְרַ֛יִם עַל־ מֶ֥לֶךְ אַשּׁ֖וּר עַל־ נְהַר־ פְּרָ֑ת וַיֵּ֨לֶךְ הַמֶּ֤לֶךְ יֹאשִׁיָּ֙הוּ֙ לִקְרָאת֔וֹ וַיְמִיתֵ֙הוּ֙ בִּמְגִדּ֔וֹ כִּרְאֹת֖וֹ אֹתֽוֹ׃"
+pericope: "[[2Kgs.23.28 The Death of Josiah|The Death of Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H6547Q]]"
+- "[[H5224H]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H0804G]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H2977G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H4191]]"
+- "[[H4023]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:29**<big><big>[[2Kgs.23.28 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
 <small><sub>**BSB:**</sub></small>
 During Josiah’s reign, Pharaoh Neco king of Egypt marched up to help the king of Assyria at the Euphrates River. King Josiah went out to confront him, but Neco faced him and killed him at Megiddo.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|יָמָ֡י]][[H9023\|ו]] [[H5927G\|עָלָה֩]] [[H6547Q\|פַרְעֹ֨ה]] [[H5224H\|נְכֹ֧ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֛יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּׁ֖וּר]] [[H5921A\|עַל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָ֑ת]] [[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H2977G\|יֹאשִׁיָּ֙הוּ֙]] [[H9005\|לִ]][[H7122G\|קְרָאת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H4191\|יְמִיתֵ֙]][[H9033\|הוּ֙]] [[H9003\|בִּ]][[H4023\|מְגִדּ֔וֹ]] [[H9004\|כִּ]][[H7200G\|רְאֹת֖]][[H9043\|וֹ]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic MEGIDDO|MEGIDDO]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.28|<< 2 Kings 23:28]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.30|2 Kings 23:30 >>]]</td></tr></table>
 

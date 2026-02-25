@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Philip and the Ethiopian
+type: Pericope
 pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Acts
 chapter: 8
 book/chapter: "[[Acts.8|Acts 8]]"
-genre:
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 14
 verses:
 - "[[Acts.8.26]]"
 - "[[Acts.8.27]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Acts.8.40]]"
 ---
 
-[[Acts.8|Acts 8:26 - Acts 8:40]]
+<small>[[Acts.8|Acts 8:26-40]]</small>
 *Philip and the Ethiopian*
 
 [[Acts.8.26|26]] And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.

@@ -1,8 +1,54 @@
+---
+title: Isaiah 49:17
+type: Verse
+kjv: "Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee."
+bsb: "Your builders hasten back; your destroyers and wreckers depart from you."
+hebrew: "מִֽהֲר֖וּ בָּנָ֑יִךְ מְהָֽרְסַ֥יִךְ וּמַחֲרִבַ֖יִךְ מִמֵּ֥ךְ יֵצֵֽאוּ׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H4116A]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H2040]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H2717B]]"
+- "[[H4480A]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:17**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.
 <small><sub>**BSB:**</sub></small>
 Your builders hasten back; your destroyers and wreckers depart from you.
+<small><sub>**Hebrew:**</sub></small>
+[[H4116A\|מִֽהֲר֖וּ]] [[H1121A\|בָּנָ֑יִ]][[H9022\|ךְ]] [[H2040\|מְהָֽרְסַ֥יִ]][[H9032\|ךְ]] [[H9002\|וּ]][[H2717B\|מַחֲרִבַ֖יִ]][[H9032\|ךְ]] [[H4480A\|מִמֵּ֥]][[H9032\|ךְ]] [[H3318G\|יֵצֵֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.16|<< Isaiah 49:16]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.18|Isaiah 49:18 >>]]</td></tr></table>
 

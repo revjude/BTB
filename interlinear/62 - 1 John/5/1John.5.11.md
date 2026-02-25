@@ -1,10 +1,60 @@
+---
+title: 1 John 5:11
+type: Verse
+kjv: "And this is the record, that God hath given to us eternal life, and this life is in his Son."
+bsb: "And this is that testimony: God has given us eternal life, and this life is in His Son."
+greek: "καὶ αὕτη ἐστὶν ἡ μαρτυρία ὅτι ζωὴν αἰώνιον ἔδωκεν ἡμῖν ὁ θεός· καὶ αὕτη ἡ ζωὴ ἐν τῷ υἱῷ αὐτοῦ ἐστιν."
+pericope: "[[1John.5.9 God’s Testimony about His Son|God’s Testimony about His Son]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3141]]"
+- "[[G3754G]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5207]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 John 5:11**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is the record, that God hath given to us eternal life, and this life is in his Son.
 <small><sub>**BSB:**</sub></small>
 And this is that testimony: God has given us eternal life, and this life is in His Son.
-<small><sub>**Literal:**</sub></small>
-And this is the testimony that life eternal has given to us <the> God; and this the life in the Son of Him is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.10|<< 1 John 5:10]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.12|1 John 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3754G\|ὅτι]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G1325\|ἔδωκεν]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]  [[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G2222\|ζωὴ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.10|<< 1 John 5:10]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.12|1 John 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

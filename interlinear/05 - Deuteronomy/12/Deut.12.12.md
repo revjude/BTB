@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 12:12
+type: Verse
+kjv: "And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he hath no part nor inheritance with you."
+bsb: "And you shall rejoice before the LORD your God—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates, since he has no portion or inheritance among you."
+hebrew: "וּשְׂמַחְתֶּ֗ם לִפְנֵי֮ יְהוָ֣ה אֱלֹֽהֵיכֶם֒ אַתֶּ֗ם וּבְנֵיכֶם֙ וּבְנֹ֣תֵיכֶ֔ם וְעַבְדֵיכֶ֖ם וְאַמְהֹתֵיכֶ֑ם וְהַלֵּוִי֙ אֲשֶׁ֣ר בְּשַֽׁעֲרֵיכֶ֔ם כִּ֣י אֵ֥ין ל֛וֹ חֵ֥לֶק וְנַחֲלָ֖ה אִתְּכֶֽם׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H5650]]"
+- "[[H0519]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179H]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9033]]"
+- "[[H2506A]]"
+- "[[H5159]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:12**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that [is] within your gates; forasmuch as he hath no part nor inheritance with you.
 <small><sub>**BSB:**</sub></small>
 And you shall rejoice before the LORD your God—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates, since he has no portion or inheritance among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8055\|שְׂמַחְתֶּ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֮]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֒]] [[H0859D\|אַתֶּ֗ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶם֙]] [[H9002\|וּ]][[H1323G\|בְנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H5650\|עַבְדֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H0519\|אַמְהֹתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לֵּוִי֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H8179H\|שַֽׁעֲרֵי]][[H9026\|כֶ֔ם]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H2506A\|חֵ֥לֶק]] [[H9002\|וְ]][[H5159\|נַחֲלָ֖ה]] [[H0854\|אִתְּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SERVANT|SERVANT]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.11|<< Deuteronomy 12:11]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.13|Deuteronomy 12:13 >>]]</td></tr></table>
 

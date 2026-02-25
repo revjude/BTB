@@ -1,8 +1,54 @@
+---
+title: Psalm 66:11
+type: Verse
+kjv: "Thou broughtest us into the net; thou laidst affliction upon our loins."
+bsb: "You led us into the net; You laid burdens on our backs."
+hebrew: "הֲבֵאתָ֥נוּ בַמְּצוּדָ֑ה שַׂ֖מְתָּ מוּעָקָ֣ה בְמָתְנֵֽינוּ׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic NET|NET]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0935P]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H4686A]]"
+- "[[H7760H]]"
+- "[[H4157]]"
+- "[[H4975]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:11**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou broughtest us into the net; thou laidst affliction upon our loins.
 <small><sub>**BSB:**</sub></small>
 You led us into the net; You laid burdens on our backs.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הֲבֵאתָ֥]][[H9035\|נוּ]] [[H9003\|בַ]][[H4686A\|מְּצוּדָ֑ה]] [[H7760H\|שַׂ֖מְתָּ]] [[H4157\|מוּעָקָ֣ה]] [[H9003\|בְ]][[H4975\|מָתְנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic NET|NET]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.10|<< Psalms 66:10]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.12|Psalms 66:12 >>]]</td></tr></table>
 

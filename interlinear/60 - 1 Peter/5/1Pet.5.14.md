@@ -1,10 +1,55 @@
+---
+title: 1 Peter 5:14
+type: Verse
+kjv: "Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen."
+bsb: "Greet one another with a kiss of love. Peace to all of you who are in Christ."
+greek: "ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἀγάπης. εἰρήνη ὑμῖν πᾶσιν τοῖς ἐν Χριστῷ Ἰησοῦ. ἀμήν.¶"
+pericope: "[[1Pet.5.10 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KISS|KISS]]"
+strongs:
+- "[[G0782]]"
+- "[[G0240]]"
+- "[[G1722]]"
+- "[[G5370]]"
+- "[[G0026]]"
+- "[[G1515]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+texts:
+- NKO
+- K
+---
+
 **1 Peter 5:14**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greet ye one another with a kiss of charity. Peace [be] with you all that are in Christ Jesus. Amen.
 <small><sub>**BSB:**</sub></small>
 Greet one another with a kiss of love. Peace to all of you who are in Christ.
-<small><sub>**Literal:**</sub></small>
-do greet one another with a kiss of love. Peace [be] to you all who [are] in Christ Jesus. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.13|<< 1 Peter 5:13]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.1|2 Peter 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀσπάσασθε]]  [[G0240\|ἀλλήλους]]  [[G1722\|ἐν]]  [[G5370\|φιλήματι]]  [[G0026\|ἀγάπης.]]  [[G1515\|εἰρήνη]]  [[G4771\|ὑμῖν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KISS|KISS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.13|<< 1 Peter 5:13]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.1|2 Peter 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

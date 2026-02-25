@@ -1,10 +1,59 @@
+---
+title: Luke 19:3
+type: Verse
+kjv: "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+bsb: "He was trying to see who Jesus was, but could not see over the crowd because he was small in stature."
+greek: "καὶ ἐζήτει ἰδεῖν τὸν Ἰησοῦν τίς ἐστιν καὶ οὐκ ἠδύνατο ἀπὸ τοῦ ὄχλου, ὅτι τῇ ἡλικίᾳ μικρὸς ἦν."
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0575]]"
+- "[[G3793]]"
+- "[[G3754H]]"
+- "[[G2244]]"
+- "[[G3398]]"
+texts:
+- NKO
+---
+
 **Luke 19:3**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
 <small><sub>**BSB:**</sub></small>
 He was trying to see who Jesus was, but could not see over the crowd because he was small in stature.
-<small><sub>**Literal:**</sub></small>
-And he was seeking to see <the> Jesus who He is and not he was able because of the crowd, because <the> in stature small he was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.2|<< Luke 19:2]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.4|Luke 19:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2212\|ἐζήτει]]  [[G1492H\|ἰδεῖν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1410\|ἠδύνατο]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου,]]  [[G3754H\|ὅτι]]  [[G3588\|τῇ]]  [[G2244\|ἡλικίᾳ]]  [[G3398\|μικρὸς]]  [[G1510\|ἦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.2|<< Luke 19:2]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.4|Luke 19:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

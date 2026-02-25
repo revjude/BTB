@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 23:13
+type: Verse
+kjv: "Then David and his men, which were about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth."
+bsb: "Then David and his men, about six hundred strong, set out and departed from Keilah, moving from place to place. When Saul was told that David had escaped from Keilah, he declined to go forth."
+hebrew: "וַיָּקָם֩ דָּוִ֨ד וַאֲנָשָׁ֜יו כְּשֵׁשׁ־ מֵא֣וֹת אִ֗ישׁ וַיֵּצְאוּ֙ מִקְּעִלָ֔ה וַיִּֽתְהַלְּכ֖וּ בַּאֲשֶׁ֣ר יִתְהַלָּ֑כוּ וּלְשָׁא֣וּל הֻגַּ֗ד כִּֽי־ נִמְלַ֤ט דָּוִד֙ מִקְּעִילָ֔ה וַיֶּחְדַּ֖ל לָצֵֽאת׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic KEILAH|KEILAH]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H7084]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H5046]]"
+- "[[H3588A]]"
+- "[[H4422]]"
+- "[[H2308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:13**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David and his men, [which were] about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.
 <small><sub>**BSB:**</sub></small>
 Then David and his men, about six hundred strong, set out and departed from Keilah, moving from place to place. When Saul was told that David had escaped from Keilah, he declined to go forth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקָם֩]] [[H1732\|דָּוִ֨ד]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֜י]][[H9023\|ו]] [[H9004\|כְּ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִ֗ישׁ]] [[H9001\|וַ]][[H3318G\|יֵּצְאוּ֙]] [[H9006\|מִ]][[H7084\|קְּעִלָ֔ה]] [[H9001\|וַ]][[H1980G\|יִּֽתְהַלְּכ֖וּ]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֣ר]] [[H1980G\|יִתְהַלָּ֑כוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H7586G\|שָׁא֣וּל]] [[H5046\|הֻגַּ֗ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4422\|נִמְלַ֤ט]] [[H1732\|דָּוִד֙]] [[H9006\|מִ]][[H7084\|קְּעִילָ֔ה]] [[H9001\|וַ]][[H2308\|יֶּחְדַּ֖ל]] [[H9005\|לָ]][[H3318G\|צֵֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic KEILAH|KEILAH]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.12|<< 1 Samuel 23:12]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.14|1 Samuel 23:14 >>]]</td></tr></table>
 

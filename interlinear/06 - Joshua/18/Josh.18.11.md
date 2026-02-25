@@ -1,8 +1,57 @@
+---
+title: Joshua 18:11
+type: Verse
+kjv: "And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph."
+bsb: "The first lot came up for the clans of the tribe of Benjamin. Their allotted territory lay between the tribes of Judah and Joseph:"
+hebrew: "וַיַּ֗עַל גּוֹרַ֛ל מַטֵּ֥ה בְנֵֽי־ בִנְיָמִ֖ן לְמִשְׁפְּחֹתָ֑ם וַיֵּצֵא֙ גְּב֣וּל גּֽוֹרָלָ֔ם בֵּ֚ין בְּנֵ֣י יְהוּדָ֔ה וּבֵ֖ין בְּנֵ֥י יוֹסֵֽף׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H1486]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H3318J]]"
+- "[[H1366H]]"
+- "[[H0996G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:11**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
 <small><sub>**BSB:**</sub></small>
 The first lot came up for the clans of the tribe of Benjamin. Their allotted territory lay between the tribes of Judah and Joseph:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֗עַל]] [[H1486\|גּוֹרַ֛ל]] [[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֖ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H3318J\|יֵּצֵא֙]] [[H1366H\|גְּב֣וּל]] [[H1486\|גּֽוֹרָלָ֔]][[H9028\|ם]] [[H0996G\|בֵּ֚ין]] [[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H1121G\|בְּנֵ֥י]] [[H3130G\|יוֹסֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.10|<< Joshua 18:10]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.12|Joshua 18:12 >>]]</td></tr></table>
 

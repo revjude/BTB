@@ -1,8 +1,70 @@
+---
+title: 1 Kings 12:31
+type: Verse
+kjv: "And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi."
+bsb: "Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites."
+hebrew: "וַיַּ֖עַשׂ אֶת־ בֵּ֣ית בָּמ֑וֹת וַיַּ֤עַשׂ כֹּֽהֲנִים֙ מִקְצ֣וֹת הָעָ֔ם אֲשֶׁ֥ר לֹֽא־ הָי֖וּ מִבְּנֵ֥י לֵוִֽי׃"
+pericope: "[[1Kgs.12.25 Jeroboam’s Idolatry|Jeroboam’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H1116]]"
+- "[[H6213A]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:31**<big><big>[[1Kgs.12.25 Jeroboam’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.
 <small><sub>**BSB:**</sub></small>
 Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֖עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H1116\|בָּמ֑וֹת]] [[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H3548\|כֹּֽהֲנִים֙]] [[H9006\|מִ]][[H7098\|קְצ֣וֹת]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָי֖וּ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic JEROBOAM|JEROBOAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic STATECRAFT|STATECRAFT]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.30|<< 1 Kings 12:30]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.32|1 Kings 12:32 >>]]</td></tr></table>
 

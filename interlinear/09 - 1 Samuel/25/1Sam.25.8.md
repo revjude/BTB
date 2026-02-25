@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 25:8
+type: Verse
+kjv: "Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David."
+bsb: "Ask your young men, and they will tell you. So let my young men find favor with you, for we have come on the day of a feast. Please give whatever you can spare to your servants and to your son David.’”"
+hebrew: "שְׁאַ֨ל אֶת־ נְעָרֶ֜יךָ וְיַגִּ֣ידוּ לָ֗ךְ וְיִמְצְא֨וּ הַנְּעָרִ֥ים חֵן֙ בְּעֵינֶ֔יךָ כִּֽי־ עַל־ י֥וֹם ט֖וֹב בָּ֑נוּ תְּנָה־ נָּ֗א אֵת֩ אֲשֶׁ֨ר תִּמְצָ֤א יָֽדְךָ֙ לַעֲבָדֶ֔יךָ וּלְבִנְךָ֖ לְדָוִֽד׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4672]]"
+- "[[H9009]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H3117G]]"
+- "[[H2896A]]"
+- "[[H0935G]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H0834A]]"
+- "[[H3027H]]"
+- "[[H5650]]"
+- "[[H1121A]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:8**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.
 <small><sub>**BSB:**</sub></small>
 Ask your young men, and they will tell you. So let my young men find favor with you, for we have come on the day of a feast. Please give whatever you can spare to your servants and to your son David.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שְׁאַ֨ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5288\|נְעָרֶ֜י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5046\|יַגִּ֣ידוּ]] [[H9005\|לָ֗]][[H9031\|ךְ]] [[H9002\|וְ]][[H4672\|יִמְצְא֨וּ]] [[H9009\|הַ]][[H5288\|נְּעָרִ֥ים]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H2896A\|ט֖וֹב]] [[H0935G\|בָּ֑נוּ]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֗א]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|תִּמְצָ֤א]] [[H3027H\|יָֽדְ]][[H9021\|ךָ֙]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בִנְ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.7|<< 1 Samuel 25:7]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.9|1 Samuel 25:9 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Jeremiah 43:8
+type: Verse
+kjv: "Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,"
+bsb: "Then the word of the LORD came to Jeremiah at Tahpanhes:"
+hebrew: "וַיְהִ֤י דְבַר־ יְהוָה֙ אֶֽל־ יִרְמְיָ֔הוּ בְּתַחְפַּנְחֵ֖ס לֵאמֹֽר׃"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TAHPANHES|TAHPANHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9003]]"
+- "[[H8471]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 43:8**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to Jeremiah at Tahpanhes:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H9003\|בְּ]][[H8471\|תַחְפַּנְחֵ֖ס]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic EGYPT|EGYPT]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]] • [[topic TAHPANHES|TAHPANHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.7|<< Jeremiah 43:7]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.9|Jeremiah 43:9 >>]]</td></tr></table>
 

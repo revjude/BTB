@@ -1,10 +1,69 @@
+---
+title: Matthew 8:32
+type: Verse
+kjv: "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters."
+bsb: "“Go!” He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters."
+jesus_said: "Go."
+greek: "καὶ εἶπεν αὐτοῖς· ὑπάγετε. οἱ δὲ ἐξελθόντες ἀπῆλθον εἰς τὴν ἀγέλην τοὺς χοίρους, καὶ ἰδοὺ ὥρμησεν πᾶσα ἡ ἀγέλη τῶν χοίρων κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν, καὶ ἀπέθανον ἐν τοῖς ὕδασιν."
+pericope: "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5217]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1831]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G0034]]"
+- "[[G5519]]"
+- "[[G2400]]"
+- "[[G3729]]"
+- "[[G3956]]"
+- "[[G2596]]"
+- "[[G2911]]"
+- "[[G2281]]"
+- "[[G0599]]"
+- "[[G1722]]"
+- "[[G5204]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 8:32**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.
 <small><sub>**BSB:**</sub></small>
 “Go!” He told them. So they came out and went into the pigs, and the whole herd rushed down the steep bank into the sea and died in the waters.
-<small><sub>**Literal:**</sub></small>
-And He said to them; do go. <the> And having gone out they went away into <the> herd <the> pigs, and behold rushed all the herd of the of pigs down the steep bank into the sea, and perished in the waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.31|<< Matthew 8:31]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.33|Matthew 8:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5217\|ὑπάγετε.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1831\|ἐξελθόντες]]  [[G0565\|ἀπῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0034\|ἀγέλην]]  [[G3588\|τοὺς]]  [[G5519\|χοίρους,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3729\|ὥρμησεν]]  [[G3956\|πᾶσα]]  [[G3588\|ἡ]]  [[G0034\|ἀγέλη]]  [[G3588\|τῶν]]  [[G5519\|χοίρων]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2911\|κρημνοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G2532\|καὶ]]  [[G0599\|ἀπέθανον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5204\|ὕδασιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.31|<< Matthew 8:31]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.33|Matthew 8:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

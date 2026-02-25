@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 21:15
+type: Verse
+kjv: "If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:"
+bsb: "If a man has two wives, one beloved and the other unloved, and both bear him sons, but the unloved wife has the firstborn son,"
+hebrew: "כִּֽי־ תִהְיֶ֨יןָ לְאִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים הָאַחַ֤ת אֲהוּבָה֙ וְהָאַחַ֣ת שְׂנוּאָ֔ה וְיָֽלְדוּ־ ל֣וֹ בָנִ֔ים הָאֲהוּבָ֖ה וְהַשְּׂנוּאָ֑ה וְהָיָ֛ה הַבֵּ֥ן הַבְּכ֖וֹר לַשְּׂנִיאָֽה׃"
+pericope: "[[Deut.21.15 Inheritance Rights of the Firstborn|Inheritance Rights of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H8147]]"
+- "[[H0802H]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H0157G]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H1060]]"
+- "[[H8146]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:15**<big><big>[[Deut.21.15 Inheritance Rights of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man have two wives, one beloved, and another hated, and they have born him children, [both] the beloved and the hated; and [if] the firstborn son be hers that was hated:
 <small><sub>**BSB:**</sub></small>
 If a man has two wives, one beloved and the other unloved, and both bear him sons, but the unloved wife has the firstborn son,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|תִהְיֶ֨יןָ]] [[H9005\|לְ]][[H0376G\|אִ֜ישׁ]] [[H8147\|שְׁתֵּ֣י]] [[H0802H\|נָשִׁ֗ים]] [[H9009\|הָ]][[H0259\|אַחַ֤ת]] [[H0157G\|אֲהוּבָה֙]] [[H9002\|וְ]][[H9009\|הָ]][[H0259\|אַחַ֣ת]] [[H8130\|שְׂנוּאָ֔ה]] [[H9001\|וְ]][[H3205\|יָֽלְדוּ]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1121A\|בָנִ֔ים]] [[H9009\|הָ]][[H0157G\|אֲהוּבָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8130\|שְּׂנוּאָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H9009\|הַ]][[H1121A\|בֵּ֥ן]] [[H9009\|הַ]][[H1060\|בְּכ֖וֹר]] [[H9005\|לַ]][[H8146\|שְּׂנִיאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic CHILDREN|CHILDREN]] • [[topic FAVORITISM|FAVORITISM]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.14|<< Deuteronomy 21:14]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.16|Deuteronomy 21:16 >>]]</td></tr></table>
 

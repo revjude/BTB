@@ -1,10 +1,64 @@
+---
+title: Luke 6:38
+type: Verse
+kjv: "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again."
+bsb: "Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap. For with the measure you use, it will be measured back to you.”"
+jesus_said: "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again."
+greek: "δίδοτε, καὶ δοθήσεται ὑμῖν. μέτρον καλὸν πεπιεσμένον καὶ σεσαλευμένον καὶ ὑπερεκχυννόμενον δώσουσιν εἰς τὸν κόλπον ὑμῶν· ᾧ Τῷ γὰρ αὐτῷ μέτρῳ μετρεῖτε, ἀντιμετρηθήσεται ὑμῖν."
+pericope: "[[Luke.6.37 Judging Others|Judging Others]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G1325]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3358]]"
+- "[[G2570G]]"
+- "[[G4085]]"
+- "[[G4531]]"
+- "[[G5240]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2859]]"
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3354]]"
+- "[[G0488]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 6:38**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
 <small><sub>**BSB:**</sub></small>
 Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap. For with the measure you use, it will be measured back to you.”
-<small><sub>**Literal:**</sub></small>
-do give, and it will be given to you. Measure good pressed down and shaken together and running over will they put into the lap of you; with which <the> for it measure you measure, it will be re-measured to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.37|<< Luke 6:37]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.39|Luke 6:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δίδοτε,]]  [[G2532\|καὶ]]  [[G1325\|δοθήσεται]]  [[G4771\|ὑμῖν.]]  [[G3358\|μέτρον]]  [[G2570G\|καλὸν]]  [[G4085\|πεπιεσμένον]]  [[G2532\|καὶ]]  [[G4531\|σεσαλευμένον]]  [[G2532\|καὶ]]  [[G5240\|ὑπερεκχυννόμενον]]  [[G1325\|δώσουσιν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2859\|κόλπον]]  [[G4771\|ὑμῶν·]]  [[G3739\|ᾧ]]  [[G3588\|Τῷ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῷ]]  [[G3358\|μέτρῳ]]  [[G3354\|μετρεῖτε,]]  [[G0488\|ἀντιμετρηθήσεται]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SERMON|SERMON]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.37|<< Luke 6:37]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.39|Luke 6:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

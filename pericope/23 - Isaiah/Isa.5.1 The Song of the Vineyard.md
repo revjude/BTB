@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song of the Vineyard
+type: Pericope
 pericope: "[[Isa.5.1 The Song of the Vineyard|The Song of the Vineyard]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 5
 book/chapter: "[[Isa.5|Isaiah 5]]"
-genre:
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.5.1]]"
 - "[[Isa.5.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.5.7]]"
 ---
 
-[[Isa.5|Isaiah 5:1 - Isaiah 5:7]]
+<small>[[Isa.5|Isaiah 5:1-7]]</small>
 *The Song of the Vineyard*
 
 [[Isa.5.1|1]] Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:

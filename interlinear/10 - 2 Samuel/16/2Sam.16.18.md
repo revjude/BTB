@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 16:18
+type: Verse
+kjv: "And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide."
+bsb: "“Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel—his I will be, and with him I will remain."
+hebrew: "וַיֹּ֣אמֶר חוּשַׁי֮ אֶל־ אַבְשָׁלֹם֒ לֹ֕א כִּי֩ אֲשֶׁ֨ר בָּחַ֧ר יְהוָ֛ה וְהָעָ֥ם הַזֶּ֖ה וְכָל־ אִ֣ישׁ יִשְׂרָאֵ֑ל ל֥וֹ אֶהְיֶ֖ה וְאִתּ֥וֹ אֵשֵֽׁב׃"
+pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HUSHAI|HUSHAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2365]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 16:18**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.
 <small><sub>**BSB:**</sub></small>
 “Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel—his I will be, and with him I will remain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2365\|חוּשַׁי֮]] [[H0413\|אֶל]][[H9014\|־]] [[H0053\|אַבְשָׁלֹם֒]] [[H3808\|לֹ֕א]] [[H3588A\|כִּי֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H0977\|בָּחַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|אֶהְיֶ֖ה]] [[H9002\|וְ]][[H0854\|אִתּ֥]][[H9033\|וֹ]] [[H3427\|אֵשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HUSHAI|HUSHAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.17|<< 2 Samuel 16:17]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.19|2 Samuel 16:19 >>]]</td></tr></table>
 

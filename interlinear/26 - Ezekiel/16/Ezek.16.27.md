@@ -1,8 +1,67 @@
+---
+title: Ezekiel 16:27
+type: Verse
+kjv: "Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary food, and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way."
+bsb: "Therefore I stretched out My hand against you and reduced your portion. I gave you over to the desire of those who hate you, the daughters of the Philistines, who were ashamed of your lewd conduct."
+hebrew: "וְהִנֵּ֨ה נָטִ֤יתִי יָדִי֙ עָלַ֔יִךְ וָאֶגְרַ֖ע חֻקֵּ֑ךְ וָאֶתְּנֵ֞ךְ בְּנֶ֤פֶשׁ שֹׂנְאוֹתַ֙יִךְ֙ בְּנ֣וֹת פְּלִשְׁתִּ֔ים הַנִּכְלָמ֖וֹת מִדַּרְכֵּ֥ךְ זִמָּֽה׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5186]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H1639]]"
+- "[[H2706H]]"
+- "[[H9022]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H5315L]]"
+- "[[H8130]]"
+- "[[H1323G]]"
+- "[[H6430G]]"
+- "[[H9009]]"
+- "[[H3637]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H2154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:27**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary [food], and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.
 <small><sub>**BSB:**</sub></small>
 Therefore I stretched out My hand against you and reduced your portion. I gave you over to the desire of those who hate you, the daughters of the Philistines, who were ashamed of your lewd conduct.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H5186\|נָטִ֤יתִי]] [[H3027H\|יָדִ]][[H9020\|י֙]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H9001\|וָ]][[H1639\|אֶגְרַ֖ע]] [[H2706H\|חֻקֵּ֑]][[H9022\|ךְ]] [[H9001\|וָ]][[H5414G\|אֶתְּנֵ֞]][[H9032\|ךְ]] [[H9003\|בְּ]][[H5315L\|נֶ֤פֶשׁ]] [[H8130\|שֹׂנְאוֹתַ֙יִ]][[H9032\|ךְ֙]] [[H1323G\|בְּנ֣וֹת]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9009\|הַ]][[H3637\|נִּכְלָמ֖וֹת]] [[H9006\|מִ]][[H1870G\|דַּרְכֵּ֥]][[H9022\|ךְ]] [[H2154\|זִמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.26|<< Ezekiel 16:26]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.28|Ezekiel 16:28 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Acts 17:6
+type: Verse
+kjv: "And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;"
+bsb: "But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here,"
+greek: "μὴ εὑρόντες δὲ αὐτοὺς ἔσυρον τὸν Ἰάσονα καί τινας ἀδελφοὺς ἐπὶ τοὺς πολιτάρχας βοῶντες ὅτι οἱ τὴν οἰκουμένην ἀναστατώσαντες οὗτοι καὶ ἐνθάδε πάρεισιν,"
+pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JASON|JASON]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+strongs:
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4951]]"
+- "[[G3588]]"
+- "[[G2394]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G0080]]"
+- "[[G1909]]"
+- "[[G4173]]"
+- "[[G0994]]"
+- "[[G3754G]]"
+- "[[G3625]]"
+- "[[G0387]]"
+- "[[G3778]]"
+- "[[G1759]]"
+- "[[G3918]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 17:6**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;
 <small><sub>**BSB:**</sub></small>
 But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here,
-<small><sub>**Literal:**</sub></small>
-Not having found however them they were dragging <the> Jason and certain brothers before the city authorities crying out that The [ones] the world having upset these also here are come,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.5|<< Acts 17:5]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.7|Acts 17:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G2147\|εὑρόντες]]  [[G1161\|δὲ]]  [[G0846\|αὐτοὺς]]  [[G4951\|ἔσυρον]]  [[G3588\|τὸν]]  [[G2394\|Ἰάσονα]]  [[G2532\|καί]]  [[G5100\|τινας]]  [[G0080\|ἀδελφοὺς]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4173\|πολιτάρχας]]  [[G0994\|βοῶντες]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην]]  [[G0387\|ἀναστατώσαντες]]  [[G3778\|οὗτοι]]  [[G2532\|καὶ]]  [[G1759\|ἐνθάδε]]  [[G3918\|πάρεισιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JASON|JASON]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SILAS|SILAS]] • [[topic THESSALONICA|THESSALONICA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.5|<< Acts 17:5]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.7|Acts 17:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

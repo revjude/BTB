@@ -1,8 +1,65 @@
+---
+title: Judges 9:36
+type: Verse
+kjv: "And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men."
+bsb: "When Gaal saw the people, he said to Zebul, “Look, people are coming down from the mountains!” But Zebul replied, “The shadows of the mountains look like men to you.”"
+hebrew: "וַיַּרְא־ גַּעַל֮ אֶת־ הָעָם֒ וַיֹּ֣אמֶר אֶל־ זְבֻ֔ל הִנֵּה־ עָ֣ם יוֹרֵ֔ד מֵרָאשֵׁ֖י הֶהָרִ֑ים וַיֹּ֤אמֶר אֵלָיו֙ זְבֻ֔ל אֵ֣ת צֵ֧ל הֶהָרִ֛ים אַתָּ֥ה רֹאֶ֖ה כָּאֲנָשִֽׁים׃ ס"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H1603]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H2083]]"
+- "[[H2009]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H7218I]]"
+- "[[H2022G]]"
+- "[[H9033]]"
+- "[[H6738]]"
+- "[[H0859A]]"
+- "[[H9004]]"
+- "[[H0582]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 9:36**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as [if they were] men.
 <small><sub>**BSB:**</sub></small>
 When Gaal saw the people, he said to Zebul, “Look, people are coming down from the mountains!” But Zebul replied, “The shadows of the mountains look like men to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְא]][[H9014\|־]] [[H1603\|גַּעַל֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָם֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H2083\|זְבֻ֔ל]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H5971K\|עָ֣ם]] [[H3381\|יוֹרֵ֔ד]] [[H9006\|מֵ]][[H7218I\|רָאשֵׁ֖י]] [[H9009\|הֶ]][[H2022G\|הָרִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H2083\|זְבֻ֔ל]] [[H0853\|אֵ֣ת]] [[H6738\|צֵ֧ל]] [[H9009\|הֶ]][[H2022G\|הָרִ֛ים]] [[H0859A\|אַתָּ֥ה]] [[H7200G\|רֹאֶ֖ה]] [[H9004\|כָּ]][[H0582\|אֲנָשִֽׁים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.35|<< Judges 9:35]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.37|Judges 9:37 >>]]</td></tr></table>
 
@@ -28,7 +85,7 @@ When Gaal saw the people, he said to Zebul, “Look, people are coming down from
 | the mountains  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2022G\|הָרִ֛ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] seeing  |**<big>&#8207;[[H7200G\|רֹאֶ֖ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> men  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0582\|אֲנָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> men  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0582\|אֲנָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.35|<< Judges 9:35]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.37|Judges 9:37 >>]]</td></tr></table>
 
 

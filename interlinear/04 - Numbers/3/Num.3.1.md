@@ -1,8 +1,58 @@
+---
+title: Numbers 3:1
+type: Verse
+kjv: "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai."
+bsb: "This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai."
+hebrew: "וְאֵ֛לֶּה תּוֹלְדֹ֥ת אַהֲרֹ֖ן וּמֹשֶׁ֑ה בְּי֗וֹם דִּבֶּ֧ר יְהוָ֛ה אֶת־ מֹשֶׁ֖ה בְּהַ֥ר סִינָֽי׃"
+pericope: "[[Num.3.1 The Sons of Aaron|The Sons of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H0175]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:1**<big><big>[[Num.3.1 The Sons of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These also [are] the generations of Aaron and Moses in the day [that] the LORD spake with Moses in mount Sinai.
 <small><sub>**BSB:**</sub></small>
 This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H8435\|תּוֹלְדֹ֥ת]] [[H0175\|אַהֲרֹ֖ן]] [[H9002\|וּ]][[H4872\|מֹשֶׁ֑ה]] [[H9003\|בְּ]][[H3117G\|י֗וֹם]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0854\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H5514G\|סִינָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.34|<< Numbers 2:34]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.2|Numbers 3:2 >>]]</td></tr></table>
 

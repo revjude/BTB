@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Children Are a Heritage from the LORD
+type: Pericope
 pericope: "[[Ps.127.1 Children Are a Heritage from the LORD|Children Are a Heritage from the LORD]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 127
 book/chapter: "[[Ps.127|Psalm 127]]"
-genre:
+chronological_order: 447
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.127.0]]"
 - "[[Ps.127.1]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.127.5]]"
 ---
 
-[[Ps.127|Psalm 127:1 - Psalm 127:5]]
+<small>[[Ps.127|Psalm 127:1-5]]</small>
 *Children Are a Heritage from the LORD*
 
 [[Ps.127.0|0]] A Song of degrees for Solomon.

@@ -1,8 +1,62 @@
+---
+title: Numbers 13:21
+type: Verse
+kjv: "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+bsb: "So they went up and spied out the land from the Wilderness of Zin as far as Rehob, toward Lebo-hamath."
+hebrew: "וַֽיַּעֲל֖וּ וַיָּתֻ֣רוּ אֶת־ הָאָ֑רֶץ מִמִּדְבַּר־ צִ֥ן עַד־ רְחֹ֖ב לְבֹ֥א חֲמָֽת׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic REHOB|REHOB]]"
+- "[[topic ZIN|ZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H8446]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H6790]]"
+- "[[H5704]]"
+- "[[H7340K]]"
+- "[[H0935H]]"
+- "[[H2574G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:21**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
 <small><sub>**BSB:**</sub></small>
 So they went up and spied out the land from the Wilderness of Zin as far as Rehob, toward Lebo-hamath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927G\|יַּעֲל֖וּ]] [[H9001\|וַ]][[H8446\|יָּתֻ֣רוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9006\|מִ]][[H4057B\|מִּדְבַּר]][[H9014\|־]] [[H6790\|צִ֥ן]] [[H5704\|עַד]][[H9014\|־]] [[H7340K\|רְחֹ֖ב]] [[H0935H\|לְבֹ֥א]] [[H2574G\|חֲמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic HAMATH|HAMATH]] • [[topic REHOB|REHOB]] • [[topic ZIN|ZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.20|<< Numbers 13:20]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.22|Numbers 13:22 >>]]</td></tr></table>
 

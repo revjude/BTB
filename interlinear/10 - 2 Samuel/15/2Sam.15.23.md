@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 15:23
+type: Verse
+kjv: "And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness."
+bsb: "Everyone in the countryside was weeping loudly as all the people passed by. And as the king crossed the Kidron Valley, all the people also passed toward the way of the wilderness."
+hebrew: "וְכָל־ הָאָ֗רֶץ בּוֹכִים֙ ק֣וֹל גָּד֔וֹל וְכָל־ הָעָ֖ם עֹֽבְרִ֑ים וְהַמֶּ֗לֶךְ עֹבֵר֙ בְּנַ֣חַל קִדְר֔וֹן וְכָל־ הָעָם֙ עֹבְרִ֔ים עַל־ פְּנֵי־ דֶ֖רֶךְ אֶת־ הַמִּדְבָּֽר׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1058]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H5971A]]"
+- "[[H5674A]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H5158A]]"
+- "[[H6939]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H1870J]]"
+- "[[H0853]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:23**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.
 <small><sub>**BSB:**</sub></small>
 Everyone in the countryside was weeping loudly as all the people passed by. And as the king crossed the Kidron Valley, all the people also passed toward the way of the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H1058\|בּוֹכִים֙]] [[H6963A\|ק֣וֹל]] [[H1419A\|גָּד֔וֹל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H5674A\|עֹֽבְרִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H5674A\|עֹבֵר֙]] [[H9003\|בְּ]][[H5158A\|נַ֣חַל]] [[H6939\|קִדְר֔וֹן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H5674A\|עֹבְרִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H1870J\|דֶ֖רֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic KIDRON|KIDRON]] • [[topic LOYALTY|LOYALTY]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.22|<< 2 Samuel 15:22]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.24|2 Samuel 15:24 >>]]</td></tr></table>
 

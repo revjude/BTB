@@ -1,8 +1,65 @@
+---
+title: Genesis 46:26
+type: Verse
+kjv: "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;"
+bsb: "All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons."
+hebrew: "כָּל־ הַ֠נֶּפֶשׁ הַבָּאָ֨ה לְיַעֲקֹ֤ב מִצְרַ֙יְמָה֙ יֹצְאֵ֣י יְרֵכ֔וֹ מִלְּבַ֖ד נְשֵׁ֣י בְנֵי־ יַעֲקֹ֑ב כָּל־ נֶ֖פֶשׁ שִׁשִּׁ֥ים וָשֵֽׁשׁ׃"
+pericope: "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H3318M]]"
+- "[[H3409]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H0905J]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H8346]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:26**<big><big>[[Gen.46.23 The Children of Bilhah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls [were] threescore and six;
 <small><sub>**BSB:**</sub></small>
 All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֠]][[H5315J\|נֶּפֶשׁ]] [[H9009\|הַ]][[H0935G\|בָּאָ֨ה]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֤ב]] [[H4714G\|מִצְרַ֙יְמָ]][[H9011\|ה֙]] [[H3318M\|יֹצְאֵ֣י]] [[H3409\|יְרֵכ֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַ֖ד]] [[H0802H\|נְשֵׁ֣י]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H3290\|יַעֲקֹ֑ב]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נֶ֖פֶשׁ]] [[H8346\|שִׁשִּׁ֥ים]] [[H9002\|וָ]][[H8337\|שֵֽׁשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.25|<< Genesis 46:25]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.27|Genesis 46:27 >>]]</td></tr></table>
 

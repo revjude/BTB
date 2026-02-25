@@ -1,8 +1,51 @@
+---
+title: Proverbs 15:27
+type: Verse
+kjv: "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live."
+bsb: "He who is greedy for unjust gain brings trouble on his household, but he who hates bribes will live."
+hebrew: "עֹכֵ֣ר בֵּ֭יתוֹ בּוֹצֵ֣עַ בָּ֑צַע וְשׂוֹנֵ֖א מַתָּנֹ֣ת יִחְיֶֽה׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+strongs:
+- "[[H5916]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H1214I]]"
+- "[[H1215]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H4979]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:27**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.
 <small><sub>**BSB:**</sub></small>
 He who is greedy for unjust gain brings trouble on his household, but he who hates bribes will live.
+<small><sub>**Hebrew:**</sub></small>
+[[H5916\|עֹכֵ֣ר]] [[H1004M\|בֵּ֭ית]][[H9023\|וֹ]] [[H1214I\|בּוֹצֵ֣עַ]] [[H1215\|בָּ֑צַע]] [[H9002\|וְ]][[H8130\|שׂוֹנֵ֖א]] [[H4979\|מַתָּנֹ֣ת]] [[H2421\|יִחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic COVETOUSNESS|COVETOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.26|<< Proverbs 15:26]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.28|Proverbs 15:28 >>]]</td></tr></table>
 

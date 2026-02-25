@@ -1,10 +1,57 @@
+---
+title: John 13:23
+type: Verse
+kjv: "Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved."
+bsb: "One of His disciples, the one whom Jesus loved, was reclining at His side."
+greek: "Ἦν δὲ ἀνακείμενος εἷς ἐκ τῶν μαθητῶν αὐτοῦ ἐν τῷ κόλπῳ τοῦ Ἰησοῦ ὃν ἠγάπα ὁ Ἰησοῦς·"
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G0345]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G2859]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G0025]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **John 13:23**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved.
 <small><sub>**BSB:**</sub></small>
 One of His disciples, the one whom Jesus loved, was reclining at His side.
-<small><sub>**Literal:**</sub></small>
-There was now reclining one of the disciples of Him in the bosom <the> of Jesus whom was loving <the> Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.22|<< John 13:22]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.24|John 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δὲ]]  [[G0345\|ἀνακείμενος]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2859\|κόλπῳ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3739\|ὃν]]  [[G0025\|ἠγάπα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.22|<< John 13:22]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.24|John 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

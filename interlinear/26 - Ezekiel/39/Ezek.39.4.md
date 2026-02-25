@@ -1,8 +1,67 @@
+---
+title: Ezekiel 39:4
+type: Verse
+kjv: "Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that is with thee: I will give thee unto the ravenous birds of every sort, and to the beasts of the field to be devoured."
+bsb: "On the mountains of Israel you will fall—you and all your troops and the nations with you. I will give you as food to every kind of ravenous bird and wild beast."
+hebrew: "עַל־ הָרֵ֨י יִשְׂרָאֵ֜ל תִּפּ֗וֹל אַתָּה֙ וְכָל־ אֲגַפֶּ֔יךָ וְעַמִּ֖ים אֲשֶׁ֣ר אִתָּ֑ךְ לְעֵ֨יט צִפּ֧וֹר כָּל־ כָּנָ֛ף וְחַיַּ֥ת הַשָּׂדֶ֖ה נְתַתִּ֥יךָ לְאָכְלָֽה׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BIRDS|BIRDS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H5307J]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0102]]"
+- "[[H9021]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5861]]"
+- "[[H6833]]"
+- "[[H3671]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H5414G]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:4**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that [is] with thee: I will give thee unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured.
 <small><sub>**BSB:**</sub></small>
 On the mountains of Israel you will fall—you and all your troops and the nations with you. I will give you as food to every kind of ravenous bird and wild beast.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הָרֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H5307J\|תִּפּ֗וֹל]] [[H0859A\|אַתָּה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0102\|אֲגַפֶּ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5971A\|עַמִּ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9005\|לְ]][[H5861\|עֵ֨יט]] [[H6833\|צִפּ֧וֹר]] [[H3605\|כָּל]][[H9014\|־]] [[H3671\|כָּנָ֛ף]] [[H9002\|וְ]][[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H5414G\|נְתַתִּ֥י]][[H9031\|ךָ]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.3|<< Ezekiel 39:3]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.5|Ezekiel 39:5 >>]]</td></tr></table>
 

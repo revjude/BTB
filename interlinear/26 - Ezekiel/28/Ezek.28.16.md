@@ -1,8 +1,68 @@
+---
+title: Ezekiel 28:16
+type: Verse
+kjv: "By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire."
+bsb: "By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones."
+hebrew: "בְּרֹ֣ב רְכֻלָּתְךָ֗ מָל֧וּ תוֹכְךָ֛ חָמָ֖ס וַֽתֶּחֱטָ֑א וָאֶחַלֶּלְךָ֩ מֵהַ֨ר אֱלֹהִ֤ים וָֽאַבֶּדְךָ֙ כְּר֣וּב הַסֹּכֵ֔ךְ מִתּ֖וֹךְ אַבְנֵי־ אֵֽשׁ׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H7404]]"
+- "[[H9021]]"
+- "[[H4390]]"
+- "[[H8432]]"
+- "[[H2555]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H2490H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H0430G]]"
+- "[[H0006]]"
+- "[[H3742]]"
+- "[[H9009]]"
+- "[[H5526B]]"
+- "[[H0068G]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:16**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.
 <small><sub>**BSB:**</sub></small>
 By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7230\|רֹ֣ב]] [[H7404\|רְכֻלָּתְ]][[H9021\|ךָ֗]] [[H4390\|מָל֧וּ]] [[H8432\|תוֹכְ]][[H9021\|ךָ֛]] [[H2555\|חָמָ֖ס]] [[H9001\|וַֽ]][[H2398\|תֶּחֱטָ֑א]] [[H9001\|וָ]][[H2490H\|אֶחַלֶּלְ]][[H9031\|ךָ֩]] [[H9006\|מֵ]][[H2022G\|הַ֨ר]] [[H0430G\|אֱלֹהִ֤ים]] [[H9001\|וָֽ]][[H0006\|אַבֶּדְ]][[H9031\|ךָ֙]] [[H3742\|כְּר֣וּב]] [[H9009\|הַ]][[H5526B\|סֹּכֵ֔ךְ]] [[H9006\|מִ]][[H8432\|תּ֖וֹךְ]] [[H0068G\|אַבְנֵי]][[H9014\|־]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COMMERCE|COMMERCE]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.15|<< Ezekiel 28:15]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.17|Ezekiel 28:17 >>]]</td></tr></table>
 

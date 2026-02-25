@@ -1,10 +1,68 @@
+---
+title: Mark 7:5
+type: Verse
+kjv: "Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?"
+bsb: "So the Pharisees and scribes questioned Jesus: “Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.”"
+greek: "Καὶ ἐπερωτῶσιν αὐτὸν οἱ Φαρισαῖοι καὶ οἱ γραμματεῖς· διὰ τί οὐ περιπατοῦσιν οἱ μαθηταί σου κατὰ τὴν παράδοσιν τῶν πρεσβυτέρων, ἀλλὰ κοιναῖς χερσὶν ἐσθίουσιν τὸν ἄρτον;¶"
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G1122]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3756]]"
+- "[[G4043]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G2596]]"
+- "[[G3862]]"
+- "[[G4245G]]"
+- "[[G0235]]"
+- "[[G2839G]]"
+- "[[G5495]]"
+- "[[G2068]]"
+- "[[G0740]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Mark 7:5**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?
 <small><sub>**BSB:**</sub></small>
 So the Pharisees and scribes questioned Jesus: “Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.”
-<small><sub>**Literal:**</sub></small>
-And questioned Him the Pharisees and the scribes; Because of why not walk the disciples of You according to the tradition of the elders, but with unsanctified hands eat the bread?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.4|<< Mark 7:4]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.6|Mark 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1905\|ἐπερωτῶσιν]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3756\|οὐ]]  [[G4043\|περιπατοῦσιν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί]]  [[G4771\|σου]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων,]]  [[G0235\|ἀλλὰ]]  [[G2839G\|κοιναῖς]]  [[G5495\|χερσὶν]]  [[G2068\|ἐσθίουσιν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.4|<< Mark 7:4]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.6|Mark 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

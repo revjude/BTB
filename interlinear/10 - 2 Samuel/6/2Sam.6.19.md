@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 6:19
+type: Verse
+kjv: "And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house."
+bsb: "Then he distributed to every man and woman among the multitude of Israel a loaf of bread, a date cake, and a raisin cake. And all the people departed, each to his own home."
+hebrew: "וַיְחַלֵּ֨ק לְכָל־ הָעָ֜ם לְכָל־ הֲמ֣וֹן יִשְׂרָאֵל֮ לְמֵאִ֣ישׁ וְעַד־ אִשָּׁה֒ לְאִ֗ישׁ חַלַּ֥ת לֶ֙חֶם֙ אַחַ֔ת וְאֶשְׁפָּ֣ר אֶחָ֔ד וַאֲשִׁישָׁ֖ה אֶחָ֑ת וַיֵּ֥לֶךְ כָּל־ הָעָ֖ם אִ֥ישׁ לְבֵיתֽוֹ׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FLAGON|FLAGON]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H2505A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1995A]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0802G]]"
+- "[[H0376I]]"
+- "[[H2471]]"
+- "[[H3899H]]"
+- "[[H0259]]"
+- "[[H0829]]"
+- "[[H0809]]"
+- "[[H1980G]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:19**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dealt among all the people, [even] among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece [of flesh], and a flagon [of wine]. So all the people departed every one to his house.
 <small><sub>**BSB:**</sub></small>
 Then he distributed to every man and woman among the multitude of Israel a loaf of bread, a date cake, and a raisin cake. And all the people departed, each to his own home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2505A\|יְחַלֵּ֨ק]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1995A\|הֲמ֣וֹן]] [[H3478\|יִשְׂרָאֵל֮]] [[H9005\|לְ]][[H9006\|מֵ]][[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּׁה֒]] [[H9005\|לְ]][[H0376I\|אִ֗ישׁ]] [[H2471\|חַלַּ֥ת]] [[H3899H\|לֶ֙חֶם֙]] [[H0259\|אַחַ֔ת]] [[H9002\|וְ]][[H0829\|אֶשְׁפָּ֣ר]] [[H0259\|אֶחָ֔ד]] [[H9002\|וַ]][[H0809\|אֲשִׁישָׁ֖ה]] [[H0259\|אֶחָ֑ת]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H1004B\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic DAVID|DAVID]] • [[topic FLAGON|FLAGON]] • [[topic FOOD|FOOD]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.18|<< 2 Samuel 6:18]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.20|2 Samuel 6:20 >>]]</td></tr></table>
 

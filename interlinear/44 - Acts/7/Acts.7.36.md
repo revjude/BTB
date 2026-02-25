@@ -1,10 +1,62 @@
+---
+title: Acts 7:36
+type: Verse
+kjv: "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years."
+bsb: "He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness."
+greek: "οὗτος ἐξήγαγεν αὐτοὺς ποιήσας τέρατα καὶ σημεῖα ἐν γῇ Αἰγύπτῳ καὶ ἐν ἐρυθρᾷ θαλάσσῃ καὶ ἐν τῇ ἐρήμῳ ἔτη τεσσεράκοντα."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[G3778]]"
+- "[[G1806]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G5059]]"
+- "[[G2532]]"
+- "[[G4592]]"
+- "[[G1722]]"
+- "[[G1093H]]"
+- "[[G0125]]"
+- "[[G2063]]"
+- "[[G2281]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G2094]]"
+- "[[G5062]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 7:36**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
 <small><sub>**BSB:**</sub></small>
 He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.
-<small><sub>**Literal:**</sub></small>
-this one led out them having done wonders and signs in [the] land of Egypt and in [the] Red Sea and in the wilderness years forty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.35|<< Acts 7:35]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.37|Acts 7:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G1806\|ἐξήγαγεν]]  [[G0846\|αὐτοὺς]]  [[G4160G\|ποιήσας]]  [[G5059\|τέρατα]]  [[G2532\|καὶ]]  [[G4592\|σημεῖα]]  [[G1722\|ἐν]]  [[G1093H\|γῇ]]  [[G0125\|Αἰγύπτῳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2063\|ἐρυθρᾷ]]  [[G2281\|θαλάσσῃ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G2094\|ἔτη]]  [[G5062\|τεσσεράκοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PLAGUE|PLAGUE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RED SEA|RED SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.35|<< Acts 7:35]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.37|Acts 7:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:36** is...
 > $\quad$ alluding to: [[LXX.Exod.12.41|Exod 12:41]] ☩ [[LXX.Exod.14.21|Exod 14:21]] ☩ [[LXX.Exod.15.23|Exod 15:23]] ☩ [[LXX.Exod.16.1|Exod 16:1]]

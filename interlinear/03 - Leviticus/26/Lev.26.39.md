@@ -1,8 +1,71 @@
+---
+title: Leviticus 26:39
+type: Verse
+kjv: "And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them."
+bsb: "Those of you who survive in the lands of your enemies will waste away in their iniquity and will decay in the sins of their fathers."
+hebrew: "וְהַנִּשְׁאָרִ֣ים בָּכֶ֗ם יִמַּ֙קּוּ֙ בַּֽעֲוֹנָ֔ם בְּאַרְצֹ֖ת אֹיְבֵיכֶ֑ם וְאַ֛ף בַּעֲוֹנֹ֥ת אֲבֹתָ֖ם אִתָּ֥ם יִמָּֽקּוּ׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H4743]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H0637]]"
+- "[[H0001G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:39**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.
 <small><sub>**BSB:**</sub></small>
 Those of you who survive in the lands of your enemies will waste away in their iniquity and will decay in the sins of their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֣ים]] [[H9003\|בָּ]][[H9036\|כֶ֗ם]] [[H4743\|יִמַּ֙קּוּ֙]] [[H9003\|בַּֽ]][[H5771G\|עֲוֹנָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אַרְצֹ֖ת]] [[H0341\|אֹיְבֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0637\|אַ֛ף]] [[H9003\|בַּ]][[H5771G\|עֲוֹנֹ֥ת]] [[H0001G\|אֲבֹתָ֖]][[H9028\|ם]] [[H0854\|אִתָּ֥]][[H9038\|ם]] [[H4743\|יִמָּֽקּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.38|<< Leviticus 26:38]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.40|Leviticus 26:40 >>]]</td></tr></table>
 

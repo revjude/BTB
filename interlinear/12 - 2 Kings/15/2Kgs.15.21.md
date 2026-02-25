@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:21
+type: Verse
+kjv: "And the rest of the acts of Menahem, and all that he did, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Menahem, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶ֛תֶר דִּבְרֵ֥י מְנַחֵ֖ם וְכָל־ אֲשֶׁ֣ר עָשָׂ֑ה הֲלוֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MENAHEM|MENAHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H4505]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:21**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Menahem, and all that he did, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Menahem, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֛תֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H4505\|מְנַחֵ֖ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֑ה]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MENAHEM|MENAHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.20|<< 2 Kings 15:20]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.22|2 Kings 15:22 >>]]</td></tr></table>
 

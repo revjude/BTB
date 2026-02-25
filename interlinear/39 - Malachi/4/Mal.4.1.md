@@ -1,8 +1,77 @@
+---
+title: Malachi 4:1
+type: Verse
+kjv: "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch."
+bsb: "“For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”"
+hebrew: "כִּֽי־ הִנֵּ֤ה הַיּוֹם֙ בָּ֔א בֹּעֵ֖ר כַּתַּנּ֑וּר וְהָי֨וּ כָל־ זֵדִ֜ים וְכָל־ עֹשֵׂ֤ה רִשְׁעָה֙ קַ֔שׁ וְלִהַ֨ט אֹתָ֜ם הַיּ֣וֹם הַבָּ֗א אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲשֶׁ֛ר לֹא־ יַעֲזֹ֥ב לָהֶ֖ם שֹׁ֥רֶשׁ וְעָנָֽף׃"
+pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic OVEN|OVEN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H1197A]]"
+- "[[H9004]]"
+- "[[H8574H]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H2086]]"
+- "[[H9002]]"
+- "[[H6213J]]"
+- "[[H7564]]"
+- "[[H7179]]"
+- "[[H3857]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H9005]]"
+- "[[H8328]]"
+- "[[H6057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 4:1**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.
 <small><sub>**BSB:**</sub></small>
 “For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H0935G\|בָּ֔א]] [[H1197A\|בֹּעֵ֖ר]] [[H9004\|כַּ]][[H8574H\|תַּנּ֑וּר]] [[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H2086\|זֵדִ֜ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6213J\|עֹשֵׂ֤ה]] [[H7564\|רִשְׁעָה֙]] [[H7179\|קַ֔שׁ]] [[H9001\|וְ]][[H3857\|לִהַ֨ט]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H0935G\|בָּ֗א]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5800A\|יַעֲזֹ֥ב]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H8328\|שֹׁ֥רֶשׁ]] [[H9002\|וְ]][[H6057\|עָנָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FURNACE|FURNACE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MALACHI|MALACHI]] • [[topic OVEN|OVEN]] • [[topic PRIDE|PRIDE]] • [[topic STUBBLE|STUBBLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.18|<< Malachi 3:18]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.2|Malachi 4:2 >>]]</td></tr></table>
 

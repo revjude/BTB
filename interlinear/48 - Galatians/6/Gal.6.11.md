@@ -1,10 +1,43 @@
+---
+title: Galatians 6:11
+type: Verse
+kjv: "Ye see how large a letter I have written unto you with mine own hand."
+bsb: "See what large letters I am using to write to you with my own hand!"
+greek: "Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί."
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+strongs:
+- "[[G1492H]]"
+- "[[G4080]]"
+- "[[G4771]]"
+- "[[G1121]]"
+- "[[G1125]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G5495]]"
+texts:
+- NKO
+---
+
 **Galatians 6:11**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye see how large a letter I have written unto you with mine own hand.
 <small><sub>**BSB:**</sub></small>
 See what large letters I am using to write to you with my own hand!
-<small><sub>**Literal:**</sub></small>
-do see in how large to you letters I have written <the> with my own hand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.10|<< Galatians 6:10]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.12|Galatians 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἴδετε]]  [[G4080\|πηλίκοις]]  [[G4771\|ὑμῖν]]  [[G1121\|γράμμασιν]]  [[G1125\|ἔγραψα]]  [[G3588\|τῇ]]  [[G1473\|ἐμῇ]]  [[G5495\|χειρί.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.10|<< Galatians 6:10]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.12|Galatians 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

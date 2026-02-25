@@ -1,10 +1,58 @@
+---
+title: Luke 9:47
+type: Verse
+kjv: "And Jesus, perceiving the thought of their heart, took a child, and set him by him,"
+bsb: "But Jesus, knowing the thoughts of their hearts, had a little child stand beside Him."
+greek: "ὁ δὲ Ἰησοῦς εἰδὼς τὸν διαλογισμὸν τῆς καρδίας αὐτῶν, ἐπιλαβόμενος παιδίον ἔστησεν αὐτὸ παρ᾽ ἑαυτῷ"
+pericope: "[[Luke.9.46 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G6063]]"
+- "[[G1261]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G1949]]"
+- "[[G3813]]"
+- "[[G2476]]"
+- "[[G3844]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:47**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus, perceiving the thought of their heart, took a child, and set him by him,
 <small><sub>**BSB:**</sub></small>
 But Jesus, knowing the thoughts of their hearts, had a little child stand beside Him.
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus knowing the reasoning of the heart of them, having taken hold of a child set it by Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.46|<< Luke 9:46]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.48|Luke 9:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G6063\|εἰδὼς]]  [[G3588\|τὸν]]  [[G1261\|διαλογισμὸν]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν,]]  [[G1949\|ἐπιλαβόμενος]]  [[G3813\|παιδίον]]  [[G2476\|ἔστησεν]]  [[G0846\|αὐτὸ]]  [[G3844\|παρ᾽]]  [[G1438\|ἑαυτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.46|<< Luke 9:46]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.48|Luke 9:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: Leviticus 23:18
+type: Verse
+kjv: "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be for a burnt offering unto the LORD, with their meat offering, and their drink offerings, even an offering made by fire, of sweet savour unto the LORD."
+bsb: "Along with the bread you are to present seven unblemished male lambs a year old, one young bull, and two rams. They will be a burnt offering to the LORD, together with their grain offerings and drink offerings—a food offering, a pleasing aroma to the LORD."
+hebrew: "וְהִקְרַבְתֶּ֣ם עַל־ הַלֶּ֗חֶם שִׁבְעַ֨ת כְּבָשִׂ֤ים תְּמִימִם֙ בְּנֵ֣י שָׁנָ֔ה וּפַ֧ר בֶּן־ בָּקָ֛ר אֶחָ֖ד וְאֵילִ֣ם שְׁנָ֑יִם יִהְי֤וּ עֹלָה֙ לַֽיהוָ֔ה וּמִנְחָתָם֙ וְנִסְכֵּיהֶ֔ם אִשֵּׁ֥ה רֵֽיחַ־ נִיחֹ֖חַ לַיהוָֽה׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3899H]]"
+- "[[H7651]]"
+- "[[H3532]]"
+- "[[H8549G]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H0259]]"
+- "[[H0352A]]"
+- "[[H8147]]"
+- "[[H1961]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H5262]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:18**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be [for] a burnt offering unto the LORD, with their meat offering, and their drink offerings, [even] an offering made by fire, of sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Along with the bread you are to present seven unblemished male lambs a year old, one young bull, and two rams. They will be a burnt offering to the LORD, together with their grain offerings and drink offerings—a food offering, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֣ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3899H\|לֶּ֗חֶם]] [[H7651\|שִׁבְעַ֨ת]] [[H3532\|כְּבָשִׂ֤ים]] [[H8549G\|תְּמִימִם֙]] [[H1121L\|בְּנֵ֣י]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H6499\|פַ֧ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֛ר]] [[H0259\|אֶחָ֖ד]] [[H9002\|וְ]][[H0352A\|אֵילִ֣ם]] [[H8147\|שְׁנָ֑יִם]] [[H1961\|יִהְי֤וּ]] [[H5930A\|עֹלָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וּ]][[H4503G\|מִנְחָתָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֔ם]] [[H0801\|אִשֵּׁ֥ה]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PENTECOST|PENTECOST]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.17|<< Leviticus 23:17]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.19|Leviticus 23:19 >>]]</td></tr></table>
 

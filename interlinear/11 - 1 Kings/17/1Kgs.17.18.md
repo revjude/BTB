@@ -1,8 +1,72 @@
+---
+title: 1 Kings 17:18
+type: Verse
+kjv: "And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?"
+bsb: "“O man of God,” said the woman to Elijah, “what have you done to me? Have you come to remind me of my iniquity and cause the death of my son?”"
+hebrew: "וַתֹּ֙אמֶר֙ אֶל־ אֵ֣לִיָּ֔הוּ מַה־ לִּ֥י וָלָ֖ךְ אִ֣ישׁ הָאֱלֹהִ֑ים בָּ֧אתָ אֵלַ֛י לְהַזְכִּ֥יר אֶת־ עֲוֹנִ֖י וּלְהָמִ֥ית אֶת־ בְּנִֽי׃"
+pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0452G]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9032]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H4191]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:18**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?
 <small><sub>**BSB:**</sub></small>
 “O man of God,” said the woman to Elijah, “what have you done to me? Have you come to remind me of my iniquity and cause the death of my son?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵ֣לִיָּ֔הוּ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H9002\|וָ]][[H9005\|לָ֖]][[H9032\|ךְ]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H0935G\|בָּ֧אתָ]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H9005\|לְ]][[H2142\|הַזְכִּ֥יר]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹנִ֖]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H4191\|הָמִ֥ית]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONVICTION|CONVICTION]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DROUGHT|DROUGHT]] • [[topic ELIJAH|ELIJAH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic MIRACLES|MIRACLES]] • [[topic POOR|POOR]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.17|<< 1 Kings 17:17]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.19|1 Kings 17:19 >>]]</td></tr></table>
 

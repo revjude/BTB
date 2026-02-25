@@ -1,8 +1,82 @@
+---
+title: 2 Chronicles 35:3
+type: Verse
+kjv: "And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,"
+bsb: "To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel."
+hebrew: "וַיֹּ֣אמֶר לַ֠לְוִיִּם הַמְּבִינִ֨ים לְכָל־ יִשְׂרָאֵ֜ל הַקְּדוֹשִׁ֣ים לַיהוָ֗ה תְּנ֤וּ אֶת־ אֲרוֹן־ הַקֹּ֙דֶשׁ֙ בַּ֠בַּיִת אֲשֶׁ֨ר בָּנָ֜ה שְׁלֹמֹ֤ה בֶן־ דָּוִיד֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אֵין־ לָכֶ֥ם מַשָּׂ֖א בַּכָּתֵ֑ף עַתָּ֗ה עִבְדוּ֙ אֶת־ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְאֵ֖ת עַמּ֥וֹ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9009]]"
+- "[[H4000]]"
+- "[[H0995]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6918G]]"
+- "[[H3068G]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H6944G]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H0369]]"
+- "[[H9036]]"
+- "[[H4853A]]"
+- "[[H3802]]"
+- "[[H6258]]"
+- "[[H5647H]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 35:3**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; [it shall] not [be] a burden upon [your] shoulders: serve now the LORD your God, and his people Israel,
 <small><sub>**BSB:**</sub></small>
 To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לַ֠]][[H3881\|לְוִיִּם]] [[H9009\|הַ]][[H0995\|מְּבִינִ֨ים]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9009\|הַ]][[H6918G\|קְּדוֹשִׁ֣ים]] [[H9005\|לַ]][[H3068G\|יהוָ֗ה]] [[H5414H\|תְּנ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲרוֹן]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֙דֶשׁ֙]] [[H9003\|בַּ֠]][[H1004B\|בַּיִת]] [[H0834A\|אֲשֶׁ֨ר]] [[H1129\|בָּנָ֜ה]] [[H8010\|שְׁלֹמֹ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H1732\|דָּוִיד֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H4853A\|מַשָּׂ֖א]] [[H9003\|בַּ]][[H3802\|כָּתֵ֑ף]] [[H6258\|עַתָּ֗ה]] [[H5647H\|עִבְדוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H5971A\|עַמּ֥]][[H9023\|וֹ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic JOSIAH|JOSIAH]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.2|<< 2 Chronicles 35:2]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.4|2 Chronicles 35:4 >>]]</td></tr></table>
 
@@ -41,7 +115,7 @@ To the Levites who taught all Israel and were holy to the LORD, Josiah said: “
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.2|<< 2 Chronicles 35:2]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.4|2 Chronicles 35:4 >>]]</td></tr></table>
 
-[^1]: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
-[^2]: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^1]: the teachers  | **<big>[[H9009|הַ]]</big><big>[[H4000|מְּבוּנִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the teachers  | **<big>[[H9009|הַ]]</big><big>[[H4000|מְּבוּנִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַמְּבִונִ֨ים</big></span>**
 

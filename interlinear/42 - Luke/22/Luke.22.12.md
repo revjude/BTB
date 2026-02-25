@@ -1,10 +1,53 @@
+---
+title: Luke 22:12
+type: Verse
+kjv: "And he shall shew you a large upper room furnished: there make ready."
+bsb: "And he will show you a large upper room, already furnished. Make preparations there.”"
+jesus_said: "And he shall shew you a large upper room furnished: there make ready."
+greek: "κἀκεῖνος κἀκεῖνος ὑμῖν δείξει ἀνάγαιον μέγα ἐστρωμένον· ἐκεῖ ἑτοιμάσατε."
+pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G4771]]"
+- "[[G1166]]"
+- "[[G0508]]"
+- "[[G3173]]"
+- "[[G4766]]"
+- "[[G1563]]"
+- "[[G2090]]"
+texts:
+- NKO
+---
+
 **Luke 22:12**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he shall shew you a large upper room furnished: there make ready.
 <small><sub>**BSB:**</sub></small>
 And he will show you a large upper room, already furnished. Make preparations there.”
-<small><sub>**Literal:**</sub></small>
-And he you will show an upper room large furnished; there do prepare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.11|<< Luke 22:11]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.13|Luke 22:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖνος]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G4771\|ὑμῖν]]  [[G1166\|δείξει]]  [[G0508\|ἀνάγαιον]]  [[G3173\|μέγα]]  [[G4766\|ἐστρωμένον·]]  [[G1563\|ἐκεῖ]]  [[G2090\|ἑτοιμάσατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.11|<< Luke 22:11]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.13|Luke 22:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

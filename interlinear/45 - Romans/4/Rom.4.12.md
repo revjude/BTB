@@ -1,10 +1,61 @@
+---
+title: Romans 4:12
+type: Verse
+kjv: "And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised."
+bsb: "And he is also the father of the circumcised who not only are circumcised, but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised."
+greek: "καὶ πατέρα περιτομῆς, τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν τοῖς ἴχνεσιν τῆς ἐν τῇ ἀκροβυστίᾳ τῆς πίστεως τοῦ πατρὸς ἡμῶν Ἀβραάμ."
+pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G4061]]"
+- "[[G3588]]"
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G4748]]"
+- "[[G2487]]"
+- "[[G1722]]"
+- "[[G0203]]"
+- "[[G4102G]]"
+- "[[G3165]]"
+- "[[G0011]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 4:12**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which [he had] being [yet] uncircumcised.
 <small><sub>**BSB:**</sub></small>
 And he is also the father of the circumcised who not only are circumcised, but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised.
-<small><sub>**Literal:**</sub></small>
-and father of circumcision to those not of circumcision only but also to those walking in the steps <the> during the uncircumcision of the faith of the father of us Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.11|<< Romans 4:11]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.13|Romans 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3962\|πατέρα]]  [[G4061\|περιτομῆς,]]  [[G3588\|τοῖς]]  [[G3756\|οὐκ]]  [[G1537\|ἐκ]]  [[G4061\|περιτομῆς]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4748\|στοιχοῦσιν]]  [[G3588\|τοῖς]]  [[G2487\|ἴχνεσιν]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0203\|ἀκροβυστίᾳ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G0011\|Ἀβραάμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.11|<< Romans 4:11]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.13|Romans 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 18:20
+type: Verse
+kjv: "But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die."
+bsb: "But if any prophet dares to speak a message in My name that I have not commanded him to speak, or to speak in the name of other gods, that prophet must be put to death.”"
+hebrew: "אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא־ צִוִּיתִיו֙ לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא׃"
+pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0389]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H2102]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H1697G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:20**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die.
 <small><sub>**BSB:**</sub></small>
 But if any prophet dares to speak a message in My name that I have not commanded him to speak, or to speak in the name of other gods, that prophet must be put to death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H9009\|הַ]][[H5030\|נָּבִ֡יא]] [[H0834A\|אֲשֶׁ֣ר]] [[H2102\|יָזִיד֩]] [[H9005\|לְ]][[H1696G\|דַבֵּ֨ר]] [[H1697G\|דָּבָ֜ר]] [[H9003\|בִּ]][[H8034\|שְׁמִ֗]][[H9020\|י]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6680\|צִוִּיתִי]][[H9033\|ו֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֔ר]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|יְדַבֵּ֔ר]] [[H9003\|בְּ]][[H8034\|שֵׁ֖ם]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9001\|וּ]][[H4191\|מֵ֖ת]] [[H9009\|הַ]][[H5030\|נָּבִ֥יא]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.19|<< Deuteronomy 18:19]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.21|Deuteronomy 18:21 >>]]</td></tr></table>
 

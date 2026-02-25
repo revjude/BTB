@@ -1,8 +1,54 @@
+---
+title: Psalm 119:174
+type: Verse
+kjv: "I have longed for thy salvation, O LORD; and thy law is my delight."
+bsb: "I long for Your salvation, O LORD, and Your law is my delight."
+hebrew: "תָּאַ֣בְתִּי לִֽישׁוּעָתְךָ֣ יְהוָ֑ה וְ֝תֽוֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃"
+pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H8373]]"
+- "[[H9005]]"
+- "[[H3444]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H8191]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:174**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have longed for thy salvation, O LORD; and thy law [is] my delight.
 <small><sub>**BSB:**</sub></small>
 I long for Your salvation, O LORD, and Your law is my delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H8373\|תָּאַ֣בְתִּי]] [[H9005\|לִֽ]][[H3444\|ישׁוּעָתְ]][[H9021\|ךָ֣]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ֝]][[H8451\|תֽוֹרָתְ]][[H9021\|ךָ֗]] [[H8191\|שַׁעֲשֻׁעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.174|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.173|<< Psalms 119:173]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.175|Psalms 119:175 >>]]</td></tr></table>
 

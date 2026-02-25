@@ -1,8 +1,62 @@
+---
+title: Jeremiah 52:28
+type: Verse
+kjv: "This is the people whom Nebuchadrezzar carried away captive: in the seventh year three thousand Jews and three and twenty:"
+bsb: "These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;"
+hebrew: "זֶ֣ה הָעָ֔ם אֲשֶׁ֥ר הֶגְלָ֖ה נְבֽוּכַדְרֶאצַּ֑ר בִּשְׁנַת־ שֶׁ֕בַע יְהוּדִ֕ים שְׁלֹ֥שֶׁת אֲלָפִ֖ים וְעֶשְׂרִ֥ים וּשְׁלֹשָֽׁה׃"
+pericope: "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H5019]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9014]]"
+- "[[H7651]]"
+- "[[H3064]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:28**<big><big>[[Jer.52.24 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the people whom Nebuchadrezzar carried away captive: in the seventh year three thousand Jews and three and twenty:
 <small><sub>**BSB:**</sub></small>
 These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H1540K\|הֶגְלָ֖ה]] [[H5019\|נְבֽוּכַדְרֶאצַּ֑ר]] [[H9003\|בִּ]][[H8141\|שְׁנַת]][[H9014\|־]] [[H7651\|שֶׁ֕בַע]] [[H3064\|יְהוּדִ֕ים]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H7969\|שְׁלֹשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.27|<< Jeremiah 52:27]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.29|Jeremiah 52:29 >>]]</td></tr></table>
 

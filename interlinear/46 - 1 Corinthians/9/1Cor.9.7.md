@@ -1,10 +1,61 @@
+---
+title: 1 Corinthians 9:7
+type: Verse
+kjv: "Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?"
+bsb: "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Who tends a flock and does not drink of its milk?"
+greek: "τίς στρατεύεται ἰδίοις ὀψωνίοις ποτέ; τίς φυτεύει ἀμπελῶνα καὶ ἐκ τὸν καρπὸν αὐτοῦ οὐκ ἐσθίει; ἢ τίς ποιμαίνει ποίμνην καὶ ἐκ τοῦ γάλακτος τῆς ποίμνης οὐκ ἐσθίει;"
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic MILK|MILK]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G5101]]"
+- "[[G4754]]"
+- "[[G2398]]"
+- "[[G3800]]"
+- "[[G4218]]"
+- "[[G5452]]"
+- "[[G0290]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2068]]"
+- "[[G2228]]"
+- "[[G4165]]"
+- "[[G4167]]"
+- "[[G1051]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Corinthians 9:7**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?
 <small><sub>**BSB:**</sub></small>
 Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Who tends a flock and does not drink of its milk?
-<small><sub>**Literal:**</sub></small>
-who serves as a soldier at [his] own expense at any time? Who plants a vineyard and from the fruit of it not does eat? Or who shepherds a flock and from the milk of the flock not does drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.6|<< 1 Corinthians 9:6]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.8|1 Corinthians 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G4754\|στρατεύεται]]  [[G2398\|ἰδίοις]]  [[G3800\|ὀψωνίοις]]  [[G4218\|ποτέ;]]  [[G5101\|τίς]]  [[G5452\|φυτεύει]]  [[G0290\|ἀμπελῶνα]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τὸν]]  [[G2590\|καρπὸν]]  [[G0846\|αὐτοῦ]]  [[G3756\|οὐκ]]  [[G2068\|ἐσθίει;]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G4165\|ποιμαίνει]]  [[G4167\|ποίμνην]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G1051\|γάλακτος]]  [[G3588\|τῆς]]  [[G4167\|ποίμνης]]  [[G3756\|οὐκ]]  [[G2068\|ἐσθίει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic MILK|MILK]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.6|<< 1 Corinthians 9:6]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.8|1 Corinthians 9:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

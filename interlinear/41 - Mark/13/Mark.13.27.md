@@ -1,10 +1,61 @@
+---
+title: Mark 13:27
+type: Verse
+kjv: "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven."
+bsb: "And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven."
+jesus_said: "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven."
+greek: "καὶ τότε ἀποστελεῖ τοὺς ἀγγέλους αὐτοῦ καὶ ἐπισυνάξει τοὺς ἐκλεκτοὺς αὐτοῦ ἐκ τῶν τεσσάρων ἀνέμων ἀπ᾽ ἄκρου γῆς ἕως ἄκρου οὐρανοῦ."
+pericope: "[[Mark.13.24 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G1996]]"
+- "[[G1588]]"
+- "[[G1537]]"
+- "[[G5064]]"
+- "[[G0417]]"
+- "[[G0575]]"
+- "[[G0206]]"
+- "[[G1093G]]"
+- "[[G2193]]"
+- "[[G3772]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 13:27**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
 <small><sub>**BSB:**</sub></small>
 And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven.
-<small><sub>**Literal:**</sub></small>
-And then He will send the angels of him and will gather together the elect of Him from the four winds from [the] end of earth until [the] end of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.26|<< Mark 13:26]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.28|Mark 13:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5119\|τότε]]  [[G0649\|ἀποστελεῖ]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1996\|ἐπισυνάξει]]  [[G3588\|τοὺς]]  [[G1588\|ἐκλεκτοὺς]]  [[G0846\|αὐτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G0417\|ἀνέμων]]  [[G0575\|ἀπ᾽]]  [[G0206\|ἄκρου]]  [[G1093G\|γῆς]]  [[G2193\|ἕως]]  [[G0206\|ἄκρου]]  [[G3772\|οὐρανοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.26|<< Mark 13:26]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.28|Mark 13:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

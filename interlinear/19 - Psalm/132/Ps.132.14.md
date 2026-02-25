@@ -1,8 +1,56 @@
+---
+title: Psalm 132:14
+type: Verse
+kjv: "This is my rest for ever: here will I dwell; for I have desired it."
+bsb: "“This is My resting place forever and ever; here I will dwell, for I have desired this home."
+hebrew: "זֹאת־ מְנוּחָתִ֥י עֲדֵי־ עַ֑ד פֹּֽה־ אֵ֝שֵׁ֗ב כִּ֣י אִוִּתִֽיהָ׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H2063]]"
+- "[[H9014]]"
+- "[[H4496H]]"
+- "[[H9020]]"
+- "[[H5703]]"
+- "[[H6311]]"
+- "[[H3427]]"
+- "[[H3588A]]"
+- "[[H0183]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:14**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] my rest for ever: here will I dwell; for I have desired it.
 <small><sub>**BSB:**</sub></small>
 “This is My resting place forever and ever; here I will dwell, for I have desired this home.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹאת]][[H9014\|־]] [[H4496H\|מְנוּחָתִ֥]][[H9020\|י]] [[H5703\|עֲדֵי]][[H9014\|־]] [[H5703\|עַ֑ד]] [[H6311\|פֹּֽה]][[H9014\|־]] [[H3427\|אֵ֝שֵׁ֗ב]] [[H3588A\|כִּ֣י]] [[H0183\|אִוִּתִֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.13|<< Psalms 132:13]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.15|Psalms 132:15 >>]]</td></tr></table>
 

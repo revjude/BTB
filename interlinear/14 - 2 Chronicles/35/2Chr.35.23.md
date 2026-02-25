@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 35:23
+type: Verse
+kjv: "And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded."
+bsb: "There the archers shot King Josiah, who said to his servants, “Take me away, for I am badly wounded!”"
+hebrew: "וַיֹּרוּ֙ הַיֹּרִ֔ים לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לַעֲבָדָיו֙ הַעֲבִיר֔וּנִי כִּ֥י הָחֳלֵ֖יתִי מְאֹֽד׃"
+pericope: "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3384A]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H2977G]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5674C]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H2470H]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:23**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
 <small><sub>**BSB:**</sub></small>
 There the archers shot King Josiah, who said to his servants, “Take me away, for I am badly wounded!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3384A\|יֹּרוּ֙]] [[H9009\|הַ]][[H3384A\|יֹּרִ֔ים]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2977G\|יֹאשִׁיָּ֑הוּ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9005\|לַ]][[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H5674C\|הַעֲבִיר֔וּ]][[H9030\|נִי]] [[H3588A\|כִּ֥י]] [[H2470H\|הָחֳלֵ֖יתִי]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic JOSIAH|JOSIAH]] • [[topic MEGIDDO|MEGIDDO]] • [[topic PHARAOH|PHARAOH]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.22|<< 2 Chronicles 35:22]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.24|2 Chronicles 35:24 >>]]</td></tr></table>
 

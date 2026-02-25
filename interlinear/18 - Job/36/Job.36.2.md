@@ -1,8 +1,54 @@
+---
+title: Job 36:2
+type: Verse
+kjv: "Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf."
+bsb: "“Bear with me a little longer, and I will show you that there is more to be said on God’s behalf."
+hebrew: "כַּתַּר־ לִ֣י זְ֭עֵיר וַאֲחַוֶּ֑ךָּ כִּ֤י ע֖וֹד לֶאֱל֣וֹהַּ מִלִּֽים׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3803]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2191]]"
+- "[[H9002]]"
+- "[[H2331]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H0433]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:2**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Suffer me a little, and I will shew thee that [I have] yet to speak on God’s behalf.
 <small><sub>**BSB:**</sub></small>
 “Bear with me a little longer, and I will show you that there is more to be said on God’s behalf.
+<small><sub>**Hebrew:**</sub></small>
+[[H3803\|כַּתַּר]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H2191\|זְ֭עֵיר]] [[H9002\|וַ]][[H2331\|אֲחַוֶּ֑]][[H9031\|ךָּ]] [[H3588A\|כִּ֤י]] [[H5750\|ע֖וֹד]] [[H9005\|לֶ]][[H0433\|אֱל֣וֹהַּ]] [[H4405\|מִלִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.1|<< Job 36:1]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.3|Job 36:3 >>]]</td></tr></table>
 

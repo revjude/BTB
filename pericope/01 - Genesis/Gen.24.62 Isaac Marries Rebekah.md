@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaac Marries Rebekah
+type: Pericope
 pericope: "[[Gen.24.62 Isaac Marries Rebekah|Isaac Marries Rebekah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 24
 book/chapter: "[[Gen.24|Genesis 24]]"
-genre:
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.24.62]]"
 - "[[Gen.24.63]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.24.67]]"
 ---
 
-[[Gen.24|Genesis 24:62 - Genesis 24:67]]
+<small>[[Gen.24|Genesis 24:62-67]]</small>
 *Isaac Marries Rebekah*
 
 [[Gen.24.62|62]] And Isaac came from the way of the well Lahairoi; for he dwelt in the south country.

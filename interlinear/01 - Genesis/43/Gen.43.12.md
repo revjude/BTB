@@ -1,8 +1,62 @@
+---
+title: Genesis 43:12
+type: Verse
+kjv: "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:"
+bsb: "Take double the silver with you so that you may return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake."
+hebrew: "וְכֶ֥סֶף מִשְׁנֶ֖ה קְח֣וּ בְיֶדְכֶ֑ם וְאֶת־ הַכֶּ֜סֶף הַמּוּשָׁ֨ב בְּפִ֤י אַמְתְּחֹֽתֵיכֶם֙ תָּשִׁ֣יבוּ בְיֶדְכֶ֔ם אוּלַ֥י מִשְׁגֶּ֖ה הֽוּא׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H4932H]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7725G]]"
+- "[[H6310G]]"
+- "[[H0572]]"
+- "[[H0194]]"
+- "[[H4870]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:12**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry [it] again in your hand; peradventure it [was] an oversight:
 <small><sub>**BSB:**</sub></small>
 Take double the silver with you so that you may return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3701G\|כֶ֥סֶף]] [[H4932H\|מִשְׁנֶ֖ה]] [[H3947G\|קְח֣וּ]] [[H9003\|בְ]][[H3027I\|יֶדְ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֜סֶף]] [[H9009\|הַ]][[H7725G\|מּוּשָׁ֨ב]] [[H9003\|בְּ]][[H6310G\|פִ֤י]] [[H0572\|אַמְתְּחֹֽתֵי]][[H9026\|כֶם֙]] [[H7725G\|תָּשִׁ֣יבוּ]] [[H9003\|בְ]][[H3027I\|יֶדְ]][[H9026\|כֶ֔ם]] [[H0194\|אוּלַ֥י]] [[H4870\|מִשְׁגֶּ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic JACOB|JACOB]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.11|<< Genesis 43:11]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.13|Genesis 43:13 >>]]</td></tr></table>
 

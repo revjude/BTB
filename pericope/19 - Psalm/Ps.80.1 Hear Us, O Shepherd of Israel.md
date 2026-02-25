@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hear Us, O Shepherd of Israel
+type: Pericope
 pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 80
 book/chapter: "[[Ps.80|Psalm 80]]"
-genre:
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 20
 verses:
 - "[[Ps.80.0]]"
 - "[[Ps.80.1]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ps.80.19]]"
 ---
 
-[[Ps.80|Psalm 80:1 - Psalm 80:19]]
+<small>[[Ps.80|Psalm 80:1-19]]</small>
 *Hear Us, O Shepherd of Israel*
 
 [[Ps.80.0|0]] To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.

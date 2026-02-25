@@ -1,10 +1,60 @@
+---
+title: Mark 10:25
+type: Verse
+kjv: "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+bsb: "It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”"
+jesus_said: "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+greek: "εὐκοπώτερόν ἐστιν κάμηλον διὰ τῆς τρυμαλιᾶς τῆς ῥαφίδος διελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic NEEDLE|NEEDLE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2123]]"
+- "[[G1510]]"
+- "[[G2574]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5168]]"
+- "[[G4476]]"
+- "[[G1330]]"
+- "[[G2228]]"
+- "[[G4145]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1525]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 10:25**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Easier it is [for] a camel through the eye of the needle to pass than [for] a rich man into the kingdom <the> of God to enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.24|<< Mark 10:24]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.26|Mark 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2123\|εὐκοπώτερόν]]  [[G1510\|ἐστιν]]  [[G2574\|κάμηλον]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5168\|τρυμαλιᾶς]]  [[G3588\|τῆς]]  [[G4476\|ῥαφίδος]]  [[G1330\|διελθεῖν]]  [[G2228\|ἢ]]  [[G4145\|πλούσιον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1525\|εἰσελθεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic NEEDLE|NEEDLE]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.24|<< Mark 10:24]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.26|Mark 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

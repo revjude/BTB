@@ -1,8 +1,52 @@
+---
+title: Job 38:27
+type: Verse
+kjv: "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?"
+bsb: "to satisfy the parched wasteland and make it sprout with tender grass?"
+hebrew: "לְהַשְׂבִּ֣יעַ שֹׁ֭אָה וּמְשֹׁאָ֑ה וּ֝לְהַצְמִ֗יחַ מֹ֣צָא דֶֽשֶׁא׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H9005]]"
+- "[[H7646]]"
+- "[[H7722B]]"
+- "[[H9002]]"
+- "[[H4875]]"
+- "[[H6779]]"
+- "[[H4161]]"
+- "[[H1877]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:27**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To satisfy the desolate and waste [ground]; and to cause the bud of the tender herb to spring forth?
 <small><sub>**BSB:**</sub></small>
 to satisfy the parched wasteland and make it sprout with tender grass?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7646\|הַשְׂבִּ֣יעַ]] [[H7722B\|שֹׁ֭אָה]] [[H9002\|וּ]][[H4875\|מְשֹׁאָ֑ה]] [[H9002\|וּ֝]][[H9005\|לְ]][[H6779\|הַצְמִ֗יחַ]] [[H4161\|מֹ֣צָא]] [[H1877\|דֶֽשֶׁא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.26|<< Job 38:26]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.28|Job 38:28 >>]]</td></tr></table>
 

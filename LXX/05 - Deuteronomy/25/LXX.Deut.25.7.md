@@ -1,6 +1,91 @@
+---
+title: LXX Deuteronomy 25:7
+type: Verse
+lxx: "But if the man does not want to take the wife  of his brother; then the woman shall ascend unto the gate to the council of elders, and shall say, The brother of my husband does not want to raise up the name  of his brother in Israel -- the brother of my husband does not want to."
+greek: "εάν δε μη βούληται ο άνθρωπος λαβείν την γυναίκα του αδελφού αυτού και αναβήσεται η γυνή επί την πύλην επί την γερουσίαν και ερεί ου θέλει ο αδελφός του ανδρός μου αναστήσαι το όνομα του αδελφού αυτού εν Ισραήλ ουκ ηθέλησεν ο αδελφός του ανδρός μου"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1014]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1087]]"
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G0450]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 25:7** 
 <small><sub>**LXX:**</sub></small>
 But if the man does not want to take the wife  of his brother; then the woman shall ascend unto the gate to the council of elders, and shall say, The brother of my husband does not want to raise up the name  of his brother in Israel -- the brother of my husband does not want to. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G3361\|μη]] [[G1014\|βούληται]] [[G3588\|ο]] [[G0444\|άνθρωπος]] [[G2983\|λαβείν]] [[G3588\|την]] [[G1135\|γυναίκα]] [[G3588\|του]] [[G0080\|αδελφού]] [[G1473\|αυτού]] [[G2532\|και]] [[G0305\|αναβήσεται]] [[G3588\|η]] [[G1135\|γυνή]] [[G1909\|επί]] [[G3588\|την]] [[G4439\|πύλην]] [[G1909\|επί]] [[G3588\|την]] [[G1087\|γερουσίαν]] [[G2532\|και]] [[G2046\|ερεί]] [[G3756\|ου]] [[G2309\|θέλει]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G3588\|του]] [[G0435\|ανδρός]] [[G1473\|μου]] [[G0450\|αναστήσαι]] [[G3588\|το]] [[G3686\|όνομα]] [[G3588\|του]] [[G0080\|αδελφού]] [[G1473\|αυτού]] [[G1722\|εν]] [[G2474\|Ισραήλ]] [[G3756\|ουκ]] [[G2309\|ηθέλησεν]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G3588\|του]] [[G0435\|ανδρός]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.6|<< Deuteronomy 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.8|Deuteronomy 25:8 >>]]</td></tr></table>
 
@@ -47,6 +132,6 @@ But if the man does not want to take the wife  of his brother; then the woman sh
 | brother | **<big>[[G0080\|αδελφός]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of my husband | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Deut.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.6|<< Deuteronomy 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.8|Deuteronomy 25:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.6|<< Deuteronomy 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.8|Deuteronomy 25:8 >>]]</td></tr></table>
 
 

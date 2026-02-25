@@ -1,8 +1,45 @@
+---
+title: Song of Solomon 8:3
+type: Verse
+kjv: "His left hand should be under my head, and his right hand should embrace me."
+bsb: "His left hand is under my head, and his right arm embraces me."
+hebrew: "שְׂמֹאלוֹ֙ תַּ֣חַת רֹאשִׁ֔י וִֽימִינ֖וֹ תְּחַבְּקֵֽנִי׃"
+pericope: "[[Song.8.1 Longing for Her Beloved|Longing for Her Beloved]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H8040G]]"
+- "[[H9023]]"
+- "[[H8478G]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H2263]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:3**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His left hand [should be] under my head, and his right hand should embrace me.
 <small><sub>**BSB:**</sub></small>
 His left hand is under my head, and his right arm embraces me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8040G\|שְׂמֹאל]][[H9023\|וֹ֙]] [[H8478G\|תַּ֣חַת]] [[H7218A\|רֹאשִׁ֔]][[H9020\|י]] [[H9002\|וִֽ]][[H3225G\|ימִינ֖]][[H9023\|וֹ]] [[H2263\|תְּחַבְּקֵֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.2|<< Song of Solomon 8:2]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.4|Song of Solomon 8:4 >>]]</td></tr></table>
 

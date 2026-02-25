@@ -1,8 +1,82 @@
+---
+title: Genesis 27:19
+type: Verse
+kjv: "And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me."
+bsb: "Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.”"
+hebrew: "וַיֹּ֨אמֶר יַעֲקֹ֜ב אֶל־ אָבִ֗יו אָנֹכִי֙ עֵשָׂ֣ו בְּכֹרֶ֔ךָ עָשִׂ֕יתִי כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָ֑י קֽוּם־ נָ֣א שְׁבָ֗ה וְאָכְלָה֙ מִצֵּידִ֔י בַּעֲב֖וּר תְּבָרֲכַ֥נִּי נַפְשֶֽׁךָ׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0595]]"
+- "[[H6215G]]"
+- "[[H1060]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9030]]"
+- "[[H6965B]]"
+- "[[H4994]]"
+- "[[H3427]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H6718A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H1288]]"
+- "[[H5315I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:19**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said unto his father, I [am] Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.
 <small><sub>**BSB:**</sub></small>
 Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3290\|יַעֲקֹ֜ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֗י]][[H9023\|ו]] [[H0595\|אָנֹכִי֙]] [[H6215G\|עֵשָׂ֣ו]] [[H1060\|בְּכֹרֶ֔]][[H9021\|ךָ]] [[H6213A\|עָשִׂ֕יתִי]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּ֖רְתָּ]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H6965B\|קֽוּם]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3427\|שְׁבָ֗]][[H9012\|ה]] [[H9002\|וְ]][[H0398\|אָכְלָ]][[H9012\|ה֙]] [[H9006\|מִ]][[H6718A\|צֵּידִ֔]][[H9020\|י]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H1288\|תְּבָרֲכַ֥]][[H9030\|נִּי]] [[H5315I\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.18|<< Genesis 27:18]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.20|Genesis 27:20 >>]]</td></tr></table>
 

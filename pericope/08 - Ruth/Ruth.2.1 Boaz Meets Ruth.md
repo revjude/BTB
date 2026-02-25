@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Boaz Meets Ruth
+type: Pericope
 pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 2
 book/chapter: "[[Ruth.2|Ruth 2]]"
-genre:
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 23
 verses:
 - "[[Ruth.2.1]]"
 - "[[Ruth.2.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ruth.2.23]]"
 ---
 
-[[Ruth.2|Ruth 2:1 - Ruth 2:23]]
+<small>[[Ruth.2|Ruth 2:1-23]]</small>
 *Boaz Meets Ruth*
 
 [[Ruth.2.1|1]] And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name \[was\] Boaz.

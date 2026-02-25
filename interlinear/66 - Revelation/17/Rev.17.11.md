@@ -1,10 +1,55 @@
+---
+title: Revelation 17:11
+type: Verse
+kjv: "And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition."
+bsb: "The beast that was, and now is not, is an eighth king, who belongs to the other seven and is going into destruction."
+greek: "Καὶ τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν, καὶ αὐτὸς ὄγδοός ἐστιν καὶ ἐκ τῶν ἑπτά ἐστιν καὶ εἰς ἀπώλειαν ὑπάγει."
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G0846]]"
+- "[[G3590]]"
+- "[[G1537]]"
+- "[[G2033]]"
+- "[[G1519]]"
+- "[[G0684]]"
+- "[[G5217]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 17:11**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
 <small><sub>**BSB:**</sub></small>
 The beast that was, and now is not, is an eighth king, who belongs to the other seven and is going into destruction.
-<small><sub>**Literal:**</sub></small>
-And the beast which was and not is, also himself an eighth is and of the seven is and into destruction goes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.10|<< Revelation 17:10]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.12|Revelation 17:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G3739\|ὃ]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3590\|ὄγδοός]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2033\|ἑπτά]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0684\|ἀπώλειαν]]  [[G5217\|ὑπάγει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.10|<< Revelation 17:10]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.12|Revelation 17:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

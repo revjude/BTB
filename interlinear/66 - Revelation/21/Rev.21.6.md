@@ -1,10 +1,68 @@
+---
+title: Revelation 21:6
+type: Verse
+kjv: "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely."
+bsb: "And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life."
+greek: "καὶ εἶπέν μοι· γέγοναν. ἐγώ εἰμι τὸ ἄλφα καὶ τὸ ὦ, ἡ ἀρχὴ καὶ τὸ τέλος. ἐγὼ τῷ διψῶντι δώσω ἐκ τῆς πηγῆς τοῦ ὕδατος τῆς ζωῆς δωρεάν."
+pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ALPHA|ALPHA]]"
+- "[[topic OMEGA|OMEGA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0001G]]"
+- "[[G5598]]"
+- "[[G0746]]"
+- "[[G5056]]"
+- "[[G1372]]"
+- "[[G1325]]"
+- "[[G1537]]"
+- "[[G4077]]"
+- "[[G5204]]"
+- "[[G2222]]"
+- "[[G1432]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Revelation 21:6**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
 <small><sub>**BSB:**</sub></small>
 And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life.
-<small><sub>**Literal:**</sub></small>
-And He said to me; It has been done! I myself am the Alpha and the Omega, the beginning and the end. I myself to the [one] thirsting I will give of the spring of the water <the> of life freely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.5|<< Revelation 21:5]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.7|Revelation 21:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπέν]]  [[G3165\|μοι·]]  [[G1096\|γέγοναν.]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|τὸ]]  [[G0001G\|ἄλφα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5598\|ὦ,]]  [[G3588\|ἡ]]  [[G0746\|ἀρχὴ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5056\|τέλος.]]  [[G1473\|ἐγὼ]]  [[G3588\|τῷ]]  [[G1372\|διψῶντι]]  [[G1325\|δώσω]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4077\|πηγῆς]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G1432\|δωρεάν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALPHA|ALPHA]] • [[topic OMEGA|OMEGA]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic THIRST|THIRST]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.5|<< Revelation 21:5]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.7|Revelation 21:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:6** is...
 > $\quad$ alluding to: [[LXX.Isa.55.1|Isa 55:1]]

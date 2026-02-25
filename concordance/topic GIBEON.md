@@ -7,7 +7,7 @@
 
 - Made servants by the Israelites, when their sharp practice was  discovered [[Josh.9.27|Jos 9:27]]
 
-- The sun stands still over, during Joshua's battle with the five  confederated kings [[Josh.10.12|Jos 10:12]]-[[Josh.10.14|14]]
+- The sun stands still over, during Joshua's battle with the five  confederated kings [[Josh.10.12|Jos 10:12-14]]
 
 - Allotted to Benjamin [[Josh.18.25|Jos 18:25]]
 
@@ -17,7 +17,7 @@
 
 - Smitten by David [[1Chr.14.16|1Ch 14:16]]
 
-- Seven sons of Saul killed at, to avenge the inhabitants of [[2Sam.21.1|2Sa 21:1]]-[[2Sam.21.9|9]]
+- Seven sons of Saul killed at, to avenge the inhabitants of [[2Sam.21.1|2Sa 21:1-9]]
 
 - Solomon worships at, and offers sacrifices [[1Kgs.3.4|1Ki 3:4]]
 
@@ -25,7 +25,7 @@
 
 - Abner slays Asahel at [[2Sam.3.30|2Sa 3:30]]
 
-- Ishmael, the son of Nethaniah, defeated at, by Johanan [[Jer.41.11|Jer 41:11]]-[[Jer.41.16|16]]
+- Ishmael, the son of Nethaniah, defeated at, by Johanan [[Jer.41.11|Jer 41:11-16]]
 
 2. Pool of [[2Sam.2.13|2Sa 2:13]]; [[Jer.41.12|Jer 41:12]]
 

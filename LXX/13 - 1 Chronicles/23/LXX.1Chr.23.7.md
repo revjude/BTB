@@ -1,6 +1,43 @@
+---
+title: LXX 1 Chronicles 23:7
+type: Verse
+lxx: "And to the family of Gershon -- Ladan and Shimei."
+greek: "και τω Γερσών Λααδάν και Σεμεεί"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LAADAN|LAADAN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H1648]]"
+- "[[H3936]]"
+- "[[G2532]]"
+- "[[H8096]]"
+---
+
 **LXX 1 Chronicles 23:7** 
 <small><sub>**LXX:**</sub></small>
 And to the \[family\] of Gershon -- Ladan and Shimei. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τω]] [[H1648\|Γερσών]] [[H3936\|Λααδάν]] [[G2532\|και]] [[H8096\|Σεμεεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAADAN|LAADAN]] • [[topic LEVITES|LEVITES]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.6|<< 1 Chronicles 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.8|1 Chronicles 23:8 >>]]</td></tr></table>
 
@@ -12,6 +49,6 @@ And to the \[family\] of Gershon -- Ladan and Shimei.
 | Ladan | **<big>[[H3936\|Λααδάν]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Shimei. | **<big>[[H8096\|Σεμεεί]]</big>** |
-[[1Chr.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.6|<< 1 Chronicles 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.8|1 Chronicles 23:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.6|<< 1 Chronicles 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.8|1 Chronicles 23:8 >>]]</td></tr></table>
 
 

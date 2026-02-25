@@ -1,6 +1,86 @@
+---
+title: LXX Genesis 35:4
+type: Verse
+lxx: "And they gave  to Jacob  the alien gods, which were in  their hands, and the ear-rings  in  their ears. And Jacob hid them under the turpentine tree, the one in Shechem. And he destroyed them unto  today's day."
+greek: "και έδωκαν τω Ιακώβ τους θεούς τους αλλοτρίους οι ήσαν εν ταις χερσίν αυτών και τα ενώτια τα εν τοις ωσίν αυτών και κατέκρυψεν αυτά Ιακώβ υπό την τερέβινθον την εν Σικίμοις και απώλεσεν αυτά έως της σήμερον ημέρας"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic EAR-RING|EAR-RING]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic OAK|OAK]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2384]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G0245]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G7278]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G7861]]"
+- "[[G1473]]"
+- "[[G2384]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G9421]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4966]]"
+- "[[G2532]]"
+- "[[G0622]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G4594]]"
+- "[[G2250]]"
+---
+
 **LXX Genesis 35:4** 
 <small><sub>**LXX:**</sub></small>
 And they gave  to Jacob  the alien gods, which were in  their hands, and the ear-rings  in  their ears. And Jacob hid them under the turpentine tree, the one in Shechem. And he destroyed them unto  today's day. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1325\|έδωκαν]] [[G3588\|τω]] [[G2384\|Ιακώβ]] [[G3588\|τους]] [[G2316\|θεούς]] [[G3588\|τους]] [[G0245\|αλλοτρίους]] [[G3739\|οι]] [[G1510\|ήσαν]] [[G1722\|εν]] [[G3588\|ταις]] [[G5495\|χερσίν]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|τα]] [[G7278\|ενώτια]] [[G3588\|τα]] [[G1722\|εν]] [[G3588\|τοις]] [[G3775\|ωσίν]] [[G1473\|αυτών]] [[G2532\|και]] [[G7861\|κατέκρυψεν]] [[G1473\|αυτά]] [[G2384\|Ιακώβ]] [[G5259\|υπό]] [[G3588\|την]] [[G9421\|τερέβινθον]] [[G3588\|την]] [[G1722\|εν]] [[G4966\|Σικίμοις]] [[G2532\|και]] [[G0622\|απώλεσεν]] [[G1473\|αυτά]] [[G2193\|έως]] [[G3588\|της]] [[G4594\|σήμερον]] [[G2250\|ημέρας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic EAR-RING|EAR-RING]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JACOB|JACOB]] • [[topic JEWELS|JEWELS]] • [[topic OAK|OAK]] • [[topic POLYTHEISM|POLYTHEISM]] • [[topic TERAPHIM|TERAPHIM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.3|<< Genesis 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.5|Genesis 35:5 >>]]</td></tr></table>
 
@@ -43,6 +123,6 @@ And they gave  to Jacob  the alien gods, which were in  their hands, and the ear
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | today's | **<big>[[G4594\|σήμερον]]</big>** |
 | day. | **<big>[[G2250\|ημέρας]]</big>** |
-[[Gen.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.3|<< Genesis 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.5|Genesis 35:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.3|<< Genesis 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.5|Genesis 35:5 >>]]</td></tr></table>
 
 

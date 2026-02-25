@@ -1,8 +1,49 @@
+---
+title: Joshua 15:58
+type: Verse
+kjv: "Halhul, Bethzur, and Gedor,"
+bsb: "Halhul, Beth-zur, Gedor,"
+hebrew: "חַלְח֥וּל בֵּֽית־ צ֖וּר וּגְדֽוֹר׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-GADER|BETH-GADER]]"
+- "[[topic BETH-ZUR|BETH-ZUR]]"
+- "[[topic GEDOR|GEDOR]]"
+- "[[topic HALHUL|HALHUL]]"
+strongs:
+- "[[H2478]]"
+- "[[H1049]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1446G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:58**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Halhul, Bethzur, and Gedor,
 <small><sub>**BSB:**</sub></small>
 Halhul, Beth-zur, Gedor,
+<small><sub>**Hebrew:**</sub></small>
+[[H2478\|חַלְח֥וּל]] [[H1049\|בֵּֽית]][[H9014\|־]] [[H1049\|צ֖וּר]] [[H9002\|וּ]][[H1446G\|גְדֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-GADER|BETH-GADER]] • [[topic BETH-ZUR|BETH-ZUR]] • [[topic GEDOR|GEDOR]] • [[topic HALHUL|HALHUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.57|<< Joshua 15:57]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.59|Joshua 15:59 >>]]</td></tr></table>
 

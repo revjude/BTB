@@ -1,8 +1,77 @@
+---
+title: Exodus 38:26
+type: Verse
+kjv: "A bekah for every man, that is, half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty men."
+bsb: "a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men."
+hebrew: "בֶּ֚קַע לַגֻּלְגֹּ֔לֶת מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ לְכֹ֨ל הָעֹבֵ֜ר עַל־ הַפְּקֻדִ֗ים מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה לְשֵׁשׁ־ מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BEKAH|BEKAH]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TALENT|TALENT]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H1235]]"
+- "[[H9005]]"
+- "[[H1538]]"
+- "[[H4276]]"
+- "[[H9009]]"
+- "[[H8255]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6485A]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H7969]]"
+- "[[H2568]]"
+- "[[H2572]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:26**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A bekah for every man, [that is], half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty [men].
 <small><sub>**BSB:**</sub></small>
 a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.
+<small><sub>**Hebrew:**</sub></small>
+[[H1235\|בֶּ֚קַע]] [[H9005\|לַ]][[H1538\|גֻּלְגֹּ֔לֶת]] [[H4276\|מַחֲצִ֥ית]] [[H9009\|הַ]][[H8255\|שֶּׁ֖קֶל]] [[H9003\|בְּ]][[H8255\|שֶׁ֣קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9005\|לְ]][[H3605\|כֹ֨ל]] [[H9009\|הָ]][[H5674A\|עֹבֵ֜ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6485A\|פְּקֻדִ֗ים]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֙לֶף֙]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEKAH|BEKAH]] • [[topic CENSUS|CENSUS]] • [[topic RELIGION|RELIGION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TALENT|TALENT]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.25|<< Exodus 38:25]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.27|Exodus 38:27 >>]]</td></tr></table>
 

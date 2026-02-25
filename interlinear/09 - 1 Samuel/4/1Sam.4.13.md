@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 4:13
+type: Verse
+kjv: "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out."
+bsb: "When he arrived, there was Eli, sitting on his chair beside the road and watching, because his heart trembled for the ark of God. When the man entered the city to give a report, the whole city cried out."
+hebrew: "וַיָּב֗וֹא וְהִנֵּ֣ה עֵ֠לִי יֹשֵׁ֨ב עַֽל־ הַכִּסֵּ֜א יַ֥ד דֶּ֙רֶךְ֙ מְצַפֶּ֔ה כִּֽי־ הָיָ֤ה לִבּוֹ֙ חָרֵ֔ד עַ֖ל אֲר֣וֹן הָאֱלֹהִ֑ים וְהָאִ֗ישׁ בָּ֚א לְהַגִּ֣יד בָּעִ֔יר וַתִּזְעַ֖ק כָּל־ הָעִֽיר׃"
+pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ELI|ELI]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5941]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3678I]]"
+- "[[H3197]]"
+- "[[H3027J]]"
+- "[[H1870K]]"
+- "[[H6822]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H2730]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2199]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 4:13**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told [it], all the city cried out.
 <small><sub>**BSB:**</sub></small>
 When he arrived, there was Eli, sitting on his chair beside the road and watching, because his heart trembled for the ark of God. When the man entered the city to give a report, the whole city cried out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּב֗וֹא]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H5941\|עֵ֠לִי]] [[H3427\|יֹשֵׁ֨ב]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H3678I\|כִּסֵּ֜א]] [[H3027J\|יַ֥ד]] [[H1870K\|דֶּ֙רֶךְ֙]] [[H6822\|מְצַפֶּ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֤ה]] [[H3820A\|לִבּ]][[H9023\|וֹ֙]] [[H2730\|חָרֵ֔ד]] [[H5921A\|עַ֖ל]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H0935G\|בָּ֚א]] [[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9003\|בָּ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H2199\|תִּזְעַ֖ק]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ELI|ELI]] • [[topic PARENTS|PARENTS]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.12|<< 1 Samuel 4:12]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.14|1 Samuel 4:14 >>]]</td></tr></table>
 

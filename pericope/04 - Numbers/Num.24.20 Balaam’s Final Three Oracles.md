@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balaam’s Final Three Oracles
+type: Pericope
 pericope: "[[Num.24.20 Balaam’s Final Three Oracles|Balaam’s Final Three Oracles]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 24
 book/chapter: "[[Num.24|Numbers 24]]"
-genre:
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.24.20]]"
 - "[[Num.24.21]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.24.25]]"
 ---
 
-[[Num.24|Numbers 24:20 - Numbers 24:25]]
+<small>[[Num.24|Numbers 24:20-25]]</small>
 *Balaam’s Final Three Oracles*
 
 [[Num.24.20|20]] And when he looked on Amalek, he took up his parable, and said, Amalek \[was\] the first of the nations; but his latter end \[shall be\] that he perish for ever.

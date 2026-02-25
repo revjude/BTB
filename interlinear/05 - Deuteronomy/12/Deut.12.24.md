@@ -1,8 +1,56 @@
+---
+title: Deuteronomy 12:24
+type: Verse
+kjv: "Thou shalt not eat it; thou shalt pour it upon the earth as water."
+bsb: "You must not eat the blood; pour it on the ground like water."
+hebrew: "לֹ֖א תֹּאכְלֶ֑נּוּ עַל־ הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H8210G]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:24**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not eat it; thou shalt pour it upon the earth as water.
 <small><sub>**BSB:**</sub></small>
 You must not eat the blood; pour it on the ground like water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֖א]] [[H0398\|תֹּאכְלֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֥רֶץ]] [[H8210G\|תִּשְׁפְּכֶ֖]][[H9033\|נּוּ]] [[H9004\|כַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.23|<< Deuteronomy 12:23]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.25|Deuteronomy 12:25 >>]]</td></tr></table>
 

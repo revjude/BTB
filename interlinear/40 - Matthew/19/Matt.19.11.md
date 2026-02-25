@@ -1,10 +1,55 @@
+---
+title: Matthew 19:11
+type: Verse
+kjv: "But he said unto them, All men cannot receive this saying, save they to whom it is given."
+bsb: "“Not everyone can accept this word,” He replied, “but only those to whom it has been given."
+jesus_said: "All men cannot receive this saying, save they to whom it is given."
+greek: "Ὁ δὲ εἶπεν αὐτοῖς· οὐ πάντες χωροῦσιν τὸν λόγον τοῦτον ἀλλ᾽ οἷς δέδοται."
+pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3956]]"
+- "[[G5562]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G1325]]"
+texts:
+- NKO
+---
+
 **Matthew 19:11**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he said unto them, All [men] cannot receive this saying, save [they] to whom it is given.
 <small><sub>**BSB:**</sub></small>
 “Not everyone can accept this word,” He replied, “but only those to whom it has been given.
-<small><sub>**Literal:**</sub></small>
-<the> And He said to them; Not all receive <the> word this but only [those] to whom it has been given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.10|<< Matthew 19:10]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.12|Matthew 19:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐ]]  [[G3956\|πάντες]]  [[G5562\|χωροῦσιν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3778\|τοῦτον]]  [[G0235\|ἀλλ᾽]]  [[G3739\|οἷς]]  [[G1325\|δέδοται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic DIVORCE|DIVORCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.10|<< Matthew 19:10]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.12|Matthew 19:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

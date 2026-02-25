@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 8:11
+type: Verse
+kjv: "Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;"
+bsb: "and King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he had subdued—"
+hebrew: "גַּם־ אֹתָ֕ם הִקְדִּ֛ישׁ הַמֶּ֥לֶךְ דָּוִ֖ד לַֽיהוָ֑ה עִם־ הַכֶּ֤סֶף וְהַזָּהָב֙ אֲשֶׁ֣ר הִקְדִּ֔ישׁ מִכָּל־ הַגּוֹיִ֖ם אֲשֶׁ֥ר כִּבֵּֽשׁ׃"
+pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6942H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H3533]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:11**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;
 <small><sub>**BSB:**</sub></small>
 and King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he had subdued—
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0853\|אֹתָ֕]][[H9038\|ם]] [[H6942H\|הִקְדִּ֛ישׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H1732\|דָּוִ֖ד]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֤סֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H2091\|זָּהָב֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6942H\|הִקְדִּ֔ישׁ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3533\|כִּבֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HADADEZER|HADADEZER]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SYRIA|SYRIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.10|<< 2 Samuel 8:10]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.12|2 Samuel 8:12 >>]]</td></tr></table>
 

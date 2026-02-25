@@ -1,8 +1,78 @@
+---
+title: Nehemiah 5:12
+type: Verse
+kjv: "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise."
+bsb: "“We will restore it,” they replied, “and will require nothing more from them. We will do as you say.” So I summoned the priests and required of the nobles and officials an oath that they would do what they had promised."
+hebrew: "וַיֹּאמְר֣וּ נָשִׁ֗יב וּמֵהֶם֙ לֹ֣א נְבַקֵּ֔שׁ כֵּ֣ן נַעֲשֶׂ֔ה כַּאֲשֶׁ֖ר אַתָּ֣ה אוֹמֵ֑ר וָאֶקְרָא֙ אֶת־ הַכֹּ֣הֲנִ֔ים וָֽאַשְׁבִּיעֵ֔ם לַעֲשׂ֖וֹת כַּדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7725H]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H1245]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0859A]]"
+- "[[H7121G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H1697O]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:12**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they, We will restore [them], and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.
 <small><sub>**BSB:**</sub></small>
 “We will restore it,” they replied, “and will require nothing more from them. We will do as you say.” So I summoned the priests and required of the nobles and officials an oath that they would do what they had promised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H7725H\|נָשִׁ֗יב]] [[H9002\|וּ]][[H9006\|מֵ]][[H9038\|הֶם֙]] [[H3808\|לֹ֣א]] [[H1245\|נְבַקֵּ֔שׁ]] [[H3651C\|כֵּ֣ן]] [[H6213A\|נַעֲשֶׂ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0859A\|אַתָּ֣ה]] [[H0559\|אוֹמֵ֑ר]] [[H9001\|וָ]][[H7121G\|אֶקְרָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9001\|וָֽ]][[H7650\|אַשְׁבִּיעֵ֔]][[H9038\|ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9004\|כַּ]][[H1697O\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic CREDITOR|CREDITOR]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEREST|INTEREST]] • [[topic KINDNESS|KINDNESS]] • [[topic LENDING|LENDING]] • [[topic LOVE|LOVE]] • [[topic OATH|OATH]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.11|<< Nehemiah 5:11]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.13|Nehemiah 5:13 >>]]</td></tr></table>
 

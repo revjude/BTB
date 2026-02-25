@@ -1,6 +1,80 @@
+---
+title: LXX 2 Kings 22:20
+type: Verse
+lxx: "Is it not so, behold, I add you to  your fathers, and you shall be brought into  your tomb in peace. And your eyes shall not see all the bad things which I bring against  this place. And they returned to the king the word."
+greek: "ουχι ούτως ιδού εγώ προστίθημι σε προς τους πατέρας σου και συναχθήση εις τον τάφον σου εν ειρήνη και ουκ όψονται οι όφθαλμοί σου πάντα τα κακά α εγώ επάγω επί τον τόπον τούτον και επέστρεψαν τω βασιλεί το ρήμα"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3780]]"
+- "[[G3779]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G4369]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5028]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1515]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2556]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G1863]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G4487]]"
+---
+
 **LXX 2 Kings 22:20** 
 <small><sub>**LXX:**</sub></small>
 Is it not so, behold, I add you to  your fathers, and you shall be brought into  your tomb in peace. And your eyes shall not see all the bad \[things\] which I bring against  this place. And they returned to the king the word. 
+<small><sub>**Greek:**</sub></small>
+[[G3780\|ουχι]] [[G3779\|ούτως]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G4369\|προστίθημι]] [[G1473\|σε]] [[G4314\|προς]] [[G3588\|τους]] [[G3962\|πατέρας]] [[G1473\|σου]] [[G2532\|και]] [[G4863\|συναχθήση]] [[G1519\|εις]] [[G3588\|τον]] [[G5028\|τάφον]] [[G1473\|σου]] [[G1722\|εν]] [[G1515\|ειρήνη]] [[G2532\|και]] [[G3756\|ουκ]] [[G3708\|όψονται]] [[G3588\|οι]] [[G3788\|όφθαλμοί]] [[G1473\|σου]] [[G3956\|πάντα]] [[G3588\|τα]] [[G2556\|κακά]] [[G3739\|α]] [[G1473\|εγώ]] [[G1863\|επάγω]] [[G1909\|επί]] [[G3588\|τον]] [[G5117\|τόπον]] [[G3778\|τούτον]] [[G2532\|και]] [[G1994\|επέστρεψαν]] [[G3588\|τω]] [[G0935\|βασιλεί]] [[G3588\|το]] [[G4487\|ρήμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic DEATH|DEATH]] • [[topic HULDAH|HULDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.19|<< 2 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.1|2 Kings 23:1 >>]]</td></tr></table>
 
@@ -41,6 +115,6 @@ Is it not so, behold, I add you to  your fathers, and you shall be brought into 
 | king | **<big>[[G0935\|βασιλεί]]</big>** |
 | the | **<big>[[G3588\|το]]</big>** |
 | word. | **<big>[[G4487\|ρήμα]]</big>** |
-[[2Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.19|<< 2 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.1|2 Kings 23:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.19|<< 2 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.1|2 Kings 23:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,55 @@
+---
+title: 1 Kings 20:37
+type: Verse
+kjv: "Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded him."
+bsb: "Then the prophet found another man and said, “Strike me, please!” So the man struck him and wounded him,"
+hebrew: "וַיִּמְצָא֙ אִ֣ישׁ אַחֵ֔ר וַיֹּ֖אמֶר הַכֵּ֣ינִי נָ֑א וַיַּכֵּ֥הוּ הָאִ֖ישׁ הַכֵּ֥ה וּפָצֹֽעַ׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H0376G]]"
+- "[[H0312]]"
+- "[[H0559]]"
+- "[[H5221]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H6481]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:37**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded [him].
 <small><sub>**BSB:**</sub></small>
 Then the prophet found another man and said, “Strike me, please!” So the man struck him and wounded him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|יִּמְצָא֙]] [[H0376G\|אִ֣ישׁ]] [[H0312\|אַחֵ֔ר]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H5221\|הַכֵּ֣י]][[H9030\|נִי]] [[H4994\|נָ֑א]] [[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9033\|הוּ]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H5221\|הַכֵּ֥ה]] [[H9002\|וּ]][[H6481\|פָצֹֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.36|<< 1 Kings 20:36]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.38|1 Kings 20:38 >>]]</td></tr></table>
 

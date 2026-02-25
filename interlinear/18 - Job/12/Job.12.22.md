@@ -1,8 +1,56 @@
+---
+title: Job 12:22
+type: Verse
+kjv: "He discovereth deep things out of darkness, and bringeth out to light the shadow of death."
+bsb: "He reveals the deep things of darkness and brings deep shadows into light."
+hebrew: "מְגַלֶּ֣ה עֲ֭מֻקוֹת מִנִּי־ חֹ֑שֶׁךְ וַיֹּצֵ֖א לָא֣וֹר צַלְמָֽוֶת׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1540H]]"
+- "[[H6013]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2822]]"
+- "[[H9001]]"
+- "[[H3318M]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H6757]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:22**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He discovereth deep things out of darkness, and bringeth out to light the shadow of death.
 <small><sub>**BSB:**</sub></small>
 He reveals the deep things of darkness and brings deep shadows into light.
+<small><sub>**Hebrew:**</sub></small>
+[[H1540H\|מְגַלֶּ֣ה]] [[H6013\|עֲ֭מֻקוֹת]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H2822\|חֹ֑שֶׁךְ]] [[H9001\|וַ]][[H3318M\|יֹּצֵ֖א]] [[H9005\|לָ]][[H0216\|א֣וֹר]] [[H6757\|צַלְמָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATHEISM|ATHEISM]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.21|<< Job 12:21]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.23|Job 12:23 >>]]</td></tr></table>
 

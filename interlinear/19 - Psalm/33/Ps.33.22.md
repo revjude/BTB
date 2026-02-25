@@ -1,8 +1,57 @@
+---
+title: Psalm 33:22
+type: Verse
+kjv: "Let thy mercy, O LORD, be upon us, according as we hope in thee."
+bsb: "May Your loving devotion rest on us, O LORD, as we put our hope in You."
+hebrew: "יְהִֽי־ חַסְדְּךָ֣ יְהוָ֣ה עָלֵ֑ינוּ כַּ֝אֲשֶׁ֗ר יִחַ֥לְנוּ לָֽךְ׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:22**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy mercy, O LORD, be upon us, according as we hope in thee.
 <small><sub>**BSB:**</sub></small>
 May Your loving devotion rest on us, O LORD, as we put our hope in You.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִֽי]][[H9014\|־]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֣]] [[H3068G\|יְהוָ֣ה]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9004\|כַּ֝]][[H0834D\|אֲשֶׁ֗ר]] [[H3176H\|יִחַ֥לְנוּ]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOPE|HOPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.21|<< Psalms 33:21]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.0|Psalms 34:0 >>]]</td></tr></table>
 

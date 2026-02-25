@@ -1,8 +1,58 @@
+---
+title: Leviticus 19:11
+type: Verse
+kjv: "Ye shall not steal, neither deal falsely, neither lie one to another."
+bsb: "You must not steal. You must not lie or deceive one another."
+hebrew: "לֹ֖א תִּגְנֹ֑בוּ וְלֹא־ תְכַחֲשׁ֥וּ וְלֹֽא־ תְשַׁקְּר֖וּ אִ֥ישׁ בַּעֲמִיתֽוֹ׃"
+pericope: "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H3808]]"
+- "[[H1589]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3584]]"
+- "[[H8266]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H5997]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:11**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not steal, neither deal falsely, neither lie one to another.
 <small><sub>**BSB:**</sub></small>
 You must not steal. You must not lie or deceive one another.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֖א]] [[H1589\|תִּגְנֹ֑בוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3584\|תְכַחֲשׁ֥וּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8266\|תְשַׁקְּר֖וּ]] [[H0376I\|אִ֥ישׁ]] [[H9003\|בַּ]][[H5997\|עֲמִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.10|<< Leviticus 19:10]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.12|Leviticus 19:12 >>]]</td></tr></table>
 

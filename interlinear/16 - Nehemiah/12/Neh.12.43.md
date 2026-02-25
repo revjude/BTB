@@ -1,8 +1,69 @@
+---
+title: Nehemiah 12:43
+type: Verse
+kjv: "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off."
+bsb: "On that day they offered great sacrifices, rejoicing because God had given them great joy. The women and children also rejoiced, so that the joy of Jerusalem was heard from afar."
+hebrew: "וַיִּזְבְּח֣וּ בַיּוֹם־ הַ֠הוּא זְבָחִ֨ים גְּדוֹלִ֜ים וַיִּשְׂמָ֗חוּ כִּ֤י הָאֱלֹהִים֙ שִׂמְּחָם֙ שִׂמְחָ֣ה גְדוֹלָ֔ה וְגַ֧ם הַנָּשִׁ֛ים וְהַיְלָדִ֖ים שָׂמֵ֑חוּ וַתִּשָּׁמַ֛ע שִׂמְחַ֥ת יְרוּשָׁלִַ֖ם מֵרָחֽוֹק׃"
+pericope: "[[Neh.12.27 The Dedication of the Wall|The Dedication of the Wall]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOY|JOY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2077]]"
+- "[[H1419A]]"
+- "[[H8055]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H9038]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0802G]]"
+- "[[H3206]]"
+- "[[H8085G]]"
+- "[[H3389]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:43**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.
 <small><sub>**BSB:**</sub></small>
 On that day they offered great sacrifices, rejoicing because God had given them great joy. The women and children also rejoiced, so that the joy of Jerusalem was heard from afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבְּח֣וּ]] [[H9003\|בַ]][[H3117G\|יּוֹם]][[H9014\|־]] [[H9009\|הַ֠]][[H1931\|הוּא]] [[H2077\|זְבָחִ֨ים]] [[H1419A\|גְּדוֹלִ֜ים]] [[H9001\|וַ]][[H8055\|יִּשְׂמָ֗חוּ]] [[H3588A\|כִּ֤י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֙]] [[H8055\|שִׂמְּחָ]][[H9038\|ם֙]] [[H8057\|שִׂמְחָ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H9002\|וְ]][[H1571\|גַ֧ם]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3206\|יְלָדִ֖ים]] [[H8055\|שָׂמֵ֑חוּ]] [[H9001\|וַ]][[H8085G\|תִּשָּׁמַ֛ע]] [[H8057\|שִׂמְחַ֥ת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9006\|מֵ]][[H7350\|רָחֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEDICATION|DEDICATION]] • [[topic EZRA|EZRA]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOY|JOY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.42|<< Nehemiah 12:42]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.44|Nehemiah 12:44 >>]]</td></tr></table>
 

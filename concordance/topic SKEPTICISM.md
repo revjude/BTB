@@ -5,7 +5,7 @@
 
 → Of Pharaoh [[Exod.5.2|Ex 5:2]]
 
-→ Of Thomas [[John.20.25|Joh 20:25]]-[[John.20.28|28]]
+→ Of Thomas [[John.20.25|Joh 20:25-28]]
 
 → See [[topic UNBELIEF|UNBELIEF]]
 

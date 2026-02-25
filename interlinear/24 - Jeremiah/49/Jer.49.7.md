@@ -1,8 +1,63 @@
+---
+title: Jeremiah 49:7
+type: Verse
+kjv: "Concerning Edom, thus saith the LORD of hosts; Is wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?"
+bsb: "Concerning Edom, this is what the LORD of Hosts says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?"
+hebrew: "לֶאֱד֗וֹם כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הַאֵ֥ין ע֛וֹד חָכְמָ֖ה בְּתֵימָ֑ן אָבְדָ֤ה עֵצָה֙ מִבָּנִ֔ים נִסְרְחָ֖ה חָכְמָתָֽם׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic TEMAN|TEMAN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H0123G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9008]]"
+- "[[H0369]]"
+- "[[H5750]]"
+- "[[H2451]]"
+- "[[H9003]]"
+- "[[H8487H]]"
+- "[[H0006]]"
+- "[[H6098]]"
+- "[[H9006]]"
+- "[[H0995]]"
+- "[[H5628]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:7**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning Edom, thus saith the LORD of hosts; [Is] wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
 <small><sub>**BSB:**</sub></small>
 Concerning Edom, this is what the LORD of Hosts says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֶ]][[H0123G\|אֱד֗וֹם]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9008\|הַ]][[H0369\|אֵ֥ין]] [[H5750\|ע֛וֹד]] [[H2451\|חָכְמָ֖ה]] [[H9003\|בְּ]][[H8487H\|תֵימָ֑ן]] [[H0006\|אָבְדָ֤ה]] [[H6098\|עֵצָה֙]] [[H9006\|מִ]][[H0995\|בָּנִ֔ים]] [[H5628\|נִסְרְחָ֖ה]] [[H2451\|חָכְמָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic TEMAN|TEMAN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.6|<< Jeremiah 49:6]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.8|Jeremiah 49:8 >>]]</td></tr></table>
 

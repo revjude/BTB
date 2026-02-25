@@ -1,8 +1,66 @@
+---
+title: Jeremiah 17:13
+type: Verse
+kjv: "O LORD, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters."
+bsb: "O LORD, the hope of Israel, all who abandon You will be put to shame. All who turn away will be written in the dust, for they have abandoned the LORD, the fountain of living water."
+hebrew: "מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהוָ֔ה כָּל־ עֹזְבֶ֖יךָ יֵבֹ֑שׁוּ וְסוּרַי֙ בָּאָ֣רֶץ יִכָּתֵ֔בוּ כִּ֥י עָזְב֛וּ מְק֥וֹר מַֽיִם־ חַיִּ֖ים אֶת־ יְהוָֽה׃ ס"
+pericope: "[[Jer.17.12 Jeremiah’s Prayer for Deliverance|Jeremiah’s Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H4723B]]"
+- "[[H3478]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H9031]]"
+- "[[H0954]]"
+- "[[H3249]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5494]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3789]]"
+- "[[H3588A]]"
+- "[[H4726]]"
+- "[[H4325G]]"
+- "[[H2416A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:13**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, the hope of Israel, all that forsake thee shall be ashamed, [and] they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters.
 <small><sub>**BSB:**</sub></small>
 O LORD, the hope of Israel, all who abandon You will be put to shame. All who turn away will be written in the dust, for they have abandoned the LORD, the fountain of living water.
+<small><sub>**Hebrew:**</sub></small>
+[[H4723B\|מִקְוֵ֤ה]] [[H3478\|יִשְׂרָאֵל֙]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H5800A\|עֹזְבֶ֖י]][[H9031\|ךָ]] [[H0954\|יֵבֹ֑שׁוּ]] [[H9002\|וְ]][[H5494\|סוּרַ]][[H9020\|י֙]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H3789\|יִכָּתֵ֔בוּ]] [[H3588A\|כִּ֥י]] [[H5800A\|עָזְב֛וּ]] [[H4726\|מְק֥וֹר]] [[H4325G\|מַֽיִם]][[H9014\|־]] [[H2416A\|חַיִּ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.12|<< Jeremiah 17:12]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.14|Jeremiah 17:14 >>]]</td></tr></table>
 
@@ -23,11 +81,11 @@ O LORD, the hope of Israel, all who abandon You will be put to shame. All who tu
 | water  |**<big>&#8207;[[H4325G\|מַֽיִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.yim-<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | living  |**<big>&#8207;[[H2416A\|חַיִּ֖ים]]&#8207; </big>**| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.12|<< Jeremiah 17:12]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.14|Jeremiah 17:14 >>]]</td></tr></table>
 
-[^1]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^2]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^3]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^1]: departers my  | **<big>[[H3249|יִסּוֹרַ]]</big><big>[[H9020|י]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: departers my  | **<big>[[H3249|יִסּוֹרַ]]</big><big>[[H9020|י]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: departers my  | **<big>[[H3249|יִסּוֹרַ]]</big><big>[[H9020|י]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>יְסוּרַי֙</big></span>**
 

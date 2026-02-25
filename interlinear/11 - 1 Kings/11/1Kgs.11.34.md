@@ -1,8 +1,77 @@
+---
+title: 1 Kings 11:34
+type: Verse
+kjv: "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:"
+bsb: "Nevertheless, I will not take the whole kingdom out of Solomon’s hand, because I have made him ruler all the days of his life for the sake of David My servant, whom I chose because he kept My commandments and statutes."
+hebrew: "וְלֹֽא־ אֶקַּ֥ח אֶת־ כָּל־ הַמַּמְלָכָ֖ה מִיָּד֑וֹ כִּ֣י׀ נָשִׂ֣יא אֲשִׁתֶ֗נּוּ כֹּ֚ל יְמֵ֣י חַיָּ֔יו לְמַ֨עַן דָּוִ֤ד עַבְדִּי֙ אֲשֶׁ֣ר בָּחַ֣רְתִּי אֹת֔וֹ אֲשֶׁ֥ר שָׁמַ֖ר מִצְוֹתַ֥י וְחֻקֹּתָֽי׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H5387A]]"
+- "[[H7896G]]"
+- "[[H9033]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H4616]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H2708]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:34**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:
 <small><sub>**BSB:**</sub></small>
 Nevertheless, I will not take the whole kingdom out of Solomon’s hand, because I have made him ruler all the days of his life for the sake of David My servant, whom I chose because he kept My commandments and statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3947G\|אֶקַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H9006\|מִ]][[H3027H\|יָּד֑]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H5387A\|נָשִׂ֣יא]] [[H7896G\|אֲשִׁתֶ֗]][[H9033\|נּוּ]] [[H3605\|כֹּ֚ל]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיָּ֔י]][[H9023\|ו]] [[H4616\|לְמַ֨עַן]] [[H1732\|דָּוִ֤ד]] [[H5650\|עַבְדִּ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֣רְתִּי]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H8104G\|שָׁמַ֖ר]] [[H4687\|מִצְוֹתַ֥]][[H9020\|י]] [[H9002\|וְ]][[H2708\|חֻקֹּתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANAAN|CANAAN]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEROBOAM|JEROBOAM]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.33|<< 1 Kings 11:33]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.35|1 Kings 11:35 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Matthew 11:29
+type: Verse
+kjv: "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+bsb: "Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls."
+jesus_said: "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+greek: "ἄρατε τὸν ζυγόν μου ἐφ᾽ ὑμᾶς καὶ μάθετε ἀπ᾽ ἐμοῦ ὅτι πραΰς εἰμι καὶ ταπεινὸς τῇ καρδίᾳ, καὶ εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν."
+pericope: "[[Matt.11.25 Rest for the Weary|Rest for the Weary]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REST|REST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2218]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3129]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G3754H]]"
+- "[[G4235]]"
+- "[[G1510]]"
+- "[[G5011]]"
+- "[[G2588]]"
+- "[[G2147]]"
+- "[[G0372]]"
+- "[[G5590G]]"
+texts:
+- NKO
+---
+
 **Matthew 11:29**<big><big>[[Matt.11.25 Rest for the Weary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
 <small><sub>**BSB:**</sub></small>
 Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls.
-<small><sub>**Literal:**</sub></small>
-do take the yoke of Mine upon you and do learn from Me for gentle I am and humble <the> in heart, and you will find rest for the souls of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.28|<< Matthew 11:28]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.30|Matthew 11:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0142\|ἄρατε]]  [[G3588\|τὸν]]  [[G2218\|ζυγόν]]  [[G3165\|μου]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3129\|μάθετε]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ]]  [[G3754H\|ὅτι]]  [[G4235\|πραΰς]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G5011\|ταπεινὸς]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ,]]  [[G2532\|καὶ]]  [[G2147\|εὑρήσετε]]  [[G0372\|ἀνάπαυσιν]]  [[G3588\|ταῖς]]  [[G5590G\|ψυχαῖς]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GENTLENESS|GENTLENESS]] • [[topic HEART|HEART]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PENITENT|PENITENT]] • [[topic REST|REST]] • [[topic SALVATION|SALVATION]] • [[topic YOKE|YOKE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.28|<< Matthew 11:28]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.30|Matthew 11:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 11:29** is...
 > $\quad$ referencing: [[LXX.Jer.6.16|Jer 6:16]]

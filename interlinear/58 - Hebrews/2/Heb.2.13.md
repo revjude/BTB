@@ -1,10 +1,57 @@
+---
+title: Hebrews 2:13
+type: Verse
+kjv: "And again, I will put my trust in him. And again, Behold I and the children which God hath given me."
+bsb: "And again: “I will put My trust in Him.” And once again: “Here am I, and the children God has given Me.”"
+greek: "καὶ πάλιν· ἐγὼ ἔσομαι πεποιθὼς ἐπ᾽ αὐτῷ. καὶ πάλιν· ἰδοὺ ἐγὼ καὶ τὰ παιδία ἅ μοι ἔδωκεν ὁ θεός.¶"
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3982]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G3739]]"
+- "[[G3165]]"
+- "[[G1325]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:13**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again, I will put my trust in him. And again, Behold I and the children which God hath given me.
 <small><sub>**BSB:**</sub></small>
 And again: “I will put My trust in Him.” And once again: “Here am I, and the children God has given Me.”
-<small><sub>**Literal:**</sub></small>
-And again: I myself will be already trusting in Him. And again: Behold I myself and the children whom to Me has given <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.12|<< Hebrews 2:12]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.14|Hebrews 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν·]]  [[G1473\|ἐγὼ]]  [[G1510\|ἔσομαι]]  [[G3982\|πεποιθὼς]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ.]]  [[G2532\|καὶ]]  [[G3825\|πάλιν·]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3813\|παιδία]]  [[G3739\|ἅ]]  [[G3165\|μοι]]  [[G1325\|ἔδωκεν]]  [[G3588\|ὁ]]  [[G2316\|θεός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.12|<< Hebrews 2:12]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.14|Hebrews 2:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 2:13** is...
 > $\quad$ referencing: [[LXX.Ps.18.2|Ps 18:2]] ☩ [[LXX.Isa.8.17|Isa 8:17-18]] ☩ [[LXX.Isa.12.2|Isa 12:2]] ☩ [[LXX.2Sam.22.2|2Sam 22:2-3]]

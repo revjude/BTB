@@ -1,10 +1,62 @@
+---
+title: John 12:24
+type: Verse
+kjv: "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
+bsb: "Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit."
+jesus_said: "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
+greek: "ἀμὴν ἀμὴν λέγω ὑμῖν· ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει· ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CORN|CORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G2848]]"
+- "[[G4621]]"
+- "[[G4098]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G0599]]"
+- "[[G0846]]"
+- "[[G3441]]"
+- "[[G3306]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G2590]]"
+- "[[G5342]]"
+texts:
+- NKO
+---
+
 **John 12:24**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit.
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you; only unless the grain <the> of wheat having fallen into the ground shall die, it alone abides; if however it shall die, much fruit it bears.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.23|<< John 12:23]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.25|John 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G2848\|κόκκος]]  [[G3588\|τοῦ]]  [[G4621\|σίτου]]  [[G4098\|πεσὼν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G0599\|ἀποθάνῃ,]]  [[G0846\|αὐτὸς]]  [[G3441\|μόνος]]  [[G3306\|μένει·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G0599\|ἀποθάνῃ,]]  [[G4183\|πολὺν]]  [[G2590\|καρπὸν]]  [[G5342\|φέρει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORN|CORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WHEAT|WHEAT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.23|<< John 12:23]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.25|John 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

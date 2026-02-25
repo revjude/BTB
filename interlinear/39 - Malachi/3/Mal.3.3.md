@@ -1,8 +1,76 @@
+---
+title: Malachi 3:3
+type: Verse
+kjv: "And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness."
+bsb: "And He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the LORD in righteousness."
+hebrew: "וְיָשַׁ֨ב מְצָרֵ֤ף וּמְטַהֵר֙ כֶּ֔סֶף וְטִהַ֤ר אֶת־ בְּנֵֽי־ לֵוִי֙ וְזִקַּ֣ק אֹתָ֔ם כַּזָּהָ֖ב וְכַכָּ֑סֶף וְהָיוּ֙ לַֽיהוָ֔ה מַגִּישֵׁ֥י מִנְחָ֖ה בִּצְדָקָֽה׃"
+pericope: "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ART|ART]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REFINING|REFINING]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H6884]]"
+- "[[H9002]]"
+- "[[H2891]]"
+- "[[H3701G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H2212]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H2091]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5066H]]"
+- "[[H4503G]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:3**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sit [as] a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
 <small><sub>**BSB:**</sub></small>
 And He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the LORD in righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשַׁ֨ב]] [[H6884\|מְצָרֵ֤ף]] [[H9002\|וּ]][[H2891\|מְטַהֵר֙]] [[H3701G\|כֶּ֔סֶף]] [[H9001\|וְ]][[H2891\|טִהַ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3878\|לֵוִי֙]] [[H9001\|וְ]][[H2212\|זִקַּ֣ק]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9004\|כַּ]][[H2091\|זָּהָ֖ב]] [[H9002\|וְ]][[H9004\|כַ]][[H3701G\|כָּ֑סֶף]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H5066H\|מַגִּישֵׁ֥י]] [[H4503G\|מִנְחָ֖ה]] [[H9003\|בִּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ART|ART]] • [[topic BLESSING|BLESSING]] • [[topic FURNACE|FURNACE]] • [[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEVITES|LEVITES]] • [[topic MALACHI|MALACHI]] • [[topic PURITY|PURITY]] • [[topic REFINING|REFINING]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SILVER|SILVER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.2|<< Malachi 3:2]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.4|Malachi 3:4 >>]]</td></tr></table>
 

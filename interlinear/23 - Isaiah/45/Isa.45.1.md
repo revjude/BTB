@@ -1,8 +1,72 @@
+---
+title: Isaiah 45:1
+type: Verse
+kjv: "Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;"
+bsb: "This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:"
+hebrew: "כֹּה־ אָמַ֣ר יְהוָה֮ לִמְשִׁיחוֹ֮ לְכ֣וֹרֶשׁ אֲשֶׁר־ הֶחֱזַ֣קְתִּי בִֽימִינ֗וֹ לְרַד־ לְפָנָיו֙ גּוֹיִ֔ם וּמָתְנֵ֥י מְלָכִ֖ים אֲפַתֵּ֑חַ לִפְתֹּ֤חַ לְפָנָיו֙ דְּלָתַ֔יִם וּשְׁעָרִ֖ים לֹ֥א יִסָּגֵֽרוּ׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4899]]"
+- "[[H9023]]"
+- "[[H3566]]"
+- "[[H0834A]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H3225G]]"
+- "[[H7286]]"
+- "[[H6440G]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4975]]"
+- "[[H4428G]]"
+- "[[H6605A]]"
+- "[[H1817C]]"
+- "[[H8179G]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:1**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֮]] [[H9005\|לִ]][[H4899\|מְשִׁיח]][[H9023\|וֹ֮]] [[H9005\|לְ]][[H3566\|כ֣וֹרֶשׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2388H\|הֶחֱזַ֣קְתִּי]] [[H9003\|בִֽ]][[H3225G\|ימִינ֗]][[H9023\|וֹ]] [[H9005\|לְ]][[H7286\|רַד]][[H9014\|־]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H1471A\|גּוֹיִ֔ם]] [[H9002\|וּ]][[H4975\|מָתְנֵ֥י]] [[H4428G\|מְלָכִ֖ים]] [[H6605A\|אֲפַתֵּ֑חַ]] [[H9005\|לִ]][[H6605A\|פְתֹּ֤חַ]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H1817C\|דְּלָתַ֔יִם]] [[H9002\|וּ]][[H8179G\|שְׁעָרִ֖ים]] [[H3808\|לֹ֥א]] [[H5462\|יִסָּגֵֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BABYLON|BABYLON]] • [[topic CALL|CALL]] • [[topic CYRUS|CYRUS]] • [[topic GATES|GATES]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.28|<< Isaiah 44:28]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.2|Isaiah 45:2 >>]]</td></tr></table>
 

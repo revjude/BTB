@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Our Apostle and High Priest
+type: Pericope
 pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 3
 book/chapter: "[[Heb.3|Hebrews 3]]"
-genre:
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 6
 verses:
 - "[[Heb.3.1]]"
 - "[[Heb.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Heb.3.6]]"
 ---
 
-[[Heb.3|Hebrews 3:1 - Hebrews 3:6]]
+<small>[[Heb.3|Hebrews 3:1-6]]</small>
 *Jesus Our Apostle and High Priest*
 
 [[Heb.3.1|1]] Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;

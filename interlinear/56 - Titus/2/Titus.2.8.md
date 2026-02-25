@@ -1,10 +1,56 @@
+---
+title: Titus 2:8
+type: Verse
+kjv: "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you."
+bsb: "and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us."
+greek: "λόγον ὑγιῆ, ἀκατάγνωστον, ἵνα ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν περὶ ἡμῶν φαῦλον.¶"
+pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3056]]"
+- "[[G5199]]"
+- "[[G0176]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G1727]]"
+- "[[G1788]]"
+- "[[G3367]]"
+- "[[G2192]]"
+- "[[G3004G]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G5337]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Titus 2:8**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 <small><sub>**BSB:**</sub></small>
 and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us.
-<small><sub>**Literal:**</sub></small>
-speech sound, beyond reproach, so that he who is of the contrary may be ashamed nothing having to say concerning us evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.7|<< Titus 2:7]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.9|Titus 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3056\|λόγον]]  [[G5199\|ὑγιῆ,]]  [[G0176\|ἀκατάγνωστον,]]  [[G2443\|ἵνα]]  [[G3588\|ὁ]]  [[G1537\|ἐξ]]  [[G1727\|ἐναντίας]]  [[G1788\|ἐντραπῇ]]  [[G3367\|μηδὲν]]  [[G2192\|ἔχων]]  [[G3004G\|λέγειν]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν]]  [[G5337\|φαῦλον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.7|<< Titus 2:7]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.9|Titus 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

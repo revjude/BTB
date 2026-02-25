@@ -1,8 +1,57 @@
+---
+title: Jeremiah 15:5
+type: Verse
+kjv: "For who shall have pity upon thee, O Jerusalem? or who shall bemoan thee? or who shall go aside to ask how thou doest?"
+bsb: "Who will have pity on you, O Jerusalem? Who will mourn for you? Who will turn aside to ask about your welfare?"
+hebrew: "כִּ֠י מִֽי־ יַחְמֹ֤ל עָלַ֙יִךְ֙ יְר֣וּשָׁלִַ֔ם וּמִ֖י יָנ֣וּד לָ֑ךְ וּמִ֣י יָס֔וּר לִשְׁאֹ֥ל לְשָׁלֹ֖ם לָֽךְ׃"
+pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H2550]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H5110]]"
+- "[[H9005]]"
+- "[[H5493I]]"
+- "[[H7592]]"
+- "[[H7965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:5**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who shall have pity upon thee, O Jerusalem? or who shall bemoan thee? or who shall go aside to ask how thou doest?
 <small><sub>**BSB:**</sub></small>
 Who will have pity on you, O Jerusalem? Who will mourn for you? Who will turn aside to ask about your welfare?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H4310\|מִֽי]][[H9014\|־]] [[H2550\|יַחְמֹ֤ל]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9002\|וּ]][[H4310\|מִ֖י]] [[H5110\|יָנ֣וּד]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H5493I\|יָס֔וּר]] [[H9005\|לִ]][[H7592\|שְׁאֹ֥ל]] [[H9005\|לְ]][[H7965I\|שָׁלֹ֖ם]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.4|<< Jeremiah 15:4]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.6|Jeremiah 15:6 >>]]</td></tr></table>
 

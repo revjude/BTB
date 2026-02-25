@@ -1,8 +1,59 @@
+---
+title: Amos 1:14
+type: Verse
+kjv: "But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:"
+bsb: "So I will kindle a fire in the walls of Rabbah to consume its citadels amid war cries on the day of battle and a violent wind on the day of tempest."
+hebrew: "וְהִצַּ֤תִּי אֵשׁ֙ בְּחוֹמַ֣ת רַבָּ֔ה וְאָכְלָ֖ה אַרְמְנוֹתֶ֑יהָ בִּתְרוּעָה֙ בְּי֣וֹם מִלְחָמָ֔ה בְּסַ֖עַר בְּי֥וֹם סוּפָֽה"
+pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3341]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H7237]]"
+- "[[H0398]]"
+- "[[H0759H]]"
+- "[[H9024]]"
+- "[[H8643]]"
+- "[[H3117G]]"
+- "[[H4421]]"
+- "[[H5591A]]"
+- "[[H5492A]]"
+texts:
+- L
+- L(abh)
+---
+
 **Amos 1:14**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:
 <small><sub>**BSB:**</sub></small>
 So I will kindle a fire in the walls of Rabbah to consume its citadels amid war cries on the day of battle and a violent wind on the day of tempest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3341\|הִצַּ֤תִּי]] [[H0784\|אֵשׁ֙]] [[H9003\|בְּ]][[H2346G\|חוֹמַ֣ת]] [[H7237\|רַבָּ֔ה]] [[H9001\|וְ]][[H0398\|אָכְלָ֖ה]] [[H0759H\|אַרְמְנוֹתֶ֑י]][[H9024\|הָ]] [[H9003\|בִּ]][[H8643\|תְרוּעָה֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H4421\|מִלְחָמָ֔ה]] [[H9003\|בְּ]][[H5591A\|סַ֖עַר]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H5492A\|סוּפָֽה]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic FIRE|FIRE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.13|<< Amos 1:13]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.15|Amos 1:15 >>]]</td></tr></table>
 

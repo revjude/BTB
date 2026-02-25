@@ -1,8 +1,70 @@
+---
+title: Numbers 30:8
+type: Verse
+kjv: "But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her."
+bsb: "But if her husband prohibits her when he hears of it, he nullifies the vow that binds her or the rash promise she has made, and the LORD will absolve her."
+hebrew: "וְ֠אִם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת־ נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ וְאֵת֙ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל־ נַפְשָׁ֑הּ וַיהוָ֖ה יִֽסְלַֽח־ לָֽהּ׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8085G]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H5106]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H6565A]]"
+- "[[H9014]]"
+- "[[H5088]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H4008]]"
+- "[[H8193G]]"
+- "[[H0631]]"
+- "[[H5315I]]"
+- "[[H3068G]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:8**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if her husband disallowed her on the day that he heard [it]; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her.
 <small><sub>**BSB:**</sub></small>
 But if her husband prohibits her when he hears of it, he nullifies the vow that binds her or the rash promise she has made, and the LORD will absolve her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0518A\|אִם]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H8085G\|שְׁמֹ֣עַ]] [[H0376H\|אִישָׁ]][[H9024\|הּ֮]] [[H5106\|יָנִ֣יא]] [[H0853\|אוֹתָ]][[H9034\|הּ֒]] [[H9001\|וְ]][[H6565A\|הֵפֵ֗ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5088\|נִדְרָ]][[H9024\|הּ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H4008\|מִבְטָ֣א]] [[H8193G\|שְׂפָתֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0631\|אָסְרָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשָׁ֑]][[H9024\|הּ]] [[H9002\|וַ]][[H3068G\|יהוָ֖ה]] [[H5545\|יִֽסְלַֽח]][[H9014\|־]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.7|<< Numbers 30:7]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.9|Numbers 30:9 >>]]</td></tr></table>
 

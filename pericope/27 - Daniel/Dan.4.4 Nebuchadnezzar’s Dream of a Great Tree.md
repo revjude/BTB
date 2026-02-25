@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar’s Dream of a Great Tree
+type: Pericope
 pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
-verse_count: 15
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 4
 book/chapter: "[[Dan.4|Daniel 4]]"
-genre:
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 15
 verses:
 - "[[Dan.4.4]]"
 - "[[Dan.4.5]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Dan.4.18]]"
 ---
 
-[[Dan.4|Daniel 4:4 - Daniel 4:18]]
+<small>[[Dan.4|Daniel 4:4-18]]</small>
 *Nebuchadnezzar’s Dream of a Great Tree*
 
 [[Dan.4.4|4]] I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:

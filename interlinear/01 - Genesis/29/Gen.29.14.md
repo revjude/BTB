@@ -1,8 +1,60 @@
+---
+title: Genesis 29:14
+type: Verse
+kjv: "And Laban said to him, Surely thou art my bone and my flesh. And he abode with him the space of a month."
+bsb: "Then Laban declared, “You are indeed my own flesh and blood.” After Jacob had stayed with him a month,"
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ לָבָ֔ן אַ֛ךְ עַצְמִ֥י וּבְשָׂרִ֖י אָ֑תָּה וַיֵּ֥שֶׁב עִמּ֖וֹ חֹ֥דֶשׁ יָמִֽים׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3837A]]"
+- "[[H0389]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H0859A]]"
+- "[[H3427]]"
+- "[[H5973A]]"
+- "[[H2320G]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:14**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban said to him, Surely thou [art] my bone and my flesh. And he abode with him the space of a month.
 <small><sub>**BSB:**</sub></small>
 Then Laban declared, “You are indeed my own flesh and blood.” After Jacob had stayed with him a month,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3837A\|לָבָ֔ן]] [[H0389\|אַ֛ךְ]] [[H6106G\|עַצְמִ֥]][[H9020\|י]] [[H9002\|וּ]][[H1320\|בְשָׂרִ֖]][[H9020\|י]] [[H0859A\|אָ֑תָּה]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H2320G\|חֹ֥דֶשׁ]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.13|<< Genesis 29:13]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.15|Genesis 29:15 >>]]</td></tr></table>
 

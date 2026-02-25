@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Seir
+type: Pericope
 pericope: "[[Gen.36.20 The Descendants of Seir|The Descendants of Seir]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 36
 book/chapter: "[[Gen.36|Genesis 36]]"
-genre:
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.36.20]]"
 - "[[Gen.36.21]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.36.30]]"
 ---
 
-[[Gen.36|Genesis 36:20 - Genesis 36:30]]
+<small>[[Gen.36|Genesis 36:20-30]]</small>
 *The Descendants of Seir*
 
 [[Gen.36.20|20]] These \[are\] the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,

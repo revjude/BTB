@@ -1,7 +1,7 @@
 
 **THUNDER**
 
-→ Sent as a plague upon the Egyptians [[Exod.9.23|Ex 9:23]]-[[Exod.9.34|34]]
+→ Sent as a plague upon the Egyptians [[Exod.9.23|Ex 9:23-34]]
 
 → The Philistines, in battle with the people of Israel [[1Sam.7.10|1Sa 7:10]]
 

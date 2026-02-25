@@ -1,10 +1,64 @@
+---
+title: Acts 13:36
+type: Verse
+kjv: "For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:"
+bsb: "For when David had served God’s purpose in his own generation, he fell asleep. His body was buried with his fathers and saw decay."
+greek: "Δαυὶδ μὲν γὰρ ἰδίᾳ γενεᾷ ὑπηρετήσας τῇ τοῦ θεοῦ βουλῇ ἐκοιμήθη καὶ προσετέθη πρὸς τοὺς πατέρας αὐτοῦ καὶ εἶδεν διαφθοράν·"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1138]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G2398]]"
+- "[[G1074]]"
+- "[[G5256]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1012]]"
+- "[[G2837]]"
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G4314]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G1492H]]"
+- "[[G1312]]"
+texts:
+- NKO
+---
+
 **Acts 13:36**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:
 <small><sub>**BSB:**</sub></small>
 For when David had served God’s purpose in his own generation, he fell asleep. His body was buried with his fathers and saw decay.
-<small><sub>**Literal:**</sub></small>
-David indeed for in his own generation having served the <the> of God purpose he fell asleep and he was added to the fathers of him and saw decay;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.35|<< Acts 13:35]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.37|Acts 13:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1138\|Δαυὶδ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G2398\|ἰδίᾳ]]  [[G1074\|γενεᾷ]]  [[G5256\|ὑπηρετήσας]]  [[G3588\|τῇ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1012\|βουλῇ]]  [[G2837\|ἐκοιμήθη]]  [[G2532\|καὶ]]  [[G4369\|προσετέθη]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3962\|πατέρας]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1492H\|εἶδεν]]  [[G1312\|διαφθοράν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CORRUPTION|CORRUPTION]] • [[topic DEATH|DEATH]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.35|<< Acts 13:35]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.37|Acts 13:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 13:36** is...
 > $\quad$ referencing: [[LXX.1Kgs.2.10|1Kgs 2:10]]

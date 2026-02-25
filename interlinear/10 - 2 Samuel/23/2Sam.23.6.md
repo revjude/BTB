@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 23:6
+type: Verse
+kjv: "But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:"
+bsb: "But the worthless are all like thorns raked aside, for they can never be gathered by hand."
+hebrew: "וּבְלִיַּ֕עַל כְּק֥וֹץ מֻנָ֖ד כֻּלָּ֑הַם כִּֽי־ לֹ֥א בְיָ֖ד יִקָּֽחוּ׃"
+pericope: "[[2Sam.23.1 David’s Last Song|David’s Last Song]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1100G]]"
+- "[[H9004]]"
+- "[[H6975]]"
+- "[[H5074]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 23:6**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [the sons] of Belial [shall be] all of them as thorns thrust away, because they cannot be taken with hands:
 <small><sub>**BSB:**</sub></small>
 But the worthless are all like thorns raked aside, for they can never be gathered by hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1100G\|בְלִיַּ֕עַל]] [[H9004\|כְּ]][[H6975\|ק֥וֹץ]] [[H5074\|מֻנָ֖ד]] [[H3605\|כֻּלָּ֑]][[H9028\|הַם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H9003\|בְ]][[H3027G\|יָ֖ד]] [[H3947G\|יִקָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PSALMS|PSALMS]] • [[topic SATAN|SATAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.5|<< 2 Samuel 23:5]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.7|2 Samuel 23:7 >>]]</td></tr></table>
 

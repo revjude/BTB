@@ -1,8 +1,73 @@
+---
+title: Judges 9:49
+type: Verse
+kjv: "And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women."
+bsb: "So each man also cut his own branch and followed Abimelech. Then they piled the branches against the inner chamber and set it on fire above them, killing everyone in the tower of Shechem, about a thousand men and women."
+hebrew: "וַיִּכְרְת֨וּ גַם־ כָּל־ הָעָ֜ם אִ֣ישׁ שׂוֹכֹ֗ה וַיֵּ֨לְכ֜וּ אַחֲרֵ֤י אֲבִימֶ֙לֶךְ֙ וַיָּשִׂ֣ימוּ עַֽל־ הַצְּרִ֔יחַ וַיַּצִּ֧יתוּ עֲלֵיהֶ֛ם אֶֽת־ הַצְּרִ֖יחַ בָּאֵ֑שׁ וַיָּמֻ֜תוּ גַּ֣ם כָּל־ אַנְשֵׁ֧י מִֽגְדַּל־ שְׁכֶ֛ם כְּאֶ֖לֶף אִ֥ישׁ וְאִשָּֽׁה׃ פ"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0376I]]"
+- "[[H7754A]]"
+- "[[H9023]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0040H]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H6877]]"
+- "[[H3341]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H4191]]"
+- "[[H0582]]"
+- "[[H4026M]]"
+- "[[H7927G]]"
+- "[[H9004]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 9:49**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people likewise cut down every man his bough, and followed Abimelech, and put [them] to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.
 <small><sub>**BSB:**</sub></small>
 So each man also cut his own branch and followed Abimelech. Then they piled the branches against the inner chamber and set it on fire above them, killing everyone in the tower of Shechem, about a thousand men and women.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3772G\|יִּכְרְת֨וּ]] [[H1571\|גַם]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֜ם]] [[H0376I\|אִ֣ישׁ]] [[H7754A\|שׂוֹכֹ֗]][[H9023\|ה]] [[H9001\|וַ]][[H1980N\|יֵּ֨לְכ֜וּ]] [[H0310A\|אַחֲרֵ֤י]] [[H0040H\|אֲבִימֶ֙לֶךְ֙]] [[H9001\|וַ]][[H7760H\|יָּשִׂ֣ימוּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H6877\|צְּרִ֔יחַ]] [[H9001\|וַ]][[H3341\|יַּצִּ֧יתוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H6877\|צְּרִ֖יחַ]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9001\|וַ]][[H4191\|יָּמֻ֜תוּ]] [[H1571\|גַּ֣ם]] [[H3605\|כָּל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֧י]] [[H4026M\|מִֽגְדַּל]][[H9014\|־]] [[H7927G\|שְׁכֶ֛ם]] [[H9004\|כְּ]][[H0505G\|אֶ֖לֶף]] [[H0376G\|אִ֥ישׁ]] [[H9002\|וְ]][[H0802G\|אִשָּֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.48|<< Judges 9:48]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.50|Judges 9:50 >>]]</td></tr></table>
 
@@ -33,7 +98,7 @@ So each man also cut his own branch and followed Abimelech. Then they piled the 
 | Shechem  |**<big>&#8207;[[H7927G\|שְׁכֶ֛ם]]&#8207; </big>**| she.Khem<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | about a thousand  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.48|<< Judges 9:48]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.50|Judges 9:50 >>]]</td></tr></table>
 
 

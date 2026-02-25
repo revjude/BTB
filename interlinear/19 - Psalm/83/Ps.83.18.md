@@ -1,8 +1,63 @@
+---
+title: Psalm 83:18
+type: Verse
+kjv: "That men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth."
+bsb: "May they know that You alone, whose name is the LORD, are Most High over all the earth."
+hebrew: "וְֽיֵדְע֗וּ כִּֽי־ אַתָּ֬ה שִׁמְךָ֣ יְהוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־ כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H5945B]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 83:18**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That [men] may know that thou, whose name alone [is] JEHOVAH, [art] the most high over all the earth.
 <small><sub>**BSB:**</sub></small>
 May they know that You alone, whose name is the LORD, are Most High over all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H3045\|יֵדְע֗וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֬ה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לְ]][[H0905H\|בַדֶּ֑]][[H9031\|ךָ]] [[H5945B\|עֶ֝לְי֗וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.17|<< Psalms 83:17]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.0|Psalms 84:0 >>]]</td></tr></table>
 

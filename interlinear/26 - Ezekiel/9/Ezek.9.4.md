@@ -1,8 +1,71 @@
+---
+title: Ezekiel 9:4
+type: Verse
+kjv: "And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof."
+bsb: "“Go throughout the city of Jerusalem,” said the LORD, “and put a mark on the foreheads of the men sighing and groaning over all the abominations committed there.”"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֵלָ֔יו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ תָּ֜ו עַל־ מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל־ הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת בְּתוֹכָֽהּ׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3389]]"
+- "[[H8427]]"
+- "[[H8420]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4696]]"
+- "[[H0582]]"
+- "[[H0584]]"
+- "[[H9002]]"
+- "[[H0602]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H6213H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 9:4**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.
 <small><sub>**BSB:**</sub></small>
 “Go throughout the city of Jerusalem,” said the LORD, “and put a mark on the foreheads of the men sighing and groaning over all the abominations committed there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H5674A\|עֲבֹר֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H9001\|וְ]][[H8427\|הִתְוִ֨יתָ]] [[H8420\|תָּ֜ו]] [[H5921A\|עַל]][[H9014\|־]] [[H4696\|מִצְח֣וֹת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9009\|הַ]][[H0584\|נֶּֽאֱנָחִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H0602\|נֶּ֣אֱנָקִ֔ים]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תּ֣וֹעֵב֔וֹת]] [[H9009\|הַֽ]][[H6213H\|נַּעֲשׂ֖וֹת]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.3|<< Ezekiel 9:3]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.5|Ezekiel 9:5 >>]]</td></tr></table>
 

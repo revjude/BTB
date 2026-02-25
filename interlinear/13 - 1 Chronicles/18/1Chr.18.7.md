@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 18:7
+type: Verse
+kjv: "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem."
+bsb: "And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem."
+hebrew: "וַיִּקַּ֣ח דָּוִ֗יד אֵ֚ת שִׁלְטֵ֣י הַזָּהָ֔ב אֲשֶׁ֣ר הָי֔וּ עַ֖ל עַבְדֵ֣י הֲדַדְעָ֑זֶר וַיְבִיאֵ֖ם יְרוּשָׁלִָֽם׃"
+pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H7982]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H1928]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 18:7**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H1732\|דָּוִ֗יד]] [[H0853\|אֵ֚ת]] [[H7982\|שִׁלְטֵ֣י]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָי֔וּ]] [[H5921A\|עַ֖ל]] [[H5650\|עַבְדֵ֣י]] [[H1928\|הֲדַדְעָ֑זֶר]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9038\|ם]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic MOABITES|MOABITES]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.6|<< 1 Chronicles 18:6]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.8|1 Chronicles 18:8 >>]]</td></tr></table>
 

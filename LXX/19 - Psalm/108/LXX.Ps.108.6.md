@@ -1,6 +1,51 @@
+---
+title: LXX Psalm 108:6
+type: Verse
+lxx: "so that your beloved should be rescued. Deliver with your right hand, and heed me!"
+greek: "όπως αν ρυσθώσιν οι αγαπητοί σου σώσον τη δεξιά σου και επάκουσόν μου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 108
+book/chapter: "[[Ps.108|Psalm 108]]"
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G4506]]"
+- "[[G3588]]"
+- "[[G0027]]"
+- "[[G1473]]"
+- "[[G4982]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1873]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 108:6** 
 <small><sub>**LXX:**</sub></small>
 so that your beloved should be rescued. Deliver \[with\] your right \[hand\], and heed me! 
+<small><sub>**Greek:**</sub></small>
+[[G3704\|όπως]] [[G0302\|αν]] [[G4506\|ρυσθώσιν]] [[G3588\|οι]] [[G0027\|αγαπητοί]] [[G1473\|σου]] [[G4982\|σώσον]] [[G3588\|τη]] [[G1188\|δεξιά]] [[G1473\|σου]] [[G2532\|και]] [[G1873\|επάκουσόν]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.108.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.5|<< Psalm 108:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.7|Psalm 108:7 >>]]</td></tr></table>
 
@@ -17,6 +62,6 @@ so that your beloved should be rescued. Deliver \[with\] your right \[hand\], an
 | and | **<big>[[G2532\|και]]</big>** |
 | heed | **<big>[[G1873\|επάκουσόν]]</big>** |
 | me! | **<big>[[G1473\|μου]]</big>** |
-[[Ps.108.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.5|<< Psalm 108:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.7|Psalm 108:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.5|<< Psalm 108:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.7|Psalm 108:7 >>]]</td></tr></table>
 
 

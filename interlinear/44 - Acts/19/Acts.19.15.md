@@ -1,10 +1,62 @@
+---
+title: Acts 19:15
+type: Verse
+kjv: "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?"
+bsb: "But one day the evil spirit responded, “Jesus I know, and I know about Paul, but who are you?”"
+greek: "ἀποκριθὲν δὲ τὸ πνεῦμα τὸ πονηρὸν εἶπεν αὐτοῖς· τὸν μὲν Ἰησοῦν γινώσκω καὶ τὸν Παῦλον ἐπίσταμαι· ὑμεῖς δὲ τίνες ἐστέ;"
+pericope: "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SCEVA|SCEVA]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G4190]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3303]]"
+- "[[G2424G]]"
+- "[[G1097]]"
+- "[[G2532]]"
+- "[[G3972G]]"
+- "[[G1987]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1510]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 19:15**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?
 <small><sub>**BSB:**</sub></small>
 But one day the evil spirit responded, “Jesus I know, and I know about Paul, but who are you?”
-<small><sub>**Literal:**</sub></small>
-Answering however the spirit <the> evil said to them: <the> indeed Jesus I know and <the> Paul I am acquainted with; you yourselves however who are you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.14|<< Acts 19:14]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.16|Acts 19:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθὲν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G4190\|πονηρὸν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3588\|τὸν]]  [[G3303\|μὲν]]  [[G2424G\|Ἰησοῦν]]  [[G1097\|γινώσκω]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G1987\|ἐπίσταμαι·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G5101\|τίνες]]  [[G1510\|ἐστέ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic EPHESUS|EPHESUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic SCEVA|SCEVA]] • [[topic SORCERY|SORCERY]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.14|<< Acts 19:14]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.16|Acts 19:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

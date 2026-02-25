@@ -1,8 +1,64 @@
+---
+title: Micah 1:4
+type: Verse
+kjv: "And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, and as the waters that are poured down a steep place."
+bsb: "The mountains will melt beneath Him, and the valleys will split apart, like wax before the fire, like water rushing down a slope."
+hebrew: "וְנָמַ֤סּוּ הֶֽהָרִים֙ תַּחְתָּ֔יו וְהָעֲמָקִ֖ים יִתְבַּקָּ֑עוּ כַּדּוֹנַג֙ מִפְּנֵ֣י הָאֵ֔שׁ כְּמַ֖יִם מֻגָּרִ֥ים בְּמוֹרָֽד׃"
+pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+- "[[topic WAX|WAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H4549]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H8478G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H6010R]]"
+- "[[H1234]]"
+- "[[H9004]]"
+- "[[H1749]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0784]]"
+- "[[H4325G]]"
+- "[[H5064]]"
+- "[[H9003]]"
+- "[[H4174]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:4**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, [and] as the waters [that are] poured down a steep place.
 <small><sub>**BSB:**</sub></small>
 The mountains will melt beneath Him, and the valleys will split apart, like wax before the fire, like water rushing down a slope.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H4549\|נָמַ֤סּוּ]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H8478G\|תַּחְתָּ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H9009\|הָ]][[H6010R\|עֲמָקִ֖ים]] [[H1234\|יִתְבַּקָּ֑עוּ]] [[H9004\|כַּ]][[H1749\|דּוֹנַג֙]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H9004\|כְּ]][[H4325G\|מַ֖יִם]] [[H5064\|מֻגָּרִ֥ים]] [[H9003\|בְּ]][[H4174\|מוֹרָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic VOLCANOES|VOLCANOES]] • [[topic WAX|WAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.3|<< Micah 1:3]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.5|Micah 1:5 >>]]</td></tr></table>
 

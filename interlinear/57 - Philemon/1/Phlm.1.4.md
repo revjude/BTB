@@ -1,10 +1,46 @@
+---
+title: Philemon 1:4
+type: Verse
+kjv: "I thank my God, making mention of thee always in my prayers,"
+bsb: "I always thank my God, remembering you in my prayers,"
+greek: "Εὐχαριστῶ τῷ θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου,"
+pericope: "[[Phlm.1.4 Philemon’s Faith and Love|Philemon’s Faith and Love]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G3842]]"
+- "[[G3417]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G1909]]"
+- "[[G4335]]"
+texts:
+- NKO
+---
+
 **Philemon 1:4**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I thank my God, making mention of thee always in my prayers,
 <small><sub>**BSB:**</sub></small>
 I always thank my God, remembering you in my prayers,
-<small><sub>**Literal:**</sub></small>
-I thank the God of mine always mention of you making upon the prayers of mine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.3|<< Philemon 1:3]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.5|Philemon 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|Εὐχαριστῶ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3165\|μου]]  [[G3842\|πάντοτε]]  [[G3417\|μνείαν]]  [[G4771\|σου]]  [[G4160G\|ποιούμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G4335\|προσευχῶν]]  [[G3165\|μου,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.3|<< Philemon 1:3]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.5|Philemon 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

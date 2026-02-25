@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Lepers
+type: Pericope
 pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 17
 book/chapter: "[[Luke.17|Luke 17]]"
-genre:
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.17.11]]"
 - "[[Luke.17.12]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.17.19]]"
 ---
 
-[[Luke.17|Luke 17:11 - Luke 17:19]]
+<small>[[Luke.17|Luke 17:11-19]]</small>
 *The Ten Lepers*
 
 [[Luke.17.11|11]] And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.

@@ -1,10 +1,56 @@
+---
+title: 1 John 2:20
+type: Verse
+kjv: "But ye have an unction from the Holy One, and ye know all things."
+bsb: "You, however, have an anointing from the Holy One, and all of you know the truth."
+greek: "καὶ ὑμεῖς χρῖσμα ἔχετε ἀπὸ τοῦ ἁγίου καὶ οἴδατε πάντες."
+pericope: "[[1John.2.18 Beware of Antichrists|Beware of Antichrists]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic UNCTION|UNCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G5545]]"
+- "[[G2192]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G6063]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 John 2:20**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye have an unction from the Holy One, and ye know all things.
 <small><sub>**BSB:**</sub></small>
 You, however, have an anointing from the Holy One, and all of you know the truth.
-<small><sub>**Literal:**</sub></small>
-And you yourselves [the] anointing have from the Holy [One] and you know all [you].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.19|<< 1 John 2:19]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.21|1 John 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G5545\|χρῖσμα]]  [[G2192\|ἔχετε]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G2532\|καὶ]]  [[G6063\|οἴδατε]]  [[G3956\|πάντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SYMBOLS|SYMBOLS]] • [[topic UNCTION|UNCTION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.19|<< 1 John 2:19]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.21|1 John 2:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

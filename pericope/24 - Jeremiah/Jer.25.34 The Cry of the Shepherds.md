@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cry of the Shepherds
+type: Pericope
 pericope: "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 25
 book/chapter: "[[Jer.25|Jeremiah 25]]"
-genre:
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.25.34]]"
 - "[[Jer.25.35]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.25.38]]"
 ---
 
-[[Jer.25|Jeremiah 25:34 - Jeremiah 25:38]]
+<small>[[Jer.25|Jeremiah 25:34-38]]</small>
 *The Cry of the Shepherds*
 
 [[Jer.25.34|34]] Howl, ye shepherds, and cry; and wallow yourselves \[in the ashes\], ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.

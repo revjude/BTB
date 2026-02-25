@@ -1,8 +1,61 @@
+---
+title: Psalm 133:1
+type: Verse
+kjv: "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+bsb: "A song of ascents. Of David. Behold, how good and pleasant it is when brothers live together in harmony!"
+hebrew: "הִנֵּ֣ה מַה־ טּ֭וֹב וּמַה־ נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם־ יָֽחַד׃"
+pericope: "[[Ps.133.1 How Pleasant to Live in Harmony!|How Pleasant to Live in Harmony!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 133
+book/chapter: "[[Ps.133|Psalm 133]]"
+chronological_order: 893
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[H2009]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H5273A]]"
+- "[[H3427]]"
+- "[[H0251G]]"
+- "[[H1571]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 133:1**<big><big>[[Ps.133.1 How Pleasant to Live in Harmony!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, how good and how pleasant [it is] for brethren to dwell together in unity!
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of David. Behold, how good and pleasant it is when brothers live together in harmony!
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H4100\|מַה]][[H9014\|־]] [[H2896A\|טּ֭וֹב]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H5273A\|נָּעִ֑ים]] [[H3427\|שֶׁ֖בֶת]] [[H0251G\|אַחִ֣ים]] [[H1571\|גַּם]][[H9014\|־]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FAMILY|FAMILY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic LOVE|LOVE]] • [[topic PEACE|PEACE]] • [[topic UNITY|UNITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.133.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.0|<< Psalms 133:0]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.2|Psalms 133:2 >>]]</td></tr></table>
 

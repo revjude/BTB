@@ -1,8 +1,57 @@
+---
+title: Daniel 2:33
+type: Verse
+kjv: "His legs of iron, his feet part of iron and part of clay."
+bsb: "its legs were iron, and its feet were part iron and part clay."
+aramaic: "שָׁק֖וֹהִי דִּ֣י פַרְזֶ֑ל רַגְל֕וֹהִי מִנְּהֵין֙ דִּ֣י פַרְזֶ֔ל וּמִנְּהֵ֖ין דִּ֥י חֲסַֽף׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic IRON|IRON]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H8243]]"
+- "[[H9023]]"
+- "[[H1768]]"
+- "[[H6523]]"
+- "[[H7271]]"
+- "[[H4481]]"
+- "[[H9038]]"
+- "[[H9039]]"
+- "[[H9002]]"
+- "[[H2635]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 2:33**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His legs of iron, his feet part of iron and part of clay.
 <small><sub>**BSB:**</sub></small>
 its legs were iron, and its feet were part iron and part clay.
+<small><sub>**Aramaic:**</sub></small>
+[[H8243\|שָׁק֖וֹ]][[H9023\|הִי]] [[H1768\|דִּ֣י]] [[H6523\|פַרְזֶ֑ל]] [[H7271\|רַגְל֕וֹ]][[H9023\|הִי]] [[H4481\|מִנְּ]][[H9039\|הֵין֙]] [[H1768\|דִּ֣י]] [[H6523\|פַרְזֶ֔ל]] [[H9002\|וּ]][[H4481\|מִנְּ]][[H9039\|הֵ֖ין]] [[H1768\|דִּ֥י]] [[H2635\|חֲסַֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CLAY|CLAY]] • [[topic GOLD|GOLD]] • [[topic IRON|IRON]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
@@ -20,11 +69,11 @@ its legs were iron, and its feet were part iron and part clay.
 | clay  |**<big>&#8207;[[H2635\|חֲסַֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Saf<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
-[^1]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^2]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^1]: some of them  | **<big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: some of them  | **<big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>מִנְּהֵון֙</big></span>**
-[^4]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^5]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
-[^6]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^4]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^5]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^6]: and some of them  | **<big>[[H9002|וּ]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9038|הוֹן]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
 [^7]: L spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֖ון</big></span>**
 

@@ -1,8 +1,63 @@
+---
+title: Leviticus 11:36
+type: Verse
+kjv: "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+bsb: "Nevertheless, a spring or cistern containing water will remain clean, but one who touches a carcass in it will be unclean."
+hebrew: "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־ מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0389]]"
+- "[[H4599]]"
+- "[[H9002]]"
+- "[[H0953A]]"
+- "[[H4723C]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H1961]]"
+- "[[H2889]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H5038]]"
+- "[[H9028]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:36**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless a fountain or pit, [wherein there is] plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, a spring or cistern containing water will remain clean, but one who touches a carcass in it will be unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H4599\|מַעְיָ֥ן]] [[H9002\|וּ]][[H0953A\|ב֛וֹר]] [[H4723C\|מִקְוֵה]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H1961\|יִהְיֶ֣ה]] [[H2889\|טָה֑וֹר]] [[H9002\|וְ]][[H5060\|נֹגֵ֥עַ]] [[H9003\|בְּ]][[H5038\|נִבְלָתָ֖]][[H9028\|ם]] [[H2930A\|יִטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.35|<< Leviticus 11:35]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.37|Leviticus 11:37 >>]]</td></tr></table>
 

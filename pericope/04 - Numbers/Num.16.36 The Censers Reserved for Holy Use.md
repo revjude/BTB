@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Censers Reserved for Holy Use
+type: Pericope
 pericope: "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 16
 book/chapter: "[[Num.16|Numbers 16]]"
-genre:
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.16.36]]"
 - "[[Num.16.37]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.16.40]]"
 ---
 
-[[Num.16|Numbers 16:36 - Numbers 16:40]]
+<small>[[Num.16|Numbers 16:36-40]]</small>
 *The Censers Reserved for Holy Use*
 
 [[Num.16.36|36]] And the LORD spake unto Moses, saying,

@@ -1,8 +1,58 @@
+---
+title: Joshua 19:26
+type: Verse
+kjv: "And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;"
+bsb: "Allammelech, Amad, and Mishal. On the west the border touched Carmel and Shihor-libnath,"
+hebrew: "וְאַֽלַמֶּ֥לֶךְ וְעַמְעָ֖ד וּמִשְׁאָ֑ל וּפָגַ֤ע בְּכַרְמֶל֙ הַיָּ֔מָּה וּבְשִׁיח֖וֹר לִבְנָֽת׃"
+pericope: "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALAMMELECH|ALAMMELECH]]"
+- "[[topic AMAD|AMAD]]"
+- "[[topic ASHER|ASHER]]"
+- "[[topic MASHAL|MASHAL]]"
+- "[[topic MISHEAL|MISHEAL]]"
+- "[[topic SHIHOR-LIBNATH|SHIHOR-LIBNATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0487]]"
+- "[[H6008]]"
+- "[[H4861]]"
+- "[[H9001]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H3760G]]"
+- "[[H9009]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H7884]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:26**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;
 <small><sub>**BSB:**</sub></small>
 Allammelech, Amad, and Mishal. On the west the border touched Carmel and Shihor-libnath,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0487\|אַֽלַמֶּ֥לֶךְ]] [[H9002\|וְ]][[H6008\|עַמְעָ֖ד]] [[H9002\|וּ]][[H4861\|מִשְׁאָ֑ל]] [[H9001\|וּ]][[H6293\|פָגַ֤ע]] [[H9003\|בְּ]][[H3760G\|כַרְמֶל֙]] [[H9009\|הַ]][[H3220H\|יָּ֔מָּ]][[H9011\|ה]] [[H9002\|וּ]][[H9003\|בְ]][[H7884\|שִׁיח֖וֹר]] [[H7884\|לִבְנָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALAMMELECH|ALAMMELECH]] • [[topic AMAD|AMAD]] • [[topic ASHER|ASHER]] • [[topic MASHAL|MASHAL]] • [[topic MISHEAL|MISHEAL]] • [[topic SHIHOR-LIBNATH|SHIHOR-LIBNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.25|<< Joshua 19:25]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.27|Joshua 19:27 >>]]</td></tr></table>
 

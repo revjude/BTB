@@ -1,8 +1,55 @@
+---
+title: Nehemiah 7:29
+type: Verse
+kjv: "The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three."
+bsb: "the men of Kiriath-jearim, Chephirah, and Beeroth, 743;"
+hebrew: "אַנְשֵׁ֨י קִרְיַ֤ת יְעָרִים֙ כְּפִירָ֣ה וּבְאֵר֔וֹת שְׁבַ֥ע מֵא֖וֹת אַרְבָּעִ֥ים וּשְׁלֹשָֽׁה׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BEEROTH|BEEROTH]]"
+- "[[topic CHEPHIRAH|CHEPHIRAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+strongs:
+- "[[H0582]]"
+- "[[H7157]]"
+- "[[H3716]]"
+- "[[H9002]]"
+- "[[H0881G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H0705]]"
+- "[[H7969]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:29**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.
 <small><sub>**BSB:**</sub></small>
 the men of Kiriath-jearim, Chephirah, and Beeroth, 743;
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אַנְשֵׁ֨י]] [[H7157\|קִרְיַ֤ת]] [[H7157\|יְעָרִים֙]] [[H3716\|כְּפִירָ֣ה]] [[H9002\|וּ]][[H0881G\|בְאֵר֔וֹת]] [[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וּ]][[H7969\|שְׁלֹשָֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEEROTH|BEEROTH]] • [[topic CHEPHIRAH|CHEPHIRAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.28|<< Nehemiah 7:28]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.30|Nehemiah 7:30 >>]]</td></tr></table>
 
@@ -16,7 +63,7 @@ the men of Kiriath-jearim, Chephirah, and Beeroth, 743;
 | seven  |**<big>&#8207;[[H7651\|שְׁבַ֥ע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.28|<< Nehemiah 7:28]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.30|Nehemiah 7:30 >>]]</td></tr></table>
 
 

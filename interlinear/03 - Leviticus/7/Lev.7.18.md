@@ -1,8 +1,76 @@
+---
+title: Leviticus 7:18
+type: Verse
+kjv: "And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity."
+bsb: "If any of the meat from his peace offering is eaten on the third day, it will not be accepted. It will not be credited to the one who presented it; it shall be an abomination, and the one who eats of it shall bear his iniquity."
+hebrew: "וְאִ֣ם הֵאָכֹ֣ל יֵ֠אָכֵל מִבְּשַׂר־ זֶ֨בַח שְׁלָמָ֜יו בַּיּ֣וֹם הַשְּׁלִישִׁי֮ לֹ֣א יֵרָצֶה֒ הַמַּקְרִ֣יב אֹת֗וֹ לֹ֧א יֵחָשֵׁ֛ב ל֖וֹ פִּגּ֣וּל יִהְיֶ֑ה וְהַנֶּ֛פֶשׁ הָאֹכֶ֥לֶת מִמֶּ֖נּוּ עֲוֹנָ֥הּ תִּשָּֽׂא׃"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9014]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H3808]]"
+- "[[H7521]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H6292]]"
+- "[[H1961]]"
+- "[[H5315I]]"
+- "[[H4480A]]"
+- "[[H5771G]]"
+- "[[H9024]]"
+- "[[H5375J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:18**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [any] of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity.
 <small><sub>**BSB:**</sub></small>
 If any of the meat from his peace offering is eaten on the third day, it will not be accepted. It will not be credited to the one who presented it; it shall be an abomination, and the one who eats of it shall bear his iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֣ם]] [[H0398\|הֵאָכֹ֣ל]] [[H0398\|יֵ֠אָכֵל]] [[H9006\|מִ]][[H1320\|בְּשַׂר]][[H9014\|־]] [[H2077\|זֶ֨בַח]] [[H8002\|שְׁלָמָ֜י]][[H9023\|ו]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁי֮]] [[H3808\|לֹ֣א]] [[H7521\|יֵרָצֶה֒]] [[H9009\|הַ]][[H7126H\|מַּקְרִ֣יב]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H3808\|לֹ֧א]] [[H2803H\|יֵחָשֵׁ֛ב]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H6292\|פִּגּ֣וּל]] [[H1961\|יִהְיֶ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H5315I\|נֶּ֛פֶשׁ]] [[H9009\|הָ]][[H0398\|אֹכֶ֥לֶת]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5771G\|עֲוֹנָ֥]][[H9024\|הּ]] [[H5375J\|תִּשָּֽׂא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SANITATION|SANITATION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.17|<< Leviticus 7:17]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.19|Leviticus 7:19 >>]]</td></tr></table>
 

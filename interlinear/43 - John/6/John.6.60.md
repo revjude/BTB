@@ -1,10 +1,57 @@
+---
+title: John 6:60
+type: Verse
+kjv: "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+bsb: "On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”"
+greek: "πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν· σκληρός ἐστιν ὁ λόγος οὗτος· τίς δύναται αὐτοῦ ἀκούειν;¶"
+pericope: "[[John.6.59 Many Disciples Turn Back|Many Disciples Turn Back]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FLESH|FLESH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4183]]"
+- "[[G3767]]"
+- "[[G0191]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G4642]]"
+- "[[G1510]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G5101]]"
+- "[[G1410]]"
+texts:
+- NKO
+---
+
 **John 6:60**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Many therefore of his disciples, when they had heard [this], said, This is an hard saying; who can hear it?
 <small><sub>**BSB:**</sub></small>
 On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”
-<small><sub>**Literal:**</sub></small>
-Many therefore having heard of the disciples of Him said; Difficult is <the> word this; who is able it to hear?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.59|<< John 6:59]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.61|John 6:61 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G3767\|οὖν]]  [[G0191\|ἀκούσαντες]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπαν·]]  [[G4642\|σκληρός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3778\|οὗτος·]]  [[G5101\|τίς]]  [[G1410\|δύναται]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούειν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic FLESH|FLESH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.59|<< John 6:59]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.61|John 6:61 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,64 @@
+---
+title: LXX 1 Kings 3:4
+type: Verse
+lxx: "And he rose up and went into Gibeon to sacrifice there, for it was highest and great. Solomon offered a thousand whole burnt-offerings upon the altar in Gibeon."
+greek: "και ανέστη και επορεύθη εις Γαβαών θύσαι εκεί ότι αυτή υψηλοτάτη και μεγάλη χιλιαν ολοκαύτωσιν ανήνεγκε Σολομών επί το θυσιαστήριον εν Γαβαών"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[H1391]]"
+- "[[G2380]]"
+- "[[G1563]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G5308]]"
+- "[[G2532]]"
+- "[[G3173]]"
+- "[[G9731]]"
+- "[[G8495]]"
+- "[[G0399]]"
+- "[[G4672]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G1722]]"
+- "[[H1391]]"
+---
+
 **LXX 1 Kings 3:4** 
 <small><sub>**LXX:**</sub></small>
 And he rose up and went into Gibeon to sacrifice there, for it \[was\] highest and great. Solomon offered a thousand whole burnt-offerings upon the altar in Gibeon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0450\|ανέστη]] [[G2532\|και]] [[G4198\|επορεύθη]] [[G1519\|εις]] [[H1391\|Γαβαών]] [[G2380\|θύσαι]] [[G1563\|εκεί]] [[G3754\|ότι]] [[G1473\|αυτή]] [[G5308\|υψηλοτάτη]] [[G2532\|και]] [[G3173\|μεγάλη]] [[G9731\|χιλιαν]] [[G8495\|ολοκαύτωσιν]] [[G0399\|ανήνεγκε]] [[G4672\|Σολομών]] [[G1909\|επί]] [[G3588\|το]] [[G2379\|θυσιαστήριον]] [[G1722\|εν]] [[H1391\|Γαβαών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DREAM|DREAM]] • [[topic GIBEON|GIBEON]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.3|<< 1 Kings 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.5|1 Kings 3:5 >>]]</td></tr></table>
 
@@ -27,6 +85,6 @@ And he rose up and went into Gibeon to sacrifice there, for it \[was\] highest a
 | altar | **<big>[[G2379\|θυσιαστήριον]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | Gibeon. | **<big>[[H1391\|Γαβαών]]</big>** |
-[[1Kgs.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.3|<< 1 Kings 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.5|1 Kings 3:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.3|<< 1 Kings 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.5|1 Kings 3:5 >>]]</td></tr></table>
 
 

@@ -1,8 +1,63 @@
+---
+title: Ezekiel 30:11
+type: Verse
+kjv: "He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain."
+bsb: "He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain."
+hebrew: "ה֠וּא וְעַמּ֤וֹ אִתּוֹ֙ עָרִיצֵ֣י גוֹיִ֔ם מֽוּבָאִ֖ים לְשַׁחֵ֣ת הָאָ֑רֶץ וְהֵרִ֤יקוּ חַרְבוֹתָם֙ עַל־ מִצְרַ֔יִם וּמָלְא֥וּ אֶת־ הָאָ֖רֶץ חָלָֽל׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6184]]"
+- "[[H1471A]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H7324]]"
+- "[[H2719]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:11**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain.
 <small><sub>**BSB:**</sub></small>
 He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֠וּא]] [[H9002\|וְ]][[H5971A\|עַמּ֤]][[H9023\|וֹ]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H6184\|עָרִיצֵ֣י]] [[H1471A\|גוֹיִ֔ם]] [[H0935P\|מֽוּבָאִ֖ים]] [[H9005\|לְ]][[H7843\|שַׁחֵ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H7324\|הֵרִ֤יקוּ]] [[H2719\|חַרְבוֹתָ]][[H9028\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וּ]][[H4390\|מָלְא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H2491A\|חָלָֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.10|<< Ezekiel 30:10]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.12|Ezekiel 30:12 >>]]</td></tr></table>
 

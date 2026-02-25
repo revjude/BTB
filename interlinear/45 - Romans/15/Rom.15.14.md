@@ -1,10 +1,63 @@
+---
+title: Romans 15:14
+type: Verse
+kjv: "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another."
+bsb: "I myself am convinced, my brothers, that you yourselves are full of goodness, brimming with knowledge, and able to instruct one another."
+greek: "πέπεισμαι δέ, ἀδελφοί μου, καὶ αὐτὸς ἐγὼ περὶ ὑμῶν ὅτι καὶ αὐτοὶ μεστοί ἐστε ἀγαθωσύνης πεπληρωμένοι πάσης τῆς γνώσεως, δυνάμενοι καὶ ἀλλήλους νουθετεῖν.¶"
+pericope: "[[Rom.15.14 Paul the Minister to the Gentiles|Paul the Minister to the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3982]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1473]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3324]]"
+- "[[G1510]]"
+- "[[G0019]]"
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1108]]"
+- "[[G1410]]"
+- "[[G0240]]"
+- "[[G3560]]"
+texts:
+- NKO
+- no
+- NK(O)
+---
+
 **Romans 15:14**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.
 <small><sub>**BSB:**</sub></small>
 I myself am convinced, my brothers, that you yourselves are full of goodness, brimming with knowledge, and able to instruct one another.
-<small><sub>**Literal:**</sub></small>
-I have been persuaded now, brothers of mine, also myself I myself concerning you that also you yourselves full are of goodness filled with all <the> knowledge, being able also one another to admonish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.13|<< Romans 15:13]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.15|Romans 15:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|πέπεισμαι]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1473\|ἐγὼ]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G3324\|μεστοί]]  [[G1510\|ἐστε]]  [[G0019\|ἀγαθωσύνης]]  [[G4137\|πεπληρωμένοι]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G1108\|γνώσεως,]]  [[G1410\|δυνάμενοι]]  [[G2532\|καὶ]]  [[G0240\|ἀλλήλους]]  [[G3560\|νουθετεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.13|<< Romans 15:13]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.15|Romans 15:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

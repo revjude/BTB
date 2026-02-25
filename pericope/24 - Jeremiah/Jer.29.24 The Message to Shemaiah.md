@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Message to Shemaiah
+type: Pericope
 pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 29
 book/chapter: "[[Jer.29|Jeremiah 29]]"
-genre:
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.29.24]]"
 - "[[Jer.29.25]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.29.32]]"
 ---
 
-[[Jer.29|Jeremiah 29:24 - Jeremiah 29:32]]
+<small>[[Jer.29|Jeremiah 29:24-32]]</small>
 *The Message to Shemaiah*
 
 [[Jer.29.24|24]] \[Thus\] shalt thou also speak to Shemaiah the Nehelamite, saying,

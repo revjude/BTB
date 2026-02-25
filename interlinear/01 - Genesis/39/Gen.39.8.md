@@ -1,8 +1,83 @@
+---
+title: Genesis 39:8
+type: Verse
+kjv: "But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
+bsb: "But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care."
+hebrew: "וַיְמָאֵ֓ן׀ וַיֹּ֙אמֶר֙ אֶל־ אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא־ יָדַ֥ע אִתִּ֖י מַה־ בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדִֽי׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3985]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H2005]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H9003]]"
+- "[[H1004M]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5414H]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:8**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he refused, and said unto his master’s wife, Behold, my master wotteth not what [is] with me in the house, and he hath committed all that he hath to my hand;
 <small><sub>**BSB:**</sub></small>
 But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3985\|יְמָאֵ֓ן]][[H9015\|׀]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H2005\|הֵ֣ן]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֥ע]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H4100\|מַה]][[H9014\|־]] [[H9003\|בַּ]][[H1004M\|בָּ֑יִת]] [[H9002\|וְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5414H\|נָתַ֥ן]] [[H9003\|בְּ]][[H3027H\|יָדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.7|<< Genesis 39:7]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.9|Genesis 39:9 >>]]</td></tr></table>
 

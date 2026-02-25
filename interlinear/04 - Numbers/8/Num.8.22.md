@@ -1,8 +1,69 @@
+---
+title: Numbers 8:22
+type: Verse
+kjv: "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them."
+bsb: "After that, the Levites came to perform their service at the Tent of Meeting in the presence of Aaron and his sons. Thus they did with the Levites just as the LORD had commanded Moses."
+hebrew: "וְאַחֲרֵי־ כֵ֞ן בָּ֣אוּ הַלְוִיִּ֗ם לַעֲבֹ֤ד אֶת־ עֲבֹֽדָתָם֙ בְּאֹ֣הֶל מוֹעֵ֔ד לִפְנֵ֥י אַהֲרֹ֖ן וְלִפְנֵ֣י בָנָ֑יו כַּאֲשֶׁר֩ צִוָּ֨ה יְהוָ֤ה אֶת־ מֹשֶׁה֙ עַל־ הַלְוִיִּ֔ם כֵּ֖ן עָשׂ֥וּ לָהֶֽם׃ ס"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H5656H]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H6440G]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H5921A]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 8:22**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them.
 <small><sub>**BSB:**</sub></small>
 After that, the Levites came to perform their service at the Tent of Meeting in the presence of Aaron and his sons. Thus they did with the Levites just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֞ן]] [[H0935G\|בָּ֣אוּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H9005\|לַ]][[H5647H\|עֲבֹ֤ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹֽדָתָ]][[H9028\|ם֙]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0175\|אַהֲרֹ֖ן]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H6680\|צִוָּ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H3651C\|כֵּ֖ן]] [[H6213A\|עָשׂ֥וּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.21|<< Numbers 8:21]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.23|Numbers 8:23 >>]]</td></tr></table>
 
@@ -30,7 +91,7 @@ After that, the Levites came to perform their service at the Tent of Meeting in 
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֔ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֖ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they did  |**<big>&#8207;[[H6213A\|עָשׂ֥וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.21|<< Numbers 8:21]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.23|Numbers 8:23 >>]]</td></tr></table>
 
 

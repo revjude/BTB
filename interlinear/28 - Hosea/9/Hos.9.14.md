@@ -1,8 +1,53 @@
+---
+title: Hosea 9:14
+type: Verse
+kjv: "Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts."
+bsb: "Give them, O LORD—what will You give? Give them wombs that miscarry and breasts that dry up!"
+hebrew: "תֵּן־ לָהֶ֥ם יְהוָ֖ה מַה־ תִּתֵּ֑ן תֵּן־ לָהֶם֙ רֶ֣חֶם מַשְׁכִּ֔יל וְשָׁדַ֖יִם צֹמְקִֽים׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ABORTION|ABORTION]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H4100]]"
+- "[[H7358]]"
+- "[[H7921A]]"
+- "[[H9002]]"
+- "[[H7699A]]"
+- "[[H6784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:14**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.
 <small><sub>**BSB:**</sub></small>
 Give them, O LORD—what will You give? Give them wombs that miscarry and breasts that dry up!
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תֵּן]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H4100\|מַה]][[H9014\|־]] [[H5414G\|תִּתֵּ֑ן]] [[H5414G\|תֵּן]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H7358\|רֶ֣חֶם]] [[H7921A\|מַשְׁכִּ֔יל]] [[H9002\|וְ]][[H7699A\|שָׁדַ֖יִם]] [[H6784\|צֹמְקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABORTION|ABORTION]] • [[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.13|<< Hosea 9:13]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.15|Hosea 9:15 >>]]</td></tr></table>
 

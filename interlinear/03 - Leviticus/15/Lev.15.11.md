@@ -1,8 +1,70 @@
+---
+title: Leviticus 15:11
+type: Verse
+kjv: "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+bsb: "If the man with the discharge touches anyone without first rinsing his hands with water, the one who was touched must wash his clothes and bathe with water, and he will be unclean until evening."
+hebrew: "וְכֹ֨ל אֲשֶׁ֤ר יִגַּע־ בּוֹ֙ הַזָּ֔ב וְיָדָ֖יו לֹא־ שָׁטַ֣ף בַּמָּ֑יִם וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־ הָעָֽרֶב׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H2100H]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H7857]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H7364]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:11**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 If the man with the discharge touches anyone without first rinsing his hands with water, the one who was touched must wash his clothes and bathe with water, and he will be unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֨ל]] [[H0834A\|אֲשֶׁ֤ר]] [[H5060\|יִגַּע]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H2100H\|זָּ֔ב]] [[H9002\|וְ]][[H3027G\|יָדָ֖י]][[H9023\|ו]] [[H3808\|לֹא]][[H9014\|־]] [[H7857\|שָׁטַ֣ף]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H9001\|וְ]][[H3526H\|כִבֶּ֧ס]] [[H0899B\|בְּגָדָ֛י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H9003\|בַּ]][[H4325G\|מַּ֖יִם]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.10|<< Leviticus 15:10]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.12|Leviticus 15:12 >>]]</td></tr></table>
 

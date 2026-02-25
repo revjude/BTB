@@ -1,8 +1,51 @@
+---
+title: Proverbs 29:10
+type: Verse
+kjv: "The bloodthirsty hate the upright: but the just seek his soul."
+bsb: "Men of bloodshed hate a blameless man, but the upright care for his life."
+hebrew: "אַנְשֵׁ֣י דָ֭מִים יִשְׂנְאוּ־ תָ֑ם וִֽ֝ישָׁרִ֗ים יְבַקְשׁ֥וּ נַפְשֽׁוֹ׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0582]]"
+- "[[H1818]]"
+- "[[H8130]]"
+- "[[H9014]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:10**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The bloodthirsty hate the upright: but the just seek his soul.
 <small><sub>**BSB:**</sub></small>
 Men of bloodshed hate a blameless man, but the upright care for his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אַנְשֵׁ֣י]] [[H1818\|דָ֭מִים]] [[H8130\|יִשְׂנְאוּ]][[H9014\|־]] [[H8535\|תָ֑ם]] [[H9002\|וִֽ֝]][[H3477G\|ישָׁרִ֗ים]] [[H1245\|יְבַקְשׁ֥וּ]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.9|<< Proverbs 29:9]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.11|Proverbs 29:11 >>]]</td></tr></table>
 

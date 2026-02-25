@@ -1,10 +1,59 @@
+---
+title: Acts 28:30
+type: Verse
+kjv: "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,"
+bsb: "Paul stayed there two full years in his own rented house, welcoming all who came to visit him."
+greek: "Ἐνέμεινεν δὲ ὁ Παῦλος διετίαν ὅλην ἐν ἰδίῳ μισθώματι καὶ ἀπεδέχετο πάντας τοὺς εἰσπορευομένους πρὸς αὐτὸν"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1696]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1333]]"
+- "[[G3650]]"
+- "[[G1722]]"
+- "[[G2398]]"
+- "[[G3410]]"
+- "[[G2532]]"
+- "[[G0588]]"
+- "[[G3956]]"
+- "[[G1531]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **Acts 28:30**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
 <small><sub>**BSB:**</sub></small>
 Paul stayed there two full years in his own rented house, welcoming all who came to visit him.
-<small><sub>**Literal:**</sub></small>
-He abided then <the> Paul two years whole in his own rented house and was welcoming all those coming unto him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.29|<< Acts 28:29]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.31|Acts 28:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1696\|Ἐνέμεινεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1333\|διετίαν]]  [[G3650\|ὅλην]]  [[G1722\|ἐν]]  [[G2398\|ἰδίῳ]]  [[G3410\|μισθώματι]]  [[G2532\|καὶ]]  [[G0588\|ἀπεδέχετο]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G1531\|εἰσπορευομένους]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic RENTING|RENTING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.29|<< Acts 28:29]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.31|Acts 28:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

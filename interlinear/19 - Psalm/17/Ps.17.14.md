@@ -1,8 +1,73 @@
+---
+title: Psalm 17:14
+type: Verse
+kjv: "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
+bsb: "from such men, O LORD, by Your hand—from men of the world whose portion is in this life. May You fill the bellies of Your treasured ones and satisfy their sons, so they leave their abundance to their children."
+hebrew: "מִֽמְתִ֥ים יָדְךָ֨׀ יְהוָ֡ה מִֽמְתִ֬ים מֵחֶ֗לֶד חֶלְקָ֥ם בַּֽחַיִּים֮ וּֽצְפוּנְךָ֮ תְּמַלֵּ֪א בִ֫טְנָ֥ם יִשְׂבְּע֥וּ בָנִ֑ים וְהִנִּ֥יחוּ יִ֝תְרָ֗ם לְעוֹלְלֵיהֶֽם׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9006]]"
+- "[[H4962]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H2465]]"
+- "[[H2506A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H6840]]"
+- "[[H6845]]"
+- "[[H4390]]"
+- "[[H0990H]]"
+- "[[H7646]]"
+- "[[H1121A]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H3499A]]"
+- "[[H9005]]"
+- "[[H5768]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 17:14**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From men [which are] thy hand, O LORD, from men of the world, [which have] their portion in [this] life, and whose belly thou fillest with thy hid [treasure]: they are full of children, and leave the rest of their [substance] to their babes.
 <small><sub>**BSB:**</sub></small>
 from such men, O LORD, by Your hand—from men of the world whose portion is in this life. May You fill the bellies of Your treasured ones and satisfy their sons, so they leave their abundance to their children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִֽ]][[H4962\|מְתִ֥ים]] [[H3027H\|יָדְ]][[H9021\|ךָ֨]][[H9015\|׀]] [[H3068G\|יְהוָ֡ה]] [[H9006\|מִֽ]][[H4962\|מְתִ֬ים]] [[H9006\|מֵ]][[H2465\|חֶ֗לֶד]] [[H2506A\|חֶלְקָ֥]][[H9028\|ם]] [[H9003\|בַּֽ]][[H2416E\|חַיִּים֮]] [[H9002\|וּֽ]][[H6845\|צְפוּנְ]][[H9021\|ךָ֮]] [[H4390\|תְּמַלֵּ֪א]] [[H0990H\|בִ֫טְנָ֥]][[H9028\|ם]] [[H7646\|יִשְׂבְּע֥וּ]] [[H1121A\|בָנִ֑ים]] [[H9001\|וְ]][[H5117\|הִנִּ֥יחוּ]] [[H3499A\|יִ֝תְרָ֗]][[H9028\|ם]] [[H9005\|לְ]][[H5768\|עוֹלְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.13|<< Psalms 17:13]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.15|Psalms 17:15 >>]]</td></tr></table>
 
@@ -25,8 +90,8 @@ from such men, O LORD, by Your hand—from men of the world whose portion is in 
 | to children their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5768\|עוֹלְלֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.13|<< Psalms 17:13]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.15|Psalms 17:15 >>]]</td></tr></table>
 
-[^1]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^3]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: and treasure your  | **<big>[[H9002|וּ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and treasure your  | **<big>[[H9002|וּ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and treasure your  | **<big>[[H9002|וּ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וּֽצְפיּנְ/ךָ֮</big></span>**
 

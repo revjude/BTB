@@ -1,8 +1,74 @@
+---
+title: Exodus 2:14
+type: Verse
+kjv: "And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known."
+bsb: "But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.”"
+hebrew: "וַ֠יֹּאמֶר מִ֣י שָֽׂמְךָ֞ לְאִ֨ישׁ שַׂ֤ר וְשֹׁפֵט֙ עָלֵ֔ינוּ הַלְהָרְגֵ֙נִי֙ אַתָּ֣ה אֹמֵ֔ר כַּאֲשֶׁ֥ר הָרַ֖גְתָּ אֶת־ הַמִּצְרִ֑י וַיִּירָ֤א מֹשֶׁה֙ וַיֹּאמַ֔ר אָכֵ֖ן נוֹדַ֥ע הַדָּבָֽר׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H7760A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H8199]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9008]]"
+- "[[H2026]]"
+- "[[H9030]]"
+- "[[H0859A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4713]]"
+- "[[H3372G]]"
+- "[[H4872]]"
+- "[[H0403]]"
+- "[[H3045]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:14**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
 <small><sub>**BSB:**</sub></small>
 But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0559\|יֹּאמֶר]] [[H4310\|מִ֣י]] [[H7760A\|שָֽׂמְ]][[H9031\|ךָ֞]] [[H9005\|לְ]][[H0376G\|אִ֨ישׁ]] [[H8269\|שַׂ֤ר]] [[H9002\|וְ]][[H8199\|שֹׁפֵט֙]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9008\|הַ]][[H9005\|לְ]][[H2026\|הָרְגֵ֙]][[H9030\|נִי֙]] [[H0859A\|אַתָּ֣ה]] [[H0559\|אֹמֵ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H2026\|הָרַ֖גְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4713\|מִּצְרִ֑י]] [[H9001\|וַ]][[H3372G\|יִּירָ֤א]] [[H4872\|מֹשֶׁה֙]] [[H9001\|וַ]][[H0559\|יֹּאמַ֔ר]] [[H0403\|אָכֵ֖ן]] [[H3045\|נוֹדַ֥ע]] [[H9009\|הַ]][[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.13|<< Exodus 2:13]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.15|Exodus 2:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

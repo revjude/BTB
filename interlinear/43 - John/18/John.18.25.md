@@ -1,10 +1,65 @@
+---
+title: John 18:25
+type: Verse
+kjv: "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not."
+bsb: "Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.”"
+greek: "ἦν δὲ Σίμων Πέτρος ἑστὼς καὶ θερμαινόμενος. εἶπον οὖν αὐτῷ· μὴ καὶ σὺ ἐκ τῶν μαθητῶν αὐτοῦ εἶ; ἠρνήσατο οὖν ἐκεῖνος καὶ εἶπεν· οὐκ εἰμί."
+pericope: "[[John.18.25 Peter’s Second and Third Denials|Peter’s Second and Third Denials]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2476]]"
+- "[[G2532]]"
+- "[[G2328]]"
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0720]]"
+- "[[G1565]]"
+- "[[G3756]]"
+texts:
+- NKO
+- O
+---
+
 **John 18:25**<big><big>[[John.18.25 Peter’s Second and Third Denials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also [one] of his disciples? He denied [it], and said, I am not.
 <small><sub>**BSB:**</sub></small>
 Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.”
-<small><sub>**Literal:**</sub></small>
-Was now Simon Peter already standing and warming himself. They said therefore to him; Surely also you yourself of the disciples of Him are? Denied therefore he and said; Not I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.24|<< John 18:24]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.26|John 18:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G2476\|ἑστὼς]]  [[G2532\|καὶ]]  [[G2328\|θερμαινόμενος.]]  [[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G3361\|μὴ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G1510\|εἶ;]]  [[G0720\|ἠρνήσατο]]  [[G3767\|οὖν]]  [[G1565\|ἐκεῖνος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐκ]]  [[G1510\|εἰμί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.24|<< John 18:24]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.26|John 18:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

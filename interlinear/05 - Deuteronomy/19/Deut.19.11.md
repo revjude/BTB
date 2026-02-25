@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 19:11
+type: Verse
+kjv: "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+bsb: "If, however, a man hates his neighbor and lies in wait, attacks him and kills him, and then flees to one of these cities,"
+hebrew: "וְכִֽי־ יִהְיֶ֥ה אִישׁ֙ שֹׂנֵ֣א לְרֵעֵ֔הוּ וְאָ֤רַב לוֹ֙ וְקָ֣ם עָלָ֔יו וְהִכָּ֥הוּ נֶ֖פֶשׁ וָמֵ֑ת וְנָ֕ס אֶל־ אַחַ֖ת הֶעָרִ֥ים הָאֵֽל׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0376I]]"
+- "[[H8130]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0693]]"
+- "[[H9033]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H5221]]"
+- "[[H5315H]]"
+- "[[H4191]]"
+- "[[H5127]]"
+- "[[H0413]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0411]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:11**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:
 <small><sub>**BSB:**</sub></small>
 If, however, a man hates his neighbor and lies in wait, attacks him and kills him, and then flees to one of these cities,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H0376I\|אִישׁ֙]] [[H8130\|שֹׂנֵ֣א]] [[H9005\|לְ]][[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H9001\|וְ]][[H0693\|אָ֤רַב]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וְ]][[H6965J\|קָ֣ם]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H5221\|הִכָּ֥ה]][[H9033\|וּ]] [[H5315H\|נֶ֖פֶשׁ]] [[H9001\|וָ]][[H4191\|מֵ֑ת]] [[H9001\|וְ]][[H5127\|נָ֕ס]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אַחַ֖ת]] [[H9009\|הֶ]][[H5892B\|עָרִ֥ים]] [[H9009\|הָ]][[H0411\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.10|<< Deuteronomy 19:10]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.12|Deuteronomy 19:12 >>]]</td></tr></table>
 

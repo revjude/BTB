@@ -1,8 +1,65 @@
+---
+title: Leviticus 7:14
+type: Verse
+kjv: "And of it he shall offer one out of the whole oblation for an heave offering unto the LORD, and it shall be the priest’s that sprinkleth the blood of the peace offerings."
+bsb: "From the cakes he must present one portion of each offering as a contribution to the LORD. It belongs to the priest who sprinkles the blood of the peace offering."
+hebrew: "וְהִקְרִ֨יב מִמֶּ֤נּוּ אֶחָד֙ מִכָּל־ קָרְבָּ֔ן תְּרוּמָ֖ה לַיהוָ֑ה לַכֹּהֵ֗ן הַזֹּרֵ֛ק אֶת־ דַּ֥ם הַשְּׁלָמִ֖ים ל֥וֹ יִהְיֶֽה׃"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H8641]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H2236]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H8002]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:14**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of it he shall offer one out of the whole oblation [for] an heave offering unto the LORD, [and] it shall be the priest’s that sprinkleth the blood of the peace offerings.
 <small><sub>**BSB:**</sub></small>
 From the cakes he must present one portion of each offering as a contribution to the LORD. It belongs to the priest who sprinkles the blood of the peace offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֨יב]] [[H4480A\|מִמֶּ֤]][[H9033\|נּוּ]] [[H0259\|אֶחָד֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H7133A\|קָרְבָּ֔ן]] [[H8641\|תְּרוּמָ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9005\|לַ]][[H3548\|כֹּהֵ֗ן]] [[H9009\|הַ]][[H2236\|זֹּרֵ֛ק]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דַּ֥ם]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֖ים]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.13|<< Leviticus 7:13]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.15|Leviticus 7:15 >>]]</td></tr></table>
 

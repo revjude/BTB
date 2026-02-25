@@ -1,6 +1,48 @@
+---
+title: LXX Job 39:4
+type: Verse
+lxx: "Their young shall rip forth; they shall be multiplied in offspring; their young will go forth and in no way shall return to them."
+greek: "απορρήξουσι τα τέκνα αυτών πληθυνθήσονται εν γεννήματι εξελεύσονται και ου μη ανακάμψουσιν αυτοίς"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G6473]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G1473]]"
+- "[[G4129]]"
+- "[[G1722]]"
+- "[[G1081]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G0344]]"
+- "[[G1473]]"
+---
+
 **LXX Job 39:4** 
 <small><sub>**LXX:**</sub></small>
 Their young shall rip forth; they shall be multiplied in offspring; \[their young\] will go forth and in no way shall return to them. 
+<small><sub>**Greek:**</sub></small>
+[[G6473\|απορρήξουσι]] [[G3588\|τα]] [[G5043\|τέκνα]] [[G1473\|αυτών]] [[G4129\|πληθυνθήσονται]] [[G1722\|εν]] [[G1081\|γεννήματι]] [[G1831\|εξελεύσονται]] [[G2532\|και]] [[G3364\|ου μη]] [[G0344\|ανακάμψουσιν]] [[G1473\|αυτοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.5|Job 39:5 >>]]</td></tr></table>
 
@@ -17,6 +59,6 @@ Their young shall rip forth; they shall be multiplied in offspring; \[their youn
 | in no way | **<big>[[G3364\|ου μη]]</big>** |
 | shall return | **<big>[[G0344\|ανακάμψουσιν]]</big>** |
 | to them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Job.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.5|Job 39:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.5|Job 39:5 >>]]</td></tr></table>
 
 

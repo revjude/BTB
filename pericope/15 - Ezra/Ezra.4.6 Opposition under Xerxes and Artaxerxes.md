@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Opposition under Xerxes and Artaxerxes
+type: Pericope
 pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 4
 book/chapter: "[[Ezra.4|Ezra 4]]"
-genre:
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 11
 verses:
 - "[[Ezra.4.6]]"
 - "[[Ezra.4.7]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ezra.4.16]]"
 ---
 
-[[Ezra.4|Ezra 4:6 - Ezra 4:16]]
+<small>[[Ezra.4|Ezra 4:6-16]]</small>
 *Opposition under Xerxes and Artaxerxes*
 
 [[Ezra.4.6|6]] And in the reign of Ahasuerus, in the beginning of his reign, wrote they \[unto him\] an accusation against the inhabitants of Judah and Jerusalem.

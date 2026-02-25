@@ -1,8 +1,69 @@
+---
+title: Jeremiah 43:12
+type: Verse
+kjv: "And I will kindle a fire in the houses of the gods of Egypt; and he shall burn them, and carry them away captives: and he shall array himself with the land of Egypt, as a shepherd putteth on his garment; and he shall go forth from thence in peace."
+bsb: "I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar will burn those temples and take their gods as captives. So he will wrap himself with the land of Egypt as a shepherd wraps himself in his garment, and he will depart from there unscathed."
+hebrew: "וְהִצַּ֣תִּי אֵ֗שׁ בְּבָתֵּי֙ אֱלֹהֵ֣י מִצְרַ֔יִם וּשְׂרָפָ֖ם וְשָׁבָ֑ם וְעָטָה֩ אֶת־ אֶ֨רֶץ מִצְרַ֜יִם כַּאֲשֶׁר־ יַעְטֶ֤ה הָֽרֹעֶה֙ אֶת־ בִּגְד֔וֹ וְיָצָ֥א מִשָּׁ֖ם בְּשָׁלֽוֹם׃"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3341]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H0430]]"
+- "[[H4714G]]"
+- "[[H8313]]"
+- "[[H9038]]"
+- "[[H7617]]"
+- "[[H5844A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 43:12**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will kindle a fire in the houses of the gods of Egypt; and he shall burn them, and carry them away captives: and he shall array himself with the land of Egypt, as a shepherd putteth on his garment; and he shall go forth from thence in peace.
 <small><sub>**BSB:**</sub></small>
 I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar will burn those temples and take their gods as captives. So he will wrap himself with the land of Egypt as a shepherd wraps himself in his garment, and he will depart from there unscathed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3341\|הִצַּ֣תִּי]] [[H0784\|אֵ֗שׁ]] [[H9003\|בְּ]][[H1004Q\|בָתֵּי֙]] [[H0430\|אֱלֹהֵ֣י]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וּ]][[H8313\|שְׂרָפָ֖]][[H9038\|ם]] [[H9001\|וְ]][[H7617\|שָׁבָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H5844A\|עָטָה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֨רֶץ]] [[H4714G\|מִצְרַ֜יִם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H5844A\|יַעְטֶ֤ה]] [[H9009\|הָֽ]][[H7462B\|רֹעֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְד֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3318G\|יָצָ֥א]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H9003\|בְּ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic EGYPT|EGYPT]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.11|<< Jeremiah 43:11]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.13|Jeremiah 43:13 >>]]</td></tr></table>
 

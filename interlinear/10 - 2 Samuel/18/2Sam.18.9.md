@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 18:9
+type: Verse
+kjv: "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away."
+bsb: "Now Absalom was riding on his mule when he met the servants of David, and as the mule went under the thick branches of a large oak, Absalom’s head was caught fast in the tree. The mule under him kept going, so that he was suspended in midair."
+hebrew: "וַיִּקָּרֵא֙ אַבְשָׁל֔וֹם לִפְנֵ֖י עַבְדֵ֣י דָוִ֑ד וְאַבְשָׁל֞וֹם רֹכֵ֣ב עַל־ הַפֶּ֗רֶד וַיָּבֹ֣א הַפֶּ֡רֶד תַּ֣חַת שׂוֹבֶךְ֩ הָאֵלָ֨ה הַגְּדוֹלָ֜ה וַיֶּחֱזַ֧ק רֹאשׁ֣וֹ בָאֵלָ֗ה וַיֻּתַּן֙ בֵּ֤ין הַשָּׁמַ֙יִם֙ וּבֵ֣ין הָאָ֔רֶץ וְהַפֶּ֥רֶד אֲשֶׁר־ תַּחְתָּ֖יו עָבָֽר׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MULE|MULE]]"
+- "[[topic OAK|OAK]]"
+strongs:
+- "[[H9001]]"
+- "[[H7122G]]"
+- "[[H0053]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6505]]"
+- "[[H0935G]]"
+- "[[H8478G]]"
+- "[[H7730]]"
+- "[[H0424]]"
+- "[[H1419A]]"
+- "[[H2388H]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H0996G]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:9**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that [was] under him went away.
 <small><sub>**BSB:**</sub></small>
 Now Absalom was riding on his mule when he met the servants of David, and as the mule went under the thick branches of a large oak, Absalom’s head was caught fast in the tree. The mule under him kept going, so that he was suspended in midair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7122G\|יִּקָּרֵא֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H5650\|עַבְדֵ֣י]] [[H1732\|דָוִ֑ד]] [[H9002\|וְ]][[H0053\|אַבְשָׁל֞וֹם]] [[H7392\|רֹכֵ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6505\|פֶּ֗רֶד]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H9009\|הַ]][[H6505\|פֶּ֡רֶד]] [[H8478G\|תַּ֣חַת]] [[H7730\|שׂוֹבֶךְ֩]] [[H9009\|הָ]][[H0424\|אֵלָ֨ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֜ה]] [[H9001\|וַ]][[H2388H\|יֶּחֱזַ֧ק]] [[H7218A\|רֹאשׁ֣]][[H9023\|וֹ]] [[H9003\|בָ]][[H0424\|אֵלָ֗ה]] [[H9001\|וַ]][[H5414H\|יֻּתַּן֙]] [[H0996G\|בֵּ֤ין]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H9009\|הַ]][[H6505\|פֶּ֥רֶד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8478G\|תַּחְתָּ֖י]][[H9033\|ו]] [[H5674A\|עָבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic EPHRAIM|EPHRAIM]] • [[topic GILEAD|GILEAD]] • [[topic MULE|MULE]] • [[topic OAK|OAK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.8|<< 2 Samuel 18:8]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.10|2 Samuel 18:10 >>]]</td></tr></table>
 

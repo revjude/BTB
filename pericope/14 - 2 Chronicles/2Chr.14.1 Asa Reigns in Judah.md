@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Asa Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 14
 book/chapter: "[[2Chr.14|2 Chronicles 14]]"
-genre:
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 15
 verses:
 - "[[2Chr.14.1]]"
 - "[[2Chr.14.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Chr.14.15]]"
 ---
 
-[[2Chr.14|2 Chronicles 14:1 - 2 Chronicles 14:15]]
+<small>[[2Chr.14|2 Chronicles 14:1-15]]</small>
 *Asa Reigns in Judah*
 
 [[2Chr.14.1|1]] So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.

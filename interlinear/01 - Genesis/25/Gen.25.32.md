@@ -1,8 +1,65 @@
+---
+title: Genesis 25:32
+type: Verse
+kjv: "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+bsb: "“Look,” said Esau, “I am about to die, so what good is a birthright to me?”"
+hebrew: "וַיֹּ֣אמֶר עֵשָׂ֔ו הִנֵּ֛ה אָנֹכִ֥י הוֹלֵ֖ךְ לָמ֑וּת וְלָמָּה־ זֶּ֥ה לִ֖י בְּכֹרָֽה׃"
+pericope: "[[Gen.25.29 Esau Sells His Birthright|Esau Sells His Birthright]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6215G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H1980L]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9030]]"
+- "[[H1062]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:32**<big><big>[[Gen.25.29 Esau Sells His Birthright|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau said, Behold, I [am] at the point to die: and what profit shall this birthright do to me?
 <small><sub>**BSB:**</sub></small>
 “Look,” said Esau, “I am about to die, so what good is a birthright to me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6215G\|עֵשָׂ֔ו]] [[H2009\|הִנֵּ֛ה]] [[H0595\|אָנֹכִ֥י]] [[H1980L\|הוֹלֵ֖ךְ]] [[H9005\|לָ]][[H4191\|מ֑וּת]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֥ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H1062\|בְּכֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic ESAU|ESAU]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GLUTTONY|GLUTTONY]] • [[topic JACOB|JACOB]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.31|<< Genesis 25:31]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.33|Genesis 25:33 >>]]</td></tr></table>
 

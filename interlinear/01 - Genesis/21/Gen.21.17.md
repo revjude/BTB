@@ -1,8 +1,75 @@
+---
+title: Genesis 21:17
+type: Verse
+kjv: "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is."
+bsb: "Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, “What is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies."
+hebrew: "וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת־ ק֣וֹל הַנַּעַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים׀ אֶל־ הָגָר֙ מִן־ הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה־ לָּ֣ךְ הָגָ֑ר אַל־ תִּ֣ירְאִ֔י כִּֽי־ שָׁמַ֧ע אֱלֹהִ֛ים אֶל־ ק֥וֹל הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא־ שָֽׁם׃"
+pericope: "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963A]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H7121G]]"
+- "[[H4397H]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H1904]]"
+- "[[H4480A]]"
+- "[[H8064]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H4100]]"
+- "[[H9032]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H1931]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:17**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he [is].
 <small><sub>**BSB:**</sub></small>
 Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, “What is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H0430G\|אֱלֹהִים֮]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֣וֹל]] [[H9009\|הַ]][[H5288\|נַּעַר֒]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֩]] [[H4397H\|מַלְאַ֨ךְ]] [[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H1904\|הָגָר֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ֣]][[H9032\|ךְ]] [[H1904\|הָגָ֑ר]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּ֣ירְאִ֔י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שָׁמַ֧ע]] [[H0430G\|אֱלֹהִ֛ים]] [[H0413\|אֶל]][[H9014\|־]] [[H6963A\|ק֥וֹל]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֥ר]] [[H1931\|הוּא]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEER-SHEBA|BEER-SHEBA]] • [[topic GOD|GOD]] • [[topic ISHMAEL|ISHMAEL]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.16|<< Genesis 21:16]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.18|Genesis 21:18 >>]]</td></tr></table>
 

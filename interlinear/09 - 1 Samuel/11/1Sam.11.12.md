@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 11:12
+type: Verse
+kjv: "And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death."
+bsb: "Then the people said to Samuel, “Who said that Saul should not reign over us? Bring those men here so we can kill them!”"
+hebrew: "וַיֹּ֤אמֶר הָעָם֙ אֶל־ שְׁמוּאֵ֔ל מִ֣י הָאֹמֵ֔ר שָׁא֖וּל יִמְלֹ֣ךְ עָלֵ֑ינוּ תְּנ֥וּ הָאֲנָשִׁ֖ים וּנְמִיתֵֽם׃"
+pericope: "[[1Sam.11.12 Saul Confirmed as King|Saul Confirmed as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic TACT|TACT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H4310]]"
+- "[[H7586G]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H5414G]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:12**<big><big>[[1Sam.11.12 Saul Confirmed as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people said unto Samuel, Who [is] he that said, Shall Saul reign over us? bring the men, that we may put them to death.
 <small><sub>**BSB:**</sub></small>
 Then the people said to Samuel, “Who said that Saul should not reign over us? Bring those men here so we can kill them!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H4310\|מִ֣י]] [[H9009\|הָ]][[H0559\|אֹמֵ֔ר]] [[H7586G\|שָׁא֖וּל]] [[H4427A\|יִמְלֹ֣ךְ]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H5414G\|תְּנ֥וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9002\|וּ]][[H4191\|נְמִיתֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic STATECRAFT|STATECRAFT]] • [[topic TACT|TACT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.11|<< 1 Samuel 11:11]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.13|1 Samuel 11:13 >>]]</td></tr></table>
 

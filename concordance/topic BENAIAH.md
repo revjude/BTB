@@ -3,7 +3,7 @@
 
 1. Son of Jehoiada, commander of the Cherethites and Pelethites  [[2Sam.8.18|2Sa 8:18]]; [[1Kgs.1.38|1Ki 1:38]]
 
-- A distinguished warrior [[2Sam.23.20|2Sa 23:20]]-[[2Sam.23.23|23]]; [[1Chr.11.22|1Ch 11:22]]-[[1Chr.11.25|25]];  [[1Chr.27.5|27:5]],[[1Chr.27.6|6]]
+- A distinguished warrior [[2Sam.23.20|2Sa 23:20-23]]; [[1Chr.11.22|1Ch 11:22-25]];  [[1Chr.27.5|27:5]],[[1Chr.27.6|6]]
 
 - Loyal to Solomon [[1Kgs.1.2|1Ki 1:2]]; [[1Kgs.4.4|4:4]]
 

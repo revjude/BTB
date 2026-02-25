@@ -1,10 +1,68 @@
+---
+title: Matthew 20:30
+type: Verse
+kjv: "And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, thou Son of David."
+bsb: "And there were two blind men sitting beside the road. When they heard that Jesus was passing by, they cried out, “Lord, Son of David, have mercy on us!”"
+greek: "καὶ ἰδοὺ δύο τυφλοὶ καθήμενοι παρὰ τὴν ὁδόν, ἀκούσαντες ὅτι Ἰησοῦς παράγει, ἔκραξαν λέγοντες· ἐλέησον ἡμᾶς κύριε Ἰησοῦ, υἱὸς Δαυίδ.¶"
+pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1417]]"
+- "[[G5185]]"
+- "[[G2521]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G3855]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G1653]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G5207]]"
+- "[[G1138]]"
+texts:
+- NKO
+- O
+- NK(O)
+---
+
 **Matthew 20:30**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, [thou] Son of David.
 <small><sub>**BSB:**</sub></small>
 And there were two blind men sitting beside the road. When they heard that Jesus was passing by, they cried out, “Lord, Son of David, have mercy on us!”
-<small><sub>**Literal:**</sub></small>
-And behold two blind [men] sitting beside the road, having heard that Jesus is passing by, cried out saying; do have mercy on us Lord Jesus Son of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.29|<< Matthew 20:29]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.31|Matthew 20:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1417\|δύο]]  [[G5185\|τυφλοὶ]]  [[G2521\|καθήμενοι]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν,]]  [[G0191\|ἀκούσαντες]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G3855\|παράγει,]]  [[G2896\|ἔκραξαν]]  [[G3004G\|λέγοντες·]]  [[G1653\|ἐλέησον]]  [[G3165\|ἡμᾶς]]  [[G2962G\|κύριε]]  [[G2424G\|Ἰησοῦ,]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.29|<< Matthew 20:29]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.31|Matthew 20:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

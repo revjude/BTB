@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Righteous King
+type: Pericope
 pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 32
 book/chapter: "[[Isa.32|Isaiah 32]]"
-genre:
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.32.1]]"
 - "[[Isa.32.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.32.8]]"
 ---
 
-[[Isa.32|Isaiah 32:1 - Isaiah 32:8]]
+<small>[[Isa.32|Isaiah 32:1-8]]</small>
 *A Righteous King*
 
 [[Isa.32.1|1]] Behold, a king shall reign in righteousness, and princes shall rule in judgment.

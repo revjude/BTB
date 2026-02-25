@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Semites
+type: Pericope
 pericope: "[[Gen.10.21 The Semites|The Semites]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 10
 book/chapter: "[[Gen.10|Genesis 10]]"
-genre:
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 12
 verses:
 - "[[Gen.10.21]]"
 - "[[Gen.10.22]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Gen.10.32]]"
 ---
 
-[[Gen.10|Genesis 10:21 - Genesis 10:32]]
+<small>[[Gen.10|Genesis 10:21-32]]</small>
 *The Semites*
 
 [[Gen.10.21|21]] Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were \[children\] born.

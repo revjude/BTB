@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Forgiveness
+type: Pericope
 pericope: "[[Rom.12.14 Forgiveness|Forgiveness]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Romans
 chapter: 12
 book/chapter: "[[Rom.12|Romans 12]]"
-genre:
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Rom.12.14]]"
 - "[[Rom.12.15]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rom.12.21]]"
 ---
 
-[[Rom.12|Romans 12:14 - Romans 12:21]]
+<small>[[Rom.12|Romans 12:14-21]]</small>
 *Forgiveness*
 
 [[Rom.12.14|14]] Bless them which persecute you: bless, and curse not.

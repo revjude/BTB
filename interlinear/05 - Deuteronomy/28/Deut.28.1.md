@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 28:1
+type: Verse
+kjv: "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:"
+bsb: "“Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth."
+hebrew: "וְהָיָ֗ה אִם־ שָׁמ֤וֹעַ תִּשְׁמַע֙ בְּקוֹל֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־ כָּל־ מִצְוֹתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם וּנְתָ֨נְךָ֜ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ עֶלְי֔וֹן עַ֖ל כָּל־ גּוֹיֵ֥י הָאָֽרֶץ׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H5414H]]"
+- "[[H5945A]]"
+- "[[H5921A]]"
+- "[[H1471A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:1**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe [and] to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:
 <small><sub>**BSB:**</sub></small>
 “Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H8085H\|שָׁמ֤וֹעַ]] [[H8085H\|תִּשְׁמַע֙]] [[H9003\|בְּ]][[H6963A\|קוֹל֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֤ר]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֛ר]] [[H0595\|אָנֹכִ֥י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9001\|וּ]][[H5414H\|נְתָ֨נְ]][[H9031\|ךָ֜]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H5945A\|עֶלְי֔וֹן]] [[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1471A\|גּוֹיֵ֥י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.26|<< Deuteronomy 27:26]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.2|Deuteronomy 28:2 >>]]</td></tr></table>
 

@@ -1,10 +1,66 @@
+---
+title: Revelation 18:7
+type: Verse
+kjv: "How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow."
+bsb: "As much as she has glorified herself and lived in luxury, give her the same measure of torment and grief. In her heart she says, ‘I sit as queen; I am not a widow and will never see grief.’"
+greek: "ὅσα ἐδόξασεν αὐτὴν καὶ ἐστρηνίασεν, τοσοῦτον δότε αὐτῇ βασανισμὸν καὶ πένθος, ὅτι ἐν τῇ καρδίᾳ αὐτῆς λέγει ὅτι κάθημαι βασίλισσα καὶ χήρα οὐκ εἰμὶ καὶ πένθος οὐ μὴ ἴδω.¶"
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[G3745]]"
+- "[[G1392]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G4763]]"
+- "[[G5118]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G0929]]"
+- "[[G3997]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2521]]"
+- "[[G0938G]]"
+- "[[G5503]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **Revelation 18:7**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.
 <small><sub>**BSB:**</sub></small>
 As much as she has glorified herself and lived in luxury, give her the same measure of torment and grief. In her heart she says, ‘I sit as queen; I am not a widow and will never see grief.’
-<small><sub>**Literal:**</sub></small>
-So much as she has glorified herself and lived in luxury, so much do give to her torment and misery, because in the heart of herself she says that I sit [as] a queen and a widow never I am and mourning certainly not shall I see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.6|<< Revelation 18:6]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.8|Revelation 18:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3745\|ὅσα]]  [[G1392\|ἐδόξασεν]]  [[G1438\|αὐτὴν]]  [[G2532\|καὶ]]  [[G4763\|ἐστρηνίασεν,]]  [[G5118\|τοσοῦτον]]  [[G1325\|δότε]]  [[G0846\|αὐτῇ]]  [[G0929\|βασανισμὸν]]  [[G2532\|καὶ]]  [[G3997\|πένθος,]]  [[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτῆς]]  [[G3004G\|λέγει]]  [[G3754G\|ὅτι]]  [[G2521\|κάθημαι]]  [[G0938G\|βασίλισσα]]  [[G2532\|καὶ]]  [[G5503\|χήρα]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G2532\|καὶ]]  [[G3997\|πένθος]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1492H\|ἴδω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic PRIDE|PRIDE]] • [[topic SECURITY|SECURITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.6|<< Revelation 18:6]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.8|Revelation 18:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:7** is...
 > $\quad$ alluding to: [[LXX.Isa.47.7|Isa 47:7]] ☩ [[LXX.Jer.50.31|Jer 50:31]]

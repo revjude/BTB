@@ -1,8 +1,60 @@
+---
+title: 2 Kings 14:2
+type: Verse
+kjv: "He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem."
+bsb: "He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ הָיָ֣ה בְמָלְכ֔וֹ וְעֶשְׂרִ֤ים וָתֵ֙שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְהֽוֹעַדָּ֖ן מִן־ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOADDAN|JEHOADDAN]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H8672]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3086]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 14:2**<big><big>[[2Kgs.14.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother’s name [was] Jehoaddan of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 He was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H1961\|הָיָ֣ה]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וָ]][[H8672\|תֵ֙שַׁע֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3086\|יְהֽוֹעַדָּ֖ן]] [[H4480A\|מִן]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOADDAN|JEHOADDAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.1|<< 2 Kings 14:1]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.3|2 Kings 14:3 >>]]</td></tr></table>
 

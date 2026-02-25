@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fear God Alone
+type: Pericope
 pericope: "[[Matt.10.26 Fear God Alone|Fear God Alone]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.10.26]]"
 - "[[Matt.10.27]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.10.31]]"
 ---
 
-[[Matt.10|Matthew 10:26 - Matthew 10:31]]
+<small>[[Matt.10|Matthew 10:26-31]]</small>
 *Fear God Alone*
 
 [[Matt.10.26|26]] Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.

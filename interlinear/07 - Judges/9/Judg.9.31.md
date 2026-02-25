@@ -1,8 +1,73 @@
+---
+title: Judges 9:31
+type: Verse
+kjv: "And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee."
+bsb: "So he covertly sent messengers to Abimelech to say, “Look, Gaal son of Ebed and his brothers have come to Shechem and are stirring up the city against you."
+hebrew: "וַיִּשְׁלַ֧ח מַלְאָכִ֛ים אֶל־ אֲבִימֶ֖לֶךְ בְּתָרְמָ֣ה לֵאמֹ֑ר הִנֵּה֩ גַ֨עַל בֶּן־ עֶ֤בֶד וְאֶחָיו֙ בָּאִ֣ים שְׁכֶ֔מָה וְהִנָּ֛ם צָרִ֥ים אֶת־ הָעִ֖יר עָלֶֽיךָ׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0040H]]"
+- "[[H9003]]"
+- "[[H8649A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1603]]"
+- "[[H1121A]]"
+- "[[H5651G]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H7927G]]"
+- "[[H9011]]"
+- "[[H9048]]"
+- "[[H6696A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:31**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee.
 <small><sub>**BSB:**</sub></small>
 So he covertly sent messengers to Abimelech to say, “Look, Gaal son of Ebed and his brothers have come to Shechem and are stirring up the city against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֧ח]] [[H4397G\|מַלְאָכִ֛ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0040H\|אֲבִימֶ֖לֶךְ]] [[H9003\|בְּ]][[H8649A\|תָרְמָ֣ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּה֩]] [[H1603\|גַ֨עַל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5651G\|עֶ֤בֶד]] [[H9002\|וְ]][[H0251H\|אֶחָי]][[H9023\|ו֙]] [[H0935G\|בָּאִ֣ים]] [[H7927G\|שְׁכֶ֔מָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנָּ֛]][[H9048\|ם]] [[H6696A\|צָרִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H5921A\|עָלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.30|<< Judges 9:30]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.32|Judges 9:32 >>]]</td></tr></table>
 

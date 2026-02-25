@@ -1,10 +1,65 @@
+---
+title: Romans 8:34
+type: Verse
+kjv: "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
+bsb: "Who is there to condemn us? For Christ Jesus, who died, and more than that was raised to life, is at the right hand of God—and He is interceding for us."
+greek: "τίς ὁ κατακρινῶν; Χριστὸς Ἰησοῦς ὁ ἀποθανὼν μᾶλλον δὲ καὶ ἐγερθείς ἐκ νεκρῶν, ὃς καί ἐστιν ἐν δεξιᾷ τοῦ θεοῦ, ὃς καὶ ἐντυγχάνει ὑπὲρ ἡμῶν.¶"
+pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G2632]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G0599]]"
+- "[[G3123H]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1188]]"
+- "[[G2316]]"
+- "[[G1793]]"
+- "[[G5228]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NO
+- k
+- O
+---
+
 **Romans 8:34**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.
 <small><sub>**BSB:**</sub></small>
 Who is there to condemn us? For Christ Jesus, who died, and more than that was raised to life, is at the right hand of God—and He is interceding for us.
-<small><sub>**Literal:**</sub></small>
-Who [is] the [one] condemning? [For it is] Christ Jesus the [one] having died rather now also having been raised up from dead who also is at [the] right hand <the> of God, who and is interceding for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.33|<< Romans 8:33]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.35|Romans 8:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G3588\|ὁ]]  [[G2632\|κατακρινῶν;]]  [[G5547\|Χριστὸς]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G0599\|ἀποθανὼν]]  [[G3123H\|μᾶλλον]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1453\|ἐγερθείς]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G3739\|ὃς]]  [[G2532\|καί]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G1188\|δεξιᾷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G1793\|ἐντυγχάνει]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.33|<< Romans 8:33]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.35|Romans 8:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

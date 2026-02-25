@@ -1,8 +1,56 @@
+---
+title: Genesis 7:12
+type: Verse
+kjv: "And the rain was upon the earth forty days and forty nights."
+bsb: "And the rain fell upon the earth for forty days and forty nights."
+hebrew: "וַֽיְהִ֥י הַגֶּ֖שֶׁם עַל־ הָאָ֑רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1653]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0705]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:12**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rain was upon the earth forty days and forty nights.
 <small><sub>**BSB:**</sub></small>
 And the rain fell upon the earth for forty days and forty nights.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִ֥י]] [[H9009\|הַ]][[H1653\|גֶּ֖שֶׁם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0705\|אַרְבָּעִ֣ים]] [[H3117G\|י֔וֹם]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֖ים]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.11|<< Genesis 7:11]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.13|Genesis 7:13 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 12:3
+type: Verse
+kjv: "And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place."
+bsb: "Tear down their altars, smash their sacred pillars, burn up their Asherah poles, cut down the idols of their gods, and wipe out their names from every place."
+hebrew: "וְנִתַּצְתֶּ֣ם אֶת־ מִזְבּחֹתָ֗ם וְשִׁבַּרְתֶּם֙ אֶת־ מַצֵּ֣בֹתָ֔ם וַאֲשֵֽׁרֵיהֶם֙ תִּשְׂרְפ֣וּן בָּאֵ֔שׁ וּפְסִילֵ֥י אֱלֹֽהֵיהֶ֖ם תְּגַדֵּע֑וּן וְאִבַּדְתֶּ֣ם אֶת־ שְׁמָ֔ם מִן־ הַמָּק֖וֹם הַהֽוּא׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic PILLAR|PILLAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5422]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9028]]"
+- "[[H7665]]"
+- "[[H4676]]"
+- "[[H9002]]"
+- "[[H0842]]"
+- "[[H8313]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6456]]"
+- "[[H0430]]"
+- "[[H1438]]"
+- "[[H0006]]"
+- "[[H8034]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:3**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.
 <small><sub>**BSB:**</sub></small>
 Tear down their altars, smash their sacred pillars, burn up their Asherah poles, cut down the idols of their gods, and wipe out their names from every place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5422\|נִתַּצְתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבּחֹתָ֗]][[H9028\|ם]] [[H9001\|וְ]][[H7665\|שִׁבַּרְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4676\|מַצֵּ֣בֹתָ֔]][[H9028\|ם]] [[H9002\|וַ]][[H0842\|אֲשֵֽׁרֵי]][[H9028\|הֶם֙]] [[H8313\|תִּשְׂרְפ֣וּ]][[H9013\|ן]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H6456\|פְסִילֵ֥י]] [[H0430\|אֱלֹֽהֵי]][[H9028\|הֶ֖ם]] [[H1438\|תְּגַדֵּע֑וּ]][[H9013\|ן]] [[H9001\|וְ]][[H0006\|אִבַּדְתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמָ֔]][[H9028\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ICONOCLASM|ICONOCLASM]] • [[topic PILLAR|PILLAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.2|<< Deuteronomy 12:2]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.4|Deuteronomy 12:4 >>]]</td></tr></table>
 

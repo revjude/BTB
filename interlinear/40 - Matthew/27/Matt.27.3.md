@@ -1,10 +1,70 @@
+---
+title: Matthew 27:3
+type: Verse
+kjv: "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+bsb: "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders."
+greek: "Τότε ἰδὼν Ἰούδας ὁ παραδιδοὺς αὐτὸν ὅτι κατεκρίθη, μεταμεληθεὶς ἔστρεψεν τὰ τριάκοντα ἀργύρια τοῖς ἀρχιερεῦσιν καὶ τοῖς πρεσβυτέροις"
+pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONSCIENCE MONEY|CONSCIENCE MONEY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G5119]]"
+- "[[G1492H]]"
+- "[[G2455H]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2632]]"
+- "[[G3338]]"
+- "[[G4762]]"
+- "[[G5144]]"
+- "[[G0694]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+- k
+---
+
 **Matthew 27:3**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,
 <small><sub>**BSB:**</sub></small>
 When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders.
-<small><sub>**Literal:**</sub></small>
-Then having seen Judas the [one who] betraying Him that He was condemned, having regretted [it] he turned the thirty pieces of silver to the chief priests and to the elders<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.2|<< Matthew 27:2]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.4|Matthew 27:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G1492H\|ἰδὼν]]  [[G2455H\|Ἰούδας]]  [[G3588\|ὁ]]  [[G3860\|παραδιδοὺς]]  [[G0846\|αὐτὸν]]  [[G3754G\|ὅτι]]  [[G2632\|κατεκρίθη,]]  [[G3338\|μεταμεληθεὶς]]  [[G4762\|ἔστρεψεν]]  [[G3588\|τὰ]]  [[G5144\|τριάκοντα]]  [[G0694\|ἀργύρια]]  [[G3588\|τοῖς]]  [[G0749\|ἀρχιερεῦσιν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4245G\|πρεσβυτέροις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BRIBERY|BRIBERY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONSCIENCE MONEY|CONSCIENCE MONEY]] • [[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MONEY|MONEY]] • [[topic MORTIFICATION|MORTIFICATION]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.2|<< Matthew 27:2]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.4|Matthew 27:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

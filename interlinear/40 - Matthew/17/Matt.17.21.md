@@ -1,10 +1,57 @@
+---
+title: Matthew 17:21
+type: Verse
+kjv: "Howbeit this kind goeth not out but by prayer and fasting."
+bsb: ""
+jesus_said: "Howbeit this kind goeth not out but by prayer and fasting."
+greek: "Τοῦτο δὲ τὸ γένος οὐκ ἐκπορεύεται εἰ μὴ ἐν προσευχῇ καὶ νηστείᾳ.¶"
+pericope: "[[Matt.17.19 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1085H]]"
+- "[[G3756]]"
+- "[[G1607]]"
+- "[[G1487G]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G4335]]"
+- "[[G2532]]"
+- "[[G3521]]"
+texts:
+- KO
+---
+
 **Matthew 17:21**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit this kind goeth not out but by prayer and fasting.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-this now <the> kind not goes out only except with prayer and with fastings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.20|<< Matthew 17:20]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.22|Matthew 17:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G1085H\|γένος]]  [[G3756\|οὐκ]]  [[G1607\|ἐκπορεύεται]]  [[G1487G\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G4335\|προσευχῇ]]  [[G2532\|καὶ]]  [[G3521\|νηστείᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic FASTING|FASTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.20|<< Matthew 17:20]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.22|Matthew 17:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

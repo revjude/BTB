@@ -1,8 +1,53 @@
+---
+title: 2 Samuel 22:24
+type: Verse
+kjv: "I was also upright before him, and have kept myself from mine iniquity."
+bsb: "And I have been blameless before Him and kept myself from iniquity."
+hebrew: "וָאֶהְיֶ֥ה תָמִ֖ים ל֑וֹ וָאֶשְׁתַּמְּרָ֖ה מֵעֲוֹנִֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8549H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8104H]]"
+- "[[H9012]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:24**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was also upright before him, and have kept myself from mine iniquity.
 <small><sub>**BSB:**</sub></small>
 And I have been blameless before Him and kept myself from iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1961\|אֶהְיֶ֥ה]] [[H8549H\|תָמִ֖ים]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וָ]][[H8104H\|אֶשְׁתַּמְּרָ֖]][[H9012\|ה]] [[H9006\|מֵ]][[H5771G\|עֲוֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITHFULNESS|FAITHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.23|<< 2 Samuel 22:23]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.25|2 Samuel 22:25 >>]]</td></tr></table>
 

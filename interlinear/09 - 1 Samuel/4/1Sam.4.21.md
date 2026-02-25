@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 4:21
+type: Verse
+kjv: "And she named the child Ichabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband."
+bsb: "And she named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been captured and her father-in-law and her husband had been killed."
+hebrew: "וַתִּקְרָ֣א לַנַּ֗עַר אִֽי־ כָבוֹד֙ לֵאמֹ֔ר גָּלָ֥ה כָב֖וֹד מִיִּשְׂרָאֵ֑ל אֶל־ הִלָּקַח֙ אֲר֣וֹן הָאֱלֹהִ֔ים וְאֶל־ חָמִ֖יהָ וְאִישָֽׁהּ׃"
+pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic I-CHABOD|I-CHABOD]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H0350]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H1540K]]"
+- "[[H3519]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H3947G]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H2524]]"
+- "[[H9024]]"
+- "[[H0376H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:21**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she named the child Ichabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.
 <small><sub>**BSB:**</sub></small>
 And she named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been captured and her father-in-law and her husband had been killed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|תִּקְרָ֣א]] [[H9005\|לַ]][[H5288\|נַּ֗עַר]] [[H0350\|אִֽי]][[H9014\|־]] [[H0350\|כָבוֹד֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1540K\|גָּלָ֥ה]] [[H3519\|כָב֖וֹד]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֑ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3947G\|הִלָּקַח֙]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H2524\|חָמִ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0376H\|אִישָֽׁ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic I-CHABOD|I-CHABOD]] • [[topic PARENTS|PARENTS]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.20|<< 1 Samuel 4:20]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.22|1 Samuel 4:22 >>]]</td></tr></table>
 

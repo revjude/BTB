@@ -1,10 +1,68 @@
+---
+title: Luke 13:19
+type: Verse
+kjv: "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
+bsb: "It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”"
+jesus_said: "It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it."
+greek: "ὁμοία ἐστὶν κόκκῳ σινάπεως ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ, καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον μέγα, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ.¶"
+pericope: "[[Luke.13.18 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+strongs:
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G2848]]"
+- "[[G4615]]"
+- "[[G3739]]"
+- "[[G2983]]"
+- "[[G0444]]"
+- "[[G0906I]]"
+- "[[G1519]]"
+- "[[G2779]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G0837]]"
+- "[[G1096]]"
+- "[[G1186]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G4071]]"
+- "[[G3772]]"
+- "[[G2681]]"
+- "[[G1722]]"
+- "[[G2798]]"
+- "[[G0846]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 13:19**<big><big>[[Luke.13.18 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.
 <small><sub>**BSB:**</sub></small>
 It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”
-<small><sub>**Literal:**</sub></small>
-Like it is to a grain of mustard which having taken a man cast into garden his own, and it grew and it became <into> a tree great and the birds of the air encamped in the branches of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.18|<< Luke 13:18]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.20|Luke 13:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3664\|ὁμοία]]  [[G1510\|ἐστὶν]]  [[G2848\|κόκκῳ]]  [[G4615\|σινάπεως]]  [[G3739\|ὃν]]  [[G2983\|λαβὼν]]  [[G0444\|ἄνθρωπος]]  [[G0906I\|ἔβαλεν]]  [[G1519\|εἰς]]  [[G2779\|κῆπον]]  [[G1438\|ἑαυτοῦ,]]  [[G2532\|καὶ]]  [[G0837\|ηὔξησεν]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1519\|εἰς]]  [[G1186\|δένδρον]]  [[G3173\|μέγα,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4071\|πετεινὰ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2681\|κατεσκήνωσεν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2798\|κλάδοις]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.18|<< Luke 13:18]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.20|Luke 13:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 13:19** is...
 > $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]

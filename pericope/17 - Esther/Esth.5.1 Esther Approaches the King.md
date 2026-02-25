@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esther Approaches the King
+type: Pericope
 pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 5
 book/chapter: "[[Esth.5|Esther 5]]"
-genre:
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 8
 verses:
 - "[[Esth.5.1]]"
 - "[[Esth.5.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Esth.5.8]]"
 ---
 
-[[Esth.5|Esther 5:1 - Esther 5:8]]
+<small>[[Esth.5|Esther 5:1-8]]</small>
 *Esther Approaches the King*
 
 [[Esth.5.1|1]] Now it came to pass on the third day, that Esther put on \[her\] royal \[apparel\], and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.

@@ -1,10 +1,62 @@
+---
+title: Philippians 3:14
+type: Verse
+kjv: "I press toward the mark for the prize of the high calling of God in Christ Jesus."
+bsb: "I press on toward the goal to win the prize of God’s heavenly calling in Christ Jesus."
+greek: "κατὰ σκοπὸν διώκω εἰς τὸ βραβεῖον τῆς ἄνω κλήσεως τοῦ θεοῦ ἐν Χριστῷ Ἰησοῦ."
+pericope: "[[Phil.3.12 Pressing on toward the Goal|Pressing on toward the Goal]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic PRIZE|PRIZE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2596]]"
+- "[[G4649]]"
+- "[[G1377]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1017]]"
+- "[[G0507]]"
+- "[[G2821]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 3:14**<big><big>[[Phil.3.12 Pressing on toward the Goal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I press toward the mark for the prize of the high calling of God in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 I press on toward the goal to win the prize of God’s heavenly calling in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-toward [the] goal I press on for the prize of the upward calling <the> of God in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.13|<< Philippians 3:13]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.15|Philippians 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G4649\|σκοπὸν]]  [[G1377\|διώκω]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1017\|βραβεῖον]]  [[G3588\|τῆς]]  [[G0507\|ἄνω]]  [[G2821\|κλήσεως]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic DILIGENCE|DILIGENCE]] • [[topic GAMES|GAMES]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]] • [[topic PRIZE|PRIZE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.13|<< Philippians 3:13]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.15|Philippians 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

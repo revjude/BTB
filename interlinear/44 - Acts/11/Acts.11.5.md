@@ -1,10 +1,64 @@
+---
+title: Acts 11:5
+type: Verse
+kjv: "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:"
+bsb: "“I was in the city of Joppa praying, and in a trance I saw a vision of something like a large sheet being let down from heaven by its four corners, and it came right down to me."
+greek: "ἐγὼ ἤμην ἐν πόλει Ἰόππῃ προσευχόμενος καὶ εἶδον ἐν ἐκστάσει ὅραμα καταβαῖνον σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς καθιεμένην ἐκ τοῦ οὐρανοῦ, καὶ ἦλθεν ἄχρι ἐμοῦ·"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G2445]]"
+- "[[G4336]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1611]]"
+- "[[G3705]]"
+- "[[G2597]]"
+- "[[G4632]]"
+- "[[G5100]]"
+- "[[G5613]]"
+- "[[G3607]]"
+- "[[G3173]]"
+- "[[G5064]]"
+- "[[G0746]]"
+- "[[G2524]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2064]]"
+- "[[G0891]]"
+texts:
+- NKO
+---
+
 **Acts 11:5**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:
 <small><sub>**BSB:**</sub></small>
 “I was in the city of Joppa praying, and in a trance I saw a vision of something like a large sheet being let down from heaven by its four corners, and it came right down to me.
-<small><sub>**Literal:**</sub></small>
-I myself was in [the] city of Joppa praying and I saw in a trance a vision descending a vessel certain like a sheet great by four corners being let down out of <the> heaven, and it came down as far as me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.4|<< Acts 11:4]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.6|Acts 11:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1510\|ἤμην]]  [[G1722\|ἐν]]  [[G4172\|πόλει]]  [[G2445\|Ἰόππῃ]]  [[G4336\|προσευχόμενος]]  [[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G1722\|ἐν]]  [[G1611\|ἐκστάσει]]  [[G3705\|ὅραμα]]  [[G2597\|καταβαῖνον]]  [[G4632\|σκεῦός]]  [[G5100\|τι]]  [[G5613\|ὡς]]  [[G3607\|ὀθόνην]]  [[G3173\|μεγάλην]]  [[G5064\|τέσσαρσιν]]  [[G0746\|ἀρχαῖς]]  [[G2524\|καθιεμένην]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G0891\|ἄχρι]]  [[G1473\|ἐμοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.4|<< Acts 11:4]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.6|Acts 11:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

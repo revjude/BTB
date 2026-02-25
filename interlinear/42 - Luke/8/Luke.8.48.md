@@ -1,10 +1,60 @@
+---
+title: Luke 8:48
+type: Verse
+kjv: "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+bsb: "“Daughter,” said Jesus, “your faith has healed you. Go in peace.”"
+jesus_said: "Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+greek: "ὁ δὲ εἶπεν αὐτῇ· θάρσει θυγάτηρ, ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην.¶"
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2293]]"
+- "[[G2364]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G4982]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G1515]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Luke 8:48**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
 <small><sub>**BSB:**</sub></small>
 “Daughter,” said Jesus, “your faith has healed you. Go in peace.”
-<small><sub>**Literal:**</sub></small>
-<the> And He said to her; Take courage daughter, the faith of you has healed you; do go in peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.47|<< Luke 8:47]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.49|Luke 8:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G2293\|θάρσει]]  [[G2364\|θυγάτηρ,]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|σου]]  [[G4982\|σέσωκέν]]  [[G4771\|σε·]]  [[G4198\|πορεύου]]  [[G1519\|εἰς]]  [[G1515\|εἰρήνην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.47|<< Luke 8:47]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.49|Luke 8:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

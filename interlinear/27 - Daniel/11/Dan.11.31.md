@@ -1,8 +1,61 @@
+---
+title: Daniel 11:31
+type: Verse
+kjv: "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate."
+bsb: "His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation."
+hebrew: "וּזְרֹעִ֖ים מִמֶּ֣נּוּ יַעֲמֹ֑דוּ וְחִלְּל֞וּ הַמִּקְדָּ֤שׁ הַמָּעוֹז֙ וְהֵסִ֣ירוּ הַתָּמִ֔יד וְנָתְנ֖וּ הַשִּׁקּ֥וּץ מְשׁוֹמֵֽם׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5975I]]"
+- "[[H9001]]"
+- "[[H2490H]]"
+- "[[H9009]]"
+- "[[H4720]]"
+- "[[H4581]]"
+- "[[H5493G]]"
+- "[[H8548]]"
+- "[[H5414H]]"
+- "[[H8251]]"
+- "[[H8074G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:31**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily [sacrifice], and they shall place the abomination that maketh desolate.
 <small><sub>**BSB:**</sub></small>
 His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H2220\|זְרֹעִ֖ים]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H5975I\|יַעֲמֹ֑דוּ]] [[H9001\|וְ]][[H2490H\|חִלְּל֞וּ]] [[H9009\|הַ]][[H4720\|מִּקְדָּ֤שׁ]] [[H9009\|הַ]][[H4581\|מָּעוֹז֙]] [[H9001\|וְ]][[H5493G\|הֵסִ֣ירוּ]] [[H9009\|הַ]][[H8548\|תָּמִ֔יד]] [[H9001\|וְ]][[H5414H\|נָתְנ֖וּ]] [[H9009\|הַ]][[H8251\|שִּׁקּ֥וּץ]] [[H8074G\|מְשׁוֹמֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.30|<< Daniel 11:30]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.32|Daniel 11:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

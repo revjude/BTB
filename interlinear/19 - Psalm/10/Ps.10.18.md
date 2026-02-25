@@ -1,8 +1,62 @@
+---
+title: Psalm 10:18
+type: Verse
+kjv: "To judge the fatherless and the oppressed, that the man of the earth may no more oppress."
+bsb: "to vindicate the fatherless and oppressed, that the men of the earth may strike terror no more."
+hebrew: "לִשְׁפֹּ֥ט יָת֗וֹם וָ֫דָ֥ךְ בַּל־ יוֹסִ֥יף ע֑וֹד לַעֲרֹ֥ץ אֱ֝נ֗וֹשׁ מִן־ הָאָֽרֶץ׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H8199]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H1790]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H6206]]"
+- "[[H0582]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:18**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
 <small><sub>**BSB:**</sub></small>
 to vindicate the fatherless and oppressed, that the men of the earth may strike terror no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H8199\|שְׁפֹּ֥ט]] [[H3490\|יָת֗וֹם]] [[H9002\|וָ֫]][[H1790\|דָ֥ךְ]] [[H1077\|בַּל]][[H9014\|־]] [[H3254G\|יוֹסִ֥יף]] [[H5750\|ע֑וֹד]] [[H9005\|לַ]][[H6206\|עֲרֹ֥ץ]] [[H0582\|אֱ֝נ֗וֹשׁ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic OPPRESSION|OPPRESSION]] • [[topic ORPHAN|ORPHAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.17|<< Psalms 10:17]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.0|Psalms 11:0 >>]]</td></tr></table>
 

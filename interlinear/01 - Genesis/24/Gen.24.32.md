@@ -1,8 +1,70 @@
+---
+title: Genesis 24:32
+type: Verse
+kjv: "And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that were with him."
+bsb: "So the man came to the house, and the camels were unloaded. Straw and feed were brought to the camels, and water to wash his feet and the feet of his companions."
+hebrew: "וַיָּבֹ֤א הָאִישׁ֙ הַבַּ֔יְתָה וַיְפַתַּ֖ח הַגְּמַלִּ֑ים וַיִּתֵּ֨ן תֶּ֤בֶן וּמִסְפּוֹא֙ לַגְּמַלִּ֔ים וּמַ֙יִם֙ לִרְחֹ֣ץ רַגְלָ֔יו וְרַגְלֵ֥י הָאֲנָשִׁ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic STRAW|STRAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H6605A]]"
+- "[[H1581]]"
+- "[[H5414G]]"
+- "[[H8401]]"
+- "[[H9002]]"
+- "[[H4554]]"
+- "[[H9005]]"
+- "[[H4325G]]"
+- "[[H7364]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:32**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that [were] with him.
 <small><sub>**BSB:**</sub></small>
 So the man came to the house, and the camels were unloaded. Straw and feed were brought to the camels, and water to wash his feet and the feet of his companions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9009\|הַ]][[H1004B\|בַּ֔יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H6605A\|יְפַתַּ֖ח]] [[H9009\|הַ]][[H1581\|גְּמַלִּ֑ים]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H8401\|תֶּ֤בֶן]] [[H9002\|וּ]][[H4554\|מִסְפּוֹא֙]] [[H9005\|לַ]][[H1581\|גְּמַלִּ֔ים]] [[H9002\|וּ]][[H4325G\|מַ֙יִם֙]] [[H9005\|לִ]][[H7364\|רְחֹ֣ץ]] [[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H7272\|רַגְלֵ֥י]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LABAN|LABAN]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic STRAW|STRAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.31|<< Genesis 24:31]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.33|Genesis 24:33 >>]]</td></tr></table>
 

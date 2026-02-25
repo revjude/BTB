@@ -1,10 +1,60 @@
+---
+title: 1 John 4:2
+type: Verse
+kjv: "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:"
+bsb: "By this you will know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God,"
+greek: "ἐν τούτῳ γινώσκετε τὸ πνεῦμα τοῦ θεοῦ· πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν."
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G3670]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4561]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 John 4:2**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
 <small><sub>**BSB:**</sub></small>
 By this you will know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God,
-<small><sub>**Literal:**</sub></small>
-By this you know the Spirit <the> of God: Every spirit that confesses Jesus Christ in [the] flesh having come of <the> God is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.1|<< 1 John 4:1]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.3|1 John 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1097\|γινώσκετε]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G3956\|πᾶν]]  [[G4151G\|πνεῦμα]]  [[G3739\|ὃ]]  [[G3670\|ὁμολογεῖ]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G1722\|ἐν]]  [[G4561\|σαρκὶ]]  [[G2064\|ἐληλυθότα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.1|<< 1 John 4:1]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.3|1 John 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

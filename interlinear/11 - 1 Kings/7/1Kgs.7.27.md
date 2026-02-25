@@ -1,8 +1,68 @@
+---
+title: 1 Kings 7:27
+type: Verse
+kjv: "And he made ten bases of brass; four cubits was the length of one base, and four cubits the breadth thereof, and three cubits the height of it."
+bsb: "In addition, he made ten movable stands of bronze, each four cubits long, four cubits wide, and three cubits high."
+hebrew: "וַיַּ֧עַשׂ אֶת־ הַמְּכֹנ֛וֹת עֶ֖שֶׂר נְחֹ֑שֶׁת אַרְבַּ֣ע בָּאַמָּ֗ה אֹ֚רֶךְ הַמְּכוֹנָ֣ה הָֽאֶחָ֔ת וְאַרְבַּ֤ע בָּֽאַמָּה֙ רָחְבָּ֔הּ וְשָׁלֹ֥שׁ בָּאַמָּ֖ה קוֹמָתָֽהּ׃"
+pericope: "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4350]]"
+- "[[H6235]]"
+- "[[H5178A]]"
+- "[[H0702]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H9024]]"
+- "[[H7969]]"
+- "[[H6967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:27**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made ten bases of brass; four cubits [was] the length of one base, and four cubits the breadth thereof, and three cubits the height of it.
 <small><sub>**BSB:**</sub></small>
 In addition, he made ten movable stands of bronze, each four cubits long, four cubits wide, and three cubits high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֧עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4350\|מְּכֹנ֛וֹת]] [[H6235\|עֶ֖שֶׂר]] [[H5178A\|נְחֹ֑שֶׁת]] [[H0702\|אַרְבַּ֣ע]] [[H9003\|בָּ]][[H0520A\|אַמָּ֗ה]] [[H0753\|אֹ֚רֶךְ]] [[H9009\|הַ]][[H4350\|מְּכוֹנָ֣ה]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ת]] [[H9002\|וְ]][[H0702\|אַרְבַּ֤ע]] [[H9003\|בָּֽ]][[H0520A\|אַמָּה֙]] [[H7341\|רָחְבָּ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H7969\|שָׁלֹ֥שׁ]] [[H9003\|בָּ]][[H0520A\|אַמָּ֖ה]] [[H6967\|קוֹמָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.26|<< 1 Kings 7:26]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.28|1 Kings 7:28 >>]]</td></tr></table>
 

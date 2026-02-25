@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Smyrna
+type: Pericope
 pericope: "[[Rev.2.8 To the Church in Smyrna|To the Church in Smyrna]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 2
 book/chapter: "[[Rev.2|Revelation 2]]"
-genre:
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.2.8]]"
 - "[[Rev.2.9]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.2.11]]"
 ---
 
-[[Rev.2|Revelation 2:8 - Revelation 2:11]]
+<small>[[Rev.2|Revelation 2:8-11]]</small>
 *To the Church in Smyrna*
 
 [[Rev.2.8|8]] And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;

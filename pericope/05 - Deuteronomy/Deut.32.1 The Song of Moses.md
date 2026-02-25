@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song of Moses
+type: Pericope
 pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
-verse_count: 47
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 32
 book/chapter: "[[Deut.32|Deuteronomy 32]]"
-genre:
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 47
 verses:
 - "[[Deut.32.1]]"
 - "[[Deut.32.2]]"
@@ -70,7 +77,7 @@ verses:
 - "[[Deut.32.47]]"
 ---
 
-[[Deut.32|Deuteronomy 32:1 - Deuteronomy 32:47]]
+<small>[[Deut.32|Deuteronomy 32:1-47]]</small>
 *The Song of Moses*
 
 [[Deut.32.1|1]] Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.

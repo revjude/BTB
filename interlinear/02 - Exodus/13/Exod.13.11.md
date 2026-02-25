@@ -1,8 +1,69 @@
+---
+title: Exodus 13:11
+type: Verse
+kjv: "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,"
+bsb: "And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers,"
+hebrew: "וְהָיָ֞ה כִּֽי־ יְבִֽאֲךָ֤ יְהוָה֙ אֶל־ אֶ֣רֶץ הַֽכְּנַעֲנִ֔י כַּאֲשֶׁ֛ר נִשְׁבַּ֥ע לְךָ֖ וְלַֽאֲבֹתֶ֑יךָ וּנְתָנָ֖הּ לָֽךְ׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:11**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,
 <small><sub>**BSB:**</sub></small>
 And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935P\|יְבִֽאֲ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H7650\|נִשְׁבַּ֥ע]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H9005\|לַֽ]][[H0001G\|אֲבֹתֶ֑י]][[H9021\|ךָ]] [[H9001\|וּ]][[H5414G\|נְתָנָ֖]][[H9034\|הּ]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.10|<< Exodus 13:10]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.12|Exodus 13:12 >>]]</td></tr></table>
 

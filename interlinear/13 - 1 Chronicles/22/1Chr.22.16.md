@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 22:16
+type: Verse
+kjv: "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee."
+bsb: "in gold and silver, bronze and iron—craftsmen beyond number. Now begin the work, and may the LORD be with you.”"
+hebrew: "לַזָּהָ֥ב לַכֶּ֛סֶף וְלַנְּחֹ֥שֶׁת וְלַבַּרְזֶ֖ל אֵ֣ין מִסְפָּ֑ר ק֣וּם וַעֲשֵׂ֔ה וִיהִ֥י יְהוָ֖ה עִמָּֽךְ׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9005]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H6965B]]"
+- "[[H6213A]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:16**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the gold, the silver, and the brass, and the iron, [there is] no number. Arise [therefore], and be doing, and the LORD be with thee.
 <small><sub>**BSB:**</sub></small>
 in gold and silver, bronze and iron—craftsmen beyond number. Now begin the work, and may the LORD be with you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H2091\|זָּהָ֥ב]] [[H9005\|לַ]][[H3701G\|כֶּ֛סֶף]] [[H9002\|וְ]][[H9005\|לַ]][[H5178A\|נְּחֹ֥שֶׁת]] [[H9002\|וְ]][[H9005\|לַ]][[H1270\|בַּרְזֶ֖ל]] [[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּ֑ר]] [[H6965B\|ק֣וּם]] [[H9002\|וַ]][[H6213A\|עֲשֵׂ֔ה]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.15|<< 1 Chronicles 22:15]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.17|1 Chronicles 22:17 >>]]</td></tr></table>
 

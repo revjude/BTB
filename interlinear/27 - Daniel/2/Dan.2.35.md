@@ -1,8 +1,87 @@
+---
+title: Daniel 2:35
+type: Verse
+kjv: "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth."
+bsb: "Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth."
+aramaic: "בֵּאדַ֣יִן דָּ֣קוּ כַחֲדָ֡ה פַּרְזְלָא֩ חַסְפָּ֨א נְחָשָׁ֜א כַּסְפָּ֣א וְדַהֲבָ֗א וַהֲווֹ֙ כְּע֣וּר מִן־ אִדְּרֵי־ קַ֔יִט וּנְשָׂ֤א הִמּוֹן֙ רוּחָ֔א וְכָל־ אֲתַ֖ר לָא־ הִשְׁתֲּכַ֣ח לְה֑וֹן וְאַבְנָ֣א׀ דִּֽי־ מְחָ֣ת לְצַלְמָ֗א הֲוָ֛ת לְט֥וּר רַ֖ב וּמְלָ֥ת כָּל־ אַרְעָֽא׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SUMMER|SUMMER]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H1855]]"
+- "[[H9004]]"
+- "[[H2298]]"
+- "[[H6523]]"
+- "[[H9010]]"
+- "[[H2635]]"
+- "[[H5174]]"
+- "[[H3702]]"
+- "[[H9002]]"
+- "[[H1722]]"
+- "[[H1934]]"
+- "[[H5784]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H0147]]"
+- "[[H7007]]"
+- "[[H5376]]"
+- "[[H1994]]"
+- "[[H7308]]"
+- "[[H3606]]"
+- "[[H0870]]"
+- "[[H3809]]"
+- "[[H7912]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0069]]"
+- "[[H9015]]"
+- "[[H1768]]"
+- "[[H4223]]"
+- "[[H6755]]"
+- "[[H2906]]"
+- "[[H7229]]"
+- "[[H4391]]"
+- "[[H0772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:35**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
 <small><sub>**BSB:**</sub></small>
 Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֣יִן]] [[H1855\|דָּ֣קוּ]] [[H9004\|כַ]][[H2298\|חֲדָ֡ה]] [[H6523\|פַּרְזְלָ]][[H9010\|א֩]] [[H2635\|חַסְפָּ֨]][[H9010\|א]] [[H5174\|נְחָשָׁ֜]][[H9010\|א]] [[H3702\|כַּסְפָּ֣]][[H9010\|א]] [[H9002\|וְ]][[H1722\|דַהֲבָ֗]][[H9010\|א]] [[H9002\|וַ]][[H1934\|הֲווֹ֙]] [[H9004\|כְּ]][[H5784\|ע֣וּר]] [[H4481\|מִן]][[H9014\|־]] [[H0147\|אִדְּרֵי]][[H9014\|־]] [[H7007\|קַ֔יִט]] [[H9002\|וּ]][[H5376\|נְשָׂ֤א]] [[H1994\|הִמּוֹן֙]] [[H7308\|רוּחָ֔]][[H9010\|א]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H0870\|אֲתַ֖ר]] [[H3809\|לָא]][[H9014\|־]] [[H7912\|הִשְׁתֲּכַ֣ח]] [[H9005\|לְ]][[H9038\|ה֑וֹן]] [[H9002\|וְ]][[H0069\|אַבְנָ֣]][[H9010\|א]][[H9015\|׀]] [[H1768\|דִּֽי]][[H9014\|־]] [[H4223\|מְחָ֣ת]] [[H9005\|לְ]][[H6755\|צַלְמָ֗]][[H9010\|א]] [[H1934\|הֲוָ֛ת]] [[H9005\|לְ]][[H2906\|ט֥וּר]] [[H7229\|רַ֖ב]] [[H9002\|וּ]][[H4391\|מְלָ֥ת]] [[H3606\|כָּל]][[H9014\|־]] [[H0772I\|אַרְעָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHAFF|CHAFF]] • [[topic CHURCH|CHURCH]] • [[topic CLAY|CLAY]] • [[topic GENTILES|GENTILES]] • [[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSIA|PERSIA]] • [[topic SILVER|SILVER]] • [[topic SUMMER|SUMMER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.34|<< Daniel 2:34]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.36|Daniel 2:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

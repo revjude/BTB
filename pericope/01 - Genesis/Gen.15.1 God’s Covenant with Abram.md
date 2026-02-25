@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Covenant with Abram
+type: Pericope
 pericope: "[[Gen.15.1 God’s Covenant with Abram|God’s Covenant with Abram]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 15
 book/chapter: "[[Gen.15|Genesis 15]]"
-genre:
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.15.1]]"
 - "[[Gen.15.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.15.7]]"
 ---
 
-[[Gen.15|Genesis 15:1 - Genesis 15:7]]
+<small>[[Gen.15|Genesis 15:1-7]]</small>
 *God’s Covenant with Abram*
 
 [[Gen.15.1|1]] After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I \[am\] thy shield, \[and\] thy exceeding great reward.

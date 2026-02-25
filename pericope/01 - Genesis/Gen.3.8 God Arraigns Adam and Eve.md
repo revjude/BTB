@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Arraigns Adam and Eve
+type: Pericope
 pericope: "[[Gen.3.8 God Arraigns Adam and Eve|God Arraigns Adam and Eve]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 3
 book/chapter: "[[Gen.3|Genesis 3]]"
-genre:
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.3.8]]"
 - "[[Gen.3.9]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.3.13]]"
 ---
 
-[[Gen.3|Genesis 3:8 - Genesis 3:13]]
+<small>[[Gen.3|Genesis 3:8-13]]</small>
 *God Arraigns Adam and Eve*
 
 [[Gen.3.8|8]] And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.

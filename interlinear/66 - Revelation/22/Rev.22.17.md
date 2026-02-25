@@ -1,10 +1,68 @@
+---
+title: Revelation 22:17
+type: Verse
+kjv: "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely."
+bsb: "The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely."
+greek: "καὶ τὸ πνεῦμα καὶ ἡ νύμφη λέγουσιν· ἔρχου. καὶ ὁ ἀκούων εἰπάτω· ἔρχου. καὶ ὁ διψῶν ἐρχέσθω, καὶ ὁ θέλων λαβέτω τὸ ὕδωρ ζωῆς δωρεάν.¶"
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WATER|WATER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3565]]"
+- "[[G3004G]]"
+- "[[G2064]]"
+- "[[G0191]]"
+- "[[G2036]]"
+- "[[G1372]]"
+- "[[G2309]]"
+- "[[G2983]]"
+- "[[G5204]]"
+- "[[G2222]]"
+- "[[G1432]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 22:17**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
 <small><sub>**BSB:**</sub></small>
 The Spirit and the bride say, “Come!” Let the one who hears say, “Come!” And let the one who is thirsty come, and the one who desires the water of life drink freely.
-<small><sub>**Literal:**</sub></small>
-And the Spirit and the bride say; Come! And the [one] hearing he should say; Come! And the [one] thirsting he should come, and the [one] desiring he should take the water of life freely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.16|<< Revelation 22:16]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.18|Revelation 22:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3565\|νύμφη]]  [[G3004G\|λέγουσιν·]]  [[G2064\|ἔρχου.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0191\|ἀκούων]]  [[G2036\|εἰπάτω·]]  [[G2064\|ἔρχου.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1372\|διψῶν]]  [[G2064\|ἐρχέσθω,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2309\|θέλων]]  [[G2983\|λαβέτω]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G2222\|ζωῆς]]  [[G1432\|δωρεάν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic THIRST|THIRST]] • [[topic TYPES|TYPES]] • [[topic WATER|WATER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.16|<< Revelation 22:16]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.18|Revelation 22:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:17** is...
 > $\quad$ alluding to: [[LXX.Isa.55.1|Isa 55:1]]

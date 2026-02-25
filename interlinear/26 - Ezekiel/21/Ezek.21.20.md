@@ -1,8 +1,60 @@
+---
+title: Ezekiel 21:20
+type: Verse
+kjv: "Appoint a way, that the sword may come to Rabbath of the Ammonites, and to Judah in Jerusalem the defenced."
+bsb: "Mark out one road for the sword to come against Rabbah of the Ammonites, and another against Judah into fortified Jerusalem."
+hebrew: "דֶּ֣רֶךְ תָּשִׂ֔ים לָב֣וֹא חֶ֔רֶב אֵ֖ת רַבַּ֣ת בְּנֵֽי־ עַמּ֑וֹן וְאֶת־ יְהוּדָ֥ה בִירוּשָׁלִַ֖ם בְּצוּרָֽה׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H1870K]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H2719]]"
+- "[[H0853]]"
+- "[[H7237]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H1219]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:20**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Appoint a way, that the sword may come to Rabbath of the Ammonites, and to Judah in Jerusalem the defenced.
 <small><sub>**BSB:**</sub></small>
 Mark out one road for the sword to come against Rabbah of the Ammonites, and another against Judah into fortified Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870K\|דֶּ֣רֶךְ]] [[H7760A\|תָּשִׂ֔ים]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H2719\|חֶ֔רֶב]] [[H0853\|אֵ֖ת]] [[H7237\|רַבַּ֣ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֑וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֥ה]] [[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H1219\|בְּצוּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.19|<< Ezekiel 21:19]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.21|Ezekiel 21:21 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 135:4
+type: Verse
+kjv: "For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure."
+bsb: "For the LORD has chosen Jacob as His own, Israel as His treasured possession."
+hebrew: "כִּֽי־ יַעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0977]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3050]]"
+- "[[H3478]]"
+- "[[H5459]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:4**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath chosen Jacob unto himself, [and] Israel for his peculiar treasure.
 <small><sub>**BSB:**</sub></small>
 For the LORD has chosen Jacob as His own, Israel as His treasured possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H0977\|בָּחַ֣ר]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3050\|יָ֑הּ]] [[H3478\|יִ֝שְׂרָאֵ֗ל]] [[H9005\|לִ]][[H5459\|סְגֻלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.3|<< Psalms 135:3]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.5|Psalms 135:5 >>]]</td></tr></table>
 

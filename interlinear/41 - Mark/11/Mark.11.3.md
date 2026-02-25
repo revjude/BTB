@@ -1,10 +1,63 @@
+---
+title: Mark 11:3
+type: Verse
+kjv: "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither."
+bsb: "If anyone asks, ‘Why are you doing this?’ tell him, ‘The Lord needs it and will return it shortly.’”"
+jesus_said: "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither."
+greek: "καὶ ἐάν τις ὑμῖν εἴπῃ· τί ποιεῖτε τοῦτο; εἴπατε ὅτι ὁ κύριος αὐτοῦ χρείαν ἔχει, καὶ εὐθὺς αὐτὸν ἀποστέλλει πάλιν ὧδε."
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G0846]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G2112]]"
+- "[[G0649]]"
+- "[[G3825]]"
+- "[[G5602]]"
+texts:
+- NKO
+- ko
+- N(k)O
+- no
+---
+
 **Mark 11:3**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.
 <small><sub>**BSB:**</sub></small>
 If anyone asks, ‘Why are you doing this?’ tell him, ‘The Lord needs it and will return it shortly.’”
-<small><sub>**Literal:**</sub></small>
-And if anyone to you may say; Why are you doing this?’ do say that the Lord of it need has, and soon it He sends back here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.2|<< Mark 11:2]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.4|Mark 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G4771\|ὑμῖν]]  [[G2036\|εἴπῃ·]]  [[G5101\|τί]]  [[G4160G\|ποιεῖτε]]  [[G3778\|τοῦτο;]]  [[G2036\|εἴπατε]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχει,]]  [[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G0846\|αὐτὸν]]  [[G0649\|ἀποστέλλει]]  [[G3825\|πάλιν]]  [[G5602\|ὧδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.2|<< Mark 11:2]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.4|Mark 11:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

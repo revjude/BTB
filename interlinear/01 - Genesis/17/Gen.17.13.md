@@ -1,8 +1,67 @@
+---
+title: Genesis 17:13
+type: Verse
+kjv: "He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant."
+bsb: "Whether they are born in your household or purchased, they must be circumcised. My covenant in your flesh will be an everlasting covenant."
+hebrew: "הִמּ֧וֹל׀ יִמּ֛וֹל יְלִ֥יד בֵּֽיתְךָ֖ וּמִקְנַ֣ת כַּסְפֶּ֑ךָ וְהָיְתָ֧ה בְרִיתִ֛י בִּבְשַׂרְכֶ֖ם לִבְרִ֥ית עוֹלָֽם׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H4135A]]"
+- "[[H9015]]"
+- "[[H3211]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4736]]"
+- "[[H3701G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1320]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:13**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.
 <small><sub>**BSB:**</sub></small>
 Whether they are born in your household or purchased, they must be circumcised. My covenant in your flesh will be an everlasting covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H4135A\|הִמּ֧וֹל]][[H9015\|׀]] [[H4135A\|יִמּ֛וֹל]] [[H3211\|יְלִ֥יד]] [[H1004M\|בֵּֽיתְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H4736\|מִקְנַ֣ת]] [[H3701G\|כַּסְפֶּ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיְתָ֧ה]] [[H1285\|בְרִיתִ֛]][[H9020\|י]] [[H9003\|בִּ]][[H1320\|בְשַׂרְ]][[H9026\|כֶ֖ם]] [[H9005\|לִ]][[H1285\|בְרִ֥ית]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic FAMILY|FAMILY]] • [[topic MONEY|MONEY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.12|<< Genesis 17:12]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.14|Genesis 17:14 >>]]</td></tr></table>
 

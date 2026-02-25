@@ -1,8 +1,58 @@
+---
+title: Jeremiah 18:2
+type: Verse
+kjv: "Arise, and go down to the potter’s house, and there I will cause thee to hear my words."
+bsb: "“Go down at once to the potter’s house, and there I will give you My message.”"
+hebrew: "ק֥וּם וְיָרַדְתָּ֖ בֵּ֣ית הַיּוֹצֵ֑ר וְשָׁ֖מָּה אַשְׁמִֽיעֲךָ֥ אֶת־ דְּבָרָֽי׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H3335H]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:2**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, and go down to the potter’s house, and there I will cause thee to hear my words.
 <small><sub>**BSB:**</sub></small>
 “Go down at once to the potter’s house, and there I will give you My message.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֥וּם]] [[H9001\|וְ]][[H3381\|יָרַדְתָּ֖]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H3335H\|יּוֹצֵ֑ר]] [[H9002\|וְ]][[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H8085G\|אַשְׁמִֽיעֲ]][[H9031\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.1|<< Jeremiah 18:1]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.3|Jeremiah 18:3 >>]]</td></tr></table>
 

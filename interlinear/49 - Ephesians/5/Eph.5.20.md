@@ -1,10 +1,57 @@
+---
+title: Ephesians 5:20
+type: Verse
+kjv: "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;"
+bsb: "always giving thanks to God the Father for everything in the name of our Lord Jesus Christ."
+greek: "εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ θεῷ καὶ πατρί·"
+pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2168]]"
+- "[[G3842]]"
+- "[[G5228]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **Ephesians 5:20**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
 <small><sub>**BSB:**</sub></small>
 always giving thanks to God the Father for everything in the name of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-giving thanks at all times for all things in [the] name the Lord of us Jesus Christ to the God and Father;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.19|<< Ephesians 5:19]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.21|Ephesians 5:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|εὐχαριστοῦντες]]  [[G3842\|πάντοτε]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντων]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3962\|πατρί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.19|<< Ephesians 5:19]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.21|Ephesians 5:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

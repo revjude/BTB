@@ -1,8 +1,66 @@
+---
+title: Ezra 6:21
+type: Verse
+kjv: "And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,"
+bsb: "The Israelites who had returned from exile ate it, together with all who had separated themselves from the uncleanness of the peoples of the land to seek the LORD, the God of Israel."
+hebrew: "וַיֹּאכְל֣וּ בְנֵֽי־ יִשְׂרָאֵ֗ל הַשָּׁבִים֙ מֵֽהַגּוֹלָ֔ה וְכֹ֗ל הַנִּבְדָּ֛ל מִטֻּמְאַ֥ת גּוֹיֵֽ־ הָאָ֖רֶץ אֲלֵהֶ֑ם לִדְרֹ֕שׁ לַֽיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezra.6.19 The Returned Exiles Keep the Passover|The Returned Exiles Keep the Passover]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H1473]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0914]]"
+- "[[H2932]]"
+- "[[H1471A]]"
+- "[[H0776G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:21**<big><big>[[Ezra.6.19 The Returned Exiles Keep the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,
 <small><sub>**BSB:**</sub></small>
 The Israelites who had returned from exile ate it, together with all who had separated themselves from the uncleanness of the peoples of the land to seek the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|יֹּאכְל֣וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9009\|הַ]][[H7725G\|שָּׁבִים֙]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H1473\|גּוֹלָ֔ה]] [[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H9009\|הַ]][[H0914\|נִּבְדָּ֛ל]] [[H9006\|מִ]][[H2932\|טֻּמְאַ֥ת]] [[H1471A\|גּוֹיֵֽ]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H9005\|לִ]][[H1875\|דְרֹ֕שׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.20|<< Ezra 6:20]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.22|Ezra 6:22 >>]]</td></tr></table>
 

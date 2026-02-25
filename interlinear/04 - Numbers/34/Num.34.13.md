@@ -1,8 +1,68 @@
+---
+title: Numbers 34:13
+type: Verse
+kjv: "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:"
+bsb: "So Moses commanded the Israelites, “Apportion this land by lot as an inheritance. The LORD has commanded that it be given to the nine and a half tribes."
+hebrew: "וַיְצַ֣ו מֹשֶׁ֔ה אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֣את הָאָ֗רֶץ אֲשֶׁ֨ר תִּתְנַחֲל֤וּ אֹתָהּ֙ בְּגוֹרָ֔ל אֲשֶׁר֙ צִוָּ֣ה יְהוָ֔ה לָתֵ֛ת לְתִשְׁעַ֥ת הַמַּטּ֖וֹת וַחֲצִ֥י הַמַּטֶּֽה׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5157]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H8672]]"
+- "[[H4294H]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:13**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses commanded the children of Israel, saying, This [is] the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:
 <small><sub>**BSB:**</sub></small>
 So Moses commanded the Israelites, “Apportion this land by lot as an inheritance. The LORD has commanded that it be given to the nine and a half tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2063\|זֹ֣את]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H5157\|תִּתְנַחֲל֤וּ]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H9003\|בְּ]][[H1486\|גוֹרָ֔ל]] [[H0834A\|אֲשֶׁר֙]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לָ]][[H5414G\|תֵ֛ת]] [[H9005\|לְ]][[H8672\|תִשְׁעַ֥ת]] [[H9009\|הַ]][[H4294H\|מַּטּ֖וֹת]] [[H9002\|וַ]][[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4294H\|מַּטֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.12|<< Numbers 34:12]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.14|Numbers 34:14 >>]]</td></tr></table>
 

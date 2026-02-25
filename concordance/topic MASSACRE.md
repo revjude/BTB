@@ -13,19 +13,19 @@
 
 - Of Bashan [[Deut.3.6|De 3:6]]
 
-- Of Ai [[Josh.8.24|Jos 8:24]]-[[Josh.8.26|26]]
+- Of Ai [[Josh.8.24|Jos 8:24-26]]
 
 - Of Hazor [[Josh.11.11|Jos 11:11]],[[Josh.11.12|12]]
 
-- Of the cities of the seven kings [[Josh.10.28|Jos 10:28]]-[[Josh.10.40|40]]
+- Of the cities of the seven kings [[Josh.10.28|Jos 10:28-40]]
 
 - Midianites [[Num.31.7|Nu 31:7]],[[Num.31.8|8]]
 
 - Prophets of Baal [[1Kgs.18.40|1Ki 18:40]]
 
-- Worshipers of Baal [[2Kgs.10.18|2Ki 10:18]]-[[2Kgs.10.28|28]]
+- Worshipers of Baal [[2Kgs.10.18|2Ki 10:18-28]]
 
-- Sons of Ahab [[2Kgs.10.1|2Ki 10:1]]-[[2Kgs.10.8|8]]
+- Sons of Ahab [[2Kgs.10.1|2Ki 10:1-8]]
 
 - Royal seed of Athaliah [[2Kgs.11.1|2Ki 11:1]]
 

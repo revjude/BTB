@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 19:10
+type: Verse
+kjv: "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee."
+bsb: "Thus innocent blood will not be shed in the land that the LORD your God is giving you as an inheritance, so that you will not be guilty of bloodshed."
+hebrew: "וְלֹ֤א יִשָּׁפֵךְ֙ דָּ֣ם נָקִ֔י בְּקֶ֣רֶב אַרְצְךָ֔ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה וְהָיָ֥ה עָלֶ֖יךָ דָּמִֽים׃ ס"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5159]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:10**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That innocent blood be not shed in thy land, which the LORD thy God giveth thee [for] an inheritance, and [so] blood be upon thee.
 <small><sub>**BSB:**</sub></small>
 Thus innocent blood will not be shed in the land that the LORD your God is giving you as an inheritance, so that you will not be guilty of bloodshed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8210H\|יִשָּׁפֵךְ֙]] [[H1818\|דָּ֣ם]] [[H5355A\|נָקִ֔י]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5159\|נַחֲלָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H1818\|דָּמִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.9|<< Deuteronomy 19:9]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.11|Deuteronomy 19:11 >>]]</td></tr></table>
 
@@ -22,7 +82,7 @@ Thus innocent blood will not be shed in the land that the LORD your God is givin
 | an inheritance  |**<big>&#8207;[[H5159\|נַחֲלָ֑ה]]&#8207; </big>**| na.cha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֖י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| blood\<s>  |**<big>&#8207;[[H1818\|דָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| blood\<s>  |**<big>&#8207;[[H1818\|דָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.9|<< Deuteronomy 19:9]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.11|Deuteronomy 19:11 >>]]</td></tr></table>
 
 

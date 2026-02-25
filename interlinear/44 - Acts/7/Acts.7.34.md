@@ -1,10 +1,66 @@
+---
+title: Acts 7:34
+type: Verse
+kjv: "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt."
+bsb: "I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’"
+greek: "ἰδὼν εἶδον τὴν κάκωσιν τοῦ λαοῦ μου τοῦ ἐν Αἰγύπτῳ καὶ τοῦ στεναγμοῦ αὐτῶν ἤκουσα· καὶ κατέβην ἐξελέσθαι αὐτούς· καὶ νῦν δεῦρο ἀποστείλω σε εἰς Αἴγυπτον.¶"
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2561]]"
+- "[[G2992]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G4726]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G2597]]"
+- "[[G1807]]"
+- "[[G3568]]"
+- "[[G1204]]"
+- "[[G0649]]"
+- "[[G4771]]"
+- "[[G1519]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 7:34**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.
 <small><sub>**BSB:**</sub></small>
 I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’
-<small><sub>**Literal:**</sub></small>
-Having seen I saw the oppression of the people of Mine <the> in Egypt and the groans of them I have heard; and I have come down to deliver them; and now come I may send you to Egypt.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.33|<< Acts 7:33]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.35|Acts 7:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδὼν]]  [[G1492H\|εἶδον]]  [[G3588\|τὴν]]  [[G2561\|κάκωσιν]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3165\|μου]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G0125\|Αἰγύπτῳ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G4726\|στεναγμοῦ]]  [[G0846\|αὐτῶν]]  [[G0191\|ἤκουσα·]]  [[G2532\|καὶ]]  [[G2597\|κατέβην]]  [[G1807\|ἐξελέσθαι]]  [[G0846\|αὐτούς·]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1204\|δεῦρο]]  [[G0649\|ἀποστείλω]]  [[G4771\|σε]]  [[G1519\|εἰς]]  [[G0125\|Αἴγυπτον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.33|<< Acts 7:33]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.35|Acts 7:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:34** is...
 > $\quad$ referencing: [[LXX.Exod.2.24|Exod 2:24]]

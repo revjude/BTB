@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lying Prophets
+type: Pericope
 pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 23
 book/chapter: "[[Jer.23|Jeremiah 23]]"
-genre:
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 24
 verses:
 - "[[Jer.23.9]]"
 - "[[Jer.23.10]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Jer.23.32]]"
 ---
 
-[[Jer.23|Jeremiah 23:9 - Jeremiah 23:32]]
+<small>[[Jer.23|Jeremiah 23:9-32]]</small>
 *Lying Prophets*
 
 [[Jer.23.9|9]] Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the LORD, and because of the words of his holiness.

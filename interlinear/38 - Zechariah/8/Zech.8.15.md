@@ -1,8 +1,61 @@
+---
+title: Zechariah 8:15
+type: Verse
+kjv: "So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not."
+bsb: "“so now I have resolved to do good again to Jerusalem and Judah. Do not be afraid."
+hebrew: "כֵּ֣ן שַׁ֤בְתִּי זָמַ֙מְתִּי֙ בַּיָּמִ֣ים הָאֵ֔לֶּה לְהֵיטִ֥יב אֶת־ יְרוּשָׁלִַ֖ם וְאֶת־ בֵּ֣ית יְהוּדָ֑ה אַל־ תִּירָֽאוּ׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3651C]]"
+- "[[H7725J]]"
+- "[[H2161]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H3190]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:15**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.
 <small><sub>**BSB:**</sub></small>
 “so now I have resolved to do good again to Jerusalem and Judah. Do not be afraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֣ן]] [[H7725J\|שַׁ֤בְתִּי]] [[H2161\|זָמַ֙מְתִּי֙]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9005\|לְ]][[H3190\|הֵיטִ֥יב]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3063G\|יְהוּדָ֑ה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.14|<< Zechariah 8:14]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.16|Zechariah 8:16 >>]]</td></tr></table>
 

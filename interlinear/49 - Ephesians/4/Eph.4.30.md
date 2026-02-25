@@ -1,10 +1,58 @@
+---
+title: Ephesians 4:30
+type: Verse
+kjv: "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+bsb: "And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption."
+greek: "καὶ μὴ λυπεῖτε τὸ πνεῦμα τὸ ἅγιον τοῦ θεοῦ ἐν ᾧ ἐσφραγίσθητε εἰς ἡμέραν ἀπολυτρώσεως.¶"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GRIEF|GRIEF]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3076]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4972]]"
+- "[[G1519]]"
+- "[[G2250]]"
+- "[[G0629]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:30**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 <small><sub>**BSB:**</sub></small>
 And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.
-<small><sub>**Literal:**</sub></small>
-And not do grieve the Spirit <the> Holy <the> of God in whom you were sealed for [the] day of redemption.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.29|<< Ephesians 4:29]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.31|Ephesians 4:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3076\|λυπεῖτε]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G4972\|ἐσφραγίσθητε]]  [[G1519\|εἰς]]  [[G2250\|ἡμέραν]]  [[G0629\|ἀπολυτρώσεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GRIEF|GRIEF]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEAL|SEAL]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.29|<< Ephesians 4:29]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.31|Ephesians 4:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

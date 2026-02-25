@@ -1,8 +1,68 @@
+---
+title: Genesis 45:27
+type: Verse
+kjv: "And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:"
+bsb: "However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived."
+hebrew: "וַיְדַבְּר֣וּ אֵלָ֗יו אֵ֣ת כָּל־ דִּבְרֵ֤י יוֹסֵף֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֲלֵהֶ֔ם וַיַּרְא֙ אֶת־ הָ֣עֲגָל֔וֹת אֲשֶׁר־ שָׁלַ֥ח יוֹסֵ֖ף לָשֵׂ֣את אֹת֑וֹ וַתְּחִ֕י ר֖וּחַ יַעֲקֹ֥ב אֲבִיהֶֽם׃"
+pericope: "[[Gen.45.25 The Revival of Jacob|The Revival of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WAGON|WAGON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3130G]]"
+- "[[H0834A]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H5699]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H5375H]]"
+- "[[H2421]]"
+- "[[H7307G]]"
+- "[[H3290]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:27**<big><big>[[Gen.45.25 The Revival of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
 <small><sub>**BSB:**</sub></small>
 However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבְּר֣וּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֤י]] [[H3130G\|יוֹסֵף֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H5699\|עֲגָל֔וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֥ח]] [[H3130G\|יוֹסֵ֖ף]] [[H9005\|לָ]][[H5375H\|שֵׂ֣את]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H2421\|תְּחִ֕י]] [[H7307G\|ר֖וּחַ]] [[H3290\|יַעֲקֹ֥ב]] [[H0001G\|אֲבִי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic WAGON|WAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.26|<< Genesis 45:26]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.28|Genesis 45:28 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Deaf and Mute Man
+type: Pericope
 pericope: "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 7
 book/chapter: "[[Mark.7|Mark 7]]"
-genre:
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.7.31]]"
 - "[[Mark.7.32]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.7.37]]"
 ---
 
-[[Mark.7|Mark 7:31 - Mark 7:37]]
+<small>[[Mark.7|Mark 7:31-37]]</small>
 *The Deaf and Mute Man*
 
 [[Mark.7.31|31]] And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.

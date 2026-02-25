@@ -1,8 +1,72 @@
+---
+title: 2 Kings 17:27
+type: Verse
+kjv: "Then the king of Assyria commanded, saying, Carry thither one of the priests whom ye brought from thence; and let them go and dwell there, and let him teach them the manner of the God of the land."
+bsb: "Then the king of Assyria commanded: “Send back one of the priests you carried off from Samaria, and have him go back to live there and teach the requirements of the God of the land.”"
+hebrew: "וַיְצַ֨ו מֶֽלֶךְ־ אַשּׁ֜וּר לֵאמֹ֗ר הֹלִ֤יכוּ שָׁ֙מָּה֙ אֶחָ֤ד מֵהַכֹּֽהֲנִים֙ אֲשֶׁ֣ר הִגְלִיתֶ֣ם מִשָּׁ֔ם וְיֵלְכ֖וּ וְיֵ֣שְׁבוּ שָׁ֑ם וְיֹרֵ֕ם אֶת־ מִשְׁפַּ֖ט אֱלֹהֵ֥י הָאָֽרֶץ׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CUTH|CUTH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980O]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H3427]]"
+- "[[H3384B]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H4941I]]"
+- "[[H0430G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:27**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Assyria commanded, saying, Carry thither one of the priests whom ye brought from thence; and let them go and dwell there, and let him teach them the manner of the God of the land.
 <small><sub>**BSB:**</sub></small>
 Then the king of Assyria commanded: “Send back one of the priests you carried off from Samaria, and have him go back to live there and teach the requirements of the God of the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֨ו]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֜וּר]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H1980O\|הֹלִ֤יכוּ]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H0259\|אֶחָ֤ד]] [[H9006\|מֵ]][[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1540K\|הִגְלִיתֶ֣ם]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H9002\|וְ]][[H1980G\|יֵלְכ֖וּ]] [[H9002\|וְ]][[H3427\|יֵ֣שְׁבוּ]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H3384B\|יֹרֵ֕]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4941I\|מִשְׁפַּ֖ט]] [[H0430G\|אֱלֹהֵ֥י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BETH-EL|BETH-EL]] • [[topic CUTH|CUTH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.26|<< 2 Kings 17:26]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.28|2 Kings 17:28 >>]]</td></tr></table>
 

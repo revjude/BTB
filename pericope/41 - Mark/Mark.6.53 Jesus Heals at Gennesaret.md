@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals at Gennesaret
+type: Pericope
 pericope: "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.6.53]]"
 - "[[Mark.6.54]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.6.56]]"
 ---
 
-[[Mark.6|Mark 6:53 - Mark 6:56]]
+<small>[[Mark.6|Mark 6:53-56]]</small>
 *Jesus Heals at Gennesaret*
 
 [[Mark.6.53|53]] And when they had passed over, they came into the land of Gennesaret, and drew to the shore.

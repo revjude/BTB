@@ -1,8 +1,62 @@
+---
+title: Hosea 7:5
+type: Verse
+kjv: "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners."
+bsb: "The princes are inflamed with wine on the day of our king; so he joins hands with those who mock him."
+hebrew: "י֣וֹם מַלְכֵּ֔נוּ הֶחֱל֥וּ שָׂרִ֖ים חֲמַ֣ת מִיָּ֑יִן מָשַׁ֥ךְ יָד֖וֹ אֶת־ לֹצְצִֽים׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic KING|KING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H3117G]]"
+- "[[H4428G]]"
+- "[[H9025]]"
+- "[[H2470H]]"
+- "[[H8269]]"
+- "[[H2534]]"
+- "[[H9006]]"
+- "[[H3196]]"
+- "[[H4900]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3887]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:5**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day of our king the princes have made [him] sick with bottles of wine; he stretched out his hand with scorners.
 <small><sub>**BSB:**</sub></small>
 The princes are inflamed with wine on the day of our king; so he joins hands with those who mock him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|י֣וֹם]] [[H4428G\|מַלְכֵּ֔]][[H9025\|נוּ]] [[H2470H\|הֶחֱל֥וּ]] [[H8269\|שָׂרִ֖ים]] [[H2534\|חֲמַ֣ת]] [[H9006\|מִ]][[H3196\|יָּ֑יִן]] [[H4900\|מָשַׁ֥ךְ]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H3887\|לֹצְצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic KING|KING]] • [[topic SCOFFING|SCOFFING]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.4|<< Hosea 7:4]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.6|Hosea 7:6 >>]]</td></tr></table>
 

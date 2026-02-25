@@ -1,10 +1,63 @@
+---
+title: Acts 2:40
+type: Verse
+kjv: "And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation."
+bsb: "With many other words he testified, and he urged them, “Be saved from this corrupt generation.”"
+greek: "ἑτέροις τε λόγοις πλείοσιν διεμαρτύρατο καὶ παρεκάλει αὐτοὺς λέγων· σώθητε ἀπὸ τῆς γενεᾶς τῆς σκολιᾶς ταύτης."
+pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2087]]"
+- "[[G5037]]"
+- "[[G3056]]"
+- "[[G4119]]"
+- "[[G1263]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4982]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1074]]"
+- "[[G4646]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Acts 2:40**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.
 <small><sub>**BSB:**</sub></small>
 With many other words he testified, and he urged them, “Be saved from this corrupt generation.”
-<small><sub>**Literal:**</sub></small>
-in other And words many he earnestly testified and was exhorting them saying; do be saved from the generation <the> perverse this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.39|<< Acts 2:39]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.41|Acts 2:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2087\|ἑτέροις]]  [[G5037\|τε]]  [[G3056\|λόγοις]]  [[G4119\|πλείοσιν]]  [[G1263\|διεμαρτύρατο]]  [[G2532\|καὶ]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγων·]]  [[G4982\|σώθητε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3588\|τῆς]]  [[G4646\|σκολιᾶς]]  [[G3778\|ταύτης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.39|<< Acts 2:39]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.41|Acts 2:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: Luke 12:52
+type: Verse
+kjv: "For from henceforth there shall be five in one house divided, three against two, and two against three."
+bsb: "From now on, five in one household will be divided, three against two and two against three."
+jesus_said: "For from henceforth there shall be five in one house divided, three against two, and two against three."
+greek: "ἔσονται γὰρ ἀπὸ τοῦ νῦν πέντε ἐν ἑνὶ οἴκῳ διαμεμερισμένοι, τρεῖς ἐπὶ δυσὶν καὶ δύο ἐπὶ τρισὶν"
+pericope: "[[Luke.12.49 Not Peace but Division|Not Peace but Division]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G4002]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G3624H]]"
+- "[[G1266]]"
+- "[[G5140]]"
+- "[[G1909]]"
+- "[[G1417]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **Luke 12:52**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For from henceforth there shall be five in one house divided, three against two, and two against three.
 <small><sub>**BSB:**</sub></small>
 From now on, five in one household will be divided, three against two and two against three.
-<small><sub>**Literal:**</sub></small>
-There will be for from <the> now five in one house divided, three against two and two against three<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.51|<< Luke 12:51]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.53|Luke 12:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔσονται]]  [[G1063\|γὰρ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G4002\|πέντε]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G3624H\|οἴκῳ]]  [[G1266\|διαμεμερισμένοι,]]  [[G5140\|τρεῖς]]  [[G1909\|ἐπὶ]]  [[G1417\|δυσὶν]]  [[G2532\|καὶ]]  [[G1417\|δύο]]  [[G1909\|ἐπὶ]]  [[G5140\|τρισὶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.51|<< Luke 12:51]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.53|Luke 12:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,74 @@
+---
+title: Nehemiah 8:16
+type: Verse
+kjv: "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim."
+bsb: "And the people went out, brought back branches, and made booths on their own rooftops, in their courtyards, in the courts of the house of God, and in the squares by the Water Gate and by the Gate of Ephraim."
+hebrew: "וַיֵּצְא֣וּ הָעָם֮ וַיָּבִיאוּ֒ וַיַּעֲשׂוּ֩ לָהֶ֨ם סֻכּ֜וֹת אִ֤ישׁ עַל־ גַּגּוֹ֙ וּבְחַצְרֹ֣תֵיהֶ֔ם וּבְחַצְר֖וֹת בֵּ֣ית הָאֱלֹהִ֑ים וּבִרְחוֹב֙ שַׁ֣עַר הַמַּ֔יִם וּבִרְח֖וֹב שַׁ֥עַר אֶפְרָֽיִם׃"
+pericope: "[[Neh.8.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BOOTH|BOOTH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0935P]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5521]]"
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1406]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H9028]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H7339]]"
+- "[[H8179G]]"
+- "[[H4325H]]"
+- "[[H0669I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:16**<big><big>[[Neh.8.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people went forth, and brought [them], and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.
 <small><sub>**BSB:**</sub></small>
 And the people went out, brought back branches, and made booths on their own rooftops, in their courtyards, in the courts of the house of God, and in the squares by the Water Gate and by the Gate of Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֣וּ]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H9001\|וַ]][[H0935P\|יָּבִיאוּ֒]] [[H9001\|וַ]][[H6213H\|יַּעֲשׂוּ֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H5521\|סֻכּ֜וֹת]] [[H0376I\|אִ֤ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1406\|גַּגּ]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H2691A\|חַצְרֹ֣תֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2691A\|חַצְר֖וֹת]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וּ]][[H9003\|בִ]][[H7339\|רְחוֹב֙]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4325H\|מַּ֔יִם]] [[H9002\|וּ]][[H9003\|בִ]][[H7339\|רְח֖וֹב]] [[H8179G\|שַׁ֥עַר]] [[H0669I\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOTH|BOOTH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic FEASTS|FEASTS]] • [[topic HOUSE|HOUSE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.15|<< Nehemiah 8:15]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.17|Nehemiah 8:17 >>]]</td></tr></table>
 

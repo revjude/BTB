@@ -1,10 +1,63 @@
+---
+title: Matthew 21:12
+type: Verse
+kjv: "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,"
+bsb: "Then Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves."
+greek: "Καὶ εἰσῆλθεν ὁ Ἰησοῦς εἰς τὸ ἱερὸν τοῦ θεοῦ καὶ ἐξέβαλεν πάντας τοὺς πωλοῦντας καὶ ἀγοράζοντας ἐν τῷ ἱερῷ, καὶ τὰς τραπέζας τῶν κολλυβιστῶν κατέστρεψεν καὶ τὰς καθέδρας τῶν πωλούντων τὰς περιστεράς."
+pericope: "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY CHANGERS|MONEY CHANGERS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G2316]]"
+- "[[G1544]]"
+- "[[G3956]]"
+- "[[G4453]]"
+- "[[G0059]]"
+- "[[G1722]]"
+- "[[G5132]]"
+- "[[G2855]]"
+- "[[G2690]]"
+- "[[G2515]]"
+- "[[G4058]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 21:12**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,
 <small><sub>**BSB:**</sub></small>
 Then Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.
-<small><sub>**Literal:**</sub></small>
-And entered <the> Jesus into the temple <the> of God and cast out all those selling and buying in the temple, and the tables of the money changers He overturned and the seats of those selling the doves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.11|<< Matthew 21:11]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.13|Matthew 21:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1544\|ἐξέβαλεν]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G4453\|πωλοῦντας]]  [[G2532\|καὶ]]  [[G0059\|ἀγοράζοντας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ,]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5132\|τραπέζας]]  [[G3588\|τῶν]]  [[G2855\|κολλυβιστῶν]]  [[G2690\|κατέστρεψεν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G2515\|καθέδρας]]  [[G3588\|τῶν]]  [[G4453\|πωλούντων]]  [[G3588\|τὰς]]  [[G4058\|περιστεράς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY CHANGERS|MONEY CHANGERS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.11|<< Matthew 21:11]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.13|Matthew 21:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

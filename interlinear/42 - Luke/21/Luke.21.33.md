@@ -1,10 +1,57 @@
+---
+title: Luke 21:33
+type: Verse
+kjv: "Heaven and earth shall pass away: but my words shall not pass away."
+bsb: "Heaven and earth will pass away, but My words will never pass away."
+jesus_said: "Heaven and earth shall pass away: but my words shall not pass away."
+greek: "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται."
+pericope: "[[Luke.21.29 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G3928]]"
+- "[[G1161]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G3361]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Luke 21:33**<big><big>[[Luke.21.29 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Heaven and earth shall pass away: but my words shall not pass away.
 <small><sub>**BSB:**</sub></small>
 Heaven and earth will pass away, but My words will never pass away.
-<small><sub>**Literal:**</sub></small>
-The heaven and the earth will pass away, <the> but the words of Mine certainly not will pass away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.32|<< Luke 21:32]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.34|Luke 21:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3772\|οὐρανὸς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3928\|παρελεύσονται,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3056\|λόγοι]]  [[G3165\|μου]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3928\|παρελεύσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.32|<< Luke 21:32]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.34|Luke 21:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

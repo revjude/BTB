@@ -1,10 +1,60 @@
+---
+title: 2 Peter 3:5
+type: Verse
+kjv: "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:"
+bsb: "But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,"
+greek: "λανθάνει γὰρ αὐτοὺς τοῦτο θέλοντας ὅτι οὐρανοὶ ἦσαν ἔκπαλαι καὶ γῆ ἐξ ὕδατος καὶ δι᾽ ὕδατος συνεστῶσα τῷ τοῦ θεοῦ λόγῳ,"
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[G2990]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G2309]]"
+- "[[G3754G]]"
+- "[[G3772]]"
+- "[[G1510]]"
+- "[[G1597]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G1537]]"
+- "[[G5204]]"
+- "[[G1223]]"
+- "[[G4921]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:5**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
 <small><sub>**BSB:**</sub></small>
 But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,
-<small><sub>**Literal:**</sub></small>
-It is concealed from indeed them this willingly that heavens were existing long ago and [the] earth out of water and through water having been composed by the <the> of God word,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.4|<< 2 Peter 3:4]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.6|2 Peter 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2990\|λανθάνει]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοὺς]]  [[G3778\|τοῦτο]]  [[G2309\|θέλοντας]]  [[G3754G\|ὅτι]]  [[G3772\|οὐρανοὶ]]  [[G1510\|ἦσαν]]  [[G1597\|ἔκπαλαι]]  [[G2532\|καὶ]]  [[G1093G\|γῆ]]  [[G1537\|ἐξ]]  [[G5204\|ὕδατος]]  [[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G5204\|ὕδατος]]  [[G4921\|συνεστῶσα]]  [[G3588\|τῷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3056\|λόγῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GEOLOGY|GEOLOGY]] • [[topic INFIDELITY|INFIDELITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.4|<< 2 Peter 3:4]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.6|2 Peter 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 3:5** is...
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]

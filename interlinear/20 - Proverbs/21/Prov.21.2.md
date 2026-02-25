@@ -1,8 +1,55 @@
+---
+title: Proverbs 21:2
+type: Verse
+kjv: "Every way of a man is right in his own eyes: but the LORD pondereth the hearts."
+bsb: "All a man’s ways seem right to him, but the LORD weighs the heart."
+hebrew: "כָּֽל־ דֶּרֶךְ־ אִ֭ישׁ יָשָׁ֣ר בְּעֵינָ֑יו וְתֹכֵ֖ן לִבּ֣וֹת יְהוָֽה׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H0376G]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8505]]"
+- "[[H3826]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:2**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every way of a man [is] right in his own eyes: but the LORD pondereth the hearts.
 <small><sub>**BSB:**</sub></small>
 All a man’s ways seem right to him, but the LORD weighs the heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּֽל]][[H9014\|־]] [[H1870G\|דֶּרֶךְ]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H3477G\|יָשָׁ֣ר]] [[H9003\|בְּ]][[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H8505\|תֹכֵ֖ן]] [[H3826\|לִבּ֣וֹת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.1|<< Proverbs 21:1]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.3|Proverbs 21:3 >>]]</td></tr></table>
 

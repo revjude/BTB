@@ -1,8 +1,64 @@
+---
+title: Exodus 5:4
+type: Verse
+kjv: "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+bsb: "But the king of Egypt said to them, “Moses and Aaron, why do you draw the people away from their work? Get back to your labor!”"
+hebrew: "וַיֹּ֤אמֶר אֲלֵהֶם֙ מֶ֣לֶךְ מִצְרַ֔יִם לָ֚מָּה מֹשֶׁ֣ה וְאַהֲרֹ֔ן תַּפְרִ֥יעוּ אֶת־ הָעָ֖ם מִמַּֽעֲשָׂ֑יו לְכ֖וּ לְסִבְלֹתֵיכֶֽם׃"
+pericope: "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H6544B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H5450]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:4**<big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens.
 <small><sub>**BSB:**</sub></small>
 But the king of Egypt said to them, “Moses and Aaron, why do you draw the people away from their work? Get back to your labor!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לָ֚]][[H4100\|מָּה]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H6544B\|תַּפְרִ֥יעוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מִ]][[H4639G\|מַּֽעֲשָׂ֑י]][[H9023\|ו]] [[H1980G\|לְכ֖וּ]] [[H9005\|לְ]][[H5450\|סִבְלֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.3|<< Exodus 5:3]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.5|Exodus 5:5 >>]]</td></tr></table>
 

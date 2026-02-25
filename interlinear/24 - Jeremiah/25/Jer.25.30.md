@@ -1,8 +1,76 @@
+---
+title: Jeremiah 25:30
+type: Verse
+kjv: "Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth."
+bsb: "So you are to prophesy all these words against them and say to them: ‘The LORD will roar from on high; He will raise His voice from His holy habitation. He will roar loudly over His pasture; like those who tread the grapes, He will call out with a shout against all the inhabitants of the earth."
+hebrew: "וְאַתָּה֙ תִּנָּבֵ֣א אֲלֵיהֶ֔ם אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם יְהוָ֞ה מִמָּר֤וֹם יִשְׁאָג֙ וּמִמְּע֤וֹן קָדְשׁוֹ֙ יִתֵּ֣ן קוֹל֔וֹ שָׁאֹ֤ג יִשְׁאַג֙ עַל־ נָוֵ֔הוּ הֵידָד֙ כְּדֹרְכִ֣ים יַֽעֲנֶ֔ה אֶ֥ל כָּל־ יֹשְׁבֵ֖י הָאָֽרֶץ׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H5012]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H7580]]"
+- "[[H4583]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H5921A]]"
+- "[[H5116A]]"
+- "[[H1959]]"
+- "[[H9004]]"
+- "[[H1869]]"
+- "[[H6030C]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:30**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread [the grapes], against all the inhabitants of the earth.
 <small><sub>**BSB:**</sub></small>
 So you are to prophesy all these words against them and say to them: ‘The LORD will roar from on high; He will raise His voice from His holy habitation. He will roar loudly over His pasture; like those who tread the grapes, He will call out with a shout against all the inhabitants of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H5012\|תִּנָּבֵ֣א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H3068G\|יְהוָ֞ה]] [[H9006\|מִ]][[H4791\|מָּר֤וֹם]] [[H7580\|יִשְׁאָג֙]] [[H9002\|וּ]][[H9006\|מִ]][[H4583\|מְּע֤וֹן]] [[H6944G\|קָדְשׁ]][[H9023\|וֹ֙]] [[H5414M\|יִתֵּ֣ן]] [[H6963A\|קוֹל֔]][[H9023\|וֹ]] [[H7580\|שָׁאֹ֤ג]] [[H7580\|יִשְׁאַג֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5116A\|נָוֵ֔]][[H9023\|הוּ]] [[H1959\|הֵידָד֙]] [[H9004\|כְּ]][[H1869\|דֹרְכִ֣ים]] [[H6030C\|יַֽעֲנֶ֔ה]] [[H0413\|אֶ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֖י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic GRAPE|GRAPE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.29|<< Jeremiah 25:29]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.31|Jeremiah 25:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

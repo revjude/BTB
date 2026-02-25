@@ -1,8 +1,62 @@
+---
+title: Zechariah 7:1
+type: Verse
+kjv: "And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;"
+bsb: "In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev."
+hebrew: "וַֽיְהִי֙ בִּשְׁנַ֣ת אַרְבַּ֔ע לְדָרְיָ֖וֶשׁ הַמֶּ֑לֶךְ הָיָ֨ה דְבַר־ יְהוָ֜ה אֶל־ זְכַרְיָ֗ה בְּאַרְבָּעָ֛ה לַחֹ֥דֶשׁ הַתְּשִׁעִ֖י בְּכִסְלֵֽו׃"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0702]]"
+- "[[H9005]]"
+- "[[H1867H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H2148v]]"
+- "[[H2320G]]"
+- "[[H8671]]"
+- "[[H3691]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 7:1**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the fourth year of king Darius, [that] the word of the LORD came unto Zechariah in the fourth [day] of the ninth month, [even] in Chisleu;
 <small><sub>**BSB:**</sub></small>
 In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H0702\|אַרְבַּ֔ע]] [[H9005\|לְ]][[H1867H\|דָרְיָ֖וֶשׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H1961\|הָיָ֨ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2148v\|זְכַרְיָ֗ה]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֛ה]] [[H9005\|לַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H8671\|תְּשִׁעִ֖י]] [[H9003\|בְּ]][[H3691\|כִסְלֵֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic PROPHECY|PROPHECY]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.15|<< Zechariah 6:15]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.2|Zechariah 7:2 >>]]</td></tr></table>
 

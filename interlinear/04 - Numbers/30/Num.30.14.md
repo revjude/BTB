@@ -1,8 +1,72 @@
+---
+title: Numbers 30:14
+type: Verse
+kjv: "But if her husband altogether hold his peace at her from day to day; then he establisheth all her vows, or all her bonds, which are upon her: he confirmeth them, because he held his peace at her in the day that he heard them."
+bsb: "But if her husband says nothing to her from day to day, then he confirms all the vows and pledges that bind her. He has confirmed them, because he said nothing to her on the day he heard about them."
+hebrew: "וְאִם־ הַחֲרֵשׁ֩ יַחֲרִ֨ישׁ לָ֥הּ אִישָׁהּ֮ מִיּ֣וֹם אֶל־ יוֹם֒ וְהֵקִים֙ אֶת־ כָּל־ נְדָרֶ֔יהָ א֥וֹ אֶת־ כָּל־ אֱסָרֶ֖יהָ אֲשֶׁ֣ר עָלֶ֑יהָ הֵקִ֣ים אֹתָ֔ם כִּי־ הֶחֱרִ֥שׁ לָ֖הּ בְּי֥וֹם שָׁמְעֽוֹ׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2790B]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0413]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5088]]"
+- "[[H0176A]]"
+- "[[H0632]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:14**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if her husband altogether hold his peace at her from day to day; then he establisheth all her vows, or all her bonds, which [are] upon her: he confirmeth them, because he held his peace at her in the day that he heard [them].
 <small><sub>**BSB:**</sub></small>
 But if her husband says nothing to her from day to day, then he confirms all the vows and pledges that bind her. He has confirmed them, because he said nothing to her on the day he heard about them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H2790B\|הַחֲרֵשׁ֩]] [[H2790B\|יַחֲרִ֨ישׁ]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H0376H\|אִישָׁ]][[H9024\|הּ֮]] [[H9006\|מִ]][[H3117G\|יּ֣וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H3117G\|יוֹם֒]] [[H9001\|וְ]][[H6965I\|הֵקִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5088\|נְדָרֶ֔י]][[H9024\|הָ]] [[H0176A\|א֥וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0632\|אֱסָרֶ֖י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H6965I\|הֵקִ֣ים]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H2790B\|הֶחֱרִ֥שׁ]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H8085G\|שָׁמְעֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.13|<< Numbers 30:13]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.15|Numbers 30:15 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Righteous Branch
+type: Pericope
 pericope: "[[Jer.23.1 David’s Righteous Branch|David’s Righteous Branch]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 23
 book/chapter: "[[Jer.23|Jeremiah 23]]"
-genre:
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.23.1]]"
 - "[[Jer.23.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.23.8]]"
 ---
 
-[[Jer.23|Jeremiah 23:1 - Jeremiah 23:8]]
+<small>[[Jer.23|Jeremiah 23:1-8]]</small>
 *David’s Righteous Branch*
 
 [[Jer.23.1|1]] Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.

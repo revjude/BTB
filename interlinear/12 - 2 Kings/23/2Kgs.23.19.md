@@ -1,8 +1,73 @@
+---
+title: 2 Kings 23:19
+type: Verse
+kjv: "And all the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the LORD to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel."
+bsb: "Just as Josiah had done at Bethel, so also in the cities of Samaria he removed all the shrines of the high places set up by the kings of Israel who had provoked the LORD to anger."
+hebrew: "וְגַם֩ אֶת־ כָּל־ בָּתֵּ֨י הַבָּמ֜וֹת אֲשֶׁ֣ר׀ בְּעָרֵ֣י שֹׁמְר֗וֹן אֲשֶׁ֨ר עָשׂ֜וּ מַלְכֵ֤י יִשְׂרָאֵל֙ לְהַכְעִ֔יס הֵסִ֖יר יֹֽאשִׁיָּ֑הוּ וַיַּ֣עַשׂ לָהֶ֔ם כְּכָל־ הַֽמַּעֲשִׂ֔ים אֲשֶׁ֥ר עָשָׂ֖ה בְּבֵֽית־ אֵֽל׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H8111]]"
+- "[[H6213H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H5493G]]"
+- "[[H2977G]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H4639K]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:19**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the houses also of the high places that [were] in the cities of Samaria, which the kings of Israel had made to provoke [the LORD] to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.
 <small><sub>**BSB:**</sub></small>
 Just as Josiah had done at Bethel, so also in the cities of Samaria he removed all the shrines of the high places set up by the kings of Israel who had provoked the LORD to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בָּתֵּ֨י]] [[H9009\|הַ]][[H1116\|בָּמ֜וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H8111\|שֹׁמְר֗וֹן]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213H\|עָשׂ֜וּ]] [[H4428G\|מַלְכֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H3707\|הַכְעִ֔יס]] [[H5493G\|הֵסִ֖יר]] [[H2977G\|יֹֽאשִׁיָּ֑הוּ]] [[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַֽ]][[H4639K\|מַּעֲשִׂ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9003\|בְּ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.18|<< 2 Kings 23:18]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.20|2 Kings 23:20 >>]]</td></tr></table>
 

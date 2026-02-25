@@ -1,8 +1,57 @@
+---
+title: Job 10:7
+type: Verse
+kjv: "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand."
+bsb: "though You know that I am not guilty, and there is no deliverance from Your hand?"
+hebrew: "עַֽל־ דַּ֭עְתְּךָ כִּי־ לֹ֣א אֶרְשָׁ֑ע וְאֵ֖ין מִיָּדְךָ֣ מַצִּֽיל׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7561]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:7**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou knowest that I am not wicked; and [there is] none that can deliver out of thine hand.
 <small><sub>**BSB:**</sub></small>
 though You know that I am not guilty, and there is no deliverance from Your hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַֽל]][[H9014\|־]] [[H1847\|דַּ֭עְתְּ]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H7561\|אֶרְשָׁ֑ע]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H9006\|מִ]][[H3027H\|יָּדְ]][[H9021\|ךָ֣]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.6|<< Job 10:6]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.8|Job 10:8 >>]]</td></tr></table>
 

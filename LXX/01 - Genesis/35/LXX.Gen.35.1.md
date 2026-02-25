@@ -1,9 +1,80 @@
+---
+title: LXX Genesis 35:1
+type: Verse
+lxx: "And God said to Jacob, Rising up, ascend unto the place Beth-el! And live there, and make there an altar  to God! to the one appearing to you in the running away from the face of Esau  your brother."
+greek: "είπε δε ο θεός προς Ιακώβ αναστάς ανάβηθι εις τον τόπον Βαιθήλ και οίκει εκεί και ποίησον εκεί θυσιαστήριον τω θεώ τω οφθέντι σοι εν τω αποδιδράσκειν από προσώπου Ησαύ του αδελφού σου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4314]]"
+- "[[G2384]]"
+- "[[G0450]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[H1008]]"
+- "[[G2532]]"
+- "[[G3611]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1563]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3708]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G6424]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G2269]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 35:1** 
 
 ***Jacob Builds an Altar at Beth-el***
 
 <small><sub>**LXX:**</sub></small>
 And God said to Jacob, Rising up, ascend unto the place Beth-el! And live there, and make there an altar  to God! to the \[one\] appearing to you in the running away from \[the\] face of Esau  your brother. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G3588\|ο]] [[G2316\|θεός]] [[G4314\|προς]] [[G2384\|Ιακώβ]] [[G0450\|αναστάς]] [[G0305\|ανάβηθι]] [[G1519\|εις]] [[G3588\|τον]] [[G5117\|τόπον]] [[H1008\|Βαιθήλ]] [[G2532\|και]] [[G3611\|οίκει]] [[G1563\|εκεί]] [[G2532\|και]] [[G4160\|ποίησον]] [[G1563\|εκεί]] [[G2379\|θυσιαστήριον]] [[G3588\|τω]] [[G2316\|θεώ]] [[G3588\|τω]] [[G3708\|οφθέντι]] [[G1473\|σοι]] [[G1722\|εν]] [[G3588\|τω]] [[G6424\|αποδιδράσκειν]] [[G0575\|από]] [[G4383\|προσώπου]] [[G2269\|Ησαύ]] [[G3588\|του]] [[G0080\|αδελφού]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic COMMUNION|COMMUNION]] • [[topic JACOB|JACOB]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.31|<< Genesis 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.2|Genesis 35:2 >>]]</td></tr></table>
 
@@ -41,6 +112,6 @@ And God said to Jacob, Rising up, ascend unto the place Beth-el! And live there,
 | of Esau | **<big>[[G2269\|Ησαύ]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | your brother. | **<big>[[G0080\|αδελφού]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Gen.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.31|<< Genesis 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.2|Genesis 35:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.31|<< Genesis 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.2|Genesis 35:2 >>]]</td></tr></table>
 
 

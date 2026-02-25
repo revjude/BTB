@@ -1,10 +1,67 @@
+---
+title: Luke 1:38
+type: Verse
+kjv: "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her."
+bsb: "“I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her."
+greek: "Εἶπεν δὲ Μαριάμ· ἰδοὺ ἡ δούλη κυρίου· γένοιτό μοι κατὰ τὸ ῥῆμά σου. καὶ ἀπῆλθεν ἀπ᾽ αὐτῆς ὁ ἄγγελος.¶"
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3137G]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G2962G]]"
+- "[[G1096]]"
+- "[[G3165]]"
+- "[[G2596]]"
+- "[[G4487]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G0032G]]"
+texts:
+- NKO
+---
+
 **Luke 1:38**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.
 <small><sub>**BSB:**</sub></small>
 “I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her.
-<small><sub>**Literal:**</sub></small>
-Said then Mary; Behold the handmaid of [the] Lord; Would [that] it happen to me according to the declaration of you. And departed from her the angel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.37|<< Luke 1:37]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.39|Luke 1:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3137G\|Μαριάμ·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G1401\|δούλη]]  [[G2962G\|κυρίου·]]  [[G1096\|γένοιτό]]  [[G3165\|μοι]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμά]]  [[G4771\|σου.]]  [[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῆς]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.37|<< Luke 1:37]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.39|Luke 1:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

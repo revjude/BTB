@@ -1,8 +1,71 @@
+---
+title: Leviticus 22:27
+type: Verse
+kjv: "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD."
+bsb: "“When an ox, a sheep, or a goat is born, it must remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the LORD."
+hebrew: "שׁ֣וֹר אוֹ־ כֶ֤שֶׂב אוֹ־ עֵז֙ כִּ֣י יִוָּלֵ֔ד וְהָיָ֛ה שִׁבְעַ֥ת יָמִ֖ים תַּ֣חַת אִמּ֑וֹ וּמִיּ֤וֹם הַשְּׁמִינִי֙ וָהָ֔לְאָה יֵרָצֶ֕ה לְקָרְבַּ֥ן אִשֶּׁ֖ה לַיהוָֽה׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GOAT|GOAT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H7794]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H3775]]"
+- "[[H5795]]"
+- "[[H3588A]]"
+- "[[H3205]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H8478G]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H1973]]"
+- "[[H7521]]"
+- "[[H9005]]"
+- "[[H7133A]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:27**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 “When an ox, a sheep, or a goat is born, it must remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7794\|שׁ֣וֹר]] [[H0176A\|אוֹ]][[H9014\|־]] [[H3775\|כֶ֤שֶׂב]] [[H0176A\|אוֹ]][[H9014\|־]] [[H5795\|עֵז֙]] [[H3588A\|כִּ֣י]] [[H3205\|יִוָּלֵ֔ד]] [[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H8478G\|תַּ֣חַת]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִי֙]] [[H9002\|וָ]][[H1973\|הָ֔לְאָה]] [[H7521\|יֵרָצֶ֕ה]] [[H9005\|לְ]][[H7133A\|קָרְבַּ֥ן]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOAT|GOAT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.26|<< Leviticus 22:26]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.28|Leviticus 22:28 >>]]</td></tr></table>
 

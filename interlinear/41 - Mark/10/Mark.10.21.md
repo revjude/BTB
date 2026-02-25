@@ -1,10 +1,79 @@
+---
+title: Mark 10:21
+type: Verse
+kjv: "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
+bsb: "Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”"
+jesus_said: "One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me."
+greek: "Ὁ δὲ Ἰησοῦς ἐμβλέψας αὐτῷ ἠγάπησεν αὐτὸν καὶ εἶπεν αὐτῷ· ἕν σε ὑστερεῖ· ὕπαγε, ὅσα ἔχεις πώλησον καὶ δὸς τοῖς πτωχοῖς καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ. καὶ δεῦρο, ἀκολούθει μοι ἄρας τὸν σταυρόν."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G1689]]"
+- "[[G0846]]"
+- "[[G0025]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1520]]"
+- "[[G4771]]"
+- "[[G5302]]"
+- "[[G5217]]"
+- "[[G3745]]"
+- "[[G2192]]"
+- "[[G4453]]"
+- "[[G1325]]"
+- "[[G4434]]"
+- "[[G2344]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1204]]"
+- "[[G0190]]"
+- "[[G3165]]"
+- "[[G0142]]"
+- "[[G4716]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Mark 10:21**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus having looked upon him He loved him and He said to him; One thing to you is lacking; do go, as much as you have do sell and do give to the poor and you will have treasure in heaven. and come, do follow Me having taken up <the> cross.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.20|<< Mark 10:20]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.22|Mark 10:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G1689\|ἐμβλέψας]]  [[G0846\|αὐτῷ]]  [[G0025\|ἠγάπησεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1520\|ἕν]]  [[G4771\|σε]]  [[G5302\|ὑστερεῖ·]]  [[G5217\|ὕπαγε,]]  [[G3745\|ὅσα]]  [[G2192\|ἔχεις]]  [[G4453\|πώλησον]]  [[G2532\|καὶ]]  [[G1325\|δὸς]]  [[G3588\|τοῖς]]  [[G4434\|πτωχοῖς]]  [[G2532\|καὶ]]  [[G2192\|ἕξεις]]  [[G2344\|θησαυρὸν]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῷ.]]  [[G2532\|καὶ]]  [[G1204\|δεῦρο,]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι]]  [[G0142\|ἄρας]]  [[G3588\|τὸν]]  [[G4716\|σταυρόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CALL|CALL]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REWARD|REWARD]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.20|<< Mark 10:20]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.22|Mark 10:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

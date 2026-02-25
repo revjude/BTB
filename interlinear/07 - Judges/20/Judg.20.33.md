@@ -1,8 +1,62 @@
+---
+title: Judges 20:33
+type: Verse
+kjv: "And all the men of Israel rose up out of their place, and put themselves in array at Baaltamar: and the liers in wait of Israel came forth out of their places, even out of the meadows of Gibeah."
+bsb: "So all the men of Israel got up from their places and arrayed themselves at Baal-tamar, and the Israelites in ambush charged from their positions west of Gibeah."
+hebrew: "וְכֹ֣ל׀ אִ֣ישׁ יִשְׂרָאֵ֗ל קָ֚מוּ מִמְּקוֹמ֔וֹ וַיַּעַרְכ֖וּ בְּבַ֣עַל תָּמָ֑ר וְאֹרֵ֧ב יִשְׂרָאֵ֛ל מֵגִ֥יחַ מִמְּקֹמ֖וֹ מִמַּֽעֲרֵה־ גָֽבַע׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BAAL-TAMAR|BAAL-TAMAR]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6186A]]"
+- "[[H9003]]"
+- "[[H1193]]"
+- "[[H0693]]"
+- "[[H1518]]"
+- "[[H4629G]]"
+- "[[H9014]]"
+- "[[H1387J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:33**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of Israel rose up out of their place, and put themselves in array at Baaltamar: and the liers in wait of Israel came forth out of their places, [even] out of the meadows of Gibeah.
 <small><sub>**BSB:**</sub></small>
 So all the men of Israel got up from their places and arrayed themselves at Baal-tamar, and the Israelites in ambush charged from their positions west of Gibeah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H6965B\|קָ֚מוּ]] [[H9006\|מִ]][[H4725\|מְּקוֹמ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H6186A\|יַּעַרְכ֖וּ]] [[H9003\|בְּ]][[H1193\|בַ֣עַל]] [[H1193\|תָּמָ֑ר]] [[H9002\|וְ]][[H0693\|אֹרֵ֧ב]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H1518\|מֵגִ֥יחַ]] [[H9006\|מִ]][[H4725\|מְּקֹמ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H4629G\|מַּֽעֲרֵה]][[H9014\|־]] [[H1387J\|גָֽבַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic BAAL-TAMAR|BAAL-TAMAR]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.32|<< Judges 20:32]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.34|Judges 20:34 >>]]</td></tr></table>
 

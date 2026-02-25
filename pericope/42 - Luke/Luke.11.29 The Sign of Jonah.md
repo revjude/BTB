@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sign of Jonah
+type: Pericope
 pericope: "[[Luke.11.29 The Sign of Jonah|The Sign of Jonah]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.11.29]]"
 - "[[Luke.11.30]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.11.32]]"
 ---
 
-[[Luke.11|Luke 11:29 - Luke 11:32]]
+<small>[[Luke.11|Luke 11:29-32]]</small>
 *The Sign of Jonah*
 
 [[Luke.11.29|29]] And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.

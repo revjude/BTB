@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Riches
+type: Pericope
 pericope: "[[2Chr.1.14 Solomon’s Riches|Solomon’s Riches]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 1
 book/chapter: "[[2Chr.1|2 Chronicles 1]]"
-genre:
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.1.14]]"
 - "[[2Chr.1.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.1.17]]"
 ---
 
-[[2Chr.1|2 Chronicles 1:14 - 2 Chronicles 1:17]]
+<small>[[2Chr.1|2 Chronicles 1:14-17]]</small>
 *Solomon’s Riches*
 
 [[2Chr.1.14|14]] And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.

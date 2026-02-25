@@ -1,10 +1,73 @@
+---
+title: Matthew 21:31
+type: Verse
+kjv: "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+bsb: "Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you."
+jesus_said: "Whether of them twain did the will of his father? Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+greek: "τίς ἐκ τῶν δύο ἐποίησεν τὸ θέλημα τοῦ πατρός; λέγουσιν αὐτῷ· ὁ πρῶτος. λέγει αὐτοῖς ὁ Ἰησοῦς· ἀμὴν λέγω ὑμῖν ὅτι οἱ τελῶναι καὶ αἱ πόρναι προάγουσιν ὑμᾶς εἰς τὴν βασιλείαν τοῦ θεοῦ."
+pericope: "[[Matt.21.28 The Parable of the Two Sons|The Parable of the Two Sons]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TAX|TAX]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G4160G]]"
+- "[[G2307]]"
+- "[[G3962]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4413G]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G5057]]"
+- "[[G2532]]"
+- "[[G4204]]"
+- "[[G4254]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- NK(O)
+---
+
 **Matthew 21:31**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whether of them twain did the will of [his] father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.
 <small><sub>**BSB:**</sub></small>
 Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you.
-<small><sub>**Literal:**</sub></small>
-Which of the two did the will of the father? They say to him: The first. Says to them <the> Jesus; Amen I say to you that the tax collectors and the prostitutes go before you into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.30|<< Matthew 21:30]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.32|Matthew 21:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1417\|δύο]]  [[G4160G\|ἐποίησεν]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G3962\|πατρός;]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G5057\|τελῶναι]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4204\|πόρναι]]  [[G4254\|προάγουσιν]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic TAX|TAX]] • [[topic VINEYARD|VINEYARD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.30|<< Matthew 21:30]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.32|Matthew 21:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

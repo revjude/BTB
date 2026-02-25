@@ -1,10 +1,50 @@
+---
+title: John 8:8
+type: Verse
+kjv: "And again he stooped down, and wrote on the ground."
+bsb: "And again He bent down and wrote on the ground."
+greek: "καὶ πάλιν κατακύψας κατακύψας ἔγραφεν εἰς τὴν γῆν."
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G2736]]"
+- "[[G2955]]"
+- "[[G1125]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+texts:
+- KO
+---
+
 **John 8:8**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again he stooped down, and wrote on the ground.
 <small><sub>**BSB:**</sub></small>
 And again He bent down and wrote on the ground.
-<small><sub>**Literal:**</sub></small>
-And again being stooped low He was writing on the ground.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.7|<< John 8:7]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.9|John 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G2736\|κατακύψας]]  <sup><small>[[G2955\| [ • ] ]]</small></sup>  [[G1125\|ἔγραφεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093I\|γῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.7|<< John 8:7]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.9|John 8:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

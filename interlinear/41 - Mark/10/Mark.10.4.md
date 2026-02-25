@@ -1,10 +1,52 @@
+---
+title: Mark 10:4
+type: Verse
+kjv: "And they said, Moses suffered to write a bill of divorcement, and to put her away."
+bsb: "They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”"
+greek: "οἱ δὲ εἶπαν· ἐπέτρεψεν Μωϋσῆς βιβλίον ἀποστασίου γράψαι καὶ ἀπολῦσαι."
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2010]]"
+- "[[G3475]]"
+- "[[G0975]]"
+- "[[G0647]]"
+- "[[G1125]]"
+- "[[G2532]]"
+- "[[G0630H]]"
+texts:
+- NKO
+---
+
 **Mark 10:4**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, Moses suffered to write a bill of divorcement, and to put [her] away.
 <small><sub>**BSB:**</sub></small>
 They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said; Permitted Moses a roll of divorce to write and to send [her] away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.3|<< Mark 10:3]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.5|Mark 10:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G2010\|ἐπέτρεψεν]]  [[G3475\|Μωϋσῆς]]  [[G0975\|βιβλίον]]  [[G0647\|ἀποστασίου]]  [[G1125\|γράψαι]]  [[G2532\|καὶ]]  [[G0630H\|ἀπολῦσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.3|<< Mark 10:3]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.5|Mark 10:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 10:4** is...
 > $\quad$ referencing: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]

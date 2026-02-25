@@ -1,10 +1,56 @@
+---
+title: Mark 6:7
+type: Verse
+kjv: "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;"
+bsb: "Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits."
+greek: "Καὶ προσκαλεῖται τοὺς δώδεκα καὶ ἤρξατο αὐτοὺς ἀποστέλλειν δύο δύο καὶ ἐδίδου αὐτοῖς ἐξουσίαν τῶν πνευμάτων τῶν ἀκαθάρτων"
+pericope: "[[Mark.6.7 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G0757]]"
+- "[[G0846]]"
+- "[[G0649]]"
+- "[[G1417]]"
+- "[[G1325]]"
+- "[[G1849]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+texts:
+- NKO
+---
+
 **Mark 6:7**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called [unto him] the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits.
-<small><sub>**Literal:**</sub></small>
-And He calls near the Twelve and He began them to send forth two [by] two and He was gaving to them authority over the spirits <the> unclean<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.6|<< Mark 6:6]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.8|Mark 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεῖται]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G0846\|αὐτοὺς]]  [[G0649\|ἀποστέλλειν]]  [[G1417\|δύο]]  [[G1417\|δύο]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδου]]  [[G0846\|αὐτοῖς]]  [[G1849\|ἐξουσίαν]]  [[G3588\|τῶν]]  [[G4151G\|πνευμάτων]]  [[G3588\|τῶν]]  [[G0169\|ἀκαθάρτων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.6|<< Mark 6:6]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.8|Mark 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

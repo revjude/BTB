@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Tabernacles
+type: Pericope
 pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 29
 book/chapter: "[[Num.29|Numbers 29]]"
-genre:
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 29
 verses:
 - "[[Num.29.12]]"
 - "[[Num.29.13]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Num.29.40]]"
 ---
 
-[[Num.29|Numbers 29:12 - Numbers 29:40]]
+<small>[[Num.29|Numbers 29:12-40]]</small>
 *The Feast of Tabernacles*
 
 [[Num.29.12|12]] And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:

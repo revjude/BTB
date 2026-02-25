@@ -1,8 +1,57 @@
+---
+title: 1 Samuel 9:11
+type: Verse
+kjv: "And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?"
+bsb: "And as they were climbing the hill to the city, they met some young women coming out to draw water and asked, “Is the seer here?”"
+hebrew: "הֵ֗מָּה עֹלִים֙ בְּמַעֲלֵ֣ה הָעִ֔יר וְהֵ֙מָּה֙ מָצְא֣וּ נְעָר֔וֹת יֹצְא֖וֹת לִשְׁאֹ֣ב מָ֑יִם וַיֹּאמְר֣וּ לָהֶ֔ן הֲיֵ֥שׁ בָּזֶ֖ה הָרֹאֶֽה׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H1992]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H4608]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H4672]]"
+- "[[H5291]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7579]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9039]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H2088]]"
+- "[[H7203A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:11**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?
 <small><sub>**BSB:**</sub></small>
 And as they were climbing the hill to the city, they met some young women coming out to draw water and asked, “Is the seer here?”
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֗מָּה]] [[H5927G\|עֹלִים֙]] [[H9003\|בְּ]][[H4608\|מַעֲלֵ֣ה]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H1992\|הֵ֙מָּה֙]] [[H4672\|מָצְא֣וּ]] [[H5291\|נְעָר֔וֹת]] [[H3318G\|יֹצְא֖וֹת]] [[H9005\|לִ]][[H7579\|שְׁאֹ֣ב]] [[H4325G\|מָ֑יִם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לָ]][[H9039\|הֶ֔ן]] [[H9008\|הֲ]][[H3426\|יֵ֥שׁ]] [[H9003\|בָּ]][[H2088\|זֶ֖ה]] [[H9009\|הָ]][[H7203A\|רֹאֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
 

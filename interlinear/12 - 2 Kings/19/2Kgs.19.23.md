@@ -1,8 +1,79 @@
+---
+title: 2 Kings 19:23
+type: Verse
+kjv: "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel."
+bsb: "Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest outposts, the densest of its forests."
+hebrew: "בְּיַ֣ד מַלְאָכֶיךָ֮ חֵרַ֣פְתָּ׀ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְח֣וֹר בְּרֹשָׁ֔יו וְאָב֙וֹאָה֙ מְל֣וֹן קִצּ֔וֹ יַ֖עַר כַּרְמִלּֽוֹ׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4397G]]"
+- "[[H9021]]"
+- "[[H2778A]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7393G]]"
+- "[[H7230]]"
+- "[[H9020]]"
+- "[[H0589]]"
+- "[[H5927G]]"
+- "[[H4791]]"
+- "[[H2022G]]"
+- "[[H3411]]"
+- "[[H3844G]]"
+- "[[H9002]]"
+- "[[H3772G]]"
+- "[[H6967]]"
+- "[[H0730]]"
+- "[[H9023]]"
+- "[[H4004]]"
+- "[[H1265]]"
+- "[[H0935G]]"
+- "[[H4411]]"
+- "[[H7093]]"
+- "[[H3293A]]"
+- "[[H3759]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 19:23**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, [and] the choice fir trees thereof: and I will enter into the lodgings of his borders, [and into] the forest of his Carmel.
 <small><sub>**BSB:**</sub></small>
 Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest outposts, the densest of its forests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3027J\|יַ֣ד]] [[H4397G\|מַלְאָכֶי]][[H9021\|ךָ֮]] [[H2778A\|חֵרַ֣פְתָּ]][[H9015\|׀]] [[H0136\|אֲדֹנָי֒]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H9003\|בְּ]][[H7230\|רֹ֥ב]] [[H7393G\|רִכְבִּ֛]][[H9020\|י]] [[H0589\|אֲנִ֥י]] [[H5927G\|עָלִ֛יתִי]] [[H4791\|מְר֥וֹם]] [[H2022G\|הָרִ֖ים]] [[H3411\|יַרְכְּתֵ֣י]] [[H3844G\|לְבָנ֑וֹן]] [[H9002\|וְ]][[H3772G\|אֶכְרֹ֞ת]] [[H6967\|קוֹמַ֤ת]] [[H0730\|אֲרָזָי]][[H9023\|ו֙]] [[H4004\|מִבְח֣וֹר]] [[H1265\|בְּרֹשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0935G\|אָב֙וֹאָה֙]] [[H4411\|מְל֣וֹן]] [[H7093\|קִצּ֔]][[H9023\|וֹ]] [[H3293A\|יַ֖עַר]] [[H3759\|כַּרְמִלּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CARMEL|CARMEL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LEBANON|LEBANON]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
@@ -33,10 +104,10 @@ Through your servants you have taunted the Lord, and you have said: “With my m
 | plantation its  |**<big>&#8207;[[H3759\|כַּרְמִלּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kar.mi.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
-[^1]: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: with [the] chariotry of  | **<big>[[H9003|בְּ]]</big><big>[[H7393G|רֶכֶב]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: with [the] chariotry of  | **<big>[[H9003|בְּ]]</big><big>[[H7393G|רֶכֶב]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּרֹ֥כב</big></span>**
-[^4]: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^5]: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: end its  | **<big>[[H7093|קִצֹּ֔]]</big><big>[[H9023|ה]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: end its  | **<big>[[H7093|קִצֹּ֔]]</big><big>[[H9023|ה]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>קִצֹּ֔ה</big></span>**
 

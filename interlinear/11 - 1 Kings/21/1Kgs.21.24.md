@@ -1,8 +1,61 @@
+---
+title: 1 Kings 21:24
+type: Verse
+kjv: "Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat."
+bsb: "Anyone belonging to Ahab who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”"
+hebrew: "הַמֵּ֤ת לְאַחְאָב֙ בָּעִ֔יר יֹאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּת֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ ע֥וֹף הַשָּׁמָֽיִם׃"
+pericope: "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9005]]"
+- "[[H0256G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H0398]]"
+- "[[H3611]]"
+- "[[H9002]]"
+- "[[H7704G]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:24**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.
 <small><sub>**BSB:**</sub></small>
 Anyone belonging to Ahab who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H4191\|מֵּ֤ת]] [[H9005\|לְ]][[H0256G\|אַחְאָב֙]] [[H9003\|בָּ]][[H5892B\|עִ֔יר]] [[H0398\|יֹאכְל֖וּ]] [[H9009\|הַ]][[H3611\|כְּלָבִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4191\|מֵּת֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H0398\|יֹאכְל֖וּ]] [[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.23|<< 1 Kings 21:23]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.25|1 Kings 21:25 >>]]</td></tr></table>
 

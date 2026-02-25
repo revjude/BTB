@@ -1,10 +1,55 @@
+---
+title: 2 Peter 2:2
+type: Verse
+kjv: "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of."
+bsb: "Many will follow in their depravity, and because of them the way of truth will be defamed."
+greek: "καὶ πολλοὶ ἐξακολουθήσουσιν αὐτῶν ταῖς ἀσελγείαις, δι᾽ οὓς ἡ ὁδὸς τῆς ἀληθείας βλασφημηθήσεται·"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G1811]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0766]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3598]]"
+- "[[G0225]]"
+- "[[G0987]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **2 Peter 2:2**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
 <small><sub>**BSB:**</sub></small>
 Many will follow in their depravity, and because of them the way of truth will be defamed.
-<small><sub>**Literal:**</sub></small>
-And many will follow after their <the> sensuality, through whom the way of the truth will be denigrated;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.1|<< 2 Peter 2:1]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.3|2 Peter 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4183\|πολλοὶ]]  [[G1811\|ἐξακολουθήσουσιν]]  [[G0846\|αὐτῶν]]  [[G3588\|ταῖς]]  [[G0766\|ἀσελγείαις,]]  [[G1223\|δι᾽]]  [[G3739\|οὓς]]  [[G3588\|ἡ]]  [[G3598\|ὁδὸς]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G0987\|βλασφημηθήσεται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic GOSPEL|GOSPEL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.1|<< 2 Peter 2:1]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.3|2 Peter 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

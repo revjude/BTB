@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 36:16
+type: Verse
+kjv: "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy."
+bsb: "But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy."
+hebrew: "וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבוֹזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים בִּנְבִאָ֑יו עַ֠ד עֲל֧וֹת חֲמַת־ יְהוָ֛ה בְּעַמּ֖וֹ עַד־ לְאֵ֥ין מַרְפֵּֽא׃"
+pericope: "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3931]]"
+- "[[H9003]]"
+- "[[H4397G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H0959]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H8591]]"
+- "[[H5030]]"
+- "[[H5704]]"
+- "[[H5927G]]"
+- "[[H2534]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0369]]"
+- "[[H4832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:16**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till [there was] no remedy.
 <small><sub>**BSB:**</sub></small>
 But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְי֤וּ]] [[H3931\|מַלְעִבִים֙]] [[H9003\|בְּ]][[H4397G\|מַלְאֲכֵ֣י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H0959\|בוֹזִ֣ים]] [[H1697G\|דְּבָרָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H8591\|מִֽתַּעְתְּעִ֖ים]] [[H9003\|בִּ]][[H5030\|נְבִאָ֑י]][[H9023\|ו]] [[H5704\|עַ֠ד]] [[H5927G\|עֲל֧וֹת]] [[H2534\|חֲמַת]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H0369\|אֵ֥ין]] [[H4832\|מַרְפֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROPHETS|PROPHETS]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.15|<< 2 Chronicles 36:15]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.17|2 Chronicles 36:17 >>]]</td></tr></table>
 

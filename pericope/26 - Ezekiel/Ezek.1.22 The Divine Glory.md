@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Divine Glory
+type: Pericope
 pericope: "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 1
 book/chapter: "[[Ezek.1|Ezekiel 1]]"
-genre:
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.1.22]]"
 - "[[Ezek.1.23]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.1.28]]"
 ---
 
-[[Ezek.1|Ezekiel 1:22 - Ezekiel 1:28]]
+<small>[[Ezek.1|Ezekiel 1:22-28]]</small>
 *The Divine Glory*
 
 [[Ezek.1.22|22]] And the likeness of the firmament upon the heads of the living creature \[was\] as the colour of the terrible crystal, stretched forth over their heads above.

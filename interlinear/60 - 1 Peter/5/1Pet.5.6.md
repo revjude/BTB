@@ -1,10 +1,56 @@
+---
+title: 1 Peter 5:6
+type: Verse
+kjv: "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:"
+bsb: "Humble yourselves, therefore, under God’s mighty hand, so that in due time He may exalt you."
+greek: "ταπεινώθητε οὖν ὑπὸ τὴν κραταιὰν χεῖρα τοῦ θεοῦ, ἵνα ὑμᾶς ὑψώσῃ ἐν καιρῷ,"
+pericope: "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G5013]]"
+- "[[G3767]]"
+- "[[G5259H]]"
+- "[[G3588]]"
+- "[[G2900]]"
+- "[[G5495]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G5312]]"
+- "[[G1722]]"
+- "[[G2540]]"
+texts:
+- NKO
+---
+
 **1 Peter 5:6**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 <small><sub>**BSB:**</sub></small>
 Humble yourselves, therefore, under God’s mighty hand, so that in due time He may exalt you.
-<small><sub>**Literal:**</sub></small>
-do be humbled therefore under the mighty hand <the> of God, so that you He may exalt in [due] time,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.5|<< 1 Peter 5:5]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.7|1 Peter 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5013\|ταπεινώθητε]]  [[G3767\|οὖν]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G2900\|κραταιὰν]]  [[G5495\|χεῖρα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G4771\|ὑμᾶς]]  [[G5312\|ὑψώσῃ]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HUMILITY|HUMILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.5|<< 1 Peter 5:5]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.7|1 Peter 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

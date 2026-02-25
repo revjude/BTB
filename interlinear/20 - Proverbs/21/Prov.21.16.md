@@ -1,8 +1,53 @@
+---
+title: Proverbs 21:16
+type: Verse
+kjv: "The man that wandereth out of the way of understanding shall remain in the congregation of the dead."
+bsb: "The man who strays from the path of understanding will rest in the assembly of the dead."
+hebrew: "אָדָ֗ם תּ֭וֹעֶה מִדֶּ֣רֶךְ הַשְׂכֵּ֑ל בִּקְהַ֖ל רְפָאִ֣ים יָנֽוּחַ׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0120G]]"
+- "[[H8582]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H7919A]]"
+- "[[H9003]]"
+- "[[H6951]]"
+- "[[H7496]]"
+- "[[H5117]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:16**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 <small><sub>**BSB:**</sub></small>
 The man who strays from the path of understanding will rest in the assembly of the dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָדָ֗ם]] [[H8582\|תּ֭וֹעֶה]] [[H9006\|מִ]][[H1870G\|דֶּ֣רֶךְ]] [[H7919A\|הַשְׂכֵּ֑ל]] [[H9003\|בִּ]][[H6951\|קְהַ֖ל]] [[H7496\|רְפָאִ֣ים]] [[H5117\|יָנֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.15|<< Proverbs 21:15]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.17|Proverbs 21:17 >>]]</td></tr></table>
 

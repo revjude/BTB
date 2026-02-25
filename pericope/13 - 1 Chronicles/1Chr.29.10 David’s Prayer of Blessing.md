@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Prayer of Blessing
+type: Pericope
 pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 29
 book/chapter: "[[1Chr.29|1 Chronicles 29]]"
-genre:
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 11
 verses:
 - "[[1Chr.29.10]]"
 - "[[1Chr.29.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Chr.29.20]]"
 ---
 
-[[1Chr.29|1 Chronicles 29:10 - 1 Chronicles 29:20]]
+<small>[[1Chr.29|1 Chronicles 29:10-20]]</small>
 *David’s Prayer of Blessing*
 
 [[1Chr.29.10|10]] Wherefore David blessed the LORD before all the congregation: and David said, Blessed \[be\] thou, LORD God of Israel our father, for ever and ever.

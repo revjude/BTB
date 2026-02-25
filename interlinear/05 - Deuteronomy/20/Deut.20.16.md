@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 20:16
+type: Verse
+kjv: "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
+bsb: "However, in the cities of the nations that the LORD your God is giving you as an inheritance, you must not leave alive anything that breathes."
+hebrew: "רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה לֹ֥א תְחַיֶּ֖ה כָּל־ נְשָׁמָֽה׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7535]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5159]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:16**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the cities of these people, which the LORD thy God doth give thee [for] an inheritance, thou shalt save alive nothing that breatheth:
 <small><sub>**BSB:**</sub></small>
 However, in the cities of the nations that the LORD your God is giving you as an inheritance, you must not leave alive anything that breathes.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֗ק]] [[H9006\|מֵ]][[H5892B\|עָרֵ֤י]] [[H9009\|הָֽ]][[H5971A\|עַמִּים֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5159\|נַחֲלָ֑ה]] [[H3808\|לֹ֥א]] [[H2421\|תְחַיֶּ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H5397\|נְשָׁמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.15|<< Deuteronomy 20:15]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.17|Deuteronomy 20:17 >>]]</td></tr></table>
 

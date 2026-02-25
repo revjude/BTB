@@ -1,10 +1,58 @@
+---
+title: Acts 17:12
+type: Verse
+kjv: "Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few."
+bsb: "As a result, many of them believed, along with quite a few prominent Greek women and men."
+greek: "Πολλοὶ μὲν οὖν ἐξ αὐτῶν ἐπίστευσαν, καὶ τῶν Ἑλληνίδων γυναικῶν τῶν εὐσχημόνων καὶ ἀνδρῶν οὐκ ὀλίγοι.¶"
+pericope: "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G4183]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1674]]"
+- "[[G1135G]]"
+- "[[G2158]]"
+- "[[G0435G]]"
+- "[[G3756]]"
+- "[[G3641]]"
+texts:
+- NKO
+---
+
 **Acts 17:12**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.
 <small><sub>**BSB:**</sub></small>
 As a result, many of them believed, along with quite a few prominent Greek women and men.
-<small><sub>**Literal:**</sub></small>
-Many indeed therefore of them believed, and of the Grecian women <the> prominent and men not a few.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.11|<< Acts 17:11]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.13|Acts 17:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|Πολλοὶ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G4100\|ἐπίστευσαν,]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1674\|Ἑλληνίδων]]  [[G1135G\|γυναικῶν]]  [[G3588\|τῶν]]  [[G2158\|εὐσχημόνων]]  [[G2532\|καὶ]]  [[G0435G\|ἀνδρῶν]]  [[G3756\|οὐκ]]  [[G3641\|ὀλίγοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic GREECE|GREECE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.11|<< Acts 17:11]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.13|Acts 17:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Psalm 74:15
+type: Verse
+kjv: "Thou didst cleave the fountain and the flood: thou driedst up mighty rivers."
+bsb: "You broke open the fountain and the flood; You dried up the ever-flowing rivers."
+hebrew: "אַתָּ֣ה בָ֭קַעְתָּ מַעְיָ֣ן וָנָ֑חַל אַתָּ֥ה ה֝וֹבַ֗שְׁתָּ נַהֲר֥וֹת אֵיתָֽן׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0859A]]"
+- "[[H1234]]"
+- "[[H4599]]"
+- "[[H9002]]"
+- "[[H5158A]]"
+- "[[H3001]]"
+- "[[H5104H]]"
+- "[[H0386]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:15**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
 <small><sub>**BSB:**</sub></small>
 You broke open the fountain and the flood; You dried up the ever-flowing rivers.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֣ה]] [[H1234\|בָ֭קַעְתָּ]] [[H4599\|מַעְיָ֣ן]] [[H9002\|וָ]][[H5158A\|נָ֑חַל]] [[H0859A\|אַתָּ֥ה]] [[H3001\|ה֝וֹבַ֗שְׁתָּ]] [[H5104H\|נַהֲר֥וֹת]] [[H0386\|אֵיתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.14|<< Psalms 74:14]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.16|Psalms 74:16 >>]]</td></tr></table>
 

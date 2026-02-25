@@ -1,10 +1,67 @@
+---
+title: Matthew 25:8
+type: Verse
+kjv: "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+bsb: "The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’"
+jesus_said: "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+greek: "αἱ δὲ μωραὶ ταῖς φρονίμοις εἶπαν· δότε ἡμῖν ἐκ τοῦ ἐλαίου ὑμῶν, ὅτι αἱ λαμπάδες ἡμῶν σβέννυνται.¶"
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3474]]"
+- "[[G5429]]"
+- "[[G2036]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G1637]]"
+- "[[G4771]]"
+- "[[G3754H]]"
+- "[[G2985]]"
+- "[[G4570]]"
+texts:
+- NKO
+---
+
 **Matthew 25:8**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.
 <small><sub>**BSB:**</sub></small>
 The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’
-<small><sub>**Literal:**</sub></small>
-<the> And the foolish to the wise said; do give us of the oil of you, for the lamps of us are going out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.7|<< Matthew 25:7]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.9|Matthew 25:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|αἱ]]  [[G1161\|δὲ]]  [[G3474\|μωραὶ]]  [[G3588\|ταῖς]]  [[G5429\|φρονίμοις]]  [[G2036\|εἶπαν·]]  [[G1325\|δότε]]  [[G3165\|ἡμῖν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G1637\|ἐλαίου]]  [[G4771\|ὑμῶν,]]  [[G3754H\|ὅτι]]  [[G3588\|αἱ]]  [[G2985\|λαμπάδες]]  [[G3165\|ἡμῶν]]  [[G4570\|σβέννυνται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REPROBACY|REPROBACY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.7|<< Matthew 25:7]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.9|Matthew 25:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

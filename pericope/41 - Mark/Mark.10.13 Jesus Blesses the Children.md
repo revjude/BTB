@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Blesses the Children
+type: Pericope
 pericope: "[[Mark.10.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.10.13]]"
 - "[[Mark.10.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.10.16]]"
 ---
 
-[[Mark.10|Mark 10:13 - Mark 10:16]]
+<small>[[Mark.10|Mark 10:13-16]]</small>
 *Jesus Blesses the Children*
 
 [[Mark.10.13|13]] And they brought young children to him, that he should touch them: and \[his\] disciples rebuked those that brought \[them\].

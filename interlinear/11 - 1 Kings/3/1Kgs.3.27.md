@@ -1,8 +1,68 @@
+---
+title: 1 Kings 3:27
+type: Verse
+kjv: "Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof."
+bsb: "Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.”"
+hebrew: "וַיַּ֨עַן הַמֶּ֜לֶךְ וַיֹּ֗אמֶר תְּנוּ־ לָהּ֙ אֶת־ הַיָּל֣וּד הַחַ֔י וְהָמֵ֖ת לֹ֣א תְמִיתֻ֑הוּ הִ֖יא אִמּֽוֹ׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3205]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H1931]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:27**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king answered and said, Give her the living child, and in no wise slay it: she [is] the mother thereof.
 <small><sub>**BSB:**</sub></small>
 Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5414G\|תְּנוּ]][[H9014\|־]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3205\|יָּל֣וּד]] [[H9009\|הַ]][[H2416A\|חַ֔י]] [[H9002\|וְ]][[H4191\|הָמֵ֖ת]] [[H3808\|לֹ֣א]] [[H4191\|תְמִיתֻ֑]][[H9033\|הוּ]] [[H1931\|הִ֖יא]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TACT|TACT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.26|<< 1 Kings 3:26]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.28|1 Kings 3:28 >>]]</td></tr></table>
 

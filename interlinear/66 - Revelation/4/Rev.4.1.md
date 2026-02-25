@@ -1,10 +1,68 @@
+---
+title: Revelation 4:1
+type: Verse
+kjv: "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter."
+bsb: "After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”"
+greek: "Μετὰ ταῦτα εἶδον, καὶ ἰδοὺ θύρα ἠνεῳγμένη ἐν τῷ οὐρανῷ, καὶ ἡ φωνὴ ἡ πρώτη ἣν ἤκουσα ὡς σάλπιγγος λαλούσης μετ᾽ ἐμοῦ λέγων· ἀνάβα ὧδε, καὶ δείξω σοι ἃ δεῖ γενέσθαι μετὰ ταῦτα."
+pericope: "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G2374]]"
+- "[[G0455]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G5456G]]"
+- "[[G4413G]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G5613]]"
+- "[[G4536]]"
+- "[[G2980]]"
+- "[[G1473]]"
+- "[[G3004G]]"
+- "[[G0305]]"
+- "[[G5602]]"
+- "[[G1166]]"
+- "[[G4771]]"
+- "[[G1163]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 4:1**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this I looked, and, behold, a door [was] opened in heaven: and the first voice which I heard [was] as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
 <small><sub>**BSB:**</sub></small>
 After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”
-<small><sub>**Literal:**</sub></small>
-After these things I looked, and behold a door opened in <the> heaven, and the voice <the> first that I heard like a trumpet was speaking with me saying; do come up here, and I will show to you what it behooves to take place after these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.22|<< Revelation 3:22]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.2|Revelation 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|ταῦτα]]  [[G1492H\|εἶδον,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2374\|θύρα]]  [[G0455\|ἠνεῳγμένη]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5456G\|φωνὴ]]  [[G3588\|ἡ]]  [[G4413G\|πρώτη]]  [[G3739\|ἣν]]  [[G0191\|ἤκουσα]]  [[G5613\|ὡς]]  [[G4536\|σάλπιγγος]]  [[G2980\|λαλούσης]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G3004G\|λέγων·]]  [[G0305\|ἀνάβα]]  [[G5602\|ὧδε,]]  [[G2532\|καὶ]]  [[G1166\|δείξω]]  [[G4771\|σοι]]  [[G3739\|ἃ]]  [[G1163\|δεῖ]]  [[G1096\|γενέσθαι]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.22|<< Revelation 3:22]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.2|Revelation 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Joshua 22:23
+type: Verse
+kjv: "That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require it;"
+bsb: "If we have built for ourselves an altar to turn away from Him and to offer burnt offerings and grain offerings on it, or to sacrifice peace offerings on it, may the LORD Himself hold us accountable."
+hebrew: "לִבְנ֥וֹת לָ֙נוּ֙ מִזְבֵּ֔חַ לָשׁ֖וּב מֵאַחֲרֵ֣י יְהוָ֑ה וְאִם־ לְהַעֲל֨וֹת עָלָ֜יו עוֹלָ֣ה וּמִנְחָ֗ה וְאִם־ לַעֲשׂ֤וֹת עָלָיו֙ זִבְחֵ֣י שְׁלָמִ֔ים יְהוָ֖ה ה֥וּא יְבַקֵּֽשׁ׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9035]]"
+- "[[H4196]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5927I]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5930A]]"
+- "[[H4503G]]"
+- "[[H6213I]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H1931]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:23**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require [it];
 <small><sub>**BSB:**</sub></small>
 If we have built for ourselves an altar to turn away from Him and to offer burnt offerings and grain offerings on it, or to sacrifice peace offerings on it, may the LORD Himself hold us accountable.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1129\|בְנ֥וֹת]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H4196\|מִזְבֵּ֔חַ]] [[H9005\|לָ]][[H7725I\|שׁ֖וּב]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9005\|לְ]][[H5927I\|הַעֲל֨וֹת]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H5930A\|עוֹלָ֣ה]] [[H9002\|וּ]][[H4503G\|מִנְחָ֗ה]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9005\|לַ]][[H6213I\|עֲשׂ֤וֹת]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H2077\|זִבְחֵ֣י]] [[H8002\|שְׁלָמִ֔ים]] [[H3068G\|יְהוָ֖ה]] [[H1931\|ה֥וּא]] [[H1245\|יְבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.22|<< Joshua 22:22]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.24|Joshua 22:24 >>]]</td></tr></table>
 

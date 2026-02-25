@@ -1,8 +1,52 @@
+---
+title: Isaiah 52:13
+type: Verse
+kjv: "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high."
+bsb: "Behold, My Servant will prosper; He will be raised and lifted up and highly exalted."
+hebrew: "הִנֵּ֥ה יַשְׂכִּ֖יל עַבְדִּ֑י יָר֧וּם וְנִשָּׂ֛א וְגָבַ֖הּ מְאֹֽד׃"
+pericope: "[[Isa.52.13 The Servant Exalted|The Servant Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H2009]]"
+- "[[H7919A]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H7311A]]"
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H1361]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:13**<big><big>[[Isa.52.13 The Servant Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.
 <small><sub>**BSB:**</sub></small>
 Behold, My Servant will prosper; He will be raised and lifted up and highly exalted.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H7919A\|יַשְׂכִּ֖יל]] [[H5650\|עַבְדִּ֑]][[H9020\|י]] [[H7311A\|יָר֧וּם]] [[H9001\|וְ]][[H5375G\|נִשָּׂ֛א]] [[H9001\|וְ]][[H1361\|גָבַ֖הּ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.12|<< Isaiah 52:12]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.14|Isaiah 52:14 >>]]</td></tr></table>
 

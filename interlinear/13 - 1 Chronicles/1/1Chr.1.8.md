@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 1:8
+type: Verse
+kjv: "The sons of Ham; Cush, and Mizraim, Put, and Canaan."
+bsb: "The sons of Ham: Cush, Mizraim, Put, and Canaan."
+hebrew: "בְּנֵ֖י חָ֑ם כּ֥וּשׁ וּמִצְרַ֖יִם פּ֥וּט וּכְנָֽעַן׃"
+pericope: "[[1Chr.1.1 From Adam to Abraham|From Adam to Abraham]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CUSH|CUSH]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HAM|HAM]]"
+- "[[topic MIZRAIM|MIZRAIM]]"
+- "[[topic PHUT|PHUT]]"
+strongs:
+- "[[H1121A]]"
+- "[[H2526G]]"
+- "[[H3568G]]"
+- "[[H9002]]"
+- "[[H4714H]]"
+- "[[H6316G]]"
+- "[[H3667G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:8**<big><big>[[1Chr.1.1 From Adam to Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 <small><sub>**BSB:**</sub></small>
 The sons of Ham: Cush, Mizraim, Put, and Canaan.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֖י]] [[H2526G\|חָ֑ם]] [[H3568G\|כּ֥וּשׁ]] [[H9002\|וּ]][[H4714H\|מִצְרַ֖יִם]] [[H6316G\|פּ֥וּט]] [[H9002\|וּ]][[H3667G\|כְנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic CUSH|CUSH]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HAM|HAM]] • [[topic MIZRAIM|MIZRAIM]] • [[topic PHUT|PHUT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.7|<< 1 Chronicles 1:7]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.9|1 Chronicles 1:9 >>]]</td></tr></table>
 

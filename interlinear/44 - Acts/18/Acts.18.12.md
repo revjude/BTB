@@ -1,10 +1,60 @@
+---
+title: Acts 18:12
+type: Verse
+kjv: "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
+bsb: "While Gallio was proconsul of Achaia, the Jews coordinated an attack on Paul and brought him before the judgment seat."
+greek: "Γαλλίωνος δὲ ἀνθυπάτου ὄντος τῆς Ἀχαΐας κατεπέστησαν ὁμοθυμαδὸν οἱ Ἰουδαῖοι τῷ Παύλῳ καὶ ἤγαγον αὐτὸν ἐπὶ τὸ βῆμα,"
+pericope: "[[Acts.18.12 Paul before Gallio|Paul before Gallio]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DEPUTY|DEPUTY]]"
+- "[[topic GALLIO|GALLIO]]"
+- "[[topic JUDGMENT-SEAT|JUDGMENT-SEAT]]"
+- "[[topic NOLLE PROSEQUI|NOLLE PROSEQUI]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1058]]"
+- "[[G1161]]"
+- "[[G0446]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0882]]"
+- "[[G2721]]"
+- "[[G3661]]"
+- "[[G2453]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G0968]]"
+texts:
+- NKO
+---
+
 **Acts 18:12**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,
 <small><sub>**BSB:**</sub></small>
 While Gallio was proconsul of Achaia, the Jews coordinated an attack on Paul and brought him before the judgment seat.
-<small><sub>**Literal:**</sub></small>
-When Gallio however proconsul being <the> of Achaia rose up with one accord the Jews <the> against Paul and led him to the judgment seat,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.11|<< Acts 18:11]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.13|Acts 18:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1058\|Γαλλίωνος]]  [[G1161\|δὲ]]  [[G0446\|ἀνθυπάτου]]  [[G1510\|ὄντος]]  [[G3588\|τῆς]]  [[G0882\|Ἀχαΐας]]  [[G2721\|κατεπέστησαν]]  [[G3661\|ὁμοθυμαδὸν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2532\|καὶ]]  [[G0071\|ἤγαγον]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0968\|βῆμα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DEPUTY|DEPUTY]] • [[topic GALLIO|GALLIO]] • [[topic JUDGMENT-SEAT|JUDGMENT-SEAT]] • [[topic NOLLE PROSEQUI|NOLLE PROSEQUI]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.11|<< Acts 18:11]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.13|Acts 18:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

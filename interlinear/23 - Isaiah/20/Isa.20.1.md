@@ -1,8 +1,61 @@
+---
+title: Isaiah 20:1
+type: Verse
+kjv: "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;"
+bsb: "Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,"
+hebrew: "בִּשְׁנַ֨ת בֹּ֤א תַרְתָּן֙ אַשְׁדּ֔וֹדָה בִּשְׁלֹ֣ח אֹת֔וֹ סַֽרְג֖וֹן מֶ֣לֶךְ אַשּׁ֑וּר וַיִּלָּ֥חֶם בְּאַשְׁדּ֖וֹד וַֽיִּלְכְּדָֽהּ׃"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SARGON|SARGON]]"
+- "[[topic TARTAN|TARTAN]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0935G]]"
+- "[[H8661]]"
+- "[[H0795]]"
+- "[[H9011]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5623]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 20:1**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
 <small><sub>**BSB:**</sub></small>
 Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H0935G\|בֹּ֤א]] [[H8661\|תַרְתָּן֙]] [[H0795\|אַשְׁדּ֔וֹדָ]][[H9011\|ה]] [[H9003\|בִּ]][[H7971G\|שְׁלֹ֣ח]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5623\|סַֽרְג֖וֹן]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֑וּר]] [[H9001\|וַ]][[H3898A\|יִּלָּ֥חֶם]] [[H9003\|בְּ]][[H0795\|אַשְׁדּ֖וֹד]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּדָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHDOD|ASHDOD]] • [[topic ISAIAH|ISAIAH]] • [[topic SARGON|SARGON]] • [[topic TARTAN|TARTAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.25|<< Isaiah 19:25]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.2|Isaiah 20:2 >>]]</td></tr></table>
 

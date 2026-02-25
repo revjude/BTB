@@ -1,10 +1,62 @@
+---
+title: Acts 17:30
+type: Verse
+kjv: "And the times of this ignorance God winked at; but now commandeth all men every where to repent:"
+bsb: "Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent."
+greek: "τοὺς μὲν οὖν χρόνους τῆς ἀγνοίας ὑπεριδὼν ὁ θεὸς τὰ νῦν παραγγέλλει τοῖς ἀνθρώποις πάντας πανταχοῦ μετανοεῖν·"
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G5550]]"
+- "[[G0052]]"
+- "[[G5237]]"
+- "[[G2316]]"
+- "[[G3568]]"
+- "[[G3853]]"
+- "[[G0444]]"
+- "[[G3956]]"
+- "[[G3837]]"
+- "[[G3340]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Acts 17:30**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the times of this ignorance God winked at; but now commandeth all men every where to repent:
 <small><sub>**BSB:**</sub></small>
 Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent.
-<small><sub>**Literal:**</sub></small>
-The indeed therefore times <the> of ignorance having overlooked <the> God <the> now He commands <the> to men all everywhere to repent;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.29|<< Acts 17:29]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.31|Acts 17:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G5550\|χρόνους]]  [[G3588\|τῆς]]  [[G0052\|ἀγνοίας]]  [[G5237\|ὑπεριδὼν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὰ]]  [[G3568\|νῦν]]  [[G3853\|παραγγέλλει]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις]]  [[G3956\|πάντας]]  [[G3837\|πανταχοῦ]]  [[G3340\|μετανοεῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.29|<< Acts 17:29]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.31|Acts 17:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

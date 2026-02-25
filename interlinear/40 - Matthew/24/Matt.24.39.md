@@ -1,10 +1,60 @@
+---
+title: Matthew 24:39
+type: Verse
+kjv: "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+bsb: "And they were oblivious until the flood came and swept them all away. So will it be at the coming of the Son of Man."
+jesus_said: "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+greek: "καὶ οὐκ ἔγνωσαν ἕως ἦλθεν ὁ κατακλυσμὸς καὶ ἦρεν ἅπαντας, οὕτως ἔσται καὶ ἡ παρουσία τοῦ υἱοῦ τοῦ ἀνθρώπου.¶"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G2193]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2627]]"
+- "[[G0142]]"
+- "[[G0537]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G3952]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Matthew 24:39**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
 <small><sub>**BSB:**</sub></small>
 And they were oblivious until the flood came and swept them all away. So will it be at the coming of the Son of Man.
-<small><sub>**Literal:**</sub></small>
-And not they knew until came the flood and took away all, thus will be also the coming of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.38|<< Matthew 24:38]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.40|Matthew 24:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G2193\|ἕως]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2627\|κατακλυσμὸς]]  [[G2532\|καὶ]]  [[G0142\|ἦρεν]]  [[G0537\|ἅπαντας,]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3952\|παρουσία]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic EARTH|EARTH]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.38|<< Matthew 24:38]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.40|Matthew 24:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

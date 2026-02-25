@@ -1,8 +1,59 @@
+---
+title: Joel 1:2
+type: Verse
+kjv: "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?"
+bsb: "Hear this, O elders; and give ear, all who dwell in the land. Has anything like this ever happened in your days or in the days of your fathers?"
+hebrew: "שִׁמְעוּ־ זֹאת֙ הַזְּקֵנִ֔ים וְהַֽאֲזִ֔ינוּ כֹּ֖ל יוֹשְׁבֵ֣י הָאָ֑רֶץ הֶהָ֤יְתָה זֹּאת֙ בִּֽימֵיכֶ֔ם וְאִ֖ם בִּימֵ֥י אֲבֹֽתֵיכֶֽם׃"
+pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H9002]]"
+- "[[H0238]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9008]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9026]]"
+- "[[H0518A]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:2**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?
 <small><sub>**BSB:**</sub></small>
 Hear this, O elders; and give ear, all who dwell in the land. Has anything like this ever happened in your days or in the days of your fathers?
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֔ים]] [[H9002\|וְ]][[H0238\|הַֽאֲזִ֔ינוּ]] [[H3605\|כֹּ֖ל]] [[H3427\|יוֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9008\|הֶ]][[H1961\|הָ֤יְתָה]] [[H2063\|זֹּאת֙]] [[H9003\|בִּֽ]][[H3117G\|ימֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H0518A\|אִ֖ם]] [[H9003\|בִּ]][[H3117G\|ימֵ֥י]] [[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.1|<< Joel 1:1]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.3|Joel 1:3 >>]]</td></tr></table>
 

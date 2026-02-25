@@ -1,8 +1,60 @@
+---
+title: Jeremiah 48:38
+type: Verse
+kjv: "There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the LORD."
+bsb: "On all the rooftops of Moab and in the public squares, everyone is mourning; for I have shattered Moab like an unwanted jar,” declares the LORD."
+hebrew: "עַ֣ל כָּל־ גַּגּ֥וֹת מוֹאָ֛ב וּבִרְחֹבֹתֶ֖יהָ כֻּלֹּ֣ה מִסְפֵּ֑ד כִּֽי־ שָׁבַ֣רְתִּי אֶת־ מוֹאָ֗ב כִּכְלִ֛י אֵֽין־ חֵ֥פֶץ בּ֖וֹ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1406]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H9024]]"
+- "[[H9023]]"
+- "[[H4553]]"
+- "[[H3588A]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H3627]]"
+- "[[H0369]]"
+- "[[H2656]]"
+- "[[H9033]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:38**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There shall be] lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein [is] no pleasure, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 On all the rooftops of Moab and in the public squares, everyone is mourning; for I have shattered Moab like an unwanted jar,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1406\|גַּגּ֥וֹת]] [[H4124G\|מוֹאָ֛ב]] [[H9002\|וּ]][[H9003\|בִ]][[H7339\|רְחֹבֹתֶ֖י]][[H9024\|הָ]] [[H3605\|כֻּלֹּ֣]][[H9023\|ה]] [[H4553\|מִסְפֵּ֑ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7665\|שָׁבַ֣רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֗ב]] [[H9004\|כִּ]][[H3627\|כְלִ֛י]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2656\|חֵ֥פֶץ]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.37|<< Jeremiah 48:37]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.39|Jeremiah 48:39 >>]]</td></tr></table>
 

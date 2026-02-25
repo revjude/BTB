@@ -1,8 +1,69 @@
+---
+title: Numbers 22:11
+type: Verse
+kjv: "Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out."
+bsb: "‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”"
+hebrew: "הִנֵּ֤ה הָעָם֙ הַיֹּצֵ֣א מִמִּצְרַ֔יִם וַיְכַ֖ס אֶת־ עֵ֣ין הָאָ֑רֶץ עַתָּ֗ה לְכָ֤ה קָֽבָה־ לִּי֙ אֹת֔וֹ אוּלַ֥י אוּכַ֛ל לְהִלָּ֥חֶם בּ֖וֹ וְגֵרַשְׁתִּֽיו׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869J]]"
+- "[[H0776G]]"
+- "[[H6258]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H6895]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9033]]"
+- "[[H0194]]"
+- "[[H3201]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H1644G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:11**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [there is] a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
 <small><sub>**BSB:**</sub></small>
 ‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9009\|הַ]][[H3318G\|יֹּצֵ֣א]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9001\|וַ]][[H3680\|יְכַ֖ס]] [[H0853\|אֶת]][[H9014\|־]] [[H5869J\|עֵ֣ין]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H6258\|עַתָּ֗ה]] [[H1980K\|לְכָ֤]][[H9012\|ה]] [[H6895\|קָֽבָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ]][[H9030\|י֙]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0194\|אוּלַ֥י]] [[H3201\|אוּכַ֛ל]] [[H9005\|לְ]][[H3898A\|הִלָּ֥חֶם]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9001\|וְ]][[H1644G\|גֵרַשְׁתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.10|<< Numbers 22:10]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.12|Numbers 22:12 >>]]</td></tr></table>
 

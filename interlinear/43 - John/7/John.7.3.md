@@ -1,10 +1,62 @@
+---
+title: John 7:3
+type: Verse
+kjv: "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest."
+bsb: "So Jesus’ brothers said to Him, “Leave here and go to Judea, so that Your disciples there may see the works You are doing."
+greek: "εἶπον οὖν πρὸς αὐτὸν οἱ ἀδελφοὶ αὐτοῦ· μετάβηθι ἐντεῦθεν καὶ ὕπαγε εἰς τὴν Ἰουδαίαν ἵνα καὶ οἱ μαθηταί σου θεωρήσουσιν σοῦ τὰ ἔργα ἃ ποιεῖς·"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3327]]"
+- "[[G1782]]"
+- "[[G2532]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G2449]]"
+- "[[G2443]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G2334]]"
+- "[[G2041]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:3**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.
 <small><sub>**BSB:**</sub></small>
 So Jesus’ brothers said to Him, “Leave here and go to Judea, so that Your disciples there may see the works You are doing.
-<small><sub>**Literal:**</sub></small>
-Said therefore to Him the brothers of Him; do depart from here and do go into <the> Judea so that also the disciples of You will see of You the works that You are doing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.2|<< John 7:2]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.4|John 7:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ·]]  [[G3327\|μετάβηθι]]  [[G1782\|ἐντεῦθεν]]  [[G2532\|καὶ]]  [[G5217\|ὕπαγε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2449\|Ἰουδαίαν]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί]]  [[G4771\|σου]]  [[G2334\|θεωρήσουσιν]]  [[G4771\|σοῦ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3739\|ἃ]]  [[G4160G\|ποιεῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.2|<< John 7:2]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.4|John 7:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,60 @@
+---
+title: LXX 1 Samuel 21:7
+type: Verse
+lxx: "And there was a certain one there of the servants of Saul in  that day, being held before the lord, and the name to him was Doeg the Edomite, feeding the mules of Saul."
+greek: "και ην τις εκεί των δούλων Σαούλ εν τη ημέρα εκείνη συνεχόμενος ενώπιον κυρίου και όνομα αυτώ Δωήγ ο Ιδουμαίος νέμων τας ημιόνους Σαούλ"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DOEG|DOEG]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G5100]]"
+- "[[G1563]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G4549]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G4912]]"
+- "[[G1799]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[H1673]]"
+- "[[G3588]]"
+- "[[H0123]]"
+- "[[G8385]]"
+- "[[G3588]]"
+- "[[G7629]]"
+- "[[G4549]]"
+---
+
 **LXX 1 Samuel 21:7** 
 <small><sub>**LXX:**</sub></small>
 And there was a certain one there of the servants of Saul in  that day, being held before \[the\] <span class="smallcaps">lord</span>, and \[the\] name to him \[was\] Doeg the Edomite, feeding the mules of Saul. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|ην]] [[G5100\|τις]] [[G1563\|εκεί]] [[G3588\|των]] [[G1401\|δούλων]] [[G4549\|Σαούλ]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G4912\|συνεχόμενος]] [[G1799\|ενώπιον]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3686\|όνομα]] [[G1473\|αυτώ]] [[H1673\|Δωήγ]] [[G3588\|ο]] [[H0123\|Ιδουμαίος]] [[G8385\|νέμων]] [[G3588\|τας]] [[G7629\|ημιόνους]] [[G4549\|Σαούλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic DOEG|DOEG]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.6|<< 1 Samuel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.8|1 Samuel 21:8 >>]]</td></tr></table>
 
@@ -29,6 +83,6 @@ And there was a certain one there of the servants of Saul in  that day, being he
 | the | **<big>[[G3588\|τας]]</big>** |
 | mules | **<big>[[G7629\|ημιόνους]]</big>** |
 | of Saul. | **<big>[[G4549\|Σαούλ]]</big>** |
-[[1Sam.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.6|<< 1 Samuel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.8|1 Samuel 21:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.6|<< 1 Samuel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.8|1 Samuel 21:8 >>]]</td></tr></table>
 
 

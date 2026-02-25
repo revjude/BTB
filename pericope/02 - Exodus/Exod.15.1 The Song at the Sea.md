@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song at the Sea
+type: Pericope
 pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 15
 book/chapter: "[[Exod.15|Exodus 15]]"
-genre:
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 21
 verses:
 - "[[Exod.15.1]]"
 - "[[Exod.15.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Exod.15.21]]"
 ---
 
-[[Exod.15|Exodus 15:1 - Exodus 15:21]]
+<small>[[Exod.15|Exodus 15:1-21]]</small>
 *The Song at the Sea*
 
 [[Exod.15.1|1]] Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.

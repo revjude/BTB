@@ -1,8 +1,67 @@
+---
+title: Isaiah 43:2
+type: Verse
+kjv: "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee."
+bsb: "When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze."
+hebrew: "כִּֽי־ תַעֲבֹ֤ר בַּמַּ֙יִם֙ אִתְּךָ־ אָ֔נִי וּבַנְּהָר֖וֹת לֹ֣א יִשְׁטְפ֑וּךָ כִּֽי־ תֵלֵ֤ךְ בְּמוֹ־ אֵשׁ֙ לֹ֣א תִכָּוֶ֔ה וְלֶהָבָ֖ה לֹ֥א תִבְעַר־ בָּֽךְ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H5104H]]"
+- "[[H3808]]"
+- "[[H7857]]"
+- "[[H1980I]]"
+- "[[H1119]]"
+- "[[H0784]]"
+- "[[H3554]]"
+- "[[H3852]]"
+- "[[H1197A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:2**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou passest through the waters, I [will be] with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
 <small><sub>**BSB:**</sub></small>
 When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5674A\|תַעֲבֹ֤ר]] [[H9003\|בַּ]][[H4325G\|מַּ֙יִם֙]] [[H0854\|אִתְּ]][[H9031\|ךָ]][[H9014\|־]] [[H0589\|אָ֔נִי]] [[H9002\|וּ]][[H9003\|בַ]][[H5104H\|נְּהָר֖וֹת]] [[H3808\|לֹ֣א]] [[H7857\|יִשְׁטְפ֑וּ]][[H9031\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1980I\|תֵלֵ֤ךְ]] [[H1119\|בְּמוֹ]][[H9014\|־]] [[H0784\|אֵשׁ֙]] [[H3808\|לֹ֣א]] [[H3554\|תִכָּוֶ֔ה]] [[H9002\|וְ]][[H3852\|לֶהָבָ֖ה]] [[H3808\|לֹ֥א]] [[H1197A\|תִבְעַר]][[H9014\|־]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.1|<< Isaiah 43:1]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.3|Isaiah 43:3 >>]]</td></tr></table>
 

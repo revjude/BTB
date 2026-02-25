@@ -1,8 +1,68 @@
+---
+title: Leviticus 13:45
+type: Verse
+kjv: "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
+bsb: "A diseased person must wear torn clothes and let his hair hang loose, and he must cover his mouth and cry out, ‘Unclean, unclean!’"
+hebrew: "וְהַצָּר֜וּעַ אֲשֶׁר־ בּ֣וֹ הַנֶּ֗גַע בְּגָדָ֞יו יִהְי֤וּ פְרֻמִים֙ וְרֹאשׁוֹ֙ יִהְיֶ֣ה פָר֔וּעַ וְעַל־ שָׂפָ֖ם יַעְטֶ֑ה וְטָמֵ֥א׀ טָמֵ֖א יִקְרָֽא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6879]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H6533]]"
+- "[[H7218A]]"
+- "[[H6544B]]"
+- "[[H5921A]]"
+- "[[H8222]]"
+- "[[H5844A]]"
+- "[[H2931]]"
+- "[[H9015]]"
+- "[[H7121I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:45**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the leper in whom the plague [is], his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.
 <small><sub>**BSB:**</sub></small>
 A diseased person must wear torn clothes and let his hair hang loose, and he must cover his mouth and cry out, ‘Unclean, unclean!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6879\|צָּר֜וּעַ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֣]][[H9033\|וֹ]] [[H9009\|הַ]][[H5061\|נֶּ֗גַע]] [[H0899B\|בְּגָדָ֞י]][[H9023\|ו]] [[H1961\|יִהְי֤וּ]] [[H6533\|פְרֻמִים֙]] [[H9002\|וְ]][[H7218A\|רֹאשׁ]][[H9023\|וֹ֙]] [[H1961\|יִהְיֶ֣ה]] [[H6544B\|פָר֔וּעַ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8222\|שָׂפָ֖ם]] [[H5844A\|יַעְטֶ֑ה]] [[H9002\|וְ]][[H2931\|טָמֵ֥א]][[H9015\|׀]] [[H2931\|טָמֵ֖א]] [[H7121I\|יִקְרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic MOURNING|MOURNING]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.44|<< Leviticus 13:44]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.46|Leviticus 13:46 >>]]</td></tr></table>
 

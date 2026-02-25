@@ -1,10 +1,57 @@
+---
+title: Mark 15:4
+type: Verse
+kjv: "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee."
+bsb: "Then Pilate questioned Him again, “Have You no answer? Look how many charges they are bringing against You!”"
+greek: "Ὁ δὲ Πιλᾶτος πάλιν ἐπηρώτα αὐτὸν λέγων· οὐκ ἀποκρίνῃ οὐδέν; ἴδε πόσα σου κατηγοροῦσιν.¶"
+pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4091]]"
+- "[[G3825]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G3762]]"
+- "[[G2396]]"
+- "[[G4214]]"
+- "[[G4771]]"
+- "[[G2723]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 15:4**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.
 <small><sub>**BSB:**</sub></small>
 Then Pilate questioned Him again, “Have You no answer? Look how many charges they are bringing against You!”
-<small><sub>**Literal:**</sub></small>
-<the> And Pilate again was questioning Him saying; Not answer You no [thing]? See how many things You they accuse!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.3|<< Mark 15:3]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.5|Mark 15:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4091\|Πιλᾶτος]]  [[G3825\|πάλιν]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγων·]]  [[G3756\|οὐκ]]  [[G0611\|ἀποκρίνῃ]]  [[G3762\|οὐδέν;]]  [[G2396\|ἴδε]]  [[G4214\|πόσα]]  [[G4771\|σου]]  [[G2723\|κατηγοροῦσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.3|<< Mark 15:3]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.5|Mark 15:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

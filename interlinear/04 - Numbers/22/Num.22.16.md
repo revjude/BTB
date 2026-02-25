@@ -1,8 +1,67 @@
+---
+title: Numbers 22:16
+type: Verse
+kjv: "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:"
+bsb: "They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing hinder you from coming to me,"
+hebrew: "וַיָּבֹ֖אוּ אֶל־ בִּלְעָ֑ם וַיֹּ֣אמְרוּ ל֗וֹ כֹּ֤ה אָמַר֙ בָּלָ֣ק בֶּן־ צִפּ֔וֹר אַל־ נָ֥א תִמָּנַ֖ע מֵהֲלֹ֥ךְ אֵלָֽי׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAK|BALAK]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic ZIPPOR|ZIPPOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H1111]]"
+- "[[H1121A]]"
+- "[[H6834]]"
+- "[[H0408]]"
+- "[[H4994]]"
+- "[[H4513]]"
+- "[[H9006]]"
+- "[[H1980H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:16**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
 <small><sub>**BSB:**</sub></small>
 They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing hinder you from coming to me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H1111\|בָּלָ֣ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6834\|צִפּ֔וֹר]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֥א]] [[H4513\|תִמָּנַ֖ע]] [[H9006\|מֵ]][[H1980H\|הֲלֹ֥ךְ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAK|BALAK]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic TEMPTATION|TEMPTATION]] • [[topic ZIPPOR|ZIPPOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.15|<< Numbers 22:15]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.17|Numbers 22:17 >>]]</td></tr></table>
 

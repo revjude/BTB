@@ -1,8 +1,52 @@
+---
+title: Jeremiah 16:8
+type: Verse
+kjv: "Thou shalt not also go into the house of feasting, to sit with them to eat and to drink."
+bsb: "You must not enter a house where there is feasting and sit down with them to eat and drink."
+hebrew: "וּבֵית־ מִשְׁתֶּ֥ה לֹא־ תָב֖וֹא לָשֶׁ֣בֶת אוֹתָ֑ם לֶאֱכֹ֖ל וְלִשְׁתּֽוֹת׃ ס"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H4960]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 16:8**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not also go into the house of feasting, to sit with them to eat and to drink.
 <small><sub>**BSB:**</sub></small>
 You must not enter a house where there is feasting and sit down with them to eat and drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1004B\|בֵית]][[H9014\|־]] [[H4960\|מִשְׁתֶּ֥ה]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|תָב֖וֹא]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H0854\|אוֹתָ֑]][[H9038\|ם]] [[H9005\|לֶ]][[H0398\|אֱכֹ֖ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8354\|שְׁתּֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.7|<< Jeremiah 16:7]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.9|Jeremiah 16:9 >>]]</td></tr></table>
 
@@ -15,7 +59,7 @@ You must not enter a house where there is feasting and sit down with them to eat
 | to sit  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3427\|שֶׁ֣בֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with them  |**<big>&#8207;[[H0854\|אוֹתָ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to eat  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֹ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and to drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and to drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.7|<< Jeremiah 16:7]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.9|Jeremiah 16:9 >>]]</td></tr></table>
 
 

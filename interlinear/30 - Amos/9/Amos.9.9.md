@@ -1,8 +1,67 @@
+---
+title: Amos 9:9
+type: Verse
+kjv: "For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth."
+bsb: "“For surely I will give the command, and I will shake the house of Israel among all the nations as grain is sifted in a sieve; but not a pebble will reach the ground."
+hebrew: "כִּֽי־ הִנֵּ֤ה אָֽנֹכִי֙ מְצַוֶּ֔ה וַהֲנִע֥וֹתִי בְכָֽל־ הַגּוֹיִ֖ם אֶת־ בֵּ֣ית יִשְׂרָאֵ֑ל כַּאֲשֶׁ֤ר יִנּ֙וֹעַ֙ בַּכְּבָרָ֔ה וְלֹֽא־ יִפּ֥וֹל צְר֖וֹר אָֽרֶץ׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIEVE|SIEVE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9001]]"
+- "[[H5128]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3531]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5307G]]"
+- "[[H6872B]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:9**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, I will command, and I will sift the house of Israel among all nations, like as [corn] is sifted in a sieve, yet shall not the least grain fall upon the earth.
 <small><sub>**BSB:**</sub></small>
 “For surely I will give the command, and I will shake the house of Israel among all the nations as grain is sifted in a sieve; but not a pebble will reach the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H0595\|אָֽנֹכִי֙]] [[H6680\|מְצַוֶּ֔ה]] [[H9001\|וַ]][[H5128\|הֲנִע֥וֹתִי]] [[H9003\|בְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H5128\|יִנּ֙וֹעַ֙]] [[H9003\|בַּ]][[H3531\|כְּבָרָ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5307G\|יִפּ֥וֹל]] [[H6872B\|צְר֖וֹר]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic SIEVE|SIEVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.8|<< Amos 9:8]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.10|Amos 9:10 >>]]</td></tr></table>
 

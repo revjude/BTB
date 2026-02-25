@@ -1,8 +1,70 @@
+---
+title: Numbers 21:4
+type: Verse
+kjv: "And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way."
+bsb: "Then they set out from Mount Hor along the route to the Red Sea, in order to bypass the land of Edom. But the people grew impatient on the journey"
+hebrew: "וַיִּסְע֞וּ מֵהֹ֤ר הָהָר֙ דֶּ֣רֶךְ יַם־ ס֔וּף לִסְבֹ֖ב אֶת־ אֶ֣רֶץ אֱד֑וֹם וַתִּקְצַ֥ר נֶֽפֶשׁ־ הָעָ֖ם בַּדָּֽרֶךְ׃"
+pericope: "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOR|HOR]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H2023G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H1870K]]"
+- "[[H3220G]]"
+- "[[H9014]]"
+- "[[H5488G]]"
+- "[[H9005]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H7114A]]"
+- "[[H5315I]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:4**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
 <small><sub>**BSB:**</sub></small>
 Then they set out from Mount Hor along the route to the Red Sea, in order to bypass the land of Edom. But the people grew impatient on the journey
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֞וּ]] [[H9006\|מֵ]][[H2023G\|הֹ֤ר]] [[H9009\|הָ]][[H2022G\|הָר֙]] [[H1870K\|דֶּ֣רֶךְ]] [[H3220G\|יַם]][[H9014\|־]] [[H5488G\|ס֔וּף]] [[H9005\|לִ]][[H5437H\|סְבֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H0123G\|אֱד֑וֹם]] [[H9001\|וַ]][[H7114A\|תִּקְצַ֥ר]] [[H5315I\|נֶֽפֶשׁ]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בַּ]][[H1870K\|דָּֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOR|HOR]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic RED SEA|RED SEA]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.3|<< Numbers 21:3]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.5|Numbers 21:5 >>]]</td></tr></table>
 

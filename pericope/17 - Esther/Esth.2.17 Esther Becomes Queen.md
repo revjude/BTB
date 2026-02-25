@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esther Becomes Queen
+type: Pericope
 pericope: "[[Esth.2.17 Esther Becomes Queen|Esther Becomes Queen]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 2
 book/chapter: "[[Esth.2|Esther 2]]"
-genre:
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 4
 verses:
 - "[[Esth.2.17]]"
 - "[[Esth.2.18]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Esth.2.20]]"
 ---
 
-[[Esth.2|Esther 2:17 - Esther 2:20]]
+<small>[[Esth.2|Esther 2:17-20]]</small>
 *Esther Becomes Queen*
 
 [[Esth.2.17|17]] And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti.

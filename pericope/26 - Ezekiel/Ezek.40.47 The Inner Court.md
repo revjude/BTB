@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Inner Court
+type: Pericope
 pericope: "[[Ezek.40.47 The Inner Court|The Inner Court]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.40.47]]"
 - "[[Ezek.40.48]]"
 - "[[Ezek.40.49]]"
 ---
 
-[[Ezek.40|Ezekiel 40:47 - Ezekiel 40:49]]
+<small>[[Ezek.40|Ezekiel 40:47-49]]</small>
 *The Inner Court*
 
 [[Ezek.40.47|47]] So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar \[that was\] before the house.

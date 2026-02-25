@@ -1,8 +1,60 @@
+---
+title: Psalm 117:2
+type: Verse
+kjv: "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD."
+bsb: "For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!"
+hebrew: "כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ׀ חַסְדּ֗וֹ וֶֽאֱמֶת־ יְהוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־ יָֽהּ׃"
+pericope: "[[Ps.117.1 Extol Him, All You Peoples|Extol Him, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 117
+book/chapter: "[[Ps.117|Psalm 117]]"
+chronological_order: 879
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1396]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9015]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H1984B]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 117:2**<big><big>[[Ps.117.1 Extol Him, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For his merciful kindness is great toward us: and the truth of the LORD [endureth] for ever. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
 For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H1396\|גָ֘בַ֤ר]] [[H5921A\|עָלֵ֨י]][[H9035\|נוּ]][[H9015\|׀]] [[H2617A\|חַסְדּ֗]][[H9023\|וֹ]] [[H9002\|וֶֽ]][[H0571G\|אֱמֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לְ]][[H5769G\|עוֹלָ֗ם]] [[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.117.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.117.1|<< Psalms 117:1]]</td><td align="center" style="border:none;">[[Ps.117|Psalms 117]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.1|Psalms 118:1 >>]]</td></tr></table>
 

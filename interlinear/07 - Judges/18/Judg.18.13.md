@@ -1,8 +1,52 @@
+---
+title: Judges 18:13
+type: Verse
+kjv: "And they passed thence unto mount Ephraim, and came unto the house of Micah."
+bsb: "And from there they traveled to the hill country of Ephraim and came to Micah’s house."
+hebrew: "וַיַּעַבְר֥וּ מִשָּׁ֖ם הַר־ אֶפְרָ֑יִם וַיָּבֹ֖אוּ עַד־ בֵּ֥ית מִיכָֽה׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2022H]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H1004B]]"
+- "[[H4318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:13**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they passed thence unto mount Ephraim, and came unto the house of Micah.
 <small><sub>**BSB:**</sub></small>
 And from there they traveled to the hill country of Ephraim and came to Micah’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעַבְר֥וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H4318G\|מִיכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.12|<< Judges 18:12]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.14|Judges 18:14 >>]]</td></tr></table>
 

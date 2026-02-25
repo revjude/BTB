@@ -1,10 +1,56 @@
+---
+title: John 4:44
+type: Verse
+kjv: "For Jesus himself testified, that a prophet hath no honour in his own country."
+bsb: "Now He Himself had testified that a prophet has no honor in his own hometown."
+greek: "αὐτὸς γὰρ ὁ Ἰησοῦς ἐμαρτύρησεν ὅτι προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει.¶"
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3140]]"
+- "[[G3754G]]"
+- "[[G4396]]"
+- "[[G1722]]"
+- "[[G2398]]"
+- "[[G3968]]"
+- "[[G5092]]"
+- "[[G3756]]"
+- "[[G2192]]"
+texts:
+- NKO
+- k
+---
+
 **John 4:44**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Jesus himself testified, that a prophet hath no honour in his own country.
 <small><sub>**BSB:**</sub></small>
 Now He Himself had testified that a prophet has no honor in his own hometown.
-<small><sub>**Literal:**</sub></small>
-Himself for <the> Jesus testified that a prophet in the own hometown honor not has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.43|<< John 4:43]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.45|John 4:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3140\|ἐμαρτύρησεν]]  [[G3754G\|ὅτι]]  [[G4396\|προφήτης]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2398\|ἰδίᾳ]]  [[G3968\|πατρίδι]]  [[G5092\|τιμὴν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.43|<< John 4:43]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.45|John 4:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

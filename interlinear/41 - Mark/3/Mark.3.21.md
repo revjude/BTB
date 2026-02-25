@@ -1,10 +1,53 @@
+---
+title: Mark 3:21
+type: Verse
+kjv: "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself."
+bsb: "When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.”"
+greek: "καὶ ἀκούσαντες οἱ παρ᾽ αὐτοῦ ἐξῆλθον κρατῆσαι αὐτόν· ἔλεγον γὰρ ὅτι ἐξέστη."
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G2902]]"
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1839]]"
+texts:
+- NKO
+---
+
 **Mark 3:21**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when his friends heard [of it], they went out to lay hold on him: for they said, He is beside himself.
 <small><sub>**BSB:**</sub></small>
 When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.”
-<small><sub>**Literal:**</sub></small>
-And having heard [of it] those belonging to Him went out to seize Him; they were saying for that He is crazy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.20|<< Mark 3:20]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.22|Mark 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|οἱ]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτοῦ]]  [[G1831\|ἐξῆλθον]]  [[G2902\|κρατῆσαι]]  [[G0846\|αὐτόν·]]  [[G3004G\|ἔλεγον]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1839\|ἐξέστη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSANITY|INSANITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.20|<< Mark 3:20]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.22|Mark 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

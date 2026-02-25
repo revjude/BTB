@@ -1,8 +1,67 @@
+---
+title: Leviticus 17:7
+type: Verse
+kjv: "And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations."
+bsb: "They must no longer offer their sacrifices to the goat demons to which they have prostituted themselves. This will be a permanent statute for them for the generations to come.’"
+hebrew: "וְלֹא־ יִזְבְּח֥וּ עוֹד֙ אֶת־ זִבְחֵיהֶ֔ם לַשְּׂעִירִ֕ם אֲשֶׁ֛ר הֵ֥ם זֹנִ֖ים אַחֲרֵיהֶ֑ם חֻקַּ֥ת עוֹלָ֛ם תִּֽהְיֶה־ זֹּ֥את לָהֶ֖ם לְדֹרֹתָֽם׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic SATYR|SATYR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2076]]"
+- "[[H5750]]"
+- "[[H0853]]"
+- "[[H2077]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8163C]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H2063]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:7**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
 <small><sub>**BSB:**</sub></small>
 They must no longer offer their sacrifices to the goat demons to which they have prostituted themselves. This will be a permanent statute for them for the generations to come.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2076\|יִזְבְּח֥וּ]] [[H5750\|עוֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2077\|זִבְחֵי]][[H9028\|הֶ֔ם]] [[H9005\|לַ]][[H8163C\|שְּׂעִירִ֕ם]] [[H0834A\|אֲשֶׁ֛ר]] [[H1992\|הֵ֥ם]] [[H2181\|זֹנִ֖ים]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֑ם]] [[H2708\|חֻקַּ֥ת]] [[H5769G\|עוֹלָ֛ם]] [[H1961\|תִּֽהְיֶה]][[H9014\|־]] [[H2063\|זֹּ֥את]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H1755\|דֹרֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic SATYR|SATYR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.6|<< Leviticus 17:6]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.8|Leviticus 17:8 >>]]</td></tr></table>
 

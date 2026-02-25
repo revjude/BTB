@@ -1,10 +1,59 @@
+---
+title: Romans 8:36
+type: Verse
+kjv: "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
+bsb: "As it is written: “For Your sake we face death all day long; we are considered as sheep to be slaughtered.”"
+greek: "καθὼς γέγραπται ὅτι ἕνεκεν σοῦ θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς."
+pericope: "[[Rom.8.35 More than Conquerors|More than Conquerors]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G1752]]"
+- "[[G4771]]"
+- "[[G2289]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3049]]"
+- "[[G5613]]"
+- "[[G4263]]"
+- "[[G4967]]"
+texts:
+- NKO
+---
+
 **Romans 8:36**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
 <small><sub>**BSB:**</sub></small>
 As it is written: “For Your sake we face death all day long; we are considered as sheep to be slaughtered.”
-<small><sub>**Literal:**</sub></small>
-Even as it has been written that For the sake of you we face death all the day, we were regarded as sheep of slaughter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.35|<< Romans 8:35]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.37|Romans 8:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G1752\|ἕνεκεν]]  [[G4771\|σοῦ]]  [[G2289\|θανατούμεθα]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν,]]  [[G3049\|ἐλογίσθημεν]]  [[G5613\|ὡς]]  [[G4263\|πρόβατα]]  [[G4967\|σφαγῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.35|<< Romans 8:35]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.37|Romans 8:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 8:36** is...
 > $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]

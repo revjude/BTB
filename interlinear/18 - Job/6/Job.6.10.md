@@ -1,8 +1,61 @@
+---
+title: Job 6:10
+type: Verse
+kjv: "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One."
+bsb: "It still brings me comfort, and joy through unrelenting pain, that I have not denied the words of the Holy One."
+hebrew: "וּ֥תְהִי ע֨וֹד׀ נֶ֘חָ֤מָתִ֗י וַאֲסַלְּדָ֣ה בְ֭חִילָה לֹ֣א יַחְמ֑וֹל כִּי־ לֹ֥א כִ֝חַ֗דְתִּי אִמְרֵ֥י קָדֽוֹשׁ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H9015]]"
+- "[[H5165]]"
+- "[[H9020]]"
+- "[[H5539]]"
+- "[[H9003]]"
+- "[[H2427B]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3582]]"
+- "[[H0561]]"
+- "[[H6918G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:10**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.
 <small><sub>**BSB:**</sub></small>
 It still brings me comfort, and joy through unrelenting pain, that I have not denied the words of the Holy One.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֥]][[H1961\|תְהִי]] [[H5750\|ע֨וֹד]][[H9015\|׀]] [[H5165\|נֶ֘חָ֤מָתִ֗]][[H9020\|י]] [[H9002\|וַ]][[H5539\|אֲסַלְּדָ֣ה]] [[H9003\|בְ֭]][[H2427B\|חִילָה]] [[H3808\|לֹ֣א]] [[H2550\|יַחְמ֑וֹל]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H3582\|כִ֝חַ֗דְתִּי]] [[H0561\|אִמְרֵ֥י]] [[H6918G\|קָדֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.9|<< Job 6:9]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.11|Job 6:11 >>]]</td></tr></table>
 

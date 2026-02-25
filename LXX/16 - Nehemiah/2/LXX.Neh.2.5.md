@@ -1,6 +1,67 @@
+---
+title: LXX Nehemiah 2:5
+type: Verse
+lxx: "And I said to the king, If it be upon the king for good, and if your servant shall seem good before you, so as to send him to Judah, to the city of the sepulchres of my fathers, then I will rebuild it."
+greek: "και είπα τω βασιλεί ει επί τον βασιλέα αγαθόν και ει αγαθυνθήσεται ο παις σου ενώπιόν σου ώστε πέμψαι αυτόν εν Ιούδα εις πόλιν μνημείων πατέρων μου και ανοικοδομήσω αυτήν"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1487]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G1487]]"
+- "[[G6108]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G5620]]"
+- "[[G3992]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2448]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G3419]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0456]]"
+- "[[G1473]]"
+---
+
 **LXX Nehemiah 2:5** 
 <small><sub>**LXX:**</sub></small>
 And I said to the king, If \[it be\] upon the king \[for\] good, and if your servant shall seem good before you, so as to send him to Judah, to \[the\] city of \[the\] sepulchres of my fathers, then I will rebuild it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπα]] [[G3588\|τω]] [[G0935\|βασιλεί]] [[G1487\|ει]] [[G1909\|επί]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G0018\|αγαθόν]] [[G2532\|και]] [[G1487\|ει]] [[G6108\|αγαθυνθήσεται]] [[G3588\|ο]] [[G3816\|παις]] [[G1473\|σου]] [[G1799\|ενώπιόν]] [[G1473\|σου]] [[G5620\|ώστε]] [[G3992\|πέμψαι]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G2448\|Ιούδα]] [[G1519\|εις]] [[G4172\|πόλιν]] [[G3419\|μνημείων]] [[G3962\|πατέρων]] [[G1473\|μου]] [[G2532\|και]] [[G0456\|ανοικοδομήσω]] [[G1473\|αυτήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic NEHEMIAH|NEHEMIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.4|<< Nehemiah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.6|Nehemiah 2:6 >>]]</td></tr></table>
 
@@ -34,6 +95,6 @@ And I said to the king, If \[it be\] upon the king \[for\] good, and if your ser
 | then | **<big>[[G2532\|και]]</big>** |
 | I will rebuild | **<big>[[G0456\|ανοικοδομήσω]]</big>** |
 | it. | **<big>[[G1473\|αυτήν]]</big>** |
-[[Neh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.4|<< Nehemiah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.6|Nehemiah 2:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.4|<< Nehemiah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.6|Nehemiah 2:6 >>]]</td></tr></table>
 
 

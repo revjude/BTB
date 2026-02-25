@@ -1,8 +1,56 @@
+---
+title: Ezekiel 44:16
+type: Verse
+kjv: "They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge."
+bsb: "They alone shall enter My sanctuary and draw near to My table to minister before Me. They will keep My charge."
+hebrew: "הֵ֜מָּה יָבֹ֣אוּ אֶל־ מִקְדָּשִׁ֗י וְהֵ֛מָּה יִקְרְב֥וּ אֶל־ שֻׁלְחָנִ֖י לְשָׁרְתֵ֑נִי וְשָׁמְר֖וּ אֶת־ מִשְׁמַרְתִּֽי׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1992]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7126G]]"
+- "[[H7979]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H4931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:16**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge.
 <small><sub>**BSB:**</sub></small>
 They alone shall enter My sanctuary and draw near to My table to minister before Me. They will keep My charge.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֜מָּה]] [[H0935G\|יָבֹ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ֗]][[H9020\|י]] [[H9002\|וְ]][[H1992\|הֵ֛מָּה]] [[H7126G\|יִקְרְב֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7979\|שֻׁלְחָנִ֖]][[H9020\|י]] [[H9005\|לְ]][[H8334\|שָׁרְתֵ֑]][[H9030\|נִי]] [[H9001\|וְ]][[H8104G\|שָׁמְר֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמַרְתִּֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.15|<< Ezekiel 44:15]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.17|Ezekiel 44:17 >>]]</td></tr></table>
 

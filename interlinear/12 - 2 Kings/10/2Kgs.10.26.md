@@ -1,8 +1,62 @@
+---
+title: 2 Kings 10:26
+type: Verse
+kjv: "And they brought forth the images out of the house of Baal, and burned them."
+bsb: "They brought out the sacred pillar of the temple of Baal and burned it."
+hebrew: "וַיֹּצִ֛אוּ אֶת־ מַצְּב֥וֹת בֵּית־ הַבַּ֖עַל וַֽיִּשְׂרְפֽוּהָ׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4676]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H8313]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:26**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought forth the images out of the house of Baal, and burned them.
 <small><sub>**BSB:**</sub></small>
 They brought out the sacred pillar of the temple of Baal and burned it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יֹּצִ֛אוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4676\|מַצְּב֥וֹת]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בַּ֖עַל]] [[H9001\|וַֽ]][[H8313\|יִּשְׂרְפֽוּ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.25|<< 2 Kings 10:25]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.27|2 Kings 10:27 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jephthah Delivers Israel
+type: Pericope
 pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 11
 book/chapter: "[[Judg.11|Judges 11]]"
-genre:
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 28
 verses:
 - "[[Judg.11.1]]"
 - "[[Judg.11.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Judg.11.28]]"
 ---
 
-[[Judg.11|Judges 11:1 - Judges 11:28]]
+<small>[[Judg.11|Judges 11:1-28]]</small>
 *Jephthah Delivers Israel*
 
 [[Judg.11.1|1]] Now Jephthah the Gileadite was a mighty man of valour, and he \[was\] the son of an harlot: and Gilead begat Jephthah.

@@ -1,6 +1,98 @@
+---
+title: LXX 2 Kings 1:6
+type: Verse
+lxx: "And they said to him, A man ascended to meet us, and he said to us, Go, return to the king, the one sending you, and say to him! Thus says the lord, Is it because  there is no God in Israel you go to seek anxiously by  Baal the fly god of Ekron? On account of this, the bed upon which you ascended upon it, you shall not go from it, for to death you shall die."
+greek: "και είπον προς αυτόν ανήρ ανέβη εις συνάντησιν ημών και είπε προς ημάς δεύτε επιστράφητε προς τον βασιλέα τον αποστείλαντα υμάς και λαλήσατε προς αυτόν τάδε λέγει κύριος ει παρά το μη είναι θεόν εν Ισραήλ συ πορεύη επιζήτησαι εν τω Βάαλ μυϊαν θεόν Ακκαρών διά τούτο η κλίνη εφ΄ ης ανέβης επ΄ αυτής ου καταβήση απ΄ αυτής ότι θανάτω αποθανή"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL-ZEBUB|BAAL-ZEBUB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G0435]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G4877]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1205]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G1487]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G1934]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0896]]"
+- "[[G8355]]"
+- "[[G2316]]"
+- "[[H6138]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2825]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G0305]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G2288]]"
+- "[[G0599]]"
+---
+
 **LXX 2 Kings 1:6** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, A man ascended to meet us, and he said to us, Go, return to the king, the one sending you, and say to him! Thus says \[the\] <span class="smallcaps">lord</span>, Is it because  there is no God in Israel you go to seek anxiously by  Baal \[the\] fly god of Ekron? On account of this, the bed upon which you ascended upon it, you shall not go from it, for to death you shall die. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπον]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G0435\|ανήρ]] [[G0305\|ανέβη]] [[G1519\|εις]] [[G4877\|συνάντησιν]] [[G1473\|ημών]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|ημάς]] [[G1205\|δεύτε]] [[G1994\|επιστράφητε]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G3588\|τον]] [[G0649\|αποστείλαντα]] [[G1473\|υμάς]] [[G2532\|και]] [[G2980\|λαλήσατε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G1487\|ει]] [[G3844\|παρά]] [[G3588\|το]] [[G3361\|μη]] [[G1510\|είναι]] [[G2316\|θεόν]] [[G1722\|εν]] [[G2474\|Ισραήλ]] [[G1473\|συ]] [[G4198\|πορεύη]] [[G1934\|επιζήτησαι]] [[G1722\|εν]] [[G3588\|τω]] [[G0896\|Βάαλ]] [[G8355\|μυϊαν]] [[G2316\|θεόν]] [[H6138\|Ακκαρών]] [[G1223\|διά]] [[G3778\|τούτο]] [[G3588\|η]] [[G2825\|κλίνη]] [[G1909\|εφ΄]] [[G3739\|ης]] [[G0305\|ανέβης]] [[G1909\|επ΄]] [[G1473\|αυτής]] [[G3756\|ου]] [[G2597\|καταβήση]] [[G0575\|απ΄]] [[G1473\|αυτής]] [[G3754\|ότι]] [[G2288\|θανάτω]] [[G0599\|αποθανή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-ZEBUB|BAAL-ZEBUB]] • [[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.5|<< 2 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.7|2 Kings 1:7 >>]]</td></tr></table>
 
@@ -66,6 +158,6 @@ And they said to him, A man ascended to meet us, and he said to us, Go, return t
 | for | **<big>[[G3754\|ότι]]</big>** |
 | to death | **<big>[[G2288\|θανάτω]]</big>** |
 | you shall die. | **<big>[[G0599\|αποθανή]]</big>** |
-[[2Kgs.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.5|<< 2 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.7|2 Kings 1:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.5|<< 2 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.7|2 Kings 1:7 >>]]</td></tr></table>
 
 

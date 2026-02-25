@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Longs for God
+type: Pericope
 pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 23
 book/chapter: "[[Job.23|Job 23]]"
-genre:
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 17
 verses:
 - "[[Job.23.1]]"
 - "[[Job.23.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Job.23.17]]"
 ---
 
-[[Job.23|Job 23:1 - Job 23:17]]
+<small>[[Job.23|Job 23:1-17]]</small>
 *Job Longs for God*
 
 [[Job.23.1|1]] Then Job answered and said,

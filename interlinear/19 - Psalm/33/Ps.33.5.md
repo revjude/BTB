@@ -1,8 +1,53 @@
+---
+title: Psalm 33:5
+type: Verse
+kjv: "He loveth righteousness and judgment: the earth is full of the goodness of the LORD."
+bsb: "The LORD loves righteousness and justice; the earth is full of His loving devotion."
+hebrew: "אֹ֭הֵב צְדָקָ֣ה וּמִשְׁפָּ֑ט חֶ֥סֶד יְ֝הוָ֗ה מָלְאָ֥ה הָאָֽרֶץ׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0157G]]"
+- "[[H6666]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H2617A]]"
+- "[[H3068G]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:5**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He loveth righteousness and judgment: the earth is full of the goodness of the LORD.
 <small><sub>**BSB:**</sub></small>
 The LORD loves righteousness and justice; the earth is full of His loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אֹ֭הֵב]] [[H6666\|צְדָקָ֣ה]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֑ט]] [[H2617A\|חֶ֥סֶד]] [[H3068G\|יְ֝הוָ֗ה]] [[H4390\|מָלְאָ֥ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.4|<< Psalms 33:4]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.6|Psalms 33:6 >>]]</td></tr></table>
 

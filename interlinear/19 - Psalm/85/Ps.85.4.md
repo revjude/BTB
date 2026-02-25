@@ -1,8 +1,56 @@
+---
+title: Psalm 85:4
+type: Verse
+kjv: "Turn us, O God of our salvation, and cause thine anger toward us to cease."
+bsb: "Restore us, O God of our salvation, and put away Your displeasure toward us."
+hebrew: "שׁ֭וּבֵנוּ אֱלֹהֵ֣י יִשְׁעֵ֑נוּ וְהָפֵ֖ר כַּֽעַסְךָ֣ עִמָּֽנוּ׃"
+pericope: "[[Ps.85.1 You Showed Favor to Your Land|You Showed Favor to Your Land]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 85
+book/chapter: "[[Ps.85|Psalm 85]]"
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H7725J]]"
+- "[[H9035]]"
+- "[[H0430G]]"
+- "[[H3468]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H6565A]]"
+- "[[H3708A]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 85:4**<big><big>[[Ps.85.1 You Showed Favor to Your Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn us, O God of our salvation, and cause thine anger toward us to cease.
 <small><sub>**BSB:**</sub></small>
 Restore us, O God of our salvation, and put away Your displeasure toward us.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725J\|שׁ֭וּבֵ]][[H9035\|נוּ]] [[H0430G\|אֱלֹהֵ֣י]] [[H3468\|יִשְׁעֵ֑]][[H9025\|נוּ]] [[H9002\|וְ]][[H6565A\|הָפֵ֖ר]] [[H3708A\|כַּֽעַסְ]][[H9021\|ךָ֣]] [[H5973A\|עִמָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.3|<< Psalms 85:3]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.5|Psalms 85:5 >>]]</td></tr></table>
 

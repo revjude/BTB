@@ -1,8 +1,50 @@
+---
+title: 2 Chronicles 29:33
+type: Verse
+kjv: "And the consecrated things were six hundred oxen and three thousand sheep."
+bsb: "And the consecrated offerings were six hundred bulls and three thousand sheep."
+hebrew: "וְֽהַקֳּדָשִׁ֑ים בָּקָר֙ שֵׁ֣שׁ מֵא֔וֹת וְצֹ֖אן שְׁלֹ֥שֶׁת אֲלָפִֽים׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H1241]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H6629G]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:33**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the consecrated things [were] six hundred oxen and three thousand sheep.
 <small><sub>**BSB:**</sub></small>
 And the consecrated offerings were six hundred bulls and three thousand sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֑ים]] [[H1241\|בָּקָר֙]] [[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H9002\|וְ]][[H6629G\|צֹ֖אן]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.32|<< 2 Chronicles 29:32]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.34|2 Chronicles 29:34 >>]]</td></tr></table>
 

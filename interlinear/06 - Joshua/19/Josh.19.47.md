@@ -1,8 +1,69 @@
+---
+title: Joshua 19:47
+type: Verse
+kjv: "And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father."
+bsb: "(Later, when the territory of the Danites was lost to them, they went up and fought against Leshem, captured it, and put it to the sword. So they took possession of Leshem, settled there, and renamed it after their father Dan.)"
+hebrew: "וַיֵּצֵ֥א גְבוּל־ בְּנֵי־ דָ֖ן מֵהֶ֑ם וַיַּעֲל֣וּ בְנֵֽי־ דָ֠ן וַיִּלָּחֲמ֨וּ עִם־ לֶ֜שֶׁם וַיִּלְכְּד֥וּ אוֹתָ֣הּ׀ וַיַּכּ֧וּ אוֹתָ֣הּ לְפִי־ חֶ֗רֶב וַיִּֽרְשׁ֤וּ אוֹתָהּ֙ וַיֵּ֣שְׁבוּ בָ֔הּ וַיִּקְרְא֤וּ לְלֶ֙שֶׁם֙ דָּ֔ן כְּשֵׁ֖ם דָּ֥ן אֲבִיהֶֽם׃"
+pericope: "[[Josh.19.40 Dan’s Inheritance|Dan’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAN|DAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1366H]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H1835G]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5927G]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H3959]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9015]]"
+- "[[H5221]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H3423H]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H7121H]]"
+- "[[H9004]]"
+- "[[H8034]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:47**<big><big>[[Josh.19.40 Dan’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast of the children of Dan went out [too little] for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.
 <small><sub>**BSB:**</sub></small>
 (Later, when the territory of the Danites was lost to them, they went up and fought against Leshem, captured it, and put it to the sword. So they took possession of Leshem, settled there, and renamed it after their father Dan.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H1366H\|גְבוּל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָ֖ן]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H5927G\|יַּעֲל֣וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1835G\|דָ֠ן]] [[H9001\|וַ]][[H3898A\|יִּלָּחֲמ֨וּ]] [[H5973A\|עִם]][[H9014\|־]] [[H3959\|לֶ֜שֶׁם]] [[H9001\|וַ]][[H3920\|יִּלְכְּד֥וּ]] [[H0853\|אוֹתָ֣]][[H9034\|הּ]][[H9015\|׀]] [[H9001\|וַ]][[H5221\|יַּכּ֧וּ]] [[H0853\|אוֹתָ֣]][[H9034\|הּ]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֗רֶב]] [[H9001\|וַ]][[H3423H\|יִּֽרְשׁ֤וּ]] [[H0853\|אוֹתָ]][[H9034\|הּ֙]] [[H9001\|וַ]][[H3427\|יֵּ֣שְׁבוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9001\|וַ]][[H7121H\|יִּקְרְא֤וּ]] [[H9005\|לְ]][[H3959\|לֶ֙שֶׁם֙]] [[H1835G\|דָּ֔ן]] [[H9004\|כְּ]][[H8034\|שֵׁ֖ם]] [[H1835G\|דָּ֥ן]] [[H0001G\|אֲבִי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.46|<< Joshua 19:46]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.48|Joshua 19:48 >>]]</td></tr></table>
 

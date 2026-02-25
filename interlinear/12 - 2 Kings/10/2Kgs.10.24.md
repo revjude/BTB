@@ -1,8 +1,81 @@
+---
+title: 2 Kings 10:24
+type: Verse
+kjv: "And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, If any of the men whom I have brought into your hands escape, he that letteth him go, his life shall be for the life of him."
+bsb: "And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and warned them, “If anyone allows one of the men I am delivering into your hands to escape, he will forfeit his life for theirs.”"
+hebrew: "וַיָּבֹ֕אוּ לַעֲשׂ֖וֹת זְבָחִ֣ים וְעֹל֑וֹת וְיֵה֞וּא שָׂם־ ל֤וֹ בַחוּץ֙ שְׁמֹנִ֣ים אִ֔ישׁ וַיֹּ֗אמֶר הָאִ֤ישׁ אֲשֶׁר־ יִמָּלֵט֙ מִן־ הָאֲנָשִׁ֗ים אֲשֶׁ֤ר אֲנִי֙ מֵבִ֣יא עַל־ יְדֵיכֶ֔ם נַפְשׁ֖וֹ תַּ֥חַת נַפְשֽׁוֹ׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H6213I]]"
+- "[[H2077]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H3058H]]"
+- "[[H7760H]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H8084]]"
+- "[[H0376G]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H4422]]"
+- "[[H4480A]]"
+- "[[H0582]]"
+- "[[H0589]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:24**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, [If] any of the men whom I have brought into your hands escape, [he that letteth him go], his life [shall be] for the life of him.
 <small><sub>**BSB:**</sub></small>
 And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and warned them, “If anyone allows one of the men I am delivering into your hands to escape, he will forfeit his life for theirs.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֕אוּ]] [[H9005\|לַ]][[H6213I\|עֲשׂ֖וֹת]] [[H2077\|זְבָחִ֣ים]] [[H9002\|וְ]][[H5930A\|עֹל֑וֹת]] [[H9002\|וְ]][[H3058H\|יֵה֞וּא]] [[H7760H\|שָׂם]][[H9014\|־]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H9003\|בַ]][[H2351\|חוּץ֙]] [[H8084\|שְׁמֹנִ֣ים]] [[H0376G\|אִ֔ישׁ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4422\|יִמָּלֵט֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H0589\|אֲנִי֙]] [[H0935G\|מֵבִ֣יא]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יְדֵי]][[H9026\|כֶ֔ם]] [[H5315H\|נַפְשׁ֖]][[H9023\|וֹ]] [[H8478H\|תַּ֥חַת]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.23|<< 2 Kings 10:23]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.25|2 Kings 10:25 >>]]</td></tr></table>
 

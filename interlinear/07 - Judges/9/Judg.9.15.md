@@ -1,8 +1,79 @@
+---
+title: Judges 9:15
+type: Verse
+kjv: "And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon."
+bsb: "But the thornbush replied, ‘If you really are anointing me as king over you, come and find refuge in my shade. But if not, may fire come out of the thornbush and consume the cedars of Lebanon.’"
+hebrew: "וַיֹּ֣אמֶר הָאָטָד֮ אֶל־ הָעֵצִים֒ אִ֡ם בֶּאֱמֶ֣ת אַתֶּם֩ מֹשְׁחִ֨ים אֹתִ֤י לְמֶ֙לֶךְ֙ עֲלֵיכֶ֔ם בֹּ֖אוּ חֲס֣וּ בְצִלִּ֑י וְאִם־ אַ֕יִן תֵּ֤צֵא אֵשׁ֙ מִן־ הָ֣אָטָ֔ד וְתֹאכַ֖ל אֶת־ אַרְזֵ֥י הַלְּבָנֽוֹן׃"
+pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALLEGORY|ALLEGORY]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BRAMBLE|BRAMBLE]]"
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0329H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H0518A]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H0859D]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H2620]]"
+- "[[H6738]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H3318L]]"
+- "[[H0784]]"
+- "[[H4480A]]"
+- "[[H0398]]"
+- "[[H0730]]"
+- "[[H3844G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:15**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bramble said unto the trees, If in truth ye anoint me king over you, [then] come [and] put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
 <small><sub>**BSB:**</sub></small>
 But the thornbush replied, ‘If you really are anointing me as king over you, come and find refuge in my shade. But if not, may fire come out of the thornbush and consume the cedars of Lebanon.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הָ]][[H0329H\|אָטָד֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H6086H\|עֵצִים֒]] [[H0518A\|אִ֡ם]] [[H9003\|בֶּ]][[H0571G\|אֱמֶ֣ת]] [[H0859D\|אַתֶּם֩]] [[H4886\|מֹשְׁחִ֨ים]] [[H0853\|אֹתִ֤]][[H9030\|י]] [[H9005\|לְ]][[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H0935G\|בֹּ֖אוּ]] [[H2620\|חֲס֣וּ]] [[H9003\|בְ]][[H6738\|צִלִּ֑]][[H9020\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אַ֕יִן]] [[H3318L\|תֵּ֤צֵא]] [[H0784\|אֵשׁ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0329H\|אָטָ֔ד]] [[H9002\|וְ]][[H0398\|תֹאכַ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0730\|אַרְזֵ֥י]] [[H9009\|הַ]][[H3844G\|לְּבָנֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLEGORY|ALLEGORY]] • [[topic ANOINTING|ANOINTING]] • [[topic BRAMBLE|BRAMBLE]] • [[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic LEBANON|LEBANON]] • [[topic PARABLES|PARABLES]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.14|<< Judges 9:14]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.16|Judges 9:16 >>]]</td></tr></table>
 

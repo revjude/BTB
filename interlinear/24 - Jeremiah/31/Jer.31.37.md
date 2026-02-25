@@ -1,8 +1,75 @@
+---
+title: Jeremiah 31:37
+type: Verse
+kjv: "Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD."
+bsb: "This is what the LORD says: “Only if the heavens above could be measured and the foundations of the earth below searched out would I reject all of Israel’s descendants because of all they have done,” declares the LORD."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה אִם־ יִמַּ֤דּוּ שָׁמַ֙יִם֙ מִלְמַ֔עְלָה וְיֵחָקְר֥וּ מֽוֹסְדֵי־ אֶ֖רֶץ לְמָ֑טָּה גַּם־ אֲנִ֞י אֶמְאַ֨ס בְּכָל־ זֶ֧רַע יִשְׂרָאֵ֛ל עַֽל־ כָּל־ אֲשֶׁ֥ר עָשׂ֖וּ נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4058]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2713]]"
+- "[[H4144]]"
+- "[[H0776G]]"
+- "[[H4295]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H2233H]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:37**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Only if the heavens above could be measured and the foundations of the earth below searched out would I reject all of Israel’s descendants because of all they have done,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H4058\|יִמַּ֤דּוּ]] [[H8064\|שָׁמַ֙יִם֙]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H2713\|יֵחָקְר֥וּ]] [[H4144\|מֽוֹסְדֵי]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H9005\|לְ]][[H4295\|מָ֑טָּה]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אֲנִ֞י]] [[H3988A\|אֶמְאַ֨ס]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2233H\|זֶ֧רַע]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשׂ֖וּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.36|<< Jeremiah 31:36]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.38|Jeremiah 31:38 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ This is what the LORD says: “Only if the heavens above could be measured and t
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have done  |**<big>&#8207;[[H6213A\|עָשׂ֖וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.36|<< Jeremiah 31:36]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.38|Jeremiah 31:38 >>]]</td></tr></table>
 
 

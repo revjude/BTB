@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 11:13
+type: Verse
+kjv: "He was with David at Pasdammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines."
+bsb: "He was with David at Pas-dammim when the Philistines gathered there for battle. At a place with a field full of barley, the troops fled from the Philistines."
+hebrew: "הֽוּא־ הָיָ֨ה עִם־ דָּוִ֜יד בַּפַּ֣ס דַּמִּ֗ים וְהַפְּלִשְׁתִּים֙ נֶאֱסְפוּ־ שָׁ֣ם לַמִּלְחָמָ֔ה וַתְּהִ֛י חֶלְקַ֥ת הַשָּׂדֶ֖ה מְלֵאָ֣ה שְׂעוֹרִ֑ים וְהָעָ֥ם נָ֖סוּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PAS-DAMMIM|PAS-DAMMIM]]"
+strongs:
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H6450]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0622]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9001]]"
+- "[[H2513A]]"
+- "[[H7704B]]"
+- "[[H4392]]"
+- "[[H8184]]"
+- "[[H5971K]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:13**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was with David at Pasdammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.
 <small><sub>**BSB:**</sub></small>
 He was with David at Pas-dammim when the Philistines gathered there for battle. At a place with a field full of barley, the troops fled from the Philistines.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הֽוּא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֜יד]] [[H9003\|בַּ]][[H6450\|פַּ֣ס]] [[H6450\|דַּמִּ֗ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּים֙]] [[H0622\|נֶאֱסְפוּ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַ]][[H1961\|תְּהִ֛י]] [[H2513A\|חֶלְקַ֥ת]] [[H9009\|הַ]][[H7704B\|שָּׂדֶ֖ה]] [[H4392\|מְלֵאָ֣ה]] [[H8184\|שְׂעוֹרִ֑ים]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֥ם]] [[H5127\|נָ֖סוּ]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BARLEY|BARLEY]] • [[topic GOD|GOD]] • [[topic PAS-DAMMIM|PAS-DAMMIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.12|<< 1 Chronicles 11:12]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.14|1 Chronicles 11:14 >>]]</td></tr></table>
 

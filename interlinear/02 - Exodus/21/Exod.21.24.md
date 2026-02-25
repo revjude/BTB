@@ -1,8 +1,53 @@
+---
+title: Exodus 21:24
+type: Verse
+kjv: "Eye for eye, tooth for tooth, hand for hand, foot for foot,"
+bsb: "eye for eye, tooth for tooth, hand for hand, foot for foot,"
+hebrew: "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H5869A]]"
+- "[[H8478H]]"
+- "[[H8127G]]"
+- "[[H3027G]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:24**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eye for eye, tooth for tooth, hand for hand, foot for foot,
 <small><sub>**BSB:**</sub></small>
 eye for eye, tooth for tooth, hand for hand, foot for foot,
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עַ֚יִן]] [[H8478H\|תַּ֣חַת]] [[H5869A\|עַ֔יִן]] [[H8127G\|שֵׁ֖ן]] [[H8478H\|תַּ֣חַת]] [[H8127G\|שֵׁ֑ן]] [[H3027G\|יָ֚ד]] [[H8478H\|תַּ֣חַת]] [[H3027G\|יָ֔ד]] [[H7272\|רֶ֖גֶל]] [[H8478H\|תַּ֥חַת]] [[H7272\|רָֽגֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.23|<< Exodus 21:23]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.25|Exodus 21:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

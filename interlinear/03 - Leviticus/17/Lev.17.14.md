@@ -1,8 +1,66 @@
+---
+title: Leviticus 17:14
+type: Verse
+kjv: "For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off."
+bsb: "For the life of all flesh is its blood. Therefore I have told the Israelites, ‘You must not eat the blood of any living thing, because the life of all flesh is its blood; whoever eats it must be cut off.’"
+hebrew: "כִּֽי־ נֶ֣פֶשׁ כָּל־ בָּשָׂ֗ר דָּמ֣וֹ בְנַפְשׁוֹ֮ הוּא֒ וָֽאֹמַר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל דַּ֥ם כָּל־ בָּשָׂ֖ר לֹ֣א תֹאכֵ֑לוּ כִּ֣י נֶ֤פֶשׁ כָּל־ בָּשָׂר֙ דָּמ֣וֹ הִ֔וא כָּל־ אֹכְלָ֖יו יִכָּרֵֽת׃"
+pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:14**<big><big>[[Lev.17.10 Laws against Eating Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.
 <small><sub>**BSB:**</sub></small>
 For the life of all flesh is its blood. Therefore I have told the Israelites, ‘You must not eat the blood of any living thing, because the life of all flesh is its blood; whoever eats it must be cut off.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5315H\|נֶ֣פֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֗ר]] [[H1818\|דָּמ֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H5315H\|נַפְשׁ]][[H9023\|וֹ֮]] [[H1931\|הוּא֒]] [[H9001\|וָֽ]][[H0559\|אֹמַר֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1818\|דַּ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֖ר]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכֵ֑לוּ]] [[H3588A\|כִּ֣י]] [[H5315H\|נֶ֤פֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂר֙]] [[H1818\|דָּמ֣]][[H9023\|וֹ]] [[H1931\|הִ֔וא]] [[H3605\|כָּל]][[H9014\|־]] [[H0398\|אֹכְלָ֖י]][[H9033\|ו]] [[H3772I\|יִכָּרֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.13|<< Leviticus 17:13]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.15|Leviticus 17:15 >>]]</td></tr></table>
 

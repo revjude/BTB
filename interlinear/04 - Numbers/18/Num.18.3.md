@@ -1,8 +1,66 @@
+---
+title: Numbers 18:3
+type: Verse
+kjv: "And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die."
+bsb: "And they shall attend to your duties and to all the duties of the Tent; but they must not come near to the furnishings of the sanctuary or the altar, or both they and you will die."
+hebrew: "וְשָֽׁמְרוּ֙ מִֽשְׁמַרְתְּךָ֔ וּמִשְׁמֶ֖רֶת כָּל־ הָאֹ֑הֶל אַךְ֩ אֶל־ כְּלֵ֨י הַקֹּ֤דֶשׁ וְאֶל־ הַמִּזְבֵּ֙חַ֙ לֹ֣א יִקְרָ֔בוּ וְלֹֽא־ יָמֻ֥תוּ גַם־ הֵ֖ם גַּם־ אַתֶּֽם׃"
+pericope: "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H0389]]"
+- "[[H0413]]"
+- "[[H3627]]"
+- "[[H6944G]]"
+- "[[H4196]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H4191]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H0859D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:3**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.
 <small><sub>**BSB:**</sub></small>
 And they shall attend to your duties and to all the duties of the Tent; but they must not come near to the furnishings of the sanctuary or the altar, or both they and you will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104H\|שָֽׁמְרוּ֙]] [[H4931\|מִֽשְׁמַרְתְּ]][[H9021\|ךָ֔]] [[H9002\|וּ]][[H4931\|מִשְׁמֶ֖רֶת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֑הֶל]] [[H0389\|אַךְ֩]] [[H0413\|אֶל]][[H9014\|־]] [[H3627\|כְּלֵ֨י]] [[H9009\|הַ]][[H6944G\|קֹּ֤דֶשׁ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H3808\|לֹ֣א]] [[H7126G\|יִקְרָ֔בוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4191\|יָמֻ֥תוּ]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֖ם]] [[H1571\|גַּם]][[H9014\|־]] [[H0859D\|אַתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.2|<< Numbers 18:2]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.4|Numbers 18:4 >>]]</td></tr></table>
 

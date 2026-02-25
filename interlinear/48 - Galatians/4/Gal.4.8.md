@@ -1,10 +1,51 @@
+---
+title: Galatians 4:8
+type: Verse
+kjv: "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods."
+bsb: "Formerly, when you did not know God, you were slaves to those who by nature are not gods."
+greek: "Ἀλλὰ τότε μὲν οὐκ εἰδότες θεὸν ἐδουλεύσατε τοῖς φύσει μὴ οὖσιν θεοῖς·"
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G0235]]"
+- "[[G5119]]"
+- "[[G3303]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G2316]]"
+- "[[G1398]]"
+- "[[G3588]]"
+- "[[G5449]]"
+- "[[G3361]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Galatians 4:8**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.
 <small><sub>**BSB:**</sub></small>
 Formerly, when you did not know God, you were slaves to those who by nature are not gods.
-<small><sub>**Literal:**</sub></small>
-But at that time indeed not knowing God you were enslaved to those by nature not being gods;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.7|<< Galatians 4:7]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.9|Galatians 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|Ἀλλὰ]]  [[G5119\|τότε]]  [[G3303\|μὲν]]  [[G3756\|οὐκ]]  [[G6063\|εἰδότες]]  [[G2316\|θεὸν]]  [[G1398\|ἐδουλεύσατε]]  [[G3588\|τοῖς]]  [[G5449\|φύσει]]  [[G3361\|μὴ]]  [[G1510\|οὖσιν]]  [[G2316\|θεοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IDOLATRY|IDOLATRY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.7|<< Galatians 4:7]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.9|Galatians 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

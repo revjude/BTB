@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Testimony about His Son
+type: Pericope
 pericope: "[[1John.5.9 God’s Testimony about His Son|God’s Testimony about His Son]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 5
 book/chapter: "[[1John.5|1 John 5]]"
-genre:
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 4
 verses:
 - "[[1John.5.9]]"
 - "[[1John.5.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1John.5.12]]"
 ---
 
-[[1John.5|1 John 5:9 - 1 John 5:12]]
+<small>[[1John.5|1 John 5:9-12]]</small>
 *God’s Testimony about His Son*
 
 [[1John.5.9|9]] If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.

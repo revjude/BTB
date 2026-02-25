@@ -1,8 +1,51 @@
+---
+title: Isaiah 15:7
+type: Verse
+kjv: "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows."
+bsb: "So they carry their wealth and belongings over the Brook of the Willows."
+hebrew: "עַל־ כֵּ֖ן יִתְרָ֣ה עָשָׂ֑ה וּפְקֻדָּתָ֔ם עַ֛ל נַ֥חַל הָעֲרָבִ֖ים יִשָּׂאֽוּם׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3502]]"
+- "[[H6213I]]"
+- "[[H9002]]"
+- "[[H6486]]"
+- "[[H9028]]"
+- "[[H5158G]]"
+- "[[H9009]]"
+- "[[H6155G]]"
+- "[[H5375H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:7**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.
 <small><sub>**BSB:**</sub></small>
 So they carry their wealth and belongings over the Brook of the Willows.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H3502\|יִתְרָ֣ה]] [[H6213I\|עָשָׂ֑ה]] [[H9002\|וּ]][[H6486\|פְקֻדָּתָ֔]][[H9028\|ם]] [[H5921A\|עַ֛ל]] [[H5158G\|נַ֥חַל]] [[H9009\|הָ]][[H6155G\|עֲרָבִ֖ים]] [[H5375H\|יִשָּׂאֽוּ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.6|<< Isaiah 15:6]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.8|Isaiah 15:8 >>]]</td></tr></table>
 

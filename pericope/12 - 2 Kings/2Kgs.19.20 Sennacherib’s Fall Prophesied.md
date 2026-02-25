@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib’s Fall Prophesied
+type: Pericope
 pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 19
 book/chapter: "[[2Kgs.19|2 Kings 19]]"
-genre:
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 15
 verses:
 - "[[2Kgs.19.20]]"
 - "[[2Kgs.19.21]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Kgs.19.34]]"
 ---
 
-[[2Kgs.19|2 Kings 19:20 - 2 Kings 19:34]]
+<small>[[2Kgs.19|2 Kings 19:20-34]]</small>
 *Sennacherib’s Fall Prophesied*
 
 [[2Kgs.19.20|20]] Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, \[That\] which thou hast prayed to me against Sennacherib king of Assyria I have heard.

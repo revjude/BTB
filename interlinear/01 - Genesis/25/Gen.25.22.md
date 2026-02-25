@@ -1,8 +1,66 @@
+---
+title: Genesis 25:22
+type: Verse
+kjv: "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to inquire of the LORD."
+bsb: "But the children inside her struggled with each other, and she said, “Why is this happening to me?” So Rebekah went to inquire of the LORD,"
+hebrew: "וַיִּתְרֹֽצֲצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔הּ וַתֹּ֣אמֶר אִם־ כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־ יְהוָֽה׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7533]]"
+- "[[H9009]]"
+- "[[H1121A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9024]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H0595]]"
+- "[[H1980G]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:22**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children struggled together within her; and she said, If [it be] so, why [am] I thus? And she went to inquire of the LORD.
 <small><sub>**BSB:**</sub></small>
 But the children inside her struggled with each other, and she said, “Why is this happening to me?” So Rebekah went to inquire of the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7533\|יִּתְרֹֽצֲצ֤וּ]] [[H9009\|הַ]][[H1121A\|בָּנִים֙]] [[H9003\|בְּ]][[H7130G\|קִרְבָּ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0518A\|אִם]][[H9014\|־]] [[H3651C\|כֵּ֔ן]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H2088\|זֶּ֖ה]] [[H0595\|אָנֹ֑כִי]] [[H9001\|וַ]][[H1980G\|תֵּ֖לֶךְ]] [[H9005\|לִ]][[H1875\|דְרֹ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.21|<< Genesis 25:21]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.23|Genesis 25:23 >>]]</td></tr></table>
 

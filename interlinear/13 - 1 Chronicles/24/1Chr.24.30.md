@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 24:30
+type: Verse
+kjv: "The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers."
+bsb: "And the sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites, according to their families."
+hebrew: "וּבְנֵ֣י מוּשִׁ֔י מַחְלִ֥י וְעֵ֖דֶר וִירִימ֑וֹת אֵ֛לֶּה בְּנֵ֥י הַלְוִיִּ֖ם לְבֵ֥ית אֲבֹתֵיהֶֽם׃"
+pericope: "[[1Chr.24.20 The Rest of the Levites|The Rest of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EDER|EDER]]"
+- "[[topic JERIMOTH|JERIMOTH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic MAHLI|MAHLI]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H4187]]"
+- "[[H4249H]]"
+- "[[H5740A]]"
+- "[[H3406K]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:30**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons also of Mushi; Mahli, and Eder, and Jerimoth. These [were] the sons of the Levites after the house of their fathers.
 <small><sub>**BSB:**</sub></small>
 And the sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites, according to their families.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H4187\|מוּשִׁ֔י]] [[H4249H\|מַחְלִ֥י]] [[H9002\|וְ]][[H5740A\|עֵ֖דֶר]] [[H9002\|וִ]][[H3406K\|ירִימ֑וֹת]] [[H0428\|אֵ֛לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDER|EDER]] • [[topic JERIMOTH|JERIMOTH]] • [[topic LOT, THE|LOT, THE]] • [[topic MAHLI|MAHLI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.29|<< 1 Chronicles 24:29]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.31|1 Chronicles 24:31 >>]]</td></tr></table>
 

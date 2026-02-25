@@ -1,10 +1,65 @@
+---
+title: Acts 7:37
+type: Verse
+kjv: "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear."
+bsb: "This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’"
+greek: "οὗτός ἐστιν ὁ Μωϋσῆς ὁ εἴπας τοῖς υἱοῖς Ἰσραήλ· προφήτην ὑμῖν ἀναστήσει κύριος ὁ θεὸς ὑμῶν ἐκ τῶν ἀδελφῶν ὑμῶν ὡς ἐμέ αὐτοῦ ἀκούσεσθε."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3475]]"
+- "[[G2036]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G4396]]"
+- "[[G4771]]"
+- "[[G0450]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G1537]]"
+- "[[G0080]]"
+- "[[G5613]]"
+- "[[G1473]]"
+- "[[G0846]]"
+- "[[G0191]]"
+texts:
+- NKO
+- K
+- K(O)
+---
+
 **Acts 7:37**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
 <small><sub>**BSB:**</sub></small>
 This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’
-<small><sub>**Literal:**</sub></small>
-This is the Moses <the> having said to the sons of Israel; A prophet for you will raise up [the] Lord <the> God of you out from the brothers of you like me myself of him you will listen to.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.36|<< Acts 7:36]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.38|Acts 7:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3475\|Μωϋσῆς]]  [[G3588\|ὁ]]  [[G2036\|εἴπας]]  [[G3588\|τοῖς]]  [[G5207\|υἱοῖς]]  [[G2474\|Ἰσραήλ·]]  [[G4396\|προφήτην]]  [[G4771\|ὑμῖν]]  [[G0450\|ἀναστήσει]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4771\|ὑμῶν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G1473\|ἐμέ]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούσεσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.36|<< Acts 7:36]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.38|Acts 7:38 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:37** is...
 > $\quad$ referencing: [[LXX.Deut.18.15|Deut 18:15]]

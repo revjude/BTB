@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People’s Confession of Sin
+type: Pericope
 pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 10
 book/chapter: "[[Ezra.10|Ezra 10]]"
-genre:
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 12
 verses:
 - "[[Ezra.10.6]]"
 - "[[Ezra.10.7]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezra.10.17]]"
 ---
 
-[[Ezra.10|Ezra 10:6 - Ezra 10:17]]
+<small>[[Ezra.10|Ezra 10:6-17]]</small>
 *The People’s Confession of Sin*
 
 [[Ezra.10.6|6]] Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and \[when\] he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.

@@ -1,10 +1,59 @@
+---
+title: Matthew 16:22
+type: Verse
+kjv: "Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee."
+bsb: "Peter took Him aside and began to rebuke Him. “Far be it from You, Lord!” he said. “This shall never happen to You!”"
+greek: "καὶ προσλαβόμενος αὐτὸν ὁ Πέτρος ἤρξατο ἐπιτιμᾶν αὐτῷ λέγων· ἵλεώς σοι, κύριε· οὐ μὴ ἔσται σοι τοῦτο.¶"
+pericope: "[[Matt.16.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4355]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0757]]"
+- "[[G2008]]"
+- "[[G3004G]]"
+- "[[G2436]]"
+- "[[G4771]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 16:22**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
 <small><sub>**BSB:**</sub></small>
 Peter took Him aside and began to rebuke Him. “Far be it from You, Lord!” he said. “This shall never happen to You!”
-<small><sub>**Literal:**</sub></small>
-And having taken aside Him <the> Peter began to rebuke Him saying; Far be it from You, Lord; certainly not will be to You this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.21|<< Matthew 16:21]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.23|Matthew 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4355\|προσλαβόμενος]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0757\|ἤρξατο]]  [[G2008\|ἐπιτιμᾶν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγων·]]  [[G2436\|ἵλεώς]]  [[G4771\|σοι,]]  [[G2962G\|κύριε·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1510\|ἔσται]]  [[G4771\|σοι]]  [[G3778\|τοῦτο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.21|<< Matthew 16:21]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.23|Matthew 16:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,73 @@
+---
+title: Joshua 22:7
+type: Verse
+kjv: "Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but unto the other half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,"
+bsb: "(To the half-tribe of Manasseh Moses had given land in Bashan, and to the other half Joshua gave land on the west side of the Jordan among their brothers.) When Joshua sent them to their homes he blessed them,"
+hebrew: "וְלַחֲצִ֣י׀ שֵׁ֣בֶט הַֽמְנַשֶּׁ֗ה נָתַ֣ן מֹשֶׁה֮ בַּבָּשָׁן֒ וּלְחֶצְי֗וֹ נָתַ֤ן יְהוֹשֻׁ֙עַ֙ עִם־ אֲחֵיהֶ֔ם בְּעֵ֥בֶר הַיַּרְדֵּ֖ן יָ֑מָּה וְ֠גַם כִּ֣י שִׁלְּחָ֧ם יְהוֹשֻׁ֛עַ אֶל־ אָהֳלֵיהֶ֖ם וַיְבָרֲכֵֽם׃"
+pericope: "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic GAD|GAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2677]]"
+- "[[H9015]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4519G]]"
+- "[[H5414G]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H1316]]"
+- "[[H9023]]"
+- "[[H3091G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5676G]]"
+- "[[H3383]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H0168H]]"
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 22:7**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now to the [one] half of the tribe of Manasseh Moses had given [possession] in Bashan: but unto the [other] half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
 <small><sub>**BSB:**</sub></small>
 (To the half-tribe of Manasseh Moses had given land in Bashan, and to the other half Joshua gave land on the west side of the Jordan among their brothers.) When Joshua sent them to their homes he blessed them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H2677\|חֲצִ֣י]][[H9015\|׀]] [[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֗ה]] [[H5414G\|נָתַ֣ן]] [[H4872\|מֹשֶׁה֮]] [[H9003\|בַּ]][[H1316\|בָּשָׁן֒]] [[H9002\|וּ]][[H9005\|לְ]][[H2677\|חֶצְי֗]][[H9023\|וֹ]] [[H5414G\|נָתַ֤ן]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0251I\|אֲחֵי]][[H9028\|הֶ֔ם]] [[H9003\|בְּ]][[H5676G\|עֵ֥בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H3220H\|יָ֑מָּ]][[H9011\|ה]] [[H9002\|וְ֠]][[H1571\|גַם]] [[H3588A\|כִּ֣י]] [[H7971G\|שִׁלְּחָ֧]][[H9038\|ם]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H0168H\|אָהֳלֵי]][[H9028\|הֶ֖ם]] [[H9001\|וַ]][[H1288\|יְבָרֲכֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic GAD|GAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
@@ -31,7 +96,7 @@ Now to the [one] half of the tribe of Manasseh Moses had given [possession] in B
 | and he blessed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָרֲכֵֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.ra.Khe<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
-[^1]: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: from [the] other side of  | **<big>[[H9006|מֵ]]</big><big>[[H5676G|עֵבֶר]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: from [the] other side of  | **<big>[[H9006|מֵ]]</big><big>[[H5676G|עֵבֶר]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מְעֵ֥בֶר</big></span>**
 

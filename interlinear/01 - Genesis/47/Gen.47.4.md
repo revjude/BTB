@@ -1,8 +1,72 @@
+---
+title: Genesis 47:4
+type: Verse
+kjv: "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen."
+bsb: "Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”"
+hebrew: "וַיֹּאמְר֣וּ אֶל־ פַּרְעֹ֗ה לָג֣וּר בָּאָרֶץ֮ בָּאנוּ֒ כִּי־ אֵ֣ין מִרְעֶ֗ה לַצֹּאן֙ אֲשֶׁ֣ר לַעֲבָדֶ֔יךָ כִּֽי־ כָבֵ֥ד הָרָעָ֖ב בְּאֶ֣רֶץ כְּנָ֑עַן וְעַתָּ֛ה יֵֽשְׁבוּ־ נָ֥א עֲבָדֶ֖יךָ בְּאֶ֥רֶץ גֹּֽשֶׁן׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547H]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4829]]"
+- "[[H6629G]]"
+- "[[H0834A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3515]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H3667A]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3427]]"
+- "[[H4994]]"
+- "[[H1657G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:4**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine [is] sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
 <small><sub>**BSB:**</sub></small>
 Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֗ה]] [[H9005\|לָ]][[H1481A\|ג֣וּר]] [[H9003\|בָּ]][[H0776G\|אָרֶץ֮]] [[H0935G\|בָּאנוּ֒]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H4829\|מִרְעֶ֗ה]] [[H9005\|לַ]][[H6629G\|צֹּאן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3515\|כָבֵ֥ד]] [[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H3427\|יֵֽשְׁבוּ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H1657G\|גֹּֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.3|<< Genesis 47:3]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.5|Genesis 47:5 >>]]</td></tr></table>
 

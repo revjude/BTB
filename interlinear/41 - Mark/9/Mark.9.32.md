@@ -1,10 +1,49 @@
+---
+title: Mark 9:32
+type: Verse
+kjv: "But they understood not that saying, and were afraid to ask him."
+bsb: "But they did not understand this statement, and they were afraid to ask Him about it."
+greek: "οἱ δὲ ἠγνόουν τὸ ῥῆμα καὶ ἐφοβοῦντο αὐτὸν ἐπερωτῆσαι.¶"
+pericope: "[[Mark.9.30 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0050]]"
+- "[[G4487]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G0846]]"
+- "[[G1905]]"
+texts:
+- NKO
+---
+
 **Mark 9:32**<big><big>[[Mark.9.30 The Second Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they understood not that saying, and were afraid to ask him.
 <small><sub>**BSB:**</sub></small>
 But they did not understand this statement, and they were afraid to ask Him about it.
-<small><sub>**Literal:**</sub></small>
-<the> And they were not understanding the declaration and they were afraid Him to ask.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.31|<< Mark 9:31]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.33|Mark 9:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0050\|ἠγνόουν]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμα]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβοῦντο]]  [[G0846\|αὐτὸν]]  [[G1905\|ἐπερωτῆσαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.31|<< Mark 9:31]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.33|Mark 9:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

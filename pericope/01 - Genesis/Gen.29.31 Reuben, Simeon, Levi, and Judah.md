@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reuben, Simeon, Levi, and Judah
+type: Pericope
 pericope: "[[Gen.29.31 Reuben, Simeon, Levi, and Judah|Reuben, Simeon, Levi, and Judah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 29
 book/chapter: "[[Gen.29|Genesis 29]]"
-genre:
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.29.31]]"
 - "[[Gen.29.32]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.29.35]]"
 ---
 
-[[Gen.29|Genesis 29:31 - Genesis 29:35]]
+<small>[[Gen.29|Genesis 29:31-35]]</small>
 *Reuben, Simeon, Levi, and Judah*
 
 [[Gen.29.31|31]] And when the LORD saw that Leah \[was\] hated, he opened her womb: but Rachel \[was\] barren.

@@ -1,8 +1,63 @@
+---
+title: Exodus 34:22
+type: Verse
+kjv: "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end."
+bsb: "And you are to celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the turn of the year."
+hebrew: "וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+strongs:
+- "[[H9002]]"
+- "[[H2282]]"
+- "[[H7620G]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1061]]"
+- "[[H7105A]]"
+- "[[H2406]]"
+- "[[H9009]]"
+- "[[H0614]]"
+- "[[H8622]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:22**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
 <small><sub>**BSB:**</sub></small>
 And you are to celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the turn of the year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2282\|חַ֤ג]] [[H7620G\|שָׁבֻעֹת֙]] [[H6213A\|תַּעֲשֶׂ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H1061\|בִּכּוּרֵ֖י]] [[H7105A\|קְצִ֣יר]] [[H2406\|חִטִּ֑ים]] [[H9002\|וְ]][[H2282\|חַג֙]] [[H9009\|הָֽ]][[H0614\|אָסִ֔יף]] [[H8622\|תְּקוּפַ֖ת]] [[H9009\|הַ]][[H8141\|שָּׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HARVEST|HARVEST]] • [[topic PENTECOST|PENTECOST]] • [[topic SANITATION|SANITATION]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.21|<< Exodus 34:21]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.23|Exodus 34:23 >>]]</td></tr></table>
 

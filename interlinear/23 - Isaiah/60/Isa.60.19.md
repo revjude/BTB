@@ -1,8 +1,67 @@
+---
+title: Isaiah 60:19
+type: Verse
+kjv: "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory."
+bsb: "No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor."
+hebrew: "לֹא־ יִֽהְיֶה־ לָּ֨ךְ ע֤וֹד הַשֶּׁ֙מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם וּלְנֹ֕גַהּ הַיָּרֵ֖חַ לֹא־ יָאִ֣יר לָ֑ךְ וְהָיָה־ לָ֤ךְ יְהוָה֙ לְא֣וֹר עוֹלָ֔ם וֵאלֹהַ֖יִךְ לְתִפְאַרְתֵּֽךְ׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MOON|MOON]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H0216]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H5051]]"
+- "[[H3394]]"
+- "[[H0215]]"
+- "[[H9001]]"
+- "[[H3068G]]"
+- "[[H5769G]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H8597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:19**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.
 <small><sub>**BSB:**</sub></small>
 No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֨]][[H9032\|ךְ]] [[H5750\|ע֤וֹד]] [[H9009\|הַ]][[H8121\|שֶּׁ֙מֶשׁ֙]] [[H9005\|לְ]][[H0216\|א֣וֹר]] [[H3119\|יוֹמָ֔ם]] [[H9002\|וּ]][[H9005\|לְ]][[H5051\|נֹ֕גַהּ]] [[H9009\|הַ]][[H3394\|יָּרֵ֖חַ]] [[H3808\|לֹא]][[H9014\|־]] [[H0215\|יָאִ֣יר]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H1961\|הָיָה]][[H9014\|־]] [[H9005\|לָ֤]][[H9032\|ךְ]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H0216\|א֣וֹר]] [[H5769G\|עוֹלָ֔ם]] [[H9002\|וֵ]][[H0430G\|אלֹהַ֖יִ]][[H9022\|ךְ]] [[H9005\|לְ]][[H8597\|תִפְאַרְתֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECLIPSE|ECLIPSE]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic LIGHT|LIGHT]] • [[topic MOON|MOON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.18|<< Isaiah 60:18]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.20|Isaiah 60:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

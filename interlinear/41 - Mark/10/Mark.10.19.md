@@ -1,10 +1,67 @@
+---
+title: Mark 10:19
+type: Verse
+kjv: "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
+bsb: "You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”"
+jesus_said: "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother."
+greek: "τὰς ἐντολὰς οἶδας· μὴ φονεύσῃς, μὴ μοιχεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, μὴ ἀποστερήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G6063]]"
+- "[[G3361]]"
+- "[[G5407]]"
+- "[[G3431]]"
+- "[[G2813]]"
+- "[[G5576]]"
+- "[[G0650]]"
+- "[[G5091]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3384]]"
+texts:
+- NKO
+---
+
 **Mark 10:19**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.
 <small><sub>**BSB:**</sub></small>
 You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”
-<small><sub>**Literal:**</sub></small>
-The commandments you know: Not shall you murder not shall you commit adultery not shall you steal, not shall you bear false witness, not shall you defraud, do honor the father of you and the mother.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.18|<< Mark 10:18]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.20|Mark 10:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G6063\|οἶδας·]]  [[G3361\|μὴ]]  [[G5407\|φονεύσῃς,]]  [[G3361\|μὴ]]  [[G3431\|μοιχεύσῃς,]]  [[G3361\|μὴ]]  [[G2813\|κλέψῃς,]]  [[G3361\|μὴ]]  [[G5576\|ψευδομαρτυρήσῃς,]]  [[G3361\|μὴ]]  [[G0650\|ἀποστερήσῃς,]]  [[G5091\|τίμα]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HONESTY|HONESTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOTHER|MOTHER]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.18|<< Mark 10:18]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.20|Mark 10:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 10:19** is...
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12-16]] ☩ [[LXX.Deut.5.16|Deut 5:16-20]]

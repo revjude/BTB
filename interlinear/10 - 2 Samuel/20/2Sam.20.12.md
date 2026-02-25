@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 20:12
+type: Verse
+kjv: "And Amasa wallowed in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still."
+bsb: "But Amasa wallowed in his blood in the middle of the road, and when the man saw that all the troops were stopping there, he dragged the body off the road into a field and threw a garment over it."
+hebrew: "וַעֲמָשָׂ֛א מִתְגֹּלֵ֥ל בַּדָּ֖ם בְּת֣וֹךְ הַֽמְסִלָּ֑ה וַיַּ֨רְא הָאִ֜ישׁ כִּֽי־ עָמַ֣ד כָּל־ הָעָ֗ם וַיַּסֵּב֩ אֶת־ עֲמָשָׂ֨א מִן־ הַֽמְסִלָּ֤ה הַשָּׂדֶה֙ וַיַּשְׁלֵ֤ךְ עָלָיו֙ בֶּ֔גֶד כַּאֲשֶׁ֣ר רָאָ֔ה כָּל־ הַבָּ֥א עָלָ֖יו וְעָמָֽד׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic AMASA|AMASA]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9002]]"
+- "[[H6021G]]"
+- "[[H1556]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H4546]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H5437G]]"
+- "[[H0853]]"
+- "[[H4480A]]"
+- "[[H7704G]]"
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0899B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **2 Samuel 20:12**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amasa wallowed in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still.
 <small><sub>**BSB:**</sub></small>
 But Amasa wallowed in his blood in the middle of the road, and when the man saw that all the troops were stopping there, he dragged the body off the road into a field and threw a garment over it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6021G\|עֲמָשָׂ֛א]] [[H1556\|מִתְגֹּלֵ֥ל]] [[H9003\|בַּ]][[H1818\|דָּ֖ם]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַֽ]][[H4546\|מְסִלָּ֑ה]] [[H9001\|וַ]][[H7200G\|יַּ֨רְא]] [[H9009\|הָ]][[H0376G\|אִ֜ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5975G\|עָמַ֣ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9001\|וַ]][[H5437G\|יַּסֵּב֩]] [[H0853\|אֶת]][[H9014\|־]] [[H6021G\|עֲמָשָׂ֨א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4546\|מְסִלָּ֤ה]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵ֤ךְ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H0899B\|בֶּ֔גֶד]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H7200G\|רָאָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּ֥א]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וְ]][[H5975G\|עָמָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic AMASA|AMASA]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.11|<< 2 Samuel 20:11]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.13|2 Samuel 20:13 >>]]</td></tr></table>
 

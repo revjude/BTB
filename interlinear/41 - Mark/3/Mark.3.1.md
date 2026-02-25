@@ -1,10 +1,54 @@
+---
+title: Mark 3:1
+type: Verse
+kjv: "And he entered again into the synagogue; and there was a man there which had a withered hand."
+bsb: "Once again Jesus entered the synagogue, and a man with a withered hand was there."
+greek: "Καὶ εἰσῆλθεν πάλιν εἰς τὴν συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα,"
+pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3825]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G0444]]"
+- "[[G3583]]"
+- "[[G2192]]"
+- "[[G5495]]"
+texts:
+- NKO
+---
+
 **Mark 3:1**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he entered again into the synagogue; and there was a man there which had a withered hand.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus entered the synagogue, and a man with a withered hand was there.
-<small><sub>**Literal:**</sub></small>
-And He entered again into the synagogue, and there was there a man withered having the hand,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.28|<< Mark 2:28]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.2|Mark 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G3825\|πάλιν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγήν,]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1563\|ἐκεῖ]]  [[G0444\|ἄνθρωπος]]  [[G3583\|ἐξηραμμένην]]  [[G2192\|ἔχων]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.28|<< Mark 2:28]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.2|Mark 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

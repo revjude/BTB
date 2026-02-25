@@ -1,8 +1,70 @@
+---
+title: Jeremiah 51:64
+type: Verse
+kjv: "And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far are the words of Jeremiah."
+bsb: "Then you are to say, ‘In the same way Babylon will sink and never rise again, because of the disaster I will bring upon her. And her people will grow weary.’” Here end the words of Jeremiah."
+hebrew: "וְאָמַרְתָּ֗ כָּ֠כָה תִּשְׁקַ֨ע בָּבֶ֤ל וְלֹֽא־ תָקוּם֙ מִפְּנֵ֣י הָרָעָ֗ה אֲשֶׁ֧ר אָנֹכִ֛י מֵבִ֥יא עָלֶ֖יהָ וְיָעֵ֑פוּ עַד־ הֵ֖נָּה דִּבְרֵ֥י יִרְמְיָֽהוּ׃ ס"
+pericope: "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3602]]"
+- "[[H8257]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3286]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H1697G]]"
+- "[[H3414L]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 51:64**<big><big>[[Jer.51.59 Jeremiah’s Message to Seraiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far [are] the words of Jeremiah.
 <small><sub>**BSB:**</sub></small>
 Then you are to say, ‘In the same way Babylon will sink and never rise again, because of the disaster I will bring upon her. And her people will grow weary.’” Here end the words of Jeremiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H3602\|כָּ֠כָה]] [[H8257\|תִּשְׁקַ֨ע]] [[H0894\|בָּבֶ֤ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6965B\|תָקוּם֙]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H9009\|הָ]][[H7451C\|רָעָ֗ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H0935P\|מֵבִ֥יא]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H9001\|וְ]][[H3286\|יָעֵ֑פוּ]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֖נָּה]] [[H1697G\|דִּבְרֵ֥י]] [[H3414L\|יִרְמְיָֽהוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSIA|PERSIA]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -28,7 +90,7 @@ Then you are to say, ‘In the same way Babylon will sink and never rise again, 
 | [are] to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here  |**<big>&#8207;[[H2008\|הֵ֖נָּה]]&#8207; </big>**| He.nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.63|<< Jeremiah 51:63]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.1|Jeremiah 52:1 >>]]</td></tr></table>
 
 

@@ -1,6 +1,46 @@
+---
+title: LXX Job 23:14
+type: Verse
+lxx: "On account of this, I have hastened unto him; and being admonished, I thought of him."
+greek: "διά τούτο επ΄ αυτώ εσπούδακα νουθετούμενος δε εφρόντισα αυτού"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G4704]]"
+- "[[G3560]]"
+- "[[G1161]]"
+- "[[G5431]]"
+- "[[G1473]]"
+---
+
 **LXX Job 23:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this, I have hastened unto him; and being admonished, I thought of him. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G4704\|εσπούδακα]] [[G3560\|νουθετούμενος]] [[G1161\|δε]] [[G5431\|εφρόντισα]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.13|<< Job 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.15|Job 23:15 >>]]</td></tr></table>
 
@@ -14,6 +54,6 @@ On account of this, I have hastened unto him; and being admonished, I thought of
 | and being admonished, | **<big>[[G3560\|νουθετούμενος]]</big>** **<big>[[G1161\|δε]]</big>** |
 | I thought | **<big>[[G5431\|εφρόντισα]]</big>** |
 | of him. | **<big>[[G1473\|αυτού]]</big>** |
-[[Job.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.13|<< Job 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.15|Job 23:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.13|<< Job 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.15|Job 23:15 >>]]</td></tr></table>
 
 

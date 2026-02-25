@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 33:24
+type: Verse
+kjv: "And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil."
+bsb: "And concerning Asher he said: “May Asher be the most blessed of sons; may he be the most favored among his brothers and dip his foot in oil."
+hebrew: "וּלְאָשֵׁ֣ר אָמַ֔ר בָּר֥וּךְ מִבָּנִ֖ים אָשֵׁ֑ר יְהִ֤י רְצוּי֙ אֶחָ֔יו וְטֹבֵ֥ל בַּשֶּׁ֖מֶן רַגְלֽוֹ׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0836]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H1961]]"
+- "[[H7521]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H2881]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:24**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Asher he said, [Let] Asher [be] blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
 <small><sub>**BSB:**</sub></small>
 And concerning Asher he said: “May Asher be the most blessed of sons; may he be the most favored among his brothers and dip his foot in oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0836\|אָשֵׁ֣ר]] [[H0559\|אָמַ֔ר]] [[H1288\|בָּר֥וּךְ]] [[H9006\|מִ]][[H1121A\|בָּנִ֖ים]] [[H0836\|אָשֵׁ֑ר]] [[H1961\|יְהִ֤י]] [[H7521\|רְצוּי֙]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H2881\|טֹבֵ֥ל]] [[H9003\|בַּ]][[H8081\|שֶּׁ֖מֶן]] [[H7272\|רַגְלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.23|<< Deuteronomy 33:23]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.25|Deuteronomy 33:25 >>]]</td></tr></table>
 

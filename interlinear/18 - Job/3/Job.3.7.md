@@ -1,8 +1,56 @@
+---
+title: Job 3:7
+type: Verse
+kjv: "Lo, let that night be solitary, let no joyful voice come therein."
+bsb: "Behold, may that night be barren; may no joyful voice come into it."
+hebrew: "הִנֵּ֤ה הַלַּ֣יְלָה הַ֭הוּא יְהִ֣י גַלְמ֑וּד אַל־ תָּבֹ֖א רְנָנָ֣ה בֽוֹ׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H1565]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H7445]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:7**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, let that night be solitary, let no joyful voice come therein.
 <small><sub>**BSB:**</sub></small>
 Behold, may that night be barren; may no joyful voice come into it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H9009\|הַ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ֭]][[H1931\|הוּא]] [[H1961\|יְהִ֣י]] [[H1565\|גַלְמ֑וּד]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּבֹ֖א]] [[H7445\|רְנָנָ֣ה]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.8|Job 3:8 >>]]</td></tr></table>
 

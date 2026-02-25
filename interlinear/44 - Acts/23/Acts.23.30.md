@@ -1,10 +1,70 @@
+---
+title: Acts 23:30
+type: Verse
+kjv: "And when it was told me how that the Jews laid wait for the man, I sent straightway to thee, and gave commandment to his accusers also to say before thee what they had against him. Farewell."
+bsb: "When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you."
+greek: "μηνυθείσης δέ μοι ἐπιβουλῆς εἰς τὸν ἄνδρα μέλλειν ἔσεσθαι ὑπὸ τῶν Ἰουδαίων ἐξαυτῆς ἔπεμψα πρὸς σὲ παραγγείλας καὶ τοῖς κατηγόροις λέγειν τὰ πρὸς αὐτὸν ἐπὶ σοῦ. ἔρρωσο¶"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3377]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G1917]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G3195]]"
+- "[[G1510]]"
+- "[[G5259G]]"
+- "[[G2453]]"
+- "[[G1824]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3853]]"
+- "[[G2532]]"
+- "[[G2725]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G4517]]"
+texts:
+- NKO
+- k
+- NK(O)
+- KO
+---
+
 **Acts 23:30**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was told me how that the Jews laid wait for the man, I sent straightway to thee, and gave commandment to his accusers also to say before thee what [they had] against him. Farewell.
 <small><sub>**BSB:**</sub></small>
 When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you.
-<small><sub>**Literal:**</sub></small>
-When was being disclosed then to me a plot that against the man to be about to going to happen by the Jews at once I sent [him] to you having instructed also to the accusers to speak the [things] against him before you. Farewell!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.29|<< Acts 23:29]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.31|Acts 23:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3377\|μηνυθείσης]]  [[G1161\|δέ]]  [[G3165\|μοι]]  [[G1917\|ἐπιβουλῆς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0435G\|ἄνδρα]]  [[G3195\|μέλλειν]]  [[G1510\|ἔσεσθαι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G1824\|ἐξαυτῆς]]  [[G3992\|ἔπεμψα]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G3853\|παραγγείλας]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G2725\|κατηγόροις]]  [[G3004G\|λέγειν]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G4771\|σοῦ.]]  [[G4517\|ἔρρωσο¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic LETTERS|LETTERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.29|<< Acts 23:29]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.31|Acts 23:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

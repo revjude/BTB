@@ -1,10 +1,67 @@
+---
+title: Revelation 4:11
+type: Verse
+kjv: "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."
+bsb: "“Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”"
+greek: "ἄξιος εἶ, ὁ κύριος καὶ ὁ θεὸς ἡμῶν, ὁ ἅγιος, λαβεῖν τὴν δόξαν καὶ τὴν τιμὴν καὶ τὴν δύναμιν. ὅτι σὺ ἔκτισας τὰ πάντα, καὶ διὰ τὸ θέλημά σου ἦσαν καὶ ἐκτίσθησαν.¶"
+pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G0514]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G0040G]]"
+- "[[G2983]]"
+- "[[G1391]]"
+- "[[G5092]]"
+- "[[G1411]]"
+- "[[G3754H]]"
+- "[[G4771]]"
+- "[[G2936]]"
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G2307]]"
+texts:
+- NKO
+- NO
+- O
+- N(k)O
+---
+
 **Revelation 4:11**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
 <small><sub>**BSB:**</sub></small>
 “Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”
-<small><sub>**Literal:**</sub></small>
-Worthy are You Lord and the God of us, the Holy One to receive <the> glory and <the> honor and <the> power. for You yourself created <the> all things, and because of the will of You they were existing and were created.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.10|<< Revelation 4:10]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.1|Revelation 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0514\|ἄξιος]]  [[G1510\|εἶ,]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3165\|ἡμῶν,]]  [[G3588\|ὁ]]  [[G0040G\|ἅγιος,]]  [[G2983\|λαβεῖν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5092\|τιμὴν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν.]]  [[G3754H\|ὅτι]]  [[G4771\|σὺ]]  [[G2936\|ἔκτισας]]  [[G3588\|τὰ]]  [[G3956\|πάντα,]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου]]  [[G1510\|ἦσαν]]  [[G2532\|καὶ]]  [[G2936\|ἐκτίσθησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.10|<< Revelation 4:10]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.1|Revelation 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Psalm 78:7
+type: Verse
+kjv: "That they might set their hope in God, and not forget the works of God, but keep his commandments:"
+bsb: "that they should put their confidence in God, not forgetting His works, but keeping His commandments."
+hebrew: "וְיָשִׂ֥ימוּ בֵֽאלֹהִ֗ים כִּ֫סְלָ֥ם וְלֹ֣א יִ֭שְׁכְּחוּ מַֽעַלְלֵי־ אֵ֑ל וּמִצְוֹתָ֥יו יִנְצֹֽרוּ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H3689]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H4611]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:7**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they might set their hope in God, and not forget the works of God, but keep his commandments:
 <small><sub>**BSB:**</sub></small>
 that they should put their confidence in God, not forgetting His works, but keeping His commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7760A\|יָשִׂ֥ימוּ]] [[H9003\|בֵֽ]][[H0430G\|אלֹהִ֗ים]] [[H3689\|כִּ֫סְלָ֥]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7911\|יִ֭שְׁכְּחוּ]] [[H4611\|מַֽעַלְלֵי]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H9002\|וּ]][[H4687\|מִצְוֹתָ֥י]][[H9023\|ו]] [[H5341\|יִנְצֹֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SCHOOL|SCHOOL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.6|<< Psalms 78:6]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.8|Psalms 78:8 >>]]</td></tr></table>
 

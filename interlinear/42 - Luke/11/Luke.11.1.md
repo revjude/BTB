@@ -1,10 +1,62 @@
+---
+title: Luke 11:1
+type: Verse
+kjv: "And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples."
+bsb: "One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”"
+greek: "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν τόπῳ τινὶ προσευχόμενον, ὡς ἐπαύσατο, εἶπέν τις τῶν μαθητῶν αὐτοῦ πρὸς αὐτόν· κύριε, δίδαξον ἡμᾶς προσεύχεσθαι καθὼς καὶ Ἰωάννης ἐδίδαξεν τοὺς μαθητὰς αὐτοῦ."
+pericope: "[[Luke.11.1 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G0846]]"
+- "[[G5117]]"
+- "[[G5100]]"
+- "[[G4336]]"
+- "[[G5613]]"
+- "[[G3973]]"
+- "[[G2036]]"
+- "[[G3101]]"
+- "[[G4314]]"
+- "[[G2962G]]"
+- "[[G1321]]"
+- "[[G3165]]"
+- "[[G2531]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Luke 11:1**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 <small><sub>**BSB:**</sub></small>
 One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”
-<small><sub>**Literal:**</sub></small>
-And it came to pass while <the> being He in a place certain praying, when He ceased, said one of the disciples of Him to Him; Lord, do teach us to pray even as also John taught the disciples of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.42|<< Luke 10:42]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.2|Luke 11:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G5117\|τόπῳ]]  [[G5100\|τινὶ]]  [[G4336\|προσευχόμενον,]]  [[G5613\|ὡς]]  [[G3973\|ἐπαύσατο,]]  [[G2036\|εἶπέν]]  [[G5100\|τις]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G2962G\|κύριε,]]  [[G1321\|δίδαξον]]  [[G3165\|ἡμᾶς]]  [[G4336\|προσεύχεσθαι]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G2491G\|Ἰωάννης]]  [[G1321\|ἐδίδαξεν]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.42|<< Luke 10:42]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.2|Luke 11:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

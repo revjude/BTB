@@ -1,8 +1,72 @@
+---
+title: Daniel 1:12
+type: Verse
+kjv: "Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink."
+bsb: "“Please test your servants for ten days. Let us be given only vegetables to eat and water to drink."
+hebrew: "נַס־ נָ֥א אֶת־ עֲבָדֶ֖יךָ יָמִ֣ים עֲשָׂרָ֑ה וְיִתְּנוּ־ לָ֜נוּ מִן־ הַזֵּרֹעִ֛ים וְנֹאכְלָ֖ה וּמַ֥יִם וְנִשְׁתֶּֽה׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic PULSE|PULSE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H5254G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3117G]]"
+- "[[H6235]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2235A]]"
+- "[[H0398]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:12**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
 <small><sub>**BSB:**</sub></small>
 “Please test your servants for ten days. Let us be given only vegetables to eat and water to drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H5254G\|נַס]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H3117G\|יָמִ֣ים]] [[H6235\|עֲשָׂרָ֑ה]] [[H9002\|וְ]][[H5414G\|יִתְּנוּ]][[H9014\|־]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2235A\|זֵּרֹעִ֛ים]] [[H9002\|וְ]][[H0398\|נֹאכְלָ֖ה]] [[H9002\|וּ]][[H4325G\|מַ֥יִם]] [[H9002\|וְ]][[H8354\|נִשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic ABSTINENCE|ABSTINENCE]] • [[topic APPETITE|APPETITE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic PULSE|PULSE]] • [[topic SCHOOL|SCHOOL]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.11|<< Daniel 1:11]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.13|Daniel 1:13 >>]]</td></tr></table>
 

@@ -1,10 +1,48 @@
+---
+title: 1 Corinthians 16:20
+type: Verse
+kjv: "All the brethren greet you. Greet ye one another with an holy kiss."
+bsb: "All the brothers here send you greetings. Greet one another with a holy kiss."
+greek: "ἀσπάζονται ὑμᾶς οἱ ἀδελφοὶ πάντες.¶ Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ.¶"
+pericope: "[[1Cor.16.19 Signature and Final Greetings|Signature and Final Greetings]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3956]]"
+- "[[G0240]]"
+- "[[G1722]]"
+- "[[G5370]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:20**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All the brethren greet you. Greet ye one another with an holy kiss.
 <small><sub>**BSB:**</sub></small>
 All the brothers here send you greetings. Greet one another with a holy kiss.
-<small><sub>**Literal:**</sub></small>
-Greet you the brothers all. do greet one another with a kiss holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.19|<< 1 Corinthians 16:19]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.21|1 Corinthians 16:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀσπάζονται]]  [[G4771\|ὑμᾶς]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G3956\|πάντες.¶]]  [[G0782\|Ἀσπάσασθε]]  [[G0240\|ἀλλήλους]]  [[G1722\|ἐν]]  [[G5370\|φιλήματι]]  [[G0040G\|ἁγίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.19|<< 1 Corinthians 16:19]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.21|1 Corinthians 16:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

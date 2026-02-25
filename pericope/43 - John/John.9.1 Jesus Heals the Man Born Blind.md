@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals the Man Born Blind
+type: Pericope
 pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 9
 book/chapter: "[[John.9|John 9]]"
-genre:
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.9.1]]"
 - "[[John.9.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.9.12]]"
 ---
 
-[[John.9|John 9:1 - John 9:12]]
+<small>[[John.9|John 9:1-12]]</small>
 *Jesus Heals the Man Born Blind*
 
 [[John.9.1|1]] And as \[Jesus\] passed by, he saw a man which was blind from \[his\] birth.

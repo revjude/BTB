@@ -1,8 +1,63 @@
+---
+title: Judges 13:3
+type: Verse
+kjv: "And the angel of the LORD appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son."
+bsb: "The angel of the LORD appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son."
+hebrew: "וַיֵּרָ֥א מַלְאַךְ־ יְהוָ֖ה אֶל־ הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה־ נָ֤א אַתְּ־ עֲקָרָה֙ וְלֹ֣א יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200L]]"
+- "[[H4397H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0559]]"
+- "[[H9034]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H0859C]]"
+- "[[H6135]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3205]]"
+- "[[H2029]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:3**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD appeared unto the woman, and said unto her, Behold now, thou [art] barren, and bearest not: but thou shalt conceive, and bear a son.
 <small><sub>**BSB:**</sub></small>
 The angel of the LORD appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200L\|יֵּרָ֥א]] [[H4397H\|מַלְאַךְ]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֗י]][[H9034\|הָ]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0859C\|אַתְּ]][[H9014\|־]] [[H6135\|עֲקָרָה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3205\|יָלַ֔דְתְּ]] [[H9001\|וְ]][[H2029\|הָרִ֖ית]] [[H9001\|וְ]][[H3205\|יָלַ֥דְתְּ]] [[H1121A\|בֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.2|<< Judges 13:2]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.4|Judges 13:4 >>]]</td></tr></table>
 

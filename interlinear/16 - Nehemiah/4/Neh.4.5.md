@@ -1,8 +1,62 @@
+---
+title: Nehemiah 4:5
+type: Verse
+kjv: "And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked thee to anger before the builders."
+bsb: "Do not cover up their iniquity or let their sin be blotted out from Your sight, for they have provoked the builders."
+hebrew: "וְאַל־ תְּכַס֙ עַל־ עֲוֹנָ֔ם וְחַטָּאתָ֖ם מִלְּפָנֶ֣יךָ אַל־ תִּמָּחֶ֑ה כִּ֥י הִכְעִ֖יסוּ לְנֶ֥גֶד הַבּוֹנִֽים׃"
+pericope: "[[Neh.4.1 The Work Ridiculed|The Work Ridiculed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3680]]"
+- "[[H5921A]]"
+- "[[H5771H]]"
+- "[[H9028]]"
+- "[[H2403B]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H4229A]]"
+- "[[H3588A]]"
+- "[[H3707]]"
+- "[[H5048]]"
+- "[[H9009]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:5**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked [thee] to anger before the builders.
 <small><sub>**BSB:**</sub></small>
 Do not cover up their iniquity or let their sin be blotted out from Your sight, for they have provoked the builders.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3680\|תְּכַס֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5771H\|עֲוֹנָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H2403B\|חַטָּאתָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H4229A\|תִּמָּחֶ֑ה]] [[H3588A\|כִּ֥י]] [[H3707\|הִכְעִ֖יסוּ]] [[H9005\|לְ]][[H5048\|נֶ֥גֶד]] [[H9009\|הַ]][[H1129\|בּוֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.4|<< Nehemiah 4:4]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.6|Nehemiah 4:6 >>]]</td></tr></table>
 

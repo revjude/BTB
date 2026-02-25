@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Philistines Reject David
+type: Pericope
 pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 29
 book/chapter: "[[1Sam.29|1 Samuel 29]]"
-genre:
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.29.1]]"
 - "[[1Sam.29.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.29.11]]"
 ---
 
-[[1Sam.29|1 Samuel 29:1 - 1 Samuel 29:11]]
+<small>[[1Sam.29|1 Samuel 29:1-11]]</small>
 *The Philistines Reject David*
 
 [[1Sam.29.1|1]] Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which \[is\] in Jezreel.

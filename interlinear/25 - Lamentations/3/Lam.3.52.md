@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:52
+type: Verse
+kjv: "Mine enemies chased me sore, like a bird, without cause."
+bsb: "Without cause my enemies hunted me like a bird."
+hebrew: "צ֥וֹד צָד֛וּנִי כַּצִּפּ֖וֹר אֹיְבַ֥י חִנָּֽם׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H6679A]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H6833]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H2600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:52**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine enemies chased me sore, like a bird, without cause.
 <small><sub>**BSB:**</sub></small>
 Without cause my enemies hunted me like a bird.
+<small><sub>**Hebrew:**</sub></small>
+[[H6679A\|צ֥וֹד]] [[H6679A\|צָד֛וּ]][[H9030\|נִי]] [[H9004\|כַּ]][[H6833\|צִּפּ֖וֹר]] [[H0341\|אֹיְבַ֥]][[H9020\|י]] [[H2600\|חִנָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HUNTING|HUNTING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.51|<< Lamentations 3:51]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.53|Lamentations 3:53 >>]]</td></tr></table>
 

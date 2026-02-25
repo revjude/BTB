@@ -1,8 +1,57 @@
+---
+title: Malachi 3:4
+type: Verse
+kjv: "Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years."
+bsb: "Then the offerings of Judah and Jerusalem will please the LORD, as in days of old and years gone by."
+hebrew: "וְעָֽרְבָה֙ לַֽיהוָ֔ה מִנְחַ֥ת יְהוּדָ֖ה וִירֽוּשָׁלִָ֑ם כִּימֵ֣י עוֹלָ֔ם וּכְשָׁנִ֖ים קַדְמֹנִיּֽוֹת׃"
+pericope: "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H6149]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4503G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H5769J]]"
+- "[[H8141]]"
+- "[[H6931H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:4**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
 <small><sub>**BSB:**</sub></small>
 Then the offerings of Judah and Jerusalem will please the LORD, as in days of old and years gone by.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6149\|עָֽרְבָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H4503G\|מִנְחַ֥ת]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וִ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H9004\|כִּ]][[H3117G\|ימֵ֣י]] [[H5769J\|עוֹלָ֔ם]] [[H9002\|וּ]][[H9004\|כְ]][[H8141\|שָׁנִ֖ים]] [[H6931H\|קַדְמֹנִיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MALACHI|MALACHI]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.3|<< Malachi 3:3]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.5|Malachi 3:5 >>]]</td></tr></table>
 

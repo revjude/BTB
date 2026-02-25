@@ -1,8 +1,61 @@
+---
+title: Psalm 56:9
+type: Verse
+kjv: "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me."
+bsb: "Then my enemies will retreat on the day I cry for help. By this I will know that God is on my side."
+hebrew: "אָ֥֨ז יָ֘שׁ֤וּבוּ אוֹיְבַ֣י אָ֭חוֹר בְּי֣וֹם אֶקְרָ֑א זֶה־ יָ֝דַ֗עְתִּי כִּֽי־ אֱלֹהִ֥ים לִֽי׃"
+pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7725G]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H0268]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7121I]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 56:9**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I cry [unto thee], then shall mine enemies turn back: this I know; for God [is] for me.
 <small><sub>**BSB:**</sub></small>
 Then my enemies will retreat on the day I cry for help. By this I will know that God is on my side.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֥֨ז]] [[H7725G\|יָ֘שׁ֤וּבוּ]] [[H0341\|אוֹיְבַ֣]][[H9020\|י]] [[H0268\|אָ֭חוֹר]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H7121I\|אֶקְרָ֑א]] [[H2088\|זֶה]][[H9014\|־]] [[H3045\|יָ֝דַ֗עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.8|<< Psalms 56:8]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.10|Psalms 56:10 >>]]</td></tr></table>
 

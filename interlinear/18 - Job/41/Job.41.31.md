@@ -1,8 +1,49 @@
+---
+title: Job 41:31
+type: Verse
+kjv: "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment."
+bsb: "He makes the depths seethe like a cauldron; he makes the sea like a jar of ointment."
+hebrew: "יַרְתִּ֣יחַ כַּסִּ֣יר מְצוּלָ֑ה יָ֝֗ם יָשִׂ֥ים כַּמֶּרְקָחָֽה׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7570]]"
+- "[[H9004]]"
+- "[[H5518A]]"
+- "[[H4688]]"
+- "[[H3220G]]"
+- "[[H7760A]]"
+- "[[H4841]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:31**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
 <small><sub>**BSB:**</sub></small>
 He makes the depths seethe like a cauldron; he makes the sea like a jar of ointment.
+<small><sub>**Hebrew:**</sub></small>
+[[H7570\|יַרְתִּ֣יחַ]] [[H9004\|כַּ]][[H5518A\|סִּ֣יר]] [[H4688\|מְצוּלָ֑ה]] [[H3220G\|יָ֝֗ם]] [[H7760A\|יָשִׂ֥ים]] [[H9004\|כַּ]][[H4841\|מֶּרְקָחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.32|Job 41:32 >>]]</td></tr></table>
 

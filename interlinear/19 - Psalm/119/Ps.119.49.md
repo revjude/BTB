@@ -1,8 +1,56 @@
+---
+title: Psalm 119:49
+type: Verse
+kjv: "Remember the word unto thy servant, upon which thou hast caused me to hope."
+bsb: "Remember Your word to Your servant, upon which You have given me hope."
+hebrew: "זְכֹר־ דָּבָ֥ר לְעַבְדֶּ֑ךָ עַ֝֗ל אֲשֶׁ֣ר יִֽחַלְתָּֽנִי׃"
+pericope: "[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|Your Word Is a Lamp to My Feet - ZAIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H3176H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:49**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember the word unto thy servant, upon which thou hast caused me to hope.
 <small><sub>**BSB:**</sub></small>
 Remember Your word to Your servant, upon which You have given me hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹר]][[H9014\|־]] [[H1697G\|דָּבָ֥ר]] [[H9005\|לְ]][[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H5921A\|עַ֝֗ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H3176H\|יִֽחַלְתָּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.48|<< Psalms 119:48]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.50|Psalms 119:50 >>]]</td></tr></table>
 

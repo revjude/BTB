@@ -1,8 +1,74 @@
+---
+title: Genesis 4:25
+type: Verse
+kjv: "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew."
+bsb: "And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”"
+hebrew: "וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־ אִשְׁתּ֔וֹ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ שֵׁ֑ת כִּ֣י שָֽׁת־ לִ֤י אֱלֹהִים֙ זֶ֣רַע אַחֵ֔ר תַּ֣חַת הֶ֔בֶל כִּ֥י הֲרָג֖וֹ קָֽיִן׃"
+pericope: "[[Gen.4.25 Seth and Enosh|Seth and Enosh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic ADAM|ADAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EVE|EVE]]"
+- "[[topic SETH|SETH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0121G]]"
+- "[[H5750]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H8352]]"
+- "[[H3588A]]"
+- "[[H7896I]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H2233H]]"
+- "[[H0312]]"
+- "[[H8478H]]"
+- "[[H1893]]"
+- "[[H2026]]"
+- "[[H9033]]"
+- "[[H7014B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:25**<big><big>[[Gen.4.25 Seth and Enosh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam knew his wife again; and she bare a son, and called his name Seth: For God, [said she], hath appointed me another seed instead of Abel, whom Cain slew.
 <small><sub>**BSB:**</sub></small>
 And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3045\|יֵּ֨דַע]] [[H0121G\|אָדָ֥ם]] [[H5750\|עוֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֔ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H8352\|שֵׁ֑ת]] [[H3588A\|כִּ֣י]] [[H7896I\|שָֽׁת]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H0430G\|אֱלֹהִים֙]] [[H2233H\|זֶ֣רַע]] [[H0312\|אַחֵ֔ר]] [[H8478H\|תַּ֣חַת]] [[H1893\|הֶ֔בֶל]] [[H3588A\|כִּ֥י]] [[H2026\|הֲרָג֖]][[H9033\|וֹ]] [[H7014B\|קָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic ADAM|ADAM]] • [[topic CHILDREN|CHILDREN]] • [[topic EVE|EVE]] • [[topic SETH|SETH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.24|<< Genesis 4:24]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.26|Genesis 4:26 >>]]</td></tr></table>
 

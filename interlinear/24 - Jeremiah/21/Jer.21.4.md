@@ -1,8 +1,82 @@
+---
+title: Jeremiah 21:4
+type: Verse
+kjv: "Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that are in your hands, wherewith ye fight against the king of Babylon, and against the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city."
+bsb: "this is what the LORD, the God of Israel, says: ‘I will turn against you the weapons of war in your hands, with which you are fighting the king of Babylon and the Chaldeans who besiege you outside the wall, and I will assemble their forces in the center of this city."
+hebrew: "כֹּֽה־ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֣י מֵסֵב֮ אֶת־ כְּלֵ֣י הַמִּלְחָמָה֮ אֲשֶׁ֣ר בְּיֶדְכֶם֒ אֲשֶׁ֨ר אַתֶּ֜ם נִלְחָמִ֣ים בָּ֗ם אֶת־ מֶ֤לֶךְ בָּבֶל֙ וְאֶת־ הַכַּשְׂדִּ֔ים הַצָּרִ֣ים עֲלֵיכֶ֔ם מִח֖וּץ לַֽחוֹמָ֑ה וְאָסַפְתִּ֣י אוֹתָ֔ם אֶל־ תּ֖וֹךְ הָעִ֥יר הַזֹּֽאת׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5437J]]"
+- "[[H0853]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H0859D]]"
+- "[[H3898A]]"
+- "[[H9038]]"
+- "[[H0854]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H3778]]"
+- "[[H6696A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H2346G]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H8432]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:4**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that [are] in your hands, wherewith ye fight against the king of Babylon, and [against] the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.
 <small><sub>**BSB:**</sub></small>
 this is what the LORD, the God of Israel, says: ‘I will turn against you the weapons of war in your hands, with which you are fighting the king of Babylon and the Chaldeans who besiege you outside the wall, and I will assemble their forces in the center of this city.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5437J\|מֵסֵב֮]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3027G\|יֶדְ]][[H9026\|כֶם֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H0859D\|אַתֶּ֜ם]] [[H3898A\|נִלְחָמִ֣ים]] [[H9003\|בָּ֗]][[H9038\|ם]] [[H0854\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֤לֶךְ]] [[H0894\|בָּבֶל֙]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9009\|הַ]][[H6696A\|צָּרִ֣ים]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַֽ]][[H2346G\|חוֹמָ֑ה]] [[H9001\|וְ]][[H0622\|אָסַפְתִּ֣י]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֖וֹךְ]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.3|<< Jeremiah 21:3]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.5|Jeremiah 21:5 >>]]</td></tr></table>
 

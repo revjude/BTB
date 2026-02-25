@@ -1,6 +1,79 @@
+---
+title: LXX Exodus 3:6
+type: Verse
+lxx: "And he said to him, I am the God  of your father; the God of Abraham, and the God of Isaac, and the God of Jacob. And Moses turned  his face, for he venerated to look in the presence of  God."
+greek: "και είπεν αυτώ εγώ ειμι ο θεός του πατρός σου ο θεός Αβραάμ και ο θεός Ισαάκ και ο θεός Ιακώβ απέστρεψε δε Μωυσής το πρόσωπον αυτού ευλαβείτο γαρ καταβλέψαι ενώπιον του θεού"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2464]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2384]]"
+- "[[G0654]]"
+- "[[G1161]]"
+- "[[G3475]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G2125]]"
+- "[[G1063]]"
+- "[[G7822]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX Exodus 3:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, I am the God  of your father; the God of Abraham, and the God of Isaac, and the God of Jacob. And Moses turned  his face, for he venerated to look in the presence of  God. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|σου]] [[G3588\|ο]] [[G2316\|θεός]] [[G0011\|Αβραάμ]] [[G2532\|και]] [[G3588\|ο]] [[G2316\|θεός]] [[G2464\|Ισαάκ]] [[G2532\|και]] [[G3588\|ο]] [[G2316\|θεός]] [[G2384\|Ιακώβ]] [[G0654\|απέστρεψε]] [[G1161\|δε]] [[G3475\|Μωυσής]] [[G3588\|το]] [[G4383\|πρόσωπον]] [[G1473\|αυτού]] [[G2125\|ευλαβείτο]] [[G1063\|γαρ]] [[G7822\|καταβλέψαι]] [[G1799\|ενώπιον]] [[G3588\|του]] [[G2316\|θεού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic REVELATION|REVELATION]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.5|<< Exodus 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.7|Exodus 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -40,6 +113,6 @@ And he said to him, I am the God  of your father; the God of Abraham, and the Go
 | in the presence of | **<big>[[G1799\|ενώπιον]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | God. | **<big>[[G2316\|θεού]]</big>** |
-[[Exod.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.5|<< Exodus 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.7|Exodus 3:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.5|<< Exodus 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.7|Exodus 3:7 >>]]</td></tr></table>
 
 

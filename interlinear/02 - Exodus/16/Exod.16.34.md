@@ -1,8 +1,67 @@
+---
+title: Exodus 16:34
+type: Verse
+kjv: "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+bsb: "And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses."
+hebrew: "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶל־ מֹשֶׁ֑ה וַיַּנִּיחֵ֧הוּ אַהֲרֹ֛ן לִפְנֵ֥י הָעֵדֻ֖ת לְמִשְׁמָֽרֶת׃"
+pericope: "[[Exod.16.31 The Jar of Manna|The Jar of Manna]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9033]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H4931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:34**<big><big>[[Exod.16.31 The Jar of Manna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept.
 <small><sub>**BSB:**</sub></small>
 And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H9001\|וַ]][[H5117\|יַּנִּיחֵ֧]][[H9033\|הוּ]] [[H0175\|אַהֲרֹ֛ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5715\|עֵדֻ֖ת]] [[H9005\|לְ]][[H4931\|מִשְׁמָֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ARK|ARK]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEMORIAL|MEMORIAL]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.33|<< Exodus 16:33]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.35|Exodus 16:35 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 33:18
+type: Verse
+kjv: "And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents."
+bsb: "Concerning Zebulun he said: “Rejoice, Zebulun, in your journeys, and Issachar, in your tents."
+hebrew: "וְלִזְבוּלֻ֣ן אָמַ֔ר שְׂמַ֥ח זְבוּלֻ֖ן בְּצֵאתֶ֑ךָ וְיִשָּׂשכָ֖ר בְּאֹהָלֶֽיךָ׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2074]]"
+- "[[H0559]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H3485G]]"
+- "[[H0168G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:18**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.
 <small><sub>**BSB:**</sub></small>
 Concerning Zebulun he said: “Rejoice, Zebulun, in your journeys, and Issachar, in your tents.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H2074\|זְבוּלֻ֣ן]] [[H0559\|אָמַ֔ר]] [[H8055\|שְׂמַ֥ח]] [[H2074\|זְבוּלֻ֖ן]] [[H9003\|בְּ]][[H3318G\|צֵאתֶ֑]][[H9041\|ךָ]] [[H9002\|וְ]][[H3485G\|יִשָּׂשכָ֖ר]] [[H9003\|בְּ]][[H0168G\|אֹהָלֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic ISSACHAR|ISSACHAR]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.17|<< Deuteronomy 33:17]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.19|Deuteronomy 33:19 >>]]</td></tr></table>
 

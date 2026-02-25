@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 17:12
+type: Verse
+kjv: "Now David was the son of that Ephrathite of Bethlehemjudah, whose name was Jesse; and he had eight sons: and the man went among men for an old man in the days of Saul."
+bsb: "Now David was the son of a man named Jesse, an Ephrathite from Bethlehem of Judah who had eight sons. And in the days of Saul, Jesse was old and well along in years."
+hebrew: "וְדָוִד֩ בֶּן־ אִ֨ישׁ אֶפְרָתִ֜י הַזֶּ֗ה מִבֵּ֥ית לֶ֙חֶם֙ יְהוּדָ֔ה וּשְׁמ֣וֹ יִשַׁ֔י וְל֖וֹ שְׁמֹנָ֣ה בָנִ֑ים וְהָאִישׁ֙ בִּימֵ֣י שָׁא֔וּל זָקֵ֖ן בָּ֥א בַאֲנָשִֽׁים׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESSE|JESSE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0673H]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3448]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8083]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7586G]]"
+- "[[H2204]]"
+- "[[H0935J]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:12**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now David [was] the son of that Ephrathite of Bethlehemjudah, whose name [was] Jesse; and he had eight sons: and the man went among men [for] an old man in the days of Saul.
 <small><sub>**BSB:**</sub></small>
 Now David was the son of a man named Jesse, an Ephrathite from Bethlehem of Judah who had eight sons. And in the days of Saul, Jesse was old and well along in years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִד֩]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H0673H\|אֶפְרָתִ֜י]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9006\|מִ]][[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֙חֶם֙]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H3448\|יִשַׁ֔י]] [[H9002\|וְ]][[H9005\|ל֖]][[H9033\|וֹ]] [[H8083\|שְׁמֹנָ֣ה]] [[H1121A\|בָנִ֑ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H7586G\|שָׁא֔וּל]] [[H2204\|זָקֵ֖ן]] [[H0935J\|בָּ֥א]] [[H9003\|בַ]][[H0582\|אֲנָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic JESSE|JESSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.11|<< 1 Samuel 17:11]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.13|1 Samuel 17:13 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Genesis 6:20
+type: Verse
+kjv: "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
+bsb: "Two of every kind of bird and animal and crawling creature will come to you to be kept alive."
+hebrew: "מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן־ הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5775]]"
+- "[[H9005]]"
+- "[[H4327]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H7431]]"
+- "[[H0127G]]"
+- "[[H8147]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:20**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every [sort] shall come unto thee, to keep [them] alive.
 <small><sub>**BSB:**</sub></small>
 Two of every kind of bird and animal and crawling creature will come to you to be kept alive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H9009\|הָ]][[H5775\|ע֣וֹף]] [[H9005\|לְ]][[H4327\|מִינֵ֗]][[H9023\|הוּ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָה֙]] [[H9005\|לְ]][[H4327\|מִינָ֔]][[H9024\|הּ]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H7431\|רֶ֥מֶשׂ]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֖ה]] [[H9005\|לְ]][[H4327\|מִינֵ֑]][[H9023\|הוּ]] [[H8147\|שְׁנַ֧יִם]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H0935G\|יָבֹ֥אוּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9005\|לְ]][[H2421\|הַֽחֲיֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.19|<< Genesis 6:19]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.21|Genesis 6:21 >>]]</td></tr></table>
 

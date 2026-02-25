@@ -1,8 +1,54 @@
+---
+title: Nehemiah 7:30
+type: Verse
+kjv: "The men of Ramah and Geba, six hundred twenty and one."
+bsb: "the men of Ramah and Geba, 621;"
+hebrew: "אַנְשֵׁ֤י הָֽרָמָה֙ וָגָ֔בַע שֵׁ֥שׁ מֵא֖וֹת עֶשְׂרִ֥ים וְאֶחָֽד׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GABA|GABA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H9002]]"
+- "[[H1387G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H0259]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:30**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The men of Ramah and Geba, six hundred twenty and one.
 <small><sub>**BSB:**</sub></small>
 the men of Ramah and Geba, 621;
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אַנְשֵׁ֤י]] [[H9009\|הָֽ]][[H7414G\|רָמָה֙]] [[H9002\|וָ]][[H1387G\|גָ֔בַע]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0259\|אֶחָֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GABA|GABA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.29|<< Nehemiah 7:29]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.31|Nehemiah 7:31 >>]]</td></tr></table>
 
@@ -14,7 +60,7 @@ the men of Ramah and Geba, 621;
 | six  |**<big>&#8207;[[H8337\|שֵׁ֥שׁ]]&#8207; </big>**| shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and one  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.29|<< Nehemiah 7:29]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.31|Nehemiah 7:31 >>]]</td></tr></table>
 
 

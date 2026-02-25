@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 35:17
+type: Verse
+kjv: "And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days."
+bsb: "The Israelites who were present also observed the Passover at that time, as well as the Feast of Unleavened Bread for seven days."
+hebrew: "וַיַּעֲשׂ֨וּ בְנֵֽי־ יִשְׂרָאֵ֧ל הַֽנִּמְצְאִ֛ים אֶת־ הַפֶּ֖סַח בָּעֵ֣ת הַהִ֑יא וְאֶת־ חַ֥ג הַמַּצּ֖וֹת שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2282]]"
+- "[[H4682]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:17**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.
 <small><sub>**BSB:**</sub></small>
 The Israelites who were present also observed the Passover at that time, as well as the Feast of Unleavened Bread for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂ֨וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֧ל]] [[H9009\|הַֽ]][[H4672\|נִּמְצְאִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6453\|פֶּ֖סַח]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H4682\|מַּצּ֖וֹת]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.16|<< 2 Chronicles 35:16]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.18|2 Chronicles 35:18 >>]]</td></tr></table>
 

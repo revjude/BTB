@@ -1,8 +1,53 @@
+---
+title: Psalm 103:7
+type: Verse
+kjv: "He made known his ways unto Moses, his acts unto the children of Israel."
+bsb: "He made known His ways to Moses, His deeds to the people of Israel."
+hebrew: "יוֹדִ֣יעַ דְּרָכָ֣יו לְמֹשֶׁ֑ה לִבְנֵ֥י יִ֝שְׂרָאֵ֗ל עֲלִילֽוֹתָיו׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H3045]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5949]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:7**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made known his ways unto Moses, his acts unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
 He made known His ways to Moses, His deeds to the people of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יוֹדִ֣יעַ]] [[H1870G\|דְּרָכָ֣י]][[H9023\|ו]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֑ה]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִ֝שְׂרָאֵ֗ל]] [[H5949\|עֲלִילֽוֹתָי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.6|<< Psalms 103:6]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.8|Psalms 103:8 >>]]</td></tr></table>
 

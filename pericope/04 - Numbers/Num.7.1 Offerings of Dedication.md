@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings of Dedication
+type: Pericope
 pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
-verse_count: 89
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 7
 book/chapter: "[[Num.7|Numbers 7]]"
-genre:
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 89
 verses:
 - "[[Num.7.1]]"
 - "[[Num.7.2]]"
@@ -111,7 +118,7 @@ verses:
 - "[[Num.7.89]]"
 ---
 
-[[Num.7|Numbers 7:1 - Numbers 7:89]]
+<small>[[Num.7|Numbers 7:1-89]]</small>
 *Offerings of Dedication*
 
 [[Num.7.1|1]] And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;

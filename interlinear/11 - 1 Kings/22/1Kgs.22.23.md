@@ -1,8 +1,67 @@
+---
+title: 1 Kings 22:23
+type: Verse
+kjv: "Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee."
+bsb: "So you see, the LORD has put a lying spirit in the mouths of all these prophets of yours, and the LORD has pronounced disaster against you.”"
+hebrew: "וְעַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל־ נְבִיאֶ֣יךָ אֵ֑לֶּה וַֽיהוָ֔ה דִּבֶּ֥ר עָלֶ֖יךָ רָעָֽה׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic LYING|LYING]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H5414H]]"
+- "[[H3068G]]"
+- "[[H7307G]]"
+- "[[H8267]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H9021]]"
+- "[[H0428]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:23**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
 <small><sub>**BSB:**</sub></small>
 So you see, the LORD has put a lying spirit in the mouths of all these prophets of yours, and the LORD has pronounced disaster against you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2009\|הִנֵּ֨ה]] [[H5414H\|נָתַ֤ן]] [[H3068G\|יְהוָה֙]] [[H7307G\|ר֣וּחַ]] [[H8267\|שֶׁ֔קֶר]] [[H9003\|בְּ]][[H6310G\|פִ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H5030\|נְבִיאֶ֣י]][[H9021\|ךָ]] [[H0428\|אֵ֑לֶּה]] [[H9002\|וַֽ]][[H3068G\|יהוָ֔ה]] [[H1696I\|דִּבֶּ֥ר]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ARMIES|ARMIES]] • [[topic DEMONS|DEMONS]] • [[topic LYING|LYING]] • [[topic MICAIAH|MICAIAH]] • [[topic REPROOF|REPROOF]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.22|<< 1 Kings 22:22]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.24|1 Kings 22:24 >>]]</td></tr></table>
 

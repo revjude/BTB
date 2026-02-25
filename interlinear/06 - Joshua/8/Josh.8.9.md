@@ -1,8 +1,66 @@
+---
+title: Joshua 8:9
+type: Verse
+kjv: "Joshua therefore sent them forth: and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: but Joshua lodged that night among the people."
+bsb: "So Joshua sent them out, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai. But Joshua spent that night among the people."
+hebrew: "וַיִּשְׁלָחֵ֣ם יְהוֹשֻׁ֗עַ וַיֵּֽלְכוּ֙ אֶל־ הַמַּאְרָ֔ב וַיֵּשְׁב֗וּ בֵּ֧ין בֵּֽית־ אֵ֛ל וּבֵ֥ין הָעַ֖י מִיָּ֣ם לָעָ֑י וַיָּ֧לֶן יְהוֹשֻׁ֛עַ בַּלַּ֥יְלָה הַה֖וּא בְּת֥וֹךְ הָעָֽם׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3993]]"
+- "[[H3427]]"
+- "[[H0996G]]"
+- "[[H1008G]]"
+- "[[H9002]]"
+- "[[H5857G]]"
+- "[[H9006]]"
+- "[[H3220H]]"
+- "[[H9005]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:9**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joshua therefore sent them forth: and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: but Joshua lodged that night among the people.
 <small><sub>**BSB:**</sub></small>
 So Joshua sent them out, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai. But Joshua spent that night among the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלָחֵ֣]][[H9038\|ם]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H9001\|וַ]][[H1980G\|יֵּֽלְכוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3993\|מַּאְרָ֔ב]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֗וּ]] [[H0996G\|בֵּ֧ין]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֛ל]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H9009\|הָ]][[H5857G\|עַ֖י]] [[H9006\|מִ]][[H3220H\|יָּ֣ם]] [[H9005\|לָ]][[H5857G\|עָ֑י]] [[H9001\|וַ]][[H3885A\|יָּ֧לֶן]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9003\|בַּ]][[H3915\|לַּ֥יְלָה]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.8|<< Joshua 8:8]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.10|Joshua 8:10 >>]]</td></tr></table>
 

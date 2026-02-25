@@ -1,10 +1,55 @@
+---
+title: Ephesians 3:4
+type: Verse
+kjv: "Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)"
+bsb: "In reading this, then, you will be able to understand my insight into the mystery of Christ,"
+greek: "πρὸς ὃ δύνασθε ἀναγινώσκοντες νοῆσαι τὴν σύνεσίν μου ἐν τῷ μυστηρίῳ τοῦ Χριστοῦ,"
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G1410]]"
+- "[[G0314]]"
+- "[[G3539]]"
+- "[[G3588]]"
+- "[[G4907]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3466]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Ephesians 3:4**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
 <small><sub>**BSB:**</sub></small>
 In reading this, then, you will be able to understand my insight into the mystery of Christ,
-<small><sub>**Literal:**</sub></small>
-by which you are able reading [it] to understand the insight of mine into the mystery <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.3|<< Ephesians 3:3]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.5|Ephesians 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G3739\|ὃ]]  [[G1410\|δύνασθε]]  [[G0314\|ἀναγινώσκοντες]]  [[G3539\|νοῆσαι]]  [[G3588\|τὴν]]  [[G4907\|σύνεσίν]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3466\|μυστηρίῳ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.3|<< Ephesians 3:3]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.5|Ephesians 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

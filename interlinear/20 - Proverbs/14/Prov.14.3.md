@@ -1,8 +1,52 @@
+---
+title: Proverbs 14:3
+type: Verse
+kjv: "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them."
+bsb: "The proud speech of a fool brings a rod to his back, but the lips of the wise protect them."
+hebrew: "בְּֽפִי־ אֱ֭וִיל חֹ֣טֶר גַּאֲוָ֑ה וְשִׂפְתֵ֥י חֲ֝כָמִ֗ים תִּשְׁמוּרֵֽם׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H0191]]"
+- "[[H2415]]"
+- "[[H1346]]"
+- "[[H9002]]"
+- "[[H8193G]]"
+- "[[H2450]]"
+- "[[H8104H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:3**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the mouth of the foolish [is] a rod of pride: but the lips of the wise shall preserve them.
 <small><sub>**BSB:**</sub></small>
 The proud speech of a fool brings a rod to his back, but the lips of the wise protect them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ]][[H6310G\|פִי]][[H9014\|־]] [[H0191\|אֱ֭וִיל]] [[H2415\|חֹ֣טֶר]] [[H1346\|גַּאֲוָ֑ה]] [[H9002\|וְ]][[H8193G\|שִׂפְתֵ֥י]] [[H2450\|חֲ֝כָמִ֗ים]] [[H8104H\|תִּשְׁמוּרֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.2|<< Proverbs 14:2]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.4|Proverbs 14:4 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Ezekiel 25:4
+type: Verse
+kjv: "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk."
+bsb: "therefore I will indeed give you as a possession to the people of the East. They will set up their camps and pitch their tents among you. They will eat your fruit and drink your milk."
+hebrew: "לָכֵ֡ן הִנְנִי֩ נֹתְנָ֨ךְ לִבְנֵי־ קֶ֜דֶם לְמֽוֹרָשָׁ֗ה וְיִשְּׁב֤וּ טִירֽוֹתֵיהֶם֙ בָּ֔ךְ וְנָ֥תְנוּ בָ֖ךְ מִשְׁכְּנֵיהֶ֑ם הֵ֚מָּה יֹאכְל֣וּ פִרְיֵ֔ךְ וְהֵ֖מָּה יִשְׁתּ֥וּ חֲלָבֵֽךְ׃"
+pericope: "[[Ezek.25.1 A Prophecy against Ammon|A Prophecy against Ammon]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 25
+book/chapter: "[[Ezek.25|Ezekiel 25]]"
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H9032]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H6924A]]"
+- "[[H4181]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H2918]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H4908]]"
+- "[[H1992]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H2461]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 25:4**<big><big>[[Ezek.25.1 A Prophecy against Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.
 <small><sub>**BSB:**</sub></small>
 therefore I will indeed give you as a possession to the people of the East. They will set up their camps and pitch their tents among you. They will eat your fruit and drink your milk.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֡ן]] [[H2005\|הִנְ]][[H9040\|נִי֩]] [[H5414G\|נֹתְנָ֨]][[H9032\|ךְ]] [[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H6924A\|קֶ֜דֶם]] [[H9005\|לְ]][[H4181\|מֽוֹרָשָׁ֗ה]] [[H9001\|וְ]][[H3427\|יִשְּׁב֤וּ]] [[H2918\|טִירֽוֹתֵי]][[H9028\|הֶם֙]] [[H9003\|בָּ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H5414H\|נָ֥תְנוּ]] [[H9003\|בָ֖]][[H9032\|ךְ]] [[H4908\|מִשְׁכְּנֵי]][[H9028\|הֶ֑ם]] [[H1992\|הֵ֚מָּה]] [[H0398\|יֹאכְל֣וּ]] [[H6529\|פִרְיֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H8354\|יִשְׁתּ֥וּ]] [[H2461\|חֲלָבֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.3|<< Ezekiel 25:3]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.5|Ezekiel 25:5 >>]]</td></tr></table>
 

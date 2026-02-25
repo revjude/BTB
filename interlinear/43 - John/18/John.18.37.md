@@ -1,10 +1,76 @@
+---
+title: John 18:37
+type: Verse
+kjv: "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+bsb: "“Then You are a king!” Pilate said. “You say that I am a king,” Jesus answered. “For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice.”"
+jesus_said: "Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+greek: "Εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος· οὐκοῦν βασιλεὺς εἶ σύ; ἀπεκρίθη ὁ Ἰησοῦς· σὺ λέγεις ὅτι βασιλεύς εἰμι ἐγώ. ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον ἵνα μαρτυρήσω τῇ ἀληθείᾳ. πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς.¶"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G3766]]"
+- "[[G0935]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G1080]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2889]]"
+- "[[G2443]]"
+- "[[G3140]]"
+- "[[G0225]]"
+- "[[G3956]]"
+- "[[G1537]]"
+- "[[G0191]]"
+- "[[G3165]]"
+- "[[G5456G]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:37**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
 <small><sub>**BSB:**</sub></small>
 “Then You are a king!” Pilate said. “You say that I am a king,” Jesus answered. “For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice.”
-<small><sub>**Literal:**</sub></small>
-Said therefore to Him <the> Pilate; Then a king are You yourself? Answered <the> Jesus; You yourself say that a king am I myself. I myself for this have been born and for this I have come into the world that I may bear witness to the truth. Everyone who is being of the truth hears My the voice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.36|<< John 18:36]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.38|John 18:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G3766\|οὐκοῦν]]  [[G0935\|βασιλεὺς]]  [[G1510\|εἶ]]  [[G4771\|σύ;]]  [[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις]]  [[G3754G\|ὅτι]]  [[G0935\|βασιλεύς]]  [[G1510\|εἰμι]]  [[G1473\|ἐγώ.]]  [[G1473\|ἐγὼ]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G1080\|γεγέννημαι]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G2064\|ἐλήλυθα]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2443\|ἵνα]]  [[G3140\|μαρτυρήσω]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ.]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G0191\|ἀκούει]]  [[G3165\|μου]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRISONERS|PRISONERS]] • [[topic SLANDER|SLANDER]] • [[topic TRUTH|TRUTH]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.36|<< John 18:36]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.38|John 18:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

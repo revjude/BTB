@@ -1,8 +1,72 @@
+---
+title: Genesis 34:7
+type: Verse
+kjv: "And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done."
+bsb: "When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done."
+hebrew: "וּבְנֵ֨י יַעֲקֹ֜ב בָּ֤אוּ מִן־ הַשָּׂדֶה֙ כְּשָׁמְעָ֔ם וַיִּֽתְעַצְּבוּ֙ הָֽאֲנָשִׁ֔ים וַיִּ֥חַר לָהֶ֖ם מְאֹ֑ד כִּֽי־ נְבָלָ֞ה עָשָׂ֣ה בְיִשְׂרָאֵ֗ל לִשְׁכַּב֙ אֶת־ בַּֽת־ יַעֲקֹ֔ב וְכֵ֖ן לֹ֥א יֵעָשֶֽׂה׃"
+pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3290]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9048]]"
+- "[[H9001]]"
+- "[[H6087A]]"
+- "[[H0582]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3966]]"
+- "[[H3588A]]"
+- "[[H5039]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H7901I]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:7**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Jacob came out of the field when they heard [it]: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.
 <small><sub>**BSB:**</sub></small>
 When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֨י]] [[H3290\|יַעֲקֹ֜ב]] [[H0935G\|בָּ֤אוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H9004\|כְּ]][[H8085G\|שָׁמְעָ֔]][[H9048\|ם]] [[H9001\|וַ]][[H6087A\|יִּֽתְעַצְּבוּ֙]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וַ]][[H2734\|יִּ֥חַר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3966\|מְאֹ֑ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5039\|נְבָלָ֞ה]] [[H6213A\|עָשָׂ֣ה]] [[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לִ]][[H7901I\|שְׁכַּב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בַּֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3651C\|כֵ֖ן]] [[H3808\|לֹ֥א]] [[H6213A\|יֵעָשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.6|<< Genesis 34:6]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.8|Genesis 34:8 >>]]</td></tr></table>
 

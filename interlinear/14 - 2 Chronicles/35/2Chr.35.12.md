@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 35:12
+type: Verse
+kjv: "And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen."
+bsb: "They set aside the burnt offerings to be given to the divisions of the families of the people to offer to the LORD, as it is written in the Book of Moses. And they did the same with the bulls."
+hebrew: "וַיָּסִ֨ירוּ הָעֹלָ֜ה לְ֠תִתָּם לְמִפְלַגּ֤וֹת לְבֵית־ אָבוֹת֙ לִבְנֵ֣י הָעָ֔ם לְהַקְרִיב֙ לַיהוָ֔ה כַּכָּת֖וּב בְּסֵ֣פֶר מֹשֶׁ֑ה וְכֵ֖ן לַבָּקָֽר׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H4653]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H7126H]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H1241]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:12**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as [it is] written in the book of Moses. And so [did they] with the oxen.
 <small><sub>**BSB:**</sub></small>
 They set aside the burnt offerings to be given to the divisions of the families of the people to offer to the LORD, as it is written in the Book of Moses. And they did the same with the bulls.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493I\|יָּסִ֨ירוּ]] [[H9009\|הָ]][[H5930A\|עֹלָ֜ה]] [[H9005\|לְ֠]][[H5414G\|תִתָּ]][[H9038\|ם]] [[H9005\|לְ]][[H4653\|מִפְלַגּ֤וֹת]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבוֹת֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H7126H\|הַקְרִיב֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9004\|כַּ]][[H3789\|כָּת֖וּב]] [[H9003\|בְּ]][[H5612H\|סֵ֣פֶר]] [[H4872\|מֹשֶׁ֑ה]] [[H9002\|וְ]][[H3651C\|כֵ֖ן]] [[H9005\|לַ]][[H1241\|בָּקָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.11|<< 2 Chronicles 35:11]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.13|2 Chronicles 35:13 >>]]</td></tr></table>
 

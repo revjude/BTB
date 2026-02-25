@@ -1,8 +1,70 @@
+---
+title: 1 Kings 20:36
+type: Verse
+kjv: "Then said he unto him, Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him."
+bsb: "Then the prophet said to him, “Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you.” And when he left, a lion found him and killed him."
+hebrew: "וַיֹּ֣אמֶר ל֗וֹ יַ֚עַן אֲשֶׁ֤ר לֹֽא־ שָׁמַ֙עְתָּ֙ בְּק֣וֹל יְהוָ֔ה הִנְּךָ֤ הוֹלֵךְ֙ מֵֽאִתִּ֔י וְהִכְּךָ֖ הָאַרְיֵ֑ה וַיֵּ֙לֶךְ֙ מֵֽאֶצְל֔וֹ וַיִּמְצָאֵ֥הוּ הָאַרְיֵ֖ה וַיַּכֵּֽהוּ׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic LION|LION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9041]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H5221]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H0681]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:36**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto him, Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.
 <small><sub>**BSB:**</sub></small>
 Then the prophet said to him, “Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you.” And when he left, a lion found him and killed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H3282\|יַ֚עַן]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שָׁמַ֙עְתָּ֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְּ]][[H9041\|ךָ֤]] [[H1980G\|הוֹלֵךְ֙]] [[H9006\|מֵֽ]][[H0854\|אִתִּ֔]][[H9030\|י]] [[H9001\|וְ]][[H5221\|הִכְּ]][[H9031\|ךָ֖]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֑ה]] [[H9001\|וַ]][[H1980G\|יֵּ֙לֶךְ֙]] [[H9006\|מֵֽ]][[H0681\|אֶצְל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H4672\|יִּמְצָאֵ֥]][[H9033\|הוּ]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֖ה]] [[H9001\|וַ]][[H5221\|יַּכֵּֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic LION|LION]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.35|<< 1 Kings 20:35]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.37|1 Kings 20:37 >>]]</td></tr></table>
 

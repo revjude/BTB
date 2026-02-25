@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Commands Moses and Aaron
+type: Pericope
 pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 7
 book/chapter: "[[Exod.7|Exodus 7]]"
-genre:
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.7.1]]"
 - "[[Exod.7.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.7.7]]"
 ---
 
-[[Exod.7|Exodus 7:1 - Exodus 7:7]]
+<small>[[Exod.7|Exodus 7:1-7]]</small>
 *God Commands Moses and Aaron*
 
 [[Exod.7.1|1]] And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.

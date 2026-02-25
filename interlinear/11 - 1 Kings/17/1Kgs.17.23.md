@@ -1,8 +1,73 @@
+---
+title: 1 Kings 17:23
+type: Verse
+kjv: "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth."
+bsb: "Then Elijah took the child, brought him down from the upper room into the house, and gave him to his mother. “Look, your son is alive,” Elijah declared."
+hebrew: "וַיִּקַּ֨ח אֵלִיָּ֜הוּ אֶת־ הַיֶּ֗לֶד וַיֹּרִדֵ֤הוּ מִן־ הָעֲלִיָּה֙ הַבַּ֔יְתָה וַֽיִּתְּנֵ֖הוּ לְאִמּ֑וֹ וַיֹּ֙אמֶר֙ אֵ֣לִיָּ֔הוּ רְאִ֖י חַ֥י בְּנֵֽךְ׃"
+pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0452G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H4480A]]"
+- "[[H5944]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H7200I]]"
+- "[[H2416A]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:23**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth.
 <small><sub>**BSB:**</sub></small>
 Then Elijah took the child, brought him down from the upper room into the house, and gave him to his mother. “Look, your son is alive,” Elijah declared.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H0452G\|אֵלִיָּ֜הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֗לֶד]] [[H9001\|וַ]][[H3381\|יֹּרִדֵ֤]][[H9033\|הוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5944\|עֲלִיָּה֙]] [[H9009\|הַ]][[H1004B\|בַּ֔יְתָ]][[H9011\|ה]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ֖]][[H9033\|הוּ]] [[H9005\|לְ]][[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0452G\|אֵ֣לִיָּ֔הוּ]] [[H7200I\|רְאִ֖י]] [[H2416A\|חַ֥י]] [[H1121A\|בְּנֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELIJAH|ELIJAH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic POOR|POOR]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.22|<< 1 Kings 17:22]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.24|1 Kings 17:24 >>]]</td></tr></table>
 

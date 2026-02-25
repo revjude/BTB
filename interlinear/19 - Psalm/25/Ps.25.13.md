@@ -1,8 +1,55 @@
+---
+title: Psalm 25:13
+type: Verse
+kjv: "His soul shall dwell at ease; and his seed shall inherit the earth."
+bsb: "His soul will dwell in prosperity, and his descendants will inherit the land."
+hebrew: "נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PEACE|PEACE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2896B]]"
+- "[[H3885A]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H3423G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:13**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His soul shall dwell at ease; and his seed shall inherit the earth.
 <small><sub>**BSB:**</sub></small>
 His soul will dwell in prosperity, and his descendants will inherit the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315G\|נַ֭פְשׁ]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2896B\|ט֣וֹב]] [[H3885A\|תָּלִ֑ין]] [[H9002\|וְ֝]][[H2233H\|זַרְע֗]][[H9023\|וֹ]] [[H3423G\|יִ֣ירַשׁ]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEACE|PEACE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.12|<< Psalms 25:12]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.14|Psalms 25:14 >>]]</td></tr></table>
 

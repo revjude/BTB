@@ -1,10 +1,62 @@
+---
+title: John 4:48
+type: Verse
+kjv: "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
+bsb: "Jesus said to him, “Unless you people see signs and wonders, you will never believe.”"
+jesus_said: "Except ye see signs and wonders, ye will not believe."
+greek: "εἶπεν οὖν ὁ Ἰησοῦς πρὸς αὐτόν· ἐὰν μὴ σημεῖα καὶ τέρατα ἴδητε, οὐ μὴ πιστεύσητε."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4592]]"
+- "[[G2532]]"
+- "[[G5059]]"
+- "[[G1492H]]"
+- "[[G3756]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **John 4:48**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Unless you people see signs and wonders, you will never believe.”
-<small><sub>**Literal:**</sub></small>
-Said therefore <the> Jesus to him; only unless signs and wonders you [people] may see, certainly not shall you believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.47|<< John 4:47]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.49|John 4:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4592\|σημεῖα]]  [[G2532\|καὶ]]  [[G5059\|τέρατα]]  [[G1492H\|ἴδητε,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]] • [[topic SIGN|SIGN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.47|<< John 4:47]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.49|John 4:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

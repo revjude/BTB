@@ -1,6 +1,39 @@
+---
+title: Psalm 50:0
+type: Verse
+kjv: "A Psalm of Asaph."
+hebrew: "מִזְמ֗וֹר לְאָ֫סָ֥ף"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4210]]"
+- "[[H9005]]"
+- "[[H0623H]]"
+texts:
+- L
+---
+
 **Psalms 50:0**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Psalm of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H4210\|מִזְמ֗וֹר]] [[H9005\|לְ]][[H0623H\|אָ֫סָ֥ף]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.20|<< Psalms 49:20]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.1|Psalms 50:1 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson’s Vengeance and Death
+type: Pericope
 pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 16
 book/chapter: "[[Judg.16|Judges 16]]"
-genre:
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 9
 verses:
 - "[[Judg.16.23]]"
 - "[[Judg.16.24]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Judg.16.31]]"
 ---
 
-[[Judg.16|Judges 16:23 - Judges 16:31]]
+<small>[[Judg.16|Judges 16:23-31]]</small>
 *Samson’s Vengeance and Death*
 
 [[Judg.16.23|23]] Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.

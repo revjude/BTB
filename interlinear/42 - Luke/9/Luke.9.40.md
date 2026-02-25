@@ -1,10 +1,57 @@
+---
+title: Luke 9:40
+type: Verse
+kjv: "And I besought thy disciples to cast him out; and they could not."
+bsb: "I begged Your disciples to drive it out, but they were unable.”"
+greek: "καὶ ἐδεήθην τῶν μαθητῶν σου ἵνα ἐκβάλωσιν αὐτό, καὶ οὐκ ἠδυνήθησαν.¶"
+pericope: "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1189]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1544]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1410]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:40**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I besought thy disciples to cast him out; and they could not.
 <small><sub>**BSB:**</sub></small>
 I begged Your disciples to drive it out, but they were unable.”
-<small><sub>**Literal:**</sub></small>
-And I begged the disciples of You that they may cast out it, and not they were able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.39|<< Luke 9:39]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.41|Luke 9:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1189\|ἐδεήθην]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G4771\|σου]]  [[G2443\|ἵνα]]  [[G1544\|ἐκβάλωσιν]]  [[G0846\|αὐτό,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.39|<< Luke 9:39]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.41|Luke 9:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

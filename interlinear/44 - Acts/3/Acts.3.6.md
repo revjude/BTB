@@ -1,10 +1,68 @@
+---
+title: Acts 3:6
+type: Verse
+kjv: "Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk."
+bsb: "But Peter said, “Silver or gold I do not have, but what I have I give you: In the name of Jesus Christ of Nazareth, get up and walk!”"
+greek: "Εἶπεν δὲ Πέτρος· ἀργύριον καὶ χρυσίον οὐχ ὑπάρχει μοι· ὃ δὲ ἔχω, τοῦτό σοι δίδωμι. ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου ἔγειρε καὶ περιπάτει."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G0694]]"
+- "[[G2532]]"
+- "[[G5553]]"
+- "[[G3756]]"
+- "[[G5225]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G1325]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3480]]"
+- "[[G1453]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 3:6**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.
 <small><sub>**BSB:**</sub></small>
 But Peter said, “Silver or gold I do not have, but what I have I give you: In the name of Jesus Christ of Nazareth, get up and walk!”
-<small><sub>**Literal:**</sub></small>
-Said however Peter; Silver and gold none there is to me; what however I have, this to you I give. In the name of Jesus Christ <the> of Nazareth do rise up and do walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.5|<< Acts 3:5]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.7|Acts 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος·]]  [[G0694\|ἀργύριον]]  [[G2532\|καὶ]]  [[G5553\|χρυσίον]]  [[G3756\|οὐχ]]  [[G5225\|ὑπάρχει]]  [[G3165\|μοι·]]  [[G3739\|ὃ]]  [[G1161\|δὲ]]  [[G2192\|ἔχω,]]  [[G3778\|τοῦτό]]  [[G4771\|σοι]]  [[G1325\|δίδωμι.]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G3480\|Ναζωραίου]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic MONEY|MONEY]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.5|<< Acts 3:5]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.7|Acts 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

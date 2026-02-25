@@ -1,8 +1,74 @@
+---
+title: Genesis 39:10
+type: Verse
+kjv: "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
+bsb: "Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her."
+hebrew: "וַיְהִ֕י כְּדַבְּרָ֥הּ אֶל־ יוֹסֵ֖ף י֣וֹם׀ י֑וֹם וְלֹא־ שָׁמַ֥ע אֵלֶ֛יהָ לִשְׁכַּ֥ב אֶצְלָ֖הּ לִהְי֥וֹת עִמָּֽהּ׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1696G]]"
+- "[[H9044]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H3117J]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H7901I]]"
+- "[[H0681]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:10**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, [or] to be with her.
 <small><sub>**BSB:**</sub></small>
 Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כְּ]][[H1696G\|דַבְּרָ֥]][[H9044\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H3117J\|י֣וֹם]][[H9015\|׀]] [[H3117J\|י֑וֹם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H0413\|אֵלֶ֛י]][[H9034\|הָ]] [[H9005\|לִ]][[H7901I\|שְׁכַּ֥ב]] [[H0681\|אֶצְלָ֖]][[H9034\|הּ]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H5973A\|עִמָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.9|<< Genesis 39:9]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.11|Genesis 39:11 >>]]</td></tr></table>
 

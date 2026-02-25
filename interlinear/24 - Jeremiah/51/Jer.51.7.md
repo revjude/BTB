@@ -1,8 +1,64 @@
+---
+title: Jeremiah 51:7
+type: Verse
+kjv: "Babylon hath been a golden cup in the LORD’S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad."
+bsb: "Babylon was a gold cup in the hand of the LORD, making the whole earth drunk. The nations drank her wine; therefore the nations have gone mad."
+hebrew: "כּוֹס־ זָהָ֤ב בָּבֶל֙ בְּיַד־ יְהוָ֔ה מְשַׁכֶּ֖רֶת כָּל־ הָאָ֑רֶץ מִיֵּינָהּ֙ שָׁת֣וּ גוֹיִ֔ם עַל־ כֵּ֖ן יִתְהֹלְל֥וּ גוֹיִֽם׃"
+pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H3563A]]"
+- "[[H9014]]"
+- "[[H2091]]"
+- "[[H0894]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H3068G]]"
+- "[[H7937]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H3196]]"
+- "[[H9024]]"
+- "[[H8354]]"
+- "[[H1471A]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H1984C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:7**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Babylon [hath been] a golden cup in the LORD’S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
 <small><sub>**BSB:**</sub></small>
 Babylon was a gold cup in the hand of the LORD, making the whole earth drunk. The nations drank her wine; therefore the nations have gone mad.
+<small><sub>**Hebrew:**</sub></small>
+[[H3563A\|כּוֹס]][[H9014\|־]] [[H2091\|זָהָ֤ב]] [[H0894\|בָּבֶל֙]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H7937\|מְשַׁכֶּ֖רֶת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9006\|מִ]][[H3196\|יֵּינָ]][[H9024\|הּ֙]] [[H8354\|שָׁת֣וּ]] [[H1471A\|גוֹיִ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H1984C\|יִתְהֹלְל֥וּ]] [[H1471A\|גוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GOLD|GOLD]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.6|<< Jeremiah 51:6]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.8|Jeremiah 51:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

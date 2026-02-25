@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 12:7
+type: Verse
+kjv: "And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee."
+bsb: "There, in the presence of the LORD your God, you and your households shall eat and rejoice in all you do, because the LORD your God has blessed you."
+hebrew: "וַאֲכַלְתֶּם־ שָׁ֗ם לִפְנֵי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וּשְׂמַחְתֶּ֗ם בְּכֹל֙ מִשְׁלַ֣ח יֶדְכֶ֔ם אַתֶּ֖ם וּבָתֵּיכֶ֑ם אֲשֶׁ֥ר בֵּֽרַכְךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4916A]]"
+- "[[H3027U]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H0834A]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:7**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.
 <small><sub>**BSB:**</sub></small>
 There, in the presence of the LORD your God, you and your households shall eat and rejoice in all you do, because the LORD your God has blessed you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|אֲכַלְתֶּם]][[H9014\|־]] [[H8033G\|שָׁ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H9001\|וּ]][[H8055\|שְׂמַחְתֶּ֗ם]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H4916A\|מִשְׁלַ֣ח]] [[H3027U\|יֶדְ]][[H9026\|כֶ֔ם]] [[H0859D\|אַתֶּ֖ם]] [[H9002\|וּ]][[H1004M\|בָתֵּי]][[H9026\|כֶ֑ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H1288\|בֵּֽרַכְ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic TITHES|TITHES]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.6|<< Deuteronomy 12:6]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.8|Deuteronomy 12:8 >>]]</td></tr></table>
 

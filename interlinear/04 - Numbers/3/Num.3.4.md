@@ -1,8 +1,75 @@
+---
+title: Numbers 3:4
+type: Verse
+kjv: "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father."
+bsb: "Nadab and Abihu, however, died in the presence of the LORD when they offered unauthorized fire before the LORD in the Wilderness of Sinai. And since they had no sons, only Eleazar and Ithamar served as priests during the lifetime of their father Aaron."
+hebrew: "וַיָּ֣מָת נָדָ֣ב וַאֲבִיה֣וּא לִפְנֵ֣י יְהוָ֡ה בְּֽהַקְרִבָם֩ אֵ֨שׁ זָרָ֜ה לִפְנֵ֤י יְהוָה֙ בְּמִדְבַּ֣ר סִינַ֔י וּבָנִ֖ים לֹא־ הָי֣וּ לָהֶ֑ם וַיְכַהֵ֤ן אֶלְעָזָר֙ וְאִ֣יתָמָ֔ר עַל־ פְּנֵ֖י אַהֲרֹ֥ן אֲבִיהֶֽם׃ פ"
+pericope: "[[Num.3.1 The Sons of Aaron|The Sons of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIHU|ABIHU]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H5070G]]"
+- "[[H9002]]"
+- "[[H0030]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7126H]]"
+- "[[H9048]]"
+- "[[H0784]]"
+- "[[H2114A]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H1121A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9038]]"
+- "[[H3547]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H5921A]]"
+- "[[H0175]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 3:4**<big><big>[[Num.3.1 The Sons of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.
 <small><sub>**BSB:**</sub></small>
 Nadab and Abihu, however, died in the presence of the LORD when they offered unauthorized fire before the LORD in the Wilderness of Sinai. And since they had no sons, only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H5070G\|נָדָ֣ב]] [[H9002\|וַ]][[H0030\|אֲבִיה֣וּא]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֡ה]] [[H9003\|בְּֽ]][[H7126H\|הַקְרִבָ]][[H9048\|ם֩]] [[H0784\|אֵ֨שׁ]] [[H2114A\|זָרָ֜ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֣ר]] [[H5514H\|סִינַ֔י]] [[H9002\|וּ]][[H1121A\|בָנִ֖ים]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H3547\|יְכַהֵ֤ן]] [[H0499G\|אֶלְעָזָר֙]] [[H9002\|וְ]][[H0385\|אִ֣יתָמָ֔ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֖י]] [[H0175\|אַהֲרֹ֥ן]] [[H0001G\|אֲבִי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHU|ABIHU]] • [[topic NADAB|NADAB]] • [[topic SACRILEGE|SACRILEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.3|<< Numbers 3:3]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.5|Numbers 3:5 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ Nadab and Abihu, however, died in the presence of the LORD when they offered una
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵ֖י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֥ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father their  |**<big>&#8207;[[H0001G\|אֲבִי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father their  |**<big>&#8207;[[H0001G\|אֲבִי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.3|<< Numbers 3:3]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.5|Numbers 3:5 >>]]</td></tr></table>
 
 

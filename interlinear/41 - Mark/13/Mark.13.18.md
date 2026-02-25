@@ -1,10 +1,53 @@
+---
+title: Mark 13:18
+type: Verse
+kjv: "And pray ye that your flight be not in the winter."
+bsb: "Pray that this will not occur in the winter."
+jesus_said: "And pray ye that your flight be not in the winter."
+greek: "προσεύχεσθε δὲ ἵνα μὴ γένηται ἡ φυγὴ ὑμῶν χειμῶνος."
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G4336]]"
+- "[[G1161]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G5437]]"
+- "[[G4771]]"
+- "[[G5494]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 13:18**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And pray ye that your flight be not in the winter.
 <small><sub>**BSB:**</sub></small>
 Pray that this will not occur in the winter.
-<small><sub>**Literal:**</sub></small>
-do pray then that it not may happen the flight of you in winter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.17|<< Mark 13:17]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.19|Mark 13:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4336\|προσεύχεσθε]]  [[G1161\|δὲ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1096\|γένηται]]  [[G3588\|ἡ]]  [[G5437\|φυγὴ]]  [[G4771\|ὑμῶν]]  [[G5494\|χειμῶνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.17|<< Mark 13:17]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.19|Mark 13:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

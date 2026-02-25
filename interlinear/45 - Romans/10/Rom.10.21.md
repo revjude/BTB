@@ -1,10 +1,56 @@
+---
+title: Romans 10:21
+type: Verse
+kjv: "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
+bsb: "But as for Israel he says: “All day long I have held out My hands to a disobedient and obstinate people.”"
+greek: "πρὸς δὲ τὸν Ἰσραὴλ λέγει· ὅλην τὴν ἡμέραν ἐξεπέτασα τὰς χεῖράς μου πρὸς λαὸν ἀπειθοῦντα καὶ ἀντιλέγοντα.¶"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4314]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G3004G]]"
+- "[[G3650]]"
+- "[[G2250]]"
+- "[[G1600]]"
+- "[[G5495]]"
+- "[[G3165]]"
+- "[[G2992]]"
+- "[[G0544]]"
+- "[[G2532]]"
+- "[[G0483]]"
+texts:
+- NKO
+---
+
 **Romans 10:21**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
 <small><sub>**BSB:**</sub></small>
 But as for Israel he says: “All day long I have held out My hands to a disobedient and obstinate people.”
-<small><sub>**Literal:**</sub></small>
-As for however <the> Israel he says: All the day I have stretched out the hands of Mine to a people disobeying and contradicting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.20|<< Romans 10:20]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.1|Romans 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2474\|Ἰσραὴλ]]  [[G3004G\|λέγει·]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G1600\|ἐξεπέτασα]]  [[G3588\|τὰς]]  [[G5495\|χεῖράς]]  [[G3165\|μου]]  [[G4314\|πρὸς]]  [[G2992\|λαὸν]]  [[G0544\|ἀπειθοῦντα]]  [[G2532\|καὶ]]  [[G0483\|ἀντιλέγοντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.20|<< Romans 10:20]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.1|Romans 11:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:21** is...
 > $\quad$ referencing: [[LXX.Isa.65.2|Isa 65:2]]

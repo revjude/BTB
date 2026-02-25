@@ -1,10 +1,62 @@
+---
+title: Acts 1:3
+type: Verse
+kjv: "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:"
+bsb: "After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God."
+greek: "οἷς καὶ παρέστησεν ἑαυτὸν ζῶντα μετὰ τὸ παθεῖν αὐτὸν ἐν πολλοῖς τεκμηρίοις, δι᾽ ἡμερῶν τεσσεράκοντα ὀπτανόμενος αὐτοῖς καὶ λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ."
+pericope: "[[Acts.1.1 Prologue|Prologue]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FORTY|FORTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSION|PASSION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3936]]"
+- "[[G1438]]"
+- "[[G2198]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G3958]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4183]]"
+- "[[G5039]]"
+- "[[G1223]]"
+- "[[G2250]]"
+- "[[G5062]]"
+- "[[G3700]]"
+- "[[G3004G]]"
+- "[[G4012]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 1:3**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 <small><sub>**BSB:**</sub></small>
 After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God.
-<small><sub>**Literal:**</sub></small>
-to those also He presented Himself alive after the suffering of Him with many proofs, during days forty appearing to them and speaking the [things] concerning the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.2|<< Acts 1:2]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.4|Acts 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἷς]]  [[G2532\|καὶ]]  [[G3936\|παρέστησεν]]  [[G1438\|ἑαυτὸν]]  [[G2198\|ζῶντα]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G3958\|παθεῖν]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G4183\|πολλοῖς]]  [[G5039\|τεκμηρίοις,]]  [[G1223\|δι᾽]]  [[G2250\|ἡμερῶν]]  [[G5062\|τεσσεράκοντα]]  [[G3700\|ὀπτανόμενος]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G3004G\|λέγων]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORTY|FORTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSION|PASSION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.2|<< Acts 1:2]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.4|Acts 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

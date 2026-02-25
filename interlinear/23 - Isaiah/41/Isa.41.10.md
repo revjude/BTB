@@ -1,8 +1,67 @@
+---
+title: Isaiah 41:10
+type: Verse
+kjv: "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."
+bsb: "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
+hebrew: "אַל־ תִּירָא֙ כִּ֣י עִמְּךָ־ אָ֔נִי אַל־ תִּשְׁתָּ֖ע כִּֽי־ אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֙יךָ֙ אַף־ עֲזַרְתִּ֔יךָ אַף־ תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H0589]]"
+- "[[H8159]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0553]]"
+- "[[H0637]]"
+- "[[H5826]]"
+- "[[H8551]]"
+- "[[H9003]]"
+- "[[H3225G]]"
+- "[[H6664G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:10**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear thou not; for I [am] with thee: be not dismayed; for I [am] thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.
 <small><sub>**BSB:**</sub></small>
 Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H3588A\|כִּ֣י]] [[H5973A\|עִמְּ]][[H9031\|ךָ]][[H9014\|־]] [[H0589\|אָ֔נִי]] [[H0408\|אַל]][[H9014\|־]] [[H8159\|תִּשְׁתָּ֖ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H0553\|אִמַּצְתִּ֙י]][[H9031\|ךָ֙]] [[H0637\|אַף]][[H9014\|־]] [[H5826\|עֲזַרְתִּ֔י]][[H9031\|ךָ]] [[H0637\|אַף]][[H9014\|־]] [[H8551\|תְּמַכְתִּ֖י]][[H9031\|ךָ]] [[H9003\|בִּ]][[H3225G\|ימִ֥ין]] [[H6664G\|צִדְקִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HAND|HAND]] • [[topic POWER|POWER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.9|<< Isaiah 41:9]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.11|Isaiah 41:11 >>]]</td></tr></table>
 

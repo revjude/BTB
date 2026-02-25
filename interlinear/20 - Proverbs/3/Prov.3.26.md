@@ -1,8 +1,57 @@
+---
+title: Proverbs 3:26
+type: Verse
+kjv: "For the LORD shall be thy confidence, and shall keep thy foot from being taken."
+bsb: "for the LORD will be your confidence and will keep your foot from the snare."
+hebrew: "כִּֽי־ יְ֭הוָה יִהְיֶ֣ה בְכִסְלֶ֑ךָ וְשָׁמַ֖ר רַגְלְךָ֣ מִלָּֽכֶד׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3689]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H7272]]"
+- "[[H9006]]"
+- "[[H3921]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:26**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall be thy confidence, and shall keep thy foot from being taken.
 <small><sub>**BSB:**</sub></small>
 for the LORD will be your confidence and will keep your foot from the snare.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H1961\|יִהְיֶ֣ה]] [[H9003\|בְ]][[H3689\|כִסְלֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H8104H\|שָׁמַ֖ר]] [[H7272\|רַגְלְ]][[H9021\|ךָ֣]] [[H9006\|מִ]][[H3921\|לָּֽכֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.25|<< Proverbs 3:25]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.27|Proverbs 3:27 >>]]</td></tr></table>
 

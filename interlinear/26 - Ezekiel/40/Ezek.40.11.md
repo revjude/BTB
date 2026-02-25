@@ -1,8 +1,53 @@
+---
+title: Ezekiel 40:11
+type: Verse
+kjv: "And he measured the breadth of the entry of the gate, ten cubits; and the length of the gate, thirteen cubits."
+bsb: "And he measured the width of the gateway entrance to be ten cubits, and its length was thirteen cubits."
+hebrew: "וַיָּ֛מָד אֶת־ רֹ֥חַב פֶּֽתַח־ הַשַּׁ֖עַר עֶ֣שֶׂר אַמּ֑וֹת אֹ֣רֶךְ הַשַּׁ֔עַר שְׁל֥וֹשׁ עֶשְׂרֵ֖ה אַמּֽוֹת׃"
+pericope: "[[Ezek.40.5 The East Gate|The East Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7341]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H6235]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:11**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he measured the breadth of the entry of the gate, ten cubits; [and] the length of the gate, thirteen cubits.
 <small><sub>**BSB:**</sub></small>
 And he measured the width of the gateway entrance to be ten cubits, and its length was thirteen cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֛מָד]] [[H0853\|אֶת]][[H9014\|־]] [[H7341\|רֹ֥חַב]] [[H6607\|פֶּֽתַח]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שַּׁ֖עַר]] [[H6235\|עֶ֣שֶׂר]] [[H0520A\|אַמּ֑וֹת]] [[H0753\|אֹ֣רֶךְ]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H7969\|שְׁל֥וֹשׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H0520A\|אַמּֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.10|<< Ezekiel 40:10]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.12|Ezekiel 40:12 >>]]</td></tr></table>
 

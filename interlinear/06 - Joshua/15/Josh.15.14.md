@@ -1,8 +1,62 @@
+---
+title: Joshua 15:14
+type: Verse
+kjv: "And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak."
+bsb: "And Caleb drove out from there the three sons of Anak—the descendants of Sheshai, Ahiman, and Talmai, the children of Anak."
+hebrew: "וַיֹּ֤רֶשׁ מִשָּׁם֙ כָּלֵ֔ב אֶת־ שְׁלוֹשָׁ֖ה בְּנֵ֣י הָעֲנָ֑ק אֶת־ שֵׁשַׁ֤י וְאֶת־ אֲחִימַן֙ וְאֶת־ תַּלְמַ֔י יְלִידֵ֖י הָעֲנָֽק׃"
+pericope: "[[Josh.15.13 Caleb’s Portion and Conquest|Caleb’s Portion and Conquest]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AHIMAN|AHIMAN]]"
+- "[[topic ANAK|ANAK]]"
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic SHESHAI|SHESHAI]]"
+- "[[topic TALMAI|TALMAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3612G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H6061]]"
+- "[[H8344]]"
+- "[[H9002]]"
+- "[[H0289G]]"
+- "[[H8526G]]"
+- "[[H3211]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:14**<big><big>[[Josh.15.13 Caleb’s Portion and Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
 <small><sub>**BSB:**</sub></small>
 And Caleb drove out from there the three sons of Anak—the descendants of Sheshai, Ahiman, and Talmai, the children of Anak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3423H\|יֹּ֤רֶשׁ]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H3612G\|כָּלֵ֔ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7969\|שְׁלוֹשָׁ֖ה]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הָ]][[H6061\|עֲנָ֑ק]] [[H0853\|אֶת]][[H9014\|־]] [[H8344\|שֵׁשַׁ֤י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0289G\|אֲחִימַן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8526G\|תַּלְמַ֔י]] [[H3211\|יְלִידֵ֖י]] [[H9009\|הָ]][[H6061\|עֲנָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAN|AHIMAN]] • [[topic ANAK|ANAK]] • [[topic ANAKIM|ANAKIM]] • [[topic CALEB|CALEB]] • [[topic SHESHAI|SHESHAI]] • [[topic TALMAI|TALMAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.13|<< Joshua 15:13]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.15|Joshua 15:15 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Leviticus 7:23
+type: Verse
+kjv: "Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat."
+bsb: "“Speak to the Israelites and say, ‘You are not to eat any of the fat of an ox, a sheep, or a goat."
+hebrew: "דַּבֵּ֛ר אֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל־ חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ׃"
+pericope: "[[Lev.7.22 Fat and Blood Forbidden|Fat and Blood Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H2459]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H3775]]"
+- "[[H5795]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:23**<big><big>[[Lev.7.22 Fat and Blood Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and say, ‘You are not to eat any of the fat of an ox, a sheep, or a goat.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3605\|כָּל]][[H9014\|־]] [[H2459\|חֵ֜לֶב]] [[H7794\|שׁ֥וֹר]] [[H9002\|וְ]][[H3775\|כֶ֛שֶׂב]] [[H9002\|וָ]][[H5795\|עֵ֖ז]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.22|<< Leviticus 7:22]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.24|Leviticus 7:24 >>]]</td></tr></table>
 

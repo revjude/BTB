@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pilate Delivers Up Jesus
+type: Pericope
 pericope: "[[Mark.15.12 Pilate Delivers Up Jesus|Pilate Delivers Up Jesus]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.15.12]]"
 - "[[Mark.15.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.15.15]]"
 ---
 
-[[Mark.15|Mark 15:12 - Mark 15:15]]
+<small>[[Mark.15|Mark 15:12-15]]</small>
 *Pilate Delivers Up Jesus*
 
 [[Mark.15.12|12]] And Pilate answered and said again unto them, What will ye then that I shall do \[unto him\] whom ye call the King of the Jews?

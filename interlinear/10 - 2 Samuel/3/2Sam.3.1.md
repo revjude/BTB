@@ -1,8 +1,57 @@
+---
+title: 2 Samuel 3:1
+type: Verse
+kjv: "Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker."
+bsb: "Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker."
+hebrew: "וַתְּהִ֤י הַמִּלְחָמָה֙ אֲרֻכָּ֔ה בֵּ֚ין בֵּ֣ית שָׁא֔וּל וּבֵ֖ין בֵּ֣ית דָּוִ֑ד וְדָוִד֙ הֹלֵ֣ךְ וְחָזֵ֔ק וּבֵ֥ית שָׁא֖וּל הֹלְכִ֥ים וְדַלִּֽים׃ ס"
+pericope: "[[2Sam.3.1 The House of David Strengthened|The House of David Strengthened]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H0752]]"
+- "[[H0996G]]"
+- "[[H1004M]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H1980L]]"
+- "[[H2390]]"
+- "[[H1800]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 3:1**<big><big>[[2Sam.3.1 The House of David Strengthened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
 <small><sub>**BSB:**</sub></small>
 Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H0752\|אֲרֻכָּ֔ה]] [[H0996G\|בֵּ֚ין]] [[H1004M\|בֵּ֣ית]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H1732\|דָוִד֙]] [[H1980L\|הֹלֵ֣ךְ]] [[H9002\|וְ]][[H2390\|חָזֵ֔ק]] [[H9002\|וּ]][[H1004M\|בֵ֥ית]] [[H7586G\|שָׁא֖וּל]] [[H1980L\|הֹלְכִ֥ים]] [[H9002\|וְ]][[H1800\|דַלִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.32|<< 2 Samuel 2:32]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.2|2 Samuel 3:2 >>]]</td></tr></table>
 
@@ -23,7 +72,7 @@ Now the war between the house of Saul and the house of David was protracted. And
 | and [the] house of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004M\|בֵ֥ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] going  |**<big>&#8207;[[H1980L\|הֹלְכִ֥ים]]&#8207; </big>**| ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and weak  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1800\|דַלִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and weak  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1800\|דַלִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.32|<< 2 Samuel 2:32]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.2|2 Samuel 3:2 >>]]</td></tr></table>
 
 

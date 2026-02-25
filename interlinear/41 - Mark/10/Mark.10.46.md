@@ -1,10 +1,70 @@
+---
+title: Mark 10:46
+type: Verse
+kjv: "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging."
+bsb: "Next, they came to Jericho. And as Jesus and His disciples were leaving Jericho with a large crowd, a blind beggar named Bartimaeus, the son of Timaeus, was sitting beside the road."
+greek: "Καὶ ἔρχονται εἰς Ἰεριχώ. καὶ ἐκπορευομένου αὐτοῦ ἀπὸ Ἰεριχὼ καὶ τῶν μαθητῶν αὐτοῦ καὶ ὄχλου ἱκανοῦ ὁ υἱὸς Τιμαίου Βαρτιμαῖος, ὁ τυφλὸς προσαίτης, ἐκάθητο παρὰ τὴν ὁδόν."
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TIMAEUS|TIMAEUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2410]]"
+- "[[G1607]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G3793]]"
+- "[[G2425]]"
+- "[[G5207]]"
+- "[[G5090]]"
+- "[[G0924]]"
+- "[[G5185]]"
+- "[[G6075]]"
+- "[[G2521]]"
+- "[[G3844]]"
+- "[[G3598]]"
+texts:
+- NKO
+- no
+- k
+- N(k)O
+---
+
 **Mark 10:46**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.
 <small><sub>**BSB:**</sub></small>
 Next, they came to Jericho. And as Jesus and His disciples were leaving Jericho with a large crowd, a blind beggar named Bartimaeus, the son of Timaeus, was sitting beside the road.
-<small><sub>**Literal:**</sub></small>
-And they come to Jericho. And when was going out He from Jericho — and the disciples of Him and a crowd large — the son of Timaeus Bartimaeus, the blind beggar, was sitting beside the road.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.45|<< Mark 10:45]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.47|Mark 10:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G1519\|εἰς]]  [[G2410\|Ἰεριχώ.]]  [[G2532\|καὶ]]  [[G1607\|ἐκπορευομένου]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G2410\|Ἰεριχὼ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3793\|ὄχλου]]  [[G2425\|ἱκανοῦ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G5090\|Τιμαίου]]  [[G0924\|Βαρτιμαῖος,]]  [[G3588\|ὁ]]  [[G5185\|τυφλὸς]]  [[G6075\|προσαίτης,]]  [[G2521\|ἐκάθητο]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BEGGARS|BEGGARS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TIMAEUS|TIMAEUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.45|<< Mark 10:45]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.47|Mark 10:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

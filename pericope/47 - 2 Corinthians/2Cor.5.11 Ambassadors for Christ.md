@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ambassadors for Christ
+type: Pericope
 pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 5
 book/chapter: "[[2Cor.5|2 Corinthians 5]]"
-genre:
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 11
 verses:
 - "[[2Cor.5.11]]"
 - "[[2Cor.5.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Cor.5.21]]"
 ---
 
-[[2Cor.5|2 Corinthians 5:11 - 2 Corinthians 5:21]]
+<small>[[2Cor.5|2 Corinthians 5:11-21]]</small>
 *Ambassadors for Christ*
 
 [[2Cor.5.11|11]] Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.

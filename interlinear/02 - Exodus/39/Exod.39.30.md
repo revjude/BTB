@@ -1,8 +1,71 @@
+---
+title: Exodus 39:30
+type: Verse
+kjv: "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like to the engravings of a signet, HOLINESS TO THE LORD."
+bsb: "They also made the plate of the holy crown of pure gold, and they engraved on it, like an inscription on a seal: HOLY TO THE LORD."
+hebrew: "וַֽיַּעֲשׂ֛וּ אֶת־ צִ֥יץ נֵֽזֶר־ הַקֹּ֖דֶשׁ זָהָ֣ב טָה֑וֹר וַיִּכְתְּב֣וּ עָלָ֗יו מִכְתַּב֙ פִּתּוּחֵ֣י חוֹתָ֔ם קֹ֖דֶשׁ לַיהוָֽה׃"
+pericope: "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CROWN|CROWN]]"
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEAL|SEAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6731A]]"
+- "[[H5145H]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H4385]]"
+- "[[H6603]]"
+- "[[H2368]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:30**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made the plate of the holy crown [of] pure gold, and wrote upon it a writing, [like to] the engravings of a signet, HOLINESS TO THE LORD.
 <small><sub>**BSB:**</sub></small>
 They also made the plate of the holy crown of pure gold, and they engraved on it, like an inscription on a seal: HOLY TO THE LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213H\|יַּעֲשׂ֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6731A\|צִ֥יץ]] [[H5145H\|נֵֽזֶר]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֑וֹר]] [[H9001\|וַ]][[H3789\|יִּכְתְּב֣וּ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H4385\|מִכְתַּב֙]] [[H6603\|פִּתּוּחֵ֣י]] [[H2368\|חוֹתָ֔ם]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROWN|CROWN]] • [[topic ENGRAVING|ENGRAVING]] • [[topic GOLD|GOLD]] • [[topic HOLINESS|HOLINESS]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]] • [[topic SEAL|SEAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.29|<< Exodus 39:29]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.31|Exodus 39:31 >>]]</td></tr></table>
 

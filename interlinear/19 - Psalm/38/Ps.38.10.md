@@ -1,8 +1,60 @@
+---
+title: Psalm 38:10
+type: Verse
+kjv: "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me."
+bsb: "My heart pounds, my strength fails, and even the light of my eyes has faded."
+hebrew: "לִבִּ֣י סְ֭חַרְחַר עֲזָבַ֣נִי כֹחִ֑י וְֽאוֹר־ עֵינַ֥י גַּם־ הֵ֝֗ם אֵ֣ין אִתִּֽי׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5503]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H3581B]]"
+- "[[H9002]]"
+- "[[H0216]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H0369]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:10**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.
 <small><sub>**BSB:**</sub></small>
 My heart pounds, my strength fails, and even the light of my eyes has faded.
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לִבִּ֣]][[H9020\|י]] [[H5503\|סְ֭חַרְחַר]] [[H5800A\|עֲזָבַ֣]][[H9030\|נִי]] [[H3581B\|כֹחִ֑]][[H9020\|י]] [[H9002\|וְֽ]][[H0216\|אוֹר]][[H9014\|־]] [[H5869A\|עֵינַ֥]][[H9020\|י]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵ֝֗ם]] [[H0369\|אֵ֣ין]] [[H0854\|אִתִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.9|<< Psalms 38:9]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.11|Psalms 38:11 >>]]</td></tr></table>
 

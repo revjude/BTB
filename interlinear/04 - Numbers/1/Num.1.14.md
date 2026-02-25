@@ -1,8 +1,56 @@
+---
+title: Numbers 1:14
+type: Verse
+kjv: "Of Gad; Eliasaph the son of Deuel."
+bsb: "from Gad, Eliasaph son of Deuel;"
+hebrew: "לְגָ֕ד אֶלְיָסָ֖ף בֶּן־ דְּעוּאֵֽל׃"
+pericope: "[[Num.1.5 The Leaders of the Tribes|The Leaders of the Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DEUEL|DEUEL]]"
+- "[[topic ELIASAPH|ELIASAPH]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REUEL|REUEL]]"
+strongs:
+- "[[H9005]]"
+- "[[H1410G]]"
+- "[[H0460G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1845]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:14**<big><big>[[Num.1.5 The Leaders of the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Gad; Eliasaph the son of Deuel.
 <small><sub>**BSB:**</sub></small>
 from Gad, Eliasaph son of Deuel;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1410G\|גָ֕ד]] [[H0460G\|אֶלְיָסָ֖ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1845\|דְּעוּאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEUEL|DEUEL]] • [[topic ELIASAPH|ELIASAPH]] • [[topic GAD|GAD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic REUEL|REUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.13|<< Numbers 1:13]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.15|Numbers 1:15 >>]]</td></tr></table>
 

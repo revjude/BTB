@@ -1,8 +1,54 @@
+---
+title: Psalm 36:5
+type: Verse
+kjv: "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds."
+bsb: "Your loving devotion, O LORD, reaches to the heavens, Your faithfulness to the clouds."
+hebrew: "יְ֭הוָה בְּהַשָּׁמַ֣יִם חַסְדֶּ֑ךָ אֱ֝מֽוּנָתְךָ֗ עַד־ שְׁחָקִֽים׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H0530]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7834]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:5**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy mercy, O LORD, [is] in the heavens; [and] thy faithfulness [reacheth] unto the clouds.
 <small><sub>**BSB:**</sub></small>
 Your loving devotion, O LORD, reaches to the heavens, Your faithfulness to the clouds.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H9003\|בְּ]][[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H0530\|אֱ֝מֽוּנָתְ]][[H9021\|ךָ֗]] [[H5704\|עַד]][[H9014\|־]] [[H7834\|שְׁחָקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.4|<< Psalms 36:4]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.6|Psalms 36:6 >>]]</td></tr></table>
 

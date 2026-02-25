@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 10:12
+type: Verse
+kjv: "Wherefore let him that thinketh he standeth take heed lest he fall."
+bsb: "So the one who thinks he is standing firm should be careful not to fall."
+greek: "Ὥστε ὁ δοκῶν ἑστάναι βλεπέτω μὴ πέσῃ."
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G1380]]"
+- "[[G2476]]"
+- "[[G0991]]"
+- "[[G3361]]"
+- "[[G4098]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:12**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore let him that thinketh he standeth take heed lest he fall.
 <small><sub>**BSB:**</sub></small>
 So the one who thinks he is standing firm should be careful not to fall.
-<small><sub>**Literal:**</sub></small>
-Therefore the [one] thinking to have stood he should take heed lest he may fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.11|<< 1 Corinthians 10:11]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.13|1 Corinthians 10:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε]]  [[G3588\|ὁ]]  [[G1380\|δοκῶν]]  [[G2476\|ἑστάναι]]  [[G0991\|βλεπέτω]]  [[G3361\|μὴ]]  [[G4098\|πέσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HUMILITY|HUMILITY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PRIDE|PRIDE]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.11|<< 1 Corinthians 10:11]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.13|1 Corinthians 10:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

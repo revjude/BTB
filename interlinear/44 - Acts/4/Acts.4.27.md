@@ -1,10 +1,67 @@
+---
+title: Acts 4:27
+type: Verse
+kjv: "For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,"
+bsb: "In fact, this is the very city where Herod and Pontius Pilate conspired with the Gentiles and the people of Israel against Your holy servant Jesus, whom You anointed."
+greek: "συνήχθησαν γὰρ ἐπ᾽ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου, Ἰησοῦν ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ"
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G4863]]"
+- "[[G1063]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G0040G]]"
+- "[[G3816]]"
+- "[[G4771]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G5548]]"
+- "[[G2264H]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G4194]]"
+- "[[G4091]]"
+- "[[G4862]]"
+- "[[G1484]]"
+- "[[G2992]]"
+- "[[G2474]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 4:27**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,
 <small><sub>**BSB:**</sub></small>
 In fact, this is the very city where Herod and Pontius Pilate conspired with the Gentiles and the people of Israel against Your holy servant Jesus, whom You anointed.
-<small><sub>**Literal:**</sub></small>
-Were gathered together for in truth in the city this against the holy servant of You Jesus whom You anointed, Herod both and Pontius Pilate with [the] Gentiles and peoples of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.26|<< Acts 4:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.28|Acts 4:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4863\|συνήχθησαν]]  [[G1063\|γὰρ]]  [[G1909\|ἐπ᾽]]  [[G0225\|ἀληθείας]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G3778\|ταύτῃ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G0040G\|ἅγιον]]  [[G3816\|παῖδά]]  [[G4771\|σου,]]  [[G2424G\|Ἰησοῦν]]  [[G3739\|ὃν]]  [[G5548\|ἔχρισας,]]  [[G2264H\|Ἡρῴδης]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4194\|Πόντιος]]  [[G4091\|Πιλᾶτος]]  [[G4862\|σὺν]]  [[G1484\|ἔθνεσιν]]  [[G2532\|καὶ]]  [[G2992\|λαοῖς]]  [[G2474\|Ἰσραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.26|<< Acts 4:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.28|Acts 4:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

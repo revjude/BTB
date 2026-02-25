@@ -1,8 +1,62 @@
+---
+title: Genesis 45:20
+type: Verse
+kjv: "Also regard not your stuff; for the good of all the land of Egypt is yours."
+bsb: "But pay no regard to your belongings, for the best of all the land of Egypt is yours.’”"
+hebrew: "וְעֵ֣ינְכֶ֔ם אַל־ תָּחֹ֖ס עַל־ כְּלֵיכֶ֑ם כִּי־ ט֛וּב כָּל־ אֶ֥רֶץ מִצְרַ֖יִם לָכֶ֥ם הֽוּא׃"
+pericope: "[[Gen.45.16 Pharaoh Invites Jacob to Egypt|Pharaoh Invites Jacob to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2347]]"
+- "[[H5921A]]"
+- "[[H3627]]"
+- "[[H3588A]]"
+- "[[H2898]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:20**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also regard not your stuff; for the good of all the land of Egypt [is] yours.
 <small><sub>**BSB:**</sub></small>
 But pay no regard to your belongings, for the best of all the land of Egypt is yours.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5869A\|עֵ֣ינְ]][[H9026\|כֶ֔ם]] [[H0408\|אַל]][[H9014\|־]] [[H2347\|תָּחֹ֖ס]] [[H5921A\|עַל]][[H9014\|־]] [[H3627\|כְּלֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H2898\|ט֛וּב]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.19|<< Genesis 45:19]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.21|Genesis 45:21 >>]]</td></tr></table>
 

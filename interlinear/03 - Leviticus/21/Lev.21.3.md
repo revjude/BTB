@@ -1,8 +1,64 @@
+---
+title: Leviticus 21:3
+type: Verse
+kjv: "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
+bsb: "or his unmarried sister who is near to him, since she has no husband."
+hebrew: "וְלַאֲחֹת֤וֹ הַבְּתוּלָה֙ הַקְּרוֹבָ֣ה אֵלָ֔יו אֲשֶׁ֥ר לֹֽא־ הָיְתָ֖ה לְאִ֑ישׁ לָ֖הּ יִטַּמָּֽא׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0269]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1330]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0376H]]"
+- "[[H9034]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:3**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.
 <small><sub>**BSB:**</sub></small>
 or his unmarried sister who is near to him, since she has no husband.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H0269\|אֲחֹת֤]][[H9023\|וֹ]] [[H9009\|הַ]][[H1330\|בְּתוּלָה֙]] [[H9009\|הַ]][[H7138\|קְּרוֹבָ֣ה]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיְתָ֖ה]] [[H9005\|לְ]][[H0376H\|אִ֑ישׁ]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H2930A\|יִטַּמָּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOURNING|MOURNING]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.2|<< Leviticus 21:2]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.4|Leviticus 21:4 >>]]</td></tr></table>
 

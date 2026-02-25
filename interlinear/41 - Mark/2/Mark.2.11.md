@@ -1,10 +1,55 @@
+---
+title: Mark 2:11
+type: Verse
+kjv: "I say unto thee, Arise, and take up thy bed, and go thy way into thine house."
+bsb: "“I tell you, get up, pick up your mat, and go home.”"
+jesus_said: "I say unto thee, Arise, and take up thy bed, and go thy way into thine house."
+greek: "σοὶ λέγω· ἔγειρε, καὶ ἆρον τὸν κράβαττόν σου καὶ ὕπαγε εἰς τὸν οἶκόν σου.¶"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2895]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 2:11**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say unto thee, Arise, and take up thy bed, and go thy way into thine house.
 <small><sub>**BSB:**</sub></small>
 “I tell you, get up, pick up your mat, and go home.”
-<small><sub>**Literal:**</sub></small>
-To you I say; do arise and do take up the mat of you and do go to the home of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.10|<< Mark 2:10]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.12|Mark 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σοὶ]]  [[G3004G\|λέγω·]]  [[G1453\|ἔγειρε,]]  [[G2532\|καὶ]]  [[G0142\|ἆρον]]  [[G3588\|τὸν]]  [[G2895\|κράβαττόν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G5217\|ὕπαγε]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκόν]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.10|<< Mark 2:10]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.12|Mark 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

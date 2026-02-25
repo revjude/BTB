@@ -1,10 +1,68 @@
+---
+title: Matthew 18:3
+type: Verse
+kjv: "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+bsb: "“Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven."
+jesus_said: "Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+greek: "καὶ εἶπεν· ἀμὴν λέγω ὑμῖν· ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν."
+pericope: "[[Matt.18.1 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BABES|BABES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4762]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 18:3**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-and said; Amen I say to you; only unless you may turn and may become as the little children, certainly not shall you enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.2|<< Matthew 18:2]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.4|Matthew 18:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4762\|στραφῆτε]]  [[G2532\|καὶ]]  [[G1096\|γένησθε]]  [[G5613\|ὡς]]  [[G3588\|τὰ]]  [[G3813\|παιδία,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1525\|εἰσέλθητε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BABES|BABES]] • [[topic CHILDREN|CHILDREN]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.2|<< Matthew 18:2]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.4|Matthew 18:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

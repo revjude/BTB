@@ -1,8 +1,70 @@
+---
+title: Leviticus 26:27
+type: Verse
+kjv: "And if ye will not for all this hearken unto me, but walk contrary unto me;"
+bsb: "But if in spite of all this you do not obey Me, but continue to walk in hostility toward Me,"
+hebrew: "וְאִ֨ם־ בְּזֹ֔את לֹ֥א תִשְׁמְע֖וּ לִ֑י וַהֲלַכְתֶּ֥ם עִמִּ֖י בְּקֶֽרִי׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H5973A]]"
+- "[[H7147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:27**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye will not for all this hearken unto me, but walk contrary unto me;
 <small><sub>**BSB:**</sub></small>
 But if in spite of all this you do not obey Me, but continue to walk in hostility toward Me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֨ם]][[H9014\|־]] [[H9003\|בְּ]][[H2063\|זֹ֔את]] [[H3808\|לֹ֥א]] [[H8085G\|תִשְׁמְע֖וּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וַ]][[H1980I\|הֲלַכְתֶּ֥ם]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H9003\|בְּ]][[H7147\|קֶֽרִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.26|<< Leviticus 26:26]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.28|Leviticus 26:28 >>]]</td></tr></table>
 

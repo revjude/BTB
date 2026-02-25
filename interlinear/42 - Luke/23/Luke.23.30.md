@@ -1,10 +1,58 @@
+---
+title: Luke 23:30
+type: Verse
+kjv: "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us."
+bsb: "At that time ‘they will say to the mountains, “Fall on us!” and to the hills, “Cover us!”’"
+jesus_said: "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us."
+greek: "τότε ἄρξονται λέγειν τοῖς ὄρεσιν· πέσετε ἐφ᾽ ἡμᾶς· καὶ τοῖς βουνοῖς· καλύψατε ἡμᾶς."
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5119]]"
+- "[[G0757]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1015]]"
+- "[[G2572]]"
+texts:
+- NKO
+---
+
 **Luke 23:30**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.
 <small><sub>**BSB:**</sub></small>
 At that time ‘they will say to the mountains, “Fall on us!” and to the hills, “Cover us!”’
-<small><sub>**Literal:**</sub></small>
-Then They will begin to say to the mountains; do fall upon us; and to the hills; do cover us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.29|<< Luke 23:29]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.31|Luke 23:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G0757\|ἄρξονται]]  [[G3004G\|λέγειν]]  [[G3588\|τοῖς]]  [[G3735\|ὄρεσιν·]]  [[G4098\|πέσετε]]  [[G1909\|ἐφ᾽]]  [[G3165\|ἡμᾶς·]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1015\|βουνοῖς·]]  [[G2572\|καλύψατε]]  [[G3165\|ἡμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.29|<< Luke 23:29]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.31|Luke 23:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 23:30** is...
 > $\quad$ referencing: [[LXX.Hos.10.8|Hos 10:8]]

@@ -1,8 +1,65 @@
+---
+title: Judges 2:7
+type: Verse
+kjv: "And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel."
+bsb: "And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel."
+hebrew: "וַיַּעַבְד֤וּ הָעָם֙ אֶת־ יְהוָ֔ה כֹּ֖ל יְמֵ֣י יְהוֹשֻׁ֑עַ וְכֹ֣ל׀ יְמֵ֣י הַזְּקֵנִ֗ים אֲשֶׁ֨ר הֶאֱרִ֤יכוּ יָמִים֙ אַחֲרֵ֣י יְהוֹשׁ֔וּעַ אֲשֶׁ֣ר רָא֗וּ אֵ֣ת כָּל־ מַעֲשֵׂ֤ה יְהוָה֙ הַגָּד֔וֹל אֲשֶׁ֥ר עָשָׂ֖ה לְיִשְׂרָאֵֽל׃"
+pericope: "[[Judg.2.6 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H2205G]]"
+- "[[H0834A]]"
+- "[[H0748]]"
+- "[[H0310A]]"
+- "[[H7200G]]"
+- "[[H4639G]]"
+- "[[H1419A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:7**<big><big>[[Judg.2.6 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.
 <small><sub>**BSB:**</sub></small>
 And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5647H\|יַּעַבְד֤וּ]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֣י]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H3117G\|יְמֵ֣י]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H0748\|הֶאֱרִ֤יכוּ]] [[H3117G\|יָמִים֙]] [[H0310A\|אַחֲרֵ֣י]] [[H3091G\|יְהוֹשׁ֔וּעַ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רָא֗וּ]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.6|<< Judges 2:6]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.8|Judges 2:8 >>]]</td></tr></table>
 

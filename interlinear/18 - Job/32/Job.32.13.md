@@ -1,8 +1,52 @@
+---
+title: Job 32:13
+type: Verse
+kjv: "Lest ye should say, We have found out wisdom: God thrusteth him down, not man."
+bsb: "So do not claim, ‘We have found wisdom; let God, not man, refute him.’"
+hebrew: "פֶּן־ תֹּ֣֭אמְרוּ מָצָ֣אנוּ חָכְמָ֑ה אֵ֖ל יִדְּפֶ֣נּוּ לֹא־ אִֽישׁ׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H4672]]"
+- "[[H2451]]"
+- "[[H0410G]]"
+- "[[H5086]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:13**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
 <small><sub>**BSB:**</sub></small>
 So do not claim, ‘We have found wisdom; let God, not man, refute him.’
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H0559\|תֹּ֣֭אמְרוּ]] [[H4672\|מָצָ֣אנוּ]] [[H2451\|חָכְמָ֑ה]] [[H0410G\|אֵ֖ל]] [[H5086\|יִדְּפֶ֣]][[H9033\|נּוּ]] [[H3808\|לֹא]][[H9014\|־]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.12|<< Job 32:12]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.14|Job 32:14 >>]]</td></tr></table>
 

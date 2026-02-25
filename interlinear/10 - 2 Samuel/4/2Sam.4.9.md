@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 4:9
+type: Verse
+kjv: "And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the LORD liveth, who hath redeemed my soul out of all adversity,"
+bsb: "But David answered Rechab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the LORD lives, who has redeemed my life from all distress,"
+hebrew: "וַיַּ֨עַן דָּוִ֜ד אֶת־ רֵכָ֣ב׀ וְאֶת־ בַּעֲנָ֣ה אָחִ֗יו בְּנֵ֛י רִמּ֥וֹן הַבְּאֵֽרֹתִ֖י וַיֹּ֣אמֶר לָהֶ֑ם חַי־ יְהוָ֕ה אֲשֶׁר־ פָּדָ֥ה אֶת־ נַפְשִׁ֖י מִכָּל־ צָרָֽה׃"
+pericope: "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic BAANAH|BAANAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic RIMMON|RIMMON]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7394G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H1196G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H7417B]]"
+- "[[H9009]]"
+- "[[H0886]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6299]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H6869B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 4:9**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, [As] the LORD liveth, who hath redeemed my soul out of all adversity,
 <small><sub>**BSB:**</sub></small>
 But David answered Rechab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the LORD lives, who has redeemed my life from all distress,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H1732\|דָּוִ֜ד]] [[H0853\|אֶת]][[H9014\|־]] [[H7394G\|רֵכָ֣ב]][[H9015\|׀]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1196G\|בַּעֲנָ֣ה]] [[H0251G\|אָחִ֗י]][[H9023\|ו]] [[H1121A\|בְּנֵ֛י]] [[H7417B\|רִמּ֥וֹן]] [[H9009\|הַ]][[H0886\|בְּאֵֽרֹתִ֖י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֕ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6299\|פָּדָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6869B\|צָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic BAANAH|BAANAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic RECHAB|RECHAB]] • [[topic RIMMON|RIMMON]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.8|<< 2 Samuel 4:8]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.10|2 Samuel 4:10 >>]]</td></tr></table>
 

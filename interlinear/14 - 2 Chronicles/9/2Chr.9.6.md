@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 9:6
+type: Verse
+kjv: "Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou exceedest the fame that I heard."
+bsb: "But I did not believe the reports until I came and saw with my own eyes. Indeed, not half of the greatness of your wisdom was told to me. You have far exceeded the report I heard."
+hebrew: "וְלֹֽא־ הֶאֱמַ֣נְתִּי לְדִבְרֵיהֶ֗ם עַ֤ד אֲשֶׁר־ בָּ֙אתִי֙ וַתִּרְאֶ֣ינָה עֵינַ֔י וְהִנֵּה֙ לֹ֣א הֻגַּד־ לִ֔י חֲצִ֖י מַרְבִּ֣ית חָכְמָתֶ֑ךָ יָסַ֕פְתָּ עַל־ הַשְּׁמוּעָ֖ה אֲשֶׁ֥ר שָׁמָֽעְתִּי׃"
+pericope: "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H9028]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H2009]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H2677]]"
+- "[[H4768]]"
+- "[[H2451]]"
+- "[[H9021]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H8052]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:6**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I believed not their words, until I came, and mine eyes had seen [it]: and, behold, the one half of the greatness of thy wisdom was not told me: [for] thou exceedest the fame that I heard.
 <small><sub>**BSB:**</sub></small>
 But I did not believe the reports until I came and saw with my own eyes. Indeed, not half of the greatness of your wisdom was told to me. You have far exceeded the report I heard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0539\|הֶאֱמַ֣נְתִּי]] [[H9005\|לְ]][[H1697G\|דִבְרֵי]][[H9028\|הֶ֗ם]] [[H5704\|עַ֤ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֙אתִי֙]] [[H9001\|וַ]][[H7200G\|תִּרְאֶ֣ינָה]] [[H5869A\|עֵינַ֔]][[H9020\|י]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H3808\|לֹ֣א]] [[H5046\|הֻגַּד]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H2677\|חֲצִ֖י]] [[H4768\|מַרְבִּ֣ית]] [[H2451\|חָכְמָתֶ֑]][[H9021\|ךָ]] [[H3254H\|יָסַ֕פְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8052\|שְּׁמוּעָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שָׁמָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEBA|SHEBA]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.5|<< 2 Chronicles 9:5]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.7|2 Chronicles 9:7 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 29:21
+type: Verse
+kjv: "And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD."
+bsb: "They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, for the sanctuary, and for Judah. And the king commanded the priests, the descendants of Aaron, to offer them on the altar of the LORD."
+hebrew: "וַיָּבִ֣יאוּ פָרִים־ שִׁבְעָה֩ וְאֵילִ֨ים שִׁבְעָ֜ה וּכְבָשִׂ֣ים שִׁבְעָ֗ה וּצְפִירֵ֨י עִזִּ֤ים שִׁבְעָה֙ לְחַטָּ֔את עַל־ הַמַּמְלָכָ֥ה וְעַל־ הַמִּקְדָּ֖שׁ וְעַל־ יְהוּדָ֑ה וַיֹּ֗אמֶר לִבְנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים לְהַעֲל֖וֹת עַל־ מִזְבַּ֥ח יְהוָֽה׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H6499]]"
+- "[[H9014]]"
+- "[[H7651]]"
+- "[[H9002]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H6842]]"
+- "[[H5795]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H4720]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H3548]]"
+- "[[H5927I]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:21**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer [them] on the altar of the LORD.
 <small><sub>**BSB:**</sub></small>
 They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, for the sanctuary, and for Judah. And the king commanded the priests, the descendants of Aaron, to offer them on the altar of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֣יאוּ]] [[H6499\|פָרִים]][[H9014\|־]] [[H7651\|שִׁבְעָה֩]] [[H9002\|וְ]][[H0352A\|אֵילִ֨ים]] [[H7651\|שִׁבְעָ֜ה]] [[H9002\|וּ]][[H3532\|כְבָשִׂ֣ים]] [[H7651\|שִׁבְעָ֗ה]] [[H9002\|וּ]][[H6842\|צְפִירֵ֨י]] [[H5795\|עִזִּ֤ים]] [[H7651\|שִׁבְעָה֙]] [[H9005\|לְ]][[H2403H\|חַטָּ֔את]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֥ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4720\|מִּקְדָּ֖שׁ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9005\|לִ]][[H1121G\|בְנֵ֤י]] [[H0175\|אַהֲרֹן֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9005\|לְ]][[H5927I\|הַעֲל֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ASAPH|ASAPH]] • [[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.20|<< 2 Chronicles 29:20]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.22|2 Chronicles 29:22 >>]]</td></tr></table>
 

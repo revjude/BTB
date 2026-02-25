@@ -1,10 +1,57 @@
+---
+title: Acts 9:28
+type: Verse
+kjv: "And he was with them coming in and going out at Jerusalem."
+bsb: "So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord."
+greek: "καὶ ἦν μετ᾽ αὐτῶν εἰσπορευόμενος καὶ ἐκπορευόμενος εἰς Ἰερουσαλήμ, καὶ παρρησιαζόμενος ἐν τῷ ὀνόματι τοῦ κυρίου Ἰησοῦ,"
+pericope: "[[Acts.9.26 Saul in Jerusalem|Saul in Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1531]]"
+- "[[G1607]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G3955]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 9:28**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he was with them coming in and going out at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord.
-<small><sub>**Literal:**</sub></small>
-And he was with them coming in and going out in Jerusalem, [29] and speaking boldly in the name of the Lord Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.27|<< Acts 9:27]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.29|Acts 9:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1531\|εἰσπορευόμενος]]  [[G2532\|καὶ]]  [[G1607\|ἐκπορευόμενος]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G2532\|καὶ]]  [[G3955\|παρρησιαζόμενος]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic SYRIA|SYRIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.27|<< Acts 9:27]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.29|Acts 9:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Woman in a Basket
+type: Pericope
 pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 5
 book/chapter: "[[Zech.5|Zechariah 5]]"
-genre:
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 7
 verses:
 - "[[Zech.5.5]]"
 - "[[Zech.5.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Zech.5.11]]"
 ---
 
-[[Zech.5|Zechariah 5:5 - Zechariah 5:11]]
+<small>[[Zech.5|Zechariah 5:5-11]]</small>
 *The Vision of the Woman in a Basket*
 
 [[Zech.5.5|5]] Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what \[is\] this that goeth forth.

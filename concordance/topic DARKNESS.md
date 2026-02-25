@@ -23,7 +23,7 @@
 
 - &#8220; Power of darkness,&#8221; [[Luke.22.53|Lu 22:53]]; [[Eph.6.12|Eph 6:12]]; [[Col.1.13|Col 1:13]];  [[1Thess.5.5|1Th 5:5]]; [[Rev.16.10|Re 16:10]]
 
-- OF SPIRITUAL BLINDNESS [[Isa.9.2|Isa 9:2]]; [[Isa.42.16|42:16]]; [[Isa.50.10|50:10]]; [[Matt.4.16|Mt 4:16]];  [[Matt.6.22|6:22]],[[Matt.6.23|23]]; [[Matt.8.12|8:12]]; [[Luke.1.79|Lu 1:79]]; [[John.1.5|Joh 1:5]]; [[John.3.19|3:19]]-[[John.3.21|21]]; [[John.8.12|8:12]]; [[John.11.9|11:9]],[[John.11.10|10]]; [[Acts.26.18|Ac 26:18]]; [[Rom.1.21|Ro 1:21]]; [[Rom.13.12|13:12]],[[Rom.13.13|13]];  [[1Cor.4.5|1Co 4:5]]; [[2Cor.4.6|2Co 4:6]]; [[2Cor.6.14|6:14]]; [[Eph.5.8|Eph 5:8]],[[Eph.5.11|11]]; [[1Thess.5.4|1Th 5:4]],[[1Thess.5.5|5]]; [[1Pet.2.9|1Pe 2:9]]; [[1John.1.5|1Jo  1:5]]-[[1John.1.7|7]]; [[1John.2.8|2:8]]-[[1John.2.11|11]]
+- OF SPIRITUAL BLINDNESS [[Isa.9.2|Isa 9:2]]; [[Isa.42.16|42:16]]; [[Isa.50.10|50:10]]; [[Matt.4.16|Mt 4:16]];  [[Matt.6.22|6:22]],[[Matt.6.23|23]]; [[Matt.8.12|8:12]]; [[Luke.1.79|Lu 1:79]]; [[John.1.5|Joh 1:5]]; [[John.3.19|3:19-21]]; [[John.8.12|8:12]]; [[John.11.9|11:9]],[[John.11.10|10]]; [[Acts.26.18|Ac 26:18]]; [[Rom.1.21|Ro 1:21]]; [[Rom.13.12|13:12]],[[Rom.13.13|13]];  [[1Cor.4.5|1Co 4:5]]; [[2Cor.4.6|2Co 4:6]]; [[2Cor.6.14|6:14]]; [[Eph.5.8|Eph 5:8]],[[Eph.5.11|11]]; [[1Thess.5.4|1Th 5:4]],[[1Thess.5.5|5]]; [[1Pet.2.9|1Pe 2:9]]; [[1John.1.5|1Jo  1:5-7]]; [[1John.2.8|2:8-11]]
 
 - See [[topic BLINDNESS|BLINDNESS, SPIRITUAL]]
 
@@ -31,5 +31,5 @@
 
 - See MOST HOLY PLACE, under the topic [[topic TABERNACLE|TABERNACLE]]
 
-- See also the following scriptures [[Exod.19.16|Ex 19:16]]; [[2Sam.22.10|2Sa 22:10]]-[[2Sam.22.12|12]]; [[1Kgs.8.12|1Ki 8:12]]; [[2Chr.6.1|2Ch 6:1]]; [[Ps.18.11|Ps 18:11]]; [[Ps.97.2|97:2]]; [[Heb.12.18|Heb 12:18]]
+- See also the following scriptures [[Exod.19.16|Ex 19:16]]; [[2Sam.22.10|2Sa 22:10-12]]; [[1Kgs.8.12|1Ki 8:12]]; [[2Chr.6.1|2Ch 6:1]]; [[Ps.18.11|Ps 18:11]]; [[Ps.97.2|97:2]]; [[Heb.12.18|Heb 12:18]]
 

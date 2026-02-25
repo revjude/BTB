@@ -1,8 +1,76 @@
+---
+title: 1 Kings 22:24
+type: Verse
+kjv: "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?"
+bsb: "Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”"
+hebrew: "וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן־ כְּנַעֲנָ֔ה וַיַּכֶּ֥ה אֶת־ מִיכָ֖יְהוּ עַל־ הַלֶּ֑חִי וַיֹּ֕אמֶר אֵי־ זֶ֨ה עָבַ֧ר רֽוּחַ־ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אוֹתָֽךְ׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHENAANAH|CHENAANAH]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H6667G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3668G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H4321G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3895H]]"
+- "[[H0559]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H5674A]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:24**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 <small><sub>**BSB:**</sub></small>
 Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּשׁ֙]] [[H6667G\|צִדְקִיָּ֣הוּ]] [[H1121A\|בֶֽן]][[H9014\|־]] [[H3668G\|כְּנַעֲנָ֔ה]] [[H9001\|וַ]][[H5221\|יַּכֶּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4321G\|מִיכָ֖יְהוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3895H\|לֶּ֑חִי]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֨ה]] [[H5674A\|עָבַ֧ר]] [[H7307G\|רֽוּחַ]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9006\|מֵ]][[H0854\|אִתִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H1696G\|דַבֵּ֥ר]] [[H0854\|אוֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ARMIES|ARMIES]] • [[topic CHENAANAH|CHENAANAH]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MICAIAH|MICAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.23|<< 1 Kings 22:23]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.25|1 Kings 22:25 >>]]</td></tr></table>
 

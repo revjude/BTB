@@ -1,10 +1,52 @@
+---
+title: Luke 19:6
+type: Verse
+kjv: "And he made haste, and came down, and received him joyfully."
+bsb: "So Zacchaeus hurried down and welcomed Him joyfully."
+greek: "καὶ σπεύσας κατέβη καὶ ὑπεδέξατο αὐτὸν χαίρων."
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4692]]"
+- "[[G2597]]"
+- "[[G5264]]"
+- "[[G0846]]"
+- "[[G5463]]"
+texts:
+- NKO
+---
+
 **Luke 19:6**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he made haste, and came down, and received him joyfully.
 <small><sub>**BSB:**</sub></small>
 So Zacchaeus hurried down and welcomed Him joyfully.
-<small><sub>**Literal:**</sub></small>
-And having hurried he came down and received Him rejoicing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.5|<< Luke 19:5]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.7|Luke 19:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4692\|σπεύσας]]  [[G2597\|κατέβη]]  [[G2532\|καὶ]]  [[G5264\|ὑπεδέξατο]]  [[G0846\|αὐτὸν]]  [[G5463\|χαίρων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.5|<< Luke 19:5]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.7|Luke 19:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

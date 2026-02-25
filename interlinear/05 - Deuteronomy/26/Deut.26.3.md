@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 26:3
+type: Verse
+kjv: "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the LORD thy God, that I am come unto the country which the LORD sware unto our fathers for to give us."
+bsb: "to the priest who is serving at that time, and say to him, “I declare today to the LORD your God that I have entered the land that the LORD swore to our fathers to give us.”"
+hebrew: "וּבָאתָ֙ אֶל־ הַכֹּהֵ֔ן אֲשֶׁ֥ר יִהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם וְאָמַרְתָּ֣ אֵלָ֗יו הִגַּ֤דְתִּי הַיּוֹם֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ כִּי־ בָ֙אתִי֙ אֶל־ הָאָ֔רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהוָ֛ה לַאֲבֹתֵ֖ינוּ לָ֥תֶת לָֽנוּ׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H0776G]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:3**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the LORD thy God, that I am come unto the country which the LORD sware unto our fathers for to give us.
 <small><sub>**BSB:**</sub></small>
 to the priest who is serving at that time, and say to him, “I declare today to the LORD your God that I have entered the land that the LORD swore to our fathers to give us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָאתָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|יִהְיֶ֖ה]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5046\|הִגַּ֤דְתִּי]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֙אתִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֧ע]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לַ]][[H0001G\|אֲבֹתֵ֖י]][[H9025\|נוּ]] [[H9005\|לָ֥]][[H5414G\|תֶת]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.2|<< Deuteronomy 26:2]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.4|Deuteronomy 26:4 >>]]</td></tr></table>
 

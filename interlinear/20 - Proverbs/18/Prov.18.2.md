@@ -1,8 +1,52 @@
+---
+title: Proverbs 18:2
+type: Verse
+kjv: "A fool hath no delight in understanding, but that his heart may discover itself."
+bsb: "A fool does not delight in understanding, but only in airing his opinions."
+hebrew: "לֹֽא־ יַחְפֹּ֣ץ כְּ֭סִיל בִּתְבוּנָ֑ה כִּ֝֗י אִֽם־ בְּהִתְגַּלּ֥וֹת לִבּֽוֹ׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2654A]]"
+- "[[H3684]]"
+- "[[H9003]]"
+- "[[H8394]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1540H]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:2**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fool hath no delight in understanding, but that his heart may discover itself.
 <small><sub>**BSB:**</sub></small>
 A fool does not delight in understanding, but only in airing his opinions.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H2654A\|יַחְפֹּ֣ץ]] [[H3684\|כְּ֭סִיל]] [[H9003\|בִּ]][[H8394\|תְבוּנָ֑ה]] [[H3588B\|כִּ֝֗י]] [[H0518B\|אִֽם]][[H9014\|־]] [[H9003\|בְּ]][[H1540H\|הִתְגַּלּ֥וֹת]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.1|<< Proverbs 18:1]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.3|Proverbs 18:3 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 26:20
+type: Verse
+kjv: "And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things."
+bsb: "Now their fellow Levites were in charge of the treasuries of the house of God and the treasuries of the dedicated things."
+hebrew: "וְֽהַלְוִיִּ֑ם אֲחִיָּ֗ה עַל־ אֽוֹצְרוֹת֙ בֵּ֣ית הָאֱלֹהִ֔ים וּלְאֹֽצְר֖וֹת הַקֳּדָשִֽׁים׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0281M]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:20**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the Levites, Ahijah [was] over the treasures of the house of God, and over the treasures of the dedicated things.
 <small><sub>**BSB:**</sub></small>
 Now their fellow Levites were in charge of the treasuries of the house of God and the treasuries of the dedicated things.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H0281M\|אֲחִיָּ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0214\|אֽוֹצְרוֹת֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H0214\|אֹֽצְר֖וֹת]] [[H9009\|הַ]][[H6944G\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.19|<< 1 Chronicles 26:19]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.21|1 Chronicles 26:21 >>]]</td></tr></table>
 

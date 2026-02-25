@@ -1,8 +1,60 @@
+---
+title: Joshua 18:21
+type: Verse
+kjv: "Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,"
+bsb: "These were the cities of the clans of the tribe of Benjamin: Jericho, Beth-hoglah, Emek-keziz,"
+hebrew: "וְהָי֣וּ הֶֽעָרִ֗ים לְמַטֵּ֛ה בְּנֵ֥י בִנְיָמִ֖ן לְמִשְׁפְּחֽוֹתֵיהֶ֑ם יְרִיח֥וֹ וּבֵית־ חָגְלָ֖ה וְעֵ֥מֶק קְצִֽיץ׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic BETH-HOGLA|BETH-HOGLA]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic KEZIZ|KEZIZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H3405G]]"
+- "[[H9002]]"
+- "[[H1031]]"
+- "[[H9014]]"
+- "[[H6010J]]"
+- "[[H7104]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:21**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,
 <small><sub>**BSB:**</sub></small>
 These were the cities of the clans of the tribe of Benjamin: Jericho, Beth-hoglah, Emek-keziz,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֗ים]] [[H9005\|לְ]][[H4294H\|מַטֵּ֛ה]] [[H1121G\|בְּנֵ֥י]] [[H1144G\|בִנְיָמִ֖ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֽוֹתֵי]][[H9028\|הֶ֑ם]] [[H3405G\|יְרִיח֥וֹ]] [[H9002\|וּ]][[H1031\|בֵית]][[H9014\|־]] [[H1031\|חָגְלָ֖ה]] [[H9002\|וְ]][[H6010J\|עֵ֥מֶק]] [[H7104\|קְצִֽיץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic BETH-HOGLA|BETH-HOGLA]] • [[topic JERICHO|JERICHO]] • [[topic KEZIZ|KEZIZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.20|<< Joshua 18:20]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.22|Joshua 18:22 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Judges 18:24
+type: Verse
+kjv: "And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what is this that ye say unto me, What aileth thee?"
+bsb: "He replied, “You took the gods I had made, and my priest, and went away. What else do I have? How can you say to me, ‘What is the matter with you?’”"
+hebrew: "וַיֹּ֡אמֶר אֶת־ אֱלֹהַי֩ אֲשֶׁר־ עָשִׂ֨יתִי לְקַחְתֶּ֧ם וְֽאֶת־ הַכֹּהֵ֛ן וַתֵּלְכ֖וּ וּמַה־ לִּ֣י ע֑וֹד וּמַה־ זֶּ֛ה תֹּאמְר֥וּ אֵלַ֖י מַה־ לָּֽךְ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1980G]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:24**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Ye have taken away my gods which I made, and the priest, and ye are gone away: and what have I more? and what [is] this [that] ye say unto me, What aileth thee?
 <small><sub>**BSB:**</sub></small>
 He replied, “You took the gods I had made, and my priest, and went away. What else do I have? How can you say to me, ‘What is the matter with you?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהַ]][[H9020\|י֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשִׂ֨יתִי]] [[H3947G\|לְקַחְתֶּ֧ם]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9001\|וַ]][[H1980G\|תֵּלְכ֖וּ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H5750\|ע֑וֹד]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H2088\|זֶּ֛ה]] [[H0559\|תֹּאמְר֥וּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.23|<< Judges 18:23]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.25|Judges 18:25 >>]]</td></tr></table>
 

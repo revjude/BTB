@@ -1,10 +1,49 @@
+---
+title: Philemon 1:21
+type: Verse
+kjv: "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+bsb: "Confident of your obedience, I write to you, knowing that you will do even more than I ask."
+greek: "Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις."
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G3982]]"
+- "[[G3588]]"
+- "[[G5218]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G5228]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philemon 1:21**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.
 <small><sub>**BSB:**</sub></small>
 Confident of your obedience, I write to you, knowing that you will do even more than I ask.
-<small><sub>**Literal:**</sub></small>
-Having been persuaded of the obedience of you I write to you knowing that even above what [things] I say you will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.20|<< Philemon 1:20]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.22|Philemon 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|Πεποιθὼς]]  [[G3588\|τῇ]]  [[G5218\|ὑπακοῇ]]  [[G4771\|σου]]  [[G1125\|ἔγραψά]]  [[G4771\|σοι]]  [[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G5228\|ὑπὲρ]]  [[G3739\|ἃ]]  [[G3004G\|λέγω]]  [[G4160G\|ποιήσεις.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.20|<< Philemon 1:20]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.22|Philemon 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

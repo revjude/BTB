@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Michal’s Contempt for David
+type: Pericope
 pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 6
 book/chapter: "[[2Sam.6|2 Samuel 6]]"
-genre:
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.6.16]]"
 - "[[2Sam.6.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.6.23]]"
 ---
 
-[[2Sam.6|2 Samuel 6:16 - 2 Samuel 6:23]]
+<small>[[2Sam.6|2 Samuel 6:16-23]]</small>
 *Michal’s Contempt for David*
 
 [[2Sam.6.16|16]] And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.

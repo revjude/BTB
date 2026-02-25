@@ -1,10 +1,60 @@
+---
+title: Luke 4:20
+type: Verse
+kjv: "And he closed the book, and he gave it again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him."
+bsb: "Then He rolled up the scroll, returned it to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him,"
+greek: "καὶ πτύξας τὸ βιβλίον ἀποδοὺς τῷ ὑπηρέτῃ ἐκάθισεν, καὶ πάντων οἱ ὀφθαλμοὶ ἐν τῇ συναγωγῇ ἦσαν ἀτενίζοντες αὐτῷ."
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G4428]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G0591]]"
+- "[[G5257]]"
+- "[[G2523]]"
+- "[[G3956]]"
+- "[[G3788]]"
+- "[[G1722]]"
+- "[[G4864]]"
+- "[[G1510]]"
+- "[[G0816]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 4:20**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he closed the book, and he gave [it] again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
 <small><sub>**BSB:**</sub></small>
 Then He rolled up the scroll, returned it to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him,
-<small><sub>**Literal:**</sub></small>
-And having rolled up the scroll having delivered [it] to the attendant He sat down, and of all the eyes in the synagogue were fixed upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.19|<< Luke 4:19]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.21|Luke 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4428\|πτύξας]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G0591\|ἀποδοὺς]]  [[G3588\|τῷ]]  [[G5257\|ὑπηρέτῃ]]  [[G2523\|ἐκάθισεν,]]  [[G2532\|καὶ]]  [[G3956\|πάντων]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G1510\|ἦσαν]]  [[G0816\|ἀτενίζοντες]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.19|<< Luke 4:19]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.21|Luke 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

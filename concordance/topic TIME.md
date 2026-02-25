@@ -11,7 +11,7 @@
 
 → Daniel' s reckoning of time, and times, and half times [[Dan.7.25|Da 7:25]]; [[Dan.12.7|12:7]]
 
-→ Indicated by a sun-dial [[2Kgs.20.9|2Ki 20:9]]-[[2Kgs.20.11|11]]; [[Isa.38.8|Isa 38:8]]
+→ Indicated by a sun-dial [[2Kgs.20.9|2Ki 20:9-11]]; [[Isa.38.8|Isa 38:8]]
 
 → Division of, into watches [[Exod.14.24|Ex 14:24]]; [[1Sam.11.11|1Sa 11:11]]; [[Matt.14.25|Mt 14:25]];  [[Mark.6.48|Mr 6:48]]
 

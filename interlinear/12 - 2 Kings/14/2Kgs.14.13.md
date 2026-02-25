@@ -1,8 +1,72 @@
+---
+title: 2 Kings 14:13
+type: Verse
+kjv: "And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim unto the corner gate, four hundred cubits."
+bsb: "There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah. Then Jehoash went to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section of four hundred cubits."
+hebrew: "וְאֵת֩ אֲמַצְיָ֨הוּ מֶֽלֶךְ־ יְהוּדָ֜ה בֶּן־ יְהוֹאָ֣שׁ בֶּן־ אֲחַזְיָ֗הוּ תָּפַ֛שׂ יְהוֹאָ֥שׁ מֶֽלֶךְ־ יִשְׂרָאֵ֖ל בְּבֵ֣ית שָׁ֑מֶשׁ וַיָּבֹא֙ יְר֣וּשָׁלִַ֔ם וַיִּפְרֹץ֩ בְּחוֹמַ֨ת יְרוּשָׁלִַ֜ם בְּשַׁ֤עַר אֶפְרַ֙יִם֙ עַד־ שַׁ֣עַר הַפִּנָּ֔ה אַרְבַּ֥ע מֵא֖וֹת אַמָּֽה׃"
+pericope: "[[2Kgs.14.8 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H0558G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H1121A]]"
+- "[[H3060H]]"
+- "[[H0274H]]"
+- "[[H8610]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H1053G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H6555]]"
+- "[[H2346G]]"
+- "[[H8179G]]"
+- "[[H0669H]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6438G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 14:13**<big><big>[[2Kgs.14.8 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim unto the corner gate, four hundred cubits.
 <small><sub>**BSB:**</sub></small>
 There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah. Then Jehoash went to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section of four hundred cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֩]] [[H0558G\|אֲמַצְיָ֨הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֜ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3060H\|יְהוֹאָ֣שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0274H\|אֲחַזְיָ֗הוּ]] [[H8610\|תָּפַ֛שׂ]] [[H3060H\|יְהוֹאָ֥שׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H1053G\|בֵ֣ית]] [[H1053G\|שָׁ֑מֶשׁ]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9001\|וַ]][[H6555\|יִּפְרֹץ֩]] [[H9003\|בְּ]][[H2346G\|חוֹמַ֨ת]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9003\|בְּ]][[H8179G\|שַׁ֤עַר]] [[H0669H\|אֶפְרַ֙יִם֙]] [[H5704\|עַד]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H6438G\|פִּנָּ֔ה]] [[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵא֖וֹת]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOASH|JEHOASH]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.12|<< 2 Kings 14:12]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.14|2 Kings 14:14 >>]]</td></tr></table>
 
@@ -37,7 +101,7 @@ There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, th
 | cubit[s]  |**<big>&#8207;[[H0520A\|אַמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.12|<< 2 Kings 14:12]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.14|2 Kings 14:14 >>]]</td></tr></table>
 
-[^1]: and they came  | **<big>[[H0935G|יָּבֹאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they came  | **<big>[[H0935G|יָּבֹאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they came  | **<big>[[H9001|וַ]]</big><big>[[H0935G|יָּבֹאוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they came  | **<big>[[H9001|וַ]]</big><big>[[H0935G|יָּבֹאוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיָּבֹא֙ו</big></span>**
 

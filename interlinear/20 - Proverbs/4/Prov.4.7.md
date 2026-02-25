@@ -1,8 +1,52 @@
+---
+title: Proverbs 4:7
+type: Verse
+kjv: "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
+bsb: "Wisdom is supreme; so acquire wisdom. And whatever you may acquire, gain understanding."
+hebrew: "רֵאשִׁ֣ית חָ֭כְמָה קְנֵ֣ה חָכְמָ֑ה וּבְכָל־ קִ֝נְיָנְךָ֗ קְנֵ֣ה בִינָֽה׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H7225G]]"
+- "[[H2451]]"
+- "[[H7069]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7075]]"
+- "[[H9021]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:7**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding.
 <small><sub>**BSB:**</sub></small>
 Wisdom is supreme; so acquire wisdom. And whatever you may acquire, gain understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H7225G\|רֵאשִׁ֣ית]] [[H2451\|חָ֭כְמָה]] [[H7069\|קְנֵ֣ה]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H7075\|קִ֝נְיָנְ]][[H9021\|ךָ֗]] [[H7069\|קְנֵ֣ה]] [[H0998\|בִינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.6|<< Proverbs 4:6]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.8|Proverbs 4:8 >>]]</td></tr></table>
 

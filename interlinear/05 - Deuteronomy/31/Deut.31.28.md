@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 31:28
+type: Verse
+kjv: "Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them."
+bsb: "Assemble before me all the elders of your tribes and all your officers so that I may speak these words in their hearing and call heaven and earth to witness against them."
+hebrew: "הַקְהִ֧ילוּ אֵלַ֛י אֶת־ כָּל־ זִקְנֵ֥י שִׁבְטֵיכֶ֖ם וְשֹׁטְרֵיכֶ֑ם וַאֲדַבְּרָ֣ה בְאָזְנֵיהֶ֗ם אֵ֚ת הַדְּבָרִ֣ים הָאֵ֔לֶּה וְאָעִ֣ידָה בָּ֔ם אֶת־ הַשָּׁמַ֖יִם וְאֶת־ הָאָֽרֶץ׃"
+pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H6950]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2205G]]"
+- "[[H7626H]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H7860]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H5749B]]"
+- "[[H9038]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:28**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
 <small><sub>**BSB:**</sub></small>
 Assemble before me all the elders of your tribes and all your officers so that I may speak these words in their hearing and call heaven and earth to witness against them.
+<small><sub>**Hebrew:**</sub></small>
+[[H6950\|הַקְהִ֧ילוּ]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2205G\|זִקְנֵ֥י]] [[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H7860\|שֹׁטְרֵי]][[H9026\|כֶ֑ם]] [[H9002\|וַ]][[H1696G\|אֲדַבְּרָ֣ה]] [[H9003\|בְ]][[H0241I\|אָזְנֵי]][[H9028\|הֶ֗ם]] [[H0853\|אֵ֚ת]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9002\|וְ]][[H5749B\|אָעִ֣ידָה]] [[H9003\|בָּ֔]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.27|<< Deuteronomy 31:27]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.29|Deuteronomy 31:29 >>]]</td></tr></table>
 

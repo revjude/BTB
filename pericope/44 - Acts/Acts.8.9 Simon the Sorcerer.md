@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Simon the Sorcerer
+type: Pericope
 pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Acts
 chapter: 8
 book/chapter: "[[Acts.8|Acts 8]]"
-genre:
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 17
 verses:
 - "[[Acts.8.9]]"
 - "[[Acts.8.10]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Acts.8.25]]"
 ---
 
-[[Acts.8|Acts 8:9 - Acts 8:25]]
+<small>[[Acts.8|Acts 8:9-25]]</small>
 *Simon the Sorcerer*
 
 [[Acts.8.9|9]] But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:

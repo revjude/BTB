@@ -1,8 +1,77 @@
+---
+title: Genesis 29:30
+type: Verse
+kjv: "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+bsb: "Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban another seven years."
+hebrew: "וַיָּבֹא֙ גַּ֣ם אֶל־ רָחֵ֔ל וַיֶּאֱהַ֥ב גַּֽם־ אֶת־ רָחֵ֖ל מִלֵּאָ֑ה וַיַּעֲבֹ֣ד עִמּ֔וֹ ע֖וֹד שֶֽׁבַע־ שָׁנִ֥ים אֲחֵרֽוֹת׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic LOVERS|LOVERS]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1571]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7354]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H3812]]"
+- "[[H5647G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:30**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.
 <small><sub>**BSB:**</sub></small>
 Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban another seven years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H1571\|גַּ֣ם]] [[H0413\|אֶל]][[H9014\|־]] [[H7354\|רָחֵ֔ל]] [[H9001\|וַ]][[H0157G\|יֶּאֱהַ֥ב]] [[H1571\|גַּֽם]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H7354\|רָחֵ֖ל]] [[H9006\|מִ]][[H3812\|לֵּאָ֑ה]] [[H9001\|וַ]][[H5647G\|יַּעֲבֹ֣ד]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H5750\|ע֖וֹד]] [[H7651\|שֶֽׁבַע]][[H9014\|־]] [[H8141\|שָׁנִ֥ים]] [[H0312\|אֲחֵרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic INCEST|INCEST]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic LOVERS|LOVERS]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.29|<< Genesis 29:29]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.31|Genesis 29:31 >>]]</td></tr></table>
 

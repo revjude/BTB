@@ -1,10 +1,60 @@
+---
+title: Acts 26:3
+type: Verse
+kjv: "Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently."
+bsb: "especially since you are acquainted with all the Jewish customs and controversies. I beg you, therefore, to listen to me patiently."
+greek: "μάλιστα γνώστην ὄντα σε πάντων τῶν κατὰ Ἰουδαίους ἐθῶν τε καὶ ζητημάτων. διὸ δέομαι σου μακροθύμως ἀκοῦσαί μου.¶"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3122]]"
+- "[[G1109]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G2453]]"
+- "[[G1485]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2213]]"
+- "[[G1352]]"
+- "[[G1189]]"
+- "[[G3116]]"
+- "[[G0191]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **Acts 26:3**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Especially [because I know] thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.
 <small><sub>**BSB:**</sub></small>
 especially since you are acquainted with all the Jewish customs and controversies. I beg you, therefore, to listen to me patiently.
-<small><sub>**Literal:**</sub></small>
-Especially acquainted being you with all the of [the] Jews customs and also controversies. therefore I implore you patiently to hear me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.2|<< Acts 26:2]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.4|Acts 26:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3122\|μάλιστα]]  [[G1109\|γνώστην]]  [[G1510\|ὄντα]]  [[G4771\|σε]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G2596\|κατὰ]]  [[G2453\|Ἰουδαίους]]  [[G1485\|ἐθῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2213\|ζητημάτων.]]  [[G1352\|διὸ]]  [[G1189\|δέομαι]]  [[G4771\|σου]]  [[G3116\|μακροθύμως]]  [[G0191\|ἀκοῦσαί]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.2|<< Acts 26:2]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.4|Acts 26:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

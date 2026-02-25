@@ -1,8 +1,60 @@
+---
+title: Jeremiah 48:41
+type: Verse
+kjv: "Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs."
+bsb: "Kirioth has been taken, and the strongholds seized. In that day the heart of Moab’s warriors will be like the heart of a woman in labor."
+hebrew: "נִלְכְּדָה֙ הַקְּרִיּ֔וֹת וְהַמְּצָד֖וֹת נִתְפָּ֑שָׂה וְֽ֠הָיָה לֵ֞ב גִּבּוֹרֵ֤י מוֹאָב֙ בַּיּ֣וֹם הַה֔וּא כְּלֵ֖ב אִשָּׁ֥ה מְצֵרָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic KERIOTH|KERIOTH]]"
+strongs:
+- "[[H3920]]"
+- "[[H9009]]"
+- "[[H7152H]]"
+- "[[H9002]]"
+- "[[H4679]]"
+- "[[H8610]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H1368]]"
+- "[[H4124G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H0802G]]"
+- "[[H6887C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:41**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kerioth is taken, and the strong holds are surprised, and the mighty men’s hearts in Moab at that day shall be as the heart of a woman in her pangs.
 <small><sub>**BSB:**</sub></small>
 Kirioth has been taken, and the strongholds seized. In that day the heart of Moab’s warriors will be like the heart of a woman in labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H3920\|נִלְכְּדָה֙]] [[H9009\|הַ]][[H7152H\|קְּרִיּ֔וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H4679\|מְּצָד֖וֹת]] [[H8610\|נִתְפָּ֑שָׂה]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H3820A\|לֵ֞ב]] [[H1368\|גִּבּוֹרֵ֤י]] [[H4124G\|מוֹאָב֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9004\|כְּ]][[H3820A\|לֵ֖ב]] [[H0802G\|אִשָּׁ֥ה]] [[H6887C\|מְצֵרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KERIOTH|KERIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.40|<< Jeremiah 48:40]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.42|Jeremiah 48:42 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 10:48
+type: Verse
+kjv: "And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me."
+bsb: "Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”"
+greek: "καὶ ἐπετίμων αὐτῷ πολλοὶ ἵνα σιωπήσῃ. ὁ δὲ πολλῷ μᾶλλον ἔκραζεν· υἱὲ Δαυίδ, ἐλέησόν με."
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G2443]]"
+- "[[G4623]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3123G]]"
+- "[[G2896]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G1653]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Mark 10:48**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many charged him that he should hold his peace: but he cried the more a great deal, [Thou] Son of David, have mercy on me.
 <small><sub>**BSB:**</sub></small>
 Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”
-<small><sub>**Literal:**</sub></small>
-And were rebuking him many that he may be silent. <the> but much more he was crying out; Son of David, do have mercy on me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.47|<< Mark 10:47]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.49|Mark 10:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2008\|ἐπετίμων]]  [[G0846\|αὐτῷ]]  [[G4183\|πολλοὶ]]  [[G2443\|ἵνα]]  [[G4623\|σιωπήσῃ.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4183\|πολλῷ]]  [[G3123G\|μᾶλλον]]  [[G2896\|ἔκραζεν·]]  [[G5207\|υἱὲ]]  [[G1138\|Δαυίδ,]]  [[G1653\|ἐλέησόν]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.47|<< Mark 10:47]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.49|Mark 10:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

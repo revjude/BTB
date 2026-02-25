@@ -1,8 +1,64 @@
+---
+title: 2 Kings 5:2
+type: Verse
+kjv: "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife."
+bsb: "At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife."
+hebrew: "וַאֲרָם֙ יָצְא֣וּ גְדוּדִ֔ים וַיִּשְׁבּ֛וּ מֵאֶ֥רֶץ יִשְׂרָאֵ֖ל נַעֲרָ֣ה קְטַנָּ֑ה וַתְּהִ֕י לִפְנֵ֖י אֵ֥שֶׁת נַעֲמָֽן׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0758I]]"
+- "[[H3318G]]"
+- "[[H1416]]"
+- "[[H9001]]"
+- "[[H7617]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H3478]]"
+- "[[H5291]]"
+- "[[H6996A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0802H]]"
+- "[[H5283I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:2**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife.
 <small><sub>**BSB:**</sub></small>
 At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0758I\|אֲרָם֙]] [[H3318G\|יָצְא֣וּ]] [[H1416\|גְדוּדִ֔ים]] [[H9001\|וַ]][[H7617\|יִּשְׁבּ֛וּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5291\|נַעֲרָ֣ה]] [[H6996A\|קְטַנָּ֑ה]] [[H9001\|וַ]][[H1961\|תְּהִ֕י]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0802H\|אֵ֥שֶׁת]] [[H5283I\|נַעֲמָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.1|<< 2 Kings 5:1]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.3|2 Kings 5:3 >>]]</td></tr></table>
 

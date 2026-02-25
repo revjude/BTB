@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Abraham
+type: Pericope
 pericope: "[[Gen.25.7 The Death of Abraham|The Death of Abraham]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 25
 book/chapter: "[[Gen.25|Genesis 25]]"
-genre:
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.25.7]]"
 - "[[Gen.25.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.25.11]]"
 ---
 
-[[Gen.25|Genesis 25:7 - Genesis 25:11]]
+<small>[[Gen.25|Genesis 25:7-11]]</small>
 *The Death of Abraham*
 
 [[Gen.25.7|7]] And these \[are\] the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.

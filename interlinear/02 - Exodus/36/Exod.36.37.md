@@ -1,8 +1,64 @@
+---
+title: Exodus 36:37
+type: Verse
+kjv: "And he made an hanging for the tabernacle door of blue, and purple, and scarlet, and fine twined linen, of needlework;"
+bsb: "For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen,"
+hebrew: "וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃"
+pericope: "[[Exod.36.37 The Curtain for the Entrance|The Curtain for the Entrance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H4539]]"
+- "[[H9005]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H4639G]]"
+- "[[H7551]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:37**<big><big>[[Exod.36.37 The Curtain for the Entrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made an hanging for the tabernacle door [of] blue, and purple, and scarlet, and fine twined linen, of needlework;
 <small><sub>**BSB:**</sub></small>
 For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H4539\|מָסָךְ֙]] [[H9005\|לְ]][[H6607\|פֶ֣תַח]] [[H9009\|הָ]][[H0168G\|אֹ֔הֶל]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֑ר]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H7551\|רֹקֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.36|<< Exodus 36:36]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.38|Exodus 36:38 >>]]</td></tr></table>
 

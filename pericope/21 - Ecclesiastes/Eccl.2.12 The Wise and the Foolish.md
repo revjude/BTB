@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wise and the Foolish
+type: Pericope
 pericope: "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 2
 book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
-genre:
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.2.12]]"
 - "[[Eccl.2.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.2.17]]"
 ---
 
-[[Eccl.2|Ecclesiastes 2:12 - Ecclesiastes 2:17]]
+<small>[[Eccl.2|Ecclesiastes 2:12-17]]</small>
 *The Wise and the Foolish*
 
 [[Eccl.2.12|12]] And I turned myself to behold wisdom, and madness, and folly: for what \[can\] the man \[do\] that cometh after the king? \[even\] that which hath been already done.

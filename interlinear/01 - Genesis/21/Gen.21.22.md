@@ -1,8 +1,75 @@
+---
+title: Genesis 21:22
+type: Verse
+kjv: "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
+bsb: "At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do."
+hebrew: "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־ צְבָא֔וֹ אֶל־ אַבְרָהָ֖ם לֵאמֹ֑ר אֱלֹהִ֣ים עִמְּךָ֔ בְּכֹ֥ל אֲשֶׁר־ אַתָּ֖ה עֹשֶֽׂה׃"
+pericope: "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABIMELECH|ABIMELECH]]"
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PHICHOL|PHICHOL]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H0040G]]"
+- "[[H9002]]"
+- "[[H6369]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H0085]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:22**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God [is] with thee in all that thou doest:
 <small><sub>**BSB:**</sub></small>
 At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0040G\|אֲבִימֶ֗לֶךְ]] [[H9002\|וּ]][[H6369\|פִיכֹל֙]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָא֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H0085\|אַבְרָהָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0430G\|אֱלֹהִ֣ים]] [[H5973A\|עִמְּ]][[H9031\|ךָ֔]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֖ה]] [[H6213A\|עֹשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIMELECH|ABIMELECH]] • [[topic ABRAHAM|ABRAHAM]] • [[topic ALLIANCES|ALLIANCES]] • [[topic COVENANT|COVENANT]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic OATH|OATH]] • [[topic PHICHOL|PHICHOL]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.21|<< Genesis 21:21]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.23|Genesis 21:23 >>]]</td></tr></table>
 

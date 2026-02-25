@@ -1,8 +1,60 @@
+---
+title: Genesis 27:44
+type: Verse
+kjv: "And tarry with him a few days, until thy brother’s fury turn away;"
+bsb: "Stay with him for a while, until your brother’s fury subsides—"
+hebrew: "וְיָשַׁבְתָּ֥ עִמּ֖וֹ יָמִ֣ים אֲחָדִ֑ים עַ֥ד אֲשֶׁר־ תָּשׁ֖וּב חֲמַ֥ת אָחִֽיךָ׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H2534]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:44**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And tarry with him a few days, until thy brother’s fury turn away;
 <small><sub>**BSB:**</sub></small>
 Stay with him for a while, until your brother’s fury subsides—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשַׁבְתָּ֥]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H3117G\|יָמִ֣ים]] [[H0259\|אֲחָדִ֑ים]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7725I\|תָּשׁ֖וּב]] [[H2534\|חֲמַ֥ת]] [[H0251G\|אָחִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.43|<< Genesis 27:43]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.45|Genesis 27:45 >>]]</td></tr></table>
 

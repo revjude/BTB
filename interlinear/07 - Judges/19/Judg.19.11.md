@@ -1,8 +1,62 @@
+---
+title: Judges 19:11
+type: Verse
+kjv: "And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it."
+bsb: "When they were near Jebus and the day was almost gone, the servant said to his master, “Please, let us stop at this Jebusite city and spend the night here.”"
+hebrew: "הֵ֣ם עִם־ יְב֔וּס וְהַיּ֖וֹם רַ֣ד מְאֹ֑ד וַיֹּ֨אמֶר הַנַּ֜עַר אֶל־ אֲדֹנָ֗יו לְכָה־ נָּ֛א וְנָס֛וּרָה אֶל־ עִֽיר־ הַיְבוּסִ֥י הַזֹּ֖את וְנָלִ֥ין בָּֽהּ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H1992]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2982]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3381]]"
+- "[[H3966]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5288]]"
+- "[[H0413]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H5493I]]"
+- "[[H5892B]]"
+- "[[H2983G]]"
+- "[[H2063]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:11**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when they [were] by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.
 <small><sub>**BSB:**</sub></small>
 When they were near Jebus and the day was almost gone, the servant said to his master, “Please, let us stop at this Jebusite city and spend the night here.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֣ם]] [[H5973A\|עִם]][[H9014\|־]] [[H2982\|יְב֔וּס]] [[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H3381\|רַ֣ד]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H5288\|נַּ֜עַר]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנָ֗י]][[H9023\|ו]] [[H1980K\|לְכָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֛א]] [[H9002\|וְ]][[H5493I\|נָס֛וּרָה]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִֽיר]][[H9014\|־]] [[H9009\|הַ]][[H2983G\|יְבוּסִ֥י]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9002\|וְ]][[H3885A\|נָלִ֥ין]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.10|<< Judges 19:10]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.12|Judges 19:12 >>]]</td></tr></table>
 

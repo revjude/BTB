@@ -1,10 +1,58 @@
+---
+title: Mark 2:10
+type: Verse
+kjv: "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)"
+bsb: "But so that you may know that the Son of Man has authority on earth to forgive sins...” He said to the paralytic,"
+jesus_said: "But that ye may know that the Son of man hath power on earth to forgive sins,"
+greek: "Ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς, λέγει τῷ παραλυτικῷ·"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2443]]"
+- "[[G1161]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1849]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0863H]]"
+- "[[G0266]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3004G]]"
+- "[[G3885]]"
+texts:
+- NKO
+---
+
 **Mark 2:10**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)
 <small><sub>**BSB:**</sub></small>
 But so that you may know that the Son of Man has authority on earth to forgive sins...” He said to the paralytic,
-<small><sub>**Literal:**</sub></small>
-That however you may know that authority has the Son <the> of Man to forgive sins on the earth He says to the paralytic;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.9|<< Mark 2:9]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.11|Mark 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|Ἵνα]]  [[G1161\|δὲ]]  [[G6063\|εἰδῆτε]]  [[G3754G\|ὅτι]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G0863H\|ἀφιέναι]]  [[G0266\|ἁμαρτίας]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G3885\|παραλυτικῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.9|<< Mark 2:9]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.11|Mark 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

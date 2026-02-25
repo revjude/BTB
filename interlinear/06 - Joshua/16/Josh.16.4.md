@@ -1,8 +1,45 @@
+---
+title: Joshua 16:4
+type: Verse
+kjv: "So the children of Joseph, Manasseh and Ephraim, took their inheritance."
+bsb: "So Ephraim and Manasseh, the sons of Joseph, received their inheritance."
+hebrew: "וַיִּנְחֲל֥וּ בְנֵי־ יוֹסֵ֖ף מְנַשֶּׁ֥ה וְאֶפְרָֽיִם׃"
+pericope: "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 16
+book/chapter: "[[Josh.16|Joshua 16]]"
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9001]]"
+- "[[H5157]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 16:4**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the children of Joseph, Manasseh and Ephraim, took their inheritance.
 <small><sub>**BSB:**</sub></small>
 So Ephraim and Manasseh, the sons of Joseph, received their inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5157\|יִּנְחֲל֥וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H4519G\|מְנַשֶּׁ֥ה]] [[H9002\|וְ]][[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.3|<< Joshua 16:3]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.5|Joshua 16:5 >>]]</td></tr></table>
 

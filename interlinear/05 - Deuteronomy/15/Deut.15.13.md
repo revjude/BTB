@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 15:13
+type: Verse
+kjv: "And when thou sendest him out free from thee, thou shalt not let him go away empty:"
+bsb: "And when you release him, do not send him away empty-handed."
+hebrew: "וְכִֽי־ תְשַׁלְּחֶ֥נּוּ חָפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם׃"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7971H]]"
+- "[[H9033]]"
+- "[[H2670]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:13**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou sendest him out free from thee, thou shalt not let him go away empty:
 <small><sub>**BSB:**</sub></small>
 And when you release him, do not send him away empty-handed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H7971H\|תְשַׁלְּחֶ֥]][[H9033\|נּוּ]] [[H2670\|חָפְשִׁ֖י]] [[H9006\|מֵֽ]][[H5973B\|עִמָּ֑]][[H9031\|ךְ]] [[H3808\|לֹ֥א]] [[H7971H\|תְשַׁלְּחֶ֖]][[H9033\|נּוּ]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.12|<< Deuteronomy 15:12]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.14|Deuteronomy 15:14 >>]]</td></tr></table>
 

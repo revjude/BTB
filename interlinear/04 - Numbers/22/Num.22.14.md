@@ -1,8 +1,59 @@
+---
+title: Numbers 22:14
+type: Verse
+kjv: "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+bsb: "And the princes of Moab arose, returned to Balak, and said, “Balaam refused to come with us.”"
+hebrew: "וַיָּק֙וּמוּ֙ שָׂרֵ֣י מוֹאָ֔ב וַיָּבֹ֖אוּ אֶל־ בָּלָ֑ק וַיֹּ֣אמְר֔וּ מֵאֵ֥ן בִּלְעָ֖ם הֲלֹ֥ךְ עִמָּֽנוּ׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H8269]]"
+- "[[H4124G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H0559]]"
+- "[[H3985]]"
+- "[[H1109A]]"
+- "[[H1980H]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:14**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
 <small><sub>**BSB:**</sub></small>
 And the princes of Moab arose, returned to Balak, and said, “Balaam refused to come with us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּק֙וּמוּ֙]] [[H8269\|שָׂרֵ֣י]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֑ק]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H3985\|מֵאֵ֥ן]] [[H1109A\|בִּלְעָ֖ם]] [[H1980H\|הֲלֹ֥ךְ]] [[H5973A\|עִמָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.13|<< Numbers 22:13]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.15|Numbers 22:15 >>]]</td></tr></table>
 

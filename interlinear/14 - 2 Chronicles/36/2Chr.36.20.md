@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 36:20
+type: Verse
+kjv: "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:"
+bsb: "Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power."
+hebrew: "וַיֶּ֛גֶל הַשְּׁאֵרִ֥ית מִן־ הַחֶ֖רֶב אֶל־ בָּבֶ֑ל וַֽיִּהְיוּ־ ל֤וֹ וּלְבָנָיו֙ לַעֲבָדִ֔ים עַד־ מְלֹ֖ךְ מַלְכ֥וּת פָּרָֽס׃"
+pericope: "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1540K]]"
+- "[[H9009]]"
+- "[[H7611]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H0413]]"
+- "[[H0894]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5650]]"
+- "[[H5704]]"
+- "[[H4427A]]"
+- "[[H4438]]"
+- "[[H6539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:20**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
 <small><sub>**BSB:**</sub></small>
 Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1540K\|יֶּ֛גֶל]] [[H9009\|הַ]][[H7611\|שְּׁאֵרִ֥ית]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2719\|חֶ֖רֶב]] [[H0413\|אֶל]][[H9014\|־]] [[H0894\|בָּבֶ֑ל]] [[H9001\|וַֽ]][[H1961\|יִּהְיוּ]][[H9014\|־]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָי]][[H9023\|ו֙]] [[H9005\|לַ]][[H5650\|עֲבָדִ֔ים]] [[H5704\|עַד]][[H9014\|־]] [[H4427A\|מְלֹ֖ךְ]] [[H4438\|מַלְכ֥וּת]] [[H6539\|פָּרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic PERSIA|PERSIA]] • [[topic PROPHECY|PROPHECY]] • [[topic SERVANT|SERVANT]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.19|<< 2 Chronicles 36:19]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.21|2 Chronicles 36:21 >>]]</td></tr></table>
 

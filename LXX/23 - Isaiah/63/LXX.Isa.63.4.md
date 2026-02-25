@@ -1,6 +1,47 @@
+---
+title: LXX Isaiah 63:4
+type: Verse
+lxx: "For a day of recompense came upon them, and a year of ransoming is at hand."
+greek: "ημέρα γαρ ανταποδόσεως επήλθεν αυτοίς και ενιαυτός λυτρώσεως πάρεστι"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic LIBERTY|LIBERTY]]"
+strongs:
+- "[[G2250]]"
+- "[[G1063]]"
+- "[[G0469]]"
+- "[[G1904]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1763]]"
+- "[[G3085]]"
+- "[[G3918]]"
+---
+
 **LXX Isaiah 63:4** 
 <small><sub>**LXX:**</sub></small>
 For a day of recompense came upon them, and a year of ransoming \[is\] at hand. 
+<small><sub>**Greek:**</sub></small>
+[[G2250\|ημέρα]] [[G1063\|γαρ]] [[G0469\|ανταποδόσεως]] [[G1904\|επήλθεν]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G1763\|ενιαυτός]] [[G3085\|λυτρώσεως]] [[G3918\|πάρεστι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic EDOMITES|EDOMITES]] • [[topic LIBERTY|LIBERTY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.63.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
@@ -14,6 +55,6 @@ For a day of recompense came upon them, and a year of ransoming \[is\] at hand.
 | a year | **<big>[[G1763\|ενιαυτός]]</big>** |
 | of ransoming | **<big>[[G3085\|λυτρώσεως]]</big>** |
 | \[is\] at hand. | **<big>[[G3918\|πάρεστι]]</big>** |
-[[Isa.63.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.3|<< Isaiah 63:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.5|Isaiah 63:5 >>]]</td></tr></table>
 
 

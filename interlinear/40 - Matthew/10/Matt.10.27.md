@@ -1,10 +1,58 @@
+---
+title: Matthew 10:27
+type: Verse
+kjv: "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops."
+bsb: "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the housetops."
+jesus_said: "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops."
+greek: "ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτί, καὶ ὃ εἰς τὸ οὖς ἀκούετε κηρύξατε ἐπὶ τῶν δωμάτων."
+pericope: "[[Matt.10.26 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4653]]"
+- "[[G2036]]"
+- "[[G5457]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G2784]]"
+- "[[G1909]]"
+- "[[G1430]]"
+texts:
+- NKO
+---
+
 **Matthew 10:27**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What I tell you in darkness, [that] speak ye in light: and what ye hear in the ear, [that] preach ye upon the housetops.
 <small><sub>**BSB:**</sub></small>
 What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the housetops.
-<small><sub>**Literal:**</sub></small>
-What I tell you in the darkness do speak in the light, and what in the ear you hear do proclaim upon the housetops!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.26|<< Matthew 10:26]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.28|Matthew 10:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4653\|σκοτίᾳ]]  [[G2036\|εἴπατε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5457\|φωτί,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3775\|οὖς]]  [[G0191\|ἀκούετε]]  [[G2784\|κηρύξατε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G1430\|δωμάτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.26|<< Matthew 10:26]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.28|Matthew 10:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

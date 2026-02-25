@@ -1,10 +1,67 @@
+---
+title: Luke 4:41
+type: Verse
+kjv: "And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ."
+bsb: "Demons also came out of many people, shouting, “You are the Son of God!” But He rebuked the demons and would not allow them to speak, because they knew He was the Christ."
+greek: "ἐξήρχετο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κραυγάζοντα καὶ λέγοντα ὅτι σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν ὅτι ᾔδεισαν τὸν χριστὸν αὐτὸν εἶναι.¶"
+pericope: "[[Luke.4.38 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1140]]"
+- "[[G0575]]"
+- "[[G4183]]"
+- "[[G2905]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2008]]"
+- "[[G3756]]"
+- "[[G1439]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G3754H]]"
+- "[[G1492I]]"
+- "[[G1511]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Luke 4:41**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking [them] suffered them not to speak: for they knew that he was Christ.
 <small><sub>**BSB:**</sub></small>
 Demons also came out of many people, shouting, “You are the Son of God!” But He rebuked the demons and would not allow them to speak, because they knew He was the Christ.
-<small><sub>**Literal:**</sub></small>
-Were going out now also demons from many shouting out and saying that You yourself are <the> Christ the Son <the> of God. And rebuking [them] not was He allowing them to speak because they knew the Christ Him to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.40|<< Luke 4:40]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.42|Luke 4:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξήρχετο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1140\|δαιμόνια]]  [[G0575\|ἀπὸ]]  [[G4183\|πολλῶν]]  [[G2905\|κραυγάζοντα]]  [[G2532\|καὶ]]  [[G3004G\|λέγοντα]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]  [[G2532\|καὶ]]  [[G2008\|ἐπιτιμῶν]]  [[G3756\|οὐκ]]  [[G1439\|εἴα]]  [[G0846\|αὐτὰ]]  [[G2980\|λαλεῖν]]  [[G3754H\|ὅτι]]  [[G1492I\|ᾔδεισαν]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G0846\|αὐτὸν]]  [[G1511\|εἶναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.40|<< Luke 4:40]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.42|Luke 4:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Romans 7:2
+type: Verse
+kjv: "For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband."
+bsb: "For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage."
+greek: "ἡ γὰρ ὕπανδρος γυνὴ τῷ ζῶντι ἀνδρὶ δέδεται νόμῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, κατήργηται ἀπὸ τοῦ νόμου τοῦ ἀνδρός."
+pericope: "[[Rom.7.1 Release from the Law|Release from the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G5220]]"
+- "[[G1135G]]"
+- "[[G2198]]"
+- "[[G0435H]]"
+- "[[G1210]]"
+- "[[G3551]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G0599]]"
+- "[[G2673]]"
+- "[[G0575]]"
+texts:
+- NKO
+---
+
 **Romans 7:2**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the woman which hath an husband is bound by the law to [her] husband so long as he liveth; but if the husband be dead, she is loosed from the law of [her] husband.
 <small><sub>**BSB:**</sub></small>
 For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage.
-<small><sub>**Literal:**</sub></small>
-The for married woman to the living husband has been bound by law; if however shall die the husband, she has been cleared from the law of the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.1|<< Romans 7:1]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.3|Romans 7:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G5220\|ὕπανδρος]]  [[G1135G\|γυνὴ]]  [[G3588\|τῷ]]  [[G2198\|ζῶντι]]  [[G0435H\|ἀνδρὶ]]  [[G1210\|δέδεται]]  [[G3551\|νόμῳ·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G0599\|ἀποθάνῃ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνήρ,]]  [[G2673\|κατήργηται]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3588\|τοῦ]]  [[G0435H\|ἀνδρός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.1|<< Romans 7:1]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.3|Romans 7:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

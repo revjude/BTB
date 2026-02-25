@@ -1,8 +1,61 @@
+---
+title: Numbers 10:11
+type: Verse
+kjv: "And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony."
+bsb: "On the twentieth day of the second month of the second year, the cloud was lifted from above the tabernacle of the Testimony,"
+hebrew: "וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶשְׂרִ֣ים בַּחֹ֑דֶשׁ נַעֲלָה֙ הֶֽעָנָ֔ן מֵעַ֖ל מִשְׁכַּ֥ן הָעֵדֻֽת׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H2320G]]"
+- "[[H6242]]"
+- "[[H5927H]]"
+- "[[H6051]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4908]]"
+- "[[H5715]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:11**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the twentieth [day] of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
 <small><sub>**BSB:**</sub></small>
 On the twentieth day of the second month of the second year, the cloud was lifted from above the tabernacle of the Testimony,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֧ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֛ית]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֣ים]] [[H9003\|בַּ]][[H2320G\|חֹ֑דֶשׁ]] [[H5927H\|נַעֲלָה֙]] [[H9009\|הֶֽ]][[H6051\|עָנָ֔ן]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H4908\|מִשְׁכַּ֥ן]] [[H9009\|הָ]][[H5715\|עֵדֻֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.10|<< Numbers 10:10]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.12|Numbers 10:12 >>]]</td></tr></table>
 

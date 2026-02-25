@@ -1,10 +1,48 @@
+---
+title: 2 Corinthians 11:19
+type: Verse
+kjv: "For ye suffer fools gladly, seeing ye yourselves are wise."
+bsb: "For you gladly put up with fools, since you are so wise."
+greek: "ἡδέως γὰρ ἀνέχεσθε τῶν ἀφρόνων, φρόνιμοι ὄντες·"
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2234]]"
+- "[[G1063]]"
+- "[[G0430]]"
+- "[[G3588]]"
+- "[[G0878]]"
+- "[[G5429]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:19**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye suffer fools gladly, seeing ye [yourselves] are wise.
 <small><sub>**BSB:**</sub></small>
 For you gladly put up with fools, since you are so wise.
-<small><sub>**Literal:**</sub></small>
-Gladly for you bear with <the> fools, wise being!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.18|<< 2 Corinthians 11:18]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.20|2 Corinthians 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2234\|ἡδέως]]  [[G1063\|γὰρ]]  [[G0430\|ἀνέχεσθε]]  [[G3588\|τῶν]]  [[G0878\|ἀφρόνων,]]  [[G5429\|φρόνιμοι]]  [[G1510\|ὄντες·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.18|<< 2 Corinthians 11:18]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.20|2 Corinthians 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

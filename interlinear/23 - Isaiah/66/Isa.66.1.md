@@ -1,8 +1,70 @@
+---
+title: Isaiah 66:1
+type: Verse
+kjv: "Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?"
+bsb: "This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַשָּׁמַ֣יִם כִּסְאִ֔י וְהָאָ֖רֶץ הֲדֹ֣ם רַגְלָ֑י אֵי־ זֶ֥ה בַ֙יִת֙ אֲשֶׁ֣ר תִּבְנוּ־ לִ֔י וְאֵי־ זֶ֥ה מָק֖וֹם מְנוּחָתִֽי׃"
+pericope: "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic FOOTSTOOL|FOOTSTOOL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H1916]]"
+- "[[H7272]]"
+- "[[H0335]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H1004Q]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4725]]"
+- "[[H4496H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:1**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool: where [is] the house that ye build unto me? and where [is] the place of my rest?
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H3678G\|כִּסְאִ֔]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H1916\|הֲדֹ֣ם]] [[H7272\|רַגְלָ֑]][[H9020\|י]] [[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1004Q\|בַ֙יִת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|תִּבְנוּ]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וְ]][[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H4725\|מָק֖וֹם]] [[H4496H\|מְנוּחָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic FOOTSTOOL|FOOTSTOOL]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STOOL|STOOL]] • [[topic THRONE|THRONE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

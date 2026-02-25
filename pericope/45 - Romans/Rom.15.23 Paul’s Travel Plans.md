@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Travel Plans
+type: Pericope
 pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Romans
 chapter: 15
 book/chapter: "[[Rom.15|Romans 15]]"
-genre:
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 11
 verses:
 - "[[Rom.15.23]]"
 - "[[Rom.15.24]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rom.15.33]]"
 ---
 
-[[Rom.15|Romans 15:23 - Romans 15:33]]
+<small>[[Rom.15|Romans 15:23-33]]</small>
 *Paul’s Travel Plans*
 
 [[Rom.15.23|23]] But now having no more place in these parts, and having a great desire these many years to come unto you;

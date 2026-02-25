@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leper’s Prayer
+type: Pericope
 pericope: "[[Matt.8.1 The Leper’s Prayer|The Leper’s Prayer]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.8.1]]"
 - "[[Matt.8.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.8.4]]"
 ---
 
-[[Matt.8|Matthew 8:1 - Matthew 8:4]]
+<small>[[Matt.8|Matthew 8:1-4]]</small>
 *The Leper’s Prayer*
 
 [[Matt.8.1|1]] When he was come down from the mountain, great multitudes followed him.

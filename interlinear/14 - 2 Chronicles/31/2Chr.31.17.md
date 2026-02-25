@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 31:17
+type: Verse
+kjv: "Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;"
+bsb: "and to the priests enrolled according to their families in the genealogy, as well as to the Levites twenty years of age or older, according to their responsibilities and divisions."
+hebrew: "וְאֵ֨ת הִתְיַחֵ֤שׂ הַכֹּהֲנִים֙ לְבֵ֣ית אֲבוֹתֵיהֶ֔ם וְהַ֨לְוִיִּ֔ם מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וּלְמָ֑עְלָה בְּמִשְׁמְרוֹתֵיהֶ֖ם בְּמַחְלְקוֹתֵיהֶֽם׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PENSION|PENSION]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3188]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9003]]"
+- "[[H4931]]"
+- "[[H4256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:17**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;
 <small><sub>**BSB:**</sub></small>
 and to the priests enrolled according to their families in the genealogy, as well as to the Levites twenty years of age or older, according to their responsibilities and divisions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3188\|הִתְיַחֵ֤שׂ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִים֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H9009\|הַ֨]][[H3881\|לְוִיִּ֔ם]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9003\|בְּ]][[H4931\|מִשְׁמְרוֹתֵי]][[H9028\|הֶ֖ם]] [[H9003\|בְּ]][[H4256\|מַחְלְקוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LEVITES|LEVITES]] • [[topic PENSION|PENSION]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.16|<< 2 Chronicles 31:16]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.18|2 Chronicles 31:18 >>]]</td></tr></table>
 

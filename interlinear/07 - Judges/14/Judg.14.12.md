@@ -1,8 +1,71 @@
+---
+title: Judges 14:12
+type: Verse
+kjv: "And Samson said unto them, I will now put forth a riddle unto you: if ye can certainly declare it me within the seven days of the feast, and find it out, then I will give you thirty sheets and thirty change of garments:"
+bsb: "“Let me tell you a riddle,” Samson said to them. “If you can solve it for me within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes."
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ שִׁמְשׁ֔וֹן אָחֽוּדָה־ נָּ֥א לָכֶ֖ם חִידָ֑ה אִם־ הַגֵּ֣ד תַּגִּידוּ֩ אוֹתָ֨הּ לִ֜י שִׁבְעַ֨ת יְמֵ֤י הַמִּשְׁתֶּה֙ וּמְצָאתֶ֔ם וְנָתַתִּ֤י לָכֶם֙ שְׁלֹשִׁ֣ים סְדִינִ֔ים וּשְׁלֹשִׁ֖ים חֲלִפֹ֥ת בְּגָדִֽים׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETTING|BETTING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8123]]"
+- "[[H2330]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9036]]"
+- "[[H2420]]"
+- "[[H0518A]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9030]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H4960]]"
+- "[[H4672]]"
+- "[[H5414G]]"
+- "[[H7970]]"
+- "[[H5466]]"
+- "[[H9002]]"
+- "[[H2487]]"
+- "[[H0899B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:12**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson said unto them, I will now put forth a riddle unto you: if ye can certainly declare it me within the seven days of the feast, and find [it] out, then I will give you thirty sheets and thirty change of garments:
 <small><sub>**BSB:**</sub></small>
 “Let me tell you a riddle,” Samson said to them. “If you can solve it for me within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H8123\|שִׁמְשׁ֔וֹן]] [[H2330\|אָחֽוּדָה]][[H9014\|־]] [[H4994\|נָּ֥א]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H2420\|חִידָ֑ה]] [[H0518A\|אִם]][[H9014\|־]] [[H5046\|הַגֵּ֣ד]] [[H5046\|תַּגִּידוּ֩]] [[H0853\|אוֹתָ֨]][[H9034\|הּ]] [[H9005\|לִ֜]][[H9030\|י]] [[H7651\|שִׁבְעַ֨ת]] [[H3117G\|יְמֵ֤י]] [[H9009\|הַ]][[H4960\|מִּשְׁתֶּה֙]] [[H9001\|וּ]][[H4672\|מְצָאתֶ֔ם]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H5466\|סְדִינִ֔ים]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֖ים]] [[H2487\|חֲלִפֹ֥ת]] [[H0899B\|בְּגָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETTING|BETTING]] • [[topic FEASTS|FEASTS]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RIDDLE|RIDDLE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.11|<< Judges 14:11]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.13|Judges 14:13 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Command to Leave Horeb
+type: Pericope
 pericope: "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.1.1]]"
 - "[[Deut.1.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.1.8]]"
 ---
 
-[[Deut.1|Deuteronomy 1:1 - Deuteronomy 1:8]]
+<small>[[Deut.1|Deuteronomy 1:1-8]]</small>
 *The Command to Leave Horeb*
 
 [[Deut.1.1|1]] These \[be\] the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red \[sea\], between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.

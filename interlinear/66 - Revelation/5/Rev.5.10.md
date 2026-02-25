@@ -1,10 +1,62 @@
+---
+title: Revelation 5:10
+type: Verse
+kjv: "And hast made us unto our God kings and priests: and we shall reign on the earth."
+bsb: "You have made them to be a kingdom and priests to serve our God, and they will reign upon the earth.”"
+greek: "καὶ ἐποίησας αὐτοὺς τῷ θεῷ ἡμῶν βασιλείαν καὶ ἱερεῖς, καὶ βασιλεύσουσιν ἐπὶ τῆς γῆς.¶"
+pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G0932]]"
+- "[[G2409]]"
+- "[[G0936]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(K)O
+- N(K)(o)
+---
+
 **Revelation 5:10**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hast made us unto our God kings and priests: and we shall reign on the earth.
 <small><sub>**BSB:**</sub></small>
 You have made them to be a kingdom and priests to serve our God, and they will reign upon the earth.”
-<small><sub>**Literal:**</sub></small>
-and You have made them to the God of us a kingdom and priests, and they will reign upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.9|<< Revelation 5:9]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.11|Revelation 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ἐποίησας]]  [[G0846\|αὐτοὺς]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3165\|ἡμῶν]]  [[G0932\|βασιλείαν]]  [[G2532\|καὶ]]  [[G2409\|ἱερεῖς,]]  [[G2532\|καὶ]]  [[G0936\|βασιλεύσουσιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic ASSURANCE|ASSURANCE]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic PRIEST|PRIEST]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SONG|SONG]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.9|<< Revelation 5:9]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.11|Revelation 5:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 5:10** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.19.6|Exod 19:6]]

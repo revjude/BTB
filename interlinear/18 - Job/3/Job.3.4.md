@@ -1,8 +1,60 @@
+---
+title: Job 3:4
+type: Verse
+kjv: "Let that day be darkness; let not God regard it from above, neither let the light shine upon it."
+bsb: "If only that day had turned to darkness! May God above disregard it; may no light shine upon it."
+hebrew: "הַיּ֥וֹם הַה֗וּא יְֽהִ֫י חֹ֥שֶׁךְ אַֽל־ יִדְרְשֵׁ֣הוּ אֱל֣וֹהַּ מִמָּ֑עַל וְאַל־ תּוֹפַ֖ע עָלָ֣יו נְהָרָֽה׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H2822]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1875]]"
+- "[[H9033]]"
+- "[[H0433]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9002]]"
+- "[[H3313]]"
+- "[[H5921A]]"
+- "[[H5105]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:4**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let that day be darkness; let not God regard it from above, neither let the light shine upon it.
 <small><sub>**BSB:**</sub></small>
 If only that day had turned to darkness! May God above disregard it; may no light shine upon it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H1961\|יְֽהִ֫י]] [[H2822\|חֹ֥שֶׁךְ]] [[H0408\|אַֽל]][[H9014\|־]] [[H1875\|יִדְרְשֵׁ֣]][[H9033\|הוּ]] [[H0433\|אֱל֣וֹהַּ]] [[H9006\|מִ]][[H4605\|מָּ֑עַל]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3313\|תּוֹפַ֖ע]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H5105\|נְהָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.3|<< Job 3:3]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.5|Job 3:5 >>]]</td></tr></table>
 

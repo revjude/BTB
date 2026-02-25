@@ -1,8 +1,58 @@
+---
+title: Ezra 8:12
+type: Verse
+kjv: "And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males."
+bsb: "from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;"
+hebrew: "וּמִבְּנֵ֣י עַזְגָּ֔ד יוֹחָנָ֖ן בֶּן־ הַקָּטָ֑ן וְעִמּ֕וֹ מֵאָ֥ה וַעֲשָׂרָ֖ה הַזְּכָרִֽים׃ ס"
+pericope: "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AZGAD|AZGAD]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HAKKATAN|HAKKATAN]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H5803G]]"
+- "[[H3110K]]"
+- "[[H9014]]"
+- "[[H6997]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3967]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 8:12**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males.
 <small><sub>**BSB:**</sub></small>
 from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H5803G\|עַזְגָּ֔ד]] [[H3110K\|יוֹחָנָ֖ן]] [[H1121G\|בֶּן]][[H9014\|־]] [[H6997\|הַקָּטָ֑ן]] [[H9002\|וְ]][[H5973A\|עִמּ֕]][[H9033\|וֹ]] [[H3967\|מֵאָ֥ה]] [[H9002\|וַ]][[H6235\|עֲשָׂרָ֖ה]] [[H9009\|הַ]][[H2145\|זְּכָרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZGAD|AZGAD]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HAKKATAN|HAKKATAN]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.11|<< Ezra 8:11]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.13|Ezra 8:13 >>]]</td></tr></table>
 
@@ -16,7 +66,7 @@ from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;
 | and with him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמּ֕]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] one hundred  |**<big>&#8207;[[H3967\|מֵאָ֥ה]]&#8207; </big>**| me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and ten  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6235\|עֲשָׂרָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.11|<< Ezra 8:11]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.13|Ezra 8:13 >>]]</td></tr></table>
 
 

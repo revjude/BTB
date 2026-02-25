@@ -1,8 +1,58 @@
+---
+title: Jeremiah 50:23
+type: Verse
+kjv: "How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!"
+bsb: "How the hammer of the whole earth lies broken and shattered! What a horror Babylon has become among the nations!"
+hebrew: "אֵ֤יךְ נִגְדַּע֙ וַיִּשָּׁבֵ֔ר פַּטִּ֖ישׁ כָּל־ הָאָ֑רֶץ אֵ֣יךְ הָיְתָ֧ה לְשַׁמָּ֛ה בָּבֶ֖ל בַּגּוֹיִֽם׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HAMMER|HAMMER]]"
+strongs:
+- "[[H0349A]]"
+- "[[H1438]]"
+- "[[H9001]]"
+- "[[H7665]]"
+- "[[H6360]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H0894]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:23**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!
 <small><sub>**BSB:**</sub></small>
 How the hammer of the whole earth lies broken and shattered! What a horror Babylon has become among the nations!
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֤יךְ]] [[H1438\|נִגְדַּע֙]] [[H9001\|וַ]][[H7665\|יִּשָּׁבֵ֔ר]] [[H6360\|פַּטִּ֖ישׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0349A\|אֵ֣יךְ]] [[H1961\|הָיְתָ֧ה]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֛ה]] [[H0894\|בָּבֶ֖ל]] [[H9003\|בַּ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMMER|HAMMER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.22|<< Jeremiah 50:22]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.24|Jeremiah 50:24 >>]]</td></tr></table>
 

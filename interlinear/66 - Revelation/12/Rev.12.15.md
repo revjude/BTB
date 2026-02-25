@@ -1,10 +1,58 @@
+---
+title: Revelation 12:15
+type: Verse
+kjv: "And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood."
+bsb: "Then from his mouth the serpent spewed water like a river to overtake the woman and sweep her away in the torrent."
+greek: "καὶ ἔβαλεν ὁ ὄφις ἐκ τοῦ στόματος αὐτοῦ ὀπίσω τῆς γυναικὸς ὕδωρ ὡς ποταμόν, ἵνα αὐτὴν ποταμοφόρητον ποιήσῃ."
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906J]]"
+- "[[G3588]]"
+- "[[G3789]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G3694]]"
+- "[[G1135G]]"
+- "[[G5204]]"
+- "[[G5613]]"
+- "[[G4215]]"
+- "[[G2443]]"
+- "[[G4216]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 12:15**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
 <small><sub>**BSB:**</sub></small>
 Then from his mouth the serpent spewed water like a river to overtake the woman and sweep her away in the torrent.
-<small><sub>**Literal:**</sub></small>
-And cast the serpent out of the mouth of him after the woman water as a river, so that her carried away by a flood he may cause to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.14|<< Revelation 12:14]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.16|Revelation 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906J\|ἔβαλεν]]  [[G3588\|ὁ]]  [[G3789\|ὄφις]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ]]  [[G3694\|ὀπίσω]]  [[G3588\|τῆς]]  [[G1135G\|γυναικὸς]]  [[G5204\|ὕδωρ]]  [[G5613\|ὡς]]  [[G4215\|ποταμόν,]]  [[G2443\|ἵνα]]  [[G0846\|αὐτὴν]]  [[G4216\|ποταμοφόρητον]]  [[G4160G\|ποιήσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.14|<< Revelation 12:14]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.16|Revelation 12:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

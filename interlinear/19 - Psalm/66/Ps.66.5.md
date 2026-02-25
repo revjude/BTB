@@ -1,8 +1,51 @@
+---
+title: Psalm 66:5
+type: Verse
+kjv: "Come and see the works of God: he is terrible in his doing toward the children of men."
+bsb: "Come and see the works of God; how awesome are His deeds toward mankind."
+hebrew: "לְכ֣וּ וּ֭רְאוּ מִפְעֲל֣וֹת אֱלֹהִ֑ים נוֹרָ֥א עֲ֝לִילָ֗ה עַל־ בְּנֵ֥י אָדָֽם׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H1980K]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H4659B]]"
+- "[[H0430G]]"
+- "[[H3372H]]"
+- "[[H5949]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:5**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come and see the works of God: [he is] terrible [in his] doing toward the children of men.
 <small><sub>**BSB:**</sub></small>
 Come and see the works of God; how awesome are His deeds toward mankind.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכ֣וּ]] [[H9002\|וּ֭]][[H7200G\|רְאוּ]] [[H4659B\|מִפְעֲל֣וֹת]] [[H0430G\|אֱלֹהִ֑ים]] [[H3372H\|נוֹרָ֥א]] [[H5949\|עֲ֝לִילָ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.4|<< Psalms 66:4]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.6|Psalms 66:6 >>]]</td></tr></table>
 

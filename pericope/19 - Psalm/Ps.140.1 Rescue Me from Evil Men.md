@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rescue Me from Evil Men
+type: Pericope
 pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 140
 book/chapter: "[[Ps.140|Psalm 140]]"
-genre:
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.140.0]]"
 - "[[Ps.140.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.140.13]]"
 ---
 
-[[Ps.140|Psalm 140:1 - Psalm 140:13]]
+<small>[[Ps.140|Psalm 140:1-13]]</small>
 *Rescue Me from Evil Men*
 
 [[Ps.140.0|0]] To the chief Musician, A Psalm of David.

@@ -1,8 +1,51 @@
+---
+title: Proverbs 8:14
+type: Verse
+kjv: "Counsel is mine, and sound wisdom: I am understanding; I have strength."
+bsb: "Counsel and sound judgment are mine; I have insight and strength."
+hebrew: "לִֽי־ עֵ֭צָה וְתוּשִׁיָּ֑ה אֲנִ֥י בִ֝ינָ֗ה לִ֣י גְבוּרָֽה׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H6098]]"
+- "[[H9002]]"
+- "[[H8454]]"
+- "[[H0589]]"
+- "[[H0998]]"
+- "[[H1369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:14**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Counsel [is] mine, and sound wisdom: I [am] understanding; I have strength.
 <small><sub>**BSB:**</sub></small>
 Counsel and sound judgment are mine; I have insight and strength.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִֽ]][[H9030\|י]][[H9014\|־]] [[H6098\|עֵ֭צָה]] [[H9002\|וְ]][[H8454\|תוּשִׁיָּ֑ה]] [[H0589\|אֲנִ֥י]] [[H0998\|בִ֝ינָ֗ה]] [[H9005\|לִ֣]][[H9030\|י]] [[H1369\|גְבוּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.13|<< Proverbs 8:13]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.15|Proverbs 8:15 >>]]</td></tr></table>
 

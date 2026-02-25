@@ -1,8 +1,59 @@
+---
+title: Isaiah 1:8
+type: Verse
+kjv: "And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city."
+bsb: "And the Daughter of Zion is abandoned like a shelter in a vineyard, like a shack in a cucumber field, like a city besieged."
+hebrew: "וְנוֹתְרָ֥ה בַת־ צִיּ֖וֹן כְּסֻכָּ֣ה בְכָ֑רֶם כִּמְלוּנָ֥ה בְמִקְשָׁ֖ה כְּעִ֥יר נְצוּרָֽה׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BOOTH|BOOTH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUCUMBER|CUCUMBER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic VINEYARD|VINEYARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H9004]]"
+- "[[H5521]]"
+- "[[H9003]]"
+- "[[H3754]]"
+- "[[H4412]]"
+- "[[H4750]]"
+- "[[H5892B]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:8**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city.
 <small><sub>**BSB:**</sub></small>
 And the Daughter of Zion is abandoned like a shelter in a vineyard, like a shack in a cucumber field, like a city besieged.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3498\|נוֹתְרָ֥ה]] [[H1323G\|בַת]][[H9014\|־]] [[H6726\|צִיּ֖וֹן]] [[H9004\|כְּ]][[H5521\|סֻכָּ֣ה]] [[H9003\|בְ]][[H3754\|כָ֑רֶם]] [[H9004\|כִּ]][[H4412\|מְלוּנָ֥ה]] [[H9003\|בְ]][[H4750\|מִקְשָׁ֖ה]] [[H9004\|כְּ]][[H5892B\|עִ֥יר]] [[H5341\|נְצוּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOTH|BOOTH]] • [[topic CHURCH|CHURCH]] • [[topic CUCUMBER|CUCUMBER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic VINEYARD|VINEYARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.7|<< Isaiah 1:7]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.9|Isaiah 1:9 >>]]</td></tr></table>
 

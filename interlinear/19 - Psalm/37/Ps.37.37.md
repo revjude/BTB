@@ -1,8 +1,58 @@
+---
+title: Psalm 37:37
+type: Verse
+kjv: "Mark the perfect man, and behold the upright: for the end of that man is peace."
+bsb: "Consider the blameless and observe the upright, for posterity awaits the man of peace."
+hebrew: "שְׁמָר־ תָּ֭ם וּרְאֵ֣ה יָשָׁ֑ר כִּֽי־ אַחֲרִ֖ית לְאִ֣ישׁ שָׁלֽוֹם׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8104I]]"
+- "[[H9014]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H3477G]]"
+- "[[H3588A]]"
+- "[[H0319]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:37**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mark the perfect [man], and behold the upright: for the end of [that] man [is] peace.
 <small><sub>**BSB:**</sub></small>
 Consider the blameless and observe the upright, for posterity awaits the man of peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104I\|שְׁמָר]][[H9014\|־]] [[H8535\|תָּ֭ם]] [[H9002\|וּ]][[H7200G\|רְאֵ֣ה]] [[H3477G\|יָשָׁ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0319\|אַחֲרִ֖ית]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic PEACE|PEACE]] • [[topic PERFECTION|PERFECTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.36|<< Psalms 37:36]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.38|Psalms 37:38 >>]]</td></tr></table>
 

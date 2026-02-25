@@ -1,10 +1,73 @@
+---
+title: Acts 2:14
+type: Verse
+kjv: "But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:"
+bsb: "Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words."
+greek: "Σταθεὶς δὲ ὁ Πέτρος σὺν τοῖς ἕνδεκα ἐπῆρεν τὴν φωνὴν αὐτοῦ καὶ ἀπεφθέγξατο αὐτοῖς· ἄνδρες Ἰουδαῖοι καὶ οἱ κατοικοῦντες Ἰερουσαλὴμ πάντες, τοῦτο ὑμῖν γνωστὸν ἔστω καὶ ἐνωτίσασθε τὰ ῥήματά μου."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G4862]]"
+- "[[G1733]]"
+- "[[G1869]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0669]]"
+- "[[G0435G]]"
+- "[[G2453]]"
+- "[[G2730]]"
+- "[[G2419]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G1110]]"
+- "[[G1510]]"
+- "[[G1801]]"
+- "[[G4487]]"
+- "[[G3165]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 2:14**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all [ye] that dwell at Jerusalem, be this known unto you, and hearken to my words:
 <small><sub>**BSB:**</sub></small>
 Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words.
-<small><sub>**Literal:**</sub></small>
-Having stood up however <the> Peter with the eleven he lifted up the voice of him and spoke forth to them: Men of Judea and you who [are] inhabiting Jerusalem all, this to you known should be and do give heed to the declarations of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.13|<< Acts 2:13]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.15|Acts 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|Σταθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G1733\|ἕνδεκα]]  [[G1869\|ἐπῆρεν]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0669\|ἀπεφθέγξατο]]  [[G0846\|αὐτοῖς·]]  [[G0435G\|ἄνδρες]]  [[G2453\|Ἰουδαῖοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2730\|κατοικοῦντες]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3956\|πάντες,]]  [[G3778\|τοῦτο]]  [[G4771\|ὑμῖν]]  [[G1110\|γνωστὸν]]  [[G1510\|ἔστω]]  [[G2532\|καὶ]]  [[G1801\|ἐνωτίσασθε]]  [[G3588\|τὰ]]  [[G4487\|ῥήματά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TONGUE|TONGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.13|<< Acts 2:13]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.15|Acts 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

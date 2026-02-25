@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws against Eating Blood
+type: Pericope
 pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 17
 book/chapter: "[[Lev.17|Leviticus 17]]"
-genre:
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.17.10]]"
 - "[[Lev.17.11]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.17.16]]"
 ---
 
-[[Lev.17|Leviticus 17:10 - Leviticus 17:16]]
+<small>[[Lev.17|Leviticus 17:10-16]]</small>
 *Laws against Eating Blood*
 
 [[Lev.17.10|10]] And whatsoever man \[there be\] of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.

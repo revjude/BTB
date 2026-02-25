@@ -1,10 +1,58 @@
+---
+title: Matthew 15:25
+type: Verse
+kjv: "Then came she and worshipped him, saying, Lord, help me."
+bsb: "The woman came and knelt before Him. “Lord, help me!” she said."
+greek: "Ἡ δὲ ἐλθοῦσα προσεκύνει αὐτῷ λέγουσα· κύριε, βοήθει μοι.¶"
+pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G4352]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G0997]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 15:25**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came she and worshipped him, saying, Lord, help me.
 <small><sub>**BSB:**</sub></small>
 The woman came and knelt before Him. “Lord, help me!” she said.
-<small><sub>**Literal:**</sub></small>
-<the> And having come she was worshiping Him saying; Lord, do help me!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.24|<< Matthew 15:24]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.26|Matthew 15:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G1161\|δὲ]]  [[G2064\|ἐλθοῦσα]]  [[G4352\|προσεκύνει]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγουσα·]]  [[G2962G\|κύριε,]]  [[G0997\|βοήθει]]  [[G3165\|μοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.24|<< Matthew 15:24]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.26|Matthew 15:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

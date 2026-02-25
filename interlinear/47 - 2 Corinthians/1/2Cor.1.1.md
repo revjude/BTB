@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 1:1
+type: Verse
+kjv: "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:"
+bsb: "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:"
+greek: "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ σὺν τοῖς ἁγίοις πᾶσιν τοῖς οὖσιν ἐν ὅλῃ τῇ Ἀχαΐᾳ·"
+pericope: "[[2Cor.1.1 Paul Greets the Corinthians|Paul Greets the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3972G]]"
+- "[[G0652]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G5095]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1577]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2882]]"
+- "[[G4862]]"
+- "[[G0040H]]"
+- "[[G3956]]"
+- "[[G3650]]"
+- "[[G0882]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 1:1**<big><big>[[2Cor.1.1 Paul Greets the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, and Timothy [our] brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:
-<small><sub>**Literal:**</sub></small>
-Paul apostle of Christ Jesus through [the] will of God and Timothy the brother To the church <the> of God which is being in Corinth with the saints all who are being in all <the> Achaia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.24|<< 1 Corinthians 16:24]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.2|2 Corinthians 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G0652\|ἀπόστολος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G5095\|Τιμόθεος]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῇ]]  [[G1510\|οὔσῃ]]  [[G1722\|ἐν]]  [[G2882\|Κορίνθῳ]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1510\|οὖσιν]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G0882\|Ἀχαΐᾳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic CALL|CALL]] • [[topic CORINTH|CORINTH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.24|<< 1 Corinthians 16:24]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.2|2 Corinthians 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

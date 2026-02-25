@@ -1,8 +1,63 @@
+---
+title: Ezra 5:16
+type: Verse
+kjv: "Then came the same Sheshbazzar, and laid the foundation of the house of God which is in Jerusalem: and since that time even until now hath it been in building, and yet it is not finished."
+bsb: "So this Sheshbazzar came and laid the foundation of the house of God in Jerusalem, and from that time until now it has been under construction, but it has not yet been completed.”"
+aramaic: "אֱדַ֙יִן֙ שֵׁשְׁבַּצַּ֣ר דֵּ֔ךְ אֲתָ֗א יְהַ֧ב אֻשַּׁיָּ֛א דִּי־ בֵ֥ית אֱלָהָ֖א דִּ֣י בִירוּשְׁלֶ֑ם וּמִן־ אֱדַ֧יִן וְעַד־ כְּעַ֛ן מִתְבְּנֵ֖א וְלָ֥א שְׁלִֽם׃"
+pericope: "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic SHESHBAZZAR|SHESHBAZZAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H0116]]"
+- "[[H8340]]"
+- "[[H1791]]"
+- "[[H0858]]"
+- "[[H3052]]"
+- "[[H0787]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H9003]]"
+- "[[H3390]]"
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H5705]]"
+- "[[H3705]]"
+- "[[H1124]]"
+- "[[H3809]]"
+- "[[H8000]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 5:16**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the same Sheshbazzar, [and] laid the foundation of the house of God which [is] in Jerusalem: and since that time even until now hath it been in building, and [yet] it is not finished.
 <small><sub>**BSB:**</sub></small>
 So this Sheshbazzar came and laid the foundation of the house of God in Jerusalem, and from that time until now it has been under construction, but it has not yet been completed.”
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֙יִן֙]] [[H8340\|שֵׁשְׁבַּצַּ֣ר]] [[H1791\|דֵּ֔ךְ]] [[H0858\|אֲתָ֗א]] [[H3052\|יְהַ֧ב]] [[H0787\|אֻשַּׁיָּ֛]][[H9010\|א]] [[H1768\|דִּי]][[H9014\|־]] [[H1005\|בֵ֥ית]] [[H0426\|אֱלָהָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H9003\|בִ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9002\|וּ]][[H4481\|מִן]][[H9014\|־]] [[H0116\|אֱדַ֧יִן]] [[H9002\|וְ]][[H5705\|עַד]][[H9014\|־]] [[H3705\|כְּעַ֛ן]] [[H1124\|מִתְבְּנֵ֖א]] [[H9002\|וְ]][[H3809\|לָ֥א]] [[H8000\|שְׁלִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHESHBAZZAR|SHESHBAZZAR]] • [[topic TEMPLE|TEMPLE]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 

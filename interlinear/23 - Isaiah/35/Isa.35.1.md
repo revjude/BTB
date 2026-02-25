@@ -1,8 +1,58 @@
+---
+title: Isaiah 35:1
+type: Verse
+kjv: "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose."
+bsb: "The wilderness and the dry land will be glad; the desert will rejoice and blossom like a rose."
+hebrew: "יְשֻׂשׂ֥וּם מִדְבָּ֖ר וְצִיָּ֑ה וְתָגֵ֧ל עֲרָבָ֛ה וְתִפְרַ֖ח כַּחֲבַצָּֽלֶת׃"
+pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 35
+book/chapter: "[[Isa.35|Isaiah 35]]"
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESERT|DESERT]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ROSE|ROSE]]"
+strongs:
+- "[[H7797]]"
+- "[[H9013]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H6723]]"
+- "[[H1523]]"
+- "[[H6160L]]"
+- "[[H6524A]]"
+- "[[H9004]]"
+- "[[H2261]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 35:1**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
 <small><sub>**BSB:**</sub></small>
 The wilderness and the dry land will be glad; the desert will rejoice and blossom like a rose.
+<small><sub>**Hebrew:**</sub></small>
+[[H7797\|יְשֻׂשׂ֥וּ]][[H9013\|ם]] [[H4057B\|מִדְבָּ֖ר]] [[H9002\|וְ]][[H6723\|צִיָּ֑ה]] [[H9002\|וְ]][[H1523\|תָגֵ֧ל]] [[H6160L\|עֲרָבָ֛ה]] [[H9002\|וְ]][[H6524A\|תִפְרַ֖ח]] [[H9004\|כַּ]][[H2261\|חֲבַצָּֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DESERT|DESERT]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ROSE|ROSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.17|<< Isaiah 34:17]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.2|Isaiah 35:2 >>]]</td></tr></table>
 

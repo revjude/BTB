@@ -1,8 +1,56 @@
+---
+title: Jeremiah 32:27
+type: Verse
+kjv: "Behold, I am the LORD, the God of all flesh: is there any thing too hard for me?"
+bsb: "“Behold, I am the LORD, the God of all flesh. Is anything too difficult for Me?"
+hebrew: "הִנֵּה֙ אֲנִ֣י יְהוָ֔ה אֱלֹהֵ֖י כָּל־ בָּשָׂ֑ר הֲֽמִמֶּ֔נִּי יִפָּלֵ֖א כָּל־ דָּבָֽר׃"
+pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9008]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H6381]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:27**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] the LORD, the God of all flesh: is there any thing too hard for me?
 <small><sub>**BSB:**</sub></small>
 “Behold, I am the LORD, the God of all flesh. Is anything too difficult for Me?
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֙]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0430G\|אֱלֹהֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H9008\|הֲֽ]][[H4480A\|מִמֶּ֔]][[H9030\|נִּי]] [[H6381\|יִפָּלֵ֖א]] [[H3605\|כָּל]][[H9014\|־]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.26|<< Jeremiah 32:26]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.28|Jeremiah 32:28 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 48:46
+type: Verse
+kjv: "Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives."
+bsb: "Woe to you, O Moab! The people of Chemosh have perished; for your sons have been taken into exile and your daughters have gone into captivity."
+hebrew: "אוֹי־ לְךָ֣ מוֹאָ֔ב אָבַ֖ד עַם־ כְּמ֑וֹשׁ כִּֽי־ לֻקְּח֤וּ בָנֶ֙יךָ֙ בַּשֶּׁ֔בִי וּבְנֹתֶ֖יךָ בַּשִּׁבְיָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHEMOSH|CHEMOSH]]"
+strongs:
+- "[[H0188]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4124G]]"
+- "[[H0006]]"
+- "[[H5971A]]"
+- "[[H3645]]"
+- "[[H3588A]]"
+- "[[H3947G]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7628A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H7633]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:46**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
 <small><sub>**BSB:**</sub></small>
 Woe to you, O Moab! The people of Chemosh have perished; for your sons have been taken into exile and your daughters have gone into captivity.
+<small><sub>**Hebrew:**</sub></small>
+[[H0188\|אוֹי]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H4124G\|מוֹאָ֔ב]] [[H0006\|אָבַ֖ד]] [[H5971A\|עַם]][[H9014\|־]] [[H3645\|כְּמ֑וֹשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3947G\|לֻקְּח֤וּ]] [[H1121A\|בָנֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בַּ]][[H7628A\|שֶּׁ֔בִי]] [[H9002\|וּ]][[H1323G\|בְנֹתֶ֖י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H7633\|שִּׁבְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEMOSH|CHEMOSH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.45|<< Jeremiah 48:45]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.47|Jeremiah 48:47 >>]]</td></tr></table>
 

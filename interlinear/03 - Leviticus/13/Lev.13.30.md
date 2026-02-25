@@ -1,8 +1,74 @@
+---
+title: Leviticus 13:30
+type: Verse
+kjv: "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard."
+bsb: "the priest shall examine the infection, and if it appears to be deeper than the skin and the hair in it is yellow and thin, the priest must pronounce him unclean; it is a scaly outbreak, an infectious disease of the head or chin."
+hebrew: "וְרָאָ֨ה הַכֹּהֵ֜ן אֶת־ הַנֶּ֗גַע וְהִנֵּ֤ה מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־ הָע֔וֹר וּב֛וֹ שֵׂעָ֥ר צָהֹ֖ב דָּ֑ק וְטִמֵּ֨א אֹת֤וֹ הַכֹּהֵן֙ נֶ֣תֶק ה֔וּא צָרַ֧עַת הָרֹ֛אשׁ א֥וֹ הַזָּקָ֖ן הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCALL|SCALL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5061]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4758]]"
+- "[[H9023]]"
+- "[[H6013]]"
+- "[[H4480A]]"
+- "[[H5785]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H8181]]"
+- "[[H6669]]"
+- "[[H1851]]"
+- "[[H2930A]]"
+- "[[H5424]]"
+- "[[H1931]]"
+- "[[H6883]]"
+- "[[H7218A]]"
+- "[[H0176A]]"
+- "[[H2206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:30**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall see the plague: and, behold, if it [be] in sight deeper than the skin; [and there be] in it a yellow thin hair; then the priest shall pronounce him unclean: it [is] a dry scall, [even] a leprosy upon the head or beard.
 <small><sub>**BSB:**</sub></small>
 the priest shall examine the infection, and if it appears to be deeper than the skin and the hair in it is yellow and thin, the priest must pronounce him unclean; it is a scaly outbreak, an infectious disease of the head or chin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֨ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נֶּ֗גַע]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H4758\|מַרְאֵ֙]][[H9023\|הוּ֙]] [[H6013\|עָמֹ֣ק]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֔וֹר]] [[H9002\|וּ]][[H9003\|ב֛]][[H9033\|וֹ]] [[H8181\|שֵׂעָ֥ר]] [[H6669\|צָהֹ֖ב]] [[H1851\|דָּ֑ק]] [[H9001\|וְ]][[H2930A\|טִמֵּ֨א]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H5424\|נֶ֣תֶק]] [[H1931\|ה֔וּא]] [[H6883\|צָרַ֧עַת]] [[H9009\|הָ]][[H7218A\|רֹ֛אשׁ]] [[H0176A\|א֥וֹ]] [[H9009\|הַ]][[H2206\|זָּקָ֖ן]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic SANITATION|SANITATION]] • [[topic SCALL|SCALL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.29|<< Leviticus 13:29]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.31|Leviticus 13:31 >>]]</td></tr></table>
 

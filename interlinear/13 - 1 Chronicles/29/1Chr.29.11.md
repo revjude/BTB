@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 29:11
+type: Verse
+kjv: "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all."
+bsb: "Yours, O LORD, is the greatness and the power and the glory and the splendor and the majesty, for everything in heaven and on earth belongs to You. Yours, O LORD, is the kingdom, and You are exalted as head over all."
+hebrew: "לְךָ֣ יְ֠הוָה הַגְּדֻלָּ֨ה וְהַגְּבוּרָ֤ה וְהַתִּפְאֶ֙רֶת֙ וְהַנֵּ֣צַח וְהַה֔וֹד כִּי־ כֹ֖ל בַּשָּׁמַ֣יִם וּבָאָ֑רֶץ לְךָ֤ יְהוָה֙ הַמַּמְלָכָ֔ה וְהַמִּתְנַשֵּׂ֖א לְכֹ֥ל׀ לְרֹֽאשׁ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H1420]]"
+- "[[H9002]]"
+- "[[H1369]]"
+- "[[H8597]]"
+- "[[H5331]]"
+- "[[H1935]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H4467]]"
+- "[[H5375L]]"
+- "[[H9015]]"
+- "[[H7218H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:11**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine, O LORD, [is] the greatness, and the power, and the glory, and the victory, and the majesty: for all [that is] in the heaven and in the earth [is thine]; thine [is] the kingdom, O LORD, and thou art exalted as head above all.
 <small><sub>**BSB:**</sub></small>
 Yours, O LORD, is the greatness and the power and the glory and the splendor and the majesty, for everything in heaven and on earth belongs to You. Yours, O LORD, is the kingdom, and You are exalted as head over all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9031\|ךָ֣]] [[H3068G\|יְ֠הוָה]] [[H9009\|הַ]][[H1420\|גְּדֻלָּ֨ה]] [[H9002\|וְ]][[H9009\|הַ]][[H1369\|גְּבוּרָ֤ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8597\|תִּפְאֶ֙רֶת֙]] [[H9002\|וְ]][[H9009\|הַ]][[H5331\|נֵּ֣צַח]] [[H9002\|וְ]][[H9009\|הַ]][[H1935\|ה֔וֹד]] [[H3588A\|כִּי]][[H9014\|־]] [[H3605\|כֹ֖ל]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣יִם]] [[H9002\|וּ]][[H9003\|בָ]][[H0776G\|אָ֑רֶץ]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H5375L\|מִּתְנַשֵּׂ֖א]] [[H9005\|לְ]][[H3605\|כֹ֥ל]][[H9015\|׀]] [[H9005\|לְ]][[H7218H\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.10|<< 1 Chronicles 29:10]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.12|1 Chronicles 29:12 >>]]</td></tr></table>
 

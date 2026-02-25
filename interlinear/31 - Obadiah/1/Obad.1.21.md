@@ -1,8 +1,52 @@
+---
+title: Obadiah 1:21
+type: Verse
+kjv: "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD’S."
+bsb: "The deliverers will ascend Mount Zion to rule over the mountains of Esau. And the kingdom will belong to the LORD."
+hebrew: "וְעָל֤וּ מֽוֹשִׁעִים֙ בְּהַ֣ר צִיּ֔וֹן לִשְׁפֹּ֖ט אֶת־ הַ֣ר עֵשָׂ֑ו וְהָיְתָ֥ה לַֽיהוָ֖ה הַמְּלוּכָֽה׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3467]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9005]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6215I]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H4410]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:21**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD’S.
 <small><sub>**BSB:**</sub></small>
 The deliverers will ascend Mount Zion to rule over the mountains of Esau. And the kingdom will belong to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָל֤וּ]] [[H3467\|מֽוֹשִׁעִים֙]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H6726\|צִיּ֔וֹן]] [[H9005\|לִ]][[H8199\|שְׁפֹּ֖ט]] [[H0853\|אֶת]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H6215I\|עֵשָׂ֑ו]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H9009\|הַ]][[H4410\|מְּלוּכָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.20|<< Obadiah 1:20]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.1|Jonah 1:1 >>]]</td></tr></table>
 

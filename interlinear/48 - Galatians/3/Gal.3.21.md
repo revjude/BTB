@@ -1,10 +1,61 @@
+---
+title: Galatians 3:21
+type: Verse
+kjv: "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+bsb: "Is the law, then, opposed to the promises of God? Certainly not! For if a law had been given that could impart life, then righteousness would certainly have come from the law."
+greek: "Ὁ οὖν νόμος κατὰ τῶν ἐπαγγελιῶν τοῦ θεοῦ; μὴ γένοιτο. εἰ γὰρ ἐδόθη νόμος ὁ δυνάμενος ζῳοποιῆσαι, ὄντως ἐκ νόμου ἂν ἦν ἡ δικαιοσύνη·"
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G3551]]"
+- "[[G2596]]"
+- "[[G1860]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G1325]]"
+- "[[G1410]]"
+- "[[G2227]]"
+- "[[G3689]]"
+- "[[G1537]]"
+- "[[G0302]]"
+- "[[G1510]]"
+- "[[G1343]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 3:21**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Is] the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
 <small><sub>**BSB:**</sub></small>
 Is the law, then, opposed to the promises of God? Certainly not! For if a law had been given that could impart life, then righteousness would certainly have come from the law.
-<small><sub>**Literal:**</sub></small>
-The therefore Law [is] contrary to the promises <the> of God? Never would it be! If for was given a law which is being able to impart life, indeed from [the] law then would was emerging <the> righteousness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.20|<< Galatians 3:20]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.22|Galatians 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G3551\|νόμος]]  [[G2596\|κατὰ]]  [[G3588\|τῶν]]  [[G1860\|ἐπαγγελιῶν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο.]]  [[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1325\|ἐδόθη]]  [[G3551\|νόμος]]  [[G3588\|ὁ]]  [[G1410\|δυνάμενος]]  [[G2227\|ζῳοποιῆσαι,]]  [[G3689\|ὄντως]]  [[G1537\|ἐκ]]  [[G3551\|νόμου]]  [[G0302\|ἂν]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G1343\|δικαιοσύνη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.20|<< Galatians 3:20]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.22|Galatians 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

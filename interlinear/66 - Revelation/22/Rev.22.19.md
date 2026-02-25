@@ -1,10 +1,69 @@
+---
+title: Revelation 22:19
+type: Verse
+kjv: "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book."
+bsb: "And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book."
+greek: "καὶ ἐάν τις ἀφέλῃ ἀπὸ τῶν λόγων τοῦ βιβλίου τῆς προφητείας ταύτης, ἀφελεῖ ὁ θεὸς τὸ μέρος αὐτοῦ ἀπὸ τοῦ ξύλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας, καὶ τῶν γεγραμμένων ἐν τῷ βιβλίῳ τούτῳ.¶"
+pericope: "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0851]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0975]]"
+- "[[G4394]]"
+- "[[G3778]]"
+- "[[G2316]]"
+- "[[G3313]]"
+- "[[G0846]]"
+- "[[G3586]]"
+- "[[G2222]]"
+- "[[G1537]]"
+- "[[G4172]]"
+- "[[G0040G]]"
+- "[[G1125]]"
+- "[[G1722]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+- k
+---
+
 **Revelation 22:19**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book.
 <small><sub>**BSB:**</sub></small>
 And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
-<small><sub>**Literal:**</sub></small>
-And if anyone shall take away from the words of the book of the prophecy this, will take away <the> God the part of him from the tree <the> of life and out of the city <the> holy, and of those written in <the> book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.18|<< Revelation 22:18]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.20|Revelation 22:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0851\|ἀφέλῃ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G3588\|τοῦ]]  [[G0975\|βιβλίου]]  [[G3588\|τῆς]]  [[G4394\|προφητείας]]  [[G3778\|ταύτης,]]  [[G0851\|ἀφελεῖ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸ]]  [[G3313\|μέρος]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3586\|ξύλου]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G3588\|τῆς]]  [[G0040G\|ἁγίας,]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1125\|γεγραμμένων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0975\|βιβλίῳ]]  [[G3778\|τούτῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic CHURCH|CHURCH]] • [[topic PLAGUE|PLAGUE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.18|<< Revelation 22:18]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.20|Revelation 22:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

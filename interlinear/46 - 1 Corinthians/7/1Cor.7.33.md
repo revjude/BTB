@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 7:33
+type: Verse
+kjv: "But he that is married careth for the things that are of the world, how he may please his wife."
+bsb: "But the married man is concerned about the affairs of this world, how he can please his wife,"
+greek: "ὁ δὲ γαμήσας μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῇ γυναικί,"
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1060]]"
+- "[[G3309]]"
+- "[[G2889]]"
+- "[[G4459]]"
+- "[[G0700]]"
+- "[[G1135H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 7:33**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he that is married careth for the things that are of the world, how he may please [his] wife.
 <small><sub>**BSB:**</sub></small>
 But the married man is concerned about the affairs of this world, how he can please his wife,
-<small><sub>**Literal:**</sub></small>
-the [one] however having been married he cares for the [things] of the world, how he may please the wife,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.32|<< 1 Corinthians 7:32]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.34|1 Corinthians 7:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1060\|γαμήσας]]  [[G3309\|μεριμνᾷ]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου,]]  [[G4459\|πῶς]]  [[G0700\|ἀρέσῃ]]  [[G3588\|τῇ]]  [[G1135H\|γυναικί,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic CELIBACY|CELIBACY]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIFE|WIFE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.32|<< 1 Corinthians 7:32]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.34|1 Corinthians 7:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

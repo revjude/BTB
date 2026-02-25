@@ -1,10 +1,62 @@
+---
+title: Hebrews 12:22
+type: Verse
+kjv: "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,"
+bsb: "Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels"
+greek: "ἀλλὰ προσεληλύθατε Σιὼν ὄρει καὶ πόλει θεοῦ ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ καὶ μυριάσιν ἀγγέλων πανηγύρει"
+pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G0235]]"
+- "[[G4334]]"
+- "[[G4622]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G4172]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G2419]]"
+- "[[G2032]]"
+- "[[G3461]]"
+- "[[G0032G]]"
+- "[[G3831]]"
+texts:
+- NKO
+---
+
 **Hebrews 12:22**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,
 <small><sub>**BSB:**</sub></small>
 Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels
-<small><sub>**Literal:**</sub></small>
-But you have come to Zion Mount and to [the] city of God [the] living, to Jerusalem [the] heavenly and to myriads of angels [23] to [the] assembly<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.21|<< Hebrews 12:21]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.23|Hebrews 12:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G4334\|προσεληλύθατε]]  [[G4622\|Σιὼν]]  [[G3735\|ὄρει]]  [[G2532\|καὶ]]  [[G4172\|πόλει]]  [[G2316\|θεοῦ]]  [[G2198\|ζῶντος,]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2032\|ἐπουρανίῳ]]  [[G2532\|καὶ]]  [[G3461\|μυριάσιν]]  [[G0032G\|ἀγγέλων]]  [[G3831\|πανηγύρει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic CITIES|CITIES]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.21|<< Hebrews 12:21]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.23|Hebrews 12:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

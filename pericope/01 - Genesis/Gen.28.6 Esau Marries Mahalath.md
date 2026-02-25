@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esau Marries Mahalath
+type: Pericope
 pericope: "[[Gen.28.6 Esau Marries Mahalath|Esau Marries Mahalath]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 28
 book/chapter: "[[Gen.28|Genesis 28]]"
-genre:
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.28.6]]"
 - "[[Gen.28.7]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.28.9]]"
 ---
 
-[[Gen.28|Genesis 28:6 - Genesis 28:9]]
+<small>[[Gen.28|Genesis 28:6-9]]</small>
 *Esau Marries Mahalath*
 
 [[Gen.28.6|6]] When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;

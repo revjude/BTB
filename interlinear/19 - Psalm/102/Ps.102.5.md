@@ -1,8 +1,52 @@
+---
+title: Psalm 102:5
+type: Verse
+kjv: "By reason of the voice of my groaning my bones cleave to my skin."
+bsb: "Through my loud groaning my skin hangs on my bones."
+hebrew: "מִקּ֥וֹל אַנְחָתִ֑י דָּבְקָ֥ה עַ֝צְמִ֗י לִבְשָׂרִֽי׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H0585]]"
+- "[[H9020]]"
+- "[[H1692]]"
+- "[[H6106G]]"
+- "[[H9005]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:5**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By reason of the voice of my groaning my bones cleave to my skin.
 <small><sub>**BSB:**</sub></small>
 Through my loud groaning my skin hangs on my bones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֥וֹל]] [[H0585\|אַנְחָתִ֑]][[H9020\|י]] [[H1692\|דָּבְקָ֥ה]] [[H6106G\|עַ֝צְמִ֗]][[H9020\|י]] [[H9005\|לִ]][[H1320\|בְשָׂרִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.4|<< Psalms 102:4]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.6|Psalms 102:6 >>]]</td></tr></table>
 

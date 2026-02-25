@@ -1,10 +1,46 @@
+---
+title: James 1:16
+type: Verse
+kjv: "Do not err, my beloved brethren."
+bsb: "Do not be deceived, my beloved brothers."
+greek: "Μὴ πλανᾶσθε, ἀδελφοί μου ἀγαπητοί·"
+pericope: "[[Jas.1.13 Good and Perfect Gifts|Good and Perfect Gifts]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3361]]"
+- "[[G4105]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G0027]]"
+texts:
+- NKO
+---
+
 **James 1:16**<big><big>[[Jas.1.13 Good and Perfect Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Do not err, my beloved brethren.
 <small><sub>**BSB:**</sub></small>
 Do not be deceived, my beloved brothers.
-<small><sub>**Literal:**</sub></small>
-Not do be misled, brothers of mine beloved;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.15|<< James 1:15]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.17|James 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G4105\|πλανᾶσθε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου]]  [[G0027\|ἀγαπητοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.15|<< James 1:15]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.17|James 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

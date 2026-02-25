@@ -7,7 +7,7 @@
 
 - Also called GIBEAH OF BENJAMIN
 
-- The people's wickedness [[Judg.19.12|Jud 19:12]]-[[Judg.19.30|30]]; [[Hos.9.9|Ho 9:9]]; [[Hos.10.9|10:9]]
+- The people's wickedness [[Judg.19.12|Jud 19:12-30]]; [[Hos.9.9|Ho 9:9]]; [[Hos.10.9|10:9]]
 
 - Destroyed by the Israelites [[Judg.20|Jud 20]]
 

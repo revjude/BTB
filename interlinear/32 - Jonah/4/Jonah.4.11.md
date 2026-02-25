@@ -1,8 +1,73 @@
+---
+title: Jonah 4:11
+type: Verse
+kjv: "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?"
+bsb: "So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”"
+hebrew: "וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל־ נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ־ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים־ עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא־ יָדַע֙ בֵּין־ יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה׃"
+pericope: "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H2347]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5210]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H7235A]]"
+- "[[H9006]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H7239]]"
+- "[[H0120G]]"
+- "[[H3045]]"
+- "[[H0996G]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H8040G]]"
+- "[[H0929]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 4:11**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and [also] much cattle?
 <small><sub>**BSB:**</sub></small>
 So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H0589\|אֲנִי֙]] [[H3808\|לֹ֣א]] [[H2347\|אָח֔וּס]] [[H5921A\|עַל]][[H9014\|־]] [[H5210\|נִינְוֵ֖ה]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֑ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9003\|בָּ֡]][[H9034\|הּ]] [[H7235A\|הַרְבֵּה֩]] [[H9006\|מִֽ]][[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֨ה]] [[H7239\|רִבּ֜וֹ]] [[H0120G\|אָדָ֗ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַע֙]] [[H0996G\|בֵּין]][[H9014\|־]] [[H3225G\|יְמִינ֣]][[H9023\|וֹ]] [[H9005\|לִ]][[H8040G\|שְׂמֹאל֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H0929\|בְהֵמָ֖ה]] [[H7227A\|רַבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]] • [[topic NINEVEH|NINEVEH]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.1|Micah 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

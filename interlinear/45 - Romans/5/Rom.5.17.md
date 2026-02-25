@@ -1,10 +1,68 @@
+---
+title: Romans 5:17
+type: Verse
+kjv: "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+bsb: "For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ!"
+greek: "Εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ τοῦ ἑνός, πολλῷ μᾶλλον οἱ τὴν περισσείαν τῆς χάριτος καὶ τῆς δωρεᾶς τῆς δικαιοσύνης λαμβάνοντες ἐν ζωῇ βασιλεύσουσιν διὰ τοῦ ἑνὸς Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G3900]]"
+- "[[G2288]]"
+- "[[G0936]]"
+- "[[G1223]]"
+- "[[G4183]]"
+- "[[G3123G]]"
+- "[[G4050]]"
+- "[[G5485]]"
+- "[[G2532]]"
+- "[[G1431]]"
+- "[[G1343]]"
+- "[[G2983]]"
+- "[[G1722]]"
+- "[[G2222]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Romans 5:17**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 <small><sub>**BSB:**</sub></small>
 For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ!
-<small><sub>**Literal:**</sub></small>
-If for by the of the one trespass <the> death reigned through the one, how much more those the excess <the> of grace and of the gift <the> of righteousness receiving in life will reign through the one Jesus Christ!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.16|<< Romans 5:16]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.18|Romans 5:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1063\|γὰρ]]  [[G3588\|τῷ]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G3900\|παραπτώματι]]  [[G3588\|ὁ]]  [[G2288\|θάνατος]]  [[G0936\|ἐβασίλευσεν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G1520\|ἑνός,]]  [[G4183\|πολλῷ]]  [[G3123G\|μᾶλλον]]  [[G3588\|οἱ]]  [[G3588\|τὴν]]  [[G4050\|περισσείαν]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1431\|δωρεᾶς]]  [[G3588\|τῆς]]  [[G1343\|δικαιοσύνης]]  [[G2983\|λαμβάνοντες]]  [[G1722\|ἐν]]  [[G2222\|ζωῇ]]  [[G0936\|βασιλεύσουσιν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.16|<< Romans 5:16]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.18|Romans 5:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

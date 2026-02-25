@@ -1,10 +1,47 @@
+---
+title: Acts 26:27
+type: Verse
+kjv: "King Agrippa, believest thou the prophets? I know that thou believest."
+bsb: "King Agrippa, do you believe the prophets? I know you do.”"
+greek: "πιστεύεις, βασιλεῦ Ἀγρίππα, τοῖς προφήταις; οἶδα ὅτι πιστεύεις.¶"
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4100]]"
+- "[[G0935]]"
+- "[[G0067]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+texts:
+- NKO
+---
+
 **Acts 26:27**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 King Agrippa, believest thou the prophets? I know that thou believest.
 <small><sub>**BSB:**</sub></small>
 King Agrippa, do you believe the prophets? I know you do.”
-<small><sub>**Literal:**</sub></small>
-Believe you, King Agrippa, in the prophets? I know that you believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.26|<< Acts 26:26]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.28|Acts 26:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4100\|πιστεύεις,]]  [[G0935\|βασιλεῦ]]  [[G0067\|Ἀγρίππα,]]  [[G3588\|τοῖς]]  [[G4396\|προφήταις;]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G4100\|πιστεύεις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.26|<< Acts 26:26]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.28|Acts 26:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

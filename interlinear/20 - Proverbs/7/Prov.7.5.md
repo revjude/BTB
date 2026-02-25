@@ -1,8 +1,54 @@
+---
+title: Proverbs 7:5
+type: Verse
+kjv: "That they may keep thee from the strange woman, from the stranger which flattereth with her words."
+bsb: "that they may keep you from the adulteress, from the stranger with seductive words."
+hebrew: "לִ֭שְׁמָרְךָ מֵאִשָּׁ֣ה זָרָ֑ה מִ֝נָּכְרִיָּ֗ה אֲמָרֶ֥יהָ הֶחֱלִֽיקָה׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H8104H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0802G]]"
+- "[[H2114A]]"
+- "[[H5237]]"
+- "[[H0561]]"
+- "[[H9024]]"
+- "[[H2505B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:5**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may keep thee from the strange woman, from the stranger [which] flattereth with her words.
 <small><sub>**BSB:**</sub></small>
 that they may keep you from the adulteress, from the stranger with seductive words.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֭]][[H8104H\|שְׁמָרְ]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0802G\|אִשָּׁ֣ה]] [[H2114A\|זָרָ֑ה]] [[H9006\|מִ֝]][[H5237\|נָּכְרִיָּ֗ה]] [[H0561\|אֲמָרֶ֥י]][[H9024\|הָ]] [[H2505B\|הֶחֱלִֽיקָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic FLATTERY|FLATTERY]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.4|<< Proverbs 7:4]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.6|Proverbs 7:6 >>]]</td></tr></table>
 

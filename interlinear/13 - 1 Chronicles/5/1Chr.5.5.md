@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 5:5
+type: Verse
+kjv: "Micah his son, Reaia his son, Baal his son,"
+bsb: "Micah his son, Reaiah his son, Baal his son,"
+hebrew: "מִיכָ֥ה בְנ֛וֹ רְאָיָ֥ה בְנ֖וֹ בַּ֥עַל בְּנֽוֹ׃"
+pericope: "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic REAIA|REAIA]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H4318I]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7211G]]"
+- "[[H1168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:5**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Micah his son, Reaia his son, Baal his son,
 <small><sub>**BSB:**</sub></small>
 Micah his son, Reaiah his son, Baal his son,
+<small><sub>**Hebrew:**</sub></small>
+[[H4318I\|מִיכָ֥ה]] [[H1121A\|בְנ֛]][[H9023\|וֹ]] [[H7211G\|רְאָיָ֥ה]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H1168G\|בַּ֥עַל]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic MICAH|MICAH]] • [[topic REAIA|REAIA]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.4|<< 1 Chronicles 5:4]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.6|1 Chronicles 5:6 >>]]</td></tr></table>
 

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord Remains Faithful
+type: Pericope
 pericope: "[[2Tim.4.16 The Lord Remains Faithful|The Lord Remains Faithful]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 4
 book/chapter: "[[2Tim.4|2 Timothy 4]]"
-genre:
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 3
 verses:
 - "[[2Tim.4.16]]"
 - "[[2Tim.4.17]]"
 - "[[2Tim.4.18]]"
 ---
 
-[[2Tim.4|2 Timothy 4:16 - 2 Timothy 4:18]]
+<small>[[2Tim.4|2 Timothy 4:16-18]]</small>
 *The Lord Remains Faithful*
 
 [[2Tim.4.16|16]] At my first answer no man stood with me, but all \[men\] forsook me: \[I pray God\] that it may not be laid to their charge.

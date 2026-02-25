@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The King Who Exalts Himself
+type: Pericope
 pericope: "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 11
 book/chapter: "[[Dan.11|Daniel 11]]"
-genre:
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 10
 verses:
 - "[[Dan.11.36]]"
 - "[[Dan.11.37]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Dan.11.45]]"
 ---
 
-[[Dan.11|Daniel 11:36 - Daniel 11:45]]
+<small>[[Dan.11|Daniel 11:36-45]]</small>
 *The King Who Exalts Himself*
 
 [[Dan.11.36|36]] And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.

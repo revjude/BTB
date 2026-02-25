@@ -1,8 +1,57 @@
+---
+title: Psalm 73:27
+type: Verse
+kjv: "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee."
+bsb: "Those far from You will surely perish; You destroy all who are unfaithful to You."
+hebrew: "כִּֽי־ הִנֵּ֣ה רְחֵקֶ֣יךָ יֹאבֵ֑דוּ הִ֝צְמַ֗תָּה כָּל־ זוֹנֶ֥ה מִמֶּֽךָּ׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H7369]]"
+- "[[H9021]]"
+- "[[H0006]]"
+- "[[H6789]]"
+- "[[H3605]]"
+- "[[H2181]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:27**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.
 <small><sub>**BSB:**</sub></small>
 Those far from You will surely perish; You destroy all who are unfaithful to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֣ה]] [[H7369\|רְחֵקֶ֣י]][[H9021\|ךָ]] [[H0006\|יֹאבֵ֑דוּ]] [[H6789\|הִ֝צְמַ֗תָּה]] [[H3605\|כָּל]][[H9014\|־]] [[H2181\|זוֹנֶ֥ה]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.26|<< Psalms 73:26]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.28|Psalms 73:28 >>]]</td></tr></table>
 

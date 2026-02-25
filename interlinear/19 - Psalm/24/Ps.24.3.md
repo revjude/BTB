@@ -1,8 +1,65 @@
+---
+title: Psalm 24:3
+type: Verse
+kjv: "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?"
+bsb: "Who may ascend the hill of the LORD? Who may stand in His holy place?"
+hebrew: "מִֽי־ יַעֲלֶ֥ה בְהַר־ יְהוָ֑ה וּמִי־ יָ֝קוּם בִּמְק֥וֹם קָדְשֽׁוֹ׃"
+pericope: "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 24
+book/chapter: "[[Ps.24|Psalm 24]]"
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6965I]]"
+- "[[H4725]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 24:3**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who shall ascend into the hill of the LORD? or who shall stand in his holy place?
 <small><sub>**BSB:**</sub></small>
 Who may ascend the hill of the LORD? Who may stand in His holy place?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5927G\|יַעֲלֶ֥ה]] [[H9003\|בְ]][[H2022G\|הַר]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H4310\|מִי]][[H9014\|־]] [[H6965I\|יָ֝קוּם]] [[H9003\|בִּ]][[H4725\|מְק֥וֹם]] [[H6944G\|קָדְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLINESS|HOLINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PENITENT|PENITENT]] • [[topic PURITY|PURITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SEEKERS|SEEKERS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.2|<< Psalms 24:2]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.4|Psalms 24:4 >>]]</td></tr></table>
 

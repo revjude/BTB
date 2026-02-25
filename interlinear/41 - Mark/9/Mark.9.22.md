@@ -1,10 +1,65 @@
+---
+title: Mark 9:22
+type: Verse
+kjv: "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us."
+bsb: "“It often throws him into the fire or into the water, trying to kill him. But if You can do anything, have compassion on us and help us.”"
+greek: "καὶ πολλάκις καὶ εἰς τὸ πῦρ αὐτὸν ἔβαλεν καὶ εἰς ὕδατα ἵνα ἀπολέσῃ αὐτόν· ἀλλ᾽ εἴ τι δύνῃ, βοήθησον ἡμῖν, σπλαγχνισθεὶς ἐφ᾽ ἡμᾶς.¶"
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EPILEPSY|EPILEPSY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4178]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4442]]"
+- "[[G0846]]"
+- "[[G0906G]]"
+- "[[G5204]]"
+- "[[G2443]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1410]]"
+- "[[G0997]]"
+- "[[G3165]]"
+- "[[G4697]]"
+- "[[G1909]]"
+texts:
+- NKO
+- o
+---
+
 **Mark 9:22**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.
 <small><sub>**BSB:**</sub></small>
 “It often throws him into the fire or into the water, trying to kill him. But if You can do anything, have compassion on us and help us.”
-<small><sub>**Literal:**</sub></small>
-And often both into <the> fire him it casts and into waters that it may destroy him; But if anything You are able [to do], do help us, having compassion on us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.21|<< Mark 9:21]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.23|Mark 9:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4178\|πολλάκις]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4442\|πῦρ]]  [[G0846\|αὐτὸν]]  [[G0906G\|ἔβαλεν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G5204\|ὕδατα]]  [[G2443\|ἵνα]]  [[G0622\|ἀπολέσῃ]]  [[G0846\|αὐτόν·]]  [[G0235\|ἀλλ᾽]]  [[G1487G\|εἴ]]  [[G5100\|τι]]  [[G1410\|δύνῃ,]]  [[G0997\|βοήθησον]]  [[G3165\|ἡμῖν,]]  [[G4697\|σπλαγχνισθεὶς]]  [[G1909\|ἐφ᾽]]  [[G3165\|ἡμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic EPILEPSY|EPILEPSY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.21|<< Mark 9:21]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.23|Mark 9:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

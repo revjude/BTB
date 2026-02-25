@@ -1,8 +1,60 @@
+---
+title: Exodus 25:10
+type: Verse
+kjv: "And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof."
+bsb: "And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high."
+hebrew: "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃"
+pericope: "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0727]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H7341]]"
+- "[[H6967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:10**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make an ark [of] shittim wood: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
 <small><sub>**BSB:**</sub></small>
 And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשׂ֥וּ]] [[H0727\|אֲר֖וֹן]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H0520A\|אַמָּתַ֨יִם]] [[H9002\|וָ]][[H2677\|חֵ֜צִי]] [[H0753\|אָרְכּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H0520A\|אַמָּ֤ה]] [[H9002\|וָ]][[H2677\|חֵ֙צִי֙]] [[H7341\|רָחְבּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0520A\|אַמָּ֥ה]] [[H9002\|וָ]][[H2677\|חֵ֖צִי]] [[H6967\|קֹמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.9|<< Exodus 25:9]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.11|Exodus 25:11 >>]]</td></tr></table>
 

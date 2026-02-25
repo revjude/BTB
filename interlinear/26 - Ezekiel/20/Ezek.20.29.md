@@ -1,8 +1,63 @@
+---
+title: Ezekiel 20:29
+type: Verse
+kjv: "Then I said unto them, What is the high place whereunto ye go? And the name thereof is called Bamah unto this day."
+bsb: "So I asked them: ‘What is this high place to which you go?’ (And to this day it is called Bamah.)"
+hebrew: "וָאֹמַ֣ר אֲלֵהֶ֔ם מָ֣ה הַבָּמָ֔ה אֲשֶׁר־ אַתֶּ֥ם הַבָּאִ֖ים שָׁ֑ם וַיִּקָּרֵ֤א שְׁמָהּ֙ בָּמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BAMAH|BAMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H1117]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:29**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I said unto them, What [is] the high place whereunto ye go? And the name thereof is called Bamah unto this day.
 <small><sub>**BSB:**</sub></small>
 So I asked them: ‘What is this high place to which you go?’ (And to this day it is called Bamah.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H4100\|מָ֣ה]] [[H9009\|הַ]][[H1116\|בָּמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H8033G\|שָׁ֑ם]] [[H9001\|וַ]][[H7121H\|יִּקָּרֵ֤א]] [[H8034\|שְׁמָ]][[H9024\|הּ֙]] [[H1117\|בָּמָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAMAH|BAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.28|<< Ezekiel 20:28]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.30|Ezekiel 20:30 >>]]</td></tr></table>
 

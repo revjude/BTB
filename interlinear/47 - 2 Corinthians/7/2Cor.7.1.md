@@ -1,10 +1,64 @@
+---
+title: 2 Corinthians 7:1
+type: Verse
+kjv: "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God."
+bsb: "Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God."
+greek: "Ταύτας οὖν ἔχοντες τὰς ἐπαγγελίας, ἀγαπητοί, καθαρίσωμεν ἑαυτοὺς ἀπὸ παντὸς μολυσμοῦ σαρκὸς καὶ πνεύματος ἐπιτελοῦντες ἁγιωσύνην ἐν φόβῳ θεοῦ.¶"
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G1860]]"
+- "[[G0027]]"
+- "[[G2511]]"
+- "[[G1438]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3436]]"
+- "[[G4561]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G2005]]"
+- "[[G0042]]"
+- "[[G1722]]"
+- "[[G5401]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 7:1**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 <small><sub>**BSB:**</sub></small>
 Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God.
-<small><sub>**Literal:**</sub></small>
-These therefore having <the> promises, beloved, we may cleanse ourselves from every defilement of flesh and spirit perfecting holiness in [the] fear of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.18|<< 2 Corinthians 6:18]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.2|2 Corinthians 7:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταύτας]]  [[G3767\|οὖν]]  [[G2192\|ἔχοντες]]  [[G3588\|τὰς]]  [[G1860\|ἐπαγγελίας,]]  [[G0027\|ἀγαπητοί,]]  [[G2511\|καθαρίσωμεν]]  [[G1438\|ἑαυτοὺς]]  [[G0575\|ἀπὸ]]  [[G3956\|παντὸς]]  [[G3436\|μολυσμοῦ]]  [[G4561\|σαρκὸς]]  [[G2532\|καὶ]]  [[G4151G\|πνεύματος]]  [[G2005\|ἐπιτελοῦντες]]  [[G0042\|ἁγιωσύνην]]  [[G1722\|ἐν]]  [[G5401\|φόβῳ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic PERFECTION|PERFECTION]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.18|<< 2 Corinthians 6:18]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.2|2 Corinthians 7:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

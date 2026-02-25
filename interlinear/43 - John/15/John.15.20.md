@@ -1,10 +1,63 @@
+---
+title: John 15:20
+type: Verse
+kjv: "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+bsb: "Remember the word that I spoke to you: ‘No servant is greater than his master.’ If they persecuted Me, they will persecute you as well; if they kept My word, they will keep yours as well."
+jesus_said: "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+greek: "μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἶπον ὑμῖν· οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ. εἰ ἐμὲ ἐδίωξαν καὶ ὑμᾶς διώξουσιν· εἰ τὸν λόγον μου ἐτήρησαν καὶ τὸν ὑμέτερον τηρήσουσιν."
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G3421]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1401]]"
+- "[[G3173]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G1377]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G5083G]]"
+texts:
+- NKO
+---
+
 **John 15:20**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
 <small><sub>**BSB:**</sub></small>
 Remember the word that I spoke to you: ‘No servant is greater than his master.’ If they persecuted Me, they will persecute you as well; if they kept My word, they will keep yours as well.
-<small><sub>**Literal:**</sub></small>
-do remember the word that I myself said to you: Not is a servant greater than the master of him. If Me myself they persecuted also you they will persecute; if the word of Mine they kept also <the> yours they will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.19|<< John 15:19]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.21|John 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3421\|μνημονεύετε]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G3739\|οὗ]]  [[G1473\|ἐγὼ]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1401\|δοῦλος]]  [[G3173\|μείζων]]  [[G3588\|τοῦ]]  [[G2962H\|κυρίου]]  [[G0846\|αὐτοῦ.]]  [[G1487G\|εἰ]]  [[G1473\|ἐμὲ]]  [[G1377\|ἐδίωξαν]]  [[G2532\|καὶ]]  [[G4771\|ὑμᾶς]]  [[G1377\|διώξουσιν·]]  [[G1487G\|εἰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3165\|μου]]  [[G5083G\|ἐτήρησαν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G4771\|ὑμέτερον]]  [[G5083G\|τηρήσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.19|<< John 15:19]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.21|John 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

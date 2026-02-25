@@ -1,8 +1,63 @@
+---
+title: Jeremiah 46:13
+type: Verse
+kjv: "The word that the LORD spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt."
+bsb: "This is the word that the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:"
+hebrew: "הַדָּבָר֙ אֲשֶׁ֣ר דִּבֶּ֣ר יְהוָ֔ה אֶֽל־ יִרְמְיָ֖הוּ הַנָּבִ֑יא לָב֗וֹא נְבֽוּכַדְרֶאצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל לְהַכּ֖וֹת אֶת־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic NOPH|NOPH]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:13**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that the LORD spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come [and] smite the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 This is the word that the LORD spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9005\|לָ]][[H0935G\|ב֗וֹא]] [[H5019\|נְבֽוּכַדְרֶאצַּר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9005\|לְ]][[H5221\|הַכּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic NOPH|NOPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.12|<< Jeremiah 46:12]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.14|Jeremiah 46:14 >>]]</td></tr></table>
 

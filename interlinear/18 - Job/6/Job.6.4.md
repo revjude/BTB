@@ -1,8 +1,57 @@
+---
+title: Job 6:4
+type: Verse
+kjv: "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me."
+bsb: "For the arrows of the Almighty have pierced me; my spirit drinks in their poison; the terrors of God are arrayed against me."
+hebrew: "כִּ֤י חִצֵּ֪י שַׁדַּ֡י עִמָּדִ֗י אֲשֶׁ֣ר חֲ֭מָתָם שֹׁתָ֣ה רוּחִ֑י בִּעוּתֵ֖י אֱל֣וֹהַּ יַֽעַרְכֽוּנִי׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARROW|ARROW]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2671]]"
+- "[[H7706]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H0834A]]"
+- "[[H2534]]"
+- "[[H9028]]"
+- "[[H8354]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H1161]]"
+- "[[H0433]]"
+- "[[H6186A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:4**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the arrows of the Almighty [are] within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.
 <small><sub>**BSB:**</sub></small>
 For the arrows of the Almighty have pierced me; my spirit drinks in their poison; the terrors of God are arrayed against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2671\|חִצֵּ֪י]] [[H7706\|שַׁדַּ֡י]] [[H5978\|עִמָּדִ֗]][[H9030\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H2534\|חֲ֭מָתָ]][[H9028\|ם]] [[H8354\|שֹׁתָ֣ה]] [[H7307G\|רוּחִ֑]][[H9020\|י]] [[H1161\|בִּעוּתֵ֖י]] [[H0433\|אֱל֣וֹהַּ]] [[H6186A\|יַֽעַרְכֽוּ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARROW|ARROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.5|Job 6:5 >>]]</td></tr></table>
 

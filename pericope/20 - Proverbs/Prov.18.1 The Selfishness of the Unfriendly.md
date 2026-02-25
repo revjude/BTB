@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Selfishness of the Unfriendly
+type: Pericope
 pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 18
 book/chapter: "[[Prov.18|Proverbs 18]]"
-genre:
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 24
 verses:
 - "[[Prov.18.1]]"
 - "[[Prov.18.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Prov.18.24]]"
 ---
 
-[[Prov.18|Proverbs 18:1 - Proverbs 18:24]]
+<small>[[Prov.18|Proverbs 18:1-24]]</small>
 *The Selfishness of the Unfriendly*
 
 [[Prov.18.1|1]] Through desire a man, having separated himself, seeketh \[and\] intermeddleth with all wisdom.

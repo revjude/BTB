@@ -1,8 +1,70 @@
+---
+title: Jeremiah 52:21
+type: Verse
+kjv: "And concerning the pillars, the height of one pillar was eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof was four fingers: it was hollow."
+bsb: "Each pillar was eighteen cubits tall and twelve cubits in circumference; each was hollow, four fingers thick."
+hebrew: "וְהָעַמּוּדִ֗ים שְׁמֹנֶ֨ה עֶשְׂרֵ֤ה אַמָּה֙ קוֹמַת֙ הָעַמֻּ֣ד הָאֶחָ֔ד וְח֛וּט שְׁתֵּים־ עֶשְׂרֵ֥ה אַמָּ֖ה יְסֻבֶּ֑נּוּ וְעָבְי֛וֹ אַרְבַּ֥ע אַצְבָּע֖וֹת נָבֽוּב׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FINGERBREADTH|FINGERBREADTH]]"
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5982G]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H0520A]]"
+- "[[H6967]]"
+- "[[H0259]]"
+- "[[H2339]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H5437H]]"
+- "[[H9033]]"
+- "[[H5672]]"
+- "[[H9023]]"
+- "[[H0702]]"
+- "[[H0676]]"
+- "[[H5014]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 52:21**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [concerning] the pillars, the height of one pillar [was] eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof [was] four fingers: [it was] hollow.
 <small><sub>**BSB:**</sub></small>
 Each pillar was eighteen cubits tall and twelve cubits in circumference; each was hollow, four fingers thick.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5982G\|עַמּוּדִ֗ים]] [[H8083\|שְׁמֹנֶ֨ה]] [[H6240\|עֶשְׂרֵ֤ה]] [[H0520A\|אַמָּה֙]] [[H6967\|קוֹמַת֙]] [[H9009\|הָ]][[H5982G\|עַמֻּ֣ד]] [[H9009\|הָ]][[H0259\|אֶחָ֔ד]] [[H9002\|וְ]][[H2339\|ח֛וּט]] [[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֥ה]] [[H0520A\|אַמָּ֖ה]] [[H5437H\|יְסֻבֶּ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H5672\|עָבְי֛]][[H9023\|וֹ]] [[H0702\|אַרְבַּ֥ע]] [[H0676\|אַצְבָּע֖וֹת]] [[H5014\|נָבֽוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FINGERBREADTH|FINGERBREADTH]] • [[topic HANDBREADTH|HANDBREADTH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MEASURE|MEASURE]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PILLAR|PILLAR]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.20|<< Jeremiah 52:20]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.22|Jeremiah 52:22 >>]]</td></tr></table>
 

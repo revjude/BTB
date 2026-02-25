@@ -1,8 +1,53 @@
+---
+title: Proverbs 16:1
+type: Verse
+kjv: "The preparations of the heart in man, and the answer of the tongue, is from the LORD."
+bsb: "The plans of the heart belong to man, but the reply of the tongue is from the LORD."
+hebrew: "לְאָדָ֥ם מַֽעַרְכֵי־ לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H4633]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H4617]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:1**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The preparations of the heart in man, and the answer of the tongue, [is] from the LORD.
 <small><sub>**BSB:**</sub></small>
 The plans of the heart belong to man, but the reply of the tongue is from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H0120G\|אָדָ֥ם]] [[H4633\|מַֽעַרְכֵי]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וּ֝]][[H9006\|מֵ]][[H3068G\|יְהוָ֗ה]] [[H4617\|מַעֲנֵ֥ה]] [[H3956G\|לָשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PRAYER|PRAYER]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.33|<< Proverbs 15:33]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.2|Proverbs 16:2 >>]]</td></tr></table>
 

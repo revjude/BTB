@@ -1,8 +1,63 @@
+---
+title: Genesis 21:2
+type: Verse
+kjv: "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
+bsb: "So Sarah conceived and bore a son to Abraham in his old age, at the very time God had promised."
+hebrew: "וַתַּהַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר־ דִּבֶּ֥ר אֹת֖וֹ אֱלֹהִֽים׃"
+pericope: "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H3205]]"
+- "[[H8283]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H1121A]]"
+- "[[H2208]]"
+- "[[H9023]]"
+- "[[H4150G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:2**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.
 <small><sub>**BSB:**</sub></small>
 So Sarah conceived and bore a son to Abraham in his old age, at the very time God had promised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2029\|תַּהַר֩]] [[H9001\|וַ]][[H3205\|תֵּ֨לֶד]] [[H8283\|שָׂרָ֧ה]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֛ם]] [[H1121A\|בֵּ֖ן]] [[H9005\|לִ]][[H2208\|זְקֻנָ֑י]][[H9023\|ו]] [[H9005\|לַ]][[H4150G\|מּוֹעֵ֕ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H0854\|אֹת֖]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ISAAC|ISAAC]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.1|<< Genesis 21:1]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.3|Genesis 21:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

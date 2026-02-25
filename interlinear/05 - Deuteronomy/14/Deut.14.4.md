@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 14:4
+type: Verse
+kjv: "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+bsb: "These are the animals that you may eat: The ox, the sheep, the goat,"
+hebrew: "זֹ֥את הַבְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְשֵׂ֥ה עִזִּֽים׃"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CUD|CUD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic HOOF|HOOF]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H7794]]"
+- "[[H7716]]"
+- "[[H3775]]"
+- "[[H9002]]"
+- "[[H5795]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:4**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the beasts which ye shall eat: the ox, the sheep, and the goat,
 <small><sub>**BSB:**</sub></small>
 These are the animals that you may eat: The ox, the sheep, the goat,
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|תֹּאכֵ֑לוּ]] [[H7794\|שׁ֕וֹר]] [[H7716\|שֵׂ֥ה]] [[H3775\|כְשָׂבִ֖ים]] [[H9002\|וְ]][[H7716\|שֵׂ֥ה]] [[H5795\|עִזִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CUD|CUD]] • [[topic GOAT|GOAT]] • [[topic HOOF|HOOF]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.3|<< Deuteronomy 14:3]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.5|Deuteronomy 14:5 >>]]</td></tr></table>
 

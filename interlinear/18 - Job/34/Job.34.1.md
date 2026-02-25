@@ -1,8 +1,42 @@
+---
+title: Job 34:1
+type: Verse
+kjv: "Furthermore Elihu answered and said,"
+bsb: "Then Elihu continued:"
+hebrew: "וַיַּ֥עַן אֱלִיה֗וּא וַיֹּאמַֽר׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0453K]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:1**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore Elihu answered and said,
 <small><sub>**BSB:**</sub></small>
 Then Elihu continued:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H0453K\|אֱלִיה֗וּא]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.33|<< Job 33:33]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.2|Job 34:2 >>]]</td></tr></table>
 

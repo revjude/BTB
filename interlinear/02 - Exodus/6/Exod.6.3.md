@@ -1,8 +1,66 @@
+---
+title: Exodus 6:3
+type: Verse
+kjv: "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them."
+bsb: "I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them."
+hebrew: "וָאֵרָ֗א אֶל־ אַבְרָהָ֛ם אֶל־ יִצְחָ֥ק וְאֶֽל־ יַעֲקֹ֖ב בְּאֵ֣ל שַׁדָּ֑י וּשְׁמִ֣י יְהוָ֔ה לֹ֥א נוֹדַ֖עְתִּי לָהֶֽם׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVELATION|REVELATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H0410G]]"
+- "[[H7706]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:3**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I appeared unto Abraham, unto Isaac, and unto Jacob, by [the name of] God Almighty, but by my name JEHOVAH was I not known to them.
 <small><sub>**BSB:**</sub></small>
 I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵרָ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H0085\|אַבְרָהָ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3327\|יִצְחָ֥ק]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H9003\|בְּ]][[H0410G\|אֵ֣ל]] [[H7706\|שַׁדָּ֑י]] [[H9002\|וּ]][[H8034\|שְׁמִ֣]][[H9020\|י]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹ֥א]] [[H3045\|נוֹדַ֖עְתִּי]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOSES|MOSES]] • [[topic REVELATION|REVELATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.2|<< Exodus 6:2]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.4|Exodus 6:4 >>]]</td></tr></table>
 

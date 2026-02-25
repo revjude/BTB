@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Tyre
+type: Pericope
 pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 23
 book/chapter: "[[Isa.23|Isaiah 23]]"
-genre:
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 18
 verses:
 - "[[Isa.23.1]]"
 - "[[Isa.23.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Isa.23.18]]"
 ---
 
-[[Isa.23|Isaiah 23:1 - Isaiah 23:18]]
+<small>[[Isa.23|Isaiah 23:1-18]]</small>
 *The Burden against Tyre*
 
 [[Isa.23.1|1]] The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.

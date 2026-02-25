@@ -1,8 +1,52 @@
+---
+title: Job 23:5
+type: Verse
+kjv: "I would know the words which he would answer me, and understand what he would say unto me."
+bsb: "I would learn how He would answer, and consider what He would say."
+hebrew: "אֵ֭דְעָה מִלִּ֣ים יַעֲנֵ֑נִי וְ֝אָבִ֗ינָה מַה־ יֹּ֥אמַר לִֽי׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3045]]"
+- "[[H4405]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:5**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I would know the words [which] he would answer me, and understand what he would say unto me.
 <small><sub>**BSB:**</sub></small>
 I would learn how He would answer, and consider what He would say.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|אֵ֭דְעָה]] [[H4405\|מִלִּ֣ים]] [[H6030B\|יַעֲנֵ֑]][[H9030\|נִי]] [[H9002\|וְ֝]][[H0995\|אָבִ֗ינָה]] [[H4100\|מַה]][[H9014\|־]] [[H0559\|יֹּ֥אמַר]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.4|<< Job 23:4]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.6|Job 23:6 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 11:1
+type: Verse
+kjv: "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh."
+bsb: "Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood."
+hebrew: "וַיִּקָּבְצ֧וּ כָֽל־ יִשְׂרָאֵ֛ל אֶל־ דָּוִ֖יד חֶבְר֣וֹנָה לֵאמֹ֑ר הִנֵּ֛ה עַצְמְךָ֥ וּֽבְשָׂרְךָ֖ אֲנָֽחְנוּ׃"
+pericope: "[[1Chr.11.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H2275A]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H6106G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H0587]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:1**<big><big>[[1Chr.11.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we [are] thy bone and thy flesh.
 <small><sub>**BSB:**</sub></small>
 Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקָּבְצ֧וּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖יד]] [[H2275A\|חֶבְר֣וֹנָ]][[H9011\|ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֛ה]] [[H6106G\|עַצְמְ]][[H9021\|ךָ֥]] [[H9002\|וּֽ]][[H1320\|בְשָׂרְ]][[H9021\|ךָ֖]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.14|<< 1 Chronicles 10:14]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.2|1 Chronicles 11:2 >>]]</td></tr></table>
 

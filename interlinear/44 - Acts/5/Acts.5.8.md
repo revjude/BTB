@@ -1,10 +1,64 @@
+---
+title: Acts 5:8
+type: Verse
+kjv: "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much."
+bsb: "“Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.”"
+greek: "ἀπεκρίθη δὲ πρὸς αὐτὴν ὁ Πέτρος· εἰπέ μοι, εἰ τοσούτου τὸ χωρίον ἀπέδοσθε; ἡ δὲ εἶπεν· ναὶ τοσούτου."
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G1487G]]"
+- "[[G5118]]"
+- "[[G5564G]]"
+- "[[G0591]]"
+- "[[G3483]]"
+texts:
+- NKO
+- no
+- N(k)O
+- k
+---
+
 **Acts 5:8**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.
 <small><sub>**BSB:**</sub></small>
 “Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.”
-<small><sub>**Literal:**</sub></small>
-Replied then to her <the> Peter; do tell me if for so much the land you sold? <the> And she said; Yes for so much.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.7|<< Acts 5:7]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.9|Acts 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὴν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G2036\|εἰπέ]]  [[G3165\|μοι,]]  [[G1487G\|εἰ]]  [[G5118\|τοσούτου]]  [[G3588\|τὸ]]  [[G5564G\|χωρίον]]  [[G0591\|ἀπέδοσθε;]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3483\|ναὶ]]  [[G5118\|τοσούτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.7|<< Acts 5:7]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.9|Acts 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

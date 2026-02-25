@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Goliath’s Challenge
+type: Pericope
 pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 17
 book/chapter: "[[1Sam.17|1 Samuel 17]]"
-genre:
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.17.1]]"
 - "[[1Sam.17.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.17.11]]"
 ---
 
-[[1Sam.17|1 Samuel 17:1 - 1 Samuel 17:11]]
+<small>[[1Sam.17|1 Samuel 17:1-11]]</small>
 *Goliath’s Challenge*
 
 [[1Sam.17.1|1]] Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which \[belongeth\] to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.

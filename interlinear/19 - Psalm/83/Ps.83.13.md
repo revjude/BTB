@@ -1,8 +1,58 @@
+---
+title: Psalm 83:13
+type: Verse
+kjv: "O my God, make them like a wheel; as the stubble before the wind."
+bsb: "Make them like tumbleweed, O my God, like chaff before the wind."
+hebrew: "אֱֽלֹהַ֗י שִׁיתֵ֥מוֹ כַגַּלְגַּ֑ל כְּ֝קַ֗שׁ לִפְנֵי־ רֽוּחַ׃"
+pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H7896G]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H1534]]"
+- "[[H7179]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 83:13**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, make them like a wheel; as the stubble before the wind.
 <small><sub>**BSB:**</sub></small>
 Make them like tumbleweed, O my God, like chaff before the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהַ֗]][[H9020\|י]] [[H7896G\|שִׁיתֵ֥]][[H9038\|מוֹ]] [[H9004\|כַ]][[H1534\|גַּלְגַּ֑ל]] [[H9004\|כְּ֝]][[H7179\|קַ֗שׁ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic STUBBLE|STUBBLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.12|<< Psalms 83:12]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.14|Psalms 83:14 >>]]</td></tr></table>
 

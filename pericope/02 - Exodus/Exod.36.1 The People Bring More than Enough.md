@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Bring More than Enough
+type: Pericope
 pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 36
 book/chapter: "[[Exod.36|Exodus 36]]"
-genre:
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.36.1]]"
 - "[[Exod.36.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.36.7]]"
 ---
 
-[[Exod.36|Exodus 36:1 - Exodus 36:7]]
+<small>[[Exod.36|Exodus 36:1-7]]</small>
 *The People Bring More than Enough*
 
 [[Exod.36.1|1]] Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.

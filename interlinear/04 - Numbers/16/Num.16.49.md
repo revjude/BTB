@@ -1,8 +1,68 @@
+---
+title: Numbers 16:49
+type: Verse
+kjv: "Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah."
+bsb: "But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah."
+hebrew: "וַיִּהְי֗וּ הַמֵּתִים֙ בַּמַּגֵּפָ֔ה אַרְבָּעָ֥ה עָשָׂ֛ר אֶ֖לֶף וּשְׁבַ֣ע מֵא֑וֹת מִלְּבַ֥ד הַמֵּתִ֖ים עַל־ דְּבַר־ קֹֽרַח׃"
+pericope: "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4046]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H7141I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:49**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah.
 <small><sub>**BSB:**</sub></small>
 But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֗וּ]] [[H9009\|הַ]][[H4191\|מֵּתִים֙]] [[H9003\|בַּ]][[H4046\|מַּגֵּפָ֔ה]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַ֣ע]] [[H3967\|מֵא֑וֹת]] [[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַ֥ד]] [[H9009\|הַ]][[H4191\|מֵּתִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H1697I\|דְּבַר]][[H9014\|־]] [[H7141I\|קֹֽרַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.48|<< Numbers 16:48]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.50|Numbers 16:50 >>]]</td></tr></table>
 

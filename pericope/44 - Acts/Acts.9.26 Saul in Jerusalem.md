@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul in Jerusalem
+type: Pericope
 pericope: "[[Acts.9.26 Saul in Jerusalem|Saul in Jerusalem]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.9.26]]"
 - "[[Acts.9.27]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.9.30]]"
 ---
 
-[[Acts.9|Acts 9:26 - Acts 9:30]]
+<small>[[Acts.9|Acts 9:26-30]]</small>
 *Saul in Jerusalem*
 
 [[Acts.9.26|26]] And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.

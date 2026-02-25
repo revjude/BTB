@@ -1,8 +1,55 @@
+---
+title: Jeremiah 51:42
+type: Verse
+kjv: "The sea is come up upon Babylon: she is covered with the multitude of the waves thereof."
+bsb: "The sea has come up over Babylon; she is covered in turbulent waves."
+hebrew: "עָלָ֥ה עַל־ בָּבֶ֖ל הַיָּ֑ם בַּהֲמ֥וֹן גַּלָּ֖יו נִכְסָֽתָה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H1995A]]"
+- "[[H1530H]]"
+- "[[H9023]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:42**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sea is come up upon Babylon: she is covered with the multitude of the waves thereof.
 <small><sub>**BSB:**</sub></small>
 The sea has come up over Babylon; she is covered in turbulent waves.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עָלָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9003\|בַּ]][[H1995A\|הֲמ֥וֹן]] [[H1530H\|גַּלָּ֖י]][[H9023\|ו]] [[H3680\|נִכְסָֽתָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.41|<< Jeremiah 51:41]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.43|Jeremiah 51:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

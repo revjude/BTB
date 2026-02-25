@@ -1,8 +1,52 @@
+---
+title: Proverbs 15:10
+type: Verse
+kjv: "Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die."
+bsb: "Discipline is harsh for him who leaves the path; he who hates correction will die."
+hebrew: "מוּסָ֣ר רָ֭ע לְעֹזֵ֣ב אֹ֑רַח שׂוֹנֵ֖א תוֹכַ֣חַת יָמֽוּת׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4148G]]"
+- "[[H7451A]]"
+- "[[H9005]]"
+- "[[H5800A]]"
+- "[[H0734]]"
+- "[[H8130]]"
+- "[[H8433B]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:10**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Correction [is] grievous unto him that forsaketh the way: [and] he that hateth reproof shall die.
 <small><sub>**BSB:**</sub></small>
 Discipline is harsh for him who leaves the path; he who hates correction will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H4148G\|מוּסָ֣ר]] [[H7451A\|רָ֭ע]] [[H9005\|לְ]][[H5800A\|עֹזֵ֣ב]] [[H0734\|אֹ֑רַח]] [[H8130\|שׂוֹנֵ֖א]] [[H8433B\|תוֹכַ֣חַת]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic PRIDE|PRIDE]] • [[topic REPROOF|REPROOF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.9|<< Proverbs 15:9]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.11|Proverbs 15:11 >>]]</td></tr></table>
 

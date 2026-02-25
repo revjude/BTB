@@ -1,8 +1,71 @@
+---
+title: Esther 8:11
+type: Verse
+kjv: "Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,"
+bsb: "By these letters the king permitted the Jews in each and every city the right to assemble and defend themselves, to destroy, kill, and annihilate all the forces of any people or province hostile to them, including women and children, and to plunder their possessions."
+hebrew: "אֲשֶׁר֩ נָתַ֨ן הַמֶּ֜לֶךְ לַיְּהוּדִ֣ים׀ אֲשֶׁ֣ר בְּכָל־ עִיר־ וָעִ֗יר לְהִקָּהֵל֮ וְלַעֲמֹ֣ד עַל־ נַפְשָׁם֒ לְהַשְׁמִיד֩ וְלַהֲרֹ֨ג וּלְאַבֵּ֜ד אֶת־ כָּל־ חֵ֨יל עַ֧ם וּמְדִינָ֛ה הַצָּרִ֥ים אֹתָ֖ם טַ֣ף וְנָשִׁ֑ים וּשְׁלָלָ֖ם לָבֽוֹז׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+strongs:
+- "[[H0834A]]"
+- "[[H5414K]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H6950]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H8045]]"
+- "[[H2026]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H2428A]]"
+- "[[H5971A]]"
+- "[[H4082]]"
+- "[[H6696B]]"
+- "[[H9038]]"
+- "[[H2945]]"
+- "[[H0802G]]"
+- "[[H7998]]"
+- "[[H0962]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:11**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherein the king granted the Jews which [were] in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, [both] little ones and women, and [to take] the spoil of them for a prey,
 <small><sub>**BSB:**</sub></small>
 By these letters the king permitted the Jews in each and every city the right to assemble and defend themselves, to destroy, kill, and annihilate all the forces of any people or province hostile to them, including women and children, and to plunder their possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר֩]] [[H5414K\|נָתַ֨ן]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לַ]][[H3064\|יְּהוּדִ֣ים]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עִיר]][[H9014\|־]] [[H9002\|וָ]][[H5892B\|עִ֗יר]] [[H9005\|לְ]][[H6950\|הִקָּהֵל֮]] [[H9002\|וְ]][[H9005\|לַ]][[H5975G\|עֲמֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נַפְשָׁ]][[H9028\|ם֒]] [[H9005\|לְ]][[H8045\|הַשְׁמִיד֩]] [[H9002\|וְ]][[H9005\|לַ]][[H2026\|הֲרֹ֨ג]] [[H9002\|וּ]][[H9005\|לְ]][[H0006\|אַבֵּ֜ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2428A\|חֵ֨יל]] [[H5971A\|עַ֧ם]] [[H9002\|וּ]][[H4082\|מְדִינָ֛ה]] [[H9009\|הַ]][[H6696B\|צָּרִ֥ים]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H2945\|טַ֣ף]] [[H9002\|וְ]][[H0802G\|נָשִׁ֑ים]] [[H9002\|וּ]][[H7998\|שְׁלָלָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H0962\|בֽוֹז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROCLAMATION|PROCLAMATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.10|<< Esther 8:10]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.12|Esther 8:12 >>]]</td></tr></table>
 

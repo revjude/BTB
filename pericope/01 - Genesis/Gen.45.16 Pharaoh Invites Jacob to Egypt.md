@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pharaoh Invites Jacob to Egypt
+type: Pericope
 pericope: "[[Gen.45.16 Pharaoh Invites Jacob to Egypt|Pharaoh Invites Jacob to Egypt]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 45
 book/chapter: "[[Gen.45|Genesis 45]]"
-genre:
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.45.16]]"
 - "[[Gen.45.17]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.45.24]]"
 ---
 
-[[Gen.45|Genesis 45:16 - Genesis 45:24]]
+<small>[[Gen.45|Genesis 45:16-24]]</small>
 *Pharaoh Invites Jacob to Egypt*
 
 [[Gen.45.16|16]] And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants.

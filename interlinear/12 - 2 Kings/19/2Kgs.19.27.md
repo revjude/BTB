@@ -1,8 +1,55 @@
+---
+title: 2 Kings 19:27
+type: Verse
+kjv: "But I know thy abode, and thy going out, and thy coming in, and thy rage against me."
+bsb: "But I know your sitting down, your going out and coming in, and your raging against Me."
+hebrew: "וְשִׁבְתְּךָ֛ וְצֵאתְךָ֥ וּבֹאֲךָ֖ יָדָ֑עְתִּי וְאֵ֖ת הִֽתְרַגֶּזְךָ֥ אֵלָֽי׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SECRET|SECRET]]"
+strongs:
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H7264]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:27**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I know thy abode, and thy going out, and thy coming in, and thy rage against me.
 <small><sub>**BSB:**</sub></small>
 But I know your sitting down, your going out and coming in, and your raging against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3427\|שִׁבְתְּ]][[H9041\|ךָ֛]] [[H9002\|וְ]][[H3318G\|צֵאתְ]][[H9041\|ךָ֥]] [[H9002\|וּ]][[H0935G\|בֹאֲ]][[H9041\|ךָ֖]] [[H3045\|יָדָ֑עְתִּי]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H7264\|הִֽתְרַגֶּזְ]][[H9041\|ךָ֥]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic SECRET|SECRET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.26|<< 2 Kings 19:26]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.28|2 Kings 19:28 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 15:24
+type: Verse
+kjv: "And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city."
+bsb: "Zadok was also there, and all the Levites with him were carrying the ark of the covenant of God. And they set down the ark of God, and Abiathar offered sacrifices until all the people had passed out of the city."
+hebrew: "וְהִנֵּ֨ה גַם־ צָד֜וֹק וְכָֽל־ הַלְוִיִּ֣ם אִתּ֗וֹ נֹֽשְׂאִים֙ אֶת־ אֲרוֹן֙ בְּרִ֣ית הָאֱלֹהִ֔ים וַיַּצִּ֙קוּ֙ אֶת־ אֲר֣וֹן הָאֱלֹהִ֔ים וַיַּ֖עַל אֶבְיָתָ֑ר עַד־ תֹּ֥ם כָּל־ הָעָ֖ם לַעֲב֥וֹר מִן־ הָעִֽיר׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6659G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H3332I]]"
+- "[[H5927G]]"
+- "[[H0054]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H4480A]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:24**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And lo Zadok also, and all the Levites [were] with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
 <small><sub>**BSB:**</sub></small>
 Zadok was also there, and all the Levites with him were carrying the ark of the covenant of God. And they set down the ark of God, and Abiathar offered sacrifices until all the people had passed out of the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H1571\|גַם]][[H9014\|־]] [[H6659G\|צָד֜וֹק]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֣ם]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H5375H\|נֹֽשְׂאִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲרוֹן֙]] [[H1285\|בְּרִ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H3332I\|יַּצִּ֙קוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H5927G\|יַּ֖עַל]] [[H0054\|אֶבְיָתָ֑ר]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לַ]][[H5674A\|עֲב֥וֹר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.23|<< 2 Samuel 15:23]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.25|2 Samuel 15:25 >>]]</td></tr></table>
 

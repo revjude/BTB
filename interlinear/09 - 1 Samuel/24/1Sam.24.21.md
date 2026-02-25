@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 24:21
+type: Verse
+kjv: "Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house."
+bsb: "So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.”"
+hebrew: "וְעַתָּ֗ה הִשָּׁ֤בְעָה לִּי֙ בַּֽיהוָ֔ה אִם־ תַּכְרִ֥ית אֶת־ זַרְעִ֖י אַֽחֲרָ֑י וְאִם־ תַּשְׁמִ֥יד אֶת־ שְׁמִ֖י מִבֵּ֥ית אָבִֽי׃"
+pericope: "[[1Sam.24.16 David’s Oath to Saul|David’s Oath to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OATH|OATH]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7650]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H2233H]]"
+- "[[H9020]]"
+- "[[H0310A]]"
+- "[[H8045]]"
+- "[[H8034]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:21**<big><big>[[1Sam.24.16 David’s Oath to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.
 <small><sub>**BSB:**</sub></small>
 So now, swear to me by the LORD that you will not cut off my descendants or wipe out my name from my father’s house.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H7650\|הִשָּׁ֤בְעָ]][[H9012\|ה]] [[H9005\|לִּ]][[H9030\|י֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H3772I\|תַּכְרִ֥ית]] [[H0853\|אֶת]][[H9014\|־]] [[H2233H\|זַרְעִ֖]][[H9020\|י]] [[H0310A\|אַֽחֲרָ֑]][[H9030\|י]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H8045\|תַּשְׁמִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9006\|מִ]][[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.20|<< 1 Samuel 24:20]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.22|1 Samuel 24:22 >>]]</td></tr></table>
 

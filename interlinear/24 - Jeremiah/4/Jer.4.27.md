@@ -1,8 +1,60 @@
+---
+title: Jeremiah 4:27
+type: Verse
+kjv: "For thus hath the LORD said, The whole land shall be desolate; yet will I not make a full end."
+bsb: "For this is what the LORD says: “The whole land will be desolate, but I will not finish its destruction."
+hebrew: "כִּי־ כֹה֙ אָמַ֣ר יְהוָ֔ה שְׁמָמָ֥ה תִהְיֶ֖ה כָּל־ הָאָ֑רֶץ וְכָלָ֖ה לֹ֥א אֶעֱשֶֽׂה׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H8077A]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3617]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:27**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus hath the LORD said, The whole land shall be desolate; yet will I not make a full end.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “The whole land will be desolate, but I will not finish its destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H8077A\|שְׁמָמָ֥ה]] [[H1961\|תִהְיֶ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3617\|כָלָ֖ה]] [[H3808\|לֹ֥א]] [[H6213H\|אֶעֱשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.26|<< Jeremiah 4:26]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.28|Jeremiah 4:28 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Numbers 3:28
+type: Verse
+kjv: "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary."
+bsb: "The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary."
+hebrew: "בְּמִסְפַּר֙ כָּל־ זָכָ֔ר מִבֶּן־ חֹ֖דֶשׁ וָמָ֑עְלָה שְׁמֹנַ֤ת אֲלָפִים֙ וְשֵׁ֣שׁ מֵא֔וֹת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃"
+pericope: "[[Num.3.27 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2320G]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H8083]]"
+- "[[H0505G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:28**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the number of all the males, from a month old and upward, [were] eight thousand and six hundred, keeping the charge of the sanctuary.
 <small><sub>**BSB:**</sub></small>
 The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H4557\|מִסְפַּר֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2320G\|חֹ֖דֶשׁ]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H8083\|שְׁמֹנַ֤ת]] [[H0505G\|אֲלָפִים֙]] [[H9002\|וְ]][[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H8104H\|שֹׁמְרֵ֖י]] [[H4931\|מִשְׁמֶ֥רֶת]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CENSUS|CENSUS]] • [[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.27|<< Numbers 3:27]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.29|Numbers 3:29 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Isaiah 40:7
+type: Verse
+kjv: "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people is grass."
+bsb: "The grass withers and the flowers fall when the breath of the LORD blows on them; indeed, the people are grass."
+hebrew: "יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם׃"
+pericope: "[[Isa.40.6 The Enduring Word|The Enduring Word]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H3001]]"
+- "[[H2682A]]"
+- "[[H5034B]]"
+- "[[H6731A]]"
+- "[[H3588A]]"
+- "[[H7307H]]"
+- "[[H3068G]]"
+- "[[H5380]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0403]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:7**<big><big>[[Isa.40.6 The Enduring Word|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people [is] grass.
 <small><sub>**BSB:**</sub></small>
 The grass withers and the flowers fall when the breath of the LORD blows on them; indeed, the people are grass.
+<small><sub>**Hebrew:**</sub></small>
+[[H3001\|יָבֵ֤שׁ]] [[H2682A\|חָצִיר֙]] [[H5034B\|נָ֣בֵֽל]] [[H6731A\|צִ֔יץ]] [[H3588A\|כִּ֛י]] [[H7307H\|ר֥וּחַ]] [[H3068G\|יְהוָ֖ה]] [[H5380\|נָ֣שְׁבָה]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H0403\|אָכֵ֥ן]] [[H2682A\|חָצִ֖יר]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.6|<< Isaiah 40:6]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.8|Isaiah 40:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

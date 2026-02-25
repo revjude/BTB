@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Final Appeal
+type: Pericope
 pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
-verse_count: 40
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 31
 book/chapter: "[[Job.31|Job 31]]"
-genre:
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 40
 verses:
 - "[[Job.31.1]]"
 - "[[Job.31.2]]"
@@ -59,7 +66,7 @@ verses:
 - "[[Job.31.40]]"
 ---
 
-[[Job.31|Job 31:1 - Job 31:40]]
+<small>[[Job.31|Job 31:1-40]]</small>
 *Job’s Final Appeal*
 
 [[Job.31.1|1]] I made a covenant with mine eyes; why then should I think upon a maid?

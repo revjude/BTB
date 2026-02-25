@@ -1,8 +1,52 @@
+---
+title: Job 16:22
+type: Verse
+kjv: "When a few years are come, then I shall go the way whence I shall not return."
+bsb: "For when only a few years are past I will go the way of no return."
+hebrew: "כִּֽי־ שְׁנ֣וֹת מִסְפָּ֣ר יֶאֱתָ֑יוּ וְאֹ֖רַח לֹא־ אָשׁ֣וּב אֶהֱלֹֽךְ׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H4557]]"
+- "[[H0857]]"
+- "[[H9002]]"
+- "[[H0734]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:22**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a few years are come, then I shall go the way [whence] I shall not return.
 <small><sub>**BSB:**</sub></small>
 For when only a few years are past I will go the way of no return.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8141\|שְׁנ֣וֹת]] [[H4557\|מִסְפָּ֣ר]] [[H0857\|יֶאֱתָ֑יוּ]] [[H9002\|וְ]][[H0734\|אֹ֖רַח]] [[H3808\|לֹא]][[H9014\|־]] [[H7725G\|אָשׁ֣וּב]] [[H1980G\|אֶהֱלֹֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.21|<< Job 16:21]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.1|Job 17:1 >>]]</td></tr></table>
 

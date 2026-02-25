@@ -1,8 +1,68 @@
+---
+title: Joshua 21:27
+type: Verse
+kjv: "And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities."
+bsb: "This is what the Levite clans of the Gershonites were given: From the half-tribe of Manasseh they were given Golan in Bashan, a city of refuge for the manslayer, and Beeshterah—two cities, together with their pasturelands."
+hebrew: "וְלִבְנֵ֣י גֵרְשׁוֹן֮ מִמִּשְׁפְּחֹ֣ת הַלְוִיִּם֒ מֵחֲצִ֞י מַטֵּ֣ה מְנַשֶּׁ֗ה אֶת־ עִיר֙ מִקְלַ֣ט הָרֹצֵ֔חַ אֶת־ גּוֹלָ֤ן בַּבָּשָׁן֙ וְאֶת־ מִגְרָשֶׁ֔הָ וְאֶֽת־ בְּעֶשְׁתְּרָ֖ה וְאֶת־ מִגְרָשֶׁ֑הָ עָרִ֖ים שְׁתָּֽיִם׃ ס"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BEESH-TERAH|BEESH-TERAH]]"
+- "[[topic GOLAN|GOLAN]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H1648]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H2677]]"
+- "[[H4294H]]"
+- "[[H4519G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4733]]"
+- "[[H7523]]"
+- "[[H1474]]"
+- "[[H9003]]"
+- "[[H1316]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H1203]]"
+- "[[H8147]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 21:27**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto the children of Gershon, of the families of the Levites, out of the [other] half tribe of Manasseh [they gave] Golan in Bashan with her suburbs, [to be] a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.
 <small><sub>**BSB:**</sub></small>
 This is what the Levite clans of the Gershonites were given: From the half-tribe of Manasseh they were given Golan in Bashan, a city of refuge for the manslayer, and Beeshterah—two cities, together with their pasturelands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H1648\|גֵרְשׁוֹן֮]] [[H9006\|מִ]][[H4940\|מִּשְׁפְּחֹ֣ת]] [[H9009\|הַ]][[H3881\|לְוִיִּם֒]] [[H9006\|מֵ]][[H2677\|חֲצִ֞י]] [[H4294H\|מַטֵּ֣ה]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עִיר֙]] [[H4733\|מִקְלַ֣ט]] [[H9009\|הָ]][[H7523\|רֹצֵ֔חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1474\|גּוֹלָ֤ן]] [[H9003\|בַּ]][[H1316\|בָּשָׁן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֔]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H1203\|בְּעֶשְׁתְּרָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֑]][[H9024\|הָ]] [[H5892B\|עָרִ֖ים]] [[H8147\|שְׁתָּֽיִם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEESH-TERAH|BEESH-TERAH]] • [[topic GOLAN|GOLAN]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
@@ -29,7 +89,7 @@ This is what the Levite clans of the Gershonites were given: From the half-tribe
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pasture lands its  |**<big>&#8207;[[H4054\|מִגְרָשֶׁ֑]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| mig.ra.She.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֖ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| two  |**<big>&#8207;[[H8147\|שְׁתָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| two  |**<big>&#8207;[[H8147\|שְׁתָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
 [^1]: Galon  | **<big>[[H1474|גָּלוֹן]]</big> ** | ga.lon<small><sup>[[HNpl]]</sup></small> | K

@@ -1,10 +1,61 @@
+---
+title: Revelation 19:14
+type: Verse
+kjv: "And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean."
+bsb: "The armies of heaven, dressed in fine linen, white and pure, follow Him on white horses."
+greek: "καὶ τὰ στρατεύματα τὰ ἐν τῷ οὐρανῷ ἠκολούθει αὐτῷ ἐφ᾽ ἵπποις λευκοῖς ἐνδεδυμένοι βύσσινον λευκὸν καὶ καθαρόν."
+pericope: "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4753]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2462]]"
+- "[[G3022]]"
+- "[[G1746]]"
+- "[[G1039]]"
+- "[[G2513]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 19:14**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the armies [which were] in heaven followed him upon white horses, clothed in fine linen, white and clean.
 <small><sub>**BSB:**</sub></small>
 The armies of heaven, dressed in fine linen, white and pure, follow Him on white horses.
-<small><sub>**Literal:**</sub></small>
-And the armies who were in <the> heaven were following after Him upon horses white having clothed themselves in fine linen white and pure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.13|<< Revelation 19:13]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.15|Revelation 19:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4753\|στρατεύματα]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G0190\|ἠκολούθει]]  [[G0846\|αὐτῷ]]  [[G1909\|ἐφ᾽]]  [[G2462\|ἵπποις]]  [[G3022\|λευκοῖς]]  [[G1746\|ἐνδεδυμένοι]]  [[G1039\|βύσσινον]]  [[G3022\|λευκὸν]]  [[G2532\|καὶ]]  [[G2513\|καθαρόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic COLORS|COLORS]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LINEN|LINEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.13|<< Revelation 19:13]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.15|Revelation 19:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

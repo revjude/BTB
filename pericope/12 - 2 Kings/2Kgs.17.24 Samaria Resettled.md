@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samaria Resettled
+type: Pericope
 pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 17
 book/chapter: "[[2Kgs.17|2 Kings 17]]"
-genre:
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 18
 verses:
 - "[[2Kgs.17.24]]"
 - "[[2Kgs.17.25]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Kgs.17.41]]"
 ---
 
-[[2Kgs.17|2 Kings 17:24 - 2 Kings 17:41]]
+<small>[[2Kgs.17|2 Kings 17:24-41]]</small>
 *Samaria Resettled*
 
 [[2Kgs.17.24|24]] And the king of Assyria brought \[men\] from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed \[them\] in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.

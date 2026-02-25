@@ -1,8 +1,61 @@
+---
+title: Isaiah 36:17
+type: Verse
+kjv: "Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards."
+bsb: "until I come and take you away to a land like your own—a land of grain and new wine, a land of bread and vineyards."
+hebrew: "עַד־ בֹּאִ֕י וְלָקַחְתִּ֥י אֶתְכֶ֖ם אֶל־ אֶ֣רֶץ כְּאַרְצְכֶ֑ם אֶ֤רֶץ דָּגָן֙ וְתִיר֔וֹשׁ אֶ֥רֶץ לֶ֖חֶם וּכְרָמִֽים׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9040]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H9026]]"
+- "[[H1715]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H3899H]]"
+- "[[H3754]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:17**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.
 <small><sub>**BSB:**</sub></small>
 until I come and take you away to a land like your own—a land of grain and new wine, a land of bread and vineyards.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאִ֕]][[H9040\|י]] [[H9001\|וְ]][[H3947G\|לָקַחְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9004\|כְּ]][[H0776G\|אַרְצְ]][[H9026\|כֶ֑ם]] [[H0776G\|אֶ֤רֶץ]] [[H1715\|דָּגָן֙]] [[H9002\|וְ]][[H8492\|תִיר֔וֹשׁ]] [[H0776G\|אֶ֥רֶץ]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וּ]][[H3754\|כְרָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.16|<< Isaiah 36:16]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.18|Isaiah 36:18 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Luke 1:22
+type: Verse
+kjv: "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless."
+bsb: "When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained unable to speak."
+greek: "ἐξελθὼν δὲ οὐκ ἐδύνατο λαλῆσαι αὐτοῖς· καὶ ἐπέγνωσαν ὅτι ὀπτασίαν ἑώρακεν ἐν τῷ ναῷ. καὶ αὐτὸς ἦν διανεύων αὐτοῖς καὶ διέμενεν κωφός.¶"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G3701]]"
+- "[[G3708]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G1510]]"
+- "[[G1269]]"
+- "[[G1265]]"
+- "[[G2974]]"
+texts:
+- NKO
+---
+
 **Luke 1:22**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.
 <small><sub>**BSB:**</sub></small>
 When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained unable to speak.
-<small><sub>**Literal:**</sub></small>
-Having come out then not he was able to speak to them; and they recognized that a vision he has seen in the temple. And he himself was making signs to them and was remaining mute.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.21|<< Luke 1:21]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.23|Luke 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξελθὼν]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1410\|ἐδύνατο]]  [[G2980\|λαλῆσαι]]  [[G0846\|αὐτοῖς·]]  [[G2532\|καὶ]]  [[G1921\|ἐπέγνωσαν]]  [[G3754G\|ὅτι]]  [[G3701\|ὀπτασίαν]]  [[G3708\|ἑώρακεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3485\|ναῷ.]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G1269\|διανεύων]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G1265\|διέμενεν]]  [[G2974\|κωφός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.21|<< Luke 1:21]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.23|Luke 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

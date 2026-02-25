@@ -1,10 +1,61 @@
+---
+title: Mark 11:25
+type: Verse
+kjv: "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses."
+bsb: "And when you stand to pray, if you hold anything against another, forgive it, so that your Father in heaven will forgive your trespasses as well.”"
+jesus_said: "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses."
+greek: "καὶ ὅταν στήκετε προσευχόμενοι, ἀφίετε εἴ τι ἔχετε κατά τινος ἵνα καὶ ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς ἀφῇ ὑμῖν τὰ παραπτώματα ὑμῶν."
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G4739]]"
+- "[[G4336]]"
+- "[[G0863H]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2192]]"
+- "[[G2596]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3900]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 11:25**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
 <small><sub>**BSB:**</sub></small>
 And when you stand to pray, if you hold anything against another, forgive it, so that your Father in heaven will forgive your trespasses as well.”
-<small><sub>**Literal:**</sub></small>
-And when you stand praying, do forgive if anything you have against anyone so that also the Father of you who [is] in the heavens may forgive you the trespasses of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.24|<< Mark 11:24]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.26|Mark 11:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G4739\|στήκετε]]  [[G4336\|προσευχόμενοι,]]  [[G0863H\|ἀφίετε]]  [[G1487G\|εἴ]]  [[G5100\|τι]]  [[G2192\|ἔχετε]]  [[G2596\|κατά]]  [[G5100\|τινος]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G0863H\|ἀφῇ]]  [[G4771\|ὑμῖν]]  [[G3588\|τὰ]]  [[G3900\|παραπτώματα]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.24|<< Mark 11:24]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.26|Mark 11:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

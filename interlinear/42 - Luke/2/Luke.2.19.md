@@ -1,10 +1,54 @@
+---
+title: Luke 2:19
+type: Verse
+kjv: "But Mary kept all these things, and pondered them in her heart."
+bsb: "But Mary treasured up all these things and pondered them in her heart."
+greek: "Ἡ δὲ Μαριὰμ πάντα συνετήρει τὰ ῥήματα ταῦτα συμβάλλουσα ἐν τῇ καρδίᾳ αὐτῆς."
+pericope: "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3137G]]"
+- "[[G3956]]"
+- "[[G4933]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G4820]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 2:19**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Mary kept all these things, and pondered [them] in her heart.
 <small><sub>**BSB:**</sub></small>
 But Mary treasured up all these things and pondered them in her heart.
-<small><sub>**Literal:**</sub></small>
-<the> But Mary all was treasuring up <the> declarations these pondering [them] in the heart of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.18|<< Luke 2:18]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.20|Luke 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G1161\|δὲ]]  [[G3137G\|Μαριὰμ]]  [[G3956\|πάντα]]  [[G4933\|συνετήρει]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3778\|ταῦτα]]  [[G4820\|συμβάλλουσα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.18|<< Luke 2:18]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.20|Luke 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

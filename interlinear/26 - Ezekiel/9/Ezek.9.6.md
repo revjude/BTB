@@ -1,8 +1,75 @@
+---
+title: Ezekiel 9:6
+type: Verse
+kjv: "Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house."
+bsb: "Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary.” So they began with the elders who were before the temple."
+hebrew: "זָקֵ֡ן בָּח֣וּר וּבְתוּלָה֩ וְטַ֨ף וְנָשִׁ֜ים תַּהַרְג֣וּ לְמַשְׁחִ֗ית וְעַל־ כָּל־ אִ֨ישׁ אֲשֶׁר־ עָלָ֤יו הַתָּו֙ אַל־ תִּגַּ֔שׁוּ וּמִמִּקְדָּשִׁ֖י תָּחֵ֑לּוּ וַיָּחֵ֙לּוּ֙ בָּאֲנָשִׁ֣ים הַזְּקֵנִ֔ים אֲשֶׁ֖ר לִפְנֵ֥י הַבָּֽיִת׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2205H]]"
+- "[[H0970]]"
+- "[[H9002]]"
+- "[[H1330]]"
+- "[[H2945]]"
+- "[[H0802G]]"
+- "[[H2026]]"
+- "[[H9005]]"
+- "[[H4889]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H8420]]"
+- "[[H0408]]"
+- "[[H5066G]]"
+- "[[H9006]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H2490C]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H2205G]]"
+- "[[H6440G]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 9:6**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Slay utterly old [and] young, both maids, and little children, and women: but come not near any man upon whom [is] the mark; and begin at my sanctuary. Then they began at the ancient men which [were] before the house.
 <small><sub>**BSB:**</sub></small>
 Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary.” So they began with the elders who were before the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H2205H\|זָקֵ֡ן]] [[H0970\|בָּח֣וּר]] [[H9002\|וּ]][[H1330\|בְתוּלָה֩]] [[H9002\|וְ]][[H2945\|טַ֨ף]] [[H9002\|וְ]][[H0802G\|נָשִׁ֜ים]] [[H2026\|תַּהַרְג֣וּ]] [[H9005\|לְ]][[H4889\|מַשְׁחִ֗ית]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עָלָ֤י]][[H9033\|ו]] [[H9009\|הַ]][[H8420\|תָּו֙]] [[H0408\|אַל]][[H9014\|־]] [[H5066G\|תִּגַּ֔שׁוּ]] [[H9002\|וּ]][[H9006\|מִ]][[H4720\|מִּקְדָּשִׁ֖]][[H9020\|י]] [[H2490C\|תָּחֵ֑לּוּ]] [[H9001\|וַ]][[H2490C\|יָּחֵ֙לּוּ֙]] [[H9003\|בָּ]][[H0582\|אֲנָשִׁ֣ים]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

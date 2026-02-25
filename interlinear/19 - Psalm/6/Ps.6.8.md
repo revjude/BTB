@@ -1,8 +1,62 @@
+---
+title: Psalm 6:8
+type: Verse
+kjv: "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping."
+bsb: "Depart from me, all you workers of iniquity, for the LORD has heard my weeping."
+hebrew: "ס֣וּרוּ מִ֭מֶּנִּי כָּל־ פֹּ֣עֲלֵי אָ֑וֶן כִּֽי־ שָׁמַ֥ע יְ֝הוָ֗ה ק֣וֹל בִּכְיִֽי׃"
+pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 6
+book/chapter: "[[Ps.6|Psalm 6]]"
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H6963H]]"
+- "[[H1065]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 6:8**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.
 <small><sub>**BSB:**</sub></small>
 Depart from me, all you workers of iniquity, for the LORD has heard my weeping.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493H\|ס֣וּרוּ]] [[H4480A\|מִ֭מֶּ]][[H9030\|נִּי]] [[H3605\|כָּל]][[H9014\|־]] [[H6466\|פֹּ֣עֲלֵי]] [[H0205G\|אָ֑וֶן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H3068G\|יְ֝הוָ֗ה]] [[H6963H\|ק֣וֹל]] [[H1065\|בִּכְיִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FAITH|FAITH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.7|<< Psalms 6:7]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.9|Psalms 6:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

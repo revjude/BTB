@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Name Forbidden
+type: Pericope
 pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 4
 book/chapter: "[[Acts.4|Acts 4]]"
-genre:
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.4.13]]"
 - "[[Acts.4.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.4.22]]"
 ---
 
-[[Acts.4|Acts 4:13 - Acts 4:22]]
+<small>[[Acts.4|Acts 4:13-22]]</small>
 *The Name Forbidden*
 
 [[Acts.4.13|13]] Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.

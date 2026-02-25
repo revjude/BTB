@@ -1,10 +1,65 @@
+---
+title: Luke 2:26
+type: Verse
+kjv: "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ."
+bsb: "The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ."
+greek: "καὶ ἦν αὐτῷ κεχρηματισμένον ὑπὸ τοῦ πνεύματος τοῦ ἁγίου μὴ ἰδεῖν θάνατον πρὶν ἢ ἂν ἴδῃ τὸν χριστὸν κυρίου"
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G5537]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G2288]]"
+- "[[G4250]]"
+- "[[G2228]]"
+- "[[G0302]]"
+- "[[G5547]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 2:26**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ.
 <small><sub>**BSB:**</sub></small>
 The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ.
-<small><sub>**Literal:**</sub></small>
-And it was to him revealed by the Spirit <the> Holy not to see death before than when he may see the Christ of [the] Lord<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.25|<< Luke 2:25]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.27|Luke 2:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G0846\|αὐτῷ]]  [[G5537\|κεχρηματισμένον]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G3361\|μὴ]]  [[G1492H\|ἰδεῖν]]  [[G2288\|θάνατον]]  [[G4250\|πρὶν]]  [[G2228\|ἢ]]  [[G0302\|ἂν]]  [[G1492H\|ἴδῃ]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G2962G\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PROPHETS|PROPHETS]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.25|<< Luke 2:25]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.27|Luke 2:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

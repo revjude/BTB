@@ -1,8 +1,65 @@
+---
+title: Genesis 36:5
+type: Verse
+kjv: "And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan."
+bsb: "and Oholibamah gave birth to Jeush, Jalam, and Korah. These were the sons of Esau, who were born to him in the land of Canaan."
+hebrew: "וְאָהֳלִֽיבָמָה֙ יָֽלְדָ֔ה אֶת־ יְע֥וּשׁ וְאֶת־ יַעְלָ֖ם וְאֶת־ קֹ֑רַח אֵ֚לֶּה בְּנֵ֣י עֵשָׂ֔ו אֲשֶׁ֥ר יֻלְּדוּ־ ל֖וֹ בְּאֶ֥רֶץ כְּנָֽעַן׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JAALAM|JAALAM]]"
+- "[[topic JEUSH|JEUSH]]"
+- "[[topic KORAH|KORAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0173]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3274]]"
+- "[[H3266G]]"
+- "[[H3281]]"
+- "[[H7141G]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H6215G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 36:5**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aholibamah bare Jeush, and Jaalam, and Korah: these [are] the sons of Esau, which were born unto him in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
 and Oholibamah gave birth to Jeush, Jalam, and Korah. These were the sons of Esau, who were born to him in the land of Canaan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0173\|אָהֳלִֽיבָמָה֙]] [[H3205\|יָֽלְדָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3266G\|יְע֥וּשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3281\|יַעְלָ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7141G\|קֹ֑רַח]] [[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H6215G\|עֵשָׂ֔ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יֻלְּדוּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAALAM|JAALAM]] • [[topic JEUSH|JEUSH]] • [[topic KORAH|KORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.4|<< Genesis 36:4]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.6|Genesis 36:6 >>]]</td></tr></table>
 

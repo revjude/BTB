@@ -1,6 +1,45 @@
+---
+title: LXX 2 Chronicles 8:3
+type: Verse
+lxx: "And Solomon came into Hamath Zobah, and prevailed over it."
+greek: "και ήλθε Σολομών εις Αιμάθ Σουβά και κατίσχυσεν αυτήν"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HAMATH-ZOBAH|HAMATH-ZOBAH]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4672]]"
+- "[[G1519]]"
+- "[[H2574]]"
+- "[[H6678]]"
+- "[[G2532]]"
+- "[[G2729]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Chronicles 8:3** 
 <small><sub>**LXX:**</sub></small>
 And Solomon came into Hamath Zobah, and prevailed over it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|ήλθε]] [[G4672\|Σολομών]] [[G1519\|εις]] [[H2574\|Αιμάθ]] [[H6678\|Σουβά]] [[G2532\|και]] [[G2729\|κατίσχυσεν]] [[G1473\|αυτήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMATH-ZOBAH|HAMATH-ZOBAH]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.2|<< 2 Chronicles 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.4|2 Chronicles 8:4 >>]]</td></tr></table>
 
@@ -14,6 +53,6 @@ And Solomon came into Hamath Zobah, and prevailed over it.
 | and | **<big>[[G2532\|και]]</big>** |
 | prevailed over | **<big>[[G2729\|κατίσχυσεν]]</big>** |
 | it. | **<big>[[G1473\|αυτήν]]</big>** |
-[[2Chr.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.2|<< 2 Chronicles 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.4|2 Chronicles 8:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.2|<< 2 Chronicles 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.4|2 Chronicles 8:4 >>]]</td></tr></table>
 
 

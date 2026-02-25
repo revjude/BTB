@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Return to Egypt with Benjamin
+type: Pericope
 pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 43
 book/chapter: "[[Gen.43|Genesis 43]]"
-genre:
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 15
 verses:
 - "[[Gen.43.1]]"
 - "[[Gen.43.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Gen.43.15]]"
 ---
 
-[[Gen.43|Genesis 43:1 - Genesis 43:15]]
+<small>[[Gen.43|Genesis 43:1-15]]</small>
 *The Return to Egypt with Benjamin*
 
 [[Gen.43.1|1]] And the famine \[was\] sore in the land.

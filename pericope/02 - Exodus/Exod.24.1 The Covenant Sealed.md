@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant Sealed
+type: Pericope
 pericope: "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 24
 book/chapter: "[[Exod.24|Exodus 24]]"
-genre:
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 11
 verses:
 - "[[Exod.24.1]]"
 - "[[Exod.24.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Exod.24.11]]"
 ---
 
-[[Exod.24|Exodus 24:1 - Exodus 24:11]]
+<small>[[Exod.24|Exodus 24:1-11]]</small>
 *The Covenant Sealed*
 
 [[Exod.24.1|1]] And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.

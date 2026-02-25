@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 17:23
+type: Verse
+kjv: "Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said."
+bsb: "And now, O LORD, let the word You have spoken concerning Your servant and his house be established forever. Do as You have promised,"
+hebrew: "וְעַתָּ֣ה יְהוָ֔ה הַדָּבָ֗ר אֲשֶׁ֨ר דִּבַּ֤רְתָּ עַֽל־ עַבְדְּךָ֙ וְעַל־ בֵּית֔וֹ יֵאָמֵ֖ן עַד־ עוֹלָ֑ם וַעֲשֵׂ֖ה כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H0539]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:23**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said.
 <small><sub>**BSB:**</sub></small>
 And now, O LORD, let the word You have spoken concerning Your servant and his house be established forever. Do as You have promised,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבַּ֤רְתָּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H0539\|יֵאָמֵ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9002\|וַ]][[H6213A\|עֲשֵׂ֖ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.22|<< 1 Chronicles 17:22]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.24|1 Chronicles 17:24 >>]]</td></tr></table>
 

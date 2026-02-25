@@ -1,8 +1,55 @@
+---
+title: Hosea 4:16
+type: Verse
+kjv: "For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place."
+bsb: "For Israel is as obstinate as a stubborn heifer. Can the LORD now shepherd them like lambs in an open meadow?"
+hebrew: "כִּ֚י כְּפָרָ֣ה סֹֽרֵרָ֔ה סָרַ֖ר יִשְׂרָאֵ֑ל עַתָּה֙ יִרְעֵ֣ם יְהוָ֔ה כְּכֶ֖בֶשׂ בַּמֶּרְחָֽב׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H6510]]"
+- "[[H5637]]"
+- "[[H3478]]"
+- "[[H6258]]"
+- "[[H7462B]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H3532]]"
+- "[[H9003]]"
+- "[[H4800]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:16**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.
 <small><sub>**BSB:**</sub></small>
 For Israel is as obstinate as a stubborn heifer. Can the LORD now shepherd them like lambs in an open meadow?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H9004\|כְּ]][[H6510\|פָרָ֣ה]] [[H5637\|סֹֽרֵרָ֔ה]] [[H5637\|סָרַ֖ר]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6258\|עַתָּה֙]] [[H7462B\|יִרְעֵ֣]][[H9038\|ם]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כְּ]][[H3532\|כֶ֖בֶשׂ]] [[H9003\|בַּ]][[H4800\|מֶּרְחָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HEIFER|HEIFER]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.15|<< Hosea 4:15]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.17|Hosea 4:17 >>]]</td></tr></table>
 

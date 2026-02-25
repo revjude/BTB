@@ -1,8 +1,79 @@
+---
+title: Joshua 13:3
+type: Verse
+kjv: "From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:"
+bsb: "from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;"
+hebrew: "מִֽן־ הַשִּׁיח֞וֹר אֲשֶׁ֣ר׀ עַל־ פְּנֵ֣י מִצְרַ֗יִם וְעַ֨ד גְּב֤וּל עֶקְרוֹן֙ צָפ֔וֹנָה לַֽכְּנַעֲנִ֖י תֵּחָשֵׁ֑ב חֲמֵ֣שֶׁת׀ סַרְנֵ֣י פְלִשְׁתִּ֗ים הָעַזָּתִ֤י וְהָאַשְׁדּוֹדִי֙ הָאֶשְׁקְלוֹנִ֣י הַגִּתִּ֔י וְהָעֶקְרוֹנִ֖י וְהָעַוִּֽים׃"
+pericope: "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic ASHKELON|ASHKELON]]"
+- "[[topic AVITES|AVITES]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EKRON|EKRON]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic GAZATHITES|GAZATHITES]]"
+- "[[topic GESHUR|GESHUR]]"
+- "[[topic LORD|LORD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SIHOR|SIHOR]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7883G]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1366G]]"
+- "[[H6138]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3669A]]"
+- "[[H2803H]]"
+- "[[H2568]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H5841]]"
+- "[[H0796]]"
+- "[[H0832]]"
+- "[[H1663]]"
+- "[[H6139]]"
+- "[[H5761G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:3**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Sihor, which [is] before Egypt, even unto the borders of Ekron northward, [which] is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
 <small><sub>**BSB:**</sub></small>
 from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)—that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הַ]][[H7883G\|שִּׁיח֞וֹר]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H4714G\|מִצְרַ֗יִם]] [[H9002\|וְ]][[H5704\|עַ֨ד]] [[H1366G\|גְּב֤וּל]] [[H6138\|עֶקְרוֹן֙]] [[H6828G\|צָפ֔וֹנָ]][[H9011\|ה]] [[H9005\|לַֽ]][[H3669A\|כְּנַעֲנִ֖י]] [[H2803H\|תֵּחָשֵׁ֑ב]] [[H2568\|חֲמֵ֣שֶׁת]][[H9015\|׀]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9009\|הָ]][[H5841\|עַזָּתִ֤י]] [[H9002\|וְ]][[H9009\|הָ]][[H0796\|אַשְׁדּוֹדִי֙]] [[H9009\|הָ]][[H0832\|אֶשְׁקְלוֹנִ֣י]] [[H9009\|הַ]][[H1663\|גִּתִּ֔י]] [[H9002\|וְ]][[H9009\|הָ]][[H6139\|עֶקְרוֹנִ֖י]] [[H9002\|וְ]][[H9009\|הָ]][[H5761G\|עַוִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHDOD|ASHDOD]] • [[topic ASHKELON|ASHKELON]] • [[topic AVITES|AVITES]] • [[topic EGYPT|EGYPT]] • [[topic EKRON|EKRON]] • [[topic GATH|GATH]] • [[topic GAZA|GAZA]] • [[topic GAZATHITES|GAZATHITES]] • [[topic GESHUR|GESHUR]] • [[topic LORD|LORD]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SIHOR|SIHOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.2|<< Joshua 13:2]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.4|Joshua 13:4 >>]]</td></tr></table>
 

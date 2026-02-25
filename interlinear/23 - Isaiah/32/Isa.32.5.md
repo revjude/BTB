@@ -1,8 +1,55 @@
+---
+title: Isaiah 32:5
+type: Verse
+kjv: "The vile person shall be no more called liberal, nor the churl said to be bountiful."
+bsb: "No longer will a fool be called noble, nor a scoundrel be respected."
+hebrew: "לֹֽא־ יִקָּרֵ֥א ע֛וֹד לְנָבָ֖ל נָדִ֑יב וּלְכִילַ֕י לֹ֥א יֵֽאָמֵ֖ר שֽׁוֹעַ׃"
+pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5036]]"
+- "[[H5081H]]"
+- "[[H9002]]"
+- "[[H3596]]"
+- "[[H0559]]"
+- "[[H7771A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:5**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The vile person shall be no more called liberal, nor the churl said [to be] bountiful.
 <small><sub>**BSB:**</sub></small>
 No longer will a fool be called noble, nor a scoundrel be respected.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7121H\|יִקָּרֵ֥א]] [[H5750\|ע֛וֹד]] [[H9005\|לְ]][[H5036\|נָבָ֖ל]] [[H5081H\|נָדִ֑יב]] [[H9002\|וּ]][[H9005\|לְ]][[H3596\|כִילַ֕י]] [[H3808\|לֹ֥א]] [[H0559\|יֵֽאָמֵ֖ר]] [[H7771A\|שֽׁוֹעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.4|<< Isaiah 32:4]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.6|Isaiah 32:6 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Jeremiah 34:4
+type: Verse
+kjv: "Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword:"
+bsb: "Yet hear the word of the LORD, O Zedekiah king of Judah. This is what the LORD says concerning you: You will not die by the sword;"
+hebrew: "אַ֚ךְ שְׁמַ֣ע דְּבַר־ יְהוָ֔ה צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה כֹּֽה־ אָמַ֤ר יְהוָה֙ עָלֶ֔יךָ לֹ֥א תָמ֖וּת בֶּחָֽרֶב׃"
+pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H0389]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:4**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword:
 <small><sub>**BSB:**</sub></small>
 Yet hear the word of the LORD, O Zedekiah king of Judah. This is what the LORD says concerning you: You will not die by the sword;
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֚ךְ]] [[H8085G\|שְׁמַ֣ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H3808\|לֹ֥א]] [[H4191\|תָמ֖וּת]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.3|<< Jeremiah 34:3]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.5|Jeremiah 34:5 >>]]</td></tr></table>
 

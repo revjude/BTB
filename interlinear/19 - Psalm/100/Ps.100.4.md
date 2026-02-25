@@ -1,8 +1,61 @@
+---
+title: Psalm 100:4
+type: Verse
+kjv: "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name."
+bsb: "Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name."
+hebrew: "בֹּ֤אוּ שְׁעָרָ֨יו׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ־ ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ׃"
+pericope: "[[Ps.100.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 100
+book/chapter: "[[Ps.100|Psalm 100]]"
+chronological_order: 527
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0935G]]"
+- "[[H8179G]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H8426]]"
+- "[[H2691A]]"
+- "[[H8416]]"
+- "[[H3034]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 100:4**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enter into his gates with thanksgiving, [and] into his courts with praise: be thankful unto him, [and] bless his name.
 <small><sub>**BSB:**</sub></small>
 Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בֹּ֤אוּ]] [[H8179G\|שְׁעָרָ֨י]][[H9023\|ו]][[H9015\|׀]] [[H9003\|בְּ]][[H8426\|תוֹדָ֗ה]] [[H2691A\|חֲצֵרֹתָ֥י]][[H9023\|ו]] [[H9003\|בִּ]][[H8416\|תְהִלָּ֑ה]] [[H3034\|הֽוֹדוּ]][[H9014\|־]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H1288\|בָּרֲכ֥וּ]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.3|<< Psalms 100:3]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.5|Psalms 100:5 >>]]</td></tr></table>
 

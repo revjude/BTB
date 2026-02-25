@@ -1,8 +1,59 @@
+---
+title: Psalm 119:77
+type: Verse
+kjv: "Let thy tender mercies come unto me, that I may live: for thy law is my delight."
+bsb: "May Your compassion come to me, that I may live, for Your law is my delight."
+hebrew: "יְבֹא֣וּנִי רַחֲמֶ֣יךָ וְאֶֽחְיֶ֑ה כִּי־ תֽ֝וֹרָתְךָ֗ שַֽׁעֲשֻׁעָֽי׃"
+pericope: "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9030]]"
+- "[[H7356B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8451]]"
+- "[[H8191]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:77**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy tender mercies come unto me, that I may live: for thy law [is] my delight.
 <small><sub>**BSB:**</sub></small>
 May Your compassion come to me, that I may live, for Your law is my delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|יְבֹא֣וּ]][[H9030\|נִי]] [[H7356B\|רַחֲמֶ֣י]][[H9021\|ךָ]] [[H9002\|וְ]][[H2421\|אֶֽחְיֶ֑ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H8451\|תֽ֝וֹרָתְ]][[H9021\|ךָ֗]] [[H8191\|שַֽׁעֲשֻׁעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.77|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.76|<< Psalms 119:76]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.78|Psalms 119:78 >>]]</td></tr></table>
 

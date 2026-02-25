@@ -1,10 +1,60 @@
+---
+title: John 6:11
+type: Verse
+kjv: "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would."
+bsb: "Then Jesus took the loaves and the fish, gave thanks, and distributed to those who were seated as much as they wanted."
+greek: "ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς μαθηταῖς οἱ δὲ μαθηταὶ τοῖς ἀνακειμένοις, ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον."
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2983]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G0740]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2168]]"
+- "[[G1239]]"
+- "[[G3101]]"
+- "[[G1161]]"
+- "[[G0345]]"
+- "[[G3668]]"
+- "[[G1537]]"
+- "[[G3795]]"
+- "[[G3745]]"
+- "[[G2309]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 6:11**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
 <small><sub>**BSB:**</sub></small>
 Then Jesus took the loaves and the fish, gave thanks, and distributed to those who were seated as much as they wanted.
-<small><sub>**Literal:**</sub></small>
-Took then the loaves <the> Jesus and having given thanks He distributed to the disciples <the> now the disciples to those reclining, likewise also of the fish as much as they were wishing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.10|<< John 6:10]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.12|John 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|ἔλαβεν]]  [[G3767\|οὖν]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2168\|εὐχαριστήσας]]  [[G1239\|διέδωκεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τοῖς]]  [[G0345\|ἀνακειμένοις,]]  [[G3668\|ὁμοίως]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3795\|ὀψαρίων]]  [[G3745\|ὅσον]]  [[G2309\|ἤθελον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.10|<< John 6:10]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.12|John 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bildad：God Punishes the Wicked
+type: Pericope
 pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 18
 book/chapter: "[[Job.18|Job 18]]"
-genre:
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 21
 verses:
 - "[[Job.18.1]]"
 - "[[Job.18.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Job.18.21]]"
 ---
 
-[[Job.18|Job 18:1 - Job 18:21]]
+<small>[[Job.18|Job 18:1-21]]</small>
 *Bildad：God Punishes the Wicked*
 
 [[Job.18.1|1]] Then answered Bildad the Shuhite, and said,

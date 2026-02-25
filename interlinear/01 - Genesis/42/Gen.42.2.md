@@ -1,8 +1,66 @@
+---
+title: Genesis 42:2
+type: Verse
+kjv: "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die."
+bsb: "“Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”"
+hebrew: "וַיֹּ֕אמֶר הִנֵּ֣ה שָׁמַ֔עְתִּי כִּ֥י יֶשׁ־ שֶׁ֖בֶר בְּמִצְרָ֑יִם רְדוּ־ שָׁ֙מָּה֙ וְשִׁבְרוּ־ לָ֣נוּ מִשָּׁ֔ם וְנִחְיֶ֖ה וְלֹ֥א נָמֽוּת׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H7668]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3381]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H7666]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:2**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
 <small><sub>**BSB:**</sub></small>
 “Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּ֣ה]] [[H8085G\|שָׁמַ֔עְתִּי]] [[H3588A\|כִּ֥י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H7668\|שֶׁ֖בֶר]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H3381\|רְדוּ]][[H9014\|־]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H9002\|וְ]][[H7666\|שִׁבְרוּ]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H9002\|וְ]][[H2421\|נִחְיֶ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4191\|נָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.1|<< Genesis 42:1]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.3|Genesis 42:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

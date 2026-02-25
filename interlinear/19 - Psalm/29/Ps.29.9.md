@@ -1,8 +1,63 @@
+---
+title: Psalm 29:9
+type: Verse
+kjv: "The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory."
+bsb: "The voice of the LORD twists the oaks and strips the forests bare. And in His temple all cry, “Glory!”"
+hebrew: "ק֤וֹל יְהוָ֨ה׀ יְחוֹלֵ֣ל אַיָּלוֹת֮ וַֽיֶּחֱשֹׂ֪ף יְעָ֫ר֥וֹת וּבְהֵיכָל֑וֹ כֻּ֝לּ֗וֹ אֹמֵ֥ר כָּבֽוֹד׃"
+pericope: "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 29
+book/chapter: "[[Ps.29|Psalm 29]]"
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ABORTION|ABORTION]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H2342J]]"
+- "[[H0355]]"
+- "[[H9001]]"
+- "[[H2834]]"
+- "[[H3293A]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1964G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H0559]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 29:9**<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of [his] glory.
 <small><sub>**BSB:**</sub></small>
 The voice of the LORD twists the oaks and strips the forests bare. And in His temple all cry, “Glory!”
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֤וֹל]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H2342J\|יְחוֹלֵ֣ל]] [[H0355\|אַיָּלוֹת֮]] [[H9001\|וַֽ]][[H2834\|יֶּחֱשֹׂ֪ף]] [[H3293A\|יְעָ֫ר֥וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H1964G\|הֵיכָל֑]][[H9023\|וֹ]] [[H3605\|כֻּ֝לּ֗]][[H9023\|וֹ]] [[H0559\|אֹמֵ֥ר]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABORTION|ABORTION]] • [[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.8|<< Psalms 29:8]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.10|Psalms 29:10 >>]]</td></tr></table>
 

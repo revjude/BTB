@@ -1,8 +1,62 @@
+---
+title: Leviticus 25:19
+type: Verse
+kjv: "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety."
+bsb: "Then the land will yield its fruit, so that you can eat your fill and dwell in safety in the land."
+hebrew: "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח עָלֶֽיהָ׃"
+pericope: "[[Lev.25.18 The Blessing of Obedience|The Blessing of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H0398]]"
+- "[[H9005]]"
+- "[[H7648]]"
+- "[[H3427]]"
+- "[[H0983]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:19**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.
 <small><sub>**BSB:**</sub></small>
 Then the land will yield its fruit, so that you can eat your fill and dwell in safety in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתְנָ֤ה]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H6529\|פִּרְיָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֖ם]] [[H9005\|לָ]][[H7648\|שֹׂ֑בַע]] [[H9001\|וִֽ]][[H3427\|ישַׁבְתֶּ֥ם]] [[H9005\|לָ]][[H0983\|בֶ֖טַח]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.18|<< Leviticus 25:18]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.20|Leviticus 25:20 >>]]</td></tr></table>
 

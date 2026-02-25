@@ -1,8 +1,62 @@
+---
+title: Amos 2:10
+type: Verse
+kjv: "Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite."
+bsb: "And I brought you up from the land of Egypt and led you forty years in the wilderness, that you might take possession of the land of the Amorite."
+hebrew: "וְאָנֹכִ֛י הֶעֱלֵ֥יתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וָאוֹלֵ֨ךְ אֶתְכֶ֤ם בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה לָרֶ֖שֶׁת אֶת־ אֶ֥רֶץ הָאֱמֹרִֽי׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:10**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
 <small><sub>**BSB:**</sub></small>
 And I brought you up from the land of Egypt and led you forty years in the wilderness, that you might take possession of the land of the Amorite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָנֹכִ֛י]] [[H5927H\|הֶעֱלֵ֥יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וָ]][[H1980J\|אוֹלֵ֨ךְ]] [[H0853\|אֶתְ]][[H9036\|כֶ֤ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לָ]][[H3423H\|רֶ֖שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H9009\|הָ]][[H0567\|אֱמֹרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.9|<< Amos 2:9]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.11|Amos 2:11 >>]]</td></tr></table>
 

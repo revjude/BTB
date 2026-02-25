@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 31:26
+type: Verse
+kjv: "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee."
+bsb: "“Take this Book of the Law and place it beside the ark of the covenant of the LORD your God, so that it may remain there as a witness against you."
+hebrew: "לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית־ יְהוָ֖ה אֱלֹהֵיכֶ֑ם וְהָֽיָה־ שָׁ֥ם בְּךָ֖ לְעֵֽד׃"
+pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H5612H]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6654]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:26**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee.
 <small><sub>**BSB:**</sub></small>
 “Take this Book of the Law and place it beside the ark of the covenant of the LORD your God, so that it may remain there as a witness against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|לָקֹ֗חַ]] [[H0853\|אֵ֣ת]] [[H5612H\|סֵ֤פֶר]] [[H9009\|הַ]][[H8451\|תּוֹרָה֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וְ]][[H7760H\|שַׂמְתֶּ֣ם]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H6654\|צַּ֛ד]] [[H0727\|אֲר֥וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H1961\|הָֽיָה]][[H9014\|־]] [[H8033G\|שָׁ֥ם]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H5707\|עֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic LAW|LAW]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.25|<< Deuteronomy 31:25]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.27|Deuteronomy 31:27 >>]]</td></tr></table>
 

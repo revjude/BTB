@@ -1,8 +1,65 @@
+---
+title: Genesis 42:24
+type: Verse
+kjv: "And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes."
+bsb: "And he turned away from them and wept. When he turned back and spoke to them, he took Simeon from them and had him bound before their eyes."
+hebrew: "וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙ אֶת־ שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1058]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H1696G]]"
+- "[[H3947G]]"
+- "[[H0854]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8095G]]"
+- "[[H0631]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:24**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.
 <small><sub>**BSB:**</sub></small>
 And he turned away from them and wept. When he turned back and spoke to them, he took Simeon from them and had him bound before their eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5437G\|יִּסֹּ֥ב]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H1058\|יֵּ֑בְךְּ]] [[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H9006\|מֵֽ]][[H0854\|אִתָּ]][[H9038\|ם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8095G\|שִׁמְע֔וֹן]] [[H9001\|וַ]][[H0631\|יֶּאֱסֹ֥ר]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H5869J\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic SIMEON|SIMEON]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.23|<< Genesis 42:23]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.25|Genesis 42:25 >>]]</td></tr></table>
 

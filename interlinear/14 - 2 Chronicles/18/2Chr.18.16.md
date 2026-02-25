@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 18:16
+type: Verse
+kjv: "Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return therefore every man to his house in peace."
+bsb: "So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”"
+hebrew: "וַיֹּ֗אמֶר רָאִ֤יתִי אֶת־ כָּל־ יִשְׂרָאֵל֙ נְפוֹצִ֣ים עַל־ הֶֽהָרִ֔ים כַּצֹּ֕אן אֲשֶׁ֥ר אֵין־ לָהֶ֖ן רֹעֶ֑ה וַיֹּ֤אמֶר יְהוָה֙ לֹֽא־ אֲדֹנִ֣ים לָאֵ֔לֶּה יָשׁ֥וּבוּ אִישׁ־ לְבֵית֖וֹ בְּשָׁלֽוֹם׃"
+pericope: "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H6327A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H7462B]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0113]]"
+- "[[H0428]]"
+- "[[H7725G]]"
+- "[[H0376I]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:16**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return [therefore] every man to his house in peace.
 <small><sub>**BSB:**</sub></small>
 So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7200G\|רָאִ֤יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H6327A\|נְפוֹצִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֔ים]] [[H9004\|כַּ]][[H6629G\|צֹּ֕אן]] [[H0834A\|אֲשֶׁ֥ר]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9039\|הֶ֖ן]] [[H7462B\|רֹעֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0113\|אֲדֹנִ֣ים]] [[H9005\|לָ]][[H0428\|אֵ֔לֶּה]] [[H7725G\|יָשׁ֥וּבוּ]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9005\|לְ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic VISION|VISION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.15|<< 2 Chronicles 18:15]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.17|2 Chronicles 18:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

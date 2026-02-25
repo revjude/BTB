@@ -1,8 +1,59 @@
+---
+title: Exodus 34:5
+type: Verse
+kjv: "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD."
+bsb: "And the LORD descended in a cloud, stood with him there, and proclaimed His name, the LORD."
+hebrew: "וַיֵּ֤רֶד יְהוָה֙ בֶּֽעָנָ֔ן וַיִּתְיַצֵּ֥ב עִמּ֖וֹ שָׁ֑ם וַיִּקְרָ֥א בְשֵׁ֖ם יְהוָֽה׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6051]]"
+- "[[H3320]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H7121I]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:5**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 And the LORD descended in a cloud, stood with him there, and proclaimed His name, the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֤רֶד]] [[H3068G\|יְהוָה֙]] [[H9003\|בֶּֽ]][[H6051\|עָנָ֔ן]] [[H9001\|וַ]][[H3320\|יִּתְיַצֵּ֥ב]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H8033G\|שָׁ֑ם]] [[H9001\|וַ]][[H7121I\|יִּקְרָ֥א]] [[H9003\|בְ]][[H8034\|שֵׁ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.4|<< Exodus 34:4]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.6|Exodus 34:6 >>]]</td></tr></table>
 

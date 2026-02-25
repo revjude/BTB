@@ -1,8 +1,63 @@
+---
+title: Joshua 3:14
+type: Verse
+kjv: "And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;"
+bsb: "So when the people broke camp to cross the Jordan, the priests carried the ark of the covenant ahead of them."
+hebrew: "וַיְהִ֗י בִּנְסֹ֤עַ הָעָם֙ מֵאָ֣הֳלֵיהֶ֔ם לַעֲבֹ֖ר אֶת־ הַיַּרְדֵּ֑ן וְהַכֹּהֲנִ֗ים נֹֽשְׂאֵ֛י הָאָר֥וֹן הַבְּרִ֖ית לִפְנֵ֥י הָעָֽם׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H0168G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:14**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;
 <small><sub>**BSB:**</sub></small>
 So when the people broke camp to cross the Jordan, the priests carried the ark of the covenant ahead of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H5265\|נְסֹ֤עַ]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9006\|מֵ]][[H0168G\|אָ֣הֳלֵי]][[H9028\|הֶ֔ם]] [[H9005\|לַ]][[H5674A\|עֲבֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H5375H\|נֹֽשְׂאֵ֛י]] [[H9009\|הָ]][[H0727\|אָר֥וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֖ית]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.13|<< Joshua 3:13]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.15|Joshua 3:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

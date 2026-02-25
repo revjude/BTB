@@ -1,6 +1,59 @@
+---
+title: LXX Leviticus 18:18
+type: Verse
+lxx: "You shall not take a wife in addition to her sister as a rival, to uncover  her indecency instead of her, while she is yet living."
+greek: "γυναίκα επ΄ αδελφή αυτής ου λήψη αντίζηλον αποκαλύψαι την ασχημοσύνην αυτής επ΄ αυτή έτι ζώσης αυτής"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[G1135]]"
+- "[[G1909]]"
+- "[[G0079]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G6363]]"
+- "[[G0601]]"
+- "[[G3588]]"
+- "[[G0808]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2089]]"
+- "[[G2198]]"
+- "[[G1473]]"
+---
+
 **LXX Leviticus 18:18** 
 <small><sub>**LXX:**</sub></small>
 You shall not take a wife in addition to her sister as a rival, to uncover  her indecency instead of her, while she \[is\] yet living. 
+<small><sub>**Greek:**</sub></small>
+[[G1135\|γυναίκα]] [[G1909\|επ΄]] [[G0079\|αδελφή]] [[G1473\|αυτής]] [[G3756\|ου]] [[G2983\|λήψη]] [[G6363\|αντίζηλον]] [[G0601\|αποκαλύψαι]] [[G3588\|την]] [[G0808\|ασχημοσύνην]] [[G1473\|αυτής]] [[G1909\|επ΄]] [[G1473\|αυτή]] [[G2089\|έτι]] [[G2198\|ζώσης]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
@@ -20,6 +73,6 @@ You shall not take a wife in addition to her sister as a rival, to uncover  her 
 | yet | **<big>[[G2089\|έτι]]</big>** |
 | living | **<big>[[G2198\|ζώσης]]</big>** |
 | while she \[is\] | **<big>[[G1473\|αυτής]]</big>** |
-[[Lev.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
 

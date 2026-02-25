@@ -1,10 +1,65 @@
+---
+title: Matthew 20:14
+type: Verse
+kjv: "Take that thine is, and go thy way: I will give unto this last, even as unto thee."
+bsb: "Take your pay and go. I want to give this last man the same as I gave you."
+jesus_said: "Take that thine is, and go thy way: I will give unto this last, even as unto thee."
+greek: "ἆρον τὸ σὸν καὶ ὕπαγε. θέλω δὲ τούτῳ τῷ ἐσχάτῳ δοῦναι ὡς καὶ σοί·"
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G5217]]"
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2078]]"
+- "[[G1325]]"
+- "[[G5613]]"
+texts:
+- NKO
+---
+
 **Matthew 20:14**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take [that] thine [is], and go thy way: I will give unto this last, even as unto thee.
 <small><sub>**BSB:**</sub></small>
 Take your pay and go. I want to give this last man the same as I gave you.
-<small><sub>**Literal:**</sub></small>
-do take what [is] yours and do go. I desire now to this <the> last to give as also to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.13|<< Matthew 20:13]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.15|Matthew 20:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0142\|ἆρον]]  [[G3588\|τὸ]]  [[G4771\|σὸν]]  [[G2532\|καὶ]]  [[G5217\|ὕπαγε.]]  [[G2309\|θέλω]]  [[G1161\|δὲ]]  [[G3778\|τούτῳ]]  [[G3588\|τῷ]]  [[G2078\|ἐσχάτῳ]]  [[G1325\|δοῦναι]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G4771\|σοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.13|<< Matthew 20:13]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.15|Matthew 20:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

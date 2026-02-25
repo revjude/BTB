@@ -1,10 +1,64 @@
+---
+title: John 14:26
+type: Verse
+kjv: "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+bsb: "But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you."
+jesus_said: "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+greek: "ὁ δὲ παράκλητος, τὸ πνεῦμα τὸ ἅγιον ὃ πέμψει ὁ πατὴρ ἐν τῷ ὀνόματί μου, ἐκεῖνος ὑμᾶς διδάξει πάντα καὶ ὑπομνήσει ὑμᾶς πάντα ἃ εἶπον ὑμῖν ἐγώ.¶"
+pericope: "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3875]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G3739]]"
+- "[[G3992]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1565]]"
+- "[[G4771]]"
+- "[[G1321]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G5279]]"
+- "[[G2036]]"
+- "[[G1473]]"
+texts:
+- NKO
+- no
+---
+
 **John 14:26**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the Comforter, [which is] the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
 <small><sub>**BSB:**</sub></small>
 But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.
-<small><sub>**Literal:**</sub></small>
-The however Helper, the Spirit <the> Holy whom will send the Father in the name of Me, He you will teach all things and He will bring to remembrance of you all things that have said to you I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.25|<< John 14:25]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.27|John 14:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3875\|παράκλητος,]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G3739\|ὃ]]  [[G3992\|πέμψει]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου,]]  [[G1565\|ἐκεῖνος]]  [[G4771\|ὑμᾶς]]  [[G1321\|διδάξει]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G5279\|ὑπομνήσει]]  [[G4771\|ὑμᾶς]]  [[G3956\|πάντα]]  [[G3739\|ἃ]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν]]  [[G1473\|ἐγώ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.25|<< John 14:25]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.27|John 14:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

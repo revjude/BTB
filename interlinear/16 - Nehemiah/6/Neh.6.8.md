@@ -1,8 +1,64 @@
+---
+title: Nehemiah 6:8
+type: Verse
+kjv: "Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart."
+bsb: "Then I sent him this reply: “There is nothing to these rumors you are spreading; you are inventing them in your own mind.”"
+hebrew: "וָאֶשְׁלְחָ֤ה אֵלָיו֙ לֵאמֹ֔ר לֹ֤א נִֽהְיָה֙ כַּדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֖ר אַתָּ֣ה אוֹמֵ֑ר כִּ֥י מִֽלִּבְּךָ֖ אַתָּ֥ה בוֹדָֽאם׃"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9012]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H0908]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:8**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart.
 <small><sub>**BSB:**</sub></small>
 Then I sent him this reply: “There is nothing to these rumors you are spreading; you are inventing them in your own mind.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלְחָ֤]][[H9012\|ה]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹ֤א]] [[H1961\|נִֽהְיָה֙]] [[H9004\|כַּ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֖ר]] [[H0859A\|אַתָּ֣ה]] [[H0559\|אוֹמֵ֑ר]] [[H3588A\|כִּ֥י]] [[H9006\|מִֽ]][[H3820A\|לִּבְּ]][[H9021\|ךָ֖]] [[H0859A\|אַתָּ֥ה]] [[H0908\|בוֹדָֽא]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.7|<< Nehemiah 6:7]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.9|Nehemiah 6:9 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 37:31
+type: Verse
+kjv: "And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:"
+bsb: "And the surviving remnant of the house of Judah will again take root below and bear fruit above."
+hebrew: "וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית־ יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י לְמָֽעְלָה׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H6413]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H8328]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H6213H]]"
+- "[[H6529]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:31**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:
 <small><sub>**BSB:**</sub></small>
 And the surviving remnant of the house of Judah will again take root below and bear fruit above.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3254G\|יָ֨סְפָ֜ה]] [[H6413\|פְּלֵיטַ֧ת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H3063G\|יְהוּדָ֛ה]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרָ֖ה]] [[H8328\|שֹׁ֣רֶשׁ]] [[H9005\|לְ]][[H4295\|מָ֑טָּה]] [[H9001\|וְ]][[H6213H\|עָשָׂ֥ה]] [[H6529\|פְרִ֖י]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.30|<< Isaiah 37:30]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.32|Isaiah 37:32 >>]]</td></tr></table>
 

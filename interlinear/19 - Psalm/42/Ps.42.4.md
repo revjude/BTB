@@ -1,8 +1,75 @@
+---
+title: Psalm 42:4
+type: Verse
+kjv: "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday."
+bsb: "These things come to mind as I pour out my soul: how I walked with the multitude, leading the festive procession to the house of God with shouts of joy and praise."
+hebrew: "אֵ֤לֶּה אֶזְכְּרָ֨ה׀ וְאֶשְׁפְּכָ֬ה עָלַ֨י׀ נַפְשִׁ֗י כִּ֤י אֶֽעֱבֹ֨ר׀ בַּסָּךְ֮ אֶדַּדֵּ֗ם עַד־ בֵּ֥ית אֱלֹ֫הִ֥ים בְּקוֹל־ רִנָּ֥ה וְתוֹדָ֗ה הָמ֥וֹן חוֹגֵֽג׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0428]]"
+- "[[H2142]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H8210G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H5519]]"
+- "[[H1718]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H6963A]]"
+- "[[H7440]]"
+- "[[H8426]]"
+- "[[H1995A]]"
+- "[[H2287]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:4**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I remember these [things], I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
 <small><sub>**BSB:**</sub></small>
 These things come to mind as I pour out my soul: how I walked with the multitude, leading the festive procession to the house of God with shouts of joy and praise.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֤לֶּה]] [[H2142\|אֶזְכְּרָ֨ה]][[H9015\|׀]] [[H9002\|וְ]][[H8210G\|אֶשְׁפְּכָ֬ה]] [[H5921A\|עָלַ֨]][[H9030\|י]][[H9015\|׀]] [[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H5674A\|אֶֽעֱבֹ֨ר]][[H9015\|׀]] [[H9003\|בַּ]][[H5519\|סָּךְ֮]] [[H1718\|אֶדַּדֵּ֗]][[H9038\|ם]] [[H5704\|עַד]][[H9014\|־]] [[H1004Q\|בֵּ֥ית]] [[H0430G\|אֱלֹ֫הִ֥ים]] [[H9003\|בְּ]][[H6963A\|קוֹל]][[H9014\|־]] [[H7440\|רִנָּ֥ה]] [[H9002\|וְ]][[H8426\|תוֹדָ֗ה]] [[H1995A\|הָמ֥וֹן]] [[H2287\|חוֹגֵֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DESIRE|DESIRE]] • [[topic FEASTS|FEASTS]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic SEEKERS|SEEKERS]] • [[topic THIRST|THIRST]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.3|<< Psalms 42:3]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.5|Psalms 42:5 >>]]</td></tr></table>
 

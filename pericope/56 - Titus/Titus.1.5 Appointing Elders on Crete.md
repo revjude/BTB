@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Appointing Elders on Crete
+type: Pericope
 pericope: "[[Titus.1.5 Appointing Elders on Crete|Appointing Elders on Crete]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Titus
 chapter: 1
 book/chapter: "[[Titus.1|Titus 1]]"
-genre:
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 5
 verses:
 - "[[Titus.1.5]]"
 - "[[Titus.1.6]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Titus.1.9]]"
 ---
 
-[[Titus.1|Titus 1:5 - Titus 1:9]]
+<small>[[Titus.1|Titus 1:5-9]]</small>
 *Appointing Elders on Crete*
 
 [[Titus.1.5|5]] For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:

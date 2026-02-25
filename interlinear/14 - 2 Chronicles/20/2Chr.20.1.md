@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 20:1
+type: Verse
+kjv: "It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle."
+bsb: "After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat."
+hebrew: "וַיְהִ֣י אַֽחֲרֵיכֵ֡ן בָּ֣אוּ בְנֵי־ מוֹאָב֩ וּבְנֵ֨י עַמּ֜וֹן וְעִמָּהֶ֧ם׀ מֵֽהָעַמּוֹנִ֛ים עַל־ יְהוֹשָׁפָ֖ט לַמִּלְחָמָֽה׃"
+pericope: "[[2Chr.20.1 War against Jehoshaphat|War against Jehoshaphat]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H5983]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5984G]]"
+- "[[H5921A]]"
+- "[[H3092I]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:1**<big><big>[[2Chr.20.1 War against Jehoshaphat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came to pass after this also, [that] the children of Moab, and the children of Ammon, and with them [other] beside the Ammonites, came against Jehoshaphat to battle.
 <small><sub>**BSB:**</sub></small>
 After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H0310A\|אַֽחֲרֵי]][[H3651C\|כֵ֡ן]] [[H0935G\|בָּ֣אוּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H4124G\|מוֹאָב֩]] [[H9002\|וּ]][[H1121G\|בְנֵ֨י]] [[H5983\|עַמּ֜וֹן]] [[H9002\|וְ]][[H5973A\|עִמָּ]][[H9038\|הֶ֧ם]][[H9015\|׀]] [[H9006\|מֵֽ]][[H9009\|הָ]][[H5984G\|עַמּוֹנִ֛ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֖ט]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.11|<< 2 Chronicles 19:11]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.2|2 Chronicles 20:2 >>]]</td></tr></table>
 

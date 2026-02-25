@@ -1,8 +1,65 @@
+---
+title: Jeremiah 13:20
+type: Verse
+kjv: "Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?"
+bsb: "Lift up your eyes and see those coming from the north. Where is the flock entrusted to you, the sheep that were your pride?"
+hebrew: "שְׂא֤וּ עֵֽינֵיכֶם֙ וּרְא֔וּ הַבָּאִ֖ים מִצָּפ֑וֹן אַיֵּ֗ה הָעֵ֙דֶר֙ נִתַּן־ לָ֔ךְ צֹ֖אן תִּפְאַרְתֵּֽךְ׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H5375M]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H0346]]"
+- "[[H5739]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6629G]]"
+- "[[H8597]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Jeremiah 13:20**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your eyes, and behold them that come from the north: where [is] the flock [that] was given thee, thy beautiful flock?
 <small><sub>**BSB:**</sub></small>
 Lift up your eyes and see those coming from the north. Where is the flock entrusted to you, the sheep that were your pride?
+<small><sub>**Hebrew:**</sub></small>
+[[H5375M\|שְׂא֤וּ]] [[H5869A\|עֵֽינֵי]][[H9026\|כֶם֙]] [[H9002\|וּ]][[H7200G\|רְא֔וּ]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H9006\|מִ]][[H6828G\|צָּפ֑וֹן]] [[H0346\|אַיֵּ֗ה]] [[H9009\|הָ]][[H5739\|עֵ֙דֶר֙]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H6629G\|צֹ֖אן]] [[H8597\|תִּפְאַרְתֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
@@ -23,7 +80,7 @@ Lift up your eyes and see those coming from the north. Where is the flock entrus
 
 [^1]: lift up  | **<big>[[H5375M|שְׂאִי]]</big> ** | se.'i<small><sup>[[HVqv2fs]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>שְׂא֤יּ</big></span>**
-[^3]: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
-[^4]: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
+[^3]: and see  | **<big>[[H9002|וּ]]</big><big>[[H7200G|רְאִי]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
+[^4]: and see  | **<big>[[H9002|וּ]]</big><big>[[H7200G|רְאִי]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>וּרְא֔יּ</big></span>**
 

@@ -1,8 +1,63 @@
+---
+title: Psalm 79:1
+type: Verse
+kjv: "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps."
+bsb: "A Psalm of Asaph. The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble."
+hebrew: "אֱֽלֹהִ֡ים בָּ֤אוּ גוֹיִ֨ם׀ בְּֽנַחֲלָתֶ֗ךָ טִ֭מְּאוּ אֶת־ הֵיכַ֣ל קָדְשֶׁ֑ךָ שָׂ֖מוּ אֶת־ יְרוּשָׁלִַ֣ם לְעִיִּֽים׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H1471A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H9021]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1964G]]"
+- "[[H6944G]]"
+- "[[H7760H]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H5856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:1**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 <small><sub>**BSB:**</sub></small>
 A Psalm of Asaph. The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהִ֡ים]] [[H0935G\|בָּ֤אוּ]] [[H1471A\|גוֹיִ֨ם]][[H9015\|׀]] [[H9003\|בְּֽ]][[H5159\|נַחֲלָתֶ֗]][[H9021\|ךָ]] [[H2930A\|טִ֭מְּאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1964G\|הֵיכַ֣ל]] [[H6944G\|קָדְשֶׁ֑]][[H9021\|ךָ]] [[H7760H\|שָׂ֖מוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֣ם]] [[H9005\|לְ]][[H5856\|עִיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.0|<< Psalms 79:0]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.2|Psalms 79:2 >>]]</td></tr></table>
 

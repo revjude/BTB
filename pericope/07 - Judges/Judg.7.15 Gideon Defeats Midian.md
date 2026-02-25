@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gideon Defeats Midian
+type: Pericope
 pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 7
 book/chapter: "[[Judg.7|Judges 7]]"
-genre:
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 11
 verses:
 - "[[Judg.7.15]]"
 - "[[Judg.7.16]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Judg.7.25]]"
 ---
 
-[[Judg.7|Judges 7:15 - Judges 7:25]]
+<small>[[Judg.7|Judges 7:15-25]]</small>
 *Gideon Defeats Midian*
 
 [[Judg.7.15|15]] And it was \[so\], when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian.

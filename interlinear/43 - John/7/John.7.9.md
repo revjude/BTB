@@ -1,10 +1,51 @@
+---
+title: John 7:9
+type: Verse
+kjv: "When he had said these words unto them, he abode still in Galilee."
+bsb: "Having said this, Jesus remained in Galilee."
+greek: "ταῦτα δὲ εἰπὼν αὐτὸς ἔμεινεν ἐν τῇ Γαλιλαίᾳ.¶"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 7:9**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he had said these words unto them, he abode [still] in Galilee.
 <small><sub>**BSB:**</sub></small>
 Having said this, Jesus remained in Galilee.
-<small><sub>**Literal:**</sub></small>
-These things now having said He himself He remained in <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.8|<< John 7:8]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.10|John 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G2036\|εἰπὼν]]  [[G0846\|αὐτὸς]]  [[G3306\|ἔμεινεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1056G\|Γαλιλαίᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.8|<< John 7:8]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.10|John 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

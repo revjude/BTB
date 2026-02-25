@@ -1,10 +1,64 @@
+---
+title: Acts 4:8
+type: Verse
+kjv: "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,"
+bsb: "Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people!"
+greek: "Τότε Πέτρος πλησθεὶς πνεύματος ἁγίου εἶπεν πρὸς αὐτούς· ἄρχοντες τοῦ λαοῦ καὶ πρεσβύτεροι τοῦ Ἰσραήλ,"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5119]]"
+- "[[G4074G]]"
+- "[[G4130]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G2474]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 4:8**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,
 <small><sub>**BSB:**</sub></small>
 Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people!
-<small><sub>**Literal:**</sub></small>
-Then Peter having been filled with [the] Spirit Holy said to them; Rulers of the people and elders <the> of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.7|<< Acts 4:7]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.9|Acts 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4074G\|Πέτρος]]  [[G4130\|πλησθεὶς]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G0758\|ἄρχοντες]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G2532\|καὶ]]  [[G4245G\|πρεσβύτεροι]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.7|<< Acts 4:7]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.9|Acts 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

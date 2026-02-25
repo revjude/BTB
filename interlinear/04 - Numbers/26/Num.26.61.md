@@ -1,8 +1,61 @@
+---
+title: Numbers 26:61
+type: Verse
+kjv: "And Nadab and Abihu died, when they offered strange fire before the LORD."
+bsb: "but Nadab and Abihu died when they offered unauthorized fire before the LORD."
+hebrew: "וַיָּ֥מָת נָדָ֖ב וַאֲבִיה֑וּא בְּהַקְרִיבָ֥ם אֵשׁ־ זָרָ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIHU|ABIHU]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NADAB|NADAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H5070G]]"
+- "[[H9002]]"
+- "[[H0030]]"
+- "[[H9003]]"
+- "[[H7126H]]"
+- "[[H9048]]"
+- "[[H0784]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:61**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nadab and Abihu died, when they offered strange fire before the LORD.
 <small><sub>**BSB:**</sub></small>
 but Nadab and Abihu died when they offered unauthorized fire before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H5070G\|נָדָ֖ב]] [[H9002\|וַ]][[H0030\|אֲבִיה֑וּא]] [[H9003\|בְּ]][[H7126H\|הַקְרִיבָ֥]][[H9048\|ם]] [[H0784\|אֵשׁ]][[H9014\|־]] [[H2114A\|זָרָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHU|ABIHU]] • [[topic LEVITES|LEVITES]] • [[topic NADAB|NADAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.62|Numbers 26:62 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Matthew 18:14
+type: Verse
+kjv: "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
+bsb: "In the same way, your Father in heaven is not willing that any of these little ones should perish."
+jesus_said: "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
+greek: "οὕτως οὐκ ἔστιν θέλημα ἔμπροσθεν τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς ἵνα ἀπόληται ἓν τῶν μικρῶν τούτων.¶"
+pericope: "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3779]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2307]]"
+- "[[G1715]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G2443]]"
+- "[[G0622]]"
+- "[[G1520]]"
+- "[[G3398]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Matthew 18:14**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.
 <small><sub>**BSB:**</sub></small>
 In the same way, your Father in heaven is not willing that any of these little ones should perish.
-<small><sub>**Literal:**</sub></small>
-Thus not it is [the] will of the Father of you who [is] in [the] heavens that may perish one of the little ones of these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.13|<< Matthew 18:13]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.15|Matthew 18:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2307\|θέλημα]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G4771\|ὑμῶν]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς]]  [[G2443\|ἵνα]]  [[G0622\|ἀπόληται]]  [[G1520\|ἓν]]  [[G3588\|τῶν]]  [[G3398\|μικρῶν]]  [[G3778\|τούτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.13|<< Matthew 18:13]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.15|Matthew 18:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

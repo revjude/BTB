@@ -1,10 +1,56 @@
+---
+title: 2 Timothy 2:26
+type: Verse
+kjv: "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+bsb: "Then they will come to their senses and escape the snare of the devil, who has taken them captive to his will."
+greek: "καὶ ἀνανήψωσιν ἐκ τῆς τοῦ διαβόλου παγίδος ἐζωγρημένοι ὑπ᾽ αὐτοῦ εἰς τὸ ἐκείνου θέλημα.¶"
+pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0366]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1228]]"
+- "[[G3803]]"
+- "[[G2221]]"
+- "[[G5259G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1565]]"
+- "[[G2307]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:26**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [that] they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 <small><sub>**BSB:**</sub></small>
 Then they will come to their senses and escape the snare of the devil, who has taken them captive to his will.
-<small><sub>**Literal:**</sub></small>
-and they may recover out of the of the devil snare captured by him for <the> his will.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.25|<< 2 Timothy 2:25]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.1|2 Timothy 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0366\|ἀνανήψωσιν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου]]  [[G3803\|παγίδος]]  [[G2221\|ἐζωγρημένοι]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1565\|ἐκείνου]]  [[G2307\|θέλημα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GENTLENESS|GENTLENESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.25|<< 2 Timothy 2:25]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.1|2 Timothy 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

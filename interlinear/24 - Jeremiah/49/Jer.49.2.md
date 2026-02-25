@@ -1,8 +1,75 @@
+---
+title: Jeremiah 49:2
+type: Verse
+kjv: "Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD."
+bsb: "Therefore, behold, the days are coming, declares the LORD, when I will sound the battle cry against Rabbah of the Ammonites. It will become a heap of ruins, and its villages will be burned. Then Israel will drive out their dispossessors, says the LORD."
+hebrew: "לָכֵ֡ן הִנֵּה֩ יָמִ֨ים בָּאִ֜ים נְאֻם־ יְהוָ֗ה וְ֠הִשְׁמַעְתִּי אֶל־ רַבַּ֨ת בְּנֵי־ עַמּ֜וֹן תְּרוּעַ֣ת מִלְחָמָ֗ה וְהָֽיְתָה֙ לְתֵ֣ל שְׁמָמָ֔ה וּבְנֹתֶ֖יהָ בָּאֵ֣שׁ תִּצַּ֑תְנָה וְיָרַ֧שׁ יִשְׂרָאֵ֛ל אֶת־ יֹרְשָׁ֖יו אָמַ֥ר יְהוָֽה׃"
+pericope: "[[Jer.49.1 Judgment on the Ammonites|Judgment on the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H7237]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H8643]]"
+- "[[H4421]]"
+- "[[H1961]]"
+- "[[H8510]]"
+- "[[H8077A]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3341]]"
+- "[[H3423H]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:2**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Therefore, behold, the days are coming, declares the LORD, when I will sound the battle cry against Rabbah of the Ammonites. It will become a heap of ruins, and its villages will be burned. Then Israel will drive out their dispossessors, says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֡ן]] [[H2009\|הִנֵּה֩]] [[H3117G\|יָמִ֨ים]] [[H0935G\|בָּאִ֜ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וְ֠]][[H8085G\|הִשְׁמַעְתִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H7237\|רַבַּ֨ת]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5983\|עַמּ֜וֹן]] [[H8643\|תְּרוּעַ֣ת]] [[H4421\|מִלְחָמָ֗ה]] [[H9001\|וְ]][[H1961\|הָֽיְתָה֙]] [[H9005\|לְ]][[H8510\|תֵ֣ל]] [[H8077A\|שְׁמָמָ֔ה]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֖י]][[H9024\|הָ]] [[H9003\|בָּ]][[H0784\|אֵ֣שׁ]] [[H3341\|תִּצַּ֑תְנָה]] [[H9001\|וְ]][[H3423H\|יָרַ֧שׁ]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3423H\|יֹרְשָׁ֖י]][[H9033\|ו]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic HESHBON|HESHBON]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.1|<< Jeremiah 49:1]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.3|Jeremiah 49:3 >>]]</td></tr></table>
 

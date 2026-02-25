@@ -1,10 +1,56 @@
+---
+title: Mark 11:10
+type: Verse
+kjv: "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest."
+bsb: "“Blessed is the coming kingdom of our father David!” “Hosanna in the highest!”"
+greek: "εὐλογημένη ἡ ἐρχομένη βασιλεία ἐν ὀνόματι κυρίου τοῦ πατρὸς ἡμῶν Δαυίδ, ὡσαννὰ ἐν τοῖς ὑψίστοις.¶"
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic HOSANNA|HOSANNA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[G2127]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G0932]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1138]]"
+- "[[G5614]]"
+- "[[G5310]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 11:10**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.
 <small><sub>**BSB:**</sub></small>
 “Blessed is the coming kingdom of our father David!” “Hosanna in the highest!”
-<small><sub>**Literal:**</sub></small>
-Blessed [is] the coming kingdom in name of the Lord of the father of us David! Hosanna in the highest!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.9|<< Mark 11:9]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.11|Mark 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2127\|εὐλογημένη]]  [[G3588\|ἡ]]  [[G2064\|ἐρχομένη]]  [[G0932\|βασιλεία]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G2962G\|κυρίου]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G1138\|Δαυίδ,]]  [[G5614\|ὡσαννὰ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5310\|ὑψίστοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic HOSANNA|HOSANNA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.9|<< Mark 11:9]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.11|Mark 11:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 11:10** is...
 > $\quad$ referencing: [[LXX.Job.16.19|Job 16:19]] ☩ [[LXX.Ps.148.1|Ps 148:1]] ☩ [[LXX.Ps.118.25|Ps 118:25-26]]

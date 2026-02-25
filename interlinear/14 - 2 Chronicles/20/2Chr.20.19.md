@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 20:19
+type: Verse
+kjv: "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high."
+bsb: "And the Levites from the Kohathites and Korahites stood up to praise the LORD, the God of Israel, shouting in a very loud voice."
+hebrew: "וַיָּקֻ֧מוּ הַלְוִיִּ֛ם מִן־ בְּנֵ֥י הַקְּהָתִ֖ים וּמִן־ בְּנֵ֣י הַקָּרְחִ֑ים לְהַלֵּ֗ל לַיהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בְּק֥וֹל גָּד֖וֹל לְמָֽעְלָה׃"
+pericope: "[[2Chr.20.14 The Prophecy of Jahaziel|The Prophecy of Jahaziel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H6956]]"
+- "[[H9002]]"
+- "[[H7145]]"
+- "[[H9005]]"
+- "[[H1984B]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:19**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high.
 <small><sub>**BSB:**</sub></small>
 And the Levites from the Kohathites and Korahites stood up to praise the LORD, the God of Israel, shouting in a very loud voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֧מוּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֛ם]] [[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H9009\|הַ]][[H6956\|קְּהָתִ֖ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הַ]][[H7145\|קָּרְחִ֑ים]] [[H9005\|לְ]][[H1984B\|הַלֵּ֗ל]] [[H9005\|לַ]][[H3068G\|יהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H6963A\|ק֥וֹל]] [[H1419A\|גָּד֖וֹל]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic MUSIC|MUSIC]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.18|<< 2 Chronicles 20:18]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.20|2 Chronicles 20:20 >>]]</td></tr></table>
 

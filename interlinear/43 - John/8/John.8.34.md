@@ -1,10 +1,58 @@
+---
+title: John 8:34
+type: Verse
+kjv: "Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin."
+bsb: "Jesus replied, “Truly, truly, I tell you, everyone who sins is a slave to sin."
+jesus_said: "Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin."
+greek: "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι πᾶς ὁ ποιῶν τὴν ἁμαρτίαν, δοῦλός ἐστιν τῆς ἁμαρτίας."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G4160G]]"
+- "[[G0266]]"
+- "[[G1401]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 8:34**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Truly, truly, I tell you, everyone who sins is a slave to sin.
-<small><sub>**Literal:**</sub></small>
-Answered them <the> Jesus; Amen Amen I say to you that everyone who is practicing the sin, a slave is of the sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.33|<< John 8:33]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.35|John 8:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4160G\|ποιῶν]]  [[G3588\|τὴν]]  [[G0266\|ἁμαρτίαν,]]  [[G1401\|δοῦλός]]  [[G1510\|ἐστιν]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.33|<< John 8:33]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.35|John 8:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

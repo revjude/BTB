@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Cleanses the Temple
+type: Pericope
 pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 29
 book/chapter: "[[2Chr.29|2 Chronicles 29]]"
-genre:
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 19
 verses:
 - "[[2Chr.29.1]]"
 - "[[2Chr.29.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[2Chr.29.19]]"
 ---
 
-[[2Chr.29|2 Chronicles 29:1 - 2 Chronicles 29:19]]
+<small>[[2Chr.29|2 Chronicles 29:1-19]]</small>
 *Hezekiah Cleanses the Temple*
 
 [[2Chr.29.1|1]] Hezekiah began to reign \[when he was\] five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name \[was\] Abijah, the daughter of Zechariah.

@@ -1,10 +1,66 @@
+---
+title: 1 Thessalonians 4:16
+type: Verse
+kjv: "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+bsb: "For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise."
+greek: "ὅτι αὐτὸς ὁ κύριος ἐν κελεύσματι, ἐν φωνῇ ἀρχαγγέλου καὶ ἐν σάλπιγγι θεοῦ καταβήσεται ἀπ᾽ οὐρανοῦ, καὶ οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον,"
+pericope: "[[1Thess.4.13 The Return of the Lord|The Return of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ARCHANGEL|ARCHANGEL]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G3754H]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1722]]"
+- "[[G2752]]"
+- "[[G5456G]]"
+- "[[G0743]]"
+- "[[G2532]]"
+- "[[G4536]]"
+- "[[G2316]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G3498]]"
+- "[[G5547]]"
+- "[[G0450]]"
+- "[[G4413G]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:16**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 <small><sub>**BSB:**</sub></small>
 For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise.
-<small><sub>**Literal:**</sub></small>
-because Himself the Lord with a loud command, with [the] voice of an archangel and with [the] trumpet of God will descend from heaven, and the dead in Christ will rise first,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.15|<< 1 Thessalonians 4:15]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.17|1 Thessalonians 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G0846\|αὐτὸς]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1722\|ἐν]]  [[G2752\|κελεύσματι,]]  [[G1722\|ἐν]]  [[G5456G\|φωνῇ]]  [[G0743\|ἀρχαγγέλου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4536\|σάλπιγγι]]  [[G2316\|θεοῦ]]  [[G2597\|καταβήσεται]]  [[G0575\|ἀπ᾽]]  [[G3772\|οὐρανοῦ,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3498\|νεκροὶ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G0450\|ἀναστήσονται]]  [[G4413G\|πρῶτον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ARCHANGEL|ARCHANGEL]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TRUMPET|TRUMPET]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.15|<< 1 Thessalonians 4:15]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.17|1 Thessalonians 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

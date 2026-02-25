@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 28:48
+type: Verse
+kjv: "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+bsb: "you will serve your enemies the LORD will send against you in famine, thirst, nakedness, and destitution. He will place an iron yoke on your neck until He has destroyed you."
+hebrew: "וְעָבַדְתָּ֣ אֶת־ אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל־ צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H6772]]"
+- "[[H5903]]"
+- "[[H2640]]"
+- "[[H3605]]"
+- "[[H5414H]]"
+- "[[H5923]]"
+- "[[H1270]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:48**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all [things]: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
 <small><sub>**BSB:**</sub></small>
 you will serve your enemies the LORD will send against you in famine, thirst, nakedness, and destitution. He will place an iron yoke on your neck until He has destroyed you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5647G\|עָבַדְתָּ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7971G\|יְשַׁלְּחֶ֤]][[H9033\|נּוּ]] [[H3068G\|יְהוָה֙]] [[H9003\|בָּ֔]][[H9031\|ךְ]] [[H9003\|בְּ]][[H7458\|רָעָ֧ב]] [[H9002\|וּ]][[H9003\|בְ]][[H6772\|צָמָ֛א]] [[H9002\|וּ]][[H9003\|בְ]][[H5903\|עֵירֹ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2640\|חֹ֣סֶר]] [[H3605\|כֹּ֑ל]] [[H9001\|וְ]][[H5414H\|נָתַ֞ן]] [[H5923\|עֹ֤ל]] [[H1270\|בַּרְזֶל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוָּארֶ֔]][[H9021\|ךָ]] [[H5704\|עַ֥ד]] [[H8045\|הִשְׁמִיד֖]][[H9043\|וֹ]] [[H0853\|אֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic IRON|IRON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 

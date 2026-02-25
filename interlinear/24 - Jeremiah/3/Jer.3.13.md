@@ -1,8 +1,73 @@
+---
+title: Jeremiah 3:13
+type: Verse
+kjv: "Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD."
+bsb: "Only acknowledge your guilt, that you have rebelled against the LORD your God. You have scattered your favors to foreign gods under every green tree and have not obeyed My voice,’” declares the LORD."
+hebrew: "אַ֚ךְ דְּעִ֣י עֲוֹנֵ֔ךְ כִּ֛י בַּיהוָ֥ה אֱלֹהַ֖יִךְ פָּשָׁ֑עַתְּ וַתְּפַזְּרִ֨י אֶת־ דְּרָכַ֜יִךְ לַזָּרִ֗ים תַּ֚חַת כָּל־ עֵ֣ץ רַעֲנָ֔ן וּבְקוֹלִ֥י לֹא־ שְׁמַעְתֶּ֖ם נְאֻם־ יְהֹוָֽה׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0389]]"
+- "[[H3045]]"
+- "[[H5771H]]"
+- "[[H9022]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6586]]"
+- "[[H9001]]"
+- "[[H6340]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9005]]"
+- "[[H2114A]]"
+- "[[H8478G]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H9002]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:13**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Only acknowledge your guilt, that you have rebelled against the LORD your God. You have scattered your favors to foreign gods under every green tree and have not obeyed My voice,’” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֚ךְ]] [[H3045\|דְּעִ֣י]] [[H5771H\|עֲוֹנֵ֔]][[H9022\|ךְ]] [[H3588A\|כִּ֛י]] [[H9003\|בַּ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהַ֖יִ]][[H9022\|ךְ]] [[H6586\|פָּשָׁ֑עַתְּ]] [[H9001\|וַ]][[H6340\|תְּפַזְּרִ֨י]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דְּרָכַ֜יִ]][[H9022\|ךְ]] [[H9005\|לַ]][[H2114A\|זָּרִ֗ים]] [[H8478G\|תַּ֚חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֣ץ]] [[H7488B\|רַעֲנָ֔ן]] [[H9002\|וּ]][[H9003\|בְ]][[H6963A\|קוֹלִ֥]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H8085H\|שְׁמַעְתֶּ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהֹוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.12|<< Jeremiah 3:12]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.14|Jeremiah 3:14 >>]]</td></tr></table>
 

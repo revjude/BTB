@@ -1,8 +1,83 @@
+---
+title: Jeremiah 26:18
+type: Verse
+kjv: "Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the LORD of hosts; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest."
+bsb: "“Micah the Moreshite prophesied in the days of Hezekiah king of Judah and told all the people of Judah that this is what the LORD of Hosts says: ‘Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge.’"
+hebrew: "מִיכָה֙ הַמּ֣וֹרַשְׁתִּ֔י הָיָ֣ה נִבָּ֔א בִּימֵ֖י חִזְקִיָּ֣הוּ מֶֽלֶךְ־ יְהוּדָ֑ה וַיֹּ֣אמֶר אֶל־ כָּל־ עַם֩ יְהוּדָ֨ה לֵאמֹ֜ר כֹּֽה־ אָמַ֣ר׀ יְהוָ֣ה צְבָא֗וֹת צִיּ֞וֹן שָׂדֶ֤ה תֵֽחָרֵשׁ֙ וִירוּשָׁלַ֙יִם֙ עִיִּ֣ים תִּֽהְיֶ֔ה וְהַ֥ר הַבַּ֖יִת לְבָמ֥וֹת יָֽעַר׃"
+pericope: "[[Jer.26.16 Jeremiah Spared from Death|Jeremiah Spared from Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H4320J]]"
+- "[[H4318K]]"
+- "[[H9009]]"
+- "[[H4183]]"
+- "[[H1961]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6726]]"
+- "[[H7704G]]"
+- "[[H2790A]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H5856]]"
+- "[[H2022G]]"
+- "[[H1004Q]]"
+- "[[H1116]]"
+- "[[H3293A]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Jeremiah 26:18**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the LORD of hosts; Zion shall be plowed [like] a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
 <small><sub>**BSB:**</sub></small>
 “Micah the Moreshite prophesied in the days of Hezekiah king of Judah and told all the people of Judah that this is what the LORD of Hosts says: ‘Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge.’
+<small><sub>**Hebrew:**</sub></small>
+[[H4318K\|מִיכָה֙]] [[H9009\|הַ]][[H4183\|מּ֣וֹרַשְׁתִּ֔י]] [[H1961\|הָיָ֣ה]] [[H5012\|נִבָּ֔א]] [[H9003\|בִּ]][[H3117G\|ימֵ֖י]] [[H2396G\|חִזְקִיָּ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַם֩]] [[H3063G\|יְהוּדָ֨ה]] [[H9005\|לֵ]][[H0559\|אמֹ֜ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H6726\|צִיּ֞וֹן]] [[H7704G\|שָׂדֶ֤ה]] [[H2790A\|תֵֽחָרֵשׁ֙]] [[H9002\|וִ]][[H3389\|ירוּשָׁלַ֙יִם֙]] [[H5856\|עִיִּ֣ים]] [[H1961\|תִּֽהְיֶ֔ה]] [[H9002\|וְ]][[H2022G\|הַ֥ר]] [[H9009\|הַ]][[H1004Q\|בַּ֖יִת]] [[H9005\|לְ]][[H1116\|בָמ֥וֹת]] [[H3293A\|יָֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MICAH|MICAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.17|<< Jeremiah 26:17]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.19|Jeremiah 26:19 >>]]</td></tr></table>
 

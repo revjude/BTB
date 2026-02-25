@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 28:14
+type: Verse
+kjv: "So the armed men left the captives and the spoil before the princes and all the congregation."
+bsb: "So the armed men left the captives and the plunder before the leaders and all the assembly."
+hebrew: "וַיַּעֲזֹ֣ב הֶֽחָל֗וּץ אֶת־ הַשִּׁבְיָה֙ וְאֶת־ הַבִּזָּ֔ה לִפְנֵ֥י הַשָּׂרִ֖ים וְכָל־ הַקָּהָֽל׃"
+pericope: "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H9009]]"
+- "[[H2502B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7633]]"
+- "[[H9002]]"
+- "[[H0961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8269]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:14**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the armed men left the captives and the spoil before the princes and all the congregation.
 <small><sub>**BSB:**</sub></small>
 So the armed men left the captives and the plunder before the leaders and all the assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעֲזֹ֣ב]] [[H9009\|הֶֽ]][[H2502B\|חָל֗וּץ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7633\|שִּׁבְיָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0961\|בִּזָּ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H8269\|שָּׂרִ֖ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERICHO|JERICHO]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.13|<< 2 Chronicles 28:13]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.15|2 Chronicles 28:15 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Sidon
+type: Pericope
 pericope: "[[Ezek.28.20 A Prophecy against Sidon|A Prophecy against Sidon]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 28
 book/chapter: "[[Ezek.28|Ezekiel 28]]"
-genre:
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 5
 verses:
 - "[[Ezek.28.20]]"
 - "[[Ezek.28.21]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezek.28.24]]"
 ---
 
-[[Ezek.28|Ezekiel 28:20 - Ezekiel 28:24]]
+<small>[[Ezek.28|Ezekiel 28:20-24]]</small>
 *A Prophecy against Sidon*
 
 [[Ezek.28.20|20]] Again the word of the LORD came unto me, saying,

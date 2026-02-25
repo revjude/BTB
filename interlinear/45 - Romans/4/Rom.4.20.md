@@ -1,10 +1,61 @@
+---
+title: Romans 4:20
+type: Verse
+kjv: "He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;"
+bsb: "Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,"
+greek: "εἰς δὲ τὴν ἐπαγγελίαν τοῦ θεοῦ οὐ διεκρίθη τῇ ἀπιστίᾳ, ἀλλ᾽ ἐνεδυναμώθη τῇ πίστει, δοὺς δόξαν τῷ θεῷ"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1519]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1860]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G1252]]"
+- "[[G0570]]"
+- "[[G0235]]"
+- "[[G1743]]"
+- "[[G4102G]]"
+- "[[G1325]]"
+- "[[G1391]]"
+texts:
+- NKO
+---
+
 **Romans 4:20**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;
 <small><sub>**BSB:**</sub></small>
 Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,
-<small><sub>**Literal:**</sub></small>
-About however the promise <the> of God not he did waver <the> through unbelief, but was strengthened <the> in faith, having given glory <the> to God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.19|<< Romans 4:19]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.21|Romans 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐ]]  [[G1252\|διεκρίθη]]  [[G3588\|τῇ]]  [[G0570\|ἀπιστίᾳ,]]  [[G0235\|ἀλλ᾽]]  [[G1743\|ἐνεδυναμώθη]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]  [[G1325\|δοὺς]]  [[G1391\|δόξαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.19|<< Romans 4:19]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.21|Romans 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

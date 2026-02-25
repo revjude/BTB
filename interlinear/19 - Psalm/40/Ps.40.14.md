@@ -1,8 +1,60 @@
+---
+title: Psalm 40:14
+type: Verse
+kjv: "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil."
+bsb: "May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated."
+hebrew: "יֵ֘בֹ֤שׁוּ וְיַחְפְּר֨וּ׀ יַחַד֮ מְבַקְשֵׁ֥י נַפְשִׁ֗י לִסְפּ֫וֹתָ֥הּ יִסֹּ֣גוּ אָ֭חוֹר וְיִכָּלְמ֑וּ חֲ֝פֵצֵ֗י רָעָתִֽי׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H2659]]"
+- "[[H9015]]"
+- "[[H3162B]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5595]]"
+- "[[H9034]]"
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H3637]]"
+- "[[H2655]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:14**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.
 <small><sub>**BSB:**</sub></small>
 May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|יֵ֘בֹ֤שׁוּ]] [[H9002\|וְ]][[H2659\|יַחְפְּר֨וּ]][[H9015\|׀]] [[H3162B\|יַחַד֮]] [[H1245\|מְבַקְשֵׁ֥י]] [[H5315H\|נַפְשִׁ֗]][[H9020\|י]] [[H9005\|לִ]][[H5595\|סְפּ֫וֹתָ֥]][[H9034\|הּ]] [[H5472\|יִסֹּ֣גוּ]] [[H0268\|אָ֭חוֹר]] [[H9002\|וְ]][[H3637\|יִכָּלְמ֑וּ]] [[H2655\|חֲ֝פֵצֵ֗י]] [[H7451C\|רָעָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.13|<< Psalms 40:13]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.15|Psalms 40:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

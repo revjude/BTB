@@ -1,10 +1,61 @@
+---
+title: Romans 7:5
+type: Verse
+kjv: "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death."
+bsb: "For when we lived according to the flesh, the sinful passions aroused by the law were at work in our bodies, bearing fruit for death."
+greek: "ὅτε γὰρ ἦμεν ἐν τῇ σαρκί, τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου ἐνηργεῖτο ἐν τοῖς μέλεσιν ἡμῶν εἰς τὸ καρποφορῆσαι τῷ θανάτῳ·"
+pericope: "[[Rom.7.1 Release from the Law|Release from the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3753]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G3804]]"
+- "[[G0266]]"
+- "[[G1223]]"
+- "[[G3551]]"
+- "[[G1754]]"
+- "[[G3196]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2592]]"
+- "[[G2288]]"
+texts:
+- NKO
+---
+
 **Romans 7:5**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.
 <small><sub>**BSB:**</sub></small>
 For when we lived according to the flesh, the sinful passions aroused by the law were at work in our bodies, bearing fruit for death.
-<small><sub>**Literal:**</sub></small>
-While for we were in the flesh, the passions <the> of sins that [were] through the law were at work in the members of us to the bringing forth of fruit <the> to death;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.4|<< Romans 7:4]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.6|Romans 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1063\|γὰρ]]  [[G1510\|ἦμεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4561\|σαρκί,]]  [[G3588\|τὰ]]  [[G3804\|παθήματα]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G3588\|τὰ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G1754\|ἐνηργεῖτο]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3196\|μέλεσιν]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2592\|καρποφορῆσαι]]  [[G3588\|τῷ]]  [[G2288\|θανάτῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.4|<< Romans 7:4]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.6|Romans 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

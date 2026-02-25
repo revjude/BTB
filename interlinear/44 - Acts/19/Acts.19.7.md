@@ -1,10 +1,43 @@
+---
+title: Acts 19:7
+type: Verse
+kjv: "And all the men were about twelve."
+bsb: "There were about twelve men in all."
+greek: "ἦσαν δὲ οἱ πάντες ἄνδρες ὡσεὶ δώδεκα.¶"
+pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G0435G]]"
+- "[[G5616]]"
+- "[[G1427]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 19:7**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the men were about twelve.
 <small><sub>**BSB:**</sub></small>
 There were about twelve men in all.
-<small><sub>**Literal:**</sub></small>
-There were then the in all men about twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.6|<< Acts 19:6]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.8|Acts 19:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3956\|πάντες]]  [[G0435G\|ἄνδρες]]  [[G5616\|ὡσεὶ]]  [[G1427\|δώδεκα.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.6|<< Acts 19:6]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.8|Acts 19:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

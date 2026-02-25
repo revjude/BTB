@@ -1,8 +1,82 @@
+---
+title: Isaiah 2:3
+type: Verse
+kjv: "And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem."
+bsb: "And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem."
+hebrew: "וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ׀ וְנַעֲלֶ֣ה אֶל־ הַר־ יְהוָ֗ה אֶל־ בֵּית֙ אֱלֹהֵ֣י יַעֲקֹ֔ב וְיֹרֵ֙נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיּוֹן֙ תֵּצֵ֣א תוֹרָ֔ה וּדְבַר־ יְהוָ֖ה מִירוּשָׁלִָֽם׃"
+pericope: "[[Isa.2.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980H]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H0559]]"
+- "[[H1980K]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H3068G]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H3384B]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0734]]"
+- "[[H3588A]]"
+- "[[H6726]]"
+- "[[H3318G]]"
+- "[[H8451]]"
+- "[[H1697G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:3**<big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H1980H\|הָלְכ֞וּ]] [[H5971A\|עַמִּ֣ים]] [[H7227A\|רַבִּ֗ים]] [[H9001\|וְ]][[H0559\|אָמְרוּ֙]] [[H1980K\|לְכ֣וּ]][[H9015\|׀]] [[H9002\|וְ]][[H5927G\|נַעֲלֶ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַר]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1004Q\|בֵּית֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3384B\|יֹרֵ֙]][[H9035\|נוּ֙]] [[H9006\|מִ]][[H1870G\|דְּרָכָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H1980I\|נֵלְכָ֖ה]] [[H9003\|בְּ]][[H0734\|אֹרְחֹתָ֑י]][[H9023\|ו]] [[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H6726\|צִּיּוֹן֙]] [[H3318G\|תֵּצֵ֣א]] [[H8451\|תוֹרָ֔ה]] [[H9002\|וּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic WALKING|WALKING]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.2|<< Isaiah 2:2]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.4|Isaiah 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

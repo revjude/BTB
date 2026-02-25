@@ -1,10 +1,52 @@
+---
+title: Mark 3:9
+type: Verse
+kjv: "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him."
+bsb: "Jesus asked His disciples to have a boat ready for Him so that the crowd would not crush Him."
+greek: "Καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν ὄχλον ἵνα μὴ θλίβωσιν αὐτόν."
+pericope: "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4142]]"
+- "[[G4342]]"
+- "[[G1223]]"
+- "[[G3793]]"
+- "[[G3361]]"
+- "[[G2346]]"
+texts:
+- NKO
+---
+
 **Mark 3:9**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.
 <small><sub>**BSB:**</sub></small>
 Jesus asked His disciples to have a boat ready for Him so that the crowd would not crush Him.
-<small><sub>**Literal:**</sub></small>
-And He spoke to the disciples of Him that a boat may wait upon Him on account of the crowd that not they may press upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.8|<< Mark 3:8]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.10|Mark 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G2443\|ἵνα]]  [[G4142\|πλοιάριον]]  [[G4342\|προσκαρτερῇ]]  [[G0846\|αὐτῷ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2346\|θλίβωσιν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.8|<< Mark 3:8]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.10|Mark 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

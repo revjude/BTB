@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Avoid Divisions
+type: Pericope
 pericope: "[[Titus.3.9 Avoid Divisions|Avoid Divisions]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Titus
 chapter: 3
 book/chapter: "[[Titus.3|Titus 3]]"
-genre:
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 3
 verses:
 - "[[Titus.3.9]]"
 - "[[Titus.3.10]]"
 - "[[Titus.3.11]]"
 ---
 
-[[Titus.3|Titus 3:9 - Titus 3:11]]
+<small>[[Titus.3|Titus 3:9-11]]</small>
 *Avoid Divisions*
 
 [[Titus.3.9|9]] But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.

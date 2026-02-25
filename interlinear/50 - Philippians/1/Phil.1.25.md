@@ -1,10 +1,57 @@
+---
+title: Philippians 1:25
+type: Verse
+kjv: "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;"
+bsb: "Convinced of this, I know that I will remain and will continue with all of you for your progress and joy in the faith,"
+greek: "καὶ τοῦτο πεποιθὼς οἶδα ὅτι μενῶ καὶ παραμενῶ πᾶσιν ὑμῖν εἰς τὴν ὑμῶν προκοπὴν καὶ χαρὰν τῆς πίστεως,"
+pericope: "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3982]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3306]]"
+- "[[G3887]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4297]]"
+- "[[G5479]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 1:25**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
 <small><sub>**BSB:**</sub></small>
 Convinced of this, I know that I will remain and will continue with all of you for your progress and joy in the faith,
-<small><sub>**Literal:**</sub></small>
-And this having been persuaded of I know that I will remain and will continue with all of you for <the> your progress and joy of the faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.24|<< Philippians 1:24]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.26|Philippians 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G3982\|πεποιθὼς]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G3306\|μενῶ]]  [[G2532\|καὶ]]  [[G3887\|παραμενῶ]]  [[G3956\|πᾶσιν]]  [[G4771\|ὑμῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4771\|ὑμῶν]]  [[G4297\|προκοπὴν]]  [[G2532\|καὶ]]  [[G5479\|χαρὰν]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.24|<< Philippians 1:24]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.26|Philippians 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

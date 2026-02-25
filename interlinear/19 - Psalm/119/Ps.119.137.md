@@ -1,8 +1,51 @@
+---
+title: Psalm 119:137
+type: Verse
+kjv: "Righteous art thou, O LORD, and upright are thy judgments."
+bsb: "Righteous are You, O LORD, and upright are Your judgments."
+hebrew: "צַדִּ֣יק אַתָּ֣ה יְהוָ֑ה וְ֝יָשָׁ֗ר מִשְׁפָּטֶֽיךָ׃"
+pericope: "[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|Your Word Is a Lamp to My Feet - TZADDI]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6662]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:137**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteous [art] thou, O LORD, and upright [are] thy judgments.
 <small><sub>**BSB:**</sub></small>
 Righteous are You, O LORD, and upright are Your judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H6662\|צַדִּ֣יק]] [[H0859A\|אַתָּ֣ה]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ֝]][[H3477G\|יָשָׁ֗ר]] [[H4941G\|מִשְׁפָּטֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.137|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.136|<< Psalms 119:136]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.138|Psalms 119:138 >>]]</td></tr></table>
 

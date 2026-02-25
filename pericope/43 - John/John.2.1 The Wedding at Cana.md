@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wedding at Cana
+type: Pericope
 pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: John
 chapter: 2
 book/chapter: "[[John.2|John 2]]"
-genre:
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 11
 verses:
 - "[[John.2.1]]"
 - "[[John.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[John.2.11]]"
 ---
 
-[[John.2|John 2:1 - John 2:11]]
+<small>[[John.2|John 2:1-11]]</small>
 *The Wedding at Cana*
 
 [[John.2.1|1]] And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:

@@ -1,8 +1,69 @@
+---
+title: Jeremiah 50:45
+type: Verse
+kjv: "Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them."
+bsb: "Therefore hear the plans that the LORD has drawn up against Babylon and the strategies He has devised against the land of the Chaldeans: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them."
+hebrew: "לָכֵ֞ן שִׁמְע֣וּ עֲצַת־ יְהוָ֗ה אֲשֶׁ֤ר יָעַץ֙ אֶל־ בָּבֶ֔ל וּמַ֨חְשְׁבוֹתָ֔יו אֲשֶׁ֥ר חָשַׁ֖ב אֶל־ אֶ֣רֶץ כַּשְׂדִּ֑ים אִם־ לֹ֤א יִסְחָבוּם֙ צְעִירֵ֣י הַצֹּ֔אן אִם־ לֹ֥א יַשִּׁ֛ים עֲלֵיהֶ֖ם נָוֶֽה׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H8085G]]"
+- "[[H6098]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3289]]"
+- "[[H0413]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H4284]]"
+- "[[H9023]]"
+- "[[H2803I]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H5498]]"
+- "[[H9038]]"
+- "[[H6810]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H8074H]]"
+- "[[H5921A]]"
+- "[[H5116A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:45**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make [their] habitation desolate with them.
 <small><sub>**BSB:**</sub></small>
 Therefore hear the plans that the LORD has drawn up against Babylon and the strategies He has devised against the land of the Chaldeans: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H8085G\|שִׁמְע֣וּ]] [[H6098\|עֲצַת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H3289\|יָעַץ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וּ]][[H4284\|מַ֨חְשְׁבוֹתָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H2803I\|חָשַׁ֖ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3778\|כַּשְׂדִּ֑ים]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H5498\|יִסְחָבוּ]][[H9038\|ם֙]] [[H6810\|צְעִירֵ֣י]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H8074H\|יַשִּׁ֛ים]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H5116A\|נָוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 

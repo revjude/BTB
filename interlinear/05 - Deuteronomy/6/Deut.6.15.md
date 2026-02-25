@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 6:15
+type: Verse
+kjv: "(For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth."
+bsb: "For the LORD your God, who is among you, is a jealous God. Otherwise the anger of the LORD your God will be kindled against you, and He will wipe you off the face of the earth."
+hebrew: "כִּ֣י אֵ֥ל קַנָּ֛א יְהוָ֥ה אֱלֹהֶ֖יךָ בְּקִרְבֶּ֑ךָ פֶּן־ יֶ֠חֱרֶה אַף־ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ בָּ֔ךְ וְהִשְׁמִ֣ידְךָ֔ מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃ ס"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0410G]]"
+- "[[H7067H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:15**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For the LORD thy God [is] a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.
 <small><sub>**BSB:**</sub></small>
 For the LORD your God, who is among you, is a jealous God. Otherwise the anger of the LORD your God will be kindled against you, and He will wipe you off the face of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0410G\|אֵ֥ל]] [[H7067H\|קַנָּ֛א]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H7130G\|קִרְבֶּ֑]][[H9021\|ךָ]] [[H6435\|פֶּן]][[H9014\|־]] [[H2734\|יֶ֠חֱרֶה]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בָּ֔]][[H9031\|ךְ]] [[H9001\|וְ]][[H8045\|הִשְׁמִ֣ידְ]][[H9031\|ךָ֔]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.14|<< Deuteronomy 6:14]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.16|Deuteronomy 6:16 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ For the LORD your God, who is among you, is a jealous God. Otherwise the anger o
 | and he will destroy you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8045\|הִשְׁמִ֣ידְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Mi.de.<small><sup>[[HVhq3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.14|<< Deuteronomy 6:14]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.16|Deuteronomy 6:16 >>]]</td></tr></table>
 
 

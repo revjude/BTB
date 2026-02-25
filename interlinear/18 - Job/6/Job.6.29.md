@@ -1,8 +1,56 @@
+---
+title: Job 6:29
+type: Verse
+kjv: "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it."
+bsb: "Reconsider; do not be unjust. Reconsider, for my righteousness is at stake."
+hebrew: "שֻֽׁבוּ־ נָ֭א אַל־ תְּהִ֣י עַוְלָ֑ה וְשׁ֥וּבוּ ע֝וֹד צִדְקִי־ בָֽהּ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7725O]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0408]]"
+- "[[H1961]]"
+- "[[H5766B]]"
+- "[[H9002]]"
+- "[[H7725I]]"
+- "[[H5750]]"
+- "[[H6664G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 6:29**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return, I pray you, let it not be iniquity; yea, return again, my righteousness [is] in it.
 <small><sub>**BSB:**</sub></small>
 Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725O\|שֻֽׁבוּ]][[H9014\|־]] [[H4994\|נָ֭א]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִ֣י]] [[H5766B\|עַוְלָ֑ה]] [[H9002\|וְ]][[H7725I\|שׁ֥וּבוּ]] [[H5750\|ע֝וֹד]] [[H6664G\|צִדְקִ]][[H9020\|י]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
@@ -19,7 +67,7 @@ Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.
 | [is] in it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
-[^1]: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
-[^2]: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^1]: and turn back  | **<big>[[H9002|וְ]]</big><big>[[H7725I|שֻׁבִי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^2]: and turn back  | **<big>[[H9002|וְ]]</big><big>[[H7725I|שֻׁבִי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְשֻׁ֥ביּ</big></span>**
 

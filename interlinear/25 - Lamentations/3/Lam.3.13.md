@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:13
+type: Verse
+kjv: "He hath caused the arrows of his quiver to enter into my reins."
+bsb: "He pierced my kidneys with His arrows."
+hebrew: "הֵבִיא֙ בְּכִלְיוֹתָ֔י בְּנֵ֖י אַשְׁפָּתֽוֹ׃"
+pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H0935P]]"
+- "[[H9003]]"
+- "[[H3629]]"
+- "[[H9020]]"
+- "[[H1121I]]"
+- "[[H0827]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:13**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath caused the arrows of his quiver to enter into my reins.
 <small><sub>**BSB:**</sub></small>
 He pierced my kidneys with His arrows.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הֵבִיא֙]] [[H9003\|בְּ]][[H3629\|כִלְיוֹתָ֔]][[H9020\|י]] [[H1121I\|בְּנֵ֖י]] [[H0827\|אַשְׁפָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARROW|ARROW]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.12|<< Lamentations 3:12]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.14|Lamentations 3:14 >>]]</td></tr></table>
 

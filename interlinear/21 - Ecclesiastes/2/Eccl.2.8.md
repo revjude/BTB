@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 2:8
+type: Verse
+kjv: "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts."
+bsb: "and I accumulated for myself silver and gold and the treasure of kings and provinces. I gathered to myself male and female singers, and the delights of the sons of men—many concubines."
+hebrew: "כָּנַ֤סְתִּי לִי֙ גַּם־ כֶּ֣סֶף וְזָהָ֔ב וּסְגֻלַּ֥ת מְלָכִ֖ים וְהַמְּדִינ֑וֹת עָשִׂ֨יתִי לִ֜י שָׁרִ֣ים וְשָׁר֗וֹת וְתַעֲנוּגֹ֛ת בְּנֵ֥י הָאָדָ֖ם שִׁדָּ֥ה וְשִׁדּֽוֹת׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3664]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H5459]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H6213I]]"
+- "[[H7891]]"
+- "[[H8588]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H7705]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:8**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, [as] musical instruments, and that of all sorts.
 <small><sub>**BSB:**</sub></small>
 and I accumulated for myself silver and gold and the treasure of kings and provinces. I gathered to myself male and female singers, and the delights of the sons of men—many concubines.
+<small><sub>**Hebrew:**</sub></small>
+[[H3664\|כָּנַ֤סְתִּי]] [[H9005\|לִ]][[H9030\|י֙]] [[H1571\|גַּם]][[H9014\|־]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֔ב]] [[H9002\|וּ]][[H5459\|סְגֻלַּ֥ת]] [[H4428G\|מְלָכִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4082\|מְּדִינ֑וֹת]] [[H6213I\|עָשִׂ֨יתִי]] [[H9005\|לִ֜]][[H9030\|י]] [[H7891\|שָׁרִ֣ים]] [[H9002\|וְ]][[H7891\|שָׁר֗וֹת]] [[H9002\|וְ]][[H8588\|תַעֲנוּגֹ֛ת]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H7705\|שִׁדָּ֥ה]] [[H9002\|וְ]][[H7705\|שִׁדּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic EPICUREANS|EPICUREANS]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic MUSIC|MUSIC]] • [[topic PLEASURE|PLEASURE]] • [[topic SILVER|SILVER]] • [[topic SOLOMON|SOLOMON]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.7|<< Ecclesiastes 2:7]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.9|Ecclesiastes 2:9 >>]]</td></tr></table>
 

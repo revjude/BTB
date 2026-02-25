@@ -1,10 +1,64 @@
+---
+title: Luke 8:37
+type: Verse
+kjv: "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+bsb: "Then all the people of the region of the Gerasenes asked Jesus to depart from them, because great fear had taken hold of them. So He got into the boat and started back."
+greek: "καὶ ἠρώτησεν αὐτὸν ἅπαν τὸ πλῆθος τῆς περιχώρου τῶν Γερασηνῶν ἀπελθεῖν ἀπ᾽ αὐτῶν, ὅτι φόβῳ μεγάλῳ συνείχοντο.¶ Αὐτὸς δὲ ἐμβὰς εἰς τὸ πλοῖον ὑπέστρεψεν."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G0537]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G4066]]"
+- "[[G1086G]]"
+- "[[G0565]]"
+- "[[G0575]]"
+- "[[G3754H]]"
+- "[[G5401]]"
+- "[[G3173]]"
+- "[[G4912]]"
+- "[[G1161]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G4143]]"
+- "[[G5290]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 8:37**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.
 <small><sub>**BSB:**</sub></small>
 Then all the people of the region of the Gerasenes asked Jesus to depart from them, because great fear had taken hold of them. So He got into the boat and started back.
-<small><sub>**Literal:**</sub></small>
-And asked Him all the multitude of the surrounding region of the Gerasenes to depart from them, because with fear great they were seized. He himself now having climbed into the boat turned back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.36|<< Luke 8:36]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.38|Luke 8:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2065\|ἠρώτησεν]]  [[G0846\|αὐτὸν]]  [[G0537\|ἅπαν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G3588\|τῆς]]  [[G4066\|περιχώρου]]  [[G3588\|τῶν]]  [[G1086G\|Γερασηνῶν]]  [[G0565\|ἀπελθεῖν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν,]]  [[G3754H\|ὅτι]]  [[G5401\|φόβῳ]]  [[G3173\|μεγάλῳ]]  [[G4912\|συνείχοντο.¶]]  [[G0846\|Αὐτὸς]]  [[G1161\|δὲ]]  [[G1684\|ἐμβὰς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G5290\|ὑπέστρεψεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.36|<< Luke 8:36]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.38|Luke 8:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

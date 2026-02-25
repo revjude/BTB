@@ -1,10 +1,60 @@
+---
+title: Luke 4:42
+type: Verse
+kjv: "And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them."
+bsb: "At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving."
+greek: "Γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον, καὶ οἱ ὄχλοι ἐπεζήτουν αὐτὸν καὶ ἦλθον ἕως αὐτοῦ καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ᾽ αὐτῶν."
+pericope: "[[Luke.4.42 Jesus Preaches in Judea|Jesus Preaches in Judea]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G1831]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G1934]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G2193]]"
+- "[[G2722]]"
+- "[[G3361]]"
+- "[[G0575]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:42**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.
 <small><sub>**BSB:**</sub></small>
 At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving.
-<small><sub>**Literal:**</sub></small>
-When was arriving now daybreak having gone out He went into a solitary place, and the crowds were sought after Him and they came up to Him and were detaining Him of the not to go from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.41|<< Luke 4:41]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.43|Luke 4:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Γενομένης]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρας]]  [[G1831\|ἐξελθὼν]]  [[G4198\|ἐπορεύθη]]  [[G1519\|εἰς]]  [[G2048\|ἔρημον]]  [[G5117\|τόπον,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G1934\|ἐπεζήτουν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G2193\|ἕως]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2722\|κατεῖχον]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G4198\|πορεύεσθαι]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.41|<< Luke 4:41]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.43|Luke 4:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

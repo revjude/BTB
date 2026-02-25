@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 17:9
+type: Verse
+kjv: "Behold, he is hid now in some pit, or in some other place: and it will come to pass, when some of them be overthrown at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom."
+bsb: "Surely by now he is hiding in a cave or some other location. If some of your troops fall first, whoever hears of it will say, ‘There has been a slaughter among the troops who follow Absalom.’"
+hebrew: "הִנֵּ֨ה עַתָּ֤ה הֽוּא־ נֶחְבָּא֙ בְּאַחַ֣ת הַפְּחָתִ֔ים א֖וֹ בְּאַחַ֣ד הַמְּקוֹמֹ֑ת וְהָיָ֗ה כִּנְפֹ֤ל בָּהֶם֙ בַּתְּחִלָּ֔ה וְשָׁמַ֤ע הַשֹּׁמֵ֙עַ֙ וְאָמַ֔ר הָֽיְתָה֙ מַגֵּפָ֔ה בָּעָ֕ם אֲשֶׁ֖ר אַחֲרֵ֥י אַבְשָׁלֹֽם׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2009]]"
+- "[[H6258]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H2244]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H6354]]"
+- "[[H0176A]]"
+- "[[H4725]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5307J]]"
+- "[[H9038]]"
+- "[[H8462]]"
+- "[[H8085G]]"
+- "[[H0559]]"
+- "[[H4046]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0310A]]"
+- "[[H0053]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:9**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he is hid now in some pit, or in some [other] place: and it will come to pass, when some of them be overthrown at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom.
 <small><sub>**BSB:**</sub></small>
 Surely by now he is hiding in a cave or some other location. If some of your troops fall first, whoever hears of it will say, ‘There has been a slaughter among the troops who follow Absalom.’
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H6258\|עַתָּ֤ה]] [[H1931\|הֽוּא]][[H9014\|־]] [[H2244\|נֶחְבָּא֙]] [[H9003\|בְּ]][[H0259\|אַחַ֣ת]] [[H9009\|הַ]][[H6354\|פְּחָתִ֔ים]] [[H0176A\|א֖וֹ]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H9009\|הַ]][[H4725\|מְּקוֹמֹ֑ת]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9004\|כִּ]][[H5307J\|נְפֹ֤ל]] [[H9003\|בָּ]][[H9038\|הֶם֙]] [[H9003\|בַּ]][[H8462\|תְּחִלָּ֔ה]] [[H9001\|וְ]][[H8085G\|שָׁמַ֤ע]] [[H9009\|הַ]][[H8085G\|שֹּׁמֵ֙עַ֙]] [[H9001\|וְ]][[H0559\|אָמַ֔ר]] [[H1961\|הָֽיְתָה֙]] [[H4046\|מַגֵּפָ֔ה]] [[H9003\|בָּ]][[H5971A\|עָ֕ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H0310A\|אַחֲרֵ֥י]] [[H0053\|אַבְשָׁלֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic ARMIES|ARMIES]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.8|<< 2 Samuel 17:8]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.10|2 Samuel 17:10 >>]]</td></tr></table>
 

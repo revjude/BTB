@@ -1,10 +1,67 @@
+---
+title: Hebrews 9:26
+type: Verse
+kjv: "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself."
+bsb: "Otherwise, Christ would have had to suffer repeatedly since the foundation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself."
+greek: "ἐπεὶ ἔδει αὐτὸν πολλάκις παθεῖν ἀπὸ καταβολῆς κόσμου, νυνὶ δὲ ἅπαξ ἐπὶ συντελείᾳ τῶν αἰώνων εἰς ἀθέτησιν τῆς ἁμαρτίας διὰ τῆς θυσίας αὐτοῦ πεφανέρωται."
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1893]]"
+- "[[G1163]]"
+- "[[G0846]]"
+- "[[G4178]]"
+- "[[G3958]]"
+- "[[G0575]]"
+- "[[G2602]]"
+- "[[G2889]]"
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G0530]]"
+- "[[G1909]]"
+- "[[G4930]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G1519]]"
+- "[[G0115]]"
+- "[[G0266]]"
+- "[[G1223]]"
+- "[[G2378]]"
+- "[[G5319]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Hebrews 9:26**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.
 <small><sub>**BSB:**</sub></small>
 Otherwise, Christ would have had to suffer repeatedly since the foundation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself.
-<small><sub>**Literal:**</sub></small>
-Otherwise it was necessary for Him repeatedly to have suffered from [the] foundation of [the] world, now however once in [the] consummation of the ages for [the] putting away <the> of sin through the sacrifice of Himself He has been revealed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.25|<< Hebrews 9:25]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.27|Hebrews 9:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G1163\|ἔδει]]  [[G0846\|αὐτὸν]]  [[G4178\|πολλάκις]]  [[G3958\|παθεῖν]]  [[G0575\|ἀπὸ]]  [[G2602\|καταβολῆς]]  [[G2889\|κόσμου,]]  [[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G0530\|ἅπαξ]]  [[G1909\|ἐπὶ]]  [[G4930\|συντελείᾳ]]  [[G3588\|τῶν]]  [[G0165G\|αἰώνων]]  [[G1519\|εἰς]]  [[G0115\|ἀθέτησιν]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G2378\|θυσίας]]  [[G0846\|αὐτοῦ]]  [[G5319\|πεφανέρωται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.25|<< Hebrews 9:25]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.27|Hebrews 9:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

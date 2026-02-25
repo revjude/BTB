@@ -1,10 +1,52 @@
+---
+title: Acts 25:15
+type: Verse
+kjv: "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him."
+bsb: "While I was in Jerusalem, the chief priests and elders of the Jews presented their case and requested a judgment against him."
+greek: "περὶ οὗ γενομένου μου εἰς Ἱεροσόλυμα ἐνεφάνισαν οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τῶν Ἰουδαίων αἰτούμενοι κατ᾽ αὐτοῦ καταδίκην·"
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+strongs:
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G1718]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G2453]]"
+- "[[G0154]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G6048]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:15**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed [me], desiring [to have] judgment against him.
 <small><sub>**BSB:**</sub></small>
 While I was in Jerusalem, the chief priests and elders of the Jews presented their case and requested a judgment against him.
-<small><sub>**Literal:**</sub></small>
-concerning whom having been of me in Jerusalem made a presentation the chief priests and the elders of the Jews asking against him penalty;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.14|<< Acts 25:14]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.16|Acts 25:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G1096\|γενομένου]]  [[G3165\|μου]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G1718\|ἐνεφάνισαν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G0154\|αἰτούμενοι]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτοῦ]]  [[G6048\|καταδίκην·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.14|<< Acts 25:14]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.16|Acts 25:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

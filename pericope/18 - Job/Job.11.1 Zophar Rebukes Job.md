@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zophar Rebukes Job
+type: Pericope
 pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 11
 book/chapter: "[[Job.11|Job 11]]"
-genre:
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 20
 verses:
 - "[[Job.11.1]]"
 - "[[Job.11.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Job.11.20]]"
 ---
 
-[[Job.11|Job 11:1 - Job 11:20]]
+<small>[[Job.11|Job 11:1-20]]</small>
 *Zophar Rebukes Job*
 
 [[Job.11.1|1]] Then answered Zophar the Naamathite, and said,

@@ -1,10 +1,70 @@
+---
+title: Mark 9:41
+type: Verse
+kjv: "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward."
+bsb: "Indeed, if anyone gives you even a cup of water because you bear the name of Christ, truly I tell you, he will never lose his reward."
+jesus_said: "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward."
+greek: "ὃς γὰρ ἂν ποτίσῃ ὑμᾶς ποτήριον ὕδατος ἐν τῷ ὀνόματι μου ὅτι Χριστοῦ ἐστε, ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ."
+pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G4222]]"
+- "[[G4771]]"
+- "[[G4221]]"
+- "[[G5204]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G5547]]"
+- "[[G1510]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G3408]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- no
+- NK(o)
+---
+
 **Mark 9:41**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.
 <small><sub>**BSB:**</sub></small>
 Indeed, if anyone gives you even a cup of water because you bear the name of Christ, truly I tell you, he will never lose his reward.
-<small><sub>**Literal:**</sub></small>
-Who[ever] for maybe may give to drink you a cup of water in the name of me because of Christ’s you are, Amen I say to you that certainly not may lose the reward of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.40|<< Mark 9:40]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.42|Mark 9:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G0302\|ἂν]]  [[G4222\|ποτίσῃ]]  [[G4771\|ὑμᾶς]]  [[G4221\|ποτήριον]]  [[G5204\|ὕδατος]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3165\|μου]]  [[G3754H\|ὅτι]]  [[G5547\|Χριστοῦ]]  [[G1510\|ἐστε,]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0622\|ἀπολέσῃ]]  [[G3588\|τὸν]]  [[G3408\|μισθὸν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.40|<< Mark 9:40]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.42|Mark 9:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

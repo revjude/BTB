@@ -1,8 +1,68 @@
+---
+title: Ezekiel 48:28
+type: Verse
+kjv: "And by the border of Gad, at the south side southward, the border shall be even from Tamar unto the waters of strife in Kadesh, and to the river toward the great sea."
+bsb: "The southern border of Gad will run from Tamar to the waters of Meribath-kadesh, then along the Brook of Egypt and out to the Great Sea."
+hebrew: "וְעַל֙ גְּב֣וּל גָּ֔ד אֶל־ פְּאַ֖ת נֶ֣גֶב תֵּימָ֑נָה וְהָיָ֨ה גְב֜וּל מִתָּמָ֗ר מֵ֚י מְרִיבַ֣ת קָדֵ֔שׁ נַחֲלָ֖ה עַל־ הַיָּ֥ם הַגָּדֽוֹל׃"
+pericope: "[[Ezek.48.23 The Portions for the Remaining Tribes|The Portions for the Remaining Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H1366H]]"
+- "[[H1410G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6285]]"
+- "[[H5045H]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1366G]]"
+- "[[H9006]]"
+- "[[H8559J]]"
+- "[[H4325G]]"
+- "[[H4809H]]"
+- "[[H6946H]]"
+- "[[H5158M]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:28**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Gad, at the south side southward, the border shall be even from Tamar [unto] the waters of strife [in] Kadesh, [and] to the river toward the great sea.
 <small><sub>**BSB:**</sub></small>
 The southern border of Gad will run from Tamar to the waters of Meribath-kadesh, then along the Brook of Egypt and out to the Great Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל֙]] [[H1366H\|גְּב֣וּל]] [[H1410G\|גָּ֔ד]] [[H0413\|אֶל]][[H9014\|־]] [[H6285\|פְּאַ֖ת]] [[H5045H\|נֶ֣גֶב]] [[H8486\|תֵּימָ֑נָ]][[H9011\|ה]] [[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H1366G\|גְב֜וּל]] [[H9006\|מִ]][[H8559J\|תָּמָ֗ר]] [[H4325G\|מֵ֚י]] [[H4809H\|מְרִיבַ֣ת]] [[H6946H\|קָדֵ֔שׁ]] [[H5158M\|נַחֲלָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הַ]][[H1419J\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.27|<< Ezekiel 48:27]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.29|Ezekiel 48:29 >>]]</td></tr></table>
 

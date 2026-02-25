@@ -1,8 +1,62 @@
+---
+title: Jonah 1:11
+type: Verse
+kjv: "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous."
+bsb: "Now the sea was growing worse and worse, so they said to Jonah, “What must we do to you to calm this sea for us?”"
+hebrew: "וַיֹּאמְר֤וּ אֵלָיו֙ מַה־ נַּ֣עֲשֶׂה לָּ֔ךְ וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעָלֵ֑ינוּ כִּ֥י הַיָּ֖ם הוֹלֵ֥ךְ וְסֹעֵֽר׃"
+pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H8367]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H1980L]]"
+- "[[H5590]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:11**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.
 <small><sub>**BSB:**</sub></small>
 Now the sea was growing worse and worse, so they said to Jonah, “What must we do to you to calm this sea for us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H4100\|מַה]][[H9014\|־]] [[H6213A\|נַּ֣עֲשֶׂה]] [[H9005\|לָּ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H8367\|יִשְׁתֹּ֥ק]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9006\|מֵֽ]][[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H3588A\|כִּ֥י]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H1980L\|הוֹלֵ֥ךְ]] [[H9002\|וְ]][[H5590\|סֹעֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.10|<< Jonah 1:10]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.12|Jonah 1:12 >>]]</td></tr></table>
 

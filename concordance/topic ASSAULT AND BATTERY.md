@@ -1,7 +1,7 @@
 
 **ASSAULT AND BATTERY**
 
-→ LAWS CONCERNING [[Exod.21.15|Ex 21:15]],[[Exod.21.18|18]],[[Exod.21.22|22]]-[[Exod.21.27|27]]; [[Deut.17.8|De 17:8]]-[[Deut.17.12|12]]; [[Matt.5.38|Mt 5:38]],[[Matt.5.39|39]]
+→ LAWS CONCERNING [[Exod.21.15|Ex 21:15]],[[Exod.21.18|18]],[[Exod.21.22|22-27]]; [[Deut.17.8|De 17:8-12]]; [[Matt.5.38|Mt 5:38]],[[Matt.5.39|39]]
 
 → STRIKING JESUS
 

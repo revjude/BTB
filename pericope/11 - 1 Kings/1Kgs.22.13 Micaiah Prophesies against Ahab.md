@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Micaiah Prophesies against Ahab
+type: Pericope
 pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 22
 book/chapter: "[[1Kgs.22|1 Kings 22]]"
-genre:
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 16
 verses:
 - "[[1Kgs.22.13]]"
 - "[[1Kgs.22.14]]"
@@ -36,7 +43,7 @@ verses:
 - "[[1Kgs.22.28]]"
 ---
 
-[[1Kgs.22|1 Kings 22:13 - 1 Kings 22:28]]
+<small>[[1Kgs.22|1 Kings 22:13-28]]</small>
 *Micaiah Prophesies against Ahab*
 
 [[1Kgs.22.13|13]] And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets \[declare\] good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak \[that which is\] good.

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Repentance
+type: Pericope
 pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 3
 book/chapter: "[[Jer.3|Jeremiah 3]]"
-genre:
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.3.11]]"
 - "[[Jer.3.12]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.3.25]]"
 ---
 
-[[Jer.3|Jeremiah 3:11 - Jeremiah 3:25]]
+<small>[[Jer.3|Jeremiah 3:11-25]]</small>
 *A Call to Repentance*
 
 [[Jer.3.11|11]] And the LORD said unto me, The backsliding Israel hath justified herself more than treacherous Judah.

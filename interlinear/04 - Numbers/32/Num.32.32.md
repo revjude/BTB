@@ -1,8 +1,65 @@
+---
+title: Numbers 32:32
+type: Verse
+kjv: "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours."
+bsb: "We will cross over into the land of Canaan armed before the LORD, that we may have our inheritance on this side of the Jordan.”"
+hebrew: "נַ֣חְנוּ נַעֲבֹ֧ר חֲלוּצִ֛ים לִפְנֵ֥י יְהוָ֖ה אֶ֣רֶץ כְּנָ֑עַן וְאִתָּ֙נוּ֙ אֲחֻזַּ֣ת נַחֲלָתֵ֔נוּ מֵעֵ֖בֶר לַיַּרְדֵּֽן׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H5168]]"
+- "[[H5674A]]"
+- "[[H2502B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H0272]]"
+- "[[H5159]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:32**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan [may be] ours.
 <small><sub>**BSB:**</sub></small>
 We will cross over into the land of Canaan armed before the LORD, that we may have our inheritance on this side of the Jordan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5168\|נַ֣חְנוּ]] [[H5674A\|נַעֲבֹ֧ר]] [[H2502B\|חֲלוּצִ֛ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9002\|וְ]][[H0854\|אִתָּ֙]][[H9035\|נוּ֙]] [[H0272\|אֲחֻזַּ֣ת]] [[H5159\|נַחֲלָתֵ֔]][[H9025\|נוּ]] [[H9006\|מֵ]][[H5676H\|עֵ֖בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.31|<< Numbers 32:31]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.33|Numbers 32:33 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: 1 Samuel 17:25
+type: Verse
+kjv: "And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, that the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father’s house free in Israel."
+bsb: "Now the men of Israel had been saying, “Do you see how this man keeps coming out to defy Israel? To the man who kills him the king will give great riches. And he will give him his daughter in marriage and exempt his father’s house from taxation in Israel.”"
+hebrew: "וַיֹּ֣אמֶר׀ אִ֣ישׁ יִשְׂרָאֵ֗ל הַרְּאִיתֶם֙ הָאִ֤ישׁ הָֽעֹלֶה֙ הַזֶּ֔ה כִּ֛י לְחָרֵ֥ף אֶת־ יִשְׂרָאֵ֖ל עֹלֶ֑ה וְֽ֠הָיָה הָאִ֨ישׁ אֲשֶׁר־ יַכֶּ֜נּוּ יַעְשְׁרֶ֥נּוּ הַמֶּ֣לֶךְ׀ עֹ֣שֶׁר גָּד֗וֹל וְאֶת־ בִּתּוֹ֙ יִתֶּן־ ל֔וֹ וְאֵת֙ בֵּ֣ית אָבִ֔יו יַעֲשֶׂ֥ה חָפְשִׁ֖י בְּיִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H2778A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H6238]]"
+- "[[H4428G]]"
+- "[[H6239]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H5414O]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H6213H]]"
+- "[[H2670]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:25**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, [that] the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father’s house free in Israel.
 <small><sub>**BSB:**</sub></small>
 Now the men of Israel had been saying, “Do you see how this man keeps coming out to defy Israel? To the man who kills him the king will give great riches. And he will give him his daughter in marriage and exempt his father’s house from taxation in Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9008\|הַ]][[H7200G\|רְּאִיתֶם֙]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הָֽ]][[H5927G\|עֹלֶה֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֛י]] [[H9005\|לְ]][[H2778A\|חָרֵ֥ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5927G\|עֹלֶ֑ה]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9009\|הָ]][[H0376G\|אִ֨ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5221\|יַכֶּ֜]][[H9033\|נּוּ]] [[H6238\|יַעְשְׁרֶ֥]][[H9033\|נּוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]][[H9015\|׀]] [[H6239\|עֹ֣שֶׁר]] [[H1419A\|גָּד֗וֹל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בִּתּ]][[H9023\|וֹ֙]] [[H5414O\|יִתֶּן]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H6213H\|יַעֲשֶׂ֥ה]] [[H2670\|חָפְשִׁ֖י]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAUGHTER|DAUGHTER]] • [[topic DECISION|DECISION]] • [[topic JESSE|JESSE]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.24|<< 1 Samuel 17:24]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.26|1 Samuel 17:26 >>]]</td></tr></table>
 

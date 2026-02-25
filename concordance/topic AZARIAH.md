@@ -25,7 +25,7 @@
 
 → 10. Son of Obed [[2Chr.23.3|2Ch 23:3]]
 
-→ 11. Son of Johanan, possibly identical with ZECHARIAH, son of  Jehoiada [[1Chr.6.10|1Ch 6:10]],[[1Chr.6.11|11]]; [[2Chr.24.20|2Ch 24:20]]-[[2Chr.24.22|22]]
+→ 11. Son of Johanan, possibly identical with ZECHARIAH, son of  Jehoiada [[1Chr.6.10|1Ch 6:10]],[[1Chr.6.11|11]]; [[2Chr.24.20|2Ch 24:20-22]]
 
 → 12. AZARIAH
 
@@ -43,7 +43,7 @@
 
 → 16. Son of Hilkiah [[1Chr.6.13|1Ch 6:13]],[[1Chr.6.14|14]]; [[1Chr.9.11|9:11]]; [[Ezra.7.1|Ezr 7:1]],[[Ezra.7.3|3]]
 
-→ 17. Son of Hoshaiah [[Jer.43.2|Jer 43:2]]-[[Jer.43.7|7]]
+→ 17. Son of Hoshaiah [[Jer.43.2|Jer 43:2-7]]
 
 → 18. Hebrew name of ABED-NEGO [[Dan.1.7|Da 1:7]],[[Dan.1.19|19]]
 

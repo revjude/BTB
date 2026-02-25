@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 23:21
+type: Verse
+kjv: "And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear."
+bsb: "He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear."
+hebrew: "וְהוּא־ הִכָּה֩ אֶת־ אִ֨ישׁ מִצְרִ֜י אִ֣ישׁ מַרְאֶ֗ה וּבְיַ֤ד הַמִּצְרִי֙ חֲנִ֔ית וַיֵּ֥רֶד אֵלָ֖יו בַּשָּׁ֑בֶט וַיִּגְזֹ֤ל אֶֽת־ הַחֲנִית֙ מִיַּ֣ד הַמִּצְרִ֔י וַיַּהַרְגֵ֖הוּ בַּחֲנִיתֽוֹ׃"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0376G]]"
+- "[[H4713]]"
+- "[[H0834A]]"
+- "[[H4758]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H2595]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7626G]]"
+- "[[H1497]]"
+- "[[H9006]]"
+- "[[H2026]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 23:21**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
 <small><sub>**BSB:**</sub></small>
 He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא]][[H9014\|־]] [[H5221\|הִכָּה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H4713\|מִצְרִ֜י]] [[H0376G\|אִ֣ישׁ]] [[H4758\|מַרְאֶ֗ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יַ֤ד]] [[H9009\|הַ]][[H4713\|מִּצְרִי֙]] [[H2595\|חֲנִ֔ית]] [[H9001\|וַ]][[H3381\|יֵּ֥רֶד]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H9003\|בַּ]][[H7626G\|שָּׁ֑בֶט]] [[H9001\|וַ]][[H1497\|יִּגְזֹ֤ל]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2595\|חֲנִית֙]] [[H9006\|מִ]][[H3027G\|יַּ֣ד]] [[H9009\|הַ]][[H4713\|מִּצְרִ֔י]] [[H9001\|וַ]][[H2026\|יַּהַרְגֵ֖]][[H9033\|הוּ]] [[H9003\|בַּ]][[H2595\|חֲנִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.20|<< 2 Samuel 23:20]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.22|2 Samuel 23:22 >>]]</td></tr></table>
 

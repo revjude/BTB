@@ -1,10 +1,73 @@
+---
+title: Luke 1:13
+type: Verse
+kjv: "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
+bsb: "But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John."
+greek: "Εἶπεν δὲ πρὸς αὐτὸν ὁ ἄγγελος· μὴ φοβοῦ Ζαχαρία· διότι εἰσηκούσθη ἡ δέησίς σου, καὶ ἡ γυνή σου Ἐλισάβετ γεννήσει υἱόν σοι, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰωάννην."
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2197H]]"
+- "[[G1360]]"
+- "[[G1522]]"
+- "[[G1162]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1135H]]"
+- "[[G1665]]"
+- "[[G1080]]"
+- "[[G5207]]"
+- "[[G2564G]]"
+- "[[G3686]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Luke 1:13**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.
 <small><sub>**BSB:**</sub></small>
 But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John.
-<small><sub>**Literal:**</sub></small>
-Said then to him the angel; Not do fear Zechariah; because has been heard the prayer of you, and the wife of You Elizabeth will bear a son to you, and you will call the name of him John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.12|<< Luke 1:12]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.14|Luke 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ]]  [[G2197H\|Ζαχαρία·]]  [[G1360\|διότι]]  [[G1522\|εἰσηκούσθη]]  [[G3588\|ἡ]]  [[G1162\|δέησίς]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135H\|γυνή]]  [[G4771\|σου]]  [[G1665\|Ἐλισάβετ]]  [[G1080\|γεννήσει]]  [[G5207\|υἱόν]]  [[G4771\|σοι,]]  [[G2532\|καὶ]]  [[G2564G\|καλέσεις]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2491G\|Ἰωάννην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GABRIEL|GABRIEL]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.12|<< Luke 1:12]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.14|Luke 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

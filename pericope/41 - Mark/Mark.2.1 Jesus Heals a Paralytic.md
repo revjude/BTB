@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Paralytic
+type: Pericope
 pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Mark
 chapter: 2
 book/chapter: "[[Mark.2|Mark 2]]"
-genre:
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Mark.2.1]]"
 - "[[Mark.2.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Mark.2.12]]"
 ---
 
-[[Mark.2|Mark 2:1 - Mark 2:12]]
+<small>[[Mark.2|Mark 2:1-12]]</small>
 *Jesus Heals a Paralytic*
 
 [[Mark.2.1|1]] And again he entered into Capernaum, after \[some\] days; and it was noised that he was in the house.

@@ -1,10 +1,57 @@
+---
+title: Acts 8:2
+type: Verse
+kjv: "And devout men carried Stephen to his burial, and made great lamentation over him."
+bsb: "God-fearing men buried Stephen and mourned deeply over him."
+greek: "συνεκόμισαν δὲ τὸν Στέφανον ἄνδρες εὐλαβεῖς καὶ ἐποίησαν κοπετὸν μέγαν ἐπ᾽ αὐτῷ.¶"
+pericope: "[[Acts.8.1 Saul Persecutes the Church|Saul Persecutes the Church]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic STEPHEN|STEPHEN]]"
+strongs:
+- "[[G4792]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4736]]"
+- "[[G0435G]]"
+- "[[G2126]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G2870]]"
+- "[[G3173]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 8:2**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And devout men carried Stephen [to his burial], and made great lamentation over him.
 <small><sub>**BSB:**</sub></small>
 God-fearing men buried Stephen and mourned deeply over him.
-<small><sub>**Literal:**</sub></small>
-Buried now <the> Stephen men devout and they made lamentation great over him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.1|<< Acts 8:1]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.3|Acts 8:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4792\|συνεκόμισαν]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G4736\|Στέφανον]]  [[G0435G\|ἄνδρες]]  [[G2126\|εὐλαβεῖς]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησαν]]  [[G2870\|κοπετὸν]]  [[G3173\|μέγαν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic STEPHEN|STEPHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.1|<< Acts 8:1]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.3|Acts 8:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

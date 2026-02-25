@@ -1,8 +1,83 @@
+---
+title: 1 Kings 21:15
+type: Verse
+kjv: "And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead."
+bsb: "When Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up and take possession of the vineyard of Naboth the Jezreelite, who refused to give it to you for silver. For Naboth is no longer alive, but dead.”"
+hebrew: "וַֽיְהִי֙ כִּשְׁמֹ֣עַ אִיזֶ֔בֶל כִּֽי־ סֻקַּ֥ל נָב֖וֹת וַיָּמֹ֑ת וַתֹּ֨אמֶר אִיזֶ֜בֶל אֶל־ אַחְאָ֗ב ק֣וּם רֵ֞שׁ אֶת־ כֶּ֣רֶם׀ נָב֣וֹת הַיִּזְרְעֵאלִ֗י אֲשֶׁ֤ר מֵאֵן֙ לָתֶת־ לְךָ֣ בְכֶ֔סֶף כִּ֣י אֵ֥ין נָב֛וֹת חַ֖י כִּי־ מֵֽת׃"
+pericope: "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0348]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5619]]"
+- "[[H5022]]"
+- "[[H4191]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H0256G]]"
+- "[[H6965B]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H3754]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3158H]]"
+- "[[H0834A]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H0369]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:15**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead.
 <small><sub>**BSB:**</sub></small>
 When Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up and take possession of the vineyard of Naboth the Jezreelite, who refused to give it to you for silver. For Naboth is no longer alive, but dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H0348\|אִיזֶ֔בֶל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5619\|סֻקַּ֥ל]] [[H5022\|נָב֖וֹת]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H0348\|אִיזֶ֜בֶל]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָ֗ב]] [[H6965B\|ק֣וּם]] [[H3423H\|רֵ֞שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3754\|כֶּ֣רֶם]][[H9015\|׀]] [[H5022\|נָב֣וֹת]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֗י]] [[H0834A\|אֲשֶׁ֤ר]] [[H3985\|מֵאֵן֙]] [[H9005\|לָ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H9003\|בְ]][[H3701G\|כֶ֔סֶף]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H5022\|נָב֛וֹת]] [[H2416A\|חַ֖י]] [[H3588A\|כִּי]][[H9014\|־]] [[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFISCATION|CONFISCATION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic MONEY|MONEY]] • [[topic NABOTH|NABOTH]] • [[topic PROPERTY|PROPERTY]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.14|<< 1 Kings 21:14]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.16|1 Kings 21:16 >>]]</td></tr></table>
 

@@ -1,10 +1,72 @@
+---
+title: Acts 18:2
+type: Verse
+kjv: "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+bsb: "There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul went to visit them,"
+greek: "καὶ εὑρών τινα Ἰουδαῖον ὀνόματι Ἀκύλαν, Ποντικὸν τῷ γένει, προσφάτως ἐληλυθότα ἀπὸ τῆς Ἰταλίας, καὶ Πρίσκιλλαν γυναῖκα αὐτοῦ, διὰ τὸ διατεταχέναι Κλαύδιον χωρίζεσθαι πάντας τοὺς Ἰουδαίους ἀπὸ τῆς Ῥώμης, προσῆλθεν αὐτοῖς·"
+pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]]"
+- "[[topic BANISHMENT|BANISHMENT]]"
+- "[[topic CLAUDIUS|CLAUDIUS]]"
+- "[[topic ITALY|ITALY]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PONTUS|PONTUS]]"
+- "[[topic PRISCILLA|PRISCILLA]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+- "[[topic ROME|ROME]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G5100]]"
+- "[[G2453]]"
+- "[[G3686]]"
+- "[[G0207]]"
+- "[[G4193]]"
+- "[[G3588]]"
+- "[[G1085G]]"
+- "[[G4373]]"
+- "[[G2064]]"
+- "[[G0575]]"
+- "[[G2482]]"
+- "[[G4252]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G1299]]"
+- "[[G2804G]]"
+- "[[G5563]]"
+- "[[G3956]]"
+- "[[G4516]]"
+- "[[G4334]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 18:2**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 <small><sub>**BSB:**</sub></small>
 There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul went to visit them,
-<small><sub>**Literal:**</sub></small>
-And having found a certain Jew named Aquila, of Pontus <the> a native, recently having come from <the> Italy, and Priscilla wife of him, because of <the> to have commanded Claudius to depart all the Jews out of <the> Rome, he came to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.1|<< Acts 18:1]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.3|Acts 18:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὑρών]]  [[G5100\|τινα]]  [[G2453\|Ἰουδαῖον]]  [[G3686\|ὀνόματι]]  [[G0207\|Ἀκύλαν,]]  [[G4193\|Ποντικὸν]]  [[G3588\|τῷ]]  [[G1085G\|γένει,]]  [[G4373\|προσφάτως]]  [[G2064\|ἐληλυθότα]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2482\|Ἰταλίας,]]  [[G2532\|καὶ]]  [[G4252\|Πρίσκιλλαν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ,]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G1299\|διατεταχέναι]]  [[G2804G\|Κλαύδιον]]  [[G5563\|χωρίζεσθαι]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2453\|Ἰουδαίους]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4516\|Ῥώμης,]]  [[G4334\|προσῆλθεν]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]] • [[topic BANISHMENT|BANISHMENT]] • [[topic CLAUDIUS|CLAUDIUS]] • [[topic ITALY|ITALY]] • [[topic PAUL|PAUL]] • [[topic PONTUS|PONTUS]] • [[topic PRISCILLA|PRISCILLA]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]] • [[topic ROME|ROME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.1|<< Acts 18:1]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.3|Acts 18:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Nahum 3:3
+type: Verse
+kjv: "The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:"
+bsb: "Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—"
+hebrew: "פָּרָ֣שׁ מַעֲלֶ֗ה וְלַ֤הַב חֶ֙רֶב֙ וּבְרַ֣ק חֲנִ֔ית וְרֹ֥ב חָלָ֖ל וְכֹ֣בֶד פָּ֑גֶר וְאֵ֥ין קֵ֙צֶה֙ לַגְּוִיָּ֔ה וְכָשְׁל֖וּ בִּגְוִיָּתָֽם׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6571B]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H3851]]"
+- "[[H2719]]"
+- "[[H1300B]]"
+- "[[H2595]]"
+- "[[H7230]]"
+- "[[H2491A]]"
+- "[[H3514]]"
+- "[[H6297]]"
+- "[[H0369]]"
+- "[[H7097B]]"
+- "[[H9005]]"
+- "[[H1472]]"
+- "[[H3782]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nahum 3:3**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The horseman lifteth up both the bright sword and the glittering spear: and [there is] a multitude of slain, and a great number of carcases; and [there is] none end of [their] corpses; they stumble upon their corpses:
 <small><sub>**BSB:**</sub></small>
 Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—
+<small><sub>**Hebrew:**</sub></small>
+[[H6571B\|פָּרָ֣שׁ]] [[H5927G\|מַעֲלֶ֗ה]] [[H9002\|וְ]][[H3851\|לַ֤הַב]] [[H2719\|חֶ֙רֶב֙]] [[H9002\|וּ]][[H1300B\|בְרַ֣ק]] [[H2595\|חֲנִ֔ית]] [[H9002\|וְ]][[H7230\|רֹ֥ב]] [[H2491A\|חָלָ֖ל]] [[H9002\|וְ]][[H3514\|כֹ֣בֶד]] [[H6297\|פָּ֑גֶר]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7097B\|קֵ֙צֶה֙]] [[H9005\|לַ]][[H1472\|גְּוִיָּ֔ה]] [[H9001\|וְ]][[H3782\|כָשְׁל֖וּ]] [[H9003\|בִּ]][[H1472\|גְוִיָּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: 2 Corinthians 5:17
+type: Verse
+kjv: "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+bsb: "Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!"
+greek: "ὥστε εἴ τις ἐν Χριστῷ, καινὴ κτίσις· τὰ ἀρχαῖα παρῆλθεν, ἰδοὺ γέγονεν καινά τὰ πάντα."
+pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CREATURE|CREATURE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5620]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2537]]"
+- "[[G2937]]"
+- "[[G3588]]"
+- "[[G0744]]"
+- "[[G3928]]"
+- "[[G2400]]"
+- "[[G1096]]"
+- "[[G3956]]"
+texts:
+- NKO
+- K
+---
+
 **2 Corinthians 5:17**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore if any man [be] in Christ, [he is] a new creature: old things are passed away; behold, all things are become new.
 <small><sub>**BSB:**</sub></small>
 Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!
-<small><sub>**Literal:**</sub></small>
-Therefore if anyone [is] in Christ, [he is] a new creation; The old things have passed away, behold has come into being new <the> all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.16|<< 2 Corinthians 5:16]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.18|2 Corinthians 5:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ,]]  [[G2537\|καινὴ]]  [[G2937\|κτίσις·]]  [[G3588\|τὰ]]  [[G0744\|ἀρχαῖα]]  [[G3928\|παρῆλθεν,]]  [[G2400\|ἰδοὺ]]  [[G1096\|γέγονεν]]  [[G2537\|καινά]]  [[G3588\|τὰ]]  [[G3956\|πάντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic CREATURE|CREATURE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.16|<< 2 Corinthians 5:16]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.18|2 Corinthians 5:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 5:17** is...
 > $\quad$ referencing: [[LXX.Isa.43.18|Isa 43:18-19]]

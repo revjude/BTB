@@ -1,8 +1,66 @@
+---
+title: Genesis 40:11
+type: Verse
+kjv: "And Pharaoh’s cup was in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand."
+bsb: "Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into his cup, and placed the cup in his hand.”"
+hebrew: "וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־ הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־ כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־ הַכּ֖וֹס עַל־ כַּ֥ף פַּרְעֹֽה׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic CUPBEARER|CUPBEARER]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3563A]]"
+- "[[H6547H]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6025]]"
+- "[[H7818]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:11**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh’s cup [was] in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.
 <small><sub>**BSB:**</sub></small>
 Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into his cup, and placed the cup in his hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3563A\|כ֥וֹס]] [[H6547H\|פַּרְעֹ֖ה]] [[H9003\|בְּ]][[H3027G\|יָדִ֑]][[H9020\|י]] [[H9001\|וָ]][[H3947G\|אֶקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6025\|עֲנָבִ֗ים]] [[H9001\|וָֽ]][[H7818\|אֶשְׂחַ֤ט]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3563A\|כּ֣וֹס]] [[H6547H\|פַּרְעֹ֔ה]] [[H9001\|וָ]][[H5414H\|אֶתֵּ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3563A\|כּ֖וֹס]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּ֥ף]] [[H6547H\|פַּרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic CUPBEARER|CUPBEARER]] • [[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.10|<< Genesis 40:10]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.12|Genesis 40:12 >>]]</td></tr></table>
 

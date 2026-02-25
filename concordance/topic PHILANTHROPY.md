@@ -1,7 +1,7 @@
 
 **PHILANTHROPY**
 
-→ General scriptures concerning [[Isa.58.6|Isa 58:6]]-[[Isa.58.12|12]]
+→ General scriptures concerning [[Isa.58.6|Isa 58:6-12]]
 
 → See [[topic ALMS|ALMS]]
 

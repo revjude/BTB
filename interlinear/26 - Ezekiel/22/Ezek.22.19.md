@@ -1,8 +1,67 @@
+---
+title: Ezekiel 22:19
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem."
+bsb: "Therefore this is what the Lord GOD says: ‘Because all of you have become dross, behold, I will gather you into Jerusalem."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֛עַן הֱי֥וֹת כֻּלְּכֶ֖ם לְסִגִ֑ים לָכֵן֙ הִנְנִ֣י קֹבֵ֣ץ אֶתְכֶ֔ם אֶל־ תּ֖וֹךְ יְרוּשָׁלִָֽם׃"
+pericope: "[[Ezek.22.17 The Refining Furnace|The Refining Furnace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DROSS|DROSS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H5509]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:19**<big><big>[[Ezek.22.17 The Refining Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Because all of you have become dross, behold, I will gather you into Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H3282\|יַ֛עַן]] [[H1961\|הֱי֥וֹת]] [[H3605\|כֻּלְּ]][[H9026\|כֶ֖ם]] [[H9005\|לְ]][[H5509\|סִגִ֑ים]] [[H9005\|לָ]][[H3651C\|כֵן֙]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H6908\|קֹבֵ֣ץ]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֖וֹךְ]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROSS|DROSS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SILVER|SILVER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.18|<< Ezekiel 22:18]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.20|Ezekiel 22:20 >>]]</td></tr></table>
 

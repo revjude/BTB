@@ -1,8 +1,55 @@
+---
+title: Numbers 3:23
+type: Verse
+kjv: "The families of the Gershonites shall pitch behind the tabernacle westward."
+bsb: "The Gershonite clans were to camp on the west, behind the tabernacle,"
+hebrew: "מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י אַחֲרֵ֧י הַמִּשְׁכָּ֛ן יַחֲנ֖וּ יָֽמָּה׃"
+pericope: "[[Num.3.21 The Gershonites|The Gershonites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H1649]]"
+- "[[H0310A]]"
+- "[[H4908]]"
+- "[[H2583]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:23**<big><big>[[Num.3.21 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The families of the Gershonites shall pitch behind the tabernacle westward.
 <small><sub>**BSB:**</sub></small>
 The Gershonite clans were to camp on the west, behind the tabernacle,
+<small><sub>**Hebrew:**</sub></small>
+[[H4940\|מִשְׁפְּחֹ֖ת]] [[H9009\|הַ]][[H1649\|גֵּרְשֻׁנִּ֑י]] [[H0310A\|אַחֲרֵ֧י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H2583\|יַחֲנ֖וּ]] [[H3220H\|יָֽמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.22|<< Numbers 3:22]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.24|Numbers 3:24 >>]]</td></tr></table>
 

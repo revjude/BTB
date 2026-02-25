@@ -1,10 +1,59 @@
+---
+title: Luke 3:11
+type: Verse
+kjv: "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise."
+bsb: "John replied, “Whoever has two tunics should share with him who has none, and whoever has food should do the same.”"
+greek: "ἀποκριθεὶς δὲ ἔλεγεν αὐτοῖς· ὁ ἔχων δύο χιτῶνας μεταδότω τῷ μὴ ἔχοντι καὶ ὁ ἔχων βρώματα ὁμοίως ποιείτω.¶"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G1417]]"
+- "[[G5509]]"
+- "[[G3330]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G1033]]"
+- "[[G3668]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 3:11**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
 <small><sub>**BSB:**</sub></small>
 John replied, “Whoever has two tunics should share with him who has none, and whoever has food should do the same.”
-<small><sub>**Literal:**</sub></small>
-Answering now he was saying to them; The [one] having two tunics he should impart to the [one] none having and the [one] having food likewise he should do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.10|<< Luke 3:10]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.12|Luke 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G1417\|δύο]]  [[G5509\|χιτῶνας]]  [[G3330\|μεταδότω]]  [[G3588\|τῷ]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντι]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G1033\|βρώματα]]  [[G3668\|ὁμοίως]]  [[G4160G\|ποιείτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.10|<< Luke 3:10]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.12|Luke 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

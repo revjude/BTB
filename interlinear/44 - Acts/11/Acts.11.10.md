@@ -1,10 +1,52 @@
+---
+title: Acts 11:10
+type: Verse
+kjv: "And this was done three times: and all were drawn up again into heaven."
+bsb: "This happened three times, and everything was drawn back up into heaven."
+greek: "τοῦτο δὲ ἐγένετο ἐπὶ τρίς, καὶ ἀνεσπάσθη πάλιν ἅπαντα εἰς τὸν οὐρανόν."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G5151]]"
+- "[[G2532]]"
+- "[[G0385]]"
+- "[[G3825]]"
+- "[[G0537]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Acts 11:10**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this was done three times: and all were drawn up again into heaven.
 <small><sub>**BSB:**</sub></small>
 This happened three times, and everything was drawn back up into heaven.
-<small><sub>**Literal:**</sub></small>
-This now happened on three times, and was drawn up again all into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.9|<< Acts 11:9]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.11|Acts 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G5151\|τρίς,]]  [[G2532\|καὶ]]  [[G0385\|ἀνεσπάσθη]]  [[G3825\|πάλιν]]  [[G0537\|ἅπαντα]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.9|<< Acts 11:9]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.11|Acts 11:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

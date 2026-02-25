@@ -1,8 +1,57 @@
+---
+title: Genesis 34:9
+type: Verse
+kjv: "And make ye marriages with us, and give your daughters unto us, and take our daughters unto you."
+bsb: "Intermarry with us; give us your daughters and take our daughters for yourselves."
+hebrew: "וְהִֽתְחַתְּנ֖וּ אֹתָ֑נוּ בְּנֹֽתֵיכֶם֙ תִּתְּנוּ־ לָ֔נוּ וְאֶת־ בְּנֹתֵ֖ינוּ תִּקְח֥וּ לָכֶֽם׃"
+pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2859B]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H1323G]]"
+- "[[H9026]]"
+- "[[H5414O]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H9025]]"
+- "[[H3947G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:9**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And make ye marriages with us, [and] give your daughters unto us, and take our daughters unto you.
 <small><sub>**BSB:**</sub></small>
 Intermarry with us; give us your daughters and take our daughters for yourselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2859B\|הִֽתְחַתְּנ֖וּ]] [[H0854\|אֹתָ֑]][[H9035\|נוּ]] [[H1323G\|בְּנֹֽתֵי]][[H9026\|כֶם֙]] [[H5414O\|תִּתְּנוּ]][[H9014\|־]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתֵ֖י]][[H9025\|נוּ]] [[H3947G\|תִּקְח֥וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.8|<< Genesis 34:8]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.10|Genesis 34:10 >>]]</td></tr></table>
 

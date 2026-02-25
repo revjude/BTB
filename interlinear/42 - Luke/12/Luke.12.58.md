@@ -1,10 +1,76 @@
+---
+title: Luke 12:58
+type: Verse
+kjv: "When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison."
+bsb: "Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison."
+jesus_said: "When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison."
+greek: "ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ᾽ ἄρχοντα, ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ᾽ αὐτοῦ μήποτε μήποτε κατασύρῃ σε πρὸς τὸν κριτήν, καὶ ὁ κριτής σε παραδώσει τῷ πράκτορι, καὶ ὁ πράκτωρ σε βαλεῖ εἰς φυλακήν."
+pericope: "[[Luke.12.57 Reconciling with an Adversary|Reconciling with an Adversary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMPROMISE|COMPROMISE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LITIGATION|LITIGATION]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G5613]]"
+- "[[G1063]]"
+- "[[G5217]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G0476]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G0758]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G1325]]"
+- "[[G2039]]"
+- "[[G0525]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G2694]]"
+- "[[G4314]]"
+- "[[G2923]]"
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G4233]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+texts:
+- NKO
+- N(k)O
+- N(k)(o)
+---
+
 **Luke 12:58**<big><big>[[Luke.12.57 Reconciling with an Adversary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When thou goest with thine adversary to the magistrate, [as thou art] in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.
 <small><sub>**BSB:**</sub></small>
 Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison.
-<small><sub>**Literal:**</sub></small>
-As for you are going with the adversary of you before a magistrate, in the way do give earnestness to have been set free from him otherwise he may drag away you to the judge, and the judge you will deliver to the officer, and the officer you will cast into prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.57|<< Luke 12:57]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.59|Luke 12:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1063\|γὰρ]]  [[G5217\|ὑπάγεις]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G0476\|ἀντιδίκου]]  [[G4771\|σου]]  [[G1909\|ἐπ᾽]]  [[G0758\|ἄρχοντα,]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G1325\|δὸς]]  [[G2039\|ἐργασίαν]]  [[G0525\|ἀπηλλάχθαι]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G2694\|κατασύρῃ]]  [[G4771\|σε]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2923\|κριτήν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2923\|κριτής]]  [[G4771\|σε]]  [[G3860\|παραδώσει]]  [[G3588\|τῷ]]  [[G4233\|πράκτορι,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4233\|πράκτωρ]]  [[G4771\|σε]]  [[G0906H\|βαλεῖ]]  [[G1519\|εἰς]]  [[G5438G\|φυλακήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPROMISE|COMPROMISE]] • [[topic CREDITOR|CREDITOR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LITIGATION|LITIGATION]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.57|<< Luke 12:57]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.59|Luke 12:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

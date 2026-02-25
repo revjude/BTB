@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manasseh’s Western Inheritance
+type: Pericope
 pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 17
 book/chapter: "[[Josh.17|Joshua 17]]"
-genre:
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 18
 verses:
 - "[[Josh.17.1]]"
 - "[[Josh.17.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Josh.17.18]]"
 ---
 
-[[Josh.17|Joshua 17:1 - Joshua 17:18]]
+<small>[[Josh.17|Joshua 17:1-18]]</small>
 *Manasseh’s Western Inheritance*
 
 [[Josh.17.1|1]] There was also a lot for the tribe of Manasseh; for he \[was\] the firstborn of Joseph; \[to wit\], for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.

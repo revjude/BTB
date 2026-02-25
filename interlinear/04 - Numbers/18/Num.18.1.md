@@ -1,8 +1,70 @@
+---
+title: Numbers 18:1
+type: Verse
+kjv: "And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood."
+bsb: "So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶֽל־ אַהֲרֹ֔ן אַתָּ֗ה וּבָנֶ֤יךָ וּבֵית־ אָבִ֙יךָ֙ אִתָּ֔ךְ תִּשְׂא֖וּ אֶת־ עֲוֹ֣ן הַמִּקְדָּ֑שׁ וְאַתָּה֙ וּבָנֶ֣יךָ אִתָּ֔ךְ תִּשְׂא֖וּ אֶת־ עֲוֹ֥ן כְּהֻנַּתְכֶֽם׃"
+pericope: "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H5375J]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H9009]]"
+- "[[H4720]]"
+- "[[H3550]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:1**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
 <small><sub>**BSB:**</sub></small>
 So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H0859A\|אַתָּ֗ה]] [[H9002\|וּ]][[H1121A\|בָנֶ֤י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H0854\|אִתָּ֔]][[H9031\|ךְ]] [[H5375J\|תִּשְׂא֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹ֣ן]] [[H9009\|הַ]][[H4720\|מִּקְדָּ֑שׁ]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H9002\|וּ]][[H1121A\|בָנֶ֣י]][[H9021\|ךָ]] [[H0854\|אִתָּ֔]][[H9031\|ךְ]] [[H5375J\|תִּשְׂא֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹ֥ן]] [[H3550\|כְּהֻנַּתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.13|<< Numbers 17:13]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.2|Numbers 18:2 >>]]</td></tr></table>
 

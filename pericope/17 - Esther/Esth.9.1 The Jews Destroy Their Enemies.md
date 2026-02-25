@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Jews Destroy Their Enemies
+type: Pericope
 pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 9
 book/chapter: "[[Esth.9|Esther 9]]"
-genre:
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 10
 verses:
 - "[[Esth.9.1]]"
 - "[[Esth.9.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Esth.9.10]]"
 ---
 
-[[Esth.9|Esther 9:1 - Esther 9:10]]
+<small>[[Esth.9|Esther 9:1-10]]</small>
 *The Jews Destroy Their Enemies*
 
 [[Esth.9.1|1]] Now in the twelfth month, that \[is\], the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)

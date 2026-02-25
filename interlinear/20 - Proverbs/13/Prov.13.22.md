@@ -1,8 +1,54 @@
+---
+title: Proverbs 13:22
+type: Verse
+kjv: "A good man leaveth an inheritance to his children’s children: and the wealth of the sinner is laid up for the just."
+bsb: "A good man leaves an inheritance to his children’s children, but the sinner’s wealth is passed to the righteous."
+hebrew: "ט֗וֹב יַנְחִ֥יל בְּנֵֽי־ בָנִ֑ים וְצָפ֥וּן לַ֝צַּדִּ֗יק חֵ֣יל חוֹטֵֽא׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H2896A]]"
+- "[[H5157]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H6845]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H2428H]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:22**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A good [man] leaveth an inheritance to his children’s children: and the wealth of the sinner [is] laid up for the just.
 <small><sub>**BSB:**</sub></small>
 A good man leaves an inheritance to his children’s children, but the sinner’s wealth is passed to the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֗וֹב]] [[H5157\|יַנְחִ֥יל]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H1121A\|בָנִ֑ים]] [[H9002\|וְ]][[H6845\|צָפ֥וּן]] [[H9005\|לַ֝]][[H6662\|צַּדִּ֗יק]] [[H2428H\|חֵ֣יל]] [[H2398\|חוֹטֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FRUGALITY|FRUGALITY]] • [[topic GOD|GOD]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.21|<< Proverbs 13:21]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.23|Proverbs 13:23 >>]]</td></tr></table>
 

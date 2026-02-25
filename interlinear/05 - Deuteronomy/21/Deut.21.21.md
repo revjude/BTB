@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 21:21
+type: Verse
+kjv: "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear."
+bsb: "Then all the men of his city will stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid."
+hebrew: "וּ֠רְגָמֻהוּ כָּל־ אַנְשֵׁ֨י עִיר֤וֹ בָֽאֲבָנִים֙ וָמֵ֔ת וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּ֑ךָ וְכָל־ יִשְׂרָאֵ֖ל יִשְׁמְע֥וּ וְיִרָֽאוּ׃ ס"
+pericope: "[[Deut.21.18 A Rebellious Son|A Rebellious Son]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DRUNKARD|DRUNKARD]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7275]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H4191]]"
+- "[[H1197I]]"
+- "[[H9009]]"
+- "[[H7451B]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H8085G]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:21**<big><big>[[Deut.21.18 A Rebellious Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
 <small><sub>**BSB:**</sub></small>
 Then all the men of his city will stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ֠]][[H7275\|רְגָמֻ]][[H9033\|הוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֨י]] [[H5892B\|עִיר֤]][[H9023\|וֹ]] [[H9003\|בָֽ]][[H0068G\|אֲבָנִים֙]] [[H9001\|וָ]][[H4191\|מֵ֔ת]] [[H9001\|וּ]][[H1197I\|בִֽעַרְתָּ֥]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9006\|מִ]][[H7130G\|קִּרְבֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H8085G\|יִשְׁמְע֥וּ]] [[H9002\|וְ]][[H3372G\|יִרָֽאוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic DRUNKARD|DRUNKARD]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GLUTTONY|GLUTTONY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.20|<< Deuteronomy 21:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.22|Deuteronomy 21:22 >>]]</td></tr></table>
 
@@ -20,7 +88,7 @@ Then all the men of his city will stone him to death. So you must purge the evil
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will hear  |**<big>&#8207;[[H8085G\|יִשְׁמְע֥וּ]]&#8207; </big>**| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they may fear  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3372G\|יִרָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Ra.'u<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they may fear  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3372G\|יִרָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Ra.'u<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.20|<< Deuteronomy 21:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.22|Deuteronomy 21:22 >>]]</td></tr></table>
 
 

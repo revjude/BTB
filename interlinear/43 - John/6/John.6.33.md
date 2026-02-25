@@ -1,10 +1,58 @@
+---
+title: John 6:33
+type: Verse
+kjv: "For the bread of God is he which cometh down from heaven, and giveth life unto the world."
+bsb: "For the bread of God is He who comes down from heaven and gives life to the world.”"
+jesus_said: "For the bread of God is he which cometh down from heaven, and giveth life unto the world."
+greek: "ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G0740]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G2222]]"
+- "[[G1325]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **John 6:33**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the bread of God is he which cometh down from heaven, and giveth life unto the world.
 <small><sub>**BSB:**</sub></small>
 For the bread of God is He who comes down from heaven and gives life to the world.”
-<small><sub>**Literal:**</sub></small>
-The for bread <the> of God is the [One] coming down out of <the> heaven and life giving to the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.32|<< John 6:32]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.34|John 6:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G0740\|ἄρτος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2597\|καταβαίνων]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G2222\|ζωὴν]]  [[G1325\|διδοὺς]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.32|<< John 6:32]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.34|John 6:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

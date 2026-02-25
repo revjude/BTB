@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws of Social Responsibility
+type: Pericope
 pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 22
 book/chapter: "[[Exod.22|Exodus 22]]"
-genre:
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 16
 verses:
 - "[[Exod.22.16]]"
 - "[[Exod.22.17]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Exod.22.31]]"
 ---
 
-[[Exod.22|Exodus 22:16 - Exodus 22:31]]
+<small>[[Exod.22|Exodus 22:16-31]]</small>
 *Laws of Social Responsibility*
 
 [[Exod.22.16|16]] And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.

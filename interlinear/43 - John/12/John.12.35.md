@@ -1,10 +1,68 @@
+---
+title: John 12:35
+type: Verse
+kjv: "Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth."
+bsb: "Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going."
+jesus_said: "Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth."
+greek: "Εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἔτι μικρὸν χρόνον τὸ φῶς ἐν ὑμῖν ἐστιν. περιπατεῖτε ὡς τὸ φῶς ἔχετε, ἵνα μὴ σκοτία ὑμᾶς καταλάβῃ· καὶ ὁ περιπατῶν ἐν τῇ σκοτίᾳ οὐκ οἶδεν ποῦ ὑπάγει."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2089]]"
+- "[[G3398]]"
+- "[[G5550]]"
+- "[[G5457]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G4043]]"
+- "[[G5613]]"
+- "[[G2192]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4653]]"
+- "[[G2638]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4226]]"
+- "[[G5217]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 12:35**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Jesus; Yet a little while the light among you is. do walk while the light you have, so that not darkness you may grasp; And the [one] walking in the darkness not knows where he is going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.34|<< John 12:34]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.36|John 12:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2089\|ἔτι]]  [[G3398\|μικρὸν]]  [[G5550\|χρόνον]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἐστιν.]]  [[G4043\|περιπατεῖτε]]  [[G5613\|ὡς]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G2192\|ἔχετε,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4653\|σκοτία]]  [[G4771\|ὑμᾶς]]  [[G2638\|καταλάβῃ·]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4043\|περιπατῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4653\|σκοτίᾳ]]  [[G3756\|οὐκ]]  [[G6063\|οἶδεν]]  [[G4226\|ποῦ]]  [[G5217\|ὑπάγει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.34|<< John 12:34]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.36|John 12:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

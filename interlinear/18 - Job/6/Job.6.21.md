@@ -1,8 +1,54 @@
+---
+title: Job 6:21
+type: Verse
+kjv: "For now ye are nothing; ye see my casting down, and are afraid."
+bsb: "For now you are of no help; you see terror, and you are afraid."
+hebrew: "כִּֽי־ עַ֭תָּה הֱיִ֣יתֶם ל֑וֹ תִּֽרְא֥וּ חֲ֝תַ֗ת וַתִּירָֽאוּ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H1961]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H2866]]"
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 6:21**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now ye are nothing; ye see [my] casting down, and are afraid.
 <small><sub>**BSB:**</sub></small>
 For now you are of no help; you see terror, and you are afraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H1961\|הֱיִ֣יתֶם]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H7200G\|תִּֽרְא֥וּ]] [[H2866\|חֲ֝תַ֗ת]] [[H9001\|וַ]][[H3372G\|תִּירָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.20|<< Job 6:20]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.22|Job 6:22 >>]]</td></tr></table>
 

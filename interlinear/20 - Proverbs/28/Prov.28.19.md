@@ -1,8 +1,56 @@
+---
+title: Proverbs 28:19
+type: Verse
+kjv: "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough."
+bsb: "The one who works his land will have plenty of food, but whoever chases fantasies will have his fill of poverty."
+hebrew: "עֹבֵ֣ד אַ֭דְמָתוֹ יִֽשְׂבַּֽע־ לָ֑חֶם וּמְרַדֵּ֥ף רֵ֝קִ֗ים יִֽשְׂבַּֽע־ רִֽישׁ׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic POVERTY|POVERTY]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H5647I]]"
+- "[[H0127G]]"
+- "[[H9023]]"
+- "[[H7646]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H7386]]"
+- "[[H7389B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:19**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that tilleth his land shall have plenty of bread: but he that followeth after vain [persons] shall have poverty enough.
 <small><sub>**BSB:**</sub></small>
 The one who works his land will have plenty of food, but whoever chases fantasies will have his fill of poverty.
+<small><sub>**Hebrew:**</sub></small>
+[[H5647I\|עֹבֵ֣ד]] [[H0127G\|אַ֭דְמָת]][[H9023\|וֹ]] [[H7646\|יִֽשְׂבַּֽע]][[H9014\|־]] [[H3899H\|לָ֑חֶם]] [[H9002\|וּ]][[H7291\|מְרַדֵּ֥ף]] [[H7386\|רֵ֝קִ֗ים]] [[H7646\|יִֽשְׂבַּֽע]][[H9014\|־]] [[H7389B\|רִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POOR|POOR]] • [[topic POVERTY|POVERTY]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.18|<< Proverbs 28:18]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.20|Proverbs 28:20 >>]]</td></tr></table>
 

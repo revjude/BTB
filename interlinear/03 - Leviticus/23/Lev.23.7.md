@@ -1,8 +1,63 @@
+---
+title: Leviticus 23:7
+type: Verse
+kjv: "In the first day ye shall have an holy convocation: ye shall do no servile work therein."
+bsb: "On the first day you are to hold a sacred assembly; you are not to do any regular work."
+hebrew: "בַּיּוֹם֙ הָֽרִאשׁ֔וֹן מִקְרָא־ קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Lev.23.4 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:7**<big><big>[[Lev.23.4 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first day ye shall have an holy convocation: ye shall do no servile work therein.
 <small><sub>**BSB:**</sub></small>
 On the first day you are to hold a sacred assembly; you are not to do any regular work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הָֽ]][[H7223G\|רִאשׁ֔וֹן]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.6|<< Leviticus 23:6]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.8|Leviticus 23:8 >>]]</td></tr></table>
 

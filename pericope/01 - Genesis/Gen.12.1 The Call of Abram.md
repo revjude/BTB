@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Call of Abram
+type: Pericope
 pericope: "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 12
 book/chapter: "[[Gen.12|Genesis 12]]"
-genre:
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.12.1]]"
 - "[[Gen.12.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.12.9]]"
 ---
 
-[[Gen.12|Genesis 12:1 - Genesis 12:9]]
+<small>[[Gen.12|Genesis 12:1-9]]</small>
 *The Call of Abram*
 
 [[Gen.12.1|1]] Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:

@@ -1,8 +1,68 @@
+---
+title: Zechariah 9:7
+type: Verse
+kjv: "And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, shall be for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite."
+bsb: "I will remove the blood from their mouths and the abominations from between their teeth. Then they too will become a remnant for our God; they will become like a clan in Judah, and Ekron will be like the Jebusites."
+hebrew: "וַהֲסִרֹתִ֨י דָמָ֜יו מִפִּ֗יו וְשִׁקֻּצָיו֙ מִבֵּ֣ין שִׁנָּ֔יו וְנִשְׁאַ֥ר גַּם־ ה֖וּא לֵֽאלֹהֵ֑ינוּ וְהָיָה֙ כְּאַלֻּ֣ף בִּֽיהוּדָ֔ה וְעֶקְר֖וֹן כִּיבוּסִֽי׃"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H8251]]"
+- "[[H0996G]]"
+- "[[H8127G]]"
+- "[[H7604]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0441B]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H6138]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:7**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, [shall be] for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
 <small><sub>**BSB:**</sub></small>
 I will remove the blood from their mouths and the abominations from between their teeth. Then they too will become a remnant for our God; they will become like a clan in Judah, and Ekron will be like the Jebusites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|הֲסִרֹתִ֨י]] [[H1818\|דָמָ֜י]][[H9023\|ו]] [[H9006\|מִ]][[H6310G\|פִּ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H8251\|שִׁקֻּצָי]][[H9023\|ו֙]] [[H9006\|מִ]][[H0996G\|בֵּ֣ין]] [[H8127G\|שִׁנָּ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7604\|נִשְׁאַ֥ר]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H9005\|לֵֽ]][[H0430G\|אלֹהֵ֑י]][[H9025\|נוּ]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9004\|כְּ]][[H0441B\|אַלֻּ֣ף]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וְ]][[H6138\|עֶקְר֖וֹן]] [[H9004\|כִּ]][[H2983G\|יבוּסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.6|<< Zechariah 9:6]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.8|Zechariah 9:8 >>]]</td></tr></table>
 

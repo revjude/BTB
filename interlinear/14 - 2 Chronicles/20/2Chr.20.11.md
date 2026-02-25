@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 20:11
+type: Verse
+kjv: "Behold, I say, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit."
+bsb: "See how they are repaying us by coming to drive us out of the possession that You gave us as an inheritance."
+hebrew: "וְהִ֨נֵּה־ הֵ֔ם גֹּמְלִ֖ים עָלֵ֑ינוּ לָבוֹא֙ לְגָ֣רְשֵׁ֔נוּ מִיְּרֻשָּׁתְךָ֖ אֲשֶׁ֥ר הֽוֹרַשְׁתָּֽנוּ׃"
+pericope: "[[2Chr.20.5 Jehoshaphat’s Prayer|Jehoshaphat’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BATTLE|BATTLE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H1580]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H1644G]]"
+- "[[H9006]]"
+- "[[H3425]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3423G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:11**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [I say, how] they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.
 <small><sub>**BSB:**</sub></small>
 See how they are repaying us by coming to drive us out of the possession that You gave us as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִ֨נֵּה]][[H9014\|־]] [[H1992\|הֵ֔ם]] [[H1580\|גֹּמְלִ֖ים]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H9005\|לְ]][[H1644G\|גָ֣רְשֵׁ֔]][[H9035\|נוּ]] [[H9006\|מִ]][[H3425\|יְּרֻשָּׁתְ]][[H9021\|ךָ֖]] [[H0834A\|אֲשֶׁ֥ר]] [[H3423G\|הֽוֹרַשְׁתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BATTLE|BATTLE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.10|<< 2 Chronicles 20:10]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.12|2 Chronicles 20:12 >>]]</td></tr></table>
 

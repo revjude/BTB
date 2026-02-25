@@ -1,8 +1,58 @@
+---
+title: Hosea 11:2
+type: Verse
+kjv: "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
+bsb: "But the more I called Israel, the farther they departed from Me. They sacrificed to the Baals and burned incense to carved images."
+hebrew: "קָרְא֖וּ לָהֶ֑ם כֵּ֚ן הָלְכ֣וּ מִפְּנֵיהֶ֔ם לַבְּעָלִ֣ים יְזַבֵּ֔חוּ וְלַפְּסִלִ֖ים יְקַטֵּרֽוּן׃"
+pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BAALIM|BAALIM]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3651C]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H1168A]]"
+- "[[H2076]]"
+- "[[H9002]]"
+- "[[H6456]]"
+- "[[H6999H]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:2**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.
 <small><sub>**BSB:**</sub></small>
 But the more I called Israel, the farther they departed from Me. They sacrificed to the Baals and burned incense to carved images.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121G\|קָרְא֖וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H3651C\|כֵּ֚ן]] [[H1980G\|הָלְכ֣וּ]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9005\|לַ]][[H1168A\|בְּעָלִ֣ים]] [[H2076\|יְזַבֵּ֔חוּ]] [[H9002\|וְ]][[H9005\|לַ]][[H6456\|פְּסִלִ֖ים]] [[H6999H\|יְקַטֵּרֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALIM|BAALIM]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.1|<< Hosea 11:1]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.3|Hosea 11:3 >>]]</td></tr></table>
 

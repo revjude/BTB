@@ -1,8 +1,64 @@
+---
+title: Proverbs 3:3
+type: Verse
+kjv: "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+bsb: "Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart."
+hebrew: "חֶ֥סֶד וֶאֱמֶ֗ת אַֽל־ יַעַ֫זְבֻ֥ךָ קָשְׁרֵ֥ם עַל־ גַּרְגְּרוֹתֶ֑יךָ כָּ֝תְבֵ֗ם עַל־ ל֥וּחַ לִבֶּֽךָ׃"
+pericope: "[[Prov.3.1 Trust in the LORD with All Your Heart|Trust in the LORD with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H9031]]"
+- "[[H7194]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H1621]]"
+- "[[H9021]]"
+- "[[H3789]]"
+- "[[H3871]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:3**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:
 <small><sub>**BSB:**</sub></small>
 Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H2617A\|חֶ֥סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶ֗ת]] [[H0408\|אַֽל]][[H9014\|־]] [[H5800A\|יַעַ֫זְבֻ֥]][[H9031\|ךָ]] [[H7194\|קָשְׁרֵ֥]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1621\|גַּרְגְּרוֹתֶ֑י]][[H9021\|ךָ]] [[H3789\|כָּ֝תְבֵ֗]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3871\|ל֥וּחַ]] [[H3820A\|לִבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MERCY|MERCY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TABLE|TABLE]] • [[topic TRUTH|TRUTH]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.2|<< Proverbs 3:2]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.4|Proverbs 3:4 >>]]</td></tr></table>
 

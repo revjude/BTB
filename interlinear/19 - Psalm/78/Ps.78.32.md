@@ -1,8 +1,60 @@
+---
+title: Psalm 78:32
+type: Verse
+kjv: "For all this they sinned still, and believed not for his wondrous works."
+bsb: "In spite of all this, they kept on sinning; despite His wonderful works, they did not believe."
+hebrew: "בְּכָל־ זֹ֭את חָֽטְאוּ־ ע֑וֹד וְלֹֽא־ הֶ֝אֱמִ֗ינוּ בְּנִפְלְאוֹתָֽיו׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H2398]]"
+- "[[H5750]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H6381]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:32**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all this they sinned still, and believed not for his wondrous works.
 <small><sub>**BSB:**</sub></small>
 In spite of all this, they kept on sinning; despite His wonderful works, they did not believe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹ֭את]] [[H2398\|חָֽטְאוּ]][[H9014\|־]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0539\|הֶ֝אֱמִ֗ינוּ]] [[H9003\|בְּ]][[H6381\|נִפְלְאוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.31|<< Psalms 78:31]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.33|Psalms 78:33 >>]]</td></tr></table>
 

@@ -1,7 +1,7 @@
 
 **COPULATION**
 
-→ Forbidden between persons near of kin [[Lev.18.6|Le 18:6]]-[[Lev.18.16|16]]
+→ Forbidden between persons near of kin [[Lev.18.6|Le 18:6-16]]
 
 → During menses [[Lev.15.19|Le 15:19]]; [[Lev.18.19|18:19]]
 

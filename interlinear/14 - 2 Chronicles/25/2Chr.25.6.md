@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 25:6
+type: Verse
+kjv: "He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver."
+bsb: "He also hired 100,000 mighty men of valor from Israel for a hundred talents of silver."
+hebrew: "וַיִּשְׂכֹּ֣ר מִיִּשְׂרָאֵ֗ל מֵ֥אָה אֶ֛לֶף גִּבּ֥וֹר חָ֖יִל בְּמֵאָ֥ה כִכַּר־ כָּֽסֶף׃"
+pericope: "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7936B]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H9003]]"
+- "[[H3603H]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:6**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver.
 <small><sub>**BSB:**</sub></small>
 He also hired 100,000 mighty men of valor from Israel for a hundred talents of silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7936B\|יִּשְׂכֹּ֣ר]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֗ל]] [[H3967\|מֵ֥אָה]] [[H0505G\|אֶ֛לֶף]] [[H1368\|גִּבּ֥וֹר]] [[H2428G\|חָ֖יִל]] [[H9003\|בְּ]][[H3967\|מֵאָ֥ה]] [[H3603H\|כִכַּר]][[H9014\|־]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.5|<< 2 Chronicles 25:5]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.7|2 Chronicles 25:7 >>]]</td></tr></table>
 

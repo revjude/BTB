@@ -1,8 +1,54 @@
+---
+title: Psalm 20:3
+type: Verse
+kjv: "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+bsb: "May He remember all your gifts and look favorably on your burnt offerings. Selah"
+hebrew: "יִזְכֹּ֥ר כָּל־ מִנְחֹתֶ֑ךָ וְעוֹלָתְךָ֖ יְדַשְּׁנֶ֣ה סֶֽלָה׃"
+pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 20
+book/chapter: "[[Ps.20|Psalm 20]]"
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H2142]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H1878]]"
+- "[[H9012]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 20:3**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember all thy offerings, and accept thy burnt sacrifice; Selah.
 <small><sub>**BSB:**</sub></small>
 May He remember all your gifts and look favorably on your burnt offerings. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|יִזְכֹּ֥ר]] [[H3605\|כָּל]][[H9014\|־]] [[H4503G\|מִנְחֹתֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H5930A\|עוֹלָתְ]][[H9021\|ךָ֖]] [[H1878\|יְדַשְּׁנֶ֣]][[H9012\|ה]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.2|<< Psalms 20:2]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.4|Psalms 20:4 >>]]</td></tr></table>
 

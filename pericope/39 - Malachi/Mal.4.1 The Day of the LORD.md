@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of the LORD
+type: Pericope
 pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 4
 book/chapter: "[[Mal.4|Malachi 4]]"
-genre:
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 6
 verses:
 - "[[Mal.4.1]]"
 - "[[Mal.4.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mal.4.6]]"
 ---
 
-[[Mal.4|Malachi 4:1 - Malachi 4:6]]
+<small>[[Mal.4|Malachi 4:1-6]]</small>
 *The Day of the LORD*
 
 [[Mal.4.1|1]] For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.

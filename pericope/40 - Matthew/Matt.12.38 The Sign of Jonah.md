@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sign of Jonah
+type: Pericope
 pericope: "[[Matt.12.38 The Sign of Jonah|The Sign of Jonah]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.12.38]]"
 - "[[Matt.12.39]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.12.42]]"
 ---
 
-[[Matt.12|Matthew 12:38 - Matthew 12:42]]
+<small>[[Matt.12|Matthew 12:38-42]]</small>
 *The Sign of Jonah*
 
 [[Matt.12.38|38]] Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.

@@ -1,8 +1,49 @@
+---
+title: Proverbs 18:18
+type: Verse
+kjv: "The lot causeth contentions to cease, and parteth between the mighty."
+bsb: "Casting the lot ends quarrels and separates strong opponents."
+hebrew: "מִ֭דְיָנִים יַשְׁבִּ֣ית הַגּוֹרָ֑ל וּבֵ֖ין עֲצוּמִ֣ים יַפְרִֽיד׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LOT, THE|LOT, THE]]"
+strongs:
+- "[[H4079]]"
+- "[[H7673A]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H9002]]"
+- "[[H0996G]]"
+- "[[H6099]]"
+- "[[H6504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:18**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lot causeth contentions to cease, and parteth between the mighty.
 <small><sub>**BSB:**</sub></small>
 Casting the lot ends quarrels and separates strong opponents.
+<small><sub>**Hebrew:**</sub></small>
+[[H4079\|מִ֭דְיָנִים]] [[H7673A\|יַשְׁבִּ֣ית]] [[H9009\|הַ]][[H1486\|גּוֹרָ֑ל]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H6099\|עֲצוּמִ֣ים]] [[H6504\|יַפְרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT, THE|LOT, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.17|<< Proverbs 18:17]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.19|Proverbs 18:19 >>]]</td></tr></table>
 

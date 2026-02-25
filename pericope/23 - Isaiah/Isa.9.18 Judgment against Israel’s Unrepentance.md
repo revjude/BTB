@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment against Israel’s Unrepentance
+type: Pericope
 pericope: "[[Isa.9.18 Judgment against Israel’s Unrepentance|Judgment against Israel’s Unrepentance]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 9
 book/chapter: "[[Isa.9|Isaiah 9]]"
-genre:
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.9.18]]"
 - "[[Isa.9.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.9.21]]"
 ---
 
-[[Isa.9|Isaiah 9:18 - Isaiah 9:21]]
+<small>[[Isa.9|Isaiah 9:18-21]]</small>
 *Judgment against Israel’s Unrepentance*
 
 [[Isa.9.18|18]] For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up \[like\] the lifting up of smoke.

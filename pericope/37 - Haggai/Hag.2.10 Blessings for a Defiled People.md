@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Blessings for a Defiled People
+type: Pericope
 pericope: "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Haggai
 chapter: 2
 book/chapter: "[[Hag.2|Haggai 2]]"
-genre:
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
+verse_count: 10
 verses:
 - "[[Hag.2.10]]"
 - "[[Hag.2.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Hag.2.19]]"
 ---
 
-[[Hag.2|Haggai 2:10 - Haggai 2:19]]
+<small>[[Hag.2|Haggai 2:10-19]]</small>
 *Blessings for a Defiled People*
 
 [[Hag.2.10|10]] In the four and twentieth \[day\] of the ninth \[month\], in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,

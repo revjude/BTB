@@ -1,10 +1,77 @@
+---
+title: John 4:14
+type: Verse
+kjv: "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life."
+bsb: "But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”"
+jesus_said: "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life."
+greek: "ὃς δ᾽ ἂν πίῃ ἐκ τοῦ ὕδατος οὗ ἐγὼ δώσω αὐτῷ, οὐ μὴ διψήσει εἰς τὸν αἰῶνα, ἀλλὰ τὸ ὕδωρ ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς ζωὴν αἰώνιον.¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WATER|WATER]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G4095]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1372]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0235]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G4077]]"
+- "[[G0242]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:14**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
 <small><sub>**BSB:**</sub></small>
 But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”
-<small><sub>**Literal:**</sub></small>
-who[ever] however maybe may drink of the water that I myself will give to him, certainly not will thirst to the age, Instead the water that I will give to him it will become in him a spring of water welling up into life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.13|<< John 4:13]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.15|John 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G4095\|πίῃ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος]]  [[G3739\|οὗ]]  [[G1473\|ἐγὼ]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1372\|διψήσει]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G3739\|ὃ]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ]]  [[G1096\|γενήσεται]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G4077\|πηγὴ]]  [[G5204\|ὕδατος]]  [[G0242\|ἁλλομένου]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic THIRST|THIRST]] • [[topic WATER|WATER]] • [[topic WELLS|WELLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.13|<< John 4:13]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.15|John 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: Leviticus 23:28
+type: Verse
+kjv: "And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God."
+bsb: "On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God."
+hebrew: "וְכָל־ מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה כִּ֣י י֤וֹם כִּפֻּרִים֙ ה֔וּא לְכַפֵּ֣ר עֲלֵיכֶ֔ם לִפְנֵ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.23.26 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REST|REST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H3725]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:28**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall do no work in that same day: for it [is] a day of atonement, to make an atonement for you before the LORD your God.
 <small><sub>**BSB:**</sub></small>
 On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָה֙]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֔וּ]] [[H9003\|בְּ]][[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֣י]] [[H3117G\|י֤וֹם]] [[H3725\|כִּפֻּרִים֙]] [[H1931\|ה֔וּא]] [[H9005\|לְ]][[H3722A\|כַפֵּ֣ר]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic ETHANIM|ETHANIM]] • [[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REST|REST]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.27|<< Leviticus 23:27]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.29|Leviticus 23:29 >>]]</td></tr></table>
 

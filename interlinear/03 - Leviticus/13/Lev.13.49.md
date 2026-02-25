@@ -1,8 +1,69 @@
+---
+title: Leviticus 13:49
+type: Verse
+kjv: "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:"
+bsb: "and if the mark in the fabric, leather, weave, knit, or leather article is green or red, then it is contaminated with mildew and must be shown to the priest."
+hebrew: "וְהָיָ֨ה הַנֶּ֜גַע יְרַקְרַ֣ק׀ א֣וֹ אֲדַמְדָּ֗ם בַּבֶּגֶד֩ א֨וֹ בָע֜וֹר אֽוֹ־ בַשְּׁתִ֤י אוֹ־ בָעֵ֙רֶב֙ א֣וֹ בְכָל־ כְּלִי־ ע֔וֹר נֶ֥גַע צָרַ֖עַת ה֑וּא וְהָרְאָ֖ה אֶת־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5061]]"
+- "[[H3422]]"
+- "[[H9015]]"
+- "[[H0176A]]"
+- "[[H0125]]"
+- "[[H9003]]"
+- "[[H0899B]]"
+- "[[H5785]]"
+- "[[H9014]]"
+- "[[H8359]]"
+- "[[H6154B]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H6883]]"
+- "[[H1931]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:49**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it [is] a plague of leprosy, and shall be shewed unto the priest:
 <small><sub>**BSB:**</sub></small>
 and if the mark in the fabric, leather, weave, knit, or leather article is green or red, then it is contaminated with mildew and must be shown to the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9009\|הַ]][[H5061\|נֶּ֜גַע]] [[H3422\|יְרַקְרַ֣ק]][[H9015\|׀]] [[H0176A\|א֣וֹ]] [[H0125\|אֲדַמְדָּ֗ם]] [[H9003\|בַּ]][[H0899B\|בֶּגֶד֩]] [[H0176A\|א֨וֹ]] [[H9003\|בָ]][[H5785\|ע֜וֹר]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9003\|בַ]][[H8359\|שְּׁתִ֤י]] [[H0176A\|אוֹ]][[H9014\|־]] [[H9003\|בָ]][[H6154B\|עֵ֙רֶב֙]] [[H0176A\|א֣וֹ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H5785\|ע֔וֹר]] [[H5061\|נֶ֥גַע]] [[H6883\|צָרַ֖עַת]] [[H1931\|ה֑וּא]] [[H9001\|וְ]][[H7200G\|הָרְאָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.48|<< Leviticus 13:48]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.50|Leviticus 13:50 >>]]</td></tr></table>
 

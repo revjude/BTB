@@ -1,10 +1,59 @@
+---
+title: John 13:25
+type: Verse
+kjv: "He then lying on Jesus’ breast saith unto him, Lord, who is it?"
+bsb: "Leaning back against Jesus, he asked, “Lord, who is it?”"
+greek: "ἀναπεσὼν οὖν ἐκεῖνος οὕτως ἐπὶ τὸ στῆθος τοῦ Ἰησοῦ λέγει αὐτῷ· κύριε, τίς ἐστιν;"
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EATING|EATING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G0377]]"
+- "[[G3767]]"
+- "[[G1565]]"
+- "[[G3779]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4738]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+texts:
+- N(k)O
+- NKO
+- NO
+---
+
 **John 13:25**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He then lying on Jesus’ breast saith unto him, Lord, who is it?
 <small><sub>**BSB:**</sub></small>
 Leaning back against Jesus, he asked, “Lord, who is it?”
-<small><sub>**Literal:**</sub></small>
-Having leaned then he thus on the breast <the> of Jesus he says to Him; Lord, who is it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.24|<< John 13:24]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.26|John 13:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0377\|ἀναπεσὼν]]  [[G3767\|οὖν]]  [[G1565\|ἐκεῖνος]]  [[G3779\|οὕτως]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4738\|στῆθος]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G5101\|τίς]]  [[G1510\|ἐστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EATING|EATING]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.24|<< John 13:24]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.26|John 13:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

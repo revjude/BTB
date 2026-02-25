@@ -1,10 +1,60 @@
+---
+title: John 4:11
+type: Verse
+kjv: "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?"
+bsb: "“Sir,” the woman replied, “You have nothing to draw with and the well is deep. Where then will You get this living water?"
+greek: "λέγει αὐτῷ ἡ γυνή· κύριε, οὔτε ἄντλημα ἔχεις, καὶ τὸ φρέαρ ἐστὶν βαθύ· πόθεν οὖν ἔχεις τὸ ὕδωρ τὸ ζῶν;"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G2962H]]"
+- "[[G3777]]"
+- "[[G0502]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G5421]]"
+- "[[G1510]]"
+- "[[G0901]]"
+- "[[G4159]]"
+- "[[G3767]]"
+- "[[G5204]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **John 4:11**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
 <small><sub>**BSB:**</sub></small>
 “Sir,” the woman replied, “You have nothing to draw with and the well is deep. Where then will You get this living water?
-<small><sub>**Literal:**</sub></small>
-Says to Him the woman: Sir, nothing to draw with You have, and the well is deep; from where then have You the water which is living?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.10|<< John 4:10]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.12|John 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G1135G\|γυνή·]]  [[G2962H\|κύριε,]]  [[G3777\|οὔτε]]  [[G0502\|ἄντλημα]]  [[G2192\|ἔχεις,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5421\|φρέαρ]]  [[G1510\|ἐστὶν]]  [[G0901\|βαθύ·]]  [[G4159\|πόθεν]]  [[G3767\|οὖν]]  [[G2192\|ἔχεις]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G3588\|τὸ]]  [[G2198\|ζῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.10|<< John 4:10]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.12|John 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

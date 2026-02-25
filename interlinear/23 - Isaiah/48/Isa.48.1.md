@@ -1,8 +1,67 @@
+---
+title: Isaiah 48:1
+type: Verse
+kjv: "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness."
+bsb: "“Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel—but not in truth or righteousness—"
+hebrew: "שִׁמְעוּ־ זֹ֣את בֵּֽית־ יַעֲקֹ֗ב הַנִּקְרָאִים֙ בְּשֵׁ֣ם יִשְׂרָאֵ֔ל וּמִמֵּ֥י יְהוּדָ֖ה יָצָ֑אוּ הַֽנִּשְׁבָּעִ֣ים׀ בְּשֵׁ֣ם יְהוָ֗ה וּבֵאלֹהֵ֤י יִשְׂרָאֵל֙ יַזְכִּ֔ירוּ לֹ֥א בֶאֱמֶ֖ת וְלֹ֥א בִצְדָקָֽה׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERJURY|PERJURY]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H9009]]"
+- "[[H7121H]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4325G]]"
+- "[[H3063G]]"
+- "[[H3318G]]"
+- "[[H7650]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H2142]]"
+- "[[H3808]]"
+- "[[H0571H]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:1**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, [but] not in truth, nor in righteousness.
 <small><sub>**BSB:**</sub></small>
 “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel—but not in truth or righteousness—
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H2063\|זֹ֣את]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H9009\|הַ]][[H7121H\|נִּקְרָאִים֙]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וּ]][[H9006\|מִ]][[H4325G\|מֵּ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H3318G\|יָצָ֑אוּ]] [[H9009\|הַֽ]][[H7650\|נִּשְׁבָּעִ֣ים]][[H9015\|׀]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וּ]][[H9003\|בֵ]][[H0430G\|אלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H2142\|יַזְכִּ֔ירוּ]] [[H3808\|לֹ֥א]] [[H9003\|בֶ]][[H0571H\|אֱמֶ֖ת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בִ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic OATH|OATH]] • [[topic PERJURY|PERJURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.15|<< Isaiah 47:15]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.2|Isaiah 48:2 >>]]</td></tr></table>
 

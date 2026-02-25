@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Levites Numbered
+type: Pericope
 pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.26.57]]"
 - "[[Num.26.58]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.26.62]]"
 ---
 
-[[Num.26|Numbers 26:57 - Numbers 26:62]]
+<small>[[Num.26|Numbers 26:57-62]]</small>
 *The Levites Numbered*
 
 [[Num.26.57|57]] And these \[are\] they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.

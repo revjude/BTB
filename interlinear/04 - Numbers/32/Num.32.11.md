@@ -1,8 +1,79 @@
+---
+title: Numbers 32:11
+type: Verse
+kjv: "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:"
+bsb: "‘Because they did not follow Me wholeheartedly, not one of the men twenty years of age or older who came out of Egypt will see the land that I swore to give Abraham, Isaac, and Jacob—"
+hebrew: "אִם־ יִרְא֨וּ הָאֲנָשִׁ֜ים הָעֹלִ֣ים מִמִּצְרַ֗יִם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה אֵ֚ת הָאֲדָמָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֛עְתִּי לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב כִּ֥י לֹא־ מִלְא֖וּ אַחֲרָֽי׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H0853]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H3290]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H4390]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:11**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
 <small><sub>**BSB:**</sub></small>
 ‘Because they did not follow Me wholeheartedly, not one of the men twenty years of age or older who came out of Egypt will see the land that I swore to give Abraham, Isaac, and Jacob—
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7200G\|יִרְא֨וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֜ים]] [[H9009\|הָ]][[H5927G\|עֹלִ֣ים]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֗יִם]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H0853\|אֵ֚ת]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֛עְתִּי]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֖ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹ֑ב]] [[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H4390\|מִלְא֖וּ]] [[H0310A\|אַחֲרָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CALEB|CALEB]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.10|<< Numbers 32:10]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.12|Numbers 32:12 >>]]</td></tr></table>
 

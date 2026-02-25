@@ -1,8 +1,68 @@
+---
+title: Isaiah 43:20
+type: Verse
+kjv: "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen."
+bsb: "The beasts of the field will honor Me, the jackals and the ostriches, because I provide water in the wilderness and rivers in the desert, to give drink to My chosen people."
+hebrew: "תְּכַבְּדֵ֙נִי֙ חַיַּ֣ת הַשָּׂדֶ֔ה תַּנִּ֖ים וּבְנ֣וֹת יַֽעֲנָ֑ה כִּֽי־ נָתַ֨תִּי בַמִּדְבָּ֜ר מַ֗יִם נְהָרוֹת֙ בִּֽישִׁימֹ֔ן לְהַשְׁק֖וֹת עַמִּ֥י בְחִירִֽי׃"
+pericope: "[[Isa.43.14 A Way in the Wilderness|A Way in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+strongs:
+- "[[H3513G]]"
+- "[[H9030]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704I]]"
+- "[[H8577A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H3284]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4325G]]"
+- "[[H5104H]]"
+- "[[H3452H]]"
+- "[[H9005]]"
+- "[[H8248H]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0972]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:20**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, [and] rivers in the desert, to give drink to my people, my chosen.
 <small><sub>**BSB:**</sub></small>
 The beasts of the field will honor Me, the jackals and the ostriches, because I provide water in the wilderness and rivers in the desert, to give drink to My chosen people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3513G\|תְּכַבְּדֵ֙]][[H9030\|נִי֙]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶ֔ה]] [[H8577A\|תַּנִּ֖ים]] [[H9002\|וּ]][[H1323G\|בְנ֣וֹת]] [[H3284\|יַֽעֲנָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֨תִּי]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֜ר]] [[H4325G\|מַ֗יִם]] [[H5104H\|נְהָרוֹת֙]] [[H9003\|בִּֽ]][[H3452H\|ישִׁימֹ֔ן]] [[H9005\|לְ]][[H8248H\|הַשְׁק֖וֹת]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H0972\|בְחִירִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.19|<< Isaiah 43:19]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.21|Isaiah 43:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,69 @@
+---
+title: Joshua 18:16
+type: Verse
+kjv: "And the border came down to the end of the mountain that lieth before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,"
+bsb: "Then it went down to the foot of the hill that faces the Valley of Ben-hinnom at the northern end of the Valley of Rephaim and ran down the Valley of Hinnom toward the southern slope of the Jebusites and downward to En-rogel."
+hebrew: "וְיָרַ֨ד הַגְּב֜וּל אֶל־ קְצֵ֣ה הָהָ֗ר אֲשֶׁר֙ עַל־ פְּנֵי֙ גֵּ֣י בֶן־ הִנֹּ֔ם אֲשֶׁ֛ר בְּעֵ֥מֶק רְפָאִ֖ים צָפ֑וֹנָה וְיָרַד֩ גֵּ֨י הִנֹּ֜ם אֶל־ כֶּ֤תֶף הַיְבוּסִי֙ נֶ֔גְבָּה וְיָרַ֖ד עֵ֥ין רֹגֵֽל׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic EN-ROGEL|EN-ROGEL]]"
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H2022G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H1516Q]]"
+- "[[H1121A]]"
+- "[[H2011H]]"
+- "[[H9003]]"
+- "[[H6010P]]"
+- "[[H7497G]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H1516G]]"
+- "[[H2011G]]"
+- "[[H3802]]"
+- "[[H2983G]]"
+- "[[H5045H]]"
+- "[[H5883]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:16**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border came down to the end of the mountain that [lieth] before the valley of the son of Hinnom, [and] which [is] in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,
 <small><sub>**BSB:**</sub></small>
 Then it went down to the foot of the hill that faces the Valley of Ben-hinnom at the northern end of the Valley of Rephaim and ran down the Valley of Hinnom toward the southern slope of the Jebusites and downward to En-rogel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַ֨ד]] [[H9009\|הַ]][[H1366G\|גְּב֜וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H2022G\|הָ֗ר]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי֙]] [[H1516Q\|גֵּ֣י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2011H\|הִנֹּ֔ם]] [[H0834A\|אֲשֶׁ֛ר]] [[H9003\|בְּ]][[H6010P\|עֵ֥מֶק]] [[H7497G\|רְפָאִ֖ים]] [[H6828G\|צָפ֑וֹנָ]][[H9011\|ה]] [[H9001\|וְ]][[H3381\|יָרַד֩]] [[H1516G\|גֵּ֨י]] [[H2011G\|הִנֹּ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כֶּ֤תֶף]] [[H9009\|הַ]][[H2983G\|יְבוּסִי֙]] [[H5045H\|נֶ֔גְבָּ]][[H9011\|ה]] [[H9001\|וְ]][[H3381\|יָרַ֖ד]] [[H5883\|עֵ֥ין]] [[H5883\|רֹגֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic EN-ROGEL|EN-ROGEL]] • [[topic HINNOM|HINNOM]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.15|<< Joshua 18:15]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.17|Joshua 18:17 >>]]</td></tr></table>
 

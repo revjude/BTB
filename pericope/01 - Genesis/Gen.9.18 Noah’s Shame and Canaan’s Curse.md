@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Noah’s Shame and Canaan’s Curse
+type: Pericope
 pericope: "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 9
 book/chapter: "[[Gen.9|Genesis 9]]"
-genre:
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.9.18]]"
 - "[[Gen.9.19]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.9.25]]"
 ---
 
-[[Gen.9|Genesis 9:18 - Genesis 9:25]]
+<small>[[Gen.9|Genesis 9:18-25]]</small>
 *Noah’s Shame and Canaan’s Curse*
 
 [[Gen.9.18|18]] And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham \[is\] the father of Canaan.

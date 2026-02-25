@@ -1,10 +1,63 @@
+---
+title: Luke 13:11
+type: Verse
+kjv: "And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself."
+bsb: "and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight."
+greek: "καὶ ἰδοὺ γυνὴ ἦν πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτὼ δεκαοκτὼ καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές."
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1135G]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G2192]]"
+- "[[G0769H]]"
+- "[[G2094]]"
+- "[[G1176]]"
+- "[[G3638]]"
+- "[[G4794]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G0352]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3838]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 13:11**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up [herself].
 <small><sub>**BSB:**</sub></small>
 and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight.
-<small><sub>**Literal:**</sub></small>
-And behold a woman was a spirit having of infirmity years eighteen And she was bent over and not able to lift up herself to the full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.10|<< Luke 13:10]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.12|Luke 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1135G\|γυνὴ]]  [[G1510\|ἦν]]  [[G4151G\|πνεῦμα]]  [[G2192\|ἔχουσα]]  [[G0769H\|ἀσθενείας]]  [[G2094\|ἔτη]]  [[G1176\|δεκαοκτὼ]]  <sup><small>[[G3638\| [ • ] ]]</small></sup>  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G4794\|συγκύπτουσα]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1410\|δυναμένη]]  [[G0352\|ἀνακύψαι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3838\|παντελές.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.10|<< Luke 13:10]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.12|Luke 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

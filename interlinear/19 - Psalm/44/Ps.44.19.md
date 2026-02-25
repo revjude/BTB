@@ -1,8 +1,55 @@
+---
+title: Psalm 44:19
+type: Verse
+kjv: "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death."
+bsb: "But You have crushed us in the lair of jackals; You have covered us with deepest darkness."
+hebrew: "כִּ֣י דִ֭כִּיתָנוּ בִּמְק֣וֹם תַּנִּ֑ים וַתְּכַ֖ס עָלֵ֣ינוּ בְצַלְמָֽוֶת׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1794]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H8577A]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H5921A]]"
+- "[[H6757]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:19**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
 <small><sub>**BSB:**</sub></small>
 But You have crushed us in the lair of jackals; You have covered us with deepest darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H1794\|דִ֭כִּיתָ]][[H9035\|נוּ]] [[H9003\|בִּ]][[H4725\|מְק֣וֹם]] [[H8577A\|תַּנִּ֑ים]] [[H9001\|וַ]][[H3680\|תְּכַ֖ס]] [[H5921A\|עָלֵ֣י]][[H9035\|נוּ]] [[H9003\|בְ]][[H6757\|צַלְמָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGETTING GOD|FORGETTING GOD]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.18|<< Psalms 44:18]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.20|Psalms 44:20 >>]]</td></tr></table>
 

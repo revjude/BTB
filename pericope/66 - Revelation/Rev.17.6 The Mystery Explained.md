@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mystery Explained
+type: Pericope
 pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 17
 book/chapter: "[[Rev.17|Revelation 17]]"
-genre:
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.17.6]]"
 - "[[Rev.17.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.17.13]]"
 ---
 
-[[Rev.17|Revelation 17:6 - Revelation 17:13]]
+<small>[[Rev.17|Revelation 17:6-13]]</small>
 *The Mystery Explained*
 
 [[Rev.17.6|6]] And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.

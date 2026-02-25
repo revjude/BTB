@@ -1,8 +1,56 @@
+---
+title: Job 3:19
+type: Verse
+kjv: "The small and great are there; and the servant is free from his master."
+bsb: "Both small and great are there, and the slave is freed from his master."
+hebrew: "קָטֹ֣ן וְ֭גָדוֹל שָׁ֣ם ה֑וּא וְ֝עֶ֗בֶד חָפְשִׁ֥י מֵאֲדֹנָֽיו׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H8033G]]"
+- "[[H1931]]"
+- "[[H5650]]"
+- "[[H2670]]"
+- "[[H9006]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:19**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The small and great are there; and the servant [is] free from his master.
 <small><sub>**BSB:**</sub></small>
 Both small and great are there, and the slave is freed from his master.
+<small><sub>**Hebrew:**</sub></small>
+[[H6996B\|קָטֹ֣ן]] [[H9002\|וְ֭]][[H1419A\|גָדוֹל]] [[H8033G\|שָׁ֣ם]] [[H1931\|ה֑וּא]] [[H9002\|וְ֝]][[H5650\|עֶ֗בֶד]] [[H2670\|חָפְשִׁ֥י]] [[H9006\|מֵ]][[H0113\|אֲדֹנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.18|<< Job 3:18]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.20|Job 3:20 >>]]</td></tr></table>
 

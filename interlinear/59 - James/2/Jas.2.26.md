@@ -1,10 +1,58 @@
+---
+title: James 2:26
+type: Verse
+kjv: "For as the body without the spirit is dead, so faith without works is dead also."
+bsb: "As the body without the spirit is dead, so faith without deeds is dead."
+greek: "ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, οὕτως καὶ ἡ πίστις χωρὶς τῶν ἔργων νεκρά ἐστιν.¶"
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G5565]]"
+- "[[G4151G]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G2041]]"
+texts:
+- NKO
+- ko
+---
+
 **James 2:26**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as the body without the spirit is dead, so faith without works is dead also.
 <small><sub>**BSB:**</sub></small>
 As the body without the spirit is dead, so faith without deeds is dead.
-<small><sub>**Literal:**</sub></small>
-Just as for the body apart from spirit dead is, so also <the> faith apart from <the> works dead is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.25|<< James 2:25]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.1|James 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G5565\|χωρὶς]]  [[G4151G\|πνεύματος]]  [[G3498\|νεκρόν]]  [[G1510\|ἐστιν,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G5565\|χωρὶς]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G3498\|νεκρά]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.25|<< James 2:25]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.1|James 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

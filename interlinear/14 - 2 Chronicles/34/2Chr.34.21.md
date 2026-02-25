@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 34:21
+type: Verse
+kjv: "Go, inquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book."
+bsb: "“Go and inquire of the LORD for me and for those remaining in Israel and Judah concerning the words in the book that has been found. For great is the wrath of the LORD that has been poured out on us because our fathers have not kept the word of the LORD by doing all that is written in this book.”"
+hebrew: "לְכוּ֩ דִרְשׁ֨וּ אֶת־ יְהוָ֜ה בַּעֲדִ֗י וּבְעַד֙ הַנִּשְׁאָר֙ בְּיִשְׂרָאֵ֣ל וּבִֽיהוּדָ֔ה עַל־ דִּבְרֵ֥י הַסֵּ֖פֶר אֲשֶׁ֣ר נִמְצָ֑א כִּֽי־ גְדוֹלָ֤ה חֲמַת־ יְהוָה֙ אֲשֶׁ֣ר נִתְּכָ֣ה בָ֔נוּ עַל֩ אֲשֶׁ֨ר לֹא־ שָׁמְר֤וּ אֲבוֹתֵ֙ינוּ֙ אֶת־ דְּבַ֣ר יְהוָ֔ה לַעֲשׂ֕וֹת כְּכָל־ הַכָּת֖וּב עַל־ הַסֵּ֥פֶר הַזֶּֽה׃ פ"
+pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[H1980G]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1157]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H3588A]]"
+- "[[H1419A]]"
+- "[[H2534]]"
+- "[[H5413]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H3789]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:21**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, inquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great [is] the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book.
 <small><sub>**BSB:**</sub></small>
 “Go and inquire of the LORD for me and for those remaining in Israel and Judah concerning the words in the book that has been found. For great is the wrath of the LORD that has been poured out on us because our fathers have not kept the word of the LORD by doing all that is written in this book.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לְכוּ֩]] [[H1875\|דִרְשׁ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H1157\|בַּעֲדִ֗]][[H9030\|י]] [[H9002\|וּ]][[H1157\|בְעַד֙]] [[H9009\|הַ]][[H7604\|נִּשְׁאָר֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֣ל]] [[H9002\|וּ]][[H9003\|בִֽ]][[H3063G\|יהוּדָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H5612H\|סֵּ֖פֶר]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|נִמְצָ֑א]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גְדוֹלָ֤ה]] [[H2534\|חֲמַת]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5413\|נִתְּכָ֣ה]] [[H9003\|בָ֔]][[H9035\|נוּ]] [[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H8104G\|שָׁמְר֤וּ]] [[H0001G\|אֲבוֹתֵ֙י]][[H9025\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֕וֹת]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3789\|כָּת֖וּב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5612H\|סֵּ֥פֶר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic JOSIAH|JOSIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.20|<< 2 Chronicles 34:20]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.22|2 Chronicles 34:22 >>]]</td></tr></table>
 
@@ -42,7 +110,7 @@ Go, inquire of the LORD for me, and for them that are left in Israel and in Juda
 | \<the> [thing] written  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3789\|כָּת֖וּב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the scroll  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5612H\|סֵּ֥פֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Se.fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.20|<< 2 Chronicles 34:20]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.22|2 Chronicles 34:22 >>]]</td></tr></table>
 
 

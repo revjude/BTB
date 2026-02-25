@@ -1,8 +1,67 @@
+---
+title: Numbers 32:6
+type: Verse
+kjv: "And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?"
+bsb: "But Moses asked the Gadites and Reubenites, “Shall your brothers go to war while you sit here?"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֔ה לִבְנֵי־ גָ֖ד וְלִבְנֵ֣י רְאוּבֵ֑ן הַאַֽחֵיכֶ֗ם יָבֹ֙אוּ֙ לַמִּלְחָמָ֔ה וְאַתֶּ֖ם תֵּ֥שְׁבוּ פֹֽה׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1410G]]"
+- "[[H9002]]"
+- "[[H7205]]"
+- "[[H9008]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H0935G]]"
+- "[[H4421]]"
+- "[[H0859D]]"
+- "[[H3427]]"
+- "[[H6311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:6**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?
 <small><sub>**BSB:**</sub></small>
 But Moses asked the Gadites and Reubenites, “Shall your brothers go to war while you sit here?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H7205\|רְאוּבֵ֑ן]] [[H9008\|הַ]][[H0251I\|אַֽחֵי]][[H9026\|כֶ֗ם]] [[H0935G\|יָבֹ֙אוּ֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H3427\|תֵּ֥שְׁבוּ]] [[H6311\|פֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.5|<< Numbers 32:5]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.7|Numbers 32:7 >>]]</td></tr></table>
 

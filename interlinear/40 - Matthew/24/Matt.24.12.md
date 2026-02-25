@@ -1,10 +1,53 @@
+---
+title: Matthew 24:12
+type: Verse
+kjv: "And because iniquity shall abound, the love of many shall wax cold."
+bsb: "Because of the multiplication of wickedness, the love of most will grow cold."
+jesus_said: "And because iniquity shall abound, the love of many shall wax cold."
+greek: "καὶ διὰ τὸ πληθυνθῆναι τὴν ἀνομίαν ψυγήσεται ἡ ἀγάπη τῶν πολλῶν."
+pericope: "[[Matt.24.9 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4129]]"
+- "[[G0458]]"
+- "[[G5594]]"
+- "[[G0026]]"
+- "[[G4183]]"
+texts:
+- NKO
+---
+
 **Matthew 24:12**<big><big>[[Matt.24.9 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because iniquity shall abound, the love of many shall wax cold.
 <small><sub>**BSB:**</sub></small>
 Because of the multiplication of wickedness, the love of most will grow cold.
-<small><sub>**Literal:**</sub></small>
-And because <the> is to be multiplied <the> lawlessness will grow cold the love of the many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.11|<< Matthew 24:11]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.13|Matthew 24:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G4129\|πληθυνθῆναι]]  [[G3588\|τὴν]]  [[G0458\|ἀνομίαν]]  [[G5594\|ψυγήσεται]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3588\|τῶν]]  [[G4183\|πολλῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMPANY|COMPANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.11|<< Matthew 24:11]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.13|Matthew 24:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

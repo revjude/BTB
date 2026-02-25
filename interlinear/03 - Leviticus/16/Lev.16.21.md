@@ -1,8 +1,85 @@
+---
+title: Leviticus 16:21
+type: Verse
+kjv: "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:"
+bsb: "Then he is to lay both hands on the head of the live goat and confess over it all the iniquities and rebellious acts of the Israelites in regard to all their sins. He is to put them on the goat’s head and send it away into the wilderness by the hand of a man appointed for the task."
+hebrew: "וְסָמַ֨ךְ אַהֲרֹ֜ן אֶת־ שְׁתֵּ֣י יָדָ֗יו עַ֨ל רֹ֣אשׁ הַשָּׂעִיר֮ הַחַי֒ וְהִתְוַדָּ֣ה עָלָ֗יו אֶת־ כָּל־ עֲוֹנֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־ כָּל־ פִּשְׁעֵיהֶ֖ם לְכָל־ חַטֹּאתָ֑ם וְנָתַ֤ן אֹתָם֙ עַל־ רֹ֣אשׁ הַשָּׂעִ֔יר וְשִׁלַּ֛ח בְּיַד־ אִ֥ישׁ עִתִּ֖י הַמִּדְבָּֽרָה׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HAND|HAND]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9009]]"
+- "[[H8163B]]"
+- "[[H2416A]]"
+- "[[H3034]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H5771G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H6588]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H2403B]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H6261]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Leviticus 16:21**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send [him] away by the hand of a fit man into the wilderness:
 <small><sub>**BSB:**</sub></small>
 Then he is to lay both hands on the head of the live goat and confess over it all the iniquities and rebellious acts of the Israelites in regard to all their sins. He is to put them on the goat’s head and send it away into the wilderness by the hand of a man appointed for the task.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5564\|סָמַ֨ךְ]] [[H0175\|אַהֲרֹ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֣י]] [[H3027G\|יָדָ֗י]][[H9023\|ו]] [[H5921A\|עַ֨ל]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H8163B\|שָּׂעִיר֮]] [[H9009\|הַ]][[H2416A\|חַי֒]] [[H9001\|וְ]][[H3034\|הִתְוַדָּ֣ה]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5771G\|עֲוֹנֹת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6588\|פִּשְׁעֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטֹּאתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5414H\|נָתַ֤ן]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֔יר]] [[H9001\|וְ]][[H7971G\|שִׁלַּ֛ח]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H6261\|עִתִּ֖י]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic HAND|HAND]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]] • [[topic SIN|SIN]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.20|<< Leviticus 16:20]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.22|Leviticus 16:22 >>]]</td></tr></table>
 
@@ -41,7 +118,7 @@ Then he is to lay both hands on the head of the live goat and confess over it al
 | the wilderness towards  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4057B\|מִּדְבָּֽרָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mid.Ba.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.20|<< Leviticus 16:20]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.22|Leviticus 16:22 >>]]</td></tr></table>
 
-[^1]: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: hand his  | **<big>[[H3027G|יָד]]</big><big>[[H9023|וֹ]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: hand his  | **<big>[[H3027G|יָד]]</big><big>[[H9023|וֹ]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>יָדָ֗ו</big></span>**
 

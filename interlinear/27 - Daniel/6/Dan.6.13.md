@@ -1,8 +1,81 @@
+---
+title: Daniel 6:13
+type: Verse
+kjv: "Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day."
+bsb: "Then they told the king, “Daniel, one of the exiles from Judah, shows no regard for you, O king, or for the decree that you have signed. He still makes his petition three times a day.”"
+aramaic: "בֵּ֠אדַיִן עֲנ֣וֹ וְאָמְרִין֮ קֳדָ֣ם מַלְכָּא֒ דִּ֣י דָנִיֵּ֡אל דִּי֩ מִן־ בְּנֵ֨י גָלוּתָ֜א דִּ֣י יְה֗וּד לָא־ שָׂ֨ם עֲלָ֤ךְ מַלְכָּא֙ טְעֵ֔ם וְעַל־ אֱסָרָ֖א דִּ֣י רְשַׁ֑מְתָּ וְזִמְנִ֤ין תְּלָתָה֙ בְּיוֹמָ֔א בָּעֵ֖א בָּעוּתֵֽהּ׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KING|KING]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H6032]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H6925]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H1841H]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H1247]]"
+- "[[H1547]]"
+- "[[H3061]]"
+- "[[H3809]]"
+- "[[H7761H]]"
+- "[[H5922]]"
+- "[[H9031]]"
+- "[[H2942]]"
+- "[[H0633]]"
+- "[[H7560]]"
+- "[[H2166]]"
+- "[[H8532]]"
+- "[[H3118]]"
+- "[[H1156]]"
+- "[[H1159]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:13**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered they and said before the king, That Daniel, which [is] of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.
 <small><sub>**BSB:**</sub></small>
 Then they told the king, “Daniel, one of the exiles from Judah, shows no regard for you, O king, or for the decree that you have signed. He still makes his petition three times a day.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ֠]][[H0116\|אדַיִן]] [[H6032\|עֲנ֣וֹ]] [[H9002\|וְ]][[H0560\|אָמְרִין֮]] [[H6925\|קֳדָ֣ם]] [[H4430\|מַלְכָּ]][[H9010\|א֒]] [[H1768\|דִּ֣י]] [[H1841H\|דָנִיֵּ֡אל]] [[H1768\|דִּי֩]] [[H4481\|מִן]][[H9014\|־]] [[H1247\|בְּנֵ֨י]] [[H1547\|גָלוּתָ֜]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H3061\|יְה֗וּד]] [[H3809\|לָא]][[H9014\|־]] [[H7761H\|שָׂ֨ם]] [[H5922\|עֲלָ֤]][[H9031\|ךְ]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H2942\|טְעֵ֔ם]] [[H9002\|וְ]][[H5922\|עַל]][[H9014\|־]] [[H0633\|אֱסָרָ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H7560\|רְשַׁ֑מְתָּ]] [[H9002\|וְ]][[H2166\|זִמְנִ֤ין]] [[H8532\|תְּלָתָה֙]] [[H9003\|בְּ]][[H3118\|יוֹמָ֔]][[H9010\|א]] [[H1156\|בָּעֵ֖א]] [[H1159\|בָּעוּתֵֽ]][[H9023\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic CONSTITUTION|CONSTITUTION]] • [[topic DANIEL|DANIEL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KING|KING]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.12|<< Daniel 6:12]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.14|Daniel 6:14 >>]]</td></tr></table>
 

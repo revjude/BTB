@@ -1,10 +1,56 @@
+---
+title: James 2:17
+type: Verse
+kjv: "Even so faith, if it hath not works, is dead, being alone."
+bsb: "So too, faith by itself, if it does not result in action, is dead."
+greek: "οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ᾽ ἑαυτήν.¶"
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G2041]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **James 2:17**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so faith, if it hath not works, is dead, being alone.
 <small><sub>**BSB:**</sub></small>
 So too, faith by itself, if it does not result in action, is dead.
-<small><sub>**Literal:**</sub></small>
-So also <the> faith, only unless it shall have works [then] dead it is by itself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.16|<< James 2:16]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.18|James 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4102G\|πίστις,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G2192\|ἔχῃ]]  [[G2041\|ἔργα,]]  [[G3498\|νεκρά]]  [[G1510\|ἐστιν]]  [[G2596\|καθ᾽]]  [[G1438\|ἑαυτήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.16|<< James 2:16]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.18|James 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

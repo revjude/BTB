@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 8:14
+type: Verse
+kjv: "And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded."
+bsb: "In keeping with the ordinances of his father David, Solomon appointed the divisions of the priests over their service, and the Levites for their duties to offer praise and to minister before the priests according to the daily requirement. He also appointed gatekeepers by their divisions at each gate, for this had been the command of David, the man of God."
+hebrew: "וַיַּעֲמֵ֣ד כְּמִשְׁפַּ֣ט דָּֽוִיד־ אָ֠בִיו אֶת־ מַחְלְק֨וֹת הַכֹּהֲנִ֜ים עַל־ עֲבֹדָתָ֗ם וְהַלְוִיִּ֣ם עַל־ מִ֠שְׁמְרוֹתָם לְהַלֵּ֨ל וּלְשָׁרֵ֜ת נֶ֤גֶד הַכֹּֽהֲנִים֙ לִדְבַר־ י֣וֹם בְּיוֹמ֔וֹ וְהַשּׁוֹעֲרִ֥ים בְּמַחְלְקוֹתָ֖ם לְשַׁ֣עַר וָשָׁ֑עַר כִּ֣י כֵ֔ן מִצְוַ֖ת דָּוִ֥יד אִישׁ־ הָאֱלֹהִֽים׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H9004]]"
+- "[[H4941G]]"
+- "[[H1732]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H4256]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5921A]]"
+- "[[H5656H]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H4931]]"
+- "[[H9005]]"
+- "[[H1984B]]"
+- "[[H8334]]"
+- "[[H5048]]"
+- "[[H1697J]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H7778]]"
+- "[[H8179G]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H4687]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:14**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
 <small><sub>**BSB:**</sub></small>
 In keeping with the ordinances of his father David, Solomon appointed the divisions of the priests over their service, and the Levites for their duties to offer praise and to minister before the priests according to the daily requirement. He also appointed gatekeepers by their divisions at each gate, for this had been the command of David, the man of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975H\|יַּעֲמֵ֣ד]] [[H9004\|כְּ]][[H4941G\|מִשְׁפַּ֣ט]] [[H1732\|דָּֽוִיד]][[H9014\|־]] [[H0001G\|אָ֠בִי]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H4256\|מַחְלְק֨וֹת]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֜ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5656H\|עֲבֹדָתָ֗]][[H9028\|ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֣ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4931\|מִ֠שְׁמְרוֹתָ]][[H9028\|ם]] [[H9005\|לְ]][[H1984B\|הַלֵּ֨ל]] [[H9002\|וּ]][[H9005\|לְ]][[H8334\|שָׁרֵ֜ת]] [[H5048\|נֶ֤גֶד]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9005\|לִ]][[H1697J\|דְבַר]][[H9014\|־]] [[H3117J\|י֣וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H7778\|שּׁוֹעֲרִ֥ים]] [[H9003\|בְּ]][[H4256\|מַחְלְקוֹתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H8179G\|שַׁ֣עַר]] [[H9002\|וָ]][[H8179G\|שָׁ֑עַר]] [[H3588A\|כִּ֣י]] [[H3651C\|כֵ֔ן]] [[H4687\|מִצְוַ֖ת]] [[H1732\|דָּוִ֥יד]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic PROPHETS|PROPHETS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.13|<< 2 Chronicles 8:13]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.15|2 Chronicles 8:15 >>]]</td></tr></table>
 

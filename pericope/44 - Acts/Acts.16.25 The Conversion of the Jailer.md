@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Conversion of the Jailer
+type: Pericope
 pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 16
 book/chapter: "[[Acts.16|Acts 16]]"
-genre:
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.16.25]]"
 - "[[Acts.16.26]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.16.34]]"
 ---
 
-[[Acts.16|Acts 16:25 - Acts 16:34]]
+<small>[[Acts.16|Acts 16:25-34]]</small>
 *The Conversion of the Jailer*
 
 [[Acts.16.25|25]] And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.

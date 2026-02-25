@@ -1,8 +1,64 @@
+---
+title: Leviticus 9:21
+type: Verse
+kjv: "And the breasts and the right shoulder Aaron waved for a wave offering before the LORD; as Moses commanded."
+bsb: "but he waved the breasts and the right thigh as a wave offering before the LORD, as Moses had commanded."
+hebrew: "וְאֵ֣ת הֶחָז֗וֹת וְאֵת֙ שׁ֣וֹק הַיָּמִ֔ין הֵנִ֧יף אַהֲרֹ֛ן תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה כַּאֲשֶׁ֖ר צִוָּ֥ה מֹשֶֽׁה׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2373]]"
+- "[[H7785]]"
+- "[[H3225G]]"
+- "[[H5130B]]"
+- "[[H0175]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:21**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the breasts and the right shoulder Aaron waved [for] a wave offering before the LORD; as Moses commanded.
 <small><sub>**BSB:**</sub></small>
 but he waved the breasts and the right thigh as a wave offering before the LORD, as Moses had commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H9009\|הֶ]][[H2373\|חָז֗וֹת]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7785\|שׁ֣וֹק]] [[H9009\|הַ]][[H3225G\|יָּמִ֔ין]] [[H5130B\|הֵנִ֧יף]] [[H0175\|אַהֲרֹ֛ן]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6680\|צִוָּ֥ה]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.20|<< Leviticus 9:20]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.22|Leviticus 9:22 >>]]</td></tr></table>
 

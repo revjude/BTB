@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiachin Released from Prison
+type: Pericope
 pericope: "[[2Kgs.25.27 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 25
 book/chapter: "[[2Kgs.25|2 Kings 25]]"
-genre:
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.25.27]]"
 - "[[2Kgs.25.28]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.25.30]]"
 ---
 
-[[2Kgs.25|2 Kings 25:27 - 2 Kings 25:30]]
+<small>[[2Kgs.25|2 Kings 25:27-30]]</small>
 *Jehoiachin Released from Prison*
 
 [[2Kgs.25.27|27]] And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth \[day\] of the month, \[that\] Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;

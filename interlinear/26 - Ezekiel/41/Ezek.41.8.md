@@ -1,8 +1,61 @@
+---
+title: Ezekiel 41:8
+type: Verse
+kjv: "I saw also the height of the house round about: the foundations of the side chambers were a full reed of six great cubits."
+bsb: "I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the full length of a rod, six long cubits."
+hebrew: "וְרָאִ֧יתִי לַבַּ֛יִת גֹּ֖בַהּ סָבִ֣יב׀ סָבִ֑יב מוּסְד֤וֹת הַצְּלָעוֹת֙ מְל֣וֹ הַקָּנֶ֔ה שֵׁ֥שׁ אַמּ֖וֹת אַצִּֽילָה׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H1363]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H4328]]"
+- "[[H4145]]"
+- "[[H9009]]"
+- "[[H6763]]"
+- "[[H4393]]"
+- "[[H7070H]]"
+- "[[H8337]]"
+- "[[H0520A]]"
+- "[[H0679]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 41:8**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw also the height of the house round about: the foundations of the side chambers [were] a full reed of six great cubits.
 <small><sub>**BSB:**</sub></small>
 I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the full length of a rod, six long cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאִ֧יתִי]] [[H9005\|לַ]][[H1004B\|בַּ֛יִת]] [[H1363\|גֹּ֖בַהּ]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֑יב]] [[H4145\|מוּסְד֤וֹת]] [[H9009\|הַ]][[H6763\|צְּלָעוֹת֙]] [[H4393\|מְל֣וֹ]] [[H9009\|הַ]][[H7070H\|קָּנֶ֔ה]] [[H8337\|שֵׁ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H0679\|אַצִּֽילָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.7|<< Ezekiel 41:7]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.9|Ezekiel 41:9 >>]]</td></tr></table>
 

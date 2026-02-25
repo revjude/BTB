@@ -1,8 +1,52 @@
+---
+title: Hosea 10:15
+type: Verse
+kjv: "So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off."
+bsb: "Thus it will be done to you, O Bethel, because of your great wickedness. When the day dawns, the king of Israel will be utterly cut off."
+hebrew: "כָּ֗כָה עָשָׂ֤ה לָכֶם֙ בֵּֽית־ אֵ֔ל מִפְּנֵ֖י רָעַ֣ת רָֽעַתְכֶ֑ם בַּשַּׁ֕חַר נִדְמֹ֥ה נִדְמָ֖ה מֶ֥לֶךְ יִשְׂרָאֵֽל׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7451I]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H7837]]"
+- "[[H1820]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:15**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.
 <small><sub>**BSB:**</sub></small>
 Thus it will be done to you, O Bethel, because of your great wickedness. When the day dawns, the king of Israel will be utterly cut off.
+<small><sub>**Hebrew:**</sub></small>
+[[H3602\|כָּ֗כָה]] [[H6213A\|עָשָׂ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H7451I\|רָעַ֣ת]] [[H7451I\|רָֽעַתְ]][[H9026\|כֶ֑ם]] [[H9003\|בַּ]][[H7837\|שַּׁ֕חַר]] [[H1820\|נִדְמֹ֥ה]] [[H1820\|נִדְמָ֖ה]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.14|<< Hosea 10:14]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.1|Hosea 11:1 >>]]</td></tr></table>
 

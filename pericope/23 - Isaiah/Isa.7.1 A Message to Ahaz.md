@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Message to Ahaz
+type: Pericope
 pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 7
 book/chapter: "[[Isa.7|Isaiah 7]]"
-genre:
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.7.1]]"
 - "[[Isa.7.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.7.9]]"
 ---
 
-[[Isa.7|Isaiah 7:1 - Isaiah 7:9]]
+<small>[[Isa.7|Isaiah 7:1-9]]</small>
 *A Message to Ahaz*
 
 [[Isa.7.1|1]] And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, \[that\] Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.

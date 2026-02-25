@@ -1,10 +1,61 @@
+---
+title: Luke 24:53
+type: Verse
+kjv: "And were continually in the temple, praising and blessing God. Amen."
+bsb: "praising God continually in the temple."
+greek: "καὶ ἦσαν διὰ παντὸς ἐν τῷ ἱερῷ αἰνοῦντες καὶ εὐλογοῦντες τὸν θεόν. ἀμήν¶"
+pericope: "[[Luke.24.50 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G0134]]"
+- "[[G2127]]"
+- "[[G2316]]"
+- "[[G0281]]"
+texts:
+- NKO
+- N(K)O
+- KO
+- K
+---
+
 **Luke 24:53**<big><big>[[Luke.24.50 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And were continually in the temple, praising and blessing God. Amen.
 <small><sub>**BSB:**</sub></small>
 praising God continually in the temple.
-<small><sub>**Literal:**</sub></small>
-and were through all [times] in the temple praising and blessing <the> God. Amen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.52|<< Luke 24:52]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.1|John 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦσαν]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G0134\|αἰνοῦντες]]  [[G2532\|καὶ]]  [[G2127\|εὐλογοῦντες]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]  [[G0281\|ἀμήν¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.52|<< Luke 24:52]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.1|John 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

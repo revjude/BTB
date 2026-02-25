@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Joash
+type: Pericope
 pericope: "[[2Kgs.12.17 The Death of Joash|The Death of Joash]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 12
 book/chapter: "[[2Kgs.12|2 Kings 12]]"
-genre:
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.12.17]]"
 - "[[2Kgs.12.18]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.12.21]]"
 ---
 
-[[2Kgs.12|2 Kings 12:17 - 2 Kings 12:21]]
+<small>[[2Kgs.12|2 Kings 12:17-21]]</small>
 *The Death of Joash*
 
 [[2Kgs.12.17|17]] Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.

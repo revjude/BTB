@@ -1,10 +1,59 @@
+---
+title: Revelation 6:14
+type: Verse
+kjv: "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."
+bsb: "The sky receded like a scroll being rolled up, and every mountain and island was moved from its place."
+greek: "καὶ ὁ οὐρανὸς ἀπεχωρίσθη ὡς βιβλίον ἑλισσόμενον, καὶ πᾶν ὄρος καὶ νῆσος ἐκ τῶν τόπων αὐτῶν ἐκινήθησαν,"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G0673]]"
+- "[[G5613]]"
+- "[[G0975]]"
+- "[[G1667]]"
+- "[[G3956]]"
+- "[[G3735]]"
+- "[[G3520]]"
+- "[[G1537]]"
+- "[[G5117]]"
+- "[[G0846]]"
+- "[[G2795]]"
+texts:
+- NKO
+---
+
 **Revelation 6:14**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 <small><sub>**BSB:**</sub></small>
 The sky receded like a scroll being rolled up, and every mountain and island was moved from its place.
-<small><sub>**Literal:**</sub></small>
-And <the> heaven departed like a scroll being rolled up, and every mountain and island out of the places of them were moved,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.13|<< Revelation 6:13]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.15|Revelation 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3772\|οὐρανὸς]]  [[G0673\|ἀπεχωρίσθη]]  [[G5613\|ὡς]]  [[G0975\|βιβλίον]]  [[G1667\|ἑλισσόμενον,]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3735\|ὄρος]]  [[G2532\|καὶ]]  [[G3520\|νῆσος]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5117\|τόπων]]  [[G0846\|αὐτῶν]]  [[G2795\|ἐκινήθησαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.13|<< Revelation 6:13]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.15|Revelation 6:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:14** is...
 > $\quad$ alluding to: [[LXX.Ps.102.26|Ps 102:26]] ☩ [[LXX.Isa.34.4|Isa 34:4]]

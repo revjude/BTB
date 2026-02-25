@@ -1,6 +1,80 @@
+---
+title: LXX 1 Kings 10:12
+type: Verse
+lxx: "And the king made the hewn timbers for supports of the house of the lord, and the house of the king, and stringed instruments, and lutes for the singers. There had not come such unhewn timbers unto the land, nor was seen somewhere until  this day."
+greek: "και εποίησεν ο βασιλεύς τα ξύλα τα πελεκητά υποστηρίγματα του οίκου κυρίου και του οίκου του βασιλέως και ναύλας και κινύρας τοις ωδοίς ουκ εληλύθει τοιαύτα ξύλα απελεκητά επί της γης ουδέ ώφθησάν που έως της ημέρας ταύτης"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALGUM|ALGUM]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G3586]]"
+- "[[G3588]]"
+- "[[G8684]]"
+- "[[G9591]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G8372]]"
+- "[[G2532]]"
+- "[[G8011]]"
+- "[[G3588]]"
+- "[[G9808]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G5108]]"
+- "[[G3586]]"
+- "[[G6406]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3761]]"
+- "[[G3708]]"
+- "[[G4225]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+---
+
 **LXX 1 Kings 10:12** 
 <small><sub>**LXX:**</sub></small>
 And the king made the hewn timbers for supports of the house of \[the\] <span class="smallcaps">lord</span>, and the house of the king, and stringed instruments, and lutes \[for\] the singers. There had not come such unhewn timbers unto the land, nor was seen somewhere until  this day. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|εποίησεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G3588\|τα]] [[G3586\|ξύλα]] [[G3588\|τα]] [[G8684\|πελεκητά]] [[G9591\|υποστηρίγματα]] [[G3588\|του]] [[G3624\|οίκου]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3588\|του]] [[G3624\|οίκου]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G8372\|ναύλας]] [[G2532\|και]] [[G8011\|κινύρας]] [[G3588\|τοις]] [[G9808\|ωδοίς]] [[G3756\|ουκ]] [[G2064\|εληλύθει]] [[G5108\|τοιαύτα]] [[G3586\|ξύλα]] [[G6406\|απελεκητά]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G3761\|ουδέ]] [[G3708\|ώφθησάν]] [[G4225\|που]] [[G2193\|έως]] [[G3588\|της]] [[G2250\|ημέρας]] [[G3778\|ταύτης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALGUM|ALGUM]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]] • [[topic QUEEN|QUEEN]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.11|<< 1 Kings 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.13|1 Kings 10:13 >>]]</td></tr></table>
 
@@ -42,6 +116,6 @@ And the king made the hewn timbers for supports of the house of \[the\] <span cl
 | until | **<big>[[G2193\|έως]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
-[[1Kgs.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.11|<< 1 Kings 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.13|1 Kings 10:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.11|<< 1 Kings 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.13|1 Kings 10:13 >>]]</td></tr></table>
 
 

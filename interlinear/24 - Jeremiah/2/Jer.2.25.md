@@ -1,8 +1,69 @@
+---
+title: Jeremiah 2:25
+type: Verse
+kjv: "Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go."
+bsb: "You should have kept your feet from going bare and your throat from being thirsty. But you said, ‘It is hopeless! For I love foreign gods, and I must go after them.’"
+hebrew: "מִנְעִ֤י רַגְלֵךְ֙ מִיָּחֵ֔ף וּגְרוֹנֵ֖ךְ מִצִּמְאָ֑ה וַתֹּאמְרִ֣י נוֹאָ֔שׁ ל֕וֹא כִּֽי־ אָהַ֥בְתִּי זָרִ֖ים וְאַחֲרֵיהֶ֥ם אֵלֵֽךְ׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4513]]"
+- "[[H7272]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H3182]]"
+- "[[H9002]]"
+- "[[H1637]]"
+- "[[H1627]]"
+- "[[H6773]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2976]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H2114A]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 2:25**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withhold thy foot from being unshod, and thy throat from thirst: but thou saidst, There is no hope: no; for I have loved strangers, and after them will I go.
 <small><sub>**BSB:**</sub></small>
 You should have kept your feet from going bare and your throat from being thirsty. But you said, ‘It is hopeless! For I love foreign gods, and I must go after them.’
+<small><sub>**Hebrew:**</sub></small>
+[[H4513\|מִנְעִ֤י]] [[H7272\|רַגְלֵ]][[H9022\|ךְ֙]] [[H9006\|מִ]][[H3182\|יָּחֵ֔ף]] [[H9002\|וּ]][[H1627\|גְרוֹנֵ֖]][[H9022\|ךְ]] [[H9006\|מִ]][[H6773\|צִּמְאָ֑ה]] [[H9001\|וַ]][[H0559\|תֹּאמְרִ֣י]] [[H2976\|נוֹאָ֔שׁ]] [[H3808\|ל֕וֹא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0157G\|אָהַ֥בְתִּי]] [[H2114A\|זָרִ֖ים]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9038\|הֶ֥ם]] [[H1980G\|אֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMPANY|COMPANY]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.24|<< Jeremiah 2:24]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.26|Jeremiah 2:26 >>]]</td></tr></table>
 
@@ -23,8 +84,8 @@ You should have kept your feet from going bare and your throat from being thirst
 | I will walk  |**<big>&#8207;[[H1980G\|אֵלֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.24|<< Jeremiah 2:24]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.26|Jeremiah 2:26 >>]]</td></tr></table>
 
-[^1]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^2]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^3]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^1]: and threshing floor your  | **<big>[[H9002|וְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9022|ךְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: and threshing floor your  | **<big>[[H9002|וְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9022|ךְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: and threshing floor your  | **<big>[[H9002|וְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9022|ךְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וּגְורֹנֵ֖/ךְ</big></span>**
 

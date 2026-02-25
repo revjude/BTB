@@ -1,10 +1,57 @@
+---
+title: Philippians 2:7
+type: Verse
+kjv: "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:"
+bsb: "but emptied Himself, taking the form of a servant, being made in human likeness."
+greek: "ἀλλ᾽ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος, καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος"
+pericope: "[[Phil.2.5 The Mind of Christ|The Mind of Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0235]]"
+- "[[G1438]]"
+- "[[G2758]]"
+- "[[G3444]]"
+- "[[G1401]]"
+- "[[G2983]]"
+- "[[G1722]]"
+- "[[G3667]]"
+- "[[G0444]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G4976]]"
+- "[[G2147]]"
+- "[[G5613]]"
+texts:
+- NKO
+---
+
 **Philippians 2:7**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:
 <small><sub>**BSB:**</sub></small>
 but emptied Himself, taking the form of a servant, being made in human likeness.
-<small><sub>**Literal:**</sub></small>
-but Himself emptied [the] form of a servant having taken, in [the] likeness of men having been made, [8] And in appearance having been found as a man<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.6|<< Philippians 2:6]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.8|Philippians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1438\|ἑαυτὸν]]  [[G2758\|ἐκένωσεν]]  [[G3444\|μορφὴν]]  [[G1401\|δούλου]]  [[G2983\|λαβών,]]  [[G1722\|ἐν]]  [[G3667\|ὁμοιώματι]]  [[G0444\|ἀνθρώπων]]  [[G1096\|γενόμενος,]]  [[G2532\|καὶ]]  [[G4976\|σχήματι]]  [[G2147\|εὑρεθεὶς]]  [[G5613\|ὡς]]  [[G0444\|ἄνθρωπος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.6|<< Philippians 2:6]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.8|Philippians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Jeremiah 50:26
+type: Verse
+kjv: "Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left."
+bsb: "Come against her from the farthest border. Break open her granaries; pile her up like mounds of grain. Devote her to destruction; leave her no survivors."
+hebrew: "בֹּֽאוּ־ לָ֤הּ מִקֵּץ֙ פִּתְח֣וּ מַאֲבֻסֶ֔יהָ סָלּ֥וּהָ כְמוֹ־ עֲרֵמִ֖ים וְהַחֲרִימ֑וּהָ אַל־ תְּהִי־ לָ֖הּ שְׁאֵרִֽית׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H6605A]]"
+- "[[H3965]]"
+- "[[H9024]]"
+- "[[H5549]]"
+- "[[H3644G]]"
+- "[[H6194]]"
+- "[[H9002]]"
+- "[[H2763A]]"
+- "[[H0408]]"
+- "[[H1961]]"
+- "[[H7611]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:26**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left.
 <small><sub>**BSB:**</sub></small>
 Come against her from the farthest border. Break open her granaries; pile her up like mounds of grain. Devote her to destruction; leave her no survivors.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בֹּֽאוּ]][[H9014\|־]] [[H9005\|לָ֤]][[H9034\|הּ]] [[H9006\|מִ]][[H7093\|קֵּץ֙]] [[H6605A\|פִּתְח֣וּ]] [[H3965\|מַאֲבֻסֶ֔י]][[H9024\|הָ]] [[H5549\|סָלּ֥וּ]][[H9034\|הָ]] [[H3644G\|כְמוֹ]][[H9014\|־]] [[H6194\|עֲרֵמִ֖ים]] [[H9002\|וְ]][[H2763A\|הַחֲרִימ֑וּ]][[H9034\|הָ]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִי]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H7611\|שְׁאֵרִֽית]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.25|<< Jeremiah 50:25]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.27|Jeremiah 50:27 >>]]</td></tr></table>
 

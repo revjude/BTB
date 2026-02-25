@@ -1,8 +1,65 @@
+---
+title: Joshua 13:16
+type: Verse
+kjv: "And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;"
+bsb: "The territory from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, to the whole plateau beyond Medeba,"
+hebrew: "וַיְהִ֨י לָהֶ֜ם הַגְּב֗וּל מֵעֲרוֹעֵ֡ר אֲשֶׁר֩ עַל־ שְׂפַת־ נַ֨חַל אַרְנ֜וֹן וְהָעִ֨יר אֲשֶׁ֧ר בְּתוֹךְ־ הַנַּ֛חַל וְכָל־ הַמִּישֹׁ֖ר עַל־ מֵידְבָֽא׃"
+pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H1366H]]"
+- "[[H9006]]"
+- "[[H6177H]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8193I]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3605]]"
+- "[[H4334]]"
+- "[[H4311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:16**<big><big>[[Josh.13.15 Reuben’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their coast was from Aroer, that [is] on the bank of the river Arnon, and the city that [is] in the midst of the river, and all the plain by Medeba;
 <small><sub>**BSB:**</sub></small>
 The territory from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, to the whole plateau beyond Medeba,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H9009\|הַ]][[H1366H\|גְּב֗וּל]] [[H9006\|מֵ]][[H6177H\|עֲרוֹעֵ֡ר]] [[H0834A\|אֲשֶׁר֩]] [[H5921A\|עַל]][[H9014\|־]] [[H8193I\|שְׂפַת]][[H9014\|־]] [[H5158N\|נַ֨חַל]] [[H0769\|אַרְנ֜וֹן]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֨יר]] [[H0834A\|אֲשֶׁ֧ר]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H5158N\|נַּ֛חַל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4334\|מִּישֹׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H4311\|מֵידְבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic MEDEBA|MEDEBA]] • [[topic REUBENITES|REUBENITES]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.15|<< Joshua 13:15]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.17|Joshua 13:17 >>]]</td></tr></table>
 

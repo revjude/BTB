@@ -1,10 +1,75 @@
+---
+title: Acts 13:46
+type: Verse
+kjv: "Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles."
+bsb: "Then Paul and Barnabas answered them boldly: “It was necessary to speak the word of God to you first. But since you reject it and do not consider yourselves worthy of eternal life, we now turn to the Gentiles."
+greek: "παρρησιασάμενοί τε ὁ Παῦλος καὶ ὁ Βαρναβᾶς εἶπαν· ὑμῖν ἦν ἀναγκαῖον πρῶτον λαληθῆναι τὸν λόγον τοῦ θεοῦ· ἐπειδὴ δὲ ἀπωθεῖσθε αὐτὸν καὶ οὐκ ἀξίους κρίνετε ἑαυτοὺς τῆς αἰωνίου ζωῆς, ἰδοὺ στρεφόμεθα εἰς τὰ ἔθνη."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3955]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G0921G]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0316]]"
+- "[[G4413G]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G1894]]"
+- "[[G1161]]"
+- "[[G0683]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G0514]]"
+- "[[G2919]]"
+- "[[G1438]]"
+- "[[G0166]]"
+- "[[G2222]]"
+- "[[G2400]]"
+- "[[G4762]]"
+- "[[G1519]]"
+- "[[G1484]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Acts 13:46**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 Then Paul and Barnabas answered them boldly: “It was necessary to speak the word of God to you first. But since you reject it and do not consider yourselves worthy of eternal life, we now turn to the Gentiles.
-<small><sub>**Literal:**</sub></small>
-Having spoken boldly also <the> Paul and <the> Barnabas said; To you it was necessary first to be spoken the word <the> of God; but since now you thrust away it and not worthy you judge yourselves <the> of eternal life, behold we are turning to the Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.45|<< Acts 13:45]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.47|Acts 13:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3955\|παρρησιασάμενοί]]  [[G5037\|τε]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0921G\|Βαρναβᾶς]]  [[G2036\|εἶπαν·]]  [[G4771\|ὑμῖν]]  [[G1510\|ἦν]]  [[G0316\|ἀναγκαῖον]]  [[G4413G\|πρῶτον]]  [[G2980\|λαληθῆναι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G1894\|ἐπειδὴ]]  [[G1161\|δὲ]]  [[G0683\|ἀπωθεῖσθε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0514\|ἀξίους]]  [[G2919\|κρίνετε]]  [[G1438\|ἑαυτοὺς]]  [[G3588\|τῆς]]  [[G0166\|αἰωνίου]]  [[G2222\|ζωῆς,]]  [[G2400\|ἰδοὺ]]  [[G4762\|στρεφόμεθα]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic LIFE|LIFE]] • [[topic PREACHING|PREACHING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.45|<< Acts 13:45]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.47|Acts 13:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

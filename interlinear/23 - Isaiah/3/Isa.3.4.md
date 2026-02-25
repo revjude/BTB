@@ -1,8 +1,55 @@
+---
+title: Isaiah 3:4
+type: Verse
+kjv: "And I will give children to be their princes, and babes shall rule over them."
+bsb: "“I will make mere lads their leaders, and children will rule over them.”"
+hebrew: "וְנָתַתִּ֥י נְעָרִ֖ים שָׂרֵיהֶ֑ם וְתַעֲלוּלִ֖ים יִמְשְׁלוּ־ בָֽם׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H5288]]"
+- "[[H8269]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8586]]"
+- "[[H4910]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:4**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give children [to be] their princes, and babes shall rule over them.
 <small><sub>**BSB:**</sub></small>
 “I will make mere lads their leaders, and children will rule over them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֥י]] [[H5288\|נְעָרִ֖ים]] [[H8269\|שָׂרֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H8586\|תַעֲלוּלִ֖ים]] [[H4910\|יִמְשְׁלוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.3|<< Isaiah 3:3]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.5|Isaiah 3:5 >>]]</td></tr></table>
 

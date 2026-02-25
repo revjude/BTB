@@ -1,8 +1,77 @@
+---
+title: Exodus 25:22
+type: Verse
+kjv: "And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel."
+bsb: "And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites."
+hebrew: "וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒ וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת אֵ֣ת כָּל־ אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[Exod.25.17 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3259]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3727]]"
+- "[[H0996G]]"
+- "[[H8147]]"
+- "[[H3742]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H6680]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 25:22**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which [are] upon the ark of the testimony, of all [things] which I will give thee in commandment unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3259\|נוֹעַדְתִּ֣י]] [[H9005\|לְ]][[H9031\|ךָ֮]] [[H8033G\|שָׁם֒]] [[H9001\|וְ]][[H1696G\|דִבַּרְתִּ֨י]] [[H0854\|אִתְּ]][[H9031\|ךָ֜]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H3727\|כַּפֹּ֗רֶת]] [[H9006\|מִ]][[H0996G\|בֵּין֙]] [[H8147\|שְׁנֵ֣י]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H0727\|אֲרֹ֣ן]] [[H9009\|הָ]][[H5715\|עֵדֻ֑ת]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֧ר]] [[H6680\|אֲצַוֶּ֛ה]] [[H0853\|אוֹתְ]][[H9031\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSPIRATION|INSPIRATION]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic PROPHETS|PROPHETS]] • [[topic SHEKINAH|SHEKINAH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.21|<< Exodus 25:21]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.23|Exodus 25:23 >>]]</td></tr></table>
 
@@ -29,7 +98,7 @@ And I will meet with you there above the mercy seat, between the two cherubim th
 | \<obj.> you  |**<big>&#8207;[[H0853\|אוֹתְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| 'ot.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.21|<< Exodus 25:21]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.23|Exodus 25:23 >>]]</td></tr></table>
 
 

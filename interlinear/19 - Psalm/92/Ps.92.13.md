@@ -1,8 +1,55 @@
+---
+title: Psalm 92:13
+type: Verse
+kjv: "Those that be planted in the house of the LORD shall flourish in the courts of our God."
+bsb: "Planted in the house of the LORD, they will flourish in the courts of our God."
+hebrew: "שְׁ֭תוּלִים בְּבֵ֣ית יְהוָ֑ה בְּחַצְר֖וֹת אֱלֹהֵ֣ינוּ יַפְרִֽיחוּ׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H8362]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H2691A]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H6524A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:13**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that be planted in the house of the LORD shall flourish in the courts of our God.
 <small><sub>**BSB:**</sub></small>
 Planted in the house of the LORD, they will flourish in the courts of our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H8362\|שְׁ֭תוּלִים]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H2691A\|חַצְר֖וֹת]] [[H0430G\|אֱלֹהֵ֣י]][[H9025\|נוּ]] [[H6524A\|יַפְרִֽיחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic SABBATH|SABBATH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.12|<< Psalms 92:12]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.14|Psalms 92:14 >>]]</td></tr></table>
 

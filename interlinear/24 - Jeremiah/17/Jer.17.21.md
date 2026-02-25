@@ -1,8 +1,62 @@
+---
+title: Jeremiah 17:21
+type: Verse
+kjv: "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring it in by the gates of Jerusalem;"
+bsb: "This is what the LORD says: Take heed for yourselves; do not carry a load or bring it through the gates of Jerusalem on the Sabbath day."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִשָּׁמְר֖וּ בְּנַפְשֽׁוֹתֵיכֶ֑ם וְאַל־ תִּשְׂא֤וּ מַשָּׂא֙ בְּי֣וֹם הַשַּׁבָּ֔ת וַהֲבֵאתֶ֖ם בְּשַׁעֲרֵ֥י יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H8104J]]"
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5375H]]"
+- "[[H4853A]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H8179G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:21**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring [it] in by the gates of Jerusalem;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: Take heed for yourselves; do not carry a load or bring it through the gates of Jerusalem on the Sabbath day.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H8104J\|הִשָּׁמְר֖וּ]] [[H9003\|בְּ]][[H5315H\|נַפְשֽׁוֹתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5375H\|תִּשְׂא֤וּ]] [[H4853A\|מַשָּׂא֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H9001\|וַ]][[H0935P\|הֲבֵאתֶ֖ם]] [[H9003\|בְּ]][[H8179G\|שַׁעֲרֵ֥י]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.20|<< Jeremiah 17:20]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.22|Jeremiah 17:22 >>]]</td></tr></table>
 

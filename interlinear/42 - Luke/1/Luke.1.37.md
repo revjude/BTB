@@ -1,10 +1,59 @@
+---
+title: Luke 1:37
+type: Verse
+kjv: "For with God nothing shall be impossible."
+bsb: "For no word from God will ever fail.”"
+greek: "ὅτι οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα.¶"
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G0101]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G4487]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:37**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For with God nothing shall be impossible.
 <small><sub>**BSB:**</sub></small>
 For no word from God will ever fail.”
-<small><sub>**Literal:**</sub></small>
-For not will be impossible with <of the> God every declaration.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.36|<< Luke 1:36]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.38|Luke 1:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G0101\|ἀδυνατήσει]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3956\|πᾶν]]  [[G4487\|ῥῆμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.36|<< Luke 1:36]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.38|Luke 1:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

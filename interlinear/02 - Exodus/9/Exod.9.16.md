@@ -1,8 +1,69 @@
+---
+title: Exodus 9:16
+type: Verse
+kjv: "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth."
+bsb: "But I have raised you up for this very purpose, that I might display My power to you, and that My name might be proclaimed in all the earth."
+hebrew: "וְאוּלָ֗ם בַּעֲב֥וּר זֹאת֙ הֶעֱמַדְתִּ֔יךָ בַּעֲב֖וּר הַרְאֹתְךָ֣ אֶת־ כֹּחִ֑י וּלְמַ֛עַן סַפֵּ֥ר שְׁמִ֖י בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H2063]]"
+- "[[H5975H]]"
+- "[[H9031]]"
+- "[[H7200G]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H4616]]"
+- "[[H5608A]]"
+- "[[H8034]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:16**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in very deed for this [cause] have I raised thee up, for to shew [in] thee my power; and that my name may be declared throughout all the earth.
 <small><sub>**BSB:**</sub></small>
 But I have raised you up for this very purpose, that I might display My power to you, and that My name might be proclaimed in all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0199\|אוּלָ֗ם]] [[H9003\|בַּ]][[H5668\|עֲב֥וּר]] [[H2063\|זֹאת֙]] [[H5975H\|הֶעֱמַדְתִּ֔י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H7200G\|הַרְאֹתְ]][[H9041\|ךָ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H3581B\|כֹּחִ֑]][[H9020\|י]] [[H9002\|וּ]][[H4616\|לְמַ֛עַן]] [[H5608A\|סַפֵּ֥ר]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SUFFERING|SUFFERING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.15|<< Exodus 9:15]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.17|Exodus 9:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

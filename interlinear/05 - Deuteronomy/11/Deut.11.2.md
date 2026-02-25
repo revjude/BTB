@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 11:2
+type: Verse
+kjv: "And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,"
+bsb: "Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;"
+hebrew: "וִֽידַעְתֶּם֮ הַיּוֹם֒ כִּ֣י׀ לֹ֣א אֶת־ בְּנֵיכֶ֗ם אֲשֶׁ֤ר לֹֽא־ יָדְעוּ֙ וַאֲשֶׁ֣ר לֹא־ רָא֔וּ אֶת־ מוּסַ֖ר יְהוָ֣ה אֱלֹהֵיכֶ֑ם אֶת־ גָּדְל֕וֹ אֶת־ יָדוֹ֙ הַחֲזָקָ֔ה וּזְרֹע֖וֹ הַנְּטוּיָֽה׃"
+pericope: "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H4148G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1433]]"
+- "[[H9023]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:2**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And know ye this day: for [I speak] not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,
 <small><sub>**BSB:**</sub></small>
 Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִֽ]][[H3045\|ידַעְתֶּם֮]] [[H9009\|הַ]][[H3117G\|יּוֹם֒]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3808\|לֹ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֗ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדְעוּ֙]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|רָא֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4148G\|מוּסַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1433\|גָּדְל֕]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָד]][[H9023\|וֹ֙]] [[H9009\|הַ]][[H2389\|חֲזָקָ֔ה]] [[H9002\|וּ]][[H2220\|זְרֹע֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H5186\|נְּטוּיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.1|<< Deuteronomy 11:1]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.3|Deuteronomy 11:3 >>]]</td></tr></table>
 

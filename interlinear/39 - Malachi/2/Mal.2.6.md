@@ -1,8 +1,65 @@
+---
+title: Malachi 2:6
+type: Verse
+kjv: "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity."
+bsb: "True instruction was in his mouth, and nothing false was found on his lips. He walked with Me in peace and uprightness, and he turned many from iniquity."
+hebrew: "תּוֹרַ֤ת אֱמֶת֙ הָיְתָ֣ה בְּפִ֔יהוּ וְעַוְלָ֖ה לֹא־ נִמְצָ֣א בִשְׂפָתָ֑יו בְּשָׁל֤וֹם וּבְמִישׁוֹר֙ הָלַ֣ךְ אִתִּ֔י וְרַבִּ֖ים הֵשִׁ֥יב מֵעָוֹֽן׃"
+pericope: "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H8451]]"
+- "[[H0571H]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5766B]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H8193G]]"
+- "[[H7965G]]"
+- "[[H4334]]"
+- "[[H1980I]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H7227A]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:6**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.
 <small><sub>**BSB:**</sub></small>
 True instruction was in his mouth, and nothing false was found on his lips. He walked with Me in peace and uprightness, and he turned many from iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H8451\|תּוֹרַ֤ת]] [[H0571H\|אֱמֶת֙]] [[H1961\|הָיְתָ֣ה]] [[H9003\|בְּ]][[H6310G\|פִ֔י]][[H9023\|הוּ]] [[H9002\|וְ]][[H5766B\|עַוְלָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|נִמְצָ֣א]] [[H9003\|בִ]][[H8193G\|שְׂפָתָ֑י]][[H9023\|ו]] [[H9003\|בְּ]][[H7965G\|שָׁל֤וֹם]] [[H9002\|וּ]][[H9003\|בְ]][[H4334\|מִישׁוֹר֙]] [[H1980I\|הָלַ֣ךְ]] [[H0854\|אִתִּ֔]][[H9030\|י]] [[H9002\|וְ]][[H7227A\|רַבִּ֖ים]] [[H7725O\|הֵשִׁ֥יב]] [[H9006\|מֵ]][[H5771G\|עָוֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.5|<< Malachi 2:5]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.7|Malachi 2:7 >>]]</td></tr></table>
 

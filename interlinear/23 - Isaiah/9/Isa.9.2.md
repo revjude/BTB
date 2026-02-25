@@ -1,8 +1,65 @@
+---
+title: Isaiah 9:2
+type: Verse
+kjv: "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined."
+bsb: "The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned."
+hebrew: "הָעָם֙ הַהֹלְכִ֣ים בַּחֹ֔שֶׁךְ רָא֖וּ א֣וֹר גָּד֑וֹל יֹשְׁבֵי֙ בְּאֶ֣רֶץ צַלְמָ֔וֶת א֖וֹר נָגַ֥הּ עֲלֵיהֶֽם׃"
+pericope: "[[Isa.9.1 Unto Us a Child Is Born|Unto Us a Child Is Born]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H7200G]]"
+- "[[H0216]]"
+- "[[H1419A]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H6757]]"
+- "[[H5050]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:2**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.
 <small><sub>**BSB:**</sub></small>
 The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H5971A\|עָם֙]] [[H9009\|הַ]][[H1980I\|הֹלְכִ֣ים]] [[H9003\|בַּ]][[H2822\|חֹ֔שֶׁךְ]] [[H7200G\|רָא֖וּ]] [[H0216\|א֣וֹר]] [[H1419A\|גָּד֑וֹל]] [[H3427\|יֹשְׁבֵי֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H6757\|צַלְמָ֔וֶת]] [[H0216\|א֖וֹר]] [[H5050\|נָגַ֥הּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic DARKNESS|DARKNESS]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAPHTALI|NAPHTALI]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.1|<< Isaiah 9:1]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.3|Isaiah 9:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

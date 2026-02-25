@@ -1,8 +1,58 @@
+---
+title: Isaiah 3:17
+type: Verse
+kjv: "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts."
+bsb: "the Lord will bring sores on the heads of the daughters of Zion, and the LORD will make their foreheads bare.”"
+hebrew: "וְשִׂפַּ֣ח אֲדֹנָ֔י קָדְקֹ֖ד בְּנ֣וֹת צִיּ֑וֹן וַיהוָ֖ה פָּתְהֵ֥ן יְעָרֶֽה׃ ס"
+pericope: "[[Isa.3.16 A Warning to the Daughters of Zion|A Warning to the Daughters of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEAD|HEAD]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SCAB|SCAB]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5596B]]"
+- "[[H0136]]"
+- "[[H6936]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H6596]]"
+- "[[H9029]]"
+- "[[H6168]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 3:17**<big><big>[[Isa.3.16 A Warning to the Daughters of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.
 <small><sub>**BSB:**</sub></small>
 the Lord will bring sores on the heads of the daughters of Zion, and the LORD will make their foreheads bare.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5596B\|שִׂפַּ֣ח]] [[H0136\|אֲדֹנָ֔י]] [[H6936\|קָדְקֹ֖ד]] [[H1323G\|בְּנ֣וֹת]] [[H6726\|צִיּ֑וֹן]] [[H9002\|וַ]][[H3068G\|יהוָ֖ה]] [[H6596\|פָּתְ]][[H9029\|הֵ֥ן]] [[H6168\|יְעָרֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEAD|HEAD]] • [[topic PRIDE|PRIDE]] • [[topic SCAB|SCAB]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.16|<< Isaiah 3:16]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.18|Isaiah 3:18 >>]]</td></tr></table>
 
@@ -15,7 +65,7 @@ the Lord will bring sores on the heads of the daughters of Zion, and the LORD wi
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֑וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forehead their  |**<big>&#8207;[[H6596\|פָּתְ]]&#8207;&#8207;[[H9029\|הֵ֥ן]]&#8207; </big>**| pa.te.<small><sup>[[HNcfsc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will lay bare  |**<big>&#8207;[[H6168\|יְעָרֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.'a.Reh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will lay bare  |**<big>&#8207;[[H6168\|יְעָרֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.'a.Reh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.16|<< Isaiah 3:16]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.18|Isaiah 3:18 >>]]</td></tr></table>
 
 

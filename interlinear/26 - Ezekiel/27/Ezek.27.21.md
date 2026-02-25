@@ -1,8 +1,67 @@
+---
+title: Ezekiel 27:21
+type: Verse
+kjv: "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these were they thy merchants."
+bsb: "Arabia and all the princes of Kedar were your customers, trading in lambs, rams, and goats."
+hebrew: "עֲרַב֙ וְכָל־ נְשִׂיאֵ֣י קֵדָ֔ר הֵ֖מָּה סֹחֲרֵ֣י יָדֵ֑ךְ בְּכָרִ֤ים וְאֵילִים֙ וְעַתּוּדִ֔ים בָּ֖ם סֹחֲרָֽיִךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARABIA|ARABIA]]"
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic KEDAR|KEDAR]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H6152B]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5387A]]"
+- "[[H6938]]"
+- "[[H1992]]"
+- "[[H5503]]"
+- "[[H3027I]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H3733C]]"
+- "[[H0352A]]"
+- "[[H6260]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:21**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these [were they] thy merchants.
 <small><sub>**BSB:**</sub></small>
 Arabia and all the princes of Kedar were your customers, trading in lambs, rams, and goats.
+<small><sub>**Hebrew:**</sub></small>
+[[H6152B\|עֲרַב֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5387A\|נְשִׂיאֵ֣י]] [[H6938\|קֵדָ֔ר]] [[H1992\|הֵ֖מָּה]] [[H5503\|סֹחֲרֵ֣י]] [[H3027I\|יָדֵ֑]][[H9022\|ךְ]] [[H9003\|בְּ]][[H3733C\|כָרִ֤ים]] [[H9002\|וְ]][[H0352A\|אֵילִים֙]] [[H9002\|וְ]][[H6260\|עַתּוּדִ֔ים]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H5503\|סֹחֲרָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIA|ARABIA]] • [[topic ARABIANS|ARABIANS]] • [[topic COMMERCE|COMMERCE]] • [[topic EXPORTS|EXPORTS]] • [[topic IMPORTS|IMPORTS]] • [[topic KEDAR|KEDAR]] • [[topic MARKET|MARKET]] • [[topic MERCHANT|MERCHANT]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.20|<< Ezekiel 27:20]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.22|Ezekiel 27:22 >>]]</td></tr></table>
 

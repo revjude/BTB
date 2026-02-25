@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 34:19
+type: Verse
+kjv: "And it came to pass, when the king had heard the words of the law, that he rent his clothes."
+bsb: "When the king heard the words of the Law, he tore his clothes"
+hebrew: "וַיְהִי֙ כִּשְׁמֹ֣עַ הַמֶּ֔לֶךְ אֵ֖ת דִּבְרֵ֣י הַתּוֹרָ֑ה וַיִּקְרַ֖ע אֶת־ בְּגָדָֽיו׃"
+pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H8451]]"
+- "[[H7167]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:19**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king had heard the words of the law, that he rent his clothes.
 <small><sub>**BSB:**</sub></small>
 When the king heard the words of the Law, he tore his clothes
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0853\|אֵ֖ת]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H8451\|תּוֹרָ֑ה]] [[H9001\|וַ]][[H7167\|יִּקְרַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.18|<< 2 Chronicles 34:18]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.20|2 Chronicles 34:20 >>]]</td></tr></table>
 

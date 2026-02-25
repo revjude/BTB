@@ -1,8 +1,65 @@
+---
+title: Jeremiah 51:47
+type: Verse
+kjv: "Therefore, behold, the days come, that I will do judgment upon the graven images of Babylon: and her whole land shall be confounded, and all her slain shall fall in the midst of her."
+bsb: "Therefore, behold, the days are coming when I will punish the idols of Babylon. Her entire land will suffer shame, and all her slain will lie fallen within her."
+hebrew: "לָכֵן֙ הִנֵּ֣ה יָמִ֣ים בָּאִ֔ים וּפָקַדְתִּי֙ עַל־ פְּסִילֵ֣י בָבֶ֔ל וְכָל־ אַרְצָ֖הּ תֵּב֑וֹשׁ וְכָל־ חֲלָלֶ֖יהָ יִפְּל֥וּ בְתוֹכָֽהּ׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6456]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9024]]"
+- "[[H0954]]"
+- "[[H2491A]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:47**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, that I will do judgment upon the graven images of Babylon: and her whole land shall be confounded, and all her slain shall fall in the midst of her.
 <small><sub>**BSB:**</sub></small>
 Therefore, behold, the days are coming when I will punish the idols of Babylon. Her entire land will suffer shame, and all her slain will lie fallen within her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H2009\|הִנֵּ֣ה]] [[H3117G\|יָמִ֣ים]] [[H0935G\|בָּאִ֔ים]] [[H9001\|וּ]][[H6485H\|פָקַדְתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6456\|פְּסִילֵ֣י]] [[H0894\|בָבֶ֔ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצָ֖]][[H9024\|הּ]] [[H0954\|תֵּב֑וֹשׁ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2491A\|חֲלָלֶ֖י]][[H9024\|הָ]] [[H5307J\|יִפְּל֥וּ]] [[H9003\|בְ]][[H8432\|תוֹכָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.46|<< Jeremiah 51:46]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.48|Jeremiah 51:48 >>]]</td></tr></table>
 

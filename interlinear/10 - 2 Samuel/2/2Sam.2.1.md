@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 2:1
+type: Verse
+kjv: "And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron."
+bsb: "Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD."
+hebrew: "וַיְהִ֣י אַֽחֲרֵי־ כֵ֗ן וַיִּשְׁאַל֩ דָּוִ֨ד בַּֽיהוָ֤ה׀ לֵאמֹר֙ הַאֶעֱלֶ֗ה בְּאַחַת֙ עָרֵ֣י יְהוּדָ֔ה וַיֹּ֧אמֶר יְהוָ֛ה אֵלָ֖יו עֲלֵ֑ה וַיֹּ֧אמֶר דָּוִ֛ד אָ֥נָה אֶעֱלֶ֖ה וַיֹּ֥אמֶר חֶבְרֹֽנָה׃"
+pericope: "[[2Sam.2.1 David Anointed King of Judah|David Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H5927G]]"
+- "[[H0259]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0575]]"
+- "[[H2275A]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:1**<big><big>[[2Sam.2.1 David Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
 <small><sub>**BSB:**</sub></small>
 Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֗ן]] [[H9001\|וַ]][[H7592\|יִּשְׁאַל֩]] [[H1732\|דָּוִ֨ד]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֤ה]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H9008\|הַ]][[H5927G\|אֶעֱלֶ֗ה]] [[H9003\|בְּ]][[H0259\|אַחַת֙]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H5927G\|עֲלֵ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H1732\|דָּוִ֛ד]] [[H0575\|אָ֥נָה]] [[H5927G\|אֶעֱלֶ֖ה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H2275A\|חֶבְרֹֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic HEBRON|HEBRON]] • [[topic JUDAH|JUDAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.27|<< 2 Samuel 1:27]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.2|2 Samuel 2:2 >>]]</td></tr></table>
 

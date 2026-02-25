@@ -1,8 +1,67 @@
+---
+title: Joshua 11:10
+type: Verse
+kjv: "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms."
+bsb: "At that time Joshua turned back and captured Hazor and put its king to the sword, because Hazor was formerly the head of all these kingdoms."
+hebrew: "וַיָּ֨שָׁב יְהוֹשֻׁ֜עַ בָּעֵ֤ת הַהִיא֙ וַיִּלְכֹּ֣ד אֶת־ חָצ֔וֹר וְאֶת־ מַלְכָּ֖הּ הִכָּ֣ה בֶחָ֑רֶב כִּֽי־ חָצ֣וֹר לְפָנִ֔ים הִ֕יא רֹ֖אשׁ כָּל־ הַמַּמְלָכ֥וֹת הָאֵֽלֶּה׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JABIN|JABIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2674G]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H5221]]"
+- "[[H2719]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7218H]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:10**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.
 <small><sub>**BSB:**</sub></small>
 At that time Joshua turned back and captured Hazor and put its king to the sword, because Hazor was formerly the head of all these kingdoms.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֨שָׁב]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H9003\|בָּ]][[H6256\|עֵ֤ת]] [[H9009\|הַ]][[H1931\|הִיא֙]] [[H9001\|וַ]][[H3920\|יִּלְכֹּ֣ד]] [[H0853\|אֶת]][[H9014\|־]] [[H2674G\|חָצ֔וֹר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכָּ֖]][[H9024\|הּ]] [[H5221\|הִכָּ֣ה]] [[H9003\|בֶ]][[H2719\|חָ֑רֶב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2674G\|חָצ֣וֹר]] [[H9005\|לְ]][[H6440G\|פָנִ֔ים]] [[H1931\|הִ֕יא]] [[H7218H\|רֹ֖אשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכ֥וֹת]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAZOR|HAZOR]] • [[topic JABIN|JABIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
 

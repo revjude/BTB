@@ -1,8 +1,58 @@
+---
+title: Isaiah 10:25
+type: Verse
+kjv: "For yet a very little while, and the indignation shall cease, and mine anger in their destruction."
+bsb: "For in just a little while My fury against you will subside, and My anger will turn to their destruction.”"
+hebrew: "כִּי־ ע֖וֹד מְעַ֣ט מִזְעָ֑ר וְכָ֣לָה זַ֔עַם וְאַפִּ֖י עַל־ תַּבְלִיתָֽם׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H4592]]"
+- "[[H4213]]"
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H2195]]"
+- "[[H9002]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H8399]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:25**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
 <small><sub>**BSB:**</sub></small>
 For in just a little while My fury against you will subside, and My anger will turn to their destruction.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֖וֹד]] [[H4592\|מְעַ֣ט]] [[H4213\|מִזְעָ֑ר]] [[H9001\|וְ]][[H3615G\|כָ֣לָה]] [[H2195\|זַ֔עַם]] [[H9002\|וְ]][[H0639G\|אַפִּ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H8399\|תַּבְלִיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.24|<< Isaiah 10:24]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.26|Isaiah 10:26 >>]]</td></tr></table>
 

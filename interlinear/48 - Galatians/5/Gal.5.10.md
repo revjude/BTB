@@ -1,10 +1,63 @@
+---
+title: Galatians 5:10
+type: Verse
+kjv: "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
+bsb: "I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be."
+greek: "ἐγὼ πέποιθα εἰς ὑμᾶς ἐν κυρίῳ ὅτι οὐδὲν ἄλλο φρονήσετε· ὁ δὲ ταράσσων ὑμᾶς βαστάσει τὸ κρίμα ὅστις ἐὰν ᾖ.¶"
+pericope: "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1473]]"
+- "[[G3982]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G0243]]"
+- "[[G5426]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5015]]"
+- "[[G0941]]"
+- "[[G2917]]"
+- "[[G3748]]"
+- "[[G1437]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 5:10**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
 <small><sub>**BSB:**</sub></small>
 I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.
-<small><sub>**Literal:**</sub></small>
-I myself have been confident as to you in [the] Lord that no [thing] other you will reason; The [one] however troubling you he will bear the judgment whoever maybe he shall be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.9|<< Galatians 5:9]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.11|Galatians 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G3982\|πέποιθα]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδὲν]]  [[G0243\|ἄλλο]]  [[G5426\|φρονήσετε·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5015\|ταράσσων]]  [[G4771\|ὑμᾶς]]  [[G0941\|βαστάσει]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G3748\|ὅστις]]  [[G1437\|ἐὰν]]  [[G1510\|ᾖ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DECISION|DECISION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.9|<< Galatians 5:9]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.11|Galatians 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

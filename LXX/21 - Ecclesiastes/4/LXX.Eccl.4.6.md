@@ -1,6 +1,50 @@
+---
+title: LXX Ecclesiastes 4:6
+type: Verse
+lxx: "Better a handful full of rest, than two handfuls full of trouble and resolve of spirit."
+greek: "αγαθόν πλήρωμα δρακός αναπαύσεως υπέρ πληρώματα δύο δρακών μόχθου και προαιρέσεως πνεύματος"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic POVERTY|POVERTY]]"
+strongs:
+- "[[G0018]]"
+- "[[G4138]]"
+- "[[G6968]]"
+- "[[G0372]]"
+- "[[G5228]]"
+- "[[G4138]]"
+- "[[G1417]]"
+- "[[G6968]]"
+- "[[G3449]]"
+- "[[G2532]]"
+- "[[G8886]]"
+- "[[G4151]]"
+---
+
 **LXX Ecclesiastes 4:6** 
 <small><sub>**LXX:**</sub></small>
 Better a handful full of rest, than two handfuls full of trouble and resolve of spirit. 
+<small><sub>**Greek:**</sub></small>
+[[G0018\|αγαθόν]] [[G4138\|πλήρωμα]] [[G6968\|δρακός]] [[G0372\|αναπαύσεως]] [[G5228\|υπέρ]] [[G4138\|πληρώματα]] [[G1417\|δύο]] [[G6968\|δρακών]] [[G3449\|μόχθου]] [[G2532\|και]] [[G8886\|προαιρέσεως]] [[G4151\|πνεύματος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic PEACE|PEACE]] • [[topic POOR|POOR]] • [[topic POVERTY|POVERTY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
 
@@ -18,6 +62,6 @@ Better a handful full of rest, than two handfuls full of trouble and resolve of 
 | and | **<big>[[G2532\|και]]</big>** |
 | resolve | **<big>[[G8886\|προαιρέσεως]]</big>** |
 | of spirit. | **<big>[[G4151\|πνεύματος]]</big>** |
-[[Eccl.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.5|<< Ecclesiastes 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.7|Ecclesiastes 4:7 >>]]</td></tr></table>
 
 

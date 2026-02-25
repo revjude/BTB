@@ -1,8 +1,54 @@
+---
+title: Jeremiah 50:38
+type: Verse
+kjv: "A drought is upon her waters; and they shall be dried up: for it is the land of graven images, and they are mad upon their idols."
+bsb: "A drought is upon her waters, and they will be dried up. For it is a land of graven images, and the people go mad over idols."
+hebrew: "חֹ֥רֶב אֶל־ מֵימֶ֖יהָ וְיָבֵ֑שׁוּ כִּ֣י אֶ֤רֶץ פְּסִלִים֙ הִ֔יא וּבָאֵימִ֖ים יִתְהֹלָֽלוּ׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H2721A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H3001]]"
+- "[[H3588A]]"
+- "[[H0776G]]"
+- "[[H6456]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0367]]"
+- "[[H1984C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:38**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A drought [is] upon her waters; and they shall be dried up: for it [is] the land of graven images, and they are mad upon [their] idols.
 <small><sub>**BSB:**</sub></small>
 A drought is upon her waters, and they will be dried up. For it is a land of graven images, and the people go mad over idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H2721A\|חֹ֥רֶב]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מֵימֶ֖י]][[H9024\|הָ]] [[H9001\|וְ]][[H3001\|יָבֵ֑שׁוּ]] [[H3588A\|כִּ֣י]] [[H0776G\|אֶ֤רֶץ]] [[H6456\|פְּסִלִים֙]] [[H1931\|הִ֔יא]] [[H9002\|וּ]][[H9003\|בָ]][[H0367\|אֵימִ֖ים]] [[H1984C\|יִתְהֹלָֽלוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.37|<< Jeremiah 50:37]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.39|Jeremiah 50:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

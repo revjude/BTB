@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Curtains for the Tabernacle
+type: Pericope
 pericope: "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 36
 book/chapter: "[[Exod.36|Exodus 36]]"
-genre:
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.36.8]]"
 - "[[Exod.36.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.36.13]]"
 ---
 
-[[Exod.36|Exodus 36:8 - Exodus 36:13]]
+<small>[[Exod.36|Exodus 36:8-13]]</small>
 *The Ten Curtains for the Tabernacle*
 
 [[Exod.36.8|8]] And every wise hearted man among them that wrought the work of the tabernacle made ten curtains \[of\] fine twined linen, and blue, and purple, and scarlet: \[with\] cherubims of cunning work made he them.

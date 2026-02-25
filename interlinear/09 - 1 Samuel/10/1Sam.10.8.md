@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 10:8
+type: Verse
+kjv: "And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do."
+bsb: "And you shall go before me to Gilgal, and surely I will come to you to offer burnt offerings and to sacrifice peace offerings. Wait seven days until I come to you and show you what you are to do.”"
+hebrew: "וְיָרַדְתָּ֣ לְפָנַי֮ הַגִּלְגָּל֒ וְהִנֵּ֤ה אָֽנֹכִי֙ יֹרֵ֣ד אֵלֶ֔יךָ לְהַעֲל֣וֹת עֹל֔וֹת לִזְבֹּ֖חַ זִבְחֵ֣י שְׁלָמִ֑ים שִׁבְעַ֨ת יָמִ֤ים תּוֹחֵל֙ עַד־ בּוֹאִ֣י אֵלֶ֔יךָ וְהוֹדַעְתִּ֣י לְךָ֔ אֵ֖ת אֲשֶׁ֥ר תַּעֲשֶֽׂה׃"
+pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H1537G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3176G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9040]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:8**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, [and] to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do.
 <small><sub>**BSB:**</sub></small>
 And you shall go before me to Gilgal, and surely I will come to you to offer burnt offerings and to sacrifice peace offerings. Wait seven days until I come to you and show you what you are to do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַדְתָּ֣]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֮]] [[H9009\|הַ]][[H1537G\|גִּלְגָּל֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0595\|אָֽנֹכִי֙]] [[H3381\|יֹרֵ֣ד]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9005\|לְ]][[H5927I\|הַעֲל֣וֹת]] [[H5930A\|עֹל֔וֹת]] [[H9005\|לִ]][[H2076\|זְבֹּ֖חַ]] [[H2077\|זִבְחֵ֣י]] [[H8002\|שְׁלָמִ֑ים]] [[H7651\|שִׁבְעַ֨ת]] [[H3117G\|יָמִ֤ים]] [[H3176G\|תּוֹחֵל֙]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בּוֹאִ֣]][[H9040\|י]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H3045\|הוֹדַעְתִּ֣י]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֵ֖ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|תַּעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.7|<< 1 Samuel 10:7]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.9|1 Samuel 10:9 >>]]</td></tr></table>
 

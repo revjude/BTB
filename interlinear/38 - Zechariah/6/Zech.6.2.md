@@ -1,8 +1,52 @@
+---
+title: Zechariah 6:2
+type: Verse
+kjv: "In the first chariot were red horses; and in the second chariot black horses;"
+bsb: "The first chariot had red horses, the second black horses,"
+hebrew: "בַּמֶּרְכָּבָ֥ה הָרִֽאשֹׁנָ֖ה סוּסִ֣ים אֲדֻמִּ֑ים וּבַמֶּרְכָּבָ֥ה הַשֵּׁנִ֖ית סוּסִ֥ים שְׁחֹרִֽים׃"
+pericope: "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9003]]"
+- "[[H4818]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H5483M]]"
+- "[[H0122A]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H7838]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:2**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first chariot [were] red horses; and in the second chariot black horses;
 <small><sub>**BSB:**</sub></small>
 The first chariot had red horses, the second black horses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4818\|מֶּרְכָּבָ֥ה]] [[H9009\|הָ]][[H7223G\|רִֽאשֹׁנָ֖ה]] [[H5483M\|סוּסִ֣ים]] [[H0122A\|אֲדֻמִּ֑ים]] [[H9002\|וּ]][[H9003\|בַ]][[H4818\|מֶּרְכָּבָ֥ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H5483M\|סוּסִ֥ים]] [[H7838\|שְׁחֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.1|<< Zechariah 6:1]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.3|Zechariah 6:3 >>]]</td></tr></table>
 

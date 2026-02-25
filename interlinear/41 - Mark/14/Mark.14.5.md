@@ -1,10 +1,61 @@
+---
+title: Mark 14:5
+type: Verse
+kjv: "For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her."
+bsb: "It could have been sold for over three hundred denarii and the money given to the poor.” And they scolded her."
+greek: "ἠδύνατο γὰρ τοῦτο τὸ μύρον πραθῆναι ἐπάνω δηναρίων τριακοσίων καὶ δοθῆναι τοῖς πτωχοῖς· καὶ ἐνεβριμῶντο αὐτῇ."
+pericope: "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1410]]"
+- "[[G1063]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3464]]"
+- "[[G4097]]"
+- "[[G1883]]"
+- "[[G1220]]"
+- "[[G5145]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4434]]"
+- "[[G1690]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 14:5**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.
 <small><sub>**BSB:**</sub></small>
 It could have been sold for over three hundred denarii and the money given to the poor.” And they scolded her.
-<small><sub>**Literal:**</sub></small>
-Was possible for this <the> fragrant oil to have been sold [for] above denarii three hundred and to have been given to the poor; And they were grumbling at her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.4|<< Mark 14:4]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.6|Mark 14:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1410\|ἠδύνατο]]  [[G1063\|γὰρ]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G3464\|μύρον]]  [[G4097\|πραθῆναι]]  [[G1883\|ἐπάνω]]  [[G1220\|δηναρίων]]  [[G5145\|τριακοσίων]]  [[G2532\|καὶ]]  [[G1325\|δοθῆναι]]  [[G3588\|τοῖς]]  [[G4434\|πτωχοῖς·]]  [[G2532\|καὶ]]  [[G1690\|ἐνεβριμῶντο]]  [[G0846\|αὐτῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic OINTMENT|OINTMENT]] • [[topic PENNY|PENNY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.4|<< Mark 14:4]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.6|Mark 14:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

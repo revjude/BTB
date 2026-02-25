@@ -1,10 +1,44 @@
+---
+title: 1 Corinthians 12:1
+type: Verse
+kjv: "Now concerning spiritual gifts, brethren, I would not have you ignorant."
+bsb: "Now about spiritual gifts, brothers, I do not want you to be uninformed."
+greek: "Περὶ δὲ τῶν πνευματικῶν, ἀδελφοί, οὐ θέλω ὑμᾶς ἀγνοεῖν."
+pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4152]]"
+- "[[G0080]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G4771]]"
+- "[[G0050]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:1**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now concerning spiritual [gifts], brethren, I would not have you ignorant.
 <small><sub>**BSB:**</sub></small>
 Now about spiritual gifts, brothers, I do not want you to be uninformed.
-<small><sub>**Literal:**</sub></small>
-Concerning now <the> spiritual [gifts], brothers, not I do want you to be ignorant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.34|<< 1 Corinthians 11:34]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.2|1 Corinthians 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G4152\|πνευματικῶν,]]  [[G0080\|ἀδελφοί,]]  [[G3756\|οὐ]]  [[G2309\|θέλω]]  [[G4771\|ὑμᾶς]]  [[G0050\|ἀγνοεῖν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.34|<< 1 Corinthians 11:34]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.2|1 Corinthians 12:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

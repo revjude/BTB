@@ -1,8 +1,63 @@
+---
+title: Genesis 4:19
+type: Verse
+kjv: "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+bsb: "And Lamech married two women, one named Adah and the other Zillah."
+hebrew: "וַיִּֽקַּֽח־ ל֥וֹ לֶ֖מֶךְ שְׁתֵּ֣י נָשִׁ֑ים שֵׁ֤ם הָֽאַחַת֙ עָדָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית צִלָּֽה׃"
+pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic ZILLAH|ZILLAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947I]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3929G]]"
+- "[[H8147]]"
+- "[[H0802H]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H5711G]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H6741]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:19**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lamech took unto him two wives: the name of the one [was] Adah, and the name of the other Zillah.
 <small><sub>**BSB:**</sub></small>
 And Lamech married two women, one named Adah and the other Zillah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947I\|יִּֽקַּֽח]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3929G\|לֶ֖מֶךְ]] [[H8147\|שְׁתֵּ֣י]] [[H0802H\|נָשִׁ֑ים]] [[H8034\|שֵׁ֤ם]] [[H9009\|הָֽ]][[H0259\|אַחַת֙]] [[H5711G\|עָדָ֔ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H6741\|צִלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic GENEALOGY|GENEALOGY]] • [[topic LAMECH|LAMECH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic ZILLAH|ZILLAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.18|<< Genesis 4:18]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.20|Genesis 4:20 >>]]</td></tr></table>
 

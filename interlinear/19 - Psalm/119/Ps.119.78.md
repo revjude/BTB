@@ -1,8 +1,62 @@
+---
+title: Psalm 119:78
+type: Verse
+kjv: "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts."
+bsb: "May the arrogant be put to shame for subverting me with a lie; I will meditate on Your precepts."
+hebrew: "יֵבֹ֣שׁוּ זֵ֭דִים כִּי־ שֶׁ֣קֶר עִוְּת֑וּנִי אֲ֝נִ֗י אָשִׂ֥יחַ בְּפִקּוּדֶֽיךָ׃"
+pericope: "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0954]]"
+- "[[H2086]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H5791]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H7878]]"
+- "[[H9003]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:78**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the proud be ashamed; for they dealt perversely with me without a cause: [but] I will meditate in thy precepts.
 <small><sub>**BSB:**</sub></small>
 May the arrogant be put to shame for subverting me with a lie; I will meditate on Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|יֵבֹ֣שׁוּ]] [[H2086\|זֵ֭דִים]] [[H3588A\|כִּי]][[H9014\|־]] [[H8267\|שֶׁ֣קֶר]] [[H5791\|עִוְּת֑וּ]][[H9030\|נִי]] [[H0589\|אֲ֝נִ֗י]] [[H7878\|אָשִׂ֥יחַ]] [[H9003\|בְּ]][[H6490\|פִקּוּדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MALICE|MALICE]] • [[topic MEDITATION|MEDITATION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]] • [[topic PRIDE|PRIDE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.77|<< Psalms 119:77]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.79|Psalms 119:79 >>]]</td></tr></table>
 

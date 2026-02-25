@@ -1,10 +1,64 @@
+---
+title: Luke 22:18
+type: Verse
+kjv: "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."
+bsb: "For I tell you that I will not drink of the fruit of the vine from now on until the kingdom of God comes.”"
+jesus_said: "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."
+greek: "λέγω γὰρ ὑμῖν· ὅτι οὐ μὴ πίω ἀπὸ τοῦ νῦν ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ.¶"
+pericope: "[[Luke.22.14 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4095]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G6013]]"
+- "[[G0288]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2064]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Luke 22:18**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
 <small><sub>**BSB:**</sub></small>
 For I tell you that I will not drink of the fruit of the vine from now on until the kingdom of God comes.”
-<small><sub>**Literal:**</sub></small>
-I say for to you; that certainly not shall I drink from <the> now of the fruit of the vine until that [time] the kingdom <the> of God may come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.17|<< Luke 22:17]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.19|Luke 22:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν·]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4095\|πίω]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G6013\|γενήματος]]  [[G3588\|τῆς]]  [[G0288\|ἀμπέλου]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2064\|ἔλθῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.17|<< Luke 22:17]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.19|Luke 22:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

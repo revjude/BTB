@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bless the LORD, O My Soul
+type: Pericope
 pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 103
 book/chapter: "[[Ps.103|Psalm 103]]"
-genre:
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 23
 verses:
 - "[[Ps.103.0]]"
 - "[[Ps.103.1]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ps.103.22]]"
 ---
 
-[[Ps.103|Psalm 103:1 - Psalm 103:22]]
+<small>[[Ps.103|Psalm 103:1-22]]</small>
 *Bless the LORD, O My Soul*
 
 [[Ps.103.0|0]] \[A Psalm\] of David.

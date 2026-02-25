@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 35:27
+type: Verse
+kjv: "And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah."
+bsb: "his acts from beginning to end—they are indeed written in the Book of the Kings of Israel and Judah."
+hebrew: "וּדְבָרָ֕יו הָרִאשֹׁנִ֖ים וְהָאַחֲרֹנִ֑ים הִנָּ֣ם כְּתוּבִ֔ים עַל־ סֵ֥פֶר מַלְכֵֽי־ יִשְׂרָאֵ֖ל וִיהוּדָֽה׃"
+pericope: "[[2Chr.35.25 Laments over Josiah|Laments over Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H1697K]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0314]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:27**<big><big>[[2Chr.35.25 Laments over Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his deeds, first and last, behold, they [are] written in the book of the kings of Israel and Judah.
 <small><sub>**BSB:**</sub></small>
 his acts from beginning to end—they are indeed written in the Book of the Kings of Israel and Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1697K\|דְבָרָ֕י]][[H9023\|ו]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אַחֲרֹנִ֑ים]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H4428G\|מַלְכֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וִ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.26|<< 2 Chronicles 35:26]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.1|2 Chronicles 36:1 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Proverbs 12:12
+type: Verse
+kjv: "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit."
+bsb: "The wicked desire the plunder of evil men, but the root of the righteous flourishes."
+hebrew: "חָמַ֣ד רָ֭שָׁע מְצ֣וֹד רָעִ֑ים וְשֹׁ֖רֶשׁ צַדִּיקִ֣ים יִתֵּֽן׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic NET|NET]]"
+strongs:
+- "[[H2530A]]"
+- "[[H7563]]"
+- "[[H4685B]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H6662]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:12**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked desireth the net of evil [men]: but the root of the righteous yieldeth [fruit].
 <small><sub>**BSB:**</sub></small>
 The wicked desire the plunder of evil men, but the root of the righteous flourishes.
+<small><sub>**Hebrew:**</sub></small>
+[[H2530A\|חָמַ֣ד]] [[H7563\|רָ֭שָׁע]] [[H4685B\|מְצ֣וֹד]] [[H7451H\|רָעִ֑ים]] [[H9002\|וְ]][[H8328\|שֹׁ֖רֶשׁ]] [[H6662\|צַדִּיקִ֣ים]] [[H5414G\|יִתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.11|<< Proverbs 12:11]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.13|Proverbs 12:13 >>]]</td></tr></table>
 

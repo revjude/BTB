@@ -1,10 +1,56 @@
+---
+title: Hebrews 3:2
+type: Verse
+kjv: "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
+bsb: "He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house."
+greek: "πιστὸν ὄντα τῷ ποιήσαντι αὐτὸν ὡς καὶ Μωϋσῆς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ."
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4103]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4160I]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G3475]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3624H]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:2**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who was faithful to him that appointed him, as also Moses [was faithful] in all his house.
 <small><sub>**BSB:**</sub></small>
 He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.
-<small><sub>**Literal:**</sub></small>
-faithful being to the [One] having appointed Him as also Moses in all the house of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.1|<< Hebrews 3:1]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.3|Hebrews 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|πιστὸν]]  [[G1510\|ὄντα]]  [[G3588\|τῷ]]  [[G4160I\|ποιήσαντι]]  [[G0846\|αὐτὸν]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G3475\|Μωϋσῆς]]  [[G1722\|ἐν]]  [[G3650\|ὅλῳ]]  [[G3588\|τῷ]]  [[G3624H\|οἴκῳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic HOUSE|HOUSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.1|<< Hebrews 3:1]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.3|Hebrews 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:2** is...
 > $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]

@@ -1,10 +1,64 @@
+---
+title: Acts 2:11
+type: Verse
+kjv: "Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God."
+bsb: "both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!”"
+greek: "Ἰουδαῖοί τε καὶ προσήλυτοι, Κρῆτες καὶ Ἄραβες, ἀκούομεν λαλούντων αὐτῶν ταῖς ἡμετέραις γλώσσαις τὰ μεγαλεῖα τοῦ θεοῦ;¶"
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic CRETE|CRETE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G4339]]"
+- "[[G2912]]"
+- "[[G0690]]"
+- "[[G0191]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G1100]]"
+- "[[G3167]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 2:11**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
 <small><sub>**BSB:**</sub></small>
 both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!”
-<small><sub>**Literal:**</sub></small>
-Jews both and converts, [11] Cretans and Arabs — [do] we hear speaking them <the> in our own tongues the great things <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.10|<< Acts 2:10]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.12|Acts 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2453\|Ἰουδαῖοί]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4339\|προσήλυτοι,]]  [[G2912\|Κρῆτες]]  [[G2532\|καὶ]]  [[G0690\|Ἄραβες,]]  [[G0191\|ἀκούομεν]]  [[G2980\|λαλούντων]]  [[G0846\|αὐτῶν]]  [[G3588\|ταῖς]]  [[G1473\|ἡμετέραις]]  [[G1100\|γλώσσαις]]  [[G3588\|τὰ]]  [[G3167\|μεγαλεῖα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic CRETE|CRETE]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic LANGUAGE|LANGUAGE]] • [[topic ORATOR|ORATOR]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.10|<< Acts 2:10]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.12|Acts 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

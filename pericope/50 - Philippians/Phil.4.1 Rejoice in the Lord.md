@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rejoice in the Lord
+type: Pericope
 pericope: "[[Phil.4.1 Rejoice in the Lord|Rejoice in the Lord]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 4
 book/chapter: "[[Phil.4|Philippians 4]]"
-genre:
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[Phil.4.1]]"
 - "[[Phil.4.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Phil.4.9]]"
 ---
 
-[[Phil.4|Philippians 4:1 - Philippians 4:9]]
+<small>[[Phil.4|Philippians 4:1-9]]</small>
 *Rejoice in the Lord*
 
 [[Phil.4.1|1]] Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, \[my\] dearly beloved.

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Exodus Begins
+type: Pericope
 pericope: "[[Exod.12.31 The Exodus Begins|The Exodus Begins]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 12
 book/chapter: "[[Exod.12|Exodus 12]]"
-genre:
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.12.31]]"
 - "[[Exod.12.32]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.12.42]]"
 ---
 
-[[Exod.12|Exodus 12:31 - Exodus 12:42]]
+<small>[[Exod.12|Exodus 12:31-42]]</small>
 *The Exodus Begins*
 
 [[Exod.12.31|31]] And he called for Moses and Aaron by night, and said, Rise up, \[and\] get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.

@@ -1,8 +1,70 @@
+---
+title: Leviticus 26:46
+type: Verse
+kjv: "These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses."
+bsb: "These are the statutes, ordinances, and laws that the LORD established between Himself and the Israelites through Moses on Mount Sinai."
+hebrew: "אֵ֠לֶּה הַֽחֻקִּ֣ים וְהַמִּשְׁפָּטִים֮ וְהַתּוֹרֹת֒ אֲשֶׁר֙ נָתַ֣ן יְהוָ֔ה בֵּינ֕וֹ וּבֵ֖ין בְּנֵ֣י יִשְׂרָאֵ֑ל בְּהַ֥ר סִינַ֖י בְּיַד־ מֹשֶֽׁה׃ פ"
+pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H8451]]"
+- "[[H0834A]]"
+- "[[H5414I]]"
+- "[[H3068G]]"
+- "[[H0996G]]"
+- "[[H9033]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H3027J]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 26:46**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 These are the statutes, ordinances, and laws that the LORD established between Himself and the Israelites through Moses on Mount Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֠לֶּה]] [[H9009\|הַֽ]][[H2706G\|חֻקִּ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִים֮]] [[H9002\|וְ]][[H9009\|הַ]][[H8451\|תּוֹרֹת֒]] [[H0834A\|אֲשֶׁר֙]] [[H5414I\|נָתַ֣ן]] [[H3068G\|יְהוָ֔ה]] [[H0996G\|בֵּינ֕]][[H9033\|וֹ]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H5514G\|סִינַ֖י]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic LAW|LAW]] • [[topic SINAI|SINAI]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.45|<< Leviticus 26:45]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.1|Leviticus 27:1 >>]]</td></tr></table>
 
@@ -22,7 +84,7 @@ These are the statutes, ordinances, and laws that the LORD established between H
 | on [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sinai  |**<big>&#8207;[[H5514G\|סִינַ֖י]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.45|<< Leviticus 26:45]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.1|Leviticus 27:1 >>]]</td></tr></table>
 
 

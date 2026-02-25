@@ -1,8 +1,68 @@
+---
+title: Numbers 4:27
+type: Verse
+kjv: "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens."
+bsb: "All the service of the Gershonites—all their transport duties and other work—is to be done at the direction of Aaron and his sons; you are to assign to them all that they are responsible to carry."
+hebrew: "עַל־ פִּי֩ אַהֲרֹ֨ן וּבָנָ֜יו תִּהְיֶ֗ה כָּל־ עֲבֹדַת֙ בְּנֵ֣י הַגֵּרְשֻׁנִּ֔י לְכָל־ מַשָּׂאָ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כָּל־ מַשָּׂאָֽם׃"
+pericope: "[[Num.4.21 The Duties of the Gershonites|The Duties of the Gershonites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H5656H]]"
+- "[[H9009]]"
+- "[[H1649]]"
+- "[[H9005]]"
+- "[[H4853A]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H6485J]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4931]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:27**<big><big>[[Num.4.21 The Duties of the Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.
 <small><sub>**BSB:**</sub></small>
 All the service of the Gershonites—all their transport duties and other work—is to be done at the direction of Aaron and his sons; you are to assign to them all that they are responsible to carry.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּי֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9002\|וּ]][[H1121A\|בָנָ֜י]][[H9023\|ו]] [[H1961\|תִּהְיֶ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H5656H\|עֲבֹדַת֙]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H1649\|גֵּרְשֻׁנִּ֔י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4853A\|מַשָּׂאָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H5656H\|עֲבֹדָתָ֑]][[H9028\|ם]] [[H9001\|וּ]][[H6485J\|פְקַדְתֶּ֤ם]] [[H5921A\|עֲלֵ]][[H9038\|הֶם֙]] [[H9003\|בְּ]][[H4931\|מִשְׁמֶ֔רֶת]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4853A\|מַשָּׂאָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.26|<< Numbers 4:26]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.28|Numbers 4:28 >>]]</td></tr></table>
 

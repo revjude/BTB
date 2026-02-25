@@ -1,8 +1,61 @@
+---
+title: Jeremiah 48:45
+type: Verse
+kjv: "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones."
+bsb: "“Those who flee will stand helpless in Heshbon’s shadow, because fire has gone forth from Heshbon and a flame from within Sihon. It devours the foreheads of Moab and the skulls of the sons of tumult."
+hebrew: "בְּצֵ֥ל חֶשְׁבּ֛וֹן עָמְד֖וּ מִכֹּ֣חַ נָסִ֑ים כִּֽי־ אֵ֞שׁ יָצָ֣א מֵחֶשְׁבּ֗וֹן וְלֶֽהָבָה֙ מִבֵּ֣ין סִיח֔וֹן וַתֹּ֙אכַל֙ פְּאַ֣ת מוֹאָ֔ב וְקָדְקֹ֖ד בְּנֵ֥י שָׁאֽוֹן׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H2809]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H3581B]]"
+- "[[H5127]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H3318L]]"
+- "[[H9002]]"
+- "[[H3852]]"
+- "[[H0996G]]"
+- "[[H5511]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H6285]]"
+- "[[H4124G]]"
+- "[[H6936]]"
+- "[[H1121A]]"
+- "[[H7588]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:45**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.
 <small><sub>**BSB:**</sub></small>
 “Those who flee will stand helpless in Heshbon’s shadow, because fire has gone forth from Heshbon and a flame from within Sihon. It devours the foreheads of Moab and the skulls of the sons of tumult.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H2809\|חֶשְׁבּ֛וֹן]] [[H5975G\|עָמְד֖וּ]] [[H9006\|מִ]][[H3581B\|כֹּ֣חַ]] [[H5127\|נָסִ֑ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0784\|אֵ֞שׁ]] [[H3318L\|יָצָ֣א]] [[H9006\|מֵ]][[H2809\|חֶשְׁבּ֗וֹן]] [[H9002\|וְ]][[H3852\|לֶֽהָבָה֙]] [[H9006\|מִ]][[H0996G\|בֵּ֣ין]] [[H5511\|סִיח֔וֹן]] [[H9001\|וַ]][[H0398\|תֹּ֙אכַל֙]] [[H6285\|פְּאַ֣ת]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H6936\|קָדְקֹ֖ד]] [[H1121A\|בְּנֵ֥י]] [[H7588\|שָׁאֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.44|<< Jeremiah 48:44]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.46|Jeremiah 48:46 >>]]</td></tr></table>
 

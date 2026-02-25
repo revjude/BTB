@@ -5,7 +5,7 @@
 
 - Conceals one-hundred prophets persecuted by Jezebel in a cave [[1Kgs.18.3|1Ki 18:3]],[[1Kgs.18.4|4]]
 
-- Meets Elijah and receives a commission from him [[1Kgs.18.3|1Ki 18:3]]-[[1Kgs.18.16|16]]
+- Meets Elijah and receives a commission from him [[1Kgs.18.3|1Ki 18:3-16]]
 
 2. Head of a family [[1Chr.3.21|1Ch 3:21]]
 
@@ -19,7 +19,7 @@
 
 7. Father of Ishmaiah [[1Chr.27.19|1Ch 27:19]]
 
-8. A prince of Judah who instructed the people in the law [[2Chr.17.7|2Ch 17:7]]-[[2Chr.17.9|9]]
+8. A prince of Judah who instructed the people in the law [[2Chr.17.7|2Ch 17:7-9]]
 
 9. A Levite
 

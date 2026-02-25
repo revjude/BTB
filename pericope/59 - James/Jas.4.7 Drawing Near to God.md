@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Drawing Near to God
+type: Pericope
 pericope: "[[Jas.4.7 Drawing Near to God|Drawing Near to God]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 4
 book/chapter: "[[Jas.4|James 4]]"
-genre:
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.4.7]]"
 - "[[Jas.4.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.4.12]]"
 ---
 
-[[Jas.4|James 4:7 - James 4:12]]
+<small>[[Jas.4|James 4:7-12]]</small>
 *Drawing Near to God*
 
 [[Jas.4.7|7]] Submit yourselves therefore to God. Resist the devil, and he will flee from you.

@@ -1,8 +1,56 @@
+---
+title: Proverbs 23:13
+type: Verse
+kjv: "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die."
+bsb: "Do not withhold discipline from a child; although you strike him with a rod, he will not die."
+hebrew: "אַל־ תִּמְנַ֣ע מִנַּ֣עַר מוּסָ֑ר כִּֽי־ תַכֶּ֥נּוּ בַ֝שֵּׁ֗בֶט לֹ֣א יָמֽוּת׃"
+pericope: "[[Prov.23.13 Saying 13|Saying 13]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4513]]"
+- "[[H9006]]"
+- "[[H5288]]"
+- "[[H4148G]]"
+- "[[H3588A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:13**<big><big>[[Prov.23.13 Saying 13|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die.
 <small><sub>**BSB:**</sub></small>
 Do not withhold discipline from a child; although you strike him with a rod, he will not die.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H4513\|תִּמְנַ֣ע]] [[H9006\|מִ]][[H5288\|נַּ֣עַר]] [[H4148G\|מוּסָ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5221\|תַכֶּ֥]][[H9033\|נּוּ]] [[H9003\|בַ֝]][[H7626G\|שֵּׁ֗בֶט]] [[H3808\|לֹ֣א]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HELL|HELL]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
 

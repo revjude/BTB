@@ -1,6 +1,69 @@
+---
+title: LXX Genesis 18:32
+type: Verse
+lxx: "And he said, Much less, O Lord, if I may speak still once more, but if there may be found there ten? And he said, No way will I destroy because of the ten."
+greek: "και είπε μη τι κύριε εάν λαλήσω έτι άπαξ εάν δε ευρεθώσιν εκεί δέκα και είπεν ου μη απολέσω ένεκεν των δέκα"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3385]]"
+- "[[G2962]]"
+- "[[G1437]]"
+- "[[G2980]]"
+- "[[G2089]]"
+- "[[G0530]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2147]]"
+- "[[G1563]]"
+- "[[G1176]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3364]]"
+- "[[G0622]]"
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G1176]]"
+---
+
 **LXX Genesis 18:32** 
 <small><sub>**LXX:**</sub></small>
 And he said, Much less, O Lord, if I may speak still once \[more\], but if \[there\] may be found there ten? And he said, No way will I destroy because of the ten. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G3385\|μη τι]] [[G2962\|κύριε]] [[G1437\|εάν]] [[G2980\|λαλήσω]] [[G2089\|έτι]] [[G0530\|άπαξ]] [[G1437\|εάν]] [[G1161\|δε]] [[G2147\|ευρεθώσιν]] [[G1563\|εκεί]] [[G1176\|δέκα]] [[G2532\|και]] [[G2036\|είπεν]] [[G3364\|ου μη]] [[G0622\|απολέσω]] [[G1752\|ένεκεν]] [[G3588\|των]] [[G1176\|δέκα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BOLDNESS|BOLDNESS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RELIGION|RELIGION]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.31|<< Genesis 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.33|Genesis 18:33 >>]]</td></tr></table>
 
@@ -25,6 +88,6 @@ And he said, Much less, O Lord, if I may speak still once \[more\], but if \[the
 | because of | **<big>[[G1752\|ένεκεν]]</big>** |
 | the | **<big>[[G3588\|των]]</big>** |
 | ten. | **<big>[[G1176\|δέκα]]</big>** |
-[[Gen.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.31|<< Genesis 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.33|Genesis 18:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.31|<< Genesis 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.33|Genesis 18:33 >>]]</td></tr></table>
 
 

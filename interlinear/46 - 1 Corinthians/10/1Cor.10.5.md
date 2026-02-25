@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 10:5
+type: Verse
+kjv: "But with many of them God was not well pleased: for they were overthrown in the wilderness."
+bsb: "Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness."
+greek: "ἀλλ᾽ οὐκ ἐν τοῖς πλείοσιν αὐτῶν εὐδόκησεν ὁ θεός· κατεστρώθησαν γὰρ ἐν τῇ ἐρήμῳ."
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4119]]"
+- "[[G0846]]"
+- "[[G2106]]"
+- "[[G2316]]"
+- "[[G2693]]"
+- "[[G1063]]"
+- "[[G2048]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:5**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But with many of them God was not well pleased: for they were overthrown in the wilderness.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness.
-<small><sub>**Literal:**</sub></small>
-Nevertheless not with the most of them was well pleased <the> God; they were strewn for in the wilderness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.4|<< 1 Corinthians 10:4]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.6|1 Corinthians 10:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4119\|πλείοσιν]]  [[G0846\|αὐτῶν]]  [[G2106\|εὐδόκησεν]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]  [[G2693\|κατεστρώθησαν]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.4|<< 1 Corinthians 10:4]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.6|1 Corinthians 10:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 10:5** is...
 > $\quad$ referencing: [[LXX.Num.14.16|Num 14:16]]

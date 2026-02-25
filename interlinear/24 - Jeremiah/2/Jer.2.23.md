@@ -1,8 +1,68 @@
+---
+title: Jeremiah 2:23
+type: Verse
+kjv: "How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: thou art a swift dromedary traversing her ways;"
+bsb: "“How can you say, ‘I am not defiled; I have not run after the Baals’? Look at your behavior in the valley; acknowledge what you have done. You are a swift young she-camel galloping here and there,"
+hebrew: "אֵ֣יךְ תֹּאמְרִ֞י לֹ֣א נִטְמֵ֗אתִי אַחֲרֵ֤י הַבְּעָלִים֙ לֹ֣א הָלַ֔כְתִּי רְאִ֤י דַרְכֵּךְ֙ בַּגַּ֔יְא דְּעִ֖י מֶ֣ה עָשִׂ֑ית בִּכְרָ֥ה קַלָּ֖ה מְשָׂרֶ֥כֶת דְּרָכֶֽיהָ׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0349A]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H1980N]]"
+- "[[H7200G]]"
+- "[[H1870L]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H1516R]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H1072]]"
+- "[[H7031]]"
+- "[[H8308]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:23**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: [thou art] a swift dromedary traversing her ways;
 <small><sub>**BSB:**</sub></small>
 “How can you say, ‘I am not defiled; I have not run after the Baals’? Look at your behavior in the valley; acknowledge what you have done. You are a swift young she-camel galloping here and there,
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֣יךְ]] [[H0559\|תֹּאמְרִ֞י]] [[H3808\|לֹ֣א]] [[H2930A\|נִטְמֵ֗אתִי]] [[H0310A\|אַחֲרֵ֤י]] [[H9009\|הַ]][[H1168A\|בְּעָלִים֙]] [[H3808\|לֹ֣א]] [[H1980N\|הָלַ֔כְתִּי]] [[H7200G\|רְאִ֤י]] [[H1870L\|דַרְכֵּ]][[H9022\|ךְ֙]] [[H9003\|בַּ]][[H1516R\|גַּ֔יְא]] [[H3045\|דְּעִ֖י]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֑ית]] [[H1072\|בִּכְרָ֥ה]] [[H7031\|קַלָּ֖ה]] [[H8308\|מְשָׂרֶ֥כֶת]] [[H1870L\|דְּרָכֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CAMEL|CAMEL]] • [[topic CHURCH|CHURCH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.22|<< Jeremiah 2:22]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.24|Jeremiah 2:24 >>]]</td></tr></table>
 

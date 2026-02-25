@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 32:25
+type: Verse
+kjv: "But Hezekiah rendered not again according to the benefit done unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem."
+bsb: "But because his heart was proud, Hezekiah did not repay the favor shown to him. Therefore wrath came upon him and upon Judah and Jerusalem."
+hebrew: "וְלֹא־ כִגְמֻ֤ל עָלָיו֙ הֵשִׁ֣יב יְחִזְקִיָּ֔הוּ כִּ֥י גָבַ֖הּ לִבּ֑וֹ וַיְהִ֤י עָלָיו֙ קֶ֔צֶף וְעַל־ יְהוּדָ֖ה וִירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H1576]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7725G]]"
+- "[[H2396G]]"
+- "[[H3588A]]"
+- "[[H1361]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7110A]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:25**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Hezekiah rendered not again according to the benefit [done] unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.
 <small><sub>**BSB:**</sub></small>
 But because his heart was proud, Hezekiah did not repay the favor shown to him. Therefore wrath came upon him and upon Judah and Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H9004\|כִ]][[H1576\|גְמֻ֤ל]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H7725G\|הֵשִׁ֣יב]] [[H2396G\|יְחִזְקִיָּ֔הוּ]] [[H3588A\|כִּ֥י]] [[H1361\|גָבַ֖הּ]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H7110A\|קֶ֔צֶף]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PROSPERITY|PROSPERITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.24|<< 2 Chronicles 32:24]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.26|2 Chronicles 32:26 >>]]</td></tr></table>
 

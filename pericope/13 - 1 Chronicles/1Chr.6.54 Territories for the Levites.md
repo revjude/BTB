@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Territories for the Levites
+type: Pericope
 pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 6
 book/chapter: "[[1Chr.6|1 Chronicles 6]]"
-genre:
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 28
 verses:
 - "[[1Chr.6.54]]"
 - "[[1Chr.6.55]]"
@@ -46,7 +53,7 @@ verses:
 - "[[1Chr.6.81]]"
 ---
 
-[[1Chr.6|1 Chronicles 6:54 - 1 Chronicles 6:81]]
+<small>[[1Chr.6|1 Chronicles 6:54-81]]</small>
 *Territories for the Levites*
 
 [[1Chr.6.54|54]] Now these \[are\] their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.

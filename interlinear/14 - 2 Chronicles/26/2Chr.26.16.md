@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 26:16
+type: Verse
+kjv: "But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense."
+bsb: "But when Uzziah became powerful, his arrogance led to his own destruction. He was unfaithful to the LORD his God, for he entered the temple of the LORD to burn incense on the altar of incense."
+hebrew: "וּכְחֶזְקָת֗וֹ גָּבַ֤הּ לִבּוֹ֙ עַד־ לְהַשְׁחִ֔ית וַיִּמְעַ֖ל בַּיהוָ֣ה אֱלֹהָ֑יו וַיָּבֹא֙ אֶל־ הֵיכַ֣ל יְהוָ֔ה לְהַקְטִ֖יר עַל־ מִזְבַּ֥ח הַקְּטֹֽרֶת׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H2393]]"
+- "[[H9023]]"
+- "[[H1361]]"
+- "[[H3820A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H9001]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1964G]]"
+- "[[H6999A]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H7004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:16**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he was strong, his heart was lifted up to [his] destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.
 <small><sub>**BSB:**</sub></small>
 But when Uzziah became powerful, his arrogance led to his own destruction. He was unfaithful to the LORD his God, for he entered the temple of the LORD to burn incense on the altar of incense.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H2393\|חֶזְקָת֗]][[H9023\|וֹ]] [[H1361\|גָּבַ֤הּ]] [[H3820A\|לִבּ]][[H9023\|וֹ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H7843\|הַשְׁחִ֔ית]] [[H9001\|וַ]][[H4603\|יִּמְעַ֖ל]] [[H9003\|בַּ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H6999A\|הַקְטִ֖יר]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הַ]][[H7004\|קְּטֹֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEART|HEART]] • [[topic INCENSE|INCENSE]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PRIDE|PRIDE]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RULERS|RULERS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic USURPATION|USURPATION]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.15|<< 2 Chronicles 26:15]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.17|2 Chronicles 26:17 >>]]</td></tr></table>
 

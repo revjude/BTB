@@ -1,10 +1,60 @@
+---
+title: Matthew 23:39
+type: Verse
+kjv: "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord."
+bsb: "For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”"
+jesus_said: "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord."
+greek: "λέγω γὰρ ὑμῖν· οὐ μή με ἴδητε ἀπ᾽ ἄρτι ἕως ἂν εἴπητε· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου.¶"
+pericope: "[[Matt.23.37 Lament over Jerusalem|Lament over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3165]]"
+- "[[G1492H]]"
+- "[[G0575]]"
+- "[[G0737]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G2036]]"
+- "[[G2127]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Matthew 23:39**<big><big>[[Matt.23.37 Lament over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed [is] he that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
-<small><sub>**Literal:**</sub></small>
-I say for to you; certainly not Me shall you see from now until when you may say; Blessed [is] the [One] coming in [the] name of [the] Lord.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.38|<< Matthew 23:38]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.1|Matthew 24:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐ]]  [[G3361\|μή]]  [[G3165\|με]]  [[G1492H\|ἴδητε]]  [[G0575\|ἀπ᾽]]  [[G0737\|ἄρτι]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G2036\|εἴπητε·]]  [[G2127\|εὐλογημένος]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.38|<< Matthew 23:38]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.1|Matthew 24:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 23:39** is...
 > $\quad$ alluding to: [[LXX.Ps.118.26|Ps 118:26]]

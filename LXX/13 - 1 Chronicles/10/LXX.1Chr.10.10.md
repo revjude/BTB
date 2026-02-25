@@ -1,6 +1,55 @@
+---
+title: LXX 1 Chronicles 10:10
+type: Verse
+lxx: "And they put  his weapons in the house  of their god, and  his head they pinned in the house of Dagon."
+greek: "και έθηκαν τα σκεύη αυτού εν οίκω του θεού αυτών και την κεφαλήν αυτού έπηξαν εν τω οίκω Δαγών"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAGON|DAGON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G4078]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[H1712]]"
+---
+
 **LXX 1 Chronicles 10:10** 
 <small><sub>**LXX:**</sub></small>
 And they put  his weapons in \[the\] house  of their god, and  his head they pinned in the house of Dagon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5087\|έθηκαν]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3624\|οίκω]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G1473\|αυτού]] [[G4078\|έπηξαν]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[H1712\|Δαγών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAGON|DAGON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.9|<< 1 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.11|1 Chronicles 10:11 >>]]</td></tr></table>
 
@@ -22,6 +71,6 @@ And they put  his weapons in \[the\] house  of their god, and  his head they pin
 | the | **<big>[[G3588\|τω]]</big>** |
 | house | **<big>[[G3624\|οίκω]]</big>** |
 | of Dagon. | **<big>[[H1712\|Δαγών]]</big>** |
-[[1Chr.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.9|<< 1 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.11|1 Chronicles 10:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.9|<< 1 Chronicles 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.11|1 Chronicles 10:11 >>]]</td></tr></table>
 
 

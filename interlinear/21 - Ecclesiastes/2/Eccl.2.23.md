@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 2:23
+type: Verse
+kjv: "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity."
+bsb: "Indeed, all his days are filled with grief, and his task is sorrowful; even at night, his mind does not rest. This too is futile."
+hebrew: "כִּ֧י כָל־ יָמָ֣יו מַכְאֹבִ֗ים וָכַ֙עַס֙ עִנְיָנ֔וֹ גַּם־ בַּלַּ֖יְלָה לֹא־ שָׁכַ֣ב לִבּ֑וֹ גַּם־ זֶ֖ה הֶ֥בֶל הֽוּא׃"
+pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H4341]]"
+- "[[H9002]]"
+- "[[H3708A]]"
+- "[[H6045]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H3808]]"
+- "[[H7901H]]"
+- "[[H3820A]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:23**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all his days [are] sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.
 <small><sub>**BSB:**</sub></small>
 Indeed, all his days are filled with grief, and his task is sorrowful; even at night, his mind does not rest. This too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֧י]] [[H3605\|כָל]][[H9014\|־]] [[H3117G\|יָמָ֣י]][[H9023\|ו]] [[H4341\|מַכְאֹבִ֗ים]] [[H9002\|וָ]][[H3708A\|כַ֙עַס֙]] [[H6045\|עִנְיָנ֔]][[H9023\|וֹ]] [[H1571\|גַּם]][[H9014\|־]] [[H9003\|בַּ]][[H3915\|לַּ֖יְלָה]] [[H3808\|לֹא]][[H9014\|־]] [[H7901H\|שָׁכַ֣ב]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הֶ֥בֶל]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.22|<< Ecclesiastes 2:22]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.24|Ecclesiastes 2:24 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Isaiah 57:9
+type: Verse
+kjv: "And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell."
+bsb: "You went to Molech with oil and multiplied your perfumes. You have sent your envoys a great distance; you have descended even to Sheol itself."
+hebrew: "וַתָּשֻׁ֤רִי לַמֶּ֙לֶךְ֙ בַּשֶּׁ֔מֶן וַתַּרְבִּ֖י רִקֻּחָ֑יִךְ וַתְּשַׁלְּחִ֤י צִרַ֙יךְ֙ עַד־ מֵ֣רָחֹ֔ק וַתַּשְׁפִּ֖ילִי עַד־ שְׁאֽוֹל׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PERFUME|PERFUME]]"
+strongs:
+- "[[H9001]]"
+- "[[H7788]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7235A]]"
+- "[[H7547]]"
+- "[[H9022]]"
+- "[[H7971G]]"
+- "[[H6735A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H8213]]"
+- "[[H7585]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Isaiah 57:9**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase [thyself even] unto hell.
 <small><sub>**BSB:**</sub></small>
 You went to Molech with oil and multiplied your perfumes. You have sent your envoys a great distance; you have descended even to Sheol itself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7788\|תָּשֻׁ֤רִי]] [[H9005\|לַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9003\|בַּ]][[H8081\|שֶּׁ֔מֶן]] [[H9001\|וַ]][[H7235A\|תַּרְבִּ֖י]] [[H7547\|רִקֻּחָ֑יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H7971G\|תְּשַׁלְּחִ֤י]] [[H6735A\|צִרַ֙י]][[H9022\|ךְ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9006\|מֵ֣]][[H7350\|רָחֹ֔ק]] [[H9001\|וַ]][[H8213\|תַּשְׁפִּ֖ילִי]] [[H5704\|עַד]][[H9014\|־]] [[H7585\|שְׁאֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic HELL|HELL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PERFUME|PERFUME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 

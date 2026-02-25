@@ -1,8 +1,63 @@
+---
+title: Psalm 57:6
+type: Verse
+kjv: "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah."
+bsb: "They spread a net for my feet; my soul was despondent. They dug a pit before me, but they themselves have fallen into it! Selah"
+hebrew: "רֶ֤שֶׁת׀ הֵכִ֣ינוּ לִפְעָמַי֮ כָּפַ֪ף נַ֫פְשִׁ֥י כָּר֣וּ לְפָנַ֣י שִׁיחָ֑ה נָפְל֖וּ בְתוֹכָ֣הּ סֶֽלָה׃"
+pericope: "[[Ps.57.1 In You My Soul Takes Refuge|In You My Soul Takes Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 57
+book/chapter: "[[Ps.57|Psalm 57]]"
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic NET|NET]]"
+- "[[topic PIT|PIT]]"
+strongs:
+- "[[H7568]]"
+- "[[H9015]]"
+- "[[H3559H]]"
+- "[[H9005]]"
+- "[[H6471]]"
+- "[[H9020]]"
+- "[[H3721]]"
+- "[[H5315G]]"
+- "[[H3738B]]"
+- "[[H6440G]]"
+- "[[H7882]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 57:6**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen [themselves]. Selah.
 <small><sub>**BSB:**</sub></small>
 They spread a net for my feet; my soul was despondent. They dug a pit before me, but they themselves have fallen into it! Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H7568\|רֶ֤שֶׁת]][[H9015\|׀]] [[H3559H\|הֵכִ֣ינוּ]] [[H9005\|לִ]][[H6471\|פְעָמַ]][[H9020\|י֮]] [[H3721\|כָּפַ֪ף]] [[H5315G\|נַ֫פְשִׁ֥]][[H9020\|י]] [[H3738B\|כָּר֣וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֣]][[H9020\|י]] [[H7882\|שִׁיחָ֑ה]] [[H5307G\|נָפְל֖וּ]] [[H9003\|בְ]][[H8432\|תוֹכָ֣]][[H9024\|הּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic MALICE|MALICE]] • [[topic NET|NET]] • [[topic PIT|PIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.5|<< Psalms 57:5]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.7|Psalms 57:7 >>]]</td></tr></table>
 

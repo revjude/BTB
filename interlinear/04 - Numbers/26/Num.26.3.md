@@ -1,8 +1,65 @@
+---
+title: Numbers 26:3
+type: Verse
+kjv: "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,"
+bsb: "So on the plains of Moab by the Jordan, across from Jericho, Moses and Eleazar the priest issued the instruction,"
+hebrew: "וַיְדַבֵּ֨ר מֹשֶׁ֜ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן אֹתָ֖ם בְּעַֽרְבֹ֣ת מוֹאָ֑ב עַל־ יַרְדֵּ֥ן יְרֵח֖וֹ לֵאמֹֽר׃"
+pericope: "[[Num.26.1 The Second Census of Israel|The Second Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic MOAB|MOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H6160I]]"
+- "[[H4124I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H3405G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:3**<big><big>[[Num.26.1 The Second Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan [near] Jericho, saying,
 <small><sub>**BSB:**</sub></small>
 So on the plains of Moab by the Jordan, across from Jericho, Moses and Eleazar the priest issued the instruction,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H4872\|מֹשֶׁ֜ה]] [[H9002\|וְ]][[H0499G\|אֶלְעָזָ֧ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0854\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H6160I\|עַֽרְבֹ֣ת]] [[H4124I\|מוֹאָ֑ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3383\|יַרְדֵּ֥ן]] [[H3405G\|יְרֵח֖וֹ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERICHO|JERICHO]] • [[topic JORDAN|JORDAN]] • [[topic MOAB|MOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.2|<< Numbers 26:2]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.4|Numbers 26:4 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Isaiah 44:17
+type: Verse
+kjv: "And the residue thereof he maketh a god, even his graven image: he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me; for thou art my god."
+bsb: "From the rest he makes a god, his graven image. He bows down to it and worships; he prays to it and says, “Save me, for you are my god.”"
+hebrew: "וּשְׁאֵ֣רִית֔וֹ לְאֵ֥ל עָשָׂ֖ה לְפִסְל֑וֹ יִסְגָּד ל֤וֹ וְיִשְׁתַּ֙חוּ֙ וְיִתְפַּלֵּ֣ל אֵלָ֔יו וְיֹאמַר֙ הַצִּילֵ֔נִי כִּ֥י אֵלִ֖י אָֽתָּה׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7611]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0410K]]"
+- "[[H6213H]]"
+- "[[H6459]]"
+- "[[H5456]]"
+- "[[H7812]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Isaiah 44:17**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue thereof he maketh a god, [even] his graven image: he falleth down unto it, and worshippeth [it], and prayeth unto it, and saith, Deliver me; for thou [art] my god.
 <small><sub>**BSB:**</sub></small>
 From the rest he makes a god, his graven image. He bows down to it and worships; he prays to it and says, “Save me, for you are my god.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7611\|שְׁאֵ֣רִית֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H0410K\|אֵ֥ל]] [[H6213H\|עָשָׂ֖ה]] [[H9005\|לְ]][[H6459\|פִסְל֑]][[H9023\|וֹ]] [[H5456\|יִסְגָּד]] [[H9005\|ל֤]][[H5456\|וֹ]] [[H9002\|וְ]][[H7812\|יִשְׁתַּ֙חוּ֙]] [[H9002\|וְ]][[H6419\|יִתְפַּלֵּ֣ל]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H0559\|יֹאמַר֙]] [[H5337\|הַצִּילֵ֔]][[H9030\|נִי]] [[H3588A\|כִּ֥י]] [[H0410K\|אֵלִ֖]][[H9020\|י]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 

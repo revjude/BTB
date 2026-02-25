@@ -1,8 +1,71 @@
+---
+title: Jeremiah 27:3
+type: Verse
+kjv: "And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;"
+bsb: "Send word to the kings of Edom, Moab, Ammon, Tyre, and Sidon through the envoys who have come to Jerusalem to Zedekiah king of Judah."
+hebrew: "וְשִׁלַּחְתָּם֩ אֶל־ מֶ֨לֶךְ אֱד֜וֹם וְאֶל־ מֶ֣לֶךְ מוֹאָ֗ב וְאֶל־ מֶ֙לֶךְ֙ בְּנֵ֣י עַמּ֔וֹן וְאֶל־ מֶ֥לֶךְ צֹ֖ר וְאֶל־ מֶ֣לֶךְ צִיד֑וֹן בְּיַ֤ד מַלְאָכִים֙ הַבָּאִ֣ים יְרוּשָׁלִַ֔ם אֶל־ צִדְקִיָּ֖הוּ מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H4124G]]"
+- "[[H1121A]]"
+- "[[H5983]]"
+- "[[H6865]]"
+- "[[H6721H]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H4397G]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H6667H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:3**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;
 <small><sub>**BSB:**</sub></small>
 Send word to the kings of Edom, Moab, Ammon, Tyre, and Sidon through the envoys who have come to Jerusalem to Zedekiah king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971G\|שִׁלַּחְתָּ]][[H9038\|ם֩]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֨לֶךְ]] [[H0123G\|אֱד֜וֹם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H4124G\|מוֹאָ֗ב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֙לֶךְ֙]] [[H1121A\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H6865\|צֹ֖ר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H6721H\|צִיד֑וֹן]] [[H9003\|בְּ]][[H3027G\|יַ֤ד]] [[H4397G\|מַלְאָכִים֙]] [[H9009\|הַ]][[H0935G\|בָּאִ֣ים]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIDON|SIDON]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.2|<< Jeremiah 27:2]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.4|Jeremiah 27:4 >>]]</td></tr></table>
 

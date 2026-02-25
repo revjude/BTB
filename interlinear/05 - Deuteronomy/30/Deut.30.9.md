@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 30:9
+type: Verse
+kjv: "And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:"
+bsb: "So the LORD your God will make you abound in all the work of your hands and in the fruit of your womb, the offspring of your livestock, and the produce of your land. Indeed, the LORD will again delight in your prosperity, as He delighted in that of your fathers,"
+hebrew: "וְהוֹתִֽירְךָ֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל׀ מַעֲשֵׂ֣ה יָדֶ֗ךָ בִּפְרִ֨י בִטְנְךָ֜ וּבִפְרִ֧י בְהֶמְתְּךָ֛ וּבִפְרִ֥י אַדְמָתְךָ֖ לְטוֹבָ֑ה כִּ֣י׀ יָשׁ֣וּב יְהוָ֗ה לָשׂ֤וּשׂ עָלֶ֙יךָ֙ לְט֔וֹב כַּאֲשֶׁר־ שָׂ֖שׂ עַל־ אֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H6529]]"
+- "[[H0990H]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H0127G]]"
+- "[[H9005]]"
+- "[[H2896C]]"
+- "[[H3588A]]"
+- "[[H7725J]]"
+- "[[H7797]]"
+- "[[H5921A]]"
+- "[[H2896A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:9**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:
 <small><sub>**BSB:**</sub></small>
 So the LORD your God will make you abound in all the work of your hands and in the fruit of your womb, the offspring of your livestock, and the produce of your land. Indeed, the LORD will again delight in your prosperity, as He delighted in that of your fathers,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3498\|הוֹתִֽירְ]][[H9031\|ךָ֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדֶ֗]][[H9021\|ךָ]] [[H9003\|בִּ]][[H6529\|פְרִ֨י]] [[H0990H\|בִטְנְ]][[H9021\|ךָ֜]] [[H9002\|וּ]][[H9003\|בִ]][[H6529\|פְרִ֧י]] [[H0929\|בְהֶמְתְּ]][[H9021\|ךָ֛]] [[H9002\|וּ]][[H9003\|בִ]][[H6529\|פְרִ֥י]] [[H0127G\|אַדְמָתְ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H2896C\|טוֹבָ֑ה]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H7725J\|יָשׁ֣וּב]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לָ]][[H7797\|שׂ֤וּשׂ]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H2896A\|ט֔וֹב]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H7797\|שָׂ֖שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.8|<< Deuteronomy 30:8]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.10|Deuteronomy 30:10 >>]]</td></tr></table>
 

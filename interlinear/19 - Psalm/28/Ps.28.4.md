@@ -1,8 +1,59 @@
+---
+title: Psalm 28:4
+type: Verse
+kjv: "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert."
+bsb: "Repay them according to their deeds and for their works of evil. Repay them for what their hands have done; bring back on them what they deserve."
+hebrew: "תֶּן־ לָהֶ֣ם כְּפָעֳלָם֮ וּכְרֹ֪עַ מַֽעַלְלֵ֫יהֶ֥ם כְּמַעֲשֵׂ֣ה יְ֭דֵיהֶם תֵּ֣ן לָהֶ֑ם הָשֵׁ֖ב גְּמוּלָ֣ם לָהֶֽם׃"
+pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 28
+book/chapter: "[[Ps.28|Psalm 28]]"
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6467]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H7725K]]"
+- "[[H1576]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 28:4**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.
 <small><sub>**BSB:**</sub></small>
 Repay them according to their deeds and for their works of evil. Repay them for what their hands have done; bring back on them what they deserve.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תֶּן]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H9004\|כְּ]][[H6467\|פָעֳלָ]][[H9028\|ם֮]] [[H9002\|וּ]][[H9004\|כְ]][[H7455\|רֹ֪עַ]] [[H4611\|מַֽעַלְלֵ֫י]][[H9028\|הֶ֥ם]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יְ֭דֵי]][[H9028\|הֶם]] [[H5414G\|תֵּ֣ן]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H7725K\|הָשֵׁ֖ב]] [[H1576\|גְּמוּלָ֣]][[H9028\|ם]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.3|<< Psalms 28:3]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.5|Psalms 28:5 >>]]</td></tr></table>
 

@@ -1,8 +1,48 @@
+---
+title: Ecclesiastes 6:4
+type: Verse
+kjv: "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness."
+bsb: "For a stillborn child enters in futility and departs in darkness, and his name is shrouded in obscurity."
+hebrew: "כִּֽי־ בַהֶ֥בֶל בָּ֖א וּבַחֹ֣שֶׁךְ יֵלֵ֑ךְ וּבַחֹ֖שֶׁךְ שְׁמ֥וֹ יְכֻסֶּֽה׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1892]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H2822]]"
+- "[[H1980G]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:4**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.
 <small><sub>**BSB:**</sub></small>
 For a stillborn child enters in futility and departs in darkness, and his name is shrouded in obscurity.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בַ]][[H1892\|הֶ֥בֶל]] [[H0935G\|בָּ֖א]] [[H9002\|וּ]][[H9003\|בַ]][[H2822\|חֹ֣שֶׁךְ]] [[H1980G\|יֵלֵ֑ךְ]] [[H9002\|וּ]][[H9003\|בַ]][[H2822\|חֹ֖שֶׁךְ]] [[H8034\|שְׁמ֥]][[H9023\|וֹ]] [[H3680\|יְכֻסֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.3|<< Ecclesiastes 6:3]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.5|Ecclesiastes 6:5 >>]]</td></tr></table>
 

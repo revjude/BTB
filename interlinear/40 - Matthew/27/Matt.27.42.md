@@ -1,10 +1,69 @@
+---
+title: Matthew 27:42
+type: Verse
+kjv: "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
+bsb: "“He saved others, but He cannot save Himself. He is the King of Israel! Let Him come down now from the cross, and we will believe in Him."
+greek: "ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι. εἰ βασιλεὺς Ἰσραήλ ἐστιν, καταβάτω νῦν ἀπὸ τοῦ σταυροῦ, καὶ πιστεύσομεν ἐπ᾽ αὐτόν."
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REVILING|REVILING]]"
+strongs:
+- "[[G0243]]"
+- "[[G4982]]"
+- "[[G1438]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1487G]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G1510]]"
+- "[[G2597]]"
+- "[[G3568]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **Matthew 27:42**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
 <small><sub>**BSB:**</sub></small>
 “He saved others, but He cannot save Himself. He is the King of Israel! Let Him come down now from the cross, and we will believe in Him.
-<small><sub>**Literal:**</sub></small>
-Others He saved, Himself not is He able to save. if King of Israel He is, he should descend now from the cross, and we will believe in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.41|<< Matthew 27:41]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.43|Matthew 27:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλους]]  [[G4982\|ἔσωσεν,]]  [[G1438\|ἑαυτὸν]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G4982\|σῶσαι.]]  [[G1487G\|εἰ]]  [[G0935\|βασιλεὺς]]  [[G2474\|Ἰσραήλ]]  [[G1510\|ἐστιν,]]  [[G2597\|καταβάτω]]  [[G3568\|νῦν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ,]]  [[G2532\|καὶ]]  [[G4100\|πιστεύσομεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DEATH|DEATH]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REVILING|REVILING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.41|<< Matthew 27:41]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.43|Matthew 27:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

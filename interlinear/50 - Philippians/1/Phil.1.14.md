@@ -1,10 +1,60 @@
+---
+title: Philippians 1:14
+type: Verse
+kjv: "And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear."
+bsb: "And most of the brothers, confident in the Lord by my chains, now dare more greatly to speak the word without fear."
+greek: "καὶ τοὺς πλείονας τῶν ἀδελφῶν ἐν κυρίῳ πεποιθότας τοῖς δεσμοῖς μου περισσοτέρως τολμᾶν ἀφόβως τὸν λόγον τοῦ θεοῦ λαλεῖν."
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ROME|ROME]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4119]]"
+- "[[G0080]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G3982]]"
+- "[[G1199]]"
+- "[[G3165]]"
+- "[[G4056]]"
+- "[[G5111]]"
+- "[[G0870]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G2980]]"
+texts:
+- NKO
+- O
+---
+
 **Philippians 1:14**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 <small><sub>**BSB:**</sub></small>
 And most of the brothers, confident in the Lord by my chains, now dare more greatly to speak the word without fear.
-<small><sub>**Literal:**</sub></small>
-and <the> most of the brothers in [the] Lord already trusting by the chains of mine more abundantly to dare fearlessly the word of the God to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.13|<< Philippians 1:13]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.15|Philippians 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4119\|πλείονας]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G3982\|πεποιθότας]]  [[G3588\|τοῖς]]  [[G1199\|δεσμοῖς]]  [[G3165\|μου]]  [[G4056\|περισσοτέρως]]  [[G5111\|τολμᾶν]]  [[G0870\|ἀφόβως]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2980\|λαλεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ROME|ROME]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.13|<< Philippians 1:13]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.15|Philippians 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

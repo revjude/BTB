@@ -1,8 +1,85 @@
+---
+title: Leviticus 16:2
+type: Verse
+kjv: "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+bsb: "And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה דַּבֵּר֮ אֶל־ אַהֲרֹ֣ן אָחִיךָ֒ וְאַל־ יָבֹ֤א בְכָל־ עֵת֙ אֶל־ הַקֹּ֔דֶשׁ מִבֵּ֖ית לַפָּרֹ֑כֶת אֶל־ פְּנֵ֨י הַכַּפֹּ֜רֶת אֲשֶׁ֤ר עַל־ הָאָרֹן֙ וְלֹ֣א יָמ֔וּת כִּ֚י בֶּֽעָנָ֔ן אֵרָאֶ֖ה עַל־ הַכַּפֹּֽרֶת׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H1696G]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9005]]"
+- "[[H6532]]"
+- "[[H6440G]]"
+- "[[H3727]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H0727]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H6051]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:2**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy [place] within the vail before the mercy seat, which [is] upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H1696G\|דַּבֵּר֮]] [[H0413\|אֶל]][[H9014\|־]] [[H0175\|אַהֲרֹ֣ן]] [[H0251G\|אָחִי]][[H9021\|ךָ֒]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0935G\|יָבֹ֤א]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9006\|מִ]][[H1004O\|בֵּ֖ית]] [[H9005\|לַ]][[H6532\|פָּרֹ֑כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֨י]] [[H9009\|הַ]][[H3727\|כַּפֹּ֜רֶת]] [[H0834A\|אֲשֶׁ֤ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרֹן֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|יָמ֔וּת]] [[H3588A\|כִּ֚י]] [[H9003\|בֶּֽ]][[H6051\|עָנָ֔ן]] [[H7200G\|אֵרָאֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic SHEKINAH|SHEKINAH]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.1|<< Leviticus 16:1]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.3|Leviticus 16:3 >>]]</td></tr></table>
 

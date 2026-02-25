@@ -1,8 +1,64 @@
+---
+title: Jeremiah 3:5
+type: Verse
+kjv: "Will he reserve his anger for ever? will he keep it to the end? Behold, thou hast spoken and done evil things as thou couldest."
+bsb: "Will He be angry forever? Will He be indignant to the end?’ This you have spoken, but you keep doing all the evil you can.”"
+hebrew: "הֲיִנְטֹ֣ר לְעוֹלָ֔ם אִם־ יִשְׁמֹ֖ר לָנֶ֑צַח הִנֵּ֥ה דִבַּ֛רְתְּ וַתַּעֲשִׂ֥י הָרָע֖וֹת וַתּוּכָֽל׃ פ"
+pericope: "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H5201]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H8104I]]"
+- "[[H5331]]"
+- "[[H2009]]"
+- "[[H1696G]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H3201]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 3:5**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he reserve [his anger] for ever? will he keep [it] to the end? Behold, thou hast spoken and done evil things as thou couldest.
 <small><sub>**BSB:**</sub></small>
 Will He be angry forever? Will He be indignant to the end?’ This you have spoken, but you keep doing all the evil you can.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H5201\|יִנְטֹ֣ר]] [[H9005\|לְ]][[H5769G\|עוֹלָ֔ם]] [[H0518I\|אִם]][[H9014\|־]] [[H8104I\|יִשְׁמֹ֖ר]] [[H9005\|לָ]][[H5331\|נֶ֑צַח]] [[H2009\|הִנֵּ֥ה]] [[H1696G\|דִבַּ֛רְתְּ]] [[H9001\|וַ]][[H6213A\|תַּעֲשִׂ֥י]] [[H9009\|הָ]][[H7451H\|רָע֖וֹת]] [[H9001\|וַ]][[H3201\|תּוּכָֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.4|<< Jeremiah 3:4]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.6|Jeremiah 3:6 >>]]</td></tr></table>
 
@@ -17,7 +73,7 @@ Will He be angry forever? Will He be indignant to the end?’ This you have spok
 | you spoke  [^1]|**<big>&#8207;[[H1696G\|דִבַּ֛רְתְּ]]&#8207; </big>**[^2] | di.bar.ti<small><sup>[[HVpp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and you did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|תַּעֲשִׂ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Si<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> wicked things  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רָע֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you were able  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3201\|תּוּכָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tu.Khal<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you were able  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3201\|תּוּכָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tu.Khal<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.4|<< Jeremiah 3:4]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.6|Jeremiah 3:6 >>]]</td></tr></table>
 
 [^1]: I spoke  | **<big>[[H1696G|דִבַּרְתִּי]]</big> ** | di.bar.ti<small><sup>[[HVpp1cs]]</sup></small> | K

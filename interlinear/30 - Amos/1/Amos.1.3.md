@@ -1,8 +1,67 @@
+---
+title: Amos 1:3
+type: Verse
+kjv: "Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away the punishment thereof; because they have threshed Gilead with threshing instruments of iron:"
+bsb: "This is what the LORD says: “For three transgressions of Damascus, even four, I will not revoke My judgment, because they threshed Gilead with sledges of iron."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ שְׁלֹשָׁה֙ פִּשְׁעֵ֣י דַמֶּ֔שֶׂק וְעַל־ אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־ דּוּשָׁ֛ם בַּחֲרֻצ֥וֹת הַבַּרְזֶ֖ל אֶת־ הַגִּלְעָֽד׃"
+pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic IRON|IRON]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6588]]"
+- "[[H1834]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H9033]]"
+- "[[H1758]]"
+- "[[H9048]]"
+- "[[H9003]]"
+- "[[H2742A]]"
+- "[[H9009]]"
+- "[[H1270]]"
+- "[[H0853]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 1:3**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away [the punishment] thereof; because they have threshed Gilead with threshing instruments of iron:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “For three transgressions of Damascus, even four, I will not revoke My judgment, because they threshed Gilead with sledges of iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7969\|שְׁלֹשָׁה֙]] [[H6588\|פִּשְׁעֵ֣י]] [[H1834\|דַמֶּ֔שֶׂק]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H3808\|לֹ֣א]] [[H7725O\|אֲשִׁיבֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1758\|דּוּשָׁ֛]][[H9048\|ם]] [[H9003\|בַּ]][[H2742A\|חֲרֻצ֥וֹת]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic GILEAD|GILEAD]] • [[topic IRON|IRON]] • [[topic SYRIA|SYRIA]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.2|<< Amos 1:2]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.4|Amos 1:4 >>]]</td></tr></table>
 

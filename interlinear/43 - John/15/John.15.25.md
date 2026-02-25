@@ -1,10 +1,58 @@
+---
+title: John 15:25
+type: Verse
+kjv: "But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause."
+bsb: "But this is to fulfill what is written in their Law: ‘They hated Me without reason.’"
+jesus_said: "But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause."
+greek: "ἀλλ᾽ ἵνα πληρωθῇ ὁ λόγος ὁ ἐν τῷ νόμῳ αὐτῶν γεγραμμένος ὅτι ἐμίσησάν με δωρεάν.¶"
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G0846]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G3404]]"
+- "[[G3165]]"
+- "[[G1432]]"
+texts:
+- NKO
+---
+
 **John 15:25**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But [this cometh to pass], that the word might be fulfilled that is written in their law, They hated me without a cause.
 <small><sub>**BSB:**</sub></small>
 But this is to fulfill what is written in their Law: ‘They hated Me without reason.’
-<small><sub>**Literal:**</sub></small>
-But [this is] that may be fulfilled the word <the> in the law of them written that They hated Me without cause.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.24|<< John 15:24]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.26|John 15:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G0846\|αὐτῶν]]  [[G1125\|γεγραμμένος]]  [[G3754G\|ὅτι]]  [[G3404\|ἐμίσησάν]]  [[G3165\|με]]  [[G1432\|δωρεάν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GODLESSNESS|GODLESSNESS]] • [[topic HATRED|HATRED]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.24|<< John 15:24]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.26|John 15:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 15:25** is...
 > $\quad$ referencing: [[LXX.Ps.35.19|Ps 35:19]] ☩ [[LXX.Ps.69.4|Ps 69:4]] ☩ [[LXX.Ps.109.3|Ps 109:3]]

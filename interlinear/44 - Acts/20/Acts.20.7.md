@@ -1,10 +1,66 @@
+---
+title: Acts 20:7
+type: Verse
+kjv: "And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight."
+bsb: "On the first day of the week we came together to break bread. Since Paul was ready to leave the next day, he talked to them and kept on speaking until midnight."
+greek: "Ἐν δὲ τῇ μιᾷ τῶν σαββάτων συνηγμένων ἡμῶν μαθητῶν τοῦ κλάσαι ἄρτον ὁ Παῦλος διελέγετο αὐτοῖς μέλλων ἐξιέναι τῇ ἐπαύριον παρέτεινέν τε τὸν λόγον μέχρι μεσονυκτίου·"
+pericope: "[[Acts.20.7 Eutychus Revived at Troas|Eutychus Revived at Troas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G4863]]"
+- "[[G3165]]"
+- "[[G3101]]"
+- "[[G2806]]"
+- "[[G0740]]"
+- "[[G3972G]]"
+- "[[G1256]]"
+- "[[G0846]]"
+- "[[G3195]]"
+- "[[G1826]]"
+- "[[G1887]]"
+- "[[G3905]]"
+- "[[G5037]]"
+- "[[G3056]]"
+- "[[G3360]]"
+- "[[G3317]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Acts 20:7**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And upon the first [day] of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
 <small><sub>**BSB:**</sub></small>
 On the first day of the week we came together to break bread. Since Paul was ready to leave the next day, he talked to them and kept on speaking until midnight.
-<small><sub>**Literal:**</sub></small>
-In then the first [day] of the week come together we disciples for the breaking of bread <the> Paul was talking to them about to depart on the next day he was continuing then the talk until midnight;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.6|<< Acts 20:6]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.8|Acts 20:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G4863\|συνηγμένων]]  [[G3165\|ἡμῶν]]  [[G3101\|μαθητῶν]]  [[G3588\|τοῦ]]  [[G2806\|κλάσαι]]  [[G0740\|ἄρτον]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1256\|διελέγετο]]  [[G0846\|αὐτοῖς]]  [[G3195\|μέλλων]]  [[G1826\|ἐξιέναι]]  [[G3588\|τῇ]]  [[G1887\|ἐπαύριον]]  [[G3905\|παρέτεινέν]]  [[G5037\|τε]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3360\|μέχρι]]  [[G3317\|μεσονυκτίου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic PAUL|PAUL]] • [[topic WORSHIP|WORSHIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.6|<< Acts 20:6]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.8|Acts 20:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparing the Passover
+type: Pericope
 pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.22.7]]"
 - "[[Luke.22.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.22.13]]"
 ---
 
-[[Luke.22|Luke 22:7 - Luke 22:13]]
+<small>[[Luke.22|Luke 22:7-13]]</small>
 *Preparing the Passover*
 
 [[Luke.22.7|7]] Then came the day of unleavened bread, when the passover must be killed.

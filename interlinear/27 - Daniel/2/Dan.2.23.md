@@ -1,8 +1,75 @@
+---
+title: Daniel 2:23
+type: Verse
+kjv: "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast now made known unto us the king’s matter."
+bsb: "To You, O God of my fathers, I give thanks and praise, because You have given me wisdom and power. And now You have made known to me what we have requested, for You have made known to us the dream of the king.”"
+aramaic: "לָ֣ךְ׀ אֱלָ֣הּ אֲבָהָתִ֗י מְהוֹדֵ֤א וּמְשַׁבַּח֙ אֲנָ֔ה דִּ֧י חָכְמְתָ֛א וּגְבוּרְתָ֖א יְהַ֣בְתְּ לִ֑י וּכְעַ֤ן הֽוֹדַעְתַּ֙נִי֙ דִּֽי־ בְעֵ֣ינָא מִנָּ֔ךְ דִּֽי־ מִלַּ֥ת מַלְכָּ֖א הוֹדַעְתֶּֽנָא׃"
+pericope: "[[Dan.2.14 The Dream Revealed to Daniel|The Dream Revealed to Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H0426]]"
+- "[[H0002]]"
+- "[[H9020]]"
+- "[[H3029]]"
+- "[[H9002]]"
+- "[[H7624]]"
+- "[[H0576B]]"
+- "[[H1768]]"
+- "[[H2452]]"
+- "[[H9010]]"
+- "[[H1370]]"
+- "[[H3052]]"
+- "[[H9030]]"
+- "[[H3705]]"
+- "[[H3046]]"
+- "[[H9014]]"
+- "[[H1156]]"
+- "[[H4481]]"
+- "[[H4406]]"
+- "[[H4430]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:23**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast [now] made known unto us the king’s matter.
 <small><sub>**BSB:**</sub></small>
 To You, O God of my fathers, I give thanks and praise, because You have given me wisdom and power. And now You have made known to me what we have requested, for You have made known to us the dream of the king.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9005\|לָ֣]][[H9031\|ךְ]][[H9015\|׀]] [[H0426\|אֱלָ֣הּ]] [[H0002\|אֲבָהָתִ֗]][[H9020\|י]] [[H3029\|מְהוֹדֵ֤א]] [[H9002\|וּ]][[H7624\|מְשַׁבַּח֙]] [[H0576B\|אֲנָ֔ה]] [[H1768\|דִּ֧י]] [[H2452\|חָכְמְתָ֛]][[H9010\|א]] [[H9002\|וּ]][[H1370\|גְבוּרְתָ֖]][[H9010\|א]] [[H3052\|יְהַ֣בְתְּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ]][[H3705\|כְעַ֤ן]] [[H3046\|הֽוֹדַעְתַּ֙]][[H9030\|נִי֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1156\|בְעֵ֣ינָא]] [[H4481\|מִנָּ֔]][[H9031\|ךְ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H4406\|מִלַּ֥ת]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H3046\|הוֹדַעְתֶּֽ]][[H9035\|נָא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DREAM|DREAM]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic INTERPRETER|INTERPRETER]] • [[topic MISHAEL|MISHAEL]] • [[topic PRAISE|PRAISE]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.22|<< Daniel 2:22]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.24|Daniel 2:24 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Isaiah 7:2
+type: Verse
+kjv: "And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind."
+bsb: "When it was reported to the house of David that Aram was in league with Ephraim, the hearts of Ahaz and his people trembled like trees in the forest shaken by the wind."
+hebrew: "וַיֻּגַּ֗ד לְבֵ֤ית דָּוִד֙ לֵאמֹ֔ר נָ֥חָֽה אֲרָ֖ם עַל־ אֶפְרָ֑יִם וַיָּ֤נַע לְבָבוֹ֙ וּלְבַ֣ב עַמּ֔וֹ כְּנ֥וֹעַ עֲצֵי־ יַ֖עַר מִפְּנֵי־ רֽוּחַ׃"
+pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REZIN|REZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H5117]]"
+- "[[H0758I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H5128]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H6086H]]"
+- "[[H3293A]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:2**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
 <small><sub>**BSB:**</sub></small>
 When it was reported to the house of David that Aram was in league with Ephraim, the hearts of Ahaz and his people trembled like trees in the forest shaken by the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֗ד]] [[H9005\|לְ]][[H1004M\|בֵ֤ית]] [[H1732\|דָּוִד֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5117\|נָ֥חָֽה]] [[H0758I\|אֲרָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H5128\|יָּ֤נַע]] [[H3824\|לְבָב]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H3824\|לְבַ֣ב]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9004\|כְּ]][[H5128\|נ֥וֹעַ]] [[H6086H\|עֲצֵי]][[H9014\|־]] [[H3293A\|יַ֖עַר]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic REZIN|REZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.1|<< Isaiah 7:1]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.3|Isaiah 7:3 >>]]</td></tr></table>
 

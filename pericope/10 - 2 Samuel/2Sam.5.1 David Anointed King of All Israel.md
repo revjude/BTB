@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Anointed King of All Israel
+type: Pericope
 pericope: "[[2Sam.5.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 5
 book/chapter: "[[2Sam.5|2 Samuel 5]]"
-genre:
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 5
 verses:
 - "[[2Sam.5.1]]"
 - "[[2Sam.5.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Sam.5.5]]"
 ---
 
-[[2Sam.5|2 Samuel 5:1 - 2 Samuel 5:5]]
+<small>[[2Sam.5|2 Samuel 5:1-5]]</small>
 *David Anointed King of All Israel*
 
 [[2Sam.5.1|1]] Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we \[are\] thy bone and thy flesh.

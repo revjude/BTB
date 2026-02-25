@@ -1,7 +1,7 @@
 
 **SCIENCE**
 
-→ Observations of, and deductions from, facts  [[Job.26.7|Job 26:7]]-[[Job.26.14|14]];  [[Job.28|28]]; [[Eccl.1.13|Ec 1:13]]-[[Eccl.1.17|17]]
+→ Observations of, and deductions from, facts  [[Job.26.7|Job 26:7-14]];  [[Job.28|28]]; [[Eccl.1.13|Ec 1:13-17]]
 
 → So-called, false [[1Tim.6.20|1Ti 6:20]]
 

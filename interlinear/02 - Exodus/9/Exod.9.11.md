@@ -1,8 +1,64 @@
+---
+title: Exodus 9:11
+type: Verse
+kjv: "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians."
+bsb: "The magicians could not stand before Moses, because the boils had broken out on them and on all the Egyptians."
+hebrew: "וְלֹֽא־ יָכְל֣וּ הַֽחַרְטֻמִּ֗ים לַעֲמֹ֛ד לִפְנֵ֥י מֹשֶׁ֖ה מִפְּנֵ֣י הַשְּׁחִ֑ין כִּֽי־ הָיָ֣ה הַשְּׁחִ֔ין בַּֽחֲרְטֻמִּ֖ם וּבְכָל־ מִצְרָֽיִם׃"
+pericope: "[[Exod.9.8 The Sixth Plague：Boils|The Sixth Plague：Boils]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H2748]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H4872]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7822]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4713]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:11**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
 <small><sub>**BSB:**</sub></small>
 The magicians could not stand before Moses, because the boils had broken out on them and on all the Egyptians.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יָכְל֣וּ]] [[H9009\|הַֽ]][[H2748\|חַרְטֻמִּ֗ים]] [[H9005\|לַ]][[H5975G\|עֲמֹ֛ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4872\|מֹשֶׁ֖ה]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H9009\|הַ]][[H7822\|שְּׁחִ֑ין]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H9009\|הַ]][[H7822\|שְּׁחִ֔ין]] [[H9003\|בַּֽ]][[H2748\|חֲרְטֻמִּ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4713\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.10|<< Exodus 9:10]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.12|Exodus 9:12 >>]]</td></tr></table>
 

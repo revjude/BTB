@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Captivity of Jerusalem
+type: Pericope
 pericope: "[[2Kgs.24.10 The Captivity of Jerusalem|The Captivity of Jerusalem]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 24
 book/chapter: "[[2Kgs.24|2 Kings 24]]"
-genre:
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[2Kgs.24.10]]"
 - "[[2Kgs.24.11]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Kgs.24.17]]"
 ---
 
-[[2Kgs.24|2 Kings 24:10 - 2 Kings 24:17]]
+<small>[[2Kgs.24|2 Kings 24:10-17]]</small>
 *The Captivity of Jerusalem*
 
 [[2Kgs.24.10|10]] At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 8:15
+type: Verse
+kjv: "And he said, Blessed be the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled it, saying,"
+bsb: "and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying,"
+hebrew: "וַיֹּ֗אמֶר בָּר֤וּךְ יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ דִּבֶּ֣ר בְּפִ֔יו אֵ֖ת דָּוִ֣ד אָבִ֑י וּבְיָד֥וֹ מִלֵּ֖א לֵאמֹֽר׃"
+pericope: "[[1Kgs.8.12 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H4390]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:15**<big><big>[[1Kgs.8.12 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Blessed [be] the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled [it], saying,
 <small><sub>**BSB:**</sub></small>
 and said: “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H1288\|בָּר֤וּךְ]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁר֙]] [[H1696G\|דִּבֶּ֣ר]] [[H9003\|בְּ]][[H6310G\|פִ֔י]][[H9023\|ו]] [[H0854\|אֵ֖ת]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָד֥]][[H9023\|וֹ]] [[H4390\|מִלֵּ֖א]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.14|<< 1 Kings 8:14]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.16|1 Kings 8:16 >>]]</td></tr></table>
 

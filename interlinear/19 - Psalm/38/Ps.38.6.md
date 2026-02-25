@@ -1,8 +1,57 @@
+---
+title: Psalm 38:6
+type: Verse
+kjv: "I am troubled; I am bowed down greatly; I go mourning all the day long."
+bsb: "I am bent and brought low; all day long I go about mourning."
+hebrew: "נַעֲוֵ֣יתִי שַׁחֹ֣תִי עַד־ מְאֹ֑ד כָּל־ הַ֝יּ֗וֹם קֹדֵ֥ר הִלָּֽכְתִּי׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REMORSE|REMORSE]]"
+strongs:
+- "[[H5753A]]"
+- "[[H7817]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H6937]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:6**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am troubled; I am bowed down greatly; I go mourning all the day long.
 <small><sub>**BSB:**</sub></small>
 I am bent and brought low; all day long I go about mourning.
+<small><sub>**Hebrew:**</sub></small>
+[[H5753A\|נַעֲוֵ֣יתִי]] [[H7817\|שַׁחֹ֣תִי]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹ֑ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֝]][[H3117G\|יּ֗וֹם]] [[H6937\|קֹדֵ֥ר]] [[H1980G\|הִלָּֽכְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic PRAYER|PRAYER]] • [[topic REMORSE|REMORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.5|<< Psalms 38:5]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.7|Psalms 38:7 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Acts 17:21
+type: Verse
+kjv: "(For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)"
+bsb: "Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas."
+greek: "Ἀθηναῖοι δὲ πάντες καὶ οἱ ἐπιδημοῦντες ξένοι εἰς οὐδὲν ἕτερον ηὐκαίρουν ἢ λέγειν τι ἢ ἀκούειν τι καινότερον.¶"
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0117]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1927]]"
+- "[[G3581]]"
+- "[[G1519]]"
+- "[[G3762]]"
+- "[[G2087]]"
+- "[[G2119]]"
+- "[[G2228]]"
+- "[[G3004G]]"
+- "[[G5100]]"
+- "[[G0191]]"
+- "[[G2537]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 17:21**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)
 <small><sub>**BSB:**</sub></small>
 Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.
-<small><sub>**Literal:**</sub></small>
-[The] Athenians now all and the visiting strangers in no [thing] else were spending their time than to tell something and to hear something new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.20|<< Acts 17:20]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.22|Acts 17:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0117\|Ἀθηναῖοι]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1927\|ἐπιδημοῦντες]]  [[G3581\|ξένοι]]  [[G1519\|εἰς]]  [[G3762\|οὐδὲν]]  [[G2087\|ἕτερον]]  [[G2119\|ηὐκαίρουν]]  [[G2228\|ἢ]]  [[G3004G\|λέγειν]]  [[G5100\|τι]]  [[G2228\|ἢ]]  [[G0191\|ἀκούειν]]  [[G5100\|τι]]  [[G2537\|καινότερον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic CURIOSITY|CURIOSITY]] • [[topic IDLENESS|IDLENESS]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.20|<< Acts 17:20]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.22|Acts 17:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

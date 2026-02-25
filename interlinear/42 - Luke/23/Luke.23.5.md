@@ -1,10 +1,62 @@
+---
+title: Luke 23:5
+type: Verse
+kjv: "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+bsb: "But they kept insisting, “He stirs up the people all over Judea with His teaching. He began in Galilee and has come all the way here.”"
+greek: "οἱ δὲ ἐπίσχυον λέγοντες ὅτι ἀνασείει τὸν λαὸν διδάσκων καθ᾽ ὅλης τῆς Ἰουδαίας καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε.¶"
+pericope: "[[Luke.23.1 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2001]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0383]]"
+- "[[G2992]]"
+- "[[G1321]]"
+- "[[G2596]]"
+- "[[G3650]]"
+- "[[G2449]]"
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G0575]]"
+- "[[G1056G]]"
+- "[[G2193]]"
+- "[[G5602]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 23:5**<big><big>[[Luke.23.1 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 <small><sub>**BSB:**</sub></small>
 But they kept insisting, “He stirs up the people all over Judea with His teaching. He began in Galilee and has come all the way here.”
-<small><sub>**Literal:**</sub></small>
-<the> But they were insisting saying that He stirs up the people teaching throughout all <the> of Judea and He has begun from <the> Galilee until here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.4|<< Luke 23:4]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.6|Luke 23:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2001\|ἐπίσχυον]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G0383\|ἀνασείει]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G1321\|διδάσκων]]  [[G2596\|καθ᾽]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G0757\|ἀρξάμενος]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G2193\|ἕως]]  [[G5602\|ὧδε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDEA|JUDEA]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.4|<< Luke 23:4]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.6|Luke 23:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

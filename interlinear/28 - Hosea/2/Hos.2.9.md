@@ -1,8 +1,65 @@
+---
+title: Hosea 2:9
+type: Verse
+kjv: "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness."
+bsb: "Therefore I will take back My grain in its time and My new wine in its season; I will take away My wool and linen, which were given to cover her nakedness."
+hebrew: "לָכֵ֣ן אָשׁ֔וּב וְלָקַחְתִּ֤י דְגָנִי֙ בְּעִתּ֔וֹ וְתִירוֹשִׁ֖י בְּמֽוֹעֲד֑וֹ וְהִצַּלְתִּי֙ צַמְרִ֣י וּפִשְׁתִּ֔י לְכַסּ֖וֹת אֶת־ עֶרְוָתָֽהּ׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FLAX|FLAX]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H7725G]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1715]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H4150G]]"
+- "[[H5337]]"
+- "[[H6785]]"
+- "[[H6593]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6172]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:9**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax [given] to cover her nakedness.
 <small><sub>**BSB:**</sub></small>
 Therefore I will take back My grain in its time and My new wine in its season; I will take away My wool and linen, which were given to cover her nakedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H7725G\|אָשׁ֔וּב]] [[H9001\|וְ]][[H3947G\|לָקַחְתִּ֤י]] [[H1715\|דְגָנִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H6256\|עִתּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H8492\|תִירוֹשִׁ֖]][[H9020\|י]] [[H9003\|בְּ]][[H4150G\|מֽוֹעֲד֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּי֙]] [[H6785\|צַמְרִ֣]][[H9020\|י]] [[H9002\|וּ]][[H6593\|פִשְׁתִּ֔]][[H9020\|י]] [[H9005\|לְ]][[H3680\|כַסּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H6172\|עֶרְוָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAX|FLAX]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.8|<< Hosea 2:8]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.10|Hosea 2:10 >>]]</td></tr></table>
 

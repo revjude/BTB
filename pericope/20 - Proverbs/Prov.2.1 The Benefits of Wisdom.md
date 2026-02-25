@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Benefits of Wisdom
+type: Pericope
 pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 2
 book/chapter: "[[Prov.2|Proverbs 2]]"
-genre:
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 22
 verses:
 - "[[Prov.2.1]]"
 - "[[Prov.2.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Prov.2.22]]"
 ---
 
-[[Prov.2|Proverbs 2:1 - Proverbs 2:22]]
+<small>[[Prov.2|Proverbs 2:1-22]]</small>
 *The Benefits of Wisdom*
 
 [[Prov.2.1|1]] My son, if thou wilt receive my words, and hide my commandments with thee;

@@ -1,10 +1,63 @@
+---
+title: Colossians 4:18
+type: Verse
+kjv: "The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen."
+bsb: "This greeting is in my own hand—Paul. Remember my chains. Grace be with you."
+greek: "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου. μνημονεύετέ μου τῶν δεσμῶν. ἡ χάρις μεθ᾽ ὑμῶν ἀμήν. πρός Κολασσαεῖς ἐγράφη ἀπό Ῥώμης διά τυχικοῦ καί Ὀνησίμου.¶"
+pericope: "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G0783]]"
+- "[[G1473]]"
+- "[[G5495]]"
+- "[[G3972G]]"
+- "[[G3421]]"
+- "[[G3165]]"
+- "[[G1199]]"
+- "[[G5485]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G2858]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G4516]]"
+- "[[G1223]]"
+- "[[G5190]]"
+- "[[G2532]]"
+- "[[G3682]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Colossians 4:18**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The salutation by the hand of me Paul. Remember my bonds. Grace [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 This greeting is in my own hand—Paul. Remember my chains. Grace be with you.
-<small><sub>**Literal:**</sub></small>
-The greeting <the> in my own hand — by Paul. do remember my <the> chains. <the> Grace [be] with you Amen. to Colossian it was written from Rome through Tychicus and Onesimus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.17|<< Colossians 4:17]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.1|1 Thessalonians 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G0783\|ἀσπασμὸς]]  [[G3588\|τῇ]]  [[G1473\|ἐμῇ]]  [[G5495\|χειρὶ]]  [[G3972G\|Παύλου.]]  [[G3421\|μνημονεύετέ]]  [[G3165\|μου]]  [[G3588\|τῶν]]  [[G1199\|δεσμῶν.]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G2858\|Κολασσαεῖς]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G4516\|Ῥώμης]]  [[G1223\|διά]]  [[G5190\|τυχικοῦ]]  [[G2532\|καί]]  [[G3682\|Ὀνησίμου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SALUTATIONS|SALUTATIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.17|<< Colossians 4:17]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.1|1 Thessalonians 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

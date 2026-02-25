@@ -1,8 +1,75 @@
+---
+title: Exodus 10:23
+type: Verse
+kjv: "They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings."
+bsb: "No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings."
+hebrew: "לֹֽא־ רָא֞וּ אִ֣ישׁ אֶת־ אָחִ֗יו וְלֹא־ קָ֛מוּ אִ֥ישׁ מִתַּחְתָּ֖יו שְׁלֹ֣שֶׁת יָמִ֑ים וּֽלְכָל־ בְּנֵ֧י יִשְׂרָאֵ֛ל הָ֥יָה א֖וֹר בְּמוֹשְׁבֹתָֽם׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H8478I]]"
+- "[[H9033]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H0216]]"
+- "[[H9003]]"
+- "[[H4186]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:23**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
 <small><sub>**BSB:**</sub></small>
 No one could see anyone else, and for three days no one left his place. Yet all the Israelites had light in their dwellings.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|רָא֞וּ]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אָחִ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6965B\|קָ֛מוּ]] [[H0376I\|אִ֥ישׁ]] [[H9006\|מִ]][[H8478I\|תַּחְתָּ֖י]][[H9033\|ו]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֑ים]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵ֧י]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H1961\|הָ֥יָה]] [[H0216\|א֖וֹר]] [[H9003\|בְּ]][[H4186\|מוֹשְׁבֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.22|<< Exodus 10:22]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.24|Exodus 10:24 >>]]</td></tr></table>
 

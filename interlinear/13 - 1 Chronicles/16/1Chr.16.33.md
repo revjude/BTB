@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 16:33
+type: Verse
+kjv: "Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth."
+bsb: "Then the trees of the forest will sing for joy before the LORD, for He is coming to judge the earth."
+hebrew: "אָ֥ז יְרַנְּנ֖וּ עֲצֵ֣י הַיָּ֑עַר מִלִּפְנֵ֣י יְהוָ֔ה כִּי־ בָ֖א לִשְׁפּ֥וֹט אֶת־ הָאָֽרֶץ׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7442B]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H3293A]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:33**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth.
 <small><sub>**BSB:**</sub></small>
 Then the trees of the forest will sing for joy before the LORD, for He is coming to judge the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֥ז]] [[H7442B\|יְרַנְּנ֖וּ]] [[H6086H\|עֲצֵ֣י]] [[H9009\|הַ]][[H3293A\|יָּ֑עַר]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָ֖א]] [[H9005\|לִ]][[H8199\|שְׁפּ֥וֹט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.32|<< 1 Chronicles 16:32]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.34|1 Chronicles 16:34 >>]]</td></tr></table>
 

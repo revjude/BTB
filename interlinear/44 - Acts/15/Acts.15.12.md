@@ -1,10 +1,68 @@
+---
+title: Acts 15:12
+type: Verse
+kjv: "Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them."
+bsb: "The whole assembly fell silent as they listened to Barnabas and Paul describing the signs and wonders God had done among the Gentiles through them."
+greek: "ἐσίγησεν δὲ πᾶν τὸ πλῆθος καὶ ἤκουον Βαρναβᾶ καὶ Παύλου ἐξηγουμένων ὅσα ἐποίησεν ὁ θεὸς σημεῖα καὶ τέρατα ἐν τοῖς ἔθνεσιν δι᾽ αὐτῶν.¶"
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G4601]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G0921G]]"
+- "[[G3972G]]"
+- "[[G1834]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G2316]]"
+- "[[G4592]]"
+- "[[G5059]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G1223]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 15:12**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.
 <small><sub>**BSB:**</sub></small>
 The whole assembly fell silent as they listened to Barnabas and Paul describing the signs and wonders God had done among the Gentiles through them.
-<small><sub>**Literal:**</sub></small>
-Kept silent now all the multitude and were listening to Barnabas and Paul relating how much did <the> God signs and wonders among the Gentiles through them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.11|<< Acts 15:11]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.13|Acts 15:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4601\|ἐσίγησεν]]  [[G1161\|δὲ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G2532\|καὶ]]  [[G0191\|ἤκουον]]  [[G0921G\|Βαρναβᾶ]]  [[G2532\|καὶ]]  [[G3972G\|Παύλου]]  [[G1834\|ἐξηγουμένων]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4592\|σημεῖα]]  [[G2532\|καὶ]]  [[G5059\|τέρατα]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic LAW|LAW]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.11|<< Acts 15:11]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.13|Acts 15:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 36:1
+type: Verse
+kjv: "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem."
+bsb: "Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father."
+hebrew: "וַיִּקְחוּ֙ עַם־ הָאָ֔רֶץ אֶת־ יְהוֹאָחָ֖ז בֶּן־ יֹאשִׁיָּ֑הוּ וַיַּמְלִיכֻ֥הוּ תַֽחַת־ אָבִ֖יו בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.36.1 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H3059H]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H8478H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:1**<big><big>[[2Chr.36.1 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְחוּ֙]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H3059H\|יְהוֹאָחָ֖ז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֑הוּ]] [[H9001\|וַ]][[H4427A\|יַּמְלִיכֻ֥]][[H9033\|הוּ]] [[H8478H\|תַֽחַת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOAHAZ|JEHOAHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.27|<< 2 Chronicles 35:27]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.2|2 Chronicles 36:2 >>]]</td></tr></table>
 

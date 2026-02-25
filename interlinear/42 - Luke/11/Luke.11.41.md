@@ -1,10 +1,63 @@
+---
+title: Luke 11:41
+type: Verse
+kjv: "But rather give alms of such things as ye have; and, behold, all things are clean unto you."
+bsb: "But give as alms the things that are within you, and behold, everything will be clean for you."
+jesus_said: "But rather give alms of such things as ye have; and, behold, all things are clean unto you."
+greek: "πλὴν τὰ ἐνόντα δότε ἐλεημοσύνην, καὶ ἰδοὺ πάντα καθαρὰ ὑμῖν ἐστιν.¶"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G4133]]"
+- "[[G3588]]"
+- "[[G1751]]"
+- "[[G1325]]"
+- "[[G1654]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3956]]"
+- "[[G2513]]"
+- "[[G4771]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Luke 11:41**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But rather give alms of such things as ye have; and, behold, all things are clean unto you.
 <small><sub>**BSB:**</sub></small>
 But give as alms the things that are within you, and behold, everything will be clean for you.
-<small><sub>**Literal:**</sub></small>
-But [of] the [things] being within do give alms, and behold all things clean to you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.40|<< Luke 11:40]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.42|Luke 11:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G3588\|τὰ]]  [[G1751\|ἐνόντα]]  [[G1325\|δότε]]  [[G1654\|ἐλεημοσύνην,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3956\|πάντα]]  [[G2513\|καθαρὰ]]  [[G4771\|ὑμῖν]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PHARISEES|PHARISEES]] • [[topic POOR|POOR]] • [[topic REPROOF|REPROOF]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.40|<< Luke 11:40]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.42|Luke 11:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

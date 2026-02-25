@@ -1,8 +1,77 @@
+---
+title: Judges 19:25
+type: Verse
+kjv: "But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go."
+bsb: "But the men would not listen to him. So the Levite took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go."
+hebrew: "וְלֹֽא־ אָב֤וּ הָאֲנָשִׁים֙ לִשְׁמֹ֣עַֽ ל֔וֹ וַיַּחֲזֵ֤ק הָאִישׁ֙ בְּפִ֣ילַגְשׁ֔וֹ וַיֹּצֵ֥א אֲלֵיהֶ֖ם הַח֑וּץ וַיֵּדְע֣וּ א֠וֹתָהּ וַיִּֽתְעַלְּלוּ־ בָ֤הּ כָּל־ הַלַּ֙יְלָה֙ עַד־ הַבֹּ֔קֶר וַֽיְשַׁלְּח֖וּהָ כַּעֲל֥וֹת הַשָּֽׁחַר׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H2388H]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H6370]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2351]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H5953A]]"
+- "[[H3605]]"
+- "[[H3915]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H7971H]]"
+- "[[H5927L]]"
+- "[[H9004]]"
+- "[[H7837]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 19:25**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.
 <small><sub>**BSB:**</sub></small>
 But the men would not listen to him. So the Levite took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָב֤וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁים֙]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַֽ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H2388H\|יַּחֲזֵ֤ק]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9003\|בְּ]][[H6370\|פִ֣ילַגְשׁ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318G\|יֹּצֵ֥א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H2351\|ח֑וּץ]] [[H9001\|וַ]][[H3045\|יֵּדְע֣וּ]] [[H0853\|א֠וֹתָ]][[H9034\|הּ]] [[H9001\|וַ]][[H5953A\|יִּֽתְעַלְּלוּ]][[H9014\|־]] [[H9003\|בָ֤]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֙יְלָה֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַֽ]][[H7971H\|יְשַׁלְּח֖וּ]][[H9034\|הָ]] [[H9004\|כַּ]][[H5927L\|עֲל֥וֹת]] [[H9009\|הַ]][[H7837\|שָּֽׁחַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic GIBEAH|GIBEAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.24|<< Judges 19:24]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.26|Judges 19:26 >>]]</td></tr></table>
 
@@ -32,7 +101,7 @@ But the men would not listen to him. So the Levite took his concubine and sent h
 | the dawn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7837\|שָּֽׁחַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.24|<< Judges 19:24]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.26|Judges 19:26 >>]]</td></tr></table>
 
-[^1]: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
-[^2]: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^1]: when came up  | **<big>[[H9003|בַּ]]</big><big>[[H5927L|עֲלוֹת]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: when came up  | **<big>[[H9003|בַּ]]</big><big>[[H5927L|עֲלוֹת]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בַּעֲל֥וֹת</big></span>**
 

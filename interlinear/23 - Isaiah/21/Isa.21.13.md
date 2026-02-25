@@ -1,8 +1,52 @@
+---
+title: Isaiah 21:13
+type: Verse
+kjv: "The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim."
+bsb: "This is the burden against Arabia: In the thickets of Arabia you must lodge, O caravans of Dedanites."
+hebrew: "מַשָּׂ֖א בַּעְרָ֑ב בַּיַּ֤עַר בַּעְרַב֙ תָּלִ֔ינוּ אֹֽרְח֖וֹת דְּדָנִֽים׃"
+pericope: "[[Isa.21.13 The Burden against Arabia|The Burden against Arabia]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARABIA|ARABIA]]"
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic DEDANIM|DEDANIM]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H4853B]]"
+- "[[H9003]]"
+- "[[H6152A]]"
+- "[[H3293A]]"
+- "[[H3885A]]"
+- "[[H0736]]"
+- "[[H1720]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:13**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.
 <small><sub>**BSB:**</sub></small>
 This is the burden against Arabia: In the thickets of Arabia you must lodge, O caravans of Dedanites.
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H9003\|בַּ]][[H6152A\|עְרָ֑ב]] [[H9003\|בַּ]][[H3293A\|יַּ֤עַר]] [[H9003\|בַּ]][[H6152A\|עְרַב֙]] [[H3885A\|תָּלִ֔ינוּ]] [[H0736\|אֹֽרְח֖וֹת]] [[H1720\|דְּדָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIA|ARABIA]] • [[topic ARABIANS|ARABIANS]] • [[topic DEDANIM|DEDANIM]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.12|<< Isaiah 21:12]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.14|Isaiah 21:14 >>]]</td></tr></table>
 

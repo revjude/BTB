@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 5:8
+type: Verse
+kjv: "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they."
+bsb: "If you see the oppression of the poor and the denial of justice and righteousness in the province, do not be astonished at the matter; for one official is watched by a superior, and others higher still are over them."
+hebrew: "אִם־ עֹ֣שֶׁק רָ֠שׁ וְגֵ֨זֶל מִשְׁפָּ֤ט וָצֶ֙דֶק֙ תִּרְאֶ֣ה בַמְּדִינָ֔ה אַל־ תִּתְמַ֖הּ עַל־ הַחֵ֑פֶץ כִּ֣י גָבֹ֜הַּ מֵעַ֤ל גָּבֹ֙הַּ֙ שֹׁמֵ֔ר וּגְבֹהִ֖ים עֲלֵיהֶֽם׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6233]]"
+- "[[H7326]]"
+- "[[H9002]]"
+- "[[H1498]]"
+- "[[H4941H]]"
+- "[[H6664G]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H4082]]"
+- "[[H0408]]"
+- "[[H8539]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2656]]"
+- "[[H3588A]]"
+- "[[H1364]]"
+- "[[H9006]]"
+- "[[H8104I]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:8**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for [he that is] higher than the highest regardeth; and [there be] higher than they.
 <small><sub>**BSB:**</sub></small>
 If you see the oppression of the poor and the denial of justice and righteousness in the province, do not be astonished at the matter; for one official is watched by a superior, and others higher still are over them.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6233\|עֹ֣שֶׁק]] [[H7326\|רָ֠שׁ]] [[H9002\|וְ]][[H1498\|גֵ֨זֶל]] [[H4941H\|מִשְׁפָּ֤ט]] [[H9002\|וָ]][[H6664G\|צֶ֙דֶק֙]] [[H7200G\|תִּרְאֶ֣ה]] [[H9003\|בַ]][[H4082\|מְּדִינָ֔ה]] [[H0408\|אַל]][[H9014\|־]] [[H8539\|תִּתְמַ֖הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2656\|חֵ֑פֶץ]] [[H3588A\|כִּ֣י]] [[H1364\|גָבֹ֜הַּ]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H1364\|גָּבֹ֙הַּ֙]] [[H8104I\|שֹׁמֵ֔ר]] [[H9002\|וּ]][[H1364\|גְבֹהִ֖ים]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.7|<< Ecclesiastes 5:7]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.9|Ecclesiastes 5:9 >>]]</td></tr></table>
 

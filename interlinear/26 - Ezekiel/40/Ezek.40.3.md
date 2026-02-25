@@ -1,8 +1,69 @@
+---
+title: Ezekiel 40:3
+type: Verse
+kjv: "And he brought me thither, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate."
+bsb: "So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand."
+hebrew: "וַיָּבֵ֨יא אוֹתִ֜י שָׁ֗מָּה וְהִנֵּה־ אִישׁ֙ מַרְאֵ֙הוּ֙ כְּמַרְאֵ֣ה נְחֹ֔שֶׁת וּפְתִיל־ פִּשְׁתִּ֥ים בְּיָד֖וֹ וּקְנֵ֣ה הַמִּדָּ֑ה וְה֥וּא עֹמֵ֖ד בַּשָּֽׁעַר׃"
+pericope: "[[Ezek.40.1 The Man with a Measuring Rod|The Man with a Measuring Rod]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic FLAX|FLAX]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H4758]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H5178A]]"
+- "[[H6616]]"
+- "[[H6593]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H7070H]]"
+- "[[H9009]]"
+- "[[H4060A]]"
+- "[[H1931]]"
+- "[[H5975G]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:3**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me thither, and, behold, [there was] a man, whose appearance [was] like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
 <small><sub>**BSB:**</sub></small>
 So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֨יא]] [[H0853\|אוֹתִ֜]][[H9030\|י]] [[H8033G\|שָׁ֗מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H0376G\|אִישׁ֙]] [[H4758\|מַרְאֵ֙]][[H9023\|הוּ֙]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֣ה]] [[H5178A\|נְחֹ֔שֶׁת]] [[H9002\|וּ]][[H6616\|פְתִיל]][[H9014\|־]] [[H6593\|פִּשְׁתִּ֥ים]] [[H9003\|בְּ]][[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H7070H\|קְנֵ֣ה]] [[H9009\|הַ]][[H4060A\|מִּדָּ֑ה]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H5975G\|עֹמֵ֖ד]] [[H9003\|בַּ]][[H8179G\|שָּֽׁעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAX|FLAX]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.2|<< Ezekiel 40:2]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.4|Ezekiel 40:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

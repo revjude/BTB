@@ -1,8 +1,74 @@
+---
+title: Genesis 47:19
+type: Verse
+kjv: "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate."
+bsb: "Why should we perish before your eyes—we and our land as well? Purchase us and our land in exchange for food. Then we, along with our land, will be slaves to Pharaoh. Give us seed that we may live and not die, and that the land may not become desolate.”"
+hebrew: "לָ֧מָּה נָמ֣וּת לְעֵינֶ֗יךָ גַּם־ אֲנַ֙חְנוּ֙ גַּ֣ם אַדְמָתֵ֔נוּ קְנֵֽה־ אֹתָ֥נוּ וְאֶת־ אַדְמָתֵ֖נוּ בַּלָּ֑חֶם וְנִֽהְיֶ֞ה אֲנַ֤חְנוּ וְאַדְמָתֵ֙נוּ֙ עֲבָדִ֣ים לְפַרְעֹ֔ה וְתֶן־ זֶ֗רַע וְנִֽחְיֶה֙ וְלֹ֣א נָמ֔וּת וְהָאֲדָמָ֖ה לֹ֥א תֵשָֽׁם׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4191]]"
+- "[[H5869J]]"
+- "[[H9021]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0587]]"
+- "[[H0127G]]"
+- "[[H9025]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3899G]]"
+- "[[H1961]]"
+- "[[H5650]]"
+- "[[H6547H]]"
+- "[[H5414G]]"
+- "[[H2233G]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H9009]]"
+- "[[H3456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:19**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give [us] seed, that we may live, and not die, that the land be not desolate.
 <small><sub>**BSB:**</sub></small>
 Why should we perish before your eyes—we and our land as well? Purchase us and our land in exchange for food. Then we, along with our land, will be slaves to Pharaoh. Give us seed that we may live and not die, and that the land may not become desolate.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֧]][[H4100\|מָּה]] [[H4191\|נָמ֣וּת]] [[H9005\|לְ]][[H5869J\|עֵינֶ֗י]][[H9021\|ךָ]] [[H1571\|גַּם]][[H9014\|־]] [[H0587\|אֲנַ֙חְנוּ֙]] [[H1571\|גַּ֣ם]] [[H0127G\|אַדְמָתֵ֔]][[H9025\|נוּ]] [[H7069\|קְנֵֽה]][[H9014\|־]] [[H0853\|אֹתָ֥]][[H9035\|נוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0127G\|אַדְמָתֵ֖]][[H9025\|נוּ]] [[H9003\|בַּ]][[H3899G\|לָּ֑חֶם]] [[H9002\|וְ]][[H1961\|נִֽהְיֶ֞ה]] [[H0587\|אֲנַ֤חְנוּ]] [[H9002\|וְ]][[H0127G\|אַדְמָתֵ֙]][[H9025\|נוּ֙]] [[H5650\|עֲבָדִ֣ים]] [[H9005\|לְ]][[H6547H\|פַרְעֹ֔ה]] [[H9002\|וְ]][[H5414G\|תֶן]][[H9014\|־]] [[H2233G\|זֶ֗רַע]] [[H9002\|וְ]][[H2421\|נִֽחְיֶה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|נָמ֔וּת]] [[H9002\|וְ]][[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H3808\|לֹ֥א]] [[H3456\|תֵשָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic MONOPOLY|MONOPOLY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.18|<< Genesis 47:18]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.20|Genesis 47:20 >>]]</td></tr></table>
 

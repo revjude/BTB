@@ -1,8 +1,57 @@
+---
+title: Job 33:20
+type: Verse
+kjv: "So that his life abhorreth bread, and his soul dainty meat."
+bsb: "so that he detests his bread, and his soul loathes his favorite food."
+hebrew: "וְזִֽהֲמַ֣תּוּ חַיָּת֣וֹ לָ֑חֶם וְ֝נַפְשׁ֗וֹ מַאֲכַ֥ל תַּאֲוָֽה׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H2092]]"
+- "[[H9033]]"
+- "[[H2416C]]"
+- "[[H9023]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H5315L]]"
+- "[[H3978]]"
+- "[[H8378]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:20**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that his life abhorreth bread, and his soul dainty meat.
 <small><sub>**BSB:**</sub></small>
 so that he detests his bread, and his soul loathes his favorite food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2092\|זִֽהֲמַ֣תּ]][[H9033\|וּ]] [[H2416C\|חַיָּת֣]][[H9023\|וֹ]] [[H3899H\|לָ֑חֶם]] [[H9002\|וְ֝]][[H5315L\|נַפְשׁ֗]][[H9023\|וֹ]] [[H3978\|מַאֲכַ֥ל]] [[H8378\|תַּאֲוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.19|<< Job 33:19]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.21|Job 33:21 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 1 Kings 21:28
+type: Verse
+kjv: "And the word of the LORD came to Elijah the Tishbite, saying,"
+bsb: "Then the word of the LORD came to Elijah the Tishbite, saying:"
+hebrew: "וַֽיְהִי֙ דְּבַר־ יְהוָ֔ה אֶל־ אֵלִיָּ֥הוּ הַתִּשְׁבִּ֖י לֵאמֹֽר׃"
+pericope: "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H0452G]]"
+- "[[H9009]]"
+- "[[H8664]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:28**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the word of the LORD came to Elijah the Tishbite, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to Elijah the Tishbite, saying:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵלִיָּ֥הוּ]] [[H9009\|הַ]][[H8664\|תִּשְׁבִּ֖י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.27|<< 1 Kings 21:27]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.29|1 Kings 21:29 >>]]</td></tr></table>
 

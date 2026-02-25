@@ -1,6 +1,48 @@
+---
+title: LXX Judges 6:3
+type: Verse
+lxx: "And it came to pass when a man of Israel sowed, that there ascended up Midian and Amalek; even the sons of the east were ascending against them."
+greek: "και εγένετο ότε έσπειρεν ανήρ Ισραήλ και ανέβαινε Μαδιάμ και Αμαλήκ και οι υιοί ανατολών ανέβαινον αυτοίς"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3753]]"
+- "[[G4687]]"
+- "[[G0435]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3099]]"
+- "[[G2532]]"
+- "[[H6002]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0395]]"
+- "[[G0305]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 6:3** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when a man of Israel sowed, that there ascended up Midian and Amalek; even the sons of \[the\] east were ascending against them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3753\|ότε]] [[G4687\|έσπειρεν]] [[G0435\|ανήρ]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G0305\|ανέβαινε]] [[G3099\|Μαδιάμ]] [[G2532\|και]] [[H6002\|Αμαλήκ]] [[G2532\|και]] [[G3588\|οι]] [[G5207\|υιοί]] [[G0395\|ανατολών]] [[G0305\|ανέβαινον]] [[G1473\|αυτοίς]]
 <small><sub>**MT:**</sub></small>
 [[Judg.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.2|<< Judges 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.4|Judges 6:4 >>]]</td></tr></table>
 
@@ -23,6 +65,6 @@ And it came to pass when a man of Israel sowed, that there ascended up Midian an
 | of \[the\] east | **<big>[[G0395\|ανατολών]]</big>** |
 | were ascending | **<big>[[G0305\|ανέβαινον]]</big>** |
 | against them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Judg.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.2|<< Judges 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.4|Judges 6:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.2|<< Judges 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.4|Judges 6:4 >>]]</td></tr></table>
 
 

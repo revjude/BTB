@@ -1,8 +1,75 @@
+---
+title: Genesis 15:13
+type: Verse
+kjv: "And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;"
+bsb: "Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years."
+hebrew: "וַיֹּ֣אמֶר לְאַבְרָ֗ם יָדֹ֨עַ תֵּדַ֜ע כִּי־ גֵ֣ר׀ יִהְיֶ֣ה זַרְעֲךָ֗ בְּאֶ֙רֶץ֙ לֹ֣א לָהֶ֔ם וַעֲבָד֖וּם וְעִנּ֣וּ אֹתָ֑ם אַרְבַּ֥ע מֵא֖וֹת שָׁנָֽה׃"
+pericope: "[[Gen.15.8 God Confirms His Promise|God Confirms His Promise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0087]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1616]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H9038]]"
+- "[[H5647G]]"
+- "[[H6031B]]"
+- "[[H0853]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:13**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land [that is] not theirs, and shall serve them; and they shall afflict them four hundred years;
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H0087\|אַבְרָ֗ם]] [[H3045\|יָדֹ֨עַ]] [[H3045\|תֵּדַ֜ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H1616\|גֵ֣ר]][[H9015\|׀]] [[H1961\|יִהְיֶ֣ה]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H0776G\|אֶ֙רֶץ֙]] [[H3808\|לֹ֣א]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H5647G\|עֲבָד֖וּ]][[H9038\|ם]] [[H9001\|וְ]][[H6031B\|עִנּ֣וּ]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COVENANT|COVENANT]] • [[topic EGYPT|EGYPT]] • [[topic ISRAEL|ISRAEL]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RULERS|RULERS]] • [[topic SIGN|SIGN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.12|<< Genesis 15:12]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.14|Genesis 15:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

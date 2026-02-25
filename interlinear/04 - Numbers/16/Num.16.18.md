@@ -1,8 +1,69 @@
+---
+title: Numbers 16:18
+type: Verse
+kjv: "And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron."
+bsb: "So each man took his censer, put fire and incense in it, and stood with Moses and Aaron at the entrance to the Tent of Meeting."
+hebrew: "וַיִּקְח֞וּ אִ֣ישׁ מַחְתָּת֗וֹ וַיִּתְּנ֤וּ עֲלֵיהֶם֙ אֵ֔שׁ וַיָּשִׂ֥ימוּ עֲלֵיהֶ֖ם קְטֹ֑רֶת וַֽיַּעַמְד֗וּ פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד וּמֹשֶׁ֥ה וְאַהֲרֹֽן׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0376I]]"
+- "[[H4289]]"
+- "[[H9023]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0784]]"
+- "[[H7760H]]"
+- "[[H7004]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:18**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.
 <small><sub>**BSB:**</sub></small>
 So each man took his censer, put fire and incense in it, and stood with Moses and Aaron at the entrance to the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֞וּ]] [[H0376I\|אִ֣ישׁ]] [[H4289\|מַחְתָּת֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H5414H\|יִּתְּנ֤וּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H0784\|אֵ֔שׁ]] [[H9001\|וַ]][[H7760H\|יָּשִׂ֥ימוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H7004\|קְטֹ֑רֶת]] [[H9001\|וַֽ]][[H5975G\|יַּעַמְד֗וּ]] [[H6607\|פֶּ֛תַח]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וּ]][[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CENSER|CENSER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.17|<< Numbers 16:17]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.19|Numbers 16:19 >>]]</td></tr></table>
 

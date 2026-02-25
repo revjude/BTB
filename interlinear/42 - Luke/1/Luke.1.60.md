@@ -1,10 +1,54 @@
+---
+title: Luke 1:60
+type: Verse
+kjv: "And his mother answered and said, Not so; but he shall be called John."
+bsb: "But his mother replied, “No! He shall be called John.”"
+greek: "καὶ ἀποκριθεῖσα ἡ μήτηρ αὐτοῦ εἶπεν· οὐχί, ἀλλὰ κληθήσεται Ἰωάννης."
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3780]]"
+- "[[G0235]]"
+- "[[G2564G]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Luke 1:60**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his mother answered and said, Not [so]; but he shall be called John.
 <small><sub>**BSB:**</sub></small>
 But his mother replied, “No! He shall be called John.”
-<small><sub>**Literal:**</sub></small>
-And answering the mother of him said; No, but he will be called John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.59|<< Luke 1:59]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.61|Luke 1:61 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθεῖσα]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν·]]  [[G3780\|οὐχί,]]  [[G0235\|ἀλλὰ]]  [[G2564G\|κληθήσεται]]  [[G2491G\|Ἰωάννης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.59|<< Luke 1:59]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.61|Luke 1:61 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: John 2:6
+type: Verse
+kjv: "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece."
+bsb: "Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons."
+greek: "ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι, χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς."
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic FIRKIN|FIRKIN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G3035]]"
+- "[[G5201]]"
+- "[[G1803]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2512]]"
+- "[[G2453]]"
+- "[[G2749]]"
+- "[[G5562]]"
+- "[[G0303]]"
+- "[[G3355]]"
+- "[[G1417]]"
+- "[[G2228]]"
+- "[[G5140]]"
+texts:
+- NKO
+---
+
 **John 2:6**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
 <small><sub>**BSB:**</sub></small>
 Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons.
-<small><sub>**Literal:**</sub></small>
-There were now there of stone water jars six according to the purification of the Jews standing, having space for metretae two or three.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.5|<< John 2:5]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.7|John 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G3035\|λίθιναι]]  [[G5201\|ὑδρίαι]]  [[G1803\|ἓξ]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G2512\|καθαρισμὸν]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2749\|κείμεναι,]]  [[G5562\|χωροῦσαι]]  [[G0303\|ἀνὰ]]  [[G3355\|μετρητὰς]]  [[G1417\|δύο]]  [[G2228\|ἢ]]  [[G5140\|τρεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic FIRKIN|FIRKIN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic MEASURE|MEASURE]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.5|<< John 2:5]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.7|John 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

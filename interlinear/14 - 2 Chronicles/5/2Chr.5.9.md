@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 5:9
+type: Verse
+kjv: "And they drew out the staves of the ark, that the ends of the staves were seen from the ark before the oracle; but they were not seen without. And there it is unto this day."
+bsb: "The poles of the ark extended far enough that their ends were visible from in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day."
+hebrew: "וַֽיַּאֲרִיכוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־ הָאָרוֹן֙ עַל־ פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַֽיְהִי־ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0748]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H7200G]]"
+- "[[H7218I]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H1687]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:9**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they drew out the staves [of the ark], that the ends of the staves were seen from the ark before the oracle; but they were not seen without. And there it is unto this day.
 <small><sub>**BSB:**</sub></small>
 The poles of the ark extended far enough that their ends were visible from in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H0748\|יַּאֲרִיכוּ֮]] [[H9009\|הַ]][[H0905G\|בַּדִּים֒]] [[H9001\|וַ]][[H7200G\|יֵּרָאוּ֩]] [[H7218I\|רָאשֵׁ֨י]] [[H9009\|הַ]][[H0905G\|בַּדִּ֤ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרוֹן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H1687\|דְּבִ֔יר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7200G\|יֵרָא֖וּ]] [[H9009\|הַ]][[H2351\|ח֑וּצָ]][[H9011\|ה]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H8033G\|שָׁ֔ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.8|<< 2 Chronicles 5:8]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.10|2 Chronicles 5:10 >>]]</td></tr></table>
 

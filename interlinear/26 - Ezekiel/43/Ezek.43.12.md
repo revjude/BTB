@@ -1,8 +1,59 @@
+---
+title: Ezekiel 43:12
+type: Verse
+kjv: "This is the law of the house; Upon the top of the mountain the whole limit thereof round about shall be most holy. Behold, this is the law of the house."
+bsb: "This is the law of the temple: All its surrounding territory on top of the mountain will be most holy. Yes, this is the law of the temple."
+hebrew: "זֹ֖את תּוֹרַ֣ת הַבָּ֑יִת עַל־ רֹ֣אשׁ הָ֠הָר כָּל־ גְּבֻל֞וֹ סָבִ֤יב׀ סָבִיב֙ קֹ֣דֶשׁ קָדָשִׁ֔ים הִנֵּה־ זֹ֖את תּוֹרַ֥ת הַבָּֽיִת׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HOUSE OF GOD|HOUSE OF GOD]]"
+strongs:
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H2022G]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H9023]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H6944G]]"
+- "[[H2009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:12**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law of the house; Upon the top of the mountain the whole limit thereof round about [shall be] most holy. Behold, this [is] the law of the house.
 <small><sub>**BSB:**</sub></small>
 This is the law of the temple: All its surrounding territory on top of the mountain will be most holy. Yes, this is the law of the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֖את]] [[H8451\|תּוֹרַ֣ת]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H9009\|הָ֠]][[H2022G\|הָר]] [[H3605\|כָּל]][[H9014\|־]] [[H1366H\|גְּבֻל֞]][[H9023\|וֹ]] [[H5439G\|סָבִ֤יב]][[H9015\|׀]] [[H5439G\|סָבִיב֙]] [[H6944G\|קֹ֣דֶשׁ]] [[H6944G\|קָדָשִׁ֔ים]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H2063\|זֹ֖את]] [[H8451\|תּוֹרַ֥ת]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE OF GOD|HOUSE OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.11|<< Ezekiel 43:11]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.13|Ezekiel 43:13 >>]]</td></tr></table>
 

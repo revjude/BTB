@@ -1,8 +1,65 @@
+---
+title: Jeremiah 6:11
+type: Verse
+kjv: "Therefore I am full of the fury of the LORD; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days."
+bsb: "But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it out on the children in the street, and on the young men gathered together. For both husband and wife will be captured, the old and the very old alike."
+hebrew: "וְאֵת֩ חֲמַ֨ת יְהוָ֤ה׀ מָלֵ֙אתִי֙ נִלְאֵ֣יתִי הָכִ֔יל שְׁפֹ֤ךְ עַל־ עוֹלָל֙ בַּח֔וּץ וְעַ֛ל ס֥וֹד בַּחוּרִ֖ים יַחְדָּ֑ו כִּֽי־ גַם־ אִ֤ישׁ עִם־ אִשָּׁה֙ יִלָּכֵ֔דוּ זָקֵ֖ן עִם־ מְלֵ֥א יָמִֽים׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H2534]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H4390]]"
+- "[[H3811]]"
+- "[[H3557]]"
+- "[[H8210G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5768]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H5475]]"
+- "[[H0970]]"
+- "[[H3162B]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H0376H]]"
+- "[[H5973A]]"
+- "[[H0802H]]"
+- "[[H3920]]"
+- "[[H2205H]]"
+- "[[H4392]]"
+- "[[H3117H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:11**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I am full of the fury of the LORD; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with [him that is] full of days.
 <small><sub>**BSB:**</sub></small>
 But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it out on the children in the street, and on the young men gathered together. For both husband and wife will be captured, the old and the very old alike.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0854\|אֵת֩]] [[H2534\|חֲמַ֨ת]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H4390\|מָלֵ֙אתִי֙]] [[H3811\|נִלְאֵ֣יתִי]] [[H3557\|הָכִ֔יל]] [[H8210G\|שְׁפֹ֤ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H5768\|עוֹלָל֙]] [[H9003\|בַּ]][[H2351\|ח֔וּץ]] [[H9002\|וְ]][[H5921A\|עַ֛ל]] [[H5475\|ס֥וֹד]] [[H0970\|בַּחוּרִ֖ים]] [[H3162B\|יַחְדָּ֑ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H0376H\|אִ֤ישׁ]] [[H5973A\|עִם]][[H9014\|־]] [[H0802H\|אִשָּׁה֙]] [[H3920\|יִלָּכֵ֔דוּ]] [[H2205H\|זָקֵ֖ן]] [[H5973A\|עִם]][[H9014\|־]] [[H4392\|מְלֵ֥א]] [[H3117H\|יָמִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.10|<< Jeremiah 6:10]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.12|Jeremiah 6:12 >>]]</td></tr></table>
 

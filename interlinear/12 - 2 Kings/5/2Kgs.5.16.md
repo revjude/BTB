@@ -1,8 +1,61 @@
+---
+title: 2 Kings 5:16
+type: Verse
+kjv: "But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused."
+bsb: "But Elisha replied, “As surely as the LORD lives, before whom I stand, I will not accept it.” And although Naaman urged him to accept it, he refused."
+hebrew: "וַיֹּ֕אמֶר חַי־ יְהוָ֛ה אֲשֶׁר־ עָמַ֥דְתִּי לְפָנָ֖יו אִם־ אֶקָּ֑ח וַיִּפְצַר־ בּ֥וֹ לָקַ֖חַת וַיְמָאֵֽן׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0518H]]"
+- "[[H3947H]]"
+- "[[H6484]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3985]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:16**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said, [As] the LORD liveth, before whom I stand, I will receive none. And he urged him to take [it]; but he refused.
 <small><sub>**BSB:**</sub></small>
 But Elisha replied, “As surely as the LORD lives, before whom I stand, I will not accept it.” And although Naaman urged him to accept it, he refused.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5975G\|עָמַ֥דְתִּי]] [[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H0518H\|אִם]][[H9014\|־]] [[H3947H\|אֶקָּ֑ח]] [[H9001\|וַ]][[H6484\|יִּפְצַר]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H9005\|לָ]][[H3947H\|קַ֖חַת]] [[H9001\|וַ]][[H3985\|יְמָאֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.15|<< 2 Kings 5:15]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.17|2 Kings 5:17 >>]]</td></tr></table>
 

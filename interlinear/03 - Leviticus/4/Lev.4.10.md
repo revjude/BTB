@@ -1,8 +1,64 @@
+---
+title: Leviticus 4:10
+type: Verse
+kjv: "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering."
+bsb: "just as the fat is removed from the ox of the peace offering. Then the priest shall burn them on the altar of burnt offering."
+hebrew: "כַּאֲשֶׁ֣ר יוּרַ֔ם מִשּׁ֖וֹר זֶ֣בַח הַשְּׁלָמִ֑ים וְהִקְטִירָם֙ הַכֹּהֵ֔ן עַ֖ל מִזְבַּ֥ח הָעֹלָֽה׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic KIDNEY|KIDNEY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7311A]]"
+- "[[H9006]]"
+- "[[H7794]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:10**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.
 <small><sub>**BSB:**</sub></small>
 just as the fat is removed from the ox of the peace offering. Then the priest shall burn them on the altar of burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H7311A\|יוּרַ֔ם]] [[H9006\|מִ]][[H7794\|שּׁ֖וֹר]] [[H2077\|זֶ֣בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֑ים]] [[H9001\|וְ]][[H6999A\|הִקְטִירָ]][[H9038\|ם֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H5921A\|עַ֖ל]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic KIDNEY|KIDNEY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.9|<< Leviticus 4:9]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.11|Leviticus 4:11 >>]]</td></tr></table>
 

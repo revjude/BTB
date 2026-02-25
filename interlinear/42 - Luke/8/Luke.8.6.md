@@ -1,10 +1,61 @@
+---
+title: Luke 8:6
+type: Verse
+kjv: "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
+bsb: "Some fell on rocky ground, and when it came up, the seedlings withered because they had no moisture."
+jesus_said: "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
+greek: "καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα."
+pericope: "[[Luke.8.4 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G2667]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4073]]"
+- "[[G5453]]"
+- "[[G3583]]"
+- "[[G1223]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G2429]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:6**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.
 <small><sub>**BSB:**</sub></small>
 Some fell on rocky ground, and when it came up, the seedlings withered because they had no moisture.
-<small><sub>**Literal:**</sub></small>
-However other fell upon the rock, and having sprung up it withered through <the> not having moisture.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.5|<< Luke 8:5]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.7|Luke 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2087\|ἕτερον]]  [[G2667\|κατέπεσεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4073\|πέτραν,]]  [[G2532\|καὶ]]  [[G5453\|φυὲν]]  [[G3583\|ἐξηράνθη]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G2192\|ἔχειν]]  [[G2429\|ἰκμάδα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.5|<< Luke 8:5]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.7|Luke 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

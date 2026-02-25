@@ -1,8 +1,66 @@
+---
+title: Numbers 6:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:"
+bsb: "“Speak to the Israelites and tell them that if a man or woman makes a special vow, the vow of a Nazirite, to separate himself to the LORD,"
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אֽוֹ־ אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהוָֽה׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H6381]]"
+- "[[H9005]]"
+- "[[H5087]]"
+- "[[H5088]]"
+- "[[H5139]]"
+- "[[H5144B]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:2**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When either man or woman shall separate [themselves] to vow a vow of a Nazarite, to separate [themselves] unto the LORD:
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them that if a man or woman makes a special vow, the vow of a Nazirite, to separate himself to the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0376G\|אִ֣ישׁ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H0802G\|אִשָּׁ֗ה]] [[H3588A\|כִּ֤י]] [[H6381\|יַפְלִא֙]] [[H9005\|לִ]][[H5087\|נְדֹּר֙]] [[H5088\|נֶ֣דֶר]] [[H5139\|נָזִ֔יר]] [[H9005\|לְ]][[H5144B\|הַזִּ֖יר]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.1|<< Numbers 6:1]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.3|Numbers 6:3 >>]]</td></tr></table>
 

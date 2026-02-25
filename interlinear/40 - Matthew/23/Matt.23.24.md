@@ -1,10 +1,55 @@
+---
+title: Matthew 23:24
+type: Verse
+kjv: "Ye blind guides, which strain at a gnat, and swallow a camel."
+bsb: "You blind guides! You strain out a gnat but swallow a camel."
+jesus_said: "Ye blind guides, which strain at a gnat, and swallow a camel."
+greek: "ὁδηγοὶ τυφλοί, οἱ διϋλίζοντες τὸν κώνωπα, τὴν δὲ κάμηλον καταπίνοντες.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3595]]"
+- "[[G5185]]"
+- "[[G3588]]"
+- "[[G1368]]"
+- "[[G2971]]"
+- "[[G1161]]"
+- "[[G2574]]"
+- "[[G2666]]"
+texts:
+- NKO
+---
+
 **Matthew 23:24**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Ye] blind guides, which strain at a gnat, and swallow a camel.
 <small><sub>**BSB:**</sub></small>
 You blind guides! You strain out a gnat but swallow a camel.
-<small><sub>**Literal:**</sub></small>
-Guides blind! you who [are] straining out the gnat, the however camel swallowing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.23|<< Matthew 23:23]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.25|Matthew 23:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3595\|ὁδηγοὶ]]  [[G5185\|τυφλοί,]]  [[G3588\|οἱ]]  [[G1368\|διϋλίζοντες]]  [[G3588\|τὸν]]  [[G2971\|κώνωπα,]]  [[G3588\|τὴν]]  [[G1161\|δὲ]]  [[G2574\|κάμηλον]]  [[G2666\|καταπίνοντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.23|<< Matthew 23:23]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.25|Matthew 23:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Matthew 27:20
+type: Verse
+kjv: "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus."
+bsb: "But the chief priests and elders persuaded the crowds to ask for Barabbas and to have Jesus put to death."
+greek: "Οἱ δὲ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι ἔπεισαν τοὺς ὄχλους ἵνα αἰτήσωνται τὸν Βαραββᾶν, τὸν δὲ Ἰησοῦν ἀπολέσωσιν.¶"
+pericope: "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G3982]]"
+- "[[G3793]]"
+- "[[G2443]]"
+- "[[G0154]]"
+- "[[G0912]]"
+- "[[G2424G]]"
+- "[[G0622]]"
+texts:
+- NKO
+---
+
 **Matthew 27:20**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.
 <small><sub>**BSB:**</sub></small>
 But the chief priests and elders persuaded the crowds to ask for Barabbas and to have Jesus put to death.
-<small><sub>**Literal:**</sub></small>
-<the> And the chief priests and the elders persuaded the crowds that they may ask for <the> Barabbas, <the> and Jesus may destroy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.19|<< Matthew 27:19]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.21|Matthew 27:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G3982\|ἔπεισαν]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G2443\|ἵνα]]  [[G0154\|αἰτήσωνται]]  [[G3588\|τὸν]]  [[G0912\|Βαραββᾶν,]]  [[G3588\|τὸν]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦν]]  [[G0622\|ἀπολέσωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic COURT|COURT]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.19|<< Matthew 27:19]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.21|Matthew 27:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

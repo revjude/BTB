@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temple Restoration Begins
+type: Pericope
 pericope: "[[Ezra.3.8 Temple Restoration Begins|Temple Restoration Begins]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 3
 book/chapter: "[[Ezra.3|Ezra 3]]"
-genre:
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 6
 verses:
 - "[[Ezra.3.8]]"
 - "[[Ezra.3.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Ezra.3.13]]"
 ---
 
-[[Ezra.3|Ezra 3:8 - Ezra 3:13]]
+<small>[[Ezra.3|Ezra 3:8-13]]</small>
 *Temple Restoration Begins*
 
 [[Ezra.3.8|8]] Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD.

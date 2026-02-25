@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 15:29
+type: Verse
+kjv: "And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent."
+bsb: "Moreover, the Glory of Israel does not lie or change His mind, for He is not a man, that He should change His mind.”"
+hebrew: "וְגַם֙ נֵ֣צַח יִשְׂרָאֵ֔ל לֹ֥א יְשַׁקֵּ֖ר וְלֹ֣א יִנָּחֵ֑ם כִּ֣י לֹ֥א אָדָ֛ם ה֖וּא לְהִנָּחֵֽם׃"
+pericope: "[[1Sam.15.24 Saul’s Confession|Saul’s Confession]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic STRENGTH|STRENGTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H5331]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H8266]]"
+- "[[H5162H]]"
+- "[[H3588A]]"
+- "[[H0120G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:29**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also the Strength of Israel will not lie nor repent: for he [is] not a man, that he should repent.
 <small><sub>**BSB:**</sub></small>
 Moreover, the Glory of Israel does not lie or change His mind, for He is not a man, that He should change His mind.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם֙]] [[H5331\|נֵ֣צַח]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹ֥א]] [[H8266\|יְשַׁקֵּ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5162H\|יִנָּחֵ֑ם]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֥א]] [[H0120G\|אָדָ֛ם]] [[H1931\|ה֖וּא]] [[H9005\|לְ]][[H5162H\|הִנָּחֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic APOSTASY|APOSTASY]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic STRENGTH|STRENGTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.28|<< 1 Samuel 15:28]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.30|1 Samuel 15:30 >>]]</td></tr></table>
 

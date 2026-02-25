@@ -1,10 +1,69 @@
+---
+title: John 19:12
+type: Verse
+kjv: "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar’s friend: whosoever maketh himself a king speaketh against Caesar."
+bsb: "From then on, Pilate tried to release Him, but the Jews kept shouting, “If you release this man, you are no friend of Caesar. Anyone who declares himself a king is defying Caesar.”"
+greek: "ἐκ τούτου ὁ Πιλᾶτος ἐζήτει ἀπολῦσαι αὐτόν.¶ Οἱ δὲ Ἰουδαῖοι ἐκραύγασαν λέγοντες· ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος. πᾶς ὁ βασιλέα ἑαυτὸν ποιῶν ἀντιλέγει τῷ Καίσαρι.¶"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G1537]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G2212]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G2453]]"
+- "[[G2905]]"
+- "[[G3004G]]"
+- "[[G1437]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5384]]"
+- "[[G2541]]"
+- "[[G3956]]"
+- "[[G0935]]"
+- "[[G1438]]"
+- "[[G4160G]]"
+- "[[G0483]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 19:12**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar’s friend: whosoever maketh himself a king speaketh against Caesar.
 <small><sub>**BSB:**</sub></small>
 From then on, Pilate tried to release Him, but the Jews kept shouting, “If you release this man, you are no friend of Caesar. Anyone who declares himself a king is defying Caesar.”
-<small><sub>**Literal:**</sub></small>
-Out of this <the> Pilate was seeking to release Him. <the> but the Jews cried out saying; If this [man] you shall release, not you are a friend <the> of Caesar. Everyone <the> a king himself making speaks against <the> Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.11|<< John 19:11]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.13|John 19:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G3778\|τούτου]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G2212\|ἐζήτει]]  [[G0630G\|ἀπολῦσαι]]  [[G0846\|αὐτόν.¶]]  [[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G2453\|Ἰουδαῖοι]]  [[G2905\|ἐκραύγασαν]]  [[G3004G\|λέγοντες·]]  [[G1437\|ἐὰν]]  [[G3778\|τοῦτον]]  [[G0630G\|ἀπολύσῃς,]]  [[G3756\|οὐκ]]  [[G1510\|εἶ]]  [[G5384\|φίλος]]  [[G3588\|τοῦ]]  [[G2541\|Καίσαρος.]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0935\|βασιλέα]]  [[G1438\|ἑαυτὸν]]  [[G4160G\|ποιῶν]]  [[G0483\|ἀντιλέγει]]  [[G3588\|τῷ]]  [[G2541\|Καίσαρι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.11|<< John 19:11]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.13|John 19:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

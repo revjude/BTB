@@ -1,8 +1,59 @@
+---
+title: Exodus 36:10
+type: Verse
+kjv: "And he coupled the five curtains one unto another: and the other five curtains he coupled one unto another."
+bsb: "And he joined five of the curtains together, and the other five he joined as well."
+hebrew: "וַיְחַבֵּר֙ אֶת־ חֲמֵ֣שׁ הַיְרִיעֹ֔ת אַחַ֖ת אֶל־ אֶחָ֑ת וְחָמֵ֤שׁ יְרִיעֹת֙ חִבַּ֔ר אַחַ֖ת אֶל־ אֶחָֽת׃"
+pericope: "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2266]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H3407]]"
+- "[[H0259]]"
+- "[[H0413]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:10**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he coupled the five curtains one unto another: and [the other] five curtains he coupled one unto another.
 <small><sub>**BSB:**</sub></small>
 And he joined five of the curtains together, and the other five he joined as well.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2266\|יְחַבֵּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2568\|חֲמֵ֣שׁ]] [[H9009\|הַ]][[H3407\|יְרִיעֹ֔ת]] [[H0259\|אַחַ֖ת]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אֶחָ֑ת]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H3407\|יְרִיעֹת֙]] [[H2266\|חִבַּ֔ר]] [[H0259\|אַחַ֖ת]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.9|<< Exodus 36:9]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.11|Exodus 36:11 >>]]</td></tr></table>
 

@@ -1,10 +1,50 @@
+---
+title: Luke 23:52
+type: Verse
+kjv: "This man went unto Pilate, and begged the body of Jesus."
+bsb: "He went to Pilate to ask for the body of Jesus."
+greek: "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ."
+pericope: "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G0154]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Luke 23:52**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [man] went unto Pilate, and begged the body of Jesus.
 <small><sub>**BSB:**</sub></small>
 He went to Pilate to ask for the body of Jesus.
-<small><sub>**Literal:**</sub></small>
-He having gone <the> to Pilate asked [for] the body <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.51|<< Luke 23:51]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.53|Luke 23:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G4334\|προσελθὼν]]  [[G3588\|τῷ]]  [[G4091\|Πιλάτῳ]]  [[G0154\|ᾐτήσατο]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.51|<< Luke 23:51]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.53|Luke 23:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

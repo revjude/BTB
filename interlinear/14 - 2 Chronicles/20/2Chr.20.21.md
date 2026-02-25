@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 20:21
+type: Verse
+kjv: "And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever."
+bsb: "Then Jehoshaphat consulted with the people and appointed those who would sing to the LORD and praise the splendor of His holiness. As they went out before the army, they were singing: “Give thanks to the LORD, for His loving devotion endures forever.”"
+hebrew: "וַיִּוָּעַץ֙ אֶל־ הָעָ֔ם וַיַּעֲמֵ֤ד מְשֹֽׁרֲרִים֙ לַיהוָ֔ה וּֽמְהַֽלְלִ֖ים לְהַדְרַת־ קֹ֑דֶשׁ בְּצֵאת֙ לִפְנֵ֣י הֶֽחָל֔וּץ וְאֹֽמְרִים֙ הוֹד֣וּ לַיהוָ֔ה כִּ֥י לְעוֹלָ֖ם חַסְדּֽוֹ׃"
+pericope: "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic KING|KING]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3289]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5975H]]"
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1984B]]"
+- "[[H1927]]"
+- "[[H6944G]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H6440G]]"
+- "[[H2502B]]"
+- "[[H0559]]"
+- "[[H3034]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:21**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 Then Jehoshaphat consulted with the people and appointed those who would sing to the LORD and praise the splendor of His holiness. As they went out before the army, they were singing: “Give thanks to the LORD, for His loving devotion endures forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3289\|יִּוָּעַץ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַ]][[H5975H\|יַּעֲמֵ֤ד]] [[H7891\|מְשֹֽׁרֲרִים֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9002\|וּֽ]][[H1984B\|מְהַֽלְלִ֖ים]] [[H9005\|לְ]][[H1927\|הַדְרַת]][[H9014\|־]] [[H6944G\|קֹ֑דֶשׁ]] [[H9003\|בְּ]][[H3318G\|צֵאת֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הֶֽ]][[H2502B\|חָל֔וּץ]] [[H9002\|וְ]][[H0559\|אֹֽמְרִים֙]] [[H3034\|הוֹד֣וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic KING|KING]] • [[topic MUSIC|MUSIC]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.20|<< 2 Chronicles 20:20]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.22|2 Chronicles 20:22 >>]]</td></tr></table>
 

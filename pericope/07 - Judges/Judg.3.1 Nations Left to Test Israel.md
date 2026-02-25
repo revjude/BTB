@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nations Left to Test Israel
+type: Pericope
 pericope: "[[Judg.3.1 Nations Left to Test Israel|Nations Left to Test Israel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 3
 book/chapter: "[[Judg.3|Judges 3]]"
-genre:
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 6
 verses:
 - "[[Judg.3.1]]"
 - "[[Judg.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Judg.3.6]]"
 ---
 
-[[Judg.3|Judges 3:1 - Judges 3:6]]
+<small>[[Judg.3|Judges 3:1-6]]</small>
 *Nations Left to Test Israel*
 
 [[Judg.3.1|1]] Now these \[are\] the nations which the LORD left, to prove Israel by them, \[even\] as many \[of Israel\] as had not known all the wars of Canaan;

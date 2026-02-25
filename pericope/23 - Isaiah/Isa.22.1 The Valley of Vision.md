@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Valley of Vision
+type: Pericope
 pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 22
 book/chapter: "[[Isa.22|Isaiah 22]]"
-genre:
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 14
 verses:
 - "[[Isa.22.1]]"
 - "[[Isa.22.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Isa.22.14]]"
 ---
 
-[[Isa.22|Isaiah 22:1 - Isaiah 22:14]]
+<small>[[Isa.22|Isaiah 22:1-14]]</small>
 *The Valley of Vision*
 
 [[Isa.22.1|1]] The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?

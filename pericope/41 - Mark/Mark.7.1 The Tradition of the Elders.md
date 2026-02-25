@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tradition of the Elders
+type: Pericope
 pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Mark
 chapter: 7
 book/chapter: "[[Mark.7|Mark 7]]"
-genre:
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Mark.7.1]]"
 - "[[Mark.7.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Mark.7.13]]"
 ---
 
-[[Mark.7|Mark 7:1 - Mark 7:13]]
+<small>[[Mark.7|Mark 7:1-13]]</small>
 *The Tradition of the Elders*
 
 [[Mark.7.1|1]] Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.

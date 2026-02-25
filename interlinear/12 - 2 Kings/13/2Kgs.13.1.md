@@ -1,8 +1,63 @@
+---
+title: 2 Kings 13:1
+type: Verse
+kjv: "In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years."
+bsb: "In the twenty-third year of the reign of Joash son of Ahaziah over Judah, Jehoahaz son of Jehu became king of Israel, and he reigned in Samaria seventeen years."
+hebrew: "בִּשְׁנַ֨ת עֶשְׂרִ֤ים וְשָׁלֹשׁ֙ שָׁנָ֔ה לְיוֹאָ֥שׁ בֶּן־ אֲחַזְיָ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ יְהוֹאָחָ֨ז בֶּן־ יֵה֤וּא עַל־ יִשְׂרָאֵל֙ בְּשֹׁ֣מְר֔וֹן שְׁבַ֥ע עֶשְׂרֵ֖ה שָׁנָֽה׃"
+pericope: "[[2Kgs.13.1 Jehoahaz Reigns in Israel|Jehoahaz Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H3101I]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0274H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H3059G]]"
+- "[[H3058H]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H8111]]"
+- "[[H7651]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:1**<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, [and reigned] seventeen years.
 <small><sub>**BSB:**</sub></small>
 In the twenty-third year of the reign of Joash son of Ahaziah over Judah, Jehoahaz son of Jehu became king of Israel, and he reigned in Samaria seventeen years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וְ]][[H7969\|שָׁלֹשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H3101I\|יוֹאָ֥שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0274H\|אֲחַזְיָ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H3059G\|יְהוֹאָחָ֨ז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3058H\|יֵה֤וּא]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H8111\|שֹׁ֣מְר֔וֹן]] [[H7651\|שְׁבַ֥ע]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]] • [[topic RULERS|RULERS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.21|<< 2 Kings 12:21]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.2|2 Kings 13:2 >>]]</td></tr></table>
 

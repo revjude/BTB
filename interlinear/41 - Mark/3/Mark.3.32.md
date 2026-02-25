@@ -1,10 +1,58 @@
+---
+title: Mark 3:32
+type: Verse
+kjv: "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee."
+bsb: "and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.”"
+greek: "καὶ ἐκάθητο περὶ αὐτὸν ὄχλος, καὶ λέγουσιν δὲ αὐτῷ· ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου καὶ αἱ ἀδελφαί σου ἔξω ζητοῦσίν σε.¶"
+pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2521]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G0079]]"
+- "[[G1854]]"
+- "[[G2212]]"
+texts:
+- NKO
+- no
+- N(k)O
+- k
+---
+
 **Mark 3:32**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.
 <small><sub>**BSB:**</sub></small>
 and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.”
-<small><sub>**Literal:**</sub></small>
-And was sitting around Him a crowd And they speak now to Him; Behold the mother of You and the brothers of You and the sisters of you outside are seeking You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.31|<< Mark 3:31]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.33|Mark 3:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2521\|ἐκάθητο]]  [[G4012\|περὶ]]  [[G0846\|αὐτὸν]]  [[G3793\|ὄχλος,]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G0079\|ἀδελφαί]]  [[G4771\|σου]]  [[G1854\|ἔξω]]  [[G2212\|ζητοῦσίν]]  [[G4771\|σε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.31|<< Mark 3:31]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.33|Mark 3:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 3:32** is...
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]

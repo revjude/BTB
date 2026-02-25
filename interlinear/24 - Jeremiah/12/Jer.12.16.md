@@ -1,8 +1,66 @@
+---
+title: Jeremiah 12:16
+type: Verse
+kjv: "And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, The LORD liveth; as they taught my people to swear by Baal; then shall they be built in the midst of my people."
+bsb: "And if they will diligently learn the ways of My people and swear by My name, saying, ‘As surely as the LORD lives’—just as they once taught My people to swear by Baal—then they will be established among My people."
+hebrew: "וְהָיָ֡ה אִם־ לָמֹ֣ד יִלְמְדוּ֩ אֶת־ דַּֽרְכֵ֨י עַמִּ֜י לְהִשָּׁבֵ֤עַ בִּשְׁמִי֙ חַי־ יְהוָ֔ה כַּאֲשֶׁ֤ר לִמְּדוּ֙ אֶת־ עַמִּ֔י לְהִשָּׁבֵ֖עַ בַּבָּ֑עַל וְנִבְנ֖וּ בְּת֥וֹךְ עַמִּֽי׃"
+pericope: "[[Jer.12.14 A Message for Israel’s Neighbors|A Message for Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3925H]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1168A]]"
+- "[[H1129]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:16**<big><big>[[Jer.12.14 A Message for Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, The LORD liveth; as they taught my people to swear by Baal; then shall they be built in the midst of my people.
 <small><sub>**BSB:**</sub></small>
 And if they will diligently learn the ways of My people and swear by My name, saying, ‘As surely as the LORD lives’—just as they once taught My people to swear by Baal—then they will be established among My people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3925H\|לָמֹ֣ד]] [[H3925G\|יִלְמְדוּ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּֽרְכֵ֨י]] [[H5971A\|עַמִּ֜]][[H9020\|י]] [[H9005\|לְ]][[H7650\|הִשָּׁבֵ֤עַ]] [[H9003\|בִּ]][[H8034\|שְׁמִ]][[H9020\|י֙]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3925H\|לִמְּדוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9005\|לְ]][[H7650\|הִשָּׁבֵ֖עַ]] [[H9003\|בַּ]][[H1168A\|בָּ֑עַל]] [[H9001\|וְ]][[H1129\|נִבְנ֖וּ]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.15|<< Jeremiah 12:15]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.17|Jeremiah 12:17 >>]]</td></tr></table>
 

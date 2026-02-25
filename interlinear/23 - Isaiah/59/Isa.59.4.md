@@ -1,8 +1,64 @@
+---
+title: Isaiah 59:4
+type: Verse
+kjv: "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity."
+bsb: "No one calls for justice; no one pleads his case honestly. They rely on empty pleas; they tell lies; they conceive mischief and give birth to iniquity."
+hebrew: "אֵין־ קֹרֵ֣א בְצֶ֔דֶק וְאֵ֥ין נִשְׁפָּ֖ט בֶּאֱמוּנָ֑ה בָּט֤וֹחַ עַל־ תֹּ֙הוּ֙ וְדַבֶּר־ שָׁ֔וְא הָר֥וֹ עָמָ֖ל וְהוֹלֵ֥יד אָֽוֶן׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H8199]]"
+- "[[H0530]]"
+- "[[H0982]]"
+- "[[H5921A]]"
+- "[[H8414]]"
+- "[[H1696G]]"
+- "[[H7723G]]"
+- "[[H2029]]"
+- "[[H5999]]"
+- "[[H3205]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:4**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None calleth for justice, nor [any] pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.
 <small><sub>**BSB:**</sub></small>
 No one calls for justice; no one pleads his case honestly. They rely on empty pleas; they tell lies; they conceive mischief and give birth to iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵין]][[H9014\|־]] [[H7121G\|קֹרֵ֣א]] [[H9003\|בְ]][[H6664G\|צֶ֔דֶק]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H8199\|נִשְׁפָּ֖ט]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָ֑ה]] [[H0982\|בָּט֤וֹחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H8414\|תֹּ֙הוּ֙]] [[H9002\|וְ]][[H1696G\|דַבֶּר]][[H9014\|־]] [[H7723G\|שָׁ֔וְא]] [[H2029\|הָר֥וֹ]] [[H5999\|עָמָ֖ל]] [[H9002\|וְ]][[H3205\|הוֹלֵ֥יד]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic TRUTH|TRUTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.3|<< Isaiah 59:3]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.5|Isaiah 59:5 >>]]</td></tr></table>
 

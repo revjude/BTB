@@ -1,10 +1,50 @@
+---
+title: Mark 5:24
+type: Verse
+kjv: "And Jesus went with him; and much people followed him, and thronged him."
+bsb: "So Jesus went with him, and a large crowd followed and pressed around Him."
+greek: "Καὶ ἀπῆλθεν μετ᾽ αὐτοῦ, καὶ ἠκολούθει αὐτῷ ὄχλος πολὺς καὶ συνέθλιβον αὐτόν.¶"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G0190]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G4918]]"
+texts:
+- NKO
+---
+
 **Mark 5:24**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [Jesus] went with him; and much people followed him, and thronged him.
 <small><sub>**BSB:**</sub></small>
 So Jesus went with him, and a large crowd followed and pressed around Him.
-<small><sub>**Literal:**</sub></small>
-And He departed with him, And was following Him a crowd great and were pressing in on Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.23|<< Mark 5:23]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.25|Mark 5:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθει]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλος]]  [[G4183\|πολὺς]]  [[G2532\|καὶ]]  [[G4918\|συνέθλιβον]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.23|<< Mark 5:23]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.25|Mark 5:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

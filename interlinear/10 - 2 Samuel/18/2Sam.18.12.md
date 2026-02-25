@@ -1,8 +1,82 @@
+---
+title: 2 Samuel 18:12
+type: Verse
+kjv: "And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom."
+bsb: "The man replied, “Even if a thousand shekels of silver were weighed out into my hands, I would not raise my hand against the son of the king. For we heard the king command you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’"
+hebrew: "וַיֹּ֤אמֶר הָאִישׁ֙ אֶל־ יוֹאָ֔ב וְל֨וּא אָנֹכִ֜י שֹׁקֵ֤ל עַל־ כַּפַּי֙ אֶ֣לֶף כֶּ֔סֶף לֹֽא־ אֶשְׁלַ֥ח יָדִ֖י אֶל־ בֶּן־ הַמֶּ֑לֶךְ כִּ֣י בְאָזְנֵ֜ינוּ צִוָּ֣ה הַמֶּ֗לֶךְ אֹ֠תְךָ וְאֶת־ אֲבִישַׁ֤י וְאֶת־ אִתַּי֙ לֵאמֹ֔ר שִׁמְרוּ־ מִ֕י בַּנַּ֖עַר בְּאַבְשָׁלֽוֹם׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H3863]]"
+- "[[H0595]]"
+- "[[H8254]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H9020]]"
+- "[[H0505G]]"
+- "[[H3701G]]"
+- "[[H3808]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9025]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H0052]]"
+- "[[H0863G]]"
+- "[[H9005]]"
+- "[[H8104H]]"
+- "[[H4310]]"
+- "[[H5288]]"
+- "[[H0053]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Samuel 18:12**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man said unto Joab, Though I should receive a thousand [shekels] of silver in mine hand, [yet] would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none [touch] the young man Absalom.
 <small><sub>**BSB:**</sub></small>
 The man replied, “Even if a thousand shekels of silver were weighed out into my hands, I would not raise my hand against the son of the king. For we heard the king command you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H9002\|וְ]][[H3863\|ל֨וּא]] [[H0595\|אָנֹכִ֜י]] [[H8254\|שֹׁקֵ֤ל]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּפַּ]][[H9020\|י֙]] [[H0505G\|אֶ֣לֶף]] [[H3701G\|כֶּ֔סֶף]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7971K\|אֶשְׁלַ֥ח]] [[H3027G\|יָדִ֖]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H0241H\|אָזְנֵ֜י]][[H9025\|נוּ]] [[H6680\|צִוָּ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0853\|אֹ֠תְ]][[H9031\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0052\|אֲבִישַׁ֤י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0863G\|אִתַּי֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H8104H\|שִׁמְרוּ]][[H9014\|־]] [[H4310\|מִ֕י]] [[H9003\|בַּ]][[H5288\|נַּ֖עַר]] [[H9003\|בְּ]][[H0053\|אַבְשָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic CITIZENS|CITIZENS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic LOYALTY|LOYALTY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.11|<< 2 Samuel 18:11]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.13|2 Samuel 18:13 >>]]</td></tr></table>
 

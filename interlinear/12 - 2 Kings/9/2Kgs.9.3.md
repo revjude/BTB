@@ -1,8 +1,72 @@
+---
+title: 2 Kings 9:3
+type: Verse
+kjv: "Then take the box of oil, and pour it on his head, and say, Thus saith the LORD, I have anointed thee king over Israel. Then open the door, and flee, and tarry not."
+bsb: "Then take the flask of oil, pour it on his head, and declare, ‘This is what the LORD says: I anoint you king over Israel.’ Then open the door and run. Do not delay!”"
+hebrew: "וְלָקַחְתָּ֤ פַךְ־ הַשֶּׁ֙מֶן֙ וְיָצַקְתָּ֣ עַל־ רֹאשׁ֔וֹ וְאָֽמַרְתָּ֙ כֹּֽה־ אָמַ֣ר יְהוָ֔ה מְשַׁחְתִּ֥יךָֽ לְמֶ֖לֶךְ אֶל־ יִשְׂרָאֵ֑ל וּפָתַחְתָּ֥ הַדֶּ֛לֶת וְנַ֖סְתָּה וְלֹ֥א תְחַכֶּֽה׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BOX|BOX]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H6378]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8081]]"
+- "[[H3332G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H4886]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H3478]]"
+- "[[H6605A]]"
+- "[[H1817C]]"
+- "[[H5127]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:3**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then take the box of oil, and pour [it] on his head, and say, Thus saith the LORD, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.
 <small><sub>**BSB:**</sub></small>
 Then take the flask of oil, pour it on his head, and declare, ‘This is what the LORD says: I anoint you king over Israel.’ Then open the door and run. Do not delay!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֤]] [[H6378\|פַךְ]][[H9014\|־]] [[H9009\|הַ]][[H8081\|שֶּׁ֙מֶן֙]] [[H9001\|וְ]][[H3332G\|יָצַקְתָּ֣]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H4886\|מְשַׁחְתִּ֥י]][[H9031\|ךָֽ]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וּ]][[H6605A\|פָתַחְתָּ֥]] [[H9009\|הַ]][[H1817C\|דֶּ֛לֶת]] [[H9001\|וְ]][[H5127\|נַ֖סְתָּה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2442\|תְחַכֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BOX|BOX]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ELISHA|ELISHA]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.2|<< 2 Kings 9:2]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.4|2 Kings 9:4 >>]]</td></tr></table>
 

@@ -1,10 +1,72 @@
+---
+title: Matthew 25:45
+type: Verse
+kjv: "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+bsb: "Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’"
+jesus_said: "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+greek: "Τότε ἀποκριθήσεται αὐτοῖς λέγων· ἀμὴν λέγω ὑμῖν· ἐφ᾽ ὅσον οὐκ ἐποιήσατε ἑνὶ τούτων τῶν ἐλαχίστων, οὐδὲ ἐμοὶ ἐποιήσατε."
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0281]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G3745]]"
+- "[[G3756]]"
+- "[[G4160G]]"
+- "[[G1520]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1646]]"
+- "[[G3761]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Matthew 25:45**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did [it] not to one of the least of these, ye did [it] not to me.
 <small><sub>**BSB:**</sub></small>
 Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’
-<small><sub>**Literal:**</sub></small>
-Then will He answer to them saying; Amen I say to you; to the extent as much as not you did [it] to one of these the least, neither to Me myself did you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.44|<< Matthew 25:44]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.46|Matthew 25:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀποκριθήσεται]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1909\|ἐφ᾽]]  [[G3745\|ὅσον]]  [[G3756\|οὐκ]]  [[G4160G\|ἐποιήσατε]]  [[G1520\|ἑνὶ]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G1646\|ἐλαχίστων,]]  [[G3761\|οὐδὲ]]  [[G1473\|ἐμοὶ]]  [[G4160G\|ἐποιήσατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POOR|POOR]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.44|<< Matthew 25:44]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.46|Matthew 25:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

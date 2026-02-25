@@ -1,6 +1,63 @@
+---
+title: LXX 1 Chronicles 15:2
+type: Verse
+lxx: "Then said David, No one is to lift the ark  of God except the Levites; for the lord chose them to lift the ark of the lord, and to officiate to him unto the eon."
+greek: "τότε είπε Δαυίδ ουκ έστιν αίρειν την κιβωτόν του θεού αλλ΄ η τους Λευίτας ότι αυτούς εξελέξατο ο κύριος αίρειν την κιβωτόν κυρίου και λειτουργείν αυτώ έως αιώνος"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[G5119]]"
+- "[[G2036]]"
+- "[[G4622]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G6227]]"
+- "[[G3588]]"
+- "[[G3017]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G1586]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3008]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G0165]]"
+---
+
 **LXX 1 Chronicles 15:2** 
 <small><sub>**LXX:**</sub></small>
 Then said David, No one is to lift the ark  of God except the Levites; for the <span class="smallcaps">lord</span> chose them to lift the ark of \[the\] <span class="smallcaps">lord</span>, and to officiate to him unto \[the\] eon. 
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]] [[G2036\|είπε]] [[G4622\|Δαυίδ]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G0142\|αίρειν]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G3588\|του]] [[G2316\|θεού]] [[G6227\|αλλ΄ η]] [[G3588\|τους]] [[G3017\|Λευίτας]] [[G3754\|ότι]] [[G1473\|αυτούς]] [[G1586\|εξελέξατο]] [[G3588\|ο]] [[G2962\|κύριος]] [[G0142\|αίρειν]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3008\|λειτουργείν]] [[G1473\|αυτώ]] [[G2193\|έως]] [[G0165\|αιώνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.1|<< 1 Chronicles 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.3|1 Chronicles 15:3 >>]]</td></tr></table>
 
@@ -32,6 +89,6 @@ Then said David, No one is to lift the ark  of God except the Levites; for the <
 | to him | **<big>[[G1473\|αυτώ]]</big>** |
 | unto | **<big>[[G2193\|έως]]</big>** |
 | \[the\] eon. | **<big>[[G0165\|αιώνος]]</big>** |
-[[1Chr.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.1|<< 1 Chronicles 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.3|1 Chronicles 15:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.1|<< 1 Chronicles 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.3|1 Chronicles 15:3 >>]]</td></tr></table>
 
 

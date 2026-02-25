@@ -1,8 +1,54 @@
+---
+title: Psalm 88:2
+type: Verse
+kjv: "Let my prayer come before thee: incline thine ear unto my cry;"
+bsb: "May my prayer come before You; incline Your ear to my cry."
+hebrew: "תָּב֣וֹא לְ֭פָנֶיךָ תְּפִלָּתִ֑י הַטֵּֽה־ אָ֝זְנְךָ֗ לְרִנָּתִֽי׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H8605]]"
+- "[[H9020]]"
+- "[[H5186]]"
+- "[[H9014]]"
+- "[[H0241G]]"
+- "[[H7440]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:2**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let my prayer come before thee: incline thine ear unto my cry;
 <small><sub>**BSB:**</sub></small>
 May my prayer come before You; incline Your ear to my cry.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|תָּב֣וֹא]] [[H9005\|לְ֭]][[H6440G\|פָנֶי]][[H9021\|ךָ]] [[H8605\|תְּפִלָּתִ֑]][[H9020\|י]] [[H5186\|הַטֵּֽה]][[H9014\|־]] [[H0241G\|אָ֝זְנְ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H7440\|רִנָּתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.1|<< Psalms 88:1]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.3|Psalms 88:3 >>]]</td></tr></table>
 

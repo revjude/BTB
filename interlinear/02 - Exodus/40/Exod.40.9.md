@@ -1,8 +1,68 @@
+---
+title: Exodus 40:9
+type: Verse
+kjv: "And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy."
+bsb: "Take the anointing oil and anoint the tabernacle and everything in it; consecrate it along with all its furnishings, and it shall be holy."
+hebrew: "וְלָקַחְתָּ֙ אֶת־ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וּמָשַׁחְתָּ֥ אֶת־ הַמִּשְׁכָּ֖ן וְאֶת־ כָּל־ אֲשֶׁר־ בּ֑וֹ וְקִדַּשְׁתָּ֥ אֹת֛וֹ וְאֶת־ כָּל־ כֵּלָ֖יו וְהָ֥יָה קֹֽדֶשׁ׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H9009]]"
+- "[[H4888A]]"
+- "[[H4886]]"
+- "[[H4908]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6942G]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:9**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the anointing oil, and anoint the tabernacle, and all that [is] therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.
 <small><sub>**BSB:**</sub></small>
 Take the anointing oil and anoint the tabernacle and everything in it; consecrate it along with all its furnishings, and it shall be holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8081\|שֶׁ֣מֶן]] [[H9009\|הַ]][[H4888A\|מִּשְׁחָ֔ה]] [[H9001\|וּ]][[H4886\|מָשַׁחְתָּ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֥]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H1961\|הָ֥יָה]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.8|<< Exodus 40:8]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.10|Exodus 40:10 >>]]</td></tr></table>
 

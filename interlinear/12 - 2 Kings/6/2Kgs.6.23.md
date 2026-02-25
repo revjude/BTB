@@ -1,8 +1,70 @@
+---
+title: 2 Kings 6:23
+type: Verse
+kjv: "And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel."
+bsb: "So the king prepared a great feast for them, and after they had finished eating and drinking, he sent them away, and they returned to their master. And the Aramean raiders did not come into the land of Israel again."
+hebrew: "וַיִּכְרֶ֨ה לָהֶ֜ם כֵּרָ֣ה גְדוֹלָ֗ה וַיֹּֽאכְלוּ֙ וַיִּשְׁתּ֔וּ וַֽיְשַׁלְּחֵ֔ם וַיֵּלְכ֖וּ אֶל־ אֲדֹֽנֵיהֶ֑ם וְלֹֽא־ יָ֤סְפוּ עוֹד֙ גְּדוּדֵ֣י אֲרָ֔ם לָב֖וֹא בְּאֶ֥רֶץ יִשְׂרָאֵֽל׃ פ"
+pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3739B]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3740]]"
+- "[[H1419A]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H7971G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H1416]]"
+- "[[H0758I]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 6:23**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
 <small><sub>**BSB:**</sub></small>
 So the king prepared a great feast for them, and after they had finished eating and drinking, he sent them away, and they returned to their master. And the Aramean raiders did not come into the land of Israel again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3739B\|יִּכְרֶ֨ה]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H3740\|כֵּרָ֣ה]] [[H1419A\|גְדוֹלָ֗ה]] [[H9001\|וַ]][[H0398\|יֹּֽאכְלוּ֙]] [[H9001\|וַ]][[H8354\|יִּשְׁתּ֔וּ]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּחֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹֽנֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יָ֤סְפוּ]] [[H5750\|עוֹד֙]] [[H1416\|גְּדוּדֵ֣י]] [[H0758I\|אֲרָ֔ם]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic ISRAEL|ISRAEL]] • [[topic JORAM|JORAM]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.22|<< 2 Kings 6:22]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.24|2 Kings 6:24 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ So the king prepared a great feast for them, and after they had finished eating 
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֔ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to come  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0935G\|ב֖וֹא]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.22|<< 2 Kings 6:22]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.24|2 Kings 6:24 >>]]</td></tr></table>
 
 

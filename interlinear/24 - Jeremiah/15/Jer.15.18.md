@@ -1,8 +1,62 @@
+---
+title: Jeremiah 15:18
+type: Verse
+kjv: "Why is my pain perpetual, and my wound incurable, which refuseth to be healed? wilt thou be altogether unto me as a liar, and as waters that fail?"
+bsb: "Why is my pain unending, and my wound incurable, refusing to be healed? You have indeed become like a mirage to me—water that is not there."
+hebrew: "לָ֣מָּה הָיָ֤ה כְאֵבִי֙ נֶ֔צַח וּמַכָּתִ֖י אֲנוּשָׁ֑ה֙ מֵֽאֲנָה֙ הֵֽרָפֵ֔א הָי֨וֹ תִֽהְיֶ֥ה לִי֙ כְּמ֣וֹ אַכְזָ֔ב מַ֖יִם לֹ֥א נֶאֱמָֽנוּ׃ ס"
+pericope: "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H3511]]"
+- "[[H9020]]"
+- "[[H5331]]"
+- "[[H9002]]"
+- "[[H4347]]"
+- "[[H0605]]"
+- "[[H3985]]"
+- "[[H7495]]"
+- "[[H9030]]"
+- "[[H3644G]]"
+- "[[H0391]]"
+- "[[H4325G]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 15:18**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why is my pain perpetual, and my wound incurable, [which] refuseth to be healed? wilt thou be altogether unto me as a liar, [and as] waters [that] fail?
 <small><sub>**BSB:**</sub></small>
 Why is my pain unending, and my wound incurable, refusing to be healed? You have indeed become like a mirage to me—water that is not there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֣]][[H4100\|מָּה]] [[H1961\|הָיָ֤ה]] [[H3511\|כְאֵבִ]][[H9020\|י֙]] [[H5331\|נֶ֔צַח]] [[H9002\|וּ]][[H4347\|מַכָּתִ֖]][[H9020\|י]] [[H0605\|אֲנוּשָׁ֑ה֙]] [[H3985\|מֵֽאֲנָה֙]] [[H7495\|הֵֽרָפֵ֔א]] [[H1961\|הָי֨וֹ]] [[H1961\|תִֽהְיֶ֥ה]] [[H9005\|לִ]][[H9030\|י֙]] [[H3644G\|כְּמ֣וֹ]] [[H0391\|אַכְזָ֔ב]] [[H4325G\|מַ֖יִם]] [[H3808\|לֹ֥א]] [[H0539\|נֶאֱמָֽנוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.17|<< Jeremiah 15:17]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.19|Jeremiah 15:19 >>]]</td></tr></table>
 
@@ -23,7 +77,7 @@ Why is my pain unending, and my wound incurable, refusing to be healed? You have
 | a deceitful thing  |**<big>&#8207;[[H0391\|אַכְזָ֔ב]]&#8207; </big>**| 'akh.Zav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | waters  |**<big>&#8207;[[H4325G\|מַ֖יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they are reliable  |**<big>&#8207;[[H0539\|נֶאֱמָֽנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.'e.Ma.nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they are reliable  |**<big>&#8207;[[H0539\|נֶאֱמָֽנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.'e.Ma.nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.17|<< Jeremiah 15:17]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.19|Jeremiah 15:19 >>]]</td></tr></table>
 
 

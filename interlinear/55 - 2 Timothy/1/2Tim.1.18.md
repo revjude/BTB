@@ -1,10 +1,61 @@
+---
+title: 2 Timothy 1:18
+type: Verse
+kjv: "The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well."
+bsb: "May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus."
+greek: "δῴη αὐτῷ ὁ κύριος εὑρεῖν ἔλεος παρὰ κυρίου ἐν ἐκείνῃ τῇ ἡμέρᾳ. καὶ ὅσα ἐν Ἐφέσῳ διηκόνησεν, βέλτιον σὺ γινώσκεις.¶"
+pericope: "[[2Tim.1.13 Holding to Sound Teaching|Holding to Sound Teaching]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2147]]"
+- "[[G1656]]"
+- "[[G3844]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3745]]"
+- "[[G2181]]"
+- "[[G1247]]"
+- "[[G0957]]"
+- "[[G4771]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:18**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
 <small><sub>**BSB:**</sub></small>
 May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus.
-<small><sub>**Literal:**</sub></small>
-would grant unto him the Lord to find mercy from [the] Lord in that [very] <the> day! And how much in Ephesus he served very well you yourself know.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.17|<< 2 Timothy 1:17]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.1|2 Timothy 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δῴη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2147\|εὑρεῖν]]  [[G1656\|ἔλεος]]  [[G3844\|παρὰ]]  [[G2962G\|κυρίου]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ.]]  [[G2532\|καὶ]]  [[G3745\|ὅσα]]  [[G1722\|ἐν]]  [[G2181\|Ἐφέσῳ]]  [[G1247\|διηκόνησεν,]]  [[G0957\|βέλτιον]]  [[G4771\|σὺ]]  [[G1097\|γινώσκεις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EPHESUS|EPHESUS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KINDNESS|KINDNESS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.17|<< 2 Timothy 1:17]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.1|2 Timothy 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

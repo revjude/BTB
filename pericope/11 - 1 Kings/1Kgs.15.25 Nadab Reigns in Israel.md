@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nadab Reigns in Israel
+type: Pericope
 pericope: "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 15
 book/chapter: "[[1Kgs.15|1 Kings 15]]"
-genre:
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.15.25]]"
 - "[[1Kgs.15.26]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.15.32]]"
 ---
 
-[[1Kgs.15|1 Kings 15:25 - 1 Kings 15:32]]
+<small>[[1Kgs.15|1 Kings 15:25-32]]</small>
 *Nadab Reigns in Israel*
 
 [[1Kgs.15.25|25]] And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.

@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 14:17
+type: Verse
+kjv: "Then said Saul unto the people that were with him, Number now, and see who is gone from us. And when they had numbered, behold, Jonathan and his armourbearer were not there."
+bsb: "Saul said to the troops who were with him, “Call the roll and see who has left us.” And when they had called the roll, they saw that Jonathan and his armor-bearer were not there."
+hebrew: "וַיֹּ֣אמֶר שָׁא֗וּל לָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ פִּקְדוּ־ נָ֣א וּרְא֔וּ מִ֖י הָלַ֣ךְ מֵעִמָּ֑נוּ וַֽיִּפְקְד֔וּ וְהִנֵּ֛ה אֵ֥ין יוֹנָתָ֖ן וְנֹשֵׂ֥א כֵלָֽיו׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MUSTER|MUSTER]]"
+- "[[topic PANIC|PANIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6485A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H4310]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9035]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H3129N]]"
+- "[[H5375W]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:17**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Saul unto the people that [were] with him, Number now, and see who is gone from us. And when they had numbered, behold, Jonathan and his armourbearer [were] not [there].
 <small><sub>**BSB:**</sub></small>
 Saul said to the troops who were with him, “Call the roll and see who has left us.” And when they had called the roll, they saw that Jonathan and his armor-bearer were not there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7586G\|שָׁא֗וּל]] [[H9005\|לָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H6485A\|פִּקְדוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9002\|וּ]][[H7200G\|רְא֔וּ]] [[H4310\|מִ֖י]] [[H1980G\|הָלַ֣ךְ]] [[H9006\|מֵ]][[H5973B\|עִמָּ֑]][[H9035\|נוּ]] [[H9001\|וַֽ]][[H6485A\|יִּפְקְד֔וּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H0369\|אֵ֥ין]] [[H3129N\|יוֹנָתָ֖ן]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֥א]] [[H3627\|כֵלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic JONATHAN|JONATHAN]] • [[topic MUSTER|MUSTER]] • [[topic PANIC|PANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.16|<< 1 Samuel 14:16]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.18|1 Samuel 14:18 >>]]</td></tr></table>
 

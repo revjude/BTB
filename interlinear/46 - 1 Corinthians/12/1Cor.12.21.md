@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 12:21
+type: Verse
+kjv: "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+bsb: "The eye cannot say to the hand, “I do not need you.” Nor can the head say to the feet, “I do not need you.”"
+greek: "οὐ δύναται δὲ ὁ ὀφθαλμὸς εἰπεῖν τῇ χειρί· χρείαν σου οὐκ ἔχω, ἢ πάλιν ἡ κεφαλὴ τοῖς ποσίν· χρείαν ὑμῶν οὐκ ἔχω·"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G2036]]"
+- "[[G5495]]"
+- "[[G5532]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G2228]]"
+- "[[G3825]]"
+- "[[G2776]]"
+- "[[G4228]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:21**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.
 <small><sub>**BSB:**</sub></small>
 The eye cannot say to the hand, “I do not need you.” Nor can the head say to the feet, “I do not need you.”
-<small><sub>**Literal:**</sub></small>
-Not is able now the eye to say to the hand; Need of you not I have, Or again the head to the feet; Need of you not I have;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.20|<< 1 Corinthians 12:20]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.22|1 Corinthians 12:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμὸς]]  [[G2036\|εἰπεῖν]]  [[G3588\|τῇ]]  [[G5495\|χειρί·]]  [[G5532\|χρείαν]]  [[G4771\|σου]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω,]]  [[G2228\|ἢ]]  [[G3825\|πάλιν]]  [[G3588\|ἡ]]  [[G2776\|κεφαλὴ]]  [[G3588\|τοῖς]]  [[G4228\|ποσίν·]]  [[G5532\|χρείαν]]  [[G4771\|ὑμῶν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.20|<< 1 Corinthians 12:20]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.22|1 Corinthians 12:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

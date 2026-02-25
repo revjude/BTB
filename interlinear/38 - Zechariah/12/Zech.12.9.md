@@ -1,8 +1,60 @@
+---
+title: Zechariah 12:9
+type: Verse
+kjv: "And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem."
+bsb: "So on that day I will set out to destroy all the nations that come against Jerusalem."
+hebrew: "וְהָיָ֖ה בַּיּ֣וֹם הַה֑וּא אֲבַקֵּ֗שׁ לְהַשְׁמִיד֙ אֶת־ כָּל־ הַגּוֹיִ֔ם הַבָּאִ֖ים עַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:9**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] I will seek to destroy all the nations that come against Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So on that day I will set out to destroy all the nations that come against Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H1245\|אֲבַקֵּ֗שׁ]] [[H9005\|לְ]][[H8045\|הַשְׁמִיד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.8|<< Zechariah 12:8]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.10|Zechariah 12:10 >>]]</td></tr></table>
 

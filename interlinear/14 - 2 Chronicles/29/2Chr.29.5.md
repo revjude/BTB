@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 29:5
+type: Verse
+kjv: "And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place."
+bsb: "“Listen to me, O Levites,” he said. “Consecrate yourselves now and consecrate the house of the LORD, the God of your fathers. Remove from the Holy Place every impurity."
+hebrew: "וַיֹּ֥אמֶר לָהֶ֖ם שְׁמָע֣וּנִי הַלְוִיִּ֑ם עַתָּ֣ה הִֽתְקַדְּשׁ֗וּ וְקַדְּשׁוּ֙ אֶת־ בֵּ֤ית יְהוָה֙ אֱלֹהֵ֣י אֲבֹתֵיכֶ֔ם וְהוֹצִ֥יאוּ אֶת־ הַנִּדָּ֖ה מִן־ הַקֹּֽדֶשׁ׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H6258]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H3318H]]"
+- "[[H5079]]"
+- "[[H4480A]]"
+- "[[H6944J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:5**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy [place].
 <small><sub>**BSB:**</sub></small>
 “Listen to me, O Levites,” he said. “Consecrate yourselves now and consecrate the house of the LORD, the God of your fathers. Remove from the Holy Place every impurity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H8085G\|שְׁמָע֣וּ]][[H9030\|נִי]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H6258\|עַתָּ֣ה]] [[H6942G\|הִֽתְקַדְּשׁ֗וּ]] [[H9002\|וְ]][[H6942G\|קַדְּשׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֤ית]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3318H\|הוֹצִ֥יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5079\|נִּדָּ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.4|<< 2 Chronicles 29:4]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.6|2 Chronicles 29:6 >>]]</td></tr></table>
 

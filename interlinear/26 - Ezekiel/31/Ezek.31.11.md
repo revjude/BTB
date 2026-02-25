@@ -1,8 +1,58 @@
+---
+title: Ezekiel 31:11
+type: Verse
+kjv: "I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness."
+bsb: "I delivered it into the hand of the ruler of the nations, for him to deal with it according to its wickedness. I have banished it."
+hebrew: "וְאֶ֨תְּנֵ֔הוּ בְּיַ֖ד אֵ֣יל גּוֹיִ֑ם עָשׂ֤וֹ יַֽעֲשֶׂה֙ ל֔וֹ כְּרִשְׁע֖וֹ גֵּרַשְׁתִּֽהוּ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0352C]]"
+- "[[H1471A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9004]]"
+- "[[H7562]]"
+- "[[H9023]]"
+- "[[H1644G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:11**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.
 <small><sub>**BSB:**</sub></small>
 I delivered it into the hand of the ruler of the nations, for him to deal with it according to its wickedness. I have banished it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|אֶ֨תְּנֵ֔]][[H9033\|הוּ]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H0352C\|אֵ֣יל]] [[H1471A\|גּוֹיִ֑ם]] [[H6213A\|עָשׂ֤וֹ]] [[H6213A\|יַֽעֲשֶׂה֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9004\|כְּ]][[H7562\|רִשְׁע֖]][[H9023\|וֹ]] [[H1644G\|גֵּרַשְׁתִּֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.10|<< Ezekiel 31:10]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.12|Ezekiel 31:12 >>]]</td></tr></table>
 

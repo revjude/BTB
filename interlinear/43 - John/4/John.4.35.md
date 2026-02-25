@@ -1,10 +1,66 @@
+---
+title: John 4:35
+type: Verse
+kjv: "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
+bsb: "Do you not say, ‘There are still four months until the harvest’? I tell you, lift up your eyes and look at the fields, for they are ripe for harvest."
+jesus_said: "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
+greek: "οὐχ ὑμεῖς λέγετε ὅτι ἔτι τετράμηνός ἐστιν καὶ ὁ θερισμὸς ἔρχεται; ἰδοὺ λέγω ὑμῖν· ἐπάρατε τοὺς ὀφθαλμοὺς ὑμῶν καὶ θεάσασθε τὰς χώρας ὅτι λευκαί εἰσιν πρὸς θερισμόν ἤδη."
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2089]]"
+- "[[G5072]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2326]]"
+- "[[G2064]]"
+- "[[G2400]]"
+- "[[G1869]]"
+- "[[G3788]]"
+- "[[G2300]]"
+- "[[G5561]]"
+- "[[G3022]]"
+- "[[G4314]]"
+- "[[G2235]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:35**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Say not ye, There are yet four months, and [then] cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 <small><sub>**BSB:**</sub></small>
 Do you not say, ‘There are still four months until the harvest’? I tell you, lift up your eyes and look at the fields, for they are ripe for harvest.
-<small><sub>**Literal:**</sub></small>
-Surely you yourselves say that yet four months it is and the harvest comes? Behold I say to you; do lift up the eyes of you and do see the fields because white they are toward harvest already!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.34|<< John 4:34]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.36|John 4:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G4771\|ὑμεῖς]]  [[G3004G\|λέγετε]]  [[G3754G\|ὅτι]]  [[G2089\|ἔτι]]  [[G5072\|τετράμηνός]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2326\|θερισμὸς]]  [[G2064\|ἔρχεται;]]  [[G2400\|ἰδοὺ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1869\|ἐπάρατε]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G2300\|θεάσασθε]]  [[G3588\|τὰς]]  [[G5561\|χώρας]]  [[G3754G\|ὅτι]]  [[G3022\|λευκαί]]  [[G1510\|εἰσιν]]  [[G4314\|πρὸς]]  [[G2326\|θερισμόν]]  [[G2235\|ἤδη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.34|<< John 4:34]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.36|John 4:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

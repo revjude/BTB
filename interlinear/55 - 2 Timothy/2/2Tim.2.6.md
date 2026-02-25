@@ -1,10 +1,49 @@
+---
+title: 2 Timothy 2:6
+type: Verse
+kjv: "The husbandman that laboureth must be first partaker of the fruits."
+bsb: "The hardworking farmer should be the first to partake of the crops."
+greek: "τὸν κοπιῶντα γεωργὸν δεῖ πρῶτον τῶν καρπῶν μεταλαμβάνειν·"
+pericope: "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G2872]]"
+- "[[G1092]]"
+- "[[G1163]]"
+- "[[G4413G]]"
+- "[[G2590]]"
+- "[[G3335]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:6**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The husbandman that laboureth must be first partaker of the fruits.
 <small><sub>**BSB:**</sub></small>
 The hardworking farmer should be the first to partake of the crops.
-<small><sub>**Literal:**</sub></small>
-For the hardworking farmer it is necessary first of the fruits to partake;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.5|<< 2 Timothy 2:5]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.7|2 Timothy 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G2872\|κοπιῶντα]]  [[G1092\|γεωργὸν]]  [[G1163\|δεῖ]]  [[G4413G\|πρῶτον]]  [[G3588\|τῶν]]  [[G2590\|καρπῶν]]  [[G3335\|μεταλαμβάνειν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARABLES|PARABLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.5|<< 2 Timothy 2:5]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.7|2 Timothy 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

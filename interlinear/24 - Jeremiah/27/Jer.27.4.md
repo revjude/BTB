@@ -1,8 +1,66 @@
+---
+title: Jeremiah 27:4
+type: Verse
+kjv: "And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;"
+bsb: "Give them a message from the LORD of Hosts, the God of Israel, to relay to their masters:"
+hebrew: "וְצִוִּיתָ֣ אֹתָ֔ם אֶל־ אֲדֹֽנֵיהֶ֖ם לֵאמֹ֑ר כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל כֹּ֥ה תֹֽאמְר֖וּ אֶל־ אֲדֹֽנֵיכֶֽם׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:4**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;
 <small><sub>**BSB:**</sub></small>
 Give them a message from the LORD of Hosts, the God of Israel, to relay to their masters:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוִּיתָ֣]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹֽנֵי]][[H9028\|הֶ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3541\|כֹּ֥ה]] [[H0559\|תֹֽאמְר֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹֽנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic BLESSING|BLESSING]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.3|<< Jeremiah 27:3]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.5|Jeremiah 27:5 >>]]</td></tr></table>
 

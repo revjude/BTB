@@ -1,8 +1,64 @@
+---
+title: Isaiah 42:3
+type: Verse
+kjv: "A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth."
+bsb: "A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice."
+hebrew: "קָנֶ֤ה רָצוּץ֙ לֹ֣א יִשְׁבּ֔וֹר וּפִשְׁתָּ֥ה כֵהָ֖ה לֹ֣א יְכַבֶּ֑נָּה לֶאֱמֶ֖ת יוֹצִ֥יא מִשְׁפָּֽט׃"
+pericope: "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FLAX|FLAX]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H7070H]]"
+- "[[H7533]]"
+- "[[H3808]]"
+- "[[H7665]]"
+- "[[H9002]]"
+- "[[H6594]]"
+- "[[H3544]]"
+- "[[H3518]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H0571G]]"
+- "[[H3318H]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:3**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.
 <small><sub>**BSB:**</sub></small>
 A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice.
+<small><sub>**Hebrew:**</sub></small>
+[[H7070H\|קָנֶ֤ה]] [[H7533\|רָצוּץ֙]] [[H3808\|לֹ֣א]] [[H7665\|יִשְׁבּ֔וֹר]] [[H9002\|וּ]][[H6594\|פִשְׁתָּ֥ה]] [[H3544\|כֵהָ֖ה]] [[H3808\|לֹ֣א]] [[H3518\|יְכַבֶּ֑]][[H9034\|נָּה]] [[H9005\|לֶ]][[H0571G\|אֱמֶ֖ת]] [[H3318H\|יוֹצִ֥יא]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic FLAX|FLAX]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.2|<< Isaiah 42:2]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.4|Isaiah 42:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

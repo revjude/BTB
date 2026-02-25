@@ -1,8 +1,75 @@
+---
+title: Genesis 27:36
+type: Verse
+kjv: "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
+bsb: "So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”"
+hebrew: "וַיֹּ֡אמֶר הֲכִי֩ קָרָ֨א שְׁמ֜וֹ יַעֲקֹ֗ב וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם אֶת־ בְּכֹרָתִ֣י לָקָ֔ח וְהִנֵּ֥ה עַתָּ֖ה לָקַ֣ח בִּרְכָתִ֑י וַיֹּאמַ֕ר הֲלֹא־ אָצַ֥לְתָּ לִּ֖י בְּרָכָֽה׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3588A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3290]]"
+- "[[H6117]]"
+- "[[H9030]]"
+- "[[H2088]]"
+- "[[H6471]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1062]]"
+- "[[H9020]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6258]]"
+- "[[H1293]]"
+- "[[H3808]]"
+- "[[H0680]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:36**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?
 <small><sub>**BSB:**</sub></small>
 So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H9008\|הֲ]][[H3588A\|כִי֩]] [[H7121H\|קָרָ֨א]] [[H8034\|שְׁמ֜]][[H9023\|וֹ]] [[H3290\|יַעֲקֹ֗ב]] [[H9001\|וַֽ]][[H6117\|יַּעְקְבֵ֙]][[H9030\|נִי֙]] [[H2088\|זֶ֣ה]] [[H6471\|פַעֲמַ֔יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H1062\|בְּכֹרָתִ֣]][[H9020\|י]] [[H3947G\|לָקָ֔ח]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H6258\|עַתָּ֖ה]] [[H3947G\|לָקַ֣ח]] [[H1293\|בִּרְכָתִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H0680\|אָצַ֥לְתָּ]] [[H9005\|לִּ֖]][[H9030\|י]] [[H1293\|בְּרָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic DEATH|DEATH]] • [[topic FAMILY|FAMILY]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic ISAAC|ISAAC]] • [[topic PARENTS|PARENTS]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.35|<< Genesis 27:35]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.37|Genesis 27:37 >>]]</td></tr></table>
 

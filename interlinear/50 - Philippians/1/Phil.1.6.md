@@ -1,10 +1,59 @@
+---
+title: Philippians 1:6
+type: Verse
+kjv: "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+bsb: "being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus."
+greek: "πεποιθὼς αὐτὸ τοῦτο, ὅτι ὁ ἐναρξάμενος ἐν ὑμῖν ἔργον ἀγαθὸν ἐπιτελέσει ἄχρι ἡμέρας Χριστοῦ Ἰησοῦ·"
+pericope: "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G3982]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1728]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G2041]]"
+- "[[G0018]]"
+- "[[G2005]]"
+- "[[G0891]]"
+- "[[G2250]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Philippians 1:6**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being confident of this very thing, that he which hath begun a good work in you will perform [it] until the day of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-having been persuaded of [the] very thing this, that the [One] having begun in you a work good will complete [it] until [the] day of Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.5|<< Philippians 1:5]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.7|Philippians 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|πεποιθὼς]]  [[G0846\|αὐτὸ]]  [[G3778\|τοῦτο,]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G1728\|ἐναρξάμενος]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G2041\|ἔργον]]  [[G0018\|ἀγαθὸν]]  [[G2005\|ἐπιτελέσει]]  [[G0891\|ἄχρι]]  [[G2250\|ἡμέρας]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic BLESSING|BLESSING]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.5|<< Philippians 1:5]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.7|Philippians 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

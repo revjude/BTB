@@ -1,8 +1,72 @@
+---
+title: Genesis 39:6
+type: Verse
+kjv: "And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured."
+bsb: "So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,"
+hebrew: "וַיַּעֲזֹ֣ב כָּל־ אֲשֶׁר־ לוֹ֮ בְּיַד־ יוֹסֵף֒ וְלֹא־ יָדַ֤ע אִתּוֹ֙ מְא֔וּמָה כִּ֥י אִם־ הַלֶּ֖חֶם אֲשֶׁר־ ה֣וּא אוֹכֵ֑ל וַיְהִ֣י יוֹסֵ֔ף יְפֵה־ תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3130G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0854]]"
+- "[[H3972]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9009]]"
+- "[[H3899G]]"
+- "[[H1931]]"
+- "[[H0398]]"
+- "[[H1961]]"
+- "[[H3303]]"
+- "[[H8389]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:6**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was [a] goodly [person], and well favoured.
 <small><sub>**BSB:**</sub></small>
 So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעֲזֹ֣ב]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֮]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H3130G\|יוֹסֵף֒]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֤ע]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H3972\|מְא֔וּמָה]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H9009\|הַ]][[H3899G\|לֶּ֖חֶם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H0398\|אוֹכֵ֑ל]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H3303\|יְפֵה]][[H9014\|־]] [[H8389\|תֹ֖אַר]] [[H9002\|וִ]][[H3303\|יפֵ֥ה]] [[H4758\|מַרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic JOSEPH|JOSEPH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.5|<< Genesis 39:5]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.7|Genesis 39:7 >>]]</td></tr></table>
 

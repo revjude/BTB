@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 24:15
+type: Verse
+kjv: "So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men."
+bsb: "So the LORD sent a plague upon Israel from that morning until the appointed time, and seventy thousand of the people from Dan to Beersheba died."
+hebrew: "וַיִּתֵּ֨ן יְהוָ֥ה דֶּ֙בֶר֙ בְּיִשְׂרָאֵ֔ל מֵהַבֹּ֖קֶר וְעַד־ עֵ֣ת מוֹעֵ֑ד וַיָּ֣מָת מִן־ הָעָ֗ם מִדָּן֙ וְעַד־ בְּאֵ֣ר שֶׁ֔בַע שִׁבְעִ֥ים אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[2Sam.24.15 A Plague on Israel|A Plague on Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NATION|NATION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H1698]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6256]]"
+- "[[H4150G]]"
+- "[[H4191]]"
+- "[[H4480A]]"
+- "[[H5971A]]"
+- "[[H1835G]]"
+- "[[H0884]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:15**<big><big>[[2Sam.24.15 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.
 <small><sub>**BSB:**</sub></small>
 So the LORD sent a plague upon Israel from that morning until the appointed time, and seventy thousand of the people from Dan to Beersheba died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H3068G\|יְהוָ֥ה]] [[H1698\|דֶּ֙בֶר֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מֵ]][[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6256\|עֵ֣ת]] [[H4150G\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9006\|מִ]][[H1835G\|דָּן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שֶׁ֔בַע]] [[H7657\|שִׁבְעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]] • [[topic PLAGUE|PLAGUE]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.14|<< 2 Samuel 24:14]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.16|2 Samuel 24:16 >>]]</td></tr></table>
 

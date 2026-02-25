@@ -1,8 +1,62 @@
+---
+title: Isaiah 11:3
+type: Verse
+kjv: "And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:"
+bsb: "And He will delight in the fear of the LORD. He will not judge by what His eyes see, and He will not decide by what His ears hear,"
+hebrew: "וַהֲרִיח֖וֹ בְּיִרְאַ֣ת יְהוָ֑ה וְלֹֽא־ לְמַרְאֵ֤ה עֵינָיו֙ יִשְׁפּ֔וֹט וְלֹֽא־ לְמִשְׁמַ֥ע אָזְנָ֖יו יוֹכִֽיחַ׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7306]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4758]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H8199]]"
+- "[[H4926]]"
+- "[[H0241G]]"
+- "[[H3198]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:3**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
 <small><sub>**BSB:**</sub></small>
 And He will delight in the fear of the LORD. He will not judge by what His eyes see, and He will not decide by what His ears hear,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H7306\|הֲרִיח֖]][[H9043\|וֹ]] [[H9003\|בְּ]][[H3374\|יִרְאַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H9005\|לְ]][[H4758\|מַרְאֵ֤ה]] [[H5869A\|עֵינָי]][[H9023\|ו֙]] [[H8199\|יִשְׁפּ֔וֹט]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H9005\|לְ]][[H4926\|מִשְׁמַ֥ע]] [[H0241G\|אָזְנָ֖י]][[H9023\|ו]] [[H3198\|יוֹכִֽיחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.2|<< Isaiah 11:2]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.4|Isaiah 11:4 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Ezekiel 1:4
+type: Verse
+kjv: "And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire."
+bsb: "I looked and saw a whirlwind coming from the north, a great cloud with fire flashing back and forth and brilliant light all around it. In the center of the fire was a gleam like amber,"
+hebrew: "וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־ הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMBER|AMBER]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic WHIRLWIND|WHIRLWIND]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7307H]]"
+- "[[H5591B]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H6051]]"
+- "[[H1419A]]"
+- "[[H0784]]"
+- "[[H3947L]]"
+- "[[H5051]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5439G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H5869I]]"
+- "[[H2830]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:4**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness [was] about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 <small><sub>**BSB:**</sub></small>
 I looked and saw a whirlwind coming from the north, a great cloud with fire flashing back and forth and brilliant light all around it. In the center of the fire was a gleam like amber,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֡רֶא]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H7307H\|ר֨וּחַ]] [[H5591B\|סְעָרָ֜ה]] [[H0935G\|בָּאָ֣ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6828G\|צָּפ֗וֹן]] [[H6051\|עָנָ֤ן]] [[H1419A\|גָּדוֹל֙]] [[H9002\|וְ]][[H0784\|אֵ֣שׁ]] [[H3947L\|מִתְלַקַּ֔חַת]] [[H9002\|וְ]][[H5051\|נֹ֥גַֽהּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5439G\|סָבִ֑יב]] [[H9002\|וּ]][[H9006\|מִ֨]][[H8432\|תּוֹכָ֔]][[H9024\|הּ]] [[H9004\|כְּ]][[H5869I\|עֵ֥ין]] [[H9009\|הַ]][[H2830\|חַשְׁמַ֖ל]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H9009\|הָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBER|AMBER]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic WHIRLWIND|WHIRLWIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.3|<< Ezekiel 1:3]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.5|Ezekiel 1:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

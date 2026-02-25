@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 24:17
+type: Verse
+kjv: "The one and twentieth to Jachin, the two and twentieth to Gamul,"
+bsb: "the twenty-first to Jachin, the twenty-second to Gamul,"
+hebrew: "לְיָכִין֙ אֶחָ֣ד וְעֶשְׂרִ֔ים לְגָמ֖וּל שְׁנַ֥יִם וְעֶשְׂרִֽים׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic GAMUL|GAMUL]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic JACHIN|JACHIN]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9005]]"
+- "[[H3199J]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H1577]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:17**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The one and twentieth to Jachin, the two and twentieth to Gamul,
 <small><sub>**BSB:**</sub></small>
 the twenty-first to Jachin, the twenty-second to Gamul,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3199J\|יָכִין֙]] [[H0259\|אֶחָ֣ד]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֔ים]] [[H9005\|לְ]][[H1577\|גָמ֖וּל]] [[H8147\|שְׁנַ֥יִם]] [[H9002\|וְ]][[H6242\|עֶשְׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic GAMUL|GAMUL]] • [[topic ITHAMAR|ITHAMAR]] • [[topic JACHIN|JACHIN]] • [[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.16|<< 1 Chronicles 24:16]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.18|1 Chronicles 24:18 >>]]</td></tr></table>
 

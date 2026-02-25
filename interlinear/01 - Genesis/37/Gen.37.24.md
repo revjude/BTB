@@ -1,8 +1,59 @@
+---
+title: Genesis 37:24
+type: Verse
+kjv: "And they took him, and cast him into a pit: and the pit was empty, there was no water in it."
+bsb: "and they took him and threw him into the pit. Now the pit was empty, with no water in it."
+hebrew: "וַיִּ֨קָּחֻ֔הוּ וַיַּשְׁלִ֥כוּ אֹת֖וֹ הַבֹּ֑רָה וְהַבּ֣וֹר רֵ֔ק אֵ֥ין בּ֖וֹ מָֽיִם׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H7993]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H7386]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:24**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took him, and cast him into a pit: and the pit [was] empty, [there was] no water in it.
 <small><sub>**BSB:**</sub></small>
 and they took him and threw him into the pit. Now the pit was empty, with no water in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּ֨קָּחֻ֔]][[H9033\|הוּ]] [[H9001\|וַ]][[H7993\|יַּשְׁלִ֥כוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H0953A\|בֹּ֑רָ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H0953A\|בּ֣וֹר]] [[H7386\|רֵ֔ק]] [[H0369\|אֵ֥ין]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.23|<< Genesis 37:23]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.25|Genesis 37:25 >>]]</td></tr></table>
 

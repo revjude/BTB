@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Carried Captive to Assyria
+type: Pericope
 pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 17
 book/chapter: "[[2Kgs.17|2 Kings 17]]"
-genre:
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 19
 verses:
 - "[[2Kgs.17.5]]"
 - "[[2Kgs.17.6]]"
@@ -37,7 +44,7 @@ verses:
 - "[[2Kgs.17.23]]"
 ---
 
-[[2Kgs.17|2 Kings 17:5 - 2 Kings 17:23]]
+<small>[[2Kgs.17|2 Kings 17:5-23]]</small>
 *Israel Carried Captive to Assyria*
 
 [[2Kgs.17.5|5]] Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.

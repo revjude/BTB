@@ -1,8 +1,70 @@
+---
+title: Jeremiah 42:11
+type: Verse
+kjv: "Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I am with you to save you, and to deliver you from his hand."
+bsb: "Do not be afraid of the king of Babylon, whom you now fear; do not be afraid of him, declares the LORD, for I am with you to save you and deliver you from him."
+hebrew: "אַל־ תִּֽירְא֗וּ מִפְּנֵי֙ מֶ֣לֶךְ בָּבֶ֔ל אֲשֶׁר־ אַתֶּ֥ם יְרֵאִ֖ים מִפָּנָ֑יו אַל־ תִּֽירְא֤וּ מִמֶּ֙נּוּ֙ נְאֻם־ יְהוָ֔ה כִּֽי־ אִתְּכֶ֣ם אָ֔נִי לְהוֹשִׁ֧יעַ אֶתְכֶ֛ם וּלְהַצִּ֥יל אֶתְכֶ֖ם מִיָּדֽוֹ׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:11**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I [am] with you to save you, and to deliver you from his hand.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid of the king of Babylon, whom you now fear; do not be afraid of him, declares the LORD, for I am with you to save you and deliver you from him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֗וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵי֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H3373\|יְרֵאִ֖ים]] [[H9006\|מִ]][[H6440L\|פָּנָ֑י]][[H9023\|ו]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֤וּ]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0854\|אִתְּ]][[H9036\|כֶ֣ם]] [[H0589\|אָ֔נִי]] [[H9005\|לְ]][[H3467\|הוֹשִׁ֧יעַ]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9002\|וּ]][[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.10|<< Jeremiah 42:10]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.12|Jeremiah 42:12 >>]]</td></tr></table>
 

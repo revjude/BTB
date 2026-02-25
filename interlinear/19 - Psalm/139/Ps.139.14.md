@@ -1,8 +1,60 @@
+---
+title: Psalm 139:14
+type: Verse
+kjv: "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."
+bsb: "I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well."
+hebrew: "אֽוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PHYSIOLOGY|PHYSIOLOGY]]"
+strongs:
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H3588A]]"
+- "[[H3372H]]"
+- "[[H6395]]"
+- "[[H6381]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H3045]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:14**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.
 <small><sub>**BSB:**</sub></small>
 I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|אֽוֹדְ]][[H9031\|ךָ֗]] [[H5921A\|עַ֤ל]] [[H3588A\|כִּ֥י]] [[H3372H\|נוֹרָא֗וֹת]] [[H6395\|נִ֫פְלֵ֥יתִי]] [[H6381\|נִפְלָאִ֥ים]] [[H4639G\|מַעֲשֶׂ֑י]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H3045\|יֹדַ֥עַת]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MAN|MAN]] • [[topic PHYSIOLOGY|PHYSIOLOGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.13|<< Psalms 139:13]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.15|Psalms 139:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

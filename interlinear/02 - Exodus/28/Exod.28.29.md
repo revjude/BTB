@@ -1,8 +1,75 @@
+---
+title: Exodus 28:29
+type: Verse
+kjv: "And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD continually."
+bsb: "Whenever Aaron enters the Holy Place, he shall bear the names of the sons of Israel over his heart on the breastpiece of judgment, as a continual reminder before the LORD."
+hebrew: "וְנָשָׂ֣א אַ֠הֲרֹן אֶת־ שְׁמ֨וֹת בְּנֵֽי־ יִשְׂרָאֵ֜ל בְּחֹ֧שֶׁן הַמִּשְׁפָּ֛ט עַל־ לִבּ֖וֹ בְּבֹא֣וֹ אֶל־ הַקֹּ֑דֶשׁ לְזִכָּרֹ֥ן לִפְנֵֽי־ יְהוָ֖ה תָּמִֽיד׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H2833]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H6944J]]"
+- "[[H9005]]"
+- "[[H2146]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:29**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy [place], for a memorial before the LORD continually.
 <small><sub>**BSB:**</sub></small>
 Whenever Aaron enters the Holy Place, he shall bear the names of the sons of Israel over his heart on the breastpiece of judgment, as a continual reminder before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375H\|נָשָׂ֣א]] [[H0175\|אַ֠הֲרֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֨וֹת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9003\|בְּ]][[H2833\|חֹ֧שֶׁן]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּ֛ט]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לִבּ֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H0935G\|בֹא֣]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֑דֶשׁ]] [[H9005\|לְ]][[H2146\|זִכָּרֹ֥ן]] [[H9005\|לִ]][[H6440G\|פְנֵֽי]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic CHURCH|CHURCH]] • [[topic EPHOD|EPHOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRIEST|PRIEST]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.28|<< Exodus 28:28]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.30|Exodus 28:30 >>]]</td></tr></table>
 

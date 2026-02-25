@@ -1,6 +1,71 @@
+---
+title: LXX Judges 4:18
+type: Verse
+lxx: "And Jael came forth for a meeting with Sisera, and she said to him, Turn aside, O my master, turn aside to me, do not fear! And he turned aside to her into the tent, and she covered him with  her hide covering."
+greek: "και εξήλθεν Ιαήλ εις απάντησιν Σισάρα και είπεν αυτώ έκνευσον κύριέ μου έκνευσον προς με μη φοβού και εξένευσεν προς αυτήν εις την σκηνήν και συνεκάλυψεν αυτόν εν τη δερρεί αυτής"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[H3278]]"
+- "[[G1519]]"
+- "[[G0529]]"
+- "[[H5516]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1593]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G1593]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2532]]"
+- "[[G1593]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G2532]]"
+- "[[G4780]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G6801]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 4:18** 
 <small><sub>**LXX:**</sub></small>
 And Jael came forth for a meeting with Sisera, and she said to him, Turn aside, O my master, turn aside to me, do not fear! And he turned aside to her into the tent, and she covered him with  her hide covering. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1831\|εξήλθεν]] [[H3278\|Ιαήλ]] [[G1519\|εις]] [[G0529\|απάντησιν]] [[H5516\|Σισάρα]] [[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G1593\|έκνευσον]] [[G2962\|κύριέ]] [[G1473\|μου]] [[G1593\|έκνευσον]] [[G4314\|προς]] [[G1473\|με]] [[G3361\|μη]] [[G5399\|φοβού]] [[G2532\|και]] [[G1593\|εξένευσεν]] [[G4314\|προς]] [[G1473\|αυτήν]] [[G1519\|εις]] [[G3588\|την]] [[G4633\|σκηνήν]] [[G2532\|και]] [[G4780\|συνεκάλυψεν]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G3588\|τη]] [[G6801\|δερρεί]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.19|Judges 4:19 >>]]</td></tr></table>
 
@@ -34,6 +99,6 @@ And Jael came forth for a meeting with Sisera, and she said to him, Turn aside, 
 | with | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | her hide covering. | **<big>[[G6801\|δερρεί]]</big>** **<big>[[G1473\|αυτής]]</big>** |
-[[Judg.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.19|Judges 4:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.17|<< Judges 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.19|Judges 4:19 >>]]</td></tr></table>
 
 

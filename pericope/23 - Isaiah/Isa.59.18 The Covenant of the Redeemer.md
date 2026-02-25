@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant of the Redeemer
+type: Pericope
 pericope: "[[Isa.59.18 The Covenant of the Redeemer|The Covenant of the Redeemer]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 59
 book/chapter: "[[Isa.59|Isaiah 59]]"
-genre:
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.59.18]]"
 - "[[Isa.59.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.59.21]]"
 ---
 
-[[Isa.59|Isaiah 59:18 - Isaiah 59:21]]
+<small>[[Isa.59|Isaiah 59:18-21]]</small>
 *The Covenant of the Redeemer*
 
 [[Isa.59.18|18]] According to \[their\] deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.

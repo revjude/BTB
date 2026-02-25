@@ -1,8 +1,66 @@
+---
+title: Jeremiah 18:8
+type: Verse
+kjv: "If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them."
+bsb: "But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring."
+hebrew: "וְשָׁב֙ הַגּ֣וֹי הַה֔וּא מֵרָ֣עָת֔וֹ אֲשֶׁ֥ר דִּבַּ֖רְתִּי עָלָ֑יו וְנִֽחַמְתִּי֙ עַל־ הָ֣רָעָ֔ה אֲשֶׁ֥ר חָשַׁ֖בְתִּי לַעֲשׂ֥וֹת לֽוֹ׃ ס"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NATION|NATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725I]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H7451I]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5162H]]"
+- "[[H9014]]"
+- "[[H7451C]]"
+- "[[H2803I]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 18:8**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them.
 <small><sub>**BSB:**</sub></small>
 But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725I\|שָׁב֙]] [[H9009\|הַ]][[H1471A\|גּ֣וֹי]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9006\|מֵ]][[H7451I\|רָ֣עָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּ֖רְתִּי]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וְ]][[H5162H\|נִֽחַמְתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H2803I\|חָשַׁ֖בְתִּי]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NATION|NATION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
@@ -21,7 +79,7 @@ But if that nation I warned turns from its evil, then I will relent of the disas
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I had planned  |**<big>&#8207;[[H2803I\|חָשַׁ֖בְתִּי]]&#8207; </big>**| cha.Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> it  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> it  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
 

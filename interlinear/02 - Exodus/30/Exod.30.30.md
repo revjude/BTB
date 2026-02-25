@@ -1,8 +1,61 @@
+---
+title: Exodus 30:30
+type: Verse
+kjv: "And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest’s office."
+bsb: "Anoint Aaron and his sons and consecrate them to serve Me as priests."
+hebrew: "וְאֶת־ אַהֲרֹ֥ן וְאֶת־ בָּנָ֖יו תִּמְשָׁ֑ח וְקִדַּשְׁתָּ֥ אֹתָ֖ם לְכַהֵ֥ן לִֽי׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4886]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3547]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:30**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt anoint Aaron and his sons, and consecrate them, that [they] may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
 Anoint Aaron and his sons and consecrate them to serve Me as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0175\|אַהֲרֹ֥ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H4886\|תִּמְשָׁ֑ח]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9005\|לְ]][[H3547\|כַהֵ֥ן]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic OINTMENT|OINTMENT]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.29|<< Exodus 30:29]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.31|Exodus 30:31 >>]]</td></tr></table>
 

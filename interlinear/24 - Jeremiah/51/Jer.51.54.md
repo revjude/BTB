@@ -1,8 +1,53 @@
+---
+title: Jeremiah 51:54
+type: Verse
+kjv: "A sound of a cry cometh from Babylon, and great destruction from the land of the Chaldeans:"
+bsb: "“The sound of a cry comes from Babylon, the sound of great destruction from the land of the Chaldeans!"
+hebrew: "ק֥וֹל זְעָקָ֖ה מִבָּבֶ֑ל וְשֶׁ֥בֶר גָּד֖וֹל מֵאֶ֥רֶץ כַּשְׂדִּֽים׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6963A]]"
+- "[[H2201]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:54**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sound of a cry [cometh] from Babylon, and great destruction from the land of the Chaldeans:
 <small><sub>**BSB:**</sub></small>
 “The sound of a cry comes from Babylon, the sound of great destruction from the land of the Chaldeans!
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֥וֹל]] [[H2201\|זְעָקָ֖ה]] [[H9006\|מִ]][[H0894\|בָּבֶ֑ל]] [[H9002\|וְ]][[H7667\|שֶׁ֥בֶר]] [[H1419A\|גָּד֖וֹל]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.53|<< Jeremiah 51:53]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.55|Jeremiah 51:55 >>]]</td></tr></table>
 

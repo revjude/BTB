@@ -1,8 +1,62 @@
+---
+title: Joshua 6:4
+type: Verse
+kjv: "And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets."
+bsb: "Have seven priests carry seven rams’ horns in front of the ark. Then on the seventh day, march around the city seven times, while the priests blow the horns."
+hebrew: "וְשִׁבְעָ֣ה כֹהֲנִ֡ים יִשְׂאוּ֩ שִׁבְעָ֨ה שׁוֹפְר֤וֹת הַיּֽוֹבְלִים֙ לִפְנֵ֣י הָאָר֔וֹן וּבַיּוֹם֙ הַשְּׁבִיעִ֔י תָּסֹ֥בּוּ אֶת־ הָעִ֖יר שֶׁ֣בַע פְּעָמִ֑ים וְהַכֹּ֣הֲנִ֔ים יִתְקְע֖וּ בַּשּׁוֹפָרֽוֹת׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H7782]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7637]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H6471]]"
+- "[[H8628]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:4**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seven priests shall bear before the ark seven trumpets of rams’ horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.
 <small><sub>**BSB:**</sub></small>
 Have seven priests carry seven rams’ horns in front of the ark. Then on the seventh day, march around the city seven times, while the priests blow the horns.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7651\|שִׁבְעָ֣ה]] [[H3548\|כֹהֲנִ֡ים]] [[H5375H\|יִשְׂאוּ֩]] [[H7651\|שִׁבְעָ֨ה]] [[H7782\|שׁוֹפְר֤וֹת]] [[H9009\|הַ]][[H3104\|יּֽוֹבְלִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H0727\|אָר֔וֹן]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H5437H\|תָּסֹ֥בּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8628\|יִתְקְע֖וּ]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic SEVEN|SEVEN]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.3|<< Joshua 6:3]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.5|Joshua 6:5 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Joshua 19:27
+type: Verse
+kjv: "And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,"
+bsb: "then turned eastward toward Beth-dagon, touched Zebulun and the Valley of Iphtah-el, and went north to Beth-emek and Neiel, passing Cabul on the left."
+hebrew: "וְשָׁ֨ב מִזְרַ֣ח הַשֶּׁמֶשׁ֮ בֵּ֣ית דָּגֹן֒ וּפָגַ֣ע בִּ֠זְבֻלוּן וּבְגֵ֨י יִפְתַּח־ אֵ֥ל צָפ֛וֹנָה בֵּ֥ית הָעֵ֖מֶק וּנְעִיאֵ֑ל וְיָצָ֥א אֶל־ כָּב֖וּל מִשְּׂמֹֽאל׃"
+pericope: "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic BETH-DAGON|BETH-DAGON]]"
+- "[[topic BETH-EMEK|BETH-EMEK]]"
+- "[[topic CABUL|CABUL]]"
+- "[[topic JIPHTHAH-EL|JIPHTHAH-EL]]"
+- "[[topic NEIEL|NEIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H1016H]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H2074]]"
+- "[[H9002]]"
+- "[[H1516H]]"
+- "[[H3317]]"
+- "[[H9014]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H1025]]"
+- "[[H5272]]"
+- "[[H3318I]]"
+- "[[H0413]]"
+- "[[H3521G]]"
+- "[[H9006]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:27**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,
 <small><sub>**BSB:**</sub></small>
 then turned eastward toward Beth-dagon, touched Zebulun and the Valley of Iphtah-el, and went north to Beth-emek and Neiel, passing Cabul on the left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שָׁ֨ב]] [[H4217H\|מִזְרַ֣ח]] [[H9009\|הַ]][[H8121\|שֶּׁמֶשׁ֮]] [[H1016H\|בֵּ֣ית]] [[H1016H\|דָּגֹן֒]] [[H9001\|וּ]][[H6293\|פָגַ֣ע]] [[H9003\|בִּ֠]][[H2074\|זְבֻלוּן]] [[H9002\|וּ]][[H9003\|בְ]][[H1516H\|גֵ֨י]] [[H3317\|יִפְתַּח]][[H9014\|־]] [[H3317\|אֵ֥ל]] [[H6828G\|צָפ֛וֹנָ]][[H9011\|ה]] [[H1025\|בֵּ֥ית]] [[H1025\|הָעֵ֖מֶק]] [[H9002\|וּ]][[H5272\|נְעִיאֵ֑ל]] [[H9001\|וְ]][[H3318I\|יָצָ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H3521G\|כָּב֖וּל]] [[H9006\|מִ]][[H8040G\|שְּׂמֹֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic BETH-DAGON|BETH-DAGON]] • [[topic BETH-EMEK|BETH-EMEK]] • [[topic CABUL|CABUL]] • [[topic JIPHTHAH-EL|JIPHTHAH-EL]] • [[topic NEIEL|NEIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.26|<< Joshua 19:26]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.28|Joshua 19:28 >>]]</td></tr></table>
 

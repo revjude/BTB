@@ -1,8 +1,56 @@
+---
+title: Job 29:25
+type: Verse
+kjv: "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners."
+bsb: "I chose their course and presided as chief. So I dwelt as a king among his troops, as a comforter of the mourners."
+hebrew: "אֶֽבֲחַ֣ר דַּרְכָּם֮ וְאֵשֵׁ֪ב רֹ֥אשׁ וְ֭אֶשְׁכּוֹן כְּמֶ֣לֶךְ בַּגְּד֑וּד כַּאֲשֶׁ֖ר אֲבֵלִ֣ים יְנַחֵֽם׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0977]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H7218H]]"
+- "[[H7931]]"
+- "[[H9004]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H1416]]"
+- "[[H0834D]]"
+- "[[H0057]]"
+- "[[H5162G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:25**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I chose out their way, and sat chief, and dwelt as a king in the army, as one [that] comforteth the mourners.
 <small><sub>**BSB:**</sub></small>
 I chose their course and presided as chief. So I dwelt as a king among his troops, as a comforter of the mourners.
+<small><sub>**Hebrew:**</sub></small>
+[[H0977\|אֶֽבֲחַ֣ר]] [[H1870G\|דַּרְכָּ]][[H9028\|ם֮]] [[H9002\|וְ]][[H3427\|אֵשֵׁ֪ב]] [[H7218H\|רֹ֥אשׁ]] [[H9002\|וְ֭]][[H7931\|אֶשְׁכּוֹן]] [[H9004\|כְּ]][[H4428G\|מֶ֣לֶךְ]] [[H9003\|בַּ]][[H1416\|גְּד֑וּד]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0057\|אֲבֵלִ֣ים]] [[H5162G\|יְנַחֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.24|<< Job 29:24]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.1|Job 30:1 >>]]</td></tr></table>
 

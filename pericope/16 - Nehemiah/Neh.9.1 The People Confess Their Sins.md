@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Confess Their Sins
+type: Pericope
 pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
-verse_count: 38
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 9
 book/chapter: "[[Neh.9|Nehemiah 9]]"
-genre:
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 38
 verses:
 - "[[Neh.9.1]]"
 - "[[Neh.9.2]]"
@@ -57,7 +64,7 @@ verses:
 - "[[Neh.9.38]]"
 ---
 
-[[Neh.9|Nehemiah 9:1 - Nehemiah 9:38]]
+<small>[[Neh.9|Nehemiah 9:1-38]]</small>
 *The People Confess Their Sins*
 
 [[Neh.9.1|1]] Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.

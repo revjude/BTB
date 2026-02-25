@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 14:22
+type: Verse
+kjv: "And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant."
+bsb: "Joab fell facedown in homage and blessed the king. “Today,” said Joab, “your servant knows that he has found favor in your eyes, my lord the king, because the king has granted his request.”"
+hebrew: "וַיִּפֹּל֩ יוֹאָ֨ב אֶל־ פָּנָ֥יו אַ֛רְצָה וַיִּשְׁתַּ֖חוּ וַיְבָ֣רֶךְ אֶת־ הַמֶּ֑לֶךְ וַיֹּ֣אמֶר יוֹאָ֡ב הַיּוֹם֩ יָדַ֨ע עַבְדְּךָ֜ כִּי־ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֙יךָ֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ אֲשֶׁר־ עָשָׂ֥ה הַמֶּ֖לֶךְ אֶת־ דְּבַ֥ר עַבְדֶּֽךָ׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H3097G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7812]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H3117G]]"
+- "[[H3045]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H6213I]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 14:22**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant.
 <small><sub>**BSB:**</sub></small>
 Joab fell facedown in homage and blessed the king. “Today,” said Joab, “your servant knows that he has found favor in your eyes, my lord the king, because the king has granted his request.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|יִּפֹּל֩]] [[H3097G\|יוֹאָ֨ב]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנָ֥י]][[H9023\|ו]] [[H0776H\|אַ֛רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֖חוּ]] [[H9001\|וַ]][[H1288\|יְבָ֣רֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3097G\|יוֹאָ֡ב]] [[H9009\|הַ]][[H3117G\|יּוֹם֩]] [[H3045\|יָדַ֨ע]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֜]] [[H3588A\|כִּי]][[H9014\|־]] [[H4672\|מָצָ֨אתִי]] [[H2580\|חֵ֤ן]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213I\|עָשָׂ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֥ר]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.21|<< 2 Samuel 14:21]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.23|2 Samuel 14:23 >>]]</td></tr></table>
 
@@ -36,7 +105,7 @@ Joab fell facedown in homage and blessed the king. “Today,” said Joab, “yo
 | servant your  [^2]|**<big>&#8207;[[H5650\|עַבְדֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | av.de<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.21|<< 2 Samuel 14:21]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.23|2 Samuel 14:23 >>]]</td></tr></table>
 
-[^1]: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: servant his  | **<big>[[H5650|עַבְדּ]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: servant his  | **<big>[[H5650|עַבְדּ]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עַבְדֶּֽוָ\׃</big></span>**
 

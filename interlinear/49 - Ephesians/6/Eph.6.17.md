@@ -1,10 +1,64 @@
+---
+title: Ephesians 6:17
+type: Verse
+kjv: "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:"
+bsb: "And take the helmet of salvation and the sword of the Spirit, which is the word of God."
+greek: "καὶ τὴν περικεφαλαίαν τοῦ σωτηρίου δέξασθε καὶ τὴν μάχαιραν τοῦ πνεύματος ὅ ἐστιν ῥῆμα θεοῦ·"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HELMET|HELMET]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4030]]"
+- "[[G4991]]"
+- "[[G1209]]"
+- "[[G3162]]"
+- "[[G4151G]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4487]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Ephesians 6:17**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 <small><sub>**BSB:**</sub></small>
 And take the helmet of salvation and the sword of the Spirit, which is the word of God.
-<small><sub>**Literal:**</sub></small>
-And the helmet <the> of salvation do take and the sword of the Spirit which is declaration of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.16|<< Ephesians 6:16]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.18|Ephesians 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4030\|περικεφαλαίαν]]  [[G3588\|τοῦ]]  [[G4991\|σωτηρίου]]  [[G1209\|δέξασθε]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3162\|μάχαιραν]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G4487\|ῥῆμα]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOSPEL|GOSPEL]] • [[topic HELMET|HELMET]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOPE|HOPE]] • [[topic POWER|POWER]] • [[topic SALVATION|SALVATION]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAR|WAR]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.16|<< Ephesians 6:16]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.18|Ephesians 6:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 6:17** is...
 > $\quad$ alluding to: [[LXX.Isa.11.4|Isa 11:4]] ☩ [[LXX.Isa.49.2|Isa 49:2]] ☩ [[LXX.Isa.59.17|Isa 59:17]] ☩ [[LXX.Hos.6.5|Hos 6:5]]

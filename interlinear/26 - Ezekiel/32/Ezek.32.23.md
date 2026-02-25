@@ -1,8 +1,61 @@
+---
+title: Ezekiel 32:23
+type: Verse
+kjv: "Whose graves are set in the sides of the pit, and her company is round about her grave: all of them slain, fallen by the sword, which caused terror in the land of the living."
+bsb: "Her graves are set in the depths of the Pit, and her company is all around her grave. All of them are slain, fallen by the sword—those who once spread terror in the land of the living."
+hebrew: "אֲשֶׁ֨ר נִתְּנ֤וּ קִבְרֹתֶ֙יהָ֙ בְּיַרְכְּתֵי־ ב֔וֹר וַיְהִ֣י קְהָלָ֔הּ סְבִיב֖וֹת קְבֻרָתָ֑הּ כֻּלָּ֤ם חֲלָלִים֙ נֹפְלִ֣ים בַּחֶ֔רֶב אֲשֶׁר־ נָתְנ֥וּ חִתִּ֖ית בְּאֶ֥רֶץ חַיִּֽים׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H6913]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H3411]]"
+- "[[H9014]]"
+- "[[H0953A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6951]]"
+- "[[H5439G]]"
+- "[[H6900]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H2491A]]"
+- "[[H5307G]]"
+- "[[H2719]]"
+- "[[H2851]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:23**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose graves are set in the sides of the pit, and her company is round about her grave: all of them slain, fallen by the sword, which caused terror in the land of the living.
 <small><sub>**BSB:**</sub></small>
 Her graves are set in the depths of the Pit, and her company is all around her grave. All of them are slain, fallen by the sword—those who once spread terror in the land of the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H5414H\|נִתְּנ֤וּ]] [[H6913\|קִבְרֹתֶ֙י]][[H9024\|הָ֙]] [[H9003\|בְּ]][[H3411\|יַרְכְּתֵי]][[H9014\|־]] [[H0953A\|ב֔וֹר]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H6951\|קְהָלָ֔]][[H9024\|הּ]] [[H5439G\|סְבִיב֖וֹת]] [[H6900\|קְבֻרָתָ֑]][[H9024\|הּ]] [[H3605\|כֻּלָּ֤]][[H9028\|ם]] [[H2491A\|חֲלָלִים֙]] [[H5307G\|נֹפְלִ֣ים]] [[H9003\|בַּ]][[H2719\|חֶ֔רֶב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתְנ֥וּ]] [[H2851\|חִתִּ֖ית]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.22|<< Ezekiel 32:22]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.24|Ezekiel 32:24 >>]]</td></tr></table>
 

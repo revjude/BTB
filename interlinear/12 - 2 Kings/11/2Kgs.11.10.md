@@ -1,8 +1,73 @@
+---
+title: 2 Kings 11:10
+type: Verse
+kjv: "And to the captains over hundreds did the priest give king David’s spears and shields, that were in the temple of the LORD."
+bsb: "Then the priest gave to the commanders of hundreds the spears and shields of King David from the house of the LORD."
+hebrew: "וַיִּתֵּ֨ן הַכֹּהֵ֜ן לְשָׂרֵ֣י הַמֵּא֗וֹת אֶֽת־ הַחֲנִית֙ וְאֶת־ הַשְּׁלָטִ֔ים אֲשֶׁ֖ר לַמֶּ֣לֶךְ דָּוִ֑ד אֲשֶׁ֖ר בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.11.4 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H3967]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2595]]"
+- "[[H9002]]"
+- "[[H7982]]"
+- "[[H0834A]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 11:10**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the captains over hundreds did the priest give king David’s spears and shields, that [were] in the temple of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then the priest gave to the commanders of hundreds the spears and shields of King David from the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9005\|לְ]][[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H3967\|מֵּא֗וֹת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2595\|חֲנִית֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7982\|שְּׁלָטִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֑ד]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHURCH|CHURCH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic LOYALTY|LOYALTY]] • [[topic ORPHAN|ORPHAN]] • [[topic SHIELD|SHIELD]] • [[topic TEMPLE|TEMPLE]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.9|<< 2 Kings 11:9]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.11|2 Kings 11:11 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 78:11
+type: Verse
+kjv: "And forgat his works, and his wonders that he had shewed them."
+bsb: "They forgot what He had done, the wonders He had shown them."
+hebrew: "וַיִּשְׁכְּח֥וּ עֲלִילוֹתָ֑יו וְ֝נִפְלְאוֹתָ֗יו אֲשֶׁ֣ר הֶרְאָֽם׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7911]]"
+- "[[H5949]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6381]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:11**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And forgat his works, and his wonders that he had shewed them.
 <small><sub>**BSB:**</sub></small>
 They forgot what He had done, the wonders He had shown them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7911\|יִּשְׁכְּח֥וּ]] [[H5949\|עֲלִילוֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H6381\|נִפְלְאוֹתָ֗י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|הֶרְאָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.10|<< Psalms 78:10]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.12|Psalms 78:12 >>]]</td></tr></table>
 

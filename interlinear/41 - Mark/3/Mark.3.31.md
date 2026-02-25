@@ -1,10 +1,53 @@
+---
+title: Mark 3:31
+type: Verse
+kjv: "There came then his brethren and his mother, and, standing without, sent unto him, calling him."
+bsb: "Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,"
+greek: "Καὶ ἔρχεται ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ. καὶ ἔξω στήκοντες ἀπέστειλαν πρὸς αὐτὸν καλοῦντες αὐτόν."
+pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G0080]]"
+- "[[G1854]]"
+- "[[G4739]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G2564G]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Mark 3:31**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There came then his brethren and his mother, and, standing without, sent unto him, calling him.
 <small><sub>**BSB:**</sub></small>
 Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,
-<small><sub>**Literal:**</sub></small>
-And he comes the mother of Him and the brothers of Him. and outside standing sent to Him calling Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.30|<< Mark 3:30]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.32|Mark 3:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχεται]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G1854\|ἔξω]]  [[G4739\|στήκοντες]]  [[G0649\|ἀπέστειλαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2564G\|καλοῦντες]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.30|<< Mark 3:30]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.32|Mark 3:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

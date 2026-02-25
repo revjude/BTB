@@ -1,8 +1,70 @@
+---
+title: Genesis 16:11
+type: Verse
+kjv: "And the angel of the LORD said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction."
+bsb: "The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction."
+hebrew: "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל כִּֽי־ שָׁמַ֥ע יְהוָ֖ה אֶל־ עָנְיֵֽךְ׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H9042]]"
+- "[[H2030A]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3458G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H6040]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:11**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD said unto her, Behold, thou [art] with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
 <small><sub>**BSB:**</sub></small>
 The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H2009\|הִנָּ֥]][[H9042\|ךְ]] [[H2030A\|הָרָ֖ה]] [[H9002\|וְ]][[H3205\|יֹלַ֣דְתְּ]] [[H1121A\|בֵּ֑ן]] [[H9001\|וְ]][[H7121H\|קָרָ֤את]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H3458G\|יִשְׁמָעֵ֔אל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6040\|עָנְיֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMUNION|COMMUNION]] • [[topic ISHMAEL|ISHMAEL]] • [[topic LAHAI-ROI|LAHAI-ROI]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.10|<< Genesis 16:10]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.12|Genesis 16:12 >>]]</td></tr></table>
 

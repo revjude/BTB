@@ -1,8 +1,61 @@
+---
+title: Proverbs 30:19
+type: Verse
+kjv: "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid."
+bsb: "the way of an eagle in the sky, the way of a snake on a rock, the way of a ship at sea, and the way of a man with a maiden."
+hebrew: "דֶּ֤רֶךְ הַנֶּ֨שֶׁר׀ בַּשָּׁמַיִם֮ דֶּ֥רֶךְ נָחָ֗שׁ עֲלֵ֫י צ֥וּר דֶּֽרֶךְ־ אֳנִיָּ֥ה בְלֶב־ יָ֑ם וְדֶ֖רֶךְ גֶּ֣בֶר בְּעַלְמָֽה׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H1870L]]"
+- "[[H9009]]"
+- "[[H5404]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H5175]]"
+- "[[H5921A]]"
+- "[[H6697H]]"
+- "[[H9014]]"
+- "[[H0591]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H1397]]"
+- "[[H5959]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:19**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
 <small><sub>**BSB:**</sub></small>
 the way of an eagle in the sky, the way of a snake on a rock, the way of a ship at sea, and the way of a man with a maiden.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870L\|דֶּ֤רֶךְ]] [[H9009\|הַ]][[H5404\|נֶּ֨שֶׁר]][[H9015\|׀]] [[H9003\|בַּ]][[H8064\|שָּׁמַיִם֮]] [[H1870L\|דֶּ֥רֶךְ]] [[H5175\|נָחָ֗שׁ]] [[H5921A\|עֲלֵ֫י]] [[H6697H\|צ֥וּר]] [[H1870L\|דֶּֽרֶךְ]][[H9014\|־]] [[H0591\|אֳנִיָּ֥ה]] [[H9003\|בְ]][[H3820A\|לֶב]][[H9014\|־]] [[H3220G\|יָ֑ם]] [[H9002\|וְ]][[H1870L\|דֶ֖רֶךְ]] [[H1397\|גֶּ֣בֶר]] [[H9003\|בְּ]][[H5959\|עַלְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic EAGLE|EAGLE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIDDLE|RIDDLE]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.18|<< Proverbs 30:18]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.20|Proverbs 30:20 >>]]</td></tr></table>
 

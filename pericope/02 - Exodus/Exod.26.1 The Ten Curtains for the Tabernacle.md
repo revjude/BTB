@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Curtains for the Tabernacle
+type: Pericope
 pericope: "[[Exod.26.1 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 26
 book/chapter: "[[Exod.26|Exodus 26]]"
-genre:
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.26.1]]"
 - "[[Exod.26.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.26.6]]"
 ---
 
-[[Exod.26|Exodus 26:1 - Exodus 26:6]]
+<small>[[Exod.26|Exodus 26:1-6]]</small>
 *The Ten Curtains for the Tabernacle*
 
 [[Exod.26.1|1]] Moreover thou shalt make the tabernacle \[with\] ten curtains \[of\] fine twined linen, and blue, and purple, and scarlet: \[with\] cherubims of cunning work shalt thou make them.

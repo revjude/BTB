@@ -1,10 +1,52 @@
+---
+title: Colossians 2:4
+type: Verse
+kjv: "And this I say, lest any man should beguile you with enticing words."
+bsb: "I say this so that no one will deceive you by smooth rhetoric."
+greek: "τοῦτο δὲ λέγω, ἵνα μηδεὶς ὑμᾶς παραλογίζηται ἐν πιθανολογίᾳ·"
+pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G2443]]"
+- "[[G3367]]"
+- "[[G4771]]"
+- "[[G3884]]"
+- "[[G1722]]"
+- "[[G4086]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **Colossians 2:4**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this I say, lest any man should beguile you with enticing words.
 <small><sub>**BSB:**</sub></small>
 I say this so that no one will deceive you by smooth rhetoric.
-<small><sub>**Literal:**</sub></small>
-This now I say so that no one you may delude by persuasive speech;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.3|<< Colossians 2:3]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.5|Colossians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G3004G\|λέγω,]]  [[G2443\|ἵνα]]  [[G3367\|μηδεὶς]]  [[G4771\|ὑμᾶς]]  [[G3884\|παραλογίζηται]]  [[G1722\|ἐν]]  [[G4086\|πιθανολογίᾳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.3|<< Colossians 2:3]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.5|Colossians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

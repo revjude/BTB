@@ -1,10 +1,53 @@
+---
+title: Matthew 24:18
+type: Verse
+kjv: "Neither let him which is in the field return back to take his clothes."
+bsb: "And let no one in the field return for his cloak."
+jesus_said: "Neither let him which is in the field return back to take his clothes."
+greek: "καὶ ὁ ἐν τῷ ἀγρῷ μὴ ἐπιστρεψάτω ὀπίσω ἆραι τὸ ἱμάτιον αὐτοῦ."
+pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G0068G]]"
+- "[[G3361]]"
+- "[[G1994]]"
+- "[[G3694]]"
+- "[[G0142]]"
+- "[[G2440]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 24:18**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither let him which is in the field return back to take his clothes.
 <small><sub>**BSB:**</sub></small>
 And let no one in the field return for his cloak.
-<small><sub>**Literal:**</sub></small>
-and the [one] in the field not he should return back to take the cloak of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.17|<< Matthew 24:17]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.19|Matthew 24:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0068G\|ἀγρῷ]]  [[G3361\|μὴ]]  [[G1994\|ἐπιστρεψάτω]]  [[G3694\|ὀπίσω]]  [[G0142\|ἆραι]]  [[G3588\|τὸ]]  [[G2440\|ἱμάτιον]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.17|<< Matthew 24:17]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.19|Matthew 24:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

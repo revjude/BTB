@@ -1,8 +1,68 @@
+---
+title: Isaiah 51:11
+type: Verse
+kjv: "Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away."
+bsb: "So the redeemed of the LORD will return and enter Zion with singing, crowned with everlasting joy. Gladness and joy will overtake them, and sorrow and sighing will flee."
+hebrew: "וּפְדוּיֵ֨י יְהוָ֜ה יְשׁוּב֗וּן וּבָ֤אוּ צִיּוֹן֙ בְּרִנָּ֔ה וְשִׂמְחַ֥ת עוֹלָ֖ם עַל־ רֹאשָׁ֑ם שָׂשׂ֤וֹן וְשִׂמְחָה֙ יַשִּׂיג֔וּן נָ֖סוּ יָג֥וֹן וַאֲנָחָֽה׃ ס"
+pericope: "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6299]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H6726]]"
+- "[[H9003]]"
+- "[[H7440]]"
+- "[[H8057]]"
+- "[[H5769G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H8342]]"
+- "[[H5381]]"
+- "[[H5127]]"
+- "[[H3015]]"
+- "[[H0585]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 51:11**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy [shall be] upon their head: they shall obtain gladness and joy; [and] sorrow and mourning shall flee away.
 <small><sub>**BSB:**</sub></small>
 So the redeemed of the LORD will return and enter Zion with singing, crowned with everlasting joy. Gladness and joy will overtake them, and sorrow and sighing will flee.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6299\|פְדוּיֵ֨י]] [[H3068G\|יְהוָ֜ה]] [[H7725G\|יְשׁוּב֗וּ]][[H9013\|ן]] [[H9001\|וּ]][[H0935G\|בָ֤אוּ]] [[H6726\|צִיּוֹן֙]] [[H9003\|בְּ]][[H7440\|רִנָּ֔ה]] [[H9002\|וְ]][[H8057\|שִׂמְחַ֥ת]] [[H5769G\|עוֹלָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשָׁ֑]][[H9028\|ם]] [[H8342\|שָׂשׂ֤וֹן]] [[H9002\|וְ]][[H8057\|שִׂמְחָה֙]] [[H5381\|יַשִּׂיג֔וּ]][[H9013\|ן]] [[H5127\|נָ֖סוּ]] [[H3015\|יָג֥וֹן]] [[H9002\|וַ]][[H0585\|אֲנָחָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.10|<< Isaiah 51:10]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.12|Isaiah 51:12 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ So the redeemed of the LORD will return and enter Zion with singing, crowned wit
 | they will overtake [them] !  |**<big>&#8207;[[H5381\|יַשִּׂיג֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ya.si.Gu<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will flee  |**<big>&#8207;[[H5127\|נָ֖סוּ]]&#8207; </big>**| Na.su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sorrow  |**<big>&#8207;[[H3015\|יָג֥וֹן]]&#8207; </big>**| ya.Gon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sighing  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0585\|אֲנָחָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sighing  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0585\|אֲנָחָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.10|<< Isaiah 51:10]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.12|Isaiah 51:12 >>]]</td></tr></table>
 
 

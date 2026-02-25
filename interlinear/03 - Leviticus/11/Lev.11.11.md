@@ -1,8 +1,62 @@
+---
+title: Leviticus 11:11
+type: Verse
+kjv: "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+bsb: "They shall be an abomination to you; you must not eat their meat, and you must detest their carcasses."
+hebrew: "וְשֶׁ֖קֶץ יִהְי֣וּ לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וְאֶת־ נִבְלָתָ֖ם תְּשַׁקֵּֽצוּ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H8263]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5038]]"
+- "[[H8262]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:11**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.
 <small><sub>**BSB:**</sub></small>
 They shall be an abomination to you; you must not eat their meat, and you must detest their carcasses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8263\|שֶׁ֖קֶץ]] [[H1961\|יִהְי֣וּ]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H9006\|מִ]][[H1320\|בְּשָׂרָ]][[H9028\|ם֙]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכֵ֔לוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלָתָ֖]][[H9028\|ם]] [[H8262\|תְּשַׁקֵּֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.10|<< Leviticus 11:10]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.12|Leviticus 11:12 >>]]</td></tr></table>
 

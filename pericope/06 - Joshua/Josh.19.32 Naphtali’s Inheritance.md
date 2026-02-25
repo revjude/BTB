@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Naphtali’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.32 Naphtali’s Inheritance|Naphtali’s Inheritance]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 8
 verses:
 - "[[Josh.19.32]]"
 - "[[Josh.19.33]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Josh.19.39]]"
 ---
 
-[[Josh.19|Joshua 19:32 - Joshua 19:39]]
+<small>[[Josh.19|Joshua 19:32-39]]</small>
 *Naphtali’s Inheritance*
 
 [[Josh.19.32|32]] The sixth lot came out to the children of Naphtali, \[even\] for the children of Naphtali according to their families.

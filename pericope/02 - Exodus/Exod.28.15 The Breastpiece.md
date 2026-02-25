@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Breastpiece
+type: Pericope
 pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 28
 book/chapter: "[[Exod.28|Exodus 28]]"
-genre:
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 16
 verses:
 - "[[Exod.28.15]]"
 - "[[Exod.28.16]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Exod.28.30]]"
 ---
 
-[[Exod.28|Exodus 28:15 - Exodus 28:30]]
+<small>[[Exod.28|Exodus 28:15-30]]</small>
 *The Breastpiece*
 
 [[Exod.28.15|15]] And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; \[of\] gold, \[of\] blue, and \[of\] purple, and \[of\] scarlet, and \[of\] fine twined linen, shalt thou make it.

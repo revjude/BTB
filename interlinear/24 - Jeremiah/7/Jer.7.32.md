@@ -1,8 +1,77 @@
+---
+title: Jeremiah 7:32
+type: Verse
+kjv: "Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place."
+bsb: "So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth and the Valley of Ben-hinnom, but the Valley of Slaughter. For they will bury the dead in Topheth until there is no more room."
+hebrew: "לָכֵ֞ן הִנֵּֽה־ יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וְלֹא־ יֵאָמֵ֨ר ע֤וֹד הַתֹּ֙פֶת֙ וְגֵ֣יא בֶן־ הִנֹּ֔ם כִּ֖י אִם־ גֵּ֣יא הַהֲרֵגָ֑ה וְקָבְר֥וּ בְתֹ֖פֶת מֵאֵ֥ין מָקֽוֹם׃"
+pericope: "[[Jer.7.30 The Valley of Slaughter|The Valley of Slaughter]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H8612]]"
+- "[[H1516Q]]"
+- "[[H1121A]]"
+- "[[H2011H]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1516S]]"
+- "[[H2028G]]"
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:32**<big><big>[[Jer.7.30 The Valley of Slaughter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.
 <small><sub>**BSB:**</sub></small>
 So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth and the Valley of Ben-hinnom, but the Valley of Slaughter. For they will bury the dead in Topheth until there is no more room.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0559\|יֵאָמֵ֨ר]] [[H5750\|ע֤וֹד]] [[H9009\|הַ]][[H8612\|תֹּ֙פֶת֙]] [[H9002\|וְ]][[H1516Q\|גֵ֣יא]] [[H1121A\|בֶן]][[H9014\|־]] [[H2011H\|הִנֹּ֔ם]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H1516S\|גֵּ֣יא]] [[H9009\|הַ]][[H2028G\|הֲרֵגָ֑ה]] [[H9001\|וְ]][[H6912\|קָבְר֥וּ]] [[H9003\|בְ]][[H8612\|תֹ֖פֶת]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H4725\|מָקֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BURIAL|BURIAL]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HINNOM|HINNOM]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.31|<< Jeremiah 7:31]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.33|Jeremiah 7:33 >>]]</td></tr></table>
 

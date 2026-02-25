@@ -1,8 +1,56 @@
+---
+title: Ezekiel 26:4
+type: Verse
+kjv: "And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock."
+bsb: "They will destroy the walls of Tyre and demolish her towers. I will scrape the soil from her and make her a bare rock."
+hebrew: "וְשִׁחֲת֞וּ חֹמ֣וֹת צֹ֗ר וְהָֽרְסוּ֙ מִגְדָּלֶ֔יהָ וְסִֽחֵיתִ֥י עֲפָרָ֖הּ מִמֶּ֑נָּה וְנָתַתִּ֥י אוֹתָ֖הּ לִצְחִ֥יחַ סָֽלַע׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7843]]"
+- "[[H2346G]]"
+- "[[H6865]]"
+- "[[H2040]]"
+- "[[H4026M]]"
+- "[[H9024]]"
+- "[[H5500]]"
+- "[[H6083]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H6706]]"
+- "[[H5553H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:4**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock.
 <small><sub>**BSB:**</sub></small>
 They will destroy the walls of Tyre and demolish her towers. I will scrape the soil from her and make her a bare rock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7843\|שִׁחֲת֞וּ]] [[H2346G\|חֹמ֣וֹת]] [[H6865\|צֹ֗ר]] [[H9001\|וְ]][[H2040\|הָֽרְסוּ֙]] [[H4026M\|מִגְדָּלֶ֔י]][[H9024\|הָ]] [[H9001\|וְ]][[H5500\|סִֽחֵיתִ֥י]] [[H6083\|עֲפָרָ֖]][[H9024\|הּ]] [[H4480A\|מִמֶּ֑]][[H9034\|נָּה]] [[H9001\|וְ]][[H5414I\|נָתַתִּ֥י]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9005\|לִ]][[H6706\|צְחִ֥יחַ]] [[H5553H\|סָֽלַע]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.3|<< Ezekiel 26:3]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.5|Ezekiel 26:5 >>]]</td></tr></table>
 

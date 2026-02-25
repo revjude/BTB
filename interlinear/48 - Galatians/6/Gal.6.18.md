@@ -1,10 +1,56 @@
+---
+title: Galatians 6:18
+type: Verse
+kjv: "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen."
+bsb: "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+greek: "Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν, ἀδελφοί. ἀμήν. πρός Γαλάτας ἐγράφη ἀπό Ῥώμης.¶"
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G4151G]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G1052]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G4516]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 6:18**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Brethren, the grace of our Lord Jesus Christ [be] with your spirit. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.
-<small><sub>**Literal:**</sub></small>
-The grace of the Lord of us Jesus Christ [be] with the spirit of you, brothers. Amen. to Galatians it was written from Rome.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.17|<< Galatians 6:17]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.1|Ephesians 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G4771\|ὑμῶν,]]  [[G0080\|ἀδελφοί.]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G1052\|Γαλάτας]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G4516\|Ῥώμης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.17|<< Galatians 6:17]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.1|Ephesians 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

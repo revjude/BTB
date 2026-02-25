@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 18:14
+type: Verse
+kjv: "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak."
+bsb: "But Joab declared, “I am not going to wait like this with you!” And he took three spears in his hand and thrust them through the heart of Absalom while he was still alive in the oak tree."
+hebrew: "וַיֹּ֣אמֶר יוֹאָ֔ב לֹא־ כֵ֖ן אֹחִ֣ילָה לְפָנֶ֑יךָ וַיִּקַּח֩ שְׁלֹשָׁ֨ה שְׁבָטִ֜ים בְּכַפּ֗וֹ וַיִּתְקָעֵם֙ בְּלֵ֣ב אַבְשָׁל֔וֹם עוֹדֶ֥נּוּ חַ֖י בְּלֵ֥ב הָאֵלָֽה׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DART|DART]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic OAK|OAK]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3097G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3176G]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H3947G]]"
+- "[[H7969]]"
+- "[[H7626I]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H8628]]"
+- "[[H9038]]"
+- "[[H3820A]]"
+- "[[H0053]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H2416A]]"
+- "[[H9009]]"
+- "[[H0424]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:14**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he [was] yet alive in the midst of the oak.
 <small><sub>**BSB:**</sub></small>
 But Joab declared, “I am not going to wait like this with you!” And he took three spears in his hand and thrust them through the heart of Absalom while he was still alive in the oak tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3097G\|יוֹאָ֔ב]] [[H3808\|לֹא]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H3176G\|אֹחִ֣ילָה]] [[H9005\|לְ]][[H6440L\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H7969\|שְׁלֹשָׁ֨ה]] [[H7626I\|שְׁבָטִ֜ים]] [[H9003\|בְּ]][[H3709G\|כַפּ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H8628\|יִּתְקָעֵ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H3820A\|לֵ֣ב]] [[H0053\|אַבְשָׁל֔וֹם]] [[H5750\|עוֹדֶ֥]][[H9043\|נּוּ]] [[H2416A\|חַ֖י]] [[H9003\|בְּ]][[H3820A\|לֵ֥ב]] [[H9009\|הָ]][[H0424\|אֵלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DART|DART]] • [[topic EPHRAIM|EPHRAIM]] • [[topic OAK|OAK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.13|<< 2 Samuel 18:13]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.15|2 Samuel 18:15 >>]]</td></tr></table>
 

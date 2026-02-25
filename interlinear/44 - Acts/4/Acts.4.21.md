@@ -1,10 +1,64 @@
+---
+title: Acts 4:21
+type: Verse
+kjv: "So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done."
+bsb: "After further threats they let them go. They could not find a way to punish them, because all the people were glorifying God for what had happened."
+greek: "οἱ δὲ προσαπειλησάμενοι ἀπέλυσαν αὐτοὺς μηδὲν εὑρίσκοντες τὸ πῶς κολάσωνται αὐτούς, διὰ τὸν λαόν, ὅτι πάντες ἐδόξαζον τὸν θεὸν ἐπὶ τῷ γεγονότι."
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4324]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G2147]]"
+- "[[G4459]]"
+- "[[G2849]]"
+- "[[G1223]]"
+- "[[G2992]]"
+- "[[G3754H]]"
+- "[[G3956]]"
+- "[[G1392]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G1096]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 4:21**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all [men] glorified God for that which was done.
 <small><sub>**BSB:**</sub></small>
 After further threats they let them go. They could not find a way to punish them, because all the people were glorifying God for what had happened.
-<small><sub>**Literal:**</sub></small>
-<the> And having further threatened [them] they let go them nothing finding the how they may punish them, on account of the people, because all were glorifying <the> God for that having happened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.20|<< Acts 4:20]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.22|Acts 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4324\|προσαπειλησάμενοι]]  [[G0630G\|ἀπέλυσαν]]  [[G0846\|αὐτοὺς]]  [[G3367\|μηδὲν]]  [[G2147\|εὑρίσκοντες]]  [[G3588\|τὸ]]  [[G4459\|πῶς]]  [[G2849\|κολάσωνται]]  [[G0846\|αὐτούς,]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G2992\|λαόν,]]  [[G3754H\|ὅτι]]  [[G3956\|πάντες]]  [[G1392\|ἐδόξαζον]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G1096\|γεγονότι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MIRACLES|MIRACLES]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.20|<< Acts 4:20]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.22|Acts 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

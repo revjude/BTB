@@ -1,10 +1,62 @@
+---
+title: Matthew 21:30
+type: Verse
+kjv: "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not."
+bsb: "Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go."
+jesus_said: "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not."
+greek: "Καὶ προσελθὼν δὲ τῷ ἑτέρῳ εἶπεν ὡσαύτως. ὁ δὲ ἀποκριθεὶς εἶπεν· ἐγώ, κύριε· καὶ οὐκ ἀπῆλθεν."
+pericope: "[[Matt.21.28 The Parable of the Two Sons|The Parable of the Two Sons]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2087]]"
+- "[[G2036]]"
+- "[[G5615]]"
+- "[[G0611]]"
+- "[[G1473]]"
+- "[[G2962H]]"
+- "[[G3756]]"
+- "[[G0565]]"
+texts:
+- k
+- NKO
+- no
+- N(K)O
+---
+
 **Matthew 21:30**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came to the second, and said likewise. And he answered and said, I [go], sir: and went not.
 <small><sub>**BSB:**</sub></small>
 Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.
-<small><sub>**Literal:**</sub></small>
-and Having come then to the other he said likewise. <the> And answering he said; I myself [will] sir; and not did he go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.29|<< Matthew 21:29]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.31|Matthew 21:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4334\|προσελθὼν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2087\|ἑτέρῳ]]  [[G2036\|εἶπεν]]  [[G5615\|ὡσαύτως.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G1473\|ἐγώ,]]  [[G2962H\|κύριε·]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0565\|ἀπῆλθεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROOF|REPROOF]] • [[topic VINEYARD|VINEYARD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.29|<< Matthew 21:29]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.31|Matthew 21:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 31:16
+type: Verse
+kjv: "Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;"
+bsb: "In addition, they distributed portions to the males registered by genealogy who were three years of age or older—to all who would enter the house of the LORD for their daily duties for service in the responsibilities of their divisions—"
+hebrew: "מִלְּבַ֞ד הִתְיַחְשָׂ֣ם לִזְכָרִ֗ים מִבֶּ֨ן שָׁל֤וֹשׁ שָׁנִים֙ וּלְמַ֔עְלָה לְכָל־ הַבָּ֥א לְבֵית־ יְהוָ֖ה לִדְבַר־ י֣וֹם בְּיוֹמ֑וֹ לַעֲב֣וֹדָתָ֔ם בְּמִשְׁמְרוֹתָ֖ם כְּמַחְלְקוֹתֵיהֶֽם׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PENSION|PENSION]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H3187]]"
+- "[[H9048]]"
+- "[[H2145]]"
+- "[[H1121L]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H1697J]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H5656H]]"
+- "[[H9028]]"
+- "[[H4931]]"
+- "[[H9004]]"
+- "[[H4256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:16**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their genealogy of males, from three years old and upward, [even] unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses;
 <small><sub>**BSB:**</sub></small>
 In addition, they distributed portions to the males registered by genealogy who were three years of age or older—to all who would enter the house of the LORD for their daily duties for service in the responsibilities of their divisions—
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַ֞ד]] [[H3187\|הִתְיַחְשָׂ֣]][[H9048\|ם]] [[H9005\|לִ]][[H2145\|זְכָרִ֗ים]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H7969\|שָׁל֤וֹשׁ]] [[H8141\|שָׁנִים֙]] [[H9002\|וּ]][[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּ֥א]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ]][[H1697J\|דְבַר]][[H9014\|־]] [[H3117J\|י֣וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמ֑]][[H9023\|וֹ]] [[H9005\|לַ]][[H5656H\|עֲב֣וֹדָתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H4931\|מִשְׁמְרוֹתָ֖]][[H9028\|ם]] [[H9004\|כְּ]][[H4256\|מַחְלְקוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LEVITES|LEVITES]] • [[topic PENSION|PENSION]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.15|<< 2 Chronicles 31:15]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.17|2 Chronicles 31:17 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: 1 Peter 2:17
+type: Verse
+kjv: "Honour all men. Love the brotherhood. Fear God. Honour the king."
+bsb: "Treat everyone with high regard: Love the brotherhood of believers, fear God, honor the king."
+greek: "πάντας τιμήσατε, τὴν ἀδελφότητα ἀγαπᾶτε, τὸν θεὸν φοβεῖσθε, τὸν βασιλέα τιμᾶτε.¶"
+pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESPECT|RESPECT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G3956]]"
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G0081]]"
+- "[[G0025]]"
+- "[[G2316]]"
+- "[[G5399]]"
+- "[[G0935]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Peter 2:17**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Honour all [men]. Love the brotherhood. Fear God. Honour the king.
 <small><sub>**BSB:**</sub></small>
 Treat everyone with high regard: Love the brotherhood of believers, fear God, honor the king.
-<small><sub>**Literal:**</sub></small>
-Everyone do honor, The brotherhood do love, <the> God do fear, the king do honor.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.16|<< 1 Peter 2:16]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.18|1 Peter 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντας]]  [[G5091\|τιμήσατε,]]  [[G3588\|τὴν]]  [[G0081\|ἀδελφότητα]]  [[G0025\|ἀγαπᾶτε,]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G5399\|φοβεῖσθε,]]  [[G3588\|τὸν]]  [[G0935\|βασιλέα]]  [[G5091\|τιμᾶτε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOVE|LOVE]] • [[topic RESPECT|RESPECT]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.16|<< 1 Peter 2:16]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.18|1 Peter 2:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:17** is...
 > $\quad$ alluding to: [[LXX.Prov.24.21|Prov 24:21]]

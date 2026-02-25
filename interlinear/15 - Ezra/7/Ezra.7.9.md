@@ -1,8 +1,66 @@
+---
+title: Ezra 7:9
+type: Verse
+kjv: "For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him."
+bsb: "He had begun the journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, for the gracious hand of his God was upon him."
+hebrew: "כִּ֗י בְּאֶחָד֙ לַחֹ֣דֶשׁ הָרִאשׁ֔וֹן ה֣וּא יְסֻ֔ד הַֽמַּעֲלָ֖ה מִבָּבֶ֑ל וּבְאֶחָ֞ד לַחֹ֣דֶשׁ הַחֲמִישִׁ֗י בָּ֚א אֶל־ יְר֣וּשָׁלִַ֔ם כְּיַד־ אֱלֹהָ֖יו הַטּוֹבָ֥ה עָלָֽיו׃"
+pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H1931]]"
+- "[[H3246]]"
+- "[[H4609B]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H2549]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H9004]]"
+- "[[H3027H]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H2896A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:9**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For upon the first [day] of the first month began he to go up from Babylon, and on the first [day] of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
 <small><sub>**BSB:**</sub></small>
 He had begun the journey from Babylon on the first day of the first month, and he arrived in Jerusalem on the first day of the fifth month, for the gracious hand of his God was upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H0259\|אֶחָד֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֔וֹן]] [[H1931\|ה֣וּא]] [[H3246\|יְסֻ֔ד]] [[H9009\|הַֽ]][[H4609B\|מַּעֲלָ֖ה]] [[H9006\|מִ]][[H0894\|בָּבֶ֑ל]] [[H9002\|וּ]][[H9003\|בְ]][[H0259\|אֶחָ֞ד]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֗י]] [[H0935G\|בָּ֚א]] [[H0413\|אֶל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9004\|כְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0430G\|אֱלֹהָ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֥ה]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.8|<< Ezra 7:8]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.10|Ezra 7:10 >>]]</td></tr></table>
 

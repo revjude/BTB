@@ -1,10 +1,68 @@
+---
+title: John 8:28
+type: Verse
+kjv: "Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things."
+bsb: "So Jesus said, “When you have lifted up the Son of Man, then you will know that I am He, and that I do nothing on My own, but speak exactly what the Father has taught Me."
+jesus_said: "When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things."
+greek: "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου, τότε γνώσεσθε ὅτι ἐγώ εἰμι, καὶ ἀπ᾽ ἐμαυτοῦ ποιῶ οὐδέν, ἀλλὰ καθὼς ἐδίδαξέν με ὁ πατὴρ μου, ταῦτα λαλῶ."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3752]]"
+- "[[G5312]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G5119]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G4160G]]"
+- "[[G3762]]"
+- "[[G0235]]"
+- "[[G2531]]"
+- "[[G1321]]"
+- "[[G3165]]"
+- "[[G3962]]"
+- "[[G3778]]"
+- "[[G2980]]"
+texts:
+- NKO
+- ko
+---
+
 **John 8:28**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am [he], and [that] I do nothing of myself; but as my Father hath taught me, I speak these things.
 <small><sub>**BSB:**</sub></small>
 So Jesus said, “When you have lifted up the Son of Man, then you will know that I am He, and that I do nothing on My own, but speak exactly what the Father has taught Me.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Jesus; When you may have lifted up the Son <the> of Man, then you will know that I myself am [He], and from Myself I do no [thing], but even as taught Me the Father of mine these things I speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.27|<< John 8:27]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.29|John 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3752\|ὅταν]]  [[G5312\|ὑψώσητε]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου,]]  [[G5119\|τότε]]  [[G1097\|γνώσεσθε]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G2532\|καὶ]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G4160G\|ποιῶ]]  [[G3762\|οὐδέν,]]  [[G0235\|ἀλλὰ]]  [[G2531\|καθὼς]]  [[G1321\|ἐδίδαξέν]]  [[G3165\|με]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3165\|μου,]]  [[G3778\|ταῦτα]]  [[G2980\|λαλῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.27|<< John 8:27]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.29|John 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 2:24
+type: Verse
+kjv: "Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lieth before Giah by the way of the wilderness of Gibeon."
+bsb: "But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah opposite Giah on the way to the wilderness of Gibeon."
+hebrew: "וַֽיִּרְדְּפ֛וּ יוֹאָ֥ב וַאֲבִישַׁ֖י אַחֲרֵ֣י אַבְנֵ֑ר וְהַשֶּׁ֣מֶשׁ בָּ֔אָה וְהֵ֗מָּה בָּ֚אוּ עַד־ גִּבְעַ֣ת אַמָּ֔ה אֲשֶׁר֙ עַל־ פְּנֵי־ גִ֔יחַ דֶּ֖רֶךְ מִדְבַּ֥ר גִּבְעֽוֹן׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ABNER|ABNER]]"
+- "[[topic AMMAH|AMMAH]]"
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIAH|GIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H0052]]"
+- "[[H0310A]]"
+- "[[H0074]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H0935G]]"
+- "[[H1992]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1389I]]"
+- "[[H0522]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H1520]]"
+- "[[H1870K]]"
+- "[[H4057B]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:24**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that [lieth] before Giah by the way of the wilderness of Gibeon.
 <small><sub>**BSB:**</sub></small>
 But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah opposite Giah on the way to the wilderness of Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7291\|יִּרְדְּפ֛וּ]] [[H3097G\|יוֹאָ֥ב]] [[H9002\|וַ]][[H0052\|אֲבִישַׁ֖י]] [[H0310A\|אַחֲרֵ֣י]] [[H0074\|אַבְנֵ֑ר]] [[H9002\|וְ]][[H9009\|הַ]][[H8121\|שֶּׁ֣מֶשׁ]] [[H0935G\|בָּ֔אָה]] [[H9002\|וְ]][[H1992\|הֵ֗מָּה]] [[H0935G\|בָּ֚אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1389I\|גִּבְעַ֣ת]] [[H0522\|אַמָּ֔ה]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵי]][[H9014\|־]] [[H1520\|גִ֔יחַ]] [[H1870K\|דֶּ֖רֶךְ]] [[H4057B\|מִדְבַּ֥ר]] [[H1391\|גִּבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ABNER|ABNER]] • [[topic AMMAH|AMMAH]] • [[topic ASAHEL|ASAHEL]] • [[topic DAVID|DAVID]] • [[topic GIAH|GIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.23|<< 2 Samuel 2:23]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.25|2 Samuel 2:25 >>]]</td></tr></table>
 

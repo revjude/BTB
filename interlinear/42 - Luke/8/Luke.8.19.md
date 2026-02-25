@@ -1,10 +1,56 @@
+---
+title: Luke 8:19
+type: Verse
+kjv: "Then came to him his mother and his brethren, and could not come at him for the press."
+bsb: "Then Jesus’ mother and brothers came to see Him, but they were unable to reach Him because of the crowd."
+greek: "Παρεγένετο δὲ πρὸς αὐτὸν ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ καὶ οὐκ ἠδύναντο συντυχεῖν αὐτῷ διὰ τὸν ὄχλον."
+pericope: "[[Luke.8.19 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G4940]]"
+- "[[G1223]]"
+- "[[G3793]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 8:19**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came to him [his] mother and his brethren, and could not come at him for the press.
 <small><sub>**BSB:**</sub></small>
 Then Jesus’ mother and brothers came to see Him, but they were unable to reach Him because of the crowd.
-<small><sub>**Literal:**</sub></small>
-she came then to Him the mother and the brothers of Him and not they were able to get to Him because of the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.18|<< Luke 8:18]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.20|Luke 8:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|Παρεγένετο]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1410\|ἠδύναντο]]  [[G4940\|συντυχεῖν]]  [[G0846\|αὐτῷ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.18|<< Luke 8:18]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.20|Luke 8:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

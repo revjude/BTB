@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Teach Your Children
+type: Pericope
 pericope: "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 6
 book/chapter: "[[Deut.6|Deuteronomy 6]]"
-genre:
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.6.20]]"
 - "[[Deut.6.21]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.6.25]]"
 ---
 
-[[Deut.6|Deuteronomy 6:20 - Deuteronomy 6:25]]
+<small>[[Deut.6|Deuteronomy 6:20-25]]</small>
 *Teach Your Children*
 
 [[Deut.6.20|20]] \[And\] when thy son asketh thee in time to come, saying, What \[mean\] the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?

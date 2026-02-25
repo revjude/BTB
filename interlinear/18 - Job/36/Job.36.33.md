@@ -1,8 +1,52 @@
+---
+title: Job 36:33
+type: Verse
+kjv: "The noise thereof sheweth concerning it, the cattle also concerning the vapour."
+bsb: "The thunder declares His presence; even the cattle regard the rising storm."
+hebrew: "יַגִּ֣יד עָלָ֣יו רֵע֑וֹ מִ֝קְנֶ֗ה אַ֣ף עַל־ עוֹלֶֽה׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H5046]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7452]]"
+- "[[H9023]]"
+- "[[H4735]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:33**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The noise thereof sheweth concerning it, the cattle also concerning the vapour.
 <small><sub>**BSB:**</sub></small>
 The thunder declares His presence; even the cattle regard the rising storm.
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|יַגִּ֣יד]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H7452\|רֵע֑]][[H9023\|וֹ]] [[H4735\|מִ֝קְנֶ֗ה]] [[H0637\|אַ֣ף]] [[H5921A\|עַל]][[H9014\|־]] [[H5927G\|עוֹלֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.32|<< Job 36:32]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.1|Job 37:1 >>]]</td></tr></table>
 

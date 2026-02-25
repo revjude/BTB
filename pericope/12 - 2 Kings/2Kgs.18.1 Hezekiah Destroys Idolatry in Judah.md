@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Destroys Idolatry in Judah
+type: Pericope
 pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 18
 book/chapter: "[[2Kgs.18|2 Kings 18]]"
-genre:
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[2Kgs.18.1]]"
 - "[[2Kgs.18.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Kgs.18.12]]"
 ---
 
-[[2Kgs.18|2 Kings 18:1 - 2 Kings 18:12]]
+<small>[[2Kgs.18|2 Kings 18:1-12]]</small>
 *Hezekiah Destroys Idolatry in Judah*
 
 [[2Kgs.18.1|1]] Now it came to pass in the third year of Hoshea son of Elah king of Israel, \[that\] Hezekiah the son of Ahaz king of Judah began to reign.

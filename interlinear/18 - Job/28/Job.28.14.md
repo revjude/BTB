@@ -1,8 +1,54 @@
+---
+title: Job 28:14
+type: Verse
+kjv: "The depth saith, It is not in me: and the sea saith, It is not with me."
+bsb: "The ocean depths say, ‘It is not in me,’ while the sea declares, ‘It is not with me.’"
+hebrew: "תְּה֣וֹם אָ֭מַר לֹ֣א בִי־ הִ֑יא וְיָ֥ם אָ֝מַ֗ר אֵ֣ין עִמָּדִֽי׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H8415]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3220G]]"
+- "[[H0369]]"
+- "[[H5978]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:14**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The depth saith, It [is] not in me: and the sea saith, [It is] not with me.
 <small><sub>**BSB:**</sub></small>
 The ocean depths say, ‘It is not in me,’ while the sea declares, ‘It is not with me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H8415\|תְּה֣וֹם]] [[H0559\|אָ֭מַר]] [[H3808\|לֹ֣א]] [[H9003\|בִ]][[H9030\|י]][[H9014\|־]] [[H1931\|הִ֑יא]] [[H9002\|וְ]][[H3220G\|יָ֥ם]] [[H0559\|אָ֝מַ֗ר]] [[H0369\|אֵ֣ין]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.13|<< Job 28:13]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.15|Job 28:15 >>]]</td></tr></table>
 

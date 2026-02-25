@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Two Sons
+type: Pericope
 pericope: "[[Matt.21.28 The Parable of the Two Sons|The Parable of the Two Sons]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.21.28]]"
 - "[[Matt.21.29]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.21.32]]"
 ---
 
-[[Matt.21|Matthew 21:28 - Matthew 21:32]]
+<small>[[Matt.21|Matthew 21:28-32]]</small>
 *The Parable of the Two Sons*
 
 [[Matt.21.28|28]] But what think ye? A \[certain\] man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.

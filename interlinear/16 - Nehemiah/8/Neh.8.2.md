@@ -1,8 +1,74 @@
+---
+title: Nehemiah 8:2
+type: Verse
+kjv: "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month."
+bsb: "On the first day of the seventh month, Ezra the priest brought the Law before the assembly of men and women and all who could listen and understand."
+hebrew: "וַיָּבִ֣יא עֶזְרָ֣א הַ֠כֹּהֵן אֶֽת־ הַתּוֹרָ֞ה לִפְנֵ֤י הַקָּהָל֙ מֵאִ֣ישׁ וְעַד־ אִשָּׁ֔ה וְכֹ֖ל מֵבִ֣ין לִשְׁמֹ֑עַ בְּי֥וֹם אֶחָ֖ד לַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃"
+pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H5830G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8451]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6951]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0802G]]"
+- "[[H3605]]"
+- "[[H0995]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H2320G]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:2**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 <small><sub>**BSB:**</sub></small>
 On the first day of the seventh month, Ezra the priest brought the Law before the assembly of men and women and all who could listen and understand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֣יא]] [[H5830G\|עֶזְרָ֣א]] [[H9009\|הַ֠]][[H3548\|כֹּהֵן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָ֞ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הַ]][[H6951\|קָּהָל֙]] [[H9006\|מֵ]][[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּׁ֔ה]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H0995\|מֵבִ֣ין]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֑עַ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָ֖ד]] [[H9005\|לַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FEASTS|FEASTS]] • [[topic LAW|LAW]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TRUMPETS|TRUMPETS]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.1|<< Nehemiah 8:1]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.3|Nehemiah 8:3 >>]]</td></tr></table>
 

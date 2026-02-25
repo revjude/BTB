@@ -1,10 +1,67 @@
+---
+title: Hebrews 7:5
+type: Verse
+kjv: "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:"
+bsb: "Now the law commands the sons of Levi who become priests to collect a tenth from the people—that is, from their brothers—though they too are descended from Abraham."
+greek: "καὶ οἱ μὲν ἐκ τῶν υἱῶν Λευὶ τὴν ἱερατείαν λαμβάνοντες ἐντολὴν ἔχουσιν ἀποδεκατοῦν τὸν λαὸν κατὰ τὸν νόμον, τοῦτ᾽ ἔστιν τοὺς ἀδελφοὺς αὐτῶν, καίπερ ἐξεληλυθότας ἐκ τῆς ὀσφύος Ἀβραάμ."
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G1537]]"
+- "[[G5207]]"
+- "[[G3017J]]"
+- "[[G2405]]"
+- "[[G2983]]"
+- "[[G1785]]"
+- "[[G2192]]"
+- "[[G0586]]"
+- "[[G2992]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G2539]]"
+- "[[G1831]]"
+- "[[G3751]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:5**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:
 <small><sub>**BSB:**</sub></small>
 Now the law commands the sons of Levi who become priests to collect a tenth from the people—that is, from their brothers—though they too are descended from Abraham.
-<small><sub>**Literal:**</sub></small>
-And those indeed out from the sons of Levi the priestly office receiving a commandment have to take a tenth from the people according to the law, That is from the brothers of them, though having come out of the loin of Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.4|<< Hebrews 7:4]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.6|Hebrews 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G3017J\|Λευὶ]]  [[G3588\|τὴν]]  [[G2405\|ἱερατείαν]]  [[G2983\|λαμβάνοντες]]  [[G1785\|ἐντολὴν]]  [[G2192\|ἔχουσιν]]  [[G0586\|ἀποδεκατοῦν]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτῶν,]]  [[G2539\|καίπερ]]  [[G1831\|ἐξεληλυθότας]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3751\|ὀσφύος]]  [[G0011\|Ἀβραάμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TITHES|TITHES]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.4|<< Hebrews 7:4]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.6|Hebrews 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

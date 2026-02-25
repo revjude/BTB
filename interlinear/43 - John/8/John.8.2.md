@@ -1,10 +1,57 @@
+---
+title: John 8:2
+type: Verse
+kjv: "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them."
+bsb: "Early in the morning He went back into the temple courts. All the people came to Him, and He sat down to teach them."
+greek: "ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερὸν, καὶ πᾶς ὁ λαὸς ἤρχετο πρὸς αὐτόν, καὶ καθίσας ἐδίδασκεν αὐτούς."
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3722]]"
+- "[[G1161]]"
+- "[[G3825]]"
+- "[[G3854]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2523]]"
+- "[[G1321]]"
+texts:
+- KO
+---
+
 **John 8:2**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
 <small><sub>**BSB:**</sub></small>
 Early in the morning He went back into the temple courts. All the people came to Him, and He sat down to teach them.
-<small><sub>**Literal:**</sub></small>
-Early in the morning then again He came into the temple, and all the people were coming to Him, And having sat down He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.1|<< John 8:1]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.3|John 8:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3722\|ὄρθρου]]  [[G1161\|δὲ]]  [[G3825\|πάλιν]]  [[G3854\|παρεγένετο]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G2064\|ἤρχετο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G2523\|καθίσας]]  [[G1321\|ἐδίδασκεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.1|<< John 8:1]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.3|John 8:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,62 @@
+---
+title: 1 John 4:9
+type: Verse
+kjv: "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him."
+bsb: "This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him."
+greek: "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι᾽ αὐτοῦ."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G5319]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G3439]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G2443]]"
+- "[[G2198]]"
+- "[[G1223]]"
+texts:
+- NKO
+---
+
 **1 John 4:9**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
 <small><sub>**BSB:**</sub></small>
 This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him.
-<small><sub>**Literal:**</sub></small>
-In this has been revealed the love <the> of God among us, that the Son of Him the one and only has sent <the> God into the world so that we may live through Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.8|<< 1 John 4:8]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.10|1 John 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G5319\|ἐφανερώθη]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν,]]  [[G3754G\|ὅτι]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G3439\|μονογενῆ]]  [[G0649\|ἀπέσταλκεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2443\|ἵνα]]  [[G2198\|ζήσωμεν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.8|<< 1 John 4:8]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.10|1 John 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

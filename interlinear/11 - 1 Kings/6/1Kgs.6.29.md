@@ -1,8 +1,66 @@
+---
+title: 1 Kings 6:29
+type: Verse
+kjv: "And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without."
+bsb: "Then he carved the walls all around the temple, in both the inner and outer sanctuaries, with carved engravings of cherubim, palm trees, and open flowers."
+hebrew: "וְאֵת֩ כָּל־ קִיר֨וֹת הַבַּ֜יִת מֵסַ֣ב׀ קָלַ֗ע פִּתּוּחֵי֙ מִקְלְעוֹת֙ כְּרוּבִ֣ים וְתִֽמֹרֹ֔ת וּפְטוּרֵ֖י צִצִּ֑ים מִלִּפְנִ֖ים וְלַחִיצֽוֹן׃"
+pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7023]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H4524]]"
+- "[[H9015]]"
+- "[[H7049B]]"
+- "[[H6603]]"
+- "[[H4734]]"
+- "[[H3742]]"
+- "[[H8561]]"
+- "[[H6362]]"
+- "[[H6731A]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2435]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:29**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carved all the walls of the house round about with carved figures of cherubims and palm trees and open flowers, within and without.
 <small><sub>**BSB:**</sub></small>
 Then he carved the walls all around the temple, in both the inner and outer sanctuaries, with carved engravings of cherubim, palm trees, and open flowers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H7023\|קִיר֨וֹת]] [[H9009\|הַ]][[H1004B\|בַּ֜יִת]] [[H4524\|מֵסַ֣ב]][[H9015\|׀]] [[H7049B\|קָלַ֗ע]] [[H6603\|פִּתּוּחֵי֙]] [[H4734\|מִקְלְעוֹת֙]] [[H3742\|כְּרוּבִ֣ים]] [[H9002\|וְ]][[H8561\|תִֽמֹרֹ֔ת]] [[H9002\|וּ]][[H6362\|פְטוּרֵ֖י]] [[H6731A\|צִצִּ֑ים]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנִ֖ים]] [[H9002\|וְ]][[H9005\|לַ]][[H2435\|חִיצֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic CHERUBIM|CHERUBIM]] • [[topic PALM TREE|PALM TREE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.28|<< 1 Kings 6:28]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.30|1 Kings 6:30 >>]]</td></tr></table>
 

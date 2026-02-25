@@ -1,6 +1,57 @@
+---
+title: LXX Jeremiah 8:9
+type: Verse
+lxx: "The wise men are ashamed, terrified, and convicted; for the word of the lord they rejected; what wisdom is in them?"
+greek: "ησχύνθησαν σοφοί επτοήθησαν και εάλωσαν ότι τον λόγον κυρίου απεδοκίμασαν σοφία τις εστίν εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0153]]"
+- "[[G4680]]"
+- "[[G4422]]"
+- "[[G2532]]"
+- "[[G6226]]"
+- "[[G3754]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2962]]"
+- "[[G0593]]"
+- "[[G4678]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 8:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] wise men are ashamed, terrified, and convicted; for the word of \[the\] <span class="smallcaps">lord</span> they rejected; what wisdom is in them? 
+<small><sub>**Greek:**</sub></small>
+[[G0153\|ησχύνθησαν]] [[G4680\|σοφοί]] [[G4422\|επτοήθησαν]] [[G2532\|και]] [[G6226\|εάλωσαν]] [[G3754\|ότι]] [[G3588\|τον]] [[G3056\|λόγον]] [[G2962\|κυρίου]] [[G0593\|απεδοκίμασαν]] [[G4678\|σοφία]] [[G5100\|τις]] [[G1510\|εστίν]] [[G1722\|εν]] [[G1473\|αυτοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
 
@@ -20,6 +71,6 @@
 | is | **<big>[[G1510\|εστίν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | them? | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Jer.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
 
 

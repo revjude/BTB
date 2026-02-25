@@ -1,10 +1,62 @@
+---
+title: Mark 13:20
+type: Verse
+kjv: "And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days."
+bsb: "If the Lord had not cut short those days, nobody would be saved. But for the sake of the elect, whom He has chosen, He has cut them short."
+jesus_said: "And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days."
+greek: "καὶ εἰ μὴ ἐκολόβωσεν κύριος τὰς ἡμέρας, οὐκ ἂν ἐσώθη πᾶσα σάρξ· ἀλλὰ διὰ τοὺς ἐκλεκτοὺς οὓς ἐξελέξατο ἐκολόβωσεν τὰς ἡμέρας."
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2856]]"
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G4982]]"
+- "[[G3956]]"
+- "[[G4561]]"
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G1588]]"
+- "[[G3739]]"
+- "[[G1586]]"
+texts:
+- NKO
+---
+
 **Mark 13:20**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.
 <small><sub>**BSB:**</sub></small>
 If the Lord had not cut short those days, nobody would be saved. But for the sake of the elect, whom He has chosen, He has cut them short.
-<small><sub>**Literal:**</sub></small>
-And only unless shortened [the] Lord the days, not then would there have been saved any flesh; but on account of the elect whom He chose He has shortened the days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.19|<< Mark 13:19]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.21|Mark 13:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G2856\|ἐκολόβωσεν]]  [[G2962G\|κύριος]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας,]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G4982\|ἐσώθη]]  [[G3956\|πᾶσα]]  [[G4561\|σάρξ·]]  [[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G1588\|ἐκλεκτοὺς]]  [[G3739\|οὓς]]  [[G1586\|ἐξελέξατο]]  [[G2856\|ἐκολόβωσεν]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.19|<< Mark 13:19]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.21|Mark 13:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

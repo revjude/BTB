@@ -1,10 +1,57 @@
+---
+title: John 3:13
+type: Verse
+kjv: "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
+bsb: "No one has ascended into heaven except the One who descended from heaven—the Son of Man."
+jesus_said: "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
+greek: "καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὢν ἐν τῷ οὐρανῷ."
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1537]]"
+- "[[G2597]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1510]]"
+- "[[G1722]]"
+texts:
+- NKO
+- KO
+---
+
 **John 3:13**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no man hath ascended up to heaven, but he that came down from heaven, [even] the Son of man which is in heaven.
 <small><sub>**BSB:**</sub></small>
 No one has ascended into heaven except the One who descended from heaven—the Son of Man.
-<small><sub>**Literal:**</sub></small>
-And no [one] has gone up into <the> heaven only except the [One] out of <the> heaven having come down, the Son <the> of Man who is being in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.12|<< John 3:12]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.14|John 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G0305\|ἀναβέβηκεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2597\|καταβάς,]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.12|<< John 3:12]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.14|John 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

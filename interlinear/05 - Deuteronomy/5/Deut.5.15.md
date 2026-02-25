@@ -1,8 +1,86 @@
+---
+title: Deuteronomy 5:15
+type: Verse
+kjv: "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day."
+bsb: "Remember that you were a slave in the land of Egypt, and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. That is why the LORD your God has commanded you to keep the Sabbath day."
+hebrew: "וְזָכַרְתָּ֞֗ כִּ֣י־ עֶ֤֥בֶד הָיִ֣֙יתָ֙׀ בְּאֶ֣רֶץ מִצְרַ֔֗יִם וַיֹּצִ֨אֲךָ֜֩ יְהוָ֤֨ה אֱלֹהֶ֤֙יךָ֙ מִשָּׁ֔ם֙ בְּיָ֤֥ד חֲזָקָ֖ה֙ וּבִזְרֹ֣עַ נְטוּיָ֑֔ה עַל־ כֵּ֗ן צִוְּךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לַעֲשׂ֖וֹת אֶת־ י֥וֹם הַשַׁבָּֽת׃ ס"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOLDEN RULE|GOLDEN RULE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L(p)
+- L
+---
+
 **Deuteronomy 5:15**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And remember that thou wast a servant in the land of Egypt, and [that] the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.
 <small><sub>**BSB:**</sub></small>
 Remember that you were a slave in the land of Egypt, and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. That is why the LORD your God has commanded you to keep the Sabbath day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתָּ֞֗]] [[H3588A\|כִּ֣י]][[H9014\|־]] [[H5650\|עֶ֤֥בֶד]] [[H1961\|הָיִ֣֙יתָ֙]][[H9015\|׀]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔֗יִם]] [[H9001\|וַ]][[H3318H\|יֹּצִ֨אֲ]][[H9031\|ךָ֜֩]] [[H3068G\|יְהוָ֤֨ה]] [[H0430G\|אֱלֹהֶ֤֙י]][[H9021\|ךָ֙]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם֙]] [[H9003\|בְּ]][[H3027H\|יָ֤֥ד]] [[H2389\|חֲזָקָ֖ה֙]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְרֹ֣עַ]] [[H5186\|נְטוּיָ֑֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H6680\|צִוְּ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7676\|שַׁבָּֽת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic GOLDEN RULE|GOLDEN RULE]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SABBATH|SABBATH]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.14|<< Deuteronomy 5:14]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.16|Deuteronomy 5:16 >>]]</td></tr></table>
 
@@ -30,7 +108,7 @@ Remember that you were a slave in the land of Egypt, and that the LORD your God 
 | to observe  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֖וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] day of  |**<big>&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַׁבָּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַׁבָּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.14|<< Deuteronomy 5:14]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.16|Deuteronomy 5:16 >>]]</td></tr></table>
 
 [^1]: P spelled: **<span class="ashebrew"><big>וְזָכַרְתָּ֞</big></span>**

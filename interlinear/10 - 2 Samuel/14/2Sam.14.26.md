@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 14:26
+type: Verse
+kjv: "And when he polled his head, (for it was at every year’s end that he polled it: because the hair was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight."
+bsb: "And when he cut the hair of his head—he shaved it every year because his hair got so heavy—he would weigh it out to be two hundred shekels, according to the royal standard."
+hebrew: "וּֽבְגַלְּחוֹ֮ אֶת־ רֹאשׁוֹ֒ וְֽ֠הָיָה מִקֵּ֨ץ יָמִ֤ים׀ לַיָּמִים֙ אֲשֶׁ֣ר יְגַלֵּ֔חַ כִּֽי־ כָבֵ֥ד עָלָ֖יו וְגִלְּח֑וֹ וְשָׁקַל֙ אֶת־ שְׂעַ֣ר רֹאשׁ֔וֹ מָאתַ֥יִם שְׁקָלִ֖ים בְּאֶ֥בֶן הַמֶּֽלֶךְ׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic HAIR|HAIR]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1548]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H3117I]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H3588A]]"
+- "[[H3515]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8254]]"
+- "[[H8181]]"
+- "[[H3967]]"
+- "[[H8255]]"
+- "[[H0068H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:26**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he polled his head, (for it was at every year’s end that he polled [it]: because [the hair] was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.
 <small><sub>**BSB:**</sub></small>
 And when he cut the hair of his head—he shaved it every year because his hair got so heavy—he would weigh it out to be two hundred shekels, according to the royal standard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H1548\|גַלְּח]][[H9043\|וֹ֮]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ]][[H9023\|וֹ֒]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9006\|מִ]][[H7093\|קֵּ֨ץ]] [[H3117I\|יָמִ֤ים]][[H9015\|׀]] [[H9005\|לַ]][[H3117I\|יָּמִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1548\|יְגַלֵּ֔חַ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3515\|כָבֵ֥ד]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וְ]][[H1548\|גִלְּח֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H8254\|שָׁקַל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8181\|שְׂעַ֣ר]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H3967\|מָאתַ֥יִם]] [[H8255\|שְׁקָלִ֖ים]] [[H9003\|בְּ]][[H0068H\|אֶ֥בֶן]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIR|HAIR]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 

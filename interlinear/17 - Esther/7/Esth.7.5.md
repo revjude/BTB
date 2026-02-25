@@ -1,8 +1,62 @@
+---
+title: Esther 7:5
+type: Verse
+kjv: "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"
+bsb: "Then King Xerxes spoke up and asked Queen Esther, “Who is this, and where is the one who would devise such a scheme?”"
+hebrew: "וַיֹּ֙אמֶר֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ וַיֹּ֖אמֶר לְאֶסְתֵּ֣ר הַמַּלְכָּ֑ה מִ֣י ה֥וּא זֶה֙ וְאֵֽי־ זֶ֣ה ה֔וּא אֲשֶׁר־ מְלָא֥וֹ לִבּ֖וֹ לַעֲשׂ֥וֹת כֵּֽן׃"
+pericope: "[[Esth.7.1 Esther Pleads for Her People|Esther Pleads for Her People]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H9005]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H4310]]"
+- "[[H1931]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0335]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H4390]]"
+- "[[H9033]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 7:5**<big><big>[[Esth.7.1 Esther Pleads for Her People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?
 <small><sub>**BSB:**</sub></small>
 Then King Xerxes spoke up and asked Queen Esther, “Who is this, and where is the one who would devise such a scheme?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֲחַשְׁוֵר֔וֹשׁ]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H9005\|לְ]][[H0635\|אֶסְתֵּ֣ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֑ה]] [[H4310\|מִ֣י]] [[H1931\|ה֥וּא]] [[H2088\|זֶה֙]] [[H9002\|וְ]][[H0335\|אֵֽי]][[H9014\|־]] [[H2088\|זֶ֣ה]] [[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4390\|מְלָא֥]][[H9033\|וֹ]] [[H3820A\|לִבּ֖]][[H9023\|וֹ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H3651C\|כֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.4|<< Esther 7:4]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.6|Esther 7:6 >>]]</td></tr></table>
 

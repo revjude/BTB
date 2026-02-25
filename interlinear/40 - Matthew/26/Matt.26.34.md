@@ -1,10 +1,61 @@
+---
+title: Matthew 26:34
+type: Verse
+kjv: "Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+bsb: "“Truly I tell you,” Jesus declared, “this very night, before the rooster crows, you will deny Me three times.”"
+jesus_said: "Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice."
+greek: "Ἔφη αὐτῷ ὁ Ἰησοῦς· ἀμὴν λέγω σοι ὅτι ἐν ταύτῃ τῇ νυκτὶ πρὶν ἀλέκτορα φωνῆσαι τρὶς ἀπαρνήσῃ με.¶"
+pericope: "[[Matt.26.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COCK CROWING|COCK CROWING]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3571]]"
+- "[[G4250]]"
+- "[[G0220]]"
+- "[[G5455]]"
+- "[[G5151]]"
+- "[[G0533]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 26:34**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” Jesus declared, “this very night, before the rooster crows, you will deny Me three times.”
-<small><sub>**Literal:**</sub></small>
-was saying to him <the> Jesus; Amen I say to you that during this <the> night before [the] rooster crowing three times you will deny Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.33|<< Matthew 26:33]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.35|Matthew 26:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5346\|Ἔφη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G4250\|πρὶν]]  [[G0220\|ἀλέκτορα]]  [[G5455\|φωνῆσαι]]  [[G5151\|τρὶς]]  [[G0533\|ἀπαρνήσῃ]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COCK CROWING|COCK CROWING]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.33|<< Matthew 26:33]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.35|Matthew 26:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

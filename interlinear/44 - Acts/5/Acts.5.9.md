@@ -1,10 +1,71 @@
+---
+title: Acts 5:9
+type: Verse
+kjv: "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out."
+bsb: "“How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.”"
+greek: "ὁ δὲ Πέτρος εἶπεν πρὸς αὐτήν· τί ὅτι συνεφωνήθη ὑμῖν πειράσαι τὸ πνεῦμα κυρίου; ἰδοὺ οἱ πόδες τῶν θαψάντων τὸν ἄνδρα σου ἐπὶ τῇ θύρᾳ καὶ ἐξοίσουσίν σε."
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3754H]]"
+- "[[G4856]]"
+- "[[G4771]]"
+- "[[G3985H]]"
+- "[[G4151G]]"
+- "[[G2962G]]"
+- "[[G2400]]"
+- "[[G4228]]"
+- "[[G2290]]"
+- "[[G0435H]]"
+- "[[G1909]]"
+- "[[G2374]]"
+- "[[G2532]]"
+- "[[G1627]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:9**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband [are] at the door, and shall carry thee out.
 <small><sub>**BSB:**</sub></small>
 “How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.”
-<small><sub>**Literal:**</sub></small>
-<the> But Peter said to her; Why [is it] for it was agreed together by you to test the Spirit of [the] Lord? Behold the feet of those having buried the husband of you [are] at the door and they will carry out you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.8|<< Acts 5:8]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.10|Acts 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτήν·]]  [[G5101\|τί]]  [[G3754H\|ὅτι]]  [[G4856\|συνεφωνήθη]]  [[G4771\|ὑμῖν]]  [[G3985H\|πειράσαι]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2962G\|κυρίου;]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G4228\|πόδες]]  [[G3588\|τῶν]]  [[G2290\|θαψάντων]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα]]  [[G4771\|σου]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G2374\|θύρᾳ]]  [[G2532\|καὶ]]  [[G1627\|ἐξοίσουσίν]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic BURIAL|BURIAL]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.8|<< Acts 5:8]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.10|Acts 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

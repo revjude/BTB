@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judges and Justice
+type: Pericope
 pericope: "[[Deut.16.18 Judges and Justice|Judges and Justice]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 16
 book/chapter: "[[Deut.16|Deuteronomy 16]]"
-genre:
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,13 +26,14 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 3
 verses:
 - "[[Deut.16.18]]"
 - "[[Deut.16.19]]"
 - "[[Deut.16.20]]"
 ---
 
-[[Deut.16|Deuteronomy 16:18 - Deuteronomy 16:20]]
+<small>[[Deut.16|Deuteronomy 16:18-20]]</small>
 *Judges and Justice*
 
 [[Deut.16.18|18]] Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.

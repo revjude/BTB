@@ -1,8 +1,66 @@
+---
+title: 2 Kings 13:6
+type: Verse
+kjv: "Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, but walked therein: and there remained the grove also in Samaria.)"
+bsb: "Nevertheless, they did not turn away from the sins that the house of Jeroboam had caused Israel to commit, but they continued to walk in them. The Asherah pole even remained standing in Samaria."
+hebrew: "אַ֠ךְ לֹֽא־ סָ֜רוּ מֵחַטֹּ֧אות בֵּית־ יָרָבְעָ֛ם אֲשֶׁר־ הֶחֱטִ֥יא אֶת־ יִשְׂרָאֵ֖ל בָּ֣הּ הָלָ֑ךְ וְגַם֙ הָאֲשֵׁרָ֔ה עָמְדָ֖ה בְּשֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.13.1 Jehoahaz Reigns in Israel|Jehoahaz Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H0389]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H2403B]]"
+- "[[H1004M]]"
+- "[[H3379G]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9009]]"
+- "[[H0842]]"
+- "[[H5975G]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 13:6**<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, [but] walked therein: and there remained the grove also in Samaria.)
 <small><sub>**BSB:**</sub></small>
 Nevertheless, they did not turn away from the sins that the house of Jeroboam had caused Israel to commit, but they continued to walk in them. The Asherah pole even remained standing in Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֠ךְ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5493H\|סָ֜רוּ]] [[H9006\|מֵ]][[H2403B\|חַטֹּ֧אות]] [[H1004M\|בֵּית]][[H9014\|־]] [[H3379G\|יָרָבְעָ֛ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2398\|הֶחֱטִ֥יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בָּ֣]][[H9034\|הּ]] [[H1980I\|הָלָ֑ךְ]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָ֔ה]] [[H5975G\|עָמְדָ֖ה]] [[H9003\|בְּ]][[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic RULERS|RULERS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.5|<< 2 Kings 13:5]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.7|2 Kings 13:7 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Brother Who Sins
+type: Pericope
 pericope: "[[Matt.18.15 A Brother Who Sins|A Brother Who Sins]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 18
 book/chapter: "[[Matt.18|Matthew 18]]"
-genre:
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.18.15]]"
 - "[[Matt.18.16]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.18.18]]"
 ---
 
-[[Matt.18|Matthew 18:15 - Matthew 18:18]]
+<small>[[Matt.18|Matthew 18:15-18]]</small>
 *A Brother Who Sins*
 
 [[Matt.18.15|15]] Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.

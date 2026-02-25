@@ -1,6 +1,50 @@
+---
+title: LXX 2 Kings 23:37
+type: Verse
+lxx: "And he did the wicked thing in the eyes of the lord according to all as much as his fathers did."
+greek: "και εποίησε το πονηρόν εν οφθαλμοίς κυρίου κατά πάντα όσα εποίησαν οι πατέρες αυτού"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G2962]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Kings 23:37** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span> according to all as much as his fathers did. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|εποίησε]] [[G3588\|το]] [[G4190\|πονηρόν]] [[G1722\|εν]] [[G3788\|οφθαλμοίς]] [[G2962\|κυρίου]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G4160\|εποίησαν]] [[G3588\|οι]] [[G3962\|πατέρες]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIAKIM|JEHOIAKIM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.36|<< 2 Kings 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.1|2 Kings 24:1 >>]]</td></tr></table>
 
@@ -19,6 +63,6 @@ And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcap
 | did | **<big>[[G4160\|εποίησαν]]</big>** |
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | his fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[2Kgs.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.36|<< 2 Kings 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.1|2 Kings 24:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.36|<< 2 Kings 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.1|2 Kings 24:1 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Danites Take Micah’s Idols
+type: Pericope
 pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 18
 book/chapter: "[[Judg.18|Judges 18]]"
-genre:
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 18
 verses:
 - "[[Judg.18.14]]"
 - "[[Judg.18.15]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Judg.18.31]]"
 ---
 
-[[Judg.18|Judges 18:14 - Judges 18:31]]
+<small>[[Judg.18|Judges 18:14-31]]</small>
 *The Danites Take Micah’s Idols*
 
 [[Judg.18.14|14]] Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do ye know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what ye have to do.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Dishonest Scales
+type: Pericope
 pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 11
 book/chapter: "[[Prov.11|Proverbs 11]]"
-genre:
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 31
 verses:
 - "[[Prov.11.1]]"
 - "[[Prov.11.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Prov.11.31]]"
 ---
 
-[[Prov.11|Proverbs 11:1 - Proverbs 11:31]]
+<small>[[Prov.11|Proverbs 11:1-31]]</small>
 *Dishonest Scales*
 
 [[Prov.11.1|1]] A false balance \[is\] abomination to the LORD: but a just weight \[is\] his delight.

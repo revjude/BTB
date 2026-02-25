@@ -1,8 +1,59 @@
+---
+title: Job 33:24
+type: Verse
+kjv: "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom."
+bsb: "to be gracious to him and say, ‘Spare him from going down to the Pit; I have found his ransom,’"
+hebrew: "וַיְחֻנֶּ֗נּוּ וַיֹּ֗אמֶר פְּ֭דָעֵהוּ מֵרֶ֥דֶת שָׁ֗חַת מָצָ֥אתִי כֹֽפֶר׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H2603A]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H6308]]"
+- "[[H9006]]"
+- "[[H3381]]"
+- "[[H7845G]]"
+- "[[H4672]]"
+- "[[H3724A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:24**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.
 <small><sub>**BSB:**</sub></small>
 to be gracious to him and say, ‘Spare him from going down to the Pit; I have found his ransom,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2603A\|יְחֻנֶּ֗]][[H9033\|נּוּ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H6308\|פְּ֭דָעֵ]][[H9033\|הוּ]] [[H9006\|מֵ]][[H3381\|רֶ֥דֶת]] [[H7845G\|שָׁ֗חַת]] [[H4672\|מָצָ֥אתִי]] [[H3724A\|כֹֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RANSOM|RANSOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.23|<< Job 33:23]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.25|Job 33:25 >>]]</td></tr></table>
 

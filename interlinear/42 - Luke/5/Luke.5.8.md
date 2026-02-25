@@ -1,10 +1,64 @@
+---
+title: Luke 5:8
+type: Verse
+kjv: "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord."
+bsb: "When Simon Peter saw this, he fell at Jesus’ knees. “Go away from me, Lord,” he said, “for I am a sinful man.”"
+greek: "Ἰδὼν δὲ Σίμων Πέτρος προσέπεσεν τοῖς γόνασιν τοῦ Ἰησοῦ λέγων· ἔξελθε ἀπ᾽ ἐμοῦ, ὅτι ἀνὴρ ἁμαρτωλός εἰμι, κύριε."
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G4363]]"
+- "[[G3588]]"
+- "[[G1119]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G3754H]]"
+- "[[G0435G]]"
+- "[[G0268]]"
+- "[[G1510]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 5:8**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Simon Peter saw [it], he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.
 <small><sub>**BSB:**</sub></small>
 When Simon Peter saw this, he fell at Jesus’ knees. “Go away from me, Lord,” he said, “for I am a sinful man.”
-<small><sub>**Literal:**</sub></small>
-Having seen now Simon Peter fell at the knees <the> of Jesus saying; do depart from me, for a man sinful am I, Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.7|<< Luke 5:7]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.9|Luke 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδὼν]]  [[G1161\|δὲ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G4363\|προσέπεσεν]]  [[G3588\|τοῖς]]  [[G1119\|γόνασιν]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3004G\|λέγων·]]  [[G1831\|ἔξελθε]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ,]]  [[G3754H\|ὅτι]]  [[G0435G\|ἀνὴρ]]  [[G0268\|ἁμαρτωλός]]  [[G1510\|εἰμι,]]  [[G2962G\|κύριε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic GALILEE|GALILEE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.7|<< Luke 5:7]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.9|Luke 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

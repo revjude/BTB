@@ -1,8 +1,61 @@
+---
+title: Joshua 10:15
+type: Verse
+kjv: "And Joshua returned, and all Israel with him, unto the camp to Gilgal."
+bsb: "Then Joshua returned with all Israel to the camp at Gilgal."
+hebrew: "וַיָּ֤שָׁב יְהוֹשֻׁ֙עַ֙ וְכָל־ יִשְׂרָאֵ֣ל עִמּ֔וֹ אֶל־ הַֽמַּחֲנֶ֖ה הַגִּלְגָּֽלָה׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H1537G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:15**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua returned, and all Israel with him, unto the camp to Gilgal.
 <small><sub>**BSB:**</sub></small>
 Then Joshua returned with all Israel to the camp at Gilgal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H9009\|הַ]][[H1537G\|גִּלְגָּֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.14|<< Joshua 10:14]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.16|Joshua 10:16 >>]]</td></tr></table>
 

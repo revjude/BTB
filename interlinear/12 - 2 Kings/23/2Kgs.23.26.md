@@ -1,8 +1,64 @@
+---
+title: 2 Kings 23:26
+type: Verse
+kjv: "Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal."
+bsb: "Nevertheless, the LORD did not turn away from the fury of His burning anger, which was kindled against Judah because of all that Manasseh had done to provoke Him to anger."
+hebrew: "אַ֣ךְ׀ לֹֽא־ שָׁ֣ב יְהוָ֗ה מֵחֲר֤וֹן אַפּוֹ֙ הַגָּד֔וֹל אֲשֶׁר־ חָרָ֥ה אַפּ֖וֹ בִּֽיהוּדָ֑ה עַ֚ל כָּל־ הַכְּעָסִ֔ים אֲשֶׁ֥ר הִכְעִיס֖וֹ מְנַשֶּֽׁה׃"
+pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H0389]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H2734]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3708A]]"
+- "[[H3707]]"
+- "[[H9033]]"
+- "[[H4519H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:26**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the LORD did not turn away from the fury of His burning anger, which was kindled against Judah because of all that Manasseh had done to provoke Him to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]][[H9015\|׀]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שָׁ֣ב]] [[H3068G\|יְהוָ֗ה]] [[H9006\|מֵ]][[H2740\|חֲר֤וֹן]] [[H0639G\|אַפּ]][[H9023\|וֹ֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2734\|חָרָ֥ה]] [[H0639G\|אַפּ֖]][[H9023\|וֹ]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֑ה]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3708A\|כְּעָסִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3707\|הִכְעִיס֖]][[H9033\|וֹ]] [[H4519H\|מְנַשֶּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.25|<< 2 Kings 23:25]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.27|2 Kings 23:27 >>]]</td></tr></table>
 

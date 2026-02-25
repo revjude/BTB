@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 15:10
+type: Verse
+kjv: "So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa."
+bsb: "So they gathered together in Jerusalem in the third month of the fifteenth year of Asa’s reign."
+hebrew: "וַיִּקָּבְצ֥וּ יְרוּשָׁלִַ֖ם בַּחֹ֣דֶשׁ הַשְּׁלִישִׁ֑י לִשְׁנַ֥ת חֲמֵשׁ־ עֶשְׂרֵ֖ה לְמַלְכ֥וּת אָסָֽא׃"
+pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H8141]]"
+- "[[H2568]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H4438]]"
+- "[[H0609G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:10**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.
 <small><sub>**BSB:**</sub></small>
 So they gathered together in Jerusalem in the third month of the fifteenth year of Asa’s reign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקָּבְצ֥וּ]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֑י]] [[H9005\|לִ]][[H8141\|שְׁנַ֥ת]] [[H2568\|חֲמֵשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9005\|לְ]][[H4438\|מַלְכ֥וּת]] [[H0609G\|אָסָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ICONOCLASM|ICONOCLASM]] • [[topic MONTH|MONTH]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.9|<< 2 Chronicles 15:9]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.11|2 Chronicles 15:11 >>]]</td></tr></table>
 

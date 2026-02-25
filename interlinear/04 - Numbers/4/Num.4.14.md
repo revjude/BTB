@@ -1,8 +1,79 @@
+---
+title: Numbers 4:14
+type: Verse
+kjv: "And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it."
+bsb: "and place on it all the vessels used to serve there: the firepans, meat forks, shovels, and sprinkling bowls—all the equipment of the altar. They are to spread over it a covering of fine leather and insert the poles."
+hebrew: "וְנָתְנ֣וּ עָ֠לָיו אֶֽת־ כָּל־ כֵּלָ֞יו אֲשֶׁ֣ר יְֽשָׁרְת֧וּ עָלָ֣יו בָּהֶ֗ם אֶת־ הַמַּחְתֹּ֤ת אֶת־ הַמִּזְלָגֹת֙ וְאֶת־ הַיָּעִ֣ים וְאֶת־ הַמִּזְרָקֹ֔ת כֹּ֖ל כְּלֵ֣י הַמִּזְבֵּ֑חַ וּפָרְשׂ֣וּ עָלָ֗יו כְּס֛וּי ע֥וֹר תַּ֖חַשׁ וְשָׂמ֥וּ בַדָּֽיו׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BADGER|BADGER]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHOVEL|SHOVEL]]"
+- "[[topic SKIN|SKIN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4289]]"
+- "[[H4207B]]"
+- "[[H9002]]"
+- "[[H3257]]"
+- "[[H4219]]"
+- "[[H4196]]"
+- "[[H6566]]"
+- "[[H3681]]"
+- "[[H5785]]"
+- "[[H8476]]"
+- "[[H7760H]]"
+- "[[H0905G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:14**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall put upon it all the vessels thereof, wherewith they minister about it, [even] the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it.
 <small><sub>**BSB:**</sub></small>
 and place on it all the vessels used to serve there: the firepans, meat forks, shovels, and sprinkling bowls—all the equipment of the altar. They are to spread over it a covering of fine leather and insert the poles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתְנ֣וּ]] [[H5921A\|עָ֠לָי]][[H9033\|ו]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֞י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H8334\|יְֽשָׁרְת֧וּ]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H9003\|בָּ]][[H9038\|הֶ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4289\|מַּחְתֹּ֤ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4207B\|מִּזְלָגֹת֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3257\|יָּעִ֣ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָקֹ֔ת]] [[H3605\|כֹּ֖ל]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וּ]][[H6566\|פָרְשׂ֣וּ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H3681\|כְּס֛וּי]] [[H5785\|ע֥וֹר]] [[H8476\|תַּ֖חַשׁ]] [[H9001\|וְ]][[H7760H\|שָׂמ֥וּ]] [[H0905G\|בַדָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BADGER|BADGER]] • [[topic CENSER|CENSER]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SHOVEL|SHOVEL]] • [[topic SKIN|SKIN]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.13|<< Numbers 4:13]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.15|Numbers 4:15 >>]]</td></tr></table>
 

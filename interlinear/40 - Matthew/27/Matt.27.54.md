@@ -1,10 +1,62 @@
+---
+title: Matthew 27:54
+type: Verse
+kjv: "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
+bsb: "When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and said, “Truly this was the Son of God.”"
+greek: "Ὁ δὲ ἑκατόνταρχος καὶ οἱ μετ᾽ αὐτοῦ τηροῦντες τὸν Ἰησοῦν ἰδόντες τὸν σεισμὸν καὶ τὰ γενόμενα ἐφοβήθησαν σφόδρα λέγοντες· ἀληθῶς θεοῦ υἱὸς ἦν οὗτος.¶"
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1543]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G5083H]]"
+- "[[G2424G]]"
+- "[[G1492H]]"
+- "[[G4578]]"
+- "[[G1096]]"
+- "[[G5399]]"
+- "[[G4970]]"
+- "[[G3004G]]"
+- "[[G0230]]"
+- "[[G2316]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 27:54**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
 <small><sub>**BSB:**</sub></small>
 When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and said, “Truly this was the Son of God.”
-<small><sub>**Literal:**</sub></small>
-<the> And the centurion and those with him keeping guard over <the> Jesus having seen the earthquake and the [things that] were happening feared greatly saying; Truly God’s Son was this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.53|<< Matthew 27:53]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.55|Matthew 27:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G1543\|ἑκατόνταρχος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G5083H\|τηροῦντες]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G1492H\|ἰδόντες]]  [[G3588\|τὸν]]  [[G4578\|σεισμὸν]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1096\|γενόμενα]]  [[G5399\|ἐφοβήθησαν]]  [[G4970\|σφόδρα]]  [[G3004G\|λέγοντες·]]  [[G0230\|ἀληθῶς]]  [[G2316\|θεοῦ]]  [[G5207\|υἱὸς]]  [[G1510\|ἦν]]  [[G3778\|οὗτος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.53|<< Matthew 27:53]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.55|Matthew 27:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

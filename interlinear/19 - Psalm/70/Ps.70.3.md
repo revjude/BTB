@@ -1,8 +1,56 @@
+---
+title: Psalm 70:3
+type: Verse
+kjv: "Let them be turned back for a reward of their shame that say, Aha, aha."
+bsb: "May those who say, “Aha, aha!” retreat because of their shame."
+hebrew: "יָ֭שׁוּבוּ עַל־ עֵ֣קֶב בָּשְׁתָּ֑ם הָ֝אֹמְרִ֗ים הֶ֘אָ֥ח׀ הֶאָֽח׃"
+pericope: "[[Ps.70.1 Hurry, O LORD, to Help Me!|Hurry, O LORD, to Help Me!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 70
+book/chapter: "[[Ps.70|Psalm 70]]"
+chronological_order: 378
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H7725G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6118]]"
+- "[[H1322]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H1889]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 70:3**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be turned back for a reward of their shame that say, Aha, aha.
 <small><sub>**BSB:**</sub></small>
 May those who say, “Aha, aha!” retreat because of their shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|יָ֭שׁוּבוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6118\|עֵ֣קֶב]] [[H1322\|בָּשְׁתָּ֑]][[H9028\|ם]] [[H9009\|הָ֝]][[H0559\|אֹמְרִ֗ים]] [[H1889\|הֶ֘אָ֥ח]][[H9015\|׀]] [[H1889\|הֶאָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic PRAYER|PRAYER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.2|<< Psalms 70:2]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.4|Psalms 70:4 >>]]</td></tr></table>
 

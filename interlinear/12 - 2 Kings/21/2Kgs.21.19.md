@@ -1,8 +1,65 @@
+---
+title: 2 Kings 21:19
+type: Verse
+kjv: "Amon was twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother’s name was Meshullemeth, the daughter of Haruz of Jotbah."
+bsb: "Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother’s name was Meshullemeth daughter of Haruz; she was from Jotbah."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וּשְׁתַּ֤יִם שָׁנָה֙ אָמ֣וֹן בְּמָלְכ֔וֹ וּשְׁתַּ֣יִם שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ מְשֻׁלֶּ֥מֶת בַּת־ חָר֖וּץ מִן־ יָטְבָֽה׃"
+pericope: "[[2Kgs.21.19 Amon Reigns in Judah|Amon Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMON|AMON]]"
+- "[[topic HARUZ|HARUZ]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOTBAH|JOTBAH]]"
+- "[[topic MESHULLEMETH|MESHULLEMETH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8141]]"
+- "[[H0526H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H4922]]"
+- "[[H1323G]]"
+- "[[H2743]]"
+- "[[H4480A]]"
+- "[[H3192]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:19**<big><big>[[2Kgs.21.19 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Amon [was] twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother’s name [was] Meshullemeth, the daughter of Haruz of Jotbah.
 <small><sub>**BSB:**</sub></small>
 Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother’s name was Meshullemeth daughter of Haruz; she was from Jotbah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֤יִם]] [[H8141\|שָׁנָה֙]] [[H0526H\|אָמ֣וֹן]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וּ]][[H8147\|שְׁתַּ֣יִם]] [[H8141\|שָׁנִ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H4922\|מְשֻׁלֶּ֥מֶת]] [[H1323G\|בַּת]][[H9014\|־]] [[H2743\|חָר֖וּץ]] [[H4480A\|מִן]][[H9014\|־]] [[H3192\|יָטְבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMON|AMON]] • [[topic HARUZ|HARUZ]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOTBAH|JOTBAH]] • [[topic MESHULLEMETH|MESHULLEMETH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.18|<< 2 Kings 21:18]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.20|2 Kings 21:20 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Ezra 2:69
+type: Verse
+kjv: "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments."
+bsb: "According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments."
+hebrew: "כְּכֹחָ֗ם נָתְנוּ֮ לְאוֹצַ֣ר הַמְּלָאכָה֒ זָהָ֗ב דַּרְכְּמוֹנִים֙ שֵׁשׁ־ רִבֹּ֣אות וָאֶ֔לֶף ס וְכֶ֕סֶף מָנִ֖ים חֲמֵ֣שֶׁת אֲלָפִ֑ים וְכָתְנֹ֥ת כֹּהֲנִ֖ים מֵאָֽה׃ ס"
+pericope: "[[Ezra.2.68 Offerings by the Exiles|Offerings by the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic DRAM|DRAM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MANEH|MANEH]]"
+- "[[topic POUND|POUND]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9004]]"
+- "[[H3581B]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0214]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H2091]]"
+- "[[H1871]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H7239]]"
+- "[[H9002]]"
+- "[[H0505G]]"
+- "[[H9018]]"
+- "[[H3701G]]"
+- "[[H4488]]"
+- "[[H2568]]"
+- "[[H3801]]"
+- "[[H3548]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:69**<big><big>[[Ezra.2.68 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments.
 <small><sub>**BSB:**</sub></small>
 According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H3581B\|כֹחָ֗]][[H9028\|ם]] [[H5414G\|נָתְנוּ֮]] [[H9005\|לְ]][[H0214\|אוֹצַ֣ר]] [[H9009\|הַ]][[H4399\|מְּלָאכָה֒]] [[H2091\|זָהָ֗ב]] [[H1871\|דַּרְכְּמוֹנִים֙]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H7239\|רִבֹּ֣אות]] [[H9002\|וָ]][[H0505G\|אֶ֔לֶף]] [[H9018\|ס]] [[H9002\|וְ]][[H3701G\|כֶ֕סֶף]] [[H4488\|מָנִ֖ים]] [[H2568\|חֲמֵ֣שֶׁת]] [[H0505G\|אֲלָפִ֑ים]] [[H9002\|וְ]][[H3801\|כָתְנֹ֥ת]] [[H3548\|כֹּהֲנִ֖ים]] [[H3967\|מֵאָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAM|DRAM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MANEH|MANEH]] • [[topic POUND|POUND]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.69|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
@@ -16,14 +75,14 @@ According to their ability, they gave to the treasury for this work 61,000 daric
 | drachmas  |**<big>&#8207;[[H1871\|דַּרְכְּמוֹנִים֙]]&#8207; </big>**| dar.ke.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | six  |**<big>&#8207;[[H8337\|שֵׁשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten thousands  |**<big>&#8207;[[H7239\|רִבֹּ֣אות]]&#8207; </big>**| ri.Bot<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and one thousand  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0505G\|אֶ֔לֶף]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and one thousand  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0505G\|אֶ֔לֶף]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and silver  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3701G\|כֶ֕סֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | minas  |**<big>&#8207;[[H4488\|מָנִ֖ים]]&#8207; </big>**| ma.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | five  |**<big>&#8207;[[H2568\|חֲמֵ֣שֶׁת]]&#8207; </big>**| cha.Me.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֑ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and tunics of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3801\|כָתְנֹ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.te.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | priests  |**<big>&#8207;[[H3548\|כֹּהֲנִ֖ים]]&#8207; </big>**| ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one hundred  |**<big>&#8207;[[H3967\|מֵאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one hundred  |**<big>&#8207;[[H3967\|מֵאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
 

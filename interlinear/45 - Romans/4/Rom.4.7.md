@@ -1,10 +1,55 @@
+---
+title: Romans 4:7
+type: Verse
+kjv: "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."
+bsb: "“Blessed are they whose lawless acts are forgiven, whose sins are covered."
+greek: "μακάριοι ὧν ἀφέθησαν αἱ ἀνομίαι καὶ ὧν ἐπεκαλύφθησαν αἱ ἁμαρτίαι·"
+pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3107]]"
+- "[[G3739]]"
+- "[[G0863H]]"
+- "[[G3588]]"
+- "[[G0458]]"
+- "[[G2532]]"
+- "[[G1943]]"
+- "[[G0266]]"
+texts:
+- NKO
+---
+
 **Romans 4:7**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Saying], Blessed [are] they whose iniquities are forgiven, and whose sins are covered.
 <small><sub>**BSB:**</sub></small>
 “Blessed are they whose lawless acts are forgiven, whose sins are covered.
-<small><sub>**Literal:**</sub></small>
-Blessed [are] they of whom are forgiven the lawless deeds and of whom are covered the sins;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.6|<< Romans 4:6]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.8|Romans 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|μακάριοι]]  [[G3739\|ὧν]]  [[G0863H\|ἀφέθησαν]]  [[G3588\|αἱ]]  [[G0458\|ἀνομίαι]]  [[G2532\|καὶ]]  [[G3739\|ὧν]]  [[G1943\|ἐπεκαλύφθησαν]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.6|<< Romans 4:6]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.8|Romans 4:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 4:7** is...
 > $\quad$ referencing: [[LXX.Ps.32.1|Ps 32:1-2]]

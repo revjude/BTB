@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 9:26
+type: Verse
+kjv: "I prayed therefore unto the LORD, and said, O Lord GOD, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand."
+bsb: "And I prayed to the LORD and said, “O Lord GOD, do not destroy Your people, Your inheritance, whom You redeemed through Your greatness and brought out of Egypt with a mighty hand."
+hebrew: "וָאֶתְפַּלֵּ֣ל אֶל־ יְהוָה֮ וָאֹמַר֒ אֲדֹנָ֣י יְהוִ֗ה אַל־ תַּשְׁחֵ֤ת עַמְּךָ֙ וְנַחֲלָ֣תְךָ֔ אֲשֶׁ֥ר פָּדִ֖יתָ בְּגָדְלֶ֑ךָ אֲשֶׁר־ הוֹצֵ֥אתָ מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0408]]"
+- "[[H7843]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H0834A]]"
+- "[[H6299]]"
+- "[[H9003]]"
+- "[[H1433]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:26**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I prayed therefore unto the LORD, and said, O Lord GOD, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand.
 <small><sub>**BSB:**</sub></small>
 And I prayed to the LORD and said, “O Lord GOD, do not destroy Your people, Your inheritance, whom You redeemed through Your greatness and brought out of Egypt with a mighty hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6419\|אֶתְפַּלֵּ֣ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H9001\|וָ]][[H0559\|אֹמַר֒]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H7843\|תַּשְׁחֵ֤ת]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5159\|נַחֲלָ֣תְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁ֥ר]] [[H6299\|פָּדִ֖יתָ]] [[H9003\|בְּ]][[H1433\|גָדְלֶ֑]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318H\|הוֹצֵ֥אתָ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H9003\|בְּ]][[H3027H\|יָ֥ד]] [[H2389\|חֲזָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.25|<< Deuteronomy 9:25]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.27|Deuteronomy 9:27 >>]]</td></tr></table>
 

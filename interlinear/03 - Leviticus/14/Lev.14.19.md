@@ -1,8 +1,64 @@
+---
+title: Leviticus 14:19
+type: Verse
+kjv: "And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:"
+bsb: "Then the priest is to sacrifice the sin offering and make atonement for the one to be cleansed from his uncleanness. After that, the priest shall slaughter the burnt offering"
+hebrew: "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־ הַ֣חַטָּ֔את וְכִפֶּ֕ר עַל־ הַמִּטַּהֵ֖ר מִטֻּמְאָת֑וֹ וְאַחַ֖ר יִשְׁחַ֥ט אֶת־ הָעֹלָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2403H]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H2891]]"
+- "[[H9006]]"
+- "[[H2932]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H7819A]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:19**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:
 <small><sub>**BSB:**</sub></small>
 Then the priest is to sacrifice the sin offering and make atonement for the one to be cleansed from his uncleanness. After that, the priest shall slaughter the burnt offering
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213I\|עָשָׂ֤ה]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H2403H\|חַטָּ֔את]] [[H9001\|וְ]][[H3722A\|כִפֶּ֕ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2891\|מִּטַּהֵ֖ר]] [[H9006\|מִ]][[H2932\|טֻּמְאָת֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H7819A\|יִשְׁחַ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.18|<< Leviticus 14:18]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.20|Leviticus 14:20 >>]]</td></tr></table>
 

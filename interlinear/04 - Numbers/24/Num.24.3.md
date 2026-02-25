@@ -1,8 +1,60 @@
+---
+title: Numbers 24:3
+type: Verse
+kjv: "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+bsb: "and he lifted up an oracle, saying: “This is the prophecy of Balaam son of Beor, the prophecy of a man whose eyes are open,"
+hebrew: "וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר נְאֻ֤ם בִּלְעָם֙ בְּנ֣וֹ בְעֹ֔ר וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן׃"
+pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375N]]"
+- "[[H4912]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H5002]]"
+- "[[H1109A]]"
+- "[[H1121A]]"
+- "[[H1160H]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1397]]"
+- "[[H8365]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:3**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
 <small><sub>**BSB:**</sub></small>
 and he lifted up an oracle, saying: “This is the prophecy of Balaam son of Beor, the prophecy of a man whose eyes are open,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375N\|יִּשָּׂ֥א]] [[H4912\|מְשָׁל֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H5002\|נְאֻ֤ם]] [[H1109A\|בִּלְעָם֙]] [[H1121A\|בְּנ֣]][[H9023\|וֹ]] [[H1160H\|בְעֹ֔ר]] [[H9002\|וּ]][[H5002\|נְאֻ֥ם]] [[H9009\|הַ]][[H1397\|גֶּ֖בֶר]] [[H8365\|שְׁתֻ֥ם]] [[H9009\|הָ]][[H5869A\|עָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.2|<< Numbers 24:2]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.4|Numbers 24:4 >>]]</td></tr></table>
 

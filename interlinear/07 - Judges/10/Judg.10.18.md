@@ -1,8 +1,68 @@
+---
+title: Judges 10:18
+type: Verse
+kjv: "And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead."
+bsb: "And the rulers of Gilead said to one another, “Whoever will launch the attack against the Ammonites will be the head of all who live in Gilead.”"
+hebrew: "וַיֹּאמְר֨וּ הָעָ֜ם שָׂרֵ֤י גִלְעָד֙ אִ֣ישׁ אֶל־ רֵעֵ֔הוּ מִ֣י הָאִ֔ישׁ אֲשֶׁ֣ר יָחֵ֔ל לְהִלָּחֵ֖ם בִּבְנֵ֣י עַמּ֑וֹן יִֽהְיֶ֣ה לְרֹ֔אשׁ לְכֹ֖ל יֹשְׁבֵ֥י גִלְעָֽד׃ פ"
+pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8269]]"
+- "[[H1568G]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4310]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H1961]]"
+- "[[H7218H]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 10:18**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people [and] princes of Gilead said one to another, What man [is he] that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.
 <small><sub>**BSB:**</sub></small>
 And the rulers of Gilead said to one another, “Whoever will launch the attack against the Ammonites will be the head of all who live in Gilead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H8269\|שָׂרֵ֤י]] [[H1568G\|גִלְעָד֙]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H4310\|מִ֣י]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2490C\|יָחֵ֔ל]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H9003\|בִּ]][[H1121G\|בְנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H1961\|יִֽהְיֶ֣ה]] [[H9005\|לְ]][[H7218H\|רֹ֔אשׁ]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H3427\|יֹשְׁבֵ֥י]] [[H1568G\|גִלְעָֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.17|<< Judges 10:17]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.1|Judges 11:1 >>]]</td></tr></table>
 
@@ -26,7 +86,7 @@ And the rulers of Gilead said to one another, “Whoever will launch the attack 
 | \<into> chief  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7218H\|רֹ֔אשׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֥י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gilead  |**<big>&#8207;[[H1568G\|גִלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gilead  |**<big>&#8207;[[H1568G\|גִלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.17|<< Judges 10:17]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.1|Judges 11:1 >>]]</td></tr></table>
 
 

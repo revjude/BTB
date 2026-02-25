@@ -1,8 +1,58 @@
+---
+title: Isaiah 2:7
+type: Verse
+kjv: "Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:"
+bsb: "Their land is full of silver and gold, with no limit to their treasures; their land is full of horses, with no limit to their chariots."
+hebrew: "וַתִּמָּלֵ֤א אַרְצוֹ֙ כֶּ֣סֶף וְזָהָ֔ב וְאֵ֥ין קֵ֖צֶה לְאֹצְרֹתָ֑יו וַתִּמָּלֵ֤א אַרְצוֹ֙ סוּסִ֔ים וְאֵ֥ין קֵ֖צֶה לְמַרְכְּבֹתָֽיו׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0369]]"
+- "[[H7097B]]"
+- "[[H9005]]"
+- "[[H0214]]"
+- "[[H5483M]]"
+- "[[H4818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:7**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their land also is full of silver and gold, neither [is there any] end of their treasures; their land is also full of horses, neither [is there any] end of their chariots:
 <small><sub>**BSB:**</sub></small>
 Their land is full of silver and gold, with no limit to their treasures; their land is full of horses, with no limit to their chariots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4390\|תִּמָּלֵ֤א]] [[H0776G\|אַרְצ]][[H9023\|וֹ֙]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֔ב]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7097B\|קֵ֖צֶה]] [[H9005\|לְ]][[H0214\|אֹצְרֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H4390\|תִּמָּלֵ֤א]] [[H0776G\|אַרְצ]][[H9023\|וֹ֙]] [[H5483M\|סוּסִ֔ים]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7097B\|קֵ֖צֶה]] [[H9005\|לְ]][[H4818\|מַרְכְּבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.6|<< Isaiah 2:6]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.8|Isaiah 2:8 >>]]</td></tr></table>
 

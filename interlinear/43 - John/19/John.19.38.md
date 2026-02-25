@@ -1,10 +1,72 @@
+---
+title: John 19:38
+type: Verse
+kjv: "And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus."
+bsb: "Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed His body."
+greek: "Μετὰ δὲ ταῦτα ἠρώτησεν τὸν Πιλᾶτον ὁ Ἰωσὴφ ὁ ἀπὸ Ἁριμαθαίας ὢν μαθητὴς τοῦ Ἰησοῦ, κεκρυμμένος δὲ διὰ τὸν φόβον τῶν Ἰουδαίων, ἵνα ἄρῃ τὸ σῶμα τοῦ Ἰησοῦ. καὶ ἐπέτρεψεν ὁ Πιλᾶτος. ἦλθεν οὖν καὶ ἦρεν τὸ σῶμα αὐτοῦ."
+pericope: "[[John.19.38 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ARIMATHEA|ARIMATHEA]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2065]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G2501I]]"
+- "[[G0575]]"
+- "[[G0707]]"
+- "[[G1510]]"
+- "[[G3101]]"
+- "[[G2424G]]"
+- "[[G2928]]"
+- "[[G1223]]"
+- "[[G5401]]"
+- "[[G2453]]"
+- "[[G2443]]"
+- "[[G0142]]"
+- "[[G4983]]"
+- "[[G2532]]"
+- "[[G2010]]"
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **John 19:38**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave [him] leave. He came therefore, and took the body of Jesus.
 <small><sub>**BSB:**</sub></small>
 Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed His body.
-<small><sub>**Literal:**</sub></small>
-After then these things asked <the> Pilate <the> Joseph <the> from Arimathea being a disciple <the> of Jesus — concealed however through the fear of the Jews — that he may take away the body <the> of Jesus. and gave permission <the> Pilate. He came therefore and he took away the body of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.37|<< John 19:37]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.39|John 19:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G2065\|ἠρώτησεν]]  [[G3588\|τὸν]]  [[G4091\|Πιλᾶτον]]  [[G3588\|ὁ]]  [[G2501I\|Ἰωσὴφ]]  [[G3588\|ὁ]]  [[G0575\|ἀπὸ]]  [[G0707\|Ἁριμαθαίας]]  [[G1510\|ὢν]]  [[G3101\|μαθητὴς]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ,]]  [[G2928\|κεκρυμμένος]]  [[G1161\|δὲ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5401\|φόβον]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G2443\|ἵνα]]  [[G0142\|ἄρῃ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ.]]  [[G2532\|καὶ]]  [[G2010\|ἐπέτρεψεν]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος.]]  [[G2064\|ἦλθεν]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G0142\|ἦρεν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIMATHEA|ARIMATHEA]] • [[topic BURIAL|BURIAL]] • [[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.37|<< John 19:37]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.39|John 19:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

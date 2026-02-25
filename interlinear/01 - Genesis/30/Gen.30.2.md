@@ -1,8 +1,69 @@
+---
+title: Genesis 30:2
+type: Verse
+kjv: "And Jacob’s anger was kindled against Rachel: and he said, Am I in God’s stead, who hath withheld from thee the fruit of the womb?"
+bsb: "Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”"
+hebrew: "וַיִּֽחַר־ אַ֥ף יַעֲקֹ֖ב בְּרָחֵ֑ל וַיֹּ֗אמֶר הֲתַ֤חַת אֱלֹהִים֙ אָנֹ֔כִי אֲשֶׁר־ מָנַ֥ע מִמֵּ֖ךְ פְּרִי־ בָֽטֶן׃"
+pericope: "[[Gen.30.1 Dan and Naphtali|Dan and Naphtali]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BILHAH|BILHAH]]"
+- "[[topic CHILDLESSNESS|CHILDLESSNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H7354]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H8478H]]"
+- "[[H0430G]]"
+- "[[H0595]]"
+- "[[H0834A]]"
+- "[[H4513]]"
+- "[[H4480A]]"
+- "[[H9032]]"
+- "[[H6529]]"
+- "[[H0990H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:2**<big><big>[[Gen.30.1 Dan and Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob’s anger was kindled against Rachel: and he said, [Am] I in God’s stead, who hath withheld from thee the fruit of the womb?
 <small><sub>**BSB:**</sub></small>
 Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֥ף]] [[H3290\|יַעֲקֹ֖ב]] [[H9003\|בְּ]][[H7354\|רָחֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9008\|הֲ]][[H8478H\|תַ֤חַת]] [[H0430G\|אֱלֹהִים֙]] [[H0595\|אָנֹ֔כִי]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4513\|מָנַ֥ע]] [[H4480A\|מִמֵּ֖]][[H9032\|ךְ]] [[H6529\|פְּרִי]][[H9014\|־]] [[H0990H\|בָֽטֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILHAH|BILHAH]] • [[topic CHILDLESSNESS|CHILDLESSNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.1|<< Genesis 30:1]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.3|Genesis 30:3 >>]]</td></tr></table>
 

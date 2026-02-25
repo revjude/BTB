@@ -1,8 +1,65 @@
+---
+title: Exodus 26:32
+type: Verse
+kjv: "And thou shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver."
+bsb: "Hang it with gold hooks on four posts of acacia wood, overlaid with gold and standing on four silver bases."
+hebrew: "וְנָתַתָּ֣ה אֹתָ֗הּ עַל־ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים מְצֻפִּ֣ים זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב עַל־ אַרְבָּעָ֖ה אַדְנֵי־ כָֽסֶף׃"
+pericope: "[[Exod.26.31 The Veil|The Veil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0702]]"
+- "[[H5982G]]"
+- "[[H7848]]"
+- "[[H6823]]"
+- "[[H2091]]"
+- "[[H2053]]"
+- "[[H9028]]"
+- "[[H0134]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:32**<big><big>[[Exod.26.31 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt hang it upon four pillars of shittim [wood] overlaid with gold: their hooks [shall be of] gold, upon the four sockets of silver.
 <small><sub>**BSB:**</sub></small>
 Hang it with gold hooks on four posts of acacia wood, overlaid with gold and standing on four silver bases.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֣ה]] [[H0853\|אֹתָ֗]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָה֙]] [[H5982G\|עַמּוּדֵ֣י]] [[H7848\|שִׁטִּ֔ים]] [[H6823\|מְצֻפִּ֣ים]] [[H2091\|זָהָ֔ב]] [[H2053\|וָוֵי]][[H9028\|הֶ֖ם]] [[H2091\|זָהָ֑ב]] [[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H0134\|אַדְנֵי]][[H9014\|־]] [[H3701G\|כָֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOOKS|HOOKS]] • [[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.31|<< Exodus 26:31]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.33|Exodus 26:33 >>]]</td></tr></table>
 

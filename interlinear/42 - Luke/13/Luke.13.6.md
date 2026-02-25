@@ -1,10 +1,72 @@
+---
+title: Luke 13:6
+type: Verse
+kjv: "He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none."
+bsb: "Then Jesus told this parable: “A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any."
+jesus_said: "A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none."
+greek: "Ἔλεγεν δὲ ταύτην τὴν παραβολήν· συκῆν εἶχέν τις πεφυτευμένην ἐν τῷ ἀμπελῶνι αὐτοῦ καὶ ἦλθεν ζητῶν καρπὸν ἐν αὐτῇ καὶ οὐχ εὗρεν."
+pericope: "[[Luke.13.6 The Parable of the Barren Fig Tree|The Parable of the Barren Fig Tree]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FIG TREE|FIG TREE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3850]]"
+- "[[G4808]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G5452]]"
+- "[[G1722]]"
+- "[[G0290]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2212]]"
+- "[[G2590]]"
+- "[[G3756]]"
+- "[[G2147]]"
+texts:
+- NKO
+---
+
 **Luke 13:6**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He spake also this parable; A certain [man] had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told this parable: “A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any.
-<small><sub>**Literal:**</sub></small>
-He was speaking then this <the> parable: A fig tree had a certain [man] planted in the vineyard of him and he came seeking fruit on it and not did find [any].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.5|<< Luke 13:5]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.7|Luke 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G1161\|δὲ]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G3850\|παραβολήν·]]  [[G4808\|συκῆν]]  [[G2192\|εἶχέν]]  [[G5100\|τις]]  [[G5452\|πεφυτευμένην]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0290\|ἀμπελῶνι]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G2212\|ζητῶν]]  [[G2590\|καρπὸν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G2147\|εὗρεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FIG TREE|FIG TREE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PROBATION|PROBATION]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.5|<< Luke 13:5]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.7|Luke 13:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

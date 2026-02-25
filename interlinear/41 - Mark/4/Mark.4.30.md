@@ -1,10 +1,60 @@
+---
+title: Mark 4:30
+type: Verse
+kjv: "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
+bsb: "Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it?"
+jesus_said: "Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
+greek: "Καὶ ἔλεγεν· πῶς ὁμοιώσωμεν τὴν βασιλείαν τοῦ θεοῦ ἢ ἐν τίνι αὐτὴν παραβολῇ θῶμεν;"
+pericope: "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G4459]]"
+- "[[G3666]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G5101]]"
+- "[[G0846]]"
+- "[[G3850]]"
+- "[[G5087]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:30**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?
 <small><sub>**BSB:**</sub></small>
 Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it?
-<small><sub>**Literal:**</sub></small>
-And He was saying; how shall we liken the kingdom <the> of God Or in which it parable let us present<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.29|<< Mark 4:29]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.31|Mark 4:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|ἔλεγεν·]]  [[G4459\|πῶς]]  [[G3666\|ὁμοιώσωμεν]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G5101\|τίνι]]  [[G0846\|αὐτὴν]]  [[G3850\|παραβολῇ]]  [[G5087\|θῶμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.29|<< Mark 4:29]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.31|Mark 4:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

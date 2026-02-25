@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Courtyard
+type: Pericope
 pericope: "[[Exod.38.9 The Courtyard|The Courtyard]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 38
 book/chapter: "[[Exod.38|Exodus 38]]"
-genre:
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.38.9]]"
 - "[[Exod.38.10]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.38.20]]"
 ---
 
-[[Exod.38|Exodus 38:9 - Exodus 38:20]]
+<small>[[Exod.38|Exodus 38:9-20]]</small>
 *The Courtyard*
 
 [[Exod.38.9|9]] And he made the court: on the south side southward the hangings of the court \[were of\] fine twined linen, an hundred cubits:

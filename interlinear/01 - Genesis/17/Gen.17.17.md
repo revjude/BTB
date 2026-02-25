@@ -1,8 +1,71 @@
+---
+title: Genesis 17:17
+type: Verse
+kjv: "Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?"
+bsb: "Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”"
+hebrew: "וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל־ פָּנָ֖יו וַיִּצְחָ֑ק וַיֹּ֣אמֶר בְּלִבּ֗וֹ הַלְּבֶ֤ן מֵאָֽה־ שָׁנָה֙ יִוָּלֵ֔ד וְאִ֨ם־ שָׂרָ֔ה הֲבַת־ תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H0085]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H6711]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H1121L]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H0518H]]"
+- "[[H8283]]"
+- "[[H1323G]]"
+- "[[H8673]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:17**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abraham fell upon his face, and laughed, and said in his heart, Shall [a child] be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
 <small><sub>**BSB:**</sub></small>
 Abraham fell facedown. Then he laughed and said to himself, “Can a child be born to a man who is a hundred years old? Can Sarah give birth at the age of ninety?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|יִּפֹּ֧ל]] [[H0085\|אַבְרָהָ֛ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H6711\|יִּצְחָ֑ק]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9003\|בְּ]][[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H9008\|הַ]][[H9005\|לְּ]][[H1121L\|בֶ֤ן]] [[H3967\|מֵאָֽה]][[H9014\|־]] [[H8141\|שָׁנָה֙]] [[H3205\|יִוָּלֵ֔ד]] [[H9002\|וְ]][[H0518H\|אִ֨ם]][[H9014\|־]] [[H8283\|שָׂרָ֔ה]] [[H9008\|הֲ]][[H1323G\|בַת]][[H9014\|־]] [[H8673\|תִּשְׁעִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H3205\|תֵּלֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BARRENNESS|BARRENNESS]] • [[topic COVENANT|COVENANT]] • [[topic ISAAC|ISAAC]] • [[topic MIRACLES|MIRACLES]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.16|<< Genesis 17:16]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.18|Genesis 17:18 >>]]</td></tr></table>
 

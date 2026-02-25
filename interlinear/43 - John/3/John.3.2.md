@@ -1,10 +1,73 @@
+---
+title: John 3:2
+type: Verse
+kjv: "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him."
+bsb: "He came to Jesus at night and said, “Rabbi, we know that You are a teacher who has come from God. For no one could perform the signs You are doing if God were not with him.”"
+greek: "οὗτος ἦλθεν πρὸς τὸν αὐτὸν νυκτὸς καὶ εἶπεν αὐτῷ· ῥαββί, οἴδαμεν ὅτι ἀπὸ θεοῦ ἐλήλυθας διδάσκαλος· οὐδεὶς γὰρ δύναται ταῦτα τὰ σημεῖα ποιεῖν ἃ σὺ ποιεῖς, ἐὰν μὴ ᾖ ὁ θεὸς μετ᾽ αὐτοῦ.¶"
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic RABBI|RABBI]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[G3778]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4461]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G1320]]"
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G1410]]"
+- "[[G4592]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3326]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **John 3:2**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 <small><sub>**BSB:**</sub></small>
 He came to Jesus at night and said, “Rabbi, we know that You are a teacher who has come from God. For no one could perform the signs You are doing if God were not with him.”
-<small><sub>**Literal:**</sub></small>
-He came to <the> Him by night and said to Him; Rabbi, we know that from God You have come a teacher; no [one] for is able these <the> signs to do that You yourself do, only unless shall be <the> God with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.1|<< John 3:1]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.3|John 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G2064\|ἦλθεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0846\|αὐτὸν]]  [[G3571\|νυκτὸς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4461\|ῥαββί,]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G2064\|ἐλήλυθας]]  [[G1320\|διδάσκαλος·]]  [[G3762\|οὐδεὶς]]  [[G1063\|γὰρ]]  [[G1410\|δύναται]]  [[G3778\|ταῦτα]]  [[G3588\|τὰ]]  [[G4592\|σημεῖα]]  [[G4160G\|ποιεῖν]]  [[G3739\|ἃ]]  [[G4771\|σὺ]]  [[G4160G\|ποιεῖς,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G1510\|ᾖ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NICODEMUS|NICODEMUS]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic RABBI|RABBI]] • [[topic SIGN|SIGN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.1|<< John 3:1]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.3|John 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

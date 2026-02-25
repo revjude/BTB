@@ -1,10 +1,54 @@
+---
+title: Romans 8:24
+type: Verse
+kjv: "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?"
+bsb: "For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see?"
+greek: "τῇ γὰρ ἐλπίδι ἐσώθημεν· ἐλπὶς δὲ βλεπομένη οὐκ ἔστιν ἐλπίς· ὃ γὰρ βλέπει τίς, τί καὶ ἐλπίζει;"
+pericope: "[[Rom.8.18 Future Glory|Future Glory]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G1680]]"
+- "[[G4982]]"
+- "[[G1161]]"
+- "[[G0991]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G5101]]"
+- "[[G2532]]"
+- "[[G1679]]"
+texts:
+- NKO
+- KO
+---
+
 **Romans 8:24**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?
 <small><sub>**BSB:**</sub></small>
 For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see?
-<small><sub>**Literal:**</sub></small>
-In this for hope we were saved; hope however being seen not is hope; what for sees any why also does he hope for [it]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.23|<< Romans 8:23]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.25|Romans 8:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G1063\|γὰρ]]  [[G1680\|ἐλπίδι]]  [[G4982\|ἐσώθημεν·]]  [[G1680\|ἐλπὶς]]  [[G1161\|δὲ]]  [[G0991\|βλεπομένη]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1680\|ἐλπίς·]]  [[G3739\|ὃ]]  [[G1063\|γὰρ]]  [[G0991\|βλέπει]]  [[G5101\|τίς,]]  [[G5101\|τί]]  [[G2532\|καὶ]]  [[G1679\|ἐλπίζει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOPE|HOPE]] • [[topic IGNORANCE|IGNORANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.23|<< Romans 8:23]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.25|Romans 8:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

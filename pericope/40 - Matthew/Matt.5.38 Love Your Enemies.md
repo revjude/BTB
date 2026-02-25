@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love Your Enemies
+type: Pericope
 pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 5
 book/chapter: "[[Matt.5|Matthew 5]]"
-genre:
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.5.38]]"
 - "[[Matt.5.39]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.5.48]]"
 ---
 
-[[Matt.5|Matthew 5:38 - Matthew 5:48]]
+<small>[[Matt.5|Matthew 5:38-48]]</small>
 *Love Your Enemies*
 
 [[Matt.5.38|38]] Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:

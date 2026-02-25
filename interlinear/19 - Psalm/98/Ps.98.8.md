@@ -1,8 +1,52 @@
+---
+title: Psalm 98:8
+type: Verse
+kjv: "Let the floods clap their hands: let the hills be joyful together"
+bsb: "Let the rivers clap their hands, let the mountains sing together for joy"
+hebrew: "נְהָר֥וֹת יִמְחֲאוּ־ כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ׃"
+pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H5104H]]"
+- "[[H4222]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H3162A]]"
+- "[[H2022G]]"
+- "[[H7442B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 98:8**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the floods clap [their] hands: let the hills be joyful together
 <small><sub>**BSB:**</sub></small>
 Let the rivers clap their hands, let the mountains sing together for joy
+<small><sub>**Hebrew:**</sub></small>
+[[H5104H\|נְהָר֥וֹת]] [[H4222\|יִמְחֲאוּ]][[H9014\|־]] [[H3709G\|כָ֑ף]] [[H3162A\|יַ֝֗חַד]] [[H2022G\|הָרִ֥ים]] [[H7442B\|יְרַנֵּֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.7|<< Psalms 98:7]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.9|Psalms 98:9 >>]]</td></tr></table>
 

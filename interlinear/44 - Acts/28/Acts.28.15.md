@@ -1,10 +1,66 @@
+---
+title: Acts 28:15
+type: Verse
+kjv: "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage."
+bsb: "The brothers there had heard about us and traveled as far as the Forum of Appius and the Three Taverns to meet us. When Paul saw them, he was encouraged and gave thanks to God."
+greek: "κἀκεῖθεν κἀκεῖθεν οἱ ἀδελφοὶ ἀκούσαντες τὰ περὶ ἡμῶν ἦλθαν εἰς ἀπάντησιν ἡμῖν ἄχρι Ἀππίου φόρου καὶ Τριῶν ταβερνῶν, οὓς ἰδὼν ὁ Παῦλος εὐχαριστήσας τῷ θεῷ ἔλαβεν θάρσος.¶"
+pericope: "[[Acts.28.11 Paul Arrives in Italy|Paul Arrives in Italy]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPII-FORUM|APPII-FORUM]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic THREE TAVERNS|THREE TAVERNS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0191]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G0529]]"
+- "[[G0891]]"
+- "[[G0675]]"
+- "[[G5410]]"
+- "[[G5140]]"
+- "[[G4999]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G3972G]]"
+- "[[G2168]]"
+- "[[G2316]]"
+- "[[G2983]]"
+- "[[G2294]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:15**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
 <small><sub>**BSB:**</sub></small>
 The brothers there had heard about us and traveled as far as the Forum of Appius and the Three Taverns to meet us. When Paul saw them, he was encouraged and gave thanks to God.
-<small><sub>**Literal:**</sub></small>
-And from there the brothers having heard the [things] concerning us they came out to meet us as far as of Appius [the] market and [the] Three Taverns, whom having seen <the> Paul having given thanks <the> to God took courage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.14|<< Acts 28:14]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.16|Acts 28:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν]]  [[G2064\|ἦλθαν]]  [[G1519\|εἰς]]  [[G0529\|ἀπάντησιν]]  [[G3165\|ἡμῖν]]  [[G0891\|ἄχρι]]  [[G0675\|Ἀππίου]]  [[G5410\|φόρου]]  [[G2532\|καὶ]]  [[G5140\|Τριῶν]]  [[G4999\|ταβερνῶν,]]  [[G3739\|οὓς]]  [[G1492H\|ἰδὼν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G2168\|εὐχαριστήσας]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2983\|ἔλαβεν]]  [[G2294\|θάρσος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPII-FORUM|APPII-FORUM]] • [[topic LOVE|LOVE]] • [[topic PAUL|PAUL]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic THREE TAVERNS|THREE TAVERNS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.14|<< Acts 28:14]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.16|Acts 28:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

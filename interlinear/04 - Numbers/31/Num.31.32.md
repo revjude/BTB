@@ -1,8 +1,65 @@
+---
+title: Numbers 31:32
+type: Verse
+kjv: "And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,"
+bsb: "and this plunder remained from the spoils the soldiers had taken: 675,000 sheep,"
+hebrew: "וַיְהִי֙ הַמַּלְק֔וֹחַ יֶ֣תֶר הַבָּ֔ז אֲשֶׁ֥ר בָּזְז֖וּ עַ֣ם הַצָּבָ֑א צֹ֗אן שֵׁשׁ־ מֵא֥וֹת אֶ֛לֶף וְשִׁבְעִ֥ים אֶ֖לֶף וַחֲמֵֽשֶׁת־ אֲלָפִֽים׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4455A]]"
+- "[[H3499A]]"
+- "[[H0957]]"
+- "[[H0834A]]"
+- "[[H0962]]"
+- "[[H5971K]]"
+- "[[H6635A]]"
+- "[[H6629G]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7657]]"
+- "[[H2568]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:32**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the booty, [being] the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
 <small><sub>**BSB:**</sub></small>
 and this plunder remained from the spoils the soldiers had taken: 675,000 sheep,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9009\|הַ]][[H4455A\|מַּלְק֔וֹחַ]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הַ]][[H0957\|בָּ֔ז]] [[H0834A\|אֲשֶׁ֥ר]] [[H0962\|בָּזְז֖וּ]] [[H5971K\|עַ֣ם]] [[H9009\|הַ]][[H6635A\|צָּבָ֑א]] [[H6629G\|צֹ֗אן]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֛לֶף]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וַ]][[H2568\|חֲמֵֽשֶׁת]][[H9014\|־]] [[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.31|<< Numbers 31:31]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.33|Numbers 31:33 >>]]</td></tr></table>
 

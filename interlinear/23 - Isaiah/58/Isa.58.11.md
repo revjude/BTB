@@ -1,8 +1,75 @@
+---
+title: Isaiah 58:11
+type: Verse
+kjv: "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not."
+bsb: "The LORD will always guide you; He will satisfy you in a sun-scorched land and strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail."
+hebrew: "וְנָחֲךָ֣ יְהוָה֮ תָּמִיד֒ וְהִשְׂבִּ֤יעַ בְּצַחְצָחוֹת֙ נַפְשֶׁ֔ךָ וְעַצְמֹתֶ֖יךָ יַחֲלִ֑יץ וְהָיִ֙יתָ֙ כְּגַ֣ן רָוֶ֔ה וּכְמוֹצָ֣א מַ֔יִם אֲשֶׁ֥ר לֹא־ יְכַזְּב֖וּ מֵימָֽיו׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IRRIGATION|IRRIGATION]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic PHILANTHROPY|PHILANTHROPY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5148]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H8548]]"
+- "[[H7646]]"
+- "[[H9003]]"
+- "[[H6710]]"
+- "[[H5315L]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6106G]]"
+- "[[H2502B]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1588M]]"
+- "[[H7302]]"
+- "[[H4161]]"
+- "[[H4325G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3576]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:11**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
 <small><sub>**BSB:**</sub></small>
 The LORD will always guide you; He will satisfy you in a sun-scorched land and strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5148\|נָחֲ]][[H9031\|ךָ֣]] [[H3068G\|יְהוָה֮]] [[H8548\|תָּמִיד֒]] [[H9001\|וְ]][[H7646\|הִשְׂבִּ֤יעַ]] [[H9003\|בְּ]][[H6710\|צַחְצָחוֹת֙]] [[H5315L\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H6106G\|עַצְמֹתֶ֖י]][[H9021\|ךָ]] [[H2502B\|יַחֲלִ֑יץ]] [[H9001\|וְ]][[H1961\|הָיִ֙יתָ֙]] [[H9004\|כְּ]][[H1588M\|גַ֣ן]] [[H7302\|רָוֶ֔ה]] [[H9002\|וּ]][[H9004\|כְ]][[H4161\|מוֹצָ֣א]] [[H4325G\|מַ֔יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3576\|יְכַזְּב֖וּ]] [[H4325G\|מֵימָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic IRRIGATION|IRRIGATION]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic PHILANTHROPY|PHILANTHROPY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.10|<< Isaiah 58:10]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.12|Isaiah 58:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

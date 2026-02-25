@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 15:22
+type: Verse
+kjv: "And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful."
+bsb: "Chenaniah the head Levite was the director of the music because he was highly skilled."
+hebrew: "וּכְנַנְיָ֥הוּ שַֽׂר־ הַלְוִיִּ֖ם בְּמַשָּׂ֑א יָסֹר֙ בַּמַּשָּׂ֔א כִּ֥י מֵבִ֖ין הֽוּא׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHENANIAH|CHENANIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3663]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H4853A]]"
+- "[[H3256]]"
+- "[[H3588A]]"
+- "[[H0995]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:22**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Chenaniah, chief of the Levites, [was] for song: he instructed about the song, because he [was] skilful.
 <small><sub>**BSB:**</sub></small>
 Chenaniah the head Levite was the director of the music because he was highly skilled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3663\|כְנַנְיָ֥הוּ]] [[H8269\|שַֽׂר]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9003\|בְּ]][[H4853A\|מַשָּׂ֑א]] [[H3256\|יָסֹר֙]] [[H9003\|בַּ]][[H4853A\|מַּשָּׂ֔א]] [[H3588A\|כִּ֥י]] [[H0995\|מֵבִ֖ין]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHENANIAH|CHENANIAH]] • [[topic DAVID|DAVID]] • [[topic MUSIC|MUSIC]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.21|<< 1 Chronicles 15:21]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.23|1 Chronicles 15:23 >>]]</td></tr></table>
 

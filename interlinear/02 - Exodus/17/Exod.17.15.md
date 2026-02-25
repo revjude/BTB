@@ -1,8 +1,58 @@
+---
+title: Exodus 17:15
+type: Verse
+kjv: "And Moses built an altar, and called the name of it Jehovahnissi:"
+bsb: "And Moses built an altar and named it The LORD Is My Banner."
+hebrew: "וַיִּ֥בֶן מֹשֶׁ֖ה מִזְבֵּ֑חַ וַיִּקְרָ֥א שְׁמ֖וֹ יְהוָ֥ה׀ נִסִּֽי׃"
+pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic JEHOVAH-NISSI|JEHOVAH-NISSI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H4872]]"
+- "[[H4196]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5251G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:15**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses built an altar, and called the name of it Jehovahnissi:
 <small><sub>**BSB:**</sub></small>
 And Moses built an altar and named it The LORD Is My Banner.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֥בֶן]] [[H4872\|מֹשֶׁ֖ה]] [[H4196\|מִזְבֵּ֑חַ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H5251G\|נִסִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic JEHOVAH-NISSI|JEHOVAH-NISSI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.14|<< Exodus 17:14]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.16|Exodus 17:16 >>]]</td></tr></table>
 

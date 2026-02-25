@@ -1,8 +1,75 @@
+---
+title: Joshua 22:30
+type: Verse
+kjv: "And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them."
+bsb: "When Phinehas the priest and the chiefs of the congregation—the heads of Israel’s clans who were with him—heard what the descendants of Reuben, Gad, and Manasseh had to say, they were satisfied."
+hebrew: "וַיִּשְׁמַ֞ע פִּֽינְחָ֣ס הַכֹּהֵ֗ן וּנְשִׂיאֵ֨י הָעֵדָ֜ה וְרָאשֵׁ֨י אַלְפֵ֤י יִשְׂרָאֵל֙ אֲשֶׁ֣ר אִתּ֔וֹ אֶת־ הַ֨דְּבָרִ֔ים אֲשֶׁ֧ר דִּבְּר֛וּ בְּנֵי־ רְאוּבֵ֥ן וּבְנֵי־ גָ֖ד וּבְנֵ֣י מְנַשֶּׁ֑ה וַיִּיטַ֖ב בְּעֵינֵיהֶֽם׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H6372G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H5712]]"
+- "[[H7218H]]"
+- "[[H0505H]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H1696G]]"
+- "[[H1121G]]"
+- "[[H7205]]"
+- "[[H1410G]]"
+- "[[H4519G]]"
+- "[[H3190]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:30**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which [were] with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
 <small><sub>**BSB:**</sub></small>
 When Phinehas the priest and the chiefs of the congregation—the heads of Israel’s clans who were with him—heard what the descendants of Reuben, Gad, and Manasseh had to say, they were satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֞ע]] [[H6372G\|פִּֽינְחָ֣ס]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וּ]][[H5387A\|נְשִׂיאֵ֨י]] [[H9009\|הָ]][[H5712\|עֵדָ֜ה]] [[H9002\|וְ]][[H7218H\|רָאשֵׁ֨י]] [[H0505H\|אַלְפֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֨]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H1696G\|דִּבְּר֛וּ]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֥ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H9001\|וַ]][[H3190\|יִּיטַ֖ב]] [[H9003\|בְּ]][[H5869A\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.29|<< Joshua 22:29]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.31|Joshua 22:31 >>]]</td></tr></table>
 

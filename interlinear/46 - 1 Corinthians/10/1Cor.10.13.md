@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 10:13
+type: Verse
+kjv: "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it."
+bsb: "No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what you can bear. But when you are tempted, He will also provide an escape, so that you can stand up under it."
+greek: "πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος· πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν.¶"
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3986G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G0442]]"
+- "[[G4103]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G1439]]"
+- "[[G3985G]]"
+- "[[G5228]]"
+- "[[G1410]]"
+- "[[G0235]]"
+- "[[G4160G]]"
+- "[[G4862]]"
+- "[[G2532]]"
+- "[[G1545]]"
+- "[[G5297]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 10:13**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There hath no temptation taken you but such as is common to man: but God [is] faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear [it].
 <small><sub>**BSB:**</sub></small>
 No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what you can bear. But when you are tempted, He will also provide an escape, so that you can stand up under it.
-<small><sub>**Literal:**</sub></small>
-Temptation you not has seized only except what is common to man; faithful now <the> [is] God, who not will allow you to be tempted beyond what you are able, but will provide with the temptation also the escape <the> to be able you to endure [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.12|<< 1 Corinthians 10:12]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.14|1 Corinthians 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3986G\|πειρασμὸς]]  [[G4771\|ὑμᾶς]]  [[G3756\|οὐκ]]  [[G2983\|εἴληφεν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G0442\|ἀνθρώπινος·]]  [[G4103\|πιστὸς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3739\|ὃς]]  [[G3756\|οὐκ]]  [[G1439\|ἐάσει]]  [[G4771\|ὑμᾶς]]  [[G3985G\|πειρασθῆναι]]  [[G5228\|ὑπὲρ]]  [[G3739\|ὃ]]  [[G1410\|δύνασθε,]]  [[G0235\|ἀλλὰ]]  [[G4160G\|ποιήσει]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G3986G\|πειρασμῷ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1545\|ἔκβασιν]]  [[G3588\|τοῦ]]  [[G1410\|δύνασθαι]]  [[G4771\|ὑμᾶς]]  [[G5297\|ὑπενεγκεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.12|<< 1 Corinthians 10:12]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.14|1 Corinthians 10:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

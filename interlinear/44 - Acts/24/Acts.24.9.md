@@ -1,10 +1,50 @@
+---
+title: Acts 24:9
+type: Verse
+kjv: "And the Jews also assented, saying that these things were so."
+bsb: "The Jews concurred, asserting that these charges were true."
+greek: "συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν.¶"
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G9315]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G5335]]"
+- "[[G3778]]"
+- "[[G3779]]"
+- "[[G2192]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 24:9**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Jews also assented, saying that these things were so.
 <small><sub>**BSB:**</sub></small>
 The Jews concurred, asserting that these charges were true.
-<small><sub>**Literal:**</sub></small>
-Agreed then also the Jews declaring these things so to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.8|<< Acts 24:8]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.10|Acts 24:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G9315\|συνεπέθεντο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G5335\|φάσκοντες]]  [[G3778\|ταῦτα]]  [[G3779\|οὕτως]]  [[G2192\|ἔχειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.8|<< Acts 24:8]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.10|Acts 24:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

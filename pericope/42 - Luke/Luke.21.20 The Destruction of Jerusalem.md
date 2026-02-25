@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destruction of Jerusalem
+type: Pericope
 pericope: "[[Luke.21.20 The Destruction of Jerusalem|The Destruction of Jerusalem]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 21
 book/chapter: "[[Luke.21|Luke 21]]"
-genre:
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.21.20]]"
 - "[[Luke.21.21]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.21.24]]"
 ---
 
-[[Luke.21|Luke 21:20 - Luke 21:24]]
+<small>[[Luke.21|Luke 21:20-24]]</small>
 *The Destruction of Jerusalem*
 
 [[Luke.21.20|20]] And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.

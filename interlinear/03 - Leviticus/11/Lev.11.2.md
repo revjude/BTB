@@ -1,8 +1,65 @@
+---
+title: Leviticus 11:2
+type: Verse
+kjv: "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
+bsb: "“Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat:"
+hebrew: "דַּבְּר֛וּ אֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֤את הַֽחַיָּה֙ אֲשֶׁ֣ר תֹּאכְל֔וּ מִכָּל־ הַבְּהֵמָ֖ה אֲשֶׁ֥ר עַל־ הָאָֽרֶץ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0929]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:2**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, saying, These [are] the beasts which ye shall eat among all the beasts that [are] on the earth.
 <small><sub>**BSB:**</sub></small>
 “Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat:
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבְּר֛וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2063\|זֹ֤את]] [[H9009\|הַֽ]][[H2416C\|חַיָּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|תֹּאכְל֔וּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic GOAT|GOAT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.1|<< Leviticus 11:1]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.3|Leviticus 11:3 >>]]</td></tr></table>
 

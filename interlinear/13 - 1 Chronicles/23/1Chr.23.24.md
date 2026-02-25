@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 23:24
+type: Verse
+kjv: "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward."
+bsb: "These were the descendants of Levi by their families—the heads of families, registered individually by name—those twenty years of age or older who worked in the service of the house of the LORD."
+hebrew: "אֵ֣לֶּה בְנֵֽי־ לֵוִי֩ לְבֵ֨ית אֲבֹתֵיהֶ֜ם רָאשֵׁ֧י הָאָב֣וֹת לִפְקוּדֵיהֶ֗ם בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם עֹשֵׂה֙ הַמְּלָאכָ֔ה לַעֲבֹדַ֖ת בֵּ֣ית יְהוָ֑ה מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָֽעְלָה׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3878]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H6485A]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H8034]]"
+- "[[H1538]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:24**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the sons of Levi after the house of their fathers; [even] the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Levi by their families—the heads of families, registered individually by name—those twenty years of age or older who worked in the service of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H3878\|לֵוִי֩]] [[H9005\|לְ]][[H1004M\|בֵ֨ית]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶ֜ם]] [[H7218H\|רָאשֵׁ֧י]] [[H9009\|הָ]][[H0001G\|אָב֣וֹת]] [[H9005\|לִ]][[H6485A\|פְקוּדֵי]][[H9028\|הֶ֗ם]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֤ר]] [[H8034\|שֵׁמוֹת֙]] [[H9005\|לְ]][[H1538\|גֻלְגְּלֹתָ֔]][[H9028\|ם]] [[H6213A\|עֹשֵׂה֙]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H9005\|לַ]][[H5656H\|עֲבֹדַ֖ת]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וָ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.23|<< 1 Chronicles 23:23]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.25|1 Chronicles 23:25 >>]]</td></tr></table>
 

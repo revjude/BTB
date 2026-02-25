@@ -1,8 +1,62 @@
+---
+title: Psalm 17:13
+type: Verse
+kjv: "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
+bsb: "Arise, O LORD, confront them! Bring them to their knees; deliver me from the wicked by Your sword,"
+hebrew: "קוּמָ֤ה יְהוָ֗ה קַדְּמָ֣ה פָ֭נָיו הַכְרִיעֵ֑הוּ פַּלְּטָ֥ה נַ֝פְשִׁ֗י מֵרָשָׁ֥ע חַרְבֶּֽךָ׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H6923]]"
+- "[[H6440L]]"
+- "[[H9023]]"
+- "[[H3766]]"
+- "[[H9033]]"
+- "[[H6403]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H7563]]"
+- "[[H2719]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 17:13**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, [which is] thy sword:
 <small><sub>**BSB:**</sub></small>
 Arise, O LORD, confront them! Bring them to their knees; deliver me from the wicked by Your sword,
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קוּמָ֤]][[H9012\|ה]] [[H3068G\|יְהוָ֗ה]] [[H6923\|קַדְּמָ֣]][[H9012\|ה]] [[H6440L\|פָ֭נָי]][[H9023\|ו]] [[H3766\|הַכְרִיעֵ֑]][[H9033\|הוּ]] [[H6403\|פַּלְּטָ֥]][[H9012\|ה]] [[H5315G\|נַ֝פְשִׁ֗]][[H9020\|י]] [[H9006\|מֵ]][[H7563\|רָשָׁ֥ע]] [[H2719\|חַרְבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic GOD|GOD]] • [[topic SWORD|SWORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.12|<< Psalms 17:12]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.14|Psalms 17:14 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 10:40
+type: Verse
+kjv: "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared."
+bsb: "But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.”"
+jesus_said: "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared."
+greek: "τὸ δὲ καθίσαι ἐκ δεξιῶν μου ἢ ἐξ εὐωνύμων μου οὐκ ἔστιν ἐμὸν δοῦναι ἀλλ᾽ οἷς ἡτοίμασται.¶"
+pericope: "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2523]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G3165]]"
+- "[[G2228]]"
+- "[[G2176]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G2090]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 10:40**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to sit on my right hand and on my left hand is not mine to give; but [it shall be given to them] for whom it is prepared.
 <small><sub>**BSB:**</sub></small>
 But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.”
-<small><sub>**Literal:**</sub></small>
-<the> but to sit at [the] right hand of Me or at [the] left hand of me not is Mine to give but [to those] for whom it has been prepared.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.39|<< Mark 10:39]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.41|Mark 10:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G2523\|καθίσαι]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]  [[G2228\|ἢ]]  [[G1537\|ἐξ]]  [[G2176\|εὐωνύμων]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1473\|ἐμὸν]]  [[G1325\|δοῦναι]]  [[G0235\|ἀλλ᾽]]  [[G3739\|οἷς]]  [[G2090\|ἡτοίμασται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.39|<< Mark 10:39]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.41|Mark 10:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,91 @@
+---
+title: Deuteronomy 4:10
+type: Verse
+kjv: "Specially the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children."
+bsb: "The day you stood before the LORD your God at Horeb, the LORD said to me, “Gather the people before Me to hear My words, so that they may learn to fear Me all the days they live on the earth, and that they may teach them to their children.”"
+hebrew: "י֗וֹם אֲשֶׁ֨ר עָמַ֜דְתָּ לִפְנֵ֨י יְהוָ֣ה אֱלֹהֶיךָ֮ בְּחֹרֵב֒ בֶּאֱמֹ֨ר יְהוָ֜ה אֵלַ֗י הַקְהֶל־ לִי֙ אֶת־ הָעָ֔ם וְאַשְׁמִעֵ֖ם אֶת־ דְּבָרָ֑י אֲשֶׁ֨ר יִלְמְד֜וּן לְיִרְאָ֣ה אֹתִ֗י כָּל־ הַיָּמִים֙ אֲשֶׁ֨ר הֵ֤ם חַיִּים֙ עַל־ הָ֣אֲדָמָ֔ה וְאֶת־ בְּנֵיהֶ֖ם יְלַמֵּדֽוּן׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6950]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H9038]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H3925H]]"
+- "[[H9013]]"
+- "[[H3372H]]"
+- "[[H3605]]"
+- "[[H1992]]"
+- "[[H2416A]]"
+- "[[H5921A]]"
+- "[[H0127I]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H3925G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:10**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Specially] the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and [that] they may teach their children.
 <small><sub>**BSB:**</sub></small>
 The day you stood before the LORD your God at Horeb, the LORD said to me, “Gather the people before Me to hear My words, so that they may learn to fear Me all the days they live on the earth, and that they may teach them to their children.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|י֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H5975G\|עָמַ֜דְתָּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶי]][[H9021\|ךָ֮]] [[H9003\|בְּ]][[H2722\|חֹרֵב֒]] [[H9003\|בֶּ]][[H0559\|אֱמֹ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H6950\|הַקְהֶל]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H8085G\|אַשְׁמִעֵ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָ֑]][[H9020\|י]] [[H0834A\|אֲשֶׁ֨ר]] [[H3925H\|יִלְמְד֜וּ]][[H9013\|ן]] [[H9005\|לְ]][[H3372H\|יִרְאָ֣ה]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִים֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H1992\|הֵ֤ם]] [[H2416A\|חַיִּים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H0127I\|אֲדָמָ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֖ם]] [[H3925G\|יְלַמֵּדֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAMILY|FAMILY]] • [[topic HOREB|HOREB]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]] • [[topic REVERENCE|REVERENCE]] • [[topic SCHOOL|SCHOOL]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.9|<< Deuteronomy 4:9]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.11|Deuteronomy 4:11 >>]]</td></tr></table>
 

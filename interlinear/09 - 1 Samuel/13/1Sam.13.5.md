@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 13:5
+type: Verse
+kjv: "And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Bethaven."
+bsb: "Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven."
+hebrew: "וּפְלִשְׁתִּ֞ים נֶאֶסְפ֣וּ׀ לְהִלָּחֵ֣ם עִם־ יִשְׂרָאֵ֗ל שְׁלֹשִׁ֨ים אֶ֤לֶף רֶ֙כֶב֙ וְשֵׁ֤שֶׁת אֲלָפִים֙ פָּרָשִׁ֔ים וְעָ֕ם כַּח֛וֹל אֲשֶׁ֥ר עַל־ שְׂפַֽת־ הַיָּ֖ם לָרֹ֑ב וַֽיַּעֲלוּ֙ וַיַּחֲנ֣וּ בְמִכְמָ֔שׂ קִדְמַ֖ת בֵּ֥ית אָֽוֶן׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-AVEN|BETH-AVEN]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MICHMASH|MICHMASH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H0622]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H7970]]"
+- "[[H0505G]]"
+- "[[H7393G]]"
+- "[[H8337]]"
+- "[[H6571B]]"
+- "[[H5971K]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H7230]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H4363]]"
+- "[[H6926]]"
+- "[[H1007]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:5**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which [is] on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Bethaven.
 <small><sub>**BSB:**</sub></small>
 Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6430G\|פְלִשְׁתִּ֞ים]] [[H0622\|נֶאֶסְפ֣וּ]][[H9015\|׀]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H0505G\|אֶ֤לֶף]] [[H7393G\|רֶ֙כֶב֙]] [[H9002\|וְ]][[H8337\|שֵׁ֤שֶׁת]] [[H0505G\|אֲלָפִים֙]] [[H6571B\|פָּרָשִׁ֔ים]] [[H9002\|וְ]][[H5971K\|עָ֕ם]] [[H9004\|כַּ]][[H2344\|ח֛וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַֽת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלוּ֙]] [[H9001\|וַ]][[H2583\|יַּחֲנ֣וּ]] [[H9003\|בְ]][[H4363\|מִכְמָ֔שׂ]] [[H6926\|קִדְמַ֖ת]] [[H1007\|בֵּ֥ית]] [[H1007\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-AVEN|BETH-AVEN]] • [[topic CAVALRY|CAVALRY]] • [[topic CHARIOT|CHARIOT]] • [[topic GILGAL|GILGAL]] • [[topic MICHMASH|MICHMASH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.4|<< 1 Samuel 13:4]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.6|1 Samuel 13:6 >>]]</td></tr></table>
 

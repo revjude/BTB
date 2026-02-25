@@ -1,8 +1,52 @@
+---
+title: Proverbs 12:23
+type: Verse
+kjv: "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+bsb: "A shrewd man keeps his knowledge to himself, but a foolish heart proclaims its folly."
+hebrew: "אָדָ֣ם עָ֭רוּם כֹּ֣סֶה דָּ֑עַת וְלֵ֥ב כְּ֝סִילִ֗ים יִקְרָ֥א אִוֶּֽלֶת׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0120G]]"
+- "[[H6175]]"
+- "[[H3680]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H3684]]"
+- "[[H7121I]]"
+- "[[H0200]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:23**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
 <small><sub>**BSB:**</sub></small>
 A shrewd man keeps his knowledge to himself, but a foolish heart proclaims its folly.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָדָ֣ם]] [[H6175\|עָ֭רוּם]] [[H3680\|כֹּ֣סֶה]] [[H1847\|דָּ֑עַת]] [[H9002\|וְ]][[H3820A\|לֵ֥ב]] [[H3684\|כְּ֝סִילִ֗ים]] [[H7121I\|יִקְרָ֥א]] [[H0200\|אִוֶּֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.22|<< Proverbs 12:22]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.24|Proverbs 12:24 >>]]</td></tr></table>
 

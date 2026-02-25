@@ -1,10 +1,63 @@
+---
+title: Matthew 6:10
+type: Verse
+kjv: "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+bsb: "Your kingdom come, Your will be done, on earth as it is in heaven."
+jesus_said: "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+greek: "ἐλθέτω ἡ βασιλεία σου· γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς·"
+pericope: "[[Matt.6.5 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LORD'S PRAYER|LORD'S PRAYER]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G4771]]"
+- "[[G1096]]"
+- "[[G2307]]"
+- "[[G5613]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 6:10**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thy kingdom come. Thy will be done in earth, as [it is] in heaven.
 <small><sub>**BSB:**</sub></small>
 Your kingdom come, Your will be done, on earth as it is in heaven.
-<small><sub>**Literal:**</sub></small>
-should come the kingdom of You; should be [done] the will of You, as in heaven [so] also upon the earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.9|<< Matthew 6:9]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.11|Matthew 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλθέτω]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G4771\|σου·]]  [[G1096\|γενηθήτω]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου,]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῷ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LORD'S PRAYER|LORD'S PRAYER]] • [[topic MOTIVE|MOTIVE]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic RESIGNATION|RESIGNATION]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.9|<< Matthew 6:9]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.11|Matthew 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

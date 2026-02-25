@@ -1,8 +1,73 @@
+---
+title: Joshua 7:25
+type: Verse
+kjv: "And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones."
+bsb: "“Why have you brought this trouble upon us?” said Joshua. “Today the LORD will bring trouble upon you!” And all Israel stoned him to death. Then they stoned the others and burned their bodies."
+hebrew: "וַיֹּ֤אמֶר יְהוֹשֻׁ֙עַ֙ מֶ֣ה עֲכַרְתָּ֔נוּ יַעְכֳּרְךָ֥ יְהוָ֖ה בַּיּ֣וֹם הַזֶּ֑ה וַיִּרְגְּמ֨וּ אֹת֤וֹ כָל־ יִשְׂרָאֵל֙ אֶ֔בֶן וַיִּשְׂרְפ֤וּ אֹתָם֙ בָּאֵ֔שׁ וַיִּסְקְל֥וּ אֹתָ֖ם בָּאֲבָנִֽים׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CREMATION|CREMATION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic STONING|STONING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H4100]]"
+- "[[H5916]]"
+- "[[H9035]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H7275]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0068G]]"
+- "[[H8313]]"
+- "[[H9038]]"
+- "[[H0784]]"
+- "[[H5619]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:25**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.
 <small><sub>**BSB:**</sub></small>
 “Why have you brought this trouble upon us?” said Joshua. “Today the LORD will bring trouble upon you!” And all Israel stoned him to death. Then they stoned the others and burned their bodies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H4100\|מֶ֣ה]] [[H5916\|עֲכַרְתָּ֔]][[H9035\|נוּ]] [[H5916\|יַעְכֳּרְ]][[H9031\|ךָ֥]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H7275\|יִּרְגְּמ֨וּ]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0068G\|אֶ֔בֶן]] [[H9001\|וַ]][[H8313\|יִּשְׂרְפ֤וּ]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9001\|וַ]][[H5619\|יִּסְקְל֥וּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREMATION|CREMATION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic STONING|STONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.24|<< Joshua 7:24]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.26|Joshua 7:26 >>]]</td></tr></table>
 

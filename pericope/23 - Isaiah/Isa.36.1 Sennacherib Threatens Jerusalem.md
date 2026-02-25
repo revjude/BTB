@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib Threatens Jerusalem
+type: Pericope
 pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 36
 book/chapter: "[[Isa.36|Isaiah 36]]"
-genre:
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 22
 verses:
 - "[[Isa.36.1]]"
 - "[[Isa.36.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Isa.36.22]]"
 ---
 
-[[Isa.36|Isaiah 36:1 - Isaiah 36:22]]
+<small>[[Isa.36|Isaiah 36:1-22]]</small>
 *Sennacherib Threatens Jerusalem*
 
 [[Isa.36.1|1]] Now it came to pass in the fourteenth year of king Hezekiah, \[that\] Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.

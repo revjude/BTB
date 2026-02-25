@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Curses of Disobedience
+type: Pericope
 pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
-verse_count: 54
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 28
 book/chapter: "[[Deut.28|Deuteronomy 28]]"
-genre:
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 54
 verses:
 - "[[Deut.28.15]]"
 - "[[Deut.28.16]]"
@@ -77,7 +84,7 @@ verses:
 - "[[Deut.28.68]]"
 ---
 
-[[Deut.28|Deuteronomy 28:15 - Deuteronomy 28:68]]
+<small>[[Deut.28|Deuteronomy 28:15-68]]</small>
 *The Curses of Disobedience*
 
 [[Deut.28.15|15]] But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:

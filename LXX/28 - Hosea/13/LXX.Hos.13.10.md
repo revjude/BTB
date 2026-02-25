@@ -1,6 +1,58 @@
+---
+title: LXX Hosea 13:10
+type: Verse
+lxx: "Where is  this your king? and let him preserve you in all  your cities! Let him judge you! whom you said, Give to me a king and a ruler!"
+greek: "που ο βασιλεύς σου ούτος και διασωσάτω σε εν πάσαις ταις πόλεσί σου κρινάτω σε ον είπας δος μοι βασιλέα και άρχοντα"
+original_language: Greek
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G4226]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1295]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G2919]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G0758]]"
+---
+
 **LXX Hosea 13:10** 
 <small><sub>**LXX:**</sub></small>
 Where \[is\]  this your king? and let him preserve you in all  your cities! Let him judge you! whom you said, Give to me a king and a ruler! 
+<small><sub>**Greek:**</sub></small>
+[[G4226\|που]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G1473\|σου]] [[G3778\|ούτος]] [[G2532\|και]] [[G1295\|διασωσάτω]] [[G1473\|σε]] [[G1722\|εν]] [[G3956\|πάσαις]] [[G3588\|ταις]] [[G4172\|πόλεσί]] [[G1473\|σου]] [[G2919\|κρινάτω]] [[G1473\|σε]] [[G3739\|ον]] [[G2036\|είπας]] [[G1325\|δος]] [[G1473\|μοι]] [[G0935\|βασιλέα]] [[G2532\|και]] [[G0758\|άρχοντα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hos.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.9|<< Hosea 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.11|Hosea 13:11 >>]]</td></tr></table>
 
@@ -25,6 +77,6 @@ Where \[is\]  this your king? and let him preserve you in all  your cities! Let 
 | a king | **<big>[[G0935\|βασιλέα]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | a ruler! | **<big>[[G0758\|άρχοντα]]</big>** |
-[[Hos.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.9|<< Hosea 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.11|Hosea 13:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.9|<< Hosea 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.11|Hosea 13:11 >>]]</td></tr></table>
 
 

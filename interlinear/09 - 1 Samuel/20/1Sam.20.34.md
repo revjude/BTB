@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 20:34
+type: Verse
+kjv: "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame."
+bsb: "Jonathan got up from the table in fierce anger and did not eat any food that second day of the month, for he was grieved by his father’s shameful treatment of David."
+hebrew: "וַיָּ֧קָם יְהוֹנָתָ֛ן מֵעִ֥ם הַשֻּׁלְחָ֖ן בָּחֳרִי־ אָ֑ף וְלֹא־ אָכַ֞ל בְּיוֹם־ הַחֹ֤דֶשׁ הַשֵּׁנִי֙ לֶ֔חֶם כִּ֤י נֶעְצַב֙ אֶל־ דָּוִ֔ד כִּ֥י הִכְלִמ֖וֹ אָבִֽיו׃ ס"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3083H]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9009]]"
+- "[[H7979]]"
+- "[[H9003]]"
+- "[[H2750]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H3117G]]"
+- "[[H2320G]]"
+- "[[H8145]]"
+- "[[H3899G]]"
+- "[[H3588A]]"
+- "[[H6087A]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H3637]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 20:34**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.
 <small><sub>**BSB:**</sub></small>
 Jonathan got up from the table in fierce anger and did not eat any food that second day of the month, for he was grieved by his father’s shameful treatment of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֧קָם]] [[H3083H\|יְהוֹנָתָ֛ן]] [[H9006\|מֵ]][[H5973B\|עִ֥ם]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָ֖ן]] [[H9003\|בָּ]][[H2750\|חֳרִי]][[H9014\|־]] [[H0639G\|אָ֑ף]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0398\|אָכַ֞ל]] [[H9003\|בְּ]][[H3117G\|יוֹם]][[H9014\|־]] [[H9009\|הַ]][[H2320G\|חֹ֤דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִי֙]] [[H3899G\|לֶ֔חֶם]] [[H3588A\|כִּ֤י]] [[H6087A\|נֶעְצַב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H3588A\|כִּ֥י]] [[H3637\|הִכְלִמ֖]][[H9033\|וֹ]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ARROW|ARROW]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.33|<< 1 Samuel 20:33]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.35|1 Samuel 20:35 >>]]</td></tr></table>
 
@@ -26,7 +90,7 @@ Jonathan got up from the table in fierce anger and did not eat any food that sec
 | David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had put to shame him  |**<big>&#8207;[[H3637\|הִכְלִמ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| hikh.li.M<small><sup>[[HVhp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.33|<< 1 Samuel 20:33]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.35|1 Samuel 20:35 >>]]</td></tr></table>
 
 

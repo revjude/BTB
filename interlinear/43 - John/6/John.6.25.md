@@ -1,10 +1,53 @@
+---
+title: John 6:25
+type: Verse
+kjv: "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?"
+bsb: "When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”"
+greek: "καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ· ῥαββί, πότε ὧδε γέγονας;¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RABBI|RABBI]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G4008]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G2036]]"
+- "[[G4461]]"
+- "[[G4219]]"
+- "[[G5602]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 6:25**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?
 <small><sub>**BSB:**</sub></small>
 When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”
-<small><sub>**Literal:**</sub></small>
-And having found Him on the other side of the sea they said to Him; Rabbi, when here have You come?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.24|<< John 6:24]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.26|John 6:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὑρόντες]]  [[G0846\|αὐτὸν]]  [[G4008\|πέραν]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G2036\|εἶπον]]  [[G0846\|αὐτῷ·]]  [[G4461\|ῥαββί,]]  [[G4219\|πότε]]  [[G5602\|ὧδε]]  [[G1096\|γέγονας;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RABBI|RABBI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.24|<< John 6:24]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.26|John 6:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Genesis 14:12
+type: Verse
+kjv: "And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed."
+bsb: "They also carried off Abram’s nephew Lot and his possessions, since Lot was living in Sodom."
+hebrew: "וַיִּקְח֨וּ אֶת־ ל֧וֹט וְאֶת־ רְכֻשׁ֛וֹ בֶּן־ אֲחִ֥י אַבְרָ֖ם וַיֵּלֵ֑כוּ וְה֥וּא יֹשֵׁ֖ב בִּסְדֹֽם׃"
+pericope: "[[Gen.14.10 Abram Rescues Lot|Abram Rescues Lot]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3876]]"
+- "[[H9002]]"
+- "[[H7399]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H0251G]]"
+- "[[H0087]]"
+- "[[H1980M]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:12**<big><big>[[Gen.14.10 Abram Rescues Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.
 <small><sub>**BSB:**</sub></small>
 They also carried off Abram’s nephew Lot and his possessions, since Lot was living in Sodom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3876\|ל֧וֹט]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7399\|רְכֻשׁ֛]][[H9023\|וֹ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0251G\|אֲחִ֥י]] [[H0087\|אַבְרָ֖ם]] [[H9001\|וַ]][[H1980M\|יֵּלֵ֑כוּ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3427\|יֹשֵׁ֖ב]] [[H9003\|בִּ]][[H5467\|סְדֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.11|<< Genesis 14:11]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.13|Genesis 14:13 >>]]</td></tr></table>
 

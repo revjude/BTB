@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 12:8
+type: Verse
+kjv: "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;"
+bsb: "To one there is given through the Spirit the message of wisdom, to another the message of knowledge by the same Spirit,"
+greek: "ᾧ μὲν γὰρ διὰ τοῦ πνεύματος δίδοται λόγος σοφίας, ἄλλῳ δὲ λόγος γνώσεως κατὰ τὸ αὐτὸ πνεῦμα,"
+pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G1325]]"
+- "[[G3056]]"
+- "[[G4678]]"
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G1108]]"
+- "[[G2596]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:8**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
 <small><sub>**BSB:**</sub></small>
 To one there is given through the Spirit the message of wisdom, to another the message of knowledge by the same Spirit,
-<small><sub>**Literal:**</sub></small>
-To one indeed for through the Spirit is given a word of wisdom, to another however a word of knowledge according to the same Spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.7|<< 1 Corinthians 12:7]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.9|1 Corinthians 12:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G1325\|δίδοται]]  [[G3056\|λόγος]]  [[G4678\|σοφίας,]]  [[G0243\|ἄλλῳ]]  [[G1161\|δὲ]]  [[G3056\|λόγος]]  [[G1108\|γνώσεως]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G4151G\|πνεῦμα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.7|<< 1 Corinthians 12:7]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.9|1 Corinthians 12:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

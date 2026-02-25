@@ -1,8 +1,67 @@
+---
+title: Exodus 4:27
+type: Verse
+kjv: "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
+bsb: "Meanwhile, the LORD had said to Aaron, “Go and meet Moses in the wilderness.” So he went and met Moses at the mountain of God and kissed him."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶֽל־ אַהֲרֹ֔ן לֵ֛ךְ לִקְרַ֥את מֹשֶׁ֖ה הַמִּדְבָּ֑רָה וַיֵּ֗לֶךְ וַֽיִּפְגְּשֵׁ֛הוּ בְּהַ֥ר הָאֱלֹהִ֖ים וַיִּשַּׁק־ לֽוֹ׃"
+pericope: "[[Exod.4.27 The People Believe Moses and Aaron|The People Believe Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H4872]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H6298]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H0430G]]"
+- "[[H5401A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:27**<big><big>[[Exod.4.27 The People Believe Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the LORD had said to Aaron, “Go and meet Moses in the wilderness.” So he went and met Moses at the mountain of God and kissed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H1980G\|לֵ֛ךְ]] [[H9005\|לִ]][[H7122G\|קְרַ֥את]] [[H4872\|מֹשֶׁ֖ה]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֑רָ]][[H9011\|ה]] [[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H9001\|וַֽ]][[H6298\|יִּפְגְּשֵׁ֛]][[H9033\|הוּ]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9001\|וַ]][[H5401A\|יִּשַּׁק]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.26|<< Exodus 4:26]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.28|Exodus 4:28 >>]]</td></tr></table>
 

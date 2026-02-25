@@ -1,10 +1,63 @@
+---
+title: Galatians 5:22
+type: Verse
+kjv: "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+bsb: "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"
+greek: "ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις,"
+pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2590]]"
+- "[[G4151G]]"
+- "[[G1510]]"
+- "[[G0026]]"
+- "[[G5479]]"
+- "[[G1515]]"
+- "[[G3115]]"
+- "[[G5544]]"
+- "[[G0019]]"
+- "[[G4102H]]"
+texts:
+- NKO
+---
+
 **Galatians 5:22**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
 <small><sub>**BSB:**</sub></small>
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
-<small><sub>**Literal:**</sub></small>
-<the> But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.21|<< Galatians 5:21]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.23|Galatians 5:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2590\|καρπὸς]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματός]]  [[G1510\|ἐστιν]]  [[G0026\|ἀγάπη,]]  [[G5479\|χαρά,]]  [[G1515\|εἰρήνη,]]  [[G3115\|μακροθυμία,]]  [[G5544\|χρηστότης,]]  [[G0019\|ἀγαθωσύνη,]]  [[G4102H\|πίστις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GENTLENESS|GENTLENESS]] • [[topic GRACES|GRACES]] • [[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOY|JOY]] • [[topic LONGSUFFERING|LONGSUFFERING]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PEACE|PEACE]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.21|<< Galatians 5:21]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.23|Galatians 5:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

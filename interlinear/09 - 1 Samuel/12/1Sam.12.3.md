@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 12:3
+type: Verse
+kjv: "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you."
+bsb: "Here I am. Bear witness against me before the LORD and before His anointed: Whose ox or donkey have I taken? Whom have I cheated or oppressed? From whose hand have I accepted a bribe and closed my eyes? Tell me, and I will restore it to you.”"
+hebrew: "הִנְנִ֣י עֲנ֣וּ בִי֩ נֶ֨גֶד יְהוָ֜ה וְנֶ֣גֶד מְשִׁיח֗וֹ אֶת־ שׁוֹר֩׀ מִ֨י לָקַ֜חְתִּי וַחֲמ֧וֹר מִ֣י לָקַ֗חְתִּי וְאֶת־ מִ֤י עָשַׁ֙קְתִּי֙ אֶת־ מִ֣י רַצּ֔וֹתִי וּמִיַּד־ מִי֙ לָקַ֣חְתִּי כֹ֔פֶר וְאַעְלִ֥ים עֵינַ֖י בּ֑וֹ וְאָשִׁ֖יב לָכֶֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H5048]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4899]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7794]]"
+- "[[H9015]]"
+- "[[H4310]]"
+- "[[H3947G]]"
+- "[[H2543]]"
+- "[[H6231]]"
+- "[[H7533]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H3724A]]"
+- "[[H5956]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9033]]"
+- "[[H7725H]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:3**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, here I [am]: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received [any] bribe to blind mine eyes therewith? and I will restore it you.
 <small><sub>**BSB:**</sub></small>
 Here I am. Bear witness against me before the LORD and before His anointed: Whose ox or donkey have I taken? Whom have I cheated or oppressed? From whose hand have I accepted a bribe and closed my eyes? Tell me, and I will restore it to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H6030B\|עֲנ֣וּ]] [[H9003\|בִ]][[H9030\|י֩]] [[H5048\|נֶ֨גֶד]] [[H3068G\|יְהוָ֜ה]] [[H9002\|וְ]][[H5048\|נֶ֣גֶד]] [[H4899\|מְשִׁיח֗]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7794\|שׁוֹר֩]][[H9015\|׀]] [[H4310\|מִ֨י]] [[H3947G\|לָקַ֜חְתִּי]] [[H9002\|וַ]][[H2543\|חֲמ֧וֹר]] [[H4310\|מִ֣י]] [[H3947G\|לָקַ֗חְתִּי]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֤י]] [[H6231\|עָשַׁ֙קְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֣י]] [[H7533\|רַצּ֔וֹתִי]] [[H9002\|וּ]][[H9006\|מִ]][[H3027G\|יַּד]][[H9014\|־]] [[H4310\|מִי֙]] [[H3947G\|לָקַ֣חְתִּי]] [[H3724A\|כֹ֔פֶר]] [[H9002\|וְ]][[H5956\|אַעְלִ֥ים]] [[H5869A\|עֵינַ֖]][[H9020\|י]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H7725H\|אָשִׁ֖יב]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.2|<< 1 Samuel 12:2]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.4|1 Samuel 12:4 >>]]</td></tr></table>
 

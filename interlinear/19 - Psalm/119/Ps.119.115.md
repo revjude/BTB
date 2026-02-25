@@ -1,8 +1,58 @@
+---
+title: Psalm 119:115
+type: Verse
+kjv: "Depart from me, ye evildoers: for I will keep the commandments of my God."
+bsb: "Depart from me, you evildoers, that I may obey the commandments of my God."
+hebrew: "סֽוּרוּ־ מִמֶּ֥נִּי מְרֵעִ֑ים וְ֝אֶצְּרָ֗ה מִצְוֹ֥ת אֱלֹהָֽי׃"
+pericope: "[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|Your Word Is a Lamp to My Feet - SAMECH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5493H]]"
+- "[[H9014]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H7489A]]"
+- "[[H9002]]"
+- "[[H5341]]"
+- "[[H4687]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:115**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from me, ye evildoers: for I will keep the commandments of my God.
 <small><sub>**BSB:**</sub></small>
 Depart from me, you evildoers, that I may obey the commandments of my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493H\|סֽוּרוּ]][[H9014\|־]] [[H4480A\|מִמֶּ֥]][[H9030\|נִּי]] [[H7489A\|מְרֵעִ֑ים]] [[H9002\|וְ֝]][[H5341\|אֶצְּרָ֗ה]] [[H4687\|מִצְוֹ֥ת]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.115|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.114|<< Psalms 119:114]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.116|Psalms 119:116 >>]]</td></tr></table>
 

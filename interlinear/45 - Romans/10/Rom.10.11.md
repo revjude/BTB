@@ -1,10 +1,55 @@
+---
+title: Romans 10:11
+type: Verse
+kjv: "For the scripture saith, Whosoever believeth on him shall not be ashamed."
+bsb: "It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”"
+greek: "Λέγει γὰρ ἡ γραφή· πᾶς ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ καταισχυνθήσεται."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2617]]"
+texts:
+- NKO
+---
+
 **Romans 10:11**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the scripture saith, Whosoever believeth on him shall not be ashamed.
 <small><sub>**BSB:**</sub></small>
 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”
-<small><sub>**Literal:**</sub></small>
-Says for the Scripture; Everyone who is believing on Him not will be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.10|<< Romans 10:10]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.12|Romans 10:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G1124\|γραφή·]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G3756\|οὐ]]  [[G2617\|καταισχυνθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PENITENT|PENITENT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.10|<< Romans 10:10]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.12|Romans 10:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:11** is...
 > $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]

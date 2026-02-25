@@ -1,8 +1,53 @@
+---
+title: Job 41:2
+type: Verse
+kjv: "Canst thou put an hook into his nose? or bore his jaw through with a thorn?"
+bsb: "Can you put a cord through his nose or pierce his jaw with a hook?"
+hebrew: "הֲתָשִׂ֣ים אַגְמ֣וֹן בְּאַפּ֑וֹ וּ֝בְח֗וֹחַ תִּקּ֥וֹב לֶֽחֱיוֹ׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THORN|THORN]]"
+strongs:
+- "[[H9008]]"
+- "[[H7760H]]"
+- "[[H0100]]"
+- "[[H9003]]"
+- "[[H0639H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2336]]"
+- "[[H5344A]]"
+- "[[H3895H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:2**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou put an hook into his nose? or bore his jaw through with a thorn?
 <small><sub>**BSB:**</sub></small>
 Can you put a cord through his nose or pierce his jaw with a hook?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H7760H\|תָשִׂ֣ים]] [[H0100\|אַגְמ֣וֹן]] [[H9003\|בְּ]][[H0639H\|אַפּ֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H2336\|ח֗וֹחַ]] [[H5344A\|תִּקּ֥וֹב]] [[H3895H\|לֶֽחֱי]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THORN|THORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.1|<< Job 41:1]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.3|Job 41:3 >>]]</td></tr></table>
 

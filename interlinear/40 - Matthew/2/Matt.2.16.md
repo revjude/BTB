@@ -1,10 +1,75 @@
+---
+title: Matthew 2:16
+type: Verse
+kjv: "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men."
+bsb: "When Herod saw that he had been outwitted by the Magi, he was filled with rage. Sending orders, he put to death all the boys in Bethlehem and its vicinity who were two years old and under, according to the time he had learned from the Magi."
+greek: "Τότε Ἡρῴδης ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων ἐθυμώθη λίαν, καὶ ἀποστείλας ἀνεῖλεν πάντας τοὺς παῖδας τοὺς ἐν Βηθλέεμ καὶ ἐν πᾶσιν τοῖς ὁρίοις αὐτῆς ἀπὸ διετοῦς καὶ κατωτέρω κατὰ τὸν χρόνον ὃν ἠκρίβωσεν παρὰ τῶν μάγων.¶"
+pericope: "[[Matt.2.16 Weeping and Great Mourning|Weeping and Great Mourning]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INFANTICIDE|INFANTICIDE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G5119]]"
+- "[[G2264G]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G1702]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3097]]"
+- "[[G2373]]"
+- "[[G3029]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0337]]"
+- "[[G3956]]"
+- "[[G3816]]"
+- "[[G1722]]"
+- "[[G0965]]"
+- "[[G3725]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G1332]]"
+- "[[G6053]]"
+- "[[G2596]]"
+- "[[G5550]]"
+- "[[G3739]]"
+- "[[G0198]]"
+- "[[G3844]]"
+texts:
+- NKO
+---
+
 **Matthew 2:16**<big><big>[[Matt.2.16 Weeping and Great Mourning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.
 <small><sub>**BSB:**</sub></small>
 When Herod saw that he had been outwitted by the Magi, he was filled with rage. Sending orders, he put to death all the boys in Bethlehem and its vicinity who were two years old and under, according to the time he had learned from the Magi.
-<small><sub>**Literal:**</sub></small>
-Then Herod having seen that he had been outwitted by the Magi was enraged intensely, and having sent forth he executed all the boys that [were] in Bethlehem and in all the vicinity of it from two years old and under according to the time which he had ascertained from the Magi.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.15|<< Matthew 2:15]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.17|Matthew 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G2264G\|Ἡρῴδης]]  [[G1492H\|ἰδὼν]]  [[G3754G\|ὅτι]]  [[G1702\|ἐνεπαίχθη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G3097\|μάγων]]  [[G2373\|ἐθυμώθη]]  [[G3029\|λίαν,]]  [[G2532\|καὶ]]  [[G0649\|ἀποστείλας]]  [[G0337\|ἀνεῖλεν]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G3816\|παῖδας]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G0965\|Βηθλέεμ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G3725\|ὁρίοις]]  [[G0846\|αὐτῆς]]  [[G0575\|ἀπὸ]]  [[G1332\|διετοῦς]]  [[G2532\|καὶ]]  [[G6053\|κατωτέρω]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G5550\|χρόνον]]  [[G3739\|ὃν]]  [[G0198\|ἠκρίβωσεν]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G3097\|μάγων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic CHILDREN|CHILDREN]] • [[topic EGYPT|EGYPT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INFANTICIDE|INFANTICIDE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.15|<< Matthew 2:15]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.17|Matthew 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

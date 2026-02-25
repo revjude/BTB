@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 12:15
+type: Verse
+kjv: "Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually."
+bsb: "Now the acts of Rehoboam, from first to last, are they not written in the records of Shemaiah the Prophet and of Iddo the Seer concerning the genealogies? There was war between Rehoboam and Jeroboam throughout their days."
+hebrew: "וְדִבְרֵ֣י רְחַבְעָ֗ם הָרִאשֹׁנִים֙ וְהָאֲ֣חַרוֹנִ֔ים הֲלֹא־ הֵ֨ם כְּתוּבִ֜ים בְּדִבְרֵ֨י שְׁמַֽעְיָ֧ה הַנָּבִ֛יא וְעִדּ֥וֹ הַחֹזֶ֖ה לְהִתְיַחֵ֑שׂ וּמִלְחֲמ֧וֹת רְחַבְעָ֛ם וְיָרָבְעָ֖ם כָּל־ הַיָּמִֽים׃"
+pericope: "[[2Chr.12.13 Rehoboam’s Reign and Death|Rehoboam’s Reign and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic IDDO|IDDO]]"
+- "[[topic KING|KING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1697K]]"
+- "[[H7346]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0314]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H8098A]]"
+- "[[H5030]]"
+- "[[H5714I]]"
+- "[[H2374]]"
+- "[[H9005]]"
+- "[[H3187]]"
+- "[[H4421]]"
+- "[[H3379G]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:15**<big><big>[[2Chr.12.13 Rehoboam’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the acts of Rehoboam, first and last, [are] they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And [there were] wars between Rehoboam and Jeroboam continually.
 <small><sub>**BSB:**</sub></small>
 Now the acts of Rehoboam, from first to last, are they not written in the records of Shemaiah the Prophet and of Iddo the Seer concerning the genealogies? There was war between Rehoboam and Jeroboam throughout their days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1697K\|דִבְרֵ֣י]] [[H7346\|רְחַבְעָ֗ם]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִים֙]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אֲ֣חַרוֹנִ֔ים]] [[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1992\|הֵ֨ם]] [[H3789\|כְּתוּבִ֜ים]] [[H9003\|בְּ]][[H1697K\|דִבְרֵ֨י]] [[H8098A\|שְׁמַֽעְיָ֧ה]] [[H9009\|הַ]][[H5030\|נָּבִ֛יא]] [[H9002\|וְ]][[H5714I\|עִדּ֥וֹ]] [[H9009\|הַ]][[H2374\|חֹזֶ֖ה]] [[H9005\|לְ]][[H3187\|הִתְיַחֵ֑שׂ]] [[H9002\|וּ]][[H4421\|מִלְחֲמ֧וֹת]] [[H7346\|רְחַבְעָ֛ם]] [[H9002\|וְ]][[H3379G\|יָרָבְעָ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic IDDO|IDDO]] • [[topic KING|KING]] • [[topic PROPHETS|PROPHETS]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.14|<< 2 Chronicles 12:14]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.16|2 Chronicles 12:16 >>]]</td></tr></table>
 

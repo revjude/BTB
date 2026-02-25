@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 8:8
+type: Verse
+kjv: "But of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day."
+bsb: "their descendants who remained in the land, those whom the Israelites had not destroyed—Solomon conscripted these people to be forced laborers, as they are to this day."
+hebrew: "מִן־ בְּנֵיהֶ֗ם אֲשֶׁ֨ר נוֹתְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֥ר לֹֽא־ כִלּ֖וּם בְּנֵ֣י יִשְׂרָאֵ֑ל וַיַּעֲלֵ֤ם שְׁלֹמֹה֙ לְמַ֔ס עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H3498]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H3615H]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H4522]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:8**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
 <small><sub>**BSB:**</sub></small>
 their descendants who remained in the land, those whom the Israelites had not destroyed—Solomon conscripted these people to be forced laborers, as they are to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3498\|נוֹתְר֤וּ]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶם֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3615H\|כִלּ֖וּ]][[H9038\|ם]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5927H\|יַּעֲלֵ֤]][[H9038\|ם]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לְ]][[H4522\|מַ֔ס]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HITTITES|HITTITES]] • [[topic HIVITES|HIVITES]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.7|<< 2 Chronicles 8:7]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.9|2 Chronicles 8:9 >>]]</td></tr></table>
 

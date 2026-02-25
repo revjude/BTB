@@ -1,8 +1,63 @@
+---
+title: Judges 12:14
+type: Verse
+kjv: "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years."
+bsb: "He had forty sons and thirty grandsons, who rode on seventy donkeys. And he judged Israel eight years."
+hebrew: "וַיְהִי־ ל֞וֹ אַרְבָּעִ֣ים בָּנִ֗ים וּשְׁלֹשִׁים֙ בְּנֵ֣י בָנִ֔ים רֹכְבִ֖ים עַל־ שִׁבְעִ֣ים עֲיָרִ֑ם וַיִּשְׁפֹּ֥ט אֶת־ יִשְׂרָאֵ֖ל שְׁמֹנֶ֥ה שָׁנִֽים׃"
+pericope: "[[Judg.12.8 Ibzan, Elon, and Abdon|Ibzan, Elon, and Abdon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABDON|ABDON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0705]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H1121G]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H7657]]"
+- "[[H5895]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:14**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
 <small><sub>**BSB:**</sub></small>
 He had forty sons and thirty grandsons, who rode on seventy donkeys. And he judged Israel eight years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֞]][[H9033\|וֹ]] [[H0705\|אַרְבָּעִ֣ים]] [[H1121A\|בָּנִ֗ים]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁים֙]] [[H1121G\|בְּנֵ֣י]] [[H1121G\|בָנִ֔ים]] [[H7392\|רֹכְבִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H7657\|שִׁבְעִ֣ים]] [[H5895\|עֲיָרִ֑ם]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H8083\|שְׁמֹנֶ֥ה]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDON|ABDON]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.13|<< Judges 12:13]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.15|Judges 12:15 >>]]</td></tr></table>
 

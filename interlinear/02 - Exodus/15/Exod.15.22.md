@@ -1,8 +1,70 @@
+---
+title: Exodus 15:22
+type: Verse
+kjv: "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water."
+bsb: "Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water."
+hebrew: "וַיַּסַּ֨ע מֹשֶׁ֤ה אֶת־ יִשְׂרָאֵל֙ מִיַּם־ ס֔וּף וַיֵּצְא֖וּ אֶל־ מִדְבַּר־ שׁ֑וּר וַיֵּלְכ֧וּ שְׁלֹֽשֶׁת־ יָמִ֛ים בַּמִּדְבָּ֖ר וְלֹא־ מָ֥צְאוּ מָֽיִם׃"
+pericope: "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic MARAH|MARAH]]"
+- "[[topic SHUR|SHUR]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H5488G]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H4057B]]"
+- "[[H7793]]"
+- "[[H1980G]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:22**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 <small><sub>**BSB:**</sub></small>
 Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יַּסַּ֨ע]] [[H4872\|מֹשֶׁ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מִ]][[H3220G\|יַּם]][[H9014\|־]] [[H5488G\|ס֔וּף]] [[H9001\|וַ]][[H3318G\|יֵּצְא֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4057B\|מִדְבַּר]][[H9014\|־]] [[H7793\|שׁ֑וּר]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֧וּ]] [[H7969\|שְׁלֹֽשֶׁת]][[H9014\|־]] [[H3117G\|יָמִ֛ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֖ר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָ֥צְאוּ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic MARAH|MARAH]] • [[topic SHUR|SHUR]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.21|<< Exodus 15:21]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.23|Exodus 15:23 >>]]</td></tr></table>
 

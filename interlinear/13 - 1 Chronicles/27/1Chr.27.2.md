@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 27:2
+type: Verse
+kjv: "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand."
+bsb: "Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division."
+hebrew: "עַ֞ל הַמַּחֲלֹ֤קֶת הָרִֽאשׁוֹנָה֙ לַחֹ֣דֶשׁ הָרִאשׁ֔וֹן יָֽשָׁבְעָ֖ם בֶּן־ זַבְדִּיאֵ֑ל וְעַל֙ מַֽחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JASHOBEAM|JASHOBEAM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic ZABDIEL|ZABDIEL]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4256]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H3434G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2068G]]"
+- "[[H9002]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:2**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Over the first course for the first month [was] Jashobeam the son of Zabdiel: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 Jashobeam son of Zabdiel was in charge of the first division, which was assigned the first month. There were 24,000 men in his division.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֞ל]] [[H9009\|הַ]][[H4256\|מַּחֲלֹ֤קֶת]] [[H9009\|הָ]][[H7223G\|רִֽאשׁוֹנָה֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֔וֹן]] [[H3434G\|יָֽשָׁבְעָ֖ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2068G\|זַבְדִּיאֵ֑ל]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4256\|מַֽחֲלֻקְתּ֔]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JASHOBEAM|JASHOBEAM]] • [[topic MONTH|MONTH]] • [[topic ZABDIEL|ZABDIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.1|<< 1 Chronicles 27:1]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.3|1 Chronicles 27:3 >>]]</td></tr></table>
 

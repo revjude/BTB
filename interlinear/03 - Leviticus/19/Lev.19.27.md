@@ -1,8 +1,57 @@
+---
+title: Leviticus 19:27
+type: Verse
+kjv: "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard."
+bsb: "You must not cut off the hair at the sides of your head or clip off the edges of your beard."
+hebrew: "לֹ֣א תַקִּ֔פוּ פְּאַ֖ת רֹאשְׁכֶ֑ם וְלֹ֣א תַשְׁחִ֔ית אֵ֖ת פְּאַ֥ת זְקָנֶֽךָ׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3808]]"
+- "[[H5362B]]"
+- "[[H6285]]"
+- "[[H7218A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H2206]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:27**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.
 <small><sub>**BSB:**</sub></small>
 You must not cut off the hair at the sides of your head or clip off the edges of your beard.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H5362B\|תַקִּ֔פוּ]] [[H6285\|פְּאַ֖ת]] [[H7218A\|רֹאשְׁ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7843\|תַשְׁחִ֔ית]] [[H0853\|אֵ֖ת]] [[H6285\|פְּאַ֥ת]] [[H2206\|זְקָנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.26|<< Leviticus 19:26]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.28|Leviticus 19:28 >>]]</td></tr></table>
 

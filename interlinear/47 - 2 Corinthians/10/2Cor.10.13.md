@@ -1,10 +1,59 @@
+---
+title: 2 Corinthians 10:13
+type: Verse
+kjv: "But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you."
+bsb: "We, however, will not boast beyond our limits, but only within the field of influence that God has assigned to us—a field that reaches even to you."
+greek: "ἡμεῖς δὲ οὐκ εἰς τὰ ἄμετρα καυχησόμεθα ἀλλὰ κατὰ τὸ μέτρον τοῦ κανόνος οὗ ἐμέρισεν ἡμῖν ὁ θεὸς μέτρου ἐφικέσθαι ἄχρι καὶ ὑμῶν."
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BOASTING|BOASTING]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0280]]"
+- "[[G2744]]"
+- "[[G0235]]"
+- "[[G2596]]"
+- "[[G3358]]"
+- "[[G2583]]"
+- "[[G3739]]"
+- "[[G3307]]"
+- "[[G2316]]"
+- "[[G2185]]"
+- "[[G0891]]"
+- "[[G2532]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 10:13**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we will not boast of things without [our] measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.
 <small><sub>**BSB:**</sub></small>
 We, however, will not boast beyond our limits, but only within the field of influence that God has assigned to us—a field that reaches even to you.
-<small><sub>**Literal:**</sub></small>
-We ourselves however not into the [things] beyond measure will boast but according to the measure of the area that has assigned to us <the> God a measure to reach as far as also you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.12|<< 2 Corinthians 10:12]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.14|2 Corinthians 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G0280\|ἄμετρα]]  [[G2744\|καυχησόμεθα]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G3358\|μέτρον]]  [[G3588\|τοῦ]]  [[G2583\|κανόνος]]  [[G3739\|οὗ]]  [[G3307\|ἐμέρισεν]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3358\|μέτρου]]  [[G2185\|ἐφικέσθαι]]  [[G0891\|ἄχρι]]  [[G2532\|καὶ]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.12|<< 2 Corinthians 10:12]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.14|2 Corinthians 10:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

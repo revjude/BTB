@@ -7,7 +7,7 @@
 
 → Preaching the gospel at [[Acts.11.19|Ac 11:19]],[[Acts.11.20|20]]
 
-→ Visited by Barnabas and Saul [[Acts.13.4|Ac 13:4]]-[[Acts.13.12|12]]
+→ Visited by Barnabas and Saul [[Acts.13.4|Ac 13:4-12]]
 
 → Barnabas and Mark visit [[Acts.15.39|Ac 15:39]]
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 46:31
+type: Verse
+kjv: "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which were in the land of Canaan, are come unto me;"
+bsb: "Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me."
+hebrew: "וַיֹּ֨אמֶר יוֹסֵ֤ף אֶל־ אֶחָיו֙ וְאֶל־ בֵּ֣ית אָבִ֔יו אֶעֱלֶ֖ה וְאַגִּ֣ידָה לְפַרְעֹ֑ה וְאֹֽמְרָ֣ה אֵלָ֔יו אַחַ֧י וּבֵית־ אָבִ֛י אֲשֶׁ֥ר בְּאֶֽרֶץ־ כְּנַ֖עַן בָּ֥אוּ אֵלָֽי׃"
+pericope: "[[Gen.46.28 Jacob Arrives in Egypt|Jacob Arrives in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H5927G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H6547H]]"
+- "[[H9033]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:31**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which [were] in the land of Canaan, are come unto me;
 <small><sub>**BSB:**</sub></small>
 Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3130G\|יוֹסֵ֤ף]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H5927G\|אֶעֱלֶ֖ה]] [[H9002\|וְ]][[H5046\|אַגִּ֣ידָה]] [[H9005\|לְ]][[H6547H\|פַרְעֹ֑ה]] [[H9002\|וְ]][[H0559\|אֹֽמְרָ֣ה]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0251G\|אַחַ֧]][[H9020\|י]] [[H9002\|וּ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֛]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H3667A\|כְּנַ֖עַן]] [[H0935G\|בָּ֥אוּ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.30|<< Genesis 46:30]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.32|Genesis 46:32 >>]]</td></tr></table>
 

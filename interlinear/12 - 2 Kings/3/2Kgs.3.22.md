@@ -1,8 +1,61 @@
+---
+title: 2 Kings 3:22
+type: Verse
+kjv: "And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:"
+bsb: "When they got up early in the morning, the sun was shining on the water, and it looked as red as blood to the Moabites across the way."
+hebrew: "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהַשֶּׁ֖מֶשׁ זָרְחָ֣ה עַל־ הַמָּ֑יִם וַיִּרְא֨וּ מוֹאָ֥ב מִנֶּ֛גֶד אֶת־ הַמַּ֖יִם אֲדֻמִּ֥ים כַּדָּֽם׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H2224]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H7200G]]"
+- "[[H4124G]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H0853]]"
+- "[[H0122A]]"
+- "[[H9004]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:22**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side [as] red as blood:
 <small><sub>**BSB:**</sub></small>
 When they got up early in the morning, the sun was shining on the water, and it looked as red as blood to the Moabites across the way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H2224\|זָרְחָ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H7200G\|יִּרְא֨וּ]] [[H4124G\|מוֹאָ֥ב]] [[H9006\|מִ]][[H5048\|נֶּ֛גֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H0122A\|אֲדֻמִּ֥ים]] [[H9004\|כַּ]][[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.21|<< 2 Kings 3:21]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.23|2 Kings 3:23 >>]]</td></tr></table>
 

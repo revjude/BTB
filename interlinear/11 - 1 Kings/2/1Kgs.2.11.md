@@ -1,8 +1,60 @@
+---
+title: 1 Kings 2:11
+type: Verse
+kjv: "And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem."
+bsb: "The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem."
+hebrew: "וְהַיָּמִ֗ים אֲשֶׁ֨ר מָלַ֤ךְ דָּוִד֙ עַל־ יִשְׂרָאֵ֔ל אַרְבָּעִ֖ים שָׁנָ֑ה בְּחֶבְר֤וֹן מָלַךְ֙ שֶׁ֣בַע שָׁנִ֔ים וּבִירוּשָׁלִַ֣ם מָלַ֔ךְ שְׁלֹשִׁ֥ים וְשָׁלֹ֖שׁ שָׁנִֽים׃"
+pericope: "[[1Kgs.2.10 David’s Reign and Death|David’s Reign and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H7651]]"
+- "[[H3389]]"
+- "[[H7970]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:11**<big><big>[[1Kgs.2.10 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the days that David reigned over Israel [were] forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H4427A\|מָלַ֤ךְ]] [[H1732\|דָּוִד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H2275A\|חֶבְר֤וֹן]] [[H4427A\|מָלַךְ֙]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֔ים]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֣ם]] [[H4427A\|מָלַ֔ךְ]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וְ]][[H7969\|שָׁלֹ֖שׁ]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.10|<< 1 Kings 2:10]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.12|1 Kings 2:12 >>]]</td></tr></table>
 

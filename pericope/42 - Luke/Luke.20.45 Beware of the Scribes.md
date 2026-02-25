@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Beware of the Scribes
+type: Pericope
 pericope: "[[Luke.20.45 Beware of the Scribes|Beware of the Scribes]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Luke
 chapter: 20
 book/chapter: "[[Luke.20|Luke 20]]"
-genre:
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 3
 verses:
 - "[[Luke.20.45]]"
 - "[[Luke.20.46]]"
 - "[[Luke.20.47]]"
 ---
 
-[[Luke.20|Luke 20:45 - Luke 20:47]]
+<small>[[Luke.20|Luke 20:45-47]]</small>
 *Beware of the Scribes*
 
 [[Luke.20.45|45]] Then in the audience of all the people he said unto his disciples,

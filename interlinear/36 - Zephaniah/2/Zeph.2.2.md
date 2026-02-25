@@ -1,8 +1,59 @@
+---
+title: Zephaniah 2:2
+type: Verse
+kjv: "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’S anger come upon you."
+bsb: "before the decree takes effect and the day passes like chaff, before the burning anger of the LORD comes upon you, before the Day of the LORD’s anger comes upon you."
+hebrew: "בְּטֶ֙רֶם֙ לֶ֣דֶת חֹ֔ק כְּמֹ֖ץ עָ֣בַר י֑וֹם בְּטֶ֣רֶם׀ לֹא־ יָב֣וֹא עֲלֵיכֶ֗ם חֲרוֹן֙ אַף־ יְהוָ֔ה בְּטֶ֙רֶם֙ לֹא־ יָב֣וֹא עֲלֵיכֶ֔ם י֖וֹם אַף־ יְהוָֽה׃"
+pericope: "[[Zeph.2.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H3205]]"
+- "[[H2706G]]"
+- "[[H9004]]"
+- "[[H4671]]"
+- "[[H5674A]]"
+- "[[H3117G]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:2**<big><big>[[Zeph.2.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the decree bring forth, [before] the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD’S anger come upon you.
 <small><sub>**BSB:**</sub></small>
 before the decree takes effect and the day passes like chaff, before the burning anger of the LORD comes upon you, before the Day of the LORD’s anger comes upon you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2962\|טֶ֙רֶם֙]] [[H3205\|לֶ֣דֶת]] [[H2706G\|חֹ֔ק]] [[H9004\|כְּ]][[H4671\|מֹ֖ץ]] [[H5674A\|עָ֣בַר]] [[H3117G\|י֑וֹם]] [[H9003\|בְּ]][[H2962\|טֶ֣רֶם]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|יָב֣וֹא]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֗ם]] [[H2740\|חֲרוֹן֙]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H2962\|טֶ֙רֶם֙]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|יָב֣וֹא]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H3117G\|י֖וֹם]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.1|<< Zephaniah 2:1]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.3|Zephaniah 2:3 >>]]</td></tr></table>
 

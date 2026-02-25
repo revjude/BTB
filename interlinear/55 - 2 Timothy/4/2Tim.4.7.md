@@ -1,10 +1,58 @@
+---
+title: 2 Timothy 4:7
+type: Verse
+kjv: "I have fought a good fight, I have finished my course, I have kept the faith:"
+bsb: "I have fought the good fight, I have finished the race, I have kept the faith."
+greek: "τὸν καλὸν τὸν ἀγῶνα ἠγώνισμαι, τὸν δρόμον τετέλεκα, τὴν πίστιν τετήρηκα·"
+pericope: "[[2Tim.4.1 Preach the Word|Preach the Word]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FIGHT OF FAITH|FIGHT OF FAITH]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3588]]"
+- "[[G2570G]]"
+- "[[G0073]]"
+- "[[G0075]]"
+- "[[G1408]]"
+- "[[G5055]]"
+- "[[G4102G]]"
+- "[[G5083G]]"
+texts:
+- NKO
+- k
+---
+
 **2 Timothy 4:7**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have fought a good fight, I have finished [my] course, I have kept the faith:
 <small><sub>**BSB:**</sub></small>
 I have fought the good fight, I have finished the race, I have kept the faith.
-<small><sub>**Literal:**</sub></small>
-The good <the> fight I have fought, the race I have finished, the faith I have kept;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.6|<< 2 Timothy 4:6]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.8|2 Timothy 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G2570G\|καλὸν]]  [[G3588\|τὸν]]  [[G0073\|ἀγῶνα]]  [[G0075\|ἠγώνισμαι,]]  [[G3588\|τὸν]]  [[G1408\|δρόμον]]  [[G5055\|τετέλεκα,]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G5083G\|τετήρηκα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic FIGHT OF FAITH|FIGHT OF FAITH]] • [[topic GAMES|GAMES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.6|<< 2 Timothy 4:6]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.8|2 Timothy 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

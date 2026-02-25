@@ -1,8 +1,69 @@
+---
+title: Psalm 90:10
+type: Verse
+kjv: "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away."
+bsb: "The length of our days is seventy years—or eighty if we are strong—yet their pride is but labor and sorrow, for they quickly pass, and we fly away."
+hebrew: "יְמֵֽי־ שְׁנוֹתֵ֨ינוּ בָהֶ֥ם שִׁבְעִ֪ים שָׁנָ֡ה וְאִ֤ם בִּגְבוּרֹ֨ת׀ שְׁמ֘וֹנִ֤ים שָׁנָ֗ה וְ֭רָהְבָּם עָמָ֣ל וָאָ֑וֶן כִּי־ גָ֥ז חִ֝֗ישׁ וַנָּעֻֽפָה׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H3117I]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H7657]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H1369]]"
+- "[[H9015]]"
+- "[[H8084]]"
+- "[[H7296]]"
+- "[[H9028]]"
+- "[[H5999]]"
+- "[[H0205H]]"
+- "[[H3588A]]"
+- "[[H1468]]"
+- "[[H2440]]"
+- "[[H9001]]"
+- "[[H5774A]]"
+- "[[H9012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:10**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The days of our years [are] threescore years and ten; and if by reason of strength [they be] fourscore years, yet [is] their strength labour and sorrow; for it is soon cut off, and we fly away.
 <small><sub>**BSB:**</sub></small>
 The length of our days is seventy years—or eighty if we are strong—yet their pride is but labor and sorrow, for they quickly pass, and we fly away.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117I\|יְמֵֽי]][[H9014\|־]] [[H8141\|שְׁנוֹתֵ֨י]][[H9025\|נוּ]] [[H9003\|בָ]][[H9038\|הֶ֥ם]] [[H7657\|שִׁבְעִ֪ים]] [[H8141\|שָׁנָ֡ה]] [[H9002\|וְ]][[H0518A\|אִ֤ם]] [[H9003\|בִּ]][[H1369\|גְבוּרֹ֨ת]][[H9015\|׀]] [[H8084\|שְׁמ֘וֹנִ֤ים]] [[H8141\|שָׁנָ֗ה]] [[H9002\|וְ֭]][[H7296\|רָהְבָּ]][[H9028\|ם]] [[H5999\|עָמָ֣ל]] [[H9002\|וָ]][[H0205H\|אָ֑וֶן]] [[H3588A\|כִּי]][[H9014\|־]] [[H1468\|גָ֥ז]] [[H2440\|חִ֝֗ישׁ]] [[H9001\|וַ]][[H5774A\|נָּעֻֽפָ]][[H9012\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic LIFE|LIFE]] • [[topic LONGEVITY|LONGEVITY]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.9|<< Psalms 90:9]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.11|Psalms 90:11 >>]]</td></tr></table>
 

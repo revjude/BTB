@@ -1,8 +1,53 @@
+---
+title: Amos 5:10
+type: Verse
+kjv: "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly."
+bsb: "There are those who hate the one who reproves in the gate and despise him who speaks with integrity."
+hebrew: "שָׂנְא֥וּ בַשַּׁ֖עַר מוֹכִ֑יחַ וְדֹבֵ֥ר תָּמִ֖ים יְתָעֵֽבוּ׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8130]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H3198]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H8549H]]"
+- "[[H8581]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:10**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 <small><sub>**BSB:**</sub></small>
 There are those who hate the one who reproves in the gate and despise him who speaks with integrity.
+<small><sub>**Hebrew:**</sub></small>
+[[H8130\|שָׂנְא֥וּ]] [[H9003\|בַ]][[H8179G\|שַּׁ֖עַר]] [[H3198\|מוֹכִ֑יחַ]] [[H9002\|וְ]][[H1696G\|דֹבֵ֥ר]] [[H8549H\|תָּמִ֖ים]] [[H8581\|יְתָעֵֽבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REPROOF|REPROOF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.9|<< Amos 5:9]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.11|Amos 5:11 >>]]</td></tr></table>
 

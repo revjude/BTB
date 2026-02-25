@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prophecy of Azariah
+type: Pericope
 pericope: "[[2Chr.15.1 The Prophecy of Azariah|The Prophecy of Azariah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 15
 book/chapter: "[[2Chr.15|2 Chronicles 15]]"
-genre:
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.15.1]]"
 - "[[2Chr.15.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.15.7]]"
 ---
 
-[[2Chr.15|2 Chronicles 15:1 - 2 Chronicles 15:7]]
+<small>[[2Chr.15|2 Chronicles 15:1-7]]</small>
 *The Prophecy of Azariah*
 
 [[2Chr.15.1|1]] And the Spirit of God came upon Azariah the son of Oded:

@@ -1,10 +1,52 @@
+---
+title: Acts 13:52
+type: Verse
+kjv: "And the disciples were filled with joy, and with the Holy Ghost."
+bsb: "And the disciples were filled with joy and with the Holy Spirit."
+greek: "οἵ τε μαθηταὶ ἐπληροῦντο χαρᾶς καὶ πνεύματος ἁγίου.¶"
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G3101]]"
+- "[[G4137]]"
+- "[[G5479]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 13:52**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the disciples were filled with joy, and with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 And the disciples were filled with joy and with the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-<the> and the disciples were filled with joy and [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.51|<< Acts 13:51]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.1|Acts 14:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἵ]]  [[G5037\|τε]]  [[G3101\|μαθηταὶ]]  [[G4137\|ἐπληροῦντο]]  [[G5479\|χαρᾶς]]  [[G2532\|καὶ]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.51|<< Acts 13:51]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.1|Acts 14:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

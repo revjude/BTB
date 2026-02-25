@@ -1,10 +1,54 @@
+---
+title: Acts 24:6
+type: Verse
+kjv: "Who also hath gone about to profane the temple: whom we took, and would have judged according to our law."
+bsb: "and he even tried to desecrate the temple; so we seized him."
+greek: "ὃς καὶ τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν καὶ κατὰ τὸν ἡμέτερον νόμον ἠθελήσαμεν κρίνειν."
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G3985I]]"
+- "[[G0953]]"
+- "[[G2902]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G3551]]"
+- "[[G2309]]"
+- "[[G2919]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 24:6**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.
 <small><sub>**BSB:**</sub></small>
 and he even tried to desecrate the temple; so we seized him.
-<small><sub>**Literal:**</sub></small>
-who even the temple attempted to profane, whom also we seized and according to <the> our own law we wanted to judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.5|<< Acts 24:5]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.7|Acts 24:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G3985I\|ἐπείρασεν]]  [[G0953\|βεβηλῶσαι,]]  [[G3739\|ὃν]]  [[G2532\|καὶ]]  [[G2902\|ἐκρατήσαμεν]]  [[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G1473\|ἡμέτερον]]  [[G3551\|νόμον]]  [[G2309\|ἠθελήσαμεν]]  [[G2919\|κρίνειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADVOCATE|ADVOCATE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.5|<< Acts 24:5]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.7|Acts 24:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

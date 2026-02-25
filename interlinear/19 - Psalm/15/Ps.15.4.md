@@ -1,8 +1,68 @@
+---
+title: Psalm 15:4
+type: Verse
+kjv: "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not."
+bsb: "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,"
+hebrew: "נִבְזֶ֤ה׀ בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס וְאֶת־ יִרְאֵ֣י יְהוָ֣ה יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א יָמִֽר׃"
+pericope: "[[Ps.15.1 Who May Dwell on Your Holy Mountain？|Who May Dwell on Your Holy Mountain？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 15
+book/chapter: "[[Ps.15|Psalm 15]]"
+chronological_order: 349
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H0959]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H3988A]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H3068G]]"
+- "[[H3513G]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H7489A]]"
+- "[[H3808]]"
+- "[[H4171]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 15:4**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. [He that] sweareth to [his own] hurt, and changeth not.
 <small><sub>**BSB:**</sub></small>
 who despises the vile but honors those who fear the LORD, who does not revise a costly oath,
+<small><sub>**Hebrew:**</sub></small>
+[[H0959\|נִבְזֶ֤ה]][[H9015\|׀]] [[H9003\|בְּֽ]][[H5869A\|עֵ֘ינָ֤י]][[H9023\|ו]] [[H3988A\|נִמְאָ֗ס]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3373\|יִרְאֵ֣י]] [[H3068G\|יְהוָ֣ה]] [[H3513G\|יְכַבֵּ֑ד]] [[H7650\|נִשְׁבַּ֥ע]] [[H9005\|לְ֝]][[H7489A\|הָרַ֗ע]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4171\|יָמִֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic HOLINESS|HOLINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic OATH|OATH]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.3|<< Psalms 15:3]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.5|Psalms 15:5 >>]]</td></tr></table>
 

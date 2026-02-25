@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ministry of the Twelve
+type: Pericope
 pericope: "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.10.5]]"
 - "[[Matt.10.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.10.15]]"
 ---
 
-[[Matt.10|Matthew 10:5 - Matthew 10:15]]
+<small>[[Matt.10|Matthew 10:5-15]]</small>
 *The Ministry of the Twelve*
 
 [[Matt.10.5|5]] These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into \[any\] city of the Samaritans enter ye not:

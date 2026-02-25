@@ -1,10 +1,78 @@
+---
+title: Revelation 5:13
+type: Verse
+kjv: "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever."
+bsb: "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying: “To Him who sits on the throne and to the Lamb be praise and honor and glory and power forever and ever!”"
+greek: "καὶ πᾶν κτίσμα ὃ ἐστιν ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης ἅ ἐστὶν καὶ τὰ ἐν αὐτοῖς πάντα ἤκουσα λέγοντας· τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν."
+pericope: "[[Rev.5.11 The Lamb Exalted|The Lamb Exalted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2938]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G5270]]"
+- "[[G2281]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G3004G]]"
+- "[[G2521]]"
+- "[[G2362]]"
+- "[[G0721]]"
+- "[[G2129]]"
+- "[[G5092]]"
+- "[[G1391]]"
+- "[[G2904]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+- k
+- N(k)O
+- ko
+- O
+---
+
 **Revelation 5:13**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, [be] unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying: “To Him who sits on the throne and to the Lamb be praise and honor and glory and power forever and ever!”
-<small><sub>**Literal:**</sub></small>
-And every creature which is in <the> heaven and upon the earth and under the earth and on the sea that is and <the> in them everything I heard saying: To the [One] sitting on the throne and to the Lamb <the> blessing and <the> honor and <the> glory and <the> might to the ages of the ages Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.12|<< Revelation 5:12]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.14|Revelation 5:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G2938\|κτίσμα]]  [[G3739\|ὃ]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G3739\|ἅ]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G3956\|πάντα]]  [[G0191\|ἤκουσα]]  [[G3004G\|λέγοντας·]]  [[G3588\|τῷ]]  [[G2521\|καθημένῳ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2362\|θρόνῳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G0721\|ἀρνίῳ]]  [[G3588\|ἡ]]  [[G2129\|εὐλογία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5092\|τιμὴ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2904\|κράτος]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων]]  [[G0281\|ἀμήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]] • [[topic SHOUTING|SHOUTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.12|<< Revelation 5:12]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.14|Revelation 5:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

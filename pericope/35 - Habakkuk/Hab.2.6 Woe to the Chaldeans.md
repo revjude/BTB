@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to the Chaldeans
+type: Pericope
 pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Habakkuk
 chapter: 2
 book/chapter: "[[Hab.2|Habakkuk 2]]"
-genre:
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - dialogue
 - theodicy
+verse_count: 15
 verses:
 - "[[Hab.2.6]]"
 - "[[Hab.2.7]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Hab.2.20]]"
 ---
 
-[[Hab.2|Habakkuk 2:6 - Habakkuk 2:20]]
+<small>[[Hab.2|Habakkuk 2:6-20]]</small>
 *Woe to the Chaldeans*
 
 [[Hab.2.6|6]] Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth \[that which is\] not his! how long? and to him that ladeth himself with thick clay!

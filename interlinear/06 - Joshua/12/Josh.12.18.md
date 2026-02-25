@@ -1,8 +1,47 @@
+---
+title: Joshua 12:18
+type: Verse
+kjv: "The king of Aphek, one; the king of Lasharon, one;"
+bsb: "the king of Aphek, one; the king of Lasharon, one;"
+hebrew: "מֶ֤לֶךְ אֲפֵק֙ אֶחָ֔ד מֶ֥לֶךְ לַשָּׁר֖וֹן אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic LASHARON|LASHARON]]"
+strongs:
+- "[[H4428G]]"
+- "[[H0663G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H8289G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:18**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Aphek, one; the king of Lasharon, one;
 <small><sub>**BSB:**</sub></small>
 the king of Aphek, one; the king of Lasharon, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֤לֶךְ]] [[H0663G\|אֲפֵק֙]] [[H0259\|אֶחָ֔ד]] [[H4428G\|מֶ֥לֶךְ]] [[H9005\|לַ]][[H8289G\|שָּׁר֖וֹן]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic LASHARON|LASHARON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.17|<< Joshua 12:17]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.19|Joshua 12:19 >>]]</td></tr></table>
 

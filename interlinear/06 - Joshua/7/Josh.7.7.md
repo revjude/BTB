@@ -1,8 +1,69 @@
+---
+title: Joshua 7:7
+type: Verse
+kjv: "And Joshua said, Alas, O Lord GOD, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!"
+bsb: "“O, Lord GOD,” Joshua said, “why did You ever bring this people across the Jordan to deliver us into the hand of the Amorites to be destroyed? If only we had been content to stay on the other side of the Jordan!"
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֲהָ֣הּ׀ אֲדֹנָ֣י יְהוִ֗ה לָ֠מָה הֵעֲבַ֨רְתָּ הַעֲבִ֜יר אֶת־ הָעָ֤ם הַזֶּה֙ אֶת־ הַיַּרְדֵּ֔ן לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַאֲבִידֵ֑נוּ וְלוּ֙ הוֹאַ֣לְנוּ וַנֵּ֔שֶׁב בְּעֵ֖בֶר הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0162]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5674C]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3383]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0567]]"
+- "[[H0006]]"
+- "[[H9002]]"
+- "[[H3863]]"
+- "[[H2974]]"
+- "[[H3427]]"
+- "[[H5676H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:7**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said, Alas, O Lord GOD, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!
 <small><sub>**BSB:**</sub></small>
 “O, Lord GOD,” Joshua said, “why did You ever bring this people across the Jordan to deliver us into the hand of the Amorites to be destroyed? If only we had been content to stay on the other side of the Jordan!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0162\|אֲהָ֣הּ]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9005\|לָ֠]][[H4100\|מָה]] [[H5674C\|הֵעֲבַ֨רְתָּ]] [[H5674C\|הַעֲבִ֜יר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אֹתָ֛]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9005\|לְ]][[H0006\|הַאֲבִידֵ֑]][[H9035\|נוּ]] [[H9002\|וְ]][[H3863\|לוּ֙]] [[H2974\|הוֹאַ֣לְנוּ]] [[H9001\|וַ]][[H3427\|נֵּ֔שֶׁב]] [[H9003\|בְּ]][[H5676H\|עֵ֖בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.6|<< Joshua 7:6]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.8|Joshua 7:8 >>]]</td></tr></table>
 

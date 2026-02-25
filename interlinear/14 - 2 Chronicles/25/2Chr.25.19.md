@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 25:19
+type: Verse
+kjv: "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?"
+bsb: "You have said, ‘Look, I have defeated Edom,’ and your heart has become proud and boastful. Now stay at home. Why should you stir up trouble so that you fall—you and Judah with you?”"
+hebrew: "אָמַ֗רְתָּ הִנֵּ֤ה הִכִּ֙יתָ֙ אֶת־ אֱד֔וֹם וּנְשָׂאֲךָ֥ לִבְּךָ֖ לְהַכְבִּ֑יד עַתָּה֙ שְׁבָ֣ה בְּבֵיתֶ֔ךָ לָ֤מָּה תִתְגָּרֶה֙ בְּרָעָ֔ה וְנָ֣פַלְתָּ֔ אַתָּ֖ה וִיהוּדָ֥ה עִמָּֽךְ׃"
+pericope: "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0123G]]"
+- "[[H9001]]"
+- "[[H5375S]]"
+- "[[H9031]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3513G]]"
+- "[[H6258]]"
+- "[[H3427]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H4100]]"
+- "[[H1624]]"
+- "[[H7451C]]"
+- "[[H5307J]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:19**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to [thine] hurt, that thou shouldest fall, [even] thou, and Judah with thee?
 <small><sub>**BSB:**</sub></small>
 You have said, ‘Look, I have defeated Edom,’ and your heart has become proud and boastful. Now stay at home. Why should you stir up trouble so that you fall—you and Judah with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֗רְתָּ]] [[H2009\|הִנֵּ֤ה]] [[H5221\|הִכִּ֙יתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0123G\|אֱד֔וֹם]] [[H9001\|וּ]][[H5375S\|נְשָׂאֲ]][[H9031\|ךָ֥]] [[H3820A\|לִבְּ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H3513G\|הַכְבִּ֑יד]] [[H6258\|עַתָּה֙]] [[H3427\|שְׁבָ֣]][[H9012\|ה]] [[H9003\|בְּ]][[H1004B\|בֵיתֶ֔]][[H9021\|ךָ]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H1624\|תִתְגָּרֶה֙]] [[H9003\|בְּ]][[H7451C\|רָעָ֔ה]] [[H9001\|וְ]][[H5307J\|נָ֣פַלְתָּ֔]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וִ]][[H3063G\|יהוּדָ֥ה]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic JEHOASH|JEHOASH]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.18|<< 2 Chronicles 25:18]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.20|2 Chronicles 25:20 >>]]</td></tr></table>
 

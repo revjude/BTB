@@ -1,8 +1,65 @@
+---
+title: Psalm 98:1
+type: Verse
+kjv: "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
+bsb: "A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory."
+hebrew: "שִׁ֤ירוּ לַֽיהוָ֨ה׀ שִׁ֣יר חָ֭דָשׁ כִּֽי־ נִפְלָא֣וֹת עָשָׂ֑ה הוֹשִֽׁיעָה־ לּ֥וֹ יְ֝מִינ֗וֹ וּזְר֥וֹעַ קָדְשֽׁוֹ׃"
+pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H7892A]]"
+- "[[H2319H]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6381]]"
+- "[[H6213A]]"
+- "[[H3467]]"
+- "[[H9033]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 98:1**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
 <small><sub>**BSB:**</sub></small>
 A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִׁ֤ירוּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֨ה]][[H9015\|׀]] [[H7892A\|שִׁ֣יר]] [[H2319H\|חָ֭דָשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6381\|נִפְלָא֣וֹת]] [[H6213A\|עָשָׂ֑ה]] [[H3467\|הוֹשִֽׁיעָה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H3225G\|יְ֝מִינ֗]][[H9023\|וֹ]] [[H9002\|וּ]][[H2220\|זְר֥וֹעַ]] [[H6944G\|קָדְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.0|<< Psalms 98:0]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.2|Psalms 98:2 >>]]</td></tr></table>
 

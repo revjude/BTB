@@ -1,10 +1,72 @@
+---
+title: Matthew 15:22
+type: Verse
+kjv: "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil."
+bsb: "And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.”"
+greek: "καὶ ἰδοὺ γυνὴ Χαναναία ἀπὸ τῶν ὁρίων ἐκείνων ἐξελθοῦσα ἔκραζεν αὐτῷ λέγουσα· ἐλέησόν με, κύριε υἱὸς Δαυίδ. ἡ θυγάτηρ μου κακῶς δαιμονίζεται.¶"
+pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1135G]]"
+- "[[G5478]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1565]]"
+- "[[G1831]]"
+- "[[G2896]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1653]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G2364]]"
+- "[[G2560]]"
+- "[[G1139]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 15:22**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, [thou] Son of David; my daughter is grievously vexed with a devil.
 <small><sub>**BSB:**</sub></small>
 And a Canaanite woman from that region came to Him, crying out, “Lord, Son of David, have mercy on me! My daughter is miserably possessed by a demon.”
-<small><sub>**Literal:**</sub></small>
-And behold a woman Canaanite from the region same having approached was crying out to him saying; do have mercy on me, Lord Son of David. the daughter of mine badly is demonised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.21|<< Matthew 15:21]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.23|Matthew 15:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1135G\|γυνὴ]]  [[G5478\|Χαναναία]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3725\|ὁρίων]]  [[G1565\|ἐκείνων]]  [[G1831\|ἐξελθοῦσα]]  [[G2896\|ἔκραζεν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγουσα·]]  [[G1653\|ἐλέησόν]]  [[G3165\|με,]]  [[G2962G\|κύριε]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ.]]  [[G3588\|ἡ]]  [[G2364\|θυγάτηρ]]  [[G3165\|μου]]  [[G2560\|κακῶς]]  [[G1139\|δαιμονίζεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DAVID|DAVID]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.21|<< Matthew 15:21]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.23|Matthew 15:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Request for Prayer
+type: Pericope
 pericope: "[[2Thess.3.1 Request for Prayer|Request for Prayer]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 2 Thessalonians
 chapter: 3
 book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
-genre:
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 5
 verses:
 - "[[2Thess.3.1]]"
 - "[[2Thess.3.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Thess.3.5]]"
 ---
 
-[[2Thess.3|2 Thessalonians 3:1 - 2 Thessalonians 3:5]]
+<small>[[2Thess.3|2 Thessalonians 3:1-5]]</small>
 *Request for Prayer*
 
 [[2Thess.3.1|1]] Finally, brethren, pray for us, that the word of the Lord may have \[free\] course, and be glorified, even as \[it is\] with you:

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mourning and Burial for Jacob
+type: Pericope
 pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 50
 book/chapter: "[[Gen.50|Genesis 50]]"
-genre:
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.50.1]]"
 - "[[Gen.50.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.50.14]]"
 ---
 
-[[Gen.50|Genesis 50:1 - Genesis 50:14]]
+<small>[[Gen.50|Genesis 50:1-14]]</small>
 *Mourning and Burial for Jacob*
 
 [[Gen.50.1|1]] And Joseph fell upon his father’s face, and wept upon him, and kissed him.

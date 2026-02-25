@@ -1,8 +1,70 @@
+---
+title: Esther 3:1
+type: Verse
+kjv: "After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him."
+bsb: "After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him."
+hebrew: "אַחַ֣ר׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת־ הָמָ֧ן בֶּֽן־ הַמְּדָ֛תָא הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֙שֶׂם֙ אֶת־ כִּסְא֔וֹ מֵעַ֕ל כָּל־ הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic HAMAN|HAMAN]]"
+- "[[topic HAMMEDATHA|HAMMEDATHA]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H1431]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2001]]"
+- "[[H1121A]]"
+- "[[H4099]]"
+- "[[H0091]]"
+- "[[H9001]]"
+- "[[H5375L]]"
+- "[[H9033]]"
+- "[[H7760A]]"
+- "[[H3678I]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:1**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that [were] with him.
 <small><sub>**BSB:**</sub></small>
 After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחַ֣ר]][[H9015\|׀]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H1431\|גִּדַּל֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0325\|אֲחַשְׁוֵר֜וֹשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H2001\|הָמָ֧ן]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H4099\|הַמְּדָ֛תָא]] [[H9009\|הָ]][[H0091\|אֲגָגִ֖י]] [[H9001\|וַֽ]][[H5375L\|יְנַשְּׂאֵ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H7760A\|יָּ֙שֶׂם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3678I\|כִּסְא֔]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֕ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMAN|HAMAN]] • [[topic HAMMEDATHA|HAMMEDATHA]] • [[topic KING|KING]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.23|<< Esther 2:23]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.2|Esther 3:2 >>]]</td></tr></table>
 

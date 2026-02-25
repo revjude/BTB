@@ -1,10 +1,60 @@
+---
+title: Acts 8:6
+type: Verse
+kjv: "And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did."
+bsb: "The crowds all paid close attention to Philip’s message and to the signs they saw him perform."
+greek: "προσεῖχον δὲ οἱ ὄχλοι τοῖς λεγομένοις ὑπὸ τοῦ Φιλίππου ὁμοθυμαδὸν ἐν τῷ ἀκούειν αὐτοὺς καὶ βλέπειν τὰ σημεῖα ἃ ἐποίει·"
+pericope: "[[Acts.8.4 Philip in Samaria|Philip in Samaria]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G4337]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G5259G]]"
+- "[[G5376J]]"
+- "[[G3661]]"
+- "[[G1722]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0991]]"
+- "[[G4592]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 8:6**<big><big>[[Acts.8.4 Philip in Samaria|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did.
 <small><sub>**BSB:**</sub></small>
 The crowds all paid close attention to Philip’s message and to the signs they saw him perform.
-<small><sub>**Literal:**</sub></small>
-Were giving heed now the crowds to the [things] being spoken by <the> Philip with one accord in the [time] to hear them and to see the signs that he was performing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.5|<< Acts 8:5]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.7|Acts 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4337\|προσεῖχον]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G3588\|τοῖς]]  [[G3004G\|λεγομένοις]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G5376J\|Φιλίππου]]  [[G3661\|ὁμοθυμαδὸν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0191\|ἀκούειν]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G0991\|βλέπειν]]  [[G3588\|τὰ]]  [[G4592\|σημεῖα]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.5|<< Acts 8:5]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.7|Acts 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

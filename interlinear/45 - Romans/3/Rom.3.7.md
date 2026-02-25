@@ -1,10 +1,60 @@
+---
+title: Romans 3:7
+type: Verse
+kjv: "For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?"
+bsb: "However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner?"
+greek: "εἰ δὲ ἡ ἀλήθεια τοῦ θεοῦ ἐν τῷ ἐμῷ ψεύσματι ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ κἀγὼ ὡς ἁμαρτωλὸς κρίνομαι;"
+pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G5582]]"
+- "[[G4052]]"
+- "[[G1519]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G0268]]"
+- "[[G2919]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 3:7**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?
 <small><sub>**BSB:**</sub></small>
 However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner?
-<small><sub>**Literal:**</sub></small>
-If however the truth <the> of God in <the> my lie abounded to the glory of Him, why still also I myself as a sinner am judged?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.6|<< Romans 3:6]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.8|Romans 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1473\|ἐμῷ]]  [[G5582\|ψεύσματι]]  [[G4052\|ἐπερίσσευσεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτοῦ,]]  [[G5101\|τί]]  [[G2089\|ἔτι]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G5613\|ὡς]]  [[G0268\|ἁμαρτωλὸς]]  [[G2919\|κρίνομαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.6|<< Romans 3:6]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.8|Romans 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

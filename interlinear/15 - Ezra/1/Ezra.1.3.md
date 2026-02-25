@@ -1,8 +1,75 @@
+---
+title: Ezra 1:3
+type: Verse
+kjv: "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+bsb: "Whoever among you belongs to His people, may his God be with him, and may he go to Jerusalem in Judah and build the house of the LORD, the God of Israel; He is the God who is in Jerusalem."
+hebrew: "מִֽי־ בָכֶ֣ם מִכָּל־ עַמּ֗וֹ יְהִ֤י אֱלֹהָיו֙ עִמּ֔וֹ וְיַ֕עַל לִירוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּיהוּדָ֑ה וְיִ֗בֶן אֶת־ בֵּ֤ית יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל ה֥וּא הָאֱלֹהִ֖ים אֲשֶׁ֥ר בִּירוּשָׁלִָֽם׃"
+pericope: "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H0834A]]"
+- "[[H3063G]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3478]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 1:3**<big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is there] among you of all his people? his God be with him, and let him go up to Jerusalem, which [is] in Judah, and build the house of the LORD God of Israel, (he [is] the God,) which [is] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Whoever among you belongs to His people, may his God be with him, and may he go to Jerusalem in Judah and build the house of the LORD, the God of Israel; He is the God who is in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H9003\|בָ]][[H9036\|כֶ֣ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H1961\|יְהִ֤י]] [[H0430G\|אֱלֹהָי]][[H9023\|ו֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H5927G\|יַ֕עַל]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H3063G\|יהוּדָ֑ה]] [[H9002\|וְ]][[H1129\|יִ֗בֶן]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֤ית]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1931\|ה֥וּא]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.2|<< Ezra 1:2]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.4|Ezra 1:4 >>]]</td></tr></table>
 

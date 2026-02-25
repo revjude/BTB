@@ -1,10 +1,61 @@
+---
+title: Philippians 4:23
+type: Verse
+kjv: "The grace of our Lord Jesus Christ be with you all. Amen."
+bsb: "The grace of the Lord Jesus Christ be with your spirit."
+greek: "Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν. ἀμήν. πρός Φιλιππησίους ἐγράφη ἀπό Ῥώμης δι᾽ Ἐπαφροδίτου.¶"
+pericope: "[[Phil.4.21 Final Greetings|Final Greetings]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G4151G]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G5374]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G4516]]"
+- "[[G1223]]"
+- "[[G1891]]"
+texts:
+- NKO
+- k
+- no
+- N(K)O
+- KO
+---
+
 **Philippians 4:23**<big><big>[[Phil.4.21 Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of the Lord Jesus Christ be with your spirit.
-<small><sub>**Literal:**</sub></small>
-The grace of the Lord of us Jesus Christ [be] with the spirit of you. Amen. to Philippi it was written from Rome through Epaphroditus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.22|<< Philippians 4:22]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.1|Colossians 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G4771\|ὑμῶν.]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G5374\|Φιλιππησίους]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G4516\|Ῥώμης]]  [[G1223\|δι᾽]]  [[G1891\|Ἐπαφροδίτου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.22|<< Philippians 4:22]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.1|Colossians 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

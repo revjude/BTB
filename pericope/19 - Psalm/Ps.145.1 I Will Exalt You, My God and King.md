@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Exalt You, My God and King
+type: Pericope
 pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 145
 book/chapter: "[[Ps.145|Psalm 145]]"
-genre:
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 22
 verses:
 - "[[Ps.145.0]]"
 - "[[Ps.145.1]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Ps.145.21]]"
 ---
 
-[[Ps.145|Psalm 145:1 - Psalm 145:21]]
+<small>[[Ps.145|Psalm 145:1-21]]</small>
 *I Will Exalt You, My God and King*
 
 [[Ps.145.0|0]] David’s \[Psalm\] of praise.

@@ -1,10 +1,57 @@
+---
+title: John 13:11
+type: Verse
+kjv: "For he knew who should betray him; therefore said he, Ye are not all clean."
+bsb: "For He knew who would betray Him. That is why He said, “Not all of you are clean.”"
+greek: "ᾔδει γὰρ τὸν παραδιδόντα αὐτόν· διὰ τοῦτο εἶπεν ὅτι οὐχὶ πάντες καθαροί ἐστε.¶"
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FEET|FEET]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1492I]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G3780]]"
+- "[[G3956]]"
+- "[[G2513]]"
+- "[[G1510]]"
+texts:
+- NKO
+- no
+---
+
 **John 13:11**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he knew who should betray him; therefore said he, Ye are not all clean.
 <small><sub>**BSB:**</sub></small>
 For He knew who would betray Him. That is why He said, “Not all of you are clean.”
-<small><sub>**Literal:**</sub></small>
-He knew for the [one who] was betraying Him; on account of this He said that Not all clean you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.10|<< John 13:10]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.12|John 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492I\|ᾔδει]]  [[G1063\|γὰρ]]  [[G3588\|τὸν]]  [[G3860\|παραδιδόντα]]  [[G0846\|αὐτόν·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2036\|εἶπεν]]  [[G3754G\|ὅτι]]  [[G3780\|οὐχὶ]]  [[G3956\|πάντες]]  [[G2513\|καθαροί]]  [[G1510\|ἐστε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEET|FEET]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.10|<< John 13:10]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.12|John 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

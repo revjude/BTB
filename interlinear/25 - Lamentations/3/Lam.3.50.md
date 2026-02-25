@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:50
+type: Verse
+kjv: "Till the LORD look down, and behold from heaven."
+bsb: "until the LORD looks down from heaven and sees."
+hebrew: "עַד־ יַשְׁקִ֣יף וְיֵ֔רֶא יְהוָ֖ה מִשָּׁמָֽיִם׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8259]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:50**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Till the LORD look down, and behold from heaven.
 <small><sub>**BSB:**</sub></small>
 until the LORD looks down from heaven and sees.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H8259\|יַשְׁקִ֣יף]] [[H9002\|וְ]][[H7200G\|יֵ֔רֶא]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.49|<< Lamentations 3:49]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.51|Lamentations 3:51 >>]]</td></tr></table>
 

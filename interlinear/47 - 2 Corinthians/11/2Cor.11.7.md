@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 11:7
+type: Verse
+kjv: "Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?"
+bsb: "Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge?"
+greek: "ἢ ἁμαρτίαν ἐποίησα ἐμαυτὸν ταπεινῶν ἵνα ὑμεῖς ὑψωθῆτε, ὅτι δωρεὰν τὸ τοῦ θεοῦ εὐαγγέλιον εὐηγγελισάμην ὑμῖν;"
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2228]]"
+- "[[G0266]]"
+- "[[G4160G]]"
+- "[[G1473]]"
+- "[[G5013]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G5312]]"
+- "[[G3754H]]"
+- "[[G1432]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2098]]"
+- "[[G2097]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:7**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?
 <small><sub>**BSB:**</sub></small>
 Was it a sin for me to humble myself in order to exalt you, because I preached the gospel of God to you free of charge?
-<small><sub>**Literal:**</sub></small>
-Or a sin did I commit myself humbling so that you yourselves may be exalted, because freely the <the> of God gospel I evangelised to you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.6|<< 2 Corinthians 11:6]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.8|2 Corinthians 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G0266\|ἁμαρτίαν]]  [[G4160G\|ἐποίησα]]  [[G1473\|ἐμαυτὸν]]  [[G5013\|ταπεινῶν]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G5312\|ὑψωθῆτε,]]  [[G3754H\|ὅτι]]  [[G1432\|δωρεὰν]]  [[G3588\|τὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2098\|εὐαγγέλιον]]  [[G2097\|εὐηγγελισάμην]]  [[G4771\|ὑμῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.6|<< 2 Corinthians 11:6]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.8|2 Corinthians 11:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

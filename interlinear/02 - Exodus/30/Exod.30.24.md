@@ -1,8 +1,60 @@
+---
+title: Exodus 30:24
+type: Verse
+kjv: "And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:"
+bsb: "500 shekels of cassia—all according to the sanctuary shekel—and a hin of olive oil."
+hebrew: "וְקִדָּ֕ה חֲמֵ֥שׁ מֵא֖וֹת בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ וְשֶׁ֥מֶן זַ֖יִת הִֽין׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING OIL|ANOINTING OIL]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6916]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H8081]]"
+- "[[H2132H]]"
+- "[[H1969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:24**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of cassia five hundred [shekels], after the shekel of the sanctuary, and of oil olive an hin:
 <small><sub>**BSB:**</sub></small>
 500 shekels of cassia—all according to the sanctuary shekel—and a hin of olive oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6916\|קִדָּ֕ה]] [[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9003\|בְּ]][[H8255\|שֶׁ֣קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9002\|וְ]][[H8081\|שֶׁ֥מֶן]] [[H2132H\|זַ֖יִת]] [[H1969\|הִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING OIL|ANOINTING OIL]] • [[topic MEASURE|MEASURE]] • [[topic OIL|OIL]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.23|<< Exodus 30:23]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.25|Exodus 30:25 >>]]</td></tr></table>
 

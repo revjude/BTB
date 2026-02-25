@@ -1,8 +1,64 @@
+---
+title: Nehemiah 7:65
+type: Verse
+kjv: "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim."
+bsb: "The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim."
+hebrew: "וַיֹּ֤אמֶר הַתִּרְשָׁ֙תָא֙ לָהֶ֔ם אֲשֶׁ֥ר לֹא־ יֹאכְל֖וּ מִקֹּ֣דֶשׁ הַקֳּדָשִׁ֑ים עַ֛ד עֲמֹ֥ד הַכֹּהֵ֖ן לְאוּרִ֥ים וְתוּמִּֽים׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TIRSHATHA|TIRSHATHA]]"
+- "[[topic URIM AND THUMMIM|URIM AND THUMMIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H8660]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H6944G]]"
+- "[[H5704]]"
+- "[[H5975H]]"
+- "[[H3548]]"
+- "[[H0224]]"
+- "[[H9002]]"
+- "[[H8550]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:65**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood [up] a priest with Urim and Thummim.
 <small><sub>**BSB:**</sub></small>
 The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H8660\|תִּרְשָׁ֙תָא֙]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹאכְל֖וּ]] [[H9006\|מִ]][[H6944G\|קֹּ֣דֶשׁ]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֑ים]] [[H5704\|עַ֛ד]] [[H5975H\|עֲמֹ֥ד]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לְ]][[H0224\|אוּרִ֥ים]] [[H9002\|וְ]][[H8550\|תוּמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TIRSHATHA|TIRSHATHA]] • [[topic URIM AND THUMMIM|URIM AND THUMMIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 

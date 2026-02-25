@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 32:48
+type: Verse
+kjv: "And the LORD spake unto Moses that selfsame day, saying,"
+bsb: "On that same day the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֤ר יְהוָה֙ אֶל־ מֹשֶׁ֔ה בְּעֶ֛צֶם הַיּ֥וֹם הַזֶּ֖ה לֵאמֹֽר׃"
+pericope: "[[Deut.32.48 Moses’ Death Foretold|Moses’ Death Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:48**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses that selfsame day, saying,
 <small><sub>**BSB:**</sub></small>
 On that same day the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9003\|בְּ]][[H6106H\|עֶ֛צֶם]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.47|<< Deuteronomy 32:47]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.49|Deuteronomy 32:49 >>]]</td></tr></table>
 

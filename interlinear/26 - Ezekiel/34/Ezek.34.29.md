@@ -1,8 +1,67 @@
+---
+title: Ezekiel 34:29
+type: Verse
+kjv: "And I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more."
+bsb: "And I will raise up for them a garden of renown, and they will no longer be victims of famine in the land or bear the scorn of the nations."
+hebrew: "וַהֲקִמֹתִ֥י לָהֶ֛ם מַטָּ֖ע לְשֵׁ֑ם וְלֹֽא־ יִהְי֨וּ ע֜וֹד אֲסֻפֵ֤י רָעָב֙ בָּאָ֔רֶץ וְלֹֽא־ יִשְׂא֥וּ ע֖וֹד כְּלִמַּ֥ת הַגּוֹיִֽם׃"
+pericope: "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4302]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H0622]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5375H]]"
+- "[[H3639]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:29**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more.
 <small><sub>**BSB:**</sub></small>
 And I will raise up for them a garden of renown, and they will no longer be victims of famine in the land or bear the scorn of the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֥י]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H4302\|מַטָּ֖ע]] [[H9005\|לְ]][[H8034\|שֵׁ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְי֨וּ]] [[H5750\|ע֜וֹד]] [[H0622\|אֲסֻפֵ֤י]] [[H7458\|רָעָב֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5375H\|יִשְׂא֥וּ]] [[H5750\|ע֖וֹד]] [[H3639\|כְּלִמַּ֥ת]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.28|<< Ezekiel 34:28]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.30|Ezekiel 34:30 >>]]</td></tr></table>
 

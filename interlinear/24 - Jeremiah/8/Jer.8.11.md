@@ -1,8 +1,65 @@
+---
+title: Jeremiah 8:11
+type: Verse
+kjv: "For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace."
+bsb: "They dress the wound of the daughter of My people with very little care, saying, ‘Peace, peace,’ when there is no peace at all."
+hebrew: "וַיְרַפּ֞וּ אֶת־ שֶׁ֤בֶר בַּת־ עַמִּי֙ עַל־ נְקַלָּ֔ה לֵאמֹ֖ר שָׁל֣וֹם׀ שָׁל֑וֹם וְאֵ֖ין שָׁלֽוֹם׃"
+pericope: "[[Jer.8.1 Judah’s Sin and Punishment|Judah’s Sin and Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7495]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7667]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H7043]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7965G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 8:11**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when [there is] no peace.
 <small><sub>**BSB:**</sub></small>
 They dress the wound of the daughter of My people with very little care, saying, ‘Peace, peace,’ when there is no peace at all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7495\|יְרַפּ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7667\|שֶׁ֤בֶר]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7043\|נְקַלָּ֔ה]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H7965G\|שָׁל֣וֹם]][[H9015\|׀]] [[H7965G\|שָׁל֑וֹם]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.10|<< Jeremiah 8:10]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.12|Jeremiah 8:12 >>]]</td></tr></table>
 

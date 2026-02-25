@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 30:19
+type: Verse
+kjv: "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:"
+bsb: "I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,"
+hebrew: "הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֙וֶת֙ נָתַ֣תִּי לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ׃"
+pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHOICE|CHOICE]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H2416E]]"
+- "[[H4194]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H1293]]"
+- "[[H7045]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H0859A]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:19**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I call heaven and earth to record this day against you, [that] I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:
 <small><sub>**BSB:**</sub></small>
 I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,
+<small><sub>**Hebrew:**</sub></small>
+[[H5749B\|הַעִידֹ֨תִי]] [[H9003\|בָ]][[H9036\|כֶ֣ם]] [[H9009\|הַ]][[H3117G\|יּוֹם֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָרֶץ֒]] [[H9009\|הַ]][[H2416E\|חַיִּ֤ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4194\|מָּ֙וֶת֙]] [[H5414H\|נָתַ֣תִּי]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9009\|הַ]][[H1293\|בְּרָכָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H7045\|קְּלָלָ֑ה]] [[H9001\|וּ]][[H0977\|בָֽחַרְתָּ֙]] [[H9003\|בַּֽ]][[H2416E\|חַיִּ֔ים]] [[H4616\|לְמַ֥עַן]] [[H2421\|תִּחְיֶ֖ה]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וְ]][[H2233H\|זַרְעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHOICE|CHOICE]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DECISION|DECISION]] • [[topic DUTY|DUTY]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.18|<< Deuteronomy 30:18]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.20|Deuteronomy 30:20 >>]]</td></tr></table>
 

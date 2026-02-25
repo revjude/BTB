@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Living to Please God
+type: Pericope
 pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 4
 book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
-genre:
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 12
 verses:
 - "[[1Thess.4.1]]"
 - "[[1Thess.4.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Thess.4.12]]"
 ---
 
-[[1Thess.4|1 Thessalonians 4:1 - 1 Thessalonians 4:12]]
+<small>[[1Thess.4|1 Thessalonians 4:1-12]]</small>
 *Living to Please God*
 
 [[1Thess.4.1|1]] Furthermore then we beseech you, brethren, and exhort \[you\] by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, \[so\] ye would abound more and more.

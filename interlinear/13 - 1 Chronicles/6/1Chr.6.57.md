@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 6:57
+type: Verse
+kjv: "And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,"
+bsb: "So the descendants of Aaron were given Hebron (a city of refuge), Libnah, Jattir, Eshtemoa,"
+hebrew: "וְלִבְנֵ֣י אַהֲרֹ֗ן נָתְנוּ֙ אֶת־ עָרֵ֣י הַמִּקְלָ֔ט אֶת־ חֶבְר֥וֹן וְאֶת־ לִבְנָ֖ה וְאֶת־ מִגְרָשֶׁ֑יהָ וְאֶת־ יַתִּ֥ר וְאֶֽת־ אֶשְׁתְּמֹ֖עַ וְאֶת־ מִגְרָשֶֽׁיהָ׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ESHTEMOA|ESHTEMOA]]"
+- "[[topic JATTIR|JATTIR]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H4733]]"
+- "[[H2275A]]"
+- "[[H3841H]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H3492]]"
+- "[[H0851]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:57**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the sons of Aaron they gave the cities of Judah, [namely], Hebron, [the city] of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,
 <small><sub>**BSB:**</sub></small>
 So the descendants of Aaron were given Hebron (a city of refuge), Libnah, Jattir, Eshtemoa,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H0175\|אַהֲרֹ֗ן]] [[H5414G\|נָתְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H4733\|מִּקְלָ֔ט]] [[H0853\|אֶת]][[H9014\|־]] [[H2275A\|חֶבְר֥וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3841H\|לִבְנָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3492\|יַתִּ֥ר]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0851\|אֶשְׁתְּמֹ֖עַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶֽׁי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESHTEMOA|ESHTEMOA]] • [[topic JATTIR|JATTIR]] • [[topic LEVITES|LEVITES]] • [[topic LIBNAH|LIBNAH]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.56|<< 1 Chronicles 6:56]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.58|1 Chronicles 6:58 >>]]</td></tr></table>
 

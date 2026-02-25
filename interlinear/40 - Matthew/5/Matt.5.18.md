@@ -1,10 +1,69 @@
+---
+title: Matthew 5:18
+type: Verse
+kjv: "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+bsb: "For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished."
+jesus_said: "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+greek: "ἀμὴν γὰρ λέγω ὑμῖν· ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ, ἰῶτα ἓν ἢ μία κεραία οὐ μὴ παρέλθῃ ἀπὸ τοῦ νόμου ἕως ἂν πάντα γένηται.¶"
+pericope: "[[Matt.5.17 The Fulfillment of the Law|The Fulfillment of the Law]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JOT|JOT]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G0281]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G3928]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G2503]]"
+- "[[G1520]]"
+- "[[G2228]]"
+- "[[G2762]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0575]]"
+- "[[G3551]]"
+- "[[G3956]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Matthew 5:18**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
 <small><sub>**BSB:**</sub></small>
 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.
-<small><sub>**Literal:**</sub></small>
-Amen for I say to you; until when may pass away the heaven and the earth, iota one or one stroke of a letter certainly not may pass away from the law until when everything may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.17|<< Matthew 5:17]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.19|Matthew 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G3928\|παρέλθῃ]]  [[G3588\|ὁ]]  [[G3772\|οὐρανὸς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1093G\|γῆ,]]  [[G2503\|ἰῶτα]]  [[G1520\|ἓν]]  [[G2228\|ἢ]]  [[G1520\|μία]]  [[G2762\|κεραία]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3928\|παρέλθῃ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G3956\|πάντα]]  [[G1096\|γένηται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic HEAVEN|HEAVEN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JOT|JOT]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.17|<< Matthew 5:17]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.19|Matthew 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

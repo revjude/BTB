@@ -1,10 +1,63 @@
+---
+title: Luke 24:12
+type: Verse
+kjv: "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+bsb: "Peter, however, got up and ran to the tomb. And after bending down and seeing only the linen cloths, he went away, wondering to himself what had happened."
+greek: "Ὁ δὲ Πέτρος ἀναστὰς ἔδραμεν ἐπὶ τὸ μνημεῖον, καὶ παρακύψας βλέπει τὰ ὀθόνια κείμενα μόνα καὶ ἀπῆλθεν πρὸς ἑαυτὸν θαυμάζων τὸ γεγονός.¶"
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G0450]]"
+- "[[G5143]]"
+- "[[G1909]]"
+- "[[G3419]]"
+- "[[G2532]]"
+- "[[G3879]]"
+- "[[G0991]]"
+- "[[G3608]]"
+- "[[G2749]]"
+- "[[G3441]]"
+- "[[G0565]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G2296]]"
+- "[[G1096]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Luke 24:12**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
 <small><sub>**BSB:**</sub></small>
 Peter, however, got up and ran to the tomb. And after bending down and seeing only the linen cloths, he went away, wondering to himself what had happened.
-<small><sub>**Literal:**</sub></small>
-<the> But Peter having risen up he ran to the tomb, and having stooped down he sees the linen strips lying alone and he went away in himself wondering at that having come to pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.11|<< Luke 24:11]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.13|Luke 24:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G0450\|ἀναστὰς]]  [[G5143\|ἔδραμεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον,]]  [[G2532\|καὶ]]  [[G3879\|παρακύψας]]  [[G0991\|βλέπει]]  [[G3588\|τὰ]]  [[G3608\|ὀθόνια]]  [[G2749\|κείμενα]]  [[G3441\|μόνα]]  [[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτὸν]]  [[G2296\|θαυμάζων]]  [[G3588\|τὸ]]  [[G1096\|γεγονός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.11|<< Luke 24:11]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.13|Luke 24:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

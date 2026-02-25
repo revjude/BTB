@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Judgment on the Earth
+type: Pericope
 pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 24
 book/chapter: "[[Isa.24|Isaiah 24]]"
-genre:
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 23
 verses:
 - "[[Isa.24.1]]"
 - "[[Isa.24.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Isa.24.23]]"
 ---
 
-[[Isa.24|Isaiah 24:1 - Isaiah 24:23]]
+<small>[[Isa.24|Isaiah 24:1-23]]</small>
 *God’s Judgment on the Earth*
 
 [[Isa.24.1|1]] Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.

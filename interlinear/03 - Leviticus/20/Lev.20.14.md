@@ -1,8 +1,70 @@
+---
+title: Leviticus 20:14
+type: Verse
+kjv: "And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you."
+bsb: "If a man marries both a woman and her mother, it is depraved. Both he and they must be burned in the fire, so that there will be no depravity among you."
+hebrew: "וְאִ֗ישׁ אֲשֶׁ֨ר יִקַּ֧ח אֶת־ אִשָּׁ֛ה וְאֶת־ אִמָּ֖הּ זִמָּ֣ה הִ֑וא בָּאֵ֞שׁ יִשְׂרְפ֤וּ אֹתוֹ֙ וְאֶתְהֶ֔ן וְלֹא־ תִהְיֶ֥ה זִמָּ֖ה בְּתוֹכְכֶֽם׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MOTHER-IN-LAW|MOTHER-IN-LAW]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H3947I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H0517]]"
+- "[[H9024]]"
+- "[[H2154]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9033]]"
+- "[[H9039]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:14**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man take a wife and her mother, it [is] wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.
 <small><sub>**BSB:**</sub></small>
 If a man marries both a woman and her mother, it is depraved. Both he and they must be burned in the fire, so that there will be no depravity among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3947I\|יִקַּ֧ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0802G\|אִשָּׁ֛ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמָּ֖]][[H9024\|הּ]] [[H2154\|זִמָּ֣ה]] [[H1931\|הִ֑וא]] [[H9003\|בָּ]][[H0784\|אֵ֞שׁ]] [[H8313\|יִשְׂרְפ֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶתְ]][[H9039\|הֶ֔ן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|תִהְיֶ֥ה]] [[H2154\|זִמָּ֖ה]] [[H9003\|בְּ]][[H8432\|תוֹכְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MOTHER-IN-LAW|MOTHER-IN-LAW]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.13|<< Leviticus 20:13]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.15|Leviticus 20:15 >>]]</td></tr></table>
 

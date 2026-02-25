@@ -1,8 +1,67 @@
+---
+title: Isaiah 17:13
+type: Verse
+kjv: "The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind."
+bsb: "The nations rage like the rush of many waters. He rebukes them, and they flee far away, driven before the wind like chaff on the hills, like tumbleweeds before a gale."
+hebrew: "לְאֻמִּ֗ים כִּשְׁא֞וֹן מַ֤יִם רַבִּים֙ יִשָּׁא֔וּן וְגָ֥עַר בּ֖וֹ וְנָ֣ס מִמֶּרְחָ֑ק וְרֻדַּ֗ף כְּמֹ֤ץ הָרִים֙ לִפְנֵי־ ר֔וּחַ וּכְגַלְגַּ֖ל לִפְנֵ֥י סוּפָֽה׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3816]]"
+- "[[H9004]]"
+- "[[H7588]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H7582]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H1605]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H4801]]"
+- "[[H7291]]"
+- "[[H4671]]"
+- "[[H2022G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H1534]]"
+- "[[H5492A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:13**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nations shall rush like the rushing of many waters: but [God] shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
 <small><sub>**BSB:**</sub></small>
 The nations rage like the rush of many waters. He rebukes them, and they flee far away, driven before the wind like chaff on the hills, like tumbleweeds before a gale.
+<small><sub>**Hebrew:**</sub></small>
+[[H3816\|לְאֻמִּ֗ים]] [[H9004\|כִּ]][[H7588\|שְׁא֞וֹן]] [[H4325G\|מַ֤יִם]] [[H7227A\|רַבִּים֙]] [[H7582\|יִשָּׁא֔וּ]][[H9013\|ן]] [[H9001\|וְ]][[H1605\|גָ֥עַר]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9001\|וְ]][[H5127\|נָ֣ס]] [[H9006\|מִ]][[H4801\|מֶּרְחָ֑ק]] [[H9001\|וְ]][[H7291\|רֻדַּ֗ף]] [[H9004\|כְּ]][[H4671\|מֹ֤ץ]] [[H2022G\|הָרִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H7307H\|ר֔וּחַ]] [[H9002\|וּ]][[H9004\|כְ]][[H1534\|גַלְגַּ֖ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H5492A\|סוּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAFF|CHAFF]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.12|<< Isaiah 17:12]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.14|Isaiah 17:14 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temptations and Trespasses
+type: Pericope
 pericope: "[[Luke.17.1 Temptations and Trespasses|Temptations and Trespasses]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 17
 book/chapter: "[[Luke.17|Luke 17]]"
-genre:
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.17.1]]"
 - "[[Luke.17.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.17.4]]"
 ---
 
-[[Luke.17|Luke 17:1 - Luke 17:4]]
+<small>[[Luke.17|Luke 17:1-4]]</small>
 *Temptations and Trespasses*
 
 [[Luke.17.1|1]] Then said he unto the disciples, It is impossible but that offences will come: but woe \[unto him\], through whom they come!

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Put On the New Self
+type: Pericope
 pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 3
 book/chapter: "[[Col.3|Colossians 3]]"
-genre:
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 17
 verses:
 - "[[Col.3.1]]"
 - "[[Col.3.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Col.3.17]]"
 ---
 
-[[Col.3|Colossians 3:1 - Colossians 3:17]]
+<small>[[Col.3|Colossians 3:1-17]]</small>
 *Put On the New Self*
 
 [[Col.3.1|1]] If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.

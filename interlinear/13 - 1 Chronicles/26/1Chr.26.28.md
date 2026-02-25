@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 26:28
+type: Verse
+kjv: "And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren."
+bsb: "Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah, along with everything else that was dedicated, was under the care of Shelomith and his brothers."
+hebrew: "וְכֹ֨ל הַֽהִקְדִּ֜ישׁ שְׁמוּאֵ֤ל הָרֹאֶה֙ וְשָׁא֣וּל בֶּן־ קִ֔ישׁ וְאַבְנֵ֣ר בֶּן־ נֵ֔ר וְיוֹאָ֖ב בֶּן־ צְרוּיָ֑ה כֹּ֚ל הַמַּקְדִּ֔ישׁ עַ֥ל יַד־ שְׁלֹמִ֖ית וְאֶחָֽיו׃ פ"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SHELOMITH|SHELOMITH]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H6942H]]"
+- "[[H8050G]]"
+- "[[H7203A]]"
+- "[[H7586G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7027G]]"
+- "[[H0074]]"
+- "[[H5369G]]"
+- "[[H3097G]]"
+- "[[H6870]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H8019J]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:28**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; [and] whosoever had dedicated [any thing, it was] under the hand of Shelomith, and of his brethren.
 <small><sub>**BSB:**</sub></small>
 Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah, along with everything else that was dedicated, was under the care of Shelomith and his brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֨ל]] [[H9009\|הַֽ]][[H6942H\|הִקְדִּ֜ישׁ]] [[H8050G\|שְׁמוּאֵ֤ל]] [[H9009\|הָ]][[H7203A\|רֹאֶה֙]] [[H9002\|וְ]][[H7586G\|שָׁא֣וּל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7027G\|קִ֔ישׁ]] [[H9002\|וְ]][[H0074\|אַבְנֵ֣ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֔ר]] [[H9002\|וְ]][[H3097G\|יוֹאָ֖ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֑ה]] [[H3605\|כֹּ֚ל]] [[H9009\|הַ]][[H6942H\|מַּקְדִּ֔ישׁ]] [[H5921A\|עַ֥ל]] [[H3027H\|יַד]][[H9014\|־]] [[H8019J\|שְׁלֹמִ֖ית]] [[H9002\|וְ]][[H0251H\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic JOAB|JOAB]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SHELOMITH|SHELOMITH]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.27|<< 1 Chronicles 26:27]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.29|1 Chronicles 26:29 >>]]</td></tr></table>
 
@@ -26,7 +86,7 @@ Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner s
 | [was] on  |**<big>&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shelomith  |**<big>&#8207;[[H8019J\|שְׁלֹמִ֖ית]]&#8207; </big>**| she.lo.Mit<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.27|<< 1 Chronicles 26:27]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.29|1 Chronicles 26:29 >>]]</td></tr></table>
 
 

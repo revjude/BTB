@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Reigns!
+type: Pericope
 pericope: "[[Ps.93.1 The LORD Reigns!|The LORD Reigns!]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 93
 book/chapter: "[[Ps.93|Psalm 93]]"
-genre:
+chronological_order: 520
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 5
 verses:
 - "[[Ps.93.1]]"
 - "[[Ps.93.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ps.93.5]]"
 ---
 
-[[Ps.93|Psalm 93:1 - Psalm 93:5]]
+<small>[[Ps.93|Psalm 93:1-5]]</small>
 *The LORD Reigns!*
 
 [[Ps.93.1|1]] The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, \[wherewith\] he hath girded himself: the world also is stablished, that it cannot be moved.

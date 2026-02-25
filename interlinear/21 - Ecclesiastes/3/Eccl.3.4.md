@@ -1,8 +1,49 @@
+---
+title: Ecclesiastes 3:4
+type: Verse
+kjv: "A time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+bsb: "a time to weep and a time to laugh, a time to mourn and a time to dance,"
+hebrew: "עֵ֤ת לִבְכּוֹת֙ וְעֵ֣ת לִשְׂח֔וֹק עֵ֥ת סְפ֖וֹד וְעֵ֥ת רְקֽוֹד׃"
+pericope: "[[Eccl.3.1 To Everything There Is a Season|To Everything There Is a Season]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic LAUGHTER|LAUGHTER]]"
+strongs:
+- "[[H6256]]"
+- "[[H9005]]"
+- "[[H1058]]"
+- "[[H9002]]"
+- "[[H7832]]"
+- "[[H5594]]"
+- "[[H7540]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:4**<big><big>[[Eccl.3.1 To Everything There Is a Season|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A time to weep, and a time to laugh; a time to mourn, and a time to dance;
 <small><sub>**BSB:**</sub></small>
 a time to weep and a time to laugh, a time to mourn and a time to dance,
+<small><sub>**Hebrew:**</sub></small>
+[[H6256\|עֵ֤ת]] [[H9005\|לִ]][[H1058\|בְכּוֹת֙]] [[H9002\|וְ]][[H6256\|עֵ֣ת]] [[H9005\|לִ]][[H7832\|שְׂח֔וֹק]] [[H6256\|עֵ֥ת]] [[H5594\|סְפ֖וֹד]] [[H9002\|וְ]][[H6256\|עֵ֥ת]] [[H7540\|רְקֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic LAUGHTER|LAUGHTER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.3|<< Ecclesiastes 3:3]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.5|Ecclesiastes 3:5 >>]]</td></tr></table>
 

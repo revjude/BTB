@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 32:51
+type: Verse
+kjv: "Because ye trespassed against me among the children of Israel at the waters of MeribahKadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel."
+bsb: "For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence."
+hebrew: "עַל֩ אֲשֶׁ֨ר מְעַלְתֶּ֜ם בִּ֗י בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּמֵֽי־ מְרִיבַ֥ת קָדֵ֖שׁ מִדְבַּר־ צִ֑ן עַ֣ל אֲשֶׁ֤ר לֹֽא־ קִדַּשְׁתֶּם֙ אוֹתִ֔י בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.32.48 Moses’ Death Foretold|Moses’ Death Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIN|ZIN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4325G]]"
+- "[[H9014]]"
+- "[[H4809H]]"
+- "[[H6946H]]"
+- "[[H4057B]]"
+- "[[H6790]]"
+- "[[H3808]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:51**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye trespassed against me among the children of Israel at the waters of MeribahKadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H4603\|מְעַלְתֶּ֜ם]] [[H9003\|בִּ֗]][[H9030\|י]] [[H9003\|בְּ]][[H8432\|תוֹךְ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H4325G\|מֵֽי]][[H9014\|־]] [[H4809H\|מְרִיבַ֥ת]] [[H6946H\|קָדֵ֖שׁ]] [[H4057B\|מִדְבַּר]][[H9014\|־]] [[H6790\|צִ֑ן]] [[H5921A\|עַ֣ל]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6942G\|קִדַּשְׁתֶּם֙]] [[H0853\|אוֹתִ֔]][[H9030\|י]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MOSES|MOSES]] • [[topic ZIN|ZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.50|<< Deuteronomy 32:50]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.52|Deuteronomy 32:52 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Revelation 6:1
+type: Verse
+kjv: "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+bsb: "Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!”"
+greek: "Καὶ εἶδον ὅτε ἤνοιξεν τὸ ἀρνίον μίαν ἐκ τῶν ἑπτὰ σφραγίδων καὶ ἤκουσα ἑνὸς ἐκ τῶν τεσσάρων ζῴων λέγοντος ὡς φωνὴ βροντῆς· ἔρχου καὶ βλέπε.¶"
+pericope: "[[Rev.6.1 The First Seal：The White Horse|The First Seal：The White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G0721]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G2033]]"
+- "[[G4973]]"
+- "[[G0191]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G5613]]"
+- "[[G5456G]]"
+- "[[G1027]]"
+- "[[G2064]]"
+- "[[G0991]]"
+texts:
+- NKO
+- NK(o)
+- NO
+- N(k)O
+- K
+- K(o)
+---
+
 **Revelation 6:1**<big><big>[[Rev.6.1 The First Seal：The White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 <small><sub>**BSB:**</sub></small>
 Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!”
-<small><sub>**Literal:**</sub></small>
-And I watched when opened the Lamb one of the seven seals and I heard one of the four living creatures saying like a voice of thunder; Come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.14|<< Revelation 5:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.2|Revelation 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον]]  [[G1520\|μίαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G4973\|σφραγίδων]]  [[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G1520\|ἑνὸς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G3004G\|λέγοντος]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴ]]  [[G1027\|βροντῆς·]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G0991\|βλέπε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.14|<< Revelation 5:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.2|Revelation 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Matthew 12:2
+type: Verse
+kjv: "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day."
+bsb: "When the Pharisees saw this, they said to Him, “Look, Your disciples are doing what is unlawful on the Sabbath.”"
+greek: "οἱ δὲ Φαρισαῖοι ἰδόντες εἶπαν αὐτῷ· ἰδοὺ οἱ μαθηταί σου ποιοῦσιν ὃ οὐκ ἔξεστιν ποιεῖν ἐν σαββάτῳ.¶"
+pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TECHNICALITIES|TECHNICALITIES]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5330]]"
+- "[[G1492H]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G1722]]"
+- "[[G4521]]"
+texts:
+- NKO
+---
+
 **Matthew 12:2**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Pharisees saw [it], they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.
 <small><sub>**BSB:**</sub></small>
 When the Pharisees saw this, they said to Him, “Look, Your disciples are doing what is unlawful on the Sabbath.”
-<small><sub>**Literal:**</sub></small>
-<the> And the Pharisees having seen they said to Him; Behold the disciples of You are doing what not it is lawful to do on Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.1|<< Matthew 12:1]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.3|Matthew 12:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G5330\|Φαρισαῖοι]]  [[G1492H\|ἰδόντες]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί]]  [[G4771\|σου]]  [[G4160G\|ποιοῦσιν]]  [[G3739\|ὃ]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G4160G\|ποιεῖν]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SABBATH|SABBATH]] • [[topic TECHNICALITIES|TECHNICALITIES]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.1|<< Matthew 12:1]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.3|Matthew 12:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

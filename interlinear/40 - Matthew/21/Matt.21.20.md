@@ -1,10 +1,55 @@
+---
+title: Matthew 21:20
+type: Verse
+kjv: "And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!"
+bsb: "When the disciples saw this, they marveled and asked, “How did the fig tree wither so quickly?”"
+greek: "καὶ ἰδόντες οἱ μαθηταὶ ἐθαύμασαν λέγοντες· πῶς παραχρῆμα ἐξηράνθη ἡ συκῆ;¶"
+pericope: "[[Matt.21.18 The Barren Fig Tree|The Barren Fig Tree]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2296]]"
+- "[[G3004G]]"
+- "[[G4459]]"
+- "[[G3916]]"
+- "[[G3583]]"
+- "[[G4808]]"
+texts:
+- NKO
+---
+
 **Matthew 21:20**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the disciples saw [it], they marvelled, saying, How soon is the fig tree withered away!
 <small><sub>**BSB:**</sub></small>
 When the disciples saw this, they marveled and asked, “How did the fig tree wither so quickly?”
-<small><sub>**Literal:**</sub></small>
-And having seen [it] the disciples marveled saying; How so quickly withered the fig tree?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.19|<< Matthew 21:19]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.21|Matthew 21:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2296\|ἐθαύμασαν]]  [[G3004G\|λέγοντες·]]  [[G4459\|πῶς]]  [[G3916\|παραχρῆμα]]  [[G3583\|ἐξηράνθη]]  [[G3588\|ἡ]]  [[G4808\|συκῆ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROOF|REPROOF]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.19|<< Matthew 21:19]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.21|Matthew 21:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

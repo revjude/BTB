@@ -1,6 +1,51 @@
+---
+title: LXX Psalm 147:7
+type: Verse
+lxx: "Take the lead to the lord in acknowledgment! Strum to our God with a harp!"
+greek: "εξάρξατε τω κυρίω εν εξομολογήσει ψάλατε τω θεώ ημών εν κιθάρα"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G7304]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G7347]]"
+- "[[G5567]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2788]]"
+---
+
 **LXX Psalm 147:7** 
 <small><sub>**LXX:**</sub></small>
 Take the lead to the <span class="smallcaps">lord</span> in acknowledgment! Strum \[to\] our God with a harp! 
+<small><sub>**Greek:**</sub></small>
+[[G7304\|εξάρξατε]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G1722\|εν]] [[G7347\|εξομολογήσει]] [[G5567\|ψάλατε]] [[G3588\|τω]] [[G2316\|θεώ]] [[G1473\|ημών]] [[G1722\|εν]] [[G2788\|κιθάρα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.147.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.6|<< Psalm 147:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.8|Psalm 147:8 >>]]</td></tr></table>
 
@@ -16,6 +61,6 @@ Take the lead to the <span class="smallcaps">lord</span> in acknowledgment! Stru
 | our God | **<big>[[G2316\|θεώ]]</big>** **<big>[[G1473\|ημών]]</big>** |
 | with | **<big>[[G1722\|εν]]</big>** |
 | a harp! | **<big>[[G2788\|κιθάρα]]</big>** |
-[[Ps.147.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.6|<< Psalm 147:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.8|Psalm 147:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.6|<< Psalm 147:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.8|Psalm 147:8 >>]]</td></tr></table>
 
 

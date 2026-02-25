@@ -1,8 +1,58 @@
+---
+title: Numbers 5:10
+type: Verse
+kjv: "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his."
+bsb: "Each man’s sacred gifts are his own, but whatever he gives to the priest will belong to the priest.”"
+hebrew: "וְאִ֥ישׁ אֶת־ קֳדָשָׁ֖יו ל֣וֹ יִהְי֑וּ אִ֛ישׁ אֲשֶׁר־ יִתֵּ֥ן לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃ פ"
+pericope: "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3548]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 5:10**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
 <small><sub>**BSB:**</sub></small>
 Each man’s sacred gifts are his own, but whatever he gives to the priest will belong to the priest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קֳדָשָׁ֖י]][[H9023\|ו]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1961\|יִהְי֑וּ]] [[H0376I\|אִ֛ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|יִתֵּ֥ן]] [[H9005\|לַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.9|<< Numbers 5:9]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.11|Numbers 5:11 >>]]</td></tr></table>
 
@@ -18,7 +68,7 @@ Each man’s sacred gifts are his own, but whatever he gives to the priest will 
 | he will give  |**<big>&#8207;[[H5414G\|יִתֵּ֥ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the priest  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will belong  |**<big>&#8207;[[H1961\|יִהְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will belong  |**<big>&#8207;[[H1961\|יִהְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.9|<< Numbers 5:9]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.11|Numbers 5:11 >>]]</td></tr></table>
 
 

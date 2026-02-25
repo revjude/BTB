@@ -1,8 +1,59 @@
+---
+title: Psalm 86:5
+type: Verse
+kjv: "For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee."
+bsb: "For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You."
+hebrew: "כִּֽי־ אַתָּ֣ה אֲ֭דֹנָי ט֣וֹב וְסַלָּ֑ח וְרַב־ חֶ֝֗סֶד לְכָל־ קֹרְאֶֽיךָ׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0136]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H5546]]"
+- "[[H7227A]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:5**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, Lord, [art] good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.
 <small><sub>**BSB:**</sub></small>
 For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H0136\|אֲ֭דֹנָי]] [[H2896A\|ט֣וֹב]] [[H9002\|וְ]][[H5546\|סַלָּ֑ח]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H2617A\|חֶ֝֗סֶד]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H7121G\|קֹרְאֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.4|<< Psalms 86:4]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.6|Psalms 86:6 >>]]</td></tr></table>
 

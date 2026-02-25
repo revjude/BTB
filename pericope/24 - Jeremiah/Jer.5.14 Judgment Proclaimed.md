@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment Proclaimed
+type: Pericope
 pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 5
 book/chapter: "[[Jer.5|Jeremiah 5]]"
-genre:
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 18
 verses:
 - "[[Jer.5.14]]"
 - "[[Jer.5.15]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Jer.5.31]]"
 ---
 
-[[Jer.5|Jeremiah 5:14 - Jeremiah 5:31]]
+<small>[[Jer.5|Jeremiah 5:14-31]]</small>
 *Judgment Proclaimed*
 
 [[Jer.5.14|14]] Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.

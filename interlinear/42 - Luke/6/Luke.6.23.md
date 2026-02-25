@@ -1,10 +1,68 @@
+---
+title: Luke 6:23
+type: Verse
+kjv: "Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets."
+bsb: "Rejoice in that day and leap for joy, because great is your reward in heaven. For their fathers treated the prophets in the same way."
+jesus_said: "Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets."
+greek: "χάρητε ἐν ἐκείνῃ τῇ ἡμέρᾳ καὶ σκιρτήσατε· ἰδοὺ γὰρ ὁ μισθὸς ὑμῶν πολὺς ἐν τῷ οὐρανῷ. κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν.¶"
+pericope: "[[Luke.6.20 The Beatitudes|The Beatitudes]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5463]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G4640]]"
+- "[[G2400]]"
+- "[[G1063]]"
+- "[[G3408]]"
+- "[[G4771]]"
+- "[[G4183]]"
+- "[[G3772]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G4396]]"
+- "[[G3962]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 6:23**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rejoice ye in that day, and leap for joy: for, behold, your reward [is] great in heaven: for in the like manner did their fathers unto the prophets.
 <small><sub>**BSB:**</sub></small>
 Rejoice in that day and leap for joy, because great is your reward in heaven. For their fathers treated the prophets in the same way.
-<small><sub>**Literal:**</sub></small>
-do rejoice in that [very] <the> day and do leap for joy; behold for the reward of you [is] great in <the> heaven. According to the [things] of them for were treating the prophets the fathers of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.22|<< Luke 6:22]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.24|Luke 6:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5463\|χάρητε]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G2532\|καὶ]]  [[G4640\|σκιρτήσατε·]]  [[G2400\|ἰδοὺ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3408\|μισθὸς]]  [[G4771\|ὑμῶν]]  [[G4183\|πολὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ.]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G1063\|γὰρ]]  [[G4160G\|ἐποίουν]]  [[G3588\|τοῖς]]  [[G4396\|προφήταις]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERMON|SERMON]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.22|<< Luke 6:22]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.24|Luke 6:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

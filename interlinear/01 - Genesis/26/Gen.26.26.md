@@ -1,8 +1,65 @@
+---
+title: Genesis 26:26
+type: Verse
+kjv: "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army."
+bsb: "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army."
+hebrew: "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־ צְבָאֽוֹ׃"
+pericope: "[[Gen.26.26 Isaac’s Covenant with Abimelech|Isaac’s Covenant with Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHUZZATH|AHUZZATH]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PHICHOL|PHICHOL]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0040G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1642]]"
+- "[[H0276]]"
+- "[[H4828]]"
+- "[[H9023]]"
+- "[[H6369]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:26**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.
 <small><sub>**BSB:**</sub></small>
 Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0040G\|אֲבִימֶ֕לֶךְ]] [[H1980G\|הָלַ֥ךְ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H9006\|מִ]][[H1642\|גְּרָ֑ר]] [[H9002\|וַ]][[H0276\|אֲחֻזַּת֙]] [[H4828\|מֵֽרֵעֵ֔]][[H9023\|הוּ]] [[H9002\|וּ]][[H6369\|פִיכֹ֖ל]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָאֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHUZZATH|AHUZZATH]] • [[topic ALLIANCES|ALLIANCES]] • [[topic COVENANT|COVENANT]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ISAAC|ISAAC]] • [[topic OATH|OATH]] • [[topic PHICHOL|PHICHOL]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.25|<< Genesis 26:25]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.27|Genesis 26:27 >>]]</td></tr></table>
 

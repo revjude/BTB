@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaac’s Prosperity
+type: Pericope
 pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 26
 book/chapter: "[[Gen.26|Genesis 26]]"
-genre:
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.26.12]]"
 - "[[Gen.26.13]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.26.25]]"
 ---
 
-[[Gen.26|Genesis 26:12 - Genesis 26:25]]
+<small>[[Gen.26|Genesis 26:12-25]]</small>
 *Isaac’s Prosperity*
 
 [[Gen.26.12|12]] Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.

@@ -1,8 +1,54 @@
+---
+title: Psalm 74:4
+type: Verse
+kjv: "Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs."
+bsb: "Your foes have roared within Your meeting place; they have unfurled their banners as signs,"
+hebrew: "שָׁאֲג֣וּ צֹ֭רְרֶיךָ בְּקֶ֣רֶב מוֹעֲדֶ֑ךָ שָׂ֖מוּ אוֹתֹתָ֣ם אֹתֽוֹת׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENSIGN|ENSIGN]]"
+strongs:
+- "[[H7580]]"
+- "[[H6887D]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H4150I]]"
+- "[[H9021]]"
+- "[[H7760A]]"
+- "[[H0226H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:4**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine enemies roar in the midst of thy congregations; they set up their ensigns [for] signs.
 <small><sub>**BSB:**</sub></small>
 Your foes have roared within Your meeting place; they have unfurled their banners as signs,
+<small><sub>**Hebrew:**</sub></small>
+[[H7580\|שָׁאֲג֣וּ]] [[H6887D\|צֹ֭רְרֶי]][[H9031\|ךָ]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H4150I\|מוֹעֲדֶ֑]][[H9021\|ךָ]] [[H7760A\|שָׂ֖מוּ]] [[H0226H\|אוֹתֹתָ֣]][[H9028\|ם]] [[H0226H\|אֹתֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENSIGN|ENSIGN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.3|<< Psalms 74:3]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.5|Psalms 74:5 >>]]</td></tr></table>
 

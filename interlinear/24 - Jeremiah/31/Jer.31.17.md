@@ -1,8 +1,54 @@
+---
+title: Jeremiah 31:17
+type: Verse
+kjv: "And there is hope in thine end, saith the LORD, that thy children shall come again to their own border."
+bsb: "So there is hope for your future, declares the LORD, and your children will return to their own land."
+hebrew: "וְיֵשׁ־ תִּקְוָ֥ה לְאַחֲרִיתֵ֖ךְ נְאֻם־ יְהוָ֑ה וְשָׁ֥בוּ בָנִ֖ים לִגְבוּלָֽם׃ ס"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H8615B]]"
+- "[[H9005]]"
+- "[[H0319]]"
+- "[[H9022]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1121A]]"
+- "[[H1366H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:17**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.
 <small><sub>**BSB:**</sub></small>
 So there is hope for your future, declares the LORD, and your children will return to their own land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3426\|יֵשׁ]][[H9014\|־]] [[H8615B\|תִּקְוָ֥ה]] [[H9005\|לְ]][[H0319\|אַחֲרִיתֵ֖]][[H9022\|ךְ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H7725G\|שָׁ֥בוּ]] [[H1121A\|בָנִ֖ים]] [[H9005\|לִ]][[H1366H\|גְבוּלָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.16|<< Jeremiah 31:16]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.18|Jeremiah 31:18 >>]]</td></tr></table>
 
@@ -15,7 +61,7 @@ So there is hope for your future, declares the LORD, and your children will retu
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שָׁ֥בוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H1121A\|בָנִ֖ים]]&#8207; </big>**| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to own territory their  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1366H\|גְבוּלָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.vu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to own territory their  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1366H\|גְבוּלָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.vu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.16|<< Jeremiah 31:16]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.18|Jeremiah 31:18 >>]]</td></tr></table>
 
 

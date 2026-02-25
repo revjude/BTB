@@ -1,10 +1,74 @@
+---
+title: Luke 24:44
+type: Verse
+kjv: "And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
+bsb: "Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.”"
+jesus_said: "These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
+greek: "Εἶπεν δὲ πρὸς αὐτούς· οὗτοι οἱ λόγοι μου οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ τοῖς προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G2980]]"
+- "[[G4771]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G4862]]"
+- "[[G3754G]]"
+- "[[G1163]]"
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G5568]]"
+- "[[G4012]]"
+- "[[G1473]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 24:44**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, These [are] the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and [in] the prophets, and [in] the psalms, concerning me.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.”
-<small><sub>**Literal:**</sub></small>
-He said now unto to them; These [are] the words of mine which I spoke to you still being with you that it behooves to be fulfilled all things which written in the law of Moses and in the Prophets and in [the] Psalms concerning Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.43|<< Luke 24:43]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.45|Luke 24:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G3165\|μου]]  [[G3739\|οὓς]]  [[G2980\|ἐλάλησα]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2089\|ἔτι]]  [[G1510\|ὢν]]  [[G4862\|σὺν]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G4137\|πληρωθῆναι]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1125\|γεγραμμένα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3475\|Μωϋσέως]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4396\|προφήταις]]  [[G2532\|καὶ]]  [[G5568\|ψαλμοῖς]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic TYPES|TYPES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.43|<< Luke 24:43]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.45|Luke 24:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

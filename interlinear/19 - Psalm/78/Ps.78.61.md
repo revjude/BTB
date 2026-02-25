@@ -1,8 +1,63 @@
+---
+title: Psalm 78:61
+type: Verse
+kjv: "And delivered his strength into captivity, and his glory into the enemy’s hand."
+bsb: "He delivered His strength to captivity, and His splendor to the hand of the adversary."
+hebrew: "וַיִּתֵּ֣ן לַשְּׁבִ֣י עֻזּ֑וֹ וְֽתִפְאַרְתּ֥וֹ בְיַד־ צָֽר׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H7628A]]"
+- "[[H5797]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8597]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H6862C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:61**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And delivered his strength into captivity, and his glory into the enemy’s hand.
 <small><sub>**BSB:**</sub></small>
 He delivered His strength to captivity, and His splendor to the hand of the adversary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֣ן]] [[H9005\|לַ]][[H7628A\|שְּׁבִ֣י]] [[H5797\|עֻזּ֑]][[H9023\|וֹ]] [[H9002\|וְֽ]][[H8597\|תִפְאַרְתּ֥]][[H9023\|וֹ]] [[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H6862C\|צָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ARK|ARK]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.60|<< Psalms 78:60]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.62|Psalms 78:62 >>]]</td></tr></table>
 

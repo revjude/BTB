@@ -1,10 +1,68 @@
+---
+title: Luke 11:46
+type: Verse
+kjv: "And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers."
+bsb: "“Woe to you as well, experts in the law!” He replied. “For you weigh men down with heavy burdens, but you yourselves will not lift a finger to lighten their load."
+jesus_said: "Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers."
+greek: "Ὁ δὲ εἶπεν· καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις.¶"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3544]]"
+- "[[G3759]]"
+- "[[G3754H]]"
+- "[[G5412]]"
+- "[[G0444]]"
+- "[[G5413]]"
+- "[[G1419]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G1147]]"
+- "[[G3756]]"
+- "[[G4379]]"
+texts:
+- NKO
+---
+
 **Luke 11:46**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Woe unto you also, [ye] lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
 <small><sub>**BSB:**</sub></small>
 “Woe to you as well, experts in the law!” He replied. “For you weigh men down with heavy burdens, but you yourselves will not lift a finger to lighten their load.
-<small><sub>**Literal:**</sub></small>
-<the> And He said; Also to you <the> lawyers woe! For you burden the men [with] burdens heavy to bear and yourselves with one of the fingers of you not do touch the burdens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.45|<< Luke 11:45]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.47|Luke 11:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G2532\|καὶ]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῖς]]  [[G3544\|νομικοῖς]]  [[G3759\|οὐαί,]]  [[G3754H\|ὅτι]]  [[G5412\|φορτίζετε]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G5413\|φορτία]]  [[G1419\|δυσβάστακτα]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1520\|ἑνὶ]]  [[G3588\|τῶν]]  [[G1147\|δακτύλων]]  [[G4771\|ὑμῶν]]  [[G3756\|οὐ]]  [[G4379\|προσψαύετε]]  [[G3588\|τοῖς]]  [[G5413\|φορτίοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURDEN|BURDEN]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.45|<< Luke 11:45]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.47|Luke 11:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

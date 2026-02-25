@@ -1,10 +1,53 @@
+---
+title: Romans 11:15
+type: Verse
+kjv: "For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead?"
+bsb: "For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?"
+greek: "εἰ γὰρ ἡ ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου, τίς ἡ πρόσλημψις εἰ μὴ ζωὴ ἐκ νεκρῶν;"
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0580]]"
+- "[[G0846]]"
+- "[[G2643]]"
+- "[[G2889]]"
+- "[[G5101]]"
+- "[[G4356]]"
+- "[[G3361]]"
+- "[[G2222]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **Romans 11:15**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if the casting away of them [be] the reconciling of the world, what [shall] the receiving [of them be], but life from the dead?
 <small><sub>**BSB:**</sub></small>
 For if their rejection is the reconciliation of the world, what will their acceptance be but life from the dead?
-<small><sub>**Literal:**</sub></small>
-If for the rejection of them [is the] reconciliation of [the] world, what [will be] the acceptance only except life out from [the] dead?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.14|<< Romans 11:14]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.16|Romans 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G0580\|ἀποβολὴ]]  [[G0846\|αὐτῶν]]  [[G2643\|καταλλαγὴ]]  [[G2889\|κόσμου,]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G4356\|πρόσλημψις]]  [[G1487G\|εἰ]]  [[G3361\|μὴ]]  [[G2222\|ζωὴ]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RECONCILIATION|RECONCILIATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.14|<< Romans 11:14]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.16|Romans 11:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

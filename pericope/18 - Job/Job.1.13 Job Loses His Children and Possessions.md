@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Loses His Children and Possessions
+type: Pericope
 pericope: "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 1
 book/chapter: "[[Job.1|Job 1]]"
-genre:
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 10
 verses:
 - "[[Job.1.13]]"
 - "[[Job.1.14]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Job.1.22]]"
 ---
 
-[[Job.1|Job 1:13 - Job 1:22]]
+<small>[[Job.1|Job 1:13-22]]</small>
 *Job Loses His Children and Possessions*
 
 [[Job.1.13|13]] And there was a day when his sons and his daughters \[were\] eating and drinking wine in their eldest brother’s house:

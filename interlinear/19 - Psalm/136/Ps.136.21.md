@@ -1,8 +1,59 @@
+---
+title: Psalm 136:21
+type: Verse
+kjv: "And gave their land for an heritage: for his mercy endureth for ever:"
+bsb: "and He gave their land as an inheritance, His loving devotion endures forever."
+hebrew: "וְנָתַ֣ן אַרְצָ֣ם לְנַחֲלָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic OG|OG]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:21**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gave their land for an heritage: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
 and He gave their land as an inheritance, His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַ֣ן]] [[H0776G\|אַרְצָ֣]][[H9028\|ם]] [[H9005\|לְ]][[H5159\|נַחֲלָ֑ה]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic OG|OG]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.20|<< Psalms 136:20]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.22|Psalms 136:22 >>]]</td></tr></table>
 

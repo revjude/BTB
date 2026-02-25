@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 2:5
+type: Verse
+kjv: "And the house which I build is great: for great is our God above all gods."
+bsb: "The house that I am building will be great, for our God is greater than all gods."
+hebrew: "וְהַבַּ֛יִת אֲשֶׁר־ אֲנִ֥י בוֹנֶ֖ה גָּד֑וֹל כִּֽי־ גָד֥וֹל אֱלֹהֵ֖ינוּ מִכָּל־ הָאֱלֹהִֽים׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H1129]]"
+- "[[H1419A]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:5**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house which I build [is] great: for great [is] our God above all gods.
 <small><sub>**BSB:**</sub></small>
 The house that I am building will be great, for our God is greater than all gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H1129\|בוֹנֶ֖ה]] [[H1419A\|גָּד֑וֹל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גָד֥וֹל]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0430\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIRAM|HIRAM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.4|<< 2 Chronicles 2:4]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.6|2 Chronicles 2:6 >>]]</td></tr></table>
 

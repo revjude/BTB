@@ -1,8 +1,56 @@
+---
+title: Psalm 119:58
+type: Verse
+kjv: "I intreated thy favour with my whole heart: be merciful unto me according to thy word."
+bsb: "I have sought Your face with all my heart; be gracious to me according to Your promise."
+hebrew: "חִלִּ֣יתִי פָנֶ֣יךָ בְכָל־ לֵ֑ב חָ֝נֵּ֗נִי כְּאִמְרָתֶֽךָ׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2470B]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0565A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:58**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I intreated thy favour with [my] whole heart: be merciful unto me according to thy word.
 <small><sub>**BSB:**</sub></small>
 I have sought Your face with all my heart; be gracious to me according to Your promise.
+<small><sub>**Hebrew:**</sub></small>
+[[H2470B\|חִלִּ֣יתִי]] [[H6440L\|פָנֶ֣י]][[H9021\|ךָ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H2603A\|חָ֝נֵּ֗]][[H9030\|נִי]] [[H9004\|כְּ]][[H0565A\|אִמְרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.57|<< Psalms 119:57]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.59|Psalms 119:59 >>]]</td></tr></table>
 

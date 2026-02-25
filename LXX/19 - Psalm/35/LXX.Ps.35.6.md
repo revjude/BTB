@@ -1,6 +1,53 @@
+---
+title: LXX Psalm 35:6
+type: Verse
+lxx: "their way become darkness and slippery! and an angel of the lord pursuing them."
+greek: "γενηθήτω η οδός αυτών σκότος και ολίσθημα και άγγελος κυρίου καταδιώκων αυτούς"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic GNASHING OF TEETH|GNASHING OF TEETH]]"
+strongs:
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1473]]"
+- "[[G4655]]"
+- "[[G2532]]"
+- "[[G8489]]"
+- "[[G2532]]"
+- "[[G0032]]"
+- "[[G2962]]"
+- "[[G2614]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 35:6** 
 <small><sub>**LXX:**</sub></small>
 their way become darkness and slippery! and an angel of \[the\] <span class="smallcaps">lord</span> pursuing them. 
+<small><sub>**Greek:**</sub></small>
+[[G1096\|γενηθήτω]] [[G3588\|η]] [[G3598\|οδός]] [[G1473\|αυτών]] [[G4655\|σκότος]] [[G2532\|και]] [[G8489\|ολίσθημα]] [[G2532\|και]] [[G0032\|άγγελος]] [[G2962\|κυρίου]] [[G2614\|καταδιώκων]] [[G1473\|αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic ENEMY|ENEMY]] • [[topic GNASHING OF TEETH|GNASHING OF TEETH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.5|<< Psalm 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.7|Psalm 35:7 >>]]</td></tr></table>
 
@@ -17,6 +64,6 @@ their way become darkness and slippery! and an angel of \[the\] <span class="sma
 | of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 | pursuing | **<big>[[G2614\|καταδιώκων]]</big>** |
 | them. | **<big>[[G1473\|αυτούς]]</big>** |
-[[Ps.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.5|<< Psalm 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.7|Psalm 35:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.5|<< Psalm 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.7|Psalm 35:7 >>]]</td></tr></table>
 
 

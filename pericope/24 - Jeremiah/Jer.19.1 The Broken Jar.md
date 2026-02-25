@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Broken Jar
+type: Pericope
 pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 19
 book/chapter: "[[Jer.19|Jeremiah 19]]"
-genre:
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.19.1]]"
 - "[[Jer.19.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.19.15]]"
 ---
 
-[[Jer.19|Jeremiah 19:1 - Jeremiah 19:15]]
+<small>[[Jer.19|Jeremiah 19:1-15]]</small>
 *The Broken Jar*
 
 [[Jer.19.1|1]] Thus saith the LORD, Go and get a potter’s earthen bottle, and \[take\] of the ancients of the people, and of the ancients of the priests;

@@ -1,8 +1,67 @@
+---
+title: Jeremiah 22:14
+type: Verse
+kjv: "That saith, I will build me a wide house and large chambers, and cutteth him out windows; and it is cieled with cedar, and painted with vermilion."
+bsb: "who says, ‘I will build myself a great palace, with spacious upper rooms.’ So he cuts windows in it, panels it with cedar, and paints it with vermilion."
+hebrew: "הָאֹמֵ֗ר אֶבְנֶה־ לִּי֙ בֵּ֣ית מִדּ֔וֹת וַעֲלִיּ֖וֹת מְרֻוָּחִ֑ים וְקָ֤רַֽע לוֹ֙ חַלּוֹנָ֔י וְסָפ֣וּן בָּאָ֔רֶז וּמָשׁ֖וֹחַ בַּשָּׁשַֽׁר׃"
+pericope: "[[Jer.22.13 A Warning about Jehoiakim|A Warning about Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic VERMILION|VERMILION]]"
+strongs:
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H1129]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H4060A]]"
+- "[[H9002]]"
+- "[[H5944]]"
+- "[[H7304]]"
+- "[[H9001]]"
+- "[[H7167]]"
+- "[[H9033]]"
+- "[[H2474]]"
+- "[[H9020]]"
+- "[[H5603]]"
+- "[[H9003]]"
+- "[[H0730]]"
+- "[[H4886]]"
+- "[[H8350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:14**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That saith, I will build me a wide house and large chambers, and cutteth him out windows; and [it is] cieled with cedar, and painted with vermilion.
 <small><sub>**BSB:**</sub></small>
 who says, ‘I will build myself a great palace, with spacious upper rooms.’ So he cuts windows in it, panels it with cedar, and paints it with vermilion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0559\|אֹמֵ֗ר]] [[H1129\|אֶבְנֶה]][[H9014\|־]] [[H9005\|לִּ]][[H9030\|י֙]] [[H1004B\|בֵּ֣ית]] [[H4060A\|מִדּ֔וֹת]] [[H9002\|וַ]][[H5944\|עֲלִיּ֖וֹת]] [[H7304\|מְרֻוָּחִ֑ים]] [[H9001\|וְ]][[H7167\|קָ֤רַֽע]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H2474\|חַלּוֹנָ֔]][[H9020\|י]] [[H9002\|וְ]][[H5603\|סָפ֣וּן]] [[H9003\|בָּ]][[H0730\|אָ֔רֶז]] [[H9002\|וּ]][[H4886\|מָשׁ֖וֹחַ]] [[H9003\|בַּ]][[H8350\|שָּׁשַֽׁר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic RICH, THE|RICH, THE]] • [[topic VERMILION|VERMILION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.13|<< Jeremiah 22:13]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.15|Jeremiah 22:15 >>]]</td></tr></table>
 

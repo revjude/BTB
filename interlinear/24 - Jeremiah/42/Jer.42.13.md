@@ -1,8 +1,61 @@
+---
+title: Jeremiah 42:13
+type: Verse
+kjv: "But if ye say, We will not dwell in this land, neither obey the voice of the LORD your God,"
+bsb: "But if you say, ‘We will not stay in this land,’ and you thus disobey the voice of the LORD your God,"
+hebrew: "וְאִם־ אֹמְרִ֣ים אַתֶּ֔ם לֹ֥א נֵשֵׁ֖ב בָּאָ֣רֶץ הַזֹּ֑את לְבִלְתִּ֣י שְׁמֹ֔עַ בְּק֖וֹל יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:13**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye say, We will not dwell in this land, neither obey the voice of the LORD your God,
 <small><sub>**BSB:**</sub></small>
 But if you say, ‘We will not stay in this land,’ and you thus disobey the voice of the LORD your God,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0559\|אֹמְרִ֣ים]] [[H0859D\|אַתֶּ֔ם]] [[H3808\|לֹ֥א]] [[H3427\|נֵשֵׁ֖ב]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9005\|לְ]][[H1115\|בִלְתִּ֣י]] [[H8085H\|שְׁמֹ֔עַ]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.12|<< Jeremiah 42:12]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.14|Jeremiah 42:14 >>]]</td></tr></table>
 

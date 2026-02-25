@@ -1,10 +1,65 @@
+---
+title: 1 John 4:17
+type: Verse
+kjv: "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world."
+bsb: "In this way, love has been perfected among us, so that we may have confidence on the day of judgment; for in this world we are just like Him."
+greek: "ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ᾽ ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G5048]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3326]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G3954]]"
+- "[[G2192]]"
+- "[[G2250]]"
+- "[[G2920]]"
+- "[[G3754G]]"
+- "[[G2531]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **1 John 4:17**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
 <small><sub>**BSB:**</sub></small>
 In this way, love has been perfected among us, so that we may have confidence on the day of judgment; for in this world we are just like Him.
-<small><sub>**Literal:**</sub></small>
-In this has been perfected <the> love with us, so that confidence we may have in the day <the> of judgment, that even as He is also we ourselves are in <the> world this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.16|<< 1 John 4:16]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.18|1 John 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G5048\|τετελείωται]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3326\|μεθ᾽]]  [[G3165\|ἡμῶν,]]  [[G2443\|ἵνα]]  [[G3954\|παρρησίαν]]  [[G2192\|ἔχωμεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῆς]]  [[G2920\|κρίσεως,]]  [[G3754G\|ὅτι]]  [[G2531\|καθὼς]]  [[G1565\|ἐκεῖνός]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1510\|ἐσμεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G3778\|τούτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLDNESS|BOLDNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LOVE|LOVE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.16|<< 1 John 4:16]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.18|1 John 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

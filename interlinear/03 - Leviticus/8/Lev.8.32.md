@@ -1,8 +1,56 @@
+---
+title: Leviticus 8:32
+type: Verse
+kjv: "And that which remaineth of the flesh and of the bread shall ye burn with fire."
+bsb: "Then you must burn up the remainder of the meat and bread."
+hebrew: "וְהַנּוֹתָ֥ר בַּבָּשָׂ֖ר וּבַלָּ֑חֶם בָּאֵ֖שׁ תִּשְׂרֹֽפוּ׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H1320]]"
+- "[[H3899H]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:32**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that which remaineth of the flesh and of the bread shall ye burn with fire.
 <small><sub>**BSB:**</sub></small>
 Then you must burn up the remainder of the meat and bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתָ֥ר]] [[H9003\|בַּ]][[H1320\|בָּשָׂ֖ר]] [[H9002\|וּ]][[H9003\|בַ]][[H3899H\|לָּ֑חֶם]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H8313\|תִּשְׂרֹֽפוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.31|<< Leviticus 8:31]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.33|Leviticus 8:33 >>]]</td></tr></table>
 

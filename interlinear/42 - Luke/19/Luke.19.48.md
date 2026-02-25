@@ -1,10 +1,53 @@
+---
+title: Luke 19:48
+type: Verse
+kjv: "And could not find what they might do: for all the people were very attentive to hear him."
+bsb: "Yet they could not find a way to do so, because all the people hung on His words."
+greek: "καὶ οὐχ εὕρισκον τὸ τί ποιήσωσιν· ὁ λαὸς γὰρ ἅπας ἐξεκρέματο αὐτοῦ ἀκούων.¶"
+pericope: "[[Luke.19.45 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2992]]"
+- "[[G1063]]"
+- "[[G0537]]"
+- "[[G1582]]"
+- "[[G0846]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Luke 19:48**<big><big>[[Luke.19.45 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And could not find what they might do: for all the people were very attentive to hear him.
 <small><sub>**BSB:**</sub></small>
 Yet they could not find a way to do so, because all the people hung on His words.
-<small><sub>**Literal:**</sub></small>
-And not they were finding <the> what they may do; the people for all were hanging on His [words] listening.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.47|<< Luke 19:47]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.1|Luke 20:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G2147\|εὕρισκον]]  [[G3588\|τὸ]]  [[G5101\|τί]]  [[G4160G\|ποιήσωσιν·]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G1063\|γὰρ]]  [[G0537\|ἅπας]]  [[G1582\|ἐξεκρέματο]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.47|<< Luke 19:47]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.1|Luke 20:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

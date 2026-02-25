@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 8:4
+type: Verse
+kjv: "And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots."
+bsb: "David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots."
+hebrew: "וַיִּלְכֹּ֨ד דָּוִ֜ד מִמֶּ֗נּוּ אֶ֤לֶף וּשְׁבַע־ מֵאוֹת֙ פָּרָשִׁ֔ים וְעֶשְׂרִ֥ים אֶ֖לֶף אִ֣ישׁ רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִד֙ אֶת־ כָּל־ הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב׃"
+pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic HOUGHING|HOUGHING]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H1732]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H6571B]]"
+- "[[H6242]]"
+- "[[H0376G]]"
+- "[[H7273]]"
+- "[[H6131B]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H3498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:4**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took from him a thousand [chariots], and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot [horses], but reserved of them [for] an hundred chariots.
 <small><sub>**BSB:**</sub></small>
 David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3920\|יִּלְכֹּ֨ד]] [[H1732\|דָּוִ֜ד]] [[H4480A\|מִמֶּ֗]][[H9033\|נּוּ]] [[H0505G\|אֶ֤לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַע]][[H9014\|־]] [[H3967\|מֵאוֹת֙]] [[H6571B\|פָּרָשִׁ֔ים]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִ֣ישׁ]] [[H7273\|רַגְלִ֑י]] [[H9001\|וַ]][[H6131B\|יְעַקֵּ֤ר]] [[H1732\|דָּוִד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9001\|וַ]][[H3498\|יּוֹתֵ֥ר]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H3967\|מֵ֥אָה]] [[H7393G\|רָֽכֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CAVALRY|CAVALRY]] • [[topic CHARIOT|CHARIOT]] • [[topic HADADEZER|HADADEZER]] • [[topic HORSE|HORSE]] • [[topic HOUGHING|HOUGHING]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.3|<< 2 Samuel 8:3]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.5|2 Samuel 8:5 >>]]</td></tr></table>
 

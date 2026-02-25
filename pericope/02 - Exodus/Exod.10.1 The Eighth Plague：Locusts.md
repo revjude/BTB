@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Eighth Plague：Locusts
+type: Pericope
 pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 10
 book/chapter: "[[Exod.10|Exodus 10]]"
-genre:
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 20
 verses:
 - "[[Exod.10.1]]"
 - "[[Exod.10.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Exod.10.20]]"
 ---
 
-[[Exod.10|Exodus 10:1 - Exodus 10:20]]
+<small>[[Exod.10|Exodus 10:1-20]]</small>
 *The Eighth Plague：Locusts*
 
 [[Exod.10.1|1]] And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:

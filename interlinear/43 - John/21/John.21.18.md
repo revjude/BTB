@@ -1,10 +1,65 @@
+---
+title: John 21:18
+type: Verse
+kjv: "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
+bsb: "Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.”"
+jesus_said: "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
+greek: "ἀμὴν ἀμὴν λέγω σοι· ὅτε ἦς νεώτερος, ἐζώννυες σεαυτὸν καὶ περιεπάτεις ὅπου ἤθελες. ὅταν δὲ γηράσῃς, ἐκτενεῖς τὰς χεῖράς σου, καὶ ἄλλος σε ζώσει καὶ οἴσει ὅπου οὐ θέλεις."
+pericope: "[[John.21.15 Jesus and Peter|Jesus and Peter]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3753]]"
+- "[[G1510]]"
+- "[[G3501]]"
+- "[[G2224]]"
+- "[[G2532]]"
+- "[[G4043]]"
+- "[[G3699]]"
+- "[[G2309]]"
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G1095]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0243]]"
+- "[[G5342]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **John 21:18**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry [thee] whither thou wouldest not.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.”
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you; When you were younger, you were dressing yourself and were walking where you were desiring. when however you may be old, you will stretch forth the hands of you, and another you will dress and will bring [you] where not you do desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.17|<< John 21:17]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.19|John 21:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|σοι·]]  [[G3753\|ὅτε]]  [[G1510\|ἦς]]  [[G3501\|νεώτερος,]]  [[G2224\|ἐζώννυες]]  [[G4771\|σεαυτὸν]]  [[G2532\|καὶ]]  [[G4043\|περιεπάτεις]]  [[G3699\|ὅπου]]  [[G2309\|ἤθελες.]]  [[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G1095\|γηράσῃς,]]  [[G1614\|ἐκτενεῖς]]  [[G3588\|τὰς]]  [[G5495\|χεῖράς]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G0243\|ἄλλος]]  [[G4771\|σε]]  [[G2224\|ζώσει]]  [[G2532\|καὶ]]  [[G5342\|οἴσει]]  [[G3699\|ὅπου]]  [[G3756\|οὐ]]  [[G2309\|θέλεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.17|<< John 21:17]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.19|John 21:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 4:19
+type: Verse
+kjv: "And his daughter in law, Phinehas’ wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her."
+bsb: "Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and about to give birth. When she heard the news of the capture of God’s ark and the deaths of her father-in-law and her husband, she collapsed and gave birth, for her labor pains overtook her."
+hebrew: "וְכַלָּת֣וֹ אֵֽשֶׁת־ פִּינְחָס֮ הָרָ֣ה לָלַת֒ וַתִּשְׁמַ֣ע אֶת־ הַשְּׁמֻעָ֔ה אֶל־ הִלָּקַח֙ אֲר֣וֹן הָאֱלֹהִ֔ים וּמֵ֥ת חָמִ֖יהָ וְאִישָׁ֑הּ וַתִּכְרַ֣ע וַתֵּ֔לֶד כִּֽי־ נֶהֶפְכ֥וּ עָלֶ֖יהָ צִרֶֽיהָ׃"
+pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3618H]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H6372H]]"
+- "[[H2030A]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8052]]"
+- "[[H0413]]"
+- "[[H3947G]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H4191]]"
+- "[[H2524]]"
+- "[[H9024]]"
+- "[[H0376H]]"
+- "[[H3766]]"
+- "[[H3588A]]"
+- "[[H2015]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H6735C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:19**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his daughter in law, Phinehas’ wife, was with child, [near] to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.
 <small><sub>**BSB:**</sub></small>
 Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and about to give birth. When she heard the news of the capture of God’s ark and the deaths of her father-in-law and her husband, she collapsed and gave birth, for her labor pains overtook her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3618H\|כַלָּת֣]][[H9023\|וֹ]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H6372H\|פִּינְחָס֮]] [[H2030A\|הָרָ֣ה]] [[H9005\|לָ]][[H3205\|לַת֒]] [[H9001\|וַ]][[H8085G\|תִּשְׁמַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8052\|שְּׁמֻעָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3947G\|הִלָּקַח֙]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וּ]][[H4191\|מֵ֥ת]] [[H2524\|חָמִ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0376H\|אִישָׁ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H3766\|תִּכְרַ֣ע]] [[H9001\|וַ]][[H3205\|תֵּ֔לֶד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2015\|נֶהֶפְכ֥וּ]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H6735C\|צִרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic PARENTS|PARENTS]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.18|<< 1 Samuel 4:18]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.20|1 Samuel 4:20 >>]]</td></tr></table>
 

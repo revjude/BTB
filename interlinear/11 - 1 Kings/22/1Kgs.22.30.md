@@ -1,8 +1,59 @@
+---
+title: 1 Kings 22:30
+type: Verse
+kjv: "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle."
+bsb: "And the king of Israel said to Jehoshaphat, “I will disguise myself and go into battle, but you wear your royal robes.” So the king of Israel disguised himself and went into battle."
+hebrew: "וַיֹּאמֶר֩ מֶ֨לֶךְ יִשְׂרָאֵ֜ל אֶל־ יְהוֹשָׁפָ֗ט הִתְחַפֵּשׂ֙ וָבֹ֣א בַמִּלְחָמָ֔ה וְאַתָּ֖ה לְבַ֣שׁ בְּגָדֶ֑יךָ וַיִּתְחַפֵּשׂ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וַיָּב֖וֹא בַּמִּלְחָמָֽה׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3092I]]"
+- "[[H2664]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H0859A]]"
+- "[[H3847]]"
+- "[[H0899B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:30**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.
 <small><sub>**BSB:**</sub></small>
 And the king of Israel said to Jehoshaphat, “I will disguise myself and go into battle, but you wear your royal robes.” So the king of Israel disguised himself and went into battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H4428G\|מֶ֨לֶךְ]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H2664\|הִתְחַפֵּשׂ֙]] [[H9002\|וָ]][[H0935G\|בֹ֣א]] [[H9003\|בַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H3847\|לְבַ֣שׁ]] [[H0899B\|בְּגָדֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H2664\|יִּתְחַפֵּשׂ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H0935G\|יָּב֖וֹא]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.29|<< 1 Kings 22:29]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.31|1 Kings 22:31 >>]]</td></tr></table>
 

@@ -1,9 +1,9 @@
 
 **CARPENTRY**
 
-→ Building the ark of Noah [[Gen.6.14|Ge 6:14]]-[[Gen.6.16|16]]
+→ Building the ark of Noah [[Gen.6.14|Ge 6:14-16]]
 
-→ Tabernacle, and furniture of [[Exod.31.2|Ex 31:2]]-[[Exod.31.9|9]]
+→ Tabernacle, and furniture of [[Exod.31.2|Ex 31:2-9]]
 
 → See [[topic TABERNACLE|TABERNACLE]]
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 2:8
+type: Verse
+kjv: "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;"
+bsb: "To the angel of the church in Smyrna write: These are the words of the First and the Last, who died and returned to life."
+jesus_said: "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;"
+greek: "Καὶ τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας γράψον· τάδε λέγει ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ ἔζησεν·"
+pericope: "[[Rev.2.8 To the Church in Smyrna|To the Church in Smyrna]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SMYRNA|SMYRNA]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G4667]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G4413G]]"
+- "[[G2078]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G3498]]"
+- "[[G2198]]"
+texts:
+- NKO
+- NK(o)
+- no
+- N(k)O
+---
+
 **Revelation 2:8**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Smyrna write: These are the words of the First and the Last, who died and returned to life.
-<small><sub>**Literal:**</sub></small>
-And to the angel of the in Smyrna church do write: These things says the First and the Last, who became dead and came to life;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.7|<< Revelation 2:7]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.9|Revelation 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῷ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G4667\|Σμύρνῃ]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2078\|ἔσχατος,]]  [[G3739\|ὃς]]  [[G1096\|ἐγένετο]]  [[G3498\|νεκρὸς]]  [[G2532\|καὶ]]  [[G2198\|ἔζησεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SMYRNA|SMYRNA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.7|<< Revelation 2:7]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.9|Revelation 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

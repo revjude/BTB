@@ -1,10 +1,65 @@
+---
+title: Luke 9:9
+type: Verse
+kjv: "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+bsb: "“I beheaded John,” Herod said, “but who is this man I hear such things about?” And he kept trying to see Jesus."
+greek: "Καὶ Εἶπεν δὲ ὁ Ἡρῴδης· Ἰωάννην ἐγὼ ἀπεκεφάλισα· τίς δέ ἐστιν οὗτος περὶ οὗ ἐγὼ ἀκούω τοιαῦτα; καὶ ἐζήτει ἰδεῖν αὐτόν.¶"
+pericope: "[[Luke.9.7 Herod Tries to See Jesus|Herod Tries to See Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic FISH|FISH]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2264H]]"
+- "[[G2491G]]"
+- "[[G1473]]"
+- "[[G0607]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G5108]]"
+- "[[G2212]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+texts:
+- k
+- NKO
+- no
+- ko
+---
+
 **Luke 9:9**<big><big>[[Luke.9.7 Herod Tries to See Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
 <small><sub>**BSB:**</sub></small>
 “I beheaded John,” Herod said, “but who is this man I hear such things about?” And he kept trying to see Jesus.
-<small><sub>**Literal:**</sub></small>
-and Said then <the> Herod; John I myself beheaded; who however is this concerning whom I myself I hear such things? And he was seeking to see Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.8|<< Luke 9:8]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.10|Luke 9:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2264H\|Ἡρῴδης·]]  [[G2491G\|Ἰωάννην]]  [[G1473\|ἐγὼ]]  [[G0607\|ἀπεκεφάλισα·]]  [[G5101\|τίς]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G3778\|οὗτος]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G1473\|ἐγὼ]]  [[G0191\|ἀκούω]]  [[G5108\|τοιαῦτα;]]  [[G2532\|καὶ]]  [[G2212\|ἐζήτει]]  [[G1492H\|ἰδεῖν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic FISH|FISH]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.8|<< Luke 9:8]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.10|Luke 9:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

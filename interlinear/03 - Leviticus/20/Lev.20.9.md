@@ -1,8 +1,64 @@
+---
+title: Leviticus 20:9
+type: Verse
+kjv: "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him."
+bsb: "If anyone curses his father or mother, he must be put to death. He has cursed his father or mother; his blood shall be upon him."
+hebrew: "כִּֽי־ אִ֣ישׁ אִ֗ישׁ אֲשֶׁ֨ר יְקַלֵּ֧ל אֶת־ אָבִ֛יו וְאֶת־ אִמּ֖וֹ מ֣וֹת יוּמָ֑ת אָבִ֧יו וְאִמּ֛וֹ קִלֵּ֖ל דָּמָ֥יו בּֽוֹ׃"
+pericope: "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H7043]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H4191]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:9**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood [shall be] upon him.
 <small><sub>**BSB:**</sub></small>
 If anyone curses his father or mother, he must be put to death. He has cursed his father or mother; his blood shall be upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7043\|יְקַלֵּ֧ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמּ֖]][[H9023\|וֹ]] [[H4191\|מ֣וֹת]] [[H4191\|יוּמָ֑ת]] [[H0001G\|אָבִ֧י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֛]][[H9023\|וֹ]] [[H7043\|קִלֵּ֖ל]] [[H1818\|דָּמָ֥י]][[H9023\|ו]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic PARENTS|PARENTS]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.8|<< Leviticus 20:8]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.10|Leviticus 20:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 48:13
+type: Verse
+kjv: "And over against the border of the priests the Levites shall have five and twenty thousand in length, and ten thousand in breadth: all the length shall be five and twenty thousand, and the breadth ten thousand."
+bsb: "Bordering the territory of the priests, the Levites shall have an area 25,000 cubits long and 10,000 cubits wide. The whole length will be 25,000 cubits, and the width 10,000 cubits."
+hebrew: "וְהַלְוִיִּ֗ם לְעֻמַּת֙ גְּב֣וּל הַכֹּהֲנִ֔ים חֲמִשָּׁ֨ה וְעֶשְׂרִ֥ים אֶ֙לֶף֙ אֹ֔רֶךְ וְרֹ֖חַב עֲשֶׂ֣רֶת אֲלָפִ֑ים כָּל־ אֹ֗רֶךְ חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֥רֶת אֲלָפִֽים׃"
+pericope: "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H5980]]"
+- "[[H1366H]]"
+- "[[H3548]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H0753]]"
+- "[[H7341]]"
+- "[[H6235]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:13**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over against the border of the priests the Levites [shall have] five and twenty thousand in length, and ten thousand in breadth: all the length [shall be] five and twenty thousand, and the breadth ten thousand.
 <small><sub>**BSB:**</sub></small>
 Bordering the territory of the priests, the Levites shall have an area 25,000 cubits long and 10,000 cubits wide. The whole length will be 25,000 cubits, and the width 10,000 cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H9005\|לְ]][[H5980\|עֻמַּת֙]] [[H1366H\|גְּב֣וּל]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֔ים]] [[H2568\|חֲמִשָּׁ֨ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H0753\|אֹ֔רֶךְ]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H6235\|עֲשֶׂ֣רֶת]] [[H0505G\|אֲלָפִ֑ים]] [[H3605\|כָּל]][[H9014\|־]] [[H0753\|אֹ֗רֶךְ]] [[H2568\|חֲמִשָּׁ֤ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.12|<< Ezekiel 48:12]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.14|Ezekiel 48:14 >>]]</td></tr></table>
 

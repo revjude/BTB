@@ -1,8 +1,59 @@
+---
+title: Micah 4:12
+type: Verse
+kjv: "But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor."
+bsb: "But they do not know the thoughts of the LORD or understand His plan, for He has gathered them like sheaves to the threshing floor."
+hebrew: "וְהֵ֗מָּה לֹ֤א יָֽדְעוּ֙ מַחְשְׁב֣וֹת יְהוָ֔ה וְלֹ֥א הֵבִ֖ינוּ עֲצָת֑וֹ כִּ֥י קִבְּצָ֖ם כֶּעָמִ֥יר גֹּֽרְנָה׃"
+pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4284]]"
+- "[[H3068G]]"
+- "[[H0995]]"
+- "[[H6098]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H6908]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H5995]]"
+- "[[H1637]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:12**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.
 <small><sub>**BSB:**</sub></small>
 But they do not know the thoughts of the LORD or understand His plan, for He has gathered them like sheaves to the threshing floor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֗מָּה]] [[H3808\|לֹ֤א]] [[H3045\|יָֽדְעוּ֙]] [[H4284\|מַחְשְׁב֣וֹת]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0995\|הֵבִ֖ינוּ]] [[H6098\|עֲצָת֑]][[H9023\|וֹ]] [[H3588A\|כִּ֥י]] [[H6908\|קִבְּצָ֖]][[H9038\|ם]] [[H9004\|כֶּ]][[H5995\|עָמִ֥יר]] [[H1637\|גֹּֽרְנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.11|<< Micah 4:11]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.13|Micah 4:13 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Ezekiel 23:9
+type: Verse
+kjv: "Wherefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted."
+bsb: "Therefore I delivered her into the hands of her lovers, the Assyrians for whom she lusted."
+hebrew: "לָכֵ֥ן נְתַתִּ֖יהָ בְּיַד־ מְאַֽהֲבֶ֑יהָ בְּיַד֙ בְּנֵ֣י אַשּׁ֔וּר אֲשֶׁ֥ר עָגְבָ֖ה עֲלֵיהֶֽם׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H1121G]]"
+- "[[H0804G]]"
+- "[[H0834A]]"
+- "[[H5689]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:9**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted.
 <small><sub>**BSB:**</sub></small>
 Therefore I delivered her into the hands of her lovers, the Assyrians for whom she lusted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֥ן]] [[H5414G\|נְתַתִּ֖י]][[H9034\|הָ]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0157G\|מְאַֽהֲבֶ֑י]][[H9034\|הָ]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H1121G\|בְּנֵ֣י]] [[H0804G\|אַשּׁ֔וּר]] [[H0834A\|אֲשֶׁ֥ר]] [[H5689\|עָגְבָ֖ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.8|<< Ezekiel 23:8]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.10|Ezekiel 23:10 >>]]</td></tr></table>
 

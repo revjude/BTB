@@ -1,8 +1,63 @@
+---
+title: Leviticus 27:20
+type: Verse
+kjv: "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+bsb: "If, however, he does not redeem the field, or if he has sold it to another man, it may no longer be redeemed."
+hebrew: "וְאִם־ לֹ֤א יִגְאַל֙ אֶת־ הַשָּׂדֶ֔ה וְאִם־ מָכַ֥ר אֶת־ הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H1350A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H0312]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:20**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.
 <small><sub>**BSB:**</sub></small>
 If, however, he does not redeem the field, or if he has sold it to another man, it may no longer be redeemed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H1350A\|יִגְאַל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4376\|מָכַ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H0312\|אַחֵ֑ר]] [[H3808\|לֹ֥א]] [[H1350A\|יִגָּאֵ֖ל]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.19|<< Leviticus 27:19]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.21|Leviticus 27:21 >>]]</td></tr></table>
 

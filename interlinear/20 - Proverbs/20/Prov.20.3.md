@@ -1,8 +1,57 @@
+---
+title: Proverbs 20:3
+type: Verse
+kjv: "It is an honour for a man to cease from strife: but every fool will be meddling."
+bsb: "It is honorable for a man to resolve a dispute, but any fool will quarrel."
+hebrew: "כָּב֣וֹד לָ֭אִישׁ שֶׁ֣בֶת מֵרִ֑יב וְכָל־ אֱ֝וִ֗יל יִתְגַּלָּֽע׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]]"
+- "[[topic BUSYBODY|BUSYBODY]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H3519]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H7674]]"
+- "[[H9006]]"
+- "[[H7379]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0191]]"
+- "[[H1566]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:3**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] an honour for a man to cease from strife: but every fool will be meddling.
 <small><sub>**BSB:**</sub></small>
 It is honorable for a man to resolve a dispute, but any fool will quarrel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3519\|כָּב֣וֹד]] [[H9005\|לָ֭]][[H0376G\|אִישׁ]] [[H7674\|שֶׁ֣בֶת]] [[H9006\|מֵ]][[H7379\|רִ֑יב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0191\|אֱ֝וִ֗יל]] [[H1566\|יִתְגַּלָּֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]] • [[topic BUSYBODY|BUSYBODY]] • [[topic FOOL|FOOL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PEACE|PEACE]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.2|<< Proverbs 20:2]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.4|Proverbs 20:4 >>]]</td></tr></table>
 

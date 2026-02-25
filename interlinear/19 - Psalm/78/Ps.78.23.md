@@ -1,8 +1,57 @@
+---
+title: Psalm 78:23
+type: Verse
+kjv: "Though he had commanded the clouds from above, and opened the doors of heaven,"
+bsb: "Yet He commanded the clouds above and opened the doors of the heavens."
+hebrew: "וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H7834]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9002]]"
+- "[[H1817C]]"
+- "[[H8064]]"
+- "[[H6605A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:23**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he had commanded the clouds from above, and opened the doors of heaven,
 <small><sub>**BSB:**</sub></small>
 Yet He commanded the clouds above and opened the doors of the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H7834\|שְׁחָקִ֣ים]] [[H9006\|מִ]][[H4605\|מָּ֑עַל]] [[H9002\|וְ]][[H1817C\|דַלְתֵ֖י]] [[H8064\|שָׁמַ֣יִם]] [[H6605A\|פָּתָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.22|<< Psalms 78:22]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.24|Psalms 78:24 >>]]</td></tr></table>
 

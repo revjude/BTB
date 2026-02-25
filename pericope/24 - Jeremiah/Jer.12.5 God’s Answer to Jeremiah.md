@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Answer to Jeremiah
+type: Pericope
 pericope: "[[Jer.12.5 God’s Answer to Jeremiah|God’s Answer to Jeremiah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 12
 book/chapter: "[[Jer.12|Jeremiah 12]]"
-genre:
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.12.5]]"
 - "[[Jer.12.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.12.13]]"
 ---
 
-[[Jer.12|Jeremiah 12:5 - Jeremiah 12:13]]
+<small>[[Jer.12|Jeremiah 12:5-13]]</small>
 *God’s Answer to Jeremiah*
 
 [[Jer.12.5|5]] If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and \[if\] in the land of peace, \[wherein\] thou trustedst, \[they wearied thee\], then how wilt thou do in the swelling of Jordan?

@@ -1,8 +1,81 @@
+---
+title: Genesis 19:19
+type: Verse
+kjv: "Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:"
+bsb: "Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die."
+hebrew: "הִנֵּה־ נָ֠א מָצָ֨א עַבְדְּךָ֣ חֵן֮ בְּעֵינֶיךָ֒ וַתַּגְדֵּ֣ל חַסְדְּךָ֗ אֲשֶׁ֤ר עָשִׂ֙יתָ֙ עִמָּדִ֔י לְהַחֲי֖וֹת אֶת־ נַפְשִׁ֑י וְאָנֹכִ֗י לֹ֤א אוּכַל֙ לְהִמָּלֵ֣ט הָהָ֔רָה פֶּן־ תִּדְבָּקַ֥נִי הָרָעָ֖ה וָמַֽתִּי׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H2617A]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H4422]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9011]]"
+- "[[H6435]]"
+- "[[H1692]]"
+- "[[H7451C]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:19**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
 <small><sub>**BSB:**</sub></small>
 Your servant has indeed found favor in your sight, and you have shown me great kindness by sparing my life. But I cannot run to the mountains; the disaster will overtake me, and I will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֠א]] [[H4672\|מָצָ֨א]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H2580\|חֵן֮]] [[H9003\|בְּ]][[H5869H\|עֵינֶי]][[H9021\|ךָ֒]] [[H9001\|וַ]][[H1431\|תַּגְדֵּ֣ל]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֗]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עָשִׂ֙יתָ֙]] [[H5978\|עִמָּדִ֔]][[H9030\|י]] [[H9005\|לְ]][[H2421\|הַחֲי֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H0595\|אָנֹכִ֗י]] [[H3808\|לֹ֤א]] [[H3201\|אוּכַל֙]] [[H9005\|לְ]][[H4422\|הִמָּלֵ֣ט]] [[H9009\|הָ]][[H2022G\|הָ֔רָ]][[H9011\|ה]] [[H6435\|פֶּן]][[H9014\|־]] [[H1692\|תִּדְבָּקַ֥]][[H9030\|נִי]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9001\|וָ]][[H4191\|מַֽתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.18|<< Genesis 19:18]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.20|Genesis 19:20 >>]]</td></tr></table>
 

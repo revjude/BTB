@@ -1,8 +1,55 @@
+---
+title: Judges 20:6
+type: Verse
+kjv: "And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel: for they have committed lewdness and folly in Israel."
+bsb: "Then I took my concubine, cut her into pieces, and sent her throughout the land of Israel’s inheritance, because they had committed a lewd and disgraceful act in Israel."
+hebrew: "וָֽאֹחֵ֤ז בְּפִֽילַגְשִׁי֙ וָֽאֲנַתְּחֶ֔הָ וָֽאֲשַׁלְּחֶ֔הָ בְּכָל־ שְׂדֵ֖ה נַחֲלַ֣ת יִשְׂרָאֵ֑ל כִּ֥י עָשׂ֛וּ זִמָּ֥ה וּנְבָלָ֖ה בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H6370]]"
+- "[[H9020]]"
+- "[[H5408]]"
+- "[[H9034]]"
+- "[[H7971G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H5159]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H2154]]"
+- "[[H9002]]"
+- "[[H5039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:6**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel: for they have committed lewdness and folly in Israel.
 <small><sub>**BSB:**</sub></small>
 Then I took my concubine, cut her into pieces, and sent her throughout the land of Israel’s inheritance, because they had committed a lewd and disgraceful act in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H0270\|אֹחֵ֤ז]] [[H9003\|בְּ]][[H6370\|פִֽילַגְשִׁ]][[H9020\|י֙]] [[H9001\|וָֽ]][[H5408\|אֲנַתְּחֶ֔]][[H9034\|הָ]] [[H9001\|וָֽ]][[H7971G\|אֲשַׁלְּחֶ֔]][[H9034\|הָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7704G\|שְׂדֵ֖ה]] [[H5159\|נַחֲלַ֣ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֥י]] [[H6213A\|עָשׂ֛וּ]] [[H2154\|זִמָּ֥ה]] [[H9002\|וּ]][[H5039\|נְבָלָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.5|<< Judges 20:5]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.7|Judges 20:7 >>]]</td></tr></table>
 

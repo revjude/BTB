@@ -1,8 +1,56 @@
+---
+title: Psalm 60:10
+type: Verse
+kjv: "Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?"
+bsb: "Have You not rejected us, O God? Will You no longer march out, O God, with our armies?"
+hebrew: "הֲלֹֽא־ אַתָּ֣ה אֱלֹהִ֣ים זְנַחְתָּ֑נוּ וְֽלֹא־ תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאוֹתֵֽינוּ׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H2186A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H6635A]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:10**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Wilt] not thou, O God, [which] hadst cast us off? and [thou], O God, [which] didst not go out with our armies?
 <small><sub>**BSB:**</sub></small>
 Have You not rejected us, O God? Will You no longer march out, O God, with our armies?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H0430G\|אֱלֹהִ֣ים]] [[H2186A\|זְנַחְתָּ֑]][[H9035\|נוּ]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H3318G\|תֵצֵ֥א]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H9003\|בְּ]][[H6635A\|צִבְאוֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.9|<< Psalms 60:9]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.11|Psalms 60:11 >>]]</td></tr></table>
 

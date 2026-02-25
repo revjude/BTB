@@ -1,8 +1,57 @@
+---
+title: Psalm 39:7
+type: Verse
+kjv: "And now, Lord, what wait I for? my hope is in thee."
+bsb: "And now, O Lord, for what do I wait? My hope is in You."
+hebrew: "וְעַתָּ֣ה מַה־ קִּוִּ֣יתִי אֲדֹנָ֑י תּ֝וֹחַלְתִּ֗י לְךָ֣ הִֽיא׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6960A]]"
+- "[[H0136]]"
+- "[[H8431]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:7**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, Lord, what wait I for? my hope [is] in thee.
 <small><sub>**BSB:**</sub></small>
 And now, O Lord, for what do I wait? My hope is in You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H4100\|מַה]][[H9014\|־]] [[H6960A\|קִּוִּ֣יתִי]] [[H0136\|אֲדֹנָ֑י]] [[H8431\|תּ֝וֹחַלְתִּ֗]][[H9020\|י]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.6|<< Psalms 39:6]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.8|Psalms 39:8 >>]]</td></tr></table>
 

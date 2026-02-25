@@ -1,10 +1,61 @@
+---
+title: John 10:3
+type: Verse
+kjv: "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+bsb: "The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out."
+jesus_said: "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+greek: "τούτῳ ὁ θυρωρὸς ἀνοίγει, καὶ τὰ πρόβατα τῆς φωνῆς αὐτοῦ ἀκούει, καὶ τὰ ἴδια πρόβατα φωνεῖ κατ᾽ ὄνομα καὶ ἐξάγει αὐτά."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2377]]"
+- "[[G0455]]"
+- "[[G2532]]"
+- "[[G4263]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G2398]]"
+- "[[G5455]]"
+- "[[G2596]]"
+- "[[G3686]]"
+- "[[G1806]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 10:3**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.
 <small><sub>**BSB:**</sub></small>
 The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out.
-<small><sub>**Literal:**</sub></small>
-To him the doorkeeper opens, and the sheep to the voice of him listen, and <the> [his] own sheep he shouts to by name and leads out them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.2|<< John 10:2]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.4|John 10:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τούτῳ]]  [[G3588\|ὁ]]  [[G2377\|θυρωρὸς]]  [[G0455\|ἀνοίγει,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούει,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2398\|ἴδια]]  [[G4263\|πρόβατα]]  [[G5455\|φωνεῖ]]  [[G2596\|κατ᾽]]  [[G3686\|ὄνομα]]  [[G2532\|καὶ]]  [[G1806\|ἐξάγει]]  [[G0846\|αὐτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.2|<< John 10:2]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.4|John 10:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

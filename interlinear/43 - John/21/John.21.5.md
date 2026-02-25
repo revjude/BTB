@@ -1,10 +1,55 @@
+---
+title: John 21:5
+type: Verse
+kjv: "Then Jesus saith unto them, Children, have ye any meat? They answered him, No."
+bsb: "So He called out to them, “Children, do you have any fish?” “No,” they answered."
+jesus_said: "Children, have ye any meat?"
+greek: "Λέγει οὖν αὐτοῖς ὁ Ἰησοῦς· παιδία, μή τι προσφάγιον ἔχετε; ἀπεκρίθησαν αὐτῷ· οὔ."
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3813]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G4371]]"
+- "[[G2192]]"
+- "[[G0611]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **John 21:5**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus saith unto them, Children, have ye any meat? They answered him, No.
 <small><sub>**BSB:**</sub></small>
 So He called out to them, “Children, do you have any fish?” “No,” they answered.
-<small><sub>**Literal:**</sub></small>
-Says therefore to them <the> Jesus; Children, Surely not any fish have you? They answered to Him; No.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.4|<< John 21:4]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.6|John 21:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3813\|παιδία,]]  [[G3361\|μή]]  [[G5100\|τι]]  [[G4371\|προσφάγιον]]  [[G2192\|ἔχετε;]]  [[G0611\|ἀπεκρίθησαν]]  [[G0846\|αὐτῷ·]]  [[G3756\|οὔ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.4|<< John 21:4]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.6|John 21:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

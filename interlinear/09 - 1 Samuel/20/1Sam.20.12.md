@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 20:12
+type: Verse
+kjv: "And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;"
+bsb: "and Jonathan said, “By the LORD, the God of Israel, I will sound out my father by this time tomorrow or the next day. If he is favorable toward you, will I not send for you and tell you?"
+hebrew: "וַיֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל־ דָּוִ֗ד יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ כִּֽי־ אֶחְקֹ֣ר אֶת־ אָבִ֗י כָּעֵ֤ת׀ מָחָר֙ הַשְּׁלִשִׁ֔ית וְהִנֵּה־ ט֖וֹב אֶל־ דָּוִ֑ד וְלֹֽא־ אָז֙ אֶשְׁלַ֣ח אֵלֶ֔יךָ וְגָלִ֖יתִי אֶת־ אָזְנֶֽךָ׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3083H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H2713]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H9015]]"
+- "[[H4279]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2896A]]"
+- "[[H3808]]"
+- "[[H0227A]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H1540H]]"
+- "[[H0241I]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:12**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, [or] the third [day], and, behold, [if there be] good toward David, and I then send not unto thee, and shew it thee;
 <small><sub>**BSB:**</sub></small>
 and Jonathan said, “By the LORD, the God of Israel, I will sound out my father by this time tomorrow or the next day. If he is favorable toward you, will I not send for you and tell you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3083H\|יְהוֹנָתָ֜ן]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2713\|אֶחְקֹ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H9004\|כָּ]][[H6256\|עֵ֤ת]][[H9015\|׀]] [[H4279\|מָחָר֙]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁ֔ית]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H2896A\|ט֖וֹב]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0227A\|אָז֙]] [[H7971G\|אֶשְׁלַ֣ח]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H1540H\|גָלִ֖יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0241I\|אָזְנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.11|<< 1 Samuel 20:11]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.13|1 Samuel 20:13 >>]]</td></tr></table>
 

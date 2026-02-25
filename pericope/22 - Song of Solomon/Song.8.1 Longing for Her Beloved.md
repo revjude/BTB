@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Longing for Her Beloved
+type: Pericope
 pericope: "[[Song.8.1 Longing for Her Beloved|Longing for Her Beloved]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 8
 book/chapter: "[[Song.8|Song of Solomon 8]]"
-genre:
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 4
 verses:
 - "[[Song.8.1]]"
 - "[[Song.8.2]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Song.8.4]]"
 ---
 
-[[Song.8|Song of Solomon 8:1 - Song of Solomon 8:4]]
+<small>[[Song.8|Song of Solomon 8:1-4]]</small>
 *Longing for Her Beloved*
 
 [[Song.8.1|1]] O that thou \[wert\] as my brother, that sucked the breasts of my mother! \[when\] I should find thee without, I would kiss thee; yea, I should not be despised.

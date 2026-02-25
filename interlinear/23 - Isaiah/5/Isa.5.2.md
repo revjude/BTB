@@ -1,8 +1,74 @@
+---
+title: Isaiah 5:2
+type: Verse
+kjv: "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes."
+bsb: "He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!"
+hebrew: "וַֽיְעַזְּקֵ֣הוּ וַֽיְסַקְּלֵ֗הוּ וַיִּטָּעֵ֙הוּ֙ שֹׂרֵ֔ק וַיִּ֤בֶן מִגְדָּל֙ בְּתוֹכ֔וֹ וְגַם־ יֶ֖קֶב חָצֵ֣ב בּ֑וֹ וַיְקַ֛ו לַעֲשׂ֥וֹת עֲנָבִ֖ים וַיַּ֥עַשׂ בְּאֻשִֽׁים׃"
+pericope: "[[Isa.5.1 The Song of the Vineyard|The Song of the Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FENCE|FENCE]]"
+- "[[topic FORT|FORT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5823]]"
+- "[[H9033]]"
+- "[[H5619]]"
+- "[[H5193]]"
+- "[[H8321A]]"
+- "[[H1129]]"
+- "[[H4026M]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3342]]"
+- "[[H2672]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H6025]]"
+- "[[H0891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:2**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
 <small><sub>**BSB:**</sub></small>
 He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5823\|יְעַזְּקֵ֣]][[H9033\|הוּ]] [[H9001\|וַֽ]][[H5619\|יְסַקְּלֵ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H5193\|יִּטָּעֵ֙]][[H9033\|הוּ֙]] [[H8321A\|שֹׂרֵ֔ק]] [[H9001\|וַ]][[H1129\|יִּ֤בֶן]] [[H4026M\|מִגְדָּל֙]] [[H9003\|בְּ]][[H8432\|תוֹכ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3342\|יֶ֖קֶב]] [[H2672\|חָצֵ֣ב]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H6960A\|יְקַ֛ו]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H6025\|עֲנָבִ֖ים]] [[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H0891\|בְּאֻשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FENCE|FENCE]] • [[topic FORT|FORT]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WAR|WAR]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.1|<< Isaiah 5:1]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.3|Isaiah 5:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

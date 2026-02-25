@@ -1,8 +1,60 @@
+---
+title: Psalm 40:16
+type: Verse
+kjv: "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified."
+bsb: "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “The LORD be magnified!”"
+hebrew: "יָ֘שִׂ֤ישׂוּ וְיִשְׂמְח֨וּ׀ בְּךָ֗ כָּֽל־ מְבַ֫קְשֶׁ֥יךָ יֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל יְהוָ֑ה אֹֽ֝הֲבֵ֗י תְּשׁוּעָתֶֽךָ׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H7797]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H0559]]"
+- "[[H8548]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H0157G]]"
+- "[[H8668G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:16**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.
 <small><sub>**BSB:**</sub></small>
 May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “The LORD be magnified!”
+<small><sub>**Hebrew:**</sub></small>
+[[H7797\|יָ֘שִׂ֤ישׂוּ]] [[H9002\|וְ]][[H8055\|יִשְׂמְח֨וּ]][[H9015\|׀]] [[H9003\|בְּ]][[H9031\|ךָ֗]] [[H3605\|כָּֽל]][[H9014\|־]] [[H1245\|מְבַ֫קְשֶׁ֥י]][[H9031\|ךָ]] [[H0559\|יֹאמְר֣וּ]] [[H8548\|תָ֭מִיד]] [[H1431\|יִגְדַּ֣ל]] [[H3068G\|יְהוָ֑ה]] [[H0157G\|אֹֽ֝הֲבֵ֗י]] [[H8668G\|תְּשׁוּעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.15|<< Psalms 40:15]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.17|Psalms 40:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

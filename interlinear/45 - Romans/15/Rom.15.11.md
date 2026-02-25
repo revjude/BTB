@@ -1,10 +1,51 @@
+---
+title: Romans 15:11
+type: Verse
+kjv: "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people."
+bsb: "And again: “Praise the Lord, all you Gentiles, and extol Him, all you peoples.”"
+greek: "καὶ πάλιν· αἰνεῖτε πάντα τὰ ἔθνη τὸν κύριον, καὶ ἐπαινεσάτωσαν αὐτὸν πάντες οἱ λαοί."
+pericope: "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G0134]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G2962G]]"
+- "[[G1867]]"
+- "[[G0846]]"
+- "[[G2992]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 15:11**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.
 <small><sub>**BSB:**</sub></small>
 And again: “Praise the Lord, all you Gentiles, and extol Him, all you peoples.”
-<small><sub>**Literal:**</sub></small>
-And again: do praise all  you who [are] Gentiles the Lord, and they should praise Him all the peoples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.10|<< Romans 15:10]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.12|Romans 15:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν·]]  [[G0134\|αἰνεῖτε]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3588\|τὸν]]  [[G2962G\|κύριον,]]  [[G2532\|καὶ]]  [[G1867\|ἐπαινεσάτωσαν]]  [[G0846\|αὐτὸν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2992\|λαοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.10|<< Romans 15:10]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.12|Romans 15:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 15:11** is...
 > $\quad$ referencing: [[LXX.Ps.117.1|Ps 117:1]]

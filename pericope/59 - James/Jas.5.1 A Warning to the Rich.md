@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to the Rich
+type: Pericope
 pericope: "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 5
 book/chapter: "[[Jas.5|James 5]]"
-genre:
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.5.1]]"
 - "[[Jas.5.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.5.6]]"
 ---
 
-[[Jas.5|James 5:1 - James 5:6]]
+<small>[[Jas.5|James 5:1-6]]</small>
 *A Warning to the Rich*
 
 [[Jas.5.1|1]] Go to now, \[ye\] rich men, weep and howl for your miseries that shall come upon \[you\].

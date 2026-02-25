@@ -1,8 +1,51 @@
+---
+title: Hosea 13:9
+type: Verse
+kjv: "O Israel, thou hast destroyed thyself; but in me is thine help."
+bsb: "You are destroyed, O Israel, because you are against Me—against your helper."
+hebrew: "שִֽׁחֶתְךָ֥ יִשְׂרָאֵ֖ל כִּֽי־ בִ֥י בְעֶזְרֶֽךָ׃"
+pericope: "[[Hos.13.9 Death and Resurrection|Death and Resurrection]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7843]]"
+- "[[H9031]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H5828]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:9**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, thou hast destroyed thyself; but in me [is] thine help.
 <small><sub>**BSB:**</sub></small>
 You are destroyed, O Israel, because you are against Me—against your helper.
+<small><sub>**Hebrew:**</sub></small>
+[[H7843\|שִֽׁחֶתְ]][[H9031\|ךָ֥]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בִ֥]][[H9030\|י]] [[H9003\|בְ]][[H5828\|עֶזְרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.8|<< Hosea 13:8]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.10|Hosea 13:10 >>]]</td></tr></table>
 

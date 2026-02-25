@@ -1,8 +1,61 @@
+---
+title: Joel 2:22
+type: Verse
+kjv: "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength."
+bsb: "Do not be afraid, O beasts of the field, for the open pastures have turned green, the trees bear their fruit, and the fig tree and vine yield their best."
+hebrew: "אַל־ תִּֽירְאוּ֙ בַּהֲמ֣וֹת שָׂדַ֔י כִּ֥י דָשְׁא֖וּ נְא֣וֹת מִדְבָּ֑ר כִּֽי־ עֵץ֙ נָשָׂ֣א פִרְי֔וֹ תְּאֵנָ֥ה וָגֶ֖פֶן נָתְנ֥וּ חֵילָֽם׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H0929]]"
+- "[[H7704M]]"
+- "[[H3588A]]"
+- "[[H1876]]"
+- "[[H4999]]"
+- "[[H4057B]]"
+- "[[H6086H]]"
+- "[[H5375H]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H8384]]"
+- "[[H9002]]"
+- "[[H1612]]"
+- "[[H5414G]]"
+- "[[H2428H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:22**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid, O beasts of the field, for the open pastures have turned green, the trees bear their fruit, and the fig tree and vine yield their best.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאוּ֙]] [[H0929\|בַּהֲמ֣וֹת]] [[H7704M\|שָׂדַ֔י]] [[H3588A\|כִּ֥י]] [[H1876\|דָשְׁא֖וּ]] [[H4999\|נְא֣וֹת]] [[H4057B\|מִדְבָּ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6086H\|עֵץ֙]] [[H5375H\|נָשָׂ֣א]] [[H6529\|פִרְי֔]][[H9023\|וֹ]] [[H8384\|תְּאֵנָ֥ה]] [[H9002\|וָ]][[H1612\|גֶ֖פֶן]] [[H5414G\|נָתְנ֥וּ]] [[H2428H\|חֵילָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.21|<< Joel 2:21]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.23|Joel 2:23 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Leviticus 12:7
+type: Verse
+kjv: "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
+bsb: "And the priest will present them before the LORD and make atonement for her; and she shall be ceremonially cleansed from her flow of blood. This is the law for a woman giving birth, whether to a male or to a female."
+hebrew: "וְהִקְרִיב֞וֹ לִפְנֵ֤י יְהוָה֙ וְכִפֶּ֣ר עָלֶ֔יהָ וְטָהֲרָ֖ה מִמְּקֹ֣ר דָּמֶ֑יהָ זֹ֤את תּוֹרַת֙ הַיֹּלֶ֔דֶת לַזָּכָ֖ר א֥וֹ לַנְּקֵבָֽה׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H2891]]"
+- "[[H9006]]"
+- "[[H4726]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H2145]]"
+- "[[H0176A]]"
+- "[[H5347]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:7**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This [is] the law for her that hath born a male or a female.
 <small><sub>**BSB:**</sub></small>
 And the priest will present them before the LORD and make atonement for her; and she shall be ceremonially cleansed from her flow of blood. This is the law for a woman giving birth, whether to a male or to a female.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִיב֞]][[H9033\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9001\|וְ]][[H3722A\|כִפֶּ֣ר]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וְ]][[H2891\|טָהֲרָ֖ה]] [[H9006\|מִ]][[H4726\|מְּקֹ֣ר]] [[H1818\|דָּמֶ֑י]][[H9024\|הָ]] [[H2063\|זֹ֤את]] [[H8451\|תּוֹרַת֙]] [[H9009\|הַ]][[H3205\|יֹּלֶ֔דֶת]] [[H9005\|לַ]][[H2145\|זָּכָ֖ר]] [[H0176A\|א֥וֹ]] [[H9005\|לַ]][[H5347\|נְּקֵבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.6|<< Leviticus 12:6]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.8|Leviticus 12:8 >>]]</td></tr></table>
 

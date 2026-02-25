@@ -1,10 +1,52 @@
+---
+title: Romans 6:20
+type: Verse
+kjv: "For when ye were the servants of sin, ye were free from righteousness."
+bsb: "For when you were slaves to sin, you were free of obligation to righteousness."
+greek: "ὅτε γὰρ δοῦλοι ἦτε τῆς ἁμαρτίας, ἐλεύθεροι ἦτε τῇ δικαιοσύνῃ."
+pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3753]]"
+- "[[G1063]]"
+- "[[G1401]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1658]]"
+- "[[G1343]]"
+texts:
+- NKO
+---
+
 **Romans 6:20**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when ye were the servants of sin, ye were free from righteousness.
 <small><sub>**BSB:**</sub></small>
 For when you were slaves to sin, you were free of obligation to righteousness.
-<small><sub>**Literal:**</sub></small>
-When for slaves you were <the> of sin, free you were <the> from righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.19|<< Romans 6:19]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.21|Romans 6:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1063\|γὰρ]]  [[G1401\|δοῦλοι]]  [[G1510\|ἦτε]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας,]]  [[G1658\|ἐλεύθεροι]]  [[G1510\|ἦτε]]  [[G3588\|τῇ]]  [[G1343\|δικαιοσύνῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.19|<< Romans 6:19]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.21|Romans 6:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

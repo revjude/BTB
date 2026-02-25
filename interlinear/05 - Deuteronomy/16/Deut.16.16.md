@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 16:16
+type: Verse
+kjv: "Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:"
+bsb: "Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles. No one should appear before the LORD empty-handed."
+hebrew: "שָׁל֣וֹשׁ פְּעָמִ֣ים׀ בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל־ זְכוּרְךָ֜ אֶת־ פְּנֵ֣י׀ יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת־ פְּנֵ֥י יְהוָ֖ה רֵיקָֽם׃"
+pericope: "[[Deut.16.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PENTECOST|PENTECOST]]"
+strongs:
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2138]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H2282]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H9002]]"
+- "[[H7620G]]"
+- "[[H5521]]"
+- "[[H3808]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:16**<big><big>[[Deut.16.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:
 <small><sub>**BSB:**</sub></small>
 Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles. No one should appear before the LORD empty-handed.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שָׁל֣וֹשׁ]] [[H6471\|פְּעָמִ֣ים]][[H9015\|׀]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֡ה]] [[H7200G\|יֵרָאֶ֨ה]] [[H3605\|כָל]][[H9014\|־]] [[H2138\|זְכוּרְ]][[H9021\|ךָ֜]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|יִבְחָ֔ר]] [[H9003\|בְּ]][[H2282\|חַ֧ג]] [[H9009\|הַ]][[H4682\|מַּצּ֛וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H2282\|חַ֥ג]] [[H9009\|הַ]][[H7620G\|שָּׁבֻע֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H2282\|חַ֣ג]] [[H9009\|הַ]][[H5521\|סֻּכּ֑וֹת]] [[H9002\|וְ]][[H3808\|לֹ֧א]] [[H7200G\|יֵרָאֶ֛ה]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PASSOVER|PASSOVER]] • [[topic PENTECOST|PENTECOST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.15|<< Deuteronomy 16:15]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.17|Deuteronomy 16:17 >>]]</td></tr></table>
 

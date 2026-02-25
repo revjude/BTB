@@ -1,10 +1,67 @@
+---
+title: 2 Peter 2:17
+type: Verse
+kjv: "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever."
+bsb: "These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them."
+greek: "οὗτοί εἰσιν πηγαὶ ἄνυδροι καὶ ὁμίχλαι ὑπὸ λαίλαπος ἐλαυνόμεναι, οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται.¶"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIST|MIST]]"
+- "[[topic WELLS|WELLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4077]]"
+- "[[G0504]]"
+- "[[G2532]]"
+- "[[G6068]]"
+- "[[G5259G]]"
+- "[[G2978]]"
+- "[[G1643]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2217]]"
+- "[[G4655]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G5083H]]"
+texts:
+- NKO
+- no
+- N(k)O
+- K
+---
+
 **2 Peter 2:17**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
 <small><sub>**BSB:**</sub></small>
 These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them.
-<small><sub>**Literal:**</sub></small>
-These are springs without water and mists by storm being driven, for whom <the> gloom <the> of darkness into age has been reserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.16|<< 2 Peter 2:16]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.18|2 Peter 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G4077\|πηγαὶ]]  [[G0504\|ἄνυδροι]]  [[G2532\|καὶ]]  [[G6068\|ὁμίχλαι]]  [[G5259G\|ὑπὸ]]  [[G2978\|λαίλαπος]]  [[G1643\|ἐλαυνόμεναι,]]  [[G3739\|οἷς]]  [[G3588\|ὁ]]  [[G2217\|ζόφος]]  [[G3588\|τοῦ]]  [[G4655\|σκότους]]  [[G1519\|εἰς]]  [[G0165H\|αἰῶνα]]  [[G5083H\|τετήρηται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic APOSTASY|APOSTASY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIST|MIST]] • [[topic WELLS|WELLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.16|<< 2 Peter 2:16]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.18|2 Peter 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,62 @@
+---
+title: LXX 2 Samuel 2:6
+type: Verse
+lxx: "And now, may the lord perform mercy and truth with you; and indeed I will do with you  this good that you did  in this matter."
+greek: "και νυν ποιήσαι κύριος μεθ΄ υμών έλεος και αλήθειαν και γε εγώ ποιήσω μεθ΄ υμών το αγαθόν τούτο ότι εποιήσατε το ρήμα τούτο"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G4160]]"
+- "[[G2962]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1656]]"
+- "[[G2532]]"
+- "[[G0225]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G3778]]"
+- "[[G3754]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+---
+
 **LXX 2 Samuel 2:6** 
 <small><sub>**LXX:**</sub></small>
 And now, may \[the\] <span class="smallcaps">lord</span> perform mercy and truth with you; and indeed I will do with you  this good that you did  \[in\] this matter. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3568\|νυν]] [[G4160\|ποιήσαι]] [[G2962\|κύριος]] [[G3326\|μεθ΄]] [[G1473\|υμών]] [[G1656\|έλεος]] [[G2532\|και]] [[G0225\|αλήθειαν]] [[G2532\|και]] [[G1065\|γε]] [[G1473\|εγώ]] [[G4160\|ποιήσω]] [[G3326\|μεθ΄]] [[G1473\|υμών]] [[G3588\|το]] [[G0018\|αγαθόν]] [[G3778\|τούτο]] [[G3754\|ότι]] [[G4160\|εποιήσατε]] [[G3588\|το]] [[G4487\|ρήμα]] [[G3778\|τούτο]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEBRON|HEBRON]] • [[topic JUDAH|JUDAH]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
 
@@ -26,6 +82,6 @@ And now, may \[the\] <span class="smallcaps">lord</span> perform mercy and truth
 | you did | **<big>[[G4160\|εποιήσατε]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | \[in\] this matter. | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
-[[2Sam.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
 
 

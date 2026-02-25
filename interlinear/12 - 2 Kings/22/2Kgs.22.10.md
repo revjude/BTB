@@ -1,8 +1,62 @@
+---
+title: 2 Kings 22:10
+type: Verse
+kjv: "And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king."
+bsb: "Moreover, Shaphan the scribe told the king, “Hilkiah the priest has given me a book.” And Shaphan read it in the presence of the king."
+hebrew: "וַיַּגֵּ֞ד שָׁפָ֤ן הַסֹּפֵר֙ לַמֶּ֣לֶךְ לֵאמֹ֔ר סֵ֚פֶר נָ֣תַן לִ֔י חִלְקִיָּ֖ה הַכֹּהֵ֑ן וַיִּקְרָאֵ֥הוּ שָׁפָ֖ן לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H8227B]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H5612H]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H2518H]]"
+- "[[H3548]]"
+- "[[H7121J]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:10**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king.
 <small><sub>**BSB:**</sub></small>
 Moreover, Shaphan the scribe told the king, “Hilkiah the priest has given me a book.” And Shaphan read it in the presence of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֞ד]] [[H8227B\|שָׁפָ֤ן]] [[H9009\|הַ]][[H5608B\|סֹּפֵר֙]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5612H\|סֵ֚פֶר]] [[H5414G\|נָ֣תַן]] [[H9005\|לִ֔]][[H9030\|י]] [[H2518H\|חִלְקִיָּ֖ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וַ]][[H7121J\|יִּקְרָאֵ֥]][[H9033\|הוּ]] [[H8227B\|שָׁפָ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HILKIAH|HILKIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.9|<< 2 Kings 22:9]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.11|2 Kings 22:11 >>]]</td></tr></table>
 

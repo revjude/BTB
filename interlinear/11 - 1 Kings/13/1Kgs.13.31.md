@@ -1,8 +1,69 @@
+---
+title: 1 Kings 13:31
+type: Verse
+kjv: "And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:"
+bsb: "After he had buried him, the prophet said to his sons, “When I die, you must bury me in the tomb where the man of God is buried. Lay my bones beside his bones,"
+hebrew: "וַיְהִי֮ אַחֲרֵ֣י קָבְר֣וֹ אֹתוֹ֒ וַיֹּ֤אמֶר אֶל־ בָּנָיו֙ לֵאמֹ֔ר בְּמוֹתִי֙ וּקְבַרְתֶּ֣ם אֹתִ֔י בַּקֶּ֕בֶר אֲשֶׁ֛ר אִ֥ישׁ הָאֱלֹהִ֖ים קָב֣וּר בּ֑וֹ אֵ֚צֶל עַצְמֹתָ֔יו הַנִּ֖יחוּ אֶת־ עַצְמֹתָֽי׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H6912]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H4194]]"
+- "[[H9020]]"
+- "[[H9030]]"
+- "[[H6913]]"
+- "[[H0834A]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0681]]"
+- "[[H6106G]]"
+- "[[H5117]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:31**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God [is] buried; lay my bones beside his bones:
 <small><sub>**BSB:**</sub></small>
 After he had buried him, the prophet said to his sons, “When I die, you must bury me in the tomb where the man of God is buried. Lay my bones beside his bones,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֮]] [[H0310A\|אַחֲרֵ֣י]] [[H6912\|קָבְר֣]][[H9043\|וֹ]] [[H0853\|אֹת]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנָי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9003\|בְּ]][[H4194\|מוֹתִ]][[H9020\|י֙]] [[H9001\|וּ]][[H6912\|קְבַרְתֶּ֣ם]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H9003\|בַּ]][[H6913\|קֶּ֕בֶר]] [[H0834A\|אֲשֶׁ֛ר]] [[H0376G\|אִ֥ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H6912\|קָב֣וּר]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H0681\|אֵ֚צֶל]] [[H6106G\|עַצְמֹתָ֔י]][[H9023\|ו]] [[H5117\|הַנִּ֖יחוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.30|<< 1 Kings 13:30]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.32|1 Kings 13:32 >>]]</td></tr></table>
 

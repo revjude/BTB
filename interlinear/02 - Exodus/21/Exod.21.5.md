@@ -1,8 +1,65 @@
+---
+title: Exodus 21:5
+type: Verse
+kjv: "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:"
+bsb: "But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’"
+hebrew: "וְאִם־ אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֙בְתִּי֙ אֶת־ אֲדֹנִ֔י אֶת־ אִשְׁתִּ֖י וְאֶת־ בָּנָ֑י לֹ֥א אֵצֵ֖א חָפְשִֽׁי׃"
+pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic EAR|EAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H5650]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H2670]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:5**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:
 <small><sub>**BSB:**</sub></small>
 But if the servant declares, ‘I love my master and my wife and children; I do not want to go free,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0559\|אָמֹ֤ר]] [[H0559\|יֹאמַר֙]] [[H9009\|הָ]][[H5650\|עֶ֔בֶד]] [[H0157G\|אָהַ֙בְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֑]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H3318G\|אֵצֵ֖א]] [[H2670\|חָפְשִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic EAR|EAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.4|<< Exodus 21:4]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.6|Exodus 21:6 >>]]</td></tr></table>
 

@@ -1,6 +1,68 @@
+---
+title: LXX Joel 2:3
+type: Verse
+lxx: "The things before him a consuming fire; and behind him a flame being lighted. As a paradise of delicacy is the earth before his face, and the things behind him a plain of extinction; and ones escaping will not be to him."
+greek: "τα έμπροσθεν αυτού πυρ αναλίσκον και οπίσω αυτού αναπτομένη φλοξ ως παράδεισος τρυφής η γη προ προσώπου αυτού και τα οπίσω αυτού πεδίον αφανισμού και ανασωζόμενος ουκ έσται αυτώ"
+original_language: Greek
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1715]]"
+- "[[G1473]]"
+- "[[G4442]]"
+- "[[G0355]]"
+- "[[G2532]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G0381]]"
+- "[[G5395]]"
+- "[[G5613]]"
+- "[[G3857]]"
+- "[[G5172]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G8676]]"
+- "[[G0854]]"
+- "[[G2532]]"
+- "[[G6314]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1473]]"
+---
+
 **LXX Joel 2:3** 
 <small><sub>**LXX:**</sub></small>
 The \[things\] before him a consuming fire; and behind him a flame being lighted. As a paradise of delicacy \[is\] the earth before his face, and the \[things\] behind him a plain of extinction; and ones escaping will not be to him. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τα]] [[G1715\|έμπροσθεν]] [[G1473\|αυτού]] [[G4442\|πυρ]] [[G0355\|αναλίσκον]] [[G2532\|και]] [[G3694\|οπίσω]] [[G1473\|αυτού]] [[G0381\|αναπτομένη]] [[G5395\|φλοξ]] [[G5613\|ως]] [[G3857\|παράδεισος]] [[G5172\|τρυφής]] [[G3588\|η]] [[G1093\|γη]] [[G4253\|προ]] [[G4383\|προσώπου]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τα]] [[G3694\|οπίσω]] [[G1473\|αυτού]] [[G8676\|πεδίον]] [[G0854\|αφανισμού]] [[G2532\|και]] [[G6314\|ανασωζόμενος]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G1473\|αυτώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Joel.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.4|Joel 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +100,6 @@ The \[things\] before him a consuming fire; and behind him a flame being lighted
 | will not | **<big>[[G3756\|ουκ]]</big>** |
 | be | **<big>[[G1510\|έσται]]</big>** |
 | to him. | **<big>[[G1473\|αυτώ]]</big>** |
-[[Joel.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.4|Joel 2:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.4|Joel 2:4 >>]]</td></tr></table>
 
 

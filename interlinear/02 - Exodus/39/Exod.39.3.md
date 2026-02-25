@@ -1,8 +1,71 @@
+---
+title: Exodus 39:3
+type: Verse
+kjv: "And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, with cunning work."
+bsb: "They hammered out thin sheets of gold and cut threads from them to interweave with the blue, purple, and scarlet yarn, and fine linen—the work of a skilled craftsman."
+hebrew: "וַֽיְרַקְּע֞וּ אֶת־ פַּחֵ֣י הַזָּהָב֮ וְקִצֵּ֣ץ פְּתִילִם֒ לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ מַעֲשֵׂ֖ה חֹשֵֽׁב׃"
+pericope: "[[Exod.39.1 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7554]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6341B]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H7112]]"
+- "[[H6616]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:3**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did beat the gold into thin plates, and cut [it into] wires, to work [it] in the blue, and in the purple, and in the scarlet, and in the fine linen, [with] cunning work.
 <small><sub>**BSB:**</sub></small>
 They hammered out thin sheets of gold and cut threads from them to interweave with the blue, purple, and scarlet yarn, and fine linen—the work of a skilled craftsman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7554\|יְרַקְּע֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6341B\|פַּחֵ֣י]] [[H9009\|הַ]][[H2091\|זָּהָב֮]] [[H9001\|וְ]][[H7112\|קִצֵּ֣ץ]] [[H6616\|פְּתִילִם֒]] [[H9005\|לַ]][[H6213A\|עֲשׂ֗וֹת]] [[H9003\|בְּ]][[H8432\|ת֤וֹךְ]] [[H9009\|הַ]][[H8504\|תְּכֵ֙לֶת֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָֽ]][[H0713\|אַרְגָּמָ֔ן]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|ת֛וֹךְ]] [[H8438B\|תּוֹלַ֥עַת]] [[H9009\|הַ]][[H8144\|שָּׁנִ֖י]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H8336B\|שֵּׁ֑שׁ]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H2803G\|חֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic GOLD|GOLD]] • [[topic PRIEST|PRIEST]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.2|<< Exodus 39:2]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.4|Exodus 39:4 >>]]</td></tr></table>
 

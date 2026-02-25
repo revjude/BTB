@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 3:25
+type: Verse
+kjv: "Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest."
+bsb: "Surely you realize that Abner son of Ner came to deceive you and to track your movements and all that you are doing.”"
+hebrew: "יָדַ֙עְתָּ֙ אֶת־ אַבְנֵ֣ר בֶּן־ נֵ֔ר כִּ֥י לְפַתֹּתְךָ֖ בָּ֑א וְלָדַ֜עַת אֶת־ מוֹצָֽאֲךָ֙ וְאֶת־ מ֣וֹבָאֶ֔ךָ וְלָדַ֕עַת אֵ֛ת כָּל־ אֲשֶׁ֥ר אַתָּ֖ה עֹשֶֽׂה׃"
+pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0074]]"
+- "[[H1121A]]"
+- "[[H5369G]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H6601B]]"
+- "[[H9031]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H4161]]"
+- "[[H9021]]"
+- "[[H3996]]"
+- "[[H4126]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 3:25**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest.
 <small><sub>**BSB:**</sub></small>
 Surely you realize that Abner son of Ner came to deceive you and to track your movements and all that you are doing.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֙עְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0074\|אַבְנֵ֣ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֔ר]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H6601B\|פַתֹּתְ]][[H9031\|ךָ֖]] [[H0935G\|בָּ֑א]] [[H9002\|וְ]][[H9005\|לָ]][[H3045\|דַ֜עַת]] [[H0853\|אֶת]][[H9014\|־]] [[H4161\|מוֹצָֽאֲ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4126\|מ֣וֹבָאֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לָ]][[H3045\|דַ֕עַת]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859A\|אַתָּ֖ה]] [[H6213A\|עֹשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.24|<< 2 Samuel 3:24]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.26|2 Samuel 3:26 >>]]</td></tr></table>
 
@@ -29,7 +86,7 @@ Surely you realize that Abner son of Ner came to deceive you and to track your m
 | [are] doing  |**<big>&#8207;[[H6213A\|עֹשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.24|<< 2 Samuel 3:24]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.26|2 Samuel 3:26 >>]]</td></tr></table>
 
-[^1]: comings in your  | **<big>[[H9021|ךָ]]</big><big>[[H3996|מְבוֹאֶ]]</big> ** | mi.vo.'e.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: comings in your  | **<big>[[H9021|ךָ]]</big><big>[[H3996|מְבוֹאֶ]]</big> ** | mi.vo.'e.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: comings in your  | **<big>[[H3996|מְבוֹאֶ]]</big><big>[[H9021|ךָ]]</big> ** | mi.vo.'e.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: comings in your  | **<big>[[H3996|מְבוֹאֶ]]</big><big>[[H9021|ךָ]]</big> ** | mi.vo.'e.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מֹ֣בָואֶ֔ךָ</big></span>**
 

@@ -1,8 +1,66 @@
+---
+title: Judges 8:6
+type: Verse
+kjv: "And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?"
+bsb: "But the leaders of Succoth asked, “Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your army?”"
+hebrew: "וַיֹּ֙אמֶר֙ שָׂרֵ֣י סֻכּ֔וֹת הֲ֠כַף זֶ֧בַח וְצַלְמֻנָּ֛ע עַתָּ֖ה בְּיָדֶ֑ךָ כִּֽי־ נִתֵּ֥ן לִֽצְבָאֲךָ֖ לָֽחֶם׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8269]]"
+- "[[H5523G]]"
+- "[[H9008]]"
+- "[[H3709G]]"
+- "[[H2078]]"
+- "[[H9002]]"
+- "[[H6759]]"
+- "[[H6258]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H6635A]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:6**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes of Succoth said, [Are] the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?
 <small><sub>**BSB:**</sub></small>
 But the leaders of Succoth asked, “Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your army?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H8269\|שָׂרֵ֣י]] [[H5523G\|סֻכּ֔וֹת]] [[H9008\|הֲ֠]][[H3709G\|כַף]] [[H2078\|זֶ֧בַח]] [[H9002\|וְ]][[H6759\|צַלְמֻנָּ֛ע]] [[H6258\|עַתָּ֖ה]] [[H9003\|בְּ]][[H3027H\|יָדֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נִתֵּ֥ן]] [[H9005\|לִֽ]][[H6635A\|צְבָאֲ]][[H9021\|ךָ֖]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SUCCOTH|SUCCOTH]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.5|<< Judges 8:5]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.7|Judges 8:7 >>]]</td></tr></table>
 

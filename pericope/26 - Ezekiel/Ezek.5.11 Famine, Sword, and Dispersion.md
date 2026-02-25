@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Famine, Sword, and Dispersion
+type: Pericope
 pericope: "[[Ezek.5.11 Famine, Sword, and Dispersion|Famine, Sword, and Dispersion]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 5
 book/chapter: "[[Ezek.5|Ezekiel 5]]"
-genre:
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.5.11]]"
 - "[[Ezek.5.12]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.5.17]]"
 ---
 
-[[Ezek.5|Ezekiel 5:11 - Ezekiel 5:17]]
+<small>[[Ezek.5|Ezekiel 5:11-17]]</small>
 *Famine, Sword, and Dispersion*
 
 [[Ezek.5.11|11]] Wherefore, \[as\] I live, saith the Lord GOD; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish \[thee\]; neither shall mine eye spare, neither will I have any pity.

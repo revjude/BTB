@@ -1,8 +1,60 @@
+---
+title: 1 Kings 13:30
+type: Verse
+kjv: "And he laid his carcase in his own grave; and they mourned over him, saying, Alas, my brother!"
+bsb: "Then he laid the body in his own tomb, and they lamented over him, “Oh, my brother!”"
+hebrew: "וַיַּנַּ֥ח אֶת־ נִבְלָת֖וֹ בְּקִבְר֑וֹ וַיִּסְפְּד֥וּ עָלָ֖יו ה֥וֹי אָחִֽי׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5038]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H5594]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1945]]"
+- "[[H0251I]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:30**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he laid his carcase in his own grave; and they mourned over him, [saying], Alas, my brother!
 <small><sub>**BSB:**</sub></small>
 Then he laid the body in his own tomb, and they lamented over him, “Oh, my brother!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5117\|יַּנַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלָת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H6913\|קִבְר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5594\|יִּסְפְּד֥וּ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H1945\|ה֥וֹי]] [[H0251I\|אָחִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.29|<< 1 Kings 13:29]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.31|1 Kings 13:31 >>]]</td></tr></table>
 

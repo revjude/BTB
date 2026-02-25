@@ -1,8 +1,65 @@
+---
+title: Exodus 21:2
+type: Verse
+kjv: "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing."
+bsb: "If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything."
+hebrew: "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחָפְשִׁ֖י חִנָּֽם׃"
+pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7069]]"
+- "[[H5650]]"
+- "[[H5680]]"
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H5647G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7637]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H2670]]"
+- "[[H2600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:2**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
 <small><sub>**BSB:**</sub></small>
 If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7069\|תִקְנֶה֙]] [[H5650\|עֶ֣בֶד]] [[H5680\|עִבְרִ֔י]] [[H8337\|שֵׁ֥שׁ]] [[H8141\|שָׁנִ֖ים]] [[H5647G\|יַעֲבֹ֑ד]] [[H9002\|וּ]][[H9003\|בַ֨]][[H7637\|שְּׁבִעִ֔ת]] [[H3318G\|יֵצֵ֥א]] [[H9005\|לַֽ]][[H2670\|חָפְשִׁ֖י]] [[H2600\|חִנָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic ISRAEL|ISRAEL]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.1|<< Exodus 21:1]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.3|Exodus 21:3 >>]]</td></tr></table>
 

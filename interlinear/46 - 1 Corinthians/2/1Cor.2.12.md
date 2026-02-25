@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 2:12
+type: Verse
+kjv: "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."
+bsb: "We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us."
+greek: "ἡμεῖς δὲ οὐ τὸ πνεῦμα τοῦ κόσμου ἐλάβομεν ἀλλὰ τὸ πνεῦμα τὸ ἐκ τοῦ θεοῦ, ἵνα εἰδῶμεν τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν·"
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G2889]]"
+- "[[G2983]]"
+- "[[G0235]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G6063]]"
+- "[[G5259G]]"
+- "[[G5483]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 2:12**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
 <small><sub>**BSB:**</sub></small>
 We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us.
-<small><sub>**Literal:**</sub></small>
-We ourselves now not the spirit of the world have received but the Spirit who [is] from <the> God, that we may know the [things] by <the> God having been granted to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.11|<< 1 Corinthians 2:11]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.13|1 Corinthians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G3756\|οὐ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G2983\|ἐλάβομεν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G6063\|εἰδῶμεν]]  [[G3588\|τὰ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5483\|χαρισθέντα]]  [[G3165\|ἡμῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.11|<< 1 Corinthians 2:11]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.13|1 Corinthians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

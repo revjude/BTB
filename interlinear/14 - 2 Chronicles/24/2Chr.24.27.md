@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 24:27
+type: Verse
+kjv: "Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead."
+bsb: "The accounts of the sons of Joash and the many pronouncements about him, and of the restoration of the house of God, are indeed written in the Treatise of the Book of the Kings. And his son Amaziah reigned in his place."
+hebrew: "וּבָנָ֞יו יִ֧רֶ֞ב הַמַּשָּׂ֣א עָלָ֗יו וִיסוֹד֙ בֵּ֣ית הָאֱלֹהִ֔ים הִנָּ֣ם כְּתוּבִ֔ים עַל־ מִדְרַ֖שׁ סֵ֣פֶר הַמְּלָכִ֑ים וַיִּמְלֹ֛ךְ אֲמַצְיָ֥הוּ בְנ֖וֹ תַּחְתָּֽיו׃ פ"
+pericope: "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOASH|JOASH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7230]]"
+- "[[H7235A]]"
+- "[[H9009]]"
+- "[[H4853B]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3245]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H9014]]"
+- "[[H4097]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H0558G]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 24:27**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [concerning] his sons, and the greatness of the burdens [laid] upon him, and the repairing of the house of God, behold, they [are] written in the story of the book of the kings. And Amaziah his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 The accounts of the sons of Joash and the many pronouncements about him, and of the restoration of the house of God, are indeed written in the Treatise of the Book of the Kings. And his son Amaziah reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בָנָ֞י]][[H9023\|ו]] [[H7235A\|יִ֧רֶ֞ב]] [[H9009\|הַ]][[H4853B\|מַּשָּׂ֣א]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9002\|וִ]][[H3245\|יסוֹד֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H4097\|מִדְרַ֖שׁ]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֑ים]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H0558G\|אֲמַצְיָ֥הוּ]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOASH|JOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.26|<< 2 Chronicles 24:26]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.1|2 Chronicles 25:1 >>]]</td></tr></table>
 
@@ -24,9 +82,9 @@ The accounts of the sons of Joash and the many pronouncements about him, and of 
 | and he became king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֛ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֥הוּ]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.26|<< 2 Chronicles 24:26]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.1|2 Chronicles 25:1 >>]]</td></tr></table>
 
-[^1]: and [the] abundance of  | **<big>[[H7230|רֹב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> rov<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: and [the] abundance of  | **<big>[[H9002|וְ]]</big><big>[[H7230|רֹב]]</big> ** | ve.<small><sup>[[HC]]</sup></small> rov<small><sup>[[HNcbsc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>וִ֧רֶ֞ב</big></span>**
 

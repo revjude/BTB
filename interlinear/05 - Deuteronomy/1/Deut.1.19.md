@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 1:19
+type: Verse
+kjv: "And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea."
+bsb: "And just as the LORD our God had commanded us, we set out from Horeb and went toward the hill country of the Amorites, through all the vast and terrifying wilderness you have seen. When we reached Kadesh-barnea,"
+hebrew: "וַנִּסַּ֣ע מֵחֹרֵ֗ב וַנֵּ֡לֶךְ אֵ֣ת כָּל־ הַמִּדְבָּ֣ר הַגָּדוֹל֩ וְהַנּוֹרָ֨א הַה֜וּא אֲשֶׁ֣ר רְאִיתֶ֗ם דֶּ֚רֶךְ הַ֣ר הָֽאֱמֹרִ֔י כַּאֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵ֖ינוּ אֹתָ֑נוּ וַנָּבֹ֕א עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic HOREB|HOREB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H2722]]"
+- "[[H1980I]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372G]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H1870K]]"
+- "[[H2022H]]"
+- "[[H0567]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9035]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H6947]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:19**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.
 <small><sub>**BSB:**</sub></small>
 And just as the LORD our God had commanded us, we set out from Horeb and went toward the hill country of the Amorites, through all the vast and terrifying wilderness you have seen. When we reached Kadesh-barnea,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|נִּסַּ֣ע]] [[H9006\|מֵ]][[H2722\|חֹרֵ֗ב]] [[H9001\|וַ]][[H1980I\|נֵּ֡לֶךְ]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֣ר]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֩]] [[H9002\|וְ]][[H9009\|הַ]][[H3372G\|נּוֹרָ֨א]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רְאִיתֶ֗ם]] [[H1870K\|דֶּ֚רֶךְ]] [[H2022H\|הַ֣ר]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֛ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H0853\|אֹתָ֑]][[H9035\|נוּ]] [[H9001\|וַ]][[H0935G\|נָּבֹ֕א]] [[H5704\|עַ֖ד]] [[H6947\|קָדֵ֥שׁ]] [[H6947\|בַּרְנֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic HOREB|HOREB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.18|<< Deuteronomy 1:18]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.20|Deuteronomy 1:20 >>]]</td></tr></table>
 

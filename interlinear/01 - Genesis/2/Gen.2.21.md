@@ -1,8 +1,67 @@
+---
+title: Genesis 2:21
+type: Verse
+kjv: "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+bsb: "So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh."
+hebrew: "וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים׀ תַּרְדֵּמָ֛ה עַל־ הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H8639]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H3462]]"
+- "[[H3947G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H6763]]"
+- "[[H9023]]"
+- "[[H5462]]"
+- "[[H1320]]"
+- "[[H8478H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:21**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
 <small><sub>**BSB:**</sub></small>
 So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|יַּפֵּל֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהִ֧ים]][[H9015\|׀]] [[H8639\|תַּרְדֵּמָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0120H\|אָדָ֖ם]] [[H9001\|וַ]][[H3462\|יִּישָׁ֑ן]] [[H9001\|וַ]][[H3947G\|יִּקַּ֗ח]] [[H0259\|אַחַת֙]] [[H9006\|מִ]][[H6763\|צַּלְעֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H5462\|יִּסְגֹּ֥ר]] [[H1320\|בָּשָׂ֖ר]] [[H8478H\|תַּחְתֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic GOD|GOD]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.20|<< Genesis 2:20]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.22|Genesis 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

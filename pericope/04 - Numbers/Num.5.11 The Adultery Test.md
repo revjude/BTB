@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Adultery Test
+type: Pericope
 pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 5
 book/chapter: "[[Num.5|Numbers 5]]"
-genre:
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 21
 verses:
 - "[[Num.5.11]]"
 - "[[Num.5.12]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Num.5.31]]"
 ---
 
-[[Num.5|Numbers 5:11 - Numbers 5:31]]
+<small>[[Num.5|Numbers 5:11-31]]</small>
 *The Adultery Test*
 
 [[Num.5.11|11]] And the LORD spake unto Moses, saying,

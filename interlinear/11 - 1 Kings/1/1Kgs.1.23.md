@@ -1,8 +1,68 @@
+---
+title: 1 Kings 1:23
+type: Verse
+kjv: "And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground."
+bsb: "So the king was told, “Nathan the prophet is here.” And Nathan went in and bowed facedown before the king."
+hebrew: "וַיַּגִּ֤ידוּ לַמֶּ֙לֶךְ֙ לֵאמֹ֔ר הִנֵּ֖ה נָתָ֣ן הַנָּבִ֑יא וַיָּבֹא֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וַיִּשְׁתַּ֧חוּ לַמֶּ֛לֶךְ עַל־ אַפָּ֖יו אָֽרְצָה׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H5416H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0935G]]"
+- "[[H6440G]]"
+- "[[H7812]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0639I]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:23**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.
 <small><sub>**BSB:**</sub></small>
 So the king was told, “Nathan the prophet is here.” And Nathan went in and bowed facedown before the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֤ידוּ]] [[H9005\|לַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּ֖ה]] [[H5416H\|נָתָ֣ן]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֧חוּ]] [[H9005\|לַ]][[H4428G\|מֶּ֛לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0639I\|אַפָּ֖י]][[H9023\|ו]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic HOMAGE|HOMAGE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.22|<< 1 Kings 1:22]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.24|1 Kings 1:24 >>]]</td></tr></table>
 

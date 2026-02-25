@@ -1,8 +1,60 @@
+---
+title: Job 20:23
+type: Verse
+kjv: "When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating."
+bsb: "When he has filled his stomach, God will vent His fury upon him, raining it down on him as he eats."
+hebrew: "יְהִ֤י׀ לְמַלֵּ֬א בִטְנ֗וֹ יְֽשַׁלַּח־ בּ֭וֹ חֲר֣וֹן אַפּ֑וֹ וְיַמְטֵ֥ר עָ֝לֵ֗ימוֹ בִּלְחוּמֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4390]]"
+- "[[H0990G]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H4305]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:23**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [When] he is about to fill his belly, [God] shall cast the fury of his wrath upon him, and shall rain [it] upon him while he is eating.
 <small><sub>**BSB:**</sub></small>
 When he has filled his stomach, God will vent His fury upon him, raining it down on him as he eats.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִ֤י]][[H9015\|׀]] [[H9005\|לְ]][[H4390\|מַלֵּ֬א]] [[H0990G\|בִטְנ֗]][[H9023\|וֹ]] [[H7971G\|יְֽשַׁלַּח]][[H9014\|־]] [[H9003\|בּ֭]][[H9033\|וֹ]] [[H2740\|חֲר֣וֹן]] [[H0639G\|אַפּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H4305\|יַמְטֵ֥ר]] [[H5921A\|עָ֝לֵ֗י]][[H9038\|מוֹ]] [[H9003\|בִּ]][[H3894\|לְחוּמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.22|<< Job 20:22]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.24|Job 20:24 >>]]</td></tr></table>
 

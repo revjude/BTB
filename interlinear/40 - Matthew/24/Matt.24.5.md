@@ -1,10 +1,56 @@
+---
+title: Matthew 24:5
+type: Verse
+kjv: "For many shall come in my name, saying, I am Christ; and shall deceive many."
+bsb: "For many will come in My name, claiming, ‘I am the Christ,’ and will deceive many."
+jesus_said: "For many shall come in my name, saying, I am Christ; and shall deceive many."
+greek: "πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες· ἐγώ εἰμι ὁ χριστός, καὶ πολλοὺς πλανήσουσιν."
+pericope: "[[Matt.24.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G4105]]"
+texts:
+- NKO
+---
+
 **Matthew 24:5**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For many shall come in my name, saying, I am Christ; and shall deceive many.
 <small><sub>**BSB:**</sub></small>
 For many will come in My name, claiming, ‘I am the Christ,’ and will deceive many.
-<small><sub>**Literal:**</sub></small>
-Many for will come in the name of Me saying; I myself am the Christ, and many they will mislead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.4|<< Matthew 24:4]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.6|Matthew 24:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G1063\|γὰρ]]  [[G2064\|ἐλεύσονται]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G3004G\|λέγοντες·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G2532\|καὶ]]  [[G4183\|πολλοὺς]]  [[G4105\|πλανήσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.4|<< Matthew 24:4]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.6|Matthew 24:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

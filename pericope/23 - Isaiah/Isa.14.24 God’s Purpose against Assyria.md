@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Purpose against Assyria
+type: Pericope
 pericope: "[[Isa.14.24 God’s Purpose against Assyria|God’s Purpose against Assyria]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 14
 book/chapter: "[[Isa.14|Isaiah 14]]"
-genre:
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.14.24]]"
 - "[[Isa.14.25]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.14.27]]"
 ---
 
-[[Isa.14|Isaiah 14:24 - Isaiah 14:27]]
+<small>[[Isa.14|Isaiah 14:24-27]]</small>
 *God’s Purpose against Assyria*
 
 [[Isa.14.24|24]] The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, \[so\] shall it stand:

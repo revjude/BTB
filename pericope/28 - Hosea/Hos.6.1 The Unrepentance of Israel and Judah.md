@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Unrepentance of Israel and Judah
+type: Pericope
 pericope: "[[Hos.6.1 The Unrepentance of Israel and Judah|The Unrepentance of Israel and Judah]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 6
 book/chapter: "[[Hos.6|Hosea 6]]"
-genre:
+chronological_order: 647
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 11
 verses:
 - "[[Hos.6.1]]"
 - "[[Hos.6.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Hos.6.11]]"
 ---
 
-[[Hos.6|Hosea 6:1 - Hosea 6:11]]
+<small>[[Hos.6|Hosea 6:1-11]]</small>
 *The Unrepentance of Israel and Judah*
 
 [[Hos.6.1|1]] Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.

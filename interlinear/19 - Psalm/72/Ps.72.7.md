@@ -1,8 +1,60 @@
+---
+title: Psalm 72:7
+type: Verse
+kjv: "In his days shall the righteous flourish; and abundance of peace so long as the moon endureth."
+bsb: "May the righteous flourish in his days and prosperity abound until the moon is no more."
+hebrew: "יִֽפְרַח־ בְּיָמָ֥יו צַדִּ֑יק וְרֹ֥ב שָׁ֝ל֗וֹם עַד־ בְּלִ֥י יָרֵֽחַ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6524A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H7230]]"
+- "[[H7965G]]"
+- "[[H5704]]"
+- "[[H1097]]"
+- "[[H3394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:7**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.
 <small><sub>**BSB:**</sub></small>
 May the righteous flourish in his days and prosperity abound until the moon is no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H6524A\|יִֽפְרַח]][[H9014\|־]] [[H9003\|בְּ]][[H3117G\|יָמָ֥י]][[H9023\|ו]] [[H6662\|צַדִּ֑יק]] [[H9002\|וְ]][[H7230\|רֹ֥ב]] [[H7965G\|שָׁ֝ל֗וֹם]] [[H5704\|עַד]][[H9014\|־]] [[H1097\|בְּלִ֥י]] [[H3394\|יָרֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.6|<< Psalms 72:6]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.8|Psalms 72:8 >>]]</td></tr></table>
 

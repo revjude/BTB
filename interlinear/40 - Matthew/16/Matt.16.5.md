@@ -1,10 +1,52 @@
+---
+title: Matthew 16:5
+type: Verse
+kjv: "And when his disciples were come to the other side, they had forgotten to take bread."
+bsb: "When they crossed to the other side, the disciples forgot to take bread."
+greek: "Καὶ ἐλθόντες οἱ μαθηταὶ αὐτοῦ εἰς τὸ πέραν ἐπελάθοντο ἄρτους λαβεῖν.¶"
+pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4008]]"
+- "[[G1950]]"
+- "[[G0740]]"
+- "[[G2983]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 16:5**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when his disciples were come to the other side, they had forgotten to take bread.
 <small><sub>**BSB:**</sub></small>
 When they crossed to the other side, the disciples forgot to take bread.
-<small><sub>**Literal:**</sub></small>
-And having come the disciples of him to the other side they forgot bread to take.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.4|<< Matthew 16:4]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.6|Matthew 16:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἐλθόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4008\|πέραν]]  [[G1950\|ἐπελάθοντο]]  [[G0740\|ἄρτους]]  [[G2983\|λαβεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.4|<< Matthew 16:4]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.6|Matthew 16:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

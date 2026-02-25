@@ -1,8 +1,57 @@
+---
+title: Ezekiel 42:12
+type: Verse
+kjv: "And according to the doors of the chambers that were toward the south was a door in the head of the way, even the way directly before the wall toward the east, as one entereth into them."
+bsb: "And corresponding to the doors of the chambers that were facing south, there was a door in front of the walkway that was parallel to the wall extending eastward."
+hebrew: "וּכְפִתְחֵ֣י הַלְּשָׁכ֗וֹת אֲשֶׁר֙ דֶּ֣רֶךְ הַדָּר֔וֹם פֶּ֖תַח בְּרֹ֣אשׁ דָּ֑רֶךְ דֶּ֗רֶךְ בִּפְנֵי֙ הַגְּדֶ֣רֶת הֲגִינָ֔ה דֶּ֥רֶךְ הַקָּדִ֖ים בְּבוֹאָֽן׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H0834A]]"
+- "[[H1870J]]"
+- "[[H1864]]"
+- "[[H9003]]"
+- "[[H7218J]]"
+- "[[H1870K]]"
+- "[[H6440G]]"
+- "[[H1448]]"
+- "[[H1903]]"
+- "[[H6921]]"
+- "[[H0935G]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:12**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And according to the doors of the chambers that [were] toward the south [was] a door in the head of the way, [even] the way directly before the wall toward the east, as one entereth into them.
 <small><sub>**BSB:**</sub></small>
 And corresponding to the doors of the chambers that were facing south, there was a door in front of the walkway that was parallel to the wall extending eastward.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H6607\|פִתְחֵ֣י]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֗וֹת]] [[H0834A\|אֲשֶׁר֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֔וֹם]] [[H6607\|פֶּ֖תַח]] [[H9003\|בְּ]][[H7218J\|רֹ֣אשׁ]] [[H1870K\|דָּ֑רֶךְ]] [[H1870K\|דֶּ֗רֶךְ]] [[H9003\|בִּ]][[H6440G\|פְנֵי֙]] [[H9009\|הַ]][[H1448\|גְּדֶ֣רֶת]] [[H1903\|הֲגִינָ֔ה]] [[H1870J\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H6921\|קָּדִ֖ים]] [[H9003\|בְּ]][[H0935G\|בוֹאָֽ]][[H9039\|ן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.11|<< Ezekiel 42:11]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.13|Ezekiel 42:13 >>]]</td></tr></table>
 

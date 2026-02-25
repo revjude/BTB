@@ -1,8 +1,54 @@
+---
+title: Joel 2:18
+type: Verse
+kjv: "Then will the LORD be jealous for his land, and pity his people."
+bsb: "Then the LORD became jealous for His land, and He spared His people."
+hebrew: "וַיְקַנֵּ֥א יְהוָ֖ה לְאַרְצ֑וֹ וַיַּחְמֹ֖ל עַל־ עַמּֽוֹ׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7065]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H2550]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:18**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will the LORD be jealous for his land, and pity his people.
 <small><sub>**BSB:**</sub></small>
 Then the LORD became jealous for His land, and He spared His people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7065\|יְקַנֵּ֥א]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2550\|יַּחְמֹ֖ל]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.17|<< Joel 2:17]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.19|Joel 2:19 >>]]</td></tr></table>
 

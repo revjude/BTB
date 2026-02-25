@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Revenge of Dinah’s Brothers
+type: Pericope
 pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 34
 book/chapter: "[[Gen.34|Genesis 34]]"
-genre:
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 19
 verses:
 - "[[Gen.34.13]]"
 - "[[Gen.34.14]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Gen.34.31]]"
 ---
 
-[[Gen.34|Genesis 34:13 - Genesis 34:31]]
+<small>[[Gen.34|Genesis 34:13-31]]</small>
 *The Revenge of Dinah’s Brothers*
 
 [[Gen.34.13|13]] And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:

@@ -1,10 +1,58 @@
+---
+title: Titus 1:10
+type: Verse
+kjv: "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"
+bsb: "For many are rebellious and full of empty talk and deception, especially those of the circumcision,"
+greek: "Εἰσὶν γὰρ πολλοὶ καὶ ἀνυπότακτοι, ματαιολόγοι καὶ φρεναπάται μάλιστα οἱ ἐκ τῆς περιτομῆς"
+pericope: "[[Titus.1.10 Correcting False Teachers|Correcting False Teachers]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G0506]]"
+- "[[G3151]]"
+- "[[G5423]]"
+- "[[G3122]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G4061]]"
+texts:
+- NKO
+- no
+---
+
 **Titus 1:10**<big><big>[[Titus.1.10 Correcting False Teachers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
 <small><sub>**BSB:**</sub></small>
 For many are rebellious and full of empty talk and deception, especially those of the circumcision,
-<small><sub>**Literal:**</sub></small>
-There are for many also insubordinate, empty talkers and deceivers especially those of the circumcision<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.9|<< Titus 1:9]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.11|Titus 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Εἰσὶν]]  [[G1063\|γὰρ]]  [[G4183\|πολλοὶ]]  [[G2532\|καὶ]]  [[G0506\|ἀνυπότακτοι,]]  [[G3151\|ματαιολόγοι]]  [[G2532\|καὶ]]  [[G5423\|φρεναπάται]]  [[G3122\|μάλιστα]]  [[G3588\|οἱ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4061\|περιτομῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic CHARACTER|CHARACTER]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.9|<< Titus 1:9]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.11|Titus 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

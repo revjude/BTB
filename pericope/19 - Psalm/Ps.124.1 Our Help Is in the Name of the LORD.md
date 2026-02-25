@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Our Help Is in the Name of the LORD
+type: Pericope
 pericope: "[[Ps.124.1 Our Help Is in the Name of the LORD|Our Help Is in the Name of the LORD]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 124
 book/chapter: "[[Ps.124|Psalm 124]]"
-genre:
+chronological_order: 886
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.124.0]]"
 - "[[Ps.124.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.124.8]]"
 ---
 
-[[Ps.124|Psalm 124:1 - Psalm 124:8]]
+<small>[[Ps.124|Psalm 124:1-8]]</small>
 *Our Help Is in the Name of the LORD*
 
 [[Ps.124.0|0]] A Song of degrees of David.

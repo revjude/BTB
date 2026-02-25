@@ -1,8 +1,55 @@
+---
+title: Job 18:2
+type: Verse
+kjv: "How long will it be ere ye make an end of words? mark, and afterwards we will speak."
+bsb: "“How long until you end these speeches? Show some sense, and then we can talk."
+hebrew: "עַד־ אָ֤נָה׀ תְּשִׂימ֣וּן קִנְצֵ֣י לְמִלִּ֑ין תָּ֝בִ֗ינוּ וְאַחַ֥ר נְדַבֵּֽר׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0575]]"
+- "[[H9015]]"
+- "[[H7760A]]"
+- "[[H9013]]"
+- "[[H7078]]"
+- "[[H9005]]"
+- "[[H4405]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:2**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long [will it be ere] ye make an end of words? mark, and afterwards we will speak.
 <small><sub>**BSB:**</sub></small>
 “How long until you end these speeches? Show some sense, and then we can talk.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֤נָה]][[H9015\|׀]] [[H7760A\|תְּשִׂימ֣וּ]][[H9013\|ן]] [[H7078\|קִנְצֵ֣י]] [[H9005\|לְ]][[H4405\|מִלִּ֑ין]] [[H0995\|תָּ֝בִ֗ינוּ]] [[H9002\|וְ]][[H0310A\|אַחַ֥ר]] [[H1696G\|נְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.1|<< Job 18:1]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.3|Job 18:3 >>]]</td></tr></table>
 

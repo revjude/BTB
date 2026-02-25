@@ -1,10 +1,64 @@
+---
+title: Acts 9:12
+type: Verse
+kjv: "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
+bsb: "In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”"
+jesus_said: "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
+greek: "καὶ εἶδεν ἄνδρα ἐν ὁράματι Ἁνανίαν ὀνόματι εἰσελθόντα καὶ ἐπιθέντα αὐτῷ τὰς χεῖρας, ὅπως ἀναβλέψῃ.¶"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0435G]]"
+- "[[G1722]]"
+- "[[G3705]]"
+- "[[G0367H]]"
+- "[[G3686]]"
+- "[[G1525]]"
+- "[[G2007]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3704]]"
+- "[[G0308]]"
+texts:
+- NKO
+- no
+- N(K)O
+---
+
 **Acts 9:12**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hath seen in a vision a man named Ananias coming in, and putting [his] hand on him, that he might receive his sight.
 <small><sub>**BSB:**</sub></small>
 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”
-<small><sub>**Literal:**</sub></small>
-and he saw a man in a vision Ananias named having come and having put on him the hands, so that he may see again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.11|<< Acts 9:11]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.13|Acts 9:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδεν]]  [[G0435G\|ἄνδρα]]  [[G1722\|ἐν]]  [[G3705\|ὁράματι]]  [[G0367H\|Ἁνανίαν]]  [[G3686\|ὀνόματι]]  [[G1525\|εἰσελθόντα]]  [[G2532\|καὶ]]  [[G2007\|ἐπιθέντα]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας,]]  [[G3704\|ὅπως]]  [[G0308\|ἀναβλέψῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.11|<< Acts 9:11]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.13|Acts 9:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: Leviticus 6:9
+type: Verse
+kjv: "Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it."
+bsb: "“Command Aaron and his sons that this is the law of the burnt offering: The burnt offering is to remain on the hearth of the altar all night, until morning, and the fire must be kept burning on the altar."
+hebrew: "צַ֤ו אֶֽת־ אַהֲרֹן֙ וְאֶת־ בָּנָ֣יו לֵאמֹ֔ר זֹ֥את תּוֹרַ֖ת הָעֹלָ֑ה הִ֣וא הָעֹלָ֡ה עַל֩ מוֹקְדָ֨ה עַל־ הַמִּזְבֵּ֤חַ כָּל־ הַלַּ֙יְלָה֙ עַד־ הַבֹּ֔קֶר וְאֵ֥שׁ הַמִּזְבֵּ֖חַ תּ֥וּקַד בּֽוֹ׃"
+pericope: "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H4169]]"
+- "[[H4196]]"
+- "[[H3605]]"
+- "[[H3915]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H0784]]"
+- "[[H3344]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:9**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command Aaron and his sons, saying, This [is] the law of the burnt offering: It [is] the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.
 <small><sub>**BSB:**</sub></small>
 “Command Aaron and his sons that this is the law of the burnt offering: The burnt offering is to remain on the hearth of the altar all night, until morning, and the fire must be kept burning on the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|צַ֤ו]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֣י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הָ]][[H5930A\|עֹלָ֑ה]] [[H1931\|הִ֣וא]] [[H9009\|הָ]][[H5930A\|עֹלָ֡ה]] [[H5921A\|עַל֩]] [[H4169\|מוֹקְדָ֨ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֤חַ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֙יְלָה֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H0784\|אֵ֥שׁ]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H3344\|תּ֥וּקַד]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.8|<< Leviticus 6:8]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.10|Leviticus 6:10 >>]]</td></tr></table>
 

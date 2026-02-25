@@ -1,8 +1,58 @@
+---
+title: Psalm 101:8
+type: Verse
+kjv: "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD."
+bsb: "Every morning I will remove all the wicked of the land, that I may cut off every evildoer from the city of the LORD."
+hebrew: "לַבְּקָרִ֗ים אַצְמִ֥ית כָּל־ רִשְׁעֵי־ אָ֑רֶץ לְהַכְרִ֥ית מֵֽעִיר־ יְ֝הוָ֗ה כָּל־ פֹּ֥עֲלֵי אָֽוֶן׃"
+pericope: "[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|I Will Set No Worthless Thing before My Eyes]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 101
+book/chapter: "[[Ps.101|Psalm 101]]"
+chronological_order: 380
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9005]]"
+- "[[H1242]]"
+- "[[H6789]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H0776G]]"
+- "[[H3772I]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H3068G]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 101:8**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.
 <small><sub>**BSB:**</sub></small>
 Every morning I will remove all the wicked of the land, that I may cut off every evildoer from the city of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H1242\|בְּקָרִ֗ים]] [[H6789\|אַצְמִ֥ית]] [[H3605\|כָּל]][[H9014\|־]] [[H7563\|רִשְׁעֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9005\|לְ]][[H3772I\|הַכְרִ֥ית]] [[H9006\|מֵֽ]][[H5892B\|עִיר]][[H9014\|־]] [[H3068G\|יְ֝הוָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6466\|פֹּ֥עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.7|<< Psalms 101:7]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.0|Psalms 102:0 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Genesis 29:4
+type: Verse
+kjv: "And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we."
+bsb: "“My brothers,” Jacob asked the shepherds, “where are you from?” “We are from Haran,” they answered."
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ יַעֲקֹ֔ב אַחַ֖י מֵאַ֣יִן אַתֶּ֑ם וַיֹּ֣אמְר֔וּ מֵחָרָ֖ן אֲנָֽחְנוּ׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3290]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0859D]]"
+- "[[H2771A]]"
+- "[[H0587]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:4**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said unto them, My brethren, whence [be] ye? And they said, Of Haran [are] we.
 <small><sub>**BSB:**</sub></small>
 “My brothers,” Jacob asked the shepherds, “where are you from?” “We are from Haran,” they answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3290\|יַעֲקֹ֔ב]] [[H0251G\|אַחַ֖]][[H9020\|י]] [[H9006\|מֵ]][[H0370\|אַ֣יִן]] [[H0859D\|אַתֶּ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H9006\|מֵ]][[H2771A\|חָרָ֖ן]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.3|<< Genesis 29:3]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.5|Genesis 29:5 >>]]</td></tr></table>
 

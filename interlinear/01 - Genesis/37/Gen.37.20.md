@@ -1,8 +1,70 @@
+---
+title: Genesis 37:20
+type: Verse
+kjv: "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams."
+bsb: "“Come now, let us kill him and throw him into one of the pits. We can say that a vicious animal has devoured him. Then we shall see what becomes of his dreams!”"
+hebrew: "וְעַתָּ֣ה׀ לְכ֣וּ וְנַֽהַרְגֵ֗הוּ וְנַשְׁלִכֵ֙הוּ֙ בְּאַחַ֣ד הַבֹּר֔וֹת וְאָמַ֕רְנוּ חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ וְנִרְאֶ֕ה מַה־ יִּהְי֖וּ חֲלֹמֹתָֽיו׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H1980K]]"
+- "[[H2026]]"
+- "[[H9033]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2416C]]"
+- "[[H7451A]]"
+- "[[H0398]]"
+- "[[H7200G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H2472]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:20**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.
 <small><sub>**BSB:**</sub></small>
 “Come now, let us kill him and throw him into one of the pits. We can say that a vicious animal has devoured him. Then we shall see what becomes of his dreams!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H1980K\|לְכ֣וּ]] [[H9002\|וְ]][[H2026\|נַֽהַרְגֵ֗]][[H9033\|הוּ]] [[H9002\|וְ]][[H7993\|נַשְׁלִכֵ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H9009\|הַ]][[H0953A\|בֹּר֔וֹת]] [[H9001\|וְ]][[H0559\|אָמַ֕רְנוּ]] [[H2416C\|חַיָּ֥ה]] [[H7451A\|רָעָ֖ה]] [[H0398\|אֲכָלָ֑תְ]][[H9033\|הוּ]] [[H9002\|וְ]][[H7200G\|נִרְאֶ֕ה]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|יִּהְי֖וּ]] [[H2472\|חֲלֹמֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic ENVY|ENVY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.19|<< Genesis 37:19]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.21|Genesis 37:21 >>]]</td></tr></table>
 

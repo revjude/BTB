@@ -1,10 +1,62 @@
+---
+title: Revelation 18:4
+type: Verse
+kjv: "And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues."
+bsb: "Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues."
+greek: "Καὶ ἤκουσα ἄλλην φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν· ἐξέλθατε ὁ λαός μου ἐξ αὐτῆς, ἵνα μὴ συγκοινωνήσητε ταῖς ἁμαρτίαις αὐτῆς, καὶ ἐκ τῶν πληγῶν αὐτῆς ἵνα μὴ λάβητε·"
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G0243]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G1831]]"
+- "[[G2992]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4790]]"
+- "[[G0266]]"
+- "[[G4127]]"
+- "[[G2983]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 18:4**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 <small><sub>**BSB:**</sub></small>
 Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues.
-<small><sub>**Literal:**</sub></small>
-And I heard another voice from <the> heaven saying: do come you who [are] people of mine from her, so that not you may have fellowship in the sins of her, and of the plagues of her so that not you may receive;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.3|<< Revelation 18:3]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.5|Revelation 18:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G0243\|ἄλλην]]  [[G5456G\|φωνὴν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3004G\|λέγουσαν·]]  [[G1831\|ἐξέλθατε]]  [[G3588\|ὁ]]  [[G2992\|λαός]]  [[G3165\|μου]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῆς,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4790\|συγκοινωνήσητε]]  [[G3588\|ταῖς]]  [[G0266\|ἁμαρτίαις]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4127\|πληγῶν]]  [[G0846\|αὐτῆς]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2983\|λάβητε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.3|<< Revelation 18:3]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.5|Revelation 18:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:4** is...
 > $\quad$ alluding to: [[LXX.Isa.52.11|Isa 52:11]] ☩ [[LXX.Jer.50.8|Jer 50:8]] ☩ [[LXX.Jer.51.6|Jer 51:6]] ☩ [[LXX.Jer.51.9|Jer 51:9]] ☩ [[LXX.Jer.51.45|Jer 51:45]]

@@ -1,8 +1,65 @@
+---
+title: Ezekiel 39:28
+type: Verse
+kjv: "Then shall they know that I am the LORD their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there."
+bsb: "Then they will know that I am the LORD their God, when I regather them to their own land, not leaving any of them behind after their exile among the nations."
+hebrew: "וְיָדְע֗וּ כִּ֣י אֲנִ֤י יְהוָה֙ אֱלֹ֣הֵיהֶ֔ם בְּהַגְלוֹתִ֤י אֹתָם֙ אֶל־ הַגּוֹיִ֔ם וְכִנַּסְתִּ֖ים עַל־ אַדְמָתָ֑ם וְלֹֽא־ אוֹתִ֥יר ע֛וֹד מֵהֶ֖ם שָֽׁם׃"
+pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1540K]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3664]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3498]]"
+- "[[H5750]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:28**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall they know that I [am] the LORD their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there.
 <small><sub>**BSB:**</sub></small>
 Then they will know that I am the LORD their God, when I regather them to their own land, not leaving any of them behind after their exile among the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֗וּ]] [[H3588A\|כִּ֣י]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹ֣הֵי]][[H9028\|הֶ֔ם]] [[H9003\|בְּ]][[H1540K\|הַגְלוֹתִ֤]][[H9040\|י]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וְ]][[H3664\|כִנַּסְתִּ֖י]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3498\|אוֹתִ֥יר]] [[H5750\|ע֛וֹד]] [[H9006\|מֵ]][[H9038\|הֶ֖ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.27|<< Ezekiel 39:27]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.29|Ezekiel 39:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

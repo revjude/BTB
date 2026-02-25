@@ -1,8 +1,72 @@
+---
+title: Genesis 27:6
+type: Verse
+kjv: "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
+bsb: "Rebekah said to her son Jacob, “Behold, I overheard your father saying to your brother Esau,"
+hebrew: "וְרִבְקָה֙ אָֽמְרָ֔ה אֶל־ יַעֲקֹ֥ב בְּנָ֖הּ לֵאמֹ֑ר הִנֵּ֤ה שָׁמַ֙עְתִּי֙ אֶת־ אָבִ֔יךָ מְדַבֵּ֛ר אֶל־ עֵשָׂ֥ו אָחִ֖יךָ לֵאמֹֽר׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7259]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H2009]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H1696G]]"
+- "[[H6215G]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:6**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,
 <small><sub>**BSB:**</sub></small>
 Rebekah said to her son Jacob, “Behold, I overheard your father saying to your brother Esau,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7259\|רִבְקָה֙]] [[H0559\|אָֽמְרָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3290\|יַעֲקֹ֥ב]] [[H1121A\|בְּנָ֖]][[H9024\|הּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֤ה]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H1696G\|מְדַבֵּ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H6215G\|עֵשָׂ֥ו]] [[H0251G\|אָחִ֖י]][[H9021\|ךָ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.5|<< Genesis 27:5]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.7|Genesis 27:7 >>]]</td></tr></table>
 

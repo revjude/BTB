@@ -1,8 +1,51 @@
+---
+title: Psalm 18:37
+type: Verse
+kjv: "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed."
+bsb: "I pursued my enemies and overtook them; I did not turn back until they were consumed."
+hebrew: "אֶרְדּ֣וֹף א֭וֹיְבַי וְאַשִּׂיגֵ֑ם וְלֹֽא־ אָ֝שׁוּב עַד־ כַּלּוֹתָֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H7291]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5381]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:37**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.
 <small><sub>**BSB:**</sub></small>
 I pursued my enemies and overtook them; I did not turn back until they were consumed.
+<small><sub>**Hebrew:**</sub></small>
+[[H7291\|אֶרְדּ֣וֹף]] [[H0341\|א֭וֹיְבַ]][[H9020\|י]] [[H9002\|וְ]][[H5381\|אַשִּׂיגֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|אָ֝שׁוּב]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כַּלּוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.36|<< Psalms 18:36]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.38|Psalms 18:38 >>]]</td></tr></table>
 

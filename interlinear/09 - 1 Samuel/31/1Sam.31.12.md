@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 31:12
+type: Verse
+kjv: "All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there."
+bsb: "all their men of valor set out, journeyed all night, and retrieved the bodies of Saul and his sons from the wall of Beth-shan. When they arrived at Jabesh, they burned the bodies there."
+hebrew: "וַיָּק֜וּמוּ כָּל־ אִ֣ישׁ חַיִל֮ וַיֵּלְכ֣וּ כָל־ הַלַּיְלָה֒ וַיִּקְח֞וּ אֶת־ גְּוִיַּ֣ת שָׁא֗וּל וְאֵת֙ גְּוִיֹּ֣ת בָּנָ֔יו מֵחוֹמַ֖ת בֵּ֣ית שָׁ֑ן וַיָּבֹ֣אוּ יָבֵ֔שָׁה וַיִּשְׂרְפ֥וּ אֹתָ֖ם שָֽׁם׃"
+pericope: "[[1Sam.31.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-SHEAN|BETH-SHEAN]]"
+- "[[topic CREMATION|CREMATION]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H2428G]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H1472]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H2346G]]"
+- "[[H1052]]"
+- "[[H0935G]]"
+- "[[H3003G]]"
+- "[[H9011]]"
+- "[[H8313]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:12**<big><big>[[1Sam.31.11 Jabesh-gilead’s Tribute to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.
 <small><sub>**BSB:**</sub></small>
 all their men of valor set out, journeyed all night, and retrieved the bodies of Saul and his sons from the wall of Beth-shan. When they arrived at Jabesh, they burned the bodies there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּק֜וּמוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H2428G\|חַיִל֮]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֣וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּיְלָה֒]] [[H9001\|וַ]][[H3947G\|יִּקְח֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1472\|גְּוִיַּ֣ת]] [[H7586G\|שָׁא֗וּל]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H1472\|גְּוִיֹּ֣ת]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H9006\|מֵ]][[H2346G\|חוֹמַ֖ת]] [[H1052\|בֵּ֣ית]] [[H1052\|שָׁ֑ן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H3003G\|יָבֵ֔שָׁ]][[H9011\|ה]] [[H9001\|וַ]][[H8313\|יִּשְׂרְפ֥וּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEAN|BETH-SHEAN]] • [[topic CREMATION|CREMATION]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.11|<< 1 Samuel 31:11]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.13|1 Samuel 31:13 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Leviticus 13:41
+type: Verse
+kjv: "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean."
+bsb: "Or if his hairline recedes and he is bald on his forehead, he is still clean."
+hebrew: "וְאִם֙ מִפְּאַ֣ת פָּנָ֔יו יִמָּרֵ֖ט רֹאשׁ֑וֹ גִּבֵּ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9006]]"
+- "[[H6285]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H4803]]"
+- "[[H7218A]]"
+- "[[H1371]]"
+- "[[H1931]]"
+- "[[H2889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:41**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that hath his hair fallen off from the part of his head toward his face, he [is] forehead bald: [yet is] he clean.
 <small><sub>**BSB:**</sub></small>
 Or if his hairline recedes and he is bald on his forehead, he is still clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם֙]] [[H9006\|מִ]][[H6285\|פְּאַ֣ת]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H4803\|יִמָּרֵ֖ט]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H1371\|גִּבֵּ֥חַ]] [[H1931\|ה֖וּא]] [[H2889\|טָה֥וֹר]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.40|<< Leviticus 13:40]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.42|Leviticus 13:42 >>]]</td></tr></table>
 

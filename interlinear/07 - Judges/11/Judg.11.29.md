@@ -1,8 +1,64 @@
+---
+title: Judges 11:29
+type: Verse
+kjv: "Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon."
+bsb: "Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites."
+hebrew: "וַתְּהִ֤י עַל־ יִפְתָּח֙ ר֣וּחַ יְהוָ֔ה וַיַּעֲבֹ֥ר אֶת־ הַגִּלְעָ֖ד וְאֶת־ מְנַשֶּׁ֑ה וַֽיַּעֲבֹר֙ אֶת־ מִצְפֵּ֣ה גִלְעָ֔ד וּמִמִּצְפֵּ֣ה גִלְעָ֔ד עָבַ֖ר בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3316H]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H9002]]"
+- "[[H4519G]]"
+- "[[H4708K]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:29**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over [unto] the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H3316H\|יִפְתָּח֙]] [[H7307G\|ר֣וּחַ]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֖ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4708K\|מִצְפֵּ֣ה]] [[H1568G\|גִלְעָ֔ד]] [[H9002\|וּ]][[H9006\|מִ]][[H4708K\|מִּצְפֵּ֣ה]] [[H1568G\|גִלְעָ֔ד]] [[H5674A\|עָבַ֖ר]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic VOWS|VOWS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.28|<< Judges 11:28]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.30|Judges 11:30 >>]]</td></tr></table>
 

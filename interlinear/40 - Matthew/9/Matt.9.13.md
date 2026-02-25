@@ -1,10 +1,68 @@
+---
+title: Matthew 9:13
+type: Verse
+kjv: "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance."
+bsb: "But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.”"
+jesus_said: "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance."
+greek: "πορευθέντες δὲ μάθετε τί ἐστιν· ἔλεος θέλω καὶ οὐ θυσίαν· οὐ γὰρ ἦλθον καλέσαι δικαίους ἀλλ᾽ ἁμαρτωλούς εἰς μετάνοιαν.¶"
+pericope: "[[Matt.9.9 Jesus Calls Matthew|Jesus Calls Matthew]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G4198]]"
+- "[[G1161]]"
+- "[[G3129]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1656]]"
+- "[[G2309]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2378]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G2564G]]"
+- "[[G1342]]"
+- "[[G0235]]"
+- "[[G0268]]"
+- "[[G1519]]"
+- "[[G3341]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 9:13**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But go ye and learn what [that] meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.”
-<small><sub>**Literal:**</sub></small>
-Having gone however do learn what is; Mercy I desire and not [desire] sacrifice;’ Not for I came to call [the] righteous but sinners into repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.12|<< Matthew 9:12]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.14|Matthew 9:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορευθέντες]]  [[G1161\|δὲ]]  [[G3129\|μάθετε]]  [[G5101\|τί]]  [[G1510\|ἐστιν·]]  [[G1656\|ἔλεος]]  [[G2309\|θέλω]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2378\|θυσίαν·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2064\|ἦλθον]]  [[G2564G\|καλέσαι]]  [[G1342\|δικαίους]]  [[G0235\|ἀλλ᾽]]  [[G0268\|ἁμαρτωλούς]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.12|<< Matthew 9:12]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.14|Matthew 9:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 9:13** is...
 > $\quad$ referencing: [[LXX.Hos.6.6|Hos 6:6]]

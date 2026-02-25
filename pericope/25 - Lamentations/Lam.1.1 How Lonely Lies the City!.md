@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: How Lonely Lies the City!
+type: Pericope
 pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 1
 book/chapter: "[[Lam.1|Lamentations 1]]"
-genre:
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 22
 verses:
 - "[[Lam.1.1]]"
 - "[[Lam.1.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lam.1.22]]"
 ---
 
-[[Lam.1|Lamentations 1:1 - Lamentations 1:22]]
+<small>[[Lam.1|Lamentations 1:1-22]]</small>
 *How Lonely Lies the City!*
 
 [[Lam.1.1|1]] How doth the city sit solitary, \[that was\] full of people! \[how\] is she become as a widow! she \[that was\] great among the nations, \[and\] princess among the provinces, \[how\] is she become tributary!

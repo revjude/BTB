@@ -1,8 +1,62 @@
+---
+title: Psalm 31:2
+type: Verse
+kjv: "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me."
+bsb: "Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance."
+hebrew: "הַטֵּ֤ה אֵלַ֨י׀ אָזְנְךָ֮ מְהֵרָ֪ה הַצִּ֫ילֵ֥נִי הֱיֵ֤ה לִ֨י׀ לְֽצוּר־ מָ֭עוֹז לְבֵ֥ית מְצוּד֗וֹת לְהוֹשִׁיעֵֽנִי׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ROCK|ROCK]]"
+strongs:
+- "[[H5186]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H4120]]"
+- "[[H5337]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6697H]]"
+- "[[H9014]]"
+- "[[H4581]]"
+- "[[H1004B]]"
+- "[[H4686B]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:2**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.
 <small><sub>**BSB:**</sub></small>
 Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance.
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|הַטֵּ֤ה]] [[H0413\|אֵלַ֨]][[H9030\|י]][[H9015\|׀]] [[H0241G\|אָזְנְ]][[H9021\|ךָ֮]] [[H4120\|מְהֵרָ֪ה]] [[H5337\|הַצִּ֫ילֵ֥]][[H9030\|נִי]] [[H1961\|הֱיֵ֤ה]] [[H9005\|לִ֨]][[H9030\|י]][[H9015\|׀]] [[H9005\|לְֽ]][[H6697H\|צוּר]][[H9014\|־]] [[H4581\|מָ֭עוֹז]] [[H9005\|לְ]][[H1004B\|בֵ֥ית]] [[H4686B\|מְצוּד֗וֹת]] [[H9005\|לְ]][[H3467\|הוֹשִׁיעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ROCK|ROCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.1|<< Psalms 31:1]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.3|Psalms 31:3 >>]]</td></tr></table>
 

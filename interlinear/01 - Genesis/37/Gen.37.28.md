@@ -1,8 +1,74 @@
+---
+title: Genesis 37:28
+type: Verse
+kjv: "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt."
+bsb: "So when the Midianite traders passed by, his brothers pulled Joseph out of the pit and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt."
+hebrew: "וַיַּֽעַבְרוּ֩ אֲנָשִׁ֨ים מִדְיָנִ֜ים סֹֽחֲרִ֗ים וַֽיִּמְשְׁכוּ֙ וַיַּֽעֲל֤וּ אֶת־ יוֹסֵף֙ מִן־ הַבּ֔וֹר וַיִּמְכְּר֧וּ אֶת־ יוֹסֵ֛ף לַיִּשְׁמְעֵאלִ֖ים בְּעֶשְׂרִ֣ים כָּ֑סֶף וַיָּבִ֥יאוּ אֶת־ יוֹסֵ֖ף מִצְרָֽיְמָה׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic MIDIANITES|MIDIANITES]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0582]]"
+- "[[H4084]]"
+- "[[H5503]]"
+- "[[H4900]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H3459]]"
+- "[[H9003]]"
+- "[[H6242]]"
+- "[[H3701G]]"
+- "[[H0935P]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:28**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty [pieces] of silver: and they brought Joseph into Egypt.
 <small><sub>**BSB:**</sub></small>
 So when the Midianite traders passed by, his brothers pulled Joseph out of the pit and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּֽעַבְרוּ֩]] [[H0582\|אֲנָשִׁ֨ים]] [[H4084\|מִדְיָנִ֜ים]] [[H5503\|סֹֽחֲרִ֗ים]] [[H9001\|וַֽ]][[H4900\|יִּמְשְׁכוּ֙]] [[H9001\|וַ]][[H5927H\|יַּֽעֲל֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵף֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֔וֹר]] [[H9001\|וַ]][[H4376\|יִּמְכְּר֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֛ף]] [[H9005\|לַ]][[H3459\|יִּשְׁמְעֵאלִ֖ים]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֣ים]] [[H3701G\|כָּ֑סֶף]] [[H9001\|וַ]][[H0935P\|יָּבִ֥יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H4714G\|מִצְרָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic MERCHANT|MERCHANT]] • [[topic MIDIANITES|MIDIANITES]] • [[topic MONEY|MONEY]] • [[topic REUBEN|REUBEN]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.27|<< Genesis 37:27]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.29|Genesis 37:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

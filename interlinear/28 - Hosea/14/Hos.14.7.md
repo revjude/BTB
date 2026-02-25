@@ -1,8 +1,61 @@
+---
+title: Hosea 14:7
+type: Verse
+kjv: "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."
+bsb: "They will return and dwell in his shade; they will grow grain and blossom like the vine. His renown will be like the wine of Lebanon."
+hebrew: "יָשֻׁ֙בוּ֙ יֹשְׁבֵ֣י בְצִלּ֔וֹ יְחַיּ֥וּ דָגָ֖ן וְיִפְרְח֣וּ כַגָּ֑פֶן זִכְר֖וֹ כְּיֵ֥ין לְבָנֽוֹן׃ ס"
+pericope: "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CORN|CORN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H7725G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H9023]]"
+- "[[H2421]]"
+- "[[H1715]]"
+- "[[H9002]]"
+- "[[H6524A]]"
+- "[[H9004]]"
+- "[[H1612]]"
+- "[[H2143]]"
+- "[[H3196]]"
+- "[[H3844G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Hosea 14:7**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that dwell under his shadow shall return; they shall revive [as] the corn, and grow as the vine: the scent thereof [shall be] as the wine of Lebanon.
 <small><sub>**BSB:**</sub></small>
 They will return and dwell in his shade; they will grow grain and blossom like the vine. His renown will be like the wine of Lebanon.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|יָשֻׁ֙בוּ֙]] [[H3427\|יֹשְׁבֵ֣י]] [[H9003\|בְ]][[H6738\|צִלּ֔]][[H9023\|וֹ]] [[H2421\|יְחַיּ֥וּ]] [[H1715\|דָגָ֖ן]] [[H9002\|וְ]][[H6524A\|יִפְרְח֣וּ]] [[H9004\|כַ]][[H1612\|גָּ֑פֶן]] [[H2143\|זִכְר֖]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3196\|יֵ֥ין]] [[H3844G\|לְבָנֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CORN|CORN]] • [[topic GOD|GOD]] • [[topic GRAPE|GRAPE]] • [[topic LEBANON|LEBANON]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.6|<< Hosea 14:6]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.8|Hosea 14:8 >>]]</td></tr></table>
 
@@ -17,7 +70,7 @@ They will return and dwell in his shade; they will grow grain and blossom like t
 | like \<the> vine  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1612\|גָּ֑פֶן]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Ga.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | memorial its  |**<big>&#8207;[[H2143\|זִכְר֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| zikh.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] like [the] wine of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3196\|יֵ֥ין]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Yein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebanon  |**<big>&#8207;[[H3844G\|לְבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebanon  |**<big>&#8207;[[H3844G\|לְבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.6|<< Hosea 14:6]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.8|Hosea 14:8 >>]]</td></tr></table>
 
 

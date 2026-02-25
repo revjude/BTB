@@ -1,8 +1,60 @@
+---
+title: Judges 21:7
+type: Verse
+kjv: "How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?"
+bsb: "What should we do about wives for the survivors, since we have sworn by the LORD not to give them our daughters in marriage?”"
+hebrew: "מַה־ נַּעֲשֶׂ֥ה לָהֶ֛ם לַנּוֹתָרִ֖ים לְנָשִׁ֑ים וַאֲנַ֙חְנוּ֙ נִשְׁבַּ֣עְנוּ בַֽיהוָ֔ה לְבִלְתִּ֛י תֵּת־ לָהֶ֥ם מִבְּנוֹתֵ֖ינוּ לְנָשִֽׁים׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3498]]"
+- "[[H0802H]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H1115]]"
+- "[[H5414O]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:7**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?
 <small><sub>**BSB:**</sub></small>
 What should we do about wives for the survivors, since we have sworn by the LORD not to give them our daughters in marriage?”
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H6213A\|נַּעֲשֶׂ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לַ]][[H3498\|נּוֹתָרִ֖ים]] [[H9005\|לְ]][[H0802H\|נָשִׁ֑ים]] [[H9002\|וַ]][[H0587\|אֲנַ֙חְנוּ֙]] [[H7650\|נִשְׁבַּ֣עְנוּ]] [[H9003\|בַֽ]][[H3068G\|יהוָ֔ה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֛י]] [[H5414O\|תֵּת]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H9006\|מִ]][[H1323G\|בְּנוֹתֵ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H0802H\|נָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.6|<< Judges 21:6]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.8|Judges 21:8 >>]]</td></tr></table>
 

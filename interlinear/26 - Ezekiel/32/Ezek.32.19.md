@@ -1,8 +1,50 @@
+---
+title: Ezekiel 32:19
+type: Verse
+kjv: "Whom dost thou pass in beauty? go down, and be thou laid with the uncircumcised."
+bsb: "Whom do you surpass in beauty? Go down and be placed with the uncircumcised!"
+hebrew: "מִמִּ֖י נָעָ֑מְתָּ רְדָ֥ה וְהָשְׁכְּבָ֖ה אֶת־ עֲרֵלִֽים׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9006]]"
+- "[[H4310]]"
+- "[[H5276]]"
+- "[[H3381]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H7901J]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H6189]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:19**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whom dost thou pass in beauty? go down, and be thou laid with the uncircumcised.
 <small><sub>**BSB:**</sub></small>
 Whom do you surpass in beauty? Go down and be placed with the uncircumcised!
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H4310\|מִּ֖י]] [[H5276\|נָעָ֑מְתָּ]] [[H3381\|רְדָ֥]][[H9012\|ה]] [[H9002\|וְ]][[H7901J\|הָשְׁכְּבָ֖]][[H9012\|ה]] [[H0854\|אֶת]][[H9014\|־]] [[H6189\|עֲרֵלִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.18|<< Ezekiel 32:18]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.20|Ezekiel 32:20 >>]]</td></tr></table>
 

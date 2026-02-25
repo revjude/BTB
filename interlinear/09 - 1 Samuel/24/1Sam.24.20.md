@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 24:20
+type: Verse
+kjv: "And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand."
+bsb: "Now I know for sure that you will be king and that the kingdom of Israel will be established in your hands."
+hebrew: "וְעַתָּה֙ הִנֵּ֣ה יָדַ֔עְתִּי כִּ֥י מָלֹ֖ךְ תִּמְל֑וֹךְ וְקָ֙מָה֙ בְּיָ֣דְךָ֔ מַמְלֶ֖כֶת יִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.24.16 David’s Oath to Saul|David’s Oath to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H4427A]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H4467]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:20**<big><big>[[1Sam.24.16 David’s Oath to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand.
 <small><sub>**BSB:**</sub></small>
 Now I know for sure that you will be king and that the kingdom of Israel will be established in your hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H2009\|הִנֵּ֣ה]] [[H3045\|יָדַ֔עְתִּי]] [[H3588A\|כִּ֥י]] [[H4427A\|מָלֹ֖ךְ]] [[H4427A\|תִּמְל֑וֹךְ]] [[H9001\|וְ]][[H6965I\|קָ֙מָה֙]] [[H9003\|בְּ]][[H3027H\|יָ֣דְ]][[H9021\|ךָ֔]] [[H4467\|מַמְלֶ֖כֶת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.19|<< 1 Samuel 24:19]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.21|1 Samuel 24:21 >>]]</td></tr></table>
 

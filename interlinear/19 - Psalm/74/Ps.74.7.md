@@ -1,8 +1,57 @@
+---
+title: Psalm 74:7
+type: Verse
+kjv: "They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground."
+bsb: "They have burned Your sanctuary to the ground; they have defiled the dwelling place of Your Name."
+hebrew: "שִׁלְח֣וּ בָ֭אֵשׁ מִקְדָּשֶׁ֑ךָ לָ֝אָ֗רֶץ חִלְּל֥וּ מִֽשְׁכַּן־ שְׁמֶֽךָ׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARSON|ARSON]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H7971L]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H4720]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H2490H]]"
+- "[[H4908]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:7**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have cast fire into thy sanctuary, they have defiled [by casting down] the dwelling place of thy name to the ground.
 <small><sub>**BSB:**</sub></small>
 They have burned Your sanctuary to the ground; they have defiled the dwelling place of Your Name.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971L\|שִׁלְח֣וּ]] [[H9003\|בָ֭]][[H0784\|אֵשׁ]] [[H4720\|מִקְדָּשֶׁ֑]][[H9021\|ךָ]] [[H9005\|לָ֝]][[H0776H\|אָ֗רֶץ]] [[H2490H\|חִלְּל֥וּ]] [[H4908\|מִֽשְׁכַּן]][[H9014\|־]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARSON|ARSON]] • [[topic CHURCH|CHURCH]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.6|<< Psalms 74:6]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.8|Psalms 74:8 >>]]</td></tr></table>
 

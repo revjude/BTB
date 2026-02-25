@@ -1,8 +1,77 @@
+---
+title: 1 Samuel 13:14
+type: Verse
+kjv: "But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him to be captain over his people, because thou hast not kept that which the LORD commanded thee."
+bsb: "But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”"
+hebrew: "וְעַתָּ֖ה מַמְלַכְתְּךָ֣ לֹא־ תָק֑וּם בִּקֵּשׁ֩ יְהוָ֨ה ל֜וֹ אִ֣ישׁ כִּלְבָב֗וֹ וַיְצַוֵּ֨הוּ יְהוָ֤ה לְנָגִיד֙ עַל־ עַמּ֔וֹ כִּ֚י לֹ֣א שָׁמַ֔רְתָּ אֵ֥ת אֲשֶֽׁר־ צִוְּךָ֖ יְהוָֽה׃ פ"
+pericope: "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H4467]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965I]]"
+- "[[H1245]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0376G]]"
+- "[[H9004]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 13:14**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him [to be] captain over his people, because thou hast not kept [that] which the LORD commanded thee.
 <small><sub>**BSB:**</sub></small>
 But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H4467\|מַמְלַכְתְּ]][[H9021\|ךָ֣]] [[H3808\|לֹא]][[H9014\|־]] [[H6965I\|תָק֑וּם]] [[H1245\|בִּקֵּשׁ֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H0376G\|אִ֣ישׁ]] [[H9004\|כִּ]][[H3824\|לְבָב֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H6680\|יְצַוֵּ֨]][[H9033\|הוּ]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לְ]][[H5057\|נָגִיד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H3588A\|כִּ֚י]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמַ֔רְתָּ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6680\|צִוְּ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DAVID|DAVID]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.13|<< 1 Samuel 13:13]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.15|1 Samuel 13:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -32,7 +101,7 @@ But now your kingdom will not endure; the LORD has sought a man after His own he
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which  |**<big>&#8207;[[H0834A\|אֲשֶֽׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he commanded you  |**<big>&#8207;[[H6680\|צִוְּ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| tzi.ve.<small><sup>[[HVpp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.13|<< 1 Samuel 13:13]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.15|1 Samuel 13:15 >>]]</td></tr></table>
 
 

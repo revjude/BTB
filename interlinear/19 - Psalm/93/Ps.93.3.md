@@ -1,8 +1,51 @@
+---
+title: Psalm 93:3
+type: Verse
+kjv: "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves."
+bsb: "The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves."
+hebrew: "נָשְׂא֤וּ נְהָר֨וֹת׀ יְֽהוָ֗ה נָשְׂא֣וּ נְהָר֣וֹת קוֹלָ֑ם יִשְׂא֖וּ נְהָר֣וֹת דָּכְיָֽם׃"
+pericope: "[[Ps.93.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 93
+book/chapter: "[[Ps.93|Psalm 93]]"
+chronological_order: 520
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H5375G]]"
+- "[[H5104H]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H1796]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 93:3**<big><big>[[Ps.93.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.
 <small><sub>**BSB:**</sub></small>
 The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375G\|נָשְׂא֤וּ]] [[H5104H\|נְהָר֨וֹת]][[H9015\|׀]] [[H3068G\|יְֽהוָ֗ה]] [[H5375G\|נָשְׂא֣וּ]] [[H5104H\|נְהָר֣וֹת]] [[H6963A\|קוֹלָ֑]][[H9028\|ם]] [[H5375G\|יִשְׂא֖וּ]] [[H5104H\|נְהָר֣וֹת]] [[H1796\|דָּכְיָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.93.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.93.2|<< Psalms 93:2]]</td><td align="center" style="border:none;">[[Ps.93|Psalms 93]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.4|Psalms 93:4 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Cleanses the Temple
+type: Pericope
 pericope: "[[Luke.19.45 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 19
 book/chapter: "[[Luke.19|Luke 19]]"
-genre:
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.19.45]]"
 - "[[Luke.19.46]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.19.48]]"
 ---
 
-[[Luke.19|Luke 19:45 - Luke 19:48]]
+<small>[[Luke.19|Luke 19:45-48]]</small>
 *Jesus Cleanses the Temple*
 
 [[Luke.19.45|45]] And he went into the temple, and began to cast out them that sold therein, and them that bought;

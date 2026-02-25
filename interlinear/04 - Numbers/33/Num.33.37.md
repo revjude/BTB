@@ -1,8 +1,53 @@
+---
+title: Numbers 33:37
+type: Verse
+kjv: "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom."
+bsb: "They set out from Kadesh and camped at Mount Hor, on the outskirts of the land of Edom."
+hebrew: "וַיִּסְע֖וּ מִקָּדֵ֑שׁ וַֽיַּחֲנוּ֙ בְּהֹ֣ר הָהָ֔ר בִּקְצֵ֖ה אֶ֥רֶץ אֱדֽוֹם׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H6946G]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H2023G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H7097A]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:37**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
 <small><sub>**BSB:**</sub></small>
 They set out from Kadesh and camped at Mount Hor, on the outskirts of the land of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מִ]][[H6946G\|קָּדֵ֑שׁ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנוּ֙]] [[H9003\|בְּ]][[H2023G\|הֹ֣ר]] [[H9009\|הָ]][[H2022G\|הָ֔ר]] [[H9003\|בִּ]][[H7097A\|קְצֵ֖ה]] [[H0776G\|אֶ֥רֶץ]] [[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.36|<< Numbers 33:36]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.38|Numbers 33:38 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Genesis 12:16
+type: Verse
+kjv: "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels."
+bsb: "He treated Abram well on her account, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels."
+hebrew: "וּלְאַבְרָ֥ם הֵיטִ֖יב בַּעֲבוּרָ֑הּ וַֽיְהִי־ ל֤וֹ צֹאן־ וּבָקָר֙ וַחֲמֹרִ֔ים וַעֲבָדִים֙ וּשְׁפָחֹ֔ת וַאֲתֹנֹ֖ת וּגְמַלִּֽים׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0087]]"
+- "[[H3190]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H2543]]"
+- "[[H5650]]"
+- "[[H8198]]"
+- "[[H0860]]"
+- "[[H1581]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:16**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
 <small><sub>**BSB:**</sub></small>
 He treated Abram well on her account, and Abram acquired sheep and cattle, male and female donkeys, menservants and maidservants, and camels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0087\|אַבְרָ֥ם]] [[H3190\|הֵיטִ֖יב]] [[H9003\|בַּ]][[H5668\|עֲבוּרָ֑]][[H9034\|הּ]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H6629G\|צֹאן]][[H9014\|־]] [[H9002\|וּ]][[H1241\|בָקָר֙]] [[H9002\|וַ]][[H2543\|חֲמֹרִ֔ים]] [[H9002\|וַ]][[H5650\|עֲבָדִים֙]] [[H9002\|וּ]][[H8198\|שְׁפָחֹ֔ת]] [[H9002\|וַ]][[H0860\|אֲתֹנֹ֖ת]] [[H9002\|וּ]][[H1581\|גְמַלִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic CAMEL|CAMEL]] • [[topic COWARDICE|COWARDICE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PHARAOH|PHARAOH]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.15|<< Genesis 12:15]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.17|Genesis 12:17 >>]]</td></tr></table>
 

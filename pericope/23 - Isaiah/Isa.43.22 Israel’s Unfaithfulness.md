@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Unfaithfulness
+type: Pericope
 pericope: "[[Isa.43.22 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 43
 book/chapter: "[[Isa.43|Isaiah 43]]"
-genre:
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.43.22]]"
 - "[[Isa.43.23]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.43.28]]"
 ---
 
-[[Isa.43|Isaiah 43:22 - Isaiah 43:28]]
+<small>[[Isa.43|Isaiah 43:22-28]]</small>
 *Israel’s Unfaithfulness*
 
 [[Isa.43.22|22]] But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.

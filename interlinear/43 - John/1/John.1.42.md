@@ -1,10 +1,66 @@
+---
+title: John 1:42
+type: Verse
+kjv: "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+bsb: "Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas” (which is translated as Peter)."
+jesus_said: "Thou art Simon the son of Jona: thou shalt be called Cephas,"
+greek: "καὶ ἤγαγεν αὐτὸν πρὸς τὸν Ἰησοῦν. ἐμβλέψας δὲ αὐτῷ ὁ Ἰησοῦς εἶπεν· σὺ εἶ Σίμων ὁ υἱὸς Ἰωάννου· σὺ κληθήσῃ Κηφᾶς, ὃ ἑρμηνεύεται Πέτρος.¶"
+pericope: "[[John.1.35 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAS|JONAS]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1689]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G4613O]]"
+- "[[G5207]]"
+- "[[G2491K]]"
+- "[[G2564G]]"
+- "[[G2786]]"
+- "[[G3739]]"
+- "[[G2059]]"
+- "[[G4074G]]"
+texts:
+- k
+- NKO
+- N(K)O
+---
+
 **John 1:42**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
 <small><sub>**BSB:**</sub></small>
 Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas” (which is translated as Peter).
-<small><sub>**Literal:**</sub></small>
-and He led him to <the> Jesus. Having looked at now him <the> Jesus said; You yourself are Simon the son of John; You yourself will be called Cephas which means Peter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.41|<< John 1:41]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.43|John 1:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0071\|ἤγαγεν]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν.]]  [[G1689\|ἐμβλέψας]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G4613O\|Σίμων]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G2491K\|Ἰωάννου·]]  [[G4771\|σὺ]]  [[G2564G\|κληθήσῃ]]  [[G2786\|Κηφᾶς,]]  [[G3739\|ὃ]]  [[G2059\|ἑρμηνεύεται]]  [[G4074G\|Πέτρος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAS|JONAS]] • [[topic PETER|PETER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.41|<< John 1:41]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.43|John 1:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

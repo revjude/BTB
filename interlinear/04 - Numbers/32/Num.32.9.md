@@ -1,8 +1,73 @@
+---
+title: Numbers 32:9
+type: Verse
+kjv: "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
+bsb: "For when your fathers went up to the Valley of Eshcol and saw the land, they discouraged the Israelites from entering the land that the LORD had given them."
+hebrew: "וַֽיַּעֲל֞וּ עַד־ נַ֣חַל אֶשְׁכּ֗וֹל וַיִּרְאוּ֙ אֶת־ הָאָ֔רֶץ וַיָּנִ֕יאוּ אֶת־ לֵ֖ב בְּנֵ֣י יִשְׂרָאֵ֑ל לְבִלְתִּי־ בֹא֙ אֶל־ הָאָ֔רֶץ אֲשֶׁר־ נָתַ֥ן לָהֶ֖ם יְהוָֽה׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic ESHCOL|ESHCOL]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5158H]]"
+- "[[H0812H]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5106]]"
+- "[[H3820A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:9**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.
 <small><sub>**BSB:**</sub></small>
 For when your fathers went up to the Valley of Eshcol and saw the land, they discouraged the Israelites from entering the land that the LORD had given them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927G\|יַּעֲל֞וּ]] [[H5704\|עַד]][[H9014\|־]] [[H5158H\|נַ֣חַל]] [[H0812H\|אֶשְׁכּ֗וֹל]] [[H9001\|וַ]][[H7200G\|יִּרְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H5106\|יָּנִ֕יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֖ב]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לְ]][[H1115\|בִלְתִּי]][[H9014\|־]] [[H0935G\|בֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic ESHCOL|ESHCOL]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.8|<< Numbers 32:8]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.10|Numbers 32:10 >>]]</td></tr></table>
 

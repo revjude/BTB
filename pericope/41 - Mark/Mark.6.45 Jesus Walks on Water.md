@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Walks on Water
+type: Pericope
 pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.6.45]]"
 - "[[Mark.6.46]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.6.52]]"
 ---
 
-[[Mark.6|Mark 6:45 - Mark 6:52]]
+<small>[[Mark.6|Mark 6:45-52]]</small>
 *Jesus Walks on Water*
 
 [[Mark.6.45|45]] And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.

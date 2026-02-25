@@ -1,8 +1,64 @@
+---
+title: Numbers 16:12
+type: Verse
+kjv: "And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:"
+bsb: "Then Moses summoned Dathan and Abiram, the sons of Eliab, but they said, “We will not come!"
+hebrew: "וַיִּשְׁלַ֣ח מֹשֶׁ֔ה לִקְרֹ֛א לְדָתָ֥ן וְלַאֲבִירָ֖ם בְּנֵ֣י אֱלִיאָ֑ב וַיֹּאמְר֖וּ לֹ֥א נַעֲלֶֽה׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H1885]]"
+- "[[H9002]]"
+- "[[H0048G]]"
+- "[[H1121A]]"
+- "[[H0446H]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:12**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 <small><sub>**BSB:**</sub></small>
 Then Moses summoned Dathan and Abiram, the sons of Eliab, but they said, “We will not come!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לִ]][[H7121G\|קְרֹ֛א]] [[H9005\|לְ]][[H1885\|דָתָ֥ן]] [[H9002\|וְ]][[H9005\|לַ]][[H0048G\|אֲבִירָ֖ם]] [[H1121A\|בְּנֵ֣י]] [[H0446H\|אֱלִיאָ֑ב]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H3808\|לֹ֥א]] [[H5927G\|נַעֲלֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ELIAB|ELIAB]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.11|<< Numbers 16:11]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.13|Numbers 16:13 >>]]</td></tr></table>
 

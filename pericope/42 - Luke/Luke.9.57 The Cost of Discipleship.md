@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cost of Discipleship
+type: Pericope
 pericope: "[[Luke.9.57 The Cost of Discipleship|The Cost of Discipleship]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.9.57]]"
 - "[[Luke.9.58]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.9.62]]"
 ---
 
-[[Luke.9|Luke 9:57 - Luke 9:62]]
+<small>[[Luke.9|Luke 9:57-62]]</small>
 *The Cost of Discipleship*
 
 [[Luke.9.57|57]] And it came to pass, that, as they went in the way, a certain \[man\] said unto him, Lord, I will follow thee whithersoever thou goest.

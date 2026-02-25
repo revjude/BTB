@@ -1,8 +1,75 @@
+---
+title: Exodus 9:33
+type: Verse
+kjv: "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth."
+bsb: "Then Moses departed from Pharaoh, went out of the city, and spread out his hands to the LORD. The thunder and hail ceased, and the rain no longer poured down on the land."
+hebrew: "וַיֵּצֵ֨א מֹשֶׁ֜ה מֵעִ֤ם פַּרְעֹה֙ אֶת־ הָעִ֔יר וַיִּפְרֹ֥שׂ כַּפָּ֖יו אֶל־ יְהוָ֑ה וַֽיַּחְדְּל֤וּ הַקֹּלוֹת֙ וְהַבָּרָ֔ד וּמָטָ֖ר לֹא־ נִתַּ֥ךְ אָֽרְצָה׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4872]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H6547J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H2308]]"
+- "[[H6963I]]"
+- "[[H9002]]"
+- "[[H1259]]"
+- "[[H4306]]"
+- "[[H3808]]"
+- "[[H5413]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:33**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then Moses departed from Pharaoh, went out of the city, and spread out his hands to the LORD. The thunder and hail ceased, and the rain no longer poured down on the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H4872\|מֹשֶׁ֜ה]] [[H9006\|מֵ]][[H5973B\|עִ֤ם]] [[H6547J\|פַּרְעֹה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H6566\|יִּפְרֹ֥שׂ]] [[H3709G\|כַּפָּ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַֽ]][[H2308\|יַּחְדְּל֤וּ]] [[H9009\|הַ]][[H6963I\|קֹּלוֹת֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1259\|בָּרָ֔ד]] [[H9002\|וּ]][[H4306\|מָטָ֖ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5413\|נִתַּ֥ךְ]] [[H0776G\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PLAGUE|PLAGUE]] • [[topic RAIN|RAIN]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.32|<< Exodus 9:32]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.34|Exodus 9:34 >>]]</td></tr></table>
 

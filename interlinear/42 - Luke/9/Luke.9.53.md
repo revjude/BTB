@@ -1,10 +1,55 @@
+---
+title: Luke 9:53
+type: Verse
+kjv: "And they did not receive him, because his face was as though he would go to Jerusalem."
+bsb: "But the people there refused to welcome Him, because He was heading for Jerusalem."
+greek: "καὶ οὐκ ἐδέξαντο αὐτὸν ὅτι τὸ πρόσωπον αὐτοῦ ἦν πορευόμενον εἰς Ἰερουσαλήμ."
+pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1209]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1510]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2419]]"
+texts:
+- NKO
+---
+
 **Luke 9:53**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they did not receive him, because his face was as though he would go to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 But the people there refused to welcome Him, because He was heading for Jerusalem.
-<small><sub>**Literal:**</sub></small>
-And not they did receive Him because the face of Him was [as] going toward Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.52|<< Luke 9:52]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.54|Luke 9:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1209\|ἐδέξαντο]]  [[G0846\|αὐτὸν]]  [[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἦν]]  [[G4198\|πορευόμενον]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RETALIATION|RETALIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.52|<< Luke 9:52]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.54|Luke 9:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

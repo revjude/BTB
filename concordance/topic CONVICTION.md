@@ -1,15 +1,15 @@
 
 **CONVICTION**
 
-→ OF SIN [[Gen.4.13|Ge 4:13]]; [[Deut.28.65|De 28:65]]-[[Deut.28.67|67]]; [[Job.40.4|Job 40:4]],[[Job.40.5|5]]; [[Ps.31.10|Ps 31:10]];  [[Ps.38.1|38:1]]-[[Ps.38.22|22]]; [[Ps.51.1|51:1]]-[[Ps.51.4|4]],[[Ps.51.7|7]]-[[Ps.51.17|17]]; [[Isa.6.5|Isa 6:5]]; [[Lam.1.20|La 1:20]]; [[Ezek.7.16|Eze 7:16]],[[Ezek.7.17|17]],[[Ezek.7.25|25]],[[Ezek.7.26|26]]; [[Ezek.33.10|33:10]]; [[Mic.7.17|Mic 7:17]]; [[Luke.5.8|Lu 5:8]];  [[Acts.2.37|Ac 2:37]]; [[Acts.9.6|9:6]]; [[Acts.16.29|16:29]],[[Acts.16.30|30]]; [[Rom.2.15|Ro 2:15]]; [[1Cor.14.24|1Co 14:24]],[[1Cor.14.25|25]]
+→ OF SIN [[Gen.4.13|Ge 4:13]]; [[Deut.28.65|De 28:65-67]]; [[Job.40.4|Job 40:4]],[[Job.40.5|5]]; [[Ps.31.10|Ps 31:10]];  [[Ps.38.1|38:1-22]]; [[Ps.51.1|51:1-4]],[[Ps.51.7|7-17]]; [[Isa.6.5|Isa 6:5]]; [[Lam.1.20|La 1:20]]; [[Ezek.7.16|Eze 7:16]],[[Ezek.7.17|17]],[[Ezek.7.25|25]],[[Ezek.7.26|26]]; [[Ezek.33.10|33:10]]; [[Mic.7.17|Mic 7:17]]; [[Luke.5.8|Lu 5:8]];  [[Acts.2.37|Ac 2:37]]; [[Acts.9.6|9:6]]; [[Acts.16.29|16:29]],[[Acts.16.30|30]]; [[Rom.2.15|Ro 2:15]]; [[1Cor.14.24|1Co 14:24]],[[1Cor.14.25|25]]
 
 - See [[topic SIN|SIN, CONFESSION OF]]
 
 → INSTANCES OF
 
-- Adam and Eve, after their disobedience [[Gen.3.8|Ge 3:8]]-[[Gen.3.10|10]]
+- Adam and Eve, after their disobedience [[Gen.3.8|Ge 3:8-10]]
 
-- Joseph's brother, on account of their cruelty to Joseph  [[Gen.42.21|Ge 42:21]],[[Gen.42.22|22]]; [[Gen.44.16|44:16]]; [[Gen.45.3|45:3]]; [[Gen.50.15|50:15]]-[[Gen.50.21|21]]
+- Joseph's brother, on account of their cruelty to Joseph  [[Gen.42.21|Ge 42:21]],[[Gen.42.22|22]]; [[Gen.44.16|44:16]]; [[Gen.45.3|45:3]]; [[Gen.50.15|50:15-21]]
 
 - Pharaoh
 
@@ -51,7 +51,7 @@ At the preaching of Jonah [[Jonah.3|Jon 3]]; [[Matt.12.41|Mt 12:41]]; [[Luke.11.
 
 - Jews, when Jesus commanded the guiltless man to cast the first  stone at the woman taken in adultery [[John.8.9|Joh 8:9]]
 
-- Judas, after his betrayal of Jesus [[Matt.27.3|Mt 27:3]]-[[Matt.27.5|5]]
+- Judas, after his betrayal of Jesus [[Matt.27.3|Mt 27:3-5]]
 
 - Saul of Tarsus, when he saw Jesus on the way to Damascus  [[Acts.9.6|Ac 9:6]]
 
@@ -61,7 +61,7 @@ At the preaching of Jonah [[Jonah.3|Jon 3]]; [[Matt.12.41|Mt 12:41]]; [[Luke.11.
 
 - See [[topic WICKED (PEOPLE)|WICKED]]
 
-→ FROM GOD [[Job.33.14|Job 33:14]]-[[Job.33.30|30]]; [[John.6.44|Joh 6:44]],[[John.6.45|45]]; [[John.16.7|16:7]]-[[John.16.11|11]]; [[Acts.16.14|Ac 16:14]]
+→ FROM GOD [[Job.33.14|Job 33:14-30]]; [[John.6.44|Joh 6:44]],[[John.6.45|45]]; [[John.16.7|16:7-11]]; [[Acts.16.14|Ac 16:14]]
 
 - See [[topic PENITENT|PENITENTS]]
 

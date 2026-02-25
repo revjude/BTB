@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 20:27
+type: Verse
+kjv: "And it came to pass on the morrow, which was the second day of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?"
+bsb: "But on the day after the New Moon, the second day, David’s place was still empty, and Saul asked his son Jonathan, “Why hasn’t the son of Jesse come to the meal either yesterday or today?”"
+hebrew: "וַיְהִ֗י מִֽמָּחֳרַ֤ת הַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י וַיִּפָּקֵ֖ד מְק֣וֹם דָּוִ֑ד ס וַיֹּ֤אמֶר שָׁאוּל֙ אֶל־ יְהוֹנָתָ֣ן בְּנ֔וֹ מַדּ֜וּעַ לֹא־ בָ֧א בֶן־ יִשַׁ֛י גַּם־ תְּמ֥וֹל גַּם־ הַיּ֖וֹם אֶל־ הַלָּֽחֶם׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9009]]"
+- "[[H2320H]]"
+- "[[H8145]]"
+- "[[H6485K]]"
+- "[[H4725]]"
+- "[[H1732]]"
+- "[[H9018]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3083H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H3448]]"
+- "[[H1571]]"
+- "[[H8543]]"
+- "[[H3117G]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:27**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, [which was] the second [day] of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?
 <small><sub>**BSB:**</sub></small>
 But on the day after the New Moon, the second day, David’s place was still empty, and Saul asked his son Jonathan, “Why hasn’t the son of Jesse come to the meal either yesterday or today?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9006\|מִֽ]][[H4283\|מָּחֳרַ֤ת]] [[H9009\|הַ]][[H2320H\|חֹ֙דֶשׁ֙]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9001\|וַ]][[H6485K\|יִּפָּקֵ֖ד]] [[H4725\|מְק֣וֹם]] [[H1732\|דָּוִ֑ד]] [[H9018\|ס]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H7586G\|שָׁאוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3083H\|יְהוֹנָתָ֣ן]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H4069\|מַדּ֜וּעַ]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָ֧א]] [[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשַׁ֛י]] [[H1571\|גַּם]][[H9014\|־]] [[H8543\|תְּמ֥וֹל]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3899G\|לָּֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.26|<< 1 Samuel 20:26]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.28|1 Samuel 20:28 >>]]</td></tr></table>
 
@@ -14,7 +75,7 @@ But on the day after the New Moon, the second day, David’s place was still emp
 | \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it was empty  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6485K\|יִּפָּקֵ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.pa.Ked<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] place of  |**<big>&#8207;[[H4725\|מְק֣וֹם]]&#8207; </big>**| me.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| David  |**<big>&#8207;[[H1732\|דָּוִ֑ד]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| David  |**<big>&#8207;[[H1732\|דָּוִ֑ד]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁאוּל֙]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

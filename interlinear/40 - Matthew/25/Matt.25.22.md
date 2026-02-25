@@ -1,10 +1,72 @@
+---
+title: Matthew 25:22
+type: Verse
+kjv: "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+bsb: "The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’"
+jesus_said: "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+greek: "Προσελθὼν δὲ καὶ ὁ τὰ δύο τάλαντα λαβὼν εἶπεν· κύριε, δύο τάλαντά μοι παρέδωκας· ἴδε ἄλλα δύο τάλαντα ἐκέρδησα ἐπ᾽ αὐτοῖς."
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G5007]]"
+- "[[G2983]]"
+- "[[G2036]]"
+- "[[G2962H]]"
+- "[[G3165]]"
+- "[[G3860]]"
+- "[[G2396]]"
+- "[[G0243]]"
+- "[[G2770]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:22**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.
 <small><sub>**BSB:**</sub></small>
 The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’
-<small><sub>**Literal:**</sub></small>
-Having come then also the [one] with the two talents having taken he said; Master, two talents to me you did deliver; Behold more two talents I gained upon them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.21|<< Matthew 25:21]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.23|Matthew 25:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|Προσελθὼν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3588\|τὰ]]  [[G1417\|δύο]]  [[G5007\|τάλαντα]]  [[G2983\|λαβὼν]]  [[G2036\|εἶπεν·]]  [[G2962H\|κύριε,]]  [[G1417\|δύο]]  [[G5007\|τάλαντά]]  [[G3165\|μοι]]  [[G3860\|παρέδωκας·]]  [[G2396\|ἴδε]]  [[G0243\|ἄλλα]]  [[G1417\|δύο]]  [[G5007\|τάλαντα]]  [[G2770\|ἐκέρδησα]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.21|<< Matthew 25:21]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.23|Matthew 25:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

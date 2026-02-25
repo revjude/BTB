@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Joy of Forgiveness
+type: Pericope
 pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 32
 book/chapter: "[[Ps.32|Psalm 32]]"
-genre:
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.32.0]]"
 - "[[Ps.32.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.32.11]]"
 ---
 
-[[Ps.32|Psalm 32:1 - Psalm 32:11]]
+<small>[[Ps.32|Psalm 32:1-11]]</small>
 *The Joy of Forgiveness*
 
 [[Ps.32.0|0]] \[A Psalm\] of David, Maschil.

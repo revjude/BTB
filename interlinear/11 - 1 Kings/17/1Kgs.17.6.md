@@ -1,8 +1,65 @@
+---
+title: 1 Kings 17:6
+type: Verse
+kjv: "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook."
+bsb: "The ravens would bring him bread and meat in the morning and evening, and he would drink from the brook."
+hebrew: "וְהָעֹרְבִ֗ים מְבִיאִ֨ים ל֜וֹ לֶ֤חֶם וּבָשָׂר֙ בַּבֹּ֔קֶר וְלֶ֥חֶם וּבָשָׂ֖ר בָּעָ֑רֶב וּמִן־ הַנַּ֖חַל יִשְׁתֶּֽה׃"
+pericope: "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHERITH|CHERITH]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RAVEN|RAVEN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6158]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3899H]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H6153]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5158A]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:6**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
 <small><sub>**BSB:**</sub></small>
 The ravens would bring him bread and meat in the morning and evening, and he would drink from the brook.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H6158\|עֹרְבִ֗ים]] [[H0935P\|מְבִיאִ֨ים]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H3899H\|לֶ֤חֶם]] [[H9002\|וּ]][[H1320\|בָשָׂר֙]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H3899H\|לֶ֥חֶם]] [[H9002\|וּ]][[H1320\|בָשָׂ֖ר]] [[H9003\|בָּ]][[H6153\|עָ֑רֶב]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5158A\|נַּ֖חַל]] [[H8354\|יִשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHERITH|CHERITH]] • [[topic ELIJAH|ELIJAH]] • [[topic FRUGALITY|FRUGALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic RAVEN|RAVEN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.5|<< 1 Kings 17:5]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.7|1 Kings 17:7 >>]]</td></tr></table>
 

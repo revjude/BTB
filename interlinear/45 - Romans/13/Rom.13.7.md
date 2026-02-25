@@ -1,10 +1,51 @@
+---
+title: Romans 13:7
+type: Verse
+kjv: "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
+bsb: "Pay everyone what you owe him: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due."
+greek: "ἀπόδοτε οὖν πᾶσιν τὰς ὀφειλάς, τῷ τὸν φόρον τὸν φόρον, τῷ τὸ τέλος τὸ τέλος, τῷ τὸν φόβον τὸν φόβον, τῷ τὴν τιμὴν τὴν τιμήν."
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G0591]]"
+- "[[G3767]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3782]]"
+- "[[G5411]]"
+- "[[G5056]]"
+- "[[G5401]]"
+- "[[G5092]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 13:7**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Render therefore to all their dues: tribute to whom tribute [is due]; custom to whom custom; fear to whom fear; honour to whom honour.
 <small><sub>**BSB:**</sub></small>
 Pay everyone what you owe him: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.
-<small><sub>**Literal:**</sub></small>
-do render therefore to all their dues, to whom the tax the tax, to whom the revenue the revenue, to whom the respect the respect, to whom the honor the honor.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.6|<< Romans 13:6]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.8|Romans 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0591\|ἀπόδοτε]]  [[G3767\|οὖν]]  [[G3956\|πᾶσιν]]  [[G3588\|τὰς]]  [[G3782\|ὀφειλάς,]]  [[G3588\|τῷ]]  [[G3588\|τὸν]]  [[G5411\|φόρον]]  [[G3588\|τὸν]]  [[G5411\|φόρον,]]  [[G3588\|τῷ]]  [[G3588\|τὸ]]  [[G5056\|τέλος]]  [[G3588\|τὸ]]  [[G5056\|τέλος,]]  [[G3588\|τῷ]]  [[G3588\|τὸν]]  [[G5401\|φόβον]]  [[G3588\|τὸν]]  [[G5401\|φόβον,]]  [[G3588\|τῷ]]  [[G3588\|τὴν]]  [[G5092\|τιμὴν]]  [[G3588\|τὴν]]  [[G5092\|τιμήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.6|<< Romans 13:6]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.8|Romans 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

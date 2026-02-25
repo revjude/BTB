@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jabesh-gilead’s Tribute to Saul
+type: Pericope
 pericope: "[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|Jabesh-gilead’s Tribute to Saul]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 10
 book/chapter: "[[1Chr.10|1 Chronicles 10]]"
-genre:
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 4
 verses:
 - "[[1Chr.10.11]]"
 - "[[1Chr.10.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Chr.10.14]]"
 ---
 
-[[1Chr.10|1 Chronicles 10:11 - 1 Chronicles 10:14]]
+<small>[[1Chr.10|1 Chronicles 10:11-14]]</small>
 *Jabesh-gilead’s Tribute to Saul*
 
 [[1Chr.10.11|11]] And when all Jabeshgilead heard all that the Philistines had done to Saul,

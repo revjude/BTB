@@ -1,8 +1,64 @@
+---
+title: Job 7:21
+type: Verse
+kjv: "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be."
+bsb: "Why do You not pardon my transgression and take away my iniquity? For soon I will lie down in the dust; You will seek me, but I will be no more.”"
+hebrew: "וּמֶ֤ה׀ לֹא־ תִשָּׂ֣א פִשְׁעִי֮ וְתַעֲבִ֪יר אֶת־ עֲוֹ֫נִ֥י כִּֽי־ עַ֭תָּה לֶעָפָ֣ר אֶשְׁכָּ֑ב וְשִׁ֖חֲרְתַּ֣נִי וְאֵינֶֽנִּי׃ פ"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375I]]"
+- "[[H6588]]"
+- "[[H9020]]"
+- "[[H5674C]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H6083]]"
+- "[[H7901J]]"
+- "[[H9001]]"
+- "[[H7836]]"
+- "[[H9030]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 7:21**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I [shall] not [be].
 <small><sub>**BSB:**</sub></small>
 Why do You not pardon my transgression and take away my iniquity? For soon I will lie down in the dust; You will seek me, but I will be no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4100\|מֶ֤ה]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H5375I\|תִשָּׂ֣א]] [[H6588\|פִשְׁעִ]][[H9020\|י֮]] [[H9002\|וְ]][[H5674C\|תַעֲבִ֪יר]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹ֫נִ֥]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H9005\|לֶ]][[H6083\|עָפָ֣ר]] [[H7901J\|אֶשְׁכָּ֑ב]] [[H9001\|וְ]][[H7836\|שִׁ֖חֲרְתַּ֣]][[H9030\|נִי]] [[H9002\|וְ]][[H0369\|אֵינֶֽ]][[H9040\|נִּי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.20|<< Job 7:20]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.1|Job 8:1 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ Why do You not pardon my transgression and take away my iniquity? For soon I wil
 | to the dust  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H6083\|עָפָ֣ר]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will lie down  |**<big>&#8207;[[H7901J\|אֶשְׁכָּ֑ב]]&#8207; </big>**| 'esh.Kav<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will look for me  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7836\|שִׁ֖חֲרְתַּ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shi.char.Ta.<small><sup>[[HVpq2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and there not [will be] me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9040\|נִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and there not [will be] me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9040\|נִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.20|<< Job 7:20]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.1|Job 8:1 >>]]</td></tr></table>
 
 

@@ -1,6 +1,62 @@
+---
+title: LXX Ecclesiastes 12:3
+type: Verse
+lxx: "in a day in which ever the keepers of the house should be shaken, and men of power should be turned aside, and the grinding women are idle because they are made few, and the women looking out of the openings shall darken;"
+greek: "εν ημέρα η αν σαλευθώσι φύλακες της οικίας και διαστραφώσιν άνδρες της δυνάμεως και ήργησαν αι αλήθουσαι ότι ωλιγώθησαν και σκοτάσουσιν αι βλέπουσαι εν ταις οπαίς"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G4531]]"
+- "[[G5441]]"
+- "[[G3588]]"
+- "[[G3614]]"
+- "[[G2532]]"
+- "[[G1294]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G0691]]"
+- "[[G3588]]"
+- "[[G0229]]"
+- "[[G3754]]"
+- "[[G8487]]"
+- "[[G2532]]"
+- "[[G9117]]"
+- "[[G3588]]"
+- "[[G0991]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3692]]"
+---
+
 **LXX Ecclesiastes 12:3** 
 <small><sub>**LXX:**</sub></small>
 in a day in which ever \[the\] keepers of the house should be shaken, and men of power should be turned aside, and the grinding \[women\] \[are\] idle because they are made few, and the \[women\] looking out of the openings shall darken; 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G2250\|ημέρα]] [[G3739\|η]] [[G0302\|αν]] [[G4531\|σαλευθώσι]] [[G5441\|φύλακες]] [[G3588\|της]] [[G3614\|οικίας]] [[G2532\|και]] [[G1294\|διαστραφώσιν]] [[G0435\|άνδρες]] [[G3588\|της]] [[G1411\|δυνάμεως]] [[G2532\|και]] [[G0691\|ήργησαν]] [[G3588\|αι]] [[G0229\|αλήθουσαι]] [[G3754\|ότι]] [[G8487\|ωλιγώθησαν]] [[G2532\|και]] [[G9117\|σκοτάσουσιν]] [[G3588\|αι]] [[G0991\|βλέπουσαι]] [[G1722\|εν]] [[G3588\|ταις]] [[G3692\|οπαίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLD AGE|OLD AGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
@@ -32,6 +88,6 @@ in a day in which ever \[the\] keepers of the house should be shaken, and men of
 | out of | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|ταις]]</big>** |
 | openings | **<big>[[G3692\|οπαίς]]</big>** |
-[[Eccl.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
 

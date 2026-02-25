@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Jerusalem and Judah
+type: Pericope
 pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 3
 book/chapter: "[[Isa.3|Isaiah 3]]"
-genre:
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.3.1]]"
 - "[[Isa.3.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.3.15]]"
 ---
 
-[[Isa.3|Isaiah 3:1 - Isaiah 3:15]]
+<small>[[Isa.3|Isaiah 3:1-15]]</small>
 *Judgment on Jerusalem and Judah*
 
 [[Isa.3.1|1]] For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,

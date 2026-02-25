@@ -1,10 +1,75 @@
+---
+title: Luke 6:48
+type: Verse
+kjv: "He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock."
+bsb: "He is like a man building a house, who dug down deep and laid his foundation on the rock. When the flood came, the torrent crashed against that house but could not shake it, because it was well built."
+jesus_said: "He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock."
+greek: "ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν. πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν ἐπὶ τὴν πέτραν.¶"
+pericope: "[[Luke.6.46 The House on the Rock|The House on the Rock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3618]]"
+- "[[G3614G]]"
+- "[[G3739]]"
+- "[[G4626]]"
+- "[[G2532]]"
+- "[[G0900]]"
+- "[[G5087]]"
+- "[[G2310]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4073]]"
+- "[[G4132]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G4366]]"
+- "[[G4215]]"
+- "[[G1565]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G4531]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G2573]]"
+texts:
+- NKO
+- N(k)O
+- no
+- k
+---
+
 **Luke 6:48**<big><big>[[Luke.6.46 The House on the Rock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 <small><sub>**BSB:**</sub></small>
 He is like a man building a house, who dug down deep and laid his foundation on the rock. When the flood came, the torrent crashed against that house but could not shake it, because it was well built.
-<small><sub>**Literal:**</sub></small>
-Like he is to a man building a house who dug and he deepened and he laid a foundation on the rock. when a flood then having come burst upon the stream the house that, and not was able to shake it because <the> well to have been built it upon the rock.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.47|<< Luke 6:47]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.49|Luke 6:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3664\|ὅμοιός]]  [[G1510\|ἐστιν]]  [[G0444\|ἀνθρώπῳ]]  [[G3618\|οἰκοδομοῦντι]]  [[G3614G\|οἰκίαν]]  [[G3739\|ὃς]]  [[G4626\|ἔσκαψεν]]  [[G2532\|καὶ]]  [[G0900\|ἐβάθυνεν]]  [[G2532\|καὶ]]  [[G5087\|ἔθηκεν]]  [[G2310\|θεμέλιον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4073\|πέτραν.]]  [[G4132\|πλημμύρης]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G4366\|προσέρηξεν]]  [[G3588\|ὁ]]  [[G4215\|ποταμὸς]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G1565\|ἐκείνῃ,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυσεν]]  [[G4531\|σαλεῦσαι]]  [[G0846\|αὐτὴν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2573\|καλῶς]]  [[G3618\|οἰκοδομῆσθαι]]  [[G0846\|αὐτήν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4073\|πέτραν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.47|<< Luke 6:47]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.49|Luke 6:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

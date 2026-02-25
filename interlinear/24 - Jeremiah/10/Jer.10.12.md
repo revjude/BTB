@@ -1,8 +1,59 @@
+---
+title: Jeremiah 10:12
+type: Verse
+kjv: "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion."
+bsb: "The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding."
+hebrew: "עֹשֵׂ֥ה אֶ֙רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H6213H]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H3559I]]"
+- "[[H8398]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H8394]]"
+- "[[H5186]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:12**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.
 <small><sub>**BSB:**</sub></small>
 The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|עֹשֵׂ֥ה]] [[H0776G\|אֶ֙רֶץ֙]] [[H9003\|בְּ]][[H3581B\|כֹח֔]][[H9023\|וֹ]] [[H3559I\|מֵכִ֥ין]] [[H8398\|תֵּבֵ֖ל]] [[H9003\|בְּ]][[H2451\|חָכְמָת֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בִ]][[H8394\|תְבוּנָת֖]][[H9023\|וֹ]] [[H5186\|נָטָ֥ה]] [[H8064\|שָׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.11|<< Jeremiah 10:11]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.13|Jeremiah 10:13 >>]]</td></tr></table>
 

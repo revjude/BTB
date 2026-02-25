@@ -1,6 +1,50 @@
+---
+title: LXX Job 10:16
+type: Verse
+lxx: "For I am caught as a lion for slaughter; and again in turning you destroy me awfully;"
+greek: "αγρεύομαι γαρ ώσπερ λέων εις σφαγήν πάλιν δε μεταβαλών δεινώς με ολέκεις"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[G0064]]"
+- "[[G1063]]"
+- "[[G5618]]"
+- "[[G3023]]"
+- "[[G1519]]"
+- "[[G4967]]"
+- "[[G3825]]"
+- "[[G1161]]"
+- "[[G3328]]"
+- "[[G1171]]"
+- "[[G1473]]"
+- "[[G8481]]"
+---
+
 **LXX Job 10:16** 
 <small><sub>**LXX:**</sub></small>
 For I am caught as a lion for slaughter; and again in turning you destroy me awfully; 
+<small><sub>**Greek:**</sub></small>
+[[G0064\|αγρεύομαι]] [[G1063\|γαρ]] [[G5618\|ώσπερ]] [[G3023\|λέων]] [[G1519\|εις]] [[G4967\|σφαγήν]] [[G3825\|πάλιν]] [[G1161\|δε]] [[G3328\|μεταβαλών]] [[G1171\|δεινώς]] [[G1473\|με]] [[G8481\|ολέκεις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HUNTING|HUNTING]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
 
@@ -16,6 +60,6 @@ For I am caught as a lion for slaughter; and again in turning you destroy me awf
 | awfully | **<big>[[G1171\|δεινώς]]</big>** |
 | me | **<big>[[G1473\|με]]</big>** |
 | you destroy | **<big>[[G8481\|ολέκεις]]</big>** |
-[[Job.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
 
 

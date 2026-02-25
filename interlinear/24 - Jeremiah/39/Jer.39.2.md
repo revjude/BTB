@@ -1,8 +1,57 @@
+---
+title: Jeremiah 39:2
+type: Verse
+kjv: "And in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, the city was broken up."
+bsb: "And on the ninth day of the fourth month of Zedekiah’s eleventh year, the city was breached."
+hebrew: "בְּעַשְׁתֵּֽי־ עֶשְׂרֵ֤ה שָׁנָה֙ לְצִדְקִיָּ֔הוּ בַּחֹ֥דֶשׁ הָרְבִיעִ֖י בְּתִשְׁעָ֣ה לַחֹ֑דֶשׁ הָבְקְעָ֖ה הָעִֽיר׃"
+pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H6249]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H6667H]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H8672]]"
+- "[[H1234]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:2**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] in the eleventh year of Zedekiah, in the fourth month, the ninth [day] of the month, the city was broken up.
 <small><sub>**BSB:**</sub></small>
 And on the ninth day of the fourth month of Zedekiah’s eleventh year, the city was breached.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6249\|עַשְׁתֵּֽי]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֤ה]] [[H8141\|שָׁנָה֙]] [[H9005\|לְ]][[H6667H\|צִדְקִיָּ֔הוּ]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H7243\|רְבִיעִ֖י]] [[H9003\|בְּ]][[H8672\|תִשְׁעָ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1234\|הָבְקְעָ֖ה]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.1|<< Jeremiah 39:1]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.3|Jeremiah 39:3 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of Reckoning
+type: Pericope
 pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 2
 book/chapter: "[[Isa.2|Isaiah 2]]"
-genre:
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 18
 verses:
 - "[[Isa.2.5]]"
 - "[[Isa.2.6]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Isa.2.22]]"
 ---
 
-[[Isa.2|Isaiah 2:5 - Isaiah 2:22]]
+<small>[[Isa.2|Isaiah 2:5-22]]</small>
 *The Day of Reckoning*
 
 [[Isa.2.5|5]] O house of Jacob, come ye, and let us walk in the light of the LORD.

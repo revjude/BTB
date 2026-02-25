@@ -1,10 +1,67 @@
+---
+title: Acts 10:22
+type: Verse
+kjv: "And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee."
+bsb: "“Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”"
+greek: "οἱ δὲ εἶπαν· Κορνήλιος ἑκατοντάρχης, ἀνὴρ δίκαιος καὶ φοβούμενος τὸν θεὸν μαρτυρούμενός τε ὑπὸ ὅλου τοῦ ἔθνους τῶν Ἰουδαίων, ἐχρηματίσθη ὑπὸ ἀγγέλου ἁγίου μεταπέμψασθαί σε εἰς τὸν οἶκον αὐτοῦ καὶ ἀκοῦσαι ῥήματα παρὰ σοῦ."
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2883]]"
+- "[[G1543]]"
+- "[[G0435G]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G2316]]"
+- "[[G3140]]"
+- "[[G5037]]"
+- "[[G5259G]]"
+- "[[G3650]]"
+- "[[G1484]]"
+- "[[G2453]]"
+- "[[G5537]]"
+- "[[G0032G]]"
+- "[[G0040G]]"
+- "[[G3343]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G4487]]"
+- "[[G3844]]"
+texts:
+- NKO
+---
+
 **Acts 10:22**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
 <small><sub>**BSB:**</sub></small>
 “Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said; Cornelius a centurion, a man righteous and fearing <the> God being well testified to then by all the nation of the Jews, was divinely instructed by an angel holy to send for you to the house of him and to hear declaration from you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.21|<< Acts 10:21]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.23|Acts 10:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G2883\|Κορνήλιος]]  [[G1543\|ἑκατοντάρχης,]]  [[G0435G\|ἀνὴρ]]  [[G1342\|δίκαιος]]  [[G2532\|καὶ]]  [[G5399\|φοβούμενος]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3140\|μαρτυρούμενός]]  [[G5037\|τε]]  [[G5259G\|ὑπὸ]]  [[G3650\|ὅλου]]  [[G3588\|τοῦ]]  [[G1484\|ἔθνους]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G5537\|ἐχρηματίσθη]]  [[G5259G\|ὑπὸ]]  [[G0032G\|ἀγγέλου]]  [[G0040G\|ἁγίου]]  [[G3343\|μεταπέμψασθαί]]  [[G4771\|σε]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0191\|ἀκοῦσαι]]  [[G4487\|ῥήματα]]  [[G3844\|παρὰ]]  [[G4771\|σοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CATHOLICITY|CATHOLICITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.21|<< Acts 10:21]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.23|Acts 10:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

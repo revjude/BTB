@@ -1,8 +1,67 @@
+---
+title: Ezekiel 12:10
+type: Verse
+kjv: "Say thou unto them, Thus saith the Lord GOD; This burden concerneth the prince in Jerusalem, and all the house of Israel that are among them."
+bsb: "Tell them that this is what the Lord GOD says: ‘This burden concerns the prince in Jerusalem and all the house of Israel who are there.’"
+hebrew: "אֱמֹ֣ר אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה הַנָּשִׂ֞יא הַמַּשָּׂ֤א הַזֶּה֙ בִּיר֣וּשָׁלִַ֔ם וְכָל־ בֵּ֥ית יִשְׂרָאֵ֖ל אֲשֶׁר־ הֵ֥מָּה בְתוֹכָֽם׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H4853B]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:10**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say thou unto them, Thus saith the Lord GOD; This burden [concerneth] the prince in Jerusalem, and all the house of Israel that [are] among them.
 <small><sub>**BSB:**</sub></small>
 Tell them that this is what the Lord GOD says: ‘This burden concerns the prince in Jerusalem and all the house of Israel who are there.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֑ה]] [[H9009\|הַ]][[H5387A\|נָּשִׂ֞יא]] [[H9009\|הַ]][[H4853B\|מַּשָּׂ֤א]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֥מָּה]] [[H9003\|בְ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.9|<< Ezekiel 12:9]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.11|Ezekiel 12:11 >>]]</td></tr></table>
 

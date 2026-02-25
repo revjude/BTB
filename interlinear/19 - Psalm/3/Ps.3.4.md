@@ -1,8 +1,58 @@
+---
+title: Psalm 3:4
+type: Verse
+kjv: "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah."
+bsb: "To the LORD I cry aloud, and He answers me from His holy mountain. Selah"
+hebrew: "ק֭וֹלִי אֶל־ יְהוָ֣ה אֶקְרָ֑א וַיַּֽעֲנֵ֨נִי מֵהַ֖ר קָדְשׁ֣וֹ סֶֽלָה׃"
+pericope: "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7121I]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 3:4**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.
 <small><sub>**BSB:**</sub></small>
 To the LORD I cry aloud, and He answers me from His holy mountain. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֭וֹלִ]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H7121I\|אֶקְרָ֑א]] [[H9001\|וַ]][[H6030B\|יַּֽעֲנֵ֨]][[H9030\|נִי]] [[H9006\|מֵ]][[H2022G\|הַ֖ר]] [[H6944G\|קָדְשׁ֣]][[H9023\|וֹ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.3|<< Psalms 3:3]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.5|Psalms 3:5 >>]]</td></tr></table>
 

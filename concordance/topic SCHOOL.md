@@ -13,11 +13,11 @@
 
 → Crowded attendance at [[2Kgs.6.1|2Ki 6:1]]
 
-→ In the home [[Deut.4.9|De 4:9]],[[Deut.4.10|10]]; [[Deut.6.7|6:7]],[[Deut.6.9|9]]; [[Deut.11.19|11:19]],[[Deut.11.20|20]]; [[Ps.78.5|Ps 78:5]]-[[Ps.78.8|8]]
+→ In the home [[Deut.4.9|De 4:9]],[[Deut.4.10|10]]; [[Deut.6.7|6:7]],[[Deut.6.9|9]]; [[Deut.11.19|11:19]],[[Deut.11.20|20]]; [[Ps.78.5|Ps 78:5-8]]
 
-→ Like a Bible school [[Deut.31.10|De 31:10]]-[[Deut.31.13|13]]
+→ Like a Bible school [[Deut.31.10|De 31:10-13]]
 
-→ State [[2Chr.17.7|2Ch 17:7]]-[[2Chr.17.9|9]]; [[Dan.1.3|Da 1:3]]-[[Dan.1.21|21]]
+→ State [[2Chr.17.7|2Ch 17:7-9]]; [[Dan.1.3|Da 1:3-21]]
 
 → Of Gamaliel [[Acts.5.34|Ac 5:34]]; [[Acts.22.3|22:3]]
 

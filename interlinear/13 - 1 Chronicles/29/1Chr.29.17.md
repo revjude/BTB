@@ -1,8 +1,76 @@
+---
+title: 1 Chronicles 29:17
+type: Verse
+kjv: "I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee."
+bsb: "I know, my God, that You test the heart and delight in uprightness. All these things I have given willingly and with an upright heart, and now I have seen Your people who are present here giving joyfully and willingly to You."
+hebrew: "וְיָדַ֣עְתִּי אֱלֹהַ֔י כִּ֤י אַתָּה֙ בֹּחֵ֣ן לֵבָ֔ב וּמֵישָׁרִ֖ים תִּרְצֶ֑ה אֲנִ֗י בְּיֹ֤שֶׁר לְבָבִי֙ הִתְנַדַּ֣בְתִּי כָל־ אֵ֔לֶּה וְעַתָּ֗ה עַמְּךָ֙ הַנִּמְצְאוּ־ פֹ֔ה רָאִ֥יתִי בְשִׂמְחָ֖ה לְהִֽתְנַדֶּב־ לָֽךְ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H0974]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H4339]]"
+- "[[H7521]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3476]]"
+- "[[H5068]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H6258]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H4672]]"
+- "[[H6311]]"
+- "[[H7200G]]"
+- "[[H8057]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:17**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.
 <small><sub>**BSB:**</sub></small>
 I know, my God, that You test the heart and delight in uprightness. All these things I have given willingly and with an upright heart, and now I have seen Your people who are present here giving joyfully and willingly to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדַ֣עְתִּי]] [[H0430G\|אֱלֹהַ֔]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H0859A\|אַתָּה֙]] [[H0974\|בֹּחֵ֣ן]] [[H3824\|לֵבָ֔ב]] [[H9002\|וּ]][[H4339\|מֵישָׁרִ֖ים]] [[H7521\|תִּרְצֶ֑ה]] [[H0589\|אֲנִ֗י]] [[H9003\|בְּ]][[H3476\|יֹ֤שֶׁר]] [[H3824\|לְבָבִ]][[H9020\|י֙]] [[H5068\|הִתְנַדַּ֣בְתִּי]] [[H3605\|כָל]][[H9014\|־]] [[H0428\|אֵ֔לֶּה]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H4672\|נִּמְצְאוּ]][[H9014\|־]] [[H6311\|פֹ֔ה]] [[H7200G\|רָאִ֥יתִי]] [[H9003\|בְ]][[H8057\|שִׂמְחָ֖ה]] [[H9005\|לְ]][[H5068\|הִֽתְנַדֶּב]][[H9014\|־]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic JOY|JOY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.16|<< 1 Chronicles 29:16]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.18|1 Chronicles 29:18 >>]]</td></tr></table>
 

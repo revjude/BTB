@@ -1,8 +1,63 @@
+---
+title: Jeremiah 48:12
+type: Verse
+kjv: "Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles."
+bsb: "Therefore behold, the days are coming, declares the LORD, when I will send to him wanderers, who will pour him out. They will empty his vessels and shatter his jars."
+hebrew: "לָכֵ֞ן הִנֵּ֖ה־ יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וְשִׁלַּחְתִּי־ ל֥וֹ צֹעִ֖ים וְצֵעֻ֑הוּ וְכֵלָ֣יו יָרִ֔יקוּ וְנִבְלֵיהֶ֖ם יְנַפֵּֽצוּ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H6808]]"
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H7324]]"
+- "[[H5035A]]"
+- "[[H9028]]"
+- "[[H5310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:12**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.
 <small><sub>**BSB:**</sub></small>
 Therefore behold, the days are coming, declares the LORD, when I will send to him wanderers, who will pour him out. They will empty his vessels and shatter his jars.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H2009\|הִנֵּ֖ה]][[H9014\|־]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּי]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H6808\|צֹעִ֖ים]] [[H9001\|וְ]][[H6808\|צֵעֻ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H3627\|כֵלָ֣י]][[H9023\|ו]] [[H7324\|יָרִ֔יקוּ]] [[H9002\|וְ]][[H5035A\|נִבְלֵי]][[H9028\|הֶ֖ם]] [[H5310A\|יְנַפֵּֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.11|<< Jeremiah 48:11]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.13|Jeremiah 48:13 >>]]</td></tr></table>
 

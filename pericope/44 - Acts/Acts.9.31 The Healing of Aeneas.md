@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Healing of Aeneas
+type: Pericope
 pericope: "[[Acts.9.31 The Healing of Aeneas|The Healing of Aeneas]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.9.31]]"
 - "[[Acts.9.32]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.9.35]]"
 ---
 
-[[Acts.9|Acts 9:31 - Acts 9:35]]
+<small>[[Acts.9|Acts 9:31-35]]</small>
 *The Healing of Aeneas*
 
 [[Acts.9.31|31]] Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.

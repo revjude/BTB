@@ -1,8 +1,55 @@
+---
+title: Proverbs 11:21
+type: Verse
+kjv: "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
+bsb: "Be assured that the wicked will not go unpunished, but the offspring of the righteous will escape."
+hebrew: "יָ֣ד לְ֭יָד לֹא־ יִנָּ֣קֶה רָּ֑ע וְזֶ֖רַע צַדִּיקִ֣ים נִמְלָֽט׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3027K]]"
+- "[[H9005]]"
+- "[[H3027V]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5352]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H6662]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:21**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] hand [join] in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
 <small><sub>**BSB:**</sub></small>
 Be assured that the wicked will not go unpunished, but the offspring of the righteous will escape.
+<small><sub>**Hebrew:**</sub></small>
+[[H3027K\|יָ֣ד]] [[H9005\|לְ֭]][[H3027V\|יָד]] [[H3808\|לֹא]][[H9014\|־]] [[H5352\|יִנָּ֣קֶה]] [[H7451H\|רָּ֑ע]] [[H9002\|וְ]][[H2233H\|זֶ֖רַע]] [[H6662\|צַדִּיקִ֣ים]] [[H4422\|נִמְלָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.20|<< Proverbs 11:20]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.22|Proverbs 11:22 >>]]</td></tr></table>
 

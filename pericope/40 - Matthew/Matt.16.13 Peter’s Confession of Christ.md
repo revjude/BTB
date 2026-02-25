@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Confession of Christ
+type: Pericope
 pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 16
 book/chapter: "[[Matt.16|Matthew 16]]"
-genre:
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.16.13]]"
 - "[[Matt.16.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.16.20]]"
 ---
 
-[[Matt.16|Matthew 16:13 - Matthew 16:20]]
+<small>[[Matt.16|Matthew 16:13-20]]</small>
 *Peter’s Confession of Christ*
 
 [[Matt.16.13|13]] When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?

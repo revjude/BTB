@@ -1,8 +1,65 @@
+---
+title: Leviticus 19:25
+type: Verse
+kjv: "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God."
+bsb: "But in the fifth year you may eat its fruit; thus your harvest will be increased. I am the LORD your God."
+hebrew: "וּבַשָּׁנָ֣ה הַחֲמִישִׁ֗ת תֹּֽאכְלוּ֙ אֶת־ פִּרְי֔וֹ לְהוֹסִ֥יף לָכֶ֖ם תְּבוּאָת֑וֹ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HORTICULTURE|HORTICULTURE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3254H]]"
+- "[[H9036]]"
+- "[[H8393]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:25**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 But in the fifth year you may eat its fruit; thus your harvest will be increased. I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֗ת]] [[H0398\|תֹּֽאכְלוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פִּרְי֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H3254H\|הוֹסִ֥יף]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H8393\|תְּבוּאָת֑]][[H9023\|וֹ]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HORTICULTURE|HORTICULTURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.24|<< Leviticus 19:24]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.26|Leviticus 19:26 >>]]</td></tr></table>
 

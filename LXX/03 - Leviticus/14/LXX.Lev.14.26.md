@@ -1,6 +1,53 @@
+---
+title: LXX Leviticus 14:26
+type: Verse
+lxx: "And of the olive oil the priest shall pour upon  his hand -- the left."
+greek: "και από του ελαίου επιχεεί ο ιερεύς επί την χείρα αυτού την αριστεράν"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1637]]"
+- "[[G2022]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0710]]"
+---
+
 **LXX Leviticus 14:26** 
 <small><sub>**LXX:**</sub></small>
 And of the olive oil the priest shall pour upon  his hand -- the left. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0575\|από]] [[G3588\|του]] [[G1637\|ελαίου]] [[G2022\|επιχεεί]] [[G3588\|ο]] [[G2409\|ιερεύς]] [[G1909\|επί]] [[G3588\|την]] [[G5495\|χείρα]] [[G1473\|αυτού]] [[G3588\|την]] [[G0710\|αριστεράν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.25|<< Leviticus 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.27|Leviticus 14:27 >>]]</td></tr></table>
 
@@ -18,6 +65,6 @@ And of the olive oil the priest shall pour upon  his hand -- the left.
 | his hand -- | **<big>[[G5495\|χείρα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | left. | **<big>[[G0710\|αριστεράν]]</big>** |
-[[Lev.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.25|<< Leviticus 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.27|Leviticus 14:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.25|<< Leviticus 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.27|Leviticus 14:27 >>]]</td></tr></table>
 
 

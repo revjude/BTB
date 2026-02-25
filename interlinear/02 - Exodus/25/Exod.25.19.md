@@ -1,8 +1,64 @@
+---
+title: Exodus 25:19
+type: Verse
+kjv: "And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof."
+bsb: "one cherub on one end and one on the other, all made from one piece of gold."
+hebrew: "וַ֠עֲשֵׂה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־ אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־ הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־ הַכְּרֻבִ֖ים עַל־ שְׁנֵ֥י קְצוֹתָֽיו׃"
+pericope: "[[Exod.25.17 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H3742]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3727]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:19**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And make one cherub on the one end, and the other cherub on the other end: [even] of the mercy seat shall ye make the cherubims on the two ends thereof.
 <small><sub>**BSB:**</sub></small>
 one cherub on one end and one on the other, all made from one piece of gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ֠]][[H6213H\|עֲשֵׂה]] [[H3742\|כְּר֨וּב]] [[H0259\|אֶחָ֤ד]] [[H9006\|מִ]][[H7098\|קָּצָה֙]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H9002\|וּ]][[H3742\|כְרוּב]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H9006\|מִ]][[H7098\|קָּצָ֖ה]] [[H9006\|מִ]][[H2088\|זֶּ֑ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּ֛רֶת]] [[H6213H\|תַּעֲשׂ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֥י]] [[H7098\|קְצוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.18|<< Exodus 25:18]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.20|Exodus 25:20 >>]]</td></tr></table>
 

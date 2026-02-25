@@ -1,10 +1,62 @@
+---
+title: John 2:11
+type: Verse
+kjv: "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him."
+bsb: "Jesus performed this, the first of His signs, at Cana in Galilee. He thus revealed His glory, and His disciples believed in Him."
+greek: "ταύτην ἐποίησεν τὴν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς ἐν Κανὰ τῆς Γαλιλαίας καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ.¶"
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G4592]]"
+- "[[G2424G]]"
+- "[[G1722]]"
+- "[[G2580]]"
+- "[[G1056G]]"
+- "[[G2532]]"
+- "[[G5319]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G3101]]"
+texts:
+- NKO
+- k
+---
+
 **John 2:11**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 <small><sub>**BSB:**</sub></small>
 Jesus performed this, the first of His signs, at Cana in Galilee. He thus revealed His glory, and His disciples believed in Him.
-<small><sub>**Literal:**</sub></small>
-This did the beginning of the signs <the> Jesus in Cana <the> of Galilee and He revealed the glory of Him, and believed in Him the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.10|<< John 2:10]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.12|John 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταύτην]]  [[G4160G\|ἐποίησεν]]  [[G3588\|τὴν]]  [[G0746\|ἀρχὴν]]  [[G3588\|τῶν]]  [[G4592\|σημείων]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1722\|ἐν]]  [[G2580\|Κανὰ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G2532\|καὶ]]  [[G5319\|ἐφανέρωσεν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SIGN|SIGN]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.10|<< John 2:10]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.12|John 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

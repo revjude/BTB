@@ -1,8 +1,53 @@
+---
+title: Psalm 145:4
+type: Verse
+kjv: "One generation shall praise thy works to another, and shall declare thy mighty acts."
+bsb: "One generation will commend Your works to the next, and will proclaim Your mighty acts—"
+hebrew: "דּ֣וֹר לְ֭דוֹר יְשַׁבַּ֣ח מַעֲשֶׂ֑יךָ וּגְב֖וּרֹתֶ֣יךָ יַגִּֽידוּ׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H1755]]"
+- "[[H9005]]"
+- "[[H7623B]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1369]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:4**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One generation shall praise thy works to another, and shall declare thy mighty acts.
 <small><sub>**BSB:**</sub></small>
 One generation will commend Your works to the next, and will proclaim Your mighty acts—
+<small><sub>**Hebrew:**</sub></small>
+[[H1755\|דּ֣וֹר]] [[H9005\|לְ֭]][[H1755\|דוֹר]] [[H7623B\|יְשַׁבַּ֣ח]] [[H4639G\|מַעֲשֶׂ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1369\|גְב֖וּרֹתֶ֣י]][[H9021\|ךָ]] [[H5046\|יַגִּֽידוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.3|<< Psalms 145:3]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.5|Psalms 145:5 >>]]</td></tr></table>
 

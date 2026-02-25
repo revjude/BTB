@@ -1,8 +1,67 @@
+---
+title: Exodus 38:1
+type: Verse
+kjv: "And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof."
+bsb: "Bezalel constructed the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high."
+hebrew: "וַיַּ֛עַשׂ אֶת־ מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אָרְכּ֜וֹ וְחָֽמֵשׁ־ אַמּ֤וֹת רָחְבּוֹ֙ רָב֔וּעַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃"
+pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H7251]]"
+- "[[H7969]]"
+- "[[H6967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:1**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the altar of burnt offering [of] shittim wood: five cubits [was] the length thereof, and five cubits the breadth thereof; [it was] foursquare; and three cubits the height thereof.
 <small><sub>**BSB:**</sub></small>
 Bezalel constructed the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֛עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H2568\|חָמֵשׁ֩]] [[H0520A\|אַמּ֨וֹת]] [[H0753\|אָרְכּ֜]][[H9023\|וֹ]] [[H9002\|וְ]][[H2568\|חָֽמֵשׁ]][[H9014\|־]] [[H0520A\|אַמּ֤וֹת]] [[H7341\|רָחְבּ]][[H9023\|וֹ֙]] [[H7251\|רָב֔וּעַ]] [[H9002\|וְ]][[H7969\|שָׁלֹ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H6967\|קֹמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BEZALEL|BEZALEL]] • [[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.29|<< Exodus 37:29]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.2|Exodus 38:2 >>]]</td></tr></table>
 

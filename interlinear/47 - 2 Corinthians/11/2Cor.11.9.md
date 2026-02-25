@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 11:9
+type: Verse
+kjv: "And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself."
+bsb: "And when I was with you and in need, I was not a burden to anyone; for the brothers who came from Macedonia supplied my needs. I have refrained from being a burden to you in any way, and I will continue to do so."
+greek: "καὶ παρὼν πρὸς ὑμᾶς καὶ ὑστερηθεὶς οὐ κατενάρκησα οὐθενός· τὸ γὰρ ὑστέρημά μου προσανεπλήρωσαν οἱ ἀδελφοὶ ἐλθόντες ἀπὸ Μακεδονίας, καὶ ἐν παντὶ ἀβαρῆ ἐμαυτὸν ὑμῖν ἐτήρησα καὶ τηρήσω."
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3918]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G5302]]"
+- "[[G3756]]"
+- "[[G2655]]"
+- "[[G3762]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G5303]]"
+- "[[G3165]]"
+- "[[G4322]]"
+- "[[G0080]]"
+- "[[G2064]]"
+- "[[G0575]]"
+- "[[G3109]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0004]]"
+- "[[G1473]]"
+- "[[G5083I]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:9**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all [things] I have kept myself from being burdensome unto you, and [so] will I keep [myself].
 <small><sub>**BSB:**</sub></small>
 And when I was with you and in need, I was not a burden to anyone; for the brothers who came from Macedonia supplied my needs. I have refrained from being a burden to you in any way, and I will continue to do so.
-<small><sub>**Literal:**</sub></small>
-And being present with you and having been in need not I did burden no [one]; <the> for the need of mine completely filled up the brothers having come from Macedonia, and in everything unburdensome myself to you I kept and will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.8|<< 2 Corinthians 11:8]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.10|2 Corinthians 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3918\|παρὼν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G5302\|ὑστερηθεὶς]]  [[G3756\|οὐ]]  [[G2655\|κατενάρκησα]]  [[G3762\|οὐθενός·]]  [[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G5303\|ὑστέρημά]]  [[G3165\|μου]]  [[G4322\|προσανεπλήρωσαν]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G2064\|ἐλθόντες]]  [[G0575\|ἀπὸ]]  [[G3109\|Μακεδονίας,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G0004\|ἀβαρῆ]]  [[G1473\|ἐμαυτὸν]]  [[G4771\|ὑμῖν]]  [[G5083I\|ἐτήρησα]]  [[G2532\|καὶ]]  [[G5083I\|τηρήσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.8|<< 2 Corinthians 11:8]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.10|2 Corinthians 11:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

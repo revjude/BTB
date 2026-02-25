@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law and the Prophets
+type: Pericope
 pericope: "[[Luke.16.14 The Law and the Prophets|The Law and the Prophets]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 16
 book/chapter: "[[Luke.16|Luke 16]]"
-genre:
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.16.14]]"
 - "[[Luke.16.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.16.18]]"
 ---
 
-[[Luke.16|Luke 16:14 - Luke 16:18]]
+<small>[[Luke.16|Luke 16:14-18]]</small>
 *The Law and the Prophets*
 
 [[Luke.16.14|14]] And the Pharisees also, who were covetous, heard all these things: and they derided him.

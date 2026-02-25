@@ -1,10 +1,61 @@
+---
+title: John 5:39
+type: Verse
+kjv: "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+bsb: "You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,"
+jesus_said: "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+greek: "ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ,"
+pericope: "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2045]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3754H]]"
+- "[[G4771]]"
+- "[[G1380]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **John 5:39**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 <small><sub>**BSB:**</sub></small>
 You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,
-<small><sub>**Literal:**</sub></small>
-You diligently search the Scriptures, for you yourselves think in them life eternal to have; and these are they those bearing witness concerning Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.38|<< John 5:38]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.40|John 5:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2045\|ἐραυνᾶτε]]  [[G3588\|τὰς]]  [[G1124\|γραφάς,]]  [[G3754H\|ὅτι]]  [[G4771\|ὑμεῖς]]  [[G1380\|δοκεῖτε]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2192\|ἔχειν·]]  [[G2532\|καὶ]]  [[G1565\|ἐκεῖναί]]  [[G1510\|εἰσιν]]  [[G3588\|αἱ]]  [[G3140\|μαρτυροῦσαι]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.38|<< John 5:38]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.40|John 5:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

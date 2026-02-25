@@ -1,8 +1,52 @@
+---
+title: Amos 6:11
+type: Verse
+kjv: "For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts."
+bsb: "For the LORD gives a command: “The great house will be smashed to pieces, and the small house to rubble.”"
+hebrew: "כִּֽי־ הִנֵּ֤ה יְהוָה֙ מְצַוֶּ֔ה וְהִכָּ֛ה הַבַּ֥יִת הַגָּד֖וֹל רְסִיסִ֑ים וְהַבַּ֥יִת הַקָּטֹ֖ן בְּקִעִֽים׃"
+pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H6680]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H1419A]]"
+- "[[H7447B]]"
+- "[[H9002]]"
+- "[[H6996B]]"
+- "[[H1233]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:11**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.
 <small><sub>**BSB:**</sub></small>
 For the LORD gives a command: “The great house will be smashed to pieces, and the small house to rubble.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H3068G\|יְהוָה֙]] [[H6680\|מְצַוֶּ֔ה]] [[H9001\|וְ]][[H5221\|הִכָּ֛ה]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H7447B\|רְסִיסִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H6996B\|קָּטֹ֖ן]] [[H1233\|בְּקִעִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.10|<< Amos 6:10]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.12|Amos 6:12 >>]]</td></tr></table>
 

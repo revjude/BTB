@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fall of Jerusalem
+type: Pericope
 pericope: "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 36
 book/chapter: "[[2Chr.36|2 Chronicles 36]]"
-genre:
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.36.15]]"
 - "[[2Chr.36.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.36.21]]"
 ---
 
-[[2Chr.36|2 Chronicles 36:15 - 2 Chronicles 36:21]]
+<small>[[2Chr.36|2 Chronicles 36:15-21]]</small>
 *The Fall of Jerusalem*
 
 [[2Chr.36.15|15]] And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:

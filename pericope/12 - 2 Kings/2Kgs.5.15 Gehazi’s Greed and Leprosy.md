@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gehazi’s Greed and Leprosy
+type: Pericope
 pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 5
 book/chapter: "[[2Kgs.5|2 Kings 5]]"
-genre:
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[2Kgs.5.15]]"
 - "[[2Kgs.5.16]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Kgs.5.27]]"
 ---
 
-[[2Kgs.5|2 Kings 5:15 - 2 Kings 5:27]]
+<small>[[2Kgs.5|2 Kings 5:15-27]]</small>
 *Gehazi’s Greed and Leprosy*
 
 [[2Kgs.5.15|15]] And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that \[there is\] no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.

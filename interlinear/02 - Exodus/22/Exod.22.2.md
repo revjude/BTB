@@ -1,8 +1,63 @@
+---
+title: Exodus 22:2
+type: Verse
+kjv: "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him."
+bsb: "If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed."
+hebrew: "אִם־ בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H4290]]"
+- "[[H4672]]"
+- "[[H9009]]"
+- "[[H1590]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H4191]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:2**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a thief be found breaking up, and be smitten that he die, [there shall] no blood [be shed] for him.
 <small><sub>**BSB:**</sub></small>
 If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H9003\|בַּ]][[H4290\|מַּחְתֶּ֛רֶת]] [[H4672\|יִמָּצֵ֥א]] [[H9009\|הַ]][[H1590\|גַּנָּ֖ב]] [[H9001\|וְ]][[H5221\|הֻכָּ֣ה]] [[H9001\|וָ]][[H4191\|מֵ֑ת]] [[H0369\|אֵ֥ין]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1818\|דָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.1|<< Exodus 22:1]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.3|Exodus 22:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

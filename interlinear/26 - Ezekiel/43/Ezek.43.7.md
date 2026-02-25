@@ -1,8 +1,80 @@
+---
+title: Ezekiel 43:7
+type: Verse
+kjv: "And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, neither they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places."
+bsb: "and He said to me, “Son of man, this is the place of My throne and the place for the soles of My feet, where I will dwell among the Israelites forever. The house of Israel will never again defile My holy name—neither they nor their kings—by their prostitution and by the funeral offerings for their kings at their deaths."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י בֶּן־ אָדָם֙ אֶת־ מְק֣וֹם כִּסְאִ֗י וְאֶת־ מְקוֹם֙ כַּפּ֣וֹת רַגְלַ֔י אֲשֶׁ֧ר אֶשְׁכָּן־ שָׁ֛ם בְּת֥וֹךְ בְּנֵֽי־ יִשְׂרָאֵ֖ל לְעוֹלָ֑ם וְלֹ֣א יְטַמְּא֣וּ ע֣וֹד בֵּֽית־ יִ֠שְׂרָאֵל שֵׁ֣ם קָדְשִׁ֞י הֵ֤מָּה וּמַלְכֵיהֶם֙ בִּזְנוּתָ֔ם וּבְפִגְרֵ֥י מַלְכֵיהֶ֖ם בָּמוֹתָֽם׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0853]]"
+- "[[H4725]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H0834A]]"
+- "[[H7931]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H5750]]"
+- "[[H1004M]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H1992]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H2184]]"
+- "[[H6297]]"
+- "[[H1116]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:7**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, [neither] they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places.
 <small><sub>**BSB:**</sub></small>
 and He said to me, “Son of man, this is the place of My throne and the place for the soles of My feet, where I will dwell among the Israelites forever. The house of Israel will never again defile My holy name—neither they nor their kings—by their prostitution and by the funeral offerings for their kings at their deaths.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4725\|מְק֣וֹם]] [[H3678G\|כִּסְאִ֗]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4725\|מְקוֹם֙]] [[H3709H\|כַּפּ֣וֹת]] [[H7272\|רַגְלַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֧ר]] [[H7931\|אֶשְׁכָּן]][[H9014\|־]] [[H8033G\|שָׁ֛ם]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2930A\|יְטַמְּא֣וּ]] [[H5750\|ע֣וֹד]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִ֠שְׂרָאֵל]] [[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשִׁ֞]][[H9020\|י]] [[H1992\|הֵ֤מָּה]] [[H9002\|וּ]][[H4428G\|מַלְכֵי]][[H9028\|הֶם֙]] [[H9003\|בִּ]][[H2184\|זְנוּתָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H6297\|פִגְרֵ֥י]] [[H4428G\|מַלְכֵי]][[H9028\|הֶ֖ם]] [[H1116\|בָּמוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.6|<< Ezekiel 43:6]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.8|Ezekiel 43:8 >>]]</td></tr></table>
 

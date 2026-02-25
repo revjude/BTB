@@ -1,10 +1,57 @@
+---
+title: 1 Thessalonians 3:11
+type: Verse
+kjv: "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
+bsb: "Now may our God and Father Himself, and our Lord Jesus, direct our way to you."
+greek: "Αὐτὸς δὲ ὁ θεὸς καὶ πατὴρ ἡμῶν καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστός κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς·"
+pericope: "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2720]]"
+- "[[G3598]]"
+- "[[G4314]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+---
+
 **1 Thessalonians 3:11**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.
 <small><sub>**BSB:**</sub></small>
 Now may our God and Father Himself, and our Lord Jesus, direct our way to you.
-<small><sub>**Literal:**</sub></small>
-Himself now the God and Father of us and the Lord of us Jesus Christ would direct the way of us to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.10|<< 1 Thessalonians 3:10]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.12|1 Thessalonians 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|Αὐτὸς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστός]]  [[G2720\|κατευθύναι]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3165\|ἡμῶν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.10|<< 1 Thessalonians 3:10]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.12|1 Thessalonians 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

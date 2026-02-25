@@ -1,8 +1,56 @@
+---
+title: Zechariah 2:3
+type: Verse
+kjv: "And, behold, the angel that talked with me went forth, and another angel went out to meet him,"
+bsb: "Then the angel who was speaking with me went forth, and another angel came forward to meet him"
+hebrew: "וְהִנֵּ֗ה הַמַּלְאָ֛ךְ הַדֹּבֵ֥ר בִּ֖י יֹצֵ֑א וּמַלְאָ֣ךְ אַחֵ֔ר יֹצֵ֖א לִקְרָאתֽוֹ׃"
+pericope: "[[Zech.2.1 The Vision of the Measuring Line|The Vision of the Measuring Line]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H3318G]]"
+- "[[H0312]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 2:3**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the angel that talked with me went forth, and another angel went out to meet him,
 <small><sub>**BSB:**</sub></small>
 Then the angel who was speaking with me went forth, and another angel came forward to meet him
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֗ה]] [[H9009\|הַ]][[H4397H\|מַּלְאָ֛ךְ]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֥ר]] [[H9003\|בִּ֖]][[H9030\|י]] [[H3318G\|יֹצֵ֑א]] [[H9002\|וּ]][[H4397H\|מַלְאָ֣ךְ]] [[H0312\|אַחֵ֔ר]] [[H3318G\|יֹצֵ֖א]] [[H9005\|לִ]][[H7122G\|קְרָאתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.2|<< Zechariah 2:2]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.4|Zechariah 2:4 >>]]</td></tr></table>
 

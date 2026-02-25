@@ -1,8 +1,55 @@
+---
+title: Psalm 122:9
+type: Verse
+kjv: "Because of the house of the LORD our God I will seek thy good."
+bsb: "For the sake of the house of the LORD our God, I will seek your prosperity."
+hebrew: "לְ֭מַעַן בֵּית־ יְהוָ֣ה אֱלֹהֵ֑ינוּ אֲבַקְשָׁ֖ה ט֣וֹב לָֽךְ׃"
+pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 122
+book/chapter: "[[Ps.122|Psalm 122]]"
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4616]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1245]]"
+- "[[H2896B]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 122:9**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the house of the LORD our God I will seek thy good.
 <small><sub>**BSB:**</sub></small>
 For the sake of the house of the LORD our God, I will seek your prosperity.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְ֭מַעַן]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H1245\|אֲבַקְשָׁ֖ה]] [[H2896B\|ט֣וֹב]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.8|<< Psalms 122:8]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123.0|Psalms 123:0 >>]]</td></tr></table>
 

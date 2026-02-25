@@ -1,8 +1,64 @@
+---
+title: Zechariah 8:14
+type: Verse
+kjv: "For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:"
+bsb: "For this is what the LORD of Hosts says: “Just as I resolved to bring disaster upon you when your fathers provoked Me to anger, and I did not relent,” says the LORD of Hosts,"
+hebrew: "כִּ֣י כֹ֣ה אָמַר֮ יְהוָ֣ה צְבָאוֹת֒ כַּאֲשֶׁ֨ר זָמַמְ֜תִּי לְהָרַ֣ע לָכֶ֗ם בְּהַקְצִ֤יף אֲבֹֽתֵיכֶם֙ אֹתִ֔י אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וְלֹ֖א נִחָֽמְתִּי׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H2161]]"
+- "[[H9005]]"
+- "[[H7489A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H7107]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5162H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:14**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts says: “Just as I resolved to bring disaster upon you when your fathers provoked Me to anger, and I did not relent,” says the LORD of Hosts,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָמַר֮]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָאוֹת֒]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H2161\|זָמַמְ֜תִּי]] [[H9005\|לְ]][[H7489A\|הָרַ֣ע]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H9003\|בְּ]][[H7107\|הַקְצִ֤יף]] [[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶם֙]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H5162H\|נִחָֽמְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.13|<< Zechariah 8:13]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.15|Zechariah 8:15 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Proverbs 25:6
+type: Verse
+kjv: "Put not forth thyself in the presence of the king, and stand not in the place of great men:"
+bsb: "Do not exalt yourself in the presence of the king, and do not stand in the place of great men;"
+hebrew: "אַל־ תִּתְהַדַּ֥ר לִפְנֵי־ מֶ֑לֶךְ וּבִמְק֥וֹם גְּ֝דֹלִ֗ים אַֽל־ תַּעֲמֹֽד׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic KING|KING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RESPECT|RESPECT]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1921]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H1419A]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:6**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put not forth thyself in the presence of the king, and stand not in the place of great [men]:
 <small><sub>**BSB:**</sub></small>
 Do not exalt yourself in the presence of the king, and do not stand in the place of great men;
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1921\|תִּתְהַדַּ֥ר]] [[H9005\|לִ]][[H6440H\|פְנֵי]][[H9014\|־]] [[H4428G\|מֶ֑לֶךְ]] [[H9002\|וּ]][[H9003\|בִ]][[H4725\|מְק֥וֹם]] [[H1419A\|גְּ֝דֹלִ֗ים]] [[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GUEST|GUEST]] • [[topic HUMILITY|HUMILITY]] • [[topic KING|KING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RESPECT|RESPECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.5|<< Proverbs 25:5]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.7|Proverbs 25:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

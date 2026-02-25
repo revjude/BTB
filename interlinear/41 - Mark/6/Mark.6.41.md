@@ -1,10 +1,61 @@
+---
+title: Mark 6:41
+type: Verse
+kjv: "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all."
+bsb: "Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all."
+greek: "καὶ λαβὼν τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας, ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν καὶ κατέκλασεν τοὺς ἄρτους καὶ ἐδίδου τοῖς μαθηταῖς αὐτοῦ ἵνα παρατιθῶσιν αὐτοῖς, καὶ τοὺς δύο ἰχθύας ἐμέρισεν πᾶσιν."
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G4002]]"
+- "[[G0740]]"
+- "[[G1417]]"
+- "[[G2486]]"
+- "[[G0308]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2127]]"
+- "[[G2622]]"
+- "[[G1325]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3908]]"
+- "[[G3307]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 6:41**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave [them] to his disciples to set before them; and the two fishes divided he among them all.
 <small><sub>**BSB:**</sub></small>
 Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all.
-<small><sub>**Literal:**</sub></small>
-And having taken the five loaves and the two fish, having looked up to the heaven He blessed and He broke the loaves and He was giving [them] to the disciples of Him that they may set before them, And the two fish He divided among all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.40|<< Mark 6:40]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.42|Mark 6:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|λαβὼν]]  [[G3588\|τοὺς]]  [[G4002\|πέντε]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G2486\|ἰχθύας,]]  [[G0308\|ἀναβλέψας]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2127\|εὐλόγησεν]]  [[G2532\|καὶ]]  [[G2622\|κατέκλασεν]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδου]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G2443\|ἵνα]]  [[G3908\|παρατιθῶσιν]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G2486\|ἰχθύας]]  [[G3307\|ἐμέρισεν]]  [[G3956\|πᾶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.40|<< Mark 6:40]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.42|Mark 6:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

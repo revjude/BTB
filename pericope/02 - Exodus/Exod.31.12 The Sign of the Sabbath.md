@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sign of the Sabbath
+type: Pericope
 pericope: "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 31
 book/chapter: "[[Exod.31|Exodus 31]]"
-genre:
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.31.12]]"
 - "[[Exod.31.13]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.31.17]]"
 ---
 
-[[Exod.31|Exodus 31:12 - Exodus 31:17]]
+<small>[[Exod.31|Exodus 31:12-17]]</small>
 *The Sign of the Sabbath*
 
 [[Exod.31.12|12]] And the LORD spake unto Moses, saying,

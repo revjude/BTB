@@ -1,10 +1,61 @@
+---
+title: Acts 14:27
+type: Verse
+kjv: "And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles."
+bsb: "When they arrived, they gathered the church together and reported all that God had done through them, and how He had opened the door of faith to the Gentiles."
+greek: "παραγενόμενοι δὲ καὶ συναγαγόντες τὴν ἐκκλησίαν ἀνήγγελλον ὅσα ἐποίησεν ὁ θεὸς μετ᾽ αὐτῶν καὶ ὅτι ἤνοιξεν τοῖς ἔθνεσιν θύραν πίστεως."
+pericope: "[[Acts.14.21 Strengthening the Disciples|Strengthening the Disciples]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G0312]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G2316]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G0455]]"
+- "[[G1484]]"
+- "[[G2374]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 14:27**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.
 <small><sub>**BSB:**</sub></small>
 When they arrived, they gathered the church together and reported all that God had done through them, and how He had opened the door of faith to the Gentiles.
-<small><sub>**Literal:**</sub></small>
-Having arrived now and having gathered together the church they were declaring how much did <the> God with them and that He had opened to the Gentiles a door of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.26|<< Acts 14:26]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.28|Acts 14:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|παραγενόμενοι]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G4863\|συναγαγόντες]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G0312\|ἀνήγγελλον]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G2374\|θύραν]]  [[G4102G\|πίστεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.26|<< Acts 14:26]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.28|Acts 14:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

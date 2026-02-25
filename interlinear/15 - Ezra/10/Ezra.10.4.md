@@ -1,8 +1,57 @@
+---
+title: Ezra 10:4
+type: Verse
+kjv: "Arise; for this matter belongeth unto thee: we also will be with thee: be of good courage, and do it."
+bsb: "Get up, for this matter is your responsibility, and we will support you. Be strong and take action!”"
+hebrew: "ק֛וּם כִּֽי־ עָלֶ֥יךָ הַדָּבָ֖ר וַאֲנַ֣חְנוּ עִמָּ֑ךְ חֲזַ֖ק וַעֲשֵֽׂה׃ פ"
+pericope: "[[Ezra.10.1 Shecaniah’s Encouragement|Shecaniah’s Encouragement]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+strongs:
+- "[[H6965B]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H5973A]]"
+- "[[H2388G]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 10:4**<big><big>[[Ezra.10.1 Shecaniah’s Encouragement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise; for [this] matter [belongeth] unto thee: we also [will be] with thee: be of good courage, and do [it].
 <small><sub>**BSB:**</sub></small>
 Get up, for this matter is your responsibility, and we will support you. Be strong and take action!”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֛וּם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עָלֶ֥י]][[H9031\|ךָ]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H5973A\|עִמָּ֑]][[H9031\|ךְ]] [[H2388G\|חֲזַ֖ק]] [[H9002\|וַ]][[H6213A\|עֲשֵֽׂה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.3|<< Ezra 10:3]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.5|Ezra 10:5 >>]]</td></tr></table>
 
@@ -15,7 +64,7 @@ Get up, for this matter is your responsibility, and we will support you. Be stro
 | and we  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0587\|אֲנַ֣חְנוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] with you  |**<big>&#8207;[[H5973A\|עִמָּ֑]]&#8207;&#8207;[[H9031\|ךְ]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be strong  |**<big>&#8207;[[H2388G\|חֲזַ֖ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and act  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and act  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.3|<< Ezra 10:3]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.5|Ezra 10:5 >>]]</td></tr></table>
 
 

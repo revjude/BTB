@@ -1,8 +1,82 @@
+---
+title: 1 Samuel 11:7
+type: Verse
+kjv: "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent."
+bsb: "He took a pair of oxen, cut them into pieces, and sent them by messengers throughout the land of Israel, proclaiming, “This is what will be done to the oxen of anyone who does not march behind Saul and Samuel.” Then the terror of the LORD fell upon the people, and they came out together as one man."
+hebrew: "וַיִּקַּח֩ צֶ֨מֶד בָּקָ֜ר וַֽיְנַתְּחֵ֗הוּ וַיְשַׁלַּ֞ח בְּכָל־ גְּב֣וּל יִשְׂרָאֵל֮ בְּיַ֣ד הַמַּלְאָכִ֣ים׀ לֵאמֹר֒ אֲשֶׁר֩ אֵינֶ֨נּוּ יֹצֵ֜א אַחֲרֵ֤י שָׁאוּל֙ וְאַחַ֣ר שְׁמוּאֵ֔ל כֹּ֥ה יֵעָשֶׂ֖ה לִבְקָר֑וֹ וַיִּפֹּ֤ל פַּֽחַד־ יְהוָה֙ עַל־ הָעָ֔ם וַיֵּצְא֖וּ כְּאִ֥ישׁ אֶחָֽד׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H6776]]"
+- "[[H1241]]"
+- "[[H5408]]"
+- "[[H9033]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H3318G]]"
+- "[[H0310A]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H8050G]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9023]]"
+- "[[H5307G]]"
+- "[[H6343]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:7**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took a yoke of oxen, and hewed them in pieces, and sent [them] throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.
 <small><sub>**BSB:**</sub></small>
 He took a pair of oxen, cut them into pieces, and sent them by messengers throughout the land of Israel, proclaiming, “This is what will be done to the oxen of anyone who does not march behind Saul and Samuel.” Then the terror of the LORD fell upon the people, and they came out together as one man.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H6776\|צֶ֨מֶד]] [[H1241\|בָּקָ֜ר]] [[H9001\|וַֽ]][[H5408\|יְנַתְּחֵ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H7971G\|יְשַׁלַּ֞ח]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵל֮]] [[H9003\|בְּ]][[H3027G\|יַ֣ד]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֣ים]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0834A\|אֲשֶׁר֩]] [[H0369\|אֵינֶ֨]][[H9043\|נּוּ]] [[H3318G\|יֹצֵ֜א]] [[H0310A\|אַחֲרֵ֤י]] [[H7586G\|שָׁאוּל֙]] [[H9002\|וְ]][[H0310A\|אַחַ֣ר]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H3541\|כֹּ֥ה]] [[H6213A\|יֵעָשֶׂ֖ה]] [[H9005\|לִ]][[H1241\|בְקָר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֤ל]] [[H6343\|פַּֽחַד]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַ]][[H3318G\|יֵּצְא֖וּ]] [[H9004\|כְּ]][[H0376G\|אִ֥ישׁ]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DECISION|DECISION]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.6|<< 1 Samuel 11:6]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.8|1 Samuel 11:8 >>]]</td></tr></table>
 

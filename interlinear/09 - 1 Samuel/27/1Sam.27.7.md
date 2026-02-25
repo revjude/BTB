@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 27:7
+type: Verse
+kjv: "And the time that David dwelt in the country of the Philistines was a full year and four months."
+bsb: "And the time that David lived in Philistine territory amounted to a year and four months."
+hebrew: "וַֽיְהִי֙ מִסְפַּ֣ר הַיָּמִ֔ים אֲשֶׁר־ יָשַׁ֥ב דָּוִ֖ד בִּשְׂדֵ֣ה פְלִשְׁתִּ֑ים יָמִ֖ים וְאַרְבָּעָ֥ה חֳדָשִֽׁים׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H6430G]]"
+- "[[H3117I]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:7**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that David dwelt in the country of the Philistines was a full year and four months.
 <small><sub>**BSB:**</sub></small>
 And the time that David lived in Philistine territory amounted to a year and four months.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H4557\|מִסְפַּ֣ר]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יָשַׁ֥ב]] [[H1732\|דָּוִ֖ד]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֣ה]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H3117I\|יָמִ֖ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֥ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.6|<< 1 Samuel 27:6]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.8|1 Samuel 27:8 >>]]</td></tr></table>
 

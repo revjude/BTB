@@ -1,6 +1,60 @@
+---
+title: LXX Deuteronomy 30:15
+type: Verse
+lxx: "Behold, I put before your face today  life and  death,  good and  bad."
+greek: "ιδού δέδωκα προ προσώπου σου σήμερον την ζωήν και τον θάνατον το αγαθόν και το κακόν"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2400]]"
+- "[[G1325]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2556]]"
+---
+
 **LXX Deuteronomy 30:15** 
 <small><sub>**LXX:**</sub></small>
 Behold, I put before your face today  life and  death,  good and  bad. 
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ιδού]] [[G1325\|δέδωκα]] [[G4253\|προ]] [[G4383\|προσώπου]] [[G1473\|σου]] [[G4594\|σήμερον]] [[G3588\|την]] [[G2222\|ζωήν]] [[G2532\|και]] [[G3588\|τον]] [[G2288\|θάνατον]] [[G3588\|το]] [[G0018\|αγαθόν]] [[G2532\|και]] [[G3588\|το]] [[G2556\|κακόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DUTY|DUTY]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.14|<< Deuteronomy 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.16|Deuteronomy 30:16 >>]]</td></tr></table>
 
@@ -21,6 +75,6 @@ Behold, I put before your face today  life and  death,  good and  bad.
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | bad. | **<big>[[G2556\|κακόν]]</big>** |
-[[Deut.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.14|<< Deuteronomy 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.16|Deuteronomy 30:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.14|<< Deuteronomy 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.16|Deuteronomy 30:16 >>]]</td></tr></table>
 
 

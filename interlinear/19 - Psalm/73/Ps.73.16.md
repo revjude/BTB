@@ -1,8 +1,66 @@
+---
+title: Psalm 73:16
+type: Verse
+kjv: "When I thought to know this, it was too painful for me;"
+bsb: "When I tried to understand all this, it was troublesome in my sight"
+hebrew: "וָֽ֭אֲחַשְּׁבָה לָדַ֣עַת זֹ֑את עָמָ֖ל ה֣וּא בְעֵינָֽי׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2803J]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H2063]]"
+- "[[H5999]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 73:16**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I thought to know this, it [was] too painful for me;
 <small><sub>**BSB:**</sub></small>
 When I tried to understand all this, it was troublesome in my sight
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ֭]][[H2803J\|אֲחַשְּׁבָ]][[H9012\|ה]] [[H9005\|לָ]][[H3045\|דַ֣עַת]] [[H2063\|זֹ֑את]] [[H5999\|עָמָ֖ל]] [[H1931\|ה֣וּא]] [[H9003\|בְ]][[H5869I\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MEDITATION|MEDITATION]] • [[topic MURMURING|MURMURING]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.15|<< Psalms 73:15]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.17|Psalms 73:17 >>]]</td></tr></table>
 

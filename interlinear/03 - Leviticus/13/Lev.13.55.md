@@ -1,8 +1,74 @@
+---
+title: Leviticus 13:55
+type: Verse
+kjv: "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without."
+bsb: "After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn it, whether the rot is on the front or back."
+hebrew: "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י׀ הֻכַּבֵּ֣ס אֶת־ הַנֶּ֗גַע וְ֠הִנֵּה לֹֽא־ הָפַ֨ךְ הַנֶּ֤גַע אֶת־ עֵינוֹ֙ וְהַנֶּ֣גַע לֹֽא־ פָשָׂ֔ה טָמֵ֣א ה֔וּא בָּאֵ֖שׁ תִּשְׂרְפֶ֑נּוּ פְּחֶ֣תֶת הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0310A]]"
+- "[[H9015]]"
+- "[[H3526H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5061]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3808]]"
+- "[[H2015]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H6581]]"
+- "[[H2931]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9033]]"
+- "[[H6356]]"
+- "[[H7146]]"
+- "[[H0176A]]"
+- "[[H1372]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:55**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look on the plague, after that it is washed: and, behold, [if] the plague have not changed his colour, and the plague be not spread; it [is] unclean; thou shalt burn it in the fire; it [is] fret inward, [whether] it [be] bare within or without.
 <small><sub>**BSB:**</sub></small>
 After it has been washed, the priest is to reexamine it, and if the mildewed article has not changed in appearance, it is unclean. Even though the mildew has not spread, you must burn it, whether the rot is on the front or back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֨ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0310A\|אַחֲרֵ֣י]][[H9015\|׀]] [[H3526H\|הֻכַּבֵּ֣ס]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נֶּ֗גַע]] [[H9002\|וְ֠]][[H2009\|הִנֵּה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2015\|הָפַ֨ךְ]] [[H9009\|הַ]][[H5061\|נֶּ֤גַע]] [[H0853\|אֶת]][[H9014\|־]] [[H5869I\|עֵינ]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H9009\|הַ]][[H5061\|נֶּ֣גַע]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6581\|פָשָׂ֔ה]] [[H2931\|טָמֵ֣א]] [[H1931\|ה֔וּא]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H8313\|תִּשְׂרְפֶ֑]][[H9033\|נּוּ]] [[H6356\|פְּחֶ֣תֶת]] [[H1931\|הִ֔וא]] [[H9003\|בְּ]][[H7146\|קָרַחְתּ֖]][[H9023\|וֹ]] [[H0176A\|א֥וֹ]] [[H9003\|בְ]][[H1372\|גַבַּחְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.54|<< Leviticus 13:54]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.56|Leviticus 13:56 >>]]</td></tr></table>
 

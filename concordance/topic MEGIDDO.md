@@ -15,7 +15,7 @@
 
 → Valley of, Deborah defeats Sisera in [[Judg.5.19|Jud 5:19]]
 
-→ Josiah killed at, by Pharaoh-nechoh [[2Kgs.23.29|2Ki 23:29]],[[2Kgs.23.30|30]]; [[2Chr.35.22|2Ch  35:22]]-[[2Chr.35.24|24]]
+→ Josiah killed at, by Pharaoh-nechoh [[2Kgs.23.29|2Ki 23:29]],[[2Kgs.23.30|30]]; [[2Chr.35.22|2Ch  35:22-24]]
 
 → Prophecy concerning [[Zech.12.11|Zec 12:11]]
 

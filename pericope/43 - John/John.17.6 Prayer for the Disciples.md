@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prayer for the Disciples
+type: Pericope
 pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 17
 book/chapter: "[[John.17|John 17]]"
-genre:
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.17.6]]"
 - "[[John.17.7]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.17.19]]"
 ---
 
-[[John.17|John 17:6 - John 17:19]]
+<small>[[John.17|John 17:6-19]]</small>
 *Prayer for the Disciples*
 
 [[John.17.6|6]] I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.

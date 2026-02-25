@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prayer of the Afflicted
+type: Pericope
 pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 102
 book/chapter: "[[Ps.102|Psalm 102]]"
-genre:
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 29
 verses:
 - "[[Ps.102.0]]"
 - "[[Ps.102.1]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Ps.102.28]]"
 ---
 
-[[Ps.102|Psalm 102:1 - Psalm 102:28]]
+<small>[[Ps.102|Psalm 102:1-28]]</small>
 *The Prayer of the Afflicted*
 
 [[Ps.102.0|0]] A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD.

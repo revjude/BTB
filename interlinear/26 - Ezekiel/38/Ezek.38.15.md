@@ -1,8 +1,60 @@
+---
+title: Ezekiel 38:15
+type: Verse
+kjv: "And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:"
+bsb: "And you will come from your place out of the far north—you and many peoples with you, all riding horses—a mighty horde, a huge army."
+hebrew: "וּבָ֤אתָ מִמְּקֽוֹמְךָ֙ מִיַּרְכְּתֵ֣י צָפ֔וֹן אַתָּ֕ה וְעַמִּ֥ים רַבִּ֖ים אִתָּ֑ךְ רֹכְבֵ֤י סוּסִים֙ כֻּלָּ֔ם קָהָ֥ל גָּד֖וֹל וְחַ֥יִל רָֽב׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9021]]"
+- "[[H3411]]"
+- "[[H6828G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H7392]]"
+- "[[H5483M]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H6951]]"
+- "[[H1419A]]"
+- "[[H2428A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:15**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
 <small><sub>**BSB:**</sub></small>
 And you will come from your place out of the far north—you and many peoples with you, all riding horses—a mighty horde, a huge army.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֤אתָ]] [[H9006\|מִ]][[H4725\|מְּקֽוֹמְ]][[H9021\|ךָ֙]] [[H9006\|מִ]][[H3411\|יַּרְכְּתֵ֣י]] [[H6828G\|צָפ֔וֹן]] [[H0859A\|אַתָּ֕ה]] [[H9002\|וְ]][[H5971A\|עַמִּ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H7392\|רֹכְבֵ֤י]] [[H5483M\|סוּסִים֙]] [[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H6951\|קָהָ֥ל]] [[H1419A\|גָּד֖וֹל]] [[H9002\|וְ]][[H2428A\|חַ֥יִל]] [[H7227A\|רָֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.14|<< Ezekiel 38:14]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.16|Ezekiel 38:16 >>]]</td></tr></table>
 

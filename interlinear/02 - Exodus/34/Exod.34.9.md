@@ -1,8 +1,75 @@
+---
+title: Exodus 34:9
+type: Verse
+kjv: "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance."
+bsb: "“O Lord,” he said, “if I have indeed found favor in Your sight, my Lord, please go with us. Although this is a stiff-necked people, forgive our iniquity and sin, and take us as Your inheritance.”"
+hebrew: "וַיֹּ֡אמֶר אִם־ נָא֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֙יךָ֙ אֲדֹנָ֔י יֵֽלֶךְ־ נָ֥א אֲדֹנָ֖י בְּקִרְבֵּ֑נוּ כִּ֤י עַם־ קְשֵׁה־ עֹ֙רֶף֙ ה֔וּא וְסָלַחְתָּ֛ לַעֲוֹנֵ֥נוּ וּלְחַטָּאתֵ֖נוּ וּנְחַלְתָּֽנוּ׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H0136]]"
+- "[[H1980G]]"
+- "[[H7130G]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H5971A]]"
+- "[[H7186]]"
+- "[[H6203]]"
+- "[[H1931]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H5771G]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H5157]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:9**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it [is] a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.
 <small><sub>**BSB:**</sub></small>
 “O Lord,” he said, “if I have indeed found favor in Your sight, my Lord, please go with us. Although this is a stiff-necked people, forgive our iniquity and sin, and take us as Your inheritance.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H0518A\|אִם]][[H9014\|־]] [[H4994\|נָא֩]] [[H4672\|מָצָ֨אתִי]] [[H2580\|חֵ֤ן]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H0136\|אֲדֹנָ֔י]] [[H1980G\|יֵֽלֶךְ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0136\|אֲדֹנָ֖י]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּ֑]][[H9025\|נוּ]] [[H3588A\|כִּ֤י]] [[H5971A\|עַם]][[H9014\|־]] [[H7186\|קְשֵׁה]][[H9014\|־]] [[H6203\|עֹ֙רֶף֙]] [[H1931\|ה֔וּא]] [[H9001\|וְ]][[H5545\|סָלַחְתָּ֛]] [[H9005\|לַ]][[H5771G\|עֲוֹנֵ֥]][[H9025\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H2403B\|חַטָּאתֵ֖]][[H9025\|נוּ]] [[H9001\|וּ]][[H5157\|נְחַלְתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.8|<< Exodus 34:8]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.10|Exodus 34:10 >>]]</td></tr></table>
 

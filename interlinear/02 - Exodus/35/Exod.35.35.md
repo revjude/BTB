@@ -1,8 +1,82 @@
+---
+title: Exodus 35:35
+type: Verse
+kjv: "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work."
+bsb: "He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple, and scarlet yarn and fine linen, and as weavers—as artistic designers of every kind of craft."
+hebrew: "מִלֵּ֨א אֹתָ֜ם חָכְמַת־ לֵ֗ב לַעֲשׂוֹת֮ כָּל־ מְלֶ֣אכֶת חָרָ֣שׁ׀ וְחֹשֵׁב֒ וְרֹקֵ֞ם בַּתְּכֵ֣לֶת וּבָֽאַרְגָּמָ֗ן בְּתוֹלַ֧עַת הַשָּׁנִ֛י וּבַשֵּׁ֖שׁ וְאֹרֵ֑ג עֹשֵׂי֙ כָּל־ מְלָאכָ֔ה וְחֹשְׁבֵ֖י מַחֲשָׁבֹֽת׃"
+pericope: "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WEAVING|WEAVING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H2451]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H2796]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H2803G]]"
+- "[[H7551]]"
+- "[[H9003]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H9009]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H0707]]"
+- "[[H6213J]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:35**<big><big>[[Exod.35.30 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, [even] of them that do any work, and of those that devise cunning work.
 <small><sub>**BSB:**</sub></small>
 He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple, and scarlet yarn and fine linen, and as weavers—as artistic designers of every kind of craft.
+<small><sub>**Hebrew:**</sub></small>
+[[H4390\|מִלֵּ֨א]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H2451\|חָכְמַת]][[H9014\|־]] [[H3820A\|לֵ֗ב]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֮]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֣אכֶת]] [[H2796\|חָרָ֣שׁ]][[H9015\|׀]] [[H9002\|וְ]][[H2803G\|חֹשֵׁב֒]] [[H9002\|וְ]][[H7551\|רֹקֵ֞ם]] [[H9003\|בַּ]][[H8504\|תְּכֵ֣לֶת]] [[H9002\|וּ]][[H9003\|בָֽ]][[H0713\|אַרְגָּמָ֗ן]] [[H9003\|בְּ]][[H8438B\|תוֹלַ֧עַת]] [[H9009\|הַ]][[H8144\|שָּׁנִ֛י]] [[H9002\|וּ]][[H9003\|בַ]][[H8336B\|שֵּׁ֖שׁ]] [[H9002\|וְ]][[H0707\|אֹרֵ֑ג]] [[H6213J\|עֹשֵׂי֙]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָ֔ה]] [[H9002\|וְ]][[H2803G\|חֹשְׁבֵ֖י]] [[H4284\|מַחֲשָׁבֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BEZALEL|BEZALEL]] • [[topic COLORS|COLORS]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic GENIUS|GENIUS]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic PROPHETS|PROPHETS]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WEAVING|WEAVING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.34|<< Exodus 35:34]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.1|Exodus 36:1 >>]]</td></tr></table>
 

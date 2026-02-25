@@ -1,8 +1,62 @@
+---
+title: Judges 8:19
+type: Verse
+kjv: "And he said, They were my brethren, even the sons of my mother: as the LORD liveth, if ye had saved them alive, I would not slay you."
+bsb: "“They were my brothers,” Gideon replied, “the sons of my mother! As surely as the LORD lives, if you had let them live, I would not kill you.”"
+hebrew: "וַיֹּאמַ֕ר אַחַ֥י בְּנֵֽי־ אִמִּ֖י הֵ֑ם חַי־ יְהוָ֗ה ל֚וּ הַחֲיִתֶ֣ם אוֹתָ֔ם לֹ֥א הָרַ֖גְתִּי אֶתְכֶֽם׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H1992]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H3863]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H2026]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:19**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, They [were] my brethren, [even] the sons of my mother: [as] the LORD liveth, if ye had saved them alive, I would not slay you.
 <small><sub>**BSB:**</sub></small>
 “They were my brothers,” Gideon replied, “the sons of my mother! As surely as the LORD lives, if you had let them live, I would not kill you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H0251G\|אַחַ֥]][[H9020\|י]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H0517\|אִמִּ֖]][[H9020\|י]] [[H1992\|הֵ֑ם]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H3863\|ל֚וּ]] [[H2421\|הַחֲיִתֶ֣ם]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H3808\|לֹ֥א]] [[H2026\|הָרַ֖גְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic RETALIATION|RETALIATION]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.18|<< Judges 8:18]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.20|Judges 8:20 >>]]</td></tr></table>
 

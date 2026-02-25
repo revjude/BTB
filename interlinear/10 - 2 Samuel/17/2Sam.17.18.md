@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 17:18
+type: Verse
+kjv: "Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man’s house in Bahurim, which had a well in his court; whither they went down."
+bsb: "But a young man did see them and told Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it."
+hebrew: "וַיַּ֤רְא אֹתָם֙ נַ֔עַר וַיַּגֵּ֖ד לְאַבְשָׁלֹ֑ם וַיֵּלְכוּ֩ שְׁנֵיהֶ֨ם מְהֵרָ֜ה וַיָּבֹ֣אוּ׀ אֶל־ בֵּֽית־ אִ֣ישׁ בְּבַחוּרִ֗ים וְל֥וֹ בְאֵ֛ר בַּחֲצֵר֖וֹ וַיֵּ֥רְדוּ שָֽׁם׃"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic BAHURIM|BAHURIM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H5288]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0053]]"
+- "[[H1980G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H4120]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H0980]]"
+- "[[H9002]]"
+- "[[H9033]]"
+- "[[H0875]]"
+- "[[H2691A]]"
+- "[[H9023]]"
+- "[[H3381]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:18**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man’s house in Bahurim, which had a well in his court; whither they went down.
 <small><sub>**BSB:**</sub></small>
 But a young man did see them and told Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H5288\|נַ֔עַר]] [[H9001\|וַ]][[H5046\|יַּגֵּ֖ד]] [[H9005\|לְ]][[H0053\|אַבְשָׁלֹ֑ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכוּ֩]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֨ם]] [[H4120\|מְהֵרָ֜ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H9003\|בְּ]][[H0980\|בַחוּרִ֗ים]] [[H9002\|וְ]][[H9005\|ל֥]][[H9033\|וֹ]] [[H0875\|בְאֵ֛ר]] [[H9003\|בַּ]][[H2691A\|חֲצֵר֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H3381\|יֵּ֥רְדוּ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMAAZ|AHIMAAZ]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic BAHURIM|BAHURIM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.17|<< 2 Samuel 17:17]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.19|2 Samuel 17:19 >>]]</td></tr></table>
 

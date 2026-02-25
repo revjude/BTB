@@ -1,6 +1,78 @@
+---
+title: LXX Exodus 20:12
+type: Verse
+lxx: "Esteem  your father and  your mother! that good should happen to you, and that you may be a long time upon the good earth which the lord  your God gives to you."
+greek: "τίμα τον πατέρα σου και την μητέρα σου ίνα ευ σοι γένηται και ίνα μακροχρόνιος γένη επί της γης της αγαθής ης κύριος ο θεός σου δίδωσί σοι"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G2095]]"
+- "[[G1473]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G2443]]"
+- "[[G3118]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G3739]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 20:12** 
 <small><sub>**LXX:**</sub></small>
 Esteem  your father and  your mother! that good should happen to you, and that you may be a long time upon the good earth which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
+<small><sub>**Greek:**</sub></small>
+[[G5091\|τίμα]] [[G3588\|τον]] [[G3962\|πατέρα]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|την]] [[G3384\|μητέρα]] [[G1473\|σου]] [[G2443\|ίνα]] [[G2095\|ευ]] [[G1473\|σοι]] [[G1096\|γένηται]] [[G2532\|και]] [[G2443\|ίνα]] [[G3118\|μακροχρόνιος]] [[G1096\|γένη]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G3588\|της]] [[G0018\|αγαθής]] [[G3739\|ης]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G1325\|δίδωσί]] [[G1473\|σοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic LIFE|LIFE]] • [[topic LONGEVITY|LONGEVITY]] • [[topic MOTHER|MOTHER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]] • [[topic REWARD|REWARD]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -34,6 +106,6 @@ Esteem  your father and  your mother! that good should happen to you, and that y
 | your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
 | gives | **<big>[[G1325\|δίδωσί]]</big>** |
 | to you. | **<big>[[G1473\|σοι]]</big>** |
-[[Exod.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
 
 

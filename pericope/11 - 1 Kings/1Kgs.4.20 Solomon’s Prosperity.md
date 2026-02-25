@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Prosperity
+type: Pericope
 pericope: "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 4
 book/chapter: "[[1Kgs.4|1 Kings 4]]"
-genre:
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.4.20]]"
 - "[[1Kgs.4.21]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.4.28]]"
 ---
 
-[[1Kgs.4|1 Kings 4:20 - 1 Kings 4:28]]
+<small>[[1Kgs.4|1 Kings 4:20-28]]</small>
 *Solomon’s Prosperity*
 
 [[1Kgs.4.20|20]] Judah and Israel \[were\] many, as the sand which \[is\] by the sea in multitude, eating and drinking, and making merry.

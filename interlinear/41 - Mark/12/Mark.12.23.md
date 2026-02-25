@@ -1,10 +1,58 @@
+---
+title: Mark 12:23
+type: Verse
+kjv: "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife."
+bsb: "In the resurrection, then, whose wife will she be? For all seven were married to her.”"
+greek: "ἐν τῇ οὖν ἀναστάσει ὅταν ἀναστῶσιν τίνος αὐτῶν ἔσται γυνή; οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα.¶"
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G0386]]"
+- "[[G3752]]"
+- "[[G0450]]"
+- "[[G5101]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1135H]]"
+- "[[G1063]]"
+- "[[G2033]]"
+- "[[G2192]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 12:23**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
 <small><sub>**BSB:**</sub></small>
 In the resurrection, then, whose wife will she be? For all seven were married to her.”
-<small><sub>**Literal:**</sub></small>
-In the therefore resurrection when they may rise of which of them will she be wife? <the> For the seven had her as wife.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.22|<< Mark 12:22]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.24|Mark 12:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3767\|οὖν]]  [[G0386\|ἀναστάσει]]  [[G3752\|ὅταν]]  [[G0450\|ἀναστῶσιν]]  [[G5101\|τίνος]]  [[G0846\|αὐτῶν]]  [[G1510\|ἔσται]]  [[G1135H\|γυνή;]]  [[G3588\|οἱ]]  [[G1063\|γὰρ]]  [[G2033\|ἑπτὰ]]  [[G2192\|ἔσχον]]  [[G0846\|αὐτὴν]]  [[G1135H\|γυναῖκα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.22|<< Mark 12:22]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.24|Mark 12:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

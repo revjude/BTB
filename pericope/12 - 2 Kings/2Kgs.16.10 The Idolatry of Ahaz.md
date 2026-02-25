@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Idolatry of Ahaz
+type: Pericope
 pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 16
 book/chapter: "[[2Kgs.16|2 Kings 16]]"
-genre:
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[2Kgs.16.10]]"
 - "[[2Kgs.16.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Kgs.16.20]]"
 ---
 
-[[2Kgs.16|2 Kings 16:10 - 2 Kings 16:20]]
+<small>[[2Kgs.16|2 Kings 16:10-20]]</small>
 *The Idolatry of Ahaz*
 
 [[2Kgs.16.10|10]] And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw an altar that \[was\] at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.

@@ -1,10 +1,60 @@
+---
+title: 2 Peter 3:12
+type: Verse
+kjv: "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?"
+bsb: "as you anticipate and hasten the coming of the day of God, when the heavens will be destroyed by fire and the elements will melt in the heat."
+greek: "προσδοκῶντας καὶ σπεύδοντας τὴν παρουσίαν τῆς τοῦ θεοῦ ἡμέρας, δι᾽ ἣν οὐρανοὶ πυρούμενοι λυθήσονται καὶ στοιχεῖα καυσούμενα τήκεται;"
+pericope: "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G4328]]"
+- "[[G2532]]"
+- "[[G4692]]"
+- "[[G3588]]"
+- "[[G3952]]"
+- "[[G2316]]"
+- "[[G2250]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3772]]"
+- "[[G4448]]"
+- "[[G3089]]"
+- "[[G4747]]"
+- "[[G2741]]"
+- "[[G5080]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:12**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 <small><sub>**BSB:**</sub></small>
 as you anticipate and hasten the coming of the day of God, when the heavens will be destroyed by fire and the elements will melt in the heat.
-<small><sub>**Literal:**</sub></small>
-expecting and hastening the coming of the <the> of God day, through which [the] heavens being set on fire will be dissolved and [the] elements burning with heat are melting?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.11|<< 2 Peter 3:11]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.13|2 Peter 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4328\|προσδοκῶντας]]  [[G2532\|καὶ]]  [[G4692\|σπεύδοντας]]  [[G3588\|τὴν]]  [[G3952\|παρουσίαν]]  [[G3588\|τῆς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2250\|ἡμέρας,]]  [[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G3772\|οὐρανοὶ]]  [[G4448\|πυρούμενοι]]  [[G3089\|λυθήσονται]]  [[G2532\|καὶ]]  [[G4747\|στοιχεῖα]]  [[G2741\|καυσούμενα]]  [[G5080\|τήκεται;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.11|<< 2 Peter 3:11]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.13|2 Peter 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

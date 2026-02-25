@@ -1,8 +1,59 @@
+---
+title: Isaiah 59:6
+type: Verse
+kjv: "Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands."
+bsb: "Their cobwebs cannot be made into clothing, and they cannot cover themselves with their works. Their deeds are sinful deeds, and acts of violence are in their hands."
+hebrew: "קֽוּרֵיהֶם֙ לֹא־ יִהְי֣וּ לְבֶ֔גֶד וְלֹ֥א יִתְכַּסּ֖וּ בְּמַֽעֲשֵׂיהֶ֑ם מַֽעֲשֵׂיהֶם֙ מַֽעֲשֵׂי־ אָ֔וֶן וּפֹ֥עַל חָמָ֖ס בְּכַפֵּיהֶֽם׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6980]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0899B]]"
+- "[[H9002]]"
+- "[[H3680]]"
+- "[[H9003]]"
+- "[[H4639G]]"
+- "[[H0205G]]"
+- "[[H6467]]"
+- "[[H2555]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:6**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their webs shall not become garments, neither shall they cover themselves with their works: their works [are] works of iniquity, and the act of violence [is] in their hands.
 <small><sub>**BSB:**</sub></small>
 Their cobwebs cannot be made into clothing, and they cannot cover themselves with their works. Their deeds are sinful deeds, and acts of violence are in their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H6980\|קֽוּרֵי]][[H9028\|הֶם֙]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְי֣וּ]] [[H9005\|לְ]][[H0899B\|בֶ֔גֶד]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3680\|יִתְכַּסּ֖וּ]] [[H9003\|בְּ]][[H4639G\|מַֽעֲשֵׂי]][[H9028\|הֶ֑ם]] [[H4639G\|מַֽעֲשֵׂי]][[H9028\|הֶם֙]] [[H4639G\|מַֽעֲשֵׂי]][[H9014\|־]] [[H0205G\|אָ֔וֶן]] [[H9002\|וּ]][[H6467\|פֹ֥עַל]] [[H2555\|חָמָ֖ס]] [[H9003\|בְּ]][[H3709G\|כַפֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.5|<< Isaiah 59:5]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.7|Isaiah 59:7 >>]]</td></tr></table>
 

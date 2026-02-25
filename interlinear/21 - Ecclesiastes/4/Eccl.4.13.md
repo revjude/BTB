@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 4:13
+type: Verse
+kjv: "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
+bsb: "Better is a poor but wise youth than an old but foolish king who no longer knows how to take a warning."
+hebrew: "ט֛וֹב יֶ֥לֶד מִסְכֵּ֖ן וְחָכָ֑ם מִמֶּ֤לֶךְ זָקֵן֙ וּכְסִ֔יל אֲשֶׁ֛ר לֹא־ יָדַ֥ע לְהִזָּהֵ֖ר עֽוֹד׃"
+pericope: "[[Eccl.4.13 The Futility of Power|The Futility of Power]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H2896A]]"
+- "[[H3206]]"
+- "[[H4542]]"
+- "[[H9002]]"
+- "[[H2450]]"
+- "[[H9006]]"
+- "[[H4428G]]"
+- "[[H2205H]]"
+- "[[H3684]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H2094B]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:13**<big><big>[[Eccl.4.13 The Futility of Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] a poor and a wise child than an old and foolish king, who will no more be admonished.
 <small><sub>**BSB:**</sub></small>
 Better is a poor but wise youth than an old but foolish king who no longer knows how to take a warning.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֛וֹב]] [[H3206\|יֶ֥לֶד]] [[H4542\|מִסְכֵּ֖ן]] [[H9002\|וְ]][[H2450\|חָכָ֑ם]] [[H9006\|מִ]][[H4428G\|מֶּ֤לֶךְ]] [[H2205H\|זָקֵן֙]] [[H9002\|וּ]][[H3684\|כְסִ֔יל]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֥ע]] [[H9005\|לְ]][[H2094B\|הִזָּהֵ֖ר]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Genesis 24:5
+type: Verse
+kjv: "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?"
+bsb: "The servant asked him, “What if the woman is unwilling to follow me to this land? Shall I then take your son back to the land from which you came?”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ הָעֶ֔בֶד אוּלַי֙ לֹא־ תֹאבֶ֣ה הָֽאִשָּׁ֔ה לָלֶ֥כֶת אַחֲרַ֖י אֶל־ הָאָ֣רֶץ הַזֹּ֑את הֶֽהָשֵׁ֤ב אָשִׁיב֙ אֶת־ בִּנְךָ֔ אֶל־ הָאָ֖רֶץ אֲשֶׁר־ יָצָ֥אתָ מִשָּֽׁם׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H5650]]"
+- "[[H0194]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H0802G]]"
+- "[[H9005]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9008]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:5**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?
 <small><sub>**BSB:**</sub></small>
 The servant asked him, “What if the woman is unwilling to follow me to this land? Shall I then take your son back to the land from which you came?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9009\|הָ]][[H5650\|עֶ֔בֶד]] [[H0194\|אוּלַי֙]] [[H3808\|לֹא]][[H9014\|־]] [[H0014\|תֹאבֶ֣ה]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H9005\|לָ]][[H1980N\|לֶ֥כֶת]] [[H0310A\|אַחֲרַ֖]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9008\|הֶֽ]][[H7725G\|הָשֵׁ֤ב]] [[H7725G\|אָשִׁיב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יָצָ֥אתָ]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.4|<< Genesis 24:4]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.6|Genesis 24:6 >>]]</td></tr></table>
 

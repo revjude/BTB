@@ -1,8 +1,57 @@
+---
+title: Job 16:12
+type: Verse
+kjv: "I was at ease, but he hath broken me asunder: he hath also taken me by my neck, and shaken me to pieces, and set me up for his mark."
+bsb: "I was at ease, but He shattered me; He seized me by the neck and crushed me. He has set me up as His target;"
+hebrew: "שָׁ֘לֵ֤ו הָיִ֨יתִי׀ וַֽיְפַרְפְּרֵ֗נִי וְאָחַ֣ז בְּ֭עָרְפִּי וַֽיְפַצְפְּצֵ֑נִי וַיְקִימֵ֥נִי ל֝֗וֹ לְמַטָּרָֽה׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7961]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H6565A]]"
+- "[[H9030]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H6203]]"
+- "[[H9020]]"
+- "[[H6327D]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:12**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was at ease, but he hath broken me asunder: he hath also taken [me] by my neck, and shaken me to pieces, and set me up for his mark.
 <small><sub>**BSB:**</sub></small>
 I was at ease, but He shattered me; He seized me by the neck and crushed me. He has set me up as His target;
+<small><sub>**Hebrew:**</sub></small>
+[[H7961\|שָׁ֘לֵ֤ו]] [[H1961\|הָיִ֨יתִי]][[H9015\|׀]] [[H9001\|וַֽ]][[H6565A\|יְפַרְפְּרֵ֗]][[H9030\|נִי]] [[H9001\|וְ]][[H0270\|אָחַ֣ז]] [[H9003\|בְּ֭]][[H6203\|עָרְפִּ]][[H9020\|י]] [[H9001\|וַֽ]][[H6327D\|יְפַצְפְּצֵ֑]][[H9030\|נִי]] [[H9001\|וַ]][[H6965I\|יְקִימֵ֥]][[H9030\|נִי]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H9005\|לְ]][[H4307H\|מַטָּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.11|<< Job 16:11]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.13|Job 16:13 >>]]</td></tr></table>
 

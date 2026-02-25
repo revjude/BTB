@@ -1,8 +1,62 @@
+---
+title: Genesis 18:15
+type: Verse
+kjv: "Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh."
+bsb: "But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,” replied the LORD, “but you did laugh.”"
+hebrew: "וַתְּכַחֵ֨שׁ שָׂרָ֧ה׀ לֵאמֹ֛ר לֹ֥א צָחַ֖קְתִּי כִּ֣י׀ יָרֵ֑אָה וַיֹּ֥אמֶר׀ לֹ֖א כִּ֥י צָחָֽקְתְּ׃"
+pericope: "[[Gen.18.9 Sarah Laughs at the Promise|Sarah Laughs at the Promise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MAMRE|MAMRE]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3584]]"
+- "[[H8283]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H6711]]"
+- "[[H3588A]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:15**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
 <small><sub>**BSB:**</sub></small>
 But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,” replied the LORD, “but you did laugh.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3584\|תְּכַחֵ֨שׁ]] [[H8283\|שָׂרָ֧ה]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֛ר]] [[H3808\|לֹ֥א]] [[H6711\|צָחַ֖קְתִּי]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3372G\|יָרֵ֑אָה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]][[H9015\|׀]] [[H3808\|לֹ֖א]] [[H3588A\|כִּ֥י]] [[H6711\|צָחָֽקְתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic ISAAC|ISAAC]] • [[topic MAMRE|MAMRE]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.14|<< Genesis 18:14]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.16|Genesis 18:16 >>]]</td></tr></table>
 

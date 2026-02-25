@@ -1,8 +1,58 @@
+---
+title: 1 Kings 20:19
+type: Verse
+kjv: "So these young men of the princes of the provinces came out of the city, and the army which followed them."
+bsb: "Meanwhile, these young officers of the district governors marched out of the city, with the army behind them,"
+hebrew: "וְאֵ֙לֶּה֙ יָצְא֣וּ מִן־ הָעִ֔יר נַעֲרֵ֖י שָׂרֵ֣י הַמְּדִינ֑וֹת וְהַחַ֖יִל אֲשֶׁ֥ר אַחֲרֵיהֶֽם׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5288]]"
+- "[[H8269]]"
+- "[[H4082]]"
+- "[[H2428A]]"
+- "[[H0834A]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:19**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So these young men of the princes of the provinces came out of the city, and the army which followed them.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, these young officers of the district governors marched out of the city, with the army behind them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H3318G\|יָצְא֣וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H5288\|נַעֲרֵ֖י]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H4082\|מְּדִינ֑וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H2428A\|חַ֖יִל]] [[H0834A\|אֲשֶׁ֥ר]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.18|<< 1 Kings 20:18]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.20|1 Kings 20:20 >>]]</td></tr></table>
 

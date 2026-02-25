@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law of Liberty
+type: Pericope
 pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Romans
 chapter: 14
 book/chapter: "[[Rom.14|Romans 14]]"
-genre:
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 12
 verses:
 - "[[Rom.14.1]]"
 - "[[Rom.14.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Rom.14.12]]"
 ---
 
-[[Rom.14|Romans 14:1 - Romans 14:12]]
+<small>[[Rom.14|Romans 14:1-12]]</small>
 *The Law of Liberty*
 
 [[Rom.14.1|1]] Him that is weak in the faith receive ye, \[but\] not to doubtful disputations.

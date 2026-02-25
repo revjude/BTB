@@ -1,8 +1,71 @@
+---
+title: Exodus 30:4
+type: Verse
+kjv: "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal."
+bsb: "And make two gold rings below the molding on opposite sides to hold the poles used to carry it."
+hebrew: "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב תַּֽעֲשֶׂה־ לּ֣וֹ׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו תַּעֲשֶׂ֖ה עַל־ שְׁנֵ֣י צִדָּ֑יו וְהָיָה֙ לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֵֽמָּה׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H2213]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H6763]]"
+- "[[H6654]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1004N]]"
+- "[[H0905G]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:4**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make [it]; and they shall be for places for the staves to bear it withal.
 <small><sub>**BSB:**</sub></small>
 And make two gold rings below the molding on opposite sides to hold the poles used to carry it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתֵּי֩]] [[H2885\|טַבְּעֹ֨ת]] [[H2091\|זָהָ֜ב]] [[H6213H\|תַּֽעֲשֶׂה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]][[H9015\|׀]] [[H9006\|מִ]][[H8478G\|תַּ֣חַת]] [[H9005\|לְ]][[H2213\|זֵר֗]][[H9023\|וֹ]] [[H5921A\|עַ֚ל]] [[H8147\|שְׁתֵּ֣י]] [[H6763\|צַלְעֹתָ֔י]][[H9023\|ו]] [[H6213H\|תַּעֲשֶׂ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֣י]] [[H6654\|צִדָּ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9005\|לְ]][[H1004N\|בָתִּ֣ים]] [[H9005\|לְ]][[H0905G\|בַדִּ֔ים]] [[H9005\|לָ]][[H5375H\|שֵׂ֥את]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בָּ]][[H9038\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.3|<< Exodus 30:3]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.5|Exodus 30:5 >>]]</td></tr></table>
 

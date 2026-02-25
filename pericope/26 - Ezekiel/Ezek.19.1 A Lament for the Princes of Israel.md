@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament for the Princes of Israel
+type: Pericope
 pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 19
 book/chapter: "[[Ezek.19|Ezekiel 19]]"
-genre:
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.19.1]]"
 - "[[Ezek.19.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.19.14]]"
 ---
 
-[[Ezek.19|Ezekiel 19:1 - Ezekiel 19:14]]
+<small>[[Ezek.19|Ezekiel 19:1-14]]</small>
 *A Lament for the Princes of Israel*
 
 [[Ezek.19.1|1]] Moreover take thou up a lamentation for the princes of Israel,

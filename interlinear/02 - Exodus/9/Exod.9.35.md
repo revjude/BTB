@@ -1,8 +1,66 @@
+---
+title: Exodus 9:35
+type: Verse
+kjv: "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses."
+bsb: "So Pharaoh’s heart was hardened, and he would not let the Israelites go, just as the LORD had said through Moses."
+hebrew: "וַֽיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת־ בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃ פ"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H3820A]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 9:35**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.
 <small><sub>**BSB:**</sub></small>
 So Pharaoh’s heart was hardened, and he would not let the Israelites go, just as the LORD had said through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2388G\|יֶּחֱזַק֙]] [[H3820A\|לֵ֣ב]] [[H6547J\|פַּרְעֹ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7971H\|שִׁלַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.34|<< Exodus 9:34]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.1|Exodus 10:1 >>]]</td></tr></table>
 
@@ -20,7 +78,7 @@ So Pharaoh’s heart was hardened, and he would not let the Israelites go, just 
 | he had said  |**<big>&#8207;[[H1696G\|דִּבֶּ֥ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.34|<< Exodus 9:34]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.1|Exodus 10:1 >>]]</td></tr></table>
 
 

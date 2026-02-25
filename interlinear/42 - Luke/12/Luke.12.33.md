@@ -1,10 +1,71 @@
+---
+title: Luke 12:33
+type: Verse
+kjv: "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth."
+bsb: "Sell your possessions and give to the poor. Provide yourselves with purses that will not wear out, an inexhaustible treasure in heaven, where no thief approaches and no moth destroys."
+jesus_said: "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth."
+greek: "πωλήσατε τὰ ὑπάρχοντα ὑμῶν καὶ δότε ἐλεημοσύνην· ποιήσατε ἑαυτοῖς βαλλάντια μὴ παλαιούμενα, θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς ὅπου κλέπτης οὐκ ἐγγίζει οὐδὲ σὴς διαφθείρει·"
+pericope: "[[Luke.12.32 Treasures in Heaven|Treasures in Heaven]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TREASURE|TREASURE]]"
+strongs:
+- "[[G4453]]"
+- "[[G3588]]"
+- "[[G5225]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1654]]"
+- "[[G4160I]]"
+- "[[G1438]]"
+- "[[G0905]]"
+- "[[G3361]]"
+- "[[G3822]]"
+- "[[G2344]]"
+- "[[G0413]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3699]]"
+- "[[G2812]]"
+- "[[G3756]]"
+- "[[G1448]]"
+- "[[G3761]]"
+- "[[G4597]]"
+- "[[G1311]]"
+texts:
+- NKO
+---
+
 **Luke 12:33**<big><big>[[Luke.12.32 Treasures in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
 <small><sub>**BSB:**</sub></small>
 Sell your possessions and give to the poor. Provide yourselves with purses that will not wear out, an inexhaustible treasure in heaven, where no thief approaches and no moth destroys.
-<small><sub>**Literal:**</sub></small>
-do sell the possessions of you and do give alms; do make to yourselves purses not growing old, a treasure unfailing in the heavens where thief not does draw near nor moth destroy;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.32|<< Luke 12:32]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.34|Luke 12:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4453\|πωλήσατε]]  [[G3588\|τὰ]]  [[G5225\|ὑπάρχοντα]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G1325\|δότε]]  [[G1654\|ἐλεημοσύνην·]]  [[G4160I\|ποιήσατε]]  [[G1438\|ἑαυτοῖς]]  [[G0905\|βαλλάντια]]  [[G3361\|μὴ]]  [[G3822\|παλαιούμενα,]]  [[G2344\|θησαυρὸν]]  [[G0413\|ἀνέκλειπτον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G3699\|ὅπου]]  [[G2812\|κλέπτης]]  [[G3756\|οὐκ]]  [[G1448\|ἐγγίζει]]  [[G3761\|οὐδὲ]]  [[G4597\|σὴς]]  [[G1311\|διαφθείρει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic TREASURE|TREASURE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.32|<< Luke 12:32]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.34|Luke 12:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

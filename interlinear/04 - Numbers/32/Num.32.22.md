@@ -1,8 +1,66 @@
+---
+title: Numbers 32:22
+type: Verse
+kjv: "And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD."
+bsb: "then when the land is subdued before the LORD, you may return and be free of obligation to the LORD and to Israel. And this land will belong to you as a possession before the LORD."
+hebrew: "וְנִכְבְּשָׁ֨ה הָאָ֜רֶץ לִפְנֵ֤י יְהוָה֙ וְאַחַ֣ר תָּשֻׁ֔בוּ וִהְיִיתֶ֧ם נְקִיִּ֛ים מֵיְהוָ֖ה וּמִיִּשְׂרָאֵ֑ל וְ֠הָיְתָה הָאָ֨רֶץ הַזֹּ֥את לָכֶ֛ם לַאֲחֻזָּ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3533]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H7725G]]"
+- "[[H1961]]"
+- "[[H5355A]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H2063]]"
+- "[[H9036]]"
+- "[[H0272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:22**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.
 <small><sub>**BSB:**</sub></small>
 then when the land is subdued before the LORD, you may return and be free of obligation to the LORD and to Israel. And this land will belong to you as a possession before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3533\|נִכְבְּשָׁ֨ה]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H0310A\|אַחַ֣ר]] [[H7725G\|תָּשֻׁ֔בוּ]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֧ם]] [[H5355A\|נְקִיִּ֛ים]] [[H9006\|מֵ]][[H3068G\|יְהוָ֖ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֑ל]] [[H9001\|וְ֠]][[H1961\|הָיְתָה]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֥את]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9005\|לַ]][[H0272\|אֲחֻזָּ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.21|<< Numbers 32:21]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.23|Numbers 32:23 >>]]</td></tr></table>
 

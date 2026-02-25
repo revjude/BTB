@@ -1,8 +1,75 @@
+---
+title: 1 Kings 22:13
+type: Verse
+kjv: "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good."
+bsb: "Then the messenger who had gone to call Micaiah instructed him, “Behold now, with one accord the words of the prophets are favorable to the king. So please let your words be like theirs, and speak favorably.”"
+hebrew: "וְהַמַּלְאָ֞ךְ אֲשֶׁר־ הָלַ֣ךְ׀ לִקְרֹ֣א מִיכָ֗יְהוּ דִּבֶּ֤ר אֵלָיו֙ לֵאמֹ֔ר הִנֵּה־ נָ֞א דִּבְרֵ֧י הַנְּבִיאִ֛ים פֶּֽה־ אֶחָ֥ד ט֖וֹב אֶל־ הַמֶּ֑לֶךְ יְהִֽי־ נָ֣א דְבָרְךָ֗ כִּדְבַ֛ר אַחַ֥ד מֵהֶ֖ם וְדִבַּ֥רְתָּ טּֽוֹב׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H4321G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H1697G]]"
+- "[[H5030]]"
+- "[[H6310K]]"
+- "[[H0259]]"
+- "[[H2896A]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 22:13**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets [declare] good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak [that which is] good.
 <small><sub>**BSB:**</sub></small>
 Then the messenger who had gone to call Micaiah instructed him, “Behold now, with one accord the words of the prophets are favorable to the king. So please let your words be like theirs, and speak favorably.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4397G\|מַּלְאָ֞ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980G\|הָלַ֣ךְ]][[H9015\|׀]] [[H9005\|לִ]][[H7121G\|קְרֹ֣א]] [[H4321G\|מִיכָ֗יְהוּ]] [[H1696G\|דִּבֶּ֤ר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֞א]] [[H1697G\|דִּבְרֵ֧י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֛ים]] [[H6310K\|פֶּֽה]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H2896A\|ט֖וֹב]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H1961\|יְהִֽי]][[H9014\|־]] [[H4994\|נָ֣א]] [[H1697G\|דְבָרְ]][[H9021\|ךָ֗]] [[H9004\|כִּ]][[H1697G\|דְבַ֛ר]] [[H0259\|אַחַ֥ד]] [[H9006\|מֵ]][[H9038\|הֶ֖ם]] [[H9001\|וְ]][[H1696G\|דִבַּ֥רְתָּ]] [[H2896A\|טּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FLATTERY|FLATTERY]] • [[topic MICAIAH|MICAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.12|<< 1 Kings 22:12]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.14|1 Kings 22:14 >>]]</td></tr></table>
 
@@ -35,7 +102,7 @@ Then the messenger who had gone to call Micaiah instructed him, “Behold now, w
 | good  |**<big>&#8207;[[H2896A\|טּֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.12|<< 1 Kings 22:12]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.14|1 Kings 22:14 >>]]</td></tr></table>
 
-[^1]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: words your  | **<big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: words your  | **<big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>דְבָרְיךָ֗</big></span>**
 

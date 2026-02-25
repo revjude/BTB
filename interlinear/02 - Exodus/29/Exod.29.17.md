@@ -1,8 +1,62 @@
+---
+title: Exodus 29:17
+type: Verse
+kjv: "And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head."
+bsb: "Cut the ram into pieces, wash the entrails and legs, and place them with its head and other pieces."
+hebrew: "וְאֶ֨ת־ הָאַ֔יִל תְּנַתֵּ֖חַ לִנְתָחָ֑יו וְרָחַצְתָּ֤ קִרְבּוֹ֙ וּכְרָעָ֔יו וְנָתַתָּ֥ עַל־ נְתָחָ֖יו וְעַל־ רֹאשֽׁוֹ׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H5408]]"
+- "[[H9005]]"
+- "[[H5409]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H7130H]]"
+- "[[H3767]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:17**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put [them] unto his pieces, and unto his head.
 <small><sub>**BSB:**</sub></small>
 Cut the ram into pieces, wash the entrails and legs, and place them with its head and other pieces.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֔יִל]] [[H5408\|תְּנַתֵּ֖חַ]] [[H9005\|לִ]][[H5409\|נְתָחָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַצְתָּ֤]] [[H7130H\|קִרְבּ]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H3767\|כְרָעָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֥]] [[H5921A\|עַל]][[H9014\|־]] [[H5409\|נְתָחָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.16|<< Exodus 29:16]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.18|Exodus 29:18 >>]]</td></tr></table>
 

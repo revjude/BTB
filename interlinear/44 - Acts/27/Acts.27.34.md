@@ -1,10 +1,60 @@
+---
+title: Acts 27:34
+type: Verse
+kjv: "Wherefore I pray you to take some meat: for this is for your health: for there shall not an hair fall from the head of any of you."
+bsb: "So for your own preservation, I urge you to eat something, because not a single hair of your head will be lost.”"
+greek: "διὸ παρακαλῶ ὑμᾶς μεταλαβεῖν τροφῆς· τοῦτο γὰρ πρὸς τῆς ὑμετέρας σωτηρίας ὑπάρχει· οὐδενὸς γὰρ ὑμῶν θρὶξ ἀπὸ τῆς κεφαλῆς ἀπολεῖται.¶"
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G1352]]"
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G3335]]"
+- "[[G5160]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4991]]"
+- "[[G5225]]"
+- "[[G3762]]"
+- "[[G2359]]"
+- "[[G0575]]"
+- "[[G2776]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 27:34**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore I pray you to take [some] meat: for this is for your health: for there shall not an hair fall from the head of any of you.
 <small><sub>**BSB:**</sub></small>
 So for your own preservation, I urge you to eat something, because not a single hair of your head will be lost.”
-<small><sub>**Literal:**</sub></small>
-Therefore I exhort you to partake of food; this indeed for <the> of you preservation is; not [one] for of you a hair of the head will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.33|<< Acts 27:33]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.35|Acts 27:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G3870\|παρακαλῶ]]  [[G4771\|ὑμᾶς]]  [[G3335\|μεταλαβεῖν]]  [[G5160\|τροφῆς·]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G4314\|πρὸς]]  [[G3588\|τῆς]]  [[G4771\|ὑμετέρας]]  [[G4991\|σωτηρίας]]  [[G5225\|ὑπάρχει·]]  [[G3762\|οὐδενὸς]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῶν]]  [[G2359\|θρὶξ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G0622\|ἀπολεῖται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.33|<< Acts 27:33]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.35|Acts 27:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

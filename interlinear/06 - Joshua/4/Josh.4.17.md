@@ -1,8 +1,54 @@
+---
+title: Joshua 4:17
+type: Verse
+kjv: "Joshua therefore commanded the priests, saying, Come ye up out of Jordan."
+bsb: "So Joshua commanded the priests, “Come up from the Jordan.”"
+hebrew: "וַיְצַ֣ו יְהוֹשֻׁ֔עַ אֶת־ הַכֹּהֲנִ֖ים לֵאמֹ֑ר עֲל֖וּ מִן־ הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:17**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joshua therefore commanded the priests, saying, Come ye up out of Jordan.
 <small><sub>**BSB:**</sub></small>
 So Joshua commanded the priests, “Come up from the Jordan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5927G\|עֲל֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.16|<< Joshua 4:16]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.18|Joshua 4:18 >>]]</td></tr></table>
 

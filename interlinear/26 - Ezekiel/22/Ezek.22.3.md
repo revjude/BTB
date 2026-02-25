@@ -1,8 +1,63 @@
+---
+title: Ezekiel 22:3
+type: Verse
+kjv: "Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself."
+bsb: "and tell her that this is what the Lord GOD says: ‘O city who brings her own doom by shedding blood within her walls and making idols to defile herself,"
+hebrew: "וְאָמַרְתָּ֗ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עִ֣יר שֹׁפֶ֥כֶת דָּ֛ם בְּתוֹכָ֖הּ לָב֣וֹא עִתָּ֑הּ וְעָשְׂתָ֧ה גִלּוּלִ֛ים עָלֶ֖יהָ לְטָמְאָֽה׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5892B]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H6256]]"
+- "[[H6213H]]"
+- "[[H1544]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:3**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
 <small><sub>**BSB:**</sub></small>
 and tell her that this is what the Lord GOD says: ‘O city who brings her own doom by shedding blood within her walls and making idols to defile herself,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H5892B\|עִ֣יר]] [[H8210H\|שֹׁפֶ֥כֶת]] [[H1818\|דָּ֛ם]] [[H9003\|בְּ]][[H8432\|תוֹכָ֖]][[H9024\|הּ]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H6256\|עִתָּ֑]][[H9024\|הּ]] [[H9001\|וְ]][[H6213H\|עָשְׂתָ֧ה]] [[H1544\|גִלּוּלִ֛ים]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H9005\|לְ]][[H2930A\|טָמְאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.2|<< Ezekiel 22:2]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.4|Ezekiel 22:4 >>]]</td></tr></table>
 

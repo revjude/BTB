@@ -1,6 +1,47 @@
+---
+title: Psalm 6:0
+type: Verse
+kjv: "To the chief Musician on Neginoth upon Sheminith, A Psalm of David."
+hebrew: "לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־ הַשְּׁמִינִ֗ית מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 6
+book/chapter: "[[Ps.6|Psalm 6]]"
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9003]]"
+- "[[H5058]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8067]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 6:0**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֣חַ]] [[H9003\|בִּ֭]][[H5058\|נְגִינוֹת]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H8067\|שְּׁמִינִ֗ית]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.12|<< Psalms 5:12]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.1|Psalms 6:1 >>]]</td></tr></table>
 

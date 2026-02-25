@@ -1,10 +1,66 @@
+---
+title: John 18:16
+type: Verse
+kjv: "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter."
+bsb: "But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in."
+greek: "Ὁ δὲ Πέτρος εἱστήκει πρὸς τῇ θύρᾳ ἔξω. ἐξῆλθεν οὖν ὁ μαθητὴς ὁ ἄλλος ὁ ἦν γνωστὸς τοῦ ἀρχιερέως καὶ εἶπεν τῇ θυρωρῷ καὶ εἰσήγαγεν τὸν Πέτρον."
+pericope: "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G2476]]"
+- "[[G4314]]"
+- "[[G2374]]"
+- "[[G1854]]"
+- "[[G1831]]"
+- "[[G3767]]"
+- "[[G3101]]"
+- "[[G0243]]"
+- "[[G1510]]"
+- "[[G1110]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2377]]"
+- "[[G1521]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **John 18:16**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.
 <small><sub>**BSB:**</sub></small>
 But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in.
-<small><sub>**Literal:**</sub></small>
-<the> But Peter had stood at the door outside. Went out therefore the disciple <the> other who was known to the high priest and spoke to the doorkeeper and brought in <the> Peter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.15|<< John 18:15]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.17|John 18:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G2476\|εἱστήκει]]  [[G4314\|πρὸς]]  [[G3588\|τῇ]]  [[G2374\|θύρᾳ]]  [[G1854\|ἔξω.]]  [[G1831\|ἐξῆλθεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G3101\|μαθητὴς]]  [[G3588\|ὁ]]  [[G0243\|ἄλλος]]  [[G3588\|ὁ]]  [[G1510\|ἦν]]  [[G1110\|γνωστὸς]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|τῇ]]  [[G2377\|θυρωρῷ]]  [[G2532\|καὶ]]  [[G1521\|εἰσήγαγεν]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.15|<< John 18:15]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.17|John 18:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Esther 10:3
+type: Verse
+kjv: "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed."
+bsb: "For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen."
+hebrew: "כִּ֣י׀ מָרְדֳּכַ֣י הַיְּהוּדִ֗י מִשְׁנֶה֙ לַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ וְגָדוֹל֙ לַיְּהוּדִ֔ים וְרָצ֖וּי לְרֹ֣ב אֶחָ֑יו דֹּרֵ֥שׁ טוֹב֙ לְעַמּ֔וֹ וְדֹבֵ֥ר שָׁל֖וֹם לְכָל־"
+pericope: "[[Esth.10.1 Tribute to Xerxes and Mordecai|Tribute to Xerxes and Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 10
+book/chapter: "[[Esth.10|Esther 10]]"
+chronological_order: 908
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H4782H]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H4932H]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H7521]]"
+- "[[H7230]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H1875]]"
+- "[[H2896B]]"
+- "[[H5971A]]"
+- "[[H1696G]]"
+- "[[H7965G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+texts:
+- L
+---
+
 **Esther 10:3**<big><big>[[Esth.10.1 Tribute to Xerxes and Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Mordecai the Jew [was] next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
 <small><sub>**BSB:**</sub></small>
 For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H4782H\|מָרְדֳּכַ֣י]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֗י]] [[H4932H\|מִשְׁנֶה֙]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֲחַשְׁוֵר֔וֹשׁ]] [[H9002\|וְ]][[H1419A\|גָדוֹל֙]] [[H9005\|לַ]][[H3064\|יְּהוּדִ֔ים]] [[H9002\|וְ]][[H7521\|רָצ֖וּי]] [[H9005\|לְ]][[H7230\|רֹ֣ב]] [[H0251I\|אֶחָ֑י]][[H9023\|ו]] [[H1875\|דֹּרֵ֥שׁ]] [[H2896B\|טוֹב֙]] [[H9005\|לְ]][[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H1696G\|דֹבֵ֥ר]] [[H7965G\|שָׁל֖וֹם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic MORDECAI|MORDECAI]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.2|<< Esther 10:2]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.1|Job 1:1 >>]]</td></tr></table>
 

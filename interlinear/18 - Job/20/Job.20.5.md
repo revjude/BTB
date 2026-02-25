@@ -1,8 +1,59 @@
+---
+title: Job 20:5
+type: Verse
+kjv: "That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?"
+bsb: "the triumph of the wicked has been brief and the joy of the godless momentary?"
+hebrew: "כִּ֤י רִנְנַ֣ת רְ֭שָׁעִים מִקָּר֑וֹב וְשִׂמְחַ֖ת חָנֵ֣ף עֲדֵי־ רָֽגַע׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JOY|JOY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7445]]"
+- "[[H7563]]"
+- "[[H9006]]"
+- "[[H7138]]"
+- "[[H9002]]"
+- "[[H8057]]"
+- "[[H2611]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7281]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:5**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the triumphing of the wicked [is] short, and the joy of the hypocrite [but] for a moment?
 <small><sub>**BSB:**</sub></small>
 the triumph of the wicked has been brief and the joy of the godless momentary?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7445\|רִנְנַ֣ת]] [[H7563\|רְ֭שָׁעִים]] [[H9006\|מִ]][[H7138\|קָּר֑וֹב]] [[H9002\|וְ]][[H8057\|שִׂמְחַ֖ת]] [[H2611\|חָנֵ֣ף]] [[H5704\|עֲדֵי]][[H9014\|־]] [[H7281\|רָֽגַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JOY|JOY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.4|<< Job 20:4]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.6|Job 20:6 >>]]</td></tr></table>
 

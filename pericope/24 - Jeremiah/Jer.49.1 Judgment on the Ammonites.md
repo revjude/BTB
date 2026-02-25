@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on the Ammonites
+type: Pericope
 pericope: "[[Jer.49.1 Judgment on the Ammonites|Judgment on the Ammonites]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 49
 book/chapter: "[[Jer.49|Jeremiah 49]]"
-genre:
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.49.1]]"
 - "[[Jer.49.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.49.6]]"
 ---
 
-[[Jer.49|Jeremiah 49:1 - Jeremiah 49:6]]
+<small>[[Jer.49|Jeremiah 49:1-6]]</small>
 *Judgment on the Ammonites*
 
 [[Jer.49.1|1]] Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why \[then\] doth their king inherit Gad, and his people dwell in his cities?

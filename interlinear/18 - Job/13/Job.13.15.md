@@ -1,8 +1,60 @@
+---
+title: Job 13:15
+type: Verse
+kjv: "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him."
+bsb: "Though He slay me, I will hope in Him. I will still defend my ways to His face."
+hebrew: "הֵ֣ן יִ֭קְטְלֵנִי ל֣וֹ אֲיַחֵ֑ל אַךְ־ דְּ֝רָכַ֗י אֶל־ פָּנָ֥יו אוֹכִֽיחַ׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H2005]]"
+- "[[H6991]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3176H]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H3198]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 13:15**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.
 <small><sub>**BSB:**</sub></small>
 Though He slay me, I will hope in Him. I will still defend my ways to His face.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H6991\|יִ֭קְטְלֵ]][[H9030\|נִי]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3176H\|אֲיַחֵ֑ל]] [[H0389\|אַךְ]][[H9014\|־]] [[H1870G\|דְּ֝רָכַ֗]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנָ֥י]][[H9023\|ו]] [[H3198\|אוֹכִֽיחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic INTEGRITY|INTEGRITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.14|<< Job 13:14]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.16|Job 13:16 >>]]</td></tr></table>
 

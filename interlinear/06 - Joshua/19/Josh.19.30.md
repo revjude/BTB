@@ -1,8 +1,53 @@
+---
+title: Joshua 19:30
+type: Verse
+kjv: "Ummah also, and Aphek, and Rehob: twenty and two cities with their villages."
+bsb: "Ummah, Aphek, and Rehob. There were twenty-two cities, along with their villages."
+hebrew: "וְעֻמָ֥ה וַאֲפֵ֖ק וּרְחֹ֑ב עָרִ֛ים עֶשְׂרִ֥ים וּשְׁתַּ֖יִם וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ASHER|ASHER]]"
+- "[[topic REHOB|REHOB]]"
+- "[[topic UMMAH|UMMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5981]]"
+- "[[H0663H]]"
+- "[[H7340H]]"
+- "[[H5892B]]"
+- "[[H6242]]"
+- "[[H8147]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:30**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.
 <small><sub>**BSB:**</sub></small>
 Ummah, Aphek, and Rehob. There were twenty-two cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5981\|עֻמָ֥ה]] [[H9002\|וַ]][[H0663H\|אֲפֵ֖ק]] [[H9002\|וּ]][[H7340H\|רְחֹ֑ב]] [[H5892B\|עָרִ֛ים]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֖יִם]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ASHER|ASHER]] • [[topic REHOB|REHOB]] • [[topic UMMAH|UMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.29|<< Joshua 19:29]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.31|Joshua 19:31 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Ezekiel 30:18
+type: Verse
+kjv: "At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity."
+bsb: "The day will be darkened in Tahpanhes when I break the yoke of Egypt and her proud strength comes to an end. A cloud will cover her, and her daughters will go into captivity."
+hebrew: "וּבִֽתְחַפְנְחֵס֙ חָשַׂ֣ךְ הַיּ֔וֹם בְּשִׁבְרִי־ שָׁם֙ אֶת־ מֹט֣וֹת מִצְרַ֔יִם וְנִשְׁבַּת־ בָּ֖הּ גְּא֣וֹן עֻזָּ֑הּ הִ֚יא עָנָ֣ן יְכַסֶּ֔נָּה וּבְנוֹתֶ֖יהָ בַּשְּׁבִ֥י תֵלַֽכְנָה׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic TAHPANHES|TAHPANHES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8471]]"
+- "[[H2820]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7665]]"
+- "[[H9040]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H4133]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H9034]]"
+- "[[H1347]]"
+- "[[H5797]]"
+- "[[H9024]]"
+- "[[H1931]]"
+- "[[H6051]]"
+- "[[H3680]]"
+- "[[H1323G]]"
+- "[[H7628A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:18**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
 <small><sub>**BSB:**</sub></small>
 The day will be darkened in Tahpanhes when I break the yoke of Egypt and her proud strength comes to an end. A cloud will cover her, and her daughters will go into captivity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִֽ]][[H8471\|תְחַפְנְחֵס֙]] [[H2820\|חָשַׂ֣ךְ]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9003\|בְּ]][[H7665\|שִׁבְרִ]][[H9040\|י]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4133\|מֹט֣וֹת]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H7673A\|נִשְׁבַּת]][[H9014\|־]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H1347\|גְּא֣וֹן]] [[H5797\|עֻזָּ֑]][[H9024\|הּ]] [[H1931\|הִ֚יא]] [[H6051\|עָנָ֣ן]] [[H3680\|יְכַסֶּ֔]][[H9034\|נָּה]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֖י]][[H9024\|הָ]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֥י]] [[H1980G\|תֵלַֽכְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TAHPANHES|TAHPANHES]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.17|<< Ezekiel 30:17]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.19|Ezekiel 30:19 >>]]</td></tr></table>
 

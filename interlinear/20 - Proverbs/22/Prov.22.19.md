@@ -1,8 +1,56 @@
+---
+title: Proverbs 22:19
+type: Verse
+kjv: "That thy trust may be in the LORD, I have made known to thee this day, even to thee."
+bsb: "So that your trust may be in the LORD, I instruct you today—yes, you."
+hebrew: "לִהְי֣וֹת בַּ֭יהוָה מִבְטַחֶ֑ךָ הוֹדַעְתִּ֖יךָ הַיּ֣וֹם אַף־ אָֽתָּה׃"
+pericope: "[[Prov.22.17 Saying 1|Saying 1]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H4009]]"
+- "[[H9021]]"
+- "[[H3045]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:19**<big><big>[[Prov.22.17 Saying 1|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thy trust may be in the LORD, I have made known to thee this day, even to thee.
 <small><sub>**BSB:**</sub></small>
 So that your trust may be in the LORD, I instruct you today—yes, you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1961\|הְי֣וֹת]] [[H9003\|בַּ֭]][[H3068G\|יהוָה]] [[H4009\|מִבְטַחֶ֑]][[H9021\|ךָ]] [[H3045\|הוֹדַעְתִּ֖י]][[H9031\|ךָ]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H0637\|אַף]][[H9014\|־]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.18|<< Proverbs 22:18]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.20|Proverbs 22:20 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 1 Kings 1:41
+type: Verse
+kjv: "And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?"
+bsb: "Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab."
+hebrew: "וַיִּשְׁמַ֣ע אֲדֹנִיָּ֗הוּ וְכָל־ הַקְּרֻאִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וְהֵ֖ם כִּלּ֣וּ לֶאֱכֹ֑ל וַיִּשְׁמַ֤ע יוֹאָב֙ אֶת־ ק֣וֹל הַשּׁוֹפָ֔ר וַיֹּ֕אמֶר מַדּ֥וּעַ קֽוֹל־ הַקִּרְיָ֖ה הוֹמָֽה׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0138G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7121G]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H1992]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H3097G]]"
+- "[[H0853]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H4069]]"
+- "[[H7151]]"
+- "[[H1993]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:41**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah and all the guests that [were] with him heard [it] as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore [is this] noise of the city being in an uproar?
 <small><sub>**BSB:**</sub></small>
 Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H0138G\|אֲדֹנִיָּ֗הוּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H7121G\|קְּרֻאִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H3615G\|כִּלּ֣וּ]] [[H9005\|לֶ]][[H0398\|אֱכֹ֑ל]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H3097G\|יוֹאָב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֣וֹל]] [[H9009\|הַ]][[H7782\|שּׁוֹפָ֔ר]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4069\|מַדּ֥וּעַ]] [[H6963H\|קֽוֹל]][[H9014\|־]] [[H9009\|הַ]][[H7151\|קִּרְיָ֖ה]] [[H1993\|הוֹמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.40|<< 1 Kings 1:40]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.42|1 Kings 1:42 >>]]</td></tr></table>
 

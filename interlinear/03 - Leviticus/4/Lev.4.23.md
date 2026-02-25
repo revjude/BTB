@@ -1,8 +1,66 @@
+---
+title: Leviticus 4:23
+type: Verse
+kjv: "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
+bsb: "When he becomes aware of the sin he has committed, he must bring an unblemished male goat as his offering."
+hebrew: "אֽוֹ־ הוֹדַ֤ע אֵלָיו֙ חַטָּאת֔וֹ אֲשֶׁ֥ר חָטָ֖א בָּ֑הּ וְהֵבִ֧יא אֶת־ קָרְבָּנ֛וֹ שְׂעִ֥יר עִזִּ֖ים זָכָ֥ר תָּמִֽים׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H7133A]]"
+- "[[H8163B]]"
+- "[[H5795]]"
+- "[[H2145]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:23**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:
 <small><sub>**BSB:**</sub></small>
 When he becomes aware of the sin he has committed, he must bring an unblemished male goat as his offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|אֽוֹ]][[H9014\|־]] [[H3045\|הוֹדַ֤ע]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H2403B\|חַטָּאת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|חָטָ֖א]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H0935P\|הֵבִ֧יא]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנ֛]][[H9023\|וֹ]] [[H8163B\|שְׂעִ֥יר]] [[H5795\|עִזִּ֖ים]] [[H2145\|זָכָ֥ר]] [[H8549G\|תָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 

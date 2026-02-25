@@ -1,8 +1,61 @@
+---
+title: Exodus 26:25
+type: Verse
+kjv: "And they shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board."
+bsb: "So there are to be eight frames and sixteen silver bases—two under each frame."
+hebrew: "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8083]]"
+- "[[H7175]]"
+- "[[H9002]]"
+- "[[H0134]]"
+- "[[H9028]]"
+- "[[H3701G]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H8147]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:25**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be eight boards, and their sockets [of] silver, sixteen sockets; two sockets under one board, and two sockets under another board.
 <small><sub>**BSB:**</sub></small>
 So there are to be eight frames and sixteen silver bases—two under each frame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H8083\|שְׁמֹנָ֣ה]] [[H7175\|קְרָשִׁ֔ים]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֣ם]] [[H3701G\|כֶּ֔סֶף]] [[H8337\|שִׁשָּׁ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H0134\|אֲדָנִ֑ים]] [[H8147\|שְׁנֵ֣י]] [[H0134\|אֲדָנִ֗ים]] [[H8478G\|תַּ֚חַת]] [[H9009\|הַ]][[H7175\|קֶּ֣רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָ֔ד]] [[H9002\|וּ]][[H8147\|שְׁנֵ֣י]] [[H0134\|אֲדָנִ֔ים]] [[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H7175\|קֶּ֥רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.24|<< Exodus 26:24]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.26|Exodus 26:26 >>]]</td></tr></table>
 

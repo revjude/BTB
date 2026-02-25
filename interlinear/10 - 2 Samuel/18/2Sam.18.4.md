@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 18:4
+type: Verse
+kjv: "And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands."
+bsb: "“I will do whatever seems best to you,” the king replied. So he stood beside the gate, while all the troops marched out by hundreds and by thousands."
+hebrew: "וַיֹּ֤אמֶר אֲלֵיהֶם֙ הַמֶּ֔לֶךְ אֲשֶׁר־ יִיטַ֥ב בְּעֵינֵיכֶ֖ם אֶעֱשֶׂ֑ה וַיַּעֲמֹ֤ד הַמֶּ֙לֶךְ֙ אֶל־ יַ֣ד הַשַּׁ֔עַר וְכָל־ הָעָם֙ יָֽצְא֔וּ לְמֵא֖וֹת וְלַאֲלָפִֽים׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3190]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H6213A]]"
+- "[[H5975G]]"
+- "[[H3027K]]"
+- "[[H8179G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971K]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:4**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.
 <small><sub>**BSB:**</sub></small>
 “I will do whatever seems best to you,” the king replied. So he stood beside the gate, while all the troops marched out by hundreds and by thousands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3190\|יִיטַ֥ב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶ֖ם]] [[H6213A\|אֶעֱשֶׂ֑ה]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֤ד]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3027K\|יַ֣ד]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H3318G\|יָֽצְא֔וּ]] [[H9005\|לְ]][[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H9005\|לַ]][[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.3|<< 2 Samuel 18:3]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.5|2 Samuel 18:5 >>]]</td></tr></table>
 

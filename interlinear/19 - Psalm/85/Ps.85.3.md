@@ -1,8 +1,58 @@
+---
+title: Psalm 85:3
+type: Verse
+kjv: "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger."
+bsb: "You withheld all Your fury; You turned from Your burning anger."
+hebrew: "אָסַ֥פְתָּ כָל־ עֶבְרָתֶ֑ךָ הֱ֝שִׁיב֗וֹתָ מֵחֲר֥וֹן אַפֶּֽךָ׃"
+pericope: "[[Ps.85.1 You Showed Favor to Your Land|You Showed Favor to Your Land]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 85
+book/chapter: "[[Ps.85|Psalm 85]]"
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5678]]"
+- "[[H9021]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 85:3**<big><big>[[Ps.85.1 You Showed Favor to Your Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast taken away all thy wrath: thou hast turned [thyself] from the fierceness of thine anger.
 <small><sub>**BSB:**</sub></small>
 You withheld all Your fury; You turned from Your burning anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H0622\|אָסַ֥פְתָּ]] [[H3605\|כָל]][[H9014\|־]] [[H5678\|עֶבְרָתֶ֑]][[H9021\|ךָ]] [[H7725I\|הֱ֝שִׁיב֗וֹתָ]] [[H9006\|מֵ]][[H2740\|חֲר֥וֹן]] [[H0639G\|אַפֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.2|<< Psalms 85:2]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.4|Psalms 85:4 >>]]</td></tr></table>
 

@@ -1,10 +1,52 @@
+---
+title: Titus 2:15
+type: Verse
+kjv: "These things speak, and exhort, and rebuke with all authority. Let no man despise thee."
+bsb: "Speak these things as you encourage and rebuke with all authority. Let no one despise you."
+greek: "Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς. μηδείς σου περιφρονείτω.¶"
+pericope: "[[Titus.2.11 God’s Grace Brings Salvation|God’s Grace Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G1651]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G2003]]"
+- "[[G3367]]"
+- "[[G4771]]"
+- "[[G4065]]"
+texts:
+- NKO
+---
+
 **Titus 2:15**<big><big>[[Titus.2.11 God’s Grace Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things speak, and exhort, and rebuke with all authority. Let no man despise thee.
 <small><sub>**BSB:**</sub></small>
 Speak these things as you encourage and rebuke with all authority. Let no one despise you.
-<small><sub>**Literal:**</sub></small>
-These things do speak and do exhort and do rebuke with all authority. No one you should despise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.14|<< Titus 2:14]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.1|Titus 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2980\|λάλει]]  [[G2532\|καὶ]]  [[G3870\|παρακάλει]]  [[G2532\|καὶ]]  [[G1651\|ἔλεγχε]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G2003\|ἐπιταγῆς.]]  [[G3367\|μηδείς]]  [[G4771\|σου]]  [[G4065\|περιφρονείτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.14|<< Titus 2:14]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.1|Titus 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

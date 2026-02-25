@@ -1,10 +1,67 @@
+---
+title: 2 Peter 3:16
+type: Verse
+kjv: "As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction."
+bsb: "He writes this way in all his letters, speaking in them about such matters. Some parts of his letters are hard to understand, which ignorant and unstable people distort, as they do the rest of the Scriptures, to their own destruction."
+greek: "ὡς καὶ ἐν πάσαις ταῖς ἐπιστολαῖς λαλῶν ἐν αὐταῖς περὶ τούτων· ἐν αἷς ἐστιν δυσνόητά τινα, ἃ οἱ ἀμαθεῖς καὶ ἀστήρικτοι στρεβλοῦσιν ὡς καὶ τὰς λοιπὰς γραφὰς πρὸς τὴν ἰδίαν αὐτῶν ἀπώλειαν.¶"
+pericope: "[[2Pet.3.14 Final Exhortations|Final Exhortations]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1992]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1425]]"
+- "[[G5100]]"
+- "[[G0261]]"
+- "[[G0793]]"
+- "[[G4761]]"
+- "[[G3062]]"
+- "[[G1124]]"
+- "[[G4314]]"
+- "[[G2398]]"
+- "[[G0684]]"
+texts:
+- NKO
+- ko
+- N(k)O
+- NK(o)
+---
+
 **2 Peter 3:16**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As also in all [his] epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as [they do] also the other scriptures, unto their own destruction.
 <small><sub>**BSB:**</sub></small>
 He writes this way in all his letters, speaking in them about such matters. Some parts of his letters are hard to understand, which ignorant and unstable people distort, as they do the rest of the Scriptures, to their own destruction.
-<small><sub>**Literal:**</sub></small>
-as also in all the letters speaking in them concerning these things; among which [letters] are difficult to be understood some things, which the ignorant and unestablished distort as also the other Scriptures to the own of them destruction.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.15|<< 2 Peter 3:15]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.17|2 Peter 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|πάσαις]]  [[G3588\|ταῖς]]  [[G1992\|ἐπιστολαῖς]]  [[G2980\|λαλῶν]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G4012\|περὶ]]  [[G3778\|τούτων·]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G1510\|ἐστιν]]  [[G1425\|δυσνόητά]]  [[G5100\|τινα,]]  [[G3739\|ἃ]]  [[G3588\|οἱ]]  [[G0261\|ἀμαθεῖς]]  [[G2532\|καὶ]]  [[G0793\|ἀστήρικτοι]]  [[G4761\|στρεβλοῦσιν]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G3062\|λοιπὰς]]  [[G1124\|γραφὰς]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G2398\|ἰδίαν]]  [[G0846\|αὐτῶν]]  [[G0684\|ἀπώλειαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.15|<< 2 Peter 3:15]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.17|2 Peter 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

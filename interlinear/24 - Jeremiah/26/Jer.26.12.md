@@ -1,8 +1,74 @@
+---
+title: Jeremiah 26:12
+type: Verse
+kjv: "Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard."
+bsb: "But Jeremiah said to all the officials and all the people, “The LORD sent me to prophesy against this house and against this city all the words that you have heard."
+hebrew: "וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ אֶל־ כָּל־ הַשָּׂרִ֔ים וְאֶל־ כָּל־ הָעָ֖ם לֵאמֹ֑ר יְהוָ֣ה שְׁלָחַ֗נִי לְהִנָּבֵ֞א אֶל־ הַבַּ֤יִת הַזֶּה֙ וְאֶל־ הָעִ֣יר הַזֹּ֔את אֵ֥ת כָּל־ הַדְּבָרִ֖ים אֲשֶׁ֥ר שְׁמַעְתֶּֽם׃"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H5012]]"
+- "[[H1004Q]]"
+- "[[H2088]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:12**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.
 <small><sub>**BSB:**</sub></small>
 But Jeremiah said to all the officials and all the people, “The LORD sent me to prophesy against this house and against this city all the words that you have heard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֔ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3068G\|יְהוָ֣ה]] [[H7971G\|שְׁלָחַ֗]][[H9030\|נִי]] [[H9005\|לְ]][[H5012\|הִנָּבֵ֞א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004Q\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שְׁמַעְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHETS|PROPHETS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.11|<< Jeremiah 26:11]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.13|Jeremiah 26:13 >>]]</td></tr></table>
 

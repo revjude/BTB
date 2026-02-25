@@ -1,10 +1,57 @@
+---
+title: John 17:9
+type: Verse
+kjv: "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine."
+bsb: "I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours."
+jesus_said: "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine."
+greek: "Ἐγὼ περὶ αὐτῶν ἐρωτῶ· οὐ περὶ τοῦ κόσμου ἐρωτῶ ἀλλὰ περὶ ὧν δέδωκάς μοι, ὅτι σοί εἰσιν·"
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G1473]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2065]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G4771]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 17:9**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
 <small><sub>**BSB:**</sub></small>
 I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours.
-<small><sub>**Literal:**</sub></small>
-I myself concerning them am praying; Not concerning the world do I pray but concerning those whom You have given Me, for Yours they are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.8|<< John 17:8]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.10|John 17:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγὼ]]  [[G4012\|περὶ]]  [[G0846\|αὐτῶν]]  [[G2065\|ἐρωτῶ·]]  [[G3756\|οὐ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G2065\|ἐρωτῶ]]  [[G0235\|ἀλλὰ]]  [[G4012\|περὶ]]  [[G3739\|ὧν]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι,]]  [[G3754H\|ὅτι]]  [[G4771\|σοί]]  [[G1510\|εἰσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.8|<< John 17:8]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.10|John 17:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

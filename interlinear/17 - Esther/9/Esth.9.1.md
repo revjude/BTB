@@ -1,8 +1,71 @@
+---
+title: Esther 9:1
+type: Verse
+kjv: "Now in the twelfth month, that is, the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)"
+bsb: "On the thirteenth day of the twelfth month, the month of Adar, the king’s command and edict were to be executed. On this day the enemies of the Jews had hoped to overpower them, but their plan was overturned and the Jews overpowered those who hated them."
+hebrew: "וּבִשְׁנֵים֩ עָשָׂ֨ר חֹ֜דֶשׁ הוּא־ חֹ֣דֶשׁ אֲדָ֗ר בִּשְׁלוֹשָׁ֨ה עָשָׂ֥ר יוֹם֙ בּ֔וֹ אֲשֶׁ֨ר הִגִּ֧יעַ דְּבַר־ הַמֶּ֛לֶךְ וְדָת֖וֹ לְהֵעָשׂ֑וֹת בַּיּ֗וֹם אֲשֶׁ֨ר שִׂבְּר֜וּ אֹיְבֵ֤י הַיְּהוּדִים֙ לִשְׁל֣וֹט בָּהֶ֔ם וְנַהֲפ֣וֹךְ ה֔וּא אֲשֶׁ֨ר יִשְׁלְט֧וּ הַיְּהוּדִ֛ים הֵ֖מָּה בְּשֹׂנְאֵיהֶֽם׃"
+pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic ADAR|ADAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H2320G]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H0143]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9033]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1881]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H7663B]]"
+- "[[H0341]]"
+- "[[H3064]]"
+- "[[H7980]]"
+- "[[H9038]]"
+- "[[H2015]]"
+- "[[H1992]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:1**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the twelfth month, that [is], the month Adar, on the thirteenth day of the same, when the king’s commandment and his decree drew near to be put in execution, in the day that the enemies of the Jews hoped to have power over them, (though it was turned to the contrary, that the Jews had rule over them that hated them;)
 <small><sub>**BSB:**</sub></small>
 On the thirteenth day of the twelfth month, the month of Adar, the king’s command and edict were to be executed. On this day the enemies of the Jews had hoped to overpower them, but their plan was overturned and the Jews overpowered those who hated them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8147\|שְׁנֵים֩]] [[H6240\|עָשָׂ֨ר]] [[H2320G\|חֹ֜דֶשׁ]] [[H1931\|הוּא]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H0143\|אֲדָ֗ר]] [[H9003\|בִּ]][[H7969\|שְׁלוֹשָׁ֨ה]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|יוֹם֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H5060\|הִגִּ֧יעַ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9002\|וְ]][[H1881\|דָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H6213A\|הֵעָשׂ֑וֹת]] [[H9003\|בַּ]][[H3117G\|יּ֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H7663B\|שִׂבְּר֜וּ]] [[H0341\|אֹיְבֵ֤י]] [[H9009\|הַ]][[H3064\|יְּהוּדִים֙]] [[H9005\|לִ]][[H7980\|שְׁל֣וֹט]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H2015\|נַהֲפ֣וֹךְ]] [[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁ֨ר]] [[H7980\|יִשְׁלְט֧וּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֛ים]] [[H1992\|הֵ֖מָּה]] [[H9003\|בְּ]][[H8130\|שֹׂנְאֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAR|ADAR]] • [[topic GOD|GOD]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.17|<< Esther 8:17]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.2|Esther 9:2 >>]]</td></tr></table>
 

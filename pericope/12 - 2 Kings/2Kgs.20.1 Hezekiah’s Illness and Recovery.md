@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Illness and Recovery
+type: Pericope
 pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 20
 book/chapter: "[[2Kgs.20|2 Kings 20]]"
-genre:
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[2Kgs.20.1]]"
 - "[[2Kgs.20.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Kgs.20.11]]"
 ---
 
-[[2Kgs.20|2 Kings 20:1 - 2 Kings 20:11]]
+<small>[[2Kgs.20|2 Kings 20:1-11]]</small>
 *Hezekiah’s Illness and Recovery*
 
 [[2Kgs.20.1|1]] In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.

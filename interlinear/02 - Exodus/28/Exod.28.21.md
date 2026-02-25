@@ -1,8 +1,68 @@
+---
+title: Exodus 28:21
+type: Verse
+kjv: "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes."
+bsb: "The twelve stones are to correspond to the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes."
+hebrew: "וְ֠הָאֲבָנִים תִּֽהְיֶ֜יןָ עַל־ שְׁמֹ֧ת בְּנֵֽי־ יִשְׂרָאֵ֛ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־ שְׁמֹתָ֑ם פִּתּוּחֵ֤י חוֹתָם֙ אִ֣ישׁ עַל־ שְׁמ֔וֹ תִּֽהְיֶ֕יןָ לִשְׁנֵ֥י עָשָׂ֖ר שָֽׁבֶט׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9028]]"
+- "[[H6603]]"
+- "[[H2368]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7626H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:21**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the stones shall be with the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet; every one with his name shall they be according to the twelve tribes.
 <small><sub>**BSB:**</sub></small>
 The twelve stones are to correspond to the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H9009\|הָ]][[H0068G\|אֲבָנִים]] [[H1961\|תִּֽהְיֶ֜יןָ]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמֹ֧ת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמֹתָ֑]][[H9028\|ם]] [[H6603\|פִּתּוּחֵ֤י]] [[H2368\|חוֹתָם֙]] [[H0376I\|אִ֣ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H1961\|תִּֽהְיֶ֕יןָ]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥י]] [[H6240\|עָשָׂ֖ר]] [[H7626H\|שָֽׁבֶט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic ENGRAVING|ENGRAVING]] • [[topic PRIEST|PRIEST]] • [[topic SEAL|SEAL]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.20|<< Exodus 28:20]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.22|Exodus 28:22 >>]]</td></tr></table>
 

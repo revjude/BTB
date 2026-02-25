@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Grace to Paul
+type: Pericope
 pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 1
 book/chapter: "[[1Tim.1|1 Timothy 1]]"
-genre:
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 9
 verses:
 - "[[1Tim.1.12]]"
 - "[[1Tim.1.13]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Tim.1.20]]"
 ---
 
-[[1Tim.1|1 Timothy 1:12 - 1 Timothy 1:20]]
+<small>[[1Tim.1|1 Timothy 1:12-20]]</small>
 *God’s Grace to Paul*
 
 [[1Tim.1.12|12]] And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;

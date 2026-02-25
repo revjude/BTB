@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord’s Prayer
+type: Pericope
 pericope: "[[Luke.11.1 The Lord’s Prayer|The Lord’s Prayer]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.11.1]]"
 - "[[Luke.11.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.11.4]]"
 ---
 
-[[Luke.11|Luke 11:1 - Luke 11:4]]
+<small>[[Luke.11|Luke 11:1-4]]</small>
 *The Lord’s Prayer*
 
 [[Luke.11.1|1]] And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.

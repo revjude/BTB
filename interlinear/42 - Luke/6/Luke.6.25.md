@@ -1,10 +1,58 @@
+---
+title: Luke 6:25
+type: Verse
+kjv: "Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep."
+bsb: "Woe to you who are well fed now, for you will hunger. Woe to you who laugh now, for you will mourn and weep."
+jesus_said: "Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep."
+greek: "Οὐαὶ ὑμῖν οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε.¶ Οὐαὶ ὑμῖν οἱ γελῶντες νῦν, ὅτι πενθήσετε καὶ κλαύσετε.¶"
+pericope: "[[Luke.6.24 Woes to the Satisfied|Woes to the Satisfied]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1705]]"
+- "[[G3568]]"
+- "[[G3754H]]"
+- "[[G3983]]"
+- "[[G1070]]"
+- "[[G3996]]"
+- "[[G2532]]"
+- "[[G2799]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Luke 6:25**<big><big>[[Luke.6.24 Woes to the Satisfied|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.
 <small><sub>**BSB:**</sub></small>
 Woe to you who are well fed now, for you will hunger. Woe to you who laugh now, for you will mourn and weep.
-<small><sub>**Literal:**</sub></small>
-Woe to you who [are] filled now, for you will hunger. Woe to to you who [are] laughing now, for you will mourn and will weep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.24|<< Luke 6:24]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.26|Luke 6:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν]]  [[G3588\|οἱ]]  [[G1705\|ἐμπεπλησμένοι]]  [[G3568\|νῦν,]]  [[G3754H\|ὅτι]]  [[G3983\|πεινάσετε.¶]]  [[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν]]  [[G3588\|οἱ]]  [[G1070\|γελῶντες]]  [[G3568\|νῦν,]]  [[G3754H\|ὅτι]]  [[G3996\|πενθήσετε]]  [[G2532\|καὶ]]  [[G2799\|κλαύσετε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.24|<< Luke 6:24]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.26|Luke 6:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

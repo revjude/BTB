@@ -1,8 +1,67 @@
+---
+title: 1 Kings 18:22
+type: Verse
+kjv: "Then said Elijah unto the people, I, even I only, remain a prophet of the LORD; but Baal’s prophets are four hundred and fifty men."
+bsb: "Then Elijah said to the people, “I am the only remaining prophet of the LORD, but Baal has four hundred and fifty prophets."
+hebrew: "וַיֹּ֤אמֶר אֵלִיָּ֙הוּ֙ אֶל־ הָעָ֔ם אֲנִ֞י נוֹתַ֧רְתִּי נָבִ֛יא לַיהוָ֖ה לְבַדִּ֑י וּנְבִיאֵ֣י הַבַּ֔עַל אַרְבַּע־ מֵא֥וֹת וַחֲמִשִּׁ֖ים אִֽישׁ׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0452G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0589]]"
+- "[[H3498]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0905H]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1168A]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:22**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Elijah unto the people, I, [even] I only, remain a prophet of the LORD; but Baal’s prophets [are] four hundred and fifty men.
 <small><sub>**BSB:**</sub></small>
 Then Elijah said to the people, “I am the only remaining prophet of the LORD, but Baal has four hundred and fifty prophets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0452G\|אֵלִיָּ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0589\|אֲנִ֞י]] [[H3498\|נוֹתַ֧רְתִּי]] [[H5030\|נָבִ֛יא]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9005\|לְ]][[H0905H\|בַדִּ֑]][[H9030\|י]] [[H9002\|וּ]][[H5030\|נְבִיאֵ֣י]] [[H9009\|הַ]][[H1168A\|בַּ֔עַל]] [[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֖ים]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic DECISION|DECISION]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.21|<< 1 Kings 18:21]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.23|1 Kings 18:23 >>]]</td></tr></table>
 

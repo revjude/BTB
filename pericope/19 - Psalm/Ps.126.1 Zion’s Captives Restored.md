@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zion’s Captives Restored
+type: Pericope
 pericope: "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 126
 book/chapter: "[[Ps.126|Psalm 126]]"
-genre:
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 7
 verses:
 - "[[Ps.126.0]]"
 - "[[Ps.126.1]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ps.126.6]]"
 ---
 
-[[Ps.126|Psalm 126:1 - Psalm 126:6]]
+<small>[[Ps.126|Psalm 126:1-6]]</small>
 *Zion’s Captives Restored*
 
 [[Ps.126.0|0]] A Song of degrees.

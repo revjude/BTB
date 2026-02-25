@@ -1,10 +1,63 @@
+---
+title: Mark 8:31
+type: Verse
+kjv: "And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again."
+bsb: "Then He began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and that He must be killed and after three days rise again."
+greek: "καὶ ἤρξατο διδάσκειν αὐτοὺς ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ὑπὸ τῶν πρεσβυτέρων καὶ τῶν ἀρχιερέων καὶ τῶν γραμματέων καὶ ἀποκτανθῆναι καὶ μετὰ τρεῖς ἡμέρας ἀναστῆναι·"
+pericope: "[[Mark.8.31 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G1321]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1163]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G0593]]"
+- "[[G5259G]]"
+- "[[G4245G]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G0615]]"
+- "[[G3326]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G0450]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 8:31**<big><big>[[Mark.8.31 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and [of] the chief priests, and scribes, and be killed, and after three days rise again.
 <small><sub>**BSB:**</sub></small>
 Then He began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and that He must be killed and after three days rise again.
-<small><sub>**Literal:**</sub></small>
-And He began to teach them that it is necessary for the Son <the> of Man many things to suffer and to be rejected by the elders and the chief priests and the scribes and to be killed and after three days to rise [again];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.30|<< Mark 8:30]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.32|Mark 8:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G1321\|διδάσκειν]]  [[G0846\|αὐτοὺς]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G4183\|πολλὰ]]  [[G3958\|παθεῖν]]  [[G2532\|καὶ]]  [[G0593\|ἀποδοκιμασθῆναι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G0615\|ἀποκτανθῆναι]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G5140\|τρεῖς]]  [[G2250\|ἡμέρας]]  [[G0450\|ἀναστῆναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.30|<< Mark 8:30]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.32|Mark 8:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

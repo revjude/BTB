@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esau’s Lost Hope
+type: Pericope
 pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 27
 book/chapter: "[[Gen.27|Genesis 27]]"
-genre:
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.27.30]]"
 - "[[Gen.27.31]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.27.46]]"
 ---
 
-[[Gen.27|Genesis 27:30 - Genesis 27:46]]
+<small>[[Gen.27|Genesis 27:30-46]]</small>
 *Esau’s Lost Hope*
 
 [[Gen.27.30|30]] And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.

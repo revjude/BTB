@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 21:9
+type: Verse
+kjv: "And the LORD spake unto Gad, David’s seer, saying,"
+bsb: "And the LORD instructed Gad, David’s seer,"
+hebrew: "וַיְדַבֵּ֤ר יְהוָה֙ אֶל־ גָּ֔ד חֹזֵ֥ה דָוִ֖יד לֵאמֹֽר׃"
+pericope: "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1410H]]"
+- "[[H2374]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:9**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Gad, David’s seer, saying,
 <small><sub>**BSB:**</sub></small>
 And the LORD instructed Gad, David’s seer,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1410H\|גָּ֔ד]] [[H2374\|חֹזֵ֥ה]] [[H1732\|דָוִ֖יד]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.8|<< 1 Chronicles 21:8]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.10|1 Chronicles 21:10 >>]]</td></tr></table>
 

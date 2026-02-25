@@ -1,10 +1,63 @@
+---
+title: Mark 14:65
+type: Verse
+kjv: "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands."
+bsb: "Then some of them began to spit on Him. They blindfolded Him, struck Him with their fists, and said to Him, “Prophesy!” And the officers received Him with slaps in His face."
+greek: "καὶ ἤρξαντό τινες ἐμπτύειν αὐτῷ καὶ περικαλύπτειν αὐτοῦ τὸ πρόσωπον καὶ κολαφίζειν αὐτὸν καὶ λέγειν αὐτῷ· προφήτευσον, καὶ οἱ ὑπηρέται ῥαπίσμασιν αὐτὸν ἔλαβον.¶"
+pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G5100]]"
+- "[[G1716]]"
+- "[[G0846]]"
+- "[[G4028]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G2852]]"
+- "[[G3004G]]"
+- "[[G4395]]"
+- "[[G5257]]"
+- "[[G4475]]"
+- "[[G2983]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 14:65**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.
 <small><sub>**BSB:**</sub></small>
 Then some of them began to spit on Him. They blindfolded Him, struck Him with their fists, and said to Him, “Prophesy!” And the officers received Him with slaps in His face.
-<small><sub>**Literal:**</sub></small>
-And began some to spit upon Him and to cover up of Him the face and to strike Him and to say to Him; do prophesy And the officers with the palms Him received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.64|<< Mark 14:64]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.66|Mark 14:66 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0757\|ἤρξαντό]]  [[G5100\|τινες]]  [[G1716\|ἐμπτύειν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G4028\|περικαλύπτειν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G2532\|καὶ]]  [[G2852\|κολαφίζειν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγειν]]  [[G0846\|αὐτῷ·]]  [[G4395\|προφήτευσον,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται]]  [[G4475\|ῥαπίσμασιν]]  [[G0846\|αὐτὸν]]  [[G2983\|ἔλαβον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.64|<< Mark 14:64]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.66|Mark 14:66 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 33:7
+type: Verse
+kjv: "And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:"
+bsb: "Manasseh even took the carved image he had made and set it up in the house of God, of which God had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever."
+hebrew: "וַיָּ֕שֶׂם אֶת־ פֶּ֥סֶל הַסֶּ֖מֶל אֲשֶׁ֣ר עָשָׂ֑ה בְּבֵ֣ית הָאֱלֹהִ֗ים אֲשֶׁ֨ר אָמַ֤ר אֱלֹהִים֙ אֶל־ דָּוִיד֙ וְאֶל־ שְׁלֹמֹ֣ה בְנ֔וֹ בַּבַּ֨יִת הַזֶּ֜ה וּבִֽירוּשָׁלִַ֗ם אֲשֶׁ֤ר בָּחַ֙רְתִּי֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל אָשִׂ֥ים אֶת־ שְׁמִ֖י לְעֵילֽוֹם׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6459]]"
+- "[[H9009]]"
+- "[[H5566]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H3389]]"
+- "[[H0977]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H7760H]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:7**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:
 <small><sub>**BSB:**</sub></small>
 Manasseh even took the carved image he had made and set it up in the house of God, of which God had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּ֕שֶׂם]] [[H0853\|אֶת]][[H9014\|־]] [[H6459\|פֶּ֥סֶל]] [[H9009\|הַ]][[H5566\|סֶּ֖מֶל]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשָׂ֑ה]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|אָמַ֤ר]] [[H0430G\|אֱלֹהִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִיד֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בְנ֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H1004B\|בַּ֨יִת]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H9002\|וּ]][[H9003\|בִֽ]][[H3389\|ירוּשָׁלִַ֗ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H0977\|בָּחַ֙רְתִּי֙]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7760H\|אָשִׂ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9005\|לְ]][[H5865\|עֵילֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.6|<< 2 Chronicles 33:6]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.8|2 Chronicles 33:8 >>]]</td></tr></table>
 

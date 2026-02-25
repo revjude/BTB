@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Betrayal of Jesus
+type: Pericope
 pericope: "[[Matt.26.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Matt.26.47]]"
 - "[[Matt.26.48]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Matt.26.56]]"
 ---
 
-[[Matt.26|Matthew 26:47 - Matthew 26:56]]
+<small>[[Matt.26|Matthew 26:47-56]]</small>
 *The Betrayal of Jesus*
 
 [[Matt.26.47|47]] And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.

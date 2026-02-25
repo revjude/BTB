@@ -1,8 +1,78 @@
+---
+title: Joshua 13:21
+type: Verse
+kjv: "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country."
+bsb: "all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land."
+hebrew: "וְכֹל֙ עָרֵ֣י הַמִּישֹׁ֔ר וְכָֽל־ מַמְלְכ֗וּת סִיחוֹן֙ מֶ֣לֶךְ הָאֱמֹרִ֔י אֲשֶׁ֥ר מָלַ֖ךְ בְּחֶשְׁבּ֑וֹן אֲשֶׁר֩ הִכָּ֨ה מֹשֶׁ֜ה אֹת֣וֹ׀ וְאֶת־ נְשִׂיאֵ֣י מִדְיָ֗ן אֶת־ אֱוִ֤י וְאֶת־ רֶ֙קֶם֙ וְאֶת־ צ֤וּר וְאֶת־ חוּר֙ וְאֶת־ רֶ֔בַע נְסִיכֵ֣י סִיח֔וֹן יֹשְׁבֵ֖י הָאָֽרֶץ׃"
+pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EVI|EVI]]"
+- "[[topic HUR|HUR]]"
+- "[[topic REBA|REBA]]"
+- "[[topic REKEM|REKEM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+- "[[topic ZUR|ZUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H4334]]"
+- "[[H9014]]"
+- "[[H4468]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H2809]]"
+- "[[H5221]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H5387A]]"
+- "[[H4080H]]"
+- "[[H0189]]"
+- "[[H7552G]]"
+- "[[H6698H]]"
+- "[[H2354H]]"
+- "[[H7254]]"
+- "[[H5257B]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:21**<big><big>[[Josh.13.15 Reuben’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, [which were] dukes of Sihon, dwelling in the country.
 <small><sub>**BSB:**</sub></small>
 all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֙]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H4334\|מִּישֹׁ֔ר]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4468\|מַמְלְכ֗וּת]] [[H5511\|סִיחוֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֑וֹן]] [[H0834A\|אֲשֶׁר֩]] [[H5221\|הִכָּ֨ה]] [[H4872\|מֹשֶׁ֜ה]] [[H0853\|אֹת֣]][[H9033\|וֹ]][[H9015\|׀]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5387A\|נְשִׂיאֵ֣י]] [[H4080H\|מִדְיָ֗ן]] [[H0853\|אֶת]][[H9014\|־]] [[H0189\|אֱוִ֤י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7552G\|רֶ֙קֶם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6698H\|צ֤וּר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2354H\|חוּר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7254\|רֶ֔בַע]] [[H5257B\|נְסִיכֵ֣י]] [[H5511\|סִיח֔וֹן]] [[H3427\|יֹשְׁבֵ֖י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic DUKE|DUKE]] • [[topic EVI|EVI]] • [[topic HUR|HUR]] • [[topic REBA|REBA]] • [[topic REKEM|REKEM]] • [[topic REUBENITES|REUBENITES]] • [[topic TOPOGRAPHY|TOPOGRAPHY]] • [[topic ZUR|ZUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.20|<< Joshua 13:20]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.22|Joshua 13:22 >>]]</td></tr></table>
 

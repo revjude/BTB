@@ -1,8 +1,61 @@
+---
+title: Isaiah 1:3
+type: Verse
+kjv: "The ox knoweth his owner, and the ass his master’s crib: but Israel doth not know, my people doth not consider."
+bsb: "The ox knows its owner, and the donkey its master’s manger, but Israel does not know; My people do not understand.”"
+hebrew: "יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CRIB|CRIB]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic INSTINCT|INSTINCT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3045]]"
+- "[[H7794]]"
+- "[[H7069]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2543]]"
+- "[[H0018]]"
+- "[[H1167G]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:3**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ox knoweth his owner, and the ass his master’s crib: [but] Israel doth not know, my people doth not consider.
 <small><sub>**BSB:**</sub></small>
 The ox knows its owner, and the donkey its master’s manger, but Israel does not know; My people do not understand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֥ע]] [[H7794\|שׁוֹר֙]] [[H7069\|קֹנֵ֔]][[H9033\|הוּ]] [[H9002\|וַ]][[H2543\|חֲמ֖וֹר]] [[H0018\|אֵב֣וּס]] [[H1167G\|בְּעָלָ֑י]][[H9023\|ו]] [[H3478\|יִשְׂרָאֵל֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔ע]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H0995\|הִתְבּוֹנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CRIB|CRIB]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic INSTINCT|INSTINCT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 

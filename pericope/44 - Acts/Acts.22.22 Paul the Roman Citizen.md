@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul the Roman Citizen
+type: Pericope
 pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 22
 book/chapter: "[[Acts.22|Acts 22]]"
-genre:
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.22.22]]"
 - "[[Acts.22.23]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.22.30]]"
 ---
 
-[[Acts.22|Acts 22:22 - Acts 22:30]]
+<small>[[Acts.22|Acts 22:22-30]]</small>
 *Paul the Roman Citizen*
 
 [[Acts.22.22|22]] And they gave him audience unto this word, and \[then\] lifted up their voices, and said, Away with such a \[fellow\] from the earth: for it is not fit that he should live.

@@ -1,8 +1,71 @@
+---
+title: Genesis 41:3
+type: Verse
+kjv: "And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river."
+bsb: "After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river."
+hebrew: "וְהִנֵּ֞ה שֶׁ֧בַע פָּר֣וֹת אֲחֵר֗וֹת עֹל֤וֹת אַחֲרֵיהֶן֙ מִן־ הַיְאֹ֔ר רָע֥וֹת מַרְאֶ֖ה וְדַקּ֣וֹת בָּשָׂ֑ר וַֽתַּעֲמֹ֛דְנָה אֵ֥צֶל הַפָּר֖וֹת עַל־ שְׂפַ֥ת הַיְאֹֽר׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINE (BOVINE)|KINE (BOVINE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7651]]"
+- "[[H6510]]"
+- "[[H0312]]"
+- "[[H5927G]]"
+- "[[H0310A]]"
+- "[[H9039]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H7451H]]"
+- "[[H4758]]"
+- "[[H1851]]"
+- "[[H1320]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0681]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:3**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the [other] kine upon the brink of the river.
 <small><sub>**BSB:**</sub></small>
 After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֞ה]] [[H7651\|שֶׁ֧בַע]] [[H6510\|פָּר֣וֹת]] [[H0312\|אֲחֵר֗וֹת]] [[H5927G\|עֹל֤וֹת]] [[H0310A\|אַחֲרֵי]][[H9039\|הֶן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹ֔ר]] [[H7451H\|רָע֥וֹת]] [[H4758\|מַרְאֶ֖ה]] [[H9002\|וְ]][[H1851\|דַקּ֣וֹת]] [[H1320\|בָּשָׂ֑ר]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֛דְנָה]] [[H0681\|אֵ֥צֶל]] [[H9009\|הַ]][[H6510\|פָּר֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַ֥ת]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic KINE (BOVINE)|KINE (BOVINE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.2|<< Genesis 41:2]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.4|Genesis 41:4 >>]]</td></tr></table>
 

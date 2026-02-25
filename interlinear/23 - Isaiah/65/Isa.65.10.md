@@ -1,8 +1,64 @@
+---
+title: Isaiah 65:10
+type: Verse
+kjv: "And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me."
+bsb: "Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for My people who seek Me."
+hebrew: "וְהָיָ֤ה הַשָּׁרוֹן֙ לִנְוֵה־ צֹ֔אן וְעֵ֥מֶק עָכ֖וֹר לְרֵ֣בֶץ בָּקָ֑ר לְעַמִּ֖י אֲשֶׁ֥ר דְּרָשֽׁוּנִי׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ACHOR|ACHOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic SHARON|SHARON]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H8289I]]"
+- "[[H9005]]"
+- "[[H5116A]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H6010G]]"
+- "[[H5911]]"
+- "[[H7258]]"
+- "[[H1241]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1875]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:10**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.
 <small><sub>**BSB:**</sub></small>
 Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for My people who seek Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9009\|הַ]][[H8289I\|שָּׁרוֹן֙]] [[H9005\|לִ]][[H5116A\|נְוֵה]][[H9014\|־]] [[H6629G\|צֹ֔אן]] [[H9002\|וְ]][[H6010G\|עֵ֥מֶק]] [[H5911\|עָכ֖וֹר]] [[H9005\|לְ]][[H7258\|רֵ֣בֶץ]] [[H1241\|בָּקָ֑ר]] [[H9005\|לְ]][[H5971A\|עַמִּ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H1875\|דְּרָשֽׁוּ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHOR|ACHOR]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic SHARON|SHARON]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.9|<< Isaiah 65:9]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.11|Isaiah 65:11 >>]]</td></tr></table>
 

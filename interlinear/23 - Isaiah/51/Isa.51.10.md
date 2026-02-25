@@ -1,8 +1,63 @@
+---
+title: Isaiah 51:10
+type: Verse
+kjv: "Art thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?"
+bsb: "Was it not You who dried up the sea, the waters of the great deep, who made a road in the depths of the sea for the redeemed to cross over?"
+hebrew: "הֲל֤וֹא אַתְּ־ הִיא֙ הַמַּחֲרֶ֣בֶת יָ֔ם מֵ֖י תְּה֣וֹם רַבָּ֑ה הַשָּׂ֙מָה֙ מַֽעֲמַקֵּי־ יָ֔ם דֶּ֖רֶךְ לַעֲבֹ֥ר גְּאוּלִֽים׃"
+pericope: "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RANSOM|RANSOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0859C]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H2717A]]"
+- "[[H3220G]]"
+- "[[H4325G]]"
+- "[[H8415]]"
+- "[[H7227A]]"
+- "[[H7760A]]"
+- "[[H4615]]"
+- "[[H1870K]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H1350A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 51:10**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Art] thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?
 <small><sub>**BSB:**</sub></small>
 Was it not You who dried up the sea, the waters of the great deep, who made a road in the depths of the sea for the redeemed to cross over?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H0859C\|אַתְּ]][[H9014\|־]] [[H1931\|הִיא֙]] [[H9009\|הַ]][[H2717A\|מַּחֲרֶ֣בֶת]] [[H3220G\|יָ֔ם]] [[H4325G\|מֵ֖י]] [[H8415\|תְּה֣וֹם]] [[H7227A\|רַבָּ֑ה]] [[H9009\|הַ]][[H7760A\|שָּׂ֙מָה֙]] [[H4615\|מַֽעֲמַקֵּי]][[H9014\|־]] [[H3220G\|יָ֔ם]] [[H1870K\|דֶּ֖רֶךְ]] [[H9005\|לַ]][[H5674A\|עֲבֹ֥ר]] [[H1350A\|גְּאוּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RANSOM|RANSOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 

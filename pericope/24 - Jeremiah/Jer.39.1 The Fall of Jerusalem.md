@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fall of Jerusalem
+type: Pericope
 pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 39
 book/chapter: "[[Jer.39|Jeremiah 39]]"
-genre:
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.39.1]]"
 - "[[Jer.39.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.39.10]]"
 ---
 
-[[Jer.39|Jeremiah 39:1 - Jeremiah 39:10]]
+<small>[[Jer.39|Jeremiah 39:1-10]]</small>
 *The Fall of Jerusalem*
 
 [[Jer.39.1|1]] In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.

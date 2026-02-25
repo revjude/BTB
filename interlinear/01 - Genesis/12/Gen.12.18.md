@@ -1,8 +1,72 @@
+---
+title: Genesis 12:18
+type: Verse
+kjv: "And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?"
+bsb: "So Pharaoh summoned Abram and asked, “What have you done to me? Why didn’t you tell me she was your wife?"
+hebrew: "וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה־ זֹּ֖את עָשִׂ֣יתָ לִּ֑י לָ֚מָּה לֹא־ הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H6547G]]"
+- "[[H9005]]"
+- "[[H0087]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H3588A]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:18**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh called Abram, and said, What [is] this [that] thou hast done unto me? why didst thou not tell me that she [was] thy wife?
 <small><sub>**BSB:**</sub></small>
 So Pharaoh summoned Abram and asked, “What have you done to me? Why didn’t you tell me she was your wife?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֤א]] [[H6547G\|פַרְעֹה֙]] [[H9005\|לְ]][[H0087\|אַבְרָ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֖את]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לִּ֑]][[H9030\|י]] [[H9005\|לָ֚]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H5046\|הִגַּ֣דְתָּ]] [[H9005\|לִּ֔]][[H9030\|י]] [[H3588A\|כִּ֥י]] [[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֖]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHIDING|CHIDING]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COWARDICE|COWARDICE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PHARAOH|PHARAOH]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.17|<< Genesis 12:17]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.19|Genesis 12:19 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Psalm 77:4
+type: Verse
+kjv: "Thou holdest mine eyes waking: I am so troubled that I cannot speak."
+bsb: "You have kept my eyes from closing; I am too troubled to speak."
+hebrew: "אָ֭חַזְתָּ שְׁמֻר֣וֹת עֵינָ֑י נִ֝פְעַ֗מְתִּי וְלֹ֣א אֲדַבֵּֽר׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0270]]"
+- "[[H8109]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H6470]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:4**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou holdest mine eyes waking: I am so troubled that I cannot speak.
 <small><sub>**BSB:**</sub></small>
 You have kept my eyes from closing; I am too troubled to speak.
+<small><sub>**Hebrew:**</sub></small>
+[[H0270\|אָ֭חַזְתָּ]] [[H8109\|שְׁמֻר֣וֹת]] [[H5869A\|עֵינָ֑]][[H9020\|י]] [[H6470\|נִ֝פְעַ֗מְתִּי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1696G\|אֲדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.3|<< Psalms 77:3]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.5|Psalms 77:5 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 1:15
+type: Verse
+kjv: "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
+bsb: "What is crooked cannot be straightened, and what is lacking cannot be counted."
+hebrew: "מְעֻוָּ֖ת לֹא־ יוּכַ֣ל לִתְקֹ֑ן וְחֶסְר֖וֹן לֹא־ יוּכַ֥ל לְהִמָּנֽוֹת׃"
+pericope: "[[Eccl.1.12 With Wisdom Comes Sorrow|With Wisdom Comes Sorrow]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic SCIENCE|SCIENCE]]"
+strongs:
+- "[[H5791]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H8626]]"
+- "[[H9002]]"
+- "[[H2642]]"
+- "[[H4487]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:15**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That which is] crooked cannot be made straight: and that which is wanting cannot be numbered.
 <small><sub>**BSB:**</sub></small>
 What is crooked cannot be straightened, and what is lacking cannot be counted.
+<small><sub>**Hebrew:**</sub></small>
+[[H5791\|מְעֻוָּ֖ת]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֣ל]] [[H9005\|לִ]][[H8626\|תְקֹ֑ן]] [[H9002\|וְ]][[H2642\|חֶסְר֖וֹן]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֥ל]] [[H9005\|לְ]][[H4487\|הִמָּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic SCIENCE|SCIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 

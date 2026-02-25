@@ -1,8 +1,64 @@
+---
+title: Psalm 31:11
+type: Verse
+kjv: "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me."
+bsb: "Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends—they flee when they see me on the street."
+hebrew: "מִכָּל־ צֹרְרַ֨י הָיִ֪יתִי חֶרְפָּ֡ה וְלִשֲׁכֵנַ֨י׀ מְאֹד֮ וּפַ֪חַד לִֽמְיֻדָּ֫עָ֥י רֹאַ֥י בַּח֑וּץ נָדְד֥וּ מִמֶּֽנִּי׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6887D]]"
+- "[[H9030]]"
+- "[[H1961]]"
+- "[[H2781]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H3966]]"
+- "[[H6343]]"
+- "[[H3045]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H5074]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:11**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.
 <small><sub>**BSB:**</sub></small>
 Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends—they flee when they see me on the street.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6887D\|צֹרְרַ֨]][[H9030\|י]] [[H1961\|הָיִ֪יתִי]] [[H2781\|חֶרְפָּ֡ה]] [[H9002\|וְ]][[H9005\|לִ]][[H7934\|שֲׁכֵנַ֨]][[H9020\|י]][[H9015\|׀]] [[H3966\|מְאֹד֮]] [[H9002\|וּ]][[H6343\|פַ֪חַד]] [[H9005\|לִֽ]][[H3045\|מְיֻדָּ֫עָ֥]][[H9020\|י]] [[H7200G\|רֹאַ֥]][[H9030\|י]] [[H9003\|בַּ]][[H2351\|ח֑וּץ]] [[H5074\|נָדְד֥וּ]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.10|<< Psalms 31:10]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.12|Psalms 31:12 >>]]</td></tr></table>
 

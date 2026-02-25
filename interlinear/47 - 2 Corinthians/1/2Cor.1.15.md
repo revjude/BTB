@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 1:15
+type: Verse
+kjv: "And in this confidence I was minded to come unto you before, that ye might have a second benefit;"
+bsb: "Confident of this, I planned to visit you first, so that you might receive a double blessing."
+greek: "Καὶ ταύτῃ τῇ πεποιθήσει ἐβουλόμην τὸ πρότερον πρὸς ὑμᾶς ἐλθεῖν, ἵνα δευτέραν χάριν σχῆτε"
+pericope: "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4006]]"
+- "[[G1014]]"
+- "[[G4387]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G2443]]"
+- "[[G1208]]"
+- "[[G5485]]"
+- "[[G2192]]"
+texts:
+- NKO
+- o
+- NK(O)
+- N(k)O
+---
+
 **2 Corinthians 1:15**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in this confidence I was minded to come unto you before, that ye might have a second benefit;
 <small><sub>**BSB:**</sub></small>
 Confident of this, I planned to visit you first, so that you might receive a double blessing.
-<small><sub>**Literal:**</sub></small>
-And with this <the> confidence I was planning <the> previously to you to come so that secondly grace you may have<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.14|<< 2 Corinthians 1:14]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.16|2 Corinthians 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G4006\|πεποιθήσει]]  [[G1014\|ἐβουλόμην]]  [[G3588\|τὸ]]  [[G4387\|πρότερον]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2064\|ἐλθεῖν,]]  [[G2443\|ἵνα]]  [[G1208\|δευτέραν]]  [[G5485\|χάριν]]  [[G2192\|σχῆτε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.14|<< 2 Corinthians 1:14]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.16|2 Corinthians 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

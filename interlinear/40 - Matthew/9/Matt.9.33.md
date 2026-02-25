@@ -1,10 +1,60 @@
+---
+title: Matthew 9:33
+type: Verse
+kjv: "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel."
+bsb: "And when the demon had been driven out, the man began to speak. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!”"
+greek: "καὶ ἐκβληθέντος τοῦ δαιμονίου ἐλάλησεν ὁ κωφός. καὶ ἐθαύμασαν οἱ ὄχλοι λέγοντες ὅτι· οὐδέποτε ἐφάνη οὕτως ἐν τῷ Ἰσραήλ."
+pericope: "[[Matt.9.27 Jesus Heals the Blind and Mute|Jesus Heals the Blind and Mute]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PEOPLE, COMMON|PEOPLE, COMMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G1544]]"
+- "[[G3588]]"
+- "[[G1140]]"
+- "[[G2980]]"
+- "[[G2974]]"
+- "[[G2296]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3763]]"
+- "[[G5316]]"
+- "[[G3779]]"
+- "[[G1722]]"
+- "[[G2474]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 9:33**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.
 <small><sub>**BSB:**</sub></small>
 And when the demon had been driven out, the man began to speak. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!”
-<small><sub>**Literal:**</sub></small>
-And when had been cast out the demon spoke the mute [man]. And marveled the crowds saying that: Never was it seen thus in <the> Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.32|<< Matthew 9:32]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.34|Matthew 9:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1544\|ἐκβληθέντος]]  [[G3588\|τοῦ]]  [[G1140\|δαιμονίου]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2974\|κωφός.]]  [[G2532\|καὶ]]  [[G2296\|ἐθαύμασαν]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι·]]  [[G3763\|οὐδέποτε]]  [[G5316\|ἐφάνη]]  [[G3779\|οὕτως]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραήλ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PEOPLE, COMMON|PEOPLE, COMMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.32|<< Matthew 9:32]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.34|Matthew 9:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

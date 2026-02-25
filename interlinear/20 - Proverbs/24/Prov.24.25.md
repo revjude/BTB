@@ -1,8 +1,52 @@
+---
+title: Proverbs 24:25
+type: Verse
+kjv: "But to them that rebuke him shall be delight, and a good blessing shall come upon them."
+bsb: "but it will go well with those who convict the guilty, and rich blessing will come upon them."
+hebrew: "וְלַמּוֹכִיחִ֥ים יִנְעָ֑ם וַֽ֝עֲלֵיהֶ֗ם תָּב֥וֹא בִרְכַּת־ טֽוֹב׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RULERS|RULERS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3198]]"
+- "[[H5276]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0935G]]"
+- "[[H1293]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:25**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But to them that rebuke [him] shall be delight, and a good blessing shall come upon them.
 <small><sub>**BSB:**</sub></small>
 but it will go well with those who convict the guilty, and rich blessing will come upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H3198\|מּוֹכִיחִ֥ים]] [[H5276\|יִנְעָ֑ם]] [[H9002\|וַֽ֝]][[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H0935G\|תָּב֥וֹא]] [[H1293\|בִרְכַּת]][[H9014\|־]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.24|<< Proverbs 24:24]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.26|Proverbs 24:26 >>]]</td></tr></table>
 

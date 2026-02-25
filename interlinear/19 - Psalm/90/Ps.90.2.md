@@ -1,8 +1,62 @@
+---
+title: Psalm 90:2
+type: Verse
+kjv: "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God."
+bsb: "Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God."
+hebrew: "בְּטֶ֤רֶם׀ הָ֘רִ֤ים יֻלָּ֗דוּ וַתְּח֣וֹלֵֽל אֶ֣רֶץ וְתֵבֵ֑ל וּֽמֵעוֹלָ֥ם עַד־ ע֝וֹלָ֗ם אַתָּ֥ה אֵֽל׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H9015]]"
+- "[[H2022G]]"
+- "[[H3205]]"
+- "[[H9001]]"
+- "[[H2342H]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8398]]"
+- "[[H9006]]"
+- "[[H5769G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0410G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:2**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou [art] God.
 <small><sub>**BSB:**</sub></small>
 Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2962\|טֶ֤רֶם]][[H9015\|׀]] [[H2022G\|הָ֘רִ֤ים]] [[H3205\|יֻלָּ֗דוּ]] [[H9001\|וַ]][[H2342H\|תְּח֣וֹלֵֽל]] [[H0776G\|אֶ֣רֶץ]] [[H9002\|וְ]][[H8398\|תֵבֵ֑ל]] [[H9002\|וּֽ]][[H9006\|מֵ]][[H5769G\|עוֹלָ֥ם]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|ע֝וֹלָ֗ם]] [[H0859A\|אַתָּ֥ה]] [[H0410G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic ETERNITY|ETERNITY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.1|<< Psalms 90:1]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.3|Psalms 90:3 >>]]</td></tr></table>
 

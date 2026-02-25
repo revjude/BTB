@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fourth Plague：Flies
+type: Pericope
 pericope: "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 8
 book/chapter: "[[Exod.8|Exodus 8]]"
-genre:
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 13
 verses:
 - "[[Exod.8.20]]"
 - "[[Exod.8.21]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Exod.8.32]]"
 ---
 
-[[Exod.8|Exodus 8:20 - Exodus 8:32]]
+<small>[[Exod.8|Exodus 8:20-32]]</small>
 *The Fourth Plague：Flies*
 
 [[Exod.8.20|20]] And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.

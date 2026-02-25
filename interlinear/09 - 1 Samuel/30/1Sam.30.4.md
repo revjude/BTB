@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 30:4
+type: Verse
+kjv: "Then David and the people that were with him lifted up their voice and wept, until they had no more power to weep."
+bsb: "So David and the troops with him lifted up their voices and wept until they had no strength left to weep."
+hebrew: "וַיִּשָּׂ֨א דָוִ֜ד וְהָעָ֧ם אֲשֶׁר־ אִתּ֛וֹ אֶת־ קוֹלָ֖ם וַיִּבְכּ֑וּ עַ֣ד אֲשֶׁ֧ר אֵין־ בָּהֶ֛ם כֹּ֖חַ לִבְכּֽוֹת׃"
+pericope: "[[1Sam.30.1 The Amalekites Raid Ziklag|The Amalekites Raid Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375N]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H1058]]"
+- "[[H5704]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:4**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David and the people that [were] with him lifted up their voice and wept, until they had no more power to weep.
 <small><sub>**BSB:**</sub></small>
 So David and the troops with him lifted up their voices and wept until they had no strength left to weep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375N\|יִּשָּׂ֨א]] [[H1732\|דָוִ֜ד]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֧ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|קוֹלָ֖]][[H9028\|ם]] [[H9001\|וַ]][[H1058\|יִּבְכּ֑וּ]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁ֧ר]] [[H0369\|אֵין]][[H9014\|־]] [[H9003\|בָּ]][[H9038\|הֶ֛ם]] [[H3581B\|כֹּ֖חַ]] [[H9005\|לִ]][[H1058\|בְכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.3|<< 1 Samuel 30:3]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.5|1 Samuel 30:5 >>]]</td></tr></table>
 

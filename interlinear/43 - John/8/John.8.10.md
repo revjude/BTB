@@ -1,10 +1,62 @@
+---
+title: John 8:10
+type: Verse
+kjv: "When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?"
+bsb: "Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?”"
+jesus_said: "Woman, where are those thine accusers? hath no man condemned thee?"
+greek: "ἀνακύψας δὲ ὁ Ἰησοῦς καὶ μηδένα θεασάμενος πλὴν τὴς γυναικός εἶπεν αὐτῇ· ἡ γυνή, ποῦ εἰσιν ἐκεῖνοι οἱ κατήγοροί σου οὐδείς σε κατέκρινεν;"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0352]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3367]]"
+- "[[G2300]]"
+- "[[G4133]]"
+- "[[G1135G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4226]]"
+- "[[G1510]]"
+- "[[G1565]]"
+- "[[G2725]]"
+- "[[G4771]]"
+- "[[G3762]]"
+- "[[G2632]]"
+texts:
+- KO
+- K
+- K(o)
+---
+
 **John 8:10**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?
 <small><sub>**BSB:**</sub></small>
 Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?”
-<small><sub>**Literal:**</sub></small>
-Having lifted up then <the> Jesus and no one having seen only <the> woman said to her, the woman, where are they they the accusers of you No [one] you has condemned?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.9|<< John 8:9]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.11|John 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0352\|ἀνακύψας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3367\|μηδένα]]  [[G2300\|θεασάμενος]]  [[G4133\|πλὴν]]  [[G3588\|τὴς]]  [[G1135G\|γυναικός]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G3588\|ἡ]]  [[G1135G\|γυνή,]]  [[G4226\|ποῦ]]  [[G1510\|εἰσιν]]  [[G1565\|ἐκεῖνοι]]  [[G3588\|οἱ]]  [[G2725\|κατήγοροί]]  [[G4771\|σου]]  [[G3762\|οὐδείς]]  [[G4771\|σε]]  [[G2632\|κατέκρινεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.9|<< John 8:9]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.11|John 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

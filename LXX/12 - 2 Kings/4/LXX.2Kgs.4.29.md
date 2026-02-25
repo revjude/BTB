@@ -1,6 +1,85 @@
+---
+title: LXX 2 Kings 4:29
+type: Verse
+lxx: "And Elisha said  to Gehazi, Tie up  your loin, and take  my staff in  your hand and go! And if you should find a man in the way, you shall not bless him; and if a man should bless you, you shall not answer him; and you shall place  my staff upon the face of the boy."
+greek: "και είπεν Ελισεαί τω Γιεζί ζώσαι την οσφύν σου και λάβε την βακτηρίαν μου εν τη χειρί σου και πορεύου και εάν εύρης άνδρα ουκ ευλογήσεις αυτόν και εάν ευλογήση σε ανήρ ουκ αποκριθήση αυτώ και επιθήσεις την βακτηρίαν μου επί πρόσωπον του παιδαρίου"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1666]]"
+- "[[G3588]]"
+- "[[H1522]]"
+- "[[G2224]]"
+- "[[G3588]]"
+- "[[G3751]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G6648]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2147]]"
+- "[[G0435]]"
+- "[[G3756]]"
+- "[[G2127]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2127]]"
+- "[[G1473]]"
+- "[[G0435]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G6648]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G3808]]"
+---
+
 **LXX 2 Kings 4:29** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said  to Gehazi, Tie up  your loin, and take  my staff in  your hand and go! And if you should find a man \[in the way\], you shall not bless him; and if a man should bless you, you shall not answer him; and you shall place  my staff upon \[the\] face of the boy. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1666\|Ελισεαί]] [[G3588\|τω]] [[H1522\|Γιεζί]] [[G2224\|ζώσαι]] [[G3588\|την]] [[G3751\|οσφύν]] [[G1473\|σου]] [[G2532\|και]] [[G2983\|λάβε]] [[G3588\|την]] [[G6648\|βακτηρίαν]] [[G1473\|μου]] [[G1722\|εν]] [[G3588\|τη]] [[G5495\|χειρί]] [[G1473\|σου]] [[G2532\|και]] [[G4198\|πορεύου]] [[G2532\|και]] [[G1437\|εάν]] [[G2147\|εύρης]] [[G0435\|άνδρα]] [[G3756\|ουκ]] [[G2127\|ευλογήσεις]] [[G1473\|αυτόν]] [[G2532\|και]] [[G1437\|εάν]] [[G2127\|ευλογήση]] [[G1473\|σε]] [[G0435\|ανήρ]] [[G3756\|ουκ]] [[G0611\|αποκριθήση]] [[G1473\|αυτώ]] [[G2532\|και]] [[G2007\|επιθήσεις]] [[G3588\|την]] [[G6648\|βακτηρίαν]] [[G1473\|μου]] [[G1909\|επί]] [[G4383\|πρόσωπον]] [[G3588\|του]] [[G3808\|παιδαρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic GEHAZI|GEHAZI]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -48,6 +127,6 @@ And Elisha said  to Gehazi, Tie up  your loin, and take  my staff in  your hand 
 | \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
 | of the | **<big>[[G3588\|του]]</big>** |
 | boy. | **<big>[[G3808\|παιδαρίου]]</big>** |
-[[2Kgs.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
 
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fool Says There Is No God
+type: Pericope
 pericope: "[[Ps.14.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 14
 book/chapter: "[[Ps.14|Psalm 14]]"
-genre:
+chronological_order: 348
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.14.0]]"
 - "[[Ps.14.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.14.7]]"
 ---
 
-[[Ps.14|Psalm 14:1 - Psalm 14:7]]
+<small>[[Ps.14|Psalm 14:1-7]]</small>
 *The Fool Says There Is No God*
 
 [[Ps.14.0|0]] To the chief Musician, \[A Psalm\] of David.

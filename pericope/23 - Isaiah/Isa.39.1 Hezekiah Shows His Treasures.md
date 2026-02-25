@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Shows His Treasures
+type: Pericope
 pericope: "[[Isa.39.1 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 39
 book/chapter: "[[Isa.39|Isaiah 39]]"
-genre:
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.39.1]]"
 - "[[Isa.39.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.39.8]]"
 ---
 
-[[Isa.39|Isaiah 39:1 - Isaiah 39:8]]
+<small>[[Isa.39|Isaiah 39:1-8]]</small>
 *Hezekiah Shows His Treasures*
 
 [[Isa.39.1|1]] At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.

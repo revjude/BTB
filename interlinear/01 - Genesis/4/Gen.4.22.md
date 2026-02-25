@@ -1,8 +1,73 @@
+---
+title: Genesis 4:22
+type: Verse
+kjv: "And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain was Naamah."
+bsb: "And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah."
+hebrew: "וְצִלָּ֣ה גַם־ הִ֗וא יָֽלְדָה֙ אֶת־ תּ֣וּבַל קַ֔יִן לֹטֵ֕שׁ כָּל־ חֹרֵ֥שׁ נְחֹ֖שֶׁת וּבַרְזֶ֑ל וַֽאֲח֥וֹת תּֽוּבַל־ קַ֖יִן נַֽעֲמָֽה׃"
+pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic BRAZIER|BRAZIER]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic INVENTION|INVENTION]]"
+- "[[topic IRON|IRON]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic NAAMAH|NAAMAH]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TUBAL-CAIN|TUBAL-CAIN]]"
+- "[[topic ZILLAH|ZILLAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6741]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H8423]]"
+- "[[H3913]]"
+- "[[H3605]]"
+- "[[H2790A]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H0269]]"
+- "[[H5279G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:22**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain [was] Naamah.
 <small><sub>**BSB:**</sub></small>
 And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6741\|צִלָּ֣ה]] [[H1571\|גַם]][[H9014\|־]] [[H1931\|הִ֗וא]] [[H3205\|יָֽלְדָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8423\|תּ֣וּבַל]] [[H8423\|קַ֔יִן]] [[H3913\|לֹטֵ֕שׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H2790A\|חֹרֵ֥שׁ]] [[H5178A\|נְחֹ֖שֶׁת]] [[H9002\|וּ]][[H1270\|בַרְזֶ֑ל]] [[H9002\|וַֽ]][[H0269\|אֲח֥וֹת]] [[H8423\|תּֽוּבַל]][[H9014\|־]] [[H8423\|קַ֖יִן]] [[H5279G\|נַֽעֲמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic BRAZIER|BRAZIER]] • [[topic GENEALOGY|GENEALOGY]] • [[topic INVENTION|INVENTION]] • [[topic IRON|IRON]] • [[topic LAMECH|LAMECH]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic NAAMAH|NAAMAH]] • [[topic SMITH|SMITH]] • [[topic TUBAL-CAIN|TUBAL-CAIN]] • [[topic ZILLAH|ZILLAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.21|<< Genesis 4:21]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.23|Genesis 4:23 >>]]</td></tr></table>
 

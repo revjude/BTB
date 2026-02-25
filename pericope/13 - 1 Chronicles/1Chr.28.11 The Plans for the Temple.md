@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plans for the Temple
+type: Pericope
 pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 28
 book/chapter: "[[1Chr.28|1 Chronicles 28]]"
-genre:
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 11
 verses:
 - "[[1Chr.28.11]]"
 - "[[1Chr.28.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Chr.28.21]]"
 ---
 
-[[1Chr.28|1 Chronicles 28:11 - 1 Chronicles 28:21]]
+<small>[[1Chr.28|1 Chronicles 28:11-21]]</small>
 *The Plans for the Temple*
 
 [[1Chr.28.11|11]] Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,

@@ -1,8 +1,56 @@
+---
+title: Psalm 117:1
+type: Verse
+kjv: "O praise the LORD, all ye nations: praise him, all ye people."
+bsb: "Praise the LORD, all you nations! Extol Him, all you peoples!"
+hebrew: "הַֽלְל֣וּ אֶת־ יְ֭הוָה כָּל־ גּוֹיִ֑ם שַׁ֝בְּח֗וּהוּ כָּל־ הָאֻמִּֽים׃"
+pericope: "[[Ps.117.1 Extol Him, All You Peoples|Extol Him, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 117
+book/chapter: "[[Ps.117|Psalm 117]]"
+chronological_order: 879
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HALLELUJAH|HALLELUJAH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H1984B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H7623B]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 117:1**<big><big>[[Ps.117.1 Extol Him, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O praise the LORD, all ye nations: praise him, all ye people.
 <small><sub>**BSB:**</sub></small>
 Praise the LORD, all you nations! Extol Him, all you peoples!
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַֽלְל֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H3605\|כָּל]][[H9014\|־]] [[H1471A\|גּוֹיִ֑ם]] [[H7623B\|שַׁ֝בְּח֗וּ]][[H9033\|הוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0523\|אֻמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HALLELUJAH|HALLELUJAH]] • [[topic PRAISE|PRAISE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.117.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.19|<< Psalms 116:19]]</td><td align="center" style="border:none;">[[Ps.117|Psalms 117]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.117.2|Psalms 117:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

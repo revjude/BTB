@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 9:6
+type: Verse
+kjv: "Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!"
+bsb: "And when Mephibosheth son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied."
+hebrew: "וַ֠יָּבֹא מְפִיבֹ֨שֶׁת בֶּן־ יְהוֹנָתָ֤ן בֶּן־ שָׁאוּל֙ אֶל־ דָּוִ֔ד וַיִּפֹּ֥ל עַל־ פָּנָ֖יו וַיִּשְׁתָּ֑חוּ וַיֹּ֤אמֶר דָּוִד֙ מְפִיבֹ֔שֶׁת וַיֹּ֖אמֶר הִנֵּ֥ה עַבְדֶּֽךָ׃"
+pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic KING|KING]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4648G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3083H]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H7812]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 9:6**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
 <small><sub>**BSB:**</sub></small>
 And when Mephibosheth son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0935G\|יָּבֹא]] [[H4648G\|מְפִיבֹ֨שֶׁת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3083H\|יְהוֹנָתָ֤ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁאוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H7812\|יִּשְׁתָּ֑חוּ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H4648G\|מְפִיבֹ֔שֶׁת]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H2009\|הִנֵּ֥ה]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic KINDNESS|KINDNESS]] • [[topic KING|KING]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.5|<< 2 Samuel 9:5]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.7|2 Samuel 9:7 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 6:40
+type: Verse
+kjv: "Now, my God, let, I beseech thee, thine eyes be open, and let thine ears be attent unto the prayer that is made in this place."
+bsb: "Now, my God, may Your eyes be open and Your ears attentive to the prayer offered in this place."
+hebrew: "עַתָּ֣ה אֱלֹהַ֗י יִֽהְיוּ־ נָ֤א עֵינֶ֙יךָ֙ פְּתֻח֔וֹת וְאָזְנֶ֖יךָ קַשֻּׁב֑וֹת לִתְפִלַּ֖ת הַמָּק֥וֹם הַזֶּֽה׃ ס"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H6258]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H6605A]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H7183B]]"
+- "[[H9005]]"
+- "[[H8605]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:40**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, my God, let, I beseech thee, thine eyes be open, and [let] thine ears [be] attent unto the prayer [that is made] in this place.
 <small><sub>**BSB:**</sub></small>
 Now, my God, may Your eyes be open and Your ears attentive to the prayer offered in this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֣ה]] [[H0430G\|אֱלֹהַ֗]][[H9020\|י]] [[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H4994\|נָ֤א]] [[H5869A\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H6605A\|פְּתֻח֔וֹת]] [[H9002\|וְ]][[H0241G\|אָזְנֶ֖י]][[H9021\|ךָ]] [[H7183B\|קַשֻּׁב֑וֹת]] [[H9005\|לִ]][[H8605\|תְפִלַּ֖ת]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.39|<< 2 Chronicles 6:39]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.41|2 Chronicles 6:41 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ Now, my God, may Your eyes be open and Your ears attentive to the prayer offered
 | attentive  |**<big>&#8207;[[H7183B\|קַשֻּׁב֑וֹת]]&#8207; </big>**| ka.shu.Vot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] prayer of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8605\|תְפִלַּ֖ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.fi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֥וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.39|<< 2 Chronicles 6:39]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.41|2 Chronicles 6:41 >>]]</td></tr></table>
 
 

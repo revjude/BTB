@@ -1,8 +1,70 @@
+---
+title: Jeremiah 37:17
+type: Verse
+kjv: "Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon."
+bsb: "Later, King Zedekiah sent for Jeremiah and received him in his palace, where he asked him privately, “Is there a word from the LORD?” “There is,” Jeremiah replied. “You will be delivered into the hand of the king of Babylon.”"
+hebrew: "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ וַיִּקָּחֵ֗הוּ וַיִּשְׁאָלֵ֨הוּ הַמֶּ֤לֶךְ בְּבֵיתוֹ֙ בַּסֵּ֔תֶר וַיֹּ֕אמֶר הֲיֵ֥שׁ דָּבָ֖ר מֵאֵ֣ת יְהוָ֑ה וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ יֵ֔שׁ וַיֹּ֕אמֶר בְּיַ֥ד מֶֽלֶךְ־ בָּבֶ֖ל תִּנָּתֵֽן׃ ס"
+pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H3947H]]"
+- "[[H9033]]"
+- "[[H7592]]"
+- "[[H9003]]"
+- "[[H1004P]]"
+- "[[H9023]]"
+- "[[H5643A]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H3414L]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 37:17**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there [any] word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon.
 <small><sub>**BSB:**</sub></small>
 Later, King Zedekiah sent for Jeremiah and received him in his palace, where he asked him privately, “Is there a word from the LORD?” “There is,” Jeremiah replied. “You will be delivered into the hand of the king of Babylon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H6667H\|צִדְקִיָּ֜הוּ]] [[H9001\|וַ]][[H3947H\|יִּקָּחֵ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H7592\|יִּשְׁאָלֵ֨]][[H9033\|הוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9003\|בְּ]][[H1004P\|בֵית]][[H9023\|וֹ֙]] [[H9003\|בַּ]][[H5643A\|סֵּ֔תֶר]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9008\|הֲ]][[H3426\|יֵ֥שׁ]] [[H1697G\|דָּבָ֖ר]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H3426\|יֵ֔שׁ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H5414G\|תִּנָּתֵֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.16|<< Jeremiah 37:16]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.18|Jeremiah 37:18 >>]]</td></tr></table>
 
@@ -28,7 +90,7 @@ Later, King Zedekiah sent for Jeremiah and received him in his palace, where he 
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַ֥ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֖ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be given  |**<big>&#8207;[[H5414G\|תִּנָּתֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ti.na.Ten<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be given  |**<big>&#8207;[[H5414G\|תִּנָּתֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ti.na.Ten<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.16|<< Jeremiah 37:16]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.18|Jeremiah 37:18 >>]]</td></tr></table>
 
 

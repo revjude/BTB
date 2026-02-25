@@ -1,8 +1,57 @@
+---
+title: Zechariah 8:2
+type: Verse
+kjv: "Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury."
+bsb: "This is what the LORD of Hosts says: “I am jealous for Zion with great zeal; I am jealous for her with great fervor.”"
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת קִנֵּ֥אתִי לְצִיּ֖וֹן קִנְאָ֣ה גְדוֹלָ֑ה וְחֵמָ֥ה גְדוֹלָ֖ה קִנֵּ֥אתִי לָֽהּ׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7065]]"
+- "[[H9005]]"
+- "[[H6726]]"
+- "[[H7068]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:2**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “I am jealous for Zion with great zeal; I am jealous for her with great fervor.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H7065\|קִנֵּ֥אתִי]] [[H9005\|לְ]][[H6726\|צִיּ֖וֹן]] [[H7068\|קִנְאָ֣ה]] [[H1419A\|גְדוֹלָ֑ה]] [[H9002\|וְ]][[H2534\|חֵמָ֥ה]] [[H1419A\|גְדוֹלָ֖ה]] [[H7065\|קִנֵּ֥אתִי]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.1|<< Zechariah 8:1]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.3|Zechariah 8:3 >>]]</td></tr></table>
 

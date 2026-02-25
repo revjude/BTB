@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 5:2
+type: Verse
+kjv: "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few."
+bsb: "Do not be quick to speak, and do not be hasty in your heart to utter a word before God. For God is in heaven and you are on earth. So let your words be few."
+hebrew: "אַל־ תְּבַהֵ֨ל עַל־ פִּ֜יךָ וְלִבְּךָ֧ אַל־ יְמַהֵ֛ר לְהוֹצִ֥יא דָבָ֖ר לִפְנֵ֣י הָאֱלֹהִ֑ים כִּ֣י הָאֱלֹהִ֤ים בַּשָּׁמַ֙יִם֙ וְאַתָּ֣ה עַל־ הָאָ֔רֶץ עַֽל־ כֵּ֛ן יִהְי֥וּ דְבָרֶ֖יךָ מְעַטִּֽים׃"
+pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0926]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H4116A]]"
+- "[[H9005]]"
+- "[[H3318O]]"
+- "[[H1697G]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H0859A]]"
+- "[[H0776G]]"
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H4592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:2**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thing before God: for God [is] in heaven, and thou upon earth: therefore let thy words be few.
 <small><sub>**BSB:**</sub></small>
 Do not be quick to speak, and do not be hasty in your heart to utter a word before God. For God is in heaven and you are on earth. So let your words be few.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0926\|תְּבַהֵ֨ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6310G\|פִּ֜י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3820A\|לִבְּ]][[H9021\|ךָ֧]] [[H0408\|אַל]][[H9014\|־]] [[H4116A\|יְמַהֵ֛ר]] [[H9005\|לְ]][[H3318O\|הוֹצִ֥יא]] [[H1697G\|דָבָ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H3588A\|כִּ֣י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֤ים]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H1961\|יִהְי֥וּ]] [[H1697G\|דְבָרֶ֖י]][[H9021\|ךָ]] [[H4592\|מְעַטִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]] • [[topic RASHNESS|RASHNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.1|<< Ecclesiastes 5:1]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.3|Ecclesiastes 5:3 >>]]</td></tr></table>
 

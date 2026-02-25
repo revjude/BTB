@@ -1,8 +1,68 @@
+---
+title: Isaiah 58:2
+type: Verse
+kjv: "Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God."
+bsb: "For day after day they seek Me and delight to know My ways, like a nation that does what is right and does not forsake the justice of their God. They ask Me for righteous judgments; they delight in the nearness of God.”"
+hebrew: "וְאוֹתִ֗י י֥וֹם יוֹם֙ יִדְרֹשׁ֔וּן וְדַ֥עַת דְּרָכַ֖י יֶחְפָּצ֑וּן כְּג֞וֹי אֲשֶׁר־ צְדָקָ֣ה עָשָׂ֗ה וּמִשְׁפַּ֤ט אֱלֹהָיו֙ לֹ֣א עָזָ֔ב יִשְׁאָל֙וּנִי֙ מִשְׁפְּטֵי־ צֶ֔דֶק קִרְבַ֥ת אֱלֹהִ֖ים יֶחְפָּצֽוּן׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3117J]]"
+- "[[H1875]]"
+- "[[H9013]]"
+- "[[H1847]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H2654A]]"
+- "[[H9004]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6666]]"
+- "[[H6213A]]"
+- "[[H4941G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H7592]]"
+- "[[H4941H]]"
+- "[[H6664G]]"
+- "[[H7132]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:2**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
 <small><sub>**BSB:**</sub></small>
 For day after day they seek Me and delight to know My ways, like a nation that does what is right and does not forsake the justice of their God. They ask Me for righteous judgments; they delight in the nearness of God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אוֹתִ֗]][[H9030\|י]] [[H3117J\|י֥וֹם]] [[H3117J\|יוֹם֙]] [[H1875\|יִדְרֹשׁ֔וּ]][[H9013\|ן]] [[H9002\|וְ]][[H1847\|דַ֥עַת]] [[H1870G\|דְּרָכַ֖]][[H9020\|י]] [[H2654A\|יֶחְפָּצ֑וּ]][[H9013\|ן]] [[H9004\|כְּ]][[H1471A\|ג֞וֹי]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6666\|צְדָקָ֣ה]] [[H6213A\|עָשָׂ֗ה]] [[H9002\|וּ]][[H4941G\|מִשְׁפַּ֤ט]] [[H0430G\|אֱלֹהָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H5800A\|עָזָ֔ב]] [[H7592\|יִשְׁאָל֙וּ]][[H9030\|נִי֙]] [[H4941H\|מִשְׁפְּטֵי]][[H9014\|־]] [[H6664G\|צֶ֔דֶק]] [[H7132\|קִרְבַ֥ת]] [[H0430G\|אֱלֹהִ֖ים]] [[H2654A\|יֶחְפָּצֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.1|<< Isaiah 58:1]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.3|Isaiah 58:3 >>]]</td></tr></table>
 

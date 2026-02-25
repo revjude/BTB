@@ -1,8 +1,53 @@
+---
+title: Job 36:31
+type: Verse
+kjv: "For by them judgeth he the people; he giveth meat in abundance."
+bsb: "For by these He judges the nations and provides food in abundance."
+hebrew: "כִּי־ בָ֭ם יָדִ֣ין עַמִּ֑ים יִֽתֶּן־ אֹ֥כֶל לְמַכְבִּֽיר׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1777]]"
+- "[[H5971A]]"
+- "[[H5414G]]"
+- "[[H0400]]"
+- "[[H9005]]"
+- "[[H4342]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:31**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For by them judgeth he the people; he giveth meat in abundance.
 <small><sub>**BSB:**</sub></small>
 For by these He judges the nations and provides food in abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H9003\|בָ֭]][[H9038\|ם]] [[H1777\|יָדִ֣ין]] [[H5971A\|עַמִּ֑ים]] [[H5414G\|יִֽתֶּן]][[H9014\|־]] [[H0400\|אֹ֥כֶל]] [[H9005\|לְ]][[H4342\|מַכְבִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.30|<< Job 36:30]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.32|Job 36:32 >>]]</td></tr></table>
 

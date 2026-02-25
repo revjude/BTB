@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nehemiah’s Generosity
+type: Pericope
 pericope: "[[Neh.5.14 Nehemiah’s Generosity|Nehemiah’s Generosity]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 5
 book/chapter: "[[Neh.5|Nehemiah 5]]"
-genre:
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 6
 verses:
 - "[[Neh.5.14]]"
 - "[[Neh.5.15]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Neh.5.19]]"
 ---
 
-[[Neh.5|Nehemiah 5:14 - Nehemiah 5:19]]
+<small>[[Neh.5|Nehemiah 5:14-19]]</small>
 *Nehemiah’s Generosity*
 
 [[Neh.5.14|14]] Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, \[that is\], twelve years, I and my brethren have not eaten the bread of the governor.

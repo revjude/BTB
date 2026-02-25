@@ -1,10 +1,59 @@
+---
+title: Luke 1:11
+type: Verse
+kjv: "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense."
+bsb: "Just then an angel of the Lord appeared to Zechariah, standing at the right side of the altar of incense."
+greek: "Ὤφθη δὲ αὐτῷ ἄγγελος κυρίου ἑστὼς ἐκ δεξιῶν τοῦ θυσιαστηρίου τοῦ θυμιάματος·"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3700]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G2476]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2368]]"
+texts:
+- NKO
+---
+
 **Luke 1:11**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.
 <small><sub>**BSB:**</sub></small>
 Just then an angel of the Lord appeared to Zechariah, standing at the right side of the altar of incense.
-<small><sub>**Literal:**</sub></small>
-Appeared then to him an angel of [the] Lord already standing at [the] right of the altar of the incense;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.10|<< Luke 1:10]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.12|Luke 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3700\|Ὤφθη]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G2476\|ἑστὼς]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3588\|τοῦ]]  [[G2379\|θυσιαστηρίου]]  [[G3588\|τοῦ]]  [[G2368\|θυμιάματος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GABRIEL|GABRIEL]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic TEMPLE|TEMPLE]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.10|<< Luke 1:10]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.12|Luke 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

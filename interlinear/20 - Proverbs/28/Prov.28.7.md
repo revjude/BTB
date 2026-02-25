@@ -1,8 +1,55 @@
+---
+title: Proverbs 28:7
+type: Verse
+kjv: "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father."
+bsb: "A discerning son keeps the law, but a companion of gluttons disgraces his father."
+hebrew: "נוֹצֵ֣ר תּ֭וֹרָה בֵּ֣ן מֵבִ֑ין וְרֹעֶה זֽ֝וֹלְלִ֗ים יַכְלִ֥ים אָבִֽיו׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5341]]"
+- "[[H8451]]"
+- "[[H1121A]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H7462C]]"
+- "[[H2151B]]"
+- "[[H3637]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:7**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso keepeth the law [is] a wise son: but he that is a companion of riotous [men] shameth his father.
 <small><sub>**BSB:**</sub></small>
 A discerning son keeps the law, but a companion of gluttons disgraces his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H5341\|נוֹצֵ֣ר]] [[H8451\|תּ֭וֹרָה]] [[H1121A\|בֵּ֣ן]] [[H0995\|מֵבִ֑ין]] [[H9002\|וְ]][[H7462C\|רֹעֶה]] [[H2151B\|זֽ֝וֹלְלִ֗ים]] [[H3637\|יַכְלִ֥ים]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMPANY|COMPANY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 

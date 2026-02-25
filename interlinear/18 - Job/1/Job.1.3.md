@@ -1,8 +1,71 @@
+---
+title: Job 1:3
+type: Verse
+kjv: "His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east."
+bsb: "and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East."
+hebrew: "וַיְהִ֣י מִ֠קְנֵהוּ שִֽׁבְעַ֨ת אַלְפֵי־ צֹ֜אן וּשְׁלֹ֧שֶׁת אַלְפֵ֣י גְמַלִּ֗ים וַחֲמֵ֨שׁ מֵא֤וֹת צֶֽמֶד־ בָּקָר֙ וַחֲמֵ֣שׁ מֵא֣וֹת אֲתוֹנ֔וֹת וַעֲבֻדָּ֖ה רַבָּ֣ה מְאֹ֑ד וַיְהִי֙ הָאִ֣ישׁ הַה֔וּא גָּד֖וֹל מִכָּל־ בְּנֵי־ קֶֽדֶם׃"
+pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic JOB|JOB]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4735]]"
+- "[[H9023]]"
+- "[[H7651]]"
+- "[[H0505G]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H1581]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H6776]]"
+- "[[H1241]]"
+- "[[H0860]]"
+- "[[H5657]]"
+- "[[H7227A]]"
+- "[[H3966]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1931]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H6924G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:3**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.
 <small><sub>**BSB:**</sub></small>
 and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H4735\|מִ֠קְנֵ]][[H9023\|הוּ]] [[H7651\|שִֽׁבְעַ֨ת]] [[H0505G\|אַלְפֵי]][[H9014\|־]] [[H6629G\|צֹ֜אן]] [[H9002\|וּ]][[H7969\|שְׁלֹ֧שֶׁת]] [[H0505G\|אַלְפֵ֣י]] [[H1581\|גְמַלִּ֗ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֨שׁ]] [[H3967\|מֵא֤וֹת]] [[H6776\|צֶֽמֶד]][[H9014\|־]] [[H1241\|בָּקָר֙]] [[H9002\|וַ]][[H2568\|חֲמֵ֣שׁ]] [[H3967\|מֵא֣וֹת]] [[H0860\|אֲתוֹנ֔וֹת]] [[H9002\|וַ]][[H5657\|עֲבֻדָּ֖ה]] [[H7227A\|רַבָּ֣ה]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H1419A\|גָּד֖וֹל]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H6924G\|קֶֽדֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic JOB|JOB]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.2|<< Job 1:2]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.4|Job 1:4 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Genesis 31:30
+type: Verse
+kjv: "And now, though thou wouldest needs be gone, because thou sore longedst after thy father’s house, yet wherefore hast thou stolen my gods?"
+bsb: "Now you have gone off because you long for your father’s house. But why have you stolen my gods?”"
+hebrew: "וְעַתָּה֙ הָלֹ֣ךְ הָלַ֔כְתָּ כִּֽי־ נִכְסֹ֥ף נִכְסַ֖פְתָּה לְבֵ֣ית אָבִ֑יךָ לָ֥מָּה גָנַ֖בְתָּ אֶת־ אֱלֹהָֽי׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3700]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H4100]]"
+- "[[H1589]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:30**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, [though] thou wouldest needs be gone, because thou sore longedst after thy father’s house, [yet] wherefore hast thou stolen my gods?
 <small><sub>**BSB:**</sub></small>
 Now you have gone off because you long for your father’s house. But why have you stolen my gods?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H1980G\|הָלֹ֣ךְ]] [[H1980G\|הָלַ֔כְתָּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3700\|נִכְסֹ֥ף]] [[H3700\|נִכְסַ֖פְתָּה]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H1589\|גָנַ֖בְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic LABAN|LABAN]] • [[topic TERAPHIM|TERAPHIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.29|<< Genesis 31:29]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.31|Genesis 31:31 >>]]</td></tr></table>
 

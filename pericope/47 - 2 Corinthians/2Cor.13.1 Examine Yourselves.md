@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Examine Yourselves
+type: Pericope
 pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 13
 book/chapter: "[[2Cor.13|2 Corinthians 13]]"
-genre:
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 10
 verses:
 - "[[2Cor.13.1]]"
 - "[[2Cor.13.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Cor.13.10]]"
 ---
 
-[[2Cor.13|2 Corinthians 13:1 - 2 Corinthians 13:10]]
+<small>[[2Cor.13|2 Corinthians 13:1-10]]</small>
 *Examine Yourselves*
 
 [[2Cor.13.1|1]] This \[is\] the third \[time\] I am coming to you. In the mouth of two or three witnesses shall every word be established.

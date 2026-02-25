@@ -1,8 +1,60 @@
+---
+title: Genesis 41:47
+type: Verse
+kjv: "And in the seven plenteous years the earth brought forth by handfuls."
+bsb: "During the seven years of abundance, the land brought forth bountifully."
+hebrew: "וַתַּ֣עַשׂ הָאָ֔רֶץ בְּשֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע לִקְמָצִֽים׃"
+pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CORN|CORN]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H9003]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7647]]"
+- "[[H9005]]"
+- "[[H7062]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:47**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the seven plenteous years the earth brought forth by handfuls.
 <small><sub>**BSB:**</sub></small>
 During the seven years of abundance, the land brought forth bountifully.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|תַּ֣עַשׂ]] [[H9009\|הָ]][[H0776H\|אָ֔רֶץ]] [[H9003\|בְּ]][[H7651\|שֶׁ֖בַע]] [[H8141\|שְׁנֵ֣י]] [[H9009\|הַ]][[H7647\|שָּׂבָ֑ע]] [[H9005\|לִ]][[H7062\|קְמָצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORN|CORN]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.46|<< Genesis 41:46]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.48|Genesis 41:48 >>]]</td></tr></table>
 

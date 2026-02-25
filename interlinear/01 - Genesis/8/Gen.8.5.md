@@ -1,8 +1,55 @@
+---
+title: Genesis 8:5
+type: Verse
+kjv: "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
+bsb: "And the waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible."
+hebrew: "וְהַמַּ֗יִם הָיוּ֙ הָל֣וֹךְ וְחָס֔וֹר עַ֖ד הַחֹ֣דֶשׁ הָֽעֲשִׂירִ֑י בָּֽעֲשִׂירִי֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ נִרְא֖וּ רָאשֵׁ֥י הֶֽהָרִֽים׃"
+pericope: "[[Gen.8.1 The Ark Rests on Ararat|The Ark Rests on Ararat]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H1961]]"
+- "[[H1980G]]"
+- "[[H2637]]"
+- "[[H5704]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H7218I]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:5**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters decreased continually until the tenth month: in the tenth [month], on the first [day] of the month, were the tops of the mountains seen.
 <small><sub>**BSB:**</sub></small>
 And the waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4325G\|מַּ֗יִם]] [[H1961\|הָיוּ֙]] [[H1980G\|הָל֣וֹךְ]] [[H9002\|וְ]][[H2637\|חָס֔וֹר]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָֽ]][[H6224\|עֲשִׂירִ֑י]] [[H9003\|בָּֽ]][[H6224\|עֲשִׂירִי֙]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H7200G\|נִרְא֖וּ]] [[H7218I\|רָאשֵׁ֥י]] [[H9009\|הֶֽ]][[H2022G\|הָרִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.4|<< Genesis 8:4]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.6|Genesis 8:6 >>]]</td></tr></table>
 

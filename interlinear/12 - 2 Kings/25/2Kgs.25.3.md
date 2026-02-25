@@ -1,8 +1,64 @@
+---
+title: 2 Kings 25:3
+type: Verse
+kjv: "And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land."
+bsb: "By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food."
+hebrew: "בַּחֹדֶשׁ הָרְבִיעִי בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא־ הָ֥יָה לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ׃"
+pericope: "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H8672]]"
+- "[[H9005]]"
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H7458]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H3899G]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- X
+- L
+---
+
 **2 Kings 25:3**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the ninth [day] of the [fourth] month the famine prevailed in the city, and there was no bread for the people of the land.
 <small><sub>**BSB:**</sub></small>
 By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2320G\|חֹדֶשׁ]] [[H9009\|הָ]][[H7243\|רְבִיעִי]] [[H9003\|בְּ]][[H8672\|תִשְׁעָ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H9001\|וַ]][[H2388G\|יֶּחֱזַ֥ק]] [[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H9003\|בָּ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יָה]] [[H3899G\|לֶ֖חֶם]] [[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic SIEGE|SIEGE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.2|<< 2 Kings 25:2]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.4|2 Kings 25:4 >>]]</td></tr></table>
 

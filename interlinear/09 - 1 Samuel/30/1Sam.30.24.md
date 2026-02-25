@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 30:24
+type: Verse
+kjv: "For who will hearken unto you in this matter? but as his part is that goeth down to the battle, so shall his part be that tarrieth by the stuff: they shall part alike."
+bsb: "Who will listen to your proposal? The share of the one who went to battle will match the share of the one who stayed with the supplies. They will share alike.”"
+hebrew: "וּמִי֙ יִשְׁמַ֣ע לָכֶ֔ם לַדָּבָ֖ר הַזֶּ֑ה כִּ֞י כְּחֵ֣לֶק׀ הַיֹּרֵ֣ד בַּמִּלְחָמָ֗ה וּֽכְחֵ֛לֶק הַיֹּשֵׁ֥ב עַל־ הַכֵּלִ֖ים יַחְדָּ֥ו יַחֲלֹֽקוּ׃ ס"
+pericope: "[[1Sam.30.21 The Spoils Are Divided|The Spoils Are Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H2506A]]"
+- "[[H9015]]"
+- "[[H3381]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H3162B]]"
+- "[[H2505A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 30:24**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who will hearken unto you in this matter? but as his part [is] that goeth down to the battle, so [shall] his part [be] that tarrieth by the stuff: they shall part alike.
 <small><sub>**BSB:**</sub></small>
 Who will listen to your proposal? The share of the one who went to battle will match the share of the one who stayed with the supplies. They will share alike.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִי֙]] [[H8085G\|יִשְׁמַ֣ע]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9005\|לַ]][[H1697I\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֞י]] [[H9004\|כְּ]][[H2506A\|חֵ֣לֶק]][[H9015\|׀]] [[H9009\|הַ]][[H3381\|יֹּרֵ֣ד]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וּֽ]][[H9004\|כְ]][[H2506A\|חֵ֛לֶק]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֖ים]] [[H3162B\|יַחְדָּ֥ו]] [[H2505A\|יַחֲלֹֽקוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.23|<< 1 Samuel 30:23]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.25|1 Samuel 30:25 >>]]</td></tr></table>
 
@@ -22,7 +77,7 @@ Who will listen to your proposal? The share of the one who went to battle will m
 | with  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the baggage\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3627\|כֵּלִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | alike  |**<big>&#8207;[[H3162B\|יַחְדָּ֥ו]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will share  |**<big>&#8207;[[H2505A\|יַחֲלֹֽקוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.cha.Lo.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will share  |**<big>&#8207;[[H2505A\|יַחֲלֹֽקוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.cha.Lo.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.23|<< 1 Samuel 30:23]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.25|1 Samuel 30:25 >>]]</td></tr></table>
 
 

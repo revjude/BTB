@@ -1,8 +1,51 @@
+---
+title: 2 Samuel 22:45
+type: Verse
+kjv: "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me."
+bsb: "Foreigners cower before me; when they hear me, they obey me."
+hebrew: "בְּנֵ֥י נֵכָ֖ר יִתְכַּֽחֲשׁוּ־ לִ֑י לִשְׁמ֥וֹעַ אֹ֖זֶן יִשָּׁ֥מְעוּ לִֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+strongs:
+- "[[H1121I]]"
+- "[[H5236]]"
+- "[[H3584]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H8085G]]"
+- "[[H0241H]]"
+- "[[H8085H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:45**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.
 <small><sub>**BSB:**</sub></small>
 Foreigners cower before me; when they hear me, they obey me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121I\|בְּנֵ֥י]] [[H5236\|נֵכָ֖ר]] [[H3584\|יִתְכַּֽחֲשׁוּ]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H9005\|לִ]][[H8085G\|שְׁמ֥וֹעַ]] [[H0241H\|אֹ֖זֶן]] [[H8085H\|יִשָּׁ֥מְעוּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.44|<< 2 Samuel 22:44]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.46|2 Samuel 22:46 >>]]</td></tr></table>
 

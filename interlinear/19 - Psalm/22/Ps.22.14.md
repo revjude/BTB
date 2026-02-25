@@ -1,8 +1,64 @@
+---
+title: Psalm 22:14
+type: Verse
+kjv: "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels."
+bsb: "I am poured out like water, and all my bones are disjointed. My heart is like wax; it melts away within me."
+hebrew: "כַּמַּ֥יִם נִשְׁפַּכְתִּי֮ וְהִתְפָּֽרְד֗וּ כָּֽל־ עַצְמ֫וֹתָ֥י הָיָ֣ה לִ֭בִּי כַּדּוֹנָ֑ג נָ֝מֵ֗ס בְּת֣וֹךְ מֵעָֽי׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WAX|WAX]]"
+strongs:
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H8210G]]"
+- "[[H9002]]"
+- "[[H6504]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H1749]]"
+- "[[H4549]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:14**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
 <small><sub>**BSB:**</sub></small>
 I am poured out like water, and all my bones are disjointed. My heart is like wax; it melts away within me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H4325G\|מַּ֥יִם]] [[H8210G\|נִשְׁפַּכְתִּי֮]] [[H9002\|וְ]][[H6504\|הִתְפָּֽרְד֗וּ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H6106G\|עַצְמ֫וֹתָ֥]][[H9020\|י]] [[H1961\|הָיָ֣ה]] [[H3820A\|לִ֭בִּ]][[H9020\|י]] [[H9004\|כַּ]][[H1749\|דּוֹנָ֑ג]] [[H4549\|נָ֝מֵ֗ס]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H4578\|מֵעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOWELS|BOWELS]] • [[topic HEART|HEART]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WAX|WAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.13|<< Psalms 22:13]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.15|Psalms 22:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

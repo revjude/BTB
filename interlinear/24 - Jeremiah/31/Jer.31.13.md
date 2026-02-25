@@ -1,8 +1,67 @@
+---
+title: Jeremiah 31:13
+type: Verse
+kjv: "Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow."
+bsb: "Then the maidens will rejoice with dancing, young men and old as well. I will turn their mourning into joy, and give them comfort and joy for their sorrow."
+hebrew: "אָ֣ז תִּשְׂמַ֤ח בְּתוּלָה֙ בְּמָח֔וֹל וּבַחֻרִ֥ים וּזְקֵנִ֖ים יַחְדָּ֑ו וְהָפַכְתִּ֨י אֶבְלָ֤ם לְשָׂשׂוֹן֙ וְנִ֣חַמְתִּ֔ים וְשִׂמַּחְתִּ֖ים מִיגוֹנָֽם׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0227A]]"
+- "[[H8055]]"
+- "[[H1330]]"
+- "[[H9003]]"
+- "[[H4234]]"
+- "[[H9002]]"
+- "[[H0970]]"
+- "[[H2205H]]"
+- "[[H3162B]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H0060]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8342]]"
+- "[[H5162G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:13**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.
 <small><sub>**BSB:**</sub></small>
 Then the maidens will rejoice with dancing, young men and old as well. I will turn their mourning into joy, and give them comfort and joy for their sorrow.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H8055\|תִּשְׂמַ֤ח]] [[H1330\|בְּתוּלָה֙]] [[H9003\|בְּ]][[H4234\|מָח֔וֹל]] [[H9002\|וּ]][[H0970\|בַחֻרִ֥ים]] [[H9002\|וּ]][[H2205H\|זְקֵנִ֖ים]] [[H3162B\|יַחְדָּ֑ו]] [[H9001\|וְ]][[H2015\|הָפַכְתִּ֨י]] [[H0060\|אֶבְלָ֤]][[H9028\|ם]] [[H9005\|לְ]][[H8342\|שָׂשׂוֹן֙]] [[H9001\|וְ]][[H5162G\|נִ֣חַמְתִּ֔י]][[H9038\|ם]] [[H9001\|וְ]][[H8055\|שִׂמַּחְתִּ֖י]][[H9038\|ם]] [[H9006\|מִ]][[H3015\|יגוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DANCING|DANCING]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VIRGIN|VIRGIN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.12|<< Jeremiah 31:12]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.14|Jeremiah 31:14 >>]]</td></tr></table>
 

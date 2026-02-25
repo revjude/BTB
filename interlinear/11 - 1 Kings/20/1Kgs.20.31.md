@@ -1,8 +1,76 @@
+---
+title: 1 Kings 20:31
+type: Verse
+kjv: "And his servants said unto him, Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life."
+bsb: "Then the servants of Ben-hadad said to him, “Look now, we have heard that the kings of the house of Israel are merciful. Let us go out to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life.”"
+hebrew: "וַיֹּאמְר֣וּ אֵלָיו֮ עֲבָדָיו֒ הִנֵּֽה־ נָ֣א שָׁמַ֔עְנוּ כִּ֗י מַלְכֵי֙ בֵּ֣ית יִשְׂרָאֵ֔ל כִּֽי־ מַלְכֵ֥י חֶ֖סֶד הֵ֑ם נָשִׂ֣ימָה נָּא֩ שַׂקִּ֨ים בְּמָתְנֵ֜ינוּ וַחֲבָלִ֣ים בְּרֹאשֵׁ֗נוּ וְנֵצֵא֙ אֶל־ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אוּלַ֖י יְחַיֶּ֥ה אֶת־ נַפְשֶֽׁךָ׃"
+pericope: "[[1Kgs.20.31 Ahab Spares Ben-hadad|Ahab Spares Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ROPE|ROPE]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H4428G]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H2617A]]"
+- "[[H1992]]"
+- "[[H7760H]]"
+- "[[H8242]]"
+- "[[H9003]]"
+- "[[H4975]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H2256M]]"
+- "[[H7218A]]"
+- "[[H3318G]]"
+- "[[H0194]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:31**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants said unto him, Behold now, we have heard that the kings of the house of Israel [are] merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life.
 <small><sub>**BSB:**</sub></small>
 Then the servants of Ben-hadad said to him, “Look now, we have heard that the kings of the house of Israel are merciful. Let us go out to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָי]][[H9033\|ו֮]] [[H5650\|עֲבָדָי]][[H9023\|ו֒]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H8085G\|שָׁמַ֔עְנוּ]] [[H3588A\|כִּ֗י]] [[H4428G\|מַלְכֵי֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4428G\|מַלְכֵ֥י]] [[H2617A\|חֶ֖סֶד]] [[H1992\|הֵ֑ם]] [[H7760H\|נָשִׂ֣ימָה]] [[H4994\|נָּא֩]] [[H8242\|שַׂקִּ֨ים]] [[H9003\|בְּ]][[H4975\|מָתְנֵ֜י]][[H9025\|נוּ]] [[H9002\|וַ]][[H2256M\|חֲבָלִ֣ים]] [[H9003\|בְּ]][[H7218A\|רֹאשֵׁ֗]][[H9025\|נוּ]] [[H9002\|וְ]][[H3318G\|נֵצֵא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0194\|אוּלַ֖י]] [[H2421\|יְחַיֶּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ROPE|ROPE]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.30|<< 1 Kings 20:30]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.32|1 Kings 20:32 >>]]</td></tr></table>
 

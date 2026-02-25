@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:2
+type: Verse
+kjv: "Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother’s name was Jecholiah of Jerusalem."
+bsb: "He was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem."
+hebrew: "בֶּן־ שֵׁ֨שׁ עֶשְׂרֵ֤ה שָׁנָה֙ הָיָ֣ה בְמָלְכ֔וֹ וַחֲמִשִּׁ֤ים וּשְׁתַּ֙יִם֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְכָלְיָ֖הוּ מִירוּשָׂלִָֽם׃"
+pericope: "[[2Kgs.15.1 Azariah Reigns in Judah|Azariah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H8147]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3203]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:2**<big><big>[[2Kgs.15.1 Azariah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sixteen years old was he when he began to reign, and he reigned two and fifty years in Jerusalem. And his mother’s name [was] Jecholiah of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 He was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8337\|שֵׁ֨שׁ]] [[H6240\|עֶשְׂרֵ֤ה]] [[H8141\|שָׁנָה֙]] [[H1961\|הָיָ֣ה]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֤ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֙יִם֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3203\|יְכָלְיָ֖הוּ]] [[H9006\|מִ]][[H3389\|ירוּשָׂלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.1|<< 2 Kings 15:1]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.3|2 Kings 15:3 >>]]</td></tr></table>
 

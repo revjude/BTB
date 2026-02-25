@@ -1,8 +1,54 @@
+---
+title: Psalm 9:2
+type: Verse
+kjv: "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High."
+bsb: "I will be glad and rejoice in You; I will sing praise to Your name, O Most High."
+hebrew: "אֶשְׂמְחָ֣ה וְאֶעֶלְצָ֣ה בָ֑ךְ אֲזַמְּרָ֖ה שִׁמְךָ֣ עֶלְיֽוֹן׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H8055]]"
+- "[[H9002]]"
+- "[[H5970]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H2167]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5945B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:2**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
 <small><sub>**BSB:**</sub></small>
 I will be glad and rejoice in You; I will sing praise to Your name, O Most High.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|אֶשְׂמְחָ֣ה]] [[H9002\|וְ]][[H5970\|אֶעֶלְצָ֣ה]] [[H9003\|בָ֑]][[H9031\|ךְ]] [[H2167\|אֲזַמְּרָ֖ה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H5945B\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.1|<< Psalms 9:1]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.3|Psalms 9:3 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Prays on the Mount of Olives
+type: Pericope
 pericope: "[[Luke.22.39 Jesus Prays on the Mount of Olives|Jesus Prays on the Mount of Olives]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.22.39]]"
 - "[[Luke.22.40]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.22.46]]"
 ---
 
-[[Luke.22|Luke 22:39 - Luke 22:46]]
+<small>[[Luke.22|Luke 22:39-46]]</small>
 *Jesus Prays on the Mount of Olives*
 
 [[Luke.22.39|39]] And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.

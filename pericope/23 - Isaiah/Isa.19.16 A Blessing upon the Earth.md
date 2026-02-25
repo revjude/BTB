@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Blessing upon the Earth
+type: Pericope
 pericope: "[[Isa.19.16 A Blessing upon the Earth|A Blessing upon the Earth]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 19
 book/chapter: "[[Isa.19|Isaiah 19]]"
-genre:
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Isa.19.16]]"
 - "[[Isa.19.17]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Isa.19.25]]"
 ---
 
-[[Isa.19|Isaiah 19:16 - Isaiah 19:25]]
+<small>[[Isa.19|Isaiah 19:16-25]]</small>
 *A Blessing upon the Earth*
 
 [[Isa.19.16|16]] In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it.

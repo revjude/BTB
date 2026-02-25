@@ -1,10 +1,57 @@
+---
+title: Luke 9:34
+type: Verse
+kjv: "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud."
+bsb: "While Peter was speaking, a cloud appeared and enveloped them, and they were afraid as they entered the cloud."
+greek: "ταῦτα δὲ αὐτοῦ λέγοντος ἐγένετο νεφέλη καὶ ἐπεσκίαζεν αὐτούς. ἐφοβήθησαν δὲ ἐν τῷ εἰσελθεῖν αὐτοὺς εἰς τὴν νεφέλην."
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1096]]"
+- "[[G3507]]"
+- "[[G2532]]"
+- "[[G1982]]"
+- "[[G5399]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1525]]"
+- "[[G1519]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:34**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.
 <small><sub>**BSB:**</sub></small>
 While Peter was speaking, a cloud appeared and enveloped them, and they were afraid as they entered the cloud.
-<small><sub>**Literal:**</sub></small>
-These things then when he is saying came a cloud and was overshadowing them. they feared then in the entering of them into the cloud.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.33|<< Luke 9:33]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.35|Luke 9:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντος]]  [[G1096\|ἐγένετο]]  [[G3507\|νεφέλη]]  [[G2532\|καὶ]]  [[G1982\|ἐπεσκίαζεν]]  [[G0846\|αὐτούς.]]  [[G5399\|ἐφοβήθησαν]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1525\|εἰσελθεῖν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3507\|νεφέλην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.33|<< Luke 9:33]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.35|Luke 9:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

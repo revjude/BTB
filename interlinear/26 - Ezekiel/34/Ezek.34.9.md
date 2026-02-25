@@ -1,8 +1,53 @@
+---
+title: Ezekiel 34:9
+type: Verse
+kjv: "Therefore, O ye shepherds, hear the word of the LORD;"
+bsb: "therefore, you shepherds, hear the word of the LORD!’"
+hebrew: "לָכֵן֙ הָֽרֹעִ֔ים שִׁמְע֖וּ דְּבַר־ יְהוָֽה׃"
+pericope: "[[Ezek.34.1 A Prophecy against Israel’s Shepherds|A Prophecy against Israel’s Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:9**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, O ye shepherds, hear the word of the LORD;
 <small><sub>**BSB:**</sub></small>
 therefore, you shepherds, hear the word of the LORD!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H9009\|הָֽ]][[H7462B\|רֹעִ֔ים]] [[H8085G\|שִׁמְע֖וּ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.8|<< Ezekiel 34:8]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.10|Ezekiel 34:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

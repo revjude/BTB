@@ -1,10 +1,58 @@
+---
+title: Acts 10:7
+type: Verse
+kjv: "And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;"
+bsb: "When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier from among his attendants."
+greek: "Ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν τῷ αὐτῷ, φωνήσας δύο τῶν οἰκετῶν αὐτοῦ καὶ στρατιώτην εὐσεβῆ τῶν προσκαρτερούντων αὐτῷ,"
+pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G5455]]"
+- "[[G1417]]"
+- "[[G3610]]"
+- "[[G2532]]"
+- "[[G4757]]"
+- "[[G2152]]"
+- "[[G4342]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 10:7**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
 <small><sub>**BSB:**</sub></small>
 When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier from among his attendants.
-<small><sub>**Literal:**</sub></small>
-When then had departed the angel who is speaking <the> to him, having called two of the servants of him and a soldier devout of those attending to him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.6|<< Acts 10:6]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.8|Acts 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G0565\|ἀπῆλθεν]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ,]]  [[G5455\|φωνήσας]]  [[G1417\|δύο]]  [[G3588\|τῶν]]  [[G3610\|οἰκετῶν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4757\|στρατιώτην]]  [[G2152\|εὐσεβῆ]]  [[G3588\|τῶν]]  [[G4342\|προσκαρτερούντων]]  [[G0846\|αὐτῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic HEATHEN|HEATHEN]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.6|<< Acts 10:6]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.8|Acts 10:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

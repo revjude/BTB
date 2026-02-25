@@ -1,8 +1,65 @@
+---
+title: Numbers 4:47
+type: Verse
+kjv: "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,"
+bsb: "from thirty to fifty years old who came to do the work of serving and carrying the Tent of Meeting."
+hebrew: "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־ חֲמִשִּׁ֣ים שָׁנָ֑ה כָּל־ הַבָּ֗א לַעֲבֹ֨ד עֲבֹדַ֧ת עֲבֹדָ֛ה וַעֲבֹדַ֥ת מַשָּׂ֖א בְּאֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2572]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H4853A]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:47**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,
 <small><sub>**BSB:**</sub></small>
 from thirty to fifty years old who came to do the work of serving and carrying the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H1121L\|בֶּן]][[H9014\|־]] [[H2572\|חֲמִשִּׁ֣ים]] [[H8141\|שָׁנָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּ֗א]] [[H9005\|לַ]][[H5647H\|עֲבֹ֨ד]] [[H5656H\|עֲבֹדַ֧ת]] [[H5656H\|עֲבֹדָ֛ה]] [[H9002\|וַ]][[H5656H\|עֲבֹדַ֥ת]] [[H4853A\|מַשָּׂ֖א]] [[H9003\|בְּ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.46|<< Numbers 4:46]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.48|Numbers 4:48 >>]]</td></tr></table>
 

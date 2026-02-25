@@ -1,8 +1,52 @@
+---
+title: Proverbs 13:3
+type: Verse
+kjv: "He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction."
+bsb: "He who guards his mouth protects his life, but the one who opens his lips invites his own ruin."
+hebrew: "נֹצֵ֣ר פִּ֭יו שֹׁמֵ֣ר נַפְשׁ֑וֹ פֹּשֵׂ֥ק שְׂ֝פָתָ֗יו מְחִתָּה־ לֽוֹ׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H5341]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H8104H]]"
+- "[[H5315H]]"
+- "[[H6589]]"
+- "[[H8193G]]"
+- "[[H4288]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:3**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that keepeth his mouth keepeth his life: [but] he that openeth wide his lips shall have destruction.
 <small><sub>**BSB:**</sub></small>
 He who guards his mouth protects his life, but the one who opens his lips invites his own ruin.
+<small><sub>**Hebrew:**</sub></small>
+[[H5341\|נֹצֵ֣ר]] [[H6310G\|פִּ֭י]][[H9023\|ו]] [[H8104H\|שֹׁמֵ֣ר]] [[H5315H\|נַפְשׁ֑]][[H9023\|וֹ]] [[H6589\|פֹּשֵׂ֥ק]] [[H8193G\|שְׂ֝פָתָ֗י]][[H9023\|ו]] [[H4288\|מְחִתָּה]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.2|<< Proverbs 13:2]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.4|Proverbs 13:4 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to Judah’s Kings
+type: Pericope
 pericope: "[[Jer.22.1 A Warning to Judah’s Kings|A Warning to Judah’s Kings]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 22
 book/chapter: "[[Jer.22|Jeremiah 22]]"
-genre:
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.22.1]]"
 - "[[Jer.22.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.22.5]]"
 ---
 
-[[Jer.22|Jeremiah 22:1 - Jeremiah 22:5]]
+<small>[[Jer.22|Jeremiah 22:1-5]]</small>
 *A Warning to Judah’s Kings*
 
 [[Jer.22.1|1]] Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,

@@ -1,10 +1,53 @@
+---
+title: John 12:18
+type: Verse
+kjv: "For this cause the people also met him, for that they heard that he had done this miracle."
+bsb: "That is also why the crowd went out to meet Him, because they heard that He had performed this sign."
+greek: "διὰ τοῦτο καὶ ὑπήντησεν αὐτῷ ὁ ὄχλος, ὅτι ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον.¶"
+pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G5221]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3754H]]"
+- "[[G0191]]"
+- "[[G4160G]]"
+- "[[G4592]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 12:18**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause the people also met him, for that they heard that he had done this miracle.
 <small><sub>**BSB:**</sub></small>
 That is also why the crowd went out to meet Him, because they heard that He had performed this sign.
-<small><sub>**Literal:**</sub></small>
-On account of this also met with Him the crowd, because they heard this of His to have done the sign.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.17|<< John 12:17]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.19|John 12:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2532\|καὶ]]  [[G5221\|ὑπήντησεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος,]]  [[G3754H\|ὅτι]]  [[G0191\|ἤκουσαν]]  [[G3778\|τοῦτο]]  [[G0846\|αὐτὸν]]  [[G4160G\|πεποιηκέναι]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.17|<< John 12:17]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.19|John 12:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

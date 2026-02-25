@@ -1,8 +1,76 @@
+---
+title: Ezekiel 37:12
+type: Verse
+kjv: "Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel."
+bsb: "Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel."
+hebrew: "לָכֵן֩ הִנָּבֵ֨א וְאָמַרְתָּ֜ אֲלֵיהֶ֗ם כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנֵּה֩ אֲנִ֨י פֹתֵ֜חַ אֶת־ קִבְרֽוֹתֵיכֶ֗ם וְהַעֲלֵיתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּ֑י וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־ אַדְמַ֥ת יִשְׂרָאֵֽל׃ ס"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5012]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H6913]]"
+- "[[H9026]]"
+- "[[H5927H]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0935P]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 37:12**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
 <small><sub>**BSB:**</sub></small>
 Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H5012\|הִנָּבֵ֨א]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֜]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2009\|הִנֵּה֩]] [[H0589\|אֲנִ֨י]] [[H6605A\|פֹתֵ֜חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H6913\|קִבְרֽוֹתֵי]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H5927H\|הַעֲלֵיתִ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9006\|מִ]][[H6913\|קִּבְרוֹתֵי]][[H9026\|כֶ֖ם]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic EZEKIEL|EZEKIEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic POWER|POWER]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.11|<< Ezekiel 37:11]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.13|Ezekiel 37:13 >>]]</td></tr></table>
 
@@ -29,7 +97,7 @@ Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My pe
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0127G\|אַדְמַ֥ת]]&#8207; </big>**| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.11|<< Ezekiel 37:11]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.13|Ezekiel 37:13 >>]]</td></tr></table>
 
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elah Reigns in Israel
+type: Pericope
 pericope: "[[1Kgs.16.8 Elah Reigns in Israel|Elah Reigns in Israel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 16
 book/chapter: "[[1Kgs.16|1 Kings 16]]"
-genre:
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.16.8]]"
 - "[[1Kgs.16.9]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.16.14]]"
 ---
 
-[[1Kgs.16|1 Kings 16:8 - 1 Kings 16:14]]
+<small>[[1Kgs.16|1 Kings 16:8-14]]</small>
 *Elah Reigns in Israel*
 
 [[1Kgs.16.8|8]] In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.

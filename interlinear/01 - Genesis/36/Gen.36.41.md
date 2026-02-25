@@ -1,8 +1,52 @@
+---
+title: Genesis 36:41
+type: Verse
+kjv: "Duke Aholibamah, duke Elah, duke Pinon,"
+bsb: "Oholibamah, Elah, Pinon,"
+hebrew: "אַלּ֧וּף אָהֳלִיבָמָ֛ה אַלּ֥וּף אֵלָ֖ה אַלּ֥וּף פִּינֹֽן׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHOLIBAMAH|AHOLIBAMAH]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ELAH|ELAH]]"
+- "[[topic PINON|PINON]]"
+strongs:
+- "[[H0441B]]"
+- "[[H0173]]"
+- "[[H0425G]]"
+- "[[H6373]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:41**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Duke Aholibamah, duke Elah, duke Pinon,
 <small><sub>**BSB:**</sub></small>
 Oholibamah, Elah, Pinon,
+<small><sub>**Hebrew:**</sub></small>
+[[H0441B\|אַלּ֧וּף]] [[H0173\|אָהֳלִיבָמָ֛ה]] [[H0441B\|אַלּ֥וּף]] [[H0425G\|אֵלָ֖ה]] [[H0441B\|אַלּ֥וּף]] [[H6373\|פִּינֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLIBAMAH|AHOLIBAMAH]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic ELAH|ELAH]] • [[topic PINON|PINON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.40|<< Genesis 36:40]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.42|Genesis 36:42 >>]]</td></tr></table>
 

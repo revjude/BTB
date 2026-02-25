@@ -1,8 +1,69 @@
+---
+title: Joshua 6:24
+type: Verse
+kjv: "And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD."
+bsb: "Then the Israelites burned up the city and everything in it. However, they put the silver and gold and articles of bronze and iron into the treasury of the LORD’s house."
+hebrew: "וְהָעִ֛יר שָׂרְפ֥וּ בָאֵ֖שׁ וְכָל־ אֲשֶׁר־ בָּ֑הּ רַ֣ק׀ הַכֶּ֣סֶף וְהַזָּהָ֗ב וּכְלֵ֤י הַנְּחֹ֙שֶׁת֙ וְהַבַּרְזֶ֔ל נָתְנ֖וּ אוֹצַ֥ר בֵּית־ יְהוָֽה׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic IRON|IRON]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9034]]"
+- "[[H7535]]"
+- "[[H9015]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H3627]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H5414H]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:24**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they burnt the city with fire, and all that [was] therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then the Israelites burned up the city and everything in it. However, they put the silver and gold and articles of bronze and iron into the treasury of the LORD’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֛יר]] [[H8313\|שָׂרְפ֥וּ]] [[H9003\|בָ]][[H0784\|אֵ֖שׁ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H7535\|רַ֣ק]][[H9015\|׀]] [[H9009\|הַ]][[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H2091\|זָּהָ֗ב]] [[H9002\|וּ]][[H3627\|כְלֵ֤י]] [[H9009\|הַ]][[H5178A\|נְּחֹ֙שֶׁת֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1270\|בַּרְזֶ֔ל]] [[H5414H\|נָתְנ֖וּ]] [[H0214\|אוֹצַ֥ר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic IRON|IRON]] • [[topic RAHAB|RAHAB]] • [[topic TABERNACLE|TABERNACLE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.23|<< Joshua 6:23]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.25|Joshua 6:25 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 5:6
+type: Verse
+kjv: "I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage."
+bsb: "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+hebrew: "אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִֽ֑ים׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+- L(p)
+---
+
 **Deuteronomy 5:6**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.
 <small><sub>**BSB:**</sub></small>
 “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָֽנֹכִי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֧ר]] [[H3318H\|הוֹצֵאתִ֛י]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H5650\|עֲבָדִֽ֑ים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROPHETS|PROPHETS]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.5|<< Deuteronomy 5:5]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.7|Deuteronomy 5:7 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 21:26
+type: Verse
+kjv: "And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering."
+bsb: "And there he built an altar to the LORD and offered burnt offerings and peace offerings. He called upon the LORD, who answered him with fire from heaven on the altar of burnt offering."
+hebrew: "וַיִּבֶן֩ שָׁ֨ם דָּוִ֤יד מִזְבֵּ֙חַ֙ לַיהוָ֔ה וַיַּ֥עַל עֹל֖וֹת וּשְׁלָמִ֑ים וַיִּקְרָא֙ אֶל־ יְהוָ֔ה וַיַּֽעֲנֵ֤הוּ בָאֵשׁ֙ מִן־ הַשָּׁמַ֔יִם עַ֖ל מִזְבַּ֥ח הָעֹלָֽה׃ פ"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H8033G]]"
+- "[[H1732]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6030B]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:26**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
 <small><sub>**BSB:**</sub></small>
 And there he built an altar to the LORD and offered burnt offerings and peace offerings. He called upon the LORD, who answered him with fire from heaven on the altar of burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H8033G\|שָׁ֨ם]] [[H1732\|דָּוִ֤יד]] [[H4196\|מִזְבֵּ֙חַ֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9001\|וַ]][[H5927I\|יַּ֥עַל]] [[H5930A\|עֹל֖וֹת]] [[H9002\|וּ]][[H8002\|שְׁלָמִ֑ים]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6030B\|יַּֽעֲנֵ֤]][[H9033\|הוּ]] [[H9003\|בָ]][[H0784\|אֵשׁ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H5921A\|עַ֖ל]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic HEAVEN|HEAVEN]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.25|<< 1 Chronicles 21:25]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.27|1 Chronicles 21:27 >>]]</td></tr></table>
 
@@ -25,7 +83,7 @@ And there he built an altar to the LORD and offered burnt offerings and peace of
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֔יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֖ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֥ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.25|<< 1 Chronicles 21:25]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.27|1 Chronicles 21:27 >>]]</td></tr></table>
 
 

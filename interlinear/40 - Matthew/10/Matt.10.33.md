@@ -1,10 +1,63 @@
+---
+title: Matthew 10:33
+type: Verse
+kjv: "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+bsb: "But whoever denies Me before men, I will also deny him before My Father in heaven."
+jesus_said: "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+greek: "ὅστις δ᾽ ἂν ἀρνήσηταί με ἔμπροσθεν τῶν ἀνθρώπων, ἀρνήσομαι κἀγὼ κἀγὼ αὐτὸν ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς.¶"
+pericope: "[[Matt.10.32 Confessing Christ|Confessing Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3748]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G0720]]"
+- "[[G3165]]"
+- "[[G1715]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G3772]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 10:33**<big><big>[[Matt.10.32 Confessing Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 But whoever denies Me before men, I will also deny him before My Father in heaven.
-<small><sub>**Literal:**</sub></small>
-Whoever now maybe may deny Me before <the> men, will deny I myself also him before the Father of Mine who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.32|<< Matthew 10:32]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.34|Matthew 10:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ὅστις]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G0720\|ἀρνήσηταί]]  [[G3165\|με]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G0720\|ἀρνήσομαι]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0846\|αὐτὸν]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFESSION|CONFESSION]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.32|<< Matthew 10:32]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.34|Matthew 10:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

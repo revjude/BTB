@@ -1,10 +1,59 @@
+---
+title: 1 John 4:4
+type: Verse
+kjv: "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
+bsb: "You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world."
+greek: "ὑμεῖς ἐκ τοῦ θεοῦ ἐστε, τεκνία, καὶ νενικήκατε αὐτούς, ὅτι μείζων ἐστὶν ὁ ἐν ὑμῖν ἢ ὁ ἐν τῷ κόσμῳ."
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G5040]]"
+- "[[G2532]]"
+- "[[G3528]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G2228]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **1 John 4:4**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 <small><sub>**BSB:**</sub></small>
 You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world.
-<small><sub>**Literal:**</sub></small>
-you yourselves from <the> God are, little children, and have overcome them, because greater is the [One] in you than the [one] in the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.3|<< 1 John 4:3]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.5|1 John 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστε,]]  [[G5040\|τεκνία,]]  [[G2532\|καὶ]]  [[G3528\|νενικήκατε]]  [[G0846\|αὐτούς,]]  [[G3754H\|ὅτι]]  [[G3173\|μείζων]]  [[G1510\|ἐστὶν]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G2228\|ἢ]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BLESSING|BLESSING]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.3|<< 1 John 4:3]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.5|1 John 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

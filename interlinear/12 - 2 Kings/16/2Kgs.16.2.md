@@ -1,8 +1,60 @@
+---
+title: 2 Kings 16:2
+type: Verse
+kjv: "Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father."
+bsb: "Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD his God."
+hebrew: "בֶּן־ עֶשְׂרִ֤ים שָׁנָה֙ אָחָ֣ז בְּמָלְכ֔וֹ וְשֵׁשׁ־ עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְלֹא־ עָשָׂ֣ה הַיָּשָׁ֗ר בְּעֵינֵ֛י יְהוָ֥ה אֱלֹהָ֖יו כְּדָוִ֥ד אָבִֽיו׃"
+pericope: "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H0271G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:2**<big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Twenty years old [was] Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not [that which was] right in the sight of the LORD his God, like David his father.
 <small><sub>**BSB:**</sub></small>
 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H0271G\|אָחָ֣ז]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֗ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֛י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָ֖י]][[H9023\|ו]] [[H9004\|כְּ]][[H1732\|דָוִ֥ד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.1|<< 2 Kings 16:1]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.3|2 Kings 16:3 >>]]</td></tr></table>
 

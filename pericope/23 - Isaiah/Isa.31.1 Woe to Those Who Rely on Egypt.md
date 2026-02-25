@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to Those Who Rely on Egypt
+type: Pericope
 pericope: "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 31
 book/chapter: "[[Isa.31|Isaiah 31]]"
-genre:
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.31.1]]"
 - "[[Isa.31.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.31.9]]"
 ---
 
-[[Isa.31|Isaiah 31:1 - Isaiah 31:9]]
+<small>[[Isa.31|Isaiah 31:1-9]]</small>
 *Woe to Those Who Rely on Egypt*
 
 [[Isa.31.1|1]] Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because \[they are\] many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!

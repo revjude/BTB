@@ -1,8 +1,60 @@
+---
+title: Habakkuk 1:9
+type: Verse
+kjv: "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand."
+bsb: "All of them come bent on violence; their hordes advance like the east wind; they gather prisoners like sand."
+hebrew: "כֻּלֹּה֙ לְחָמָ֣ס יָב֔וֹא מְגַמַּ֥ת פְּנֵיהֶ֖ם קָדִ֑ימָה וַיֶּאֱסֹ֥ף כַּח֖וֹל שֶֽׁבִי׃"
+pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2555]]"
+- "[[H0935G]]"
+- "[[H4041]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H6921]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H7628A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:9**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall come all for violence: their faces shall sup up [as] the east wind, and they shall gather the captivity as the sand.
 <small><sub>**BSB:**</sub></small>
 All of them come bent on violence; their hordes advance like the east wind; they gather prisoners like sand.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלֹּ]][[H9023\|ה֙]] [[H9005\|לְ]][[H2555\|חָמָ֣ס]] [[H0935G\|יָב֔וֹא]] [[H4041\|מְגַמַּ֥ת]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֖ם]] [[H6921\|קָדִ֑ימָ]][[H9011\|ה]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֥ף]] [[H9004\|כַּ]][[H2344\|ח֖וֹל]] [[H7628A\|שֶֽׁבִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.8|<< Habakkuk 1:8]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.10|Habakkuk 1:10 >>]]</td></tr></table>
 

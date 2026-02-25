@@ -3,7 +3,7 @@
 
 → Used for throwing stones [[Prov.26.8|Pr 26:8]]
 
-→ David kills Goliath with a [[1Sam.17.40|1Sa 17:40]]-[[1Sam.17.50|50]]
+→ David kills Goliath with a [[1Sam.17.40|1Sa 17:40-50]]
 
 → Dextrous use of [[Judg.20.16|Jud 20:16]]
 

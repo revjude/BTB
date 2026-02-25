@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 3:6
+type: Verse
+kjv: "And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for thou didst call me. And he answered, I called not, my son; lie down again."
+bsb: "Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.” “My son, I did not call,” Eli replied. “Go back and lie down.”"
+hebrew: "וַיֹּ֣סֶף יְהוָ֗ה קְרֹ֣א עוֹד֮ שְׁמוּאֵל֒ וַיָּ֤קָם שְׁמוּאֵל֙ וַיֵּ֣לֶךְ אֶל־ עֵלִ֔י וַיֹּ֣אמֶר הִנְנִ֔י כִּ֥י קָרָ֖אתָ לִ֑י וַיֹּ֛אמֶר לֹֽא־ קָרָ֥אתִי בְנִ֖י שׁ֥וּב שְׁכָֽב׃"
+pericope: "[[1Sam.3.1 The LORD Calls Samuel|The LORD Calls Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H5750]]"
+- "[[H8050G]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5941]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H7725J]]"
+- "[[H7901G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:6**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here [am] I; for thou didst call me. And he answered, I called not, my son; lie down again.
 <small><sub>**BSB:**</sub></small>
 Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.” “My son, I did not call,” Eli replied. “Go back and lie down.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֣סֶף]] [[H3068G\|יְהוָ֗ה]] [[H7121G\|קְרֹ֣א]] [[H5750\|עוֹד֮]] [[H8050G\|שְׁמוּאֵל֒]] [[H9001\|וַ]][[H6965B\|יָּ֤קָם]] [[H8050G\|שְׁמוּאֵל֙]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5941\|עֵלִ֔י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2005\|הִנְ]][[H9040\|נִ֔י]] [[H3588A\|כִּ֥י]] [[H7121G\|קָרָ֖אתָ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7121G\|קָרָ֥אתִי]] [[H1121A\|בְנִ֖]][[H9020\|י]] [[H7725J\|שׁ֥וּב]] [[H7901G\|שְׁכָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.5|<< 1 Samuel 3:5]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.7|1 Samuel 3:7 >>]]</td></tr></table>
 

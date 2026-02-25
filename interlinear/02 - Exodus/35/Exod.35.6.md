@@ -1,8 +1,56 @@
+---
+title: Exodus 35:6
+type: Verse
+kjv: "And blue, and purple, and scarlet, and fine linen, and goats’ hair,"
+bsb: "blue, purple, and scarlet yarn; fine linen and goat hair;"
+hebrew: "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃"
+pericope: "[[Exod.35.4 Offerings for the Tabernacle|Offerings for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H5795]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:6**<big><big>[[Exod.35.4 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blue, and purple, and scarlet, and fine linen, and goats’ [hair],
 <small><sub>**BSB:**</sub></small>
 blue, purple, and scarlet yarn; fine linen and goat hair;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8504\|תְכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H9002\|וְ]][[H5795\|עִזִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.5|<< Exodus 35:5]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.7|Exodus 35:7 >>]]</td></tr></table>
 

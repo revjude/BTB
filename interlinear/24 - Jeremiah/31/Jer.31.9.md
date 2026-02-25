@@ -1,8 +1,76 @@
+---
+title: Jeremiah 31:9
+type: Verse
+kjv: "They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn."
+bsb: "They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.”"
+hebrew: "בִּבְכִ֣י יָבֹ֗אוּ וּֽבְתַחֲנוּנִים֮ אֽוֹבִילֵם֒ אֽוֹלִיכֵם֙ אֶל־ נַ֣חֲלֵי מַ֔יִם בְּדֶ֣רֶךְ יָשָׁ֔ר לֹ֥א יִכָּשְׁל֖וּ בָּ֑הּ כִּֽי־ הָיִ֤יתִי לְיִשְׂרָאֵל֙ לְאָ֔ב וְאֶפְרַ֖יִם בְּכֹ֥רִי הֽוּא׃ ס"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9003]]"
+- "[[H1065]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H8469]]"
+- "[[H2986]]"
+- "[[H9038]]"
+- "[[H1980I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5158A]]"
+- "[[H4325G]]"
+- "[[H1870K]]"
+- "[[H3477I]]"
+- "[[H3808]]"
+- "[[H3782]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H0669G]]"
+- "[[H1060]]"
+- "[[H9020]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:9**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim [is] my firstborn.
 <small><sub>**BSB:**</sub></small>
 They will come with weeping, and by their supplication I will lead them; I will make them walk beside streams of waters, on a level path where they will not stumble. For I am Israel’s Father, and Ephraim is My firstborn.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H1065\|בְכִ֣י]] [[H0935G\|יָבֹ֗אוּ]] [[H9002\|וּֽ]][[H9003\|בְ]][[H8469\|תַחֲנוּנִים֮]] [[H2986\|אֽוֹבִילֵ]][[H9038\|ם֒]] [[H1980I\|אֽוֹלִיכֵ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5158A\|נַ֣חֲלֵי]] [[H4325G\|מַ֔יִם]] [[H9003\|בְּ]][[H1870K\|דֶ֣רֶךְ]] [[H3477I\|יָשָׁ֔ר]] [[H3808\|לֹ֥א]] [[H3782\|יִכָּשְׁל֖וּ]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיִ֤יתִי]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H0001G\|אָ֔ב]] [[H9002\|וְ]][[H0669G\|אֶפְרַ֖יִם]] [[H1060\|בְּכֹ֥רִ]][[H9020\|י]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic CHURCH|CHURCH]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.8|<< Jeremiah 31:8]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.10|Jeremiah 31:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,7 +99,7 @@ They will come with weeping, and by their supplication I will lead them; I will 
 | \<into> a father  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0001G\|אָ֔ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ephraim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] firstborn my  |**<big>&#8207;[[H1060\|בְּכֹ֥רִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.Kho.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.8|<< Jeremiah 31:8]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.10|Jeremiah 31:10 >>]]</td></tr></table>
 
 

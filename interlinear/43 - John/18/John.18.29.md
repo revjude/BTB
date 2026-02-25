@@ -1,10 +1,62 @@
+---
+title: John 18:29
+type: Verse
+kjv: "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+bsb: "So Pilate went out to them and asked, “What accusation are you bringing against this man?”"
+greek: "ἐξῆλθεν οὖν ὁ Πιλᾶτος ἔξω πρὸς αὐτοὺς καὶ φησίν· τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου;¶"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G1831]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G1854]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G5346]]"
+- "[[G5101]]"
+- "[[G2724]]"
+- "[[G5342]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **John 18:29**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate then went out unto them, and said, What accusation bring ye against this man?
 <small><sub>**BSB:**</sub></small>
 So Pilate went out to them and asked, “What accusation are you bringing against this man?”
-<small><sub>**Literal:**</sub></small>
-Went therefore <the> Pilate out to them and said; What accusation bring you against <the> man this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.28|<< John 18:28]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.30|John 18:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξῆλθεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G1854\|ἔξω]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G5346\|φησίν·]]  [[G5101\|τίνα]]  [[G2724\|κατηγορίαν]]  [[G5342\|φέρετε]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3778\|τούτου;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.28|<< John 18:28]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.30|John 18:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

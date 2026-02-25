@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 33:29
+type: Verse
+kjv: "Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places."
+bsb: "Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”"
+hebrew: "אַשְׁרֶ֨יךָ יִשְׂרָאֵ֜ל מִ֣י כָמ֗וֹךָ עַ֚ם נוֹשַׁ֣ע בַּֽיהוָ֔ה מָגֵ֣ן עֶזְרֶ֔ךָ וַאֲשֶׁר־ חֶ֖רֶב גַּאֲוָתֶ֑ךָ וְיִכָּֽחֲשׁ֤וּ אֹיְבֶ֙יךָ֙ לָ֔ךְ וְאַתָּ֖ה עַל־ בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃ ס"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic SHIELD|SHIELD]]"
+strongs:
+- "[[H0835]]"
+- "[[H9031]]"
+- "[[H3478]]"
+- "[[H4310]]"
+- "[[H3644G]]"
+- "[[H5971A]]"
+- "[[H3467]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H4043]]"
+- "[[H5828]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H1346]]"
+- "[[H3584]]"
+- "[[H0341]]"
+- "[[H9005]]"
+- "[[H0859A]]"
+- "[[H5921A]]"
+- "[[H1116]]"
+- "[[H9028]]"
+- "[[H1869]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:29**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [art] thou, O Israel: who [is] like unto thee, O people saved by the LORD, the shield of thy help, and who [is] the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
 <small><sub>**BSB:**</sub></small>
 Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֶ֨י]][[H9031\|ךָ]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H4310\|מִ֣י]] [[H3644G\|כָמ֗וֹ]][[H9031\|ךָ]] [[H5971A\|עַ֚ם]] [[H3467\|נוֹשַׁ֣ע]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H4043\|מָגֵ֣ן]] [[H5828\|עֶזְרֶ֔]][[H9021\|ךָ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H1346\|גַּאֲוָתֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3584\|יִכָּֽחֲשׁ֤וּ]] [[H0341\|אֹיְבֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1116\|בָּמוֹתֵ֥י]][[H9028\|מוֹ]] [[H1869\|תִדְרֹֽךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic SHIELD|SHIELD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
@@ -26,7 +93,7 @@ Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is th
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | high places their  |**<big>&#8207;[[H1116\|בָּמוֹתֵ֥י]]&#8207;&#8207;[[H9028\|מוֹ]]&#8207; </big>**| ba.mo.Tei.<small><sup>[[HNcfpc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will tread  |**<big>&#8207;[[H1869\|תִדְרֹֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tid.Rokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will tread  |**<big>&#8207;[[H1869\|תִדְרֹֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tid.Rokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
 

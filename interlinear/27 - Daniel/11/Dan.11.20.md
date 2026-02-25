@@ -1,8 +1,60 @@
+---
+title: Daniel 11:20
+type: Verse
+kjv: "Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle."
+bsb: "In his place one will arise who will send out a tax collector for the glory of the kingdom; but within a few days he will be destroyed, though not in anger or in battle."
+hebrew: "וְעָמַ֧ד עַל־ כַּנּ֛וֹ מַעֲבִ֥יר נוֹגֵ֖שׂ הֶ֣דֶר מַלְכ֑וּת וּבְיָמִ֤ים אֲחָדִים֙ יִשָּׁבֵ֔ר וְלֹ֥א בְאַפַּ֖יִם וְלֹ֥א בְמִלְחָמָֽה׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3653]]"
+- "[[H9023]]"
+- "[[H5674A]]"
+- "[[H5065]]"
+- "[[H1925]]"
+- "[[H4438]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H7665]]"
+- "[[H3808]]"
+- "[[H0639G]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:20**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall stand up in his estate a raiser of taxes [in] the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
 <small><sub>**BSB:**</sub></small>
 In his place one will arise who will send out a tax collector for the glory of the kingdom; but within a few days he will be destroyed, though not in anger or in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975I\|עָמַ֧ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3653\|כַּנּ֛]][[H9023\|וֹ]] [[H5674A\|מַעֲבִ֥יר]] [[H5065\|נוֹגֵ֖שׂ]] [[H1925\|הֶ֣דֶר]] [[H4438\|מַלְכ֑וּת]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|יָמִ֤ים]] [[H0259\|אֲחָדִים֙]] [[H7665\|יִשָּׁבֵ֔ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בְ]][[H0639G\|אַפַּ֖יִם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בְ]][[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.19|<< Daniel 11:19]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.21|Daniel 11:21 >>]]</td></tr></table>
 

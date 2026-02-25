@@ -1,10 +1,66 @@
+---
+title: John 16:23
+type: Verse
+kjv: "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you."
+bsb: "In that day you will no longer ask Me anything. Truly, truly, I tell you, whatever you ask the Father in My name, He will give you."
+jesus_said: "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you."
+greek: "καὶ ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐμὲ οὐκ ἐρωτήσετε οὐδέν.¶ Ἀμὴν ἀμὴν λέγω ὑμῖν· ὅτι ἄν τι αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου δώσει ὑμῖν."
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2065]]"
+- "[[G3762]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G0154]]"
+- "[[G3962]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1325]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 16:23**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give [it] you.
 <small><sub>**BSB:**</sub></small>
 In that day you will no longer ask Me anything. Truly, truly, I tell you, whatever you ask the Father in My name, He will give you.
-<small><sub>**Literal:**</sub></small>
-And in that [very] <the> day of Me myself not you will ask no [thing]. Amen Amen I say to you; that maybe whatever you may ask the Father in the name of Me He will give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.22|<< John 16:22]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.24|John 16:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐκ]]  [[G2065\|ἐρωτήσετε]]  [[G3762\|οὐδέν.¶]]  [[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3754G\|ὅτι]]  [[G0302\|ἄν]]  [[G5100\|τι]]  [[G0154\|αἰτήσητε]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G1325\|δώσει]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.22|<< John 16:22]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.24|John 16:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

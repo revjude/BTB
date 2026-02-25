@@ -1,8 +1,65 @@
+---
+title: Psalm 78:50
+type: Verse
+kjv: "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;"
+bsb: "He cleared a path for His anger; He did not spare them from death but delivered their lives to the plague."
+hebrew: "יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא־ חָשַׂ֣ךְ מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MURRAIN (A DISEASE OF LIVESTOCK)|MURRAIN (A DISEASE OF LIVESTOCK)]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6424]]"
+- "[[H5410A]]"
+- "[[H9005]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2820]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H5315I]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H1698]]"
+- "[[H5462]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:50**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
 <small><sub>**BSB:**</sub></small>
 He cleared a path for His anger; He did not spare them from death but delivered their lives to the plague.
+<small><sub>**Hebrew:**</sub></small>
+[[H6424\|יְפַלֵּ֥ס]] [[H5410A\|נָתִ֗יב]] [[H9005\|לְ]][[H0639G\|אַ֫פּ֥]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H2820\|חָשַׂ֣ךְ]] [[H9006\|מִ]][[H4194\|מָּ֣וֶת]] [[H5315I\|נַפְשָׁ֑]][[H9028\|ם]] [[H9002\|וְ֝]][[H2416C\|חַיָּתָ֗]][[H9028\|ם]] [[H9005\|לַ]][[H1698\|דֶּ֥בֶר]] [[H5462\|הִסְגִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic DEATH|DEATH]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic MURRAIN (A DISEASE OF LIVESTOCK)|MURRAIN (A DISEASE OF LIVESTOCK)]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.49|<< Psalms 78:49]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.51|Psalms 78:51 >>]]</td></tr></table>
 

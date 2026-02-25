@@ -1,8 +1,61 @@
+---
+title: Hosea 2:3
+type: Verse
+kjv: "Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst."
+bsb: "Otherwise, I will strip her naked and expose her like the day of her birth. I will make her like a desert and turn her into a parched land, and I will let her die of thirst."
+hebrew: "פֶּן־ אַפְשִׁיטֶ֣נָּה עֲרֻמָּ֔ה וְהִ֨צַּגְתִּ֔יהָ כְּי֖וֹם הִוָּֽלְדָ֑הּ וְשַׂמְתִּ֣יהָ כַמִּדְבָּ֗ר וְשַׁתִּ֙הָ֙ כְּאֶ֣רֶץ צִיָּ֔ה וַהֲמִתִּ֖יהָ בַּצָּמָֽא׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H6584]]"
+- "[[H9034]]"
+- "[[H6174]]"
+- "[[H9001]]"
+- "[[H3322]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H3205]]"
+- "[[H9044]]"
+- "[[H7760A]]"
+- "[[H4057B]]"
+- "[[H7896G]]"
+- "[[H0776G]]"
+- "[[H6723]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H6772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:3**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.
 <small><sub>**BSB:**</sub></small>
 Otherwise, I will strip her naked and expose her like the day of her birth. I will make her like a desert and turn her into a parched land, and I will let her die of thirst.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H6584\|אַפְשִׁיטֶ֣]][[H9034\|נָּה]] [[H6174\|עֲרֻמָּ֔ה]] [[H9001\|וְ]][[H3322\|הִ֨צַּגְתִּ֔י]][[H9034\|הָ]] [[H9004\|כְּ]][[H3117G\|י֖וֹם]] [[H3205\|הִוָּֽלְדָ֑]][[H9044\|הּ]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֣י]][[H9034\|הָ]] [[H9004\|כַ]][[H4057B\|מִּדְבָּ֗ר]] [[H9001\|וְ]][[H7896G\|שַׁתִּ֙]][[H9034\|הָ֙]] [[H9004\|כְּ]][[H0776G\|אֶ֣רֶץ]] [[H6723\|צִיָּ֔ה]] [[H9001\|וַ]][[H4191\|הֲמִתִּ֖י]][[H9034\|הָ]] [[H9003\|בַּ]][[H6772\|צָּמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.2|<< Hosea 2:2]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.4|Hosea 2:4 >>]]</td></tr></table>
 

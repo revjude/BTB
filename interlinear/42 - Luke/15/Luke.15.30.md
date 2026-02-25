@@ -1,10 +1,68 @@
+---
+title: Luke 15:30
+type: Verse
+kjv: "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+bsb: "But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’"
+jesus_said: "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+greek: "ὅτε δὲ ὁ υἱός σου οὗτος ὁ καταφαγών σου τὸν βίον μετὰ τῶν πορνῶν ἦλθεν, ἔθυσας αὐτῷ τὸν σιτευτὸν τὸν μόσχον.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G2719]]"
+- "[[G0979]]"
+- "[[G3326]]"
+- "[[G4204]]"
+- "[[G2064]]"
+- "[[G2380]]"
+- "[[G0846]]"
+- "[[G4618]]"
+- "[[G3448]]"
+texts:
+- NKO
+- o
+- k
+---
+
 **Luke 15:30**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
 <small><sub>**BSB:**</sub></small>
 But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’
-<small><sub>**Literal:**</sub></small>
-When however the son of you this the [one] having devoured your <the> living with <the> prostitutes came, you have killed for him the fattened <the> calf.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.29|<< Luke 15:29]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.31|Luke 15:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G4771\|σου]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G2719\|καταφαγών]]  [[G4771\|σου]]  [[G3588\|τὸν]]  [[G0979\|βίον]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G4204\|πορνῶν]]  [[G2064\|ἦλθεν,]]  [[G2380\|ἔθυσας]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸν]]  [[G4618\|σιτευτὸν]]  [[G3588\|τὸν]]  [[G3448\|μόσχον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.29|<< Luke 15:29]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.31|Luke 15:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

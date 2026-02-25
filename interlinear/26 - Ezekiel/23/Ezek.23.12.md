@@ -1,8 +1,63 @@
+---
+title: Ezekiel 23:12
+type: Verse
+kjv: "She doted upon the Assyrians her neighbours, captains and rulers clothed most gorgeously, horsemen riding upon horses, all of them desirable young men."
+bsb: "She too lusted after the Assyrians—governors and commanders, warriors dressed in splendor, horsemen riding on steeds, all desirable young men."
+hebrew: "אֶל־ בְּנֵי֩ אַשּׁ֨וּר עָגָ֜בָה פַּח֨וֹת וּסְגָנִ֤ים קְרֹבִים֙ לְבֻשֵׁ֣י מִכְל֔וֹל פָּרָשִׁ֖ים רֹכְבֵ֣י סוּסִ֑ים בַּח֥וּרֵי חֶ֖מֶד כֻּלָּֽם׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0804G]]"
+- "[[H5689]]"
+- "[[H6346]]"
+- "[[H9002]]"
+- "[[H5461]]"
+- "[[H7138]]"
+- "[[H3847]]"
+- "[[H4358]]"
+- "[[H6571B]]"
+- "[[H7392]]"
+- "[[H5483M]]"
+- "[[H0970]]"
+- "[[H2531]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:12**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She doted upon the Assyrians [her] neighbours, captains and rulers clothed most gorgeously, horsemen riding upon horses, all of them desirable young men.
 <small><sub>**BSB:**</sub></small>
 She too lusted after the Assyrians—governors and commanders, warriors dressed in splendor, horsemen riding on steeds, all desirable young men.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵי֩]] [[H0804G\|אַשּׁ֨וּר]] [[H5689\|עָגָ֜בָה]] [[H6346\|פַּח֨וֹת]] [[H9002\|וּ]][[H5461\|סְגָנִ֤ים]] [[H7138\|קְרֹבִים֙]] [[H3847\|לְבֻשֵׁ֣י]] [[H4358\|מִכְל֔וֹל]] [[H6571B\|פָּרָשִׁ֖ים]] [[H7392\|רֹכְבֵ֣י]] [[H5483M\|סוּסִ֑ים]] [[H0970\|בַּח֥וּרֵי]] [[H2531\|חֶ֖מֶד]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.11|<< Ezekiel 23:11]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.13|Ezekiel 23:13 >>]]</td></tr></table>
 

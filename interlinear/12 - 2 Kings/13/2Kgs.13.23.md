@@ -1,8 +1,68 @@
+---
+title: 2 Kings 13:23
+type: Verse
+kjv: "And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet."
+bsb: "But the LORD was gracious to Israel and had compassion on them, and He turned toward them because of His covenant with Abraham, Isaac, and Jacob. And to this day, the LORD has been unwilling to destroy them or cast them from His presence."
+hebrew: "וַיָּחָן֩ יְהוָ֨ה אֹתָ֤ם וַֽיְרַחֲמֵם֙ וַיִּ֣פֶן אֲלֵיהֶ֔ם לְמַ֣עַן בְּרִית֔וֹ אֶת־ אַבְרָהָ֖ם יִצְחָ֣ק וְיַֽעֲקֹ֑ב וְלֹ֤א אָבָה֙ הַשְׁחִיתָ֔ם וְלֹֽא־ הִשְׁלִיכָ֥ם מֵֽעַל־ פָּנָ֖יו עַד־ עָֽתָּה׃"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2603A]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H7355]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H4616]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H7843]]"
+- "[[H7993]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:23**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.
 <small><sub>**BSB:**</sub></small>
 But the LORD was gracious to Israel and had compassion on them, and He turned toward them because of His covenant with Abraham, Isaac, and Jacob. And to this day, the LORD has been unwilling to destroy them or cast them from His presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2603A\|יָּחָן֩]] [[H3068G\|יְהוָ֨ה]] [[H0854\|אֹתָ֤]][[H9038\|ם]] [[H9001\|וַֽ]][[H7355\|יְרַחֲמֵ]][[H9038\|ם֙]] [[H9001\|וַ]][[H6437G\|יִּ֣פֶן]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H4616\|לְמַ֣עַן]] [[H1285\|בְּרִית֔]][[H9023\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָ֖ם]] [[H3327\|יִצְחָ֣ק]] [[H9002\|וְ]][[H3290\|יַֽעֲקֹ֑ב]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0014\|אָבָה֙]] [[H7843\|הַשְׁחִיתָ֔]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7993\|הִשְׁלִיכָ֥]][[H9038\|ם]] [[H9006\|מֵֽ]][[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H6258\|עָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEHOASH|JEHOASH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.22|<< 2 Kings 13:22]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.24|2 Kings 13:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Conquest of Canaan Proceeds
+type: Pericope
 pericope: "[[Judg.1.1 The Conquest of Canaan Proceeds|The Conquest of Canaan Proceeds]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 1
 book/chapter: "[[Judg.1|Judges 1]]"
-genre:
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 7
 verses:
 - "[[Judg.1.1]]"
 - "[[Judg.1.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Judg.1.7]]"
 ---
 
-[[Judg.1|Judges 1:1 - Judges 1:7]]
+<small>[[Judg.1|Judges 1:1-7]]</small>
 *The Conquest of Canaan Proceeds*
 
 [[Judg.1.1|1]] Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?

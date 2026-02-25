@@ -1,8 +1,68 @@
+---
+title: 1 Kings 22:26
+type: Verse
+kjv: "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;"
+bsb: "And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,"
+hebrew: "וַיֹּ֙אמֶר֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל קַ֚ח אֶת־ מִיכָ֔יְהוּ וַהֲשִׁיבֵ֖הוּ אֶל־ אָמֹ֣ן שַׂר־ הָעִ֑יר וְאֶל־ יוֹאָ֖שׁ בֶּן־ הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic AMON|AMON]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4321G]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H0526G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3101H]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:26**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;
 <small><sub>**BSB:**</sub></small>
 And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3947G\|קַ֚ח]] [[H0853\|אֶת]][[H9014\|־]] [[H4321G\|מִיכָ֔יְהוּ]] [[H9002\|וַ]][[H7725G\|הֲשִׁיבֵ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0526G\|אָמֹ֣ן]] [[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3101H\|יוֹאָ֖שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic AMON|AMON]] • [[topic ARMIES|ARMIES]] • [[topic JOASH|JOASH]] • [[topic MICAIAH|MICAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.25|<< 1 Kings 22:25]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.27|1 Kings 22:27 >>]]</td></tr></table>
 

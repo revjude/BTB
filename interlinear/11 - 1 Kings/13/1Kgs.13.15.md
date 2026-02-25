@@ -1,8 +1,59 @@
+---
+title: 1 Kings 13:15
+type: Verse
+kjv: "Then he said unto him, Come home with me, and eat bread."
+bsb: "So the prophet said to the man of God, “Come home with me and eat some bread.”"
+hebrew: "וַיֹּ֣אמֶר אֵלָ֔יו לֵ֥ךְ אִתִּ֖י הַבָּ֑יְתָה וֶאֱכֹ֖ל לָֽחֶם׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1980H]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:15**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said unto him, Come home with me, and eat bread.
 <small><sub>**BSB:**</sub></small>
 So the prophet said to the man of God, “Come home with me and eat some bread.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H1980H\|לֵ֥ךְ]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9002\|וֶ]][[H0398\|אֱכֹ֖ל]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.14|<< 1 Kings 13:14]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.16|1 Kings 13:16 >>]]</td></tr></table>
 

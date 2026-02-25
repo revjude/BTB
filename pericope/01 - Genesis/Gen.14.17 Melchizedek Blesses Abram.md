@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Melchizedek Blesses Abram
+type: Pericope
 pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 14
 book/chapter: "[[Gen.14|Genesis 14]]"
-genre:
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.14.17]]"
 - "[[Gen.14.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.14.24]]"
 ---
 
-[[Gen.14|Genesis 14:17 - Genesis 14:24]]
+<small>[[Gen.14|Genesis 14:17-24]]</small>
 *Melchizedek Blesses Abram*
 
 [[Gen.14.17|17]] And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that \[were\] with him, at the valley of Shaveh, which \[is\] the king’s dale.

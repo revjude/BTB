@@ -1,10 +1,64 @@
+---
+title: Acts 8:39
+type: Verse
+kjv: "And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing."
+bsb: "When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing."
+greek: "ὅτε δὲ ἀνέβησαν ἐκ τοῦ ὕδατος, πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον, καὶ οὐκ εἶδεν αὐτὸν οὐκέτι οὐκέτι ὁ εὐνοῦχος· ἐπορεύετο γὰρ τὴν ὁδὸν αὐτοῦ χαίρων.¶"
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G0305]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G4151G]]"
+- "[[G2962G]]"
+- "[[G0726]]"
+- "[[G5376J]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G2089]]"
+- "[[G2135]]"
+- "[[G4198]]"
+- "[[G1063]]"
+- "[[G3598]]"
+- "[[G5463]]"
+texts:
+- NKO
+---
+
 **Acts 8:39**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
 <small><sub>**BSB:**</sub></small>
 When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing.
-<small><sub>**Literal:**</sub></small>
-When now they came up out of the water, [the] Spirit of [the] Lord carried away <the> Philip, and not saw him no longer the eunuch; he was going for the way of him rejoicing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.38|<< Acts 8:38]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.40|Acts 8:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G0305\|ἀνέβησαν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος,]]  [[G4151G\|πνεῦμα]]  [[G2962G\|κυρίου]]  [[G0726\|ἥρπασεν]]  [[G3588\|τὸν]]  [[G5376J\|Φίλιππον,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδεν]]  [[G0846\|αὐτὸν]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3588\|ὁ]]  [[G2135\|εὐνοῦχος·]]  [[G4198\|ἐπορεύετο]]  [[G1063\|γὰρ]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G0846\|αὐτοῦ]]  [[G5463\|χαίρων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GAZA|GAZA]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILIP|PHILIP]] • [[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.38|<< Acts 8:38]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.40|Acts 8:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

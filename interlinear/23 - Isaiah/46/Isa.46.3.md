@@ -1,8 +1,58 @@
+---
+title: Isaiah 46:3
+type: Verse
+kjv: "Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:"
+bsb: "“Listen to Me, O house of Jacob, all the remnant of the house of Israel, who have been sustained from the womb, carried along since birth."
+hebrew: "שִׁמְע֤וּ אֵלַי֙ בֵּ֣ית יַעֲקֹ֔ב וְכָל־ שְׁאֵרִ֖ית בֵּ֣ית יִשְׂרָאֵ֑ל הַֽעֲמֻסִים֙ מִנִּי־ בֶ֔טֶן הַנְּשֻׂאִ֖ים מִנִּי־ רָֽחַם׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7611]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H6006]]"
+- "[[H4480A]]"
+- "[[H0990H]]"
+- "[[H5375H]]"
+- "[[H7356A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:3**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne [by me] from the belly, which are carried from the womb:
 <small><sub>**BSB:**</sub></small>
 “Listen to Me, O house of Jacob, all the remnant of the house of Israel, who have been sustained from the womb, carried along since birth.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֤וּ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֖ית]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9009\|הַֽ]][[H6006\|עֲמֻסִים֙]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H0990H\|בֶ֔טֶן]] [[H9009\|הַ]][[H5375H\|נְּשֻׂאִ֖ים]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H7356A\|רָֽחַם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.2|<< Isaiah 46:2]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.4|Isaiah 46:4 >>]]</td></tr></table>
 

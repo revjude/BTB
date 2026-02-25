@@ -1,8 +1,56 @@
+---
+title: Job 9:17
+type: Verse
+kjv: "For he breaketh me with a tempest, and multiplieth my wounds without cause."
+bsb: "For He would crush me with a tempest and multiply my wounds without cause."
+hebrew: "אֲשֶׁר־ בִּשְׂעָרָ֥ה יְשׁוּפֵ֑נִי וְהִרְבָּ֖ה פְצָעַ֣י חִנָּֽם׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8183]]"
+- "[[H7779]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H6482]]"
+- "[[H9020]]"
+- "[[H2600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:17**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he breaketh me with a tempest, and multiplieth my wounds without cause.
 <small><sub>**BSB:**</sub></small>
 For He would crush me with a tempest and multiply my wounds without cause.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בִּ]][[H8183\|שְׂעָרָ֥ה]] [[H7779\|יְשׁוּפֵ֑]][[H9030\|נִי]] [[H9001\|וְ]][[H7235A\|הִרְבָּ֖ה]] [[H6482\|פְצָעַ֣]][[H9020\|י]] [[H2600\|חִנָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.16|<< Job 9:16]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.18|Job 9:18 >>]]</td></tr></table>
 

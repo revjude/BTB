@@ -1,8 +1,73 @@
+---
+title: Exodus 11:7
+type: Verse
+kjv: "But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel."
+bsb: "But among all the Israelites, not even a dog will snarl at man or beast.’ Then you will know that the LORD makes a distinction between Egypt and Israel."
+hebrew: "וּלְכֹ֣ל׀ בְּנֵ֣י יִשְׂרָאֵ֗ל לֹ֤א יֶֽחֱרַץ־ כֶּ֙לֶב֙ לְשֹׁנ֔וֹ לְמֵאִ֖ישׁ וְעַד־ בְּהֵמָ֑ה לְמַ֙עַן֙ תֵּֽדְע֔וּן אֲשֶׁר֙ יַפְלֶ֣ה יְהוָ֔ה בֵּ֥ין מִצְרַ֖יִם וּבֵ֥ין יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H2782]]"
+- "[[H9014]]"
+- "[[H3611]]"
+- "[[H3956G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H0834A]]"
+- "[[H6395]]"
+- "[[H3068G]]"
+- "[[H0996G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 11:7**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel.
 <small><sub>**BSB:**</sub></small>
 But among all the Israelites, not even a dog will snarl at man or beast.’ Then you will know that the LORD makes a distinction between Egypt and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3808\|לֹ֤א]] [[H2782\|יֶֽחֱרַץ]][[H9014\|־]] [[H3611\|כֶּ֙לֶב֙]] [[H3956G\|לְשֹׁנ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H9006\|מֵ]][[H0376G\|אִ֖ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָ֑ה]] [[H4616\|לְמַ֙עַן֙]] [[H3045\|תֵּֽדְע֔וּ]][[H9013\|ן]] [[H0834A\|אֲשֶׁר֙]] [[H6395\|יַפְלֶ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H0996G\|בֵּ֥ין]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.6|<< Exodus 11:6]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.8|Exodus 11:8 >>]]</td></tr></table>
 

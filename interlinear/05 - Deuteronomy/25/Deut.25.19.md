@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 25:19
+type: Verse
+kjv: "Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it."
+bsb: "When the LORD your God gives you rest from the enemies around you in the land that He is giving you to possess as an inheritance, you are to blot out the memory of Amalek from under heaven. Do not forget!"
+hebrew: "וְהָיָ֡ה בְּהָנִ֣יחַ יְהוָ֣ה אֱלֹהֶ֣יךָ׀ לְ֠ךָ מִכָּל־ אֹ֨יְבֶ֜יךָ מִסָּבִ֗יב בָּאָ֙רֶץ֙ אֲשֶׁ֣ר יְהוָֽה־ אֱ֠לֹהֶיךָ נֹתֵ֨ן לְךָ֤ נַחֲלָה֙ לְרִשְׁתָּ֔הּ תִּמְחֶה֙ אֶת־ זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָ֑יִם לֹ֖א תִּשְׁכָּֽח׃ פ"
+pericope: "[[Deut.25.17 Revenge on the Amalekites|Revenge on the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H5439G]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H5159]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H4229A]]"
+- "[[H0853]]"
+- "[[H2143]]"
+- "[[H6002G]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:19**<big><big>[[Deut.25.17 Revenge on the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee [for] an inheritance to possess it, [that] thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget [it].
 <small><sub>**BSB:**</sub></small>
 When the LORD your God gives you rest from the enemies around you in the land that He is giving you to possess as an inheritance, you are to blot out the memory of Amalek from under heaven. Do not forget!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H9003\|בְּ]][[H5117\|הָנִ֣יחַ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֣י]][[H9021\|ךָ]][[H9015\|׀]] [[H9005\|לְ֠]][[H9031\|ךָ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹ֨יְבֶ֜י]][[H9021\|ךָ]] [[H9006\|מִ]][[H5439G\|סָּבִ֗יב]] [[H9003\|בָּ]][[H0776G\|אָ֙רֶץ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱ֠לֹהֶי]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֨ן]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H5159\|נַחֲלָה֙]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֔]][[H9034\|הּ]] [[H4229A\|תִּמְחֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2143\|זֵ֣כֶר]] [[H6002G\|עֲמָלֵ֔ק]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H3808\|לֹ֖א]] [[H7911\|תִּשְׁכָּֽח]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.18|<< Deuteronomy 25:18]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.1|Deuteronomy 26:1 >>]]</td></tr></table>
 
@@ -31,7 +101,7 @@ When the LORD your God gives you rest from the enemies around you in the land th
 | from under  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8478G\|תַּ֖חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמָ֑יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will forget  |**<big>&#8207;[[H7911\|תִּשְׁכָּֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tish.Kach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will forget  |**<big>&#8207;[[H7911\|תִּשְׁכָּֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tish.Kach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.18|<< Deuteronomy 25:18]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.1|Deuteronomy 26:1 >>]]</td></tr></table>
 
 

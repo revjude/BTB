@@ -1,8 +1,66 @@
+---
+title: Judges 19:16
+type: Verse
+kjv: "And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites."
+bsb: "That evening an old man from the hill country of Ephraim, who was residing in Gibeah (the men of that place were Benjamites), came in from his work in the field."
+hebrew: "וְהִנֵּ֣ה׀ אִ֣ישׁ זָקֵ֗ן בָּ֣א מִֽן־ מַעֲשֵׂ֤הוּ מִן־ הַשָּׂדֶה֙ בָּעֶ֔רֶב וְהָאִישׁ֙ מֵהַ֣ר אֶפְרַ֔יִם וְהוּא־ גָ֖ר בַּגִּבְעָ֑ה וְאַנְשֵׁ֥י הַמָּק֖וֹם בְּנֵ֥י יְמִינִֽי׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H2205H]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9003]]"
+- "[[H6153]]"
+- "[[H9006]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H1931]]"
+- "[[H1481A]]"
+- "[[H1390H]]"
+- "[[H0582]]"
+- "[[H4725]]"
+- "[[H1145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:16**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there came an old man from his work out of the field at even, which [was] also of mount Ephraim; and he sojourned in Gibeah: but the men of the place [were] Benjamites.
 <small><sub>**BSB:**</sub></small>
 That evening an old man from the hill country of Ephraim, who was residing in Gibeah (the men of that place were Benjamites), came in from his work in the field.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H2205H\|זָקֵ֗ן]] [[H0935G\|בָּ֣א]] [[H4480A\|מִֽן]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֤]][[H9023\|הוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H9003\|בָּ]][[H6153\|עֶ֔רֶב]] [[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9006\|מֵ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H1931\|הוּא]][[H9014\|־]] [[H1481A\|גָ֖ר]] [[H9003\|בַּ]][[H1390H\|גִּבְעָ֑ה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֥י]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H1145\|בְּנֵ֥י]] [[H1145\|יְמִינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GIBEAH|GIBEAH]] • [[topic HOSPITALITY|HOSPITALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.15|<< Judges 19:15]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.17|Judges 19:17 >>]]</td></tr></table>
 

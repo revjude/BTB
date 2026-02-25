@@ -1,8 +1,56 @@
+---
+title: Nahum 3:7
+type: Verse
+kjv: "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"
+bsb: "Then all who see you will recoil from you and say, ‘Nineveh is devastated; who will grieve for her?’ Where can I find comforters for you?”"
+hebrew: "וְהָיָ֤ה כָל־ רֹאַ֙יִךְ֙ יִדּ֣וֹד מִמֵּ֔ךְ וְאָמַר֙ שָׁדְּדָ֣ה נִֽינְוֵ֔ה מִ֖י יָנ֣וּד לָ֑הּ מֵאַ֛יִן אֲבַקֵּ֥שׁ מְנַחֲמִ֖ים לָֽךְ׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9032]]"
+- "[[H5074]]"
+- "[[H4480A]]"
+- "[[H0559]]"
+- "[[H7703]]"
+- "[[H5210]]"
+- "[[H4310]]"
+- "[[H5110]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H1245]]"
+- "[[H5162G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:7**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?
 <small><sub>**BSB:**</sub></small>
 Then all who see you will recoil from you and say, ‘Nineveh is devastated; who will grieve for her?’ Where can I find comforters for you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H3605\|כָל]][[H9014\|־]] [[H7200G\|רֹאַ֙יִ]][[H9032\|ךְ֙]] [[H5074\|יִדּ֣וֹד]] [[H4480A\|מִמֵּ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H7703\|שָׁדְּדָ֣ה]] [[H5210\|נִֽינְוֵ֔ה]] [[H4310\|מִ֖י]] [[H5110\|יָנ֣וּד]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9006\|מֵ]][[H0370\|אַ֛יִן]] [[H1245\|אֲבַקֵּ֥שׁ]] [[H5162G\|מְנַחֲמִ֖ים]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.6|<< Nahum 3:6]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.8|Nahum 3:8 >>]]</td></tr></table>
 

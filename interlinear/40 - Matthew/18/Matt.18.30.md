@@ -1,10 +1,63 @@
+---
+title: Matthew 18:30
+type: Verse
+kjv: "And he would not: but went and cast him into prison, till he should pay the debt."
+bsb: "But he refused. Instead, he went and had the man thrown into prison until he could pay his debt."
+jesus_said: "And he would not: but went and cast him into prison, till he should pay the debt."
+greek: "ὁ δὲ οὐκ ἤθελεν, ἀλλ᾽ ἀπελθὼν ἔβαλεν αὐτὸν εἰς φυλακὴν ἕως οὗ ἀποδῷ τὸ ὀφειλόμενον.¶"
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic IMPRISONMENT|IMPRISONMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G0235]]"
+- "[[G0565]]"
+- "[[G0906H]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0591]]"
+- "[[G3784]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 18:30**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he would not: but went and cast him into prison, till he should pay the debt.
 <small><sub>**BSB:**</sub></small>
 But he refused. Instead, he went and had the man thrown into prison until he could pay his debt.
-<small><sub>**Literal:**</sub></small>
-<the> But not he was willing, but having gone he cast him into prison until what of him he may pay that which is being owed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.29|<< Matthew 18:29]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.31|Matthew 18:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G2309\|ἤθελεν,]]  [[G0235\|ἀλλ᾽]]  [[G0565\|ἀπελθὼν]]  [[G0906H\|ἔβαλεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G5438G\|φυλακὴν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0591\|ἀποδῷ]]  [[G3588\|τὸ]]  [[G3784\|ὀφειλόμενον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic IMPRISONMENT|IMPRISONMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MALICE|MALICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.29|<< Matthew 18:29]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.31|Matthew 18:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

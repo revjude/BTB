@@ -1,8 +1,82 @@
+---
+title: Numbers 22:5
+type: Verse
+kjv: "He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:"
+bsb: "he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people. “Behold, a people has come out of Egypt,” said Balak. “They cover the face of the land and have settled next to me."
+hebrew: "וַיִּשְׁלַ֨ח מַלְאָכִ֜ים אֶל־ בִּלְעָ֣ם בֶּן־ בְּע֗וֹר פְּ֠תוֹרָה אֲשֶׁ֧ר עַל־ הַנָּהָ֛ר אֶ֥רֶץ בְּנֵי־ עַמּ֖וֹ לִקְרֹא־ ל֑וֹ לֵאמֹ֗ר הִ֠נֵּה עַ֣ם יָצָ֤א מִמִּצְרַ֙יִם֙ הִנֵּ֤ה כִסָּה֙ אֶת־ עֵ֣ין הָאָ֔רֶץ וְה֥וּא יֹשֵׁ֖ב מִמֻּלִֽי׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic BALAK|BALAK]]"
+- "[[topic BEOR|BEOR]]"
+- "[[topic PETHOR|PETHOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H1121A]]"
+- "[[H1160H]]"
+- "[[H6604]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H5869J]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H4136]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:5**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent messengers therefore unto Balaam the son of Beor to Pethor, which [is] by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
 <small><sub>**BSB:**</sub></small>
 he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people. “Behold, a people has come out of Egypt,” said Balak. “They cover the face of the land and have settled next to me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H4397G\|מַלְאָכִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160H\|בְּע֗וֹר]] [[H6604\|פְּ֠תוֹרָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5104G\|נָּהָ֛ר]] [[H0776G\|אֶ֥רֶץ]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9005\|לִ]][[H7121G\|קְרֹא]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H2009\|הִ֠נֵּה]] [[H5971A\|עַ֣ם]] [[H3318G\|יָצָ֤א]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H2009\|הִנֵּ֤ה]] [[H3680\|כִסָּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5869J\|עֵ֣ין]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3427\|יֹשֵׁ֖ב]] [[H9006\|מִ]][[H4136\|מֻּלִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic BALAK|BALAK]] • [[topic BEOR|BEOR]] • [[topic PETHOR|PETHOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.4|<< Numbers 22:4]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.6|Numbers 22:6 >>]]</td></tr></table>
 

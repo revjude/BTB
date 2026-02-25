@@ -1,8 +1,62 @@
+---
+title: Isaiah 65:15
+type: Verse
+kjv: "And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:"
+bsb: "You will leave behind your name as a curse for My chosen ones, and the Lord GOD will slay you; but to His servants He will give another name."
+hebrew: "וְהִנַּחְתֶּ֨ם שִׁמְכֶ֤ם לִשְׁבוּעָה֙ לִבְחִירַ֔י וֶהֱמִיתְךָ֖ אֲדֹנָ֣י יְהוִ֑ה וְלַעֲבָדָ֥יו יִקְרָ֖א שֵׁ֥ם אַחֵֽר׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H8034]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H7621]]"
+- "[[H0972]]"
+- "[[H9020]]"
+- "[[H4191]]"
+- "[[H9031]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H7121H]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:15**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:
 <small><sub>**BSB:**</sub></small>
 You will leave behind your name as a curse for My chosen ones, and the Lord GOD will slay you; but to His servants He will give another name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5117\|הִנַּחְתֶּ֨ם]] [[H8034\|שִׁמְ]][[H9026\|כֶ֤ם]] [[H9005\|לִ]][[H7621\|שְׁבוּעָה֙]] [[H9005\|לִ]][[H0972\|בְחִירַ֔]][[H9020\|י]] [[H9001\|וֶ]][[H4191\|הֱמִיתְ]][[H9031\|ךָ֖]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9002\|וְ]][[H9005\|לַ]][[H5650\|עֲבָדָ֥י]][[H9023\|ו]] [[H7121H\|יִקְרָ֖א]] [[H8034\|שֵׁ֥ם]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.14|<< Isaiah 65:14]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.16|Isaiah 65:16 >>]]</td></tr></table>
 

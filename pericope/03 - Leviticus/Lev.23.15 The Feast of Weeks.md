@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Weeks
+type: Pericope
 pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 23
 book/chapter: "[[Lev.23|Leviticus 23]]"
-genre:
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 8
 verses:
 - "[[Lev.23.15]]"
 - "[[Lev.23.16]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Lev.23.22]]"
 ---
 
-[[Lev.23|Leviticus 23:15 - Leviticus 23:22]]
+<small>[[Lev.23|Leviticus 23:15-22]]</small>
 *The Feast of Weeks*
 
 [[Lev.23.15|15]] And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:

@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 20:4
+type: Verse
+kjv: "Then said the king to Amasa, Assemble me the men of Judah within three days, and be thou here present."
+bsb: "Then the king said to Amasa, “Summon the men of Judah to come to me within three days, and be here yourself.”"
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־ עֲמָשָׂ֔א הַזְעֶק־ לִ֥י אֶת־ אִישׁ־ יְהוּדָ֖ה שְׁלֹ֣שֶׁת יָמִ֑ים וְאַתָּ֖ה פֹּ֥ה עֲמֹֽד׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MUSTER|MUSTER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6021G]]"
+- "[[H2199]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H6311]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:4**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the king to Amasa, Assemble me the men of Judah within three days, and be thou here present.
 <small><sub>**BSB:**</sub></small>
 Then the king said to Amasa, “Summon the men of Judah to come to me within three days, and be here yourself.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6021G\|עֲמָשָׂ֔א]] [[H2199\|הַזְעֶק]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֑ים]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H6311\|פֹּ֥ה]] [[H5975G\|עֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic DAVID|DAVID]] • [[topic MUSTER|MUSTER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.3|<< 2 Samuel 20:3]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.5|2 Samuel 20:5 >>]]</td></tr></table>
 

@@ -3,9 +3,9 @@
 
 → The occasion of feuds
 
-- Between Abraham and Abimelech [[Gen.21.25|Ge 21:25]]-[[Gen.21.30|30]]
+- Between Abraham and Abimelech [[Gen.21.25|Ge 21:25-30]]
 
-- Between Isaac and Abimelech [[Gen.26.15|Ge 26:15]]-[[Gen.26.22|22]],[[Gen.26.32|32]],[[Gen.26.33|33]]
+- Between Isaac and Abimelech [[Gen.26.15|Ge 26:15-22]],[[Gen.26.32|32]],[[Gen.26.33|33]]
 
 → Of Jacob [[John.4.6|Joh 4:6]]
 

@@ -1,8 +1,75 @@
+---
+title: Nehemiah 9:6
+type: Verse
+kjv: "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee."
+bsb: "You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You."
+hebrew: "אַתָּה־ ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ אַתָּ֣ה עָשִׂ֡יתָ אֶֽת־ הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל־ צְבָאָ֗ם הָאָ֜רֶץ וְכָל־ אֲשֶׁ֤ר עָלֶ֙יהָ֙ הַיַּמִּים֙ וְכָל־ אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת־ כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H0859C]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H2421]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nehemiah 9:6**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.
 <small><sub>**BSB:**</sub></small>
 You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H3068G\|יְהוָה֮]] [[H9005\|לְ]][[H0905H\|בַדֶּ]][[H9031\|ךָ֒]] [[H0859A\|אַתָּ֣ה]] [[H6213H\|עָשִׂ֡יתָ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַיִם֩]] [[H8064\|שְׁמֵ֨י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6635A\|צְבָאָ֗]][[H9028\|ם]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H9009\|הַ]][[H3220G\|יַּמִּים֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H2421\|מְחַיֶּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּ֑]][[H9028\|ם]] [[H9002\|וּ]][[H6635A\|צְבָ֥א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H7812\|מִשְׁתַּחֲוִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 

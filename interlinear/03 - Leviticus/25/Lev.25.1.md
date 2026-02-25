@@ -1,8 +1,57 @@
+---
+title: Leviticus 25:1
+type: Verse
+kjv: "And the LORD spake unto Moses in mount Sinai, saying,"
+bsb: "Then the LORD said to Moses on Mount Sinai,"
+hebrew: "וַיְדַבֵּ֤ר יְהוָה֙ אֶל־ מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:1**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses in mount Sinai, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses on Mount Sinai,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H5514G\|סִינַ֖י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.23|<< Leviticus 24:23]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.2|Leviticus 25:2 >>]]</td></tr></table>
 

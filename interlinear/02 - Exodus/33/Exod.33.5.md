@@ -1,8 +1,79 @@
+---
+title: Exodus 33:5
+type: Verse
+kjv: "For the LORD had said unto Moses, Say unto the children of Israel, Ye are a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee."
+bsb: "For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I should go with you for a single moment, I would destroy you. Now take off your jewelry, and I will decide what to do with you.’”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה אֱמֹ֤ר אֶל־ בְּנֵֽי־ יִשְׂרָאֵל֙ אַתֶּ֣ם עַם־ קְשֵׁה־ עֹ֔רֶף רֶ֧גַע אֶחָ֛ד אֶֽעֱלֶ֥ה בְקִרְבְּךָ֖ וְכִלִּיתִ֑יךָ וְעַתָּ֗ה הוֹרֵ֤ד עֶדְיְךָ֙ מֵֽעָלֶ֔יךָ וְאֵדְעָ֖ה מָ֥ה אֶֽעֱשֶׂה־ לָּֽךְ׃"
+pericope: "[[Exod.33.1 The Command to Leave Sinai|The Command to Leave Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEWELS|JEWELS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0859D]]"
+- "[[H5971A]]"
+- "[[H7186]]"
+- "[[H6203]]"
+- "[[H7281]]"
+- "[[H0259]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H3615H]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3381]]"
+- "[[H5716]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:5**<big><big>[[Exod.33.1 The Command to Leave Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD had said unto Moses, Say unto the children of Israel, Ye [are] a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.
 <small><sub>**BSB:**</sub></small>
 For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I should go with you for a single moment, I would destroy you. Now take off your jewelry, and I will decide what to do with you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H0559\|אֱמֹ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0859D\|אַתֶּ֣ם]] [[H5971A\|עַם]][[H9014\|־]] [[H7186\|קְשֵׁה]][[H9014\|־]] [[H6203\|עֹ֔רֶף]] [[H7281\|רֶ֧גַע]] [[H0259\|אֶחָ֛ד]] [[H5927G\|אֶֽעֱלֶ֥ה]] [[H9003\|בְ]][[H7130G\|קִרְבְּ]][[H9021\|ךָ֖]] [[H9001\|וְ]][[H3615H\|כִלִּיתִ֑י]][[H9031\|ךָ]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3381\|הוֹרֵ֤ד]] [[H5716\|עֶדְיְ]][[H9021\|ךָ֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3045\|אֵדְעָ֖ה]] [[H4100\|מָ֥ה]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CHARACTER|CHARACTER]] • [[topic ISRAEL|ISRAEL]] • [[topic JEWELS|JEWELS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.4|<< Exodus 33:4]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.6|Exodus 33:6 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: John 9:18
+type: Verse
+kjv: "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight."
+bsb: "The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents"
+greek: "οὐκ ἐπίστευσαν οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι ἦν τυφλὸς καὶ ἀνέβλεψεν ἕως ὅτου ἐφώνησαν τοὺς γονεῖς αὐτοῦ τοῦ ἀναβλέψαντος,"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G5185]]"
+- "[[G2532]]"
+- "[[G0308]]"
+- "[[G2193]]"
+- "[[G3748]]"
+- "[[G5455]]"
+- "[[G1118]]"
+texts:
+- NKO
+---
+
 **John 9:18**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.
 <small><sub>**BSB:**</sub></small>
 The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents
-<small><sub>**Literal:**</sub></small>
-Not did believe then the Jews concerning him that he was being blind and received sight until when they called the parents of him who having received sight,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.17|<< John 9:17]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.19|John 9:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G4100\|ἐπίστευσαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G1510\|ἦν]]  [[G5185\|τυφλὸς]]  [[G2532\|καὶ]]  [[G0308\|ἀνέβλεψεν]]  [[G2193\|ἕως]]  [[G3748\|ὅτου]]  [[G5455\|ἐφώνησαν]]  [[G3588\|τοὺς]]  [[G1118\|γονεῖς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G0308\|ἀναβλέψαντος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.17|<< John 9:17]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.19|John 9:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

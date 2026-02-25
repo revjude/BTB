@@ -1,8 +1,62 @@
+---
+title: Psalm 19:13
+type: Verse
+kjv: "Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression."
+bsb: "Keep Your servant also from willful sins; may they not rule over me. Then I will be blameless and cleansed of great transgression."
+hebrew: "גַּ֤ם מִזֵּדִ֨ים׀ חֲשֹׂ֬ךְ עַבְדֶּ֗ךָ אַֽל־ יִמְשְׁלוּ־ בִ֣י אָ֣ז אֵיתָ֑ם וְ֝נִקֵּ֗יתִי מִפֶּ֥שַֽׁע רָֽב׃"
+pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 19
+book/chapter: "[[Ps.19|Psalm 19]]"
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H2086]]"
+- "[[H9015]]"
+- "[[H2820]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H0227A]]"
+- "[[H8552]]"
+- "[[H9001]]"
+- "[[H5352]]"
+- "[[H6588]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 19:13**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep back thy servant also from presumptuous [sins]; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.
 <small><sub>**BSB:**</sub></small>
 Keep Your servant also from willful sins; may they not rule over me. Then I will be blameless and cleansed of great transgression.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H9006\|מִ]][[H2086\|זֵּדִ֨ים]][[H9015\|׀]] [[H2820\|חֲשֹׂ֬ךְ]] [[H5650\|עַבְדֶּ֗]][[H9021\|ךָ]] [[H0408\|אַֽל]][[H9014\|־]] [[H4910\|יִמְשְׁלוּ]][[H9014\|־]] [[H9003\|בִ֣]][[H9030\|י]] [[H0227A\|אָ֣ז]] [[H8552\|אֵיתָ֑ם]] [[H9001\|וְ֝]][[H5352\|נִקֵּ֗יתִי]] [[H9006\|מִ]][[H6588\|פֶּ֥שַֽׁע]] [[H7227A\|רָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.12|<< Psalms 19:12]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.14|Psalms 19:14 >>]]</td></tr></table>
 

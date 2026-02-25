@@ -1,8 +1,60 @@
+---
+title: Judges 7:9
+type: Verse
+kjv: "And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand."
+bsb: "That night the LORD said to Gideon, “Get up and go down against the camp, for I have delivered it into your hand."
+hebrew: "וַֽיְהִי֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֤אמֶר אֵלָיו֙ יְהוָ֔ה ק֖וּם רֵ֣ד בַּֽמַּחֲנֶ֑ה כִּ֥י נְתַתִּ֖יו בְּיָדֶֽךָ׃"
+pericope: "[[Judg.7.9 The Sword of Gideon|The Sword of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H6965B]]"
+- "[[H3381]]"
+- "[[H4264]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:9**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand.
 <small><sub>**BSB:**</sub></small>
 That night the LORD said to Gideon, “Get up and go down against the camp, for I have delivered it into your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3068G\|יְהוָ֔ה]] [[H6965B\|ק֖וּם]] [[H3381\|רֵ֣ד]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H3588A\|כִּ֥י]] [[H5414G\|נְתַתִּ֖י]][[H9033\|ו]] [[H9003\|בְּ]][[H3027H\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic TRUMPET|TRUMPET]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.8|<< Judges 7:8]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.10|Judges 7:10 >>]]</td></tr></table>
 

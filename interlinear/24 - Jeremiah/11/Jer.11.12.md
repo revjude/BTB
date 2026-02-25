@@ -1,8 +1,68 @@
+---
+title: Jeremiah 11:12
+type: Verse
+kjv: "Then shall the cities of Judah and inhabitants of Jerusalem go, and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble."
+bsb: "Then the cities of Judah and the residents of Jerusalem will go and cry out to the gods to which they have been burning incense, but these gods certainly will not save them in their time of disaster."
+hebrew: "וְהָֽלְכ֞וּ עָרֵ֣י יְהוּדָ֗ה וְיֹשְׁבֵי֙ יְר֣וּשָׁלִַ֔ם וְזָֽעֲקוּ֙ אֶל־ הָ֣אֱלֹהִ֔ים אֲשֶׁ֛ר הֵ֥ם מְקַטְּרִ֖ים לָהֶ֑ם וְהוֹשֵׁ֛עַ לֹֽא־ יוֹשִׁ֥יעוּ לָהֶ֖ם בְּעֵ֥ת רָעָתָֽם׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H6999H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3467]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H7451C]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:12**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the cities of Judah and inhabitants of Jerusalem go, and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble.
 <small><sub>**BSB:**</sub></small>
 Then the cities of Judah and the residents of Jerusalem will go and cry out to the gods to which they have been burning incense, but these gods certainly will not save them in their time of disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980G\|הָֽלְכ֞וּ]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵי֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9001\|וְ]][[H2199\|זָֽעֲקוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H0430\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֛ר]] [[H1992\|הֵ֥ם]] [[H6999H\|מְקַטְּרִ֖ים]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H3467\|הוֹשֵׁ֛עַ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3467\|יוֹשִׁ֥יעוּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H6256\|עֵ֥ת]] [[H7451C\|רָעָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.11|<< Jeremiah 11:11]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.13|Jeremiah 11:13 >>]]</td></tr></table>
 

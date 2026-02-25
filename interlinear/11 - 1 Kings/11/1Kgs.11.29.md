@@ -1,8 +1,76 @@
+---
+title: 1 Kings 11:29
+type: Verse
+kjv: "And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:"
+bsb: "During that time, the prophet Ahijah the Shilonite met Jeroboam on the road as he was going out of Jerusalem. Now Ahijah had wrapped himself in a new cloak, and the two of them were alone in the open field."
+hebrew: "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔יא וְיָֽרָבְעָ֖ם יָצָ֣א מִירוּשָׁלִָ֑ם וַיִּמְצָ֣א אֹת֡וֹ אֲחִיָּה֩ הַשִּׁילֹנִ֨י הַנָּבִ֜יא בַּדֶּ֗רֶךְ וְה֤וּא מִתְכַּסֶּה֙ בְּשַׂלְמָ֣ה חֲדָשָׁ֔ה וּשְׁנֵיהֶ֥ם לְבַדָּ֖ם בַּשָּׂדֶֽה׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SHILONITE|SHILONITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3379G]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0281H]]"
+- "[[H7888]]"
+- "[[H5030]]"
+- "[[H1870K]]"
+- "[[H3680]]"
+- "[[H8008]]"
+- "[[H2319H]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9038]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:29**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two [were] alone in the field:
 <small><sub>**BSB:**</sub></small>
 During that time, the prophet Ahijah the Shilonite met Jeroboam on the road as he was going out of Jerusalem. Now Ahijah had wrapped himself in a new cloak, and the two of them were alone in the open field.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H9002\|וְ]][[H3379G\|יָֽרָבְעָ֖ם]] [[H3318G\|יָצָ֣א]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H4672\|יִּמְצָ֣א]] [[H0853\|אֹת֡]][[H9033\|וֹ]] [[H0281H\|אֲחִיָּה֩]] [[H9009\|הַ]][[H7888\|שִּׁילֹנִ֨י]] [[H9009\|הַ]][[H5030\|נָּבִ֜יא]] [[H9003\|בַּ]][[H1870K\|דֶּ֗רֶךְ]] [[H9002\|וְ]][[H1931\|ה֤וּא]] [[H3680\|מִתְכַּסֶּה֙]] [[H9003\|בְּ]][[H8008\|שַׂלְמָ֣ה]] [[H2319H\|חֲדָשָׁ֔ה]] [[H9002\|וּ]][[H8147\|שְׁנֵי]][[H9028\|הֶ֥ם]] [[H9005\|לְ]][[H0905H\|בַדָּ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANAAN|CANAAN]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROMOTION|PROMOTION]] • [[topic SHILONITE|SHILONITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.28|<< 1 Kings 11:28]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.30|1 Kings 11:30 >>]]</td></tr></table>
 

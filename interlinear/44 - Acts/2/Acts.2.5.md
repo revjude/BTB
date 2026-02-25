@@ -1,10 +1,61 @@
+---
+title: Acts 2:5
+type: Verse
+kjv: "And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven."
+bsb: "Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven."
+greek: "Ἦσαν δὲ εἰς Ἰερουσαλὴμ κατοικοῦντες Ἰουδαῖοι, ἄνδρες εὐλαβεῖς ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν."
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BERNICE|BERNICE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2730]]"
+- "[[G2453]]"
+- "[[G0435G]]"
+- "[[G2126]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G3588]]"
+- "[[G5259H]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 2:5**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven.
 <small><sub>**BSB:**</sub></small>
 Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven.
-<small><sub>**Literal:**</sub></small>
-Were now in Jerusalem dwelling Jews, men devout from every nation of those under <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.4|<< Acts 2:4]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.6|Acts 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦσαν]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2730\|κατοικοῦντες]]  [[G2453\|Ἰουδαῖοι,]]  [[G0435G\|ἄνδρες]]  [[G2126\|εὐλαβεῖς]]  [[G0575\|ἀπὸ]]  [[G3956\|παντὸς]]  [[G1484\|ἔθνους]]  [[G3588\|τῶν]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERNICE|BERNICE]] • [[topic FEASTS|FEASTS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ORATOR|ORATOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.4|<< Acts 2:4]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.6|Acts 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

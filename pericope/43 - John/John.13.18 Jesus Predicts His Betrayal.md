@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Predicts His Betrayal
+type: Pericope
 pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: John
 chapter: 13
 book/chapter: "[[John.13|John 13]]"
-genre:
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 13
 verses:
 - "[[John.13.18]]"
 - "[[John.13.19]]"
@@ -31,7 +38,7 @@ verses:
 - "[[John.13.30]]"
 ---
 
-[[John.13|John 13:18 - John 13:30]]
+<small>[[John.13|John 13:18-30]]</small>
 *Jesus Predicts His Betrayal*
 
 [[John.13.18|18]] I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.

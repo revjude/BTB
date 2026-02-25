@@ -1,8 +1,66 @@
+---
+title: Ezekiel 39:25
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;"
+bsb: "Therefore this is what the Lord GOD says: Now I will restore Jacob from captivity and will have compassion on the whole house of Israel, and I will be jealous for My holy name."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עַתָּ֗ה אָשִׁיב֙ אֶת־ שְׁב֣וּת יַֽעֲקֹ֔ב וְרִֽחַמְתִּ֖י כָּל־ בֵּ֣ית יִשְׂרָאֵ֑ל וְקִנֵּאתִ֖י לְשֵׁ֥ם קָדְשִֽׁי׃"
+pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6258]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H3290]]"
+- "[[H9001]]"
+- "[[H7355]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H7065]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 39:25**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: Now I will restore Jacob from captivity and will have compassion on the whole house of Israel, and I will be jealous for My holy name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H6258\|עַתָּ֗ה]] [[H7725H\|אָשִׁיב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֣וּת]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9001\|וְ]][[H7355\|רִֽחַמְתִּ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H7065\|קִנֵּאתִ֖י]] [[H9005\|לְ]][[H8034\|שֵׁ֥ם]] [[H6944G\|קָדְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.24|<< Ezekiel 39:24]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.26|Ezekiel 39:26 >>]]</td></tr></table>
 

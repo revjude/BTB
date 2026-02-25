@@ -1,8 +1,66 @@
+---
+title: Isaiah 6:7
+type: Verse
+kjv: "And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged."
+bsb: "And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”"
+hebrew: "וַיַּגַּ֣ע עַל־ פִּ֔י וַיֹּ֕אמֶר הִנֵּ֛ה נָגַ֥ע זֶ֖ה עַל־ שְׂפָתֶ֑יךָ וְסָ֣ר עֲוֹנֶ֔ךָ וְחַטָּאתְךָ֖ תְּכֻפָּֽר׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COAL|COAL]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5060]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H2088]]"
+- "[[H8193G]]"
+- "[[H9021]]"
+- "[[H5493G]]"
+- "[[H5771H]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H3722A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:7**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he laid [it] upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
 <small><sub>**BSB:**</sub></small>
 And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5060\|יַּגַּ֣ע]] [[H5921A\|עַל]][[H9014\|־]] [[H6310G\|פִּ֔]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּ֛ה]] [[H5060\|נָגַ֥ע]] [[H2088\|זֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8193G\|שְׂפָתֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5493G\|סָ֣ר]] [[H5771H\|עֲוֹנֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H2403B\|חַטָּאתְ]][[H9021\|ךָ֖]] [[H3722A\|תְּכֻפָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BLESSING|BLESSING]] • [[topic COAL|COAL]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic PURITY|PURITY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.6|<< Isaiah 6:6]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.8|Isaiah 6:8 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: 2 Timothy 3:10
+type: Verse
+kjv: "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,"
+bsb: "You, however, have observed my teaching, my conduct, my purpose, my faith, my patience, my love, my perseverance,"
+greek: "Σὺ δὲ παρηκολούθησάς μου τῇ διδασκαλίᾳ, τῇ ἀγωγῇ, τῇ προθέσει, τῇ πίστει, τῇ μακροθυμίᾳ, τῇ ἀγάπῃ, τῇ ὑπομονῇ,"
+pericope: "[[2Tim.3.10 All Scripture Is God-Breathed|All Scripture Is God-Breathed]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3877]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1319]]"
+- "[[G0072]]"
+- "[[G4286]]"
+- "[[G4102G]]"
+- "[[G3115]]"
+- "[[G0026]]"
+- "[[G5281]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Timothy 3:10**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,
 <small><sub>**BSB:**</sub></small>
 You, however, have observed my teaching, my conduct, my purpose, my faith, my patience, my love, my perseverance,
-<small><sub>**Literal:**</sub></small>
-You yourself however closely followed after my <the> teaching, <the> conduct, <the> purpose, <the> faith, <the> patience, <the> love, <the> endurance,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.9|<< 2 Timothy 3:9]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.11|2 Timothy 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Σὺ]]  [[G1161\|δὲ]]  [[G3877\|παρηκολούθησάς]]  [[G3165\|μου]]  [[G3588\|τῇ]]  [[G1319\|διδασκαλίᾳ,]]  [[G3588\|τῇ]]  [[G0072\|ἀγωγῇ,]]  [[G3588\|τῇ]]  [[G4286\|προθέσει,]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]  [[G3588\|τῇ]]  [[G3115\|μακροθυμίᾳ,]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ,]]  [[G3588\|τῇ]]  [[G5281\|ὑπομονῇ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LONGSUFFERING|LONGSUFFERING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.9|<< 2 Timothy 3:9]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.11|2 Timothy 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

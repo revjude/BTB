@@ -1,8 +1,60 @@
+---
+title: Isaiah 7:11
+type: Verse
+kjv: "Ask thee a sign of the LORD thy God; ask it either in the depth, or in the height above."
+bsb: "“Ask for a sign from the LORD your God, whether from the depths of Sheol or the heights of heaven.”"
+hebrew: "שְׁאַל־ לְךָ֣ א֔וֹת מֵעִ֖ם יְהוָ֣ה אֱלֹהֶ֑יךָ הַעְמֵ֣ק שְׁאָ֔לָה א֖וֹ הַגְבֵּ֥הַּ לְמָֽעְלָה׃"
+pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0226G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H6009]]"
+- "[[H7585]]"
+- "[[H0176A]]"
+- "[[H1361]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:11**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask thee a sign of the LORD thy God; ask it either in the depth, or in the height above.
 <small><sub>**BSB:**</sub></small>
 “Ask for a sign from the LORD your God, whether from the depths of Sheol or the heights of heaven.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שְׁאַל]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H0226G\|א֔וֹת]] [[H9006\|מֵ]][[H5973B\|עִ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H6009\|הַעְמֵ֣ק]] [[H7585\|שְׁאָ֔לָה]] [[H0176A\|א֖וֹ]] [[H1361\|הַגְבֵּ֥הַּ]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.10|<< Isaiah 7:10]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.12|Isaiah 7:12 >>]]</td></tr></table>
 

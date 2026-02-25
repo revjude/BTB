@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burial of Jesus
+type: Pericope
 pericope: "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.15.42]]"
 - "[[Mark.15.43]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.15.47]]"
 ---
 
-[[Mark.15|Mark 15:42 - Mark 15:47]]
+<small>[[Mark.15|Mark 15:42-47]]</small>
 *The Burial of Jesus*
 
 [[Mark.15.42|42]] And now when the even was come, because it was the preparation, that is, the day before the sabbath,

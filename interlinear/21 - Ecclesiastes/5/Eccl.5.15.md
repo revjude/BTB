@@ -1,8 +1,64 @@
+---
+title: Ecclesiastes 5:15
+type: Verse
+kjv: "As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand."
+bsb: "As a man came from his mother’s womb, so he will depart again, naked as he arrived. He takes nothing for his labor to carry in his hands."
+hebrew: "כַּאֲשֶׁ֤ר יָצָא֙ מִבֶּ֣טֶן אִמּ֔וֹ עָר֛וֹם יָשׁ֥וּב לָלֶ֖כֶת כְּשֶׁבָּ֑א וּמְא֙וּמָה֙ לֹא־ יִשָּׂ֣א בַעֲמָל֔וֹ שֶׁיֹּלֵ֖ךְ בְּיָדֽוֹ׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H6174]]"
+- "[[H7725J]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H9007]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H3972]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375G]]"
+- "[[H9003]]"
+- "[[H5999]]"
+- "[[H1980J]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:15**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.
 <small><sub>**BSB:**</sub></small>
 As a man came from his mother’s womb, so he will depart again, naked as he arrived. He takes nothing for his labor to carry in his hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3318G\|יָצָא֙]] [[H9006\|מִ]][[H0990H\|בֶּ֣טֶן]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H6174\|עָר֛וֹם]] [[H7725J\|יָשׁ֥וּב]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H9004\|כְּ]][[H9007\|שֶׁ]][[H0935G\|בָּ֑א]] [[H9002\|וּ]][[H3972\|מְא֙וּמָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5375G\|יִשָּׂ֣א]] [[H9003\|בַ]][[H5999\|עֲמָל֔]][[H9023\|וֹ]] [[H9007\|שֶׁ]][[H1980J\|יֹּלֵ֖ךְ]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.14|<< Ecclesiastes 5:14]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.16|Ecclesiastes 5:16 >>]]</td></tr></table>
 

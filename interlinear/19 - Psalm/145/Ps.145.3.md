@@ -1,8 +1,55 @@
+---
+title: Psalm 145:3
+type: Verse
+kjv: "Great is the LORD, and greatly to be praised; and his greatness is unsearchable."
+bsb: "Great is the LORD and greatly to be praised; His greatness is unsearchable."
+hebrew: "גָּ֘ד֤וֹל יְהוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד וְ֝לִגְדֻלָּת֗וֹ אֵ֣ין חֵֽקֶר׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1419A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1984B]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H1420]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H2714]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:3**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great [is] the LORD, and greatly to be praised; and his greatness [is] unsearchable.
 <small><sub>**BSB:**</sub></small>
 Great is the LORD and greatly to be praised; His greatness is unsearchable.
+<small><sub>**Hebrew:**</sub></small>
+[[H1419A\|גָּ֘ד֤וֹל]] [[H3068G\|יְהוָ֣ה]] [[H9002\|וּ]][[H1984B\|מְהֻלָּ֣ל]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ֝]][[H9005\|לִ]][[H1420\|גְדֻלָּת֗]][[H9023\|וֹ]] [[H0369\|אֵ֣ין]] [[H2714\|חֵֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.2|<< Psalms 145:2]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.4|Psalms 145:4 >>]]</td></tr></table>
 

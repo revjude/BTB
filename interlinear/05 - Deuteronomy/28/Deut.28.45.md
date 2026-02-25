@@ -1,8 +1,87 @@
+---
+title: Deuteronomy 28:45
+type: Verse
+kjv: "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:"
+bsb: "All these curses will come upon you. They will pursue you and overtake you until you are destroyed, since you did not obey the LORD your God and keep the commandments and statutes He gave you."
+hebrew: "וּבָ֨אוּ עָלֶ֜יךָ כָּל־ הַקְּלָל֣וֹת הָאֵ֗לֶּה וּרְדָפ֙וּךָ֙ וְהִשִּׂיג֔וּךָ עַ֖ד הִשָּֽׁמְדָ֑ךְ כִּי־ לֹ֣א שָׁמַ֗עְתָּ בְּקוֹל֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֛ר מִצְוֹתָ֥יו וְחֻקֹּתָ֖יו אֲשֶׁ֥ר צִוָּֽךְ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7045]]"
+- "[[H0428]]"
+- "[[H7291]]"
+- "[[H5381]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9041]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:45**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:
 <small><sub>**BSB:**</sub></small>
 All these curses will come upon you. They will pursue you and overtake you until you are destroyed, since you did not obey the LORD your God and keep the commandments and statutes He gave you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֨אוּ]] [[H5921A\|עָלֶ֜י]][[H9031\|ךָ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7045\|קְּלָל֣וֹת]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9001\|וּ]][[H7291\|רְדָפ֙וּ]][[H9031\|ךָ֙]] [[H9001\|וְ]][[H5381\|הִשִּׂיג֔וּ]][[H9031\|ךָ]] [[H5704\|עַ֖ד]] [[H8045\|הִשָּֽׁמְדָ֑]][[H9041\|ךְ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H8085H\|שָׁמַ֗עְתָּ]] [[H9003\|בְּ]][[H6963A\|קוֹל֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9005\|לִ]][[H8104G\|שְׁמֹ֛ר]] [[H4687\|מִצְוֹתָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H2708\|חֻקֹּתָ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SANITATION|SANITATION]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.44|<< Deuteronomy 28:44]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.46|Deuteronomy 28:46 >>]]</td></tr></table>
 

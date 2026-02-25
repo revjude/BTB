@@ -1,8 +1,55 @@
+---
+title: Proverbs 17:3
+type: Verse
+kjv: "The fining pot is for silver, and the furnace for gold: but the LORD trieth the hearts."
+bsb: "A crucible for silver and a furnace for gold, but the LORD is the tester of hearts."
+hebrew: "מַצְרֵ֣ף לַ֭כֶּסֶף וְכ֣וּר לַזָּהָ֑ב וּבֹחֵ֖ן לִבּ֣וֹת יְהוָֽה׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H4715]]"
+- "[[H9005]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H3564]]"
+- "[[H2091]]"
+- "[[H0974]]"
+- "[[H3826]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:3**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fining pot [is] for silver, and the furnace for gold: but the LORD trieth the hearts.
 <small><sub>**BSB:**</sub></small>
 A crucible for silver and a furnace for gold, but the LORD is the tester of hearts.
+<small><sub>**Hebrew:**</sub></small>
+[[H4715\|מַצְרֵ֣ף]] [[H9005\|לַ֭]][[H3701G\|כֶּסֶף]] [[H9002\|וְ]][[H3564\|כ֣וּר]] [[H9005\|לַ]][[H2091\|זָּהָ֑ב]] [[H9002\|וּ]][[H0974\|בֹחֵ֖ן]] [[H3826\|לִבּ֣וֹת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FURNACE|FURNACE]] • [[topic GOD|GOD]] • [[topic GOLD|GOLD]] • [[topic HEART|HEART]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.2|<< Proverbs 17:2]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.4|Proverbs 17:4 >>]]</td></tr></table>
 

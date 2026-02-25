@@ -1,8 +1,61 @@
+---
+title: Genesis 47:5
+type: Verse
+kjv: "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:"
+bsb: "Pharaoh said to Joseph, “Now that your father and brothers have come to you,"
+hebrew: "וַיֹּ֣אמֶר פַּרְעֹ֔ה אֶל־ יוֹסֵ֖ף לֵאמֹ֑ר אָבִ֥יךָ וְאַחֶ֖יךָ בָּ֥אוּ אֵלֶֽיךָ׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H0935G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:5**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:
 <small><sub>**BSB:**</sub></small>
 Pharaoh said to Joseph, “Now that your father and brothers have come to you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6547H\|פַּרְעֹ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0001G\|אָבִ֥י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0251G\|אַחֶ֖י]][[H9021\|ךָ]] [[H0935G\|בָּ֥אוּ]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic KINDNESS|KINDNESS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.4|<< Genesis 47:4]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.6|Genesis 47:6 >>]]</td></tr></table>
 

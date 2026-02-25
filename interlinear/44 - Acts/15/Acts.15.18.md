@@ -1,10 +1,59 @@
+---
+title: Acts 15:18
+type: Verse
+kjv: "Known unto God are all his works from the beginning of the world."
+bsb: "that have been known for ages.’"
+greek: "γνωστὰ ἀπ᾽ αἰῶνος ἐστιν τῷ θεῷ πάντα τὰ ἔργα αὐτοῦ."
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1110]]"
+- "[[G0575]]"
+- "[[G0165H]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 15:18**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Known unto God are all his works from the beginning of the world.
 <small><sub>**BSB:**</sub></small>
 that have been known for ages.’
-<small><sub>**Literal:**</sub></small>
-known from eternity’ is <the> to God all the works of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.17|<< Acts 15:17]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.19|Acts 15:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1110\|γνωστὰ]]  [[G0575\|ἀπ᾽]]  [[G0165H\|αἰῶνος]]  [[G1510\|ἐστιν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.17|<< Acts 15:17]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.19|Acts 15:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 15:18** is...
 > $\quad$ referencing: [[LXX.Isa.45.21|Isa 45:21]]

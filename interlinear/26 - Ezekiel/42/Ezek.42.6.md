@@ -1,8 +1,59 @@
+---
+title: Ezekiel 42:6
+type: Verse
+kjv: "For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the lowest and the middlemost from the ground."
+bsb: "For they were arranged in three stories, and unlike the courts, they had no pillars. So the upper chambers were set back further than the lower and middle floors."
+hebrew: "כִּ֤י מְשֻׁלָּשׁוֹת֙ הֵ֔נָּה וְאֵ֤ין לָהֶן֙ עַמּוּדִ֔ים כְּעַמּוּדֵ֖י הַחֲצֵר֑וֹת עַל־ כֵּ֣ן נֶאֱצַ֗ל מֵהַתַּחְתּוֹנ֛וֹת וּמֵהַתִּֽיכֹנ֖וֹת מֵהָאָֽרֶץ׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3588A]]"
+- "[[H8027]]"
+- "[[H2007]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H5982G]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0680]]"
+- "[[H9006]]"
+- "[[H8481H]]"
+- "[[H8484]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:6**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [were] in three [stories], but had not pillars as the pillars of the courts: therefore [the building] was straitened more than the lowest and the middlemost from the ground.
 <small><sub>**BSB:**</sub></small>
 For they were arranged in three stories, and unlike the courts, they had no pillars. So the upper chambers were set back further than the lower and middle floors.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8027\|מְשֻׁלָּשׁוֹת֙]] [[H2007\|הֵ֔נָּה]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H9005\|לָ]][[H9039\|הֶן֙]] [[H5982G\|עַמּוּדִ֔ים]] [[H9004\|כְּ]][[H5982G\|עַמּוּדֵ֖י]] [[H9009\|הַ]][[H2691A\|חֲצֵר֑וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֣ן]] [[H0680\|נֶאֱצַ֗ל]] [[H9006\|מֵ]][[H9009\|הַ]][[H8481H\|תַּחְתּוֹנ֛וֹת]] [[H9002\|וּ]][[H9006\|מֵ]][[H9009\|הַ]][[H8484\|תִּֽיכֹנ֖וֹת]] [[H9006\|מֵ]][[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.5|<< Ezekiel 42:5]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.7|Ezekiel 42:7 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: James 5:3
+type: Verse
+kjv: "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days."
+bsb: "Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days."
+greek: "ὁ χρυσὸς ὑμῶν καὶ ὁ ἄργυρος κατίωται καὶ ὁ ἰὸς αὐτῶν εἰς μαρτύριον ὑμῖν ἔσται καὶ φάγεται τὰς σάρκας ὑμῶν ὡς πῦρ· ἐθησαυρίσατε ἐν ἐσχάταις ἡμέραις."
+pericope: "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G5557]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0696]]"
+- "[[G2728]]"
+- "[[G2447]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3142]]"
+- "[[G1510]]"
+- "[[G5315]]"
+- "[[G4561]]"
+- "[[G5613]]"
+- "[[G4442]]"
+- "[[G2343]]"
+- "[[G1722]]"
+- "[[G2078]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **James 5:3**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
 <small><sub>**BSB:**</sub></small>
 Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days.
-<small><sub>**Literal:**</sub></small>
-The gold of you and the silver have corroded and the rust of them for a testimony against you will be and it will eat the flesh of you like fire; You have treasured up in [the] last days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.2|<< James 5:2]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.4|James 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G5557\|χρυσὸς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0696\|ἄργυρος]]  [[G2728\|κατίωται]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2447\|ἰὸς]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G4771\|ὑμῖν]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G5315\|φάγεται]]  [[G3588\|τὰς]]  [[G4561\|σάρκας]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G4442\|πῦρ·]]  [[G2343\|ἐθησαυρίσατε]]  [[G1722\|ἐν]]  [[G2078\|ἐσχάταις]]  [[G2250\|ἡμέραις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.2|<< James 5:2]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.4|James 5:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 5:3** is...
 > $\quad$ possibly alluding to: [[LXX.Prov.16.27|Prov 16:27]]

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Four Chariots
+type: Pericope
 pericope: "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 6
 book/chapter: "[[Zech.6|Zechariah 6]]"
-genre:
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 8
 verses:
 - "[[Zech.6.1]]"
 - "[[Zech.6.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Zech.6.8]]"
 ---
 
-[[Zech.6|Zechariah 6:1 - Zechariah 6:8]]
+<small>[[Zech.6|Zechariah 6:1-8]]</small>
 *The Vision of the Four Chariots*
 
 [[Zech.6.1|1]] And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains \[were\] mountains of brass.

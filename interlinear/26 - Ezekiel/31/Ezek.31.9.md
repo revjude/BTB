@@ -1,8 +1,62 @@
+---
+title: Ezekiel 31:9
+type: Verse
+kjv: "I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him."
+bsb: "I made it beautiful with its many branches, the envy of all the trees of Eden, which were in the garden of God.’"
+hebrew: "יָפֶ֣ה עֲשִׂיתִ֔יו בְּרֹ֖ב דָּֽלִיּוֹתָ֑יו וַיְקַנְאֻ֙הוּ֙ כָּל־ עֲצֵי־ עֵ֔דֶן אֲשֶׁ֖ר בְּגַ֥ן הָאֱלֹהִֽים׃ ס"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDEN|EDEN]]"
+strongs:
+- "[[H3303]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7065]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H5731B]]"
+- "[[H0834A]]"
+- "[[H1588M]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 31:9**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made him fair by the multitude of his branches: so that all the trees of Eden, that [were] in the garden of God, envied him.
 <small><sub>**BSB:**</sub></small>
 I made it beautiful with its many branches, the envy of all the trees of Eden, which were in the garden of God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3303\|יָפֶ֣ה]] [[H6213H\|עֲשִׂיתִ֔י]][[H9033\|ו]] [[H9003\|בְּ]][[H7230\|רֹ֖ב]] [[H1808\|דָּֽלִיּוֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7065\|יְקַנְאֻ֙]][[H9033\|הוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֲצֵי]][[H9014\|־]] [[H5731B\|עֵ֔דֶן]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1588M\|גַ֥ן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.8|<< Ezekiel 31:8]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.10|Ezekiel 31:10 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ I made it beautiful with its many branches, the envy of all the trees of Eden, w
 | Eden  |**<big>&#8207;[[H5731B\|עֵ֔דֶן]]&#8207; </big>**| 'E.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] in [the] garden of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1588M\|גַ֥ן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Gan<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.8|<< Ezekiel 31:8]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.10|Ezekiel 31:10 >>]]</td></tr></table>
 
 

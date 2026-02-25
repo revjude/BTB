@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 2:12
+type: Verse
+kjv: "And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon."
+bsb: "One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon."
+hebrew: "וַיֵּצֵא֙ אַבְנֵ֣ר בֶּן־ נֵ֔ר וְעַבְדֵ֖י אִֽישׁ־ בֹּ֣שֶׁת בֶּן־ שָׁא֑וּל מִֽמַּחֲנַ֖יִם גִּבְעֽוֹנָה׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAHANAIM|MAHANAIM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0074]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5369G]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H0378]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H4266]]"
+- "[[H1391]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:12**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
 <small><sub>**BSB:**</sub></small>
 One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H0074\|אַבְנֵ֣ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֔ר]] [[H9002\|וְ]][[H5650\|עַבְדֵ֖י]] [[H0378\|אִֽישׁ]][[H9014\|־]] [[H0378\|בֹּ֣שֶׁת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H9006\|מִֽ]][[H4266\|מַּחֲנַ֖יִם]] [[H1391\|גִּבְעֽוֹנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ISRAEL|ISRAEL]] • [[topic MAHANAIM|MAHANAIM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.11|<< 2 Samuel 2:11]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.13|2 Samuel 2:13 >>]]</td></tr></table>
 

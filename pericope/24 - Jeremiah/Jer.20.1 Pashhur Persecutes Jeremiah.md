@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pashhur Persecutes Jeremiah
+type: Pericope
 pericope: "[[Jer.20.1 Pashhur Persecutes Jeremiah|Pashhur Persecutes Jeremiah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 20
 book/chapter: "[[Jer.20|Jeremiah 20]]"
-genre:
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.20.1]]"
 - "[[Jer.20.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.20.6]]"
 ---
 
-[[Jer.20|Jeremiah 20:1 - Jeremiah 20:6]]
+<small>[[Jer.20|Jeremiah 20:1-6]]</small>
 *Pashhur Persecutes Jeremiah*
 
 [[Jer.20.1|1]] Now Pashur the son of Immer the priest, who \[was\] also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.

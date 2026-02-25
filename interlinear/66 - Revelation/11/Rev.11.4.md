@@ -1,10 +1,56 @@
+---
+title: Revelation 11:4
+type: Verse
+kjv: "These are the two olive trees, and the two candlesticks standing before the God of the earth."
+bsb: "These witnesses are the two olive trees and the two lampstands that stand before the Lord of the earth."
+greek: "οὗτοί εἰσιν αἱ δύο ἐλαῖαι καὶ αἱ δύο λυχνίαι αἱ ἐνώπιον τοῦ κυρίου τῆς γῆς ἑστῶτες."
+pericope: "[[Rev.11.1 The Two Witnesses|The Two Witnesses]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G1636]]"
+- "[[G2532]]"
+- "[[G3087]]"
+- "[[G1799]]"
+- "[[G2962G]]"
+- "[[G1093G]]"
+- "[[G2476]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 11:4**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These are the two olive trees, and the two candlesticks standing before the God of the earth.
 <small><sub>**BSB:**</sub></small>
 These witnesses are the two olive trees and the two lampstands that stand before the Lord of the earth.
-<small><sub>**Literal:**</sub></small>
-These are the two olive trees and the two lampstands <the> before the Lord of the earth standing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.3|<< Revelation 11:3]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.5|Revelation 11:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|αἱ]]  [[G1417\|δύο]]  [[G1636\|ἐλαῖαι]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1417\|δύο]]  [[G3087\|λυχνίαι]]  [[G3588\|αἱ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2476\|ἑστῶτες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOD|GOD]] • [[topic OLIVE|OLIVE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.3|<< Revelation 11:3]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.5|Revelation 11:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:4** is...
 > $\quad$ alluding to: [[LXX.Zech.4.3|Zech 4:3]][[LXX.Zech.4.11|, 11]]

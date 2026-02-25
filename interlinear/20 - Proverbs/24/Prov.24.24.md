@@ -1,8 +1,54 @@
+---
+title: Proverbs 24:24
+type: Verse
+kjv: "He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:"
+bsb: "Whoever tells the guilty, “You are innocent”—peoples will curse him, and nations will denounce him;"
+hebrew: "אֹ֤מֵ֨ר׀ לְרָשָׁע֮ צַדִּ֪יק אָ֥תָּה יִקְּבֻ֥הוּ עַמִּ֑ים יִזְעָמ֥וּהוּ לְאֻמִּֽים׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H6662]]"
+- "[[H0859A]]"
+- "[[H6895]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H2194]]"
+- "[[H3816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:24**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that saith unto the wicked, Thou [art] righteous; him shall the people curse, nations shall abhor him:
 <small><sub>**BSB:**</sub></small>
 Whoever tells the guilty, “You are innocent”—peoples will curse him, and nations will denounce him;
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֹ֤מֵ֨ר]][[H9015\|׀]] [[H9005\|לְ]][[H7563\|רָשָׁע֮]] [[H6662\|צַדִּ֪יק]] [[H0859A\|אָ֥תָּה]] [[H6895\|יִקְּבֻ֥]][[H9033\|הוּ]] [[H5971A\|עַמִּ֑ים]] [[H2194\|יִזְעָמ֥וּ]][[H9033\|הוּ]] [[H3816\|לְאֻמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic RULERS|RULERS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.23|<< Proverbs 24:23]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.25|Proverbs 24:25 >>]]</td></tr></table>
 

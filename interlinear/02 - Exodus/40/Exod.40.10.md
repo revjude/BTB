@@ -1,8 +1,63 @@
+---
+title: Exodus 40:10
+type: Verse
+kjv: "And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy."
+bsb: "Anoint the altar of burnt offering and all its utensils; consecrate the altar, and it shall be most holy."
+hebrew: "וּמָשַׁחְתָּ֛ אֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְקִדַּשְׁתָּ֙ אֶת־ הַמִּזְבֵּ֔חַ וְהָיָ֥ה הַמִּזְבֵּ֖חַ קֹ֥דֶשׁ קָֽדָשִֽׁים׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H6942G]]"
+- "[[H1961]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:10**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.
 <small><sub>**BSB:**</sub></small>
 Anoint the altar of burnt offering and all its utensils; consecrate the altar, and it shall be most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4886\|מָשַׁחְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ANOINTING|ANOINTING]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.9|<< Exodus 40:9]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.11|Exodus 40:11 >>]]</td></tr></table>
 

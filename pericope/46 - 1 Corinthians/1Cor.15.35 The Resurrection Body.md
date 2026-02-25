@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection Body
+type: Pericope
 pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 15
 book/chapter: "[[1Cor.15|1 Corinthians 15]]"
-genre:
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 15
 verses:
 - "[[1Cor.15.35]]"
 - "[[1Cor.15.36]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Cor.15.49]]"
 ---
 
-[[1Cor.15|1 Corinthians 15:35 - 1 Corinthians 15:49]]
+<small>[[1Cor.15|1 Corinthians 15:35-49]]</small>
 *The Resurrection Body*
 
 [[1Cor.15.35|35]] But some \[man\] will say, How are the dead raised up? and with what body do they come?

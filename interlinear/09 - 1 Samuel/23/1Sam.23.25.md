@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 23:25
+type: Verse
+kjv: "Saul also and his men went to seek him. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon."
+bsb: "and Saul and his men went to seek him. When David was told about it, he went down to the rock and stayed in the Wilderness of Maon. And when Saul heard of this, he pursued David there."
+hebrew: "וַיֵּ֨לֶךְ שָׁא֣וּל וַאֲנָשָׁיו֮ לְבַקֵּשׁ֒ וַיַּגִּ֣דוּ לְדָוִ֔ד וַיֵּ֣רֶד הַסֶּ֔לַע וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר מָע֑וֹן וַיִּשְׁמַ֣ע שָׁא֔וּל וַיִּרְדֹּ֥ף אַחֲרֵֽי־ דָוִ֖ד מִדְבַּ֥ר מָעֽוֹן׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MAON|MAON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H5046]]"
+- "[[H1732]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H5553H]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4584G]]"
+- "[[H8085G]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:25**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul also and his men went to seek [him]. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard [that], he pursued after David in the wilderness of Maon.
 <small><sub>**BSB:**</sub></small>
 and Saul and his men went to seek him. When David was told about it, he went down to the rock and stayed in the Wilderness of Maon. And when Saul heard of this, he pursued David there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H7586G\|שָׁא֣וּל]] [[H9002\|וַ]][[H0582\|אֲנָשָׁי]][[H9023\|ו֮]] [[H9005\|לְ]][[H1245\|בַקֵּשׁ֒]] [[H9001\|וַ]][[H5046\|יַּגִּ֣דוּ]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H9001\|וַ]][[H3381\|יֵּ֣רֶד]] [[H9009\|הַ]][[H5553H\|סֶּ֔לַע]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֣ר]] [[H4584G\|מָע֑וֹן]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H7291\|יִּרְדֹּ֥ף]] [[H0310A\|אַחֲרֵֽי]][[H9014\|־]] [[H1732\|דָוִ֖ד]] [[H4057B\|מִדְבַּ֥ר]] [[H4584G\|מָעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MAON|MAON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.24|<< 1 Samuel 23:24]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.26|1 Samuel 23:26 >>]]</td></tr></table>
 

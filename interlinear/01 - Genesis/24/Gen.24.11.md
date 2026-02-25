@@ -1,8 +1,61 @@
+---
+title: Genesis 24:11
+type: Verse
+kjv: "And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water."
+bsb: "As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water."
+hebrew: "וַיַּבְרֵ֧ךְ הַגְּמַלִּ֛ים מִח֥וּץ לָעִ֖יר אֶל־ בְּאֵ֣ר הַמָּ֑יִם לְעֵ֣ת עֶ֔רֶב לְעֵ֖ת צֵ֥את הַשֹּׁאֲבֹֽת׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H9009]]"
+- "[[H1581]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0875]]"
+- "[[H4325G]]"
+- "[[H6256]]"
+- "[[H6153]]"
+- "[[H3318G]]"
+- "[[H7579]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:11**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made his camels to kneel down without the city by a well of water at the time of the evening, [even] the time that women go out to draw [water].
 <small><sub>**BSB:**</sub></small>
 As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1288\|יַּבְרֵ֧ךְ]] [[H9009\|הַ]][[H1581\|גְּמַלִּ֛ים]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לָ]][[H5892B\|עִ֖יר]] [[H0413\|אֶל]][[H9014\|־]] [[H0875\|בְּאֵ֣ר]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9005\|לְ]][[H6256\|עֵ֣ת]] [[H6153\|עֶ֔רֶב]] [[H9005\|לְ]][[H6256\|עֵ֖ת]] [[H3318G\|צֵ֥את]] [[H9009\|הַ]][[H7579\|שֹּׁאֲבֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.10|<< Genesis 24:10]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.12|Genesis 24:12 >>]]</td></tr></table>
 

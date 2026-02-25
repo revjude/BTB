@@ -1,8 +1,77 @@
+---
+title: Leviticus 23:40
+type: Verse
+kjv: "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days."
+bsb: "On the first day you are to gather the fruit of majestic trees, the branches of palm trees, and the boughs of leafy trees and of willows of the brook. And you are to rejoice before the LORD your God for seven days."
+hebrew: "וּלְקַחְתֶּ֨ם לָכֶ֜ם בַּיּ֣וֹם הָרִאשׁ֗וֹן פְּרִ֨י עֵ֤ץ הָדָר֙ כַּפֹּ֣ת תְּמָרִ֔ים וַעֲנַ֥ף עֵץ־ עָבֹ֖ת וְעַרְבֵי־ נָ֑חַל וּשְׂמַחְתֶּ֗ם לִפְנֵ֛י יְהוָ֥ה אֱלֹהֵיכֶ֖ם שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[Lev.23.33 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BOOTH|BOOTH]]"
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WILLOW|WILLOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H6529]]"
+- "[[H6086H]]"
+- "[[H1926]]"
+- "[[H3709I]]"
+- "[[H8558]]"
+- "[[H9002]]"
+- "[[H6057]]"
+- "[[H9014]]"
+- "[[H5687]]"
+- "[[H6155H]]"
+- "[[H5158A]]"
+- "[[H8055]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:40**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.
 <small><sub>**BSB:**</sub></small>
 On the first day you are to gather the fruit of majestic trees, the branches of palm trees, and the boughs of leafy trees and of willows of the brook. And you are to rejoice before the LORD your God for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H3947G\|לְקַחְתֶּ֨ם]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֗וֹן]] [[H6529\|פְּרִ֨י]] [[H6086H\|עֵ֤ץ]] [[H1926\|הָדָר֙]] [[H3709I\|כַּפֹּ֣ת]] [[H8558\|תְּמָרִ֔ים]] [[H9002\|וַ]][[H6057\|עֲנַ֥ף]] [[H6086H\|עֵץ]][[H9014\|־]] [[H5687\|עָבֹ֖ת]] [[H9002\|וְ]][[H6155H\|עַרְבֵי]][[H9014\|־]] [[H5158A\|נָ֑חַל]] [[H9001\|וּ]][[H8055\|שְׂמַחְתֶּ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֛י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOTH|BOOTH]] • [[topic ETHANIM|ETHANIM]] • [[topic FEASTS|FEASTS]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WILLOW|WILLOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.39|<< Leviticus 23:39]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.41|Leviticus 23:41 >>]]</td></tr></table>
 

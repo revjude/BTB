@@ -1,8 +1,65 @@
+---
+title: Jeremiah 34:20
+type: Verse
+kjv: "I will even give them into the hand of their enemies, and into the hand of them that seek their life: and their dead bodies shall be for meat unto the fowls of the heaven, and to the beasts of the earth."
+bsb: "I will deliver into the hands of their enemies who seek their lives. Their corpses will become food for the birds of the air and the beasts of the earth."
+hebrew: "וְנָתַתִּ֤י אוֹתָם֙ בְּיַ֣ד אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וְהָיְתָ֤ה נִבְלָתָם֙ לְמַֽאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הָאָֽרֶץ׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H1961]]"
+- "[[H5038]]"
+- "[[H9005]]"
+- "[[H3978]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0929]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:20**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will even give them into the hand of their enemies, and into the hand of them that seek their life: and their dead bodies shall be for meat unto the fowls of the heaven, and to the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 I will deliver into the hands of their enemies who seek their lives. Their corpses will become food for the birds of the air and the beasts of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֑]][[H9028\|ם]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5038\|נִבְלָתָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H3978\|מַֽאֲכָ֔ל]] [[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֥ת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.19|<< Jeremiah 34:19]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.21|Jeremiah 34:21 >>]]</td></tr></table>
 

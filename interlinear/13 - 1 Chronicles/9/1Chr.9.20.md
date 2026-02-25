@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 9:20
+type: Verse
+kjv: "And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him."
+bsb: "In earlier times Phinehas son of Eleazar had been in charge of the gatekeepers, and the LORD was with him."
+hebrew: "וּפִֽינְחָ֣ס בֶּן־ אֶלְעָזָ֗ר נָגִ֨יד הָיָ֧ה עֲלֵיהֶ֛ם לְפָנִ֖ים יְהוָ֥ה׀ עִמּֽוֹ׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6372G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H5057]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:20**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas the son of Eleazar was the ruler over them in time past, [and] the LORD [was] with him.
 <small><sub>**BSB:**</sub></small>
 In earlier times Phinehas son of Eleazar had been in charge of the gatekeepers, and the LORD was with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6372G\|פִֽינְחָ֣ס]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֗ר]] [[H5057\|נָגִ֨יד]] [[H1961\|הָיָ֧ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H9005\|לְ]][[H6440G\|פָנִ֖ים]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PORTERS|PORTERS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.19|<< 1 Chronicles 9:19]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.21|1 Chronicles 9:21 >>]]</td></tr></table>
 

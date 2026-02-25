@@ -1,8 +1,79 @@
+---
+title: Leviticus 20:3
+type: Verse
+kjv: "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name."
+bsb: "And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name."
+hebrew: "וַאֲנִ֞י אֶתֵּ֤ן אֶת־ פָּנַי֙ בָּאִ֣ישׁ הַה֔וּא וְהִכְרַתִּ֥י אֹת֖וֹ מִקֶּ֣רֶב עַמּ֑וֹ כִּ֤י מִזַּרְעוֹ֙ נָתַ֣ן לַמֹּ֔לֶךְ לְמַ֗עַן טַמֵּא֙ אֶת־ מִקְדָּשִׁ֔י וּלְחַלֵּ֖ל אֶת־ שֵׁ֥ם קָדְשִֽׁי׃"
+pericope: "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H2233H]]"
+- "[[H9005]]"
+- "[[H4432]]"
+- "[[H4616]]"
+- "[[H2930A]]"
+- "[[H4720]]"
+- "[[H2490H]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:3**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.
 <small><sub>**BSB:**</sub></small>
 And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H5414H\|אֶתֵּ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנַ]][[H9020\|י֙]] [[H9003\|בָּ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H7130G\|קֶּ֣רֶב]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H2233H\|זַּרְע]][[H9023\|וֹ֙]] [[H5414H\|נָתַ֣ן]] [[H9005\|לַ]][[H4432\|מֹּ֔לֶךְ]] [[H4616\|לְמַ֗עַן]] [[H2930A\|טַמֵּא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ֔]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H2490H\|חַלֵּ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֥ם]] [[H6944G\|קָדְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.2|<< Leviticus 20:2]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.4|Leviticus 20:4 >>]]</td></tr></table>
 

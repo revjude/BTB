@@ -1,8 +1,65 @@
+---
+title: Leviticus 11:45
+type: Verse
+kjv: "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+bsb: "For I am the LORD, who brought you up out of the land of Egypt so that I would be your God; therefore be holy, because I am holy."
+hebrew: "כִּ֣י׀ אֲנִ֣י יְהוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H6918G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:45**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I [am] holy.
 <small><sub>**BSB:**</sub></small>
 For I am the LORD, who brought you up out of the land of Egypt so that I would be your God; therefore be holy, because I am holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9009\|הַֽ]][[H5927H\|מַּעֲלֶ֤ה]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לִ]][[H1961\|הְיֹ֥ת]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֑ים]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֣ם]] [[H6918G\|קְדֹשִׁ֔ים]] [[H3588A\|כִּ֥י]] [[H6918G\|קָד֖וֹשׁ]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.44|<< Leviticus 11:44]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.46|Leviticus 11:46 >>]]</td></tr></table>
 

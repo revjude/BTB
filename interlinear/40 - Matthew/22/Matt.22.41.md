@@ -1,10 +1,47 @@
+---
+title: Matthew 22:41
+type: Verse
+kjv: "While the Pharisees were gathered together, Jesus asked them,"
+bsb: "While the Pharisees were assembled, Jesus questioned them:"
+greek: "Συνηγμένων δὲ τῶν Φαρισαίων ἐπηρώτησεν αὐτοὺς ὁ Ἰησοῦς"
+pericope: "[[Matt.22.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[G4863]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Matthew 22:41**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While the Pharisees were gathered together, Jesus asked them,
 <small><sub>**BSB:**</sub></small>
 While the Pharisees were assembled, Jesus questioned them:
-<small><sub>**Literal:**</sub></small>
-When were assembled now the Pharisees questioned them <the> Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.40|<< Matthew 22:40]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.42|Matthew 22:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4863\|Συνηγμένων]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G1905\|ἐπηρώτησεν]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.40|<< Matthew 22:40]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.42|Matthew 22:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

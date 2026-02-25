@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 8:5
+type: Verse
+kjv: "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God."
+bsb: "And not only did they do as we expected, but they gave themselves first to the Lord and then to us, through the will of God."
+greek: "καὶ οὐ καθὼς ἠλπίσαμεν, ἀλλ᾽ ἑαυτοὺς ἔδωκαν πρῶτον τῷ κυρίῳ καὶ ἡμῖν διὰ θελήματος θεοῦ"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2531]]"
+- "[[G1679]]"
+- "[[G0235]]"
+- "[[G1438]]"
+- "[[G1325]]"
+- "[[G4413G]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:5**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [this they did], not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.
 <small><sub>**BSB:**</sub></small>
 And not only did they do as we expected, but they gave themselves first to the Lord and then to us, through the will of God.
-<small><sub>**Literal:**</sub></small>
-And not [only] even as we had hoped, but themselves they gave first to the Lord and then to us through [the] will of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.4|<< 2 Corinthians 8:4]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.6|2 Corinthians 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2531\|καθὼς]]  [[G1679\|ἠλπίσαμεν,]]  [[G0235\|ἀλλ᾽]]  [[G1438\|ἑαυτοὺς]]  [[G1325\|ἔδωκαν]]  [[G4413G\|πρῶτον]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G2532\|καὶ]]  [[G3165\|ἡμῖν]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CONSECRATION|CONSECRATION]] • [[topic EMULATION|EMULATION]] • [[topic MACEDONIA|MACEDONIA]] • [[topic POOR|POOR]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.4|<< 2 Corinthians 8:4]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.6|2 Corinthians 8:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Isaiah 2:10
+type: Verse
+kjv: "Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty."
+bsb: "Go into the rocks and hide in the dust from the terror of the LORD and the splendor of His majesty."
+hebrew: "בּ֣וֹא בַצּ֔וּר וְהִטָּמֵ֖ן בֶּֽעָפָ֑ר מִפְּנֵי֙ פַּ֣חַד יְהוָ֔ה וּמֵהֲדַ֖ר גְּאֹנֽוֹ׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H6697H]]"
+- "[[H9002]]"
+- "[[H2934]]"
+- "[[H6083]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H6343]]"
+- "[[H3068G]]"
+- "[[H1926]]"
+- "[[H1347]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:10**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
 <small><sub>**BSB:**</sub></small>
 Go into the rocks and hide in the dust from the terror of the LORD and the splendor of His majesty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בּ֣וֹא]] [[H9003\|בַ]][[H6697H\|צּ֔וּר]] [[H9002\|וְ]][[H2934\|הִטָּמֵ֖ן]] [[H9003\|בֶּֽ]][[H6083\|עָפָ֑ר]] [[H9006\|מִ]][[H6440G\|פְּנֵי֙]] [[H6343\|פַּ֣חַד]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9006\|מֵ]][[H1926\|הֲדַ֖ר]] [[H1347\|גְּאֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.9|<< Isaiah 2:9]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.11|Isaiah 2:11 >>]]</td></tr></table>
 

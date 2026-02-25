@@ -1,10 +1,56 @@
+---
+title: 1 Timothy 6:14
+type: Verse
+kjv: "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:"
+bsb: "Keep this commandment without stain or reproach until the appearance of our Lord Jesus Christ,"
+greek: "τηρῆσαί σε τὴν ἐντολὴν ἄσπιλον, ἀνεπίλημπτον μέχρι τῆς ἐπιφανείας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,"
+pericope: "[[1Tim.6.11 Fight the Good Fight|Fight the Good Fight]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G5083G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G0784]]"
+- "[[G0423]]"
+- "[[G3360]]"
+- "[[G2015]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **1 Timothy 6:14**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That thou keep [this] commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Keep this commandment without stain or reproach until the appearance of our Lord Jesus Christ,
-<small><sub>**Literal:**</sub></small>
-to keep you the commandment without stain, above reproach until the appearing of the Lord of us Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.13|<< 1 Timothy 6:13]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.15|1 Timothy 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5083G\|τηρῆσαί]]  [[G4771\|σε]]  [[G3588\|τὴν]]  [[G1785\|ἐντολὴν]]  [[G0784\|ἄσπιλον,]]  [[G0423\|ἀνεπίλημπτον]]  [[G3360\|μέχρι]]  [[G3588\|τῆς]]  [[G2015\|ἐπιφανείας]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.13|<< 1 Timothy 6:13]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.15|1 Timothy 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

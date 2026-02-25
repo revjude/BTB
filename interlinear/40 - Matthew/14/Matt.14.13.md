@@ -1,10 +1,63 @@
+---
+title: Matthew 14:13
+type: Verse
+kjv: "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities."
+bsb: "When Jesus heard about John, He withdrew by boat privately to a solitary place. But the crowds found out about it and followed Him on foot from the towns."
+greek: "Καὶ Ἀκούσας δὲ ὁ Ἰησοῦς ἀνεχώρησεν ἐκεῖθεν ἐν πλοίῳ εἰς ἔρημον τόπον κατ᾽ ἰδίαν. καὶ ἀκούσαντες οἱ ὄχλοι ἠκολούθησαν αὐτῷ πεζῇ ἀπὸ τῶν πόλεων."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0402]]"
+- "[[G1564]]"
+- "[[G1722]]"
+- "[[G4143]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G3793]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G3979]]"
+- "[[G0575]]"
+- "[[G4172]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Matthew 14:13**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus heard [of it], he departed thence by ship into a desert place apart: and when the people had heard [thereof], they followed him on foot out of the cities.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard about John, He withdrew by boat privately to a solitary place. But the crowds found out about it and followed Him on foot from the towns.
-<small><sub>**Literal:**</sub></small>
-and Having heard now <the> Jesus withdrew from there by boat to a secluded place apart [on his] own. And having heard [of it] the crowds followed Him on foot from the towns.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.12|<< Matthew 14:12]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.14|Matthew 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0402\|ἀνεχώρησεν]]  [[G1564\|ἐκεῖθεν]]  [[G1722\|ἐν]]  [[G4143\|πλοίῳ]]  [[G1519\|εἰς]]  [[G2048\|ἔρημον]]  [[G5117\|τόπον]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν.]]  [[G2532\|καὶ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ]]  [[G3979\|πεζῇ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4172\|πόλεων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHSAIDA|BETHSAIDA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.12|<< Matthew 14:12]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.14|Matthew 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

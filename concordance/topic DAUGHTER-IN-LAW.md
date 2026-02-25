@@ -3,7 +3,7 @@
 
 → FILIAL
 
-- INSTANCE OF, Ruth [[Ruth.1.11|Ru 1:11]]-[[Ruth.1.18|18]]; [[Ruth.4.15|4:15]]
+- INSTANCE OF, Ruth [[Ruth.1.11|Ru 1:11-18]]; [[Ruth.4.15|4:15]]
 
 → UNFILIAL
 

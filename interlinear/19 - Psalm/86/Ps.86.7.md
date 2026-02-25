@@ -1,8 +1,55 @@
+---
+title: Psalm 86:7
+type: Verse
+kjv: "In the day of my trouble I will call upon thee: for thou wilt answer me."
+bsb: "In the day of my distress I call on You, because You answer me."
+hebrew: "בְּי֣וֹם צָ֭רָתִ֥י אֶקְרָאֶ֗ךָּ כִּ֣י תַעֲנֵֽנִי׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H9020]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:7**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day of my trouble I will call upon thee: for thou wilt answer me.
 <small><sub>**BSB:**</sub></small>
 In the day of my distress I call on You, because You answer me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6869B\|צָ֭רָתִ֥]][[H9020\|י]] [[H7121G\|אֶקְרָאֶ֗]][[H9031\|ךָּ]] [[H3588A\|כִּ֣י]] [[H6030B\|תַעֲנֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.6|<< Psalms 86:6]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.8|Psalms 86:8 >>]]</td></tr></table>
 

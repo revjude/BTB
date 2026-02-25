@@ -1,8 +1,55 @@
+---
+title: Song of Solomon 8:14
+type: Verse
+kjv: "Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices."
+bsb: "Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices."
+hebrew: "בְּרַ֣ח׀ דּוֹדִ֗י וּֽדְמֵה־ לְךָ֤ לִצְבִי֙ א֚וֹ לְעֹ֣פֶר הָֽאַיָּלִ֔ים עַ֖ל הָרֵ֥י"
+pericope: "[[Song.8.14 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic DEER|DEER]]"
+strongs:
+- "[[H1272]]"
+- "[[H9015]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1819]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6643B]]"
+- "[[H0176A]]"
+- "[[H6082]]"
+- "[[H9009]]"
+- "[[H0354]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:14**<big><big>[[Song.8.14 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.
 <small><sub>**BSB:**</sub></small>
 Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.
+<small><sub>**Hebrew:**</sub></small>
+[[H1272\|בְּרַ֣ח]][[H9015\|׀]] [[H1730G\|דּוֹדִ֗]][[H9020\|י]] [[H9002\|וּֽ]][[H1819\|דְמֵה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H9005\|לִ]][[H6643B\|צְבִי֙]] [[H0176A\|א֚וֹ]] [[H9005\|לְ]][[H6082\|עֹ֣פֶר]] [[H9009\|הָֽ]][[H0354\|אַיָּלִ֔ים]] [[H5921A\|עַ֖ל]] [[H2022G\|הָרֵ֥י]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEER|DEER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.13|<< Song of Solomon 8:13]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.1|Isaiah 1:1 >>]]</td></tr></table>
 

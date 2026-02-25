@@ -1,8 +1,60 @@
+---
+title: Daniel 1:1
+type: Verse
+kjv: "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it."
+bsb: "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it."
+hebrew: "בִּשְׁנַ֣ת שָׁל֔וֹשׁ לְמַלְכ֖וּת יְהוֹיָקִ֣ים מֶֽלֶךְ־ יְהוּדָ֑ה בָּ֣א נְבוּכַדְנֶאצַּ֧ר מֶֽלֶךְ־ בָּבֶ֛ל יְרוּשָׁלִַ֖ם וַיָּ֥צַר עָלֶֽיהָ׃"
+pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H4438]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H0935G]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H6696A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:1**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 <small><sub>**BSB:**</sub></small>
 In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁל֔וֹשׁ]] [[H9005\|לְ]][[H4438\|מַלְכ֖וּת]] [[H3079\|יְהוֹיָקִ֣ים]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H0935G\|בָּ֣א]] [[H5019\|נְבוּכַדְנֶאצַּ֧ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9001\|וַ]][[H6696A\|יָּ֥צַר]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIAKIM|JEHOIAKIM]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.35|<< Ezekiel 48:35]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.2|Daniel 1:2 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Jeremiah 5:6
+type: Verse
+kjv: "Wherefore a lion out of the forest shall slay them, and a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, and their backslidings are increased."
+bsb: "Therefore a lion from the forest will strike them down, a wolf from the desert will ravage them. A leopard will lie in wait near their cities, and everyone who ventures out will be torn to pieces. For their rebellious acts are many, and their unfaithful deeds are numerous."
+hebrew: "עַל־ כֵּן֩ הִכָּ֨ם אַרְיֵ֜ה מִיַּ֗עַר זְאֵ֤ב עֲרָבוֹת֙ יְשָׁדְדֵ֔ם נָמֵ֤ר שֹׁקֵד֙ עַל־ עָ֣רֵיהֶ֔ם כָּל־ הַיּוֹצֵ֥א מֵהֵ֖נָּה יִטָּרֵ֑ף כִּ֤י רַבּוּ֙ פִּשְׁעֵיהֶ֔ם עָצְמ֖וּ מְשׁוּבוֹתֵיהֶֽם׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LEOPARD|LEOPARD]]"
+- "[[topic LION|LION]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H0738B]]"
+- "[[H9006]]"
+- "[[H3293A]]"
+- "[[H2061]]"
+- "[[H6160L]]"
+- "[[H7703]]"
+- "[[H5246]]"
+- "[[H8245]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3318G]]"
+- "[[H9039]]"
+- "[[H2963]]"
+- "[[H3588A]]"
+- "[[H7231]]"
+- "[[H6588]]"
+- "[[H6105A]]"
+- "[[H4878]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 5:6**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore a lion out of the forest shall slay them, [and] a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, [and] their backslidings are increased.
 <small><sub>**BSB:**</sub></small>
 Therefore a lion from the forest will strike them down, a wolf from the desert will ravage them. A leopard will lie in wait near their cities, and everyone who ventures out will be torn to pieces. For their rebellious acts are many, and their unfaithful deeds are numerous.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֩]] [[H5221\|הִכָּ֨]][[H9038\|ם]] [[H0738B\|אַרְיֵ֜ה]] [[H9006\|מִ]][[H3293A\|יַּ֗עַר]] [[H2061\|זְאֵ֤ב]] [[H6160L\|עֲרָבוֹת֙]] [[H7703\|יְשָׁדְדֵ֔]][[H9038\|ם]] [[H5246\|נָמֵ֤ר]] [[H8245\|שֹׁקֵד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5892B\|עָ֣רֵי]][[H9028\|הֶ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3318G\|יּוֹצֵ֥א]] [[H9006\|מֵ]][[H9039\|הֵ֖נָּה]] [[H2963\|יִטָּרֵ֑ף]] [[H3588A\|כִּ֤י]] [[H7231\|רַבּוּ֙]] [[H6588\|פִּשְׁעֵי]][[H9028\|הֶ֔ם]] [[H6105A\|עָצְמ֖וּ]] [[H4878\|מְשׁוּבוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LEOPARD|LEOPARD]] • [[topic LION|LION]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.5|<< Jeremiah 5:5]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.7|Jeremiah 5:7 >>]]</td></tr></table>
 

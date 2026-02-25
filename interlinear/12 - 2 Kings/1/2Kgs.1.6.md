@@ -1,8 +1,85 @@
+---
+title: 2 Kings 1:6
+type: Verse
+kjv: "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to inquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die."
+bsb: "They replied, “A man came up to meet us and said, ‘Go back to the king who sent you and tell him that this is what the LORD says: Is it because there is no God in Israel that you are sending these men to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.’”"
+hebrew: "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ׀ עָלָ֣ה לִקְרָאתֵ֗נוּ וַיֹּ֣אמֶר אֵלֵינוּ֮ לְכ֣וּ שׁוּבוּ֮ אֶל־ הַמֶּ֣לֶךְ אֲשֶׁר־ שָׁלַ֣ח אֶתְכֶם֒ וְדִבַּרְתֶּ֣ם אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַֽמִבְּלִ֤י אֵין־ אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל אַתָּ֣ה שֹׁלֵ֔חַ לִדְרֹ֕שׁ בְּבַ֥עַל זְב֖וּב אֱלֹהֵ֣י עֶקְר֑וֹן לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־ עָלִ֥יתָ שָּׁ֛ם לֹֽא־ תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־ מ֥וֹת תָּמֽוּת׃"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL-ZEBUB|BAAL-ZEBUB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0376G]]"
+- "[[H9015]]"
+- "[[H5927G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9035]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1696G]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H0369]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H0859A]]"
+- "[[H1875]]"
+- "[[H1176]]"
+- "[[H6138]]"
+- "[[H3651C]]"
+- "[[H4296]]"
+- "[[H8033G]]"
+- "[[H3808]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 1:6**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, [Is it] not because [there is] not a God in Israel, [that] thou sendest to inquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.
 <small><sub>**BSB:**</sub></small>
 They replied, “A man came up to meet us and said, ‘Go back to the king who sent you and tell him that this is what the LORD says: Is it because there is no God in Israel that you are sending these men to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H0376G\|אִ֣ישׁ]][[H9015\|׀]] [[H5927G\|עָלָ֣ה]] [[H9005\|לִ]][[H7122G\|קְרָאתֵ֗]][[H9035\|נוּ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֵי]][[H9035\|נוּ֮]] [[H1980G\|לְכ֣וּ]] [[H7725G\|שׁוּבוּ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֣ח]] [[H0853\|אֶתְ]][[H9036\|כֶם֒]] [[H9001\|וְ]][[H1696G\|דִבַּרְתֶּ֣ם]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9008\|הַֽ]][[H9006\|מִ]][[H1097\|בְּלִ֤י]] [[H0369\|אֵין]][[H9014\|־]] [[H0430G\|אֱלֹהִים֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H0859A\|אַתָּ֣ה]] [[H7971G\|שֹׁלֵ֔חַ]] [[H9005\|לִ]][[H1875\|דְרֹ֕שׁ]] [[H9003\|בְּ]][[H1176\|בַ֥עַל]] [[H1176\|זְב֖וּב]] [[H0430G\|אֱלֹהֵ֣י]] [[H6138\|עֶקְר֑וֹן]] [[H9005\|לָ֠]][[H3651C\|כֵן]] [[H9009\|הַ]][[H4296\|מִּטָּ֞ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927G\|עָלִ֥יתָ]] [[H8033G\|שָּׁ֛ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3381\|תֵרֵ֥ד]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4191\|מ֥וֹת]] [[H4191\|תָּמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-ZEBUB|BAAL-ZEBUB]] • [[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.5|<< 2 Kings 1:5]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.7|2 Kings 1:7 >>]]</td></tr></table>
 

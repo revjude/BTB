@@ -1,8 +1,72 @@
+---
+title: 1 Kings 7:45
+type: Verse
+kjv: "And the pots, and the shovels, and the basons: and all these vessels, which Hiram made to king Solomon for the house of the LORD, were of bright brass."
+bsb: "and the pots, shovels, and sprinkling bowls. All the articles that Huram made for King Solomon in the house of the LORD were made of burnished bronze."
+hebrew: "וְאֶת־ הַסִּיר֨וֹת וְאֶת־ הַיָּעִ֜ים וְאֶת־ הַמִּזְרָק֗וֹת וְאֵת֙ כָּל־ הַכֵּלִ֣ים הָאֵ֔לֶּה אֲשֶׁ֨ר עָשָׂ֥ה חִירָ֛ם לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהוָ֑ה נְחֹ֖שֶׁת מְמֹרָֽט׃"
+pericope: "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BASIN|BASIN]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5518A]]"
+- "[[H3257]]"
+- "[[H4219]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H0168G]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H2438H]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H5178A]]"
+- "[[H4803]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 7:45**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pots, and the shovels, and the basons: and all these vessels, which Hiram made to king Solomon for the house of the LORD, [were of] bright brass.
 <small><sub>**BSB:**</sub></small>
 and the pots, shovels, and sprinkling bowls. All the articles that Huram made for King Solomon in the house of the LORD were made of burnished bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5518A\|סִּיר֨וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3257\|יָּעִ֜ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָק֗וֹת]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213H\|עָשָׂ֥ה]] [[H2438H\|חִירָ֛ם]] [[H9005\|לַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H5178A\|נְחֹ֖שֶׁת]] [[H4803\|מְמֹרָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BASIN|BASIN]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.44|<< 1 Kings 7:44]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.46|1 Kings 7:46 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ and the pots, shovels, and sprinkling bowls. All the articles that Huram made fo
 | polished  |**<big>&#8207;[[H4803\|מְמֹרָֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.mo.Rat<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.44|<< 1 Kings 7:44]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.46|1 Kings 7:46 >>]]</td></tr></table>
 
-[^1]: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: the tent  | **<big>[[H9009|הָ]]</big><big>[[H0168G|אֹהֶל]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: the tent  | **<big>[[H9009|הָ]]</big><big>[[H0168G|אֹהֶל]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הָאֵ֔הֶל</big></span>**
 

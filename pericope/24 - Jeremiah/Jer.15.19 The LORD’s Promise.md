@@ -1,29 +1,36 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Promise
+type: Pericope
 pericope: "[[Jer.15.19 The LORD’s Promise|The LORD’s Promise]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 15
 book/chapter: "[[Jer.15|Jeremiah 15]]"
-genre:
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 3
 verses:
 - "[[Jer.15.19]]"
 - "[[Jer.15.20]]"
 - "[[Jer.15.21]]"
 ---
 
-[[Jer.15|Jeremiah 15:19 - Jeremiah 15:21]]
+<small>[[Jer.15|Jeremiah 15:19-21]]</small>
 *The LORD’s Promise*
 
 [[Jer.15.19|19]] Therefore thus saith the LORD, If thou return, then will I bring thee again, \[and\] thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth: let them return unto thee; but return not thou unto them.

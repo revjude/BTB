@@ -1,8 +1,78 @@
+---
+title: Numbers 13:32
+type: Verse
+kjv: "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature."
+bsb: "So they gave the Israelites a bad report about the land that they had spied out: “The land we explored devours its inhabitants, and all the people we saw there are great in stature."
+hebrew: "וַיּוֹצִ֜יאוּ דִּבַּ֤ת הָאָ֙רֶץ֙ אֲשֶׁ֣ר תָּר֣וּ אֹתָ֔הּ אֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֡רֶץ אֲשֶׁר֩ עָבַ֨רְנוּ בָ֜הּ לָת֣וּר אֹתָ֗הּ אֶ֣רֶץ אֹכֶ֤לֶת יוֹשְׁבֶ֙יהָ֙ הִ֔וא וְכָל־ הָעָ֛ם אֲשֶׁר־ רָאִ֥ינוּ בְתוֹכָ֖הּ אַנְשֵׁ֥י מִדּֽוֹת׃"
+pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic REPORTS|REPORTS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H1681]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H8446]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0398]]"
+- "[[H3427]]"
+- "[[H9024]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H7200G]]"
+- "[[H8432]]"
+- "[[H0582]]"
+- "[[H4060A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:32**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature.
 <small><sub>**BSB:**</sub></small>
 So they gave the Israelites a bad report about the land that they had spied out: “The land we explored devours its inhabitants, and all the people we saw there are great in stature.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִ֜יאוּ]] [[H1681\|דִּבַּ֤ת]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8446\|תָּר֣וּ]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9009\|הָ]][[H0776G\|אָ֡רֶץ]] [[H0834A\|אֲשֶׁר֩]] [[H5674A\|עָבַ֨רְנוּ]] [[H9003\|בָ֜]][[H9034\|הּ]] [[H9005\|לָ]][[H8446\|ת֣וּר]] [[H0853\|אֹתָ֗]][[H9034\|הּ]] [[H0776G\|אֶ֣רֶץ]] [[H0398\|אֹכֶ֤לֶת]] [[H3427\|יוֹשְׁבֶ֙י]][[H9024\|הָ֙]] [[H1931\|הִ֔וא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|רָאִ֥ינוּ]] [[H9003\|בְ]][[H8432\|תוֹכָ֖]][[H9024\|הּ]] [[H0582\|אַנְשֵׁ֥י]] [[H4060A\|מִדּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic COWARDICE|COWARDICE]] • [[topic ISRAEL|ISRAEL]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic REPORTS|REPORTS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.31|<< Numbers 13:31]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.33|Numbers 13:33 >>]]</td></tr></table>
 

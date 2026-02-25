@@ -17,7 +17,7 @@
 
 → Sad [[1Sam.1.18|1Sa 1:18]]; [[Neh.2.2|Ne 2:2]],[[Neh.2.3|3]]; [[Eccl.7.3|Ec 7:3]]; [[Ezek.27.35|Eze 27:35]]; [[Dan.1.15|Da 1:15]];  [[Dan.5.6|5:6]]
 
-→ Transfigured [[Exod.34.29|Ex 34:29]]-[[Exod.34.35|35]]; [[2Cor.3.7|2Co 3:7]],[[2Cor.3.13|13]]; [[Luke.9.29|Lu 9:29]]
+→ Transfigured [[Exod.34.29|Ex 34:29-35]]; [[2Cor.3.7|2Co 3:7]],[[2Cor.3.13|13]]; [[Luke.9.29|Lu 9:29]]
 
 → See [[topic FACE|FACE]]
 

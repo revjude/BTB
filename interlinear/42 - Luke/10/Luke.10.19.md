@@ -1,10 +1,67 @@
+---
+title: Luke 10:19
+type: Verse
+kjv: "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you."
+bsb: "Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy. Nothing will harm you."
+jesus_said: "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you."
+greek: "ἰδοὺ δέδωκα ὑμῖν τὴν ἐξουσίαν τοῦ πατεῖν ἐπάνω ὄφεων καὶ σκορπίων καὶ ἐπὶ πᾶσαν τὴν δύναμιν τοῦ ἐχθροῦ, καὶ οὐδὲν ὑμᾶς οὐ μὴ ἀδικήσῃ."
+pericope: "[[Luke.10.17 The Joyful Return|The Joyful Return]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SCORPION|SCORPION]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[G2400]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G3961]]"
+- "[[G1883]]"
+- "[[G3789]]"
+- "[[G2532]]"
+- "[[G4651]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G1411]]"
+- "[[G2190]]"
+- "[[G3762]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0091]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 10:19**<big><big>[[Luke.10.17 The Joyful Return|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
 <small><sub>**BSB:**</sub></small>
 Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy. Nothing will harm you.
-<small><sub>**Literal:**</sub></small>
-Behold I have given you the authority <the> to tread upon serpents and scorpions and upon all the power of the enemy, and no [thing] you certainly not may injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.18|<< Luke 10:18]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.20|Luke 10:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G1325\|δέδωκα]]  [[G4771\|ὑμῖν]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3588\|τοῦ]]  [[G3961\|πατεῖν]]  [[G1883\|ἐπάνω]]  [[G3789\|ὄφεων]]  [[G2532\|καὶ]]  [[G4651\|σκορπίων]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν]]  [[G3588\|τοῦ]]  [[G2190\|ἐχθροῦ,]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G4771\|ὑμᾶς]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0091\|ἀδικήσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CHARISM|CHARISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SCORPION|SCORPION]] • [[topic SERPENT|SERPENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.18|<< Luke 10:18]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.20|Luke 10:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

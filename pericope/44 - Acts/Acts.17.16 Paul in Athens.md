@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul in Athens
+type: Pericope
 pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 17
 book/chapter: "[[Acts.17|Acts 17]]"
-genre:
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.17.16]]"
 - "[[Acts.17.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.17.21]]"
 ---
 
-[[Acts.17|Acts 17:16 - Acts 17:21]]
+<small>[[Acts.17|Acts 17:16-21]]</small>
 *Paul in Athens*
 
 [[Acts.17.16|16]] Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.

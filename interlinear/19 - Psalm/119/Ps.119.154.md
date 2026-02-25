@@ -1,8 +1,55 @@
+---
+title: Psalm 119:154
+type: Verse
+kjv: "Plead my cause, and deliver me: quicken me according to thy word."
+bsb: "Defend my cause and redeem me; revive me according to Your word."
+hebrew: "רִיבָ֣ה רִ֭יבִי וּגְאָלֵ֑נִי לְאִמְרָתְךָ֥ חַיֵּֽנִי׃"
+pericope: "[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|Your Word Is a Lamp to My Feet - RESH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7378]]"
+- "[[H9012]]"
+- "[[H7379]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1350A]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0565A]]"
+- "[[H9021]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:154**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Plead my cause, and deliver me: quicken me according to thy word.
 <small><sub>**BSB:**</sub></small>
 Defend my cause and redeem me; revive me according to Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H7378\|רִיבָ֣]][[H9012\|ה]] [[H7379\|רִ֭יבִ]][[H9020\|י]] [[H9002\|וּ]][[H1350A\|גְאָלֵ֑]][[H9030\|נִי]] [[H9005\|לְ]][[H0565A\|אִמְרָתְ]][[H9021\|ךָ֥]] [[H2421\|חַיֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.154|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.153|<< Psalms 119:153]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.155|Psalms 119:155 >>]]</td></tr></table>
 

@@ -15,5 +15,5 @@
 
 → Gospel preached to [[Acts.2.11|Ac 2:11]]; [[Gal.1.17|Ga 1:17]]
 
-→ Prophecies concerning [[Isa.21.13|Isa 21:13]]-[[Isa.21.17|17]]; [[Isa.42.11|42:11]]; [[Isa.60.7|60:7]]; [[Jer.25.24|Jer  25:24]]
+→ Prophecies concerning [[Isa.21.13|Isa 21:13-17]]; [[Isa.42.11|42:11]]; [[Isa.60.7|60:7]]; [[Jer.25.24|Jer  25:24]]
 

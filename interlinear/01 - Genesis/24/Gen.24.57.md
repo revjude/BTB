@@ -1,8 +1,55 @@
+---
+title: Genesis 24:57
+type: Verse
+kjv: "And they said, We will call the damsel, and inquire at her mouth."
+bsb: "So they said, “We will call the girl and ask her opinion.”"
+hebrew: "וַיֹּאמְר֖וּ נִקְרָ֣א לַֽנַּעֲרָ֑ וְנִשְׁאֲלָ֖ה אֶת־ פִּֽיהָ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H5291]]"
+- "[[H9002]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:57**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, We will call the damsel, and inquire at her mouth.
 <small><sub>**BSB:**</sub></small>
 So they said, “We will call the girl and ask her opinion.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H7121G\|נִקְרָ֣א]] [[H9005\|לַֽ]][[H5291\|נַּעֲרָ֑]] [[H9002\|וְ]][[H7592\|נִשְׁאֲלָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.56|<< Genesis 24:56]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.58|Genesis 24:58 >>]]</td></tr></table>
 

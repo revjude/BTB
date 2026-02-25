@@ -1,8 +1,50 @@
+---
+title: Job 40:1
+type: Verse
+kjv: "Moreover the LORD answered Job, and said,"
+bsb: "And the LORD said to Job:"
+hebrew: "וַיַּ֖עַן יְהוָ֥ה אֶת־ אִיּ֗וֹב וַיֹּאמַֽר׃"
+pericope: "[[Job.40.1 Job Humbles Himself before the LORD|Job Humbles Himself before the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0347]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:1**<big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD answered Job, and said,
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Job:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֖עַן]] [[H3068G\|יְהוָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0347\|אִיּ֗וֹב]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.30|<< Job 39:30]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.2|Job 40:2 >>]]</td></tr></table>
 

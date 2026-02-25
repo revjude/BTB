@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 4:20
+type: Verse
+kjv: "But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day."
+bsb: "Yet the LORD has taken you and brought you out of the iron furnace, out of Egypt, to be the people of His inheritance, as you are today."
+hebrew: "וְאֶתְכֶם֙ לָקַ֣ח יְהוָ֔ה וַיּוֹצִ֥א אֶתְכֶ֛ם מִכּ֥וּר הַבַּרְזֶ֖ל מִמִּצְרָ֑יִם לִהְי֥וֹת ל֛וֹ לְעַ֥ם נַחֲלָ֖ה כַּיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IRON|IRON]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3947G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H3564]]"
+- "[[H9009]]"
+- "[[H1270]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H5159]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:20**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD hath taken you, and brought you forth out of the iron furnace, [even] out of Egypt, to be unto him a people of inheritance, as [ye are] this day.
 <small><sub>**BSB:**</sub></small>
 Yet the LORD has taken you and brought you out of the iron furnace, out of Egypt, to be the people of His inheritance, as you are today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H3947G\|לָקַ֣ח]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H3318H\|יּוֹצִ֥א]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9006\|מִ]][[H3564\|כּ֥וּר]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֖ל]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H5159\|נַחֲלָ֖ה]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FURNACE|FURNACE]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IRON|IRON]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.19|<< Deuteronomy 4:19]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.21|Deuteronomy 4:21 >>]]</td></tr></table>
 

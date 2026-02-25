@@ -1,10 +1,56 @@
+---
+title: John 14:5
+type: Verse
+kjv: "Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?"
+bsb: "“Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”"
+greek: "Λέγει αὐτῷ Θωμᾶς· κύριε, οὐκ οἴδαμεν ποῦ ὑπάγεις· καὶ πῶς δυνάμεθα τὴν ὁδὸν εἰδέναι;"
+pericope: "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic THOMAS|THOMAS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2381]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4226]]"
+- "[[G5217]]"
+- "[[G2532]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G3588]]"
+- "[[G3598]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **John 14:5**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”
-<small><sub>**Literal:**</sub></small>
-Says to Him Thomas; Lord, not we know where You are going; and how can we the way to know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.4|<< John 14:4]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.6|John 14:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῷ]]  [[G2381\|Θωμᾶς·]]  [[G2962G\|κύριε,]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν]]  [[G4226\|ποῦ]]  [[G5217\|ὑπάγεις·]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G1410\|δυνάμεθα]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G6063\|εἰδέναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic THOMAS|THOMAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.4|<< John 14:4]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.6|John 14:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

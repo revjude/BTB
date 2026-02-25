@@ -1,10 +1,53 @@
+---
+title: John 8:36
+type: Verse
+kjv: "If the Son therefore shall make you free, ye shall be free indeed."
+bsb: "So if the Son sets you free, you will be free indeed."
+jesus_said: "If the Son therefore shall make you free, ye shall be free indeed."
+greek: "ἐὰν οὖν ὁ υἱὸς ὑμᾶς ἐλευθερώσῃ, ὄντως ἐλεύθεροι ἔσεσθε."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G1659]]"
+- "[[G3689]]"
+- "[[G1658]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 8:36**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If the Son therefore shall make you free, ye shall be free indeed.
 <small><sub>**BSB:**</sub></small>
 So if the Son sets you free, you will be free indeed.
-<small><sub>**Literal:**</sub></small>
-If therefore the Son you shall set free, indeed free you will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.35|<< John 8:35]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.37|John 8:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G4771\|ὑμᾶς]]  [[G1659\|ἐλευθερώσῃ,]]  [[G3689\|ὄντως]]  [[G1658\|ἐλεύθεροι]]  [[G1510\|ἔσεσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic LIBERTY|LIBERTY]] • [[topic REGENERATION|REGENERATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.35|<< John 8:35]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.37|John 8:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

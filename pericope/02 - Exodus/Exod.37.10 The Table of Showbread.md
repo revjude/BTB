@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Table of Showbread
+type: Pericope
 pericope: "[[Exod.37.10 The Table of Showbread|The Table of Showbread]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 37
 book/chapter: "[[Exod.37|Exodus 37]]"
-genre:
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.37.10]]"
 - "[[Exod.37.11]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.37.16]]"
 ---
 
-[[Exod.37|Exodus 37:10 - Exodus 37:16]]
+<small>[[Exod.37|Exodus 37:10-16]]</small>
 *The Table of Showbread*
 
 [[Exod.37.10|10]] And he made the table \[of\] shittim wood: two cubits \[was\] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:

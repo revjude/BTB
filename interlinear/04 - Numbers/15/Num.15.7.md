@@ -1,8 +1,59 @@
+---
+title: Numbers 15:7
+type: Verse
+kjv: "And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savour unto the LORD."
+bsb: "and a third of a hin of wine as a drink offering, a pleasing aroma to the LORD."
+hebrew: "וְיַ֥יִן לַנֶּ֖סֶךְ שְׁלִשִׁ֣ית הַהִ֑ין תַּקְרִ֥יב רֵֽיחַ־ נִיחֹ֖חַ לַיהוָֽה׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3196]]"
+- "[[H9005]]"
+- "[[H5262]]"
+- "[[H7992]]"
+- "[[H9009]]"
+- "[[H1969]]"
+- "[[H7126H]]"
+- "[[H7381]]"
+- "[[H9014]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:7**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for a drink offering thou shalt offer the third [part] of an hin of wine, [for] a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 and a third of a hin of wine as a drink offering, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3196\|יַ֥יִן]] [[H9005\|לַ]][[H5262\|נֶּ֖סֶךְ]] [[H7992\|שְׁלִשִׁ֣ית]] [[H9009\|הַ]][[H1969\|הִ֑ין]] [[H7126H\|תַּקְרִ֥יב]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.6|<< Numbers 15:6]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.8|Numbers 15:8 >>]]</td></tr></table>
 

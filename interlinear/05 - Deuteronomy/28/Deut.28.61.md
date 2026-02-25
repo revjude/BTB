@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 28:61
+type: Verse
+kjv: "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed."
+bsb: "The LORD will also bring upon you every sickness and plague not recorded in this Book of the Law, until you are destroyed."
+hebrew: "גַּ֤ם כָּל־ חֳלִי֙ וְכָל־ מַכָּ֔ה אֲשֶׁר֙ לֹ֣א כָת֔וּב בְּסֵ֖פֶר הַתּוֹרָ֣ה הַזֹּ֑את יַעְלֵ֤ם יְהוָה֙ עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2483]]"
+- "[[H9002]]"
+- "[[H4347]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H5927H]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:61**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also every sickness, and every plague, which [is] not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed.
 <small><sub>**BSB:**</sub></small>
 The LORD will also bring upon you every sickness and plague not recorded in this Book of the Law, until you are destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2483\|חֳלִי֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4347\|מַכָּ֔ה]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H3789\|כָת֔וּב]] [[H9003\|בְּ]][[H5612H\|סֵ֖פֶר]] [[H9009\|הַ]][[H8451\|תּוֹרָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H5927H\|יַעְלֵ֤]][[H9038\|ם]] [[H3068G\|יְהוָה֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H5704\|עַ֖ד]] [[H8045\|הִשָּׁמְדָֽ]][[H9041\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SANITATION|SANITATION]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.60|<< Deuteronomy 28:60]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.62|Deuteronomy 28:62 >>]]</td></tr></table>
 

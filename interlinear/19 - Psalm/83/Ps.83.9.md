@@ -1,8 +1,59 @@
+---
+title: Psalm 83:9
+type: Verse
+kjv: "Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:"
+bsb: "Do to them as You did to Midian, as to Sisera and Jabin at the River Kishon,"
+hebrew: "עֲשֵֽׂה־ לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִֽיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֽׁוֹן׃"
+pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic KISHON|KISHON]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H4080H]]"
+- "[[H5516G]]"
+- "[[H2985H]]"
+- "[[H9003]]"
+- "[[H5158A]]"
+- "[[H7028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 83:9**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:
 <small><sub>**BSB:**</sub></small>
 Do to them as You did to Midian, as to Sisera and Jabin at the River Kishon,
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עֲשֵֽׂה]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H9004\|כְּ]][[H4080H\|מִדְיָ֑ן]] [[H9004\|כְּֽ]][[H5516G\|סִֽיסְרָ֥א]] [[H9004\|כְ֝]][[H2985H\|יָבִ֗ין]] [[H9003\|בְּ]][[H5158A\|נַ֣חַל]] [[H7028\|קִישֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARMIES|ARMIES]] • [[topic JABIN|JABIN]] • [[topic KISHON|KISHON]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.8|<< Psalms 83:8]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.10|Psalms 83:10 >>]]</td></tr></table>
 

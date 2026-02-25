@@ -1,8 +1,78 @@
+---
+title: 1 Samuel 7:3
+type: Verse
+kjv: "And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines."
+bsb: "Then Samuel said to all the house of Israel, “If you are returning to the LORD with all your hearts, then put away the foreign gods and Ashtoreths among you, prepare your hearts for the LORD, and serve Him only. And He will deliver you from the hand of the Philistines.”"
+hebrew: "וַיֹּ֣אמֶר שְׁמוּאֵ֗ל אֶל־ כָּל־ בֵּ֣ית יִשְׂרָאֵל֮ לֵאמֹר֒ אִם־ בְּכָל־ לְבַבְכֶ֗ם אַתֶּ֤ם שָׁבִים֙ אֶל־ יְהוָ֔ה הָסִ֜ירוּ אֶת־ אֱלֹהֵ֧י הַנֵּכָ֛ר מִתּוֹכְכֶ֖ם וְהָעַשְׁתָּר֑וֹת וְהָכִ֨ינוּ לְבַבְכֶ֤ם אֶל־ יְהוָה֙ וְעִבְדֻ֣הוּ לְבַדּ֔וֹ וְיַצֵּ֥ל אֶתְכֶ֖ם מִיַּ֥ד פְּלִשְׁתִּֽים׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0518A]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H0859D]]"
+- "[[H7725G]]"
+- "[[H3068G]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5236]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9002]]"
+- "[[H6252G]]"
+- "[[H3559J]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H0905H]]"
+- "[[H5337]]"
+- "[[H9036]]"
+- "[[H3027H]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:3**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, [then] put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
 Then Samuel said to all the house of Israel, “If you are returning to the LORD with all your hearts, then put away the foreign gods and Ashtoreths among you, prepare your hearts for the LORD, and serve Him only. And He will deliver you from the hand of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8050G\|שְׁמוּאֵ֗ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵל֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0518A\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֗ם]] [[H0859D\|אַתֶּ֤ם]] [[H7725G\|שָׁבִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5493G\|הָסִ֜ירוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֧י]] [[H9009\|הַ]][[H5236\|נֵּכָ֛ר]] [[H9006\|מִ]][[H8432\|תּוֹכְ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H9009\|הָ]][[H6252G\|עַשְׁתָּר֑וֹת]] [[H9002\|וְ]][[H3559J\|הָכִ֨ינוּ]] [[H3824\|לְבַבְ]][[H9026\|כֶ֤ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H5647G\|עִבְדֻ֣]][[H9033\|הוּ]] [[H9005\|לְ]][[H0905H\|בַדּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H5337\|יַצֵּ֥ל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHTORETH|ASHTORETH]] • [[topic BAAL|BAAL]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.2|<< 1 Samuel 7:2]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.4|1 Samuel 7:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

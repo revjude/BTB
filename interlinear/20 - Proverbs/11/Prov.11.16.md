@@ -1,8 +1,50 @@
+---
+title: Proverbs 11:16
+type: Verse
+kjv: "A gracious woman retaineth honour: and strong men retain riches."
+bsb: "A gracious woman attains honor, but ruthless men gain only wealth."
+hebrew: "אֵֽשֶׁת־ חֵ֭ן תִּתְמֹ֣ךְ כָּב֑וֹד וְ֝עָרִיצִ֗ים יִתְמְכוּ־ עֹֽשֶׁר׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0802G]]"
+- "[[H9014]]"
+- "[[H2580]]"
+- "[[H8551]]"
+- "[[H3519]]"
+- "[[H9002]]"
+- "[[H6184]]"
+- "[[H6239]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:16**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A gracious woman retaineth honour: and strong [men] retain riches.
 <small><sub>**BSB:**</sub></small>
 A gracious woman attains honor, but ruthless men gain only wealth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0802G\|אֵֽשֶׁת]][[H9014\|־]] [[H2580\|חֵ֭ן]] [[H8551\|תִּתְמֹ֣ךְ]] [[H3519\|כָּב֑וֹד]] [[H9002\|וְ֝]][[H6184\|עָרִיצִ֗ים]] [[H8551\|יִתְמְכוּ]][[H9014\|־]] [[H6239\|עֹֽשֶׁר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.15|<< Proverbs 11:15]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.17|Proverbs 11:17 >>]]</td></tr></table>
 

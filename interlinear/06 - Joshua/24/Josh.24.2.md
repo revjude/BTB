@@ -1,8 +1,74 @@
+---
+title: Joshua 24:2
+type: Verse
+kjv: "And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods."
+bsb: "And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods."
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־ כָּל־ הָעָ֗ם כֹּֽה־ אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TERAH|TERAH]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H5104G]]"
+- "[[H3427]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H8646G]]"
+- "[[H0085]]"
+- "[[H9002]]"
+- "[[H5152G]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:2**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, [even] Terah, the father of Abraham, and the father of Nachor: and they served other gods.
 <small><sub>**BSB:**</sub></small>
 And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֮]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9003\|בְּ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H5104G\|נָּהָ֗ר]] [[H3427\|יָשְׁב֤וּ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H9006\|מֵֽ]][[H5769J\|עוֹלָ֔ם]] [[H8646G\|תֶּ֛רַח]] [[H0001G\|אֲבִ֥י]] [[H0085\|אַבְרָהָ֖ם]] [[H9002\|וַ]][[H0001G\|אֲבִ֣י]] [[H5152G\|נָח֑וֹר]] [[H9001\|וַ]][[H5647H\|יַּעַבְד֖וּ]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic HARAN|HARAN]] • [[topic NAHOR|NAHOR]] • [[topic POLYTHEISM|POLYTHEISM]] • [[topic SHECHEM|SHECHEM]] • [[topic TERAH|TERAH]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.1|<< Joshua 24:1]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.3|Joshua 24:3 >>]]</td></tr></table>
 

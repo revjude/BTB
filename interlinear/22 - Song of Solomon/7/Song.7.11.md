@@ -1,8 +1,46 @@
+---
+title: Song of Solomon 7:11
+type: Verse
+kjv: "Come, my beloved, let us go forth into the field; let us lodge in the villages."
+bsb: "Come, my beloved, let us go to the countryside; let us spend the night among the wildflowers."
+hebrew: "לְכָ֤ה דוֹדִי֙ נֵצֵ֣א הַשָּׂדֶ֔ה נָלִ֖ינָה בַּכְּפָרִֽים׃"
+pericope: "[[Song.7.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H3723H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 7:11**<big><big>[[Song.7.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, my beloved, let us go forth into the field; let us lodge in the villages.
 <small><sub>**BSB:**</sub></small>
 Come, my beloved, let us go to the countryside; let us spend the night among the wildflowers.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכָ֤]][[H9012\|ה]] [[H1730G\|דוֹדִ]][[H9020\|י֙]] [[H3318G\|נֵצֵ֣א]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H3885A\|נָלִ֖ינָה]] [[H9003\|בַּ]][[H3723H\|כְּפָרִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.10|<< Song of Solomon 7:10]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.12|Song of Solomon 7:12 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Acts 22:7
+type: Verse
+kjv: "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?"
+bsb: "I fell to the ground and heard a voice say to me, ‘Saul, Saul, why do you persecute Me?’"
+jesus_said: "Saul, Saul, why persecutest thou me?"
+greek: "ἔπεσά τε εἰς τὸ ἔδαφος καὶ ἤκουσα φωνῆς λεγούσης μοι· Σαοὺλ Σαούλ, τί με διώκεις;"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G4098]]"
+- "[[G5037]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1475]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G4549G]]"
+- "[[G5101]]"
+- "[[G1377]]"
+texts:
+- NKO
+---
+
 **Acts 22:7**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?
 <small><sub>**BSB:**</sub></small>
 I fell to the ground and heard a voice say to me, ‘Saul, Saul, why do you persecute Me?’
-<small><sub>**Literal:**</sub></small>
-I fell then to the ground and heard a voice saying to me; Saul Saul, why Me persecute you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.6|<< Acts 22:6]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.8|Acts 22:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4098\|ἔπεσά]]  [[G5037\|τε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1475\|ἔδαφος]]  [[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνῆς]]  [[G3004G\|λεγούσης]]  [[G3165\|μοι·]]  [[G4549G\|Σαοὺλ]]  [[G4549G\|Σαούλ,]]  [[G5101\|τί]]  [[G3165\|με]]  [[G1377\|διώκεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.6|<< Acts 22:6]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.8|Acts 22:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

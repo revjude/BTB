@@ -1,8 +1,52 @@
+---
+title: Lamentations 3:54
+type: Verse
+kjv: "Waters flowed over mine head; then I said, I am cut off."
+bsb: "The waters flowed over my head, and I thought I was going to die."
+hebrew: "צָֽפוּ־ מַ֥יִם עַל־ רֹאשִׁ֖י אָמַ֥רְתִּי נִגְזָֽרְתִּי׃ ס"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H6687]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H1504]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 3:54**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Waters flowed over mine head; [then] I said, I am cut off.
 <small><sub>**BSB:**</sub></small>
 The waters flowed over my head, and I thought I was going to die.
+<small><sub>**Hebrew:**</sub></small>
+[[H6687\|צָֽפוּ]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשִׁ֖]][[H9020\|י]] [[H0559\|אָמַ֥רְתִּי]] [[H1504\|נִגְזָֽרְתִּי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.53|<< Lamentations 3:53]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.55|Lamentations 3:55 >>]]</td></tr></table>
 
@@ -13,7 +57,7 @@ The waters flowed over my head, and I thought I was going to die.
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | head my  |**<big>&#8207;[[H7218A\|רֹאשִׁ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֥רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have been cut off  |**<big>&#8207;[[H1504\|נִגְזָֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nig.Za.re.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have been cut off  |**<big>&#8207;[[H1504\|נִגְזָֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nig.Za.re.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.53|<< Lamentations 3:53]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.55|Lamentations 3:55 >>]]</td></tr></table>
 
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Travel Plans
+type: Pericope
 pericope: "[[1Cor.16.5 Paul’s Travel Plans|Paul’s Travel Plans]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 16
 book/chapter: "[[1Cor.16|1 Corinthians 16]]"
-genre:
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[1Cor.16.5]]"
 - "[[1Cor.16.6]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Cor.16.9]]"
 ---
 
-[[1Cor.16|1 Corinthians 16:5 - 1 Corinthians 16:9]]
+<small>[[1Cor.16|1 Corinthians 16:5-9]]</small>
 *Paul’s Travel Plans*
 
 [[1Cor.16.5|5]] Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.

@@ -1,8 +1,56 @@
+---
+title: Psalm 3:6
+type: Verse
+kjv: "I will not be afraid of ten thousands of people, that have set themselves against me round about."
+bsb: "I will not fear the myriads set against me on every side."
+hebrew: "לֹֽא־ אִ֭ירָא מֵרִבְב֥וֹת עָ֑ם אֲשֶׁ֥ר סָ֝בִ֗יב שָׁ֣תוּ עָלָֽי׃"
+pericope: "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H7233]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H7896G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 3:6**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not be afraid of ten thousands of people, that have set [themselves] against me round about.
 <small><sub>**BSB:**</sub></small>
 I will not fear the myriads set against me on every side.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3372G\|אִ֭ירָא]] [[H9006\|מֵ]][[H7233\|רִבְב֥וֹת]] [[H5971A\|עָ֑ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5439G\|סָ֝בִ֗יב]] [[H7896G\|שָׁ֣תוּ]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.5|<< Psalms 3:5]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.7|Psalms 3:7 >>]]</td></tr></table>
 

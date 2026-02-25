@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 11:21
+type: Verse
+kjv: "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)"
+bsb: "Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines. In all, he had eighteen wives and sixty concubines, and he was the father of twenty-eight sons and sixty daughters."
+hebrew: "וַיֶּאֱהַ֨ב רְחַבְעָ֜ם אֶת־ מַעֲכָ֣ה בַת־ אַבְשָׁל֗וֹם מִכָּל־ נָשָׁיו֙ וּפִ֣ילַגְשָׁ֔יו כִּ֠י נָשִׁ֤ים שְׁמוֹנֶֽה־ עֶשְׂרֵה֙ נָשָׂ֔א וּפִֽילַגְשִׁ֖ים שִׁשִּׁ֑ים וַיּ֗וֹלֶד עֶשְׂרִ֧ים וּשְׁמוֹנָ֛ה בָּנִ֖ים וְשִׁשִּׁ֥ים בָּנֽוֹת׃"
+pericope: "[[2Chr.11.18 Rehoboam’s Family|Rehoboam’s Family]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H7346]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4601K]]"
+- "[[H1323G]]"
+- "[[H0053]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6370]]"
+- "[[H3588A]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H5375U]]"
+- "[[H8346]]"
+- "[[H3205]]"
+- "[[H6242]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:21**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)
 <small><sub>**BSB:**</sub></small>
 Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines. In all, he had eighteen wives and sixty concubines, and he was the father of twenty-eight sons and sixty daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0157G\|יֶּאֱהַ֨ב]] [[H7346\|רְחַבְעָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4601K\|מַעֲכָ֣ה]] [[H1323G\|בַת]][[H9014\|־]] [[H0053\|אַבְשָׁל֗וֹם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0802H\|נָשָׁי]][[H9023\|ו֙]] [[H9002\|וּ]][[H6370\|פִ֣ילַגְשָׁ֔י]][[H9023\|ו]] [[H3588A\|כִּ֠י]] [[H0802H\|נָשִׁ֤ים]] [[H8083\|שְׁמוֹנֶֽה]][[H9014\|־]] [[H6240\|עֶשְׂרֵה֙]] [[H5375U\|נָשָׂ֔א]] [[H9002\|וּ]][[H6370\|פִֽילַגְשִׁ֖ים]] [[H8346\|שִׁשִּׁ֑ים]] [[H9001\|וַ]][[H3205\|יּ֗וֹלֶד]] [[H6242\|עֶשְׂרִ֧ים]] [[H9002\|וּ]][[H8083\|שְׁמוֹנָ֛ה]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֥ים]] [[H1323G\|בָּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCUBINAGE|CONCUBINAGE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MAACHAH|MAACHAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.20|<< 2 Chronicles 11:20]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.22|2 Chronicles 11:22 >>]]</td></tr></table>
 

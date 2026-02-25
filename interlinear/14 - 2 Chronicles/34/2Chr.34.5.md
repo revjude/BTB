@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 34:5
+type: Verse
+kjv: "And he burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem."
+bsb: "Then he burned the bones of the priests on their altars. So he cleansed Judah and Jerusalem."
+hebrew: "וְעַצְמוֹת֙ כֹּֽהֲנִ֔ים שָׂרַ֖ף עַל־ מִזְבְּחוֹתָ֑ם וַיְטַהֵ֥ר אֶת־ יְהוּדָ֖ה וְאֶת־ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Chr.34.3 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6106G]]"
+- "[[H3548]]"
+- "[[H8313]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 34:5**<big><big>[[2Chr.34.3 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then he burned the bones of the priests on their altars. So he cleansed Judah and Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6106G\|עַצְמוֹת֙]] [[H3548\|כֹּֽהֲנִ֔ים]] [[H8313\|שָׂרַ֖ף]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבְּחוֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H2891\|יְטַהֵ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.4|<< 2 Chronicles 34:4]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.6|2 Chronicles 34:6 >>]]</td></tr></table>
 

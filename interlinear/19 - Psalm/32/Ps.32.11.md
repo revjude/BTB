@@ -1,8 +1,56 @@
+---
+title: Psalm 32:11
+type: Verse
+kjv: "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+bsb: "Be glad in the LORD and rejoice, O righteous ones; shout for joy, all you upright in heart."
+hebrew: "שִׂמְח֬וּ בַֽיהוָ֣ה וְ֭גִילוּ צַדִּיקִ֑ים וְ֝הַרְנִ֗ינוּ כָּל־ יִשְׁרֵי־ לֵֽב׃"
+pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1523]]"
+- "[[H6662]]"
+- "[[H7442B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 32:11**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all [ye that are] upright in heart.
 <small><sub>**BSB:**</sub></small>
 Be glad in the LORD and rejoice, O righteous ones; shout for joy, all you upright in heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|שִׂמְח֬וּ]] [[H9003\|בַֽ]][[H3068G\|יהוָ֣ה]] [[H9002\|וְ֭]][[H1523\|גִילוּ]] [[H6662\|צַדִּיקִ֑ים]] [[H9002\|וְ֝]][[H7442B\|הַרְנִ֗ינוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H3477G\|יִשְׁרֵי]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.10|<< Psalms 32:10]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.1|Psalms 33:1 >>]]</td></tr></table>
 

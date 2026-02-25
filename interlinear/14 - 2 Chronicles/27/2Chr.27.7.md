@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 27:7
+type: Verse
+kjv: "Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah."
+bsb: "As for the rest of the acts of Jotham, along with all his wars and his ways, they are indeed written in the Book of the Kings of Israel and Judah."
+hebrew: "וְיֶתֶר֙ דִּבְרֵ֣י יוֹתָ֔ם וְכָל־ מִלְחֲמֹתָ֖יו וּדְרָכָ֑יו הִנָּ֣ם כְּתוּבִ֔ים עַל־ סֵ֥פֶר מַלְכֵֽי־ יִשְׂרָאֵ֖ל וִיהוּדָֽה׃"
+pericope: "[[2Chr.27.1 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 27
+book/chapter: "[[2Chr.27|2 Chronicles 27]]"
+chronological_order: 608
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H3147H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4421]]"
+- "[[H9023]]"
+- "[[H1870G]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 27:7**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they [are] written in the book of the kings of Israel and Judah.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Jotham, along with all his wars and his ways, they are indeed written in the Book of the Kings of Israel and Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶתֶר֙]] [[H1697K\|דִּבְרֵ֣י]] [[H3147H\|יוֹתָ֔ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4421\|מִלְחֲמֹתָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H1870G\|דְרָכָ֑י]][[H9023\|ו]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H4428G\|מַלְכֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וִ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.6|<< 2 Chronicles 27:6]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.8|2 Chronicles 27:8 >>]]</td></tr></table>
 

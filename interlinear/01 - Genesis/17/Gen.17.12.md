@@ -1,8 +1,73 @@
+---
+title: Genesis 17:12
+type: Verse
+kjv: "And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed."
+bsb: "Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring."
+hebrew: "וּבֶן־ שְׁמֹנַ֣ת יָמִ֗ים יִמּ֥וֹל לָכֶ֛ם כָּל־ זָכָ֖ר לְדֹרֹתֵיכֶ֑ם יְלִ֣יד בָּ֔יִת וּמִקְנַת־ כֶּ֙סֶף֙ מִכֹּ֣ל בֶּן־ נֵכָ֔ר אֲשֶׁ֛ר לֹ֥א מִֽזַּרְעֲךָ֖ הֽוּא׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H3117G]]"
+- "[[H4135A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H2145]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H3211]]"
+- "[[H1004M]]"
+- "[[H4736]]"
+- "[[H3701G]]"
+- "[[H9006]]"
+- "[[H5236]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:12**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which [is] not of thy seed.
 <small><sub>**BSB:**</sub></small>
 Generation after generation, every male must be circumcised when he is eight days old, including those born in your household and those purchased from a foreigner—even those who are not your offspring.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121L\|בֶן]][[H9014\|־]] [[H8083\|שְׁמֹנַ֣ת]] [[H3117G\|יָמִ֗ים]] [[H4135A\|יִמּ֥וֹל]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֖ר]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶ֑ם]] [[H3211\|יְלִ֣יד]] [[H1004M\|בָּ֔יִת]] [[H9002\|וּ]][[H4736\|מִקְנַת]][[H9014\|־]] [[H3701G\|כֶּ֙סֶף֙]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H1121L\|בֶּן]][[H9014\|־]] [[H5236\|נֵכָ֔ר]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹ֥א]] [[H9006\|מִֽ]][[H2233H\|זַּרְעֲ]][[H9021\|ךָ֖]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic FAMILY|FAMILY]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.11|<< Genesis 17:11]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.13|Genesis 17:13 >>]]</td></tr></table>
 

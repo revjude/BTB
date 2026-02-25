@@ -1,8 +1,51 @@
+---
+title: Proverbs 19:9
+type: Verse
+kjv: "A false witness shall not be unpunished, and he that speaketh lies shall perish."
+bsb: "A false witness will not go unpunished, and one who pours out lies will perish."
+hebrew: "עֵ֣ד שְׁ֭קָרִים לֹ֣א יִנָּקֶ֑ה וְיָפִ֖יחַ כְּזָבִ֣ים יֹאבֵֽד׃ פ"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[H5707]]"
+- "[[H8267]]"
+- "[[H3808]]"
+- "[[H5352]]"
+- "[[H9002]]"
+- "[[H6315]]"
+- "[[H3577]]"
+- "[[H0006]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 19:9**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A false witness shall not be unpunished, and [he that] speaketh lies shall perish.
 <small><sub>**BSB:**</sub></small>
 A false witness will not go unpunished, and one who pours out lies will perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H5707\|עֵ֣ד]] [[H8267\|שְׁ֭קָרִים]] [[H3808\|לֹ֣א]] [[H5352\|יִנָּקֶ֑ה]] [[H9002\|וְ]][[H6315\|יָפִ֖יחַ]] [[H3577\|כְּזָבִ֣ים]] [[H0006\|יֹאבֵֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.8|<< Proverbs 19:8]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.10|Proverbs 19:10 >>]]</td></tr></table>
 
@@ -14,7 +57,7 @@ A false witness will not go unpunished, and one who pours out lies will perish.
 | he will go unpunished  |**<big>&#8207;[[H5352\|יִנָּקֶ֑ה]]&#8207; </big>**| yi.na.Keh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he may breathe out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6315\|יָפִ֖יחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Fi.ach<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lies  |**<big>&#8207;[[H3577\|כְּזָבִ֣ים]]&#8207; </big>**| ke.za.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will perish  |**<big>&#8207;[[H0006\|יֹאבֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Ved<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will perish  |**<big>&#8207;[[H0006\|יֹאבֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.Ved<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.8|<< Proverbs 19:8]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.10|Proverbs 19:10 >>]]</td></tr></table>
 
 

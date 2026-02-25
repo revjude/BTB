@@ -1,8 +1,67 @@
+---
+title: Exodus 22:24
+type: Verse
+kjv: "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless."
+bsb: "My anger will be kindled, and I will kill you with the sword; then your wives will become widows and your children will be fatherless."
+hebrew: "וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃ פ"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H9026]]"
+- "[[H0490]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3490]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 22:24**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
 <small><sub>**BSB:**</sub></small>
 My anger will be kindled, and I will kill you with the sword; then your wives will become widows and your children will be fatherless.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2734\|חָרָ֣ה]] [[H0639G\|אַפִּ֔]][[H9020\|י]] [[H9001\|וְ]][[H2026\|הָרַגְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9003\|בֶּ]][[H2719\|חָ֑רֶב]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H0802H\|נְשֵׁי]][[H9026\|כֶם֙]] [[H0490\|אַלְמָנ֔וֹת]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶ֖ם]] [[H3490\|יְתֹמִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CHILDREN|CHILDREN]] • [[topic OPPRESSION|OPPRESSION]] • [[topic ORPHAN|ORPHAN]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
 
@@ -17,7 +76,7 @@ My anger will be kindled, and I will kill you with the sword; then your wives wi
 | wives your  |**<big>&#8207;[[H0802H\|נְשֵׁי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | widows  |**<big>&#8207;[[H0490\|אַלְמָנ֔וֹת]]&#8207; </big>**| 'al.ma.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and children your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fatherless ones  |**<big>&#8207;[[H3490\|יְתֹמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fatherless ones  |**<big>&#8207;[[H3490\|יְתֹמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
 
 

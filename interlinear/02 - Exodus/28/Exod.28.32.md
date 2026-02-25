@@ -1,8 +1,67 @@
+---
+title: Exodus 28:32
+type: Verse
+kjv: "And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent."
+bsb: "with an opening at its top in the center. Around the opening shall be a woven collar with an opening like that of a garment, so that it will not tear."
+hebrew: "וְהָיָ֥ה פִֽי־ רֹאשׁ֖וֹ בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה־ לּ֖וֹ לֹ֥א יִקָּרֵֽעַ׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic HABERGEON|HABERGEON]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WEAVING|WEAVING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6310J]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H8193I]]"
+- "[[H9005]]"
+- "[[H5439G]]"
+- "[[H4639G]]"
+- "[[H0707]]"
+- "[[H9004]]"
+- "[[H8473]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H7167]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:32**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be an hole in the top of it, in the midst thereof: it shall have a binding of woven work round about the hole of it, as it were the hole of an habergeon, that it be not rent.
 <small><sub>**BSB:**</sub></small>
 with an opening at its top in the center. Around the opening shall be a woven collar with an opening like that of a garment, so that it will not tear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H6310J\|פִֽי]][[H9014\|־]] [[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H8432\|תוֹכ֑]][[H9023\|וֹ]] [[H8193I\|שָׂפָ֡ה]] [[H1961\|יִֽהְיֶה֩]] [[H9005\|לְ]][[H6310J\|פִ֨י]][[H9023\|ו]] [[H5439G\|סָבִ֜יב]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H0707\|אֹרֵ֗ג]] [[H9004\|כְּ]][[H6310J\|פִ֥י]] [[H8473\|תַחְרָ֛א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H3808\|לֹ֥א]] [[H7167\|יִקָּרֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHOD|EPHOD]] • [[topic HABERGEON|HABERGEON]] • [[topic PRIEST|PRIEST]] • [[topic WEAVING|WEAVING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.31|<< Exodus 28:31]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.33|Exodus 28:33 >>]]</td></tr></table>
 

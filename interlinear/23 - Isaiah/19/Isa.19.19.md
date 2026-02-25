@@ -1,8 +1,59 @@
+---
+title: Isaiah 19:19
+type: Verse
+kjv: "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD."
+bsb: "In that day there will be an altar to the LORD in the center of the land of Egypt, and a pillar to the LORD near her border."
+hebrew: "בַּיּ֣וֹם הַה֗וּא יִֽהְיֶ֤ה מִזְבֵּ֙חַ֙ לַֽיהוָ֔ה בְּת֖וֹךְ אֶ֣רֶץ מִצְרָ֑יִם וּמַצֵּבָ֥ה אֵֽצֶל־ גְּבוּלָ֖הּ לַֽיהוָֽה׃"
+pericope: "[[Isa.19.16 A Blessing upon the Earth|A Blessing upon the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PILLAR|PILLAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H8432]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H4676]]"
+- "[[H0681]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:19**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD.
 <small><sub>**BSB:**</sub></small>
 In that day there will be an altar to the LORD in the center of the land of Egypt, and a pillar to the LORD near her border.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H1961\|יִֽהְיֶ֤ה]] [[H4196\|מִזְבֵּ֙חַ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וּ]][[H4676\|מַצֵּבָ֥ה]] [[H0681\|אֵֽצֶל]][[H9014\|־]] [[H1366G\|גְּבוּלָ֖]][[H9024\|הּ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PILLAR|PILLAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.18|<< Isaiah 19:18]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.20|Isaiah 19:20 >>]]</td></tr></table>
 

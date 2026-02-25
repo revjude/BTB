@@ -1,8 +1,60 @@
+---
+title: Genesis 37:11
+type: Verse
+kjv: "And his brethren envied him; but his father observed the saying."
+bsb: "And his brothers were jealous of him, but his father kept in mind what he had said."
+hebrew: "וַיְקַנְאוּ־ ב֖וֹ אֶחָ֑יו וְאָבִ֖יו שָׁמַ֥ר אֶת־ הַדָּבָֽר׃"
+pericope: "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7065]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:11**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren envied him; but his father observed the saying.
 <small><sub>**BSB:**</sub></small>
 And his brothers were jealous of him, but his father kept in mind what he had said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7065\|יְקַנְאוּ]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H8104G\|שָׁמַ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic JACOB|JACOB]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.10|<< Genesis 37:10]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.12|Genesis 37:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

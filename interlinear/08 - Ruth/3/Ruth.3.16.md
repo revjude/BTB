@@ -1,8 +1,57 @@
+---
+title: Ruth 3:16
+type: Verse
+kjv: "And when she came to her mother in law, she said, Who art thou, my daughter? And she told her all that the man had done to her."
+bsb: "When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her."
+hebrew: "וַתָּבוֹא֙ אֶל־ חֲמוֹתָ֔הּ וַתֹּ֖אמֶר מִי־ אַ֣תְּ בִּתִּ֑י וַתַּ֨גֶּד־ לָ֔הּ אֵ֛ת כָּל־ אֲשֶׁ֥ר עָֽשָׂה־ לָ֖הּ הָאִֽישׁ׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2545]]"
+- "[[H9024]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0859C]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:16**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she came to her mother in law, she said, Who [art] thou, my daughter? And she told her all that the man had done to her.
 <small><sub>**BSB:**</sub></small>
 When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?” Then Ruth told her all that Boaz had done for her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבוֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2545\|חֲמוֹתָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H4310\|מִי]][[H9014\|־]] [[H0859C\|אַ֣תְּ]] [[H1323G\|בִּתִּ֑]][[H9020\|י]] [[H9001\|וַ]][[H5046\|תַּ֨גֶּד]][[H9014\|־]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָֽשָׂה]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9009\|הָ]][[H0376G\|אִֽישׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.15|<< Ruth 3:15]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.17|Ruth 3:17 >>]]</td></tr></table>
 

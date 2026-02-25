@@ -1,8 +1,56 @@
+---
+title: Psalm 86:3
+type: Verse
+kjv: "Be merciful unto me, O Lord: for I cry unto thee daily."
+bsb: "Be merciful to me, O Lord, for I call to You all day long."
+hebrew: "חָנֵּ֥נִי אֲדֹנָ֑י כִּ֥י אֵלֶ֥יךָ אֶ֝קְרָ֗א כָּל־ הַיּֽוֹם׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H0136]]"
+- "[[H3588A]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H7121G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:3**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be merciful unto me, O Lord: for I cry unto thee daily.
 <small><sub>**BSB:**</sub></small>
 Be merciful to me, O Lord, for I call to You all day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|חָנֵּ֥]][[H9030\|נִי]] [[H0136\|אֲדֹנָ֑י]] [[H3588A\|כִּ֥י]] [[H0413\|אֵלֶ֥י]][[H9031\|ךָ]] [[H7121G\|אֶ֝קְרָ֗א]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.2|<< Psalms 86:2]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.4|Psalms 86:4 >>]]</td></tr></table>
 

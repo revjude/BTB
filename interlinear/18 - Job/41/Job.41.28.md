@@ -1,8 +1,53 @@
+---
+title: Job 41:28
+type: Verse
+kjv: "The arrow cannot make him flee: slingstones are turned with him into stubble."
+bsb: "No arrow can make him flee; slingstones become like chaff to him."
+hebrew: "לֹֽא־ יַבְרִיחֶ֥נּוּ בֶן־ קָ֑שֶׁת לְ֝קַ֗שׁ נֶהְפְּכוּ־ ל֥וֹ אַבְנֵי־ קָֽלַע׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1272]]"
+- "[[H9033]]"
+- "[[H1121I]]"
+- "[[H7198]]"
+- "[[H9005]]"
+- "[[H7179]]"
+- "[[H2015]]"
+- "[[H0068G]]"
+- "[[H7050A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:28**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The arrow cannot make him flee: slingstones are turned with him into stubble.
 <small><sub>**BSB:**</sub></small>
 No arrow can make him flee; slingstones become like chaff to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1272\|יַבְרִיחֶ֥]][[H9033\|נּוּ]] [[H1121I\|בֶן]][[H9014\|־]] [[H7198\|קָ֑שֶׁת]] [[H9005\|לְ֝]][[H7179\|קַ֗שׁ]] [[H2015\|נֶהְפְּכוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H0068G\|אַבְנֵי]][[H9014\|־]] [[H7050A\|קָֽלַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.27|<< Job 41:27]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.29|Job 41:29 >>]]</td></tr></table>
 

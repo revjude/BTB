@@ -1,8 +1,63 @@
+---
+title: Numbers 23:23
+type: Verse
+kjv: "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
+bsb: "For there is no spell against Jacob and no divination against Israel. It will now be said of Jacob and Israel, ‘What great things God has done!’"
+hebrew: "כִּ֤י לֹא־ נַ֙חַשׁ֙ בְּיַעֲקֹ֔ב וְלֹא־ קֶ֖סֶם בְּיִשְׂרָאֵ֑ל כָּעֵ֗ת יֵאָמֵ֤ר לְיַעֲקֹב֙ וּלְיִשְׂרָאֵ֔ל מַה־ פָּ֖עַל אֵֽל׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PISGAH|PISGAH]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5173]]"
+- "[[H9003]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H7081]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H6466]]"
+- "[[H0410G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:23**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely [there is] no enchantment against Jacob, neither [is there] any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!
 <small><sub>**BSB:**</sub></small>
 For there is no spell against Jacob and no divination against Israel. It will now be said of Jacob and Israel, ‘What great things God has done!’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹא]][[H9014\|־]] [[H5173\|נַ֙חַשׁ֙]] [[H9003\|בְּ]][[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7081\|קֶ֖סֶם]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9004\|כָּ]][[H6256\|עֵ֗ת]] [[H0559\|יֵאָמֵ֤ר]] [[H9005\|לְ]][[H3290\|יַעֲקֹב֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H4100\|מַה]][[H9014\|־]] [[H6466\|פָּ֖עַל]] [[H0410G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PISGAH|PISGAH]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.22|<< Numbers 23:22]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.24|Numbers 23:24 >>]]</td></tr></table>
 

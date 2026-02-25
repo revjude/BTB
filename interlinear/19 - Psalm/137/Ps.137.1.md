@@ -1,8 +1,63 @@
+---
+title: Psalm 137:1
+type: Verse
+kjv: "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."
+bsb: "By the rivers of Babylon we sat and wept when we remembered Zion."
+hebrew: "עַ֥ל נַהֲר֨וֹת׀ בָּבֶ֗ל שָׁ֣ם יָ֭שַׁבְנוּ גַּם־ בָּכִ֑ינוּ בְּ֝זָכְרֵ֗נוּ אֶת־ צִיּֽוֹן׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H5104H]]"
+- "[[H9015]]"
+- "[[H0894]]"
+- "[[H8033G]]"
+- "[[H3427]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1058]]"
+- "[[H9003]]"
+- "[[H2142]]"
+- "[[H9045]]"
+- "[[H0853]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:1**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 <small><sub>**BSB:**</sub></small>
 By the rivers of Babylon we sat and wept when we remembered Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֥ל]] [[H5104H\|נַהֲר֨וֹת]][[H9015\|׀]] [[H0894\|בָּבֶ֗ל]] [[H8033G\|שָׁ֣ם]] [[H3427\|יָ֭שַׁבְנוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1058\|בָּכִ֑ינוּ]] [[H9003\|בְּ֝]][[H2142\|זָכְרֵ֗]][[H9045\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COUNTRY|COUNTRY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MUSIC|MUSIC]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.26|<< Psalms 136:26]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.2|Psalms 137:2 >>]]</td></tr></table>
 

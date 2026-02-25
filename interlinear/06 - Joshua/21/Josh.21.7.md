@@ -1,8 +1,56 @@
+---
+title: Joshua 21:7
+type: Verse
+kjv: "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+bsb: "And the descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun."
+hebrew: "לִבְנֵ֨י מְרָרִ֜י לְמִשְׁפְּחֹתָ֗ם מִמַּטֵּ֨ה רְאוּבֵ֤ן וּמִמַּטֵּה־ גָד֙ וּמִמַּטֵּ֣ה זְבוּלֻ֔ן עָרִ֖ים שְׁתֵּ֥ים עֶשְׂרֵֽה׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H4847]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H1410G]]"
+- "[[H2074]]"
+- "[[H5892B]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:7**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Merari by their families [had] out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 <small><sub>**BSB:**</sub></small>
 And the descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H4847\|מְרָרִ֜י]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֗]][[H9028\|ם]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֨ה]] [[H7205\|רְאוּבֵ֤ן]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּה]][[H9014\|־]] [[H1410G\|גָד֙]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H2074\|זְבוּלֻ֔ן]] [[H5892B\|עָרִ֖ים]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.6|<< Joshua 21:6]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.8|Joshua 21:8 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Ezekiel 10:15
+type: Verse
+kjv: "And the cherubims were lifted up. This is the living creature that I saw by the river of Chebar."
+bsb: "Then the cherubim rose upward. These were the living creatures I had seen by the River Kebar."
+hebrew: "וַיֵּרֹ֖מּוּ הַכְּרוּבִ֑ים הִ֣יא הַחַיָּ֔ה אֲשֶׁ֥ר רָאִ֖יתִי בִּֽנְהַר־ כְּבָֽר׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHEBAR|CHEBAR]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7426]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H1931]]"
+- "[[H2416C]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H5104H]]"
+- "[[H9014]]"
+- "[[H3529]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:15**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cherubims were lifted up. This [is] the living creature that I saw by the river of Chebar.
 <small><sub>**BSB:**</sub></small>
 Then the cherubim rose upward. These were the living creatures I had seen by the River Kebar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7426\|יֵּרֹ֖מּוּ]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֑ים]] [[H1931\|הִ֣יא]] [[H9009\|הַ]][[H2416C\|חַיָּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|רָאִ֖יתִי]] [[H9003\|בִּֽ]][[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEBAR|CHEBAR]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.14|<< Ezekiel 10:14]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.16|Ezekiel 10:16 >>]]</td></tr></table>
 

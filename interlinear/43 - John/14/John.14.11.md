@@ -1,10 +1,61 @@
+---
+title: John 14:11
+type: Verse
+kjv: "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake."
+bsb: "Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves."
+jesus_said: "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake."
+greek: "πιστεύετέ μοι ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί· εἰ δὲ μή, διὰ τὰ ἔργα αὐτὰ πιστεύετε μοι.¶"
+pericope: "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G4100]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1223]]"
+- "[[G2041]]"
+- "[[G0846]]"
+texts:
+- NKO
+- ko
+---
+
 **John 14:11**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Believe me that I [am] in the Father, and the Father in me: or else believe me for the very works’ sake.
 <small><sub>**BSB:**</sub></small>
 Believe Me that I am in the Father and the Father is in Me—or at least believe on account of the works themselves.
-<small><sub>**Literal:**</sub></small>
-do believe Me that I myself [am] in the Father and the Father in Me myself; lest then except, because of the works themselves do believe to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.10|<< John 14:10]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.12|John 14:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4100\|πιστεύετέ]]  [[G3165\|μοι]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή,]]  [[G1223\|διὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτὰ]]  [[G4100\|πιστεύετε]]  [[G3165\|μοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.10|<< John 14:10]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.12|John 14:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

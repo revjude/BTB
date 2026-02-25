@@ -1,8 +1,72 @@
+---
+title: Daniel 2:24
+type: Verse
+kjv: "Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation."
+bsb: "Therefore Daniel went to Arioch, whom the king had appointed to destroy the wise men of Babylon, and said to him, “Do not execute the wise men of Babylon! Bring me before the king, and I will give him the interpretation.”"
+aramaic: "כָּל־ קֳבֵ֣ל דְּנָ֗ה דָּֽנִיֵּאל֙ עַ֣ל עַל־ אַרְי֔וֹךְ דִּ֚י מַנִּ֣י מַלְכָּ֔א לְהוֹבָדָ֖ה לְחַכִּימֵ֣י בָבֶ֑ל אֲזַ֣ל׀ וְכֵ֣ן אֲמַר־ לֵ֗הּ לְחַכִּימֵ֤י בָבֶל֙ אַל־ תְּהוֹבֵ֔ד הַעֵ֙לְנִי֙ קֳדָ֣ם מַלְכָּ֔א וּפִשְׁרָ֖א לְמַלְכָּ֥א אֲחַוֵּֽא׃ ס"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ARIOCH|ARIOCH]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+strongs:
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1836]]"
+- "[[H1841H]]"
+- "[[H5954]]"
+- "[[H5922]]"
+- "[[H0746B]]"
+- "[[H1768]]"
+- "[[H4483]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H0007]]"
+- "[[H2445]]"
+- "[[H0895]]"
+- "[[H0236]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3652]]"
+- "[[H0560]]"
+- "[[H9033]]"
+- "[[H0409]]"
+- "[[H9030]]"
+- "[[H6925]]"
+- "[[H6591]]"
+- "[[H2324]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Daniel 2:24**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise [men] of Babylon: he went and said thus unto him; Destroy not the wise [men] of Babylon: bring me in before the king, and I will shew unto the king the interpretation.
 <small><sub>**BSB:**</sub></small>
 Therefore Daniel went to Arioch, whom the king had appointed to destroy the wise men of Babylon, and said to him, “Do not execute the wise men of Babylon! Bring me before the king, and I will give him the interpretation.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֣ל]] [[H1836\|דְּנָ֗ה]] [[H1841H\|דָּֽנִיֵּאל֙]] [[H5954\|עַ֣ל]] [[H5922\|עַל]][[H9014\|־]] [[H0746B\|אַרְי֔וֹךְ]] [[H1768\|דִּ֚י]] [[H4483\|מַנִּ֣י]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H9005\|לְ]][[H0007\|הוֹבָדָ֖ה]] [[H9005\|לְ]][[H2445\|חַכִּימֵ֣י]] [[H0895\|בָבֶ֑ל]] [[H0236\|אֲזַ֣ל]][[H9015\|׀]] [[H9002\|וְ]][[H3652\|כֵ֣ן]] [[H0560\|אֲמַר]][[H9014\|־]] [[H9005\|לֵ֗]][[H9033\|הּ]] [[H9005\|לְ]][[H2445\|חַכִּימֵ֤י]] [[H0895\|בָבֶל֙]] [[H0409\|אַל]][[H9014\|־]] [[H0007\|תְּהוֹבֵ֔ד]] [[H5954\|הַעֵ֙לְ]][[H9030\|נִי֙]] [[H6925\|קֳדָ֣ם]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H9002\|וּ]][[H6591\|פִשְׁרָ֖]][[H9010\|א]] [[H9005\|לְ]][[H4430\|מַלְכָּ֥]][[H9010\|א]] [[H2324\|אֲחַוֵּֽא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIOCH|ARIOCH]] • [[topic BABYLON|BABYLON]] • [[topic INTERPRETER|INTERPRETER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.23|<< Daniel 2:23]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.25|Daniel 2:25 >>]]</td></tr></table>
 
@@ -34,7 +98,7 @@ Therefore Daniel went to Arioch, whom the king had appointed to destroy the wise
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and interpretation the  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6591\|פִשְׁרָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> fish.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to king the  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4430\|מַלְכָּ֥]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will declare  |**<big>&#8207;[[H2324\|אֲחַוֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.cha.Ve'<small><sup>[[AVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will declare  |**<big>&#8207;[[H2324\|אֲחַוֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.cha.Ve'<small><sup>[[AVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.23|<< Daniel 2:23]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.25|Daniel 2:25 >>]]</td></tr></table>
 
 

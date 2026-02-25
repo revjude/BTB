@@ -1,8 +1,55 @@
+---
+title: Job 22:18
+type: Verse
+kjv: "Yet he filled their houses with good things: but the counsel of the wicked is far from me."
+bsb: "But it was He who filled their houses with good things; so I stay far from the counsel of the wicked."
+hebrew: "וְה֤וּא מִלֵּ֣א בָתֵּיהֶ֣ם ט֑וֹב וַעֲצַ֥ת רְ֝שָׁעִ֗ים רָ֣חֲקָה מֶֽנִּי׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4390]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H2896B]]"
+- "[[H6098]]"
+- "[[H7563]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:18**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet he filled their houses with good [things]: but the counsel of the wicked is far from me.
 <small><sub>**BSB:**</sub></small>
 But it was He who filled their houses with good things; so I stay far from the counsel of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֤וּא]] [[H4390\|מִלֵּ֣א]] [[H1004B\|בָתֵּי]][[H9028\|הֶ֣ם]] [[H2896B\|ט֑וֹב]] [[H9002\|וַ]][[H6098\|עֲצַ֥ת]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H7368\|רָ֣חֲקָה]] [[H4480A\|מֶֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.17|<< Job 22:17]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.19|Job 22:19 >>]]</td></tr></table>
 

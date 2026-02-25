@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Hurtful Tongue
+type: Pericope
 pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 64
 book/chapter: "[[Ps.64|Psalm 64]]"
-genre:
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.64.0]]"
 - "[[Ps.64.1]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.64.10]]"
 ---
 
-[[Ps.64|Psalm 64:1 - Psalm 64:10]]
+<small>[[Ps.64|Psalm 64:1-10]]</small>
 *The Hurtful Tongue*
 
 [[Ps.64.0|0]] To the chief Musician, A Psalm of David.

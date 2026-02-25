@@ -1,10 +1,56 @@
+---
+title: James 3:5
+type: Verse
+kjv: "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
+bsb: "In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze."
+greek: "Οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ. ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει·"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1100]]"
+- "[[G3398]]"
+- "[[G3196]]"
+- "[[G1510]]"
+- "[[G3173]]"
+- "[[G6094]]"
+- "[[G2400]]"
+- "[[G2245]]"
+- "[[G4442]]"
+- "[[G5208]]"
+- "[[G0381]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **James 3:5**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!
 <small><sub>**BSB:**</sub></small>
 In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze.
-<small><sub>**Literal:**</sub></small>
-Thus also the tongue a small member is and exceeding things it boasts. Behold a great fire how great a forest it kindles;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.4|<< James 3:4]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.6|James 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|Οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1100\|γλῶσσα]]  [[G3398\|μικρὸν]]  [[G3196\|μέλος]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G3173\|μεγάλα]]  [[G6094\|αὐχεῖ.]]  [[G2400\|ἰδοὺ]]  [[G2245\|ἡλίκον]]  [[G4442\|πῦρ]]  [[G2245\|ἡλίκην]]  [[G5208\|ὕλην]]  [[G0381\|ἀνάπτει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.4|<< James 3:4]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.6|James 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

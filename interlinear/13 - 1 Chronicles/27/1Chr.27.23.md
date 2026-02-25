@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 27:23
+type: Verse
+kjv: "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens."
+bsb: "David did not count the men aged twenty or under, because the LORD had said that He would make Israel as numerous as the stars of the sky."
+hebrew: "וְלֹא־ נָשָׂ֤א דָוִיד֙ מִסְפָּרָ֔ם לְמִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וּלְמָ֑טָּה כִּ֚י אָמַ֣ר יְהוָ֔ה לְהַרְבּ֥וֹת אֶת־ יִשְׂרָאֵ֖ל כְּכוֹכְבֵ֥י הַשָּׁמָֽיִם׃"
+pericope: "[[1Chr.27.16 The Leaders of the Twelve Tribes|The Leaders of the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375V]]"
+- "[[H1732]]"
+- "[[H4557]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H4295]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H3556]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:23**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.
 <small><sub>**BSB:**</sub></small>
 David did not count the men aged twenty or under, because the LORD had said that He would make Israel as numerous as the stars of the sky.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5375V\|נָשָׂ֤א]] [[H1732\|דָוִיד֙]] [[H4557\|מִסְפָּרָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H4295\|מָ֑טָּה]] [[H3588A\|כִּ֚י]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H7235A\|הַרְבּ֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9004\|כְּ]][[H3556\|כוֹכְבֵ֥י]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.22|<< 1 Chronicles 27:22]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.24|1 Chronicles 27:24 >>]]</td></tr></table>
 

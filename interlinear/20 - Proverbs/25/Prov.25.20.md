@@ -1,8 +1,59 @@
+---
+title: Proverbs 25:20
+type: Verse
+kjv: "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
+bsb: "Like one who removes a garment on a cold day or vinegar poured on a wound is one who sings songs to a heavy heart."
+hebrew: "מַ֥עֲדֶה בֶּ֨גֶד׀ בְּי֣וֹם קָ֭רָה חֹ֣מֶץ עַל־ נָ֑תֶר וְשָׁ֥ר בַּ֝שִּׁרִ֗ים עַ֣ל לֶב־ רָֽע׃ פ"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NITRE|NITRE]]"
+- "[[topic VINEGAR|VINEGAR]]"
+strongs:
+- "[[H5710A]]"
+- "[[H0899B]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7135]]"
+- "[[H2558]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5427]]"
+- "[[H9002]]"
+- "[[H7891]]"
+- "[[H7892A]]"
+- "[[H3820A]]"
+- "[[H7451A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 25:20**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] he that taketh away a garment in cold weather, [and as] vinegar upon nitre, so [is] he that singeth songs to an heavy heart.
 <small><sub>**BSB:**</sub></small>
 Like one who removes a garment on a cold day or vinegar poured on a wound is one who sings songs to a heavy heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H5710A\|מַ֥עֲדֶה]] [[H0899B\|בֶּ֨גֶד]][[H9015\|׀]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H7135\|קָ֭רָה]] [[H2558\|חֹ֣מֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H5427\|נָ֑תֶר]] [[H9002\|וְ]][[H7891\|שָׁ֥ר]] [[H9003\|בַּ֝]][[H7892A\|שִּׁרִ֗ים]] [[H5921A\|עַ֣ל]] [[H3820A\|לֶב]][[H9014\|־]] [[H7451A\|רָֽע]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic NITRE|NITRE]] • [[topic VINEGAR|VINEGAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.19|<< Proverbs 25:19]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.21|Proverbs 25:21 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ Like one who removes a garment on a cold day or vinegar poured on a wound is one
 | \<with> the songs  |**<big>&#8207;[[H9003\|בַּ֝]]&#8207;&#8207;[[H7892A\|שִּׁרִ֗ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> shi.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a heart  |**<big>&#8207;[[H3820A\|לֶב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lev-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sad  |**<big>&#8207;[[H7451A\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sad  |**<big>&#8207;[[H7451A\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.19|<< Proverbs 25:19]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.21|Proverbs 25:21 >>]]</td></tr></table>
 
 

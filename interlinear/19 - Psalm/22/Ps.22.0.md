@@ -1,6 +1,46 @@
+---
+title: Psalm 22:0
+type: Verse
+kjv: "To the chief Musician upon Aijeleth Shahar, A Psalm of David."
+hebrew: "לַ֭מְנַצֵּחַ עַל־ אַיֶּ֥לֶת הַשַּׁ֗חַר מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0355]]"
+- "[[H9009]]"
+- "[[H7837]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:0**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Aijeleth Shahar, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ֭]][[H5329\|מְנַצֵּחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H0355\|אַיֶּ֥לֶת]] [[H9009\|הַ]][[H7837\|שַּׁ֗חַר]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.13|<< Psalms 21:13]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.1|Psalms 22:1 >>]]</td></tr></table>
 

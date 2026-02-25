@@ -1,8 +1,57 @@
+---
+title: Lamentations 5:1
+type: Verse
+kjv: "Remember, O LORD, what is come upon us: consider, and behold our reproach."
+bsb: "Remember, O LORD, what has happened to us. Look and see our disgrace!"
+hebrew: "זְכֹ֤ר יְהוָה֙ מֶֽה־ הָ֣יָה לָ֔נוּ הַבִּ֖יטָה וּרְאֵ֥ה אֶת־ חֶרְפָּתֵֽנוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H2142]]"
+- "[[H3068G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H5027]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H2781]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 5:1**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, what is come upon us: consider, and behold our reproach.
 <small><sub>**BSB:**</sub></small>
 Remember, O LORD, what has happened to us. Look and see our disgrace!
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹ֤ר]] [[H3068G\|יְהוָה֙]] [[H4100\|מֶֽה]][[H9014\|־]] [[H1961\|הָ֣יָה]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H5027\|הַבִּ֖יטָ]][[H9012\|ה]] [[H9002\|וּ]][[H7200G\|רְאֵ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2781\|חֶרְפָּתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.22|<< Lamentations 4:22]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.2|Lamentations 5:2 >>]]</td></tr></table>
 

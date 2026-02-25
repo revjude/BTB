@@ -1,8 +1,66 @@
+---
+title: Esther 9:31
+type: Verse
+kjv: "To confirm these days of Purim in their times appointed, according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry."
+bsb: "in order to confirm these days of Purim at their appointed time, just as Mordecai the Jew and Queen Esther had established them and had committed themselves and their descendants to the times of fasting and lamentation."
+hebrew: "לְקַיֵּ֡ם אֵת־ יְמֵי֩ הַפֻּרִ֨ים הָאֵ֜לֶּה בִּזְמַנֵּיהֶ֗ם כַּאֲשֶׁר֩ קִיַּ֨ם עֲלֵיהֶ֜ם מָרְדֳּכַ֤י הַיְּהוּדִי֙ וְאֶסְתֵּ֣ר הַמַּלְכָּ֔ה וְכַאֲשֶׁ֛ר קִיְּמ֥וּ עַל־ נַפְשָׁ֖ם וְעַל־ זַרְעָ֑ם דִּבְרֵ֥י הַצֹּמ֖וֹת וְזַעֲקָתָֽם׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H9005]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H6332]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H2165]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H4782H]]"
+- "[[H3064]]"
+- "[[H9002]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H5315I]]"
+- "[[H2233H]]"
+- "[[H1697I]]"
+- "[[H6685]]"
+- "[[H2201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:31**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To confirm these days of Purim in their times [appointed], according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry.
 <small><sub>**BSB:**</sub></small>
 in order to confirm these days of Purim at their appointed time, just as Mordecai the Jew and Queen Esther had established them and had committed themselves and their descendants to the times of fasting and lamentation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6965I\|קַיֵּ֡ם]] [[H0853\|אֵת]][[H9014\|־]] [[H3117G\|יְמֵי֩]] [[H9009\|הַ]][[H6332\|פֻּרִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H9003\|בִּ]][[H2165\|זְמַנֵּי]][[H9028\|הֶ֗ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H6965I\|קִיַּ֨ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֜ם]] [[H4782H\|מָרְדֳּכַ֤י]] [[H9009\|הַ]][[H3064\|יְּהוּדִי֙]] [[H9002\|וְ]][[H0635\|אֶסְתֵּ֣ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּ֔ה]] [[H9002\|וְ]][[H9004\|כַ]][[H0834D\|אֲשֶׁ֛ר]] [[H6965I\|קִיְּמ֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשָׁ֖]][[H9028\|ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2233H\|זַרְעָ֑]][[H9028\|ם]] [[H1697I\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H6685\|צֹּמ֖וֹת]] [[H9002\|וְ]][[H2201\|זַעֲקָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.30|<< Esther 9:30]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.32|Esther 9:32 >>]]</td></tr></table>
 

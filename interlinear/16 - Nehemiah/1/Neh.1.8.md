@@ -1,8 +1,68 @@
+---
+title: Nehemiah 1:8
+type: Verse
+kjv: "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:"
+bsb: "Remember, I pray, the word that You commanded Your servant Moses when You said, ‘If you are unfaithful, I will scatter you among the nations,"
+hebrew: "זְכָר־ נָא֙ אֶת־ הַדָּבָ֔ר אֲשֶׁ֥ר צִוִּ֛יתָ אֶת־ מֹשֶׁ֥ה עַבְדְּךָ֖ לֵאמֹ֑ר אַתֶּ֣ם תִּמְעָ֔לוּ אֲנִ֕י אָפִ֥יץ אֶתְכֶ֖ם בָּעַמִּֽים׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0859D]]"
+- "[[H4603]]"
+- "[[H0589]]"
+- "[[H6327A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:8**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, [If] ye transgress, I will scatter you abroad among the nations:
 <small><sub>**BSB:**</sub></small>
 Remember, I pray, the word that You commanded Your servant Moses when You said, ‘If you are unfaithful, I will scatter you among the nations,
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכָר]][[H9014\|־]] [[H4994\|נָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֛יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0859D\|אַתֶּ֣ם]] [[H4603\|תִּמְעָ֔לוּ]] [[H0589\|אֲנִ֕י]] [[H6327A\|אָפִ֥יץ]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9003\|בָּ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.7|<< Nehemiah 1:7]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.9|Nehemiah 1:9 >>]]</td></tr></table>
 

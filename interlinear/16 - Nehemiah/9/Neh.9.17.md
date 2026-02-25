@@ -1,8 +1,82 @@
+---
+title: Nehemiah 9:17
+type: Verse
+kjv: "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not."
+bsb: "They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt. But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them."
+hebrew: "וַיְמָאֲנ֣וּ לִשְׁמֹ֗עַ וְלֹא־ זָכְר֤וּ נִפְלְאֹתֶ֙יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ עִמָּהֶ֔ם וַיַּקְשׁוּ֙ אֶת־ עָרְפָּ֔ם וַיִּתְּנוּ־ רֹ֛אשׁ לָשׁ֥וּב לְעַבְדֻתָ֖ם בְּמִרְיָ֑ם וְאַתָּה֩ אֱל֨וֹהַּ סְלִיח֜וֹת חַנּ֧וּן וְרַח֛וּם אֶֽרֶךְ־ אַפַּ֥יִם וְרַב־ חֶ֖סֶד וְלֹ֥א עֲזַבְתָּֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H8085H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H6381]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H7185]]"
+- "[[H0853]]"
+- "[[H6203]]"
+- "[[H9028]]"
+- "[[H5414H]]"
+- "[[H7218H]]"
+- "[[H7725G]]"
+- "[[H5659]]"
+- "[[H9003]]"
+- "[[H4805H]]"
+- "[[H0859A]]"
+- "[[H0433]]"
+- "[[H5547]]"
+- "[[H2587]]"
+- "[[H7349]]"
+- "[[H0750]]"
+- "[[H0639G]]"
+- "[[H7227A]]"
+- "[[H2617A]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nehemiah 9:17**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou [art] a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.
 <small><sub>**BSB:**</sub></small>
 They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt. But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3985\|יְמָאֲנ֣וּ]] [[H9005\|לִ]][[H8085H\|שְׁמֹ֗עַ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2142\|זָכְר֤וּ]] [[H6381\|נִפְלְאֹתֶ֙י]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֣יתָ]] [[H5973A\|עִמָּ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H7185\|יַּקְשׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6203\|עָרְפָּ֔]][[H9028\|ם]] [[H9001\|וַ]][[H5414H\|יִּתְּנוּ]][[H9014\|־]] [[H7218H\|רֹ֛אשׁ]] [[H9005\|לָ]][[H7725G\|שׁ֥וּב]] [[H9005\|לְ]][[H5659\|עַבְדֻתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H4805H\|מִרְיָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0859A\|אַתָּה֩]] [[H0433\|אֱל֨וֹהַּ]] [[H5547\|סְלִיח֜וֹת]] [[H2587\|חַנּ֧וּן]] [[H9002\|וְ]][[H7349\|רַח֛וּם]] [[H0750\|אֶֽרֶךְ]][[H9014\|־]] [[H0639G\|אַפַּ֥יִם]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H2617A\|חֶ֖סֶד]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5800A\|עֲזַבְתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.16|<< Nehemiah 9:16]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.18|Nehemiah 9:18 >>]]</td></tr></table>
 
@@ -37,6 +111,6 @@ They refused to listen and failed to remember the wonders You performed among th
 | you abandoned them  |**<big>&#8207;[[H5800A\|עֲזַבְתָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.zav.Ta<small><sup>[[HVqp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.16|<< Nehemiah 9:16]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.18|Nehemiah 9:18 >>]]</td></tr></table>
 
-[^1]: and covenant loyalty  | **<big>[[H2617A|חֶסֶד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> che.sed<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: and covenant loyalty  | **<big>[[H9002|וְ]]</big><big>[[H2617A|חֶסֶד]]</big> ** | ve.<small><sup>[[HC]]</sup></small> che.sed<small><sup>[[HNcbsa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>וחֶ֖סֶד</big></span>**
 

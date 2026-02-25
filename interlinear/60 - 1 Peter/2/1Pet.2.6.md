@@ -1,10 +1,69 @@
+---
+title: 1 Peter 2:6
+type: Verse
+kjv: "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded."
+bsb: "For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.”"
+greek: "διότι περιέχει ἐν τῇ γραφῇ· ἰδοὺ τίθημι ἐν Σιὼν λίθον ἀκρογωνιαῖον ἐκλεκτὸν ἔντιμον, καὶ ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ μὴ καταισχυνθῇ."
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G1360]]"
+- "[[G4023]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G2400]]"
+- "[[G5087]]"
+- "[[G4622]]"
+- "[[G3037]]"
+- "[[G0204]]"
+- "[[G1588]]"
+- "[[G1784]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G2617]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **1 Peter 2:6**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.
 <small><sub>**BSB:**</sub></small>
 For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.”
-<small><sub>**Literal:**</sub></small>
-Therefore it is contained in <the> Scripture: Behold I lay in Zion a stone cornerstone a chosen precious, and the [one] who is believing on Him certainly not may be put to shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.5|<< 1 Peter 2:5]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.7|1 Peter 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]]  [[G4023\|περιέχει]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1124\|γραφῇ·]]  [[G2400\|ἰδοὺ]]  [[G5087\|τίθημι]]  [[G1722\|ἐν]]  [[G4622\|Σιὼν]]  [[G3037\|λίθον]]  [[G0204\|ἀκρογωνιαῖον]]  [[G1588\|ἐκλεκτὸν]]  [[G1784\|ἔντιμον,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2617\|καταισχυνθῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORNERSTONE|CORNERSTONE]] • [[topic ELECTION|ELECTION]] • [[topic FAITH|FAITH]] • [[topic HOUSE|HOUSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.5|<< 1 Peter 2:5]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.7|1 Peter 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:6** is...
 > $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]

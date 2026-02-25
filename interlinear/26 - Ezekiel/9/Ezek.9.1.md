@@ -1,8 +1,59 @@
+---
+title: Ezekiel 9:1
+type: Verse
+kjv: "He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand."
+bsb: "Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand.”"
+hebrew: "וַיִּקְרָ֣א בְאָזְנַ֗י ק֤וֹל גָּדוֹל֙ לֵאמֹ֔ר קָרְב֖וּ פְּקֻדּ֣וֹת הָעִ֑יר וְאִ֛ישׁ כְּלִ֥י מַשְׁחֵת֖וֹ בְּיָדֽוֹ׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H9020]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7126G]]"
+- "[[H6486]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3627]]"
+- "[[H4892]]"
+- "[[H9023]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 9:1**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man [with] his destroying weapon in his hand.
 <small><sub>**BSB:**</sub></small>
 Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121I\|יִּקְרָ֣א]] [[H9003\|בְ]][[H0241I\|אָזְנַ֗]][[H9020\|י]] [[H6963A\|ק֤וֹל]] [[H1419A\|גָּדוֹל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7126G\|קָרְב֖וּ]] [[H6486\|פְּקֻדּ֣וֹת]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H0376I\|אִ֛ישׁ]] [[H3627\|כְּלִ֥י]] [[H4892\|מַשְׁחֵת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.18|<< Ezekiel 8:18]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.2|Ezekiel 9:2 >>]]</td></tr></table>
 

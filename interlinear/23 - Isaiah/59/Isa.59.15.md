@@ -1,8 +1,67 @@
+---
+title: Isaiah 59:15
+type: Verse
+kjv: "Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment."
+bsb: "Truth is missing, and whoever turns from evil becomes prey. The LORD looked and was displeased that there was no justice."
+hebrew: "וַתְּהִ֤י הָֽאֱמֶת֙ נֶעְדֶּ֔רֶת וְסָ֥ר מֵרָ֖ע מִשְׁתּוֹלֵ֑ל וַיַּ֧רְא יְהוָ֛ה וַיֵּ֥רַע בְּעֵינָ֖יו כִּֽי־ אֵ֥ין מִשְׁפָּֽט׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0571H]]"
+- "[[H5737C]]"
+- "[[H9002]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H7451B]]"
+- "[[H7997B]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:15**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, truth faileth; and he [that] departeth from evil maketh himself a prey: and the LORD saw [it], and it displeased him that [there was] no judgment.
 <small><sub>**BSB:**</sub></small>
 Truth is missing, and whoever turns from evil becomes prey. The LORD looked and was displeased that there was no justice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H9009\|הָֽ]][[H0571H\|אֱמֶת֙]] [[H5737C\|נֶעְדֶּ֔רֶת]] [[H9002\|וְ]][[H5493H\|סָ֥ר]] [[H9006\|מֵ]][[H7451B\|רָ֖ע]] [[H7997B\|מִשְׁתּוֹלֵ֑ל]] [[H9001\|וַ]][[H7200G\|יַּ֧רְא]] [[H3068G\|יְהוָ֛ה]] [[H9001\|וַ]][[H7489A\|יֵּ֥רַע]] [[H9003\|בְּ]][[H5869I\|עֵינָ֖י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTICE|JUSTICE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.14|<< Isaiah 59:14]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.16|Isaiah 59:16 >>]]</td></tr></table>
 

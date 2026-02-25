@@ -1,8 +1,58 @@
+---
+title: Isaiah 1:30
+type: Verse
+kjv: "For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water."
+bsb: "For you will become like an oak whose leaves are withered, like a garden without water."
+hebrew: "כִּ֣י תִֽהְי֔וּ כְּאֵלָ֖ה נֹבֶ֣לֶת עָלֶ֑הָ וּֽכְגַנָּ֔ה אֲשֶׁר־ מַ֖יִם אֵ֥ין לָֽהּ׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0424]]"
+- "[[H5034B]]"
+- "[[H5929]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1593]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:30**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.
 <small><sub>**BSB:**</sub></small>
 For you will become like an oak whose leaves are withered, like a garden without water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H1961\|תִֽהְי֔וּ]] [[H9004\|כְּ]][[H0424\|אֵלָ֖ה]] [[H5034B\|נֹבֶ֣לֶת]] [[H5929\|עָלֶ֑]][[H9024\|הָ]] [[H9002\|וּֽ]][[H9004\|כְ]][[H1593\|גַנָּ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H0369\|אֵ֥ין]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.29|<< Isaiah 1:29]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.31|Isaiah 1:31 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 19:18
+type: Verse
+kjv: "So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth."
+bsb: "So David ran away and escaped. And he went to Samuel at Ramah and told him all that Saul had done to him. Then he and Samuel went to Naioth and stayed there."
+hebrew: "וְדָוִ֨ד בָּרַ֜ח וַיִּמָּלֵ֗ט וַיָּבֹ֤א אֶל־ שְׁמוּאֵל֙ הָרָמָ֔תָה וַיַּ֨גֶּד־ ל֔וֹ אֵ֛ת כָּל־ אֲשֶׁ֥ר עָֽשָׂה־ ל֖וֹ שָׁא֑וּל וַיֵּ֤לֶךְ הוּא֙ וּשְׁמוּאֵ֔ל וַיֵּשְׁב֖וּ בְּנָֽיוֹת׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NAIOTH|NAIOTH]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H1272]]"
+- "[[H9001]]"
+- "[[H4422]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H9009]]"
+- "[[H7414J]]"
+- "[[H9011]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H7586G]]"
+- "[[H1980G]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5121]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 19:18**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.
 <small><sub>**BSB:**</sub></small>
 So David ran away and escaped. And he went to Samuel at Ramah and told him all that Saul had done to him. Then he and Samuel went to Naioth and stayed there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֨ד]] [[H1272\|בָּרַ֜ח]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֗ט]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵל֙]] [[H9009\|הָ]][[H7414J\|רָמָ֔תָ]][[H9011\|ה]] [[H9001\|וַ]][[H5046\|יַּ֨גֶּד]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָֽשָׂה]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H1931\|הוּא֙]] [[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֔ל]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֖וּ]] [[H9003\|בְּ]][[H5121\|נָֽיוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NAIOTH|NAIOTH]] • [[topic RAMAH|RAMAH]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.17|<< 1 Samuel 19:17]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.19|1 Samuel 19:19 >>]]</td></tr></table>
 

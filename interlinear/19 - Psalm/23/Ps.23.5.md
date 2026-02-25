@@ -1,8 +1,65 @@
+---
+title: Psalm 23:5
+type: Verse
+kjv: "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+bsb: "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows."
+hebrew: "תַּעֲרֹ֬ךְ לְפָנַ֨י׀ שֻׁלְחָ֗ן נֶ֥גֶד צֹרְרָ֑י דִּשַּׁ֖נְתָּ בַשֶּׁ֥מֶן רֹ֝אשִׁ֗י כּוֹסִ֥י רְוָיָֽה׃"
+pericope: "[[Ps.23.1 The LORD Is My Shepherd|The LORD Is My Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 23
+book/chapter: "[[Ps.23|Psalm 23]]"
+chronological_order: 356
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CUP|CUP]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OIL|OIL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H7979]]"
+- "[[H5048]]"
+- "[[H6887D]]"
+- "[[H9030]]"
+- "[[H1878]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7218A]]"
+- "[[H3563A]]"
+- "[[H7310]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 23:5**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
 <small><sub>**BSB:**</sub></small>
 You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.
+<small><sub>**Hebrew:**</sub></small>
+[[H6186A\|תַּעֲרֹ֬ךְ]] [[H9005\|לְ]][[H6440G\|פָנַ֨]][[H9020\|י]][[H9015\|׀]] [[H7979\|שֻׁלְחָ֗ן]] [[H5048\|נֶ֥גֶד]] [[H6887D\|צֹרְרָ֑]][[H9030\|י]] [[H1878\|דִּשַּׁ֖נְתָּ]] [[H9003\|בַ]][[H8081\|שֶּׁ֥מֶן]] [[H7218A\|רֹ֝אשִׁ֗]][[H9020\|י]] [[H3563A\|כּוֹסִ֥]][[H9020\|י]] [[H7310\|רְוָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CUP|CUP]] • [[topic FAITH|FAITH]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic OIL|OIL]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.4|<< Psalms 23:4]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.6|Psalms 23:6 >>]]</td></tr></table>
 

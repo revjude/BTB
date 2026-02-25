@@ -1,8 +1,67 @@
+---
+title: 1 Kings 17:22
+type: Verse
+kjv: "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived."
+bsb: "And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived."
+hebrew: "וַיִּשְׁמַ֥ע יְהוָ֖ה בְּק֣וֹל אֵלִיָּ֑הוּ וַתָּ֧שָׁב נֶֽפֶשׁ־ הַיֶּ֛לֶד עַל־ קִרְבּ֖וֹ וַיֶּֽחִי׃"
+pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H0452G]]"
+- "[[H7725G]]"
+- "[[H5315H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H5921A]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:22**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived.
 <small><sub>**BSB:**</sub></small>
 And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H0452G\|אֵלִיָּ֑הוּ]] [[H9001\|וַ]][[H7725G\|תָּ֧שָׁב]] [[H5315H\|נֶֽפֶשׁ]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֛לֶד]] [[H5921A\|עַל]][[H9014\|־]] [[H7130G\|קִרְבּ֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H2421\|יֶּֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELIJAH|ELIJAH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic POOR|POOR]] • [[topic PRAYER|PRAYER]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.21|<< 1 Kings 17:21]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.23|1 Kings 17:23 >>]]</td></tr></table>
 

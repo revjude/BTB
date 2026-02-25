@@ -1,8 +1,48 @@
+---
+title: Proverbs 31:2
+type: Verse
+kjv: "What, my son? and what, the son of my womb? and what, the son of my vows?"
+bsb: "What shall I say, O my son? What, O son of my womb? What, O son of my vows?"
+hebrew: "מַה־ בְּ֭רִי וּמַֽה־ בַּר־ בִּטְנִ֑י וּ֝מֶה בַּר־ נְדָרָֽי׃"
+pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0990H]]"
+- "[[H5088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:2**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What, my son? and what, the son of my womb? and what, the son of my vows?
 <small><sub>**BSB:**</sub></small>
 What shall I say, O my son? What, O son of my womb? What, O son of my vows?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H1121A\|בְּ֭רִ]][[H9020\|י]] [[H9002\|וּ]][[H4100\|מַֽה]][[H9014\|־]] [[H1121A\|בַּר]][[H9014\|־]] [[H0990H\|בִּטְנִ֑]][[H9020\|י]] [[H9002\|וּ֝]][[H4100\|מֶה]] [[H1121A\|בַּר]][[H9014\|־]] [[H5088\|נְדָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.1|<< Proverbs 31:1]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.3|Proverbs 31:3 >>]]</td></tr></table>
 

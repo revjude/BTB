@@ -1,8 +1,56 @@
+---
+title: Psalm 30:4
+type: Verse
+kjv: "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness."
+bsb: "Sing to the LORD, O you His saints, and praise His holy name."
+hebrew: "זַמְּר֣וּ לַיהוָ֣ה חֲסִידָ֑יו וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֽׁוֹ׃"
+pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2167]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H2623]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3034]]"
+- "[[H2143]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 30:4**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD, O you His saints, and praise His holy name.
+<small><sub>**Hebrew:**</sub></small>
+[[H2167\|זַמְּר֣וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H2623\|חֲסִידָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H3034\|הוֹד֗וּ]] [[H9005\|לְ]][[H2143\|זֵ֣כֶר]] [[H6944G\|קָדְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.3|<< Psalms 30:3]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.5|Psalms 30:5 >>]]</td></tr></table>
 

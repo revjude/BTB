@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 2:11
+type: Verse
+kjv: "Which also were accounted giants, as the Anakims; but the Moabites call them Emims."
+bsb: "Like the Anakites, they were also regarded as Rephaim, though the Moabites called them Emites."
+hebrew: "רְפָאִ֛ים יֵחָשְׁב֥וּ אַף־ הֵ֖ם כָּעֲנָקִ֑ים וְהַמֹּ֣אָבִ֔ים יִקְרְא֥וּ לָהֶ֖ם אֵמִֽים׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EMIMS|EMIMS]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H7497B]]"
+- "[[H2803J]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H6062]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4125]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:11**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
 <small><sub>**BSB:**</sub></small>
 Like the Anakites, they were also regarded as Rephaim, though the Moabites called them Emites.
+<small><sub>**Hebrew:**</sub></small>
+[[H7497B\|רְפָאִ֛ים]] [[H2803J\|יֵחָשְׁב֥וּ]] [[H0637\|אַף]][[H9014\|־]] [[H1992\|הֵ֖ם]] [[H9004\|כָּ]][[H6062\|עֲנָקִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4125\|מֹּ֣אָבִ֔ים]] [[H7121H\|יִקְרְא֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H0368\|אֵמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMIMS|EMIMS]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.10|<< Deuteronomy 2:10]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.12|Deuteronomy 2:12 >>]]</td></tr></table>
 

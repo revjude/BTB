@@ -1,8 +1,70 @@
+---
+title: Daniel 5:19
+type: Verse
+kjv: "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down."
+bsb: "Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished."
+aramaic: "וּמִן־ רְבוּתָא֙ דִּ֣י יְהַב־ לֵ֔הּ כֹּ֣ל עַֽמְמַיָּ֗א אֻמַיָּא֙ וְלִשָּׁ֣נַיָּ֔א הֲו֛וֹ זָיְעִ֥ין וְדָחֲלִ֖ין מִן־ קֳדָמ֑וֹהִי דִּֽי־ הֲוָ֨ה צָבֵ֜א הֲוָ֣א קָטֵ֗ל וְדִֽי־ הֲוָ֤ה צָבֵא֙ הֲוָ֣ה מַחֵ֔א וְדִֽי־ הֲוָ֤ה צָבֵא֙ הֲוָ֣ה מָרִ֔ים וְדִֽי־ הֲוָ֥ה צָבֵ֖א הֲוָ֥ה מַשְׁפִּֽיל׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H7238]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3606]]"
+- "[[H5972]]"
+- "[[H0524]]"
+- "[[H3961]]"
+- "[[H1934]]"
+- "[[H2112]]"
+- "[[H1763]]"
+- "[[H6925]]"
+- "[[H6634]]"
+- "[[H6992]]"
+- "[[H2418]]"
+- "[[H7313]]"
+- "[[H8214]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 5:19**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
 <small><sub>**BSB:**</sub></small>
 Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4481\|מִן]][[H9014\|־]] [[H7238\|רְבוּתָ]][[H9010\|א֙]] [[H1768\|דִּ֣י]] [[H3052\|יְהַב]][[H9014\|־]] [[H9005\|לֵ֔]][[H9033\|הּ]] [[H3606\|כֹּ֣ל]] [[H5972\|עַֽמְמַיָּ֗]][[H9010\|א]] [[H0524\|אֻמַיָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H3961\|לִשָּׁ֣נַיָּ֔]][[H9010\|א]] [[H1934\|הֲו֛וֹ]] [[H2112\|זָיְעִ֥ין]] [[H9002\|וְ]][[H1763\|דָחֲלִ֖ין]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמ֑וֹ]][[H9033\|הִי]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|הֲוָ֨ה]] [[H6634\|צָבֵ֜א]] [[H1934\|הֲוָ֣א]] [[H6992\|קָטֵ֗ל]] [[H9002\|וְ]][[H1768\|דִֽי]][[H9014\|־]] [[H1934\|הֲוָ֤ה]] [[H6634\|צָבֵא֙]] [[H1934\|הֲוָ֣ה]] [[H2418\|מַחֵ֔א]] [[H9002\|וְ]][[H1768\|דִֽי]][[H9014\|־]] [[H1934\|הֲוָ֤ה]] [[H6634\|צָבֵא֙]] [[H1934\|הֲוָ֣ה]] [[H7313\|מָרִ֔ים]] [[H9002\|וְ]][[H1768\|דִֽי]][[H9014\|־]] [[H1934\|הֲוָ֥ה]] [[H6634\|צָבֵ֖א]] [[H1934\|הֲוָ֥ה]] [[H8214\|מַשְׁפִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic REPROOF|REPROOF]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.18|<< Daniel 5:18]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.20|Daniel 5:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

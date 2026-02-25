@@ -1,8 +1,59 @@
+---
+title: Psalm 89:4
+type: Verse
+kjv: "Thy seed will I establish for ever, and build up thy throne to all generations. Selah."
+bsb: "‘I will establish your offspring forever and build up your throne for all generations.’” Selah"
+hebrew: "עַד־ ע֭וֹלָם אָכִ֣ין זַרְעֶ֑ךָ וּבָנִ֨יתִי לְדֹר־ וָד֖וֹר כִּסְאֲךָ֣ סֶֽלָה׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H3559H]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H3678G]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:4**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy seed will I establish for ever, and build up thy throne to all generations. Selah.
 <small><sub>**BSB:**</sub></small>
 ‘I will establish your offspring forever and build up your throne for all generations.’” Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H5769G\|ע֭וֹלָם]] [[H3559H\|אָכִ֣ין]] [[H2233H\|זַרְעֶ֑]][[H9021\|ךָ]] [[H9001\|וּ]][[H1129\|בָנִ֨יתִי]] [[H9005\|לְ]][[H1755\|דֹר]][[H9014\|־]] [[H9002\|וָ]][[H1755\|ד֖וֹר]] [[H3678G\|כִּסְאֲ]][[H9021\|ךָ֣]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.3|<< Psalms 89:3]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.5|Psalms 89:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

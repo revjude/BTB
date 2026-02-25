@@ -1,8 +1,49 @@
+---
+title: Psalm 47:6
+type: Verse
+kjv: "Sing praises to God, sing praises: sing praises unto our King, sing praises."
+bsb: "Sing praises to God, sing praises; sing praises to our King, sing praises!"
+hebrew: "זַמְּר֣וּ אֱלֹהִ֣ים זַמֵּ֑רוּ זַמְּר֖וּ לְמַלְכֵּ֣נוּ זַמֵּֽרוּ׃"
+pericope: "[[Ps.47.1 Clap Your Hands, All You Peoples|Clap Your Hands, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 47
+book/chapter: "[[Ps.47|Psalm 47]]"
+chronological_order: 502
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H2167]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 47:6**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing praises to God, sing praises: sing praises unto our King, sing praises.
 <small><sub>**BSB:**</sub></small>
 Sing praises to God, sing praises; sing praises to our King, sing praises!
+<small><sub>**Hebrew:**</sub></small>
+[[H2167\|זַמְּר֣וּ]] [[H0430G\|אֱלֹהִ֣ים]] [[H2167\|זַמֵּ֑רוּ]] [[H2167\|זַמְּר֖וּ]] [[H9005\|לְ]][[H4428G\|מַלְכֵּ֣]][[H9025\|נוּ]] [[H2167\|זַמֵּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.5|<< Psalms 47:5]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.7|Psalms 47:7 >>]]</td></tr></table>
 

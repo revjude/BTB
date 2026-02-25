@@ -1,10 +1,57 @@
+---
+title: Matthew 22:40
+type: Verse
+kjv: "On these two commandments hang all the law and the prophets."
+bsb: "All the Law and the Prophets hang on these two commandments.”"
+jesus_said: "On these two commandments hang all the law and the prophets."
+greek: "ἐν ταύταις ταῖς δυσὶν ἐντολαῖς ὅλος ὁ νόμος κρέμαται καὶ οἱ προφῆται.¶"
+pericope: "[[Matt.22.34 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G1785]]"
+- "[[G3650]]"
+- "[[G3551]]"
+- "[[G2910]]"
+- "[[G2532]]"
+- "[[G4396]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 22:40**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 On these two commandments hang all the law and the prophets.
 <small><sub>**BSB:**</sub></small>
 All the Law and the Prophets hang on these two commandments.”
-<small><sub>**Literal:**</sub></small>
-On these <the> two commandments all the law hangs and the Prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.39|<< Matthew 22:39]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.41|Matthew 22:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|ταύταις]]  [[G3588\|ταῖς]]  [[G1417\|δυσὶν]]  [[G1785\|ἐντολαῖς]]  [[G3650\|ὅλος]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G2910\|κρέμαται]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic DUTY|DUTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.39|<< Matthew 22:39]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.41|Matthew 22:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

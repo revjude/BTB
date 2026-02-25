@@ -1,6 +1,46 @@
+---
+title: LXX Ezekiel 35:14
+type: Verse
+lxx: "Thus says the lord; In the gladness of all the earth, I will make you a wilderness."
+greek: "τάδε λέγει κύριος εν τη ευφροσύνη πάσης της γης έρημον ποιήσω σε"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2167]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2048]]"
+- "[[G4160]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 35:14** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>; In the gladness of all the earth, I will make you a wilderness. 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G1722\|εν]] [[G3588\|τη]] [[G2167\|ευφροσύνη]] [[G3956\|πάσης]] [[G3588\|της]] [[G1093\|γης]] [[G2048\|έρημον]] [[G4160\|ποιήσω]] [[G1473\|σε]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.13|<< Ezekiel 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.15|Ezekiel 35:15 >>]]</td></tr></table>
 
@@ -18,6 +58,6 @@ Thus says \[the\] <span class="smallcaps">lord</span>; In the gladness of all th
 | a wilderness | **<big>[[G2048\|έρημον]]</big>** |
 | I will make | **<big>[[G4160\|ποιήσω]]</big>** |
 | you | **<big>[[G1473\|σε]]</big>** |
-[[Ezek.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.13|<< Ezekiel 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.15|Ezekiel 35:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.13|<< Ezekiel 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.15|Ezekiel 35:15 >>]]</td></tr></table>
 
 

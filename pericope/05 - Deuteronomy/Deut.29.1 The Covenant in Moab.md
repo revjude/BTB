@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant in Moab
+type: Pericope
 pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 29
 book/chapter: "[[Deut.29|Deuteronomy 29]]"
-genre:
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 29
 verses:
 - "[[Deut.29.1]]"
 - "[[Deut.29.2]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Deut.29.29]]"
 ---
 
-[[Deut.29|Deuteronomy 29:1 - Deuteronomy 29:29]]
+<small>[[Deut.29|Deuteronomy 29:1-29]]</small>
 *The Covenant in Moab*
 
 [[Deut.29.1|1]] These \[are\] the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.

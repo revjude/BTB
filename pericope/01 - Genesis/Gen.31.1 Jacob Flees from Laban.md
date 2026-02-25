@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Flees from Laban
+type: Pericope
 pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 31
 book/chapter: "[[Gen.31|Genesis 31]]"
-genre:
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 21
 verses:
 - "[[Gen.31.1]]"
 - "[[Gen.31.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Gen.31.21]]"
 ---
 
-[[Gen.31|Genesis 31:1 - Genesis 31:21]]
+<small>[[Gen.31|Genesis 31:1-21]]</small>
 *Jacob Flees from Laban*
 
 [[Gen.31.1|1]] And he heard the words of Laban’s sons, saying, Jacob hath taken away all that \[was\] our father’s; and of \[that\] which \[was\] our father’s hath he gotten all this glory.

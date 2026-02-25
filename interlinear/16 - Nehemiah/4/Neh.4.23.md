@@ -1,8 +1,65 @@
+---
+title: Nehemiah 4:23
+type: Verse
+kjv: "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing."
+bsb: "So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water."
+hebrew: "וְאֵ֨ין אֲנִ֜י וְאַחַ֣י וּנְעָרַ֗י וְאַנְשֵׁ֤י הַמִּשְׁמָר֙ אֲשֶׁ֣ר אַחֲרַ֔י אֵין־ אֲנַ֥חְנוּ פֹשְׁטִ֖ים בְּגָדֵ֑ינוּ אִ֖ישׁ שִׁלְח֥וֹ הַמָּֽיִם׃ ס"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H0589]]"
+- "[[H0251I]]"
+- "[[H9020]]"
+- "[[H5288]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4929]]"
+- "[[H0834A]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H0587]]"
+- "[[H6584]]"
+- "[[H0899B]]"
+- "[[H9025]]"
+- "[[H0376I]]"
+- "[[H7973]]"
+- "[[H9023]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 4:23**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, [saving that] every one put them off for washing.
 <small><sub>**BSB:**</sub></small>
 So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0369\|אֵ֨ין]] [[H0589\|אֲנִ֜י]] [[H9002\|וְ]][[H0251I\|אַחַ֣]][[H9020\|י]] [[H9002\|וּ]][[H5288\|נְעָרַ֗]][[H9020\|י]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֤י]] [[H9009\|הַ]][[H4929\|מִּשְׁמָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H0369\|אֵין]][[H9014\|־]] [[H0587\|אֲנַ֥חְנוּ]] [[H6584\|פֹשְׁטִ֖ים]] [[H0899B\|בְּגָדֵ֑י]][[H9025\|נוּ]] [[H0376I\|אִ֖ישׁ]] [[H7973\|שִׁלְח֥]][[H9023\|וֹ]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.22|<< Nehemiah 4:22]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.1|Nehemiah 5:1 >>]]</td></tr></table>
 
@@ -22,7 +79,7 @@ So neither I nor my brothers nor my servants nor the guards with me changed out 
 | clothes our  |**<big>&#8207;[[H0899B\|בְּגָדֵ֑י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| be.ga.Dei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each one  |**<big>&#8207;[[H0376I\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | weapon his  |**<big>&#8207;[[H7973\|שִׁלְח֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| shil.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.22|<< Nehemiah 4:22]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.1|Nehemiah 5:1 >>]]</td></tr></table>
 
 

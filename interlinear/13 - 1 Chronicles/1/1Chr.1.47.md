@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 1:47
+type: Verse
+kjv: "And when Hadad was dead, Samlah of Masrekah reigned in his stead."
+bsb: "When Hadad died, Samlah from Masrekah reigned in his place."
+hebrew: "וַיָּ֖מָת הֲדָ֑ד וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שַׂמְלָ֖ה מִמַּשְׂרֵקָֽה׃"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic KING|KING]]"
+- "[[topic MASREKAH|MASREKAH]]"
+- "[[topic SAMLAH|SAMLAH]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1908G]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H8072]]"
+- "[[H9006]]"
+- "[[H4957]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:47**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Hadad was dead, Samlah of Masrekah reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 When Hadad died, Samlah from Masrekah reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H1908G\|הֲדָ֑ד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H8072\|שַׂמְלָ֖ה]] [[H9006\|מִ]][[H4957\|מַּשְׂרֵקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic KING|KING]] • [[topic MASREKAH|MASREKAH]] • [[topic SAMLAH|SAMLAH]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.46|<< 1 Chronicles 1:46]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.48|1 Chronicles 1:48 >>]]</td></tr></table>
 

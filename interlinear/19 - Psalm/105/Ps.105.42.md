@@ -1,8 +1,54 @@
+---
+title: Psalm 105:42
+type: Verse
+kjv: "For he remembered his holy promise, and Abraham his servant."
+bsb: "For He remembered His holy promise to Abraham His servant."
+hebrew: "כִּֽי־ זָ֭כַר אֶת־ דְּבַ֣ר קָדְשׁ֑וֹ אֶֽת־ אַבְרָהָ֥ם עַבְדּֽוֹ׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H1697J]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H0085]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:42**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he remembered his holy promise, [and] Abraham his servant.
 <small><sub>**BSB:**</sub></small>
 For He remembered His holy promise to Abraham His servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2142\|זָ֭כַר]] [[H0853\|אֶת]][[H9014\|־]] [[H1697J\|דְּבַ֣ר]] [[H6944G\|קָדְשׁ֑]][[H9023\|וֹ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0085\|אַבְרָהָ֥ם]] [[H5650\|עַבְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.41|<< Psalms 105:41]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.43|Psalms 105:43 >>]]</td></tr></table>
 

@@ -1,10 +1,48 @@
+---
+title: Philemon 1:2
+type: Verse
+kjv: "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+bsb: "to Apphia our sister, to Archippus our fellow soldier, and to the church that meets at your house:"
+greek: "καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ᾽ οἶκόν σου ἐκκλησίᾳ·"
+pericope: "[[Phlm.1.1 Greetings from Paul and Timothy|Greetings from Paul and Timothy]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G2532]]"
+- "[[G0682]]"
+- "[[G3588]]"
+- "[[G0079]]"
+- "[[G0751]]"
+- "[[G4961]]"
+- "[[G3165]]"
+- "[[G2596]]"
+- "[[G3624G]]"
+- "[[G4771]]"
+- "[[G1577]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Philemon 1:2**<big><big>[[Phlm.1.1 Greetings from Paul and Timothy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to [our] beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
 <small><sub>**BSB:**</sub></small>
 to Apphia our sister, to Archippus our fellow soldier, and to the church that meets at your house:
-<small><sub>**Literal:**</sub></small>
-and to Apphia <the> our sister and to Archippus the fellow soldier of us and to the at [the] house of you church:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.1|<< Philemon 1:1]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.3|Philemon 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0682\|Ἀπφίᾳ]]  [[G3588\|τῇ]]  [[G0079\|ἀδελφῇ]]  [[G2532\|καὶ]]  [[G0751\|Ἀρχίππῳ]]  [[G3588\|τῷ]]  [[G4961\|συστρατιώτῃ]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G2596\|κατ᾽]]  [[G3624G\|οἶκόν]]  [[G4771\|σου]]  [[G1577\|ἐκκλησίᾳ·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.1|<< Philemon 1:1]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.3|Philemon 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

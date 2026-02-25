@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Reward of Service
+type: Pericope
 pericope: "[[Matt.10.40 The Reward of Service|The Reward of Service]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Matt.10.40]]"
 - "[[Matt.10.41]]"
 - "[[Matt.10.42]]"
 ---
 
-[[Matt.10|Matthew 10:40 - Matthew 10:42]]
+<small>[[Matt.10|Matthew 10:40-42]]</small>
 *The Reward of Service*
 
 [[Matt.10.40|40]] He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.

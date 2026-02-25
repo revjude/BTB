@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Remains Faithful
+type: Pericope
 pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Romans
 chapter: 3
 book/chapter: "[[Rom.3|Romans 3]]"
-genre:
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Rom.3.1]]"
 - "[[Rom.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rom.3.8]]"
 ---
 
-[[Rom.3|Romans 3:1 - Romans 3:8]]
+<small>[[Rom.3|Romans 3:1-8]]</small>
 *God Remains Faithful*
 
 [[Rom.3.1|1]] What advantage then hath the Jew? or what profit \[is there\] of circumcision?

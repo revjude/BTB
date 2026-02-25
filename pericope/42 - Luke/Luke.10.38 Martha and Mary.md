@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Martha and Mary
+type: Pericope
 pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.10.38]]"
 - "[[Luke.10.39]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.10.42]]"
 ---
 
-[[Luke.10|Luke 10:38 - Luke 10:42]]
+<small>[[Luke.10|Luke 10:38-42]]</small>
 *Martha and Mary*
 
 [[Luke.10.38|38]] Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.

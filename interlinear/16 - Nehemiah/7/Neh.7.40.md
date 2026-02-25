@@ -1,8 +1,51 @@
+---
+title: Nehemiah 7:40
+type: Verse
+kjv: "The children of Immer, a thousand fifty and two."
+bsb: "the descendants of Immer, 1,052;"
+hebrew: "בְּנֵ֣י אִמֵּ֔ר אֶ֖לֶף חֲמִשִּׁ֥ים וּשְׁנָֽיִם׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic IMMER|IMMER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1121G]]"
+- "[[H0564H]]"
+- "[[H0505G]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:40**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Immer, a thousand fifty and two.
 <small><sub>**BSB:**</sub></small>
 the descendants of Immer, 1,052;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H0564H\|אִמֵּ֔ר]] [[H0505G\|אֶ֖לֶף]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9002\|וּ]][[H8147\|שְׁנָֽיִם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMER|IMMER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.39|<< Nehemiah 7:39]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.41|Nehemiah 7:41 >>]]</td></tr></table>
 
@@ -12,7 +55,7 @@ the descendants of Immer, 1,052;
 | Immer  |**<big>&#8207;[[H0564H\|אִמֵּ֔ר]]&#8207; </big>**| 'i.Mer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.39|<< Nehemiah 7:39]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.41|Nehemiah 7:41 >>]]</td></tr></table>
 
 

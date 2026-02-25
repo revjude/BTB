@@ -1,10 +1,62 @@
+---
+title: 2 Peter 2:3
+type: Verse
+kjv: "And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not."
+bsb: "In their greed, these false teachers will exploit you with deceptive words. The longstanding verdict against them remains in force, and their destruction does not sleep."
+greek: "καὶ ἐν πλεονεξίᾳ πλαστοῖς λόγοις ὑμᾶς ἐμπορεύσονται, οἷς τὸ κρίμα ἔκπαλαι οὐκ ἀργεῖ καὶ ἡ ἀπώλεια αὐτῶν οὐ νυστάζει.¶"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4124]]"
+- "[[G4112]]"
+- "[[G3056]]"
+- "[[G4771]]"
+- "[[G1710]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2917]]"
+- "[[G1597]]"
+- "[[G3756]]"
+- "[[G0691]]"
+- "[[G0684]]"
+- "[[G0846]]"
+- "[[G3573]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Peter 2:3**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not.
 <small><sub>**BSB:**</sub></small>
 In their greed, these false teachers will exploit you with deceptive words. The longstanding verdict against them remains in force, and their destruction does not sleep.
-<small><sub>**Literal:**</sub></small>
-And through covetousness with fabricated words you they will exploit, for whom the judgment of long ago not is idle and the destruction of them not slumbers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.2|<< 2 Peter 2:2]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.4|2 Peter 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4124\|πλεονεξίᾳ]]  [[G4112\|πλαστοῖς]]  [[G3056\|λόγοις]]  [[G4771\|ὑμᾶς]]  [[G1710\|ἐμπορεύσονται,]]  [[G3739\|οἷς]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G1597\|ἔκπαλαι]]  [[G3756\|οὐκ]]  [[G0691\|ἀργεῖ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0684\|ἀπώλεια]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐ]]  [[G3573\|νυστάζει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.2|<< 2 Peter 2:2]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.4|2 Peter 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

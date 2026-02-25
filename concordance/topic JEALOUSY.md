@@ -3,7 +3,7 @@
 
 → General scriptures concerning [[Prov.6.34|Pr 6:34]]; [[Prov.27.4|27:4]]; [[Eccl.4.4|Ec 4:4]];  [[Song.8.6|So 8:6]]
 
-→ Law concerning, when husband is jealous for his wife [[Num.5.12|Nu 5:12]]-[[Num.5.31|31]]
+→ Law concerning, when husband is jealous for his wife [[Num.5.12|Nu 5:12-31]]
 
 → Image of [[Ezek.8.3|Eze 8:3]],[[Ezek.8.4|4]]
 
@@ -25,19 +25,19 @@
 
 - Sarah, of Hagar [[Gen.16.5|Ge 16:5]]
 
-- Joseph's brothers, of Joseph [[Gen.37.4|Ge 37:4]]-[[Gen.37.11|11]],[[Gen.37.18|18]]-[[Gen.37.28|28]]
+- Joseph's brothers, of Joseph [[Gen.37.4|Ge 37:4-11]],[[Gen.37.18|18-28]]
 
-- Saul, of David [[1Sam.18.8|1Sa 18:8]]-[[1Sam.18.30|30]]; [[1Sam.19.8|19:8]]-[[1Sam.19.24|24]]; [[1Sam.20.24|20:24]]-[[1Sam.20.34|34]]
+- Saul, of David [[1Sam.18.8|1Sa 18:8-30]]; [[1Sam.19.8|19:8-24]]; [[1Sam.20.24|20:24-34]]
 
-- Joab, of Abner [[2Sam.3.24|2Sa 3:24]]-[[2Sam.3.27|27]]
+- Joab, of Abner [[2Sam.3.24|2Sa 3:24-27]]
 
-- Nathan, of Adonijah [[1Kgs.1.24|1Ki 1:24]]-[[1Kgs.1.26|26]]
+- Nathan, of Adonijah [[1Kgs.1.24|1Ki 1:24-26]]
 
 - Ephraimites, of Gideon [[Judg.8.1|Jud 8:1]]
 
 - Of Jephthah [[Judg.12.1|Jud 12:1]]
 
-- The brother of the prodigal son [[Luke.15.25|Lu 15:25]]-[[Luke.15.32|32]]
+- The brother of the prodigal son [[Luke.15.25|Lu 15:25-32]]
 
-- Sectional, between Israel and the tribe of Judah [[2Sam.19.41|2Sa  19:41]]-[[2Sam.19.43|43]]
+- Sectional, between Israel and the tribe of Judah [[2Sam.19.41|2Sa  19:41-43]]
 

@@ -1,8 +1,65 @@
+---
+title: 2 Kings 22:18
+type: Verse
+kjv: "But to the king of Judah which sent you to inquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, As touching the words which thou hast heard;"
+bsb: "But as for the king of Judah, who sent you to inquire of the LORD, tell him that this is what the LORD, the God of Israel, says: ‘As for the words that you heard,"
+hebrew: "וְאֶל־ מֶ֣לֶךְ יְהוּדָ֗ה הַשֹּׁלֵ֤חַ אֶתְכֶם֙ לִדְרֹ֣שׁ אֶת־ יְהוָ֔ה כֹּ֥ה תֹאמְר֖וּ אֵלָ֑יו כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הַדְּבָרִ֖ים אֲשֶׁ֥ר שָׁמָֽעְתָּ׃"
+pericope: "[[2Kgs.22.14 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:18**<big><big>[[2Kgs.22.14 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But to the king of Judah which sent you to inquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, [As touching] the words which thou hast heard;
 <small><sub>**BSB:**</sub></small>
 But as for the king of Judah, who sent you to inquire of the LORD, tell him that this is what the LORD, the God of Israel, says: ‘As for the words that you heard,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֗ה]] [[H9009\|הַ]][[H7971G\|שֹּׁלֵ֤חַ]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9005\|לִ]][[H1875\|דְרֹ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3541\|כֹּ֥ה]] [[H0559\|תֹאמְר֖וּ]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שָׁמָֽעְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic HULDAH|HULDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.17|<< 2 Kings 22:17]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.19|2 Kings 22:19 >>]]</td></tr></table>
 

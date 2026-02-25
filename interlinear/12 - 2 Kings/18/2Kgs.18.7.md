@@ -1,8 +1,63 @@
+---
+title: 2 Kings 18:7
+type: Verse
+kjv: "And the LORD was with him; and he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not."
+bsb: "And the LORD was with Hezekiah, and he prospered wherever he went. He rebelled against the king of Assyria and refused to serve him."
+hebrew: "וְהָיָ֤ה יְהוָה֙ עִמּ֔וֹ בְּכֹ֥ל אֲשֶׁר־ יֵצֵ֖א יַשְׂכִּ֑יל וַיִּמְרֹ֥ד בְּמֶֽלֶךְ־ אַשּׁ֖וּר וְלֹ֥א עֲבָדֽוֹ׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H7919A]]"
+- "[[H4775]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5647G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:7**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was with him; [and] he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not.
 <small><sub>**BSB:**</sub></small>
 And the LORD was with Hezekiah, and he prospered wherever he went. He rebelled against the king of Assyria and refused to serve him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יֵצֵ֖א]] [[H7919A\|יַשְׂכִּ֑יל]] [[H9001\|וַ]][[H4775\|יִּמְרֹ֥ד]] [[H9003\|בְּ]][[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֖וּר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5647G\|עֲבָדֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RELIGION|RELIGION]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.6|<< 2 Kings 18:6]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.8|2 Kings 18:8 >>]]</td></tr></table>
 

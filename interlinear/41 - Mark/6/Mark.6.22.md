@@ -1,10 +1,73 @@
+---
+title: Mark 6:22
+type: Verse
+kjv: "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee."
+bsb: "When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”"
+greek: "καὶ εἰσελθούσης τῆς θυγατρὸς αὐτοῦ τῆς Ἡρῳδιάδος καὶ ὀρχησαμένης καὶ ἤρεσεν τῷ Ἡρῴδῃ καὶ τοῖς συνανακειμένοις εἶπεν ὁ δὲ βασιλεὺς τῷ κορασίῳ· αἴτησόν με ὃ ἐὰν θέλῃς, καὶ δώσω σοι."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic HERODIAS|HERODIAS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G0846]]"
+- "[[G2266G]]"
+- "[[G3738]]"
+- "[[G0700]]"
+- "[[G2264H]]"
+- "[[G4873]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0935]]"
+- "[[G2877]]"
+- "[[G0154]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G1325]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(K)O
+- ko
+- o
+---
+
 **Mark 6:22**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give [it] thee.
 <small><sub>**BSB:**</sub></small>
 When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”
-<small><sub>**Literal:**</sub></small>
-and when was entering the daughter of him <the> Herodias and when having danced and she pleased <the> Herod and those reclining with [him] said <the> now the king to the girl; do ask me whatever if you shall wish, and I will give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.21|<< Mark 6:21]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.23|Mark 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1525\|εἰσελθούσης]]  [[G3588\|τῆς]]  [[G2364\|θυγατρὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῆς]]  [[G2266G\|Ἡρῳδιάδος]]  [[G2532\|καὶ]]  [[G3738\|ὀρχησαμένης]]  [[G2532\|καὶ]]  [[G0700\|ἤρεσεν]]  [[G3588\|τῷ]]  [[G2264H\|Ἡρῴδῃ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4873\|συνανακειμένοις]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῷ]]  [[G2877\|κορασίῳ·]]  [[G0154\|αἴτησόν]]  [[G3165\|με]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃς,]]  [[G2532\|καὶ]]  [[G1325\|δώσω]]  [[G4771\|σοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic HEROD|HEROD]] • [[topic HERODIAS|HERODIAS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic REVENGE|REVENGE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.21|<< Mark 6:21]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.23|Mark 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

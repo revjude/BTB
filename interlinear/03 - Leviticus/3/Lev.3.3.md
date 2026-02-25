@@ -1,8 +1,64 @@
+---
+title: Leviticus 3:3
+type: Verse
+kjv: "And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+bsb: "From the peace offering he is to bring a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,"
+hebrew: "וְהִקְרִיב֙ מִזֶּ֣בַח הַשְּׁלָמִ֔ים אִשֶּׁ֖ה לַיהוָ֑ה אֶת־ הַחֵ֙לֶב֙ הַֽמְכַסֶּ֣ה אֶת־ הַקֶּ֔רֶב וְאֵת֙ כָּל־ הַחֵ֔לֶב אֲשֶׁ֖ר עַל־ הַקֶּֽרֶב׃"
+pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9006]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H0801]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H3680]]"
+- "[[H7130H]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 3:3**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that [is] upon the inwards,
 <small><sub>**BSB:**</sub></small>
 From the peace offering he is to bring a food offering to the LORD: the fat that covers the entrails, all the fat that is on them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִיב֙]] [[H9006\|מִ]][[H2077\|זֶּ֣בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֔ים]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֙לֶב֙]] [[H9009\|הַֽ]][[H3680\|מְכַסֶּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7130H\|קֶּ֔רֶב]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֔לֶב]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7130H\|קֶּֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.2|<< Leviticus 3:2]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.4|Leviticus 3:4 >>]]</td></tr></table>
 

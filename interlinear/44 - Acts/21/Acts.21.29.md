@@ -1,10 +1,64 @@
+---
+title: Acts 21:29
+type: Verse
+kjv: "(For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)"
+bsb: "For they had previously seen Trophimus the Ephesian with him in the city, and they assumed that Paul had brought him into the temple."
+greek: "ἦσαν γὰρ προεωρακότες Τρόφιμον τὸν Ἐφέσιον ἐν τῇ πόλει σὺν αὐτῷ, ὃν ἐνόμιζον ὅτι εἰς τὸ ἱερὸν εἰσήγαγεν ὁ Παῦλος."
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TROPHIMUS|TROPHIMUS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4308]]"
+- "[[G5161]]"
+- "[[G3588]]"
+- "[[G2180]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3543]]"
+- "[[G3754G]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G1521]]"
+- "[[G3972G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 21:29**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)
 <small><sub>**BSB:**</sub></small>
 For they had previously seen Trophimus the Ephesian with him in the city, and they assumed that Paul had brought him into the temple.
-<small><sub>**Literal:**</sub></small>
-It was they for having foreseen Trophimus the Ephesian in the city with him, whom they were supposing that into the temple had brought <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.28|<< Acts 21:28]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.30|Acts 21:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G4308\|προεωρακότες]]  [[G5161\|Τρόφιμον]]  [[G3588\|τὸν]]  [[G2180\|Ἐφέσιον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ,]]  [[G3739\|ὃν]]  [[G3543\|ἐνόμιζον]]  [[G3754G\|ὅτι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G1521\|εἰσήγαγεν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPLE|TEMPLE]] • [[topic TROPHIMUS|TROPHIMUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.28|<< Acts 21:28]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.30|Acts 21:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

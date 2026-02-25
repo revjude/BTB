@@ -1,8 +1,77 @@
+---
+title: 2 Kings 23:2
+type: Verse
+kjv: "And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD."
+bsb: "And he went up to the house of the LORD with all the people of Judah and Jerusalem, as well as the priests and the prophets—all the people small and great—and in their hearing he read all the words of the Book of the Covenant that had been found in the house of the LORD."
+hebrew: "וַיַּ֣עַל הַמֶּ֣לֶךְ בֵּית־ יְהוָ֡ה וְכָל־ אִ֣ישׁ יְהוּדָה֩ וְכָל־ יֹשְׁבֵ֨י יְרוּשָׁלִַ֜ם אִתּ֗וֹ וְהַכֹּֽהֲנִים֙ וְהַנְּבִיאִ֔ים וְכָל־ הָעָ֖ם לְמִקָּטֹ֣ן וְעַד־ גָּד֑וֹל וַיִּקְרָ֣א בְאָזְנֵיהֶ֗ם אֶת־ כָּל־ דִּבְרֵי֙ סֵ֣פֶר הַבְּרִ֔ית הַנִּמְצָ֖א בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.23.1 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H1285]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:2**<big><big>[[2Kgs.23.1 Josiah Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 And he went up to the house of the LORD with all the people of Judah and Jerusalem, as well as the priests and the prophets—all the people small and great—and in their hearing he read all the words of the Book of the Covenant that had been found in the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֡ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָה֩]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֨י]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִיאִ֔ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לְ]][[H9006\|מִ]][[H6996B\|קָּטֹ֣ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H7121J\|יִּקְרָ֣א]] [[H9003\|בְ]][[H0241H\|אָזְנֵי]][[H9028\|הֶ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9009\|הַ]][[H4672\|נִּמְצָ֖א]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.1|<< 2 Kings 23:1]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.3|2 Kings 23:3 >>]]</td></tr></table>
 

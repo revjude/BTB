@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cast Your Burden upon the LORD
+type: Pericope
 pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 55
 book/chapter: "[[Ps.55|Psalm 55]]"
-genre:
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 24
 verses:
 - "[[Ps.55.0]]"
 - "[[Ps.55.1]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ps.55.23]]"
 ---
 
-[[Ps.55|Psalm 55:1 - Psalm 55:23]]
+<small>[[Ps.55|Psalm 55:1-23]]</small>
 *Cast Your Burden upon the LORD*
 
 [[Ps.55.0|0]] To the chief Musician on Neginoth, Maschil, \[A Psalm\] of David.

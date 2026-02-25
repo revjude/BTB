@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 6:21
+type: Verse
+kjv: "Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:"
+bsb: "then you are to tell him, “We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand."
+hebrew: "וְאָמַרְתָּ֣ לְבִנְךָ֔ עֲבָדִ֛ים הָיִ֥ינוּ לְפַרְעֹ֖ה בְּמִצְרָ֑יִם וַיּוֹצִיאֵ֧נוּ יְהוָ֛ה מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃"
+pericope: "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H5650]]"
+- "[[H1961]]"
+- "[[H6547J]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:21**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:
 <small><sub>**BSB:**</sub></small>
 then you are to tell him, “We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H9005\|לְ]][[H1121A\|בִנְ]][[H9021\|ךָ֔]] [[H5650\|עֲבָדִ֛ים]] [[H1961\|הָיִ֥ינוּ]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֖ה]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3318H\|יּוֹצִיאֵ֧]][[H9035\|נוּ]] [[H3068G\|יְהוָ֛ה]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H9003\|בְּ]][[H3027H\|יָ֥ד]] [[H2389\|חֲזָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.20|<< Deuteronomy 6:20]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.22|Deuteronomy 6:22 >>]]</td></tr></table>
 

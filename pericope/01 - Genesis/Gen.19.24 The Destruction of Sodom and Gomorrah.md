@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destruction of Sodom and Gomorrah
+type: Pericope
 pericope: "[[Gen.19.24 The Destruction of Sodom and Gomorrah|The Destruction of Sodom and Gomorrah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 19
 book/chapter: "[[Gen.19|Genesis 19]]"
-genre:
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.19.24]]"
 - "[[Gen.19.25]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.19.29]]"
 ---
 
-[[Gen.19|Genesis 19:24 - Genesis 19:29]]
+<small>[[Gen.19|Genesis 19:24-29]]</small>
 *The Destruction of Sodom and Gomorrah*
 
 [[Gen.19.24|24]] Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;

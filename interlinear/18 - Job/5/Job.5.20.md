@@ -1,8 +1,59 @@
+---
+title: Job 5:20
+type: Verse
+kjv: "In famine he shall redeem thee from death: and in war from the power of the sword."
+bsb: "In famine He will redeem you from death, and in battle from the stroke of the sword."
+hebrew: "בְּ֭רָעָב פָּֽדְךָ֣ מִמָּ֑וֶת וּ֝בְמִלְחָמָ֗ה מִ֣ידֵי חָֽרֶב׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7458]]"
+- "[[H6299]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H3027H]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:20**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In famine he shall redeem thee from death: and in war from the power of the sword.
 <small><sub>**BSB:**</sub></small>
 In famine He will redeem you from death, and in battle from the stroke of the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ֭]][[H7458\|רָעָב]] [[H6299\|פָּֽדְ]][[H9031\|ךָ֣]] [[H9006\|מִ]][[H4194\|מָּ֑וֶת]] [[H9002\|וּ֝]][[H9003\|בְ]][[H4421\|מִלְחָמָ֗ה]] [[H9006\|מִ֣]][[H3027H\|ידֵי]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic FAMINE|FAMINE]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.19|<< Job 5:19]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.21|Job 5:21 >>]]</td></tr></table>
 

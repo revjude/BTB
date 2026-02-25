@@ -1,8 +1,58 @@
+---
+title: Habakkuk 3:10
+type: Verse
+kjv: "The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high."
+bsb: "The mountains saw You and quaked; torrents of water swept by. The deep roared with its voice and lifted its hands on high."
+hebrew: "רָא֤וּךָ יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם מַ֖יִם עָבָ֑ר נָתַ֤ן תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H2342J]]"
+- "[[H2022G]]"
+- "[[H2230]]"
+- "[[H4325G]]"
+- "[[H5674A]]"
+- "[[H5414G]]"
+- "[[H8415]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H7315]]"
+- "[[H3027G]]"
+- "[[H5375G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:10**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains saw thee, [and] they trembled: the overflowing of the water passed by: the deep uttered his voice, [and] lifted up his hands on high.
 <small><sub>**BSB:**</sub></small>
 The mountains saw You and quaked; torrents of water swept by. The deep roared with its voice and lifted its hands on high.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָא֤וּ]][[H9031\|ךָ]] [[H2342J\|יָחִ֙ילוּ֙]] [[H2022G\|הָרִ֔ים]] [[H2230\|זֶ֥רֶם]] [[H4325G\|מַ֖יִם]] [[H5674A\|עָבָ֑ר]] [[H5414G\|נָתַ֤ן]] [[H8415\|תְּהוֹם֙]] [[H6963A\|קוֹל֔]][[H9023\|וֹ]] [[H7315\|ר֖וֹם]] [[H3027G\|יָדֵ֥י]][[H9023\|הוּ]] [[H5375G\|נָשָֽׂא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.9|<< Habakkuk 3:9]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.11|Habakkuk 3:11 >>]]</td></tr></table>
 

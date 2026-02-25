@@ -1,8 +1,53 @@
+---
+title: Proverbs 29:4
+type: Verse
+kjv: "The king by judgment establisheth the land: but he that receiveth gifts overthroweth it."
+bsb: "By justice a king brings stability to the land, but a man who exacts tribute demolishes it."
+hebrew: "מֶ֗לֶךְ בְּ֭מִשְׁפָּט יַעֲמִ֣יד אָ֑רֶץ וְאִ֖ישׁ תְּרוּמ֣וֹת יֶֽהֶרְסֶֽנָּה׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic KING|KING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H5975I]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H8641]]"
+- "[[H2040]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:4**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king by judgment establisheth the land: but he that receiveth gifts overthroweth it.
 <small><sub>**BSB:**</sub></small>
 By justice a king brings stability to the land, but a man who exacts tribute demolishes it.
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֗לֶךְ]] [[H9003\|בְּ֭]][[H4941H\|מִשְׁפָּט]] [[H5975I\|יַעֲמִ֣יד]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H0376G\|אִ֖ישׁ]] [[H8641\|תְּרוּמ֣וֹת]] [[H2040\|יֶֽהֶרְסֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic KING|KING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.3|<< Proverbs 29:3]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.5|Proverbs 29:5 >>]]</td></tr></table>
 

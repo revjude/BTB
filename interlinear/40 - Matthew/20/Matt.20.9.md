@@ -1,10 +1,64 @@
+---
+title: Matthew 20:9
+type: Verse
+kjv: "And when they came that were hired about the eleventh hour, they received every man a penny."
+bsb: "The workers who were hired about the eleventh hour came and each received a denarius."
+jesus_said: "And when they came that were hired about the eleventh hour, they received every man a penny."
+greek: "καὶ ἐλθόντες δὲ οἱ περὶ τὴν ἑνδεκάτην ὥραν ἔλαβον ἀνὰ δηνάριον."
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic PENNY|PENNY]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G1734]]"
+- "[[G5610]]"
+- "[[G2983]]"
+- "[[G0303]]"
+- "[[G1220]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 20:9**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they came that [were hired] about the eleventh hour, they received every man a penny.
 <small><sub>**BSB:**</sub></small>
 The workers who were hired about the eleventh hour came and each received a denarius.
-<small><sub>**Literal:**</sub></small>
-And having come now those [hired] about the eleventh hour they received each a denarius.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.8|<< Matthew 20:8]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.10|Matthew 20:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G3588\|τὴν]]  [[G1734\|ἑνδεκάτην]]  [[G5610\|ὥραν]]  [[G2983\|ἔλαβον]]  [[G0303\|ἀνὰ]]  [[G1220\|δηνάριον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOSPEL|GOSPEL]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic PENNY|PENNY]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.8|<< Matthew 20:8]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.10|Matthew 20:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

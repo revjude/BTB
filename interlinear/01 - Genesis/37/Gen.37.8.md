@@ -1,8 +1,68 @@
+---
+title: Genesis 37:8
+type: Verse
+kjv: "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words."
+bsb: "“Do you intend to reign over us?” his brothers asked. “Will you actually rule us?” So they hated him even more because of his dream and his statements."
+hebrew: "וַיֹּ֤אמְרוּ לוֹ֙ אֶחָ֔יו הֲמָלֹ֤ךְ תִּמְלֹךְ֙ עָלֵ֔ינוּ אִם־ מָשׁ֥וֹל תִּמְשֹׁ֖ל בָּ֑נוּ וַיּוֹסִ֤פוּ עוֹד֙ שְׂנֹ֣א אֹת֔וֹ עַל־ חֲלֹמֹתָ֖יו וְעַל־ דְּבָרָֽיו׃"
+pericope: "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H3254H]]"
+- "[[H5750]]"
+- "[[H8130]]"
+- "[[H0853]]"
+- "[[H2472]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:8**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
 <small><sub>**BSB:**</sub></small>
 “Do you intend to reign over us?” his brothers asked. “Will you actually rule us?” So they hated him even more because of his dream and his statements.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9008\|הֲ]][[H4427A\|מָלֹ֤ךְ]] [[H4427A\|תִּמְלֹךְ֙]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H0518A\|אִם]][[H9014\|־]] [[H4910\|מָשׁ֥וֹל]] [[H4910\|תִּמְשֹׁ֖ל]] [[H9003\|בָּ֑]][[H9035\|נוּ]] [[H9001\|וַ]][[H3254H\|יּוֹסִ֤פוּ]] [[H5750\|עוֹד֙]] [[H8130\|שְׂנֹ֣א]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H2472\|חֲלֹמֹתָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דְּבָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic ENVY|ENVY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.7|<< Genesis 37:7]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.9|Genesis 37:9 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 8:23
+type: Verse
+kjv: "Whether any do inquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be inquired of, they are the messengers of the churches, and the glory of Christ."
+bsb: "As for Titus, he is my partner and fellow worker among you. As for our brothers, they are messengers of the churches, the glory of Christ."
+greek: "εἴτε ὑπὲρ Τίτου, κοινωνὸς ἐμὸς καὶ εἰς ὑμᾶς συνεργός· εἴτε ἀδελφοὶ ἡμῶν, ἀπόστολοι ἐκκλησιῶν, δόξα Χριστοῦ."
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1535]]"
+- "[[G5228]]"
+- "[[G5103]]"
+- "[[G2844]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G4904]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G0652]]"
+- "[[G1577]]"
+- "[[G1391]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:23**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whether [any do inquire] of Titus, [he is] my partner and fellowhelper concerning you: or our brethren [be inquired of, they are] the messengers of the churches, [and] the glory of Christ.
 <small><sub>**BSB:**</sub></small>
 As for Titus, he is my partner and fellow worker among you. As for our brothers, they are messengers of the churches, the glory of Christ.
-<small><sub>**Literal:**</sub></small>
-Whether as regards Titus, [he is] partner of mine and for you a fellow worker; or brothers our, [they are] apostles of [the] churches, [the] glory of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.22|<< 2 Corinthians 8:22]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.24|2 Corinthians 8:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1535\|εἴτε]]  [[G5228\|ὑπὲρ]]  [[G5103\|Τίτου,]]  [[G2844\|κοινωνὸς]]  [[G1473\|ἐμὸς]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G4904\|συνεργός·]]  [[G1535\|εἴτε]]  [[G0080\|ἀδελφοὶ]]  [[G3165\|ἡμῶν,]]  [[G0652\|ἀπόστολοι]]  [[G1577\|ἐκκλησιῶν,]]  [[G1391\|δόξα]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.22|<< 2 Corinthians 8:22]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.24|2 Corinthians 8:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

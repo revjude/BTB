@@ -1,10 +1,65 @@
+---
+title: John 18:26
+type: Verse
+kjv: "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+bsb: "One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?”"
+greek: "λέγει εἷς ἐκ τῶν δούλων τοῦ ἀρχιερέως συγγενὴς ὢν οὗ ἀπέκοψεν Πέτρος τὸ ὠτίον· οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ᾽ αὐτοῦ;"
+pericope: "[[John.18.25 Peter’s Second and Third Denials|Peter’s Second and Third Denials]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G0749]]"
+- "[[G4773]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G0609]]"
+- "[[G4074G]]"
+- "[[G5621]]"
+- "[[G3756]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G2779]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 18:26**<big><big>[[John.18.25 Peter’s Second and Third Denials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 One of the servants of the high priest, being [his] kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?
 <small><sub>**BSB:**</sub></small>
 One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?”
-<small><sub>**Literal:**</sub></small>
-Says one of the servants of the high priest kinsman being [of him] of whom cut off Peter the ear; Surely I myself you saw in the garden with Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.25|<< John 18:25]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.27|John 18:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1401\|δούλων]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G4773\|συγγενὴς]]  [[G1510\|ὢν]]  [[G3739\|οὗ]]  [[G0609\|ἀπέκοψεν]]  [[G4074G\|Πέτρος]]  [[G3588\|τὸ]]  [[G5621\|ὠτίον·]]  [[G3756\|οὐκ]]  [[G1473\|ἐγώ]]  [[G4771\|σε]]  [[G1492H\|εἶδον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2779\|κήπῳ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.25|<< John 18:25]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.27|John 18:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

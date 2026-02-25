@@ -1,10 +1,66 @@
+---
+title: Revelation 8:7
+type: Verse
+kjv: "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up."
+bsb: "Then the first angel sounded his trumpet, and hail and fire mixed with blood were hurled down upon the earth. A third of the earth was burned up, along with a third of the trees and all the green grass."
+greek: "Καὶ ὁ πρῶτος ἄγγελος ἐσάλπισεν, καὶ ἐγένετο χάλαζα καὶ πῦρ μεμιγμένα ἐν αἵματι, καὶ ἐβλήθη εἰς τὴν γῆν καὶ τὸ τρίτον τῆς γῆς κατεκάη· καὶ τὸ τρίτον τῶν δένδρων κατεκάη, καὶ πᾶς χόρτος χλωρὸς κατεκάη.¶"
+pericope: "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G0032G]]"
+- "[[G4537]]"
+- "[[G1096]]"
+- "[[G5464]]"
+- "[[G4442]]"
+- "[[G3396]]"
+- "[[G1722]]"
+- "[[G0129G]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G5154]]"
+- "[[G2618]]"
+- "[[G1186]]"
+- "[[G3956]]"
+- "[[G5528]]"
+- "[[G5515]]"
+texts:
+- NKO
+- K
+- NO
+---
+
 **Revelation 8:7**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.
 <small><sub>**BSB:**</sub></small>
 Then the first angel sounded his trumpet, and hail and fire mixed with blood were hurled down upon the earth. A third of the earth was burned up, along with a third of the trees and all the green grass.
-<small><sub>**Literal:**</sub></small>
-And the first angel sounded [his] trumpet, and there was hail and fire mixed with blood, and it was cast upon the earth And the third of the earth was burned up; and the third of the trees were burned up, and all [the] grass green was burned up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.6|<< Revelation 8:6]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.8|Revelation 8:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος]]  [[G0032G\|ἄγγελος]]  [[G4537\|ἐσάλπισεν,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G5464\|χάλαζα]]  [[G2532\|καὶ]]  [[G4442\|πῦρ]]  [[G3396\|μεμιγμένα]]  [[G1722\|ἐν]]  [[G0129G\|αἵματι,]]  [[G2532\|καὶ]]  [[G0906G\|ἐβλήθη]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2618\|κατεκάη·]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G1186\|δένδρων]]  [[G2618\|κατεκάη,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G5528\|χόρτος]]  [[G5515\|χλωρὸς]]  [[G2618\|κατεκάη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HAIL|HAIL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.6|<< Revelation 8:6]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.8|Revelation 8:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 8:7** is...
 > $\quad$ alluding to: [[LXX.Exod.9.23|Exod 9:23]] ☩ [[LXX.Joel.2.30|Joel 2:30]]

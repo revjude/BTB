@@ -1,10 +1,72 @@
+---
+title: Luke 18:14
+type: Verse
+kjv: "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+bsb: "I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”"
+jesus_said: "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+greek: "λέγω ὑμῖν· κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ ἢ παρ᾽ ἐκεῖνον. ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται, ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται.¶"
+pericope: "[[Luke.18.9 The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G2597]]"
+- "[[G3778]]"
+- "[[G1344]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G2228]]"
+- "[[G3844]]"
+- "[[G1565]]"
+- "[[G3754H]]"
+- "[[G3956]]"
+- "[[G5312]]"
+- "[[G1438]]"
+- "[[G5013]]"
+- "[[G1161]]"
+texts:
+- NKO
+- k
+- n(o)
+- N(k)O
+---
+
 **Luke 18:14**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I tell you, this man went down to his house justified [rather] than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 <small><sub>**BSB:**</sub></small>
 I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”
-<small><sub>**Literal:**</sub></small>
-I say to you; went down this one justified to the house of him rather than compared with that [one]. For everyone who is exalting himself will be humbled, the [one] however humbling himself will be exalted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.13|<< Luke 18:13]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.15|Luke 18:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G2597\|κατέβη]]  [[G3778\|οὗτος]]  [[G1344\|δεδικαιωμένος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ]]  [[G2228\|ἢ]]  [[G3844\|παρ᾽]]  [[G1565\|ἐκεῖνον.]]  [[G3754H\|ὅτι]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G5312\|ὑψῶν]]  [[G1438\|ἑαυτὸν]]  [[G5013\|ταπεινωθήσεται,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5013\|ταπεινῶν]]  [[G1438\|ἑαυτὸν]]  [[G5312\|ὑψωθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PRIDE|PRIDE]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.13|<< Luke 18:13]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.15|Luke 18:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

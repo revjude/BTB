@@ -1,8 +1,71 @@
+---
+title: Ezekiel 44:12
+type: Verse
+kjv: "Because they ministered unto them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, saith the Lord GOD, and they shall bear their iniquity."
+bsb: "Because they ministered before their idols and became a stumbling block of iniquity to the house of Israel, therefore I swore with an uplifted hand concerning them that they would bear the consequences of their iniquity, declares the Lord GOD."
+hebrew: "יַ֗עַן אֲשֶׁ֨ר יְשָׁרְת֤וּ אוֹתָם֙ לִפְנֵ֣י גִלּֽוּלֵיהֶ֔ם וְהָי֥וּ לְבֵֽית־ יִשְׂרָאֵ֖ל לְמִכְשׁ֣וֹל עָוֹ֑ן עַל־ כֵּן֩ נָשָׂ֨אתִי יָדִ֜י עֲלֵיהֶ֗ם נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְנָשְׂא֖וּ עֲוֹנָֽם׃"
+pericope: "[[Ezek.44.6 Reproof of the Levites|Reproof of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1544]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H4383]]"
+- "[[H5771G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5771I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:12**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they ministered unto them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, saith the Lord GOD, and they shall bear their iniquity.
 <small><sub>**BSB:**</sub></small>
 Because they ministered before their idols and became a stumbling block of iniquity to the house of Israel, therefore I swore with an uplifted hand concerning them that they would bear the consequences of their iniquity, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֨ר]] [[H8334\|יְשָׁרְת֤וּ]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H1544\|גִלּֽוּלֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לְ]][[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H4383\|מִכְשׁ֣וֹל]] [[H5771G\|עָוֹ֑ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֩]] [[H5375P\|נָשָׂ֨אתִי]] [[H3027S\|יָדִ֜]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וְ]][[H5375P\|נָשְׂא֖וּ]] [[H5771I\|עֲוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic LEVITES|LEVITES]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.11|<< Ezekiel 44:11]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.13|Ezekiel 44:13 >>]]</td></tr></table>
 

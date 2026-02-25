@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Jerusalem
+type: Pericope
 pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 16
 book/chapter: "[[Ezek.16|Ezekiel 16]]"
-genre:
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 24
 verses:
 - "[[Ezek.16.35]]"
 - "[[Ezek.16.36]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ezek.16.58]]"
 ---
 
-[[Ezek.16|Ezekiel 16:35 - Ezekiel 16:58]]
+<small>[[Ezek.16|Ezekiel 16:35-58]]</small>
 *Judgment on Jerusalem*
 
 [[Ezek.16.35|35]] Wherefore, O harlot, hear the word of the LORD:

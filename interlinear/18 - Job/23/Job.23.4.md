@@ -1,8 +1,52 @@
+---
+title: Job 23:4
+type: Verse
+kjv: "I would order my cause before him, and fill my mouth with arguments."
+bsb: "I would plead my case before Him and fill my mouth with arguments."
+hebrew: "אֶעֶרְכָ֣ה לְפָנָ֣יו מִשְׁפָּ֑ט וּ֝פִ֗י אֲמַלֵּ֥א תוֹכָחֽוֹת׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H4390]]"
+- "[[H8433B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:4**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I would order [my] cause before him, and fill my mouth with arguments.
 <small><sub>**BSB:**</sub></small>
 I would plead my case before Him and fill my mouth with arguments.
+<small><sub>**Hebrew:**</sub></small>
+[[H6186A\|אֶעֶרְכָ֣ה]] [[H9005\|לְ]][[H6440G\|פָנָ֣י]][[H9023\|ו]] [[H4941H\|מִשְׁפָּ֑ט]] [[H9002\|וּ֝]][[H6310G\|פִ֗]][[H9020\|י]] [[H4390\|אֲמַלֵּ֥א]] [[H8433B\|תוֹכָחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.3|<< Job 23:3]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.5|Job 23:5 >>]]</td></tr></table>
 

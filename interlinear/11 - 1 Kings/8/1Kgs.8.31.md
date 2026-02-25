@@ -1,8 +1,69 @@
+---
+title: 1 Kings 8:31
+type: Verse
+kjv: "If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:"
+bsb: "When a man sins against his neighbor and is required to take an oath, and he comes to take an oath before Your altar in this temple,"
+hebrew: "אֵת֩ אֲשֶׁ֨ר יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָֽשָׁא־ ב֥וֹ אָלָ֖ה לְהַֽאֲלֹת֑וֹ וּבָ֗א אָלָ֛ה לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5378]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0423]]"
+- "[[H0422]]"
+- "[[H0935G]]"
+- "[[H6440G]]"
+- "[[H4196]]"
+- "[[H9021]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:31**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If any man trespass against his neighbour, and an oath be laid upon him to cause him to swear, and the oath come before thine altar in this house:
 <small><sub>**BSB:**</sub></small>
 When a man sins against his neighbor and is required to take an oath, and he comes to take an oath before Your altar in this temple,
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H2398\|יֶחֱטָ֥א]] [[H0376I\|אִישׁ֙]] [[H9005\|לְ]][[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H9001\|וְ]][[H5378\|נָֽשָׁא]][[H9014\|־]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H0423\|אָלָ֖ה]] [[H9005\|לְ]][[H0422\|הַֽאֲלֹת֑]][[H9033\|וֹ]] [[H9001\|וּ]][[H0935G\|בָ֗א]] [[H0422\|אָלָ֛ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4196\|מִֽזְבַּחֲ]][[H9021\|ךָ֖]] [[H9003\|בַּ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic OATH|OATH]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic SIN|SIN]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.30|<< 1 Kings 8:30]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.32|1 Kings 8:32 >>]]</td></tr></table>
 

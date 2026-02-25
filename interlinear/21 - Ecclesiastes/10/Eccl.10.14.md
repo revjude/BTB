@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 10:14
+type: Verse
+kjv: "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?"
+bsb: "Yet the fool multiplies words. No one knows what is coming, and who can tell him what will come after him?"
+hebrew: "וְהַסָּכָ֖ל יַרְבֶּ֣ה דְבָרִ֑ים לֹא־ יֵדַ֤ע הָאָדָם֙ מַה־ שֶׁיִּֽהְיֶ֔ה וַאֲשֶׁ֤ר יִֽהְיֶה֙ מֵֽאַחֲרָ֔יו מִ֖י יַגִּ֥יד לֽוֹ׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5530]]"
+- "[[H7235A]]"
+- "[[H1697G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0120G]]"
+- "[[H4100]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H4310]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:14**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
 <small><sub>**BSB:**</sub></small>
 Yet the fool multiplies words. No one knows what is coming, and who can tell him what will come after him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5530\|סָּכָ֖ל]] [[H7235A\|יַרְבֶּ֣ה]] [[H1697G\|דְבָרִ֑ים]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יֵדַ֤ע]] [[H9009\|הָ]][[H0120G\|אָדָם֙]] [[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶׁ]][[H1961\|יִּֽהְיֶ֔ה]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H1961\|יִֽהְיֶה֙]] [[H9006\|מֵֽ]][[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H4310\|מִ֖י]] [[H5046\|יַגִּ֥יד]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.13|<< Ecclesiastes 10:13]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.15|Ecclesiastes 10:15 >>]]</td></tr></table>
 

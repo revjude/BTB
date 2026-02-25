@@ -1,8 +1,49 @@
+---
+title: Joshua 18:23
+type: Verse
+kjv: "And Avim, and Parah, and Ophrah,"
+bsb: "Avvim, Parah, Ophrah,"
+hebrew: "וְהָעַוִּ֥ים וְהַפָּרָ֖ה וְעָפְרָֽה׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVIM|AVIM]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic OPHRAH|OPHRAH]]"
+- "[[topic PARAH|PARAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5761H]]"
+- "[[H6511]]"
+- "[[H6084G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:23**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Avim, and Parah, and Ophrah,
 <small><sub>**BSB:**</sub></small>
 Avvim, Parah, Ophrah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5761H\|עַוִּ֥ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6511\|פָּרָ֖ה]] [[H9002\|וְ]][[H6084G\|עָפְרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVIM|AVIM]] • [[topic BENJAMIN|BENJAMIN]] • [[topic OPHRAH|OPHRAH]] • [[topic PARAH|PARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.22|<< Joshua 18:22]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.24|Joshua 18:24 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Purification of the Unclean
+type: Pericope
 pericope: "[[Num.19.11 Purification of the Unclean|Purification of the Unclean]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 19
 book/chapter: "[[Num.19|Numbers 19]]"
-genre:
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 12
 verses:
 - "[[Num.19.11]]"
 - "[[Num.19.12]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Num.19.22]]"
 ---
 
-[[Num.19|Numbers 19:11 - Numbers 19:22]]
+<small>[[Num.19|Numbers 19:11-22]]</small>
 *Purification of the Unclean*
 
 [[Num.19.11|11]] He that toucheth the dead body of any man shall be unclean seven days.

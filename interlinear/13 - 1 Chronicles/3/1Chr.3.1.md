@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 3:1
+type: Verse
+kjv: "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:"
+bsb: "These were the sons of David who were born to him in Hebron: The firstborn was Amnon by Ahinoam of Jezreel; the second was Daniel by Abigail of Carmel;"
+hebrew: "וְאֵ֤לֶּה הָיוּ֙ בְּנֵ֣י דָויִ֔ד אֲשֶׁ֥ר נֽוֹלַד־ ל֖וֹ בְּחֶבְר֑וֹן הַבְּכ֣וֹר׀ אַמְנֹ֗ן לַאֲחִינֹ֙עַם֙ הַיִּזְרְעֵאלִ֔ית שֵׁנִי֙ דָּנִיֵּ֔אל לַאֲבִיגַ֖יִל הַֽכַּרְמְלִֽית׃"
+pericope: "[[1Chr.3.1 The Descendants of David|The Descendants of David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMNON|AMNON]]"
+- "[[topic CHILEAB|CHILEAB]]"
+- "[[topic DANIEL|DANIEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H1732]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H9015]]"
+- "[[H0550G]]"
+- "[[H0293H]]"
+- "[[H3158H]]"
+- "[[H8145]]"
+- "[[H1840H]]"
+- "[[H0026G]]"
+- "[[H3761]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:1**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 <small><sub>**BSB:**</sub></small>
 These were the sons of David who were born to him in Hebron: The firstborn was Amnon by Ahinoam of Jezreel; the second was Daniel by Abigail of Carmel;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֤לֶּה]] [[H1961\|הָיוּ֙]] [[H1121A\|בְּנֵ֣י]] [[H1732\|דָויִ֔ד]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|נֽוֹלַד]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2275A\|חֶבְר֑וֹן]] [[H9009\|הַ]][[H1060\|בְּכ֣וֹר]][[H9015\|׀]] [[H0550G\|אַמְנֹ֗ן]] [[H9005\|לַ]][[H0293H\|אֲחִינֹ֙עַם֙]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֔ית]] [[H8145\|שֵׁנִי֙]] [[H1840H\|דָּנִיֵּ֔אל]] [[H9005\|לַ]][[H0026G\|אֲבִיגַ֖יִל]] [[H9009\|הַֽ]][[H3761\|כַּרְמְלִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMNON|AMNON]] • [[topic CHILEAB|CHILEAB]] • [[topic DANIEL|DANIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.55|<< 1 Chronicles 2:55]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.2|1 Chronicles 3:2 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Luke 12:50
+type: Verse
+kjv: "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!"
+bsb: "But I have a baptism to undergo, and how distressed I am until it is accomplished!"
+jesus_said: "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!"
+greek: "βάπτισμα δὲ ἔχω βαπτισθῆναι καὶ πῶς συνέχομαι ἕως ὅτου τελεσθῇ."
+pericope: "[[Luke.12.49 Not Peace but Division|Not Peace but Division]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G0908]]"
+- "[[G1161]]"
+- "[[G2192]]"
+- "[[G0907]]"
+- "[[G2532]]"
+- "[[G4459]]"
+- "[[G4912]]"
+- "[[G2193]]"
+- "[[G3748]]"
+- "[[G5055]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 12:50**<big><big>[[Luke.12.49 Not Peace but Division|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I have a baptism to be baptized with; and how am I straitened till it be accomplished!
 <small><sub>**BSB:**</sub></small>
 But I have a baptism to undergo, and how distressed I am until it is accomplished!
-<small><sub>**Literal:**</sub></small>
-Baptism however I have to be baptized [with] and how I am distressed until while it may be accomplished!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.49|<< Luke 12:49]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.51|Luke 12:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0908\|βάπτισμα]]  [[G1161\|δὲ]]  [[G2192\|ἔχω]]  [[G0907\|βαπτισθῆναι]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G4912\|συνέχομαι]]  [[G2193\|ἕως]]  [[G3748\|ὅτου]]  [[G5055\|τελεσθῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.49|<< Luke 12:49]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.51|Luke 12:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

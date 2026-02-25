@@ -1,10 +1,58 @@
+---
+title: John 2:1
+type: Verse
+kjv: "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:"
+bsb: "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,"
+greek: "Καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ τῆς Γαλιλαίας, καὶ ἦν ἡ μήτηρ τοῦ Ἰησοῦ ἐκεῖ·"
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G5154]]"
+- "[[G1062]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G2580]]"
+- "[[G1056G]]"
+- "[[G1510]]"
+- "[[G3384]]"
+- "[[G2424G]]"
+- "[[G1563]]"
+texts:
+- NKO
+---
+
 **John 2:1**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 <small><sub>**BSB:**</sub></small>
 On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,
-<small><sub>**Literal:**</sub></small>
-And on the day <the> third a wedding took place in Cana <the> of Galilee, and was the mother <the> of Jesus there;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.51|<< John 1:51]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.2|John 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G1062\|γάμος]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G2580\|Κανὰ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας,]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1563\|ἐκεῖ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.51|<< John 1:51]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.2|John 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

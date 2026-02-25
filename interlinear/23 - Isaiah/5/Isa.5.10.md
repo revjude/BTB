@@ -1,8 +1,59 @@
+---
+title: Isaiah 5:10
+type: Verse
+kjv: "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah."
+bsb: "For ten acres of vineyard will yield but a bath of wine, and a homer of seed only an ephah of grain.”"
+hebrew: "כִּ֗י עֲשֶׂ֙רֶת֙ צִמְדֵּי־ כֶ֔רֶם יַעֲשׂ֖וּ בַּ֣ת אֶחָ֑ת וְזֶ֥רַע חֹ֖מֶר יַעֲשֶׂ֥ה אֵיפָֽה׃ פ"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ACRE|ACRE]]"
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BATH|BATH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6235]]"
+- "[[H6776]]"
+- "[[H9014]]"
+- "[[H3754]]"
+- "[[H6213A]]"
+- "[[H1324]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H2233G]]"
+- "[[H2563C]]"
+- "[[H0374]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 5:10**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.
 <small><sub>**BSB:**</sub></small>
 For ten acres of vineyard will yield but a bath of wine, and a homer of seed only an ephah of grain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H6235\|עֲשֶׂ֙רֶת֙]] [[H6776\|צִמְדֵּי]][[H9014\|־]] [[H3754\|כֶ֔רֶם]] [[H6213A\|יַעֲשׂ֖וּ]] [[H1324\|בַּ֣ת]] [[H0259\|אֶחָ֑ת]] [[H9002\|וְ]][[H2233G\|זֶ֥רַע]] [[H2563C\|חֹ֖מֶר]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H0374\|אֵיפָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACRE|ACRE]] • [[topic AGRICULTURE|AGRICULTURE]] • [[topic BATH|BATH]] • [[topic ISAIAH|ISAIAH]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.9|<< Isaiah 5:9]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.11|Isaiah 5:11 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ For ten acres of vineyard will yield but a bath of wine, and a homer of seed onl
 | and seed of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2233G\|זֶ֥רַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a homer  |**<big>&#8207;[[H2563C\|חֹ֖מֶר]]&#8207; </big>**| Cho.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will produce  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֥ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an ephah  |**<big>&#8207;[[H0374\|אֵיפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an ephah  |**<big>&#8207;[[H0374\|אֵיפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.9|<< Isaiah 5:9]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.11|Isaiah 5:11 >>]]</td></tr></table>
 
 

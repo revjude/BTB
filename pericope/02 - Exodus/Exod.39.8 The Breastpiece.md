@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Breastpiece
+type: Pericope
 pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 39
 book/chapter: "[[Exod.39|Exodus 39]]"
-genre:
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 14
 verses:
 - "[[Exod.39.8]]"
 - "[[Exod.39.9]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Exod.39.21]]"
 ---
 
-[[Exod.39|Exodus 39:8 - Exodus 39:21]]
+<small>[[Exod.39|Exodus 39:8-21]]</small>
 *The Breastpiece*
 
 [[Exod.39.8|8]] And he made the breastplate \[of\] cunning work, like the work of the ephod; \[of\] gold, blue, and purple, and scarlet, and fine twined linen.

@@ -1,6 +1,67 @@
+---
+title: LXX 1 Samuel 5:9
+type: Verse
+lxx: "And it came to pass after  it being passed through the ranks, that the hand of the lord came against the city -- an exceedingly great disturbance; and he struck the men of the city from small unto great in  their buttocks."
+greek: "και εγένετο μετά το μετελθείν αυτήν και γίνεται χειρ κυρίου εν τη πόλει τάραχος μέγας σφόδρα και επάταξε τους άνδρας της πόλεως από μικρού έως μεγάλου εις τας έδρας έδρας"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TUMOR|TUMOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G8306]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5495]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G5017]]"
+- "[[G3173]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G3960]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0575]]"
+- "[[G3398]]"
+- "[[G2193]]"
+- "[[G3173]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G7045]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 5:9** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  it being passed through the ranks, that \[the\] hand \[of the\] <span class="smallcaps">lord</span> came against the city -- an exceedingly great disturbance; and he struck the men of the city from small unto great in  their buttocks. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3326\|μετά]] [[G3588\|το]] [[G8306\|μετελθείν]] [[G1473\|αυτήν]] [[G2532\|και]] [[G1096\|γίνεται]] [[G5495\|χειρ]] [[G2962\|κυρίου]] [[G1722\|εν]] [[G3588\|τη]] [[G4172\|πόλει]] [[G5017\|τάραχος]] [[G3173\|μέγας]] [[G4970\|σφόδρα]] [[G2532\|και]] [[G3960\|επάταξε]] [[G3588\|τους]] [[G0435\|άνδρας]] [[G3588\|της]] [[G4172\|πόλεως]] [[G0575\|από]] [[G3398\|μικρού]] [[G2193\|έως]] [[G3173\|μεγάλου]] [[G1519\|εις]] [[G3588\|τας]] [[G7045\|έδρας]] <sup><small>[[G1473\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic MIRACLES|MIRACLES]] • [[topic TUMOR|TUMOR]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
 
@@ -34,6 +95,6 @@ And it came to pass after  it being passed through the ranks, that \[the\] hand 
 | in | **<big>[[G1519\|εις]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | their buttocks. | **<big>[[G7045\|έδρας]]</big>**<sup><small>[[G1473\| [ • ] ]]</small></sup> |
-[[1Sam.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
 
 

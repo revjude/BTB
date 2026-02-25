@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 18:25
+type: Verse
+kjv: "Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;"
+bsb: "And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,"
+hebrew: "וַיֹּ֙אמֶר֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל קְחוּ֙ אֶת־ מִיכָ֔יְהוּ וַהֲשִׁיבֻ֖הוּ אֶל־ אָמ֣וֹן שַׂר־ הָעִ֑יר וְאֶל־ יוֹאָ֖שׁ בֶּן־ הַמֶּֽלֶךְ׃"
+pericope: "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMON|AMON]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4321G]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H0526G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3101H]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:25**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;
 <small><sub>**BSB:**</sub></small>
 And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3947G\|קְחוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4321G\|מִיכָ֔יְהוּ]] [[H9002\|וַ]][[H7725G\|הֲשִׁיבֻ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0526G\|אָמ֣וֹן]] [[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3101H\|יוֹאָ֖שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMON|AMON]] • [[topic JOASH|JOASH]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.24|<< 2 Chronicles 18:24]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.26|2 Chronicles 18:26 >>]]</td></tr></table>
 

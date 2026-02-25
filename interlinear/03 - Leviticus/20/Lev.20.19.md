@@ -1,8 +1,65 @@
+---
+title: Leviticus 20:19
+type: Verse
+kjv: "And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity."
+bsb: "You must not have sexual relations with the sister of your mother or your father, for it is exposing one’s own kin; both shall bear their iniquity."
+hebrew: "וְעֶרְוַ֨ת אֲח֧וֹת אִמְּךָ֛ וַאֲח֥וֹת אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה כִּ֧י אֶת־ שְׁאֵר֛וֹ הֶעֱרָ֖ה עֲוֹנָ֥ם יִשָּֽׂאוּ׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6172]]"
+- "[[H0269]]"
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H0001G]]"
+- "[[H3808]]"
+- "[[H1540I]]"
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7607]]"
+- "[[H9023]]"
+- "[[H6168]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H5375J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:19**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity.
 <small><sub>**BSB:**</sub></small>
 You must not have sexual relations with the sister of your mother or your father, for it is exposing one’s own kin; both shall bear their iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6172\|עֶרְוַ֨ת]] [[H0269\|אֲח֧וֹת]] [[H0517\|אִמְּ]][[H9021\|ךָ֛]] [[H9002\|וַ]][[H0269\|אֲח֥וֹת]] [[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H1540I\|תְגַלֵּ֑ה]] [[H3588A\|כִּ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H7607\|שְׁאֵר֛]][[H9023\|וֹ]] [[H6168\|הֶעֱרָ֖ה]] [[H5771G\|עֲוֹנָ֥]][[H9028\|ם]] [[H5375J\|יִשָּֽׂאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.18|<< Leviticus 20:18]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.20|Leviticus 20:20 >>]]</td></tr></table>
 

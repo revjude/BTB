@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Holiness
+type: Pericope
 pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 1
 book/chapter: "[[1Pet.1|1 Peter 1]]"
-genre:
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 9
 verses:
 - "[[1Pet.1.13]]"
 - "[[1Pet.1.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Pet.1.21]]"
 ---
 
-[[1Pet.1|1 Peter 1:13 - 1 Peter 1:21]]
+<small>[[1Pet.1|1 Peter 1:13-21]]</small>
 *A Call to Holiness*
 
 [[1Pet.1.13|13]] Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;

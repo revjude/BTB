@@ -1,8 +1,56 @@
+---
+title: Psalm 71:5
+type: Verse
+kjv: "For thou art my hope, O Lord GOD: thou art my trust from my youth."
+bsb: "For You are my hope, O Lord GOD, my confidence from my youth."
+hebrew: "כִּֽי־ אַתָּ֥ה תִקְוָתִ֑י אֲדֹנָ֥י יְ֝הוִ֗ה מִבְטַחִ֥י מִנְּעוּרָֽי׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H8615B]]"
+- "[[H9020]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H4009]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:5**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] my hope, O Lord GOD: [thou art] my trust from my youth.
 <small><sub>**BSB:**</sub></small>
 For You are my hope, O Lord GOD, my confidence from my youth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H8615B\|תִקְוָתִ֑]][[H9020\|י]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְ֝הוִ֗ה]] [[H4009\|מִבְטַחִ֥]][[H9020\|י]] [[H9006\|מִ]][[H5271A\|נְּעוּרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic HOPE|HOPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.4|<< Psalms 71:4]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.6|Psalms 71:6 >>]]</td></tr></table>
 

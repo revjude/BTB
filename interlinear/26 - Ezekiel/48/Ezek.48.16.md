@@ -1,8 +1,62 @@
+---
+title: Ezekiel 48:16
+type: Verse
+kjv: "And these shall be the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred."
+bsb: "and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side."
+hebrew: "וְאֵלֶּה֮ מִדּוֹתֶיהָ֒ פְּאַ֣ת צָפ֗וֹן חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים וּפְאַת־ נֶ֕גֶב חֲמֵ֥שׁ   מֵא֖וֹת וְאַרְבַּ֣עַת אֲלָפִ֑ים וּמִפְּאַ֣ת קָדִ֗ים חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים וּפְאַת־ יָ֕מָּה חֲמֵ֥שׁ מֵא֖וֹת וְאַרְבַּ֥עַת אֲלָפִֽים׃"
+pericope: "[[Ezek.48.15 The Common Portion|The Common Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H4060A]]"
+- "[[H9024]]"
+- "[[H6285]]"
+- "[[H6828G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9014]]"
+- "[[H5045H]]"
+- "[[H9006]]"
+- "[[H6921]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 48:16**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [shall be] the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵלֶּה֮]] [[H4060A\|מִדּוֹתֶי]][[H9024\|הָ֒]] [[H6285\|פְּאַ֣ת]] [[H6828G\|צָפ֗וֹן]] [[H2568\|חֲמֵ֤שׁ]] [[H3967\|מֵאוֹת֙]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣עַת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וּ]][[H6285\|פְאַת]][[H9014\|־]] [[H5045H\|נֶ֕גֶב]] [[H2568\|חֲמֵ֥שׁ]]   [[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣עַת]] [[H0505G\|אֲלָפִ֑ים]] [[H9002\|וּ]][[H9006\|מִ]][[H6285\|פְּאַ֣ת]] [[H6921\|קָדִ֗ים]] [[H2568\|חֲמֵ֤שׁ]] [[H3967\|מֵאוֹת֙]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣עַת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וּ]][[H6285\|פְאַת]][[H9014\|־]] [[H3220H\|יָ֕מָּ]][[H9011\|ה]] [[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥עַת]] [[H0505G\|אֲלָפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ and will have these measurements: 4,500 cubits on the north side, 4,500 cubits o
 | and [the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] south  |**<big>&#8207;[[H5045H\|נֶ֕גֶב]]&#8207; </big>**| Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] five  |**<big>&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [ ]  [^1]|**<big>&#8207;[[\|]]&#8207; </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [ ]  [^1]|**<big> </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֣עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba.'at<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand [cubits]  |**<big>&#8207;[[H0505G\|אֲלָפִ֑ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

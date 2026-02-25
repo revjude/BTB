@@ -1,10 +1,57 @@
+---
+title: Hebrews 11:29
+type: Verse
+kjv: "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned."
+bsb: "By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned."
+greek: "Πίστει διέβησαν τὴν ἐρυθρὰν θάλασσαν ὡς διὰ ξηρᾶς γῆς, ἧς πεῖραν λαβόντες οἱ Αἰγύπτιοι κατεπόθησαν.¶"
+pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[G4102G]]"
+- "[[G1224]]"
+- "[[G3588]]"
+- "[[G2063]]"
+- "[[G2281]]"
+- "[[G5613]]"
+- "[[G1223]]"
+- "[[G3584]]"
+- "[[G1093H]]"
+- "[[G3739]]"
+- "[[G3984]]"
+- "[[G2983]]"
+- "[[G0124]]"
+- "[[G2666]]"
+texts:
+- NKO
+- no
+---
+
 **Hebrews 11:29**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith they passed through the Red sea as by dry [land]: which the Egyptians assaying to do were drowned.
 <small><sub>**BSB:**</sub></small>
 By faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to follow, they were drowned.
-<small><sub>**Literal:**</sub></small>
-By faith they passed through the Red Sea as through dry land, which an attempt having made the Egyptians were swallowed up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.28|<< Hebrews 11:28]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.30|Hebrews 11:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G1224\|διέβησαν]]  [[G3588\|τὴν]]  [[G2063\|ἐρυθρὰν]]  [[G2281\|θάλασσαν]]  [[G5613\|ὡς]]  [[G1223\|διὰ]]  [[G3584\|ξηρᾶς]]  [[G1093H\|γῆς,]]  [[G3739\|ἧς]]  [[G3984\|πεῖραν]]  [[G2983\|λαβόντες]]  [[G3588\|οἱ]]  [[G0124\|Αἰγύπτιοι]]  [[G2666\|κατεπόθησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic FAITH|FAITH]] • [[topic RED SEA|RED SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.28|<< Hebrews 11:28]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.30|Hebrews 11:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:29** is...
 > $\quad$ alluding to: [[LXX.Exod.14.22|Exod 14:22]]

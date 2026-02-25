@@ -1,8 +1,58 @@
+---
+title: Jeremiah 49:38
+type: Verse
+kjv: "And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD."
+bsb: "I will set My throne in Elam, and destroy its king and officials,” declares the LORD."
+hebrew: "וְשַׂמְתִּ֥י כִסְאִ֖י בְּעֵילָ֑ם וְהַאֲבַדְתִּ֥י מִשָּׁ֛ם מֶ֥לֶךְ וְשָׂרִ֖ים נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H3678G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H5867A]]"
+- "[[H0006]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:38**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will set My throne in Elam, and destroy its king and officials,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֥י]] [[H3678G\|כִסְאִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H5867A\|עֵילָ֑ם]] [[H9001\|וְ]][[H0006\|הַאֲבַדְתִּ֥י]] [[H9006\|מִ]][[H8033G\|שָּׁ֛ם]] [[H4428G\|מֶ֥לֶךְ]] [[H9002\|וְ]][[H8269\|שָׂרִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.37|<< Jeremiah 49:37]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.39|Jeremiah 49:39 >>]]</td></tr></table>
 

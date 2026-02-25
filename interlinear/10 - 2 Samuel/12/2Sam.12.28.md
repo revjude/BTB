@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 12:28
+type: Verse
+kjv: "Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name."
+bsb: "Now, therefore, assemble the rest of the troops, lay siege to the city, and capture it. Otherwise I will capture the city, and it will be named after me.”"
+hebrew: "וְעַתָּ֗ה אֱסֹף֙ אֶת־ יֶ֣תֶר הָעָ֔ם וַחֲנֵ֥ה עַל־ הָעִ֖יר וְלָכְדָ֑הּ פֶּן־ אֶלְכֹּ֤ד אֲנִי֙ אֶת־ הָעִ֔יר וְנִקְרָ֥א שְׁמִ֖י עָלֶֽיהָ׃"
+pericope: "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H6435]]"
+- "[[H0589]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:28**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, assemble the rest of the troops, lay siege to the city, and capture it. Otherwise I will capture the city, and it will be named after me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0622\|אֱסֹף֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וַ]][[H2583\|חֲנֵ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H3920\|לָכְדָ֑]][[H9034\|הּ]] [[H6435\|פֶּן]][[H9014\|־]] [[H3920\|אֶלְכֹּ֤ד]] [[H0589\|אֲנִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וְ]][[H7121H\|נִקְרָ֥א]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.27|<< 2 Samuel 12:27]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.29|2 Samuel 12:29 >>]]</td></tr></table>
 

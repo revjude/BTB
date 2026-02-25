@@ -1,8 +1,58 @@
+---
+title: Daniel 5:14
+type: Verse
+kjv: "I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee."
+bsb: "I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom."
+aramaic: "וְשִׁמְעֵ֣ת עֲלָ֔ךְ דִּ֛י ר֥וּחַ אֱלָהִ֖ין בָּ֑ךְ וְנַהִיר֧וּ וְשָׂכְלְתָנ֛וּ וְחָכְמָ֥ה יַתִּירָ֖ה הִשְׁתְּכַ֥חַת בָּֽךְ׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H8086]]"
+- "[[H5922]]"
+- "[[H9031]]"
+- "[[H1768]]"
+- "[[H7308]]"
+- "[[H0426]]"
+- "[[H9003]]"
+- "[[H5094B]]"
+- "[[H7924]]"
+- "[[H2452]]"
+- "[[H3493]]"
+- "[[H7912]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 5:14**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have even heard of thee, that the spirit of the gods [is] in thee, and [that] light and understanding and excellent wisdom is found in thee.
 <small><sub>**BSB:**</sub></small>
 I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H8086\|שִׁמְעֵ֣ת]] [[H5922\|עֲלָ֔]][[H9031\|ךְ]] [[H1768\|דִּ֛י]] [[H7308\|ר֥וּחַ]] [[H0426\|אֱלָהִ֖ין]] [[H9003\|בָּ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H5094B\|נַהִיר֧וּ]] [[H9002\|וְ]][[H7924\|שָׂכְלְתָנ֛וּ]] [[H9002\|וְ]][[H2452\|חָכְמָ֥ה]] [[H3493\|יַתִּירָ֖ה]] [[H7912\|הִשְׁתְּכַ֥חַת]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.13|<< Daniel 5:13]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.15|Daniel 5:15 >>]]</td></tr></table>
 

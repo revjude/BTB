@@ -1,8 +1,61 @@
+---
+title: Exodus 39:42
+type: Verse
+kjv: "According to all that the LORD commanded Moses, so the children of Israel made all the work."
+bsb: "The Israelites had done all the work just as the LORD had commanded Moses."
+hebrew: "כְּכֹ֛ל אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶׁ֑ה כֵּ֤ן עָשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת כָּל־ הָעֲבֹדָֽה׃"
+pericope: "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H5656I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:42**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to all that the LORD commanded Moses, so the children of Israel made all the work.
 <small><sub>**BSB:**</sub></small>
 The Israelites had done all the work just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H3651C\|כֵּ֤ן]] [[H6213A\|עָשׂוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5656I\|עֲבֹדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.41|<< Exodus 39:41]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.43|Exodus 39:43 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Numbers 35:14
+type: Verse
+kjv: "Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge."
+bsb: "Select three cities across the Jordan and three in the land of Canaan as cities of refuge."
+hebrew: "אֵ֣ת׀ שְׁלֹ֣שׁ הֶעָרִ֗ים תִּתְּנוּ֙ מֵעֵ֣בֶר לַיַּרְדֵּ֔ן וְאֵת֙ שְׁלֹ֣שׁ הֶֽעָרִ֔ים תִּתְּנ֖וּ בְּאֶ֣רֶץ כְּנָ֑עַן עָרֵ֥י מִקְלָ֖ט תִּהְיֶֽינָה׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5414G]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H4733]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:14**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, [which] shall be cities of refuge.
 <small><sub>**BSB:**</sub></small>
 Select three cities across the Jordan and three in the land of Canaan as cities of refuge.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵ֣ת]][[H9015\|׀]] [[H7969\|שְׁלֹ֣שׁ]] [[H9009\|הֶ]][[H5892B\|עָרִ֗ים]] [[H5414G\|תִּתְּנוּ֙]] [[H9006\|מֵ]][[H5676H\|עֵ֣בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7969\|שְׁלֹ֣שׁ]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֔ים]] [[H5414G\|תִּתְּנ֖וּ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H5892B\|עָרֵ֥י]] [[H4733\|מִקְלָ֖ט]] [[H1961\|תִּהְיֶֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.13|<< Numbers 35:13]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.15|Numbers 35:15 >>]]</td></tr></table>
 

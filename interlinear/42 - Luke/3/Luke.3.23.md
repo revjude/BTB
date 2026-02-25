@@ -1,10 +1,59 @@
+---
+title: Luke 3:23
+type: Verse
+kjv: "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+bsb: "Jesus Himself was about thirty years old when He began His ministry. He was regarded as the son of Joseph, the son of Heli,"
+greek: "Καὶ αὐτὸς ἦν ὁ Ἰησοῦς ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ τοῦ Ἠλὶ"
+pericope: "[[Luke.3.23 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HELI|HELI]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0757]]"
+- "[[G5616]]"
+- "[[G2094]]"
+- "[[G5144]]"
+- "[[G5207]]"
+- "[[G5613]]"
+- "[[G3543]]"
+- "[[G2501G]]"
+- "[[G2242]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 3:23**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was [the son] of Heli,
 <small><sub>**BSB:**</sub></small>
 Jesus Himself was about thirty years old when He began His ministry. He was regarded as the son of Joseph, the son of Heli,
-<small><sub>**Literal:**</sub></small>
-And Himself was <the> Jesus beginning about years [old] thirty being son, as was supposed of Joseph <the> of Heli<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.22|<< Luke 3:22]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.24|Luke 3:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0757\|ἀρχόμενος]]  [[G5616\|ὡσεὶ]]  [[G2094\|ἐτῶν]]  [[G5144\|τριάκοντα]]  [[G1510\|ὢν]]  [[G5207\|υἱός,]]  [[G5613\|ὡς]]  [[G3543\|ἐνομίζετο,]]  [[G2501G\|Ἰωσὴφ]]  [[G3588\|τοῦ]]  [[G2242\|Ἠλὶ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HELI|HELI]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.22|<< Luke 3:22]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.24|Luke 3:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

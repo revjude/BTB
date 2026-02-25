@@ -1,10 +1,58 @@
+---
+title: Luke 20:24
+type: Verse
+kjv: "Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar’s."
+bsb: "“Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered."
+jesus_said: "Shew me a penny. Whose image and superscription hath it?"
+greek: "δείξατέ μοι δηνάριον· τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν; οἱ δὲ εἶπαν· Καίσαρος."
+pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G1166]]"
+- "[[G3165]]"
+- "[[G1220]]"
+- "[[G5101]]"
+- "[[G2192]]"
+- "[[G1504]]"
+- "[[G2532]]"
+- "[[G1923]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2541]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 20:24**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar’s.
 <small><sub>**BSB:**</sub></small>
 “Show Me a denarius. Whose image and inscription are on it?” “Caesar’s,” they answered.
-<small><sub>**Literal:**</sub></small>
-do show Me a denarius; Of whom has it [the] image and inscription? Those And they said; Caesar’s.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.23|<< Luke 20:23]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.25|Luke 20:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1166\|δείξατέ]]  [[G3165\|μοι]]  [[G1220\|δηνάριον·]]  [[G5101\|τίνος]]  [[G2192\|ἔχει]]  [[G1504\|εἰκόνα]]  [[G2532\|καὶ]]  [[G1923\|ἐπιγραφήν;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G2541\|Καίσαρος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.23|<< Luke 20:23]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.25|Luke 20:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

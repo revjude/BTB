@@ -1,10 +1,72 @@
+---
+title: Acts 15:2
+type: Verse
+kjv: "When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question."
+bsb: "And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question."
+greek: "γενομένης δὲ στάσεως καὶ ζητήσεως οὐκ ὀλίγης τῷ Παύλῳ καὶ τῷ Βαρναβᾷ πρὸς αὐτοὺς ἔταξαν ἀναβαίνειν Παῦλον καὶ Βαρναβᾶν καί τινας ἄλλους ἐξ αὐτῶν πρὸς τοὺς ἀποστόλους καὶ πρεσβυτέρους εἰς Ἰερουσαλὴμ περὶ τοῦ ζητήματος τούτου.¶"
+pericope: "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4714]]"
+- "[[G2532]]"
+- "[[G2214]]"
+- "[[G3756]]"
+- "[[G3641]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G0921G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5021]]"
+- "[[G0305]]"
+- "[[G5100]]"
+- "[[G0243]]"
+- "[[G1537]]"
+- "[[G0652]]"
+- "[[G4245G]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G4012]]"
+- "[[G2213]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:2**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.
 <small><sub>**BSB:**</sub></small>
 And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.
-<small><sub>**Literal:**</sub></small>
-When was hapening then commotion and controversy no small <the> by Paul and <the> Barnabas with them they appointed to go up Paul and Barnabas and certain others out from them to the apostles and elders to Jerusalem about <the> question this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.1|<< Acts 15:1]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.3|Acts 15:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|γενομένης]]  [[G1161\|δὲ]]  [[G4714\|στάσεως]]  [[G2532\|καὶ]]  [[G2214\|ζητήσεως]]  [[G3756\|οὐκ]]  [[G3641\|ὀλίγης]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G0921G\|Βαρναβᾷ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G5021\|ἔταξαν]]  [[G0305\|ἀναβαίνειν]]  [[G3972G\|Παῦλον]]  [[G2532\|καὶ]]  [[G0921G\|Βαρναβᾶν]]  [[G2532\|καί]]  [[G5100\|τινας]]  [[G0243\|ἄλλους]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0652\|ἀποστόλους]]  [[G2532\|καὶ]]  [[G4245G\|πρεσβυτέρους]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2213\|ζητήματος]]  [[G3778\|τούτου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic COUNCIL|COUNCIL]] • [[topic ELDER|ELDER]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic STRIFE|STRIFE]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.1|<< Acts 15:1]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.3|Acts 15:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

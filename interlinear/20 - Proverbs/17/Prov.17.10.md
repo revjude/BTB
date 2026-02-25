@@ -1,8 +1,51 @@
+---
+title: Proverbs 17:10
+type: Verse
+kjv: "A reproof entereth more into a wise man than an hundred stripes into a fool."
+bsb: "A rebuke cuts into a man of discernment deeper than a hundred lashes cut into a fool."
+hebrew: "תֵּ֣חַת גְּעָרָ֣ה בְמֵבִ֑ין מֵהַכּ֖וֹת כְּסִ֣יל מֵאָֽה׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H5181]]"
+- "[[H1606]]"
+- "[[H9003]]"
+- "[[H0995]]"
+- "[[H9006]]"
+- "[[H5221]]"
+- "[[H3684]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:10**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A reproof entereth more into a wise man than an hundred stripes into a fool.
 <small><sub>**BSB:**</sub></small>
 A rebuke cuts into a man of discernment deeper than a hundred lashes cut into a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H5181\|תֵּ֣חַת]] [[H1606\|גְּעָרָ֣ה]] [[H9003\|בְ]][[H0995\|מֵבִ֑ין]] [[H9006\|מֵ]][[H5221\|הַכּ֖וֹת]] [[H3684\|כְּסִ֣יל]] [[H3967\|מֵאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PUNISHMENT|PUNISHMENT]] • [[topic REPROOF|REPROOF]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.9|<< Proverbs 17:9]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.11|Proverbs 17:11 >>]]</td></tr></table>
 

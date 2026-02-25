@@ -1,10 +1,70 @@
+---
+title: Acts 2:29
+type: Verse
+kjv: "Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day."
+bsb: "Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day."
+greek: "Ἄνδρες ἀδελφοί, ἐξὸν εἰπεῖν μετὰ παρρησίας πρὸς ὑμᾶς περὶ τοῦ πατριάρχου Δαυὶδ ὅτι καὶ ἐτελεύτησεν καὶ ἐτάφη καὶ τὸ μνῆμα αὐτοῦ ἔστιν ἐν ἡμῖν ἄχρι τῆς ἡμέρας ταύτης."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1832]]"
+- "[[G2036]]"
+- "[[G3326]]"
+- "[[G3954]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3966]]"
+- "[[G1138]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G5053]]"
+- "[[G2290]]"
+- "[[G3418]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3165]]"
+- "[[G0891]]"
+- "[[G2250]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Acts 2:29**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men [and] brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
 <small><sub>**BSB:**</sub></small>
 Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day.
-<small><sub>**Literal:**</sub></small>
-Men brothers, it is permitted [me] to speak with freedom to you concerning the patriarch David that both he died and was buried and the tomb of him is among us unto <the> day this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.28|<< Acts 2:28]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.30|Acts 2:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G1832\|ἐξὸν]]  [[G2036\|εἰπεῖν]]  [[G3326\|μετὰ]]  [[G3954\|παρρησίας]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3966\|πατριάρχου]]  [[G1138\|Δαυὶδ]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G5053\|ἐτελεύτησεν]]  [[G2532\|καὶ]]  [[G2290\|ἐτάφη]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3418\|μνῆμα]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἔστιν]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G0891\|ἄχρι]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G3778\|ταύτης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.28|<< Acts 2:28]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.30|Acts 2:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

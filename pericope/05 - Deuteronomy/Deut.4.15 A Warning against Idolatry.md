@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Idolatry
+type: Pericope
 pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 4
 book/chapter: "[[Deut.4|Deuteronomy 4]]"
-genre:
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 17
 verses:
 - "[[Deut.4.15]]"
 - "[[Deut.4.16]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Deut.4.31]]"
 ---
 
-[[Deut.4|Deuteronomy 4:15 - Deuteronomy 4:31]]
+<small>[[Deut.4|Deuteronomy 4:15-31]]</small>
 *A Warning against Idolatry*
 
 [[Deut.4.15|15]] Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day \[that\] the LORD spake unto you in Horeb out of the midst of the fire:

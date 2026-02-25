@@ -1,10 +1,62 @@
+---
+title: Colossians 3:15
+type: Verse
+kjv: "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful."
+bsb: "Let the peace of Christ rule in your hearts, for to this you were called as members of one body. And be thankful."
+greek: "καὶ ἡ εἰρήνη τοῦ Χριστοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν, εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι· καὶ εὐχάριστοι γίνεσθε.¶"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1515]]"
+- "[[G5547]]"
+- "[[G1018]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G2564G]]"
+- "[[G1520]]"
+- "[[G4983]]"
+- "[[G2170]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Colossians 3:15**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
 <small><sub>**BSB:**</sub></small>
 Let the peace of Christ rule in your hearts, for to this you were called as members of one body. And be thankful.
-<small><sub>**Literal:**</sub></small>
-And the peace <the> from Christ should rule in the hearts of you, to which also you were called in one body; And thankful do be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.14|<< Colossians 3:14]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.16|Colossians 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1515\|εἰρήνη]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1018\|βραβευέτω]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν,]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G2532\|καὶ]]  [[G2564G\|ἐκλήθητε]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G4983\|σώματι·]]  [[G2532\|καὶ]]  [[G2170\|εὐχάριστοι]]  [[G1096\|γίνεσθε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.14|<< Colossians 3:14]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.16|Colossians 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

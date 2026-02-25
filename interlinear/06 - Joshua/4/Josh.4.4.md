@@ -1,8 +1,60 @@
+---
+title: Joshua 4:4
+type: Verse
+kjv: "Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:"
+bsb: "So Joshua summoned the twelve men he had appointed from the Israelites, one from each tribe,"
+hebrew: "וַיִּקְרָ֣א יְהוֹשֻׁ֗עַ אֶל־ שְׁנֵ֤ים הֶֽעָשָׂר֙ אִ֔ישׁ אֲשֶׁ֥ר הֵכִ֖ין מִבְּנֵ֣י יִשְׂרָאֵ֑ל אִישׁ־ אֶחָ֥ד אִישׁ־ אֶחָ֖ד מִשָּֽׁבֶט׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H6240]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H3559H]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0259]]"
+- "[[H7626H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:4**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:
 <small><sub>**BSB:**</sub></small>
 So Joshua summoned the twelve men he had appointed from the Israelites, one from each tribe,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H8147\|שְׁנֵ֤ים]] [[H9009\|הֶֽ]][[H6240\|עָשָׂר֙]] [[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3559H\|הֵכִ֖ין]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֖ד]] [[H9006\|מִ]][[H7626H\|שָּֽׁבֶט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.3|<< Joshua 4:3]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.5|Joshua 4:5 >>]]</td></tr></table>
 

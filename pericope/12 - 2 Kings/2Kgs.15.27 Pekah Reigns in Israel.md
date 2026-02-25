@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pekah Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.15.27 Pekah Reigns in Israel|Pekah Reigns in Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.15.27]]"
 - "[[2Kgs.15.28]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.15.31]]"
 ---
 
-[[2Kgs.15|2 Kings 15:27 - 2 Kings 15:31]]
+<small>[[2Kgs.15|2 Kings 15:27-31]]</small>
 *Pekah Reigns in Israel*
 
 [[2Kgs.15.27|27]] In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, \[and reigned\] twenty years.

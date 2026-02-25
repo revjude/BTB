@@ -1,8 +1,77 @@
+---
+title: Judges 17:2
+type: Verse
+kjv: "And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the LORD, my son."
+bsb: "said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”"
+hebrew: "וַיֹּ֣אמֶר לְאִמּ֡וֹ אֶלֶף֩ וּמֵאָ֨ה הַכֶּ֜סֶף אֲשֶׁ֣ר לֻֽקַּֽח־ לָ֗ךְ וְאַ֤תְּ אָלִית֙ וְגַם֙ אָמַ֣רְתְּ בְּאָזְנַ֔י הִנֵּֽה־ הַכֶּ֥סֶף אִתִּ֖י אֲנִ֣י לְקַחְתִּ֑יו וַתֹּ֣אמֶר אִמּ֔וֹ בָּר֥וּךְ בְּנִ֖י לַיהוָֽה׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONSCIENCE MONEY|CONSCIENCE MONEY]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H0859B]]"
+- "[[H0859C]]"
+- "[[H0422]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H9020]]"
+- "[[H2009]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H1121A]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 17:2**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his mother, The eleven hundred [shekels] of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver [is] with me; I took it. And his mother said, Blessed [be thou] of the LORD, my son.
 <small><sub>**BSB:**</sub></small>
 said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H0517\|אִמּ֡]][[H9023\|וֹ]] [[H0505G\|אֶלֶף֩]] [[H9002\|וּ]][[H3967\|מֵאָ֨ה]] [[H9009\|הַ]][[H3701G\|כֶּ֜סֶף]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947G\|לֻֽקַּֽח]][[H9014\|־]] [[H9005\|לָ֗]][[H9032\|ךְ]] [[H9002\|וְ]][[H0859C\|אַ֤תְּ]] [[H0422\|אָלִית֙]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H0559\|אָמַ֣רְתְּ]] [[H9003\|בְּ]][[H0241I\|אָזְנַ֔]][[H9020\|י]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֥סֶף]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H0589\|אֲנִ֣י]] [[H3947G\|לְקַחְתִּ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H1288\|בָּר֥וּךְ]] [[H1121A\|בְּנִ֖]][[H9020\|י]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONSCIENCE MONEY|CONSCIENCE MONEY]] • [[topic DISHONESTY|DISHONESTY]] • [[topic MONEY|MONEY]] • [[topic SHEKEL|SHEKEL]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.1|<< Judges 17:1]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.3|Judges 17:3 >>]]</td></tr></table>
 
@@ -33,7 +102,7 @@ said to his mother, “The eleven hundred shekels of silver that were taken from
 | by Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.1|<< Judges 17:1]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.3|Judges 17:3 >>]]</td></tr></table>
 
-[^1]: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
-[^2]: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^1]: and you  | **<big>[[H9002|וְ]]</big><big>[[H0859B|אַתִּי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: and you  | **<big>[[H9002|וְ]]</big><big>[[H0859B|אַתִּי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְאַ֤תְּי</big></span>**
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Idolaters to Be Put to Death
+type: Pericope
 pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 13
 book/chapter: "[[Deut.13|Deuteronomy 13]]"
-genre:
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.13.1]]"
 - "[[Deut.13.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.13.11]]"
 ---
 
-[[Deut.13|Deuteronomy 13:1 - Deuteronomy 13:11]]
+<small>[[Deut.13|Deuteronomy 13:1-11]]</small>
 *Idolaters to Be Put to Death*
 
 [[Deut.13.1|1]] If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,

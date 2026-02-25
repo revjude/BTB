@@ -1,8 +1,65 @@
+---
+title: Ezekiel 34:26
+type: Verse
+kjv: "And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing."
+bsb: "I will make them and the places around My hill a blessing. I will send down showers in season—showers of blessing."
+hebrew: "וְנָתַתִּ֥י אוֹתָ֛ם וּסְבִיב֥וֹת גִּבְעָתִ֖י בְּרָכָ֑ה וְהוֹרַדְתִּ֤י הַגֶּ֙שֶׁם֙ בְּעִתּ֔וֹ גִּשְׁמֵ֥י בְרָכָ֖ה יִֽהְיֽוּ׃"
+pericope: "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5439G]]"
+- "[[H1389I]]"
+- "[[H9020]]"
+- "[[H1293]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H1653]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:26**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing.
 <small><sub>**BSB:**</sub></small>
 I will make them and the places around My hill a blessing. I will send down showers in season—showers of blessing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֥י]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H9002\|וּ]][[H5439G\|סְבִיב֥וֹת]] [[H1389I\|גִּבְעָתִ֖]][[H9020\|י]] [[H1293\|בְּרָכָ֑ה]] [[H9001\|וְ]][[H3381\|הוֹרַדְתִּ֤י]] [[H9009\|הַ]][[H1653\|גֶּ֙שֶׁם֙]] [[H9003\|בְּ]][[H6256\|עִתּ֔]][[H9023\|וֹ]] [[H1653\|גִּשְׁמֵ֥י]] [[H1293\|בְרָכָ֖ה]] [[H1961\|יִֽהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.25|<< Ezekiel 34:25]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.27|Ezekiel 34:27 >>]]</td></tr></table>
 

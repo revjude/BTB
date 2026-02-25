@@ -1,10 +1,53 @@
+---
+title: Mark 6:15
+type: Verse
+kjv: "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets."
+bsb: "Others were saying, “He is Elijah,” and still others, “He is a prophet, like one of the prophets of old.”"
+greek: "ἄλλοι δὲ ἔλεγον ὅτι Ἠλίας ἐστίν· ἄλλοι δὲ ἔλεγον ὅτι προφήτης ἐστίν ἢ ὡς εἷς τῶν προφητῶν."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2243]]"
+- "[[G1510]]"
+- "[[G4396]]"
+- "[[G2228]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G3588]]"
+texts:
+- NKO
+- no
+- K
+---
+
 **Mark 6:15**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.
 <small><sub>**BSB:**</sub></small>
 Others were saying, “He is Elijah,” and still others, “He is a prophet, like one of the prophets of old.”
-<small><sub>**Literal:**</sub></small>
-Others however were saying that Elijah He is; Others now were saying that A prophet is or like one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.14|<< Mark 6:14]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.16|Mark 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G2243\|Ἠλίας]]  [[G1510\|ἐστίν·]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G4396\|προφήτης]]  [[G1510\|ἐστίν]]  [[G2228\|ἢ]]  [[G5613\|ὡς]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.14|<< Mark 6:14]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.16|Mark 6:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

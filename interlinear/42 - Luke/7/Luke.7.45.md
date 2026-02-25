@@ -1,10 +1,59 @@
+---
+title: Luke 7:45
+type: Verse
+kjv: "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+bsb: "You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived."
+jesus_said: "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+greek: "φίλημά μοι οὐκ ἔδωκας· αὕτη δὲ ἀφ᾽ ἧς εἰσῆλθον οὐ διέλιπεν καταφιλοῦσά μου τοὺς πόδας."
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G5370]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1525]]"
+- "[[G1257]]"
+- "[[G2705]]"
+- "[[G3588]]"
+- "[[G4228]]"
+texts:
+- NKO
+---
+
 **Luke 7:45**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.
 <small><sub>**BSB:**</sub></small>
 You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived.
-<small><sub>**Literal:**</sub></small>
-A kiss to Me not you gave; she herself however from which [time] I came in not she has ceased kissing My <the> feet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.44|<< Luke 7:44]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.46|Luke 7:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5370\|φίλημά]]  [[G3165\|μοι]]  [[G3756\|οὐκ]]  [[G1325\|ἔδωκας·]]  [[G3778\|αὕτη]]  [[G1161\|δὲ]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G1525\|εἰσῆλθον]]  [[G3756\|οὐ]]  [[G1257\|διέλιπεν]]  [[G2705\|καταφιλοῦσά]]  [[G3165\|μου]]  [[G3588\|τοὺς]]  [[G4228\|πόδας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.44|<< Luke 7:44]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.46|Luke 7:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

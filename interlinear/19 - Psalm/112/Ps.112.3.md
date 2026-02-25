@@ -1,8 +1,56 @@
+---
+title: Psalm 112:3
+type: Verse
+kjv: "Wealth and riches shall be in his house: and his righteousness endureth for ever."
+bsb: "Wealth and riches are in his house, and his righteousness endures forever."
+hebrew: "הוֹן־ וָעֹ֥שֶׁר בְּבֵית֑וֹ וְ֝צִדְקָת֗וֹ עֹמֶ֥דֶת לָעַֽד׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H1952]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H6239]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H6666]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:3**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wealth and riches [shall be] in his house: and his righteousness endureth for ever.
 <small><sub>**BSB:**</sub></small>
 Wealth and riches are in his house, and his righteousness endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1952\|הוֹן]][[H9014\|־]] [[H9002\|וָ]][[H6239\|עֹ֥שֶׁר]] [[H9003\|בְּ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H6666\|צִדְקָת֗]][[H9023\|וֹ]] [[H5975G\|עֹמֶ֥דֶת]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.2|<< Psalms 112:2]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.4|Psalms 112:4 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 23:9
+type: Verse
+kjv: "When the host goeth forth against thine enemies, then keep thee from every wicked thing."
+bsb: "When you are encamped against your enemies, then you shall keep yourself from every wicked thing."
+hebrew: "כִּֽי־ תֵצֵ֥א מַחֲנֶ֖ה עַל־ אֹיְבֶ֑יךָ וְנִ֨שְׁמַרְתָּ֔ מִכֹּ֖ל דָּבָ֥ר רָֽע׃"
+pericope: "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H4264]]"
+- "[[H5921A]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:9**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the host goeth forth against thine enemies, then keep thee from every wicked thing.
 <small><sub>**BSB:**</sub></small>
 When you are encamped against your enemies, then you shall keep yourself from every wicked thing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3318G\|תֵצֵ֥א]] [[H4264\|מַחֲנֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|אֹיְבֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8104H\|נִ֨שְׁמַרְתָּ֔]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H1697I\|דָּבָ֥ר]] [[H7451H\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.8|<< Deuteronomy 23:8]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.10|Deuteronomy 23:10 >>]]</td></tr></table>
 

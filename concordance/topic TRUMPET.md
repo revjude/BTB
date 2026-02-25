@@ -1,11 +1,11 @@
 
 **TRUMPET**
 
-→ Made of ram' s horn [[Josh.6.4|Jos 6:4]]-[[Josh.6.6|6]],[[Josh.6.8|8]],[[Josh.6.13|13]]
+→ Made of ram' s horn [[Josh.6.4|Jos 6:4-6]],[[Josh.6.8|8]],[[Josh.6.13|13]]
 
 → Made of silver [[Num.10.2|Nu 10:2]]
 
-→ Uses of, prescribed by Moses [[Num.10.1|Nu 10:1]]-[[Num.10.10|10]]
+→ Uses of, prescribed by Moses [[Num.10.1|Nu 10:1-10]]
 
 → Used in war [[Job.39.24|Job 39:24]],[[Job.39.25|25]]; [[Jer.4.19|Jer 4:19]]; [[Jer.6.1|6:1]],[[Jer.6.17|17]]; [[Jer.42.14|42:14]];  [[Jer.51.27|51:27]]; [[Ezek.7.14|Eze 7:14]]; [[Amos.2.2|Am 2:2]]; [[Amos.3.6|3:6]]; [[Zeph.1.16|Zep 1:16]]; [[1Cor.14.8|1Co 14:8]]
 
@@ -27,15 +27,15 @@
 
 - By Nehemiah [[Neh.4.18|Ne 4:18]],[[Neh.4.20|20]]
 
-→ By Gideon' s soldiers [[Judg.7.8|Jud 7:8]]-[[Judg.7.22|22]]
+→ By Gideon' s soldiers [[Judg.7.8|Jud 7:8-22]]
 
 → In war, of Abijah [[2Chr.13.12|2Ch 13:12]],[[2Chr.13.14|14]]
 
-→ In the siege of Jericho [[Josh.6.4|Jos 6:4]]-[[Josh.6.20|20]]
+→ In the siege of Jericho [[Josh.6.4|Jos 6:4-20]]
 
-→ Sounded in time of danger [[Ezek.33.3|Eze 33:3]]-[[Ezek.33.6|6]]; [[Joel.2.1|Joe 2:1]]
+→ Sounded in time of danger [[Ezek.33.3|Eze 33:3-6]]; [[Joel.2.1|Joe 2:1]]
 
-→ Used at Mount Sinai [[Exod.19.13|Ex 19:13]]-[[Exod.19.19|19]]; [[Exod.20.18|20:18]]; [[Heb.12.19|Heb  12:19]]
+→ Used at Mount Sinai [[Exod.19.13|Ex 19:13-19]]; [[Exod.20.18|20:18]]; [[Heb.12.19|Heb  12:19]]
 
 → On the great day of atonement [[Isa.27.13|Isa 27:13]]
 
@@ -57,7 +57,7 @@
 
 → FIGURATIVE [[Isa.27.13|Isa 27:13]]; [[Ezek.33.3|Eze 33:3]]; [[Joel.2.1|Joe 2:1]]; [[Zech.9.14|Zec 9:14]];  [[Matt.6.2|Mt 6:2]]
 
-→ SYMBOLICAL [[Matt.24.31|Mt 24:31]]; [[1Cor.15.52|1Co 15:52]]; [[1Thess.4.16|1Th 4:16]]; [[Rev.1.10|Re 1:10]];  [[Rev.4.1|4:1]]; [[Rev.8|8]]; [[Rev.9.1|9:1]]-[[Rev.9.14|14]]; [[Rev.10.7|10:7]]; [[Rev.11.15|11:15]]
+→ SYMBOLICAL [[Matt.24.31|Mt 24:31]]; [[1Cor.15.52|1Co 15:52]]; [[1Thess.4.16|1Th 4:16]]; [[Rev.1.10|Re 1:10]];  [[Rev.4.1|4:1]]; [[Rev.8|8]]; [[Rev.9.1|9:1-14]]; [[Rev.10.7|10:7]]; [[Rev.11.15|11:15]]
 
 - See [[topic MUSIC|MUSIC, INSTRUMENTS OF]]
 

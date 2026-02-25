@@ -1,10 +1,67 @@
+---
+title: Acts 10:11
+type: Verse
+kjv: "And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:"
+bsb: "He saw heaven open and something like a large sheet being let down to earth by its four corners."
+greek: "καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ καταβαῖνον ἐπ᾽ αὐτὸν σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς δεδεμένον καὶ καθιέμενον ἐπὶ τῆς γῆς·"
+pericope: "[[Acts.10.9 Peter’s Vision|Peter’s Vision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SHEET|SHEET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2334]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G0455]]"
+- "[[G2597]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G4632]]"
+- "[[G5100]]"
+- "[[G5613]]"
+- "[[G3607]]"
+- "[[G3173]]"
+- "[[G5064]]"
+- "[[G0746]]"
+- "[[G1210]]"
+- "[[G2524]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- K
+- KO
+---
+
 **Acts 10:11**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
 <small><sub>**BSB:**</sub></small>
 He saw heaven open and something like a large sheet being let down to earth by its four corners.
-<small><sub>**Literal:**</sub></small>
-and he beholds <the> heaven opened and descending onto him a vessel certain as a sheet great by four corners bound and being let down upon the earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.10|<< Acts 10:10]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.12|Acts 10:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2334\|θεωρεῖ]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G0455\|ἀνεῳγμένον]]  [[G2532\|καὶ]]  [[G2597\|καταβαῖνον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G4632\|σκεῦός]]  [[G5100\|τι]]  [[G5613\|ὡς]]  [[G3607\|ὀθόνην]]  [[G3173\|μεγάλην]]  [[G5064\|τέσσαρσιν]]  [[G0746\|ἀρχαῖς]]  [[G1210\|δεδεμένον]]  [[G2532\|καὶ]]  [[G2524\|καθιέμενον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic DREAM|DREAM]] • [[topic JOPPA|JOPPA]] • [[topic MISSIONS|MISSIONS]] • [[topic PARABLES|PARABLES]] • [[topic PETER|PETER]] • [[topic SHEET|SHEET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.10|<< Acts 10:10]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.12|Acts 10:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Isaiah 50:8
+type: Verse
+kjv: "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me."
+bsb: "The One who vindicates Me is near. Who will dare to contend with Me? Let us confront each other! Who has a case against Me? Let him approach Me!"
+hebrew: "קָרוֹב֙ מַצְדִּיקִ֔י מִֽי־ יָרִ֥יב אִתִּ֖י נַ֣עַמְדָה יָּ֑חַד מִֽי־ בַ֥עַל מִשְׁפָּטִ֖י יִגַּ֥שׁ אֵלָֽי׃"
+pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H7138]]"
+- "[[H6663]]"
+- "[[H9030]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H7378]]"
+- "[[H0854]]"
+- "[[H5975G]]"
+- "[[H3162A]]"
+- "[[H1167K]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 50:8**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He is] near that justifieth me; who will contend with me? let us stand together: who [is] mine adversary? let him come near to me.
 <small><sub>**BSB:**</sub></small>
 The One who vindicates Me is near. Who will dare to contend with Me? Let us confront each other! Who has a case against Me? Let him approach Me!
+<small><sub>**Hebrew:**</sub></small>
+[[H7138\|קָרוֹב֙]] [[H6663\|מַצְדִּיקִ֔]][[H9030\|י]] [[H4310\|מִֽי]][[H9014\|־]] [[H7378\|יָרִ֥יב]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H5975G\|נַ֣עַמְדָה]] [[H3162A\|יָּ֑חַד]] [[H4310\|מִֽי]][[H9014\|־]] [[H1167K\|בַ֥עַל]] [[H4941G\|מִשְׁפָּטִ֖]][[H9020\|י]] [[H5066G\|יִגַּ֥שׁ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.7|<< Isaiah 50:7]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.9|Isaiah 50:9 >>]]</td></tr></table>
 

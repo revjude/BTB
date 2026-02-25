@@ -1,8 +1,57 @@
+---
+title: Job 10:20
+type: Verse
+kjv: "Are not my days few? cease then, and let me alone, that I may take comfort a little,"
+bsb: "Are my days not few? Withdraw from me, that I may have a little comfort,"
+hebrew: "הֲלֹא־ מְעַ֣ט יָמַ֣י וַחֲדָ֑ל וְשִׁ֥ית מִ֝מֶּ֗נִּי וְאַבְלִ֥יגָה מְּעָֽט׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4592]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H2308]]"
+- "[[H9002]]"
+- "[[H7896H]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H1082]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 10:20**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Are] not my days few? cease [then, and] let me alone, that I may take comfort a little,
 <small><sub>**BSB:**</sub></small>
 Are my days not few? Withdraw from me, that I may have a little comfort,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H4592\|מְעַ֣ט]] [[H3117G\|יָמַ֣]][[H9020\|י]] [[H9002\|וַ]][[H2308\|חֲדָ֑ל]] [[H9002\|וְ]][[H7896H\|שִׁ֥ית]] [[H4480A\|מִ֝מֶּ֗]][[H9030\|נִּי]] [[H9002\|וְ]][[H1082\|אַבְלִ֥יגָה]] [[H4592\|מְּעָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic LIFE|LIFE]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.19|<< Job 10:19]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.21|Job 10:21 >>]]</td></tr></table>
 

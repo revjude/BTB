@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 2:6
+type: Verse
+kjv: "And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing."
+bsb: "Now may the LORD show you loving devotion and faithfulness, and I will also show you the same favor because you have done this."
+hebrew: "וְעַתָּ֕ה יַֽעַשׂ־ יְהוָ֥ה עִמָּכֶ֖ם חֶ֣סֶד וֶאֱמֶ֑ת וְגַ֣ם אָנֹכִ֗י אֶעֱשֶׂ֤ה אִתְּכֶם֙ הַטּוֹבָ֣ה הַזֹּ֔את אֲשֶׁ֥ר עֲשִׂיתֶ֖ם הַדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[2Sam.2.1 David Anointed King of Judah|David Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H2617A]]"
+- "[[H0571G]]"
+- "[[H1571]]"
+- "[[H0595]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H2896C]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:6**<big><big>[[2Sam.2.1 David Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.
 <small><sub>**BSB:**</sub></small>
 Now may the LORD show you loving devotion and faithfulness, and I will also show you the same favor because you have done this.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H6213A\|יַֽעַשׂ]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֖ם]] [[H2617A\|חֶ֣סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶ֑ת]] [[H9002\|וְ]][[H1571\|גַ֣ם]] [[H0595\|אָנֹכִ֗י]] [[H6213A\|אֶעֱשֶׂ֤ה]] [[H0854\|אִתְּ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עֲשִׂיתֶ֖ם]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEBRON|HEBRON]] • [[topic JUDAH|JUDAH]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.5|<< 2 Samuel 2:5]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.7|2 Samuel 2:7 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Job 9:25
+type: Verse
+kjv: "Now my days are swifter than a post: they flee away, they see no good."
+bsb: "My days are swifter than a runner; they flee without seeing good."
+hebrew: "וְיָמַ֣י קַ֭לּוּ מִנִּי־ רָ֑ץ בָּֽ֝רְח֗וּ לֹא־ רָא֥וּ טוֹבָֽה׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic POST|POST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H7043]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7323G]]"
+- "[[H1272]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H2896C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:25**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now my days are swifter than a post: they flee away, they see no good.
 <small><sub>**BSB:**</sub></small>
 My days are swifter than a runner; they flee without seeing good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3117G\|יָמַ֣]][[H9020\|י]] [[H7043\|קַ֭לּוּ]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H7323G\|רָ֑ץ]] [[H1272\|בָּֽ֝רְח֗וּ]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|רָא֥וּ]] [[H2896C\|טוֹבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]] • [[topic POST|POST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.24|<< Job 9:24]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.26|Job 9:26 >>]]</td></tr></table>
 

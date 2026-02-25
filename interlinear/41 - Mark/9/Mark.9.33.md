@@ -1,10 +1,62 @@
+---
+title: Mark 9:33
+type: Verse
+kjv: "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?"
+bsb: "Then they came to Capernaum. While Jesus was in the house, He asked them, “What were you discussing on the way?”"
+jesus_said: "What was it that ye disputed among yourselves by the way?"
+greek: "Καὶ ἦλθον εἰς Καφαρναούμ· καὶ ἐν τῇ οἰκίᾳ γενόμενος ἐπηρώτα αὐτούς· τί ἐν τῇ ὁδῷ πρὸς ἑαυτοὺς διελογίζεσθε;"
+pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G1096]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3598]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G1260]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Mark 9:33**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?
 <small><sub>**BSB:**</sub></small>
 Then they came to Capernaum. While Jesus was in the house, He asked them, “What were you discussing on the way?”
-<small><sub>**Literal:**</sub></small>
-And they came to Capernaum; And in the house having been He was asking them; What on the way to yourselves were you discussing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.32|<< Mark 9:32]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.34|Mark 9:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναούμ·]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G1096\|γενόμενος]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτούς·]]  [[G5101\|τί]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτοὺς]]  [[G1260\|διελογίζεσθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.32|<< Mark 9:32]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.34|Mark 9:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

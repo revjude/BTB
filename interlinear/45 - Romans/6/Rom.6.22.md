@@ -1,10 +1,62 @@
+---
+title: Romans 6:22
+type: Verse
+kjv: "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life."
+bsb: "But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life."
+greek: "νυνὶ δὲ ἐλευθερωθέντες ἀπὸ τῆς ἁμαρτίας δουλωθέντες δὲ τῷ θεῷ ἔχετε τὸν καρπὸν ὑμῶν εἰς ἁγιασμόν, τὸ δὲ τέλος ζωὴν αἰώνιον."
+pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G1659]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1402]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G2590]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G0038]]"
+- "[[G5056]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+---
+
 **Romans 6:22**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 <small><sub>**BSB:**</sub></small>
 But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.
-<small><sub>**Literal:**</sub></small>
-Now however having been set free from <the> sin having become slaves now <the> to God you have the fruit of you unto sanctification, <the> now the end [is] life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.21|<< Romans 6:21]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.23|Romans 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G1659\|ἐλευθερωθέντες]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας]]  [[G1402\|δουλωθέντες]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2192\|ἔχετε]]  [[G3588\|τὸν]]  [[G2590\|καρπὸν]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G0038\|ἁγιασμόν,]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G5056\|τέλος]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.21|<< Romans 6:21]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.23|Romans 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

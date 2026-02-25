@@ -1,8 +1,62 @@
+---
+title: Exodus 17:11
+type: Verse
+kjv: "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed."
+bsb: "As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed."
+hebrew: "וְהָיָ֗ה כַּאֲשֶׁ֨ר יָרִ֥ים מֹשֶׁ֛ה יָד֖וֹ וְגָבַ֣ר יִשְׂרָאֵ֑ל וְכַאֲשֶׁ֥ר יָנִ֛יחַ יָד֖וֹ וְגָבַ֥ר עֲמָלֵֽק׃"
+pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7311A]]"
+- "[[H4872]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H1396]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5117]]"
+- "[[H6002G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:11**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.
 <small><sub>**BSB:**</sub></small>
 As long as Moses held up his hands, Israel prevailed; but when he lowered them, Amalek prevailed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H7311A\|יָרִ֥ים]] [[H4872\|מֹשֶׁ֛ה]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H1396\|גָבַ֣ר]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H9004\|כַ]][[H0834D\|אֲשֶׁ֥ר]] [[H5117\|יָנִ֛יחַ]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H1396\|גָבַ֥ר]] [[H6002G\|עֲמָלֵֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.10|<< Exodus 17:10]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.12|Exodus 17:12 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Proverbs 23:3
+type: Verse
+kjv: "Be not desirous of his dainties: for they are deceitful meat."
+bsb: "Do not crave his delicacies, for that food is deceptive."
+hebrew: "אַל־ תִּ֭תְאָיו לְמַטְעַמּוֹתָ֑יו וְ֝ה֗וּא לֶ֣חֶם כְּזָבִֽים׃"
+pericope: "[[Prov.23.1 Saying 7|Saying 7]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8376]]"
+- "[[H0183]]"
+- "[[H9005]]"
+- "[[H4303]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3899G]]"
+- "[[H3577]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 23:3**<big><big>[[Prov.23.1 Saying 7|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not desirous of his dainties: for they [are] deceitful meat.
 <small><sub>**BSB:**</sub></small>
 Do not crave his delicacies, for that food is deceptive.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0183\|תִּ֭תְאָיו]] [[H9005\|לְ]][[H4303\|מַטְעַמּוֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H1931\|ה֗וּא]] [[H3899G\|לֶ֣חֶם]] [[H3577\|כְּזָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic CITIZENS|CITIZENS]] • [[topic GUEST|GUEST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 

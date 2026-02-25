@@ -1,10 +1,65 @@
+---
+title: Acts 5:5
+type: Verse
+kjv: "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things."
+bsb: "On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened."
+greek: "ἀκούων δὲ ὁ Ἁνανίας τοὺς λόγους τούτους πεσὼν ἐξέψυξεν. καὶ ἐγένετο φόβος μέγας ἐπὶ πάντας τοὺς ἀκούοντας ταῦτα·"
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GHOST|GHOST]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0367G]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G4098]]"
+- "[[G1634]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5401]]"
+- "[[G3173]]"
+- "[[G1909]]"
+- "[[G3956]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:5**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.
 <small><sub>**BSB:**</sub></small>
 On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened.
-<small><sub>**Literal:**</sub></small>
-Hearing now <the> Ananias <the> words these having fallen down he breathed his last. And came fear great upon all those hearing these things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.4|<< Acts 5:4]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.6|Acts 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούων]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0367G\|Ἁνανίας]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους]]  [[G4098\|πεσὼν]]  [[G1634\|ἐξέψυξεν.]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G5401\|φόβος]]  [[G3173\|μέγας]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0191\|ἀκούοντας]]  [[G3778\|ταῦτα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GHOST|GHOST]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.4|<< Acts 5:4]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.6|Acts 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Luke 8:28
+type: Verse
+kjv: "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not."
+bsb: "When the man saw Jesus, he cried out and fell down before Him, shouting in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You not to torture me!”"
+greek: "ἰδὼν δὲ τὸν Ἰησοῦν καὶ ἀνακράξας προσέπεσεν αὐτῷ καὶ φωνῇ μεγάλῃ εἶπεν· τί ἐμοὶ καὶ σοί, Ἰησοῦ, υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; δέομαί σου, μή με βασανίσῃς."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G0349]]"
+- "[[G4363]]"
+- "[[G0846]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G5310]]"
+- "[[G1189]]"
+- "[[G3361]]"
+- "[[G3165]]"
+- "[[G0928G]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 8:28**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, [thou] Son of God most high? I beseech thee, torment me not.
 <small><sub>**BSB:**</sub></small>
 When the man saw Jesus, he cried out and fell down before Him, shouting in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You not to torture me!”
-<small><sub>**Literal:**</sub></small>
-Having seen then <the> Jesus and having cried out he fell down before Him and in a voice loud said; What to me myself and to You, Jesus, Son <the> of God the Most High? I implore of You not me You may torment!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.27|<< Luke 8:27]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.29|Luke 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G0349\|ἀνακράξας]]  [[G4363\|προσέπεσεν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G2036\|εἶπεν·]]  [[G5101\|τί]]  [[G1473\|ἐμοὶ]]  [[G2532\|καὶ]]  [[G4771\|σοί,]]  [[G2424G\|Ἰησοῦ,]]  [[G5207\|υἱὲ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G5310\|ὑψίστου;]]  [[G1189\|δέομαί]]  [[G4771\|σου,]]  [[G3361\|μή]]  [[G3165\|με]]  [[G0928G\|βασανίσῃς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.27|<< Luke 8:27]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.29|Luke 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

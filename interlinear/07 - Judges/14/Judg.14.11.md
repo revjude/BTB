@@ -1,8 +1,53 @@
+---
+title: Judges 14:11
+type: Verse
+kjv: "And it came to pass, when they saw him, that they brought thirty companions to be with him."
+bsb: "And when the Philistines saw him, they selected thirty men to accompany him."
+hebrew: "וַיְהִ֖י כִּרְאוֹתָ֣ם אוֹת֑וֹ וַיִּקְחוּ֙ שְׁלֹשִׁ֣ים מֵֽרֵעִ֔ים וַיִּהְי֖וּ אִתּֽוֹ׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3947G]]"
+- "[[H7970]]"
+- "[[H4828]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:11**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they saw him, that they brought thirty companions to be with him.
 <small><sub>**BSB:**</sub></small>
 And when the Philistines saw him, they selected thirty men to accompany him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H9004\|כִּ]][[H7200G\|רְאוֹתָ֣]][[H9048\|ם]] [[H0853\|אוֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקְחוּ֙]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H4828\|מֵֽרֵעִ֔ים]] [[H9001\|וַ]][[H1961\|יִּהְי֖וּ]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.10|<< Judges 14:10]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.12|Judges 14:12 >>]]</td></tr></table>
 

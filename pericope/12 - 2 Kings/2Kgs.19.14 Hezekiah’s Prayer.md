@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Prayer
+type: Pericope
 pericope: "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 19
 book/chapter: "[[2Kgs.19|2 Kings 19]]"
-genre:
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.19.14]]"
 - "[[2Kgs.19.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.19.19]]"
 ---
 
-[[2Kgs.19|2 Kings 19:14 - 2 Kings 19:19]]
+<small>[[2Kgs.19|2 Kings 19:14-19]]</small>
 *Hezekiah’s Prayer*
 
 [[2Kgs.19.14|14]] And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.

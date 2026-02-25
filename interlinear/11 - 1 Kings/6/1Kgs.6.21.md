@@ -1,8 +1,65 @@
+---
+title: 1 Kings 6:21
+type: Verse
+kjv: "So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold."
+bsb: "So Solomon overlaid the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold."
+hebrew: "וַיְצַ֨ף שְׁלֹמֹ֧ה אֶת־ הַבַּ֛יִת מִפְּנִ֖ימָה זָהָ֣ב סָג֑וּר וַיְעַבֵּ֞ר בְּרַתּוּק֤וֹת זָהָב֙ לִפְנֵ֣י הַדְּבִ֔יר וַיְצַפֵּ֖הוּ זָהָֽב׃"
+pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H6441]]"
+- "[[H2091]]"
+- "[[H5462]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H7572]]"
+- "[[H7569]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1687]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 6:21**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Solomon overlaid the house within with pure gold: and he made a partition by the chains of gold before the oracle; and he overlaid it with gold.
 <small><sub>**BSB:**</sub></small>
 So Solomon overlaid the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6823\|יְצַ֨ף]] [[H8010\|שְׁלֹמֹ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H9006\|מִ]][[H6441\|פְּנִ֖ימָה]] [[H2091\|זָהָ֣ב]] [[H5462\|סָג֑וּר]] [[H9001\|וַ]][[H5674A\|יְעַבֵּ֞ר]] [[H9003\|בְּ]][[H7569\|רַתּוּק֤וֹת]] [[H2091\|זָהָב֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H1687\|דְּבִ֔יר]] [[H9001\|וַ]][[H6823\|יְצַפֵּ֖]][[H9033\|הוּ]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic GOLD|GOLD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.20|<< 1 Kings 6:20]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.22|1 Kings 6:22 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ So Solomon overlaid the inside of the temple with pure gold, and he extended gol
 | gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.20|<< 1 Kings 6:20]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.22|1 Kings 6:22 >>]]</td></tr></table>
 
-[^1]: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
-[^2]: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
+[^1]: with chains of  | **<big>[[H9003|בְּ]]</big><big>[[H7572|רַתִּיקוֹת]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: with chains of  | **<big>[[H9003|בְּ]]</big><big>[[H7572|רַתִּיקוֹת]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּרַתּיּק֤וֹת</big></span>**
 

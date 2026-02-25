@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord of the Sabbath
+type: Pericope
 pericope: "[[Luke.6.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.6.1]]"
 - "[[Luke.6.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.6.5]]"
 ---
 
-[[Luke.6|Luke 6:1 - Luke 6:5]]
+<small>[[Luke.6|Luke 6:1-5]]</small>
 *The Lord of the Sabbath*
 
 [[Luke.6.1|1]] And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing \[them\] in \[their\] hands.

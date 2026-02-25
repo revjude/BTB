@@ -1,10 +1,61 @@
+---
+title: Revelation 11:10
+type: Verse
+kjv: "And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth."
+bsb: "And those who dwell on the earth will gloat over them and celebrate and send one another gifts, because these two prophets had tormented them."
+greek: "καὶ οἱ κατοικοῦντες ἐπὶ τῆς γῆς χαίρουσιν ἐπ᾽ αὐτοῖς καὶ εὐφραίνονται καὶ δῶρα πέμψουσιν ἀλλήλοις, ὅτι οὗτοι οἱ δύο προφῆται ἐβασάνισαν τοὺς κατοικοῦντας ἐπὶ τῆς γῆς.¶"
+pericope: "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G5463]]"
+- "[[G0846]]"
+- "[[G2165]]"
+- "[[G1435]]"
+- "[[G3992]]"
+- "[[G0240]]"
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G1417]]"
+- "[[G4396]]"
+- "[[G0928G]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Revelation 11:10**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
 <small><sub>**BSB:**</sub></small>
 And those who dwell on the earth will gloat over them and celebrate and send one another gifts, because these two prophets had tormented them.
-<small><sub>**Literal:**</sub></small>
-And those dwelling on the earth does rejoice over them and does make merry and gifts will send to one another, because these <the> two prophets tormented those dwelling upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.9|<< Revelation 11:9]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.11|Revelation 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2730\|κατοικοῦντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G5463\|χαίρουσιν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2165\|εὐφραίνονται]]  [[G2532\|καὶ]]  [[G1435\|δῶρα]]  [[G3992\|πέμψουσιν]]  [[G0240\|ἀλλήλοις,]]  [[G3754H\|ὅτι]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G4396\|προφῆται]]  [[G0928G\|ἐβασάνισαν]]  [[G3588\|τοὺς]]  [[G2730\|κατοικοῦντας]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARTYRDOM|MARTYRDOM]] • [[topic REPROOF|REPROOF]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.9|<< Revelation 11:9]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.11|Revelation 11:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:10** is...
 > $\quad$ alluding to: [[LXX.Esth.9.22|Esth 9:22]]

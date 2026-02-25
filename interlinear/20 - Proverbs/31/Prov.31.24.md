@@ -1,8 +1,55 @@
+---
+title: Proverbs 31:24
+type: Verse
+kjv: "She maketh fine linen, and selleth it; and delivereth girdles unto the merchant."
+bsb: "She makes linen garments and sells them; she delivers sashes to the merchants."
+hebrew: "סָדִ֣ין עָ֭שְׂתָה וַתִּמְכֹּ֑ר וַ֝חֲג֗וֹר נָתְנָ֥ה לַֽכְּנַעֲנִֽי׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H5466]]"
+- "[[H6213H]]"
+- "[[H9001]]"
+- "[[H4376]]"
+- "[[H9002]]"
+- "[[H2290B]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3669B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:24**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She maketh fine linen, and selleth [it]; and delivereth girdles unto the merchant.
 <small><sub>**BSB:**</sub></small>
 She makes linen garments and sells them; she delivers sashes to the merchants.
+<small><sub>**Hebrew:**</sub></small>
+[[H5466\|סָדִ֣ין]] [[H6213H\|עָ֭שְׂתָה]] [[H9001\|וַ]][[H4376\|תִּמְכֹּ֑ר]] [[H9002\|וַ֝]][[H2290B\|חֲג֗וֹר]] [[H5414G\|נָתְנָ֥ה]] [[H9005\|לַֽ]][[H3669B\|כְּנַעֲנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic GIRDLE|GIRDLE]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.23|<< Proverbs 31:23]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.25|Proverbs 31:25 >>]]</td></tr></table>
 

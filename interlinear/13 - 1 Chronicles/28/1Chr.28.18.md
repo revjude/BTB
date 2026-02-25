@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 28:18
+type: Verse
+kjv: "And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD."
+bsb: "the weight of the refined gold for the altar of incense; and the plans for the chariot of the gold cherubim that spread their wings and overshadowed the ark of the covenant of the LORD."
+hebrew: "וּלְמִזְבַּ֧ח הַקְּטֹ֛רֶת זָהָ֥ב מְזֻקָּ֖ק בַּמִּשְׁקָ֑ל וּלְתַבְנִ֣ית הַמֶּרְכָּבָ֗ה הַכְּרֻבִ֤ים זָהָב֙ לְפֹ֣רְשִׂ֔ים וְסֹכְכִ֖ים עַל־ אֲר֥וֹן בְּרִית־ יְהוָֽה׃"
+pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ART|ART]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic REFINING|REFINING]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H7004]]"
+- "[[H2091]]"
+- "[[H2212]]"
+- "[[H9003]]"
+- "[[H4948]]"
+- "[[H8403]]"
+- "[[H4818]]"
+- "[[H3742]]"
+- "[[H6566]]"
+- "[[H5526B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:18**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out [their wings], and covered the ark of the covenant of the LORD.
 <small><sub>**BSB:**</sub></small>
 the weight of the refined gold for the altar of incense; and the plans for the chariot of the gold cherubim that spread their wings and overshadowed the ark of the covenant of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H4196\|מִזְבַּ֧ח]] [[H9009\|הַ]][[H7004\|קְּטֹ֛רֶת]] [[H2091\|זָהָ֥ב]] [[H2212\|מְזֻקָּ֖ק]] [[H9003\|בַּ]][[H4948\|מִּשְׁקָ֑ל]] [[H9002\|וּ]][[H9005\|לְ]][[H8403\|תַבְנִ֣ית]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָ֗ה]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֤ים]] [[H2091\|זָהָב֙]] [[H9005\|לְ]][[H6566\|פֹ֣רְשִׂ֔ים]] [[H9002\|וְ]][[H5526B\|סֹכְכִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ART|ART]] • [[topic CHARIOT|CHARIOT]] • [[topic REFINING|REFINING]] • [[topic REVELATION|REVELATION]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.17|<< 1 Chronicles 28:17]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.19|1 Chronicles 28:19 >>]]</td></tr></table>
 

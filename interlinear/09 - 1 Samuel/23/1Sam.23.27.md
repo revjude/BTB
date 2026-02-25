@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 23:27
+type: Verse
+kjv: "But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land."
+bsb: "Then a messenger came to Saul, saying, “Come quickly, for the Philistines have raided the land!”"
+hebrew: "וּמַלְאָ֣ךְ בָּ֔א אֶל־ שָׁא֖וּל לֵאמֹ֑ר מַהֲרָ֣ה וְלֵ֔כָה כִּֽי־ פָשְׁט֥וּ פְלִשְׁתִּ֖ים עַל־ הָאָֽרֶץ׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9002]]"
+- "[[H4397G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4116A]]"
+- "[[H9012]]"
+- "[[H1980H]]"
+- "[[H3588A]]"
+- "[[H6584]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:27**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land.
 <small><sub>**BSB:**</sub></small>
 Then a messenger came to Saul, saying, “Come quickly, for the Philistines have raided the land!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4397G\|מַלְאָ֣ךְ]] [[H0935G\|בָּ֔א]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4116A\|מַהֲרָ֣]][[H9012\|ה]] [[H9002\|וְ]][[H1980H\|לֵ֔כָ]][[H9012\|ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6584\|פָשְׁט֥וּ]] [[H6430G\|פְלִשְׁתִּ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.26|<< 1 Samuel 23:26]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.28|1 Samuel 23:28 >>]]</td></tr></table>
 

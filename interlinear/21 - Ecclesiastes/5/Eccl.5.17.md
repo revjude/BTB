@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 5:17
+type: Verse
+kjv: "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness."
+bsb: "Moreover, all his days he eats in darkness, with much sorrow, sickness, and anger."
+hebrew: "גַּ֥ם כָּל־ יָמָ֖יו בַּחֹ֣שֶׁךְ יֹאכֵ֑ל וְכָעַ֥ס הַרְבֵּ֖ה וְחָלְי֥וֹ וָקָֽצֶף׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H0398]]"
+- "[[H9001]]"
+- "[[H3707]]"
+- "[[H7235A]]"
+- "[[H9002]]"
+- "[[H2483]]"
+- "[[H7110A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:17**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All his days also he eateth in darkness, and [he hath] much sorrow and wrath with his sickness.
 <small><sub>**BSB:**</sub></small>
 Moreover, all his days he eats in darkness, with much sorrow, sickness, and anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמָ֖י]][[H9023\|ו]] [[H9003\|בַּ]][[H2822\|חֹ֣שֶׁךְ]] [[H0398\|יֹאכֵ֑ל]] [[H9001\|וְ]][[H3707\|כָעַ֥ס]] [[H7235A\|הַרְבֵּ֖ה]] [[H9002\|וְ]][[H2483\|חָלְי֥]][[H9023\|וֹ]] [[H9002\|וָ]][[H7110A\|קָֽצֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.16|<< Ecclesiastes 5:16]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.18|Ecclesiastes 5:18 >>]]</td></tr></table>
 

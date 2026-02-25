@@ -1,8 +1,56 @@
+---
+title: Ruth 2:18
+type: Verse
+kjv: "And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed."
+bsb: "She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi."
+hebrew: "וַתִּשָּׂא֙ וַתָּב֣וֹא הָעִ֔יר וַתֵּ֥רֶא חֲמוֹתָ֖הּ אֵ֣ת אֲשֶׁר־ לִקֵּ֑טָה וַתּוֹצֵא֙ וַתִּתֶּן־ לָ֔הּ אֵ֥ת אֲשֶׁר־ הוֹתִ֖רָה מִשָּׂבְעָֽהּ׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+strongs:
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7200G]]"
+- "[[H2545]]"
+- "[[H9024]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3950]]"
+- "[[H3318H]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H7648]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:18**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she took [it] up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
 <small><sub>**BSB:**</sub></small>
 She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375H\|תִּשָּׂא֙]] [[H9001\|וַ]][[H0935G\|תָּב֣וֹא]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַ]][[H7200G\|תֵּ֥רֶא]] [[H2545\|חֲמוֹתָ֖]][[H9024\|הּ]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3950\|לִקֵּ֑טָה]] [[H9001\|וַ]][[H3318H\|תּוֹצֵא֙]] [[H9001\|וַ]][[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3498\|הוֹתִ֖רָה]] [[H9006\|מִ]][[H7648\|שָּׂבְעָֽ]][[H9024\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.17|<< Ruth 2:17]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.19|Ruth 2:19 >>]]</td></tr></table>
 

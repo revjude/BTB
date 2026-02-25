@@ -1,8 +1,53 @@
+---
+title: Job 24:19
+type: Verse
+kjv: "Drought and heat consume the snow waters: so doth the grave those which have sinned."
+bsb: "As drought and heat consume the melting snow, so Sheol steals those who have sinned."
+hebrew: "צִיָּ֤ה גַם־ חֹ֗ם יִגְזְל֥וּ מֵֽימֵי־ שֶׁ֗לֶג שְׁא֣וֹל חָטָֽאוּ׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HELL|HELL]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6723]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2527]]"
+- "[[H1497]]"
+- "[[H4325G]]"
+- "[[H7950]]"
+- "[[H7585]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:19**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Drought and heat consume the snow waters: [so doth] the grave [those which] have sinned.
 <small><sub>**BSB:**</sub></small>
 As drought and heat consume the melting snow, so Sheol steals those who have sinned.
+<small><sub>**Hebrew:**</sub></small>
+[[H6723\|צִיָּ֤ה]] [[H1571\|גַם]][[H9014\|־]] [[H2527\|חֹ֗ם]] [[H1497\|יִגְזְל֥וּ]] [[H4325G\|מֵֽימֵי]][[H9014\|־]] [[H7950\|שֶׁ֗לֶג]] [[H7585\|שְׁא֣וֹל]] [[H2398\|חָטָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELL|HELL]] • [[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.18|<< Job 24:18]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.20|Job 24:20 >>]]</td></tr></table>
 

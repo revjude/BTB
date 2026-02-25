@@ -1,8 +1,62 @@
+---
+title: Song of Solomon 3:6
+type: Verse
+kjv: "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?"
+bsb: "Who is this coming up from the wilderness like a column of smoke, scented with myrrh and frankincense from all the spices of the merchant?"
+hebrew: "מִ֣י זֹ֗את עֹלָה֙ מִן־ הַמִּדְבָּ֔ר כְּתִֽימֲר֖וֹת עָשָׁ֑ן מְקֻטֶּ֤רֶת מוֹר֙ וּלְבוֹנָ֔ה מִכֹּ֖ל אַבְקַ֥ת רוֹכֵֽל׃"
+pericope: "[[Song.3.6 Solomon Arrives on His Wedding Day|Solomon Arrives on His Wedding Day]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic PERFUME|PERFUME]]"
+strongs:
+- "[[H4310]]"
+- "[[H2063]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9004]]"
+- "[[H8490]]"
+- "[[H6227]]"
+- "[[H6999I]]"
+- "[[H4753]]"
+- "[[H9002]]"
+- "[[H3828]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0081]]"
+- "[[H7402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 3:6**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
 <small><sub>**BSB:**</sub></small>
 Who is this coming up from the wilderness like a column of smoke, scented with myrrh and frankincense from all the spices of the merchant?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֣י]] [[H2063\|זֹ֗את]] [[H5927G\|עֹלָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֔ר]] [[H9004\|כְּ]][[H8490\|תִֽימֲר֖וֹת]] [[H6227\|עָשָׁ֑ן]] [[H6999I\|מְקֻטֶּ֤רֶת]] [[H4753\|מוֹר֙]] [[H9002\|וּ]][[H3828\|לְבוֹנָ֔ה]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H0081\|אַבְקַ֥ת]] [[H7402\|רוֹכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic MERCHANT|MERCHANT]] • [[topic MYRRH|MYRRH]] • [[topic PERFUME|PERFUME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.5|<< Song of Solomon 3:5]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.7|Song of Solomon 3:7 >>]]</td></tr></table>
 

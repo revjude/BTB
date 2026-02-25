@@ -1,8 +1,68 @@
+---
+title: Numbers 9:17
+type: Verse
+kjv: "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents."
+bsb: "Whenever the cloud was lifted from above the Tent, the Israelites would set out, and wherever the cloud settled, there the Israelites would camp."
+hebrew: "וּלְפִ֞י הֵעָלֹ֤ת הֶֽעָנָן֙ מֵעַ֣ל הָאֹ֔הֶל וְאַ֣חֲרֵי־ כֵ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וּבִמְק֗וֹם אֲשֶׁ֤ר יִשְׁכָּן־ שָׁם֙ הֶֽעָנָ֔ן שָׁ֥ם יַחֲנ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.9.15 The Cloud above the Tabernacle|The Cloud above the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H5927H]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0168G]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5265]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H7931]]"
+- "[[H8033G]]"
+- "[[H2583]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:17**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.
 <small><sub>**BSB:**</sub></small>
 Whenever the cloud was lifted from above the Tent, the Israelites would set out, and wherever the cloud settled, there the Israelites would camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H6310K\|פִ֞י]] [[H5927H\|הֵעָלֹ֤ת]] [[H9009\|הֶֽ]][[H6051\|עָנָן֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הָ]][[H0168G\|אֹ֔הֶל]] [[H9002\|וְ]][[H0310A\|אַ֣חֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֔ן]] [[H5265\|יִסְע֖וּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H9003\|בִ]][[H4725\|מְק֗וֹם]] [[H0834A\|אֲשֶׁ֤ר]] [[H7931\|יִשְׁכָּן]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H9009\|הֶֽ]][[H6051\|עָנָ֔ן]] [[H8033G\|שָׁ֥ם]] [[H2583\|יַחֲנ֖וּ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.16|<< Numbers 9:16]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.18|Numbers 9:18 >>]]</td></tr></table>
 

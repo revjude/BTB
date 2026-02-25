@@ -1,8 +1,63 @@
+---
+title: Ezekiel 23:41
+type: Verse
+kjv: "And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil."
+bsb: "You sat on a couch of luxury with a table spread before it, on which you had set My incense and My oil,"
+hebrew: "וְיָשַׁבְתְּ֙ עַל־ מִטָּ֣ה כְבוּדָּ֔ה וְשֻׁלְחָ֥ן עָר֖וּךְ לְפָנֶ֑יהָ וּקְטָרְתִּ֥י וְשַׁמְנִ֖י שַׂ֥מְתְּ עָלֶֽיהָ׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OIL|OIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4296]]"
+- "[[H3520A]]"
+- "[[H9002]]"
+- "[[H7979]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H7004]]"
+- "[[H9020]]"
+- "[[H8081]]"
+- "[[H7760H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:41**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
 <small><sub>**BSB:**</sub></small>
 You sat on a couch of luxury with a table spread before it, on which you had set My incense and My oil,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשַׁבְתְּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטָּ֣ה]] [[H3520A\|כְבוּדָּ֔ה]] [[H9002\|וְ]][[H7979\|שֻׁלְחָ֥ן]] [[H6186A\|עָר֖וּךְ]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9024\|הָ]] [[H9002\|וּ]][[H7004\|קְטָרְתִּ֥]][[H9020\|י]] [[H9002\|וְ]][[H8081\|שַׁמְנִ֖]][[H9020\|י]] [[H7760H\|שַׂ֥מְתְּ]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OIL|OIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.40|<< Ezekiel 23:40]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.42|Ezekiel 23:42 >>]]</td></tr></table>
 

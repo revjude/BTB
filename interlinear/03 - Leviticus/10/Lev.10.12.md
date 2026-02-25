@@ -1,8 +1,76 @@
+---
+title: Leviticus 10:12
+type: Verse
+kjv: "And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the LORD made by fire, and eat it without leaven beside the altar: for it is most holy:"
+bsb: "And Moses said to Aaron and his remaining sons, Eleazar and Ithamar, “Take the grain offering that remains from the food offerings to the LORD and eat it without leaven beside the altar, because it is most holy."
+hebrew: "וַיְדַבֵּ֨ר מֹשֶׁ֜ה אֶֽל־ אַהֲרֹ֗ן וְאֶ֣ל אֶ֠לְעָזָר וְאֶל־ אִ֨יתָמָ֥ר׀ בָּנָיו֮ הַנּֽוֹתָרִים֒ קְח֣וּ אֶת־ הַמִּנְחָ֗ה הַנּוֹתֶ֙רֶת֙ מֵאִשֵּׁ֣י יְהוָ֔ה וְאִכְל֥וּהָ מַצּ֖וֹת אֵ֣צֶל הַמִּזְבֵּ֑חַ כִּ֛י קֹ֥דֶשׁ קָֽדָשִׁ֖ים הִֽוא׃"
+pericope: "[[Lev.10.8 Restrictions for Priests|Restrictions for Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9015]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H4503G]]"
+- "[[H9006]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H0398]]"
+- "[[H9034]]"
+- "[[H4682]]"
+- "[[H0681]]"
+- "[[H4196]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:12**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the LORD made by fire, and eat it without leaven beside the altar: for it [is] most holy:
 <small><sub>**BSB:**</sub></small>
 And Moses said to Aaron and his remaining sons, Eleazar and Ithamar, “Take the grain offering that remains from the food offerings to the LORD and eat it without leaven beside the altar, because it is most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H9002\|וְ]][[H0413\|אֶ֣ל]] [[H0499G\|אֶ֠לְעָזָר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0385\|אִ֨יתָמָ֥ר]][[H9015\|׀]] [[H1121A\|בָּנָי]][[H9023\|ו֮]] [[H9009\|הַ]][[H3498\|נּֽוֹתָרִים֒]] [[H3947G\|קְח֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֗ה]] [[H9009\|הַ]][[H3498\|נּוֹתֶ֙רֶת֙]] [[H9006\|מֵ]][[H0801\|אִשֵּׁ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0398\|אִכְל֥וּ]][[H9034\|הָ]] [[H4682\|מַצּ֖וֹת]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H3588A\|כִּ֛י]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.11|<< Leviticus 10:11]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.13|Leviticus 10:13 >>]]</td></tr></table>
 

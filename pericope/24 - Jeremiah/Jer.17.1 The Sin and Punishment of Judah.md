@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sin and Punishment of Judah
+type: Pericope
 pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 17
 book/chapter: "[[Jer.17|Jeremiah 17]]"
-genre:
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.17.1]]"
 - "[[Jer.17.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.17.11]]"
 ---
 
-[[Jer.17|Jeremiah 17:1 - Jeremiah 17:11]]
+<small>[[Jer.17|Jeremiah 17:1-11]]</small>
 *The Sin and Punishment of Judah*
 
 [[Jer.17.1|1]] The sin of Judah \[is\] written with a pen of iron, \[and\] with the point of a diamond: \[it is\] graven upon the table of their heart, and upon the horns of your altars;

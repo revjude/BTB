@@ -1,8 +1,57 @@
+---
+title: 1 Samuel 12:6
+type: Verse
+kjv: "And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."
+bsb: "Then Samuel said to the people, “The LORD is the One who appointed Moses and Aaron, and who brought your fathers up out of the land of Egypt."
+hebrew: "וַיֹּ֥אמֶר שְׁמוּאֵ֖ל אֶל־ הָעָ֑ם יְהוָ֗ה אֲשֶׁ֤ר עָשָׂה֙ אֶת־ מֹשֶׁ֣ה וְאֶֽת־ אַהֲרֹ֔ן וַאֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־ אֲבֹתֵיכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5927H]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:6**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said unto the people, [It is] the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Then Samuel said to the people, “The LORD is the One who appointed Moses and Aaron, and who brought your fathers up out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשָׂה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֧ר]] [[H5927H\|הֶעֱלָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֖ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.5|<< 1 Samuel 12:5]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.7|1 Samuel 12:7 >>]]</td></tr></table>
 

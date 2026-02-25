@@ -1,10 +1,63 @@
+---
+title: 1 John 2:28
+type: Verse
+kjv: "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming."
+bsb: "And now, little children, remain in Christ, so that when He appears, we may be confident and unashamed before Him at His coming."
+greek: "καὶ νῦν, τεκνία, μένετε ἐν αὐτῷ, ἵνα ἐὰν φανερωθῇ, σχῶμεν παρρησίαν καὶ μὴ αἰσχυνθῶμεν ἀπ᾽ αὐτοῦ ἐν τῇ παρουσίᾳ αὐτοῦ."
+pericope: "[[1John.2.24 Remain in Christ|Remain in Christ]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G5040]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1437]]"
+- "[[G5319]]"
+- "[[G2192]]"
+- "[[G3954]]"
+- "[[G3361]]"
+- "[[G0153]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3952]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 John 2:28**<big><big>[[1John.2.24 Remain in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.
 <small><sub>**BSB:**</sub></small>
 And now, little children, remain in Christ, so that when He appears, we may be confident and unashamed before Him at His coming.
-<small><sub>**Literal:**</sub></small>
-And now, little children, do abide in Him, so that if He shall appear we may have boldness and not may be ashamed before Him at the coming of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.27|<< 1 John 2:27]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.29|1 John 2:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν,]]  [[G5040\|τεκνία,]]  [[G3306\|μένετε]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ,]]  [[G2443\|ἵνα]]  [[G1437\|ἐὰν]]  [[G5319\|φανερωθῇ,]]  [[G2192\|σχῶμεν]]  [[G3954\|παρρησίαν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0153\|αἰσχυνθῶμεν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLDNESS|BOLDNESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.27|<< 1 John 2:27]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.29|1 John 2:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

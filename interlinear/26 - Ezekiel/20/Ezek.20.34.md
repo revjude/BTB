@@ -1,8 +1,61 @@
+---
+title: Ezekiel 20:34
+type: Verse
+kjv: "And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out."
+bsb: "With a strong hand, an outstretched arm, and outpoured wrath I will bring you out from the peoples and gather you from the lands to which you have been scattered."
+hebrew: "וְהוֹצֵאתִ֤י אֶתְכֶם֙ מִן־ הָ֣עַמִּ֔ים וְקִבַּצְתִּ֣י אֶתְכֶ֔ם מִן־ הָ֣אֲרָצ֔וֹת אֲשֶׁ֥ר נְפוֹצֹתֶ֖ם בָּ֑ם בְּיָ֤ד חֲזָקָה֙ וּבִזְר֣וֹעַ נְטוּיָ֔ה וּבְחֵמָ֖ה שְׁפוּכָֽה׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6908]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H2534]]"
+- "[[H8210G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:34**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
 <small><sub>**BSB:**</sub></small>
 With a strong hand, an outstretched arm, and outpoured wrath I will bring you out from the peoples and gather you from the lands to which you have been scattered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6327A\|נְפוֹצֹתֶ֖ם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָ֤ד]] [[H2389\|חֲזָקָה֙]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְר֣וֹעַ]] [[H5186\|נְטוּיָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H2534\|חֵמָ֖ה]] [[H8210G\|שְׁפוּכָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.33|<< Ezekiel 20:33]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.35|Ezekiel 20:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

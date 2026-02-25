@@ -1,8 +1,63 @@
+---
+title: Joel 3:7
+type: Verse
+kjv: "Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:"
+bsb: "Behold, I will rouse them from the places to which you sold them; I will return your recompense upon your heads."
+hebrew: "הִנְנִ֣י מְעִירָ֔ם מִן־ הַ֨מָּק֔וֹם אֲשֶׁר־ מְכַרְתֶּ֥ם אֹתָ֖ם שָׁ֑מָּה וַהֲשִׁבֹתִ֥י גְמֻלְכֶ֖ם בְּרֹאשְׁכֶֽם׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOEL|JOEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIDON|SIDON]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5782]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H4376]]"
+- "[[H0853]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1576]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:7**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
 <small><sub>**BSB:**</sub></small>
 Behold, I will rouse them from the places to which you sold them; I will return your recompense upon your heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5782\|מְעִירָ֔]][[H9038\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ֨]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4376\|מְכַרְתֶּ֥ם]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֥י]] [[H1576\|גְמֻלְ]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H7218A\|רֹאשְׁ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOEL|JOEL]] • [[topic SERVANT|SERVANT]] • [[topic SIDON|SIDON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.6|<< Joel 3:6]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.8|Joel 3:8 >>]]</td></tr></table>
 

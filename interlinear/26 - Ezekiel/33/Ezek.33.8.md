@@ -1,8 +1,69 @@
+---
+title: Ezekiel 33:8
+type: Verse
+kjv: "When I say unto the wicked, O wicked man, thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood will I require at thine hand."
+bsb: "If I say to the wicked, ‘O wicked man, you will surely die,’ but you do not speak out to dissuade him from his way, then that wicked man will die in his iniquity, yet I will hold you accountable for his blood."
+hebrew: "בְּאָמְרִ֣י לָרָשָׁ֗ע רָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א דִבַּ֔רְתָּ לְהַזְהִ֥יר רָשָׁ֖ע מִדַּרְכּ֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֹנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ׃"
+pericope: "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H9040]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H2094B]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H5771G]]"
+- "[[H1818]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:8**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I say unto the wicked, O wicked [man], thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand.
 <small><sub>**BSB:**</sub></small>
 If I say to the wicked, ‘O wicked man, you will surely die,’ but you do not speak out to dissuade him from his way, then that wicked man will die in his iniquity, yet I will hold you accountable for his blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0559\|אָמְרִ֣]][[H9040\|י]] [[H9005\|לָ]][[H7563\|רָשָׁ֗ע]] [[H7563\|רָשָׁע֙]] [[H4191\|מ֣וֹת]] [[H4191\|תָּמ֔וּת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1696G\|דִבַּ֔רְתָּ]] [[H9005\|לְ]][[H2094B\|הַזְהִ֥יר]] [[H7563\|רָשָׁ֖ע]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H1931\|ה֤וּא]] [[H7563\|רָשָׁע֙]] [[H9003\|בַּ]][[H5771G\|עֲוֹנ֣]][[H9023\|וֹ]] [[H4191\|יָמ֔וּת]] [[H9002\|וְ]][[H1818\|דָמ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027G\|יָּדְ]][[H9021\|ךָ֥]] [[H1245\|אֲבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.7|<< Ezekiel 33:7]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.9|Ezekiel 33:9 >>]]</td></tr></table>
 

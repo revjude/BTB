@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 8:7
+type: Verse
+kjv: "For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;"
+bsb: "For the LORD your God is bringing you into a good land, a land of brooks and fountains and springs that flow through the valleys and hills;"
+hebrew: "כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל־ אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H5158A]]"
+- "[[H4325G]]"
+- "[[H5869M]]"
+- "[[H9002]]"
+- "[[H8415]]"
+- "[[H3318L]]"
+- "[[H9003]]"
+- "[[H1237K]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:7**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;
 <small><sub>**BSB:**</sub></small>
 For the LORD your God is bringing you into a good land, a land of brooks and fountains and springs that flow through the valleys and hills;
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0935P\|מְבִֽיאֲ]][[H9031\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H2896A\|טוֹבָ֑ה]] [[H0776G\|אֶ֚רֶץ]] [[H5158A\|נַ֣חֲלֵי]] [[H4325G\|מָ֔יִם]] [[H5869M\|עֲיָנֹת֙]] [[H9002\|וּ]][[H8415\|תְהֹמֹ֔ת]] [[H3318L\|יֹצְאִ֥ים]] [[H9003\|בַּ]][[H1237K\|בִּקְעָ֖ה]] [[H9002\|וּ]][[H9003\|בָ]][[H2022G\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.6|<< Deuteronomy 8:6]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.8|Deuteronomy 8:8 >>]]</td></tr></table>
 

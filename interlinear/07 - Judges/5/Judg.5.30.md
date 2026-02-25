@@ -1,8 +1,57 @@
+---
+title: Judges 5:30
+type: Verse
+kjv: "Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?"
+bsb: "‘Are they not finding and dividing the spoil—a girl or two for each warrior, a plunder of dyed garments for Sisera, the spoil of embroidered garments for the neck of the looter?’"
+hebrew: "הֲלֹ֨א יִמְצְא֜וּ יְחַלְּק֣וּ שָׁלָ֗ל רַ֤חַם רַחֲמָתַ֙יִם֙ לְרֹ֣אשׁ גֶּ֔בֶר שְׁלַ֤ל צְבָעִים֙ לְסִ֣יסְרָ֔א שְׁלַ֥ל צְבָעִ֖ים רִקְמָ֑ה צֶ֥בַע רִקְמָתַ֖יִם לְצַוְּארֵ֥י שָׁלָֽל׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H2505A]]"
+- "[[H7998]]"
+- "[[H7356A]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H1397]]"
+- "[[H6648]]"
+- "[[H5516G]]"
+- "[[H7553]]"
+- "[[H6677A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:30**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have they not sped? have they [not] divided the prey; to every man a damsel [or] two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, [meet] for the necks of [them that take] the spoil?
 <small><sub>**BSB:**</sub></small>
 ‘Are they not finding and dividing the spoil—a girl or two for each warrior, a plunder of dyed garments for Sisera, the spoil of embroidered garments for the neck of the looter?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֨א]] [[H4672\|יִמְצְא֜וּ]] [[H2505A\|יְחַלְּק֣וּ]] [[H7998\|שָׁלָ֗ל]] [[H7356A\|רַ֤חַם]] [[H7356A\|רַחֲמָתַ֙יִם֙]] [[H9005\|לְ]][[H7218A\|רֹ֣אשׁ]] [[H1397\|גֶּ֔בֶר]] [[H7998\|שְׁלַ֤ל]] [[H6648\|צְבָעִים֙]] [[H9005\|לְ]][[H5516G\|סִ֣יסְרָ֔א]] [[H7998\|שְׁלַ֥ל]] [[H6648\|צְבָעִ֖ים]] [[H7553\|רִקְמָ֑ה]] [[H6648\|צֶ֥בַע]] [[H7553\|רִקְמָתַ֖יִם]] [[H9005\|לְ]][[H6677A\|צַוְּארֵ֥י]] [[H7998\|שָׁלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.29|<< Judges 5:29]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.31|Judges 5:31 >>]]</td></tr></table>
 

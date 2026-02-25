@@ -1,8 +1,76 @@
+---
+title: Genesis 3:1
+type: Verse
+kjv: "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+bsb: "Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”"
+hebrew: "וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהוָ֣ה אֱלֹהִ֑ים וַיֹּ֙אמֶר֙ אֶל־ הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־ אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן׃"
+pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5175]]"
+- "[[H1961]]"
+- "[[H6175]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H6086H]]"
+- "[[H1588M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:1**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 <small><sub>**BSB:**</sub></small>
 Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5175\|נָּחָשׁ֙]] [[H1961\|הָיָ֣ה]] [[H6175\|עָר֔וּם]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשָׂ֖ה]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H0802G\|אִשָּׁ֔ה]] [[H0637\|אַ֚ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H0430G\|אֱלֹהִ֔ים]] [[H3808\|לֹ֣א]] [[H0398\|תֹֽאכְל֔וּ]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H6086H\|עֵ֥ץ]] [[H9009\|הַ]][[H1588M\|גָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic INFIDELITY|INFIDELITY]] • [[topic INFLUENCE|INFLUENCE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SATAN|SATAN]] • [[topic SERPENT|SERPENT]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.25|<< Genesis 2:25]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.2|Genesis 3:2 >>]]</td></tr></table>
 

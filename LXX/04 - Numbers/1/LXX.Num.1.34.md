@@ -1,6 +1,69 @@
+---
+title: LXX Numbers 1:34
+type: Verse
+lxx: "To the sons of Manasseh, according to their kin, according to their peoples, according to the houses of their patrimony, according to the number of their names, all males from twenty years and up, every one  going forth in the force,"
+greek: "τοις υιοίς Μανασσή κατά συγγενείας αυτών κατά δήμους αυτών κατ΄ οίκους πατριών αυτών κατά αριθμόν ονομάτων αυτών πάντα αρσενικά από εικοσαέτους και επάνω πας ο εκπορευόμενος εν τη δυνάμει"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3128]]"
+- "[[G2596]]"
+- "[[G4772]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G1218]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3624]]"
+- "[[G3965]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G0706]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G6544]]"
+- "[[G0575]]"
+- "[[G7052]]"
+- "[[G2532]]"
+- "[[G1883]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1607]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1411]]"
+---
+
 **LXX Numbers 1:34** 
 <small><sub>**LXX:**</sub></small>
 To the sons of Manasseh, according to their kin, according to their peoples, according to the houses of their patrimony, according to \[the\] number of their names, all males from twenty years and up, every one  going forth in the force, 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοις]] [[G5207\|υιοίς]] [[G3128\|Μανασσή]] [[G2596\|κατά]] [[G4772\|συγγενείας]] [[G1473\|αυτών]] [[G2596\|κατά]] [[G1218\|δήμους]] [[G1473\|αυτών]] [[G2596\|κατ΄]] [[G3624\|οίκους]] [[G3965\|πατριών]] [[G1473\|αυτών]] [[G2596\|κατά]] [[G0706\|αριθμόν]] [[G3686\|ονομάτων]] [[G1473\|αυτών]] [[G3956\|πάντα]] [[G6544\|αρσενικά]] [[G0575\|από]] [[G7052\|εικοσαέτους]] [[G2532\|και]] [[G1883\|επάνω]] [[G3956\|πας]] [[G3588\|ο]] [[G1607\|εκπορευόμενος]] [[G1722\|εν]] [[G3588\|τη]] [[G1411\|δυνάμει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.1.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.33|<< Numbers 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.35|Numbers 1:35 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ To the sons of Manasseh, according to their kin, according to their peoples, acc
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τη]]</big>** |
 | force, | **<big>[[G1411\|δυνάμει]]</big>** |
-[[Num.1.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.33|<< Numbers 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.35|Numbers 1:35 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.33|<< Numbers 1:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.35|Numbers 1:35 >>]]</td></tr></table>
 
 

@@ -1,8 +1,68 @@
+---
+title: 1 Kings 15:3
+type: Verse
+kjv: "And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father."
+bsb: "And Abijam walked in all the sins that his father before him had committed, and his heart was not as fully devoted to the LORD his God as the heart of David his forefather had been."
+hebrew: "וַיֵּ֕לֶךְ בְּכָל־ חַטֹּ֥אות אָבִ֖יו אֲשֶׁר־ עָשָׂ֣ה לְפָנָ֑יו וְלֹא־ הָיָ֨ה לְבָב֤וֹ שָׁלֵם֙ עִם־ יְהוָ֣ה אֱלֹהָ֔יו כִּלְבַ֖ב דָּוִ֥ד אָבִֽיו׃"
+pericope: "[[1Kgs.15.1 Abijam Reigns in Judah|Abijam Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAM|ABIJAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H3824]]"
+- "[[H8003]]"
+- "[[H5973A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:3**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.
 <small><sub>**BSB:**</sub></small>
 And Abijam walked in all the sins that his father before him had committed, and his heart was not as fully devoted to the LORD his God as the heart of David his forefather had been.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּ֕לֶךְ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטֹּ֥אות]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H3824\|לְבָב֤]][[H9023\|וֹ]] [[H8003\|שָׁלֵם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔י]][[H9023\|ו]] [[H9004\|כִּ]][[H3824\|לְבַ֖ב]] [[H1732\|דָּוִ֥ד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAM|ABIJAM]] • [[topic CHILDREN|CHILDREN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.2|<< 1 Kings 15:2]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.4|1 Kings 15:4 >>]]</td></tr></table>
 

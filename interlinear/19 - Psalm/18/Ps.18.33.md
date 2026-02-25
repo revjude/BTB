@@ -1,8 +1,50 @@
+---
+title: Psalm 18:33
+type: Verse
+kjv: "He maketh my feet like hinds’ feet, and setteth me upon my high places."
+bsb: "He makes my feet like those of a deer and stations me upon the heights."
+hebrew: "מְשַׁוֶּ֣ה רַ֭גְלַי כָּאַיָּל֑וֹת וְעַ֥ל בָּ֝מֹתַ֗י יַעֲמִידֵֽנִי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H7737B]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H0355]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H1116]]"
+- "[[H5975G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:33**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh my feet like hinds’ [feet], and setteth me upon my high places.
 <small><sub>**BSB:**</sub></small>
 He makes my feet like those of a deer and stations me upon the heights.
+<small><sub>**Hebrew:**</sub></small>
+[[H7737B\|מְשַׁוֶּ֣ה]] [[H7272\|רַ֭גְלַ]][[H9020\|י]] [[H9004\|כָּ]][[H0355\|אַיָּל֑וֹת]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H1116\|בָּ֝מֹתַ֗]][[H9020\|י]] [[H5975G\|יַעֲמִידֵֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.32|<< Psalms 18:32]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.34|Psalms 18:34 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Exodus 12:19
+type: Verse
+kjv: "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
+bsb: "For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel."
+hebrew: "שִׁבְעַ֣ת יָמִ֔ים שְׂאֹ֕ר לֹ֥א יִמָּצֵ֖א בְּבָתֵּיכֶ֑ם כִּ֣י׀ כָּל־ אֹכֵ֣ל מַחְמֶ֗צֶת וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מֵעֲדַ֣ת יִשְׂרָאֵ֔ל בַּגֵּ֖ר וּבְאֶזְרַ֥ח הָאָֽרֶץ׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H7603]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H2556A]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H5712]]"
+- "[[H3478]]"
+- "[[H1616]]"
+- "[[H9002]]"
+- "[[H0249]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:19**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
 <small><sub>**BSB:**</sub></small>
 For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H7603\|שְׂאֹ֕ר]] [[H3808\|לֹ֥א]] [[H4672\|יִמָּצֵ֖א]] [[H9003\|בְּ]][[H1004B\|בָתֵּי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H0398\|אֹכֵ֣ל]] [[H2556A\|מַחְמֶ֗צֶת]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֞ה]] [[H9009\|הַ]][[H5315J\|נֶּ֤פֶשׁ]] [[H9009\|הַ]][[H1931\|הִוא֙]] [[H9006\|מֵ]][[H5712\|עֲדַ֣ת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בַּ]][[H1616\|גֵּ֖ר]] [[H9002\|וּ]][[H9003\|בְ]][[H0249\|אֶזְרַ֥ח]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL|ISRAEL]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.18|<< Exodus 12:18]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.20|Exodus 12:20 >>]]</td></tr></table>
 

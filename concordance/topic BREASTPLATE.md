@@ -3,7 +3,7 @@
 
 1. For high priest [[Exod.25.7|Ex 25:7]]
 
-- Directions for the making of [[Exod.28.15|Ex 28:15]]-[[Exod.28.30|30]]
+- Directions for the making of [[Exod.28.15|Ex 28:15-30]]
 
 - Made by Bezaleel [[Exod.39.8|Ex 39:8]],[[Exod.39.21|21]]
 

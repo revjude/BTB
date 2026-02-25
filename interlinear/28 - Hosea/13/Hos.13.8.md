@@ -1,8 +1,58 @@
+---
+title: Hosea 13:8
+type: Verse
+kjv: "I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them."
+bsb: "Like a bear robbed of her cubs I will attack them, and I will tear open their chests. There I will devour them like a lion, like a wild beast tearing them apart."
+hebrew: "אֶפְגְּשֵׁם֙ כְּדֹ֣ב שַׁכּ֔וּל וְאֶקְרַ֖ע סְג֣וֹר לִבָּ֑ם וְאֹכְלֵ֥ם שָׁם֙ כְּלָבִ֔יא חַיַּ֥ת הַשָּׂדֶ֖ה תְּבַקְּעֵֽם׃"
+pericope: "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic LION|LION]]"
+strongs:
+- "[[H6298]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H1677]]"
+- "[[H7909]]"
+- "[[H9002]]"
+- "[[H7167]]"
+- "[[H5458]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H8033G]]"
+- "[[H3833C]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704I]]"
+- "[[H1234]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:8**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will meet them as a bear [that is] bereaved [of her whelps], and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.
 <small><sub>**BSB:**</sub></small>
 Like a bear robbed of her cubs I will attack them, and I will tear open their chests. There I will devour them like a lion, like a wild beast tearing them apart.
+<small><sub>**Hebrew:**</sub></small>
+[[H6298\|אֶפְגְּשֵׁ]][[H9038\|ם֙]] [[H9004\|כְּ]][[H1677\|דֹ֣ב]] [[H7909\|שַׁכּ֔וּל]] [[H9002\|וְ]][[H7167\|אֶקְרַ֖ע]] [[H5458\|סְג֣וֹר]] [[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0398\|אֹכְלֵ֥]][[H9038\|ם]] [[H8033G\|שָׁם֙]] [[H9004\|כְּ]][[H3833C\|לָבִ֔יא]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶ֖ה]] [[H1234\|תְּבַקְּעֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.7|<< Hosea 13:7]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.9|Hosea 13:9 >>]]</td></tr></table>
 

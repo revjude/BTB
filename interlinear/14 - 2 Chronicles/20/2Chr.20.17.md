@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 20:17
+type: Verse
+kjv: "Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD will be with you."
+bsb: "You need not fight this battle. Take up your positions, stand firm, and see the salvation of the LORD on your behalf, O Judah and Jerusalem. Do not be afraid or discouraged. Go out and face them tomorrow, for the LORD is with you.’”"
+hebrew: "לֹ֥א לָכֶ֖ם לְהִלָּחֵ֣ם בָּזֹ֑את הִתְיַצְּב֣וּ עִמְד֡וּ וּרְא֣וּ אֶת־ יְשׁוּעַת֩ יְהוָ֨ה עִמָּכֶ֜ם יְהוּדָ֣ה וִֽירוּשָׁלִַ֗ם אַל־ תִּֽירְאוּ֙ וְאַל־ תֵּחַ֔תּוּ מָחָר֙ צְא֣וּ לִפְנֵיהֶ֔ם וַיהוָ֖ה עִמָּכֶֽם׃"
+pericope: "[[2Chr.20.14 The Prophecy of Jahaziel|The Prophecy of Jahaziel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic FIGHT OF FAITH|FIGHT OF FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H3320]]"
+- "[[H5975G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3444]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H2865]]"
+- "[[H4279]]"
+- "[[H3318G]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:17**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not [need] to fight in this [battle]: set yourselves, stand ye [still], and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD [will be] with you.
 <small><sub>**BSB:**</sub></small>
 You need not fight this battle. Take up your positions, stand firm, and see the salvation of the LORD on your behalf, O Judah and Jerusalem. Do not be afraid or discouraged. Go out and face them tomorrow, for the LORD is with you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H9003\|בָּ]][[H2063\|זֹ֑את]] [[H3320\|הִתְיַצְּב֣וּ]] [[H5975G\|עִמְד֡וּ]] [[H9002\|וּ]][[H7200G\|רְא֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3444\|יְשׁוּעַת֩]] [[H3068G\|יְהוָ֨ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֜ם]] [[H3063G\|יְהוּדָ֣ה]] [[H9002\|וִֽ]][[H3389\|ירוּשָׁלִַ֗ם]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאוּ֙]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחַ֔תּוּ]] [[H4279\|מָחָר֙]] [[H3318G\|צְא֣וּ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וַ]][[H3068G\|יהוָ֖ה]] [[H5973A\|עִמָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic FIGHT OF FAITH|FIGHT OF FAITH]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.16|<< 2 Chronicles 20:16]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.18|2 Chronicles 20:18 >>]]</td></tr></table>
 

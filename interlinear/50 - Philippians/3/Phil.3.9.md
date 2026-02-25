@@ -1,10 +1,66 @@
+---
+title: Philippians 3:9
+type: Verse
+kjv: "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:"
+bsb: "and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith."
+greek: "καὶ εὑρεθῶ ἐν αὐτῷ μὴ ἔχων ἐμὴν δικαιοσύνην τὴν ἐκ νόμου ἀλλὰ τὴν διὰ πίστεως Χριστοῦ, τὴν ἐκ θεοῦ δικαιοσύνην ἐπὶ τῇ πίστει,"
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G1473]]"
+- "[[G1343]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G3551]]"
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G5547]]"
+- "[[G2316]]"
+- "[[G1909]]"
+texts:
+- NKO
+---
+
 **Philippians 3:9**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 <small><sub>**BSB:**</sub></small>
 and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith.
-<small><sub>**Literal:**</sub></small>
-and may be found in Him not having my own righteousness which [is] of [the] Law but that through faith from Christ, the of God righteousness on the basis of <the> faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.8|<< Philippians 3:8]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.10|Philippians 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὑρεθῶ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3361\|μὴ]]  [[G2192\|ἔχων]]  [[G1473\|ἐμὴν]]  [[G1343\|δικαιοσύνην]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G3551\|νόμου]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὴν]]  [[G1223\|διὰ]]  [[G4102G\|πίστεως]]  [[G5547\|Χριστοῦ,]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G2316\|θεοῦ]]  [[G1343\|δικαιοσύνην]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.8|<< Philippians 3:8]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.10|Philippians 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

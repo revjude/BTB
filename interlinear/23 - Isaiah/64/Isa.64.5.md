@@ -1,8 +1,64 @@
+---
+title: Isaiah 64:5
+type: Verse
+kjv: "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved."
+bsb: "You welcome those who gladly do right, who remember Your ways. Surely You were angry, for we sinned. How can we be saved if we remain in our sins?"
+hebrew: "פָּגַ֤עְתָּ אֶת־ שָׂשׂ֙ וְעֹ֣שֵׂה צֶ֔דֶק בִּדְרָכֶ֖יךָ יִזְכְּר֑וּךָ הֵן־ אַתָּ֤ה קָצַ֙פְתָּ֙ וַֽנֶּחֱטָ֔א בָּהֶ֥ם עוֹלָ֖ם וְנִוָּשֵֽׁעַ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6293]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7797]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H6664G]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H2142]]"
+- "[[H9031]]"
+- "[[H2005]]"
+- "[[H0859A]]"
+- "[[H7107]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H9038]]"
+- "[[H5769J]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:5**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou meetest him that rejoiceth and worketh righteousness, [those that] remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
 <small><sub>**BSB:**</sub></small>
 You welcome those who gladly do right, who remember Your ways. Surely You were angry, for we sinned. How can we be saved if we remain in our sins?
+<small><sub>**Hebrew:**</sub></small>
+[[H6293\|פָּגַ֤עְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7797\|שָׂשׂ֙]] [[H9002\|וְ]][[H6213A\|עֹ֣שֵׂה]] [[H6664G\|צֶ֔דֶק]] [[H9003\|בִּ]][[H1870G\|דְרָכֶ֖י]][[H9021\|ךָ]] [[H2142\|יִזְכְּר֑וּ]][[H9031\|ךָ]] [[H2005\|הֵן]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]] [[H7107\|קָצַ֙פְתָּ֙]] [[H9001\|וַֽ]][[H2398\|נֶּחֱטָ֔א]] [[H9003\|בָּ]][[H9038\|הֶ֥ם]] [[H5769J\|עוֹלָ֖ם]] [[H9002\|וְ]][[H3467\|נִוָּשֵֽׁעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.4|<< Isaiah 64:4]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.6|Isaiah 64:6 >>]]</td></tr></table>
 

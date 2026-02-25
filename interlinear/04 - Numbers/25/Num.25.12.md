@@ -1,8 +1,61 @@
+---
+title: Numbers 25:12
+type: Verse
+kjv: "Wherefore say, Behold, I give unto him my covenant of peace:"
+bsb: "Declare, therefore, that I am granting him My covenant of peace."
+hebrew: "לָכֵ֖ן אֱמֹ֑ר הִנְנִ֨י נֹתֵ֥ן ל֛וֹ אֶת־ בְּרִיתִ֖י שָׁלֽוֹם׃"
+pericope: "[[Num.25.6 The Zeal of Phinehas|The Zeal of Phinehas]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 25:12**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore say, Behold, I give unto him my covenant of peace:
 <small><sub>**BSB:**</sub></small>
 Declare, therefore, that I am granting him My covenant of peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֖ן]] [[H0559\|אֱמֹ֑ר]] [[H2005\|הִנְנִ֨]][[H9040\|י]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֖]][[H9020\|י]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic ISRAEL|ISRAEL]] • [[topic PHINEHAS|PHINEHAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.11|<< Numbers 25:11]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.13|Numbers 25:13 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: 1 John 1:9
+type: Verse
+kjv: "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+bsb: "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+greek: "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας."
+pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1437]]"
+- "[[G3670]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G3165]]"
+- "[[G4103]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G2443]]"
+- "[[G0863H]]"
+- "[[G2511]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G0093]]"
+texts:
+- NKO
+---
+
 **1 John 1:9**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.
 <small><sub>**BSB:**</sub></small>
 If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
-<small><sub>**Literal:**</sub></small>
-If we shall confess the sins of us, faithful He is and just that He may forgive us <the> [our] sins and may cleanse us from all unrighteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.8|<< 1 John 1:8]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.10|1 John 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3670\|ὁμολογῶμεν]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G3165\|ἡμῶν,]]  [[G4103\|πιστός]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G1342\|δίκαιος]]  [[G2443\|ἵνα]]  [[G0863H\|ἀφῇ]]  [[G3165\|ἡμῖν]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G2532\|καὶ]]  [[G2511\|καθαρίσῃ]]  [[G3165\|ἡμᾶς]]  [[G0575\|ἀπὸ]]  [[G3956\|πάσης]]  [[G0093\|ἀδικίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BLESSING|BLESSING]] • [[topic CLEANLINESS|CLEANLINESS]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.8|<< 1 John 1:8]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.10|1 John 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

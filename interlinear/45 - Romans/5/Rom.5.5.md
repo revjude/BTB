@@ -1,10 +1,60 @@
+---
+title: Romans 5:5
+type: Verse
+kjv: "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+bsb: "And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us."
+greek: "ἡ δὲ ἐλπὶς οὐ καταισχύνει, ὅτι ἡ ἀγάπη τοῦ θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν διὰ πνεύματος ἁγίου τοῦ δοθέντος ἡμῖν."
+pericope: "[[Rom.5.1 The Triumph of Faith|The Triumph of Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GRACES|GRACES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1680]]"
+- "[[G3756]]"
+- "[[G2617]]"
+- "[[G3754H]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G1632]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G1325]]"
+texts:
+- NKO
+---
+
 **Romans 5:5**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 <small><sub>**BSB:**</sub></small>
 And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us.
-<small><sub>**Literal:**</sub></small>
-<the> And hope not does make [us] ashamed, because the love <the> of God has been poured out into the hearts of us through [the] Spirit Holy the [One] having been given to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.4|<< Romans 5:4]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.6|Romans 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1680\|ἐλπὶς]]  [[G3756\|οὐ]]  [[G2617\|καταισχύνει,]]  [[G3754H\|ὅτι]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1632\|ἐκκέχυται]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G3165\|ἡμῶν]]  [[G1223\|διὰ]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G3588\|τοῦ]]  [[G1325\|δοθέντος]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACES|GRACES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOPE|HOPE]] • [[topic LOVE|LOVE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.4|<< Romans 5:4]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.6|Romans 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

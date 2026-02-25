@@ -1,8 +1,69 @@
+---
+title: Joshua 9:13
+type: Verse
+kjv: "And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey."
+bsb: "These wineskins were new when we filled them, but look, they are cracked. And these clothes and sandals are worn out from our very long journey.”"
+hebrew: "וְאֵ֨לֶּה נֹאד֤וֹת הַיַּ֙יִן֙ אֲשֶׁ֣ר מִלֵּ֣אנוּ חֲדָשִׁ֔ים וְהִנֵּ֖ה הִתְבַּקָּ֑עוּ וְאֵ֤לֶּה שַׂלְמוֹתֵ֙ינוּ֙ וּנְעָלֵ֔ינוּ בָּל֕וּ מֵרֹ֥ב הַדֶּ֖רֶךְ מְאֹֽד׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H4997]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H0834A]]"
+- "[[H4390]]"
+- "[[H2319H]]"
+- "[[H2009]]"
+- "[[H1234]]"
+- "[[H8008]]"
+- "[[H9025]]"
+- "[[H5275]]"
+- "[[H1086]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H1870L]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:13**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these bottles of wine, which we filled, [were] new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
 <small><sub>**BSB:**</sub></small>
 These wineskins were new when we filled them, but look, they are cracked. And these clothes and sandals are worn out from our very long journey.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H4997\|נֹאד֤וֹת]] [[H9009\|הַ]][[H3196\|יַּ֙יִן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4390\|מִלֵּ֣אנוּ]] [[H2319H\|חֲדָשִׁ֔ים]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H1234\|הִתְבַּקָּ֑עוּ]] [[H9002\|וְ]][[H0428\|אֵ֤לֶּה]] [[H8008\|שַׂלְמוֹתֵ֙י]][[H9025\|נוּ֙]] [[H9002\|וּ]][[H5275\|נְעָלֵ֔י]][[H9025\|נוּ]] [[H1086\|בָּל֕וּ]] [[H9006\|מֵ]][[H7230\|רֹ֥ב]] [[H9009\|הַ]][[H1870L\|דֶּ֖רֶךְ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.12|<< Joshua 9:12]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.14|Joshua 9:14 >>]]</td></tr></table>
 

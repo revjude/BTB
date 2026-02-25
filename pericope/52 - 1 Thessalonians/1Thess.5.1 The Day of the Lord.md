@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of the Lord
+type: Pericope
 pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 5
 book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
-genre:
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 11
 verses:
 - "[[1Thess.5.1]]"
 - "[[1Thess.5.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Thess.5.11]]"
 ---
 
-[[1Thess.5|1 Thessalonians 5:1 - 1 Thessalonians 5:11]]
+<small>[[1Thess.5|1 Thessalonians 5:1-11]]</small>
 *The Day of the Lord*
 
 [[1Thess.5.1|1]] But of the times and the seasons, brethren, ye have no need that I write unto you.

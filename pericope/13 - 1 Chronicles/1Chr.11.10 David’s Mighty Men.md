@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Mighty Men
+type: Pericope
 pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
-verse_count: 38
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 11
 book/chapter: "[[1Chr.11|1 Chronicles 11]]"
-genre:
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 38
 verses:
 - "[[1Chr.11.10]]"
 - "[[1Chr.11.11]]"
@@ -56,7 +63,7 @@ verses:
 - "[[1Chr.11.47]]"
 ---
 
-[[1Chr.11|1 Chronicles 11:10 - 1 Chronicles 11:47]]
+<small>[[1Chr.11|1 Chronicles 11:10-47]]</small>
 *David’s Mighty Men*
 
 [[1Chr.11.10|10]] These also \[are\] the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, \[and\] with all Israel, to make him king, according to the word of the LORD concerning Israel.

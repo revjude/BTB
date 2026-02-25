@@ -1,8 +1,77 @@
+---
+title: Ezekiel 33:15
+type: Verse
+kjv: "If the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die."
+bsb: "if he restores a pledge, makes restitution for what he has stolen, and walks in the statutes of life without practicing iniquity—then he will surely live; he will not die."
+hebrew: "חֲבֹ֨ל יָשִׁ֤יב רָשָׁע֙ גְּזֵלָ֣ה יְשַׁלֵּ֔ם בְּחֻקּ֤וֹת הַֽחַיִּים֙ הָלַ֔ךְ לְבִלְתִּ֖י עֲשׂ֣וֹת עָ֑וֶל חָי֥וֹ יִֽחְיֶ֖ה לֹ֥א יָמֽוּת׃"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic ROBBERY|ROBBERY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H2258A]]"
+- "[[H7725H]]"
+- "[[H7563]]"
+- "[[H1500]]"
+- "[[H7999A]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H2416E]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H6213A]]"
+- "[[H5766A]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:15**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die.
 <small><sub>**BSB:**</sub></small>
 if he restores a pledge, makes restitution for what he has stolen, and walks in the statutes of life without practicing iniquity—then he will surely live; he will not die.
+<small><sub>**Hebrew:**</sub></small>
+[[H2258A\|חֲבֹ֨ל]] [[H7725H\|יָשִׁ֤יב]] [[H7563\|רָשָׁע֙]] [[H1500\|גְּזֵלָ֣ה]] [[H7999A\|יְשַׁלֵּ֔ם]] [[H9003\|בְּ]][[H2708\|חֻקּ֤וֹת]] [[H9009\|הַֽ]][[H2416E\|חַיִּים֙]] [[H1980I\|הָלַ֔ךְ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H6213A\|עֲשׂ֣וֹת]] [[H5766A\|עָ֑וֶל]] [[H2421\|חָי֥וֹ]] [[H2421\|יִֽחְיֶ֖ה]] [[H3808\|לֹ֥א]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PAWN|PAWN]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RESTITUTION|RESTITUTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic ROBBERY|ROBBERY]] • [[topic SIN|SIN]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.14|<< Ezekiel 33:14]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.16|Ezekiel 33:16 >>]]</td></tr></table>
 

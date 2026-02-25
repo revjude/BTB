@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob’s Departure
+type: Pericope
 pericope: "[[Gen.28.1 Jacob’s Departure|Jacob’s Departure]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 28
 book/chapter: "[[Gen.28|Genesis 28]]"
-genre:
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.28.1]]"
 - "[[Gen.28.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.28.5]]"
 ---
 
-[[Gen.28|Genesis 28:1 - Genesis 28:5]]
+<small>[[Gen.28|Genesis 28:1-5]]</small>
 *Jacob’s Departure*
 
 [[Gen.28.1|1]] And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.

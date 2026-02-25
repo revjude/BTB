@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Predicts Peter’s Denial
+type: Pericope
 pericope: "[[Matt.26.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.26.31]]"
 - "[[Matt.26.32]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.26.35]]"
 ---
 
-[[Matt.26|Matthew 26:31 - Matthew 26:35]]
+<small>[[Matt.26|Matthew 26:31-35]]</small>
 *Jesus Predicts Peter’s Denial*
 
 [[Matt.26.31|31]] Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.

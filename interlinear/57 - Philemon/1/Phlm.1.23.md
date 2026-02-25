@@ -1,10 +1,46 @@
+---
+title: Philemon 1:23
+type: Verse
+kjv: "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+bsb: "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings,"
+greek: "Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ,"
+pericope: "[[Phlm.1.23 Additional Greetings|Additional Greetings]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G1889]]"
+- "[[G3588]]"
+- "[[G4869]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Philemon 1:23**<big><big>[[Phlm.1.23 Additional Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 <small><sub>**BSB:**</sub></small>
 Epaphras, my fellow prisoner in Christ Jesus, sends you greetings,
-<small><sub>**Literal:**</sub></small>
-He greets you Epaphras <the> fellow prisoner of mine in Christ Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.22|<< Philemon 1:22]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.24|Philemon 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάζεταί]]  [[G4771\|σε]]  [[G1889\|Ἐπαφρᾶς]]  [[G3588\|ὁ]]  [[G4869\|συναιχμάλωτός]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.22|<< Philemon 1:22]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.24|Philemon 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

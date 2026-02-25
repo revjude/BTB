@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 10:5
+type: Verse
+kjv: "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:"
+bsb: "There is an evil I have seen under the sun—an error that proceeds from the ruler:"
+hebrew: "יֵ֣שׁ רָעָ֔ה רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ כִּשְׁגָגָ֕ה שֶׁיֹּצָ֖א מִלִּפְנֵ֥י הַשַּׁלִּֽיט׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3426]]"
+- "[[H7451I]]"
+- "[[H7200G]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9004]]"
+- "[[H7684]]"
+- "[[H9007]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7989]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:5**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is an evil [which] I have seen under the sun, as an error [which] proceedeth from the ruler:
 <small><sub>**BSB:**</sub></small>
 There is an evil I have seen under the sun—an error that proceeds from the ruler:
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֣שׁ]] [[H7451I\|רָעָ֔ה]] [[H7200G\|רָאִ֖יתִי]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H9004\|כִּ]][[H7684\|שְׁגָגָ֕ה]] [[H9007\|שֶׁ]][[H3318G\|יֹּצָ֖א]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H7989\|שַּׁלִּֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.4|<< Ecclesiastes 10:4]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.6|Ecclesiastes 10:6 >>]]</td></tr></table>
 

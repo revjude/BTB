@@ -1,8 +1,64 @@
+---
+title: 1 Kings 9:25
+type: Verse
+kjv: "And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that was before the LORD. So he finished the house."
+bsb: "Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple."
+hebrew: "וְהֶעֱלָ֣ה שְׁלֹמֹ֡ה שָׁלֹשׁ֩ פְּעָמִ֨ים בַּשָּׁנָ֜ה עֹל֣וֹת וּשְׁלָמִ֗ים עַל־ הַמִּזְבֵּ֙חַ֙ אֲשֶׁ֣ר בָּנָ֣ה לַיהוָ֔ה וְהַקְטֵ֣יר אִתּ֔וֹ אֲשֶׁ֖ר לִפְנֵ֣י יְהוָ֑ה וְשִׁלַּ֖ם אֶת־ הַבָּֽיִת׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H5927I]]"
+- "[[H8010]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6999H]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H7999A]]"
+- "[[H0853]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:25**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that [was] before the LORD. So he finished the house.
 <small><sub>**BSB:**</sub></small>
 Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927I\|הֶעֱלָ֣ה]] [[H8010\|שְׁלֹמֹ֡ה]] [[H7969\|שָׁלֹשׁ֩]] [[H6471\|פְּעָמִ֨ים]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֜ה]] [[H5930A\|עֹל֣וֹת]] [[H9002\|וּ]][[H8002\|שְׁלָמִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּנָ֣ה]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H6999H\|הַקְטֵ֣יר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H7999A\|שִׁלַּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.24|<< 1 Kings 9:24]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.26|1 Kings 9:26 >>]]</td></tr></table>
 

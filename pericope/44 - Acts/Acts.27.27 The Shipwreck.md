@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Shipwreck
+type: Pericope
 pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Acts
 chapter: 27
 book/chapter: "[[Acts.27|Acts 27]]"
-genre:
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 18
 verses:
 - "[[Acts.27.27]]"
 - "[[Acts.27.28]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Acts.27.44]]"
 ---
 
-[[Acts.27|Acts 27:27 - Acts 27:44]]
+<small>[[Acts.27|Acts 27:27-44]]</small>
 *The Shipwreck*
 
 [[Acts.27.27|27]] But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;

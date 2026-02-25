@@ -1,8 +1,70 @@
+---
+title: Jeremiah 19:9
+type: Verse
+kjv: "And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend in the siege and straitness, wherewith their enemies, and they that seek their lives, shall straiten them."
+bsb: "I will make them eat the flesh of their sons and daughters, and they will eat one another’s flesh in the siege and distress inflicted on them by their enemies who seek their lives.’"
+hebrew: "וְהַֽאֲכַלְתִּ֞ים אֶת־ בְּשַׂ֣ר בְּנֵיהֶ֗ם וְאֵת֙ בְּשַׂ֣ר בְּנֹתֵיהֶ֔ם וְאִ֥ישׁ בְּשַׂר־ רֵעֵ֖הוּ יֹאכֵ֑לוּ בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֧יקוּ לָהֶ֛ם אֹיְבֵיהֶ֖ם וּמְבַקְשֵׁ֥י נַפְשָֽׁם׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H4689]]"
+- "[[H0834A]]"
+- "[[H6693]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:9**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend in the siege and straitness, wherewith their enemies, and they that seek their lives, shall straiten them.
 <small><sub>**BSB:**</sub></small>
 I will make them eat the flesh of their sons and daughters, and they will eat one another’s flesh in the siege and distress inflicted on them by their enemies who seek their lives.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|הַֽאֲכַלְתִּ֞י]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשַׂ֣ר]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֗ם]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H1320\|בְּשַׂ֣ר]] [[H1323G\|בְּנֹתֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H1320\|בְּשַׂר]][[H9014\|־]] [[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H0398\|יֹאכֵ֑לוּ]] [[H9003\|בְּ]][[H4692\|מָצוֹר֙]] [[H9002\|וּ]][[H9003\|בְ]][[H4689\|מָצ֔וֹק]] [[H0834A\|אֲשֶׁ֨ר]] [[H6693\|יָצִ֧יקוּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H1245\|מְבַקְשֵׁ֥י]] [[H5315H\|נַפְשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANNIBALISM|CANNIBALISM]] • [[topic FAMINE|FAMINE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PROPHECY|PROPHECY]] • [[topic SIEGE|SIEGE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.8|<< Jeremiah 19:8]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.10|Jeremiah 19:10 >>]]</td></tr></table>
 

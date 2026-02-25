@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wives and Husbands
+type: Pericope
 pericope: "[[1Pet.3.1 Wives and Husbands|Wives and Husbands]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 3
 book/chapter: "[[1Pet.3|1 Peter 3]]"
-genre:
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 7
 verses:
 - "[[1Pet.3.1]]"
 - "[[1Pet.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Pet.3.7]]"
 ---
 
-[[1Pet.3|1 Peter 3:1 - 1 Peter 3:7]]
+<small>[[1Pet.3|1 Peter 3:1-7]]</small>
 *Wives and Husbands*
 
 [[1Pet.3.1|1]] Likewise, ye wives, \[be\] in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;

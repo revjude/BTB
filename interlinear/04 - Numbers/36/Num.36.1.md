@@ -1,8 +1,74 @@
+---
+title: Numbers 36:1
+type: Verse
+kjv: "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:"
+bsb: "Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,"
+hebrew: "וַֽיִּקְרְב֞וּ רָאשֵׁ֣י הָֽאָב֗וֹת לְמִשְׁפַּ֤חַת בְּנֵֽי־ גִלְעָד֙ בֶּן־ מָכִ֣יר בֶּן־ מְנַשֶּׁ֔ה מִֽמִּשְׁפְּחֹ֖ת בְּנֵ֣י יוֹסֵ֑ף וַֽיְדַבְּר֞וּ לִפְנֵ֤י מֹשֶׁה֙ וְלִפְנֵ֣י הַנְּשִׂאִ֔ים רָאשֵׁ֥י אָב֖וֹת לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MACHIR|MACHIR]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1568G]]"
+- "[[H1121A]]"
+- "[[H4353G]]"
+- "[[H4519G]]"
+- "[[H9006]]"
+- "[[H3130G]]"
+- "[[H1696G]]"
+- "[[H6440G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:1**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 <small><sub>**BSB:**</sub></small>
 Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7126G\|יִּקְרְב֞וּ]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָֽ]][[H0001G\|אָב֗וֹת]] [[H9005\|לְ]][[H4940\|מִשְׁפַּ֤חַת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H1568G\|גִלְעָד֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4353G\|מָכִ֣יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H9006\|מִֽ]][[H4940\|מִּשְׁפְּחֹ֖ת]] [[H1121G\|בְּנֵ֣י]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַֽ]][[H1696G\|יְדַבְּר֞וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H5387A\|נְּשִׂאִ֔ים]] [[H7218H\|רָאשֵׁ֥י]] [[H0001G\|אָב֖וֹת]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic ISRAEL|ISRAEL]] • [[topic LAND|LAND]] • [[topic MACHIR|MACHIR]] • [[topic MILCAH|MILCAH]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.34|<< Numbers 35:34]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.2|Numbers 36:2 >>]]</td></tr></table>
 

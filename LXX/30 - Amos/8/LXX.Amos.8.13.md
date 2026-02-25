@@ -1,6 +1,52 @@
+---
+title: LXX Amos 8:13
+type: Verse
+lxx: "In  that day the fair virgins and the young men will dissipate by thirst."
+greek: "εν τη ημέρα εκείνη εκλείψουσιν αι παρθένοι αι καλαί και οι νεανίσκοι εν δίψει"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G1587]]"
+- "[[G3588]]"
+- "[[G3933]]"
+- "[[G3588]]"
+- "[[G2570]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3495]]"
+- "[[G1722]]"
+- "[[G1373]]"
+---
+
 **LXX Amos 8:13** 
 <small><sub>**LXX:**</sub></small>
 In  that day the fair virgins and the young men will dissipate by thirst. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G1587\|εκλείψουσιν]] [[G3588\|αι]] [[G3933\|παρθένοι]] [[G3588\|αι]] [[G2570\|καλαί]] [[G2532\|και]] [[G3588\|οι]] [[G3495\|νεανίσκοι]] [[G1722\|εν]] [[G1373\|δίψει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic THIRST|THIRST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.12|<< Amos 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.14|Amos 8:14 >>]]</td></tr></table>
 
@@ -19,6 +65,6 @@ In  that day the fair virgins and the young men will dissipate by thirst.
 | young men | **<big>[[G3495\|νεανίσκοι]]</big>** |
 | by | **<big>[[G1722\|εν]]</big>** |
 | thirst. | **<big>[[G1373\|δίψει]]</big>** |
-[[Amos.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.12|<< Amos 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.14|Amos 8:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.12|<< Amos 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.14|Amos 8:14 >>]]</td></tr></table>
 
 

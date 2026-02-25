@@ -1,8 +1,62 @@
+---
+title: Jeremiah 27:21
+type: Verse
+kjv: "Yea, thus saith the LORD of hosts, the God of Israel, concerning the vessels that remain in the house of the LORD, and in the house of the king of Judah and of Jerusalem;"
+bsb: "Yes, this is what the LORD of Hosts, the God of Israel, says about the articles that remain in the house of the LORD, in the palace of the king of Judah, and in Jerusalem:"
+hebrew: "כִּ֣י כֹ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עַל־ הַכֵּלִ֗ים הַנּֽוֹתָרִים֙ בֵּ֣ית יְהוָ֔ה וּבֵ֥ית מֶֽלֶךְ־ יְהוּדָ֖ה וִירוּשָׁלִָֽם׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H3498]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H1004P]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:21**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thus saith the LORD of hosts, the God of Israel, concerning the vessels that remain [in] the house of the LORD, and [in] the house of the king of Judah and of Jerusalem;
 <small><sub>**BSB:**</sub></small>
 Yes, this is what the LORD of Hosts, the God of Israel, says about the articles that remain in the house of the LORD, in the palace of the king of Judah, and in Jerusalem:
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֗ים]] [[H9009\|הַ]][[H3498\|נּֽוֹתָרִים֙]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H1004P\|בֵ֥ית]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.20|<< Jeremiah 27:20]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.22|Jeremiah 27:22 >>]]</td></tr></table>
 

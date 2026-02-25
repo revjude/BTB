@@ -1,10 +1,67 @@
+---
+title: 2 Timothy 3:8
+type: Verse
+kjv: "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith."
+bsb: "Just as Jannes and Jambres opposed Moses, so also these men oppose the truth. They are depraved in mind and disqualified from the faith."
+greek: "Ὃν τρόπον δὲ Ἰάννης καὶ Ἰαμβρῆς ἀντέστησαν Μωϋσεῖ, οὕτως καὶ οὗτοι ἀνθίστανται τῇ ἀληθείᾳ, ἄνθρωποι κατεφθαρμένοι τὸν νοῦν, ἀδόκιμοι περὶ τὴν πίστιν."
+pericope: "[[2Tim.3.1 Evil in the Last Days|Evil in the Last Days]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 3
+book/chapter: "[[2Tim.3|2 Timothy 3]]"
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic JAMBRES|JAMBRES]]"
+- "[[topic JANNES|JANNES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G5158]]"
+- "[[G1161]]"
+- "[[G2389]]"
+- "[[G2532]]"
+- "[[G2387]]"
+- "[[G0436]]"
+- "[[G3475]]"
+- "[[G3779]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G0444]]"
+- "[[G2704]]"
+- "[[G3563]]"
+- "[[G0096]]"
+- "[[G4012]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **2 Timothy 3:8**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 <small><sub>**BSB:**</sub></small>
 Just as Jannes and Jambres opposed Moses, so also these men oppose the truth. They are depraved in mind and disqualified from the faith.
-<small><sub>**Literal:**</sub></small>
-By which way now Jannes and Jambres opposed to Moses, so also these oppose to the truth, men depraved <the> in mind, disqualified regarding the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.7|<< 2 Timothy 3:7]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.9|2 Timothy 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|Ὃν]]  [[G5158\|τρόπον]]  [[G1161\|δὲ]]  [[G2389\|Ἰάννης]]  [[G2532\|καὶ]]  [[G2387\|Ἰαμβρῆς]]  [[G0436\|ἀντέστησαν]]  [[G3475\|Μωϋσεῖ,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G0436\|ἀνθίστανται]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ,]]  [[G0444\|ἄνθρωποι]]  [[G2704\|κατεφθαρμένοι]]  [[G3588\|τὸν]]  [[G3563\|νοῦν,]]  [[G0096\|ἀδόκιμοι]]  [[G4012\|περὶ]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHARACTER|CHARACTER]] • [[topic DOCTRINES|DOCTRINES]] • [[topic JAMBRES|JAMBRES]] • [[topic JANNES|JANNES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROBACY|REPROBACY]] • [[topic TRUTH|TRUTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.7|<< 2 Timothy 3:7]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.9|2 Timothy 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Timothy 3:8** is...
 > $\quad$ referencing: [[LXX.Exod.7.11|Exod 7:11-22]]

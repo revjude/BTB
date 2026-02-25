@@ -1,10 +1,58 @@
+---
+title: Luke 19:43
+type: Verse
+kjv: "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
+bsb: "For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side."
+jesus_said: "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
+greek: "ὅτι ἥξουσιν ἡμέραι ἐπὶ σέ, καὶ παρεμβαλοῦσιν οἱ ἐχθροί σου χάρακά σοι καὶ περικυκλώσουσίν σε καὶ συνέξουσίν σε πάντοθεν"
+pericope: "[[Luke.19.41 Jesus Weeps over Jerusalem|Jesus Weeps over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2240]]"
+- "[[G2250]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G6070]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G5482]]"
+- "[[G4033]]"
+- "[[G4912]]"
+- "[[G3840]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 19:43**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
 <small><sub>**BSB:**</sub></small>
 For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side.
-<small><sub>**Literal:**</sub></small>
-For will come days upon you that will cast around the enemies of you a barricade you and they will surround you and they will hem in you on every side<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.42|<< Luke 19:42]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.44|Luke 19:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2240\|ἥξουσιν]]  [[G2250\|ἡμέραι]]  [[G1909\|ἐπὶ]]  [[G4771\|σέ,]]  [[G2532\|καὶ]]  [[G6070\|παρεμβαλοῦσιν]]  [[G3588\|οἱ]]  [[G2190\|ἐχθροί]]  [[G4771\|σου]]  [[G5482\|χάρακά]]  [[G4771\|σοι]]  [[G2532\|καὶ]]  [[G4033\|περικυκλώσουσίν]]  [[G4771\|σε]]  [[G2532\|καὶ]]  [[G4912\|συνέξουσίν]]  [[G4771\|σε]]  [[G3840\|πάντοθεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.42|<< Luke 19:42]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.44|Luke 19:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

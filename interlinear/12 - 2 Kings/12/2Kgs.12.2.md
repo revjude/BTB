@@ -1,8 +1,61 @@
+---
+title: 2 Kings 12:2
+type: Verse
+kjv: "And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him."
+bsb: "And Joash did what was right in the eyes of the LORD all the days he was instructed by Jehoiada the priest."
+hebrew: "וַיַּ֨עַשׂ יְהוֹאָ֧שׁ הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהוָ֖ה כָּל־ יָמָ֑יו אֲשֶׁ֣ר הוֹרָ֔הוּ יְהוֹיָדָ֖ע הַכֹּהֵֽן׃"
+pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3060G]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H3384B]]"
+- "[[H9033]]"
+- "[[H3077H]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:2**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash did [that which was] right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.
 <small><sub>**BSB:**</sub></small>
 And Joash did what was right in the eyes of the LORD all the days he was instructed by Jehoiada the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֨עַשׂ]] [[H3060G\|יְהוֹאָ֧שׁ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֛ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמָ֑י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H3384B\|הוֹרָ֔]][[H9033\|הוּ]] [[H3077H\|יְהוֹיָדָ֖ע]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.1|<< 2 Kings 12:1]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.3|2 Kings 12:3 >>]]</td></tr></table>
 

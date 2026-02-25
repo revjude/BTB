@@ -1,8 +1,67 @@
+---
+title: Jeremiah 38:26
+type: Verse
+kjv: "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there."
+bsb: "then tell them, ‘I was presenting to the king my petition that he not return me to the house of Jonathan to die there.’”"
+hebrew: "וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם מַפִּיל־ אֲנִ֥י תְחִנָּתִ֖י לִפְנֵ֣י הַמֶּ֑לֶךְ לְבִלְתִּ֧י הֲשִׁיבֵ֛נִי בֵּ֥ית יְהוֹנָתָ֖ן לָמ֥וּת שָֽׁם׃ פ"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic KING|KING]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5307G]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H8467]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1115]]"
+- "[[H7725G]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H3083N]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 38:26**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there.
 <small><sub>**BSB:**</sub></small>
 then tell them, ‘I was presenting to the king my petition that he not return me to the house of Jonathan to die there.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H5307G\|מַפִּיל]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H8467\|תְחִנָּתִ֖]][[H9020\|י]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֧י]] [[H7725G\|הֲשִׁיבֵ֛]][[H9030\|נִי]] [[H1004M\|בֵּ֥ית]] [[H3083N\|יְהוֹנָתָ֖ן]] [[H9005\|לָ]][[H4191\|מ֥וּת]] [[H8033G\|שָֽׁם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic KING|KING]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.25|<< Jeremiah 38:25]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.27|Jeremiah 38:27 >>]]</td></tr></table>
 
@@ -20,7 +79,7 @@ then tell them, ‘I was presenting to the king my petition that he not return m
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3083N\|יְהוֹנָתָ֖ן]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to die  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4191\|מ֥וּת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mut<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.25|<< Jeremiah 38:25]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.27|Jeremiah 38:27 >>]]</td></tr></table>
 
 

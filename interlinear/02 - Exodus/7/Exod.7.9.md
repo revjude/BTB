@@ -1,8 +1,67 @@
+---
+title: Exodus 7:9
+type: Verse
+kjv: "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent."
+bsb: "“When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.”"
+hebrew: "כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל־ אַהֲרֹ֗ן קַ֧ח אֶֽת־ מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי־ פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין׃"
+pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DRAGON|DRAGON]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H6547J]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5414I]]"
+- "[[H4159]]"
+- "[[H9001]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H4294G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7993]]"
+- "[[H6440G]]"
+- "[[H1961]]"
+- "[[H8577M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:9**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast [it] before Pharaoh, [and] it shall become a serpent.
 <small><sub>**BSB:**</sub></small>
 “When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֲלֵ]][[H9036\|כֶ֤ם]] [[H6547J\|פַּרְעֹה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5414I\|תְּנ֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H4159\|מוֹפֵ֑ת]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H3947G\|קַ֧ח]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4294G\|מַטְּ]][[H9021\|ךָ֛]] [[H9002\|וְ]][[H7993\|הַשְׁלֵ֥ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵֽי]][[H9014\|־]] [[H6547J\|פַרְעֹ֖ה]] [[H1961\|יְהִ֥י]] [[H9005\|לְ]][[H8577M\|תַנִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.8|<< Exodus 7:8]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.10|Exodus 7:10 >>]]</td></tr></table>
 

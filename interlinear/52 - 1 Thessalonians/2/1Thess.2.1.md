@@ -1,10 +1,49 @@
+---
+title: 1 Thessalonians 2:1
+type: Verse
+kjv: "For yourselves, brethren, know our entrance in unto you, that it was not in vain:"
+bsb: "You yourselves know, brothers, that our visit to you was not in vain."
+greek: "Αὐτοὶ γὰρ οἴδατε, ἀδελφοί, τὴν εἴσοδον ἡμῶν τὴν πρὸς ὑμᾶς ὅτι οὐ κενὴ γέγονεν·"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G1529]]"
+- "[[G3165]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2756]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 2:1**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For yourselves, brethren, know our entrance in unto you, that it was not in vain:
 <small><sub>**BSB:**</sub></small>
 You yourselves know, brothers, that our visit to you was not in vain.
-<small><sub>**Literal:**</sub></small>
-You yourselves for know, brothers, the coming of us <the> to you that not in vain has been;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.10|<< 1 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.2|1 Thessalonians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|Αὐτοὶ]]  [[G1063\|γὰρ]]  [[G6063\|οἴδατε,]]  [[G0080\|ἀδελφοί,]]  [[G3588\|τὴν]]  [[G1529\|εἴσοδον]]  [[G3165\|ἡμῶν]]  [[G3588\|τὴν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G2756\|κενὴ]]  [[G1096\|γέγονεν·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.10|<< 1 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.2|1 Thessalonians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

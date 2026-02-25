@@ -1,8 +1,55 @@
+---
+title: Lamentations 4:9
+type: Verse
+kjv: "They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field."
+bsb: "Those slain by the sword are better off than those who die of hunger, who waste away, pierced with pain because the fields lack produce."
+hebrew: "טוֹבִ֤ים הָיוּ֙ חַלְלֵי־ חֶ֔רֶב מֵֽחַלְלֵ֖י רָעָ֑ב שֶׁ֣הֵ֤ם יָז֙וּבוּ֙ מְדֻקָּרִ֔ים מִתְּנוּבֹ֖ת שָׂדָֽי׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+strongs:
+- "[[H2896A]]"
+- "[[H1961]]"
+- "[[H2491A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H9006]]"
+- "[[H7458]]"
+- "[[H9007]]"
+- "[[H1992]]"
+- "[[H2100I]]"
+- "[[H1856]]"
+- "[[H8570]]"
+- "[[H7704M]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 4:9**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They that be] slain with the sword are better than [they that be] slain with hunger: for these pine away, stricken through for [want of] the fruits of the field.
 <small><sub>**BSB:**</sub></small>
 Those slain by the sword are better off than those who die of hunger, who waste away, pierced with pain because the fields lack produce.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|טוֹבִ֤ים]] [[H1961\|הָיוּ֙]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9006\|מֵֽ]][[H2491A\|חַלְלֵ֖י]] [[H7458\|רָעָ֑ב]] [[H9007\|שֶׁ֣]][[H1992\|הֵ֤ם]] [[H2100I\|יָז֙וּבוּ֙]] [[H1856\|מְדֻקָּרִ֔ים]] [[H9006\|מִ]][[H8570\|תְּנוּבֹ֖ת]] [[H7704M\|שָׂדָֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
@@ -18,7 +65,7 @@ Those slain by the sword are better off than those who die of hunger, who waste 
 | they flow away  |**<big>&#8207;[[H2100I\|יָז֙וּבוּ֙]]&#8207; </big>**| ya.Zu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pierced through  |**<big>&#8207;[[H1856\|מְדֻקָּרִ֔ים]]&#8207; </big>**| me.du.ka.Rim<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] produce\<s> of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8570\|תְּנוּבֹ֖ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> te.nu.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] field  |**<big>&#8207;[[H7704M\|שָׂדָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] field  |**<big>&#8207;[[H7704M\|שָׂדָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.8|<< Lamentations 4:8]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.10|Lamentations 4:10 >>]]</td></tr></table>
 
 

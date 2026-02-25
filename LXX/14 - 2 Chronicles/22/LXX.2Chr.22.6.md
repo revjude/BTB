@@ -1,6 +1,81 @@
+---
+title: LXX 2 Chronicles 22:6
+type: Verse
+lxx: "And Jehoram returned  to be treated medically in Jezreel from the wounds which the Syrians struck him in Ramoth, in  his warring against Hazael king of Syria. And Ahaziah son of Jehoram, king of Judah went down to see  Jehoram son of Ahab in Jezreel, for he was infirm."
+greek: "και επέστρεψεν Ιωράμ του ιατρευθήναι εις Ιεζράελ από των πληγών ων επάταξαν αυτόν οι Σύροι εν Ραμώθ εν τω πολεμείν αυτόν προς Αζαήλ βασιλέα Συρίας και Οχοζίας υιός Ιωράμ βασιλεύς Ιούδα κατέβη θεάσασθαι τον Ιωράμ υιόν Αχαάβ εις Ιεζράελ ότι ηρρώστει"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G2496]]"
+- "[[G3588]]"
+- "[[G7707]]"
+- "[[G1519]]"
+- "[[H3157]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4127]]"
+- "[[G3739]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4947]]"
+- "[[G1722]]"
+- "[[H7432]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4170]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[H2371]]"
+- "[[G0935]]"
+- "[[G4947]]"
+- "[[G2532]]"
+- "[[H0274]]"
+- "[[G5207]]"
+- "[[G2496]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G2597]]"
+- "[[G2300]]"
+- "[[G3588]]"
+- "[[G2496]]"
+- "[[G5207]]"
+- "[[H0256]]"
+- "[[G1519]]"
+- "[[H3157]]"
+- "[[G3754]]"
+- "[[G6542]]"
+---
+
 **LXX 2 Chronicles 22:6** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram returned  to be treated medically in Jezreel from the wounds which the Syrians struck him in Ramoth, in  his warring against Hazael king of Syria. And Ahaziah son of Jehoram, king of Judah went down to see  Jehoram son of Ahab in Jezreel, for he was infirm. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1994\|επέστρεψεν]] [[G2496\|Ιωράμ]] [[G3588\|του]] [[G7707\|ιατρευθήναι]] [[G1519\|εις]] [[H3157\|Ιεζράελ]] [[G0575\|από]] [[G3588\|των]] [[G4127\|πληγών]] [[G3739\|ων]] [[G3960\|επάταξαν]] [[G1473\|αυτόν]] [[G3588\|οι]] [[G4947\|Σύροι]] [[G1722\|εν]] [[H7432\|Ραμώθ]] [[G1722\|εν]] [[G3588\|τω]] [[G4170\|πολεμείν]] [[G1473\|αυτόν]] [[G4314\|προς]] [[H2371\|Αζαήλ]] [[G0935\|βασιλέα]] [[G4947\|Συρίας]] [[G2532\|και]] [[H0274\|Οχοζίας]] [[G5207\|υιός]] [[G2496\|Ιωράμ]] [[G0935\|βασιλεύς]] [[G2448\|Ιούδα]] [[G2597\|κατέβη]] [[G2300\|θεάσασθαι]] [[G3588\|τον]] [[G2496\|Ιωράμ]] [[G5207\|υιόν]] [[H0256\|Αχαάβ]] [[G1519\|εις]] [[H3157\|Ιεζράελ]] [[G3754\|ότι]] [[G6542\|ηρρώστει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic HAZAEL|HAZAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JORAM|JORAM]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
 
@@ -45,6 +120,6 @@ And Jehoram returned  to be treated medically in Jezreel from the wounds which t
 | Jezreel, | **<big>[[H3157\|Ιεζράελ]]</big>** |
 | for | **<big>[[G3754\|ότι]]</big>** |
 | he was infirm. | **<big>[[G6542\|ηρρώστει]]</big>** |
-[[2Chr.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
 
 

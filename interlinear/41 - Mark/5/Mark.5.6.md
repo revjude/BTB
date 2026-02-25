@@ -1,10 +1,56 @@
+---
+title: Mark 5:6
+type: Verse
+kjv: "But when he saw Jesus afar off, he ran and worshipped him,"
+bsb: "When the man saw Jesus from a distance, he ran and fell on his knees before Him."
+greek: "Καὶ ἰδὼν δὲ τὸν Ἰησοῦν ἀπὸ μακρόθεν ἔδραμεν καὶ προσεκύνησεν αὐτῷ"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G5143]]"
+- "[[G4352]]"
+- "[[G0846]]"
+texts:
+- no
+- NKO
+- k
+- NK(o)
+---
+
 **Mark 5:6**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when he saw Jesus afar off, he ran and worshipped him,
 <small><sub>**BSB:**</sub></small>
 When the man saw Jesus from a distance, he ran and fell on his knees before Him.
-<small><sub>**Literal:**</sub></small>
-And having seen now <the> Jesus from afar he ran and he fell on his knees before Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.5|<< Mark 5:5]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.7|Mark 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G5143\|ἔδραμεν]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησεν]]  [[G0846\|αὐτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.5|<< Mark 5:5]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.7|Mark 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

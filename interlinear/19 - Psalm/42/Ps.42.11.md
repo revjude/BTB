@@ -1,8 +1,65 @@
+---
+title: Psalm 42:11
+type: Verse
+kjv: "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God."
+bsb: "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God."
+hebrew: "מַה־ תִּשְׁתּ֬וֹחֲחִ֨י׀ נַפְשִׁי֮ וּֽמַה־ תֶּהֱמִ֪י עָ֫לָ֥י הוֹחִ֣ילִי לֵֽ֭אלֹהִים כִּי־ ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵֽאלֹהָֽי׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic DESIRE|DESIRE]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7817]]"
+- "[[H9015]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1993]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H3034]]"
+- "[[H9033]]"
+- "[[H3444]]"
+- "[[H6440L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:11**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, [who is] the health of my countenance, and my God.
 <small><sub>**BSB:**</sub></small>
 Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H7817\|תִּשְׁתּ֬וֹחֲחִ֨י]][[H9015\|׀]] [[H5315G\|נַפְשִׁ]][[H9020\|י֮]] [[H9002\|וּֽ]][[H4100\|מַה]][[H9014\|־]] [[H1993\|תֶּהֱמִ֪י]] [[H5921A\|עָ֫לָ֥]][[H9030\|י]] [[H3176H\|הוֹחִ֣ילִי]] [[H9005\|לֵֽ֭]][[H0430G\|אלֹהִים]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֣וֹד]] [[H3034\|אוֹדֶ֑]][[H9033\|נּוּ]] [[H3444\|יְשׁוּעֹ֥ת]] [[H6440L\|פָּ֝נַ֗]][[H9020\|י]] [[H9002\|וֵֽ]][[H0430G\|אלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic DESIRE|DESIRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.10|<< Psalms 42:10]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.1|Psalms 43:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,66 @@
+---
+title: Acts 20:15
+type: Verse
+kjv: "And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus."
+bsb: "Sailing on from there, we arrived the next day opposite Chios. The day after that we arrived at Samos, and on the following day we came to Miletus."
+greek: "κἀκεῖθεν κἀκεῖθεν ἀποπλεύσαντες τῇ ἐπιούσῃ κατηντήσαμεν ἄντικρυς Χίου, τῇ δὲ ἑτέρᾳ παρεβάλομεν εἰς Σάμον καὶ μείναντες ἐν Τρωγυλλίῳ, τῇ δὲ ἐχομένῃ ἤλθομεν εἰς Μίλητον."
+pericope: "[[Acts.20.13 From Troas to Miletus|From Troas to Miletus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHIOS|CHIOS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MITYLENE|MITYLENE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SAMOS|SAMOS]]"
+- "[[topic TROGYLLIUM|TROGYLLIUM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G0636]]"
+- "[[G3588]]"
+- "[[G1966]]"
+- "[[G2658]]"
+- "[[G0481]]"
+- "[[G5508]]"
+- "[[G1161]]"
+- "[[G2087]]"
+- "[[G3846]]"
+- "[[G1519]]"
+- "[[G4544]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G5175]]"
+- "[[G2192]]"
+- "[[G2064]]"
+- "[[G3399]]"
+texts:
+- NKO
+- N(k)O
+- K
+- no
+---
+
 **Acts 20:15**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we sailed thence, and came the next [day] over against Chios; and the next [day] we arrived at Samos, and tarried at Trogyllium; and the next [day] we came to Miletus.
 <small><sub>**BSB:**</sub></small>
 Sailing on from there, we arrived the next day opposite Chios. The day after that we arrived at Samos, and on the following day we came to Miletus.
-<small><sub>**Literal:**</sub></small>
-And from there having sailed away on the following [day] we arrived opposite Chios, on the then next [day] we arrived at Samos and await in Trogyllium on the and following [day] we came to Miletus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.14|<< Acts 20:14]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.16|Acts 20:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G0636\|ἀποπλεύσαντες]]  [[G3588\|τῇ]]  [[G1966\|ἐπιούσῃ]]  [[G2658\|κατηντήσαμεν]]  [[G0481\|ἄντικρυς]]  [[G5508\|Χίου,]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G2087\|ἑτέρᾳ]]  [[G3846\|παρεβάλομεν]]  [[G1519\|εἰς]]  [[G4544\|Σάμον]]  [[G2532\|καὶ]]  [[G3306\|μείναντες]]  [[G1722\|ἐν]]  [[G5175\|Τρωγυλλίῳ,]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G2192\|ἐχομένῃ]]  [[G2064\|ἤλθομεν]]  [[G1519\|εἰς]]  [[G3399\|Μίλητον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIOS|CHIOS]] • [[topic MILETUS|MILETUS]] • [[topic MITYLENE|MITYLENE]] • [[topic PAUL|PAUL]] • [[topic SAMOS|SAMOS]] • [[topic TROGYLLIUM|TROGYLLIUM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.14|<< Acts 20:14]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.16|Acts 20:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

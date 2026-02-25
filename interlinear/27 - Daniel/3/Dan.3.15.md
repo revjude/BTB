@@ -1,8 +1,101 @@
+---
+title: Daniel 3:15
+type: Verse
+kjv: "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?"
+bsb: "Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, if you are ready to fall down and worship the statue I have made, very good. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?”"
+aramaic: "כְּעַ֞ן הֵ֧ן אִֽיתֵיכ֣וֹן עֲתִידִ֗ין דִּ֣י בְעִדָּנָ֡א דִּֽי־ תִשְׁמְע֡וּן קָ֣ל קַרְנָ֣א מַשְׁרוֹקִיתָ֣א קַתְר֣וֹס שַׂבְּכָ֡א פְּסַנְתֵּרִין֩ וְסוּמְפֹּ֨נְיָ֜ה וְכֹ֣ל׀ זְנֵ֣י זְמָרָ֗א תִּפְּל֣וּן וְתִסְגְּדוּן֮ לְצַלְמָ֣א דִֽי־ עַבְדֵת֒ וְהֵן֙ לָ֣א תִסְגְּד֔וּן בַּהּ־ שַׁעֲתָ֣ה תִתְרְמ֔וֹן לְגֽוֹא־ אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּ֑א וּמַן־ ה֣וּא אֱלָ֔הּ דֵּ֥י יְשֵֽׁיזְבִנְכ֖וֹן מִן־ יְדָֽי׃"
+pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DULCIMER|DULCIMER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FLUTE|FLUTE]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SACKBUT|SACKBUT]]"
+strongs:
+- "[[H3705]]"
+- "[[H2006A]]"
+- "[[H0383]]"
+- "[[H9046]]"
+- "[[H6263]]"
+- "[[H1768]]"
+- "[[H9003]]"
+- "[[H5732]]"
+- "[[H9010]]"
+- "[[H9014]]"
+- "[[H8086]]"
+- "[[H7032G]]"
+- "[[H7162]]"
+- "[[H4953]]"
+- "[[H7030]]"
+- "[[H5443]]"
+- "[[H6460]]"
+- "[[H9002]]"
+- "[[H5481]]"
+- "[[H3606]]"
+- "[[H9015]]"
+- "[[H2178]]"
+- "[[H2170]]"
+- "[[H5308]]"
+- "[[H5457]]"
+- "[[H9005]]"
+- "[[H6755]]"
+- "[[H5648]]"
+- "[[H3809]]"
+- "[[H9034]]"
+- "[[H8160]]"
+- "[[H7412]]"
+- "[[H1459]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H3345]]"
+- "[[H4479]]"
+- "[[H1932]]"
+- "[[H0426]]"
+- "[[H7804]]"
+- "[[H9036]]"
+- "[[H4481]]"
+- "[[H3028]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 3:15**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; [well]: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who [is] that God that shall deliver you out of my hands?
 <small><sub>**BSB:**</sub></small>
 Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, if you are ready to fall down and worship the statue I have made, very good. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?”
+<small><sub>**Aramaic:**</sub></small>
+[[H3705\|כְּעַ֞ן]] [[H2006A\|הֵ֧ן]] [[H0383\|אִֽיתֵי]][[H9046\|כ֣וֹן]] [[H6263\|עֲתִידִ֗ין]] [[H1768\|דִּ֣י]] [[H9003\|בְ]][[H5732\|עִדָּנָ֡]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H8086\|תִשְׁמְע֡וּן]] [[H7032G\|קָ֣ל]] [[H7162\|קַרְנָ֣]][[H9010\|א]] [[H4953\|מַשְׁרוֹקִיתָ֣]][[H9010\|א]] [[H7030\|קַתְר֣וֹס]] [[H5443\|שַׂבְּכָ֡א]] [[H6460\|פְּסַנְתֵּרִין֩]] [[H9002\|וְ]][[H5481\|סוּמְפֹּ֨נְיָ֜ה]] [[H9002\|וְ]][[H3606\|כֹ֣ל]][[H9015\|׀]] [[H2178\|זְנֵ֣י]] [[H2170\|זְמָרָ֗]][[H9010\|א]] [[H5308\|תִּפְּל֣וּן]] [[H9002\|וְ]][[H5457\|תִסְגְּדוּן֮]] [[H9005\|לְ]][[H6755\|צַלְמָ֣]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H5648\|עַבְדֵת֒]] [[H9002\|וְ]][[H2006A\|הֵן֙]] [[H3809\|לָ֣א]] [[H5457\|תִסְגְּד֔וּן]] [[H9003\|בַּ]][[H9034\|הּ]][[H9014\|־]] [[H8160\|שַׁעֲתָ֣]][[H9010\|ה]] [[H7412\|תִתְרְמ֔וֹן]] [[H9005\|לְ]][[H1459\|גֽוֹא]][[H9014\|־]] [[H0861\|אַתּ֥וּן]] [[H5135\|נוּרָ֖]][[H9010\|א]] [[H3345\|יָקִֽדְתָּ֑]][[H9010\|א]] [[H9002\|וּ]][[H4479\|מַן]][[H9014\|־]] [[H1932\|ה֣וּא]] [[H0426\|אֱלָ֔הּ]] [[H1768\|דֵּ֥י]] [[H7804\|יְשֵֽׁיזְבִנְ]][[H9036\|כ֖וֹן]] [[H4481\|מִן]][[H9014\|־]] [[H3028\|יְדָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DULCIMER|DULCIMER]] • [[topic FAITH|FAITH]] • [[topic FLUTE|FLUTE]] • [[topic FURNACE|FURNACE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic MUSIC|MUSIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PSALTERY|PSALTERY]] • [[topic RULERS|RULERS]] • [[topic SACKBUT|SACKBUT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.14|<< Daniel 3:14]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.16|Daniel 3:16 >>]]</td></tr></table>
 

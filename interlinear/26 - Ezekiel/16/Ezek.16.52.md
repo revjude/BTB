@@ -1,8 +1,67 @@
+---
+title: Ezekiel 16:52
+type: Verse
+kjv: "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters."
+bsb: "So now you must bear your disgrace, since you have brought justification for your sisters. For they appear more righteous than you, because your sins were more vile than theirs. So you too must bear your shame and disgrace, since you have made your sisters appear righteous."
+hebrew: "גַּם־ אַ֣תְּ׀ שְׂאִ֣י כְלִמָּתֵ֗ךְ אֲשֶׁ֤ר פִּלַּלְתְּ֙ לַֽאֲחוֹתֵ֔ךְ בְּחַטֹּאתַ֛יִךְ אֲשֶׁר־ הִתְעַ֥בְתְּ מֵהֵ֖ן תִּצְדַּ֣קְנָה מִמֵּ֑ךְ וְגַם־ אַ֥תְּ בּ֙וֹשִׁי֙ וּשְׂאִ֣י כְלִמָּתֵ֔ךְ בְּצַדֶּקְתֵּ֖ךְ אַחְיוֹתֵֽךְ׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0859C]]"
+- "[[H9015]]"
+- "[[H5375J]]"
+- "[[H3639]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H9005]]"
+- "[[H0269]]"
+- "[[H9003]]"
+- "[[H2403B]]"
+- "[[H8581]]"
+- "[[H9006]]"
+- "[[H9039]]"
+- "[[H6663]]"
+- "[[H4480A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H0954]]"
+- "[[H9042]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:52**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters.
 <small><sub>**BSB:**</sub></small>
 So now you must bear your disgrace, since you have brought justification for your sisters. For they appear more righteous than you, because your sins were more vile than theirs. So you too must bear your shame and disgrace, since you have made your sisters appear righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0859C\|אַ֣תְּ]][[H9015\|׀]] [[H5375J\|שְׂאִ֣י]] [[H3639\|כְלִמָּתֵ֗]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֤ר]] [[H6419\|פִּלַּלְתְּ֙]] [[H9005\|לַֽ]][[H0269\|אֲחוֹתֵ֔]][[H9022\|ךְ]] [[H9003\|בְּ]][[H2403B\|חַטֹּאתַ֛יִ]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8581\|הִתְעַ֥בְתְּ]] [[H9006\|מֵ]][[H9039\|הֵ֖ן]] [[H6663\|תִּצְדַּ֣קְנָה]] [[H4480A\|מִמֵּ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0859C\|אַ֥תְּ]] [[H0954\|בּ֙וֹשִׁי֙]] [[H9002\|וּ]][[H5375J\|שְׂאִ֣י]] [[H3639\|כְלִמָּתֵ֔]][[H9022\|ךְ]] [[H9003\|בְּ]][[H6663\|צַדֶּקְתֵּ֖]][[H9042\|ךְ]] [[H0269\|אַחְיוֹתֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.51|<< Ezekiel 16:51]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.53|Ezekiel 16:53 >>]]</td></tr></table>
 

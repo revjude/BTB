@@ -1,8 +1,65 @@
+---
+title: 1 Kings 10:27
+type: Verse
+kjv: "And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance."
+bsb: "The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills."
+hebrew: "וַיִּתֵּ֨ן הַמֶּ֧לֶךְ אֶת־ הַכֶּ֛סֶף בִּירוּשָׁלִַ֖ם כָּאֲבָנִ֑ים וְאֵ֣ת הָאֲרָזִ֗ים נָתַ֛ן כַּשִּׁקְמִ֥ים אֲשֶׁר־ בַּשְּׁפֵלָ֖ה לָרֹֽב׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic KING|KING]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic SYCAMORE|SYCAMORE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9004]]"
+- "[[H0068G]]"
+- "[[H9002]]"
+- "[[H0730]]"
+- "[[H8256]]"
+- "[[H0834A]]"
+- "[[H8219]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:27**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king made silver [to be] in Jerusalem as stones, and cedars made he [to be] as the sycomore trees that [are] in the vale, for abundance.
 <small><sub>**BSB:**</sub></small>
 The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414I\|יִּתֵּ֨ן]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֛סֶף]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H9004\|כָּ]][[H0068G\|אֲבָנִ֑ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H9009\|הָ]][[H0730\|אֲרָזִ֗ים]] [[H5414I\|נָתַ֛ן]] [[H9004\|כַּ]][[H8256\|שִּׁקְמִ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H8219\|שְּׁפֵלָ֖ה]] [[H9005\|לָ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic KING|KING]] • [[topic SILVER|SILVER]] • [[topic SOLOMON|SOLOMON]] • [[topic SYCAMORE|SYCAMORE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.26|<< 1 Kings 10:26]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.28|1 Kings 10:28 >>]]</td></tr></table>
 

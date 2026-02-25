@@ -1,10 +1,68 @@
+---
+title: John 14:10
+type: Verse
+kjv: "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+bsb: "Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works."
+jesus_said: "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+greek: "οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ᾽ ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ πατὴρ ὁ ἐν ἐμοὶ μένων αὐτὸς ποιεῖ τὰ ἔργα αὐτοῦ."
+pericope: "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G4487]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G0575]]"
+- "[[G2980]]"
+- "[[G1161]]"
+- "[[G3306]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G2041]]"
+texts:
+- NKO
+- N(k)O
+- ko
+- k
+- NO
+---
+
 **John 14:10**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
 <small><sub>**BSB:**</sub></small>
 Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.
-<small><sub>**Literal:**</sub></small>
-Surely you believe that I myself [am] in the Father and the Father in Me myself is? The declarations that I myself I say to you from Myself not I speak; <the> but the Father who in Me myself dwelling he himself does the works of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.9|<< John 14:9]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.11|John 14:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G4100\|πιστεύεις]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί]]  [[G1510\|ἐστιν;]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3739\|ἃ]]  [[G1473\|ἐγὼ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G3756\|οὐ]]  [[G2980\|λαλῶ·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3962\|πατὴρ]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G3306\|μένων]]  [[G0846\|αὐτὸς]]  [[G4160G\|ποιεῖ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.9|<< John 14:9]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.11|John 14:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

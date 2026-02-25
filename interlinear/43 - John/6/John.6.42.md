@@ -1,10 +1,64 @@
+---
+title: John 6:42
+type: Verse
+kjv: "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?"
+bsb: "They were asking, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then can He say, ‘I have come down from heaven’?”"
+greek: "καὶ ἔλεγον· οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; πῶς νῦν λέγει οὗτος ὅτι ἐκ τοῦ οὐρανοῦ καταβέβηκα;¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2501G]]"
+- "[[G3739]]"
+- "[[G3165]]"
+- "[[G6063]]"
+- "[[G3962]]"
+- "[[G3384]]"
+- "[[G4459]]"
+- "[[G3568]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2597]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **John 6:42**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?
 <small><sub>**BSB:**</sub></small>
 They were asking, “Is this not Jesus, the son of Joseph, whose father and mother we know? How then can He say, ‘I have come down from heaven’?”
-<small><sub>**Literal:**</sub></small>
-And they were saying; Surely this is Jesus the son of Joseph, of whom we ourselves know the father and the mother? How then says He this that From <the> heaven I have come down?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.41|<< John 6:41]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.43|John 6:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G3756\|οὐχ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G2501G\|Ἰωσήφ,]]  [[G3739\|οὗ]]  [[G3165\|ἡμεῖς]]  [[G6063\|οἴδαμεν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα;]]  [[G4459\|πῶς]]  [[G3568\|νῦν]]  [[G3004G\|λέγει]]  [[G3778\|οὗτος]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2597\|καταβέβηκα;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MURMURING|MURMURING]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.41|<< John 6:41]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.43|John 6:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

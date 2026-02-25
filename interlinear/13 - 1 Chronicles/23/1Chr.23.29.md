@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 23:29
+type: Verse
+kjv: "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;"
+bsb: "as well as for the rows of the showbread, the fine flour for the grain offering, the wafers of unleavened bread, the baking, the mixing, and all measurements of quantity and size."
+hebrew: "וּלְלֶ֨חֶם הַֽמַּעֲרֶ֜כֶת וּלְסֹ֤לֶת לְמִנְחָה֙ וְלִרְקִיקֵ֣י הַמַּצּ֔וֹת וְלַֽמַּחֲבַ֖ת וְלַמֻּרְבָּ֑כֶת וּלְכָל־ מְשׂוּרָ֖ה וּמִדָּֽה׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H9009]]"
+- "[[H4635]]"
+- "[[H5560]]"
+- "[[H4503G]]"
+- "[[H7550]]"
+- "[[H4682]]"
+- "[[H4227]]"
+- "[[H7246]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4884]]"
+- "[[H4060A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:29**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for [that which is baked in] the pan, and for that which is fried, and for all manner of measure and size;
 <small><sub>**BSB:**</sub></small>
 as well as for the rows of the showbread, the fine flour for the grain offering, the wafers of unleavened bread, the baking, the mixing, and all measurements of quantity and size.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H3899H\|לֶ֨חֶם]] [[H9009\|הַֽ]][[H4635\|מַּעֲרֶ֜כֶת]] [[H9002\|וּ]][[H9005\|לְ]][[H5560\|סֹ֤לֶת]] [[H9005\|לְ]][[H4503G\|מִנְחָה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H7550\|רְקִיקֵ֣י]] [[H9009\|הַ]][[H4682\|מַּצּ֔וֹת]] [[H9002\|וְ]][[H9005\|לַֽ]][[H4227\|מַּחֲבַ֖ת]] [[H9002\|וְ]][[H9005\|לַ]][[H7246\|מֻּרְבָּ֑כֶת]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4884\|מְשׂוּרָ֖ה]] [[H9002\|וּ]][[H4060A\|מִדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.28|<< 1 Chronicles 23:28]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.30|1 Chronicles 23:30 >>]]</td></tr></table>
 

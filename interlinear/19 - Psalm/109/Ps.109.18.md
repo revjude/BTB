@@ -1,8 +1,60 @@
+---
+title: Psalm 109:18
+type: Verse
+kjv: "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones."
+bsb: "The cursing that he wore like a coat, may it soak into his body like water, and into his bones like oil."
+hebrew: "וַיִּלְבַּ֥שׁ קְלָלָ֗ה כְּמַ֫דּ֥וֹ וַתָּבֹ֣א כַמַּ֣יִם בְּקִרְבּ֑וֹ וְ֝כַשֶּׁ֗מֶן בְּעַצְמוֹתָֽיו׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H7045]]"
+- "[[H9004]]"
+- "[[H4055]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H7130H]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H6106G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:18**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.
 <small><sub>**BSB:**</sub></small>
 The cursing that he wore like a coat, may it soak into his body like water, and into his bones like oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3847\|יִּלְבַּ֥שׁ]] [[H7045\|קְלָלָ֗ה]] [[H9004\|כְּ]][[H4055\|מַ֫דּ֥]][[H9023\|וֹ]] [[H9001\|וַ]][[H0935G\|תָּבֹ֣א]] [[H9004\|כַ]][[H4325G\|מַּ֣יִם]] [[H9003\|בְּ]][[H7130H\|קִרְבּ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H9004\|כַ]][[H8081\|שֶּׁ֗מֶן]] [[H9003\|בְּ]][[H6106G\|עַצְמוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MALICE|MALICE]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.17|<< Psalms 109:17]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.19|Psalms 109:19 >>]]</td></tr></table>
 

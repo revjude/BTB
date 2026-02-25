@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Remnant Chosen by Grace
+type: Pericope
 pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Romans
 chapter: 11
 book/chapter: "[[Rom.11|Romans 11]]"
-genre:
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 10
 verses:
 - "[[Rom.11.1]]"
 - "[[Rom.11.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rom.11.10]]"
 ---
 
-[[Rom.11|Romans 11:1 - Romans 11:10]]
+<small>[[Rom.11|Romans 11:1-10]]</small>
 *A Remnant Chosen by Grace*
 
 [[Rom.11.1|1]] I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, \[of\] the tribe of Benjamin.

@@ -1,10 +1,61 @@
+---
+title: Acts 24:21
+type: Verse
+kjv: "Except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question by you this day."
+bsb: "unless it was this one thing I called out as I stood in their presence: ‘It is concerning the resurrection of the dead that I am on trial before you today.’”"
+greek: "ἢ περὶ μιᾶς ταύτης φωνῆς ἧς ἐκέκραξα ἐν αὐτοῖς ἑστὼς ὅτι περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ἐφ᾽ ὑμῶν.¶"
+pericope: "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2228]]"
+- "[[G4012]]"
+- "[[G1520]]"
+- "[[G3778]]"
+- "[[G5456G]]"
+- "[[G3739]]"
+- "[[G2896]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2476]]"
+- "[[G3754G]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G1473]]"
+- "[[G2919]]"
+- "[[G4594]]"
+- "[[G1909]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 24:21**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question by you this day.
 <small><sub>**BSB:**</sub></small>
 unless it was this one thing I called out as I stood in their presence: ‘It is concerning the resurrection of the dead that I am on trial before you today.’”
-<small><sub>**Literal:**</sub></small>
-[other] than concerning one this voice which I cried out among them standing that Concerning [the] resurrection of [the] dead I myself am judged this day by you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.20|<< Acts 24:20]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.22|Acts 24:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G4012\|περὶ]]  [[G1520\|μιᾶς]]  [[G3778\|ταύτης]]  [[G5456G\|φωνῆς]]  [[G3739\|ἧς]]  [[G2896\|ἐκέκραξα]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G2476\|ἑστὼς]]  [[G3754G\|ὅτι]]  [[G4012\|περὶ]]  [[G0386\|ἀναστάσεως]]  [[G3498\|νεκρῶν]]  [[G1473\|ἐγὼ]]  [[G2919\|κρίνομαι]]  [[G4594\|σήμερον]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFENSE|DEFENSE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.20|<< Acts 24:20]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.22|Acts 24:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

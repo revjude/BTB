@@ -1,10 +1,66 @@
+---
+title: Revelation 12:14
+type: Verse
+kjv: "And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent."
+bsb: "But the woman was given two wings of a great eagle to fly from the presence of the serpent to her place in the wilderness, where she was nourished for a time, and times, and half a time."
+greek: "καὶ ἐδόθησαν τῇ γυναικὶ αἱ δύο πτέρυγες τοῦ ἀετοῦ τοῦ μεγάλου, ἵνα πέτηται εἰς τὴν ἔρημον εἰς τὸν τόπον αὐτῆς ὅπου τρέφεται ἐκεῖ καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ ἀπὸ προσώπου τοῦ ὄφεως."
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G1417]]"
+- "[[G4420]]"
+- "[[G0105]]"
+- "[[G3173]]"
+- "[[G2443]]"
+- "[[G4072]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G0846]]"
+- "[[G3699]]"
+- "[[G5142]]"
+- "[[G1563]]"
+- "[[G2540]]"
+- "[[G2255]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G3789]]"
+texts:
+- NKO
+- no
+- NK(O)
+---
+
 **Revelation 12:14**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 <small><sub>**BSB:**</sub></small>
 But the woman was given two wings of a great eagle to fly from the presence of the serpent to her place in the wilderness, where she was nourished for a time, and times, and half a time.
-<small><sub>**Literal:**</sub></small>
-And were given to the woman the two wings of the eagle <the> great, so that she may fly into the wilderness into the place of her where she is nourished there a time and times and half a time from [the] face of the serpent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.13|<< Revelation 12:13]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.15|Revelation 12:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθησαν]]  [[G3588\|τῇ]]  [[G1135G\|γυναικὶ]]  [[G3588\|αἱ]]  [[G1417\|δύο]]  [[G4420\|πτέρυγες]]  [[G3588\|τοῦ]]  [[G0105\|ἀετοῦ]]  [[G3588\|τοῦ]]  [[G3173\|μεγάλου,]]  [[G2443\|ἵνα]]  [[G4072\|πέτηται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2048\|ἔρημον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G0846\|αὐτῆς]]  [[G3699\|ὅπου]]  [[G5142\|τρέφεται]]  [[G1563\|ἐκεῖ]]  [[G2540\|καιρὸν]]  [[G2532\|καὶ]]  [[G2540\|καιροὺς]]  [[G2532\|καὶ]]  [[G2255\|ἥμισυ]]  [[G2540\|καιροῦ]]  [[G0575\|ἀπὸ]]  [[G4383\|προσώπου]]  [[G3588\|τοῦ]]  [[G3789\|ὄφεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAGLE|EAGLE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.13|<< Revelation 12:13]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.15|Revelation 12:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:14** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]] ☩ [[LXX.Dan.12.7|Dan 12:7]]

@@ -1,10 +1,55 @@
+---
+title: Romans 4:1
+type: Verse
+kjv: "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?"
+bsb: "What then shall we say that Abraham, our forefather according to the flesh, has discovered?"
+greek: "Τί οὖν ἐροῦμεν εὑρηκέναι Ἀβραὰμ τὸν προπάτορα ἡμῶν κατὰ σάρκα;"
+pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4483]]"
+- "[[G2147]]"
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G6074]]"
+- "[[G3165]]"
+- "[[G2596]]"
+- "[[G4561]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 4:1**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 <small><sub>**BSB:**</sub></small>
 What then shall we say that Abraham, our forefather according to the flesh, has discovered?
-<small><sub>**Literal:**</sub></small>
-What then will we say to have discovered Abraham the ancestor of us according to [the] flesh?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.31|<< Romans 3:31]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.2|Romans 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G4483\|ἐροῦμεν]]  [[G2147\|εὑρηκέναι]]  [[G0011\|Ἀβραὰμ]]  [[G3588\|τὸν]]  [[G6074\|προπάτορα]]  [[G3165\|ἡμῶν]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.31|<< Romans 3:31]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.2|Romans 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

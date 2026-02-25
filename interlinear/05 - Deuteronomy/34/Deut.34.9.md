@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 34:9
+type: Verse
+kjv: "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses."
+bsb: "Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites obeyed him and did as the LORD had commanded Moses."
+hebrew: "וִֽיהוֹשֻׁ֣עַ בִּן־ נ֗וּן מָלֵא֙ ר֣וּחַ חָכְמָ֔ה כִּֽי־ סָמַ֥ךְ מֹשֶׁ֛ה אֶת־ יָדָ֖יו עָלָ֑יו וַיִּשְׁמְע֨וּ אֵלָ֤יו בְּנֵֽי־ יִשְׂרָאֵל֙ וַֽיַּעֲשׂ֔וּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H4392]]"
+- "[[H7307G]]"
+- "[[H2451]]"
+- "[[H3588A]]"
+- "[[H5564]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:9**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites obeyed him and did as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִֽ]][[H3091G\|יהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֗וּן]] [[H4392\|מָלֵא֙]] [[H7307G\|ר֣וּחַ]] [[H2451\|חָכְמָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5564\|סָמַ֥ךְ]] [[H4872\|מֹשֶׁ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָ֖י]][[H9023\|ו]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H8085H\|יִּשְׁמְע֨וּ]] [[H0413\|אֵלָ֤י]][[H9033\|ו]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַֽ]][[H6213A\|יַּעֲשׂ֔וּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic JOSHUA|JOSHUA]] • [[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.8|<< Deuteronomy 34:8]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.10|Deuteronomy 34:10 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Numbers 15:28
+type: Verse
+kjv: "And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him."
+bsb: "And the priest shall make atonement before the LORD on behalf of the person who erred by sinning unintentionally; and when atonement has been made for him, he will be forgiven."
+hebrew: "וְכִפֶּ֣ר הַכֹּהֵ֗ן עַל־ הַנֶּ֧פֶשׁ הַשֹּׁגֶ֛גֶת בְּחֶטְאָ֥ה בִשְׁגָגָ֖ה לִפְנֵ֣י יְהוָ֑ה לְכַפֵּ֥ר עָלָ֖יו וְנִסְלַ֥ח לֽוֹ׃"
+pericope: "[[Num.15.22 Offerings for Unintentional Sins|Offerings for Unintentional Sins]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3722A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H7683]]"
+- "[[H9003]]"
+- "[[H2398]]"
+- "[[H7684]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9033]]"
+- "[[H5545]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:28**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
 And the priest shall make atonement before the LORD on behalf of the person who erred by sinning unintentionally; and when atonement has been made for him, he will be forgiven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3722A\|כִפֶּ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֧פֶשׁ]] [[H9009\|הַ]][[H7683\|שֹּׁגֶ֛גֶת]] [[H9003\|בְּ]][[H2398\|חֶטְאָ֥ה]] [[H9003\|בִ]][[H7684\|שְׁגָגָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וְ]][[H5545\|נִסְלַ֥ח]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.27|<< Numbers 15:27]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.29|Numbers 15:29 >>]]</td></tr></table>
 

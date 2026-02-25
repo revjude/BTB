@@ -1,8 +1,57 @@
+---
+title: Psalm 64:8
+type: Verse
+kjv: "So they shall make their own tongue to fall upon themselves: all that see them shall flee away."
+bsb: "They will be made to stumble, their own tongues turned against them. All who see will shake their heads."
+hebrew: "וַיַּכְשִׁיל֣וּהוּ עָלֵ֣ימוֹ לְשׁוֹנָ֑ם יִ֝תְנֹדֲד֗וּ כָּל־ רֹ֥אֵה בָֽם׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3956G]]"
+- "[[H9028]]"
+- "[[H5074]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:8**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 <small><sub>**BSB:**</sub></small>
 They will be made to stumble, their own tongues turned against them. All who see will shake their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3782\|יַּכְשִׁיל֣וּ]][[H9033\|הוּ]] [[H5921A\|עָלֵ֣י]][[H9038\|מוֹ]] [[H3956G\|לְשׁוֹנָ֑]][[H9028\|ם]] [[H5074\|יִ֝תְנֹדֲד֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H7200G\|רֹ֥אֵה]] [[H9003\|בָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.7|<< Psalms 64:7]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.9|Psalms 64:9 >>]]</td></tr></table>
 

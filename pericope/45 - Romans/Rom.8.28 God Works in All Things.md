@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Works in All Things
+type: Pericope
 pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Romans
 chapter: 8
 book/chapter: "[[Rom.8|Romans 8]]"
-genre:
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 7
 verses:
 - "[[Rom.8.28]]"
 - "[[Rom.8.29]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rom.8.34]]"
 ---
 
-[[Rom.8|Romans 8:28 - Romans 8:34]]
+<small>[[Rom.8|Romans 8:28-34]]</small>
 *God Works in All Things*
 
 [[Rom.8.28|28]] And we know that all things work together for good to them that love God, to them who are the called according to \[his\] purpose.

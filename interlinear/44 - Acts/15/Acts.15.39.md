@@ -1,10 +1,61 @@
+---
+title: Acts 15:39
+type: Verse
+kjv: "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;"
+bsb: "Their disagreement was so sharp that they parted company. Barnabas took Mark and sailed for Cyprus,"
+greek: "Ἐγένετο δὲ παροξυσμός, ὥστε ἀποχωρισθῆναι αὐτοὺς ἀπ᾽ ἀλλήλων, τόν τε Βαρναβᾶν παραλαβόντα τὸν Μᾶρκον ἐκπλεῦσαι εἰς Κύπρον.¶"
+pericope: "[[Acts.15.36 Paul’s Second Missionary Journey Begins|Paul’s Second Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic MARK|MARK]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3948]]"
+- "[[G5620]]"
+- "[[G0673]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G0240]]"
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G0921G]]"
+- "[[G3880]]"
+- "[[G3138]]"
+- "[[G1602]]"
+- "[[G1519]]"
+- "[[G2954]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:39**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;
 <small><sub>**BSB:**</sub></small>
 Their disagreement was so sharp that they parted company. Barnabas took Mark and sailed for Cyprus,
-<small><sub>**Literal:**</sub></small>
-Arose therefore a sharp disagreement, so that separating they from one another, <the> and Barnabas having taken <the> Mark sailing to Cyprus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.38|<< Acts 15:38]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.40|Acts 15:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G3948\|παροξυσμός,]]  [[G5620\|ὥστε]]  [[G0673\|ἀποχωρισθῆναι]]  [[G0846\|αὐτοὺς]]  [[G0575\|ἀπ᾽]]  [[G0240\|ἀλλήλων,]]  [[G3588\|τόν]]  [[G5037\|τε]]  [[G0921G\|Βαρναβᾶν]]  [[G3880\|παραλαβόντα]]  [[G3588\|τὸν]]  [[G3138\|Μᾶρκον]]  [[G1602\|ἐκπλεῦσαι]]  [[G1519\|εἰς]]  [[G2954\|Κύπρον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic CYPRUS|CYPRUS]] • [[topic MARK|MARK]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.38|<< Acts 15:38]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.40|Acts 15:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

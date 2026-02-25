@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Faithfulness under Persecution
+type: Pericope
 pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 1
 book/chapter: "[[2Tim.1|2 Timothy 1]]"
-genre:
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 10
 verses:
 - "[[2Tim.1.3]]"
 - "[[2Tim.1.4]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Tim.1.12]]"
 ---
 
-[[2Tim.1|2 Timothy 1:3 - 2 Timothy 1:12]]
+<small>[[2Tim.1|2 Timothy 1:3-12]]</small>
 *Faithfulness under Persecution*
 
 [[2Tim.1.3|3]] I thank God, whom I serve from \[my\] forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;

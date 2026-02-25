@@ -1,10 +1,55 @@
+---
+title: Acts 7:23
+type: Verse
+kjv: "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel."
+bsb: "When Moses was forty years old, he decided to visit his brothers, the children of Israel."
+greek: "ὡς δὲ ἐπληροῦτο αὐτῷ τεσσερακονταετὴς χρόνος, ἀνέβη ἐπὶ τὴν καρδίαν αὐτοῦ ἐπισκέψασθαι τοὺς ἀδελφοὺς αὐτοῦ τοὺς υἱοὺς Ἰσραήλ."
+pericope: "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G4137]]"
+- "[[G0846]]"
+- "[[G5063]]"
+- "[[G5550]]"
+- "[[G0305]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1980]]"
+- "[[G0080]]"
+- "[[G5207]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Acts 7:23**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
 <small><sub>**BSB:**</sub></small>
 When Moses was forty years old, he decided to visit his brothers, the children of Israel.
-<small><sub>**Literal:**</sub></small>
-When then was fulfilled to him of forty years a period, it came into the mind of him to visit the brothers of him the sons of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.22|<< Acts 7:22]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.24|Acts 7:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G4137\|ἐπληροῦτο]]  [[G0846\|αὐτῷ]]  [[G5063\|τεσσερακονταετὴς]]  [[G5550\|χρόνος,]]  [[G0305\|ἀνέβη]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν]]  [[G0846\|αὐτοῦ]]  [[G1980\|ἐπισκέψασθαι]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοὺς]]  [[G5207\|υἱοὺς]]  [[G2474\|Ἰσραήλ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.22|<< Acts 7:22]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.24|Acts 7:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manasseh’s Eastern Inheritance
+type: Pericope
 pericope: "[[Josh.13.29 Manasseh’s Eastern Inheritance|Manasseh’s Eastern Inheritance]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 13
 book/chapter: "[[Josh.13|Joshua 13]]"
-genre:
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 5
 verses:
 - "[[Josh.13.29]]"
 - "[[Josh.13.30]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Josh.13.33]]"
 ---
 
-[[Josh.13|Joshua 13:29 - Joshua 13:33]]
+<small>[[Josh.13|Joshua 13:29-33]]</small>
 *Manasseh’s Eastern Inheritance*
 
 [[Josh.13.29|29]] And Moses gave \[inheritance\] unto the half tribe of Manasseh: and \[this\] was \[the possession\] of the half tribe of the children of Manasseh by their families.

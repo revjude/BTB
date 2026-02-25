@@ -1,8 +1,59 @@
+---
+title: Isaiah 7:19
+type: Verse
+kjv: "And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes."
+bsb: "And they will all come and settle in the steep ravines and clefts of the rocks, in all the thornbushes and watering holes."
+hebrew: "וּבָ֨אוּ וְנָח֤וּ כֻלָּם֙ בְּנַחֲלֵ֣י הַבַּתּ֔וֹת וּבִנְקִיקֵ֖י הַסְּלָעִ֑ים וּבְכֹל֙ הַנַּ֣עֲצוּצִ֔ים וּבְכֹ֖ל הַנַּהֲלֹלִֽים׃"
+pericope: "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5117]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H9009]]"
+- "[[H1327]]"
+- "[[H9002]]"
+- "[[H5357]]"
+- "[[H5553H]]"
+- "[[H5285]]"
+- "[[H5097]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:19**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
 <small><sub>**BSB:**</sub></small>
 And they will all come and settle in the steep ravines and clefts of the rocks, in all the thornbushes and watering holes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֨אוּ]] [[H9001\|וְ]][[H5117\|נָח֤וּ]] [[H3605\|כֻלָּ]][[H9028\|ם֙]] [[H9003\|בְּ]][[H5158N\|נַחֲלֵ֣י]] [[H9009\|הַ]][[H1327\|בַּתּ֔וֹת]] [[H9002\|וּ]][[H9003\|בִ]][[H5357\|נְקִיקֵ֖י]] [[H9009\|הַ]][[H5553H\|סְּלָעִ֑ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹל֙]] [[H9009\|הַ]][[H5285\|נַּ֣עֲצוּצִ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H9009\|הַ]][[H5097\|נַּהֲלֹלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.18|<< Isaiah 7:18]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.20|Isaiah 7:20 >>]]</td></tr></table>
 

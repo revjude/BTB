@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zedekiah Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.24.18 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 24
 book/chapter: "[[2Kgs.24|2 Kings 24]]"
-genre:
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 3
 verses:
 - "[[2Kgs.24.18]]"
 - "[[2Kgs.24.19]]"
 - "[[2Kgs.24.20]]"
 ---
 
-[[2Kgs.24|2 Kings 24:18 - 2 Kings 24:20]]
+<small>[[2Kgs.24|2 Kings 24:18-20]]</small>
 *Zedekiah Reigns in Judah*
 
 [[2Kgs.24.18|18]] Zedekiah \[was\] twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name \[was\] Hamutal, the daughter of Jeremiah of Libnah.

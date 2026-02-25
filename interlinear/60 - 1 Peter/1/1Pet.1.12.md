@@ -1,10 +1,70 @@
+---
+title: 1 Peter 1:12
+type: Verse
+kjv: "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into."
+bsb: "It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things."
+greek: "οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν πνεύματι ἁγίῳ ἀποσταλέντι ἀπ᾽ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.¶"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G0601]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1438]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1247]]"
+- "[[G0846]]"
+- "[[G3568]]"
+- "[[G0312]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2097]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G0649]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G1519]]"
+- "[[G1937]]"
+- "[[G0032G]]"
+- "[[G3879]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Peter 1:12**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.
 <small><sub>**BSB:**</sub></small>
 It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.
-<small><sub>**Literal:**</sub></small>
-to whom it was revealed that not themselves you however they were serving in those things which now have been proclaimed to you through those having evangelised you by [the] Spirit Holy having been sent from heaven, into which desire angels to look.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.11|<< 1 Peter 1:11]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.13|1 Peter 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἷς]]  [[G0601\|ἀπεκαλύφθη]]  [[G3754G\|ὅτι]]  [[G3756\|οὐχ]]  [[G1438\|ἑαυτοῖς]]  [[G4771\|ὑμῖν]]  [[G1161\|δὲ]]  [[G1247\|διηκόνουν]]  [[G0846\|αὐτά,]]  [[G3739\|ἃ]]  [[G3568\|νῦν]]  [[G0312\|ἀνηγγέλη]]  [[G4771\|ὑμῖν]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G2097\|εὐαγγελισαμένων]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ]]  [[G0649\|ἀποσταλέντι]]  [[G0575\|ἀπ᾽]]  [[G3772\|οὐρανοῦ,]]  [[G1519\|εἰς]]  [[G3739\|ἃ]]  [[G1937\|ἐπιθυμοῦσιν]]  [[G0032G\|ἄγγελοι]]  [[G3879\|παρακύψαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CURIOSITY|CURIOSITY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MYSTERIES|MYSTERIES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.11|<< 1 Peter 1:11]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.13|1 Peter 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

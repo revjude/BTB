@@ -1,10 +1,60 @@
+---
+title: Acts 11:21
+type: Verse
+kjv: "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
+bsb: "The hand of the Lord was with them, and a great number of people believed and turned to the Lord."
+greek: "καὶ ἦν χεὶρ κυρίου μετ᾽ αὐτῶν, πολύς τε ἀριθμὸς ὁ πιστεύσας ἐπέστρεψεν ἐπὶ τὸν κύριον·"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G5495]]"
+- "[[G2962G]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G5037]]"
+- "[[G0706]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1994]]"
+- "[[G1909]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 11:21**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.
 <small><sub>**BSB:**</sub></small>
 The hand of the Lord was with them, and a great number of people believed and turned to the Lord.
-<small><sub>**Literal:**</sub></small>
-And was [the] hand of [the] Lord with them, [a] great then number which having believed turned to the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.20|<< Acts 11:20]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.22|Acts 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G5495\|χεὶρ]]  [[G2962G\|κυρίου]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν,]]  [[G4183\|πολύς]]  [[G5037\|τε]]  [[G0706\|ἀριθμὸς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύσας]]  [[G1994\|ἐπέστρεψεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic HAND|HAND]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic REVIVALS|REVIVALS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.20|<< Acts 11:20]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.22|Acts 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

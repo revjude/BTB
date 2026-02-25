@@ -1,8 +1,65 @@
+---
+title: Jeremiah 50:40
+type: Verse
+kjv: "As God overthrew Sodom and Gomorrah and the neighbour cities thereof, saith the LORD; so shall no man abide there, neither shall any son of man dwell therein."
+bsb: "As God overthrew Sodom and Gomorrah along with their neighbors,” declares the LORD, “no one will dwell there; no man will abide there."
+hebrew: "כְּמַהְפֵּכַ֨ת אֱלֹהִ֜ים אֶת־ סְדֹ֧ם וְאֶת־ עֲמֹרָ֛ה וְאֶת־ שְׁכֵנֶ֖יהָ נְאֻם־ יְהוָ֑ה לֹֽא־ יֵשֵׁ֥ב שָׁם֙ אִ֔ישׁ וְלֹֽא־ יָג֥וּר בָּ֖הּ בֶּן־ אָדָֽם׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9004]]"
+- "[[H4114]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H7934]]"
+- "[[H9024]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H0376I]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:40**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As God overthrew Sodom and Gomorrah and the neighbour [cities] thereof, saith the LORD; [so] shall no man abide there, neither shall any son of man dwell therein.
 <small><sub>**BSB:**</sub></small>
 As God overthrew Sodom and Gomorrah along with their neighbors,” declares the LORD, “no one will dwell there; no man will abide there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H4114\|מַהְפֵּכַ֨ת]] [[H0430G\|אֱלֹהִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5467\|סְדֹ֧ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6017\|עֲמֹרָ֛ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7934\|שְׁכֵנֶ֖י]][[H9024\|הָ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|יֵשֵׁ֥ב]] [[H8033G\|שָׁם֙]] [[H0376I\|אִ֔ישׁ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1481A\|יָג֥וּר]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOMORRAH|GOMORRAH]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.39|<< Jeremiah 50:39]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.41|Jeremiah 50:41 >>]]</td></tr></table>
 

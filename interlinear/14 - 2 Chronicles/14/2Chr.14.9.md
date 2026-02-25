@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 14:9
+type: Verse
+kjv: "And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah."
+bsb: "Then Zerah the Cushite came against them with an army of 1,000,000 men and 300 chariots, and they advanced as far as Mareshah."
+hebrew: "וַיֵּצֵ֨א אֲלֵיהֶ֜ם זֶ֣רַח הַכּוּשִׁ֗י בְּחַ֙יִל֙ אֶ֣לֶף אֲלָפִ֔ים וּמַרְכָּב֖וֹת שְׁלֹ֣שׁ מֵא֑וֹת וַיָּבֹ֖א עַד־ מָרֵשָֽׁה׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARESHAH|MARESHAH]]"
+- "[[topic ZERAH|ZERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2226K]]"
+- "[[H9009]]"
+- "[[H3569G]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H4818]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4762G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:9**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah.
 <small><sub>**BSB:**</sub></small>
 Then Zerah the Cushite came against them with an army of 1,000,000 men and 300 chariots, and they advanced as far as Mareshah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H2226K\|זֶ֣רַח]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֗י]] [[H9003\|בְּ]][[H2428A\|חַ֙יִל֙]] [[H0505G\|אֶ֣לֶף]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וּ]][[H4818\|מַרְכָּב֖וֹת]] [[H7969\|שְׁלֹ֣שׁ]] [[H3967\|מֵא֑וֹת]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H5704\|עַד]][[H9014\|־]] [[H4762G\|מָרֵשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GOD|GOD]] • [[topic MARESHAH|MARESHAH]] • [[topic ZERAH|ZERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.8|<< 2 Chronicles 14:8]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.10|2 Chronicles 14:10 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Isaiah 45:15
+type: Verse
+kjv: "Verily thou art a God that hidest thyself, O God of Israel, the Saviour."
+bsb: "Truly You are a God who hides Himself, O God of Israel, the Savior."
+hebrew: "אָכֵ֕ן אַתָּ֖ה אֵ֣ל מִסְתַּתֵּ֑ר אֱלֹהֵ֥י יִשְׂרָאֵ֖ל מוֹשִֽׁיעַ׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0403]]"
+- "[[H0859A]]"
+- "[[H0410G]]"
+- "[[H5641]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:15**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Verily thou [art] a God that hidest thyself, O God of Israel, the Saviour.
 <small><sub>**BSB:**</sub></small>
 Truly You are a God who hides Himself, O God of Israel, the Savior.
+<small><sub>**Hebrew:**</sub></small>
+[[H0403\|אָכֵ֕ן]] [[H0859A\|אַתָּ֖ה]] [[H0410G\|אֵ֣ל]] [[H5641\|מִסְתַּתֵּ֑ר]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3467\|מוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.14|<< Isaiah 45:14]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.16|Isaiah 45:16 >>]]</td></tr></table>
 

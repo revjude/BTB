@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gabriel Foretells John’s Birth
+type: Pericope
 pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 21
 verses:
 - "[[Luke.1.5]]"
 - "[[Luke.1.6]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Luke.1.25]]"
 ---
 
-[[Luke.1|Luke 1:5 - Luke 1:25]]
+<small>[[Luke.1|Luke 1:5-25]]</small>
 *Gabriel Foretells John’s Birth*
 
 [[Luke.1.5|5]] There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife \[was\] of the daughters of Aaron, and her name \[was\] Elisabeth.

@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 15:34
+type: Verse
+kjv: "But if thou return to the city, and say unto Absalom, I will be thy servant, O king; as I have been thy father’s servant hitherto, so will I now also be thy servant: then mayest thou for me defeat the counsel of Ahithophel."
+bsb: "But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’"
+hebrew: "וְאִם־ הָעִ֣יר תָּשׁ֗וּב וְאָמַרְתָּ֤ לְאַבְשָׁלוֹם֙ עַבְדְּךָ֨ אֲנִ֤י הַמֶּ֙לֶךְ֙ אֶֽהְיֶ֔ה עֶ֣בֶד אָבִ֤יךָ וַֽאֲנִי֙ מֵאָ֔ז וְעַתָּ֖ה וַאֲנִ֣י עַבְדֶּ֑ךָ וְהֵפַרְתָּ֣ה לִ֔י אֵ֖ת עֲצַ֥ת אֲחִיתֹֽפֶל׃"
+pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HUSHAI|HUSHAI]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7725G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0053]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0589]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H0001G]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H6258]]"
+- "[[H6565A]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H6098]]"
+- "[[H0302]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:34**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou return to the city, and say unto Absalom, I will be thy servant, O king; [as] I [have been] thy father’s servant hitherto, so [will] I now also [be] thy servant: then mayest thou for me defeat the counsel of Ahithophel.
 <small><sub>**BSB:**</sub></small>
 But you can thwart the counsel of Ahithophel for me if you return to the city and say to Absalom: ‘I will be your servant, my king; in the past I was your father’s servant, but now I will be your servant.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H7725G\|תָּשׁ֗וּב]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֤]] [[H9005\|לְ]][[H0053\|אַבְשָׁלוֹם֙]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֨]] [[H0589\|אֲנִ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H1961\|אֶֽהְיֶ֔ה]] [[H5650\|עֶ֣בֶד]] [[H0001G\|אָבִ֤י]][[H9021\|ךָ]] [[H9002\|וַֽ]][[H0589\|אֲנִי֙]] [[H9006\|מֵ]][[H0227B\|אָ֔ז]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H6565A\|הֵפַרְתָּ֣ה]] [[H9005\|לִ֔]][[H9030\|י]] [[H0853\|אֵ֖ת]] [[H6098\|עֲצַ֥ת]] [[H0302\|אֲחִיתֹֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HUSHAI|HUSHAI]] • [[topic PRUDENCE|PRUDENCE]] • [[topic STRATEGY|STRATEGY]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.33|<< 2 Samuel 15:33]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.35|2 Samuel 15:35 >>]]</td></tr></table>
 

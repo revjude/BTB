@@ -1,10 +1,61 @@
+---
+title: John 1:51
+type: Verse
+kjv: "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+bsb: "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
+jesus_said: "Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+greek: "καὶ λέγει αὐτῷ· ἀμὴν ἀμὴν λέγω ὑμῖν ἀπ᾽ ἄρτι, ὄψεσθε τὸν οὐρανὸν ἀνεῳγότα καὶ τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου.¶"
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G4771]]"
+- "[[G0575]]"
+- "[[G0737]]"
+- "[[G3700]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G0455]]"
+- "[[G0032G]]"
+- "[[G2316]]"
+- "[[G0305]]"
+- "[[G2597]]"
+- "[[G1909]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- K
+---
+
 **John 1:51**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
 <small><sub>**BSB:**</sub></small>
 Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”
-<small><sub>**Literal:**</sub></small>
-And He says to him; Amen Amen I say to all of you from now you will behold the heaven having opened and the angels <the> of God ascending and descending on the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.50|<< John 1:50]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.1|John 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G0575\|ἀπ᾽]]  [[G0737\|ἄρτι,]]  [[G3700\|ὄψεσθε]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G0455\|ἀνεῳγότα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0305\|ἀναβαίνοντας]]  [[G2532\|καὶ]]  [[G2597\|καταβαίνοντας]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.50|<< John 1:50]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.1|John 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 1:51** is...
 > $\quad$ referencing: [[LXX.Gen.28.12|Gen 28:12]]

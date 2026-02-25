@@ -1,8 +1,53 @@
+---
+title: 2 Chronicles 18:32
+type: Verse
+kjv: "For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him."
+bsb: "And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him."
+hebrew: "וַיְהִ֗י כִּרְאוֹת֙ שָׂרֵ֣י הָרֶ֔כֶב כִּ֥י לֹא־ הָיָ֖ה מֶ֣לֶךְ יִשְׂרָאֵ֑ל וַיָּשֻׁ֖בוּ מֵאַחֲרָֽיו׃"
+pericope: "[[2Chr.18.28 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:32**<big><big>[[2Chr.18.28 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.
 <small><sub>**BSB:**</sub></small>
 And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כִּ]][[H7200G\|רְאוֹת֙]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֖בוּ]] [[H9006\|מֵ]][[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.31|<< 2 Chronicles 18:31]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.33|2 Chronicles 18:33 >>]]</td></tr></table>
 

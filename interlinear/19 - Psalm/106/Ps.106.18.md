@@ -1,8 +1,55 @@
+---
+title: Psalm 106:18
+type: Verse
+kjv: "And a fire was kindled in their company; the flame burned up the wicked."
+bsb: "Then fire blazed through their company; flames consumed the wicked."
+hebrew: "וַתִּבְעַר־ אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H5712]]"
+- "[[H9028]]"
+- "[[H3852]]"
+- "[[H3857]]"
+- "[[H7563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:18**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a fire was kindled in their company; the flame burned up the wicked.
 <small><sub>**BSB:**</sub></small>
 Then fire blazed through their company; flames consumed the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1197A\|תִּבְעַר]][[H9014\|־]] [[H0784\|אֵ֥שׁ]] [[H9003\|בַּ]][[H5712\|עֲדָתָ֑]][[H9028\|ם]] [[H3852\|לֶ֝הָבָ֗ה]] [[H3857\|תְּלַהֵ֥ט]] [[H7563\|רְשָׁעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.17|<< Psalms 106:17]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.19|Psalms 106:19 >>]]</td></tr></table>
 

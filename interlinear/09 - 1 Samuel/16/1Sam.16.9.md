@@ -1,8 +1,57 @@
+---
+title: 1 Samuel 16:9
+type: Verse
+kjv: "Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this."
+bsb: "Next Jesse presented Shammah, but Samuel said, “The LORD has not chosen this one either.”"
+hebrew: "וַיַּעֲבֵ֥ר יִשַׁ֖י שַׁמָּ֑ה וַיֹּ֕אמֶר גַּם־ בָּזֶ֖ה לֹא־ בָחַ֥ר יְהוָֽה׃"
+pericope: "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3448]]"
+- "[[H8048J]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:9**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this.
 <small><sub>**BSB:**</sub></small>
 Next Jesse presented Shammah, but Samuel said, “The LORD has not chosen this one either.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֵ֥ר]] [[H3448\|יִשַׁ֖י]] [[H8048J\|שַׁמָּ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1571\|גַּם]][[H9014\|־]] [[H9003\|בָּ]][[H2088\|זֶ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H0977\|בָחַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JESSE|JESSE]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.8|<< 1 Samuel 16:8]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.10|1 Samuel 16:10 >>]]</td></tr></table>
 

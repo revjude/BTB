@@ -1,8 +1,53 @@
+---
+title: Judges 14:1
+type: Verse
+kjv: "And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines."
+bsb: "One day Samson went down to Timnah, where he saw a young Philistine woman."
+hebrew: "וַיֵּ֥רֶד שִׁמְשׁ֖וֹן תִּמְנָ֑תָה וַיַּ֥רְא אִשָּׁ֛ה בְּתִמְנָ֖תָה מִבְּנ֥וֹת פְּלִשְׁתִּֽים׃"
+pericope: "[[Judg.14.1 Samson’s Marriage|Samson’s Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H8123]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H7200G]]"
+- "[[H0802G]]"
+- "[[H9003]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:1**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 <small><sub>**BSB:**</sub></small>
 One day Samson went down to Timnah, where he saw a young Philistine woman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֥רֶד]] [[H8123\|שִׁמְשׁ֖וֹן]] [[H8553G\|תִּמְנָ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H0802G\|אִשָּׁ֛ה]] [[H9003\|בְּ]][[H8553G\|תִמְנָ֖תָ]][[H9011\|ה]] [[H9006\|מִ]][[H1323G\|בְּנ֥וֹת]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMSON|SAMSON]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.25|<< Judges 13:25]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.2|Judges 14:2 >>]]</td></tr></table>
 

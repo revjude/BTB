@@ -1,8 +1,60 @@
+---
+title: Job 12:9
+type: Verse
+kjv: "Who knoweth not in all these that the hand of the LORD hath wrought this?"
+bsb: "Which of all these does not know that the hand of the LORD has done this?"
+hebrew: "מִ֭י לֹא־ יָדַ֣ע בְּכָל־ אֵ֑לֶּה כִּ֥י יַד־ יְ֝הוָה עָ֣שְׂתָה זֹּֽאת׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic DESIGN|DESIGN]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4310]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H3588A]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:9**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth not in all these that the hand of the LORD hath wrought this?
 <small><sub>**BSB:**</sub></small>
 Which of all these does not know that the hand of the LORD has done this?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֭י]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֣ע]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H3588A\|כִּ֥י]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְ֝הוָה]] [[H6213A\|עָ֣שְׂתָה]] [[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHEISM|ATHEISM]] • [[topic DESIGN|DESIGN]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RELIGION|RELIGION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.8|<< Job 12:8]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.10|Job 12:10 >>]]</td></tr></table>
 

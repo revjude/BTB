@@ -1,10 +1,62 @@
+---
+title: Luke 1:34
+type: Verse
+kjv: "Then said Mary unto the angel, How shall this be, seeing I know not a man?"
+bsb: "“How can this be,” Mary asked the angel, “since I am a virgin?”"
+greek: "Εἶπεν δὲ Μαριὰμ πρὸς τὸν ἄγγελον· πῶς ἔσται τοῦτο ἐπεὶ ἄνδρα οὐ γινώσκω;¶"
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3137G]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G4459]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G1893]]"
+- "[[G0435G]]"
+- "[[G3756]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **Luke 1:34**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Mary unto the angel, How shall this be, seeing I know not a man?
 <small><sub>**BSB:**</sub></small>
 “How can this be,” Mary asked the angel, “since I am a virgin?”
-<small><sub>**Literal:**</sub></small>
-Said then Mary to the angel; How will be this since a man not I know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.33|<< Luke 1:33]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.35|Luke 1:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3137G\|Μαριὰμ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον·]]  [[G4459\|πῶς]]  [[G1510\|ἔσται]]  [[G3778\|τοῦτο]]  [[G1893\|ἐπεὶ]]  [[G0435G\|ἄνδρα]]  [[G3756\|οὐ]]  [[G1097\|γινώσκω;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.33|<< Luke 1:33]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.35|Luke 1:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,51 @@
+---
+title: Matthew 20:24
+type: Verse
+kjv: "And when the ten heard it, they were moved with indignation against the two brethren."
+bsb: "When the ten heard about this, they were indignant with the two brothers."
+greek: "Καὶ ἀκούσαντες οἱ δέκα ἠγανάκτησαν περὶ τῶν δύο ἀδελφῶν.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G1176]]"
+- "[[G0023]]"
+- "[[G4012]]"
+- "[[G1417]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Matthew 20:24**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the ten heard [it], they were moved with indignation against the two brethren.
 <small><sub>**BSB:**</sub></small>
 When the ten heard about this, they were indignant with the two brothers.
-<small><sub>**Literal:**</sub></small>
-And having heard [this] the ten were indignant about the two brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.23|<< Matthew 20:23]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.25|Matthew 20:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|οἱ]]  [[G1176\|δέκα]]  [[G0023\|ἠγανάκτησαν]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G1417\|δύο]]  [[G0080\|ἀδελφῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.23|<< Matthew 20:23]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.25|Matthew 20:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

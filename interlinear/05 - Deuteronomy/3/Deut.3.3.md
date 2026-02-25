@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 3:3
+type: Verse
+kjv: "So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining."
+bsb: "So the LORD our God also delivered Og king of Bashan and his whole army into our hands. We struck them down until no survivor was left."
+hebrew: "וַיִּתֵּן֩ יְהוָ֨ה אֱלֹהֵ֜ינוּ בְּיָדֵ֗נוּ גַּ֛ם אֶת־ ע֥וֹג מֶֽלֶךְ־ הַבָּשָׁ֖ן וְאֶת־ כָּל־ עַמּ֑וֹ וַנַּכֵּ֕הוּ עַד־ בִּלְתִּ֥י הִשְׁאִֽיר־ ל֖וֹ שָׂרִֽיד׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EDREI|EDREI]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H1115]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H8300]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:3**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.
 <small><sub>**BSB:**</sub></small>
 So the LORD our God also delivered Og king of Bashan and his whole army into our hands. We struck them down until no survivor was left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּן֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֵ֜י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3027H\|יָדֵ֗]][[H9025\|נוּ]] [[H1571\|גַּ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5747\|ע֥וֹג]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5221\|נַּכֵּ֕]][[H9033\|הוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1115\|בִּלְתִּ֥י]] [[H7604\|הִשְׁאִֽיר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8300\|שָׂרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EDREI|EDREI]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.2|<< Deuteronomy 3:2]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.4|Deuteronomy 3:4 >>]]</td></tr></table>
 

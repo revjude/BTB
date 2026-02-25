@@ -1,8 +1,74 @@
+---
+title: Ezekiel 14:13
+type: Verse
+kjv: "Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:"
+bsb: "“Son of man, if a land sins against Me by acting unfaithfully, and I stretch out My hand against it to cut off its supply of food, to send famine upon it, and to cut off from it both man and beast,"
+hebrew: "בֶּן־ אָדָ֗ם אֶ֚רֶץ כִּ֤י תֶחֱטָא־ לִי֙ לִמְעָל־ מַ֔עַל וְנָטִ֤יתִי יָדִי֙ עָלֶ֔יהָ וְשָׁבַ֥רְתִּי לָ֖הּ מַטֵּה־ לָ֑חֶם וְהִשְׁלַחְתִּי־ בָ֣הּ רָעָ֔ב וְהִכְרַתִּ֥י מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H7665]]"
+- "[[H4294K]]"
+- "[[H3899H]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H7458]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:13**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:
 <small><sub>**BSB:**</sub></small>
 “Son of man, if a land sins against Me by acting unfaithfully, and I stretch out My hand against it to cut off its supply of food, to send famine upon it, and to cut off from it both man and beast,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H0776G\|אֶ֚רֶץ]] [[H3588A\|כִּ֤י]] [[H2398\|תֶחֱטָא]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לִ]][[H4603\|מְעָל]][[H9014\|־]] [[H4604\|מַ֔עַל]] [[H9001\|וְ]][[H5186\|נָטִ֤יתִי]] [[H3027H\|יָדִ]][[H9020\|י֙]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וְ]][[H7665\|שָׁבַ֥רְתִּי]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H4294K\|מַטֵּה]][[H9014\|־]] [[H3899H\|לָ֑חֶם]] [[H9001\|וְ]][[H7971G\|הִשְׁלַחְתִּי]][[H9014\|־]] [[H9003\|בָ֣]][[H9034\|הּ]] [[H7458\|רָעָ֔ב]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BREAD|BREAD]] • [[topic FAMINE|FAMINE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.12|<< Ezekiel 14:12]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.14|Ezekiel 14:14 >>]]</td></tr></table>
 

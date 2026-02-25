@@ -1,10 +1,60 @@
+---
+title: Matthew 18:27
+type: Verse
+kjv: "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
+bsb: "His master had compassion on him, forgave his debt, and released him."
+jesus_said: "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
+greek: "Σπλαγχνισθεὶς δὲ ὁ κύριος τοῦ δούλου ἐκείνου ἀπέλυσεν αὐτὸν καὶ τὸ δάνειον ἀφῆκεν αὐτῷ."
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic PITY|PITY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G4697]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G1401]]"
+- "[[G1565]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1156]]"
+- "[[G0863H]]"
+texts:
+- NKO
+---
+
 **Matthew 18:27**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.
 <small><sub>**BSB:**</sub></small>
 His master had compassion on him, forgave his debt, and released him.
-<small><sub>**Literal:**</sub></small>
-Having been moved with compassion now the master of the servant,  that [one] released him and the debt forgave him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.26|<< Matthew 18:26]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.28|Matthew 18:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4697\|Σπλαγχνισθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G3588\|τοῦ]]  [[G1401\|δούλου]]  [[G1565\|ἐκείνου]]  [[G0630G\|ἀπέλυσεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1156\|δάνειον]]  [[G0863H\|ἀφῆκεν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic PITY|PITY]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.26|<< Matthew 18:26]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.28|Matthew 18:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

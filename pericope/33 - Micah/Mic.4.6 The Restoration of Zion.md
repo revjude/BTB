@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Restoration of Zion
+type: Pericope
 pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 4
 book/chapter: "[[Mic.4|Micah 4]]"
-genre:
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 8
 verses:
 - "[[Mic.4.6]]"
 - "[[Mic.4.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mic.4.13]]"
 ---
 
-[[Mic.4|Micah 4:6 - Micah 4:13]]
+<small>[[Mic.4|Micah 4:6-13]]</small>
 *The Restoration of Zion*
 
 [[Mic.4.6|6]] In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;

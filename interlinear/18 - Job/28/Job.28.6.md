@@ -1,8 +1,53 @@
+---
+title: Job 28:6
+type: Verse
+kjv: "The stones of it are the place of sapphires: and it hath dust of gold."
+bsb: "Its rocks are the source of sapphires, containing flecks of gold."
+hebrew: "מְקוֹם־ סַפִּ֥יר אֲבָנֶ֑יהָ וְעַפְרֹ֖ת זָהָ֣ב לֽוֹ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SAPPHIRE|SAPPHIRE]]"
+strongs:
+- "[[H4725]]"
+- "[[H9014]]"
+- "[[H5601]]"
+- "[[H0068G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H6083]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:6**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stones of it [are] the place of sapphires: and it hath dust of gold.
 <small><sub>**BSB:**</sub></small>
 Its rocks are the source of sapphires, containing flecks of gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H4725\|מְקוֹם]][[H9014\|־]] [[H5601\|סַפִּ֥יר]] [[H0068G\|אֲבָנֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H6083\|עַפְרֹ֖ת]] [[H2091\|זָהָ֣ב]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SAPPHIRE|SAPPHIRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.5|<< Job 28:5]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.7|Job 28:7 >>]]</td></tr></table>
 

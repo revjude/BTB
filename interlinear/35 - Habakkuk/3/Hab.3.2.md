@@ -1,8 +1,60 @@
+---
+title: Habakkuk 3:2
+type: Verse
+kjv: "O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy."
+bsb: "O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. Revive them in these years; make them known in these years. In Your wrath, remember mercy!"
+hebrew: "יְהוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲךָ֮ יָרֵאתִי֒ יְהוָ֗ה פָּֽעָלְךָ֙ בְּקֶ֤רֶב שָׁנִים֙ חַיֵּ֔יהוּ בְּקֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H8088B]]"
+- "[[H9021]]"
+- "[[H3372H]]"
+- "[[H6467]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H8141]]"
+- "[[H2421]]"
+- "[[H9033]]"
+- "[[H3045]]"
+- "[[H7267]]"
+- "[[H7355]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:2**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, I have heard thy speech, [and] was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.
 <small><sub>**BSB:**</sub></small>
 O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. Revive them in these years; make them known in these years. In Your wrath, remember mercy!
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֗ה]] [[H8085G\|שָׁמַ֣עְתִּי]] [[H8088B\|שִׁמְעֲ]][[H9021\|ךָ֮]] [[H3372H\|יָרֵאתִי֒]] [[H3068G\|יְהוָ֗ה]] [[H6467\|פָּֽעָלְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H7130G\|קֶ֤רֶב]] [[H8141\|שָׁנִים֙]] [[H2421\|חַיֵּ֔י]][[H9033\|הוּ]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H8141\|שָׁנִ֖ים]] [[H3045\|תּוֹדִ֑יעַ]] [[H9003\|בְּ]][[H7267\|רֹ֖גֶז]] [[H7355\|רַחֵ֥ם]] [[H2142\|תִּזְכּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic PROPHETS|PROPHETS]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.1|<< Habakkuk 3:1]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.3|Habakkuk 3:3 >>]]</td></tr></table>
 

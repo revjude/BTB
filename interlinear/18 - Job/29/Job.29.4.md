@@ -1,8 +1,54 @@
+---
+title: Job 29:4
+type: Verse
+kjv: "As I was in the days of my youth, when the secret of God was upon my tabernacle;"
+bsb: "when I was in my prime, when the friendship of God rested on my tent,"
+hebrew: "כַּאֲשֶׁ֣ר הָ֭יִיתִי בִּימֵ֣י חָרְפִּ֑י בְּס֥וֹד אֱ֝ל֗וֹהַּ עֲלֵ֣י אָהֳלִֽי׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2779]]"
+- "[[H9020]]"
+- "[[H5475]]"
+- "[[H0433]]"
+- "[[H5921A]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:4**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As I was in the days of my youth, when the secret of God [was] upon my tabernacle;
 <small><sub>**BSB:**</sub></small>
 when I was in my prime, when the friendship of God rested on my tent,
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1961\|הָ֭יִיתִי]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H2779\|חָרְפִּ֑]][[H9020\|י]] [[H9003\|בְּ]][[H5475\|ס֥וֹד]] [[H0433\|אֱ֝ל֗וֹהַּ]] [[H5921A\|עֲלֵ֣י]] [[H0168G\|אָהֳלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.3|<< Job 29:3]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.5|Job 29:5 >>]]</td></tr></table>
 

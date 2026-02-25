@@ -1,7 +1,7 @@
 
 **ARMOR**
 
-→ The equipment of a soldier [[Jer.46.3|Jer 46:3]],[[Jer.46.4|4]]; [[Eph.6.14|Eph 6:14]]-[[Eph.6.17|17]]
+→ The equipment of a soldier [[Jer.46.3|Jer 46:3]],[[Jer.46.4|4]]; [[Eph.6.14|Eph 6:14-17]]
 
 → See [[topic BREASTPLATE|BREASTPLATE]]
 
@@ -17,5 +17,5 @@
 
 → See [[topic SHIELD|SHIELD]]
 
-→ FIGURATIVE [[Rom.13.12|Ro 13:12]]; [[2Cor.6.7|2Co 6:7]]; [[2Cor.10.4|10:4]]; [[Eph.6.11|Eph 6:11]]-[[Eph.6.17|17]]; [[1Thess.5.8|1Th  5:8]]
+→ FIGURATIVE [[Rom.13.12|Ro 13:12]]; [[2Cor.6.7|2Co 6:7]]; [[2Cor.10.4|10:4]]; [[Eph.6.11|Eph 6:11-17]]; [[1Thess.5.8|1Th  5:8]]
 

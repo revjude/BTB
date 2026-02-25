@@ -1,8 +1,56 @@
+---
+title: Psalm 77:3
+type: Verse
+kjv: "I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah."
+bsb: "I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah"
+hebrew: "אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶֽהֱמָיָ֑ה אָשִׂ֓יחָה׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H2142]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H1993]]"
+- "[[H7878]]"
+- "[[H9015]]"
+- "[[H5848C]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:3**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
 <small><sub>**BSB:**</sub></small>
 I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|אֶזְכְּרָ֣ה]] [[H0430G\|אֱלֹהִ֣ים]] [[H9002\|וְ]][[H1993\|אֶֽהֱמָיָ֑ה]] [[H7878\|אָשִׂ֓יחָה]][[H9015\|׀]] [[H9002\|וְ]][[H5848C\|תִתְעַטֵּ֖ף]] [[H7307G\|רוּחִ֣]][[H9020\|י]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.2|<< Psalms 77:2]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.4|Psalms 77:4 >>]]</td></tr></table>
 

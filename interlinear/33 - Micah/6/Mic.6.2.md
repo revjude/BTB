@@ -1,8 +1,61 @@
+---
+title: Micah 6:2
+type: Verse
+kjv: "Hear ye, O mountains, the LORD’S controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel."
+bsb: "Hear, O mountains, the LORD’s indictment, you enduring foundations of the earth. For the LORD has a case against His people, and He will argue it against Israel:"
+hebrew: "שִׁמְע֤וּ הָרִים֙ אֶת־ רִ֣יב יְהוָ֔ה וְהָאֵתָנִ֖ים מֹ֣סְדֵי אָ֑רֶץ כִּ֣י רִ֤יב לַֽיהוָה֙ עִם־ עַמּ֔וֹ וְעִם־ יִשְׂרָאֵ֖ל יִתְוַכָּֽח׃"
+pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[H8085G]]"
+- "[[H2022G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7379]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0386]]"
+- "[[H4144]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H5973A]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H3198]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:2**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye, O mountains, the LORD’S controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.
 <small><sub>**BSB:**</sub></small>
 Hear, O mountains, the LORD’s indictment, you enduring foundations of the earth. For the LORD has a case against His people, and He will argue it against Israel:
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֤וּ]] [[H2022G\|הָרִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7379\|רִ֣יב]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0386\|אֵתָנִ֖ים]] [[H4144\|מֹ֣סְדֵי]] [[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּ֣י]] [[H7379\|רִ֤יב]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H5973A\|עִם]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3198\|יִתְוַכָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic REASONING|REASONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.1|<< Micah 6:1]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.3|Micah 6:3 >>]]</td></tr></table>
 

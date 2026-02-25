@@ -1,8 +1,65 @@
+---
+title: Genesis 48:10
+type: Verse
+kjv: "Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them."
+bsb: "Now Israel’s eyesight was poor because of old age; he could hardly see. Joseph brought his sons to him, and his father kissed them and embraced them."
+hebrew: "וְעֵינֵ֤י יִשְׂרָאֵל֙ כָּבְד֣וּ מִזֹּ֔קֶן לֹ֥א יוּכַ֖ל לִרְא֑וֹת וַיַּגֵּ֤שׁ אֹתָם֙ אֵלָ֔יו וַיִּשַּׁ֥ק לָהֶ֖ם וַיְחַבֵּ֥ק לָהֶֽם׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic KISS|KISS]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H3478]]"
+- "[[H3513J]]"
+- "[[H9006]]"
+- "[[H2207]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9001]]"
+- "[[H5066H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5401A]]"
+- "[[H2263]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:10**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the eyes of Israel were dim for age, [so that] he could not see. And he brought them near unto him; and he kissed them, and embraced them.
 <small><sub>**BSB:**</sub></small>
 Now Israel’s eyesight was poor because of old age; he could hardly see. Joseph brought his sons to him, and his father kissed them and embraced them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5869A\|עֵינֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H3513J\|כָּבְד֣וּ]] [[H9006\|מִ]][[H2207\|זֹּ֔קֶן]] [[H3808\|לֹ֥א]] [[H3201\|יוּכַ֖ל]] [[H9005\|לִ]][[H7200G\|רְא֑וֹת]] [[H9001\|וַ]][[H5066H\|יַּגֵּ֤שׁ]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H5401A\|יִּשַּׁ֥ק]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H2263\|יְחַבֵּ֥ק]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic KISS|KISS]] • [[topic MANASSEH|MANASSEH]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.9|<< Genesis 48:9]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.11|Genesis 48:11 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Job 38:8
+type: Verse
+kjv: "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?"
+bsb: "Who enclosed the sea behind doors when it burst forth from the womb,"
+hebrew: "וַיָּ֣סֶךְ בִּדְלָתַ֣יִם יָ֑ם בְּ֝גִיח֗וֹ מֵרֶ֥חֶם יֵצֵֽא׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5526A]]"
+- "[[H9003]]"
+- "[[H1817C]]"
+- "[[H3220G]]"
+- "[[H1518]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H7358]]"
+- "[[H3318M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:8**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or [who] shut up the sea with doors, when it brake forth, [as if] it had issued out of the womb?
 <small><sub>**BSB:**</sub></small>
 Who enclosed the sea behind doors when it burst forth from the womb,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5526A\|יָּ֣סֶךְ]] [[H9003\|בִּ]][[H1817C\|דְלָתַ֣יִם]] [[H3220G\|יָ֑ם]] [[H9003\|בְּ֝]][[H1518\|גִיח֗]][[H9043\|וֹ]] [[H9006\|מֵ]][[H7358\|רֶ֥חֶם]] [[H3318M\|יֵצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.7|<< Job 38:7]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.9|Job 38:9 >>]]</td></tr></table>
 

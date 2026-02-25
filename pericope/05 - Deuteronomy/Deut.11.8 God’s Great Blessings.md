@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Great Blessings
+type: Pericope
 pericope: "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 11
 book/chapter: "[[Deut.11|Deuteronomy 11]]"
-genre:
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.11.8]]"
 - "[[Deut.11.9]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.11.17]]"
 ---
 
-[[Deut.11|Deuteronomy 11:8 - Deuteronomy 11:17]]
+<small>[[Deut.11|Deuteronomy 11:8-17]]</small>
 *God’s Great Blessings*
 
 [[Deut.11.8|8]] Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;

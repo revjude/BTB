@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Proclaimed King
+type: Pericope
 pericope: "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 10
 book/chapter: "[[1Sam.10|1 Samuel 10]]"
-genre:
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.10.17]]"
 - "[[1Sam.10.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.10.27]]"
 ---
 
-[[1Sam.10|1 Samuel 10:17 - 1 Samuel 10:27]]
+<small>[[1Sam.10|1 Samuel 10:17-27]]</small>
 *Saul Proclaimed King*
 
 [[1Sam.10.17|17]] And Samuel called the people together unto the LORD to Mizpeh;

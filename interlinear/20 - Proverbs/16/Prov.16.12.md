@@ -1,8 +1,50 @@
+---
+title: Proverbs 16:12
+type: Verse
+kjv: "It is an abomination to kings to commit wickedness: for the throne is established by righteousness."
+bsb: "Wicked behavior is detestable for kings, for a throne is established through righteousness."
+hebrew: "תּוֹעֲבַ֣ת מְ֭לָכִים עֲשׂ֣וֹת רֶ֑שַׁע כִּ֥י בִ֝צְדָקָ֗ה יִכּ֥וֹן כִּסֵּֽא׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H8441]]"
+- "[[H4428G]]"
+- "[[H6213A]]"
+- "[[H7562]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H3559H]]"
+- "[[H3678G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:12**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] an abomination to kings to commit wickedness: for the throne is established by righteousness.
 <small><sub>**BSB:**</sub></small>
 Wicked behavior is detestable for kings, for a throne is established through righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H4428G\|מְ֭לָכִים]] [[H6213A\|עֲשׂ֣וֹת]] [[H7562\|רֶ֑שַׁע]] [[H3588A\|כִּ֥י]] [[H9003\|בִ֝]][[H6666\|צְדָקָ֗ה]] [[H3559H\|יִכּ֥וֹן]] [[H3678G\|כִּסֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.11|<< Proverbs 16:11]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.13|Proverbs 16:13 >>]]</td></tr></table>
 

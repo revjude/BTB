@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 28:54
+type: Verse
+kjv: "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:"
+bsb: "The most gentle and refined man among you will begrudge his brother, the wife he embraces, and the rest of his children who have survived,"
+hebrew: "הָאִישׁ֙ הָרַ֣ךְ בְּךָ֔ וְהֶעָנֹ֖ג מְאֹ֑ד תֵּרַ֨ע עֵינ֤וֹ בְאָחִיו֙ וּבְאֵ֣שֶׁת חֵיק֔וֹ וּבְיֶ֥תֶר בָּנָ֖יו אֲשֶׁ֥ר יוֹתִֽיר׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H7390]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6028]]"
+- "[[H3966]]"
+- "[[H7489A]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H0251I]]"
+- "[[H0802H]]"
+- "[[H2436G]]"
+- "[[H3499A]]"
+- "[[H1121A]]"
+- "[[H0834A]]"
+- "[[H3498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:54**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [So that] the man [that is] tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
 <small><sub>**BSB:**</sub></small>
 The most gentle and refined man among you will begrudge his brother, the wife he embraces, and the rest of his children who have survived,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9009\|הָ]][[H7390\|רַ֣ךְ]] [[H9003\|בְּ]][[H9031\|ךָ֔]] [[H9002\|וְ]][[H9009\|הֶ]][[H6028\|עָנֹ֖ג]] [[H3966\|מְאֹ֑ד]] [[H7489A\|תֵּרַ֨ע]] [[H5869I\|עֵינ֤]][[H9023\|וֹ]] [[H9003\|בְ]][[H0251I\|אָחִי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9003\|בְ]][[H0802H\|אֵ֣שֶׁת]] [[H2436G\|חֵיק֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3499A\|יֶ֥תֶר]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H3498\|יוֹתִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANNIBALISM|CANNIBALISM]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.53|<< Deuteronomy 28:53]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.55|Deuteronomy 28:55 >>]]</td></tr></table>
 

@@ -1,10 +1,73 @@
+---
+title: John 6:40
+type: Verse
+kjv: "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+bsb: "For it is My Father’s will that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise him up at the last day.”"
+jesus_said: "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+greek: "τοῦτο γάρ ἐστιν τὸ θέλημα τοῦ πατρός μου, ἵνα πᾶς ὁ θεωρῶν τὸν υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον, καὶ ἀναστήσω αὐτὸν ἐγὼ ἐν τῇ ἐσχάτῃ ἡμέρᾳ.¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2307]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G2334]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G0450]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2078]]"
+- "[[G2250]]"
+texts:
+- NKO
+- N(k)O
+- n
+---
+
 **John 6:40**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 <small><sub>**BSB:**</sub></small>
 For it is My Father’s will that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise him up at the last day.”
-<small><sub>**Literal:**</sub></small>
-This for is the will of the Father Mine, that everyone who is beholding the Son and believing in Him he may have life eternal, and will raise up him I myself in the last day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.39|<< John 6:39]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.41|John 6:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου,]]  [[G2443\|ἵνα]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2334\|θεωρῶν]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G2532\|καὶ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G2192\|ἔχῃ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον,]]  [[G2532\|καὶ]]  [[G0450\|ἀναστήσω]]  [[G0846\|αὐτὸν]]  [[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2078\|ἐσχάτῃ]]  [[G2250\|ἡμέρᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.39|<< John 6:39]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.41|John 6:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

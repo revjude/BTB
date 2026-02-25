@@ -1,10 +1,61 @@
+---
+title: Matthew 22:9
+type: Verse
+kjv: "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+bsb: "Go therefore to the crossroads and invite to the banquet as many as you can find.’"
+jesus_said: "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+greek: "πορεύεσθε οὖν ἐπὶ τὰς διεξόδους τῶν ὁδῶν, καὶ ὅσους ἐὰν εὕρητε, καλέσατε εἰς τοὺς γάμους."
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4198]]"
+- "[[G3767]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1327]]"
+- "[[G3598]]"
+- "[[G2532]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G2147]]"
+- "[[G2564G]]"
+- "[[G1519]]"
+- "[[G1062]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 22:9**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.
 <small><sub>**BSB:**</sub></small>
 Go therefore to the crossroads and invite to the banquet as many as you can find.’
-<small><sub>**Literal:**</sub></small>
-do go therefore into the thoroughfares of the highways, and as many as if you shall find, do invite to the wedding feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.8|<< Matthew 22:8]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.10|Matthew 22:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορεύεσθε]]  [[G3767\|οὖν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G1327\|διεξόδους]]  [[G3588\|τῶν]]  [[G3598\|ὁδῶν,]]  [[G2532\|καὶ]]  [[G3745\|ὅσους]]  [[G1437\|ἐὰν]]  [[G2147\|εὕρητε,]]  [[G2564G\|καλέσατε]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G1062\|γάμους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.8|<< Matthew 22:8]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.10|Matthew 22:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

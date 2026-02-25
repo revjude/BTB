@@ -1,10 +1,62 @@
+---
+title: Matthew 10:35
+type: Verse
+kjv: "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+bsb: "For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law."
+jesus_said: "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+greek: "ἦλθον γὰρ διχάσαι ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς καὶ νύμφην κατὰ τῆς πενθερᾶς αὐτῆς·"
+pericope: "[[Matt.10.34 Not Peace but a Sword|Not Peace but a Sword]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOTHER-IN-LAW|MOTHER-IN-LAW]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2064]]"
+- "[[G1063]]"
+- "[[G1369]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2364]]"
+- "[[G3384]]"
+- "[[G3565]]"
+- "[[G3994]]"
+texts:
+- NKO
+---
+
 **Matthew 10:35**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
 <small><sub>**BSB:**</sub></small>
 For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
-<small><sub>**Literal:**</sub></small>
-I came for to set at variance A man against the father of him and a daughter against the mother of her and a daughter-in-law against the mother-in-law of her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.34|<< Matthew 10:34]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.36|Matthew 10:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθον]]  [[G1063\|γὰρ]]  [[G1369\|διχάσαι]]  [[G0444\|ἄνθρωπον]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2364\|θυγατέρα]]  [[G2596\|κατὰ]]  [[G3588\|τῆς]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G3565\|νύμφην]]  [[G2596\|κατὰ]]  [[G3588\|τῆς]]  [[G3994\|πενθερᾶς]]  [[G0846\|αὐτῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOTHER-IN-LAW|MOTHER-IN-LAW]] • [[topic PEACE|PEACE]] • [[topic STRIFE|STRIFE]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.34|<< Matthew 10:34]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.36|Matthew 10:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 10:35** is...
 > $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]

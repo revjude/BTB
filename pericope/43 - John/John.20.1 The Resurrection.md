@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection
+type: Pericope
 pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: John
 chapter: 20
 book/chapter: "[[John.20|John 20]]"
-genre:
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 9
 verses:
 - "[[John.20.1]]"
 - "[[John.20.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[John.20.9]]"
 ---
 
-[[John.20|John 20:1 - John 20:9]]
+<small>[[John.20|John 20:1-9]]</small>
 *The Resurrection*
 
 [[John.20.1|1]] The first \[day\] of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.

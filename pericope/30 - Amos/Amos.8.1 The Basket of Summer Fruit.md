@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Basket of Summer Fruit
+type: Pericope
 pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 8
 book/chapter: "[[Amos.8|Amos 8]]"
-genre:
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 14
 verses:
 - "[[Amos.8.1]]"
 - "[[Amos.8.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Amos.8.14]]"
 ---
 
-[[Amos.8|Amos 8:1 - Amos 8:14]]
+<small>[[Amos.8|Amos 8:1-14]]</small>
 *The Basket of Summer Fruit*
 
 [[Amos.8.1|1]] Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.

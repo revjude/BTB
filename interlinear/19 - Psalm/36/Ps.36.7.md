@@ -1,8 +1,60 @@
+---
+title: Psalm 36:7
+type: Verse
+kjv: "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+bsb: "How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings!"
+hebrew: "מַה־ יָּקָ֥ר חַסְדְּךָ֗ אֱלֹ֫הִ֥ים וּבְנֵ֥י אָדָ֑ם בְּצֵ֥ל כְּ֝נָפֶ֗יךָ יֶחֱסָיֽוּן׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3368]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H3671]]"
+- "[[H2620]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:7**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How excellent [is] thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.
 <small><sub>**BSB:**</sub></small>
 How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings!
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H3368\|יָּקָ֥ר]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֗]] [[H0430G\|אֱלֹ֫הִ֥ים]] [[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H0120G\|אָדָ֑ם]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H3671\|כְּ֝נָפֶ֗י]][[H9021\|ךָ]] [[H2620\|יֶחֱסָיֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.6|<< Psalms 36:6]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.8|Psalms 36:8 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 8:3
+type: Verse
+kjv: "And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed."
+bsb: "Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed."
+jesus_said: "I will; be thou clean."
+greek: "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ ὁ Ἰησοῦς λέγων· θέλω, καθαρίσθητι. καὶ εὐθέως ἐκαθαρίσθη αὐτοῦ ἡ λέπρα."
+pericope: "[[Matt.8.1 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0681]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G2309]]"
+- "[[G2511]]"
+- "[[G2112]]"
+- "[[G3014]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 8:3**<big><big>[[Matt.8.1 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus put forth [his] hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.
 <small><sub>**BSB:**</sub></small>
 Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed.
-<small><sub>**Literal:**</sub></small>
-And having stretched out the hand He touched of him <the> Jesus saying; I am willing, do be cleansed. And immediately was cleansed his <the> leprosy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.2|<< Matthew 8:2]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.4|Matthew 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1614\|ἐκτείνας]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0681\|ἥψατο]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G2309\|θέλω,]]  [[G2511\|καθαρίσθητι.]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G2511\|ἐκαθαρίσθη]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G3014\|λέπρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.2|<< Matthew 8:2]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.4|Matthew 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

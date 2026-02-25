@@ -1,10 +1,61 @@
+---
+title: Hebrews 10:26
+type: Verse
+kjv: "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,"
+bsb: "If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains,"
+greek: "Ἑκουσίως γὰρ ἁμαρτανόντων ἡμῶν μετὰ τὸ λαβεῖν τὴν ἐπίγνωσιν τῆς ἀληθείας οὐκέτι οὐκέτι περὶ ἁμαρτιῶν ἀπολείπεται θυσία,"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1596]]"
+- "[[G1063]]"
+- "[[G0264]]"
+- "[[G3165]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G2983]]"
+- "[[G1922]]"
+- "[[G0225]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G0620]]"
+- "[[G2378]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:26**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 <small><sub>**BSB:**</sub></small>
 If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains,
-<small><sub>**Literal:**</sub></small>
-[If] willingly for sin we after [we are] <the> to receive the knowledge of the truth no longer for sins remains a sacrifice,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.25|<< Hebrews 10:25]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.27|Hebrews 10:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1596\|Ἑκουσίως]]  [[G1063\|γὰρ]]  [[G0264\|ἁμαρτανόντων]]  [[G3165\|ἡμῶν]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G2983\|λαβεῖν]]  [[G3588\|τὴν]]  [[G1922\|ἐπίγνωσιν]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G4012\|περὶ]]  [[G0266\|ἁμαρτιῶν]]  [[G0620\|ἀπολείπεται]]  [[G2378\|θυσία,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.25|<< Hebrews 10:25]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.27|Hebrews 10:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 5:15
+type: Verse
+kjv: "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."
+bsb: "And He died for all, that those who live should no longer live for themselves, but for Him who died for them and was raised again."
+greek: "καὶ ὑπὲρ πάντων ἀπέθανεν, ἵνα οἱ ζῶντες μηκέτι ἑαυτοῖς ζῶσιν ἀλλὰ τῷ ὑπὲρ αὐτῶν ἀποθανόντι καὶ ἐγερθέντι.¶"
+pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5228]]"
+- "[[G3956]]"
+- "[[G0599]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G3371]]"
+- "[[G1438]]"
+- "[[G0235]]"
+- "[[G0846]]"
+- "[[G1453]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 5:15**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [that] he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.
 <small><sub>**BSB:**</sub></small>
 And He died for all, that those who live should no longer live for themselves, but for Him who died for them and was raised again.
-<small><sub>**Literal:**</sub></small>
-And for all He died, that those living no longer to themselves may live but to the [One] for them having died and having been raised again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.14|<< 2 Corinthians 5:14]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.16|2 Corinthians 5:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντων]]  [[G0599\|ἀπέθανεν,]]  [[G2443\|ἵνα]]  [[G3588\|οἱ]]  [[G2198\|ζῶντες]]  [[G3371\|μηκέτι]]  [[G1438\|ἑαυτοῖς]]  [[G2198\|ζῶσιν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G5228\|ὑπὲρ]]  [[G0846\|αὐτῶν]]  [[G0599\|ἀποθανόντι]]  [[G2532\|καὶ]]  [[G1453\|ἐγερθέντι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic OBLIGATION|OBLIGATION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic SUFFERING|SUFFERING]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.14|<< 2 Corinthians 5:14]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.16|2 Corinthians 5:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

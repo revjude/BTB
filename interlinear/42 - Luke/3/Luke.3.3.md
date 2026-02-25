@@ -1,10 +1,57 @@
+---
+title: Luke 3:3
+type: Verse
+kjv: "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;"
+bsb: "He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins,"
+greek: "καὶ ἦλθεν εἰς πᾶσαν τὴν περίχωρον τοῦ Ἰορδάνου κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4066]]"
+- "[[G2446]]"
+- "[[G2784]]"
+- "[[G0908]]"
+- "[[G3341]]"
+- "[[G0859]]"
+- "[[G0266]]"
+texts:
+- NKO
+---
+
 **Luke 3:3**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
 <small><sub>**BSB:**</sub></small>
 He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins,
-<small><sub>**Literal:**</sub></small>
-And he went into all the surrounding region of the Jordan proclaiming a baptism of repentance for forgiveness of sins<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.2|<< Luke 3:2]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.4|Luke 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G4066\|περίχωρον]]  [[G3588\|τοῦ]]  [[G2446\|Ἰορδάνου]]  [[G2784\|κηρύσσων]]  [[G0908\|βάπτισμα]]  [[G3341\|μετανοίας]]  [[G1519\|εἰς]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic JUDEA|JUDEA]] • [[topic PREACHING|PREACHING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.2|<< Luke 3:2]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.4|Luke 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

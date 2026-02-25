@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel Anoints David
+type: Pericope
 pericope: "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 16
 book/chapter: "[[1Sam.16|1 Samuel 16]]"
-genre:
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[1Sam.16.1]]"
 - "[[1Sam.16.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Sam.16.13]]"
 ---
 
-[[1Sam.16|1 Samuel 16:1 - 1 Samuel 16:13]]
+<small>[[1Sam.16|1 Samuel 16:1-13]]</small>
 *Samuel Anoints David*
 
 [[1Sam.16.1|1]] And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons.

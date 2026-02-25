@@ -1,10 +1,56 @@
+---
+title: Romans 16:3
+type: Verse
+kjv: "Greet Priscilla and Aquila my helpers in Christ Jesus:"
+bsb: "Greet Prisca and Aquila, my fellow workers in Christ Jesus,"
+greek: "Ἀσπάσασθε Πρίσκαν καὶ Ἀκύλαν τοὺς συνεργούς μου ἐν Χριστῷ Ἰησοῦ,"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRISCILLA|PRISCILLA]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G0782]]"
+- "[[G4251]]"
+- "[[G2532]]"
+- "[[G0207]]"
+- "[[G3588]]"
+- "[[G4904]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 16:3**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greet Priscilla and Aquila my helpers in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Greet Prisca and Aquila, my fellow workers in Christ Jesus,
-<small><sub>**Literal:**</sub></small>
-do greet Prisca and Aquila the fellow workers of mine in Christ Jesus —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.2|<< Romans 16:2]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.4|Romans 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G4251\|Πρίσκαν]]  [[G2532\|καὶ]]  [[G0207\|Ἀκύλαν]]  [[G3588\|τοὺς]]  [[G4904\|συνεργούς]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]] • [[topic CONSTANCY|CONSTANCY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic LOVE|LOVE]] • [[topic PRISCILLA|PRISCILLA]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.2|<< Romans 16:2]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.4|Romans 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Leviticus 26:10
+type: Verse
+kjv: "And ye shall eat old store, and bring forth the old because of the new."
+bsb: "You will still be eating the old supply of grain when you need to clear it out to make room for the new."
+hebrew: "וַאֲכַלְתֶּ֥ם יָשָׁ֖ן נוֹשָׁ֑ן וְיָשָׁ֕ן מִפְּנֵ֥י חָדָ֖שׁ תּוֹצִֽיאוּ׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H3465H]]"
+- "[[H3462]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H2319H]]"
+- "[[H3318H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:10**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat old store, and bring forth the old because of the new.
 <small><sub>**BSB:**</sub></small>
 You will still be eating the old supply of grain when you need to clear it out to make room for the new.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֥ם]] [[H3465H\|יָשָׁ֖ן]] [[H3462\|נוֹשָׁ֑ן]] [[H9002\|וְ]][[H3465H\|יָשָׁ֕ן]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H2319H\|חָדָ֖שׁ]] [[H3318H\|תּוֹצִֽיאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.9|<< Leviticus 26:9]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.11|Leviticus 26:11 >>]]</td></tr></table>
 

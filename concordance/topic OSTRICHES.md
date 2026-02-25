@@ -1,7 +1,7 @@
 
 **OSTRICHES**
 
-→ General scriptures concerning [[Job.39.13|Job 39:13]]-[[Job.39.18|18]]; [[Lam.4.3|La 4:3]]; [[Isa.13.21|Isa 13:21]]; [[Isa.34.13|34:13]]; [[Isa.43.20|43:20]]
+→ General scriptures concerning [[Job.39.13|Job 39:13-18]]; [[Lam.4.3|La 4:3]]; [[Isa.13.21|Isa 13:21]]; [[Isa.34.13|34:13]]; [[Isa.43.20|43:20]]
 
 → The cry of [[Mic.1.8|Mic 1:8]]
 

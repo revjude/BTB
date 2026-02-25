@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prayer for All Believers
+type: Pericope
 pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: John
 chapter: 17
 book/chapter: "[[John.17|John 17]]"
-genre:
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 7
 verses:
 - "[[John.17.20]]"
 - "[[John.17.21]]"
@@ -25,7 +32,7 @@ verses:
 - "[[John.17.26]]"
 ---
 
-[[John.17|John 17:20 - John 17:26]]
+<small>[[John.17|John 17:20-26]]</small>
 *Prayer for All Believers*
 
 [[John.17.20|20]] Neither pray I for these alone, but for them also which shall believe on me through their word;

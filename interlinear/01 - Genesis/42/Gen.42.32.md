@@ -1,8 +1,64 @@
+---
+title: Genesis 42:32
+type: Verse
+kjv: "We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan."
+bsb: "We are twelve brothers, sons of one father. One is no more, and the youngest is now with our father in the land of Canaan.’"
+hebrew: "שְׁנֵים־ עָשָׂ֥ר אֲנַ֛חְנוּ אַחִ֖ים בְּנֵ֣י אָבִ֑ינוּ הָאֶחָ֣ד אֵינֶ֔נּוּ וְהַקָּטֹ֥ן הַיּ֛וֹם אֶת־ אָבִ֖ינוּ בְּאֶ֥רֶץ כְּנָֽעַן׃"
+pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H0587]]"
+- "[[H0251G]]"
+- "[[H1121A]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H6996H]]"
+- "[[H3117L]]"
+- "[[H0854]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:32**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We [be] twelve brethren, sons of our father; one [is] not, and the youngest [is] this day with our father in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
 We are twelve brothers, sons of one father. One is no more, and the youngest is now with our father in the land of Canaan.’
+<small><sub>**Hebrew:**</sub></small>
+[[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0587\|אֲנַ֛חְנוּ]] [[H0251G\|אַחִ֖ים]] [[H1121A\|בְּנֵ֣י]] [[H0001G\|אָבִ֑י]][[H9025\|נוּ]] [[H9009\|הָ]][[H0259\|אֶחָ֣ד]] [[H0369\|אֵינֶ֔]][[H9043\|נּוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H6996H\|קָּטֹ֥ן]] [[H9009\|הַ]][[H3117L\|יּ֛וֹם]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.31|<< Genesis 42:31]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.33|Genesis 42:33 >>]]</td></tr></table>
 

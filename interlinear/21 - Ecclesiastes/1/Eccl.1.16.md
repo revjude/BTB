@@ -1,8 +1,66 @@
+---
+title: Ecclesiastes 1:16
+type: Verse
+kjv: "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+bsb: "I said to myself, “Behold, I have grown and increased in wisdom beyond all those before me who were over Jerusalem, and my mind has observed a wealth of wisdom and knowledge.”"
+hebrew: "דִּבַּ֨רְתִּי אֲנִ֤י עִם־ לִבִּי֙ לֵאמֹ֔ר אֲנִ֗י הִנֵּ֨ה הִגְדַּ֤לְתִּי וְהוֹסַ֙פְתִּי֙ חָכְמָ֔ה עַ֛ל כָּל־ אֲשֶׁר־ הָיָ֥ה לְפָנַ֖י עַל־ יְרוּשָׁלִָ֑ם וְלִבִּ֛י רָאָ֥ה הַרְבֵּ֖ה חָכְמָ֥ה וָדָֽעַת׃"
+pericope: "[[Eccl.1.12 With Wisdom Comes Sorrow|With Wisdom Comes Sorrow]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic SCIENCE|SCIENCE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0589]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1431]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H2451]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H3389]]"
+- "[[H7200H]]"
+- "[[H7235A]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:16**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all [they] that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 <small><sub>**BSB:**</sub></small>
 I said to myself, “Behold, I have grown and increased in wisdom beyond all those before me who were over Jerusalem, and my mind has observed a wealth of wisdom and knowledge.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דִּבַּ֨רְתִּי]] [[H0589\|אֲנִ֤י]] [[H5973A\|עִם]][[H9014\|־]] [[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0589\|אֲנִ֗י]] [[H2009\|הִנֵּ֨ה]] [[H1431\|הִגְדַּ֤לְתִּי]] [[H9002\|וְ]][[H3254H\|הוֹסַ֙פְתִּי֙]] [[H2451\|חָכְמָ֔ה]] [[H5921A\|עַ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3820A\|לִבִּ֛]][[H9020\|י]] [[H7200H\|רָאָ֥ה]] [[H7235A\|הַרְבֵּ֖ה]] [[H2451\|חָכְמָ֥ה]] [[H9002\|וָ]][[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic SCIENCE|SCIENCE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.15|<< Ecclesiastes 1:15]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.17|Ecclesiastes 1:17 >>]]</td></tr></table>
 

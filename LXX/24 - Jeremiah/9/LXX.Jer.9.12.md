@@ -1,6 +1,68 @@
+---
+title: LXX Jeremiah 9:12
+type: Verse
+lxx: "Who is the discerning man? then let him perceive this! And the word of the mouth of the lord is with him, let him announce to you on account of why the land was destroyed! It was lit on fire as a wilderness, so as  to not travel through it."
+greek: "τις ο άνθρωπος ο συνετός και συνέτω τούτο και ο λόγος στόματος κυρίου προς αυτόν αναγγειλάτω υμίν ένεκεν τίνος απώλετο η γη ανήφθη ως έρημος παρά το μη διοδεύεσθαι αυτήν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G4908]]"
+- "[[G2532]]"
+- "[[G4920]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4750]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G0312]]"
+- "[[G1473]]"
+- "[[G1752]]"
+- "[[G5100]]"
+- "[[G0622]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G0381]]"
+- "[[G5613]]"
+- "[[G2048]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1353]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 9:12** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] the discerning man? then let him perceive this! And the word of \[the\] mouth of \[the\] <span class="smallcaps">lord</span> \[is\] with him, let him announce to you on account of why the land was destroyed! It was lit \[on fire\] as a wilderness, so as  to not travel through it. 
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τις]] [[G3588\|ο]] [[G0444\|άνθρωπος]] [[G3588\|ο]] [[G4908\|συνετός]] [[G2532\|και]] [[G4920\|συνέτω]] [[G3778\|τούτο]] [[G2532\|και]] [[G3588\|ο]] [[G3056\|λόγος]] [[G4750\|στόματος]] [[G2962\|κυρίου]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G0312\|αναγγειλάτω]] [[G1473\|υμίν]] [[G1752\|ένεκεν]] [[G5100\|τίνος]] [[G0622\|απώλετο]] [[G3588\|η]] [[G1093\|γη]] [[G0381\|ανήφθη]] [[G5613\|ως]] [[G2048\|έρημος]] [[G3844\|παρά]] [[G3588\|το]] [[G3361\|μη]] [[G1353\|διοδεύεσθαι]] [[G1473\|αυτήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
@@ -36,6 +98,6 @@ Who \[is\] the discerning man? then let him perceive this! And the word of \[the
 | to not | **<big>[[G3361\|μη]]</big>** |
 | travel through | **<big>[[G1353\|διοδεύεσθαι]]</big>** |
 | it. | **<big>[[G1473\|αυτήν]]</big>** |
-[[Jer.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
 

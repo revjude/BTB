@@ -1,8 +1,79 @@
+---
+title: 1 Samuel 6:18
+type: Verse
+kjv: "And the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fenced cities, and of country villages, even unto the great stone of Abel, whereon they set down the ark of the LORD: which stone remaineth unto this day in the field of Joshua, the Bethshemite."
+bsb: "The number of gold rats also corresponded to the number of Philistine cities belonging to the five rulers—the fortified cities and their outlying villages. And the large rock on which they placed the ark of the LORD stands to this day in the field of Joshua of Beth-shemesh."
+hebrew: "וְעַכְבְּרֵ֣י הַזָּהָ֗ב מִסְפַּ֞ר כָּל־ עָרֵ֤י פְלִשְׁתִּים֙ לַחֲמֵ֣שֶׁת הַסְּרָנִ֔ים מֵעִ֣יר מִבְצָ֔ר וְעַ֖ד כֹּ֣פֶר הַפְּרָזִ֑י וְעַ֣ד׀ אָבֵ֣ל הַגְּדוֹלָ֗ה אֲשֶׁ֨ר הִנִּ֤יחוּ עָלֶ֙יהָ֙ אֵ֚ת אֲר֣וֹן יְהוָ֔ה עַ֚ד הַיּ֣וֹם הַזֶּ֔ה בִּשְׂדֵ֥ה יְהוֹשֻׁ֖עַ בֵּֽית־ הַשִּׁמְשִֽׁי׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUSE|MOUSE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5909]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H4557]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H2568]]"
+- "[[H5633A]]"
+- "[[H9006]]"
+- "[[H4013]]"
+- "[[H5704]]"
+- "[[H3724D]]"
+- "[[H6521]]"
+- "[[H9015]]"
+- "[[H0059G]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H5117]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H3091H]]"
+- "[[H1030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:18**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the golden mice, [according to] the number of all the cities of the Philistines [belonging] to the five lords, [both] of fenced cities, and of country villages, even unto the great [stone of] Abel, whereon they set down the ark of the LORD: [which stone remaineth] unto this day in the field of Joshua, the Bethshemite.
 <small><sub>**BSB:**</sub></small>
 The number of gold rats also corresponded to the number of Philistine cities belonging to the five rulers—the fortified cities and their outlying villages. And the large rock on which they placed the ark of the LORD stands to this day in the field of Joshua of Beth-shemesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5909\|עַכְבְּרֵ֣י]] [[H9009\|הַ]][[H2091\|זָּהָ֗ב]] [[H4557\|מִסְפַּ֞ר]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֤י]] [[H6430G\|פְלִשְׁתִּים֙]] [[H9005\|לַ]][[H2568\|חֲמֵ֣שֶׁת]] [[H9009\|הַ]][[H5633A\|סְּרָנִ֔ים]] [[H9006\|מֵ]][[H5892B\|עִ֣יר]] [[H4013\|מִבְצָ֔ר]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H3724D\|כֹּ֣פֶר]] [[H9009\|הַ]][[H6521\|פְּרָזִ֑י]] [[H9002\|וְ]][[H5704\|עַ֣ד]][[H9015\|׀]] [[H0059G\|אָבֵ֣ל]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5117\|הִנִּ֤יחוּ]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H0853\|אֵ֚ת]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַ֚ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֥ה]] [[H3091H\|יְהוֹשֻׁ֖עַ]] [[H1030\|בֵּֽית]][[H9014\|־]] [[H9009\|הַ]][[H1030\|שִּׁמְשִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic JOSHUA|JOSHUA]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUSE|MOUSE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.17|<< 1 Samuel 6:17]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.19|1 Samuel 6:19 >>]]</td></tr></table>
 

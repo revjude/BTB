@@ -1,8 +1,65 @@
+---
+title: Genesis 21:27
+type: Verse
+kjv: "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
+bsb: "So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a covenant."
+hebrew: "וַיִּקַּ֤ח אַבְרָהָם֙ צֹ֣אן וּבָקָ֔ר וַיִּתֵּ֖ן לַאֲבִימֶ֑לֶךְ וַיִּכְרְת֥וּ שְׁנֵיהֶ֖ם בְּרִֽית׃"
+pericope: "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABIMELECH|ABIMELECH]]"
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TOKEN|TOKEN]]"
+- "[[topic WELLS|WELLS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0085]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0040G]]"
+- "[[H3772H]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:27**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.
 <small><sub>**BSB:**</sub></small>
 So Abraham brought sheep and cattle and gave them to Abimelech, and the two men made a covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H0085\|אַבְרָהָם֙]] [[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֔ר]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֖ן]] [[H9005\|לַ]][[H0040G\|אֲבִימֶ֑לֶךְ]] [[H9001\|וַ]][[H3772H\|יִּכְרְת֥וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֖ם]] [[H1285\|בְּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIMELECH|ABIMELECH]] • [[topic ABRAHAM|ABRAHAM]] • [[topic ALLIANCES|ALLIANCES]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic RULERS|RULERS]] • [[topic TOKEN|TOKEN]] • [[topic WELLS|WELLS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.26|<< Genesis 21:26]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.28|Genesis 21:28 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Luke 7:1
+type: Verse
+kjv: "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+bsb: "When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum."
+greek: "Ἐπειδὴ ἐπλήρωσεν πάντα τὰ ῥήματα αὐτοῦ εἰς τὰς ἀκοὰς τοῦ λαοῦ, εἰσῆλθεν εἰς Καφαρναούμ."
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G1894]]"
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0189]]"
+- "[[G2992]]"
+- "[[G1525]]"
+- "[[G2584]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 7:1**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
 <small><sub>**BSB:**</sub></small>
 When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum.
-<small><sub>**Literal:**</sub></small>
-And since He had completed all the declarations of Him in the hearing of the people, He entered into Capernaum.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.49|<< Luke 6:49]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.2|Luke 7:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1894\|Ἐπειδὴ]]  [[G4137\|ἐπλήρωσεν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G0189\|ἀκοὰς]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ,]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναούμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.49|<< Luke 6:49]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.2|Luke 7:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

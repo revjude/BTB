@@ -1,10 +1,64 @@
+---
+title: Matthew 20:31
+type: Verse
+kjv: "And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, thou Son of David."
+bsb: "The crowd admonished them to be silent, but they cried out all the louder, “Lord, Son of David, have mercy on us!”"
+greek: "Ὁ δὲ ὄχλος ἐπετίμησεν αὐτοῖς ἵνα σιωπήσωσιν. οἱ δὲ μεῖζον ἔκραξαν λέγοντες· ἐλέησον ἡμᾶς κύριε, υἱὸς Δαυίδ.¶"
+pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3793]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4623]]"
+- "[[G3173]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G1653]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G5207]]"
+- "[[G1138]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Matthew 20:31**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, [thou] Son of David.
 <small><sub>**BSB:**</sub></small>
 The crowd admonished them to be silent, but they cried out all the louder, “Lord, Son of David, have mercy on us!”
-<small><sub>**Literal:**</sub></small>
-<the> And the crowd rebuked them that they may be silent. <the> But all the more they cried out saying: do have mercy on us Lord, Son of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.30|<< Matthew 20:30]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.32|Matthew 20:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G3793\|ὄχλος]]  [[G2008\|ἐπετίμησεν]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G4623\|σιωπήσωσιν.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3173\|μεῖζον]]  [[G2896\|ἔκραξαν]]  [[G3004G\|λέγοντες·]]  [[G1653\|ἐλέησον]]  [[G3165\|ἡμᾶς]]  [[G2962G\|κύριε,]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.30|<< Matthew 20:30]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.32|Matthew 20:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

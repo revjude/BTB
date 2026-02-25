@@ -9,7 +9,7 @@
 
 - Sheba [[2Sam.20|2Sa 20]]
 
-- Revolt of the ten tribes [[1Kgs.12.16|1Ki 12:16]]-[[1Kgs.12.20|20]]; [[2Chr.10|2Ch 10]]; [[2Chr.13.5|13:5]]-[[2Chr.13.12|12]]
+- Revolt of the ten tribes [[1Kgs.12.16|1Ki 12:16-20]]; [[2Chr.10|2Ch 10]]; [[2Chr.13.5|13:5-12]]
 
 - See [[topic SIN|SIN]]
 

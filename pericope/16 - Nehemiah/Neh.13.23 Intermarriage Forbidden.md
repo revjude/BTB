@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Intermarriage Forbidden
+type: Pericope
 pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 13
 book/chapter: "[[Neh.13|Nehemiah 13]]"
-genre:
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 9
 verses:
 - "[[Neh.13.23]]"
 - "[[Neh.13.24]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Neh.13.31]]"
 ---
 
-[[Neh.13|Nehemiah 13:23 - Nehemiah 13:31]]
+<small>[[Neh.13|Nehemiah 13:23-31]]</small>
 *Intermarriage Forbidden*
 
 [[Neh.13.23|23]] In those days also saw I Jews \[that\] had married wives of Ashdod, of Ammon, \[and\] of Moab:

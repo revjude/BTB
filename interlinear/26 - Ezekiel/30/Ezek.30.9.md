@@ -1,8 +1,69 @@
+---
+title: Ezekiel 30:9
+type: Verse
+kjv: "In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh."
+bsb: "On that day messengers will go out from Me in ships to frighten Cush out of complacency. Anguish will come upon them on the day of Egypt’s doom. For it is indeed coming."
+hebrew: "בַּיּ֣וֹם הַה֗וּא יֵצְא֨וּ מַלְאָכִ֤ים מִלְּפָנַי֙ בַּצִּ֔ים לְהַחֲרִ֖יד אֶת־ כּ֣וּשׁ בֶּ֑טַח וְהָיְתָ֨ה חַלְחָלָ֤ה בָהֶם֙ בְּי֣וֹם מִצְרַ֔יִם כִּ֥י הִנֵּ֖ה בָּאָֽה׃ ס"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3318G]]"
+- "[[H4397G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H6716]]"
+- "[[H2729]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3568A]]"
+- "[[H0983]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2479]]"
+- "[[H9038]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 30:9**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh.
 <small><sub>**BSB:**</sub></small>
 On that day messengers will go out from Me in ships to frighten Cush out of complacency. Anguish will come upon them on the day of Egypt’s doom. For it is indeed coming.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H3318G\|יֵצְא֨וּ]] [[H4397G\|מַלְאָכִ֤ים]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9003\|בַּ]][[H6716\|צִּ֔ים]] [[H9005\|לְ]][[H2729\|הַחֲרִ֖יד]] [[H0853\|אֶת]][[H9014\|־]] [[H3568A\|כּ֣וּשׁ]] [[H0983\|בֶּ֑טַח]] [[H9001\|וְ]][[H1961\|הָיְתָ֨ה]] [[H2479\|חַלְחָלָ֤ה]] [[H9003\|בָ]][[H9038\|הֶם֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H4714G\|מִצְרַ֔יִם]] [[H3588A\|כִּ֥י]] [[H2009\|הִנֵּ֖ה]] [[H0935G\|בָּאָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.8|<< Ezekiel 30:8]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.10|Ezekiel 30:10 >>]]</td></tr></table>
 
@@ -25,7 +86,7 @@ On that day messengers will go out from Me in ships to frighten Cush out of comp
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֖ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [it is] coming  |**<big>&#8207;[[H0935G\|בָּאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [it is] coming  |**<big>&#8207;[[H0935G\|בָּאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.8|<< Ezekiel 30:8]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.10|Ezekiel 30:10 >>]]</td></tr></table>
 
 

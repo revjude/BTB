@@ -1,8 +1,73 @@
+---
+title: Genesis 3:11
+type: Verse
+kjv: "And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
+bsb: "“Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”"
+hebrew: "וַיֹּ֕אמֶר מִ֚י הִגִּ֣יד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה הֲמִן־ הָעֵ֗ץ אֲשֶׁ֧ר צִוִּיתִ֛יךָ לְבִלְתִּ֥י אֲכָל־ מִמֶּ֖נּוּ אָכָֽלְתָּ׃"
+pericope: "[[Gen.3.8 God Arraigns Adam and Eve|God Arraigns Adam and Eve]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H5903]]"
+- "[[H0859A]]"
+- "[[H9008]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6086H]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H1115]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:11**<big><big>[[Gen.3.8 God Arraigns Adam and Eve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Who told thee that thou [wast] naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 <small><sub>**BSB:**</sub></small>
 “Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4310\|מִ֚י]] [[H5046\|הִגִּ֣יד]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H3588A\|כִּ֥י]] [[H5903\|עֵירֹ֖ם]] [[H0859A\|אָ֑תָּה]] [[H9008\|הֲ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H6086H\|עֵ֗ץ]] [[H0834A\|אֲשֶׁ֧ר]] [[H6680\|צִוִּיתִ֛י]][[H9031\|ךָ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H0398\|אֲכָל]][[H9014\|־]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H0398\|אָכָֽלְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic ESCAPE|ESCAPE]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GOD|GOD]] • [[topic INNOCENCY|INNOCENCY]] • [[topic REVERENCE|REVERENCE]] • [[topic SERPENT|SERPENT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TREE|TREE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.10|<< Genesis 3:10]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.12|Genesis 3:12 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Genesis 36:1
+type: Verse
+kjv: "Now these are the generations of Esau, who is Edom."
+bsb: "This is the account of Esau (that is, Edom)."
+hebrew: "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו ה֥וּא אֱדֽוֹם׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDOM|EDOM]]"
+- "[[topic ESAU|ESAU]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H6215G]]"
+- "[[H1931]]"
+- "[[H0123H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:1**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of Esau, who [is] Edom.
 <small><sub>**BSB:**</sub></small>
 This is the account of Esau (that is, Edom).
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H8435\|תֹּלְד֥וֹת]] [[H6215G\|עֵשָׂ֖ו]] [[H1931\|ה֥וּא]] [[H0123H\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOM|EDOM]] • [[topic ESAU|ESAU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.29|<< Genesis 35:29]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.2|Genesis 36:2 >>]]</td></tr></table>
 

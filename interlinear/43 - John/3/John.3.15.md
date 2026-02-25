@@ -1,10 +1,63 @@
+---
+title: John 3:15
+type: Verse
+kjv: "That whosoever believeth in him should not perish, but have eternal life."
+bsb: "that everyone who believes in Him may have eternal life."
+jesus_said: "That whosoever believeth in him should not perish, but have eternal life."
+greek: "ἵνα πᾶς ὁ πιστεύων ἐν αὐτῷ μὴ ἀπόληται ἀλλ᾽ ἔχῃ ζωὴν αἰώνιον."
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BRAZEN SERPENT|BRAZEN SERPENT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 3:15**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That whosoever believeth in him should not perish, but have eternal life.
 <small><sub>**BSB:**</sub></small>
 that everyone who believes in Him may have eternal life.
-<small><sub>**Literal:**</sub></small>
-so that everyone who is believing in Him not may perish but may have life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.14|<< John 3:14]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.16|John 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3361\|μὴ]]  [[G0622\|ἀπόληται]]  [[G0235\|ἀλλ᾽]]  [[G2192\|ἔχῃ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRAZEN SERPENT|BRAZEN SERPENT]] • [[topic FAITH|FAITH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic TYPES|TYPES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.14|<< John 3:14]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.16|John 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

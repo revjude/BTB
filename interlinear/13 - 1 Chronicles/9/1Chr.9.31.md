@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 9:31
+type: Verse
+kjv: "And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans."
+bsb: "A Levite named Mattithiah, the firstborn son of Shallum the Korahite, was entrusted with baking the bread."
+hebrew: "וּמַתִּתְיָה֙ מִן־ הַלְוִיִּ֔ם ה֥וּא הַבְּכ֖וֹר לְשַׁלֻּ֣ם הַקָּרְחִ֑י בֶּאֱמוּנָ֕ה עַ֖ל מַעֲשֵׂ֥ה הַחֲבִתִּֽים׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MATTITHIAH|MATTITHIAH]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic SHALLUM|SHALLUM]]"
+strongs:
+- "[[H9002]]"
+- "[[H4993G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H1931]]"
+- "[[H1060]]"
+- "[[H9005]]"
+- "[[H7967M]]"
+- "[[H7145]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H5921A]]"
+- "[[H4639G]]"
+- "[[H2281]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:31**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mattithiah, [one] of the Levites, who [was] the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.
 <small><sub>**BSB:**</sub></small>
 A Levite named Mattithiah, the firstborn son of Shallum the Korahite, was entrusted with baking the bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4993G\|מַתִּתְיָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H1931\|ה֥וּא]] [[H9009\|הַ]][[H1060\|בְּכ֖וֹר]] [[H9005\|לְ]][[H7967M\|שַׁלֻּ֣ם]] [[H9009\|הַ]][[H7145\|קָּרְחִ֑י]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָ֕ה]] [[H5921A\|עַ֖ל]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H9009\|הַ]][[H2281\|חֲבִתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MATTITHIAH|MATTITHIAH]] • [[topic PORTERS|PORTERS]] • [[topic SHALLUM|SHALLUM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.30|<< 1 Chronicles 9:30]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.32|1 Chronicles 9:32 >>]]</td></tr></table>
 

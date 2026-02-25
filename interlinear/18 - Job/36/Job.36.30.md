@@ -1,8 +1,55 @@
+---
+title: Job 36:30
+type: Verse
+kjv: "Behold, he spreadeth his light upon it, and covereth the bottom of the sea."
+bsb: "See how He scatters His lightning around Him and covers the depths of the sea."
+hebrew: "הֵן־ פָּרַ֣שׂ עָלָ֣יו אוֹר֑וֹ וְשָׁרְשֵׁ֖י הַיָּ֣ם כִּסָּֽה׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H6566]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0216]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:30**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he spreadeth his light upon it, and covereth the bottom of the sea.
 <small><sub>**BSB:**</sub></small>
 See how He scatters His lightning around Him and covers the depths of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H6566\|פָּרַ֣שׂ]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H0216\|אוֹר֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H8328\|שָׁרְשֵׁ֖י]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H3680\|כִּסָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.29|<< Job 36:29]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.31|Job 36:31 >>]]</td></tr></table>
 

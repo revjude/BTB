@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 21:18
+type: Verse
+kjv: "And after all this the LORD smote him in his bowels with an incurable disease."
+bsb: "After all this, the LORD afflicted Jehoram with an incurable disease of the bowels."
+hebrew: "וְאַחֲרֵ֖י כָּל־ זֹ֑את נְגָפ֨וֹ יְהוָ֧ה׀ בְּמֵעָ֛יו לָחֳלִ֖י לְאֵ֥ין מַרְפֵּֽא׃"
+pericope: "[[2Chr.21.16 Jehoram’s Disease and Death|Jehoram’s Disease and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H5062]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4578]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2483]]"
+- "[[H0369]]"
+- "[[H4832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:18**<big><big>[[2Chr.21.16 Jehoram’s Disease and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after all this the LORD smote him in his bowels with an incurable disease.
 <small><sub>**BSB:**</sub></small>
 After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H5062\|נְגָפ֨]][[H9033\|וֹ]] [[H3068G\|יְהוָ֧ה]][[H9015\|׀]] [[H9003\|בְּ]][[H4578\|מֵעָ֛י]][[H9023\|ו]] [[H9005\|לָ]][[H2483\|חֳלִ֖י]] [[H9005\|לְ]][[H0369\|אֵ֥ין]] [[H4832\|מַרְפֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOWELS|BOWELS]] • [[topic DISEASE|DISEASE]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.17|<< 2 Chronicles 21:17]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.19|2 Chronicles 21:19 >>]]</td></tr></table>
 

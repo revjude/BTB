@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Hymn of Praise
+type: Pericope
 pericope: "[[Rom.11.33 A Hymn of Praise|A Hymn of Praise]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Romans
 chapter: 11
 book/chapter: "[[Rom.11|Romans 11]]"
-genre:
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 4
 verses:
 - "[[Rom.11.33]]"
 - "[[Rom.11.34]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Rom.11.36]]"
 ---
 
-[[Rom.11|Romans 11:33 - Romans 11:36]]
+<small>[[Rom.11|Romans 11:33-36]]</small>
 *A Hymn of Praise*
 
 [[Rom.11.33|33]] O the depth of the riches both of the wisdom and knowledge of God! how unsearchable \[are\] his judgments, and his ways past finding out!

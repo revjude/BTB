@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abimelech’s Punishment
+type: Pericope
 pericope: "[[Judg.9.50 Abimelech’s Punishment|Abimelech’s Punishment]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 9
 book/chapter: "[[Judg.9|Judges 9]]"
-genre:
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.9.50]]"
 - "[[Judg.9.51]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.9.57]]"
 ---
 
-[[Judg.9|Judges 9:50 - Judges 9:57]]
+<small>[[Judg.9|Judges 9:50-57]]</small>
 *Abimelech’s Punishment*
 
 [[Judg.9.50|50]] Then went Abimelech to Thebez, and encamped against Thebez, and took it.

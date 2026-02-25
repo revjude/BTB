@@ -1,8 +1,54 @@
+---
+title: Job 11:2
+type: Verse
+kjv: "Should not the multitude of words be answered? and should a man full of talk be justified?"
+bsb: "“Should this stream of words go unanswered and such a speaker be vindicated?"
+hebrew: "הֲרֹ֣ב דְּ֭בָרִים לֹ֣א יֵעָנֶ֑ה וְאִם־ אִ֖ישׁ שְׂפָתַ֣יִם יִצְדָּֽק׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H7230]]"
+- "[[H1697G]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H9002]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H8193H]]"
+- "[[H6663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:2**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should not the multitude of words be answered? and should a man full of talk be justified?
 <small><sub>**BSB:**</sub></small>
 “Should this stream of words go unanswered and such a speaker be vindicated?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H7230\|רֹ֣ב]] [[H1697G\|דְּ֭בָרִים]] [[H3808\|לֹ֣א]] [[H6030B\|יֵעָנֶ֑ה]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H0376G\|אִ֖ישׁ]] [[H8193H\|שְׂפָתַ֣יִם]] [[H6663\|יִצְדָּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.1|<< Job 11:1]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.3|Job 11:3 >>]]</td></tr></table>
 

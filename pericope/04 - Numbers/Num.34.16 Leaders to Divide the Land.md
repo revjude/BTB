@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Leaders to Divide the Land
+type: Pericope
 pericope: "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 34
 book/chapter: "[[Num.34|Numbers 34]]"
-genre:
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 14
 verses:
 - "[[Num.34.16]]"
 - "[[Num.34.17]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Num.34.29]]"
 ---
 
-[[Num.34|Numbers 34:16 - Numbers 34:29]]
+<small>[[Num.34|Numbers 34:16-29]]</small>
 *Leaders to Divide the Land*
 
 [[Num.34.16|16]] And the LORD spake unto Moses, saying,

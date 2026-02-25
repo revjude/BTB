@@ -1,8 +1,54 @@
+---
+title: Job 15:29
+type: Verse
+kjv: "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth."
+bsb: "He will no longer be rich; his wealth will not endure. His possessions will not overspread the land."
+hebrew: "לֹֽא־ יֶ֭עְשַׁר וְלֹא־ יָק֣וּם חֵיל֑וֹ וְלֹֽא־ יִטֶּ֖ה לָאָ֣רֶץ מִנְלָֽם׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6238]]"
+- "[[H9002]]"
+- "[[H6965I]]"
+- "[[H2428H]]"
+- "[[H9023]]"
+- "[[H5186]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H4512]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:29**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.
 <small><sub>**BSB:**</sub></small>
 He will no longer be rich; his wealth will not endure. His possessions will not overspread the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H6238\|יֶ֭עְשַׁר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6965I\|יָק֣וּם]] [[H2428H\|חֵיל֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5186\|יִטֶּ֖ה]] [[H9005\|לָ]][[H0776G\|אָ֣רֶץ]] [[H4512\|מִנְלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.28|<< Job 15:28]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.30|Job 15:30 >>]]</td></tr></table>
 

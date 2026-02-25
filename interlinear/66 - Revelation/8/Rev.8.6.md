@@ -1,10 +1,53 @@
+---
+title: Revelation 8:6
+type: Verse
+kjv: "And the seven angels which had the seven trumpets prepared themselves to sound."
+bsb: "And the seven angels with the seven trumpets prepared to sound them."
+greek: "καὶ οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας ἡτοίμασαν αὐτοὺς ἵνα σαλπίσωσιν.¶"
+pericope: "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G2192]]"
+- "[[G4536]]"
+- "[[G2090]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4537]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 8:6**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the seven angels which had the seven trumpets prepared themselves to sound.
 <small><sub>**BSB:**</sub></small>
 And the seven angels with the seven trumpets prepared to sound them.
-<small><sub>**Literal:**</sub></small>
-And the seven angels who are having the seven trumpets prepared themselves that they may sound the trumpets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.5|<< Revelation 8:5]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.7|Revelation 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἄγγελοι]]  [[G3588\|οἱ]]  [[G2192\|ἔχοντες]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G4536\|σάλπιγγας]]  [[G2090\|ἡτοίμασαν]]  [[G0846\|αὐτοὺς]]  [[G2443\|ἵνα]]  [[G4537\|σαλπίσωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.5|<< Revelation 8:5]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.7|Revelation 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

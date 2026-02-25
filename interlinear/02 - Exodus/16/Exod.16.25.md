@@ -1,8 +1,66 @@
+---
+title: Exodus 16:25
+type: Verse
+kjv: "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+bsb: "“Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field."
+hebrew: "וַיֹּ֤אמֶר מֹשֶׁה֙ אִכְלֻ֣הוּ הַיּ֔וֹם כִּֽי־ שַׁבָּ֥ת הַיּ֖וֹם לַיהוָ֑ה הַיּ֕וֹם לֹ֥א תִמְצָאֻ֖הוּ בַּשָּׂדֶֽה׃"
+pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:25**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, Eat that to day; for to day [is] a sabbath unto the LORD: to day ye shall not find it in the field.
 <small><sub>**BSB:**</sub></small>
 “Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H0398\|אִכְלֻ֣]][[H9033\|הוּ]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7676\|שַׁבָּ֥ת]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9009\|הַ]][[H3117G\|יּ֕וֹם]] [[H3808\|לֹ֥א]] [[H4672\|תִמְצָאֻ֖]][[H9033\|הוּ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.24|<< Exodus 16:24]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.26|Exodus 16:26 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Luke 7:37
+type: Verse
+kjv: "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee’s house, brought an alabaster box of ointment,"
+bsb: "When a sinful woman from that town learned that Jesus was dining there, she brought an alabaster jar of perfume."
+greek: "καὶ ἰδοὺ γυνὴ ἥτις ἦν ἐν τῇ πόλει ἁμαρτωλός. καὶ ἐπιγνοῦσα ὅτι κατάκειται ἐν τῇ οἰκίᾳ τοῦ Φαρισαίου, κομίσασα ἀλάβαστρον μύρου"
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ALABASTER|ALABASTER]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BOX|BOX]]"
+- "[[topic EATING|EATING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1135G]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0268]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G2621]]"
+- "[[G3614G]]"
+- "[[G5330]]"
+- "[[G2865]]"
+- "[[G0211]]"
+- "[[G3464]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 7:37**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, a woman in the city, which was a sinner, when she knew that [Jesus] sat at meat in the Pharisee’s house, brought an alabaster box of ointment,
 <small><sub>**BSB:**</sub></small>
 When a sinful woman from that town learned that Jesus was dining there, she brought an alabaster jar of perfume.
-<small><sub>**Literal:**</sub></small>
-And behold a woman who was in the city a sinner. And she having known that reclines back in the house of the Pharisee, having taken an alabaster flask of fragrant oil<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.36|<< Luke 7:36]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.38|Luke 7:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1135G\|γυνὴ]]  [[G3748\|ἥτις]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G0268\|ἁμαρτωλός.]]  [[G2532\|καὶ]]  [[G1921\|ἐπιγνοῦσα]]  [[G3754G\|ὅτι]]  [[G2621\|κατάκειται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G3588\|τοῦ]]  [[G5330\|Φαρισαίου,]]  [[G2865\|κομίσασα]]  [[G0211\|ἀλάβαστρον]]  [[G3464\|μύρου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALABASTER|ALABASTER]] • [[topic ANOINTING|ANOINTING]] • [[topic BOX|BOX]] • [[topic EATING|EATING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.36|<< Luke 7:36]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.38|Luke 7:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

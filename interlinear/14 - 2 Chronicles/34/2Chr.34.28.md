@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 34:28
+type: Verse
+kjv: "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again."
+bsb: "‘Now I will indeed gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the calamity that I will bring on this place and on its people.’” So they brought her answer back to the king."
+hebrew: "הִנְנִ֨י אֹֽסִפְךָ֜ אֶל־ אֲבֹתֶ֗יךָ וְנֶאֱסַפְתָּ֣ אֶל־ קִבְרֹתֶיךָ֮ בְּשָׁלוֹם֒ וְלֹא־ תִרְאֶ֣ינָה עֵינֶ֔יךָ בְּכֹל֙ הָֽרָעָ֔ה אֲשֶׁ֨ר אֲנִ֥י מֵבִ֛יא עַל־ הַמָּק֥וֹם הַזֶּ֖ה וְעַל־ יֹשְׁבָ֑יו וַיָּשִׁ֥יבוּ אֶת־ הַמֶּ֖לֶךְ דָּבָֽר׃ פ"
+pericope: "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0622]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H6913]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H3427]]"
+- "[[H9023]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:28**<big><big>[[2Chr.34.22 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.
 <small><sub>**BSB:**</sub></small>
 ‘Now I will indeed gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the calamity that I will bring on this place and on its people.’” So they brought her answer back to the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0622\|אֹֽסִפְ]][[H9031\|ךָ֜]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אֲבֹתֶ֗י]][[H9021\|ךָ]] [[H9001\|וְ]][[H0622\|נֶאֱסַפְתָּ֣]] [[H0413\|אֶל]][[H9014\|־]] [[H6913\|קִבְרֹתֶי]][[H9021\|ךָ֮]] [[H9003\|בְּ]][[H7965G\|שָׁלוֹם֒]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7200G\|תִרְאֶ֣ינָה]] [[H5869A\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0589\|אֲנִ֥י]] [[H0935P\|מֵבִ֛יא]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7725G\|יָּשִׁ֥יבוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H1697G\|דָּבָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic HULDAH|HULDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.27|<< 2 Chronicles 34:27]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.29|2 Chronicles 34:29 >>]]</td></tr></table>
 
@@ -32,7 +100,7 @@ Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy gra
 | and they brought back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשִׁ֥יבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shi.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| word  |**<big>&#8207;[[H1697G\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word  |**<big>&#8207;[[H1697G\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.27|<< 2 Chronicles 34:27]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.29|2 Chronicles 34:29 >>]]</td></tr></table>
 
 

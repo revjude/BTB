@@ -1,8 +1,65 @@
+---
+title: Leviticus 25:5
+type: Verse
+kjv: "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land."
+bsb: "You are not to reap the aftergrowth of your harvest or gather the grapes of your untended vines. The land must have a year of complete rest."
+hebrew: "אֵ֣ת סְפִ֤יחַ קְצִֽירְךָ֙ לֹ֣א תִקְצ֔וֹר וְאֶת־ עִנְּבֵ֥י נְזִירֶ֖ךָ לֹ֣א תִבְצֹ֑ר שְׁנַ֥ת שַׁבָּת֖וֹן יִהְיֶ֥ה לָאָֽרֶץ׃"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HOLIDAY|HOLIDAY]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H0853]]"
+- "[[H5599B]]"
+- "[[H7105A]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7114B]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H6025]]"
+- "[[H5139]]"
+- "[[H1219]]"
+- "[[H8141]]"
+- "[[H7677]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:5**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: [for] it is a year of rest unto the land.
 <small><sub>**BSB:**</sub></small>
 You are not to reap the aftergrowth of your harvest or gather the grapes of your untended vines. The land must have a year of complete rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵ֣ת]] [[H5599B\|סְפִ֤יחַ]] [[H7105A\|קְצִֽירְ]][[H9021\|ךָ֙]] [[H3808\|לֹ֣א]] [[H7114B\|תִקְצ֔וֹר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6025\|עִנְּבֵ֥י]] [[H5139\|נְזִירֶ֖]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H1219\|תִבְצֹ֑ר]] [[H8141\|שְׁנַ֥ת]] [[H7677\|שַׁבָּת֖וֹן]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HOLIDAY|HOLIDAY]] • [[topic SANITATION|SANITATION]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.4|<< Leviticus 25:4]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.6|Leviticus 25:6 >>]]</td></tr></table>
 

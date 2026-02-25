@@ -1,8 +1,49 @@
+---
+title: Proverbs 10:7
+type: Verse
+kjv: "The memory of the just is blessed: but the name of the wicked shall rot."
+bsb: "The memory of the righteous is a blessing, but the name of the wicked will rot."
+hebrew: "זֵ֣כֶר צַ֭דִּיק לִבְרָכָ֑ה וְשֵׁ֖ם רְשָׁעִ֣ים יִרְקָֽב׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2143]]"
+- "[[H6662]]"
+- "[[H9005]]"
+- "[[H1293]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H7563]]"
+- "[[H7537]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:7**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The memory of the just [is] blessed: but the name of the wicked shall rot.
 <small><sub>**BSB:**</sub></small>
 The memory of the righteous is a blessing, but the name of the wicked will rot.
+<small><sub>**Hebrew:**</sub></small>
+[[H2143\|זֵ֣כֶר]] [[H6662\|צַ֭דִּיק]] [[H9005\|לִ]][[H1293\|בְרָכָ֑ה]] [[H9002\|וְ]][[H8034\|שֵׁ֖ם]] [[H7563\|רְשָׁעִ֣ים]] [[H7537\|יִרְקָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.6|<< Proverbs 10:6]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.8|Proverbs 10:8 >>]]</td></tr></table>
 

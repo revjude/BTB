@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson’s Marriage
+type: Pericope
 pericope: "[[Judg.14.1 Samson’s Marriage|Samson’s Marriage]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 14
 book/chapter: "[[Judg.14|Judges 14]]"
-genre:
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 7
 verses:
 - "[[Judg.14.1]]"
 - "[[Judg.14.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Judg.14.7]]"
 ---
 
-[[Judg.14|Judges 14:1 - Judges 14:7]]
+<small>[[Judg.14|Judges 14:1-7]]</small>
 *Samson’s Marriage*
 
 [[Judg.14.1|1]] And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.

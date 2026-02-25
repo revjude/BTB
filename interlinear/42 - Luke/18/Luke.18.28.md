@@ -1,10 +1,56 @@
+---
+title: Luke 18:28
+type: Verse
+kjv: "Then Peter said, Lo, we have left all, and followed thee."
+bsb: "“Look,” said Peter, “we have left all we had to follow You.”"
+greek: "Εἶπεν δὲ ὁ Πέτρος· ἰδοὺ ἡμεῖς ἀφέντες τὰ ἴδια καὶ ἠκολουθήσαμέν σοι.¶"
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2400]]"
+- "[[G3165]]"
+- "[[G0863G]]"
+- "[[G2398]]"
+- "[[G2532]]"
+- "[[G0190]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+- no
+- k
+---
+
 **Luke 18:28**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter said, Lo, we have left all, and followed thee.
 <small><sub>**BSB:**</sub></small>
 “Look,” said Peter, “we have left all we had to follow You.”
-<small><sub>**Literal:**</sub></small>
-Said then <the> Peter; Behold we ourselves having abandoned <the> [our] own [things] and followed You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.27|<< Luke 18:27]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.29|Luke 18:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G2400\|ἰδοὺ]]  [[G3165\|ἡμεῖς]]  [[G0863G\|ἀφέντες]]  [[G3588\|τὰ]]  [[G2398\|ἴδια]]  [[G2532\|καὶ]]  [[G0190\|ἠκολουθήσαμέν]]  [[G4771\|σοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.27|<< Luke 18:27]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.29|Luke 18:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

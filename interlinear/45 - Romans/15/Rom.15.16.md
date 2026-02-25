@@ -1,10 +1,65 @@
+---
+title: Romans 15:16
+type: Verse
+kjv: "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost."
+bsb: "to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit."
+greek: "εἰς τὸ εἶναί με λειτουργὸν Χριστοῦ Ἰησοῦ εἰς τὰ ἔθνη ἱερουργοῦντα τὸ εὐαγγέλιον τοῦ θεοῦ, ἵνα γένηται ἡ προσφορὰ τῶν ἐθνῶν εὐπρόσδεκτος ἡγιασμένη ἐν πνεύματι ἁγίῳ.¶"
+pericope: "[[Rom.15.14 Paul the Minister to the Gentiles|Paul the Minister to the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G3165]]"
+- "[[G3011]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1484]]"
+- "[[G2418]]"
+- "[[G2098]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G1096]]"
+- "[[G4376]]"
+- "[[G2144]]"
+- "[[G0037]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Romans 15:16**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-for <the> to be me a minister of Christ Jesus to the Gentiles administering the sacred service of the gospel <the> of God, so that may become the offering of the Gentiles acceptable sanctified in [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.15|<< Romans 15:15]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.17|Romans 15:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1511\|εἶναί]]  [[G3165\|με]]  [[G3011\|λειτουργὸν]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G2418\|ἱερουργοῦντα]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G1096\|γένηται]]  [[G3588\|ἡ]]  [[G4376\|προσφορὰ]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G2144\|εὐπρόσδεκτος]]  [[G0037\|ἡγιασμένη]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.15|<< Romans 15:15]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.17|Romans 15:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

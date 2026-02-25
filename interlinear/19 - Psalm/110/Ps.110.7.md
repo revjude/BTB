@@ -1,8 +1,55 @@
+---
+title: Psalm 110:7
+type: Verse
+kjv: "He shall drink of the brook in the way: therefore shall he lift up the head."
+bsb: "He will drink from the brook by the road; therefore He will lift up His head."
+hebrew: "מִ֭נַּחַל בַּדֶּ֣רֶךְ יִשְׁתֶּ֑ה עַל־ כֵּ֝֗ן יָרִ֥ים רֹֽאשׁ׃"
+pericope: "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 110
+book/chapter: "[[Ps.110|Psalm 110]]"
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9006]]"
+- "[[H5158A]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H8354]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7311A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 110:7**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall drink of the brook in the way: therefore shall he lift up the head.
 <small><sub>**BSB:**</sub></small>
 He will drink from the brook by the road; therefore He will lift up His head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H5158A\|נַּחַל]] [[H9003\|בַּ]][[H1870L\|דֶּ֣רֶךְ]] [[H8354\|יִשְׁתֶּ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֝֗ן]] [[H7311A\|יָרִ֥ים]] [[H7218A\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.6|<< Psalms 110:6]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.1|Psalms 111:1 >>]]</td></tr></table>
 

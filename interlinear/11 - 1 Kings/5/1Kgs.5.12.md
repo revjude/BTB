@@ -1,8 +1,67 @@
+---
+title: 1 Kings 5:12
+type: Verse
+kjv: "And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together."
+bsb: "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty."
+hebrew: "וַיהוָ֗ה נָתַ֤ן חָכְמָה֙ לִשְׁלֹמֹ֔ה כַּאֲשֶׁ֖ר דִּבֶּר־ ל֑וֹ וַיְהִ֣י שָׁלֹ֗ם בֵּ֤ין חִירָם֙ וּבֵ֣ין שְׁלֹמֹ֔ה וַיִּכְרְת֥וּ בְרִ֖ית שְׁנֵיהֶֽם׃"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H2451]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7965G]]"
+- "[[H0996G]]"
+- "[[H2438G]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:12**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.
 <small><sub>**BSB:**</sub></small>
 And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H3068G\|יהוָ֗ה]] [[H5414G\|נָתַ֤ן]] [[H2451\|חָכְמָה֙]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696I\|דִּבֶּר]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H7965G\|שָׁלֹ֗ם]] [[H0996G\|בֵּ֤ין]] [[H2438G\|חִירָם֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וַ]][[H3772H\|יִּכְרְת֥וּ]] [[H1285\|בְרִ֖ית]] [[H8147\|שְׁנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREATY|TREATY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.11|<< 1 Kings 5:11]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.13|1 Kings 5:13 >>]]</td></tr></table>
 

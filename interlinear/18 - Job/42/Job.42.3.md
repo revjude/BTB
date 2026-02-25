@@ -1,8 +1,60 @@
+---
+title: Job 42:3
+type: Verse
+kjv: "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+bsb: "You asked, ‘Who is this who conceals My counsel without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know."
+hebrew: "מִ֤י זֶ֨ה׀ מַעְלִ֥ים עֵצָ֗ה בְּֽלִ֫י דָ֥עַת לָכֵ֣ן הִ֭גַּדְתִּי וְלֹ֣א אָבִ֑ין נִפְלָא֥וֹת מִ֝מֶּ֗נִּי וְלֹ֣א אֵדָֽע׃"
+pericope: "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOB|JOB]]"
+strongs:
+- "[[H4310]]"
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H5956]]"
+- "[[H6098]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5046]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0995]]"
+- "[[H6381]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:3**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
 <small><sub>**BSB:**</sub></small>
 You asked, ‘Who is this who conceals My counsel without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H2088\|זֶ֨ה]][[H9015\|׀]] [[H5956\|מַעְלִ֥ים]] [[H6098\|עֵצָ֗ה]] [[H1097\|בְּֽלִ֫י]] [[H1847\|דָ֥עַת]] [[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H5046\|הִ֭גַּדְתִּי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0995\|אָבִ֑ין]] [[H6381\|נִפְלָא֥וֹת]] [[H4480A\|מִ֝מֶּ֗]][[H9030\|נִּי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|אֵדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOB|JOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.2|<< Job 42:2]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.4|Job 42:4 >>]]</td></tr></table>
 

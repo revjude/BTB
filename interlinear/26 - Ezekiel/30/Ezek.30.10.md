@@ -1,8 +1,59 @@
+---
+title: Ezekiel 30:10
+type: Verse
+kjv: "Thus saith the Lord GOD; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon."
+bsb: "This is what the Lord GOD says: I will put an end to the hordes of Egypt by the hand of Nebuchadnezzar king of Babylon."
+hebrew: "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה וְהִשְׁבַּתִּי֙ אֶת־ הֲמ֣וֹן מִצְרַ֔יִם בְּיַ֖ד נְבוּכַדְרֶאצַּ֥ר מֶלֶךְ־ בָּבֶֽל׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1995A]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:10**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: I will put an end to the hordes of Egypt by the hand of Nebuchadnezzar king of Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1995A\|הֲמ֣וֹן]] [[H4714G\|מִצְרַ֔יִם]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H5019\|נְבוּכַדְרֶאצַּ֥ר]] [[H4428G\|מֶלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.9|<< Ezekiel 30:9]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.11|Ezekiel 30:11 >>]]</td></tr></table>
 

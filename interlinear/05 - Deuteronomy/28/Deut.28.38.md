@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 28:38
+type: Verse
+kjv: "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+bsb: "You will sow much seed in the field but harvest little, because the locusts will consume it."
+hebrew: "זֶ֥רַע רַ֖ב תּוֹצִ֣יא הַשָּׂדֶ֑ה וּמְעַ֣ט תֶּאֱסֹ֔ף כִּ֥י יַחְסְלֶ֖נּוּ הָאַרְבֶּֽה׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2233G]]"
+- "[[H7227A]]"
+- "[[H3318H]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H4592]]"
+- "[[H0622]]"
+- "[[H3588A]]"
+- "[[H2628]]"
+- "[[H9033]]"
+- "[[H0697]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:38**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt carry much seed out into the field, and shalt gather [but] little in; for the locust shall consume it.
 <small><sub>**BSB:**</sub></small>
 You will sow much seed in the field but harvest little, because the locusts will consume it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2233G\|זֶ֥רַע]] [[H7227A\|רַ֖ב]] [[H3318H\|תּוֹצִ֣יא]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H9002\|וּ]][[H4592\|מְעַ֣ט]] [[H0622\|תֶּאֱסֹ֔ף]] [[H3588A\|כִּ֥י]] [[H2628\|יַחְסְלֶ֖]][[H9033\|נּוּ]] [[H9009\|הָ]][[H0697\|אַרְבֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LOCUST|LOCUST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.37|<< Deuteronomy 28:37]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.39|Deuteronomy 28:39 >>]]</td></tr></table>
 

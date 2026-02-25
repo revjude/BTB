@@ -1,8 +1,57 @@
+---
+title: Exodus 37:20
+type: Verse
+kjv: "And in the candlestick were four bowls made like almonds, his knops, and his flowers:"
+bsb: "And on the lampstand were four cups shaped like almond blossoms with buds and petals."
+hebrew: "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃"
+pericope: "[[Exod.37.17 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALMOND|ALMOND]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4501]]"
+- "[[H0702]]"
+- "[[H1375]]"
+- "[[H8246]]"
+- "[[H3730]]"
+- "[[H9024]]"
+- "[[H6525]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:20**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:
 <small><sub>**BSB:**</sub></small>
 And on the lampstand were four cups shaped like almond blossoms with buds and petals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H4501\|מְּנֹרָ֖ה]] [[H0702\|אַרְבָּעָ֣ה]] [[H1375\|גְבִעִ֑ים]] [[H8246\|מְשֻׁ֨קָּדִ֔ים]] [[H3730\|כַּפְתֹּרֶ֖י]][[H9024\|הָ]] [[H9002\|וּ]][[H6525\|פְרָחֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMOND|ALMOND]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.19|<< Exodus 37:19]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.21|Exodus 37:21 >>]]</td></tr></table>
 

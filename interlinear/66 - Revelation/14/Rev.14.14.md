@@ -1,10 +1,66 @@
+---
+title: Revelation 14:14
+type: Verse
+kjv: "And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle."
+bsb: "And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man, with a golden crown on His head and a sharp sickle in His hand."
+greek: "Καὶ εἶδον καὶ ἰδοὺ νεφέλη λευκή, καὶ ἐπὶ τὴν νεφέλην καθήμενον ὅμοιον υἱὸν ἀνθρώπου, ἔχων ἐπὶ τῆς κεφαλῆς αὐτοῦ στέφανον χρυσοῦν καὶ ἐν τῇ χειρὶ αὐτοῦ δρέπανον ὀξύ.¶"
+pericope: "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SICKLE|SICKLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G3507]]"
+- "[[G3022]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G3664]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2192]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G4735]]"
+- "[[G5552]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G1407]]"
+- "[[G3691]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 14:14**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I looked, and behold a white cloud, and upon the cloud [one] sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 <small><sub>**BSB:**</sub></small>
 And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man, with a golden crown on His head and a sharp sickle in His hand.
-<small><sub>**Literal:**</sub></small>
-And I looked and behold a cloud white, and upon the cloud is sitting [One] like [the] Son of Man, having on the head of Him a crown golden and in the hand of Him a sickle sharp.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.13|<< Revelation 14:13]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.15|Revelation 14:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3507\|νεφέλη]]  [[G3022\|λευκή,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G3507\|νεφέλην]]  [[G2521\|καθήμενον]]  [[G3664\|ὅμοιον]]  [[G5207\|υἱὸν]]  [[G0444\|ἀνθρώπου,]]  [[G2192\|ἔχων]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G0846\|αὐτοῦ]]  [[G4735\|στέφανον]]  [[G5552\|χρυσοῦν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G0846\|αὐτοῦ]]  [[G1407\|δρέπανον]]  [[G3691\|ὀξύ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic CROWN|CROWN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SICKLE|SICKLE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.13|<< Revelation 14:13]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.15|Revelation 14:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:14** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.19.1|Isa 19:1]]

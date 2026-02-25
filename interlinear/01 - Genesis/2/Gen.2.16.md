@@ -1,8 +1,65 @@
+---
+title: Genesis 2:16
+type: Verse
+kjv: "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:"
+bsb: "And the LORD God commanded him, “You may eat freely from every tree of the garden,"
+hebrew: "וַיְצַו֙ יְהוָ֣ה אֱלֹהִ֔ים עַל־ הָֽאָדָ֖ם לֵאמֹ֑ר מִכֹּ֥ל עֵֽץ־ הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROBATION|PROBATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H1588M]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:16**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
 <small><sub>**BSB:**</sub></small>
 And the LORD God commanded him, “You may eat freely from every tree of the garden,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַו֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9006\|מִ]][[H3605\|כֹּ֥ל]] [[H6086H\|עֵֽץ]][[H9014\|־]] [[H9009\|הַ]][[H1588M\|גָּ֖ן]] [[H0398\|אָכֹ֥ל]] [[H0398\|תֹּאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVENANT|COVENANT]] • [[topic EDEN|EDEN]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GOD|GOD]] • [[topic PROBATION|PROBATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.15|<< Genesis 2:15]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.17|Genesis 2:17 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Ezekiel 3:16
+type: Verse
+kjv: "And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,"
+bsb: "At the end of seven days the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֕י מִקְצֵ֖ה שִׁבְעַ֣ת יָמִ֑ים פ וַיְהִ֥י דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9017]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:16**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 At the end of seven days the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9006\|מִ]][[H7097A\|קְצֵ֖ה]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9017\|פ]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.15|<< Ezekiel 3:15]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.17|Ezekiel 3:17 >>]]</td></tr></table>
 
@@ -11,7 +62,7 @@ At the end of seven days the word of the LORD came to me, saying,
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7097A\|קְצֵ֖ה]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֣ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days  |**<big>&#8207;[[H3117G\|יָמִ֑ים]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days  |**<big>&#8207;[[H3117G\|יָמִ֑ים]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

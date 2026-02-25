@@ -1,8 +1,69 @@
+---
+title: 1 Kings 9:5
+type: Verse
+kjv: "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel."
+bsb: "then I will establish your royal throne over Israel forever, as I promised your father David when I said, ‘You will never fail to have a man on the throne of Israel.’"
+hebrew: "וַהֲקִ֨מֹתִ֜י אֶת־ כִּסֵּ֧א מַֽמְלַכְתְּךָ֛ עַל־ יִשְׂרָאֵ֖ל לְעֹלָ֑ם כַּאֲשֶׁ֣ר דִּבַּ֗רְתִּי עַל־ דָּוִ֤ד אָבִ֙יךָ֙ לֵאמֹ֔ר לֹֽא־ יִכָּרֵ֤ת לְךָ֙ אִ֔ישׁ מֵעַ֖ל כִּסֵּ֥א יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H4467]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3772J]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:5**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.
 <small><sub>**BSB:**</sub></small>
 then I will establish your royal throne over Israel forever, as I promised your father David when I said, ‘You will never fail to have a man on the throne of Israel.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִ֨מֹתִ֜י]] [[H0853\|אֶת]][[H9014\|־]] [[H3678G\|כִּסֵּ֧א]] [[H4467\|מַֽמְלַכְתְּ]][[H9021\|ךָ֛]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H5769G\|עֹלָ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1696I\|דִּבַּ֗רְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H1732\|דָּוִ֤ד]] [[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772J\|יִכָּרֵ֤ת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0376G\|אִ֔ישׁ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H3678G\|כִּסֵּ֥א]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PROBATION|PROBATION]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.4|<< 1 Kings 9:4]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.6|1 Kings 9:6 >>]]</td></tr></table>
 

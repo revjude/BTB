@@ -1,10 +1,59 @@
+---
+title: Romans 11:13
+type: Verse
+kjv: "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:"
+bsb: "I am speaking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I magnify my ministry"
+greek: "Ὑμῖν δὲ λέγω τοῖς ἔθνεσιν· ἐφ᾽ ὅσον μὲν οὖν εἰμι ἐγὼ ἐθνῶν ἀπόστολος, τὴν διακονίαν μου δοξάζω,"
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G1909]]"
+- "[[G3745]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G0652]]"
+- "[[G1248]]"
+- "[[G3165]]"
+- "[[G1392]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Romans 11:13**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
 <small><sub>**BSB:**</sub></small>
 I am speaking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I magnify my ministry
-<small><sub>**Literal:**</sub></small>
-To you now I am speaking <the> Gentiles; Upon as much as indeed therefore am I myself of [the] Gentiles apostle, the ministry of mine I magnify,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.12|<< Romans 11:12]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.14|Romans 11:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Ὑμῖν]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν·]]  [[G1909\|ἐφ᾽]]  [[G3745\|ὅσον]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1510\|εἰμι]]  [[G1473\|ἐγὼ]]  [[G1484\|ἐθνῶν]]  [[G0652\|ἀπόστολος,]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν]]  [[G3165\|μου]]  [[G1392\|δοξάζω,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PAUL|PAUL]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.12|<< Romans 11:12]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.14|Romans 11:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

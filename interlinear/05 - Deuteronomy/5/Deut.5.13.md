@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 5:13
+type: Verse
+kjv: "Six days thou shalt labour, and do all thy work:"
+bsb: "Six days you shall labor and do all your work,"
+hebrew: "שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כָּֿל־ מְלַאכְתֶּֽךָ֒׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H5647I]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L(b+p)
+---
+
 **Deuteronomy 5:13**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days thou shalt labour, and do all thy work:
 <small><sub>**BSB:**</sub></small>
 Six days you shall labor and do all your work,
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֤֣שֶׁת]] [[H3117G\|יָמִ֣ים֙]] [[H5647I\|תַּֽעֲבֹ֔ד֮]] [[H9001\|וְ]][[H6213A\|עָשִׂ֖֣יתָ]] [[H3605\|כָּֿל]][[H9014\|־]] [[H4399\|מְלַאכְתֶּֽ]][[H9021\|ךָ֒]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic INDUSTRY|INDUSTRY]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.12|<< Deuteronomy 5:12]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.14|Deuteronomy 5:14 >>]]</td></tr></table>
 

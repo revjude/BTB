@@ -1,8 +1,49 @@
+---
+title: Job 35:9
+type: Verse
+kjv: "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty."
+bsb: "Men cry out under great oppression; they plead for relief from the arm of the mighty."
+hebrew: "מֵ֭רֹב עֲשׁוּקִ֣ים יַזְעִ֑יקוּ יְשַׁוְּע֖וּ מִזְּר֣וֹעַ רַבִּֽים׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H6217]]"
+- "[[H2199]]"
+- "[[H7768]]"
+- "[[H2220]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:9**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By reason of the multitude of oppressions they make [the oppressed] to cry: they cry out by reason of the arm of the mighty.
 <small><sub>**BSB:**</sub></small>
 Men cry out under great oppression; they plead for relief from the arm of the mighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ֭]][[H7230\|רֹב]] [[H6217\|עֲשׁוּקִ֣ים]] [[H2199\|יַזְעִ֑יקוּ]] [[H7768\|יְשַׁוְּע֖וּ]] [[H9006\|מִ]][[H2220\|זְּר֣וֹעַ]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.8|<< Job 35:8]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.10|Job 35:10 >>]]</td></tr></table>
 

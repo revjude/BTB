@@ -1,8 +1,60 @@
+---
+title: 2 Kings 8:10
+type: Verse
+kjv: "And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die."
+bsb: "Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD has shown me that in fact he will die.”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ אֱלִישָׁ֔ע לֵ֥ךְ אֱמָר־ ל֖וֹ חָיֹ֣ה תִחְיֶ֑ה וְהִרְאַ֥נִי יְהוָ֖ה כִּֽי־ מ֥וֹת יָמֽוּת׃"
+pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HAZAEL|HAZAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0477]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 8:10**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the LORD hath shewed me that he shall surely die.
 <small><sub>**BSB:**</sub></small>
 Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD has shown me that in fact he will die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H0477\|אֱלִישָׁ֔ע]] [[H1980G\|לֵ֥ךְ]] [[H0559\|אֱמָר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H2421\|חָיֹ֣ה]] [[H2421\|תִחְיֶ֑ה]] [[H9001\|וְ]][[H7200G\|הִרְאַ֥]][[H9030\|נִי]] [[H3068G\|יְהוָ֖ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4191\|מ֥וֹת]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HADAD|BEN-HADAD]] • [[topic ELISHA|ELISHA]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HAZAEL|HAZAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.9|<< 2 Kings 8:9]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.11|2 Kings 8:11 >>]]</td></tr></table>
 

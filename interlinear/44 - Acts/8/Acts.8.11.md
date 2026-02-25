@@ -1,10 +1,54 @@
+---
+title: Acts 8:11
+type: Verse
+kjv: "And to him they had regard, because that of long time he had bewitched them with sorceries."
+bsb: "They paid close attention to him because he had astounded them for a long time with his sorcery."
+greek: "προσεῖχον δὲ αὐτῷ διὰ τὸ ἱκανῷ χρόνῳ ταῖς μαγείαις ἐξεστακέναι αὐτούς·"
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G4337]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2425]]"
+- "[[G5550]]"
+- "[[G3095]]"
+- "[[G1839]]"
+texts:
+- NKO
+---
+
 **Acts 8:11**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to him they had regard, because that of long time he had bewitched them with sorceries.
 <small><sub>**BSB:**</sub></small>
 They paid close attention to him because he had astounded them for a long time with his sorcery.
-<small><sub>**Literal:**</sub></small>
-They were giving heed now to him because the long time with the magic arts to have amazed them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.10|<< Acts 8:10]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.12|Acts 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4337\|προσεῖχον]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2425\|ἱκανῷ]]  [[G5550\|χρόνῳ]]  [[G3588\|ταῖς]]  [[G3095\|μαγείαις]]  [[G1839\|ἐξεστακέναι]]  [[G0846\|αὐτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.10|<< Acts 8:10]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.12|Acts 8:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

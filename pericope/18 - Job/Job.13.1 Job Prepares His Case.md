@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Prepares His Case
+type: Pericope
 pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 13
 book/chapter: "[[Job.13|Job 13]]"
-genre:
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 28
 verses:
 - "[[Job.13.1]]"
 - "[[Job.13.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Job.13.28]]"
 ---
 
-[[Job.13|Job 13:1 - Job 13:28]]
+<small>[[Job.13|Job 13:1-28]]</small>
 *Job Prepares His Case*
 
 [[Job.13.1|1]] Lo, mine eye hath seen all \[this\], mine ear hath heard and understood it.

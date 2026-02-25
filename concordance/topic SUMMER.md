@@ -11,7 +11,7 @@
 
 → Given by God [[Ps.74.17|Ps 74:17]]
 
-→ The time for labor and harvest [[Prov.6.6|Pr 6:6]]-[[Prov.6.8|8]]; [[Prov.10.5|10:5]]; [[Prov.30.25|30:25]];  [[Jer.8.20|Jer 8:20]]
+→ The time for labor and harvest [[Prov.6.6|Pr 6:6-8]]; [[Prov.10.5|10:5]]; [[Prov.30.25|30:25]];  [[Jer.8.20|Jer 8:20]]
 
 → Snow in [[Prov.26.1|Pr 26:1]]
 

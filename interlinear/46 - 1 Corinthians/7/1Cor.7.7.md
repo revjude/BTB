@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 7:7
+type: Verse
+kjv: "For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that."
+bsb: "I wish that all men were as I am. But each man has his own gift from God; one has this gift, another has that."
+greek: "θέλω δὲ πάντας ἀνθρώπους εἶναι ὡς καὶ ἐμαυτόν· ἀλλ᾽ ἕκαστος ἴδιον ἔχει χάρισμα ἐκ θεοῦ, ὁ μὲν οὕτως, ὁ δὲ οὕτως.¶"
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G1511]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G1538]]"
+- "[[G2398]]"
+- "[[G2192]]"
+- "[[G5486]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3779]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 7:7**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
 <small><sub>**BSB:**</sub></small>
 I wish that all men were as I am. But each man has his own gift from God; one has this gift, another has that.
-<small><sub>**Literal:**</sub></small>
-I wish now all men to be like even myself; But each [their] own has gift from God, one [has] indeed this, one however that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.6|<< 1 Corinthians 7:6]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.8|1 Corinthians 7:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|θέλω]]  [[G1161\|δὲ]]  [[G3956\|πάντας]]  [[G0444\|ἀνθρώπους]]  [[G1511\|εἶναι]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G1473\|ἐμαυτόν·]]  [[G0235\|ἀλλ᾽]]  [[G1538\|ἕκαστος]]  [[G2398\|ἴδιον]]  [[G2192\|ἔχει]]  [[G5486\|χάρισμα]]  [[G1537\|ἐκ]]  [[G2316\|θεοῦ,]]  [[G3588\|ὁ]]  [[G3303\|μὲν]]  [[G3779\|οὕτως,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3779\|οὕτως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.6|<< 1 Corinthians 7:6]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.8|1 Corinthians 7:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Great Storm
+type: Pericope
 pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 1
 book/chapter: "[[Jonah.1|Jonah 1]]"
-genre:
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 7
 verses:
 - "[[Jonah.1.4]]"
 - "[[Jonah.1.5]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jonah.1.10]]"
 ---
 
-[[Jonah.1|Jonah 1:4 - Jonah 1:10]]
+<small>[[Jonah.1|Jonah 1:4-10]]</small>
 *The Great Storm*
 
 [[Jonah.1.4|4]] But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.

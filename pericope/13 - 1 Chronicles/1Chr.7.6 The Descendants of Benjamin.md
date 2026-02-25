@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Benjamin
+type: Pericope
 pericope: "[[1Chr.7.6 The Descendants of Benjamin|The Descendants of Benjamin]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 7
 book/chapter: "[[1Chr.7|1 Chronicles 7]]"
-genre:
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.7.6]]"
 - "[[1Chr.7.7]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.7.12]]"
 ---
 
-[[1Chr.7|1 Chronicles 7:6 - 1 Chronicles 7:12]]
+<small>[[1Chr.7|1 Chronicles 7:6-12]]</small>
 *The Descendants of Benjamin*
 
 [[1Chr.7.6|6]] \[The sons\] of Benjamin; Bela, and Becher, and Jediael, three.

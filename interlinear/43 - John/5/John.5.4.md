@@ -1,10 +1,65 @@
+---
+title: John 5:4
+type: Verse
+kjv: "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had."
+bsb: ""
+greek: "ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν ἐν τῇ κολυμβήθρᾳ, καὶ ἐτάρασσε τὸ ὕδωρ· ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος, ὑγιὴς ἐγίνετο, ᾧ δήποτε κατειχετο νοσήματι.¶"
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G0032G]]"
+- "[[G1063]]"
+- "[[G2596]]"
+- "[[G2540]]"
+- "[[G2597]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2861]]"
+- "[[G2532]]"
+- "[[G5015]]"
+- "[[G5204]]"
+- "[[G3767]]"
+- "[[G4413G]]"
+- "[[G1684]]"
+- "[[G3326]]"
+- "[[G5016]]"
+- "[[G5199]]"
+- "[[G1096]]"
+- "[[G3739]]"
+- "[[G1221]]"
+- "[[G2722]]"
+- "[[G3553]]"
+texts:
+- KO
+- K
+---
+
 **John 5:4**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-an angel for on occasion was going down among those pool and was troubling the water; the [one] who therefore first was climbing in after the disturbance of the water healthy was becoming of that whatever he was posessed disease.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.3|<< John 5:3]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.5|John 5:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0032G\|ἄγγελος]]  [[G1063\|γὰρ]]  [[G2596\|κατὰ]]  [[G2540\|καιρὸν]]  [[G2597\|κατέβαινεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2861\|κολυμβήθρᾳ,]]  [[G2532\|καὶ]]  [[G5015\|ἐτάρασσε]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ·]]  [[G3588\|ὁ]]  [[G3767\|οὖν]]  [[G4413G\|πρῶτος]]  [[G1684\|ἐμβὰς]]  [[G3326\|μετὰ]]  [[G3588\|τὴν]]  [[G5016\|ταραχὴν]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος,]]  [[G5199\|ὑγιὴς]]  [[G1096\|ἐγίνετο,]]  [[G3739\|ᾧ]]  [[G1221\|δήποτε]]  [[G2722\|κατειχετο]]  [[G3553\|νοσήματι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.3|<< John 5:3]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.5|John 5:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

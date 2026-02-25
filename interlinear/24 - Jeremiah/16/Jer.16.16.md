@@ -1,8 +1,71 @@
+---
+title: Jeremiah 16:16
+type: Verse
+kjv: "Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks."
+bsb: "But for now I will send for many fishermen, declares the LORD, and they will catch them. After that I will send for many hunters, and they will hunt them down on every mountain and hill, even from the clefts of the rocks."
+hebrew: "הִנְנִ֨י שֹׁלֵ֜חַ לְדַיָּגִ֥ים רַבִּ֛ים נְאֻם־ יְהוָ֖ה וְדִיג֑וּם וְאַֽחֲרֵי־ כֵ֗ן אֶשְׁלַח֙ לְרַבִּ֣ים צַיָּדִ֔ים וְצָד֞וּם מֵעַ֤ל כָּל־ הַר֙ וּמֵעַ֣ל כָּל־ גִּבְעָ֔ה וּמִנְּקִיקֵ֖י הַסְּלָעִֽים׃"
+pericope: "[[Jer.16.14 God Will Restore Israel|God Will Restore Israel]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic HUNTING|HUNTING]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H1728]]"
+- "[[H1771]]"
+- "[[H7227A]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H1770]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H6719]]"
+- "[[H6679A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H2022G]]"
+- "[[H1389I]]"
+- "[[H5357]]"
+- "[[H9009]]"
+- "[[H5553H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 16:16**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
 <small><sub>**BSB:**</sub></small>
 But for now I will send for many fishermen, declares the LORD, and they will catch them. After that I will send for many hunters, and they will hunt them down on every mountain and hill, even from the clefts of the rocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7971G\|שֹׁלֵ֜חַ]] [[H9005\|לְ]][[H1771\|דַיָּגִ֥ים]] [[H7227A\|רַבִּ֛ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וְ]][[H1770\|דִיג֑וּ]][[H9038\|ם]] [[H9002\|וְ]][[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֗ן]] [[H7971G\|אֶשְׁלַח֙]] [[H9005\|לְ]][[H7227A\|רַבִּ֣ים]] [[H6719\|צַיָּדִ֔ים]] [[H9001\|וְ]][[H6679A\|צָד֞וּ]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2022G\|הַר֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1389I\|גִּבְעָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H5357\|נְּקִיקֵ֖י]] [[H9009\|הַ]][[H5553H\|סְּלָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISHERMEN|FISHERMEN]] • [[topic HUNTING|HUNTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.15|<< Jeremiah 16:15]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.17|Jeremiah 16:17 >>]]</td></tr></table>
 
@@ -31,7 +94,7 @@ But for now I will send for many fishermen, declares the LORD, and they will cat
 | the rocks  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5553H\|סְּלָעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> se.la.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.15|<< Jeremiah 16:15]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.17|Jeremiah 16:17 >>]]</td></tr></table>
 
-[^1]: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
-[^2]: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
+[^1]: for fishermen  | **<big>[[H9005|לְ]]</big><big>[[H1728|דַוָּגִים]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: for fishermen  | **<big>[[H9005|לְ]]</big><big>[[H1728|דַוָּגִים]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְדַוָּגִ֥ים</big></span>**
 

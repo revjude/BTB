@@ -1,8 +1,61 @@
+---
+title: Jeremiah 22:26
+type: Verse
+kjv: "And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die."
+bsb: "I will hurl you and the mother who gave you birth into another land, where neither of you were born—and there you both will die."
+hebrew: "וְהֵֽטַלְתִּ֣י אֹתְךָ֗ וְאֶֽת־ אִמְּךָ֙ אֲשֶׁ֣ר יְלָדַ֔תְךָ עַ֚ל הָאָ֣רֶץ אַחֶ֔רֶת אֲשֶׁ֥ר לֹֽא־ יֻלַּדְתֶּ֖ם שָׁ֑ם וְשָׁ֖ם תָּמֽוּתוּ׃"
+pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2904]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:26**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die.
 <small><sub>**BSB:**</sub></small>
 I will hurl you and the mother who gave you birth into another land, where neither of you were born—and there you both will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2904\|הֵֽטַלְתִּ֣י]] [[H0853\|אֹתְ]][[H9031\|ךָ֗]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0517\|אִמְּ]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3205\|יְלָדַ֔תְ]][[H9031\|ךָ]] [[H5921A\|עַ֚ל]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H0312\|אַחֶ֔רֶת]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3205\|יֻלַּדְתֶּ֖ם]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H8033G\|שָׁ֖ם]] [[H4191\|תָּמֽוּתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.25|<< Jeremiah 22:25]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.27|Jeremiah 22:27 >>]]</td></tr></table>
 

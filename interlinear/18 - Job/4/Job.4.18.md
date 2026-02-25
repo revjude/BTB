@@ -1,8 +1,59 @@
+---
+title: Job 4:18
+type: Verse
+kjv: "Behold, he put no trust in his servants; and his angels he charged with folly:"
+bsb: "If God puts no trust in His servants, and He charges His angels with error,"
+hebrew: "הֵ֣ן בַּ֭עֲבָדָיו לֹ֣א יַאֲמִ֑ין וּ֝בְמַלְאָכָ֗יו יָשִׂ֥ים תָּהֳלָֽה׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2005]]"
+- "[[H9003]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9002]]"
+- "[[H4397H]]"
+- "[[H7760A]]"
+- "[[H8417]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:18**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he put no trust in his servants; and his angels he charged with folly:
 <small><sub>**BSB:**</sub></small>
 If God puts no trust in His servants, and He charges His angels with error,
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H9003\|בַּ֭]][[H5650\|עֲבָדָי]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H0539\|יַאֲמִ֑ין]] [[H9002\|וּ֝]][[H9003\|בְ]][[H4397H\|מַלְאָכָ֗י]][[H9023\|ו]] [[H7760A\|יָשִׂ֥ים]] [[H8417\|תָּהֳלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MAN|MAN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.17|<< Job 4:17]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.19|Job 4:19 >>]]</td></tr></table>
 

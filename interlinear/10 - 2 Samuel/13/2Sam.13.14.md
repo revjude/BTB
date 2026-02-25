@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 13:14
+type: Verse
+kjv: "Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her."
+bsb: "But Amnon refused to listen to her, and being stronger, he violated her and lay with her."
+hebrew: "וְלֹ֥א אָבָ֖ה לִשְׁמֹ֣עַ בְּקוֹלָ֑הּ וַיֶּחֱזַ֤ק מִמֶּ֙נָּה֙ וַיְעַנֶּ֔הָ וַיִּשְׁכַּ֖ב אֹתָֽהּ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H6963L]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H6031B]]"
+- "[[H7901G]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:14**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her.
 <small><sub>**BSB:**</sub></small>
 But Amnon refused to listen to her, and being stronger, he violated her and lay with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַ]] [[H9003\|בְּ]][[H6963L\|קוֹלָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H2388G\|יֶּחֱזַ֤ק]] [[H4480A\|מִמֶּ֙]][[H9034\|נָּה֙]] [[H9001\|וַ]][[H6031B\|יְעַנֶּ֔]][[H9034\|הָ]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֖ב]] [[H0854\|אֹתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DECEPTION|DECEPTION]] • [[topic INCEST|INCEST]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.13|<< 2 Samuel 13:13]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.15|2 Samuel 13:15 >>]]</td></tr></table>
 

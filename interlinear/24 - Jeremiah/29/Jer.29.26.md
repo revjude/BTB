@@ -1,8 +1,71 @@
+---
+title: Jeremiah 29:26
+type: Verse
+kjv: "The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man that is mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks."
+bsb: "‘The LORD has appointed you priest in place of Jehoiada, to be the chief officer in the house of the LORD, responsible for any madman who acts like a prophet—you must put him in stocks and neck irons."
+hebrew: "יְהוָ֞ה נְתָנְךָ֣ כֹהֵ֗ן תַּ֚חַת יְהוֹיָדָ֣ע הַכֹּהֵ֔ן לִֽהְי֤וֹת פְּקִדִים֙ בֵּ֣ית יְהוָ֔ה לְכָל־ אִ֥ישׁ מְשֻׁגָּ֖ע וּמִתְנַבֵּ֑א וְנָתַתָּ֥ה אֹת֛וֹ אֶל־ הַמַּהְפֶּ֖כֶת וְאֶל־ הַצִּינֹֽק׃"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H3068G]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H3548]]"
+- "[[H8478H]]"
+- "[[H3077J]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H6496]]"
+- "[[H1004Q]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H7696]]"
+- "[[H9002]]"
+- "[[H5012]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H4115]]"
+- "[[H6729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:26**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man [that is] mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.
 <small><sub>**BSB:**</sub></small>
 ‘The LORD has appointed you priest in place of Jehoiada, to be the chief officer in the house of the LORD, responsible for any madman who acts like a prophet—you must put him in stocks and neck irons.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֞ה]] [[H5414I\|נְתָנְ]][[H9031\|ךָ֣]] [[H3548\|כֹהֵ֗ן]] [[H8478H\|תַּ֚חַת]] [[H3077J\|יְהוֹיָדָ֣ע]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9005\|לִֽ]][[H1961\|הְי֤וֹת]] [[H6496\|פְּקִדִים֙]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H7696\|מְשֻׁגָּ֖ע]] [[H9002\|וּ]][[H5012\|מִתְנַבֵּ֑א]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֥ה]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4115\|מַּהְפֶּ֖כֶת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6729\|צִּינֹֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JEHOIADA|JEHOIADA]] • [[topic PRISONERS|PRISONERS]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.25|<< Jeremiah 29:25]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.27|Jeremiah 29:27 >>]]</td></tr></table>
 

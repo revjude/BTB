@@ -1,8 +1,73 @@
+---
+title: Isaiah 36:11
+type: Verse
+kjv: "Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews’ language, in the ears of the people that are on the wall."
+bsb: "Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak to us in Hebrew in the hearing of the people on the wall.”"
+hebrew: "וַיֹּ֣אמֶר אֶלְיָקִים֩ וְשֶׁבְנָ֨א וְיוֹאָ֜ח אֶל־ רַב־ שָׁקֵ֗ה דַּבֶּר־ נָ֤א אֶל־ עֲבָדֶ֙יךָ֙ אֲרָמִ֔ית כִּ֥י שֹׁמְעִ֖ים אֲנָ֑חְנוּ וְאַל־ תְּדַבֵּ֤ר אֵלֵ֙ינוּ֙ יְהוּדִ֔ית בְּאָזְנֵ֣י הָעָ֔ם אֲשֶׁ֖ר עַל־ הַחוֹמָֽה׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0471G]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H3098G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7262]]"
+- "[[H1696G]]"
+- "[[H4994]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0762]]"
+- "[[H3588A]]"
+- "[[H8085J]]"
+- "[[H0587]]"
+- "[[H0408]]"
+- "[[H9035]]"
+- "[[H3066]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H2346G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:11**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand [it]: and speak not to us in the Jews’ language, in the ears of the people that [are] on the wall.
 <small><sub>**BSB:**</sub></small>
 Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak to us in Hebrew in the hearing of the people on the wall.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0471G\|אֶלְיָקִים֩]] [[H9002\|וְ]][[H7644\|שֶׁבְנָ֨א]] [[H9002\|וְ]][[H3098G\|יוֹאָ֜ח]] [[H0413\|אֶל]][[H9014\|־]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֗ה]] [[H1696G\|דַּבֶּר]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H0762\|אֲרָמִ֔ית]] [[H3588A\|כִּ֥י]] [[H8085J\|שֹׁמְעִ֖ים]] [[H0587\|אֲנָ֑חְנוּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1696G\|תְּדַבֵּ֤ר]] [[H0413\|אֵלֵ֙י]][[H9035\|נוּ֙]] [[H3066\|יְהוּדִ֔ית]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חוֹמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELIAKIM|ELIAKIM]] • [[topic JOAH|JOAH]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.10|<< Isaiah 36:10]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.12|Isaiah 36:12 >>]]</td></tr></table>
 

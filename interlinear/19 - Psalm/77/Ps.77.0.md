@@ -1,6 +1,45 @@
+---
+title: Psalm 77:0
+type: Verse
+kjv: "To the chief Musician, to Jeduthun, A Psalm of Asaph."
+hebrew: "לַמְנַצֵּ֥חַ עַֽל־ יְדוּת֗וּן לְאָסָ֥ף מִזְמֽוֹר׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3038G]]"
+- "[[H0623H]]"
+- "[[H4210]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 77:0**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, to Jeduthun, A Psalm of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3038G\|יְדוּת֗וּן]] [[H9005\|לְ]][[H0623H\|אָסָ֥ף]] [[H4210\|מִזְמֽוֹר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.12|<< Psalms 76:12]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.1|Psalms 77:1 >>]]</td></tr></table>
 

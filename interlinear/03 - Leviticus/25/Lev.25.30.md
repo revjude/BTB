@@ -1,8 +1,80 @@
+---
+title: Leviticus 25:30
+type: Verse
+kjv: "And if it be not redeemed within the space of a full year, then the house that is in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile."
+bsb: "If it is not redeemed by the end of a full year, then the house in the walled city is permanently transferred to its buyer and his descendants. It is not to be released in the Jubilee."
+hebrew: "וְאִ֣ם לֹֽא־ יִגָּאֵ֗ל עַד־ מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָם הַבַּ֨יִת אֲשֶׁר־ בָּעִ֜יר אֲשֶׁר־ ל֣וֹ חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל׃"
+pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic HOMESTEAD|HOMESTEAD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1350A]]"
+- "[[H5704]]"
+- "[[H4390]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8141]]"
+- "[[H8549I]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2346G]]"
+- "[[H6783]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H1755]]"
+- "[[H9023]]"
+- "[[H3318H]]"
+- "[[H3104]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Leviticus 25:30**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it be not redeemed within the space of a full year, then the house that [is] in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.
 <small><sub>**BSB:**</sub></small>
 If it is not redeemed by the end of a full year, then the house in the walled city is permanently transferred to its buyer and his descendants. It is not to be released in the Jubilee.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֣ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1350A\|יִגָּאֵ֗ל]] [[H5704\|עַד]][[H9014\|־]] [[H4390\|מְלֹ֣את]] [[H9005\|ל]][[H9033\|וֹ֮]] [[H8141\|שָׁנָ֣ה]] [[H8549I\|תְמִימָה֒]] [[H9001\|וְ֠]][[H6965I\|קָם]] [[H9009\|הַ]][[H1004B\|בַּ֨יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ]][[H5892B\|עִ֜יר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H2346G\|חֹמָ֗ה]] [[H9005\|לַ]][[H6783\|צְּמִיתֻ֛ת]] [[H9005\|לַ]][[H7069\|קֹּנֶ֥ה]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H1755\|דֹרֹתָ֑י]][[H9023\|ו]] [[H3808\|לֹ֥א]] [[H3318H\|יֵצֵ֖א]] [[H9003\|בַּ]][[H3104\|יֹּבֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic HOMESTEAD|HOMESTEAD]] • [[topic HOUSE|HOUSE]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.29|<< Leviticus 25:29]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.31|Leviticus 25:31 >>]]</td></tr></table>
 

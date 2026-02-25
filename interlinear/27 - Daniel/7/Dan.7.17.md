@@ -1,8 +1,56 @@
+---
+title: Daniel 7:17
+type: Verse
+kjv: "These great beasts, which are four, are four kings, which shall arise out of the earth."
+bsb: "‘These four great beasts are four kings who will arise from the earth."
+aramaic: "אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן מִן־ אַרְעָֽא׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HORN|HORN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H0459]]"
+- "[[H2423]]"
+- "[[H9010]]"
+- "[[H7260]]"
+- "[[H1768]]"
+- "[[H0581B]]"
+- "[[H0703]]"
+- "[[H4430]]"
+- "[[H6966G]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H0772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:17**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These great beasts, which are four, [are] four kings, [which] shall arise out of the earth.
 <small><sub>**BSB:**</sub></small>
 ‘These four great beasts are four kings who will arise from the earth.
+<small><sub>**Aramaic:**</sub></small>
+[[H0459\|אִלֵּין֙]] [[H2423\|חֵיוָתָ֣]][[H9010\|א]] [[H7260\|רַבְרְבָתָ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H0581B\|אִנִּ֖ין]] [[H0703\|אַרְבַּ֑ע]] [[H0703\|אַרְבְּעָ֥ה]] [[H4430\|מַלְכִ֖ין]] [[H6966G\|יְקוּמ֥וּן]] [[H4481\|מִן]][[H9014\|־]] [[H0772I\|אַרְעָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HORN|HORN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.16|<< Daniel 7:16]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.18|Daniel 7:18 >>]]</td></tr></table>
 

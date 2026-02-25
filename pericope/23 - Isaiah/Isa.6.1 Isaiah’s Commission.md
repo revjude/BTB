@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaiah’s Commission
+type: Pericope
 pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 6
 book/chapter: "[[Isa.6|Isaiah 6]]"
-genre:
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.6.1]]"
 - "[[Isa.6.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.6.13]]"
 ---
 
-[[Isa.6|Isaiah 6:1 - Isaiah 6:13]]
+<small>[[Isa.6|Isaiah 6:1-13]]</small>
 *Isaiah’s Commission*
 
 [[Isa.6.1|1]] In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.

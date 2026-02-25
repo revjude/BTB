@@ -1,8 +1,62 @@
+---
+title: Numbers 8:8
+type: Verse
+kjv: "Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering."
+bsb: "Then have them take a young bull with its grain offering of fine flour mixed with oil, and you are to take a second young bull for a sin offering."
+hebrew: "וְלָֽקְחוּ֙ פַּ֣ר בֶּן־ בָּקָ֔ר וּמִנְחָת֔וֹ סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן וּפַר־ שֵׁנִ֥י בֶן־ בָּקָ֖ר תִּקַּ֥ח לְחַטָּֽאת׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H9023]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H8145]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:8**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then let them take a young bullock with his meat offering, [even] fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.
 <small><sub>**BSB:**</sub></small>
 Then have them take a young bull with its grain offering of fine flour mixed with oil, and you are to take a second young bull for a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָֽקְחוּ֙]] [[H6499\|פַּ֣ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֔ר]] [[H9002\|וּ]][[H4503G\|מִנְחָת֔]][[H9023\|וֹ]] [[H5560\|סֹ֖לֶת]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שָּׁ֑מֶן]] [[H9002\|וּ]][[H6499\|פַר]][[H9014\|־]] [[H8145\|שֵׁנִ֥י]] [[H1121H\|בֶן]][[H9014\|־]] [[H1241\|בָּקָ֖ר]] [[H3947G\|תִּקַּ֥ח]] [[H9005\|לְ]][[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.7|<< Numbers 8:7]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.9|Numbers 8:9 >>]]</td></tr></table>
 

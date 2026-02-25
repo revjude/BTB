@@ -1,10 +1,60 @@
+---
+title: Mark 7:12
+type: Verse
+kjv: "And ye suffer him no more to do ought for his father or his mother;"
+bsb: "he is no longer permitted to do anything for his father or mother."
+jesus_said: "And ye suffer him no more to do ought for his father or his mother;"
+greek: "καὶ οὐκέτι οὐκέτι ἀφίετε αὐτὸν οὐδὲν ποιῆσαι τῷ πατρὶ αὐτοῦ ἢ τῇ μητρί αὐτοῦ,"
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G0863I]]"
+- "[[G0846]]"
+- "[[G3762]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2228]]"
+- "[[G3384]]"
+texts:
+- ko
+- NKO
+- k
+---
+
 **Mark 7:12**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye suffer him no more to do ought for his father or his mother;
 <small><sub>**BSB:**</sub></small>
 he is no longer permitted to do anything for his father or mother.
-<small><sub>**Literal:**</sub></small>
-and no longer you do allow him no [thing] to do for the father of him or for the mother of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.11|<< Mark 7:11]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.13|Mark 7:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G0863I\|ἀφίετε]]  [[G0846\|αὐτὸν]]  [[G3762\|οὐδὲν]]  [[G4160G\|ποιῆσαι]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G0846\|αὐτοῦ]]  [[G2228\|ἢ]]  [[G3588\|τῇ]]  [[G3384\|μητρί]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOTHER|MOTHER]] • [[topic PHARISEES|PHARISEES]] • [[topic VOWS|VOWS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.11|<< Mark 7:11]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.13|Mark 7:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

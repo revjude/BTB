@@ -1,8 +1,57 @@
+---
+title: Deuteronomy 29:16
+type: Verse
+kjv: "(For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;"
+bsb: "For you yourselves know how we lived in the land of Egypt and how we passed through the nations on the way here."
+hebrew: "כִּֽי־ אַתֶּ֣ם יְדַעְתֶּ֔ם אֵ֥ת אֲשֶׁר־ יָשַׁ֖בְנוּ בְּאֶ֣רֶץ מִצְרָ֑יִם וְאֵ֧ת אֲשֶׁר־ עָבַ֛רְנוּ בְּקֶ֥רֶב הַגּוֹיִ֖ם אֲשֶׁ֥ר עֲבַרְתֶּֽם׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:16**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;
 <small><sub>**BSB:**</sub></small>
 For you yourselves know how we lived in the land of Egypt and how we passed through the nations on the way here.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H3045\|יְדַעְתֶּ֔ם]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יָשַׁ֖בְנוּ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H0853\|אֵ֧ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5674A\|עָבַ֛רְנוּ]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5674A\|עֲבַרְתֶּֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.15|<< Deuteronomy 29:15]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.17|Deuteronomy 29:17 >>]]</td></tr></table>
 

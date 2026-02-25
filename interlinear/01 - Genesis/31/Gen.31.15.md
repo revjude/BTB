@@ -1,8 +1,64 @@
+---
+title: Genesis 31:15
+type: Verse
+kjv: "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money."
+bsb: "Are we not regarded by him as outsiders? Not only has he sold us, but he has certainly squandered what was paid for us."
+hebrew: "הֲל֧וֹא נָכְרִיּ֛וֹת נֶחְשַׁ֥בְנוּ ל֖וֹ כִּ֣י מְכָרָ֑נוּ וַיֹּ֥אכַל גַּם־ אָכ֖וֹל אֶת־ כַּסְפֵּֽנוּ׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5237]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H4376]]"
+- "[[H9035]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H3701G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:15**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
 <small><sub>**BSB:**</sub></small>
 Are we not regarded by him as outsiders? Not only has he sold us, but he has certainly squandered what was paid for us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֧וֹא]] [[H5237\|נָכְרִיּ֛וֹת]] [[H2803H\|נֶחְשַׁ֥בְנוּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H4376\|מְכָרָ֑]][[H9035\|נוּ]] [[H9001\|וַ]][[H0398\|יֹּ֥אכַל]] [[H1571\|גַּם]][[H9014\|־]] [[H0398\|אָכ֖וֹל]] [[H0853\|אֶת]][[H9014\|־]] [[H3701G\|כַּסְפֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LABAN|LABAN]] • [[topic MONEY|MONEY]] • [[topic RACHEL|RACHEL]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.14|<< Genesis 31:14]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.16|Genesis 31:16 >>]]</td></tr></table>
 

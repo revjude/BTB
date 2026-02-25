@@ -1,10 +1,64 @@
+---
+title: Matthew 7:11
+type: Verse
+kjv: "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
+bsb: "So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!"
+jesus_said: "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
+greek: "εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν;¶"
+pericope: "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G4190]]"
+- "[[G1510]]"
+- "[[G6063]]"
+- "[[G1390]]"
+- "[[G0018]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G4214]]"
+- "[[G3123G]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G0154]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 7:11**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 <small><sub>**BSB:**</sub></small>
 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
-<small><sub>**Literal:**</sub></small>
-If therefore you yourselves evil being you know gifts good to give to the children of you, how much more the Father of you who [is] in the heavens will give good things to those asking Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.10|<< Matthew 7:10]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.12|Matthew 7:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G4771\|ὑμεῖς]]  [[G4190\|πονηροὶ]]  [[G1510\|ὄντες]]  [[G6063\|οἴδατε]]  [[G1390\|δόματα]]  [[G0018\|ἀγαθὰ]]  [[G1325\|διδόναι]]  [[G3588\|τοῖς]]  [[G5043\|τέκνοις]]  [[G4771\|ὑμῶν,]]  [[G4214\|πόσῳ]]  [[G3123G\|μᾶλλον]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G1325\|δώσει]]  [[G0018\|ἀγαθὰ]]  [[G3588\|τοῖς]]  [[G0154\|αἰτοῦσιν]]  [[G0846\|αὐτόν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.10|<< Matthew 7:10]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.12|Matthew 7:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

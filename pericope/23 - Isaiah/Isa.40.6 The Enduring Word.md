@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Enduring Word
+type: Pericope
 pericope: "[[Isa.40.6 The Enduring Word|The Enduring Word]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 40
 book/chapter: "[[Isa.40|Isaiah 40]]"
-genre:
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 3
 verses:
 - "[[Isa.40.6]]"
 - "[[Isa.40.7]]"
 - "[[Isa.40.8]]"
 ---
 
-[[Isa.40|Isaiah 40:6 - Isaiah 40:8]]
+<small>[[Isa.40|Isaiah 40:6-8]]</small>
 *The Enduring Word*
 
 [[Isa.40.6|6]] The voice said, Cry. And he said, What shall I cry? All flesh \[is\] grass, and all the goodliness thereof \[is\] as the flower of the field:

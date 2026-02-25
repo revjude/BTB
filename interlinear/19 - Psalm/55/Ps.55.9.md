@@ -1,8 +1,59 @@
+---
+title: Psalm 55:9
+type: Verse
+kjv: "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city."
+bsb: "O Lord, confuse and confound their speech, for I see violence and strife in the city."
+hebrew: "בַּלַּ֣ע אֲ֭דֹנָי פַּלַּ֣ג לְשׁוֹנָ֑ם כִּֽי־ רָאִ֨יתִי חָמָ֖ס וְרִ֣יב בָּעִֽיר׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H1104]]"
+- "[[H0136]]"
+- "[[H6385]]"
+- "[[H3956H]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H2555]]"
+- "[[H9002]]"
+- "[[H7379]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:9**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destroy, O Lord, [and] divide their tongues: for I have seen violence and strife in the city.
 <small><sub>**BSB:**</sub></small>
 O Lord, confuse and confound their speech, for I see violence and strife in the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H1104\|בַּלַּ֣ע]] [[H0136\|אֲ֭דֹנָי]] [[H6385\|פַּלַּ֣ג]] [[H3956H\|לְשׁוֹנָ֑]][[H9028\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|רָאִ֨יתִי]] [[H2555\|חָמָ֖ס]] [[H9002\|וְ]][[H7379\|רִ֣יב]] [[H9003\|בָּ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.8|<< Psalms 55:8]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.10|Psalms 55:10 >>]]</td></tr></table>
 

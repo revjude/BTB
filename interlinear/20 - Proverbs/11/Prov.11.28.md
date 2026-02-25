@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:28
+type: Verse
+kjv: "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+bsb: "He who trusts in his riches will fall, but the righteous will thrive like foliage."
+hebrew: "בּוֹטֵ֣חַ בְּ֭עָשְׁרוֹ ה֣וּא יִפֹּ֑ל וְ֝כֶעָלֶ֗ה צַדִּיקִ֥ים יִפְרָֽחוּ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H6239]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H5929]]"
+- "[[H6662]]"
+- "[[H6524A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:28**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that trusteth in his riches shall fall: but the righteous shall flourish as a branch.
 <small><sub>**BSB:**</sub></small>
 He who trusts in his riches will fall, but the righteous will thrive like foliage.
+<small><sub>**Hebrew:**</sub></small>
+[[H0982\|בּוֹטֵ֣חַ]] [[H9003\|בְּ֭]][[H6239\|עָשְׁר]][[H9023\|וֹ]] [[H1931\|ה֣וּא]] [[H5307G\|יִפֹּ֑ל]] [[H9002\|וְ֝]][[H9004\|כֶ]][[H5929\|עָלֶ֗ה]] [[H6662\|צַדִּיקִ֥ים]] [[H6524A\|יִפְרָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.27|<< Proverbs 11:27]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.29|Proverbs 11:29 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Anger over Jerusalem
+type: Pericope
 pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 2
 book/chapter: "[[Lam.2|Lamentations 2]]"
-genre:
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 22
 verses:
 - "[[Lam.2.1]]"
 - "[[Lam.2.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lam.2.22]]"
 ---
 
-[[Lam.2|Lamentations 2:1 - Lamentations 2:22]]
+<small>[[Lam.2|Lamentations 2:1-22]]</small>
 *God’s Anger over Jerusalem*
 
 [[Lam.2.1|1]] How hath the Lord covered the daughter of Zion with a cloud in his anger, \[and\] cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!

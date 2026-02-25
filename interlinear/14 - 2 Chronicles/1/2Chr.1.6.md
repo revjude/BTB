@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 1:6
+type: Verse
+kjv: "And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it."
+bsb: "Solomon offered sacrifices there before the LORD on the bronze altar at the Tent of Meeting, where he offered a thousand burnt offerings."
+hebrew: "וַיַּעַל֩ שְׁלֹמֹ֨ה שָׁ֜ם עַל־ מִזְבַּ֤ח הַנְּחֹ֙שֶׁת֙ לִפְנֵ֣י יְהוָ֔ה אֲשֶׁ֖ר לְאֹ֣הֶל מוֹעֵ֑ד וַיַּ֧עַל עָלָ֛יו עֹל֖וֹת אָֽלֶף׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H8010]]"
+- "[[H8033G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5178A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H5927I]]"
+- "[[H9033]]"
+- "[[H5930A]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:6**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon went up thither to the brasen altar before the LORD, which [was] at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.
 <small><sub>**BSB:**</sub></small>
 Solomon offered sacrifices there before the LORD on the bronze altar at the Tent of Meeting, where he offered a thousand burnt offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעַל֩]] [[H8010\|שְׁלֹמֹ֨ה]] [[H8033G\|שָׁ֜ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הַ]][[H5178A\|נְּחֹ֙שֶׁת֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לְ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H5927I\|יַּ֧עַל]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H5930A\|עֹל֖וֹת]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.5|<< 2 Chronicles 1:5]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.7|2 Chronicles 1:7 >>]]</td></tr></table>
 

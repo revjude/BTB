@@ -1,8 +1,67 @@
+---
+title: Judges 17:3
+type: Verse
+kjv: "And when he had restored the eleven hundred shekels of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee."
+bsb: "And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”"
+hebrew: "וַיָּ֛שֶׁב אֶת־ אֶֽלֶף־ וּמֵאָ֥ה הַכֶּ֖סֶף לְאִמּ֑וֹ וַתֹּ֣אמֶר אִמּ֡וֹ הַקְדֵּ֣שׁ הִקְדַּ֣שְׁתִּי אֶת־ הַכֶּסֶף֩ לַיהוָ֨ה מִיָּדִ֜י לִבְנִ֗י לַֽעֲשׂוֹת֙ פֶּ֣סֶל וּמַסֵּכָ֔ה וְעַתָּ֖ה אֲשִׁיבֶ֥נּוּ לָֽךְ׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H6942H]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H1121A]]"
+- "[[H6213H]]"
+- "[[H6459]]"
+- "[[H4541A]]"
+- "[[H6258]]"
+- "[[H9033]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:3**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had restored the eleven hundred [shekels] of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee.
 <small><sub>**BSB:**</sub></small>
 And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725H\|יָּ֛שֶׁב]] [[H0853\|אֶת]][[H9014\|־]] [[H0505G\|אֶֽלֶף]][[H9014\|־]] [[H9002\|וּ]][[H3967\|מֵאָ֥ה]] [[H9009\|הַ]][[H3701G\|כֶּ֖סֶף]] [[H9005\|לְ]][[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0517\|אִמּ֡]][[H9023\|וֹ]] [[H6942H\|הַקְדֵּ֣שׁ]] [[H6942H\|הִקְדַּ֣שְׁתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּסֶף֩]] [[H9005\|לַ]][[H3068G\|יהוָ֨ה]] [[H9006\|מִ]][[H3027G\|יָּדִ֜]][[H9020\|י]] [[H9005\|לִ]][[H1121A\|בְנִ֗]][[H9020\|י]] [[H9005\|לַֽ]][[H6213H\|עֲשׂוֹת֙]] [[H6459\|פֶּ֣סֶל]] [[H9002\|וּ]][[H4541A\|מַסֵּכָ֔ה]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H7725H\|אֲשִׁיבֶ֥]][[H9033\|נּוּ]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEKEL|SHEKEL]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.2|<< Judges 17:2]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.4|Judges 17:4 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Numbers 18:26
+type: Verse
+kjv: "Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, even a tenth part of the tithe."
+bsb: "“Speak to the Levites and tell them: ‘When you receive from the Israelites the tithe that I have given you as your inheritance, you must present part of it as an offering to the LORD—a tithe of the tithe."
+hebrew: "וְאֶל־ הַלְוִיִּ֣ם תְּדַבֵּר֮ וְאָמַרְתָּ֣ אֲלֵהֶם֒ כִּֽי־ תִ֠קְחוּ מֵאֵ֨ת בְּנֵֽי־ יִשְׂרָאֵ֜ל אֶת־ הַֽמַּעֲשֵׂ֗ר אֲשֶׁ֨ר נָתַ֧תִּי לָכֶ֛ם מֵאִתָּ֖ם בְּנַחֲלַתְכֶ֑ם וַהֲרֵמֹתֶ֤ם מִמֶּ֙נּוּ֙ תְּרוּמַ֣ת יְהוָ֔ה מַעֲשֵׂ֖ר מִן־ הַֽמַּעֲשֵֽׂר׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H1696G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H4643]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H9026]]"
+- "[[H7311A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H8641]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:26**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, [even] a tenth [part] of the tithe.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Levites and tell them: ‘When you receive from the Israelites the tithe that I have given you as your inheritance, you must present part of it as an offering to the LORD—a tithe of the tithe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֣ם]] [[H1696G\|תְּדַבֵּר֮]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶם֒]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3947G\|תִ֠קְחוּ]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4643\|מַּעֲשֵׂ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֧תִּי]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9006\|מֵ]][[H0854\|אִתָּ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H5159\|נַחֲלַתְ]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H7311A\|הֲרֵמֹתֶ֤ם]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H8641\|תְּרוּמַ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H4643\|מַעֲשֵׂ֖ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4643\|מַּעֲשֵֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.25|<< Numbers 18:25]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.27|Numbers 18:27 >>]]</td></tr></table>
 

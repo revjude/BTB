@@ -1,10 +1,54 @@
+---
+title: Revelation 17:18
+type: Verse
+kjv: "And the woman which thou sawest is that great city, which reigneth over the kings of the earth."
+bsb: "And the woman you saw is the great city that rules over the kings of the earth.”"
+greek: "καὶ ἡ γυνὴ ἣν εἶδες, ἔστιν ἡ πόλις ἡ μεγάλη ἡ ἔχουσα βασιλείαν ἐπὶ τῶν βασιλέων τῆς γῆς.¶"
+pericope: "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G1510]]"
+- "[[G4172]]"
+- "[[G3173]]"
+- "[[G2192]]"
+- "[[G0932]]"
+- "[[G1909]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+texts:
+- NKO
+---
+
 **Revelation 17:18**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
 <small><sub>**BSB:**</sub></small>
 And the woman you saw is the great city that rules over the kings of the earth.”
-<small><sub>**Literal:**</sub></small>
-And the woman whom you saw is the city <the> great which is having kingship over the kings of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.17|<< Revelation 17:17]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.1|Revelation 18:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G3739\|ἣν]]  [[G1492H\|εἶδες,]]  [[G1510\|ἔστιν]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G3588\|ἡ]]  [[G2192\|ἔχουσα]]  [[G0932\|βασιλείαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G0935\|βασιλέων]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.17|<< Revelation 17:17]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.1|Revelation 18:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

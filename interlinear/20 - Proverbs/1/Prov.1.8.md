@@ -1,8 +1,55 @@
+---
+title: Proverbs 1:8
+type: Verse
+kjv: "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+bsb: "Listen, my son, to your father’s instruction, and do not forsake the teaching of your mother."
+hebrew: "שְׁמַ֣ע בְּ֭נִי מוּסַ֣ר אָבִ֑יךָ וְאַל־ תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ׃"
+pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H8085G]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H4148H]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5203]]"
+- "[[H8451]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:8**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, hear the instruction of thy father, and forsake not the law of thy mother:
 <small><sub>**BSB:**</sub></small>
 Listen, my son, to your father’s instruction, and do not forsake the teaching of your mother.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְׁמַ֣ע]] [[H1121A\|בְּ֭נִ]][[H9020\|י]] [[H4148H\|מוּסַ֣ר]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5203\|תִּ֝טֹּ֗שׁ]] [[H8451\|תּוֹרַ֥ת]] [[H0517\|אִמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.7|<< Proverbs 1:7]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.9|Proverbs 1:9 >>]]</td></tr></table>
 

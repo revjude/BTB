@@ -1,6 +1,80 @@
+---
+title: LXX Malachi 1:14
+type: Verse
+lxx: "And accursed be the man who was mighty, and a male existed among his flock, and  his vow was upon him, and he sacrifices a thing being corrupted to the lord. For I am great king, says the lord almighty, and  my name is prominent among the nations."
+greek: "και επικατάρατος ο άνθρωπος ος ην δυνατός και υπήρχεν εν τω ποιμνίω αυτού άρσεν και η ευχή αυτού επ΄ αυτώ και θύει διεφθαρμένον τω κυρίω διότι βασιλεύς μέγας εγώ ειμι λέγει κύριος παντοκράτωρ και το όνομά μου επιφανές εν τοις έθνεσι"
+original_language: Greek
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1944]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1415]]"
+- "[[G2532]]"
+- "[[G5225]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4168]]"
+- "[[G1473]]"
+- "[[G0730]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2171]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2380]]"
+- "[[G1311]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1360]]"
+- "[[G0935]]"
+- "[[G3173]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3841]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G2016]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1484]]"
+---
+
 **LXX Malachi 1:14** 
 <small><sub>**LXX:**</sub></small>
 And accursed be the man who was mighty, and a male existed among his flock, and  his vow \[was\] upon him, and he sacrifices a \[thing\] being corrupted to the <span class="smallcaps">lord</span>. For I am great king, says \[the\] <span class="smallcaps">lord</span> almighty, and  my name is prominent among the nations. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1944\|επικατάρατος]] [[G3588\|ο]] [[G0444\|άνθρωπος]] [[G3739\|ος]] [[G1510\|ην]] [[G1415\|δυνατός]] [[G2532\|και]] [[G5225\|υπήρχεν]] [[G1722\|εν]] [[G3588\|τω]] [[G4168\|ποιμνίω]] [[G1473\|αυτού]] [[G0730\|άρσεν]] [[G2532\|και]] [[G3588\|η]] [[G2171\|ευχή]] [[G1473\|αυτού]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G2532\|και]] [[G2380\|θύει]] [[G1311\|διεφθαρμένον]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G1360\|διότι]] [[G0935\|βασιλεύς]] [[G3173\|μέγας]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3841\|παντοκράτωρ]] [[G2532\|και]] [[G3588\|το]] [[G3686\|όνομά]] [[G1473\|μου]] [[G2016\|επιφανές]] [[G1722\|εν]] [[G3588\|τοις]] [[G1484\|έθνεσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic FORMALISM|FORMALISM]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Mal.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
 
@@ -44,6 +118,6 @@ And accursed be the man who was mighty, and a male existed among his flock, and 
 | among | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τοις]]</big>** |
 | nations. | **<big>[[G1484\|έθνεσι]]</big>** |
-[[Mal.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
 
 

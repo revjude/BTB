@@ -1,10 +1,59 @@
+---
+title: John 14:19
+type: Verse
+kjv: "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also."
+bsb: "In a little while the world will see Me no more, but you will see Me. Because I live, you also will live."
+jesus_said: "Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also."
+greek: "Ἔτι μικρὸν καὶ ὁ κόσμος με οὐκέτι οὐκέτι θεωρεῖ, ὑμεῖς δὲ θεωρεῖτέ με· ὅτι ἐγὼ ζῶ, καὶ ὑμεῖς ζήσετε."
+pericope: "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2089]]"
+- "[[G3398]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G2334]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3754H]]"
+- "[[G1473]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 14:19**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
 <small><sub>**BSB:**</sub></small>
 In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.
-<small><sub>**Literal:**</sub></small>
-Yet a little while and the world Me no longer sees, you yourselves however see Me; because I myself live, also you yourselves will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.18|<< John 14:18]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.20|John 14:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|Ἔτι]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3165\|με]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G2334\|θεωρεῖ,]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G2334\|θεωρεῖτέ]]  [[G3165\|με·]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G2198\|ζῶ,]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G2198\|ζήσετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.18|<< John 14:18]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.20|John 14:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

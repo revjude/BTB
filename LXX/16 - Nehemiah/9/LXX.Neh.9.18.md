@@ -1,6 +1,61 @@
+---
+title: LXX Nehemiah 9:18
+type: Verse
+lxx: "And still also they made for themselves a molten calf. And they said, These are the gods, the ones leading us from Egypt. And they committed great provocations to anger."
+greek: "έτι δε και εποίησαν εαυτοίς μόσχον χωνευτόν και είπαν ούτοι οι θεοί οι εξαγαγόντες ημάς εξ Αιγύπτου και εποίησαν παροργισμούς μεγάλους"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2089]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1438]]"
+- "[[G3448]]"
+- "[[G9778]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1806]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3950]]"
+- "[[G3173]]"
+---
+
 **LXX Nehemiah 9:18** 
 <small><sub>**LXX:**</sub></small>
 And still also they made for themselves a molten calf. And they said, These \[are\] the gods, the ones leading us from Egypt. And they committed great provocations to anger. 
+<small><sub>**Greek:**</sub></small>
+[[G2089\|έτι]] [[G1161\|δε]] [[G2532\|και]] [[G4160\|εποίησαν]] [[G1438\|εαυτοίς]] [[G3448\|μόσχον]] [[G9778\|χωνευτόν]] [[G2532\|και]] [[G2036\|είπαν]] [[G3778\|ούτοι]] [[G3588\|οι]] [[G2316\|θεοί]] [[G3588\|οι]] [[G1806\|εξαγαγόντες]] [[G1473\|ημάς]] [[G1537\|εξ]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G4160\|εποίησαν]] [[G3950\|παροργισμούς]] [[G3173\|μεγάλους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.17|<< Nehemiah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.19|Nehemiah 9:19 >>]]</td></tr></table>
 
@@ -26,6 +81,6 @@ And still also they made for themselves a molten calf. And they said, These \[ar
 | they committed | **<big>[[G4160\|εποίησαν]]</big>** |
 | provocations to anger | **<big>[[G3950\|παροργισμούς]]</big>** |
 | great | **<big>[[G3173\|μεγάλους]]</big>** |
-[[Neh.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.17|<< Nehemiah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.19|Nehemiah 9:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.17|<< Nehemiah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.19|Nehemiah 9:19 >>]]</td></tr></table>
 
 

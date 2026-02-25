@@ -1,8 +1,68 @@
+---
+title: 2 Kings 6:31
+type: Verse
+kjv: "Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day."
+bsb: "He announced, “May God punish me, and ever so severely, if the head of Elisha son of Shaphat remains on his shoulders through this day!”"
+hebrew: "וַיֹּ֕אמֶר כֹּֽה־ יַעֲשֶׂה־ לִּ֥י אֱלֹהִ֖ים וְכֹ֣ה יוֹסִ֑ף אִֽם־ יַעֲמֹ֞ד רֹ֣אשׁ אֱלִישָׁ֧ע בֶּן־ שָׁפָ֛ט עָלָ֖יו הַיּֽוֹם׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHAPHAT|SHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H0518A]]"
+- "[[H5975G]]"
+- "[[H7218A]]"
+- "[[H0477]]"
+- "[[H1121A]]"
+- "[[H8202H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:31**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
 <small><sub>**BSB:**</sub></small>
 He announced, “May God punish me, and ever so severely, if the head of Elisha son of Shaphat remains on his shoulders through this day!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יוֹסִ֑ף]] [[H0518A\|אִֽם]][[H9014\|־]] [[H5975G\|יַעֲמֹ֞ד]] [[H7218A\|רֹ֣אשׁ]] [[H0477\|אֱלִישָׁ֧ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8202H\|שָׁפָ֛ט]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELISHA|ELISHA]] • [[topic ISRAEL|ISRAEL]] • [[topic MALICE|MALICE]] • [[topic OATH|OATH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SAMARIA|SAMARIA]] • [[topic SHAPHAT|SHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.30|<< 2 Kings 6:30]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.32|2 Kings 6:32 >>]]</td></tr></table>
 

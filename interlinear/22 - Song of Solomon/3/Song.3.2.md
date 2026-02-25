@@ -1,8 +1,57 @@
+---
+title: Song of Solomon 3:2
+type: Verse
+kjv: "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not."
+bsb: "I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him."
+hebrew: "אָק֨וּמָה נָּ֜א וַאֲסוֹבְבָ֣ה בָעִ֗יר בַּשְּׁוָקִים֙ וּבָ֣רְחֹב֔וֹת אֲבַקְשָׁ֕ה אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃"
+pericope: "[[Song.3.1 The Bride’s Dream|The Bride’s Dream]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H6965B]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H5437H]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H7784]]"
+- "[[H7339]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9007]]"
+- "[[H0157G]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 3:2**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.
 <small><sub>**BSB:**</sub></small>
 I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|אָק֨וּמָה]] [[H4994\|נָּ֜א]] [[H9002\|וַ]][[H5437H\|אֲסוֹבְבָ֣ה]] [[H9003\|בָ]][[H5892B\|עִ֗יר]] [[H9003\|בַּ]][[H7784\|שְּׁוָקִים֙]] [[H9002\|וּ]][[H9003\|בָ֣]][[H7339\|רְחֹב֔וֹת]] [[H1245\|אֲבַקְשָׁ֕ה]] [[H0853\|אֵ֥ת]] [[H9007\|שֶׁ]][[H0157G\|אָהֲבָ֖ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H1245\|בִּקַּשְׁתִּ֖י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|מְצָאתִֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.1|<< Song of Solomon 3:1]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.3|Song of Solomon 3:3 >>]]</td></tr></table>
 

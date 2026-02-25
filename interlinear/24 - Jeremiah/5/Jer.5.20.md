@@ -1,8 +1,54 @@
+---
+title: Jeremiah 5:20
+type: Verse
+kjv: "Declare this in the house of Jacob, and publish it in Judah, saying,"
+bsb: "Declare this in the house of Jacob and proclaim it in Judah:"
+hebrew: "הַגִּ֥ידוּ זֹ֖את בְּבֵ֣ית יַעֲקֹ֑ב וְהַשְׁמִיע֥וּהָ בִיהוּדָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H5046]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H8085I]]"
+- "[[H9034]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:20**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare this in the house of Jacob, and publish it in Judah, saying,
 <small><sub>**BSB:**</sub></small>
 Declare this in the house of Jacob and proclaim it in Judah:
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|הַגִּ֥ידוּ]] [[H2063\|זֹ֖את]] [[H9003\|בְּ]][[H1004M\|בֵ֣ית]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H8085I\|הַשְׁמִיע֥וּ]][[H9034\|הָ]] [[H9003\|בִ]][[H3063G\|יהוּדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.19|<< Jeremiah 5:19]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.21|Jeremiah 5:21 >>]]</td></tr></table>
 

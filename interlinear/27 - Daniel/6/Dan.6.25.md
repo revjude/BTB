@@ -1,8 +1,62 @@
+---
+title: Daniel 6:25
+type: Verse
+kjv: "Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you."
+bsb: "Then King Darius wrote to the people of every nation and language throughout the land: “May your prosperity abound."
+aramaic: "בֵּאדַ֜יִן דָּרְיָ֣וֶשׁ מַלְכָּ֗א כְּ֠תַב לְֽכָל־ עַֽמְמַיָּ֞א אֻמַיָּ֧א וְלִשָּׁנַיָּ֛א דִּֽי־ דָיְרִ֥ין בְּכָל־ אַרְעָ֖א שְׁלָמְכ֥וֹן יִשְׂגֵּֽא׃"
+pericope: "[[Dan.6.25 Darius Honors God|Darius Honors God]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H1868H]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H3790]]"
+- "[[H9005]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H5972]]"
+- "[[H0524]]"
+- "[[H9002]]"
+- "[[H3961]]"
+- "[[H1768]]"
+- "[[H1753]]"
+- "[[H0772I]]"
+- "[[H8001]]"
+- "[[H9026]]"
+- "[[H7680]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:25**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 <small><sub>**BSB:**</sub></small>
 Then King Darius wrote to the people of every nation and language throughout the land: “May your prosperity abound.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֜יִן]] [[H1868H\|דָּרְיָ֣וֶשׁ]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H3790\|כְּ֠תַב]] [[H9005\|לְֽ]][[H3606\|כָל]][[H9014\|־]] [[H5972\|עַֽמְמַיָּ֞]][[H9010\|א]] [[H0524\|אֻמַיָּ֧]][[H9010\|א]] [[H9002\|וְ]][[H3961\|לִשָּׁנַיָּ֛]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1753\|דָיְרִ֥ין]] [[H9003\|בְּ]][[H3606\|כָל]][[H9014\|־]] [[H0772I\|אַרְעָ֖]][[H9010\|א]] [[H8001\|שְׁלָמְ]][[H9026\|כ֥וֹן]] [[H7680\|יִשְׂגֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.24|<< Daniel 6:24]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.26|Daniel 6:26 >>]]</td></tr></table>
 

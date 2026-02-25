@@ -1,8 +1,69 @@
+---
+title: Leviticus 5:2
+type: Verse
+kjv: "Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty."
+bsb: "Or if a person touches anything unclean—whether the carcass of any unclean wild animal or livestock or crawling creature—even if he is unaware of it, he is unclean and guilty."
+hebrew: "א֣וֹ נֶ֗פֶשׁ אֲשֶׁ֣ר תִּגַּע֮ בְּכָל־ דָּבָ֣ר טָמֵא֒ אוֹ֩ בְנִבְלַ֨ת חַיָּ֜ה טְמֵאָ֗ה א֤וֹ בְּנִבְלַת֙ בְּהֵמָ֣ה טְמֵאָ֔ה א֕וֹ בְּנִבְלַ֖ת שֶׁ֣רֶץ טָמֵ֑א וְנֶעְלַ֣ם מִמֶּ֔נּוּ וְה֥וּא טָמֵ֖א וְאָשֵֽׁם׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H0176A]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H2931]]"
+- "[[H5038]]"
+- "[[H2416C]]"
+- "[[H0929]]"
+- "[[H8318]]"
+- "[[H9001]]"
+- "[[H5956]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:2**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if a soul touch any unclean thing, whether [it be] a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and [if] it be hidden from him; he also shall be unclean, and guilty.
 <small><sub>**BSB:**</sub></small>
 Or if a person touches anything unclean—whether the carcass of any unclean wild animal or livestock or crawling creature—even if he is unaware of it, he is unclean and guilty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H5315J\|נֶ֗פֶשׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5060\|תִּגַּע֮]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1697I\|דָּבָ֣ר]] [[H2931\|טָמֵא֒]] [[H0176A\|אוֹ֩]] [[H9003\|בְ]][[H5038\|נִבְלַ֨ת]] [[H2416C\|חַיָּ֜ה]] [[H2931\|טְמֵאָ֗ה]] [[H0176A\|א֤וֹ]] [[H9003\|בְּ]][[H5038\|נִבְלַת֙]] [[H0929\|בְּהֵמָ֣ה]] [[H2931\|טְמֵאָ֔ה]] [[H0176A\|א֕וֹ]] [[H9003\|בְּ]][[H5038\|נִבְלַ֖ת]] [[H8318\|שֶׁ֣רֶץ]] [[H2931\|טָמֵ֑א]] [[H9001\|וְ]][[H5956\|נֶעְלַ֣ם]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H2931\|טָמֵ֖א]] [[H9001\|וְ]][[H0816\|אָשֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.1|<< Leviticus 5:1]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.3|Leviticus 5:3 >>]]</td></tr></table>
 

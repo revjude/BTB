@@ -1,8 +1,70 @@
+---
+title: 1 Kings 19:15
+type: Verse
+kjv: "And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria:"
+bsb: "Then the LORD said to him, “Go back by the way you came, and go to the Desert of Damascus. When you arrive, you are to anoint Hazael as king over Aram."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֵלָ֔יו לֵ֛ךְ שׁ֥וּב לְדַרְכְּךָ֖ מִדְבַּ֣רָה דַמָּ֑שֶׂק וּבָ֗אתָ וּמָשַׁחְתָּ֧ אֶת־ חֲזָאֵ֛ל לְמֶ֖לֶךְ עַל־ אֲרָֽם׃"
+pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H1870K]]"
+- "[[H9021]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H1834]]"
+- "[[H0935G]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2371]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H0758I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:15**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael [to be] king over Syria:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to him, “Go back by the way you came, and go to the Desert of Damascus. When you arrive, you are to anoint Hazael as king over Aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H1980G\|לֵ֛ךְ]] [[H7725G\|שׁ֥וּב]] [[H9005\|לְ]][[H1870K\|דַרְכְּ]][[H9021\|ךָ֖]] [[H4057B\|מִדְבַּ֣רָ]][[H9011\|ה]] [[H1834\|דַמָּ֑שֶׂק]] [[H9001\|וּ]][[H0935G\|בָ֗אתָ]] [[H9001\|וּ]][[H4886\|מָשַׁחְתָּ֧]] [[H0853\|אֶת]][[H9014\|־]] [[H2371\|חֲזָאֵ֛ל]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0758I\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DOUBTING|DOUBTING]] • [[topic ELIJAH|ELIJAH]] • [[topic HAZAEL|HAZAEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.14|<< 1 Kings 19:14]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.16|1 Kings 19:16 >>]]</td></tr></table>
 

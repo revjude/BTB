@@ -1,8 +1,52 @@
+---
+title: Proverbs 15:12
+type: Verse
+kjv: "A scorner loveth not one that reproveth him: neither will he go unto the wise."
+bsb: "A mocker does not love to be reproved, nor will he consult the wise."
+hebrew: "לֹ֣א יֶאֱהַב־ לֵ֭ץ הוֹכֵ֣חַֽ ל֑וֹ אֶל־ חֲ֝כָמִ֗ים לֹ֣א יֵלֵֽךְ׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H3808]]"
+- "[[H0157G]]"
+- "[[H9014]]"
+- "[[H3887]]"
+- "[[H3198]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H2450]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:12**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A scorner loveth not one that reproveth him: neither will he go unto the wise.
 <small><sub>**BSB:**</sub></small>
 A mocker does not love to be reproved, nor will he consult the wise.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H0157G\|יֶאֱהַב]][[H9014\|־]] [[H3887\|לֵ֭ץ]] [[H3198\|הוֹכֵ֣חַֽ]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H2450\|חֲ֝כָמִ֗ים]] [[H3808\|לֹ֣א]] [[H1980G\|יֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.11|<< Proverbs 15:11]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.13|Proverbs 15:13 >>]]</td></tr></table>
 

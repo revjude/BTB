@@ -1,10 +1,68 @@
+---
+title: Romans 4:17
+type: Verse
+kjv: "(As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were."
+bsb: "As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist."
+greek: "καθὼς γέγραπται ὅτι πατέρα πολλῶν ἐθνῶν τέθεικά σε, κατέναντι οὗ ἐπίστευσεν θεοῦ, τοῦ ζῳοποιοῦντος τοὺς νεκροὺς καὶ καλοῦντος τὰ μὴ ὄντα ὡς ὄντα·"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic QUICKENING|QUICKENING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G3962]]"
+- "[[G4183]]"
+- "[[G1484]]"
+- "[[G5087]]"
+- "[[G4771]]"
+- "[[G2713]]"
+- "[[G3739]]"
+- "[[G4100]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G2227]]"
+- "[[G3498]]"
+- "[[G2532]]"
+- "[[G2564G]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G5613]]"
+texts:
+- NKO
+---
+
 **Romans 4:17**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (As it is written, I have made thee a father of many nations,) before him whom he believed, [even] God, who quickeneth the dead, and calleth those things which be not as though they were.
 <small><sub>**BSB:**</sub></small>
 As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.
-<small><sub>**Literal:**</sub></small>
-even as it has been written that A father of many nations I have made you, before whom he believed God, who is giving life to the dead and calling the [things] not [into] being as existing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.16|<< Romans 4:16]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.18|Romans 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G3962\|πατέρα]]  [[G4183\|πολλῶν]]  [[G1484\|ἐθνῶν]]  [[G5087\|τέθεικά]]  [[G4771\|σε,]]  [[G2713\|κατέναντι]]  [[G3739\|οὗ]]  [[G4100\|ἐπίστευσεν]]  [[G2316\|θεοῦ,]]  [[G3588\|τοῦ]]  [[G2227\|ζῳοποιοῦντος]]  [[G3588\|τοὺς]]  [[G3498\|νεκροὺς]]  [[G2532\|καὶ]]  [[G2564G\|καλοῦντος]]  [[G3588\|τὰ]]  [[G3361\|μὴ]]  [[G1510\|ὄντα]]  [[G5613\|ὡς]]  [[G1510\|ὄντα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LIFE|LIFE]] • [[topic QUICKENING|QUICKENING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.16|<< Romans 4:16]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.18|Romans 4:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 4:17** is...
 > $\quad$ referencing: [[LXX.Gen.17.5|Gen 17:5]]

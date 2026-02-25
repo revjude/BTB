@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 16:6
+type: Verse
+kjv: "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go."
+bsb: "Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go."
+greek: "πρὸς ὑμᾶς δὲ τυχὸν παραμενῶ ἢ καὶ παραχειμάσω, ἵνα ὑμεῖς με προπέμψητε οὗ ἐὰν πορεύωμαι."
+pericope: "[[1Cor.16.5 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CORINTH|CORINTH]]"
+strongs:
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G5177]]"
+- "[[G3887]]"
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G3914]]"
+- "[[G2443]]"
+- "[[G3165]]"
+- "[[G4311]]"
+- "[[G3757]]"
+- "[[G1437]]"
+- "[[G4198]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 16:6**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.
 <small><sub>**BSB:**</sub></small>
 Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go.
-<small><sub>**Literal:**</sub></small>
-With you then possibly I will continue or even I will winter, so that you yourselves me may equip wherever if I shall go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.5|<< 1 Corinthians 16:5]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.7|1 Corinthians 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1161\|δὲ]]  [[G5177\|τυχὸν]]  [[G3887\|παραμενῶ]]  [[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G3914\|παραχειμάσω,]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G3165\|με]]  [[G4311\|προπέμψητε]]  [[G3757\|οὗ]]  [[G1437\|ἐὰν]]  [[G4198\|πορεύωμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.5|<< 1 Corinthians 16:5]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.7|1 Corinthians 16:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

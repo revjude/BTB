@@ -1,10 +1,70 @@
+---
+title: Matthew 23:14
+type: Verse
+kjv: "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation."
+bsb: ""
+jesus_said: "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation."
+greek: "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι, ὑποκριταί, ὅτι κατεσθίετε τὰς οἰκίας τῶν χηρῶν, καὶ προφάσει μακρὰν προσευχόμενοι· διὰ τοῦτο λήψεσθε περισσότερον κρίμα."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G2719]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G5503]]"
+- "[[G4392]]"
+- "[[G3112]]"
+- "[[G4336]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2983]]"
+- "[[G4055]]"
+- "[[G2917]]"
+texts:
+- K
+---
+
 **Matthew 23:14**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-woe to you scribes and Pharisees hypocrites for you devour <the> houses <the> widows and as a pretext long praying; through this you will receive more excessive judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.13|<< Matthew 23:13]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.15|Matthew 23:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι,]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G2719\|κατεσθίετε]]  [[G3588\|τὰς]]  [[G3614G\|οἰκίας]]  [[G3588\|τῶν]]  [[G5503\|χηρῶν,]]  [[G2532\|καὶ]]  [[G4392\|προφάσει]]  [[G3112\|μακρὰν]]  [[G4336\|προσευχόμενοι·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2983\|λήψεσθε]]  [[G4055\|περισσότερον]]  [[G2917\|κρίμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PHARISEES|PHARISEES]] • [[topic PRAYER|PRAYER]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.13|<< Matthew 23:13]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.15|Matthew 23:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

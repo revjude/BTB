@@ -1,8 +1,62 @@
+---
+title: Leviticus 15:3
+type: Verse
+kjv: "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness."
+bsb: "This uncleanness is from his discharge, whether his body allows the discharge to flow or blocks it. So his discharge will bring about uncleanness."
+hebrew: "וְזֹ֛את תִּהְיֶ֥ה טֻמְאָת֖וֹ בְּזוֹב֑וֹ רָ֣ר בְּשָׂר֞וֹ אֶת־ זוֹב֗וֹ אֽוֹ־ הֶחְתִּ֤ים בְּשָׂרוֹ֙ מִזּוֹב֔וֹ טֻמְאָת֖וֹ הִֽוא׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H2063]]"
+- "[[H1961]]"
+- "[[H2932]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2101]]"
+- "[[H7325]]"
+- "[[H1320]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0176A]]"
+- "[[H2856]]"
+- "[[H9006]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:3**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it [is] his uncleanness.
 <small><sub>**BSB:**</sub></small>
 This uncleanness is from his discharge, whether his body allows the discharge to flow or blocks it. So his discharge will bring about uncleanness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2063\|זֹ֛את]] [[H1961\|תִּהְיֶ֥ה]] [[H2932\|טֻמְאָת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2101\|זוֹב֑]][[H9023\|וֹ]] [[H7325\|רָ֣ר]] [[H1320\|בְּשָׂר֞]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H2101\|זוֹב֗]][[H9023\|וֹ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H2856\|הֶחְתִּ֤ים]] [[H1320\|בְּשָׂר]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H2101\|זּוֹב֔]][[H9023\|וֹ]] [[H2932\|טֻמְאָת֖]][[H9023\|וֹ]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.2|<< Leviticus 15:2]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.4|Leviticus 15:4 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 2:34
+type: Verse
+kjv: "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:"
+bsb: "At that time we captured all his cities and devoted to destruction the people of every city, including women and children. We left no survivors."
+hebrew: "וַנִּלְכֹּ֤ד אֶת־ כָּל־ עָרָיו֙ בָּעֵ֣ת הַהִ֔וא וַֽנַּחֲרֵם֙ אֶת־ כָּל־ עִ֣יר מְתִ֔ם וְהַנָּשִׁ֖ים וְהַטָּ֑ף לֹ֥א הִשְׁאַ֖רְנוּ שָׂרִֽיד׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2763A]]"
+- "[[H4962]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H2945]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H8300]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:34**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:
 <small><sub>**BSB:**</sub></small>
 At that time we captured all his cities and devoted to destruction the people of every city, including women and children. We left no survivors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3920\|נִּלְכֹּ֤ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרָי]][[H9023\|ו֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9001\|וַֽ]][[H2763A\|נַּחֲרֵם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H4962\|מְתִ֔ם]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2945\|טָּ֑ף]] [[H3808\|לֹ֥א]] [[H7604\|הִשְׁאַ֖רְנוּ]] [[H8300\|שָׂרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ISRAEL|ISRAEL]] • [[topic MASSACRE|MASSACRE]] • [[topic SIHON|SIHON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.33|<< Deuteronomy 2:33]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.35|Deuteronomy 2:35 >>]]</td></tr></table>
 

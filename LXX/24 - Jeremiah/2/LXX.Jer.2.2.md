@@ -1,6 +1,66 @@
+---
+title: LXX Jeremiah 2:2
+type: Verse
+lxx: "Go, and yell into the ears of Jerusalem! saying, Thus says the lord, I remembered the mercy of your youth, and the love of your consecration,  for you to follow after the holy one of Israel, says the lord;"
+greek: "πορεύου και βοά εις τα ώτα Ιερουσαλήμ λέγων τάδε λέγει κύριος εμνήσθην ελέους νεότητός σου και αγάπης τελειώσεώς σου του εξακολουθήσαί σε τω αγίω Ισραήλ λέγει κύριος"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DESERT|DESERT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G0994]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G2419]]"
+- "[[G3004]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3403]]"
+- "[[G1656]]"
+- "[[G3503]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0026]]"
+- "[[G5050]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1811]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G2474]]"
+- "[[G3004]]"
+- "[[G2962]]"
+---
+
 **LXX Jeremiah 2:2** 
 <small><sub>**LXX:**</sub></small>
 Go, and yell into the ears of Jerusalem! saying, Thus says \[the\] <span class="smallcaps">lord</span>, I remembered \[the\] mercy of your youth, and \[the\] love of your consecration,  for you to follow after the holy one of Israel, says \[the\] <span class="smallcaps">lord</span>; 
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορεύου]] [[G2532\|και]] [[G0994\|βοά]] [[G1519\|εις]] [[G3588\|τα]] [[G3775\|ώτα]] [[G2419\|Ιερουσαλήμ]] [[G3004\|λέγων]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3403\|εμνήσθην]] [[G1656\|ελέους]] [[G3503\|νεότητός]] [[G1473\|σου]] [[G2532\|και]] [[G0026\|αγάπης]] [[G5050\|τελειώσεώς]] [[G1473\|σου]] [[G3588\|του]] [[G1811\|εξακολουθήσαί]] [[G1473\|σε]] [[G3588\|τω]] [[G0039\|αγίω]] [[G2474\|Ισραήλ]] [[G3004\|λέγει]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESERT|DESERT]] • [[topic ISRAEL|ISRAEL]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
@@ -30,6 +90,6 @@ Go, and yell into the ears of Jerusalem! saying, Thus says \[the\] <span class="
 | of Israel, | **<big>[[G2474\|Ισραήλ]]</big>** |
 | says | **<big>[[G3004\|λέγει]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>; | **<big>[[G2962\|κύριος]]</big>** |
-[[Jer.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
 

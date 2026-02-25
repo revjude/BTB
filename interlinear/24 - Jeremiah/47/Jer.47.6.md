@@ -1,8 +1,59 @@
+---
+title: Jeremiah 47:6
+type: Verse
+kjv: "O thou sword of the LORD, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still."
+bsb: "‘Alas, O sword of the LORD, how long until you rest? Return to your sheath; cease and be still!’"
+hebrew: "ה֗וֹי חֶ֚רֶב לַֽיהוָ֔ה עַד־ אָ֖נָה לֹ֣א תִשְׁקֹ֑טִי הֵאָֽסְפִי֙ אַל־ תַּעְרֵ֔ךְ הֵרָגְעִ֖י וָדֹֽמִּי׃"
+pericope: "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1945]]"
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0575]]"
+- "[[H3808]]"
+- "[[H8252]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H8593]]"
+- "[[H9022]]"
+- "[[H7280B]]"
+- "[[H9002]]"
+- "[[H1826A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 47:6**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou sword of the LORD, how long [will it be] ere thou be quiet? put up thyself into thy scabbard, rest, and be still.
 <small><sub>**BSB:**</sub></small>
 ‘Alas, O sword of the LORD, how long until you rest? Return to your sheath; cease and be still!’
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֗וֹי]] [[H2719\|חֶ֚רֶב]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֖נָה]] [[H3808\|לֹ֣א]] [[H8252\|תִשְׁקֹ֑טִי]] [[H0622\|הֵאָֽסְפִי֙]] [[H0413\|אַל]][[H9014\|־]] [[H8593\|תַּעְרֵ֔]][[H9022\|ךְ]] [[H7280B\|הֵרָגְעִ֖י]] [[H9002\|וָ]][[H1826A\|דֹֽמִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.5|<< Jeremiah 47:5]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.7|Jeremiah 47:7 >>]]</td></tr></table>
 

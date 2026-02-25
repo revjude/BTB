@@ -1,6 +1,92 @@
+---
+title: LXX Exodus 16:8
+type: Verse
+lxx: "And Moses said, It is in the the lord giving to you in the evening meats to eat, and bread loaves in the morning for fullness, on account of the lord's hearing  your grumbling which you complain against us. But we, what are we? For not is your grumbling against us, but against  God."
+greek: "και είπε Μωυσής εν τω διδόναι κύριον υμίν εσπέρας κρέα φαγείν και άρτους τοπρωϊ εις πλησμονήν διά το εισακούσαι κύριον τον γογγυσμόν υμών ον υμείς διαγογγύζετε καθ΄ ημών ημείς δε τι εσμέν ου γαρ καθ΄ ημών ο γογγυσμός υμών εστιν αλλ΄ η κατά του θεού"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3475]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G2073]]"
+- "[[G2907]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G4404]]"
+- "[[G1519]]"
+- "[[G4140]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1522]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G1112]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G1234]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1112]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G6227]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX Exodus 16:8** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, \[It is\] in the \[the\] <span class="smallcaps">lord</span> giving to you in the evening meats to eat, and bread loaves in the morning for fullness, on account of the <span class="smallcaps">lord's</span> hearing  your grumbling which you complain against us. But we, what are we? For not is your grumbling against us, but against  God. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G3475\|Μωυσής]] [[G1722\|εν]] [[G3588\|τω]] [[G1325\|διδόναι]] [[G2962\|κύριον]] [[G1473\|υμίν]] [[G2073\|εσπέρας]] [[G2907\|κρέα]] [[G2068\|φαγείν]] [[G2532\|και]] [[G0740\|άρτους]] [[G4404\|τοπρωϊ]] [[G1519\|εις]] [[G4140\|πλησμονήν]] [[G1223\|διά]] [[G3588\|το]] [[G1522\|εισακούσαι]] [[G2962\|κύριον]] [[G3588\|τον]] [[G1112\|γογγυσμόν]] [[G1473\|υμών]] [[G3739\|ον]] [[G1473\|υμείς]] [[G1234\|διαγογγύζετε]] [[G2596\|καθ΄]] [[G1473\|ημών]] [[G1473\|ημείς]] [[G1161\|δε]] [[G5100\|τι]] [[G1510\|εσμέν]] [[G3756\|ου]] [[G1063\|γαρ]] [[G2596\|καθ΄]] [[G1473\|ημών]] [[G3588\|ο]] [[G1112\|γογγυσμός]] [[G1473\|υμών]] [[G1510\|εστιν]] [[G6227\|αλλ΄ η]] [[G2596\|κατά]] [[G3588\|του]] [[G2316\|θεού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PATIENCE|PATIENCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.7|<< Exodus 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.9|Exodus 16:9 >>]]</td></tr></table>
 
@@ -44,6 +130,6 @@ And Moses said, \[It is\] in the \[the\] <span class="smallcaps">lord</span> giv
 | against | **<big>[[G2596\|κατά]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | God. | **<big>[[G2316\|θεού]]</big>** |
-[[Exod.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.7|<< Exodus 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.9|Exodus 16:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.7|<< Exodus 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.9|Exodus 16:9 >>]]</td></tr></table>
 
 

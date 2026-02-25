@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 29:2
+type: Verse
+kjv: "And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish."
+bsb: "As the Philistine leaders marched out with their units of hundreds and thousands, David and his men marched behind them with Achish."
+hebrew: "וְסַרְנֵ֤י פְלִשְׁתִּים֙ עֹֽבְרִ֔ים לְמֵא֖וֹת וְלַאֲלָפִ֑ים וְדָוִ֣ד וַאֲנָשָׁ֗יו עֹֽבְרִ֛ים בָּאַחֲרֹנָ֖ה עִם־ אָכִֽישׁ׃"
+pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 29
+book/chapter: "[[1Sam.29|1 Samuel 29]]"
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H1732]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0314]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 29:2**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.
 <small><sub>**BSB:**</sub></small>
 As the Philistine leaders marched out with their units of hundreds and thousands, David and his men marched behind them with Achish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5633A\|סַרְנֵ֤י]] [[H6430G\|פְלִשְׁתִּים֙]] [[H5674A\|עֹֽבְרִ֔ים]] [[H9005\|לְ]][[H3967\|מֵא֖וֹת]] [[H9002\|וְ]][[H9005\|לַ]][[H0505G\|אֲלָפִ֑ים]] [[H9002\|וְ]][[H1732\|דָוִ֣ד]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֗י]][[H9023\|ו]] [[H5674A\|עֹֽבְרִ֛ים]] [[H9003\|בָּ]][[H0314\|אַחֲרֹנָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H0397\|אָכִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.1|<< 1 Samuel 29:1]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.3|1 Samuel 29:3 >>]]</td></tr></table>
 

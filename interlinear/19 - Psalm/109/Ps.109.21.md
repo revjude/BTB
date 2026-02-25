@@ -1,8 +1,61 @@
+---
+title: Psalm 109:21
+type: Verse
+kjv: "But do thou for me, O GOD the Lord, for thy name’s sake: because thy mercy is good, deliver thou me."
+bsb: "But You, O GOD, the Lord, deal kindly with me for the sake of Your name; deliver me by the goodness of Your loving devotion."
+hebrew: "וְאַתָּ֤ה׀ יְה֘וִ֤ה אֲדֹנָ֗י עֲֽשֵׂה־ אִ֭תִּי לְמַ֣עַן שְׁמֶ֑ךָ כִּי־ ט֥וֹב חַ֝סְדְּךָ֗ הַצִּילֵֽנִי׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9015]]"
+- "[[H3069]]"
+- "[[H0136]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H2617A]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:21**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But do thou for me, O GOD the Lord, for thy name’s sake: because thy mercy [is] good, deliver thou me.
 <small><sub>**BSB:**</sub></small>
 But You, O GOD, the Lord, deal kindly with me for the sake of Your name; deliver me by the goodness of Your loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H3069\|יְה֘וִ֤ה]] [[H0136\|אֲדֹנָ֗י]] [[H6213A\|עֲֽשֵׂה]][[H9014\|־]] [[H0854\|אִ֭תִּ]][[H9030\|י]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2896A\|ט֥וֹב]] [[H2617A\|חַ֝סְדְּ]][[H9021\|ךָ֗]] [[H5337\|הַצִּילֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.20|<< Psalms 109:20]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.22|Psalms 109:22 >>]]</td></tr></table>
 

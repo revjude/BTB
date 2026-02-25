@@ -1,10 +1,59 @@
+---
+title: Romans 13:1
+type: Verse
+kjv: "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God."
+bsb: "Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God."
+greek: "Πᾶσα ψυχὴ ἐξουσίαις ὑπερεχούσαις ὑποτασσέσθω. οὐ γὰρ ἔστιν ἐξουσία εἰ μὴ ὑπὸ θεοῦ, αἱ δὲ οὖσαι ἐξουσίαι ὑπὸ τοῦ θεοῦ τεταγμέναι εἰσίν."
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G5590J]]"
+- "[[G1849]]"
+- "[[G5242]]"
+- "[[G5293]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G5259G]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5021]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Romans 13:1**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 <small><sub>**BSB:**</sub></small>
 Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God.
-<small><sub>**Literal:**</sub></small>
-Every soul to the authorities being above [him] should be subject. Not for there is authority only except by God, those however existing authorities by <the> God instituted are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.21|<< Romans 12:21]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.2|Romans 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶσα]]  [[G5590J\|ψυχὴ]]  [[G1849\|ἐξουσίαις]]  [[G5242\|ὑπερεχούσαις]]  [[G5293\|ὑποτασσέσθω.]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1510\|ἔστιν]]  [[G1849\|ἐξουσία]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G5259G\|ὑπὸ]]  [[G2316\|θεοῦ,]]  [[G3588\|αἱ]]  [[G1161\|δὲ]]  [[G1510\|οὖσαι]]  [[G1849\|ἐξουσίαι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5021\|τεταγμέναι]]  [[G1510\|εἰσίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOYALTY|LOYALTY]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.21|<< Romans 12:21]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.2|Romans 13:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

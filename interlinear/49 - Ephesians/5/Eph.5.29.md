@@ -1,10 +1,58 @@
+---
+title: Ephesians 5:29
+type: Verse
+kjv: "For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:"
+bsb: "Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church."
+greek: "οὐδεὶς γάρ ποτε τὴν ἑαυτοῦ σάρκα ἐμίσησεν, ἀλλ᾽ ἐκτρέφει καὶ θάλπει αὐτὴν καθὼς καὶ ὁ Χριστὸς τὴν ἐκκλησίαν,"
+pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G4218]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G4561]]"
+- "[[G3404]]"
+- "[[G0235]]"
+- "[[G1625]]"
+- "[[G2532]]"
+- "[[G2282]]"
+- "[[G0846]]"
+- "[[G2531]]"
+- "[[G5547]]"
+- "[[G1577]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Ephesians 5:29**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
 <small><sub>**BSB:**</sub></small>
 Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church.
-<small><sub>**Literal:**</sub></small>
-no [one] for at any time the his own flesh hated, but he nourishes and he cherishes it even as also [does] <the> Christ the church,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.28|<< Ephesians 5:28]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.30|Ephesians 5:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|οὐδεὶς]]  [[G1063\|γάρ]]  [[G4218\|ποτε]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G4561\|σάρκα]]  [[G3404\|ἐμίσησεν,]]  [[G0235\|ἀλλ᾽]]  [[G1625\|ἐκτρέφει]]  [[G2532\|καὶ]]  [[G2282\|θάλπει]]  [[G0846\|αὐτὴν]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HUSBAND|HUSBAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.28|<< Ephesians 5:28]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.30|Ephesians 5:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

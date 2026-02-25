@@ -1,10 +1,63 @@
+---
+title: John 8:11
+type: Verse
+kjv: "She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more."
+bsb: "“No one, Lord,” she answered. “Then neither do I condemn you,” Jesus declared. “Now go and sin no more.”"
+jesus_said: "Neither do I condemn thee: go, and sin no more."
+greek: "ἡ δὲ εἶπεν, οὐδείς, κύριε. εἶπεν δὲ αὐτῇ ὁ Ἰησοῦς, οὐδὲ ἐγώ σε κατακρίνω· πορεύου καὶ ἀπὸ τοῦ νῦν μηκέτι ἁμάρτανε.¶]"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3762]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3761]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G2632]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3568]]"
+- "[[G3371]]"
+- "[[G0264]]"
+texts:
+- KO
+- K
+- K(O)
+- O
+---
+
 **John 8:11**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.
 <small><sub>**BSB:**</sub></small>
 “No one, Lord,” she answered. “Then neither do I condemn you,” Jesus declared. “Now go and sin no more.”
-<small><sub>**Literal:**</sub></small>
-<the> And she said, No [one], Sir. Said then to her <the> Jesus, Neither I myself you do condemn; do go and from <the> now [on] no more do sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.10|<< John 8:10]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.12|John 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν,]]  [[G3762\|οὐδείς,]]  [[G2962H\|κύριε.]]  [[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G3761\|οὐδὲ]]  [[G1473\|ἐγώ]]  [[G4771\|σε]]  [[G2632\|κατακρίνω·]]  [[G4198\|πορεύου]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G3371\|μηκέτι]]  [[G0264\|ἁμάρτανε.¶]]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic SIN|SIN]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.10|<< John 8:10]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.12|John 8:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

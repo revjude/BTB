@@ -1,8 +1,54 @@
+---
+title: Psalm 76:6
+type: Verse
+kjv: "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep."
+bsb: "At Your rebuke, O God of Jacob, both horse and rider lie stunned."
+hebrew: "מִ֭גַּעֲרָ֣תְךָ אֱלֹהֵ֣י יַעֲקֹ֑ב נִ֝רְדָּ֗ם וְרֶ֣כֶב וָסֽוּס׃"
+pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic VICTORIES|VICTORIES]]"
+strongs:
+- "[[H9006]]"
+- "[[H1606]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H7290]]"
+- "[[H9002]]"
+- "[[H7393G]]"
+- "[[H5483M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 76:6**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.
 <small><sub>**BSB:**</sub></small>
 At Your rebuke, O God of Jacob, both horse and rider lie stunned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H1606\|גַּעֲרָ֣תְ]][[H9021\|ךָ]] [[H0430G\|אֱלֹהֵ֣י]] [[H3290\|יַעֲקֹ֑ב]] [[H7290\|נִ֝רְדָּ֗ם]] [[H9002\|וְ]][[H7393G\|רֶ֣כֶב]] [[H9002\|וָ]][[H5483M\|סֽוּס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic VICTORIES|VICTORIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.5|<< Psalms 76:5]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.7|Psalms 76:7 >>]]</td></tr></table>
 

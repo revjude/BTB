@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 18:28
+type: Verse
+kjv: "And Saul saw and knew that the LORD was with David, and that Michal Saul’s daughter loved him."
+bsb: "When Saul realized that the LORD was with David and that his daughter Michal loved David,"
+hebrew: "וַיַּ֤רְא שָׁאוּל֙ וַיֵּ֔דַע כִּ֥י יְהוָ֖ה עִם־ דָּוִ֑ד וּמִיכַ֥ל בַּת־ שָׁא֖וּל אֲהֵבַֽתְהוּ׃"
+pericope: "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H7586G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H4324G]]"
+- "[[H1323G]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:28**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul saw and knew that the LORD [was] with David, and [that] Michal Saul’s daughter loved him.
 <small><sub>**BSB:**</sub></small>
 When Saul realized that the LORD was with David and that his daughter Michal loved David,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H7586G\|שָׁאוּל֙]] [[H9001\|וַ]][[H3045\|יֵּ֔דַע]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H9002\|וּ]][[H4324G\|מִיכַ֥ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H0157G\|אֲהֵבַֽתְ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic MICHAL|MICHAL]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.27|<< 1 Samuel 18:27]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.29|1 Samuel 18:29 >>]]</td></tr></table>
 

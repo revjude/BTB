@@ -1,8 +1,60 @@
+---
+title: Psalm 26:1
+type: Verse
+kjv: "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide."
+bsb: "Of David. Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering."
+hebrew: "שָׁפְטֵ֤נִי יְהוָ֗ה כִּֽי־ אֲ֭נִי בְּתֻמִּ֣י הָלַ֑כְתִּי וּבַיהוָ֥ה בָּ֝טַ֗חְתִּי לֹ֣א אֶמְעָֽד׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H8199]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H8537]]"
+- "[[H9020]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H0982]]"
+- "[[H3808]]"
+- "[[H4571]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:1**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; [therefore] I shall not slide.
 <small><sub>**BSB:**</sub></small>
 Of David. Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering.
+<small><sub>**Hebrew:**</sub></small>
+[[H8199\|שָׁפְטֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲ֭נִי]] [[H9003\|בְּ]][[H8537\|תֻמִּ֣]][[H9020\|י]] [[H1980I\|הָלַ֑כְתִּי]] [[H9002\|וּ]][[H9003\|בַ]][[H3068G\|יהוָ֥ה]] [[H0982\|בָּ֝טַ֗חְתִּי]] [[H3808\|לֹ֣א]] [[H4571\|אֶמְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.0|<< Psalms 26:0]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.2|Psalms 26:2 >>]]</td></tr></table>
 

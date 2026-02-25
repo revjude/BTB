@@ -1,8 +1,60 @@
+---
+title: Genesis 34:4
+type: Verse
+kjv: "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife."
+bsb: "So Shechem told his father Hamor, “Get me this girl as a wife.”"
+hebrew: "וַיֹּ֣אמֶר שְׁכֶ֔ם אֶל־ חֲמ֥וֹר אָבִ֖יו לֵאמֹ֑ר קַֽח־ לִ֛י אֶת־ הַיַּלְדָּ֥ה הַזֹּ֖את לְאִשָּֽׁה׃"
+pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7927H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2544]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3207]]"
+- "[[H2063]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:4**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.
 <small><sub>**BSB:**</sub></small>
 So Shechem told his father Hamor, “Get me this girl as a wife.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7927H\|שְׁכֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H2544\|חֲמ֥וֹר]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3947G\|קַֽח]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3207\|יַּלְדָּ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.3|<< Genesis 34:3]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.5|Genesis 34:5 >>]]</td></tr></table>
 

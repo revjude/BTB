@@ -1,10 +1,51 @@
+---
+title: Jude 1:13
+type: Verse
+kjv: "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever."
+bsb: "They are wild waves of the sea, foaming up their own shame; wandering stars, for whom blackest darkness has been reserved forever."
+greek: "κύματα ἄγρια θαλάσσης ἐπαφρίζοντα τὰς ἑαυτῶν αἰσχύνας, ἀστέρες πλανῆται οἷς ὁ ζόφος τοῦ σκότους εἰς τὸν αἰῶνα τετήρηται."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G2949]]"
+- "[[G0066]]"
+- "[[G2281]]"
+- "[[G1890]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G0152]]"
+- "[[G0792]]"
+- "[[G4107]]"
+- "[[G3739]]"
+- "[[G2217]]"
+- "[[G4655]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G5083H]]"
+texts:
+- NKO
+- k
+---
+
 **Jude 1:13**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
 <small><sub>**BSB:**</sub></small>
 They are wild waves of the sea, foaming up their own shame; wandering stars, for whom blackest darkness has been reserved forever.
-<small><sub>**Literal:**</sub></small>
-waves wild of [the] sea foaming out <the> their own shame, stars wandering to whom the gloom <the> of darkness to the age has been reserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.12|<< Jude 1:12]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.14|Jude 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2949\|κύματα]]  [[G0066\|ἄγρια]]  [[G2281\|θαλάσσης]]  [[G1890\|ἐπαφρίζοντα]]  [[G3588\|τὰς]]  [[G1438\|ἑαυτῶν]]  [[G0152\|αἰσχύνας,]]  [[G0792\|ἀστέρες]]  [[G4107\|πλανῆται]]  [[G3739\|οἷς]]  [[G3588\|ὁ]]  [[G2217\|ζόφος]]  [[G3588\|τοῦ]]  [[G4655\|σκότους]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα]]  [[G5083H\|τετήρηται.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.12|<< Jude 1:12]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.14|Jude 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Proverbs 18:17
+type: Verse
+kjv: "He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him."
+bsb: "The first to state his case seems right until another comes and cross-examines him."
+hebrew: "צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ וּבָֽא רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H6662]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H9003]]"
+- "[[H7379]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H7453]]"
+- "[[H2713]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 18:17**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] first in his own cause [seemeth] just; but his neighbour cometh and searcheth him.
 <small><sub>**BSB:**</sub></small>
 The first to state his case seems right until another comes and cross-examines him.
+<small><sub>**Hebrew:**</sub></small>
+[[H6662\|צַדִּ֣יק]] [[H9009\|הָ]][[H7223G\|רִאשׁ֣וֹן]] [[H9003\|בְּ]][[H7379\|רִיב֑]][[H9023\|וֹ]] [[H9001\|וּ]][[H0935G\|בָֽא]] [[H7453\|רֵ֝עֵ֗]][[H9023\|הוּ]] [[H9001\|וַ]][[H2713\|חֲקָרֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTICE|JUSTICE]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.16|<< Proverbs 18:16]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.18|Proverbs 18:18 >>]]</td></tr></table>
 

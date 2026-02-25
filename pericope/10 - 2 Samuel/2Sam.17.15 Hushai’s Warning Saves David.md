@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hushai’s Warning Saves David
+type: Pericope
 pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 17
 book/chapter: "[[2Sam.17|2 Samuel 17]]"
-genre:
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 15
 verses:
 - "[[2Sam.17.15]]"
 - "[[2Sam.17.16]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Sam.17.29]]"
 ---
 
-[[2Sam.17|2 Samuel 17:15 - 2 Samuel 17:29]]
+<small>[[2Sam.17|2 Samuel 17:15-29]]</small>
 *Hushai’s Warning Saves David*
 
 [[2Sam.17.15|15]] Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blessings of Wisdom
+type: Pericope
 pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 3
 book/chapter: "[[Prov.3|Proverbs 3]]"
-genre:
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 23
 verses:
 - "[[Prov.3.13]]"
 - "[[Prov.3.14]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Prov.3.35]]"
 ---
 
-[[Prov.3|Proverbs 3:13 - Proverbs 3:35]]
+<small>[[Prov.3|Proverbs 3:13-35]]</small>
 *The Blessings of Wisdom*
 
 [[Prov.3.13|13]] Happy \[is\] the man \[that\] findeth wisdom, and the man \[that\] getteth understanding.

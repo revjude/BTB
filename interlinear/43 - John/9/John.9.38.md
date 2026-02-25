@@ -1,10 +1,52 @@
+---
+title: John 9:38
+type: Verse
+kjv: "And he said, Lord, I believe. And he worshipped him."
+bsb: "“Lord, I believe,” he said. And he worshiped Jesus."
+greek: "ὁ δὲ ἔφη· πιστεύω, κύριε, καὶ προσεκύνησεν αὐτῷ."
+pericope: "[[John.9.35 Spiritual Blindness|Spiritual Blindness]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5346]]"
+- "[[G4100]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 9:38**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Lord, I believe. And he worshipped him.
 <small><sub>**BSB:**</sub></small>
 “Lord, I believe,” he said. And he worshiped Jesus.
-<small><sub>**Literal:**</sub></small>
-<the> And he was saying; I believe, Lord, And he worshiped Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.37|<< John 9:37]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.39|John 9:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5346\|ἔφη·]]  [[G4100\|πιστεύω,]]  [[G2962G\|κύριε,]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησεν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.37|<< John 9:37]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.39|John 9:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

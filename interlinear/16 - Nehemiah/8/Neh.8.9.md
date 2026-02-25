@@ -1,8 +1,81 @@
+---
+title: Nehemiah 8:9
+type: Verse
+kjv: "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law."
+bsb: "Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, “This day is holy to the LORD your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law."
+hebrew: "וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן׀ הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים אֶת־ הָעָ֜ם לְכָל־ הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ־ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל־ תִּֽתְאַבְּל֖וּ וְאַל־ תִּבְכּ֑וּ כִּ֤י בוֹכִים֙ כָּל־ הָעָ֔ם כְּשָׁמְעָ֖ם אֶת־ דִּבְרֵ֥י הַתּוֹרָֽה׃"
+pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic TIRSHATHA|TIRSHATHA]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5166H]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H8660]]"
+- "[[H9002]]"
+- "[[H5830G]]"
+- "[[H3548]]"
+- "[[H9015]]"
+- "[[H5608B]]"
+- "[[H3881]]"
+- "[[H0995]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H6918G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H0056]]"
+- "[[H1058]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9048]]"
+- "[[H1697G]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:9**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nehemiah, which [is] the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day [is] holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 <small><sub>**BSB:**</sub></small>
 Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, “This day is holy to the LORD your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H5166H\|נְחֶמְיָ֣ה]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H8660\|תִּרְשָׁ֡תָא]] [[H9002\|וְ]][[H5830G\|עֶזְרָ֣א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]][[H9015\|׀]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֡ר]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּם֩]] [[H9009\|הַ]][[H0995\|מְּבִינִ֨ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9009\|הַ]][[H3117G\|יּ֤וֹם]] [[H6918G\|קָדֹֽשׁ]][[H9014\|־]] [[H1931\|הוּא֙]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֔ם]] [[H0408\|אַל]][[H9014\|־]] [[H0056\|תִּֽתְאַבְּל֖וּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1058\|תִּבְכּ֑וּ]] [[H3588A\|כִּ֤י]] [[H1058\|בוֹכִים֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9004\|כְּ]][[H8085G\|שָׁמְעָ֖]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H8451\|תּוֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic TIRSHATHA|TIRSHATHA]] • [[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.8|<< Nehemiah 8:8]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.10|Nehemiah 8:10 >>]]</td></tr></table>
 

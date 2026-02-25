@@ -1,8 +1,65 @@
+---
+title: Isaiah 13:9
+type: Verse
+kjv: "Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it."
+bsb: "Behold, the Day of the LORD is coming—cruel, with fury and burning anger—to make the earth a desolation and to destroy the sinners within it."
+hebrew: "הִנֵּ֤ה יוֹם־ יְהוָה֙ בָּ֔א אַכְזָרִ֥י וְעֶבְרָ֖ה וַחֲר֣וֹן אָ֑ף לָשׂ֤וּם הָאָ֙רֶץ֙ לְשַׁמָּ֔ה וְחַטָּאֶ֖יהָ יַשְׁמִ֥יד מִמֶּֽנָּה׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic DAY|DAY]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0935G]]"
+- "[[H0394]]"
+- "[[H9002]]"
+- "[[H5678]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9005]]"
+- "[[H7760A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8047G]]"
+- "[[H2400]]"
+- "[[H9024]]"
+- "[[H8045]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:9**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
 <small><sub>**BSB:**</sub></small>
 Behold, the Day of the LORD is coming—cruel, with fury and burning anger—to make the earth a desolation and to destroy the sinners within it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H3117G\|יוֹם]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0935G\|בָּ֔א]] [[H0394\|אַכְזָרִ֥י]] [[H9002\|וְ]][[H5678\|עֶבְרָ֖ה]] [[H9002\|וַ]][[H2740\|חֲר֣וֹן]] [[H0639G\|אָ֑ף]] [[H9005\|לָ]][[H7760A\|שׂ֤וּם]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H9002\|וְ]][[H2400\|חַטָּאֶ֖י]][[H9024\|הָ]] [[H8045\|יַשְׁמִ֥יד]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic DAY|DAY]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.8|<< Isaiah 13:8]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.10|Isaiah 13:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

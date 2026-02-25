@@ -1,8 +1,66 @@
+---
+title: Exodus 34:2
+type: Verse
+kjv: "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount."
+bsb: "Be ready in the morning, and come up on Mount Sinai to present yourself before Me on the mountaintop."
+hebrew: "וֶהְיֵ֥ה נָכ֖וֹן לַבֹּ֑קֶר וְעָלִ֤יתָ בַבֹּ֙קֶר֙ אֶל־ הַ֣ר סִינַ֔י וְנִצַּבְתָּ֥ לִ֛י שָׁ֖ם עַל־ רֹ֥אשׁ הָהָֽר׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H1242]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H5324]]"
+- "[[H9030]]"
+- "[[H8033G]]"
+- "[[H5921A]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:2**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.
 <small><sub>**BSB:**</sub></small>
 Be ready in the morning, and come up on Mount Sinai to present yourself before Me on the mountaintop.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶ]][[H1961\|הְיֵ֥ה]] [[H3559A\|נָכ֖וֹן]] [[H9005\|לַ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וְ]][[H5927G\|עָלִ֤יתָ]] [[H9003\|בַ]][[H1242\|בֹּ֙קֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H5514G\|סִינַ֔י]] [[H9001\|וְ]][[H5324\|נִצַּבְתָּ֥]] [[H9005\|לִ֛]][[H9030\|י]] [[H8033G\|שָׁ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹ֥אשׁ]] [[H9009\|הָ]][[H2022G\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic SINAI|SINAI]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.1|<< Exodus 34:1]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.3|Exodus 34:3 >>]]</td></tr></table>
 

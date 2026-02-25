@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Purification after Childbirth
+type: Pericope
 pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 12
 book/chapter: "[[Lev.12|Leviticus 12]]"
-genre:
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 8
 verses:
 - "[[Lev.12.1]]"
 - "[[Lev.12.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Lev.12.8]]"
 ---
 
-[[Lev.12|Leviticus 12:1 - Leviticus 12:8]]
+<small>[[Lev.12|Leviticus 12:1-8]]</small>
 *Purification after Childbirth*
 
 [[Lev.12.1|1]] And the LORD spake unto Moses, saying,

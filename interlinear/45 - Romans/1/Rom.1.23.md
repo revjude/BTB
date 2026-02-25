@@ -1,10 +1,61 @@
+---
+title: Romans 1:23
+type: Verse
+kjv: "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."
+bsb: "and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles."
+greek: "καὶ ἤλλαξαν τὴν δόξαν τοῦ ἀφθάρτου θεοῦ ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου καὶ πετεινῶν καὶ τετραπόδων καὶ ἑρπετῶν.¶"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G0236]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G0862]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G3667]]"
+- "[[G1504]]"
+- "[[G5349]]"
+- "[[G0444]]"
+- "[[G4071]]"
+- "[[G5074]]"
+- "[[G2062]]"
+texts:
+- NKO
+---
+
 **Romans 1:23**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.
 <small><sub>**BSB:**</sub></small>
 and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles.
-<small><sub>**Literal:**</sub></small>
-and they changed the glory of the immortal God into a likeness of an image of mortal man and birds and quadrupeds and creeping things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.22|<< Romans 1:22]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.24|Romans 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0236\|ἤλλαξαν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G3588\|τοῦ]]  [[G0862\|ἀφθάρτου]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G3667\|ὁμοιώματι]]  [[G1504\|εἰκόνος]]  [[G5349\|φθαρτοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2532\|καὶ]]  [[G4071\|πετεινῶν]]  [[G2532\|καὶ]]  [[G5074\|τετραπόδων]]  [[G2532\|καὶ]]  [[G2062\|ἑρπετῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic ROME|ROME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.22|<< Romans 1:22]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.24|Romans 1:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 1:23** is...
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Ps.106.20|Ps 106:20]]

@@ -1,8 +1,46 @@
+---
+title: Joshua 12:19
+type: Verse
+kjv: "The king of Madon, one; the king of Hazor, one;"
+bsb: "the king of Madon, one; the king of Hazor, one;"
+hebrew: "מֶ֤לֶךְ מָדוֹן֙ אֶחָ֔ד מֶ֥לֶךְ חָצ֖וֹר אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic MADON|MADON]]"
+strongs:
+- "[[H4428G]]"
+- "[[H4068]]"
+- "[[H0259]]"
+- "[[H2674G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:19**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Madon, one; the king of Hazor, one;
 <small><sub>**BSB:**</sub></small>
 the king of Madon, one; the king of Hazor, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֤לֶךְ]] [[H4068\|מָדוֹן֙]] [[H0259\|אֶחָ֔ד]] [[H4428G\|מֶ֥לֶךְ]] [[H2674G\|חָצ֖וֹר]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAZOR|HAZOR]] • [[topic MADON|MADON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.18|<< Joshua 12:18]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.20|Joshua 12:20 >>]]</td></tr></table>
 

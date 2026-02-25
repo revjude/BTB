@@ -1,8 +1,71 @@
+---
+title: Daniel 2:30
+type: Verse
+kjv: "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart."
+bsb: "And to me this mystery has been revealed, not because I have more wisdom than any man alive, but in order that the interpretation might be made known to the king, and that you may understand the thoughts of your mind."
+aramaic: "וַאֲנָ֗ה לָ֤א בְחָכְמָה֙ דִּֽי־ אִיתַ֥י בִּי֙ מִן־ כָּל־ חַיַּיָּ֔א רָזָ֥א דְנָ֖ה גֱּלִ֣י לִ֑י לָהֵ֗ן עַל־ דִּבְרַת֙ דִּ֤י פִשְׁרָא֙ לְמַלְכָּ֣א יְהוֹדְע֔וּן וְרַעְיוֹנֵ֥י לִבְבָ֖ךְ תִּנְדַּֽע׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0576B]]"
+- "[[H3809]]"
+- "[[H9003]]"
+- "[[H2452]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H0383]]"
+- "[[H9030]]"
+- "[[H4481]]"
+- "[[H3606]]"
+- "[[H2417]]"
+- "[[H9010]]"
+- "[[H7328]]"
+- "[[H1836]]"
+- "[[H1541]]"
+- "[[H9005]]"
+- "[[H3861]]"
+- "[[H5922]]"
+- "[[H1701]]"
+- "[[H6591]]"
+- "[[H4430]]"
+- "[[H3046]]"
+- "[[H7476]]"
+- "[[H3825]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:30**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, this secret is not revealed to me for [any] wisdom that I have more than any living, but for [their] sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.
 <small><sub>**BSB:**</sub></small>
 And to me this mystery has been revealed, not because I have more wisdom than any man alive, but in order that the interpretation might be made known to the king, and that you may understand the thoughts of your mind.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וַ]][[H0576B\|אֲנָ֗ה]] [[H3809\|לָ֤א]] [[H9003\|בְ]][[H2452\|חָכְמָה֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H0383\|אִיתַ֥י]] [[H9003\|בִּ]][[H9030\|י֙]] [[H4481\|מִן]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H2417\|חַיַּיָּ֔]][[H9010\|א]] [[H7328\|רָזָ֥]][[H9010\|א]] [[H1836\|דְנָ֖ה]] [[H1541\|גֱּלִ֣י]] [[H9005\|לִ֑]][[H9030\|י]] [[H3861\|לָהֵ֗ן]] [[H5922\|עַל]][[H9014\|־]] [[H1701\|דִּבְרַת֙]] [[H1768\|דִּ֤י]] [[H6591\|פִשְׁרָ]][[H9010\|א֙]] [[H9005\|לְ]][[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H3046\|יְהוֹדְע֔וּן]] [[H9002\|וְ]][[H7476\|רַעְיוֹנֵ֥י]] [[H3825\|לִבְבָ֖]][[H9021\|ךְ]] [[H3046\|תִּנְדַּֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DREAM|DREAM]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERPRETER|INTERPRETER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.29|<< Daniel 2:29]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.31|Daniel 2:31 >>]]</td></tr></table>
 

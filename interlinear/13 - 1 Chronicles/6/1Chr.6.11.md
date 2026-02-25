@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 6:11
+type: Verse
+kjv: "And Azariah begat Amariah, and Amariah begat Ahitub,"
+bsb: "Azariah was the father of Amariah, Amariah was the father of Ahitub,"
+hebrew: "וַיּ֥וֹלֶד עֲזַרְיָ֖ה אֶת־ אֲמַרְיָ֑ה וַאֲמַרְיָ֖ה הוֹלִ֥יד אֶת־ אֲחִיטֽוּב׃"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AHITUB|AHITUB]]"
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic AZARIAH|AZARIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H5838K]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0568H]]"
+- "[[H9002]]"
+- "[[H0285I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:11**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah begat Amariah, and Amariah begat Ahitub,
 <small><sub>**BSB:**</sub></small>
 Azariah was the father of Amariah, Amariah was the father of Ahitub,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H5838K\|עֲזַרְיָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0568H\|אֲמַרְיָ֑ה]] [[H9002\|וַ]][[H0568H\|אֲמַרְיָ֖ה]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H0285I\|אֲחִיטֽוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AHITUB|AHITUB]] • [[topic AMARIAH|AMARIAH]] • [[topic AZARIAH|AZARIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.10|<< 1 Chronicles 6:10]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.12|1 Chronicles 6:12 >>]]</td></tr></table>
 

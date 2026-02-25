@@ -1,6 +1,68 @@
+---
+title: LXX Genesis 48:14
+type: Verse
+lxx: "And Israel stretching out the right hand put it upon the head of Ephraim, and this one was the younger; and the left upon the head of Manasseh; crosswise with the hands."
+greek: "εκτείνας δε Ισραήλ την χείρα την δεξιάν επέθηκεν επί την κεφαλήν Εφραίμ ούτος δε ην ο νεώτερος και την αριστεράν επί την κεφαλήν Μανασσή εναλλάξ τας χείρας"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic HAND|HAND]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[G1614]]"
+- "[[G1161]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G2187]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3501]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0710]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G3128]]"
+- "[[G7215]]"
+- "[[G3588]]"
+- "[[G5495]]"
+---
+
 **LXX Genesis 48:14** 
 <small><sub>**LXX:**</sub></small>
 And Israel stretching out the right hand put it upon the head of Ephraim, and this one was the younger; and the left upon the head of Manasseh; crosswise \[with\] the hands. 
+<small><sub>**Greek:**</sub></small>
+[[G1614\|εκτείνας]] [[G1161\|δε]] [[G2474\|Ισραήλ]] [[G3588\|την]] [[G5495\|χείρα]] [[G3588\|την]] [[G1188\|δεξιάν]] [[G2007\|επέθηκεν]] [[G1909\|επί]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G2187\|Εφραίμ]] [[G3778\|ούτος]] [[G1161\|δε]] [[G1510\|ην]] [[G3588\|ο]] [[G3501\|νεώτερος]] [[G2532\|και]] [[G3588\|την]] [[G0710\|αριστεράν]] [[G1909\|επί]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G3128\|Μανασσή]] [[G7215\|εναλλάξ]] [[G3588\|τας]] [[G5495\|χείρας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic EPHRAIM|EPHRAIM]] • [[topic HAND|HAND]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
 
@@ -32,6 +94,6 @@ And Israel stretching out the right hand put it upon the head of Ephraim, and th
 | crosswise \[with\] | **<big>[[G7215\|εναλλάξ]]</big>** |
 | the | **<big>[[G3588\|τας]]</big>** |
 | hands. | **<big>[[G5495\|χείρας]]</big>** |
-[[Gen.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.13|<< Genesis 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.15|Genesis 48:15 >>]]</td></tr></table>
 
 

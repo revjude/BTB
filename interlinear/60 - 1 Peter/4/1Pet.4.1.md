@@ -1,10 +1,66 @@
+---
+title: 1 Peter 4:1
+type: Verse
+kjv: "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
+bsb: "Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin."
+greek: "Χριστοῦ οὖν παθόντος ὑπὲρ ἡμῶν σαρκὶ καὶ ὑμεῖς τὴν αὐτὴν ἔννοιαν ὁπλίσασθε, ὅτι ὁ παθὼν ἐν σαρκὶ πέπαυται ἁμαρτίας·"
+pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G5547]]"
+- "[[G3767]]"
+- "[[G3958]]"
+- "[[G5228]]"
+- "[[G3165]]"
+- "[[G4561]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1771]]"
+- "[[G3695]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G3973]]"
+- "[[G0266]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **1 Peter 4:1**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
 <small><sub>**BSB:**</sub></small>
 Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin.
-<small><sub>**Literal:**</sub></small>
-Christ therefore having suffered for of us in [the] flesh also you yourselves the same mind do arm yourselves with, because the [one] having suffered in [the] flesh has himself done with sin;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.22|<< 1 Peter 3:22]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.2|1 Peter 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5547\|Χριστοῦ]]  [[G3767\|οὖν]]  [[G3958\|παθόντος]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G4561\|σαρκὶ]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3588\|τὴν]]  [[G0846\|αὐτὴν]]  [[G1771\|ἔννοιαν]]  [[G3695\|ὁπλίσασθε,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G3958\|παθὼν]]  [[G1722\|ἐν]]  [[G4561\|σαρκὶ]]  [[G3973\|πέπαυται]]  [[G0266\|ἁμαρτίας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SINLESSNESS|SINLESSNESS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.22|<< 1 Peter 3:22]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.2|1 Peter 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

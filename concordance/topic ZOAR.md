@@ -7,5 +7,5 @@
 
 → King of, fought against Chedorlaomer [[Gen.14.2|Ge 14:2]],[[Gen.14.8|8]]
 
-→ Not destroyed with Sodom and Gomorrah [[Gen.19.20|Ge 19:20]]-[[Gen.19.23|23]],[[Gen.19.30|30]]
+→ Not destroyed with Sodom and Gomorrah [[Gen.19.20|Ge 19:20-23]],[[Gen.19.30|30]]
 

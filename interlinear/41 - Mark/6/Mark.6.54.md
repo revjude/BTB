@@ -1,10 +1,49 @@
+---
+title: Mark 6:54
+type: Verse
+kjv: "And when they were come out of the ship, straightway they knew him,"
+bsb: "As soon as they got out of the boat, the people recognized Jesus"
+greek: "καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν"
+pericope: "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G2112]]"
+- "[[G1921]]"
+texts:
+- NKO
+---
+
 **Mark 6:54**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come out of the ship, straightway they knew him,
 <small><sub>**BSB:**</sub></small>
 As soon as they got out of the boat, the people recognized Jesus
-<small><sub>**Literal:**</sub></small>
-And when were exiting they out of the boat immediately having recognized Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.53|<< Mark 6:53]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.55|Mark 6:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξελθόντων]]  [[G0846\|αὐτῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G2112\|εὐθὺς]]  [[G1921\|ἐπιγνόντες]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.53|<< Mark 6:53]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.55|Mark 6:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

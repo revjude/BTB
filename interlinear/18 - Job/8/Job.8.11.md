@@ -1,8 +1,54 @@
+---
+title: Job 8:11
+type: Verse
+kjv: "Can the rush grow up without mire? can the flag grow without water?"
+bsb: "Does papyrus grow where there is no marsh? Do reeds flourish without water?"
+hebrew: "הֲיִֽגְאֶה־ גֹּ֭מֶא בְּלֹ֣א בִצָּ֑ה יִשְׂגֶּה־ אָ֥חוּ בְלִי־ מָֽיִם׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FLAG|FLAG]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H1342]]"
+- "[[H9014]]"
+- "[[H1573]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H1207]]"
+- "[[H7685A]]"
+- "[[H0260]]"
+- "[[H1097]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:11**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can the rush grow up without mire? can the flag grow without water?
 <small><sub>**BSB:**</sub></small>
 Does papyrus grow where there is no marsh? Do reeds flourish without water?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H1342\|יִֽגְאֶה]][[H9014\|־]] [[H1573\|גֹּ֭מֶא]] [[H9003\|בְּ]][[H3808\|לֹ֣א]] [[H1207\|בִצָּ֑ה]] [[H7685A\|יִשְׂגֶּה]][[H9014\|־]] [[H0260\|אָ֥חוּ]] [[H1097\|בְלִי]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAG|FLAG]] • [[topic GODLESSNESS|GODLESSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.10|<< Job 8:10]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.12|Job 8:12 >>]]</td></tr></table>
 

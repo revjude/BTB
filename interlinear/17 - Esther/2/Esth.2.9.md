@@ -1,8 +1,72 @@
+---
+title: Esther 2:9
+type: Verse
+kjv: "And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, which were meet to be given her, out of the king’s house: and he preferred her and her maids unto the best place of the house of the women."
+bsb: "And the young woman pleased him and obtained his favor, so he quickly provided her with beauty treatments and the special diet. He assigned to her seven select maidservants from the palace and transferred her with them to the best place in the harem."
+hebrew: "וַתִּיטַ֨ב הַנַּעֲרָ֣ה בְעֵינָיו֮ וַתִּשָּׂ֣א חֶ֣סֶד לְפָנָיו֒ וַ֠יְבַהֵל אֶת־ תַּמְרוּקֶ֤יהָ וְאֶת־ מָנוֹתֶ֙הָ֙ לָתֵ֣ת לָ֔הּ וְאֵת֙ שֶׁ֣בַע הַנְּעָר֔וֹת הָרְאֻי֥וֹת לָֽתֶת־ לָ֖הּ מִבֵּ֣ית הַמֶּ֑לֶךְ וַיְשַׁנֶּ֧הָ וְאֶת־ נַעֲרוֹתֶ֛יהָ לְט֖וֹב בֵּ֥ית הַנָּשִֽׁים׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H5375Q]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H6440N]]"
+- "[[H0926]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8562]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H4490]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H7651]]"
+- "[[H7200J]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H8138A]]"
+- "[[H2896A]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:9**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, [which were] meet to be given her, out of the king’s house: and he preferred her and her maids unto the best [place] of the house of the women.
 <small><sub>**BSB:**</sub></small>
 And the young woman pleased him and obtained his favor, so he quickly provided her with beauty treatments and the special diet. He assigned to her seven select maidservants from the palace and transferred her with them to the best place in the harem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3190\|תִּיטַ֨ב]] [[H9009\|הַ]][[H5291\|נַּעֲרָ֣ה]] [[H9003\|בְ]][[H5869I\|עֵינָי]][[H9023\|ו֮]] [[H9001\|וַ]][[H5375Q\|תִּשָּׂ֣א]] [[H2617A\|חֶ֣סֶד]] [[H9005\|לְ]][[H6440N\|פָנָי]][[H9023\|ו֒]] [[H9001\|וַ֠]][[H0926\|יְבַהֵל]] [[H0853\|אֶת]][[H9014\|־]] [[H8562\|תַּמְרוּקֶ֤י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4490\|מָנוֹתֶ֙]][[H9024\|הָ֙]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7651\|שֶׁ֣בַע]] [[H9009\|הַ]][[H5291\|נְּעָר֔וֹת]] [[H9009\|הָ]][[H7200J\|רְאֻי֥וֹת]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H8138A\|יְשַׁנֶּ֧]][[H9034\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5291\|נַעֲרוֹתֶ֛י]][[H9024\|הָ]] [[H9005\|לְ]][[H2896A\|ט֖וֹב]] [[H1004B\|בֵּ֥ית]] [[H9009\|הַ]][[H0802H\|נָּשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SEVEN|SEVEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.8|<< Esther 2:8]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.10|Esther 2:10 >>]]</td></tr></table>
 

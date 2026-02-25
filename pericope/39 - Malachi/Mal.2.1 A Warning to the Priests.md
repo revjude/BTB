@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to the Priests
+type: Pericope
 pericope: "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 2
 book/chapter: "[[Mal.2|Malachi 2]]"
-genre:
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 9
 verses:
 - "[[Mal.2.1]]"
 - "[[Mal.2.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mal.2.9]]"
 ---
 
-[[Mal.2|Malachi 2:1 - Malachi 2:9]]
+<small>[[Mal.2|Malachi 2:1-9]]</small>
 *A Warning to the Priests*
 
 [[Mal.2.1|1]] And now, O ye priests, this commandment \[is\] for you.

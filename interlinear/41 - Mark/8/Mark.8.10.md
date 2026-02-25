@@ -1,10 +1,53 @@
+---
+title: Mark 8:10
+type: Verse
+kjv: "And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha."
+bsb: "He immediately got into the boat with His disciples and went to the district of Dalmanutha."
+greek: "Καὶ εὐθὺς ἐμβὰς εἰς τὸ πλοῖον μετὰ τῶν μαθητῶν αὐτοῦ ἦλθεν εἰς τὰ μέρη Δαλμανουθά."
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DALMANUTHA|DALMANUTHA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G3326]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G3313]]"
+- "[[G1148]]"
+texts:
+- NKO
+---
+
 **Mark 8:10**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.
 <small><sub>**BSB:**</sub></small>
 He immediately got into the boat with His disciples and went to the district of Dalmanutha.
-<small><sub>**Literal:**</sub></small>
-And immediately having climbed into the boat with the disciples of Him He came into the district of Dalmanutha.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.9|<< Mark 8:9]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.11|Mark 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2112\|εὐθὺς]]  [[G1684\|ἐμβὰς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3313\|μέρη]]  [[G1148\|Δαλμανουθά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DALMANUTHA|DALMANUTHA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.9|<< Mark 8:9]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.11|Mark 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

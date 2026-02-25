@@ -1,8 +1,71 @@
+---
+title: Genesis 27:26
+type: Verse
+kjv: "And his father Isaac said unto him, Come near now, and kiss me, my son."
+bsb: "Then his father Isaac said to him, “Please come near and kiss me, my son.”"
+hebrew: "וַיֹּ֥אמֶר אֵלָ֖יו יִצְחָ֣ק אָבִ֑יו גְּשָׁה־ נָּ֥א וּשְׁקָה־ לִּ֖י בְּנִֽי׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic KISS|KISS]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3327]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H5066G]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H5401A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:26**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his father Isaac said unto him, Come near now, and kiss me, my son.
 <small><sub>**BSB:**</sub></small>
 Then his father Isaac said to him, “Please come near and kiss me, my son.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H3327\|יִצְחָ֣ק]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H5066G\|גְּשָׁ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֥א]] [[H9002\|וּ]][[H5401A\|שְׁקָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֖]][[H9030\|י]] [[H1121A\|בְּנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DEATH|DEATH]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic KISS|KISS]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.25|<< Genesis 27:25]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.27|Genesis 27:27 >>]]</td></tr></table>
 

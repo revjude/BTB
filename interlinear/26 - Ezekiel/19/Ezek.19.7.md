@@ -1,8 +1,60 @@
+---
+title: Ezekiel 19:7
+type: Verse
+kjv: "And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring."
+bsb: "He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring."
+hebrew: "וַיֵּ֙דַע֙ אַלְמְנוֹתָ֔יו וְעָרֵיהֶ֖ם הֶחֱרִ֑יב וַתֵּ֤שַׁם אֶ֙רֶץ֙ וּמְלֹאָ֔הּ מִקּ֖וֹל שַׁאֲגָתֽוֹ׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0490]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H2717B]]"
+- "[[H3456]]"
+- "[[H0776G]]"
+- "[[H4393]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H7581]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:7**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring.
 <small><sub>**BSB:**</sub></small>
 He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3045\|יֵּ֙דַע֙]] [[H0490\|אַלְמְנוֹתָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5892B\|עָרֵי]][[H9028\|הֶ֖ם]] [[H2717B\|הֶחֱרִ֑יב]] [[H9001\|וַ]][[H3456\|תֵּ֤שַׁם]] [[H0776G\|אֶ֙רֶץ֙]] [[H9002\|וּ]][[H4393\|מְלֹאָ֔]][[H9024\|הּ]] [[H9006\|מִ]][[H6963H\|קּ֖וֹל]] [[H7581\|שַׁאֲגָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.6|<< Ezekiel 19:6]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.8|Ezekiel 19:8 >>]]</td></tr></table>
 

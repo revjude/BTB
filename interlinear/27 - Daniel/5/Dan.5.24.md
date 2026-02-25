@@ -1,8 +1,62 @@
+---
+title: Daniel 5:24
+type: Verse
+kjv: "Then was the part of the hand sent from him; and this writing was written."
+bsb: "Therefore He sent the hand that wrote the inscription."
+aramaic: "בֵּאדַ֙יִן֙ מִן־ קֳדָמ֔וֹהִי שְׁלִ֖יַחַ פַּסָּ֣א דִֽי־ יְדָ֑א וּכְתָבָ֥א דְנָ֖ה רְשִֽׁים׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H6925]]"
+- "[[H9033]]"
+- "[[H7972]]"
+- "[[H6447]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H3028]]"
+- "[[H9002]]"
+- "[[H3792]]"
+- "[[H1836]]"
+- "[[H7560]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:24**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was the part of the hand sent from him; and this writing was written.
 <small><sub>**BSB:**</sub></small>
 Therefore He sent the hand that wrote the inscription.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֙יִן֙]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמ֔וֹ]][[H9033\|הִי]] [[H7972\|שְׁלִ֖יַחַ]] [[H6447\|פַּסָּ֣]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H3028\|יְדָ֑]][[H9010\|א]] [[H9002\|וּ]][[H3792\|כְתָבָ֥]][[H9010\|א]] [[H1836\|דְנָ֖ה]] [[H7560\|רְשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic REPROOF|REPROOF]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.23|<< Daniel 5:23]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.25|Daniel 5:25 >>]]</td></tr></table>
 

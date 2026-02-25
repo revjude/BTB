@@ -1,8 +1,66 @@
+---
+title: Daniel 7:27
+type: Verse
+kjv: "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him."
+bsb: "Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’"
+aramaic: "וּמַלְכוּתָ֨ה וְשָׁלְטָנָ֜א וּרְבוּתָ֗א דִּ֚י מַלְכְוָת֙ תְּח֣וֹת כָּל־ שְׁמַיָּ֔א יְהִיבַ֕ת לְעַ֖ם קַדִּישֵׁ֣י עֶלְיוֹנִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְכֹל֙ שָׁלְטָ֣נַיָּ֔א לֵ֥הּ יִפְלְח֖וּן וְיִֽשְׁתַּמְּעֽוּן׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H4437]]"
+- "[[H9010]]"
+- "[[H7985]]"
+- "[[H7238]]"
+- "[[H1768]]"
+- "[[H8460]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H8065]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H5972]]"
+- "[[H6922]]"
+- "[[H5946]]"
+- "[[H9023]]"
+- "[[H5957]]"
+- "[[H9033]]"
+- "[[H6399]]"
+- "[[H8086]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:27**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.
 <small><sub>**BSB:**</sub></small>
 Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4437\|מַלְכוּתָ֨]][[H9010\|ה]] [[H9002\|וְ]][[H7985\|שָׁלְטָנָ֜]][[H9010\|א]] [[H9002\|וּ]][[H7238\|רְבוּתָ֗]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H4437\|מַלְכְוָת֙]] [[H8460\|תְּח֣וֹת]] [[H3606\|כָּל]][[H9014\|־]] [[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H3052\|יְהִיבַ֕ת]] [[H9005\|לְ]][[H5972\|עַ֖ם]] [[H6922\|קַדִּישֵׁ֣י]] [[H5946\|עֶלְיוֹנִ֑ין]] [[H4437\|מַלְכוּתֵ]][[H9023\|הּ֙]] [[H4437\|מַלְכ֣וּת]] [[H5957\|עָלַ֔ם]] [[H9002\|וְ]][[H3606\|כֹל֙]] [[H7985\|שָׁלְטָ֣נַיָּ֔]][[H9010\|א]] [[H9005\|לֵ֥]][[H9033\|הּ]] [[H6399\|יִפְלְח֖וּן]] [[H9002\|וְ]][[H8086\|יִֽשְׁתַּמְּעֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROPHECY|PROPHECY]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.26|<< Daniel 7:26]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.28|Daniel 7:28 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Ezekiel 22:4
+type: Verse
+kjv: "Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries."
+bsb: "you are guilty of the blood you have shed, and you are defiled by the idols you have made. You have brought your days to a close and have come to the end of your years. Therefore I have made you a reproach to the nations and a mockery to all the lands."
+hebrew: "בְּדָמֵ֨ךְ אֲשֶׁר־ שָׁפַ֜כְתְּ אָשַׁ֗מְתְּ וּבְגִלּוּלַ֤יִךְ אֲשֶׁר־ עָשִׂית֙ טָמֵ֔את וַתַּקְרִ֣יבִי יָמַ֔יִךְ וַתָּב֖וֹא עַד־ שְׁנוֹתָ֑יִךְ עַל־ כֵּ֗ן נְתַתִּ֤יךְ חֶרְפָּה֙ לַגּוֹיִ֔ם וְקַלָּסָ֖ה לְכָל־ הָאֲרָצֽוֹת׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8210H]]"
+- "[[H0816]]"
+- "[[H9002]]"
+- "[[H1544]]"
+- "[[H6213H]]"
+- "[[H2930A]]"
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H8141]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H5414I]]"
+- "[[H9032]]"
+- "[[H2781]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H7048]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:4**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come [even] unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries.
 <small><sub>**BSB:**</sub></small>
 you are guilty of the blood you have shed, and you are defiled by the idols you have made. You have brought your days to a close and have come to the end of your years. Therefore I have made you a reproach to the nations and a mockery to all the lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1818\|דָמֵ֨]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8210H\|שָׁפַ֜כְתְּ]] [[H0816\|אָשַׁ֗מְתְּ]] [[H9002\|וּ]][[H9003\|בְ]][[H1544\|גִלּוּלַ֤יִ]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשִׂית֙]] [[H2930A\|טָמֵ֔את]] [[H9001\|וַ]][[H7126H\|תַּקְרִ֣יבִי]] [[H3117G\|יָמַ֔יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H0935G\|תָּב֖וֹא]] [[H5704\|עַד]][[H9014\|־]] [[H8141\|שְׁנוֹתָ֑יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H5414I\|נְתַתִּ֤י]][[H9032\|ךְ]] [[H2781\|חֶרְפָּה֙]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H7048\|קַלָּסָ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.3|<< Ezekiel 22:3]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.5|Ezekiel 22:5 >>]]</td></tr></table>
 

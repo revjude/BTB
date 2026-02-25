@@ -1,8 +1,64 @@
+---
+title: Psalm 70:5
+type: Verse
+kjv: "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying."
+bsb: "But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay."
+hebrew: "וַאֲנִ֤י׀ עָנִ֣י וְאֶבְיוֹן֮ אֱלֹהִ֪ים חֽוּשָׁ֫ה־ לִּ֥י עֶזְרִ֣י וּמְפַלְטִ֣י אַ֑תָּה יְ֝הוָ֗ה אַל־ תְּאַחַֽר׃"
+pericope: "[[Ps.70.1 Hurry, O LORD, to Help Me!|Hurry, O LORD, to Help Me!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 70
+book/chapter: "[[Ps.70|Psalm 70]]"
+chronological_order: 378
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H6041]]"
+- "[[H0034]]"
+- "[[H0430G]]"
+- "[[H2363A]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5828]]"
+- "[[H9020]]"
+- "[[H6403]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H0309]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 70:5**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [am] poor and needy: make haste unto me, O God: thou [art] my help and my deliverer; O LORD, make no tarrying.
 <small><sub>**BSB:**</sub></small>
 But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֤י]][[H9015\|׀]] [[H6041\|עָנִ֣י]] [[H9002\|וְ]][[H0034\|אֶבְיוֹן֮]] [[H0430G\|אֱלֹהִ֪ים]] [[H2363A\|חֽוּשָׁ֫]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H5828\|עֶזְרִ֣]][[H9020\|י]] [[H9002\|וּ]][[H6403\|מְפַלְטִ֣]][[H9030\|י]] [[H0859A\|אַ֑תָּה]] [[H3068G\|יְ֝הוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H0309\|תְּאַחַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.4|<< Psalms 70:4]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.1|Psalms 71:1 >>]]</td></tr></table>
 

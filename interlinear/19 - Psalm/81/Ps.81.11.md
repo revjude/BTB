@@ -1,8 +1,57 @@
+---
+title: Psalm 81:11
+type: Verse
+kjv: "But my people would not hearken to my voice; and Israel would none of me."
+bsb: "But My people would not listen to Me, and Israel would not obey Me."
+hebrew: "וְלֹא־ שָׁמַ֣ע עַמִּ֣י לְקוֹלִ֑י וְ֝יִשְׂרָאֵ֗ל לֹא־ אָ֥בָה לִֽי׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H3478]]"
+- "[[H0014]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:11**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my people would not hearken to my voice; and Israel would none of me.
 <small><sub>**BSB:**</sub></small>
 But My people would not listen to Me, and Israel would not obey Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֣ע]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H9005\|לְ]][[H6963A\|קוֹלִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H3478\|יִשְׂרָאֵ֗ל]] [[H3808\|לֹא]][[H9014\|־]] [[H0014\|אָ֥בָה]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.10|<< Psalms 81:10]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.12|Psalms 81:12 >>]]</td></tr></table>
 

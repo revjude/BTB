@@ -1,8 +1,73 @@
+---
+title: Ezekiel 40:5
+type: Verse
+kjv: "And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed."
+bsb: "And I saw a wall surrounding the temple area. Now the length of the measuring rod in the man’s hand was six long cubits (each measuring a cubit and a handbreadth), and he measured the wall to be one rod thick and one rod high."
+hebrew: "וְהִנֵּ֥ה חוֹמָ֛ה מִח֥וּץ לַבַּ֖יִת סָבִ֣יב׀ סָבִ֑יב וּבְיַ֨ד הָאִ֜ישׁ קְנֵ֣ה הַמִּדָּ֗ה שֵׁשׁ־ אַמּ֤וֹת בָּֽאַמָּה֙ וָטֹ֔פַח וַיָּ֜מָד אֶת־ רֹ֤חַב הַבִּנְיָן֙ קָנֶ֣ה אֶחָ֔ד וְקוֹמָ֖ה קָנֶ֥ה אֶחָֽד׃"
+pericope: "[[Ezek.40.5 The East Gate|The East Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CUBIT|CUBIT]]"
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2346G]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H7070H]]"
+- "[[H4060A]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H0520A]]"
+- "[[H2948]]"
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H7341]]"
+- "[[H1146]]"
+- "[[H0259]]"
+- "[[H6967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:5**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits [long] by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
 <small><sub>**BSB:**</sub></small>
 And I saw a wall surrounding the temple area. Now the length of the measuring rod in the man’s hand was six long cubits (each measuring a cubit and a handbreadth), and he measured the wall to be one rod thick and one rod high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H2346G\|חוֹמָ֛ה]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֑יב]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יַ֨ד]] [[H9009\|הָ]][[H0376G\|אִ֜ישׁ]] [[H7070H\|קְנֵ֣ה]] [[H9009\|הַ]][[H4060A\|מִּדָּ֗ה]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H0520A\|אַמּ֤וֹת]] [[H9003\|בָּֽ]][[H0520A\|אַמָּה֙]] [[H9002\|וָ]][[H2948\|טֹ֔פַח]] [[H9001\|וַ]][[H4058\|יָּ֜מָד]] [[H0853\|אֶת]][[H9014\|־]] [[H7341\|רֹ֤חַב]] [[H9009\|הַ]][[H1146\|בִּנְיָן֙]] [[H7070H\|קָנֶ֣ה]] [[H0259\|אֶחָ֔ד]] [[H9002\|וְ]][[H6967\|קוֹמָ֖ה]] [[H7070H\|קָנֶ֥ה]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUBIT|CUBIT]] • [[topic HANDBREADTH|HANDBREADTH]] • [[topic MEASURE|MEASURE]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.4|<< Ezekiel 40:4]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.6|Ezekiel 40:6 >>]]</td></tr></table>
 

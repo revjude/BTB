@@ -1,8 +1,61 @@
+---
+title: Psalm 43:2
+type: Verse
+kjv: "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+bsb: "For You are the God of my refuge. Why have You rejected me? Why must I walk in sorrow because of the enemy’s oppression?"
+hebrew: "כִּֽי־ אַתָּ֤ה׀ אֱלֹהֵ֣י מָֽעוּזִּי֮ לָמָ֪ה זְנַ֫חְתָּ֥נִי לָֽמָּה־ קֹדֵ֥ר אֶתְהַלֵּ֗ךְ בְּלַ֣חַץ אוֹיֵֽב׃"
+pericope: "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 43
+book/chapter: "[[Ps.43|Psalm 43]]"
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H4581]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2186A]]"
+- "[[H9030]]"
+- "[[H6937]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H3906]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 43:2**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?
 <small><sub>**BSB:**</sub></small>
 For You are the God of my refuge. Why have You rejected me? Why must I walk in sorrow because of the enemy’s oppression?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֣י]] [[H4581\|מָֽעוּזִּ]][[H9020\|י֮]] [[H9005\|לָ]][[H4100\|מָ֪ה]] [[H2186A\|זְנַ֫חְתָּ֥]][[H9030\|נִי]] [[H9005\|לָֽ]][[H4100\|מָּה]][[H9014\|־]] [[H6937\|קֹדֵ֥ר]] [[H1980G\|אֶתְהַלֵּ֗ךְ]] [[H9003\|בְּ]][[H3906\|לַ֣חַץ]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.1|<< Psalms 43:1]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.3|Psalms 43:3 >>]]</td></tr></table>
 

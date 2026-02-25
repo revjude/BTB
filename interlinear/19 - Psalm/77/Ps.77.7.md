@@ -1,8 +1,59 @@
+---
+title: Psalm 77:7
+type: Verse
+kjv: "Will the Lord cast off for ever? and will he be favourable no more?"
+bsb: "“Will the Lord spurn us forever and never show His favor again?"
+hebrew: "הַֽ֭לְעוֹלָמִים יִזְנַ֥ח׀ אֲדֹנָ֑י וְלֹֽא־ יֹסִ֖יף לִרְצ֣וֹת עֽוֹד׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2186A]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H7521]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:7**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will the Lord cast off for ever? and will he be favourable no more?
 <small><sub>**BSB:**</sub></small>
 “Will the Lord spurn us forever and never show His favor again?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ֭]][[H9005\|לְ]][[H5769G\|עוֹלָמִים]] [[H2186A\|יִזְנַ֥ח]][[H9015\|׀]] [[H0136\|אֲדֹנָ֑י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יֹסִ֖יף]] [[H9005\|לִ]][[H7521\|רְצ֣וֹת]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic DOUBTING|DOUBTING]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.6|<< Psalms 77:6]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.8|Psalms 77:8 >>]]</td></tr></table>
 

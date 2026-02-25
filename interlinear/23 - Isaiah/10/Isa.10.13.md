@@ -1,8 +1,68 @@
+---
+title: Isaiah 10:13
+type: Verse
+kjv: "For he saith, By the strength of my hand I have done it, and by my wisdom; for I am prudent: and I have removed the bounds of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant man:"
+bsb: "For he says: ‘By the strength of my hand I have done this, and by my wisdom, for I am clever. I have removed the boundaries of nations and plundered their treasures; like a mighty one I subdued their rulers."
+hebrew: "כִּ֣י אָמַ֗ר בְּכֹ֤חַ יָדִי֙ עָשִׂ֔יתִי וּבְחָכְמָתִ֖י כִּ֣י נְבֻנ֑וֹתִי וְאָסִ֣יר׀ גְּבוּלֹ֣ת עַמִּ֗ים וַעֲתוּדֽוֹתֵיהֶם֙ שׁוֹשֵׂ֔תִי וְאוֹרִ֥יד כַּאבִּ֖יר יוֹשְׁבִֽים׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H2451]]"
+- "[[H0995]]"
+- "[[H5493G]]"
+- "[[H9015]]"
+- "[[H1367]]"
+- "[[H5971A]]"
+- "[[H6264]]"
+- "[[H9028]]"
+- "[[H6259]]"
+- "[[H8154]]"
+- "[[H3381]]"
+- "[[H9004]]"
+- "[[H0047G]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 10:13**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he saith, By the strength of my hand I have done [it], and by my wisdom; for I am prudent: and I have removed the bounds of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant [man]:
 <small><sub>**BSB:**</sub></small>
 For he says: ‘By the strength of my hand I have done this, and by my wisdom, for I am clever. I have removed the boundaries of nations and plundered their treasures; like a mighty one I subdued their rulers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0559\|אָמַ֗ר]] [[H9003\|בְּ]][[H3581B\|כֹ֤חַ]] [[H3027H\|יָדִ]][[H9020\|י֙]] [[H6213A\|עָשִׂ֔יתִי]] [[H9002\|וּ]][[H9003\|בְ]][[H2451\|חָכְמָתִ֖]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H0995\|נְבֻנ֑וֹתִי]] [[H9002\|וְ]][[H5493G\|אָסִ֣יר]][[H9015\|׀]] [[H1367\|גְּבוּלֹ֣ת]] [[H5971A\|עַמִּ֗ים]] [[H9002\|וַ]][[H6259\|עֲתוּדֽוֹתֵי]][[H9028\|הֶם֙]] [[H8154\|שׁוֹשֵׂ֔תִי]] [[H9002\|וְ]][[H3381\|אוֹרִ֥יד]] [[H9004\|כַּ]][[H0047G\|אבִּ֖יר]] [[H3427\|יוֹשְׁבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BOASTING|BOASTING]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.12|<< Isaiah 10:12]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.14|Isaiah 10:14 >>]]</td></tr></table>
 
@@ -26,8 +86,8 @@ For he says: ‘By the strength of my hand I have done this, and by my wisdom, f
 | inhabitants  |**<big>&#8207;[[H3427\|יוֹשְׁבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.12|<< Isaiah 10:12]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.14|Isaiah 10:14 >>]]</td></tr></table>
 
-[^1]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
-[^3]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: and treasures their  | **<big>[[H9002|וַ]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9028|הֶם]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: and treasures their  | **<big>[[H9002|וַ]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9028|הֶם]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: and treasures their  | **<big>[[H9002|וַ]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9028|הֶם]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וַעֲתיּדֹֽתֵי/הֶם֙</big></span>**
 

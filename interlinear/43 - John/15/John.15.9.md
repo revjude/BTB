@@ -1,10 +1,58 @@
+---
+title: John 15:9
+type: Verse
+kjv: "As the Father hath loved me, so have I loved you: continue ye in my love."
+bsb: "As the Father has loved Me, so have I loved you. Remain in My love."
+jesus_said: "As the Father hath loved me, so have I loved you: continue ye in my love."
+greek: "καθὼς ἠγάπησέν με ὁ πατήρ, κἀγὼ κἀγὼ ὑμᾶς ἠγάπησα· μείνατε ἐν τῇ ἀγάπῃ τῇ ἐμῇ."
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2531]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G0026]]"
+texts:
+- NKO
+---
+
 **John 15:9**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As the Father hath loved me, so have I loved you: continue ye in my love.
 <small><sub>**BSB:**</sub></small>
 As the Father has loved Me, so have I loved you. Remain in My love.
-<small><sub>**Literal:**</sub></small>
-even as has loved Me the Father, I myself also you loved;  do abide in the love <the> of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.8|<< John 15:8]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.10|John 15:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G0025\|ἠγάπησέν]]  [[G3165\|με]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4771\|ὑμᾶς]]  [[G0025\|ἠγάπησα·]]  [[G3306\|μείνατε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ]]  [[G3588\|τῇ]]  [[G1473\|ἐμῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.8|<< John 15:8]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.10|John 15:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

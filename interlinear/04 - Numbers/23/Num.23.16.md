@@ -1,8 +1,63 @@
+---
+title: Numbers 23:16
+type: Verse
+kjv: "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
+bsb: "And the LORD met with Balaam and put a message in his mouth, saying, “Return to Balak and speak what I tell you.”"
+hebrew: "וַיִּקָּ֤ר יְהוָה֙ אֶל־ בִּלְעָ֔ם וַיָּ֥שֶׂם דָּבָ֖ר בְּפִ֑יו וַיֹּ֛אמֶר שׁ֥וּב אֶל־ בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PISGAH|PISGAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7136A]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H7760H]]"
+- "[[H1697G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H7725G]]"
+- "[[H1111]]"
+- "[[H9002]]"
+- "[[H3541]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:16**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
 <small><sub>**BSB:**</sub></small>
 And the LORD met with Balaam and put a message in his mouth, saying, “Return to Balak and speak what I tell you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7136A\|יִּקָּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H9001\|וַ]][[H7760H\|יָּ֥שֶׂם]] [[H1697G\|דָּבָ֖ר]] [[H9003\|בְּ]][[H6310G\|פִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H7725G\|שׁ֥וּב]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֖ק]] [[H9002\|וְ]][[H3541\|כֹ֥ה]] [[H1696G\|תְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PISGAH|PISGAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.15|<< Numbers 23:15]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.17|Numbers 23:17 >>]]</td></tr></table>
 

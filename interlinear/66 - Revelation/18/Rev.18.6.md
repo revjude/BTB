@@ -1,10 +1,53 @@
+---
+title: Revelation 18:6
+type: Verse
+kjv: "Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double."
+bsb: "Give back to her as she has done to others; pay her back double for what she has done; mix her a double portion in her own cup."
+greek: "ἀπόδοτε αὐτῇ ὡς καὶ αὐτὴ ἀπέδωκεν ὑμῖν καὶ διπλώσατε αὐτῇ τὰ διπλᾶ κατὰ τὰ ἔργα αὐτῆς. ἐν τῷ ποτηρίῳ ᾧ ἐκέρασεν, κεράσατε αὐτῇ διπλοῦν."
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G0591]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1363]]"
+- "[[G3588]]"
+- "[[G1362]]"
+- "[[G2596]]"
+- "[[G2041]]"
+- "[[G1722]]"
+- "[[G4221]]"
+- "[[G3739]]"
+- "[[G2767]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **Revelation 18:6**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.
 <small><sub>**BSB:**</sub></small>
 Give back to her as she has done to others; pay her back double for what she has done; mix her a double portion in her own cup.
-<small><sub>**Literal:**</sub></small>
-do give back to her as also she has rendered to you and do pay back double to her the twofold according to the works of her. In the cup which she has mixed, do mix to her double.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.5|<< Revelation 18:5]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.7|Revelation 18:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0591\|ἀπόδοτε]]  [[G0846\|αὐτῇ]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G0591\|ἀπέδωκεν]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G1363\|διπλώσατε]]  [[G0846\|αὐτῇ]]  [[G3588\|τὰ]]  [[G1362\|διπλᾶ]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῆς.]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4221\|ποτηρίῳ]]  [[G3739\|ᾧ]]  [[G2767\|ἐκέρασεν,]]  [[G2767\|κεράσατε]]  [[G0846\|αὐτῇ]]  [[G1362\|διπλοῦν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.5|<< Revelation 18:5]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.7|Revelation 18:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:6** is...
 > $\quad$ alluding to: [[LXX.Ps.137.8|Ps 137:8]] ☩ [[LXX.Jer.50.15|Jer 50:15]] ☩ [[LXX.Jer.50.29|Jer 50:29]]

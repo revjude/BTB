@@ -1,8 +1,72 @@
+---
+title: Numbers 26:62
+type: Verse
+kjv: "And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel."
+bsb: "The registration of the Levites totaled 23,000, every male a month old or more; they were not numbered among the other Israelites, because no inheritance was given to them among the Israelites."
+hebrew: "וַיִּהְי֣וּ פְקֻדֵיהֶ֗ם שְׁלֹשָׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף כָּל־ זָכָ֖ר מִבֶּן־ חֹ֣דֶשׁ וָמָ֑עְלָה כִּ֣י׀ לֹ֣א הָתְפָּקְד֗וּ בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֠י לֹא־ נִתַּ֤ן לָהֶם֙ נַחֲלָ֔ה בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H7969]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2320G]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:62**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
 <small><sub>**BSB:**</sub></small>
 The registration of the Levites totaled 23,000, every male a month old or more; they were not numbered among the other Israelites, because no inheritance was given to them among the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֣וּ]] [[H6485A\|פְקֻדֵי]][[H9028\|הֶ֗ם]] [[H7969\|שְׁלֹשָׁ֤ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0505G\|אֶ֔לֶף]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֖ר]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3808\|לֹ֣א]] [[H6485A\|הָתְפָּקְד֗וּ]] [[H9003\|בְּ]][[H8432\|תוֹךְ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּ֠י]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|נִתַּ֤ן]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H5159\|נַחֲלָ֔ה]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.61|<< Numbers 26:61]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.63|Numbers 26:63 >>]]</td></tr></table>
 

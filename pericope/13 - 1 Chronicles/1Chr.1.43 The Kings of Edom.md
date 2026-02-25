@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kings of Edom
+type: Pericope
 pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 1
 book/chapter: "[[1Chr.1|1 Chronicles 1]]"
-genre:
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 12
 verses:
 - "[[1Chr.1.43]]"
 - "[[1Chr.1.44]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Chr.1.54]]"
 ---
 
-[[1Chr.1|1 Chronicles 1:43 - 1 Chronicles 1:54]]
+<small>[[1Chr.1|1 Chronicles 1:43-54]]</small>
 *The Kings of Edom*
 
 [[1Chr.1.43|43]] Now these \[are\] the kings that reigned in the land of Edom before \[any\] king reigned over the children of Israel; Bela the son of Beor: and the name of his city \[was\] Dinhabah.

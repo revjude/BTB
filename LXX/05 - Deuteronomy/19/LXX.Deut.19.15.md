@@ -1,9 +1,79 @@
+---
+title: LXX Deuteronomy 19:15
+type: Verse
+lxx: "You shall not adhere to one witness in witnessing against a man for any injustice, and for any sin, and for any sin which ever he should have sinned. By the mouth of two witnesses, and by the mouth of three witnesses every word shall be established."
+greek: "ουκ εμμενεί μάρτυς εις μαρτυρήσαι κατά ανθρώπου κατά πάσαν αδικίαν και κατά παν αμάρτημα και κατά πάσαν αμαρτίαν ην αν αμάρτη επί στόματος δύο μαρτύρων και επί στόματος τριών μαρτύρων σταθήσεται παν ρήμα"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1696]]"
+- "[[G3144]]"
+- "[[G1520]]"
+- "[[G3140]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G0093]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G0265]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G0266]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0264]]"
+- "[[G1909]]"
+- "[[G4750]]"
+- "[[G1417]]"
+- "[[G3144]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G4750]]"
+- "[[G5140]]"
+- "[[G3144]]"
+- "[[G2476]]"
+- "[[G3956]]"
+- "[[G4487]]"
+---
+
 **LXX Deuteronomy 19:15** 
 
 ***Concerning Witnesses***
 
 <small><sub>**LXX:**</sub></small>
 You shall not adhere to one witness in witnessing against a man for any injustice, and for any sin, and for any sin which ever he should have sinned. By \[the\] mouth of two witnesses, and by \[the\] mouth of three witnesses every word shall be established. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ουκ]] [[G1696\|εμμενεί]] [[G3144\|μάρτυς]] [[G1520\|εις]] [[G3140\|μαρτυρήσαι]] [[G2596\|κατά]] [[G0444\|ανθρώπου]] [[G2596\|κατά]] [[G3956\|πάσαν]] [[G0093\|αδικίαν]] [[G2532\|και]] [[G2596\|κατά]] [[G3956\|παν]] [[G0265\|αμάρτημα]] [[G2532\|και]] [[G2596\|κατά]] [[G3956\|πάσαν]] [[G0266\|αμαρτίαν]] [[G3739\|ην]] [[G0302\|αν]] [[G0264\|αμάρτη]] [[G1909\|επί]] [[G4750\|στόματος]] [[G1417\|δύο]] [[G3144\|μαρτύρων]] [[G2532\|και]] [[G1909\|επί]] [[G4750\|στόματος]] [[G5140\|τριών]] [[G3144\|μαρτύρων]] [[G2476\|σταθήσεται]] [[G3956\|παν]] [[G4487\|ρήμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIDENCE|EVIDENCE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -46,6 +116,6 @@ You shall not adhere to one witness in witnessing against a man for any injustic
 | shall be established | **<big>[[G2476\|σταθήσεται]]</big>** |
 | every | **<big>[[G3956\|παν]]</big>** |
 | word | **<big>[[G4487\|ρήμα]]</big>** |
-[[Deut.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
 
 

@@ -1,10 +1,53 @@
+---
+title: Mark 6:30
+type: Verse
+kjv: "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught."
+bsb: "Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught."
+greek: "Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν καὶ ἀπήγγειλαν αὐτῷ πάντα καὶ ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν."
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G0518]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G1321]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 6:30**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught.
-<small><sub>**Literal:**</sub></small>
-And are gathered together the apostles to <the> Jesus and they related to him all things and how much they had done and how much they had taught.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.29|<< Mark 6:29]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.31|Mark 6:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4863\|συνάγονται]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G0518\|ἀπήγγειλαν]]  [[G0846\|αὐτῷ]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίησαν]]  [[G2532\|καὶ]]  [[G3745\|ὅσα]]  [[G1321\|ἐδίδαξαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.29|<< Mark 6:29]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.31|Mark 6:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

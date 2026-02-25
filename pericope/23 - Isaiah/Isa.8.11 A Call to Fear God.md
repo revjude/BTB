@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Fear God
+type: Pericope
 pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 8
 book/chapter: "[[Isa.8|Isaiah 8]]"
-genre:
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.8.11]]"
 - "[[Isa.8.12]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.8.18]]"
 ---
 
-[[Isa.8|Isaiah 8:11 - Isaiah 8:18]]
+<small>[[Isa.8|Isaiah 8:11-18]]</small>
 *A Call to Fear God*
 
 [[Isa.8.11|11]] For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,

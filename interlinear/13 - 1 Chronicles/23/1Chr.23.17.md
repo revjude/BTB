@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 23:17
+type: Verse
+kjv: "And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many."
+bsb: "The descendants of Eliezer: Rehabiah was the first. Eliezer did not have any other sons, but the sons of Rehabiah were very numerous."
+hebrew: "וַיִּֽהְי֥וּ בְנֵי־ אֱלִיעֶ֖זֶר רְחַבְיָ֣ה הָרֹ֑אשׁ וְלֹא־ הָיָ֤ה לֶאֱלִיעֶ֙זֶר֙ בָּנִ֣ים אֲחֵרִ֔ים וּבְנֵ֥י רְחַבְיָ֖ה רָב֥וּ לְמָֽעְלָה׃"
+pericope: "[[1Chr.23.12 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic REHABIAH|REHABIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0461H]]"
+- "[[H7345]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0312]]"
+- "[[H7235A]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:17**<big><big>[[1Chr.23.12 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Eliezer [were], Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.
 <small><sub>**BSB:**</sub></small>
 The descendants of Eliezer: Rehabiah was the first. Eliezer did not have any other sons, but the sons of Rehabiah were very numerous.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְי֥וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H0461H\|אֱלִיעֶ֖זֶר]] [[H7345\|רְחַבְיָ֣ה]] [[H9009\|הָ]][[H7218H\|רֹ֑אשׁ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֤ה]] [[H9005\|לֶ]][[H0461H\|אֱלִיעֶ֙זֶר֙]] [[H1121A\|בָּנִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H7345\|רְחַבְיָ֖ה]] [[H7235A\|רָב֥וּ]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIEZER|ELIEZER]] • [[topic LEVITES|LEVITES]] • [[topic REHABIAH|REHABIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.16|<< 1 Chronicles 23:16]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.18|1 Chronicles 23:18 >>]]</td></tr></table>
 

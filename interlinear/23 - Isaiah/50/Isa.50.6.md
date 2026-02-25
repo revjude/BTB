@@ -1,8 +1,58 @@
+---
+title: Isaiah 50:6
+type: Verse
+kjv: "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting."
+bsb: "I offered My back to those who struck Me, and My cheeks to those who tore out My beard. I did not hide My face from scorn and spittle."
+hebrew: "גֵּוִי֙ נָתַ֣תִּי לְמַכִּ֔ים וּלְחָיַ֖י לְמֹֽרְטִ֑ים פָּנַי֙ לֹ֣א הִסְתַּ֔רְתִּי מִכְּלִמּ֖וֹת וָרֹֽק׃"
+pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H1460A]]"
+- "[[H9020]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5221]]"
+- "[[H9002]]"
+- "[[H3895H]]"
+- "[[H4803]]"
+- "[[H6440H]]"
+- "[[H3808]]"
+- "[[H5641]]"
+- "[[H9006]]"
+- "[[H3639]]"
+- "[[H7536]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 50:6**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
 <small><sub>**BSB:**</sub></small>
 I offered My back to those who struck Me, and My cheeks to those who tore out My beard. I did not hide My face from scorn and spittle.
+<small><sub>**Hebrew:**</sub></small>
+[[H1460A\|גֵּוִ]][[H9020\|י֙]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לְ]][[H5221\|מַכִּ֔ים]] [[H9002\|וּ]][[H3895H\|לְחָיַ֖]][[H9020\|י]] [[H9005\|לְ]][[H4803\|מֹֽרְטִ֑ים]] [[H6440H\|פָּנַ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H5641\|הִסְתַּ֔רְתִּי]] [[H9006\|מִ]][[H3639\|כְּלִמּ֖וֹת]] [[H9002\|וָ]][[H7536\|רֹֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.5|<< Isaiah 50:5]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.7|Isaiah 50:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

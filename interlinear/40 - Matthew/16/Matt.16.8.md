@@ -1,10 +1,64 @@
+---
+title: Matthew 16:8
+type: Verse
+kjv: "Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?"
+bsb: "Aware of their conversation, Jesus said, “You of little faith, why are you debating among yourselves about having no bread?"
+jesus_said: "O ye of little faith, why reason ye among yourselves, because ye have brought no bread?"
+greek: "Γνοὺς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· τί διαλογίζεσθε ἐν ἑαυτοῖς, ὀλιγόπιστοι, ὅτι ἄρτους οὐκ ἔχετε;"
+pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G1097]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1260]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3640]]"
+- "[[G3754H]]"
+- "[[G0740]]"
+- "[[G3756]]"
+- "[[G2192]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Matthew 16:8**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Which] when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
 <small><sub>**BSB:**</sub></small>
 Aware of their conversation, Jesus said, “You of little faith, why are you debating among yourselves about having no bread?
-<small><sub>**Literal:**</sub></small>
-Having known [this] however <the> Jesus said to them: Why reason you among yourselves, O [you] of little faith, because bread not you take?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.7|<< Matthew 16:7]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.9|Matthew 16:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Γνοὺς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G1260\|διαλογίζεσθε]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς,]]  [[G3640\|ὀλιγόπιστοι,]]  [[G3754H\|ὅτι]]  [[G0740\|ἄρτους]]  [[G3756\|οὐκ]]  [[G2192\|ἔχετε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHIDING|CHIDING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.7|<< Matthew 16:7]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.9|Matthew 16:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,49 @@
+---
+title: Mark 1:33
+type: Verse
+kjv: "And all the city was gathered together at the door."
+bsb: "and the whole town gathered at the door."
+greek: "καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη πρὸς τὴν θύραν."
+pericope: "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1996]]"
+- "[[G4314]]"
+- "[[G2374]]"
+texts:
+- NKO
+---
+
 **Mark 1:33**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the city was gathered together at the door.
 <small><sub>**BSB:**</sub></small>
 and the whole town gathered at the door.
-<small><sub>**Literal:**</sub></small>
-And was all the city gathered at the door.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.32|<< Mark 1:32]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.34|Mark 1:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G3650\|ὅλη]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G1996\|ἐπισυνηγμένη]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G2374\|θύραν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.32|<< Mark 1:32]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.34|Mark 1:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

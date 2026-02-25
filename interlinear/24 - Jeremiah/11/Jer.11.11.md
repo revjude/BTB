@@ -1,8 +1,69 @@
+---
+title: Jeremiah 11:11
+type: Verse
+kjv: "Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and though they shall cry unto me, I will not hearken unto them."
+bsb: "Therefore this is what the LORD says: ‘I am about to bring upon them a disaster that they cannot escape. They will cry out to Me, but I will not listen to them."
+hebrew: "לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֨י מֵבִ֤יא אֲלֵיהֶם֙ רָעָ֔ה אֲשֶׁ֥ר לֹֽא־ יוּכְל֖וּ לָצֵ֣את מִמֶּ֑נָּה וְזָעֲק֣וּ אֵלַ֔י וְלֹ֥א אֶשְׁמַ֖ע אֲלֵיהֶֽם׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:11**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and though they shall cry unto me, I will not hearken unto them.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: ‘I am about to bring upon them a disaster that they cannot escape. They will cry out to Me, but I will not listen to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0935P\|מֵבִ֤יא]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יוּכְל֖וּ]] [[H9005\|לָ]][[H3318G\|צֵ֣את]] [[H4480A\|מִמֶּ֑]][[H9034\|נָּה]] [[H9001\|וְ]][[H2199\|זָעֲק֣וּ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|אֶשְׁמַ֖ע]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.10|<< Jeremiah 11:10]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.12|Jeremiah 11:12 >>]]</td></tr></table>
 

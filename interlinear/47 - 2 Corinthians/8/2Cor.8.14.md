@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 8:14
+type: Verse
+kjv: "But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:"
+bsb: "At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. This way there will be equality."
+greek: "ἐν τῷ νῦν καιρῷ τὸ ὑμῶν περίσσευμα εἰς τὸ ἐκείνων ὑστέρημα, ἵνα καὶ τὸ ἐκείνων περίσσευμα γένηται εἰς τὸ ὑμῶν ὑστέρημα, ὅπως γένηται ἰσότης"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G2540]]"
+- "[[G4771]]"
+- "[[G4051]]"
+- "[[G1519]]"
+- "[[G1565]]"
+- "[[G5303]]"
+- "[[G2443]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3704]]"
+- "[[G2471]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:14**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But by an equality, [that] now at this time your abundance [may be a supply] for their want, that their abundance also may be [a supply] for your want: that there may be equality:
 <small><sub>**BSB:**</sub></small>
 At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. This way there will be equality.
-<small><sub>**Literal:**</sub></small>
-At the present time <the> your excess [will be] for the of those need, so that also <the> their excess may be for the of you need, so that there may become equality<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.13|<< 2 Corinthians 8:13]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.15|2 Corinthians 8:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3568\|νῦν]]  [[G2540\|καιρῷ]]  [[G3588\|τὸ]]  [[G4771\|ὑμῶν]]  [[G4051\|περίσσευμα]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1565\|ἐκείνων]]  [[G5303\|ὑστέρημα,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1565\|ἐκείνων]]  [[G4051\|περίσσευμα]]  [[G1096\|γένηται]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4771\|ὑμῶν]]  [[G5303\|ὑστέρημα,]]  [[G3704\|ὅπως]]  [[G1096\|γένηται]]  [[G2471\|ἰσότης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GIVING|GIVING]] • [[topic LIBERALITY|LIBERALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.13|<< 2 Corinthians 8:13]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.15|2 Corinthians 8:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

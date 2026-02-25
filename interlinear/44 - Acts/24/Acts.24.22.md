@@ -1,10 +1,62 @@
+---
+title: Acts 24:22
+type: Verse
+kjv: "And when Felix heard these things, having more perfect knowledge of that way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter."
+bsb: "Then Felix, who was well informed about the Way, adjourned the hearing and said, “When Lysias the commander comes, I will decide your case.”"
+greek: "Ἀκούσας ταῦτα Ἀνεβάλετο δὲ αὐτοὺς ὁ Φῆλιξ ἀκριβέστερον εἰδὼς τὰ περὶ τῆς ὁδοῦ εἴπας· ὅταν Λυσίας ὁ χιλίαρχος καταβῇ, διαγνώσομαι τὰ καθ᾽ ὑμᾶς."
+pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LYSIAS|LYSIAS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WAY|WAY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G3778]]"
+- "[[G0306]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5344]]"
+- "[[G0197]]"
+- "[[G6063]]"
+- "[[G4012]]"
+- "[[G3598]]"
+- "[[G2036]]"
+- "[[G3752]]"
+- "[[G3079]]"
+- "[[G5506]]"
+- "[[G2597]]"
+- "[[G1231]]"
+- "[[G2596]]"
+- "[[G4771]]"
+texts:
+- K
+- NKO
+---
+
 **Acts 24:22**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Felix heard these things, having more perfect knowledge of [that] way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter.
 <small><sub>**BSB:**</sub></small>
 Then Felix, who was well informed about the Way, adjourned the hearing and said, “When Lysias the commander comes, I will decide your case.”
-<small><sub>**Literal:**</sub></small>
-having heard these things deferred  then  them <the> Felix more precisely knowing the [things] concerning the Way having said; When Lysias the commander may have come down, I will examine the [things] as to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.21|<< Acts 24:21]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.23|Acts 24:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G3778\|ταῦτα]]  [[G0306\|Ἀνεβάλετο]]  [[G1161\|δὲ]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G5344\|Φῆλιξ]]  [[G0197\|ἀκριβέστερον]]  [[G6063\|εἰδὼς]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G3598\|ὁδοῦ]]  [[G2036\|εἴπας·]]  [[G3752\|ὅταν]]  [[G3079\|Λυσίας]]  [[G3588\|ὁ]]  [[G5506\|χιλίαρχος]]  [[G2597\|καταβῇ,]]  [[G1231\|διαγνώσομαι]]  [[G3588\|τὰ]]  [[G2596\|καθ᾽]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LYSIAS|LYSIAS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WAY|WAY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.21|<< Acts 24:21]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.23|Acts 24:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

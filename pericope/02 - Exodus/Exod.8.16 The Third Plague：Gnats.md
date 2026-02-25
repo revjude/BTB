@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Third Plague：Gnats
+type: Pericope
 pericope: "[[Exod.8.16 The Third Plague：Gnats|The Third Plague：Gnats]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 8
 book/chapter: "[[Exod.8|Exodus 8]]"
-genre:
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 4
 verses:
 - "[[Exod.8.16]]"
 - "[[Exod.8.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Exod.8.19]]"
 ---
 
-[[Exod.8|Exodus 8:16 - Exodus 8:19]]
+<small>[[Exod.8|Exodus 8:16-19]]</small>
 *The Third Plague：Gnats*
 
 [[Exod.8.16|16]] And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.

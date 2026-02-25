@@ -1,10 +1,54 @@
+---
+title: Acts 7:18
+type: Verse
+kjv: "Till another king arose, which knew not Joseph."
+bsb: "Then another king, who knew nothing of Joseph, arose over Egypt."
+greek: "ἄχρι οὗ ἀνέστη βασιλεὺς ἕτερος ἐπ᾽ Αἴγυπτον ὃς οὐκ ᾔδει τὸν Ἰωσήφ."
+pericope: "[[Acts.7.15 Israel Oppressed in Egypt|Israel Oppressed in Egypt]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G0450]]"
+- "[[G0935]]"
+- "[[G2087]]"
+- "[[G1909]]"
+- "[[G0125]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G3588]]"
+- "[[G2501N]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 7:18**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Till another king arose, which knew not Joseph.
 <small><sub>**BSB:**</sub></small>
 Then another king, who knew nothing of Joseph, arose over Egypt.
-<small><sub>**Literal:**</sub></small>
-until that there arose king another over Egypt who not knew <the> Joseph.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.17|<< Acts 7:17]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.19|Acts 7:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0891\|ἄχρι]]  [[G3739\|οὗ]]  [[G0450\|ἀνέστη]]  [[G0935\|βασιλεὺς]]  [[G2087\|ἕτερος]]  [[G1909\|ἐπ᾽]]  [[G0125\|Αἴγυπτον]]  [[G3739\|ὃς]]  [[G3756\|οὐκ]]  [[G1492I\|ᾔδει]]  [[G3588\|τὸν]]  [[G2501N\|Ἰωσήφ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.17|<< Acts 7:17]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.19|Acts 7:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:18** is...
 > $\quad$ referencing: [[LXX.Exod.1.8|Exod 1:8]]

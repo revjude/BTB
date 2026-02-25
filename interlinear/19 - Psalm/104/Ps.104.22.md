@@ -1,8 +1,57 @@
+---
+title: Psalm 104:22
+type: Verse
+kjv: "The sun ariseth, they gather themselves together, and lay them down in their dens."
+bsb: "The sun rises, and they withdraw; they lie down in their dens."
+hebrew: "תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל־ מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2224]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H0622]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4585]]"
+- "[[H9028]]"
+- "[[H7257]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:22**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun ariseth, they gather themselves together, and lay them down in their dens.
 <small><sub>**BSB:**</sub></small>
 The sun rises, and they withdraw; they lie down in their dens.
+<small><sub>**Hebrew:**</sub></small>
+[[H2224\|תִּזְרַ֣ח]] [[H9009\|הַ֭]][[H8121\|שֶּׁמֶשׁ]] [[H0622\|יֵאָסֵפ֑וּ]][[H9013\|ן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4585\|מְ֝עוֹנֹתָ֗]][[H9028\|ם]] [[H7257\|יִרְבָּצֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.21|<< Psalms 104:21]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.23|Psalms 104:23 >>]]</td></tr></table>
 

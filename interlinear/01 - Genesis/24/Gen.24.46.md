@@ -1,8 +1,63 @@
+---
+title: Genesis 24:46
+type: Verse
+kjv: "And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also."
+bsb: "She quickly lowered her jar from her shoulder and said, ‘Drink, and I will water your camels as well.’ So I drank, and she also watered the camels."
+hebrew: "וַתְּמַהֵ֗ר וַתּ֤וֹרֶד כַּדָּהּ֙ מֵֽעָלֶ֔יהָ וַתֹּ֣אמֶר שְׁתֵ֔ה וְגַם־ גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה וָאֵ֕שְׁתְּ וְגַ֥ם הַגְּמַלִּ֖ים הִשְׁקָֽתָה׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H3381]]"
+- "[[H3537]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H8354]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1581]]"
+- "[[H9021]]"
+- "[[H8248G]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:46**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she made haste, and let down her pitcher from her [shoulder], and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.
 <small><sub>**BSB:**</sub></small>
 She quickly lowered her jar from her shoulder and said, ‘Drink, and I will water your camels as well.’ So I drank, and she also watered the camels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|תְּמַהֵ֗ר]] [[H9001\|וַ]][[H3381\|תּ֤וֹרֶד]] [[H3537\|כַּדָּ]][[H9024\|הּ֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H8354\|שְׁתֵ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1581\|גְּמַלֶּ֖י]][[H9021\|ךָ]] [[H8248G\|אַשְׁקֶ֑ה]] [[H9001\|וָ]][[H8354\|אֵ֕שְׁתְּ]] [[H9002\|וְ]][[H1571\|גַ֥ם]] [[H9009\|הַ]][[H1581\|גְּמַלִּ֖ים]] [[H8248G\|הִשְׁקָֽתָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.45|<< Genesis 24:45]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.47|Genesis 24:47 >>]]</td></tr></table>
 

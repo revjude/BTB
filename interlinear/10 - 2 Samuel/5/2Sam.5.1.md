@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 5:1
+type: Verse
+kjv: "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
+bsb: "Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood."
+hebrew: "וַיָּבֹ֜אוּ כָּל־ שִׁבְטֵ֧י יִשְׂרָאֵ֛ל אֶל־ דָּוִ֖ד חֶבְר֑וֹנָה וַיֹּאמְר֣וּ לֵאמֹ֔ר הִנְנ֛וּ עַצְמְךָ֥ וּֽבְשָׂרְךָ֖ אֲנָֽחְנוּ׃"
+pericope: "[[2Sam.5.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H2275A]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H2005]]"
+- "[[H9045]]"
+- "[[H6106G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H0587]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:1**<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we [are] thy bone and thy flesh.
 <small><sub>**BSB:**</sub></small>
 Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֧י]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H2275A\|חֶבְר֑וֹנָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2005\|הִנְ]][[H9045\|נ֛וּ]] [[H6106G\|עַצְמְ]][[H9021\|ךָ֥]] [[H9002\|וּֽ]][[H1320\|בְשָׂרְ]][[H9021\|ךָ֖]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HEBRON|HEBRON]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.12|<< 2 Samuel 4:12]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.2|2 Samuel 5:2 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: 1 Thessalonians 2:15
+type: Verse
+kjv: "Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
+bsb: "who killed both the Lord Jesus and their own prophets and drove us out as well. They are displeasing to God and hostile to all men,"
+greek: "τῶν καὶ τὸν κύριον ἀποκτεινάντων Ἰησοῦν καὶ τοὺς ἰδίους προφήτας καὶ ἡμᾶς ἐκδιωξάντων καὶ θεῷ μὴ ἀρεσκόντων καὶ πᾶσιν ἀνθρώποις ἐναντίων,"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G0615]]"
+- "[[G2424G]]"
+- "[[G2398]]"
+- "[[G4396]]"
+- "[[G3165]]"
+- "[[G1559]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G0700]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G1727]]"
+texts:
+- NKO
+- K
+- NK(O)
+---
+
 **1 Thessalonians 2:15**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:
 <small><sub>**BSB:**</sub></small>
 who killed both the Lord Jesus and their own prophets and drove us out as well. They are displeasing to God and hostile to all men,
-<small><sub>**Literal:**</sub></small>
-who both the Lord having killed Jesus and <the> [their] own prophets and us having driven out and God not pleasing and to all men opposed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.14|<< 1 Thessalonians 2:14]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.16|1 Thessalonians 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῶν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G0615\|ἀποκτεινάντων]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G2398\|ἰδίους]]  [[G4396\|προφήτας]]  [[G2532\|καὶ]]  [[G3165\|ἡμᾶς]]  [[G1559\|ἐκδιωξάντων]]  [[G2532\|καὶ]]  [[G2316\|θεῷ]]  [[G3361\|μὴ]]  [[G0700\|ἀρεσκόντων]]  [[G2532\|καὶ]]  [[G3956\|πᾶσιν]]  [[G0444\|ἀνθρώποις]]  [[G1727\|ἐναντίων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CHURCH|CHURCH]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.14|<< 1 Thessalonians 2:14]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.16|1 Thessalonians 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

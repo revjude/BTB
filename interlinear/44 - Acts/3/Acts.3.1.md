@@ -1,10 +1,57 @@
+---
+title: Acts 3:1
+type: Verse
+kjv: "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour."
+bsb: "One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour."
+greek: "Ἐπὶ τὸ αὐτὸ Πέτρος δὲ καὶ Ἰωάννης ἀνέβαινον εἰς τὸ ἱερὸν ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G4074G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G5610]]"
+- "[[G4335]]"
+- "[[G1766]]"
+texts:
+- k
+- NKO
+---
+
 **Acts 3:1**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Peter and John went up together into the temple at the hour of prayer, [being] the ninth [hour].
 <small><sub>**BSB:**</sub></small>
 One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.
-<small><sub>**Literal:**</sub></small>
-upon <the> it Peter now and John were going up into the temple at the hour <the> of prayer the ninth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.47|<< Acts 2:47]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.2|Acts 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|Ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G4074G\|Πέτρος]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννης]]  [[G0305\|ἀνέβαινον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G5610\|ὥραν]]  [[G3588\|τῆς]]  [[G4335\|προσευχῆς]]  [[G3588\|τὴν]]  [[G1766\|ἐνάτην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAILY OFFERING|DAILY OFFERING]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.47|<< Acts 2:47]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.2|Acts 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

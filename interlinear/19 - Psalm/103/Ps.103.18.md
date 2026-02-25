@@ -1,8 +1,55 @@
+---
+title: Psalm 103:18
+type: Verse
+kjv: "To such as keep his covenant, and to those that remember his commandments to do them."
+bsb: "to those who keep His covenant and remember to obey His precepts."
+hebrew: "לְשֹׁמְרֵ֥י בְרִית֑וֹ וּלְזֹכְרֵ֥י פִ֝קֻּדָ֗יו לַעֲשׂוֹתָֽם׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2142]]"
+- "[[H6490]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:18**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To such as keep his covenant, and to those that remember his commandments to do them.
 <small><sub>**BSB:**</sub></small>
 to those who keep His covenant and remember to obey His precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H8104G\|שֹׁמְרֵ֥י]] [[H1285\|בְרִית֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H2142\|זֹכְרֵ֥י]] [[H6490\|פִ֝קֻּדָ֗י]][[H9023\|ו]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.17|<< Psalms 103:17]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.19|Psalms 103:19 >>]]</td></tr></table>
 

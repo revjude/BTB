@@ -1,8 +1,75 @@
+---
+title: Genesis 26:3
+type: Verse
+kjv: "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
+bsb: "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham."
+hebrew: "גּ֚וּר בָּאָ֣רֶץ הַזֹּ֔את וְאֶֽהְיֶ֥ה עִמְּךָ֖ וַאֲבָרְכֶ֑ךָּ כִּֽי־ לְךָ֣ וּֽלְזַרְעֲךָ֗ אֶתֵּן֙ אֶת־ כָּל־ הָֽאֲרָצֹ֣ת הָאֵ֔ל וַהֲקִֽמֹתִי֙ אֶת־ הַשְּׁבֻעָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לְאַבְרָהָ֥ם אָבִֽיךָ׃"
+pericope: "[[Gen.26.1 God’s Promise to Isaac|God’s Promise to Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H1288]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0411]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H7621]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0085]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:3**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;
 <small><sub>**BSB:**</sub></small>
 Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham.
+<small><sub>**Hebrew:**</sub></small>
+[[H1481A\|גּ֚וּר]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H1961\|אֶֽהְיֶ֥ה]] [[H5973A\|עִמְּ]][[H9031\|ךָ֖]] [[H9002\|וַ]][[H1288\|אֲבָרְכֶ֑]][[H9031\|ךָּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֗]] [[H5414G\|אֶתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָֽ]][[H0776G\|אֲרָצֹ֣ת]] [[H9009\|הָ]][[H0411\|אֵ֔ל]] [[H9001\|וַ]][[H6965I\|הֲקִֽמֹתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7621\|שְּׁבֻעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖עְתִּי]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H0001G\|אָבִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.2|<< Genesis 26:2]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.4|Genesis 26:4 >>]]</td></tr></table>
 

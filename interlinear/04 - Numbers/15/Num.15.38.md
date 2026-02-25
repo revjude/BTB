@@ -1,8 +1,70 @@
+---
+title: Numbers 15:38
+type: Verse
+kjv: "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:"
+bsb: "“Speak to the Israelites and tell them that throughout the generations to come they are to make for themselves tassels for the corners of their garments, with a blue cord on each tassel."
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־ כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹרֹתָ֑ם וְנָֽתְנ֛וּ עַל־ צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת׃"
+pericope: "[[Num.15.37 The Law of Tassels|The Law of Tassels]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic FRINGES|FRINGES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIBBAND|RIBBAND]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H6734]]"
+- "[[H5921A]]"
+- "[[H3671]]"
+- "[[H0899B]]"
+- "[[H9028]]"
+- "[[H1755]]"
+- "[[H5414H]]"
+- "[[H9009]]"
+- "[[H6616]]"
+- "[[H8504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:38**<big><big>[[Num.15.37 The Law of Tassels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them that throughout the generations to come they are to make for themselves tassels for the corners of their garments, with a blue cord on each tassel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H6213H\|עָשׂ֨וּ]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H6734\|צִיצִ֛ת]] [[H5921A\|עַל]][[H9014\|־]] [[H3671\|כַּנְפֵ֥י]] [[H0899B\|בִגְדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H1755\|דֹרֹתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5414H\|נָֽתְנ֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6734\|צִיצִ֥ת]] [[H9009\|הַ]][[H3671\|כָּנָ֖ף]] [[H6616\|פְּתִ֥יל]] [[H8504\|תְּכֵֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic FRINGES|FRINGES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIBBAND|RIBBAND]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.37|<< Numbers 15:37]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.39|Numbers 15:39 >>]]</td></tr></table>
 

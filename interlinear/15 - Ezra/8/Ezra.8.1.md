@@ -1,8 +1,59 @@
+---
+title: Ezra 8:1
+type: Verse
+kjv: "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."
+bsb: "These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes:"
+hebrew: "וְאֵ֛לֶּה רָאשֵׁ֥י אֲבֹתֵיהֶ֖ם וְהִתְיַחְשָׂ֑ם הָעֹלִ֣ים עִמִּ֗י בְּמַלְכ֛וּת אַרְתַּחְשַׁ֥סְתְּא הַמֶּ֖לֶךְ מִבָּבֶֽל׃ ס"
+pericope: "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3187]]"
+- "[[H9048]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4438]]"
+- "[[H0783A]]"
+- "[[H4428G]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 8:1**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] now the chief of their fathers, and [this is] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
 <small><sub>**BSB:**</sub></small>
 These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H7218H\|רָאשֵׁ֥י]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H3187\|הִתְיַחְשָׂ֑]][[H9048\|ם]] [[H9009\|הָ]][[H5927G\|עֹלִ֣ים]] [[H5973A\|עִמִּ֗]][[H9030\|י]] [[H9003\|בְּ]][[H4438\|מַלְכ֛וּת]] [[H0783A\|אַרְתַּחְשַׁ֥סְתְּא]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9006\|מִ]][[H0894\|בָּבֶֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.28|<< Ezra 7:28]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.2|Ezra 8:2 >>]]</td></tr></table>
 
@@ -17,7 +68,7 @@ These are the family heads and genealogical records of those who returned with m
 | in [the] reign of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4438\|מַלְכ֛וּת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Artaxerxes  |**<big>&#8207;[[H0783A\|אַרְתַּחְשַׁ֥סְתְּא]]&#8207; </big>**| 'ar.tach.Shast'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Babylon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0894\|בָּבֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Babylon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0894\|בָּבֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.28|<< Ezra 7:28]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.2|Ezra 8:2 >>]]</td></tr></table>
 
 

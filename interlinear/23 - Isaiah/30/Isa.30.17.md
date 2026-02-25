@@ -1,8 +1,68 @@
+---
+title: Isaiah 30:17
+type: Verse
+kjv: "One thousand shall flee at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill."
+bsb: "A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill."
+hebrew: "אֶ֣לֶף אֶחָ֗ד מִפְּנֵי֙ גַּעֲרַ֣ת אֶחָ֔ד מִפְּנֵ֛י גַּעֲרַ֥ת חֲמִשָּׁ֖ה תָּנֻ֑סוּ עַ֣ד אִם־ נוֹתַרְתֶּ֗ם כַּתֹּ֙רֶן֙ עַל־ רֹ֣אשׁ הָהָ֔ר וְכַנֵּ֖ס עַל־ הַגִּבְעָֽה׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BEACON|BEACON]]"
+- "[[topic ENSIGN|ENSIGN]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0505G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1606]]"
+- "[[H2568]]"
+- "[[H5127]]"
+- "[[H5704]]"
+- "[[H0518J]]"
+- "[[H9014]]"
+- "[[H3498]]"
+- "[[H9004]]"
+- "[[H8650]]"
+- "[[H5921A]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H5251H]]"
+- "[[H1389I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:17**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One thousand [shall flee] at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.
 <small><sub>**BSB:**</sub></small>
 A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill.
+<small><sub>**Hebrew:**</sub></small>
+[[H0505G\|אֶ֣לֶף]] [[H0259\|אֶחָ֗ד]] [[H9006\|מִ]][[H6440I\|פְּנֵי֙]] [[H1606\|גַּעֲרַ֣ת]] [[H0259\|אֶחָ֔ד]] [[H9006\|מִ]][[H6440I\|פְּנֵ֛י]] [[H1606\|גַּעֲרַ֥ת]] [[H2568\|חֲמִשָּׁ֖ה]] [[H5127\|תָּנֻ֑סוּ]] [[H5704\|עַ֣ד]] [[H0518J\|אִם]][[H9014\|־]] [[H3498\|נוֹתַרְתֶּ֗ם]] [[H9004\|כַּ]][[H8650\|תֹּ֙רֶן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H9009\|הָ]][[H2022G\|הָ֔ר]] [[H9002\|וְ]][[H9004\|כַ]][[H5251H\|נֵּ֖ס]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גִּבְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BEACON|BEACON]] • [[topic ENSIGN|ENSIGN]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.16|<< Isaiah 30:16]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.18|Isaiah 30:18 >>]]</td></tr></table>
 

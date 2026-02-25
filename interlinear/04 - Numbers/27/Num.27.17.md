@@ -1,8 +1,66 @@
+---
+title: Numbers 27:17
+type: Verse
+kjv: "Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd."
+bsb: "who will go out and come in before them, and who will lead them out and bring them in, so that the congregation of the LORD will not be like sheep without a shepherd.”"
+hebrew: "אֲשֶׁר־ יֵצֵ֣א לִפְנֵיהֶ֗ם וַאֲשֶׁ֤ר יָבֹא֙ לִפְנֵיהֶ֔ם וַאֲשֶׁ֥ר יוֹצִיאֵ֖ם וַאֲשֶׁ֣ר יְבִיאֵ֑ם וְלֹ֤א תִהְיֶה֙ עֲדַ֣ת יְהוָ֔ה כַּצֹּ֕אן אֲשֶׁ֥ר אֵין־ לָהֶ֖ם רֹעֶֽה׃"
+pericope: "[[Num.27.12 Moses Requests a Successor|Moses Requests a Successor]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H0935P]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5712]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H0369]]"
+- "[[H7462B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:17**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd.
 <small><sub>**BSB:**</sub></small>
 who will go out and come in before them, and who will lead them out and bring them in, so that the congregation of the LORD will not be like sheep without a shepherd.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יֵצֵ֣א]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֗ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H0935G\|יָבֹא֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H3318H\|יוֹצִיאֵ֖]][[H9038\|ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H0935P\|יְבִיאֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H1961\|תִהְיֶה֙]] [[H5712\|עֲדַ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כַּ]][[H6629G\|צֹּ֕אן]] [[H0834A\|אֲשֶׁ֥ר]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H7462B\|רֹעֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.16|<< Numbers 27:16]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.18|Numbers 27:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

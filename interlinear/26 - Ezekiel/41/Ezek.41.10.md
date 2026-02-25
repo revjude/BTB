@@ -1,8 +1,52 @@
+---
+title: Ezekiel 41:10
+type: Verse
+kjv: "And between the chambers was the wideness of twenty cubits round about the house on every side."
+bsb: "and the outer chambers was twenty cubits wide all around the temple."
+hebrew: "וּבֵ֨ין הַלְּשָׁכ֜וֹת רֹ֣חַב עֶשְׂרִ֥ים אַמָּ֛ה סָבִ֥יב לַבַּ֖יִת סָבִ֥יב׀ סָבִֽיב׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H7341]]"
+- "[[H6242]]"
+- "[[H0520A]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9015]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:10**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And between the chambers [was] the wideness of twenty cubits round about the house on every side.
 <small><sub>**BSB:**</sub></small>
 and the outer chambers was twenty cubits wide all around the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H0996G\|בֵ֨ין]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֜וֹת]] [[H7341\|רֹ֣חַב]] [[H6242\|עֶשְׂרִ֥ים]] [[H0520A\|אַמָּ֛ה]] [[H5439G\|סָבִ֥יב]] [[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H5439G\|סָבִ֥יב]][[H9015\|׀]] [[H5439H\|סָבִֽיב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.9|<< Ezekiel 41:9]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.11|Ezekiel 41:11 >>]]</td></tr></table>
 

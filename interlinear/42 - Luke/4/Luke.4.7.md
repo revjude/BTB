@@ -1,10 +1,55 @@
+---
+title: Luke 4:7
+type: Verse
+kjv: "If thou therefore wilt worship me, all shall be thine."
+bsb: "So if You worship me, it will all be Yours.”"
+greek: "σὺ οὖν ἐὰν προσκυνήσῃς ἐνώπιον ἐμοῦ ἔσται σοῦ πᾶσα."
+pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G1437]]"
+- "[[G4352]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:7**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If thou therefore wilt worship me, all shall be thine.
 <small><sub>**BSB:**</sub></small>
 So if You worship me, it will all be Yours.”
-<small><sub>**Literal:**</sub></small>
-You yourself therefore if You shall worship before me will be Yours everything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.6|<< Luke 4:6]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.8|Luke 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G3767\|οὖν]]  [[G1437\|ἐὰν]]  [[G4352\|προσκυνήσῃς]]  [[G1799\|ἐνώπιον]]  [[G1473\|ἐμοῦ]]  [[G1510\|ἔσται]]  [[G4771\|σοῦ]]  [[G3956\|πᾶσα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic DEMONS|DEMONS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.6|<< Luke 4:6]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.8|Luke 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 26:16
+type: Verse
+kjv: "To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward."
+bsb: "The lots for the West Gate and the Shallecheth Gate on the ascending highway fell to Shuppim and Hosah. There were guards stationed at every watch."
+hebrew: "לְשֻׁפִּ֤ים וּלְחֹסָה֙ לַֽמַּעֲרָ֔ב עִ֚ם שַׁ֣עַר שַׁלֶּ֔כֶת בַּֽמְסִלָּ֖ה הָעוֹלָ֑ה מִשְׁמָ֖ר לְעֻמַּ֥ת מִשְׁמָֽר׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic SHALLECHETH|SHALLECHETH]]"
+- "[[topic SHUPPIM|SHUPPIM]]"
+strongs:
+- "[[H9005]]"
+- "[[H8206H]]"
+- "[[H9002]]"
+- "[[H2621H]]"
+- "[[H4628]]"
+- "[[H5973A]]"
+- "[[H8179G]]"
+- "[[H7996]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H4929]]"
+- "[[H5980]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:16**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To Shuppim and Hosah [the lot came forth] westward, with the gate Shallecheth, by the causeway of the going up, ward against ward.
 <small><sub>**BSB:**</sub></small>
 The lots for the West Gate and the Shallecheth Gate on the ascending highway fell to Shuppim and Hosah. There were guards stationed at every watch.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H8206H\|שֻׁפִּ֤ים]] [[H9002\|וּ]][[H9005\|לְ]][[H2621H\|חֹסָה֙]] [[H9005\|לַֽ]][[H4628\|מַּעֲרָ֔ב]] [[H5973A\|עִ֚ם]] [[H8179G\|שַׁ֣עַר]] [[H7996\|שַׁלֶּ֔כֶת]] [[H9003\|בַּֽ]][[H4546\|מְסִלָּ֖ה]] [[H9009\|הָ]][[H5927G\|עוֹלָ֑ה]] [[H4929\|מִשְׁמָ֖ר]] [[H9005\|לְ]][[H5980\|עֻמַּ֥ת]] [[H4929\|מִשְׁמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PORTERS|PORTERS]] • [[topic SHALLECHETH|SHALLECHETH]] • [[topic SHUPPIM|SHUPPIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.15|<< 1 Chronicles 26:15]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.17|1 Chronicles 26:17 >>]]</td></tr></table>
 

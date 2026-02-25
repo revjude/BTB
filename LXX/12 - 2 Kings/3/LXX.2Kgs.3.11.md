@@ -1,6 +1,76 @@
+---
+title: LXX 2 Kings 3:11
+type: Verse
+lxx: "And Jehoshaphat said to him, Is there not here a prophet of the lord, that we should seek anxiously the lord by him? And answered one of the servants of the king of Israel, and said, Elisha son of Shaphat is here, who poured water upon the hands of Elijah."
+greek: "και είπεν Ιωσαφάτ προς αυτόν ουκ έστιν ώδε προφήτης του κυρίου και επιζητήσωμεν τον κύριον παρ΄ αυτού και απεκρίθη εις των παίδων του βασιλέως Ισραήλ και είπεν ώδε Ελισεαί υιός Σαφάτ ος επέχεεν ύδωρ επί χείρας Ηλίου"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHAPHAT|SHAPHAT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2498]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5602]]"
+- "[[G4396]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1934]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3844]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G5602]]"
+- "[[G1666]]"
+- "[[G5207]]"
+- "[[H8202]]"
+- "[[G3739]]"
+- "[[G2022]]"
+- "[[G5204]]"
+- "[[G1909]]"
+- "[[G5495]]"
+- "[[G2243]]"
+---
+
 **LXX 2 Kings 3:11** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat said to him, Is there not here a prophet of the <span class="smallcaps">lord</span>, that we should seek anxiously the <span class="smallcaps">lord</span> by him? And answered one of the servants of the king of Israel, and said, Elisha son of Shaphat \[is\] here, who poured water upon \[the\] hands of Elijah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G2498\|Ιωσαφάτ]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G5602\|ώδε]] [[G4396\|προφήτης]] [[G3588\|του]] [[G2962\|κυρίου]] [[G2532\|και]] [[G1934\|επιζητήσωμεν]] [[G3588\|τον]] [[G2962\|κύριον]] [[G3844\|παρ΄]] [[G1473\|αυτού]] [[G2532\|και]] [[G0611\|απεκρίθη]] [[G1520\|εις]] [[G3588\|των]] [[G3816\|παίδων]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G2036\|είπεν]] [[G5602\|ώδε]] [[G1666\|Ελισεαί]] [[G5207\|υιός]] [[H8202\|Σαφάτ]] [[G3739\|ος]] [[G2022\|επέχεεν]] [[G5204\|ύδωρ]] [[G1909\|επί]] [[G5495\|χείρας]] [[G2243\|Ηλίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELISHA|ELISHA]] • [[topic MOABITES|MOABITES]] • [[topic PROPHETS|PROPHETS]] • [[topic SHAPHAT|SHAPHAT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 
@@ -41,6 +111,6 @@ And Jehoshaphat said to him, Is there not here a prophet of the <span class="sma
 | upon | **<big>[[G1909\|επί]]</big>** |
 | \[the\] hands | **<big>[[G5495\|χείρας]]</big>** |
 | of Elijah. | **<big>[[G2243\|Ηλίου]]</big>** |
-[[2Kgs.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 
 

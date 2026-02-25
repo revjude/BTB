@@ -1,8 +1,63 @@
+---
+title: Ezekiel 37:26
+type: Verse
+kjv: "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore."
+bsb: "And I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and multiply them, and I will set My sanctuary among them forever."
+hebrew: "וְכָרַתִּ֤י לָהֶם֙ בְּרִ֣ית שָׁל֔וֹם בְּרִ֥ית עוֹלָ֖ם יִהְיֶ֣ה אוֹתָ֑ם וּנְתַתִּים֙ וְהִרְבֵּיתִ֣י אוֹתָ֔ם וְנָתַתִּ֧י אֶת־ מִקְדָּשִׁ֛י בְּתוֹכָ֖ם לְעוֹלָֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H7965G]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H5414H]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:26**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.
 <small><sub>**BSB:**</sub></small>
 And I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and multiply them, and I will set My sanctuary among them forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772H\|כָרַתִּ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1285\|בְּרִ֣ית]] [[H7965G\|שָׁל֔וֹם]] [[H1285\|בְּרִ֥ית]] [[H5769G\|עוֹלָ֖ם]] [[H1961\|יִהְיֶ֣ה]] [[H0854\|אוֹתָ֑]][[H9038\|ם]] [[H9001\|וּ]][[H5414H\|נְתַתִּי]][[H9038\|ם֙]] [[H9001\|וְ]][[H7235A\|הִרְבֵּיתִ֣י]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ֛]][[H9020\|י]] [[H9003\|בְּ]][[H8432\|תוֹכָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.25|<< Ezekiel 37:25]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.27|Ezekiel 37:27 >>]]</td></tr></table>
 

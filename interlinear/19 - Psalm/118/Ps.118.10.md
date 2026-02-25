@@ -1,8 +1,55 @@
+---
+title: Psalm 118:10
+type: Verse
+kjv: "All nations compassed me about: but in the name of the LORD will I destroy them."
+bsb: "All the nations surrounded me, but in the name of the LORD I cut them off."
+hebrew: "כָּל־ גּוֹיִ֥ם סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H4135A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:10**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All nations compassed me about: but in the name of the LORD will I destroy them.
 <small><sub>**BSB:**</sub></small>
 All the nations surrounded me, but in the name of the LORD I cut them off.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H1471A\|גּוֹיִ֥ם]] [[H5437H\|סְבָב֑וּ]][[H9030\|נִי]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְ֝הוָ֗ה]] [[H3588A\|כִּ֣י]] [[H4135A\|אֲמִילַֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.9|<< Psalms 118:9]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.11|Psalms 118:11 >>]]</td></tr></table>
 

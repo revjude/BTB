@@ -1,8 +1,59 @@
+---
+title: 1 Kings 14:16
+type: Verse
+kjv: "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin."
+bsb: "So He will give Israel over on account of the sins Jeroboam has committed and has caused Israel to commit.”"
+hebrew: "וְיִתֵּ֖ן אֶת־ יִשְׂרָאֵ֑ל בִּגְלַ֞ל חַטֹּ֤אות יָֽרָבְעָם֙ אֲשֶׁ֣ר חָטָ֔א וַאֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H1558]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:16**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 So He will give Israel over on account of the sins Jeroboam has committed and has caused Israel to commit.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|יִתֵּ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בִּ]][[H1558\|גְלַ֞ל]] [[H2403B\|חַטֹּ֤אות]] [[H3379G\|יָֽרָבְעָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֔א]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.15|<< 1 Kings 14:15]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.17|1 Kings 14:17 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 82:5
+type: Verse
+kjv: "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+bsb: "They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken."
+hebrew: "לֹ֤א יָֽדְע֨וּ׀ וְלֹ֥א יָבִ֗ינוּ בַּחֲשֵׁכָ֥ה יִתְהַלָּ֑כוּ יִ֝מּ֗וֹטוּ כָּל־ מ֥וֹסְדֵי אָֽרֶץ׃"
+pericope: "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 82
+book/chapter: "[[Ps.82|Psalm 82]]"
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H9003]]"
+- "[[H2825]]"
+- "[[H1980I]]"
+- "[[H4131]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4144]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 82:5**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 <small><sub>**BSB:**</sub></small>
 They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H3045\|יָֽדְע֨וּ]][[H9015\|׀]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0995\|יָבִ֗ינוּ]] [[H9003\|בַּ]][[H2825\|חֲשֵׁכָ֥ה]] [[H1980I\|יִתְהַלָּ֑כוּ]] [[H4131\|יִ֝מּ֗וֹטוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H4144\|מ֥וֹסְדֵי]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.4|<< Psalms 82:4]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.6|Psalms 82:6 >>]]</td></tr></table>
 

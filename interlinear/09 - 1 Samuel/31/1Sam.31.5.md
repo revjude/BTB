@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 31:5
+type: Verse
+kjv: "And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him."
+bsb: "When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him."
+hebrew: "וַיַּ֥רְא נֹשֵֽׂא־ כֵלָ֖יו כִּ֣י מֵ֣ת שָׁא֑וּל וַיִּפֹּ֥ל גַּם־ ה֛וּא עַל־ חַרְבּ֖וֹ וַיָּ֥מָת עִמּֽוֹ׃"
+pericope: "[[1Sam.31.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GILBOA|GILBOA]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic SUICIDE|SUICIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H5375W]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H5307G]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H2719]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:5**<big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
 <small><sub>**BSB:**</sub></small>
 When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H5375W\|נֹשֵֽׂא]][[H9014\|־]] [[H3627\|כֵלָ֖י]][[H9023\|ו]] [[H3588A\|כִּ֣י]] [[H4191\|מֵ֣ת]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֛וּא]] [[H5921A\|עַל]][[H9014\|־]] [[H2719\|חַרְבּ֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GILBOA|GILBOA]] • [[topic JEZREEL|JEZREEL]] • [[topic SUICIDE|SUICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.4|<< 1 Samuel 31:4]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.6|1 Samuel 31:6 >>]]</td></tr></table>
 

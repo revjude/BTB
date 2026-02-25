@@ -1,8 +1,68 @@
+---
+title: Jeremiah 32:31
+type: Verse
+kjv: "For this city hath been to me as a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,"
+bsb: "For this city has aroused My wrath and fury from the day it was built until now. Therefore I will remove it from My presence"
+hebrew: "כִּ֧י עַל־ אַפִּ֣י וְעַל־ חֲמָתִ֗י הָ֤יְתָה לִּי֙ הָעִ֣יר הַזֹּ֔את לְמִן־ הַיּוֹם֙ אֲשֶׁ֣ר בָּנ֣וּ אוֹתָ֔הּ וְעַ֖ד הַיּ֣וֹם הַזֶּ֑ה לַהֲסִירָ֖הּ מֵעַ֥ל פָּנָֽי׃"
+pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H4480A]]"
+- "[[H3117L]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:31**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this city hath been to me [as] a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,
 <small><sub>**BSB:**</sub></small>
 For this city has aroused My wrath and fury from the day it was built until now. Therefore I will remove it from My presence
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֧י]] [[H5921A\|עַל]][[H9014\|־]] [[H0639G\|אַפִּ֣]][[H9020\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2534\|חֲמָתִ֗]][[H9020\|י]] [[H1961\|הָ֤יְתָה]] [[H9005\|לִּ]][[H9030\|י֙]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|בָּנ֣וּ]] [[H0853\|אוֹתָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9005\|לַ]][[H5493G\|הֲסִירָ֖]][[H9034\|הּ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H6440H\|פָּנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.30|<< Jeremiah 32:30]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.32|Jeremiah 32:32 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 22:5
+type: Verse
+kjv: "He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram."
+bsb: "Ahaziah also followed their counsel and went with Joram son of Ahab king of Israel to fight against Hazael king of Aram at Ramoth-gilead. But the Arameans wounded Joram."
+hebrew: "גַּ֣ם בַּעֲצָתָם֮ הָלַךְ֒ וַיֵּלֶךְ֩ אֶת־ יְהוֹרָ֨ם בֶּן־ אַחְאָ֜ב מֶ֣לֶךְ יִשְׂרָאֵ֗ל לַמִּלְחָמָ֛ה עַל־ חֲזָאֵ֥ל מֶֽלֶךְ־ אֲרָ֖ם בְּרָמ֣וֹת גִּלְעָ֑ד וַיַּכּ֥וּ הָֽרַמִּ֖ים אֶת־ יוֹרָֽם׃"
+pericope: "[[2Chr.22.1 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H6098]]"
+- "[[H9028]]"
+- "[[H1980N]]"
+- "[[H9001]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3088I]]"
+- "[[H1121A]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H2371]]"
+- "[[H0758I]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H7421]]"
+- "[[H0853]]"
+- "[[H3141H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 22:5**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram.
 <small><sub>**BSB:**</sub></small>
 Ahaziah also followed their counsel and went with Joram son of Ahab king of Israel to fight against Hazael king of Aram at Ramoth-gilead. But the Arameans wounded Joram.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H9003\|בַּ]][[H6098\|עֲצָתָ]][[H9028\|ם֮]] [[H1980N\|הָלַךְ֒]] [[H9001\|וַ]][[H1980N\|יֵּלֶךְ֩]] [[H0854\|אֶת]][[H9014\|־]] [[H3088I\|יְהוֹרָ֨ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0256G\|אַחְאָ֜ב]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H2371\|חֲזָאֵ֥ל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H9003\|בְּ]][[H7418G\|רָמ֣וֹת]] [[H1568M\|גִּלְעָ֑ד]] [[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H9009\|הָֽ]][[H7421\|רַמִּ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3141H\|יוֹרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HAZAEL|HAZAEL]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JORAM|JORAM]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.4|<< 2 Chronicles 22:4]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.6|2 Chronicles 22:6 >>]]</td></tr></table>
 

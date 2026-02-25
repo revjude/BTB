@@ -1,8 +1,60 @@
+---
+title: Isaiah 7:21
+type: Verse
+kjv: "And it shall come to pass in that day, that a man shall nourish a young cow, and two sheep;"
+bsb: "On that day a man will raise a young cow and two sheep,"
+hebrew: "וְהָיָ֖ה בַּיּ֣וֹם הַה֑וּא יְחַיֶּה־ אִ֛ישׁ עֶגְלַ֥ת בָּקָ֖ר וּשְׁתֵּי־ צֹֽאן׃"
+pericope: "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2421]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H5697A]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:21**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] a man shall nourish a young cow, and two sheep;
 <small><sub>**BSB:**</sub></small>
 On that day a man will raise a young cow and two sheep,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H2421\|יְחַיֶּה]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H5697A\|עֶגְלַ֥ת]] [[H1241\|בָּקָ֖ר]] [[H9002\|וּ]][[H8147\|שְׁתֵּי]][[H9014\|־]] [[H6629G\|צֹֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.20|<< Isaiah 7:20]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.22|Isaiah 7:22 >>]]</td></tr></table>
 

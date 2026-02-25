@@ -1,10 +1,50 @@
+---
+title: Galatians 2:19
+type: Verse
+kjv: "For I through the law am dead to the law, that I might live unto God."
+bsb: "For through the law I died to the law so that I might live to God."
+greek: "ἐγὼ γὰρ διὰ νόμου νόμῳ ἀπέθανον, ἵνα θεῷ ζήσω. Χριστῷ συνεσταύρωμαι·"
+pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G1223]]"
+- "[[G3551]]"
+- "[[G0599]]"
+- "[[G2443]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G5547]]"
+- "[[G4957]]"
+texts:
+- NKO
+---
+
 **Galatians 2:19**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I through the law am dead to the law, that I might live unto God.
 <small><sub>**BSB:**</sub></small>
 For through the law I died to the law so that I might live to God.
-<small><sub>**Literal:**</sub></small>
-I myself for through [the] Law to [the] Law died, that to God I may live. [20] to Christ I have been crucified with;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.18|<< Galatians 2:18]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.20|Galatians 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1063\|γὰρ]]  [[G1223\|διὰ]]  [[G3551\|νόμου]]  [[G3551\|νόμῳ]]  [[G0599\|ἀπέθανον,]]  [[G2443\|ἵνα]]  [[G2316\|θεῷ]]  [[G2198\|ζήσω.]]  [[G5547\|Χριστῷ]]  [[G4957\|συνεσταύρωμαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTIFICATION|JUSTIFICATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.18|<< Galatians 2:18]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.20|Galatians 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

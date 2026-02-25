@@ -1,10 +1,64 @@
+---
+title: Luke 9:38
+type: Verse
+kjv: "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
+bsb: "Suddenly a man in the crowd cried out, “Teacher, I beg You to look at my son, for he is my only child."
+greek: "καὶ ἰδοὺ ἀνὴρ ἀπὸ τοῦ ὄχλου ἐβόησεν λέγων· διδάσκαλε, δέομαί σου ἐπιβλέψαι ἐπὶ τὸν υἱόν μου ὅτι μονογενής μοί ἐστιν·"
+pericope: "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0994]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G1189]]"
+- "[[G4771]]"
+- "[[G1914]]"
+- "[[G1909]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G3439]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:38**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child.
 <small><sub>**BSB:**</sub></small>
 Suddenly a man in the crowd cried out, “Teacher, I beg You to look at my son, for he is my only child.
-<small><sub>**Literal:**</sub></small>
-And behold a man from the crowd cried saying; Teacher, I implore You to look upon the son of mine for an only child to me he is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.37|<< Luke 9:37]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.39|Luke 9:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἀνὴρ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G0994\|ἐβόησεν]]  [[G3004G\|λέγων·]]  [[G1320\|διδάσκαλε,]]  [[G1189\|δέομαί]]  [[G4771\|σου]]  [[G1914\|ἐπιβλέψαι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5207\|υἱόν]]  [[G3165\|μου]]  [[G3754H\|ὅτι]]  [[G3439\|μονογενής]]  [[G3165\|μοί]]  [[G1510\|ἐστιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.37|<< Luke 9:37]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.39|Luke 9:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

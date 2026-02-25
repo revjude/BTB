@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Property Laws
+type: Pericope
 pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 22
 book/chapter: "[[Exod.22|Exodus 22]]"
-genre:
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.22.1]]"
 - "[[Exod.22.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.22.15]]"
 ---
 
-[[Exod.22|Exodus 22:1 - Exodus 22:15]]
+<small>[[Exod.22|Exodus 22:1-15]]</small>
 *Property Laws*
 
 [[Exod.22.1|1]] If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.

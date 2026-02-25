@@ -1,10 +1,58 @@
+---
+title: Revelation 17:9
+type: Verse
+kjv: "And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth."
+bsb: "This calls for a mind with wisdom. The seven heads are seven mountains on which the woman sits."
+greek: "ὧδε ὁ νοῦς ὁ ἔχων σοφίαν. αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη εἰσίν, ὅπου ἡ γυνὴ κάθηται ἐπ᾽ αὐτῶν. καὶ βασιλεῖς ἑπτά εἰσιν·"
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G5602]]"
+- "[[G3588]]"
+- "[[G3563]]"
+- "[[G2192]]"
+- "[[G4678]]"
+- "[[G2033]]"
+- "[[G2776]]"
+- "[[G3735]]"
+- "[[G1510]]"
+- "[[G3699]]"
+- "[[G1135G]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0935]]"
+texts:
+- NKO
+---
+
 **Revelation 17:9**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And here [is] the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
 <small><sub>**BSB:**</sub></small>
 This calls for a mind with wisdom. The seven heads are seven mountains on which the woman sits.
-<small><sub>**Literal:**</sub></small>
-Here [is] the mind which is having wisdom. The seven heads seven mountains are where the woman sits on them. [10] And kings seven there are:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.8|<< Revelation 17:8]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.10|Revelation 17:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5602\|ὧδε]]  [[G3588\|ὁ]]  [[G3563\|νοῦς]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G4678\|σοφίαν.]]  [[G3588\|αἱ]]  [[G2033\|ἑπτὰ]]  [[G2776\|κεφαλαὶ]]  [[G2033\|ἑπτὰ]]  [[G3735\|ὄρη]]  [[G1510\|εἰσίν,]]  [[G3699\|ὅπου]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G2521\|κάθηται]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῶν.]]  [[G2532\|καὶ]]  [[G0935\|βασιλεῖς]]  [[G2033\|ἑπτά]]  [[G1510\|εἰσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.8|<< Revelation 17:8]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.10|Revelation 17:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

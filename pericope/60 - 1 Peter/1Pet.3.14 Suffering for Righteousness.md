@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Suffering for Righteousness
+type: Pericope
 pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 3
 book/chapter: "[[1Pet.3|1 Peter 3]]"
-genre:
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 9
 verses:
 - "[[1Pet.3.14]]"
 - "[[1Pet.3.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Pet.3.22]]"
 ---
 
-[[1Pet.3|1 Peter 3:14 - 1 Peter 3:22]]
+<small>[[1Pet.3|1 Peter 3:14-22]]</small>
 *Suffering for Righteousness*
 
 [[1Pet.3.14|14]] But and if ye suffer for righteousness’ sake, happy \[are ye\]: and be not afraid of their terror, neither be troubled;

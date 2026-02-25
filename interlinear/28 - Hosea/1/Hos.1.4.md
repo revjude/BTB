@@ -1,8 +1,69 @@
+---
+title: Hosea 1:4
+type: Verse
+kjv: "And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel."
+bsb: "Then the LORD said to Hosea, “Name him Jezreel, for soon I will bring the bloodshed of Jezreel upon the house of Jehu, and I will put an end to the kingdom of Israel."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֵלָ֔יו קְרָ֥א שְׁמ֖וֹ יִזְרְעֶ֑אל כִּי־ ע֣וֹד מְעַ֗ט וּפָ֨קַדְתִּ֜י אֶת־ דְּמֵ֤י יִזְרְעֶאל֙ עַל־ בֵּ֣ית יֵה֔וּא וְהִ֨שְׁבַּתִּ֔י מַמְלְכ֖וּת בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NAME|NAME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3157K]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H4592]]"
+- "[[H6485H]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H3058H]]"
+- "[[H7673A]]"
+- "[[H4468]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 1:4**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, Call his name Jezreel; for yet a little [while], and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Hosea, “Name him Jezreel, for soon I will bring the bloodshed of Jezreel upon the house of Jehu, and I will put an end to the kingdom of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H7121H\|קְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3157K\|יִזְרְעֶ֑אל]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֣וֹד]] [[H4592\|מְעַ֗ט]] [[H9001\|וּ]][[H6485H\|פָ֨קַדְתִּ֜י]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דְּמֵ֤י]] [[H3157K\|יִזְרְעֶאל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3058H\|יֵה֔וּא]] [[H9001\|וְ]][[H7673A\|הִ֨שְׁבַּתִּ֔י]] [[H4468\|מַמְלְכ֖וּת]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic NAME|NAME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.3|<< Hosea 1:3]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.5|Hosea 1:5 >>]]</td></tr></table>
 

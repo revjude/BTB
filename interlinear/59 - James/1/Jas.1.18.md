@@ -1,10 +1,58 @@
+---
+title: James 1:18
+type: Verse
+kjv: "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+bsb: "He chose to give us birth through the word of truth, that we would be a kind of firstfruits of His creation."
+greek: "βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας, εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων.¶"
+pericope: "[[Jas.1.13 Good and Perfect Gifts|Good and Perfect Gifts]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1014]]"
+- "[[G0616]]"
+- "[[G3165]]"
+- "[[G3056]]"
+- "[[G0225]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G0536]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G2938]]"
+texts:
+- NKO
+---
+
 **James 1:18**<big><big>[[Jas.1.13 Good and Perfect Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
 <small><sub>**BSB:**</sub></small>
 He chose to give us birth through the word of truth, that we would be a kind of firstfruits of His creation.
-<small><sub>**Literal:**</sub></small>
-Having willed [it] He brought forth us by [the] word of truth, for <the> to be us firstfruits a certain <the> of His creatures.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.17|<< James 1:17]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.19|James 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1014\|βουληθεὶς]]  [[G0616\|ἀπεκύησεν]]  [[G3165\|ἡμᾶς]]  [[G3056\|λόγῳ]]  [[G0225\|ἀληθείας,]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1511\|εἶναι]]  [[G3165\|ἡμᾶς]]  [[G0536\|ἀπαρχήν]]  [[G5100\|τινα]]  [[G3588\|τῶν]]  [[G0846\|αὐτοῦ]]  [[G2938\|κτισμάτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REGENERATION|REGENERATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.17|<< James 1:17]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.19|James 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

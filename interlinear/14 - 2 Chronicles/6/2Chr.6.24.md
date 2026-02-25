@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 6:24
+type: Verse
+kjv: "And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;"
+bsb: "When Your people Israel are defeated before an enemy because they have sinned against You, and they return to You and confess Your name, praying and pleading before You in this temple,"
+hebrew: "וְֽאִם־ יִנָּגֵ֞ף עַמְּךָ֧ יִשְׂרָאֵ֛ל לִפְנֵ֥י אוֹיֵ֖ב כִּ֣י יֶֽחֶטְאוּ־ לָ֑ךְ וְשָׁ֙בוּ֙ וְהוֹד֣וּ אֶת־ שְׁמֶ֔ךָ וְהִתְפַּֽלְל֧וּ וְהִֽתְחַנְּנ֛וּ לְפָנֶ֖יךָ בַּבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5062]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H3034]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H6419]]"
+- "[[H2603A]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:24**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;
 <small><sub>**BSB:**</sub></small>
 When Your people Israel are defeated before an enemy because they have sinned against You, and they return to You and confess Your name, praying and pleading before You in this temple,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0518A\|אִם]][[H9014\|־]] [[H5062\|יִנָּגֵ֞ף]] [[H5971A\|עַמְּ]][[H9021\|ךָ֧]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0341\|אוֹיֵ֖ב]] [[H3588A\|כִּ֣י]] [[H2398\|יֶֽחֶטְאוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H7725O\|שָׁ֙בוּ֙]] [[H9001\|וְ]][[H3034\|הוֹד֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H6419\|הִתְפַּֽלְל֧וּ]] [[H9001\|וְ]][[H2603A\|הִֽתְחַנְּנ֛וּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.23|<< 2 Chronicles 6:23]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.25|2 Chronicles 6:25 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 10:44
+type: Verse
+kjv: "And whosoever of you will be the chiefest, shall be servant of all."
+bsb: "and whoever wants to be first must be the slave of all."
+jesus_said: "And whosoever of you will be the chiefest, shall be servant of all."
+greek: "καὶ ὃς ἂν θέλῃ ἐν ὑμῖν εἶναι πρῶτος, ἔσται πάντων δοῦλος."
+pericope: "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G2309]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1511]]"
+- "[[G4413G]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G1401]]"
+texts:
+- NKO
+- NK(o)
+- no
+- N(k)O
+---
+
 **Mark 10:44**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever of you will be the chiefest, shall be servant of all.
 <small><sub>**BSB:**</sub></small>
 and whoever wants to be first must be the slave of all.
-<small><sub>**Literal:**</sub></small>
-and who[ever] maybe shall desire among you to become first, will be of all slave.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.43|<< Mark 10:43]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.45|Mark 10:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G2309\|θέλῃ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1511\|εἶναι]]  [[G4413G\|πρῶτος,]]  [[G1510\|ἔσται]]  [[G3956\|πάντων]]  [[G1401\|δοῦλος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.43|<< Mark 10:43]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.45|Mark 10:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

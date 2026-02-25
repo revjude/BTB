@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fat and Blood Forbidden
+type: Pericope
 pericope: "[[Lev.7.22 Fat and Blood Forbidden|Fat and Blood Forbidden]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 7
 book/chapter: "[[Lev.7|Leviticus 7]]"
-genre:
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.7.22]]"
 - "[[Lev.7.23]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.7.27]]"
 ---
 
-[[Lev.7|Leviticus 7:22 - Leviticus 7:27]]
+<small>[[Lev.7|Leviticus 7:22-27]]</small>
 *Fat and Blood Forbidden*
 
 [[Lev.7.22|22]] And the LORD spake unto Moses, saying,

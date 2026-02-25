@@ -1,10 +1,58 @@
+---
+title: Luke 1:63
+type: Verse
+kjv: "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all."
+bsb: "Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed."
+greek: "καὶ αἰτήσας πινακίδιον ἔγραψεν λέγων· Ἰωάννης ἐστὶν τὸ ὄνομα αὐτοῦ. καὶ ἐθαύμασαν πάντες.¶"
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0154]]"
+- "[[G4093]]"
+- "[[G1125]]"
+- "[[G3004G]]"
+- "[[G2491G]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G2296]]"
+- "[[G3956]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 1:63**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 <small><sub>**BSB:**</sub></small>
 Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed.
-<small><sub>**Literal:**</sub></small>
-And having asked for a writing tablet he wrote saying; John is the name of him. And they marveled all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.62|<< Luke 1:62]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.64|Luke 1:64 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0154\|αἰτήσας]]  [[G4093\|πινακίδιον]]  [[G1125\|ἔγραψεν]]  [[G3004G\|λέγων·]]  [[G2491G\|Ἰωάννης]]  [[G1510\|ἐστὶν]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G2296\|ἐθαύμασαν]]  [[G3956\|πάντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABLE|TABLE]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.62|<< Luke 1:62]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.64|Luke 1:64 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

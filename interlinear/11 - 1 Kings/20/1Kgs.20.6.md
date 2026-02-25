@@ -1,8 +1,70 @@
+---
+title: 1 Kings 20:6
+type: Verse
+kjv: "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away."
+bsb: "But about this time tomorrow I will send my servants to search your palace and the houses of your servants. They will seize and carry away all that is precious to you.’”"
+hebrew: "כִּ֣י׀ אִם־ כָּעֵ֣ת מָחָ֗ר אֶשְׁלַ֤ח אֶת־ עֲבָדַי֙ אֵלֶ֔יךָ וְחִפְּשׂוּ֙ אֶת־ בֵּ֣יתְךָ֔ וְאֵ֖ת בָּתֵּ֣י עֲבָדֶ֑יךָ וְהָיָה֙ כָּל־ מַחְמַ֣ד עֵינֶ֔יךָ יָשִׂ֥ימוּ בְיָדָ֖ם וְלָקָֽחוּ׃"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H4279]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H2664]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H4261]]"
+- "[[H5869I]]"
+- "[[H7760I]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9028]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:6**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, [that] whatsoever is pleasant in thine eyes, they shall put [it] in their hand, and take [it] away.
 <small><sub>**BSB:**</sub></small>
 But about this time tomorrow I will send my servants to search your palace and the houses of your servants. They will seize and carry away all that is precious to you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0518B\|אִם]][[H9014\|־]] [[H9004\|כָּ]][[H6256\|עֵ֣ת]] [[H4279\|מָחָ֗ר]] [[H7971G\|אֶשְׁלַ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדַ]][[H9020\|י֙]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H2664\|חִפְּשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּ֣יתְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H1004B\|בָּתֵּ֣י]] [[H5650\|עֲבָדֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H4261\|מַחְמַ֣ד]] [[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H7760I\|יָשִׂ֥ימוּ]] [[H9003\|בְ]][[H3027I\|יָדָ֖]][[H9028\|ם]] [[H9001\|וְ]][[H3947G\|לָקָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.5|<< 1 Kings 20:5]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.7|1 Kings 20:7 >>]]</td></tr></table>
 

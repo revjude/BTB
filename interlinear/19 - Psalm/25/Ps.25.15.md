@@ -1,8 +1,59 @@
+---
+title: Psalm 25:15
+type: Verse
+kjv: "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net."
+bsb: "My eyes are always on the LORD, for He will free my feet from the mesh."
+hebrew: "עֵינַ֣י תָּ֭מִיד אֶל־ יְהוָ֑ה כִּ֤י הֽוּא־ יוֹצִ֖יא מֵרֶ֣שֶׁת רַגְלָֽי׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic NET|NET]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H8548]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H7568]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:15**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eyes [are] ever toward the LORD; for he shall pluck my feet out of the net.
 <small><sub>**BSB:**</sub></small>
 My eyes are always on the LORD, for He will free my feet from the mesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עֵינַ֣]][[H9020\|י]] [[H8548\|תָּ֭מִיד]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֤י]] [[H1931\|הֽוּא]][[H9014\|־]] [[H3318H\|יוֹצִ֖יא]] [[H9006\|מֵ]][[H7568\|רֶ֣שֶׁת]] [[H7272\|רַגְלָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic NET|NET]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.14|<< Psalms 25:14]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.16|Psalms 25:16 >>]]</td></tr></table>
 

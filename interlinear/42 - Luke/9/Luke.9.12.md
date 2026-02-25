@@ -1,10 +1,72 @@
+---
+title: Luke 9:12
+type: Verse
+kjv: "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place."
+bsb: "As the day neared its end, the Twelve came to Jesus and said, “Dismiss the crowd so they can go to the surrounding villages and countryside for lodging and provisions. For we are in a desolate place here.”"
+greek: "Ἡ δὲ ἡμέρα ἤρξατο κλίνειν. προσελθόντες δὲ οἱ δώδεκα εἶπαν αὐτῷ· ἀπόλυσον τὸν ὄχλον ἵνα πορευθέντες εἰς τὰς κύκλῳ κώμας καὶ τοὺς ἀγροὺς καταλύσωσιν καὶ εὕρωσιν ἐπισιτισμόν· ὅτι ὧδε ἐν ἐρήμῳ τόπῳ ἐσμέν.¶"
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G0757]]"
+- "[[G2827]]"
+- "[[G4334]]"
+- "[[G1427]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0630G]]"
+- "[[G3793]]"
+- "[[G2443]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2945]]"
+- "[[G2968]]"
+- "[[G2532]]"
+- "[[G0068G]]"
+- "[[G2647]]"
+- "[[G2147]]"
+- "[[G1979]]"
+- "[[G3754H]]"
+- "[[G5602]]"
+- "[[G1722]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Luke 9:12**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.
 <small><sub>**BSB:**</sub></small>
 As the day neared its end, the Twelve came to Jesus and said, “Dismiss the crowd so they can go to the surrounding villages and countryside for lodging and provisions. For we are in a desolate place here.”
-<small><sub>**Literal:**</sub></small>
-<the> And the day began to decline. having come then the Twelve said to Him; do dismiss the crowd that having travelled into the surrounding villages and <the> countryside they may lodge and they may find provisions; for here in a desolate place we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.11|<< Luke 9:11]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.13|Luke 9:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρα]]  [[G0757\|ἤρξατο]]  [[G2827\|κλίνειν.]]  [[G4334\|προσελθόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1427\|δώδεκα]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G0630G\|ἀπόλυσον]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2443\|ἵνα]]  [[G4198\|πορευθέντες]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2945\|κύκλῳ]]  [[G2968\|κώμας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0068G\|ἀγροὺς]]  [[G2647\|καταλύσωσιν]]  [[G2532\|καὶ]]  [[G2147\|εὕρωσιν]]  [[G1979\|ἐπισιτισμόν·]]  [[G3754H\|ὅτι]]  [[G5602\|ὧδε]]  [[G1722\|ἐν]]  [[G2048\|ἐρήμῳ]]  [[G5117\|τόπῳ]]  [[G1510\|ἐσμέν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.11|<< Luke 9:11]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.13|Luke 9:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

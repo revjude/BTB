@@ -1,10 +1,70 @@
+---
+title: Mark 4:19
+type: Verse
+kjv: "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
+bsb: "but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful."
+jesus_said: "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
+greek: "καὶ αἱ μέριμναι τοῦ αἰῶνος τούτου καὶ ἡ ἀπάτη τοῦ πλούτου καὶ αἱ περὶ τὰ λοιπὰ ἐπιθυμίαι εἰσπορευόμεναι συμπνίγουσιν τὸν λόγον, καὶ ἄκαρπος γίνεται."
+pericope: "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CARE|CARE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LUST|LUST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3308]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G0539]]"
+- "[[G4149]]"
+- "[[G4012]]"
+- "[[G3062]]"
+- "[[G1939]]"
+- "[[G1531]]"
+- "[[G4846]]"
+- "[[G3056]]"
+- "[[G0175]]"
+- "[[G1096]]"
+texts:
+- NKO
+- NK(O)
+- k
+---
+
 **Mark 4:19**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.
 <small><sub>**BSB:**</sub></small>
 but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful.
-<small><sub>**Literal:**</sub></small>
-and the cares of the age this and the deceit of the riches and <the> of the other things desires entering in they choke the word, and unfruitful it becomes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.18|<< Mark 4:18]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.20|Mark 4:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G3308\|μέριμναι]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3778\|τούτου]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0539\|ἀπάτη]]  [[G3588\|τοῦ]]  [[G4149\|πλούτου]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4012\|περὶ]]  [[G3588\|τὰ]]  [[G3062\|λοιπὰ]]  [[G1939\|ἐπιθυμίαι]]  [[G1531\|εἰσπορευόμεναι]]  [[G4846\|συμπνίγουσιν]]  [[G3588\|τὸν]]  [[G3056\|λόγον,]]  [[G2532\|καὶ]]  [[G0175\|ἄκαρπος]]  [[G1096\|γίνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CARE|CARE]] • [[topic CHARACTER|CHARACTER]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LUST|LUST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RICHES|RICHES]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.18|<< Mark 4:18]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.20|Mark 4:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

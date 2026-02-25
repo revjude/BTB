@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 6:20
+type: Verse
+kjv: "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+bsb: "you were bought at a price. Therefore glorify God with your body."
+greek: "ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν καὶ ἐν τῷ πνεύματι ὑμῶν ἅτινά ἐστιν τοῦ θεοῦ.¶"
+pericope: "[[1Cor.6.18 The Temple of the Holy Spirit|The Temple of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0059]]"
+- "[[G1063]]"
+- "[[G5092]]"
+- "[[G1392]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G4983]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G3748]]"
+- "[[G1510]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 6:20**<big><big>[[1Cor.6.18 The Temple of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.
 <small><sub>**BSB:**</sub></small>
 you were bought at a price. Therefore glorify God with your body.
-<small><sub>**Literal:**</sub></small>
-you were bought for with a price; do glorify therefore <the> God in the body of you and in the spirit of you which is <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.19|<< 1 Corinthians 6:19]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.1|1 Corinthians 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0059\|ἠγοράσθητε]]  [[G1063\|γὰρ]]  [[G5092\|τιμῆς·]]  [[G1392\|δοξάσατε]]  [[G1211\|δὴ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G4771\|ὑμῶν]]  [[G3748\|ἅτινά]]  [[G1510\|ἐστιν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic REDEMPTION|REDEMPTION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.19|<< 1 Corinthians 6:19]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.1|1 Corinthians 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

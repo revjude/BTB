@@ -1,8 +1,57 @@
+---
+title: Psalm 58:1
+type: Verse
+kjv: "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?"
+bsb: "For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?"
+hebrew: "הַֽאֻמְנָ֗ם אֵ֣לֶם צֶ֭דֶק תְּדַבֵּר֑וּן מֵישָׁרִ֥ים תִּ֝שְׁפְּט֗וּ בְּנֵ֣י אָדָֽם׃"
+pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9008]]"
+- "[[H0552]]"
+- "[[H0482]]"
+- "[[H6664G]]"
+- "[[H1696I]]"
+- "[[H9013]]"
+- "[[H4339]]"
+- "[[H8199]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 58:1**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H0552\|אֻמְנָ֗ם]] [[H0482\|אֵ֣לֶם]] [[H6664G\|צֶ֭דֶק]] [[H1696I\|תְּדַבֵּר֑וּ]][[H9013\|ן]] [[H4339\|מֵישָׁרִ֥ים]] [[H8199\|תִּ֝שְׁפְּט֗וּ]] [[H1121A\|בְּנֵ֣י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JUDGE|JUDGE]] • [[topic MUSIC|MUSIC]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.0|<< Psalms 58:0]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.2|Psalms 58:2 >>]]</td></tr></table>
 

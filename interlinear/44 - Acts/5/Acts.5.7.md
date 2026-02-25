@@ -1,10 +1,61 @@
+---
+title: Acts 5:7
+type: Verse
+kjv: "And it was about the space of three hours after, when his wife, not knowing what was done, came in."
+bsb: "About three hours later his wife also came in, unaware of what had happened."
+greek: "ἐγένετο δὲ ὡς ὡρῶν τριῶν διάστημα καὶ ἡ γυνὴ αὐτοῦ μὴ εἰδυῖα τὸ γεγονὸς εἰσῆλθεν."
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G5613]]"
+- "[[G5610]]"
+- "[[G5140]]"
+- "[[G1292]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G6063]]"
+- "[[G1525]]"
+texts:
+- NKO
+---
+
 **Acts 5:7**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was about the space of three hours after, when his wife, not knowing what was done, came in.
 <small><sub>**BSB:**</sub></small>
 About three hours later his wife also came in, unaware of what had happened.
-<small><sub>**Literal:**</sub></small>
-It came to pass now about hours three afterward also the wife of him not knowing that having come to pass came in.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.6|<< Acts 5:6]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.8|Acts 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|ἐγένετο]]  [[G1161\|δὲ]]  [[G5613\|ὡς]]  [[G5610\|ὡρῶν]]  [[G5140\|τριῶν]]  [[G1292\|διάστημα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G0846\|αὐτοῦ]]  [[G3361\|μὴ]]  [[G6063\|εἰδυῖα]]  [[G3588\|τὸ]]  [[G1096\|γεγονὸς]]  [[G1525\|εἰσῆλθεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.6|<< Acts 5:6]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.8|Acts 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

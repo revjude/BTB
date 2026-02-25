@@ -1,10 +1,55 @@
+---
+title: Luke 19:39
+type: Verse
+kjv: "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+bsb: "But some of the Pharisees in the crowd said to Him, “Teacher, rebuke Your disciples!”"
+greek: "καί τινες τῶν Φαρισαίων ἀπὸ τοῦ ὄχλου εἶπαν πρὸς αὐτόν· διδάσκαλε, ἐπιτίμησον τοῖς μαθηταῖς σου."
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G0575]]"
+- "[[G3793]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G2008]]"
+- "[[G3101]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 19:39**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
 <small><sub>**BSB:**</sub></small>
 But some of the Pharisees in the crowd said to Him, “Teacher, rebuke Your disciples!”
-<small><sub>**Literal:**</sub></small>
-And some of the Pharisees from the crowd said to Him; Teacher, do rebuke the disciples of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.38|<< Luke 19:38]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.40|Luke 19:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καί]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G2036\|εἶπαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1320\|διδάσκαλε,]]  [[G2008\|ἐπιτίμησον]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SHOUTING|SHOUTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.38|<< Luke 19:38]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.40|Luke 19:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

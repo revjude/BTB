@@ -1,8 +1,59 @@
+---
+title: Jeremiah 34:19
+type: Verse
+kjv: "The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf;"
+bsb: "The officials of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the pieces of the calf,"
+hebrew: "שָׂרֵ֨י יְהוּדָ֜ה וְשָׂרֵ֣י יְרוּשָׁלִַ֗ם הַסָּֽרִסִים֙ וְהַכֹּ֣הֲנִ֔ים וְכֹ֖ל עַ֣ם הָאָ֑רֶץ הָעֹ֣בְרִ֔ים בֵּ֖ין בִּתְרֵ֥י הָעֵֽגֶל׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9009]]"
+- "[[H5631]]"
+- "[[H3548]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H5674A]]"
+- "[[H0996G]]"
+- "[[H1335]]"
+- "[[H5695]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:19**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf;
 <small><sub>**BSB:**</sub></small>
 The officials of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the pieces of the calf,
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שָׂרֵ֨י]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9009\|הַ]][[H5631\|סָּֽרִסִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9009\|הָ]][[H5674A\|עֹ֣בְרִ֔ים]] [[H0996G\|בֵּ֖ין]] [[H1335\|בִּתְרֵ֥י]] [[H9009\|הָ]][[H5695\|עֵֽגֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.18|<< Jeremiah 34:18]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.20|Jeremiah 34:20 >>]]</td></tr></table>
 

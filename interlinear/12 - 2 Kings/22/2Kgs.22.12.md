@@ -1,8 +1,71 @@
+---
+title: 2 Kings 22:12
+type: Verse
+kjv: "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,"
+bsb: "and commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah the servant of the king:"
+hebrew: "וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־ חִלְקִיָּ֣ה הַכֹּהֵ֡ן וְאֶת־ אֲחִיקָ֣ם בֶּן־ שָׁ֠פָן וְאֶת־ עַכְבּ֨וֹר בֶּן־ מִיכָיָ֜ה וְאֵ֣ת׀ שָׁפָ֣ן הַסֹּפֵ֗ר וְאֵ֛ת עֲשָׂיָ֥ה עֶֽבֶד־ הַמֶּ֖לֶךְ לֵאמֹֽר׃"
+pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABDON|ABDON]]"
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MICHAIAH|MICHAIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2518H]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H0296]]"
+- "[[H1121A]]"
+- "[[H8227B]]"
+- "[[H5907H]]"
+- "[[H4320G]]"
+- "[[H9015]]"
+- "[[H5608B]]"
+- "[[H6222G]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:12**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,
 <small><sub>**BSB:**</sub></small>
 and commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah the servant of the king:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H9009\|הַ]][[H4428G\|מֶּ֡לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H2518H\|חִלְקִיָּ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֡ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0296\|אֲחִיקָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁ֠פָן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5907H\|עַכְבּ֨וֹר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4320G\|מִיכָיָ֜ה]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H8227B\|שָׁפָ֣ן]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֗ר]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H6222G\|עֲשָׂיָ֥ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDON|ABDON]] • [[topic AHIKAM|AHIKAM]] • [[topic ASAHIAH|ASAHIAH]] • [[topic HILKIAH|HILKIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic MICHAIAH|MICHAIAH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.11|<< 2 Kings 22:11]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.13|2 Kings 22:13 >>]]</td></tr></table>
 

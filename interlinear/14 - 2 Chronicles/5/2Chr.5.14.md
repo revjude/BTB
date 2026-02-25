@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 5:14
+type: Verse
+kjv: "So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God."
+bsb: "so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of God."
+hebrew: "וְלֹא־ יָֽכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמ֥וֹד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּֽי־ מָלֵ֥א כְבוֹד־ יְהוָ֖ה אֶת־ בֵּ֥ית הָאֱלֹהִֽים׃ פ"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H8334]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H6051]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:14**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God.
 <small><sub>**BSB:**</sub></small>
 so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יָֽכְל֧וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֛ים]] [[H9005\|לַ]][[H5975G\|עֲמ֥וֹד]] [[H9005\|לְ]][[H8334\|שָׁרֵ֖ת]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H9009\|הֶ]][[H6051\|עָנָ֑ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָלֵ֥א]] [[H3519\|כְבוֹד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֥ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.13|<< 2 Chronicles 5:13]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.1|2 Chronicles 6:1 >>]]</td></tr></table>
 
@@ -21,7 +76,7 @@ so that the priests could not stand there to minister because of the cloud. For 
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.13|<< 2 Chronicles 5:13]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.1|2 Chronicles 6:1 >>]]</td></tr></table>
 
 

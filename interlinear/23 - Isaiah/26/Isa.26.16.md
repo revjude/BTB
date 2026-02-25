@@ -1,8 +1,56 @@
+---
+title: Isaiah 26:16
+type: Verse
+kjv: "LORD, in trouble have they visited thee, they poured out a prayer when thy chastening was upon them."
+bsb: "O LORD, they sought You in their distress; when You disciplined them, they poured out a quiet prayer."
+hebrew: "יְהוָ֖ה בַּצַּ֣ר פְּקָד֑וּךָ צָק֣וּן לַ֔חַשׁ מוּסָרְךָ֖ לָֽמוֹ׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H6485I]]"
+- "[[H9031]]"
+- "[[H6694]]"
+- "[[H9013]]"
+- "[[H3908]]"
+- "[[H4148G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:16**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, in trouble have they visited thee, they poured out a prayer [when] thy chastening [was] upon them.
 <small><sub>**BSB:**</sub></small>
 O LORD, they sought You in their distress; when You disciplined them, they poured out a quiet prayer.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H6862B\|צַּ֣ר]] [[H6485I\|פְּקָד֑וּ]][[H9031\|ךָ]] [[H6694\|צָק֣וּ]][[H9013\|ן]] [[H3908\|לַ֔חַשׁ]] [[H4148G\|מוּסָרְ]][[H9021\|ךָ֖]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.15|<< Isaiah 26:15]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.17|Isaiah 26:17 >>]]</td></tr></table>
 

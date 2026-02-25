@@ -1,10 +1,60 @@
+---
+title: Mark 3:35
+type: Verse
+kjv: "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
+bsb: "For whoever does the will of God is My brother and sister and mother.”"
+jesus_said: "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
+greek: "ὃς γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ μου καὶ μήτηρ ἐστίν.¶"
+pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G0079]]"
+- "[[G3384]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 3:35**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
 <small><sub>**BSB:**</sub></small>
 For whoever does the will of God is My brother and sister and mother.”
-<small><sub>**Literal:**</sub></small>
-Who[ever] for maybe may do the will <the> of God, he brother of Mine and sister of Mine and mother is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.34|<< Mark 3:34]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.1|Mark 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G0302\|ἂν]]  [[G4160G\|ποιήσῃ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3778\|οὗτος]]  [[G0080\|ἀδελφός]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G0079\|ἀδελφὴ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3384\|μήτηρ]]  [[G1510\|ἐστίν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.34|<< Mark 3:34]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.1|Mark 4:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 3:35** is...
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]

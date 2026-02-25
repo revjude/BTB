@@ -1,8 +1,73 @@
+---
+title: Joshua 8:1
+type: Verse
+kjv: "And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:"
+bsb: "Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ יְהוֹשֻׁ֙עַ֙ אַל־ תִּירָ֣א וְאַל־ תֵּחָ֔ת קַ֣ח עִמְּךָ֗ אֵ֚ת כָּל־ עַ֣ם הַמִּלְחָמָ֔ה וְק֖וּם עֲלֵ֣ה הָעָ֑י רְאֵ֣ה׀ נָתַ֣תִּי בְיָדְךָ֗ אֶת־ מֶ֤לֶךְ הָעַי֙ וְאֶת־ עַמּ֔וֹ וְאֶת־ עִיר֖וֹ וְאֶת־ אַרְצֽוֹ׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H2865]]"
+- "[[H3947G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5971K]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H6965B]]"
+- "[[H5927G]]"
+- "[[H5857G]]"
+- "[[H7200I]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H5892B]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:1**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֣א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחָ֔ת]] [[H3947G\|קַ֣ח]] [[H5973A\|עִמְּ]][[H9031\|ךָ֗]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5971K\|עַ֣ם]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H6965B\|ק֖וּם]] [[H5927G\|עֲלֵ֣ה]] [[H9009\|הָ]][[H5857G\|עָ֑י]] [[H7200I\|רְאֵ֣ה]][[H9015\|׀]] [[H5414G\|נָתַ֣תִּי]] [[H9003\|בְ]][[H3027H\|יָדְ]][[H9021\|ךָ֗]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֤לֶךְ]] [[H9009\|הָ]][[H5857G\|עַי֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.26|<< Joshua 7:26]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.2|Joshua 8:2 >>]]</td></tr></table>
 

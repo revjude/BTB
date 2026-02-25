@@ -1,6 +1,68 @@
+---
+title: LXX Exodus 36:15
+type: Verse
+lxx: "The length of the one hide covering was thirty cubits, and four cubits the breadth of the one hide covering. The same measure was to the eleven hide coverings."
+greek: "το μήκος της δέρρεως της μιάς ην τριάκοντα πηχέων και τεσσάρων πηχέων το εύρος της δέρρεως της μιάς μέτρον το αυτό ην τοις ένδεκα δέρρεσι"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[G3588]]"
+- "[[G3372]]"
+- "[[G3588]]"
+- "[[G6801]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G5144]]"
+- "[[G4083]]"
+- "[[G2532]]"
+- "[[G5064]]"
+- "[[G4083]]"
+- "[[G3588]]"
+- "[[G7563]]"
+- "[[G3588]]"
+- "[[G6801]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G3358]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1733]]"
+- "[[G6801]]"
+---
+
 **LXX Exodus 36:15** 
 <small><sub>**LXX:**</sub></small>
 The length of the one hide covering was thirty cubits, and four cubits the breadth of the one hide covering. The same measure was to the eleven hide coverings. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|το]] [[G3372\|μήκος]] [[G3588\|της]] [[G6801\|δέρρεως]] [[G3588\|της]] [[G1520\|μιάς]] [[G1510\|ην]] [[G5144\|τριάκοντα]] [[G4083\|πηχέων]] [[G2532\|και]] [[G5064\|τεσσάρων]] [[G4083\|πηχέων]] [[G3588\|το]] [[G7563\|εύρος]] [[G3588\|της]] [[G6801\|δέρρεως]] [[G3588\|της]] [[G1520\|μιάς]] [[G3358\|μέτρον]] [[G3588\|το]] [[G1473\|αυτό]] [[G1510\|ην]] [[G3588\|τοις]] [[G1733\|ένδεκα]] [[G6801\|δέρρεσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.14|<< Exodus 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.16|Exodus 36:16 >>]]</td></tr></table>
 
@@ -31,6 +93,6 @@ The length of the one hide covering was thirty cubits, and four cubits the bread
 | to the | **<big>[[G3588\|τοις]]</big>** |
 | eleven | **<big>[[G1733\|ένδεκα]]</big>** |
 | hide coverings. | **<big>[[G6801\|δέρρεσι]]</big>** |
-[[Exod.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.14|<< Exodus 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.16|Exodus 36:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.14|<< Exodus 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.16|Exodus 36:16 >>]]</td></tr></table>
 
 

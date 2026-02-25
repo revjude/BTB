@@ -1,8 +1,65 @@
+---
+title: Judges 9:51
+type: Verse
+kjv: "But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut it to them, and gat them up to the top of the tower."
+bsb: "But there was a strong tower inside the city, and all the men, women, and leaders of the city fled there. They locked themselves in and went up to the roof of the tower."
+hebrew: "וּמִגְדַּל־ עֹז֮ הָיָ֣ה בְתוֹךְ־ הָעִיר֒ וַיָּנֻ֨סוּ שָׁ֜מָּה כָּל־ הָאֲנָשִׁ֣ים וְהַנָּשִׁ֗ים וְכֹל֙ בַּעֲלֵ֣י הָעִ֔יר וַֽיִּסְגְּר֖וּ בַּעֲדָ֑ם וַֽיַּעֲל֖וּ עַל־ גַּ֥ג הַמִּגְדָּֽל׃"
+pericope: "[[Judg.9.50 Abimelech’s Punishment|Abimelech’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic THEBEZ|THEBEZ]]"
+strongs:
+- "[[H9002]]"
+- "[[H4026M]]"
+- "[[H9014]]"
+- "[[H5797]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H0802G]]"
+- "[[H1167G]]"
+- "[[H5462]]"
+- "[[H1157]]"
+- "[[H9038]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H1406]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:51**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut [it] to them, and gat them up to the top of the tower.
 <small><sub>**BSB:**</sub></small>
 But there was a strong tower inside the city, and all the men, women, and leaders of the city fled there. They locked themselves in and went up to the roof of the tower.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4026M\|מִגְדַּל]][[H9014\|־]] [[H5797\|עֹז֮]] [[H1961\|הָיָ֣ה]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֒]] [[H9001\|וַ]][[H5127\|יָּנֻ֨סוּ]] [[H8033G\|שָׁ֜מָּ]][[H9011\|ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁ֗ים]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H1167G\|בַּעֲלֵ֣י]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וַֽ]][[H5462\|יִּסְגְּר֖וּ]] [[H1157\|בַּעֲדָ֑]][[H9038\|ם]] [[H9001\|וַֽ]][[H5927G\|יַּעֲל֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1406\|גַּ֥ג]] [[H9009\|הַ]][[H4026M\|מִּגְדָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]] • [[topic THEBEZ|THEBEZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.50|<< Judges 9:50]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.52|Judges 9:52 >>]]</td></tr></table>
 

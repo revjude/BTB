@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 15:28
+type: Verse
+kjv: "See, I will tarry in the plain of the wilderness, until there come word from you to certify me."
+bsb: "See, I will wait at the fords of the wilderness until word comes from you to inform me.”"
+hebrew: "רְאוּ֙ אָנֹכִ֣י מִתְמַהְמֵ֔הַּ בְּעַֽרְב֖וֹת הַמִּדְבָּ֑ר עַ֣ד בּ֥וֹא דָבָ֛ר מֵעִמָּכֶ֖ם לְהַגִּ֥יד לִֽי׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H7200I]]"
+- "[[H0595]]"
+- "[[H4102]]"
+- "[[H9003]]"
+- "[[H5679]]"
+- "[[H6160L]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 15:28**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, I will tarry in the plain of the wilderness, until there come word from you to certify me.
 <small><sub>**BSB:**</sub></small>
 See, I will wait at the fords of the wilderness until word comes from you to inform me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאוּ֙]] [[H0595\|אָנֹכִ֣י]] [[H4102\|מִתְמַהְמֵ֔הַּ]] [[H9003\|בְּ]][[H6160L\|עַֽרְב֖וֹת]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֑ר]] [[H5704\|עַ֣ד]] [[H0935G\|בּ֥וֹא]] [[H1697G\|דָבָ֛ר]] [[H9006\|מֵ]][[H5973B\|עִמָּ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H5046\|הַגִּ֥יד]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic JONATHAN|JONATHAN]] • [[topic POLITICS|POLITICS]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.27|<< 2 Samuel 15:27]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.29|2 Samuel 15:29 >>]]</td></tr></table>
 
@@ -21,7 +78,7 @@ See, I will wait at the fords of the wilderness until word comes from you to inf
 | to \<the> me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.27|<< 2 Samuel 15:27]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.29|2 Samuel 15:29 >>]]</td></tr></table>
 
-[^1]: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
-[^2]: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^1]: at [the] fords of  | **<big>[[H9003|בְּ]]</big><big>[[H5679|עַבְרוֹת]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: at [the] fords of  | **<big>[[H9003|בְּ]]</big><big>[[H5679|עַבְרוֹת]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּעַֽבְר֖וֹת</big></span>**
 

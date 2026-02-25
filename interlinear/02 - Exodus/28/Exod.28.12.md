@@ -1,8 +1,74 @@
+---
+title: Exodus 28:12
+type: Verse
+kjv: "And thou shalt put the two stones upon the shoulders of the ephod for stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial."
+bsb: "Fasten both stones on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear their names on his two shoulders as a memorial before the LORD."
+hebrew: "וְשַׂמְתָּ֞ אֶת־ שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־ שְׁמוֹתָ֜ם לִפְנֵ֧י יְהוָ֛ה עַל־ שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃ ס"
+pericope: "[[Exod.28.6 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic ONYX|ONYX]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H5921A]]"
+- "[[H3802]]"
+- "[[H0646]]"
+- "[[H2146]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H5375H]]"
+- "[[H0175]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 28:12**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put the two stones upon the shoulders of the ephod [for] stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.
 <small><sub>**BSB:**</sub></small>
 Fasten both stones on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear their names on his two shoulders as a memorial before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתָּ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הָ]][[H0068G\|אֲבָנִ֗ים]] [[H5921A\|עַ֚ל]] [[H3802\|כִּתְפֹ֣ת]] [[H9009\|הָֽ]][[H0646\|אֵפֹ֔ד]] [[H0068G\|אַבְנֵ֥י]] [[H2146\|זִכָּרֹ֖ן]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H5375H\|נָשָׂא֩]] [[H0175\|אַהֲרֹ֨ן]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמוֹתָ֜]][[H9028\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֧י]] [[H3068G\|יְהוָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁתֵּ֥י]] [[H3802\|כְתֵפָ֖י]][[H9023\|ו]] [[H9005\|לְ]][[H2146\|זִכָּרֹֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHOD|EPHOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MEMORIAL|MEMORIAL]] • [[topic ONYX|ONYX]] • [[topic PRIEST|PRIEST]] • [[topic STONES|STONES]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.11|<< Exodus 28:11]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.13|Exodus 28:13 >>]]</td></tr></table>
 
@@ -28,7 +94,7 @@ Fasten both stones on the shoulder pieces of the ephod as memorial stones for th
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁתֵּ֥י]]&#8207; </big>**| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shoulder-pieces his  |**<big>&#8207;[[H3802\|כְתֵפָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| khe.te.Fa<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a reminder  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2146\|זִכָּרֹֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> zi.ka.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a reminder  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2146\|זִכָּרֹֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> zi.ka.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.11|<< Exodus 28:11]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.13|Exodus 28:13 >>]]</td></tr></table>
 
 

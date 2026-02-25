@@ -1,8 +1,71 @@
+---
+title: Genesis 33:17
+type: Verse
+kjv: "And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth."
+bsb: "but Jacob went on to Succoth, where he built a house for himself and shelters for his livestock; that is why the place was called Succoth."
+hebrew: "וְיַעֲקֹב֙ נָסַ֣ע סֻכֹּ֔תָה וַיִּ֥בֶן ל֖וֹ בָּ֑יִת וּלְמִקְנֵ֙הוּ֙ עָשָׂ֣ה סֻכֹּ֔ת עַל־ כֵּ֛ן קָרָ֥א שֵׁם־ הַמָּק֖וֹם סֻכּֽוֹת׃ ס"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BOOTH|BOOTH]]"
+- "[[topic CATTLE|CATTLE]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H5265]]"
+- "[[H5523G]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H4735]]"
+- "[[H9023]]"
+- "[[H6213H]]"
+- "[[H5521]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 33:17**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.
 <small><sub>**BSB:**</sub></small>
 but Jacob went on to Succoth, where he built a house for himself and shelters for his livestock; that is why the place was called Succoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3290\|יַעֲקֹב֙]] [[H5265\|נָסַ֣ע]] [[H5523G\|סֻכֹּ֔תָ]][[H9011\|ה]] [[H9001\|וַ]][[H1129\|יִּ֥בֶן]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1004B\|בָּ֑יִת]] [[H9002\|וּ]][[H9005\|לְ]][[H4735\|מִקְנֵ֙]][[H9023\|הוּ֙]] [[H6213H\|עָשָׂ֣ה]] [[H5521\|סֻכֹּ֔ת]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H7121H\|קָרָ֥א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H5523G\|סֻכּֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BOOTH|BOOTH]] • [[topic CATTLE|CATTLE]] • [[topic JACOB|JACOB]] • [[topic PRAYER|PRAYER]] • [[topic SUCCOTH|SUCCOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.16|<< Genesis 33:16]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.18|Genesis 33:18 >>]]</td></tr></table>
 
@@ -22,7 +85,7 @@ but Jacob went on to Succoth, where he built a house for himself and shelters fo
 | he called  |**<big>&#8207;[[H7121H\|קָרָ֥א]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֖וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Succoth  |**<big>&#8207;[[H5523G\|סֻכּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| su.Kot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Succoth  |**<big>&#8207;[[H5523G\|סֻכּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| su.Kot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.16|<< Genesis 33:16]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.18|Genesis 33:18 >>]]</td></tr></table>
 
 

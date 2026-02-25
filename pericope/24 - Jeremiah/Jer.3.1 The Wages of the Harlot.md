@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wages of the Harlot
+type: Pericope
 pericope: "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 3
 book/chapter: "[[Jer.3|Jeremiah 3]]"
-genre:
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.3.1]]"
 - "[[Jer.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.3.5]]"
 ---
 
-[[Jer.3|Jeremiah 3:1 - Jeremiah 3:5]]
+<small>[[Jer.3|Jeremiah 3:1-5]]</small>
 *The Wages of the Harlot*
 
 [[Jer.3.1|1]] They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD.

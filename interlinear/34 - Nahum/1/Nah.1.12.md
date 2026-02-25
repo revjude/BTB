@@ -1,8 +1,59 @@
+---
+title: Nahum 1:12
+type: Verse
+kjv: "Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more."
+bsb: "This is what the LORD says: “Though they are allied and numerous, yet they will be cut down and pass away. Though I have afflicted you, O Judah, I will afflict you no longer."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה אִם־ שְׁלֵמִים֙ וְכֵ֣ן רַבִּ֔ים וְכֵ֥ן נָגֹ֖זּוּ וְעָבָ֑ר וְעִ֨נִּתִ֔ךְ לֹ֥א אֲעַנֵּ֖ךְ עֽוֹד׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8003]]"
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H7227A]]"
+- "[[H1494]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H6031B]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 1:12**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Though [they be] quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Though they are allied and numerous, yet they will be cut down and pass away. Though I have afflicted you, O Judah, I will afflict you no longer.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H8003\|שְׁלֵמִים֙]] [[H9002\|וְ]][[H3651C\|כֵ֣ן]] [[H7227A\|רַבִּ֔ים]] [[H9002\|וְ]][[H3651C\|כֵ֥ן]] [[H1494\|נָגֹ֖זּוּ]] [[H9001\|וְ]][[H5674A\|עָבָ֑ר]] [[H9001\|וְ]][[H6031B\|עִ֨נִּתִ֔]][[H9032\|ךְ]] [[H3808\|לֹ֥א]] [[H6031B\|אֲעַנֵּ֖]][[H9032\|ךְ]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.11|<< Nahum 1:11]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.13|Nahum 1:13 >>]]</td></tr></table>
 

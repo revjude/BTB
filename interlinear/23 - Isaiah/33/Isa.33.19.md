@@ -1,8 +1,58 @@
+---
+title: Isaiah 33:19
+type: Verse
+kjv: "Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand."
+bsb: "You will no longer see the insolent, a people whose speech is unintelligible, who stammer in a language you cannot understand."
+hebrew: "אֶת־ עַ֥ם נוֹעָ֖ז לֹ֣א תִרְאֶ֑ה עַ֣ם עִמְקֵ֤י שָׂפָה֙ מִשְּׁמ֔וֹעַ נִלְעַ֥ג לָשׁ֖וֹן אֵ֥ין בִּינָֽה׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic STAMMERING|STAMMERING]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3267]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H6012]]"
+- "[[H8193H]]"
+- "[[H9006]]"
+- "[[H8085J]]"
+- "[[H3932]]"
+- "[[H3956G]]"
+- "[[H0369]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:19**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, [that thou canst] not understand.
 <small><sub>**BSB:**</sub></small>
 You will no longer see the insolent, a people whose speech is unintelligible, who stammer in a language you cannot understand.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H3267\|נוֹעָ֖ז]] [[H3808\|לֹ֣א]] [[H7200G\|תִרְאֶ֑ה]] [[H5971A\|עַ֣ם]] [[H6012\|עִמְקֵ֤י]] [[H8193H\|שָׂפָה֙]] [[H9006\|מִ]][[H8085J\|שְּׁמ֔וֹעַ]] [[H3932\|נִלְעַ֥ג]] [[H3956G\|לָשׁ֖וֹן]] [[H0369\|אֵ֥ין]] [[H0998\|בִּינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic STAMMERING|STAMMERING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.18|<< Isaiah 33:18]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.20|Isaiah 33:20 >>]]</td></tr></table>
 

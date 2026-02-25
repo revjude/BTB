@@ -1,8 +1,51 @@
+---
+title: Lamentations 3:28
+type: Verse
+kjv: "He sitteth alone and keepeth silence, because he hath borne it upon him."
+bsb: "Let him sit alone in silence, for the LORD has laid it upon him."
+hebrew: "יֵשֵׁ֤ב בָּדָד֙ וְיִדֹּ֔ם כִּ֥י נָטַ֖ל עָלָֽיו׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+strongs:
+- "[[H3427]]"
+- "[[H0910]]"
+- "[[H9002]]"
+- "[[H1826H]]"
+- "[[H3588A]]"
+- "[[H5190]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:28**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sitteth alone and keepeth silence, because he hath borne [it] upon him.
 <small><sub>**BSB:**</sub></small>
 Let him sit alone in silence, for the LORD has laid it upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|יֵשֵׁ֤ב]] [[H0910\|בָּדָד֙]] [[H9002\|וְ]][[H1826H\|יִדֹּ֔ם]] [[H3588A\|כִּ֥י]] [[H5190\|נָטַ֖ל]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic MEEKNESS|MEEKNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.27|<< Lamentations 3:27]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.29|Lamentations 3:29 >>]]</td></tr></table>
 

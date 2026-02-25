@@ -1,10 +1,71 @@
+---
+title: 1 Timothy 6:21
+type: Verse
+kjv: "Which some professing have erred concerning the faith. Grace be with thee. Amen."
+bsb: "which some have professed and thus swerved away from the faith. Grace be with you all."
+greek: "ἥν τινες ἐπαγγελλόμενοι περὶ τὴν πίστιν ἠστόχησαν.¶ Ἡ χάρις μεθ᾽ ὑμῶν ἀμήν. πρός Τιμόθεον πρώτη ἐγράφη ἀπό Λαοδικείας ἥτις ἐστίν μητρόπολις φρυγίας τῆς Πακατιανῆς.¶"
+pericope: "[[1Tim.6.20 Guard the Faith|Guard the Faith]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3739]]"
+- "[[G5100]]"
+- "[[G1861]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G0795]]"
+- "[[G5485]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G5095]]"
+- "[[G4413G]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G2993]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G3390]]"
+- "[[G5435]]"
+- "[[G3818]]"
+texts:
+- NKO
+- N(k)O
+- KO
+- K
+---
+
 **1 Timothy 6:21**<big><big>[[1Tim.6.20 Guard the Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which some professing have erred concerning the faith. Grace [be] with thee. Amen.
 <small><sub>**BSB:**</sub></small>
 which some have professed and thus swerved away from the faith. Grace be with you all.
-<small><sub>**Literal:**</sub></small>
-which some professing from the faith went astray. {22} <the>  Grace [be] with you [all] Amen. to Timothy first it was written from Laodicea which is capital of Phrygia <the> of Pacatiana.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἥν]]  [[G5100\|τινες]]  [[G1861\|ἐπαγγελλόμενοι]]  [[G4012\|περὶ]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G0795\|ἠστόχησαν.¶]]  [[G3588\|Ἡ]]  [[G5485\|χάρις]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G5095\|Τιμόθεον]]  [[G4413G\|πρώτη]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G2993\|Λαοδικείας]]  [[G3748\|ἥτις]]  [[G1510\|ἐστίν]]  [[G3390\|μητρόπολις]]  [[G5435\|φρυγίας]]  [[G3588\|τῆς]]  [[G3818\|Πακατιανῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic STRIFE|STRIFE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.20|<< 1 Timothy 6:20]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.1|2 Timothy 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

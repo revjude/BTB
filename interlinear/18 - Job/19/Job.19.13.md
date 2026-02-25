@@ -1,8 +1,55 @@
+---
+title: Job 19:13
+type: Verse
+kjv: "He hath put my brethren far from me, and mine acquaintance are verily estranged from me."
+bsb: "He has removed my brothers from me; my acquaintances have abandoned me."
+hebrew: "אַ֭חַי מֵעָלַ֣י הִרְחִ֑יק וְ֝יֹדְעַ֗י אַךְ־ זָ֥רוּ מִמֶּֽנִּי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7368]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:13**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath put my brethren far from me, and mine acquaintance are verily estranged from me.
 <small><sub>**BSB:**</sub></small>
 He has removed my brothers from me; my acquaintances have abandoned me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0251G\|אַ֭חַ]][[H9020\|י]] [[H9006\|מֵ]][[H5921A\|עָלַ֣]][[H9030\|י]] [[H7368\|הִרְחִ֑יק]] [[H9002\|וְ֝]][[H3045\|יֹדְעַ֗]][[H9030\|י]] [[H0389\|אַךְ]][[H9014\|־]] [[H2114A\|זָ֥רוּ]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.14|Job 19:14 >>]]</td></tr></table>
 

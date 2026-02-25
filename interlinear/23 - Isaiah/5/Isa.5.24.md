@@ -1,8 +1,79 @@
+---
+title: Isaiah 5:24
+type: Verse
+kjv: "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel."
+bsb: "Therefore, as a tongue of fire consumes the straw, and as dry grass shrivels in the flame, so their roots will decay and their blossoms will blow away like dust; for they have rejected the instruction of the LORD of Hosts and despised the word of the Holy One of Israel."
+hebrew: "לָכֵן֩ כֶּאֱכֹ֨ל קַ֜שׁ לְשׁ֣וֹן אֵ֗שׁ וַחֲשַׁ֤שׁ לֶֽהָבָה֙ יִרְפֶּ֔ה שָׁרְשָׁם֙ כַּמָּ֣ק יִֽהְיֶ֔ה וּפִרְחָ֖ם כָּאָבָ֣ק יַעֲלֶ֑ה כִּ֣י מָאֲס֗וּ אֵ֚ת תּוֹרַת֙ יְהוָ֣ה צְבָא֔וֹת וְאֵ֛ת אִמְרַ֥ת קְדֽוֹשׁ־ יִשְׂרָאֵ֖ל נִאֵֽצוּ׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9004]]"
+- "[[H0398]]"
+- "[[H7179]]"
+- "[[H3956G]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H2842]]"
+- "[[H3852]]"
+- "[[H7503]]"
+- "[[H8328]]"
+- "[[H9028]]"
+- "[[H4716]]"
+- "[[H1961]]"
+- "[[H6525]]"
+- "[[H0080]]"
+- "[[H5927G]]"
+- "[[H3588A]]"
+- "[[H3988A]]"
+- "[[H0853]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0565A]]"
+- "[[H6918G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:24**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, [so] their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 Therefore, as a tongue of fire consumes the straw, and as dry grass shrivels in the flame, so their roots will decay and their blossoms will blow away like dust; for they have rejected the instruction of the LORD of Hosts and despised the word of the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H9004\|כֶּ]][[H0398\|אֱכֹ֨ל]] [[H7179\|קַ֜שׁ]] [[H3956G\|לְשׁ֣וֹן]] [[H0784\|אֵ֗שׁ]] [[H9002\|וַ]][[H2842\|חֲשַׁ֤שׁ]] [[H3852\|לֶֽהָבָה֙]] [[H7503\|יִרְפֶּ֔ה]] [[H8328\|שָׁרְשָׁ]][[H9028\|ם֙]] [[H9004\|כַּ]][[H4716\|מָּ֣ק]] [[H1961\|יִֽהְיֶ֔ה]] [[H9002\|וּ]][[H6525\|פִרְחָ֖]][[H9028\|ם]] [[H9004\|כָּ]][[H0080\|אָבָ֣ק]] [[H5927G\|יַעֲלֶ֑ה]] [[H3588A\|כִּ֣י]] [[H3988A\|מָאֲס֗וּ]] [[H0853\|אֵ֚ת]] [[H8451\|תּוֹרַת֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H0565A\|אִמְרַ֥ת]] [[H6918G\|קְדֽוֹשׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5006\|נִאֵֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHAFF|CHAFF]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SCOFFING|SCOFFING]] • [[topic STUBBLE|STUBBLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.23|<< Isaiah 5:23]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.25|Isaiah 5:25 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Leviticus 5:8
+type: Verse
+kjv: "And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:"
+bsb: "He is to bring them to the priest, who shall first present the one for the sin offering. He is to twist its head at the front of its neck without severing it;"
+hebrew: "וְהֵבִ֤יא אֹתָם֙ אֶל־ הַכֹּהֵ֔ן וְהִקְרִ֛יב אֶת־ אֲשֶׁ֥ר לַחַטָּ֖את רִאשׁוֹנָ֑ה וּמָלַ֧ק אֶת־ רֹאשׁ֛וֹ מִמּ֥וּל עָרְפּ֖וֹ וְלֹ֥א יַבְדִּֽיל׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7126H]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H7223G]]"
+- "[[H4454]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H4136]]"
+- "[[H6203]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0914]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:8**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring them unto the priest, who shall offer [that] which [is] for the sin offering first, and wring off his head from his neck, but shall not divide [it] asunder:
 <small><sub>**BSB:**</sub></small>
 He is to bring them to the priest, who shall first present the one for the sin offering. He is to twist its head at the front of its neck without severing it;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבִ֤יא]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וְ]][[H7126H\|הִקְרִ֛יב]] [[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לַ]][[H2403H\|חַטָּ֖את]] [[H7223G\|רִאשׁוֹנָ֑ה]] [[H9001\|וּ]][[H4454\|מָלַ֧ק]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ֛]][[H9023\|וֹ]] [[H9006\|מִ]][[H4136\|מּ֥וּל]] [[H6203\|עָרְפּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0914\|יַבְדִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.7|<< Leviticus 5:7]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.9|Leviticus 5:9 >>]]</td></tr></table>
 

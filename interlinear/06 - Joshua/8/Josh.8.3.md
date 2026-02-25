@@ -1,8 +1,64 @@
+---
+title: Joshua 8:3
+type: Verse
+kjv: "So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night."
+bsb: "So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night"
+hebrew: "וַיָּ֧קָם יְהוֹשֻׁ֛עַ וְכָל־ עַ֥ם הַמִּלְחָמָ֖ה לַעֲל֣וֹת הָעָ֑י וַיִּבְחַ֣ר יְ֠הוֹשֻׁעַ שְׁלֹשִׁ֨ים אֶ֤לֶף אִישׁ֙ גִּבּוֹרֵ֣י הַחַ֔יִל וַיִּשְׁלָחֵ֖ם לָֽיְלָה׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971K]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H5857G]]"
+- "[[H0977]]"
+- "[[H7970]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:3**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night.
 <small><sub>**BSB:**</sub></small>
 So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֧קָם]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5971K\|עַ֥ם]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9005\|לַ]][[H5927G\|עֲל֣וֹת]] [[H9009\|הָ]][[H5857G\|עָ֑י]] [[H9001\|וַ]][[H0977\|יִּבְחַ֣ר]] [[H3091G\|יְ֠הוֹשֻׁעַ]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H0505G\|אֶ֤לֶף]] [[H0376G\|אִישׁ֙]] [[H1368\|גִּבּוֹרֵ֣י]] [[H9009\|הַ]][[H2428G\|חַ֔יִל]] [[H9001\|וַ]][[H7971G\|יִּשְׁלָחֵ֖]][[H9038\|ם]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.2|<< Joshua 8:2]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.4|Joshua 8:4 >>]]</td></tr></table>
 

@@ -1,10 +1,69 @@
+---
+title: Mark 16:18
+type: Verse
+kjv: "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover."
+bsb: "they will pick up snakes with their hands, and if they drink any deadly poison, it will not harm them; they will lay their hands on the sick, and they will be made well.”"
+jesus_said: "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover."
+greek: "καὶ ἐν ταῖς χερσὶν ὄφεις ἀροῦσιν, κἂν κἂν θανάσιμόν τι πίωσιν, οὐ μὴ αὐτοὺς βλάψει, ἐπὶ ἀρρώστους χεῖρας ἐπιθήσουσιν καὶ καλῶς ἕξουσιν.¶"
+pericope: "[[Mark.16.14 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3789]]"
+- "[[G0142]]"
+- "[[G1437]]"
+- "[[G2286]]"
+- "[[G5100]]"
+- "[[G4095]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0846]]"
+- "[[G0984]]"
+- "[[G1909]]"
+- "[[G0732]]"
+- "[[G2007]]"
+- "[[G2573]]"
+- "[[G2192]]"
+texts:
+- O
+- KO
+- K(o)
+---
+
 **Mark 16:18**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
 <small><sub>**BSB:**</sub></small>
 they will pick up snakes with their hands, and if they drink any deadly poison, it will not harm them; they will lay their hands on the sick, and they will be made well.”
-<small><sub>**Literal:**</sub></small>
-and with their hands serpents they will take up, and if deadly anything they shall drink, certainly not them it will hurt, upon [the] sick hands they will lay and well they will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.17|<< Mark 16:17]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.19|Mark 16:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G5495\|χερσὶν]]  [[G3789\|ὄφεις]]  [[G0142\|ἀροῦσιν,]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G2286\|θανάσιμόν]]  [[G5100\|τι]]  [[G4095\|πίωσιν,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0846\|αὐτοὺς]]  [[G0984\|βλάψει,]]  [[G1909\|ἐπὶ]]  [[G0732\|ἀρρώστους]]  [[G5495\|χεῖρας]]  [[G2007\|ἐπιθήσουσιν]]  [[G2532\|καὶ]]  [[G2573\|καλῶς]]  [[G2192\|ἕξουσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARISM|CHARISM]] • [[topic DISEASE|DISEASE]] • [[topic GOD|GOD]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]] • [[topic SERPENT|SERPENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.17|<< Mark 16:17]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.19|Mark 16:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 13:10
+type: Verse
+kjv: "And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God."
+bsb: "And the anger of the LORD burned against Uzzah, and He struck him down because he had put his hand on the ark. So he died there before God."
+hebrew: "וַיִּֽחַר־ אַ֤ף יְהוָה֙ בְּעֻזָּ֔א וַיַּכֵּ֕הוּ עַ֛ל אֲשֶׁר־ שָׁלַ֥ח יָד֖וֹ עַל־ הָאָר֑וֹן וַיָּ֥מָת שָׁ֖ם לִפְנֵ֥י אֱלֹהִֽים׃"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5798A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:10**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.
 <small><sub>**BSB:**</sub></small>
 And the anger of the LORD burned against Uzzah, and He struck him down because he had put his hand on the ark. So he died there before God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H5798A\|עֻזָּ֔א]] [[H9001\|וַ]][[H5221\|יַּכֵּ֕]][[H9033\|הוּ]] [[H5921A\|עַ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971K\|שָׁלַ֥ח]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָר֑וֹן]] [[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H8033G\|שָׁ֖ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.9|<< 1 Chronicles 13:9]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.11|1 Chronicles 13:11 >>]]</td></tr></table>
 

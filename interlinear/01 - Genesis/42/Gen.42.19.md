@@ -1,8 +1,63 @@
+---
+title: Genesis 42:19
+type: Verse
+kjv: "If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:"
+bsb: "If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households."
+hebrew: "אִם־ כֵּנִ֣ים אַתֶּ֔ם אֲחִיכֶ֣ם אֶחָ֔ד יֵאָסֵ֖ר בְּבֵ֣ית מִשְׁמַרְכֶ֑ם וְאַתֶּם֙ לְכ֣וּ הָבִ֔יאוּ שֶׁ֖בֶר רַעֲב֥וֹן בָּתֵּיכֶֽם׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic PRISON|PRISON]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3651A]]"
+- "[[H0859D]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H0259]]"
+- "[[H0631]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H4929]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H0935P]]"
+- "[[H7668]]"
+- "[[H7459]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:19**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye [be] true [men], let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:
 <small><sub>**BSB:**</sub></small>
 If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3651A\|כֵּנִ֣ים]] [[H0859D\|אַתֶּ֔ם]] [[H0251G\|אֲחִי]][[H9026\|כֶ֣ם]] [[H0259\|אֶחָ֔ד]] [[H0631\|יֵאָסֵ֖ר]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H4929\|מִשְׁמַרְ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H1980G\|לְכ֣וּ]] [[H0935P\|הָבִ֔יאוּ]] [[H7668\|שֶׁ֖בֶר]] [[H7459\|רַעֲב֥וֹן]] [[H1004M\|בָּתֵּי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]] • [[topic PRISON|PRISON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.18|<< Genesis 42:18]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.20|Genesis 42:20 >>]]</td></tr></table>
 

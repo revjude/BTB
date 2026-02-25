@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Conquers Jerusalem
+type: Pericope
 pericope: "[[1Chr.11.4 David Conquers Jerusalem|David Conquers Jerusalem]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 11
 book/chapter: "[[1Chr.11|1 Chronicles 11]]"
-genre:
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.11.4]]"
 - "[[1Chr.11.5]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.11.9]]"
 ---
 
-[[1Chr.11|1 Chronicles 11:4 - 1 Chronicles 11:9]]
+<small>[[1Chr.11|1 Chronicles 11:4-9]]</small>
 *David Conquers Jerusalem*
 
 [[1Chr.11.4|4]] And David and all Israel went to Jerusalem, which \[is\] Jebus; where the Jebusites \[were\], the inhabitants of the land.

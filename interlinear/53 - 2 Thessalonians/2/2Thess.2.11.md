@@ -1,10 +1,58 @@
+---
+title: 2 Thessalonians 2:11
+type: Verse
+kjv: "And for this cause God shall send them strong delusion, that they should believe a lie:"
+bsb: "For this reason God will send them a powerful delusion so that they believe the lie,"
+greek: "καὶ διὰ τοῦτο πέμπει αὐτοῖς ὁ θεὸς ἐνέργειαν πλάνης εἰς τὸ πιστεῦσαι αὐτοὺς τῷ ψεύδει,"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3992]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1753]]"
+- "[[G4106]]"
+- "[[G1519]]"
+- "[[G4100]]"
+- "[[G5579]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Thessalonians 2:11**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And for this cause God shall send them strong delusion, that they should believe a lie:
 <small><sub>**BSB:**</sub></small>
 For this reason God will send them a powerful delusion so that they believe the lie,
-<small><sub>**Literal:**</sub></small>
-And because of this sends to them <the> God a powerful delusion so that to believe they what [is] false,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.10|<< 2 Thessalonians 2:10]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.12|2 Thessalonians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3992\|πέμπει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1753\|ἐνέργειαν]]  [[G4106\|πλάνης]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4100\|πιστεῦσαι]]  [[G0846\|αὐτοὺς]]  [[G3588\|τῷ]]  [[G5579\|ψεύδει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic APOSTASY|APOSTASY]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.10|<< 2 Thessalonians 2:10]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.12|2 Thessalonians 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

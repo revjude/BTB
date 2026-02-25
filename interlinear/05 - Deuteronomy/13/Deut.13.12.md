@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 13:12
+type: Verse
+kjv: "If thou shalt hear say in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,"
+bsb: "If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said"
+hebrew: "כִּֽי־ תִשְׁמַ֞ע בְּאַחַ֣ת עָרֶ֗יךָ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֥ן לְךָ֛ לָשֶׁ֥בֶת שָׁ֖ם לֵאמֹֽר׃"
+pericope: "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H5892B]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:12**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt hear [say] in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,
 <small><sub>**BSB:**</sub></small>
 If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|תִשְׁמַ֞ע]] [[H9003\|בְּ]][[H0259\|אַחַ֣ת]] [[H5892B\|עָרֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9005\|לָ]][[H3427\|שֶׁ֥בֶת]] [[H8033G\|שָׁ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.11|<< Deuteronomy 13:11]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.13|Deuteronomy 13:13 >>]]</td></tr></table>
 

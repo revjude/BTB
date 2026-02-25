@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Moab, Judah, and Israel
+type: Pericope
 pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 2
 book/chapter: "[[Amos.2|Amos 2]]"
-genre:
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 16
 verses:
 - "[[Amos.2.1]]"
 - "[[Amos.2.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Amos.2.16]]"
 ---
 
-[[Amos.2|Amos 2:1 - Amos 2:16]]
+<small>[[Amos.2|Amos 2:1-16]]</small>
 *Judgment on Moab, Judah, and Israel*
 
 [[Amos.2.1|1]] Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away \[the punishment\] thereof; because he burned the bones of the king of Edom into lime:

@@ -1,8 +1,50 @@
+---
+title: Job 19:23
+type: Verse
+kjv: "Oh that my words were now written! oh that they were printed in a book!"
+bsb: "I wish that my words were recorded and inscribed in a book,"
+hebrew: "מִֽי־ יִתֵּ֣ן אֵ֭פוֹ וְיִכָּתְב֣וּן מִלָּ֑י מִֽי־ יִתֵּ֖ן בַּסֵּ֣פֶר וְיֻחָֽקוּ׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H0645]]"
+- "[[H9002]]"
+- "[[H3789]]"
+- "[[H9013]]"
+- "[[H4405]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H2710]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:23**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that my words were now written! oh that they were printed in a book!
 <small><sub>**BSB:**</sub></small>
 I wish that my words were recorded and inscribed in a book,
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֵּ֣ן]] [[H0645\|אֵ֭פוֹ]] [[H9002\|וְ]][[H3789\|יִכָּתְב֣וּ]][[H9013\|ן]] [[H4405\|מִלָּ֑]][[H9020\|י]] [[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֵּ֖ן]] [[H9003\|בַּ]][[H5612H\|סֵּ֣פֶר]] [[H9002\|וְ]][[H2710\|יֻחָֽקוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.22|<< Job 19:22]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.24|Job 19:24 >>]]</td></tr></table>
 

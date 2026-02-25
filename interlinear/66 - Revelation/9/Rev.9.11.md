@@ -1,10 +1,63 @@
+---
+title: Revelation 9:11
+type: Verse
+kjv: "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon."
+bsb: "They were ruled by a king, the angel of the Abyss. His name in Hebrew is Abaddon, and in Greek it is Apollyon."
+greek: "καὶ ἔχουσιν ἐπ᾽ αὐτῶν βασιλέα τὸν ἄγγελον τῆς ἀβύσσου· ὄνομα αὐτῷ Ἑβραϊστὶ Ἀβαδδών, καὶ ἐν τῇ Ἑλληνικῇ ὄνομα ἔχει Ἀπολλύων."
+pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ABADDON|ABADDON]]"
+- "[[topic APOLLYON|APOLLYON]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic PIT|PIT]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G0012]]"
+- "[[G3686]]"
+- "[[G1447]]"
+- "[[G0003]]"
+- "[[G1722]]"
+- "[[G1673]]"
+- "[[G0623]]"
+texts:
+- k
+- NK(o)
+- NKO
+---
+
 **Revelation 9:11**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they had a king over them, [which is] the angel of the bottomless pit, whose name in the Hebrew tongue [is] Abaddon, but in the Greek tongue hath [his] name Apollyon.
 <small><sub>**BSB:**</sub></small>
 They were ruled by a king, the angel of the Abyss. His name in Hebrew is Abaddon, and in Greek it is Apollyon.
-<small><sub>**Literal:**</sub></small>
-and They have over them a king <the> angel of the abyss; [The] name of Him in Hebrew [is] Abaddon, and in the Greek [the] name he has Apollyon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.10|<< Revelation 9:10]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.12|Revelation 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|ἔχουσιν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῶν]]  [[G0935\|βασιλέα]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον]]  [[G3588\|τῆς]]  [[G0012\|ἀβύσσου·]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτῷ]]  [[G1447\|Ἑβραϊστὶ]]  [[G0003\|Ἀβαδδών,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1673\|Ἑλληνικῇ]]  [[G3686\|ὄνομα]]  [[G2192\|ἔχει]]  [[G0623\|Ἀπολλύων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABADDON|ABADDON]] • [[topic APOLLYON|APOLLYON]] • [[topic HEBREW|HEBREW]] • [[topic PIT|PIT]] • [[topic SATAN|SATAN]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.10|<< Revelation 9:10]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.12|Revelation 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

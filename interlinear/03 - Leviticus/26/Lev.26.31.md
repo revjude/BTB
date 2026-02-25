@@ -1,8 +1,70 @@
+---
+title: Leviticus 26:31
+type: Verse
+kjv: "And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours."
+bsb: "I will reduce your cities to rubble and lay waste your sanctuaries, and I will refuse to smell the pleasing aroma of your sacrifices."
+hebrew: "וְנָתַתִּ֤י אֶת־ עָֽרֵיכֶם֙ חָרְבָּ֔ה וַהֲשִׁמּוֹתִ֖י אֶת־ מִקְדְּשֵׁיכֶ֑ם וְלֹ֣א אָרִ֔יחַ בְּרֵ֖יחַ נִיחֹֽחֲכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9026]]"
+- "[[H2723]]"
+- "[[H8074G]]"
+- "[[H4720]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7306]]"
+- "[[H9003]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:31**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.
 <small><sub>**BSB:**</sub></small>
 I will reduce your cities to rubble and lay waste your sanctuaries, and I will refuse to smell the pleasing aroma of your sacrifices.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָֽרֵי]][[H9026\|כֶם֙]] [[H2723\|חָרְבָּ֔ה]] [[H9001\|וַ]][[H8074G\|הֲשִׁמּוֹתִ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדְּשֵׁי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7306\|אָרִ֔יחַ]] [[H9003\|בְּ]][[H7381\|רֵ֖יחַ]] [[H5207\|נִיחֹֽחֲ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.30|<< Leviticus 26:30]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.32|Leviticus 26:32 >>]]</td></tr></table>
 

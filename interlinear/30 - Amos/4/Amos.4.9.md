@@ -1,8 +1,71 @@
+---
+title: Amos 4:9
+type: Verse
+kjv: "I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured them: yet have ye not returned unto me, saith the LORD."
+bsb: "“I struck you with blight and mildew in your growing gardens and vineyards; the locust devoured your fig and olive trees, yet you did not return to Me,” declares the LORD."
+hebrew: "הִכֵּ֣יתִי אֶתְכֶם֮ בַּשִּׁדָּפ֣וֹן וּבַיֵּרָקוֹן֒ הַרְבּ֨וֹת גַּנּוֹתֵיכֶ֧ם וְכַרְמֵיכֶ֛ם וּתְאֵנֵיכֶ֥ם וְזֵיתֵיכֶ֖ם יֹאכַ֣ל הַגָּזָ֑ם וְלֹֽא־ שַׁבְתֶּ֥ם עָדַ֖י נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASTING|BLASTING]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MILDEW|MILDEW]]"
+- "[[topic PALMER-WORM|PALMER-WORM]]"
+strongs:
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H7711B]]"
+- "[[H9002]]"
+- "[[H3420]]"
+- "[[H7235A]]"
+- "[[H1593]]"
+- "[[H9026]]"
+- "[[H3754]]"
+- "[[H8384]]"
+- "[[H2132H]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H1501]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Amos 4:9**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have smitten you with blasting and mildew: when your gardens and your vineyards and your fig trees and your olive trees increased, the palmerworm devoured [them]: yet have ye not returned unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “I struck you with blight and mildew in your growing gardens and vineyards; the locust devoured your fig and olive trees, yet you did not return to Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|הִכֵּ֣יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶם֮]] [[H9003\|בַּ]][[H7711B\|שִּׁדָּפ֣וֹן]] [[H9002\|וּ]][[H9003\|בַ]][[H3420\|יֵּרָקוֹן֒]] [[H7235A\|הַרְבּ֨וֹת]] [[H1593\|גַּנּוֹתֵי]][[H9026\|כֶ֧ם]] [[H9002\|וְ]][[H3754\|כַרְמֵי]][[H9026\|כֶ֛ם]] [[H9002\|וּ]][[H8384\|תְאֵנֵי]][[H9026\|כֶ֥ם]] [[H9002\|וְ]][[H2132H\|זֵיתֵי]][[H9026\|כֶ֖ם]] [[H0398\|יֹאכַ֣ל]] [[H9009\|הַ]][[H1501\|גָּזָ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שַׁבְתֶּ֥ם]] [[H5704\|עָדַ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASTING|BLASTING]] • [[topic FAMINE|FAMINE]] • [[topic GOD|GOD]] • [[topic MILDEW|MILDEW]] • [[topic PALMER-WORM|PALMER-WORM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.8|<< Amos 4:8]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.10|Amos 4:10 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ I have smitten you with blasting and mildew: when your gardens and your vineyard
 | you returned  |**<big>&#8207;[[H7725G\|שַׁבְתֶּ֥ם]]&#8207; </big>**| shav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H5704\|עָדַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.Da<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.8|<< Amos 4:8]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.10|Amos 4:10 >>]]</td></tr></table>
 
 

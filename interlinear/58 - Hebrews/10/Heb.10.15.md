@@ -1,10 +1,54 @@
+---
+title: Hebrews 10:15
+type: Verse
+kjv: "Whereof the Holy Ghost also is a witness to us: for after that he had said before,"
+bsb: "The Holy Spirit also testifies to us about this. First He says:"
+greek: "μαρτυρεῖ δὲ ἡμῖν καὶ τὸ πνεῦμα τὸ ἅγιον· μετὰ γὰρ τὸ εἰρηκέναι·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3140]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G3326]]"
+- "[[G1063]]"
+- "[[G2046]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 10:15**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Whereof] the Holy Ghost also is a witness to us: for after that he had said before,
 <small><sub>**BSB:**</sub></small>
 The Holy Spirit also testifies to us about this. First He says:
-<small><sub>**Literal:**</sub></small>
-Bears witness now to us also the Spirit <the> Holy; after for <the> to have said:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.14|<< Hebrews 10:14]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.16|Hebrews 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3140\|μαρτυρεῖ]]  [[G1161\|δὲ]]  [[G3165\|ἡμῖν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον·]]  [[G3326\|μετὰ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G2046\|εἰρηκέναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LAW|LAW]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.14|<< Hebrews 10:14]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.16|Hebrews 10:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

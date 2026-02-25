@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 8:13
+type: Verse
+kjv: "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God."
+bsb: "Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow."
+hebrew: "וְטוֹב֙ לֹֽא־ יִהְיֶ֣ה לָֽרָשָׁ֔ע וְלֹֽא־ יַאֲרִ֥יךְ יָמִ֖ים כַּצֵּ֑ל אֲשֶׁ֛ר אֵינֶ֥נּוּ יָרֵ֖א מִלִּפְנֵ֥י אֱלֹהִֽים׃"
+pericope: "[[Eccl.8.10 Fear God|Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H0748]]"
+- "[[H3117G]]"
+- "[[H9004]]"
+- "[[H6738]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H3373]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:13**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it shall not be well with the wicked, neither shall he prolong [his] days, [which are] as a shadow; because he feareth not before God.
 <small><sub>**BSB:**</sub></small>
 Yet because the wicked do not fear God, it will not go well with them, and their days will not lengthen like a shadow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2896A\|טוֹב֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָֽ]][[H7563\|רָשָׁ֔ע]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0748\|יַאֲרִ֥יךְ]] [[H3117G\|יָמִ֖ים]] [[H9004\|כַּ]][[H6738\|צֵּ֑ל]] [[H0834A\|אֲשֶׁ֛ר]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H3373\|יָרֵ֖א]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֥י]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.12|<< Ecclesiastes 8:12]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.14|Ecclesiastes 8:14 >>]]</td></tr></table>
 

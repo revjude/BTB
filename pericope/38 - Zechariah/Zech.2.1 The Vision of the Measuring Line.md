@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Measuring Line
+type: Pericope
 pericope: "[[Zech.2.1 The Vision of the Measuring Line|The Vision of the Measuring Line]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 2
 book/chapter: "[[Zech.2|Zechariah 2]]"
-genre:
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 5
 verses:
 - "[[Zech.2.1]]"
 - "[[Zech.2.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Zech.2.5]]"
 ---
 
-[[Zech.2|Zechariah 2:1 - Zechariah 2:5]]
+<small>[[Zech.2|Zechariah 2:1-5]]</small>
 *The Vision of the Measuring Line*
 
 [[Zech.2.1|1]] I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.

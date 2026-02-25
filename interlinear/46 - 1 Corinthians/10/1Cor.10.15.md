@@ -1,10 +1,46 @@
+---
+title: 1 Corinthians 10:15
+type: Verse
+kjv: "I speak as to wise men; judge ye what I say."
+bsb: "I speak to reasonable people; judge for yourselves what I say."
+greek: "ὡς φρονίμοις λέγω, κρίνατε ὑμεῖς ὅ φημι."
+pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[G5613]]"
+- "[[G5429]]"
+- "[[G3004G]]"
+- "[[G2919]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G5346]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:15**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I speak as to wise men; judge ye what I say.
 <small><sub>**BSB:**</sub></small>
 I speak to reasonable people; judge for yourselves what I say.
-<small><sub>**Literal:**</sub></small>
-As to sensible [ones] I speak, do judge for yourselves what I say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.14|<< 1 Corinthians 10:14]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.16|1 Corinthians 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G5429\|φρονίμοις]]  [[G3004G\|λέγω,]]  [[G2919\|κρίνατε]]  [[G4771\|ὑμεῖς]]  [[G3739\|ὅ]]  [[G5346\|φημι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REASONING|REASONING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.14|<< 1 Corinthians 10:14]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.16|1 Corinthians 10:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

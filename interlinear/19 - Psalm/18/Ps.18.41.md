@@ -1,8 +1,54 @@
+---
+title: Psalm 18:41
+type: Verse
+kjv: "They cried, but there was none to save them: even unto the LORD, but he answered them not."
+bsb: "They cried for help, but there was no one to save them—to the LORD, but He did not answer."
+hebrew: "יְשַׁוְּע֥וּ וְאֵין־ מוֹשִׁ֑יעַ עַל־ יְ֝הוָ֗ה וְלֹ֣א עָנָֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7768]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H3467]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:41**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They cried, but [there was] none to save [them: even] unto the LORD, but he answered them not.
 <small><sub>**BSB:**</sub></small>
 They cried for help, but there was no one to save them—to the LORD, but He did not answer.
+<small><sub>**Hebrew:**</sub></small>
+[[H7768\|יְשַׁוְּע֥וּ]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H3467\|מוֹשִׁ֑יעַ]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְ֝הוָ֗ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6030B\|עָנָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.40|<< Psalms 18:40]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.42|Psalms 18:42 >>]]</td></tr></table>
 

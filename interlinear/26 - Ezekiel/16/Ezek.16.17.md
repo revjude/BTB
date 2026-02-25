@@ -1,8 +1,68 @@
+---
+title: Ezekiel 16:17
+type: Verse
+kjv: "Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,"
+bsb: "You also took the fine jewelry of gold and silver I had given you, and you made male idols with which to prostitute yourself."
+hebrew: "וַתִּקְחִ֞י כְּלֵ֣י תִפְאַרְתֵּ֗ךְ מִזְּהָבִ֤י וּמִכַּסְפִּי֙ אֲשֶׁ֣ר נָתַ֣תִּי לָ֔ךְ וַתַּעֲשִׂי־ לָ֖ךְ צַלְמֵ֣י זָכָ֑ר וַתִּזְנִי־ בָֽם׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3627]]"
+- "[[H8597]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H2091]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H6754]]"
+- "[[H2145]]"
+- "[[H2181]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:17**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,
 <small><sub>**BSB:**</sub></small>
 You also took the fine jewelry of gold and silver I had given you, and you made male idols with which to prostitute yourself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקְחִ֞י]] [[H3627\|כְּלֵ֣י]] [[H8597\|תִפְאַרְתֵּ֗]][[H9022\|ךְ]] [[H9006\|מִ]][[H2091\|זְּהָבִ֤]][[H9020\|י]] [[H9002\|וּ]][[H9006\|מִ]][[H3701G\|כַּסְפִּ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9001\|וַ]][[H6213H\|תַּעֲשִׂי]][[H9014\|־]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H6754\|צַלְמֵ֣י]] [[H2145\|זָכָ֑ר]] [[H9001\|וַ]][[H2181\|תִּזְנִי]][[H9014\|־]] [[H9003\|בָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.16|<< Ezekiel 16:16]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.18|Ezekiel 16:18 >>]]</td></tr></table>
 

@@ -1,8 +1,48 @@
+---
+title: Zephaniah 1:2
+type: Verse
+kjv: "I will utterly consume all things from off the land, saith the LORD."
+bsb: "“I will completely sweep away everything from the face of the earth,” declares the LORD."
+hebrew: "אָסֹ֨ף אָסֵ֜ף כֹּ֗ל מֵעַ֛ל פְּנֵ֥י הָאֲדָמָ֖ה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|Zephaniah Prophesies Judgment on Judah]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H0622]]"
+- "[[H5486]]"
+- "[[H3605]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:2**<big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will utterly consume all [things] from off the land, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “I will completely sweep away everything from the face of the earth,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0622\|אָסֹ֨ף]] [[H5486\|אָסֵ֜ף]] [[H3605\|כֹּ֗ל]] [[H9006\|מֵ]][[H5921A\|עַ֛ל]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָ֖ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.1|<< Zephaniah 1:1]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.3|Zephaniah 1:3 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Proverbs 14:20
+type: Verse
+kjv: "The poor is hated even of his own neighbour: but the rich hath many friends."
+bsb: "The poor man is hated even by his neighbor, but many are those who love the rich."
+hebrew: "גַּם־ לְ֭רֵעֵהוּ יִשָּׂ֣נֵא רָ֑שׁ וְאֹהֲבֵ֖י עָשִׁ֣יר רַבִּֽים׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H8130]]"
+- "[[H7326]]"
+- "[[H9002]]"
+- "[[H0157H]]"
+- "[[H6223]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:20**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The poor is hated even of his own neighbour: but the rich [hath] many friends.
 <small><sub>**BSB:**</sub></small>
 The poor man is hated even by his neighbor, but many are those who love the rich.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H9005\|לְ֭]][[H7453\|רֵעֵ]][[H9023\|הוּ]] [[H8130\|יִשָּׂ֣נֵא]] [[H7326\|רָ֑שׁ]] [[H9002\|וְ]][[H0157H\|אֹהֲבֵ֖י]] [[H6223\|עָשִׁ֣יר]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic POOR|POOR]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.19|<< Proverbs 14:19]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.21|Proverbs 14:21 >>]]</td></tr></table>
 

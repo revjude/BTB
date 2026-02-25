@@ -1,8 +1,62 @@
+---
+title: Hosea 1:11
+type: Verse
+kjv: "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel."
+bsb: "Then the people of Judah and of Israel will be gathered together, and they will appoint for themselves one leader, and will go up out of the land. For great will be the day of Jezreel."
+hebrew: "וְ֠נִקְבְּצוּ בְּנֵֽי־ יְהוּדָ֤ה וּבְנֵֽי־ יִשְׂרָאֵל֙ יַחְדָּ֔ו וְשָׂמ֥וּ לָהֶ֛ם רֹ֥אשׁ אֶחָ֖ד וְעָל֣וּ מִן־ הָאָ֑רֶץ כִּ֥י גָד֖וֹל י֥וֹם יִזְרְעֶֽאל׃"
+pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic JEZREEL|JEZREEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H3162B]]"
+- "[[H7760L]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7218H]]"
+- "[[H0259]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H1419A]]"
+- "[[H3117G]]"
+- "[[H3157H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 1:11**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great [shall be] the day of Jezreel.
 <small><sub>**BSB:**</sub></small>
 Then the people of Judah and of Israel will be gathered together, and they will appoint for themselves one leader, and will go up out of the land. For great will be the day of Jezreel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H6908\|נִקְבְּצוּ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3063G\|יְהוּדָ֤ה]] [[H9002\|וּ]][[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3162B\|יַחְדָּ֔ו]] [[H9001\|וְ]][[H7760L\|שָׂמ֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H7218H\|רֹ֥אשׁ]] [[H0259\|אֶחָ֖ד]] [[H9001\|וְ]][[H5927G\|עָל֣וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּ֥י]] [[H1419A\|גָד֖וֹל]] [[H3117G\|י֥וֹם]] [[H3157H\|יִזְרְעֶֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEZREEL|JEZREEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.10|<< Hosea 1:10]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.1|Hosea 2:1 >>]]</td></tr></table>
 

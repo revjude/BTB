@@ -1,10 +1,56 @@
+---
+title: Acts 7:25
+type: Verse
+kjv: "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not."
+bsb: "He assumed his brothers would understand that God was using him to deliver them, but they did not."
+greek: "ἐνόμιζεν δὲ συνιέναι τοὺς ἀδελφοὺς αὐτοῦ ὅτι ὁ θεὸς διὰ χειρὸς αὐτοῦ δίδωσιν σωτηρίαν αὐτοῖς· οἱ δὲ οὐ συνῆκαν."
+pericope: "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3543]]"
+- "[[G1161]]"
+- "[[G4920]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G5495]]"
+- "[[G1325]]"
+- "[[G4991]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **Acts 7:25**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
 <small><sub>**BSB:**</sub></small>
 He assumed his brothers would understand that God was using him to deliver them, but they did not.
-<small><sub>**Literal:**</sub></small>
-He was supposing now to understand the brothers of him that <the> God through [the] hand of him is giving salvation to them; <the> but not they understood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.24|<< Acts 7:24]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.26|Acts 7:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3543\|ἐνόμιζεν]]  [[G1161\|δὲ]]  [[G4920\|συνιέναι]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1223\|διὰ]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτοῦ]]  [[G1325\|δίδωσιν]]  [[G4991\|σωτηρίαν]]  [[G0846\|αὐτοῖς·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3756\|οὐ]]  [[G4920\|συνῆκαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic RASHNESS|RASHNESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.24|<< Acts 7:24]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.26|Acts 7:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

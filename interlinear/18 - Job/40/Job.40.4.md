@@ -1,8 +1,60 @@
+---
+title: Job 40:4
+type: Verse
+kjv: "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+bsb: "“Behold, I am insignificant. How can I reply to You? I place my hand over my mouth."
+hebrew: "הֵ֣ן קַ֭לֹּתִי מָ֣ה אֲשִׁיבֶ֑ךָּ יָ֝דִ֗י שַׂ֣מְתִּי לְמוֹ־ פִֽי׃"
+pericope: "[[Job.40.1 Job Humbles Himself before the LORD|Job Humbles Himself before the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOB|JOB]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2005]]"
+- "[[H7043]]"
+- "[[H4100]]"
+- "[[H7725M]]"
+- "[[H9031]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H7760H]]"
+- "[[H3926]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:4**<big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am insignificant. How can I reply to You? I place my hand over my mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H7043\|קַ֭לֹּתִי]] [[H4100\|מָ֣ה]] [[H7725M\|אֲשִׁיבֶ֑]][[H9031\|ךָּ]] [[H3027G\|יָ֝דִ֗]][[H9020\|י]] [[H7760H\|שַׂ֣מְתִּי]] [[H3926\|לְמוֹ]][[H9014\|־]] [[H6310G\|פִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JOB|JOB]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.3|<< Job 40:3]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.5|Job 40:5 >>]]</td></tr></table>
 

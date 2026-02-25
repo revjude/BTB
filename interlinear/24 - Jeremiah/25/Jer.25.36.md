@@ -1,8 +1,59 @@
+---
+title: Jeremiah 25:36
+type: Verse
+kjv: "A voice of the cry of the shepherds, and an howling of the principal of the flock, shall be heard: for the LORD hath spoiled their pasture."
+bsb: "Hear the cry of the shepherds, the wailing of the leaders of the flock, for the LORD is destroying their pasture."
+hebrew: "ק֚וֹל צַעֲקַ֣ת הָֽרֹעִ֔ים וִֽילְלַ֖ת אַדִּירֵ֣י הַצֹּ֑אן כִּֽי־ שֹׁדֵ֥ד יְהוָ֖ה אֶת־ מַרְעִיתָֽם׃"
+pericope: "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H6963A]]"
+- "[[H6818]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H3215]]"
+- "[[H0117]]"
+- "[[H6629G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7703]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4830]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:36**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of the cry of the shepherds, and an howling of the principal of the flock, [shall be heard]: for the LORD hath spoiled their pasture.
 <small><sub>**BSB:**</sub></small>
 Hear the cry of the shepherds, the wailing of the leaders of the flock, for the LORD is destroying their pasture.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֚וֹל]] [[H6818\|צַעֲקַ֣ת]] [[H9009\|הָֽ]][[H7462B\|רֹעִ֔ים]] [[H9002\|וִֽ]][[H3215\|ילְלַ֖ת]] [[H0117\|אַדִּירֵ֣י]] [[H9009\|הַ]][[H6629G\|צֹּ֑אן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7703\|שֹׁדֵ֥ד]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4830\|מַרְעִיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.35|<< Jeremiah 25:35]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.37|Jeremiah 25:37 >>]]</td></tr></table>
 

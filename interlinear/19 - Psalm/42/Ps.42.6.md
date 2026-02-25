@@ -1,8 +1,65 @@
+---
+title: Psalm 42:6
+type: Verse
+kjv: "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar."
+bsb: "O my God, my soul despairs within me. Therefore I remember You from the land of Jordan and the peaks of Hermon—even from Mount Mizar."
+hebrew: "אֱֽלֹהַ֗י עָלַי֮ נַפְשִׁ֪י תִשְׁתּ֫וֹחָ֥ח עַל־ כֵּ֗ן אֶ֭זְכָּרְךָ מֵאֶ֣רֶץ יַרְדֵּ֑ן וְ֝חֶרְמוֹנִ֗ים מֵהַ֥ר מִצְעָֽר׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MIZAR|MIZAR]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5315G]]"
+- "[[H7817]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H2142]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H2769]]"
+- "[[H2022G]]"
+- "[[H4706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:6**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 <small><sub>**BSB:**</sub></small>
 O my God, my soul despairs within me. Therefore I remember You from the land of Jordan and the peaks of Hermon—even from Mount Mizar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהַ֗]][[H9020\|י]] [[H5921A\|עָלַ]][[H9030\|י֮]] [[H5315G\|נַפְשִׁ֪]][[H9020\|י]] [[H7817\|תִשְׁתּ֫וֹחָ֥ח]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H2142\|אֶ֭זְכָּרְ]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H3383\|יַרְדֵּ֑ן]] [[H9002\|וְ֝]][[H2769\|חֶרְמוֹנִ֗ים]] [[H9006\|מֵ]][[H2022G\|הַ֥ר]] [[H4706\|מִצְעָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic MIZAR|MIZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.5|<< Psalms 42:5]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.7|Psalms 42:7 >>]]</td></tr></table>
 

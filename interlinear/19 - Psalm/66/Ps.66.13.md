@@ -1,8 +1,57 @@
+---
+title: Psalm 66:13
+type: Verse
+kjv: "I will go into thy house with burnt offerings: I will pay thee my vows,"
+bsb: "I will enter Your house with burnt offerings; I will fulfill my vows to You—"
+hebrew: "אָב֣וֹא בֵיתְךָ֣ בְעוֹל֑וֹת אֲשַׁלֵּ֖ם לְךָ֣ נְדָרָֽי׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H5930A]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5088]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:13**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go into thy house with burnt offerings: I will pay thee my vows,
 <small><sub>**BSB:**</sub></small>
 I will enter Your house with burnt offerings; I will fulfill my vows to You—
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|אָב֣וֹא]] [[H1004B\|בֵיתְ]][[H9021\|ךָ֣]] [[H9003\|בְ]][[H5930A\|עוֹל֑וֹת]] [[H7999A\|אֲשַׁלֵּ֖ם]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H5088\|נְדָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPTATION|TEMPTATION]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic VOWS|VOWS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.12|<< Psalms 66:12]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.14|Psalms 66:14 >>]]</td></tr></table>
 

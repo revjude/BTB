@@ -1,8 +1,71 @@
+---
+title: Genesis 12:13
+type: Verse
+kjv: "Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee."
+bsb: "Please say you are my sister, so that I will be treated well for your sake, and on account of you my life will be spared.”"
+hebrew: "אִמְרִי־ נָ֖א אֲחֹ֣תִי אָ֑תְּ לְמַ֙עַן֙ יִֽיטַב־ לִ֣י בַעֲבוּרֵ֔ךְ וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽךְ׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H0859C]]"
+- "[[H4616]]"
+- "[[H3190]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H5315H]]"
+- "[[H1558]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:13**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say, I pray thee, thou [art] my sister: that it may be well with me for thy sake; and my soul shall live because of thee.
 <small><sub>**BSB:**</sub></small>
 Please say you are my sister, so that I will be treated well for your sake, and on account of you my life will be spared.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אִמְרִי]][[H9014\|־]] [[H4994\|נָ֖א]] [[H0269\|אֲחֹ֣תִ]][[H9020\|י]] [[H0859C\|אָ֑תְּ]] [[H4616\|לְמַ֙עַן֙]] [[H3190\|יִֽיטַב]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9003\|בַ]][[H5668\|עֲבוּרֵ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H2421\|חָיְתָ֥ה]] [[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H9003\|בִּ]][[H1558\|גְלָלֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COWARDICE|COWARDICE]] • [[topic DECEPTION|DECEPTION]] • [[topic DOUBTING|DOUBTING]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.12|<< Genesis 12:12]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.14|Genesis 12:14 >>]]</td></tr></table>
 

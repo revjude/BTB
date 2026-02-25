@@ -1,8 +1,65 @@
+---
+title: Numbers 8:20
+type: Verse
+kjv: "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them."
+bsb: "So Moses, Aaron, and the whole congregation of Israel did with the Levites everything that the LORD had commanded Moses they should do."
+hebrew: "וַיַּ֨עַשׂ מֹשֶׁ֧ה וְאַהֲרֹ֛ן וְכָל־ עֲדַ֥ת בְּנֵי־ יִשְׂרָאֵ֖ל לַלְוִיִּ֑ם כְּ֠כֹל אֲשֶׁר־ צִוָּ֨ה יְהוָ֤ה אֶת־ מֹשֶׁה֙ לַלְוִיִּ֔ם כֵּן־ עָשׂ֥וּ לָהֶ֖ם בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9004]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3651C]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:20**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them.
 <small><sub>**BSB:**</sub></small>
 So Moses, Aaron, and the whole congregation of Israel did with the Levites everything that the LORD had commanded Moses they should do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֨עַשׂ]] [[H4872\|מֹשֶׁ֧ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֛ן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5712\|עֲדַ֥ת]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H9005\|לַ]][[H3881\|לְוִיִּ֔ם]] [[H3651C\|כֵּן]][[H9014\|־]] [[H6213A\|עָשׂ֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.19|<< Numbers 8:19]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.21|Numbers 8:21 >>]]</td></tr></table>
 

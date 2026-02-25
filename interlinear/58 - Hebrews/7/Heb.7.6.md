@@ -1,10 +1,58 @@
+---
+title: Hebrews 7:6
+type: Verse
+kjv: "But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises."
+bsb: "But Melchizedek, who did not trace his descent from Levi, collected a tenth from Abraham and blessed him who had the promises."
+greek: "ὁ δὲ μὴ γενεαλογούμενος ἐξ αὐτῶν δεδεκάτωκεν τὸν Ἀβραάμ· καὶ τὸν ἔχοντα τὰς ἐπαγγελίας εὐλόγηκεν."
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1075]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G1183]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G1860]]"
+- "[[G2127]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 7:6**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.
 <small><sub>**BSB:**</sub></small>
 But Melchizedek, who did not trace his descent from Levi, collected a tenth from Abraham and blessed him who had the promises.
-<small><sub>**Literal:**</sub></small>
-The [one] however not tracing his ancestry from them he has collected a tenth <the> from Abraham; and the [one who] is having the promises He has blessed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.5|<< Hebrews 7:5]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.7|Hebrews 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G1075\|γενεαλογούμενος]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1183\|δεδεκάτωκεν]]  [[G3588\|τὸν]]  [[G0011\|Ἀβραάμ·]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2192\|ἔχοντα]]  [[G3588\|τὰς]]  [[G1860\|ἐπαγγελίας]]  [[G2127\|εὐλόγηκεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TITHES|TITHES]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.5|<< Hebrews 7:5]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.7|Hebrews 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

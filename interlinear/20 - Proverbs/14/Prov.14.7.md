@@ -1,8 +1,56 @@
+---
+title: Proverbs 14:7
+type: Verse
+kjv: "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge."
+bsb: "Stay away from a foolish man; you will gain no knowledge from his speech."
+hebrew: "לֵ֣ךְ מִ֭נֶּגֶד לְאִ֣ישׁ כְּסִ֑יל וּבַל־ יָ֝דַ֗עְתָּ שִׂפְתֵי־ דָֽעַת׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H3684]]"
+- "[[H9002]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H8193H]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:7**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go from the presence of a foolish man, when thou perceivest not [in him] the lips of knowledge.
 <small><sub>**BSB:**</sub></small>
 Stay away from a foolish man; you will gain no knowledge from his speech.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לֵ֣ךְ]] [[H9006\|מִ֭]][[H5048\|נֶּגֶד]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H3684\|כְּסִ֑יל]] [[H9002\|וּ]][[H1077\|בַל]][[H9014\|־]] [[H3045\|יָ֝דַ֗עְתָּ]] [[H8193H\|שִׂפְתֵי]][[H9014\|־]] [[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FOOL|FOOL]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.6|<< Proverbs 14:6]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.8|Proverbs 14:8 >>]]</td></tr></table>
 

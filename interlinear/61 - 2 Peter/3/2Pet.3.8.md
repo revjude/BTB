@@ -1,10 +1,59 @@
+---
+title: 2 Peter 3:8
+type: Verse
+kjv: "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
+bsb: "Beloved, do not let this one thing escape your notice: With the Lord a day is like a thousand years, and a thousand years are like a day."
+greek: "Ἓν δὲ τοῦτο μὴ λανθανέτω ὑμᾶς, ἀγαπητοί, ὅτι μία ἡμέρα παρὰ κυρίῳ ὡς χίλια ἔτη καὶ χίλια ἔτη ὡς ἡμέρα μία."
+pericope: "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TIME|TIME]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[G1520]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3361]]"
+- "[[G2990]]"
+- "[[G4771]]"
+- "[[G0027]]"
+- "[[G3754G]]"
+- "[[G2250]]"
+- "[[G3844]]"
+- "[[G2962G]]"
+- "[[G5613]]"
+- "[[G5507]]"
+- "[[G2094]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:8**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But, beloved, be not ignorant of this one thing, that one day [is] with the Lord as a thousand years, and a thousand years as one day.
 <small><sub>**BSB:**</sub></small>
 Beloved, do not let this one thing escape your notice: With the Lord a day is like a thousand years, and a thousand years are like a day.
-<small><sub>**Literal:**</sub></small>
-[This] one however thing not should be hidden from you, beloved, that one day with [the] Lord [is] like a thousand years and a thousand years like day one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.7|<< 2 Peter 3:7]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.9|2 Peter 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1520\|Ἓν]]  [[G1161\|δὲ]]  [[G3778\|τοῦτο]]  [[G3361\|μὴ]]  [[G2990\|λανθανέτω]]  [[G4771\|ὑμᾶς,]]  [[G0027\|ἀγαπητοί,]]  [[G3754G\|ὅτι]]  [[G1520\|μία]]  [[G2250\|ἡμέρα]]  [[G3844\|παρὰ]]  [[G2962G\|κυρίῳ]]  [[G5613\|ὡς]]  [[G5507\|χίλια]]  [[G2094\|ἔτη]]  [[G2532\|καὶ]]  [[G5507\|χίλια]]  [[G2094\|ἔτη]]  [[G5613\|ὡς]]  [[G2250\|ἡμέρα]]  [[G1520\|μία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TIME|TIME]] • [[topic YEAR|YEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.7|<< 2 Peter 3:7]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.9|2 Peter 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 3:8** is...
 > $\quad$ alluding to: [[LXX.Ps.90.4|Ps 90:4]]

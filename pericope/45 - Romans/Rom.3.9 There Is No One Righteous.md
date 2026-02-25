@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: There Is No One Righteous
+type: Pericope
 pericope: "[[Rom.3.9 There Is No One Righteous|There Is No One Righteous]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Romans
 chapter: 3
 book/chapter: "[[Rom.3|Romans 3]]"
-genre:
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 12
 verses:
 - "[[Rom.3.9]]"
 - "[[Rom.3.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Rom.3.20]]"
 ---
 
-[[Rom.3|Romans 3:9 - Romans 3:20]]
+<small>[[Rom.3|Romans 3:9-20]]</small>
 *There Is No One Righteous*
 
 [[Rom.3.9|9]] What then? are we better \[than they\]? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;

@@ -1,8 +1,64 @@
+---
+title: Malachi 2:11
+type: Verse
+kjv: "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god."
+bsb: "Judah has broken faith; an abomination has been committed in Israel and in Jerusalem. For Judah has profaned the LORD’s beloved sanctuary by marrying the daughter of a foreign god."
+hebrew: "בָּגְדָ֣ה יְהוּדָ֔ה וְתוֹעֵבָ֛ה נֶעֶשְׂתָ֥ה בְיִשְׂרָאֵ֖ל וּבִירֽוּשָׁלִָ֑ם כִּ֣י׀ חִלֵּ֣ל יְהוּדָ֗ה קֹ֤דֶשׁ יְהוָה֙ אֲשֶׁ֣ר אָהֵ֔ב וּבָעַ֖ל בַּת־ אֵ֥ל נֵכָֽר׃"
+pericope: "[[Mal.2.10 Judah’s Unfaithfulness|Judah’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0898]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H8441]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H2490H]]"
+- "[[H6944G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H0157G]]"
+- "[[H1166I]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0410K]]"
+- "[[H5236]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:11**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.
 <small><sub>**BSB:**</sub></small>
 Judah has broken faith; an abomination has been committed in Israel and in Jerusalem. For Judah has profaned the LORD’s beloved sanctuary by marrying the daughter of a foreign god.
+<small><sub>**Hebrew:**</sub></small>
+[[H0898\|בָּגְדָ֣ה]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H8441\|תוֹעֵבָ֛ה]] [[H6213H\|נֶעֶשְׂתָ֥ה]] [[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H2490H\|חִלֵּ֣ל]] [[H3063G\|יְהוּדָ֗ה]] [[H6944G\|קֹ֤דֶשׁ]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0157G\|אָהֵ֔ב]] [[H9002\|וּ]][[H1166I\|בָעַ֖ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H0410K\|אֵ֥ל]] [[H5236\|נֵכָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 

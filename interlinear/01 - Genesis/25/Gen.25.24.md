@@ -1,8 +1,59 @@
+---
+title: Genesis 25:24
+type: Verse
+kjv: "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+bsb: "When her time came to give birth, there were indeed twins in her womb."
+hebrew: "וַיִּמְלְא֥וּ יָמֶ֖יהָ לָלֶ֑דֶת וְהִנֵּ֥ה תוֹמִ֖ם בְּבִטְנָֽהּ׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TWINS|TWINS]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8380]]"
+- "[[H9003]]"
+- "[[H0990H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:24**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when her days to be delivered were fulfilled, behold, [there were] twins in her womb.
 <small><sub>**BSB:**</sub></small>
 When her time came to give birth, there were indeed twins in her womb.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4390\|יִּמְלְא֥וּ]] [[H3117G\|יָמֶ֖י]][[H9024\|הָ]] [[H9005\|לָ]][[H3205\|לֶ֑דֶת]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H8380\|תוֹמִ֖ם]] [[H9003\|בְּ]][[H0990H\|בִטְנָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TWINS|TWINS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.23|<< Genesis 25:23]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.25|Genesis 25:25 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Exiles Who Returned with Ezra
+type: Pericope
 pericope: "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 8
 book/chapter: "[[Ezra.8|Ezra 8]]"
-genre:
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 14
 verses:
 - "[[Ezra.8.1]]"
 - "[[Ezra.8.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezra.8.14]]"
 ---
 
-[[Ezra.8|Ezra 8:1 - Ezra 8:14]]
+<small>[[Ezra.8|Ezra 8:1-14]]</small>
 *The Exiles Who Returned with Ezra*
 
 [[Ezra.8.1|1]] These \[are\] now the chief of their fathers, and \[this is\] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.

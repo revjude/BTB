@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boy Jesus at the Temple
+type: Pericope
 pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Luke
 chapter: 2
 book/chapter: "[[Luke.2|Luke 2]]"
-genre:
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 12
 verses:
 - "[[Luke.2.41]]"
 - "[[Luke.2.42]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Luke.2.52]]"
 ---
 
-[[Luke.2|Luke 2:41 - Luke 2:52]]
+<small>[[Luke.2|Luke 2:41-52]]</small>
 *The Boy Jesus at the Temple*
 
 [[Luke.2.41|41]] Now his parents went to Jerusalem every year at the feast of the passover.

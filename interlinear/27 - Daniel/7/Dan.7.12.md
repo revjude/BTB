@@ -1,8 +1,63 @@
+---
+title: Daniel 7:12
+type: Verse
+kjv: "As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time."
+bsb: "As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time."
+aramaic: "וּשְׁאָר֙ חֵֽיוָתָ֔א הֶעְדִּ֖יו שָׁלְטָנְה֑וֹן וְאַרְכָ֧ה בְחַיִּ֛ין יְהִ֥יבַת לְה֖וֹן עַד־ זְמַ֥ן וְעִדָּֽן׃"
+pericope: "[[Dan.7.9 Daniel’s Vision of the Ancient of Days|Daniel’s Vision of the Ancient of Days]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LION|LION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7606]]"
+- "[[H2423]]"
+- "[[H9010]]"
+- "[[H5709]]"
+- "[[H7985]]"
+- "[[H9028]]"
+- "[[H0754]]"
+- "[[H9003]]"
+- "[[H2417]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H2166]]"
+- "[[H5732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:12**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H7606\|שְׁאָר֙]] [[H2423\|חֵֽיוָתָ֔]][[H9010\|א]] [[H5709\|הֶעְדִּ֖יו]] [[H7985\|שָׁלְטָנְ]][[H9028\|ה֑וֹן]] [[H9002\|וְ]][[H0754\|אַרְכָ֧ה]] [[H9003\|בְ]][[H2417\|חַיִּ֛ין]] [[H3052\|יְהִ֥יבַת]] [[H9005\|לְ]][[H9038\|ה֖וֹן]] [[H5705\|עַד]][[H9014\|־]] [[H2166\|זְמַ֥ן]] [[H9002\|וְ]][[H5732\|עִדָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LION|LION]] • [[topic NATION|NATION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.11|<< Daniel 7:11]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.13|Daniel 7:13 >>]]</td></tr></table>
 

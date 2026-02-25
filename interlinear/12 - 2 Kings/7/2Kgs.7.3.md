@@ -1,8 +1,64 @@
+---
+title: 2 Kings 7:3
+type: Verse
+kjv: "And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?"
+bsb: "Now there were four men with leprosy at the entrance of the city gate, and they said to one another, “Why just sit here until we die?"
+hebrew: "וְאַרְבָּעָ֧ה אֲנָשִׁ֛ים הָי֥וּ מְצֹרָעִ֖ים פֶּ֣תַח הַשָּׁ֑עַר וַיֹּֽאמְרוּ֙ אִ֣ישׁ אֶל־ רֵעֵ֔הוּ מָ֗ה אֲנַ֛חְנוּ יֹשְׁבִ֥ים פֹּ֖ה עַד־ מָֽתְנוּ׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H0582]]"
+- "[[H1961]]"
+- "[[H6879]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4100]]"
+- "[[H0587]]"
+- "[[H3427]]"
+- "[[H6311]]"
+- "[[H5704]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:3**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?
 <small><sub>**BSB:**</sub></small>
 Now there were four men with leprosy at the entrance of the city gate, and they said to one another, “Why just sit here until we die?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0702\|אַרְבָּעָ֧ה]] [[H0582\|אֲנָשִׁ֛ים]] [[H1961\|הָי֥וּ]] [[H6879\|מְצֹרָעִ֖ים]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H4100\|מָ֗ה]] [[H0587\|אֲנַ֛חְנוּ]] [[H3427\|יֹשְׁבִ֥ים]] [[H6311\|פֹּ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H4191\|מָֽתְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEPROSY|LEPROSY]] • [[topic PROPHECY|PROPHECY]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.2|<< 2 Kings 7:2]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.4|2 Kings 7:4 >>]]</td></tr></table>
 

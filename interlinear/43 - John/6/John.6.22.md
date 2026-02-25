@@ -1,10 +1,73 @@
+---
+title: John 6:22
+type: Verse
+kjv: "The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;"
+bsb: "The next day, the crowd that had remained on the other side of the sea realized that only one boat had been there, and that Jesus had not boarded it with His disciples, but they had gone away alone."
+greek: "Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἓν ἐκεῖνο εἰς ὃ ἐνέβησαν οἱ μαθηταὶ αὐτοῦ, καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον·"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1887]]"
+- "[[G3793]]"
+- "[[G2476]]"
+- "[[G4008]]"
+- "[[G2281]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G4142]]"
+- "[[G0243]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1520]]"
+- "[[G1565]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1684]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3754H]]"
+- "[[G4897]]"
+- "[[G2424G]]"
+- "[[G4143]]"
+- "[[G0235]]"
+- "[[G3441]]"
+- "[[G0565]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 6:22**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but [that] his disciples were gone away alone;
 <small><sub>**BSB:**</sub></small>
 The next day, the crowd that had remained on the other side of the sea realized that only one boat had been there, and that Jesus had not boarded it with His disciples, but they had gone away alone.
-<small><sub>**Literal:**</sub></small>
-On the next day the crowd which already standing on the other side of the sea having seen that boat other no was there only except one that into which climbed the disciples of him and for not went with the disciples of Him <the> Jesus into the boat but alone the disciples of Him went away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.21|<< John 6:21]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.23|John 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1887\|ἐπαύριον]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G3588\|ὁ]]  [[G2476\|ἑστηκὼς]]  [[G4008\|πέραν]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G1492H\|εἶδον]]  [[G3754G\|ὅτι]]  [[G4142\|πλοιάριον]]  [[G0243\|ἄλλο]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G1563\|ἐκεῖ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|ἓν]]  [[G1565\|ἐκεῖνο]]  [[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G1684\|ἐνέβησαν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G4897\|συνεισῆλθεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G0235\|ἀλλὰ]]  [[G3441\|μόνοι]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G0565\|ἀπῆλθον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.21|<< John 6:21]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.23|John 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,51 @@
+---
+title: Job 5:1
+type: Verse
+kjv: "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?"
+bsb: "“Call out if you please, but who will answer? To which of the holy ones will you turn?"
+hebrew: "קְֽרָא־ נָ֭א הֲיֵ֣שׁ עוֹנֶ֑ךָּ וְאֶל־ מִ֖י מִקְּדֹשִׁ֣ים תִּפְנֶֽה׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H7121I]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H6030B]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H4310]]"
+- "[[H9006]]"
+- "[[H6918G]]"
+- "[[H6437G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:1**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?
 <small><sub>**BSB:**</sub></small>
 “Call out if you please, but who will answer? To which of the holy ones will you turn?
+<small><sub>**Hebrew:**</sub></small>
+[[H7121I\|קְֽרָא]][[H9014\|־]] [[H4994\|נָ֭א]] [[H9008\|הֲ]][[H3426\|יֵ֣שׁ]] [[H6030B\|עוֹנֶ֑]][[H9031\|ךָּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4310\|מִ֖י]] [[H9006\|מִ]][[H6918G\|קְּדֹשִׁ֣ים]] [[H6437G\|תִּפְנֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.21|<< Job 4:21]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.2|Job 5:2 >>]]</td></tr></table>
 

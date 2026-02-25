@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Atonement for an Unsolved Murder
+type: Pericope
 pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 21
 book/chapter: "[[Deut.21|Deuteronomy 21]]"
-genre:
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 9
 verses:
 - "[[Deut.21.1]]"
 - "[[Deut.21.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Deut.21.9]]"
 ---
 
-[[Deut.21|Deuteronomy 21:1 - Deuteronomy 21:9]]
+<small>[[Deut.21|Deuteronomy 21:1-9]]</small>
 *Atonement for an Unsolved Murder*
 
 [[Deut.21.1|1]] If \[one\] be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, \[and\] it be not known who hath slain him:

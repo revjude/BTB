@@ -1,8 +1,60 @@
+---
+title: Psalm 51:5
+type: Verse
+kjv: "Behold, I was shapen in iniquity; and in sin did my mother conceive me."
+bsb: "Surely I was brought forth in iniquity; I was sinful when my mother conceived me."
+hebrew: "הֵן־ בְּעָו֥וֹן חוֹלָ֑לְתִּי וּ֝בְחֵ֗טְא יֶֽחֱמַ֥תְנִי אִמִּֽי׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H2342H]]"
+- "[[H9002]]"
+- "[[H2399]]"
+- "[[H3179]]"
+- "[[H9030]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:5**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 <small><sub>**BSB:**</sub></small>
 Surely I was brought forth in iniquity; I was sinful when my mother conceived me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H9003\|בְּ]][[H5771G\|עָו֥וֹן]] [[H2342H\|חוֹלָ֑לְתִּי]] [[H9002\|וּ֝]][[H9003\|בְ]][[H2399\|חֵ֗טְא]] [[H3179\|יֶֽחֱמַ֥תְ]][[H9030\|נִי]] [[H0517\|אִמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DESIRE|DESIRE]] • [[topic HEREDITY|HEREDITY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.4|<< Psalms 51:4]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.6|Psalms 51:6 >>]]</td></tr></table>
 

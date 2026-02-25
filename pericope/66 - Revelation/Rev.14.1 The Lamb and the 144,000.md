@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lamb and the 144,000
+type: Pericope
 pericope: "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 14
 book/chapter: "[[Rev.14|Revelation 14]]"
-genre:
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.14.1]]"
 - "[[Rev.14.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.14.5]]"
 ---
 
-[[Rev.14|Revelation 14:1 - Revelation 14:5]]
+<small>[[Rev.14|Revelation 14:1-5]]</small>
 *The Lamb and the 144,000*
 
 [[Rev.14.1|1]] And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty \[and\] four thousand, having his Father’s name written in their foreheads.

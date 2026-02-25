@@ -1,8 +1,59 @@
+---
+title: Genesis 32:21
+type: Verse
+kjv: "So went the present over before him: and himself lodged that night in the company."
+bsb: "So Jacob’s gifts went on before him, while he spent the night in the camp."
+hebrew: "וַתַּעֲבֹ֥ר הַמִּנְחָ֖ה עַל־ פָּנָ֑יו וְה֛וּא לָ֥ן בַּלַּֽיְלָה־ הַה֖וּא בַּֽמַּחֲנֶֽה׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H4503H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:21**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So went the present over before him: and himself lodged that night in the company.
 <small><sub>**BSB:**</sub></small>
 So Jacob’s gifts went on before him, while he spent the night in the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|תַּעֲבֹ֥ר]] [[H9009\|הַ]][[H4503H\|מִּנְחָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פָּנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H3885A\|לָ֥ן]] [[H9003\|בַּ]][[H3915\|לַּֽיְלָה]][[H9014\|־]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.20|<< Genesis 32:20]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.22|Genesis 32:22 >>]]</td></tr></table>
 

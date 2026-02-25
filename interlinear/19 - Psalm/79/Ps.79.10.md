@@ -1,8 +1,65 @@
+---
+title: Psalm 79:10
+type: Verse
+kjv: "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed."
+bsb: "Why should the nations ask, “Where is their God?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants."
+hebrew: "לָ֤מָּה׀ יֹאמְר֣וּ הַגּוֹיִם֮ אַיֵּ֪ה אֱֽלֹהֵ֫יהֶ֥ם יִוָּדַ֣ע בַּגּוֹיִ֣ם לְעֵינֵ֑ינוּ נִ֝קְמַ֗ת דַּֽם־ עֲבָדֶ֥יךָ הַשָּׁפֽוּךְ׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0346]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9025]]"
+- "[[H5360]]"
+- "[[H1818]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H8210G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 79:10**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore should the heathen say, Where [is] their God? let him be known among the heathen in our sight [by] the revenging of the blood of thy servants [which is] shed.
 <small><sub>**BSB:**</sub></small>
 Why should the nations ask, “Where is their God?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]][[H9015\|׀]] [[H0559\|יֹאמְר֣וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֮]] [[H0346\|אַיֵּ֪ה]] [[H0430G\|אֱֽלֹהֵ֫י]][[H9028\|הֶ֥ם]] [[H3045\|יִוָּדַ֣ע]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H9005\|לְ]][[H5869A\|עֵינֵ֑י]][[H9025\|נוּ]] [[H5360\|נִ֝קְמַ֗ת]] [[H1818\|דַּֽם]][[H9014\|־]] [[H5650\|עֲבָדֶ֥י]][[H9021\|ךָ]] [[H9009\|הַ]][[H8210G\|שָּׁפֽוּךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.9|<< Psalms 79:9]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.11|Psalms 79:11 >>]]</td></tr></table>
 

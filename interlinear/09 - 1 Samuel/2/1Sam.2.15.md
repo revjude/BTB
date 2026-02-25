@@ -1,8 +1,80 @@
+---
+title: 1 Samuel 2:15
+type: Verse
+kjv: "Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw."
+bsb: "Even before the fat was burned, the servant of the priest would come and say to the man who was sacrificing, “Give the priest some meat to roast, because he will not accept boiled meat from you, but only raw.”"
+hebrew: "גַּם֮ בְּטֶרֶם֮ יַקְטִר֣וּן אֶת־ הַחֵלֶב֒ וּבָ֣א׀ נַ֣עַר הַכֹּהֵ֗ן וְאָמַר֙ לָאִ֣ישׁ הַזֹּבֵ֔חַ תְּנָ֣ה בָשָׂ֔ר לִצְל֖וֹת לַכֹּהֵ֑ן וְלֹֽא־ יִקַּ֧ח מִמְּךָ֛ בָּשָׂ֥ר מְבֻשָּׁ֖ל כִּ֥י אִם־ חָֽי׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FAT|FAT]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H6999A]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2459]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H5288]]"
+- "[[H3548]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H2076]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H1320]]"
+- "[[H6740]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3947H]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H1310]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:15**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.
 <small><sub>**BSB:**</sub></small>
 Even before the fat was burned, the servant of the priest would come and say to the man who was sacrificing, “Give the priest some meat to roast, because he will not accept boiled meat from you, but only raw.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם֮]] [[H9003\|בְּ]][[H2962\|טֶרֶם֮]] [[H6999A\|יַקְטִר֣וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵלֶב֒]] [[H9001\|וּ]][[H0935G\|בָ֣א]][[H9015\|׀]] [[H5288\|נַ֣עַר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H9005\|לָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H2076\|זֹּבֵ֔חַ]] [[H5414G\|תְּנָ֣]][[H9012\|ה]] [[H1320\|בָשָׂ֔ר]] [[H9005\|לִ]][[H6740\|צְל֖וֹת]] [[H9005\|לַ]][[H3548\|כֹּהֵ֑ן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3947H\|יִקַּ֧ח]] [[H4480A\|מִמְּ]][[H9031\|ךָ֛]] [[H1320\|בָּשָׂ֥ר]] [[H1310\|מְבֻשָּׁ֖ל]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FAT|FAT]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.14|<< 1 Samuel 2:14]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.16|1 Samuel 2:16 >>]]</td></tr></table>
 

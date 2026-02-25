@@ -1,8 +1,83 @@
+---
+title: Jeremiah 40:4
+type: Verse
+kjv: "And now, behold, I loose thee this day from the chains which were upon thine hand. If it seem good unto thee to come with me into Babylon, come; and I will look well unto thee: but if it seem ill unto thee to come with me into Babylon, forbear: behold, all the land is before thee: whither it seemeth good and convenient for thee to go, thither go."
+bsb: "But now, behold, I am freeing you today from the chains that were on your wrists. If it pleases you to come with me to Babylon, then come, and I will take care of you. But if it seems wrong to you to come with me to Babylon, go no farther. Look, the whole land is before you. Wherever it seems good and right to you, go there.”"
+hebrew: "וְעַתָּ֞ה הִנֵּ֧ה פִתַּחְתִּ֣יךָ הַיּ֗וֹם מִֽן־ הָאזִקִּים֮ אֲשֶׁ֣ר עַל־ יָדֶךָ֒ אִם־ ט֨וֹב בְּעֵינֶ֜יךָ לָב֧וֹא אִתִּ֣י בָבֶ֗ל בֹּ֚א וְאָשִׂ֤ים אֶת־ עֵינִי֙ עָלֶ֔יךָ וְאִם־ רַ֧ע בְּעֵינֶ֛יךָ לָבֽוֹא־ אִתִּ֥י בָבֶ֖ל חֲדָ֑ל רְאֵה֙ כָּל־ הָאָ֣רֶץ לְפָנֶ֔יךָ אֶל־ ט֨וֹב וְאֶל־ הַיָּשָׁ֧ר בְּעֵינֶ֛יךָ לָלֶ֥כֶת שָׁ֖מָּה לֵֽךְ׃"
+pericope: "[[Jer.40.1 Jeremiah Remains in Judah|Jeremiah Remains in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H6605A]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0246]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0518A]]"
+- "[[H2895]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0894]]"
+- "[[H7760K]]"
+- "[[H0853]]"
+- "[[H9020]]"
+- "[[H7489A]]"
+- "[[H2308]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H6440G]]"
+- "[[H0413]]"
+- "[[H2896A]]"
+- "[[H3477G]]"
+- "[[H1980G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 40:4**<big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I loose thee this day from the chains which [were] upon thine hand. If it seem good unto thee to come with me into Babylon, come; and I will look well unto thee: but if it seem ill unto thee to come with me into Babylon, forbear: behold, all the land [is] before thee: whither it seemeth good and convenient for thee to go, thither go.
 <small><sub>**BSB:**</sub></small>
 But now, behold, I am freeing you today from the chains that were on your wrists. If it pleases you to come with me to Babylon, then come, and I will take care of you. But if it seems wrong to you to come with me to Babylon, go no farther. Look, the whole land is before you. Wherever it seems good and right to you, go there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H2009\|הִנֵּ֧ה]] [[H6605A\|פִתַּחְתִּ֣י]][[H9031\|ךָ]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הָ]][[H0246\|אזִקִּים֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדֶ]][[H9021\|ךָ֒]] [[H0518A\|אִם]][[H9014\|־]] [[H2895\|ט֨וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֜י]][[H9021\|ךָ]] [[H9005\|לָ]][[H0935G\|ב֧וֹא]] [[H0854\|אִתִּ֣]][[H9030\|י]] [[H0894\|בָבֶ֗ל]] [[H0935G\|בֹּ֚א]] [[H9002\|וְ]][[H7760K\|אָשִׂ֤ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5869I\|עֵינִ]][[H9020\|י֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7489A\|רַ֧ע]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֛י]][[H9021\|ךָ]] [[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9014\|־]] [[H0854\|אִתִּ֥]][[H9030\|י]] [[H0894\|בָבֶ֖ל]] [[H2308\|חֲדָ֑ל]] [[H7200G\|רְאֵה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H2896A\|ט֨וֹב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֧ר]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֛י]][[H9021\|ךָ]] [[H9005\|לָ]][[H1980G\|לֶ֥כֶת]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H1980G\|לֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic JEREMIAH|JEREMIAH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.3|<< Jeremiah 40:3]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.5|Jeremiah 40:5 >>]]</td></tr></table>
 

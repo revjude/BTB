@@ -1,6 +1,75 @@
+---
+title: LXX Deuteronomy 3:21
+type: Verse
+lxx: "And to Joshua I gave charge at  that time, saying,  Your eyes have seen all as much as the lord our God did  to these two kings; so the lord shall do to all the kingdoms unto which you passed over there."
+greek: "και τω Ιησού ενετειλάμην εν τω καιρώ εκείνω λέγων οι οφθαλμοί υμών εωράκασι πάντα όσα εποίησε κύριος ο θεός ημών τοις δυσί βασιλεύσι τούτοις ούτως ποιήσει κύριος πάσαις ταις βασιλείας εφ΄ αις συ διαβαίνεις εκεί"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2424]]"
+- "[[G1781]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G3004]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G3708]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G0935]]"
+- "[[G3778]]"
+- "[[G3779]]"
+- "[[G4160]]"
+- "[[G2962]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G1224]]"
+- "[[G1563]]"
+---
+
 **LXX Deuteronomy 3:21** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Joshua I gave charge at  that time, saying,  Your eyes have seen all as much as \[the\] <span class="smallcaps">lord</span> our God did  to these two kings; so \[the\] <span class="smallcaps">lord</span> shall do to all the kingdoms unto which you passed over there. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τω]] [[G2424\|Ιησού]] [[G1781\|ενετειλάμην]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G3004\|λέγων]] [[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G1473\|υμών]] [[G3708\|εωράκασι]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G4160\|εποίησε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|ημών]] [[G3588\|τοις]] [[G1417\|δυσί]] [[G0935\|βασιλεύσι]] [[G3778\|τούτοις]] [[G3779\|ούτως]] [[G4160\|ποιήσει]] [[G2962\|κύριος]] [[G3956\|πάσαις]] [[G3588\|ταις]] [[G0932\|βασιλείας]] [[G1909\|εφ΄]] [[G3739\|αις]] [[G1473\|συ]] [[G1224\|διαβαίνεις]] [[G1563\|εκεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 
@@ -38,6 +107,6 @@ And \[to\] Joshua I gave charge at  that time, saying,  Your eyes have seen all 
 | you | **<big>[[G1473\|συ]]</big>** |
 | passed over | **<big>[[G1224\|διαβαίνεις]]</big>** |
 | there. | **<big>[[G1563\|εκεί]]</big>** |
-[[Deut.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 
 

@@ -1,8 +1,62 @@
+---
+title: Amos 4:4
+type: Verse
+kjv: "Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, and your tithes after three years:"
+bsb: "“Go to Bethel and transgress; rebel even more at Gilgal! Bring your sacrifices every morning, your tithes every three days."
+hebrew: "בֹּ֤אוּ בֵֽית־ אֵל֙ וּפִשְׁע֔וּ הַגִּלְגָּ֖ל הַרְבּ֣וּ לִפְשֹׁ֑עַ וְהָבִ֤יאוּ לַבֹּ֙קֶר֙ זִבְחֵיכֶ֔ם לִשְׁלֹ֥שֶׁת יָמִ֖ים מַעְשְׂרֹֽתֵיכֶֽם׃"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H0935G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H6586]]"
+- "[[H9009]]"
+- "[[H1537G]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H1242]]"
+- "[[H2077]]"
+- "[[H9026]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H4643]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 4:4**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come to Bethel, and transgress; at Gilgal multiply transgression; and bring your sacrifices every morning, [and] your tithes after three years:
 <small><sub>**BSB:**</sub></small>
 “Go to Bethel and transgress; rebel even more at Gilgal! Bring your sacrifices every morning, your tithes every three days.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בֹּ֤אוּ]] [[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵל֙]] [[H9002\|וּ]][[H6586\|פִשְׁע֔וּ]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֖ל]] [[H7235A\|הַרְבּ֣וּ]] [[H9005\|לִ]][[H6586\|פְשֹׁ֑עַ]] [[H9002\|וְ]][[H0935P\|הָבִ֤יאוּ]] [[H9005\|לַ]][[H1242\|בֹּ֙קֶר֙]] [[H2077\|זִבְחֵי]][[H9026\|כֶ֔ם]] [[H9005\|לִ]][[H7969\|שְׁלֹ֥שֶׁת]] [[H3117G\|יָמִ֖ים]] [[H4643\|מַעְשְׂרֹֽתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic GILGAL|GILGAL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IRONY|IRONY]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.3|<< Amos 4:3]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.5|Amos 4:5 >>]]</td></tr></table>
 

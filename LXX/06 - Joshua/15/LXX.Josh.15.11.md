@@ -1,6 +1,81 @@
+---
+title: LXX Joshua 15:11
+type: Verse
+lxx: "And the border shall pass out at the back of Ekron towards the north; and the borders shall pass out into Shicron, and shall go by the mount of the land of Baalah, and pass out at Jebneel; and the outer reaches will be the borders at the sea. And  their borders from the west -- the great sea shall define the bounds."
+greek: "και διεκβαλλεί το όριον κατά νώτου Ακκαρών επί βορράν και διεκβαλεί τα όρια εις Σαχαρωνά και παρελεύσεται όρος γης Βααλών και διεκβαλεί επί Ιαμνήλ και έσται η διέξοδος των ορίων επί θάλασσαν και τα όρια αυτών από θαλάσσης η θάλασσα η μεγάλη οριεί"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BAALAH|BAALAH]]"
+- "[[topic EKRON|EKRON]]"
+- "[[topic JABNEEL|JABNEEL]]"
+- "[[topic SHICRON|SHICRON]]"
+strongs:
+- "[[G2532]]"
+- "[[G6913]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G2596]]"
+- "[[G3577]]"
+- "[[H6138]]"
+- "[[G1909]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G6913]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1519]]"
+- "[[H7942]]"
+- "[[G2532]]"
+- "[[G3928]]"
+- "[[G3735]]"
+- "[[G1093]]"
+- "[[H1173]]"
+- "[[G2532]]"
+- "[[G6913]]"
+- "[[G1909]]"
+- "[[H2995]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1327]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G2281]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G3588]]"
+- "[[G3173]]"
+- "[[G3724]]"
+---
+
 **LXX Joshua 15:11** 
 <small><sub>**LXX:**</sub></small>
 And the border shall pass out at \[the\] back of Ekron towards \[the\] north; and the borders shall pass out into Shicron, and shall go by \[the\] mount \[of the\] land of Baalah, and pass out at Jebneel; and the outer reaches will be the borders at \[the\] sea. And  their borders from \[the\] west -- the great sea shall define the bounds. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G6913\|διεκβαλλεί]] [[G3588\|το]] [[G3725\|όριον]] [[G2596\|κατά]] [[G3577\|νώτου]] [[H6138\|Ακκαρών]] [[G1909\|επί]] [[G1005\|βορράν]] [[G2532\|και]] [[G6913\|διεκβαλεί]] [[G3588\|τα]] [[G3725\|όρια]] [[G1519\|εις]] [[H7942\|Σαχαρωνά]] [[G2532\|και]] [[G3928\|παρελεύσεται]] [[G3735\|όρος]] [[G1093\|γης]] [[H1173\|Βααλών]] [[G2532\|και]] [[G6913\|διεκβαλεί]] [[G1909\|επί]] [[H2995\|Ιαμνήλ]] [[G2532\|και]] [[G1510\|έσται]] [[G3588\|η]] [[G1327\|διέξοδος]] [[G3588\|των]] [[G3725\|ορίων]] [[G1909\|επί]] [[G2281\|θάλασσαν]] [[G2532\|και]] [[G3588\|τα]] [[G3725\|όρια]] [[G1473\|αυτών]] [[G0575\|από]] [[G2281\|θαλάσσης]] [[G3588\|η]] [[G2281\|θάλασσα]] [[G3588\|η]] [[G3173\|μεγάλη]] [[G3724\|οριεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALAH|BAALAH]] • [[topic EKRON|EKRON]] • [[topic JABNEEL|JABNEEL]] • [[topic SHICRON|SHICRON]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.10|<< Joshua 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.12|Joshua 15:12 >>]]</td></tr></table>
 
@@ -48,6 +123,6 @@ And the border shall pass out at \[the\] back of Ekron towards \[the\] north; an
 | \<obj.> | **<big>[[G3588\|η]]</big>** |
 | great | **<big>[[G3173\|μεγάλη]]</big>** |
 | shall define the bounds. | **<big>[[G3724\|οριεί]]</big>** |
-[[Josh.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.10|<< Joshua 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.12|Joshua 15:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.10|<< Joshua 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.12|Joshua 15:12 >>]]</td></tr></table>
 
 

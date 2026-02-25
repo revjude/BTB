@@ -1,8 +1,68 @@
+---
+title: Joshua 7:20
+type: Verse
+kjv: "And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done:"
+bsb: "“It is true,” Achan replied, “I have sinned against the LORD, the God of Israel. This is what I did:"
+hebrew: "וַיַּ֧עַן עָכָ֛ן אֶת־ יְהוֹשֻׁ֖עַ וַיֹּאמַ֑ר אָמְנָ֗ה אָנֹכִ֤י חָטָ֙אתִי֙ לַֽיהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכָזֹ֥את וְכָזֹ֖את עָשִֽׂיתִי׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H5912]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0559]]"
+- "[[H0546]]"
+- "[[H0595]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:20**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done:
 <small><sub>**BSB:**</sub></small>
 “It is true,” Achan replied, “I have sinned against the LORD, the God of Israel. This is what I did:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֧עַן]] [[H5912\|עָכָ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0546\|אָמְנָ֗ה]] [[H0595\|אָנֹכִ֤י]] [[H2398\|חָטָ֙אתִי֙]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H9004\|כָ]][[H2063\|זֹ֥את]] [[H9002\|וְ]][[H9004\|כָ]][[H2063\|זֹ֖את]] [[H6213A\|עָשִֽׂיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EVIDENCE|EVIDENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PLEADING|PLEADING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.19|<< Joshua 7:19]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.21|Joshua 7:21 >>]]</td></tr></table>
 

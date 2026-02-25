@@ -1,10 +1,62 @@
+---
+title: Matthew 23:29
+type: Verse
+kjv: "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,"
+bsb: "Woe to you, scribes and Pharisees, you hypocrites! You build tombs for the prophets and decorate the monuments of the righteous."
+jesus_said: "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,"
+greek: "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι οἰκοδομεῖτε τοὺς τάφους τῶν προφητῶν καὶ κοσμεῖτε τὰ μνημεῖα τῶν δικαίων"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G3618]]"
+- "[[G3588]]"
+- "[[G5028]]"
+- "[[G4396]]"
+- "[[G2885]]"
+- "[[G3419]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Matthew 23:29**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You build tombs for the prophets and decorate the monuments of the righteous.
-<small><sub>**Literal:**</sub></small>
-Woe to you, scribes and Pharisees hypocrites! For you build the tombs of the prophets and adorn the monuments of the righteous<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.28|<< Matthew 23:28]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.30|Matthew 23:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G3618\|οἰκοδομεῖτε]]  [[G3588\|τοὺς]]  [[G5028\|τάφους]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G2532\|καὶ]]  [[G2885\|κοσμεῖτε]]  [[G3588\|τὰ]]  [[G3419\|μνημεῖα]]  [[G3588\|τῶν]]  [[G1342\|δικαίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.28|<< Matthew 23:28]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.30|Matthew 23:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

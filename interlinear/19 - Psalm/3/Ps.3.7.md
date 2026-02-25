@@ -1,8 +1,63 @@
+---
+title: Psalm 3:7
+type: Verse
+kjv: "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly."
+bsb: "Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the teeth of the wicked."
+hebrew: "ק֘וּמָ֤ה יְהוָ֨ה׀ הוֹשִׁ֘יעֵ֤נִי אֱלֹהַ֗י כִּֽי־ הִכִּ֣יתָ אֶת־ כָּל־ אֹיְבַ֣י לֶ֑חִי שִׁנֵּ֖י רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃"
+pericope: "[[Ps.3.1 Deliver Me, O LORD!|Deliver Me, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 3
+book/chapter: "[[Ps.3|Psalm 3]]"
+chronological_order: 421
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H3467]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0341]]"
+- "[[H3895H]]"
+- "[[H8127G]]"
+- "[[H7563]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 3:7**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies [upon] the cheek bone; thou hast broken the teeth of the ungodly.
 <small><sub>**BSB:**</sub></small>
 Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the teeth of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֘וּמָ֤]][[H9012\|ה]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H3467\|הוֹשִׁ֘יעֵ֤]][[H9030\|נִי]] [[H0430G\|אֱלֹהַ֗]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5221\|הִכִּ֣יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹיְבַ֣]][[H9020\|י]] [[H3895H\|לֶ֑חִי]] [[H8127G\|שִׁנֵּ֖י]] [[H7563\|רְשָׁעִ֣ים]] [[H7665\|שִׁבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.6|<< Psalms 3:6]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.8|Psalms 3:8 >>]]</td></tr></table>
 

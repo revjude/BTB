@@ -1,8 +1,68 @@
+---
+title: 1 Kings 20:27
+type: Verse
+kjv: "And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country."
+bsb: "The Israelites also mobilized, gathered supplies, and marched out to meet them. The Israelites camped before them like two small flocks of goats, while the Arameans covered the countryside."
+hebrew: "וּבְנֵ֣י יִשְׂרָאֵ֗ל הָתְפָּקְדוּ֙ וְכָלְכְּל֔וּ וַיֵּלְכ֖וּ לִקְרָאתָ֑ם וַיַּחֲנ֨וּ בְנֵֽי־ יִשְׂרָאֵ֜ל נֶגְדָּ֗ם כִּשְׁנֵי֙ חֲשִׂפֵ֣י עִזִּ֔ים וַאֲרָ֖ם מִלְא֥וּ אֶת־ הָאָֽרֶץ׃"
+pericope: "[[1Kgs.20.26 Another War with Ben-hadad|Another War with Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6485A]]"
+- "[[H3557]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9038]]"
+- "[[H2583]]"
+- "[[H9014]]"
+- "[[H5048]]"
+- "[[H9004]]"
+- "[[H8147]]"
+- "[[H2835]]"
+- "[[H5795]]"
+- "[[H0758I]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:27**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.
 <small><sub>**BSB:**</sub></small>
 The Israelites also mobilized, gathered supplies, and marched out to meet them. The Israelites camped before them like two small flocks of goats, while the Arameans covered the countryside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H6485A\|הָתְפָּקְדוּ֙]] [[H9002\|וְ]][[H3557\|כָלְכְּל֔וּ]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9005\|לִ]][[H7122H\|קְרָאתָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H2583\|יַּחֲנ֨וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H5048\|נֶגְדָּ֗]][[H9038\|ם]] [[H9004\|כִּ]][[H8147\|שְׁנֵי֙]] [[H2835\|חֲשִׂפֵ֣י]] [[H5795\|עִזִּ֔ים]] [[H9002\|וַ]][[H0758I\|אֲרָ֖ם]] [[H4390\|מִלְא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.26|<< 1 Kings 20:26]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.28|1 Kings 20:28 >>]]</td></tr></table>
 

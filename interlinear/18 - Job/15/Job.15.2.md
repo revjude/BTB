@@ -1,8 +1,54 @@
+---
+title: Job 15:2
+type: Verse
+kjv: "Should a wise man utter vain knowledge, and fill his belly with the east wind?"
+bsb: "“Does a wise man answer with empty counsel or fill his belly with the hot east wind?"
+hebrew: "הֶֽחָכָ֗ם יַעֲנֶ֥ה דַֽעַת־ ר֑וּחַ וִֽימַלֵּ֖א קָדִ֣ים בִּטְנֽוֹ׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9008]]"
+- "[[H2450]]"
+- "[[H6030B]]"
+- "[[H1847]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H6921]]"
+- "[[H0990G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:2**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should a wise man utter vain knowledge, and fill his belly with the east wind?
 <small><sub>**BSB:**</sub></small>
 “Does a wise man answer with empty counsel or fill his belly with the hot east wind?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶֽ]][[H2450\|חָכָ֗ם]] [[H6030B\|יַעֲנֶ֥ה]] [[H1847\|דַֽעַת]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וִֽ]][[H4390\|ימַלֵּ֖א]] [[H6921\|קָדִ֣ים]] [[H0990G\|בִּטְנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.1|<< Job 15:1]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.3|Job 15:3 >>]]</td></tr></table>
 

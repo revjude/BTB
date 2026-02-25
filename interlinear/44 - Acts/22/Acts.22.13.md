@@ -1,10 +1,56 @@
+---
+title: Acts 22:13
+type: Verse
+kjv: "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him."
+bsb: "came and stood beside me. ‘Brother Saul,’ he said, ‘receive your sight.’ And at that moment I could see him."
+greek: "ἐλθὼν πρός με καὶ ἐπιστὰς εἶπέν μοι· Σαοὺλ ἀδελφέ, ἀνάβλεψον. κἀγὼ κἀγὼ αὐτῇ τῇ ὥρᾳ ἀνέβλεψα εἰς αὐτόν."
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2186]]"
+- "[[G2036]]"
+- "[[G4549G]]"
+- "[[G0080]]"
+- "[[G0308]]"
+- "[[G1473]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **Acts 22:13**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.
 <small><sub>**BSB:**</sub></small>
 came and stood beside me. ‘Brother Saul,’ he said, ‘receive your sight.’ And at that moment I could see him.
-<small><sub>**Literal:**</sub></small>
-having come to me and having stood by [me] he said to me; Saul brother, do receive sight. And I myself on the same <the> hour looked up at him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.12|<< Acts 22:12]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.14|Acts 22:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλθὼν]]  [[G4314\|πρός]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G2186\|ἐπιστὰς]]  [[G2036\|εἶπέν]]  [[G3165\|μοι·]]  [[G4549G\|Σαοὺλ]]  [[G0080\|ἀδελφέ,]]  [[G0308\|ἀνάβλεψον.]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G0308\|ἀνέβλεψα]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic DAMASCUS|DAMASCUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.12|<< Acts 22:12]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.14|Acts 22:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

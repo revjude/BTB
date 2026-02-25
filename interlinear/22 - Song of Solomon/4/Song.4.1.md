@@ -1,8 +1,62 @@
+---
+title: Song of Solomon 4:1
+type: Verse
+kjv: "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead."
+bsb: "How beautiful you are, my darling—how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead."
+hebrew: "הִנָּ֨ךְ יָפָ֤ה רַעְיָתִי֙ הִנָּ֣ךְ יָפָ֔ה עֵינַ֣יִךְ יוֹנִ֔ים מִבַּ֖עַד לְצַמָּתֵ֑ךְ שַׂעְרֵךְ֙ כְּעֵ֣דֶר הָֽעִזִּ֔ים שֶׁגָּלְשׁ֖וּ מֵהַ֥ר גִּלְעָֽד׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic GOAT|GOAT]]"
+strongs:
+- "[[H2005]]"
+- "[[H9042]]"
+- "[[H3303]]"
+- "[[H7474]]"
+- "[[H9020]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H3123]]"
+- "[[H9006]]"
+- "[[H1157]]"
+- "[[H9005]]"
+- "[[H6777]]"
+- "[[H8181]]"
+- "[[H9004]]"
+- "[[H5739]]"
+- "[[H9009]]"
+- "[[H5795]]"
+- "[[H9007]]"
+- "[[H1570]]"
+- "[[H2022H]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:1**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves’ eyes within thy locks: thy hair [is] as a flock of goats, that appear from mount Gilead.
 <small><sub>**BSB:**</sub></small>
 How beautiful you are, my darling—how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנָּ֨]][[H9042\|ךְ]] [[H3303\|יָפָ֤ה]] [[H7474\|רַעְיָתִ]][[H9020\|י֙]] [[H2005\|הִנָּ֣]][[H9042\|ךְ]] [[H3303\|יָפָ֔ה]] [[H5869A\|עֵינַ֣יִ]][[H9022\|ךְ]] [[H3123\|יוֹנִ֔ים]] [[H9006\|מִ]][[H1157\|בַּ֖עַד]] [[H9005\|לְ]][[H6777\|צַמָּתֵ֑]][[H9022\|ךְ]] [[H8181\|שַׂעְרֵ]][[H9022\|ךְ֙]] [[H9004\|כְּ]][[H5739\|עֵ֣דֶר]] [[H9009\|הָֽ]][[H5795\|עִזִּ֔ים]] [[H9007\|שֶׁ]][[H1570\|גָּלְשׁ֖וּ]] [[H9006\|מֵ]][[H2022H\|הַ֥ר]] [[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic GOAT|GOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.11|<< Song of Solomon 3:11]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.2|Song of Solomon 4:2 >>]]</td></tr></table>
 

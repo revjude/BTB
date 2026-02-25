@@ -1,10 +1,60 @@
+---
+title: Luke 5:25
+type: Verse
+kjv: "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
+bsb: "And immediately the man stood up before them, took what he had been lying on, and went home glorifying God."
+greek: "καὶ παραχρῆμα ἀναστὰς ἐνώπιον αὐτῶν, ἄρας ἐφ᾽ ὃ κατέκειτο, ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ δοξάζων τὸν θεόν."
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3916]]"
+- "[[G0450]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G0142]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G2621]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G1392]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:25**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.
 <small><sub>**BSB:**</sub></small>
 And immediately the man stood up before them, took what he had been lying on, and went home glorifying God.
-<small><sub>**Literal:**</sub></small>
-And immediately having stood up before them, having taken up [that] on which he was lying, he departed to the home of him glorifying <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.24|<< Luke 5:24]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.26|Luke 5:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3916\|παραχρῆμα]]  [[G0450\|ἀναστὰς]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτῶν,]]  [[G0142\|ἄρας]]  [[G1909\|ἐφ᾽]]  [[G3739\|ὃ]]  [[G2621\|κατέκειτο,]]  [[G0565\|ἀπῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ]]  [[G1392\|δοξάζων]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.24|<< Luke 5:24]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.26|Luke 5:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

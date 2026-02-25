@@ -1,8 +1,68 @@
+---
+title: Genesis 18:1
+type: Verse
+kjv: "And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;"
+bsb: "Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent."
+hebrew: "וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח־ הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם׃"
+pericope: "[[Gen.18.1 The Three Visitors|The Three Visitors]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MAMRE|MAMRE]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0436H]]"
+- "[[H4471G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H6607]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9004]]"
+- "[[H2527]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:1**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 <small><sub>**BSB:**</sub></small>
 Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יֵּרָ֤א]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H0436H\|אֵלֹנֵ֖י]] [[H4471G\|מַמְרֵ֑א]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H3427\|יֹשֵׁ֥ב]] [[H6607\|פֶּֽתַח]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֖הֶל]] [[H9004\|כְּ]][[H2527\|חֹ֥ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic ISAAC|ISAAC]] • [[topic MAMRE|MAMRE]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.27|<< Genesis 17:27]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.2|Genesis 18:2 >>]]</td></tr></table>
 

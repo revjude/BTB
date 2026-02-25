@@ -1,8 +1,72 @@
+---
+title: Genesis 9:2
+type: Verse
+kjv: "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+bsb: "The fear and dread of you will fall on every living creature on the earth, every bird of the air, every creature that crawls on the ground, and all the fish of the sea. They are delivered into your hand."
+hebrew: "וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כָּל־ חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כָּל־ ע֣וֹף הַשָּׁמָ֑יִם בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכָל־ דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FISH|FISH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4172A]]"
+- "[[H9026]]"
+- "[[H2844A]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H9003]]"
+- "[[H0834A]]"
+- "[[H7430]]"
+- "[[H0127G]]"
+- "[[H1709H]]"
+- "[[H3220G]]"
+- "[[H3027G]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:2**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.
 <small><sub>**BSB:**</sub></small>
 The fear and dread of you will fall on every living creature on the earth, every bird of the air, every creature that crawls on the ground, and all the fish of the sea. They are delivered into your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4172A\|מוֹרַאֲ]][[H9026\|כֶ֤ם]] [[H9002\|וְ]][[H2844A\|חִתְּ]][[H9026\|כֶם֙]] [[H1961\|יִֽהְיֶ֔ה]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9003\|בְּ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H7430\|תִּרְמֹ֧שׂ]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֛ה]] [[H9002\|וּֽ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1709H\|דְּגֵ֥י]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9003\|בְּ]][[H3027G\|יֶדְ]][[H9026\|כֶ֥ם]] [[H5414G\|נִתָּֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic FISH|FISH]] • [[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.1|<< Genesis 9:1]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.3|Genesis 9:3 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of the LORD
+type: Pericope
 pericope: "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 1
 book/chapter: "[[Zeph.1|Zephaniah 1]]"
-genre:
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 12
 verses:
 - "[[Zeph.1.7]]"
 - "[[Zeph.1.8]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Zeph.1.18]]"
 ---
 
-[[Zeph.1|Zephaniah 1:7 - Zephaniah 1:18]]
+<small>[[Zeph.1|Zephaniah 1:7-18]]</small>
 *The Day of the LORD*
 
 [[Zeph.1.7|7]] Hold thy peace at the presence of the Lord GOD: for the day of the LORD \[is\] at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.

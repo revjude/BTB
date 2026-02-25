@@ -1,8 +1,52 @@
+---
+title: Psalm 34:21
+type: Verse
+kjv: "Evil shall slay the wicked: and they that hate the righteous shall be desolate."
+bsb: "Evil will slay the wicked, and the haters of the righteous will be condemned."
+hebrew: "תְּמוֹתֵ֣ת רָשָׁ֣ע רָעָ֑ה וְשֹׂנְאֵ֖י צַדִּ֣יק יֶאְשָֽׁמוּ׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4191]]"
+- "[[H7563]]"
+- "[[H7451C]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H6662]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:21**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Evil shall slay the wicked: and they that hate the righteous shall be desolate.
 <small><sub>**BSB:**</sub></small>
 Evil will slay the wicked, and the haters of the righteous will be condemned.
+<small><sub>**Hebrew:**</sub></small>
+[[H4191\|תְּמוֹתֵ֣ת]] [[H7563\|רָשָׁ֣ע]] [[H7451C\|רָעָ֑ה]] [[H9002\|וְ]][[H8130\|שֹׂנְאֵ֖י]] [[H6662\|צַדִּ֣יק]] [[H0816\|יֶאְשָֽׁמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.20|<< Psalms 34:20]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.22|Psalms 34:22 >>]]</td></tr></table>
 

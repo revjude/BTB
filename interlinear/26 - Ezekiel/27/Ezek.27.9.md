@@ -1,8 +1,68 @@
+---
+title: Ezekiel 27:9
+type: Verse
+kjv: "The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise."
+bsb: "The elders of Gebal were aboard as shipwrights, repairing your leaks. All the ships of the sea and their sailors came alongside to barter for your merchandise."
+hebrew: "זִקְנֵ֨י גְבַ֤ל וַחֲכָמֶ֙יהָ֙ הָ֣יוּ בָ֔ךְ מַחֲזִיקֵ֖י בִּדְקֵ֑ךְ כָּל־ אֳנִיּ֨וֹת הַיָּ֤ם וּמַלָּֽחֵיהֶם֙ הָ֣יוּ בָ֔ךְ לַעֲרֹ֖ב מַעֲרָבֵֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CALKERS (CAULKERS)|CALKERS (CAULKERS)]]"
+- "[[topic GEBAL|GEBAL]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H2205G]]"
+- "[[H1380]]"
+- "[[H9002]]"
+- "[[H2450]]"
+- "[[H9024]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H2388G]]"
+- "[[H0919]]"
+- "[[H9022]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0591]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H4419]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H6148]]"
+- "[[H4627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:9**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ancients of Gebal and the wise [men] thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.
 <small><sub>**BSB:**</sub></small>
 The elders of Gebal were aboard as shipwrights, repairing your leaks. All the ships of the sea and their sailors came alongside to barter for your merchandise.
+<small><sub>**Hebrew:**</sub></small>
+[[H2205G\|זִקְנֵ֨י]] [[H1380\|גְבַ֤ל]] [[H9002\|וַ]][[H2450\|חֲכָמֶ֙י]][[H9024\|הָ֙]] [[H1961\|הָ֣יוּ]] [[H9003\|בָ֔]][[H9032\|ךְ]] [[H2388G\|מַחֲזִיקֵ֖י]] [[H0919\|בִּדְקֵ֑]][[H9022\|ךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H0591\|אֳנִיּ֨וֹת]] [[H9009\|הַ]][[H3220G\|יָּ֤ם]] [[H9002\|וּ]][[H4419\|מַלָּֽחֵי]][[H9028\|הֶם֙]] [[H1961\|הָ֣יוּ]] [[H9003\|בָ֔]][[H9032\|ךְ]] [[H9005\|לַ]][[H6148\|עֲרֹ֖ב]] [[H4627\|מַעֲרָבֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CALKERS (CAULKERS)|CALKERS (CAULKERS)]] • [[topic GEBAL|GEBAL]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.8|<< Ezekiel 27:8]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.10|Ezekiel 27:10 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Philippians 1:19
+type: Verse
+kjv: "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,"
+bsb: "because I know that through your prayers and the provision of the Spirit of Jesus Christ, my distress will turn out for my deliverance."
+greek: "οἶδα γὰρ ὅτι τοῦτό μοι ἀποβήσεται εἰς σωτηρίαν διὰ τῆς ὑμῶν δεήσεως καὶ ἐπιχορηγίας τοῦ πνεύματος Ἰησοῦ Χριστοῦ"
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G3165]]"
+- "[[G0576]]"
+- "[[G1519]]"
+- "[[G4991]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G1162]]"
+- "[[G2532]]"
+- "[[G2024]]"
+- "[[G4151G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Philippians 1:19**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 because I know that through your prayers and the provision of the Spirit of Jesus Christ, my distress will turn out for my deliverance.
-<small><sub>**Literal:**</sub></small>
-I know for that this for me will turn out to deliverance through <the> your prayer and [the] provision of the Spirit of Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.18|<< Philippians 1:18]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.20|Philippians 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3778\|τοῦτό]]  [[G3165\|μοι]]  [[G0576\|ἀποβήσεται]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4771\|ὑμῶν]]  [[G1162\|δεήσεως]]  [[G2532\|καὶ]]  [[G2024\|ἐπιχορηγίας]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TACT|TACT]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.18|<< Philippians 1:18]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.20|Philippians 1:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Philippians 1:19** is...
 > $\quad$ alluding to: [[LXX.Job.13.16|Job 13:16]]

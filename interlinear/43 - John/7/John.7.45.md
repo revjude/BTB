@@ -1,10 +1,55 @@
+---
+title: John 7:45
+type: Verse
+kjv: "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?"
+bsb: "Then the officers returned to the chief priests and Pharisees, who asked them, “Why didn’t you bring Him in?”"
+greek: "Ἦλθον οὖν οἱ ὑπηρέται πρὸς τοὺς ἀρχιερεῖς καὶ Φαρισαίους, καὶ εἶπον αὐτοῖς ἐκεῖνοι· διὰ τί οὐκ ἠγάγετε αὐτόν;"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5257]]"
+- "[[G4314]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1565]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3756]]"
+- "[[G0071]]"
+texts:
+- NKO
+---
+
 **John 7:45**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?
 <small><sub>**BSB:**</sub></small>
 Then the officers returned to the chief priests and Pharisees, who asked them, “Why didn’t you bring Him in?”
-<small><sub>**Literal:**</sub></small>
-Came therefore the officers to the chief priests and Pharisees, and said to them that; Because of why not did you bring Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.44|<< John 7:44]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.46|John 7:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἦλθον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαίους,]]  [[G2532\|καὶ]]  [[G2036\|εἶπον]]  [[G0846\|αὐτοῖς]]  [[G1565\|ἐκεῖνοι·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3756\|οὐκ]]  [[G0071\|ἠγάγετε]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.44|<< John 7:44]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.46|John 7:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

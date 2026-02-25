@@ -1,8 +1,58 @@
+---
+title: Nehemiah 12:45
+type: Verse
+kjv: "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son."
+bsb: "They performed the service of their God and the service of purification, along with the singers and gatekeepers, as David and his son Solomon had prescribed."
+hebrew: "וַֽיִּשְׁמְר֞וּ מִשְׁמֶ֤רֶת אֱלֹֽהֵיהֶם֙ וּמִשְׁמֶ֣רֶת הַֽטָּהֳרָ֔ה וְהַמְשֹׁרְרִ֖ים וְהַשֹּׁעֲרִ֑ים כְּמִצְוַ֥ת דָּוִ֖יד שְׁלֹמֹ֥ה בְנֽוֹ׃"
+pericope: "[[Neh.12.44 Provisions for Temple Worship|Provisions for Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H4931]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2893]]"
+- "[[H7891]]"
+- "[[H7778]]"
+- "[[H9004]]"
+- "[[H4687]]"
+- "[[H1732]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:45**<big><big>[[Neh.12.44 Provisions for Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, [and] of Solomon his son.
 <small><sub>**BSB:**</sub></small>
 They performed the service of their God and the service of purification, along with the singers and gatekeepers, as David and his son Solomon had prescribed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H8104G\|יִּשְׁמְר֞וּ]] [[H4931\|מִשְׁמֶ֤רֶת]] [[H0430G\|אֱלֹֽהֵי]][[H9028\|הֶם֙]] [[H9002\|וּ]][[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַֽ]][[H2893\|טָּהֳרָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H7778\|שֹּׁעֲרִ֑ים]] [[H9004\|כְּ]][[H4687\|מִצְוַ֥ת]] [[H1732\|דָּוִ֖יד]] [[H8010\|שְׁלֹמֹ֥ה]] [[H1121A\|בְנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.44|<< Nehemiah 12:44]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.46|Nehemiah 12:46 >>]]</td></tr></table>
 

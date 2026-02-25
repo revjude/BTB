@@ -1,10 +1,64 @@
+---
+title: Luke 18:24
+type: Verse
+kjv: "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!"
+bsb: "Seeing the man’s sadness, Jesus said, “How hard it is for the rich to enter the kingdom of God!"
+jesus_said: "How hardly shall they that have riches enter into the kingdom of God!"
+greek: "Ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς περίλυπον γενόμενον εἶπεν· πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσπορεύονται."
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4036]]"
+- "[[G1096]]"
+- "[[G2036]]"
+- "[[G4459]]"
+- "[[G1423]]"
+- "[[G5536]]"
+- "[[G2192]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1531]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:24**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!
 <small><sub>**BSB:**</sub></small>
 Seeing the man’s sadness, Jesus said, “How hard it is for the rich to enter the kingdom of God!
-<small><sub>**Literal:**</sub></small>
-Having seen then him <the> Jesus sorrowful became saying; How difficult [for] those <the> riches having [when] into the kingdom <the> of God they enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.23|<< Luke 18:23]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.25|Luke 18:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδὼν]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4036\|περίλυπον]]  [[G1096\|γενόμενον]]  [[G2036\|εἶπεν·]]  [[G4459\|πῶς]]  [[G1423\|δυσκόλως]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G5536\|χρήματα]]  [[G2192\|ἔχοντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1531\|εἰσπορεύονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.23|<< Luke 18:23]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.25|Luke 18:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

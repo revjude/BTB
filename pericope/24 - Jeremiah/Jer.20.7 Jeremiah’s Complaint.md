@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Complaint
+type: Pericope
 pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 20
 book/chapter: "[[Jer.20|Jeremiah 20]]"
-genre:
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 12
 verses:
 - "[[Jer.20.7]]"
 - "[[Jer.20.8]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Jer.20.18]]"
 ---
 
-[[Jer.20|Jeremiah 20:7 - Jeremiah 20:18]]
+<small>[[Jer.20|Jeremiah 20:7-18]]</small>
 *Jeremiah’s Complaint*
 
 [[Jer.20.7|7]] O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.

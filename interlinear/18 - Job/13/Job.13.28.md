@@ -1,8 +1,53 @@
+---
+title: Job 13:28
+type: Verse
+kjv: "And he, as a rotten thing, consumeth, as a garment that is moth eaten."
+bsb: "So man wastes away like something rotten, like a moth-eaten garment."
+hebrew: "וְ֭הוּא כְּרָקָ֣ב יִבְלֶ֑ה כְּ֝בֶ֗גֶד אֲכָ֣לוֹ עָֽשׁ׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LIFE|LIFE]]"
+- "[[topic MOTH|MOTH]]"
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H7538]]"
+- "[[H1086]]"
+- "[[H0899B]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H6211A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:28**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he, as a rotten thing, consumeth, as a garment that is moth eaten.
 <small><sub>**BSB:**</sub></small>
 So man wastes away like something rotten, like a moth-eaten garment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H1931\|הוּא]] [[H9004\|כְּ]][[H7538\|רָקָ֣ב]] [[H1086\|יִבְלֶ֑ה]] [[H9004\|כְּ֝]][[H0899B\|בֶ֗גֶד]] [[H0398\|אֲכָ֣ל]][[H9033\|וֹ]] [[H6211A\|עָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIFE|LIFE]] • [[topic MOTH|MOTH]] • [[topic REASONING|REASONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.27|<< Job 13:27]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.1|Job 14:1 >>]]</td></tr></table>
 

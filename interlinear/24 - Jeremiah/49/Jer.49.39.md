@@ -1,8 +1,59 @@
+---
+title: Jeremiah 49:39
+type: Verse
+kjv: "But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD."
+bsb: "“Yet in the last days, I will restore Elam from captivity,” declares the LORD."
+hebrew: "וְהָיָ֣ה׀ בְּאַחֲרִ֣ית הַיָּמִ֗ים אָשִׁ֛יב אֶת־ שְׁב֥וּת עֵילָ֖ם נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H5867A]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 49:39**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it shall come to pass in the latter days, [that] I will bring again the captivity of Elam, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Yet in the last days, I will restore Elam from captivity,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בְּ]][[H0319\|אַחֲרִ֣ית]] [[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H7725H\|אָשִׁ֛יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֥וּת]] [[H5867A\|עֵילָ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.38|<< Jeremiah 49:38]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.1|Jeremiah 50:1 >>]]</td></tr></table>
 
@@ -16,7 +67,7 @@ But it shall come to pass in the latter days, [that] I will bring again the capt
 | [the] captivity of  |**<big>&#8207;[[H7622\|שְׁב֥וּת]]&#8207; </big>**[^3] [^4] | she.vit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | Elam  |**<big>&#8207;[[H5867A\|עֵילָ֖ם]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.38|<< Jeremiah 49:38]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.1|Jeremiah 50:1 >>]]</td></tr></table>
 
 [^1]: I will turn back  | **<big>[[H7725H|אָשׁוּב]]</big> ** | 'a.shuv<small><sup>[[HVqi1cs]]</sup></small> | K

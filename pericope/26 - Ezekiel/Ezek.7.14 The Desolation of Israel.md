@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Desolation of Israel
+type: Pericope
 pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 7
 book/chapter: "[[Ezek.7|Ezekiel 7]]"
-genre:
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.7.14]]"
 - "[[Ezek.7.15]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.7.27]]"
 ---
 
-[[Ezek.7|Ezekiel 7:14 - Ezekiel 7:27]]
+<small>[[Ezek.7|Ezekiel 7:14-27]]</small>
 *The Desolation of Israel*
 
 [[Ezek.7.14|14]] They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath \[is\] upon all the multitude thereof.

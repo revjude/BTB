@@ -1,8 +1,69 @@
+---
+title: Exodus 39:31
+type: Verse
+kjv: "And they tied unto it a lace of blue, to fasten it on high upon the mitre; as the LORD commanded Moses."
+bsb: "Then they fastened to it a blue cord to mount it on the turban, just as the LORD had commanded Moses."
+hebrew: "וַיִּתְּנ֤וּ עָלָיו֙ פְּתִ֣יל תְּכֵ֔לֶת לָתֵ֥ת עַל־ הַמִּצְנֶ֖פֶת מִלְמָ֑עְלָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃ ס"
+pericope: "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic LACE|LACE]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6616]]"
+- "[[H8504]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4701]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 39:31**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they tied unto it a lace of blue, to fasten [it] on high upon the mitre; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 Then they fastened to it a blue cord to mount it on the turban, just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתְּנ֤וּ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H6616\|פְּתִ֣יל]] [[H8504\|תְּכֵ֔לֶת]] [[H9005\|לָ]][[H5414H\|תֵ֥ת]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4701\|מִּצְנֶ֖פֶת]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic LACE|LACE]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.30|<< Exodus 39:30]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.32|Exodus 39:32 >>]]</td></tr></table>
 
@@ -20,7 +81,7 @@ Then they fastened to it a blue cord to mount it on the turban, just as the LORD
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.30|<< Exodus 39:30]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.32|Exodus 39:32 >>]]</td></tr></table>
 
 

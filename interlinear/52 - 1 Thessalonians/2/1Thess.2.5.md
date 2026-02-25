@@ -1,10 +1,58 @@
+---
+title: 1 Thessalonians 2:5
+type: Verse
+kjv: "For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:"
+bsb: "As you know, we never used words of flattery or any pretext for greed. God is our witness!"
+greek: "οὔτε γάρ ποτε ἐν λόγῳ κολακείας ἐγενήθημεν, καθὼς οἴδατε, οὔτε ἐν προφάσει πλεονεξίας, θεὸς μάρτυς,"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3777]]"
+- "[[G1063]]"
+- "[[G4218]]"
+- "[[G1722]]"
+- "[[G3056]]"
+- "[[G2850]]"
+- "[[G1096]]"
+- "[[G2531]]"
+- "[[G6063]]"
+- "[[G4392]]"
+- "[[G4124]]"
+- "[[G2316]]"
+- "[[G3144]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 2:5**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God [is] witness:
 <small><sub>**BSB:**</sub></small>
 As you know, we never used words of flattery or any pretext for greed. God is our witness!
-<small><sub>**Literal:**</sub></small>
-Never for at any time with word of flattery were we, even as you know, nor with a pretext for greed — God [is] witness —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.4|<< 1 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.6|1 Thessalonians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3777\|οὔτε]]  [[G1063\|γάρ]]  [[G4218\|ποτε]]  [[G1722\|ἐν]]  [[G3056\|λόγῳ]]  [[G2850\|κολακείας]]  [[G1096\|ἐγενήθημεν,]]  [[G2531\|καθὼς]]  [[G6063\|οἴδατε,]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G4392\|προφάσει]]  [[G4124\|πλεονεξίας,]]  [[G2316\|θεὸς]]  [[G3144\|μάρτυς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FLATTERY|FLATTERY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic SINCERITY|SINCERITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.4|<< 1 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.6|1 Thessalonians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

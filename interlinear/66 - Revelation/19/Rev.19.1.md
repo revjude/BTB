@@ -1,10 +1,68 @@
+---
+title: Revelation 19:1
+type: Verse
+kjv: "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:"
+bsb: "After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah! Salvation and glory and power belong to our God!"
+greek: "Καὶ μετὰ ταῦτα ἤκουσα ὡς φωνὴν μεγάλην ὄχλου πολλοῦ ἐν τῷ οὐρανῷ λεγόντων· ἁλληλουϊά· ἡ σωτηρία καὶ ἡ δόξα καὶ ἡ τιμὴ καὶ ἡ δύναμις κυρίῳ τοῦ θεοῦ ἡμῶν,"
+pericope: "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HALLELUJAH|HALLELUJAH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G0191]]"
+- "[[G5613]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G0239]]"
+- "[[G4991]]"
+- "[[G1391]]"
+- "[[G5092]]"
+- "[[G1411]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3165]]"
+texts:
+- k
+- NKO
+- NO
+- N(k)O
+---
+
 **Revelation 19:1**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 <small><sub>**BSB:**</sub></small>
 After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah! Salvation and glory and power belong to our God!
-<small><sub>**Literal:**</sub></small>
-and After these things I heard [something] like a voice loud of a multitude great in <the> heaven crying out: Hallelujah! The salvation and the glory and the honor and the power to Lord <the> God of us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.24|<< Revelation 18:24]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.2|Revelation 19:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G0191\|ἤκουσα]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴν]]  [[G3173\|μεγάλην]]  [[G3793\|ὄχλου]]  [[G4183\|πολλοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G3004G\|λεγόντων·]]  [[G0239\|ἁλληλουϊά·]]  [[G3588\|ἡ]]  [[G4991\|σωτηρία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5092\|τιμὴ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1411\|δύναμις]]  [[G2962G\|κυρίῳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HALLELUJAH|HALLELUJAH]] • [[topic PRAISE|PRAISE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.24|<< Revelation 18:24]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.2|Revelation 19:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

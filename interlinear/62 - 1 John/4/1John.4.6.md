@@ -1,10 +1,56 @@
+---
+title: 1 John 4:6
+type: Verse
+kjv: "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error."
+bsb: "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception."
+greek: "ἡμεῖς ἐκ τοῦ θεοῦ ἐσμεν· ὁ γινώσκων τὸν θεὸν ἀκούει ἡμῶν· ὃς οὐκ ἔστιν ἐκ τοῦ θεοῦ οὐκ ἀκούει ἡμῶν. ἐκ τούτου γινώσκομεν τὸ πνεῦμα τῆς ἀληθείας καὶ τὸ πνεῦμα τῆς πλάνης.¶"
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1097]]"
+- "[[G0191]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G4151G]]"
+- "[[G0225]]"
+- "[[G2532]]"
+- "[[G4106]]"
+texts:
+- NKO
+---
+
 **1 John 4:6**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.
 <small><sub>**BSB:**</sub></small>
 We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception.
-<small><sub>**Literal:**</sub></small>
-We ourselves of <the> God are; The [one] knowing <the> God listens to us; He who not is from <the> God not listens to us. By this we know the Spirit <the> of truth and the spirit <the> of falsehood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.5|<< 1 John 4:5]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.7|1 John 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐσμεν·]]  [[G3588\|ὁ]]  [[G1097\|γινώσκων]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G0191\|ἀκούει]]  [[G3165\|ἡμῶν·]]  [[G3739\|ὃς]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούει]]  [[G3165\|ἡμῶν.]]  [[G1537\|ἐκ]]  [[G3778\|τούτου]]  [[G1097\|γινώσκομεν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G4106\|πλάνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.5|<< 1 John 4:5]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.7|1 John 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Ruth 4:18
+type: Verse
+kjv: "Now these are the generations of Pharez: Pharez begat Hezron,"
+bsb: "Now these are the generations of Perez: Perez was the father of Hezron,"
+hebrew: "וְאֵ֙לֶּה֙ תּוֹלְד֣וֹת פָּ֔רֶץ פֶּ֖רֶץ הוֹלִ֥יד אֶת־ חֶצְרֽוֹן׃"
+pericope: "[[Ruth.4.18 The Line of David|The Line of David]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic AMMINADAB|AMMINADAB]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic OBED|OBED]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H6557]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2696H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:18**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of Pharez: Pharez begat Hezron,
 <small><sub>**BSB:**</sub></small>
 Now these are the generations of Perez: Perez was the father of Hezron,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H8435\|תּוֹלְד֣וֹת]] [[H6557\|פָּ֔רֶץ]] [[H6557\|פֶּ֖רֶץ]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H2696H\|חֶצְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMINADAB|AMMINADAB]] • [[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic OBED|OBED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.17|<< Ruth 4:17]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.19|Ruth 4:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

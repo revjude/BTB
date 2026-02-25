@@ -1,8 +1,63 @@
+---
+title: Numbers 23:12
+type: Verse
+kjv: "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?"
+bsb: "But Balaam replied, “Should I not speak exactly what the LORD puts in my mouth?”"
+hebrew: "וַיַּ֖עַן וַיֹּאמַ֑ר הֲלֹ֗א אֵת֩ אֲשֶׁ֨ר יָשִׂ֤ים יְהוָה֙ בְּפִ֔י אֹת֥וֹ אֶשְׁמֹ֖ר לְדַבֵּֽר׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9033]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:12**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
 <small><sub>**BSB:**</sub></small>
 But Balaam replied, “Should I not speak exactly what the LORD puts in my mouth?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֖עַן]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H9008\|הֲ]][[H3808\|לֹ֗א]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H7760H\|יָשִׂ֤ים]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H6310G\|פִ֔]][[H9020\|י]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H8104J\|אֶשְׁמֹ֖ר]] [[H9005\|לְ]][[H1696G\|דַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.11|<< Numbers 23:11]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.13|Numbers 23:13 >>]]</td></tr></table>
 

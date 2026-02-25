@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Various Laws
+type: Pericope
 pericope: "[[Deut.22.1 Various Laws|Various Laws]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 22
 book/chapter: "[[Deut.22|Deuteronomy 22]]"
-genre:
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 12
 verses:
 - "[[Deut.22.1]]"
 - "[[Deut.22.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Deut.22.12]]"
 ---
 
-[[Deut.22|Deuteronomy 22:1 - Deuteronomy 22:12]]
+<small>[[Deut.22|Deuteronomy 22:1-12]]</small>
 *Various Laws*
 
 [[Deut.22.1|1]] Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.

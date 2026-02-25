@@ -1,8 +1,47 @@
+---
+title: Song of Solomon 2:16
+type: Verse
+kjv: "My beloved is mine, and I am his: he feedeth among the lilies."
+bsb: "My beloved is mine and I am his; he pastures his flock among the lilies."
+hebrew: "דּוֹדִ֥י לִי֙ וַאֲנִ֣י ל֔וֹ הָרֹעֶ֖ה בַּשּׁוֹשַׁנִּֽים׃"
+pericope: "[[Song.2.16 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H7799]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:16**<big><big>[[Song.2.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved [is] mine, and I [am] his: he feedeth among the lilies.
 <small><sub>**BSB:**</sub></small>
 My beloved is mine and I am his; he pastures his flock among the lilies.
+<small><sub>**Hebrew:**</sub></small>
+[[H1730G\|דּוֹדִ֥]][[H9020\|י]] [[H9005\|לִ]][[H9030\|י֙]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9009\|הָ]][[H7462B\|רֹעֶ֖ה]] [[H9003\|בַּ]][[H7799\|שּׁוֹשַׁנִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.15|<< Song of Solomon 2:15]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.17|Song of Solomon 2:17 >>]]</td></tr></table>
 

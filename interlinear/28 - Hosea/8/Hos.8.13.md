@@ -1,8 +1,65 @@
+---
+title: Hosea 8:13
+type: Verse
+kjv: "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt."
+bsb: "Though they offer sacrifices as gifts to Me, and though they eat the meat, the LORD does not accept them. Now He will remember their iniquity and punish their sins: They will return to Egypt."
+hebrew: "זִבְחֵ֣י הַבְהָבַ֗י יִזְבְּח֤וּ בָשָׂר֙ וַיֹּאכֵ֔לוּ יְהוָ֖ה לֹ֣א רָצָ֑ם עַתָּ֞ה יִזְכֹּ֤ר עֲוֹנָם֙ וְיִפְקֹ֣ד חַטֹּאותָ֔ם הֵ֖מָּה מִצְרַ֥יִם יָשֽׁוּבוּ׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H2077]]"
+- "[[H1890]]"
+- "[[H9020]]"
+- "[[H2076]]"
+- "[[H1320]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H7521]]"
+- "[[H9038]]"
+- "[[H6258]]"
+- "[[H2142]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6485H]]"
+- "[[H2403B]]"
+- "[[H1992]]"
+- "[[H4714G]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:13**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sacrifice flesh [for] the sacrifices of mine offerings, and eat [it; but] the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.
 <small><sub>**BSB:**</sub></small>
 Though they offer sacrifices as gifts to Me, and though they eat the meat, the LORD does not accept them. Now He will remember their iniquity and punish their sins: They will return to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H2077\|זִבְחֵ֣י]] [[H1890\|הַבְהָבַ֗]][[H9020\|י]] [[H2076\|יִזְבְּח֤וּ]] [[H1320\|בָשָׂר֙]] [[H9001\|וַ]][[H0398\|יֹּאכֵ֔לוּ]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֣א]] [[H7521\|רָצָ֑]][[H9038\|ם]] [[H6258\|עַתָּ֞ה]] [[H2142\|יִזְכֹּ֤ר]] [[H5771G\|עֲוֹנָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H6485H\|יִפְקֹ֣ד]] [[H2403B\|חַטֹּאותָ֔]][[H9028\|ם]] [[H1992\|הֵ֖מָּה]] [[H4714G\|מִצְרַ֥יִם]] [[H7725G\|יָשֽׁוּבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.12|<< Hosea 8:12]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.14|Hosea 8:14 >>]]</td></tr></table>
 

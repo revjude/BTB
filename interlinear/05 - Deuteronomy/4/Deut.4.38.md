@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 4:38
+type: Verse
+kjv: "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day."
+bsb: "to drive out before you nations greater and mightier than you, and to bring you into their land and give it to you for your inheritance, as it is this day."
+hebrew: "לְהוֹרִ֗ישׁ גּוֹיִ֛ם גְּדֹלִ֧ים וַעֲצֻמִ֛ים מִמְּךָ֖ מִפָּנֶ֑יךָ לַהֲבִֽיאֲךָ֗ לָֽתֶת־ לְךָ֧ אֶת־ אַרְצָ֛ם נַחֲלָ֖ה כַּיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6099]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H0935P]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H5159]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:38**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To drive out nations from before thee greater and mightier than thou [art], to bring thee in, to give thee their land [for] an inheritance, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
 to drive out before you nations greater and mightier than you, and to bring you into their land and give it to you for your inheritance, as it is this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3423H\|הוֹרִ֗ישׁ]] [[H1471A\|גּוֹיִ֛ם]] [[H1419A\|גְּדֹלִ֧ים]] [[H9002\|וַ]][[H6099\|עֲצֻמִ֛ים]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H9006\|מִ]][[H6440G\|פָּנֶ֑י]][[H9021\|ךָ]] [[H9005\|לַ]][[H0935P\|הֲבִֽיאֲ]][[H9031\|ךָ֗]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֧]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֛]][[H9028\|ם]] [[H5159\|נַחֲלָ֖ה]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.37|<< Deuteronomy 4:37]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.39|Deuteronomy 4:39 >>]]</td></tr></table>
 

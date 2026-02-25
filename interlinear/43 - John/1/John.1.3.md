@@ -1,10 +1,51 @@
+---
+title: John 1:3
+type: Verse
+kjv: "All things were made by him; and without him was not any thing made that was made."
+bsb: "Through Him all things were made, and without Him nothing was made that has been made."
+greek: "πάντα δι᾽ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἓν ὃ γέγονεν."
+pericope: "[[John.1.1 The Beginning|The Beginning]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G5565]]"
+- "[[G3761]]"
+- "[[G1520]]"
+- "[[G3739]]"
+texts:
+- NKO
+---
+
 **John 1:3**<big><big>[[John.1.1 The Beginning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All things were made by him; and without him was not any thing made that was made.
 <small><sub>**BSB:**</sub></small>
 Through Him all things were made, and without Him nothing was made that has been made.
-<small><sub>**Literal:**</sub></small>
-All things through Him came into being, and without Him came into being not even one [thing] that has come into being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.2|<< John 1:2]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.4|John 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο,]]  [[G2532\|καὶ]]  [[G5565\|χωρὶς]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο]]  [[G3761\|οὐδὲ]]  [[G1520\|ἓν]]  [[G3739\|ὃ]]  [[G1096\|γέγονεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.2|<< John 1:2]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.4|John 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

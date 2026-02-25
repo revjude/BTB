@@ -1,8 +1,65 @@
+---
+title: Judges 2:4
+type: Verse
+kjv: "And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept."
+bsb: "When the angel of the LORD had spoken these words to all the Israelites, the people lifted up their voices and wept."
+hebrew: "וַיְהִ֗י כְּדַבֵּ֞ר מַלְאַ֤ךְ יְהוָה֙ אֶת־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֶֽל־ כָּל־ בְּנֵ֖י יִשְׂרָאֵ֑ל וַיִּשְׂא֥וּ הָעָ֛ם אֶת־ קוֹלָ֖ם וַיִּבְכּֽוּ׃"
+pericope: "[[Judg.2.1 Israel Rebuked at Bochim|Israel Rebuked at Bochim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1696G]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5375N]]"
+- "[[H5971A]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H1058]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:4**<big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.
 <small><sub>**BSB:**</sub></small>
 When the angel of the LORD had spoken these words to all the Israelites, the people lifted up their voices and wept.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H1696G\|דַבֵּ֞ר]] [[H4397H\|מַלְאַ֤ךְ]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֖י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5375N\|יִּשְׂא֥וּ]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|קוֹלָ֖]][[H9028\|ם]] [[H9001\|וַ]][[H1058\|יִּבְכּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.3|<< Judges 2:3]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.5|Judges 2:5 >>]]</td></tr></table>
 

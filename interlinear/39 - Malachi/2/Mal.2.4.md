@@ -1,8 +1,63 @@
+---
+title: Malachi 2:4
+type: Verse
+kjv: "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts."
+bsb: "Then you will know that I have sent you this commandment so that My covenant with Levi may continue,” says the LORD of Hosts."
+hebrew: "וִֽידַעְתֶּ֕ם כִּ֚י שִׁלַּ֣חְתִּי אֲלֵיכֶ֔ם אֵ֖ת הַמִּצְוָ֣ה הַזֹּ֑את לִֽהְי֤וֹת בְּרִיתִי֙ אֶת־ לֵוִ֔י אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3878]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:4**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 Then you will know that I have sent you this commandment so that My covenant with Levi may continue,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֚י]] [[H7971G\|שִׁלַּ֣חְתִּי]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H0853\|אֵ֖ת]] [[H9009\|הַ]][[H4687\|מִּצְוָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9005\|לִֽ]][[H1961\|הְי֤וֹת]] [[H1285\|בְּרִיתִ]][[H9020\|י֙]] [[H0854\|אֶת]][[H9014\|־]] [[H3878\|לֵוִ֔י]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.3|<< Malachi 2:3]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.5|Malachi 2:5 >>]]</td></tr></table>
 

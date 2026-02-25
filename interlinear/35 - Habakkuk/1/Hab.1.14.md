@@ -1,8 +1,57 @@
+---
+title: Habakkuk 1:14
+type: Verse
+kjv: "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?"
+bsb: "You have made men like the fish of the sea, like creeping things that have no ruler."
+hebrew: "וַתַּעֲשֶׂ֥ה אָדָ֖ם כִּדְגֵ֣י הַיָּ֑ם כְּרֶ֖מֶשׂ לֹא־ מֹשֵׁ֥ל בּֽוֹ׃"
+pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0120G]]"
+- "[[H9004]]"
+- "[[H1709H]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H7431]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:14**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And makest men as the fishes of the sea, as the creeping things, [that have] no ruler over them?
 <small><sub>**BSB:**</sub></small>
 You have made men like the fish of the sea, like creeping things that have no ruler.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|תַּעֲשֶׂ֥ה]] [[H0120G\|אָדָ֖ם]] [[H9004\|כִּ]][[H1709H\|דְגֵ֣י]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9004\|כְּ]][[H7431\|רֶ֖מֶשׂ]] [[H3808\|לֹא]][[H9014\|־]] [[H4910\|מֹשֵׁ֥ל]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.13|<< Habakkuk 1:13]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.15|Habakkuk 1:15 >>]]</td></tr></table>
 

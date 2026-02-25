@@ -1,10 +1,56 @@
+---
+title: Ephesians 6:22
+type: Verse
+kjv: "Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts."
+bsb: "I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts."
+greek: "ὃν ἔπεμψα πρὸς ὑμᾶς εἰς αὐτὸ τοῦτο ἵνα γνῶτε τὰ περὶ ἡμῶν, καὶ παρακαλέσῃ τὰς καρδίας ὑμῶν."
+pericope: "[[Eph.6.21 Final Greetings|Final Greetings]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic TYCHICUS|TYCHICUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G2443]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G2588]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:22**<big><big>[[Eph.6.21 Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom I have sent unto you for the same purpose, that ye might know our affairs, and [that] he might comfort your hearts.
 <small><sub>**BSB:**</sub></small>
 I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.
-<small><sub>**Literal:**</sub></small>
-whom I have sent to you for this very purpose that you may know the [things] concerning us, and he may encourage the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.21|<< Ephesians 6:21]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.23|Ephesians 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G3992\|ἔπεμψα]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸ]]  [[G3778\|τοῦτο]]  [[G2443\|ἵνα]]  [[G1097\|γνῶτε]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν,]]  [[G2532\|καὶ]]  [[G3870\|παρακαλέσῃ]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic TYCHICUS|TYCHICUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.21|<< Ephesians 6:21]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.23|Ephesians 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

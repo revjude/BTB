@@ -1,8 +1,61 @@
+---
+title: Job 8:6
+type: Verse
+kjv: "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
+bsb: "if you are pure and upright, even now He will rouse Himself on your behalf and restore your righteous estate."
+hebrew: "אִם־ זַ֥ךְ וְיָשָׁ֗ר אָ֥תָּה כִּי־ עַ֭תָּה יָעִ֣יר עָלֶ֑יךָ וְ֝שִׁלַּ֗ם נְוַ֣ת צִדְקֶֽךָ׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2134]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H0859A]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H5782]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H7999A]]"
+- "[[H5116A]]"
+- "[[H6664G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:6**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou [wert] pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.
 <small><sub>**BSB:**</sub></small>
 if you are pure and upright, even now He will rouse Himself on your behalf and restore your righteous estate.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2134\|זַ֥ךְ]] [[H9002\|וְ]][[H3477G\|יָשָׁ֗ר]] [[H0859A\|אָ֥תָּה]] [[H3588A\|כִּי]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H5782\|יָעִ֣יר]] [[H5921A\|עָלֶ֑י]][[H9031\|ךָ]] [[H9001\|וְ֝]][[H7999A\|שִׁלַּ֗ם]] [[H5116A\|נְוַ֣ת]] [[H6664G\|צִדְקֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.5|<< Job 8:5]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.7|Job 8:7 >>]]</td></tr></table>
 

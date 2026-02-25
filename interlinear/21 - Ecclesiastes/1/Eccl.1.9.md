@@ -1,8 +1,51 @@
+---
+title: Ecclesiastes 1:9
+type: Verse
+kjv: "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+bsb: "What has been will be again, and what has been done will be done again; there is nothing new under the sun."
+hebrew: "מַה־ שֶּֽׁהָיָה֙ ה֣וּא שֶׁיִּהְיֶ֔ה וּמַה־ שֶׁנַּֽעֲשָׂ֔ה ה֖וּא שֶׁיֵּעָשֶׂ֑ה וְאֵ֥ין כָּל־ חָדָ֖שׁ תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.1.1 Everything Is Futile|Everything Is Futile]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H0369]]"
+- "[[H3605]]"
+- "[[H2319H]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Ecclesiastes 1:9**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thing that hath been, it [is that] which shall be; and that which is done [is] that which shall be done: and [there is] no new [thing] under the sun.
 <small><sub>**BSB:**</sub></small>
 What has been will be again, and what has been done will be done again; there is nothing new under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶּֽׁ]][[H1961\|הָיָה֙]] [[H1931\|ה֣וּא]] [[H9007\|שֶׁ]][[H1961\|יִּהְיֶ֔ה]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶׁ]][[H6213A\|נַּֽעֲשָׂ֔ה]] [[H1931\|ה֖וּא]] [[H9007\|שֶׁ]][[H6213A\|יֵּעָשֶׂ֑ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H3605\|כָּל]][[H9014\|־]] [[H2319H\|חָדָ֖שׁ]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.8|<< Ecclesiastes 1:8]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.10|Ecclesiastes 1:10 >>]]</td></tr></table>
 

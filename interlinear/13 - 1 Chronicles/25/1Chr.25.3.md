@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 25:3
+type: Verse
+kjv: "Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD."
+bsb: "From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six in all—under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD."
+hebrew: "לִידוּת֑וּן בְּנֵ֣י יְדוּת֡וּן גְּדַלְיָ֡הוּ וּצְרִ֡י וִֽ֠ישַׁעְיָהוּ חֲשַׁבְיָ֨הוּ וּמַתִּתְיָ֜הוּ שִׁשָּׁ֗ה עַל֩ יְדֵ֨י אֲבִיהֶ֤ם יְדוּתוּן֙ בַּכִּנּ֔וֹר הַנִּבָּ֕א עַל־ הֹד֥וֹת וְהַלֵּ֖ל לַיהוָֽה׃ ס"
+pericope: "[[1Chr.25.1 Twenty-Four Divisions of Musicians|Twenty-Four Divisions of Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 25
+book/chapter: "[[1Chr.25|1 Chronicles 25]]"
+chronological_order: 436
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HARP|HARP]]"
+- "[[topic HASHABIAH|HASHABIAH]]"
+- "[[topic HEMAN|HEMAN]]"
+- "[[topic JESAIAH|JESAIAH]]"
+- "[[topic MATTITHIAH|MATTITHIAH]]"
+- "[[topic ZERI|ZERI]]"
+strongs:
+- "[[H9005]]"
+- "[[H3038G]]"
+- "[[H1121A]]"
+- "[[H1436I]]"
+- "[[H9002]]"
+- "[[H6874]]"
+- "[[H3470H]]"
+- "[[H2811I]]"
+- "[[H4993H]]"
+- "[[H8337]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H3658]]"
+- "[[H9009]]"
+- "[[H5012]]"
+- "[[H9014]]"
+- "[[H3034]]"
+- "[[H1984B]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 25:3**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.
 <small><sub>**BSB:**</sub></small>
 From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah—six in all—under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H3038G\|ידוּת֑וּן]] [[H1121A\|בְּנֵ֣י]] [[H3038G\|יְדוּת֡וּן]] [[H1436I\|גְּדַלְיָ֡הוּ]] [[H9002\|וּ]][[H6874\|צְרִ֡י]] [[H9002\|וִֽ֠]][[H3470H\|ישַׁעְיָהוּ]] [[H2811I\|חֲשַׁבְיָ֨הוּ]] [[H9002\|וּ]][[H4993H\|מַתִּתְיָ֜הוּ]] [[H8337\|שִׁשָּׁ֗ה]] [[H5921A\|עַל֩]] [[H3027H\|יְדֵ֨י]] [[H0001G\|אֲבִי]][[H9028\|הֶ֤ם]] [[H3038G\|יְדוּתוּן֙]] [[H9003\|בַּ]][[H3658\|כִּנּ֔וֹר]] [[H9009\|הַ]][[H5012\|נִּבָּ֕א]] [[H5921A\|עַל]][[H9014\|־]] [[H3034\|הֹד֥וֹת]] [[H9002\|וְ]][[H1984B\|הַלֵּ֖ל]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HARP|HARP]] • [[topic HASHABIAH|HASHABIAH]] • [[topic HEMAN|HEMAN]] • [[topic JESAIAH|JESAIAH]] • [[topic MATTITHIAH|MATTITHIAH]] • [[topic ZERI|ZERI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.2|<< 1 Chronicles 25:2]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.4|1 Chronicles 25:4 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Matt
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to give thanks  |**<big>&#8207;[[H3034\|הֹד֥וֹת]]&#8207; </big>**| ho.Dot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to praise  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1984B\|הַלֵּ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.2|<< 1 Chronicles 25:2]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.4|1 Chronicles 25:4 >>]]</td></tr></table>
 
 

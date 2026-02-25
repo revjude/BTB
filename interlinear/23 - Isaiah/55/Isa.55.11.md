@@ -1,8 +1,67 @@
+---
+title: Isaiah 55:11
+type: Verse
+kjv: "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it."
+bsb: "so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it."
+hebrew: "כֵּ֣ן יִֽהְיֶ֤ה דְבָרִי֙ אֲשֶׁ֣ר יֵצֵ֣א מִפִּ֔י לֹֽא־ יָשׁ֥וּב אֵלַ֖י רֵיקָ֑ם כִּ֤י אִם־ עָשָׂה֙ אֶת־ אֲשֶׁ֣ר חָפַ֔צְתִּי וְהִצְלִ֖יחַ אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7387]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H2654A]]"
+- "[[H9001]]"
+- "[[H6743B]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:11**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper [in the thing] whereto I sent it.
 <small><sub>**BSB:**</sub></small>
 so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֣ן]] [[H1961\|יִֽהְיֶ֤ה]] [[H1697G\|דְבָרִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3318G\|יֵצֵ֣א]] [[H9006\|מִ]][[H6310G\|פִּ֔]][[H9020\|י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|יָשׁ֥וּב]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H7387\|רֵיקָ֑ם]] [[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H6213A\|עָשָׂה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H2654A\|חָפַ֔צְתִּי]] [[H9001\|וְ]][[H6743B\|הִצְלִ֖יחַ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|שְׁלַחְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.10|<< Isaiah 55:10]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.12|Isaiah 55:12 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: Acts 16:19
+type: Verse
+kjv: "And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers,"
+bsb: "When the girl’s owners saw that their hope of making money was gone, they seized Paul and Silas and dragged them before the authorities in the marketplace."
+greek: "ἰδόντες δὲ οἱ κύριοι αὐτῆς ὅτι ἐξῆλθεν ἡ ἐλπὶς τῆς ἐργασίας αὐτῶν, ἐπιλαβόμενοι τὸν Παῦλον καὶ τὸν Σιλᾶν εἵλκυσαν εἰς τὴν ἀγορὰν ἐπὶ τοὺς ἄρχοντας,"
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1831]]"
+- "[[G1680]]"
+- "[[G2039]]"
+- "[[G1949]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G4609]]"
+- "[[G1670]]"
+- "[[G1519]]"
+- "[[G0058]]"
+- "[[G1909]]"
+- "[[G0758]]"
+texts:
+- NKO
+---
+
 **Acts 16:19**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew [them] into the marketplace unto the rulers,
 <small><sub>**BSB:**</sub></small>
 When the girl’s owners saw that their hope of making money was gone, they seized Paul and Silas and dragged them before the authorities in the marketplace.
-<small><sub>**Literal:**</sub></small>
-Having seen now the masters of her that was gone the hope of the profit of them, having taken hold of <the> Paul and <the> Silas they dragged [them] into the marketplace before the rulers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.18|<< Acts 16:18]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.20|Acts 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G2962H\|κύριοι]]  [[G0846\|αὐτῆς]]  [[G3754G\|ὅτι]]  [[G1831\|ἐξῆλθεν]]  [[G3588\|ἡ]]  [[G1680\|ἐλπὶς]]  [[G3588\|τῆς]]  [[G2039\|ἐργασίας]]  [[G0846\|αὐτῶν,]]  [[G1949\|ἐπιλαβόμενοι]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G4609\|Σιλᾶν]]  [[G1670\|εἵλκυσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0058\|ἀγορὰν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0758\|ἄρχοντας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic MALICE|MALICE]] • [[topic MARKET|MARKET]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.18|<< Acts 16:18]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.20|Acts 16:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Thorn and God’s Grace
+type: Pericope
 pericope: "[[2Cor.12.5 Paul’s Thorn and God’s Grace|Paul’s Thorn and God’s Grace]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 12
 book/chapter: "[[2Cor.12|2 Corinthians 12]]"
-genre:
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 6
 verses:
 - "[[2Cor.12.5]]"
 - "[[2Cor.12.6]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Cor.12.10]]"
 ---
 
-[[2Cor.12|2 Corinthians 12:5 - 2 Corinthians 12:10]]
+<small>[[2Cor.12|2 Corinthians 12:5-10]]</small>
 *Paul’s Thorn and God’s Grace*
 
 [[2Cor.12.5|5]] Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.

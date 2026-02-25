@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Simeon’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.1 Simeon’s Inheritance|Simeon’s Inheritance]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 9
 verses:
 - "[[Josh.19.1]]"
 - "[[Josh.19.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Josh.19.9]]"
 ---
 
-[[Josh.19|Joshua 19:1 - Joshua 19:9]]
+<small>[[Josh.19|Joshua 19:1-9]]</small>
 *Simeon’s Inheritance*
 
 [[Josh.19.1|1]] And the second lot came forth to Simeon, \[even\] for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.

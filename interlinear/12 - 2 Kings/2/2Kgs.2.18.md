@@ -1,8 +1,59 @@
+---
+title: 2 Kings 2:18
+type: Verse
+kjv: "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?"
+bsb: "When they returned to Elisha, who was staying in Jericho, he said to them, “Didn’t I tell you not to go?”"
+hebrew: "וַיָּשֻׁ֣בוּ אֵלָ֔יו וְה֖וּא יֹשֵׁ֣ב בִּירִיח֑וֹ וַיֹּ֣אמֶר אֲלֵהֶ֔ם הֲלֽוֹא־ אָמַ֥רְתִּי אֲלֵיכֶ֖ם אַל־ תֵּלֵֽכוּ׃"
+pericope: "[[2Kgs.2.15 Elisha Succeeds Elijah|Elisha Succeeds Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic JERICHO|JERICHO]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3405G]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9036]]"
+- "[[H0408]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:18**<big><big>[[2Kgs.2.15 Elisha Succeeds Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?
 <small><sub>**BSB:**</sub></small>
 When they returned to Elisha, who was staying in Jericho, he said to them, “Didn’t I tell you not to go?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֣בוּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H3427\|יֹשֵׁ֣ב]] [[H9003\|בִּ]][[H3405G\|ירִיח֑וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H0559\|אָמַ֥רְתִּי]] [[H0413\|אֲלֵי]][[H9036\|כֶ֖ם]] [[H0408\|אַל]][[H9014\|־]] [[H1980G\|תֵּלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic JERICHO|JERICHO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.17|<< 2 Kings 2:17]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.19|2 Kings 2:19 >>]]</td></tr></table>
 

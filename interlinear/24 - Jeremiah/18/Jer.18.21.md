@@ -1,8 +1,71 @@
+---
+title: Jeremiah 18:21
+type: Verse
+kjv: "Therefore deliver up their children to the famine, and pour out their blood by the force of the sword; and let their wives be bereaved of their children, and be widows; and let their men be put to death; let their young men be slain by the sword in battle."
+bsb: "Therefore, hand their children over to famine; pour out the power of the sword upon them. Let their wives become childless and widowed; let their husbands be slain by disease, their young men struck down by the sword in battle."
+hebrew: "לָכֵן֩ תֵּ֨ן אֶת־ בְּנֵיהֶ֜ם לָרָעָ֗ב וְהַגִּרֵם֮ עַל־ יְדֵי־ חֶרֶב֒ וְתִֽהְיֶ֨נָה נְשֵׁיהֶ֤ם שַׁכֻּלוֹת֙ וְאַלְמָנ֔וֹת וְאַ֨נְשֵׁיהֶ֔ם יִֽהְי֖וּ הֲרֻ֣גֵי מָ֑וֶת בַּח֣וּרֵיהֶ֔ם מֻכֵּי־ חֶ֖רֶב בַּמִּלְחָמָֽה׃"
+pericope: "[[Jer.18.18 Another Plot against Jeremiah|Another Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H5064]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H2719]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H7909]]"
+- "[[H0490]]"
+- "[[H0582]]"
+- "[[H2026]]"
+- "[[H4194]]"
+- "[[H0970]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:21**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore deliver up their children to the famine, and pour out their [blood] by the force of the sword; and let their wives be bereaved of their children, and [be] widows; and let their men be put to death; [let] their young men [be] slain by the sword in battle.
 <small><sub>**BSB:**</sub></small>
 Therefore, hand their children over to famine; pour out the power of the sword upon them. Let their wives become childless and widowed; let their husbands be slain by disease, their young men struck down by the sword in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H5414G\|תֵּ֨ן]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֜ם]] [[H9005\|לָ]][[H7458\|רָעָ֗ב]] [[H9002\|וְ]][[H5064\|הַגִּרֵ]][[H9038\|ם֮]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יְדֵי]][[H9014\|־]] [[H2719\|חֶרֶב֒]] [[H9002\|וְ]][[H1961\|תִֽהְיֶ֨נָה]] [[H0802H\|נְשֵׁי]][[H9028\|הֶ֤ם]] [[H7909\|שַׁכֻּלוֹת֙]] [[H9002\|וְ]][[H0490\|אַלְמָנ֔וֹת]] [[H9002\|וְ]][[H0582\|אַ֨נְשֵׁי]][[H9028\|הֶ֔ם]] [[H1961\|יִֽהְי֖וּ]] [[H2026\|הֲרֻ֣גֵי]] [[H4194\|מָ֑וֶת]] [[H0970\|בַּח֣וּרֵי]][[H9028\|הֶ֔ם]] [[H5221\|מֻכֵּי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.20|<< Jeremiah 18:20]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.22|Jeremiah 18:22 >>]]</td></tr></table>
 

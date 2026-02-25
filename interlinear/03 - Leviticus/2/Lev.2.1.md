@@ -1,8 +1,65 @@
+---
+title: Leviticus 2:1
+type: Verse
+kjv: "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+bsb: "“When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it,"
+hebrew: "וְנֶ֗פֶשׁ כִּֽי־ תַקְרִ֞יב קָרְבַּ֤ן מִנְחָה֙ לַֽיהוָ֔ה סֹ֖לֶת יִהְיֶ֣ה קָרְבָּנ֑וֹ וְיָצַ֤ק עָלֶ֙יהָ֙ שֶׁ֔מֶן וְנָתַ֥ן עָלֶ֖יהָ לְבֹנָֽה׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7126H]]"
+- "[[H7133A]]"
+- "[[H4503G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5560]]"
+- "[[H1961]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3332G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8081]]"
+- "[[H5414H]]"
+- "[[H3828]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:1**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when any will offer a meat offering unto the LORD, his offering shall be [of] fine flour; and he shall pour oil upon it, and put frankincense thereon:
 <small><sub>**BSB:**</sub></small>
 “When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5315J\|נֶ֗פֶשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7126H\|תַקְרִ֞יב]] [[H7133A\|קָרְבַּ֤ן]] [[H4503G\|מִנְחָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H5560\|סֹ֖לֶת]] [[H1961\|יִהְיֶ֣ה]] [[H7133A\|קָרְבָּנ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3332G\|יָצַ֤ק]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H8081\|שֶׁ֔מֶן]] [[H9001\|וְ]][[H5414H\|נָתַ֥ן]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H3828\|לְבֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRANKINCENSE|FRANKINCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.17|<< Leviticus 1:17]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.2|Leviticus 2:2 >>]]</td></tr></table>
 

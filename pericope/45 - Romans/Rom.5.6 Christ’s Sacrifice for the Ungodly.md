@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ’s Sacrifice for the Ungodly
+type: Pericope
 pericope: "[[Rom.5.6 Christ’s Sacrifice for the Ungodly|Christ’s Sacrifice for the Ungodly]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Romans
 chapter: 5
 book/chapter: "[[Rom.5|Romans 5]]"
-genre:
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 6
 verses:
 - "[[Rom.5.6]]"
 - "[[Rom.5.7]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rom.5.11]]"
 ---
 
-[[Rom.5|Romans 5:6 - Romans 5:11]]
+<small>[[Rom.5|Romans 5:6-11]]</small>
 *Christ’s Sacrifice for the Ungodly*
 
 [[Rom.5.6|6]] For when we were yet without strength, in due time Christ died for the ungodly.

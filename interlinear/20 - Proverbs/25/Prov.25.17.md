@@ -1,8 +1,54 @@
+---
+title: Proverbs 25:17
+type: Verse
+kjv: "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and so hate thee."
+bsb: "Seldom set foot in your neighbor’s house, lest he grow weary and hate you."
+hebrew: "הֹקַ֣ר רַ֭גְלְךָ מִבֵּ֣ית רֵעֶ֑ךָ פֶּן־ יִ֝שְׂבָּעֲךָ֗ וּשְׂנֵאֶֽךָ׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GUEST|GUEST]]"
+strongs:
+- "[[H3365]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H7453]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7646]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:17**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and [so] hate thee.
 <small><sub>**BSB:**</sub></small>
 Seldom set foot in your neighbor’s house, lest he grow weary and hate you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3365\|הֹקַ֣ר]] [[H7272\|רַ֭גְלְ]][[H9021\|ךָ]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H7453\|רֵעֶ֑]][[H9021\|ךָ]] [[H6435\|פֶּן]][[H9014\|־]] [[H7646\|יִ֝שְׂבָּעֲ]][[H9031\|ךָ֗]] [[H9001\|וּ]][[H8130\|שְׂנֵאֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GUEST|GUEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.16|<< Proverbs 25:16]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.18|Proverbs 25:18 >>]]</td></tr></table>
 

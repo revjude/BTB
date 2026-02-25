@@ -1,10 +1,66 @@
+---
+title: Acts 16:33
+type: Verse
+kjv: "And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway."
+bsb: "At that hour of the night, the jailer took them and washed their wounds. And without delay, he and all his household were baptized."
+greek: "καὶ παραλαβὼν αὐτοὺς ἐν ἐκείνῃ τῇ ὥρᾳ τῆς νυκτὸς ἔλουσεν ἀπὸ τῶν πληγῶν, καὶ ἐβαπτίσθη αὐτὸς καὶ οἱ αὐτοῦ πάντες παραχρῆμα."
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAILER (JAILOR)|JAILER (JAILOR)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3880]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G3571]]"
+- "[[G3068]]"
+- "[[G0575]]"
+- "[[G4127]]"
+- "[[G0907]]"
+- "[[G3956]]"
+- "[[G3916]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 16:33**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took them the same hour of the night, and washed [their] stripes; and was baptized, he and all his, straightway.
 <small><sub>**BSB:**</sub></small>
 At that hour of the night, the jailer took them and washed their wounds. And without delay, he and all his household were baptized.
-<small><sub>**Literal:**</sub></small>
-And having taken them in that [very] <the> hour of the night he washed [them] from the wounds, and he was baptized he himself and the [household] of him all immediately.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.32|<< Acts 16:32]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.34|Acts 16:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3880\|παραλαβὼν]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G3588\|τῆς]]  [[G3571\|νυκτὸς]]  [[G3068\|ἔλουσεν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4127\|πληγῶν,]]  [[G2532\|καὶ]]  [[G0907\|ἐβαπτίσθη]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάντες]]  [[G3916\|παραχρῆμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONVERTS|CONVERTS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FAITH|FAITH]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JAILER (JAILOR)|JAILER (JAILOR)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.32|<< Acts 16:32]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.34|Acts 16:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

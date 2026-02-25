@@ -1,8 +1,57 @@
+---
+title: Isaiah 15:8
+type: Verse
+kjv: "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim."
+bsb: "For their outcry echoes to the border of Moab. Their wailing reaches Eglaim; it is heard in Beer-elim."
+hebrew: "כִּֽי־ הִקִּ֥יפָה הַזְּעָקָ֖ה אֶת־ גְּב֣וּל מוֹאָ֑ב עַד־ אֶגְלַ֙יִם֙ יִלְלָתָ֔הּ וּבְאֵ֥ר אֵילִ֖ים יִלְלָתָֽהּ׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BEER-ELIM|BEER-ELIM]]"
+- "[[topic EGLAIM|EGLAIM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5362B]]"
+- "[[H9009]]"
+- "[[H2201]]"
+- "[[H0853]]"
+- "[[H1366H]]"
+- "[[H4124G]]"
+- "[[H5704]]"
+- "[[H0097]]"
+- "[[H3215]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0879]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:8**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim.
 <small><sub>**BSB:**</sub></small>
 For their outcry echoes to the border of Moab. Their wailing reaches Eglaim; it is heard in Beer-elim.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5362B\|הִקִּ֥יפָה]] [[H9009\|הַ]][[H2201\|זְּעָקָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1366H\|גְּב֣וּל]] [[H4124G\|מוֹאָ֑ב]] [[H5704\|עַד]][[H9014\|־]] [[H0097\|אֶגְלַ֙יִם֙]] [[H3215\|יִלְלָתָ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H0879\|בְאֵ֥ר]] [[H0879\|אֵילִ֖ים]] [[H3215\|יִלְלָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-ELIM|BEER-ELIM]] • [[topic EGLAIM|EGLAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.7|<< Isaiah 15:7]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.9|Isaiah 15:9 >>]]</td></tr></table>
 

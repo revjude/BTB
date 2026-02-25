@@ -1,8 +1,56 @@
+---
+title: Psalm 109:31
+type: Verse
+kjv: "For he shall stand at the right hand of the poor, to save him from those that condemn his soul."
+bsb: "For He stands at the right hand of the needy one, to save him from the condemners of his soul."
+hebrew: "כִּֽי־ יַ֭עֲמֹד לִימִ֣ין אֶבְי֑וֹן לְ֝הוֹשִׁ֗יעַ מִשֹּׁפְטֵ֥י נַפְשֽׁוֹ׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H3225G]]"
+- "[[H0034]]"
+- "[[H3467]]"
+- "[[H9006]]"
+- "[[H8199]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:31**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall stand at the right hand of the poor, to save [him] from those that condemn his soul.
 <small><sub>**BSB:**</sub></small>
 For He stands at the right hand of the needy one, to save him from the condemners of his soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5975G\|יַ֭עֲמֹד]] [[H9005\|לִ]][[H3225G\|ימִ֣ין]] [[H0034\|אֶבְי֑וֹן]] [[H9005\|לְ֝]][[H3467\|הוֹשִׁ֗יעַ]] [[H9006\|מִ]][[H8199\|שֹּׁפְטֵ֥י]] [[H5315G\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.30|<< Psalms 109:30]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.0|Psalms 110:0 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 8:22
+type: Verse
+kjv: "But Jesus said unto him, Follow me; and let the dead bury their dead."
+bsb: "But Jesus told him, “Follow Me, and let the dead bury their own dead.”"
+jesus_said: "Follow me; and let the dead bury their dead."
+greek: "Ὁ δὲ Ἰησοῦς λέγει αὐτῷ· ἀκολούθει μοι, καὶ ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς.¶"
+pericope: "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0190]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G0863G]]"
+- "[[G3498]]"
+- "[[G2290]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 8:22**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said unto him, Follow me; and let the dead bury their dead.
 <small><sub>**BSB:**</sub></small>
 But Jesus told him, “Follow Me, and let the dead bury their own dead.”
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus speaks to him; do follow Me, and do leave the dead to bury <the> their own dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.21|<< Matthew 8:21]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.23|Matthew 8:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι,]]  [[G2532\|καὶ]]  [[G0863G\|ἄφες]]  [[G3588\|τοὺς]]  [[G3498\|νεκροὺς]]  [[G2290\|θάψαι]]  [[G3588\|τοὺς]]  [[G1438\|ἑαυτῶν]]  [[G3498\|νεκρούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DECISION|DECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.21|<< Matthew 8:21]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.23|Matthew 8:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

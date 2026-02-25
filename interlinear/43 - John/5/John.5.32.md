@@ -1,10 +1,54 @@
+---
+title: John 5:32
+type: Verse
+kjv: "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true."
+bsb: "There is another who testifies about Me, and I know that His testimony about Me is valid."
+jesus_said: "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true."
+greek: "ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ, καὶ οἶδα ὅτι ἀληθής ἐστιν ἡ μαρτυρία ἣν μαρτυρεῖ περὶ ἐμοῦ.¶"
+pericope: "[[John.5.31 Testimonies about Jesus|Testimonies about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0243]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0227]]"
+- "[[G3141]]"
+- "[[G3739]]"
+texts:
+- NKO
+---
+
 **John 5:32**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
 <small><sub>**BSB:**</sub></small>
 There is another who testifies about Me, and I know that His testimony about Me is valid.
-<small><sub>**Literal:**</sub></small>
-Another it is who is bearing witness concerning Me, and I know that true is the testimony which he bears witness concerning Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.31|<< John 5:31]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.33|John 5:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλος]]  [[G1510\|ἐστὶν]]  [[G3588\|ὁ]]  [[G3140\|μαρτυρῶν]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ,]]  [[G2532\|καὶ]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G0227\|ἀληθής]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3739\|ἣν]]  [[G3140\|μαρτυρεῖ]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.31|<< John 5:31]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.33|John 5:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

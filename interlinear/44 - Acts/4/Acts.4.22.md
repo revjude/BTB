@@ -1,10 +1,54 @@
+---
+title: Acts 4:22
+type: Verse
+kjv: "For the man was above forty years old, on whom this miracle of healing was shewed."
+bsb: "For the man who was miraculously healed was over forty years old."
+greek: "ἐτῶν γὰρ ἦν πλειόνων τεσσεράκοντα ὁ ἄνθρωπος ἐφ᾽ ὃν γεγόνει τὸ σημεῖον τοῦτο τῆς ἰάσεως.¶"
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2094]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G4119]]"
+- "[[G5062]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G4592]]"
+- "[[G3778]]"
+- "[[G2392]]"
+texts:
+- NKO
+---
+
 **Acts 4:22**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the man was above forty years old, on whom this miracle of healing was shewed.
 <small><sub>**BSB:**</sub></small>
 For the man who was miraculously healed was over forty years old.
-<small><sub>**Literal:**</sub></small>
-of years for he was more than forty -  the man on whom had taken place <the> sign this <the> of healing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.21|<< Acts 4:21]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.23|Acts 4:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2094\|ἐτῶν]]  [[G1063\|γὰρ]]  [[G1510\|ἦν]]  [[G4119\|πλειόνων]]  [[G5062\|τεσσεράκοντα]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G1909\|ἐφ᾽]]  [[G3739\|ὃν]]  [[G1096\|γεγόνει]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G3778\|τοῦτο]]  [[G3588\|τῆς]]  [[G2392\|ἰάσεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.21|<< Acts 4:21]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.23|Acts 4:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

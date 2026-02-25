@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Army Grows at Hebron
+type: Pericope
 pericope: "[[1Chr.12.23 David’s Army Grows at Hebron|David’s Army Grows at Hebron]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 12
 book/chapter: "[[1Chr.12|1 Chronicles 12]]"
-genre:
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 18
 verses:
 - "[[1Chr.12.23]]"
 - "[[1Chr.12.24]]"
@@ -36,7 +43,7 @@ verses:
 - "[[1Chr.12.40]]"
 ---
 
-[[1Chr.12|1 Chronicles 12:23 - 1 Chronicles 12:40]]
+<small>[[1Chr.12|1 Chronicles 12:23-40]]</small>
 *David’s Army Grows at Hebron*
 
 [[1Chr.12.23|23]] And these \[are\] the numbers of the bands \[that were\] ready armed to the war, \[and\] came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.

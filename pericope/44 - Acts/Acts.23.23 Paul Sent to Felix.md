@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Sent to Felix
+type: Pericope
 pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Acts
 chapter: 23
 book/chapter: "[[Acts.23|Acts 23]]"
-genre:
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 13
 verses:
 - "[[Acts.23.23]]"
 - "[[Acts.23.24]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Acts.23.35]]"
 ---
 
-[[Acts.23|Acts 23:23 - Acts 23:35]]
+<small>[[Acts.23|Acts 23:23-35]]</small>
 *Paul Sent to Felix*
 
 [[Acts.23.23|23]] And he called unto \[him\] two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;

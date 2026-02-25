@@ -1,8 +1,49 @@
+---
+title: Esther 4:12
+type: Verse
+kjv: "And they told to Mordecai Esther’s words."
+bsb: "When Esther’s words were relayed to Mordecai,"
+hebrew: "וַיַּגִּ֣ידוּ לְמָרְדֳּכָ֔י אֵ֖ת דִּבְרֵ֥י אֶסְתֵּֽר׃ פ"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4782H]]"
+- "[[H0853]]"
+- "[[H1697H]]"
+- "[[H0635]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Esther 4:12**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they told to Mordecai Esther’s words.
 <small><sub>**BSB:**</sub></small>
 When Esther’s words were relayed to Mordecai,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֣ידוּ]] [[H9005\|לְ]][[H4782H\|מָרְדֳּכָ֔י]] [[H0853\|אֵ֖ת]] [[H1697H\|דִּבְרֵ֥י]] [[H0635\|אֶסְתֵּֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.11|<< Esther 4:11]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.13|Esther 4:13 >>]]</td></tr></table>
 
@@ -12,7 +53,7 @@ When Esther’s words were relayed to Mordecai,
 | to Mordecai  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4782H\|מָרְדֳּכָ֔י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] words of  |**<big>&#8207;[[H1697H\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.11|<< Esther 4:11]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.13|Esther 4:13 >>]]</td></tr></table>
 
 

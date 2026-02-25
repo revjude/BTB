@@ -1,8 +1,62 @@
+---
+title: Isaiah 10:17
+type: Verse
+kjv: "And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;"
+bsb: "And the Light of Israel will become a fire, and its Holy One a flame. In a single day it will burn and devour Assyria’s thorns and thistles."
+hebrew: "וְהָיָ֤ה אֽוֹר־ יִשְׂרָאֵל֙ לְאֵ֔שׁ וּקְדוֹשׁ֖וֹ לְלֶהָבָ֑ה וּבָעֲרָ֗ה וְאָֽכְלָ֛ה שִׁית֥וֹ וּשְׁמִיר֖וֹ בְּי֥וֹם אֶחָֽד׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0216]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H6918G]]"
+- "[[H9023]]"
+- "[[H3852]]"
+- "[[H1197A]]"
+- "[[H0398]]"
+- "[[H7898]]"
+- "[[H8068]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:17**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;
 <small><sub>**BSB:**</sub></small>
 And the Light of Israel will become a fire, and its Holy One a flame. In a single day it will burn and devour Assyria’s thorns and thistles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H0216\|אֽוֹר]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H6918G\|קְדוֹשׁ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H3852\|לֶהָבָ֑ה]] [[H9001\|וּ]][[H1197A\|בָעֲרָ֗ה]] [[H9001\|וְ]][[H0398\|אָֽכְלָ֛ה]] [[H7898\|שִׁית֥]][[H9023\|וֹ]] [[H9002\|וּ]][[H8068\|שְׁמִיר֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.16|<< Isaiah 10:16]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.18|Isaiah 10:18 >>]]</td></tr></table>
 

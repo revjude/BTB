@@ -1,8 +1,58 @@
+---
+title: Psalm 37:20
+type: Verse
+kjv: "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away."
+bsb: "But the wicked and enemies of the LORD will perish like the glory of the fields. They will vanish; like smoke they will fade away."
+hebrew: "כִּ֤י רְשָׁעִ֨ים׀ יֹאבֵ֗דוּ וְאֹיְבֵ֣י יְ֭הוָה כִּיקַ֣ר כָּרִ֑ים כָּל֖וּ בֶעָשָׁ֣ן כָּֽלוּ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7563]]"
+- "[[H9015]]"
+- "[[H0006]]"
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3368]]"
+- "[[H3733B]]"
+- "[[H3615J]]"
+- "[[H9003]]"
+- "[[H6227]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:20**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the wicked shall perish, and the enemies of the LORD [shall be] as the fat of lambs: they shall consume; into smoke shall they consume away.
 <small><sub>**BSB:**</sub></small>
 But the wicked and enemies of the LORD will perish like the glory of the fields. They will vanish; like smoke they will fade away.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7563\|רְשָׁעִ֨ים]][[H9015\|׀]] [[H0006\|יֹאבֵ֗דוּ]] [[H9002\|וְ]][[H0341\|אֹיְבֵ֣י]] [[H3068G\|יְ֭הוָה]] [[H9004\|כִּ]][[H3368\|יקַ֣ר]] [[H3733B\|כָּרִ֑ים]] [[H3615J\|כָּל֖וּ]] [[H9003\|בֶ]][[H6227\|עָשָׁ֣ן]] [[H3615J\|כָּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.19|<< Psalms 37:19]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.21|Psalms 37:21 >>]]</td></tr></table>
 

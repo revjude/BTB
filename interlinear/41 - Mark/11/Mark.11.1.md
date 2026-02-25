@@ -1,10 +1,58 @@
+---
+title: Mark 11:1
+type: Verse
+kjv: "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,"
+bsb: "As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent out two of His disciples"
+greek: "Καὶ ὅτε ἐγγίζουσιν εἰς Ἱεροσόλυμα εἰς Βηθφαγὴ καὶ Βηθανίαν πρὸς τὸ ὄρος τῶν ἐλαιῶν, ἀποστέλλει δύο τῶν μαθητῶν αὐτοῦ"
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic BETHPHAGE|BETHPHAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1448]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G0967]]"
+- "[[G0963]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1638]]"
+- "[[G0649]]"
+- "[[G1417]]"
+- "[[G3101]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Mark 11:1**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
 <small><sub>**BSB:**</sub></small>
 As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent out two of His disciples
-<small><sub>**Literal:**</sub></small>
-And when they drew near to Jerusalem to Bethphage and Bethany near the Mount <the> of Olives, He sends two of the disciples of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.52|<< Mark 10:52]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.2|Mark 11:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G1448\|ἐγγίζουσιν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G1519\|εἰς]]  [[G0967\|Βηθφαγὴ]]  [[G2532\|καὶ]]  [[G0963\|Βηθανίαν]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν,]]  [[G0649\|ἀποστέλλει]]  [[G1417\|δύο]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic BETHPHAGE|BETHPHAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.52|<< Mark 10:52]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.2|Mark 11:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

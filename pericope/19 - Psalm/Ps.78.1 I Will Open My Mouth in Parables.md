@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Open My Mouth in Parables
+type: Pericope
 pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
-verse_count: 73
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 78
 book/chapter: "[[Ps.78|Psalm 78]]"
-genre:
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 73
 verses:
 - "[[Ps.78.0]]"
 - "[[Ps.78.1]]"
@@ -94,7 +101,7 @@ verses:
 - "[[Ps.78.72]]"
 ---
 
-[[Ps.78|Psalm 78:1 - Psalm 78:72]]
+<small>[[Ps.78|Psalm 78:1-72]]</small>
 *I Will Open My Mouth in Parables*
 
 [[Ps.78.0|0]] Maschil of Asaph.

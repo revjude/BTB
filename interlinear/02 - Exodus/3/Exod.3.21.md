@@ -1,8 +1,65 @@
+---
+title: Exodus 3:21
+type: Verse
+kjv: "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:"
+bsb: "And I will grant this people such favor in the sight of the Egyptians that when you leave, you will not go away empty-handed."
+hebrew: "וְנָתַתִּ֛י אֶת־ חֵ֥ן הָֽעָם־ הַזֶּ֖ה בְּעֵינֵ֣י מִצְרָ֑יִם וְהָיָה֙ כִּ֣י תֵֽלֵכ֔וּן לֹ֥א תֵלְכ֖וּ רֵיקָֽם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2580]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H4713]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H9013]]"
+- "[[H3808]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:21**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:
 <small><sub>**BSB:**</sub></small>
 And I will grant this people such favor in the sight of the Egyptians that when you leave, you will not go away empty-handed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H2580\|חֵ֥ן]] [[H9009\|הָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H4713\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּ֣י]] [[H1980G\|תֵֽלֵכ֔וּ]][[H9013\|ן]] [[H3808\|לֹ֥א]] [[H1980G\|תֵלְכ֖וּ]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.20|<< Exodus 3:20]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.22|Exodus 3:22 >>]]</td></tr></table>
 

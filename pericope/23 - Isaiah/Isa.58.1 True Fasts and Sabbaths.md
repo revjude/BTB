@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: True Fasts and Sabbaths
+type: Pericope
 pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 58
 book/chapter: "[[Isa.58|Isaiah 58]]"
-genre:
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 14
 verses:
 - "[[Isa.58.1]]"
 - "[[Isa.58.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Isa.58.14]]"
 ---
 
-[[Isa.58|Isaiah 58:1 - Isaiah 58:14]]
+<small>[[Isa.58|Isaiah 58:1-14]]</small>
 *True Fasts and Sabbaths*
 
 [[Isa.58.1|1]] Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.

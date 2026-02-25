@@ -1,8 +1,55 @@
+---
+title: Job 6:2
+type: Verse
+kjv: "Oh that my grief were throughly weighed, and my calamity laid in the balances together!"
+bsb: "“If only my grief could be weighed and placed with my calamity on the scales."
+hebrew: "ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י וְ֝הַוָּתִ֗י בְּֽמֹאזְנַ֥יִם יִשְׂאוּ־ יָֽחַד׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3863]]"
+- "[[H8254]]"
+- "[[H3708B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1962]]"
+- "[[H1942]]"
+- "[[H9003]]"
+- "[[H3976]]"
+- "[[H5375H]]"
+- "[[H9014]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 6:2**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that my grief were throughly weighed, and my calamity laid in the balances together!
 <small><sub>**BSB:**</sub></small>
 “If only my grief could be weighed and placed with my calamity on the scales.
+<small><sub>**Hebrew:**</sub></small>
+[[H3863\|ל֗וּ]] [[H8254\|שָׁק֣וֹל]] [[H8254\|יִשָּׁקֵ֣ל]] [[H3708B\|כַּעְשִׂ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H1942\|הַוָּתִ֗]][[H9020\|י]] [[H9003\|בְּֽ]][[H3976\|מֹאזְנַ֥יִם]] [[H5375H\|יִשְׂאוּ]][[H9014\|־]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.1|<< Job 6:1]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.3|Job 6:3 >>]]</td></tr></table>
 
@@ -18,8 +65,8 @@ Oh that my grief were throughly weighed, and my calamity laid in the balances to
 | together  |**<big>&#8207;[[H3162A\|יָֽחַד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.1|<< Job 6:1]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.3|Job 6:3 >>]]</td></tr></table>
 
-[^1]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^2]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^3]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^1]: and destruction my  | **<big>[[H9002|וְ]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9020|י]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: and destruction my  | **<big>[[H9002|וְ]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9020|י]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: and destruction my  | **<big>[[H9002|וְ]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9020|י]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְ֝הַיָּתִ֗/י</big></span>**
 

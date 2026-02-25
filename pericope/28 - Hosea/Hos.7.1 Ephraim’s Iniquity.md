@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ephraim’s Iniquity
+type: Pericope
 pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 7
 book/chapter: "[[Hos.7|Hosea 7]]"
-genre:
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 16
 verses:
 - "[[Hos.7.1]]"
 - "[[Hos.7.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Hos.7.16]]"
 ---
 
-[[Hos.7|Hosea 7:1 - Hosea 7:16]]
+<small>[[Hos.7|Hosea 7:1-16]]</small>
 *Ephraim’s Iniquity*
 
 [[Hos.7.1|1]] When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, \[and\] the troop of robbers spoileth without.

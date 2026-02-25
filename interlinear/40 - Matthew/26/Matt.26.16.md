@@ -1,10 +1,56 @@
+---
+title: Matthew 26:16
+type: Verse
+kjv: "And from that time he sought opportunity to betray him."
+bsb: "So from then on Judas looked for an opportunity to betray Jesus."
+greek: "καὶ ἀπὸ τότε ἐζήτει εὐκαιρίαν ἵνα αὐτὸν παραδῷ.¶"
+pericope: "[[Matt.26.14 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G5119]]"
+- "[[G2212]]"
+- "[[G2120]]"
+- "[[G2443]]"
+- "[[G0846]]"
+- "[[G3860]]"
+texts:
+- NKO
+---
+
 **Matthew 26:16**<big><big>[[Matt.26.14 Judas Agrees to Betray Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from that time he sought opportunity to betray him.
 <small><sub>**BSB:**</sub></small>
 So from then on Judas looked for an opportunity to betray Jesus.
-<small><sub>**Literal:**</sub></small>
-And from that time he was seeking an opportunity that Him he may betray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.15|<< Matthew 26:15]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.17|Matthew 26:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G5119\|τότε]]  [[G2212\|ἐζήτει]]  [[G2120\|εὐκαιρίαν]]  [[G2443\|ἵνα]]  [[G0846\|αὐτὸν]]  [[G3860\|παραδῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BETRAYAL|BETRAYAL]] • [[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.15|<< Matthew 26:15]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.17|Matthew 26:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

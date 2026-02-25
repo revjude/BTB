@@ -1,10 +1,56 @@
+---
+title: Luke 22:29
+type: Verse
+kjv: "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+bsb: "And I bestow on you a kingdom, just as My Father has bestowed one on Me,"
+jesus_said: "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+greek: "κἀγὼ κἀγὼ διατίθεμαι ὑμῖν καθὼς διέθετό μοι ὁ πατήρ μου βασιλείαν,"
+pericope: "[[Luke.22.24 Who Is the Greatest？|Who Is the Greatest？]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1303]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0932]]"
+texts:
+- NKO
+---
+
 **Luke 22:29**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I appoint unto you a kingdom, as my Father hath appointed unto me;
 <small><sub>**BSB:**</sub></small>
 And I bestow on you a kingdom, just as My Father has bestowed one on Me,
-<small><sub>**Literal:**</sub></small>
-And I myself appoint to you even as appointed to Me the Father of Mine a kingdom,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.28|<< Luke 22:28]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.30|Luke 22:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1303\|διατίθεμαι]]  [[G4771\|ὑμῖν]]  [[G2531\|καθὼς]]  [[G1303\|διέθετό]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G0932\|βασιλείαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.28|<< Luke 22:28]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.30|Luke 22:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

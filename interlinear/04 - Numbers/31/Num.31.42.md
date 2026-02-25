@@ -1,8 +1,61 @@
+---
+title: Numbers 31:42
+type: Verse
+kjv: "And of the children of Israel’s half, which Moses divided from the men that warred,"
+bsb: "From the Israelites’ half, which Moses had set apart from the men who had gone to war,"
+hebrew: "וּמִֽמַּחֲצִ֖ית בְּנֵ֣י יִשְׂרָאֵ֑ל אֲשֶׁר֙ חָצָ֣ה מֹשֶׁ֔ה מִן־ הָאֲנָשִׁ֖ים הַצֹּבְאִֽים׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4276]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H2673]]"
+- "[[H4872]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H6633]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:42**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Israel’s half, which Moses divided from the men that warred,
 <small><sub>**BSB:**</sub></small>
 From the Israelites’ half, which Moses had set apart from the men who had gone to war,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִֽ]][[H4276\|מַּחֲצִ֖ית]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁר֙]] [[H2673\|חָצָ֣ה]] [[H4872\|מֹשֶׁ֔ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9009\|הַ]][[H6633\|צֹּבְאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic LEVITES|LEVITES]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 

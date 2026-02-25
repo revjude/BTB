@@ -1,8 +1,57 @@
+---
+title: 2 Samuel 16:15
+type: Verse
+kjv: "And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him."
+bsb: "Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him."
+hebrew: "וְאַבְשָׁל֗וֹם וְכָל־ הָעָם֙ אִ֣ישׁ יִשְׂרָאֵ֔ל בָּ֖אוּ יְרוּשָׁלִָ֑ם וַאֲחִיתֹ֖פֶל אִתּֽוֹ׃"
+pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0053]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H0302]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:15**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.
 <small><sub>**BSB:**</sub></small>
 Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0053\|אַבְשָׁל֗וֹם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0935G\|בָּ֖אוּ]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וַ]][[H0302\|אֲחִיתֹ֖פֶל]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.14|<< 2 Samuel 16:14]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.16|2 Samuel 16:16 >>]]</td></tr></table>
 

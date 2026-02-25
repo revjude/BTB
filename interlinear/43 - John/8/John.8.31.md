@@ -1,10 +1,64 @@
+---
+title: John 8:31
+type: Verse
+kjv: "Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;"
+bsb: "So He said to the Jews who had believed Him, “If you continue in My word, you are truly My disciples."
+jesus_said: "If ye continue in my word, then are ye my disciples indeed;"
+greek: "Ἔλεγεν οὖν ὁ Ἰησοῦς πρὸς τοὺς πεπιστευκότας αὐτῷ Ἰουδαίους· ἐὰν ὑμεῖς μείνητε ἐν τῷ λόγῳ τῷ ἐμῷ, ἀληθῶς μαθηταί μού ἐστε,"
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4314]]"
+- "[[G4100]]"
+- "[[G0846]]"
+- "[[G2453]]"
+- "[[G1437]]"
+- "[[G4771]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G0230]]"
+- "[[G3101]]"
+- "[[G3165]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 8:31**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus to those Jews which believed on him, If ye continue in my word, [then] are ye my disciples indeed;
 <small><sub>**BSB:**</sub></small>
 So He said to the Jews who had believed Him, “If you continue in My word, you are truly My disciples.
-<small><sub>**Literal:**</sub></small>
-Was saying therefore <the> Jesus to the having believed in Him Jews; If you yourselves shall abide in the word <the> of Mine, truly disciples of Mine you are,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.30|<< John 8:30]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.32|John 8:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4100\|πεπιστευκότας]]  [[G0846\|αὐτῷ]]  [[G2453\|Ἰουδαίους·]]  [[G1437\|ἐὰν]]  [[G4771\|ὑμεῖς]]  [[G3306\|μείνητε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3588\|τῷ]]  [[G1473\|ἐμῷ,]]  [[G0230\|ἀληθῶς]]  [[G3101\|μαθηταί]]  [[G3165\|μού]]  [[G1510\|ἐστε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TRUTH|TRUTH]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.30|<< John 8:30]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.32|John 8:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

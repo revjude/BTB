@@ -1,8 +1,67 @@
+---
+title: Ezra 8:16
+type: Verse
+kjv: "Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding."
+bsb: "Then I summoned the leaders: Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, as well as the teachers Joiarib and Elnathan."
+hebrew: "וָאֶשְׁלְחָ֡ה לֶאֱלִיעֶ֡זֶר לַאֲרִיאֵ֡ל לִֽ֠שְׁמַעְיָה וּלְאֶלְנָתָ֨ן וּלְיָרִ֜יב וּלְאֶלְנָתָ֧ן וּלְנָתָ֛ן וְלִזְכַרְיָ֥ה וְלִמְשֻׁלָּ֖ם רָאשִׁ֑ים וּלְיוֹיָרִ֥יב וּלְאֶלְנָתָ֖ן מְבִינִֽים׃"
+pericope: "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARIEL|ARIEL]]"
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic ELNATHAN|ELNATHAN]]"
+- "[[topic JARIB|JARIB]]"
+- "[[topic JOIARIB|JOIARIB]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H0461M]]"
+- "[[H0740G]]"
+- "[[H8098O]]"
+- "[[H9002]]"
+- "[[H0494H]]"
+- "[[H3402G]]"
+- "[[H0494I]]"
+- "[[H5416K]]"
+- "[[H2148S]]"
+- "[[H4918O]]"
+- "[[H7218H]]"
+- "[[H3114H]]"
+- "[[H0494J]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:16**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
 <small><sub>**BSB:**</sub></small>
 Then I summoned the leaders: Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, as well as the teachers Joiarib and Elnathan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלְחָ֡]][[H9012\|ה]] [[H9005\|לֶ]][[H0461M\|אֱלִיעֶ֡זֶר]] [[H9005\|לַ]][[H0740G\|אֲרִיאֵ֡ל]] [[H9005\|לִֽ֠]][[H8098O\|שְׁמַעְיָה]] [[H9002\|וּ]][[H9005\|לְ]][[H0494H\|אֶלְנָתָ֨ן]] [[H9002\|וּ]][[H9005\|לְ]][[H3402G\|יָרִ֜יב]] [[H9002\|וּ]][[H9005\|לְ]][[H0494I\|אֶלְנָתָ֧ן]] [[H9002\|וּ]][[H9005\|לְ]][[H5416K\|נָתָ֛ן]] [[H9002\|וְ]][[H9005\|לִ]][[H2148S\|זְכַרְיָ֥ה]] [[H9002\|וְ]][[H9005\|לִ]][[H4918O\|מְשֻׁלָּ֖ם]] [[H7218H\|רָאשִׁ֑ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3114H\|יוֹיָרִ֥יב]] [[H9002\|וּ]][[H9005\|לְ]][[H0494J\|אֶלְנָתָ֖ן]] [[H0995\|מְבִינִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIEL|ARIEL]] • [[topic ELIEZER|ELIEZER]] • [[topic ELNATHAN|ELNATHAN]] • [[topic JARIB|JARIB]] • [[topic JOIARIB|JOIARIB]] • [[topic LEVITES|LEVITES]] • [[topic MESHULLAM|MESHULLAM]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.15|<< Ezra 8:15]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.17|Ezra 8:17 >>]]</td></tr></table>
 

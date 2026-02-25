@@ -1,8 +1,57 @@
+---
+title: Psalm 80:9
+type: Verse
+kjv: "Thou preparedst room before it, and didst cause it to take deep root, and it filled the land."
+bsb: "You cleared the ground for it, and it took root and filled the land."
+hebrew: "פִּנִּ֥יתָ לְפָנֶ֑יהָ וַתַּשְׁרֵ֥שׁ שָׁ֝רָשֶׁ֗יהָ וַתְּמַלֵּא־ אָֽרֶץ׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H6437G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H8327]]"
+- "[[H8328]]"
+- "[[H4390]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:9**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou preparedst [room] before it, and didst cause it to take deep root, and it filled the land.
 <small><sub>**BSB:**</sub></small>
 You cleared the ground for it, and it took root and filled the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H6437G\|פִּנִּ֥יתָ]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H8327\|תַּשְׁרֵ֥שׁ]] [[H8328\|שָׁ֝רָשֶׁ֗י]][[H9024\|הָ]] [[H9001\|וַ]][[H4390\|תְּמַלֵּא]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.8|<< Psalms 80:8]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.10|Psalms 80:10 >>]]</td></tr></table>
 

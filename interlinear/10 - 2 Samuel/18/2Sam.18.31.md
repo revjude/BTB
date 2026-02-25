@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 18:31
+type: Verse
+kjv: "And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee."
+bsb: "Just then the Cushite came and said, “May my lord the king hear the good news: Today the LORD has avenged you of all who rose up against you!”"
+hebrew: "וְהִנֵּ֥ה הַכּוּשִׁ֖י בָּ֑א וַיֹּ֣אמֶר הַכּוּשִׁ֗י יִתְבַּשֵּׂר֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ כִּֽי־ שְׁפָטְךָ֤ יְהוָה֙ הַיּ֔וֹם מִיַּ֖ד כָּל־ הַקָּמִ֥ים עָלֶֽיךָ׃ ס"
+pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H3569G]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1319]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8199]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H3605]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 18:31**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee.
 <small><sub>**BSB:**</sub></small>
 Just then the Cushite came and said, “May my lord the king hear the good news: Today the LORD has avenged you of all who rose up against you!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֖י]] [[H0935G\|בָּ֑א]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֗י]] [[H1319\|יִתְבַּשֵּׂר֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8199\|שְׁפָטְ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9006\|מִ]][[H3027H\|יַּ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H6965J\|קָּמִ֥ים]] [[H5921A\|עָלֶֽי]][[H9031\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.30|<< 2 Samuel 18:30]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.32|2 Samuel 18:32 >>]]</td></tr></table>
 
@@ -23,7 +82,7 @@ Just then the Cushite came and said, “May my lord the king hear the good news:
 | from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יַּ֖ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] rose up  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6965J\|קָּמִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on you  |**<big>&#8207;[[H5921A\|עָלֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on you  |**<big>&#8207;[[H5921A\|עָלֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.30|<< 2 Samuel 18:30]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.32|2 Samuel 18:32 >>]]</td></tr></table>
 
 

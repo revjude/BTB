@@ -1,8 +1,75 @@
+---
+title: Genesis 14:2
+type: Verse
+kjv: "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar."
+bsb: "went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar)."
+hebrew: "עָשׂ֣וּ מִלְחָמָ֗ה אֶת־ בֶּ֙רַע֙ מֶ֣לֶךְ סְדֹ֔ם וְאֶת־ בִּרְשַׁ֖ע מֶ֣לֶךְ עֲמֹרָ֑ה שִׁנְאָ֣ב׀ מֶ֣לֶךְ אַדְמָ֗ה וְשֶׁמְאֵ֙בֶר֙ מֶ֣לֶךְ צְבוֹיִ֔ם וּמֶ֥לֶךְ בֶּ֖לַע הִיא־ צֹֽעַר׃"
+pericope: "[[Gen.14.1 The War of the Kings|The War of the Kings]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADMAH|ADMAH]]"
+- "[[topic BELA|BELA]]"
+- "[[topic BERA|BERA]]"
+- "[[topic BIRSHA|BIRSHA]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SHEMEBER|SHEMEBER]]"
+- "[[topic SHINAB|SHINAB]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic ZEBOIM|ZEBOIM]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H6213H]]"
+- "[[H4421]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1298]]"
+- "[[H4428G]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H1306]]"
+- "[[H6017]]"
+- "[[H8134]]"
+- "[[H9015]]"
+- "[[H0126]]"
+- "[[H8038]]"
+- "[[H6636]]"
+- "[[H1106B]]"
+- "[[H1931]]"
+- "[[H6820]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 14:2**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.
 <small><sub>**BSB:**</sub></small>
 went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|עָשׂ֣וּ]] [[H4421\|מִלְחָמָ֗ה]] [[H0854\|אֶת]][[H9014\|־]] [[H1298\|בֶּ֙רַע֙]] [[H4428G\|מֶ֣לֶךְ]] [[H5467\|סְדֹ֔ם]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H1306\|בִּרְשַׁ֖ע]] [[H4428G\|מֶ֣לֶךְ]] [[H6017\|עֲמֹרָ֑ה]] [[H8134\|שִׁנְאָ֣ב]][[H9015\|׀]] [[H4428G\|מֶ֣לֶךְ]] [[H0126\|אַדְמָ֗ה]] [[H9002\|וְ]][[H8038\|שֶׁמְאֵ֙בֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6636\|צְבוֹיִ֔ם]] [[H9002\|וּ]][[H4428G\|מֶ֥לֶךְ]] [[H1106B\|בֶּ֖לַע]] [[H1931\|הִיא]][[H9014\|־]] [[H6820\|צֹֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADMAH|ADMAH]] • [[topic BELA|BELA]] • [[topic BERA|BERA]] • [[topic BIRSHA|BIRSHA]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic GOMORRAH|GOMORRAH]] • [[topic LOT|LOT]] • [[topic SHEMEBER|SHEMEBER]] • [[topic SHINAB|SHINAB]] • [[topic SODOM|SODOM]] • [[topic ZEBOIM|ZEBOIM]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.1|<< Genesis 14:1]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.3|Genesis 14:3 >>]]</td></tr></table>
 

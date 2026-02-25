@@ -1,8 +1,55 @@
+---
+title: Proverbs 10:21
+type: Verse
+kjv: "The lips of the righteous feed many: but fools die for want of wisdom."
+bsb: "The lips of the righteous feed many, but fools die for lack of judgment."
+hebrew: "שִׂפְתֵ֣י צַ֭דִּיק יִרְע֣וּ רַבִּ֑ים וֶֽ֝אֱוִילִ֗ים בַּחֲסַר־ לֵ֥ב יָמֽוּתוּ׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H8193G]]"
+- "[[H6662]]"
+- "[[H7462B]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H0191]]"
+- "[[H9003]]"
+- "[[H2638]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:21**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lips of the righteous feed many: but fools die for want of wisdom.
 <small><sub>**BSB:**</sub></small>
 The lips of the righteous feed many, but fools die for lack of judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H8193G\|שִׂפְתֵ֣י]] [[H6662\|צַ֭דִּיק]] [[H7462B\|יִרְע֣וּ]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וֶֽ֝]][[H0191\|אֱוִילִ֗ים]] [[H9003\|בַּ]][[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵ֥ב]] [[H4191\|יָמֽוּתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.20|<< Proverbs 10:20]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.22|Proverbs 10:22 >>]]</td></tr></table>
 

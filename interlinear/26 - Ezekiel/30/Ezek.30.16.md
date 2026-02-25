@@ -1,8 +1,62 @@
+---
+title: Ezekiel 30:16
+type: Verse
+kjv: "And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph shall have distresses daily."
+bsb: "I will set fire to Egypt, Pelusium will writhe in anguish, Thebes will be split open, and Memphis will face daily distress."
+hebrew: "וְנָתַ֤תִּי אֵשׁ֙ בְּמִצְרַ֔יִם ח֤וּל תָּחוּל֙ סִ֔ין וְנֹ֖א תִּהְיֶ֣ה לְהִבָּקֵ֑עַ וְנֹ֖ף צָרֵ֥י יוֹמָֽם׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MEMPHIS|MEMPHIS]]"
+- "[[topic NO|NO]]"
+- "[[topic NOPH|NOPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H2342I]]"
+- "[[H5512A]]"
+- "[[H9002]]"
+- "[[H4996]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1234]]"
+- "[[H5297]]"
+- "[[H6862B]]"
+- "[[H3119]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 30:16**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph [shall have] distresses daily.
 <small><sub>**BSB:**</sub></small>
 I will set fire to Egypt, Pelusium will writhe in anguish, Thebes will be split open, and Memphis will face daily distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַ֤תִּי]] [[H0784\|אֵשׁ֙]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H2342I\|ח֤וּל]] [[H2342I\|תָּחוּל֙]] [[H5512A\|סִ֔ין]] [[H9002\|וְ]][[H4996\|נֹ֖א]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לְ]][[H1234\|הִבָּקֵ֑עַ]] [[H9002\|וְ]][[H5297\|נֹ֖ף]] [[H6862B\|צָרֵ֥י]] [[H3119\|יוֹמָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEMPHIS|MEMPHIS]] • [[topic NO|NO]] • [[topic NOPH|NOPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.15|<< Ezekiel 30:15]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.17|Ezekiel 30:17 >>]]</td></tr></table>
 

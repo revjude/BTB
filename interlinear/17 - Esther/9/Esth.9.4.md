@@ -1,8 +1,59 @@
+---
+title: Esther 9:4
+type: Verse
+kjv: "For Mordecai was great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater."
+bsb: "For Mordecai exercised great power in the palace, and his fame spread throughout the provinces as he became more and more powerful."
+hebrew: "כִּֽי־ גָ֤דוֹל מָרְדֳּכַי֙ בְּבֵ֣ית הַמֶּ֔לֶךְ וְשָׁמְע֖וֹ הוֹלֵ֣ךְ בְּכָל־ הַמְּדִינ֑וֹת כִּֽי־ הָאִ֥ישׁ מָרְדֳּכַ֖י הוֹלֵ֥ךְ וְגָדֽוֹל׃ פ"
+pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H4782H]]"
+- "[[H9003]]"
+- "[[H1004P]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H8089]]"
+- "[[H9023]]"
+- "[[H1980I]]"
+- "[[H3605]]"
+- "[[H4082]]"
+- "[[H0376G]]"
+- "[[H1980L]]"
+- "[[H1431]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Esther 9:4**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Mordecai [was] great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater.
 <small><sub>**BSB:**</sub></small>
 For Mordecai exercised great power in the palace, and his fame spread throughout the provinces as he became more and more powerful.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גָ֤דוֹל]] [[H4782H\|מָרְדֳּכַי֙]] [[H9003\|בְּ]][[H1004P\|בֵ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H8089\|שָׁמְע֖]][[H9023\|וֹ]] [[H1980I\|הוֹלֵ֣ךְ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4082\|מְּדִינ֑וֹת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H4782H\|מָרְדֳּכַ֖י]] [[H1980L\|הוֹלֵ֥ךְ]] [[H9002\|וְ]][[H1431\|גָדֽוֹל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.3|<< Esther 9:3]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.5|Esther 9:5 >>]]</td></tr></table>
 
@@ -21,7 +72,7 @@ For Mordecai exercised great power in the palace, and his fame spread throughout
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֖י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] going  |**<big>&#8207;[[H1980L\|הוֹלֵ֥ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and becoming great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1431\|גָדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Dol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and becoming great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1431\|גָדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ga.Dol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.3|<< Esther 9:3]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.5|Esther 9:5 >>]]</td></tr></table>
 
 

@@ -1,7 +1,7 @@
 
 **CUSH**
 
-1. Son of Ham [[Gen.10.6|Ge 10:6]]-[[Gen.10.8|8]]; [[1Chr.1.8|1Ch 1:8]]-[[1Chr.1.10|10]]
+1. Son of Ham [[Gen.10.6|Ge 10:6-8]]; [[1Chr.1.8|1Ch 1:8-10]]
 
 2. A Benjamite, title of [[Ps.7|Ps 7]]
 

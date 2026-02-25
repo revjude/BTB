@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Worthless Treaty with Egypt
+type: Pericope
 pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 30
 book/chapter: "[[Isa.30|Isaiah 30]]"
-genre:
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 17
 verses:
 - "[[Isa.30.1]]"
 - "[[Isa.30.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Isa.30.17]]"
 ---
 
-[[Isa.30|Isaiah 30:1 - Isaiah 30:17]]
+<small>[[Isa.30|Isaiah 30:1-17]]</small>
 *The Worthless Treaty with Egypt*
 
 [[Isa.30.1|1]] Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:

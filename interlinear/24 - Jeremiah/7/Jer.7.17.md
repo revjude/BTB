@@ -1,8 +1,61 @@
+---
+title: Jeremiah 7:17
+type: Verse
+kjv: "Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?"
+bsb: "Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?"
+hebrew: "הַֽאֵינְךָ֣ רֹאֶ֔ה מָ֛ה הֵ֥מָּה עֹשִׂ֖ים בְּעָרֵ֣י יְהוּדָ֑ה וּבְחֻצ֖וֹת יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9008]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H7200G]]"
+- "[[H4100]]"
+- "[[H1992]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H2351]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:17**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?
 <small><sub>**BSB:**</sub></small>
 Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H0369\|אֵינְ]][[H9041\|ךָ֣]] [[H7200G\|רֹאֶ֔ה]] [[H4100\|מָ֛ה]] [[H1992\|הֵ֥מָּה]] [[H6213A\|עֹשִׂ֖ים]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H2351\|חֻצ֖וֹת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.16|<< Jeremiah 7:16]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.18|Jeremiah 7:18 >>]]</td></tr></table>
 

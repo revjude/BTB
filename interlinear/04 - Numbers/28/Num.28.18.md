@@ -1,8 +1,61 @@
+---
+title: Numbers 28:18
+type: Verse
+kjv: "In the first day shall be an holy convocation; ye shall do no manner of servile work therein:"
+bsb: "On the first day there is to be a sacred assembly; you must not do any regular work."
+hebrew: "בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־ קֹ֑דֶשׁ כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:18**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first day [shall be] an holy convocation; ye shall do no manner of servile work [therein]:
 <small><sub>**BSB:**</sub></small>
 On the first day there is to be a sacred assembly; you must not do any regular work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֑דֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic PASSOVER|PASSOVER]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.17|<< Numbers 28:17]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.19|Numbers 28:19 >>]]</td></tr></table>
 

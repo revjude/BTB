@@ -1,8 +1,77 @@
+---
+title: Jeremiah 17:8
+type: Verse
+kjv: "For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit."
+bsb: "He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit."
+hebrew: "וְהָיָ֞ה כְּעֵ֣ץ׀ שָׁת֣וּל עַל־ מַ֗יִם וְעַל־ יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א יִרְאֶה֙ כִּֽי־ יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֙רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ מֵעֲשׂ֥וֹת פֶּֽרִי׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TREE|TREE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6086H]]"
+- "[[H9015]]"
+- "[[H8362]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H3105]]"
+- "[[H7971G]]"
+- "[[H8328]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H2527]]"
+- "[[H5929]]"
+- "[[H7488B]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H1226]]"
+- "[[H1672]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H6213H]]"
+- "[[H6529]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:8**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall be as a tree planted by the waters, and [that] spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.
 <small><sub>**BSB:**</sub></small>
 He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H9004\|כְּ]][[H6086H\|עֵ֣ץ]][[H9015\|׀]] [[H8362\|שָׁת֣וּל]] [[H5921A\|עַל]][[H9014\|־]] [[H4325G\|מַ֗יִם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3105\|יוּבַל֙]] [[H7971G\|יְשַׁלַּ֣ח]] [[H8328\|שָֽׁרָשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7200G\|יִרְאֶה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|יָבֹ֣א]] [[H2527\|חֹ֔ם]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H5929\|עָלֵ֖]][[H9023\|הוּ]] [[H7488B\|רַֽעֲנָ֑ן]] [[H9002\|וּ]][[H9003\|בִ]][[H8141\|שְׁנַ֤ת]] [[H1226\|בַּצֹּ֙רֶת֙]] [[H3808\|לֹ֣א]] [[H1672\|יִדְאָ֔ג]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4185\|יָמִ֖ישׁ]] [[H9006\|מֵ]][[H6213H\|עֲשׂ֥וֹת]] [[H6529\|פֶּֽרִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TREE|TREE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Acts 1:5
+type: Verse
+kjv: "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence."
+bsb: "For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”"
+jesus_said: "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence."
+greek: "ὅτι Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ ἐν πνεύματι βαπτισθήσεσθε ἁγίῳ οὐ μετὰ πολλὰς ταύτας ἡμέρας.¶"
+pericope: "[[Acts.1.1 Prologue|Prologue]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2491G]]"
+- "[[G3303]]"
+- "[[G0907]]"
+- "[[G5204]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G3756]]"
+- "[[G3326]]"
+- "[[G4183]]"
+- "[[G3778]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Acts 1:5**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
 <small><sub>**BSB:**</sub></small>
 For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”
-<small><sub>**Literal:**</sub></small>
-for John indeed baptized with water, you yourselves however with [the] Spirit will be baptized Holy not after many these days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.4|<< Acts 1:4]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.6|Acts 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2491G\|Ἰωάννης]]  [[G3303\|μὲν]]  [[G0907\|ἐβάπτισεν]]  [[G5204\|ὕδατι,]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0907\|βαπτισθήσεσθε]]  [[G0040G\|ἁγίῳ]]  [[G3756\|οὐ]]  [[G3326\|μετὰ]]  [[G4183\|πολλὰς]]  [[G3778\|ταύτας]]  [[G2250\|ἡμέρας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.4|<< Acts 1:4]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.6|Acts 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

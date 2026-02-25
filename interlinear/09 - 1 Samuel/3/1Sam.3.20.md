@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 3:20
+type: Verse
+kjv: "And all Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of the LORD."
+bsb: "So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD."
+hebrew: "וַיֵּ֙דַע֙ כָּל־ יִשְׂרָאֵ֔ל מִדָּ֖ן וְעַד־ בְּאֵ֣ר שָׁ֑בַע כִּ֚י נֶאֱמָ֣ן שְׁמוּאֵ֔ל לְנָבִ֖יא לַיהוָֽה׃"
+pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H1835G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0884]]"
+- "[[H3588A]]"
+- "[[H0539]]"
+- "[[H8050G]]"
+- "[[H9005]]"
+- "[[H5030]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:20**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel from Dan even to Beersheba knew that Samuel [was] established [to be] a prophet of the LORD.
 <small><sub>**BSB:**</sub></small>
 So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3045\|יֵּ֙דַע֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H1835G\|דָּ֖ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שָׁ֑בַע]] [[H3588A\|כִּ֚י]] [[H0539\|נֶאֱמָ֣ן]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H9005\|לְ]][[H5030\|נָבִ֖יא]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.19|<< 1 Samuel 3:19]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.21|1 Samuel 3:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

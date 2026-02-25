@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The New Covenant
+type: Pericope
 pericope: "[[Heb.8.6 The New Covenant|The New Covenant]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 8
 book/chapter: "[[Heb.8|Hebrews 8]]"
-genre:
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 8
 verses:
 - "[[Heb.8.6]]"
 - "[[Heb.8.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Heb.8.13]]"
 ---
 
-[[Heb.8|Hebrews 8:6 - Hebrews 8:13]]
+<small>[[Heb.8|Hebrews 8:6-13]]</small>
 *The New Covenant*
 
 [[Heb.8.6|6]] But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.

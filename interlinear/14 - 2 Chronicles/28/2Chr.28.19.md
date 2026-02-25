@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 28:19
+type: Verse
+kjv: "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD."
+bsb: "For the LORD humbled Judah because Ahaz king of Israel had thrown off restraint in Judah and had been most unfaithful to the LORD."
+hebrew: "כִּֽי־ הִכְנִ֤יעַ יְהוָה֙ אֶת־ יְהוּדָ֔ה בַּעֲב֖וּר אָחָ֣ז מֶֽלֶךְ־ יִשְׂרָאֵ֑ל כִּ֤י הִפְרִ֙יעַ֙ בִּֽיהוּדָ֔ה וּמָע֥וֹל מַ֖עַל בַּיהוָֽה׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic RULERS|RULERS]]"
+- "[[topic TIGLATH-PILESER|TIGLATH-PILESER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3665]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H0271G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H6544B]]"
+- "[[H9002]]"
+- "[[H4603]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:19**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD.
 <small><sub>**BSB:**</sub></small>
 For the LORD humbled Judah because Ahaz king of Israel had thrown off restraint in Judah and had been most unfaithful to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3665\|הִכְנִ֤יעַ]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H0271G\|אָחָ֣ז]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֤י]] [[H6544B\|הִפְרִ֙יעַ֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וּ]][[H4603\|מָע֥וֹל]] [[H4603\|מַ֖עַל]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]] • [[topic TIGLATH-PILESER|TIGLATH-PILESER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.18|<< 2 Chronicles 28:18]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.20|2 Chronicles 28:20 >>]]</td></tr></table>
 

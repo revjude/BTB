@@ -1,10 +1,56 @@
+---
+title: Acts 1:26
+type: Verse
+kjv: "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+bsb: "Then they cast lots, and the lot fell to Matthias. So he was added to the eleven apostles."
+greek: "καὶ ἔδωκαν κλήρους αὐτοῖς καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Μαθθίαν καὶ συγκατεψηφίσθη μετὰ τῶν ἕνδεκα ἀποστόλων.¶"
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G2819]]"
+- "[[G0846]]"
+- "[[G4098]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3159]]"
+- "[[G4785]]"
+- "[[G3326]]"
+- "[[G1733]]"
+- "[[G0652]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 1:26**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 <small><sub>**BSB:**</sub></small>
 Then they cast lots, and the lot fell to Matthias. So he was added to the eleven apostles.
-<small><sub>**Literal:**</sub></small>
-And they gave lots to them and fell the lot on Matthias and he was numbered with the eleven apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.25|<< Acts 1:25]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.1|Acts 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἔδωκαν]]  [[G2819\|κλήρους]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G4098\|ἔπεσεν]]  [[G3588\|ὁ]]  [[G2819\|κλῆρος]]  [[G1909\|ἐπὶ]]  [[G3159\|Μαθθίαν]]  [[G2532\|καὶ]]  [[G4785\|συγκατεψηφίσθη]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1733\|ἕνδεκα]]  [[G0652\|ἀποστόλων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic LOT, THE|LOT, THE]] • [[topic MATTHIAS|MATTHIAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.25|<< Acts 1:25]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.1|Acts 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

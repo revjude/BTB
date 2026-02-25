@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Disciples
+type: Pericope
 pericope: "[[Mark.1.16 The First Disciples|The First Disciples]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.1.16]]"
 - "[[Mark.1.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.1.20]]"
 ---
 
-[[Mark.1|Mark 1:16 - Mark 1:20]]
+<small>[[Mark.1|Mark 1:16-20]]</small>
 *The First Disciples*
 
 [[Mark.1.16|16]] Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.

@@ -1,8 +1,61 @@
+---
+title: Leviticus 13:22
+type: Verse
+kjv: "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague."
+bsb: "If it spreads any further on the skin, the priest must pronounce him unclean; it is an infection."
+hebrew: "וְאִם־ פָּשֹׂ֥ה תִפְשֶׂ֖ה בָּע֑וֹר וְטִמֵּ֧א הַכֹּהֵ֛ן אֹת֖וֹ נֶ֥גַע הִֽוא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:22**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it [is] a plague.
 <small><sub>**BSB:**</sub></small>
 If it spreads any further on the skin, the priest must pronounce him unclean; it is an infection.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H6581\|פָּשֹׂ֥ה]] [[H6581\|תִפְשֶׂ֖ה]] [[H9003\|בָּ]][[H5785\|ע֑וֹר]] [[H9001\|וְ]][[H2930A\|טִמֵּ֧א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5061\|נֶ֥גַע]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.21|<< Leviticus 13:21]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.23|Leviticus 13:23 >>]]</td></tr></table>
 

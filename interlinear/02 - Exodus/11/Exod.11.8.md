@@ -1,8 +1,77 @@
+---
+title: Exodus 11:8
+type: Verse
+kjv: "And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger."
+bsb: "And all these officials of yours will come and bow before me, saying, ‘Go, you and all the people who follow you!’ After that, I will depart.” And hot with anger, Moses left Pharaoh’s presence."
+hebrew: "וְיָרְד֣וּ כָל־ עֲבָדֶיךָ֩ אֵ֨לֶּה אֵלַ֜י וְהִשְׁתַּֽחֲוּוּ־ לִ֣י לֵאמֹ֗ר צֵ֤א אַתָּה֙ וְכָל־ הָעָ֣ם אֲשֶׁר־ בְּרַגְלֶ֔יךָ וְאַחֲרֵי־ כֵ֖ן אֵצֵ֑א וַיֵּצֵ֥א מֵֽעִם־ פַּרְעֹ֖ה בָּחֳרִי־ אָֽף׃ ס"
+pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3318G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H6547J]]"
+- "[[H2750]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 11:8**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
 <small><sub>**BSB:**</sub></small>
 And all these officials of yours will come and bow before me, saying, ‘Go, you and all the people who follow you!’ After that, I will depart.” And hot with anger, Moses left Pharaoh’s presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרְד֣וּ]] [[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדֶי]][[H9021\|ךָ֩]] [[H0428\|אֵ֨לֶּה]] [[H0413\|אֵלַ֜]][[H9030\|י]] [[H9001\|וְ]][[H7812\|הִשְׁתַּֽחֲוּוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3318G\|צֵ֤א]] [[H0859A\|אַתָּה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H7272\|רַגְלֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H3318G\|אֵצֵ֑א]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H9006\|מֵֽ]][[H5973B\|עִם]][[H9014\|־]] [[H6547J\|פַּרְעֹ֖ה]] [[H9003\|בָּ]][[H2750\|חֳרִי]][[H9014\|־]] [[H0639G\|אָֽף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROOF|REPROOF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.7|<< Exodus 11:7]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.9|Exodus 11:9 >>]]</td></tr></table>
 
@@ -29,7 +98,7 @@ And all these officials of yours will come and bow before me, saying, ‘Go, you
 | from with  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5973B\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֖ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with heat of  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2750\|חֳרִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bo.<small><sup>[[HR]]</sup></small> cho.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger  |**<big>&#8207;[[H0639G\|אָֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Af<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger  |**<big>&#8207;[[H0639G\|אָֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Af<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.7|<< Exodus 11:7]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.9|Exodus 11:9 >>]]</td></tr></table>
 
 

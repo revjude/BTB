@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 29:10
+type: Verse
+kjv: "Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, with all the men of Israel,"
+bsb: "All of you are standing today before the LORD your God—you leaders of tribes, elders, officials, and all the men of Israel,"
+hebrew: "אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵיכֶ֑ם רָאשֵׁיכֶ֣ם שִׁבְטֵיכֶ֗ם זִקְנֵיכֶם֙ וְשֹׁ֣טְרֵיכֶ֔ם כֹּ֖ל אִ֥ישׁ יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H0859D]]"
+- "[[H5324]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H7218H]]"
+- "[[H7626H]]"
+- "[[H2205G]]"
+- "[[H9002]]"
+- "[[H7860]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:10**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, [with] all the men of Israel,
 <small><sub>**BSB:**</sub></small>
 All of you are standing today before the LORD your God—you leaders of tribes, elders, officials, and all the men of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H0859D\|אַתֶּ֨ם]] [[H5324\|נִצָּבִ֤ים]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H3605\|כֻּלְּ]][[H9026\|כֶ֔ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H7218H\|רָאשֵׁי]][[H9026\|כֶ֣ם]] [[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֗ם]] [[H2205G\|זִקְנֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H7860\|שֹׁ֣טְרֵי]][[H9026\|כֶ֔ם]] [[H3605\|כֹּ֖ל]] [[H0376G\|אִ֥ישׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.9|<< Deuteronomy 29:9]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.11|Deuteronomy 29:11 >>]]</td></tr></table>
 

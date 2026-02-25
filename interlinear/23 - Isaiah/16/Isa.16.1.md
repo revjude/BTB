@@ -1,8 +1,55 @@
+---
+title: Isaiah 16:1
+type: Verse
+kjv: "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion."
+bsb: "Send the tribute lambs to the ruler of the land, from Sela in the desert to the mount of Daughter Zion."
+hebrew: "שִׁלְחוּ־ כַ֥ר מֹשֵֽׁל־ אֶ֖רֶץ מִסֶּ֣לַע מִדְבָּ֑רָה אֶל־ הַ֖ר בַּת־ צִיּֽוֹן׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic SELA|SELA]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H3733C]]"
+- "[[H4910]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H5554]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:1**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 <small><sub>**BSB:**</sub></small>
 Send the tribute lambs to the ruler of the land, from Sela in the desert to the mount of Daughter Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שִׁלְחוּ]][[H9014\|־]] [[H3733C\|כַ֥ר]] [[H4910\|מֹשֵֽׁל]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H9006\|מִ]][[H5554\|סֶּ֣לַע]] [[H4057B\|מִדְבָּ֑רָ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֖ר]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELA|SELA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.9|<< Isaiah 15:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.2|Isaiah 16:2 >>]]</td></tr></table>
 

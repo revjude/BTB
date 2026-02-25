@@ -1,10 +1,57 @@
+---
+title: Ephesians 5:11
+type: Verse
+kjv: "And have no fellowship with the unfruitful works of darkness, but rather reprove them."
+bsb: "Have no fellowship with the fruitless deeds of darkness, but rather expose them."
+greek: "καὶ μὴ συγκοινωνεῖτε τοῖς ἔργοις τοῖς ἀκάρποις τοῦ σκότους, μᾶλλον δὲ καὶ ἐλέγχετε·"
+pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G4790]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G0175]]"
+- "[[G4655]]"
+- "[[G3123H]]"
+- "[[G1161]]"
+- "[[G1651]]"
+texts:
+- NKO
+---
+
 **Ephesians 5:11**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And have no fellowship with the unfruitful works of darkness, but rather reprove [them].
 <small><sub>**BSB:**</sub></small>
 Have no fellowship with the fruitless deeds of darkness, but rather expose them.
-<small><sub>**Literal:**</sub></small>
-And not do have fellowship with the works <the> unfruitful <the> of darkness, rather however even do expose [them];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.10|<< Ephesians 5:10]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.12|Ephesians 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4790\|συγκοινωνεῖτε]]  [[G3588\|τοῖς]]  [[G2041\|ἔργοις]]  [[G3588\|τοῖς]]  [[G0175\|ἀκάρποις]]  [[G3588\|τοῦ]]  [[G4655\|σκότους,]]  [[G3123H\|μᾶλλον]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1651\|ἐλέγχετε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic DARKNESS|DARKNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic REPROOF|REPROOF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.10|<< Ephesians 5:10]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.12|Ephesians 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

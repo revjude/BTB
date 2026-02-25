@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Power Shown in Leviathan
+type: Pericope
 pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
-verse_count: 34
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 41
 book/chapter: "[[Job.41|Job 41]]"
-genre:
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 34
 verses:
 - "[[Job.41.1]]"
 - "[[Job.41.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Job.41.34]]"
 ---
 
-[[Job.41|Job 41:1 - Job 41:34]]
+<small>[[Job.41|Job 41:1-34]]</small>
 *The LORD’s Power Shown in Leviathan*
 
 [[Job.41.1|1]] Canst thou draw out leviathan with an hook? or his tongue with a cord \[which\] thou lettest down?

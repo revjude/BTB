@@ -1,9 +1,67 @@
+---
+title: LXX 2 Chronicles 11:1
+type: Verse
+lxx: "And Rehoboam came into Jerusalem, and he held an assembly  of Judah and Benjamin -- a hundred eighty thousand young men for making war,  to wage war against Israel,  to return the kingdom to Rehoboam."
+greek: "και ήλθε Ροβοάμ εις Ιερουσαλήμ και εξεκκλησίασε τον Ιούδαν και Βενιαμίν εκατόν ογδοήκοντα χιλιάδας νεανίσκων ποιούντων πόλεμον του πολεμήσαι μετά Ισραήλ του επιστρέψαι την βασιλείαν τω Ροβοάμ"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4497]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G7308]]"
+- "[[G3588]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G0958]]"
+- "[[G1540]]"
+- "[[G3589]]"
+- "[[G5505]]"
+- "[[G3495]]"
+- "[[G4160]]"
+- "[[G4171]]"
+- "[[G3588]]"
+- "[[G4170]]"
+- "[[G3326]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3588]]"
+- "[[G4497]]"
+---
+
 **LXX 2 Chronicles 11:1** 
 
 ***The Kingdom Is Divided***
 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam came into Jerusalem, and he held an assembly  of Judah and Benjamin -- a hundred eighty thousand young men for making war,  to wage war against Israel,  to return the kingdom \[to\] Rehoboam. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|ήλθε]] [[G4497\|Ροβοάμ]] [[G1519\|εις]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G7308\|εξεκκλησίασε]] [[G3588\|τον]] [[G2448\|Ιούδαν]] [[G2532\|και]] [[G0958\|Βενιαμίν]] [[G1540\|εκατόν]] [[G3589\|ογδοήκοντα]] [[G5505\|χιλιάδας]] [[G3495\|νεανίσκων]] [[G4160\|ποιούντων]] [[G4171\|πόλεμον]] [[G3588\|του]] [[G4170\|πολεμήσαι]] [[G3326\|μετά]] [[G2474\|Ισραήλ]] [[G3588\|του]] [[G1994\|επιστρέψαι]] [[G3588\|την]] [[G0932\|βασιλείαν]] [[G3588\|τω]] [[G4497\|Ροβοάμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.19|<< 2 Chronicles 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.2|2 Chronicles 11:2 >>]]</td></tr></table>
 
@@ -35,6 +93,6 @@ And Rehoboam came into Jerusalem, and he held an assembly  of Judah and Benjamin
 | kingdom | **<big>[[G0932\|βασιλείαν]]</big>** |
 | \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
 | Rehoboam. | **<big>[[G4497\|Ροβοάμ]]</big>** |
-[[2Chr.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.19|<< 2 Chronicles 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.2|2 Chronicles 11:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.19|<< 2 Chronicles 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.2|2 Chronicles 11:2 >>]]</td></tr></table>
 
 

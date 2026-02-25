@@ -1,8 +1,59 @@
+---
+title: Psalm 89:50
+type: Verse
+kjv: "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;"
+bsb: "Remember, O Lord, the reproach of Your servants, which I bear in my heart from so many people—"
+hebrew: "זְכֹ֣ר אֲ֭דֹנָי חֶרְפַּ֣ת עֲבָדֶ֑יךָ שְׂאֵתִ֥י בְ֝חֵיקִ֗י כָּל־ רַבִּ֥ים עַמִּֽים׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2142]]"
+- "[[H0136]]"
+- "[[H2781]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5375H]]"
+- "[[H9040]]"
+- "[[H9003]]"
+- "[[H2436G]]"
+- "[[H9020]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:50**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the reproach of] all the mighty people;
 <small><sub>**BSB:**</sub></small>
 Remember, O Lord, the reproach of Your servants, which I bear in my heart from so many people—
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹ֣ר]] [[H0136\|אֲ֭דֹנָי]] [[H2781\|חֶרְפַּ֣ת]] [[H5650\|עֲבָדֶ֑י]][[H9021\|ךָ]] [[H5375H\|שְׂאֵתִ֥]][[H9040\|י]] [[H9003\|בְ֝]][[H2436G\|חֵיקִ֗]][[H9020\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H7227A\|רַבִּ֥ים]] [[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.49|<< Psalms 89:49]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.51|Psalms 89:51 >>]]</td></tr></table>
 

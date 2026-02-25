@@ -1,9 +1,84 @@
+---
+title: LXX Amos 9:1
+type: Verse
+lxx: "I saw the lord standing at the altar. And he said, Strike upon the atonement-seat! and the gateways shall be shaken. And cut unto the heads of all! and the ones remaining of them I will kill by the broadsword. In no way should one evade from them by fleeing, and in no way shall there be preserved one of them by rescuing."
+greek: "είδον τον κύριον εφεστώτα επί του θυσιαστηρίου και είπε πάταξον επί το ιλαστήριον και σεισθήσεται τα πρόπυλα και διάκοψον εις κεφαλάς πάντων και τους καταλοίπους αυτών εν ρομφαία αποκτενώ ου μη διαφύγη εξ αυτών φεύγων και ου μη διασωθή εξ αυτών ανασωζόμενος"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2186]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3960]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2435]]"
+- "[[G2532]]"
+- "[[G4579]]"
+- "[[G3588]]"
+- "[[G8908]]"
+- "[[G2532]]"
+- "[[G6839]]"
+- "[[G1519]]"
+- "[[G2776]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2645]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4501]]"
+- "[[G0615]]"
+- "[[G3364]]"
+- "[[G1309]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G5343]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G1295]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G6314]]"
+---
+
 **LXX Amos 9:1** 
 
 ***The Earth Shaken***
 
 <small><sub>**LXX:**</sub></small>
 I saw the <span class="smallcaps">lord</span> standing at the altar. And he said, Strike upon the atonement-seat! and the gateways shall be shaken. And cut unto \[the\] heads of all! and the ones remaining of them I will kill by \[the\] broadsword. In no way should one evade from them by fleeing, and in no way shall there be preserved one of them by rescuing. 
+<small><sub>**Greek:**</sub></small>
+[[G1492\|είδον]] [[G3588\|τον]] [[G2962\|κύριον]] [[G2186\|εφεστώτα]] [[G1909\|επί]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G2532\|και]] [[G2036\|είπε]] [[G3960\|πάταξον]] [[G1909\|επί]] [[G3588\|το]] [[G2435\|ιλαστήριον]] [[G2532\|και]] [[G4579\|σεισθήσεται]] [[G3588\|τα]] [[G8908\|πρόπυλα]] [[G2532\|και]] [[G6839\|διάκοψον]] [[G1519\|εις]] [[G2776\|κεφαλάς]] [[G3956\|πάντων]] [[G2532\|και]] [[G3588\|τους]] [[G2645\|καταλοίπους]] [[G1473\|αυτών]] [[G1722\|εν]] [[G4501\|ρομφαία]] [[G0615\|αποκτενώ]] [[G3364\|ου μη]] [[G1309\|διαφύγη]] [[G1537\|εξ]] [[G1473\|αυτών]] [[G5343\|φεύγων]] [[G2532\|και]] [[G3364\|ου μη]] [[G1295\|διασωθή]] [[G1537\|εξ]] [[G1473\|αυτών]] [[G6314\|ανασωζόμενος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SIN|SIN]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 
@@ -49,6 +124,6 @@ I saw the <span class="smallcaps">lord</span> standing at the altar. And he said
 | of | **<big>[[G1537\|εξ]]</big>** |
 | them | **<big>[[G1473\|αυτών]]</big>** |
 | by rescuing. | **<big>[[G6314\|ανασωζόμενος]]</big>** |
-[[Amos.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.14|<< Amos 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.2|Amos 9:2 >>]]</td></tr></table>
 
 

@@ -1,8 +1,56 @@
+---
+title: Daniel 2:7
+type: Verse
+kjv: "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it."
+bsb: "They answered a second time, “Let the king tell the dream to his servants, and we will give the interpretation.”"
+aramaic: "עֲנ֥וֹ תִנְיָנ֖וּת וְאָמְרִ֑ין מַלְכָּ֕א חֶלְמָ֛א יֵאמַ֥ר לְעַבְד֖וֹהִי וּפִשְׁרָ֥ה נְהַחֲוֵֽה׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6032]]"
+- "[[H8579]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H2493]]"
+- "[[H9005]]"
+- "[[H5649]]"
+- "[[H9023]]"
+- "[[H6591]]"
+- "[[H2324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:7**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
 <small><sub>**BSB:**</sub></small>
 They answered a second time, “Let the king tell the dream to his servants, and we will give the interpretation.”
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עֲנ֥וֹ]] [[H8579\|תִנְיָנ֖וּת]] [[H9002\|וְ]][[H0560\|אָמְרִ֑ין]] [[H4430\|מַלְכָּ֕]][[H9010\|א]] [[H2493\|חֶלְמָ֛]][[H9010\|א]] [[H0560\|יֵאמַ֥ר]] [[H9005\|לְ]][[H5649\|עַבְד֖וֹ]][[H9023\|הִי]] [[H9002\|וּ]][[H6591\|פִשְׁרָ֥]][[H9010\|ה]] [[H2324\|נְהַחֲוֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.6|<< Daniel 2:6]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.8|Daniel 2:8 >>]]</td></tr></table>
 

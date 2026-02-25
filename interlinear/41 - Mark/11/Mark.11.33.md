@@ -1,10 +1,58 @@
+---
+title: Mark 11:33
+type: Verse
+kjv: "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things."
+bsb: "So they answered, “We do not know.” And Jesus replied, “Neither will I tell you by what authority I am doing these things.”"
+jesus_said: "Neither do I tell you by what authority I do these things."
+greek: "καὶ ἀποκριθέντες τῷ Ἰησοῦ λέγουσιν· οὐκ οἴδαμεν. καὶ ὁ Ἰησοῦς ἀποκριθεὶς λέγει αὐτοῖς· οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ.¶"
+pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G0846]]"
+- "[[G3761]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 11:33**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.
 <small><sub>**BSB:**</sub></small>
 So they answered, “We do not know.” And Jesus replied, “Neither will I tell you by what authority I am doing these things.”
-<small><sub>**Literal:**</sub></small>
-And answering <the> to Jesus they say: Not do we know. And <the> Jesus answering says to them; Neither I myself tell you by what authority these things I do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.32|<< Mark 11:32]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.1|Mark 12:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθέντες]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3004G\|λέγουσιν·]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀποκριθεὶς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3761\|οὐδὲ]]  [[G1473\|ἐγὼ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιῶ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.32|<< Mark 11:32]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.1|Mark 12:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

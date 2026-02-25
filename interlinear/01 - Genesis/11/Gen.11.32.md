@@ -1,8 +1,60 @@
+---
+title: Genesis 11:32
+type: Verse
+kjv: "And the days of Terah were two hundred and five years: and Terah died in Haran."
+bsb: "Terah lived 205 years, and he died in Haran."
+hebrew: "וַיִּהְי֣וּ יְמֵי־ תֶ֔רַח חָמֵ֥שׁ שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיָּ֥מָת תֶּ֖רַח בְּחָרָֽן׃ ס"
+pericope: "[[Gen.11.27 Terah’s Descendants|Terah’s Descendants]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic TERAH|TERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H8646G]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H2771A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 11:32**<big><big>[[Gen.11.27 Terah’s Descendants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the days of Terah were two hundred and five years: and Terah died in Haran.
 <small><sub>**BSB:**</sub></small>
 Terah lived 205 years, and he died in Haran.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֣וּ]] [[H3117G\|יְמֵי]][[H9014\|־]] [[H8646G\|תֶ֔רַח]] [[H2568\|חָמֵ֥שׁ]] [[H8141\|שָׁנִ֖ים]] [[H9002\|וּ]][[H3967\|מָאתַ֣יִם]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H8646G\|תֶּ֖רַח]] [[H9003\|בְּ]][[H2771A\|חָרָֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HARAN|HARAN]] • [[topic LONGEVITY|LONGEVITY]] • [[topic TERAH|TERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.31|<< Genesis 11:31]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.1|Genesis 12:1 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ Terah lived 205 years, and he died in Haran.
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֥מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Terah  |**<big>&#8207;[[H8646G\|תֶּ֖רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Haran  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2771A\|חָרָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Haran  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2771A\|חָרָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Ran<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.31|<< Genesis 11:31]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.1|Genesis 12:1 >>]]</td></tr></table>
 
 

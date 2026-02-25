@@ -1,8 +1,85 @@
+---
+title: Jeremiah 27:8
+type: Verse
+kjv: "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand."
+bsb: "As for the nation or kingdom that does not serve Nebuchadnezzar king of Babylon and does not place its neck under his yoke, I will punish that nation by sword and famine and plague, declares the LORD, until I have destroyed it by his hand."
+hebrew: "וְהָיָ֨ה הַגּ֜וֹי וְהַמַּמְלָכָ֗ה אֲשֶׁ֨ר לֹֽא־ יַעַבְד֤וּ אֹתוֹ֙ אֶת־ נְבוּכַדְנֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֔ל וְאֵ֨ת אֲשֶׁ֤ר לֹֽא־ יִתֵּן֙ אֶת־ צַוָּאר֔וֹ בְּעֹ֖ל מֶ֣לֶךְ בָּבֶ֑ל בַּחֶרֶב֩ וּבָרָעָ֨ב וּבַדֶּ֜בֶר אֶפְקֹ֨ד עַל־ הַגּ֤וֹי הַהוּא֙ נְאֻם־ יְהוָ֔ה עַד־ תֻּמִּ֥י אֹתָ֖ם בְּיָדֽוֹ׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5414H]]"
+- "[[H6677A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5923]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H9040]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:8**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.
 <small><sub>**BSB:**</sub></small>
 As for the nation or kingdom that does not serve Nebuchadnezzar king of Babylon and does not place its neck under his yoke, I will punish that nation by sword and famine and plague, declares the LORD, until I have destroyed it by his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9009\|הַ]][[H1471A\|גּ֜וֹי]] [[H9002\|וְ]][[H9009\|הַ]][[H4467\|מַּמְלָכָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5647G\|יַעַבְד֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5019\|נְבוּכַדְנֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414H\|יִתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6677A\|צַוָּאר֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H5923\|עֹ֖ל]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9003\|בַּ]][[H2719\|חֶרֶב֩]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֨ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דֶּ֜בֶר]] [[H6485H\|אֶפְקֹ֨ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֤וֹי]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֻּמִּ֥]][[H9040\|י]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.7|<< Jeremiah 27:7]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.9|Jeremiah 27:9 >>]]</td></tr></table>
 

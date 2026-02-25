@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 16:37
+type: Verse
+kjv: "So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required:"
+bsb: "So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,"
+hebrew: "וַיַּֽעֲזָב־ שָׁ֗ם לִפְנֵי֙ אֲר֣וֹן בְּרִית־ יְהוָ֔ה לְאָסָ֖ף וּלְאֶחָ֑יו לְשָׁרֵ֞ת לִפְנֵ֧י הָאָר֛וֹן תָּמִ֖יד לִדְבַר־ י֥וֹם בְּיוֹמֽוֹ׃"
+pericope: "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H0623H]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H8334]]"
+- "[[H9009]]"
+- "[[H8548]]"
+- "[[H1697M]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:37**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required:
 <small><sub>**BSB:**</sub></small>
 So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּֽעֲזָב]][[H9014\|־]] [[H8033G\|שָׁ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H0727\|אֲר֣וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H0623H\|אָסָ֖ף]] [[H9002\|וּ]][[H9005\|לְ]][[H0251H\|אֶחָ֑י]][[H9023\|ו]] [[H9005\|לְ]][[H8334\|שָׁרֵ֞ת]] [[H9005\|לִ]][[H6440G\|פְנֵ֧י]] [[H9009\|הָ]][[H0727\|אָר֛וֹן]] [[H8548\|תָּמִ֖יד]] [[H9005\|לִ]][[H1697M\|דְבַר]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H9003\|בְּ]][[H3117G\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic MUSIC|MUSIC]] • [[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.36|<< 1 Chronicles 16:36]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.38|1 Chronicles 16:38 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 20:6
+type: Verse
+kjv: "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
+bsb: "Has any man planted a vineyard and not begun to enjoy its fruit? Let him return home, or he may die in battle and another man enjoy its fruit."
+hebrew: "וּמִֽי־ הָאִ֞ישׁ אֲשֶׁר־ נָטַ֥ע כֶּ֙רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־ יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5193]]"
+- "[[H3754]]"
+- "[[H3808]]"
+- "[[H2490I]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:6**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what man [is he] that hath planted a vineyard, and hath not [yet] eaten of it? let him [also] go and return unto his house, lest he die in the battle, and another man eat of it.
 <small><sub>**BSB:**</sub></small>
 Has any man planted a vineyard and not begun to enjoy its fruit? Let him return home, or he may die in battle and another man enjoy its fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִֽי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֞ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5193\|נָטַ֥ע]] [[H3754\|כֶּ֙רֶם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2490I\|חִלְּל֔]][[H9033\|וֹ]] [[H1980G\|יֵלֵ֖ךְ]] [[H9002\|וְ]][[H7725G\|יָשֹׁ֣ב]] [[H9005\|לְ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|יָמוּת֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0312\|אַחֵ֖ר]] [[H2490I\|יְחַלְּלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ARMIES|ARMIES]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.5|<< Deuteronomy 20:5]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.7|Deuteronomy 20:7 >>]]</td></tr></table>
 

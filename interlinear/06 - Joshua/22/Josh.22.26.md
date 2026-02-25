@@ -1,8 +1,65 @@
+---
+title: Joshua 22:26
+type: Verse
+kjv: "Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:"
+bsb: "That is why we said, ‘Let us take action and build an altar for ourselves, but not for burnt offerings or sacrifices."
+hebrew: "וַנֹּ֕אמֶר נַעֲשֶׂה־ נָּ֣א לָ֔נוּ לִבְנ֖וֹת אֶת־ הַמִּזְבֵּ֑חַ לֹ֥א לְעוֹלָ֖ה וְלֹ֥א לְזָֽבַח׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H3808]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H2077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:26**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:
 <small><sub>**BSB:**</sub></small>
 That is why we said, ‘Let us take action and build an altar for ourselves, but not for burnt offerings or sacrifices.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|נֹּ֕אמֶר]] [[H6213H\|נַעֲשֶׂה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9005\|לִ]][[H1129\|בְנ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H3808\|לֹ֥א]] [[H9005\|לְ]][[H5930A\|עוֹלָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9005\|לְ]][[H2077\|זָֽבַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.25|<< Joshua 22:25]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.27|Joshua 22:27 >>]]</td></tr></table>
 

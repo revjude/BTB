@@ -1,8 +1,65 @@
+---
+title: Numbers 24:14
+type: Verse
+kjv: "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."
+bsb: "Now I am going back to my people, but come, let me warn you what this people will do to your people in the days to come.”"
+hebrew: "וְעַתָּ֕ה הִנְנִ֥י הוֹלֵ֖ךְ לְעַמִּ֑י לְכָה֙ אִיעָ֣צְךָ֔ אֲשֶׁ֨ר יַעֲשֶׂ֜ה הָעָ֥ם הַזֶּ֛ה לְעַמְּךָ֖ בְּאַחֲרִ֥ית הַיָּמִֽים׃"
+pericope: "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H3289]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:14**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I go unto my people: come [therefore, and] I will advertise thee what this people shall do to thy people in the latter days.
 <small><sub>**BSB:**</sub></small>
 Now I am going back to my people, but come, let me warn you what this people will do to your people in the days to come.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H2005\|הִנְנִ֥]][[H9040\|י]] [[H1980G\|הוֹלֵ֖ךְ]] [[H9005\|לְ]][[H5971A\|עַמִּ֑]][[H9020\|י]] [[H1980K\|לְכָ]][[H9012\|ה֙]] [[H3289\|אִיעָ֣צְ]][[H9031\|ךָ֔]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|יַעֲשֶׂ֜ה]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֖]] [[H9003\|בְּ]][[H0319\|אַחֲרִ֥ית]] [[H9009\|הַ]][[H3117G\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.13|<< Numbers 24:13]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.15|Numbers 24:15 >>]]</td></tr></table>
 

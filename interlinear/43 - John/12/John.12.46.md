@@ -1,10 +1,56 @@
+---
+title: John 12:46
+type: Verse
+kjv: "I am come a light into the world, that whosoever believeth on me should not abide in darkness."
+bsb: "I have come into the world as a light, so that no one who believes in Me should remain in darkness."
+jesus_said: "I am come a light into the world, that whosoever believeth on me should not abide in darkness."
+greek: "ἐγὼ φῶς εἰς τὸν κόσμον ἐλήλυθα, ἵνα πᾶς ὁ πιστεύων εἰς ἐμὲ ἐν τῇ σκοτίᾳ μὴ μείνῃ."
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1473]]"
+- "[[G5457]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G2064]]"
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G4653]]"
+- "[[G3361]]"
+- "[[G3306]]"
+texts:
+- NKO
+---
+
 **John 12:46**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am come a light into the world, that whosoever believeth on me should not abide in darkness.
 <small><sub>**BSB:**</sub></small>
 I have come into the world as a light, so that no one who believes in Me should remain in darkness.
-<small><sub>**Literal:**</sub></small>
-I myself a light into the world have come, so that everyone who is believing in Me myself in the darkness not may abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.45|<< John 12:45]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.47|John 12:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G5457\|φῶς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2064\|ἐλήλυθα,]]  [[G2443\|ἵνα]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4653\|σκοτίᾳ]]  [[G3361\|μὴ]]  [[G3306\|μείνῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.45|<< John 12:45]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.47|John 12:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

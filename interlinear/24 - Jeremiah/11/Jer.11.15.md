@@ -1,8 +1,70 @@
+---
+title: Jeremiah 11:15
+type: Verse
+kjv: "What hath my beloved to do in mine house, seeing she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest."
+bsb: "What right has My beloved in My house, having carried out so many evil schemes? Can consecrated meat avert your doom? When you are wicked, then you rejoice."
+hebrew: "מֶ֣ה לִֽידִידִ֞י בְּבֵיתִ֗י עֲשׂוֹתָ֤הּ הַֽמְזִמָּ֙תָה֙ הָֽרַבִּ֔ים וּבְשַׂר־ קֹ֖דֶשׁ יַעַבְר֣וּ מֵֽעָלָ֑יִךְ כִּ֥י רָעָתֵ֖כִי אָ֥ז תַּעֲלֹֽזִי׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H3039A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H6213A]]"
+- "[[H9044]]"
+- "[[H9009]]"
+- "[[H4209]]"
+- "[[H9011]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H5674A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H7451C]]"
+- "[[H9022]]"
+- "[[H0227A]]"
+- "[[H5937]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:15**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What hath my beloved to do in mine house, [seeing] she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest.
 <small><sub>**BSB:**</sub></small>
 What right has My beloved in My house, having carried out so many evil schemes? Can consecrated meat avert your doom? When you are wicked, then you rejoice.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מֶ֣ה]] [[H9005\|לִֽ]][[H3039A\|ידִידִ֞]][[H9020\|י]] [[H9003\|בְּ]][[H1004Q\|בֵיתִ֗]][[H9020\|י]] [[H6213A\|עֲשׂוֹתָ֤]][[H9044\|הּ]] [[H9009\|הַֽ]][[H4209\|מְזִמָּ֙תָ]][[H9011\|ה֙]] [[H9009\|הָֽ]][[H7227A\|רַבִּ֔ים]] [[H9002\|וּ]][[H1320\|בְשַׂר]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H5674A\|יַעַבְר֣וּ]] [[H9006\|מֵֽ]][[H5921A\|עָלָ֑יִ]][[H9032\|ךְ]] [[H3588A\|כִּ֥י]] [[H7451C\|רָעָתֵ֖]][[H9022\|כִי]] [[H0227A\|אָ֥ז]] [[H5937\|תַּעֲלֹֽזִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.14|<< Jeremiah 11:14]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.16|Jeremiah 11:16 >>]]</td></tr></table>
 

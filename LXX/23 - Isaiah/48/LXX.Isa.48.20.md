@@ -1,6 +1,64 @@
+---
+title: LXX Isaiah 48:20
+type: Verse
+lxx: "Come forth from out of Babylon, O one fleeing from the Chaldeans! With a voice of gladness announce it, and audibly let this be made known! Report unto the end of the earth! Say! The lord rescued  his servant Jacob."
+greek: "έξελθε εκ Βαβυλώνος φεύγων από των Χαλδαίων φωνήν ευφροσύνης αναγγείλατε και ακουστόν γενέσθω τούτο απαγγείλατε έως εσχάτου της γης λέγετε ερρύσατο κύριος τον δούλον αυτού Ιακώβ"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G0897]]"
+- "[[G5343]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5466]]"
+- "[[G5456]]"
+- "[[G2167]]"
+- "[[G0312]]"
+- "[[G2532]]"
+- "[[G6200]]"
+- "[[G1096]]"
+- "[[G3778]]"
+- "[[G0518]]"
+- "[[G2193]]"
+- "[[G2078]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3004]]"
+- "[[G4506]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2384]]"
+---
+
 **LXX Isaiah 48:20** 
 <small><sub>**LXX:**</sub></small>
 Come forth from out of Babylon, O one fleeing from the Chaldeans! \[With\] a voice of gladness announce \[it\], and audibly let this be made known! Report unto \[the\] end of the earth! Say! \[The\] <span class="smallcaps">lord</span> rescued  his servant Jacob. 
+<small><sub>**Greek:**</sub></small>
+[[G1831\|έξελθε]] [[G1537\|εκ]] [[G0897\|Βαβυλώνος]] [[G5343\|φεύγων]] [[G0575\|από]] [[G3588\|των]] [[G5466\|Χαλδαίων]] [[G5456\|φωνήν]] [[G2167\|ευφροσύνης]] [[G0312\|αναγγείλατε]] [[G2532\|και]] [[G6200\|ακουστόν]] [[G1096\|γενέσθω]] [[G3778\|τούτο]] [[G0518\|απαγγείλατε]] [[G2193\|έως]] [[G2078\|εσχάτου]] [[G3588\|της]] [[G1093\|γης]] [[G3004\|λέγετε]] [[G4506\|ερρύσατο]] [[G2962\|κύριος]] [[G3588\|τον]] [[G1401\|δούλον]] [[G1473\|αυτού]] [[G2384\|Ιακώβ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
@@ -29,6 +87,6 @@ Come forth from out of Babylon, O one fleeing from the Chaldeans! \[With\] a voi
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | his servant | **<big>[[G1401\|δούλον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
-[[Isa.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
 

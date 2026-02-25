@@ -1,8 +1,70 @@
+---
+title: Jeremiah 52:17
+type: Verse
+kjv: "Also the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon."
+bsb: "Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried all the bronze to Babylon."
+hebrew: "וְאֶת־ עַמּוּדֵ֨י הַנְּחֹ֜שֶׁת אֲשֶׁ֣ר לְבֵית־ יְהוָ֗ה וְֽאֶת־ הַמְּכֹנ֞וֹת וְאֶת־ יָ֧ם הַנְּחֹ֛שֶׁת אֲשֶׁ֥ר בְּבֵית־ יְהוָ֖ה שִׁבְּר֣וּ כַשְׂדִּ֑ים וַיִּשְׂא֥וּ אֶת־ כָּל־ נְחֻשְׁתָּ֖ם בָּבֶֽלָה׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5982G]]"
+- "[[H9009]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H4350]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H7665]]"
+- "[[H3778]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:17**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon.
 <small><sub>**BSB:**</sub></small>
 Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried all the bronze to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמּוּדֵ֨י]] [[H9009\|הַ]][[H5178A\|נְּחֹ֜שֶׁת]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4350\|מְּכֹנ֞וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3220G\|יָ֧ם]] [[H9009\|הַ]][[H5178A\|נְּחֹ֛שֶׁת]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7665\|שִׁבְּר֣וּ]] [[H3778\|כַשְׂדִּ֑ים]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5178A\|נְחֻשְׁתָּ֖]][[H9028\|ם]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic LAVER|LAVER]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PILLAR|PILLAR]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.16|<< Jeremiah 52:16]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.18|Jeremiah 52:18 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: 1 Kings 4:22
+type: Verse
+kjv: "And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,"
+bsb: "Solomon’s provisions for a single day were thirty cors of fine flour, sixty cors of meal,"
+hebrew: "וַיְהִ֥י לֶֽחֶם־ שְׁלֹמֹ֖ה לְי֣וֹם אֶחָ֑ד שְׁלֹשִׁ֥ים כֹּר֙ סֹ֔לֶת וְשִׁשִּׁ֥ים כֹּ֖ר קָֽמַח׃"
+pericope: "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic COR|COR]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3899I]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H7970]]"
+- "[[H3734A]]"
+- "[[H5560]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H7058]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:22**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
 <small><sub>**BSB:**</sub></small>
 Solomon’s provisions for a single day were thirty cors of fine flour, sixty cors of meal,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H3899I\|לֶֽחֶם]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H0259\|אֶחָ֑ד]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H3734A\|כֹּר֙]] [[H5560\|סֹ֔לֶת]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֥ים]] [[H3734A\|כֹּ֖ר]] [[H7058\|קָֽמַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic COR|COR]] • [[topic FEASTS|FEASTS]] • [[topic MEASURE|MEASURE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.21|<< 1 Kings 4:21]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.23|1 Kings 4:23 >>]]</td></tr></table>
 

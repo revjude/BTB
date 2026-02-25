@@ -1,8 +1,60 @@
+---
+title: Psalm 45:1
+type: Verse
+kjv: "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer."
+bsb: "For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer."
+hebrew: "רָ֘חַ֤שׁ לִבִּ֨י׀ דָּ֘בָ֤ר ט֗וֹב אֹמֵ֣ר אָ֭נִי מַעֲשַׂ֣י לְמֶ֑לֶךְ לְ֝שׁוֹנִ֗י עֵ֤ט׀ סוֹפֵ֬ר מָהִֽיר׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PEN|PEN]]"
+strongs:
+- "[[H7370]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H1697I]]"
+- "[[H2896A]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H4639K]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3956G]]"
+- "[[H5842]]"
+- "[[H5608B]]"
+- "[[H4106]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:1**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue [is] the pen of a ready writer.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer.
+<small><sub>**Hebrew:**</sub></small>
+[[H7370\|רָ֘חַ֤שׁ]] [[H3820A\|לִבִּ֨]][[H9020\|י]][[H9015\|׀]] [[H1697I\|דָּ֘בָ֤ר]] [[H2896A\|ט֗וֹב]] [[H0559\|אֹמֵ֣ר]] [[H0589\|אָ֭נִי]] [[H4639K\|מַעֲשַׂ֣]][[H9020\|י]] [[H9005\|לְ]][[H4428G\|מֶ֑לֶךְ]] [[H3956G\|לְ֝שׁוֹנִ֗]][[H9020\|י]] [[H5842\|עֵ֤ט]][[H9015\|׀]] [[H5608B\|סוֹפֵ֬ר]] [[H4106\|מָהִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PEN|PEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.0|<< Psalms 45:0]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.2|Psalms 45:2 >>]]</td></tr></table>
 

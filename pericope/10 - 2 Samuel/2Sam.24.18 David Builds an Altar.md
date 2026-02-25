@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Builds an Altar
+type: Pericope
 pericope: "[[2Sam.24.18 David Builds an Altar|David Builds an Altar]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 24
 book/chapter: "[[2Sam.24|2 Samuel 24]]"
-genre:
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.24.18]]"
 - "[[2Sam.24.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.24.25]]"
 ---
 
-[[2Sam.24|2 Samuel 24:18 - 2 Samuel 24:25]]
+<small>[[2Sam.24|2 Samuel 24:18-25]]</small>
 *David Builds an Altar*
 
 [[2Sam.24.18|18]] And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.

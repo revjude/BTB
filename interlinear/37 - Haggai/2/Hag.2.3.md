@@ -1,8 +1,67 @@
+---
+title: Haggai 2:3
+type: Verse
+kjv: "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
+bsb: "‘Who is left among you who saw this house in its former glory? How does it look to you now? Does it not appear to you like nothing in comparison?’"
+hebrew: "מִ֤י בָכֶם֙ הַנִּשְׁאָ֔ר אֲשֶׁ֤ר רָאָה֙ אֶת־ הַבַּ֣יִת הַזֶּ֔ה בִּכְבוֹד֖וֹ הָרִאשׁ֑וֹן וּמָ֨ה אַתֶּ֜ם רֹאִ֤ים אֹתוֹ֙ עַ֔תָּה הֲל֥וֹא כָמֹ֛הוּ כְּאַ֖יִן בְּעֵינֵיכֶֽם׃"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H7223H]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H0859D]]"
+- "[[H9033]]"
+- "[[H6258]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3644G]]"
+- "[[H9004]]"
+- "[[H0369]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:3**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] left among you that saw this house in her first glory? and how do ye see it now? [is it] not in your eyes in comparison of it as nothing?
 <small><sub>**BSB:**</sub></small>
 ‘Who is left among you who saw this house in its former glory? How does it look to you now? Does it not appear to you like nothing in comparison?’
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H9003\|בָ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H7604\|נִּשְׁאָ֔ר]] [[H0834A\|אֲשֶׁ֤ר]] [[H7200G\|רָאָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֣יִת]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9003\|בִּ]][[H3519\|כְבוֹד֖]][[H9023\|וֹ]] [[H9009\|הָ]][[H7223H\|רִאשׁ֑וֹן]] [[H9002\|וּ]][[H4100\|מָ֨ה]] [[H0859D\|אַתֶּ֜ם]] [[H7200G\|רֹאִ֤ים]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H6258\|עַ֔תָּה]] [[H9008\|הֲ]][[H3808\|ל֥וֹא]] [[H3644G\|כָמֹ֛]][[H9033\|הוּ]] [[H9004\|כְּ]][[H0369\|אַ֖יִן]] [[H9003\|בְּ]][[H5869A\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.2|<< Haggai 2:2]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.4|Haggai 2:4 >>]]</td></tr></table>
 

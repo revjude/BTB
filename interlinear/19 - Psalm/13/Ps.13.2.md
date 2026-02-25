@@ -1,8 +1,60 @@
+---
+title: Psalm 13:2
+type: Verse
+kjv: "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+bsb: "How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?"
+hebrew: "עַד־ אָ֨נָה אָשִׁ֪ית עֵצ֡וֹת בְּנַפְשִׁ֗י יָג֣וֹן בִּלְבָבִ֣י יוֹמָ֑ם עַד־ אָ֓נָה׀ יָר֖וּם אֹיְבִ֣י עָלָֽי׃"
+pericope: "[[Ps.13.1 How Long, O LORD？|How Long, O LORD？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 13
+book/chapter: "[[Ps.13|Psalm 13]]"
+chronological_order: 347
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0575]]"
+- "[[H7896K]]"
+- "[[H6098]]"
+- "[[H9003]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H3015]]"
+- "[[H3824]]"
+- "[[H3119]]"
+- "[[H9015]]"
+- "[[H7311A]]"
+- "[[H0341]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 13:2**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long shall I take counsel in my soul, [having] sorrow in my heart daily? how long shall mine enemy be exalted over me?
 <small><sub>**BSB:**</sub></small>
 How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֨נָה]] [[H7896K\|אָשִׁ֪ית]] [[H6098\|עֵצ֡וֹת]] [[H9003\|בְּ]][[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H3015\|יָג֣וֹן]] [[H9003\|בִּ]][[H3824\|לְבָבִ֣]][[H9020\|י]] [[H3119\|יוֹמָ֑ם]] [[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֓נָה]][[H9015\|׀]] [[H7311A\|יָר֖וּם]] [[H0341\|אֹיְבִ֣]][[H9020\|י]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.1|<< Psalms 13:1]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.3|Psalms 13:3 >>]]</td></tr></table>
 

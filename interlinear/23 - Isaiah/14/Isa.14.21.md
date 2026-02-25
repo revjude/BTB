@@ -1,8 +1,65 @@
+---
+title: Isaiah 14:21
+type: Verse
+kjv: "Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities."
+bsb: "Prepare a place to slaughter his sons for the iniquities of their forefathers. They will never rise up to possess a land or cover the earth with their cities."
+hebrew: "הָכִ֧ינוּ לְבָנָ֛יו מַטְבֵּ֖חַ בַּעֲוֹ֣ן אֲבוֹתָ֑ם בַּל־ יָקֻ֙מוּ֙ וְיָ֣רְשׁוּ אָ֔רֶץ וּמָלְא֥וּ פְנֵֽי־ תֵבֵ֖ל עָרִֽים׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4293]]"
+- "[[H9003]]"
+- "[[H5771H]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H4390]]"
+- "[[H6440J]]"
+- "[[H8398]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:21**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.
 <small><sub>**BSB:**</sub></small>
 Prepare a place to slaughter his sons for the iniquities of their forefathers. They will never rise up to possess a land or cover the earth with their cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H3559A\|הָכִ֧ינוּ]] [[H9005\|לְ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H4293\|מַטְבֵּ֖חַ]] [[H9003\|בַּ]][[H5771H\|עֲוֹ֣ן]] [[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H1077\|בַּל]][[H9014\|־]] [[H6965B\|יָקֻ֙מוּ֙]] [[H9001\|וְ]][[H3423H\|יָ֣רְשׁוּ]] [[H0776G\|אָ֔רֶץ]] [[H9001\|וּ]][[H4390\|מָלְא֥וּ]] [[H6440J\|פְנֵֽי]][[H9014\|־]] [[H8398\|תֵבֵ֖ל]] [[H5892B\|עָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic ISAIAH|ISAIAH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.20|<< Isaiah 14:20]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.22|Isaiah 14:22 >>]]</td></tr></table>
 

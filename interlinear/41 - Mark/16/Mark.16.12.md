@@ -1,10 +1,54 @@
+---
+title: Mark 16:12
+type: Verse
+kjv: "After that he appeared in another form unto two of them, as they walked, and went into the country."
+bsb: "After this, Jesus appeared in a different form to two of them as they walked along in the country."
+greek: "μετὰ δὲ ταῦτα δυσὶν ἐξ αὐτῶν περιπατοῦσιν ἐφανερώθη ἐν ἑτέρᾳ μορφῇ πορευομένοις εἰς ἀγρόν."
+pericope: "[[Mark.16.12 Jesus Appears to Two Disciples|Jesus Appears to Two Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G1417]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G4043]]"
+- "[[G5319]]"
+- "[[G1722]]"
+- "[[G2087]]"
+- "[[G3444]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G0068G]]"
+texts:
+- KO
+---
+
 **Mark 16:12**<big><big>[[Mark.16.12 Jesus Appears to Two Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After that he appeared in another form unto two of them, as they walked, and went into the country.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus appeared in a different form to two of them as they walked along in the country.
-<small><sub>**Literal:**</sub></small>
-After now these things to two of them walking He appeared in another form going into [the] country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.11|<< Mark 16:11]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.13|Mark 16:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G1417\|δυσὶν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G4043\|περιπατοῦσιν]]  [[G5319\|ἐφανερώθη]]  [[G1722\|ἐν]]  [[G2087\|ἑτέρᾳ]]  [[G3444\|μορφῇ]]  [[G4198\|πορευομένοις]]  [[G1519\|εἰς]]  [[G0068G\|ἀγρόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.11|<< Mark 16:11]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.13|Mark 16:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Job 41:34
+type: Verse
+kjv: "He beholdeth all high things: he is a king over all the children of pride."
+bsb: "He looks down on all the haughty; he is king over all the proud.”"
+hebrew: "אֵֽת־ כָּל־ גָּבֹ֥הַּ יִרְאֶ֑ה ה֝֗וּא מֶ֣לֶךְ עַל־ כָּל־ בְּנֵי־ שָֽׁחַץ׃ ס"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1364]]"
+- "[[H7200G]]"
+- "[[H1931]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H7830]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Job 41:34**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He beholdeth all high [things]: he [is] a king over all the children of pride.
 <small><sub>**BSB:**</sub></small>
 He looks down on all the haughty; he is king over all the proud.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1364\|גָּבֹ֥הַּ]] [[H7200G\|יִרְאֶ֑ה]] [[H1931\|ה֝֗וּא]] [[H4428G\|מֶ֣לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H7830\|שָֽׁחַץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.33|<< Job 41:33]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.1|Job 42:1 >>]]</td></tr></table>
 
@@ -17,7 +62,7 @@ He looks down on all the haughty; he is king over all the proud.”
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| pride  |**<big>&#8207;[[H7830\|שָֽׁחַץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sha.chatz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| pride  |**<big>&#8207;[[H7830\|שָֽׁחַץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sha.chatz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.33|<< Job 41:33]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.1|Job 42:1 >>]]</td></tr></table>
 
 

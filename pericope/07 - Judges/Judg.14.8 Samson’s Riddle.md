@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson’s Riddle
+type: Pericope
 pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 14
 book/chapter: "[[Judg.14|Judges 14]]"
-genre:
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 13
 verses:
 - "[[Judg.14.8]]"
 - "[[Judg.14.9]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Judg.14.20]]"
 ---
 
-[[Judg.14|Judges 14:8 - Judges 14:20]]
+<small>[[Judg.14|Judges 14:8-20]]</small>
 *Samson’s Riddle*
 
 [[Judg.14.8|8]] And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, \[there was\] a swarm of bees and honey in the carcase of the lion.

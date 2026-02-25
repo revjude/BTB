@@ -1,10 +1,69 @@
+---
+title: 2 Timothy 1:9
+type: Verse
+kjv: "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,"
+bsb: "He has saved us and called us to a holy calling, not because of our works, but by His own purpose and by the grace He granted us in Christ Jesus before time began."
+greek: "τοῦ σώσαντος ἡμᾶς καὶ καλέσαντος κλήσει ἁγίᾳ, οὐ κατὰ τὰ ἔργα ἡμῶν ἀλλὰ κατὰ ἰδίαν πρόθεσιν καὶ χάριν τὴν δοθεῖσαν ἡμῖν ἐν Χριστῷ Ἰησοῦ πρὸ χρόνων αἰωνίων,"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4982]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2564G]]"
+- "[[G2821]]"
+- "[[G0040G]]"
+- "[[G3756]]"
+- "[[G2596]]"
+- "[[G2041]]"
+- "[[G0235]]"
+- "[[G2398]]"
+- "[[G4286]]"
+- "[[G5485]]"
+- "[[G1325]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G4253]]"
+- "[[G5550]]"
+- "[[G0166]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:9**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who hath saved us, and called [us] with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
 <small><sub>**BSB:**</sub></small>
 He has saved us and called us to a holy calling, not because of our works, but by His own purpose and by the grace He granted us in Christ Jesus before time began.
-<small><sub>**Literal:**</sub></small>
-the [One who] having saved us and having called [us] with a calling holy, not according to the works of us but according to [His] own purpose and grace which having been given us in Christ Jesus before time eternal,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.8|<< 2 Timothy 1:8]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.10|2 Timothy 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G4982\|σώσαντος]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G2564G\|καλέσαντος]]  [[G2821\|κλήσει]]  [[G0040G\|ἁγίᾳ,]]  [[G3756\|οὐ]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3165\|ἡμῶν]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G2398\|ἰδίαν]]  [[G4286\|πρόθεσιν]]  [[G2532\|καὶ]]  [[G5485\|χάριν]]  [[G3588\|τὴν]]  [[G1325\|δοθεῖσαν]]  [[G3165\|ἡμῖν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G4253\|πρὸ]]  [[G5550\|χρόνων]]  [[G0166\|αἰωνίων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.8|<< 2 Timothy 1:8]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.10|2 Timothy 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

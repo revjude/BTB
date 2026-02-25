@@ -1,8 +1,76 @@
+---
+title: Exodus 12:48
+type: Verse
+kjv: "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof."
+bsb: "If a foreigner resides with you and wants to celebrate the LORD’s Passover, all the males in the household must be circumcised; then he may come near to celebrate it, and he shall be like a native of the land. But no uncircumcised man may eat of it."
+hebrew: "וְכִֽי־ יָג֨וּר אִתְּךָ֜ גֵּ֗ר וְעָ֣שָׂה פֶסַח֮ לַיהוָה֒ הִמּ֧וֹל ל֣וֹ כָל־ זָכָ֗ר וְאָז֙ יִקְרַ֣ב לַעֲשֹׂת֔וֹ וְהָיָ֖ה כְּאֶזְרַ֣ח הָאָ֑רֶץ וְכָל־ עָרֵ֖ל לֹֽא־ יֹ֥אכַל בּֽוֹ׃"
+pericope: "[[Exod.12.43 Instructions for the Passover|Instructions for the Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1481A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H1616]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4135A]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H2145]]"
+- "[[H0227A]]"
+- "[[H7126G]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0249]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6189]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:48**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
 <small><sub>**BSB:**</sub></small>
 If a foreigner resides with you and wants to celebrate the LORD’s Passover, all the males in the household must be circumcised; then he may come near to celebrate it, and he shall be like a native of the land. But no uncircumcised man may eat of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1481A\|יָג֨וּר]] [[H0854\|אִתְּ]][[H9031\|ךָ֜]] [[H1616\|גֵּ֗ר]] [[H9001\|וְ]][[H6213A\|עָ֣שָׂה]] [[H6453\|פֶסַח֮]] [[H9005\|לַ]][[H3068G\|יהוָה֒]] [[H4135A\|הִמּ֧וֹל]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3605\|כָל]][[H9014\|־]] [[H2145\|זָכָ֗ר]] [[H9002\|וְ]][[H0227A\|אָז֙]] [[H7126G\|יִקְרַ֣ב]] [[H9005\|לַ]][[H6213A\|עֲשֹׂת֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9004\|כְּ]][[H0249\|אֶזְרַ֣ח]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6189\|עָרֵ֖ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|יֹ֥אכַל]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic PASSOVER|PASSOVER]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.47|<< Exodus 12:47]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.49|Exodus 12:49 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 15:34
+type: Verse
+kjv: "For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery."
+bsb: "For the company of the godless will be barren, and fire will consume the tents of bribery."
+hebrew: "כִּֽי־ עֲדַ֣ת חָנֵ֣ף גַּלְמ֑וּד וְ֝אֵ֗שׁ אָכְלָ֥ה אָֽהֳלֵי־ שֹֽׁחַד׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H2611]]"
+- "[[H1565]]"
+- "[[H9002]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H0168G]]"
+- "[[H7810]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:34**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the congregation of hypocrites [shall be] desolate, and fire shall consume the tabernacles of bribery.
 <small><sub>**BSB:**</sub></small>
 For the company of the godless will be barren, and fire will consume the tents of bribery.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5712\|עֲדַ֣ת]] [[H2611\|חָנֵ֣ף]] [[H1565\|גַּלְמ֑וּד]] [[H9002\|וְ֝]][[H0784\|אֵ֗שׁ]] [[H0398\|אָכְלָ֥ה]] [[H0168G\|אָֽהֳלֵי]][[H9014\|־]] [[H7810\|שֹֽׁחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.33|<< Job 15:33]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.35|Job 15:35 >>]]</td></tr></table>
 

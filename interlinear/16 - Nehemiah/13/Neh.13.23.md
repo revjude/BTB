@@ -1,8 +1,62 @@
+---
+title: Nehemiah 13:23
+type: Verse
+kjv: "In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:"
+bsb: "In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab."
+hebrew: "גַּ֣ם׀ בַּיָּמִ֣ים הָהֵ֗ם רָאִ֤יתִי אֶת־ הַיְּהוּדִים֙ הֹשִׁ֗יבוּ נָשִׁים֙ אַשְׁדֳּדִיּ֔וֹת עַמֳּנִיּ֖וֹת מוֹאֲבִיּֽוֹת׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3064]]"
+- "[[H3427]]"
+- "[[H0802G]]"
+- "[[H0796]]"
+- "[[H5984H]]"
+- "[[H4125]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Nehemiah 13:23**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days also saw I Jews [that] had married wives of Ashdod, of Ammon, [and] of Moab:
 <small><sub>**BSB:**</sub></small>
 In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֗ם]] [[H7200G\|רָאִ֤יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִים֙]] [[H3427\|הֹשִׁ֗יבוּ]] [[H0802G\|נָשִׁים֙]] [[H0796\|אַשְׁדֳּדִיּ֔וֹת]] [[H5984H\|עַמֳּנִיּ֖וֹת]] [[H4125\|מוֹאֲבִיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ASHDOD|ASHDOD]] • [[topic DIVORCE|DIVORCE]] • [[topic MOABITES|MOABITES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.22|<< Nehemiah 13:22]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.24|Nehemiah 13:24 >>]]</td></tr></table>
 

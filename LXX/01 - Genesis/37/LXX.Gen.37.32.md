@@ -1,6 +1,66 @@
+---
+title: LXX Genesis 37:32
+type: Verse
+lxx: "And they sent  the colored garment, and they carried it to their father, and said, This we found, do you recognize if the garment  is of your son or not?"
+greek: "και απέστειλαν τον χιτώνα τον ποικίλον και εισήνεγκαν τω πατρί αυτών και είπον τούτον εύρομεν επίγνωθι ει χιτών του υιόυ σου εστίν η ου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G5509]]"
+- "[[G3588]]"
+- "[[G4164]]"
+- "[[G2532]]"
+- "[[G1533]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G2147]]"
+- "[[G1921]]"
+- "[[G1487]]"
+- "[[G5509]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2228]]"
+- "[[G3756]]"
+---
+
 **LXX Genesis 37:32** 
 <small><sub>**LXX:**</sub></small>
 And they sent  the colored garment, and they carried it \[to\] their father, and said, This we found, \[do\] you recognize if \[the\] garment  is of your son or not? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0649\|απέστειλαν]] [[G3588\|τον]] [[G5509\|χιτώνα]] [[G3588\|τον]] [[G4164\|ποικίλον]] [[G2532\|και]] [[G1533\|εισήνεγκαν]] [[G3588\|τω]] [[G3962\|πατρί]] [[G1473\|αυτών]] [[G2532\|και]] [[G2036\|είπον]] [[G3778\|τούτον]] [[G2147\|εύρομεν]] [[G1921\|επίγνωθι]] [[G1487\|ει]] [[G5509\|χιτών]] [[G3588\|του]] [[G5207\|υιόυ]] [[G1473\|σου]] [[G1510\|εστίν]] [[G2228\|η]] [[G3756\|ου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
@@ -28,6 +88,6 @@ And they sent  the colored garment, and they carried it \[to\] their father, and
 | is of your | **<big>[[G1473\|σου]]</big>** **<big>[[G1510\|εστίν]]</big>** |
 | or | **<big>[[G2228\|η]]</big>** |
 | not? | **<big>[[G3756\|ου]]</big>** |
-[[Gen.37.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
 

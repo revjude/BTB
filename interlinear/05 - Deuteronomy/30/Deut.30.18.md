@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 30:18
+type: Verse
+kjv: "I denounce unto you this day, that ye shall surely perish, and that ye shall not prolong your days upon the land, whither thou passest over Jordan to go to possess it."
+bsb: "I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess."
+hebrew: "הִגַּ֤דְתִּי לָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵד֑וּן לֹא־ תַאֲרִיכֻ֤ן יָמִים֙ עַל־ הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת־ הַיַּרְדֵּ֔ן לָבֹ֥א שָׁ֖מָּה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H3588A]]"
+- "[[H0006]]"
+- "[[H9013]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0748]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H3383]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:18**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I denounce unto you this day, that ye shall surely perish, [and that] ye shall not prolong [your] days upon the land, whither thou passest over Jordan to go to possess it.
 <small><sub>**BSB:**</sub></small>
 I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|הִגַּ֤דְתִּי]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H3588A\|כִּ֥י]] [[H0006\|אָבֹ֖ד]] [[H0006\|תֹּאבֵד֑וּ]][[H9013\|ן]] [[H3808\|לֹא]][[H9014\|־]] [[H0748\|תַאֲרִיכֻ֤]][[H9013\|ן]] [[H3117L\|יָמִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0859A\|אַתָּ֤ה]] [[H5674A\|עֹבֵר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9005\|לָ]][[H0935G\|בֹ֥א]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DUTY|DUTY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.17|<< Deuteronomy 30:17]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.19|Deuteronomy 30:19 >>]]</td></tr></table>
 

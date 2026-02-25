@@ -1,10 +1,67 @@
+---
+title: John 4:53
+type: Verse
+kjv: "So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house."
+bsb: "Then the father realized that this was the very hour in which Jesus had told him, “Your son will live.” And he and all his household believed."
+greek: "Ἔγνω οὖν ὁ πατὴρ ὅτι ἐν ἐκείνῃ τῇ ὥρᾳ ἐν ᾗ εἶπεν αὐτῷ ὁ Ἰησοῦς ὅτι· ὁ υἱός σου ζῇ. καὶ ἐπίστευσεν αὐτὸς καὶ ἡ οἰκία αὐτοῦ ὅλη.¶"
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1097]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G5610]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G3614H]]"
+- "[[G3650]]"
+texts:
+- NKO
+- k
+---
+
 **John 4:53**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So the father knew that [it was] at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.
 <small><sub>**BSB:**</sub></small>
 Then the father realized that this was the very hour in which Jesus had told him, “Your son will live.” And he and all his household believed.
-<small><sub>**Literal:**</sub></small>
-Knew therefore the father that [it was] in that [very] <the> hour at which said to him <the> Jesus that: The son of You lives. And he believed himself and the household of him all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.52|<< John 4:52]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.54|John 4:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Ἔγνω]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι·]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G4771\|σου]]  [[G2198\|ζῇ.]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσεν]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3614H\|οἰκία]]  [[G0846\|αὐτοῦ]]  [[G3650\|ὅλη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.52|<< John 4:52]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.54|John 4:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

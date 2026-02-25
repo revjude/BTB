@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 4:12
+type: Verse
+kjv: "And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:"
+bsb: "We work hard with our own hands. When we are vilified, we bless; when we are persecuted, we endure it;"
+greek: "καὶ κοπιῶμεν ἐργαζόμενοι ταῖς ἰδίαις χερσίν· λοιδορούμενοι εὐλογοῦμεν, διωκόμενοι ἀνεχόμεθα,"
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2872]]"
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G5495]]"
+- "[[G3058]]"
+- "[[G2127]]"
+- "[[G1377]]"
+- "[[G0430]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:12**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
 <small><sub>**BSB:**</sub></small>
 We work hard with our own hands. When we are vilified, we bless; when we are persecuted, we endure it;
-<small><sub>**Literal:**</sub></small>
-and we toil working <the> with [our] own hands; Being reviled we bless, being persecuted we endure,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.11|<< 1 Corinthians 4:11]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.13|1 Corinthians 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2872\|κοπιῶμεν]]  [[G2038\|ἐργαζόμενοι]]  [[G3588\|ταῖς]]  [[G2398\|ἰδίαις]]  [[G5495\|χερσίν·]]  [[G3058\|λοιδορούμενοι]]  [[G2127\|εὐλογοῦμεν,]]  [[G1377\|διωκόμενοι]]  [[G0430\|ἀνεχόμεθα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SUFFERING|SUFFERING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.11|<< 1 Corinthians 4:11]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.13|1 Corinthians 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,50 @@
+---
+title: Psalm 77:5
+type: Verse
+kjv: "I have considered the days of old, the years of ancient times."
+bsb: "I considered the days of old, the years long in the past."
+hebrew: "חִשַּׁ֣בְתִּי יָמִ֣ים מִקֶּ֑דֶם שְׁ֝נ֗וֹת עוֹלָמִֽים׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H2803J]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H6924H]]"
+- "[[H8141]]"
+- "[[H5769J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:5**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have considered the days of old, the years of ancient times.
 <small><sub>**BSB:**</sub></small>
 I considered the days of old, the years long in the past.
+<small><sub>**Hebrew:**</sub></small>
+[[H2803J\|חִשַּׁ֣בְתִּי]] [[H3117G\|יָמִ֣ים]] [[H9006\|מִ]][[H6924H\|קֶּ֑דֶם]] [[H8141\|שְׁ֝נ֗וֹת]] [[H5769J\|עוֹלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.4|<< Psalms 77:4]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.6|Psalms 77:6 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Exodus 35:11
+type: Verse
+kjv: "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,"
+bsb: "the tabernacle with its tent and covering, its clasps and frames, its crossbars, posts, and bases;"
+hebrew: "אֶת־ הַ֨מִּשְׁכָּ֔ן אֶֽת־ אָהֳל֖וֹ וְאֶת־ מִכְסֵ֑הוּ אֶת־ קְרָסָיו֙ וְאֶת־ קְרָשָׁ֔יו אֶת־ בְּרִיחָ֕יו אֶת־ עַמֻּדָ֖יו וְאֶת־ אֲדָנָֽיו׃"
+pericope: "[[Exod.35.10 The Skilled Craftsmen|The Skilled Craftsmen]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4372]]"
+- "[[H7165]]"
+- "[[H7175]]"
+- "[[H1280]]"
+- "[[H5982G]]"
+- "[[H0134]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 35:11**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,
 <small><sub>**BSB:**</sub></small>
 the tabernacle with its tent and covering, its clasps and frames, its crossbars, posts, and bases;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֨]][[H4908\|מִּשְׁכָּ֔ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0168G\|אָהֳל֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4372\|מִכְסֵ֑]][[H9023\|הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7165\|קְרָסָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7175\|קְרָשָׁ֔י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1280\|בְּרִיחָ֕י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמֻּדָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0134\|אֲדָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.10|<< Exodus 35:10]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.12|Exodus 35:12 >>]]</td></tr></table>
 
@@ -26,7 +80,7 @@ the tabernacle with its tent and covering, its clasps and frames, its crossbars,
 | bases its  |**<big>&#8207;[[H0134\|אֲדָנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.da.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.10|<< Exodus 35:10]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.12|Exodus 35:12 >>]]</td></tr></table>
 
-[^1]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: bar its  | **<big>[[H1280|בְּרִיח]]</big><big>[[H9023|וֹ]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: bar its  | **<big>[[H1280|בְּרִיח]]</big><big>[[H9023|וֹ]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּרִיחָ֕ו</big></span>**
 

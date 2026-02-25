@@ -1,8 +1,69 @@
+---
+title: Psalm 95:10
+type: Verse
+kjv: "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:"
+bsb: "For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”"
+hebrew: "אַרְבָּ֘עִ֤ים שָׁנָ֨ה׀ אָ֘ק֤וּט בְּד֗וֹר וָאֹמַ֗ר עַ֤ם תֹּעֵ֣י לֵבָ֣ב הֵ֑ם וְ֝הֵ֗ם לֹא־ יָדְע֥וּ דְרָכָֽי׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9015]]"
+- "[[H6962]]"
+- "[[H9003]]"
+- "[[H1755]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5971A]]"
+- "[[H8582]]"
+- "[[H3824]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:10**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forty years long was I grieved with [this] generation, and said, It [is] a people that do err in their heart, and they have not known my ways:
 <small><sub>**BSB:**</sub></small>
 For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0705\|אַרְבָּ֘עִ֤ים]] [[H8141\|שָׁנָ֨ה]][[H9015\|׀]] [[H6962\|אָ֘ק֤וּט]] [[H9003\|בְּ]][[H1755\|ד֗וֹר]] [[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H5971A\|עַ֤ם]] [[H8582\|תֹּעֵ֣י]] [[H3824\|לֵבָ֣ב]] [[H1992\|הֵ֑ם]] [[H9002\|וְ֝]][[H1992\|הֵ֗ם]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדְע֥וּ]] [[H1870G\|דְרָכָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HEART|HEART]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.9|<< Psalms 95:9]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.11|Psalms 95:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,52 @@
+---
+title: Luke 2:6
+type: Verse
+kjv: "And so it was, that, while they were there, the days were accomplished that she should be delivered."
+bsb: "While they were there, the time came for her Child to be born."
+greek: "Ἐγένετο δὲ ἐν τῷ εἶναι αὐτοὺς ἐκεῖ ἐπλήσθησαν αἱ ἡμέραι τοῦ τεκεῖν αὐτήν,"
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G0846]]"
+- "[[G1563]]"
+- "[[G4130]]"
+- "[[G2250]]"
+- "[[G5088]]"
+texts:
+- NKO
+---
+
 **Luke 2:6**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And so it was, that, while they were there, the days were accomplished that she should be delivered.
 <small><sub>**BSB:**</sub></small>
 While they were there, the time came for her Child to be born.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in their being them there were fulfilled the days of the giving birth of her,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.5|<< Luke 2:5]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.7|Luke 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτοὺς]]  [[G1563\|ἐκεῖ]]  [[G4130\|ἐπλήσθησαν]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G3588\|τοῦ]]  [[G5088\|τεκεῖν]]  [[G0846\|αὐτήν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.5|<< Luke 2:5]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.7|Luke 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

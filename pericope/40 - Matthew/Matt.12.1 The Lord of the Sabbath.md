@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord of the Sabbath
+type: Pericope
 pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.12.1]]"
 - "[[Matt.12.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.12.8]]"
 ---
 
-[[Matt.12|Matthew 12:1 - Matthew 12:8]]
+<small>[[Matt.12|Matthew 12:1-8]]</small>
 *The Lord of the Sabbath*
 
 [[Matt.12.1|1]] At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.

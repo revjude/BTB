@@ -1,8 +1,55 @@
+---
+title: 2 Samuel 22:28
+type: Verse
+kjv: "And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down."
+bsb: "You save an afflicted people, but Your eyes are on the haughty to bring them down."
+hebrew: "וְאֶת־ עַ֥ם עָנִ֖י תּוֹשִׁ֑יעַ וְעֵינֶ֖יךָ עַל־ רָמִ֥ים תַּשְׁפִּֽיל׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H6041]]"
+- "[[H3467]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H7311A]]"
+- "[[H8213]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:28**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the afflicted people thou wilt save: but thine eyes [are] upon the haughty, [that] thou mayest bring [them] down.
 <small><sub>**BSB:**</sub></small>
 You save an afflicted people, but Your eyes are on the haughty to bring them down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H6041\|עָנִ֖י]] [[H3467\|תּוֹשִׁ֑יעַ]] [[H9002\|וְ]][[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H7311A\|רָמִ֥ים]] [[H8213\|תַּשְׁפִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.27|<< 2 Samuel 22:27]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.29|2 Samuel 22:29 >>]]</td></tr></table>
 

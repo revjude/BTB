@@ -1,8 +1,65 @@
+---
+title: Judges 3:29
+type: Verse
+kjv: "And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man."
+bsb: "At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped."
+hebrew: "וַיַּכּ֨וּ אֶת־ מוֹאָ֜ב בָּעֵ֣ת הַהִ֗יא כַּעֲשֶׂ֤רֶת אֲלָפִים֙ אִ֔ישׁ כָּל־ שָׁמֵ֖ן וְכָל־ אִ֣ישׁ חָ֑יִל וְלֹ֥א נִמְלַ֖ט אִֽישׁ׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H3605]]"
+- "[[H8082]]"
+- "[[H9002]]"
+- "[[H2428G]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H0376I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:29**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.
 <small><sub>**BSB:**</sub></small>
 At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֜ב]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H9004\|כַּ]][[H6235\|עֲשֶׂ֤רֶת]] [[H0505G\|אֲלָפִים֙]] [[H0376G\|אִ֔ישׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H8082\|שָׁמֵ֖ן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H2428G\|חָ֑יִל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4422\|נִמְלַ֖ט]] [[H0376I\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic EGLON|EGLON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.28|<< Judges 3:28]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.30|Judges 3:30 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Restoration of Jerusalem
+type: Pericope
 pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 8
 book/chapter: "[[Zech.8|Zechariah 8]]"
-genre:
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 23
 verses:
 - "[[Zech.8.1]]"
 - "[[Zech.8.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Zech.8.23]]"
 ---
 
-[[Zech.8|Zechariah 8:1 - Zechariah 8:23]]
+<small>[[Zech.8|Zechariah 8:1-23]]</small>
 *The Restoration of Jerusalem*
 
 [[Zech.8.1|1]] Again the word of the LORD of hosts came \[to me\], saying,

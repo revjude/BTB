@@ -1,8 +1,54 @@
+---
+title: Psalm 82:6
+type: Verse
+kjv: "I have said, Ye are gods; and all of you are children of the most High."
+bsb: "I have said, ‘You are gods; you are all sons of the Most High.’"
+hebrew: "אֲֽנִי־ אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם וּבְנֵ֖י עֶלְי֣וֹן כֻּלְּכֶֽם׃"
+pericope: "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 82
+book/chapter: "[[Ps.82|Psalm 82]]"
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H0589]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0430]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H5945B]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 82:6**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have said, Ye [are] gods; and all of you [are] children of the most High.
 <small><sub>**BSB:**</sub></small>
 I have said, ‘You are gods; you are all sons of the Most High.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲֽנִי]][[H9014\|־]] [[H0559\|אָ֭מַרְתִּי]] [[H0430\|אֱלֹהִ֣ים]] [[H0859D\|אַתֶּ֑ם]] [[H9002\|וּ]][[H1121G\|בְנֵ֖י]] [[H5945B\|עֶלְי֣וֹן]] [[H3605\|כֻּלְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.5|<< Psalms 82:5]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.7|Psalms 82:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

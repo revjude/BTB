@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Military Census
+type: Pericope
 pericope: "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 24
 book/chapter: "[[2Sam.24|2 Samuel 24]]"
-genre:
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 9
 verses:
 - "[[2Sam.24.1]]"
 - "[[2Sam.24.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Sam.24.9]]"
 ---
 
-[[2Sam.24|2 Samuel 24:1 - 2 Samuel 24:9]]
+<small>[[2Sam.24|2 Samuel 24:1-9]]</small>
 *David’s Military Census*
 
 [[2Sam.24.1|1]] And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.

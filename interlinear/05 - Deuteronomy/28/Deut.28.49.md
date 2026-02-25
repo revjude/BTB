@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 28:49
+type: Verse
+kjv: "The LORD shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+bsb: "The LORD will bring a nation from afar, from the ends of the earth, to swoop down upon you like an eagle—a nation whose language you will not understand,"
+hebrew: "יִשָּׂ֣א יְהוָה֩ עָלֶ֨יךָ גּ֤וֹי מֵרָחוֹק֙ מִקְצֵ֣ה הָאָ֔רֶץ כַּאֲשֶׁ֥ר יִדְאֶ֖ה הַנָּ֑שֶׁר גּ֕וֹי אֲשֶׁ֥ר לֹא־ תִשְׁמַ֖ע לְשֹׁנֽוֹ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5375H]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1675]]"
+- "[[H5404]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085J]]"
+- "[[H3956H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:49**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall bring a nation against thee from far, from the end of the earth, [as swift] as the eagle flieth; a nation whose tongue thou shalt not understand;
 <small><sub>**BSB:**</sub></small>
 The LORD will bring a nation from afar, from the ends of the earth, to swoop down upon you like an eagle—a nation whose language you will not understand,
+<small><sub>**Hebrew:**</sub></small>
+[[H5375H\|יִשָּׂ֣א]] [[H3068G\|יְהוָה֩]] [[H5921A\|עָלֶ֨י]][[H9031\|ךָ]] [[H1471A\|גּ֤וֹי]] [[H9006\|מֵ]][[H7350\|רָחוֹק֙]] [[H9006\|מִ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1675\|יִדְאֶ֖ה]] [[H9009\|הַ]][[H5404\|נָּ֑שֶׁר]] [[H1471A\|גּ֕וֹי]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H8085J\|תִשְׁמַ֖ע]] [[H3956H\|לְשֹׁנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EAGLE|EAGLE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.48|<< Deuteronomy 28:48]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.50|Deuteronomy 28:50 >>]]</td></tr></table>
 

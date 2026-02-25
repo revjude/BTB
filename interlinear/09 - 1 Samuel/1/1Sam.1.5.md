@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 1:5
+type: Verse
+kjv: "But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb."
+bsb: "But to Hannah he would give a double portion, for he loved her even though the LORD had closed her womb."
+hebrew: "וּלְחַנָּ֕ה יִתֵּ֛ן מָנָ֥ה אַחַ֖ת אַפָּ֑יִם כִּ֤י אֶת־ חַנָּה֙ אָהֵ֔ב וַֽיהוָ֖ה סָגַ֥ר רַחְמָֽהּ׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2584]]"
+- "[[H5414G]]"
+- "[[H4490]]"
+- "[[H0259]]"
+- "[[H0639I]]"
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H5462]]"
+- "[[H7358]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:5**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.
 <small><sub>**BSB:**</sub></small>
 But to Hannah he would give a double portion, for he loved her even though the LORD had closed her womb.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H2584\|חַנָּ֕ה]] [[H5414G\|יִתֵּ֛ן]] [[H4490\|מָנָ֥ה]] [[H0259\|אַחַ֖ת]] [[H0639I\|אַפָּ֑יִם]] [[H3588A\|כִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H2584\|חַנָּה֙]] [[H0157G\|אָהֵ֔ב]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H5462\|סָגַ֥ר]] [[H7358\|רַחְמָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUELTY|CRUELTY]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic HANNAH|HANNAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.4|<< 1 Samuel 1:4]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.6|1 Samuel 1:6 >>]]</td></tr></table>
 

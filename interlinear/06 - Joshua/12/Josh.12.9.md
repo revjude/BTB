@@ -1,8 +1,47 @@
+---
+title: Joshua 12:9
+type: Verse
+kjv: "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+bsb: "the king of Jericho, one; the king of Ai, which is near Bethel, one;"
+hebrew: "מֶ֥לֶךְ יְרִיח֖וֹ אֶחָ֑ד מֶ֧לֶךְ הָעַ֛י אֲשֶׁר־ מִצַּ֥ד בֵּֽית־ אֵ֖ל אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H4428G]]"
+- "[[H3405G]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6654]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:9**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Jericho, one; the king of Ai, which [is] beside Bethel, one;
 <small><sub>**BSB:**</sub></small>
 the king of Jericho, one; the king of Ai, which is near Bethel, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֥לֶךְ]] [[H3405G\|יְרִיח֖וֹ]] [[H0259\|אֶחָ֑ד]] [[H4428G\|מֶ֧לֶךְ]] [[H9009\|הָ]][[H5857G\|עַ֛י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9006\|מִ]][[H6654\|צַּ֥ד]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.8|<< Joshua 12:8]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.10|Joshua 12:10 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 11:4
+type: Verse
+kjv: "And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land."
+bsb: "Then David and all the Israelites marched to Jerusalem (that is, Jebus), where the Jebusites inhabited the land."
+hebrew: "וַיֵּ֨לֶךְ דָּוִ֧יד וְכָל־ יִשְׂרָאֵ֛ל יְרוּשָׁלִַ֖ם הִ֣יא יְב֑וּס וְשָׁם֙ הַיְבוּסִ֔י יֹשְׁבֵ֖י הָאָֽרֶץ׃"
+pericope: "[[1Chr.11.4 David Conquers Jerusalem|David Conquers Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3389]]"
+- "[[H1931]]"
+- "[[H2982]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H2983G]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:4**<big><big>[[1Chr.11.4 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David and all Israel went to Jerusalem, which [is] Jebus; where the Jebusites [were], the inhabitants of the land.
 <small><sub>**BSB:**</sub></small>
 Then David and all the Israelites marched to Jerusalem (that is, Jebus), where the Jebusites inhabited the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H1732\|דָּוִ֧יד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H1931\|הִ֣יא]] [[H2982\|יְב֑וּס]] [[H9002\|וְ]][[H8033G\|שָׁם֙]] [[H9009\|הַ]][[H2983G\|יְבוּסִ֔י]] [[H3427\|יֹשְׁבֵ֖י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.3|<< 1 Chronicles 11:3]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.5|1 Chronicles 11:5 >>]]</td></tr></table>
 

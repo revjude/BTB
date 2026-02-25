@@ -1,8 +1,67 @@
+---
+title: Exodus 35:33
+type: Verse
+kjv: "And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work."
+bsb: "to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft."
+hebrew: "וּבַחֲרֹ֥שֶׁת אֶ֛בֶן לְמַלֹּ֖את וּבַחֲרֹ֣שֶׁת עֵ֑ץ לַעֲשׂ֖וֹת בְּכָל־ מְלֶ֥אכֶת מַחֲשָֽׁבֶת׃"
+pericope: "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic LAPIDARY|LAPIDARY]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2799]]"
+- "[[H0068G]]"
+- "[[H9005]]"
+- "[[H4390]]"
+- "[[H6086G]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:33**<big><big>[[Exod.35.30 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the cutting of stones, to set [them], and in carving of wood, to make any manner of cunning work.
 <small><sub>**BSB:**</sub></small>
 to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2799\|חֲרֹ֥שֶׁת]] [[H0068G\|אֶ֛בֶן]] [[H9005\|לְ]][[H4390\|מַלֹּ֖את]] [[H9002\|וּ]][[H9003\|בַ]][[H2799\|חֲרֹ֣שֶׁת]] [[H6086G\|עֵ֑ץ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H4284\|מַחֲשָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BEZALEL|BEZALEL]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic GENIUS|GENIUS]] • [[topic LAPIDARY|LAPIDARY]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.32|<< Exodus 35:32]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.34|Exodus 35:34 >>]]</td></tr></table>
 

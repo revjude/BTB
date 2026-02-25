@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Enticement of Sin
+type: Pericope
 pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 1
 book/chapter: "[[Prov.1|Proverbs 1]]"
-genre:
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 12
 verses:
 - "[[Prov.1.8]]"
 - "[[Prov.1.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Prov.1.19]]"
 ---
 
-[[Prov.1|Proverbs 1:8 - Proverbs 1:19]]
+<small>[[Prov.1|Proverbs 1:8-19]]</small>
 *The Enticement of Sin*
 
 [[Prov.1.8|8]] My son, hear the instruction of thy father, and forsake not the law of thy mother:

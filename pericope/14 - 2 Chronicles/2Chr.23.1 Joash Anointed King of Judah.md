@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joash Anointed King of Judah
+type: Pericope
 pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 23
 book/chapter: "[[2Chr.23|2 Chronicles 23]]"
-genre:
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.23.1]]"
 - "[[2Chr.23.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.23.11]]"
 ---
 
-[[2Chr.23|2 Chronicles 23:1 - 2 Chronicles 23:11]]
+<small>[[2Chr.23|2 Chronicles 23:1-11]]</small>
 *Joash Anointed King of Judah*
 
 [[2Chr.23.1|1]] And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.

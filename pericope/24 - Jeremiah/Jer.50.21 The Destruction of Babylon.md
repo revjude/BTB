@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destruction of Babylon
+type: Pericope
 pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 50
 book/chapter: "[[Jer.50|Jeremiah 50]]"
-genre:
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 26
 verses:
 - "[[Jer.50.21]]"
 - "[[Jer.50.22]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Jer.50.46]]"
 ---
 
-[[Jer.50|Jeremiah 50:21 - Jeremiah 50:46]]
+<small>[[Jer.50|Jeremiah 50:21-46]]</small>
 *The Destruction of Babylon*
 
 [[Jer.50.21|21]] Go up against the land of Merathaim, \[even\] against it, and against the inhabitants of Pekod: waste and utterly destroy after them, saith the LORD, and do according to all that I have commanded thee.

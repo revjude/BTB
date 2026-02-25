@@ -1,8 +1,63 @@
+---
+title: Leviticus 23:35
+type: Verse
+kjv: "On the first day shall be an holy convocation: ye shall do no servile work therein."
+bsb: "On the first day there shall be a sacred assembly. You must not do any regular work."
+hebrew: "בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־ קֹ֑דֶשׁ כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Lev.23.33 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:35**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the first day [shall be] an holy convocation: ye shall do no servile work [therein].
 <small><sub>**BSB:**</sub></small>
 On the first day there shall be a sacred assembly. You must not do any regular work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֑דֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHANIM|ETHANIM]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.34|<< Leviticus 23:34]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.36|Leviticus 23:36 >>]]</td></tr></table>
 

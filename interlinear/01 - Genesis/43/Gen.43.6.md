@@ -1,8 +1,58 @@
+---
+title: Genesis 43:6
+type: Verse
+kjv: "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?"
+bsb: "“Why did you bring this trouble upon me?” Israel asked. “Why did you tell the man you had another brother?”"
+hebrew: "וַיֹּ֙אמֶר֙ יִשְׂרָאֵ֔ל לָמָ֥ה הֲרֵעֹתֶ֖ם לִ֑י לְהַגִּ֣יד לָאִ֔ישׁ הַע֥וֹד לָכֶ֖ם אָֽח׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7489A]]"
+- "[[H9030]]"
+- "[[H5046]]"
+- "[[H0376G]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H9036]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:6**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel said, Wherefore dealt ye [so] ill with me, [as] to tell the man whether ye had yet a brother?
 <small><sub>**BSB:**</sub></small>
 “Why did you bring this trouble upon me?” Israel asked. “Why did you tell the man you had another brother?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לָ]][[H4100\|מָ֥ה]] [[H7489A\|הֲרֵעֹתֶ֖ם]] [[H9005\|לִ֑]][[H9030\|י]] [[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H9008\|הַ]][[H5750\|ע֥וֹד]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0251G\|אָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.5|<< Genesis 43:5]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.7|Genesis 43:7 >>]]</td></tr></table>
 

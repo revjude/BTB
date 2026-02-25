@@ -1,8 +1,82 @@
+---
+title: Exodus 32:13
+type: Verse
+kjv: "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever."
+bsb: "Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”"
+hebrew: "זְכֹ֡ר לְאַבְרָהָם֩ לְיִצְחָ֨ק וּלְיִשְׂרָאֵ֜ל עֲבָדֶ֗יךָ אֲשֶׁ֨ר נִשְׁבַּ֣עְתָּ לָהֶם֮ בָּךְ֒ וַתְּדַבֵּ֣ר אֲלֵהֶ֔ם אַרְבֶּה֙ אֶֽת־ זַרְעֲכֶ֔ם כְּכוֹכְבֵ֖י הַשָּׁמָ֑יִם וְכָל־ הָאָ֨רֶץ הַזֹּ֜את אֲשֶׁ֣ר אָמַ֗רְתִּי אֶתֵּן֙ לְזַרְעֲכֶ֔ם וְנָחֲל֖וּ לְעֹלָֽם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H3556]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H5157]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:13**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit [it] for ever.
 <small><sub>**BSB:**</sub></small>
 Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹ֡ר]] [[H9005\|לְ]][[H0085\|אַבְרָהָם֩]] [[H9005\|לְ]][[H3327\|יִצְחָ֨ק]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֜ל]] [[H5650\|עֲבָדֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֣עְתָּ]] [[H9005\|לָ]][[H9038\|הֶם֮]] [[H9003\|בָּ]][[H9031\|ךְ֒]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H7235A\|אַרְבֶּה֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9026\|כֶ֔ם]] [[H9004\|כְּ]][[H3556\|כוֹכְבֵ֖י]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֗רְתִּי]] [[H5414G\|אֶתֵּן֙]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5157\|נָחֲל֖וּ]] [[H9005\|לְ]][[H5769G\|עֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISAAC|ISAAC]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.12|<< Exodus 32:12]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.14|Exodus 32:14 >>]]</td></tr></table>
 

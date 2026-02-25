@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Unforgiving Servant
+type: Pericope
 pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 18
 book/chapter: "[[Matt.18|Matthew 18]]"
-genre:
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 15
 verses:
 - "[[Matt.18.21]]"
 - "[[Matt.18.22]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Matt.18.35]]"
 ---
 
-[[Matt.18|Matthew 18:21 - Matthew 18:35]]
+<small>[[Matt.18|Matthew 18:21-35]]</small>
 *The Unforgiving Servant*
 
 [[Matt.18.21|21]] Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?

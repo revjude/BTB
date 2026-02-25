@@ -1,10 +1,60 @@
+---
+title: 2 Peter 1:21
+type: Verse
+kjv: "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost."
+bsb: "For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+greek: "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη προφητεία ποτέ, ἀλλ᾽ ὑπὸ πνεύματος ἁγίου φερόμενοι ἐλάλησαν οἱ ἀπὸ θεοῦ ἄνθρωποι.¶"
+pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2307]]"
+- "[[G0444]]"
+- "[[G5342]]"
+- "[[G4394]]"
+- "[[G4218]]"
+- "[[G0235]]"
+- "[[G5259G]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **2 Peter 1:21**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the prophecy came not in old time by the will of man: but holy men of God spake [as they were] moved by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-Not for by [the] will of man was brought prophecy at any time but by [the] Spirit Holy being carried spoke <the> from of God men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.20|<< 2 Peter 1:20]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.1|2 Peter 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2307\|θελήματι]]  [[G0444\|ἀνθρώπου]]  [[G5342\|ἠνέχθη]]  [[G4394\|προφητεία]]  [[G4218\|ποτέ,]]  [[G0235\|ἀλλ᾽]]  [[G5259G\|ὑπὸ]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G5342\|φερόμενοι]]  [[G2980\|ἐλάλησαν]]  [[G3588\|οἱ]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G0444\|ἄνθρωποι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.20|<< 2 Peter 1:20]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.1|2 Peter 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

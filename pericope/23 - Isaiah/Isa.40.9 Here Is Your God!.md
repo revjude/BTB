@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Here Is Your God!
+type: Pericope
 pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 40
 book/chapter: "[[Isa.40|Isaiah 40]]"
-genre:
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 23
 verses:
 - "[[Isa.40.9]]"
 - "[[Isa.40.10]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Isa.40.31]]"
 ---
 
-[[Isa.40|Isaiah 40:9 - Isaiah 40:31]]
+<small>[[Isa.40|Isaiah 40:9-31]]</small>
 *Here Is Your God!*
 
 [[Isa.40.9|9]] O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift \[it\] up, be not afraid; say unto the cities of Judah, Behold your God!

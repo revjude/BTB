@@ -1,10 +1,58 @@
+---
+title: 1 Peter 4:8
+type: Verse
+kjv: "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
+bsb: "Above all, love one another deeply, because love covers over a multitude of sins."
+greek: "πρὸ πάντων δὲ τὴν εἰς ἑαυτοὺς ἀγάπην ἐκτενῆ ἔχοντες, ὅτι ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν."
+pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G4253]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1519]]"
+- "[[G1438]]"
+- "[[G0026]]"
+- "[[G1618]]"
+- "[[G2192]]"
+- "[[G3754H]]"
+- "[[G2572]]"
+- "[[G4128]]"
+- "[[G0266]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Peter 4:8**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
 <small><sub>**BSB:**</sub></small>
 Above all, love one another deeply, because love covers over a multitude of sins.
-<small><sub>**Literal:**</sub></small>
-above all things now <the> among yourselves love fervent having, because love covers over a multitude of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.7|<< 1 Peter 4:7]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.9|1 Peter 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|πρὸ]]  [[G3956\|πάντων]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G1519\|εἰς]]  [[G1438\|ἑαυτοὺς]]  [[G0026\|ἀγάπην]]  [[G1618\|ἐκτενῆ]]  [[G2192\|ἔχοντες,]]  [[G3754H\|ὅτι]]  [[G0026\|ἀγάπη]]  [[G2572\|καλύπτει]]  [[G4128\|πλῆθος]]  [[G0266\|ἁμαρτιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.7|<< 1 Peter 4:7]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.9|1 Peter 4:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 4:8** is...
 > $\quad$ referencing: [[LXX.Prov.10.12|Prov 10:12]]

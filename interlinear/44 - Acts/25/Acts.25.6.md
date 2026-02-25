@@ -1,10 +1,61 @@
+---
+title: Acts 25:6
+type: Verse
+kjv: "And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought."
+bsb: "After spending no more than eight or ten days with them, Festus went down to Caesarea. The next day he sat on the judgment seat and ordered that Paul be brought in."
+greek: "διατρίψας δὲ ἐν αὐτοῖς ἡμέρας οὐ πλείους ὀκτὼ ἢ δέκα, καταβὰς εἰς Καισάρειαν, τῇ ἐπαύριον καθίσας ἐπὶ τοῦ βήματος ἐκέλευσεν τὸν Παῦλον ἀχθῆναι.¶"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1304]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2250]]"
+- "[[G3756]]"
+- "[[G4183]]"
+- "[[G3638]]"
+- "[[G2228]]"
+- "[[G1176]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G3588]]"
+- "[[G1887]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G0968]]"
+- "[[G2753]]"
+- "[[G3972G]]"
+- "[[G0071]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 25:6**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.
 <small><sub>**BSB:**</sub></small>
 After spending no more than eight or ten days with them, Festus went down to Caesarea. The next day he sat on the judgment seat and ordered that Paul be brought in.
-<small><sub>**Literal:**</sub></small>
-Having spent then with them days not more than eight or ten, having gone down to Caesarea, on the next day having sat on the judgment seat he commanded <the> Paul to be brought.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.5|<< Acts 25:5]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.7|Acts 25:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1304\|διατρίψας]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G2250\|ἡμέρας]]  [[G3756\|οὐ]]  [[G4183\|πλείους]]  [[G3638\|ὀκτὼ]]  [[G2228\|ἢ]]  [[G1176\|δέκα,]]  [[G2597\|καταβὰς]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν,]]  [[G3588\|τῇ]]  [[G1887\|ἐπαύριον]]  [[G2523\|καθίσας]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G2753\|ἐκέλευσεν]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G0071\|ἀχθῆναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.5|<< Acts 25:5]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.7|Acts 25:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

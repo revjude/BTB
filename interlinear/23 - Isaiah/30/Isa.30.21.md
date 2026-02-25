@@ -1,8 +1,68 @@
+---
+title: Isaiah 30:21
+type: Verse
+kjv: "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left."
+bsb: "And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”"
+hebrew: "וְאָזְנֶ֙יךָ֙ תִּשְׁמַ֣עְנָה דָבָ֔ר מֵֽאַחֲרֶ֖יךָ לֵאמֹ֑ר זֶ֤ה הַדֶּ֙רֶךְ֙ לְכ֣וּ ב֔וֹ כִּ֥י תַאֲמִ֖ינוּ וְכִ֥י תַשְׂמְאִֽילוּ׃"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H0541]]"
+- "[[H8041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:21**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
 <small><sub>**BSB:**</sub></small>
 And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0241G\|אָזְנֶ֙י]][[H9021\|ךָ֙]] [[H8085G\|תִּשְׁמַ֣עְנָה]] [[H1697G\|דָבָ֔ר]] [[H9006\|מֵֽ]][[H0310A\|אַחֲרֶ֖י]][[H9031\|ךָ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2088\|זֶ֤ה]] [[H9009\|הַ]][[H1870K\|דֶּ֙רֶךְ֙]] [[H1980I\|לְכ֣וּ]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H3588A\|כִּ֥י]] [[H0541\|תַאֲמִ֖ינוּ]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H8041\|תַשְׂמְאִֽילוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WALKING|WALKING]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.20|<< Isaiah 30:20]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.22|Isaiah 30:22 >>]]</td></tr></table>
 

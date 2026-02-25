@@ -1,10 +1,58 @@
+---
+title: Titus 1:2
+type: Verse
+kjv: "In hope of eternal life, which God, that cannot lie, promised before the world began;"
+bsb: "in the hope of eternal life, which God, who cannot lie, promised before time began."
+greek: "ἐπ᾽ ἐλπίδι ζωῆς αἰωνίου, ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς πρὸ χρόνων αἰωνίων."
+pericope: "[[Titus.1.1 Paul’s Greeting to Titus|Paul’s Greeting to Titus]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G1909]]"
+- "[[G1680]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G3739]]"
+- "[[G1861]]"
+- "[[G3588]]"
+- "[[G0893]]"
+- "[[G2316]]"
+- "[[G4253]]"
+- "[[G5550]]"
+texts:
+- NKO
+---
+
 **Titus 1:2**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In hope of eternal life, which God, that cannot lie, promised before the world began;
 <small><sub>**BSB:**</sub></small>
 in the hope of eternal life, which God, who cannot lie, promised before time began.
-<small><sub>**Literal:**</sub></small>
-in [the] hope of life eternal, which promised <the> who cannot lie God before time eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.1|<< Titus 1:1]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.3|Titus 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|ἐπ᾽]]  [[G1680\|ἐλπίδι]]  [[G2222\|ζωῆς]]  [[G0166\|αἰωνίου,]]  [[G3739\|ἣν]]  [[G1861\|ἐπηγγείλατο]]  [[G3588\|ὁ]]  [[G0893\|ἀψευδὴς]]  [[G2316\|θεὸς]]  [[G4253\|πρὸ]]  [[G5550\|χρόνων]]  [[G0166\|αἰωνίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TITUS|TITUS]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.1|<< Titus 1:1]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.3|Titus 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

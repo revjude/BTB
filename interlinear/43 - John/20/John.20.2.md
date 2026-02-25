@@ -1,10 +1,67 @@
+---
+title: John 20:2
+type: Verse
+kjv: "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him."
+bsb: "So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”"
+greek: "τρέχει οὖν καὶ ἔρχεται πρὸς Σίμωνα Πέτρον καὶ πρὸς τὸν ἄλλον μαθητὴν ὃν ἐφίλει ὁ Ἰησοῦς καὶ λέγει αὐτοῖς· ἦραν τὸν κύριον ἐκ τοῦ μνημείου, καὶ οὐκ οἴδαμεν ποῦ ἔθηκαν αὐτόν.¶"
+pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5143]]"
+- "[[G3767]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G3588]]"
+- "[[G0243]]"
+- "[[G3101]]"
+- "[[G3739]]"
+- "[[G5368]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0142]]"
+- "[[G2962G]]"
+- "[[G1537]]"
+- "[[G3419]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4226]]"
+- "[[G5087]]"
+texts:
+- NKO
+---
+
 **John 20:2**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
 <small><sub>**BSB:**</sub></small>
 So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”
-<small><sub>**Literal:**</sub></small>
-She runs therefore and she comes to Simon Peter and to the other disciple whom was loving <the> Jesus and she says to them; They have taken away the Lord out of the tomb, and not we know where they have laid Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.1|<< John 20:1]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.3|John 20:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5143\|τρέχει]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G2064\|ἔρχεται]]  [[G4314\|πρὸς]]  [[G4613O\|Σίμωνα]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0243\|ἄλλον]]  [[G3101\|μαθητὴν]]  [[G3739\|ὃν]]  [[G5368\|ἐφίλει]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G0142\|ἦραν]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν]]  [[G4226\|ποῦ]]  [[G5087\|ἔθηκαν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LOVE|LOVE]] • [[topic PETER|PETER]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.1|<< John 20:1]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.3|John 20:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

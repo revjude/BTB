@@ -1,10 +1,66 @@
+---
+title: Luke 11:34
+type: Verse
+kjv: "The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness."
+bsb: "Your eye is the lamp of your body. When your eyes are good, your whole body also is full of light. But when they are bad, your body is full of darkness."
+jesus_said: "The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness."
+greek: "Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός σου. ὅταν οὖν ὁ ὀφθαλμός σου ἁπλοῦς ᾖ, καὶ ὅλον τὸ σῶμά σου φωτεινόν ἐστιν· ἐπὰν δὲ πονηρὸς ᾖ, καὶ τὸ σῶμά σου σκοτεινόν."
+pericope: "[[Luke.11.33 The Lamp of the Body|The Lamp of the Body]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G3088]]"
+- "[[G4983]]"
+- "[[G1510]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G3752]]"
+- "[[G3767]]"
+- "[[G0573]]"
+- "[[G2532]]"
+- "[[G3650]]"
+- "[[G5460]]"
+- "[[G1875]]"
+- "[[G1161]]"
+- "[[G4190]]"
+- "[[G4652]]"
+texts:
+- NKO
+- no
+- K
+---
+
 **Luke 11:34**<big><big>[[Luke.11.33 The Lamp of the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when [thine eye] is evil, thy body also [is] full of darkness.
 <small><sub>**BSB:**</sub></small>
 Your eye is the lamp of your body. When your eyes are good, your whole body also is full of light. But when they are bad, your body is full of darkness.
-<small><sub>**Literal:**</sub></small>
-The lamp <the> of body is the eye of you. When therefore the eye of you clear may be, also all the body of you light is; when however evil it may be, also the body of you [is] dark.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.33|<< Luke 11:33]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.35|Luke 11:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3088\|λύχνος]]  [[G3588\|τοῦ]]  [[G4983\|σώματός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου.]]  [[G3752\|ὅταν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G0573\|ἁπλοῦς]]  [[G1510\|ᾖ,]]  [[G2532\|καὶ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G5460\|φωτεινόν]]  [[G1510\|ἐστιν·]]  [[G1875\|ἐπὰν]]  [[G1161\|δὲ]]  [[G4190\|πονηρὸς]]  [[G1510\|ᾖ,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G4652\|σκοτεινόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic PHARISEES|PHARISEES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.33|<< Luke 11:33]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.35|Luke 11:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

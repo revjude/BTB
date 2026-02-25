@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 27:12
+type: Verse
+kjv: "These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:"
+bsb: "“When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin."
+hebrew: "אֵ֠לֶּה יַֽעַמְד֞וּ לְבָרֵ֤ךְ אֶת־ הָעָם֙ עַל־ הַ֣ר גְּרִזִ֔ים בְּעָבְרְכֶ֖ם אֶת־ הַיַּרְדֵּ֑ן שִׁמְעוֹן֙ וְלֵוִ֣י וִֽיהוּדָ֔ה וְיִשָּׂשכָ֖ר וְיוֹסֵ֥ף וּבִנְיָמִֽן׃"
+pericope: "[[Deut.27.11 Curses Pronounced from Ebal|Curses Pronounced from Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic EBAL|EBAL]]"
+- "[[topic GERIZIM|GERIZIM]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0428]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H1630]]"
+- "[[H9003]]"
+- "[[H5674A]]"
+- "[[H9046]]"
+- "[[H3383]]"
+- "[[H8095G]]"
+- "[[H9002]]"
+- "[[H3878]]"
+- "[[H3063G]]"
+- "[[H3485G]]"
+- "[[H3130G]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:12**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 <small><sub>**BSB:**</sub></small>
 “When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֠לֶּה]] [[H5975G\|יַֽעַמְד֞וּ]] [[H9005\|לְ]][[H1288\|בָרֵ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H1630\|גְּרִזִ֔ים]] [[H9003\|בְּ]][[H5674A\|עָבְרְ]][[H9046\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H8095G\|שִׁמְעוֹן֙]] [[H9002\|וְ]][[H3878\|לֵוִ֣י]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וְ]][[H3485G\|יִשָּׂשכָ֖ר]] [[H9002\|וְ]][[H3130G\|יוֹסֵ֥ף]] [[H9002\|וּ]][[H1144G\|בִנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic CURSE|CURSE]] • [[topic EBAL|EBAL]] • [[topic GERIZIM|GERIZIM]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic PRAYER|PRAYER]] • [[topic REWARD|REWARD]] • [[topic SIMEON|SIMEON]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.11|<< Deuteronomy 27:11]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.13|Deuteronomy 27:13 >>]]</td></tr></table>
 

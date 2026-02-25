@@ -1,8 +1,61 @@
+---
+title: Micah 4:9
+type: Verse
+kjv: "Now why dost thou cry out aloud? is there no king in thee? is thy counseller perished? for pangs have taken thee as a woman in travail."
+bsb: "Why do you now cry aloud? Is there no king among you? Has your counselor perished so that anguish grips you like a woman in labor?"
+hebrew: "עַתָּ֕ה לָ֥מָּה תָרִ֖יעִי רֵ֑עַ הֲמֶ֣לֶךְ אֵֽין־ בָּ֗ךְ אִֽם־ יוֹעֲצֵךְ֙ אָבָ֔ד כִּֽי־ הֶחֱזִיקֵ֥ךְ חִ֖יל כַּיּוֹלֵדָֽה׃"
+pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7321]]"
+- "[[H7452]]"
+- "[[H9008]]"
+- "[[H4428G]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H0518I]]"
+- "[[H3289]]"
+- "[[H0006]]"
+- "[[H3588A]]"
+- "[[H2388H]]"
+- "[[H2427A]]"
+- "[[H9004]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:9**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now why dost thou cry out aloud? [is there] no king in thee? is thy counseller perished? for pangs have taken thee as a woman in travail.
 <small><sub>**BSB:**</sub></small>
 Why do you now cry aloud? Is there no king among you? Has your counselor perished so that anguish grips you like a woman in labor?
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֕ה]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H7321\|תָרִ֖יעִי]] [[H7452\|רֵ֑עַ]] [[H9008\|הֲ]][[H4428G\|מֶ֣לֶךְ]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9003\|בָּ֗]][[H9032\|ךְ]] [[H0518I\|אִֽם]][[H9014\|־]] [[H3289\|יוֹעֲצֵ]][[H9032\|ךְ֙]] [[H0006\|אָבָ֔ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2388H\|הֶחֱזִיקֵ֥]][[H9032\|ךְ]] [[H2427A\|חִ֖יל]] [[H9004\|כַּ]][[H3205\|יּוֹלֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.8|<< Micah 4:8]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.10|Micah 4:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,56 @@
+---
+title: John 13:20
+type: Verse
+kjv: "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me."
+bsb: "Truly, truly, I tell you, whoever receives the one I send receives Me, and whoever receives Me receives the One who sent Me.”"
+jesus_said: "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me."
+greek: "ἀμὴν ἀμὴν λέγω ὑμῖν· ὁ λαμβάνων ἄν τινα πέμψω, ἐμὲ λαμβάνει· ὁ δὲ ἐμὲ λαμβάνων, λαμβάνει τὸν πέμψαντά με.¶"
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2983]]"
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G3992]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 13:20**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, whoever receives the one I send receives Me, and whoever receives Me receives the One who sent Me.”
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you; the [one] receiving maybe any I shall send, Me myself receives; the [one] now Me myself receiving, receives the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.19|<< John 13:19]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.21|John 13:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3588\|ὁ]]  [[G2983\|λαμβάνων]]  [[G0302\|ἄν]]  [[G5100\|τινα]]  [[G3992\|πέμψω,]]  [[G1473\|ἐμὲ]]  [[G2983\|λαμβάνει·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1473\|ἐμὲ]]  [[G2983\|λαμβάνων,]]  [[G2983\|λαμβάνει]]  [[G3588\|τὸν]]  [[G3992\|πέμψαντά]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.19|<< John 13:19]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.21|John 13:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

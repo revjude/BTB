@@ -1,8 +1,57 @@
+---
+title: Proverbs 28:24
+type: Verse
+kjv: "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer."
+bsb: "He who robs his father or mother, saying, “It is not wrong,” is a companion to the man who destroys."
+hebrew: "גּוֹזֵ֤ל׀ אָ֘בִ֤יו וְאִמּ֗וֹ וְאֹמֵ֥ר אֵֽין־ פָּ֑שַׁע חָבֵ֥ר ה֝֗וּא לְאִ֣ישׁ מַשְׁחִֽית׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+strongs:
+- "[[H1497]]"
+- "[[H9015]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H0559]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H2270]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:24**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso robbeth his father or his mother, and saith, [It is] no transgression; the same [is] the companion of a destroyer.
 <small><sub>**BSB:**</sub></small>
 He who robs his father or mother, saying, “It is not wrong,” is a companion to the man who destroys.
+<small><sub>**Hebrew:**</sub></small>
+[[H1497\|גּוֹזֵ֤ל]][[H9015\|׀]] [[H0001G\|אָ֘בִ֤י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H0559\|אֹמֵ֥ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H6588\|פָּ֑שַׁע]] [[H2270\|חָבֵ֥ר]] [[H1931\|ה֝֗וּא]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H7843\|מַשְׁחִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.23|<< Proverbs 28:23]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.25|Proverbs 28:25 >>]]</td></tr></table>
 

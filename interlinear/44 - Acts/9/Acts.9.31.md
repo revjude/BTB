@@ -1,10 +1,63 @@
+---
+title: Acts 9:31
+type: Verse
+kjv: "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied."
+bsb: "Then the church throughout Judea, Galilee, and Samaria experienced a time of peace. It grew in strength and numbers, living in the fear of the Lord and the encouragement of the Holy Spirit."
+greek: "Ἡ μὲν οὖν ἐκκλησία καθ᾽ ὅλης τῆς Ἰουδαίας καὶ Γαλιλαίας καὶ Σαμαρείας εἶχεν εἰρήνην, οἰκοδομουμένη καὶ πορευομένη τῷ φόβῳ τοῦ κυρίου, καὶ τῇ παρακλήσει τοῦ ἁγίου πνεύματος ἐπληθύνετο.¶"
+pericope: "[[Acts.9.31 The Healing of Aeneas|The Healing of Aeneas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1577]]"
+- "[[G2596]]"
+- "[[G3650]]"
+- "[[G2449]]"
+- "[[G2532]]"
+- "[[G1056G]]"
+- "[[G4540]]"
+- "[[G2192]]"
+- "[[G1515]]"
+- "[[G3618]]"
+- "[[G4198]]"
+- "[[G5401]]"
+- "[[G2962G]]"
+- "[[G3874]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G4129]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 9:31**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 <small><sub>**BSB:**</sub></small>
 Then the church throughout Judea, Galilee, and Samaria experienced a time of peace. It grew in strength and numbers, living in the fear of the Lord and the encouragement of the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-the indeed then church throughout all <the> of Judea and Galilee and Samaria had peace, being edified and going on in the fear of the Lord, and in the comfort of the Holy Spirit it were multiplied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.30|<< Acts 9:30]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.32|Acts 9:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1577\|ἐκκλησία]]  [[G2596\|καθ᾽]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G1056G\|Γαλιλαίας]]  [[G2532\|καὶ]]  [[G4540\|Σαμαρείας]]  [[G2192\|εἶχεν]]  [[G1515\|εἰρήνην,]]  [[G3618\|οἰκοδομουμένη]]  [[G2532\|καὶ]]  [[G4198\|πορευομένη]]  [[G3588\|τῷ]]  [[G5401\|φόβῳ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου,]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G3874\|παρακλήσει]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G4151G\|πνεύματος]]  [[G4129\|ἐπληθύνετο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GALILEE|GALILEE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.30|<< Acts 9:30]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.32|Acts 9:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: John 20:18
+type: Verse
+kjv: "Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her."
+bsb: "Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her."
+greek: "Ἔρχεται Μαριὰμ ἡ Μαγδαληνὴ ἀγγέλλουσα τοῖς μαθηταῖς ὅτι ἑώρακα τὸν κύριον, καὶ ταῦτα εἶπεν αὐτῇ.¶"
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2064]]"
+- "[[G3137I]]"
+- "[[G3588]]"
+- "[[G3094]]"
+- "[[G6000]]"
+- "[[G3101]]"
+- "[[G3754G]]"
+- "[[G3708]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 20:18**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Mary Magdalene came and told the disciples that she had seen the Lord, and [that] he had spoken these things unto her.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her.
-<small><sub>**Literal:**</sub></small>
-Comes Mary <the> Magdalene reporting to the disciples that I have seen the Lord, and [that] these things He had said to her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.17|<< John 20:17]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.19|John 20:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἔρχεται]]  [[G3137I\|Μαριὰμ]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G6000\|ἀγγέλλουσα]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G3754G\|ὅτι]]  [[G3708\|ἑώρακα]]  [[G3588\|τὸν]]  [[G2962G\|κύριον,]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.17|<< John 20:17]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.19|John 20:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

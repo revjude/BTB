@@ -1,8 +1,58 @@
+---
+title: Zechariah 9:3
+type: Verse
+kjv: "And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets."
+bsb: "Tyre has built herself a fortress; she has heaped up silver like dust, and gold like the dirt of the streets."
+hebrew: "וַתִּ֥בֶן צֹ֛ר מָצ֖וֹר לָ֑הּ וַתִּצְבָּר־ כֶּ֙סֶף֙ כֶּֽעָפָ֔ר וְחָר֖וּץ כְּטִ֥יט חוּצֽוֹת׃"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H6865]]"
+- "[[H4692]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H6651]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H9002]]"
+- "[[H2742D]]"
+- "[[H2916]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:3**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.
 <small><sub>**BSB:**</sub></small>
 Tyre has built herself a fortress; she has heaped up silver like dust, and gold like the dirt of the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|תִּ֥בֶן]] [[H6865\|צֹ֛ר]] [[H4692\|מָצ֖וֹר]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H6651\|תִּצְבָּר]][[H9014\|־]] [[H3701G\|כֶּ֙סֶף֙]] [[H9004\|כֶּֽ]][[H6083\|עָפָ֔ר]] [[H9002\|וְ]][[H2742D\|חָר֖וּץ]] [[H9004\|כְּ]][[H2916\|טִ֥יט]] [[H2351\|חוּצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.2|<< Zechariah 9:2]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.4|Zechariah 9:4 >>]]</td></tr></table>
 

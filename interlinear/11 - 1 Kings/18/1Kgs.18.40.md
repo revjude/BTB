@@ -1,8 +1,74 @@
+---
+title: 1 Kings 18:40
+type: Verse
+kjv: "And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there."
+bsb: "Then Elijah ordered them, “Seize the prophets of Baal! Do not let a single one escape.” So they seized them, and Elijah brought them down to the Kishon Valley and slaughtered them there."
+hebrew: "וַיֹּאמֶר֩ אֵלִיָּ֨הוּ לָהֶ֜ם תִּפְשׂ֣וּ׀ אֶת־ נְבִיאֵ֣י הַבַּ֗עַל אִ֛ישׁ אַל־ יִמָּלֵ֥ט מֵהֶ֖ם וַֽיִּתְפְּשׂ֑וּם וַיּוֹרִדֵ֤ם אֵלִיָּ֙הוּ֙ אֶל־ נַ֣חַל קִישׁ֔וֹן וַיִּשְׁחָטֵ֖ם שָֽׁם׃"
+pericope: "[[1Kgs.18.36 Elijah’s Prayer|Elijah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic KISHON|KISHON]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0452G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8610]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H0376I]]"
+- "[[H0408]]"
+- "[[H4422]]"
+- "[[H9006]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H5158N]]"
+- "[[H7028]]"
+- "[[H7819A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:40**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.
 <small><sub>**BSB:**</sub></small>
 Then Elijah ordered them, “Seize the prophets of Baal! Do not let a single one escape.” So they seized them, and Elijah brought them down to the Kishon Valley and slaughtered them there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H0452G\|אֵלִיָּ֨הוּ]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H8610\|תִּפְשׂ֣וּ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H5030\|נְבִיאֵ֣י]] [[H9009\|הַ]][[H1168A\|בַּ֗עַל]] [[H0376I\|אִ֛ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H4422\|יִמָּלֵ֥ט]] [[H9006\|מֵ]][[H9038\|הֶ֖ם]] [[H9001\|וַֽ]][[H8610\|יִּתְפְּשׂ֑וּ]][[H9038\|ם]] [[H9001\|וַ]][[H3381\|יּוֹרִדֵ֤]][[H9038\|ם]] [[H0452G\|אֵלִיָּ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5158N\|נַ֣חַל]] [[H7028\|קִישׁ֔וֹן]] [[H9001\|וַ]][[H7819A\|יִּשְׁחָטֵ֖]][[H9038\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic BAAL|BAAL]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic KISHON|KISHON]] • [[topic MASSACRE|MASSACRE]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.39|<< 1 Kings 18:39]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.41|1 Kings 18:41 >>]]</td></tr></table>
 

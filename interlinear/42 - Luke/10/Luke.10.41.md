@@ -1,10 +1,61 @@
+---
+title: Luke 10:41
+type: Verse
+kjv: "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:"
+bsb: "“Martha, Martha,” the Lord replied, “you are worried and upset about many things."
+jesus_said: "Martha, Martha, thou art careful and troubled about many things:"
+greek: "Ἀποκριθεὶς δὲ εἶπεν αὐτῇ ὁ κύριος· Μάρθα Μάρθα, μεριμνᾷς καὶ θορυβάζῃ περὶ πολλά,"
+pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTHA|MARTHA]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3136]]"
+- "[[G3309]]"
+- "[[G2532]]"
+- "[[G2350]]"
+- "[[G4012]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 10:41**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
 <small><sub>**BSB:**</sub></small>
 “Martha, Martha,” the Lord replied, “you are worried and upset about many things.
-<small><sub>**Literal:**</sub></small>
-Answering now He said to her the Lord; Martha Martha, you are anxious and troubled about many things,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.40|<< Luke 10:40]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.42|Luke 10:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G3136\|Μάρθα]]  [[G3136\|Μάρθα,]]  [[G3309\|μεριμνᾷς]]  [[G2532\|καὶ]]  [[G2350\|θορυβάζῃ]]  [[G4012\|περὶ]]  [[G4183\|πολλά,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTHA|MARTHA]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.40|<< Luke 10:40]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.42|Luke 10:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

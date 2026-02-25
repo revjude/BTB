@@ -1,8 +1,66 @@
+---
+title: 2 Kings 3:21
+type: Verse
+kjv: "And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border."
+bsb: "Now all the Moabites had heard that the kings had come up to fight against them. So all who could bear arms, young and old, were summoned and stationed at the border."
+hebrew: "וְכָל־ מוֹאָב֙ שָֽׁמְע֔וּ כִּֽי־ עָל֥וּ הַמְּלָכִ֖ים לְהִלָּ֣חֶם בָּ֑ם וַיִּצָּעֲק֗וּ מִכֹּ֨ל חֹגֵ֤ר חֲגֹרָה֙ וָמַ֔עְלָה וַיַּעַמְד֖וּ עַֽל־ הַגְּבֽוּל׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H9006]]"
+- "[[H2296]]"
+- "[[H2290B]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H1366G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:21**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.
 <small><sub>**BSB:**</sub></small>
 Now all the Moabites had heard that the kings had come up to fight against them. So all who could bear arms, young and old, were summoned and stationed at the border.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4124G\|מוֹאָב֙]] [[H8085G\|שָֽׁמְע֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5927G\|עָל֥וּ]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֖ים]] [[H9005\|לְ]][[H3898A\|הִלָּ֣חֶם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H9001\|וַ]][[H6817\|יִּצָּעֲק֗וּ]] [[H9006\|מִ]][[H3605\|כֹּ֨ל]] [[H2296\|חֹגֵ֤ר]] [[H2290B\|חֲגֹרָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9001\|וַ]][[H5975G\|יַּעַמְד֖וּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H1366G\|גְּבֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIRDLE|GIRDLE]] • [[topic MIRACLES|MIRACLES]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.20|<< 2 Kings 3:20]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.22|2 Kings 3:22 >>]]</td></tr></table>
 

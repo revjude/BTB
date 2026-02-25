@@ -1,10 +1,55 @@
+---
+title: Ephesians 6:10
+type: Verse
+kjv: "Finally, my brethren, be strong in the Lord, and in the power of his might."
+bsb: "Finally, be strong in the Lord and in His mighty power."
+greek: "Τοῦ λοιποῦ ἀδελφοί μου, ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ."
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G3588]]"
+- "[[G3064]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G1743]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G2904]]"
+- "[[G2479]]"
+- "[[G0846]]"
+texts:
+- N(k)O
+- K
+- NKO
+---
+
 **Ephesians 6:10**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Finally, my brethren, be strong in the Lord, and in the power of his might.
 <small><sub>**BSB:**</sub></small>
 Finally, be strong in the Lord and in His mighty power.
-<small><sub>**Literal:**</sub></small>
-<the> Henceforth brothers of mine do be empowered in [the] Lord and in the strength of the might of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.9|<< Ephesians 6:9]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.11|Ephesians 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G3064\|λοιποῦ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G1743\|ἐνδυναμοῦσθε]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2904\|κράτει]]  [[G3588\|τῆς]]  [[G2479\|ἰσχύος]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.9|<< Ephesians 6:9]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.11|Ephesians 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

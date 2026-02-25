@@ -1,8 +1,61 @@
+---
+title: Numbers 32:40
+type: Verse
+kjv: "And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein."
+bsb: "So Moses gave Gilead to the clan of Machir son of Manasseh, and they settled there."
+hebrew: "וַיִּתֵּ֤ן מֹשֶׁה֙ אֶת־ הַגִּלְעָ֔ד לְמָכִ֖יר בֶּן־ מְנַשֶּׁ֑ה וַיֵּ֖שֶׁב בָּֽהּ׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic MACHIR|MACHIR]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H9005]]"
+- "[[H4353G]]"
+- "[[H1121A]]"
+- "[[H4519G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:40**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
 <small><sub>**BSB:**</sub></small>
 So Moses gave Gilead to the clan of Machir son of Manasseh, and they settled there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H9005\|לְ]][[H4353G\|מָכִ֖יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic MACHIR|MACHIR]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.39|<< Numbers 32:39]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.41|Numbers 32:41 >>]]</td></tr></table>
 

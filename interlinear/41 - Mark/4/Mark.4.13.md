@@ -1,10 +1,58 @@
+---
+title: Mark 4:13
+type: Verse
+kjv: "And he said unto them, Know ye not this parable? and how then will ye know all parables?"
+bsb: "Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?"
+jesus_said: "Know ye not this parable? and how then will ye know all parables?"
+greek: "Καὶ λέγει αὐτοῖς· οὐκ οἴδατε τὴν παραβολὴν ταύτην; καὶ πῶς πάσας τὰς παραβολὰς γνώσεσθε;"
+pericope: "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G3850]]"
+- "[[G3778]]"
+- "[[G4459]]"
+- "[[G3956]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **Mark 4:13**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Know ye not this parable? and how then will ye know all parables?
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?
-<small><sub>**Literal:**</sub></small>
-And He says to them; Not understand you <the> parable this? And how all the parables will you understand?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.12|<< Mark 4:12]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.14|Mark 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην;]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G3956\|πάσας]]  [[G3588\|τὰς]]  [[G3850\|παραβολὰς]]  [[G1097\|γνώσεσθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.12|<< Mark 4:12]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.14|Mark 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

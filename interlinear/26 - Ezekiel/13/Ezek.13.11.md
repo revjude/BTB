@@ -1,8 +1,63 @@
+---
+title: Ezekiel 13:11
+type: Verse
+kjv: "Say unto them which daub it with untempered morter, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it."
+bsb: "tell those whitewashing the wall that it will fall. Rain will come in torrents, I will send hailstones plunging down, and a windstorm will burst forth."
+hebrew: "אֱמֹ֛ר אֶל־ טָחֵ֥י תָפֵ֖ל וְיִפֹּ֑ל הָיָ֣ה׀ גֶּ֣שֶׁם שׁוֹטֵ֗ף וְאַתֵּ֜נָה אַבְנֵ֤י אֶלְגָּבִישׁ֙ תִּפֹּ֔לְנָה וְר֥וּחַ סְעָר֖וֹת תְּבַקֵּֽעַ׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2902A]]"
+- "[[H8602B]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H1653]]"
+- "[[H7857]]"
+- "[[H0859E]]"
+- "[[H0068G]]"
+- "[[H0417]]"
+- "[[H7307H]]"
+- "[[H5591B]]"
+- "[[H1234]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:11**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto them which daub [it] with untempered [morter], that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend [it].
 <small><sub>**BSB:**</sub></small>
 tell those whitewashing the wall that it will fall. Rain will come in torrents, I will send hailstones plunging down, and a windstorm will burst forth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H2902A\|טָחֵ֥י]] [[H8602B\|תָפֵ֖ל]] [[H9002\|וְ]][[H5307G\|יִפֹּ֑ל]] [[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H1653\|גֶּ֣שֶׁם]] [[H7857\|שׁוֹטֵ֗ף]] [[H9002\|וְ]][[H0859E\|אַתֵּ֜נָה]] [[H0068G\|אַבְנֵ֤י]] [[H0417\|אֶלְגָּבִישׁ֙]] [[H5307G\|תִּפֹּ֔לְנָה]] [[H9002\|וְ]][[H7307H\|ר֥וּחַ]] [[H5591B\|סְעָר֖וֹת]] [[H1234\|תְּבַקֵּֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.10|<< Ezekiel 13:10]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.12|Ezekiel 13:12 >>]]</td></tr></table>
 

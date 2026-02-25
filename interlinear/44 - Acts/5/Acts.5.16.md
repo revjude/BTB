@@ -1,10 +1,60 @@
+---
+title: Acts 5:16
+type: Verse
+kjv: "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one."
+bsb: "Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed."
+greek: "συνήρχετο δὲ καὶ τὸ πλῆθος τῶν πέριξ πόλεων εἰς Ἰερουσαλὴμ φέροντες ἀσθενεῖς καὶ ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων, οἵτινες ἐθεραπεύοντο ἅπαντες.¶"
+pericope: "[[Acts.5.12 The Apostles Heal Many|The Apostles Heal Many]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G4905]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G4038]]"
+- "[[G4172]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G5342]]"
+- "[[G0772H]]"
+- "[[G3791]]"
+- "[[G5259G]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G3748]]"
+- "[[G2323]]"
+- "[[G0537]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:16**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There came also a multitude [out] of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
 <small><sub>**BSB:**</sub></small>
 Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed.
-<small><sub>**Literal:**</sub></small>
-Were coming together now also the multitude from the surrounding cities into Jerusalem bringing [the] sick and [those] being tormented by spirits unclean, who were healed all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.15|<< Acts 5:15]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.17|Acts 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4905\|συνήρχετο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G3588\|τῶν]]  [[G4038\|πέριξ]]  [[G4172\|πόλεων]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G5342\|φέροντες]]  [[G0772H\|ἀσθενεῖς]]  [[G2532\|καὶ]]  [[G3791\|ὀχλουμένους]]  [[G5259G\|ὑπὸ]]  [[G4151G\|πνευμάτων]]  [[G0169\|ἀκαθάρτων,]]  [[G3748\|οἵτινες]]  [[G2323\|ἐθεραπεύοντο]]  [[G0537\|ἅπαντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic DEMONS|DEMONS]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.15|<< Acts 5:15]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.17|Acts 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

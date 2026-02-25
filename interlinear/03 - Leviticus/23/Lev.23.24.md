@@ -1,8 +1,69 @@
+---
+title: Leviticus 23:24
+type: Verse
+kjv: "Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+bsb: "“Speak to the Israelites and say, ‘On the first day of the seventh month you are to have a day of rest, a sacred assembly announced by trumpet blasts."
+hebrew: "דַּבֵּ֛ר אֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר בַּחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ יִהְיֶ֤ה לָכֶם֙ שַׁבָּת֔וֹן זִכְר֥וֹן תְּרוּעָ֖ה מִקְרָא־ קֹֽדֶשׁ׃"
+pericope: "[[Lev.23.23 The Feast of Trumpets|The Feast of Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H7677]]"
+- "[[H2146]]"
+- "[[H8643]]"
+- "[[H4744]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:24**<big><big>[[Lev.23.23 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, saying, In the seventh month, in the first [day] of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and say, ‘On the first day of the seventh month you are to have a day of rest, a sacred assembly announced by trumpet blasts.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9003\|בַּ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֜י]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֗דֶשׁ]] [[H1961\|יִהְיֶ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H7677\|שַׁבָּת֔וֹן]] [[H2146\|זִכְר֥וֹן]] [[H8643\|תְּרוּעָ֖ה]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHANIM|ETHANIM]] • [[topic MONTH|MONTH]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.23|<< Leviticus 23:23]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.25|Leviticus 23:25 >>]]</td></tr></table>
 

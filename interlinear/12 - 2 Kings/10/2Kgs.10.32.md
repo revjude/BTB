@@ -1,8 +1,62 @@
+---
+title: 2 Kings 10:32
+type: Verse
+kjv: "In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;"
+bsb: "In those days the LORD began to reduce the size of Israel. Hazael defeated the Israelites throughout their territory"
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם הֵחֵ֣ל יְהוָ֔ה לְקַצּ֖וֹת בְּיִשְׂרָאֵ֑ל וַיַּכֵּ֥ם חֲזָאֵ֖ל בְּכָל־ גְּב֥וּל יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|Jehu Repeats Jeroboam’s Sins]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H2490C]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7096]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H2371]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:32**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;
 <small><sub>**BSB:**</sub></small>
 In those days the LORD began to reduce the size of Israel. Hazael defeated the Israelites throughout their territory
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H2490C\|הֵחֵ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H7096\|קַצּ֖וֹת]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9038\|ם]] [[H2371\|חֲזָאֵ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּב֥וּל]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic HAZAEL|HAZAEL]] • [[topic JEHU|JEHU]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.31|<< 2 Kings 10:31]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.33|2 Kings 10:33 >>]]</td></tr></table>
 

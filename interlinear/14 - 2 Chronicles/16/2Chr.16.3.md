@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 16:3
+type: Verse
+kjv: "There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me."
+bsb: "“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”"
+hebrew: "בְּרִית֙ בֵּינִ֣י וּבֵינֶ֔ךָ וּבֵ֥ין אָבִ֖י וּבֵ֣ין אָבִ֑יךָ הִנֵּ֨ה שָׁלַ֤חְתִּֽי לְךָ֙ כֶּ֣סֶף וְזָהָ֔ב לֵ֞ךְ הָפֵ֣ר בְּרִֽיתְךָ֗ אֶת־ בַּעְשָׁא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וְיַעֲלֶ֖ה מֵעָלָֽי׃"
+pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H1285]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H2009]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H1980G]]"
+- "[[H6565A]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1201]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:3**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a league between me and thee, as [there was] between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.
 <small><sub>**BSB:**</sub></small>
 “Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1285\|בְּרִית֙]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶ֔]][[H9031\|ךָ]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H2009\|הִנֵּ֨ה]] [[H7971G\|שָׁלַ֤חְתִּֽי]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֔ב]] [[H1980G\|לֵ֞ךְ]] [[H6565A\|הָפֵ֣ר]] [[H1285\|בְּרִֽיתְ]][[H9021\|ךָ֗]] [[H0854\|אֶת]][[H9014\|־]] [[H1201\|בַּעְשָׁא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H5927G\|יַעֲלֶ֖ה]] [[H9006\|מֵ]][[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic BAASHA|BAASHA]] • [[topic BEN-HADAD|BEN-HADAD]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.2|<< 2 Chronicles 16:2]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.4|2 Chronicles 16:4 >>]]</td></tr></table>
 

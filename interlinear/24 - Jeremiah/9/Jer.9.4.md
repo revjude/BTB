@@ -1,8 +1,62 @@
+---
+title: Jeremiah 9:4
+type: Verse
+kjv: "Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders."
+bsb: "“Let everyone guard against his neighbor; do not trust any brother, for every brother deals craftily, and every friend spreads slander."
+hebrew: "אִ֤ישׁ מֵרֵעֵ֙הוּ֙ הִשָּׁמֵ֔רוּ וְעַל־ כָּל־ אָ֖ח אַל־ תִּבְטָ֑חוּ כִּ֤י כָל־ אָח֙ עָק֣וֹב יַעְקֹ֔ב וְכָל־ רֵ֖עַ רָכִ֥יל יַהֲלֹֽךְ׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H8104J]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0251G]]"
+- "[[H0408]]"
+- "[[H0982]]"
+- "[[H3588A]]"
+- "[[H6117]]"
+- "[[H7400]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:4**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
 <small><sub>**BSB:**</sub></small>
 “Let everyone guard against his neighbor; do not trust any brother, for every brother deals craftily, and every friend spreads slander.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֤ישׁ]] [[H9006\|מֵ]][[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H8104J\|הִשָּׁמֵ֔רוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0251G\|אָ֖ח]] [[H0408\|אַל]][[H9014\|־]] [[H0982\|תִּבְטָ֑חוּ]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H0251G\|אָח֙]] [[H6117\|עָק֣וֹב]] [[H6117\|יַעְקֹ֔ב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7453\|רֵ֖עַ]] [[H7400\|רָכִ֥יל]] [[H1980G\|יַהֲלֹֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SLANDER|SLANDER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.3|<< Jeremiah 9:3]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.5|Jeremiah 9:5 >>]]</td></tr></table>
 

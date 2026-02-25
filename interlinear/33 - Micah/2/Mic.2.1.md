@@ -1,8 +1,67 @@
+---
+title: Micah 2:1
+type: Verse
+kjv: "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."
+bsb: "Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands."
+hebrew: "ה֧וֹי חֹֽשְׁבֵי־ אָ֛וֶן וּפֹ֥עֲלֵי רָ֖ע עַל־ מִשְׁכְּבוֹתָ֑ם בְּא֤וֹר הַבֹּ֙קֶר֙ יַעֲשׂ֔וּהָ כִּ֥י יֶשׁ־ לְאֵ֖ל יָדָֽם׃"
+pericope: "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic LAND|LAND]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RISING|RISING]]"
+strongs:
+- "[[H1945]]"
+- "[[H2803I]]"
+- "[[H9014]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H6466]]"
+- "[[H7451B]]"
+- "[[H5921A]]"
+- "[[H4904]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0216]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H0410L]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:1**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 <small><sub>**BSB:**</sub></small>
 Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֧וֹי]] [[H2803I\|חֹֽשְׁבֵי]][[H9014\|־]] [[H0205G\|אָ֛וֶן]] [[H9002\|וּ]][[H6466\|פֹ֥עֲלֵי]] [[H7451B\|רָ֖ע]] [[H5921A\|עַל]][[H9014\|־]] [[H4904\|מִשְׁכְּבוֹתָ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H0216\|א֤וֹר]] [[H9009\|הַ]][[H1242\|בֹּ֙קֶר֙]] [[H6213A\|יַעֲשׂ֔וּ]][[H9034\|הָ]] [[H3588A\|כִּ֥י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|לְ]][[H0410L\|אֵ֖ל]] [[H3027G\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAND|LAND]] • [[topic MALICE|MALICE]] • [[topic MICAH|MICAH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RISING|RISING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.16|<< Micah 1:16]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.2|Micah 2:2 >>]]</td></tr></table>
 

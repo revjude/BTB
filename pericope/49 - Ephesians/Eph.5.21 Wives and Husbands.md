@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wives and Husbands
+type: Pericope
 pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 5
 book/chapter: "[[Eph.5|Ephesians 5]]"
-genre:
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Eph.5.21]]"
 - "[[Eph.5.22]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Eph.5.33]]"
 ---
 
-[[Eph.5|Ephesians 5:21 - Ephesians 5:33]]
+<small>[[Eph.5|Ephesians 5:21-33]]</small>
 *Wives and Husbands*
 
 [[Eph.5.21|21]] Submitting yourselves one to another in the fear of God.

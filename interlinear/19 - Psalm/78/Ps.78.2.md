@@ -1,8 +1,58 @@
+---
+title: Psalm 78:2
+type: Verse
+kjv: "I will open my mouth in a parable: I will utter dark sayings of old:"
+bsb: "I will open my mouth in parables; I will utter things hidden from the beginning,"
+hebrew: "אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי־ קֶֽדֶם׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6605A]]"
+- "[[H9003]]"
+- "[[H4912]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H5042]]"
+- "[[H2420]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H6924H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:2**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will open my mouth in a parable: I will utter dark sayings of old:
 <small><sub>**BSB:**</sub></small>
 I will open my mouth in parables; I will utter things hidden from the beginning,
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|אֶפְתְּחָ֣ה]] [[H9003\|בְ]][[H4912\|מָשָׁ֣ל]] [[H6310G\|פִּ֑]][[H9020\|י]] [[H5042\|אַבִּ֥יעָה]] [[H2420\|חִ֝יד֗וֹת]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H6924H\|קֶֽדֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.1|<< Psalms 78:1]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.3|Psalms 78:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

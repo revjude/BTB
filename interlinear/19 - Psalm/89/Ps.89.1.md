@@ -1,8 +1,63 @@
+---
+title: Psalm 89:1
+type: Verse
+kjv: "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations."
+bsb: "A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations."
+hebrew: "חַֽסְדֵ֣י יְ֭הוָה עוֹלָ֣ם אָשִׁ֑ירָה לְדֹ֥ר וָדֹ֓ר׀ אוֹדִ֖יעַ אֱמוּנָתְךָ֣ בְּפִֽי׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2617A]]"
+- "[[H3068G]]"
+- "[[H5769G]]"
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H3045]]"
+- "[[H0530]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:1**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
 <small><sub>**BSB:**</sub></small>
 A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.
+<small><sub>**Hebrew:**</sub></small>
+[[H2617A\|חַֽסְדֵ֣י]] [[H3068G\|יְ֭הוָה]] [[H5769G\|עוֹלָ֣ם]] [[H7891\|אָשִׁ֑ירָה]] [[H9005\|לְ]][[H1755\|דֹ֥ר]] [[H9002\|וָ]][[H1755\|דֹ֓ר]][[H9015\|׀]] [[H3045\|אוֹדִ֖יעַ]] [[H0530\|אֱמוּנָתְ]][[H9021\|ךָ֣]] [[H9003\|בְּ]][[H6310G\|פִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.0|<< Psalms 89:0]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.2|Psalms 89:2 >>]]</td></tr></table>
 

@@ -1,6 +1,61 @@
+---
+title: LXX Ezekiel 44:22
+type: Verse
+lxx: "And they shall not take a widow and one being cast out for themselves for a wife, but only a virgin from out of the seed of the house of Israel; but if there shall be a widow of a priest they shall take her."
+greek: "και χήραν και εκβεβλημένην ου λήψονται εαυτοίς εις γυναίκα αλλ΄ η παρθένον εκ του σπέρματος οίκου Ισραήλ και εάν γένηται χήρα εξ ιερέως λήψονται"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5503]]"
+- "[[G2532]]"
+- "[[G1544]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G1438]]"
+- "[[G1519]]"
+- "[[G1135]]"
+- "[[G6227]]"
+- "[[G3933]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4690]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G1096]]"
+- "[[G5503]]"
+- "[[G1537]]"
+- "[[G2409]]"
+- "[[G2983]]"
+---
+
 **LXX Ezekiel 44:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall not take a widow and one being cast out for themselves for a wife, but only a virgin from out of the seed of \[the\] house of Israel; but if there shall be a widow of a priest they shall take \[her\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5503\|χήραν]] [[G2532\|και]] [[G1544\|εκβεβλημένην]] [[G3756\|ου]] [[G2983\|λήψονται]] [[G1438\|εαυτοίς]] [[G1519\|εις]] [[G1135\|γυναίκα]] [[G6227\|αλλ΄ η]] [[G3933\|παρθένον]] [[G1537\|εκ]] [[G3588\|του]] [[G4690\|σπέρματος]] [[G3624\|οίκου]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G1437\|εάν]] [[G1096\|γένηται]] [[G5503\|χήρα]] [[G1537\|εξ]] [[G2409\|ιερέως]] [[G2983\|λήψονται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
 
@@ -28,6 +83,6 @@ And they shall not take a widow and one being cast out for themselves for a wife
 | of | **<big>[[G1537\|εξ]]</big>** |
 | a priest | **<big>[[G2409\|ιερέως]]</big>** |
 | they shall take \[her\]. | **<big>[[G2983\|λήψονται]]</big>** |
-[[Ezek.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,59 @@
+---
+title: Genesis 21:5
+type: Verse
+kjv: "And Abraham was an hundred years old, when his son Isaac was born unto him."
+bsb: "Abraham was a hundred years old when his son Isaac was born to him."
+hebrew: "וְאַבְרָהָ֖ם בֶּן־ מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְחָ֥ק בְּנֽוֹ׃"
+pericope: "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9002]]"
+- "[[H0085]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H3327]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:5**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham was an hundred years old, when his son Isaac was born unto him.
 <small><sub>**BSB:**</sub></small>
 Abraham was a hundred years old when his son Isaac was born to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0085\|אַבְרָהָ֖ם]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מְאַ֣ת]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H3205\|הִוָּ֣לֶד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֵ֖ת]] [[H3327\|יִצְחָ֥ק]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.4|<< Genesis 21:4]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.6|Genesis 21:6 >>]]</td></tr></table>
 

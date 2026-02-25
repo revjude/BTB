@@ -1,8 +1,61 @@
+---
+title: 2 Kings 24:1
+type: Verse
+kjv: "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him."
+bsb: "During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim became his vassal for three years, until he turned and rebelled against Nebuchadnezzar."
+hebrew: "בְּיָמָ֣יו עָלָ֔ה נְבֻכַדְנֶאצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיְהִי־ ל֨וֹ יְהוֹיָקִ֥ים עֶ֙בֶד֙ שָׁלֹ֣שׁ שָׁנִ֔ים וַיָּ֖שָׁב וַיִּמְרָד־ בּֽוֹ׃"
+pericope: "[[2Kgs.24.1 Babylon Controls Jehoiakim|Babylon Controls Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3079]]"
+- "[[H5650]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H7725I]]"
+- "[[H4775]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:1**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 <small><sub>**BSB:**</sub></small>
 During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim became his vassal for three years, until he turned and rebelled against Nebuchadnezzar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|יָמָ֣י]][[H9023\|ו]] [[H5927G\|עָלָ֔ה]] [[H5019\|נְבֻכַדְנֶאצַּ֖ר]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H3079\|יְהוֹיָקִ֥ים]] [[H5650\|עֶ֙בֶד֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H8141\|שָׁנִ֔ים]] [[H9001\|וַ]][[H7725I\|יָּ֖שָׁב]] [[H9001\|וַ]][[H4775\|יִּמְרָד]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIAKIM|JEHOIAKIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.37|<< 2 Kings 23:37]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.2|2 Kings 24:2 >>]]</td></tr></table>
 

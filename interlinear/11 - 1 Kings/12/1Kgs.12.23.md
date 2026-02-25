@@ -1,8 +1,64 @@
+---
+title: 1 Kings 12:23
+type: Verse
+kjv: "Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,"
+bsb: "“Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people"
+hebrew: "אֱמֹ֗ר אֶל־ רְחַבְעָ֤ם בֶּן־ שְׁלֹמֹה֙ מֶ֣לֶךְ יְהוּדָ֔ה וְאֶל־ כָּל־ בֵּ֥ית יְהוּדָ֖ה וּבִנְיָמִ֑ין וְיֶ֥תֶר הָעָ֖ם לֵאמֹֽר׃"
+pericope: "[[1Kgs.12.20 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GEZER|GEZER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7346]]"
+- "[[H1121A]]"
+- "[[H8010]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H1144G]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:23**<big><big>[[1Kgs.12.20 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,
 <small><sub>**BSB:**</sub></small>
 “Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֗ר]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֤ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8010\|שְׁלֹמֹה֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֑ין]] [[H9002\|וְ]][[H3499A\|יֶ֥תֶר]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEZER|GEZER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INCENSE|INCENSE]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.22|<< 1 Kings 12:22]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.24|1 Kings 12:24 >>]]</td></tr></table>
 

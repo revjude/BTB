@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 2:8
+type: Verse
+kjv: "But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;"
+bsb: "Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son Ish-bosheth, moved him to Mahanaim,"
+hebrew: "וְאַבְנֵ֣ר בֶּן־ נֵ֔ר שַׂר־ צָבָ֖א אֲשֶׁ֣ר לְשָׁא֑וּל לָקַ֗ח אֶת־ אִ֥ישׁ בֹּ֙שֶׁת֙ בֶּן־ שָׁא֔וּל וַיַּעֲבִרֵ֖הוּ מַחֲנָֽיִם׃"
+pericope: "[[2Sam.2.8 Ish-bosheth Made King of Israel|Ish-bosheth Made King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic MAHANAIM|MAHANAIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0074]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5369G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H0378]]"
+- "[[H9001]]"
+- "[[H5674C]]"
+- "[[H9033]]"
+- "[[H4266]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:8**<big><big>[[2Sam.2.8 Ish-bosheth Made King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son Ish-bosheth, moved him to Mahanaim,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0074\|אַבְנֵ֣ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֔ר]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צָבָ֖א]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H7586G\|שָׁא֑וּל]] [[H3947G\|לָקַ֗ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0378\|אִ֥ישׁ]] [[H0378\|בֹּ֙שֶׁת֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H5674C\|יַּעֲבִרֵ֖]][[H9033\|הוּ]] [[H4266\|מַחֲנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ARMIES|ARMIES]] • [[topic HEBRON|HEBRON]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDAH|JUDAH]] • [[topic MAHANAIM|MAHANAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.7|<< 2 Samuel 2:7]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.9|2 Samuel 2:9 >>]]</td></tr></table>
 

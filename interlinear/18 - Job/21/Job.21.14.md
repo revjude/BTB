@@ -1,8 +1,63 @@
+---
+title: Job 21:14
+type: Verse
+kjv: "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+bsb: "Yet they say to God: ‘Leave us alone! For we have no desire to know Your ways."
+hebrew: "וַיֹּאמְר֣וּ לָ֭אֵל ס֣וּר מִמֶּ֑נּוּ וְדַ֥עַת דְּ֝רָכֶ֗יךָ לֹ֣א חָפָֽצְנוּ׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:14**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.
 <small><sub>**BSB:**</sub></small>
 Yet they say to God: ‘Leave us alone! For we have no desire to know Your ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לָ֭]][[H0410G\|אֵל]] [[H5493H\|ס֣וּר]] [[H4480A\|מִמֶּ֑]][[H9035\|נּוּ]] [[H9002\|וְ]][[H1847\|דַ֥עַת]] [[H1870G\|דְּ֝רָכֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H2654A\|חָפָֽצְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic RICH, THE|RICH, THE]] • [[topic SCOFFING|SCOFFING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.13|<< Job 21:13]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.15|Job 21:15 >>]]</td></tr></table>
 

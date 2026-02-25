@@ -1,8 +1,68 @@
+---
+title: Leviticus 26:4
+type: Verse
+kjv: "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit."
+bsb: "I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit."
+hebrew: "וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֙רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן פִּרְיֽוֹ׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H1653]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2981]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H7704G]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:4**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.
 <small><sub>**BSB:**</sub></small>
 I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H1653\|גִשְׁמֵי]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H6256\|עִתָּ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5414G\|נָתְנָ֤ה]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H2981\|יְבוּלָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H6086H\|עֵ֥ץ]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H5414G\|יִתֵּ֥ן]] [[H6529\|פִּרְיֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.3|<< Leviticus 26:3]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.5|Leviticus 26:5 >>]]</td></tr></table>
 

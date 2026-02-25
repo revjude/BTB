@@ -1,8 +1,68 @@
+---
+title: Jeremiah 6:26
+type: Verse
+kjv: "O daughter of my people, gird thee with sackcloth, and wallow thyself in ashes: make thee mourning, as for an only son, most bitter lamentation: for the spoiler shall suddenly come upon us."
+bsb: "O daughter of my people, dress yourselves in sackcloth and roll in ashes. Mourn with bitter wailing, as you would for an only son, for suddenly the destroyer will come upon us."
+hebrew: "בַּת־ עַמִּ֤י חִגְרִי־ שָׂק֙ וְהִתְפַּלְּשִׁ֣י בָאֵ֔פֶר אֵ֤בֶל יָחִיד֙ עֲשִׂ֣י לָ֔ךְ מִסְפַּ֖ד תַּמְרוּרִ֑ים כִּ֣י פִתְאֹ֔ם יָבֹ֥א הַשֹּׁדֵ֖ד עָלֵֽינוּ׃"
+pericope: "[[Jer.6.22 An Invasion from the North|An Invasion from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H9002]]"
+- "[[H6428]]"
+- "[[H9003]]"
+- "[[H0665]]"
+- "[[H0060]]"
+- "[[H3173]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H4553]]"
+- "[[H8563]]"
+- "[[H3588A]]"
+- "[[H6597]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H7703]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:26**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O daughter of my people, gird [thee] with sackcloth, and wallow thyself in ashes: make thee mourning, [as for] an only son, most bitter lamentation: for the spoiler shall suddenly come upon us.
 <small><sub>**BSB:**</sub></small>
 O daughter of my people, dress yourselves in sackcloth and roll in ashes. Mourn with bitter wailing, as you would for an only son, for suddenly the destroyer will come upon us.
+<small><sub>**Hebrew:**</sub></small>
+[[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּ֤]][[H9020\|י]] [[H2296\|חִגְרִי]][[H9014\|־]] [[H8242\|שָׂק֙]] [[H9002\|וְ]][[H6428\|הִתְפַּלְּשִׁ֣י]] [[H9003\|בָ]][[H0665\|אֵ֔פֶר]] [[H0060\|אֵ֤בֶל]] [[H3173\|יָחִיד֙]] [[H6213H\|עֲשִׂ֣י]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H4553\|מִסְפַּ֖ד]] [[H8563\|תַּמְרוּרִ֑ים]] [[H3588A\|כִּ֣י]] [[H6597\|פִתְאֹ֔ם]] [[H0935G\|יָבֹ֥א]] [[H9009\|הַ]][[H7703\|שֹּׁדֵ֖ד]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SACKCLOTH|SACKCLOTH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.25|<< Jeremiah 6:25]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.27|Jeremiah 6:27 >>]]</td></tr></table>
 

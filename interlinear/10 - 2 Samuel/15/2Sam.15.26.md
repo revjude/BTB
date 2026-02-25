@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 15:26
+type: Verse
+kjv: "But if he thus say, I have no delight in thee; behold, here am I, let him do to me as seemeth good unto him."
+bsb: "But if He should say, ‘I do not delight in you,’ then here I am; let Him do to me whatever seems good to Him.”"
+hebrew: "וְאִם֙ כֹּ֣ה יֹאמַ֔ר לֹ֥א חָפַ֖צְתִּי בָּ֑ךְ הִנְנִ֕י יַֽעֲשֶׂה־ לִּ֕י כַּאֲשֶׁ֥ר ט֖וֹב בְּעֵינָֽיו׃ ס"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H2895]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 15:26**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he thus say, I have no delight in thee; behold, [here am] I, let him do to me as seemeth good unto him.
 <small><sub>**BSB:**</sub></small>
 But if He should say, ‘I do not delight in you,’ then here I am; let Him do to me whatever seems good to Him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם֙]] [[H3541\|כֹּ֣ה]] [[H0559\|יֹאמַ֔ר]] [[H3808\|לֹ֥א]] [[H2654A\|חָפַ֖צְתִּי]] [[H9003\|בָּ֑]][[H9031\|ךְ]] [[H2005\|הִנְ]][[H9040\|נִ֕י]] [[H6213A\|יַֽעֲשֶׂה]][[H9014\|־]] [[H9005\|לִּ֕]][[H9030\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H2895\|ט֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic RESIGNATION|RESIGNATION]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.25|<< 2 Samuel 15:25]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.27|2 Samuel 15:27 >>]]</td></tr></table>
 
@@ -19,7 +80,7 @@ But if He should say, ‘I do not delight in you,’ then here I am; let Him do 
 | to \<the> me  |**<big>&#8207;[[H9005\|לִּ֕]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֥ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is good  |**<big>&#8207;[[H2895\|ט֖וֹב]]&#8207; </big>**| Tov<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in view his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.25|<< 2 Samuel 15:25]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.27|2 Samuel 15:27 >>]]</td></tr></table>
 
 

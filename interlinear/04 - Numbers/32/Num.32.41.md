@@ -1,8 +1,62 @@
+---
+title: Numbers 32:41
+type: Verse
+kjv: "And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair."
+bsb: "Jair, a descendant of Manasseh, went and captured their villages and called them Havvoth-jair."
+hebrew: "וְיָאִ֤יר בֶּן־ מְנַשֶּׁה֙ הָלַ֔ךְ וַיִּלְכֹּ֖ד אֶת־ חַוֹּתֵיהֶ֑ם וַיִּקְרָ֥א אֶתְהֶ֖ן חַוֹּ֥ת יָאִֽיר׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic HAVOTH-JAIR|HAVOTH-JAIR]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H2971G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H4519G]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H2333]]"
+- "[[H9028]]"
+- "[[H7121H]]"
+- "[[H9039]]"
+- "[[H2334]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:41**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.
 <small><sub>**BSB:**</sub></small>
 Jair, a descendant of Manasseh, went and captured their villages and called them Havvoth-jair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2971G\|יָאִ֤יר]] [[H1121G\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּׁה֙]] [[H1980G\|הָלַ֔ךְ]] [[H9001\|וַ]][[H3920\|יִּלְכֹּ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H2333\|חַוֹּתֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H0853\|אֶתְ]][[H9039\|הֶ֖ן]] [[H2334\|חַוֹּ֥ת]] [[H2334\|יָאִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic HAVOTH-JAIR|HAVOTH-JAIR]] • [[topic JAIR|JAIR]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.40|<< Numbers 32:40]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.42|Numbers 32:42 >>]]</td></tr></table>
 

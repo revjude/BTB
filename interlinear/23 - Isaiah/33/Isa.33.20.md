@@ -1,8 +1,70 @@
+---
+title: Isaiah 33:20
+type: Verse
+kjv: "Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken."
+bsb: "Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, a peaceful pasture, a tent that does not wander; its tent pegs will not be pulled up, nor will any of its cords be broken."
+hebrew: "חֲזֵ֣ה צִיּ֔וֹן קִרְיַ֖ת מֽוֹעֲדֵ֑נוּ עֵינֶיךָ֩ תִרְאֶ֨ינָה יְרוּשָׁלִַ֜ם נָוֶ֣ה שַׁאֲנָ֗ן אֹ֤הֶל בַּל־ יִצְעָן֙ בַּל־ יִסַּ֤ע יְתֵֽדֹתָיו֙ לָנֶ֔צַח וְכָל־ חֲבָלָ֖יו בַּל־ יִנָּתֵֽקוּ׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H2372]]"
+- "[[H6726]]"
+- "[[H7151]]"
+- "[[H4150H]]"
+- "[[H9025]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H3389]]"
+- "[[H5116A]]"
+- "[[H7600]]"
+- "[[H0168G]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H6813]]"
+- "[[H5265]]"
+- "[[H3489]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2256M]]"
+- "[[H5423]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:20**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
 <small><sub>**BSB:**</sub></small>
 Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, a peaceful pasture, a tent that does not wander; its tent pegs will not be pulled up, nor will any of its cords be broken.
+<small><sub>**Hebrew:**</sub></small>
+[[H2372\|חֲזֵ֣ה]] [[H6726\|צִיּ֔וֹן]] [[H7151\|קִרְיַ֖ת]] [[H4150H\|מֽוֹעֲדֵ֑]][[H9025\|נוּ]] [[H5869A\|עֵינֶי]][[H9021\|ךָ֩]] [[H7200G\|תִרְאֶ֨ינָה]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H5116A\|נָוֶ֣ה]] [[H7600\|שַׁאֲנָ֗ן]] [[H0168G\|אֹ֤הֶל]] [[H1077\|בַּל]][[H9014\|־]] [[H6813\|יִצְעָן֙]] [[H1077\|בַּל]][[H9014\|־]] [[H5265\|יִסַּ֤ע]] [[H3489\|יְתֵֽדֹתָי]][[H9023\|ו֙]] [[H9005\|לָ]][[H5331\|נֶ֔צַח]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2256M\|חֲבָלָ֖י]][[H9023\|ו]] [[H1077\|בַּל]][[H9014\|־]] [[H5423\|יִנָּתֵֽקוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
 

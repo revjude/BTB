@@ -11,7 +11,7 @@
 
 → On the garments of women [[Ps.45.14|Ps 45:14]]; [[Ezek.16.10|Eze 16:10]],[[Ezek.16.13|13]],[[Ezek.16.18|18]]
 
-→ Bezaleel and Aholiab divinely inspired for, in the work of the  tabernacle [[Exod.35.30|Ex 35:30]]-[[Exod.35.35|35]]; [[Exod.38.22|38:22]],[[Exod.38.23|23]]
+→ Bezaleel and Aholiab divinely inspired for, in the work of the  tabernacle [[Exod.35.30|Ex 35:30-35]]; [[Exod.38.22|38:22]],[[Exod.38.23|23]]
 
 → See [[topic TAPESTRY|TAPESTRY]]
 

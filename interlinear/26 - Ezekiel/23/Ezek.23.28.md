@@ -1,8 +1,64 @@
+---
+title: Ezekiel 23:28
+type: Verse
+kjv: "For thus saith the Lord GOD; Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy mind is alienated:"
+bsb: "For this is what the Lord GOD says: ‘Surely I will deliver you into the hands of those you hate, from whom you turned away in disgust."
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִי֙ נֹֽתְנָ֔ךְ בְּיַ֖ד אֲשֶׁ֣ר שָׂנֵ֑את בְּיַ֛ד אֲשֶׁר־ נָקְעָ֥ה נַפְשֵׁ֖ךְ מֵהֶֽם׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0834A]]"
+- "[[H8130]]"
+- "[[H9014]]"
+- "[[H5361]]"
+- "[[H5315I]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:28**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; Behold, I will deliver thee into the hand [of them] whom thou hatest, into the hand [of them] from whom thy mind is alienated:
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: ‘Surely I will deliver you into the hands of those you hate, from whom you turned away in disgust.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H5414G\|נֹֽתְנָ֔]][[H9032\|ךְ]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H8130\|שָׂנֵ֑את]] [[H9003\|בְּ]][[H3027H\|יַ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5361\|נָקְעָ֥ה]] [[H5315I\|נַפְשֵׁ֖]][[H9022\|ךְ]] [[H9006\|מֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.27|<< Ezekiel 23:27]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.29|Ezekiel 23:29 >>]]</td></tr></table>
 

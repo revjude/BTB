@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lampstand
+type: Pericope
 pericope: "[[Num.8.1 The Lampstand|The Lampstand]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 8
 book/chapter: "[[Num.8|Numbers 8]]"
-genre:
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.8.1]]"
 - "[[Num.8.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.8.4]]"
 ---
 
-[[Num.8|Numbers 8:1 - Numbers 8:4]]
+<small>[[Num.8|Numbers 8:1-4]]</small>
 *The Lampstand*
 
 [[Num.8.1|1]] And the LORD spake unto Moses, saying,

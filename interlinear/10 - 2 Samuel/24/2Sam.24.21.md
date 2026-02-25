@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 24:21
+type: Verse
+kjv: "And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people."
+bsb: "“Why has my lord the king come to his servant?” Araunah said. “To buy your threshing floor,” David replied, “that I may build an altar to the LORD, so that the plague upon the people may be halted.”"
+hebrew: "וַיֹּ֣אמֶר אֲרַ֔וְנָה מַדּ֛וּעַ בָּ֥א אֲדֹנִֽי־ הַמֶּ֖לֶךְ אֶל־ עַבְדּ֑וֹ וַיֹּ֨אמֶר דָּוִ֜ד לִקְנ֧וֹת מֵעִמְּךָ֣ אֶת־ הַגֹּ֗רֶן לִבְנ֤וֹת מִזְבֵּ֙חַ֙ לַֽיהוָ֔ה וְתֵעָצַ֥ר הַמַּגֵּפָ֖ה מֵעַ֥ל הָעָֽם׃"
+pericope: "[[2Sam.24.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0728]]"
+- "[[H4069]]"
+- "[[H0935G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H7069]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H1637]]"
+- "[[H1129]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6113]]"
+- "[[H4046]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:21**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people.
 <small><sub>**BSB:**</sub></small>
 “Why has my lord the king come to his servant?” Araunah said. “To buy your threshing floor,” David replied, “that I may build an altar to the LORD, so that the plague upon the people may be halted.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0728\|אֲרַ֔וְנָה]] [[H4069\|מַדּ֛וּעַ]] [[H0935G\|בָּ֥א]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H9005\|לִ]][[H7069\|קְנ֧וֹת]] [[H9006\|מֵ]][[H5973B\|עִמְּ]][[H9031\|ךָ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1637\|גֹּ֗רֶן]] [[H9005\|לִ]][[H1129\|בְנ֤וֹת]] [[H4196\|מִזְבֵּ֙חַ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H6113\|תֵעָצַ֥ר]] [[H9009\|הַ]][[H4046\|מַּגֵּפָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ORNAN|ORNAN]] • [[topic PLAGUE|PLAGUE]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.20|<< 2 Samuel 24:20]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.22|2 Samuel 24:22 >>]]</td></tr></table>
 

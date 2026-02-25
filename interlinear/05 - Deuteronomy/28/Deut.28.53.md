@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 28:53
+type: Verse
+kjv: "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:"
+bsb: "Then you will eat the fruit of your womb, the flesh of the sons and daughters whom the LORD your God has given you, in the siege and distress that your enemy will inflict on you."
+hebrew: "וְאָכַלְתָּ֣ פְרִֽי־ בִטְנְךָ֗ בְּשַׂ֤ר בָּנֶ֙יךָ֙ וּבְנֹתֶ֔יךָ אֲשֶׁ֥ר נָֽתַן־ לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁר־ יָצִ֥יק לְךָ֖ אֹיְבֶֽךָ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H9014]]"
+- "[[H0990H]]"
+- "[[H9021]]"
+- "[[H1320]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H4689]]"
+- "[[H6693]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:53**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
 <small><sub>**BSB:**</sub></small>
 Then you will eat the fruit of your womb, the flesh of the sons and daughters whom the LORD your God has given you, in the siege and distress that your enemy will inflict on you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָכַלְתָּ֣]] [[H6529\|פְרִֽי]][[H9014\|־]] [[H0990H\|בִטְנְ]][[H9021\|ךָ֗]] [[H1320\|בְּשַׂ֤ר]] [[H1121A\|בָּנֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H1323G\|בְנֹתֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H4692\|מָצוֹר֙]] [[H9002\|וּ]][[H9003\|בְ]][[H4689\|מָצ֔וֹק]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6693\|יָצִ֥יק]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0341\|אֹיְבֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANNIBALISM|CANNIBALISM]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.52|<< Deuteronomy 28:52]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.54|Deuteronomy 28:54 >>]]</td></tr></table>
 

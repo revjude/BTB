@@ -1,8 +1,56 @@
+---
+title: Psalm 49:8
+type: Verse
+kjv: "(For the redemption of their soul is precious, and it ceaseth for ever:)"
+bsb: "For the redemption of his soul is costly, and never can payment suffice,"
+hebrew: "וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3365]]"
+- "[[H6306B]]"
+- "[[H5315G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:8**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For the redemption of their soul [is] precious, and it ceaseth for ever:)
 <small><sub>**BSB:**</sub></small>
 For the redemption of his soul is costly, and never can payment suffice,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H3365\|יֵקַר]] [[H6306B\|פִּדְי֥וֹן]] [[H5315G\|נַפְשָׁ֗]][[H9028\|ם]] [[H9001\|וְ]][[H2308\|חָדַ֥ל]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RANSOM|RANSOM]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.7|<< Psalms 49:7]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.9|Psalms 49:9 >>]]</td></tr></table>
 

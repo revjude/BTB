@@ -1,8 +1,54 @@
+---
+title: 2 Kings 19:17
+type: Verse
+kjv: "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,"
+bsb: "Truly, O LORD, the kings of Assyria have laid waste these nations and their lands."
+hebrew: "אָמְנָ֖ם יְהוָ֑ה הֶחֱרִ֜יבוּ מַלְכֵ֥י אַשּׁ֛וּר אֶת־ הַגּוֹיִ֖ם וְאֶת־ אַרְצָֽם׃"
+pericope: "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0551]]"
+- "[[H3068G]]"
+- "[[H2717B]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:17**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,
 <small><sub>**BSB:**</sub></small>
 Truly, O LORD, the kings of Assyria have laid waste these nations and their lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H0551\|אָמְנָ֖ם]] [[H3068G\|יְהוָ֑ה]] [[H2717B\|הֶחֱרִ֜יבוּ]] [[H4428G\|מַלְכֵ֥י]] [[H0804G\|אַשּׁ֛וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.16|<< 2 Kings 19:16]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.18|2 Kings 19:18 >>]]</td></tr></table>
 

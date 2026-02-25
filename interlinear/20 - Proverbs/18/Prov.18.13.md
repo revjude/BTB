@@ -1,8 +1,55 @@
+---
+title: Proverbs 18:13
+type: Verse
+kjv: "He that answereth a matter before he heareth it, it is folly and shame unto him."
+bsb: "He who answers a matter before he hears it—this is folly and disgrace to him."
+hebrew: "מֵשִׁ֣יב דָּ֭בָר בְּטֶ֣רֶם יִשְׁמָ֑ע אִוֶּ֥לֶת הִיא־ ל֝֗וֹ וּכְלִמָּֽה׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H7725M]]"
+- "[[H1697H]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H8085G]]"
+- "[[H0200]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3639]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:13**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that answereth a matter before he heareth [it], it [is] folly and shame unto him.
 <small><sub>**BSB:**</sub></small>
 He who answers a matter before he hears it—this is folly and disgrace to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725M\|מֵשִׁ֣יב]] [[H1697H\|דָּ֭בָר]] [[H9003\|בְּ]][[H2962\|טֶ֣רֶם]] [[H8085G\|יִשְׁמָ֑ע]] [[H0200\|אִוֶּ֥לֶת]] [[H1931\|הִיא]][[H9014\|־]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H9002\|וּ]][[H3639\|כְלִמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRESUMPTION|PRESUMPTION]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.12|<< Proverbs 18:12]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.14|Proverbs 18:14 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Numbers 23:10
+type: Verse
+kjv: "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!"
+bsb: "Who can count the dust of Jacob or number even a fourth of Israel? Let me die the death of the righteous; let my end be like theirs!”"
+hebrew: "מִ֤י מָנָה֙ עֲפַ֣ר יַעֲקֹ֔ב וּמִסְפָּ֖ר אֶת־ רֹ֣בַע יִשְׂרָאֵ֑ל תָּמֹ֤ת נַפְשִׁי֙ מ֣וֹת יְשָׁרִ֔ים וּתְהִ֥י אַחֲרִיתִ֖י כָּמֹֽהוּ׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H4487]]"
+- "[[H6083]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H4557]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7255]]"
+- "[[H3478]]"
+- "[[H4191]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H4194]]"
+- "[[H3477G]]"
+- "[[H1961]]"
+- "[[H0319]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:10**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can count the dust of Jacob, and the number of the fourth [part] of Israel? Let me die the death of the righteous, and let my last end be like his!
 <small><sub>**BSB:**</sub></small>
 Who can count the dust of Jacob or number even a fourth of Israel? Let me die the death of the righteous; let my end be like theirs!”
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H4487\|מָנָה֙]] [[H6083\|עֲפַ֣ר]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וּ]][[H4557\|מִסְפָּ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H7255\|רֹ֣בַע]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4191\|תָּמֹ֤ת]] [[H5315I\|נַפְשִׁ]][[H9020\|י֙]] [[H4194\|מ֣וֹת]] [[H3477G\|יְשָׁרִ֔ים]] [[H9002\|וּ]][[H1961\|תְהִ֥י]] [[H0319\|אַחֲרִיתִ֖]][[H9020\|י]] [[H3644G\|כָּמֹֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.9|<< Numbers 23:9]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.11|Numbers 23:11 >>]]</td></tr></table>
 

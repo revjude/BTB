@@ -1,8 +1,57 @@
+---
+title: 1 Kings 19:12
+type: Verse
+kjv: "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice."
+bsb: "After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice."
+hebrew: "וְאַחַ֤ר הָרַ֙עַשׁ֙ אֵ֔שׁ לֹ֥א בָאֵ֖שׁ יְהוָ֑ה וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה׃"
+pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H7494]]"
+- "[[H0784]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H6963H]]"
+- "[[H1827]]"
+- "[[H1851]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:12**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after the earthquake a fire; [but] the LORD [was] not in the fire: and after the fire a still small voice.
 <small><sub>**BSB:**</sub></small>
 After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֤ר]] [[H9009\|הָ]][[H7494\|רַ֙עַשׁ֙]] [[H0784\|אֵ֔שׁ]] [[H3808\|לֹ֥א]] [[H9003\|בָ]][[H0784\|אֵ֖שׁ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0310A\|אַחַ֣ר]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H6963H\|ק֖וֹל]] [[H1827\|דְּמָמָ֥ה]] [[H1851\|דַקָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.11|<< 1 Kings 19:11]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.13|1 Kings 19:13 >>]]</td></tr></table>
 

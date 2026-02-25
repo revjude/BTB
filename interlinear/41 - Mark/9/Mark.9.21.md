@@ -1,10 +1,63 @@
+---
+title: Mark 9:21
+type: Verse
+kjv: "And he asked his father, How long is it ago since this came unto him? And he said, Of a child."
+bsb: "Jesus asked the boy’s father, “How long has this been with him?” “From childhood,” he said."
+jesus_said: "How long is it ago since this came unto him?"
+greek: "καὶ ἐπηρώτησεν τὸν πατέρα αὐτοῦ· πόσος χρόνος ἐστὶν ὡς τοῦτο γέγονεν αὐτῷ; ὁ δὲ εἶπεν· ἐκ παιδιόθεν."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EPILEPSY|EPILEPSY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G4214]]"
+- "[[G5550]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3778]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G3812]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 9:21**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he asked his father, How long is it ago since this came unto him? And he said, Of a child.
 <small><sub>**BSB:**</sub></small>
 Jesus asked the boy’s father, “How long has this been with him?” “From childhood,” he said.
-<small><sub>**Literal:**</sub></small>
-And He asked the father of him; How long a time is it that this has been with him? <the> And he said; From childhood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.20|<< Mark 9:20]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.22|Mark 9:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1905\|ἐπηρώτησεν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῦ·]]  [[G4214\|πόσος]]  [[G5550\|χρόνος]]  [[G1510\|ἐστὶν]]  [[G5613\|ὡς]]  [[G3778\|τοῦτο]]  [[G1096\|γέγονεν]]  [[G0846\|αὐτῷ;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G1537\|ἐκ]]  [[G3812\|παιδιόθεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic EPILEPSY|EPILEPSY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.20|<< Mark 9:20]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.22|Mark 9:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

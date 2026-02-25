@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 4:3
+type: Verse
+kjv: "And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies."
+bsb: "When the troops returned to the camp, the elders of Israel asked, “Why has the LORD brought defeat on us before the Philistines today? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may go with us to save us from the hand of our enemies.”"
+hebrew: "וַיָּבֹ֣א הָעָם֮ אֶל־ הַֽמַּחֲנֶה֒ וַיֹּֽאמְרוּ֙ זִקְנֵ֣י יִשְׂרָאֵ֔ל לָ֣מָּה נְגָפָ֧נוּ יְהוָ֛ה הַיּ֖וֹם לִפְנֵ֣י פְלִשְׁתִּ֑ים נִקְחָ֧ה אֵלֵ֣ינוּ מִשִּׁלֹ֗ה אֶת־ אֲרוֹן֙ בְּרִ֣ית יְהוָ֔ה וְיָבֹ֣א בְקִרְבֵּ֔נוּ וְיֹשִׁעֵ֖נוּ מִכַּ֥ף אֹיְבֵֽינוּ׃"
+pericope: "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ARK|ARK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H0559]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5062]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H3117G]]"
+- "[[H6440G]]"
+- "[[H6430G]]"
+- "[[H3947J]]"
+- "[[H9006]]"
+- "[[H7887]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9025]]"
+- "[[H3467]]"
+- "[[H3709G]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:3**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.
 <small><sub>**BSB:**</sub></small>
 When the troops returned to the camp, the elders of Israel asked, “Why has the LORD brought defeat on us before the Philistines today? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may go with us to save us from the hand of our enemies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶה֒]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H2205G\|זִקְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H5062\|נְגָפָ֧]][[H9035\|נוּ]] [[H3068G\|יְהוָ֛ה]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H3947J\|נִקְחָ֧ה]] [[H0413\|אֵלֵ֣י]][[H9035\|נוּ]] [[H9006\|מִ]][[H7887\|שִּׁלֹ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲרוֹן֙]] [[H1285\|בְּרִ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0935G\|יָבֹ֣א]] [[H9003\|בְ]][[H7130G\|קִרְבֵּ֔]][[H9025\|נוּ]] [[H9002\|וְ]][[H3467\|יֹשִׁעֵ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H3709G\|כַּ֥ף]] [[H0341\|אֹיְבֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ARK|ARK]] • [[topic PRIEST|PRIEST]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.2|<< 1 Samuel 4:2]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.4|1 Samuel 4:4 >>]]</td></tr></table>
 

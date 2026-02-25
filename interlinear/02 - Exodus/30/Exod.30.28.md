@@ -1,8 +1,61 @@
+---
+title: Exodus 30:28
+type: Verse
+kjv: "And the altar of burnt offering with all his vessels, and the laver and his foot."
+bsb: "the altar of burnt offering and all its utensils, and the basin with its stand."
+hebrew: "וְאֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְאֶת־ הַכִּיֹּ֖ר וְאֶת־ כַּנּֽוֹ׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H3595]]"
+- "[[H3653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:28**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the altar of burnt offering with all his vessels, and the laver and his foot.
 <small><sub>**BSB:**</sub></small>
 the altar of burnt offering and all its utensils, and the basin with its stand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3595\|כִּיֹּ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3653\|כַּנּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic LAVER|LAVER]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.27|<< Exodus 30:27]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.29|Exodus 30:29 >>]]</td></tr></table>
 

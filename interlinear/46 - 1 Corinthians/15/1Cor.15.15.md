@@ -1,10 +1,61 @@
+---
+title: 1 Corinthians 15:15
+type: Verse
+kjv: "Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not."
+bsb: "In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised."
+greek: "εὑρισκόμεθα δὲ καὶ ψευδομάρτυρες τοῦ θεοῦ, ὅτι ἐμαρτυρήσαμεν κατὰ τοῦ θεοῦ ὅτι ἤγειρεν τὸν Χριστὸν ὃν οὐκ ἤγειρεν εἴπερ εἴπερ ἄρα νεκροὶ οὐκ ἐγείρονται·"
+pericope: "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2147]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5575]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3754H]]"
+- "[[G3140]]"
+- "[[G2596]]"
+- "[[G3754G]]"
+- "[[G1453]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1487G]]"
+- "[[G4007]]"
+- "[[G0686]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:15**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 <small><sub>**BSB:**</sub></small>
 In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised.
-<small><sub>**Literal:**</sub></small>
-We are found then also false witnesses <the> of God, because we have witnessed concerning <the> God that He raised up <the> Christ whom not He has raised if indeed then [the] dead not are raised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.14|<< 1 Corinthians 15:14]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.16|1 Corinthians 15:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2147\|εὑρισκόμεθα]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5575\|ψευδομάρτυρες]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3754H\|ὅτι]]  [[G3140\|ἐμαρτυρήσαμεν]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3754G\|ὅτι]]  [[G1453\|ἤγειρεν]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G3739\|ὃν]]  [[G3756\|οὐκ]]  [[G1453\|ἤγειρεν]]  [[G1487G\|εἴπερ]]  <sup><small>[[G4007\| [ • ] ]]</small></sup>  [[G0686\|ἄρα]]  [[G3498\|νεκροὶ]]  [[G3756\|οὐκ]]  [[G1453\|ἐγείρονται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.14|<< 1 Corinthians 15:14]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.16|1 Corinthians 15:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

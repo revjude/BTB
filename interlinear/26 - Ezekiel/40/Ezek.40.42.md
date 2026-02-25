@@ -1,8 +1,64 @@
+---
+title: Ezekiel 40:42
+type: Verse
+kjv: "And the four tables were of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice."
+bsb: "There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices."
+hebrew: "וְאַרְבָּעָה֩ שֻׁלְחָנ֨וֹת לָעוֹלָ֜ה אַבְנֵ֣י גָזִ֗ית אֹרֶךְ֩ אַמָּ֨ה אַחַ֤ת וָחֵ֙צִי֙ וְרֹ֨חַב אַמָּ֤ה אַחַת֙ וָחֵ֔צִי וְגֹ֖בַהּ אַמָּ֣ה אֶחָ֑ת אֲלֵיהֶ֗ם וְיַנִּ֤יחוּ אֶת־ הַכֵּלִים֙ אֲשֶׁ֨ר יִשְׁחֲט֧וּ אֶת־ הָעוֹלָ֛ה בָּ֖ם וְהַזָּֽבַח׃"
+pericope: "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H7979]]"
+- "[[H9005]]"
+- "[[H5930A]]"
+- "[[H0068G]]"
+- "[[H1496]]"
+- "[[H0753]]"
+- "[[H0520A]]"
+- "[[H0259]]"
+- "[[H2677]]"
+- "[[H7341]]"
+- "[[H1363]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5117]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H0834A]]"
+- "[[H7819A]]"
+- "[[H9003]]"
+- "[[H2077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:42**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the four tables [were] of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.
 <small><sub>**BSB:**</sub></small>
 There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0702\|אַרְבָּעָה֩]] [[H7979\|שֻׁלְחָנ֨וֹת]] [[H9005\|לָ]][[H5930A\|עוֹלָ֜ה]] [[H0068G\|אַבְנֵ֣י]] [[H1496\|גָזִ֗ית]] [[H0753\|אֹרֶךְ֩]] [[H0520A\|אַמָּ֨ה]] [[H0259\|אַחַ֤ת]] [[H9002\|וָ]][[H2677\|חֵ֙צִי֙]] [[H9002\|וְ]][[H7341\|רֹ֨חַב]] [[H0520A\|אַמָּ֤ה]] [[H0259\|אַחַת֙]] [[H9002\|וָ]][[H2677\|חֵ֔צִי]] [[H9002\|וְ]][[H1363\|גֹ֖בַהּ]] [[H0520A\|אַמָּ֣ה]] [[H0259\|אֶחָ֑ת]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H9002\|וְ]][[H5117\|יַנִּ֤יחוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִים֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H7819A\|יִשְׁחֲט֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עוֹלָ֛ה]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H9002\|וְ]][[H9009\|הַ]][[H2077\|זָּֽבַח]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.41|<< Ezekiel 40:41]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.43|Ezekiel 40:43 >>]]</td></tr></table>
 

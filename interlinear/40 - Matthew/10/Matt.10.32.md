@@ -1,10 +1,65 @@
+---
+title: Matthew 10:32
+type: Verse
+kjv: "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+bsb: "Therefore everyone who confesses Me before men, I will also confess him before My Father in heaven."
+jesus_said: "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+greek: "Πᾶς οὖν ὅστις ὁμολογήσει ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, ὁμολογήσω κἀγὼ κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ πατρός μου τοῦ ἐν τοῖς οὐρανοῖς."
+pericope: "[[Matt.10.32 Confessing Christ|Confessing Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3956]]"
+- "[[G3767]]"
+- "[[G3748]]"
+- "[[G3670]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G1715]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3772]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 10:32**<big><big>[[Matt.10.32 Confessing Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 Therefore everyone who confesses Me before men, I will also confess him before My Father in heaven.
-<small><sub>**Literal:**</sub></small>
-Everyone therefore who will confess in Me myself before <the> men, will confess also I myself in him before the Father of Mine who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.31|<< Matthew 10:31]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.33|Matthew 10:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶς]]  [[G3767\|οὖν]]  [[G3748\|ὅστις]]  [[G3670\|ὁμολογήσει]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G3670\|ὁμολογήσω]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFESSION|CONFESSION]] • [[topic DECISION|DECISION]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.31|<< Matthew 10:31]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.33|Matthew 10:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

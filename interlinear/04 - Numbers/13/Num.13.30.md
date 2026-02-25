@@ -1,8 +1,67 @@
+---
+title: Numbers 13:30
+type: Verse
+kjv: "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
+bsb: "Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!”"
+hebrew: "וַיַּ֧הַס כָּלֵ֛ב אֶת־ הָעָ֖ם אֶל־ מֹשֶׁ֑ה וַיֹּ֗אמֶר עָלֹ֤ה נַעֲלֶה֙ וְיָרַ֣שְׁנוּ אֹתָ֔הּ כִּֽי־ יָכ֥וֹל נוּכַ֖ל לָֽהּ׃"
+pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic REPORTS|REPORTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2013]]"
+- "[[H3612G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:30**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
 <small><sub>**BSB:**</sub></small>
 Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2013\|יַּ֧הַס]] [[H3612G\|כָּלֵ֛ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5927G\|עָלֹ֤ה]] [[H5927G\|נַעֲלֶה֙]] [[H9001\|וְ]][[H3423H\|יָרַ֣שְׁנוּ]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3201\|יָכ֥וֹל]] [[H3201\|נוּכַ֖ל]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic CALEB|CALEB]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic REPORTS|REPORTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.29|<< Numbers 13:29]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.31|Numbers 13:31 >>]]</td></tr></table>
 

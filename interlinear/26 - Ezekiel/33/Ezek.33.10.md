@@ -1,8 +1,75 @@
+---
+title: Ezekiel 33:10
+type: Verse
+kjv: "Therefore, O thou son of man, speak unto the house of Israel; Thus ye speak, saying, If our transgressions and our sins be upon us, and we pine away in them, how should we then live?"
+bsb: "Now as for you, son of man, tell the house of Israel that this is what they have said: ‘Our transgressions and our sins are heavy upon us, and we are wasting away because of them! How can we live?’"
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם אֱמֹר֙ אֶל־ בֵּ֣ית יִשְׂרָאֵ֔ל כֵּ֤ן אֲמַרְתֶּם֙ לֵאמֹ֔ר כִּֽי־ פְשָׁעֵ֥ינוּ וְחַטֹּאתֵ֖ינוּ עָלֵ֑ינוּ וּבָ֛ם אֲנַ֥חְנוּ נְמַקִּ֖ים וְאֵ֥יךְ נִֽחְיֶֽה׃"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H3588A]]"
+- "[[H6588]]"
+- "[[H9025]]"
+- "[[H2403B]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0587]]"
+- "[[H4743]]"
+- "[[H0349A]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:10**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, O thou son of man, speak unto the house of Israel; Thus ye speak, saying, If our transgressions and our sins [be] upon us, and we pine away in them, how should we then live?
 <small><sub>**BSB:**</sub></small>
 Now as for you, son of man, tell the house of Israel that this is what they have said: ‘Our transgressions and our sins are heavy upon us, and we are wasting away because of them! How can we live?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H0559\|אֱמֹר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3651C\|כֵּ֤ן]] [[H0559\|אֲמַרְתֶּם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6588\|פְשָׁעֵ֥י]][[H9025\|נוּ]] [[H9002\|וְ]][[H2403B\|חַטֹּאתֵ֖י]][[H9025\|נוּ]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9002\|וּ]][[H9003\|בָ֛]][[H9038\|ם]] [[H0587\|אֲנַ֥חְנוּ]] [[H4743\|נְמַקִּ֖ים]] [[H9002\|וְ]][[H0349A\|אֵ֥יךְ]] [[H2421\|נִֽחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PENITENT|PENITENT]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.9|<< Ezekiel 33:9]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.11|Ezekiel 33:11 >>]]</td></tr></table>
 

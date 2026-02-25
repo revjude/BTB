@@ -1,10 +1,56 @@
+---
+title: Luke 21:35
+type: Verse
+kjv: "For as a snare shall it come on all them that dwell on the face of the whole earth."
+bsb: "For it will come upon all who dwell on the face of all the earth."
+jesus_said: "For as a snare shall it come on all them that dwell on the face of the whole earth."
+greek: "ὡς παγίς· ἐπεισελεύσεται γὰρ ἐπὶ πάντας τοὺς καθημένους ἐπὶ πρόσωπον πάσης τῆς γῆς.¶"
+pericope: "[[Luke.21.34 Be Watchful for the Day|Be Watchful for the Day]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5613]]"
+- "[[G3803]]"
+- "[[G6036]]"
+- "[[G1063]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G4383]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 21:35**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as a snare shall it come on all them that dwell on the face of the whole earth.
 <small><sub>**BSB:**</sub></small>
 For it will come upon all who dwell on the face of all the earth.
-<small><sub>**Literal:**</sub></small>
-as a snare; It will enter for upon all those sitting upon [the] face of all the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.34|<< Luke 21:34]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.36|Luke 21:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3803\|παγίς·]]  [[G6036\|ἐπεισελεύσεται]]  [[G1063\|γὰρ]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2521\|καθημένους]]  [[G1909\|ἐπὶ]]  [[G4383\|πρόσωπον]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.34|<< Luke 21:34]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.36|Luke 21:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 21:35** is...
 > $\quad$ alluding to: [[LXX.Isa.24.17|Isa 24:17]]

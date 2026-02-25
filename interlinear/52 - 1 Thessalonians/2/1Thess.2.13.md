@@ -1,10 +1,70 @@
+---
+title: 1 Thessalonians 2:13
+type: Verse
+kjv: "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe."
+bsb: "And we continually thank God because, when you received the word of God that you heard from us, you accepted it not as the word of men, but as it truly is, the word of God, which is also now at work in you who believe."
+greek: "Καὶ διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ θεῷ ἀδιαλείπτως ὅτι παραλαβόντες λόγον ἀκοῆς παρ᾽ ἡμῶν τοῦ θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων ἀλλὰ καθώς ἐστιν ἀληθῶς λόγον θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν."
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3165]]"
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0089]]"
+- "[[G3754G]]"
+- "[[G3880]]"
+- "[[G3056]]"
+- "[[G0189]]"
+- "[[G3844]]"
+- "[[G1209]]"
+- "[[G3756]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G2531]]"
+- "[[G1510]]"
+- "[[G0230]]"
+- "[[G3739]]"
+- "[[G1754]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4100]]"
+texts:
+- no
+- NKO
+---
+
 **1 Thessalonians 2:13**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received [it] not [as] the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
 <small><sub>**BSB:**</sub></small>
 And we continually thank God because, when you received the word of God that you heard from us, you accepted it not as the word of men, but as it truly is, the word of God, which is also now at work in you who believe.
-<small><sub>**Literal:**</sub></small>
-And because of this also we ourselves give thanks <the> to God unceasingly that having received [the] word [by your] hearing from us <the> of God you accepted not [the] word of men but even as it is truly [the] word of God, which also works in you who believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.12|<< 1 Thessalonians 2:12]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.14|1 Thessalonians 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G2168\|εὐχαριστοῦμεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G0089\|ἀδιαλείπτως]]  [[G3754G\|ὅτι]]  [[G3880\|παραλαβόντες]]  [[G3056\|λόγον]]  [[G0189\|ἀκοῆς]]  [[G3844\|παρ᾽]]  [[G3165\|ἡμῶν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1209\|ἐδέξασθε]]  [[G3756\|οὐ]]  [[G3056\|λόγον]]  [[G0444\|ἀνθρώπων]]  [[G0235\|ἀλλὰ]]  [[G2531\|καθώς]]  [[G1510\|ἐστιν]]  [[G0230\|ἀληθῶς]]  [[G3056\|λόγον]]  [[G2316\|θεοῦ,]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G1754\|ἐνεργεῖται]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.12|<< 1 Thessalonians 2:12]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.14|1 Thessalonians 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

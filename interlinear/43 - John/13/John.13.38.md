@@ -1,10 +1,66 @@
+---
+title: John 13:38
+type: Verse
+kjv: "Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice."
+bsb: "“Will you lay down your life for Me?” Jesus replied. “Truly, truly, I tell you, before the rooster crows, you will deny Me three times."
+jesus_said: "Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice."
+greek: "ἀποκρίνεται αὐτῷ ὁ Ἰησοῦς· τὴν ψυχήν σου ὑπὲρ ἐμοῦ θήσεις; ἀμὴν ἀμὴν λέγω σοι· οὐ μὴ ἀλέκτωρ φωνήσῃ ἕως οὗ ἀρνήσῃ με τρίς.¶"
+pericope: "[[John.13.36 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5590H]]"
+- "[[G4771]]"
+- "[[G5228]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0220]]"
+- "[[G5455]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0720]]"
+- "[[G3165]]"
+- "[[G5151]]"
+texts:
+- N(k)O
+- k
+- NKO
+---
+
 **John 13:38**<big><big>[[John.13.36 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
 <small><sub>**BSB:**</sub></small>
 “Will you lay down your life for Me?” Jesus replied. “Truly, truly, I tell you, before the rooster crows, you will deny Me three times.
-<small><sub>**Literal:**</sub></small>
-answers to him <the> Jesus; The life of you for Me will you lay down? Amen Amen I say to you; certainly not [the] rooster may crow until that you will deny Me three times.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.37|<< John 13:37]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.1|John 14:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκρίνεται]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3588\|τὴν]]  [[G5590H\|ψυχήν]]  [[G4771\|σου]]  [[G5228\|ὑπὲρ]]  [[G1473\|ἐμοῦ]]  [[G5087\|θήσεις;]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|σοι·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0220\|ἀλέκτωρ]]  [[G5455\|φωνήσῃ]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0720\|ἀρνήσῃ]]  [[G3165\|με]]  [[G5151\|τρίς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.37|<< John 13:37]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.1|John 14:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

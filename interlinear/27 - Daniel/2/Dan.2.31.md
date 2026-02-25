@@ -1,8 +1,65 @@
+---
+title: Daniel 2:31
+type: Verse
+kjv: "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible."
+bsb: "As you, O king, were watching, a great statue appeared. A great and dazzling statue stood before you, and its form was awesome."
+aramaic: "אַ֣נְתְּ מַלְכָּ֗א חָזֵ֤ה הֲוַ֙יְתָ֙ וַאֲל֨וּ צְלֵ֥ם חַד֙ שַׂגִּ֔יא צַלְמָ֨א דִּכֵּ֥ן רַ֛ב וְזִיוֵ֥הּ יַתִּ֖יר קָאֵ֣ם לְקָבְלָ֑ךְ וְרֵוֵ֖הּ דְּחִֽיל׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H0607]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9002]]"
+- "[[H0431]]"
+- "[[H6755]]"
+- "[[H2298]]"
+- "[[H7690]]"
+- "[[H1797]]"
+- "[[H7229]]"
+- "[[H2122]]"
+- "[[H9023]]"
+- "[[H3493]]"
+- "[[H6966I]]"
+- "[[H9005]]"
+- "[[H6903G]]"
+- "[[H9031]]"
+- "[[H7299]]"
+- "[[H1763]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Daniel 2:31**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, O king, sawest, and behold a great image. This great image, whose brightness [was] excellent, stood before thee; and the form thereof [was] terrible.
 <small><sub>**BSB:**</sub></small>
 As you, O king, were watching, a great statue appeared. A great and dazzling statue stood before you, and its form was awesome.
+<small><sub>**Aramaic:**</sub></small>
+[[H0607\|אַ֣נְתְּ]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H2370\|חָזֵ֤ה]] [[H1934\|הֲוַ֙יְתָ֙]] [[H9002\|וַ]][[H0431\|אֲל֨וּ]] [[H6755\|צְלֵ֥ם]] [[H2298\|חַד֙]] [[H7690\|שַׂגִּ֔יא]] [[H6755\|צַלְמָ֨]][[H9010\|א]] [[H1797\|דִּכֵּ֥ן]] [[H7229\|רַ֛ב]] [[H9002\|וְ]][[H2122\|זִיוֵ֥]][[H9023\|הּ]] [[H3493\|יַתִּ֖יר]] [[H6966I\|קָאֵ֣ם]] [[H9005\|לְ]][[H6903G\|קָבְלָ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H7299\|רֵוֵ֖]][[H9023\|הּ]] [[H1763\|דְּחִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.30|<< Daniel 2:30]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.32|Daniel 2:32 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 2 Kings 22:5
+type: Verse
+kjv: "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which is in the house of the LORD, to repair the breaches of the house,"
+bsb: "And let them deliver it into the hands of the supervisors of those doing the work on the house of the LORD, who in turn are to give it to the workmen repairing the damages to the house of the LORD—"
+hebrew: "וְיִתְּנֻ֗הוּ עַל־ יַד֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֣ית יְהוָ֑ה וְיִתְּנ֣וּ אֹת֗וֹ לְעֹשֵׂ֤י הַמְּלָאכָה֙ אֲשֶׁר֙ בְּבֵ֣ית יְהוָ֔ה לְחַזֵּ֖ק בֶּ֥דֶק הַבָּֽיִת׃"
+pericope: "[[2Kgs.22.3 Funding the Temple Repairs|Funding the Temple Repairs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H6213J]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H6485J]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H1004Q]]"
+- "[[H2388G]]"
+- "[[H0919]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **2 Kings 22:5**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which [is] in the house of the LORD, to repair the breaches of the house,
 <small><sub>**BSB:**</sub></small>
 And let them deliver it into the hands of the supervisors of those doing the work on the house of the LORD, who in turn are to give it to the workmen repairing the damages to the house of the LORD—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|יִתְּנֻ֗]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יַד֙]] [[H6213J\|עֹשֵׂ֣י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H9009\|הַ]][[H6485J\|מֻּפְקָדִ֖ים]] [[H1004B\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H5414G\|יִתְּנ֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9005\|לְ]][[H6213J\|עֹשֵׂ֤י]] [[H9009\|הַ]][[H4399\|מְּלָאכָה֙]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H2388G\|חַזֵּ֖ק]] [[H0919\|בֶּ֥דֶק]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic JOSIAH|JOSIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.4|<< 2 Kings 22:4]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.6|2 Kings 22:6 >>]]</td></tr></table>
 
@@ -30,6 +90,6 @@ And let them deliver it into the hands of the supervisors of those doing the wor
 
 [^1]: L spelled: **<span class="ashebrew"><big>וְיִתְּנֻ֗/הֻ</big></span>**
 [^2]: K spelled: **<span class="ashebrew"><big>וְיִתְּנֹ/ה</big></span>**
-[^3]: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> veit<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: in [the] house of  | **<big>[[H9003|בְּ]]</big><big>[[H1004B|בֵית]]</big> ** | be.<small><sup>[[HR]]</sup></small> veit<small><sup>[[HNcbsc]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בבֵּ֣ית</big></span>**
 

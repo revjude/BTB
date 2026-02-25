@@ -1,8 +1,55 @@
+---
+title: Song of Solomon 1:14
+type: Verse
+kjv: "My beloved is unto me as a cluster of camphire in the vineyards of Engedi."
+bsb: "My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi."
+hebrew: "אֶשְׁכֹּ֨ל הַכֹּ֤פֶר׀ דּוֹדִי֙ לִ֔י בְּכַרְמֵ֖י עֵ֥ין גֶּֽדִי׃ ס"
+pericope: "[[Song.1.12 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic CAMPHIRE|CAMPHIRE]]"
+- "[[topic CYPRESS|CYPRESS]]"
+- "[[topic EN-GEDI|EN-GEDI]]"
+- "[[topic GRAPE|GRAPE]]"
+strongs:
+- "[[H0811]]"
+- "[[H9009]]"
+- "[[H3724C]]"
+- "[[H9015]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3754]]"
+- "[[H5872]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:14**<big><big>[[Song.1.12 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved [is] unto me [as] a cluster of camphire in the vineyards of Engedi.
 <small><sub>**BSB:**</sub></small>
 My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi.
+<small><sub>**Hebrew:**</sub></small>
+[[H0811\|אֶשְׁכֹּ֨ל]] [[H9009\|הַ]][[H3724C\|כֹּ֤פֶר]][[H9015\|׀]] [[H1730G\|דּוֹדִ]][[H9020\|י֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H9003\|בְּ]][[H3754\|כַרְמֵ֖י]] [[H5872\|עֵ֥ין]] [[H5872\|גֶּֽדִי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMPHIRE|CAMPHIRE]] • [[topic CYPRESS|CYPRESS]] • [[topic EN-GEDI|EN-GEDI]] • [[topic GRAPE|GRAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.13|<< Song of Solomon 1:13]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.15|Song of Solomon 1:15 >>]]</td></tr></table>
 
@@ -14,7 +61,7 @@ My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi.
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] vineyards of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3754\|כַרְמֵ֖י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khar.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | En  |**<big>&#8207;[[H5872\|עֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gedi  |**<big>&#8207;[[H5872\|גֶּֽדִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ge.di<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gedi  |**<big>&#8207;[[H5872\|גֶּֽדִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ge.di<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.13|<< Song of Solomon 1:13]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.15|Song of Solomon 1:15 >>]]</td></tr></table>
 
 

@@ -1,6 +1,56 @@
+---
+title: LXX 2 Samuel 18:21
+type: Verse
+lxx: "And Joab said to Cushi, Go, announce to the king what you have seen! And Cushi did obeisance to  Joab, and he ran."
+greek: "και είπεν Ιωάβ τω Χουσί πορεύου ανάγγειλον τω βασιλεί α εώρακας και προσεκύνησε Χουσί τω Ιωάβ και έδραμεν"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H3097]]"
+- "[[G3588]]"
+- "[[H2365]]"
+- "[[G4198]]"
+- "[[G0312]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3739]]"
+- "[[G3708]]"
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[H3570]]"
+- "[[G3588]]"
+- "[[H3097]]"
+- "[[G2532]]"
+- "[[G5143]]"
+---
+
 **LXX 2 Samuel 18:21** 
 <small><sub>**LXX:**</sub></small>
 And Joab said \[to\] Cushi, Go, announce to the king what you have seen! And Cushi did obeisance to  Joab, and he ran. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[H3097\|Ιωάβ]] [[G3588\|τω]] [[H2365\|Χουσί]] [[G4198\|πορεύου]] [[G0312\|ανάγγειλον]] [[G3588\|τω]] [[G0935\|βασιλεί]] [[G3739\|α]] [[G3708\|εώρακας]] [[G2532\|και]] [[G4352\|προσεκύνησε]] [[H3570\|Χουσί]] [[G3588\|τω]] [[H3097\|Ιωάβ]] [[G2532\|και]] [[G5143\|έδραμεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
 
@@ -22,6 +72,6 @@ And Joab said \[to\] Cushi, Go, announce to the king what you have seen! And Cus
 | Joab, | **<big>[[H3097\|Ιωάβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | he ran. | **<big>[[G5143\|έδραμεν]]</big>** |
-[[2Sam.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.20|<< 2 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.22|2 Samuel 18:22 >>]]</td></tr></table>
 
 

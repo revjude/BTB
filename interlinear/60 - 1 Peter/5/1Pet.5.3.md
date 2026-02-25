@@ -1,10 +1,55 @@
+---
+title: 1 Peter 5:3
+type: Verse
+kjv: "Neither as being lords over God’s heritage, but being ensamples to the flock."
+bsb: "not lording it over those entrusted to you, but being examples to the flock."
+greek: "μηδ᾽ ὡς κατακυριεύοντες τῶν κλήρων ἀλλὰ τύποι γινόμενοι τοῦ ποιμνίου·"
+pericope: "[[1Pet.5.1 Instructions to Elders|Instructions to Elders]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[G3366]]"
+- "[[G5613]]"
+- "[[G2634]]"
+- "[[G3588]]"
+- "[[G2819]]"
+- "[[G0235]]"
+- "[[G5179]]"
+- "[[G1096]]"
+- "[[G4168]]"
+texts:
+- NKO
+---
+
 **1 Peter 5:3**<big><big>[[1Pet.5.1 Instructions to Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither as being lords over [God’s] heritage, but being ensamples to the flock.
 <small><sub>**BSB:**</sub></small>
 not lording it over those entrusted to you, but being examples to the flock.
-<small><sub>**Literal:**</sub></small>
-not as exercising lordship over <the> those in your charge but examples being to the flock;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.2|<< 1 Peter 5:2]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.4|1 Peter 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3366\|μηδ᾽]]  [[G5613\|ὡς]]  [[G2634\|κατακυριεύοντες]]  [[G3588\|τῶν]]  [[G2819\|κλήρων]]  [[G0235\|ἀλλὰ]]  [[G5179\|τύποι]]  [[G1096\|γινόμενοι]]  [[G3588\|τοῦ]]  [[G4168\|ποιμνίου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ELDER|ELDER]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HUMILITY|HUMILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIDE|PRIDE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.2|<< 1 Peter 5:2]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.4|1 Peter 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

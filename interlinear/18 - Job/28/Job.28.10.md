@@ -1,8 +1,57 @@
+---
+title: Job 28:10
+type: Verse
+kjv: "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
+bsb: "He hews out channels in the rocks, and his eyes spot every treasure."
+hebrew: "בַּ֭צּוּרוֹת יְאֹרִ֣ים בִּקֵּ֑עַ וְכָל־ יְ֝קָ֗ר רָאֲתָ֥ה עֵינֽוֹ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CIVIL ENGINEERING|CIVIL ENGINEERING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9003]]"
+- "[[H6697H]]"
+- "[[H2975H]]"
+- "[[H1234]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3366]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:10**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cutteth out rivers among the rocks; and his eye seeth every precious thing.
 <small><sub>**BSB:**</sub></small>
 He hews out channels in the rocks, and his eyes spot every treasure.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H6697H\|צּוּרוֹת]] [[H2975H\|יְאֹרִ֣ים]] [[H1234\|בִּקֵּ֑עַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3366\|יְ֝קָ֗ר]] [[H7200G\|רָאֲתָ֥ה]] [[H5869A\|עֵינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL ENGINEERING|CIVIL ENGINEERING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.9|<< Job 28:9]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.11|Job 28:11 >>]]</td></tr></table>
 

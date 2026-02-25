@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cost of Discipleship
+type: Pericope
 pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 14
 book/chapter: "[[Luke.14|Luke 14]]"
-genre:
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.14.25]]"
 - "[[Luke.14.26]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.14.33]]"
 ---
 
-[[Luke.14|Luke 14:25 - Luke 14:33]]
+<small>[[Luke.14|Luke 14:25-33]]</small>
 *The Cost of Discipleship*
 
 [[Luke.14.25|25]] And there went great multitudes with him: and he turned, and said unto them,

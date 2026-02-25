@@ -1,8 +1,61 @@
+---
+title: Psalm 136:6
+type: Verse
+kjv: "To him that stretched out the earth above the waters: for his mercy endureth for ever."
+bsb: "He spread out the earth upon the waters. His loving devotion endures forever."
+hebrew: "לְרֹקַ֣ע הָ֭אָרֶץ עַל־ הַמָּ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H7554]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:6**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that stretched out the earth above the waters: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 He spread out the earth upon the waters. His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7554\|רֹקַ֣ע]] [[H9009\|הָ֭]][[H0776G\|אָרֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.5|<< Psalms 136:5]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.7|Psalms 136:7 >>]]</td></tr></table>
 

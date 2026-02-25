@@ -1,8 +1,71 @@
+---
+title: Numbers 14:31
+type: Verse
+kjv: "But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised."
+bsb: "But I will bring your children, whom you said would become plunder, into the land you have rejected—and they will enjoy it."
+hebrew: "וְטַ֨פְּכֶ֔ם אֲשֶׁ֥ר אֲמַרְתֶּ֖ם לָבַ֣ז יִהְיֶ֑ה וְהֵבֵיאתִ֣י אֹתָ֔ם וְיָֽדְעוּ֙ אֶת־ הָאָ֔רֶץ אֲשֶׁ֥ר מְאַסְתֶּ֖ם בָּֽהּ׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2945]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3045]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:31**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.
 <small><sub>**BSB:**</sub></small>
 But I will bring your children, whom you said would become plunder, into the land you have rejected—and they will enjoy it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2945\|טַ֨פְּ]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0559\|אֲמַרְתֶּ֖ם]] [[H9005\|לָ]][[H0957\|בַ֣ז]] [[H1961\|יִהְיֶ֑ה]] [[H9001\|וְ]][[H0935P\|הֵבֵיאתִ֣י]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H3045\|יָֽדְעוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3988A\|מְאַסְתֶּ֖ם]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.30|<< Numbers 14:30]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.32|Numbers 14:32 >>]]</td></tr></table>
 

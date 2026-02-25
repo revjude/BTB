@@ -1,10 +1,63 @@
+---
+title: Luke 22:30
+type: Verse
+kjv: "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+bsb: "so that you may eat and drink at My table in My kingdom and sit on thrones, judging the twelve tribes of Israel."
+jesus_said: "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+greek: "ἵνα ἔσθητε καὶ πίνητε ἐπὶ τῆς τραπέζης μου ἐν τῇ βασιλείᾳ μου καὶ καθήσεσθε ἐπὶ θρόνων τὰς δώδεκα φυλὰς κρίνοντες τοῦ Ἰσραήλ.¶"
+pericope: "[[Luke.22.24 Who Is the Greatest？|Who Is the Greatest？]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5132]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G2521]]"
+- "[[G2362]]"
+- "[[G1427]]"
+- "[[G5443]]"
+- "[[G2919]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Luke 22:30**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 so that you may eat and drink at My table in My kingdom and sit on thrones, judging the twelve tribes of Israel.
-<small><sub>**Literal:**</sub></small>
-so that you may eat and may drink at the table of Mine in the kingdom of Mine and will sit on thrones the twelve tribes judging <the> of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.29|<< Luke 22:29]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.31|Luke 22:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G2068\|ἔσθητε]]  [[G2532\|καὶ]]  [[G4095\|πίνητε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G5132\|τραπέζης]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G2521\|καθήσεσθε]]  [[G1909\|ἐπὶ]]  [[G2362\|θρόνων]]  [[G3588\|τὰς]]  [[G1427\|δώδεκα]]  [[G5443\|φυλὰς]]  [[G2919\|κρίνοντες]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.29|<< Luke 22:29]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.31|Luke 22:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

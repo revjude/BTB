@@ -1,10 +1,66 @@
+---
+title: John 7:28
+type: Verse
+kjv: "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not."
+bsb: "Then Jesus, still teaching in the temple courts, cried out, “You know Me, and you know where I am from. I have not come of My own accord, but He who sent Me is true. You do not know Him,"
+jesus_said: "Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not."
+greek: "Ἔκραξεν οὖν ἐν τῷ ἱερῷ διδάσκων ὁ Ἰησοῦς καὶ λέγων· κἀμὲ κἀμὲ οἴδατε καὶ οἴδατε πόθεν εἰμί· καὶ ἀπ᾽ ἐμαυτοῦ οὐκ ἐλήλυθα, ἀλλ᾽ ἔστιν ἀληθινὸς ὁ πέμψας με ὃν ὑμεῖς οὐκ οἴδατε·"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2896]]"
+- "[[G3767]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G1321]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G6063]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G0575]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G0235]]"
+- "[[G0228]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **John 7:28**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.
 <small><sub>**BSB:**</sub></small>
 Then Jesus, still teaching in the temple courts, cried out, “You know Me, and you know where I am from. I have not come of My own accord, but He who sent Me is true. You do not know Him,
-<small><sub>**Literal:**</sub></small>
-Cried out therefore in the temple teaching <the> Jesus and saying; Me you know and you know from where I am; and of Myself not I have come, but is true the [One] having sent Me whom you yourselves not know;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.27|<< John 7:27]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.29|John 7:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2896\|Ἔκραξεν]]  [[G3767\|οὖν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G1321\|διδάσκων]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3004G\|λέγων·]]  [[G1473\|κἀμὲ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G6063\|οἴδατε]]  [[G2532\|καὶ]]  [[G6063\|οἴδατε]]  [[G4159\|πόθεν]]  [[G1510\|εἰμί·]]  [[G2532\|καὶ]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G3756\|οὐκ]]  [[G2064\|ἐλήλυθα,]]  [[G0235\|ἀλλ᾽]]  [[G1510\|ἔστιν]]  [[G0228\|ἀληθινὸς]]  [[G3588\|ὁ]]  [[G3992\|πέμψας]]  [[G3165\|με]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.27|<< John 7:27]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.29|John 7:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

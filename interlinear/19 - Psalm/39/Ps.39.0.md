@@ -1,6 +1,43 @@
+---
+title: Psalm 39:0
+type: Verse
+kjv: "To the chief Musician, even to Jeduthun, A Psalm of David."
+hebrew: "לַמְנַצֵּ֥חַ לִֽידוּת֗וּן מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H3038G]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 39:0**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, [even] to Jeduthun, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H9005\|לִֽ]][[H3038G\|ידוּת֗וּן]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.22|<< Psalms 38:22]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.1|Psalms 39:1 >>]]</td></tr></table>
 
@@ -12,7 +49,7 @@ To the chief Musician, [even] to Jeduthun, A Psalm of David.
 | of David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.22|<< Psalms 38:22]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.1|Psalms 39:1 >>]]</td></tr></table>
 
-[^1]: for Jedithun  | **<big>[[H3038G|ידִיתוּן]]</big><big>[[H9005|לִ]]</big> ** | li.<small><sup>[[HR]]</sup></small> du.Tun<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: for Jedithun  | **<big>[[H3038G|ידִיתוּן]]</big><big>[[H9005|לִ]]</big> ** | li.<small><sup>[[HR]]</sup></small> du.Tun<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: for Jedithun  | **<big>[[H9005|לִ]]</big><big>[[H3038G|ידִיתוּן]]</big> ** | li.<small><sup>[[HR]]</sup></small> du.Tun<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: for Jedithun  | **<big>[[H9005|לִ]]</big><big>[[H3038G|ידִיתוּן]]</big> ** | li.<small><sup>[[HR]]</sup></small> du.Tun<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לִֽידיּת֗וּן</big></span>**
 

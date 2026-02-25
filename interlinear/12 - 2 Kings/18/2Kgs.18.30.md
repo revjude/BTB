@@ -1,8 +1,70 @@
+---
+title: 2 Kings 18:30
+type: Verse
+kjv: "Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria."
+bsb: "Do not let Hezekiah persuade you to trust in the LORD when he says, ‘The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.’"
+hebrew: "וְאַל־ יַבְטַ֨ח אֶתְכֶ֤ם חִזְקִיָּ֙הוּ֙ אֶל־ יְהוָ֣ה לֵאמֹ֔ר הַצֵּ֥ל יַצִּילֵ֖נוּ יְהוָ֑ה וְלֹ֤א תִנָּתֵן֙ אֶת־ הָעִ֣יר הַזֹּ֔את בְּיַ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H2396G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:30**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.
 <small><sub>**BSB:**</sub></small>
 Do not let Hezekiah persuade you to trust in the LORD when he says, ‘The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0982\|יַבְטַ֨ח]] [[H0853\|אֶתְ]][[H9036\|כֶ֤ם]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5337\|הַצֵּ֥ל]] [[H5337\|יַצִּילֵ֖]][[H9035\|נוּ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5414G\|תִנָּתֵן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.29|<< 2 Kings 18:29]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.31|2 Kings 18:31 >>]]</td></tr></table>
 

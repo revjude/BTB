@@ -1,8 +1,66 @@
+---
+title: Ezekiel 21:24
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because ye have made your iniquity to be remembered, in that your transgressions are discovered, so that in all your doings your sins do appear; because, I say, that ye are come to remembrance, ye shall be taken with the hand."
+bsb: "Therefore this is what the Lord GOD says: ‘Because you have drawn attention to your guilt, exposing your transgressions, so that your sins are revealed in all your deeds—because you have come to remembrance—you shall be taken in hand."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ יַ֗עַן הַזְכַּרְכֶם֙ עֲוֹ֣נְכֶ֔ם בְּהִגָּל֣וֹת פִּשְׁעֵיכֶ֗ם לְהֵֽרָאוֹת֙ חַטֹּ֣אותֵיכֶ֔ם בְּכֹ֖ל עֲלִילֽוֹתֵיכֶ֑ם יַ֚עַן הִזָּ֣כֶרְכֶ֔ם בַּכַּ֖ף תִּתָּפֵֽשׂוּ׃ פ"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H2142]]"
+- "[[H9046]]"
+- "[[H5771H]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H1540H]]"
+- "[[H6588]]"
+- "[[H7200G]]"
+- "[[H2403B]]"
+- "[[H3605]]"
+- "[[H5949]]"
+- "[[H3709G]]"
+- "[[H8610]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 21:24**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because ye have made your iniquity to be remembered, in that your transgressions are discovered, so that in all your doings your sins do appear; because, [I say], that ye are come to remembrance, ye shall be taken with the hand.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Because you have drawn attention to your guilt, exposing your transgressions, so that your sins are revealed in all your deeds—because you have come to remembrance—you shall be taken in hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H3282\|יַ֗עַן]] [[H2142\|הַזְכַּרְ]][[H9046\|כֶם֙]] [[H5771H\|עֲוֹ֣נְ]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H1540H\|הִגָּל֣וֹת]] [[H6588\|פִּשְׁעֵי]][[H9026\|כֶ֗ם]] [[H9005\|לְ]][[H7200G\|הֵֽרָאוֹת֙]] [[H2403B\|חַטֹּ֣אותֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H5949\|עֲלִילֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H3282\|יַ֚עַן]] [[H2142\|הִזָּ֣כֶרְ]][[H9046\|כֶ֔ם]] [[H9003\|בַּ]][[H3709G\|כַּ֖ף]] [[H8610\|תִּתָּפֵֽשׂוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.23|<< Ezekiel 21:23]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.25|Ezekiel 21:25 >>]]</td></tr></table>
 
@@ -25,7 +83,7 @@ Therefore this is what the Lord GOD says: ‘Because you have drawn attention to
 | because  |**<big>&#8207;[[H3282\|יַ֚עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have been remembered you  |**<big>&#8207;[[H2142\|הִזָּ֣כֶרְ]]&#8207;&#8207;[[H9046\|כֶ֔ם]]&#8207; </big>**| hi.Za.kher.<small><sup>[[HVNcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the hand  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3709G\|כַּ֖ף]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Kaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will be seized  |**<big>&#8207;[[H8610\|תִּתָּפֵֽשׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.ta.Fe.su<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will be seized  |**<big>&#8207;[[H8610\|תִּתָּפֵֽשׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.ta.Fe.su<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.23|<< Ezekiel 21:23]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.25|Ezekiel 21:25 >>]]</td></tr></table>
 
 

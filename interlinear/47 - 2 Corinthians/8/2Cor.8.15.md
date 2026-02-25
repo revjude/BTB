@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 8:15
+type: Verse
+kjv: "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."
+bsb: "As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”"
+greek: "καθὼς γέγραπται· ὁ τὸ πολὺ οὐκ ἐπλεόνασεν καὶ ὁ τὸ ὀλίγον οὐκ ἠλαττόνησεν.¶"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G3588]]"
+- "[[G4183]]"
+- "[[G3756]]"
+- "[[G4121]]"
+- "[[G2532]]"
+- "[[G3641]]"
+- "[[G1641]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:15**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As it is written, He that [had gathered] much had nothing over; and he that [had gathered] little had no lack.
 <small><sub>**BSB:**</sub></small>
 As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”
-<small><sub>**Literal:**</sub></small>
-Even as it has been written: He the much not did abound and he the little not lacked.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.14|<< 2 Corinthians 8:14]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.16|2 Corinthians 8:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G3588\|ὁ]]  [[G3588\|τὸ]]  [[G4183\|πολὺ]]  [[G3756\|οὐκ]]  [[G4121\|ἐπλεόνασεν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3588\|τὸ]]  [[G3641\|ὀλίγον]]  [[G3756\|οὐκ]]  [[G1641\|ἠλαττόνησεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.14|<< 2 Corinthians 8:14]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.16|2 Corinthians 8:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 8:15** is...
 > $\quad$ referencing: [[LXX.Exod.16.18|Exod 16:18]]

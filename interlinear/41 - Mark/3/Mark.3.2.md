@@ -1,10 +1,52 @@
+---
+title: Mark 3:2
+type: Verse
+kjv: "And they watched him, whether he would heal him on the sabbath day; that they might accuse him."
+bsb: "In order to accuse Jesus, they were watching to see if He would heal on the Sabbath."
+greek: "καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτὸν ἵνα κατηγορήσωσιν αὐτοῦ."
+pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3906]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G2323]]"
+- "[[G2443]]"
+- "[[G2723]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 3:2**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they watched him, whether he would heal him on the sabbath day; that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.
-<small><sub>**Literal:**</sub></small>
-and they were watching Him whether on the Sabbaths He will heal him in order that they may accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.1|<< Mark 3:1]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.3|Mark 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3906\|παρετήρουν]]  [[G0846\|αὐτὸν]]  [[G1487G\|εἰ]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G2323\|θεραπεύσει]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2723\|κατηγορήσωσιν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.1|<< Mark 3:1]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.3|Mark 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

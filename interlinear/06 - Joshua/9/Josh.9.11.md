@@ -1,8 +1,76 @@
+---
+title: Joshua 9:11
+type: Verse
+kjv: "Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us."
+bsb: "So the elders and inhabitants of our land told us, ‘Take provisions for your journey; go to meet them and say to them: We are your servants. Please make a treaty with us.’"
+hebrew: "וַיֹּאמְר֣וּ אֵלֵ֡ינוּ זְֽקֵינֵינוּ֩ וְכָל־ יֹשְׁבֵ֨י אַרְצֵ֜נוּ לֵאמֹ֗ר קְח֨וּ בְיֶדְכֶ֤ם צֵידָה֙ לַדֶּ֔רֶךְ וּלְכ֖וּ לִקְרָאתָ֑ם וַאֲמַרְתֶּ֤ם אֲלֵיהֶם֙ עַבְדֵיכֶ֣ם אֲנַ֔חְנוּ וְעַתָּ֖ה כִּרְתוּ־ לָ֥נוּ בְרִֽית׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H2205G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H6720]]"
+- "[[H1870L]]"
+- "[[H1980G]]"
+- "[[H7122G]]"
+- "[[H9038]]"
+- "[[H5650]]"
+- "[[H0587]]"
+- "[[H6258]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:11**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We [are] your servants: therefore now make ye a league with us.
 <small><sub>**BSB:**</sub></small>
 So the elders and inhabitants of our land told us, ‘Take provisions for your journey; go to meet them and say to them: We are your servants. Please make a treaty with us.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלֵ֡י]][[H9035\|נוּ]] [[H2205G\|זְֽקֵינֵי]][[H9025\|נוּ֩]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֨י]] [[H0776G\|אַרְצֵ֜]][[H9025\|נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3947G\|קְח֨וּ]] [[H9003\|בְ]][[H3027G\|יֶדְ]][[H9026\|כֶ֤ם]] [[H6720\|צֵידָה֙]] [[H9005\|לַ]][[H1870L\|דֶּ֔רֶךְ]] [[H9002\|וּ]][[H1980G\|לְכ֖וּ]] [[H9005\|לִ]][[H7122G\|קְרָאתָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֤ם]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H5650\|עַבְדֵי]][[H9026\|כֶ֣ם]] [[H0587\|אֲנַ֔חְנוּ]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H3772H\|כִּרְתוּ]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H1285\|בְרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.10|<< Joshua 9:10]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.12|Joshua 9:12 >>]]</td></tr></table>
 

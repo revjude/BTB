@@ -1,10 +1,70 @@
+---
+title: Acts 11:28
+type: Verse
+kjv: "And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
+bsb: "One of them named Agabus stood up and predicted through the Spirit that a great famine would sweep across the whole world. (This happened under Claudius.)"
+greek: "ἀναστὰς δὲ εἷς ἐξ αὐτῶν ὀνόματι Ἅγαβος ἐσήμανεν διὰ τοῦ πνεύματος λιμὸν μεγάλην μέλλειν ἔσεσθαι ἐφ᾽ ὅλην τὴν οἰκουμένην, ἥτις καὶ ἐγένετο ἐπὶ Κλαυδίου Καίσαρος."
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AGABUS|AGABUS]]"
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CAESAR|CAESAR]]"
+- "[[topic CLAUDIUS|CLAUDIUS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3686]]"
+- "[[G0013]]"
+- "[[G4591]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3042]]"
+- "[[G3173]]"
+- "[[G3195]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3650]]"
+- "[[G3625]]"
+- "[[G3748]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G2804G]]"
+- "[[G2541]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 11:28**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
 <small><sub>**BSB:**</sub></small>
 One of them named Agabus stood up and predicted through the Spirit that a great famine would sweep across the whole world. (This happened under Claudius.)
-<small><sub>**Literal:**</sub></small>
-Having risen up now one of them named Agabus he signified through the Spirit [that] a famine great to ensue being over all the world — which also was in [the time of] Claudius of Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.27|<< Acts 11:27]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.29|Acts 11:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|ἀναστὰς]]  [[G1161\|δὲ]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3686\|ὀνόματι]]  [[G0013\|Ἅγαβος]]  [[G4591\|ἐσήμανεν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3042\|λιμὸν]]  [[G3173\|μεγάλην]]  [[G3195\|μέλλειν]]  [[G1510\|ἔσεσθαι]]  [[G1909\|ἐφ᾽]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην,]]  [[G3748\|ἥτις]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G2804G\|Κλαυδίου]]  [[G2541\|Καίσαρος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGABUS|AGABUS]] • [[topic ANTIOCH|ANTIOCH]] • [[topic CAESAR|CAESAR]] • [[topic CLAUDIUS|CLAUDIUS]] • [[topic FAMINE|FAMINE]] • [[topic PAUL|PAUL]] • [[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.27|<< Acts 11:27]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.29|Acts 11:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

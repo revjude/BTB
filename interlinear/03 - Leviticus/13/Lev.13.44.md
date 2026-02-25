@@ -1,8 +1,60 @@
+---
+title: Leviticus 13:44
+type: Verse
+kjv: "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head."
+bsb: "the man is diseased; he is unclean. The priest must pronounce him unclean because of the infection on his head."
+hebrew: "אִישׁ־ צָר֥וּעַ ה֖וּא טָמֵ֣א ה֑וּא טַמֵּ֧א יְטַמְּאֶ֛נּוּ הַכֹּהֵ֖ן בְּרֹאשׁ֥וֹ נִגְעֽוֹ׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H6879]]"
+- "[[H1931]]"
+- "[[H2931]]"
+- "[[H2930A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5061]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:44**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is a leprous man, he [is] unclean: the priest shall pronounce him utterly unclean; his plague [is] in his head.
 <small><sub>**BSB:**</sub></small>
 the man is diseased; he is unclean. The priest must pronounce him unclean because of the infection on his head.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִישׁ]][[H9014\|־]] [[H6879\|צָר֥וּעַ]] [[H1931\|ה֖וּא]] [[H2931\|טָמֵ֣א]] [[H1931\|ה֑וּא]] [[H2930A\|טַמֵּ֧א]] [[H2930A\|יְטַמְּאֶ֛]][[H9033\|נּוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9003\|בְּ]][[H7218A\|רֹאשׁ֥]][[H9023\|וֹ]] [[H5061\|נִגְעֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.43|<< Leviticus 13:43]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.45|Leviticus 13:45 >>]]</td></tr></table>
 

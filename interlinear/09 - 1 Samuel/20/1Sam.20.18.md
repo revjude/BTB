@@ -1,8 +1,49 @@
+---
+title: 1 Samuel 20:18
+type: Verse
+kjv: "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty."
+bsb: "Then Jonathan said to David, “Tomorrow is the New Moon, and you will be missed, because your seat will be empty."
+hebrew: "וַיֹּֽאמֶר־ ל֥וֹ יְהוֹנָתָ֖ן מָחָ֣ר חֹ֑דֶשׁ וְנִפְקַ֕דְתָּ כִּ֥י יִפָּקֵ֖ד מוֹשָׁבֶֽךָ׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3083H]]"
+- "[[H4279]]"
+- "[[H2320H]]"
+- "[[H6485K]]"
+- "[[H3588A]]"
+- "[[H4186]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:18**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jonathan said to David, To morrow [is] the new moon: and thou shalt be missed, because thy seat will be empty.
 <small><sub>**BSB:**</sub></small>
 Then Jonathan said to David, “Tomorrow is the New Moon, and you will be missed, because your seat will be empty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמֶר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3083H\|יְהוֹנָתָ֖ן]] [[H4279\|מָחָ֣ר]] [[H2320H\|חֹ֑דֶשׁ]] [[H9001\|וְ]][[H6485K\|נִפְקַ֕דְתָּ]] [[H3588A\|כִּ֥י]] [[H6485K\|יִפָּקֵ֖ד]] [[H4186\|מוֹשָׁבֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.17|<< 1 Samuel 20:17]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.19|1 Samuel 20:19 >>]]</td></tr></table>
 

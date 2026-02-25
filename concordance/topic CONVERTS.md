@@ -7,7 +7,7 @@
 
 → &#8220;Choked,&#8221; [[Matt.13.7|Mt 13:7]],[[Matt.13.22|22]]
 
-→ &#8220;Good ground,&#8221; [[Matt.13.8|Mt 13:8]],[[Matt.13.23|23]]; [[Luke.8.4|Lu 8:4]]-[[Luke.8.15|15]]
+→ &#8220;Good ground,&#8221; [[Matt.13.8|Mt 13:8]],[[Matt.13.23|23]]; [[Luke.8.4|Lu 8:4-15]]
 
 → See [[topic BACKSLIDERS|BACKSLIDERS]]
 
@@ -25,21 +25,21 @@
 
 - Ninevites [[Jonah.3|Jon 3]]
 
-- Gadarenes [[Luke.8.35|Lu 8:35]]-[[Luke.8.39|39]]
+- Gadarenes [[Luke.8.35|Lu 8:35-39]]
 
-- The Samaritans [[John.4.28|Joh 4:28]]-[[John.4.42|42]]
+- The Samaritans [[John.4.28|Joh 4:28-42]]
 
-- The thief on the cross [[Luke.23.39|Lu 23:39]]-[[Luke.23.43|43]]
+- The thief on the cross [[Luke.23.39|Lu 23:39-43]]
 
 - At Pentecost, about three-thousand people [[Acts.2.41|Ac 2:41]]
 
 - Post-pentecostal [[Acts.4.4|Ac 4:4]]
 
-- The eunuch [[Acts.8.35|Ac 8:35]]-[[Acts.8.38|38]]
+- The eunuch [[Acts.8.35|Ac 8:35-38]]
 
-- Saul of Tarsus [[Acts.9.3|Ac 9:3]]-[[Acts.9.18|18]]
+- Saul of Tarsus [[Acts.9.3|Ac 9:3-18]]
 
-- Sergius Paulus [[Acts.13.7|Ac 13:7]],[[Acts.13.12|12]]; [[Acts.26.12|26:12]]-[[Acts.26.23|23]]
+- Sergius Paulus [[Acts.13.7|Ac 13:7]],[[Acts.13.12|12]]; [[Acts.26.12|26:12-23]]
 
 - Cornelius [[Acts.10|Ac 10]]
 
@@ -47,7 +47,7 @@
 
 - Lydia [[Acts.16.14|Ac 16:14]],[[Acts.16.15|15]]
 
-- Jailer [[Acts.16.27|Ac 16:27]]-[[Acts.16.34|34]]
+- Jailer [[Acts.16.27|Ac 16:27-34]]
 
 - Greeks [[Acts.17.4|Ac 17:4]],[[Acts.17.12|12]]
 
@@ -55,17 +55,17 @@
 
 INSTANCES OF
 
-Nebuchadnezzar [[Dan.3.29|Da 3:29]]; [[Dan.4.1|4:1]]-[[Dan.4.37|37]]
+Nebuchadnezzar [[Dan.3.29|Da 3:29]]; [[Dan.4.1|4:1-37]]
 
 - Andrew [[John.1.40|Joh 1:40]],[[John.1.41|41]]
 
-- Philip [[John.1.43|Joh 1:43]]-[[John.1.45|45]]
+- Philip [[John.1.43|Joh 1:43-45]]
 
 - The woman of Samaria [[John.4.28|Joh 4:28]],[[John.4.29|29]]
 
 - The man possessed by demons [[Luke.8.39|Lu 8:39]]
 
-- The blind men [[Matt.9.31|Mt 9:31]]; [[John.9.8|Joh 9:8]]-[[John.9.38|38]]
+- The blind men [[Matt.9.31|Mt 9:31]]; [[John.9.8|Joh 9:8-38]]
 
 - The deaf man [[Mark.7.36|Mr 7:36]]
 

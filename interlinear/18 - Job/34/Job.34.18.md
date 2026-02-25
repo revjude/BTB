@@ -1,8 +1,57 @@
+---
+title: Job 34:18
+type: Verse
+kjv: "Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?"
+bsb: "who says to kings, ‘You are worthless!’ and to nobles, ‘You are wicked,’"
+hebrew: "הַאֲמֹ֣ר לְמֶ֣לֶךְ בְּלִיָּ֑עַל רָ֝שָׁ֗ע אֶל־ נְדִיבִֽים׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic KING|KING]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9008]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H1100I]]"
+- "[[H7563]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5081H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:18**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it fit] to say to a king, [Thou art] wicked? [and] to princes, [Ye are] ungodly?
 <small><sub>**BSB:**</sub></small>
 who says to kings, ‘You are worthless!’ and to nobles, ‘You are wicked,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0559\|אֲמֹ֣ר]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H1100I\|בְּלִיָּ֑עַל]] [[H7563\|רָ֝שָׁ֗ע]] [[H0413\|אֶל]][[H9014\|־]] [[H5081H\|נְדִיבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CITIZENS|CITIZENS]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic KING|KING]] • [[topic LOYALTY|LOYALTY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.17|<< Job 34:17]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.19|Job 34:19 >>]]</td></tr></table>
 

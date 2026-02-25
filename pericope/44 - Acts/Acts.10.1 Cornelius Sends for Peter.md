@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cornelius Sends for Peter
+type: Pericope
 pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 10
 book/chapter: "[[Acts.10|Acts 10]]"
-genre:
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.10.1]]"
 - "[[Acts.10.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.10.8]]"
 ---
 
-[[Acts.10|Acts 10:1 - Acts 10:8]]
+<small>[[Acts.10|Acts 10:1-8]]</small>
 *Cornelius Sends for Peter*
 
 [[Acts.10.1|1]] There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian \[band\],

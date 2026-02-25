@@ -1,8 +1,66 @@
+---
+title: Judges 9:16
+type: Verse
+kjv: "Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;"
+bsb: "Now if you have acted faithfully and honestly in making Abimelech king, if you have done well by Jerubbaal and his family, and if you have done to him as he deserves—"
+hebrew: "וְעַתָּ֗ה אִם־ בֶּאֱמֶ֤ת וּבְתָמִים֙ עֲשִׂיתֶ֔ם וַתַּמְלִ֖יכוּ אֶת־ אֲבִימֶ֑לֶךְ וְאִם־ טוֹבָ֤ה עֲשִׂיתֶם֙ עִם־ יְרֻבַּ֣עַל וְעִם־ בֵּית֔וֹ וְאִם־ כִּגְמ֥וּל יָדָ֖יו עֲשִׂ֥יתֶם לֽוֹ׃"
+pericope: "[[Judg.9.7 Jotham’s Parable|Jotham’s Parable]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H8549H]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H0853]]"
+- "[[H0040H]]"
+- "[[H2896B]]"
+- "[[H5973A]]"
+- "[[H3378]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H1576]]"
+- "[[H3027I]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:16**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;
 <small><sub>**BSB:**</sub></small>
 Now if you have acted faithfully and honestly in making Abimelech king, if you have done well by Jerubbaal and his family, and if you have done to him as he deserves—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H9003\|בֶּ]][[H0571G\|אֱמֶ֤ת]] [[H9002\|וּ]][[H9003\|בְ]][[H8549H\|תָמִים֙]] [[H6213A\|עֲשִׂיתֶ֔ם]] [[H9001\|וַ]][[H4427A\|תַּמְלִ֖יכוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0040H\|אֲבִימֶ֑לֶךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H2896B\|טוֹבָ֤ה]] [[H6213A\|עֲשִׂיתֶם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3378\|יְרֻבַּ֣עַל]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9004\|כִּ]][[H1576\|גְמ֥וּל]] [[H3027I\|יָדָ֖י]][[H9023\|ו]] [[H6213A\|עֲשִׂ֥יתֶם]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic ORPHAN|ORPHAN]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.15|<< Judges 9:15]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.17|Judges 9:17 >>]]</td></tr></table>
 

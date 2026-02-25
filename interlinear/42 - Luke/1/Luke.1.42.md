@@ -1,10 +1,63 @@
+---
+title: Luke 1:42
+type: Verse
+kjv: "And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb."
+bsb: "In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb!"
+greek: "καὶ ἀνεφώνησεν κραυγῇ μεγάλῃ καὶ εἶπεν· εὐλογημένη σὺ ἐν γυναιξίν, καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου."
+pericope: "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0400]]"
+- "[[G2906]]"
+- "[[G3173]]"
+- "[[G2036]]"
+- "[[G2127]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G1135G]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G2836]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:42**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she spake out with a loud voice, and said, Blessed [art] thou among women, and blessed [is] the fruit of thy womb.
 <small><sub>**BSB:**</sub></small>
 In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb!
-<small><sub>**Literal:**</sub></small>
-and she cried out in a shout loud and said; Blessed [are] you yourself among women, and blessed [is] the fruit of the womb of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.41|<< Luke 1:41]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.43|Luke 1:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0400\|ἀνεφώνησεν]]  [[G2906\|κραυγῇ]]  [[G3173\|μεγάλῃ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G2127\|εὐλογημένη]]  [[G4771\|σὺ]]  [[G1722\|ἐν]]  [[G1135G\|γυναιξίν,]]  [[G2532\|καὶ]]  [[G2127\|εὐλογημένος]]  [[G3588\|ὁ]]  [[G2590\|καρπὸς]]  [[G3588\|τῆς]]  [[G2836\|κοιλίας]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic PSALMS|PSALMS]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.41|<< Luke 1:41]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.43|Luke 1:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

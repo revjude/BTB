@@ -1,6 +1,65 @@
+---
+title: LXX Joshua 6:10
+type: Verse
+lxx: "And to the people Joshua gave charge, saying, Do not yell nor any one hear  your voice! There shall not go through from your mouth a word until whenever he himself declares the day to yell out, and you shall yell out then."
+greek: "τω δε λαώ ενετείλατο Ιησούς λέγων μη βοάτε μηδέ ακουσάτω μηδείς την φωνήν υμών ου διελεύσεται εκ στόματος υμών λόγος έως αν διαγγείλη αυτός ημέραν αναβοήσαι και αναβοήσετε τότε"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2992]]"
+- "[[G1781]]"
+- "[[H3091]]"
+- "[[G3004]]"
+- "[[G3361]]"
+- "[[G0994]]"
+- "[[G3366]]"
+- "[[G0191]]"
+- "[[G3367]]"
+- "[[G3588]]"
+- "[[G5456]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1330]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G1473]]"
+- "[[G3056]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1229]]"
+- "[[G1473]]"
+- "[[G2250]]"
+- "[[G0310]]"
+- "[[G2532]]"
+- "[[G0310]]"
+- "[[G5119]]"
+---
+
 **LXX Joshua 6:10** 
 <small><sub>**LXX:**</sub></small>
 And to the people Joshua gave charge, saying, Do not yell nor any one hear  your voice! There shall not go through from your mouth a word until whenever he himself declares \[the\] day to yell out, and you shall yell out then. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τω]] [[G1161\|δε]] [[G2992\|λαώ]] [[G1781\|ενετείλατο]] [[H3091\|Ιησούς]] [[G3004\|λέγων]] [[G3361\|μη]] [[G0994\|βοάτε]] [[G3366\|μηδέ]] [[G0191\|ακουσάτω]] [[G3367\|μηδείς]] [[G3588\|την]] [[G5456\|φωνήν]] [[G1473\|υμών]] [[G3756\|ου]] [[G1330\|διελεύσεται]] [[G1537\|εκ]] [[G4750\|στόματος]] [[G1473\|υμών]] [[G3056\|λόγος]] [[G2193\|έως]] [[G0302\|αν]] [[G1229\|διαγγείλη]] [[G1473\|αυτός]] [[G2250\|ημέραν]] [[G0310\|αναβοήσαι]] [[G2532\|και]] [[G0310\|αναβοήσετε]] [[G5119\|τότε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.9|<< Joshua 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.11|Joshua 6:11 >>]]</td></tr></table>
 
@@ -29,6 +88,6 @@ And to the people Joshua gave charge, saying, Do not yell nor any one hear  your
 | and | **<big>[[G2532\|και]]</big>** |
 | you shall yell out | **<big>[[G0310\|αναβοήσετε]]</big>** |
 | then. | **<big>[[G5119\|τότε]]</big>** |
-[[Josh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.9|<< Joshua 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.11|Joshua 6:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.9|<< Joshua 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.11|Joshua 6:11 >>]]</td></tr></table>
 
 

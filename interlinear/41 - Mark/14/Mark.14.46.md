@@ -1,10 +1,54 @@
+---
+title: Mark 14:46
+type: Verse
+kjv: "And they laid their hands on him, and took him."
+bsb: "Then the men seized Jesus and arrested Him."
+greek: "οἱ δὲ ἐπέβαλον τὰς χεῖρας αὐτῶν αὐτῷ καὶ ἐκράτησαν αὐτόν."
+pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1911]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2902]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 14:46**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they laid their hands on him, and took him.
 <small><sub>**BSB:**</sub></small>
 Then the men seized Jesus and arrested Him.
-<small><sub>**Literal:**</sub></small>
-They And laid the hands of them on Him and seized Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.45|<< Mark 14:45]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.47|Mark 14:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1911\|ἐπέβαλον]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G0846\|αὐτῶν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G2902\|ἐκράτησαν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.45|<< Mark 14:45]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.47|Mark 14:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

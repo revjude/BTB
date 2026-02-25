@@ -1,8 +1,63 @@
+---
+title: Isaiah 19:3
+type: Verse
+kjv: "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards."
+bsb: "Then the spirit of the Egyptians will be emptied out from among them, and I will frustrate their plans, so that they will resort to idols and spirits of the dead, to mediums and spiritists."
+hebrew: "וְנָבְקָ֤ה רֽוּחַ־ מִצְרַ֙יִם֙ בְּקִרְבּ֔וֹ וַעֲצָת֖וֹ אֲבַלֵּ֑עַ וְדָרְשׁ֤וּ אֶל־ הָֽאֱלִילִים֙ וְאֶל־ הָ֣אִטִּ֔ים וְאֶל־ הָאֹב֖וֹת וְאֶל־ הַיִּדְּעֹנִֽים׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARMERS AND CHARMING|CHARMERS AND CHARMING]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1238B]]"
+- "[[H7307G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6098]]"
+- "[[H1104]]"
+- "[[H1875]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0457]]"
+- "[[H0328A]]"
+- "[[H0178]]"
+- "[[H3049]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:3**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.
 <small><sub>**BSB:**</sub></small>
 Then the spirit of the Egyptians will be emptied out from among them, and I will frustrate their plans, so that they will resort to idols and spirits of the dead, to mediums and spiritists.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1238B\|נָבְקָ֤ה]] [[H7307G\|רֽוּחַ]][[H9014\|־]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֔]][[H9023\|וֹ]] [[H9002\|וַ]][[H6098\|עֲצָת֖]][[H9023\|וֹ]] [[H1104\|אֲבַלֵּ֑עַ]] [[H9001\|וְ]][[H1875\|דָרְשׁ֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H0457\|אֱלִילִים֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H0328A\|אִטִּ֔ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0178\|אֹב֖וֹת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3049\|יִּדְּעֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARMERS AND CHARMING|CHARMERS AND CHARMING]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SORCERY|SORCERY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.2|<< Isaiah 19:2]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.4|Isaiah 19:4 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: John 20:27
+type: Verse
+kjv: "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
+bsb: "Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”"
+jesus_said: "Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
+greek: "εἶτα λέγει τῷ Θωμᾷ· φέρε τὸν δάκτυλόν σου ὧδε καὶ ἴδε τὰς χεῖράς μου, καὶ φέρε τὴν χεῖρά σου καὶ βάλε εἰς τὴν πλευράν μου, καὶ μὴ γίνου ἄπιστος ἀλλὰ πιστός.¶"
+pericope: "[[John.20.24 Jesus Appears to Thomas|Jesus Appears to Thomas]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SKEPTICISM|SKEPTICISM]]"
+- "[[topic SPEAR|SPEAR]]"
+- "[[topic THOMAS|THOMAS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1534]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G2381]]"
+- "[[G5342]]"
+- "[[G1147]]"
+- "[[G4771]]"
+- "[[G5602]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G5495]]"
+- "[[G3165]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G4125]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G0571]]"
+- "[[G0235]]"
+- "[[G4103]]"
+texts:
+- NKO
+---
+
 **John 20:27**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust [it] into my side: and be not faithless, but believing.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”
-<small><sub>**Literal:**</sub></small>
-Then He says <the> to Thomas; do bring the finger of you here and do see the hands of Me, and do bring the hand of you and do put [it] into the side of Me, and not do be unbelieving but believing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.26|<< John 20:26]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.28|John 20:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1534\|εἶτα]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G2381\|Θωμᾷ·]]  [[G5342\|φέρε]]  [[G3588\|τὸν]]  [[G1147\|δάκτυλόν]]  [[G4771\|σου]]  [[G5602\|ὧδε]]  [[G2532\|καὶ]]  [[G1492H\|ἴδε]]  [[G3588\|τὰς]]  [[G5495\|χεῖράς]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G5342\|φέρε]]  [[G3588\|τὴν]]  [[G5495\|χεῖρά]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G0906H\|βάλε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4125\|πλευράν]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1096\|γίνου]]  [[G0571\|ἄπιστος]]  [[G0235\|ἀλλὰ]]  [[G4103\|πιστός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SKEPTICISM|SKEPTICISM]] • [[topic SPEAR|SPEAR]] • [[topic THOMAS|THOMAS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.26|<< John 20:26]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.28|John 20:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

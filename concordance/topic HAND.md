@@ -7,7 +7,7 @@
 
 → In ordaining the Levites [[Num.8.10|Nu 8:10]],[[Num.8.11|11]]
 
-→ Joshua [[Num.27.18|Nu 27:18]]-[[Num.27.23|23]]; [[Deut.34.9|De 34:9]]
+→ Joshua [[Num.27.18|Nu 27:18-23]]; [[Deut.34.9|De 34:9]]
 
 → Timothy [[1Tim.4.14|1Ti 4:14]]; [[2Tim.1.6|2Ti 1:6]]
 
@@ -23,7 +23,7 @@
 
 - See [[topic PRAYER|PRAYER, ATTITUDES IN]]
 
-→ Ceremonial washing of [[Matt.15.2|Mt 15:2]]; [[Mark.7.2|Mr 7:2]]-[[Mark.7.5|5]]
+→ Ceremonial washing of [[Matt.15.2|Mt 15:2]]; [[Mark.7.2|Mr 7:2-5]]
 
 → See [[topic ABLUTION|ABLUTIONS]]
 

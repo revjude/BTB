@@ -1,8 +1,55 @@
+---
+title: Proverbs 28:26
+type: Verse
+kjv: "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered."
+bsb: "He who trusts in himself is a fool, but one who walks in wisdom will be safe."
+hebrew: "בּוֹטֵ֣חַ בְּ֭לִבּוֹ ה֣וּא כְסִ֑יל וְהוֹלֵ֥ךְ בְּ֝חָכְמָ֗ה ה֣וּא יִמָּלֵֽט׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H3684]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H2451]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:26**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.
 <small><sub>**BSB:**</sub></small>
 He who trusts in himself is a fool, but one who walks in wisdom will be safe.
+<small><sub>**Hebrew:**</sub></small>
+[[H0982\|בּוֹטֵ֣חַ]] [[H9003\|בְּ֭]][[H3820A\|לִבּ]][[H9023\|וֹ]] [[H1931\|ה֣וּא]] [[H3684\|כְסִ֑יל]] [[H9002\|וְ]][[H1980I\|הוֹלֵ֥ךְ]] [[H9003\|בְּ֝]][[H2451\|חָכְמָ֗ה]] [[H1931\|ה֣וּא]] [[H4422\|יִמָּלֵֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEIT|CONCEIT]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.25|<< Proverbs 28:25]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.27|Proverbs 28:27 >>]]</td></tr></table>
 

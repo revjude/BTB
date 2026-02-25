@@ -1,8 +1,60 @@
+---
+title: Ezekiel 7:2
+type: Verse
+kjv: "Also, thou son of man, thus saith the Lord GOD unto the land of Israel; An end, the end is come upon the four corners of the land."
+bsb: "“O son of man, this is what the Lord GOD says to the land of Israel: ‘The end! The end has come upon the four corners of the land."
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם כֹּה־ אָמַ֞ר אֲדֹנָ֧י יְהוִ֛ה לְאַדְמַ֥ת יִשְׂרָאֵ֖ל קֵ֑ץ בָּ֣א הַקֵּ֔ץ עַל־ אַרְבַּ֖ע כַּנְפ֥וֹת הָאָֽרֶץ׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H7093]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5921A]]"
+- "[[H0702]]"
+- "[[H3671]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 7:2**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, thou son of man, thus saith the Lord GOD unto the land of Israel; An end, the end is come upon the four corners of the land.
 <small><sub>**BSB:**</sub></small>
 “O son of man, this is what the Lord GOD says to the land of Israel: ‘The end! The end has come upon the four corners of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H9005\|לְ]][[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7093\|קֵ֑ץ]] [[H0935G\|בָּ֣א]] [[H9009\|הַ]][[H7093\|קֵּ֔ץ]] [[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבַּ֖ע]] [[H3671\|כַּנְפ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.1|<< Ezekiel 7:1]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.3|Ezekiel 7:3 >>]]</td></tr></table>
 

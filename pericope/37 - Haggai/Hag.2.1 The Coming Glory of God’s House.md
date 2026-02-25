@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Coming Glory of God’s House
+type: Pericope
 pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Haggai
 chapter: 2
 book/chapter: "[[Hag.2|Haggai 2]]"
-genre:
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
+verse_count: 9
 verses:
 - "[[Hag.2.1]]"
 - "[[Hag.2.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Hag.2.9]]"
 ---
 
-[[Hag.2|Haggai 2:1 - Haggai 2:9]]
+<small>[[Hag.2|Haggai 2:1-9]]</small>
 *The Coming Glory of God’s House*
 
 [[Hag.2.1|1]] In the seventh \[month\], in the one and twentieth \[day\] of the month, came the word of the LORD by the prophet Haggai, saying,

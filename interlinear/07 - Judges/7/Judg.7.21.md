@@ -1,8 +1,60 @@
+---
+title: Judges 7:21
+type: Verse
+kjv: "And they stood every man in his place round about the camp: and all the host ran, and cried, and fled."
+bsb: "Each Israelite took his position around the camp, and the entire Midianite army fled, crying out as they ran."
+hebrew: "וַיַּֽעַמְדוּ֙ אִ֣ישׁ תַּחְתָּ֔יו סָבִ֖יב לַֽמַּחֲנֶ֑ה וַיָּ֧רָץ כָּל־ הַֽמַּחֲנֶ֛ה וַיָּרִ֖יעוּ וַיָּנֽוּסוּ׃"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0376I]]"
+- "[[H8478I]]"
+- "[[H9033]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H7323G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7321]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 7:21**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they stood every man in his place round about the camp: and all the host ran, and cried, and fled.
 <small><sub>**BSB:**</sub></small>
 Each Israelite took his position around the camp, and the entire Midianite army fled, crying out as they ran.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּֽעַמְדוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H8478I\|תַּחְתָּ֔י]][[H9033\|ו]] [[H5439G\|סָבִ֖יב]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וַ]][[H7323G\|יָּ֧רָץ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֛ה]] [[H9001\|וַ]][[H7321\|יָּרִ֖יעוּ]] [[H9001\|וַ]][[H5127\|יָּנֽוּסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COURAGE|COURAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic STRATEGY|STRATEGY]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.20|<< Judges 7:20]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.22|Judges 7:22 >>]]</td></tr></table>
 
@@ -20,7 +72,7 @@ Each Israelite took his position around the camp, and the entire Midianite army 
 | and they fled  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנֽוּסוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.20|<< Judges 7:20]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.22|Judges 7:22 >>]]</td></tr></table>
 
-[^1]: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they put [them] to flight  | **<big>[[H9001|וַ]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9016|׃]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they put [them] to flight  | **<big>[[H9001|וַ]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9016|׃]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיָּנֽיּסוּ\׃</big></span>**
 

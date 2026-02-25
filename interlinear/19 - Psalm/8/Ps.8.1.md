@@ -1,8 +1,64 @@
+---
+title: Psalm 8:1
+type: Verse
+kjv: "O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens."
+bsb: "For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens."
+hebrew: "יְהוָ֤ה אֲדֹנֵ֗ינוּ מָֽה־ אַדִּ֣יר שִׁ֭מְךָ בְּכָל־ הָאָ֑רֶץ אֲשֶׁ֥ר תְּנָ֥ה ה֝וֹדְךָ֗ עַל־ הַשָּׁמָֽיִם׃"
+pericope: "[[Ps.8.1 How Majestic Is Your Name!|How Majestic Is Your Name!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 8
+book/chapter: "[[Ps.8|Psalm 8]]"
+chronological_order: 342
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0113]]"
+- "[[H9025]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0117]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H9012]]"
+- "[[H1935]]"
+- "[[H5921A]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 8:1**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD our Lord, how excellent [is] thy name in all the earth! who hast set thy glory above the heavens.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]] [[H0113\|אֲדֹנֵ֗י]][[H9025\|נוּ]] [[H4100\|מָֽה]][[H9014\|־]] [[H0117\|אַדִּ֣יר]] [[H8034\|שִׁ֭מְ]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414H\|תְּנָ֥]][[H9012\|ה]] [[H1935\|ה֝וֹדְ]][[H9021\|ךָ֗]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.0|<< Psalms 8:0]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.2|Psalms 8:2 >>]]</td></tr></table>
 

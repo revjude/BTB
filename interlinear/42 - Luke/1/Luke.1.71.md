@@ -1,10 +1,60 @@
+---
+title: Luke 1:71
+type: Verse
+kjv: "That we should be saved from our enemies, and from the hand of all that hate us;"
+bsb: "salvation from our enemies and from the hand of all who hate us,"
+greek: "σωτηρίαν ἐξ ἐχθρῶν ἡμῶν καὶ ἐκ χειρὸς πάντων τῶν μισούντων ἡμᾶς,"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G4991]]"
+- "[[G1537]]"
+- "[[G2190]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G5495]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3404]]"
+texts:
+- NKO
+---
+
 **Luke 1:71**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That we should be saved from our enemies, and from the hand of all that hate us;
 <small><sub>**BSB:**</sub></small>
 salvation from our enemies and from the hand of all who hate us,
-<small><sub>**Literal:**</sub></small>
-salvation from [the] enemies of us and from [the] hand of all those hating us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.70|<< Luke 1:70]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.72|Luke 1:72 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4991\|σωτηρίαν]]  [[G1537\|ἐξ]]  [[G2190\|ἐχθρῶν]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G5495\|χειρὸς]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G3404\|μισούντων]]  [[G3165\|ἡμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.70|<< Luke 1:70]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.72|Luke 1:72 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

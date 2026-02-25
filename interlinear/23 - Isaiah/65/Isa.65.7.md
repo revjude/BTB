@@ -1,8 +1,72 @@
+---
+title: Isaiah 65:7
+type: Verse
+kjv: "Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom."
+bsb: "both for your iniquities and for those of your fathers,” says the LORD. “Because they burned incense on the mountains and scorned Me on the hills, I will measure into their laps full payment for their former deeds.”"
+hebrew: "עֲ֠וֹנֹתֵיכֶם וַעֲוֹנֹ֨ת אֲבוֹתֵיכֶ֤ם יַחְדָּו֙ אָמַ֣ר יְהוָ֔ה אֲשֶׁ֤ר קִטְּרוּ֙ עַל־ הֶ֣הָרִ֔ים וְעַל־ הַגְּבָע֖וֹת חֵרְפ֑וּנִי וּמַדֹּתִ֧י פְעֻלָּתָ֛ם רִֽאשֹׁנָ֖ה אֶל חֵיקָֽם׃ ס"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5771G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H3162B]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6999H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H1389I]]"
+- "[[H2778A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H6468]]"
+- "[[H9028]]"
+- "[[H7223H]]"
+- "[[H0413]]"
+- "[[H2436I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 65:7**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your iniquities, and the iniquities of your fathers together, saith the LORD, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.
 <small><sub>**BSB:**</sub></small>
 both for your iniquities and for those of your fathers,” says the LORD. “Because they burned incense on the mountains and scorned Me on the hills, I will measure into their laps full payment for their former deeds.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5771G\|עֲ֠וֹנֹתֵי]][[H9026\|כֶם]] [[H9002\|וַ]][[H5771G\|עֲוֹנֹ֨ת]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֤ם]] [[H3162B\|יַחְדָּו֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H6999H\|קִטְּרוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ֣]][[H2022G\|הָרִ֔ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֖וֹת]] [[H2778A\|חֵרְפ֑וּ]][[H9030\|נִי]] [[H9001\|וּ]][[H4058\|מַדֹּתִ֧י]] [[H6468\|פְעֻלָּתָ֛]][[H9028\|ם]] [[H7223H\|רִֽאשֹׁנָ֖ה]] [[H0413\|אֶל]] [[H2436I\|חֵיקָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HEREDITY|HEREDITY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.6|<< Isaiah 65:6]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.8|Isaiah 65:8 >>]]</td></tr></table>
 
@@ -25,7 +89,7 @@ both for your iniquities and for those of your fathers,” says the LORD. “Bec
 | work their  |**<big>&#8207;[[H6468\|פְעֻלָּתָ֛]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| fe.'u.la.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | first  |**<big>&#8207;[[H7223H\|רִֽאשֹׁנָ֖ה]]&#8207; </big>**| ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  [^1]|**<big>&#8207;[[H0413\|אֶל]]&#8207; </big>**[^2] | 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
-| bosom their  |**<big>&#8207;[[H2436I\|חֵיקָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chei.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bosom their  |**<big>&#8207;[[H2436I\|חֵיקָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chei.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.6|<< Isaiah 65:6]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.8|Isaiah 65:8 >>]]</td></tr></table>
 
 [^1]: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K

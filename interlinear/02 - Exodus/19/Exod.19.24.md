@@ -1,8 +1,77 @@
+---
+title: Exodus 19:24
+type: Verse
+kjv: "And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them."
+bsb: "And the LORD replied, “Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.”"
+hebrew: "וַיֹּ֨אמֶר אֵלָ֤יו יְהוָה֙ לֶךְ־ רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־ יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־ יְהוָ֖ה פֶּן־ יִפְרָץ־ בָּֽם׃"
+pericope: "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H3381]]"
+- "[[H5927G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5971A]]"
+- "[[H0408]]"
+- "[[H2040]]"
+- "[[H9005]]"
+- "[[H6435]]"
+- "[[H6555]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:24**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.
 <small><sub>**BSB:**</sub></small>
 And the LORD replied, “Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֤י]][[H9033\|ו]] [[H3068G\|יְהוָה֙]] [[H1980G\|לֶךְ]][[H9014\|־]] [[H3381\|רֵ֔ד]] [[H9001\|וְ]][[H5927G\|עָלִ֥יתָ]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֣ן]] [[H5973A\|עִמָּ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H0408\|אַל]][[H9014\|־]] [[H2040\|יֶֽהֶרְס֛וּ]] [[H9005\|לַ]][[H5927G\|עֲלֹ֥ת]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H6435\|פֶּן]][[H9014\|־]] [[H6555\|יִפְרָץ]][[H9014\|־]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic PRIEST|PRIEST]] • [[topic REVERENCE|REVERENCE]] • [[topic SINAI|SINAI]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.23|<< Exodus 19:23]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.25|Exodus 19:25 >>]]</td></tr></table>
 

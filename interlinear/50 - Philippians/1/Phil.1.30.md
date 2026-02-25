@@ -1,10 +1,54 @@
+---
+title: Philippians 1:30
+type: Verse
+kjv: "Having the same conflict which ye saw in me, and now hear to be in me."
+bsb: "since you are encountering the same struggle you saw I had, and now hear that I still have."
+greek: "τὸν αὐτὸν ἀγῶνα ἔχοντες οἷον εἴδετε ἐν ἐμοὶ καὶ νῦν ἀκούετε ἐν ἐμοί.¶"
+pericope: "[[Phil.1.27 Worthy of the Gospel|Worthy of the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G0073]]"
+- "[[G2192]]"
+- "[[G3634]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G0191]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 1:30**<big><big>[[Phil.1.27 Worthy of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having the same conflict which ye saw in me, and now hear [to be] in me.
 <small><sub>**BSB:**</sub></small>
 since you are encountering the same struggle you saw I had, and now hear that I still have.
-<small><sub>**Literal:**</sub></small>
-the same conflict having such as you saw in me myself and now you hear of in me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.29|<< Philippians 1:29]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.1|Philippians 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G0846\|αὐτὸν]]  [[G0073\|ἀγῶνα]]  [[G2192\|ἔχοντες]]  [[G3634\|οἷον]]  [[G1492H\|εἴδετε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G0191\|ἀκούετε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PAUL|PAUL]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.29|<< Philippians 1:29]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.1|Philippians 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

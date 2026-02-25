@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark of the Covenant
+type: Pericope
 pericope: "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 25
 book/chapter: "[[Exod.25|Exodus 25]]"
-genre:
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.25.10]]"
 - "[[Exod.25.11]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.25.16]]"
 ---
 
-[[Exod.25|Exodus 25:10 - Exodus 25:16]]
+<small>[[Exod.25|Exodus 25:10-16]]</small>
 *The Ark of the Covenant*
 
 [[Exod.25.10|10]] And they shall make an ark \[of\] shittim wood: two cubits and a half \[shall be\] the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.

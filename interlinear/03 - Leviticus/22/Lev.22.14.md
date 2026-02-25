@@ -1,8 +1,66 @@
+---
+title: Leviticus 22:14
+type: Verse
+kjv: "And if a man eat of the holy thing unwittingly, then he shall put the fifth part thereof unto it, and shall give it unto the priest with the holy thing."
+bsb: "If anyone eats a sacred offering in error, he must add a fifth to its value and give the sacred offering to the priest."
+hebrew: "וְאִ֕ישׁ כִּֽי־ יֹאכַ֥ל קֹ֖דֶשׁ בִּשְׁגָגָ֑ה וְיָסַ֤ף חֲמִֽשִׁיתוֹ֙ עָלָ֔יו וְנָתַ֥ן לַכֹּהֵ֖ן אֶת־ הַקֹּֽדֶשׁ׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H6944G]]"
+- "[[H9003]]"
+- "[[H7684]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H2549]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:14**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man eat [of] the holy thing unwittingly, then he shall put the fifth [part] thereof unto it, and shall give [it] unto the priest with the holy thing.
 <small><sub>**BSB:**</sub></small>
 If anyone eats a sacred offering in error, he must add a fifth to its value and give the sacred offering to the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0398\|יֹאכַ֥ל]] [[H6944G\|קֹ֖דֶשׁ]] [[H9003\|בִּ]][[H7684\|שְׁגָגָ֑ה]] [[H9001\|וְ]][[H3254H\|יָסַ֤ף]] [[H2549\|חֲמִֽשִׁית]][[H9023\|וֹ֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H9005\|לַ]][[H3548\|כֹּהֵ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.13|<< Leviticus 22:13]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.15|Leviticus 22:15 >>]]</td></tr></table>
 

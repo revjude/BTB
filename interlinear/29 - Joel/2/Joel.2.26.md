@@ -1,8 +1,67 @@
+---
+title: Joel 2:26
+type: Verse
+kjv: "And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed."
+bsb: "You will have plenty to eat, until you are satisfied. You will praise the name of the LORD your God, who has worked wonders for you. My people will never again be put to shame."
+hebrew: "וַאֲכַלְתֶּ֤ם אָכוֹל֙ וְשָׂב֔וֹעַ וְהִלַּלְתֶּ֗ם אֶת־ שֵׁ֤ם יְהוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־ עָשָׂ֥ה עִמָּכֶ֖ם לְהַפְלִ֑יא וְלֹא־ יֵבֹ֥שׁוּ עַמִּ֖י לְעוֹלָֽם׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H7646]]"
+- "[[H1984B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H6381]]"
+- "[[H3808]]"
+- "[[H0954]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5769I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:26**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.
 <small><sub>**BSB:**</sub></small>
 You will have plenty to eat, until you are satisfied. You will praise the name of the LORD your God, who has worked wonders for you. My people will never again be put to shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֤ם]] [[H0398\|אָכוֹל֙]] [[H9002\|וְ]][[H7646\|שָׂב֔וֹעַ]] [[H9001\|וְ]][[H1984B\|הִלַּלְתֶּ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֤ם]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹ֣הֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H6381\|הַפְלִ֑יא]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0954\|יֵבֹ֥שׁוּ]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9005\|לְ]][[H5769I\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.25|<< Joel 2:25]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.27|Joel 2:27 >>]]</td></tr></table>
 

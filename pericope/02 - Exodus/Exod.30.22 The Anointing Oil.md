@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Anointing Oil
+type: Pericope
 pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 30
 book/chapter: "[[Exod.30|Exodus 30]]"
-genre:
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.30.22]]"
 - "[[Exod.30.23]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.30.33]]"
 ---
 
-[[Exod.30|Exodus 30:22 - Exodus 30:33]]
+<small>[[Exod.30|Exodus 30:22-33]]</small>
 *The Anointing Oil*
 
 [[Exod.30.22|22]] Moreover the LORD spake unto Moses, saying,

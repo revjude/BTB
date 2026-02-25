@@ -1,10 +1,60 @@
+---
+title: John 4:17
+type: Verse
+kjv: "The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:"
+bsb: "“I have no husband,” the woman replied. Jesus said to her, “You are correct to say that you have no husband."
+jesus_said: "Thou hast well said, I have no husband:"
+greek: "ἀπεκρίθη ἡ γυνὴ καὶ εἶπεν αὐτῷ· οὐκ ἔχω ἄνδρα.¶ Λέγει αὐτῇ ὁ Ἰησοῦς· καλῶς εἶπας ὅτι ἄνδρα οὐκ ἔχω·"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G0435H]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G2573]]"
+- "[[G3754G]]"
+texts:
+- NKO
+- no
+---
+
 **John 4:17**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:
 <small><sub>**BSB:**</sub></small>
 “I have no husband,” the woman replied. Jesus said to her, “You are correct to say that you have no husband.
-<small><sub>**Literal:**</sub></small>
-Answered the woman and said to Him: Not I have a husband. Says to her <the> Jesus; Correctly you have spoken that A husband not I have;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.16|<< John 4:16]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.18|John 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω]]  [[G0435H\|ἄνδρα.¶]]  [[G3004G\|Λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2573\|καλῶς]]  [[G2036\|εἶπας]]  [[G3754G\|ὅτι]]  [[G0435H\|ἄνδρα]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.16|<< John 4:16]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.18|John 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

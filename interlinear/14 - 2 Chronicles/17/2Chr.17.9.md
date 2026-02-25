@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 17:9
+type: Verse
+kjv: "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
+bsb: "They taught throughout Judah, taking with them the Book of the Law of the LORD. They went throughout the towns of Judah and taught the people."
+hebrew: "וַֽיְלַמְּדוּ֙ בִּֽיהוּדָ֔ה וְעִ֨מָּהֶ֔ם סֵ֖פֶר תּוֹרַ֣ת יְהוָ֑ה וַיָּסֹ֙בּוּ֙ בְּכָל־ עָרֵ֣י יְהוּדָ֔ה וַֽיְלַמְּד֖וּ בָּעָֽם׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3925G]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H5437H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:9**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they taught in Judah, and [had] the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.
 <small><sub>**BSB:**</sub></small>
 They taught throughout Judah, taking with them the Book of the Law of the LORD. They went throughout the towns of Judah and taught the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H3925G\|יְלַמְּדוּ֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וְ]][[H5973A\|עִ֨מָּ]][[H9038\|הֶ֔ם]] [[H5612H\|סֵ֖פֶר]] [[H8451\|תּוֹרַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5437H\|יָּסֹ֙בּוּ֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַֽ]][[H3925G\|יְלַמְּד֖וּ]] [[H9003\|בָּ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBADIAH|OBADIAH]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic SCHOOL|SCHOOL]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.8|<< 2 Chronicles 17:8]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.10|2 Chronicles 17:10 >>]]</td></tr></table>
 

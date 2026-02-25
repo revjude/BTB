@@ -1,8 +1,55 @@
+---
+title: Job 30:4
+type: Verse
+kjv: "Who cut up mallows by the bushes, and juniper roots for their meat."
+bsb: "They plucked mallow among the shrubs, and the roots of the broom tree were their food."
+hebrew: "הַקֹּטְפִ֣ים מַלּ֣וּחַ עֲלֵי־ שִׂ֑יחַ וְשֹׁ֖רֶשׁ רְתָמִ֣ים לַחְמָֽם׃"
+pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JUNIPER|JUNIPER]]"
+- "[[topic MALLOWS|MALLOWS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9009]]"
+- "[[H6998]]"
+- "[[H4408]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7880]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H7574]]"
+- "[[H3899G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:4**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who cut up mallows by the bushes, and juniper roots [for] their meat.
 <small><sub>**BSB:**</sub></small>
 They plucked mallow among the shrubs, and the roots of the broom tree were their food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6998\|קֹּטְפִ֣ים]] [[H4408\|מַלּ֣וּחַ]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H7880\|שִׂ֑יחַ]] [[H9002\|וְ]][[H8328\|שֹׁ֖רֶשׁ]] [[H7574\|רְתָמִ֣ים]] [[H3899G\|לַחְמָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUNIPER|JUNIPER]] • [[topic MALLOWS|MALLOWS]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.3|<< Job 30:3]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.5|Job 30:5 >>]]</td></tr></table>
 

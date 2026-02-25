@@ -1,8 +1,67 @@
+---
+title: Ecclesiastes 2:1
+type: Verse
+kjv: "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity."
+bsb: "I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile."
+hebrew: "אָמַ֤רְתִּֽי אֲנִי֙ בְּלִבִּ֔י לְכָה־ נָּ֛א אֲנַסְּכָ֛ה בְשִׂמְחָ֖ה וּרְאֵ֣ה בְט֑וֹב וְהִנֵּ֥ה גַם־ ה֖וּא הָֽבֶל׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5254G]]"
+- "[[H9031]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H7200K]]"
+- "[[H2896B]]"
+- "[[H2009]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:1**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
 I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֤רְתִּֽי]] [[H0589\|אֲנִי֙]] [[H9003\|בְּ]][[H3820A\|לִבִּ֔]][[H9020\|י]] [[H1980K\|לְכָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֛א]] [[H5254G\|אֲנַסְּ]][[H9031\|כָ֛ה]] [[H9003\|בְ]][[H8057\|שִׂמְחָ֖ה]] [[H9002\|וּ]][[H7200K\|רְאֵ֣ה]] [[H9003\|בְ]][[H2896B\|ט֑וֹב]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H1571\|גַם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic EPICUREANS|EPICUREANS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.18|<< Ecclesiastes 1:18]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.2|Ecclesiastes 2:2 >>]]</td></tr></table>
 

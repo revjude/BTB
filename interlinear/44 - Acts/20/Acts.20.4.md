@@ -1,10 +1,73 @@
+---
+title: Acts 20:4
+type: Verse
+kjv: "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus."
+bsb: "Paul was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia."
+greek: "συνείπετο δὲ αὐτῷ ἄχρι τῆς Ἀσίας Σώπατρος Πύρρου Βεροιαῖος, Θεσσαλονικέων δὲ Ἀρίσταρχος καὶ Σεκοῦνδος καὶ Γάϊος Δερβαῖος καὶ Τιμόθεος· Ἀσιανοὶ δὲ Τύχικος καὶ Τρόφιμος,"
+pericope: "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARISTARCHUS|ARISTARCHUS]]"
+- "[[topic ASIA|ASIA]]"
+- "[[topic BEREA|BEREA]]"
+- "[[topic DERBE|DERBE]]"
+- "[[topic GAIUS|GAIUS]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic SECUNDUS|SECUNDUS]]"
+- "[[topic SOPATER|SOPATER]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic TROPHIMUS|TROPHIMUS]]"
+- "[[topic TYCHICUS|TYCHICUS]]"
+strongs:
+- "[[G4902]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0891]]"
+- "[[G3588]]"
+- "[[G0773]]"
+- "[[G4986]]"
+- "[[G6077]]"
+- "[[G0961]]"
+- "[[G2331]]"
+- "[[G0708]]"
+- "[[G2532]]"
+- "[[G4580]]"
+- "[[G1050H]]"
+- "[[G1190]]"
+- "[[G5095]]"
+- "[[G0774]]"
+- "[[G5190]]"
+- "[[G5161]]"
+texts:
+- NKO
+- KO
+- NO
+---
+
 **Acts 20:4**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 <small><sub>**BSB:**</sub></small>
 Paul was accompanied by Sopater son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia.
-<small><sub>**Literal:**</sub></small>
-Was accompanied by then him until <the> Asia Sopater [son] of Pyrrhus a Berean, of the Thessalonians now Aristarchus and Secundus and Gaius of Derbe and Timothy; [the] Asians now Tychicus and Trophimus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.3|<< Acts 20:3]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.5|Acts 20:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4902\|συνείπετο]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G0891\|ἄχρι]]  [[G3588\|τῆς]]  [[G0773\|Ἀσίας]]  [[G4986\|Σώπατρος]]  [[G6077\|Πύρρου]]  [[G0961\|Βεροιαῖος,]]  [[G2331\|Θεσσαλονικέων]]  [[G1161\|δὲ]]  [[G0708\|Ἀρίσταρχος]]  [[G2532\|καὶ]]  [[G4580\|Σεκοῦνδος]]  [[G2532\|καὶ]]  [[G1050H\|Γάϊος]]  [[G1190\|Δερβαῖος]]  [[G2532\|καὶ]]  [[G5095\|Τιμόθεος·]]  [[G0774\|Ἀσιανοὶ]]  [[G1161\|δὲ]]  [[G5190\|Τύχικος]]  [[G2532\|καὶ]]  [[G5161\|Τρόφιμος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARISTARCHUS|ARISTARCHUS]] • [[topic ASIA|ASIA]] • [[topic BEREA|BEREA]] • [[topic DERBE|DERBE]] • [[topic GAIUS|GAIUS]] • [[topic MACEDONIA|MACEDONIA]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic SECUNDUS|SECUNDUS]] • [[topic SOPATER|SOPATER]] • [[topic THESSALONICA|THESSALONICA]] • [[topic TIMOTHY|TIMOTHY]] • [[topic TROPHIMUS|TROPHIMUS]] • [[topic TYCHICUS|TYCHICUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.3|<< Acts 20:3]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.5|Acts 20:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

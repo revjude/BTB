@@ -1,10 +1,59 @@
+---
+title: Luke 17:11
+type: Verse
+kjv: "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee."
+bsb: "While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee."
+greek: "Καὶ ἐγένετο ἐν τῷ πορεύεσθαι αὐτὸν εἰς Ἰερουσαλὴμ καὶ αὐτὸς διήρχετο διὰ μέσον Σαμαρείας καὶ Γαλιλαίας."
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G1330]]"
+- "[[G1223]]"
+- "[[G3319]]"
+- "[[G4540]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **Luke 17:11**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
 <small><sub>**BSB:**</sub></small>
 While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee.
-<small><sub>**Literal:**</sub></small>
-And it came to pass in the going up him to Jerusalem that He himself was passing through [the] midst of Samaria and Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.10|<< Luke 17:10]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.12|Luke 17:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4198\|πορεύεσθαι]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1330\|διήρχετο]]  [[G1223\|διὰ]]  [[G3319\|μέσον]]  [[G4540\|Σαμαρείας]]  [[G2532\|καὶ]]  [[G1056G\|Γαλιλαίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.10|<< Luke 17:10]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.12|Luke 17:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Ruth 1:3
+type: Verse
+kjv: "And Elimelech Naomi’s husband died; and she was left, and her two sons."
+bsb: "Then Naomi’s husband Elimelech died, and she was left with her two sons,"
+hebrew: "וַיָּ֥מָת אֱלִימֶ֖לֶךְ אִ֣ישׁ נָעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃"
+pericope: "[[Ruth.1.1 Naomi Becomes a Widow|Naomi Becomes a Widow]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic ELIMELECH|ELIMELECH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H0458]]"
+- "[[H0376H]]"
+- "[[H5281]]"
+- "[[H7604]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:3**<big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elimelech Naomi’s husband died; and she was left, and her two sons.
 <small><sub>**BSB:**</sub></small>
 Then Naomi’s husband Elimelech died, and she was left with her two sons,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H0458\|אֱלִימֶ֖לֶךְ]] [[H0376H\|אִ֣ישׁ]] [[H5281\|נָעֳמִ֑י]] [[H9001\|וַ]][[H7604\|תִּשָּׁאֵ֥ר]] [[H1931\|הִ֖יא]] [[H9002\|וּ]][[H8147\|שְׁנֵ֥י]] [[H1121A\|בָנֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic ELIMELECH|ELIMELECH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.2|<< Ruth 1:2]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.4|Ruth 1:4 >>]]</td></tr></table>
 

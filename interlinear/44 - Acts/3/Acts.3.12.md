@@ -1,10 +1,68 @@
+---
+title: Acts 3:12
+type: Verse
+kjv: "And when Peter saw it, he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?"
+bsb: "And when Peter saw this, he addressed the people: “Men of Israel, why are you surprised by this? Why do you stare at us as if by our own power or godliness we had made this man walk?"
+greek: "ἰδὼν δὲ ὁ Πέτρος ἀπεκρίνατο πρὸς τὸν λαόν· ἄνδρες Ἰσραηλῖται, τί θαυμάζετε ἐπὶ τούτῳ, ἢ ἡμῖν τί ἀτενίζετε ὡς ἰδίᾳ δυνάμει ἢ εὐσεβείᾳ πεποιηκόσιν τοῦ περιπατεῖν αὐτόν;"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0611]]"
+- "[[G4314]]"
+- "[[G2992]]"
+- "[[G0435G]]"
+- "[[G2475]]"
+- "[[G5101]]"
+- "[[G2296]]"
+- "[[G1909]]"
+- "[[G3778]]"
+- "[[G2228]]"
+- "[[G3165]]"
+- "[[G0816]]"
+- "[[G5613]]"
+- "[[G2398]]"
+- "[[G1411]]"
+- "[[G2150]]"
+- "[[G4160G]]"
+- "[[G4043]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 3:12**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Peter saw [it], he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?
 <small><sub>**BSB:**</sub></small>
 And when Peter saw this, he addressed the people: “Men of Israel, why are you surprised by this? Why do you stare at us as if by our own power or godliness we had made this man walk?
-<small><sub>**Literal:**</sub></small>
-Having seen [it] however <the> Peter answered to the people: Men Israelites, why wonder you at this? Or on us why you look intently as if by [our] own power or godliness having made <the> to walk him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.11|<< Acts 3:11]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.13|Acts 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0611\|ἀπεκρίνατο]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαόν·]]  [[G0435G\|ἄνδρες]]  [[G2475\|Ἰσραηλῖται,]]  [[G5101\|τί]]  [[G2296\|θαυμάζετε]]  [[G1909\|ἐπὶ]]  [[G3778\|τούτῳ,]]  [[G2228\|ἢ]]  [[G3165\|ἡμῖν]]  [[G5101\|τί]]  [[G0816\|ἀτενίζετε]]  [[G5613\|ὡς]]  [[G2398\|ἰδίᾳ]]  [[G1411\|δυνάμει]]  [[G2228\|ἢ]]  [[G2150\|εὐσεβείᾳ]]  [[G4160G\|πεποιηκόσιν]]  [[G3588\|τοῦ]]  [[G4043\|περιπατεῖν]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic HUMILITY|HUMILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.11|<< Acts 3:11]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.13|Acts 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

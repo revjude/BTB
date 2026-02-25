@@ -1,8 +1,61 @@
+---
+title: Jeremiah 10:14
+type: Verse
+kjv: "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them."
+bsb: "Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them."
+hebrew: "נִבְעַ֤ר כָּל־ אָדָם֙ מִדַּ֔עַת הֹבִ֥ישׁ כָּל־ צוֹרֵ֖ף מִפָּ֑סֶל כִּ֛י שֶׁ֥קֶר נִסְכּ֖וֹ וְלֹא־ ר֥וּחַ בָּֽם׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H1197B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9006]]"
+- "[[H1847]]"
+- "[[H3001]]"
+- "[[H6884]]"
+- "[[H6459]]"
+- "[[H3588A]]"
+- "[[H8267]]"
+- "[[H5262]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7307H]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:14**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man is brutish in [his] knowledge: every founder is confounded by the graven image: for his molten image [is] falsehood, and [there is] no breath in them.
 <small><sub>**BSB:**</sub></small>
 Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H1197B\|נִבְעַ֤ר]] [[H3605\|כָּל]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H9006\|מִ]][[H1847\|דַּ֔עַת]] [[H3001\|הֹבִ֥ישׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H6884\|צוֹרֵ֖ף]] [[H9006\|מִ]][[H6459\|פָּ֑סֶל]] [[H3588A\|כִּ֛י]] [[H8267\|שֶׁ֥קֶר]] [[H5262\|נִסְכּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7307H\|ר֥וּחַ]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.13|<< Jeremiah 10:13]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.15|Jeremiah 10:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

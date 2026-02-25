@@ -1,10 +1,56 @@
+---
+title: Acts 3:24
+type: Verse
+kjv: "Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days."
+bsb: "Indeed, all the prophets from Samuel on, as many as have spoken, have proclaimed these days."
+greek: "καὶ πάντες δὲ οἱ προφῆται ἀπὸ Σαμουὴλ καὶ τῶν καθεξῆς ὅσοι ἐλάλησαν καὶ κατήγγειλαν τὰς ἡμέρας ταύτας,"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G0575]]"
+- "[[G4545]]"
+- "[[G2517]]"
+- "[[G3745]]"
+- "[[G2980]]"
+- "[[G2605]]"
+- "[[G2250]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 3:24**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
 <small><sub>**BSB:**</sub></small>
 Indeed, all the prophets from Samuel on, as many as have spoken, have proclaimed these days.
-<small><sub>**Literal:**</sub></small>
-And all now the prophets from Samuel and those subsequently as many as spoke also told of <the> days these,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.23|<< Acts 3:23]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.25|Acts 3:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται]]  [[G0575\|ἀπὸ]]  [[G4545\|Σαμουὴλ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2517\|καθεξῆς]]  [[G3745\|ὅσοι]]  [[G2980\|ἐλάλησαν]]  [[G2532\|καὶ]]  [[G2605\|κατήγγειλαν]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G3778\|ταύτας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.23|<< Acts 3:23]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.25|Acts 3:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

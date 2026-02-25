@@ -1,8 +1,78 @@
+---
+title: Exodus 13:3
+type: Verse
+kjv: "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten."
+bsb: "So Moses told the people, “Remember this day, the day you came out of Egypt, out of the house of slavery; for the LORD brought you out of it by the strength of His hand. And nothing leavened shall be eaten."
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־ הָעָ֗ם זָכ֞וֹר אֶת־ הַיּ֤וֹם הַזֶּה֙ אֲשֶׁ֨ר יְצָאתֶ֤ם מִמִּצְרַ֙יִם֙ מִבֵּ֣ית עֲבָדִ֔ים כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִ֧יא יְהֹוָ֛ה אֶתְכֶ֖ם מִזֶּ֑ה וְלֹ֥א יֵאָכֵ֖ל חָמֵֽץ׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H1004M]]"
+- "[[H5650]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H2392]]"
+- "[[H3027H]]"
+- "[[H3318H]]"
+- "[[H3068G]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H2557A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:3**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this [place]: there shall no leavened bread be eaten.
 <small><sub>**BSB:**</sub></small>
 So Moses told the people, “Remember this day, the day you came out of Egypt, out of the house of slavery; for the LORD brought you out of it by the strength of His hand. And nothing leavened shall be eaten.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H2142\|זָכ֞וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318G\|יְצָאתֶ֤ם]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H5650\|עֲבָדִ֔ים]] [[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H2392\|חֹ֣זֶק]] [[H3027H\|יָ֔ד]] [[H3318H\|הוֹצִ֧יא]] [[H3068G\|יְהֹוָ֛ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0398\|יֵאָכֵ֖ל]] [[H2557A\|חָמֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic PASSOVER|PASSOVER]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.2|<< Exodus 13:2]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.4|Exodus 13:4 >>]]</td></tr></table>
 

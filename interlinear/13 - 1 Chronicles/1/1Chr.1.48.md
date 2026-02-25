@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 1:48
+type: Verse
+kjv: "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead."
+bsb: "When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place."
+hebrew: "וַיָּ֖מָת שַׂמְלָ֑ה וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שָׁא֖וּל מֵרְחֹב֥וֹת הַנָּהָֽר׃"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic KING|KING]]"
+- "[[topic REHOBOTH|REHOBOTH]]"
+- "[[topic SAMLAH|SAMLAH]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SHAUL|SHAUL]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8072]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H7586I]]"
+- "[[H9006]]"
+- "[[H7344H]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:48**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H8072\|שַׂמְלָ֑ה]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H7586I\|שָׁא֖וּל]] [[H9006\|מֵ]][[H7344H\|רְחֹב֥וֹת]] [[H9009\|הַ]][[H5104G\|נָּהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic KING|KING]] • [[topic REHOBOTH|REHOBOTH]] • [[topic SAMLAH|SAMLAH]] • [[topic SAUL|SAUL]] • [[topic SHAUL|SHAUL]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.47|<< 1 Chronicles 1:47]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.49|1 Chronicles 1:49 >>]]</td></tr></table>
 

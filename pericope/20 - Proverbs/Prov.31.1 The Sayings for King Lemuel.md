@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sayings for King Lemuel
+type: Pericope
 pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 31
 book/chapter: "[[Prov.31|Proverbs 31]]"
-genre:
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 9
 verses:
 - "[[Prov.31.1]]"
 - "[[Prov.31.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Prov.31.9]]"
 ---
 
-[[Prov.31|Proverbs 31:1 - Proverbs 31:9]]
+<small>[[Prov.31|Proverbs 31:1-9]]</small>
 *The Sayings for King Lemuel*
 
 [[Prov.31.1|1]] The words of king Lemuel, the prophecy that his mother taught him.

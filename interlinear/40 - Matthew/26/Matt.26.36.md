@@ -1,10 +1,64 @@
+---
+title: Matthew 26:36
+type: Verse
+kjv: "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder."
+bsb: "Then Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.”"
+jesus_said: "Sit ye here, while I go and pray yonder."
+greek: "Τότε ἔρχεται μετ᾽ αὐτῶν ὁ Ἰησοῦς εἰς χωρίον λεγόμενον Γεθσημανὶ καὶ λέγει τοῖς μαθηταῖς· καθίσατε αὐτοῦ ἕως οὗ ἀπελθὼν ἐκεῖ προσεύξωμαι.¶"
+pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G5119]]"
+- "[[G2064]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G5564G]]"
+- "[[G3004H]]"
+- "[[G1068]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3101]]"
+- "[[G2523]]"
+- "[[G0847]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0565]]"
+- "[[G1563]]"
+- "[[G4336]]"
+texts:
+- NKO
+---
+
 **Matthew 26:36**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.”
-<small><sub>**Literal:**</sub></small>
-Then comes with them <the> Jesus to a place being named Gethsemane and He says to the disciples; do sit here until that having gone away over there I may pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.35|<< Matthew 26:35]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.37|Matthew 26:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G2064\|ἔρχεται]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G5564G\|χωρίον]]  [[G3004H\|λεγόμενον]]  [[G1068\|Γεθσημανὶ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς·]]  [[G2523\|καθίσατε]]  [[G0847\|αὐτοῦ]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0565\|ἀπελθὼν]]  [[G1563\|ἐκεῖ]]  [[G4336\|προσεύξωμαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.35|<< Matthew 26:35]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.37|Matthew 26:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

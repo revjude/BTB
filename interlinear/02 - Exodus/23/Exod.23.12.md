@@ -1,8 +1,74 @@
+---
+title: Exodus 23:12
+type: Verse
+kjv: "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed."
+bsb: "For six days you are to do your work, but on the seventh day you must cease, so that your ox and your donkey may rest and the son of your maidservant may be refreshed, as well as the foreign resident."
+hebrew: "שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ וּבַיּ֥וֹם הַשְּׁבִיעִ֖י תִּשְׁבֹּ֑ת לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־ אֲמָתְךָ֖ וְהַגֵּֽר׃"
+pericope: "[[Exod.23.10 Sabbath Laws|Sabbath Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic REST|REST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H6213A]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7673A]]"
+- "[[H4616]]"
+- "[[H5117]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H5314]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0519]]"
+- "[[H1616]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:12**<big><big>[[Exod.23.10 Sabbath Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.
 <small><sub>**BSB:**</sub></small>
 For six days you are to do your work, but on the seventh day you must cease, so that your ox and your donkey may rest and the son of your maidservant may be refreshed, as well as the foreign resident.
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֤שֶׁת]] [[H3117G\|יָמִים֙]] [[H6213A\|תַּעֲשֶׂ֣ה]] [[H4639G\|מַעֲשֶׂ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֖י]] [[H7673A\|תִּשְׁבֹּ֑ת]] [[H4616\|לְמַ֣עַן]] [[H5117\|יָנ֗וּחַ]] [[H7794\|שֽׁוֹרְ]][[H9021\|ךָ֙]] [[H9002\|וַ]][[H2543\|חֲמֹרֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H5314\|יִנָּפֵ֥שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0519\|אֲמָתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H9009\|הַ]][[H1616\|גֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BULLOCK|BULLOCK]] • [[topic INDUSTRY|INDUSTRY]] • [[topic LABOR|LABOR]] • [[topic REST|REST]] • [[topic SABBATH|SABBATH]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.11|<< Exodus 23:11]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.13|Exodus 23:13 >>]]</td></tr></table>
 

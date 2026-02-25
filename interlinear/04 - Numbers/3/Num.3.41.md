@@ -1,8 +1,66 @@
+---
+title: Numbers 3:41
+type: Verse
+kjv: "And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel."
+bsb: "You are to take the Levites for Me—I am the LORD—in place of all the firstborn of Israel, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites.”"
+hebrew: "וְלָקַחְתָּ֨ אֶת־ הַלְוִיִּ֥ם לִי֙ אֲנִ֣י יְהוָ֔ה תַּ֥חַת כָּל־ בְּכֹ֖ר בִּבְנֵ֣י יִשְׂרָאֵ֑ל וְאֵת֙ בֶּהֱמַ֣ת הַלְוִיִּ֔ם תַּ֣חַת כָּל־ בְּכ֔וֹר בְּבֶהֱמַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H8478H]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:41**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the Levites for me (I [am] the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 You are to take the Levites for Me—I am the LORD—in place of all the firstborn of Israel, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֨]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֥ם]] [[H9005\|לִ]][[H9030\|י֙]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H8478H\|תַּ֥חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכֹ֖ר]] [[H9003\|בִּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H0929\|בֶּהֱמַ֣ת]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H8478H\|תַּ֣חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכ֔וֹר]] [[H9003\|בְּ]][[H0929\|בֶהֱמַ֖ת]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic LEVITES|LEVITES]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.40|<< Numbers 3:40]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.42|Numbers 3:42 >>]]</td></tr></table>
 

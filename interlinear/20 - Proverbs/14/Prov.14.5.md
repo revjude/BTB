@@ -1,8 +1,50 @@
+---
+title: Proverbs 14:5
+type: Verse
+kjv: "A faithful witness will not lie: but a false witness will utter lies."
+bsb: "An honest witness does not deceive, but a dishonest witness pours forth lies."
+hebrew: "עֵ֣ד אֱ֭מוּנִים לֹ֣א יְכַזֵּ֑ב וְיָפִ֥יחַ כְּ֝זָבִ֗ים עֵ֣ד שָֽׁקֶר׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[H5707]]"
+- "[[H0529]]"
+- "[[H3808]]"
+- "[[H3576]]"
+- "[[H9002]]"
+- "[[H6315]]"
+- "[[H3577]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:5**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A faithful witness will not lie: but a false witness will utter lies.
 <small><sub>**BSB:**</sub></small>
 An honest witness does not deceive, but a dishonest witness pours forth lies.
+<small><sub>**Hebrew:**</sub></small>
+[[H5707\|עֵ֣ד]] [[H0529\|אֱ֭מוּנִים]] [[H3808\|לֹ֣א]] [[H3576\|יְכַזֵּ֑ב]] [[H9002\|וְ]][[H6315\|יָפִ֥יחַ]] [[H3577\|כְּ֝זָבִ֗ים]] [[H5707\|עֵ֣ד]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.4|<< Proverbs 14:4]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.6|Proverbs 14:6 >>]]</td></tr></table>
 

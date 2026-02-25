@@ -1,10 +1,65 @@
+---
+title: Revelation 9:18
+type: Verse
+kjv: "By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths."
+bsb: "A third of mankind was killed by the three plagues of fire, smoke, and sulfur that proceeded from their mouths."
+greek: "ἀπὸ τῶν τριῶν πληγῶν τούτων ἀπεκτάνθησαν τὸ τρίτον τῶν ἀνθρώπων, ἐκ τοῦ πυρὸς καὶ ἐκ τοῦ καπνοῦ καὶ ἐκ τοῦ θείου τοῦ ἐκπορευομένου ἐκ τῶν στομάτων αὐτῶν."
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5140]]"
+- "[[G4127]]"
+- "[[G3778]]"
+- "[[G0615]]"
+- "[[G5154]]"
+- "[[G0444]]"
+- "[[G1537]]"
+- "[[G4442]]"
+- "[[G2532]]"
+- "[[G2586]]"
+- "[[G2303]]"
+- "[[G1607]]"
+- "[[G4750]]"
+- "[[G0846]]"
+texts:
+- N(k)O
+- NKO
+- NO
+- NK(o)
+- k
+---
+
 **Revelation 9:18**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
 <small><sub>**BSB:**</sub></small>
 A third of mankind was killed by the three plagues of fire, smoke, and sulfur that proceeded from their mouths.
-<small><sub>**Literal:**</sub></small>
-by <the> three plagues these was killed <the> a third <the> of mankind, by the fire and from the smoke and from the brimstone which is proceeding out of the mouths of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.17|<< Revelation 9:17]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.19|Revelation 9:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G5140\|τριῶν]]  [[G4127\|πληγῶν]]  [[G3778\|τούτων]]  [[G0615\|ἀπεκτάνθησαν]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4442\|πυρὸς]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2586\|καπνοῦ]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2303\|θείου]]  [[G3588\|τοῦ]]  [[G1607\|ἐκπορευομένου]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4750\|στομάτων]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIMSTONE|BRIMSTONE]] • [[topic CAVALRY|CAVALRY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.17|<< Revelation 9:17]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.19|Revelation 9:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

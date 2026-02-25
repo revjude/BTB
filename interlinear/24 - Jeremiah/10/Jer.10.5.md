@@ -1,8 +1,64 @@
+---
+title: Jeremiah 10:5
+type: Verse
+kjv: "They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good."
+bsb: "Like scarecrows in a cucumber patch, their idols cannot speak. They must be carried because they cannot walk. Do not fear them, for they can do no harm, and neither can they do any good.”"
+hebrew: "כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֙מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל־ תִּֽירְא֤וּ מֵהֶם֙ כִּי־ לֹ֣א יָרֵ֔עוּ וְגַם־ הֵיטֵ֖יב אֵ֥ין אוֹתָֽם׃ ס"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9004]]"
+- "[[H8560]]"
+- "[[H4750]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H5375H]]"
+- "[[H3588A]]"
+- "[[H6805]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H7489A]]"
+- "[[H1571]]"
+- "[[H3190]]"
+- "[[H0369]]"
+- "[[H0854]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 10:5**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also [is it] in them to do good.
 <small><sub>**BSB:**</sub></small>
 Like scarecrows in a cucumber patch, their idols cannot speak. They must be carried because they cannot walk. Do not fear them, for they can do no harm, and neither can they do any good.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H8560\|תֹ֨מֶר]] [[H4750\|מִקְשָׁ֥ה]] [[H1992\|הֵ֙מָּה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1696G\|יְדַבֵּ֔רוּ]] [[H5375H\|נָשׂ֥וֹא]] [[H5375H\|יִנָּשׂ֖וּא]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֣א]] [[H6805\|יִצְעָ֑דוּ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֤וּ]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H7489A\|יָרֵ֔עוּ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3190\|הֵיטֵ֖יב]] [[H0369\|אֵ֥ין]] [[H0854\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.4|<< Jeremiah 10:4]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.6|Jeremiah 10:6 >>]]</td></tr></table>
 
@@ -27,7 +83,7 @@ Like scarecrows in a cucumber patch, their idols cannot speak. They must be carr
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] doing good  |**<big>&#8207;[[H3190\|הֵיטֵ֖יב]]&#8207; </big>**| hei.Teiv<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with them  |**<big>&#8207;[[H0854\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  |**<big>&#8207;[[H0854\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.4|<< Jeremiah 10:4]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.6|Jeremiah 10:6 >>]]</td></tr></table>
 
 

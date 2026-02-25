@@ -1,8 +1,64 @@
+---
+title: Joshua 18:10
+type: Verse
+kjv: "And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions."
+bsb: "And Joshua cast lots for them in the presence of the LORD at Shiloh, where he distributed the land to the Israelites according to their divisions."
+hebrew: "וַיַּשְׁלֵךְ֩ לָהֶ֨ם יְהוֹשֻׁ֧עַ גּוֹרָ֛ל בְּשִׁלֹ֖ה לִפְנֵ֣י יְהוָ֑ה וַיְחַלֶּק־ שָׁ֨ם יְהוֹשֻׁ֧עַ אֶת־ הָאָ֛רֶץ לִבְנֵ֥י יִשְׂרָאֵ֖ל כְּמַחְלְקֹתָֽם׃ פ"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H1486]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H2505A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H4256]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 18:10**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.
 <small><sub>**BSB:**</sub></small>
 And Joshua cast lots for them in the presence of the LORD at Shiloh, where he distributed the land to the Israelites according to their divisions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7993\|יַּשְׁלֵךְ֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H3091G\|יְהוֹשֻׁ֧עַ]] [[H1486\|גּוֹרָ֛ל]] [[H9003\|בְּ]][[H7887\|שִׁלֹ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H2505A\|יְחַלֶּק]][[H9014\|־]] [[H8033G\|שָׁ֨ם]] [[H3091G\|יְהוֹשֻׁ֧עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9004\|כְּ]][[H4256\|מַחְלְקֹתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT, THE|LOT, THE]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.9|<< Joshua 18:9]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.11|Joshua 18:11 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ And Joshua cast lots for them in the presence of the LORD at Shiloh, where he di
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֛רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| according to divisions their  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4256\|מַחְלְקֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mach.le.ko.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to divisions their  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4256\|מַחְלְקֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mach.le.ko.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.9|<< Joshua 18:9]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.11|Joshua 18:11 >>]]</td></tr></table>
 
 

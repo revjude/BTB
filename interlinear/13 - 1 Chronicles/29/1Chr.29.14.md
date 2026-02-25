@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 29:14
+type: Verse
+kjv: "But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee."
+bsb: "But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You."
+hebrew: "וְכִ֨י מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י כִּֽי־ נַעְצֹ֣ר כֹּ֔חַ לְהִתְנַדֵּ֖ב כָּזֹ֑את כִּֽי־ מִמְּךָ֣ הַכֹּ֔ל וּמִיָּדְךָ֖ נָתַ֥נּוּ לָֽךְ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H0589]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H6113]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H5068]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H9006]]"
+- "[[H3027I]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:14**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But who [am] I, and what [is] my people, that we should be able to offer so willingly after this sort? for all things [come] of thee, and of thine own have we given thee.
 <small><sub>**BSB:**</sub></small>
 But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֨י]] [[H4310\|מִ֤י]] [[H0589\|אֲנִי֙]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6113\|נַעְצֹ֣ר]] [[H3581B\|כֹּ֔חַ]] [[H9005\|לְ]][[H5068\|הִתְנַדֵּ֖ב]] [[H9004\|כָּ]][[H2063\|זֹ֑את]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4480A\|מִמְּ]][[H9031\|ךָ֣]] [[H9009\|הַ]][[H3605\|כֹּ֔ל]] [[H9002\|וּ]][[H9006\|מִ]][[H3027I\|יָּדְ]][[H9021\|ךָ֖]] [[H5414G\|נָתַ֥נּוּ]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.13|<< 1 Chronicles 29:13]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.15|1 Chronicles 29:15 >>]]</td></tr></table>
 

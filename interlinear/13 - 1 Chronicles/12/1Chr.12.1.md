@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 12:1
+type: Verse
+kjv: "Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war."
+bsb: "Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;"
+hebrew: "וְאֵ֗לֶּה הַבָּאִ֤ים אֶל־ דָּוִיד֙ לְצִ֣יקְלַ֔ג ע֣וֹד עָצ֔וּר מִפְּנֵ֖י שָׁא֣וּל בֶּן־ קִ֑ישׁ וְהֵ֙מָּה֙ בַּגִּבּוֹרִ֔ים עֹזְרֵ֖י הַמִּלְחָמָֽה׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ZIKLAG|ZIKLAG]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H6860]]"
+- "[[H5750]]"
+- "[[H6113]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H7586G]]"
+- "[[H1121A]]"
+- "[[H7027G]]"
+- "[[H1992]]"
+- "[[H9003]]"
+- "[[H1368]]"
+- "[[H5826]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:1**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they [were] among the mighty men, helpers of the war.
 <small><sub>**BSB:**</sub></small>
 Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H9009\|הַ]][[H0935G\|בָּאִ֤ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִיד֙]] [[H9005\|לְ]][[H6860\|צִ֣יקְלַ֔ג]] [[H5750\|ע֣וֹד]] [[H6113\|עָצ֔וּר]] [[H9006\|מִ]][[H6440G\|פְּנֵ֖י]] [[H7586G\|שָׁא֣וּל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7027G\|קִ֑ישׁ]] [[H9002\|וְ]][[H1992\|הֵ֙מָּה֙]] [[H9003\|בַּ]][[H1368\|גִּבּוֹרִ֔ים]] [[H5826\|עֹזְרֵ֖י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic DAVID|DAVID]] • [[topic ZIKLAG|ZIKLAG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.47|<< 1 Chronicles 11:47]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.2|1 Chronicles 12:2 >>]]</td></tr></table>
 

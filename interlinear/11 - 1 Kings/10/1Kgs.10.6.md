@@ -1,8 +1,64 @@
+---
+title: 1 Kings 10:6
+type: Verse
+kjv: "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom."
+bsb: "She said to the king, “The report I heard in my own country about your words and wisdom is true."
+hebrew: "וַתֹּ֙אמֶר֙ אֶל־ הַמֶּ֔לֶךְ אֱמֶת֙ הָיָ֣ה הַדָּבָ֔ר אֲשֶׁ֥ר שָׁמַ֖עְתִּי בְּאַרְצִ֑י עַל־ דְּבָרֶ֖יךָ וְעַל־ חָכְמָתֶֽךָ׃"
+pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0571H]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:6**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom.
 <small><sub>**BSB:**</sub></small>
 She said to the king, “The report I heard in my own country about your words and wisdom is true.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0571H\|אֱמֶת֙]] [[H1961\|הָיָ֣ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שָׁמַ֖עְתִּי]] [[H9003\|בְּ]][[H0776G\|אַרְצִ֑]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דְּבָרֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2451\|חָכְמָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUEEN|QUEEN]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.5|<< 1 Kings 10:5]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.7|1 Kings 10:7 >>]]</td></tr></table>
 

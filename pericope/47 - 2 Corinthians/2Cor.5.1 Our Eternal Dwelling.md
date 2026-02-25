@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Our Eternal Dwelling
+type: Pericope
 pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 5
 book/chapter: "[[2Cor.5|2 Corinthians 5]]"
-genre:
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 10
 verses:
 - "[[2Cor.5.1]]"
 - "[[2Cor.5.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Cor.5.10]]"
 ---
 
-[[2Cor.5|2 Corinthians 5:1 - 2 Corinthians 5:10]]
+<small>[[2Cor.5|2 Corinthians 5:1-10]]</small>
 *Our Eternal Dwelling*
 
 [[2Cor.5.1|1]] For we know that if our earthly house of \[this\] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.

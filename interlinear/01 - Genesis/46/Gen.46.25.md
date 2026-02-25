@@ -1,8 +1,64 @@
+---
+title: Genesis 46:25
+type: Verse
+kjv: "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven."
+bsb: "These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all."
+hebrew: "אֵ֚לֶּה בְּנֵ֣י בִלְהָ֔ה אֲשֶׁר־ נָתַ֥ן לָבָ֖ן לְרָחֵ֣ל בִּתּ֑וֹ וַתֵּ֧לֶד אֶת־ אֵ֛לֶּה לְיַעֲקֹ֖ב כָּל־ נֶ֥פֶשׁ שִׁבְעָֽה׃"
+pericope: "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BILHAH|BILHAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H1090A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H7354]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H5315J]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:25**<big><big>[[Gen.46.23 The Children of Bilhah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls [were] seven.
 <small><sub>**BSB:**</sub></small>
 These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H1090A\|בִלְהָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H3837A\|לָבָ֖ן]] [[H9005\|לְ]][[H7354\|רָחֵ֣ל]] [[H1323G\|בִּתּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3205\|תֵּ֧לֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֛לֶּה]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נֶ֥פֶשׁ]] [[H7651\|שִׁבְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILHAH|BILHAH]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.24|<< Genesis 46:24]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.26|Genesis 46:26 >>]]</td></tr></table>
 

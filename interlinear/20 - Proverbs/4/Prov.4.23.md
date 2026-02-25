@@ -1,8 +1,58 @@
+---
+title: Proverbs 4:23
+type: Verse
+kjv: "Keep thy heart with all diligence; for out of it are the issues of life."
+bsb: "Guard your heart with all diligence, for from it flow springs of life."
+hebrew: "מִֽכָּל־ מִ֭שְׁמָר נְצֹ֣ר לִבֶּ֑ךָ כִּֽי־ מִ֝מֶּ֗נּוּ תּוֹצְא֥וֹת חַיִּֽים׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4929]]"
+- "[[H5341]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H8444]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:23**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thy heart with all diligence; for out of it [are] the issues of life.
 <small><sub>**BSB:**</sub></small>
 Guard your heart with all diligence, for from it flow springs of life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִֽ]][[H3605\|כָּל]][[H9014\|־]] [[H4929\|מִ֭שְׁמָר]] [[H5341\|נְצֹ֣ר]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4480A\|מִ֝מֶּ֗]][[H9033\|נּוּ]] [[H8444\|תּוֹצְא֥וֹת]] [[H2416E\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic HEART|HEART]] • [[topic REGENERATION|REGENERATION]] • [[topic SIN|SIN]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.22|<< Proverbs 4:22]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.24|Proverbs 4:24 >>]]</td></tr></table>
 

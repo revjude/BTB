@@ -1,8 +1,61 @@
+---
+title: Nehemiah 11:25
+type: Verse
+kjv: "And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,"
+bsb: "As for the villages with their fields, some of the people of Judah lived in Kiriath-arba, Dibon, Jekabzeel, and their villages;"
+hebrew: "וְאֶל־ הַחֲצֵרִ֖ים בִּשְׂדֹתָ֑ם מִבְּנֵ֣י יְהוּדָ֗ה יָֽשְׁב֞וּ בְּקִרְיַ֤ת הָֽאַרְבַּע֙ וּבְנֹתֶ֔יהָ וּבְדִיבֹן֙ וּבְנֹתֶ֔יהָ וּבִֽיקַּבְצְאֵ֖ל וַחֲצֵרֶֽיהָ׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DIBON|DIBON]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JEKABZEEL|JEKABZEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691B]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H7153]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H1769H]]"
+- "[[H3343]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:25**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the villages, with their fields, [some] of the children of Judah dwelt at Kirjatharba, and [in] the villages thereof, and at Dibon, and [in] the villages thereof, and at Jekabzeel, and [in] the villages thereof,
 <small><sub>**BSB:**</sub></small>
 As for the villages with their fields, some of the people of Judah lived in Kiriath-arba, Dibon, Jekabzeel, and their villages;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2691B\|חֲצֵרִ֖ים]] [[H9003\|בִּ]][[H7704G\|שְׂדֹתָ֑]][[H9028\|ם]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H3427\|יָֽשְׁב֞וּ]] [[H9003\|בְּ]][[H7153\|קִרְיַ֤ת]] [[H9009\|הָֽ]][[H7153\|אַרְבַּע֙]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בְ]][[H1769H\|דִיבֹן֙]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בִֽ]][[H3343\|יקַּבְצְאֵ֖ל]] [[H9002\|וַ]][[H2691B\|חֲצֵרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIBON|DIBON]] • [[topic HEBRON|HEBRON]] • [[topic JEKABZEEL|JEKABZEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.24|<< Nehemiah 11:24]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.26|Nehemiah 11:26 >>]]</td></tr></table>
 

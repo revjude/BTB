@@ -1,10 +1,62 @@
+---
+title: Mark 2:16
+type: Verse
+kjv: "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?"
+bsb: "When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?”"
+greek: "καὶ οἱ γραμματεῖς καὶ τῶν Φαρισαίων καὶ ἰδόντες ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν ἔλεγον τοῖς μαθηταῖς αὐτοῦ· τί ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει καὶ πίνει;¶"
+pericope: "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G5330]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G2068]]"
+- "[[G3326]]"
+- "[[G0268]]"
+- "[[G5057]]"
+- "[[G3004G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G4095]]"
+texts:
+- NKO
+- k
+- N(k)O
+- o
+- N(k)(o)
+- KO
+---
+
 **Mark 2:16**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?”
-<small><sub>**Literal:**</sub></small>
-And the scribes <and> of the Pharisees <and> having seen that he eats with the sinners and tax collectors were saying to the disciples of Him; Why [is it] that with the tax collectors and sinners He eats and drinks?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.15|<< Mark 2:15]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.17|Mark 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G3754G\|ὅτι]]  [[G2068\|ἐσθίει]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0268\|ἁμαρτωλῶν]]  [[G2532\|καὶ]]  [[G5057\|τελωνῶν]]  [[G3004G\|ἔλεγον]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G5101\|τί]]  [[G3754G\|ὅτι]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5057\|τελωνῶν]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῶν]]  [[G2068\|ἐσθίει]]  [[G2532\|καὶ]]  [[G4095\|πίνει;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.15|<< Mark 2:15]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.17|Mark 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

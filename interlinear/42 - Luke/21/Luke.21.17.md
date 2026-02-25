@@ -1,10 +1,55 @@
+---
+title: Luke 21:17
+type: Verse
+kjv: "And ye shall be hated of all men for my name’s sake."
+bsb: "And you will be hated by everyone because of My name."
+jesus_said: "And ye shall be hated of all men for my name’s sake."
+greek: "καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου."
+pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3404]]"
+- "[[G5259G]]"
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Luke 21:17**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye shall be hated of all [men] for my name’s sake.
 <small><sub>**BSB:**</sub></small>
 And you will be hated by everyone because of My name.
-<small><sub>**Literal:**</sub></small>
-And you will be hated by all because of the name of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.16|<< Luke 21:16]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.18|Luke 21:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἔσεσθε]]  [[G3404\|μισούμενοι]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.16|<< Luke 21:16]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.18|Luke 21:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

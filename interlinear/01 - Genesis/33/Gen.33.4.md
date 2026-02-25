@@ -1,8 +1,67 @@
+---
+title: Genesis 33:4
+type: Verse
+kjv: "And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept."
+bsb: "Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept."
+hebrew: "וַיָּ֨רָץ עֵשָׂ֤ו לִקְרָאתוֹ֙ וַֽיְחַבְּקֵ֔הוּ וַיִּפֹּ֥ל עַל־ צַוָּארָ֖יו וַׄיִּׄשָּׁׄקֵ֑ׄהׄוּׄ וַיִּבְכּֽוּ׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic KISS|KISS]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7323G]]"
+- "[[H6215G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H2263]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6677A]]"
+- "[[H9023]]"
+- "[[H5401A]]"
+- "[[H1058]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 33:4**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
 <small><sub>**BSB:**</sub></small>
 Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7323G\|יָּ֨רָץ]] [[H6215G\|עֵשָׂ֤ו]] [[H9005\|לִ]][[H7122G\|קְרָאת]][[H9033\|וֹ֙]] [[H9001\|וַֽ]][[H2263\|יְחַבְּקֵ֔]][[H9033\|הוּ]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוָּארָ֖י]][[H9023\|ו]] [[H9001\|וַׄ]][[H5401A\|יִּׄשָּׁׄקֵ֑ׄ]][[H9033\|הׄוּׄ]] [[H9001\|וַ]][[H1058\|יִּבְכּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic KISS|KISS]] • [[topic LEAH|LEAH]] • [[topic PRAYER|PRAYER]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.3|<< Genesis 33:3]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.5|Genesis 33:5 >>]]</td></tr></table>
 

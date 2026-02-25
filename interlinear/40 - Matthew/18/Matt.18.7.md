@@ -1,10 +1,59 @@
+---
+title: Matthew 18:7
+type: Verse
+kjv: "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
+bsb: "Woe to the world for the causes of sin. These stumbling blocks must come, but woe to the man through whom they come!"
+jesus_said: "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
+greek: "Οὐαὶ τῷ κόσμῳ ἀπὸ τῶν σκανδάλων· ἀνάγκη γὰρ ἐστιν ἐλθεῖν τὰ σκάνδαλα, πλὴν οὐαὶ τῷ ἀνθρώπῳ ἐκείνῳ δι᾽ οὗ τὸ σκάνδαλον ἔρχεται."
+pericope: "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3759]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G0575]]"
+- "[[G4625]]"
+- "[[G0318]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G4133]]"
+- "[[G0444]]"
+- "[[G1565]]"
+- "[[G1223]]"
+- "[[G3739]]"
+texts:
+- NKO
+- ko
+- k
+---
+
 **Matthew 18:7**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!
 <small><sub>**BSB:**</sub></small>
 Woe to the world for the causes of sin. These stumbling blocks must come, but woe to the man through whom they come!
-<small><sub>**Literal:**</sub></small>
-Woe to the world because of the causes of sin; Necessary [are] for is to come the stumbling blocks, but woe to the man that [one] through whom the offense comes!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.6|<< Matthew 18:6]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.8|Matthew 18:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4625\|σκανδάλων·]]  [[G0318\|ἀνάγκη]]  [[G1063\|γὰρ]]  [[G1510\|ἐστιν]]  [[G2064\|ἐλθεῖν]]  [[G3588\|τὰ]]  [[G4625\|σκάνδαλα,]]  [[G4133\|πλὴν]]  [[G3759\|οὐαὶ]]  [[G3588\|τῷ]]  [[G0444\|ἀνθρώπῳ]]  [[G1565\|ἐκείνῳ]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G3588\|τὸ]]  [[G4625\|σκάνδαλον]]  [[G2064\|ἔρχεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.6|<< Matthew 18:6]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.8|Matthew 18:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

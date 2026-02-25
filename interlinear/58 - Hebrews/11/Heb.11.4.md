@@ -1,10 +1,70 @@
+---
+title: Hebrews 11:4
+type: Verse
+kjv: "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh."
+bsb: "By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead."
+greek: "Πίστει πλείονα θυσίαν Ἅβελ παρὰ Κάϊν προσήνεγκεν τῷ θεῷ, δι᾽ ἧς ἐμαρτυρήθη εἶναι δίκαιος μαρτυροῦντος ἐπὶ τοῖς δώροις αὐτοῦ τοῦ θεοῦ· καὶ δι᾽ αὐτῆς ἀποθανὼν ἔτι λαλεῖ.¶"
+pericope: "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G4102G]]"
+- "[[G4119]]"
+- "[[G2378]]"
+- "[[G0006]]"
+- "[[G3844]]"
+- "[[G2535]]"
+- "[[G4374]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3140]]"
+- "[[G1511]]"
+- "[[G1342]]"
+- "[[G1909]]"
+- "[[G1435]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G2089]]"
+- "[[G2980]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Hebrews 11:4**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.
 <small><sub>**BSB:**</sub></small>
 By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.
-<small><sub>**Literal:**</sub></small>
-By faith a more excellent sacrifice Abel than Cain offered <the> to God, through which he was testified to be righteous bearing witness to the gifts of him <the> God; and through it having died still he speaks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.3|<< Hebrews 11:3]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.5|Hebrews 11:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G4119\|πλείονα]]  [[G2378\|θυσίαν]]  [[G0006\|Ἅβελ]]  [[G3844\|παρὰ]]  [[G2535\|Κάϊν]]  [[G4374\|προσήνεγκεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G1223\|δι᾽]]  [[G3739\|ἧς]]  [[G3140\|ἐμαρτυρήθη]]  [[G1511\|εἶναι]]  [[G1342\|δίκαιος]]  [[G3140\|μαρτυροῦντος]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G1435\|δώροις]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῆς]]  [[G0599\|ἀποθανὼν]]  [[G2089\|ἔτι]]  [[G2980\|λαλεῖ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CAIN|CAIN]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.3|<< Hebrews 11:3]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.5|Hebrews 11:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:4** is...
 > $\quad$ alluding to: [[LXX.Gen.4.4|Gen 4:4]]

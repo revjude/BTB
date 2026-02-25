@@ -1,10 +1,58 @@
+---
+title: Acts 18:23
+type: Verse
+kjv: "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+bsb: "After Paul had spent some time in Antioch, he traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples."
+greek: "καὶ ποιήσας χρόνον τινὰ ἐξῆλθεν διερχόμενος καθεξῆς τὴν Γαλατικὴν χώραν καὶ Φρυγίαν, ἐπιστηρίζων πάντας τοὺς μαθητάς.¶"
+pericope: "[[Acts.18.23 Paul’s Third Missionary Journey Begins|Paul’s Third Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic GALATIA|GALATIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHRYGIA|PHRYGIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160J]]"
+- "[[G5550]]"
+- "[[G5100]]"
+- "[[G1831]]"
+- "[[G1330]]"
+- "[[G2517]]"
+- "[[G3588]]"
+- "[[G1054]]"
+- "[[G5561]]"
+- "[[G5435]]"
+- "[[G1991]]"
+- "[[G3956]]"
+- "[[G3101]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 18:23**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after he had spent some time [there], he departed, and went over [all] the country of Galatia and Phrygia in order, strengthening all the disciples.
 <small><sub>**BSB:**</sub></small>
 After Paul had spent some time in Antioch, he traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.
-<small><sub>**Literal:**</sub></small>
-And having stayed time some he went forth passing through successively the Galatian region and Phrygia, strengthening all the disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.22|<< Acts 18:22]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.24|Acts 18:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160J\|ποιήσας]]  [[G5550\|χρόνον]]  [[G5100\|τινὰ]]  [[G1831\|ἐξῆλθεν]]  [[G1330\|διερχόμενος]]  [[G2517\|καθεξῆς]]  [[G3588\|τὴν]]  [[G1054\|Γαλατικὴν]]  [[G5561\|χώραν]]  [[G2532\|καὶ]]  [[G5435\|Φρυγίαν,]]  [[G1991\|ἐπιστηρίζων]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G3101\|μαθητάς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic GALATIA|GALATIA]] • [[topic PAUL|PAUL]] • [[topic PHRYGIA|PHRYGIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.22|<< Acts 18:22]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.24|Acts 18:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

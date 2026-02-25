@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 14:25
+type: Verse
+kjv: "And all they of the land came to a wood; and there was honey upon the ground."
+bsb: "Then all the troops entered the forest, and there was honey on the ground."
+hebrew: "וְכָל־ הָאָ֖רֶץ בָּ֣אוּ בַיָּ֑עַר וַיְהִ֥י דְבַ֖שׁ עַל־ פְּנֵ֥י הַשָּׂדֶֽה׃"
+pericope: "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HONEY|HONEY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3293B]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1706]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H7704B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:25**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all [they of] the land came to a wood; and there was honey upon the ground.
 <small><sub>**BSB:**</sub></small>
 Then all the troops entered the forest, and there was honey on the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0935G\|בָּ֣אוּ]] [[H9003\|בַ]][[H3293B\|יָּ֑עַר]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1706\|דְבַ֖שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הַ]][[H7704B\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONEY|HONEY]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.24|<< 1 Samuel 14:24]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.26|1 Samuel 14:26 >>]]</td></tr></table>
 

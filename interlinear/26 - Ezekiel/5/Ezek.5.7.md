@@ -1,8 +1,73 @@
+---
+title: Ezekiel 5:7
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because ye multiplied more than the nations that are round about you, and have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that are round about you;"
+bsb: "Therefore this is what the Lord GOD says: ‘You have been more insubordinate than the nations around you; you have not walked in My statutes or kept My ordinances, nor have you even conformed to the ordinances of the nations around you.’"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה יַ֤עַן הֲמָנְכֶם֙ מִן־ הַגּוֹיִם֙ אֲשֶׁ֣ר סְבִיבֽוֹתֵיכֶ֔ם בְּחֻקּוֹתַי֙ לֹ֣א הֲלַכְתֶּ֔ם וְאֶת־ מִשְׁפָּטַ֖י לֹ֣א עֲשִׂיתֶ֑ם וּֽכְמִשְׁפְּטֵ֧י הַגּוֹיִ֛ם אֲשֶׁ֥ר סְבִיבוֹתֵיכֶ֖ם לֹ֥א עֲשִׂיתֶֽם׃ ס"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H1995B]]"
+- "[[H9026]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4941G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 5:7**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because ye multiplied more than the nations that [are] round about you, [and] have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that [are] round about you;
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘You have been more insubordinate than the nations around you; you have not walked in My statutes or kept My ordinances, nor have you even conformed to the ordinances of the nations around you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H3282\|יַ֤עַן]] [[H1995B\|הֲמָנְ]][[H9026\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5439G\|סְבִיבֽוֹתֵי]][[H9036\|כֶ֔ם]] [[H9003\|בְּ]][[H2708\|חֻקּוֹתַ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H1980I\|הֲלַכְתֶּ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H6213A\|עֲשִׂיתֶ֑ם]] [[H9002\|וּֽ]][[H9004\|כְ]][[H4941G\|מִשְׁפְּטֵ֧י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֛ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5439G\|סְבִיבוֹתֵי]][[H9036\|כֶ֖ם]] [[H3808\|לֹ֥א]] [[H6213A\|עֲשִׂיתֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.6|<< Ezekiel 5:6]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.8|Ezekiel 5:8 >>]]</td></tr></table>
 
@@ -31,7 +96,7 @@ Therefore this is what the Lord GOD says: ‘You have been more insubordinate th
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] around you  |**<big>&#8207;[[H5439G\|סְבִיבוֹתֵי]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| se.vi.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have done  |**<big>&#8207;[[H6213A\|עֲשִׂיתֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.si.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have done  |**<big>&#8207;[[H6213A\|עֲשִׂיתֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.si.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.6|<< Ezekiel 5:6]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.8|Ezekiel 5:8 >>]]</td></tr></table>
 
 

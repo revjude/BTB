@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 21:10
+type: Verse
+kjv: "And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath."
+bsb: "That day David fled from Saul and went to Achish king of Gath."
+hebrew: "וַיָּ֣קָם דָּוִ֔ד וַיִּבְרַ֥ח בַּיּוֹם־ הַה֖וּא מִפְּנֵ֣י שָׁא֑וּל וַיָּבֹ֕א אֶל־ אָכִ֖ישׁ מֶ֥לֶךְ גַּֽת׃"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1732]]"
+- "[[H1272]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H7586G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0397]]"
+- "[[H4428G]]"
+- "[[H1661]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 21:10**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.
 <small><sub>**BSB:**</sub></small>
 That day David fled from Saul and went to Achish king of Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H1272\|יִּבְרַ֥ח]] [[H9003\|בַּ]][[H3117G\|יּוֹם]][[H9014\|־]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַ]][[H0935G\|יָּבֹ֕א]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִ֖ישׁ]] [[H4428G\|מֶ֥לֶךְ]] [[H1661\|גַּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic DAVID|DAVID]] • [[topic DECEPTION|DECEPTION]] • [[topic FUGITIVES|FUGITIVES]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.9|<< 1 Samuel 21:9]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.11|1 Samuel 21:11 >>]]</td></tr></table>
 

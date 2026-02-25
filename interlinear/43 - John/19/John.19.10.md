@@ -1,10 +1,61 @@
+---
+title: John 19:10
+type: Verse
+kjv: "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?"
+bsb: "So Pilate said to Him, “Do You refuse to speak to me? Do You not know that I have authority to release You and authority to crucify You?”"
+greek: "λέγει οὖν αὐτῷ ὁ Πιλᾶτος· ἐμοὶ οὐ λαλεῖς; οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί σε;"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2980]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1849]]"
+- "[[G2192]]"
+- "[[G0630G]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4717]]"
+texts:
+- NKO
+---
+
 **John 19:10**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?
 <small><sub>**BSB:**</sub></small>
 So Pilate said to Him, “Do You refuse to speak to me? Do You not know that I have authority to release You and authority to crucify You?”
-<small><sub>**Literal:**</sub></small>
-Says therefore to Him <the> Pilate; To me myself not speak You? Surely You know that authority I have to release You and authority I have to crucify You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.9|<< John 19:9]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.11|John 19:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G1473\|ἐμοὶ]]  [[G3756\|οὐ]]  [[G2980\|λαλεῖς;]]  [[G3756\|οὐκ]]  [[G6063\|οἶδας]]  [[G3754G\|ὅτι]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχω]]  [[G0630G\|ἀπολῦσαί]]  [[G4771\|σε]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχω]]  [[G4717\|σταυρῶσαί]]  [[G4771\|σε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.9|<< John 19:9]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.11|John 19:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

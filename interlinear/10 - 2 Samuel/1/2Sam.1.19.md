@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 1:19
+type: Verse
+kjv: "The beauty of Israel is slain upon thy high places: how are the mighty fallen!"
+bsb: "“Your glory, O Israel, lies slain on your heights. How the mighty have fallen!"
+hebrew: "הַצְּבִי֙ יִשְׂרָאֵ֔ל עַל־ בָּמוֹתֶ֖יךָ חָלָ֑ל אֵ֖יךְ נָפְל֥וּ גִבּוֹרִֽים׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H9009]]"
+- "[[H6643A]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H9021]]"
+- "[[H2491A]]"
+- "[[H0349A]]"
+- "[[H5307G]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:19**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beauty of Israel is slain upon thy high places: how are the mighty fallen!
 <small><sub>**BSB:**</sub></small>
 “Your glory, O Israel, lies slain on your heights. How the mighty have fallen!
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6643A\|צְּבִי֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5921A\|עַל]][[H9014\|־]] [[H1116\|בָּמוֹתֶ֖י]][[H9021\|ךָ]] [[H2491A\|חָלָ֑ל]] [[H0349A\|אֵ֖יךְ]] [[H5307G\|נָפְל֥וּ]] [[H1368\|גִבּוֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.18|<< 2 Samuel 1:18]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.20|2 Samuel 1:20 >>]]</td></tr></table>
 

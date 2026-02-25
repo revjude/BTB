@@ -1,8 +1,50 @@
+---
+title: Jeremiah 48:16
+type: Verse
+kjv: "The calamity of Moab is near to come, and his affliction hasteth fast."
+bsb: "Moab’s calamity is at hand, and his affliction is rushing swiftly."
+hebrew: "קָר֥וֹב אֵיד־ מוֹאָ֖ב לָב֑וֹא וְרָ֣עָת֔וֹ מִהֲרָ֖ה מְאֹֽד׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H7138]]"
+- "[[H0343]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H7451C]]"
+- "[[H9023]]"
+- "[[H4116A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:16**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The calamity of Moab [is] near to come, and his affliction hasteth fast.
 <small><sub>**BSB:**</sub></small>
 Moab’s calamity is at hand, and his affliction is rushing swiftly.
+<small><sub>**Hebrew:**</sub></small>
+[[H7138\|קָר֥וֹב]] [[H0343\|אֵיד]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9005\|לָ]][[H0935G\|ב֑וֹא]] [[H9002\|וְ]][[H7451C\|רָ֣עָת֔]][[H9023\|וֹ]] [[H4116A\|מִהֲרָ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.15|<< Jeremiah 48:15]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.17|Jeremiah 48:17 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fall of Jerusalem Recounted
+type: Pericope
 pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 52
 book/chapter: "[[Jer.52|Jeremiah 52]]"
-genre:
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.52.1]]"
 - "[[Jer.52.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.52.11]]"
 ---
 
-[[Jer.52|Jeremiah 52:1 - Jeremiah 52:11]]
+<small>[[Jer.52|Jeremiah 52:1-11]]</small>
 *The Fall of Jerusalem Recounted*
 
 [[Jer.52.1|1]] Zedekiah \[was\] one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name \[was\] Hamutal the daughter of Jeremiah of Libnah.

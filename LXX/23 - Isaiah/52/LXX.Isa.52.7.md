@@ -1,6 +1,69 @@
+---
+title: LXX Isaiah 52:7
+type: Verse
+lxx: "As an hour upon the mountains, as feet announcing good news, the hearing of peace, as of announcing good news -- good things; for audibly I will produce  your deliverance, saying, Zion, Your God shall reign."
+greek: "ως ώρα επί των ορέων ως πόδες ευαγγελιζόμενου ακοήν ειρήνης ως ευαγγελιζομένου αγαθά ότι ακουστήν ποιήσω την σωτηρίαν σου λέγων Σιών βασιλεύσει ο θεός σου"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G5613]]"
+- "[[G5610]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G5613]]"
+- "[[G4228]]"
+- "[[G2097]]"
+- "[[G0189]]"
+- "[[G1515]]"
+- "[[G5613]]"
+- "[[G2097]]"
+- "[[G0018]]"
+- "[[G3754]]"
+- "[[G6200]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G4991]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G4622]]"
+- "[[G0936]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 52:7** 
 <small><sub>**LXX:**</sub></small>
 As an hour upon the mountains, as feet announcing good news, \[the\] hearing of peace, as of announcing good news -- good \[things\]; for audibly I will produce  your deliverance, saying, Zion, Your God shall reign. 
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ως]] [[G5610\|ώρα]] [[G1909\|επί]] [[G3588\|των]] [[G3735\|ορέων]] [[G5613\|ως]] [[G4228\|πόδες]] [[G2097\|ευαγγελιζόμενου]] [[G0189\|ακοήν]] [[G1515\|ειρήνης]] [[G5613\|ως]] [[G2097\|ευαγγελιζομένου]] [[G0018\|αγαθά]] [[G3754\|ότι]] [[G6200\|ακουστήν]] [[G4160\|ποιήσω]] [[G3588\|την]] [[G4991\|σωτηρίαν]] [[G1473\|σου]] [[G3004\|λέγων]] [[G4622\|Σιών]] [[G0936\|βασιλεύσει]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZION|ZION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.52.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -33,6 +96,6 @@ As an hour upon the mountains, as feet announcing good news, \[the\] hearing of 
 | shall reign | **<big>[[G0936\|βασιλεύσει]]</big>** |
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | Your God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Isa.52.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
 
 

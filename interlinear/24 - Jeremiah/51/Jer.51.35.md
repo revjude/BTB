@@ -1,8 +1,59 @@
+---
+title: Jeremiah 51:35
+type: Verse
+kjv: "The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say."
+bsb: "May the violence done to me and to my flesh be upon Babylon,” says the dweller of Zion. “May my blood be on the dwellers of Chaldea,” says Jerusalem."
+hebrew: "חֲמָסִ֤י וּשְׁאֵרִי֙ עַל־ בָּבֶ֔ל תֹּאמַ֖ר יֹשֶׁ֣בֶת צִיּ֑וֹן וְדָמִי֙ אֶל־ יֹשְׁבֵ֣י כַשְׂדִּ֔ים תֹּאמַ֖ר יְרוּשָׁלִָֽם׃ ס"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2555]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7607]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H0559]]"
+- "[[H3427]]"
+- "[[H6726]]"
+- "[[H1818]]"
+- "[[H0413]]"
+- "[[H3778]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 51:35**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
 <small><sub>**BSB:**</sub></small>
 May the violence done to me and to my flesh be upon Babylon,” says the dweller of Zion. “May my blood be on the dwellers of Chaldea,” says Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H2555\|חֲמָסִ֤]][[H9020\|י]] [[H9002\|וּ]][[H7607\|שְׁאֵרִ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H0559\|תֹּאמַ֖ר]] [[H3427\|יֹשֶׁ֣בֶת]] [[H6726\|צִיּ֑וֹן]] [[H9002\|וְ]][[H1818\|דָמִ]][[H9020\|י֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H3778\|כַשְׂדִּ֔ים]] [[H0559\|תֹּאמַ֖ר]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
 
@@ -20,7 +71,7 @@ May the violence done to me and to my flesh be upon Babylon,” says the dweller
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Chaldea  |**<big>&#8207;[[H3778\|כַשְׂדִּ֔ים]]&#8207; </big>**| khas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will say  |**<big>&#8207;[[H0559\|תֹּאמַ֖ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
 
 

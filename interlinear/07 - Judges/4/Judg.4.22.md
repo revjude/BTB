@@ -1,8 +1,74 @@
+---
+title: Judges 4:22
+type: Verse
+kjv: "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples."
+bsb: "When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple."
+hebrew: "וְהִנֵּ֣ה בָרָק֮ רֹדֵ֣ף אֶת־ סִֽיסְרָא֒ וַתֵּצֵ֤א יָעֵל֙ לִקְרָאת֔וֹ וַתֹּ֣אמֶר ל֔וֹ לֵ֣ךְ וְאַרְאֶ֔ךָּ אֶת־ הָאִ֖ישׁ אֲשֶׁר־ אַתָּ֣ה מְבַקֵּ֑שׁ וַיָּבֹ֣א אֵלֶ֔יהָ וְהִנֵּ֤ה סִֽיסְרָא֙ נֹפֵ֣ל מֵ֔ת וְהַיָּתֵ֖ד בְּרַקָּתֽוֹ׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic JAEL|JAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1301]]"
+- "[[H7291]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5516G]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3278]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H1980H]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H1245]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H5307J]]"
+- "[[H4191]]"
+- "[[H3489]]"
+- "[[H9003]]"
+- "[[H7541]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:22**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her [tent], behold, Sisera lay dead, and the nail [was] in his temples.
 <small><sub>**BSB:**</sub></small>
 When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H1301\|בָרָק֮]] [[H7291\|רֹדֵ֣ף]] [[H0853\|אֶת]][[H9014\|־]] [[H5516G\|סִֽיסְרָא֒]] [[H9001\|וַ]][[H3318G\|תֵּצֵ֤א]] [[H3278\|יָעֵל֙]] [[H9005\|לִ]][[H7122G\|קְרָאת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1980H\|לֵ֣ךְ]] [[H9002\|וְ]][[H7200G\|אַרְאֶ֔]][[H9031\|ךָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H1245\|מְבַקֵּ֑שׁ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5516G\|סִֽיסְרָא֙]] [[H5307J\|נֹפֵ֣ל]] [[H4191\|מֵ֔ת]] [[H9002\|וְ]][[H9009\|הַ]][[H3489\|יָּתֵ֖ד]] [[H9003\|בְּ]][[H7541\|רַקָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic JAEL|JAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.21|<< Judges 4:21]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.23|Judges 4:23 >>]]</td></tr></table>
 

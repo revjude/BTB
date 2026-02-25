@@ -1,10 +1,56 @@
+---
+title: Luke 1:8
+type: Verse
+kjv: "And it came to pass, that while he executed the priest’s office before God in the order of his course,"
+bsb: "One day while Zechariah’s division was on duty and he was serving as priest before God,"
+greek: "Ἐγένετο δὲ ἐν τῷ ἱερατεύειν αὐτὸν ἐν τῇ τάξει τῆς ἐφημερίας αὐτοῦ ἔναντι τοῦ θεοῦ,"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2407]]"
+- "[[G0846]]"
+- "[[G5010]]"
+- "[[G2183]]"
+- "[[G1725]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 1:8**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that while he executed the priest’s office before God in the order of his course,
 <small><sub>**BSB:**</sub></small>
 One day while Zechariah’s division was on duty and he was serving as priest before God,
-<small><sub>**Literal:**</sub></small>
-It came to pass now in the priestly serving of him in the order of the division of him before <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.7|<< Luke 1:7]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.9|Luke 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2407\|ἱερατεύειν]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5010\|τάξει]]  [[G3588\|τῆς]]  [[G2183\|ἐφημερίας]]  [[G0846\|αὐτοῦ]]  [[G1725\|ἔναντι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.7|<< Luke 1:7]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.9|Luke 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

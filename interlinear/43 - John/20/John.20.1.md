@@ -1,10 +1,62 @@
+---
+title: John 20:1
+type: Verse
+kjv: "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+bsb: "Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance."
+greek: "Τῇ δὲ μιᾷ τῶν σαββάτων Μαρία ἡ Μαγδαληνὴ ἔρχεται πρωῒ σκοτίας ἔτι οὔσης εἰς τὸ μνημεῖον καὶ βλέπει τὸν λίθον ἠρμένον ἐκ τοῦ μνημείου."
+pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G3137I]]"
+- "[[G3094]]"
+- "[[G2064]]"
+- "[[G4404]]"
+- "[[G4653]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G3419]]"
+- "[[G2532]]"
+- "[[G0991]]"
+- "[[G3037]]"
+- "[[G0142]]"
+- "[[G1537]]"
+texts:
+- NKO
+---
+
 **John 20:1**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The first [day] of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
 <small><sub>**BSB:**</sub></small>
 Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.
-<small><sub>**Literal:**</sub></small>
-<the> Now on the first [day] of the week Mary <the> Magdalene comes early when dark still it being to the tomb and she sees the stone removed from the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.42|<< John 19:42]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.2|John 20:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1161\|δὲ]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2064\|ἔρχεται]]  [[G4404\|πρωῒ]]  [[G4653\|σκοτίας]]  [[G2089\|ἔτι]]  [[G1510\|οὔσης]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον]]  [[G2532\|καὶ]]  [[G0991\|βλέπει]]  [[G3588\|τὸν]]  [[G3037\|λίθον]]  [[G0142\|ἠρμένον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.42|<< John 19:42]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.2|John 20:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

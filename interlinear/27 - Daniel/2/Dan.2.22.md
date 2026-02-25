@@ -1,8 +1,64 @@
+---
+title: Daniel 2:22
+type: Verse
+kjv: "He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him."
+bsb: "He reveals the deep and hidden things; He knows what lies in darkness, and light dwells with Him."
+aramaic: "ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א וּנְהוֹרָ֖א עִמֵּ֥הּ שְׁרֵֽא׃"
+pericope: "[[Dan.2.14 The Dream Revealed to Daniel|The Dream Revealed to Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1932]]"
+- "[[H1541]]"
+- "[[H5994]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H5642A]]"
+- "[[H3046]]"
+- "[[H4101]]"
+- "[[H9003]]"
+- "[[H2816]]"
+- "[[H5094A]]"
+- "[[H5974]]"
+- "[[H9033]]"
+- "[[H8271]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 2:22**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He revealeth the deep and secret things: he knoweth what [is] in the darkness, and the light dwelleth with him.
 <small><sub>**BSB:**</sub></small>
 He reveals the deep and hidden things; He knows what lies in darkness, and light dwells with Him.
+<small><sub>**Aramaic:**</sub></small>
+[[H1932\|ה֛וּא]] [[H1541\|גָּלֵ֥א]] [[H5994\|עַמִּיקָתָ֖]][[H9010\|א]] [[H9002\|וּ]][[H5642A\|מְסַתְּרָתָ֑]][[H9010\|א]] [[H3046\|יָדַע֙]] [[H4101\|מָ֣ה]] [[H9003\|בַ]][[H2816\|חֲשׁוֹכָ֔]][[H9010\|א]] [[H9002\|וּ]][[H5094A\|נְהוֹרָ֖]][[H9010\|א]] [[H5974\|עִמֵּ֥]][[H9033\|הּ]] [[H8271\|שְׁרֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DREAM|DREAM]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic INTERPRETER|INTERPRETER]] • [[topic MISHAEL|MISHAEL]] • [[topic PRAYER|PRAYER]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.21|<< Daniel 2:21]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.23|Daniel 2:23 >>]]</td></tr></table>
 

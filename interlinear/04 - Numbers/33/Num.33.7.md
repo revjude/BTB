@@ -1,8 +1,63 @@
+---
+title: Numbers 33:7
+type: Verse
+kjv: "And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol."
+bsb: "They set out from Etham and turned back to Pi-hahiroth, opposite Baal-zephon, and they camped near Migdol."
+hebrew: "וַיִּסְעוּ֙ מֵֽאֵתָ֔ם וַיָּ֙שָׁב֙ עַל־ פִּ֣י הַחִירֹ֔ת אֲשֶׁ֥ר עַל־ פְּנֵ֖י בַּ֣עַל צְפ֑וֹן וַֽיַּחֲנ֖וּ לִפְנֵ֥י מִגְדֹּֽל׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BAAL-ZEPHON|BAAL-ZEPHON]]"
+- "[[topic ETHAM|ETHAM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIGDOL|MIGDOL]]"
+- "[[topic PI-HAHIROTH|PI-HAHIROTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0864]]"
+- "[[H7725G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6367]]"
+- "[[H0834A]]"
+- "[[H6440G]]"
+- "[[H1189]]"
+- "[[H2583]]"
+- "[[H9005]]"
+- "[[H4024B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:7**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed from Etham, and turned again unto Pihahiroth, which [is] before Baalzephon: and they pitched before Migdol.
 <small><sub>**BSB:**</sub></small>
 They set out from Etham and turned back to Pi-hahiroth, opposite Baal-zephon, and they camped near Migdol.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְעוּ֙]] [[H9006\|מֵֽ]][[H0864\|אֵתָ֔ם]] [[H9001\|וַ]][[H7725G\|יָּ֙שָׁב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6367\|פִּ֣י]] [[H6367\|הַחִירֹ֔ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֖י]] [[H1189\|בַּ֣עַל]] [[H1189\|צְפ֑וֹן]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4024B\|מִגְדֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-ZEPHON|BAAL-ZEPHON]] • [[topic ETHAM|ETHAM]] • [[topic ISRAEL|ISRAEL]] • [[topic MIGDOL|MIGDOL]] • [[topic PI-HAHIROTH|PI-HAHIROTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.6|<< Numbers 33:6]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.8|Numbers 33:8 >>]]</td></tr></table>
 

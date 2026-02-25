@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Man with a Measuring Rod
+type: Pericope
 pericope: "[[Ezek.40.1 The Man with a Measuring Rod|The Man with a Measuring Rod]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.40.1]]"
 - "[[Ezek.40.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.40.4]]"
 ---
 
-[[Ezek.40|Ezekiel 40:1 - Ezekiel 40:4]]
+<small>[[Ezek.40|Ezekiel 40:1-4]]</small>
 *The Man with a Measuring Rod*
 
 [[Ezek.40.1|1]] In the five and twentieth year of our captivity, in the beginning of the year, in the tenth \[day\] of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.

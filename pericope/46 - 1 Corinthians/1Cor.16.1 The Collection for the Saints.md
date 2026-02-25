@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Collection for the Saints
+type: Pericope
 pericope: "[[1Cor.16.1 The Collection for the Saints|The Collection for the Saints]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 16
 book/chapter: "[[1Cor.16|1 Corinthians 16]]"
-genre:
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 4
 verses:
 - "[[1Cor.16.1]]"
 - "[[1Cor.16.2]]"
@@ -21,7 +28,7 @@ verses:
 - "[[1Cor.16.4]]"
 ---
 
-[[1Cor.16|1 Corinthians 16:1 - 1 Corinthians 16:4]]
+<small>[[1Cor.16|1 Corinthians 16:1-4]]</small>
 *The Collection for the Saints*
 
 [[1Cor.16.1|1]] Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.

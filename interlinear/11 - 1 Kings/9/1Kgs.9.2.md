@@ -1,8 +1,59 @@
+---
+title: 1 Kings 9:2
+type: Verse
+kjv: "That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon."
+bsb: "the LORD appeared to him a second time, as He had appeared to him at Gibeon."
+hebrew: "וַיֵּרָ֧א יְהוָ֛ה אֶל־ שְׁלֹמֹ֖ה שֵׁנִ֑ית כַּאֲשֶׁ֛ר נִרְאָ֥ה אֵלָ֖יו בְּגִבְעֽוֹן׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H8145]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:2**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon.
 <small><sub>**BSB:**</sub></small>
 the LORD appeared to him a second time, as He had appeared to him at Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יֵּרָ֧א]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֖ה]] [[H8145\|שֵׁנִ֑ית]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H7200G\|נִרְאָ֥ה]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H9003\|בְּ]][[H1391\|גִבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEON|GIBEON]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.1|<< 1 Kings 9:1]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.3|1 Kings 9:3 >>]]</td></tr></table>
 

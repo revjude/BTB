@@ -1,8 +1,54 @@
+---
+title: Job 3:25
+type: Verse
+kjv: "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me."
+bsb: "For the thing I feared has overtaken me, and what I dreaded has befallen me."
+hebrew: "כִּ֤י פַ֣חַד פָּ֭חַדְתִּי וַיֶּאֱתָיֵ֑נִי וַאֲשֶׁ֥ר יָ֝גֹ֗רְתִּי יָ֣בֹא לִֽי׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6343]]"
+- "[[H6342]]"
+- "[[H9001]]"
+- "[[H0857]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3025]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:25**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.
 <small><sub>**BSB:**</sub></small>
 For the thing I feared has overtaken me, and what I dreaded has befallen me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H6343\|פַ֣חַד]] [[H6342\|פָּ֭חַדְתִּי]] [[H9001\|וַ]][[H0857\|יֶּאֱתָיֵ֑]][[H9030\|נִי]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H3025\|יָ֝גֹ֗רְתִּי]] [[H0935G\|יָ֣בֹא]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.24|<< Job 3:24]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.26|Job 3:26 >>]]</td></tr></table>
 

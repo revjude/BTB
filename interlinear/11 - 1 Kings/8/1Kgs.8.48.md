@@ -1,8 +1,78 @@
+---
+title: 1 Kings 8:48
+type: Verse
+kjv: "And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:"
+bsb: "and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray to You in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,"
+hebrew: "וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל־ לְבָבָם֙ וּבְכָל־ נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר־ שָׁב֣וּ אֹתָ֑ם וְהִֽתְפַּֽלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ וְהַבַּ֖יִת אֲשֶׁר־ בָּנִ֥יתִי לִשְׁמֶֽךָ׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6419]]"
+- "[[H1870J]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0977]]"
+- "[[H1004B]]"
+- "[[H1129]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 8:48**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:
 <small><sub>**BSB:**</sub></small>
 and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray to You in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725O\|שָׁ֣בוּ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבָ]][[H9028\|ם֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשָׁ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7617\|שָׁב֣וּ]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H6419\|הִֽתְפַּֽלְל֣וּ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H1870J\|דֶּ֤רֶךְ]] [[H0776G\|אַרְצָ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תָּה]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֔רְתָּ]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1129\|בָּנִ֥יתִי]] [[H9005\|לִ]][[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.47|<< 1 Kings 8:47]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.49|1 Kings 8:49 >>]]</td></tr></table>
 

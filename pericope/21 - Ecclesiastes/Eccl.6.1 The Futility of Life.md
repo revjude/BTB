@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Futility of Life
+type: Pericope
 pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 6
 book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
-genre:
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 12
 verses:
 - "[[Eccl.6.1]]"
 - "[[Eccl.6.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Eccl.6.12]]"
 ---
 
-[[Eccl.6|Ecclesiastes 6:1 - Ecclesiastes 6:12]]
+<small>[[Eccl.6|Ecclesiastes 6:1-12]]</small>
 *The Futility of Life*
 
 [[Eccl.6.1|1]] There is an evil which I have seen under the sun, and it \[is\] common among men:

@@ -1,10 +1,65 @@
+---
+title: Luke 7:33
+type: Verse
+kjv: "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+bsb: "For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon!’"
+jesus_said: "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+greek: "ἐλήλυθεν γὰρ Ἰωάννης ὁ βαπτιστὴς μὴ ἐσθίων ἄρτον μήτε πίνων οἶνον, καὶ λέγετε· δαιμόνιον ἔχει."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic ASCETICISM|ASCETICISM]]"
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2064]]"
+- "[[G1063]]"
+- "[[G2491G]]"
+- "[[G3588]]"
+- "[[G0910]]"
+- "[[G3361]]"
+- "[[G2068]]"
+- "[[G0740]]"
+- "[[G3383]]"
+- "[[G4095]]"
+- "[[G3631]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G1140]]"
+- "[[G2192]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:33**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil.
 <small><sub>**BSB:**</sub></small>
 For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon!’
-<small><sub>**Literal:**</sub></small>
-Has come for John the Baptist neither eating bread nor drinking wine and you say; A demon He has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.32|<< Luke 7:32]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.34|Luke 7:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλήλυθεν]]  [[G1063\|γὰρ]]  [[G2491G\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0910\|βαπτιστὴς]]  [[G3361\|μὴ]]  [[G2068\|ἐσθίων]]  [[G0740\|ἄρτον]]  [[G3383\|μήτε]]  [[G4095\|πίνων]]  [[G3631\|οἶνον,]]  [[G2532\|καὶ]]  [[G3004G\|λέγετε·]]  [[G1140\|δαιμόνιον]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic ASCETICISM|ASCETICISM]] • [[topic EPICUREANS|EPICUREANS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic NAZARITE|NAZARITE]] • [[topic STOICISM|STOICISM]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.32|<< Luke 7:32]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.34|Luke 7:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

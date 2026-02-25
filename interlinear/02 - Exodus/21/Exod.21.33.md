@@ -1,8 +1,68 @@
+---
+title: Exodus 21:33
+type: Verse
+kjv: "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;"
+bsb: "If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls into it,"
+hebrew: "וְכִֽי־ יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־ יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־ שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6605A]]"
+- "[[H0376I]]"
+- "[[H0953A]]"
+- "[[H0176A]]"
+- "[[H3738B]]"
+- "[[H3808]]"
+- "[[H3680]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:33**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;
 <small><sub>**BSB:**</sub></small>
 If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls into it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H6605A\|יִפְתַּ֨ח]] [[H0376I\|אִ֜ישׁ]] [[H0953A\|בּ֗וֹר]] [[H0176A\|א֠וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3738B\|יִכְרֶ֥ה]] [[H0376I\|אִ֛ישׁ]] [[H0953A\|בֹּ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3680\|יְכַסֶּ֑]][[H9033\|נּוּ]] [[H9001\|וְ]][[H5307G\|נָֽפַל]][[H9014\|־]] [[H8033G\|שָׁ֥מָּ]][[H9011\|ה]] [[H7794\|שּׁ֖וֹר]] [[H0176A\|א֥וֹ]] [[H2543\|חֲמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic PROPERTY|PROPERTY]] • [[topic RESTITUTION|RESTITUTION]] • [[topic TRESPASS|TRESPASS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.32|<< Exodus 21:32]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.34|Exodus 21:34 >>]]</td></tr></table>
 

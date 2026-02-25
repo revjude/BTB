@@ -1,6 +1,65 @@
+---
+title: LXX Numbers 20:14
+type: Verse
+lxx: "And Moses sent messengers from Kadesh to the king of Edom, saying, Thus says  your brother Israel, You have knowledge of all the trouble  finding us,"
+greek: "και απέστειλε Μωυσής αγγέλους εκ Κάδης προς βασιλέα Εδώμ λέγων τάδε λέγει ο αδελφός σου Ισραήλ συ επίστη πάντα τον μόχθον τον ευρόντα ημάς"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G3475]]"
+- "[[G0032]]"
+- "[[G1537]]"
+- "[[H6946]]"
+- "[[G4314]]"
+- "[[G0935]]"
+- "[[H0123]]"
+- "[[G3004]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G2474]]"
+- "[[G1473]]"
+- "[[G1987]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3449]]"
+- "[[G3588]]"
+- "[[G2147]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 20:14** 
 <small><sub>**LXX:**</sub></small>
 And Moses sent messengers from Kadesh to \[the\] king of Edom, saying, Thus says  your brother Israel, You have knowledge of all the trouble  finding us, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0649\|απέστειλε]] [[G3475\|Μωυσής]] [[G0032\|αγγέλους]] [[G1537\|εκ]] [[H6946\|Κάδης]] [[G4314\|προς]] [[G0935\|βασιλέα]] [[H0123\|Εδώμ]] [[G3004\|λέγων]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G1473\|σου]] [[G2474\|Ισραήλ]] [[G1473\|συ]] [[G1987\|επίστη]] [[G3956\|πάντα]] [[G3588\|τον]] [[G3449\|μόχθον]] [[G3588\|τον]] [[G2147\|ευρόντα]] [[G1473\|ημάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic EDOMITES|EDOMITES]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
 
@@ -28,6 +87,6 @@ And Moses sent messengers from Kadesh to \[the\] king of Edom, saying, Thus says
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | finding | **<big>[[G2147\|ευρόντα]]</big>** |
 | us, | **<big>[[G1473\|ημάς]]</big>** |
-[[Num.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
 
 

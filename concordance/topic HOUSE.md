@@ -3,9 +3,9 @@
 
 → Built of
 
-- Stone [[Lev.14.40|Le 14:40]]-[[Lev.14.45|45]]; [[Isa.9.10|Isa 9:10]]; [[Amos.5.11|Am 5:11]]
+- Stone [[Lev.14.40|Le 14:40-45]]; [[Isa.9.10|Isa 9:10]]; [[Amos.5.11|Am 5:11]]
 
-- Brick [[Gen.11.3|Ge 11:3]]; [[Exod.1.11|Ex 1:11]]-[[Exod.1.14|14]]; [[Isa.9.10|Isa 9:10]]
+- Brick [[Gen.11.3|Ge 11:3]]; [[Exod.1.11|Ex 1:11-14]]; [[Isa.9.10|Isa 9:10]]
 
 - Wood [[Song.1.17|So 1:17]]; [[Isa.9.10|Isa 9:10]]
 
@@ -69,7 +69,7 @@
 
 - Texts of Scripture on doorposts of [[Deut.6.9|De 6:9]]
 
-- Laws regarding sale of [[Lev.25.29|Le 25:29]]-[[Lev.25.33|33]]; [[Neh.5.3|Ne 5:3]]
+- Laws regarding sale of [[Lev.25.29|Le 25:29-33]]; [[Neh.5.3|Ne 5:3]]
 
 - Dedicated [[Deut.20.5|De 20:5]]; [[Ps.30|Ps 30]]
 

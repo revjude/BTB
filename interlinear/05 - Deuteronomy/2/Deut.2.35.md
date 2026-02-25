@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 2:35
+type: Verse
+kjv: "Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took."
+bsb: "We carried off for ourselves only the livestock and the plunder from the cities we captured."
+hebrew: "רַ֥ק הַבְּהֵמָ֖ה בָּזַ֣זְנוּ לָ֑נוּ וּשְׁלַ֥ל הֶעָרִ֖ים אֲשֶׁ֥ר לָכָֽדְנוּ׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H0962]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H7998]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H3920]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:35**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.
 <small><sub>**BSB:**</sub></small>
 We carried off for ourselves only the livestock and the plunder from the cities we captured.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֥ק]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֖ה]] [[H0962\|בָּזַ֣זְנוּ]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9002\|וּ]][[H7998\|שְׁלַ֥ל]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3920\|לָכָֽדְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.34|<< Deuteronomy 2:34]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.36|Deuteronomy 2:36 >>]]</td></tr></table>
 

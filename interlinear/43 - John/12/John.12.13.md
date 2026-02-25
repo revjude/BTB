@@ -1,10 +1,64 @@
+---
+title: John 12:13
+type: Verse
+kjv: "Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord."
+bsb: "They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!”"
+greek: "ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ καὶ ἐκραύγαζον· ὡσαννά, εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ.¶"
+pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HOSANNA|HOSANNA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0902]]"
+- "[[G5404]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G5222]]"
+- "[[G0846]]"
+- "[[G2905]]"
+- "[[G5614]]"
+- "[[G2127]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G0935]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **John 12:13**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed [is] the King of Israel that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!”
-<small><sub>**Literal:**</sub></small>
-took the branches of the palm trees and went out to meet Him and were shouting: Hosanna! Blessed [is] the [One] coming in [the] name of [the] Lord! And the King <the> of Israel!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.12|<< John 12:12]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.14|John 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|ἔλαβον]]  [[G3588\|τὰ]]  [[G0902\|βαΐα]]  [[G3588\|τῶν]]  [[G5404\|φοινίκων]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθον]]  [[G1519\|εἰς]]  [[G5222\|ὑπάντησιν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G2905\|ἐκραύγαζον·]]  [[G5614\|ὡσαννά,]]  [[G2127\|εὐλογημένος]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G2962G\|κυρίου]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSANNA|HOSANNA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PALM TREE|PALM TREE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.12|<< John 12:12]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.14|John 12:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 12:13** is...
 > $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]

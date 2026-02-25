@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Message for Shebna
+type: Pericope
 pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 22
 book/chapter: "[[Isa.22|Isaiah 22]]"
-genre:
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.22.15]]"
 - "[[Isa.22.16]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.22.25]]"
 ---
 
-[[Isa.22|Isaiah 22:15 - Isaiah 22:25]]
+<small>[[Isa.22|Isaiah 22:15-25]]</small>
 *A Message for Shebna*
 
 [[Isa.22.15|15]] Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, \[even\] unto Shebna, which \[is\] over the house, \[and say\],

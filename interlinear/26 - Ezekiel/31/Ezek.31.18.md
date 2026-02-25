@@ -1,8 +1,75 @@
+---
+title: Ezekiel 31:18
+type: Verse
+kjv: "To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with them that be slain by the sword. This is Pharaoh and all his multitude, saith the Lord GOD."
+bsb: "Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”"
+hebrew: "אֶל־ מִ֨י דָמִ֥יתָ כָּ֛כָה בְּכָב֥וֹד וּבְגֹ֖דֶל בַּעֲצֵי־ עֵ֑דֶן וְהוּרַדְתָּ֨ אֶת־ עֲצֵי־ עֵ֜דֶן אֶל־ אֶ֣רֶץ תַּחְתִּ֗ית בְּת֨וֹךְ עֲרֵלִ֤ים תִּשְׁכַּב֙ אֶת־ חַלְלֵי־ חֶ֔רֶב ה֤וּא פַרְעֹה֙ וְכָל־ הֲמונ֔וֹ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ ס"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDEN|EDEN]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H1819]]"
+- "[[H3602]]"
+- "[[H9003]]"
+- "[[H3519]]"
+- "[[H9002]]"
+- "[[H1433]]"
+- "[[H6086H]]"
+- "[[H5731B]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0854]]"
+- "[[H0776G]]"
+- "[[H8482]]"
+- "[[H8432]]"
+- "[[H6189]]"
+- "[[H7901J]]"
+- "[[H2491A]]"
+- "[[H2719]]"
+- "[[H1931]]"
+- "[[H6547R]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H9023]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 31:18**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with [them that be] slain by the sword. This [is] Pharaoh and all his multitude, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H4310\|מִ֨י]] [[H1819\|דָמִ֥יתָ]] [[H3602\|כָּ֛כָה]] [[H9003\|בְּ]][[H3519\|כָב֥וֹד]] [[H9002\|וּ]][[H9003\|בְ]][[H1433\|גֹ֖דֶל]] [[H9003\|בַּ]][[H6086H\|עֲצֵי]][[H9014\|־]] [[H5731B\|עֵ֑דֶן]] [[H9001\|וְ]][[H3381\|הוּרַדְתָּ֨]] [[H0854\|אֶת]][[H9014\|־]] [[H6086H\|עֲצֵי]][[H9014\|־]] [[H5731B\|עֵ֜דֶן]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H8482\|תַּחְתִּ֗ית]] [[H9003\|בְּ]][[H8432\|ת֨וֹךְ]] [[H6189\|עֲרֵלִ֤ים]] [[H7901J\|תִּשְׁכַּב֙]] [[H0854\|אֶת]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H1931\|ה֤וּא]] [[H6547R\|פַרְעֹה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1995A\|הֲמונ֔]][[H9023\|וֹ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.17|<< Ezekiel 31:17]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.1|Ezekiel 32:1 >>]]</td></tr></table>
 
@@ -35,10 +102,10 @@ Who then is like you in glory and greatness among the trees of Eden? You also wi
 | multitude his  [^2]|**<big>&#8207;[[H1995A\|הֲמונ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**[^3] | ha.mo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.17|<< Ezekiel 31:17]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.1|Ezekiel 32:1 >>]]</td></tr></table>
 
-[^1]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
 

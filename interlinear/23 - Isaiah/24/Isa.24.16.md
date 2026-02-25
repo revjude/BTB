@@ -1,8 +1,64 @@
+---
+title: Isaiah 24:16
+type: Verse
+kjv: "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously."
+bsb: "From the ends of the earth we hear singing: “Glory to the Righteous One.” But I said, “I am wasting away! I am wasting away! Woe is me.” The treacherous betray; the treacherous deal in treachery."
+hebrew: "מִכְּנַ֨ף הָאָ֜רֶץ זְמִרֹ֤ת שָׁמַ֙עְנוּ֙ צְבִ֣י לַצַּדִּ֔יק וָאֹמַ֛ר רָזִי־ לִ֥י רָֽזִי־ לִ֖י א֣וֹי לִ֑י בֹּגְדִ֣ים בָּגָ֔דוּ וּבֶ֥גֶד בּוֹגְדִ֖ים בָּגָֽדוּ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9006]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2158]]"
+- "[[H8085G]]"
+- "[[H6643A]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7334]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H0188]]"
+- "[[H0898]]"
+- "[[H9002]]"
+- "[[H0899A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:16**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the uttermost part of the earth have we heard songs, [even] glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
 <small><sub>**BSB:**</sub></small>
 From the ends of the earth we hear singing: “Glory to the Righteous One.” But I said, “I am wasting away! I am wasting away! Woe is me.” The treacherous betray; the treacherous deal in treachery.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3671\|כְּנַ֨ף]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H2158\|זְמִרֹ֤ת]] [[H8085G\|שָׁמַ֙עְנוּ֙]] [[H6643A\|צְבִ֣י]] [[H9005\|לַ]][[H6662\|צַּדִּ֔יק]] [[H9001\|וָ]][[H0559\|אֹמַ֛ר]] [[H7334\|רָזִי]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H7334\|רָֽזִי]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H0188\|א֣וֹי]] [[H9005\|לִ֑]][[H9030\|י]] [[H0898\|בֹּגְדִ֣ים]] [[H0898\|בָּגָ֔דוּ]] [[H9002\|וּ]][[H0899A\|בֶ֥גֶד]] [[H0898\|בּוֹגְדִ֖ים]] [[H0898\|בָּגָֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.15|<< Isaiah 24:15]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.17|Isaiah 24:17 >>]]</td></tr></table>
 

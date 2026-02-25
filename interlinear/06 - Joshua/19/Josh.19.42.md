@@ -1,8 +1,48 @@
+---
+title: Joshua 19:42
+type: Verse
+kjv: "And Shaalabbin, and Ajalon, and Jethlah,"
+bsb: "Shaalabbin, Aijalon, Ithlah,"
+hebrew: "וְשַֽׁעֲלַבִּ֥ין וְאַיָּל֖וֹן וְיִתְלָֽה׃"
+pericope: "[[Josh.19.40 Dan’s Inheritance|Dan’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AJALON|AJALON]]"
+- "[[topic DAN|DAN]]"
+- "[[topic JETHLAH|JETHLAH]]"
+- "[[topic SHAALBIM|SHAALBIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H8169]]"
+- "[[H0357]]"
+- "[[H3494]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:42**<big><big>[[Josh.19.40 Dan’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shaalabbin, and Ajalon, and Jethlah,
 <small><sub>**BSB:**</sub></small>
 Shaalabbin, Aijalon, Ithlah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8169\|שַֽׁעֲלַבִּ֥ין]] [[H9002\|וְ]][[H0357\|אַיָּל֖וֹן]] [[H9002\|וְ]][[H3494\|יִתְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJALON|AJALON]] • [[topic DAN|DAN]] • [[topic JETHLAH|JETHLAH]] • [[topic SHAALBIM|SHAALBIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
 

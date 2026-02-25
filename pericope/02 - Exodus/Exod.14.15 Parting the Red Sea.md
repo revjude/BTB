@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Parting the Red Sea
+type: Pericope
 pericope: "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 14
 book/chapter: "[[Exod.14|Exodus 14]]"
-genre:
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 17
 verses:
 - "[[Exod.14.15]]"
 - "[[Exod.14.16]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Exod.14.31]]"
 ---
 
-[[Exod.14|Exodus 14:15 - Exodus 14:31]]
+<small>[[Exod.14|Exodus 14:15-31]]</small>
 *Parting the Red Sea*
 
 [[Exod.14.15|15]] And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward:

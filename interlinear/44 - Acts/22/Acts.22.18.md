@@ -1,10 +1,65 @@
+---
+title: Acts 22:18
+type: Verse
+kjv: "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+bsb: "and saw the Lord saying to me, ‘Hurry! Leave Jerusalem quickly, because the people here will not accept your testimony about Me.’"
+jesus_said: "Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+greek: "καὶ ἰδεῖν αὐτὸν λέγοντά μοι· σπεῦσον καὶ ἔξελθε ἐν τάχει ἐξ Ἰερουσαλήμ, διότι οὐ παραδέξονταί σου τὴν μαρτυρίαν περὶ ἐμοῦ."
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G4692]]"
+- "[[G1831]]"
+- "[[G1722]]"
+- "[[G5034]]"
+- "[[G1537]]"
+- "[[G2419]]"
+- "[[G1360]]"
+- "[[G3756]]"
+- "[[G3858]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3141]]"
+- "[[G4012]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 22:18**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
 <small><sub>**BSB:**</sub></small>
 and saw the Lord saying to me, ‘Hurry! Leave Jerusalem quickly, because the people here will not accept your testimony about Me.’
-<small><sub>**Literal:**</sub></small>
-and seeing Him saying to me; do make haste and do go away with speed out of Jerusalem, because not they will receive your <the> testimony about Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.17|<< Acts 22:17]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.19|Acts 22:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδεῖν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντά]]  [[G3165\|μοι·]]  [[G4692\|σπεῦσον]]  [[G2532\|καὶ]]  [[G1831\|ἔξελθε]]  [[G1722\|ἐν]]  [[G5034\|τάχει]]  [[G1537\|ἐξ]]  [[G2419\|Ἰερουσαλήμ,]]  [[G1360\|διότι]]  [[G3756\|οὐ]]  [[G3858\|παραδέξονταί]]  [[G4771\|σου]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TEMPLE|TEMPLE]] • [[topic UNBELIEF|UNBELIEF]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.17|<< Acts 22:17]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.19|Acts 22:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

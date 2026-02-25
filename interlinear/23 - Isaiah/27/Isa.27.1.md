@@ -1,8 +1,68 @@
+---
+title: Isaiah 27:1
+type: Verse
+kjv: "In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea."
+bsb: "In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent—Leviathan the coiling serpent—and He will slay the dragon of the sea."
+hebrew: "בַּיּ֣וֹם הַה֡וּא יִפְקֹ֣ד יְהוָה֩ בְּחַרְב֨וֹ הַקָּשָׁ֜ה וְהַגְּדוֹלָ֣ה וְהַֽחֲזָקָ֗ה עַ֤ל לִוְיָתָן֙ נָחָ֣שׁ בָּרִ֔חַ וְעַל֙ לִוְיָתָ֔ן נָחָ֖שׁ עֲקַלָּת֑וֹן וְהָרַ֥ג אֶת־ הַתַּנִּ֖ין אֲשֶׁ֥ר בַּיָּֽם׃ ס"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic LEVIATHAN|LEVIATHAN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6485H]]"
+- "[[H3068G]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H7186]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H2389]]"
+- "[[H5921A]]"
+- "[[H3882]]"
+- "[[H5175]]"
+- "[[H1281]]"
+- "[[H6129]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8577N]]"
+- "[[H0834A]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 27:1**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that [is] in the sea.
 <small><sub>**BSB:**</sub></small>
 In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent—Leviathan the coiling serpent—and He will slay the dragon of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֡וּא]] [[H6485H\|יִפְקֹ֣ד]] [[H3068G\|יְהוָה֩]] [[H9003\|בְּ]][[H2719\|חַרְב֨]][[H9023\|וֹ]] [[H9009\|הַ]][[H7186\|קָּשָׁ֜ה]] [[H9002\|וְ]][[H9009\|הַ]][[H1419A\|גְּדוֹלָ֣ה]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2389\|חֲזָקָ֗ה]] [[H5921A\|עַ֤ל]] [[H3882\|לִוְיָתָן֙]] [[H5175\|נָחָ֣שׁ]] [[H1281\|בָּרִ֔חַ]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3882\|לִוְיָתָ֔ן]] [[H5175\|נָחָ֖שׁ]] [[H6129\|עֲקַלָּת֑וֹן]] [[H9001\|וְ]][[H2026\|הָרַ֥ג]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8577N\|תַּנִּ֖ין]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בַּ]][[H3220G\|יָּֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic LEVIATHAN|LEVIATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.21|<< Isaiah 26:21]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.2|Isaiah 27:2 >>]]</td></tr></table>
 
@@ -28,7 +88,7 @@ In that day the LORD will take His sharp, great, and mighty sword, and bring jud
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sea monster  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8577N\|תַּנִּ֖ין]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ta.Nin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] in the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] in the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.21|<< Isaiah 26:21]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.2|Isaiah 27:2 >>]]</td></tr></table>
 
 

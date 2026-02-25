@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 4:17
+type: Verse
+kjv: "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,"
+bsb: "of any beast that is on the earth or bird that flies in the air,"
+hebrew: "תַּבְנִ֕ית כָּל־ בְּהֵמָ֖ה אֲשֶׁ֣ר בָּאָ֑רֶץ תַּבְנִית֙ כָּל־ צִפּ֣וֹר כָּנָ֔ף אֲשֶׁ֥ר תָּע֖וּף בַּשָּׁמָֽיִם׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H8403]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6833]]"
+- "[[H3671]]"
+- "[[H5774A]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:17**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The likeness of any beast that [is] on the earth, the likeness of any winged fowl that flieth in the air,
 <small><sub>**BSB:**</sub></small>
 of any beast that is on the earth or bird that flies in the air,
+<small><sub>**Hebrew:**</sub></small>
+[[H8403\|תַּבְנִ֕ית]] [[H3605\|כָּל]][[H9014\|־]] [[H0929\|בְּהֵמָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H8403\|תַּבְנִית֙]] [[H3605\|כָּל]][[H9014\|־]] [[H6833\|צִפּ֣וֹר]] [[H3671\|כָּנָ֔ף]] [[H0834A\|אֲשֶׁ֥ר]] [[H5774A\|תָּע֖וּף]] [[H9003\|בַּ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.16|<< Deuteronomy 4:16]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.18|Deuteronomy 4:18 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Waited Patiently for the LORD
+type: Pericope
 pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 40
 book/chapter: "[[Ps.40|Psalm 40]]"
-genre:
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.40.0]]"
 - "[[Ps.40.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.40.17]]"
 ---
 
-[[Ps.40|Psalm 40:1 - Psalm 40:17]]
+<small>[[Ps.40|Psalm 40:1-17]]</small>
 *I Waited Patiently for the LORD*
 
 [[Ps.40.0|0]] To the chief Musician, A Psalm of David.

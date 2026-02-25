@@ -1,10 +1,58 @@
+---
+title: Hebrews 9:27
+type: Verse
+kjv: "And as it is appointed unto men once to die, but after this the judgment:"
+bsb: "Just as man is appointed to die once, and after that to face judgment,"
+greek: "καὶ καθ᾽ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν μετὰ δὲ τοῦτο κρίσις,"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MAN|MAN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3745]]"
+- "[[G0606]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G0530]]"
+- "[[G0599]]"
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2920]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:27**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as it is appointed unto men once to die, but after this the judgment:
 <small><sub>**BSB:**</sub></small>
 Just as man is appointed to die once, and after that to face judgment,
-<small><sub>**Literal:**</sub></small>
-And in as much as it is apportioned <the> to men once to die after then this [to face] judgment,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.26|<< Hebrews 9:26]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.28|Hebrews 9:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2596\|καθ᾽]]  [[G3745\|ὅσον]]  [[G0606\|ἀπόκειται]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις]]  [[G0530\|ἅπαξ]]  [[G0599\|ἀποθανεῖν]]  [[G3326\|μετὰ]]  [[G1161\|δὲ]]  [[G3778\|τοῦτο]]  [[G2920\|κρίσις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic DEATH|DEATH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MAN|MAN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.26|<< Hebrews 9:26]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.28|Hebrews 9:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

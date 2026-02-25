@@ -1,10 +1,62 @@
+---
+title: Revelation 5:3
+type: Verse
+kjv: "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon."
+bsb: "But no one in heaven or on earth or under the earth was able to open the scroll or look inside it."
+greek: "καὶ οὐδεὶς ἐδύνατο ἐν τῷ οὐρανῷ ἄνω οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς ἀνοῖξαι τὸ βιβλίον οὔτε βλέπειν αὐτό."
+pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G0507]]"
+- "[[G3761]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G5270]]"
+- "[[G0455]]"
+- "[[G0975]]"
+- "[[G3777]]"
+- "[[G0991]]"
+- "[[G0846]]"
+texts:
+- NKO
+- O
+- NK(o)
+- N(k)O
+---
+
 **Revelation 5:3**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.
 <small><sub>**BSB:**</sub></small>
 But no one in heaven or on earth or under the earth was able to open the scroll or look inside it.
-<small><sub>**Literal:**</sub></small>
-And no [one] was able in <the> heaven above nor upon the earth nor under the earth to open the scroll nor to see it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.2|<< Revelation 5:2]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.4|Revelation 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1410\|ἐδύνατο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G0507\|ἄνω]]  [[G3761\|οὐδὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3761\|οὐδὲ]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G0455\|ἀνοῖξαι]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G3777\|οὔτε]]  [[G0991\|βλέπειν]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic SALVATION|SALVATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.2|<< Revelation 5:2]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.4|Revelation 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

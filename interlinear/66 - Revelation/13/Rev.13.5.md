@@ -1,10 +1,58 @@
+---
+title: Revelation 13:5
+type: Verse
+kjv: "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months."
+bsb: "The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months."
+greek: "καὶ ἐδόθη αὐτῷ στόμα λαλοῦν μεγάλα καὶ βλασφημίας καὶ ἐδόθη αὐτῷ ἐξουσία πόλεμον ποιῆσαι μῆνας τεσσεράκοντα καὶ δύο."
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4750]]"
+- "[[G2980]]"
+- "[[G3173]]"
+- "[[G0988]]"
+- "[[G1849]]"
+- "[[G4171]]"
+- "[[G4160G]]"
+- "[[G3376]]"
+- "[[G5062]]"
+- "[[G1417]]"
+texts:
+- NKO
+- NK(o)
+- O
+- no
+---
+
 **Revelation 13:5**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months.
 <small><sub>**BSB:**</sub></small>
 The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.
-<small><sub>**Literal:**</sub></small>
-And was given to it a mouth speaking great things and blasphemies and was given to it authority war to act months forty and two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.4|<< Revelation 13:4]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.6|Revelation 13:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G4750\|στόμα]]  [[G2980\|λαλοῦν]]  [[G3173\|μεγάλα]]  [[G2532\|καὶ]]  [[G0988\|βλασφημίας]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G1849\|ἐξουσία]]  [[G4171\|πόλεμον]]  [[G4160G\|ποιῆσαι]]  [[G3376\|μῆνας]]  [[G5062\|τεσσεράκοντα]]  [[G2532\|καὶ]]  [[G1417\|δύο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.4|<< Revelation 13:4]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.6|Revelation 13:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 13:5** is...
 > $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]

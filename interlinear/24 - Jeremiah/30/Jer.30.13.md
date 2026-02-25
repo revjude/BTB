@@ -1,8 +1,57 @@
+---
+title: Jeremiah 30:13
+type: Verse
+kjv: "There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines."
+bsb: "There is no one to plead your cause, no remedy for your sores, no recovery for you."
+hebrew: "אֵֽין־ דָּ֥ן דִּינֵ֖ךְ לְמָז֑וֹר רְפֻא֥וֹת תְּעָלָ֖ה אֵ֥ין לָֽךְ׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEDICINE|MEDICINE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H1777]]"
+- "[[H1779]]"
+- "[[H9022]]"
+- "[[H9005]]"
+- "[[H4205]]"
+- "[[H7499]]"
+- "[[H8585B]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:13**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
 <small><sub>**BSB:**</sub></small>
 There is no one to plead your cause, no remedy for your sores, no recovery for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵֽין]][[H9014\|־]] [[H1777\|דָּ֥ן]] [[H1779\|דִּינֵ֖]][[H9022\|ךְ]] [[H9005\|לְ]][[H4205\|מָז֑וֹר]] [[H7499\|רְפֻא֥וֹת]] [[H8585B\|תְּעָלָ֖ה]] [[H0369\|אֵ֥ין]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEDICINE|MEDICINE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.12|<< Jeremiah 30:12]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.14|Jeremiah 30:14 >>]]</td></tr></table>
 

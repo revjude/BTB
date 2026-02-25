@@ -1,8 +1,65 @@
+---
+title: Ezekiel 29:13
+type: Verse
+kjv: "Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:"
+bsb: "For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the nations to which they were scattered."
+hebrew: "כִּ֛י כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה מִקֵּ֞ץ אַרְבָּעִ֤ים שָׁנָה֙ אֲקַבֵּ֣ץ אֶת־ מִצְרַ֔יִם מִן־ הָעַמִּ֖ים אֲשֶׁר־ נָפֹ֥צוּ שָֽׁמָּה׃"
+pericope: "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FORTY|FORTY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:13**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the nations to which they were scattered.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9006\|מִ]][[H7093\|קֵּ֞ץ]] [[H0705\|אַרְבָּעִ֤ים]] [[H8141\|שָׁנָה֙]] [[H6908\|אֲקַבֵּ֣ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֖ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6327A\|נָפֹ֥צוּ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic FORTY|FORTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.12|<< Ezekiel 29:12]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.14|Ezekiel 29:14 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Acts 2:18
+type: Verse
+kjv: "And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:"
+bsb: "Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy."
+greek: "καί γε ἐπὶ τοὺς δούλους μου καὶ ἐπὶ τὰς δούλας μου ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου καὶ προφητεύσουσιν."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G1632]]"
+- "[[G0575]]"
+- "[[G4151G]]"
+- "[[G4395]]"
+texts:
+- NKO
+---
+
 **Acts 2:18**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
 <small><sub>**BSB:**</sub></small>
 Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy.
-<small><sub>**Literal:**</sub></small>
-and even upon the servants of Mine and upon the handmaidens of Mine in the days those I will pour out of the Spirit of Mine and they will prophesy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.17|<< Acts 2:17]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.19|Acts 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καί]]  [[G1065\|γε]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G1401\|δούλους]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G1401\|δούλας]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις]]  [[G1632\|ἐκχεῶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματός]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G4395\|προφητεύσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TONGUE|TONGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.17|<< Acts 2:17]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.19|Acts 2:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:18** is...
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 14:5
+type: Verse
+kjv: "Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him."
+bsb: "He also removed the high places and incense altars from all the cities of Judah, and under him the kingdom was at peace."
+hebrew: "וַיָּ֙סַר֙ מִכָּל־ עָרֵ֣י יְהוּדָ֔ה אֶת־ הַבָּמ֖וֹת וְאֶת־ הַֽחַמָּנִ֑ים וַתִּשְׁקֹ֥ט הַמַּמְלָכָ֖ה לְפָנָֽיו׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H9002]]"
+- "[[H2553]]"
+- "[[H8252]]"
+- "[[H4467]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:5**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.
 <small><sub>**BSB:**</sub></small>
 He also removed the high places and incense altars from all the cities of Judah, and under him the kingdom was at peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|יָּ֙סַר֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמ֖וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2553\|חַמָּנִ֑ים]] [[H9001\|וַ]][[H8252\|תִּשְׁקֹ֥ט]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ICONOCLASM|ICONOCLASM]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.4|<< 2 Chronicles 14:4]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.6|2 Chronicles 14:6 >>]]</td></tr></table>
 

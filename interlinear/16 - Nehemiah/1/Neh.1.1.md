@@ -1,8 +1,65 @@
+---
+title: Nehemiah 1:1
+type: Verse
+kjv: "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+bsb: "These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,"
+hebrew: "דִּבְרֵ֥י נְחֶמְיָ֖ה בֶּן־ חֲכַלְיָ֑ה וַיְהִ֤י בְחֹֽדֶשׁ־ כִּסְלֵיו֙ שְׁנַ֣ת עֶשְׂרִ֔ים וַאֲנִ֥י הָיִ֖יתִי בְּשׁוּשַׁ֥ן הַבִּירָֽה׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CHISLEU|CHISLEU]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic HACHALIAH|HACHALIAH]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H1697G]]"
+- "[[H5166H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2446]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H3691]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7800]]"
+- "[[H9009]]"
+- "[[H1002]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Nehemiah 1:1**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 <small><sub>**BSB:**</sub></small>
 These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּבְרֵ֥י]] [[H5166H\|נְחֶמְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2446\|חֲכַלְיָ֑ה]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9003\|בְ]][[H2320G\|חֹֽדֶשׁ]][[H9014\|־]] [[H3691\|כִּסְלֵיו֙]] [[H8141\|שְׁנַ֣ת]] [[H6242\|עֶשְׂרִ֔ים]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H1961\|הָיִ֖יתִי]] [[H9003\|בְּ]][[H7800\|שׁוּשַׁ֥ן]] [[H9009\|הַ]][[H1002\|בִּירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHISLEU|CHISLEU]] • [[topic COUNTRY|COUNTRY]] • [[topic HACHALIAH|HACHALIAH]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic PALACE|PALACE]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.44|<< Ezra 10:44]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.2|Nehemiah 1:2 >>]]</td></tr></table>
 

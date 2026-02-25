@@ -1,10 +1,66 @@
+---
+title: Luke 21:24
+type: Verse
+kjv: "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled."
+bsb: "They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the Gentiles, until the times of the Gentiles are fulfilled."
+jesus_said: "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled."
+greek: "καὶ πεσοῦνται στόματι μαχαίρης καὶ αἰχμαλωτισθήσονται εἰς τὰ ἔθνη πάντα, καὶ Ἰερουσαλὴμ ἔσται πατουμένη ὑπὸ ἐθνῶν ἄχρι οὗ πληρωθῶσιν καὶ ἔσονται καιροὶ ἐθνῶν."
+pericope: "[[Luke.21.20 The Destruction of Jerusalem|The Destruction of Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G4750]]"
+- "[[G3162]]"
+- "[[G0163]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G3956]]"
+- "[[G2419]]"
+- "[[G1510]]"
+- "[[G3961]]"
+- "[[G5259G]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G4137]]"
+- "[[G2540]]"
+texts:
+- NKO
+- no
+- O
+---
+
 **Luke 21:24**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
 <small><sub>**BSB:**</sub></small>
 They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the Gentiles, until the times of the Gentiles are fulfilled.
-<small><sub>**Literal:**</sub></small>
-And they will fall by [the] edge of [the] sword and will be led captive into the nations all and Jerusalem will be trodden down by [the] Gentiles until that may be fulfilled and will be [the] times of [the] Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.23|<< Luke 21:23]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.25|Luke 21:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4098\|πεσοῦνται]]  [[G4750\|στόματι]]  [[G3162\|μαχαίρης]]  [[G2532\|καὶ]]  [[G0163\|αἰχμαλωτισθήσονται]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3956\|πάντα,]]  [[G2532\|καὶ]]  [[G2419\|Ἰερουσαλὴμ]]  [[G1510\|ἔσται]]  [[G3961\|πατουμένη]]  [[G5259G\|ὑπὸ]]  [[G1484\|ἐθνῶν]]  [[G0891\|ἄχρι]]  [[G3739\|οὗ]]  [[G4137\|πληρωθῶσιν]]  [[G2532\|καὶ]]  [[G1510\|ἔσονται]]  [[G2540\|καιροὶ]]  [[G1484\|ἐθνῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.23|<< Luke 21:23]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.25|Luke 21:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

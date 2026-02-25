@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Arrival at Jerusalem
+type: Pericope
 pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 21
 book/chapter: "[[Acts.21|Acts 21]]"
-genre:
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.21.17]]"
 - "[[Acts.21.18]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.21.26]]"
 ---
 
-[[Acts.21|Acts 21:17 - Acts 21:26]]
+<small>[[Acts.21|Acts 21:17-26]]</small>
 *Paul’s Arrival at Jerusalem*
 
 [[Acts.21.17|17]] And when we were come to Jerusalem, the brethren received us gladly.

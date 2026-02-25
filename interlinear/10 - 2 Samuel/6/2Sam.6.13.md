@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 6:13
+type: Verse
+kjv: "And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings."
+bsb: "When those carrying the ark of the LORD had advanced six paces, he sacrificed an ox and a fattened calf."
+hebrew: "וַיְהִ֗י כִּ֧י צָעֲד֛וּ נֹשְׂאֵ֥י אֲרוֹן־ יְהוָ֖ה שִׁשָּׁ֣ה צְעָדִ֑ים וַיִּזְבַּ֥ח שׁ֖וֹר וּמְרִֽיא׃"
+pericope: "[[2Sam.6.12 The Ark Brought to Jerusalem|The Ark Brought to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H6805]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8337]]"
+- "[[H6806]]"
+- "[[H2076]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H4806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:13**<big><big>[[2Sam.6.12 The Ark Brought to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings.
 <small><sub>**BSB:**</sub></small>
 When those carrying the ark of the LORD had advanced six paces, he sacrificed an ox and a fattened calf.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H3588A\|כִּ֧י]] [[H6805\|צָעֲד֛וּ]] [[H5375H\|נֹשְׂאֵ֥י]] [[H0727\|אֲרוֹן]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H8337\|שִׁשָּׁ֣ה]] [[H6806\|צְעָדִ֑ים]] [[H9001\|וַ]][[H2076\|יִּזְבַּ֥ח]] [[H7794\|שׁ֖וֹר]] [[H9002\|וּ]][[H4806\|מְרִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 

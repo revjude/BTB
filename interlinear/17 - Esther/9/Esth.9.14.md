@@ -1,8 +1,59 @@
+---
+title: Esther 9:14
+type: Verse
+kjv: "And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman’s ten sons."
+bsb: "So the king commanded that this be done. An edict was issued in Susa, and they hanged the ten sons of Haman."
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ לְהֵֽעָשׂ֣וֹת כֵּ֔ן וַתִּנָּתֵ֥ן דָּ֖ת בְּשׁוּשָׁ֑ן וְאֵ֛ת עֲשֶׂ֥רֶת בְּנֵֽי־ הָמָ֖ן תָּלֽוּ׃"
+pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H5414G]]"
+- "[[H1881]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6235]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2001]]"
+- "[[H8518]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:14**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman’s ten sons.
 <small><sub>**BSB:**</sub></small>
 So the king commanded that this be done. An edict was issued in Susa, and they hanged the ten sons of Haman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לְ]][[H6213A\|הֵֽעָשׂ֣וֹת]] [[H3651C\|כֵּ֔ן]] [[H9001\|וַ]][[H5414G\|תִּנָּתֵ֥ן]] [[H1881\|דָּ֖ת]] [[H9003\|בְּ]][[H7800\|שׁוּשָׁ֑ן]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H6235\|עֲשֶׂ֥רֶת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H2001\|הָמָ֖ן]] [[H8518\|תָּלֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.13|<< Esther 9:13]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.15|Esther 9:15 >>]]</td></tr></table>
 

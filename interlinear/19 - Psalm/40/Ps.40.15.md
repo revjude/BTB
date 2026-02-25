@@ -1,8 +1,56 @@
+---
+title: Psalm 40:15
+type: Verse
+kjv: "Let them be desolate for a reward of their shame that say unto me, Aha, aha."
+bsb: "May those who say to me, “Aha, aha!” be appalled at their own shame."
+hebrew: "יָ֭שֹׁמּוּ עַל־ עֵ֣קֶב בָּשְׁתָּ֑ם הָאֹמְרִ֥ים לִ֝֗י הֶ֘אָ֥ח׀ הֶאָֽח׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H8074H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6118]]"
+- "[[H1322]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1889]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:15**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be desolate for a reward of their shame that say unto me, Aha, aha.
 <small><sub>**BSB:**</sub></small>
 May those who say to me, “Aha, aha!” be appalled at their own shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H8074H\|יָ֭שֹׁמּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6118\|עֵ֣קֶב]] [[H1322\|בָּשְׁתָּ֑]][[H9028\|ם]] [[H9009\|הָ]][[H0559\|אֹמְרִ֥ים]] [[H9005\|לִ֝֗]][[H9030\|י]] [[H1889\|הֶ֘אָ֥ח]][[H9015\|׀]] [[H1889\|הֶאָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.14|<< Psalms 40:14]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.16|Psalms 40:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

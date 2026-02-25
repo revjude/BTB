@@ -1,8 +1,65 @@
+---
+title: Joshua 24:13
+type: Verse
+kjv: "And I have given you a land for which ye did not labour, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat."
+bsb: "So I gave you a land on which you did not toil and cities that you did not build, and now you live in them and eat from vineyards and olive groves that you did not plant.’"
+hebrew: "וָאֶתֵּ֨ן לָכֶ֜ם אֶ֣רֶץ׀ אֲשֶׁ֧ר לֹֽא־ יָגַ֣עְתָּ בָּ֗הּ וְעָרִים֙ אֲשֶׁ֣ר לֹא־ בְנִיתֶ֔ם וַתֵּשְׁב֖וּ בָּהֶ֑ם כְּרָמִ֤ים וְזֵיתִים֙ אֲשֶׁ֣ר לֹֽא־ נְטַעְתֶּ֔ם אַתֶּ֖ם אֹכְלִֽים׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3021]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H1129]]"
+- "[[H3427]]"
+- "[[H9038]]"
+- "[[H3754]]"
+- "[[H2132H]]"
+- "[[H5193]]"
+- "[[H0859D]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:13**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have given you a land for which ye did not labour, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat.
 <small><sub>**BSB:**</sub></small>
 So I gave you a land on which you did not toil and cities that you did not build, and now you live in them and eat from vineyards and olive groves that you did not plant.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414G\|אֶתֵּ֨ן]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0776G\|אֶ֣רֶץ]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3021\|יָגַ֣עְתָּ]] [[H9003\|בָּ֗]][[H9034\|הּ]] [[H9002\|וְ]][[H5892B\|עָרִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1129\|בְנִיתֶ֔ם]] [[H9001\|וַ]][[H3427\|תֵּשְׁב֖וּ]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H3754\|כְּרָמִ֤ים]] [[H9002\|וְ]][[H2132H\|זֵיתִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5193\|נְטַעְתֶּ֔ם]] [[H0859D\|אַתֶּ֖ם]] [[H0398\|אֹכְלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GRAPE|GRAPE]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.12|<< Joshua 24:12]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.14|Joshua 24:14 >>]]</td></tr></table>
 

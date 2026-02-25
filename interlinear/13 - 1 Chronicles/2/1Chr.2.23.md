@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 2:23
+type: Verse
+kjv: "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead."
+bsb: "But Geshur and Aram captured Havvoth-jair, along with Kenath and its sixty surrounding villages. All these were descendants of Machir the father of Gilead."
+hebrew: "וַיִּקַּ֣ח גְּשֽׁוּר־ וַ֠אֲרָם אֶת־ חַוֹּ֨ת יָאִ֧יר מֵאִתָּ֛ם אֶת־ קְנָ֥ת וְאֶת־ בְּנֹתֶ֖יהָ שִׁשִּׁ֣ים עִ֑יר כָּל־ אֵ֕לֶּה בְּנֵ֖י מָכִ֥יר אֲבִי־ גִלְעָֽד׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARAM|ARAM]]"
+- "[[topic GESHUR|GESHUR]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic KENATH|KENATH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1650]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H0758G]]"
+- "[[H0853]]"
+- "[[H2334]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H7079]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H8346]]"
+- "[[H5892B]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H1121G]]"
+- "[[H4353G]]"
+- "[[H0001G]]"
+- "[[H1568H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:23**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, [even] threescore cities. All these [belonged to] the sons of Machir the father of Gilead.
 <small><sub>**BSB:**</sub></small>
 But Geshur and Aram captured Havvoth-jair, along with Kenath and its sixty surrounding villages. All these were descendants of Machir the father of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H1650\|גְּשֽׁוּר]][[H9014\|־]] [[H9002\|וַ֠]][[H0758G\|אֲרָם]] [[H0853\|אֶת]][[H9014\|־]] [[H2334\|חַוֹּ֨ת]] [[H2334\|יָאִ֧יר]] [[H9006\|מֵ]][[H0854\|אִתָּ֛]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7079\|קְנָ֥ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנֹתֶ֖י]][[H9024\|הָ]] [[H8346\|שִׁשִּׁ֣ים]] [[H5892B\|עִ֑יר]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֕לֶּה]] [[H1121G\|בְּנֵ֖י]] [[H4353G\|מָכִ֥יר]] [[H0001G\|אֲבִי]][[H9014\|־]] [[H1568H\|גִלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAM|ARAM]] • [[topic GESHUR|GESHUR]] • [[topic GILEAD|GILEAD]] • [[topic JAIR|JAIR]] • [[topic KENATH|KENATH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.22|<< 1 Chronicles 2:22]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.24|1 Chronicles 2:24 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Joshua 6:10
+type: Verse
+kjv: "And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout."
+bsb: "But Joshua had commanded the people: “Do not give a battle cry or let your voice be heard; do not let one word come out of your mouth until the day I tell you to shout. Then you are to shout!”"
+hebrew: "וְאֶת־ הָעָם֩ צִוָּ֨ה יְהוֹשֻׁ֜עַ לֵאמֹ֗ר לֹ֤א תָרִ֙יעוּ֙ וְלֹֽא־ תַשְׁמִ֣יעוּ אֶת־ קוֹלְכֶ֔ם וְלֹא־ יֵצֵ֥א מִפִּיכֶ֖ם דָּבָ֑ר עַ֠ד י֣וֹם אָמְרִ֧י אֲלֵיכֶ֛ם הָרִ֖יעוּ וַהֲרִיעֹתֶֽם׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6680]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H7321]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9026]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H1697G]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:10**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall [any] word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
 <small><sub>**BSB:**</sub></small>
 But Joshua had commanded the people: “Do not give a battle cry or let your voice be heard; do not let one word come out of your mouth until the day I tell you to shout. Then you are to shout!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֩]] [[H6680\|צִוָּ֨ה]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3808\|לֹ֤א]] [[H7321\|תָרִ֙יעוּ֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|תַשְׁמִ֣יעוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|קוֹלְ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3318G\|יֵצֵ֥א]] [[H9006\|מִ]][[H6310G\|פִּי]][[H9026\|כֶ֖ם]] [[H1697G\|דָּבָ֑ר]] [[H5704\|עַ֠ד]] [[H3117G\|י֣וֹם]] [[H0559\|אָמְרִ֧]][[H9040\|י]] [[H0413\|אֲלֵי]][[H9036\|כֶ֛ם]] [[H7321\|הָרִ֖יעוּ]] [[H9001\|וַ]][[H7321\|הֲרִיעֹתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.9|<< Joshua 6:9]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.11|Joshua 6:11 >>]]</td></tr></table>
 

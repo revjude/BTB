@@ -1,10 +1,50 @@
+---
+title: Luke 17:5
+type: Verse
+kjv: "And the apostles said unto the Lord, Increase our faith."
+bsb: "The apostles said to the Lord, “Increase our faith!”"
+greek: "Καὶ εἶπαν οἱ ἀπόστολοι τῷ κυρίῳ· πρόσθες ἡμῖν πίστιν."
+pericope: "[[Luke.17.5 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2962G]]"
+- "[[G4369]]"
+- "[[G3165]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Luke 17:5**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the apostles said unto the Lord, Increase our faith.
 <small><sub>**BSB:**</sub></small>
 The apostles said to the Lord, “Increase our faith!”
-<small><sub>**Literal:**</sub></small>
-And said the apostles to the Lord; do add to us faith!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.4|<< Luke 17:4]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.6|Luke 17:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπαν]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ·]]  [[G4369\|πρόσθες]]  [[G3165\|ἡμῖν]]  [[G4102G\|πίστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.4|<< Luke 17:4]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.6|Luke 17:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

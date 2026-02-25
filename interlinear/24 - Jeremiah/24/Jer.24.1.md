@@ -1,8 +1,80 @@
+---
+title: Jeremiah 24:1
+type: Verse
+kjv: "The LORD shewed me, and, behold, two baskets of figs were set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon."
+bsb: "After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon, the LORD showed me two baskets of figs placed in front of the temple of the LORD."
+hebrew: "הִרְאַנִי֮ יְהוָה֒ וְהִנֵּ֗ה שְׁנֵי֙ דּוּדָאֵ֣י תְאֵנִ֔ים מוּעָדִ֕ים לִפְנֵ֖י הֵיכַ֣ל יְהוָ֑ה אַחֲרֵ֣י הַגְל֣וֹת נְבוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֡ל אֶת־ יְכָנְיָ֣הוּ בֶן־ יְהוֹיָקִ֣ים מֶֽלֶךְ־ יְהוּדָה֩ וְאֶת־ שָׂרֵ֨י יְהוּדָ֜ה וְאֶת־ הֶחָרָ֤שׁ וְאֶת־ הַמַּסְגֵּר֙ מִיר֣וּשָׁלִַ֔ם וַיְבִאֵ֖ם בָּבֶֽל׃"
+pericope: "[[Jer.24.1 The Good and Bad Figs|The Good and Bad Figs]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8147]]"
+- "[[H1731]]"
+- "[[H8384]]"
+- "[[H3259]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1964G]]"
+- "[[H0310A]]"
+- "[[H1540K]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H3204]]"
+- "[[H1121A]]"
+- "[[H3079]]"
+- "[[H3063G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2796]]"
+- "[[H4525]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 24:1**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shewed me, and, behold, two baskets of figs [were] set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
 <small><sub>**BSB:**</sub></small>
 After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon, the LORD showed me two baskets of figs placed in front of the temple of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|הִרְאַ]][[H9030\|נִי֮]] [[H3068G\|יְהוָה֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֗ה]] [[H8147\|שְׁנֵי֙]] [[H1731\|דּוּדָאֵ֣י]] [[H8384\|תְאֵנִ֔ים]] [[H3259\|מוּעָדִ֕ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֑ה]] [[H0310A\|אַחֲרֵ֣י]] [[H1540K\|הַגְל֣וֹת]] [[H5019\|נְבוּכַדְרֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֡ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3204\|יְכָנְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3079\|יְהוֹיָקִ֣ים]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֨י]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2796\|חָרָ֤שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4525\|מַּסְגֵּר֙]] [[H9006\|מִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וַ]][[H0935P\|יְבִאֵ֖]][[H9038\|ם]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARPENTRY|CARPENTRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JEREMIAH|JEREMIAH]] • [[topic SMITH|SMITH]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.40|<< Jeremiah 23:40]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.2|Jeremiah 24:2 >>]]</td></tr></table>
 

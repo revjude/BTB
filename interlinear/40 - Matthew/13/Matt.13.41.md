@@ -1,10 +1,64 @@
+---
+title: Matthew 13:41
+type: Verse
+kjv: "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;"
+bsb: "The Son of Man will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness."
+jesus_said: "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;"
+greek: "ἀποστελεῖ ὁ υἱὸς τοῦ ἀνθρώπου τοὺς ἀγγέλους αὐτοῦ, καὶ συλλέξουσιν ἐκ τῆς βασιλείας αὐτοῦ πάντα τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν"
+pericope: "[[Matt.13.36 The Parable of the Weeds Explained|The Parable of the Weeds Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic TARES|TARES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4816]]"
+- "[[G1537]]"
+- "[[G0932]]"
+- "[[G3956]]"
+- "[[G4625]]"
+- "[[G4160G]]"
+- "[[G0458]]"
+texts:
+- NKO
+---
+
 **Matthew 13:41**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
 <small><sub>**BSB:**</sub></small>
 The Son of Man will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness.
-<small><sub>**Literal:**</sub></small>
-Will send forth the Son <the> of Man the angels of Him, and they will gather out of the kingdom of Him all the causes of sin and those practicing <the> lawlessness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.40|<< Matthew 13:40]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.42|Matthew 13:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0649\|ἀποστελεῖ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4816\|συλλέξουσιν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4625\|σκάνδαλα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4160G\|ποιοῦντας]]  [[G3588\|τὴν]]  [[G0458\|ἀνομίαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOSPEL|GOSPEL]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic TARES|TARES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.40|<< Matthew 13:40]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.42|Matthew 13:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

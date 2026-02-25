@@ -1,8 +1,77 @@
+---
+title: Numbers 21:5
+type: Verse
+kjv: "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread."
+bsb: "and spoke against God and against Moses: “Why have you led us up out of Egypt to die in the wilderness? There is no bread or water, and we detest this wretched food!”"
+hebrew: "וַיְדַבֵּ֣ר הָעָ֗ם בֵּֽאלֹהִים֮ וּבְמֹשֶׁה֒ לָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לָמ֖וּת בַּמִּדְבָּ֑ר כִּ֣י אֵ֥ין לֶ֙חֶם֙ וְאֵ֣ין מַ֔יִם וְנַפְשֵׁ֣נוּ קָ֔צָה בַּלֶּ֖חֶם הַקְּלֹקֵֽל׃"
+pericope: "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5927H]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H4191]]"
+- "[[H4057B]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3899G]]"
+- "[[H4325G]]"
+- "[[H5315I]]"
+- "[[H9025]]"
+- "[[H6973]]"
+- "[[H7052]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:5**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for [there is] no bread, neither [is there any] water; and our soul loatheth this light bread.
 <small><sub>**BSB:**</sub></small>
 and spoke against God and against Moses: “Why have you led us up out of Egypt to die in the wilderness? There is no bread or water, and we detest this wretched food!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהִים֮]] [[H9002\|וּ]][[H9003\|בְ]][[H4872\|מֹשֶׁה֒]] [[H9005\|לָ]][[H4100\|מָ֤ה]] [[H5927H\|הֶֽעֱלִיתֻ֙]][[H9035\|נוּ֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9005\|לָ]][[H4191\|מ֖וּת]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H3899G\|לֶ֙חֶם֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H4325G\|מַ֔יִם]] [[H9002\|וְ]][[H5315I\|נַפְשֵׁ֣]][[H9025\|נוּ]] [[H6973\|קָ֔צָה]] [[H9003\|בַּ]][[H3899G\|לֶּ֖חֶם]] [[H9009\|הַ]][[H7052\|קְּלֹקֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.4|<< Numbers 21:4]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.6|Numbers 21:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

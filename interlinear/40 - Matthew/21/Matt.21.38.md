@@ -1,10 +1,76 @@
+---
+title: Matthew 21:38
+type: Verse
+kjv: "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
+bsb: "But when the tenants saw the son, they said to one another, ‘This is the heir. Come, let us kill him and take his inheritance.’"
+jesus_said: "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
+greek: "Οἱ δὲ γεωργοὶ ἰδόντες τὸν υἱὸν εἶπον ἐν ἑαυτοῖς· οὗτός ἐστιν ὁ κληρονόμος· δεῦτε, ἀποκτείνωμεν αὐτὸν καὶ σχῶμεν τὴν κληρονομίαν αὐτοῦ."
+pericope: "[[Matt.21.33 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1092]]"
+- "[[G1492H]]"
+- "[[G5207]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2818]]"
+- "[[G1205]]"
+- "[[G0615]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G2817]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 21:38**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.
 <small><sub>**BSB:**</sub></small>
 But when the tenants saw the son, they said to one another, ‘This is the heir. Come, let us kill him and take his inheritance.’
-<small><sub>**Literal:**</sub></small>
-<the> But the farmers having seen the son said among themselves; This is the heir; come, let us  kill him and let us have the inheritance of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.37|<< Matthew 21:37]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.39|Matthew 21:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G1092\|γεωργοὶ]]  [[G1492H\|ἰδόντες]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G2036\|εἶπον]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2818\|κληρονόμος·]]  [[G1205\|δεῦτε,]]  [[G0615\|ἀποκτείνωμεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2192\|σχῶμεν]]  [[G3588\|τὴν]]  [[G2817\|κληρονομίαν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOD|GOD]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic PHARISEES|PHARISEES]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VINEYARD|VINEYARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.37|<< Matthew 21:37]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.39|Matthew 21:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 28:24
+type: Verse
+kjv: "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+bsb: "The LORD will turn the rain of your land into dust and powder; it will descend on you from the sky until you are destroyed."
+hebrew: "יִתֵּ֧ן יְהוָ֛ה אֶת־ מְטַ֥ר אַרְצְךָ֖ אָבָ֣ק וְעָפָ֑ר מִן־ הַשָּׁמַ֙יִם֙ יֵרֵ֣ד עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5414I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4306]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H0080]]"
+- "[[H9002]]"
+- "[[H6083]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3381]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:24**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.
 <small><sub>**BSB:**</sub></small>
 The LORD will turn the rain of your land into dust and powder; it will descend on you from the sky until you are destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414I\|יִתֵּ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4306\|מְטַ֥ר]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֖]] [[H0080\|אָבָ֣ק]] [[H9002\|וְ]][[H6083\|עָפָ֑ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H3381\|יֵרֵ֣ד]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H5704\|עַ֖ד]] [[H8045\|הִשָּׁמְדָֽ]][[H9041\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic DROUGHT|DROUGHT]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 

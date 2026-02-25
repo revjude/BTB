@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hebrew Servants
+type: Pericope
 pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 21
 book/chapter: "[[Exod.21|Exodus 21]]"
-genre:
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 11
 verses:
 - "[[Exod.21.1]]"
 - "[[Exod.21.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Exod.21.11]]"
 ---
 
-[[Exod.21|Exodus 21:1 - Exodus 21:11]]
+<small>[[Exod.21|Exodus 21:1-11]]</small>
 *Hebrew Servants*
 
 [[Exod.21.1|1]] Now these \[are\] the judgments which thou shalt set before them.

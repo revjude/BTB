@@ -1,8 +1,70 @@
+---
+title: Leviticus 8:29
+type: Verse
+kjv: "And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses’ part; as the LORD commanded Moses."
+bsb: "He also took the breast—Moses’ portion of the ram of ordination—and waved it before the LORD as a wave offering, as the LORD had commanded him."
+hebrew: "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־ הֶ֣חָזֶ֔ה וַיְנִיפֵ֥הוּ תְנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה מֵאֵ֣יל הַמִּלֻּאִ֗ים לְמֹשֶׁ֤ה הָיָה֙ לְמָנָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2373]]"
+- "[[H5130B]]"
+- "[[H9033]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0352A]]"
+- "[[H4394]]"
+- "[[H1961]]"
+- "[[H4490]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:29**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the breast, and waved it [for] a wave offering before the LORD: [for] of the ram of consecration it was Moses’ part; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 He also took the breast—Moses’ portion of the ram of ordination—and waved it before the LORD as a wave offering, as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֣]][[H2373\|חָזֶ֔ה]] [[H9001\|וַ]][[H5130B\|יְנִיפֵ֥]][[H9033\|הוּ]] [[H8573\|תְנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9006\|מֵ]][[H0352A\|אֵ֣יל]] [[H9009\|הַ]][[H4394\|מִּלֻּאִ֗ים]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֤ה]] [[H1961\|הָיָה֙]] [[H9005\|לְ]][[H4490\|מָנָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.28|<< Leviticus 8:28]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.30|Leviticus 8:30 >>]]</td></tr></table>
 

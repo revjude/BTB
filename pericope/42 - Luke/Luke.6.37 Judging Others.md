@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judging Others
+type: Pericope
 pericope: "[[Luke.6.37 Judging Others|Judging Others]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.6.37]]"
 - "[[Luke.6.38]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.6.42]]"
 ---
 
-[[Luke.6|Luke 6:37 - Luke 6:42]]
+<small>[[Luke.6|Luke 6:37-42]]</small>
 *Judging Others*
 
 [[Luke.6.37|37]] Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:

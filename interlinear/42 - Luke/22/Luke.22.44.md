@@ -1,10 +1,64 @@
+---
+title: Luke 22:44
+type: Verse
+kjv: "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground."
+bsb: "And in His anguish, He prayed more earnestly, and His sweat became like drops of blood falling to the ground."
+greek: "καὶ γενόμενος ἐν ἀγωνίᾳ ἐκτενέστερον προσηύχετο. καὶ ἐγένετο δὲ ὁ ἱδρὼς αὐτοῦ ὡσεὶ θρόμβοι αἵματος καταβαίνοντες ἐπὶ τὴν γῆν.]"
+pericope: "[[Luke.22.39 Jesus Prays on the Mount of Olives|Jesus Prays on the Mount of Olives]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic SWEAT|SWEAT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G0074]]"
+- "[[G1617]]"
+- "[[G4336]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2402]]"
+- "[[G0846]]"
+- "[[G5616]]"
+- "[[G2361]]"
+- "[[G0129G]]"
+- "[[G2597]]"
+- "[[G1909]]"
+- "[[G1093I]]"
+texts:
+- NKO
+- no
+- ko
+---
+
 **Luke 22:44**<big><big>[[Luke.22.39 Jesus Prays on the Mount of Olives|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 <small><sub>**BSB:**</sub></small>
 And in His anguish, He prayed more earnestly, and His sweat became like drops of blood falling to the ground.
-<small><sub>**Literal:**</sub></small>
-And having been in agony more earnestly He was praying. And became now the sweat of Him like great drops of blood falling down upon the ground.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.43|<< Luke 22:43]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.45|Luke 22:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|γενόμενος]]  [[G1722\|ἐν]]  [[G0074\|ἀγωνίᾳ]]  [[G1617\|ἐκτενέστερον]]  [[G4336\|προσηύχετο.]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2402\|ἱδρὼς]]  [[G0846\|αὐτοῦ]]  [[G5616\|ὡσεὶ]]  [[G2361\|θρόμβοι]]  [[G0129G\|αἵματος]]  [[G2597\|καταβαίνοντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093I\|γῆν.]]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic SORROW|SORROW]] • [[topic SWEAT|SWEAT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.43|<< Luke 22:43]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.45|Luke 22:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

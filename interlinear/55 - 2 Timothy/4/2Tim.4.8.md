@@ -1,10 +1,76 @@
+---
+title: 2 Timothy 4:8
+type: Verse
+kjv: "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
+bsb: "From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but to all who crave His appearing."
+greek: "λοιπὸν ἀπόκειταί μοι ὁ τῆς δικαιοσύνης στέφανος ὃν ἀποδώσει μοι ὁ κύριος ἐν ἐκείνῃ τῇ ἡμέρᾳ, ὁ δίκαιος κριτής· οὐ μόνον δὲ ἐμοί, ἀλλὰ καὶ πᾶσιν τοῖς ἠγαπηκόσιν τὴν ἐπιφάνειαν αὐτοῦ.¶"
+pericope: "[[2Tim.4.1 Preach the Word|Preach the Word]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3063]]"
+- "[[G0606]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1343]]"
+- "[[G4735]]"
+- "[[G3739]]"
+- "[[G0591]]"
+- "[[G2962G]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G2250]]"
+- "[[G1342]]"
+- "[[G2923]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0025]]"
+- "[[G2015]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **2 Timothy 4:8**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.
 <small><sub>**BSB:**</sub></small>
 From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but to all who crave His appearing.
-<small><sub>**Literal:**</sub></small>
-From now on is laid up for me the <the> of righteousness crown which will award to me the Lord in that [very] <the> day, the righteous judge; not only however to me myself, but also to all those already loving the appearing of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.7|<< 2 Timothy 4:7]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.9|2 Timothy 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3063\|λοιπὸν]]  [[G0606\|ἀπόκειταί]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3588\|τῆς]]  [[G1343\|δικαιοσύνης]]  [[G4735\|στέφανος]]  [[G3739\|ὃν]]  [[G0591\|ἀποδώσει]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ,]]  [[G3588\|ὁ]]  [[G1342\|δίκαιος]]  [[G2923\|κριτής·]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δὲ]]  [[G1473\|ἐμοί,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G0025\|ἠγαπηκόσιν]]  [[G3588\|τὴν]]  [[G2015\|ἐπιφάνειαν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CROWN|CROWN]] • [[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.7|<< 2 Timothy 4:7]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.9|2 Timothy 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

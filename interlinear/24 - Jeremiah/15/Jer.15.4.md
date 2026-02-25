@@ -1,8 +1,67 @@
+---
+title: Jeremiah 15:4
+type: Verse
+kjv: "And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for that which he did in Jerusalem."
+bsb: "I will make them a horror to all the kingdoms of the earth because of what Manasseh son of Hezekiah king of Judah did in Jerusalem."
+hebrew: "וּנְתַתִּ֣ים לְזַֽעֲוָ֔ה לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ בִּ֠גְלַל מְנַשֶּׁ֤ה בֶן־ יְחִזְקִיָּ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה עַ֥ל אֲשֶׁר־ עָשָׂ֖ה בִּירוּשָׁלִָֽם׃"
+pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H2113]]"
+- "[[H2189]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H1558]]"
+- "[[H4519H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 15:4**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for [that] which he did in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 I will make them a horror to all the kingdoms of the earth because of what Manasseh son of Hezekiah king of Judah did in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414I\|נְתַתִּ֣י]][[H9038\|ם]] [[H9005\|לְ]][[H2189\|זַֽעֲוָ֔ה]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9003\|בִּ֠]][[H1558\|גְלַל]] [[H4519H\|מְנַשֶּׁ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H2396G\|יְחִזְקִיָּ֙הוּ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H5921A\|עַ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֖ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.3|<< Jeremiah 15:3]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.5|Jeremiah 15:5 >>]]</td></tr></table>
 
@@ -25,7 +84,7 @@ I will make them a horror to all the kingdoms of the earth because of what Manas
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.3|<< Jeremiah 15:3]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.5|Jeremiah 15:5 >>]]</td></tr></table>
 
-[^1]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
-[^2]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^1]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְזַֽוֲעָ֔ה</big></span>**
 

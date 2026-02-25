@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 8:7
+type: Verse
+kjv: "And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem."
+bsb: "And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem."
+hebrew: "וַיִּקַּ֣ח דָּוִ֗ד אֵ֚ת שִׁלְטֵ֣י הַזָּהָ֔ב אֲשֶׁ֣ר הָי֔וּ אֶ֖ל עַבְדֵ֣י הֲדַדְעָ֑זֶר וַיְבִיאֵ֖ם יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H7982]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H1909]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:7**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H1732\|דָּוִ֗ד]] [[H0853\|אֵ֚ת]] [[H7982\|שִׁלְטֵ֣י]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָי֔וּ]] [[H0413\|אֶ֖ל]] [[H5650\|עַבְדֵ֣י]] [[H1909\|הֲדַדְעָ֑זֶר]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9038\|ם]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic SHIELD|SHIELD]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.6|<< 2 Samuel 8:6]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.8|2 Samuel 8:8 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Jeremiah 31:25
+type: Verse
+kjv: "For I have satiated the weary soul, and I have replenished every sorrowful soul."
+bsb: "for I will refresh the weary soul and replenish all who are weak.”"
+hebrew: "כִּ֥י הִרְוֵ֖יתִי נֶ֣פֶשׁ עֲיֵפָ֑ה וְכָל־ נֶ֥פֶשׁ דָּאֲבָ֖ה מִלֵּֽאתִי׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7301]]"
+- "[[H5315G]]"
+- "[[H5889]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1669]]"
+- "[[H4390]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:25**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have satiated the weary soul, and I have replenished every sorrowful soul.
 <small><sub>**BSB:**</sub></small>
 for I will refresh the weary soul and replenish all who are weak.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H7301\|הִרְוֵ֖יתִי]] [[H5315G\|נֶ֣פֶשׁ]] [[H5889\|עֲיֵפָ֑ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נֶ֥פֶשׁ]] [[H1669\|דָּאֲבָ֖ה]] [[H4390\|מִלֵּֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.24|<< Jeremiah 31:24]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.26|Jeremiah 31:26 >>]]</td></tr></table>
 

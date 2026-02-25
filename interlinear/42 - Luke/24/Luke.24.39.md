@@ -1,10 +1,65 @@
+---
+title: Luke 24:39
+type: Verse
+kjv: "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+bsb: "Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.”"
+jesus_said: "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+greek: "ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ψηλαφήσατέ με καὶ ἴδετε ὅτι πνεῦμα σάρκα καὶ ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G4228]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G5584]]"
+- "[[G3754H]]"
+- "[[G4151G]]"
+- "[[G4561]]"
+- "[[G3747]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G2531]]"
+- "[[G2334]]"
+texts:
+- NKO
+---
+
 **Luke 24:39**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
 <small><sub>**BSB:**</sub></small>
 Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.”
-<small><sub>**Literal:**</sub></small>
-do see the hands of Me and the feet of Me that I myself am He himself; do touch Me and do see for a spirit flesh and bones not has even as Me myself you see having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.38|<< Luke 24:38]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.40|Luke 24:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἴδετε]]  [[G3588\|τὰς]]  [[G5495\|χεῖράς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3165\|μου]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G0846\|αὐτός·]]  [[G5584\|ψηλαφήσατέ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G1492H\|ἴδετε]]  [[G3754H\|ὅτι]]  [[G4151G\|πνεῦμα]]  [[G4561\|σάρκα]]  [[G2532\|καὶ]]  [[G3747\|ὀστέα]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει]]  [[G2531\|καθὼς]]  [[G1473\|ἐμὲ]]  [[G2334\|θεωρεῖτε]]  [[G2192\|ἔχοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MAN|MAN]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.38|<< Luke 24:38]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.40|Luke 24:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

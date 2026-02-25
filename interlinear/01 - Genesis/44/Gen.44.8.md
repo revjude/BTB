@@ -1,8 +1,68 @@
+---
+title: Genesis 44:8
+type: Verse
+kjv: "Behold, the money, which we found in our sacks’ mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord’s house silver or gold?"
+bsb: "We even brought back to you from the land of Canaan the silver we found in the mouths of our sacks. Why would we steal silver or gold from your master’s house?"
+hebrew: "הֵ֣ן כֶּ֗סֶף אֲשֶׁ֤ר מָצָ֙אנוּ֙ בְּפִ֣י אַמְתְּחֹתֵ֔ינוּ הֱשִׁיבֹ֥נוּ אֵלֶ֖יךָ מֵאֶ֣רֶץ כְּנָ֑עַן וְאֵ֗יךְ נִגְנֹב֙ מִבֵּ֣ית אֲדֹנֶ֔יךָ כֶּ֖סֶף א֥וֹ זָהָֽב׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H2005]]"
+- "[[H3701G]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H0572]]"
+- "[[H9025]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H1589]]"
+- "[[H1004B]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:8**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the money, which we found in our sacks’ mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord’s house silver or gold?
 <small><sub>**BSB:**</sub></small>
 We even brought back to you from the land of Canaan the silver we found in the mouths of our sacks. Why would we steal silver or gold from your master’s house?
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H3701G\|כֶּ֗סֶף]] [[H0834A\|אֲשֶׁ֤ר]] [[H4672\|מָצָ֙אנוּ֙]] [[H9003\|בְּ]][[H6310G\|פִ֣י]] [[H0572\|אַמְתְּחֹתֵ֔י]][[H9025\|נוּ]] [[H7725G\|הֱשִׁיבֹ֥נוּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9002\|וְ]][[H0349A\|אֵ֗יךְ]] [[H1589\|נִגְנֹב֙]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H0113\|אֲדֹנֶ֔י]][[H9021\|ךָ]] [[H3701G\|כֶּ֖סֶף]] [[H0176A\|א֥וֹ]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.7|<< Genesis 44:7]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.9|Genesis 44:9 >>]]</td></tr></table>
 

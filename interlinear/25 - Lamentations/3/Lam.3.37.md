@@ -1,8 +1,49 @@
+---
+title: Lamentations 3:37
+type: Verse
+kjv: "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?"
+bsb: "Who has spoken and it came to pass, unless the Lord has ordained it?"
+hebrew: "מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי אֲדֹנָ֖י לֹ֥א צִוָּֽה׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H2088]]"
+- "[[H0559]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0136]]"
+- "[[H3808]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:37**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] he [that] saith, and it cometh to pass, [when] the Lord commandeth [it] not?
 <small><sub>**BSB:**</sub></small>
 Who has spoken and it came to pass, unless the Lord has ordained it?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֣י]] [[H2088\|זֶ֤ה]] [[H0559\|אָמַר֙]] [[H9001\|וַ]][[H1961\|תֶּ֔הִי]] [[H0136\|אֲדֹנָ֖י]] [[H3808\|לֹ֥א]] [[H6680\|צִוָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.36|<< Lamentations 3:36]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.38|Lamentations 3:38 >>]]</td></tr></table>
 

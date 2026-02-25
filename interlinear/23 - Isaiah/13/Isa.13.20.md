@@ -1,8 +1,57 @@
+---
+title: Isaiah 13:20
+type: Verse
+kjv: "It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there."
+bsb: "She will never be inhabited or settled from generation to generation; no nomad will pitch his tent there, no shepherd will rest his flock there."
+hebrew: "לֹֽא־ תֵשֵׁ֣ב לָנֶ֔צַח וְלֹ֥א תִשְׁכֹּ֖ן עַד־ דּ֣וֹר וָד֑וֹר וְלֹֽא־ יַהֵ֥ל שָׁם֙ עֲרָבִ֔י וְרֹעִ֖ים לֹא־ יַרְבִּ֥צוּ שָֽׁם׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H9002]]"
+- "[[H7931]]"
+- "[[H5704]]"
+- "[[H1755]]"
+- "[[H0167]]"
+- "[[H8033G]]"
+- "[[H6163A]]"
+- "[[H7462B]]"
+- "[[H7257]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:20**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall never be inhabited, neither shall it be dwelt in from generation to generation: neither shall the Arabian pitch tent there; neither shall the shepherds make their fold there.
 <small><sub>**BSB:**</sub></small>
 She will never be inhabited or settled from generation to generation; no nomad will pitch his tent there, no shepherd will rest his flock there.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|תֵשֵׁ֣ב]] [[H9005\|לָ]][[H5331\|נֶ֔צַח]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7931\|תִשְׁכֹּ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H1755\|דּ֣וֹר]] [[H9002\|וָ]][[H1755\|ד֑וֹר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0167\|יַהֵ֥ל]] [[H8033G\|שָׁם֙]] [[H6163A\|עֲרָבִ֔י]] [[H9002\|וְ]][[H7462B\|רֹעִ֖ים]] [[H3808\|לֹא]][[H9014\|־]] [[H7257\|יַרְבִּ֥צוּ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.19|<< Isaiah 13:19]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.21|Isaiah 13:21 >>]]</td></tr></table>
 

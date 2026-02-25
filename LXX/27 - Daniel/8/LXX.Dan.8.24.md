@@ -1,6 +1,56 @@
+---
+title: LXX Daniel 8:24
+type: Verse
+lxx: "And his strength is fortified, and not by  his strength. And wonderfully he shall corrupt, and shall prosper, and shall perform, and shall corrupt strong ones, and a holy people."
+greek: "και κραταιά η ισχύς αυτού και ουκ εν τη ισχύϊ αυτού και θαυμαστά διαφθερεί και κατευθυνεί και ποιήσει και διαφθερεί ισχυρούς και λαόν άγιον"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[G2532]]"
+- "[[G2900]]"
+- "[[G3588]]"
+- "[[G2479]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2479]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2298]]"
+- "[[G1311]]"
+- "[[G2532]]"
+- "[[G2720]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G1311]]"
+- "[[G2478]]"
+- "[[G2532]]"
+- "[[G2992]]"
+- "[[G0039]]"
+---
+
 **LXX Daniel 8:24** 
 <small><sub>**LXX:**</sub></small>
 And his strength \[is\] fortified, and not by  his strength. And wonderfully he shall corrupt, and shall prosper, and shall perform, and shall corrupt strong ones, and a holy people. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2900\|κραταιά]] [[G3588\|η]] [[G2479\|ισχύς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3756\|ουκ]] [[G1722\|εν]] [[G3588\|τη]] [[G2479\|ισχύϊ]] [[G1473\|αυτού]] [[G2532\|και]] [[G2298\|θαυμαστά]] [[G1311\|διαφθερεί]] [[G2532\|και]] [[G2720\|κατευθυνεί]] [[G2532\|και]] [[G4160\|ποιήσει]] [[G2532\|και]] [[G1311\|διαφθερεί]] [[G2478\|ισχυρούς]] [[G2532\|και]] [[G2992\|λαόν]] [[G0039\|άγιον]]
 <small><sub>**MT:**</sub></small>
 [[Dan.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -32,6 +82,6 @@ And his strength \[is\] fortified, and not by  his strength. And wonderfully he 
 | and | **<big>[[G2532\|και]]</big>** |
 | people | **<big>[[G2992\|λαόν]]</big>** |
 | a holy | **<big>[[G0039\|άγιον]]</big>** |
-[[Dan.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
 
 

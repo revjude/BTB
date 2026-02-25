@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: In Pisidian Antioch
+type: Pericope
 pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
-verse_count: 29
+original_language: Greek
 testament: New
 book: Acts
 chapter: 13
 book/chapter: "[[Acts.13|Acts 13]]"
-genre:
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 29
 verses:
 - "[[Acts.13.13]]"
 - "[[Acts.13.14]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Acts.13.41]]"
 ---
 
-[[Acts.13|Acts 13:13 - Acts 13:41]]
+<small>[[Acts.13|Acts 13:13-41]]</small>
 *In Pisidian Antioch*
 
 [[Acts.13.13|13]] Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.

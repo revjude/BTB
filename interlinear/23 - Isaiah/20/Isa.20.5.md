@@ -1,8 +1,56 @@
+---
+title: Isaiah 20:5
+type: Verse
+kjv: "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory."
+bsb: "Those who made Cush their hope and Egypt their boast will be dismayed and ashamed."
+hebrew: "וְחַתּ֖וּ וָבֹ֑שׁוּ מִכּוּשׁ֙ מַבָּטָ֔ם וּמִן־ מִצְרַ֖יִם תִּפְאַרְתָּֽם׃"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H2865]]"
+- "[[H0954]]"
+- "[[H9006]]"
+- "[[H3568A]]"
+- "[[H4007]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H8597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 20:5**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.
 <small><sub>**BSB:**</sub></small>
 Those who made Cush their hope and Egypt their boast will be dismayed and ashamed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2865\|חַתּ֖וּ]] [[H9001\|וָ]][[H0954\|בֹ֑שׁוּ]] [[H9006\|מִ]][[H3568A\|כּוּשׁ֙]] [[H4007\|מַבָּטָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H8597\|תִּפְאַרְתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic EGYPT|EGYPT]] • [[topic ETHIOPIA|ETHIOPIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.4|<< Isaiah 20:4]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.6|Isaiah 20:6 >>]]</td></tr></table>
 

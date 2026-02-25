@@ -1,8 +1,66 @@
+---
+title: Genesis 32:12
+type: Verse
+kjv: "And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude."
+bsb: "But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”"
+hebrew: "וְאַתָּ֣ה אָמַ֔רְתָּ הֵיטֵ֥ב אֵיטִ֖יב עִמָּ֑ךְ וְשַׂמְתִּ֤י אֶֽת־ זַרְעֲךָ֙ כְּח֣וֹל הַיָּ֔ם אֲשֶׁ֥ר לֹא־ יִסָּפֵ֖ר מֵרֹֽב׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0559]]"
+- "[[H3190]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5608A]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:12**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
 <small><sub>**BSB:**</sub></small>
 But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H0559\|אָמַ֔רְתָּ]] [[H3190\|הֵיטֵ֥ב]] [[H3190\|אֵיטִ֖יב]] [[H5973A\|עִמָּ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֤י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֙]] [[H9004\|כְּ]][[H2344\|ח֣וֹל]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5608A\|יִסָּפֵ֖ר]] [[H9006\|מֵ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.11|<< Genesis 32:11]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.13|Genesis 32:13 >>]]</td></tr></table>
 

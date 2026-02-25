@@ -1,8 +1,60 @@
+---
+title: Joshua 21:5
+type: Verse
+kjv: "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities."
+bsb: "The remaining descendants of Kohath received ten cities by lot from the tribes of Ephraim, Dan, and the half-tribe of Manasseh."
+hebrew: "וְלִבְנֵ֨י קְהָ֜ת הַנּוֹתָרִ֗ים מִמִּשְׁפְּחֹ֣ת מַטֵּֽה־ אֶ֠פְרַיִם וּֽמִמַּטֵּה־ דָ֞ן וּמֵחֲצִ֨י מַטֵּ֧ה מְנַשֶּׁ֛ה בַּגּוֹרָ֖ל עָרִ֥ים עָֽשֶׂר׃ ס"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H6955]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H4294H]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H1835G]]"
+- "[[H2677]]"
+- "[[H4519G]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H5892B]]"
+- "[[H6235]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 21:5**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the children of Kohath [had] by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.
 <small><sub>**BSB:**</sub></small>
 The remaining descendants of Kohath received ten cities by lot from the tribes of Ephraim, Dan, and the half-tribe of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H6955\|קְהָ֜ת]] [[H9009\|הַ]][[H3498\|נּוֹתָרִ֗ים]] [[H9006\|מִ]][[H4940\|מִּשְׁפְּחֹ֣ת]] [[H4294H\|מַטֵּֽה]][[H9014\|־]] [[H0669G\|אֶ֠פְרַיִם]] [[H9002\|וּֽ]][[H9006\|מִ]][[H4294H\|מַּטֵּה]][[H9014\|־]] [[H1835G\|דָ֞ן]] [[H9002\|וּ]][[H9006\|מֵ]][[H2677\|חֲצִ֨י]] [[H4294H\|מַטֵּ֧ה]] [[H4519G\|מְנַשֶּׁ֛ה]] [[H9003\|בַּ]][[H1486\|גּוֹרָ֖ל]] [[H5892B\|עָרִ֥ים]] [[H6235\|עָֽשֶׂר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.4|<< Joshua 21:4]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.6|Joshua 21:6 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ The remaining descendants of Kohath received ten cities by lot from the tribes o
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֛ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the lot  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1486\|גּוֹרָ֖ל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֥ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  |**<big>&#8207;[[H6235\|עָֽשֶׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עָֽשֶׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.4|<< Joshua 21:4]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.6|Joshua 21:6 >>]]</td></tr></table>
 
 

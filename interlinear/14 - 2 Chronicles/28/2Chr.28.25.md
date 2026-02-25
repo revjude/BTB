@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 28:25
+type: Verse
+kjv: "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers."
+bsb: "In every city of Judah he built high places to offer incense to other gods, and so he provoked the LORD, the God of his fathers."
+hebrew: "וּבְכָל־ עִ֨יר וָעִ֤יר לִֽיהוּדָה֙ עָשָׂ֣ה בָמ֔וֹת לְקַטֵּ֖ר לֵֽאלֹהִ֣ים אֲחֵרִ֑ים וַיַּכְעֵ֕ס אֶת־ יְהוָ֖ה אֱלֹהֵ֥י אֲבֹתָֽיו׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZ|AHAZ]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H6213H]]"
+- "[[H1116]]"
+- "[[H6999H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9001]]"
+- "[[H3707]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:25**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.
 <small><sub>**BSB:**</sub></small>
 In every city of Judah he built high places to offer incense to other gods, and so he provoked the LORD, the God of his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עִ֨יר]] [[H9002\|וָ]][[H5892B\|עִ֤יר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָה֙]] [[H6213H\|עָשָׂ֣ה]] [[H1116\|בָמ֔וֹת]] [[H9005\|לְ]][[H6999H\|קַטֵּ֖ר]] [[H9005\|לֵֽ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9001\|וַ]][[H3707\|יַּכְעֵ֕ס]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.24|<< 2 Chronicles 28:24]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.26|2 Chronicles 28:26 >>]]</td></tr></table>
 

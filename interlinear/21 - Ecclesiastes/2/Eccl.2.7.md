@@ -1,8 +1,69 @@
+---
+title: Ecclesiastes 2:7
+type: Verse
+kjv: "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:"
+bsb: "I acquired menservants and maidservants, and servants were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me,"
+hebrew: "קָנִ֙יתִי֙ עֲבָדִ֣ים וּשְׁפָח֔וֹת וּבְנֵי־ בַ֖יִת הָ֣יָה לִ֑י גַּ֣ם מִקְנֶה֩ בָקָ֨ר וָצֹ֤אן הַרְבֵּה֙ הָ֣יָה לִ֔י מִכֹּ֛ל שֶֽׁהָי֥וּ לְפָנַ֖י בִּירוּשָׁלִָֽם׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H7069]]"
+- "[[H5650]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H4735]]"
+- "[[H1241]]"
+- "[[H6629G]]"
+- "[[H7235A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9007]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:7**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I got [me] servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
 <small><sub>**BSB:**</sub></small>
 I acquired menservants and maidservants, and servants were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me,
+<small><sub>**Hebrew:**</sub></small>
+[[H7069\|קָנִ֙יתִי֙]] [[H5650\|עֲבָדִ֣ים]] [[H9002\|וּ]][[H8198\|שְׁפָח֔וֹת]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9014\|־]] [[H1004B\|בַ֖יִת]] [[H1961\|הָ֣יָה]] [[H9005\|לִ֑]][[H9030\|י]] [[H1571\|גַּ֣ם]] [[H4735\|מִקְנֶה֩]] [[H1241\|בָקָ֨ר]] [[H9002\|וָ]][[H6629G\|צֹ֤אן]] [[H7235A\|הַרְבֵּה֙]] [[H1961\|הָ֣יָה]] [[H9005\|לִ֔]][[H9030\|י]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H9007\|שֶֽׁ]][[H1961\|הָי֥וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPICUREANS|EPICUREANS]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic SERVANT|SERVANT]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.6|<< Ecclesiastes 2:6]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.8|Ecclesiastes 2:8 >>]]</td></tr></table>
 

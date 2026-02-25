@@ -1,10 +1,60 @@
+---
+title: Luke 4:1
+type: Verse
+kjv: "And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,"
+bsb: "Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,"
+greek: "Ἰησοῦς δὲ πλήρης πνεύματος ἁγίου ὑπέστρεψεν ἀπὸ τοῦ Ἰορδάνου καὶ ἤγετο ἐν τῷ πνεύματι ἐν τῇ ἐρήμῳ"
+pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WILDERNESS|WILDERNESS]]"
+strongs:
+- "[[G2424G]]"
+- "[[G1161]]"
+- "[[G4134]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G5290]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G1722]]"
+- "[[G2048]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:1**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 <small><sub>**BSB:**</sub></small>
 Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,
-<small><sub>**Literal:**</sub></small>
-Jesus then full of [the] Spirit Holy returned from the Jordan and was led by the Spirit into the wilderness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.38|<< Luke 3:38]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.2|Luke 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G1161\|δὲ]]  [[G4134\|πλήρης]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G5290\|ὑπέστρεψεν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2446\|Ἰορδάνου]]  [[G2532\|καὶ]]  [[G0071\|ἤγετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TRINITY|TRINITY]] • [[topic WILDERNESS|WILDERNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.38|<< Luke 3:38]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.2|Luke 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

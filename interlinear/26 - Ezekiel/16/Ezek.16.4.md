@@ -1,8 +1,69 @@
+---
+title: Ezekiel 16:4
+type: Verse
+kjv: "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple thee; thou wast not salted at all, nor swaddled at all."
+bsb: "On the day of your birth your cord was not cut, nor were you washed with water for cleansing. You were not rubbed with salt or wrapped in cloths."
+hebrew: "וּמוֹלְדוֹתַ֗יִךְ בְּי֨וֹם הוּלֶּ֤דֶת אֹתָךְ֙ לֹֽא־ כָרַּ֣ת שָׁרֵּ֔ךְ וּבְמַ֥יִם לֹֽא־ רֻחַ֖צְתְּ לְמִשְׁעִ֑י וְהָמְלֵ֙חַ֙ לֹ֣א הֻמְלַ֔חַתְּ וְהָחְתֵּ֖ל לֹ֥א חֻתָּֽלְתְּ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIDWIFERY|MIDWIFERY]]"
+- "[[topic NAVEL|NAVEL]]"
+- "[[topic OBSTETRICS|OBSTETRICS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SWADDLE|SWADDLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772G]]"
+- "[[H8270]]"
+- "[[H4325G]]"
+- "[[H7364]]"
+- "[[H9005]]"
+- "[[H4935]]"
+- "[[H4414B]]"
+- "[[H2853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:4**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple [thee]; thou wast not salted at all, nor swaddled at all.
 <small><sub>**BSB:**</sub></small>
 On the day of your birth your cord was not cut, nor were you washed with water for cleansing. You were not rubbed with salt or wrapped in cloths.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4138\|מוֹלְדוֹתַ֗יִ]][[H9022\|ךְ]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H3205\|הוּלֶּ֤דֶת]] [[H0853\|אֹתָ]][[H9032\|ךְ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772G\|כָרַּ֣ת]] [[H8270\|שָׁרֵּ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H4325G\|מַ֥יִם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7364\|רֻחַ֖צְתְּ]] [[H9005\|לְ]][[H4935\|מִשְׁעִ֑י]] [[H9002\|וְ]][[H4414B\|הָמְלֵ֙חַ֙]] [[H3808\|לֹ֣א]] [[H4414B\|הֻמְלַ֔חַתְּ]] [[H9002\|וְ]][[H2853\|הָחְתֵּ֖ל]] [[H3808\|לֹ֥א]] [[H2853\|חֻתָּֽלְתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic MIDWIFERY|MIDWIFERY]] • [[topic NAVEL|NAVEL]] • [[topic OBSTETRICS|OBSTETRICS]] • [[topic SANITATION|SANITATION]] • [[topic SWADDLE|SWADDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.3|<< Ezekiel 16:3]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.5|Ezekiel 16:5 >>]]</td></tr></table>
 

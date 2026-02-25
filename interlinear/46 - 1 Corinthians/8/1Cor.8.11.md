@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 8:11
+type: Verse
+kjv: "And through thy knowledge shall the weak brother perish, for whom Christ died?"
+bsb: "So this weak brother, for whom Christ died, is destroyed by your knowledge."
+greek: "ἀπόλλυται γὰρ ὁ ἀσθενῶν ἐν τῇ σῇ γνώσει, ὁ ἀδελφὸς δι᾽ ὃν Χριστὸς ἀπέθανεν."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G0622]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0770G]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1108]]"
+- "[[G0080]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G5547]]"
+- "[[G0599]]"
+texts:
+- N(K)O
+- NKO
+- no
+---
+
 **1 Corinthians 8:11**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And through thy knowledge shall the weak brother perish, for whom Christ died?
 <small><sub>**BSB:**</sub></small>
 So this weak brother, for whom Christ died, is destroyed by your knowledge.
-<small><sub>**Literal:**</sub></small>
-Is destroyed for the [one] who is being weak through <the> your knowledge, the brother for whom Christ died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.10|<< 1 Corinthians 8:10]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.12|1 Corinthians 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0622\|ἀπόλλυται]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G0770G\|ἀσθενῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4771\|σῇ]]  [[G1108\|γνώσει,]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G1223\|δι᾽]]  [[G3739\|ὃν]]  [[G5547\|Χριστὸς]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXAMPLE|EXAMPLE]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STUMBLING|STUMBLING]] • [[topic SUFFERING|SUFFERING]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.10|<< 1 Corinthians 8:10]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.12|1 Corinthians 8:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

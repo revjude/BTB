@@ -1,10 +1,59 @@
+---
+title: Acts 10:36
+type: Verse
+kjv: "The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)"
+bsb: "He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all."
+greek: "τὸν λόγον ὃν ἀπέστειλεν τοῖς υἱοῖς Ἰσραὴλ εὐαγγελιζόμενος εἰρήνην διὰ Ἰησοῦ Χριστοῦ, οὗτός ἐστιν πάντων κύριος,"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G0649]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G2097]]"
+- "[[G1515]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Acts 10:36**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The word which [God] sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 <small><sub>**BSB:**</sub></small>
 He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all.
-<small><sub>**Literal:**</sub></small>
-the word that He sent to the sons of Israel evangelising [about] peace through Jesus Christ — He is of all Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.35|<< Acts 10:35]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.37|Acts 10:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3739\|ὃν]]  [[G0649\|ἀπέστειλεν]]  [[G3588\|τοῖς]]  [[G5207\|υἱοῖς]]  [[G2474\|Ἰσραὴλ]]  [[G2097\|εὐαγγελιζόμενος]]  [[G1515\|εἰρήνην]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3956\|πάντων]]  [[G2962G\|κύριος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic SIN|SIN]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.35|<< Acts 10:35]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.37|Acts 10:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Daniel 10:1
+type: Verse
+kjv: "In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision."
+bsb: "In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision."
+hebrew: "בִּשְׁנַ֣ת שָׁל֗וֹשׁ לְכ֙וֹרֶשׁ֙ מֶ֣לֶךְ פָּרַ֔ס דָּבָר֙ נִגְלָ֣ה לְדָֽנִיֵּ֔אל אֲשֶׁר־ נִקְרָ֥א שְׁמ֖וֹ בֵּלְטְשַׁאצַּ֑ר וֶאֱמֶ֤ת הַדָּבָר֙ וְצָבָ֣א גָד֔וֹל וּבִין֙ אֶת־ הַדָּבָ֔ר וּבִ֥ינָה ל֖וֹ בַּמַּרְאֶֽה׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic FASTING|FASTING]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H3566]]"
+- "[[H4428G]]"
+- "[[H6539]]"
+- "[[H1697G]]"
+- "[[H1540H]]"
+- "[[H1840G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1095]]"
+- "[[H9002]]"
+- "[[H0571H]]"
+- "[[H9009]]"
+- "[[H6635H]]"
+- "[[H1419A]]"
+- "[[H9001]]"
+- "[[H0995]]"
+- "[[H0853]]"
+- "[[H0998]]"
+- "[[H9033]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:1**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing [was] true, but the time appointed [was] long: and he understood the thing, and had understanding of the vision.
 <small><sub>**BSB:**</sub></small>
 In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁל֗וֹשׁ]] [[H9005\|לְ]][[H3566\|כ֙וֹרֶשׁ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6539\|פָּרַ֔ס]] [[H1697G\|דָּבָר֙]] [[H1540H\|נִגְלָ֣ה]] [[H9005\|לְ]][[H1840G\|דָֽנִיֵּ֔אל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|נִקְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H1095\|בֵּלְטְשַׁאצַּ֑ר]] [[H9002\|וֶ]][[H0571H\|אֱמֶ֤ת]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H9002\|וְ]][[H6635H\|צָבָ֣א]] [[H1419A\|גָד֔וֹל]] [[H9001\|וּ]][[H0995\|בִין֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H9002\|וּ]][[H0998\|בִ֥ינָה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בַּ]][[H4758\|מַּרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.27|<< Daniel 9:27]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.2|Daniel 10:2 >>]]</td></tr></table>
 

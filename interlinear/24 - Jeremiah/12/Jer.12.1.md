@@ -1,8 +1,66 @@
+---
+title: Jeremiah 12:1
+type: Verse
+kjv: "Righteous art thou, O LORD, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?"
+bsb: "Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease?"
+hebrew: "צַדִּ֤יק אַתָּה֙ יְהוָ֔ה כִּ֥י אָרִ֖יב אֵלֶ֑יךָ אַ֤ךְ מִשְׁפָּטִים֙ אֲדַבֵּ֣ר אוֹתָ֔ךְ מַדּ֗וּעַ דֶּ֤רֶךְ רְשָׁעִים֙ צָלֵ֔חָה שָׁל֖וּ כָּל־ בֹּ֥גְדֵי בָֽגֶד׃"
+pericope: "[[Jer.12.1 The Prosperity of the Wicked|The Prosperity of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6662]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H7378]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0389]]"
+- "[[H4941G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H4069]]"
+- "[[H1870L]]"
+- "[[H7563]]"
+- "[[H6743B]]"
+- "[[H7951]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0898]]"
+- "[[H0899A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:1**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteous [art] thou, O LORD, when I plead with thee: yet let me talk with thee of [thy] judgments: Wherefore doth the way of the wicked prosper? [wherefore] are all they happy that deal very treacherously?
 <small><sub>**BSB:**</sub></small>
 Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease?
+<small><sub>**Hebrew:**</sub></small>
+[[H6662\|צַדִּ֤יק]] [[H0859A\|אַתָּה֙]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H7378\|אָרִ֖יב]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H0389\|אַ֤ךְ]] [[H4941G\|מִשְׁפָּטִים֙]] [[H1696G\|אֲדַבֵּ֣ר]] [[H0854\|אוֹתָ֔]][[H9031\|ךְ]] [[H4069\|מַדּ֗וּעַ]] [[H1870L\|דֶּ֤רֶךְ]] [[H7563\|רְשָׁעִים֙]] [[H6743B\|צָלֵ֔חָה]] [[H7951\|שָׁל֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0898\|בֹּ֥גְדֵי]] [[H0899A\|בָֽגֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JEREMIAH|JEREMIAH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.23|<< Jeremiah 11:23]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.2|Jeremiah 12:2 >>]]</td></tr></table>
 

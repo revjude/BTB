@@ -1,10 +1,58 @@
+---
+title: John 20:6
+type: Verse
+kjv: "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,"
+bsb: "Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there."
+greek: "Ἔρχεται οὖν καὶ Σίμων Πέτρος ἀκολουθῶν αὐτῷ καὶ εἰσῆλθεν εἰς τὸ μνημεῖον, καὶ θεωρεῖ τὰ ὀθόνια κείμενα"
+pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G2532]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G2334]]"
+- "[[G3608]]"
+- "[[G2749]]"
+texts:
+- NKO
+- no
+---
+
 **John 20:6**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,
 <small><sub>**BSB:**</sub></small>
 Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there.
-<small><sub>**Literal:**</sub></small>
-Comes then also Simon Peter following after him and he entered into the tomb and sees the linen cloths lying [there]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.5|<< John 20:5]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.7|John 20:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἔρχεται]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G0190\|ἀκολουθῶν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον,]]  [[G2532\|καὶ]]  [[G2334\|θεωρεῖ]]  [[G3588\|τὰ]]  [[G3608\|ὀθόνια]]  [[G2749\|κείμενα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LOVE|LOVE]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.5|<< John 20:5]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.7|John 20:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

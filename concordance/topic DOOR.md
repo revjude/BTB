@@ -9,7 +9,7 @@
 
 → Made of gold [[1Kgs.7.50|1Ki 7:50]]
 
-→ Doors of the temple made of two leaves, cherubim and flowers  carved upon, covered with gold [[1Kgs.6.31|1Ki 6:31]]-[[1Kgs.6.35|35]]
+→ Doors of the temple made of two leaves, cherubim and flowers  carved upon, covered with gold [[1Kgs.6.31|1Ki 6:31-35]]
 
 → FIGURATIVE
 

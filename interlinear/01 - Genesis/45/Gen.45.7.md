@@ -1,8 +1,64 @@
+---
+title: Genesis 45:7
+type: Verse
+kjv: "And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance."
+bsb: "God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance."
+hebrew: "וַיִּשְׁלָחֵ֤נִי אֱלֹהִים֙ לִפְנֵיכֶ֔ם לָשׂ֥וּם לָכֶ֛ם שְׁאֵרִ֖ית בָּאָ֑רֶץ וּלְהַחֲי֣וֹת לָכֶ֔ם לִפְלֵיטָ֖ה גְּדֹלָֽה׃"
+pericope: "[[Gen.45.1 Joseph Reveals His Identity|Joseph Reveals His Identity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H7760H]]"
+- "[[H9036]]"
+- "[[H7611]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H6413]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:7**<big><big>[[Gen.45.1 Joseph Reveals His Identity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 <small><sub>**BSB:**</sub></small>
 God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלָחֵ֤]][[H9030\|נִי]] [[H0430G\|אֱלֹהִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H9005\|לָ]][[H7760H\|שׂ֥וּם]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H7611\|שְׁאֵרִ֖ית]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וּ]][[H9005\|לְ]][[H2421\|הַחֲי֣וֹת]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9005\|לִ]][[H6413\|פְלֵיטָ֖ה]] [[H1419A\|גְּדֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.6|<< Genesis 45:6]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.8|Genesis 45:8 >>]]</td></tr></table>
 

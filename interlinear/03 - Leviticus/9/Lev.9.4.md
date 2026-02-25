@@ -1,8 +1,64 @@
+---
+title: Leviticus 9:4
+type: Verse
+kjv: "Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you."
+bsb: "an ox and a ram for a peace offering to sacrifice before the LORD, and a grain offering mixed with oil. For today the LORD will appear to you.’”"
+hebrew: "וְשׁ֨וֹר וָאַ֜יִל לִשְׁלָמִ֗ים לִזְבֹּ֙חַ֙ לִפְנֵ֣י יְהוָ֔ה וּמִנְחָ֖ה בְּלוּלָ֣ה בַשָּׁ֑מֶן כִּ֣י הַיּ֔וֹם יְהוָ֖ה נִרְאָ֥ה אֲלֵיכֶֽם׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7794]]"
+- "[[H0352A]]"
+- "[[H9005]]"
+- "[[H8002]]"
+- "[[H2076]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4503G]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:4**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you.
 <small><sub>**BSB:**</sub></small>
 an ox and a ram for a peace offering to sacrifice before the LORD, and a grain offering mixed with oil. For today the LORD will appear to you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7794\|שׁ֨וֹר]] [[H9002\|וָ]][[H0352A\|אַ֜יִל]] [[H9005\|לִ]][[H8002\|שְׁלָמִ֗ים]] [[H9005\|לִ]][[H2076\|זְבֹּ֙חַ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H4503G\|מִנְחָ֖ה]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שָּׁ֑מֶן]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3068G\|יְהוָ֖ה]] [[H7200G\|נִרְאָ֥ה]] [[H0413\|אֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.3|<< Leviticus 9:3]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.5|Leviticus 9:5 >>]]</td></tr></table>
 

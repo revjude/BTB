@@ -1,10 +1,63 @@
+---
+title: John 17:1
+type: Verse
+kjv: "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:"
+bsb: "When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You."
+jesus_said: "Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:"
+greek: "Ταῦτα ἐλάλησεν ὁ Ἰησοῦς, καὶ ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τὸν οὐρανὸν καὶ εἶπεν· πάτερ, ἐλήλυθεν ἡ ὥρα· δόξασόν σου τὸν υἱόν, ἵνα καὶ ὁ υἱὸς σου δοξάσῃ σέ."
+pericope: "[[John.17.1 Prayer for the Son|Prayer for the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G1869]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2036]]"
+- "[[G3962]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G1392]]"
+- "[[G4771]]"
+- "[[G5207]]"
+- "[[G2443]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 17:1**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 <small><sub>**BSB:**</sub></small>
 When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.
-<small><sub>**Literal:**</sub></small>
-These things spoke <the> Jesus, and having lifted up the eyes of Him to <the> heaven and He said; Father, has come the hour; do glorify Your <the> Son, that also the Son of you may glorify You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.33|<< John 16:33]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.2|John 17:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G1869\|ἐπάρας]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3962\|πάτερ,]]  [[G2064\|ἐλήλυθεν]]  [[G3588\|ἡ]]  [[G5610\|ὥρα·]]  [[G1392\|δόξασόν]]  [[G4771\|σου]]  [[G3588\|τὸν]]  [[G5207\|υἱόν,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G4771\|σου]]  [[G1392\|δοξάσῃ]]  [[G4771\|σέ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.33|<< John 16:33]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.2|John 17:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

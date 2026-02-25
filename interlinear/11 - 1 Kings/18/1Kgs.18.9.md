@@ -1,8 +1,62 @@
+---
+title: 1 Kings 18:9
+type: Verse
+kjv: "And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?"
+bsb: "But Obadiah replied, “How have I sinned, that you are handing your servant over to Ahab to put me to death?"
+hebrew: "וַיֹּ֖אמֶר מֶ֣ה חָטָ֑אתִי כִּֽי־ אַתָּ֞ה נֹתֵ֧ן אֶֽת־ עַבְדְּךָ֛ בְּיַד־ אַחְאָ֖ב לַהֲמִיתֵֽנִי׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic OBADIAH|OBADIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H2398]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0256G]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:9**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?
 <small><sub>**BSB:**</sub></small>
 But Obadiah replied, “How have I sinned, that you are handing your servant over to Ahab to put me to death?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4100\|מֶ֣ה]] [[H2398\|חָטָ֑אתִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֞ה]] [[H5414G\|נֹתֵ֧ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0256G\|אַחְאָ֖ב]] [[H9005\|לַ]][[H4191\|הֲמִיתֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic ELIJAH|ELIJAH]] • [[topic OBADIAH|OBADIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.8|<< 1 Kings 18:8]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.10|1 Kings 18:10 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Job 7:1
+type: Verse
+kjv: "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?"
+bsb: "“Is not man consigned to labor on earth? Are not his days like those of a hired hand?"
+hebrew: "הֲלֹא־ צָבָ֣א לֶאֱנ֣וֹשׁ עֲלֵי אָ֑רֶץ וְכִימֵ֖י שָׂכִ֣יר יָמָֽיו׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6635I]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H7916]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 7:1**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is there] not an appointed time to man upon earth? [are not] his days also like the days of an hireling?
 <small><sub>**BSB:**</sub></small>
 “Is not man consigned to labor on earth? Are not his days like those of a hired hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H6635I\|צָבָ֣א]] [[H9005\|לֶ]][[H0582\|אֱנ֣וֹשׁ]] [[H5921A\|עֲלֵי]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H9004\|כִ]][[H3117G\|ימֵ֖י]] [[H7916\|שָׂכִ֣יר]] [[H3117G\|יָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic LIFE|LIFE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.30|<< Job 6:30]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.2|Job 7:2 >>]]</td></tr></table>
 

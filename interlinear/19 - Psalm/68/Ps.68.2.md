@@ -1,8 +1,58 @@
+---
+title: Psalm 68:2
+type: Verse
+kjv: "As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God."
+bsb: "As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God."
+hebrew: "כְּהִנְדֹּ֥ף עָשָׁ֗ן תִּ֫נְדֹּ֥ף כְּהִמֵּ֣ס דּ֭וֹנַג מִפְּנֵי־ אֵ֑שׁ יֹאבְד֥וּ רְ֝שָׁעִ֗ים מִפְּנֵ֥י אֱלֹהִֽים׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAX|WAX]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9004]]"
+- "[[H5086]]"
+- "[[H6227]]"
+- "[[H4549]]"
+- "[[H1749]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H0006]]"
+- "[[H7563]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:2**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.
 <small><sub>**BSB:**</sub></small>
 As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H5086\|הִנְדֹּ֥ף]] [[H6227\|עָשָׁ֗ן]] [[H5086\|תִּ֫נְדֹּ֥ף]] [[H9004\|כְּ]][[H4549\|הִמֵּ֣ס]] [[H1749\|דּ֭וֹנַג]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H0784\|אֵ֑שׁ]] [[H0006\|יֹאבְד֥וּ]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WAX|WAX]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.1|<< Psalms 68:1]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.3|Psalms 68:3 >>]]</td></tr></table>
 

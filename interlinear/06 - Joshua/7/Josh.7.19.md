@@ -1,8 +1,75 @@
+---
+title: Joshua 7:19
+type: Verse
+kjv: "And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide it not from me."
+bsb: "So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.”"
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־ עָכָ֗ן בְּנִי֙ שִֽׂים־ נָ֣א כָב֗וֹד לַֽיהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל וְתֶן־ ל֣וֹ תוֹדָ֑ה וְהַגֶּד־ נָ֥א לִי֙ מֶ֣ה עָשִׂ֔יתָ אַל־ תְּכַחֵ֖ד מִמֶּֽנִּי׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5912]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H7760H]]"
+- "[[H4994]]"
+- "[[H3519]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H8426]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H0408]]"
+- "[[H3582]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:19**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide [it] not from me.
 <small><sub>**BSB:**</sub></small>
 So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H5912\|עָכָ֗ן]] [[H1121A\|בְּנִ]][[H9020\|י֙]] [[H7760H\|שִֽׂים]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3519\|כָב֗וֹד]] [[H9005\|לַֽ]][[H3068G\|יהוָ֛ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H5414G\|תֶן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H8426\|תוֹדָ֑ה]] [[H9002\|וְ]][[H5046\|הַגֶּד]][[H9014\|־]] [[H4994\|נָ֥א]] [[H9005\|לִ]][[H9030\|י֙]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֔יתָ]] [[H0408\|אַל]][[H9014\|־]] [[H3582\|תְּכַחֵ֖ד]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EVIDENCE|EVIDENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PLEADING|PLEADING]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
 

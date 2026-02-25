@@ -1,8 +1,66 @@
+---
+title: Ezekiel 32:26
+type: Verse
+kjv: "There is Meshech, Tubal, and all her multitude: her graves are round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living."
+bsb: "Meshech and Tubal are there with all their multitudes, with their graves all around them. All of them are uncircumcised, slain by the sword, because they spread their terror in the land of the living."
+hebrew: "שָׁ֣ם מֶ֤שֶׁךְ תֻּבַל֙ וְכָל־ הֲמוֹנָ֔הּ סְבִֽיבוֹתָ֖יו קִבְרוֹתֶ֑יהָ כֻּלָּ֤ם עֲרֵלִים֙ מְחֻ֣לְלֵי חֶ֔רֶב כִּֽי־ נָתְנ֥וּ חִתִּיתָ֖ם בְּאֶ֥רֶץ חַיִּֽים׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MESHECH|MESHECH]]"
+- "[[topic TUBAL|TUBAL]]"
+strongs:
+- "[[H8033G]]"
+- "[[H4902I]]"
+- "[[H8422I]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1995A]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H6913]]"
+- "[[H9028]]"
+- "[[H6189]]"
+- "[[H2490A]]"
+- "[[H2719]]"
+- "[[H3588A]]"
+- "[[H5414H]]"
+- "[[H2851]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:26**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] Meshech, Tubal, and all her multitude: her graves [are] round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.
 <small><sub>**BSB:**</sub></small>
 Meshech and Tubal are there with all their multitudes, with their graves all around them. All of them are uncircumcised, slain by the sword, because they spread their terror in the land of the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣ם]] [[H4902I\|מֶ֤שֶׁךְ]] [[H8422I\|תֻּבַל֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1995A\|הֲמוֹנָ֔]][[H9024\|הּ]] [[H5439G\|סְבִֽיבוֹתָ֖י]][[H9033\|ו]] [[H6913\|קִבְרוֹתֶ֑י]][[H9024\|הָ]] [[H3605\|כֻּלָּ֤]][[H9028\|ם]] [[H6189\|עֲרֵלִים֙]] [[H2490A\|מְחֻ֣לְלֵי]] [[H2719\|חֶ֔רֶב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414H\|נָתְנ֥וּ]] [[H2851\|חִתִּיתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MESHECH|MESHECH]] • [[topic TUBAL|TUBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.25|<< Ezekiel 32:25]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.27|Ezekiel 32:27 >>]]</td></tr></table>
 

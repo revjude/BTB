@@ -1,8 +1,66 @@
+---
+title: Ezekiel 47:18
+type: Verse
+kjv: "And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side."
+bsb: "On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar. This will be the eastern boundary."
+hebrew: "וּפְאַ֣ת קָדִ֡ים מִבֵּ֣ין חַוְרָ֣ן וּמִבֵּין־ דַּמֶּשֶׂק֩ וּמִבֵּ֨ין הַגִּלְעָ֜ד וּמִבֵּ֨ין אֶ֤רֶץ יִשְׂרָאֵל֙ הַיַּרְדֵּ֔ן מִגְּב֛וּל עַל־ הַיָּ֥ם הַקַּדְמוֹנִ֖י תָּמֹ֑דּוּ וְאֵ֖ת פְּאַ֥ת קָדִֽימָה׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic DEAD SEA|DEAD SEA]]"
+- "[[topic HAURAN|HAURAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6285]]"
+- "[[H6921]]"
+- "[[H9006]]"
+- "[[H0996G]]"
+- "[[H2362]]"
+- "[[H9014]]"
+- "[[H1834]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H0776G]]"
+- "[[H3478]]"
+- "[[H3383]]"
+- "[[H1366G]]"
+- "[[H5921A]]"
+- "[[H3220G]]"
+- "[[H6931G]]"
+- "[[H8559J]]"
+- "[[H0853]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:18**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel [by] Jordan, from the border unto the east sea. And [this is] the east side.
 <small><sub>**BSB:**</sub></small>
 On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar. This will be the eastern boundary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6285\|פְאַ֣ת]] [[H6921\|קָדִ֡ים]] [[H9006\|מִ]][[H0996G\|בֵּ֣ין]] [[H2362\|חַוְרָ֣ן]] [[H9002\|וּ]][[H9006\|מִ]][[H0996G\|בֵּין]][[H9014\|־]] [[H1834\|דַּמֶּשֶׂק֩]] [[H9002\|וּ]][[H9006\|מִ]][[H0996G\|בֵּ֨ין]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֜ד]] [[H9002\|וּ]][[H9006\|מִ]][[H0996G\|בֵּ֨ין]] [[H0776G\|אֶ֤רֶץ]] [[H3478\|יִשְׂרָאֵל֙]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9006\|מִ]][[H1366G\|גְּב֛וּל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H9009\|הַ]][[H6931G\|קַּדְמוֹנִ֖י]] [[H8559J\|תָּמֹ֑דּוּ]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H6285\|פְּאַ֥ת]] [[H6921\|קָדִֽימָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic DEAD SEA|DEAD SEA]] • [[topic HAURAN|HAURAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.17|<< Ezekiel 47:17]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.19|Ezekiel 47:19 >>]]</td></tr></table>
 

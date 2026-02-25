@@ -1,8 +1,54 @@
+---
+title: Job 7:12
+type: Verse
+kjv: "Am I a sea, or a whale, that thou settest a watch over me?"
+bsb: "Am I the sea, or the monster of the deep, that You must keep me under guard?"
+hebrew: "הֲֽיָם־ אָ֭נִי אִם־ תַּנִּ֑ין כִּֽי־ תָשִׂ֖ים עָלַ֣י מִשְׁמָֽר׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic WHALE|WHALE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3220G]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H0518A]]"
+- "[[H8577N]]"
+- "[[H3588A]]"
+- "[[H7760A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H4929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:12**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Am] I a sea, or a whale, that thou settest a watch over me?
 <small><sub>**BSB:**</sub></small>
 Am I the sea, or the monster of the deep, that You must keep me under guard?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H3220G\|יָם]][[H9014\|־]] [[H0589\|אָ֭נִי]] [[H0518A\|אִם]][[H9014\|־]] [[H8577N\|תַּנִּ֑ין]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7760A\|תָשִׂ֖ים]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H4929\|מִשְׁמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic WHALE|WHALE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.11|<< Job 7:11]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.13|Job 7:13 >>]]</td></tr></table>
 

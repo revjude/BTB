@@ -1,8 +1,50 @@
+---
+title: Job 31:8
+type: Verse
+kjv: "Then let me sow, and let another eat; yea, let my offspring be rooted out."
+bsb: "then may another eat what I have sown, and may my crops be uprooted."
+hebrew: "אֶ֭זְרְעָה וְאַחֵ֣ר יֹאכֵ֑ל וְֽצֶאֱצָאַ֥י יְשֹׁרָֽשׁוּ׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H2232]]"
+- "[[H9002]]"
+- "[[H0312]]"
+- "[[H0398]]"
+- "[[H6631]]"
+- "[[H9020]]"
+- "[[H8327]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:8**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] let me sow, and let another eat; yea, let my offspring be rooted out.
 <small><sub>**BSB:**</sub></small>
 then may another eat what I have sown, and may my crops be uprooted.
+<small><sub>**Hebrew:**</sub></small>
+[[H2232\|אֶ֭זְרְעָה]] [[H9002\|וְ]][[H0312\|אַחֵ֣ר]] [[H0398\|יֹאכֵ֑ל]] [[H9002\|וְֽ]][[H6631\|צֶאֱצָאַ֥]][[H9020\|י]] [[H8327\|יְשֹׁרָֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.7|<< Job 31:7]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.9|Job 31:9 >>]]</td></tr></table>
 

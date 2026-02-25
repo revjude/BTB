@@ -1,8 +1,47 @@
+---
+title: Job 34:2
+type: Verse
+kjv: "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge."
+bsb: "“Hear my words, O wise men; give ear to me, O men of learning."
+hebrew: "שִׁמְע֣וּ חֲכָמִ֣ים מִלָּ֑י וְ֝יֹדְעִ֗ים הַאֲזִ֥ינוּ לִֽי׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H8085G]]"
+- "[[H2450]]"
+- "[[H4405]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H0238]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:2**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear my words, O ye wise [men]; and give ear unto me, ye that have knowledge.
 <small><sub>**BSB:**</sub></small>
 “Hear my words, O wise men; give ear to me, O men of learning.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֣וּ]] [[H2450\|חֲכָמִ֣ים]] [[H4405\|מִלָּ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H3045\|יֹדְעִ֗ים]] [[H0238\|הַאֲזִ֥ינוּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.1|<< Job 34:1]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.3|Job 34:3 >>]]</td></tr></table>
 

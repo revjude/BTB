@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lampstand
+type: Pericope
 pericope: "[[Exod.25.31 The Lampstand|The Lampstand]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 25
 book/chapter: "[[Exod.25|Exodus 25]]"
-genre:
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.25.31]]"
 - "[[Exod.25.32]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.25.40]]"
 ---
 
-[[Exod.25|Exodus 25:31 - Exodus 25:40]]
+<small>[[Exod.25|Exodus 25:31-40]]</small>
 *The Lampstand*
 
 [[Exod.25.31|31]] And thou shalt make a candlestick \[of\] pure gold: \[of\] beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.

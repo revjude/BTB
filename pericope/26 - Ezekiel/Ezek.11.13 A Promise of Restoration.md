@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Promise of Restoration
+type: Pericope
 pericope: "[[Ezek.11.13 A Promise of Restoration|A Promise of Restoration]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 11
 book/chapter: "[[Ezek.11|Ezekiel 11]]"
-genre:
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.11.13]]"
 - "[[Ezek.11.14]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.11.21]]"
 ---
 
-[[Ezek.11|Ezekiel 11:13 - Ezekiel 11:21]]
+<small>[[Ezek.11|Ezekiel 11:13-21]]</small>
 *A Promise of Restoration*
 
 [[Ezek.11.13|13]] And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord GOD! wilt thou make a full end of the remnant of Israel?

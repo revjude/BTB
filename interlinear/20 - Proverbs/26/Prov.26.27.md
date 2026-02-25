@@ -1,8 +1,55 @@
+---
+title: Proverbs 26:27
+type: Verse
+kjv: "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him."
+bsb: "He who digs a pit will fall into it, and he who rolls a stone will have it roll back on him."
+hebrew: "כֹּֽרֶה־ שַּׁ֭חַת בָּ֣הּ יִפֹּ֑ל וְגֹ֥לֵ֥ל אֶ֝בֶן אֵלָ֥יו תָּשֽׁוּב׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic PIT|PIT]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H3738B]]"
+- "[[H9014]]"
+- "[[H7845H]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H1556]]"
+- "[[H0068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:27**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.
 <small><sub>**BSB:**</sub></small>
 He who digs a pit will fall into it, and he who rolls a stone will have it roll back on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3738B\|כֹּֽרֶה]][[H9014\|־]] [[H7845H\|שַּׁ֭חַת]] [[H9003\|בָּ֣]][[H9034\|הּ]] [[H5307G\|יִפֹּ֑ל]] [[H9002\|וְ]][[H1556\|גֹ֥לֵ֥ל]] [[H0068G\|אֶ֝בֶן]] [[H0413\|אֵלָ֥י]][[H9033\|ו]] [[H7725G\|תָּשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic PIT|PIT]] • [[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.26|<< Proverbs 26:26]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.28|Proverbs 26:28 >>]]</td></tr></table>
 

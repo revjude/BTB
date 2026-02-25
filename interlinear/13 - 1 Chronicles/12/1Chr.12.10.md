@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 12:10
+type: Verse
+kjv: "Mishmannah the fourth, Jeremiah the fifth,"
+bsb: "Mishmannah the fourth, Jeremiah the fifth,"
+hebrew: "מִשְׁמַנָּה֙ הָרְבִיעִ֔י יִרְמְיָ֖ה הַחֲמִשִֽׁי׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MISHMANNAH|MISHMANNAH]]"
+strongs:
+- "[[H4925]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H3414J]]"
+- "[[H2549]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:10**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mishmannah the fourth, Jeremiah the fifth,
 <small><sub>**BSB:**</sub></small>
 Mishmannah the fourth, Jeremiah the fifth,
+<small><sub>**Hebrew:**</sub></small>
+[[H4925\|מִשְׁמַנָּה֙]] [[H9009\|הָ]][[H7243\|רְבִיעִ֔י]] [[H3414J\|יִרְמְיָ֖ה]] [[H9009\|הַ]][[H2549\|חֲמִשִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GAD|GAD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MISHMANNAH|MISHMANNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.9|<< 1 Chronicles 12:9]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.11|1 Chronicles 12:11 >>]]</td></tr></table>
 

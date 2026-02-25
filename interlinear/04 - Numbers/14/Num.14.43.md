@@ -1,8 +1,76 @@
+---
+title: Numbers 14:43
+type: Verse
+kjv: "For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you."
+bsb: "For there the Amalekites and Canaanites will face you, and you will fall by the sword. Because you have turned away from the LORD, He will not be with you.”"
+hebrew: "כִּי֩ הָעֲמָלֵקִ֨י וְהַכְּנַעֲנִ֥י שָׁם֙ לִפְנֵיכֶ֔ם וּנְפַלְתֶּ֖ם בֶּחָ֑רֶב כִּֽי־ עַל־ כֵּ֤ן שַׁבְתֶּם֙ מֵאַחֲרֵ֣י יְהוָ֔ה וְלֹא־ יִהְיֶ֥ה יְהוָ֖ה עִמָּכֶֽם׃"
+pericope: "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H6003]]"
+- "[[H9002]]"
+- "[[H3669A]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H3588C]]"
+- "[[H9014]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:43**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Amalekites and the Canaanites [are] there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.
 <small><sub>**BSB:**</sub></small>
 For there the Amalekites and Canaanites will face you, and you will fall by the sword. Because you have turned away from the LORD, He will not be with you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H9009\|הָ]][[H6003\|עֲמָלֵקִ֨י]] [[H9002\|וְ]][[H9009\|הַ]][[H3669A\|כְּנַעֲנִ֥י]] [[H8033G\|שָׁם֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H9001\|וּ]][[H5307J\|נְפַלְתֶּ֖ם]] [[H9003\|בֶּ]][[H2719\|חָ֑רֶב]] [[H3588C\|כִּֽי]][[H9014\|־]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֤ן]] [[H7725I\|שַׁבְתֶּם֙]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H5973A\|עִמָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.42|<< Numbers 14:42]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.44|Numbers 14:44 >>]]</td></tr></table>
 

@@ -1,10 +1,71 @@
+---
+title: Revelation 3:1
+type: Verse
+kjv: "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead."
+bsb: "“To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead."
+jesus_said: "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead."
+greek: "Καὶ τῷ ἀγγέλῳ τῆς ἐν Σάρδεσιν ἐκκλησίας γράψον· τάδε λέγει ὁ ἔχων τὰ ἑπτὰ πνεύματα τοῦ θεοῦ καὶ τοὺς ἑπτὰ ἀστέρας· οἶδά σου τὰ ἔργα ὅτι τὸ ὄνομα ἔχεις ὅτι ζῇς καὶ νεκρὸς εἶ."
+pericope: "[[Rev.3.1 To the Church in Sardis|To the Church in Sardis]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic SARDIS|SARDIS]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G4554]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G2192]]"
+- "[[G2033]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G0792]]"
+- "[[G6063]]"
+- "[[G4771]]"
+- "[[G2041]]"
+- "[[G3754G]]"
+- "[[G3686]]"
+- "[[G2198]]"
+- "[[G3498]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 3:1**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
 <small><sub>**BSB:**</sub></small>
 “To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.
-<small><sub>**Literal:**</sub></small>
-And to the angel of the in Sardis church do write: These things says the [One] having the seven Spirits <the> of God and the seven stars; I know your <the> deeds that <the> characterization you have that you are alive and yet dead you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.29|<< Revelation 2:29]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.2|Revelation 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῷ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G4554\|Σάρδεσιν]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τὰ]]  [[G2033\|ἑπτὰ]]  [[G4151G\|πνεύματα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G0792\|ἀστέρας·]]  [[G6063\|οἶδά]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G2192\|ἔχεις]]  [[G3754G\|ὅτι]]  [[G2198\|ζῇς]]  [[G2532\|καὶ]]  [[G3498\|νεκρὸς]]  [[G1510\|εἶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic SARDIS|SARDIS]] • [[topic SEVEN|SEVEN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.29|<< Revelation 2:29]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.2|Revelation 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Exodus 22:29
+type: Verse
+kjv: "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me."
+bsb: "You must not hold back offerings from your granaries or vats. You are to give Me the firstborn of your sons."
+hebrew: "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־ לִּֽי׃"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[H4395]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1831]]"
+- "[[H3808]]"
+- "[[H0309]]"
+- "[[H1060]]"
+- "[[H1121A]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:29**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not delay [to offer] the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
 <small><sub>**BSB:**</sub></small>
 You must not hold back offerings from your granaries or vats. You are to give Me the firstborn of your sons.
+<small><sub>**Hebrew:**</sub></small>
+[[H4395\|מְלֵאָתְ]][[H9021\|ךָ֥]] [[H9002\|וְ]][[H1831\|דִמְעֲ]][[H9021\|ךָ֖]] [[H3808\|לֹ֣א]] [[H0309\|תְאַחֵ֑ר]] [[H1060\|בְּכ֥וֹר]] [[H1121A\|בָּנֶ֖י]][[H9021\|ךָ]] [[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.28|<< Exodus 22:28]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.30|Exodus 22:30 >>]]</td></tr></table>
 

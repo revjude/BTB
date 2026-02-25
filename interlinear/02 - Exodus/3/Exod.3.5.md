@@ -1,8 +1,77 @@
+---
+title: Exodus 3:5
+type: Verse
+kjv: "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground."
+bsb: "“Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”"
+hebrew: "וַיֹּ֖אמֶר אַל־ תִּקְרַ֣ב הֲלֹ֑ם שַׁל־ נְעָלֶ֙יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר אַתָּה֙ עוֹמֵ֣ד עָלָ֔יו אַדְמַת־ קֹ֖דֶשׁ הֽוּא׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BURNING BUSH|BURNING BUSH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7126G]]"
+- "[[H1988]]"
+- "[[H5394]]"
+- "[[H5275]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7272]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H5975G]]"
+- "[[H9033]]"
+- "[[H0127G]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:5**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest [is] holy ground.
 <small><sub>**BSB:**</sub></small>
 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H7126G\|תִּקְרַ֣ב]] [[H1988\|הֲלֹ֑ם]] [[H5394\|שַׁל]][[H9014\|־]] [[H5275\|נְעָלֶ֙י]][[H9021\|ךָ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H7272\|רַגְלֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H4725\|מָּק֗וֹם]] [[H0834A\|אֲשֶׁ֤ר]] [[H0859A\|אַתָּה֙]] [[H5975G\|עוֹמֵ֣ד]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H0127G\|אַדְמַת]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURNING BUSH|BURNING BUSH]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic REVELATION|REVELATION]] • [[topic REVERENCE|REVERENCE]] • [[topic SHOE|SHOE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.4|<< Exodus 3:4]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.6|Exodus 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

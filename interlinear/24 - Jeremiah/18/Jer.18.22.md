@@ -1,8 +1,70 @@
+---
+title: Jeremiah 18:22
+type: Verse
+kjv: "Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet."
+bsb: "Let a cry be heard from their houses when You suddenly bring raiders against them, for they have dug a pit to capture me and have hidden snares for my feet."
+hebrew: "תִּשָּׁמַ֤ע זְעָקָה֙ מִבָּ֣תֵּיהֶ֔ם כִּֽי־ תָבִ֧יא עֲלֵיהֶ֛ם גְּד֖וּד פִּתְאֹ֑ם כִּֽי־ כָר֤וּ שׁוּחָה֙ לְלָכְדֵ֔נִי וּפַחִ֖ים טָמְנ֥וּ לְרַגְלָֽי׃"
+pericope: "[[Jer.18.18 Another Plot against Jeremiah|Another Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H8085G]]"
+- "[[H2201]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1416]]"
+- "[[H6597]]"
+- "[[H3738B]]"
+- "[[H7882]]"
+- "[[H7745]]"
+- "[[H9005]]"
+- "[[H3920]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6341A]]"
+- "[[H2934]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 18:22**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.
 <small><sub>**BSB:**</sub></small>
 Let a cry be heard from their houses when You suddenly bring raiders against them, for they have dug a pit to capture me and have hidden snares for my feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|תִּשָּׁמַ֤ע]] [[H2201\|זְעָקָה֙]] [[H9006\|מִ]][[H1004B\|בָּ֣תֵּי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935P\|תָבִ֧יא]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H1416\|גְּד֖וּד]] [[H6597\|פִּתְאֹ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3738B\|כָר֤וּ]] [[H7745\|שׁוּחָה֙]] [[H9005\|לְ]][[H3920\|לָכְדֵ֔]][[H9030\|נִי]] [[H9002\|וּ]][[H6341A\|פַחִ֖ים]] [[H2934\|טָמְנ֥וּ]] [[H9005\|לְ]][[H7272\|רַגְלָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Jeremiah 49:37
+type: Verse
+kjv: "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:"
+bsb: "So I will shatter Elam before their foes, before those who seek their lives. I will bring disaster upon them, even My fierce anger,” declares the LORD. “I will send out the sword after them until I finish them off."
+hebrew: "וְהַחְתַּתִּ֣י אֶת־ עֵ֠ילָם לִפְנֵ֨י אֹיְבֵיהֶ֜ם וְלִפְנֵ֣י׀ מְבַקְשֵׁ֣י נַפְשָׁ֗ם וְהֵבֵאתִ֨י עֲלֵיהֶ֧ם׀ רָעָ֛ה אֶת־ חֲר֥וֹן אַפִּ֖י נְאֻם־ יְהוָ֑ה וְשִׁלַּחְתִּ֤י אַֽחֲרֵיהֶם֙ אֶת־ הַחֶ֔רֶב עַ֥ד כַּלּוֹתִ֖י אוֹתָֽם׃"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H2865]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5867A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7451C]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H7971G]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+- LAB(h)
+---
+
 **Jeremiah 49:37**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, [even] my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:
 <small><sub>**BSB:**</sub></small>
 So I will shatter Elam before their foes, before those who seek their lives. I will bring disaster upon them, even My fierce anger,” declares the LORD. “I will send out the sword after them until I finish them off.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2865\|הַחְתַּתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H5867A\|עֵ֠ילָם]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֜ם]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֗]][[H9028\|ם]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֨י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֧ם]][[H9015\|׀]] [[H7451C\|רָעָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2740\|חֲר֥וֹן]] [[H0639G\|אַפִּ֖]][[H9020\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּ֤י]] [[H0310A\|אַֽחֲרֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2719\|חֶ֔רֶב]] [[H5704\|עַ֥ד]] [[H3615H\|כַּלּוֹתִ֖]][[H9040\|י]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.36|<< Jeremiah 49:36]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.38|Jeremiah 49:38 >>]]</td></tr></table>
 

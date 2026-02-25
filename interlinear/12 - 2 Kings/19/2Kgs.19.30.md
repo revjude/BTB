@@ -1,8 +1,58 @@
+---
+title: 2 Kings 19:30
+type: Verse
+kjv: "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward."
+bsb: "And the surviving remnant of the house of Judah will again take root below and bear fruit above."
+hebrew: "וְיָ֨סְפָ֜ה פְּלֵיטַ֧ת בֵּית־ יְהוּדָ֛ה הַנִּשְׁאָרָ֖ה שֹׁ֣רֶשׁ לְמָ֑טָּה וְעָשָׂ֥ה פְרִ֖י לְמָֽעְלָה׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H6413]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H8328]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H6213H]]"
+- "[[H6529]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:30**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.
 <small><sub>**BSB:**</sub></small>
 And the surviving remnant of the house of Judah will again take root below and bear fruit above.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3254G\|יָ֨סְפָ֜ה]] [[H6413\|פְּלֵיטַ֧ת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H3063G\|יְהוּדָ֛ה]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרָ֖ה]] [[H8328\|שֹׁ֣רֶשׁ]] [[H9005\|לְ]][[H4295\|מָ֑טָּה]] [[H9001\|וְ]][[H6213H\|עָשָׂ֥ה]] [[H6529\|פְרִ֖י]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.29|<< 2 Kings 19:29]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.31|2 Kings 19:31 >>]]</td></tr></table>
 

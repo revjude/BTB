@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 13:29
+type: Verse
+kjv: "And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man gat him up upon his mule, and fled."
+bsb: "So Absalom’s young men did to Amnon just as Absalom had ordered. Then all the other sons of the king got up, and each one fled on his mule."
+hebrew: "וַֽיַּעֲשׂ֞וּ נַעֲרֵ֤י אַבְשָׁלוֹם֙ לְאַמְנ֔וֹן כַּאֲשֶׁ֥ר צִוָּ֖ה אַבְשָׁל֑וֹם וַיָּקֻ֣מוּ׀ כָּל־ בְּנֵ֣י הַמֶּ֗לֶךְ וַֽיִּרְכְּב֛וּ אִ֥ישׁ עַל־ פִּרְדּ֖וֹ וַיָּנֻֽסוּ׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic FRATRICIDE|FRATRICIDE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MULE|MULE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H5288]]"
+- "[[H0053]]"
+- "[[H9005]]"
+- "[[H0550G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7392]]"
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H6505]]"
+- "[[H9023]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:29**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king’s sons arose, and every man gat him up upon his mule, and fled.
 <small><sub>**BSB:**</sub></small>
 So Absalom’s young men did to Amnon just as Absalom had ordered. Then all the other sons of the king got up, and each one fled on his mule.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213A\|יַּעֲשׂ֞וּ]] [[H5288\|נַעֲרֵ֤י]] [[H0053\|אַבְשָׁלוֹם֙]] [[H9005\|לְ]][[H0550G\|אַמְנ֔וֹן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖ה]] [[H0053\|אַבְשָׁל֑וֹם]] [[H9001\|וַ]][[H6965B\|יָּקֻ֣מוּ]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9001\|וַֽ]][[H7392\|יִּרְכְּב֛וּ]] [[H0376I\|אִ֥ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H6505\|פִּרְדּ֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H5127\|יָּנֻֽסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic ASSASSINATION|ASSASSINATION]] • [[topic FRATRICIDE|FRATRICIDE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MULE|MULE]] • [[topic RAPE|RAPE]] • [[topic REVENGE|REVENGE]] • [[topic SERVANT|SERVANT]] • [[topic TAMAR|TAMAR]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.28|<< 2 Samuel 13:28]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.30|2 Samuel 13:30 >>]]</td></tr></table>
 

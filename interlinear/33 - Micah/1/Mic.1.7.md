@@ -1,8 +1,61 @@
+---
+title: Micah 1:7
+type: Verse
+kjv: "And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot."
+bsb: "All her carved images will be smashed to pieces; all her wages will be burned in the fire, and I will destroy all her idols. Since she collected the wages of a prostitute, they will be used again on a prostitute."
+hebrew: "וְכָל־ פְּסִילֶ֣יהָ יֻכַּ֗תּוּ וְכָל־ אֶתְנַנֶּ֙יהָ֙ יִשָּׂרְפ֣וּ בָאֵ֔שׁ וְכָל־ עֲצַבֶּ֖יהָ אָשִׂ֣ים שְׁמָמָ֑ה כִּ֠י מֵאֶתְנַ֤ן זוֹנָה֙ קִבָּ֔צָה וְעַד־ אֶתְנַ֥ן זוֹנָ֖ה יָשֽׁוּבוּ׃"
+pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6456]]"
+- "[[H9024]]"
+- "[[H3807]]"
+- "[[H0868]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6091]]"
+- "[[H7760A]]"
+- "[[H8077A]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H2181]]"
+- "[[H6908]]"
+- "[[H5704]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:7**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered [it] of the hire of an harlot, and they shall return to the hire of an harlot.
 <small><sub>**BSB:**</sub></small>
 All her carved images will be smashed to pieces; all her wages will be burned in the fire, and I will destroy all her idols. Since she collected the wages of a prostitute, they will be used again on a prostitute.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6456\|פְּסִילֶ֣י]][[H9024\|הָ]] [[H3807\|יֻכַּ֗תּוּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0868\|אֶתְנַנֶּ֙י]][[H9024\|הָ֙]] [[H8313\|יִשָּׂרְפ֣וּ]] [[H9003\|בָ]][[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6091\|עֲצַבֶּ֖י]][[H9024\|הָ]] [[H7760A\|אָשִׂ֣ים]] [[H8077A\|שְׁמָמָ֑ה]] [[H3588A\|כִּ֠י]] [[H9006\|מֵ]][[H0868\|אֶתְנַ֤ן]] [[H2181\|זוֹנָה֙]] [[H6908\|קִבָּ֔צָה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0868\|אֶתְנַ֥ן]] [[H2181\|זוֹנָ֖ה]] [[H7725G\|יָשֽׁוּבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.6|<< Micah 1:6]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.8|Micah 1:8 >>]]</td></tr></table>
 

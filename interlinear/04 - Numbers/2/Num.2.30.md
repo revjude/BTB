@@ -1,8 +1,55 @@
+---
+title: Numbers 2:30
+type: Verse
+kjv: "And his host, and those that were numbered of them, were fifty and three thousand and four hundred."
+bsb: "and his division numbers 53,400."
+hebrew: "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם שְׁלֹשָׁ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[H9002]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H7969]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:30**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his host, and those that were numbered of them, [were] fifty and three thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
 and his division numbers 53,400.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6635A\|צְבָא֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H7969\|שְׁלֹשָׁ֧ה]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.29|<< Numbers 2:29]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.31|Numbers 2:31 >>]]</td></tr></table>
 

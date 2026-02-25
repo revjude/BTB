@@ -1,10 +1,63 @@
+---
+title: Galatians 2:6
+type: Verse
+kjv: "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:"
+bsb: "But as for the highly esteemed—whatever they were makes no difference to me; God does not show favoritism—those leaders added nothing to me."
+greek: "ἀπὸ δὲ τῶν δοκούντων εἶναί τι, ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει· πρόσωπον ὁ θεὸς ἀνθρώπου οὐ λαμβάνει· ἐμοὶ γὰρ οἱ δοκοῦντες οὐδὲν προσανέθεντο,"
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0575]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1380]]"
+- "[[G1511]]"
+- "[[G5100]]"
+- "[[G3697]]"
+- "[[G4218]]"
+- "[[G1510]]"
+- "[[G3762]]"
+- "[[G3165]]"
+- "[[G1308]]"
+- "[[G4383]]"
+- "[[G2316]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G4323]]"
+texts:
+- NKO
+- no
+---
+
 **Galatians 2:6**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed [to be somewhat] in conference added nothing to me:
 <small><sub>**BSB:**</sub></small>
 But as for the highly esteemed—whatever they were makes no difference to me; God does not show favoritism—those leaders added nothing to me.
-<small><sub>**Literal:**</sub></small>
-Of now those esteemed to be something — whatsoever formerly they were no [thing] to me makes a difference; [the] face <the> God of a man not does take [account of]; to me myself for the esteemed no [thing] added,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.5|<< Galatians 2:5]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.7|Galatians 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπὸ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G1380\|δοκούντων]]  [[G1511\|εἶναί]]  [[G5100\|τι,]]  [[G3697\|ὁποῖοί]]  [[G4218\|ποτε]]  [[G1510\|ἦσαν]]  [[G3762\|οὐδέν]]  [[G3165\|μοι]]  [[G1308\|διαφέρει·]]  [[G4383\|πρόσωπον]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0444\|ἀνθρώπου]]  [[G3756\|οὐ]]  [[G2983\|λαμβάνει·]]  [[G1473\|ἐμοὶ]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G1380\|δοκοῦντες]]  [[G3762\|οὐδὲν]]  [[G4323\|προσανέθεντο,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.5|<< Galatians 2:5]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.7|Galatians 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 2:6** is...
 > $\quad$ referencing: [[LXX.Deut.10.17|Deut 10:17]]

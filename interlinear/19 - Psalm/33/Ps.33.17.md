@@ -1,8 +1,58 @@
+---
+title: Psalm 33:17
+type: Verse
+kjv: "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
+bsb: "A horse is a vain hope for salvation; even its great strength cannot save."
+hebrew: "שֶׁ֣קֶר הַ֭סּוּס לִתְשׁוּעָ֑ה וּבְרֹ֥ב חֵ֝יל֗וֹ לֹ֣א יְמַלֵּֽט׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic HORSE|HORSE]]"
+strongs:
+- "[[H8267]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H9005]]"
+- "[[H8668G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H2428G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:17**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An horse [is] a vain thing for safety: neither shall he deliver [any] by his great strength.
 <small><sub>**BSB:**</sub></small>
 A horse is a vain hope for salvation; even its great strength cannot save.
+<small><sub>**Hebrew:**</sub></small>
+[[H8267\|שֶׁ֣קֶר]] [[H9009\|הַ֭]][[H5483M\|סּוּס]] [[H9005\|לִ]][[H8668G\|תְשׁוּעָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H7230\|רֹ֥ב]] [[H2428G\|חֵ֝יל֗]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H4422\|יְמַלֵּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic HORSE|HORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.16|<< Psalms 33:16]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.18|Psalms 33:18 >>]]</td></tr></table>
 

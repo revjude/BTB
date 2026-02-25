@@ -3,7 +3,7 @@
 
 → Older of the twin sons born to Isaac and Rebekah
 
-→ Birth of [[Gen.25.19|Ge 25:19]]-[[Gen.25.26|26]]; [[1Chr.1.34|1Ch 1:34]]
+→ Birth of [[Gen.25.19|Ge 25:19-26]]; [[1Chr.1.34|1Ch 1:34]]
 
 → Called Edom [[Gen.36.1|Ge 36:1]],[[Gen.36.8|8]]
 
@@ -11,7 +11,7 @@
 
 → Beloved by Isaac [[Gen.25.27|Ge 25:27]],[[Gen.25.28|28]]
 
-→ Sells his birthright for a single meal [[Gen.25.29|Ge 25:29]]-[[Gen.25.34|34]];  [[Mal.1.2|Mal 1:2]]; [[Rom.9.13|Ro 9:13]]; [[Heb.12.16|Heb 12:16]]
+→ Sells his birthright for a single meal [[Gen.25.29|Ge 25:29-34]];  [[Mal.1.2|Mal 1:2]]; [[Rom.9.13|Ro 9:13]]; [[Heb.12.16|Heb 12:16]]
 
 → Marries a Hittite woman [[Gen.26.34|Ge 26:34]]
 

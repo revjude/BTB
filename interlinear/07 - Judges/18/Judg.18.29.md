@@ -1,8 +1,60 @@
+---
+title: Judges 18:29
+type: Verse
+kjv: "And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel: howbeit the name of the city was Laish at the first."
+bsb: "They named it Dan, after their forefather Dan, who was born to Israel—though the city was formerly named Laish."
+hebrew: "וַיִּקְרְא֤וּ שֵׁם־ הָעִיר֙ דָּ֔ן בְּשֵׁם֙ דָּ֣ן אֲבִיהֶ֔ם אֲשֶׁ֥ר יוּלַּ֖ד לְיִשְׂרָאֵ֑ל וְאוּלָ֛ם לַ֥יִשׁ שֵׁם־ הָעִ֖יר לָרִאשֹׁנָֽה׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DAN|DAN]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1835G]]"
+- "[[H9003]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H3919A]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:29**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called the name of the city Dan, after the name of Dan their father, who was born unto Israel: howbeit the name of the city [was] Laish at the first.
 <small><sub>**BSB:**</sub></small>
 They named it Dan, after their forefather Dan, who was born to Israel—though the city was formerly named Laish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרְא֤וּ]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H1835G\|דָּ֔ן]] [[H9003\|בְּ]][[H8034\|שֵׁם֙]] [[H1835G\|דָּ֣ן]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יוּלַּ֖ד]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0199\|אוּלָ֛ם]] [[H3919A\|לַ֥יִשׁ]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9005\|לָ]][[H7223G\|רִאשֹׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.28|<< Judges 18:28]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.30|Judges 18:30 >>]]</td></tr></table>
 

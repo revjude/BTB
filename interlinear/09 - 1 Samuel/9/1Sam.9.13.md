@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 9:13
+type: Verse
+kjv: "As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; and afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him."
+bsb: "As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice; after that, the guests will eat. Go up at once; you will find him.”"
+hebrew: "כְּבֹאֲכֶ֣ם הָעִ֣יר כֵּ֣ן תִּמְצְא֣וּן אֹת֡וֹ בְּטֶרֶם֩ יַעֲלֶ֨ה הַבָּמָ֜תָה לֶאֱכֹ֗ל כִּ֠י לֹֽא־ יֹאכַ֤ל הָעָם֙ עַד־ בֹּא֔וֹ כִּֽי־ הוּא֙ יְבָרֵ֣ךְ הַזֶּ֔בַח אַחֲרֵי־ כֵ֖ן יֹאכְל֣וּ הַקְּרֻאִ֑ים וְעַתָּ֣ה עֲל֔וּ כִּֽי־ אֹת֥וֹ כְהַיּ֖וֹם תִּמְצְא֥וּן אֹתֽוֹ׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9004]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3651C]]"
+- "[[H4672]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H5927G]]"
+- "[[H1116]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H5704]]"
+- "[[H9043]]"
+- "[[H1931]]"
+- "[[H1288]]"
+- "[[H2077]]"
+- "[[H0310A]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:13**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; [and] afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him.
 <small><sub>**BSB:**</sub></small>
 As soon as you enter the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he must bless the sacrifice; after that, the guests will eat. Go up at once; you will find him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H0935G\|בֹאֲ]][[H9046\|כֶ֣ם]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H3651C\|כֵּ֣ן]] [[H4672\|תִּמְצְא֣וּ]][[H9013\|ן]] [[H0853\|אֹת֡]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2962\|טֶרֶם֩]] [[H5927G\|יַעֲלֶ֨ה]] [[H9009\|הַ]][[H1116\|בָּמָ֜תָ]][[H9011\|ה]] [[H9005\|לֶ]][[H0398\|אֱכֹ֗ל]] [[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|יֹאכַ֤ל]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּא֔]][[H9043\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|הוּא֙]] [[H1288\|יְבָרֵ֣ךְ]] [[H9009\|הַ]][[H2077\|זֶּ֔בַח]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H0398\|יֹאכְל֣וּ]] [[H9009\|הַ]][[H7121G\|קְּרֻאִ֑ים]] [[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H5927G\|עֲל֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H9004\|כְ]][[H9009\|הַ]][[H3117L\|יּ֖וֹם]] [[H4672\|תִּמְצְא֥וּ]][[H9013\|ן]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.12|<< 1 Samuel 9:12]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.14|1 Samuel 9:14 >>]]</td></tr></table>
 

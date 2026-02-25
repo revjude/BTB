@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 16:6
+type: Verse
+kjv: "Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God."
+bsb: "and the priests Benaiah and Jahaziel blew the trumpets regularly before the ark of the covenant of God."
+hebrew: "וּבְנָיָ֥הוּ וְיַחֲזִיאֵ֖ל הַכֹּהֲנִ֑ים בַּחֲצֹצְר֣וֹת תָּמִ֔יד לִפְנֵ֖י אֲר֥וֹן בְּרִית־ הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JAHAZIEL|JAHAZIEL]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H1141J]]"
+- "[[H3166H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H2689]]"
+- "[[H8548]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:6**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
 <small><sub>**BSB:**</sub></small>
 and the priests Benaiah and Jahaziel blew the trumpets regularly before the ark of the covenant of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1141J\|בְנָיָ֥הוּ]] [[H9002\|וְ]][[H3166H\|יַחֲזִיאֵ֖ל]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֑ים]] [[H9003\|בַּ]][[H2689\|חֲצֹצְר֣וֹת]] [[H8548\|תָּמִ֔יד]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֥וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic BENAIAH|BENAIAH]] • [[topic DAVID|DAVID]] • [[topic JAHAZIEL|JAHAZIEL]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.5|<< 1 Chronicles 16:5]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.7|1 Chronicles 16:7 >>]]</td></tr></table>
 

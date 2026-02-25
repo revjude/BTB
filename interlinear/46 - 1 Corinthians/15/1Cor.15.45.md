@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 15:45
+type: Verse
+kjv: "And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit."
+bsb: "So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit."
+greek: "οὕτως καὶ γέγραπται· ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν."
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUICKENING|QUICKENING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G1125]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G0444]]"
+- "[[G0076]]"
+- "[[G1519]]"
+- "[[G5590G]]"
+- "[[G2198]]"
+- "[[G2078]]"
+- "[[G4151G]]"
+- "[[G2227]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:45**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And so it is written, The first man Adam was made a living soul; the last Adam [was made] a quickening spirit.
 <small><sub>**BSB:**</sub></small>
 So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit.
-<small><sub>**Literal:**</sub></small>
-So also it has been written: Became the first man Adam into a soul living; the last Adam into a spirit life-giving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.44|<< 1 Corinthians 15:44]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.46|1 Corinthians 15:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G1125\|γέγραπται·]]  [[G1096\|ἐγένετο]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος]]  [[G0444\|ἄνθρωπος]]  [[G0076\|Ἀδὰμ]]  [[G1519\|εἰς]]  [[G5590G\|ψυχὴν]]  [[G2198\|ζῶσαν·]]  [[G3588\|ὁ]]  [[G2078\|ἔσχατος]]  [[G0076\|Ἀδὰμ]]  [[G1519\|εἰς]]  [[G4151G\|πνεῦμα]]  [[G2227\|ζῳοποιοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUICKENING|QUICKENING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.44|<< 1 Corinthians 15:44]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.46|1 Corinthians 15:46 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 15:45** is...
 > $\quad$ referencing: [[LXX.Gen.2.7|Gen 2:7]]

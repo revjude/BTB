@@ -9,19 +9,19 @@
 
 - Adam, in attempting to shift responsibility for his sin upon  Eve [[Gen.3.12|Ge 3:12]]
 
-- Abraham, in calling his wife his sister [[Gen.12.11|Ge 12:11]]-[[Gen.12.19|19]];  [[Gen.20.2|20:2]]-[[Gen.20.12|12]]
+- Abraham, in calling his wife his sister [[Gen.12.11|Ge 12:11-19]];  [[Gen.20.2|20:2-12]]
 
-- Isaac, in calling his wife his sister [[Gen.26.7|Ge 26:7]]-[[Gen.26.9|9]]
+- Isaac, in calling his wife his sister [[Gen.26.7|Ge 26:7-9]]
 
 - Jacob, in flying from Laban [[Gen.31.31|Ge 31:31]]
 
-- Aaron, in yielding to the Israelites, when they demanded an idol  [[Exod.32.22|Ex 32:22]]-[[Exod.32.24|24]]
+- Aaron, in yielding to the Israelites, when they demanded an idol  [[Exod.32.22|Ex 32:22-24]]
 
-- The ten spies [[Num.13.28|Nu 13:28]],[[Num.13.31|31]]-[[Num.13.33|33]]
+- The ten spies [[Num.13.28|Nu 13:28]],[[Num.13.31|31-33]]
 
 - The Israelites
 
-In fearing to attempt the conquest of Canaan [[Num.14.1|Nu 14:1]]-[[Num.14.5|5]];  [[Deut.1.26|De 1:26]]-[[Deut.1.28|28]]
+In fearing to attempt the conquest of Canaan [[Num.14.1|Nu 14:1-5]];  [[Deut.1.26|De 1:26-28]]
 
 In the battle with the people of Ai [[Josh.7.5|Jos 7:5]]
 
@@ -33,7 +33,7 @@ To fight with the Philistines [[1Sam.13.6|1Sa 13:6]],[[1Sam.13.7|7]]
 
 - Ephraimites [[Ps.78.9|Ps 78:9]]
 
-- Ephraimites and Manassehites [[Josh.17.14|Jos 17:14]]-[[Josh.17.18|18]]
+- Ephraimites and Manassehites [[Josh.17.14|Jos 17:14-18]]
 
 - Amoritish kings [[Josh.10.16|Jos 10:16]]
 
@@ -41,7 +41,7 @@ To fight with the Philistines [[1Sam.13.6|1Sa 13:6]],[[1Sam.13.7|7]]
 
 - Samuel, fearing to obey God's command to anoint a king in Saul's  place [[1Sam.16.2|1Sa 16:2]]
 
-- David, in fleeing from Absalom [[2Sam.15.13|2Sa 15:13]]-[[2Sam.15.17|17]]
+- David, in fleeing from Absalom [[2Sam.15.13|2Sa 15:13-17]]
 
 - Nicodemus, in coming to Jesus by night [[John.3.1|Joh 3:1]],[[John.3.2|2]]
 
@@ -59,13 +59,13 @@ When they saw Jesus walking on the sea [[Matt.14.25|Mt 14:25]]; [[Mark.6.50|Mr  
 
 When Jesus was apprehended [[Matt.26.56|Mt 26:56]]
 
-- Peter, in denying the Lord [[Matt.26.69|Mt 26:69]]-[[Matt.26.74|74]]; [[Mark.14.66|Mr 14:66]]-[[Mark.14.72|72]];  [[Luke.22.54|Lu 22:54]]-[[Luke.22.60|60]]; [[John.18.16|Joh 18:16]],[[John.18.17|17]],[[John.18.25|25]],[[John.18.27|27]]
+- Peter, in denying the Lord [[Matt.26.69|Mt 26:69-74]]; [[Mark.14.66|Mr 14:66-72]];  [[Luke.22.54|Lu 22:54-60]]; [[John.18.16|Joh 18:16]],[[John.18.17|17]],[[John.18.25|25]],[[John.18.27|27]]
 
-- Pilate, in condemning Jesus, through fear of the people  [[John.19.12|Joh 19:12]]-[[John.19.16|16]]
+- Pilate, in condemning Jesus, through fear of the people  [[John.19.12|Joh 19:12-16]]
 
 - Guards of the sepulcher of Jesus [[Matt.28.4|Mt 28:4]]
 
 - The Philippian jailer [[Acts.16.27|Ac 16:27]]
 
-- Peter and other Christians, at Antioch (of Syria) [[Gal.2.11|Ga  2:11]]-[[Gal.2.14|14]]
+- Peter and other Christians, at Antioch (of Syria) [[Gal.2.11|Ga  2:11-14]]
 

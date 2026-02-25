@@ -1,10 +1,67 @@
+---
+title: Matthew 27:40
+type: Verse
+kjv: "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
+bsb: "and saying, “You who are going to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross!”"
+greek: "καὶ λέγοντες· ὁ καταλύων τὸν ναὸν καὶ ἐν τρισὶν ἡμέραις οἰκοδομῶν, σῶσον σεαυτόν· εἰ υἱὸς εἶ τοῦ θεοῦ, καὶ κατάβηθι ἀπὸ τοῦ σταυροῦ."
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REVILING|REVILING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G2647]]"
+- "[[G3485]]"
+- "[[G1722]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G3618]]"
+- "[[G4982]]"
+- "[[G4771]]"
+- "[[G1487G]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G4716]]"
+texts:
+- NKO
+- n
+---
+
 **Matthew 27:40**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, Thou that destroyest the temple, and buildest [it] in three days, save thyself. If thou be the Son of God, come down from the cross.
 <small><sub>**BSB:**</sub></small>
 and saying, “You who are going to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross!”
-<small><sub>**Literal:**</sub></small>
-and saying; You who [are] destroying the temple and in three days building [it], do save Yourself! If [the] Son You are <the> of God, also do descend from the cross!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.39|<< Matthew 27:39]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.41|Matthew 27:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G3588\|ὁ]]  [[G2647\|καταλύων]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G5140\|τρισὶν]]  [[G2250\|ἡμέραις]]  [[G3618\|οἰκοδομῶν,]]  [[G4982\|σῶσον]]  [[G4771\|σεαυτόν·]]  [[G1487G\|εἰ]]  [[G5207\|υἱὸς]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G2597\|κατάβηθι]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DEATH|DEATH]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REVILING|REVILING]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.39|<< Matthew 27:39]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.41|Matthew 27:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

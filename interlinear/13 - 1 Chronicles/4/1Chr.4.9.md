@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 4:9
+type: Verse
+kjv: "And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow."
+bsb: "Now Jabez was more honorable than his brothers. His mother had named him Jabez, saying, “Because I bore him in pain.”"
+hebrew: "וַיְהִ֣י יַעְבֵּ֔ץ נִכְבָּ֖ד מֵאֶחָ֑יו וְאִמּ֗וֹ קָרְאָ֨ה שְׁמ֤וֹ יַעְבֵּץ֙ לֵאמֹ֔ר כִּ֥י יָלַ֖דְתִּי בְּעֹֽצֶב׃"
+pericope: "[[1Chr.4.9 The Prayer of Jabez|The Prayer of Jabez]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JABEZ|JABEZ]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3258H]]"
+- "[[H3513G]]"
+- "[[H9006]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H3205]]"
+- "[[H9003]]"
+- "[[H6090A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:9**<big><big>[[1Chr.4.9 The Prayer of Jabez|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.
 <small><sub>**BSB:**</sub></small>
 Now Jabez was more honorable than his brothers. His mother had named him Jabez, saying, “Because I bore him in pain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H3258H\|יַעְבֵּ֔ץ]] [[H3513G\|נִכְבָּ֖ד]] [[H9006\|מֵ]][[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֗]][[H9023\|וֹ]] [[H7121H\|קָרְאָ֨ה]] [[H8034\|שְׁמ֤]][[H9023\|וֹ]] [[H3258H\|יַעְבֵּץ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3588A\|כִּ֥י]] [[H3205\|יָלַ֖דְתִּי]] [[H9003\|בְּ]][[H6090A\|עֹֽצֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABEZ|JABEZ]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.8|<< 1 Chronicles 4:8]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.10|1 Chronicles 4:10 >>]]</td></tr></table>
 

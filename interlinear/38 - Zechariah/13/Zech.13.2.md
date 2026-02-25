@@ -1,8 +1,71 @@
+---
+title: Zechariah 13:2
+type: Verse
+kjv: "And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land."
+bsb: "And on that day, declares the LORD of Hosts, I will erase the names of the idols from the land, and they will no longer be remembered. I will also remove the prophets and the spirit of impurity from the land."
+hebrew: "וְהָיָה֩ בַיּ֨וֹם הַה֜וּא נְאֻ֣ם׀ יְהוָ֣ה צְבָא֗וֹת אַכְרִ֞ית אֶת־ שְׁמ֤וֹת הָֽעֲצַבִּים֙ מִן־ הָאָ֔רֶץ וְלֹ֥א יִזָּכְר֖וּ ע֑וֹד וְגַ֧ם אֶת־ הַנְּבִיאִ֛ים וְאֶת־ ר֥וּחַ הַטֻּמְאָ֖ה אַעֲבִ֥יר מִן־ הָאָֽרֶץ׃"
+pericope: "[[Zech.13.1 An End to Idolatry|An End to Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 13
+book/chapter: "[[Zech.13|Zechariah 13]]"
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H6091]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H5750]]"
+- "[[H1571]]"
+- "[[H5030]]"
+- "[[H7307G]]"
+- "[[H2932]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 13:2**<big><big>[[Zech.13.1 An End to Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, saith the LORD of hosts, [that] I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
 <small><sub>**BSB:**</sub></small>
 And on that day, declares the LORD of Hosts, I will erase the names of the idols from the land, and they will no longer be remembered. I will also remove the prophets and the spirit of impurity from the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5002\|נְאֻ֣ם]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H3772I\|אַכְרִ֞ית]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֤וֹת]] [[H9009\|הָֽ]][[H6091\|עֲצַבִּים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2142\|יִזָּכְר֖וּ]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H1571\|גַ֧ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֛ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֥וּחַ]] [[H9009\|הַ]][[H2932\|טֻּמְאָ֖ה]] [[H5674A\|אַעֲבִ֥יר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.1|<< Zechariah 13:1]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.3|Zechariah 13:3 >>]]</td></tr></table>
 

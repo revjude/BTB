@@ -1,8 +1,58 @@
+---
+title: Esther 1:4
+type: Verse
+kjv: "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days."
+bsb: "And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness."
+hebrew: "בְּהַרְאֹת֗וֹ אֶת־ עֹ֙שֶׁר֙ כְּב֣וֹד מַלְכוּת֔וֹ וְאֶ֨ת־ יְקָ֔ר תִּפְאֶ֖רֶת גְּדוּלָּת֑וֹ יָמִ֣ים רַבִּ֔ים שְׁמוֹנִ֥ים וּמְאַ֖ת יֽוֹם׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6239]]"
+- "[[H3519]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3366]]"
+- "[[H8597]]"
+- "[[H1420]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H8084]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:4**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, [even] an hundred and fourscore days.
 <small><sub>**BSB:**</sub></small>
 And for a full 180 days he displayed the glorious riches of his kingdom and the magnificent splendor of his greatness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7200G\|הַרְאֹת֗]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H6239\|עֹ֙שֶׁר֙]] [[H3519\|כְּב֣וֹד]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H3366\|יְקָ֔ר]] [[H8597\|תִּפְאֶ֖רֶת]] [[H1420\|גְּדוּלָּת֑]][[H9023\|וֹ]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H8084\|שְׁמוֹנִ֥ים]] [[H9002\|וּ]][[H3967\|מְאַ֖ת]] [[H3117G\|יֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.3|<< Esther 1:3]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.5|Esther 1:5 >>]]</td></tr></table>
 

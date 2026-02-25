@@ -1,8 +1,63 @@
+---
+title: Daniel 11:15
+type: Verse
+kjv: "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand."
+bsb: "Then the king of the North will come, build up a siege ramp, and capture a fortified city. The forces of the South will not stand; even their best troops will not be able to resist."
+hebrew: "וְיָבֹא֙ מֶ֣לֶךְ הַצָּפ֔וֹן וְיִשְׁפֹּךְ֙ סֽוֹלֲלָ֔ה וְלָכַ֖ד עִ֣יר מִבְצָר֑וֹת וּזְרֹע֤וֹת הַנֶּ֙גֶב֙ לֹ֣א יַעֲמֹ֔דוּ וְעַם֙ מִבְחָרָ֔יו וְאֵ֥ין כֹּ֖חַ לַעֲמֹֽד׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H8210I]]"
+- "[[H5550]]"
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H2220]]"
+- "[[H5045H]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H5971K]]"
+- "[[H4005]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:15**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither [shall there be any] strength to withstand.
 <small><sub>**BSB:**</sub></small>
 Then the king of the North will come, build up a siege ramp, and capture a fortified city. The forces of the South will not stand; even their best troops will not be able to resist.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0935G\|יָבֹא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֔וֹן]] [[H9002\|וְ]][[H8210I\|יִשְׁפֹּךְ֙]] [[H5550\|סֽוֹלֲלָ֔ה]] [[H9001\|וְ]][[H3920\|לָכַ֖ד]] [[H5892B\|עִ֣יר]] [[H4013\|מִבְצָר֑וֹת]] [[H9002\|וּ]][[H2220\|זְרֹע֤וֹת]] [[H9009\|הַ]][[H5045H\|נֶּ֙גֶב֙]] [[H3808\|לֹ֣א]] [[H5975G\|יַעֲמֹ֔דוּ]] [[H9002\|וְ]][[H5971K\|עַם֙]] [[H4005\|מִבְחָרָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H3581B\|כֹּ֖חַ]] [[H9005\|לַ]][[H5975G\|עֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.14|<< Daniel 11:14]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.16|Daniel 11:16 >>]]</td></tr></table>
 

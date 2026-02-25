@@ -1,8 +1,50 @@
+---
+title: Psalm 106:27
+type: Verse
+kjv: "To overthrow their seed also among the nations, and to scatter them in the lands."
+bsb: "to disperse their offspring among the nations and scatter them throughout the lands."
+hebrew: "וּלְהַפִּ֣יל זַ֭רְעָם בַּגּוֹיִ֑ם וּ֝לְזָרוֹתָ֗ם בָּאֲרָצֽוֹת׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5307G]]"
+- "[[H2233H]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:27**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To overthrow their seed also among the nations, and to scatter them in the lands.
 <small><sub>**BSB:**</sub></small>
 to disperse their offspring among the nations and scatter them throughout the lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H5307G\|הַפִּ֣יל]] [[H2233H\|זַ֭רְעָ]][[H9028\|ם]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H9002\|וּ֝]][[H9005\|לְ]][[H2219\|זָרוֹתָ֗]][[H9038\|ם]] [[H9003\|בָּ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.26|<< Psalms 106:26]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.28|Psalms 106:28 >>]]</td></tr></table>
 

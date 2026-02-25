@@ -1,8 +1,60 @@
+---
+title: Song of Solomon 4:14
+type: Verse
+kjv: "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:"
+bsb: "with nard and saffron, with calamus and cinnamon, with every kind of frankincense tree, with myrrh and aloes, with all the finest spices."
+hebrew: "נֵ֣רְדְּ׀ וְכַרְכֹּ֗ם קָנֶה֙ וְקִנָּמ֔וֹן עִ֖ם כָּל־ עֲצֵ֣י לְבוֹנָ֑ה מֹ֚ר וַאֲהָל֔וֹת עִ֖ם כָּל־ רָאשֵׁ֥י בְשָׂמִֽים׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic CALAMUS|CALAMUS]]"
+- "[[topic CINNAMON|CINNAMON]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SPIKENARD|SPIKENARD]]"
+strongs:
+- "[[H5373]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3750]]"
+- "[[H7070L]]"
+- "[[H7076]]"
+- "[[H5973A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H3828]]"
+- "[[H4753]]"
+- "[[H0174]]"
+- "[[H7218I]]"
+- "[[H1314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:14**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:
 <small><sub>**BSB:**</sub></small>
 with nard and saffron, with calamus and cinnamon, with every kind of frankincense tree, with myrrh and aloes, with all the finest spices.
+<small><sub>**Hebrew:**</sub></small>
+[[H5373\|נֵ֣רְדְּ]][[H9015\|׀]] [[H9002\|וְ]][[H3750\|כַרְכֹּ֗ם]] [[H7070L\|קָנֶה֙]] [[H9002\|וְ]][[H7076\|קִנָּמ֔וֹן]] [[H5973A\|עִ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֲצֵ֣י]] [[H3828\|לְבוֹנָ֑ה]] [[H4753\|מֹ֚ר]] [[H9002\|וַ]][[H0174\|אֲהָל֔וֹת]] [[H5973A\|עִ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H7218I\|רָאשֵׁ֥י]] [[H1314\|בְשָׂמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic CALAMUS|CALAMUS]] • [[topic CINNAMON|CINNAMON]] • [[topic MYRRH|MYRRH]] • [[topic SPIKENARD|SPIKENARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.13|<< Song of Solomon 4:13]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.15|Song of Solomon 4:15 >>]]</td></tr></table>
 

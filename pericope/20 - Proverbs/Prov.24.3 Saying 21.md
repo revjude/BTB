@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 21
+type: Pericope
 pericope: "[[Prov.24.3 Saying 21|Saying 21]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 24
 book/chapter: "[[Prov.24|Proverbs 24]]"
-genre:
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 2
 verses:
 - "[[Prov.24.3]]"
 - "[[Prov.24.4]]"
 ---
 
-[[Prov.24|Proverbs 24:3 - Proverbs 24:4]]
+<small>[[Prov.24|Proverbs 24:3-4]]</small>
 *Saying 21*
 
 [[Prov.24.3|3]] Through wisdom is an house builded; and by understanding it is established:

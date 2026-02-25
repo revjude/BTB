@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 14:43
+type: Verse
+kjv: "Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that was in mine hand, and, lo, I must die."
+bsb: "“Tell me what you have done,” Saul commanded him. So Jonathan told him, “I only tasted a little honey with the end of the staff that was in my hand. And now I must die?”"
+hebrew: "וַיֹּ֤אמֶר שָׁאוּל֙ אֶל־ י֣וֹנָתָ֔ן הַגִּ֥ידָה לִּ֖י מֶ֣ה עָשִׂ֑יתָה וַיַּגֶּד־ ל֣וֹ יוֹנָתָ֗ן וַיֹּאמֶר֩ טָעֹ֨ם טָעַ֜מְתִּי בִּקְצֵ֨ה הַמַּטֶּ֧ה אֲשֶׁר־ בְּיָדִ֛י מְעַ֥ט דְּבַ֖שׁ הִנְנִ֥י אָמֽוּת׃"
+pericope: "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3129N]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H2938]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H4294G]]"
+- "[[H0834A]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H4592]]"
+- "[[H1706]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:43**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that [was] in mine hand, [and], lo, I must die.
 <small><sub>**BSB:**</sub></small>
 “Tell me what you have done,” Saul commanded him. So Jonathan told him, “I only tasted a little honey with the end of the staff that was in my hand. And now I must die?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H7586G\|שָׁאוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3129N\|י֣וֹנָתָ֔ן]] [[H5046\|הַגִּ֥ידָ]][[H9012\|ה]] [[H9005\|לִּ֖]][[H9030\|י]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֑יתָה]] [[H9001\|וַ]][[H5046\|יַּגֶּד]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3129N\|יוֹנָתָ֗ן]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H2938\|טָעֹ֨ם]] [[H2938\|טָעַ֜מְתִּי]] [[H9003\|בִּ]][[H7097A\|קְצֵ֨ה]] [[H9009\|הַ]][[H4294G\|מַּטֶּ֧ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H3027G\|יָדִ֛]][[H9020\|י]] [[H4592\|מְעַ֥ט]] [[H1706\|דְּבַ֖שׁ]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H4191\|אָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.42|<< 1 Samuel 14:42]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.44|1 Samuel 14:44 >>]]</td></tr></table>
 

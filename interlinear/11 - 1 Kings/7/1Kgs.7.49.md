@@ -1,8 +1,67 @@
+---
+title: 1 Kings 7:49
+type: Verse
+kjv: "And the candlesticks of pure gold, five on the right side, and five on the left, before the oracle, with the flowers, and the lamps, and the tongs of gold,"
+bsb: "the lampstands of pure gold in front of the inner sanctuary, five on the right side and five on the left; the gold flowers, lamps, and tongs;"
+hebrew: "וְאֶת־ הַ֠מְּנֹרוֹת חָמֵ֨שׁ מִיָּמִ֜ין וְחָמֵ֧שׁ מִשְּׂמֹ֛אול לִפְנֵ֥י הַדְּבִ֖יר זָהָ֣ב סָג֑וּר וְהַפֶּ֧רַח וְהַנֵּרֹ֛ת וְהַמֶּלְקַחַ֖יִם זָהָֽב׃"
+pericope: "[[1Kgs.7.48 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TONGS|TONGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4501]]"
+- "[[H2568]]"
+- "[[H9006]]"
+- "[[H3225H]]"
+- "[[H8040G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1687]]"
+- "[[H2091]]"
+- "[[H5462]]"
+- "[[H6525]]"
+- "[[H5216A]]"
+- "[[H4457]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:49**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the candlesticks of pure gold, five on the right [side], and five on the left, before the oracle, with the flowers, and the lamps, and the tongs [of] gold,
 <small><sub>**BSB:**</sub></small>
 the lampstands of pure gold in front of the inner sanctuary, five on the right side and five on the left; the gold flowers, lamps, and tongs;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֠]][[H4501\|מְּנֹרוֹת]] [[H2568\|חָמֵ֨שׁ]] [[H9006\|מִ]][[H3225H\|יָּמִ֜ין]] [[H9002\|וְ]][[H2568\|חָמֵ֧שׁ]] [[H9006\|מִ]][[H8040G\|שְּׂמֹ֛אול]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H1687\|דְּבִ֖יר]] [[H2091\|זָהָ֣ב]] [[H5462\|סָג֑וּר]] [[H9002\|וְ]][[H9009\|הַ]][[H6525\|פֶּ֧רַח]] [[H9002\|וְ]][[H9009\|הַ]][[H5216A\|נֵּרֹ֛ת]] [[H9002\|וְ]][[H9009\|הַ]][[H4457\|מֶּלְקַחַ֖יִם]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic CARVING|CARVING]] • [[topic GOLD|GOLD]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]] • [[topic TONGS|TONGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.48|<< 1 Kings 7:48]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.50|1 Kings 7:50 >>]]</td></tr></table>
 

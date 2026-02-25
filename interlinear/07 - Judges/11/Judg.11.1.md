@@ -1,8 +1,61 @@
+---
+title: Judges 11:1
+type: Verse
+kjv: "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah."
+bsb: "Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father."
+hebrew: "וְיִפְתָּ֣ח הַגִּלְעָדִ֗י הָיָה֙ גִּבּ֣וֹר חַ֔יִל וְה֖וּא בֶּן־ אִשָּׁ֣ה זוֹנָ֑ה וַיּ֥וֹלֶד גִּלְעָ֖ד אֶת־ יִפְתָּֽח׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BASTARD|BASTARD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3316H]]"
+- "[[H9009]]"
+- "[[H1569]]"
+- "[[H1961]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H1931]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H1568I]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:1**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jephthah the Gileadite was a mighty man of valour, and he [was] the son of an harlot: and Gilead begat Jephthah.
 <small><sub>**BSB:**</sub></small>
 Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3316H\|יִפְתָּ֣ח]] [[H9009\|הַ]][[H1569\|גִּלְעָדִ֗י]] [[H1961\|הָיָה֙]] [[H1368\|גִּבּ֣וֹר]] [[H2428G\|חַ֔יִל]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0802G\|אִשָּׁ֣ה]] [[H2181\|זוֹנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1568I\|גִּלְעָ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3316H\|יִפְתָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BASTARD|BASTARD]] • [[topic GILEAD|GILEAD]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.18|<< Judges 10:18]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.2|Judges 11:2 >>]]</td></tr></table>
 

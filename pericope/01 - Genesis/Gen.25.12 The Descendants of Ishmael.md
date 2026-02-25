@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Ishmael
+type: Pericope
 pericope: "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 25
 book/chapter: "[[Gen.25|Genesis 25]]"
-genre:
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.25.12]]"
 - "[[Gen.25.13]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.25.18]]"
 ---
 
-[[Gen.25|Genesis 25:12 - Genesis 25:18]]
+<small>[[Gen.25|Genesis 25:12-18]]</small>
 *The Descendants of Ishmael*
 
 [[Gen.25.12|12]] Now these \[are\] the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:

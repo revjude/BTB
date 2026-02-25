@@ -1,10 +1,63 @@
+---
+title: Matthew 17:26
+type: Verse
+kjv: "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free."
+bsb: "“From others,” Peter answered. “Then the sons are exempt,” Jesus said to him."
+jesus_said: "Then are the children free."
+greek: "εἰπόντος δὲ αὐτῷ ὁ Πέτρος ἀπὸ τῶν ἀλλοτρίων, ἔφη αὐτῷ ὁ Ἰησοῦς· ἄρα γε ἐλεύθεροί εἰσιν οἱ υἱοί."
+pericope: "[[Matt.17.24 The Temple Tax|The Temple Tax]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0575]]"
+- "[[G0245]]"
+- "[[G5346]]"
+- "[[G2424G]]"
+- "[[G0686]]"
+- "[[G1065]]"
+- "[[G1658]]"
+- "[[G1510]]"
+- "[[G5207]]"
+texts:
+- N(k)O
+- no
+- k
+- NKO
+---
+
 **Matthew 17:26**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
 <small><sub>**BSB:**</sub></small>
 “From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.
-<small><sub>**Literal:**</sub></small>
-When saying now he,  <the> Peter From the strangers, one was saying to him <the> Jesus; Then surely free are the sons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.25|<< Matthew 17:25]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.27|Matthew 17:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰπόντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0245\|ἀλλοτρίων,]]  [[G5346\|ἔφη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0686\|ἄρα]]  [[G1065\|γε]]  [[G1658\|ἐλεύθεροί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G5207\|υἱοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic MIRACLES|MIRACLES]] • [[topic TAX|TAX]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.25|<< Matthew 17:25]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.27|Matthew 17:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Psalm 40:13
+type: Verse
+kjv: "Be pleased, O LORD, to deliver me: O LORD, make haste to help me."
+bsb: "Be pleased, O LORD, to deliver me; hurry, O LORD, to help me."
+hebrew: "רְצֵ֣ה יְ֭הוָה לְהַצִּילֵ֑נִי יְ֝הוָ֗ה לְעֶזְרָ֥תִי חֽוּשָׁה׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7521]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H5833]]"
+- "[[H9020]]"
+- "[[H2363A]]"
+- "[[H9012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:13**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be pleased, O LORD, to deliver me: O LORD, make haste to help me.
 <small><sub>**BSB:**</sub></small>
 Be pleased, O LORD, to deliver me; hurry, O LORD, to help me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7521\|רְצֵ֣ה]] [[H3068G\|יְ֭הוָה]] [[H9005\|לְ]][[H5337\|הַצִּילֵ֑]][[H9030\|נִי]] [[H3068G\|יְ֝הוָ֗ה]] [[H9005\|לְ]][[H5833\|עֶזְרָ֥תִ]][[H9020\|י]] [[H2363A\|חֽוּשָׁ]][[H9012\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.12|<< Psalms 40:12]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.14|Psalms 40:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,6 +1,70 @@
+---
+title: LXX Zephaniah 3:5
+type: Verse
+lxx: "But the righteous lord is in the midst of her, and in no way shall he do an unjust thing. Morning by morning he executes his judgment in light, and it was not concealed. And he does not know injustice by exaction, and neither injustice by altercation."
+greek: "ο δε κύριος δίκαιος εν μέσω αυτής και ου μη ποιησεί άδικον πρωϊ πρωϊ δώσει κρίμα αυτού εις φως και ουκ απεκρύβη και ουκ έγνω αδικίαν εν απαιτήσει και ουκ εις νείκος αδικίαν"
+original_language: Greek
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic SHAME|SHAME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2962]]"
+- "[[G1342]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G4160]]"
+- "[[G0094]]"
+- "[[G4404]]"
+- "[[G4404]]"
+- "[[G1325]]"
+- "[[G2917]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5457]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0613]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G0093]]"
+- "[[G1722]]"
+- "[[G6389]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1519]]"
+- "[[G8384]]"
+- "[[G0093]]"
+---
+
 **LXX Zephaniah 3:5** 
 <small><sub>**LXX:**</sub></small>
 But the righteous <span class="smallcaps">lord</span> \[is\] in \[the\] midst of her, and in no way shall he do an unjust \[thing\]. Morning \[by\] morning he executes his judgment in light, and it was not concealed. And he does not know injustice by exaction, and neither injustice by altercation. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G1161\|δε]] [[G2962\|κύριος]] [[G1342\|δίκαιος]] [[G1722\|εν]] [[G3319\|μέσω]] [[G1473\|αυτής]] [[G2532\|και]] [[G3364\|ου μη]] [[G4160\|ποιησεί]] [[G0094\|άδικον]] [[G4404\|πρωϊ]] [[G4404\|πρωϊ]] [[G1325\|δώσει]] [[G2917\|κρίμα]] [[G1473\|αυτού]] [[G1519\|εις]] [[G5457\|φως]] [[G2532\|και]] [[G3756\|ουκ]] [[G0613\|απεκρύβη]] [[G2532\|και]] [[G3756\|ουκ]] [[G1097\|έγνω]] [[G0093\|αδικίαν]] [[G1722\|εν]] [[G6389\|απαιτήσει]] [[G2532\|και]] [[G3756\|ουκ]] [[G1519\|εις]] [[G8384\|νείκος]] [[G0093\|αδικίαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic SHAME|SHAME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zeph.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.4|<< Zephaniah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.6|Zephaniah 3:6 >>]]</td></tr></table>
 
@@ -35,6 +99,6 @@ But the righteous <span class="smallcaps">lord</span> \[is\] in \[the\] midst of
 | by | **<big>[[G1519\|εις]]</big>** |
 | altercation | **<big>[[G8384\|νείκος]]</big>** |
 | injustice | **<big>[[G0093\|αδικίαν]]</big>** |
-[[Zeph.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.4|<< Zephaniah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.6|Zephaniah 3:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.4|<< Zephaniah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.6|Zephaniah 3:6 >>]]</td></tr></table>
 
 

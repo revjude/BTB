@@ -1,8 +1,61 @@
+---
+title: Jeremiah 3:4
+type: Verse
+kjv: "Wilt thou not from this time cry unto me, My father, thou art the guide of my youth?"
+bsb: "Have you not just called to Me, ‘My Father, You are my friend from youth."
+hebrew: "הֲל֣וֹא מֵעַ֔תָּה קָרָ֥את לִ֖י אָבִ֑י אַלּ֥וּף נְעֻרַ֖י אָֽתָּה׃"
+pericope: "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0441A]]"
+- "[[H5271A]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 3:4**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou not from this time cry unto me, My father, thou [art] the guide of my youth?
 <small><sub>**BSB:**</sub></small>
 Have you not just called to Me, ‘My Father, You are my friend from youth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H9006\|מֵ]][[H6258\|עַ֔תָּה]] [[H7121G\|קָרָ֥את]] [[H9005\|לִ֖]][[H9030\|י]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H0441A\|אַלּ֥וּף]] [[H5271A\|נְעֻרַ֖]][[H9020\|י]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.3|<< Jeremiah 3:3]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.5|Jeremiah 3:5 >>]]</td></tr></table>
 

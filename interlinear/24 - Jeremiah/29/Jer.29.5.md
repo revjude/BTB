@@ -1,8 +1,55 @@
+---
+title: Jeremiah 29:5
+type: Verse
+kjv: "Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;"
+bsb: "“Build houses and settle down. Plant gardens and eat their produce."
+hebrew: "בְּנ֥וּ בָתִּ֖ים וְשֵׁ֑בוּ וְנִטְע֣וּ גַנּ֔וֹת וְאִכְל֖וּ אֶת־ פִּרְיָֽן׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ART|ART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5193]]"
+- "[[H1593]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:5**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them;
 <small><sub>**BSB:**</sub></small>
 “Build houses and settle down. Plant gardens and eat their produce.
+<small><sub>**Hebrew:**</sub></small>
+[[H1129\|בְּנ֥וּ]] [[H1004B\|בָתִּ֖ים]] [[H9002\|וְ]][[H3427\|שֵׁ֑בוּ]] [[H9002\|וְ]][[H5193\|נִטְע֣וּ]] [[H1593\|גַנּ֔וֹת]] [[H9002\|וְ]][[H0398\|אִכְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פִּרְיָֽ]][[H9029\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.4|<< Jeremiah 29:4]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.6|Jeremiah 29:6 >>]]</td></tr></table>
 

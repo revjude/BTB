@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Triumphant Messiah
+type: Pericope
 pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 2
 book/chapter: "[[Ps.2|Psalm 2]]"
-genre:
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.2.1]]"
 - "[[Ps.2.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.2.12]]"
 ---
 
-[[Ps.2|Psalm 2:1 - Psalm 2:12]]
+<small>[[Ps.2|Psalm 2:1-12]]</small>
 *The Triumphant Messiah*
 
 [[Ps.2.1|1]] Why do the heathen rage, and the people imagine a vain thing?

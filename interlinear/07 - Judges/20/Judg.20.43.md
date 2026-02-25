@@ -1,8 +1,57 @@
+---
+title: Judges 20:43
+type: Verse
+kjv: "Thus they inclosed the Benjamites round about, and chased them, and trode them down with ease over against Gibeah toward the sunrising."
+bsb: "They surrounded the Benjamites, pursued them, and easily overtook them in the vicinity of Gibeah on the east."
+hebrew: "כִּתְּר֤וּ אֶת־ בִּנְיָמִן֙ הִרְדִיפֻ֔הוּ מְנוּחָ֖ה הִדְרִיכֻ֑הוּ עַ֛ד נֹ֥כַח הַגִּבְעָ֖ה מִמִּזְרַח־ שָֽׁמֶשׁ׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H3803]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H7291]]"
+- "[[H9033]]"
+- "[[H4496G]]"
+- "[[H1869]]"
+- "[[H5704]]"
+- "[[H5227]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:43**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thus] they inclosed the Benjamites round about, [and] chased them, [and] trode them down with ease over against Gibeah toward the sunrising.
 <small><sub>**BSB:**</sub></small>
 They surrounded the Benjamites, pursued them, and easily overtook them in the vicinity of Gibeah on the east.
+<small><sub>**Hebrew:**</sub></small>
+[[H3803\|כִּתְּר֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1144G\|בִּנְיָמִן֙]] [[H7291\|הִרְדִיפֻ֔]][[H9033\|הוּ]] [[H4496G\|מְנוּחָ֖ה]] [[H1869\|הִדְרִיכֻ֑]][[H9033\|הוּ]] [[H5704\|עַ֛ד]] [[H5227\|נֹ֥כַח]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֖ה]] [[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שָֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.42|<< Judges 20:42]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.44|Judges 20:44 >>]]</td></tr></table>
 

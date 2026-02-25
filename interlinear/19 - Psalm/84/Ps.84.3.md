@@ -1,8 +1,70 @@
+---
+title: Psalm 84:3
+type: Verse
+kjv: "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God."
+bsb: "Even the sparrow has found a home, and the swallow a nest for herself, where she places her young near Your altars, O LORD of Hosts, my King and my God."
+hebrew: "גַּם־ צִפּ֨וֹר׀ מָ֪צְאָה בַ֡יִת וּדְר֤וֹר׀ קֵ֥ן לָהּ֮ אֲשֶׁר־ שָׁ֪תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת־ מִ֭זְבְּחוֹתֶיךָ יְהוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SPARROW|SPARROW]]"
+- "[[topic SWALLOW|SWALLOW]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6833]]"
+- "[[H9015]]"
+- "[[H4672]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H1866]]"
+- "[[H7064]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0834A]]"
+- "[[H7896H]]"
+- "[[H0667]]"
+- "[[H9024]]"
+- "[[H0854]]"
+- "[[H4196]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H4428G]]"
+- "[[H9020]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:3**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, [even] thine altars, O LORD of hosts, my King, and my God.
 <small><sub>**BSB:**</sub></small>
 Even the sparrow has found a home, and the swallow a nest for herself, where she places her young near Your altars, O LORD of Hosts, my King and my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H6833\|צִפּ֨וֹר]][[H9015\|׀]] [[H4672\|מָ֪צְאָה]] [[H1004B\|בַ֡יִת]] [[H9002\|וּ]][[H1866\|דְר֤וֹר]][[H9015\|׀]] [[H7064\|קֵ֥ן]] [[H9005\|לָ]][[H9034\|הּ֮]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7896H\|שָׁ֪תָה]] [[H0667\|אֶפְרֹ֫חֶ֥י]][[H9024\|הָ]] [[H0854\|אֶֽת]][[H9014\|־]] [[H4196\|מִ֭זְבְּחוֹתֶי]][[H9021\|ךָ]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H4428G\|מַ֝לְכִּ֗]][[H9020\|י]] [[H9002\|וֵ]][[H0430G\|אלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SPARROW|SPARROW]] • [[topic SWALLOW|SWALLOW]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.2|<< Psalms 84:2]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.4|Psalms 84:4 >>]]</td></tr></table>
 

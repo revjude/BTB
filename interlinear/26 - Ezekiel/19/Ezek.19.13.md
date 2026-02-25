@@ -1,8 +1,55 @@
+---
+title: Ezekiel 19:13
+type: Verse
+kjv: "And now she is planted in the wilderness, in a dry and thirsty ground."
+bsb: "Now it is planted in the wilderness, in a dry and thirsty land."
+hebrew: "וְעַתָּ֖ה שְׁתוּלָ֣ה בַמִּדְבָּ֑ר בְּאֶ֖רֶץ צִיָּ֥ה וְצָמָֽא׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8362]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0776G]]"
+- "[[H6723]]"
+- "[[H6772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:13**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now she [is] planted in the wilderness, in a dry and thirsty ground.
 <small><sub>**BSB:**</sub></small>
 Now it is planted in the wilderness, in a dry and thirsty land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H8362\|שְׁתוּלָ֣ה]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֑ר]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H6723\|צִיָּ֥ה]] [[H9002\|וְ]][[H6772\|צָמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.12|<< Ezekiel 19:12]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.14|Ezekiel 19:14 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: 1 Kings 15:29
+type: Verse
+kjv: "And it came to pass, when he reigned, that he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:"
+bsb: "As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite,"
+hebrew: "וַיְהִ֣י כְמָלְכ֗וֹ הִכָּה֙ אֶת־ כָּל־ בֵּ֣ית יָרָבְעָ֔ם לֹֽא־ הִשְׁאִ֧יר כָּל־ נְשָׁמָ֛ה לְיָרָבְעָ֖ם עַד־ הִשְׁמִד֑וֹ כִּדְבַ֣ר יְהוָ֔ה אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַד־ עַבְדּ֖וֹ אֲחִיָּ֥ה הַשִּׁילֹנִֽי׃"
+pericope: "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic SHILONITE|SHILONITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3379G]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H5397]]"
+- "[[H9005]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0281H]]"
+- "[[H9009]]"
+- "[[H7888]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:29**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he reigned, [that] he smote all the house of Jeroboam; he left not to Jeroboam any that breathed, until he had destroyed him, according unto the saying of the LORD, which he spake by his servant Ahijah the Shilonite:
 <small><sub>**BSB:**</sub></small>
 As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9004\|כְ]][[H4427A\|מָלְכ֗]][[H9043\|וֹ]] [[H5221\|הִכָּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3379G\|יָרָבְעָ֔ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7604\|הִשְׁאִ֧יר]] [[H3605\|כָּל]][[H9014\|־]] [[H5397\|נְשָׁמָ֛ה]] [[H9005\|לְ]][[H3379G\|יָרָבְעָ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H8045\|הִשְׁמִד֑]][[H9033\|וֹ]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֔ר]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H5650\|עַבְדּ֖]][[H9023\|וֹ]] [[H0281H\|אֲחִיָּ֥ה]] [[H9009\|הַ]][[H7888\|שִּׁילֹנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic NADAB|NADAB]] • [[topic REGICIDE|REGICIDE]] • [[topic SHILONITE|SHILONITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.28|<< 1 Kings 15:28]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.30|1 Kings 15:30 >>]]</td></tr></table>
 

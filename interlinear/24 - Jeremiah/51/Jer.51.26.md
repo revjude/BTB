@@ -1,8 +1,60 @@
+---
+title: Jeremiah 51:26
+type: Verse
+kjv: "And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the LORD."
+bsb: "No one shall retrieve from you a cornerstone or a foundation stone, because you will become desolate forever,” declares the LORD."
+hebrew: "וְלֹֽא־ יִקְח֤וּ מִמְּךָ֙ אֶ֣בֶן לְפִנָּ֔ה וְאֶ֖בֶן לְמֽוֹסָד֑וֹת כִּֽי־ שִׁמְמ֥וֹת עוֹלָ֛ם תִּֽהְיֶ֖ה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H0068G]]"
+- "[[H9005]]"
+- "[[H6438H]]"
+- "[[H4146]]"
+- "[[H3588A]]"
+- "[[H8077A]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:26**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 No one shall retrieve from you a cornerstone or a foundation stone, because you will become desolate forever,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3947G\|יִקְח֤וּ]] [[H4480A\|מִמְּ]][[H9031\|ךָ֙]] [[H0068G\|אֶ֣בֶן]] [[H9005\|לְ]][[H6438H\|פִנָּ֔ה]] [[H9002\|וְ]][[H0068G\|אֶ֖בֶן]] [[H9005\|לְ]][[H4146\|מֽוֹסָד֑וֹת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8077A\|שִׁמְמ֥וֹת]] [[H5769G\|עוֹלָ֛ם]] [[H1961\|תִּֽהְיֶ֖ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.25|<< Jeremiah 51:25]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.27|Jeremiah 51:27 >>]]</td></tr></table>
 

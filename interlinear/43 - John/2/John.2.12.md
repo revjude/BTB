@@ -1,10 +1,56 @@
+---
+title: John 2:12
+type: Verse
+kjv: "After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days."
+bsb: "After this, He went down to Capernaum with His mother and brothers and His disciples, and they stayed there a few days."
+greek: "Μετὰ τοῦτο κατέβη εἰς Καφαρναοὺμ αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ καὶ οἱ μαθηταὶ αὐτοῦ, καὶ ἐκεῖ ἔμειναν οὐ πολλὰς ἡμέρας.¶"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G0080]]"
+- "[[G3101]]"
+- "[[G1563]]"
+- "[[G3306]]"
+- "[[G3756]]"
+- "[[G4183]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **John 2:12**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
 <small><sub>**BSB:**</sub></small>
 After this, He went down to Capernaum with His mother and brothers and His disciples, and they stayed there a few days.
-<small><sub>**Literal:**</sub></small>
-After this He went down to Capernaum He himself and the mother of Him and the brothers of Him and the disciples of Him, and there they stayed not many days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.11|<< John 2:11]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.13|John 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|τοῦτο]]  [[G2597\|κατέβη]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναοὺμ]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G1563\|ἐκεῖ]]  [[G3306\|ἔμειναν]]  [[G3756\|οὐ]]  [[G4183\|πολλὰς]]  [[G2250\|ἡμέρας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.11|<< John 2:11]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.13|John 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Joshua 3:10
+type: Verse
+kjv: "And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites."
+bsb: "He continued, “This is how you will know that the living God is among you and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites."
+hebrew: "וַיֹּ֣אמֶר יְהוֹשֻׁ֔עַ בְּזֹאת֙ תֵּֽדְע֔וּן כִּ֛י אֵ֥ל חַ֖י בְּקִרְבְּכֶ֑ם וְהוֹרֵ֣שׁ יוֹרִ֣ישׁ מִ֠פְּנֵיכֶם אֶת־ הַכְּנַעֲנִ֨י וְאֶת־ הַחִתִּ֜י וְאֶת־ הַחִוִּ֗י וְאֶת־ הַפְּרִזִּי֙ וְאֶת־ הַגִּרְגָּשִׁ֔י וְהָאֱמֹרִ֖י וְהַיְבוּסִֽי׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic GIRGASHITES|GIRGASHITES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H3588A]]"
+- "[[H0410G]]"
+- "[[H2416A]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3423H]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H2850]]"
+- "[[H2340]]"
+- "[[H6522]]"
+- "[[H1622]]"
+- "[[H0567]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:10**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said, Hereby ye shall know that the living God [is] among you, and [that] he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
 <small><sub>**BSB:**</sub></small>
 He continued, “This is how you will know that the living God is among you and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9003\|בְּ]][[H2063\|זֹאת֙]] [[H3045\|תֵּֽדְע֔וּ]][[H9013\|ן]] [[H3588A\|כִּ֛י]] [[H0410G\|אֵ֥ל]] [[H2416A\|חַ֖י]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3423H\|הוֹרֵ֣שׁ]] [[H3423H\|יוֹרִ֣ישׁ]] [[H9006\|מִ֠]][[H6440G\|פְּנֵי]][[H9026\|כֶם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3669A\|כְּנַעֲנִ֨י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2850\|חִתִּ֜י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2340\|חִוִּ֗י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6522\|פְּרִזִּי֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1622\|גִּרְגָּשִׁ֔י]] [[H9002\|וְ]][[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic GIRGASHITES|GIRGASHITES]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.9|<< Joshua 3:9]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.11|Joshua 3:11 >>]]</td></tr></table>
 

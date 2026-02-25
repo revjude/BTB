@@ -1,8 +1,51 @@
+---
+title: Job 38:30
+type: Verse
+kjv: "The waters are hid as with a stone, and the face of the deep is frozen."
+bsb: "when the waters become hard as stone and the surface of the deep is frozen?"
+hebrew: "כָּ֭אֶבֶן מַ֣יִם יִתְחַבָּ֑אוּ וּפְנֵ֥י תְ֝ה֗וֹם יִתְלַכָּֽדוּ׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9004]]"
+- "[[H0068G]]"
+- "[[H4325G]]"
+- "[[H2244]]"
+- "[[H9002]]"
+- "[[H6440J]]"
+- "[[H8415]]"
+- "[[H3920]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:30**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The waters are hid as [with] a stone, and the face of the deep is frozen.
 <small><sub>**BSB:**</sub></small>
 when the waters become hard as stone and the surface of the deep is frozen?
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כָּ֭]][[H0068G\|אֶבֶן]] [[H4325G\|מַ֣יִם]] [[H2244\|יִתְחַבָּ֑אוּ]] [[H9002\|וּ]][[H6440J\|פְנֵ֥י]] [[H8415\|תְ֝ה֗וֹם]] [[H3920\|יִתְלַכָּֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.29|<< Job 38:29]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.31|Job 38:31 >>]]</td></tr></table>
 

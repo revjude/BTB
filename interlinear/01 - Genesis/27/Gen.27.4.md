@@ -1,8 +1,66 @@
+---
+title: Genesis 27:4
+type: Verse
+kjv: "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
+bsb: "Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die.”"
+hebrew: "וַעֲשֵׂה־ לִ֨י מַטְעַמִּ֜ים כַּאֲשֶׁ֥ר אָהַ֛בְתִּי וְהָבִ֥יאָה לִּ֖י וְאֹכֵ֑לָה בַּעֲב֛וּר תְּבָרֶכְךָ֥ נַפְשִׁ֖י בְּטֶ֥רֶם אָמֽוּת׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4303]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0157G]]"
+- "[[H0935P]]"
+- "[[H9012]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H2962]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:4**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And make me savoury meat, such as I love, and bring [it] to me, that I may eat; that my soul may bless thee before I die.
 <small><sub>**BSB:**</sub></small>
 Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6213H\|עֲשֵׂה]][[H9014\|־]] [[H9005\|לִ֨]][[H9030\|י]] [[H4303\|מַטְעַמִּ֜ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H0157G\|אָהַ֛בְתִּי]] [[H9002\|וְ]][[H0935P\|הָבִ֥יאָ]][[H9012\|ה]] [[H9005\|לִּ֖]][[H9030\|י]] [[H9002\|וְ]][[H0398\|אֹכֵ֑לָה]] [[H9003\|בַּ]][[H5668\|עֲב֛וּר]] [[H1288\|תְּבָרֶכְ]][[H9031\|ךָ֥]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H9003\|בְּ]][[H2962\|טֶ֥רֶם]] [[H4191\|אָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.3|<< Genesis 27:3]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.5|Genesis 27:5 >>]]</td></tr></table>
 

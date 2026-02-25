@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Priests and Levites Carry the Ark
+type: Pericope
 pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 15
 book/chapter: "[[1Chr.15|1 Chronicles 15]]"
-genre:
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 11
 verses:
 - "[[1Chr.15.14]]"
 - "[[1Chr.15.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Chr.15.24]]"
 ---
 
-[[1Chr.15|1 Chronicles 15:14 - 1 Chronicles 15:24]]
+<small>[[1Chr.15|1 Chronicles 15:14-24]]</small>
 *The Priests and Levites Carry the Ark*
 
 [[1Chr.15.14|14]] So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.

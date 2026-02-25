@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 2:12
+type: Verse
+kjv: "The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them."
+bsb: "The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)"
+hebrew: "וּבְשֵׂעִ֞יר יָשְׁב֣וּ הַחֹרִים֮ לְפָנִים֒ וּבְנֵ֧י עֵשָׂ֣ו יִֽירָשׁ֗וּם וַיַּשְׁמִידוּם֙ מִפְּנֵיהֶ֔ם וַיֵּשְׁב֖וּ תַּחְתָּ֑ם כַּאֲשֶׁ֧ר עָשָׂ֣ה יִשְׂרָאֵ֗ל לְאֶ֙רֶץ֙ יְרֻשָּׁת֔וֹ אֲשֶׁר־ נָתַ֥ן יְהוָ֖ה לָהֶֽם׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8165A]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H2752]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1121G]]"
+- "[[H6215H]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H9006]]"
+- "[[H9028]]"
+- "[[H8478H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H3478]]"
+- "[[H0776G]]"
+- "[[H3425]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:12**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.
 <small><sub>**BSB:**</sub></small>
 The Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land that the LORD gave them as their possession.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H8165A\|שֵׂעִ֞יר]] [[H3427\|יָשְׁב֣וּ]] [[H9009\|הַ]][[H2752\|חֹרִים֮]] [[H9005\|לְ]][[H6440G\|פָנִים֒]] [[H9002\|וּ]][[H1121G\|בְנֵ֧י]] [[H6215H\|עֵשָׂ֣ו]] [[H3423H\|יִֽירָשׁ֗וּ]][[H9038\|ם]] [[H9001\|וַ]][[H8045\|יַּשְׁמִידוּ]][[H9038\|ם֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֖וּ]] [[H8478H\|תַּחְתָּ֑]][[H9038\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֧ר]] [[H6213A\|עָשָׂ֣ה]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לְ]][[H0776G\|אֶ֙רֶץ֙]] [[H3425\|יְרֻשָּׁת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.11|<< Deuteronomy 2:11]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.13|Deuteronomy 2:13 >>]]</td></tr></table>
 

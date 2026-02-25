@@ -1,10 +1,68 @@
+---
+title: Matthew 16:3
+type: Verse
+kjv: "And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
+bsb: "and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but not the signs of the times."
+jesus_said: "And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
+greek: "καὶ πρωΐ· σήμερον χειμών, πυρράζει γὰρ στυγνάζων ὁ οὐρανός. ὑποκριταί τὸ μὲν πρόσωπον τοῦ οὐρανοῦ γινώσκετε διακρίνειν, τὰ δὲ σημεῖα τῶν καιρῶν οὐ δύνασθε;"
+pericope: "[[Matt.16.1 The Demand for a Sign|The Demand for a Sign]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic WEATHER|WEATHER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4404]]"
+- "[[G4594]]"
+- "[[G5494]]"
+- "[[G4449]]"
+- "[[G1063]]"
+- "[[G4768]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G5273]]"
+- "[[G3303]]"
+- "[[G4383]]"
+- "[[G1097]]"
+- "[[G1252]]"
+- "[[G1161]]"
+- "[[G4592]]"
+- "[[G2540]]"
+- "[[G3756]]"
+- "[[G1410]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 16:3**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the morning, [It will be] foul weather to day: for the sky is red and lowring. O [ye] hypocrites, ye can discern the face of the sky; but can ye not [discern] the signs of the times?
 <small><sub>**BSB:**</sub></small>
 and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but not the signs of the times.
-<small><sub>**Literal:**</sub></small>
-And in the morning; Today a storm, is red for being overcast the sky. hypocrites The indeed appearance of the sky you know [how] to discern, <the> however the signs of the times not you are able?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.2|<< Matthew 16:2]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.4|Matthew 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4404\|πρωΐ·]]  [[G4594\|σήμερον]]  [[G5494\|χειμών,]]  [[G4449\|πυρράζει]]  [[G1063\|γὰρ]]  [[G4768\|στυγνάζων]]  [[G3588\|ὁ]]  [[G3772\|οὐρανός.]]  [[G5273\|ὑποκριταί]]  [[G3588\|τὸ]]  [[G3303\|μὲν]]  [[G4383\|πρόσωπον]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G1097\|γινώσκετε]]  [[G1252\|διακρίνειν,]]  [[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G4592\|σημεῖα]]  [[G3588\|τῶν]]  [[G2540\|καιρῶν]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SIGN|SIGN]] • [[topic WEATHER|WEATHER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.2|<< Matthew 16:2]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.4|Matthew 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

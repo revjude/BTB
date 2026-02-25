@@ -1,8 +1,52 @@
+---
+title: Jeremiah 10:15
+type: Verse
+kjv: "They are vanity, and the work of errors: in the time of their visitation they shall perish."
+bsb: "They are worthless, a work to be mocked. In the time of their punishment they will perish."
+hebrew: "הֶ֣בֶל הֵ֔מָּה מַעֲשֵׂ֖ה תַּעְתֻּעִ֑ים בְּעֵ֥ת פְּקֻדָּתָ֖ם יֹאבֵֽדוּ׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H1892]]"
+- "[[H1992]]"
+- "[[H4639G]]"
+- "[[H8595]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H6486]]"
+- "[[H9028]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:15**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] vanity, [and] the work of errors: in the time of their visitation they shall perish.
 <small><sub>**BSB:**</sub></small>
 They are worthless, a work to be mocked. In the time of their punishment they will perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H1892\|הֶ֣בֶל]] [[H1992\|הֵ֔מָּה]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H8595\|תַּעְתֻּעִ֑ים]] [[H9003\|בְּ]][[H6256\|עֵ֥ת]] [[H6486\|פְּקֻדָּתָ֖]][[H9028\|ם]] [[H0006\|יֹאבֵֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.14|<< Jeremiah 10:14]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.16|Jeremiah 10:16 >>]]</td></tr></table>
 

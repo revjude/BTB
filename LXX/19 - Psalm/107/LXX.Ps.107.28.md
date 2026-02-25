@@ -1,6 +1,57 @@
+---
+title: LXX Psalm 107:28
+type: Verse
+lxx: "And they cry out to the lord in  their being afflicted; and he leads them from out of their distresses."
+greek: "και εκέκραξαν προς κύριον εν τω θλίβεσθαι αυτούς και εκ των αναγκών αυτών εξήγαγεν αυτούς"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2346]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0318]]"
+- "[[G1473]]"
+- "[[G1806]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 107:28** 
 <small><sub>**LXX:**</sub></small>
 And they cry out to \[the\] <span class="smallcaps">lord</span> in  their being afflicted; and he leads them from out of their distresses. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2896\|εκέκραξαν]] [[G4314\|προς]] [[G2962\|κύριον]] [[G1722\|εν]] [[G3588\|τω]] [[G2346\|θλίβεσθαι]] [[G1473\|αυτούς]] [[G2532\|και]] [[G1537\|εκ]] [[G3588\|των]] [[G0318\|αναγκών]] [[G1473\|αυτών]] [[G1806\|εξήγαγεν]] [[G1473\|αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COMMERCE|COMMERCE]] • [[topic GOD|GOD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.107.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.27|<< Psalm 107:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.29|Psalm 107:29 >>]]</td></tr></table>
 
@@ -19,6 +70,6 @@ And they cry out to \[the\] <span class="smallcaps">lord</span> in  their being 
 | their distresses | **<big>[[G0318\|αναγκών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | he leads | **<big>[[G1806\|εξήγαγεν]]</big>** |
 | them | **<big>[[G1473\|αυτούς]]</big>** |
-[[Ps.107.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.27|<< Psalm 107:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.29|Psalm 107:29 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.27|<< Psalm 107:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.29|Psalm 107:29 >>]]</td></tr></table>
 
 

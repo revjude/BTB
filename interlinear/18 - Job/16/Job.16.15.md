@@ -1,8 +1,53 @@
+---
+title: Job 16:15
+type: Verse
+kjv: "I have sewed sackcloth upon my skin, and defiled my horn in the dust."
+bsb: "I have sewn sackcloth over my skin; I have buried my horn in the dust."
+hebrew: "שַׂ֣ק תָּ֭פַרְתִּי עֲלֵ֣י גִלְדִּ֑י וְעֹלַ֖לְתִּי בֶעָפָ֣ר קַרְנִֽי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H8242]]"
+- "[[H8609]]"
+- "[[H5921A]]"
+- "[[H1539]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5953D]]"
+- "[[H9003]]"
+- "[[H6083]]"
+- "[[H7161A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:15**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have sewed sackcloth upon my skin, and defiled my horn in the dust.
 <small><sub>**BSB:**</sub></small>
 I have sewn sackcloth over my skin; I have buried my horn in the dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H8242\|שַׂ֣ק]] [[H8609\|תָּ֭פַרְתִּי]] [[H5921A\|עֲלֵ֣י]] [[H1539\|גִלְדִּ֑]][[H9020\|י]] [[H9001\|וְ]][[H5953D\|עֹלַ֖לְתִּי]] [[H9003\|בֶ]][[H6083\|עָפָ֣ר]] [[H7161A\|קַרְנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.16|Job 16:16 >>]]</td></tr></table>
 

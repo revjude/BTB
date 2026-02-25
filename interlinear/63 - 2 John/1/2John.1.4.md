@@ -1,10 +1,53 @@
+---
+title: 2 John 1:4
+type: Verse
+kjv: "I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father."
+bsb: "I was overjoyed to find some of your children walking in the truth, just as the Father has commanded us."
+greek: "Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ πατρός."
+pericope: "[[2John.1.4 Walking in the Truth|Walking in the Truth]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G5463]]"
+- "[[G3029]]"
+- "[[G3754G]]"
+- "[[G2147]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G4771]]"
+- "[[G4043]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G2531]]"
+- "[[G1785]]"
+- "[[G2983]]"
+- "[[G3844]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **2 John 1:4**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
 <small><sub>**BSB:**</sub></small>
 I was overjoyed to find some of your children walking in the truth, just as the Father has commanded us.
-<small><sub>**Literal:**</sub></small>
-I rejoiced exceedingly that I have found [some] of the children of you walking in truth even as commandment we received from the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.3|<< 2 John 1:3]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.5|2 John 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5463\|Ἐχάρην]]  [[G3029\|λίαν]]  [[G3754G\|ὅτι]]  [[G2147\|εὕρηκα]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G4771\|σου]]  [[G4043\|περιπατοῦντας]]  [[G1722\|ἐν]]  [[G0225\|ἀληθείᾳ]]  [[G2531\|καθὼς]]  [[G1785\|ἐντολὴν]]  [[G2983\|ἐλάβομεν]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.3|<< 2 John 1:3]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.5|2 John 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

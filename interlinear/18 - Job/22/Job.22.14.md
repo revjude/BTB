@@ -1,8 +1,58 @@
+---
+title: Job 22:14
+type: Verse
+kjv: "Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven."
+bsb: "Thick clouds veil Him so He does not see us as He traverses the vault of heaven.’"
+hebrew: "עָבִ֣ים סֵֽתֶר־ ל֭וֹ וְלֹ֣א יִרְאֶ֑ה וְח֥וּג שָׁ֝מַ֗יִם יִתְהַלָּֽךְ׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H5645]]"
+- "[[H5643A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H2329]]"
+- "[[H8064]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:14**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thick clouds [are] a covering to him, that he seeth not; and he walketh in the circuit of heaven.
 <small><sub>**BSB:**</sub></small>
 Thick clouds veil Him so He does not see us as He traverses the vault of heaven.’
+<small><sub>**Hebrew:**</sub></small>
+[[H5645\|עָבִ֣ים]] [[H5643A\|סֵֽתֶר]][[H9014\|־]] [[H9005\|ל֭]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|יִרְאֶ֑ה]] [[H9002\|וְ]][[H2329\|ח֥וּג]] [[H8064\|שָׁ֝מַ֗יִם]] [[H1980I\|יִתְהַלָּֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.13|<< Job 22:13]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.15|Job 22:15 >>]]</td></tr></table>
 

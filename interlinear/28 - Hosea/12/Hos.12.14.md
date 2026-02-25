@@ -1,8 +1,58 @@
+---
+title: Hosea 12:14
+type: Verse
+kjv: "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him."
+bsb: "Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt."
+hebrew: "הִכְעִ֥יס אֶפְרַ֖יִם תַּמְרוּרִ֑ים וְדָמָיו֙ עָלָ֣יו יִטּ֔וֹשׁ וְחֶ֨רְפָּת֔וֹ יָשִׁ֥יב ל֖וֹ אֲדֹנָֽיו׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3707]]"
+- "[[H0669G]]"
+- "[[H8563]]"
+- "[[H9002]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5203]]"
+- "[[H2781]]"
+- "[[H7725K]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:14**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim provoked [him] to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.
 <small><sub>**BSB:**</sub></small>
 Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt.
+<small><sub>**Hebrew:**</sub></small>
+[[H3707\|הִכְעִ֥יס]] [[H0669G\|אֶפְרַ֖יִם]] [[H8563\|תַּמְרוּרִ֑ים]] [[H9002\|וְ]][[H1818\|דָמָי]][[H9023\|ו֙]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H5203\|יִטּ֔וֹשׁ]] [[H9002\|וְ]][[H2781\|חֶ֨רְפָּת֔]][[H9023\|וֹ]] [[H7725K\|יָשִׁ֥יב]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0113\|אֲדֹנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.13|<< Hosea 12:13]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.1|Hosea 13:1 >>]]</td></tr></table>
 

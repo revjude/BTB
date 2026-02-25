@@ -1,10 +1,56 @@
+---
+title: Romans 9:7
+type: Verse
+kjv: "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called."
+bsb: "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”"
+greek: "οὐδ᾽ ὅτι εἰσὶν σπέρμα Ἀβραὰμ πάντες τέκνα, ἀλλ᾽ ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα."
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3761]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+- "[[G3956]]"
+- "[[G5043]]"
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G2464]]"
+- "[[G2564H]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Romans 9:7**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither, because they are the seed of Abraham, [are they] all children: but, In Isaac shall thy seed be called.
 <small><sub>**BSB:**</sub></small>
 Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”
-<small><sub>**Literal:**</sub></small>
-Nor because they are seed of Abraham [are] all children, rather In Isaac will be named to you offspring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.6|<< Romans 9:6]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.8|Romans 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδ᾽]]  [[G3754H\|ὅτι]]  [[G1510\|εἰσὶν]]  [[G4690G\|σπέρμα]]  [[G0011\|Ἀβραὰμ]]  [[G3956\|πάντες]]  [[G5043\|τέκνα,]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G2464\|Ἰσαὰκ]]  [[G2564H\|κληθήσεταί]]  [[G4771\|σοι]]  [[G4690G\|σπέρμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISAAC|ISAAC]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.6|<< Romans 9:6]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.8|Romans 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 9:7** is...
 > $\quad$ referencing: [[LXX.Gen.21.12|Gen 21:12]]

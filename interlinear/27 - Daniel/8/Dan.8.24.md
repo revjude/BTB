@@ -1,8 +1,53 @@
+---
+title: Daniel 8:24
+type: Verse
+kjv: "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people."
+bsb: "His power will be great, but it will not be his own. He will cause terrible destruction and succeed in whatever he does. He will destroy the mighty men along with the holy people."
+hebrew: "וְעָצַ֤ם כֹּחוֹ֙ וְלֹ֣א בְכֹח֔וֹ וְנִפְלָא֥וֹת יַשְׁחִ֖ית וְהִצְלִ֣יחַ וְעָשָׂ֑ה וְהִשְׁחִ֥ית עֲצוּמִ֖ים וְעַם־ קְדֹשִֽׁים׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H6105A]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H6381]]"
+- "[[H7843]]"
+- "[[H6743B]]"
+- "[[H6213A]]"
+- "[[H6099]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H6918H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:24**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
 <small><sub>**BSB:**</sub></small>
 His power will be great, but it will not be his own. He will cause terrible destruction and succeed in whatever he does. He will destroy the mighty men along with the holy people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6105A\|עָצַ֤ם]] [[H3581B\|כֹּח]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H3581B\|כֹח֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H6381\|נִפְלָא֥וֹת]] [[H7843\|יַשְׁחִ֖ית]] [[H9001\|וְ]][[H6743B\|הִצְלִ֣יחַ]] [[H9001\|וְ]][[H6213A\|עָשָׂ֑ה]] [[H9001\|וְ]][[H7843\|הִשְׁחִ֥ית]] [[H6099\|עֲצוּמִ֖ים]] [[H9002\|וְ]][[H5971A\|עַם]][[H9014\|־]] [[H6918H\|קְדֹשִֽׁים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.23|<< Daniel 8:23]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.25|Daniel 8:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

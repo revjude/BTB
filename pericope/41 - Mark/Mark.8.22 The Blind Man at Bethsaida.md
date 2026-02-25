@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blind Man at Bethsaida
+type: Pericope
 pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 8
 book/chapter: "[[Mark.8|Mark 8]]"
-genre:
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.8.22]]"
 - "[[Mark.8.23]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.8.26]]"
 ---
 
-[[Mark.8|Mark 8:22 - Mark 8:26]]
+<small>[[Mark.8|Mark 8:22-26]]</small>
 *The Blind Man at Bethsaida*
 
 [[Mark.8.22|22]] And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.

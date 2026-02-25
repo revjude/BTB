@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 35:8
+type: Verse
+kjv: "And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen."
+bsb: "His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the chief officials of the house of God, gave the priests 2,600 Passover offerings and 300 bulls."
+hebrew: "וְשָׂרָ֞יו לִנְדָבָ֥ה לָעָ֛ם לַכֹּהֲנִ֥ים וְלַלְוִיִּ֖ם הֵרִ֑ימוּ חִלְקִיָּ֨ה וּזְכַרְיָ֜הוּ וִֽיחִיאֵ֗ל נְגִידֵי֙ בֵּ֣ית הָאֱלֹהִ֔ים לַכֹּהֲנִ֞ים נָתְנ֣וּ לַפְּסָחִ֗ים אַלְפַּ֙יִם֙ וְשֵׁ֣שׁ מֵא֔וֹת וּבָקָ֖ר שְׁלֹ֥שׁ מֵאֽוֹת׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHIEL|JEHIEL]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5071]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H7311A]]"
+- "[[H2518H]]"
+- "[[H2148O]]"
+- "[[H3171M]]"
+- "[[H5057]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H6453]]"
+- "[[H0505G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H1241]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:8**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred [small cattle], and three hundred oxen.
 <small><sub>**BSB:**</sub></small>
 His officials also contributed willingly to the people and priests and Levites. Hilkiah, Zechariah, and Jehiel, the chief officials of the house of God, gave the priests 2,600 Passover offerings and 300 bulls.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8269\|שָׂרָ֞י]][[H9023\|ו]] [[H9005\|לִ]][[H5071\|נְדָבָ֥ה]] [[H9005\|לָ]][[H5971A\|עָ֛ם]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֥ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֖ם]] [[H7311A\|הֵרִ֑ימוּ]] [[H2518H\|חִלְקִיָּ֨ה]] [[H9002\|וּ]][[H2148O\|זְכַרְיָ֜הוּ]] [[H9002\|וִֽ]][[H3171M\|יחִיאֵ֗ל]] [[H5057\|נְגִידֵי֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֞ים]] [[H5414G\|נָתְנ֣וּ]] [[H9005\|לַ]][[H6453\|פְּסָחִ֗ים]] [[H0505G\|אַלְפַּ֙יִם֙]] [[H9002\|וְ]][[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H9002\|וּ]][[H1241\|בָקָ֖ר]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHIEL|JEHIEL]] • [[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PASSOVER|PASSOVER]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.7|<< 2 Chronicles 35:7]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.9|2 Chronicles 35:9 >>]]</td></tr></table>
 

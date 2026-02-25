@@ -1,10 +1,57 @@
+---
+title: Luke 17:17
+type: Verse
+kjv: "And Jesus answering said, Were there not ten cleansed? but where are the nine?"
+bsb: "“Were not all ten cleansed?” Jesus asked. “Where then are the other nine?"
+jesus_said: "Were there not ten cleansed? but where are the nine?"
+greek: "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· οὐχὶ οἱ δέκα ἐκαθαρίσθησαν; οἱ δὲ ἐννέα ποῦ;"
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3780]]"
+- "[[G1176]]"
+- "[[G2511]]"
+- "[[G1767]]"
+- "[[G4226]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 17:17**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said, Were there not ten cleansed? but where [are] the nine?
 <small><sub>**BSB:**</sub></small>
 “Were not all ten cleansed?” Jesus asked. “Where then are the other nine?
-<small><sub>**Literal:**</sub></small>
-Having answered then <the> Jesus said; surely the ten were cleansed? <the> But the nine are where?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.16|<< Luke 17:16]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.18|Luke 17:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G3780\|οὐχὶ]]  [[G3588\|οἱ]]  [[G1176\|δέκα]]  [[G2511\|ἐκαθαρίσθησαν;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1767\|ἐννέα]]  [[G4226\|ποῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.16|<< Luke 17:16]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.18|Luke 17:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

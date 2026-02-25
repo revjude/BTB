@@ -1,8 +1,62 @@
+---
+title: Ezekiel 24:8
+type: Verse
+kjv: "That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered."
+bsb: "In order to stir up wrath and take vengeance, I have placed her blood on the bare rock, so that it would not be covered.’"
+hebrew: "לְהַעֲל֤וֹת חֵמָה֙ לִנְקֹ֣ם נָקָ֔ם נָתַ֥תִּי אֶת־ דָּמָ֖הּ עַל־ צְחִ֣יחַ סָ֑לַע לְבִלְתִּ֖י הִכָּסֽוֹת׃ פ"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H2534]]"
+- "[[H5358]]"
+- "[[H5359]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H6706]]"
+- "[[H5553H]]"
+- "[[H1115]]"
+- "[[H3680]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 24:8**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.
 <small><sub>**BSB:**</sub></small>
 In order to stir up wrath and take vengeance, I have placed her blood on the bare rock, so that it would not be covered.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5927G\|הַעֲל֤וֹת]] [[H2534\|חֵמָה֙]] [[H9005\|לִ]][[H5358\|נְקֹ֣ם]] [[H5359\|נָקָ֔ם]] [[H5414H\|נָתַ֥תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ֖]][[H9024\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6706\|צְחִ֣יחַ]] [[H5553H\|סָ֑לַע]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H3680\|הִכָּסֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.7|<< Ezekiel 24:7]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.9|Ezekiel 24:9 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ In order to stir up wrath and take vengeance, I have placed her blood on the bar
 | bareness of  |**<big>&#8207;[[H6706\|צְחִ֣יחַ]]&#8207; </big>**| tze.Chi.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rock  |**<big>&#8207;[[H5553H\|סָ֑לַע]]&#8207; </big>**| Sa.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1115\|בִלְתִּ֖י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to be covered  |**<big>&#8207;[[H3680\|הִכָּסֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hi.ka.Sot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to be covered  |**<big>&#8207;[[H3680\|הִכָּסֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hi.ka.Sot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.7|<< Ezekiel 24:7]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.9|Ezekiel 24:9 >>]]</td></tr></table>
 
 

@@ -1,10 +1,67 @@
+---
+title: Luke 20:13
+type: Verse
+kjv: "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him."
+bsb: "‘What shall I do?’ asked the owner of the vineyard. ‘I will send my beloved son. Perhaps they will respect him.’"
+jesus_said: "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him."
+greek: "Εἶπεν δὲ ὁ κύριος τοῦ ἀμπελῶνος· τί ποιήσω; πέμψω τὸν υἱόν μου τὸν ἀγαπητόν· ἴσως τοῦτον ἰδόντες ἐντραπήσονται."
+pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0290]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3992]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G2481]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G1788]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 20:13**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence [him] when they see him.
 <small><sub>**BSB:**</sub></small>
 ‘What shall I do?’ asked the owner of the vineyard. ‘I will send my beloved son. Perhaps they will respect him.’
-<small><sub>**Literal:**</sub></small>
-Said then the master of the vineyard; What shall I do? I will send the son of mine the beloved; perhaps him having seen they will respect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.12|<< Luke 20:12]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.14|Luke 20:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G3588\|τοῦ]]  [[G0290\|ἀμπελῶνος·]]  [[G5101\|τί]]  [[G4160G\|ποιήσω;]]  [[G3992\|πέμψω]]  [[G3588\|τὸν]]  [[G5207\|υἱόν]]  [[G3165\|μου]]  [[G3588\|τὸν]]  [[G0027\|ἀγαπητόν·]]  [[G2481\|ἴσως]]  [[G3778\|τοῦτον]]  [[G1492H\|ἰδόντες]]  [[G1788\|ἐντραπήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic DEBTOR|DEBTOR]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.12|<< Luke 20:12]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.14|Luke 20:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

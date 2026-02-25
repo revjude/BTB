@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Priests and Levites Who Returned
+type: Pericope
 pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 12
 book/chapter: "[[Neh.12|Nehemiah 12]]"
-genre:
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 26
 verses:
 - "[[Neh.12.1]]"
 - "[[Neh.12.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Neh.12.26]]"
 ---
 
-[[Neh.12|Nehemiah 12:1 - Nehemiah 12:26]]
+<small>[[Neh.12|Nehemiah 12:1-26]]</small>
 *The Priests and Levites Who Returned*
 
 [[Neh.12.1|1]] Now these \[are\] the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,

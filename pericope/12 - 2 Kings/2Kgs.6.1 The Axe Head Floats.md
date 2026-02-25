@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Axe Head Floats
+type: Pericope
 pericope: "[[2Kgs.6.1 The Axe Head Floats|The Axe Head Floats]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 6
 book/chapter: "[[2Kgs.6|2 Kings 6]]"
-genre:
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.6.1]]"
 - "[[2Kgs.6.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.6.7]]"
 ---
 
-[[2Kgs.6|2 Kings 6:1 - 2 Kings 6:7]]
+<small>[[2Kgs.6|2 Kings 6:1-7]]</small>
 *The Axe Head Floats*
 
 [[2Kgs.6.1|1]] And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.

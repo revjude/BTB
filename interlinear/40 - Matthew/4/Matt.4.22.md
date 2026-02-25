@@ -1,10 +1,55 @@
+---
+title: Matthew 4:22
+type: Verse
+kjv: "And they immediately left the ship and their father, and followed him."
+bsb: "and immediately they left the boat and their father and followed Him."
+greek: "οἱ δὲ εὐθέως ἀφέντες τὸ πλοῖον καὶ τὸν πατέρα αὐτῶν ἠκολούθησαν αὐτῷ.¶"
+pericope: "[[Matt.4.18 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2112]]"
+- "[[G0863G]]"
+- "[[G4143]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G0190]]"
+texts:
+- NKO
+---
+
 **Matthew 4:22**<big><big>[[Matt.4.18 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they immediately left the ship and their father, and followed him.
 <small><sub>**BSB:**</sub></small>
 and immediately they left the boat and their father and followed Him.
-<small><sub>**Literal:**</sub></small>
-<the> And immediately having left the boat and the father of them they followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.21|<< Matthew 4:21]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.23|Matthew 4:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2112\|εὐθέως]]  [[G0863G\|ἀφέντες]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτῶν]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.21|<< Matthew 4:21]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.23|Matthew 4:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

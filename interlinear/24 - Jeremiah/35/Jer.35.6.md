@@ -1,8 +1,71 @@
+---
+title: Jeremiah 35:6
+type: Verse
+kjv: "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:"
+bsb: "“We do not drink wine,” they replied, “for our forefather Jonadab son of Rechab commanded us, ‘Neither you nor your descendants are ever to drink wine."
+hebrew: "וַיֹּאמְר֖וּ לֹ֣א נִשְׁתֶּה־ יָּ֑יִן כִּי֩ יוֹנָדָ֨ב בֶּן־ רֵכָ֜ב אָבִ֗ינוּ צִוָּ֤ה עָלֵ֙ינוּ֙ לֵאמֹ֔ר לֹ֧א תִשְׁתּוּ־ יַ֛יִן אַתֶּ֥ם וּבְנֵיכֶ֖ם עַד־ עוֹלָֽם׃"
+pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic HANAN|HANAN]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic RECHABITES|RECHABITES]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H8354]]"
+- "[[H9014]]"
+- "[[H3196]]"
+- "[[H3588A]]"
+- "[[H3122H]]"
+- "[[H1121A]]"
+- "[[H7394H]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H9026]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:6**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, [neither] ye, nor your sons for ever:
 <small><sub>**BSB:**</sub></small>
 “We do not drink wine,” they replied, “for our forefather Jonadab son of Rechab commanded us, ‘Neither you nor your descendants are ever to drink wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H3808\|לֹ֣א]] [[H8354\|נִשְׁתֶּה]][[H9014\|־]] [[H3196\|יָּ֑יִן]] [[H3588A\|כִּי֩]] [[H3122H\|יוֹנָדָ֨ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵכָ֜ב]] [[H0001G\|אָבִ֗י]][[H9025\|נוּ]] [[H6680\|צִוָּ֤ה]] [[H5921A\|עָלֵ֙י]][[H9035\|נוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹ֧א]] [[H8354\|תִשְׁתּוּ]][[H9014\|־]] [[H3196\|יַ֛יִן]] [[H0859D\|אַתֶּ֥ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic HANAN|HANAN]] • [[topic JONADAB|JONADAB]] • [[topic RECHAB|RECHAB]] • [[topic RECHABITES|RECHABITES]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.5|<< Jeremiah 35:5]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.7|Jeremiah 35:7 >>]]</td></tr></table>
 

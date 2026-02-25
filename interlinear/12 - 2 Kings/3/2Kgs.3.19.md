@@ -1,8 +1,63 @@
+---
+title: 2 Kings 3:19
+type: Verse
+kjv: "And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones."
+bsb: "And you shall attack every fortified city and every city of importance. You shall cut down every good tree, stop up every spring, and ruin every good field with stones.”"
+hebrew: "וְהִכִּיתֶ֞ם כָּל־ עִ֤יר מִבְצָר֙ וְכָל־ עִ֣יר מִבְח֔וֹר וְכָל־ עֵ֥ץ טוֹב֙ תַּפִּ֔ילוּ וְכָל־ מַעְיְנֵי־ מַ֖יִם תִּסְתֹּ֑מוּ וְכֹל֙ הַחֶלְקָ֣ה הַטּוֹבָ֔ה תַּכְאִ֖בוּ בָּאֲבָנִֽים׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H9002]]"
+- "[[H4004]]"
+- "[[H6086H]]"
+- "[[H2896A]]"
+- "[[H5307M]]"
+- "[[H4599]]"
+- "[[H4325G]]"
+- "[[H5640A]]"
+- "[[H9009]]"
+- "[[H2513A]]"
+- "[[H3510]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:19**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
 <small><sub>**BSB:**</sub></small>
 And you shall attack every fortified city and every city of importance. You shall cut down every good tree, stop up every spring, and ruin every good field with stones.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5221\|הִכִּיתֶ֞ם]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עִ֤יר]] [[H4013\|מִבְצָר֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H4004\|מִבְח֔וֹר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H2896A\|טוֹב֙]] [[H5307M\|תַּפִּ֔ילוּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4599\|מַעְיְנֵי]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H5640A\|תִּסְתֹּ֑מוּ]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H9009\|הַ]][[H2513A\|חֶלְקָ֣ה]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֔ה]] [[H3510\|תַּכְאִ֖בוּ]] [[H9003\|בָּ]][[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MOABITES|MOABITES]] • [[topic STONES|STONES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.18|<< 2 Kings 3:18]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.20|2 Kings 3:20 >>]]</td></tr></table>
 

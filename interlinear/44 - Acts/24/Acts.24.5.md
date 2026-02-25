@@ -1,10 +1,63 @@
+---
+title: Acts 24:5
+type: Verse
+kjv: "For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:"
+bsb: "We have found this man to be a pestilence, stirring up dissension among the Jews all over the world. He is a ringleader of the sect of the Nazarenes,"
+greek: "εὑρόντες γὰρ τὸν ἄνδρα τοῦτον λοιμὸν καὶ κινοῦντα στάσεις πᾶσιν τοῖς Ἰουδαίοις τοῖς κατὰ τὴν οἰκουμένην πρωτοστάτην τε τῆς τῶν Ναζωραίων αἱρέσεως·"
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SEDITION|SEDITION]]"
+strongs:
+- "[[G2147]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G3778]]"
+- "[[G3061]]"
+- "[[G2532]]"
+- "[[G2795]]"
+- "[[G4714]]"
+- "[[G3956]]"
+- "[[G2453]]"
+- "[[G2596]]"
+- "[[G3625]]"
+- "[[G4414]]"
+- "[[G5037]]"
+- "[[G3480]]"
+- "[[G0139]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 24:5**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we have found this man [a] pestilent [fellow], and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:
 <small><sub>**BSB:**</sub></small>
 We have found this man to be a pestilence, stirring up dissension among the Jews all over the world. He is a ringleader of the sect of the Nazarenes,
-<small><sub>**Literal:**</sub></small>
-Having found for <the> man this a pest and stirring insurrections among all the Jews <the> in the world a leader then of the of the Nazarenes sect;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.4|<< Acts 24:4]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.6|Acts 24:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2147\|εὑρόντες]]  [[G1063\|γὰρ]]  [[G3588\|τὸν]]  [[G0435G\|ἄνδρα]]  [[G3778\|τοῦτον]]  [[G3061\|λοιμὸν]]  [[G2532\|καὶ]]  [[G2795\|κινοῦντα]]  [[G4714\|στάσεις]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G3588\|τοῖς]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην]]  [[G4414\|πρωτοστάτην]]  [[G5037\|τε]]  [[G3588\|τῆς]]  [[G3588\|τῶν]]  [[G3480\|Ναζωραίων]]  [[G0139\|αἱρέσεως·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADVOCATE|ADVOCATE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SEDITION|SEDITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.4|<< Acts 24:4]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.6|Acts 24:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

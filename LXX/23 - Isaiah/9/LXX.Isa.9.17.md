@@ -1,6 +1,84 @@
+---
+title: LXX Isaiah 9:17
+type: Verse
+lxx: "On account of this the lord shall not be gladdened over their young men; and upon  their orphans and  their widows he shall not show mercy. For all are lawless ones and wicked ones, and every mouth speaks unjustly. For all these things his rage shall not turn away, but still  his hand is high."
+greek: "διά τούτο επί τους νεανίσκους αυτών ουκ ευφρανθήσεται ο κύριος και τους ορφανούς αυτών και τας χήρας αυτών ουκ ελεήσει ότι πάντες άνομοι και πονηροί και παν στόμα λαλεί άδικα επί πάσι τούτοις ουκ απεστράφη ο θυμός αυτού αλλ΄ έτι η χειρ αυτού υψηλή"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3495]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2165]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3737]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5503]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1653]]"
+- "[[G3754]]"
+- "[[G3956]]"
+- "[[G0459]]"
+- "[[G2532]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G4750]]"
+- "[[G2980]]"
+- "[[G0094]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G0654]]"
+- "[[G3588]]"
+- "[[G2372]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G2089]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G5308]]"
+---
+
 **LXX Isaiah 9:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this the <span class="smallcaps">lord</span> shall not be gladdened over their young men; and \[upon\]  their orphans and  their widows he shall not show mercy. For all \[are\] lawless ones and wicked ones, and every mouth speaks unjustly. For all these \[things\] his rage shall not turn away, but still  his hand \[is\] high. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G1909\|επί]] [[G3588\|τους]] [[G3495\|νεανίσκους]] [[G1473\|αυτών]] [[G3756\|ουκ]] [[G2165\|ευφρανθήσεται]] [[G3588\|ο]] [[G2962\|κύριος]] [[G2532\|και]] [[G3588\|τους]] [[G3737\|ορφανούς]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|τας]] [[G5503\|χήρας]] [[G1473\|αυτών]] [[G3756\|ουκ]] [[G1653\|ελεήσει]] [[G3754\|ότι]] [[G3956\|πάντες]] [[G0459\|άνομοι]] [[G2532\|και]] [[G4190\|πονηροί]] [[G2532\|και]] [[G3956\|παν]] [[G4750\|στόμα]] [[G2980\|λαλεί]] [[G0094\|άδικα]] [[G1909\|επί]] [[G3956\|πάσι]] [[G3778\|τούτοις]] [[G3756\|ουκ]] [[G0654\|απεστράφη]] [[G3588\|ο]] [[G2372\|θυμός]] [[G1473\|αυτού]] [[G0235\|αλλ΄]] [[G2089\|έτι]] [[G3588\|η]] [[G5495\|χειρ]] [[G1473\|αυτού]] [[G5308\|υψηλή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
 
@@ -45,6 +123,6 @@ On account of this the <span class="smallcaps">lord</span> shall not be gladdene
 | \<obj.> | **<big>[[G3588\|η]]</big>** |
 | his hand | **<big>[[G5495\|χειρ]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | \[is\] high. | **<big>[[G5308\|υψηλή]]</big>** |
-[[Isa.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
 
 

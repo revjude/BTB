@@ -1,8 +1,63 @@
+---
+title: Jeremiah 12:2
+type: Verse
+kjv: "Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou art near in their mouth, and far from their reins."
+bsb: "You planted them, and they have taken root. They have grown and produced fruit. You are ever on their lips, but far from their hearts."
+hebrew: "נְטַעְתָּם֙ גַּם־ שֹׁרָ֔שׁוּ יֵלְכ֖וּ גַּם־ עָ֣שׂוּ פֶ֑רִי קָר֤וֹב אַתָּה֙ בְּפִיהֶ֔ם וְרָח֖וֹק מִכִּלְיוֹתֵיהֶֽם׃"
+pericope: "[[Jer.12.1 The Prosperity of the Wicked|The Prosperity of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5193]]"
+- "[[H9038]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8327]]"
+- "[[H1980L]]"
+- "[[H6213H]]"
+- "[[H6529]]"
+- "[[H7138]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7350]]"
+- "[[H9006]]"
+- "[[H3629]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:2**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou [art] near in their mouth, and far from their reins.
 <small><sub>**BSB:**</sub></small>
 You planted them, and they have taken root. They have grown and produced fruit. You are ever on their lips, but far from their hearts.
+<small><sub>**Hebrew:**</sub></small>
+[[H5193\|נְטַעְתָּ]][[H9038\|ם֙]] [[H1571\|גַּם]][[H9014\|־]] [[H8327\|שֹׁרָ֔שׁוּ]] [[H1980L\|יֵלְכ֖וּ]] [[H1571\|גַּם]][[H9014\|־]] [[H6213H\|עָ֣שׂוּ]] [[H6529\|פֶ֑רִי]] [[H7138\|קָר֤וֹב]] [[H0859A\|אַתָּה֙]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H7350\|רָח֖וֹק]] [[H9006\|מִ]][[H3629\|כִּלְיוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.1|<< Jeremiah 12:1]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.3|Jeremiah 12:3 >>]]</td></tr></table>
 

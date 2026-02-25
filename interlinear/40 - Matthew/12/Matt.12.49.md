@@ -1,10 +1,54 @@
+---
+title: Matthew 12:49
+type: Verse
+kjv: "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
+bsb: "Pointing to His disciples, He said, “Here are My mother and My brothers."
+jesus_said: "Behold my mother and my brethren!"
+greek: "καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ τοὺς μαθητὰς αὐτοῦ εἶπεν· ἰδοὺ ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου."
+pericope: "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3101]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G3384]]"
+- "[[G3165]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Matthew 12:49**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
 <small><sub>**BSB:**</sub></small>
 Pointing to His disciples, He said, “Here are My mother and My brothers.
-<small><sub>**Literal:**</sub></small>
-And having stretched out the hand of Him to the disciples of Him He said; Behold the mother of Mine and the brothers of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.48|<< Matthew 12:48]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.50|Matthew 12:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1614\|ἐκτείνας]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.48|<< Matthew 12:48]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.50|Matthew 12:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

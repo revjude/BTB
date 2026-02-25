@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 8:7
+type: Verse
+kjv: "For he knoweth not that which shall be: for who can tell him when it shall be?"
+bsb: "Since no one knows what will happen, who can tell him what is to come?"
+hebrew: "כִּֽי־ אֵינֶ֥נּוּ יֹדֵ֖עַ מַה־ שֶּׁיִּֽהְיֶ֑ה כִּ֚י כַּאֲשֶׁ֣ר יִֽהְיֶ֔ה מִ֖י יַגִּ֥יד לֽוֹ׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4310]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:7**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he knoweth not that which shall be: for who can tell him when it shall be?
 <small><sub>**BSB:**</sub></small>
 Since no one knows what will happen, who can tell him what is to come?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H3045\|יֹדֵ֖עַ]] [[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶּׁ]][[H1961\|יִּֽהְיֶ֑ה]] [[H3588A\|כִּ֚י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1961\|יִֽהְיֶ֔ה]] [[H4310\|מִ֖י]] [[H5046\|יַגִּ֥יד]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.6|<< Ecclesiastes 8:6]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.8|Ecclesiastes 8:8 >>]]</td></tr></table>
 

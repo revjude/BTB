@@ -1,6 +1,73 @@
+---
+title: LXX Isaiah 1:18
+type: Verse
+lxx: "And come, we should plead, says the lord. And if your sins should be as crimson, I shall whiten as snow; and if they should be as scarlet, I shall whiten as wool."
+greek: "και δεύτε διελεγχθώμεν λέγει κύριος και εάν ώσιν αι αμαρτίαι υμών ως φοινικούν ως χίονα λευκανώ εάν δε ώσιν ως κόκκινον ως έριον λευκανώ"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SNOW|SNOW]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1205]]"
+- "[[G6916]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G9653]]"
+- "[[G5613]]"
+- "[[G5510]]"
+- "[[G3021]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G2847]]"
+- "[[G5613]]"
+- "[[G2053]]"
+- "[[G3021]]"
+---
+
 **LXX Isaiah 1:18** 
 <small><sub>**LXX:**</sub></small>
 And come, we should plead, says \[the\] <span class="smallcaps">lord</span>. And if your sins should be as crimson, I shall whiten as snow; and if they should be as scarlet, I shall whiten as wool. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1205\|δεύτε]] [[G6916\|διελεγχθώμεν]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2532\|και]] [[G1437\|εάν]] [[G1510\|ώσιν]] [[G3588\|αι]] [[G0266\|αμαρτίαι]] [[G1473\|υμών]] [[G5613\|ως]] [[G9653\|φοινικούν]] [[G5613\|ως]] [[G5510\|χίονα]] [[G3021\|λευκανώ]] [[G1437\|εάν]] [[G1161\|δε]] [[G1510\|ώσιν]] [[G5613\|ως]] [[G2847\|κόκκινον]] [[G5613\|ως]] [[G2053\|έριον]] [[G3021\|λευκανώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PURITY|PURITY]] • [[topic REASONING|REASONING]] • [[topic REWARD|REWARD]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic SNOW|SNOW]] • [[topic WILL|WILL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.17|<< Isaiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.19|Isaiah 1:19 >>]]</td></tr></table>
 
@@ -28,6 +95,6 @@ And come, we should plead, says \[the\] <span class="smallcaps">lord</span>. And
 | as | **<big>[[G5613\|ως]]</big>** |
 | wool | **<big>[[G2053\|έριον]]</big>** |
 | I shall whiten | **<big>[[G3021\|λευκανώ]]</big>** |
-[[Isa.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.17|<< Isaiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.19|Isaiah 1:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.17|<< Isaiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.19|Isaiah 1:19 >>]]</td></tr></table>
 
 

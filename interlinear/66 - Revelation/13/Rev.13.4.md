@@ -1,10 +1,61 @@
+---
+title: Revelation 13:4
+type: Verse
+kjv: "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?"
+bsb: "They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”"
+greek: "καὶ προσεκύνησαν τῷ δράκοντι ὅτι ἔδωκεν τὴν ἐξουσίαν τῷ θηρίῳ καὶ προσεκύνησαν τῷ θηρίῳ λέγοντες· τίς ὅμοιος τῷ θηρίῳ καὶ τίς δύναται πολεμῆσαι μετ᾽ αὐτοῦ;"
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[G3588]]"
+- "[[G1404]]"
+- "[[G3754G]]"
+- "[[G1325]]"
+- "[[G1849]]"
+- "[[G2342]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3664]]"
+- "[[G1410]]"
+- "[[G4170]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- N(k)(o)
+- NK(o)
+- no
+---
+
 **Revelation 13:4**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who [is] like unto the beast? who is able to make war with him?
 <small><sub>**BSB:**</sub></small>
 They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”
-<small><sub>**Literal:**</sub></small>
-And they worshiped the dragon that gave <the> authority to the beast and they worshiped the beast saying; Who [is] like as the beast And who is able to make war against it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.3|<< Revelation 13:3]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.5|Revelation 13:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G3588\|τῷ]]  [[G1404\|δράκοντι]]  [[G3754G\|ὅτι]]  [[G1325\|ἔδωκεν]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3588\|τῷ]]  [[G2342\|θηρίῳ]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G3588\|τῷ]]  [[G2342\|θηρίῳ]]  [[G3004G\|λέγοντες·]]  [[G5101\|τίς]]  [[G3664\|ὅμοιος]]  [[G3588\|τῷ]]  [[G2342\|θηρίῳ]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G1410\|δύναται]]  [[G4170\|πολεμῆσαι]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.3|<< Revelation 13:3]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.5|Revelation 13:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

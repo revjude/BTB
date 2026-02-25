@@ -1,8 +1,60 @@
+---
+title: Judges 13:2
+type: Verse
+kjv: "And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not."
+bsb: "Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children."
+hebrew: "וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic ZORAH|ZORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H6881]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H1839]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4495]]"
+- "[[H0802H]]"
+- "[[H6135]]"
+- "[[H3808]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:2**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a certain man of Zorah, of the family of the Danites, whose name [was] Manoah; and his wife [was] barren, and bare not.
 <small><sub>**BSB:**</sub></small>
 Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H0376G\|אִ֨ישׁ]] [[H0259\|אֶחָ֧ד]] [[H9006\|מִ]][[H6881\|צָּרְעָ֛ה]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּ֥חַת]] [[H9009\|הַ]][[H1839\|דָּנִ֖י]] [[H9002\|וּ]][[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H4495\|מָנ֑וֹחַ]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֥]][[H9023\|וֹ]] [[H6135\|עֲקָרָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3205\|יָלָֽדָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANOAH|MANOAH]] • [[topic SAMSON|SAMSON]] • [[topic ZORAH|ZORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.1|<< Judges 13:1]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.3|Judges 13:3 >>]]</td></tr></table>
 

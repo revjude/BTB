@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 23:22
+type: Verse
+kjv: "But if thou shalt forbear to vow, it shall be no sin in thee."
+bsb: "But if you refrain from making a vow, you will not be guilty of sin."
+hebrew: "וְכִ֥י תֶחְדַּ֖ל לִנְדֹּ֑ר לֹֽא־ יִהְיֶ֥ה בְךָ֖ חֵֽטְא׃"
+pericope: "[[Deut.23.15 Miscellaneous Laws|Miscellaneous Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H5087]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H2399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:22**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou shalt forbear to vow, it shall be no sin in thee.
 <small><sub>**BSB:**</sub></small>
 But if you refrain from making a vow, you will not be guilty of sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֥י]] [[H2308\|תֶחְדַּ֖ל]] [[H9005\|לִ]][[H5087\|נְדֹּ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|בְ]][[H9031\|ךָ֖]] [[H2399\|חֵֽטְא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.21|<< Deuteronomy 23:21]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.23|Deuteronomy 23:23 >>]]</td></tr></table>
 

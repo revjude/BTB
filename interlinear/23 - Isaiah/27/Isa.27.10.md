@@ -1,8 +1,56 @@
+---
+title: Isaiah 27:10
+type: Verse
+kjv: "Yet the defenced city shall be desolate, and the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof."
+bsb: "For the fortified city lies deserted—a homestead abandoned, a wilderness forsaken. There the calves graze, and there they lie down; they strip its branches bare."
+hebrew: "כִּ֣י עִ֤יר בְּצוּרָה֙ בָּדָ֔ד נָוֶ֕ה מְשֻׁלָּ֥ח וְנֶעֱזָ֖ב כַּמִּדְבָּ֑ר שָׁ֣ם יִרְעֶ֥ה עֵ֛גֶל וְשָׁ֥ם יִרְבָּ֖ץ וְכִלָּ֥ה סְעִפֶֽיהָ׃"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H3588A]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H0910]]"
+- "[[H5116A]]"
+- "[[H7971G]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H9004]]"
+- "[[H4057B]]"
+- "[[H8033G]]"
+- "[[H7462B]]"
+- "[[H5695]]"
+- "[[H7257]]"
+- "[[H9001]]"
+- "[[H3615H]]"
+- "[[H5585]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 27:10**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the defenced city [shall be] desolate, [and] the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
 <small><sub>**BSB:**</sub></small>
 For the fortified city lies deserted—a homestead abandoned, a wilderness forsaken. There the calves graze, and there they lie down; they strip its branches bare.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5892B\|עִ֤יר]] [[H1219\|בְּצוּרָה֙]] [[H0910\|בָּדָ֔ד]] [[H5116A\|נָוֶ֕ה]] [[H7971G\|מְשֻׁלָּ֥ח]] [[H9002\|וְ]][[H5800A\|נֶעֱזָ֖ב]] [[H9004\|כַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H8033G\|שָׁ֣ם]] [[H7462B\|יִרְעֶ֥ה]] [[H5695\|עֵ֛גֶל]] [[H9002\|וְ]][[H8033G\|שָׁ֥ם]] [[H7257\|יִרְבָּ֖ץ]] [[H9001\|וְ]][[H3615H\|כִלָּ֥ה]] [[H5585\|סְעִפֶֽי]][[H9024\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.9|<< Isaiah 27:9]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.11|Isaiah 27:11 >>]]</td></tr></table>
 

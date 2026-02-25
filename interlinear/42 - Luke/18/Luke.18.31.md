@@ -1,10 +1,62 @@
+---
+title: Luke 18:31
+type: Verse
+kjv: "Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+bsb: "Then Jesus took the Twelve aside and said to them, “Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled."
+jesus_said: "Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+greek: "Παραλαβὼν δὲ τοὺς δώδεκα εἶπεν πρὸς αὐτούς· ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ, καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου·"
+pericope: "[[Luke.18.31 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3880]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G5055]]"
+- "[[G3956]]"
+- "[[G1125]]"
+- "[[G1223]]"
+- "[[G4396]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:31**<big><big>[[Luke.18.31 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he took [unto him] the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
 <small><sub>**BSB:**</sub></small>
 Then Jesus took the Twelve aside and said to them, “Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled.
-<small><sub>**Literal:**</sub></small>
-Having taken aside then the Twelve He said to them; Behold we go up to Jerusalem, and will be accomplished all things which written through the prophets about the Son <the> of Man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.30|<< Luke 18:30]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.32|Luke 18:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3880\|Παραλαβὼν]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G2400\|ἰδοὺ]]  [[G0305\|ἀναβαίνομεν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G2532\|καὶ]]  [[G5055\|τελεσθήσεται]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1125\|γεγραμμένα]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.30|<< Luke 18:30]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.32|Luke 18:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

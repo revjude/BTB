@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 4:10
+type: Verse
+kjv: "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up."
+bsb: "For if one falls down, his companion can lift him up; but pity the one who falls without another to help him up!"
+hebrew: "כִּ֣י אִם־ יִפֹּ֔לוּ הָאֶחָ֖ד יָקִ֣ים אֶת־ חֲבֵר֑וֹ וְאִ֣יל֗וֹ הָֽאֶחָד֙ שֶׁיִּפּ֔וֹל וְאֵ֥ין שֵׁנִ֖י לַהֲקִימֽוֹ׃"
+pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic UNION|UNION]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H6965H]]"
+- "[[H0853]]"
+- "[[H2270]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0337]]"
+- "[[H9033]]"
+- "[[H9007]]"
+- "[[H0369]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:10**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if they fall, the one will lift up his fellow: but woe to him [that is] alone when he falleth; for [he hath] not another to help him up.
 <small><sub>**BSB:**</sub></small>
 For if one falls down, his companion can lift him up; but pity the one who falls without another to help him up!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H5307G\|יִפֹּ֔לוּ]] [[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H6965H\|יָקִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H2270\|חֲבֵר֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|אִ֣י]][[H0337\|ל֗]][[H9033\|וֹ]] [[H9009\|הָֽ]][[H0259\|אֶחָד֙]] [[H9007\|שֶׁ]][[H5307G\|יִּפּ֔וֹל]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H8145\|שֵׁנִ֖י]] [[H9005\|לַ]][[H6965H\|הֲקִימֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic UNION|UNION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.9|<< Ecclesiastes 4:9]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.11|Ecclesiastes 4:11 >>]]</td></tr></table>
 

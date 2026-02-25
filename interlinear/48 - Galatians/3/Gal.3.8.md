@@ -1,10 +1,62 @@
+---
+title: Galatians 3:8
+type: Verse
+kjv: "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed."
+bsb: "The Scripture foresaw that God would justify the Gentiles by faith, and foretold the gospel to Abraham: “All nations will be blessed through you.”"
+greek: "προϊδοῦσα δὲ ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ θεός, προευηγγελίσατο τῷ Ἀβραὰμ ὅτι ἐνευλογηθήσονται ἐν σοὶ πάντα τὰ ἔθνη."
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4308]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G1344]]"
+- "[[G1484]]"
+- "[[G2316]]"
+- "[[G4283]]"
+- "[[G0011]]"
+- "[[G1757]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Galatians 3:8**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, [saying], In thee shall all nations be blessed.
 <small><sub>**BSB:**</sub></small>
 The Scripture foresaw that God would justify the Gentiles by faith, and foretold the gospel to Abraham: “All nations will be blessed through you.”
-<small><sub>**Literal:**</sub></small>
-Having foreseen then the Scripture that by faith justifies the Gentiles <the> God, foretold the gospel <the> to Abraham that Will be blessed in you all the nations.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.7|<< Galatians 3:7]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.9|Galatians 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4308\|προϊδοῦσα]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G1344\|δικαιοῖ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G4283\|προευηγγελίσατο]]  [[G3588\|τῷ]]  [[G0011\|Ἀβραὰμ]]  [[G3754G\|ὅτι]]  [[G1757\|ἐνευλογηθήσονται]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.7|<< Galatians 3:7]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.9|Galatians 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 3:8** is...
 > $\quad$ referencing: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.18.18|Gen 18:18]] ☩ [[LXX.Gen.22.18|Gen 22:18]]

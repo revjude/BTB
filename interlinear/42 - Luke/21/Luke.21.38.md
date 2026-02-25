@@ -1,10 +1,52 @@
+---
+title: Luke 21:38
+type: Verse
+kjv: "And all the people came early in the morning to him in the temple, for to hear him."
+bsb: "And early in the morning all the people would come to hear Him at the temple."
+greek: "καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ.¶"
+pericope: "[[Luke.21.34 Be Watchful for the Day|Be Watchful for the Day]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3719]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Luke 21:38**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the people came early in the morning to him in the temple, for to hear him.
 <small><sub>**BSB:**</sub></small>
 And early in the morning all the people would come to hear Him at the temple.
-<small><sub>**Literal:**</sub></small>
-And all the group of people was coming early to Him in the temple to hear Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.37|<< Luke 21:37]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.1|Luke 22:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G3719\|ὤρθριζεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G0191\|ἀκούειν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.37|<< Luke 21:37]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.1|Luke 22:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

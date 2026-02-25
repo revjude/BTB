@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Execution of Rechab and Baanah
+type: Pericope
 pericope: "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 4
 book/chapter: "[[2Sam.4|2 Samuel 4]]"
-genre:
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 4
 verses:
 - "[[2Sam.4.9]]"
 - "[[2Sam.4.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Sam.4.12]]"
 ---
 
-[[2Sam.4|2 Samuel 4:9 - 2 Samuel 4:12]]
+<small>[[2Sam.4|2 Samuel 4:9-12]]</small>
 *The Execution of Rechab and Baanah*
 
 [[2Sam.4.9|9]] And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, \[As\] the LORD liveth, who hath redeemed my soul out of all adversity,

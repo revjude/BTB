@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 21:4
+type: Verse
+kjv: "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:"
+bsb: "bring the heifer to a valley with running water that has not been plowed or sown, and break its neck there by the stream."
+hebrew: "וְהוֹרִ֡דוּ זִקְנֵי֩ הָעִ֨יר הַהִ֤וא אֶת־ הָֽעֶגְלָה֙ אֶל־ נַ֣חַל אֵיתָ֔ן אֲשֶׁ֛ר לֹא־ יֵעָבֵ֥ד בּ֖וֹ וְלֹ֣א יִזָּרֵ֑עַ וְעָֽרְפוּ־ שָׁ֥ם אֶת־ הָעֶגְלָ֖ה בַּנָּֽחַל׃"
+pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INQUEST|INQUEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H2205G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5697A]]"
+- "[[H0413]]"
+- "[[H5158N]]"
+- "[[H0386]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5647I]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2232]]"
+- "[[H6202]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:4**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
 <small><sub>**BSB:**</sub></small>
 bring the heifer to a valley with running water that has not been plowed or sown, and break its neck there by the stream.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|הוֹרִ֡דוּ]] [[H2205G\|זִקְנֵי֩]] [[H9009\|הָ]][[H5892B\|עִ֨יר]] [[H9009\|הַ]][[H1931\|הִ֤וא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5697A\|עֶגְלָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5158N\|נַ֣חַל]] [[H0386\|אֵיתָ֔ן]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5647I\|יֵעָבֵ֥ד]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2232\|יִזָּרֵ֑עַ]] [[H9001\|וְ]][[H6202\|עָֽרְפוּ]][[H9014\|־]] [[H8033G\|שָׁ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5697A\|עֶגְלָ֖ה]] [[H9003\|בַּ]][[H5158N\|נָּֽחַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INQUEST|INQUEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.3|<< Deuteronomy 21:3]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.5|Deuteronomy 21:5 >>]]</td></tr></table>
 

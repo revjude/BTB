@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Washes His Disciples’ Feet
+type: Pericope
 pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: John
 chapter: 13
 book/chapter: "[[John.13|John 13]]"
-genre:
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 17
 verses:
 - "[[John.13.1]]"
 - "[[John.13.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[John.13.17]]"
 ---
 
-[[John.13|John 13:1 - John 13:17]]
+<small>[[John.13|John 13:1-17]]</small>
 *Jesus Washes His Disciples’ Feet*
 
 [[John.13.1|1]] Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.

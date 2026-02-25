@@ -1,8 +1,51 @@
+---
+title: Proverbs 29:5
+type: Verse
+kjv: "A man that flattereth his neighbour spreadeth a net for his feet."
+bsb: "A man who flatters his neighbor spreads a net for his feet."
+hebrew: "גֶּ֭בֶר מַחֲלִ֣יק עַל־ רֵעֵ֑הוּ רֶ֝֗שֶׁת פּוֹרֵ֥שׂ עַל־ פְּעָמָֽיו׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic NET|NET]]"
+strongs:
+- "[[H1397]]"
+- "[[H2505B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H7568]]"
+- "[[H6566]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:5**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man that flattereth his neighbour spreadeth a net for his feet.
 <small><sub>**BSB:**</sub></small>
 A man who flatters his neighbor spreads a net for his feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H1397\|גֶּ֭בֶר]] [[H2505B\|מַחֲלִ֣יק]] [[H5921A\|עַל]][[H9014\|־]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H7568\|רֶ֝֗שֶׁת]] [[H6566\|פּוֹרֵ֥שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H6471\|פְּעָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.4|<< Proverbs 29:4]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.6|Proverbs 29:6 >>]]</td></tr></table>
 

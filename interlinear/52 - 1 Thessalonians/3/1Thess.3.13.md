@@ -1,10 +1,74 @@
+---
+title: 1 Thessalonians 3:13
+type: Verse
+kjv: "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
+bsb: "so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen."
+greek: "εἰς τὸ στηρίξαι ὑμῶν τὰς καρδίας ἀμέμπτους ἐν ἁγιωσύνῃ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ πάντων τῶν ἁγίων αὐτοῦ ἀμήν.¶"
+pericope: "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+strongs:
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4741]]"
+- "[[G4771]]"
+- "[[G2588]]"
+- "[[G0273]]"
+- "[[G1722]]"
+- "[[G0042]]"
+- "[[G1715]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3952]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G0040H]]"
+- "[[G0846]]"
+- "[[G0281]]"
+texts:
+- NKO
+- K
+- N
+---
+
 **1 Thessalonians 3:13**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
 <small><sub>**BSB:**</sub></small>
 so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.
-<small><sub>**Literal:**</sub></small>
-in order <the> to strengthen your <the> hearts blameless in holiness before the God and Father of us at the coming of the Lord of us Jesus Christ with all the saints of Him Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.12|<< 1 Thessalonians 3:12]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.1|1 Thessalonians 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4741\|στηρίξαι]]  [[G4771\|ὑμῶν]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G0273\|ἀμέμπτους]]  [[G1722\|ἐν]]  [[G0042\|ἁγιωσύνῃ]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G0846\|αὐτοῦ]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERFECTION|PERFECTION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SINLESSNESS|SINLESSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.12|<< 1 Thessalonians 3:12]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.1|1 Thessalonians 4:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Thessalonians 3:13** is...
 > $\quad$ referencing: [[LXX.Zech.14.5|Zech 14:5]]

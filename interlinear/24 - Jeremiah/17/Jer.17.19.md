@@ -1,8 +1,67 @@
+---
+title: Jeremiah 17:19
+type: Verse
+kjv: "Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;"
+bsb: "This is what the LORD said to me: “Go and stand at the gate of the people, through which the kings of Judah go in and out; and stand at all the other gates of Jerusalem."
+hebrew: "כֹּה־ אָמַ֨ר יְהוָ֜ה אֵלַ֗י הָלֹ֤ךְ וְעָֽמַדְתָּ֙ בְּשַׁ֣עַר בְּנֵֽי־ הָעָ֔ם אֲשֶׁ֨ר יָבֹ֤אוּ בוֹ֙ מַלְכֵ֣י יְהוּדָ֔ה וַאֲשֶׁ֖ר יֵ֣צְאוּ ב֑וֹ וּבְכֹ֖ל שַׁעֲרֵ֥י יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GATES|GATES]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1121G]]"
+- "[[H5971H]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3318G]]"
+- "[[H3605]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:19**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD said to me: “Go and stand at the gate of the people, through which the kings of Judah go in and out; and stand at all the other gates of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1980G\|הָלֹ֤ךְ]] [[H9001\|וְ]][[H5975G\|עָֽמַדְתָּ֙]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H9009\|הָ]][[H5971H\|עָ֔ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H0935G\|יָבֹ֤אוּ]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֖ר]] [[H3318G\|יֵ֣צְאוּ]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H8179G\|שַׁעֲרֵ֥י]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.18|<< Jeremiah 17:18]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.20|Jeremiah 17:20 >>]]</td></tr></table>
 

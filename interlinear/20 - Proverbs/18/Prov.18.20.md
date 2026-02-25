@@ -1,8 +1,52 @@
+---
+title: Proverbs 18:20
+type: Verse
+kjv: "A man’s belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled."
+bsb: "From the fruit of his mouth a man’s belly is filled; with the harvest from his lips he is satisfied."
+hebrew: "מִפְּרִ֣י פִי־ אִ֭ישׁ תִּשְׂבַּ֣ע בִּטְנ֑וֹ תְּבוּאַ֖ת שְׂפָתָ֣יו יִשְׂבָּֽע׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H7646]]"
+- "[[H0990G]]"
+- "[[H9023]]"
+- "[[H8393]]"
+- "[[H8193G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:20**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man’s belly shall be satisfied with the fruit of his mouth; [and] with the increase of his lips shall he be filled.
 <small><sub>**BSB:**</sub></small>
 From the fruit of his mouth a man’s belly is filled; with the harvest from his lips he is satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H6310G\|פִי]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H7646\|תִּשְׂבַּ֣ע]] [[H0990G\|בִּטְנ֑]][[H9023\|וֹ]] [[H8393\|תְּבוּאַ֖ת]] [[H8193G\|שְׂפָתָ֣י]][[H9023\|ו]] [[H7646\|יִשְׂבָּֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.19|<< Proverbs 18:19]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.21|Proverbs 18:21 >>]]</td></tr></table>
 

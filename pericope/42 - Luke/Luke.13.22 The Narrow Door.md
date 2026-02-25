@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Narrow Door
+type: Pericope
 pericope: "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 13
 book/chapter: "[[Luke.13|Luke 13]]"
-genre:
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.13.22]]"
 - "[[Luke.13.23]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.13.30]]"
 ---
 
-[[Luke.13|Luke 13:22 - Luke 13:30]]
+<small>[[Luke.13|Luke 13:22-30]]</small>
 *The Narrow Door*
 
 [[Luke.13.22|22]] And he went through the cities and villages, teaching, and journeying toward Jerusalem.

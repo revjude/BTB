@@ -1,10 +1,49 @@
+---
+title: John 7:47
+type: Verse
+kjv: "Then answered them the Pharisees, Are ye also deceived?"
+bsb: "“Have you also been deceived?” replied the Pharisees."
+greek: "ἀπεκρίθησαν οὖν αὐτοῖς οἱ Φαρισαῖοι· μὴ καὶ ὑμεῖς πεπλάνησθε;"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G4105]]"
+texts:
+- NKO
+---
+
 **John 7:47**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered them the Pharisees, Are ye also deceived?
 <small><sub>**BSB:**</sub></small>
 “Have you also been deceived?” replied the Pharisees.
-<small><sub>**Literal:**</sub></small>
-Answered therefore them the Pharisees; Surely not also you yourselves have been deceived?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.46|<< John 7:46]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.48|John 7:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι·]]  [[G3361\|μὴ]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4105\|πεπλάνησθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.46|<< John 7:46]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.48|John 7:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

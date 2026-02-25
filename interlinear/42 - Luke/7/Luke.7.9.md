@@ -1,10 +1,71 @@
+---
+title: Luke 7:9
+type: Verse
+kjv: "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+bsb: "When Jesus heard this, He marveled at the centurion. Turning to the crowd following Him, He said, “I tell you, not even in Israel have I found such great faith.”"
+jesus_said: "I say unto you, I have not found so great faith, no, not in Israel."
+greek: "ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς ἐθαύμασεν αὐτόν· καὶ στραφεὶς τῷ ἀκολουθοῦντι αὐτῷ ὄχλῳ εἶπεν· λέγω ὑμῖν, οὐδὲ ἐν τῷ Ἰσραὴλ τοσαύτην πίστιν εὗρον."
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2296]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4762]]"
+- "[[G0190]]"
+- "[[G3793]]"
+- "[[G2036]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3761]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G5118]]"
+- "[[G4102G]]"
+- "[[G2147]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 7:9**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He marveled at the centurion. Turning to the crowd following Him, He said, “I tell you, not even in Israel have I found such great faith.”
-<small><sub>**Literal:**</sub></small>
-Having heard then these things <the> Jesus marveled at him; and having turned to the following Him crowd He said; I say to you, not even in <the> Israel such great faith did I find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.8|<< Luke 7:8]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.10|Luke 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσας]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2296\|ἐθαύμασεν]]  [[G0846\|αὐτόν·]]  [[G2532\|καὶ]]  [[G4762\|στραφεὶς]]  [[G3588\|τῷ]]  [[G0190\|ἀκολουθοῦντι]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλῳ]]  [[G2036\|εἶπεν·]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν,]]  [[G3761\|οὐδὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραὴλ]]  [[G5118\|τοσαύτην]]  [[G4102G\|πίστιν]]  [[G2147\|εὗρον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.8|<< Luke 7:8]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.10|Luke 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

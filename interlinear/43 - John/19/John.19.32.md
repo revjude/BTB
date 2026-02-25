@@ -1,10 +1,53 @@
+---
+title: John 19:32
+type: Verse
+kjv: "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him."
+bsb: "So the soldiers came and broke the legs of the first man who had been crucified with Jesus, and those of the other."
+greek: "ἦλθον οὖν οἱ στρατιῶται καὶ τοῦ μὲν πρώτου κατέαξαν τὰ σκέλη καὶ τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ."
+pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEGS|LEGS]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G2532]]"
+- "[[G3303]]"
+- "[[G4413G]]"
+- "[[G2608]]"
+- "[[G4628]]"
+- "[[G0243]]"
+- "[[G4957]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 19:32**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.
 <small><sub>**BSB:**</sub></small>
 So the soldiers came and broke the legs of the first man who had been crucified with Jesus, and those of the other.
-<small><sub>**Literal:**</sub></small>
-Came therefore the soldiers and of the indeed first broke the legs and of the other which having been crucified with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.31|<< John 19:31]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.33|John 19:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G4757\|στρατιῶται]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3303\|μὲν]]  [[G4413G\|πρώτου]]  [[G2608\|κατέαξαν]]  [[G3588\|τὰ]]  [[G4628\|σκέλη]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G0243\|ἄλλου]]  [[G3588\|τοῦ]]  [[G4957\|συσταυρωθέντος]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEGS|LEGS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.31|<< John 19:31]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.33|John 19:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

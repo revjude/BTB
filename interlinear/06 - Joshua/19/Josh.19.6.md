@@ -1,8 +1,53 @@
+---
+title: Joshua 19:6
+type: Verse
+kjv: "And Bethlebaoth, and Sharuhen; thirteen cities and their villages:"
+bsb: "Beth-lebaoth, and Sharuhen—thirteen cities, along with their villages."
+hebrew: "וּבֵ֥ית לְבָא֖וֹת וְשָֽׁרוּחֶ֑ן עָרִ֥ים שְׁלֹשׁ־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.19.1 Simeon’s Inheritance|Simeon’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMAM|AMAM]]"
+- "[[topic BETH-LEBAOTH|BETH-LEBAOTH]]"
+- "[[topic SHARUHEN|SHARUHEN]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1034]]"
+- "[[H8287]]"
+- "[[H5892B]]"
+- "[[H7969]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:6**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bethlebaoth, and Sharuhen; thirteen cities and their villages:
 <small><sub>**BSB:**</sub></small>
 Beth-lebaoth, and Sharuhen—thirteen cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1034\|בֵ֥ית]] [[H1034\|לְבָא֖וֹת]] [[H9002\|וְ]][[H8287\|שָֽׁרוּחֶ֑ן]] [[H5892B\|עָרִ֥ים]] [[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAM|AMAM]] • [[topic BETH-LEBAOTH|BETH-LEBAOTH]] • [[topic SHARUHEN|SHARUHEN]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.5|<< Joshua 19:5]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.7|Joshua 19:7 >>]]</td></tr></table>
 

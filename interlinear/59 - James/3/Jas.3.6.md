@@ -1,10 +1,61 @@
+---
+title: James 3:6
+type: Verse
+kjv: "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell."
+bsb: "The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell."
+greek: "καὶ ἡ γλῶσσα πῦρ, ὁ κόσμος τῆς ἀδικίας οὕτως, ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης.¶"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic HELL|HELL]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1100]]"
+- "[[G4442]]"
+- "[[G2889]]"
+- "[[G0093]]"
+- "[[G3779]]"
+- "[[G2525]]"
+- "[[G1722]]"
+- "[[G3196]]"
+- "[[G3165]]"
+- "[[G4695]]"
+- "[[G3650]]"
+- "[[G4983]]"
+- "[[G5394]]"
+- "[[G5164]]"
+- "[[G1078]]"
+- "[[G5259G]]"
+- "[[G1067]]"
+texts:
+- NKO
+- k
+---
+
 **James 3:6**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the tongue [is] a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.
 <small><sub>**BSB:**</sub></small>
 The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell.
-<small><sub>**Literal:**</sub></small>
-Also the tongue [is] a fire, the world <the> of iniquity thus The tongue is set among the members of us which is defiling all the body and setting on fire the course <the> of nature and [itself] being set on fire by <the> hell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.5|<< James 3:5]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.7|James 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1100\|γλῶσσα]]  [[G4442\|πῦρ,]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3588\|τῆς]]  [[G0093\|ἀδικίας]]  [[G3779\|οὕτως,]]  [[G3588\|ἡ]]  [[G1100\|γλῶσσα]]  [[G2525\|καθίσταται]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3196\|μέλεσιν]]  [[G3165\|ἡμῶν]]  [[G3588\|ἡ]]  [[G4695\|σπιλοῦσα]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G2532\|καὶ]]  [[G5394\|φλογίζουσα]]  [[G3588\|τὸν]]  [[G5164\|τροχὸν]]  [[G3588\|τῆς]]  [[G1078\|γενέσεως]]  [[G2532\|καὶ]]  [[G5394\|φλογιζομένη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G1067\|γεέννης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELL|HELL]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.5|<< James 3:5]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.7|James 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

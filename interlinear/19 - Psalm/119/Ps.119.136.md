@@ -1,8 +1,55 @@
+---
+title: Psalm 119:136
+type: Verse
+kjv: "Rivers of waters run down mine eyes, because they keep not thy law."
+bsb: "My eyes shed streams of tears because Your law is not obeyed."
+hebrew: "פַּלְגֵי־ מַ֭יִם יָרְד֣וּ עֵינָ֑י עַ֝֗ל לֹא־ שָׁמְר֥וּ תוֹרָתֶֽךָ׃"
+pericope: "[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|Your Word Is a Lamp to My Feet - PE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic RIVER|RIVER]]"
+strongs:
+- "[[H6388]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3381]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:136**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rivers of waters run down mine eyes, because they keep not thy law.
 <small><sub>**BSB:**</sub></small>
 My eyes shed streams of tears because Your law is not obeyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H6388\|פַּלְגֵי]][[H9014\|־]] [[H4325G\|מַ֭יִם]] [[H3381\|יָרְד֣וּ]] [[H5869A\|עֵינָ֑]][[H9020\|י]] [[H5921A\|עַ֝֗ל]] [[H3808\|לֹא]][[H9014\|־]] [[H8104G\|שָׁמְר֥וּ]] [[H8451\|תוֹרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIVER|RIVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.136|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.135|<< Psalms 119:135]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.137|Psalms 119:137 >>]]</td></tr></table>
 

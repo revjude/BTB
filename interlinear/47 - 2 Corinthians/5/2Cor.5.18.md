@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 5:18
+type: Verse
+kjv: "And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;"
+bsb: "All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation:"
+greek: "τὰ δὲ πάντα ἐκ τοῦ θεοῦ τοῦ καταλλάξαντος ἡμᾶς ἑαυτῷ διὰ Ἰησοῦ Χριστοῦ καὶ δόντος ἡμῖν τὴν διακονίαν τῆς καταλλαγῆς,"
+pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPITIATION|PROPITIATION]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G2644]]"
+- "[[G3165]]"
+- "[[G1438]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1248]]"
+- "[[G2643]]"
+texts:
+- NKO
+- K
+---
+
 **2 Corinthians 5:18**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all things [are] of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;
 <small><sub>**BSB:**</sub></small>
 All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation:
-<small><sub>**Literal:**</sub></small>
-<the> And all things [are] of <the> God the [One who] having reconciled us to Himself through Jesus Christ and having given to us the ministry <the> of reconciliation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.17|<< 2 Corinthians 5:17]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.19|2 Corinthians 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G3956\|πάντα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2644\|καταλλάξαντος]]  [[G3165\|ἡμᾶς]]  [[G1438\|ἑαυτῷ]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G1325\|δόντος]]  [[G3165\|ἡμῖν]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν]]  [[G3588\|τῆς]]  [[G2643\|καταλλαγῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPITIATION|PROPITIATION]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.17|<< 2 Corinthians 5:17]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.19|2 Corinthians 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

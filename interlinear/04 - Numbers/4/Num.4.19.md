@@ -1,8 +1,75 @@
+---
+title: Numbers 4:19
+type: Verse
+kjv: "But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:"
+bsb: "In order that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go in and assign each man his task and what he is to carry."
+hebrew: "וְזֹ֣את׀ עֲשׂ֣וּ לָהֶ֗ם וְחָיוּ֙ וְלֹ֣א יָמֻ֔תוּ בְּגִשְׁתָּ֖ם אֶת־ קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אַהֲרֹ֤ן וּבָנָיו֙ יָבֹ֔אוּ וְשָׂמ֣וּ אוֹתָ֗ם אִ֥ישׁ אִ֛ישׁ עַל־ עֲבֹדָת֖וֹ וְאֶל־ מַשָּׂאֽוֹ׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2063]]"
+- "[[H9015]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H5066G]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9009]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H7760L]]"
+- "[[H0376G]]"
+- "[[H5921A]]"
+- "[[H5656H]]"
+- "[[H0413]]"
+- "[[H4853A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:19**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:
 <small><sub>**BSB:**</sub></small>
 In order that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go in and assign each man his task and what he is to carry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2063\|זֹ֣את]][[H9015\|׀]] [[H6213A\|עֲשׂ֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H9001\|וְ]][[H2421\|חָיוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|יָמֻ֔תוּ]] [[H9003\|בְּ]][[H5066G\|גִשְׁתָּ֖]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קֹ֣דֶשׁ]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֑ים]] [[H0175\|אַהֲרֹ֤ן]] [[H9002\|וּ]][[H1121A\|בָנָי]][[H9023\|ו֙]] [[H0935G\|יָבֹ֔אוּ]] [[H9001\|וְ]][[H7760L\|שָׂמ֣וּ]] [[H0853\|אוֹתָ֗]][[H9038\|ם]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִ֛ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H5656H\|עֲבֹדָת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4853A\|מַשָּׂאֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.18|<< Numbers 4:18]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.20|Numbers 4:20 >>]]</td></tr></table>
 

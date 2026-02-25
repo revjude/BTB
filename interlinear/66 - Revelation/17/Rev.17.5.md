@@ -1,10 +1,56 @@
+---
+title: Revelation 17:5
+type: Verse
+kjv: "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
+bsb: "And on her forehead a mysterious name was written: BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH."
+greek: "καὶ ἐπὶ τὸ μέτωπον αὐτῆς ὄνομα γεγραμμένον, μυστήριον, Βαβυλὼν ἡ μεγάλη, ἡ μήτηρ τῶν πορνῶν καὶ τῶν βδελυγμάτων τῆς γῆς."
+pericope: "[[Rev.17.1 The Woman on the Beast|The Woman on the Beast]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3359]]"
+- "[[G0846]]"
+- "[[G3686]]"
+- "[[G1125]]"
+- "[[G3466]]"
+- "[[G0897]]"
+- "[[G3173]]"
+- "[[G3384]]"
+- "[[G4204]]"
+- "[[G0946]]"
+- "[[G1093G]]"
+texts:
+- NKO
+---
+
 **Revelation 17:5**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
 <small><sub>**BSB:**</sub></small>
 And on her forehead a mysterious name was written: BABYLON THE GREAT, THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.
-<small><sub>**Literal:**</sub></small>
-And upon the forehead of her a name written, a mystery: Babylon the Great, the mother of the prostitutes and of the abominations of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.4|<< Revelation 17:4]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.6|Revelation 17:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3359\|μέτωπον]]  [[G0846\|αὐτῆς]]  [[G3686\|ὄνομα]]  [[G1125\|γεγραμμένον,]]  [[G3466\|μυστήριον,]]  [[G0897\|Βαβυλὼν]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη,]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3588\|τῶν]]  [[G4204\|πορνῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0946\|βδελυγμάτων]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic IDOLATRY|IDOLATRY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.4|<< Revelation 17:4]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.6|Revelation 17:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 16:12
+type: Verse
+kjv: "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians."
+bsb: "In the thirty-ninth year of his reign, Asa became diseased in his feet, and his disease became increasingly severe. Yet even in his illness he did not seek the LORD, but only the physicians."
+hebrew: "וַיֶּחֱלֶ֣א אָסָ֡א בִּשְׁנַת֩ שְׁלוֹשִׁ֨ים וָתֵ֤שַׁע לְמַלְכוּתוֹ֙ בְּרַגְלָ֔יו עַד־ לְמַ֖עְלָה חָלְי֑וֹ וְגַם־ בְּחָלְיוֹ֙ לֹא־ דָרַ֣שׁ אֶת־ יְהוָ֔ה כִּ֖י בָּרֹפְאִֽים׃"
+pericope: "[[2Chr.16.11 The Death and Burial of Asa|The Death and Burial of Asa]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOUT|GOUT]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2456]]"
+- "[[H0609G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8672]]"
+- "[[H9005]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H7272]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H2483]]"
+- "[[H1571]]"
+- "[[H3808]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H7495]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:12**<big><big>[[2Chr.16.11 The Death and Burial of Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease [was] exceeding [great]: yet in his disease he sought not to the LORD, but to the physicians.
 <small><sub>**BSB:**</sub></small>
 In the thirty-ninth year of his reign, Asa became diseased in his feet, and his disease became increasingly severe. Yet even in his illness he did not seek the LORD, but only the physicians.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2456\|יֶּחֱלֶ֣א]] [[H0609G\|אָסָ֡א]] [[H9003\|בִּ]][[H8141\|שְׁנַת֩]] [[H7970\|שְׁלוֹשִׁ֨ים]] [[H9002\|וָ]][[H8672\|תֵ֤שַׁע]] [[H9005\|לְ]][[H4438\|מַלְכוּת]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H4605\|מַ֖עְלָ]][[H9011\|ה]] [[H2483\|חָלְי֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בְּ]][[H2483\|חָלְי]][[H9023\|וֹ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H1875\|דָרַ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֖י]] [[H9003\|בָּ]][[H7495\|רֹפְאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DISEASE|DISEASE]] • [[topic GOUT|GOUT]] • [[topic PHYSICIAN|PHYSICIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.11|<< 2 Chronicles 16:11]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.13|2 Chronicles 16:13 >>]]</td></tr></table>
 

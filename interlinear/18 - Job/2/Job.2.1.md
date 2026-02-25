@@ -1,8 +1,55 @@
+---
+title: Job 2:1
+type: Verse
+kjv: "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD."
+bsb: "On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him."
+hebrew: "וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֙אוּ֙ בְּנֵ֣י הָֽאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל־ יְהוָ֑ה וַיָּב֤וֹא גַֽם־ הַשָּׂטָן֙ בְּתֹכָ֔ם לְהִתְיַצֵּ֖ב עַל־ יְהוָֽה׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H1121A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H3320]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1571]]"
+- "[[H7854]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:1**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.
 <small><sub>**BSB:**</sub></small>
 On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לְ]][[H3320\|הִתְיַצֵּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0935G\|יָּב֤וֹא]] [[H1571\|גַֽם]][[H9014\|־]] [[H9009\|הַ]][[H7854\|שָּׂטָן֙]] [[H9003\|בְּ]][[H8432\|תֹכָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H3320\|הִתְיַצֵּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.22|<< Job 1:22]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.2|Job 2:2 >>]]</td></tr></table>
 

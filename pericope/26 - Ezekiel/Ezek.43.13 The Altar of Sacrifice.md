@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Altar of Sacrifice
+type: Pericope
 pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 43
 book/chapter: "[[Ezek.43|Ezekiel 43]]"
-genre:
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 15
 verses:
 - "[[Ezek.43.13]]"
 - "[[Ezek.43.14]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ezek.43.27]]"
 ---
 
-[[Ezek.43|Ezekiel 43:13 - Ezekiel 43:27]]
+<small>[[Ezek.43|Ezekiel 43:13-27]]</small>
 *The Altar of Sacrifice*
 
 [[Ezek.43.13|13]] And these \[are\] the measures of the altar after the cubits: The cubit \[is\] a cubit and an hand breadth; even the bottom \[shall be\] a cubit, and the breadth a cubit, and the border thereof by the edge thereof round about \[shall be\] a span: and this \[shall be\] the higher place of the altar.

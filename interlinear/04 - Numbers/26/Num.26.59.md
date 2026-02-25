@@ -1,8 +1,70 @@
+---
+title: Numbers 26:59
+type: Verse
+kjv: "And the name of Amram’s wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister."
+bsb: "and Amram’s wife was named Jochebed. She was also a daughter of Levi, born to Levi in Egypt. To Amram she bore Aaron, Moses, and their sister Miriam."
+hebrew: "וְשֵׁ֣ם׀ אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֙בֶד֙ בַּת־ לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת־ אַהֲרֹן֙ וְאֶת־ מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם׃"
+pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMRAM|AMRAM]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic KOHATH|KOHATH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9015]]"
+- "[[H0802H]]"
+- "[[H6019G]]"
+- "[[H3115]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H3878]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H0175]]"
+- "[[H4872]]"
+- "[[H4813G]]"
+- "[[H0269]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:59**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of Amram’s wife [was] Jochebed, the daughter of Levi, whom [her mother] bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
 <small><sub>**BSB:**</sub></small>
 and Amram’s wife was named Jochebed. She was also a daughter of Levi, born to Levi in Egypt. To Amram she bore Aaron, Moses, and their sister Miriam.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁ֣ם]][[H9015\|׀]] [[H0802H\|אֵ֣שֶׁת]] [[H6019G\|עַמְרָ֗ם]] [[H3115\|יוֹכֶ֙בֶד֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H3878\|לֵוִ֔י]] [[H0834A\|אֲשֶׁ֨ר]] [[H3205\|יָלְדָ֥ה]] [[H0853\|אֹתָ֛]][[H9034\|הּ]] [[H9005\|לְ]][[H3878\|לֵוִ֖י]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H9005\|לְ]][[H6019G\|עַמְרָ֗ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H4813G\|מִרְיָ֥ם]] [[H0269\|אֲחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMRAM|AMRAM]] • [[topic JOCHEBED|JOCHEBED]] • [[topic KOHATH|KOHATH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.58|<< Numbers 26:58]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.60|Numbers 26:60 >>]]</td></tr></table>
 

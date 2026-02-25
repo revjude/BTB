@@ -1,10 +1,58 @@
+---
+title: James 5:5
+type: Verse
+kjv: "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter."
+bsb: "You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter."
+greek: "ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε, ἐθρέψατε τὰς καρδίας ὑμῶν ὡς ἐν ἡμέρᾳ σφαγῆς."
+pericope: "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5171]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G2532]]"
+- "[[G4684]]"
+- "[[G5142]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G5613]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G4967]]"
+texts:
+- NKO
+- K
+---
+
 **James 5:5**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.
 <small><sub>**BSB:**</sub></small>
 You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter.
-<small><sub>**Literal:**</sub></small>
-You lived in luxury upon the earth and lived in self-indulgence, You have fattened the hearts of you as in [the] day of slaughter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.4|<< James 5:4]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.6|James 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5171\|ἐτρυφήσατε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G4684\|ἐσπαταλήσατε,]]  [[G5142\|ἐθρέψατε]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G2250\|ἡμέρᾳ]]  [[G4967\|σφαγῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic EMPLOYER|EMPLOYER]] • [[topic RICHES|RICHES]] • [[topic SENSUALITY|SENSUALITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.4|<< James 5:4]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.6|James 5:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 5:5** is...
 > $\quad$ referencing: [[LXX.Jer.12.3|Jer 12:3]]

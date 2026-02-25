@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 1:12
+type: Verse
+kjv: "And it came to pass, as she continued praying before the LORD, that Eli marked her mouth."
+bsb: "As Hannah kept on praying before the LORD, Eli watched her mouth."
+hebrew: "וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת־ פִּֽיהָ׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H6419]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5941]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:12**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.
 <small><sub>**BSB:**</sub></small>
 As Hannah kept on praying before the LORD, Eli watched her mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּ֣י]] [[H7235A\|הִרְבְּתָ֔ה]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּ֖ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H5941\|עֵלִ֖י]] [[H8104G\|שֹׁמֵ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HANNAH|HANNAH]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.11|<< 1 Samuel 1:11]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.13|1 Samuel 1:13 >>]]</td></tr></table>
 

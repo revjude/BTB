@@ -1,10 +1,64 @@
+---
+title: Matthew 27:26
+type: Verse
+kjv: "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
+bsb: "So Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified."
+greek: "τότε ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν· τὸν δὲ Ἰησοῦν φραγελλώσας παρέδωκεν ἵνα σταυρωθῇ.¶"
+pericope: "[[Matt.27.24 Pilate Washes His Hands|Pilate Washes His Hands]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic VERDICT|VERDICT]]"
+strongs:
+- "[[G5119]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0912]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G5417]]"
+- "[[G3860]]"
+- "[[G2443]]"
+- "[[G4717]]"
+texts:
+- NKO
+---
+
 **Matthew 27:26**<big><big>[[Matt.27.24 Pilate Washes His Hands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then released he Barabbas unto them: and when he had scourged Jesus, he delivered [him] to be crucified.
 <small><sub>**BSB:**</sub></small>
 So Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.
-<small><sub>**Literal:**</sub></small>
-Then he released to them <the> Barabbas; <the> and Jesus having flogged He delivered up [Him] that He may be crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.25|<< Matthew 27:25]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.27|Matthew 27:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G0630G\|ἀπέλυσεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G0912\|Βαραββᾶν·]]  [[G3588\|τὸν]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦν]]  [[G5417\|φραγελλώσας]]  [[G3860\|παρέδωκεν]]  [[G2443\|ἵνα]]  [[G4717\|σταυρωθῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic COURT|COURT]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]] • [[topic SCOURGING|SCOURGING]] • [[topic VERDICT|VERDICT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.25|<< Matthew 27:25]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.27|Matthew 27:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

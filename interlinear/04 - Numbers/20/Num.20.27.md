@@ -1,8 +1,63 @@
+---
+title: Numbers 20:27
+type: Verse
+kjv: "And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation."
+bsb: "So Moses did as the LORD had commanded, and they climbed Mount Hor in the sight of the whole congregation."
+hebrew: "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַֽיַּעֲלוּ֙ אֶל־ הֹ֣ר הָהָ֔ר לְעֵינֵ֖י כָּל־ הָעֵדָֽה׃"
+pericope: "[[Num.20.22 The Death of Aaron|The Death of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic HOR|HOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2023G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:27**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation.
 <small><sub>**BSB:**</sub></small>
 So Moses did as the LORD had commanded, and they climbed Mount Hor in the sight of the whole congregation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2023G\|הֹ֣ר]] [[H9009\|הָ]][[H2022G\|הָ֔ר]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic HOR|HOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.26|<< Numbers 20:26]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.28|Numbers 20:28 >>]]</td></tr></table>
 

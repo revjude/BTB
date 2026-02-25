@@ -1,8 +1,68 @@
+---
+title: 2 Kings 2:8
+type: Verse
+kjv: "And Elijah took his mantle, and wrapped it together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground."
+bsb: "And Elijah took his cloak, rolled it up, and struck the waters, which parted to the right and to the left, so that the two of them crossed over on dry ground."
+hebrew: "וַיִּקַּח֩ אֵלִיָּ֨הוּ אֶת־ אַדַּרְתּ֤וֹ וַיִּגְלֹם֙ וַיַּכֶּ֣ה אֶת־ הַמַּ֔יִם וַיֵּחָצ֖וּ הֵ֣נָּה וָהֵ֑נָּה וַיַּעַבְר֥וּ שְׁנֵיהֶ֖ם בֶּחָרָבָֽה׃"
+pericope: "[[2Kgs.2.1 Elijah Taken Up to Heaven|Elijah Taken Up to Heaven]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic MANTLE|MANTLE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TRANSLATION|TRANSLATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0452G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0155]]"
+- "[[H9023]]"
+- "[[H1563]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H2673]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2724]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:8**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah took his mantle, and wrapped [it] together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.
 <small><sub>**BSB:**</sub></small>
 And Elijah took his cloak, rolled it up, and struck the waters, which parted to the right and to the left, so that the two of them crossed over on dry ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H0452G\|אֵלִיָּ֨הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0155\|אַדַּרְתּ֤]][[H9023\|וֹ]] [[H9001\|וַ]][[H1563\|יִּגְלֹם֙]] [[H9001\|וַ]][[H5221\|יַּכֶּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9001\|וַ]][[H2673\|יֵּחָצ֖וּ]] [[H2008\|הֵ֣נָּה]] [[H9002\|וָ]][[H2008\|הֵ֑נָּה]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֥וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֖ם]] [[H9003\|בֶּ]][[H2724\|חָרָבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic ELISHA|ELISHA]] • [[topic JORDAN|JORDAN]] • [[topic MANTLE|MANTLE]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic TRANSLATION|TRANSLATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.7|<< 2 Kings 2:7]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.9|2 Kings 2:9 >>]]</td></tr></table>
 

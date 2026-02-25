@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Betrayal of Jesus
+type: Pericope
 pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 18
 book/chapter: "[[John.18|John 18]]"
-genre:
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.18.1]]"
 - "[[John.18.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.18.14]]"
 ---
 
-[[John.18|John 18:1 - John 18:14]]
+<small>[[John.18|John 18:1-14]]</small>
 *The Betrayal of Jesus*
 
 [[John.18.1|1]] When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.

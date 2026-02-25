@@ -1,8 +1,76 @@
+---
+title: Judges 6:25
+type: Verse
+kjv: "And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that is by it:"
+bsb: "On that very night the LORD said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it."
+hebrew: "וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת־ פַּר־ הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת־ מִזְבַּ֤ח הַבַּ֙עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת־ הָאֲשֵׁרָ֥ה אֲשֶׁר־ עָלָ֖יו תִּכְרֹֽת׃"
+pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6499]]"
+- "[[H7794]]"
+- "[[H0834A]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H2040]]"
+- "[[H4196]]"
+- "[[H1168A]]"
+- "[[H0842]]"
+- "[[H5921A]]"
+- "[[H3772G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:25**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that [is] by it:
 <small><sub>**BSB:**</sub></small>
 On that very night the LORD said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֮]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|הוּא֒]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3068G\|יְהוָ֗ה]] [[H3947G\|קַ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H6499\|פַּר]][[H9014\|־]] [[H9009\|הַ]][[H7794\|שּׁוֹר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H6499\|פַ֥ר]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֑ים]] [[H9001\|וְ]][[H2040\|הָרַסְתָּ֗]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הַ]][[H1168A\|בַּ֙עַל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H3772G\|תִּכְרֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BAAL|BAAL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic JUDGE|JUDGE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.24|<< Judges 6:24]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.26|Judges 6:26 >>]]</td></tr></table>
 

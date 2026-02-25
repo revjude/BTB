@@ -1,8 +1,59 @@
+---
+title: Malachi 3:15
+type: Verse
+kjv: "And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered."
+bsb: "So now we call the arrogant blessed. Not only do evildoers prosper, they even test God and escape.’”"
+hebrew: "וְעַתָּ֕ה אֲנַ֖חְנוּ מְאַשְּׁרִ֣ים זֵדִ֑ים גַּם־ נִבְנוּ֙ עֹשֵׂ֣י רִשְׁעָ֔ה גַּ֧ם בָּחֲנ֛וּ אֱלֹהִ֖ים וַיִּמָּלֵֽטוּ׃"
+pericope: "[[Mal.3.13 The Book of Remembrance|The Book of Remembrance]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0587]]"
+- "[[H0833]]"
+- "[[H2086]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H6213J]]"
+- "[[H7564]]"
+- "[[H0974]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:15**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now we call the proud happy; yea, they that work wickedness are set up; yea, [they that] tempt God are even delivered.
 <small><sub>**BSB:**</sub></small>
 So now we call the arrogant blessed. Not only do evildoers prosper, they even test God and escape.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H0587\|אֲנַ֖חְנוּ]] [[H0833\|מְאַשְּׁרִ֣ים]] [[H2086\|זֵדִ֑ים]] [[H1571\|גַּם]][[H9014\|־]] [[H1129\|נִבְנוּ֙]] [[H6213J\|עֹשֵׂ֣י]] [[H7564\|רִשְׁעָ֔ה]] [[H1571\|גַּ֧ם]] [[H0974\|בָּחֲנ֛וּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9001\|וַ]][[H4422\|יִּמָּלֵֽטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic MALACHI|MALACHI]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 

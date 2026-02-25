@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals at Peter’s House
+type: Pericope
 pericope: "[[Luke.4.38 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 4
 book/chapter: "[[Luke.4|Luke 4]]"
-genre:
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.4.38]]"
 - "[[Luke.4.39]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.4.41]]"
 ---
 
-[[Luke.4|Luke 4:38 - Luke 4:41]]
+<small>[[Luke.4|Luke 4:38-41]]</small>
 *Jesus Heals at Peter’s House*
 
 [[Luke.4.38|38]] And he arose out of the synagogue, and entered into Simon’s house. And Simon’s wife’s mother was taken with a great fever; and they besought him for her.

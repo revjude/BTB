@@ -1,6 +1,80 @@
+---
+title: LXX Joshua 1:8
+type: Verse
+lxx: "And this book of the law shall not leave from  your mouth, and you shall meditate in it day and night, that you should perceive to do all the things written in it. Then you shall prosper  your ways, and then you shall perceive."
+greek: "και ουκ αποστήσεται η βίβλος του νόμου τούτου εκ του στόματός σου και μελετήσεις εν αυτώ ημέρας και νυκτός ίνα συνής ποιείν πάντα τα γεγραμμένα εν αυτώ τότε ευοδώσεις τας οδούς σου και τότε συνήσεις"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0868]]"
+- "[[G3588]]"
+- "[[G0976]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3191]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3571]]"
+- "[[G2443]]"
+- "[[G4920]]"
+- "[[G4160]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G5119]]"
+- "[[G2137]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G4920]]"
+---
+
 **LXX Joshua 1:8** 
 <small><sub>**LXX:**</sub></small>
 And this book of the law shall not leave from  your mouth, and you shall meditate in it day and night, that you should perceive to do all the \[things\] written in it. Then you shall prosper  your ways, and then you shall perceive. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3756\|ουκ]] [[G0868\|αποστήσεται]] [[G3588\|η]] [[G0976\|βίβλος]] [[G3588\|του]] [[G3551\|νόμου]] [[G3778\|τούτου]] [[G1537\|εκ]] [[G3588\|του]] [[G4750\|στόματός]] [[G1473\|σου]] [[G2532\|και]] [[G3191\|μελετήσεις]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G2250\|ημέρας]] [[G2532\|και]] [[G3571\|νυκτός]] [[G2443\|ίνα]] [[G4920\|συνής]] [[G4160\|ποιείν]] [[G3956\|πάντα]] [[G3588\|τα]] [[G1125\|γεγραμμένα]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G5119\|τότε]] [[G2137\|ευοδώσεις]] [[G3588\|τας]] [[G3598\|οδούς]] [[G1473\|σου]] [[G2532\|και]] [[G5119\|τότε]] [[G4920\|συνήσεις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOSHUA|JOSHUA]] • [[topic MEDITATION|MEDITATION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
@@ -39,6 +113,6 @@ And this book of the law shall not leave from  your mouth, and you shall meditat
 | and | **<big>[[G2532\|και]]</big>** |
 | then | **<big>[[G5119\|τότε]]</big>** |
 | you shall perceive. | **<big>[[G4920\|συνήσεις]]</big>** |
-[[Josh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
 

@@ -1,10 +1,64 @@
+---
+title: John 11:44
+type: Verse
+kjv: "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go."
+bsb: "The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth. “Unwrap him and let him go,” Jesus told them."
+jesus_said: "Loose him, and let him go."
+greek: "καὶ ἐξῆλθεν ὁ τεθνηκὼς δεδεμένος τοὺς πόδας καὶ τὰς χεῖρας κειρίαις, καὶ ἡ ὄψις αὐτοῦ σουδαρίῳ περιεδέδετο. λέγει αὐτοῖς ὁ Ἰησοῦς· λύσατε αὐτὸν καὶ ἄφετε αὐτὸν ὑπάγειν.¶"
+pericope: "[[John.11.38 Jesus Raises Lazarus|Jesus Raises Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G2348]]"
+- "[[G1210]]"
+- "[[G4228]]"
+- "[[G5495]]"
+- "[[G2750]]"
+- "[[G3799]]"
+- "[[G0846]]"
+- "[[G4676]]"
+- "[[G4019]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G3089]]"
+- "[[G0863I]]"
+- "[[G5217]]"
+texts:
+- k
+- NKO
+---
+
 **John 11:44**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
 <small><sub>**BSB:**</sub></small>
 The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth. “Unwrap him and let him go,” Jesus told them.
-<small><sub>**Literal:**</sub></small>
-and Came forth the [one] having died bound the feet and the hands with linen strips, and the face of him in a headcloth had bound about. Says to them <the> Jesus: do unbind him and do allow him to go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.43|<< John 11:43]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.45|John 11:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G3588\|ὁ]]  [[G2348\|τεθνηκὼς]]  [[G1210\|δεδεμένος]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2750\|κειρίαις,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3799\|ὄψις]]  [[G0846\|αὐτοῦ]]  [[G4676\|σουδαρίῳ]]  [[G4019\|περιεδέδετο.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3089\|λύσατε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0863I\|ἄφετε]]  [[G0846\|αὐτὸν]]  [[G5217\|ὑπάγειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.43|<< John 11:43]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.45|John 11:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

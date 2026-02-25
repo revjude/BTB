@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Hardships and God’s Grace
+type: Pericope
 pericope: "[[2Cor.6.1 Paul’s Hardships and God’s Grace|Paul’s Hardships and God’s Grace]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 6
 book/chapter: "[[2Cor.6|2 Corinthians 6]]"
-genre:
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 13
 verses:
 - "[[2Cor.6.1]]"
 - "[[2Cor.6.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Cor.6.13]]"
 ---
 
-[[2Cor.6|2 Corinthians 6:1 - 2 Corinthians 6:13]]
+<small>[[2Cor.6|2 Corinthians 6:1-13]]</small>
 *Paul’s Hardships and God’s Grace*
 
 [[2Cor.6.1|1]] We then, \[as\] workers together \[with him\], beseech \[you\] also that ye receive not the grace of God in vain.

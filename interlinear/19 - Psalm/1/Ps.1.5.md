@@ -1,8 +1,57 @@
+---
+title: Psalm 1:5
+type: Verse
+kjv: "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous."
+bsb: "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous."
+hebrew: "עַל־ כֵּ֤ן׀ לֹא־ יָקֻ֣מוּ רְ֭שָׁעִים בַּמִּשְׁפָּ֑ט וְ֝חַטָּאִ֗ים בַּעֲדַ֥ת צַדִּיקִֽים׃"
+pericope: "[[Ps.1.1 The Two Paths|The Two Paths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 1
+book/chapter: "[[Ps.1|Psalm 1]]"
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H6965I]]"
+- "[[H7563]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H9002]]"
+- "[[H2400]]"
+- "[[H5712]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 1:5**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
 <small><sub>**BSB:**</sub></small>
 Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֤ן]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H6965I\|יָקֻ֣מוּ]] [[H7563\|רְ֭שָׁעִים]] [[H9003\|בַּ]][[H4941G\|מִּשְׁפָּ֑ט]] [[H9002\|וְ֝]][[H2400\|חַטָּאִ֗ים]] [[H9003\|בַּ]][[H5712\|עֲדַ֥ת]] [[H6662\|צַדִּיקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.4|<< Psalms 1:4]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.6|Psalms 1:6 >>]]</td></tr></table>
 

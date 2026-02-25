@@ -5,7 +5,7 @@
 
 → Og, king of [[Josh.13.12|Jos 13:12]]
 
-→ Allotted to the two and one half tribes, which had their possession  east of the Jordan River [[Num.32.33|Nu 32:33]]; [[Deut.3.10|De 3:10]]-[[Deut.3.14|14]]; [[Josh.12.4|Jos 12:4]]-[[Josh.12.6|6]]; [[Josh.13.29|13:29]]-[[Josh.13.31|31]]; [[Josh.17.1|17:1]]
+→ Allotted to the two and one half tribes, which had their possession  east of the Jordan River [[Num.32.33|Nu 32:33]]; [[Deut.3.10|De 3:10-14]]; [[Josh.12.4|Jos 12:4-6]]; [[Josh.13.29|13:29-31]]; [[Josh.17.1|17:1]]
 
 → Invaded and taken by Hazael, king of Syria [[2Kgs.10.32|2Ki 10:32]],[[2Kgs.10.33|33]]
 

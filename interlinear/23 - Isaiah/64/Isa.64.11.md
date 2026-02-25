@@ -1,8 +1,62 @@
+---
+title: Isaiah 64:11
+type: Verse
+kjv: "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste."
+bsb: "Our holy and beautiful temple, where our fathers praised You, has been burned with fire, and all that was dear to us lies in ruins."
+hebrew: "בֵּ֧ית קָדְשֵׁ֣נוּ וְתִפְאַרְתֵּ֗נוּ אֲשֶׁ֤ר הִֽלְל֙וּךָ֙ אֲבֹתֵ֔ינוּ הָיָ֖ה לִשְׂרֵ֣פַת אֵ֑שׁ וְכָל־ מַחֲמַדֵּ֖ינוּ הָיָ֥ה לְחָרְבָּֽה׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H1004Q]]"
+- "[[H6944G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H8597]]"
+- "[[H0834A]]"
+- "[[H1984B]]"
+- "[[H9031]]"
+- "[[H0001G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8316]]"
+- "[[H0784]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4261]]"
+- "[[H2723]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:11**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.
 <small><sub>**BSB:**</sub></small>
 Our holy and beautiful temple, where our fathers praised You, has been burned with fire, and all that was dear to us lies in ruins.
+<small><sub>**Hebrew:**</sub></small>
+[[H1004Q\|בֵּ֧ית]] [[H6944G\|קָדְשֵׁ֣]][[H9025\|נוּ]] [[H9002\|וְ]][[H8597\|תִפְאַרְתֵּ֗]][[H9025\|נוּ]] [[H0834A\|אֲשֶׁ֤ר]] [[H1984B\|הִֽלְל֙וּ]][[H9031\|ךָ֙]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H1961\|הָיָ֖ה]] [[H9005\|לִ]][[H8316\|שְׂרֵ֣פַת]] [[H0784\|אֵ֑שׁ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4261\|מַחֲמַדֵּ֖י]][[H9025\|נוּ]] [[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H2723\|חָרְבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.10|<< Isaiah 64:10]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.12|Isaiah 64:12 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 32:1
+type: Verse
+kjv: "Blessed is he whose transgression is forgiven, whose sin is covered."
+bsb: "Of David. A Maskil. Blessed is he whose transgressions are forgiven, whose sins are covered."
+hebrew: "אַשְׁרֵ֥י נְֽשׂוּי־ פֶּ֗שַׁע כְּס֣וּי חֲטָאָֽה׃"
+pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0835]]"
+- "[[H5375I]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H3680]]"
+- "[[H2401]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 32:1**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is he whose] transgression [is] forgiven, [whose] sin [is] covered.
 <small><sub>**BSB:**</sub></small>
 Of David. A Maskil. Blessed is he whose transgressions are forgiven, whose sins are covered.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֥י]] [[H5375I\|נְֽשׂוּי]][[H9014\|־]] [[H6588\|פֶּ֗שַׁע]] [[H3680\|כְּס֣וּי]] [[H2401\|חֲטָאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.0|<< Psalms 32:0]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.2|Psalms 32:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,63 @@
+---
+title: 2 Kings 12:17
+type: Verse
+kjv: "Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem."
+bsb: "At that time Hazael king of Aram marched up and fought against Gath and captured it. Then he decided to attack Jerusalem."
+hebrew: "אָ֣ז יַעֲלֶ֗ה חֲזָאֵל֙ מֶ֣לֶךְ אֲרָ֔ם וַיִּלָּ֥חֶם עַל־ גַּ֖ת וַֽיִּלְכְּדָ֑הּ וַיָּ֤שֶׂם חֲזָאֵל֙ פָּנָ֔יו לַעֲל֖וֹת עַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.12.17 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic GATH|GATH]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0227A]]"
+- "[[H5927G]]"
+- "[[H2371]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1661]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:17**<big><big>[[2Kgs.12.17 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 At that time Hazael king of Aram marched up and fought against Gath and captured it. Then he decided to attack Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H5927G\|יַעֲלֶ֗ה]] [[H2371\|חֲזָאֵל֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֔ם]] [[H9001\|וַ]][[H3898A\|יִּלָּ֥חֶם]] [[H5921A\|עַל]][[H9014\|־]] [[H1661\|גַּ֖ת]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּדָ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H7760A\|יָּ֤שֶׂם]] [[H2371\|חֲזָאֵל֙]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9005\|לַ]][[H5927G\|עֲל֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic GATH|GATH]] • [[topic HAZAEL|HAZAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOASH|JOASH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.16|<< 2 Kings 12:16]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.18|2 Kings 12:18 >>]]</td></tr></table>
 

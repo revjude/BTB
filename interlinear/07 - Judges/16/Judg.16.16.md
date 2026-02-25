@@ -1,8 +1,64 @@
+---
+title: Judges 16:16
+type: Verse
+kjv: "And it came to pass, when she pressed him daily with her words, and urged him, so that his soul was vexed unto death;"
+bsb: "Finally, after she had pressed him daily with her words and pleaded until he was sick to death,"
+hebrew: "וַ֠יְהִי כִּֽי־ הֵצִ֨יקָה לּ֧וֹ בִדְבָרֶ֛יהָ כָּל־ הַיָּמִ֖ים וַתְּאַֽלֲצֵ֑הוּ וַתִּקְצַ֥ר נַפְשׁ֖וֹ לָמֽוּת׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6693]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117J]]"
+- "[[H0509]]"
+- "[[H7114A]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:16**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she pressed him daily with her words, and urged him, [so] that his soul was vexed unto death;
 <small><sub>**BSB:**</sub></small>
 Finally, after she had pressed him daily with her words and pleaded until he was sick to death,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H1961\|יְהִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6693\|הֵצִ֨יקָה]] [[H9005\|לּ֧]][[H9033\|וֹ]] [[H9003\|בִ]][[H1697G\|דְבָרֶ֛י]][[H9024\|הָ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117J\|יָּמִ֖ים]] [[H9001\|וַ]][[H0509\|תְּאַֽלֲצֵ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H7114A\|תִּקְצַ֥ר]] [[H5315G\|נַפְשׁ֖]][[H9023\|וֹ]] [[H9005\|לָ]][[H4191\|מֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.15|<< Judges 16:15]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.17|Judges 16:17 >>]]</td></tr></table>
 

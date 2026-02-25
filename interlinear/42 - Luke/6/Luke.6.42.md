@@ -1,10 +1,70 @@
+---
+title: Luke 6:42
+type: Verse
+kjv: "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye."
+bsb: "How can you say, ‘Brother, let me take the speck out of your eye,’ while you yourself fail to see the beam in your own eye? You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye."
+jesus_said: "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye."
+greek: "ἢ πῶς δύνασαι λέγειν τῷ ἀδελφῷ σου· ἀδελφέ, ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου, αὐτὸς τὴν ἐν τῷ ὀφθαλμῷ σου δοκὸν οὐ βλέπων; ὑποκριτά, ἔκβαλε πρῶτον τὴν δοκὸν ἐκ τοῦ ὀφθαλμοῦ σου, καὶ τότε διαβλέψεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου ἐκβαλεῖν."
+pericope: "[[Luke.6.37 Judging Others|Judging Others]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOTE (A SPECK)|MOTE (A SPECK)]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G2228]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G0863I]]"
+- "[[G1544]]"
+- "[[G2595]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G1385]]"
+- "[[G3756]]"
+- "[[G0991]]"
+- "[[G5273]]"
+- "[[G4413G]]"
+- "[[G1537]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G1227]]"
+texts:
+- ko
+- NKO
+---
+
 **Luke 6:42**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye.
 <small><sub>**BSB:**</sub></small>
 How can you say, ‘Brother, let me take the speck out of your eye,’ while you yourself fail to see the beam in your own eye? You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
-<small><sub>**Literal:**</sub></small>
-or How are you able to say to the brother of you; Brother, do allow [me] I may cast out the splinter that [is] in the eye of you, yourself the in the eye of you beam not seeing? Hypocrite, do cast out first the beam from the eye of you, and then you will see clearly the splinter <the> in the eye of the brother of you to cast out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.41|<< Luke 6:41]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.43|Luke 6:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G4459\|πῶς]]  [[G1410\|δύνασαι]]  [[G3004G\|λέγειν]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G4771\|σου·]]  [[G0080\|ἀδελφέ,]]  [[G0863I\|ἄφες]]  [[G1544\|ἐκβάλω]]  [[G3588\|τὸ]]  [[G2595\|κάρφος]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3788\|ὀφθαλμῷ]]  [[G4771\|σου,]]  [[G0846\|αὐτὸς]]  [[G3588\|τὴν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3788\|ὀφθαλμῷ]]  [[G4771\|σου]]  [[G1385\|δοκὸν]]  [[G3756\|οὐ]]  [[G0991\|βλέπων;]]  [[G5273\|ὑποκριτά,]]  [[G1544\|ἔκβαλε]]  [[G4413G\|πρῶτον]]  [[G3588\|τὴν]]  [[G1385\|δοκὸν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3788\|ὀφθαλμοῦ]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G1227\|διαβλέψεις]]  [[G3588\|τὸ]]  [[G2595\|κάρφος]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3788\|ὀφθαλμῷ]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ]]  [[G4771\|σου]]  [[G1544\|ἐκβαλεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOTE (A SPECK)|MOTE (A SPECK)]] • [[topic SERMON|SERMON]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.41|<< Luke 6:41]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.43|Luke 6:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

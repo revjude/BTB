@@ -1,8 +1,55 @@
+---
+title: Isaiah 33:18
+type: Verse
+kjv: "Thine heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?"
+bsb: "Your mind will ponder the former terror: “Where is he who tallies? Where is he who weighs? Where is he who counts the towers?”"
+hebrew: "לִבְּךָ֖ יֶהְגֶּ֣ה אֵימָ֑ה אַיֵּ֤ה סֹפֵר֙ אַיֵּ֣ה שֹׁקֵ֔ל אַיֵּ֖ה סֹפֵ֥ר אֶת־ הַמִּגְדָּלִֽים׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H1897]]"
+- "[[H0367]]"
+- "[[H0346]]"
+- "[[H5608A]]"
+- "[[H8254]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4026M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:18**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine heart shall meditate terror. Where [is] the scribe? where [is] the receiver? where [is] he that counted the towers?
 <small><sub>**BSB:**</sub></small>
 Your mind will ponder the former terror: “Where is he who tallies? Where is he who weighs? Where is he who counts the towers?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לִבְּ]][[H9021\|ךָ֖]] [[H1897\|יֶהְגֶּ֣ה]] [[H0367\|אֵימָ֑ה]] [[H0346\|אַיֵּ֤ה]] [[H5608A\|סֹפֵר֙]] [[H0346\|אַיֵּ֣ה]] [[H8254\|שֹׁקֵ֔ל]] [[H0346\|אַיֵּ֖ה]] [[H5608A\|סֹפֵ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4026M\|מִּגְדָּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.17|<< Isaiah 33:17]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.19|Isaiah 33:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

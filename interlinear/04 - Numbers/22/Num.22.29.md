@@ -1,8 +1,67 @@
+---
+title: Numbers 22:29
+type: Verse
+kjv: "And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee."
+bsb: "Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”"
+hebrew: "וַיֹּ֤אמֶר בִּלְעָם֙ לָֽאָת֔וֹן כִּ֥י הִתְעַלַּ֖לְתְּ בִּ֑י ל֤וּ יֶשׁ־ חֶ֙רֶב֙ בְּיָדִ֔י כִּ֥י עַתָּ֖ה הֲרַגְתִּֽיךְ׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H9005]]"
+- "[[H0860]]"
+- "[[H3588A]]"
+- "[[H5953A]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H3863]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H6258]]"
+- "[[H2026]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:29**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.
 <small><sub>**BSB:**</sub></small>
 Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1109A\|בִּלְעָם֙]] [[H9005\|לָֽ]][[H0860\|אָת֔וֹן]] [[H3588A\|כִּ֥י]] [[H5953A\|הִתְעַלַּ֖לְתְּ]] [[H9003\|בִּ֑]][[H9030\|י]] [[H3863\|ל֤וּ]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H2719\|חֶ֙רֶב֙]] [[H9003\|בְּ]][[H3027G\|יָדִ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H6258\|עַתָּ֖ה]] [[H2026\|הֲרַגְתִּֽי]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.28|<< Numbers 22:28]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.30|Numbers 22:30 >>]]</td></tr></table>
 

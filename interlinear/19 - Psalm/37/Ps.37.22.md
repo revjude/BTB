@@ -1,8 +1,53 @@
+---
+title: Psalm 37:22
+type: Verse
+kjv: "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off."
+bsb: "Surely those He blesses will inherit the land, but the cursed will be destroyed."
+hebrew: "כִּ֣י מְ֭בֹרָכָיו יִ֣ירְשׁוּ אָ֑רֶץ וּ֝מְקֻלָּלָ֗יו יִכָּרֵֽתוּ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1288]]"
+- "[[H9023]]"
+- "[[H3423G]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7043]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:22**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [such as be] blessed of him shall inherit the earth; and [they that be] cursed of him shall be cut off.
 <small><sub>**BSB:**</sub></small>
 Surely those He blesses will inherit the land, but the cursed will be destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H1288\|מְ֭בֹרָכָי]][[H9023\|ו]] [[H3423G\|יִ֣ירְשׁוּ]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וּ֝]][[H7043\|מְקֻלָּלָ֗י]][[H9023\|ו]] [[H3772I\|יִכָּרֵֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.21|<< Psalms 37:21]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.23|Psalms 37:23 >>]]</td></tr></table>
 

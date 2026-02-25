@@ -1,8 +1,63 @@
+---
+title: Isaiah 64:8
+type: Verse
+kjv: "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand."
+bsb: "But now, O LORD, You are our Father; we are the clay, and You are the potter; we are all the work of Your hand."
+hebrew: "וְעַתָּ֥ה יְהוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֙מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה יָדְךָ֖ כֻּלָּֽנוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic POTTERY|POTTERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H0859A]]"
+- "[[H0587]]"
+- "[[H9009]]"
+- "[[H2563A]]"
+- "[[H3335H]]"
+- "[[H9035]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:8**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now, O LORD, thou [art] our father; we [are] the clay, and thou our potter; and we all [are] the work of thy hand.
 <small><sub>**BSB:**</sub></small>
 But now, O LORD, You are our Father; we are the clay, and You are the potter; we are all the work of Your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0001G\|אָבִ֣י]][[H9025\|נוּ]] [[H0859A\|אָ֑תָּה]] [[H0587\|אֲנַ֤חְנוּ]] [[H9009\|הַ]][[H2563A\|חֹ֙מֶר֙]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3335H\|יֹצְרֵ֔]][[H9035\|נוּ]] [[H9002\|וּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H3605\|כֻּלָּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CLAY|CLAY]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MAN|MAN]] • [[topic POTTERY|POTTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.7|<< Isaiah 64:7]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.9|Isaiah 64:9 >>]]</td></tr></table>
 

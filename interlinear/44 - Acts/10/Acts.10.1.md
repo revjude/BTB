@@ -1,10 +1,58 @@
+---
+title: Acts 10:1
+type: Verse
+kjv: "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,"
+bsb: "At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment."
+greek: "Ἀνὴρ δέ τις ἦν ἐν Καισαρείᾳ ὀνόματι Κορνήλιος, ἑκατοντάρχης ἐκ σπείρης τῆς καλουμένης Ἰταλικῆς,"
+pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HEATHEN|HEATHEN]]"
+strongs:
+- "[[G0435G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2542H]]"
+- "[[G3686]]"
+- "[[G2883]]"
+- "[[G1543]]"
+- "[[G1537]]"
+- "[[G4686]]"
+- "[[G3588]]"
+- "[[G2564H]]"
+- "[[G2483]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 10:1**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian [band],
 <small><sub>**BSB:**</sub></small>
 At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.
-<small><sub>**Literal:**</sub></small>
-A man now certain was in Caesarea named Cornelius, [was] a centurion of [the] Cohort which is called Italian,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.43|<< Acts 9:43]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.2|Acts 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἀνὴρ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G2542H\|Καισαρείᾳ]]  [[G3686\|ὀνόματι]]  [[G2883\|Κορνήλιος,]]  [[G1543\|ἑκατοντάρχης]]  [[G1537\|ἐκ]]  [[G4686\|σπείρης]]  [[G3588\|τῆς]]  [[G2564H\|καλουμένης]]  [[G2483\|Ἰταλικῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAESAREA|CAESAREA]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAMILY|FAMILY]] • [[topic HEATHEN|HEATHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.43|<< Acts 9:43]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.2|Acts 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

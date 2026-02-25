@@ -1,8 +1,63 @@
+---
+title: Isaiah 30:8
+type: Verse
+kjv: "Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:"
+bsb: "Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever."
+hebrew: "עַתָּ֗ה בּ֣וֹא כָתְבָ֥הּ עַל־ ל֛וּחַ אִתָּ֖ם וְעַל־ סֵ֣פֶר חֻקָּ֑הּ וּתְהִי֙ לְי֣וֹם אַחֲר֔וֹן לָעַ֖ד עַד־ עוֹלָֽם׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H6258]]"
+- "[[H0935G]]"
+- "[[H3789]]"
+- "[[H9034]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3871]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5612H]]"
+- "[[H2710]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H0314]]"
+- "[[H5703]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:8**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:
 <small><sub>**BSB:**</sub></small>
 Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֗ה]] [[H0935G\|בּ֣וֹא]] [[H3789\|כָתְבָ֥]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3871\|ל֛וּחַ]] [[H0854\|אִתָּ֖]][[H9038\|ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֣פֶר]] [[H2710\|חֻקָּ֑]][[H9034\|הּ]] [[H9002\|וּ]][[H1961\|תְהִי֙]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H0314\|אַחֲר֔וֹן]] [[H9005\|לָ]][[H5703\|עַ֖ד]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.7|<< Isaiah 30:7]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.9|Isaiah 30:9 >>]]</td></tr></table>
 

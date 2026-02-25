@@ -1,10 +1,59 @@
+---
+title: Matthew 12:22
+type: Verse
+kjv: "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw."
+bsb: "Then a demon-possessed man who was blind and mute was brought to Jesus, and He healed the man so that he could speak and see."
+greek: "Τότε προσηνέχθη αὐτῷ δαιμονιζόμενος τυφλὸς καὶ κωφός, καὶ ἐθεράπευσεν αὐτὸν ὥστε τὸν τυφλὸν καὶ κωφὸν καὶ λαλεῖν καὶ βλέπειν."
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G5119]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G1139]]"
+- "[[G5185]]"
+- "[[G2532]]"
+- "[[G2974]]"
+- "[[G2323]]"
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G0991]]"
+texts:
+- NKO
+- NK(O)
+- k
+---
+
 **Matthew 12:22**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.
 <small><sub>**BSB:**</sub></small>
 Then a demon-possessed man who was blind and mute was brought to Jesus, and He healed the man so that he could speak and see.
-<small><sub>**Literal:**</sub></small>
-Then was brought to Him [one] being demonised blind and mute, and He healed him in order for the blind and mute [man] and to speak and to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.21|<< Matthew 12:21]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.23|Matthew 12:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4374\|προσηνέχθη]]  [[G0846\|αὐτῷ]]  [[G1139\|δαιμονιζόμενος]]  [[G5185\|τυφλὸς]]  [[G2532\|καὶ]]  [[G2974\|κωφός,]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G0846\|αὐτὸν]]  [[G5620\|ὥστε]]  [[G3588\|τὸν]]  [[G5185\|τυφλὸν]]  [[G2532\|καὶ]]  [[G2974\|κωφὸν]]  [[G2532\|καὶ]]  [[G2980\|λαλεῖν]]  [[G2532\|καὶ]]  [[G0991\|βλέπειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEMONS|DEMONS]] • [[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.21|<< Matthew 12:21]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.23|Matthew 12:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

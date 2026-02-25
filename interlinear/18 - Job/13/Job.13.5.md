@@ -1,8 +1,54 @@
+---
+title: Job 13:5
+type: Verse
+kjv: "O that ye would altogether hold your peace! and it should be your wisdom."
+bsb: "If only you would remain silent; for that would be your wisdom!"
+hebrew: "מִֽי־ יִ֭תֵּן הַחֲרֵ֣שׁ תַּחֲרִישׁ֑וּן וּתְהִ֖י לָכֶ֣ם לְחָכְמָֽה׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H2790B]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:5**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that ye would altogether hold your peace! and it should be your wisdom.
 <small><sub>**BSB:**</sub></small>
 If only you would remain silent; for that would be your wisdom!
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414G\|יִ֭תֵּן]] [[H2790B\|הַחֲרֵ֣שׁ]] [[H2790B\|תַּחֲרִישׁ֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H1961\|תְהִ֖י]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H9005\|לְ]][[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic PRIDE|PRIDE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.4|<< Job 13:4]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.6|Job 13:6 >>]]</td></tr></table>
 

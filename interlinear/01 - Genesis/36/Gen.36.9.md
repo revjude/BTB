@@ -1,8 +1,54 @@
+---
+title: Genesis 36:9
+type: Verse
+kjv: "And these are the generations of Esau the father of the Edomites in mount Seir:"
+bsb: "This is the account of Esau, the father of the Edomites, in the area of Mount Seir."
+hebrew: "וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו אֲבִ֣י אֱד֑וֹם בְּהַ֖ר שֵׂעִֽיר׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H6215G]]"
+- "[[H0001G]]"
+- "[[H0123G]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H8165A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:9**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the generations of Esau the father of the Edomites in mount Seir:
 <small><sub>**BSB:**</sub></small>
 This is the account of Esau, the father of the Edomites, in the area of Mount Seir.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H8435\|תֹּלְד֥וֹת]] [[H6215G\|עֵשָׂ֖ו]] [[H0001G\|אֲבִ֣י]] [[H0123G\|אֱד֑וֹם]] [[H9003\|בְּ]][[H2022H\|הַ֖ר]] [[H8165A\|שֵׂעִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.8|<< Genesis 36:8]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.10|Genesis 36:10 >>]]</td></tr></table>
 

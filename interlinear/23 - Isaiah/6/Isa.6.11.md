@@ -1,8 +1,62 @@
+---
+title: Isaiah 6:11
+type: Verse
+kjv: "Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,"
+bsb: "Then I asked: “How long, O Lord?” And He replied: “Until the cities lie ruined and without inhabitant, until the houses are left unoccupied and the land is desolate and ravaged,"
+hebrew: "וָאֹמַ֕ר עַד־ מָתַ֖י אֲדֹנָ֑י וַיֹּ֡אמֶר עַ֣ד אֲשֶׁר֩ אִם־ שָׁא֨וּ עָרִ֜ים מֵאֵ֣ין יוֹשֵׁ֗ב וּבָתִּים֙ מֵאֵ֣ין אָדָ֔ם וְהָאֲדָמָ֖ה תִּשָּׁאֶ֥ה שְׁמָמָֽה׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H0136]]"
+- "[[H0834A]]"
+- "[[H0518J]]"
+- "[[H7582]]"
+- "[[H5892B]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H0120G]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H8077A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:11**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
 <small><sub>**BSB:**</sub></small>
 Then I asked: “How long, O Lord?” And He replied: “Until the cities lie ruined and without inhabitant, until the houses are left unoccupied and the land is desolate and ravaged,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֖י]] [[H0136\|אֲדֹנָ֑י]] [[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁר֩]] [[H0518J\|אִם]][[H9014\|־]] [[H7582\|שָׁא֨וּ]] [[H5892B\|עָרִ֜ים]] [[H9006\|מֵ]][[H0369\|אֵ֣ין]] [[H3427\|יוֹשֵׁ֗ב]] [[H9002\|וּ]][[H1004B\|בָתִּים֙]] [[H9006\|מֵ]][[H0369\|אֵ֣ין]] [[H0120G\|אָדָ֔ם]] [[H9002\|וְ]][[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H7582\|תִּשָּׁאֶ֥ה]] [[H8077A\|שְׁמָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.10|<< Isaiah 6:10]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.12|Isaiah 6:12 >>]]</td></tr></table>
 

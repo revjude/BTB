@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 1:3
+type: Verse
+kjv: "Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee."
+bsb: "The fragrance of your perfume is pleasing; your name is like perfume poured out. No wonder the maidens adore you."
+hebrew: "לְרֵ֙יחַ֙ שְׁמָנֶ֣יךָ טוֹבִ֔ים שֶׁ֖מֶן תּוּרַ֣ק שְׁמֶ֑ךָ עַל־ כֵּ֖ן עֲלָמ֥וֹת אֲהֵבֽוּךָ׃"
+pericope: "[[Song.1.2 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H8081]]"
+- "[[H9021]]"
+- "[[H2896A]]"
+- "[[H7324]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5959]]"
+- "[[H0157G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:3**<big><big>[[Song.1.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the savour of thy good ointments thy name [is as] ointment poured forth, therefore do the virgins love thee.
 <small><sub>**BSB:**</sub></small>
 The fragrance of your perfume is pleasing; your name is like perfume poured out. No wonder the maidens adore you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7381\|רֵ֙יחַ֙]] [[H8081\|שְׁמָנֶ֣י]][[H9021\|ךָ]] [[H2896A\|טוֹבִ֔ים]] [[H8081\|שֶׁ֖מֶן]] [[H7324\|תּוּרַ֣ק]] [[H8034\|שְׁמֶ֑]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H5959\|עֲלָמ֥וֹת]] [[H0157G\|אֲהֵבֽוּ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.2|<< Song of Solomon 1:2]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.4|Song of Solomon 1:4 >>]]</td></tr></table>
 

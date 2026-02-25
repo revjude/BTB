@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Witnessing to All Nations
+type: Pericope
 pericope: "[[Matt.24.9 Witnessing to All Nations|Witnessing to All Nations]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.24.9]]"
 - "[[Matt.24.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.24.14]]"
 ---
 
-[[Matt.24|Matthew 24:9 - Matthew 24:14]]
+<small>[[Matt.24|Matthew 24:9-14]]</small>
 *Witnessing to All Nations*
 
 [[Matt.24.9|9]] Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.

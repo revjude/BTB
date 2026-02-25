@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Consecration of the Priests
+type: Pericope
 pericope: "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 29
 book/chapter: "[[Exod.29|Exodus 29]]"
-genre:
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.29.1]]"
 - "[[Exod.29.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.29.9]]"
 ---
 
-[[Exod.29|Exodus 29:1 - Exodus 29:9]]
+<small>[[Exod.29|Exodus 29:1-9]]</small>
 *Consecration of the Priests*
 
 [[Exod.29.1|1]] And this \[is\] the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,

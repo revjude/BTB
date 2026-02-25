@@ -1,10 +1,55 @@
+---
+title: Acts 15:33
+type: Verse
+kjv: "And after they had tarried there a space, they were let go in peace from the brethren unto the apostles."
+bsb: "After spending some time there, they were sent off by the brothers in peace to return to those who had sent them."
+greek: "ποιήσαντες δὲ χρόνον ἀπελύθησαν μετ᾽ εἰρήνης ἀπὸ τῶν ἀδελφῶν πρὸς τοὺς ἀποστείλαντας αὐτούς.¶"
+pericope: "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4160J]]"
+- "[[G1161]]"
+- "[[G5550]]"
+- "[[G0630G]]"
+- "[[G3326]]"
+- "[[G1515]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4314]]"
+- "[[G0649]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+- no
+---
+
 **Acts 15:33**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after they had tarried [there] a space, they were let go in peace from the brethren unto the apostles.
 <small><sub>**BSB:**</sub></small>
 After spending some time there, they were sent off by the brothers in peace to return to those who had sent them.
-<small><sub>**Literal:**</sub></small>
-Having continued then a time they were sent away in peace from the brothers to those having sent them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.32|<< Acts 15:32]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.34|Acts 15:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4160J\|ποιήσαντες]]  [[G1161\|δὲ]]  [[G5550\|χρόνον]]  [[G0630G\|ἀπελύθησαν]]  [[G3326\|μετ᾽]]  [[G1515\|εἰρήνης]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0649\|ἀποστείλαντας]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic SILAS|SILAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.32|<< Acts 15:32]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.34|Acts 15:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

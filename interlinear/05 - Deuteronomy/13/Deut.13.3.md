@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 13:3
+type: Verse
+kjv: "Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the LORD your God proveth you, to know whether ye love the LORD your God with all your heart and with all your soul."
+bsb: "you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul."
+hebrew: "לֹ֣א תִשְׁמַ֗ע אֶל־ דִּבְרֵי֙ הַנָּבִ֣יא הַה֔וּא א֛וֹ אֶל־ חוֹלֵ֥ם הַחֲל֖וֹם הַה֑וּא כִּ֣י מְנַסֶּ֞ה יְהוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־ יְהוָ֣ה אֱלֹהֵיכֶ֔ם בְּכָל־ לְבַבְכֶ֖ם וּבְכָל־ נַפְשְׁכֶֽם׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1931]]"
+- "[[H0176A]]"
+- "[[H2492B]]"
+- "[[H2472]]"
+- "[[H3588A]]"
+- "[[H5254G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H9046]]"
+- "[[H0157G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:3**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the LORD your God proveth you, to know whether ye love the LORD your God with all your heart and with all your soul.
 <small><sub>**BSB:**</sub></small>
 you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H8085G\|תִשְׁמַ֗ע]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H9009\|הַ]][[H5030\|נָּבִ֣יא]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H0176A\|א֛וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H2492B\|חוֹלֵ֥ם]] [[H9009\|הַ]][[H2472\|חֲל֖וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H3588A\|כִּ֣י]] [[H5254G\|מְנַסֶּ֞ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֙]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9005\|לָ]][[H3045\|דַ֗עַת]] [[H9008\|הֲ]][[H3426\|יִשְׁ]][[H9046\|כֶ֤ם]] [[H0157G\|אֹֽהֲבִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic TEACHERS|TEACHERS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.2|<< Deuteronomy 13:2]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.4|Deuteronomy 13:4 >>]]</td></tr></table>
 

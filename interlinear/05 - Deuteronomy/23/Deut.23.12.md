@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 23:12
+type: Verse
+kjv: "Thou shalt have a place also without the camp, whither thou shalt go forth abroad:"
+bsb: "You must have a place outside the camp to go and relieve yourself."
+hebrew: "וְיָד֙ תִּהְיֶ֣ה לְךָ֔ מִח֖וּץ לַֽמַּחֲנֶ֑ה וְיָצָ֥אתָ שָׁ֖מָּה חֽוּץ׃"
+pericope: "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3027M]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H4264]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:12**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have a place also without the camp, whither thou shalt go forth abroad:
 <small><sub>**BSB:**</sub></small>
 You must have a place outside the camp to go and relieve yourself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3027M\|יָד֙]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וְ]][[H3318G\|יָצָ֥אתָ]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H2351\|חֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEANLINESS|CLEANLINESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.11|<< Deuteronomy 23:11]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.13|Deuteronomy 23:13 >>]]</td></tr></table>
 

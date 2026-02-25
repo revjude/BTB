@@ -1,8 +1,50 @@
+---
+title: Proverbs 23:33
+type: Verse
+kjv: "Thine eyes shall behold strange women, and thine heart shall utter perverse things."
+bsb: "Your eyes will see strange things, and your mind will utter perversities."
+hebrew: "עֵ֭ינֶיךָ יִרְא֣וּ זָר֑וֹת וְ֝לִבְּךָ֗ יְדַבֵּ֥ר תַּהְפֻּכֽוֹת׃"
+pericope: "[[Prov.23.29 Saying 19|Saying 19]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H1696G]]"
+- "[[H8419]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:33**<big><big>[[Prov.23.29 Saying 19|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine eyes shall behold strange women, and thine heart shall utter perverse things.
 <small><sub>**BSB:**</sub></small>
 Your eyes will see strange things, and your mind will utter perversities.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עֵ֭ינֶי]][[H9021\|ךָ]] [[H7200G\|יִרְא֣וּ]] [[H2114A\|זָר֑וֹת]] [[H9002\|וְ֝]][[H3820A\|לִבְּ]][[H9021\|ךָ֗]] [[H1696G\|יְדַבֵּ֥ר]] [[H8419\|תַּהְפֻּכֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.32|<< Proverbs 23:32]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.34|Proverbs 23:34 >>]]</td></tr></table>
 

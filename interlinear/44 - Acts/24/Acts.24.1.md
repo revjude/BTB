@@ -1,10 +1,65 @@
+---
+title: Acts 24:1
+type: Verse
+kjv: "And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul."
+bsb: "Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul."
+greek: "Μετὰ δὲ πέντε ἡμέρας κατέβη ὁ ἀρχιερεὺς Ἁνανίας μετὰ τῶν πρεσβυτέρων τινῶν καὶ ῥήτορος Τερτύλλου τινός, οἵτινες ἐνεφάνισαν τῷ ἡγεμόνι κατὰ τοῦ Παύλου."
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic ATTORNEY|ATTORNEY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TERTULLUS|TERTULLUS]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G4002]]"
+- "[[G2250]]"
+- "[[G2597]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G0367I]]"
+- "[[G4245G]]"
+- "[[G5100]]"
+- "[[G2532]]"
+- "[[G4489]]"
+- "[[G5061]]"
+- "[[G3748]]"
+- "[[G1718]]"
+- "[[G2232]]"
+- "[[G2596]]"
+- "[[G3972G]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **Acts 24:1**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after five days Ananias the high priest descended with the elders, and [with] a certain orator [named] Tertullus, who informed the governor against Paul.
 <small><sub>**BSB:**</sub></small>
 Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.
-<small><sub>**Literal:**</sub></small>
-After then five days came down the high priest Ananias with of the elders some and an orator Tertullus certain, who made a representation to the governor against <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.35|<< Acts 23:35]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.2|Acts 24:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G4002\|πέντε]]  [[G2250\|ἡμέρας]]  [[G2597\|κατέβη]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G0367I\|Ἁνανίας]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G5100\|τινῶν]]  [[G2532\|καὶ]]  [[G4489\|ῥήτορος]]  [[G5061\|Τερτύλλου]]  [[G5100\|τινός,]]  [[G3748\|οἵτινες]]  [[G1718\|ἐνεφάνισαν]]  [[G3588\|τῷ]]  [[G2232\|ἡγεμόνι]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic ANANIAS|ANANIAS]] • [[topic ATTORNEY|ATTORNEY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ORATOR|ORATOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TERTULLUS|TERTULLUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.35|<< Acts 23:35]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.2|Acts 24:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

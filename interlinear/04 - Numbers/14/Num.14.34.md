@@ -1,8 +1,72 @@
+---
+title: Numbers 14:34
+type: Verse
+kjv: "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise."
+bsb: "In keeping with the forty days you spied out the land, you shall bear your guilt forty years—a year for each day—and you will experience My alienation."
+hebrew: "בְּמִסְפַּ֨ר הַיָּמִ֜ים אֲשֶׁר־ תַּרְתֶּ֣ם אֶת־ הָאָרֶץ֮ אַרְבָּעִ֣ים יוֹם֒ י֣וֹם לַשָּׁנָ֞ה י֣וֹם לַשָּׁנָ֗ה תִּשְׂאוּ֙ אֶת־ עֲוֹנֹ֣תֵיכֶ֔ם אַרְבָּעִ֖ים שָׁנָ֑ה וִֽידַעְתֶּ֖ם אֶת־ תְּנוּאָתִֽי׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FORTY|FORTY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8446]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0705]]"
+- "[[H9005]]"
+- "[[H8141]]"
+- "[[H5375J]]"
+- "[[H5771G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H8569]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:34**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After the number of the days in which ye searched the land, [even] forty days, each day for a year, shall ye bear your iniquities, [even] forty years, and ye shall know my breach of promise.
 <small><sub>**BSB:**</sub></small>
 In keeping with the forty days you spied out the land, you shall bear your guilt forty years—a year for each day—and you will experience My alienation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H4557\|מִסְפַּ֨ר]] [[H9009\|הַ]][[H3117G\|יָּמִ֜ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8446\|תַּרְתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָרֶץ֮]] [[H0705\|אַרְבָּעִ֣ים]] [[H3117G\|יוֹם֒]] [[H3117G\|י֣וֹם]] [[H9005\|לַ]][[H8141\|שָּׁנָ֞ה]] [[H3117G\|י֣וֹם]] [[H9005\|לַ]][[H8141\|שָּׁנָ֗ה]] [[H5375J\|תִּשְׂאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8569\|תְּנוּאָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORTY|FORTY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.33|<< Numbers 14:33]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.35|Numbers 14:35 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 27:11
+type: Verse
+kjv: "I will teach you by the hand of God: that which is with the Almighty will I not conceal."
+bsb: "I will instruct you in the power of God. I will not conceal the ways of the Almighty."
+hebrew: "אוֹרֶ֣ה אֶתְכֶ֣ם בְּיַד־ אֵ֑ל אֲשֶׁ֥ר עִם־ שַׁ֝דַּ֗י לֹ֣א אֲכַחֵֽד׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3384B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H7706]]"
+- "[[H3808]]"
+- "[[H3582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:11**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will teach you by the hand of God: [that] which [is] with the Almighty will I not conceal.
 <small><sub>**BSB:**</sub></small>
 I will instruct you in the power of God. I will not conceal the ways of the Almighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H3384B\|אוֹרֶ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֣ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5973A\|עִם]][[H9014\|־]] [[H7706\|שַׁ֝דַּ֗י]] [[H3808\|לֹ֣א]] [[H3582\|אֲכַחֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.10|<< Job 27:10]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.12|Job 27:12 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 113:5
+type: Verse
+kjv: "Who is like unto the LORD our God, who dwelleth on high,"
+bsb: "Who is like the LORD our God, the One enthroned on high?"
+hebrew: "מִ֭י כַּיהוָ֣ה אֱלֹהֵ֑ינוּ הַֽמַּגְבִּיהִ֥י לָשָֽׁבֶת׃"
+pericope: "[[Ps.113.1 The LORD Exalts the Humble|The LORD Exalts the Humble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 113
+book/chapter: "[[Ps.113|Psalm 113]]"
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H4310]]"
+- "[[H9004]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H1361]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 113:5**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] like unto the LORD our God, who dwelleth on high,
 <small><sub>**BSB:**</sub></small>
 Who is like the LORD our God, the One enthroned on high?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֭י]] [[H9004\|כַּ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9009\|הַֽ]][[H1361\|מַּגְבִּיהִ֥י]] [[H9005\|לָ]][[H3427\|שָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.4|<< Psalms 113:4]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.6|Psalms 113:6 >>]]</td></tr></table>
 

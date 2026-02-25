@@ -1,8 +1,78 @@
+---
+title: Judges 4:14
+type: Verse
+kjv: "And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him."
+bsb: "Then Deborah said to Barak, “Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?” So Barak came down from Mount Tabor with ten thousand men following him."
+hebrew: "וַתֹּאמֶר֩ דְּבֹרָ֨ה אֶל־ בָּרָ֜ק ק֗וּם כִּ֣י זֶ֤ה הַיּוֹם֙ אֲשֶׁר֩ נָתַ֨ן יְהוָ֤ה אֶת־ סִֽיסְרָא֙ בְּיָדֶ֔ךָ הֲלֹ֥א יְהוָ֖ה יָצָ֣א לְפָנֶ֑יךָ וַיֵּ֤רֶד בָּרָק֙ מֵהַ֣ר תָּב֔וֹר וַעֲשֶׂ֧רֶת אֲלָפִ֛ים אִ֖ישׁ אַחֲרָֽיו׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic TABOR|TABOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1683H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1301]]"
+- "[[H6965B]]"
+- "[[H3588A]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5516G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H2022G]]"
+- "[[H8396G]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:14**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Deborah said unto Barak, Up; for this [is] the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.
 <small><sub>**BSB:**</sub></small>
 Then Deborah said to Barak, “Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?” So Barak came down from Mount Tabor with ten thousand men following him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמֶר֩]] [[H1683H\|דְּבֹרָ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1301\|בָּרָ֜ק]] [[H6965B\|ק֗וּם]] [[H3588A\|כִּ֣י]] [[H2088\|זֶ֤ה]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H0834A\|אֲשֶׁר֩]] [[H5414G\|נָתַ֨ן]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5516G\|סִֽיסְרָא֙]] [[H9003\|בְּ]][[H3027H\|יָדֶ֔]][[H9021\|ךָ]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H3068G\|יְהוָ֖ה]] [[H3318G\|יָצָ֣א]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H3381\|יֵּ֤רֶד]] [[H1301\|בָּרָק֙]] [[H9006\|מֵ]][[H2022G\|הַ֣ר]] [[H8396G\|תָּב֔וֹר]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֧רֶת]] [[H0505G\|אֲלָפִ֛ים]] [[H0376G\|אִ֖ישׁ]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic TABOR|TABOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.13|<< Judges 4:13]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.15|Judges 4:15 >>]]</td></tr></table>
 

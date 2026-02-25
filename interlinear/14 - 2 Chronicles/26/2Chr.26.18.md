@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 26:18
+type: Verse
+kjv: "And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God."
+bsb: "They took their stand against King Uzziah and said, “Uzziah, you have no right to offer incense to the LORD. Only the priests, the descendants of Aaron, are consecrated to burn incense. Leave the sanctuary, for you have acted unfaithfully; you will not receive honor from the LORD God.”"
+hebrew: "וַיַּעַמְד֞וּ עַל־ עֻזִּיָּ֣הוּ הַמֶּ֗לֶךְ וַיֹּ֤אמְרוּ לוֹ֙ לֹא־ לְךָ֣ עֻזִּיָּ֗הוּ לְהַקְטִיר֙ לַֽיהוָ֔ה כִּ֣י לַכֹּהֲנִ֧ים בְּנֵי־ אַהֲרֹ֛ן הַמְקֻדָּשִׁ֖ים לְהַקְטִ֑יר צֵ֤א מִן־ הַמִּקְדָּשׁ֙ כִּ֣י מָעַ֔לְתָּ וְלֹֽא־ לְךָ֥ לְכָב֖וֹד מֵיְהוָ֥ה אֱלֹהִֽים׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5818G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9031]]"
+- "[[H6999A]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3548]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H6942G]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H4720]]"
+- "[[H4603]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H9006]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:18**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they withstood Uzziah the king, and said unto him, [It appertaineth] not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither [shall it be] for thine honour from the LORD God.
 <small><sub>**BSB:**</sub></small>
 They took their stand against King Uzziah and said, “Uzziah, you have no right to offer incense to the LORD. Only the priests, the descendants of Aaron, are consecrated to burn incense. Leave the sanctuary, for you have acted unfaithfully; you will not receive honor from the LORD God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעַמְד֞וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5818G\|עֻזִּיָּ֣הוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H5818G\|עֻזִּיָּ֗הוּ]] [[H9005\|לְ]][[H6999A\|הַקְטִיר֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H3588A\|כִּ֣י]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֧ים]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H0175\|אַהֲרֹ֛ן]] [[H9009\|הַ]][[H6942G\|מְקֻדָּשִׁ֖ים]] [[H9005\|לְ]][[H6999A\|הַקְטִ֑יר]] [[H3318G\|צֵ֤א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4720\|מִּקְדָּשׁ֙]] [[H3588A\|כִּ֣י]] [[H4603\|מָעַ֔לְתָּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H9005\|לְ]][[H3519\|כָב֖וֹד]] [[H9006\|מֵ]][[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CHURCH|CHURCH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DISEASE|DISEASE]] • [[topic INCENSE|INCENSE]] • [[topic PRIDE|PRIDE]] • [[topic PRIEST|PRIEST]] • [[topic REPROOF|REPROOF]] • [[topic SACRILEGE|SACRILEGE]] • [[topic USURPATION|USURPATION]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.17|<< 2 Chronicles 26:17]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.19|2 Chronicles 26:19 >>]]</td></tr></table>
 

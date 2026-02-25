@@ -1,8 +1,60 @@
+---
+title: Numbers 1:10
+type: Verse
+kjv: "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur."
+bsb: "from the sons of Joseph: from Ephraim, Elishama son of Ammihud, and from Manasseh, Gamaliel son of Pedahzur;"
+hebrew: "לִבְנֵ֣י יוֹסֵ֔ף לְאֶפְרַ֕יִם אֱלִישָׁמָ֖ע בֶּן־ עַמִּיה֑וּד לִמְנַשֶּׁ֕ה גַּמְלִיאֵ֖ל בֶּן־ פְּדָהצֽוּר׃"
+pericope: "[[Num.1.5 The Leaders of the Tribes|The Leaders of the Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMMIHUD|AMMIHUD]]"
+- "[[topic ELISHAMA|ELISHAMA]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PEDAHZUR|PEDAHZUR]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H3130G]]"
+- "[[H0669G]]"
+- "[[H0476G]]"
+- "[[H9014]]"
+- "[[H5989G]]"
+- "[[H4519G]]"
+- "[[H1583]]"
+- "[[H6301]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:10**<big><big>[[Num.1.5 The Leaders of the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.
 <small><sub>**BSB:**</sub></small>
 from the sons of Joseph: from Ephraim, Elishama son of Ammihud, and from Manasseh, Gamaliel son of Pedahzur;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H9005\|לְ]][[H0669G\|אֶפְרַ֕יִם]] [[H0476G\|אֱלִישָׁמָ֖ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5989G\|עַמִּיה֑וּד]] [[H9005\|לִ]][[H4519G\|מְנַשֶּׁ֕ה]] [[H1583\|גַּמְלִיאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6301\|פְּדָהצֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMIHUD|AMMIHUD]] • [[topic ELISHAMA|ELISHAMA]] • [[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic PEDAHZUR|PEDAHZUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.9|<< Numbers 1:9]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.11|Numbers 1:11 >>]]</td></tr></table>
 

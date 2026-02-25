@@ -1,8 +1,66 @@
+---
+title: Leviticus 5:17
+type: Verse
+kjv: "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist it not, yet is he guilty, and shall bear his iniquity."
+bsb: "If someone sins and violates any of the LORD’s commandments even though he was unaware, he is guilty and shall bear his punishment."
+hebrew: "וְאִם־ נֶ֙פֶשׁ֙ כִּ֣י תֶֽחֱטָ֔א וְעָֽשְׂתָ֗ה אַחַת֙ מִכָּל־ מִצְוֹ֣ת יְהוָ֔ה אֲשֶׁ֖ר לֹ֣א תֵעָשֶׂ֑ינָה וְלֹֽא־ יָדַ֥ע וְאָשֵׁ֖ם וְנָשָׂ֥א עֲוֹנֽוֹ׃"
+pericope: "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0816]]"
+- "[[H5375J]]"
+- "[[H5771G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:17**<big><big>[[Lev.5.14 Laws for Guilt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist [it] not, yet is he guilty, and shall bear his iniquity.
 <small><sub>**BSB:**</sub></small>
 If someone sins and violates any of the LORD’s commandments even though he was unaware, he is guilty and shall bear his punishment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5315J\|נֶ֙פֶשׁ֙]] [[H3588A\|כִּ֣י]] [[H2398\|תֶֽחֱטָ֔א]] [[H9001\|וְ]][[H6213A\|עָֽשְׂתָ֗ה]] [[H0259\|אַחַת֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H3808\|לֹ֣א]] [[H6213A\|תֵעָשֶׂ֑ינָה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֥ע]] [[H9001\|וְ]][[H0816\|אָשֵׁ֖ם]] [[H9001\|וְ]][[H5375J\|נָשָׂ֥א]] [[H5771G\|עֲוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.16|<< Leviticus 5:16]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.18|Leviticus 5:18 >>]]</td></tr></table>
 

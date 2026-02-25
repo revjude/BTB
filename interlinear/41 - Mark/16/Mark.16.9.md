@@ -1,10 +1,58 @@
+---
+title: Mark 16:9
+type: Verse
+kjv: "Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils."
+bsb: "Early on the first day of the week, after Jesus had risen, He appeared first to Mary Magdalene, from whom He had driven out seven demons."
+greek: "[Ἀναστὰς δὲ πρωῒ πρώτῃ σαββάτου ἐφάνη πρῶτον Μαρίᾳ τῇ Μαγδαληνῇ, παρ᾽ ἧς ἐκβεβλήκει ἑπτὰ δαιμόνια."
+pericope: "[[Mark.16.9 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G4404]]"
+- "[[G4413G]]"
+- "[[G4521]]"
+- "[[G5316]]"
+- "[[G3137I]]"
+- "[[G3588]]"
+- "[[G3094]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G1544]]"
+- "[[G2033]]"
+- "[[G1140]]"
+texts:
+- KO
+- (k)O
+---
+
 **Mark 16:9**<big><big>[[Mark.16.9 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when [Jesus] was risen early the first [day] of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
 <small><sub>**BSB:**</sub></small>
 Early on the first day of the week, after Jesus had risen, He appeared first to Mary Magdalene, from whom He had driven out seven demons.
-<small><sub>**Literal:**</sub></small>
-Having risen now early on [the] first [day] of the week He appeared first to Mary <the> Magdalene, from with whom He had cast out seven demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.8|<< Mark 16:8]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.10|Mark 16:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|[Ἀναστὰς]]  [[G1161\|δὲ]]  [[G4404\|πρωῒ]]  [[G4413G\|πρώτῃ]]  [[G4521\|σαββάτου]]  [[G5316\|ἐφάνη]]  [[G4413G\|πρῶτον]]  [[G3137I\|Μαρίᾳ]]  [[G3588\|τῇ]]  [[G3094\|Μαγδαληνῇ,]]  [[G3844\|παρ᾽]]  [[G3739\|ἧς]]  [[G1544\|ἐκβεβλήκει]]  [[G2033\|ἑπτὰ]]  [[G1140\|δαιμόνια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.8|<< Mark 16:8]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.10|Mark 16:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -31,7 +31,7 @@
 
 → Of redemption [[Rev.5.9|Re 5:9]],[[Rev.5.10|10]]
 
-→ Of the redeemed [[Rev.14.2|Re 14:2]],[[Rev.14.3|3]]-[[Rev.14.5|5]]
+→ Of the redeemed [[Rev.14.2|Re 14:2]],[[Rev.14.3|3-5]]
 
 → Of thanksgiving
 
@@ -39,7 +39,7 @@
 
 → See [[topic PSALMS|PSALMS, THANKSGIVING]]
 
-→ War [[Exod.15.1|Ex 15:1]]-[[Exod.15.21|21]]; [[Num.21.27|Nu 21:27]]-[[Num.21.30|30]]; [[Judg.5|Jud 5]]; [[2Sam.1.19|2Sa 1:19]]-[[2Sam.1.27|27]]; [[2Sam.22|22]]
+→ War [[Exod.15.1|Ex 15:1-21]]; [[Num.21.27|Nu 21:27-30]]; [[Judg.5|Jud 5]]; [[2Sam.1.19|2Sa 1:19-27]]; [[2Sam.22|22]]
 
 → Solomon wrote one-thousand and five [[1Kgs.4.32|1Ki 4:32]]
 

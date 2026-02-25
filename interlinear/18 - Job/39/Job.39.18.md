@@ -1,8 +1,55 @@
+---
+title: Job 39:18
+type: Verse
+kjv: "What time she lifteth up herself on high, she scorneth the horse and his rider."
+bsb: "Yet when she proudly spreads her wings, she laughs at the horse and its rider."
+hebrew: "כָּ֭עֵת בַּמָּר֣וֹם תַּמְרִ֑יא תִּֽשְׂחַ֥ק לַ֝סּ֗וּס וּלְרֹֽכְבֽוֹ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+strongs:
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H9003]]"
+- "[[H4791]]"
+- "[[H4754]]"
+- "[[H7832]]"
+- "[[H9005]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H7392]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:18**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What time she lifteth up herself on high, she scorneth the horse and his rider.
 <small><sub>**BSB:**</sub></small>
 Yet when she proudly spreads her wings, she laughs at the horse and its rider.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כָּ֭]][[H6256\|עֵת]] [[H9003\|בַּ]][[H4791\|מָּר֣וֹם]] [[H4754\|תַּמְרִ֑יא]] [[H7832\|תִּֽשְׂחַ֥ק]] [[H9005\|לַ֝]][[H5483M\|סּ֗וּס]] [[H9002\|וּ]][[H9005\|לְ]][[H7392\|רֹֽכְבֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic OSTRICHES|OSTRICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.17|<< Job 39:17]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.19|Job 39:19 >>]]</td></tr></table>
 

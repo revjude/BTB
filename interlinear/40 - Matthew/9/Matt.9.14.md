@@ -1,10 +1,61 @@
+---
+title: Matthew 9:14
+type: Verse
+kjv: "Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?"
+bsb: "Then John’s disciples came to Jesus and asked, “Why is it that we and the Pharisees fast so often, but Your disciples do not fast?”"
+greek: "Τότε προσέρχονται αὐτῷ οἱ μαθηταὶ Ἰωάννου λέγοντες· διὰ τί ἡμεῖς καὶ οἱ Φαρισαῖοι νηστεύομεν πολλά, οἱ δὲ μαθηταί σου οὐ νηστεύουσιν;¶"
+pericope: "[[Matt.9.14 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G5119]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2491G]]"
+- "[[G3004G]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G3522]]"
+- "[[G4183]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **Matthew 9:14**<big><big>[[Matt.9.14 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 <small><sub>**BSB:**</sub></small>
 Then John’s disciples came to Jesus and asked, “Why is it that we and the Pharisees fast so often, but Your disciples do not fast?”
-<small><sub>**Literal:**</sub></small>
-Then come to Him the disciples of John saying; Because of why we ourselves and the Pharisees do fast many times, the however disciples of You not fast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.13|<< Matthew 9:13]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.15|Matthew 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4334\|προσέρχονται]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2491G\|Ἰωάννου]]  [[G3004G\|λέγοντες·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3165\|ἡμεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G3522\|νηστεύομεν]]  [[G4183\|πολλά,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταί]]  [[G4771\|σου]]  [[G3756\|οὐ]]  [[G3522\|νηστεύουσιν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic DISCIPLE|DISCIPLE]] • [[topic FASTING|FASTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.13|<< Matthew 9:13]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.15|Matthew 9:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

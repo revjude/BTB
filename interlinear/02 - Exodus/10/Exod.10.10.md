@@ -1,8 +1,72 @@
+---
+title: Exodus 10:10
+type: Verse
+kjv: "And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look to it; for evil is before you."
+bsb: "Then Pharaoh told them, “May the LORD be with you if I ever let you go with your little ones. Clearly you are bent on evil."
+hebrew: "וַיֹּ֣אמֶר אֲלֵהֶ֗ם יְהִ֨י כֵ֤ן יְהוָה֙ עִמָּכֶ֔ם כַּאֲשֶׁ֛ר אֲשַׁלַּ֥ח אֶתְכֶ֖ם וְאֶֽת־ טַפְּכֶ֑ם רְא֕וּ כִּ֥י רָעָ֖ה נֶ֥גֶד פְּנֵיכֶֽם׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H3651C]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H2945]]"
+- "[[H9026]]"
+- "[[H7200I]]"
+- "[[H3588A]]"
+- "[[H7451I]]"
+- "[[H5048]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:10**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look [to it]; for evil [is] before you.
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh told them, “May the LORD be with you if I ever let you go with your little ones. Clearly you are bent on evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H1961\|יְהִ֨י]] [[H3651C\|כֵ֤ן]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H7971H\|אֲשַׁלַּ֥ח]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H2945\|טַפְּ]][[H9026\|כֶ֑ם]] [[H7200I\|רְא֕וּ]] [[H3588A\|כִּ֥י]] [[H7451I\|רָעָ֖ה]] [[H5048\|נֶ֥גֶד]] [[H6440G\|פְּנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.9|<< Exodus 10:9]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.11|Exodus 10:11 >>]]</td></tr></table>
 

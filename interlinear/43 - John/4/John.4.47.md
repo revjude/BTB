@@ -1,10 +1,71 @@
+---
+title: John 4:47
+type: Verse
+kjv: "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death."
+bsb: "When he heard that Jesus had come from Judea to Galilee, he went and begged Him to come down and heal his son, who was about to die."
+greek: "οὗτος ἀκούσας ὅτι Ἰησοῦς ἥκει ἐκ τῆς Ἰουδαίας εἰς τὴν Γαλιλαίαν, ἀπῆλθεν πρὸς αὐτὸν καὶ ἠρώτα αὐτὸν ἵνα καταβῇ καὶ ἰάσηται αὐτοῦ τὸν υἱόν· ἤμελλεν γὰρ ἀποθνῄσκειν."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G2240]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2449]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+- "[[G0565]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G2443]]"
+- "[[G2597]]"
+- "[[G2390]]"
+- "[[G5207]]"
+- "[[G3195]]"
+- "[[G1063]]"
+- "[[G0599]]"
+texts:
+- NKO
+- k
+---
+
 **John 4:47**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
 <small><sub>**BSB:**</sub></small>
 When he heard that Jesus had come from Judea to Galilee, he went and begged Him to come down and heal his son, who was about to die.
-<small><sub>**Literal:**</sub></small>
-He having heard that Jesus had come out of <the> Judea into <the> Galilee, went to Him and was asking him that He may come down and He may heal his <the> son; he was about for to die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.46|<< John 4:46]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.48|John 4:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G0191\|ἀκούσας]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G2240\|ἥκει]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν,]]  [[G0565\|ἀπῆλθεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2065\|ἠρώτα]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2597\|καταβῇ]]  [[G2532\|καὶ]]  [[G2390\|ἰάσηται]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G5207\|υἱόν·]]  [[G3195\|ἤμελλεν]]  [[G1063\|γὰρ]]  [[G0599\|ἀποθνῄσκειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDEA|JUDEA]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.46|<< John 4:46]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.48|John 4:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Isaiah 43:11
+type: Verse
+kjv: "I, even I, am the LORD; and beside me there is no saviour."
+bsb: "I, yes I, am the LORD, and there is no Savior but Me."
+hebrew: "אָנֹכִ֥י אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9006]]"
+- "[[H1107]]"
+- "[[H9030]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:11**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I, [even] I, [am] the LORD; and beside me [there is] no saviour.
 <small><sub>**BSB:**</sub></small>
 I, yes I, am the LORD, and there is no Savior but Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָנֹכִ֥י]] [[H0595\|אָנֹכִ֖י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9006\|מִ]][[H1107\|בַּלְעָדַ֖]][[H9030\|י]] [[H3467\|מוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.10|<< Isaiah 43:10]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.12|Isaiah 43:12 >>]]</td></tr></table>
 

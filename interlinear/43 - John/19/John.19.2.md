@@ -1,10 +1,58 @@
+---
+title: John 19:2
+type: Verse
+kjv: "And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,"
+bsb: "The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe."
+greek: "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτὸν"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic THORN|THORN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G4120]]"
+- "[[G4735]]"
+- "[[G1537]]"
+- "[[G0173]]"
+- "[[G2007]]"
+- "[[G0846]]"
+- "[[G2776]]"
+- "[[G2440]]"
+- "[[G4210]]"
+- "[[G4016]]"
+texts:
+- NKO
+---
+
 **John 19:2**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the soldiers platted a crown of thorns, and put [it] on his head, and they put on him a purple robe,
 <small><sub>**BSB:**</sub></small>
 The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.
-<small><sub>**Literal:**</sub></small>
-And the soldiers having twisted together a crown of thorns put [it] of Him on the head and a robe purple cast around Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.1|<< John 19:1]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.3|John 19:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4757\|στρατιῶται]]  [[G4120\|πλέξαντες]]  [[G4735\|στέφανον]]  [[G1537\|ἐξ]]  [[G0173\|ἀκανθῶν]]  [[G2007\|ἐπέθηκαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῇ]]  [[G2776\|κεφαλῇ]]  [[G2532\|καὶ]]  [[G2440\|ἱμάτιον]]  [[G4210\|πορφυροῦν]]  [[G4016\|περιέβαλον]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic SARCASM|SARCASM]] • [[topic THORN|THORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.1|<< John 19:1]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.3|John 19:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

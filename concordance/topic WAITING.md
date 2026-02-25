@@ -51,7 +51,7 @@
 
 → All the day [[Ps.25.5|Ps 25:5]]
 
-→ Especially in adversity [[Ps.59.1|Ps 59:1]]-[[Ps.59.9|9]]; [[Isa.8.17|Isa 8:17]]
+→ Especially in adversity [[Ps.59.1|Ps 59:1-9]]; [[Isa.8.17|Isa 8:17]]
 
 → In the way of his judgments [[Isa.26.8|Isa 26:8]]
 

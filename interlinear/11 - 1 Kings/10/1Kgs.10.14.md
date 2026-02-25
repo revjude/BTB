@@ -1,8 +1,63 @@
+---
+title: 1 Kings 10:14
+type: Verse
+kjv: "Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,"
+bsb: "The weight of gold that came to Solomon each year was 666 talents,"
+hebrew: "וַֽיְהִי֙ מִשְׁקַ֣ל הַזָּהָ֔ב אֲשֶׁר־ בָּ֥א לִשְׁלֹמֹ֖ה בְּשָׁנָ֣ה אֶחָ֑ת שֵׁ֥שׁ מֵא֛וֹת שִׁשִּׁ֥ים וָשֵׁ֖שׁ כִּכַּ֥ר זָהָֽב׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TALENT|TALENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4948]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H8346]]"
+- "[[H9002]]"
+- "[[H3603H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:14**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
 <small><sub>**BSB:**</sub></small>
 The weight of gold that came to Solomon each year was 666 talents,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H4948\|מִשְׁקַ֣ל]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֖ה]] [[H9003\|בְּ]][[H8141\|שָׁנָ֣ה]] [[H0259\|אֶחָ֑ת]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵא֛וֹת]] [[H8346\|שִׁשִּׁ֥ים]] [[H9002\|וָ]][[H8337\|שֵׁ֖שׁ]] [[H3603H\|כִּכַּ֥ר]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic SOLOMON|SOLOMON]] • [[topic TALENT|TALENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.13|<< 1 Kings 10:13]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.15|1 Kings 10:15 >>]]</td></tr></table>
 

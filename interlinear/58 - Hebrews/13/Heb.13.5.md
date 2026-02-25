@@ -1,10 +1,62 @@
+---
+title: Hebrews 13:5
+type: Verse
+kjv: "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee."
+bsb: "Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”"
+greek: "Ἀφιλάργυρος ὁ τρόπος· ἀρκούμενοι τοῖς παροῦσιν· αὐτὸς γὰρ εἴρηκεν· οὐ μή σε ἀνῶ, οὐδ᾽ οὐ μή σε ἐγκαταλίπω·"
+pericope: "[[Heb.13.5 Christ’s Unchanging Nature|Christ’s Unchanging Nature]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0866]]"
+- "[[G3588]]"
+- "[[G5158]]"
+- "[[G0714]]"
+- "[[G3918]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G2046]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G0447]]"
+- "[[G3761]]"
+- "[[G1459]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 13:5**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Let your] conversation [be] without covetousness; [and be] content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
 <small><sub>**BSB:**</sub></small>
 Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”
-<small><sub>**Literal:**</sub></small>
-[Let be] without covetousness <the> [your] manner of life; being satisfied with the present; He Himself for has said: Certainly not you shall I leave, nor certainly not you shall I forsake;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.4|<< Hebrews 13:4]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.6|Hebrews 13:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0866\|Ἀφιλάργυρος]]  [[G3588\|ὁ]]  [[G5158\|τρόπος·]]  [[G0714\|ἀρκούμενοι]]  [[G3588\|τοῖς]]  [[G3918\|παροῦσιν·]]  [[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G2046\|εἴρηκεν·]]  [[G3756\|οὐ]]  [[G3361\|μή]]  [[G4771\|σε]]  [[G0447\|ἀνῶ,]]  [[G3761\|οὐδ᾽]]  [[G3756\|οὐ]]  [[G3361\|μή]]  [[G4771\|σε]]  [[G1459\|ἐγκαταλίπω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FAITH|FAITH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.4|<< Hebrews 13:4]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.6|Hebrews 13:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 13:5** is...
 > $\quad$ referencing: [[LXX.Deut.31.6|Deut 31:6]] ☩ [[LXX.Deut.31.8|Deut 31:8]] ☩ [[LXX.Josh.1.5|Josh 1:5]]

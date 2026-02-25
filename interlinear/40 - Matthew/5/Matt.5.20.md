@@ -1,10 +1,67 @@
+---
+title: Matthew 5:20
+type: Verse
+kjv: "For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven."
+bsb: "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."
+jesus_said: "For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven."
+greek: "λέγω γὰρ ὑμῖν ὅτι ἐὰν μὴ περισσεύσῃ ὑμῶν ἡ δικαιοσύνη πλεῖον τῶν γραμματέων καὶ Φαρισαίων, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.¶"
+pericope: "[[Matt.5.17 The Fulfillment of the Law|The Fulfillment of the Law]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4052]]"
+- "[[G3588]]"
+- "[[G1343]]"
+- "[[G4119]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 5:20**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, That except your righteousness shall exceed [the righteousness] of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-I say for to you that only unless shall abound your <the> righteousness above [that] of the scribes and Pharisees, certainly not shall you enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.19|<< Matthew 5:19]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.21|Matthew 5:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4052\|περισσεύσῃ]]  [[G4771\|ὑμῶν]]  [[G3588\|ἡ]]  [[G1343\|δικαιοσύνη]]  [[G4119\|πλεῖον]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαίων,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1525\|εἰσέλθητε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.19|<< Matthew 5:19]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.21|Matthew 5:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

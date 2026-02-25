@@ -1,8 +1,63 @@
+---
+title: Isaiah 11:16
+type: Verse
+kjv: "And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt."
+bsb: "There will be a highway for the remnant of His people who remain from Assyria, as there was for Israel when they came up from the land of Egypt."
+hebrew: "וְהָיְתָ֣ה מְסִלָּ֔ה לִשְׁאָ֣ר עַמּ֔וֹ אֲשֶׁ֥ר יִשָּׁאֵ֖ר מֵֽאַשּׁ֑וּר כַּאֲשֶׁ֤ר הָֽיְתָה֙ לְיִשְׂרָאֵ֔ל בְּי֥וֹם עֲלֹת֖וֹ מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4546]]"
+- "[[H9005]]"
+- "[[H7605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H7604]]"
+- "[[H9006]]"
+- "[[H0804G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H5927G]]"
+- "[[H9043]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:16**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 There will be a highway for the remnant of His people who remain from Assyria, as there was for Israel when they came up from the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H4546\|מְסִלָּ֔ה]] [[H9005\|לִ]][[H7605\|שְׁאָ֣ר]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7604\|יִשָּׁאֵ֖ר]] [[H9006\|מֵֽ]][[H0804G\|אַשּׁ֑וּר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H1961\|הָֽיְתָה֙]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H5927G\|עֲלֹת֖]][[H9043\|וֹ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGHWAYS|HIGHWAYS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.15|<< Isaiah 11:15]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.1|Isaiah 12:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

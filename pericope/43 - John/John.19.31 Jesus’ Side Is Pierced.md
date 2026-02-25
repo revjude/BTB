@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Side Is Pierced
+type: Pericope
 pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: John
 chapter: 19
 book/chapter: "[[John.19|John 19]]"
-genre:
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 7
 verses:
 - "[[John.19.31]]"
 - "[[John.19.32]]"
@@ -25,7 +32,7 @@ verses:
 - "[[John.19.37]]"
 ---
 
-[[John.19|John 19:31 - John 19:37]]
+<small>[[John.19|John 19:31-37]]</small>
 *Jesus’ Side Is Pierced*
 
 [[John.19.31|31]] The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and \[that\] they might be taken away.

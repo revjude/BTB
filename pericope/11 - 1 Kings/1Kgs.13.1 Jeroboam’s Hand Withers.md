@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam’s Hand Withers
+type: Pericope
 pericope: "[[1Kgs.13.1 Jeroboam’s Hand Withers|Jeroboam’s Hand Withers]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 13
 book/chapter: "[[1Kgs.13|1 Kings 13]]"
-genre:
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 10
 verses:
 - "[[1Kgs.13.1]]"
 - "[[1Kgs.13.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Kgs.13.10]]"
 ---
 
-[[1Kgs.13|1 Kings 13:1 - 1 Kings 13:10]]
+<small>[[1Kgs.13|1 Kings 13:1-10]]</small>
 *Jeroboam’s Hand Withers*
 
 [[1Kgs.13.1|1]] And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense.

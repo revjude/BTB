@@ -1,10 +1,61 @@
+---
+title: Luke 14:29
+type: Verse
+kjv: "Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,"
+bsb: "Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him,"
+jesus_said: "Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,"
+greek: "ἵνα μήποτε μήποτε θέντος αὐτοῦ θεμέλιον καὶ μὴ ἰσχύοντος ἐκτελέσαι πάντες οἱ θεωροῦντες ἄρξωνται αὐτῷ ἐμπαίζειν"
+pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G5087]]"
+- "[[G0846]]"
+- "[[G2310]]"
+- "[[G2532]]"
+- "[[G2480]]"
+- "[[G1615]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2334]]"
+- "[[G0757]]"
+- "[[G1702]]"
+texts:
+- NKO
+---
+
 **Luke 14:29**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Lest haply, after he hath laid the foundation, and is not able to finish [it], all that behold [it] begin to mock him,
 <small><sub>**BSB:**</sub></small>
 Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him,
-<small><sub>**Literal:**</sub></small>
-Thus otherwise [when] laying of it a foundation and not being able to finish all those seeing [it] may begin him to mock<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.28|<< Luke 14:28]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.30|Luke 14:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G5087\|θέντος]]  [[G0846\|αὐτοῦ]]  [[G2310\|θεμέλιον]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2480\|ἰσχύοντος]]  [[G1615\|ἐκτελέσαι]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2334\|θεωροῦντες]]  [[G0757\|ἄρξωνται]]  [[G0846\|αὐτῷ]]  [[G1702\|ἐμπαίζειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TOWER|TOWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.28|<< Luke 14:28]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.30|Luke 14:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

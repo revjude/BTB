@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 1:9
+type: Verse
+kjv: "So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD."
+bsb: "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD."
+hebrew: "וַתָּ֣קָם חַנָּ֔ה אַחֲרֵ֛י אָכְלָ֥ה בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן יֹשֵׁב֙ עַל־ הַכִּסֵּ֔א עַל־ מְזוּזַ֖ת הֵיכַ֥ל יְהוָֽה׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H2584]]"
+- "[[H0310A]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H5941]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3678I]]"
+- "[[H4201]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:9**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.
 <small><sub>**BSB:**</sub></small>
 So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|תָּ֣קָם]] [[H2584\|חַנָּ֔ה]] [[H0310A\|אַחֲרֵ֛י]] [[H0398\|אָכְלָ֥ה]] [[H9003\|בְ]][[H7887\|שִׁלֹ֖ה]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֣י]] [[H8354\|שָׁתֹ֑ה]] [[H9002\|וְ]][[H5941\|עֵלִ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H3427\|יֹשֵׁב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3678I\|כִּסֵּ֔א]] [[H5921A\|עַל]][[H9014\|־]] [[H4201\|מְזוּזַ֖ת]] [[H1964G\|הֵיכַ֥ל]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic FEASTS|FEASTS]] • [[topic HANNAH|HANNAH]] • [[topic SAMUEL|SAMUEL]] • [[topic SHILOH|SHILOH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.8|<< 1 Samuel 1:8]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.10|1 Samuel 1:10 >>]]</td></tr></table>
 

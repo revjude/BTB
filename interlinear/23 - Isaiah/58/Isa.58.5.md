@@ -1,8 +1,68 @@
+---
+title: Isaiah 58:5
+type: Verse
+kjv: "Is it such a fast that I have chosen? a day for a man to afflict his soul? is it to bow down his head as a bulrush, and to spread sackcloth and ashes under him? wilt thou call this a fast, and an acceptable day to the LORD?"
+bsb: "Is this the fast I have chosen: a day for a man to deny himself, to bow his head like a reed, and to spread out sackcloth and ashes? Will you call this a fast and a day acceptable to the LORD?"
+hebrew: "הֲכָזֶ֗ה יִֽהְיֶה֙ צ֣וֹם אֶבְחָרֵ֔הוּ י֛וֹם עַנּ֥וֹת אָדָ֖ם נַפְשׁ֑וֹ הֲלָכֹ֨ף כְּאַגְמֹ֜ן רֹאשׁ֗וֹ וְשַׂ֤ק וָאֵ֙פֶר֙ יַצִּ֔יעַ הֲלָזֶה֙ תִּקְרָא־ צ֔וֹם וְי֥וֹם רָצ֖וֹן לַיהוָֽה׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BULRUSH|BULRUSH]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9008]]"
+- "[[H9004]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H6685]]"
+- "[[H0977]]"
+- "[[H9033]]"
+- "[[H3117G]]"
+- "[[H6031B]]"
+- "[[H0120G]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3721]]"
+- "[[H0100]]"
+- "[[H7218A]]"
+- "[[H9002]]"
+- "[[H8242]]"
+- "[[H0665]]"
+- "[[H3331]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H7522]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:5**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is it such a fast that I have chosen? a day for a man to afflict his soul? [is it] to bow down his head as a bulrush, and to spread sackcloth and ashes [under him]? wilt thou call this a fast, and an acceptable day to the LORD?
 <small><sub>**BSB:**</sub></small>
 Is this the fast I have chosen: a day for a man to deny himself, to bow his head like a reed, and to spread out sackcloth and ashes? Will you call this a fast and a day acceptable to the LORD?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H9004\|כָ]][[H2088\|זֶ֗ה]] [[H1961\|יִֽהְיֶה֙]] [[H6685\|צ֣וֹם]] [[H0977\|אֶבְחָרֵ֔]][[H9033\|הוּ]] [[H3117G\|י֛וֹם]] [[H6031B\|עַנּ֥וֹת]] [[H0120G\|אָדָ֖ם]] [[H5315I\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9008\|הֲ]][[H9005\|לָ]][[H3721\|כֹ֨ף]] [[H9004\|כְּ]][[H0100\|אַגְמֹ֜ן]] [[H7218A\|רֹאשׁ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H8242\|שַׂ֤ק]] [[H9002\|וָ]][[H0665\|אֵ֙פֶר֙]] [[H3331\|יַצִּ֔יעַ]] [[H9008\|הֲ]][[H9005\|לָ]][[H2088\|זֶה֙]] [[H7121H\|תִּקְרָא]][[H9014\|־]] [[H6685\|צ֔וֹם]] [[H9002\|וְ]][[H3117G\|י֥וֹם]] [[H7522\|רָצ֖וֹן]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULRUSH|BULRUSH]] • [[topic FASTING|FASTING]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.4|<< Isaiah 58:4]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.6|Isaiah 58:6 >>]]</td></tr></table>
 

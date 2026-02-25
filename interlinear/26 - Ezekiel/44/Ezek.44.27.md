@@ -1,8 +1,64 @@
+---
+title: Ezekiel 44:27
+type: Verse
+kjv: "And in the day that he goeth into the sanctuary, unto the inner court, to minister in the sanctuary, he shall offer his sin offering, saith the Lord GOD."
+bsb: "And on the day he goes into the sanctuary, into the inner court, to minister in the sanctuary, he must present his sin offering, declares the Lord GOD."
+hebrew: "וּבְיוֹם֩ בֹּא֨וֹ אֶל־ הַקֹּ֜דֶשׁ אֶל־ הֶחָצֵ֤ר הַפְּנִימִית֙ לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ יַקְרִ֖יב חַטָּאת֑וֹ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6944J]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H7126H]]"
+- "[[H2403H]]"
+- "[[H9023]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:27**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the day that he goeth into the sanctuary, unto the inner court, to minister in the sanctuary, he shall offer his sin offering, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And on the day he goes into the sanctuary, into the inner court, to minister in the sanctuary, he must present his sin offering, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|יוֹם֩]] [[H0935G\|בֹּא֨]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֜דֶשׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֤ר]] [[H9009\|הַ]][[H6442\|פְּנִימִית֙]] [[H9005\|לְ]][[H8334\|שָׁרֵ֣ת]] [[H9003\|בַּ]][[H6944J\|קֹּ֔דֶשׁ]] [[H7126H\|יַקְרִ֖יב]] [[H2403H\|חַטָּאת֑]][[H9023\|וֹ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.26|<< Ezekiel 44:26]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.28|Ezekiel 44:28 >>]]</td></tr></table>
 

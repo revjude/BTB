@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Preaches the Gospel
+type: Pericope
 pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 1
 book/chapter: "[[Gal.1|Galatians 1]]"
-genre:
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 15
 verses:
 - "[[Gal.1.10]]"
 - "[[Gal.1.11]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gal.1.24]]"
 ---
 
-[[Gal.1|Galatians 1:10 - Galatians 1:24]]
+<small>[[Gal.1|Galatians 1:10-24]]</small>
 *Paul Preaches the Gospel*
 
 [[Gal.1.10|10]] For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.

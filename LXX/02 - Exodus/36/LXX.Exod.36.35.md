@@ -1,9 +1,65 @@
+---
+title: LXX Exodus 36:35
+type: Verse
+lxx: "And he made a veil from out of blue, and purple, and scarlet being twined, and linen being spun. He made it a woven work with cherubim."
+greek: "και εποίησε καταπέτασμα εξ υακίνθου και πορφύρας και κοκκίνου κεκλωσμένου και βύσσου νενησμένης έργον υφαντόν εποίησεν αυτό χερουβίμ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G2665]]"
+- "[[G1537]]"
+- "[[G5192]]"
+- "[[G2532]]"
+- "[[G4209]]"
+- "[[G2532]]"
+- "[[G2847]]"
+- "[[G8029]]"
+- "[[G2532]]"
+- "[[G1040]]"
+- "[[G3514]]"
+- "[[G2041]]"
+- "[[G5307]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G5502]]"
+---
+
 **LXX Exodus 36:35** 
 
 ***The Veil***
 
 <small><sub>**LXX:**</sub></small>
 And he made a veil from out of blue, and purple, and scarlet being twined, and linen being spun. He made it a woven work \[with\] cherubim. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|εποίησε]] [[G2665\|καταπέτασμα]] [[G1537\|εξ]] [[G5192\|υακίνθου]] [[G2532\|και]] [[G4209\|πορφύρας]] [[G2532\|και]] [[G2847\|κοκκίνου]] [[G8029\|κεκλωσμένου]] [[G2532\|και]] [[G1040\|βύσσου]] [[G3514\|νενησμένης]] [[G2041\|έργον]] [[G5307\|υφαντόν]] [[G4160\|εποίησεν]] [[G1473\|αυτό]] [[G5502\|χερουβίμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COLORS|COLORS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.34|<< Exodus 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.36|Exodus 36:36 >>]]</td></tr></table>
 
@@ -27,6 +83,6 @@ And he made a veil from out of blue, and purple, and scarlet being twined, and l
 | He made | **<big>[[G4160\|εποίησεν]]</big>** |
 | it | **<big>[[G1473\|αυτό]]</big>** |
 | \[with\] cherubim. | **<big>[[G5502\|χερουβίμ]]</big>** |
-[[Exod.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.34|<< Exodus 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.36|Exodus 36:36 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.34|<< Exodus 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.36|Exodus 36:36 >>]]</td></tr></table>
 
 

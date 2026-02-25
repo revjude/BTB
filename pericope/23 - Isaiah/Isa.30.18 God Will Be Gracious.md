@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Will Be Gracious
+type: Pericope
 pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 30
 book/chapter: "[[Isa.30|Isaiah 30]]"
-genre:
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Isa.30.18]]"
 - "[[Isa.30.19]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Isa.30.33]]"
 ---
 
-[[Isa.30|Isaiah 30:18 - Isaiah 30:33]]
+<small>[[Isa.30|Isaiah 30:18-33]]</small>
 *God Will Be Gracious*
 
 [[Isa.30.18|18]] And therefore will the LORD wait, that he may be gracious unto you, and therefore will he be exalted, that he may have mercy upon you: for the LORD \[is\] a God of judgment: blessed \[are\] all they that wait for him.

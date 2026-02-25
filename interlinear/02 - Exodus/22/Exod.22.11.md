@@ -1,8 +1,71 @@
+---
+title: Exodus 22:11
+type: Verse
+kjv: "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept thereof, and he shall not make it good."
+bsb: "an oath before the LORD shall be made between the parties to determine whether or not the man has taken his neighbor’s property. The owner must accept the oath and require no restitution."
+hebrew: "שְׁבֻעַ֣ת יְהוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־ לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H7621]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H0996G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H7453]]"
+- "[[H9001]]"
+- "[[H3947H]]"
+- "[[H1167G]]"
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:11**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept [thereof], and he shall not make [it] good.
 <small><sub>**BSB:**</sub></small>
 an oath before the LORD shall be made between the parties to determine whether or not the man has taken his neighbor’s property. The owner must accept the oath and require no restitution.
+<small><sub>**Hebrew:**</sub></small>
+[[H7621\|שְׁבֻעַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H1961\|תִּהְיֶה֙]] [[H0996G\|בֵּ֣ין]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H7971K\|שָׁלַ֛ח]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9003\|בִּ]][[H4399\|מְלֶ֣אכֶת]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וְ]][[H3947H\|לָקַ֥ח]] [[H1167G\|בְּעָלָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7999A\|יְשַׁלֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic OATH|OATH]] • [[topic PROPERTY|PROPERTY]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.10|<< Exodus 22:10]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.12|Exodus 22:12 >>]]</td></tr></table>
 

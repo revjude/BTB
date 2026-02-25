@@ -1,10 +1,55 @@
+---
+title: Mark 1:8
+type: Verse
+kjv: "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
+bsb: "I baptize you with water, but He will baptize you with the Holy Spirit.”"
+greek: "ἐγὼ μὲν ἐβάπτισα ὑμᾶς ἐν ὕδατι, αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ.¶"
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G0907]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G5204]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **Mark 1:8**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 I baptize you with water, but He will baptize you with the Holy Spirit.”
-<small><sub>**Literal:**</sub></small>
-I myself indeed baptized you in water, He himself however will baptize you with [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.7|<< Mark 1:7]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.9|Mark 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G3303\|μὲν]]  [[G0907\|ἐβάπτισα]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G5204\|ὕδατι,]]  [[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G0907\|βαπτίσει]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.7|<< Mark 1:7]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.9|Mark 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

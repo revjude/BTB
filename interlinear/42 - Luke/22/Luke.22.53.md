@@ -1,10 +1,69 @@
+---
+title: Luke 22:53
+type: Verse
+kjv: "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+bsb: "Every day I was with you in the temple courts, and you did not lay a hand on Me. But this hour belongs to you and to the power of darkness.”"
+jesus_said: "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+greek: "καθ᾽ ἡμέραν ὄντος μου μεθ᾽ ὑμῶν ἐν τῷ ἱερῷ οὐκ ἐξετείνατε τὰς χεῖρας ἐπ᾽ ἐμέ. ἀλλ᾽ αὕτη ἐστὶν ὑμῶν ἡ ὥρα καὶ ἡ ἐξουσία τοῦ σκότους.¶"
+pericope: "[[Luke.22.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G3756]]"
+- "[[G1614]]"
+- "[[G5495]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G3778]]"
+- "[[G5610]]"
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G4655]]"
+texts:
+- NKO
+---
+
 **Luke 22:53**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.
 <small><sub>**BSB:**</sub></small>
 Every day I was with you in the temple courts, and you did not lay a hand on Me. But this hour belongs to you and to the power of darkness.”
-<small><sub>**Literal:**</sub></small>
-Every day being Me with you in the temple not did you stretch out the hands against Me myself. but this is of you the hour and the power of the darkness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.52|<< Luke 22:52]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.54|Luke 22:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G1510\|ὄντος]]  [[G3165\|μου]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G3756\|οὐκ]]  [[G1614\|ἐξετείνατε]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G1909\|ἐπ᾽]]  [[G1473\|ἐμέ.]]  [[G0235\|ἀλλ᾽]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G4771\|ὑμῶν]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1849\|ἐξουσία]]  [[G3588\|τοῦ]]  [[G4655\|σκότους.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DARKNESS|DARKNESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.52|<< Luke 22:52]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.54|Luke 22:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

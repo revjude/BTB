@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Army of Locusts
+type: Pericope
 pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 2
 book/chapter: "[[Joel.2|Joel 2]]"
-genre:
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Joel.2.1]]"
 - "[[Joel.2.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Joel.2.11]]"
 ---
 
-[[Joel.2|Joel 2:1 - Joel 2:11]]
+<small>[[Joel.2|Joel 2:1-11]]</small>
 *The Army of Locusts*
 
 [[Joel.2.1|1]] Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for \[it is\] nigh at hand;

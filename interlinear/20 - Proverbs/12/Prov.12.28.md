@@ -1,8 +1,52 @@
+---
+title: Proverbs 12:28
+type: Verse
+kjv: "In the way of righteousness is life; and in the pathway thereof there is no death."
+bsb: "There is life in the path of righteousness, but another path leads to death."
+hebrew: "בְּאֹֽרַח־ צְדָקָ֥ה חַיִּ֑ים וְדֶ֖רֶךְ נְתִיבָ֣ה אַל־ מָֽוֶת׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H0734]]"
+- "[[H9014]]"
+- "[[H6666]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H1870K]]"
+- "[[H5410A]]"
+- "[[H0408]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:28**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the way of righteousness [is] life; and [in] the pathway [thereof there is] no death.
 <small><sub>**BSB:**</sub></small>
 There is life in the path of righteousness, but another path leads to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0734\|אֹֽרַח]][[H9014\|־]] [[H6666\|צְדָקָ֥ה]] [[H2416E\|חַיִּ֑ים]] [[H9002\|וְ]][[H1870K\|דֶ֖רֶךְ]] [[H5410A\|נְתִיבָ֣ה]] [[H0408\|אַל]][[H9014\|־]] [[H4194\|מָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.27|<< Proverbs 12:27]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.1|Proverbs 13:1 >>]]</td></tr></table>
 

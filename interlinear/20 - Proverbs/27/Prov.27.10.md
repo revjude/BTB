@@ -1,8 +1,63 @@
+---
+title: Proverbs 27:10
+type: Verse
+kjv: "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
+bsb: "Do not forsake your friend or your father’s friend, and do not go to your brother’s house in the day of your calamity; better a neighbor nearby than a brother far away."
+hebrew: "רֵֽעֲךָ֨ וְרֵ֪עַ אָבִ֡יךָ אַֽל־ תַּעֲזֹ֗ב וּבֵ֥ית אָחִ֗יךָ אַל־ תָּ֭בוֹא בְּי֣וֹם אֵידֶ֑ךָ ט֥וֹב שָׁכֵ֥ן קָ֝ר֗וֹב מֵאָ֥ח רָחֽוֹק׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7463]]"
+- "[[H0001G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H1004B]]"
+- "[[H0251G]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0343]]"
+- "[[H2896A]]"
+- "[[H7934]]"
+- "[[H7138]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 27:10**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: [for] better [is] a neighbour [that is] near than a brother far off.
 <small><sub>**BSB:**</sub></small>
 Do not forsake your friend or your father’s friend, and do not go to your brother’s house in the day of your calamity; better a neighbor nearby than a brother far away.
+<small><sub>**Hebrew:**</sub></small>
+[[H7453\|רֵֽעֲ]][[H9021\|ךָ֨]] [[H9002\|וְ]][[H7453\|רֵ֪עַ]] [[H0001G\|אָבִ֡י]][[H9021\|ךָ]] [[H0408\|אַֽל]][[H9014\|־]] [[H5800A\|תַּעֲזֹ֗ב]] [[H9002\|וּ]][[H1004B\|בֵ֥ית]] [[H0251G\|אָחִ֗י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּ֭בוֹא]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0343\|אֵידֶ֑]][[H9021\|ךָ]] [[H2896A\|ט֥וֹב]] [[H7934\|שָׁכֵ֥ן]] [[H7138\|קָ֝ר֗וֹב]] [[H9006\|מֵ]][[H0251G\|אָ֥ח]] [[H7350\|רָחֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CONSTANCY|CONSTANCY]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.9|<< Proverbs 27:9]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.11|Proverbs 27:11 >>]]</td></tr></table>
 
@@ -26,7 +81,7 @@ Do not forsake your friend or your father’s friend, and do not go to your brot
 | far away  |**<big>&#8207;[[H7350\|רָחֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.9|<< Proverbs 27:9]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.11|Proverbs 27:11 >>]]</td></tr></table>
 
-[^1]: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: and [the] friend of  | **<big>[[H9002|וְ]]</big><big>[[H7463|רֵעֶה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] friend of  | **<big>[[H9002|וְ]]</big><big>[[H7463|רֵעֶה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְרֵ֪עַה</big></span>**
 

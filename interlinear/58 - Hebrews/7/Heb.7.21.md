@@ -1,10 +1,65 @@
+---
+title: Hebrews 7:21
+type: Verse
+kjv: "(For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:)"
+bsb: "but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’”"
+greek: "ὁ δὲ μετὰ ὁρκωμοσίας διὰ τοῦ λέγοντος πρὸς αὐτόν· ὤμοσεν κύριος καὶ οὐ μεταμεληθήσεται· σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ·"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3326]]"
+- "[[G3728]]"
+- "[[G1223]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3660]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3338]]"
+- "[[G4771]]"
+- "[[G2409]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G2596]]"
+- "[[G5010]]"
+- "[[G3198]]"
+texts:
+- NKO
+- K
+---
+
 **Hebrews 7:21**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou [art] a priest for ever after the order of Melchisedec:)
 <small><sub>**BSB:**</sub></small>
 but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’”
-<small><sub>**Literal:**</sub></small>
-[He] however with an oath through the [One] who is saying to Him: Has sworn [the] Lord and not will change His mind; You [are] a priest to the age according to the order of Melchizedek;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.20|<< Hebrews 7:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.22|Hebrews 7:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3326\|μετὰ]]  [[G3728\|ὁρκωμοσίας]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G3004G\|λέγοντος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G3660\|ὤμοσεν]]  [[G2962G\|κύριος]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3338\|μεταμεληθήσεται·]]  [[G4771\|σὺ]]  [[G2409\|ἱερεὺς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G5010\|τάξιν]]  [[G3198\|Μελχισεδέκ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.20|<< Hebrews 7:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.22|Hebrews 7:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 7:21** is...
 > $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]

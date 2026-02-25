@@ -1,8 +1,80 @@
+---
+title: 1 Samuel 25:34
+type: Verse
+kjv: "For in very deed, as the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall."
+bsb: "Otherwise, as surely as the LORD, the God of Israel, lives, who has restrained me from harming you, if you had not come quickly to meet me, then surely no male belonging to Nabal would have been left alive by morning light.”"
+hebrew: "וְאוּלָ֗ם חַי־ יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֣ר מְנָעַ֔נִי מֵהָרַ֖ע אֹתָ֑ךְ כִּ֣י׀ לוּלֵ֣י מִהַ֗רְתְּ וַתָּבֹאת֙ לִקְרָאתִ֔י כִּ֣י אִם־ נוֹתַ֧ר לְנָבָ֛ל עַד־ א֥וֹר הַבֹּ֖קֶר מַשְׁתִּ֥ין בְּקִֽיר׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H4513]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H7489A]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3884]]"
+- "[[H4116A]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3498]]"
+- "[[H5037]]"
+- "[[H5704]]"
+- "[[H0216]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H8366]]"
+- "[[H9003]]"
+- "[[H7023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 25:34**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in very deed, [as] the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.
 <small><sub>**BSB:**</sub></small>
 Otherwise, as surely as the LORD, the God of Israel, lives, who has restrained me from harming you, if you had not come quickly to meet me, then surely no male belonging to Nabal would have been left alive by morning light.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0199\|אוּלָ֗ם]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H4513\|מְנָעַ֔]][[H9030\|נִי]] [[H9006\|מֵ]][[H7489A\|הָרַ֖ע]] [[H0853\|אֹתָ֑]][[H9032\|ךְ]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3884\|לוּלֵ֣י]] [[H4116A\|מִהַ֗רְתְּ]] [[H9001\|וַ]][[H0935G\|תָּבֹאת֙]] [[H9005\|לִ]][[H7122G\|קְרָאתִ֔]][[H9030\|י]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H3498\|נוֹתַ֧ר]] [[H9005\|לְ]][[H5037\|נָבָ֛ל]] [[H5704\|עַד]][[H9014\|־]] [[H0216\|א֥וֹר]] [[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H8366\|מַשְׁתִּ֥ין]] [[H9003\|בְּ]][[H7023\|קִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.33|<< 1 Samuel 25:33]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.35|1 Samuel 25:35 >>]]</td></tr></table>
 

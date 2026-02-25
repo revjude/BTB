@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament for Pharaoh King of Egypt
+type: Pericope
 pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 32
 book/chapter: "[[Ezek.32|Ezekiel 32]]"
-genre:
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 16
 verses:
 - "[[Ezek.32.1]]"
 - "[[Ezek.32.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ezek.32.16]]"
 ---
 
-[[Ezek.32|Ezekiel 32:1 - Ezekiel 32:16]]
+<small>[[Ezek.32|Ezekiel 32:1-16]]</small>
 *A Lament for Pharaoh King of Egypt*
 
 [[Ezek.32.1|1]] And it came to pass in the twelfth year, in the twelfth month, in the first \[day\] of the month, \[that\] the word of the LORD came unto me, saying,

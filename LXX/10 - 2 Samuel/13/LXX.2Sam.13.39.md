@@ -1,6 +1,53 @@
+---
+title: LXX 2 Samuel 13:39
+type: Verse
+lxx: "And the spirit of king David abated  to go forth unto Absalom; for he was comforted concerning Amnon, that he died."
+greek: "και εκόπασε το πνεύμα του βασιλέως Δαυίδ του εξελθείν επί Αβεσαλώμ ότι παρεκλήθη υπέρ Αμνών ότι απέθανε"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2869]]"
+- "[[G3588]]"
+- "[[G4151]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G1831]]"
+- "[[G1909]]"
+- "[[H0053]]"
+- "[[G3754]]"
+- "[[G3870]]"
+- "[[G5228]]"
+- "[[H0550]]"
+- "[[G3754]]"
+- "[[G0599]]"
+---
+
 **LXX 2 Samuel 13:39** 
 <small><sub>**LXX:**</sub></small>
 And the spirit of king David abated  to go forth unto Absalom; for he was comforted concerning Amnon, that he died. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2869\|εκόπασε]] [[G3588\|το]] [[G4151\|πνεύμα]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G4622\|Δαυίδ]] [[G3588\|του]] [[G1831\|εξελθείν]] [[G1909\|επί]] [[H0053\|Αβεσαλώμ]] [[G3754\|ότι]] [[G3870\|παρεκλήθη]] [[G5228\|υπέρ]] [[H0550\|Αμνών]] [[G3754\|ότι]] [[G0599\|απέθανε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PARENTS|PARENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.13.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.38|<< 2 Samuel 13:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.1|2 Samuel 14:1 >>]]</td></tr></table>
 
@@ -23,6 +70,6 @@ And the spirit of king David abated  to go forth unto Absalom; for he was comfor
 | Amnon, | **<big>[[H0550\|Αμνών]]</big>** |
 | that | **<big>[[G3754\|ότι]]</big>** |
 | he died. | **<big>[[G0599\|απέθανε]]</big>** |
-[[2Sam.13.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.38|<< 2 Samuel 13:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.1|2 Samuel 14:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.38|<< 2 Samuel 13:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.1|2 Samuel 14:1 >>]]</td></tr></table>
 
 

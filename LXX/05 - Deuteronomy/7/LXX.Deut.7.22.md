@@ -1,6 +1,78 @@
+---
+title: LXX Deuteronomy 7:22
+type: Verse
+lxx: "And the lord your God shall consume  these nations from your face according to little by little. You shall not be able to completely consume them quickly, that the land might not become wilderness, and the wild beasts should multiply upon you."
+greek: "και καταναλώσει κύριος ο θεός σου τα έθνη ταύτα από προσώπου σου κατά μικρόν μικρόν ου δυνήση εξαναλώσαι αυτούς το τάχος ίνα μη γένηται η γη έρημος και πληθυνθή επί σε τα θηρία τα άγρια"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2654]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G3778]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3398]]"
+- "[[G3398]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G7294]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5034]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2048]]"
+- "[[G2532]]"
+- "[[G4129]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G3588]]"
+- "[[G0066]]"
+---
+
 **LXX Deuteronomy 7:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God shall consume  these nations from your face according to little \[by\] little. You shall not be able to completely consume them quickly, that the land might not become wilderness, and the wild beasts should multiply upon you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2654\|καταναλώσει]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G3588\|τα]] [[G1484\|έθνη]] [[G3778\|ταύτα]] [[G0575\|από]] [[G4383\|προσώπου]] [[G1473\|σου]] [[G2596\|κατά]] [[G3398\|μικρόν]] [[G3398\|μικρόν]] [[G3756\|ου]] [[G1410\|δυνήση]] [[G7294\|εξαναλώσαι]] [[G1473\|αυτούς]] [[G3588\|το]] [[G5034\|τάχος]] [[G2443\|ίνα]] [[G3361\|μη]] [[G1096\|γένηται]] [[G3588\|η]] [[G1093\|γη]] [[G2048\|έρημος]] [[G2532\|και]] [[G4129\|πληθυνθή]] [[G1909\|επί]] [[G1473\|σε]] [[G3588\|τα]] [[G2342\|θηρία]] [[G3588\|τα]] [[G0066\|άγρια]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
 
@@ -37,6 +109,6 @@ And \[the\] <span class="smallcaps">lord</span> your God shall consume  these na
 | beasts | **<big>[[G2342\|θηρία]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | wild | **<big>[[G0066\|άγρια]]</big>** |
-[[Deut.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
 
 

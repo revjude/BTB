@@ -1,8 +1,58 @@
+---
+title: Numbers 10:30
+type: Verse
+kjv: "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred."
+bsb: "“I will not go,” Hobab replied. “Instead, I am going back to my own land and my own people.”"
+hebrew: "וַיֹּ֥אמֶר אֵלָ֖יו לֹ֣א אֵלֵ֑ךְ כִּ֧י אִם־ אֶל־ אַרְצִ֛י וְאֶל־ מוֹלַדְתִּ֖י אֵלֵֽךְ׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:30**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.
 <small><sub>**BSB:**</sub></small>
 “I will not go,” Hobab replied. “Instead, I am going back to my own land and my own people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H3808\|לֹ֣א]] [[H1980G\|אֵלֵ֑ךְ]] [[H3588B\|כִּ֧י]] [[H0518B\|אִם]][[H9014\|־]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצִ֛]][[H9020\|י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4138\|מוֹלַדְתִּ֖]][[H9020\|י]] [[H1980G\|אֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.29|<< Numbers 10:29]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.31|Numbers 10:31 >>]]</td></tr></table>
 

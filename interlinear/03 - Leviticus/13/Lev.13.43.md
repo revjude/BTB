@@ -1,8 +1,69 @@
+---
+title: Leviticus 13:43
+type: Verse
+kjv: "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
+bsb: "The priest is to examine him, and if the swelling of the infection on his bald head or forehead is reddish-white like a skin disease,"
+hebrew: "וְרָאָ֨ה אֹת֜וֹ הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־ הַנֶּ֙גַע֙ לְבָנָ֣ה אֲדַמְדֶּ֔מֶת בְּקָרַחְתּ֖וֹ א֣וֹ בְגַבַּחְתּ֑וֹ כְּמַרְאֵ֥ה צָרַ֖עַת ע֥וֹר בָּשָֽׂר׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7613]]"
+- "[[H9014]]"
+- "[[H5061]]"
+- "[[H3836]]"
+- "[[H0125]]"
+- "[[H9003]]"
+- "[[H7146]]"
+- "[[H9023]]"
+- "[[H0176A]]"
+- "[[H1372]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H6883]]"
+- "[[H5785]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:43**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall look upon it: and, behold, [if] the rising of the sore [be] white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;
 <small><sub>**BSB:**</sub></small>
 The priest is to examine him, and if the swelling of the infection on his bald head or forehead is reddish-white like a skin disease,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֨ה]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H7613\|שְׂאֵת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נֶּ֙גַע֙]] [[H3836\|לְבָנָ֣ה]] [[H0125\|אֲדַמְדֶּ֔מֶת]] [[H9003\|בְּ]][[H7146\|קָרַחְתּ֖]][[H9023\|וֹ]] [[H0176A\|א֣וֹ]] [[H9003\|בְ]][[H1372\|גַבַּחְתּ֑]][[H9023\|וֹ]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֥ה]] [[H6883\|צָרַ֖עַת]] [[H5785\|ע֥וֹר]] [[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.42|<< Leviticus 13:42]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.44|Leviticus 13:44 >>]]</td></tr></table>
 

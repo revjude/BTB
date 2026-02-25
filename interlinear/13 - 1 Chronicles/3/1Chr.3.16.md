@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 3:16
+type: Verse
+kjv: "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son."
+bsb: "The successors of Jehoiakim: Jeconiah his son, and Zedekiah."
+hebrew: "וּבְנֵ֖י יְהוֹיָקִ֑ים יְכָנְיָ֥ה בְנ֖וֹ צִדְקִיָּ֥ה בְנֽוֹ׃"
+pericope: "[[1Chr.3.10 The Descendants of Solomon|The Descendants of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3079]]"
+- "[[H3204]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6667I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:16**<big><big>[[1Chr.3.10 The Descendants of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
 <small><sub>**BSB:**</sub></small>
 The successors of Jehoiakim: Jeconiah his son, and Zedekiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֖י]] [[H3079\|יְהוֹיָקִ֑ים]] [[H3204\|יְכָנְיָ֥ה]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H6667I\|צִדְקִיָּ֥ה]] [[H1121A\|בְנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIACHIN|JEHOIACHIN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.15|<< 1 Chronicles 3:15]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.17|1 Chronicles 3:17 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Joshua 1:2
+type: Verse
+kjv: "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel."
+bsb: "“Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel."
+hebrew: "מֹשֶׁ֥ה עַבְדִּ֖י מֵ֑ת וְעַתָּה֩ ק֨וּם עֲבֹ֜ר אֶת־ הַיַּרְדֵּ֣ן הַזֶּ֗ה אַתָּה֙ וְכָל־ הָעָ֣ם הַזֶּ֔ה אֶל־ הָאָ֕רֶץ אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לָהֶ֖ם לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6965B]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H2088]]"
+- "[[H0859A]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:2**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, [even] to the children of Israel.
 <small><sub>**BSB:**</sub></small>
 “Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H4872\|מֹשֶׁ֥ה]] [[H5650\|עַבְדִּ֖]][[H9020\|י]] [[H4191\|מֵ֑ת]] [[H9002\|וְ]][[H6258\|עַתָּה֩]] [[H6965B\|ק֨וּם]] [[H5674A\|עֲבֹ֜ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֣ן]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H0859A\|אַתָּה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.1|<< Joshua 1:1]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.3|Joshua 1:3 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 12:6
+type: Verse
+kjv: "And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days."
+bsb: "And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days."
+greek: "καὶ ἡ γυνὴ ἔφυγεν εἰς τὴν ἔρημον, ὅπου ἔχει ἐκεῖ τόπον ἡτοιμασμένον ἀπὸ τοῦ θεοῦ, ἵνα ἐκεῖ τρέφωσιν αὐτὴν ἡμέρας χιλίας διακοσίας ἑξήκοντα.¶"
+pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G5343]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G3699]]"
+- "[[G2192]]"
+- "[[G1563]]"
+- "[[G5117]]"
+- "[[G2090]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G5142]]"
+- "[[G0846]]"
+- "[[G2250]]"
+- "[[G5507]]"
+- "[[G1250]]"
+- "[[G1835]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 12:6**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred [and] threescore days.
 <small><sub>**BSB:**</sub></small>
 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days.
-<small><sub>**Literal:**</sub></small>
-And the woman fled into the wilderness, where she has there a place prepared by <the> God, so that there they may feed her days one thousand two hundred sixty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.5|<< Revelation 12:5]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.7|Revelation 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G5343\|ἔφυγεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2048\|ἔρημον,]]  [[G3699\|ὅπου]]  [[G2192\|ἔχει]]  [[G1563\|ἐκεῖ]]  [[G5117\|τόπον]]  [[G2090\|ἡτοιμασμένον]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G1563\|ἐκεῖ]]  [[G5142\|τρέφωσιν]]  [[G0846\|αὐτὴν]]  [[G2250\|ἡμέρας]]  [[G5507\|χιλίας]]  [[G1250\|διακοσίας]]  [[G1835\|ἑξήκοντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic GOD|GOD]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.5|<< Revelation 12:5]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.7|Revelation 12:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:6** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]

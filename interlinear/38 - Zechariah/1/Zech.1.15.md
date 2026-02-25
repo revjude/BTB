@@ -1,8 +1,59 @@
+---
+title: Zechariah 1:15
+type: Verse
+kjv: "And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction."
+bsb: "but I am fiercely angry with the nations that are at ease. For I was a little angry, but they have added to the calamity.’"
+hebrew: "וְקֶ֤צֶף גָּדוֹל֙ אֲנִ֣י קֹצֵ֔ף עַל־ הַגּוֹיִ֖ם הַשַּֽׁאֲנַנִּ֑ים אֲשֶׁ֤ר אֲנִי֙ קָצַ֣פְתִּי מְּעָ֔ט וְהֵ֖מָּה עָזְר֥וּ לְרָעָֽה׃"
+pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H7110A]]"
+- "[[H1419A]]"
+- "[[H0589]]"
+- "[[H7107]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H7600]]"
+- "[[H0834A]]"
+- "[[H4592]]"
+- "[[H1992]]"
+- "[[H5826]]"
+- "[[H9005]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 1:15**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I am very sore displeased with the heathen [that are] at ease: for I was but a little displeased, and they helped forward the affliction.
 <small><sub>**BSB:**</sub></small>
 but I am fiercely angry with the nations that are at ease. For I was a little angry, but they have added to the calamity.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7110A\|קֶ֤צֶף]] [[H1419A\|גָּדוֹל֙]] [[H0589\|אֲנִ֣י]] [[H7107\|קֹצֵ֔ף]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H9009\|הַ]][[H7600\|שַּֽׁאֲנַנִּ֑ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H0589\|אֲנִי֙]] [[H7107\|קָצַ֣פְתִּי]] [[H4592\|מְּעָ֔ט]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H5826\|עָזְר֥וּ]] [[H9005\|לְ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.14|<< Zechariah 1:14]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.16|Zechariah 1:16 >>]]</td></tr></table>
 

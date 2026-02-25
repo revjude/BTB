@@ -1,8 +1,66 @@
+---
+title: Leviticus 9:17
+type: Verse
+kjv: "And he brought the meat offering, and took an handful thereof, and burnt it upon the altar, beside the burnt sacrifice of the morning."
+bsb: "Next he presented the grain offering, took a handful of it, and burned it on the altar in addition to the morning’s burnt offering."
+hebrew: "וַיַּקְרֵב֮ אֶת־ הַמִּנְחָה֒ וַיְמַלֵּ֤א כַפּוֹ֙ מִמֶּ֔נָּה וַיַּקְטֵ֖ר עַל־ הַמִּזְבֵּ֑חַ מִלְּבַ֖ד עֹלַ֥ת הַבֹּֽקֶר׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H4390]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H6999A]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5930A]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:17**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the meat offering, and took an handful thereof, and burnt [it] upon the altar, beside the burnt sacrifice of the morning.
 <small><sub>**BSB:**</sub></small>
 Next he presented the grain offering, took a handful of it, and burned it on the altar in addition to the morning’s burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרֵב֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָה֒]] [[H9001\|וַ]][[H4390\|יְמַלֵּ֤א]] [[H3709G\|כַפּ]][[H9023\|וֹ֙]] [[H4480A\|מִמֶּ֔]][[H9034\|נָּה]] [[H9001\|וַ]][[H6999A\|יַּקְטֵ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַ֖ד]] [[H5930A\|עֹלַ֥ת]] [[H9009\|הַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.16|<< Leviticus 9:16]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.18|Leviticus 9:18 >>]]</td></tr></table>
 

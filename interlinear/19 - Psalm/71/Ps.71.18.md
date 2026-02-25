@@ -1,8 +1,66 @@
+---
+title: Psalm 71:18
+type: Verse
+kjv: "Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come."
+bsb: "Even when I am old and gray, do not forsake me, O God, until I proclaim Your power to the next generation, Your might to all who are to come."
+hebrew: "וְגַ֤ם עַד־ זִקְנָ֨ה׀ וְשֵׂיבָה֮ אֱלֹהִ֪ים אַֽל־ תַּעַ֫זְבֵ֥נִי עַד־ אַגִּ֣יד זְרוֹעֲךָ֣ לְד֑וֹר לְכָל־ יָ֝ב֗וֹא גְּבוּרָתֶֽךָ׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2209]]"
+- "[[H9015]]"
+- "[[H7872]]"
+- "[[H0430G]]"
+- "[[H0408]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H5046]]"
+- "[[H2220]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H3605]]"
+- "[[H0935G]]"
+- "[[H1369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:18**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now also when I am old and grayheaded, O God, forsake me not; until I have shewed thy strength unto [this] generation, [and] thy power to every one [that] is to come.
 <small><sub>**BSB:**</sub></small>
 Even when I am old and gray, do not forsake me, O God, until I proclaim Your power to the next generation, Your might to all who are to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֤ם]] [[H5704\|עַד]][[H9014\|־]] [[H2209\|זִקְנָ֨ה]][[H9015\|׀]] [[H9002\|וְ]][[H7872\|שֵׂיבָה֮]] [[H0430G\|אֱלֹהִ֪ים]] [[H0408\|אַֽל]][[H9014\|־]] [[H5800A\|תַּעַ֫זְבֵ֥]][[H9030\|נִי]] [[H5704\|עַד]][[H9014\|־]] [[H5046\|אַגִּ֣יד]] [[H2220\|זְרוֹעֲ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H1755\|ד֑וֹר]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0935G\|יָ֝ב֗וֹא]] [[H1369\|גְּבוּרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLD AGE|OLD AGE]] • [[topic PRAYER|PRAYER]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.17|<< Psalms 71:17]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.19|Psalms 71:19 >>]]</td></tr></table>
 

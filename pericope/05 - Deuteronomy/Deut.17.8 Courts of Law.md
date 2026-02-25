@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Courts of Law
+type: Pericope
 pericope: "[[Deut.17.8 Courts of Law|Courts of Law]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 17
 book/chapter: "[[Deut.17|Deuteronomy 17]]"
-genre:
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.17.8]]"
 - "[[Deut.17.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.17.13]]"
 ---
 
-[[Deut.17|Deuteronomy 17:8 - Deuteronomy 17:13]]
+<small>[[Deut.17|Deuteronomy 17:8-13]]</small>
 *Courts of Law*
 
 [[Deut.17.8|8]] If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, \[being\] matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;

@@ -1,8 +1,61 @@
+---
+title: Jeremiah 41:17
+type: Verse
+kjv: "And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,"
+bsb: "And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed into Egypt"
+hebrew: "וַיֵּלְכ֗וּ וַיֵּֽשְׁבוּ֙ בְּגֵר֣וּת כִּמְהָ֔ם אֲשֶׁר־ אֵ֖צֶל בֵּ֣ית לָ֑חֶם לָלֶ֖כֶת לָב֥וֹא מִצְרָֽיִם׃"
+pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic CHIMHAM|CHIMHAM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1628]]"
+- "[[H3644G]]"
+- "[[H9038]]"
+- "[[H3644H]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0681]]"
+- "[[H1035G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 41:17**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,
 <small><sub>**BSB:**</sub></small>
 And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed into Egypt
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֗וּ]] [[H9001\|וַ]][[H3427\|יֵּֽשְׁבוּ֙]] [[H9003\|בְּ]][[H1628\|גֵר֣וּת]] [[H3644H\|כִּמְהָ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0681\|אֵ֖צֶל]] [[H1035G\|בֵּ֣ית]] [[H1035G\|לָ֑חֶם]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H9005\|לָ]][[H0935G\|ב֥וֹא]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic CHIMHAM|CHIMHAM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.16|<< Jeremiah 41:16]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.18|Jeremiah 41:18 >>]]</td></tr></table>
 
@@ -21,6 +74,6 @@ And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed 
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.16|<< Jeremiah 41:16]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.18|Jeremiah 41:18 >>]]</td></tr></table>
 
-[^1]: like them  | **<big>[[H9038|הֶם]]</big><big>[[H3644G|כְּמוֹ]]</big> ** | khe.mo.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: like them  | **<big>[[H3644G|כְּמוֹ]]</big><big>[[H9038|הֶם]]</big> ** | khe.mo.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>כִּמְוהָ֔ם</big></span>**
 

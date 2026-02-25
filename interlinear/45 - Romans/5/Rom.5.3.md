@@ -1,10 +1,59 @@
+---
+title: Romans 5:3
+type: Verse
+kjv: "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;"
+bsb: "Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance;"
+greek: "οὐ μόνον δέ, ἀλλὰ καὶ καυχώμεθα ἐν ταῖς θλίψεσιν εἰδότες ὅτι ἡ θλῖψις ὑπομονὴν κατεργάζεται,"
+pericope: "[[Rom.5.1 The Triumph of Faith|The Triumph of Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G2744]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2347]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G5281]]"
+- "[[G2716]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Romans 5:3**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not only [so], but we glory in tribulations also: knowing that tribulation worketh patience;
 <small><sub>**BSB:**</sub></small>
 Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance;
-<small><sub>**Literal:**</sub></small>
-Not only [so] now, but also we glory in <the> tribulations knowing that <the> tribulation perseverance produces,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.2|<< Romans 5:2]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.4|Romans 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δέ,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G2744\|καυχώμεθα]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2347\|θλίψεσιν]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G2347\|θλῖψις]]  [[G5281\|ὑπομονὴν]]  [[G2716\|κατεργάζεται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GRACES|GRACES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOPE|HOPE]] • [[topic PATIENCE|PATIENCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.2|<< Romans 5:2]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.4|Romans 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

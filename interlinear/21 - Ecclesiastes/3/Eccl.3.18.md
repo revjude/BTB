@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 3:18
+type: Verse
+kjv: "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+bsb: "I said to myself, “As for the sons of men, God tests them so that they may see for themselves that they are but beasts.”"
+hebrew: "אָמַ֤רְתִּֽי אֲנִי֙ בְּלִבִּ֔י עַל־ דִּבְרַת֙ בְּנֵ֣י הָאָדָ֔ם לְבָרָ֖ם הָאֱלֹהִ֑ים וְלִרְא֕וֹת שְׁהֶם־ בְּהֵמָ֥ה הֵ֖מָּה לָהֶֽם׃"
+pericope: "[[Eccl.3.16 From Dust to Dust|From Dust to Dust]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1700]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H1305]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9007]]"
+- "[[H1992]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:18**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 <small><sub>**BSB:**</sub></small>
 I said to myself, “As for the sons of men, God tests them so that they may see for themselves that they are but beasts.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֤רְתִּֽי]] [[H0589\|אֲנִי֙]] [[H9003\|בְּ]][[H3820A\|לִבִּ֔]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H1700\|דִּבְרַת֙]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הָ]][[H0120G\|אָדָ֔ם]] [[H9005\|לְ]][[H1305\|בָרָ֖]][[H9038\|ם]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H9005\|לִ]][[H7200G\|רְא֕וֹת]] [[H9007\|שְׁ]][[H1992\|הֶם]][[H9014\|־]] [[H0929\|בְּהֵמָ֥ה]] [[H1992\|הֵ֖מָּה]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.17|<< Ecclesiastes 3:17]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.19|Ecclesiastes 3:19 >>]]</td></tr></table>
 

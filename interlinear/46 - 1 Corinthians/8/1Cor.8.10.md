@@ -1,10 +1,69 @@
+---
+title: 1 Corinthians 8:10
+type: Verse
+kjv: "For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;"
+bsb: "For if someone with a weak conscience sees you who are well informed eating in an idol’s temple, will he not be encouraged to eat food sacrificed to idols?"
+greek: "ἐὰν γάρ τις ἴδῃ σὲ τὸν ἔχοντα γνῶσιν ἐν εἰδωλείῳ κατακείμενον, οὐχὶ ἡ συνείδησις αὐτοῦ ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ τὰ εἰδωλόθυτα ἐσθίειν;"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1437]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G1492H]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G1108]]"
+- "[[G1722]]"
+- "[[G1493]]"
+- "[[G2621]]"
+- "[[G3780]]"
+- "[[G4893]]"
+- "[[G0846]]"
+- "[[G0772G]]"
+- "[[G1510]]"
+- "[[G3618]]"
+- "[[G1519]]"
+- "[[G1494]]"
+- "[[G2068]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 8:10**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 <small><sub>**BSB:**</sub></small>
 For if someone with a weak conscience sees you who are well informed eating in an idol’s temple, will he not be encouraged to eat food sacrificed to idols?
-<small><sub>**Literal:**</sub></small>
-If for anyone shall see you who is having knowledge in an idol’s temple eating, surely the conscience of him weak being he will be encouraged <to>  <the> the idol-sacrifices to eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.9|<< 1 Corinthians 8:9]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.11|1 Corinthians 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1063\|γάρ]]  [[G5100\|τις]]  [[G1492H\|ἴδῃ]]  [[G4771\|σὲ]]  [[G3588\|τὸν]]  [[G2192\|ἔχοντα]]  [[G1108\|γνῶσιν]]  [[G1722\|ἐν]]  [[G1493\|εἰδωλείῳ]]  [[G2621\|κατακείμενον,]]  [[G3780\|οὐχὶ]]  [[G3588\|ἡ]]  [[G4893\|συνείδησις]]  [[G0846\|αὐτοῦ]]  [[G0772G\|ἀσθενοῦς]]  [[G1510\|ὄντος]]  [[G3618\|οἰκοδομηθήσεται]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3588\|τὰ]]  [[G1494\|εἰδωλόθυτα]]  [[G2068\|ἐσθίειν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXAMPLE|EXAMPLE]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.9|<< 1 Corinthians 8:9]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.11|1 Corinthians 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

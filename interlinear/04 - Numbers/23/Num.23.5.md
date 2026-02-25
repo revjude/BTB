@@ -1,8 +1,61 @@
+---
+title: Numbers 23:5
+type: Verse
+kjv: "And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak."
+bsb: "Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and give him this message.”"
+hebrew: "וַיָּ֧שֶׂם יְהוָ֛ה דָּבָ֖ר בְּפִ֣י בִלְעָ֑ם וַיֹּ֛אמֶר שׁ֥וּב אֶל־ בָּלָ֖ק וְכֹ֥ה תְדַבֵּֽר׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H3068G]]"
+- "[[H1697G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H1109A]]"
+- "[[H0559]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H9002]]"
+- "[[H3541]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:5**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak.
 <small><sub>**BSB:**</sub></small>
 Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and give him this message.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760H\|יָּ֧שֶׂם]] [[H3068G\|יְהוָ֛ה]] [[H1697G\|דָּבָ֖ר]] [[H9003\|בְּ]][[H6310G\|פִ֣י]] [[H1109A\|בִלְעָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H7725G\|שׁ֥וּב]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֖ק]] [[H9002\|וְ]][[H3541\|כֹ֥ה]] [[H1696G\|תְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.4|<< Numbers 23:4]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.6|Numbers 23:6 >>]]</td></tr></table>
 

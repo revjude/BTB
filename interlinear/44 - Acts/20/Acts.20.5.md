@@ -1,10 +1,53 @@
+---
+title: Acts 20:5
+type: Verse
+kjv: "These going before tarried for us at Troas."
+bsb: "These men went on ahead and waited for us in Troas."
+greek: "οὗτοι δὲ προελθόντες ἔμενον ἡμᾶς ἐν Τρῳάδι·"
+pericope: "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic SECUNDUS|SECUNDUS]]"
+- "[[topic TROAS|TROAS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G4281]]"
+- "[[G3306]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G5174]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Acts 20:5**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These going before tarried for us at Troas.
 <small><sub>**BSB:**</sub></small>
 These men went on ahead and waited for us in Troas.
-<small><sub>**Literal:**</sub></small>
-These also having gone ahead were awaiting us in Troas;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.4|<< Acts 20:4]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.6|Acts 20:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G1161\|δὲ]]  [[G4281\|προελθόντες]]  [[G3306\|ἔμενον]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G5174\|Τρῳάδι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MACEDONIA|MACEDONIA]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic SECUNDUS|SECUNDUS]] • [[topic TROAS|TROAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.4|<< Acts 20:4]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.6|Acts 20:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

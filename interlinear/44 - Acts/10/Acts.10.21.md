@@ -1,10 +1,60 @@
+---
+title: Acts 10:21
+type: Verse
+kjv: "Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?"
+bsb: "So Peter went down to the men and said, “Here am I, the one you are looking for. Why have you come?”"
+greek: "καταβὰς δὲ Πέτρος πρὸς τοὺς ἄνδρας τοὺς ἀπεσταλμενοῦς ἀπὸ τοῦ Κορνηλίου πρὸς αὑτὸν, εἶπεν· ἰδοὺ ἐγώ εἰμι ὃν ζητεῖτε· τίς ἡ αἰτία δι᾽ ἣν πάρεστε;"
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+strongs:
+- "[[G2597]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G0649]]"
+- "[[G0575]]"
+- "[[G2883]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2212]]"
+- "[[G5101]]"
+- "[[G0156]]"
+- "[[G1223]]"
+- "[[G3918]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 10:21**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what [is] the cause wherefore ye are come?
 <small><sub>**BSB:**</sub></small>
 So Peter went down to the men and said, “Here am I, the one you are looking for. Why have you come?”
-<small><sub>**Literal:**</sub></small>
-Having gone down then Peter to the men who sent from <the> Cornelius to him he said; Behold I myself am whom you seek; what [is] the cause for which you are here?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.20|<< Acts 10:20]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.22|Acts 10:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2597\|καταβὰς]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0435G\|ἄνδρας]]  [[G3588\|τοὺς]]  [[G0649\|ἀπεσταλμενοῦς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2883\|Κορνηλίου]]  [[G4314\|πρὸς]]  [[G0846\|αὑτὸν,]]  [[G2036\|εἶπεν·]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3739\|ὃν]]  [[G2212\|ζητεῖτε·]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G0156\|αἰτία]]  [[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G3918\|πάρεστε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.20|<< Acts 10:20]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.22|Acts 10:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

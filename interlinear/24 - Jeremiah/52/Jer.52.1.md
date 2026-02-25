@@ -1,8 +1,65 @@
+---
+title: Jeremiah 52:1
+type: Verse
+kjv: "Zedekiah was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name was Hamutal the daughter of Jeremiah of Libnah."
+bsb: "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְאַחַ֤ת שָׁנָה֙ צִדְקִיָּ֣הוּ בְמָלְכ֔וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירֽוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ חֲמוּטַ֥ל בַּֽת־ יִרְמְיָ֖הוּ מִלִּבְנָֽה׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HAMUTAL|HAMUTAL]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H8141]]"
+- "[[H6667H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H2537]]"
+- "[[H1323G]]"
+- "[[H3414G]]"
+- "[[H9006]]"
+- "[[H3841H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 52:1**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zedekiah [was] one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name [was] Hamutal the daughter of Jeremiah of Libnah.
 <small><sub>**BSB:**</sub></small>
 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H8141\|שָׁנָה֙]] [[H6667H\|צִדְקִיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H2537\|חֲמוּטַ֥ל]] [[H1323G\|בַּֽת]][[H9014\|־]] [[H3414G\|יִרְמְיָ֖הוּ]] [[H9006\|מִ]][[H3841H\|לִּבְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMUTAL|HAMUTAL]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.64|<< Jeremiah 51:64]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.2|Jeremiah 52:2 >>]]</td></tr></table>
 

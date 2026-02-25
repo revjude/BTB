@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Edom and Libnah Rebel
+type: Pericope
 pericope: "[[2Chr.21.8 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 21
 book/chapter: "[[2Chr.21|2 Chronicles 21]]"
-genre:
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.21.8]]"
 - "[[2Chr.21.9]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.21.11]]"
 ---
 
-[[2Chr.21|2 Chronicles 21:8 - 2 Chronicles 21:11]]
+<small>[[2Chr.21|2 Chronicles 21:8-11]]</small>
 *Edom and Libnah Rebel*
 
 [[2Chr.21.8|8]] In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.

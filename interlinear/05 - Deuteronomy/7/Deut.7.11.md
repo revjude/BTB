@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 7:11
+type: Verse
+kjv: "Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them."
+bsb: "So keep the commandments and statutes and ordinances that I am giving you to follow this day."
+hebrew: "וְשָׁמַרְתָּ֨ אֶת־ הַמִּצְוָ֜ה וְאֶת־ הַֽחֻקִּ֣ים וְאֶת־ הַמִּשְׁפָּטִ֗ים אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לַעֲשׂוֹתָֽם׃ פ"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+strongs:
+- "[[H9001]]"
+- "[[H8104J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:11**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them.
 <small><sub>**BSB:**</sub></small>
 So keep the commandments and statutes and ordinances that I am giving you to follow this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104J\|שָׁמַרְתָּ֨]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֜ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2706G\|חֻקִּ֣ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֧י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֛]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹתָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.10|<< Deuteronomy 7:10]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.12|Deuteronomy 7:12 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ So keep the commandments and statutes and ordinances that I am giving you to fol
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֧י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] commanding you  |**<big>&#8207;[[H6680\|מְצַוְּ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| me.tza.ve.<small><sup>[[HVprmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to observe them  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.so.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to observe them  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.so.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.10|<< Deuteronomy 7:10]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.12|Deuteronomy 7:12 >>]]</td></tr></table>
 
 

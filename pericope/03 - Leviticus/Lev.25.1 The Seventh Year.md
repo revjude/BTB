@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Year
+type: Pericope
 pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.25.1]]"
 - "[[Lev.25.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.25.7]]"
 ---
 
-[[Lev.25|Leviticus 25:1 - Leviticus 25:7]]
+<small>[[Lev.25|Leviticus 25:1-7]]</small>
 *The Seventh Year*
 
 [[Lev.25.1|1]] And the LORD spake unto Moses in mount Sinai, saying,

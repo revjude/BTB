@@ -1,8 +1,72 @@
+---
+title: Esther 7:9
+type: Verse
+kjv: "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon."
+bsb: "Then Harbonah, one of the eunuchs attending the king, said: “There is a gallows fifty cubits high at Haman’s house. He had it built for Mordecai, who gave the report that saved the king.” “Hang him on it!” declared the king."
+hebrew: "וַיֹּ֣אמֶר חַ֠רְבוֹנָה אֶחָ֨ד מִן־ הַסָּרִיסִ֜ים לִפְנֵ֣י הַמֶּ֗לֶךְ גַּ֣ם הִנֵּה־ הָעֵ֣ץ אֲשֶׁר־ עָשָׂ֪ה הָמָ֟ן לְֽמָרְדֳּכַ֞י אֲשֶׁ֧ר דִּבֶּר־ ט֣וֹב עַל־ הַמֶּ֗לֶךְ עֹמֵד֙ בְּבֵ֣ית הָמָ֔ן גָּבֹ֖הַּ חֲמִשִּׁ֣ים אַמָּ֑ה וַיֹּ֥אמֶר הַמֶּ֖לֶךְ תְּלֻ֥הוּ עָלָֽיו׃"
+pericope: "[[Esth.7.7 The Hanging of Haman|The Hanging of Haman]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic GALLOWS|GALLOWS]]"
+- "[[topic HARBONA|HARBONA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2726H]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5631]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H1571]]"
+- "[[H2009]]"
+- "[[H6086J]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H2001]]"
+- "[[H4782H]]"
+- "[[H1696G]]"
+- "[[H2896A]]"
+- "[[H5921A]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H1364]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H8518]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 7:9**<big><big>[[Esth.7.7 The Hanging of Haman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.
 <small><sub>**BSB:**</sub></small>
 Then Harbonah, one of the eunuchs attending the king, said: “There is a gallows fifty cubits high at Haman’s house. He had it built for Mordecai, who gave the report that saved the king.” “Hang him on it!” declared the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2726H\|חַ֠רְבוֹנָה]] [[H0259\|אֶחָ֨ד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5631\|סָּרִיסִ֜ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H1571\|גַּ֣ם]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H9009\|הָ]][[H6086J\|עֵ֣ץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֪ה]] [[H2001\|הָמָ֟ן]] [[H9005\|לְֽ]][[H4782H\|מָרְדֳּכַ֞י]] [[H0834A\|אֲשֶׁ֧ר]] [[H1696G\|דִּבֶּר]][[H9014\|־]] [[H2896A\|ט֣וֹב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H5975G\|עֹמֵד֙]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H2001\|הָמָ֔ן]] [[H1364\|גָּבֹ֖הַּ]] [[H2572\|חֲמִשִּׁ֣ים]] [[H0520A\|אַמָּ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H8518\|תְּלֻ֥]][[H9033\|הוּ]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLOWS|GALLOWS]] • [[topic HARBONA|HARBONA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.8|<< Esther 7:8]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.10|Esther 7:10 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: 1 Kings 14:1
+type: Verse
+kjv: "At that time Abijah the son of Jeroboam fell sick."
+bsb: "At that time Abijah son of Jeroboam became ill,"
+hebrew: "בָּעֵ֣ת הַהִ֔יא חָלָ֖ה אֲבִיָּ֥ה בֶן־ יָרָבְעָֽם׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2470H]]"
+- "[[H0029H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3379G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:1**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time Abijah the son of Jeroboam fell sick.
 <small><sub>**BSB:**</sub></small>
 At that time Abijah son of Jeroboam became ill,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H2470H\|חָלָ֖ה]] [[H0029H\|אֲבִיָּ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H3379G\|יָרָבְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic JEROBOAM|JEROBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.34|<< 1 Kings 13:34]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.2|1 Kings 14:2 >>]]</td></tr></table>
 

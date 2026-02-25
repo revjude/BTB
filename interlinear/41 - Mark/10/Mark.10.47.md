@@ -1,10 +1,63 @@
+---
+title: Mark 10:47
+type: Verse
+kjv: "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me."
+bsb: "When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!”"
+greek: "καὶ ἀκούσας ὅτι Ἰησοῦς ὁ Ναζαρηνός ἐστιν, ἤρξατο κράζειν καὶ λέγειν· ὁ υἱὲ Δαυὶδ Ἰησοῦ, ἐλέησόν με."
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G3479]]"
+- "[[G1510]]"
+- "[[G0757]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G1653]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 10:47**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, [thou] Son of David, have mercy on me.
 <small><sub>**BSB:**</sub></small>
 When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!”
-<small><sub>**Literal:**</sub></small>
-And having heard that Jesus <the> of Nazareth it is, he began to cry out and to say; O Son of David Jesus, do have mercy on me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.46|<< Mark 10:46]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.48|Mark 10:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἀκούσας]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3479\|Ναζαρηνός]]  [[G1510\|ἐστιν,]]  [[G0757\|ἤρξατο]]  [[G2896\|κράζειν]]  [[G2532\|καὶ]]  [[G3004G\|λέγειν·]]  [[G3588\|ὁ]]  [[G5207\|υἱὲ]]  [[G1138\|Δαυὶδ]]  [[G2424G\|Ἰησοῦ,]]  [[G1653\|ἐλέησόν]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NAZARETH|NAZARETH]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.46|<< Mark 10:46]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.48|Mark 10:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

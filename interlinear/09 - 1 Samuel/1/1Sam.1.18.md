@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 1:18
+type: Verse
+kjv: "And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more sad."
+bsb: "“May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast."
+hebrew: "וַתֹּ֕אמֶר תִּמְצָ֧א שִׁפְחָתְךָ֛ חֵ֖ן בְּעֵינֶ֑יךָ וַתֵּ֨לֶךְ הָאִשָּׁ֤ה לְדַרְכָּהּ֙ וַתֹּאכַ֔ל וּפָנֶ֥יהָ לֹא־ הָיוּ־ לָ֖הּ עֽוֹד׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4672]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9005]]"
+- "[[H1870L]]"
+- "[[H9024]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9034]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:18**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more [sad].
 <small><sub>**BSB:**</sub></small>
 “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began to eat, and her face was no longer downcast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H4672\|תִּמְצָ֧א]] [[H8198\|שִׁפְחָתְ]][[H9021\|ךָ֛]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H1980G\|תֵּ֨לֶךְ]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֤ה]] [[H9005\|לְ]][[H1870L\|דַרְכָּ]][[H9024\|הּ֙]] [[H9001\|וַ]][[H0398\|תֹּאכַ֔ל]] [[H9002\|וּ]][[H6440H\|פָנֶ֥י]][[H9024\|הָ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיוּ]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic ELI|ELI]] • [[topic HANNAH|HANNAH]] • [[topic SAMUEL|SAMUEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.17|<< 1 Samuel 1:17]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.19|1 Samuel 1:19 >>]]</td></tr></table>
 

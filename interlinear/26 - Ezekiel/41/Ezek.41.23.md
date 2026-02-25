@@ -1,8 +1,46 @@
+---
+title: Ezekiel 41:23
+type: Verse
+kjv: "And the temple and the sanctuary had two doors."
+bsb: "Both the outer sanctuary and the inner sanctuary had double doors,"
+hebrew: "וּשְׁתַּ֧יִם דְּלָת֛וֹת לַֽהֵיכָ֖ל וְלַקֹּֽדֶשׁ׃"
+pericope: "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H1817C]]"
+- "[[H9005]]"
+- "[[H1964I]]"
+- "[[H6944J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:23**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the temple and the sanctuary had two doors.
 <small><sub>**BSB:**</sub></small>
 Both the outer sanctuary and the inner sanctuary had double doors,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתַּ֧יִם]] [[H1817C\|דְּלָת֛וֹת]] [[H9005\|לַֽ]][[H1964I\|הֵיכָ֖ל]] [[H9002\|וְ]][[H9005\|לַ]][[H6944J\|קֹּֽדֶשׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.22|<< Ezekiel 41:22]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.24|Ezekiel 41:24 >>]]</td></tr></table>
 

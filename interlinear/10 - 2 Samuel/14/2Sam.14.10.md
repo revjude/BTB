@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 14:10
+type: Verse
+kjv: "And the king said, Whosoever saith ought unto thee, bring him to me, and he shall not touch thee any more."
+bsb: "“If anyone speaks to you,” said the king, “bring him to me, and he will not trouble you again!”"
+hebrew: "וַיֹּ֖אמֶר הַמֶּ֑לֶךְ הַֽמְדַבֵּ֤ר אֵלַ֙יִךְ֙ וַֽהֲבֵאת֣וֹ אֵלַ֔י וְלֹֽא־ יֹסִ֥יף ע֖וֹד לָגַ֥עַת בָּֽךְ׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:10**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, Whosoever saith [ought] unto thee, bring him to me, and he shall not touch thee any more.
 <small><sub>**BSB:**</sub></small>
 “If anyone speaks to you,” said the king, “bring him to me, and he will not trouble you again!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9009\|הַֽ]][[H1696G\|מְדַבֵּ֤ר]] [[H0413\|אֵלַ֙יִ]][[H9032\|ךְ֙]] [[H9001\|וַֽ]][[H0935P\|הֲבֵאת֣]][[H9033\|וֹ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יֹסִ֥יף]] [[H5750\|ע֖וֹד]] [[H9005\|לָ]][[H5060\|גַ֥עַת]] [[H9003\|בָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PARABLES|PARABLES]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.9|<< 2 Samuel 14:9]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.11|2 Samuel 14:11 >>]]</td></tr></table>
 

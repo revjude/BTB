@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 19:8
+type: Verse
+kjv: "And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him."
+bsb: "When war broke out again, David went out and fought the Philistines and struck them with such a mighty blow that they fled before him."
+hebrew: "וַתּ֥וֹסֶף הַמִּלְחָמָ֖ה לִֽהְי֑וֹת וַיֵּצֵ֨א דָוִ֜ד וַיִּלָּ֣חֶם בַּפְּלִשְׁתִּ֗ים וַיַּ֤ךְ בָּהֶם֙ מַכָּ֣ה גְדוֹלָ֔ה וַיָּנֻ֖סוּ מִפָּנָֽיו׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H3318G]]"
+- "[[H1732]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H6430G]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H4347]]"
+- "[[H1419A]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:8**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.
 <small><sub>**BSB:**</sub></small>
 When war broke out again, David went out and fought the Philistines and struck them with such a mighty blow that they fled before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|תּ֥וֹסֶף]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9005\|לִֽ]][[H1961\|הְי֑וֹת]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H1732\|דָוִ֜ד]] [[H9001\|וַ]][[H3898A\|יִּלָּ֣חֶם]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּ֗ים]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H9003\|בָּ]][[H9038\|הֶם֙]] [[H4347\|מַכָּ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H9001\|וַ]][[H5127\|יָּנֻ֖סוּ]] [[H9006\|מִ]][[H6440G\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.7|<< 1 Samuel 19:7]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.9|1 Samuel 19:9 >>]]</td></tr></table>
 

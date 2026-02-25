@@ -1,8 +1,60 @@
+---
+title: Isaiah 38:11
+type: Verse
+kjv: "I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world."
+bsb: "I said, “I will never again see the LORD, even the LORD, in the land of the living; I will no longer look on mankind with those who dwell in this world."
+hebrew: "אָמַ֙רְתִּי֙ לֹא־ אֶרְאֶ֣ה יָ֔הּ יָ֖הּ בְּאֶ֣רֶץ הַחַיִּ֑ים לֹא־ אַבִּ֥יט אָדָ֛ם ע֖וֹד עִם־ י֥וֹשְׁבֵי חָֽדֶל׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H3050]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H5027]]"
+- "[[H0120G]]"
+- "[[H5750]]"
+- "[[H5973A]]"
+- "[[H3427]]"
+- "[[H2309]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:11**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, I shall not see the LORD, [even] the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.
 <small><sub>**BSB:**</sub></small>
 I said, “I will never again see the LORD, even the LORD, in the land of the living; I will no longer look on mankind with those who dwell in this world.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֙רְתִּי֙]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|אֶרְאֶ֣ה]] [[H3050\|יָ֔הּ]] [[H3050\|יָ֖הּ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H2416A\|חַיִּ֑ים]] [[H3808\|לֹא]][[H9014\|־]] [[H5027\|אַבִּ֥יט]] [[H0120G\|אָדָ֛ם]] [[H5750\|ע֖וֹד]] [[H5973A\|עִם]][[H9014\|־]] [[H3427\|י֥וֹשְׁבֵי]] [[H2309\|חָֽדֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.10|<< Isaiah 38:10]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.12|Isaiah 38:12 >>]]</td></tr></table>
 

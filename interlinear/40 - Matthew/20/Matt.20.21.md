@@ -1,10 +1,70 @@
+---
+title: Matthew 20:21
+type: Verse
+kjv: "And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom."
+bsb: "“What do you want?” He inquired. She answered, “Declare that in Your kingdom one of these two sons of mine may sit at Your right hand, and the other at Your left.”"
+jesus_said: "What wilt thou?"
+greek: "Ὁ δὲ εἶπεν αὐτῇ· τί θέλεις; λέγει αὐτῷ· εἰπὲ ἵνα καθίσωσιν οὗτοι οἱ δύο υἱοί μου εἷς ἐκ δεξιῶν σου καὶ εἷς ἐξ εὐωνύμων σου ἐν τῇ βασιλείᾳ σου.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SALOME|SALOME]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G2309]]"
+- "[[G3004G]]"
+- "[[G2443]]"
+- "[[G2523]]"
+- "[[G3778]]"
+- "[[G1417]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2176]]"
+- "[[G1722]]"
+- "[[G0932]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 20:21**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
 <small><sub>**BSB:**</sub></small>
 “What do you want?” He inquired. She answered, “Declare that in Your kingdom one of these two sons of mine may sit at Your right hand, and the other at Your left.”
-<small><sub>**Literal:**</sub></small>
-<the> And He said to her; What do you desire? She says to Him; do say that may sit these <the> two sons of mine one on [the] right hand of You and one on [the] left hand of You in the kingdom of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.20|<< Matthew 20:20]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.22|Matthew 20:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G5101\|τί]]  [[G2309\|θέλεις;]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2036\|εἰπὲ]]  [[G2443\|ἵνα]]  [[G2523\|καθίσωσιν]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G5207\|υἱοί]]  [[G3165\|μου]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G2176\|εὐωνύμων]]  [[G4771\|σου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic SALOME|SALOME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.20|<< Matthew 20:20]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.22|Matthew 20:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

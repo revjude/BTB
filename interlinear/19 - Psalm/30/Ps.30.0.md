@@ -1,6 +1,45 @@
+---
+title: Psalm 30:0
+type: Verse
+kjv: "A Psalm and Song at the dedication of the house of David."
+hebrew: "מִזְמ֡וֹר שִׁיר־ חֲנֻכַּ֖ת הַבַּ֣יִת לְדָוִֽד׃"
+pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4210]]"
+- "[[H7892A]]"
+- "[[H9014]]"
+- "[[H2598]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 30:0**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Psalm [and] Song [at] the dedication of the house of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H4210\|מִזְמ֡וֹר]] [[H7892A\|שִׁיר]][[H9014\|־]] [[H2598\|חֲנֻכַּ֖ת]] [[H9009\|הַ]][[H1004B\|בַּ֣יִת]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.11|<< Psalms 29:11]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.1|Psalms 30:1 >>]]</td></tr></table>
 

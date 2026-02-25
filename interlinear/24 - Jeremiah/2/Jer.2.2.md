@@ -1,8 +1,70 @@
+---
+title: Jeremiah 2:2
+type: Verse
+kjv: "Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown."
+bsb: "“Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your youth, your love as a bride, how you followed Me in the wilderness, in a land not sown."
+hebrew: "הָלֹ֡ךְ וְקָֽרָאתָ֩ בְאָזְנֵ֨י יְרוּשָׁלִַ֜ם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה זָכַ֤רְתִּי לָךְ֙ חֶ֣סֶד נְעוּרַ֔יִךְ אַהֲבַ֖ת כְּלוּלֹתָ֑יִךְ לֶכְתֵּ֤ךְ אַחֲרַי֙ בַּמִּדְבָּ֔ר בְּאֶ֖רֶץ לֹ֥א זְרוּעָֽה׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DESERT|DESERT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H2142]]"
+- "[[H9032]]"
+- "[[H2617A]]"
+- "[[H5271A]]"
+- "[[H9022]]"
+- "[[H0160]]"
+- "[[H3623]]"
+- "[[H1980N]]"
+- "[[H9042]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H4057B]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:2**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land [that was] not sown.
 <small><sub>**BSB:**</sub></small>
 “Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your youth, your love as a bride, how you followed Me in the wilderness, in a land not sown.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|הָלֹ֡ךְ]] [[H9001\|וְ]][[H7121I\|קָֽרָאתָ֩]] [[H9003\|בְ]][[H0241H\|אָזְנֵ֨י]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2142\|זָכַ֤רְתִּי]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H2617A\|חֶ֣סֶד]] [[H5271A\|נְעוּרַ֔יִ]][[H9022\|ךְ]] [[H0160\|אַהֲבַ֖ת]] [[H3623\|כְּלוּלֹתָ֑יִ]][[H9022\|ךְ]] [[H1980N\|לֶכְתֵּ֤]][[H9042\|ךְ]] [[H0310A\|אַחֲרַ]][[H9030\|י֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H3808\|לֹ֥א]] [[H2232\|זְרוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESERT|DESERT]] • [[topic ISRAEL|ISRAEL]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 

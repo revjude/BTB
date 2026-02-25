@@ -1,8 +1,73 @@
+---
+title: 2 Kings 7:10
+type: Verse
+kjv: "So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were."
+bsb: "So they went and called out to the gatekeepers of the city, saying, “We went to the Aramean camp and no one was there—not a trace—only tethered horses and donkeys, and the tents were intact.”"
+hebrew: "וַיָּבֹ֗אוּ וַֽיִּקְרְאוּ֮ אֶל־ שֹׁעֵ֣ר הָעִיר֒ וַיַּגִּ֤ידוּ לָהֶם֙ לֵאמֹ֔ר בָּ֚אנוּ אֶל־ מַחֲנֵ֣ה אֲרָ֔ם וְהִנֵּ֥ה אֵֽין־ שָׁ֛ם אִ֖ישׁ וְק֣וֹל אָדָ֑ם כִּ֣י אִם־ הַסּ֤וּס אָסוּר֙ וְהַחֲמ֣וֹר אָס֔וּר וְאֹהָלִ֖ים כַּאֲשֶׁר־ הֵֽמָּה׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7778]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H4264]]"
+- "[[H0758I]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H8033G]]"
+- "[[H0376I]]"
+- "[[H6963L]]"
+- "[[H0120G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H5483M]]"
+- "[[H0631]]"
+- "[[H2543]]"
+- "[[H0168G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:10**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, [there was] no man there, neither voice of man, but horses tied, and asses tied, and the tents as they [were].
 <small><sub>**BSB:**</sub></small>
 So they went and called out to the gatekeepers of the city, saying, “We went to the Aramean camp and no one was there—not a trace—only tethered horses and donkeys, and the tents were intact.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֗אוּ]] [[H9001\|וַֽ]][[H7121G\|יִּקְרְאוּ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H7778\|שֹׁעֵ֣ר]] [[H9009\|הָ]][[H5892B\|עִיר֒]] [[H9001\|וַ]][[H5046\|יַּגִּ֤ידוּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935G\|בָּ֚אנוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H0758I\|אֲרָ֔ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H0369\|אֵֽין]][[H9014\|־]] [[H8033G\|שָׁ֛ם]] [[H0376I\|אִ֖ישׁ]] [[H9002\|וְ]][[H6963L\|ק֣וֹל]] [[H0120G\|אָדָ֑ם]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּ֤וּס]] [[H0631\|אָסוּר֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2543\|חֲמ֣וֹר]] [[H0631\|אָס֔וּר]] [[H9002\|וְ]][[H0168G\|אֹהָלִ֖ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.9|<< 2 Kings 7:9]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.11|2 Kings 7:11 >>]]</td></tr></table>
 

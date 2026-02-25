@@ -1,8 +1,67 @@
+---
+title: Joshua 11:11
+type: Verse
+kjv: "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
+bsb: "The Israelites put everyone in Hazor to the sword, devoting them to destruction. Nothing that breathed remained, and Joshua burned down Hazor itself."
+hebrew: "וַ֠יַּכּוּ אֶת־ כָּל־ הַנֶּ֨פֶשׁ אֲשֶׁר־ בָּ֤הּ לְפִי־ חֶ֙רֶב֙ הַֽחֲרֵ֔ם לֹ֥א נוֹתַ֖ר כָּל־ נְשָׁמָ֑ה וְאֶת־ חָצ֖וֹר שָׂרַ֥ף בָּאֵֽשׁ׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H2763A]]"
+- "[[H3808]]"
+- "[[H3498]]"
+- "[[H5397]]"
+- "[[H9002]]"
+- "[[H2674G]]"
+- "[[H8313]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:11**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote all the souls that [were] therein with the edge of the sword, utterly destroying [them]: there was not any left to breathe: and he burnt Hazor with fire.
 <small><sub>**BSB:**</sub></small>
 The Israelites put everyone in Hazor to the sword, devoting them to destruction. Nothing that breathed remained, and Joshua burned down Hazor itself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H5221\|יַּכּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֨פֶשׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֤]][[H9034\|הּ]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֙רֶב֙]] [[H2763A\|הַֽחֲרֵ֔ם]] [[H3808\|לֹ֥א]] [[H3498\|נוֹתַ֖ר]] [[H3605\|כָּל]][[H9014\|־]] [[H5397\|נְשָׁמָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2674G\|חָצ֖וֹר]] [[H8313\|שָׂרַ֥ף]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic HAZOR|HAZOR]] • [[topic JABIN|JABIN]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.10|<< Joshua 11:10]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.12|Joshua 11:12 >>]]</td></tr></table>
 

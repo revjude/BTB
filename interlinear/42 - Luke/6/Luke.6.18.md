@@ -1,10 +1,57 @@
+---
+title: Luke 6:18
+type: Verse
+kjv: "And they that were vexed with unclean spirits: and they were healed."
+bsb: "They had come to hear Him and to be healed of their diseases, and those troubled by unclean spirits were healed."
+greek: "οἳ ἦλθον ἀκοῦσαι αὐτοῦ καὶ ἰαθῆναι ἀπὸ τῶν νόσων αὐτῶν. καὶ οἱ ἐνοχλούμενοι ἀπὸ πνευμάτων ἀκαθάρτων καὶ ἐθεραπεύοντο."
+pericope: "[[Luke.6.17 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3739]]"
+- "[[G2064]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2390]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3554]]"
+- "[[G1776]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G2323]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 6:18**<big><big>[[Luke.6.17 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that were vexed with unclean spirits: and they were healed.
 <small><sub>**BSB:**</sub></small>
 They had come to hear Him and to be healed of their diseases, and those troubled by unclean spirits were healed.
-<small><sub>**Literal:**</sub></small>
-who came to hear Him and to be healed of the diseases of them. [18] And those being troubled with spirits unclean and were healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.17|<< Luke 6:17]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.19|Luke 6:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἳ]]  [[G2064\|ἦλθον]]  [[G0191\|ἀκοῦσαι]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2390\|ἰαθῆναι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3554\|νόσων]]  [[G0846\|αὐτῶν.]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1776\|ἐνοχλούμενοι]]  [[G0575\|ἀπὸ]]  [[G4151G\|πνευμάτων]]  [[G0169\|ἀκαθάρτων]]  [[G2532\|καὶ]]  [[G2323\|ἐθεραπεύοντο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.17|<< Luke 6:17]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.19|Luke 6:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

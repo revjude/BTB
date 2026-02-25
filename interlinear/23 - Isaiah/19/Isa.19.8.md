@@ -1,8 +1,64 @@
+---
+title: Isaiah 19:8
+type: Verse
+kjv: "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish."
+bsb: "Then the fishermen will mourn, all who cast a hook into the Nile will lament, and those who spread nets on the waters will pine away."
+hebrew: "וְאָנוּ֙ הַדַּיָּגִ֔ים וְאָ֣בְל֔וּ כָּל־ מַשְׁלִיכֵ֥י בַיְא֖וֹר חַכָּ֑ה וּפֹרְשֵׂ֥י מִכְמֹ֛רֶת עַל־ פְּנֵי־ מַ֖יִם אֻמְלָֽלוּ׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic FISH|FISH]]"
+- "[[topic NET|NET]]"
+- "[[topic NILE|NILE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0578]]"
+- "[[H9009]]"
+- "[[H1771]]"
+- "[[H0056]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H2975G]]"
+- "[[H2443]]"
+- "[[H9002]]"
+- "[[H6566]]"
+- "[[H4365B]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4325G]]"
+- "[[H0535]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:8**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.
 <small><sub>**BSB:**</sub></small>
 Then the fishermen will mourn, all who cast a hook into the Nile will lament, and those who spread nets on the waters will pine away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0578\|אָנוּ֙]] [[H9009\|הַ]][[H1771\|דַּיָּגִ֔ים]] [[H9001\|וְ]][[H0056\|אָ֣בְל֔וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H7993\|מַשְׁלִיכֵ֥י]] [[H9003\|בַ]][[H2975G\|יְא֖וֹר]] [[H2443\|חַכָּ֑ה]] [[H9002\|וּ]][[H6566\|פֹרְשֵׂ֥י]] [[H4365B\|מִכְמֹ֛רֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H0535\|אֻמְלָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic FISH|FISH]] • [[topic NET|NET]] • [[topic NILE|NILE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.7|<< Isaiah 19:7]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.9|Isaiah 19:9 >>]]</td></tr></table>
 

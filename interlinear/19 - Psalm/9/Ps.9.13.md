@@ -1,8 +1,56 @@
+---
+title: Psalm 9:13
+type: Verse
+kjv: "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:"
+bsb: "Be merciful to me, O LORD; see how my enemies afflict me! Lift me up from the gates of death,"
+hebrew: "חָֽנְנֵ֬נִי יְהוָ֗ה רְאֵ֣ה עָ֭נְיִי מִשֹּׂנְאָ֑י מְ֝רוֹמְמִ֗י מִשַּׁ֥עֲרֵי מָֽוֶת׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GATES|GATES]]"
+strongs:
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H7200I]]"
+- "[[H6040]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H8130]]"
+- "[[H7311A]]"
+- "[[H8179G]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:13**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have mercy upon me, O LORD; consider my trouble [which I suffer] of them that hate me, thou that liftest me up from the gates of death:
 <small><sub>**BSB:**</sub></small>
 Be merciful to me, O LORD; see how my enemies afflict me! Lift me up from the gates of death,
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|חָֽנְנֵ֬]][[H9030\|נִי]] [[H3068G\|יְהוָ֗ה]] [[H7200I\|רְאֵ֣ה]] [[H6040\|עָ֭נְיִ]][[H9020\|י]] [[H9006\|מִ]][[H8130\|שֹּׂנְאָ֑]][[H9030\|י]] [[H7311A\|מְ֝רוֹמְמִ֗]][[H9030\|י]] [[H9006\|מִ]][[H8179G\|שַּׁ֥עֲרֵי]] [[H4194\|מָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GATES|GATES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.12|<< Psalms 9:12]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.14|Psalms 9:14 >>]]</td></tr></table>
 

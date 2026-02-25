@@ -1,10 +1,57 @@
+---
+title: John 1:17
+type: Verse
+kjv: "For the law was given by Moses, but grace and truth came by Jesus Christ."
+bsb: "For the law was given through Moses; grace and truth came through Jesus Christ."
+greek: "ὅτι ὁ νόμος διὰ Μωϋσέως ἐδόθη, ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.¶"
+pericope: "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1223]]"
+- "[[G3475]]"
+- "[[G1325]]"
+- "[[G5485]]"
+- "[[G2532]]"
+- "[[G0225]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 1:17**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the law was given by Moses, [but] grace and truth came by Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For the law was given through Moses; grace and truth came through Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-For the law through Moses was given, <the> grace and <the> truth through Jesus Christ came.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.16|<< John 1:16]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.18|John 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G1223\|διὰ]]  [[G3475\|Μωϋσέως]]  [[G1325\|ἐδόθη,]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1096\|ἐγένετο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic TRUTH|TRUTH]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.16|<< John 1:16]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.18|John 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

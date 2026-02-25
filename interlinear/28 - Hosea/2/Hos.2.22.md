@@ -1,8 +1,54 @@
+---
+title: Hosea 2:22
+type: Verse
+kjv: "And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel."
+bsb: "And the earth will respond to the grain, to the new wine and oil, and they will respond to Jezreel."
+hebrew: "וְהָאָ֣רֶץ תַּעֲנֶ֔ה אֶת־ הַדָּגָ֖ן וְאֶת־ הַתִּיר֣וֹשׁ וְאֶת־ הַיִּצְהָ֑ר וְהֵ֖ם יַעֲנ֥וּ אֶֽת־ יִזְרְעֶֽאל׃"
+pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H1992]]"
+- "[[H3157H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:22**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.
 <small><sub>**BSB:**</sub></small>
 And the earth will respond to the grain, to the new wine and oil, and they will respond to Jezreel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H6030B\|תַּעֲנֶ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1715\|דָּגָ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3323\|יִּצְהָ֑ר]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H6030B\|יַעֲנ֥וּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3157H\|יִזְרְעֶֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.21|<< Hosea 2:21]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.23|Hosea 2:23 >>]]</td></tr></table>
 
